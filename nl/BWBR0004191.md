@@ -4,7 +4,7 @@ identifier: "BWBR0004191"
 country: "nl"
 rank: "wet"
 publication_date: "2024-10-29"
-last_updated: "2012-07-01"
+last_updated: "2015-11-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0004191"
 soort: "wet"
@@ -52,9 +52,9 @@ In deze wet wordt verstaan onder:
 
 - a. Onze Minister: Onze Minister van Onderwijs, Cultuur en Wetenschap;
 
-- b. organisatie: de organisatie, genoemd in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004191&hoofdstuk=I&artikel=2&z=2012-07-01&g=2012-07-01);
+- b. organisatie: de organisatie, genoemd in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004191&hoofdstuk=I&artikel=2&z=2015-11-01&g=2015-11-01);
 
-- c. reglement: het reglement, bedoeld in [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBR0004191&hoofdstuk=II&paragraaf=5&artikel=16&z=2012-07-01&g=2012-07-01).
+- c. reglement: het reglement, bedoeld in [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBR0004191&hoofdstuk=II&paragraaf=5&artikel=16&z=2015-11-01&g=2015-11-01).
 
 ##### Artikel 2. Nederlandse organisatie voor wetenschappelijk onderzoek (NWO)
 
@@ -80,7 +80,7 @@ In deze wet wordt verstaan onder:
 
 1. Aan het algemeen bestuur behoort de bevoegdheid tot regeling en bestuur van de organisatie.
 
-2. Het algemeen bestuur is, met inachtneming van het instellingsplan, bedoeld in [artikel 18, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004191&hoofdstuk=III&paragraaf=2&artikel=18&z=2012-07-01&g=2012-07-01), en de door Onze Minister goedgekeurde begroting, belast met het toewijzen van middelen ten behoeve van onderzoeksprojecten en onderzoeksprogramma’s.
+2. Het algemeen bestuur is, met inachtneming van het instellingsplan, bedoeld in [artikel 18, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004191&hoofdstuk=III&paragraaf=2&artikel=18&z=2015-11-01&g=2015-11-01), en de door Onze Minister goedgekeurde begroting, belast met het toewijzen van middelen ten behoeve van onderzoeksprojecten en onderzoeksprogramma’s.
 
 ##### Artikel 5. Verantwoordings- en inlichtingenplicht algemeen bestuur
 
@@ -118,7 +118,7 @@ Vervallen
 
 1. Het algemeen bestuur kan voor een wetenschapsgebied een gebiedsbestuur instellen.
 
-2. Onverminderd mandaatverlening aan andere organisaties dan gebiedsbesturen, kan het algemeen bestuur aan een gebiedsbestuur mandaat verlenen om, met inachtneming van door het algemeen bestuur te geven richtlijnen, het instellingsplan, bedoeld in [artikel 18, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004191&hoofdstuk=III&paragraaf=2&artikel=18&z=2012-07-01&g=2012-07-01), en de door Onze Minister goedgekeurde begroting, middelen te verstrekken ten behoeve van onderzoeksprojecten en onderzoeksprogramma’s.
+2. Onverminderd mandaatverlening aan andere organisaties dan gebiedsbesturen, kan het algemeen bestuur aan een gebiedsbestuur mandaat verlenen om, met inachtneming van door het algemeen bestuur te geven richtlijnen, het instellingsplan, bedoeld in [artikel 18, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004191&hoofdstuk=III&paragraaf=2&artikel=18&z=2015-11-01&g=2015-11-01), en de door Onze Minister goedgekeurde begroting, middelen te verstrekken ten behoeve van onderzoeksprojecten en onderzoeksprogramma’s.
 
 3. Een gebiedsbestuur adviseert het algemeen bestuur desgevraagd of uit eigen beweging.
 
@@ -174,7 +174,7 @@ Onverminderd [artikel 11 van de Kaderwet zelfstandige bestuursorganen](https://w
 
 1. Het algemeen bestuur stelt, rekening houdend met voorstellen van de gebiedsbesturen, een instellingsplan vast uiterlijk vier jaar na het tijdstip van vaststelling van het vorige plan. Het algemeen bestuur zendt het plan na vaststelling onverwijld aan Onze Minister.
 
-2. In het instellingsplan wordt tevens rekening gehouden met het wetenschapsbudget, bedoeld in [artikel 16a](https://wetten.overheid.nl/jci1.3:c:BWBR0004191&hoofdstuk=III&paragraaf=1&artikel=16a&z=2012-07-01&g=2012-07-01), de instellingsplannen van universiteiten, verkenningen, rapporten, adviezen en aanbevelingen, een en ander voorzover die naar het oordeel van het algemeen bestuur van belang zijn voor de uitvoering van de taken van de organisatie.
+2. In het instellingsplan wordt tevens rekening gehouden met het wetenschapsbudget, bedoeld in [artikel 16a](https://wetten.overheid.nl/jci1.3:c:BWBR0004191&hoofdstuk=III&paragraaf=1&artikel=16a&z=2015-11-01&g=2015-11-01), de instellingsplannen van universiteiten, verkenningen, rapporten, adviezen en aanbevelingen, een en ander voorzover die naar het oordeel van het algemeen bestuur van belang zijn voor de uitvoering van de taken van de organisatie.
 
 3. Het instellingsplan omvat in elk geval:
 
@@ -212,7 +212,7 @@ Het algemeen bestuur is belast met het doelmatig beheer van de financiën en de 
 
 1. Het algemeen bestuur zendt jaarlijks voor 1 november aan Onze Minister de begroting voor het daaropvolgende jaar.
 
-2. Onverminderd de [artikelen 26 tot en met 30 van de Kaderwet zelfstandige bestuursorganen](https://wetten.overheid.nl/jci1.3:c:BWBR0020495&artikel=26), is in de begroting een allocatie van middelen opgenomen die in overeenstemming is met het instellingsplan, bedoeld in [artikel 18](https://wetten.overheid.nl/jci1.3:c:BWBR0004191&hoofdstuk=III&paragraaf=2&artikel=18&z=2012-07-01&g=2012-07-01). In de begroting wordt rekening gehouden met de voorstellen van de gebiedsbesturen.
+2. Onverminderd de [artikelen 26 tot en met 30 van de Kaderwet zelfstandige bestuursorganen](https://wetten.overheid.nl/jci1.3:c:BWBR0020495&artikel=26), is in de begroting een allocatie van middelen opgenomen die in overeenstemming is met het instellingsplan, bedoeld in [artikel 18](https://wetten.overheid.nl/jci1.3:c:BWBR0004191&hoofdstuk=III&paragraaf=2&artikel=18&z=2015-11-01&g=2015-11-01). In de begroting wordt rekening gehouden met de voorstellen van de gebiedsbesturen.
 
 ##### Artikel 22. Goedkeuring begroting
 
@@ -230,15 +230,15 @@ Vervallen
 
 ##### Artikel 25. Jaarrekening
 
-De goedkeuring, bedoeld in [artikel 34, derde lid, van de Kaderwet zelfstandige bestuursorganen](https://wetten.overheid.nl/jci1.3:c:BWBR0020495&artikel=34), kan tevens worden onthouden op de grond dat de jaarrekening naar het oordeel van Onze Minister niet of niet voldoende in overeenstemming is met het instellingsplan, bedoeld in [artikel 18](https://wetten.overheid.nl/jci1.3:c:BWBR0004191&hoofdstuk=III&paragraaf=2&artikel=18&z=2012-07-01&g=2012-07-01). [Artikel 10:30 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=10:30) is van overeenkomstige toepassing.
+De goedkeuring, bedoeld in [artikel 34, derde lid, van de Kaderwet zelfstandige bestuursorganen](https://wetten.overheid.nl/jci1.3:c:BWBR0020495&artikel=34), kan tevens worden onthouden op de grond dat de jaarrekening naar het oordeel van Onze Minister niet of niet voldoende in overeenstemming is met het instellingsplan, bedoeld in [artikel 18](https://wetten.overheid.nl/jci1.3:c:BWBR0004191&hoofdstuk=III&paragraaf=2&artikel=18&z=2015-11-01&g=2015-11-01). [Artikel 10:30 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=10:30) is van overeenkomstige toepassing.
 
 ##### Artikel 26. Aanvullende eis jaarrekening
 
 Onverminderd [artikel 35 van de Kaderwet zelfstandige bestuursorganen](https://wetten.overheid.nl/jci1.3:c:BWBR0020495&artikel=35) kan Onze Minister, indien uitgaven zijn geschied in strijd met het bepaalde bij of krachtens de wet, dan wel indien werkzaamheden ten behoeve waarvan de rijksbijdrage is verleend, niet behoorlijk zijn uitgevoerd of de rijksbijdrage ondoelmatig is aangewend, bepalen dat de daarmee gemoeide bedragen in mindering worden gebracht op de rijksbijdrage. Hij maakt dit binnen een jaar na ontvangst van de jaarrekening bekend aan het algemeen bestuur.
 
-##### Artikel 27. Voorschriften begroting, jaarverslag en jaarrekening
+##### Artikel 27. Voorschriften begroting, bestuursverslag en jaarrekening
 
-Bij ministeriële regeling kunnen voorschriften worden vastgesteld voor de inrichting van de begroting, het jaarverslag en de jaarrekening.
+Bij ministeriële regeling kunnen voorschriften worden vastgesteld voor de inrichting van de begroting, het bestuursverslag en de jaarrekening.
 
 ### Hoofdstuk IV. Openbaarheid, rechtsbescherming alsmede schorsing en vernietiging van besluiten
 
@@ -358,9 +358,9 @@ Vervallen
 
 #### § 3. Financiële bepalingen
 
-##### Artikel 24. Jaarverslag
+##### Artikel 24. Bestuursverslag
 
-Onverminderd [artikel 18 van de Kaderwet zelfstandige bestuursorganen](https://wetten.overheid.nl/jci1.3:c:BWBR0020495&artikel=18) geeft het jaarverslag aan in hoeverre de doelstellingen uit het instellingsplan, bedoeld in [artikel 18](https://wetten.overheid.nl/jci1.3:c:BWBR0004191&hoofdstuk=III&paragraaf=2&artikel=18&z=2012-07-01&g=2012-07-01), zijn verwezenlijkt.
+Onverminderd [artikel 18 van de Kaderwet zelfstandige bestuursorganen](https://wetten.overheid.nl/jci1.3:c:BWBR0020495&artikel=18) geeft het bestuursverslag aan in hoeverre de doelstellingen uit het instellingsplan, bedoeld in [artikel 18](https://wetten.overheid.nl/jci1.3:c:BWBR0004191&hoofdstuk=III&paragraaf=2&artikel=18&z=2015-11-01&g=2015-11-01), zijn verwezenlijkt.
 
 ### Hoofdstuk IV. Schorsing en vernietiging van besluiten; taakverwaarlozingsregeling
 
