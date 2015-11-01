@@ -4,7 +4,7 @@ identifier: "BWBR0024324"
 country: "nl"
 rank: "amvb"
 publication_date: "2017-01-01"
-last_updated: "2013-07-22"
+last_updated: "2015-11-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0024324"
 soort: "AMvB"
@@ -66,23 +66,23 @@ Voor de toepassing van dit besluit wordt onder een organisatie van openbaar bela
 
 - d. het beoordelen en monitoren van de onafhankelijkheid van de externe accountant of het accountantskantoor, waarbij met name wordt gelet op de verlening van nevendiensten aan de gecontroleerde entiteit.
 
-Tenminste één lid van het orgaan is onafhankelijk in de zin van best practice bepaling III.2.2 van de code als bedoeld in het tweede lid. In het jaarverslag wordt opgave gedaan van het aangewezen orgaan en de samenstelling daarvan.
+Tenminste één lid van het orgaan is onafhankelijk in de zin van best practice bepaling III.2.2 van de code als bedoeld in het tweede lid. In het bestuursverslag wordt opgave gedaan van het aangewezen orgaan en de samenstelling daarvan.
 
 ##### Artikel 3
 
 Dit besluit is niet van toepassing op:
 
-- a. een dochtermaatschappij als bedoeld in [artikel 24a, eerste lid, van boek 2 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=24a) van een rechtspersoon die de in [artikel 2, derde lid, onder a. tot en met d.](https://wetten.overheid.nl/jci1.3:c:BWBR0024324&artikel=2&z=2013-07-22&g=2013-07-22) genoemde taken heeft opgedragen aan een auditcommissie en die de best practice bepaling III.5.7 alsmede de principes V.2 en V.4 van de Nederlandse corporate governance code zoals gepubliceerd in Staatscourant nr. 250 d.d. 27 december 2004 heeft nageleefd en waarvan de samenstelling van de auditcommissie voldoet aan artikel 2, eerste lid en tweede lid, tweede volzin;
+- a. een dochtermaatschappij als bedoeld in [artikel 24a, eerste lid, van boek 2 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=24a) van een rechtspersoon die de in [artikel 2, derde lid, onder a. tot en met d.](https://wetten.overheid.nl/jci1.3:c:BWBR0024324&artikel=2&z=2015-11-01&g=2015-11-01) genoemde taken heeft opgedragen aan een auditcommissie en die de best practice bepaling III.5.7 alsmede de principes V.2 en V.4 van de Nederlandse corporate governance code zoals gepubliceerd in Staatscourant nr. 250 d.d. 27 december 2004 heeft nageleefd en waarvan de samenstelling van de auditcommissie voldoet aan artikel 2, eerste lid en tweede lid, tweede volzin;
 
-- b. een bank waarop een vrijstelling als bedoeld in [artikel 3:111, eerste lid, van de Wet op het financieel toezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:111) van toepassing is indien een centrale kredietinstelling de in [artikel 2, derde lid, onder a. tot en met d.](https://wetten.overheid.nl/jci1.3:c:BWBR0024324&artikel=2&z=2013-07-22&g=2013-07-22) genoemde taken heeft opgedragen aan een auditcommissie en die de best practice bepaling III.5.7 alsmede de principes V.2 en V.4 van de Nederlandse corporate governance code zoals gepubliceerd in Staatscourant nr. 250 d.d. 27 december 2004 heeft nageleefd en waarvan de samenstelling van de auditcommissie voldoet aan artikel 2, eerste lid en tweede lid, tweede volzin;
+- b. een bank waarop een vrijstelling als bedoeld in [artikel 3:111, eerste lid, van de Wet op het financieel toezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:111) van toepassing is indien een centrale kredietinstelling de in [artikel 2, derde lid, onder a. tot en met d.](https://wetten.overheid.nl/jci1.3:c:BWBR0024324&artikel=2&z=2015-11-01&g=2015-11-01) genoemde taken heeft opgedragen aan een auditcommissie en die de best practice bepaling III.5.7 alsmede de principes V.2 en V.4 van de Nederlandse corporate governance code zoals gepubliceerd in Staatscourant nr. 250 d.d. 27 december 2004 heeft nageleefd en waarvan de samenstelling van de auditcommissie voldoet aan artikel 2, eerste lid en tweede lid, tweede volzin;
 
 - c. een beleggingsinstelling of icbe als bedoeld in [artikel 1:1 van de Wet op het financieel toezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=1:1) die is opgenomen in het register als bedoeld in [artikel 1:107 van de Wet op het financieel toezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=1:107);
 
-- d. een entiteit voor securisatiedoeleinden als bedoeld in [artikel 1 van het Besluit prudentiële regels Wft](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&artikel=1), mits de onderneming aan het publiek bekent maakt waarom zij het niet dienstig acht een auditcommissie in te stellen, of een orgaan aan te wijzen in de zin van [artikel 2, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024324&artikel=2&z=2013-07-22&g=2013-07-22).
+- d. een entiteit voor securisatiedoeleinden als bedoeld in [artikel 1 van het Besluit prudentiële regels Wft](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&artikel=1), mits de onderneming aan het publiek bekent maakt waarom zij het niet dienstig acht een auditcommissie in te stellen, of een orgaan aan te wijzen in de zin van [artikel 2, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024324&artikel=2&z=2015-11-01&g=2015-11-01).
 
 ##### Artikel 4
 
-Dit besluit is van toepassing op een jaarverslag dat betrekking heeft op een boekjaar dat aanvangt op of na 1 januari 2008.
+Dit besluit is van toepassing op een bestuursverslag dat betrekking heeft op een boekjaar dat aanvangt op of na 1 januari 2008.
 
 ##### Artikel 5
 
