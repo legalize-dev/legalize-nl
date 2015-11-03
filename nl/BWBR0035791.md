@@ -4,7 +4,7 @@ identifier: "BWBR0035791"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-12-24"
-last_updated: "2014-11-26"
+last_updated: "2015-11-03"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0035791"
 soort: "ministeriele-regeling"
@@ -190,11 +190,11 @@ In [art 3.6 Tw](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&artikel=3.6) is 
 
 ### 5.3. Zonder vergunning, onder voorwaarden
 
-Deze formulering houdt in dat deze ruimte vrij beschikbaar is om te gebruiken, dat wil zeggen, deze banden zijn niet aan een bepaalde gebruikersgroep aangewezen en er is geen verdeling of vergunningverlening aan de orde. Dit verdeelmechanisme wordt doorgaans gebruikt in geval van banden bestemd voor toepassingen met een laag of zeer laag vermogen (en dus minder kans om anderen te storen), bijvoorbeeld short range devices (SRD’s, korteafstandtoepassingen), Ultra Wideband-toepassingen of voor eindapparatuur. ‘Zonder vergunning’ is niet hetzelfde als ‘zonder regels of beperkingen’. De verplichte radio-interfaces voor deze banden zijn gepubliceerd in de [Regeling gebruik van frequentieruimte zonder vergunning 2008](https://wetten.overheid.nl/jci1.3:c:BWBR0023553) wat in de tabel wordt aangeduid met ‘Zonder vergunning, onder voorwaarden’. Ditzelfde is ook eenvoudig na te zoeken in het frequentieregister.
+Deze formulering houdt in dat deze ruimte vrij beschikbaar is om te gebruiken, dat wil zeggen, deze banden zijn niet aan een bepaalde gebruikersgroep aangewezen en er is geen verdeling of vergunningverlening aan de orde. Dit verdeelmechanisme wordt doorgaans gebruikt in geval van banden bestemd voor toepassingen met een laag of zeer laag vermogen (en dus minder kans om anderen te storen), bijvoorbeeld short range devices (SRD’s, korteafstandtoepassingen), Ultra Wideband-toepassingen of voor eindapparatuur. ‘Zonder vergunning’ is niet hetzelfde als ‘zonder regels of beperkingen’. De verplichte radio-interfaces voor deze banden zijn gepubliceerd in de [Regeling gebruik van frequentieruimte zonder vergunning 2008](https://wetten.overheid.nl/jci1.3:c:BWBR0023553&wetgeving) wat in de tabel wordt aangeduid met ‘Zonder vergunning, onder voorwaarden’. Ditzelfde is ook eenvoudig na te zoeken in het frequentieregister.
 
 ### 5.4. Zonder vergunning, onder voorwaarden met meldingsplicht
 
-Voor deze vorm is gekozen wanneer er beperkt risico op interferentie is doch waarbij enige waarborgen zijn vereist. Interferentierisico’s kunnen worden beperkt door van de gebruikers bekwaamheid in het gebruik van radiotechniek te eisen. Radiozendamateurs en marifoon-gebruikers vallen in deze categorie. Deze groepen moeten een examen met goed gevolg hebben afgelegd. Ook kan als eis worden opgelegd dat alvorens men bepaalde frequentiebanden mag gebruiken, men zich moet laten registreren. Ook voor de in deze paragraaf besproken categorieën zijn de betreffende voorschriften gepubliceerd in de [Regeling gebruik van frequentieruimte zonder vergunning 2008](https://wetten.overheid.nl/jci1.3:c:BWBR0023553).
+Voor deze vorm is gekozen wanneer er beperkt risico op interferentie is doch waarbij enige waarborgen zijn vereist. Interferentierisico’s kunnen worden beperkt door van de gebruikers bekwaamheid in het gebruik van radiotechniek te eisen. Radiozendamateurs en marifoon-gebruikers vallen in deze categorie. Deze groepen moeten een examen met goed gevolg hebben afgelegd. Ook kan als eis worden opgelegd dat alvorens men bepaalde frequentiebanden mag gebruiken, men zich moet laten registreren. Ook voor de in deze paragraaf besproken categorieën zijn de betreffende voorschriften gepubliceerd in de [Regeling gebruik van frequentieruimte zonder vergunning 2008](https://wetten.overheid.nl/jci1.3:c:BWBR0023553&wetgeving).
 
 ### 5.5. Vergunningverlening via veiling of vergelijkende toets
 
@@ -276,7 +276,7 @@ Een dergelijke vergunning is niet bedoeld voor het ontplooien van commerciële a
 
 ### 8.2. ‘Ultra Wideband’ (UWB) toepassingen
 
-Ultra Wideband-toepassingen voor radiocommunicatie worden vergunningvrij toegelaten op interferentievrije en onbeschermde basis, zgn. non-interference basis (NIB), voor zover ze voldoen aan de uitgestraalde vermogenslimieten en andere voorwaarden genoemd in de [Regeling gebruik van frequentieruimte zonder vergunning 2008](https://wetten.overheid.nl/jci1.3:c:BWBR0023553).
+Ultra Wideband-toepassingen voor radiocommunicatie worden vergunningvrij toegelaten op interferentievrije en onbeschermde basis, zgn. non-interference basis (NIB), voor zover ze voldoen aan de uitgestraalde vermogenslimieten en andere voorwaarden genoemd in de [Regeling gebruik van frequentieruimte zonder vergunning 2008](https://wetten.overheid.nl/jci1.3:c:BWBR0023553&wetgeving).
 
 ### 8.3. Frequenties voor bezoekende strijdkrachten volgens NJFA
 
@@ -338,7 +338,7 @@ Annex 4 bevat een betekenislijst van gebruikte afkortingen en begrippen.
 
 ### Verdeelmechanisme
 
-‘Verdelen’ wordt hier in de bredere betekenis bedoeld, dus de wijze waarop de band beschikbaar wordt gemaakt. Deze kolom geeft ook aan door wie en/of hoe de band verkregen kan worden. Beschikbaarstelling kan vergunninggebonden zijn of zonder vergunning. ‘Zonder vergunning onder voorwaarden’ betekent dat de [Regeling gebruik van frequentieruimte zonder vergunning 2008](https://wetten.overheid.nl/jci1.3:c:BWBR0023553) dient te worden geraadpleegd.
+‘Verdelen’ wordt hier in de bredere betekenis bedoeld, dus de wijze waarop de band beschikbaar wordt gemaakt. Deze kolom geeft ook aan door wie en/of hoe de band verkregen kan worden. Beschikbaarstelling kan vergunninggebonden zijn of zonder vergunning. ‘Zonder vergunning onder voorwaarden’ betekent dat de [Regeling gebruik van frequentieruimte zonder vergunning 2008](https://wetten.overheid.nl/jci1.3:c:BWBR0023553&wetgeving) dient te worden geraadpleegd.
 
 ‘Aangewezen voor’ houdt in dat de band in de eerste plaats beschikbaar is voor een publieke taak. Hoofdstuk 5 geeft de uitgebreide toelichting bij de verschillende soorten verdeelwijzen.
 
@@ -1160,7 +1160,7 @@ Hieronder treft de lezer de in betekenis van de frequentietabel toegepaste natio
 
 Een nationale voetnoot wordt in het NFP toegepast (tot zover) in de gevallen dat:
 
-Onder strikte voorwaarden medegebruik door SRD voor inductieve systemen op Non Interference Basis. Voorwaarden in [Regeling gebruik van frequentieruimte zonder vergunning](https://wetten.overheid.nl/jci1.3:c:BWBR0023553).
+Onder strikte voorwaarden medegebruik door SRD voor inductieve systemen op Non Interference Basis. Voorwaarden in [Regeling gebruik van frequentieruimte zonder vergunning](https://wetten.overheid.nl/jci1.3:c:BWBR0023553&wetgeving).
 
 Is vervallen m.i.v. NFP2014.
 
@@ -1332,6 +1332,8 @@ Kerktelefonie – Systeem bestemd voor het integraal lokaal audio uitzenden van 
 
 **Omroepdienst:** mediadienst die betrekking heeft op het verzorgen van media-aanbod dat op basis van een chronologisch schema dat is vastgesteld door de instelling die verantwoordelijk is voor het media-aanbod, al dan niet gecodeerd door middel van een omroepzender of een omroepnetwerk wordt verspreid voor gelijktijdige ontvangst door het algemene publiek of een deel daarvan ([Artikel 1.1. Mediawet 2008](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&artikel=1.1)).
 
+**Op afstand bestuurd luchtvaartuig** – luchtvaartuig als bedoeld in de [Wet luchtvaart](https://wetten.overheid.nl/jci1.3:c:BWBR0005555) voor zover deze onbemand is en met een radiocommunicatieverbinding wordt bestuurd en/of voor de communicatie van apparaten aan boord daarvan radiofrequenties worden gebruikt. Een dergelijk luchtvaartuig wordt ook wel ‘drone’ genoemd of RPAS (remotely piloted aircraft system).
+
 **Paging** – Een éénrichtingradiocommunicatiesysteem tussen een basisstation en mobiele of vast opgestelde ontvangers voor het overbrengen van informatie of signalering.
 
 **PLB** – **Personal Locator Beacon** / Apparaat dat door personen kan worden gebruikt om, in dun bevolkte gebieden zonder communicatiemogelijkheden, in geval van een calamiteit een alarmering uit te zenden en opsporing te vereenvoudigen.
@@ -1370,9 +1372,9 @@ Vaste verbindingen worden ook wel straalverbindingen genoemd. Hierbij wordt gebr
 
 **VOR** – **VHF Omnidirectional Radio range** / Navigatiesysteem voor de luchtvaart.
 
-**WRC –** **World Radio Conference**
-
 ### Annex 5, Summary of this Dutch Frequency Plan
+
+This Dutch frequency plan, edition 2014 (NFP2014) is a fully revised decree document of the last National Frequency Plan, edition 2005 (NFP2005). More limited changes of the frequency table have been published, on an average half-yearly basis, as interim changes since the NFP2005.
 
 This Dutch frequency plan, edition 2014 (NFP2014) is a fully revised decree document of the last National Frequency Plan, edition 2005 (NFP2005). More limited changes of the frequency table have been published, on an average half-yearly basis, as interim changes since the NFP2005.
 
@@ -1386,7 +1388,7 @@ This frequency plan mentions, where possible, the English terms and abbreviation
 
 An important new feature of this frequency plan is that frequency use for vital government tasks is assigned on the condition that its use has been justified. This concerns tasks like policing, public order and state security, rescue services, air traffic management, vessel traffic control, defence, public service broadcasting, and scientific use. In the table this is indicated by: ‘Aangewezen voor het ministerie van ...’ The ministries concerned have each produced a spectrum need justification plan (BehoefteOnderbouwingsPlan/BOP).
 
-In case of a licence-free spectrum (‘zonder vergunning’), the Dutch usage restrictions are published in the [Regeling gebruik van frequentieruimte zonder vergunning 2008](https://wetten.overheid.nl/jci1.3:c:BWBR0023553). This decree mirrors, among other parts, ERC Recommendation 70-03, relating to the Use of Short Range Devices (SRD).
+In case of a licence-free spectrum (‘zonder vergunning’), the Dutch usage restrictions are published in the [Regeling gebruik van frequentieruimte zonder vergunning 2008](https://wetten.overheid.nl/jci1.3:c:BWBR0023553&wetgeving). This decree mirrors, among other parts, ERC Recommendation 70-03, relating to the Use of Short Range Devices (SRD).
 
 In Annex 4, indicated by HOL[...], a list is provided of the Dutch national footnotes, with extra information on bands e.g. use conditions, on regionally admitted and restricted use, on coupling with particular other bands, etc.
 
@@ -1437,6 +1439,12 @@ Postbus 20401
 Telefoon (070) 379 89 11
 
 Internet http://www.rijksoverheid.nl/frequentiebeleid
+
+Tegen dit besluit kan degene wiens belang rechtstreeks bij dit besluit is betrokken binnen 6 weken na de dag van dagtekening van deze Staatscourant een gemotiveerd beroepschrift indienen bij de rechtbank Rotterdam, Postbus 50950, 3007 BL, Rotterdam.
+
+**WRC –** **World Radio Conference**
+
+### Annex 5, Summary of this Dutch Frequency Plan
 
 Email: frequenties@minez.nl
 
