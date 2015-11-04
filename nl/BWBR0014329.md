@@ -4,7 +4,7 @@ identifier: "BWBR0014329"
 country: "nl"
 rank: "amvb"
 publication_date: "2025-07-01"
-last_updated: "2014-07-01"
+last_updated: "2015-11-04"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0014329"
 soort: "AMvB"
@@ -60,7 +60,9 @@ Hebben goedgevonden en verstaan:
 
 - c. gebouwen met een onderwijsfunctie: hetgeen daaronder wordt verstaan in [artikel 1.1 van het Bouwbesluit 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0030461&artikel=1.1);
 
-- d. gebouwen met een kantoorfunctie: hetgeen daaronder wordt verstaan in [artikel 1.1 van het Bouwbesluit 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0030461&artikel=1.1).
+- d. gebouwen met een kantoorfunctie: hetgeen daaronder wordt verstaan in [artikel 1.1 van het Bouwbesluit 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0030461&artikel=1.1);
+
+- e. laserinstallatie: laserinstallatie met een lichtintensiteit hoger dan 5 μW/cm2.
 
 2. In dit besluit wordt onder «gebouw» of «woning» tevens verstaan: woonboot.
 
@@ -68,9 +70,9 @@ Hebben goedgevonden en verstaan:
 
 ##### Artikel 1.2.1
 
-1. Het luchthavengebied is het gebied dat als zodanig is aangewezen op de kaart in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0014329&bijlage=1&z=2014-07-01&g=2014-07-01) bij dit besluit.
+1. Het luchthavengebied is het gebied dat als zodanig is aangewezen op de kaart in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0014329&bijlage=1&z=2015-11-04&g=2015-11-04) bij dit besluit.
 
-2. Het beperkingengebied is het gebied dat als zodanig is aangewezen op de kaart in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0014329&bijlage=2&z=2014-07-01&g=2014-07-01) bij dit besluit.
+2. Het beperkingengebied is het gebied dat als zodanig is aangewezen op de kaart in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0014329&bijlage=2&z=2015-11-04&g=2015-11-04) bij dit besluit.
 
 ### Hoofdstuk 2. Regels omtrent de bestemming en het gebruik van de grond
 
@@ -78,43 +80,47 @@ Hebben goedgevonden en verstaan:
 
 ##### Artikel 2.1.1
 
-De gronden die bestemd zijn voor het banenstelsel van de luchthaven zijn als zodanig aangewezen op de kaart in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0014329&bijlage=1&z=2014-07-01&g=2014-07-01) bij dit besluit.
+De gronden die bestemd zijn voor het banenstelsel van de luchthaven zijn als zodanig aangewezen op de kaart in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0014329&bijlage=1&z=2015-11-04&g=2015-11-04) bij dit besluit.
 
 #### § 2.2. Regels binnen het beperkingengebied
 
 ##### Artikel 2.2.1
 
-1. Op de gronden die op de kaarten in bijlage 3A bij dit besluit met nummer 1 zijn aangewezen, zijn geen gebouwen toegestaan, behoudens bestaand gebruik van gebouwen met een kantoorfunctie of van bedrijven.
+1. Op de gronden die op de kaart in [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0014329&bijlage=3&z=2015-11-04&g=2015-11-04) bij dit besluit met nummer 1 zijn aangewezen, zijn geen gebouwen toegestaan, behoudens bestaand gebruik van gebouwen met een kantoorfunctie of van bedrijven.
 
-2. Op de gronden die op de kaarten in bijlage 3A bij dit besluit met nummer 2 zijn aangewezen, zijn geen gebouwen toegestaan, behoudens bestaand gebruik van gebouwen met een kantoorfunctie of van bedrijven.
+2. Op de gronden die op de kaart in [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0014329&bijlage=3&z=2015-11-04&g=2015-11-04) bij dit besluit met nummer 2 zijn aangewezen, zijn geen gebouwen toegestaan, behoudens bestaand gebruik van gebouwen met een kantoorfunctie of van bedrijven.
 
-3. Op de gronden die op de kaarten in bijlage 3B bij dit besluit met nummer 3 zijn aangewezen, zijn geen gebouwen toegestaan, behoudens bestaand gebruik.
+3. Op de gronden die op de kaart in [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0014329&bijlage=3&z=2015-11-04&g=2015-11-04) bij dit besluit met nummer 3 zijn aangewezen, zijn geen gebouwen toegestaan, behoudens bestaand gebruik.
 
-4. Op de gronden die op de kaarten in bijlage 3B bij dit besluit met nummer 4 zijn aangewezen, zijn geen woningen, woonwagens, gebouwen met een onderwijsfunctie of gebouwen met een gezondheidszorgfunctie toegestaan, behoudens bestaand gebruik.
+4. Op de gronden die op de kaart in [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0014329&bijlage=3&z=2015-11-04&g=2015-11-04) bij dit besluit met nummer 4 zijn aangewezen, zijn geen woningen, woonwagens, gebouwen met een onderwijsfunctie of gebouwen met een gezondheidszorgfunctie toegestaan, behoudens bestaand gebruik.
 
-5. Van bestaand gebruik als bedoeld in het eerste tot en met vierde lid, is sprake indien op de datum van inwerkingtreding van dit besluit op de desbetreffende plaats een gebouw rechtmatig aanwezig is en overeenkomstig de bestemming wordt gebruikt, of voor de datum van inwerkingtreding van dit besluit een bouwvergunning is verleend voor dit gebouw op de desbetreffende plaats, mits binnen zes maanden na die datum een begin met de werkzaamheden is gemaakt.
+5. Van bestaand gebruik als bedoeld in het eerste tot en met vierde lid, is sprake indien op 20 februari 2003 op de desbetreffende plaats een gebouw rechtmatig aanwezig is en overeenkomstig de bestemming wordt gebruikt, of voor 20 februari 2003 een bouwvergunning is verleend voor dit gebouw op de desbetreffende plaats, mits binnen zes maanden na die datum een begin met de werkzaamheden is gemaakt.
 
-6. Ten aanzien van degene die op de datum van inwerkingtreding van dit besluit rechtmatig gebruiker is van een woning of een woonwagen op de gronden die op de kaarten in bijlage 3A van dit besluit met de nummers 1 en 2 zijn aangewezen, kan indien sprake is van bestaand gebruik als bedoeld in het vijfde lid, beëindiging van dit gebruik niet worden gevergd.
+6. Ten aanzien van degene die op 20 februari 2003 rechtmatig gebruiker is van een woning of een woonwagen op de gronden die op de kaart in [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0014329&bijlage=3&z=2015-11-04&g=2015-11-04) van dit besluit met de nummers 1 en 2 zijn aangewezen, kan indien sprake is van bestaand gebruik als bedoeld in het vijfde lid, beëindiging van dit gebruik niet worden gevergd.
 
 7. In afwijking van het eerste tot en met vierde lid, zijn daarin bedoelde gebouwen eveneens toegestaan voor zover dit in overeenstemming is met een verklaring van geen bezwaar als bedoeld in [artikel 8.9 van de wet](onbekend).
 
 ##### Artikel 2.2.2
 
-1. Op de gronden die zijn aangewezen op de kaarten in [bijlage 4](https://wetten.overheid.nl/jci1.3:c:BWBR0014329&bijlage=4&z=2014-07-01&g=2014-07-01) bij dit besluit zijn geen objecten toegestaan die hoger zijn dan de in die bijlage aangegeven maximale waarden.
+1. Op de gronden die zijn aangewezen op de kaart in [bijlage 4](https://wetten.overheid.nl/jci1.3:c:BWBR0014329&bijlage=4&z=2015-11-04&g=2015-11-04) bij dit besluit zijn geen objecten toegestaan die hoger zijn dan de in die bijlage aangegeven maximale waarden.
 
-2. In afwijking van het eerste lid is een object dat hoger is dan de desbetreffende maximale waarde toegestaan indien:
+2. Op de gronden die zijn aangewezen op de kaart in [bijlage 4](https://wetten.overheid.nl/jci1.3:c:BWBR0014329&bijlage=4&z=2015-11-04&g=2015-11-04) bij dit besluit zijn geen bomen of struiken toegestaan die hoger zijn dan de in die bijlage aangegeven maximale waarden indien de Inspectie Leefomgeving en Transport op schriftelijk verzoek van de exploitant van de luchthaven Schiphol of Luchtverkeersleiding Nederland beoordeelt dat deze een belemmering vormen voor de veiligheid van het luchtverkeer.
 
-- a. het object opgericht of geplaatst is overeenkomstig een bouwvergunning of een aanlegvergunning of voor het object een dergelijke vergunning is verleend en
+3. In afwijking van het eerste lid is een object hoger dan de desbetreffende maximale waarde toegestaan indien:
 
-- b. de vergunning is verleend voor de datum van inwerkingtreding van dit besluit.
+- a. het object opgericht of geplaatst is overeenkomstig een bouwvergunning of een aanlegvergunning dan wel een omgevingsvergunning, of voor het object een dergelijke vergunning is verleend en de vergunning is verleend voor 1 januari 2015, mits binnen twee jaar na die datum een begin met de werkzaamheden is gemaakt, of
 
-3. In afwijking van het eerste lid is een object dat hoger is dan de desbetreffende maximale waarde eveneens toegestaan voor zover dit in overeenstemming is met een verklaring van geen bezwaar als bedoeld in [artikel 8.9 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&artikel=8.9).
+- b. het betreft herbouw, verbouw of vervangende nieuwbouw van objecten als bedoeld onder a, mits de hoogte en het totale volume van het oorspronkelijke object niet worden overschreden.
 
-4. Op de in het eerste lid bedoelde gronden is het verboden zonder of in afwijking van een omgevingsvergunning werken, geen bouwwerken zijnde, of werkzaamheden uit te voeren, voor zover deze werken of werkzaamheden reiken tot een hoogte boven de in dat lid bedoelde maximale waarden.
+4. In afwijking van het eerste lid is een object dat hoger is dan de desbetreffende maximale waarde eveneens toegestaan voor zover dit in overeenstemming is met een verklaring van geen bezwaar als bedoeld in [artikel 8.9 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&artikel=8.9).
+
+5. In afwijking van het eerste lid is een object dat hoger is dan de desbetreffende maximale waarde eveneens toegestaan indien dit onderdeel is van een plan genoemd in de bij dit besluit gevoegde [bijlage 7](https://wetten.overheid.nl/jci1.3:c:BWBR0014329&bijlage=7&z=2015-11-04&g=2015-11-04).
+
+6. Op de in het eerste lid bedoelde gronden is het verboden zonder of in afwijking van een omgevingsvergunning werken, geen bouwwerken zijnde, of werkzaamheden uit te voeren, voor zover deze werken of werkzaamheden reiken tot een hoogte boven de in dat lid bedoelde maximale waarden.
 
 ##### Artikel 2.2.3
 
-1. Op de gronden die zijn aangewezen op de kaart in [bijlage 5](https://wetten.overheid.nl/jci1.3:c:BWBR0014329&bijlage=5&z=2014-07-01&g=2014-07-01) bij dit besluit is een grondgebruik of een bestemming binnen de volgende categorieën niet toegestaan:
+1. Op de gronden die zijn aangewezen op de kaart in [bijlage 5](https://wetten.overheid.nl/jci1.3:c:BWBR0014329&bijlage=5&z=2015-11-04&g=2015-11-04) bij dit besluit is een grondgebruik of een bestemming binnen de volgende categorieën niet toegestaan:
 
 - a. industrie in de voedingssector met extramurale opslag of overslag;
 
@@ -126,7 +132,7 @@ De gronden die bestemd zijn voor het banenstelsel van de luchthaven zijn als zod
 
 - e. moerasgebieden en oppervlaktewateren groter dan 3 hectare.
 
-2. In afwijking van het eerste lid is dit grondgebruik of deze bestemming toegestaan voor zover dit gebruik of deze bestemming rechtmatig is op de datum van inwerkingtreding van dit besluit.
+2. In afwijking van het eerste lid is dit grondgebruik of deze bestemming toegestaan voor zover dit gebruik of deze bestemming rechtmatig is op 20 februari 2003.
 
 3. In afwijking van het eerste lid is dit grondgebruik of deze bestemming eveneens toegestaan voor zover dit in overeenstemming is met een verklaring van geen bezwaar als bedoeld in [artikel 8.9 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&artikel=8.9).
 
@@ -134,11 +140,9 @@ De gronden die bestemd zijn voor het banenstelsel van de luchthaven zijn als zod
 
 ##### Artikel 3.1
 
-1. Uiterlijk drie jaren na de inwerkingtreding van dit besluit wordt door Onze Minister van Verkeer en Waterstaat een milieueffectrapport opgesteld.
+1. Het recht zoals dat gold onmiddellijk voor de inwerkingtreding van het Besluit tot wijziging van het Luchthavenindelingbesluit Schiphol in verband met wijziging van het beperkingengebied en de regels met het oog op de vliegveiligheid blijft van toepassing ten aanzien van een verklaring van geen bezwaar als bedoeld in [artikel 8.9 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&artikel=8.9) waarvan de aanvraag is ingediend voor dat tijdstip.
 
-2. Het rapport is gericht op een vergelijking van het beschermingsniveau, zoals dat wordt geboden door dit besluit, met het beschermingsniveau zoals dat voor de inwerkingtreding van [artikel VI van de wet van 27 juni 2002 houdende wijziging van de Wet luchtvaart inzake de inrichting en het gebruik van de luchthaven Schiphol (Stb. 374)](onbekend) ten aanzien van het vijfbanenstelsel is beschreven in de PKB Schiphol en Omgeving. [Artikel IX van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0013815&artikel=IX) wordt hierbij in acht genomen.
-
-3. Voor zover uit het rapport blijkt dat bij de vaststelling van dit besluit het bepaalde in de [artikelen X tot en met XIII van de wet van 27 juni 2002 houdende wijziging van de Wet luchtvaart inzake de inrichting en het gebruik van de luchthaven Schiphol (Stb. 374)](https://wetten.overheid.nl/jci1.3:c:BWBR0013815&artikel=X) niet in acht is genomen, bevordert Onze Minister van Verkeer en Waterstaat in overeenstemming met Onze Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer dat zulks alsnog geschiedt.
+2. Onze Minister van Infrastructuur en Milieu voert uiterlijk drie jaar na het in het eerste lid bedoelde tijdstip een evaluatie uit van de doeltreffendheid en doelmatigheid van [artikel 2.2.2a](https://wetten.overheid.nl/jci1.3:c:BWBR0014329&hoofdstuk=2&paragraaf=2.2&artikel=2.2.2a&z=2015-11-04&g=2015-11-04) in de praktijk.
 
 ##### Artikel 3.2
 
@@ -152,14 +156,150 @@ Dit besluit wordt aangehaald als: Luchthavenindelingbesluit Schiphol.
 
 ## Bijlage 2
 
+## Bijlage 1
+
+## Bijlage 2
+
 ## Bijlage 3
 
 ## Bijlage 4
 
-## Bijlage 5
-
-## Bijlage 5
+Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
+
+##### Artikel 2.2.2a
+
+1. Op de gronden die zijn aangewezen op de kaart in [bijlage 4A](https://wetten.overheid.nl/jci1.3:c:BWBR0014329&bijlage=4a&z=2015-11-04&g=2015-11-04) bij dit besluit zijn objecten die hoger zijn dan de in die bijlage aangegeven maximale waarde toegestaan mits uit een advies van de Inspectie Leefomgeving en Transport blijkt dat het object geen belemmering vormt voor het functioneren van radarapparatuur met het oog op veilig luchtverkeer.
+
+2. Op de gronden die zijn aangewezen op de kaart in [bijlage 4A](https://wetten.overheid.nl/jci1.3:c:BWBR0014329&bijlage=4a&z=2015-11-04&g=2015-11-04) bij dit besluit zijn geen bomen of struiken toegestaan die hoger zijn dan de in die bijlage aangegeven maximale waarden indien de Inspectie Leefomgeving en Transport op schriftelijk verzoek van de exploitant van de luchthaven Schiphol of Luchtverkeersleiding Nederland beoordeelt dat deze een belemmering vormen voor het functioneren van radarapparatuur met het oog op veilig luchtverkeer.
+
+3. In afwijking van het eerste lid is een object dat hoger is dan de desbetreffende maximale waarde toegestaan indien:
+
+- a. het object opgericht of geplaatst is overeenkomstig een bouwvergunning of een aanlegvergunning dan wel een omgevingsvergunning, of voor het object een dergelijke vergunning is verleend en de vergunning is verleend voor 1 januari 2015, mits binnen twee jaar na die datum een begin met de werkzaamheden is gemaakt, of
+
+- b. het betreft herbouw, verbouw of vervangende nieuwbouw van objecten als bedoeld onder a, mits de hoogte en het totale volume van het oorspronkelijke object niet wordt overschreden.
+
+4. In afwijking van het eerste lid is een object dat hoger is dan de desbetreffende maximale waarde eveneens toegestaan indien dit onderdeel is van een plan genoemd in:
+
+- a. de bij dit besluit gevoegde [bijlage 8](https://wetten.overheid.nl/jci1.3:c:BWBR0014329&bijlage=8&z=2015-11-04&g=2015-11-04);
+
+- b. de bij dit besluit gevoegde [bijlage 8a](https://wetten.overheid.nl/jci1.3:c:BWBR0014329&bijlage=8a&z=2015-11-04&g=2015-11-04), onder de in die bijlage genoemde voorwaarde.
+
+5. Op de in het eerste lid bedoelde gronden is het verboden zonder of in afwijking van een omgevingsvergunning werken, geen bouwwerken zijnde, of werkzaamheden uit te voeren, voor zover deze werken of werkzaamheden reiken tot een hoogte boven de in dat lid bedoelde maximale waarden.
+
+##### Artikel 2.2.4
+
+1. Op de gronden die zijn aangewezen op de kaart in [bijlage 6](https://wetten.overheid.nl/jci1.3:c:BWBR0014329&bijlage=6&z=2015-11-04&g=2015-11-04) bij dit besluit is geen vaste laserinstallatie toegestaan en geen windturbine die met de tiphoogte steekt door een vlak met een maatgevende toetshoogte zoals opgenomen in de in [bijlage 4](https://wetten.overheid.nl/jci1.3:c:BWBR0014329&bijlage=4&z=2015-11-04&g=2015-11-04) opgenomen kaart, met een ashoogte van meer dan 35 meter, of in geval van plaatsing op een gebouw, met een tiphoogte van meer dan 5 meter dan wel meer dan 35 meter voor gebouw en tiphoogte tezamen.
+
+2. Op de gronden die zijn aangewezen op de kaart in [bijlage 6](https://wetten.overheid.nl/jci1.3:c:BWBR0014329&bijlage=6&z=2015-11-04&g=2015-11-04) bij dit besluit, is een windturbine toegestaan die met de tiphoogte steekt door het vlak met de toetshoogte voor radar zoals opgenomen in de in [bijlage 4A](https://wetten.overheid.nl/jci1.3:c:BWBR0014329&bijlage=4a&z=2015-11-04&g=2015-11-04) opgenomen kaart mits uit een advies van de Inspectie Leefomgeving en Transport blijkt dat de windturbine geen belemmering vormt voor het functioneren van radarapparatuur met het oog op veilig luchtverkeer.
+
+3. In afwijking van het eerste lid en tweede lid is een vaste laserinstallatie of een windturbine, bedoeld in die leden, toegestaan voor zover:
+
+- a. deze rechtmatig aanwezig is op 1 januari 2015 of daarvoor voor 1 januari 2015 een bouwvergunning of een omgevingsvergunning is verleend, mits binnen twee jaar na die datum een begin met de werkzaamheden is gemaakt, of
+
+- b. het betreft vervanging door een nieuwe windturbine met gelijkblijvende of lagere hoogtes en met gelijkblijvende of verminderde verstoring van het radarbeeld.
+
+4. In afwijking van het eerste lid is een vaste laserinstallatie of een windturbine, bedoeld in dat lid, toegestaan voor zover dit in overeenstemming is met een verklaring van geen bezwaar als bedoeld in [artikel 8.9 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&artikel=8.9).
+
+### Hoofdstuk 3. Slotbepalingen
+
+## Bijlage 4a
+
+## Bijlage 5
+
+## Bijlage 6
+
+## Bijlage 7. bij [artikel 2.2.2, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014329&hoofdstuk=2&paragraaf=2.2&artikel=2.2.2&z=2015-11-04&g=2015-11-04)
+
+De volgende plannen zoals beschreven in het rapport «**Beschrijving bouw- en bestemmingsplannen**» (Ministerie IenM, Den Haag, mei 2015) worden uitgezonderd van [artikel 2.2.2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014329&hoofdstuk=2&paragraaf=2.2&artikel=2.2.2&z=2015-11-04&g=2015-11-04):
+
+- –. Amsterdam Nieuw West – Nieuwe Meer, Adam Smithplein / Joseph Schumpeterstraat;
+
+- –. Amsterdam Nieuw West – Stationslocatie Lelylaan;
+
+- –. Amsterdam Sloterdijk – Teleport, gebouwen 1 t/m 6;
+
+- –. Amsterdam Zuid – Zuidas, Hoogbouwkader;
+
+- –. Haarlemmermeer Hoofddorp Centrum, Apriscoterrein;
+
+- –. Haarlemmermeer Badhoevedorp Centrum, Veldpost;
+
+- –. Haarlemmermeer – Beukenhorst Zuid;
+
+- –. Haarlemmermeer – Schiphol Tradepark.
+
+De volgende plannen zoals beschreven in het rapport «**Beschrijving bouw- en bestemmingsplannen**» (Ministerie IenM, Den Haag, mei 2015) worden uitgezonderd van [artikel 2.2.2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014329&hoofdstuk=2&paragraaf=2.2&artikel=2.2.2&z=2015-11-04&g=2015-11-04), waarbij de voorwaarde geldt dat voorafgaand aan het verstrekken van de omgevingsvergunning de gemeente het concrete ontwerp van het bouwwerk samen met een windhinderonderzoek overlegd aan de Inspectie Leefomgeving en Transport (ILT), op basis waarvan de ILT moet kunnen constateren dat het ontwerp niet aangepast hoeft te worden vanwege onveilige windhinder voor vliegtuigen:
+
+- –. Haarlemmermeer – Badhoevedorp Zuid;
+
+- –. Haarlemmermeer – De Hoeken;
+
+- –. Haarlemmermeer – Fokker Logistics Park;
+
+- –. Haarlemmermeer – Corneliahoeve;
+
+- –. Haarlemmermeer – Hoofddorp Beukenhorst Oost oost;
+
+- –. Haarlemmermeer – Schiphol Logistics Park;
+
+- –. Haarlemmermeer – De Groene Hoek.
+
+## Bijlage 8. bij [artikel 2.2.2a, vierde lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0014329&hoofdstuk=2&paragraaf=2.2&artikel=2.2.2a&z=2015-11-04&g=2015-11-04)
+
+De volgende plannen zoals beschreven in het rapport «**Beschrijving bouw- en bestemmingsplannen**» (Ministerie IenM, Den Haag, mei 2015) worden uitgezonderd van [artikel 2.2.2a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014329&hoofdstuk=2&paragraaf=2.2&artikel=2.2.2a&z=2015-11-04&g=2015-11-04):
+
+- –. Amsterdam Nieuw West – August Allebeplein (blok 1);
+
+- –. Amsterdam Nieuw West – Nieuwe Meer, Adam Smithplein / Joseph Schumpeterstraat;
+
+- –. Amsterdam Zuid – Olympic Towers;
+
+- –. Haarlemmermeer – Beukenhorst Zuid;
+
+- –. Haarlemmermeer – Badhoevedorp Zuid;
+
+- –. Haarlemmermeer – De Hoeken;
+
+- –. Haarlemmermeer – Corneliahoeve;
+
+- –. Haarlemmermeer – Hoofddorp Beukenhorst Oost oost;
+
+- –. Haarlemmermeer – De Groene Hoek.
+
+## Bijlage 8a. bij [artikel 2.2.2a, vierde lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0014329&hoofdstuk=2&paragraaf=2.2&artikel=2.2.2a&z=2015-11-04&g=2015-11-04)
+
+De volgende plannen zoals beschreven in het rapport «**Beschrijving bouw- en bestemmingsplannen**» (Ministerie IenM, Den Haag, mei 2015) worden uitgezonderd van [artikel 2.2.2a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014329&hoofdstuk=2&paragraaf=2.2&artikel=2.2.2a&z=2015-11-04&g=2015-11-04), onder de voorwaarde dat zeker is gesteld dat de radar bij Soesterberg operationeel wordt voor de civiele luchtvaart:
+
+- –. Amsterdam Nieuw West – Stationslocatie Lelylaan;
+
+- –. Amsterdam Noord – Overhoeks, gebouwen 1 t/m 5;
+
+- –. Amsterdam Noord – Toren Overhoeks;
+
+- –. Amsterdam Noord – Buiksloterham, kavels 7 en 8;
+
+- –. Amsterdam Noord – NDSM-West;
+
+- –. Amsterdam Oost – Amsteltower;
+
+- –. Amsterdam Oost – Kop Weespertrekvaart, woontoren Stadsblok;
+
+- –. Amsterdam Oost – Amstelkwartier, woontoren kavels 1 en 2B en hotel kavel 3C;
+
+- –. Amsterdam Oost – Amstelkwartier 2de fase, Ooststrook;
+
+- –. Amsterdam Oost – J. Muyskenweg 12–14;
+
+- –. Amsterdam Oost – Ronetteterrein, hotel;
+
+- –. Amsterdam Oost – Bedrijventerrein Overamstel, gemengd 2 en hotel Lingotto;
+
+- –. Amsterdam Sloterdijk – Teleport, gebouwen 1 t/m 6;
+
+- –. Amsterdam West – Houthaven, Pontsteigergebouw;
+
+- –. Amsterdam Zuid – Zuidas, Hoogbouwkader.
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
