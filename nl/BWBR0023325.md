@@ -4,7 +4,7 @@ identifier: "BWBR0023325"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2015-11-04"
-last_updated: "2008-01-01"
+last_updated: "2015-11-04"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0023325"
 soort: "ministeriele-regeling"
@@ -40,6 +40,8 @@ Gelet op [artikel 26a van het Besluit buitengewoon opsporingsambtenaar](https://
 
 Besluit:
 
+De datum van inwerkingtreding ligt voor de datum van uitgifte.
+
 ##### Artikel 1
 
 Het landelijk insigne voor de buitengewoon opsporingsambtenaar kent twee verschijningsvormen, te weten een insigne/embleem van metaal en een insigne/badge van stof.
@@ -59,5 +61,15 @@ Dit besluit treedt in werking met ingang van 1 januari 2008
 ##### Artikel 5
 
 Dit besluit wordt aangehaald als: ‘Besluit vaststelling model landelijk insigne buitengewoon opsporingsambtenaar’.
+
+Dit besluit zal met de toelichting in de Staatscourant worden geplaatst.
+
+##### Artikel 4a
+
+1. De Staat der Nederlanden (Ministerie van Veiligheid en Justitie) maakt ten aanzien van het auteursrecht op het in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0023325&artikel=2&z=2015-11-04&g=2015-11-04) en [3](https://wetten.overheid.nl/jci1.3:c:BWBR0023325&artikel=3&z=2015-11-04&g=2015-11-04) van dit besluit omschreven insigne een voorbehoud als bedoeld in [artikel 15b van de Auteurswet](https://wetten.overheid.nl/jci1.3:c:BWBR0001886&artikel=15b).
+
+2. Een afbeelding van het insigne zoals geregistreerd bij het Benelux Merkenbureau onder inschrijvingsnummer 0817662 wordt als bijlage bij deze regeling opgenomen.
+
+## Bijlage
 
 Dit besluit zal met de toelichting in de Staatscourant worden geplaatst.
