@@ -4,7 +4,7 @@ identifier: "BWBR0012538"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-01-01"
-last_updated: "2014-12-12"
+last_updated: "2015-11-07"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0012538"
 soort: "ministeriele-regeling"
@@ -64,21 +64,21 @@ In deze regeling wordt verstaan onder:
 
 1. Voor het uitvoeren van een IFR-vlucht in het vluchtinformatiegebied Amsterdam is een luchtvaartuig uitgerust met:
 
-- a. een VHF-zend/ontvanginstallatie met een kanaalafstand van 25kHz, geschikt voor omgevingen waar offset-carrier technieken worden toegepast, waarmee een voortdurende tweezijdige radioverbinding kan worden onderhouden met de betrokken verleners van luchtverkeersdiensten op de daartoe bestemde frequenties zoals gepubliceerd in de luchtvaartgids;
+- a. een VHF-zend/ontvangstinstallatie die voldoet aan de eisen, bedoeld in artikel 5, eerste, tweede en vierde lid, van Verordening (EU) nr. 1079/2012;
 
-- b. een VHF-zend/ontvanginstallatie met een kanaalafstand van 8,33kHz indien IFR-vluchten boven vliegniveau 195 worden uitgevoerd;
+- b. navigatieboordapparatuur waarmee de vlucht kan worden uitgevoerd volgens het operationeel vliegplan waarbij gebruik gemaakt wordt van luchtverkeersroutes en -procedures vastgesteld door de Minister, die voldoet aan de eisen gesteld in bijlage 10, boek I (Radio Navigation Aids), van het Verdrag inzake de internationale burgerluchtvaart;
 
-- c. navigatieboordapparatuur waarmee de vlucht kan worden uitgevoerd volgens het operationeel vliegplan waarbij gebruik gemaakt wordt van luchtverkeersroutes en -procedures vastgesteld door de Minister, die voldoet aan de eisen gesteld in bijlage 10, boek I, van het Verdrag inzake de internationale burgerluchtvaart;
+- c. een SSR-transponder met mode S/ELS, die voldoet aan de eisen, bedoeld in bijlage 10, boek IV (Surveillance Radar and Collision Avoidance Systems) van het Verdrag inzake de internationale burgerluchtvaart, en
 
-- d. een SSR-transponder met mode S/ELS, die voldoet aan de eisen, bedoeld in bijlage 10, boek IV (Surveillance Radar and Collision Avoidance Systems) van het Verdrag inzake de internationale burgerluchtvaart, en
+- d. een SSR transponder met Mode S/EHS, die voldoet aan de eisen, bedoeld in bijlage 10, boek IV (Surveillance Radar and Collision Avoidance Systems) van het Verdrag inzake de internationale burgerluchtvaart, voor het uitvoeren van vluchten als GAT op vliegniveau 245 of hoger, met een luchtvaartuig met een maximum toegelaten startmassa boven 5700 kg, of een maximum ware luchtsnelheid tijdens de kruisvlucht van meer dan 250 knopen.
 
-- e. een SSR transponder met Mode S/EHS, die voldoet aan de eisen, bedoeld in bijlage 10, boek IV (Surveillance Radar and Collision Avoidance Systems) van het Verdrag inzake de internationale burgerluchtvaart, voor het uitvoeren van vluchten als GAT op vliegniveau 245 of hoger, met een luchtvaartuig met een maximum toegelaten startmassa boven 5700 kg, of een maximum ware luchtsnelheid tijdens de kruisvlucht van meer dan 250 knopen.
+2. Onverminderd het bepaalde in het eerste lid, onderdeel a, is artikel 9, eerste tot en met het elfde lid, van de Verordening (EU) nr. 1079/2012, van toepassing op staatsluchtvaartuigen.
 
-2. Het eerste lid, onderdelen a, b, c, d, en e, is niet van toepassing voor staatsluchtvaartuigen, indien deze beschikken over een UHF-zend/ontvangstinstallatie en beschikken over een systeem met een gelijkwaardig veiligheidsniveau als de systemen genoemd in de onderdelen c, d en e.
+3. Het eerste lid, onderdelen b, c en d, zijn niet van toepassing op staatsluchtvaartuigen, indien deze beschikken over een systeem met een gelijkwaardig veiligheidsniveau als de in die onderdelen genoemde systemen.
 
-3. Voor het volgen van een luchtverkeersroute op vliegniveau 100 en hoger is een luchtvaartuig niet zijnde een staatsluchtvaartuig uitgerust met een installatie die het mogelijk maakt om met RNAV luchtverkeersroutes te vliegen met een afwijking van ten hoogste 5 zeemijlen tijdens ten minste 95% van de vliegtijd en die is toegelaten op basis van JAA Advisory Circular Joint 20X4 ‘Airworthiness Approval and Operational Criteria for the use of Navigation Systems in European Airspace Designated for Basic RNAV Operations’.
+4. Voor het volgen van een luchtverkeersroute op vliegniveau 100 en hoger is een luchtvaartuig niet zijnde een staatsluchtvaartuig uitgerust met een installatie die het mogelijk maakt om met RNAV luchtverkeersroutes te vliegen met een afwijking van ten hoogste 5 zeemijlen tijdens ten minste 95% van de vliegtijd en die is toegelaten op basis van JAA Advisory Circular Joint 20X4 ‘Airworthiness Approval and Operational Criteria for the use of Navigation Systems in European Airspace Designated for Basic RNAV Operations’.
 
-4. Voor het naderen en vertrekken van de luchthaven Schiphol is een luchtvaartuig, niet zijnde een helikopter of een staatsluchtvaartuig, dat navigeert op basis van instrumenten uitgerust met een installatie die het mogelijk maakt om met RNAV naderings- en vertrekroutes in het naderingsgebied van Schiphol te vliegen met een afwijking van ten hoogste één zeemijl tijdens ten minste 95 procent van de vliegtijd en die is toegelaten op basis van de eisen van Temporary Guidance Leaflet 10 ‘AIRWORTHINESS AND OPERATIONAL APPROVAL FOR PRECISION RNAV OPERATIONS IN DESIGNATED EUROPEAN AIRSPACE’ van de Joint Aviation Authorities of vergelijkbaar en gecertificeerd is door de nationale bevoegde autoriteit.
+5. Voor het naderen en vertrekken van de luchthaven Schiphol is een luchtvaartuig, niet zijnde een helikopter of een staatsluchtvaartuig, dat navigeert op basis van instrumenten uitgerust met een installatie die het mogelijk maakt om met RNAV naderings- en vertrekroutes in het naderingsgebied van Schiphol te vliegen met een afwijking van ten hoogste één zeemijl tijdens ten minste 95 procent van de vliegtijd en die is toegelaten op basis van de eisen van Temporary Guidance Leaflet 10 ‘AIRWORTHINESS AND OPERATIONAL APPROVAL FOR PRECISION RNAV OPERATIONS IN DESIGNATED EUROPEAN AIRSPACE’ van de Joint Aviation Authorities of vergelijkbaar en gecertificeerd is door de nationale bevoegde autoriteit.
 
 ##### Artikel 4
 
@@ -96,7 +96,7 @@ Voor het uitvoeren van een IFR-vlucht in het RVSM-luchtruim in het vluchtinforma
 
 1. Voor het uitvoeren van een VFR-vlucht in het vluchtinformatiegebied Amsterdam, behalve in gebieden met de classificatie G beneden 1200 voet AMSL buiten de NSA Amsterdam, is een luchtvaartuig uitgerust met een SSR-transponder met mode S/ELS, die voldoet aan de eisen bedoeld in bijlage 10, Boek IV (Surveillance Radar and Collision Avoidance Systems) van het Verdrag inzake de internationale burgerluchtvaart.
 
-2. Het eerste lid is niet van toepassing op een zweefvliegtuig, zeilvliegtuig, schermvliegtuig of ballon tenzij een zweefvliegtuig, zeilvliegtuig, schermvliegtuig of ballon zich bevindt in de door de Minister in overeenstemming met de Minister van Defensie voor transpondergebruik aangewezen bijzondere luchtverkeersgebieden als bedoeld in de [Regeling luchtverkeersdienstverlening](https://wetten.overheid.nl/jci1.3:c:BWBR0009899).
+2. Het eerste lid is niet van toepassing op een zweefvliegtuig, zeilvliegtuig, schermvliegtuig of ballon tenzij een zweefvliegtuig, zeilvliegtuig, schermvliegtuig of ballon zich bevindt in de door de Minister in overeenstemming met de Minister van Defensie voor transpondergebruik aangewezen luchtverkeersgebieden en tijdelijke gebieden met beperkingen als bedoeld in [artikel 9 van het Besluit luchtverkeer 2014](https://wetten.overheid.nl/jci1.3:c:BWBR0035899&artikel=9).
 
 #### Gebruik van transponders
 
@@ -104,7 +104,11 @@ Voor het uitvoeren van een IFR-vlucht in het RVSM-luchtruim in het vluchtinforma
 
 Voor het uitvoeren van een vlucht in het vluchtinformatiegebied Amsterdam wordt een SSR-transponder als volgt gebruikt:
 
-- a. wanneer het luchtvaartuig is voorzien van een bruikbare SSR-transponder schakelt de gezagvoerder deze in gedurende de gehele vlucht ongeacht of het luchtvaartuig zich binnen luchtruim bevindt waar de SSR-transponder is voorgeschreven voor luchtverkeersleidingsdoeleinden;
+- a. wanneer het luchtvaartuig is voorzien van een bruikbare SSR-transponder schakelt de gezagvoerder deze in gedurende de gehele vlucht ongeacht of het luchtvaartuig zich binnen luchtruim bevindt waar de SSR-transponder is voorgeschreven voor luchtverkeersleidingsdoeleinden, met dien verstande dat deze verplichting niet geldt voor gezagsvoerders van militaire straalvliegtuigen behorende tot de Nederlandse krijgsmacht, mits:
+
+- 1°. de vlucht wordt uitgevoerd in de gebieden, genoemd in [artikel 2, vierde lid, onderdelen c tot en met e en h tot en met z, van de Regeling beperking en verbod uitoefening burgerluchtverkeer in bepaalde gebieden 2014](https://wetten.overheid.nl/jci1.3:c:BWBR0034883&artikel=2);
+
+- 2°. deze gezagsvoerders, na daartoe opdracht te hebben gekregen van de luchtverkeers- of gevechtsleiding voorafgaand aan de uitvoering van vluchten in de onder 1° bedoelde gebieden, de SSR-transponder in mode 3/A in werking hebben gesteld;
 
 - b. behalve in geval van nood, bij verlies van tweezijdige radioverbinding of indien het luchtvaartuig is onderworpen aan wederrechtelijke inmenging, wordt door de gezagvoerder de hoogteuitlezing in mode C aangezet, en
 
@@ -148,9 +152,9 @@ Voor het uitvoeren van een IFR-vlucht in het vluchtinformatiegebied Amsterdam wo
 
 - 2º. een vliegplan ingediend met als bestemming de dichtstbijzijnde geschikte luchthaven waar herstel kan plaatsvinden, met vermelding van de staat van de SSR-transponder onder punt 10;
 
-- e. indien na het vertrek blijkt dat de SSR-transponder niet of niet goed werkt, rekening wordt gehouden met beperkingen bij de uitvoering van het vliegplan;
+- e. indien na het vertrek blijkt dat de SSR-transponder niet of niet goed werkt, wordt rekening gehouden met beperkingen bij de uitvoering van het vliegplan;
 
-- f. na de landing al het mogelijke wordt verricht om de SSR-transponder te laten herstellen of vervangen voor de volgende vlucht; g. Indien herstel of vervanging ter plaatse niet mogelijk is, wordt
+- f. na de landing wordt al het mogelijke verricht om de SSR-transponder te laten herstellen of vervangen voor de volgende vlucht; g. Indien herstel of vervanging ter plaatse niet mogelijk is, wordt
 
 - 1º. de betrokken verlener van luchtverkeersdiensten hierover zo spoedig mogelijk en bij voorkeur voorafgaand aan het indienen van het vliegplan ingelicht, en
 
@@ -170,25 +174,25 @@ Voor het uitvoeren van een IFR-vlucht in het vluchtinformatiegebied Amsterdam wo
 
 ##### Artikel 11
 
-1. Alle vliegtuigen die internationale vluchten uitvoeren als commercieel luchtvervoer en die zijn toegelaten voor het vervoer van meer dan 19 passagiers, zijn uitgerust met ten minste één automatische ELT of twee ELTs van om het even welk type.
+1. Alle vliegtuigen die vluchten uitvoeren als commercieel luchtvervoer en die zijn toegelaten voor het vervoer van meer dan 19 passagiers, zijn uitgerust met ten minste één automatische ELT of twee ELT’s van om het even welk type.
 
-2. Alle vliegtuigen die internationale vluchten uitvoeren als commercieel luchtvervoer en die zijn toegelaten voor het vervoer van meer dan 19 passagiers, voor welk het bewijs van luchtwaardigheid is afgegeven na 1 juli 2008, zijn uitgerust met ten minste twee ELTs waarvan er één ELT automatisch geactiveerd wordt.
+2. Alle vliegtuigen die vluchten uitvoeren als commercieel luchtvervoer en die zijn toegelaten voor het vervoer van meer dan 19 passagiers, voor welk het bewijs van luchtwaardigheid is afgegeven na 1 juli 2008, zijn uitgerust met ten minste twee ELT’s waarvan er één ELT automatisch geactiveerd wordt.
 
-3. Alle vliegtuigen die internationale vluchten uitvoeren als commercieel luchtvervoer en die zijn toegelaten voor het vervoer van 19 passagiers of minder, zijn uitgerust met ten minste één ELT van om het even welk type.
+3. Alle vliegtuigen die vluchten uitvoeren als commercieel luchtvervoer en die zijn toegelaten voor het vervoer van 19 passagiers of minder, zijn uitgerust met ten minste één ELT van om het even welk type.
 
-4. Alle vliegtuigen die internationale vluchten uitvoeren als commercieel luchtvervoer en die zijn toegelaten voor het vervoer van 19 passagiers of minder, voor welk het bewijs van luchtwaardigheid is afgegeven na 1 juli 2008, zijn uitgerust met ten minste één ELT die automatisch geactiveerd wordt.
+4. Alle vliegtuigen die vluchten uitvoeren als commercieel luchtvervoer en die zijn toegelaten voor het vervoer van 19 passagiers of minder, voor welk het bewijs van luchtwaardigheid is afgegeven na 1 juli 2008, zijn uitgerust met ten minste één ELT die automatisch geactiveerd wordt.
 
-5. Alle vliegtuigen die internationale vluchten uitvoeren als General Aviation, zijn uitgerust met ten minste één ELT van om het even welk type.
+5. Alle vliegtuigen die vluchten uitvoeren als General Aviation, zijn uitgerust met ten minste één ELT van om het even welk type.
 
-6. Alle vliegtuigen die internationale vluchten uitvoeren als General Aviation, voor welk het bewijs van luchtwaardigheid is afgegeven na 1 juli 2008, zijn uitgerust zijn met ten minste één ELT die automatisch geactiveerd wordt.
+6. Alle vliegtuigen die vluchten uitvoeren als General Aviation, voor welk het bewijs van luchtwaardigheid is afgegeven na 1 juli 2008, zijn uitgerust met ten minste één ELT die automatisch geactiveerd wordt.
 
-7. Prestatie klasse 1 en 2 helikopters die internationale vluchten uitvoeren als commercieel luchtvervoer zijn uitgerust met ten minste één ELT die automatisch geactiveerd wordt, en ten minste één ELT die automatisch geactiveerd wordt en één ELT(S) in een reddingsvlot of reddingsvest indien de vlucht boven water wordt uitgevoerd.
+7. Prestatie klasse 1 en 2 helikopters die vluchten uitvoeren als commercieel luchtvervoer zijn uitgerust met ten minste één ELT die automatisch geactiveerd wordt, en ten minste één ELT die automatisch geactiveerd wordt en één ELT(S) in een reddingsvlot of reddingsvest indien de vlucht boven water wordt uitgevoerd.
 
-8. Prestatie klasse 3 helikopters die internationale vluchten uitvoeren als commercieel luchtvervoer zijn uitgerust met ten minste één ELT die automatisch geactiveerd wordt, en ten minste één ELT die automatisch geactiveerd wordt en één ELT(S) in een reddingsvlot of reddingsvest indien de vlucht boven water wordt uitgevoerd met normale kruissnelheid op een afstand van meer dan 10 minuten vliegen vanaf land.
+8. Prestatie klasse 3 helikopters die vluchten uitvoeren als commercieel luchtvervoer zijn uitgerust met ten minste één ELT die automatisch geactiveerd wordt, en ten minste één ELT die automatisch geactiveerd wordt en één ELT(S) in een reddingsvlot of reddingsvest indien de vlucht boven water wordt uitgevoerd met normale kruissnelheid op een afstand van meer dan 10 minuten vliegen vanaf land.
 
-9. Prestatie klasse 1 en 2 helikopters die internationale vluchten uitvoeren als General Aviation zijn uitgerust met ten minste één ELT die automatisch geactiveerd wordt, en ten minste één ELT die automatisch geactiveerd wordt en één ELT(S) in een reddingsvlot of reddingsvest indien de vlucht boven water wordt uitgevoerd.
+9. Prestatie klasse 1 en 2 helikopters die vluchten uitvoeren als General Aviation zijn uitgerust met ten minste één ELT die automatisch geactiveerd wordt, en ten minste één ELT die automatisch geactiveerd wordt en één ELT(S) in een reddingsvlot of reddingsvest indien de vlucht boven water wordt uitgevoerd.
 
-10. Prestatie klasse 3 helikopters die internationale vluchten als uitvoeren als General Aviation zijn uitgerust met ten minste één ELT die automatisch geactiveerd wordt, en ten minste één ELT die automatisch geactiveerd wordt en één ETL(S) in een reddingsvlot of reddingsvest indien de vlucht boven water wordt uitgevoerd met normale kruissnelheid op een afstand van meer dan 10 minuten vliegen vanaf land.
+10. Prestatie klasse 3 helikopters die vluchten als uitvoeren als General Aviation zijn uitgerust met ten minste één ELT die automatisch geactiveerd wordt, en ten minste één ELT die automatisch geactiveerd wordt en één ETL(S) in een reddingsvlot of reddingsvest indien de vlucht boven water wordt uitgevoerd met normale kruissnelheid op een afstand van meer dan 10 minuten vliegen vanaf land.
 
 ##### Artikel 12
 
@@ -202,21 +206,21 @@ Vervallen
 
 3. Gebruikers van luchtvaartuigen die ELT’s vervangen, plaatsen ELT’s die zijn gecodeerd met het 24-bit luchtvaartuigadres volgens het ‘serialized user protocol’ of het ‘standard location protocol’.
 
-4. De toekenning van het 24-bit luchtvaartuigadres, bedoeld in het eerste lid, geschiedt door tussenkomst van de inspecteur-generaal van de Inspectie Verkeer en Waterstaat. Bij de aanvraag wordt het registratiekenmerk, het type en het serienummer van het luchtvaartuig vermeld.
+4. De toekenning van het 24-bit luchtvaartuigadres, bedoeld in het eerste lid, geschiedt door tussenkomst van de inspecteur-generaal van de Inspectie Leefomgeving en Transport. Bij de aanvraag wordt het registratiekenmerk, het type en het serienummer van het luchtvaartuig vermeld.
 
 5. De codering volgens het ‘serialized user protocol’ of het ‘standard location protocol’ resulteert in een 15-digit hexadecimale code.
 
-6. De 15-digit hexadecimale codes, alsmede de wijzigingen daarin en de bijbehorende gegevens van het vliegtuig, de gegevens van de contactpersonen, worden door de directeur-hoofdinspecteur van het Agentschap Telecom van het Ministerie van Economische Zaken opgenomen in het gegevensbestand van de opsporings- en reddingsdienst in Nederland. Uitsluitend ELT’s die zijn geprogrammeerd op de in dit artikel bedoelde wijze worden in het gegevensbestand van de opsporings-en reddingsdienst in Nederland opgenomen, alsmede afwijkend geprogrammeerde ELT’s na verkregen toestemming van de Minister van Verkeer en Waterstaat.
+6. De 15-digit hexadecimale codes, alsmede de wijzigingen daarin en de bijbehorende gegevens van het vliegtuig, de gegevens van de contactpersonen, worden door de directeur-hoofdinspecteur van het Agentschap Telecom van het Ministerie van Economische Zaken opgenomen in het gegevensbestand van de opsporings- en reddingsdienst in Nederland. Uitsluitend ELT’s die zijn geprogrammeerd op de in dit artikel bedoelde wijze worden in het gegevensbestand van de opsporings-en reddingsdienst in Nederland opgenomen, alsmede afwijkend geprogrammeerde ELT’s na verkregen toestemming van de Minister.
 
 7. Voor luchtvaartuigen die een 24-bit luchtvaartuigadres voor andere doeleinden in gebruik hebben, wordt dit adres gebruikt voor de bij het luchtvaartuig behorende ELT’s.
 
-8. Details ten behoeve van de registratie worden middels een AIC als bedoeld in [artikel 1 van de Regeling Burgerluchtvaartinlichtingen](https://wetten.overheid.nl/jci1.3:c:BWBR0010154&artikel=1) of middels de website van de Inspectie Verkeer en Waterstaat bekend gesteld.
+8. Details ten behoeve van de registratie worden middels een AIC als bedoeld in [artikel 1 van de Regeling Burgerluchtvaartinlichtingen](https://wetten.overheid.nl/jci1.3:c:BWBR0010154&artikel=1) of middels de website van de Inspectie Leefomgeving en Transport bekend gesteld.
 
 #### Strafbepaling
 
 ##### Artikel 14
 
-Handelen in strijd met de [artikelen 8 tot en met 10](https://wetten.overheid.nl/jci1.3:c:BWBR0012538&artikel=8&z=2014-12-12&g=2014-12-12) van deze regeling is een strafbaar feit.
+Handelen in strijd met de [artikelen 8 tot en met 10](https://wetten.overheid.nl/jci1.3:c:BWBR0012538&artikel=8&z=2015-11-07&g=2015-11-07) van deze regeling is een strafbaar feit.
 
 #### Strafbepaling
 
@@ -240,9 +244,9 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 ##### Artikel 3a
 
-1. Voor het uitvoeren van een VFR-vlucht in de NSA Amsterdam is een luchtvaartuig uitgerust met een VHF-zend/ontvanginstallatie met kanaalafstand van 25kHz, geschikt voor omgevingen waar offset-carrier technieken worden toegepast, waarmee een voortdurende tweezijdige radioverbinding kan worden onderhouden met de betrokken luchtverkeersdiensten op de daartoe bestemde frequenties zoals gepubliceerd in de luchtvaartgids.
+1. Voor het uitvoeren van een VFR-vlucht in het vluchtinformatiegebied Amsterdam is een luchtvaartuig uitgerust met een VHF-zend/ontvanginstallatie waarmee wordt voldaan aan artikel 5, eerste, derde en vierde lid, van Verordening (EU) nr. 1079/2012.
 
-2. Het eerste lid is niet van toepassing op staatsluchtvaartuigen indien deze beschikken over een UHF-zend/ontvangstinstallatie.
+2. Onverminderd het eerste lid, is voor het uitvoeren van een VFR-vlucht met een staatsluchtvaartuig in het vluchtinformatiegebied Amsterdam artikel 9, eerste tot en met het elfde lid, van Verordening (EU) nr. 1079/2012 van toepassing.
 
 ##### Artikel 5a
 
@@ -256,7 +260,7 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 ##### Artikel 7a
 
-1. Onverminderd de in het betrokken luchtruim geldende regels, is het voeren van een Mode S SSR-transponder verplicht voor alle luchtvaartuigen die gebruik maken van een Transponder Mandatory Zone als opgenomen in [bijlage G1 bij de Regeling luchtverkeersdienstverlening](https://wetten.overheid.nl/jci1.3:c:BWBR0009899&bijlage=G1).
+1. Onverminderd de in het betrokken luchtruim geldende regels, is het voeren van een Mode S SSR-transponder verplicht voor alle luchtvaartuigen die gebruik maken van een Transponder Mandatory Zone als opgenomen in [bijlage 3 bij de Regeling luchtverkeersdienstverlening](https://wetten.overheid.nl/jci1.3:c:BWBR0009899&bijlage=3).
 
 2. Het eerste lid is binnen onderstaande gebieden van maandag tot en met vrijdag en op nationale feestdagen tussen 09.00–17.00 uur plaatselijke tijd niet van toepassing op schermzweeftoestellen en zeilvliegtuigen:
 
@@ -305,7 +309,7 @@ Deze regeling berust op de [artikelen 6](https://wetten.overheid.nl/jci1.3:c:BWB
 
 ##### Artikel 13b
 
-Het KNMI stelt elk uur het overgangsniveau, bedoeld in [artikel 13a, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012538&artikel=13a&z=2014-12-12&g=2014-12-12), vast en meldt dit zo snel mogelijk aan de desbetreffende verlener van luchtverkeersdiensten.
+Het KNMI stelt elk uur het overgangsniveau, bedoeld in [artikel 13a, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012538&artikel=13a&z=2015-11-07&g=2015-11-07), vast en meldt dit zo snel mogelijk aan de desbetreffende verlener van luchtverkeersdiensten.
 
 ##### Artikel 13c
 
@@ -357,7 +361,7 @@ Tijdens een vlucht op een kruishoogte op of beneden de overgangshoogte wordt ten
 
 ##### Artikel 13h
 
-1. In afwijking van [artikel 13g](https://wetten.overheid.nl/jci1.3:c:BWBR0012538&artikel=13g&z=2014-12-12&g=2014-12-12) gelden binnen het vluchtinformatiegebied Amsterdam en de daarbuiten gelegen luchtruimte boven het Nederlandse deel van het continentaal plat de door de minister vastgestelde en in hoofdstuk ENR 3 van de luchtvaartgids gepubliceerde kruishoogtes.
+1. In afwijking van [artikel 13g](https://wetten.overheid.nl/jci1.3:c:BWBR0012538&artikel=13g&z=2015-11-07&g=2015-11-07) gelden binnen het vluchtinformatiegebied Amsterdam en de daarbuiten gelegen luchtruimte boven het Nederlandse deel van het continentaal plat de door de minister vastgestelde en in hoofdstuk ENR 3 van de luchtvaartgids gepubliceerde kruishoogtes.
 
 2. Voor de toepassing van de in het eerste lid genoemde kruishoogtes is voor IFR-vluchten op of beneden 915 m (3000 ft) de grondkoers van het belangrijkste deel van de vlucht van toepassing.
 
