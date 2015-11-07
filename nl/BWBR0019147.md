@@ -4,7 +4,7 @@ identifier: "BWBR0019147"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2021-04-22"
-last_updated: "2015-07-01"
+last_updated: "2015-11-07"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0019147"
 soort: "ministeriele-regeling"
@@ -44,11 +44,13 @@ Besluit:
 
 ##### Artikel 1
 
-Vervallen
+In deze regeling wordt verstaan onder:
+
+- **modelluchtvaartuig:** luchtvaartuig, niet in staat een mens te dragen, en uitsluitend gebruikt voor luchtvaartvertoning, recreatie of sport.
 
 ##### Artikel 2
 
-Onverminderd paragraaf SERA.3201 van verordening (EU) nr. 923/2012 en het [Besluit luchtverkeer 2014](https://wetten.overheid.nl/jci1.3:c:BWBR0035899&wetgeving) gelden voor een vlucht met een modelluchtvaartuig de volgende regels:
+Onverminderd paragraaf SERA.3201 van verordening (EU) nr. 923/2012 en het [Besluit luchtverkeer 2014](https://wetten.overheid.nl/jci1.3:c:BWBR0035899) gelden voor een vlucht met een modelluchtvaartuig de volgende regels:
 
 - a. de vlucht wordt slechts uitgevoerd onder omstandigheden en op locaties waarbij er vanaf de grond tijdens de gehele vlucht goed zicht is op het modelluchtvaartuig en het luchtruim daaromheen;
 
@@ -110,7 +112,7 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 ##### Artikel 1b
 
-1. Lichte onbemande luchtvaartuigen en modelluchtvaartuigen verlenen voorrang aan vliegtuigen, helikopters, zweeftoestellen, vrije ballonnen en luchtschepen.
+1. Modelluchtvaartuigen verlenen voorrang aan vliegtuigen, helikopters, zweeftoestellen, vrije ballonnen en luchtschepen.
 
 2. In alle overige gevallen dat twee luchtvaartuigen kruisen op of omstreeks hetzelfde niveau, verleent het luchtvaartuig dat het andere aan zijn rechterzijde heeft voorrang.
 
