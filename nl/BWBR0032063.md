@@ -4,7 +4,7 @@ identifier: "BWBR0032063"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2015-11-07"
-last_updated: "2011-01-01"
+last_updated: "2015-11-07"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0032063"
 soort: "ministeriele-regeling"
@@ -46,15 +46,19 @@ Besluit:
 
 1. In deze regeling wordt verstaan onder:
 
-- –. **beweging:** een start of een landing met een luchtvaartuig;
+- **beweging:** een start of een landing met een luchtvaartuig;
 
-- –. **exploitant:** Stichting Vliegveld Drachten;
+- **daglichtperiode:** het gedeelte van het etmaal tussen vijftien minuten voor zonsopgang en vijftien minuten na zonsondergang zoals geldt voor de positie 52°00’ N en 05°00’ O op zeeniveau;
 
-- –. **wet:** [wet van 18 december 2008, houdende wijziging van de Wet luchtvaart inzake vernieuwing van de regelgeving voor burgerluchthavens en militaire luchthavens en de decentralisatie van bevoegdheden voor burgerluchthavens naar het provinciaal bestuur](https://wetten.overheid.nl/jci1.3:c:BWBR0024928).
+- **exploitant:** Stichting Vliegveld Drachten;
 
-2. In deze regeling wordt verstaan onder daglichtperiode en helikopter hetgeen daaronder wordt verstaan in [artikel 1 van het Luchtverkeersreglement](https://wetten.overheid.nl/jci1.3:c:BWBR0005775&artikel=1).
+- **helikopter:** gemotoriseerd luchtvaartuig met rotorbladen, zwaarder dan lucht, dat hoofdzakelijk in de lucht gehouden kan worden door aërodynamische reactiekrachten op zijn rotorbladen;
 
-3. Het gebruiksjaar is gelijk aan het kalenderjaar.
+- **verordening (EU) nr. 923/2012:** uitvoeringsverordening (EU) nr. 923/2012 van de Commissie van 26 september 2012 tot vaststelling van gemeenschappelijke luchtverkeersregels en operationele bepalingen betreffende luchtvaartnavigatiediensten en -procedures en tot wijziging van uitvoeringsverordening (EU) nr. 1035/2011 en verordeningen (EG) nr. 1265/2007, (EG) 1794/2006, (EG) nr. 730/2006, (EG) nr. 1033/2006 en (EU) nr. 255/2010 (PbEU 2012, L 281);
+
+- **wet:** [wet van 18 december 2008, houdende wijziging van de Wet luchtvaart inzake vernieuwing van de regelgeving voor burgerluchthavens en militaire luchthavens en de decentralisatie van bevoegdheden voor burgerluchthavens naar het provinciaal bestuur](https://wetten.overheid.nl/jci1.3:c:BWBR0024928).
+
+2. Het gebruiksjaar is gelijk aan het kalenderjaar.
 
 ### Hoofdstuk 2. Luchthaven
 
@@ -74,11 +78,11 @@ Op de luchthaven is gelegen een verharde start- en landingsbaan in de geografisc
 
 1. Op de luchthaven is uitsluitend burgerluchtverkeer toegestaan.
 
-2. Naast het burgerluchtverkeer dat binnen de grenswaarden, bedoeld in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0032063&hoofdstuk=3&artikel=7&z=2011-01-01&g=2011-01-01), is toegestaan, zijn op de luchthaven per gebruiksjaar eveneens maximaal 20 bewegingen met helikopters toegestaan.
+2. Naast het burgerluchtverkeer dat binnen de grenswaarden, bedoeld in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0032063&hoofdstuk=3&artikel=7&z=2015-11-07&g=2015-11-07), is toegestaan, zijn op de luchthaven per gebruiksjaar eveneens maximaal 20 bewegingen met helikopters toegestaan.
 
 ##### Artikel 5
 
-1. Het gebruik van de luchthaven vindt plaats binnen de daglichtperiode overeenkomstig de zichtvliegvoorschriften, bedoeld in [hoofdstuk 3, afdeling 3, van het Luchtverkeersreglement](https://wetten.overheid.nl/jci1.3:c:BWBR0005775&afdeling=3).
+1. Het gebruik van de luchthaven vindt plaats binnen de daglichtperiode overeenkomstig de zichtvliegvoorschriften, bedoeld in deel 5 van de bijlage bij verordening (EU) nr. 923/2012.
 
 2. Aan het gebruik van de luchthaven zijn voor exploitant en gebruikers de volgende voorschriften verbonden:
 
