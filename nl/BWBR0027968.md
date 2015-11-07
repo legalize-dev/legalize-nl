@@ -4,7 +4,7 @@ identifier: "BWBR0027968"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2024-01-01"
-last_updated: "2014-12-12"
+last_updated: "2015-11-07"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0027968"
 soort: "ministeriele-regeling"
@@ -44,11 +44,11 @@ Besluiten:
 
 In deze regeling wordt verstaan onder:
 
-**cluster:** groep van valschermspringgebieden als bedoeld in de bijlage bij deze regeling;
+**cluster:** groep van valschermspringgebieden als bedoeld in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0027968&bijlage=1&z=2015-11-07&g=2015-11-07) bij deze regeling;
 
 **doelgebied**: gebied waarin de valschermspringer beoogt neer te komen;
 
-**incidenteel valschermspringgebied**: valschermspringgebied dat niet is opgenomen in de lijst van valschermspringgebieden, bedoeld in de bijlage bij deze regeling;
+**incidenteel valschermspringgebied**: valschermspringgebied dat niet is opgenomen in de lijst van valschermspringgebieden, bedoeld in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0027968&bijlage=1&z=2015-11-07&g=2015-11-07) bij deze regeling;
 
 **klimgebied**: kolom luchtruim in de vorm van een cilinder met een straal van 9,26 km rond het middelpunt van het doelgebied en een hoogte gelijk aan de voorgenomen springhoogte in het luchtruim;
 
@@ -60,7 +60,7 @@ In deze regeling wordt verstaan onder:
 
 **valschermspringgebied**: kolom luchtruimte in de vorm van een cilinder met een straal van 3,7 km rond het middelpunt van het doelgebied en een hoogte die ten minste gelijk is aan de voorgenomen springhoogte;
 
-**vast valschermspringgebied**: valschermspringgebied opgenomen in de lijst van valschermspringgebieden, bedoeld in de bijlage bij deze regeling.
+**vast valschermspringgebied**: valschermspringgebied opgenomen in de lijst van valschermspringgebieden, bedoeld in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0027968&bijlage=1&z=2015-11-07&g=2015-11-07) bij deze regeling.
 
 ##### Artikel 2
 
@@ -70,7 +70,7 @@ Deze regeling is niet van toepassing op valschermspringen door de krijgsmacht.
 
 1. Valschermspringen is uitsluitend toegestaan:
 
-- a. binnen een vast valschermspringgebied onder de voorwaarden, bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0027968&artikel=4&z=2014-12-12&g=2014-12-12), dan wel binnen een incidenteel valschermspringgebied onder de voorwaarden, bedoeld in de artikelen 4 en [5](https://wetten.overheid.nl/jci1.3:c:BWBR0027968&artikel=5&z=2014-12-12&g=2014-12-12);
+- a. binnen een vast valschermspringgebied onder de voorwaarden, bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0027968&artikel=4&z=2015-11-07&g=2015-11-07), dan wel binnen een incidenteel valschermspringgebied onder de voorwaarden, bedoeld in de artikelen 4 en [5](https://wetten.overheid.nl/jci1.3:c:BWBR0027968&artikel=5&z=2015-11-07&g=2015-11-07);
 
 - b. na toestemming van de gezagvoerder van het luchtvaartuig waaruit gesprongen wordt;
 
@@ -78,7 +78,7 @@ Deze regeling is niet van toepassing op valschermspringen door de krijgsmacht.
 
 - d. wanneer het vliegzicht en de minimumafstand tot de wolken voldoen aan de minimumwaarden voor VFR-vluchten die gelden in het betreffende deel van het luchtruim, bepaald krachtens [artikel 17 van het Besluit luchtverkeer 2014](https://wetten.overheid.nl/jci1.3:c:BWBR0035899&artikel=17).
 
-2. De Minister van Verkeer en Waterstaat kan ontheffing verlenen van het eerste lid, onderdeel c. Aan de ontheffing kunnen voorschriften en beperkingen worden verbonden.
+2. De Minister van Infrastructuur en Milieu kan ontheffing verlenen van het eerste lid, onderdeel c. Aan de ontheffing kunnen voorschriften en beperkingen worden verbonden.
 
 ##### Artikel 4
 
@@ -106,7 +106,7 @@ Deze regeling is niet van toepassing op valschermspringen door de krijgsmacht.
 
 ##### Artikel 5
 
-In aanvulling op [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0027968&artikel=4&z=2014-12-12&g=2014-12-12) gelden voor het gebruik van een incidenteel valschermspringgebied de volgende voorwaarden:
+In aanvulling op [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0027968&artikel=4&z=2015-11-07&g=2015-11-07) gelden voor het gebruik van een incidenteel valschermspringgebied de volgende voorwaarden:
 
 - a. voor het valschermspringgebied is een NOTAM uitgegeven. Deze NOTAM moet ten minste vijf werkdagen tevoren zijn aangevraagd bij de betrokken luchtverkeersdienst. Wanneer verschillende luchtverkeersdiensten zijn betrokken, wordt de aanvraag ingediend bij de dienst die luchtverkeersleiding geeft in het gebied met de laagste verticale begrenzing, inclusief luchtruim klasse E. Deze dienst stemt de beoordeling van de aanvraag af met de andere betrokken luchtverkeersdiensten;
 
@@ -130,13 +130,15 @@ In aanvulling op [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0027968&art
 
 ##### Artikel 6
 
-1. Als gebieden met beperkingen worden aangewezen de klimgebieden van de vaste valschermspringgebieden die zijn opgenomen in de bijlage behorende bij deze regeling. Deze gebieden gelden als gebieden met beperkingen, gedurende de in de bijlage gespecificeerde tijdstippen en voor zover die gebieden in gebruik zijn als klimgebied door een luchtvaartuig ten behoeve van valschermspringen.
+1. Als gebieden met beperkingen worden aangewezen de klimgebieden van de vaste valschermspringgebieden die zijn opgenomen in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0027968&bijlage=1&z=2015-11-07&g=2015-11-07) behorende bij deze regeling. Deze gebieden gelden als gebieden met beperkingen, gedurende de in bijlage 1 gespecificeerde tijdstippen en voor zover die gebieden in gebruik zijn als klimgebied door een luchtvaartuig ten behoeve van valschermspringen.
 
-2. IFR-vluchten zijn binnen de gebieden, bedoeld in het eerste lid, toegestaan.
+2. Onverminderd het eerste lid, wordt als gebied met beperkingen aangewezen het klimgebied in het valschermspringgebied cluster Utrecht, opgenomen in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0027968&bijlage=2&z=2015-11-07&g=2015-11-07) bij deze regeling.
 
-3. VFR-vluchten zijn onder de volgende voorwaarden toegestaan binnen de gebieden, bedoeld in het eerste lid:
+3. IFR-vluchten zijn binnen de gebieden, bedoeld in het eerste lid, toegestaan.
 
-- a. de betrokken luchtverkeersleidingsdienst is van oordeel dat het aanbod van het luchtverkeer binnen het betrokken gebied het toelaat;
+4. VFR-vluchten zijn onder de volgende voorwaarden toegestaan binnen de gebieden, bedoeld in het eerste lid:
+
+- a. de betrokken luchtverkeersleidingsdienst is van oordeel dat het aanbod van het luchtverkeer binnen dat deel van het betrokken gebied dat binnen gecontroleerd luchtruim valt, het toelaat;
 
 - b. voor contact met de grond is een tweede radioset aanwezig;
 
@@ -182,7 +184,7 @@ Deze regeling berust op de [artikelen 5.10, eerste lid, van de Wet luchtvaart](h
 
 2. In alle overige gevallen dat twee luchtvaartuigen kruisen op of omstreeks hetzelfde niveau, verleent het luchtvaartuig dat het andere aan zijn rechterzijde heeft voorrang.
 
-## Bijlage. behorende bij [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0027968&artikel=1&z=2014-12-12&g=2014-12-12) en [artikel 6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0027968&artikel=6&z=2014-12-12&g=2014-12-12), van de Regeling valschermspringen 2010
+## Bijlage 1. behorende bij [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0027968&artikel=1&z=2015-11-07&g=2015-11-07) en [artikel 6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0027968&artikel=6&z=2015-11-07&g=2015-11-07), van de Regeling valschermspringen 2010
 
 | Locatie | Maximale springhoogte | Coördinaten | Toegestaan tijdstip |
 | --- | --- | --- | --- |
@@ -212,5 +214,29 @@ Deze regeling berust op de [artikelen 5.10, eerste lid, van de Wet luchtvaart](h
 | Hilversum | FL 060 | 52°11'31"NB 005°08'49"OL | MON-SAT: 0700 (0600)-end UDP SUN, HOL: 1000-1700 (0900-1600) |
 | Westbroek | FL 060 | 52°08'08"NB 005°07'51"OL | MON-FRI: 0700-1900 (0600-1800) SAT : 0700 (0600)-end UDP SUN, HOL: 1100-1700 (1000-1600) |
 | Wijk bij Duurstede | FL 060 | 51°59'15"NB 005°18'07"OL | SAT: 0700 (0600)-end UDP SUN, HOL: 1000 (0900)-end UDP max 1700 (1600) |
+
+Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
+
+## Bijlage 2. behorende bij [artikel 6, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0027968&artikel=6&z=2015-11-07&g=2015-11-07), van de Regeling valschermspringen 2010
+
+De grenzen van het klimgebied in het valschermspringgebied cluster Utrecht zijn als volgt:
+
+- 1. De laterale grenzen zijn als volgt:
+
+| Hoekpunt 1 | 52°09'00.00"NB 005°04'25.00"OL |
+| --- | --- |
+| Hoekpunt 2 | 52°10'08.00"NB 005°07'52.00"OL |
+| Hoekpunt 3 | 52°11'58.56"NB 005°15'51.77"OL |
+| Hoekpunt 4 | 52°10'31.09"NB 005°18'35.63"OL |
+| Hoekpunt 5 | 52°09'03.00"NB 005°18'35.40"OL |
+| Hoekpunt 6 | 52°05'53.22"NB 005°16'06.45"OL |
+| Hoekpunt 7 | 52°00'52.00"NB 005°24'59.00"OL |
+| Hoekpunt 8 | 51°57'40.00"NB 005°20'20.00"OL |
+| Hoekpunt 9 | 52°02'51.00"NB 005°13'44.00"OL |
+| Hoekpunt 1 | 52°09'00.00"NB 005°04'25.00**"OL** |
+
+- 2. Het klimgebied in het valschermspringgebied cluster Utrecht heeft een ondergrens vanaf de grond en een bovengrens tot FL 060.
+
+- 3. Het gebied met beperkingen geldt gedurende de daglichtperiode. Klimgebied in het valschermspringgebied cluster Utrecht
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
