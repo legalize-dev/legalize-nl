@@ -4,7 +4,7 @@ identifier: "BWBR0032026"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2015-11-07"
-last_updated: "2012-10-01"
+last_updated: "2015-11-07"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0032026"
 soort: "ministeriele-regeling"
@@ -48,13 +48,21 @@ Besluit:
 
 - **beweging:** een start of een landing met een luchtvaartuig;
 
+- **daglichtperiode:** het gedeelte van het etmaal tussen vijftien minuten voor zonsopgang en vijftien minuten na zonsondergang zoals geldt voor de positie 52°00’ N en 05°00’ O op zeeniveau;
+
 - **exploitant:** NV Luchthaven Teuge;
+
+- **helikopter:** gemotoriseerd luchtvaartuig met rotorbladen, zwaarder dan lucht, dat hoofdzakelijk in de lucht gehouden kan worden door aërodynamische reactiekrachten op zijn rotorbladen;
+
+- **IFR:** instrument vliegvoorschriften;
+
+- **verordening (EU) nr. 923/2012:** uitvoeringsverordening (EU) nr. 923/2012 van de Commissie van 26 september 2012 tot vaststelling van gemeenschappelijke luchtverkeersregels en operationele bepalingen betreffende luchtvaartnavigatiediensten en -procedures en tot wijziging van uitvoeringsverordening (EU) nr. 1035/2011 en verordeningen (EG) nr. 1265/2007, (EG) 1794/2006, (EG) nr. 730/2006, (EG) nr. 1033/2006 en (EU) nr. 255/2010 (PbEU 2012, L 281);
+
+- **vliegtuig:** gemotoriseerd luchtvaartuig met vaste vleugels, zwaarder dan lucht, dat hoofdzakelijk in de lucht gehouden kan worden door aërodynamische reactiekrachten op zijn vleugels;
 
 - **wet:** [wet van 18 december 2008, houdende wijziging van de Wet luchtvaart inzake vernieuwing van de regelgeving voor burgerluchthavens en militaire luchthavens en de decentralisatie van bevoegdheden voor burgerluchthavens naar het provinciaal bestuur](https://wetten.overheid.nl/jci1.3:c:BWBR0024928).
 
-2. In deze regeling wordt verstaan onder daglichtperiode, helikopter, IFR en vliegtuig hetgeen daaronder wordt verstaan in [artikel 1 van het Luchtverkeersreglement](https://wetten.overheid.nl/jci1.3:c:BWBR0005775&artikel=1).
-
-3. Het gebruiksjaar betreft de periode van 1 november van enig jaar tot 1 november van het daarop volgende jaar.
+2. Het gebruiksjaar betreft de periode van 1 november van enig jaar tot 1 november van het daarop volgende jaar.
 
 ### Hoofdstuk 2. Luchthaven
 
@@ -62,7 +70,7 @@ Besluit:
 
 1. Deze regeling is van toepassing op de luchthaven Teuge.
 
-2. Het luchthavengebied is aangegeven op de kaart in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0032026&bijlage=1&z=2012-10-01&g=2012-10-01) bij deze regeling.
+2. Het luchthavengebied is aangegeven op de kaart in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0032026&bijlage=1&z=2015-11-07&g=2015-11-07) bij deze regeling.
 
 ##### Artikel 3
 
@@ -72,9 +80,9 @@ een verharde start- en landingsbaan, gelegen in de geografische richting 086° �
 
 een onverharde start- en landingsbaan, gelegen in de geografische richting 027° – 207°, met een lengte van 700 meter en een breedte van minimaal 25 meter, met daarbij behorende onverharde rijbanen, voor het luchtverkeer ingedeeld in codenummer 1 en codeletter B;
 
-een en ander zoals vermeld in Bijlage 14 van het Verdrag inzake de internationale burgerluchtvaart (Trb. 1973, 109) en zoals aangegeven op de kaart in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0032026&bijlage=1&z=2012-10-01&g=2012-10-01) bij deze regeling;
+een en ander zoals vermeld in Bijlage 14 van het Verdrag inzake de internationale burgerluchtvaart (Trb. 1973, 109) en zoals aangegeven op de kaart in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0032026&bijlage=1&z=2015-11-07&g=2015-11-07) bij deze regeling;
 
-twee onverharde zweefvliegbanen gelegen in de geografische richting 086° – 266° en in de geografische richting 027° – 207°, een en ander zoals aangegeven op de kaart in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0032026&bijlage=1&z=2012-10-01&g=2012-10-01) bij deze regeling.
+twee onverharde zweefvliegbanen gelegen in de geografische richting 086° – 266° en in de geografische richting 027° – 207°, een en ander zoals aangegeven op de kaart in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0032026&bijlage=1&z=2015-11-07&g=2015-11-07) bij deze regeling.
 
 ### Hoofdstuk 3. Regels en grenswaarden
 
@@ -88,7 +96,7 @@ twee onverharde zweefvliegbanen gelegen in de geografische richting 086° – 26
 
 1. Het gebruik van de luchthaven vindt plaats:
 
-overeenkomstig de zichtvliegvoorschriften, bedoeld in [hoofdstuk 3, afdeling 3, van het Luchtverkeersreglement](https://wetten.overheid.nl/jci1.3:c:BWBR0005775&afdeling=3), binnen de daglichtperiode, met dien verstande dat les- en oefenvluchten overeenkomstig de zichtvliegvoorschriften buiten de periode van 08.00 tot 20.00 uur plaatselijke tijd verboden zijn, en overeenkomstig de instrumentvliegvoorschriften, bedoeld in [hoofdstuk 3, afdeling 4, van het Luchtverkeersreglement](https://wetten.overheid.nl/jci1.3:c:BWBR0005775&afdeling=4), tussen 07.00 en 23.00 uur plaatselijke tijd, voor zover deze periode buiten de daglichtperiode valt, met dien verstande dat les- en oefenvluchten overeenkomstig de instrumentvliegvoorschriften verboden zijn.
+overeenkomstig de zichtvliegvoorschriften, bedoeld in deel 5 van de bijlage bij verordening (EU) nr. 923/2012, binnen de daglichtperiode, met dien verstande dat les- en oefenvluchten overeenkomstig de zichtvliegvoorschriften buiten de periode van 08.00 tot 20.00 uur plaatselijke tijd verboden zijn, en overeenkomstig de instrumentvliegvoorschriften, bedoeld in deel 5 van de bijlage bij verordening (EU) nr. 923/2012, tussen 07.00 en 23.00 uur plaatselijke tijd, voor zover deze periode buiten de daglichtperiode valt, met dien verstande dat les- en oefenvluchten overeenkomstig de instrumentvliegvoorschriften verboden zijn.
 
 2. De exploitant staat maximaal 100 IFR-bewegingen per gebruiksjaar toe.
 
@@ -132,7 +140,7 @@ op zon- en erkende feestdagen.
 
 ##### Artikel 7
 
-1. Naast het burgerluchtverkeer met een startmassa van minder dan 6.000 kg dat binnen de grenswaarden, bedoeld in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0032026&hoofdstuk=3&artikel=8&z=2012-10-01&g=2012-10-01), is toegestaan, zijn op de luchthaven per gebruiksjaar eveneens toegestaan:
+1. Naast het burgerluchtverkeer met een startmassa van minder dan 6.000 kg dat binnen de grenswaarden, bedoeld in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0032026&hoofdstuk=3&artikel=8&z=2015-11-07&g=2015-11-07), is toegestaan, zijn op de luchthaven per gebruiksjaar eveneens toegestaan:
 
 maximaal 1365 bewegingen met helikopters;
 
@@ -144,13 +152,13 @@ maximaal 500 bewegingen met vaste vleugelvliegtuigen met straalaandrijving en me
 
 ##### Artikel 8
 
-De ligging van de handhavingspunten, bedoeld in [artikel X, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0024928&artikel=X), en de grenswaarden voor de geluidbelasting op die punten, zijn opgenomen op de kaart onderscheidenlijk in de tabel in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0032026&bijlage=1&z=2012-10-01&g=2012-10-01) bij deze regeling.
+De ligging van de handhavingspunten, bedoeld in [artikel X, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0024928&artikel=X), en de grenswaarden voor de geluidbelasting op die punten, zijn opgenomen op de kaart onderscheidenlijk in de tabel in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0032026&bijlage=1&z=2015-11-07&g=2015-11-07) bij deze regeling.
 
 ### Hoofdstuk 4. Ruimtelijke beperkingen
 
 ##### Artikel 9
 
-Het beperkingengebied, bedoeld in [artikel X, vijfde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0024928&artikel=X), is aangegeven op de kaart in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0032026&bijlage=2&z=2012-10-01&g=2012-10-01) bij deze regeling.
+Het beperkingengebied, bedoeld in [artikel X, vijfde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0024928&artikel=X), is aangegeven op de kaart in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0032026&bijlage=2&z=2015-11-07&g=2015-11-07) bij deze regeling.
 
 ### Hoofdstuk 5. Slotbepalingen
 
@@ -162,8 +170,8 @@ Deze regeling treedt in werking met ingang van 1 januari 2011.
 
 Deze regeling wordt aangehaald als: Omzettingsregeling luchthaven Teuge.
 
-## Bijlage 1. bedoeld in de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0032026&hoofdstuk=2&artikel=2&z=2012-10-01&g=2012-10-01), [3](https://wetten.overheid.nl/jci1.3:c:BWBR0032026&hoofdstuk=2&artikel=3&z=2012-10-01&g=2012-10-01) en [8](https://wetten.overheid.nl/jci1.3:c:BWBR0032026&hoofdstuk=3&artikel=8&z=2012-10-01&g=2012-10-01) van de Omzettingsregeling luchthaven Teuge: het luchthaventerrein, de ligging van de banen, de plaats van de handhavingspunten en grenswaarden in de handhavingspunten
+## Bijlage 1. bedoeld in de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0032026&hoofdstuk=2&artikel=2&z=2015-11-07&g=2015-11-07), [3](https://wetten.overheid.nl/jci1.3:c:BWBR0032026&hoofdstuk=2&artikel=3&z=2015-11-07&g=2015-11-07) en [8](https://wetten.overheid.nl/jci1.3:c:BWBR0032026&hoofdstuk=3&artikel=8&z=2015-11-07&g=2015-11-07) van de Omzettingsregeling luchthaven Teuge: het luchthaventerrein, de ligging van de banen, de plaats van de handhavingspunten en grenswaarden in de handhavingspunten
 
-## Bijlage 2. bedoeld in [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0032026&hoofdstuk=4&artikel=9&z=2012-10-01&g=2012-10-01) van de Omzettingsregeling luchthaven Teuge: het beperkingengebied ten gevolge van de Bkl-zone
+## Bijlage 2. bedoeld in [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0032026&hoofdstuk=4&artikel=9&z=2015-11-07&g=2015-11-07) van de Omzettingsregeling luchthaven Teuge: het beperkingengebied ten gevolge van de Bkl-zone
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
