@@ -4,7 +4,7 @@ identifier: "BWBR0020593"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2015-11-07"
-last_updated: "2014-08-01"
+last_updated: "2015-11-07"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0020593"
 soort: "ministeriele-regeling"
@@ -46,17 +46,19 @@ Besluit:
 
 In deze regeling wordt verstaan onder een:
 
-- a. modelraket: kleine of grote modelraket, niet zijnde vuurwerk als bedoeld in [artikel 1.1.1, eerste lid, van het Vuurwerkbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0013360&artikel=1.1.1), en niet zijnde militair raket of militair projectiel;
+- grote modelraket: een toestel met een startmassa van meer dan 1500 gram, maar niet meer dan 35000 gram, dat is gemaakt van papier, hout, (licht)metaal of kunststof en geen brandbare of explosieve lading bevat, behalve de brandstof die nodig is voor de voortstuwing, en dat wordt voortgestuwd door de reactiekracht van een uitgestoten massa aan de achterzijde.
 
-- b. kleine modelraket: een toestel met een startmassa van maximaal 1500 gram, dat is gemaakt van papier, hout of kunststof en geen metalen hoofdonderdelen bevat, uitgezonderd een (licht)metalen motor, dat geen brandbare of explosieve lading bevat, behalve maximaal 125 gram brandstof die nodig is voor de voortstuwing, en dat wordt voortgestuwd door de reactiekracht van een uitgestoten massa aan de achterzijde;
+- kleine modelraket: een toestel met een startmassa van maximaal 1500 gram, dat is gemaakt van papier, hout of kunststof en geen metalen hoofdonderdelen bevat, uitgezonderd een (licht)metalen motor, dat geen brandbare of explosieve lading bevat, behalve maximaal 125 gram brandstof die nodig is voor de voortstuwing, en dat wordt voortgestuwd door de reactiekracht van een uitgestoten massa aan de achterzijde;
 
-- c. grote modelraket: een toestel met een startmassa van meer dan 1500 gram, maar niet meer dan 35000 gram, dat is gemaakt van papier, hout, (licht)metaal of kunststof en geen brandbare of explosieve lading bevat, behalve de brandstof die nodig is voor de voortstuwing, en dat wordt voortgestuwd door de reactiekracht van een uitgestoten massa aan de achterzijde.
+- modelraket: kleine of grote modelraket, niet zijnde vuurwerk als bedoeld in [artikel 1.1.1, eerste lid, van het Vuurwerkbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0013360&artikel=1.1.1), en niet zijnde militair raket of militair projectiel;
+
+- plaatselijk luchtverkeersleidingsgebied: gecontroleerd luchtruim dat zich vanaf het aardoppervlak verticaal uitstrekt tot aan een vastgestelde bovengrens.
 
 ##### Artikel 2
 
 1. Voor het gebruik van een kleine of grote modelraket in het luchtruim door een lid van een vereniging die zich bezig houdt met het ontwikkelen en het gebruik van een kleine of grote modelraket wordt vrijstelling verleend van het verbod in [artikel 1.2a van de Wet luchtvaart](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&artikel=1.2a).
 
-2. Aan de vrijstelling zijn de in de [artikelen 3 tot en met 5](https://wetten.overheid.nl/jci1.3:c:BWBR0020593&artikel=3&z=2014-08-01&g=2014-08-01) opgenomen voorschriften en beperkingen verbonden.
+2. Aan de vrijstelling zijn de in de [artikelen 3 tot en met 5](https://wetten.overheid.nl/jci1.3:c:BWBR0020593&artikel=3&z=2015-11-07&g=2015-11-07) opgenomen voorschriften en beperkingen verbonden.
 
 ##### Artikel 3
 
@@ -80,15 +82,15 @@ Een kleine modelraket wordt niet gebruikt:
 
 - a. in de Schiphol CTR, bedoeld in [artikel 5, tweede lid, in samenhang met het eerste lid, onderdeel a, van de Regeling luchtverkeersdienstverlening](https://wetten.overheid.nl/jci1.3:c:BWBR0009899&artikel=5) en binnen een afstand van tien km van de grens van deze CTR;
 
-- b. binnen een oefengebied voor nood- of voorzorgslandingen van burgerluchtvaartuigen aangewezen door de Minister van Verkeer en Waterstaat krachtens [artikel 45, tweede lid, onderdeel c, van het Luchtverkeersreglement](https://wetten.overheid.nl/jci1.3:c:BWBR0005775&artikel=45);
+- b. binnen een oefengebied voor nood- of voorzorgslandingen van burgerluchtvaartuigen aangewezen door de Minister van Infrastructuur en Milieu krachtens [artikel 19, eerste lid, onderdeel c, van het Besluit luchtverkeer 2014](https://wetten.overheid.nl/jci1.3:c:BWBR0035899&artikel=19);
 
-- c. binnen de routes en gebieden, bedoeld in de [artikelen 2, eerste lid](512039), en [9, eerste lid, van de Regeling minimum VFR-vlieghoogten en VFR-vluchten buiten de daglichtperiode voor militaire vliegtuigen en helikopters](512039), behalve op vrijdagen na 17.00 uur plaatselijke tijd en op zaterdagen, zondagen en nationale feestdagen;
+- c. binnen de routes en gebieden, bedoeld in de [artikelen 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035356&artikel=2), en [9, eerste lid, van de Regeling minimum VFR-vlieghoogten en VFR-vluchten buiten de daglichtperiode voor militaire vliegtuigen en helikopters](https://wetten.overheid.nl/jci1.3:c:BWBR0035356&artikel=9), behalve op vrijdagen na 17.00 uur plaatselijke tijd en op zaterdagen, zondagen en nationale feestdagen;
 
-- d. binnen een afstand van 5 km van de gebieden en route, bedoeld in [artikel 9, eerste lid, van de Regeling minimum VFR-vlieghoogten en VFR-vluchten buiten de daglichtperiode voor militaire vliegtuigen en helikopters](512039), behalve op vrijdagen na 17.00 uur plaatselijke tijd en op zaterdagen, zondagen en nationale feestdagen;
+- d. binnen een afstand van 5 km van de gebieden en route, bedoeld in [artikel 9, eerste lid, van de Regeling minimum VFR-vlieghoogten en VFR-vluchten buiten de daglichtperiode voor militaire vliegtuigen en helikopters](https://wetten.overheid.nl/jci1.3:c:BWBR0035356&artikel=9), behalve op vrijdagen na 17.00 uur plaatselijke tijd en op zaterdagen, zondagen en nationale feestdagen;
 
-- e. binnen een afstand van 10 km van de grens van een luchtvaartterrein als bedoeld in [artikel 1.1 van de Wet luchtvaart](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&artikel=1.1) waarboven geen plaatselijk luchtverkeersleidingsgebied als bedoeld in [artikel 1 van het Luchtverkeersreglement](https://wetten.overheid.nl/jci1.3:c:BWBR0005775&artikel=1) is ingesteld, tenzij de havenmeester als bedoeld in [artikel 134 van de Regeling Toezicht Luchtvaart](https://wetten.overheid.nl/jci1.3:c:BWBR0002309&artikel=134), respectievelijk de beheerder van het terrein tenminste 24 uur van tevoren, maar niet langer dan 48 uur van tevoren, is geïnformeerd over:
+- e. binnen een afstand van 10 km van de grens van een luchthaven als bedoeld in [artikel 1.1 van de Wet luchtvaart](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&artikel=1.1) waarboven geen plaatselijk luchtverkeersleidingsgebied is ingesteld, tenzij de havenmeester als bedoeld in [artikel 6 van de Regeling veilig gebruik luchthavens en andere terreinen](https://wetten.overheid.nl/jci1.3:c:BWBR0026570&artikel=6), respectievelijk de beheerder van het terrein tenminste 24 uur van tevoren, maar niet langer dan 48 uur van tevoren, is geïnformeerd over:
 
-- 1°. naam, adres en telefoonnummer van het lid van de betreffende vereniging, bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020593&artikel=2&z=2014-08-01&g=2014-08-01), dat als coördinator van de lancering optreedt;
+- 1°. naam, adres en telefoonnummer van het lid van de betreffende vereniging, bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020593&artikel=2&z=2015-11-07&g=2015-11-07), dat als coördinator van de lancering optreedt;
 
 - 2°. lanceerplaats;
 
@@ -100,11 +102,11 @@ Een kleine modelraket wordt niet gebruikt:
 
 - 6°. de berekende maximale hoogte en afstand die de modelraket kan bereiken;
 
-- f. in een plaatselijk luchtverkeersleidingsgebied als bedoeld in [artikel 1 van het Luchtverkeersreglement](https://wetten.overheid.nl/jci1.3:c:BWBR0005775&artikel=1) en binnen een afstand van 10 km van de grens van een dergelijk gebied, niet zijnde de Schiphol CTR, tenzij na overleg van een lid van een vereniging als bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020593&artikel=2&z=2014-08-01&g=2014-08-01), met de instantie die de plaatselijke luchtverkeersleiding verzorgt is gebleken dat voldoende separatie van het overige luchtverkeer is gewaarborgd. Het overleg vindt plaats tenminste één week vóór het beoogde gebruik van de modelraket ten behoeve waarvan de informatie bedoeld in onderdeel e is overgelegd.
+- f. in een plaatselijk luchtverkeersleidingsgebied en binnen een afstand van 10 km van de grens van een dergelijk gebied, niet zijnde de Schiphol CTR, tenzij na overleg van een lid van een vereniging als bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020593&artikel=2&z=2015-11-07&g=2015-11-07), met de instantie die de plaatselijke luchtverkeersleiding verzorgt is gebleken dat voldoende separatie van het overige luchtverkeer is gewaarborgd. Het overleg vindt plaats tenminste één week vóór het beoogde gebruik van de modelraket ten behoeve waarvan de informatie bedoeld in onderdeel e is overgelegd.
 
 ##### Artikel 5
 
-Een grote modelraket wordt alleen gebruikt in het luchtruim na overleg van een lid van een vereniging als bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020593&artikel=2&z=2014-08-01&g=2014-08-01), met de Minister van Verkeer en Waterstaat dan wel met de Minister van Defensie waarin is gebleken dat voldoende separatie van het overige luchtverkeer is gewaarborgd. De [tweede zin van artikel 4, onderdeel f](https://wetten.overheid.nl/jci1.3:c:BWBR0020593&artikel=4&z=2014-08-01&g=2014-08-01), is van overeenkomstige toepassing.
+Een grote modelraket wordt alleen gebruikt in het luchtruim na overleg van een lid van een vereniging als bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020593&artikel=2&z=2015-11-07&g=2015-11-07), met de Minister van Infrastructuur en Milieu dan wel met de Minister van Defensie waarin is gebleken dat voldoende separatie van het overige luchtverkeer is gewaarborgd. De [tweede zin van artikel 4, onderdeel f](https://wetten.overheid.nl/jci1.3:c:BWBR0020593&artikel=4&z=2015-11-07&g=2015-11-07), is van overeenkomstige toepassing.
 
 ##### Artikel 6
 
