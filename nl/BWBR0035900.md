@@ -4,7 +4,7 @@ identifier: "BWBR0035900"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-07-01"
-last_updated: "2014-12-12"
+last_updated: "2015-11-07"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0035900"
 soort: "ministeriele-regeling"
@@ -100,7 +100,7 @@ Ten aanzien van vluchten met luchtvaartuigen die in gebruik zijn bij de Nederlan
 
 ##### Artikel 2.4. Buitenlandse luchtvaartuigen
 
-De [artikelen 2.1](https://wetten.overheid.nl/jci1.3:c:BWBR0035900&hoofdstuk=2&artikel=2.1&z=2014-12-12&g=2014-12-12) en [2.2](https://wetten.overheid.nl/jci1.3:c:BWBR0035900&hoofdstuk=2&artikel=2.2&z=2014-12-12&g=2014-12-12) zijn van overeenkomstige toepassing op een politievlucht uitgevoerd door de bevoegde autoriteit van de Bondsrepubliek Duitsland met een luchtvaartuig als bedoeld in artikel 25, vierde lid, van het op 2 maart 2005 tot stand gekomen Verdrag tussen het Koninkrijk der Nederlanden en de Bondsrepubliek Duitsland inzake de grensoverschrijdende politiële samenwerking en de samenwerking in strafrechtelijke aangelegenheden (Trb. 2005, 86).
+De [artikelen 2.1](https://wetten.overheid.nl/jci1.3:c:BWBR0035900&hoofdstuk=2&artikel=2.1&z=2015-11-07&g=2015-11-07) en [2.2](https://wetten.overheid.nl/jci1.3:c:BWBR0035900&hoofdstuk=2&artikel=2.2&z=2015-11-07&g=2015-11-07) zijn van overeenkomstige toepassing op een politievlucht uitgevoerd door de bevoegde autoriteit van de Bondsrepubliek Duitsland met een luchtvaartuig als bedoeld in artikel 25, vierde lid, van het op 2 maart 2005 tot stand gekomen Verdrag tussen het Koninkrijk der Nederlanden en de Bondsrepubliek Duitsland inzake de grensoverschrijdende politiële samenwerking en de samenwerking in strafrechtelijke aangelegenheden (Trb. 2005, 86).
 
 ### Hoofdstuk 3. Zichtvliegvoorschriften
 
@@ -222,13 +222,21 @@ Bij het toepassen van de uitzondering op de minimum vlieghoogtes voor de in [art
 
 ##### Artikel 4.5. Schermzweeftoestellen, zeil- en zweefvliegtuigen
 
-De strand- en duingebieden van de eilanden Ameland, Texel en Schouwen-Duiveland, alsmede de strand- en duingebieden van Callantsoog tot Noordwijk aan Zee, met uitzondering van die gebieden die vallen binnen het plaatselijke luchtverkeersleidinggebied 'De Kooy/Den Helder', zijn ten behoeve van vluchten met schermzweeftoestellen, zeil- en zweefvliegtuigen aangewezen als strand- en duingebieden als bedoeld in [artikel 19, eerste lid, onderdeel d, van het Besluit luchtverkeer 2014](https://wetten.overheid.nl/jci1.3:c:BWBR0035899&artikel=19), met dien verstande dat deze vluchten slechts kunnen worden uitgevoerd:
+1. De strand- en duingebieden van de eilanden Ameland, Texel en Schouwen-Duiveland, alsmede de strand- en duingebieden van Callantsoog tot Noordwijk aan Zee, met uitzondering van die gebieden die vallen binnen het plaatselijke luchtverkeersleidinggebied 'De Kooy/Den Helder', zijn ten behoeve van vluchten met zweefvliegtuigen aangewezen als strand- en duingebieden als bedoeld in [artikel 19, eerste lid, onderdeel d, van het Besluit luchtverkeer 2014](https://wetten.overheid.nl/jci1.3:c:BWBR0035899&artikel=19), met dien verstande dat deze vluchten slechts kunnen worden uitgevoerd:
 
 - a. gedurende het tijdvak van 15 oktober tot en met 14 mei van het daaropvolgend jaar;
 
 - b. indien de afstand tot personen en zaken minimaal dertig meter bedraagt;
 
 - c. indien de minimumhoogte tot het strand en de duinen ten minste vijf meter bedraagt.
+
+2. De strand- en duingebieden van Maasvlakte, Slufterdam, Zoutelande, Westerschouwen, Noordwijk, Langevelderslag en Noordwijkerhout zijn ten behoeve van vluchten met schermzweeftoestellen en zeilvliegtuigen aangewezen als strand- en duingebieden, als bedoeld in [artikel 19, eerste lid, onderdeel d, van het Besluit luchtverkeer 2014](https://wetten.overheid.nl/jci1.3:c:BWBR0035899&artikel=19), met dien verstande dat deze vluchten slechts kunnen worden uitgevoerd:
+
+- a. overeenkomstig de voorwaarden in de onderdelen b en c van het eerste lid,
+
+- b. boven het strand- en duingebied van Zoutelande, gedurende het tijdvak van 15 juni tot en met 31 augustus van hetzelfde jaar en alleen voor 10:00 uur of na 18:00 uur lokale tijd, en
+
+- c. boven het strand- en duingebied van Noordwijk slechts van 15 oktober tot en met 14 mei van het daarop volgend jaar.
 
 ### Hoofdstuk 5. Slotbepalingen
 
