@@ -4,7 +4,7 @@ identifier: "BWBR0012288"
 country: "nl"
 rank: "circulaire"
 publication_date: "2026-04-04"
-last_updated: "2015-10-19"
+last_updated: "2015-11-13"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0012288"
 soort: "circulaire"
@@ -2837,7 +2837,7 @@ Geen bijzonderheden.
 
 ### 22.3.2. Risicogroepen in de zin van paragraaf C2/3.2 Vc
 
-Geen bijzonderheden.
+De IND merkt LHBT’s aan als risicogroep.
 
 ### 22.4. Ernstige schade in de zin van [artikel 29, eerste lid, onder b, Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=29)
 
@@ -2857,7 +2857,7 @@ De IND neemt in ieder geval aan dat het voor LHBT’s niet mogelijk is de besche
 
 ### 22.5.1. Bescherming door autoriteiten en/of internationale organisaties in de zin van paragraaf C2/3.4 Vc
 
-De IND neemt in ieder geval aan dat het voor LHBT’s niet mogelijk is de bescherming van de autoriteiten of internationale organisaties te verkrijgen.
+De IND neemt aan dat het voor LHBT’s niet mogelijk is de bescherming van de autoriteiten of internationale organisaties te verkrijgen.
 
 ### 22.5.2. Vlucht- en vestigingsalternatief in de zin van paragraaf C2/3.4 Vc
 
@@ -3865,7 +3865,7 @@ Geen bijzonderheden.
 
 ### 22.5. Bescherming
 
-Geen bijzonderheden.
+De IND werpt ten aanzien van LHBT’s terughoudend een vlucht- of vestigingsalternatief tegen. De IND neemt aan dat er voor LHBT’s uitsluitend een vlucht- vestigingsalternatief is indien wordt voldaan aan alle voorwaarden zoals neergelegd in C2/3.4 Vc en uit de verklaringen van de vreemdeling blijkt dat hij langere tijd zonder problemen elders in de Russische Federatie heeft verbleven en daar ook thans een goed sociaal netwerk heeft.
 
 ### 22.6. Adequate opvang alleenstaande minderjarige vreemdelingen
 
