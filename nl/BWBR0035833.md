@@ -4,7 +4,7 @@ identifier: "BWBR0035833"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2015-11-19"
-last_updated: "2015-01-01"
+last_updated: "2015-11-19"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0035833"
 soort: "ministeriele-regeling"
@@ -42,11 +42,11 @@ Besluit:
 
 ##### Artikel 1
 
-Het tijdvak voor de subsidieverstrekking ten behoeve van sanering van verkeerslawaai als bedoeld in de [Subsidieregeling sanering verkeerslawaai](https://wetten.overheid.nl/jci1.3:c:BWBR0020731&wetgeving) wordt vastgesteld voor de periode 1 januari 2015 tot en met 31 december 2015.
+Het tijdvak voor de subsidieverstrekking ten behoeve van sanering van verkeerslawaai als bedoeld in de [Subsidieregeling sanering verkeerslawaai](https://wetten.overheid.nl/jci1.3:c:BWBR0020731) wordt vastgesteld voor de periode 1 januari 2015 tot en met 31 december 2015.
 
 ##### Artikel 2
 
-Het subsidieplafond voor het in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0035833&artikel=1&z=2015-01-01&g=2015-01-01) vastgestelde tijdvak ten behoeve van de sanering van verkeerslawaai wordt vastgesteld op: € 20.441.000,00.
+Het subsidieplafond voor het in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0035833&artikel=1&z=2015-11-19&g=2015-11-19) vastgestelde tijdvak ten behoeve van de sanering van verkeerslawaai wordt vastgesteld op: € 24.000.000,00.
 
 ##### Artikel 3
 
