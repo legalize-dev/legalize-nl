@@ -4,7 +4,7 @@ identifier: "BWBR0013685"
 country: "nl"
 rank: "beleidsregel"
 publication_date: "2024-01-01"
-last_updated: "2009-12-22"
+last_updated: "2015-11-21"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0013685"
 soort: "beleidsregel"
@@ -86,21 +86,19 @@ Deze beleidsregel is niet van toepassing op de exclusieve economische zone.
 
 2. Plaatsing van windturbines in het niet gemeentelijk ingedeelde deel van de territoriale zee wordt slechts toegestaan voor zover een plan, vastgesteld op grond van de [Wet ruimtelijke ordening](https://wetten.overheid.nl/jci1.3:c:BWBR0020449), zodanige plaatsing toelaat.
 
-3. Voor vaarwegen in de territoriale zee is [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0013685&artikel=4&z=2009-12-22&g=2009-12-22) van overeenkomstige toepassing.
+3. Voor vaarwegen in de territoriale zee is [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0013685&artikel=4&z=2015-11-21&g=2015-11-21) van overeenkomstige toepassing.
 
 ##### Artikel 6. Grote wateren
 
-1. Plaatsing van windturbines wordt slechts toegestaan in het IJsselmeer, het Markermeer en de randmeren, het Haringvliet, Hollandsch Diep, de Biesbosch, de Oosterschelde, de Westerschelde, het Veerse meer, het Grevelingenmeer, het Zoommeer, het Krammer-Volkerak, de Waddenzee, de Eems, en de Dollard op locaties waar voldaan wordt aan het bepaalde in [artikel 5, eerste lid onder b, c, d, g](https://wetten.overheid.nl/jci1.3:c:BWBR0013685&artikel=5&z=2009-12-22&g=2009-12-22), waar de kans op erosie van de oever niet wordt vergroot en voor zover windturbines geen feitelijke belemmering vormen voor het waterkwantiteitsbeheer.
+1. Plaatsing van windturbines wordt slechts toegestaan in het IJsselmeer, het Markermeer en de randmeren, het Haringvliet, Hollandsch Diep, de Biesbosch, de Oosterschelde, de Westerschelde, het Veerse meer, het Grevelingenmeer, het Zoommeer, het Krammer-Volkerak, de Waddenzee, de Eems, en de Dollard op locaties waar voldaan wordt aan het bepaalde in [artikel 5, eerste lid onder b, c, d, g](https://wetten.overheid.nl/jci1.3:c:BWBR0013685&artikel=5&z=2015-11-21&g=2015-11-21), waar de kans op erosie van de oever niet wordt vergroot en voor zover windturbines geen feitelijke belemmering vormen voor het waterkwantiteitsbeheer.
 
-2. Voor vaarwegen die lopen door de in het eerste lid genoemde wateren, is [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0013685&artikel=4&z=2009-12-22&g=2009-12-22) van overeenkomstige toepassing.
+2. Voor vaarwegen die lopen door de in het eerste lid genoemde wateren, is [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0013685&artikel=4&z=2015-11-21&g=2015-11-21) van overeenkomstige toepassing.
 
-##### Artikel 7. Primaire waterkeringen
+##### Artikel 7. Waterkeringen
 
-1. Plaatsing van windturbines wordt niet toegestaan in de kernzone van de primaire waterkering. Onder kernzone wordt verstaan het eigenlijke dijk-, duin- of damlichaam, zijnde de primaire waterkering als bedoeld in [artikel 1.1 van de Waterwet](https://wetten.overheid.nl/jci1.3:c:BWBR0025458&artikel=1.1).
+1. Plaatsing van windturbines in de kern- of beschermingszone van een waterkering in beheer van het Rijk, wordt slechts toegestaan indien door de initiatiefnemer voldoende kan worden aangetoond dat deze geen negatieve gevolgen heeft voor de waterkerende functie van de waterkering conform de veiligheidsnorm bij of krachtens de [Waterwet](https://wetten.overheid.nl/jci1.3:c:BWBR0025458).
 
-2. Plaatsing van windturbines buiten de kernzone van de primaire waterkering, wordt slechts toegestaan mits dit geen negatieve gevolgen heeft voor de waterkerende functie van de primaire waterkering conform de veiligheidsnorm van [artikel 2.2 van de Waterwet](https://wetten.overheid.nl/jci1.3:c:BWBR0025458&artikel=2.2).
-
-3. Het bepaalde in het eerste en tweede lid geldt onverminderd het bepaalde in de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0013685&artikel=3&z=2009-12-22&g=2009-12-22), [4](https://wetten.overheid.nl/jci1.3:c:BWBR0013685&artikel=4&z=2009-12-22&g=2009-12-22), [5](https://wetten.overheid.nl/jci1.3:c:BWBR0013685&artikel=5&z=2009-12-22&g=2009-12-22) en [6](https://wetten.overheid.nl/jci1.3:c:BWBR0013685&artikel=6&z=2009-12-22&g=2009-12-22).
+2. Het bepaalde in het eerste lid geldt onverminderd het bepaalde in de [artikelen 3 tot en met 6](https://wetten.overheid.nl/jci1.3:c:BWBR0013685&artikel=3&z=2015-11-21&g=2015-11-21).
 
 ##### Artikel 8. Termijn
 
