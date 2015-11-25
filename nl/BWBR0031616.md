@@ -4,7 +4,7 @@ identifier: "BWBR0031616"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-01-01"
-last_updated: "2015-09-15"
+last_updated: "2015-11-25"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0031616"
 soort: "ministeriele-regeling"
@@ -50,15 +50,15 @@ In deze regeling wordt verstaan onder:
 
 ##### Artikel 2. Modeldiploma
 
-Het model voor de diploma’s van beroepsopleidingen wordt vastgesteld volgens [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0031616&bijlage=1&z=2015-09-15&g=2015-09-15) bij deze regeling.
+Het model voor de diploma’s van beroepsopleidingen wordt vastgesteld volgens [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0031616&bijlage=1&z=2015-11-25&g=2015-11-25) bij deze regeling.
 
 ##### Artikel 3. Modelresultatenlijsten
 
-Het model voor de resultatenlijsten van beroepsopleidingen wordt vastgesteld volgens de [bijlagen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0031616&bijlage=2&z=2015-09-15&g=2015-09-15) en [3](https://wetten.overheid.nl/jci1.3:c:BWBR0031616&bijlage=3&z=2015-09-15&g=2015-09-15) bij deze regeling.
+Het model voor de resultatenlijsten van beroepsopleidingen wordt vastgesteld volgens de [bijlagen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0031616&bijlage=2&z=2015-11-25&g=2015-11-25) en [3](https://wetten.overheid.nl/jci1.3:c:BWBR0031616&bijlage=3&z=2015-11-25&g=2015-11-25) bij deze regeling.
 
 ##### Artikel 4. Regels voor het invullen van diploma’s en resultatenlijsten
 
-Regels voor het invullen van het diploma en de resultatenlijsten zoals in deze regeling genoemd, zijn vastgelegd in de [bijlagen 4](https://wetten.overheid.nl/jci1.3:c:BWBR0031616&bijlage=4&z=2015-09-15&g=2015-09-15) en [5](https://wetten.overheid.nl/jci1.3:c:BWBR0031616&bijlage=5&z=2015-09-15&g=2015-09-15) bij deze regeling.
+Regels voor het invullen van het diploma en de resultatenlijsten zoals in deze regeling genoemd, zijn vastgelegd in de [bijlagen 4](https://wetten.overheid.nl/jci1.3:c:BWBR0031616&bijlage=4&z=2015-11-25&g=2015-11-25) en [5](https://wetten.overheid.nl/jci1.3:c:BWBR0031616&bijlage=5&z=2015-11-25&g=2015-11-25) bij deze regeling.
 
 ##### Artikel 5. Veiligheidseisen papier waardedocumenten
 
@@ -66,15 +66,13 @@ Regels voor het invullen van het diploma en de resultatenlijsten zoals in deze r
 
 - a. een uniek watermerk;
 
-- b. een blinddruk;
+- b. UV-vezels;
 
-- c. UV-vezels;
+- c. een vloeiend kleurverloop;
 
-- d. een vloeiend kleurverloop;
+- d. een microtekst; en
 
-- e. een microtekst; en
-
-- f. een beschermlaag die verkleurt bij mechanische of chemische aantasting.
+- e. een beschermlaag die verkleurt bij mechanische of chemische aantasting.
 
 2. Met het waardepapier dat voldoet aan de veiligheidseisen in het eerste lid, als bedoeld in deze regeling wordt gelijkgesteld waardepapier dat rechtmatig is vervaardigd of in de handel is gebracht in een andere lidstaat van de Europese Unie of in een staat, niet zijnde een lidstaat van de Europese Unie, die partij is bij een tot een douane-unie strekkend Verdrag, dan wel rechtmatig is vervaardigd in een staat die partij is bij een tot een vrijhandelszone strekkend Verdrag dat Nederland bindt, en dat voldoet aan eisen die een beschermingsniveau bieden dat ten minste gelijkwaardig is aan het niveau dat met de nationale eisen wordt nagestreefd.
 
@@ -94,15 +92,15 @@ Deze regeling wordt aangehaald als: Regeling modeldiploma mbo.
 
 Dit onderdeel is nog niet inwerking getreden
 
-## Bijlage 1. behorende bij [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0031616&artikel=2&z=2015-09-15&g=2015-09-15) van de Regeling modeldiploma mbo
+## Bijlage 1. behorende bij [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0031616&artikel=2&z=2015-11-25&g=2015-11-25) van de Regeling modeldiploma mbo
 
-## Bijlage 2. behorende bij [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0031616&artikel=3&z=2015-09-15&g=2015-09-15) van de Regeling modeldiploma mbo
+## Bijlage 2. behorende bij [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0031616&artikel=3&z=2015-11-25&g=2015-11-25) van de Regeling modeldiploma mbo
 
 ## Bijlage 4. behorende bij [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0031616&artikel=4&z=2013-08-01&g=2012-08-01) van de regeling modeldiploma mbo
 
 Dit onderdeel is nog niet inwerking getreden
 
-## Bijlage 3. behorende bij [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0031616&artikel=2&z=2015-09-15&g=2015-09-15) van de Regeling modeldiploma mbo
+## Bijlage 3. behorende bij [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0031616&artikel=2&z=2015-11-25&g=2015-11-25) van de Regeling modeldiploma mbo
 
 Handelende in overeenstemming met de Minister van Economische Zaken, Landbouw en Innovatie;
 
@@ -114,7 +112,7 @@ Besluit:
 
 ### Resultatenlijst voor mbo-niveau 4
 
-## Bijlage 4. behorende bij [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0031616&artikel=4&z=2015-09-15&g=2015-09-15) van de regeling modeldiploma mbo
+## Bijlage 4. behorende bij [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0031616&artikel=4&z=2015-11-25&g=2015-11-25) van de regeling modeldiploma mbo
 
 ### Regels voor het invullen van het modeldiploma
 
@@ -164,7 +162,7 @@ Instellingen hebben de mogelijkheid om extra informatie op het diploma te plaats
 
 ### Regels voor het invullen van de modelresultatenlijst voor de mbo-niveaus 1 tot en met 3 en van de modelresultatenlijst voor mbo-niveau 4
 
-De kwalificatie, het kwalificatiedossier, de Crebocode voor zowel de kwalificatie als het kwalificatiedossier, het niveau, de naam van de examenkandidaat, de geboortedatum en -plaats, de naam van de instelling, eventuele wettelijke beroepsvereisten en de ondertekening moeten worden ingevuld conform de regels voor het invullen van modeldiploma’s mbo, zoals opgenomen in [bijlage 4](https://wetten.overheid.nl/jci1.3:c:BWBR0031616&bijlage=4&z=2015-09-15&g=2015-09-15).
+De kwalificatie, het kwalificatiedossier, de Crebocode voor zowel de kwalificatie als het kwalificatiedossier, het niveau, de naam van de examenkandidaat, de geboortedatum en -plaats, de naam van de instelling, eventuele wettelijke beroepsvereisten en de ondertekening moeten worden ingevuld conform de regels voor het invullen van modeldiploma’s mbo, zoals opgenomen in [bijlage 4](https://wetten.overheid.nl/jci1.3:c:BWBR0031616&bijlage=4&z=2015-11-25&g=2015-11-25).
 
 ### Resultaten
 
@@ -192,7 +190,7 @@ De te hanteren benamingen van de kerntaken en de bijbehorende werkprocessen staa
 
 Voor Nederlandse taal dient, behalve de eindwaardering, ook het resultaat van het centraal examen en het instellingsexamen te worden vermeld. Het resultaat van het centraal examen en het instellingsexamen wordt uitgedrukt in een cijfer met één decimaal, conform [artikel 14 van het Examen- en kwalificatiebesluit beroepsopleidingen WEB](https://wetten.overheid.nl/jci1.3:c:BWBR0027963&artikel=14). Deze cijfers hoeven niet in letters geschreven te worden. Daarnaast wordt voor Nederlandse taal en rekenen ook het referentieniveau waarin het examen is afgelegd op de resultatenlijst opgenomen.
 
-Het referentieniveau, dat op de resultatenlijst wordt vermeld, dient te zijn het referentieniveau waarop de examenkandidaat het examen heeft afgelegd. De referentieniveaus voor de onderdelen Nederlandse taal en rekenen zijn bepaald in de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0027879&artikel=2) en [3 van het Besluit referentieniveaus Nederlandse taal en rekenen](https://wetten.overheid.nl/jci1.3:c:BWBR0027879&artikel=3).
+Het referentieniveau, dat op de resultatenlijst wordt vermeld, dient te zijn het referentieniveau waarop de examenkandidaat het examen heeft afgelegd. De referentieniveaus voor de onderdelen Nederlandse taal en rekenen zijn bepaald in de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0027879&artikel=2) en [3 van het Besluit referentieniveaus Nederlandse taal en rekenen](https://wetten.overheid.nl/jci1.3:c:BWBR0027879&artikel=3). Indien het centraal examen ER voor het onderdeel rekenen is afgelegd, wordt dit vermeld op de resultatenlijst door bij ‘Referentieniveau’ in plaats van het referentieniveau 2F of 3F, ‘2ER’ of ‘3ER’ te vermelden.
 
 ### Pilotfase Nederlandse taal en rekenen
 
