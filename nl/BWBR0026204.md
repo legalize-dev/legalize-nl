@@ -4,7 +4,7 @@ identifier: "BWBR0026204"
 country: "nl"
 rank: "amvb"
 publication_date: "2025-07-18"
-last_updated: "2015-07-18"
+last_updated: "2015-11-26"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0026204"
 soort: "AMvB"
@@ -64,7 +64,7 @@ In dit besluit wordt verstaan onder basisbedrag: basisbedrag als bedoeld in [art
 
 ##### Artikel 3
 
-De door de toezichthouder met toepassing van [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0026204&paragraaf=1&artikel=2&z=2015-07-18&g=2015-07-18) vast te stellen bestuurlijke boete wordt verdubbeld indien tijdens het plegen van de overtreding nog geen vijf jaren zijn verlopen sedert het opleggen van een bestuurlijke boete aan de overtreder ter zake van eenzelfde overtreding.
+De door de toezichthouder met toepassing van [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0026204&paragraaf=1&artikel=2&z=2015-11-26&g=2015-11-26) vast te stellen bestuurlijke boete wordt verdubbeld indien tijdens het plegen van de overtreding nog geen vijf jaren zijn verlopen sedert het opleggen van een bestuurlijke boete aan de overtreder ter zake van eenzelfde overtreding.
 
 ##### Artikel 4
 
@@ -116,9 +116,13 @@ Overtreding van een voorschrift, gesteld in een hierna genoemd artikel van de [W
 | 1:59, tweede lid | 3 |
 | 1:67, eerste lid | 3 |
 | 1:74, eerste lid | 2 |
+| 1:74, eerste lid, voor zover het inlichtingen betreft voor het opstellen en uitvoeren van een afwikkelingsplan | 3 |
+| 1:74, eerste lid, voor overige inlichtingen | 2 |
 | 1:75, eerste lid, voor zover het betreft de niet-naleving van een met betrekking tot artikel 4:24a, eerste of tweede lid, gegeven aanwijzing | 3 |
+| 1:75a | 2 |
 | 1:76, zesde lid, aanhef en onderdeel a | 2 |
 | 1:77, eerste lid | 3 |
+| 1:89 | 2 |
 | 1:113 | 3 |
 | 1:114, eerste en tweede lid | 3 |
 | 1:116 | 3 |
@@ -312,13 +316,17 @@ Overtreding van een voorschrift, gesteld in een hierna genoemd artikel van de [W
 | 3:54, derde lid | 3 |
 | 3:55, tweede lid | 3 |
 | 3:57, eerste, tweede, vijfde en zevende lid | 3 |
+| 3:57, vijfde lid | 3 |
 | 3:59, tweede lid | 3 |
 | 3:62, tweede lid | 3 |
 | 3:62a, derde lid | 2 |
+| 3:62a, derde lid | 3 |
 | 3:62a, derde en vierde lid | 2 |
+| 3:62a, vierde lid | 2 |
 | 3:62a, vijfde lid | 3 |
 | 3:62b, eerste en tweede lid | 3 |
 | 3:63, eerste en tweede lid | 3 |
+| 3:63, derde lid | 3 |
 | 3:66 | 2 |
 | 3:67, eerste lid | 3 |
 | 3:67, tweede en derde lid | 2 |
@@ -422,6 +430,25 @@ Overtreding van een voorschrift, gesteld in een hierna genoemd artikel van de [W
 | 3:298, vijfde lid | 3 |
 | 3:299, eerste lid | 3 |
 | 3:299, eerste en tweede lid | 2 |
+| 3:301, eerste lid | 2 |
+| 3:302, eerste lid | 2 |
+| 3:303, eerste en tweede lid | 1 |
+| 3:304 | 1 |
+| 3:305, eerste, tweede en vierde lid | 3 |
+|   |   |
+| [Deel Bijzondere maatregelen en voorzieningen betreffende financiële ondernemingen](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&titeldeel=3a) |   |
+| 3A:13, eerste en derde lid | 2 |
+| 3A:14, eerste lid | 3 |
+| 3A:15, eerste lid | 3 |
+| 3A:16, eerste lid | 3 |
+| 3A:22, eerste en tweede lid | 2 |
+| 3A:26, vierde lid | 2 |
+| 3A:36 |   |
+| 3A:42, tweede lid | 2 |
+| 3A:45, eerste en tweede lid | 2 |
+| 3A:47, eerste tot en met derde lid | 2 |
+| 3A:48, derde, vijfde en zesde lid | 2 |
+| 3A:71, tweede lid | 3 |
 |   |   |
 | [Deel Gedragstoezicht financiële ondernemingen](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&titeldeel=4) |   |
 | 4:3, eerste lid | 3 |
@@ -682,8 +709,7 @@ Overtreding van een voorschrift, gesteld in een hierna genoemd artikel van de [W
 | 13, tweede lid | 2 |
 | 14, derde lid | 2 |
 | 15, derde lid | 2 |
-| 21, eerste lid | 2 |
-| 22, tweede lid | 2 |
+| 29.03, eerste en tweede lid | 2 |
 | 30, derde lid | 2 |
 |   |   |
 | [Besluit reikwijdtebepalingen Wft](https://wetten.overheid.nl/jci1.3:c:BWBR0020419) |   |
@@ -724,14 +750,21 @@ Overtreding van een voorschrift, gesteld in een hierna genoemd artikel van de [W
 | 23, eerste tot en met vijfde lid | 3 |
 | 23a | 2 |
 | 23b, eerste en tweede lid | 2 |
-| 23c, eerste lid | 2 |
-| 23d | 2 |
-| 23f, eerste tot en met derde lid | 2 |
+| 23d, eerste tot en met derde lid | 3 |
+| 23e, eerste en tweede lid | 3 |
+| 23f, eerste lid | 3 |
+| 23f, tweede lid | 2 |
+| 23g, derde lid | 3 |
+| 23h | 3 |
+| 23i | 2 |
+| 23j, eerste tot en met derde lid | 2 |
 | 24 | 2 |
 | 24a, eerste en tweede lid | 2 |
 | 24b, eerste tot en met vijfde lid | 2 |
 | 25 | 2 |
+| 25a, eerste lid | 2 |
 | 26, eerste tot en met vijfde lid | 2 |
+| 26a | 1 |
 | 26.0 | 2 |
 | 26.1, eerste en tweede lid | 2 |
 | 26b | 2 |
@@ -1471,7 +1504,7 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 ##### Artikel 4a
 
-Onverminderd de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0026204&paragraaf=1&artikel=2&z=2015-07-18&g=2015-07-18), [3](https://wetten.overheid.nl/jci1.3:c:BWBR0026204&paragraaf=1&artikel=3&z=2015-07-18&g=2015-07-18) en [4](https://wetten.overheid.nl/jci1.3:c:BWBR0026204&paragraaf=1&artikel=4&z=2015-07-18&g=2015-07-18) houdt de toezichthouder bij het vaststellen van een bestuurlijke boete die wordt opgelegd aan een bank of een beleggingsonderneming als bedoeld in de verordening kapitaalvereisten ter zake van een overtreding van de verordening kapitaalvereisten of het ingevolge het Deel Prudentieel toezicht financiële ondernemingen van de wet bepaalde, rekening met de omstandigheden, bedoeld in artikel 70 van de richtlijn kapitaalvereisten.
+Onverminderd de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0026204&paragraaf=1&artikel=2&z=2015-11-26&g=2015-11-26), [3](https://wetten.overheid.nl/jci1.3:c:BWBR0026204&paragraaf=1&artikel=3&z=2015-11-26&g=2015-11-26) en [4](https://wetten.overheid.nl/jci1.3:c:BWBR0026204&paragraaf=1&artikel=4&z=2015-11-26&g=2015-11-26) houdt de toezichthouder bij het vaststellen van een bestuurlijke boete die wordt opgelegd aan een bank of een beleggingsonderneming als bedoeld in de verordening kapitaalvereisten ter zake van een overtreding van de verordening kapitaalvereisten of het ingevolge het Deel Prudentieel toezicht financiële ondernemingen van de wet bepaalde, rekening met de omstandigheden, bedoeld in artikel 70 van de richtlijn kapitaalvereisten.
 
 #### § 2. Indeling van overtredingen in categorieën
 
