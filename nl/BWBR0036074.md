@@ -4,7 +4,7 @@ identifier: "BWBR0036074"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2015-11-26"
-last_updated: "2015-01-01"
+last_updated: "2015-11-26"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0036074"
 soort: "ministeriele-regeling"
@@ -36,7 +36,7 @@ entry_into_force: "2015-01-01"
 ---
 # Regeling van de Minister van Economische Zaken van 10 december 2014, nr. WJZ/14148909, houdende regels inzake de teelt van gewassen (Regeling teelt)
 
-Gelet op de [artikelen 6a](https://wetten.overheid.nl/jci1.3:c:BWBR0019210&artikel=6a), [6b](https://wetten.overheid.nl/jci1.3:c:BWBR0019210&artikel=6b) en 6c van het [Besluit verhandeling teeltmateriaal](https://wetten.overheid.nl/jci1.3:c:BWBR0019210&wetgeving);
+Gelet op de [artikelen 6a](https://wetten.overheid.nl/jci1.3:c:BWBR0019210&artikel=6a), [6b](https://wetten.overheid.nl/jci1.3:c:BWBR0019210&artikel=6b) en 6c van het [Besluit verhandeling teeltmateriaal](https://wetten.overheid.nl/jci1.3:c:BWBR0019210);
 
 Besluit:
 
@@ -70,9 +70,9 @@ In deze regeling wordt verstaan onder:
 
 - **suikerbietenschieter:** suikerbieten die al in het eerste jaar tot de vorming van zaad zijn overgegaan;
 
-- **toegelaten:** overeenkomstig [paragraaf 3.3 van het Besluit genetisch gemodificeerde organismen milieubeheer](https://wetten.overheid.nl/jci1.3:c:BWBR0004703&paragraaf=3) of [verordening (EG) nr. 1829/2003](32003R1829) van het Europees Parlement en de Raad van 22 september 2003 inzake genetisch gemodificeerde levensmiddelen en diervoeders (Pb EU 2003, L 268) toegelaten voor de handel;
+- **toegelaten:** overeenkomstig hoofdstuk 4 van het Besluit genetisch gemodificeerde organismen milieubeheer 2013 of Verordening (EG) nr. 1829/2003 van het Europees Parlement en de Raad van 22 september 2003 inzake genetisch gemodificeerde levensmiddelen en diervoeders (Pb EU 2003, L268) toegelaten voor de handel;
 
-- **vergund:** overeenkomstig [paragraaf 3.2 van het Besluit genetisch gemodificeerde organismen milieubeheer](https://wetten.overheid.nl/jci1.3:c:BWBR0004703&wetgeving) vergund;
+- **vergund:** overeenkomstig [hoofdstuk 3 van het Besluit genetisch gemodificeerde organismen milieubeheer 2013](https://wetten.overheid.nl/jci1.3:c:BWBR0035090&hoofdstuk=3) vergund;
 
 - **wilde haver:** plant van de soort **Avena fatua**.
 
@@ -88,11 +88,11 @@ In deze regeling wordt verstaan onder:
 
 ##### Artikel 3
 
-De opslag en bewerking van landbouwzaaizaad als bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036074&hoofdstuk=2&artikel=2&z=2015-01-01&g=2015-01-01), dat niet is goedgekeurd en dat wordt gebruikt overeenkomstig artikel 2, tweede of derde lid, wordt zodanig ingericht dat geen vermenging van partijen zaaizaad van verschillende landbouwers plaatsvindt.
+De opslag en bewerking van landbouwzaaizaad als bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036074&hoofdstuk=2&artikel=2&z=2015-11-26&g=2015-11-26), dat niet is goedgekeurd en dat wordt gebruikt overeenkomstig artikel 2, tweede of derde lid, wordt zodanig ingericht dat geen vermenging van partijen zaaizaad van verschillende landbouwers plaatsvindt.
 
 ##### Artikel 4
 
-1. Degene die landbouwzaaizaad als bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036074&hoofdstuk=2&artikel=2&z=2015-01-01&g=2015-01-01) dat niet is goedgekeurd en dat wordt gebruikt overeenkomstig artikel 2, tweede of derde lid, bewerkt, houdt een dagelijkse administratie bij waaruit voor elke aangevoerde, voorhanden of in voorraad zijnde, of teruggeleverde partij landbouwzaaizaad blijkt:
+1. Degene die landbouwzaaizaad als bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036074&hoofdstuk=2&artikel=2&z=2015-11-26&g=2015-11-26) dat niet is goedgekeurd en dat wordt gebruikt overeenkomstig artikel 2, tweede of derde lid, bewerkt, houdt een dagelijkse administratie bij waaruit voor elke aangevoerde, voorhanden of in voorraad zijnde, of teruggeleverde partij landbouwzaaizaad blijkt:
 
 - a. de naam van de opdrachtgever;
 
@@ -118,7 +118,7 @@ Op verzoek van de Minister doet degene die landbouwzaaizaden gebruikt, opslaat, 
 
 ##### Artikel 6
 
-1. De ggo-teler meldt tijdig schriftelijk aan telers waarvan de percelen binnen de afstanden, bedoeld in [artikel 7, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0036074&hoofdstuk=2&artikel=7&z=2015-01-01&g=2015-01-01), van de te telen gg-gewassen liggen, welke gg-gewassen hij voornemens is te gaan telen. Aan de verplichting van tijdigheid is niet voldaan na het passeren van de datum van 31 januari van het jaar waarin de ggo-teler van plan is de gg-gewassen te telen.
+1. De ggo-teler meldt tijdig schriftelijk aan telers waarvan de percelen binnen de afstanden, bedoeld in [artikel 7, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0036074&hoofdstuk=2&artikel=7&z=2015-11-26&g=2015-11-26), van de te telen gg-gewassen liggen, welke gg-gewassen hij voornemens is te gaan telen. Aan de verplichting van tijdigheid is niet voldaan na het passeren van de datum van 31 januari van het jaar waarin de ggo-teler van plan is de gg-gewassen te telen.
 
 2. De ggo-vrije teler of de niet-ggo teler die een melding als bedoeld in het eerste lid heeft ontvangen en die voornemens is dezelfde plantensoort te gaan telen, meldt dit schriftelijk binnen twee weken na ontvangst van de melding, bedoeld in het eerste lid, aan de ggo-teler.
 
