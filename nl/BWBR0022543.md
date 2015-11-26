@@ -4,7 +4,7 @@ identifier: "BWBR0022543"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2023-10-14"
-last_updated: "2014-07-01"
+last_updated: "2015-11-26"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0022543"
 soort: "ministeriele-regeling"
@@ -40,6 +40,8 @@ Gelet op de Europese verordeningen en richtlijnen met betrekking tot het in de h
 
 Besluit:
 
+Treedt in werking op het tijdstip waarop het Landbouwkwaliteitsbesluit 2007 in werking treedt.
+
 ### Hoofdstuk 1. Biologische productiemethode
 
 ##### Artikel 1
@@ -47,6 +49,8 @@ Besluit:
 In deze regeling wordt verstaan onder:
 
 - **de Minister:** de Minister van Economische Zaken;
+
+- **verordening (EG) 1580/2007:** Verordening (EG) nr. 1580/2007 van de Commissie van 21 december 2007 tot vaststelling van bepalingen voor de uitvoering van de Verordeningen (EG) nr. 2200/96, (EG) nr. 2201/96 en (EG) nr. 1182/2007 van de Raad in de sector groenten en fruit (PbEU 2007, L 350);
 
 - **verordening (EG) 889/2008:** verordening (EG) nr. 889/2008 van de Commissie van 5 september 2008 tot vaststelling van bepalingen ter uitvoering van Verordening (EG) 834/2007 van de Raad inzake de biologische productie en de etikettering van biologische producten, wat de biologische productie, de etikettering en de controle betreft (PbEU L 250);
 
@@ -90,7 +94,7 @@ Vervallen
 
 ##### Artikel 9
 
-Marktdeelnemers die groenten en fruit in de handel brengen als bedoeld in artikel 9, eerste lid, van verordening (EG) 1580/2007 verstrekken overeenkomstig het vierde en vijfde lid van dit artikel gegevens aan de Stichting KCB ten behoeve van het beheer van de gegevensbank door deze Stichting.
+Marktdeelnemers als bedoeld in artikel 10, tweede lid, van verordening (EU) 543/2011 verstrekken de in het vijfde en zesde lid van dat artikel bedoelde gegevens aan de Stichting KCB ten behoeve van de gegevensbank, bedoeld in het eerste lid van dat artikel, die wordt beheerd door deze Stichting.
 
 ##### Artikel 10
 
@@ -98,31 +102,29 @@ Marktdeelnemers die bananen in de handel brengen, die op grond van artikel 7, ee
 
 ##### Artikel 11
 
-De Minister is de coördinerende autoriteit, bedoeld in artikel 8 van verordening (EG) 1580/2007.
+De Minister is de coördinerende autoriteit, bedoeld in artikel 9, eerste lid, onderdeel a, van verordening (EU) 543/2011.
 
 ##### Artikel 12
 
 De Stichting KCB is belast met:
 
-- a. het verlenen van de in artikel 11, eerste lid, van verordening (EG) 1580/2007 bedoelde toestemming;
+- a. het verlenen van de in artikel 12, eerste lid, van verordening (EU) 543/2011 bedoelde toestemming;
 
-- b. de vaststelling van het minimumaandeel, bedoeld in artikel 10, tweede lid, onderdeel b, van verordening (EG) 1580/2007;
+- b. de vaststelling van het minimum percentage, bedoeld in artikel 11, tweede lid, onderdeel b, van verordening (EU) 543/2011;
 
 - c. het verlenen van vrijstellingen en de afgifte van vrijstellingscertificaten, bedoeld in artikel 7, eerste lid, van [verordening (EG) 2898/95](31995R2898).
 
 ##### Artikel 13
 
-1. De controle van groenten en fruit door de Stichting KCB geschiedt overeenkomstig de artikelen 10 en 20 en bijlage VI van verordening (EG) 1580/2007 en artikel 113 bis, vierde lid en de krachtens artikel 194 van verordening (EG) 1234/2007 vastgestelde voorschriften bij de normcontroles op de interne markt.
+1. De controle van groenten en fruit door de Stichting KCB geschiedt overeenkomstig de artikelen 11 en 17 en bijlage V van verordening (EU) 543/2011 en artikel 113 bis, vierde lid en de krachtens artikel 194 van verordening (EG) 1234/2007 vastgestelde voorschriften bij de normcontroles op de interne markt.
 
 2. De keuring en controle van bananen door de Stichting KCB geschiedt overeenkomstig de artikelen 2 tot en met 7 van [verordening (EG) 2898/95](31995R2898).
 
-3. De keuring en controle van krenten en rozijnen door de Stichting KCB geschiedt overeenkomstig artikel 2 van [verordening (EG) 1666/99](31999R1666).
-
 ##### Artikel 14
 
-1. Indien door de Stichting KCB bij een normcontrole wordt vastgesteld dat een partij groenten of fruit, die zich in het vrije verkeer binnen de Europese Unie bevindt, niet voldoet aan de in de verordening (EG) 1580/2007 en de bij of krachtens verordening (EG) 1234/2007 gestelde eisen, wordt een verklaring van niet-conformiteit opgesteld als bedoeld in artikel 20, derde lid, van verordening (EG) 1580/2007.
+1. Indien door de Stichting KCB bij een normcontrole wordt vastgesteld dat een partij groenten of fruit, die zich in het vrije verkeer binnen de Europese Unie bevindt, niet voldoet aan de in de verordening (EU) 543/2011 en de bij of krachtens verordening (EU) 1308/2013 gestelde eisen, wordt een verklaring van niet-conformiteit opgesteld als bedoeld in artikel 17, derde lid, van verordening (EU) 543/2011.
 
-2. Een partij groenten of fruit, waarvoor de Stichting KCB een verklaring van niet-conformiteit heeft afgegeven, mag niet worden vervoerd, verplaatst, verhandeld of vernietigd zonder toestemming van de Stichting KCB overeenkomstig artikel 20, derde lid, van verordening (EG) 1580/2007.
+2. Een partij groenten of fruit, waarvoor de Stichting KCB een verklaring van niet-conformiteit heeft afgegeven, mag niet worden vervoerd, verplaatst, verhandeld of vernietigd zonder toestemming van de Stichting KCB overeenkomstig artikel 17, derde lid, van verordening (EU) 543/2011.
 
 3. Voor de toestemming, bedoeld in het tweede lid kan als voorwaarde worden gesteld dat aan door de Stichting KCB gestelde eisen wordt voldaan.
 
@@ -188,7 +190,7 @@ Vervallen
 
 ##### Artikel 23
 
-Onder bloembollen wordt verstaan: bollen, knollen, wortelstokken en andere voor vermeerdering of bloemproductie bestemde plantendelen van de in de [bijlage II](https://wetten.overheid.nl/jci1.3:c:BWBR0022543&bijlage=II&z=2014-07-01&g=2014-07-01) bij deze regeling onder I genoemde gewassen, voor zover zij behoren tot de daarachter onder II vermelde botanische families, geslachten of soorten.
+Onder bloembollen wordt verstaan: bollen, knollen, wortelstokken en andere voor vermeerdering of bloemproductie bestemde plantendelen van de in de [bijlage II](https://wetten.overheid.nl/jci1.3:c:BWBR0022543&bijlage=II&z=2015-11-26&g=2015-11-26) bij deze regeling onder I genoemde gewassen, voor zover zij behoren tot de daarachter onder II vermelde botanische families, geslachten of soorten.
 
 ##### Artikel 24
 
@@ -220,7 +222,7 @@ Als personen belast met het toezicht op de naleving als bedoeld in [artikel 15, 
 
 ##### Artikel 27
 
-De op het tijdstip van inwerkingtreding van dit artikel bij het Hoofdproductschap Akkerbouw aanhangige aanvragen en verzoeken, bedoeld in [artikel 17, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022543&hoofdstuk=4&artikel=17&z=2014-07-01&g=2014-07-01), worden met ingang van 1 januari 2014 overeenkomstig deze regeling behandeld door de daartoe bevoegde autoriteit met inachtneming van de termijn die op dat tijdstip is verstreken sinds het tijdstip van indiening van de aanvraag of het verzoek.
+De op het tijdstip van inwerkingtreding van dit artikel bij het Hoofdproductschap Akkerbouw aanhangige aanvragen en verzoeken, bedoeld in [artikel 17, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022543&hoofdstuk=4&artikel=17&z=2015-11-26&g=2015-11-26), worden met ingang van 1 januari 2014 overeenkomstig deze regeling behandeld door de daartoe bevoegde autoriteit met inachtneming van de termijn die op dat tijdstip is verstreken sinds het tijdstip van indiening van de aanvraag of het verzoek.
 
 ##### Artikel 28
 
@@ -420,7 +422,7 @@ In dit hoofdstuk wordt verstaan onder marktdeelnemer: iedere natuurlijke persoon
 
 1. Een controle-instelling kan de tarieven, bedoeld in [artikel 11, eerste lid, van de Landbouwkwaliteitswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002755&artikel=11), in rekening brengen bij aan haar toezicht of keuring onderworpen marktdeelnemers.
 
-2. De controle-instelling kan de tarieven, bedoeld in het eerste lid, in rekening brengen ter dekking van de kosten die verband houden met de activiteiten ten behoeve van het toezicht of de keuring waarmee deze op grond van de [artikelen 11 tot en met 16 van het Landbouwkwaliteitsbesluit 2007](https://wetten.overheid.nl/jci1.3:c:BWBR0022535&artikel=11) of [artikel 10 van het Landbouwkwaliteitsbesluit zuivelproducten](https://wetten.overheid.nl/jci1.3:c:BWBR0009770&artikel=10) is belast. De tarieven kunnen in rekening worden gebracht in de vorm van:
+2. De controle-instelling kan de tarieven, bedoeld in het eerste lid, in rekening brengen ter dekking van de kosten die verband houden met de activiteiten ten behoeve van het toezicht of de keuring waarmee deze op grond van de [artikelen 11 tot en met 16 van het Landbouwkwaliteitsbesluit 2007](https://wetten.overheid.nl/jci1.3:c:BWBR0022535&artikel=11) of de [artikelen 2.10](https://wetten.overheid.nl/jci1.3:c:BWBR0032335&artikel=2.10) en [2.11 van het Besluit dierlijke producten](https://wetten.overheid.nl/jci1.3:c:BWBR0032335&artikel=2.11) is belast. De tarieven kunnen in rekening worden gebracht in de vorm van:
 
 - a. een retributie op basis van de activiteiten die worden verricht door of in opdracht van de controle-instelling ten behoeve van het toezicht of de keuring bij de desbetreffende marktdeelnemer, of
 
@@ -1470,7 +1472,7 @@ Producten voor de reiniging en de ontsmetting van gebouwen en installaties voor 
 | Fluorverbindingen | Alleen voor de reiniging van glas in lege kassen |
 | Middelen die door de Plantenziektekundige Dienst zijn verplicht voor de reiniging van productielocaties in geval van besmetting met quarantaineorganismen |   |
 
-## Bijlage I. als bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0022543&hoofdstuk=1&artikel=4&z=2014-07-01&g=2014-07-01) van de Landbouwkwaliteitsregeling 2007
+## Bijlage I. als bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0022543&hoofdstuk=1&artikel=4&z=2015-11-26&g=2015-11-26) van de Landbouwkwaliteitsregeling 2007
 
 Vervallen
 
@@ -1492,7 +1494,7 @@ Vervallen
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
-## Bijlage II. als bedoeld in [artikel 23](https://wetten.overheid.nl/jci1.3:c:BWBR0022543&hoofdstuk=6&artikel=23&z=2014-07-01&g=2014-07-01) van de Landbouwkwaliteitsregeling 2007
+## Bijlage II. als bedoeld in [artikel 23](https://wetten.overheid.nl/jci1.3:c:BWBR0022543&hoofdstuk=6&artikel=23&z=2015-11-26&g=2015-11-26) van de Landbouwkwaliteitsregeling 2007
 
 | I | II |
 | --- | --- |
@@ -1895,7 +1897,7 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 Een controle-instelling maakt de tarieven, bedoeld in [artikel 11, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002755&artikel=11), bekend op haar website.
 
-## Bijlage III. als bedoeld in [artikel 8a](https://wetten.overheid.nl/jci1.3:c:BWBR0022543&hoofdstuk=1&artikel=8a&z=2014-07-01&g=2014-07-01) van de Landbouwkwaliteitsregeling 2007
+## Bijlage III. als bedoeld in [artikel 8a](https://wetten.overheid.nl/jci1.3:c:BWBR0022543&hoofdstuk=1&artikel=8a&z=2015-11-26&g=2015-11-26) van de Landbouwkwaliteitsregeling 2007
 
 Producten voor de reiniging en de ontsmetting van gebouwen en installaties voor de plantaardige productie:
 
