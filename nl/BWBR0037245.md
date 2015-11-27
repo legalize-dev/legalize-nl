@@ -101,9 +101,3 @@ Dit besluit treedt in werking met ingang van de dag na dagtekening van de Staats
 Dit besluit wordt aangehaald als: Besluit buitengewoon opsporingsambtenaar gemeente Ermelo 2015, domein I.
 
 Dit besluit zal met de toelichting in de Staatscourant worden geplaatst.
-
-##### Artikel 6
-
-De buitengewoon opsporingsambtenaar kan de in [artikel 7, eerste en derde lid, van de Politiewet 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&artikel=7) omschreven bevoegdheden uitoefenen met gebruikmaking van handboeien.
-
-Dit besluit zal met de toelichting in de Staatscourant worden geplaatst.
