@@ -4,7 +4,7 @@ identifier: "BWBR0020371"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-03-05"
-last_updated: "2013-05-02"
+last_updated: "2015-11-27"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0020371"
 soort: "ministeriele-regeling"
@@ -46,9 +46,9 @@ Besluit:
 
 ##### Artikel 1
 
-1. Het is verboden te handelen in strijd met de artikelen 1 bis, eerste lid, 1 ter, eerste lid, 2 en 5 van Verordening (EG) nr. 765/2006 van de Raad van de Europese Unie van 18 mei 2006 betreffende beperkende maatregelen ten aanzien van Belarus (Pb L 134).
+1. Het is verboden te handelen in strijd met de artikelen 1 bis, eerste lid, 1 ter, eerste lid, 2, eerste, tweede en derde lid, en 5 van Verordening (EG) nr. 765/2006 van de Raad van de Europese Unie van 18 mei 2006 betreffende beperkende maatregelen ten aanzien van Belarus (Pb L 134).
 
-2. Een verbod als bedoeld in het eerste lid, is niet van toepassing in gevallen waarin artikel 1 bis, tweede of derde lid, 1 ter, tweede of derde lid, artikel 3, eerste of tweede lid, artikel 4, artikel 4 bis of artikel 4 ter van Verordening (EG) nr. 765/2006 van toepassing is.
+2. Een verbod als bedoeld in het eerste lid, is niet van toepassing in gevallen waarin artikel 1 bis, tweede of derde lid, 1 ter, tweede of derde lid, artikel 2, zesde lid, artikel 3, eerste of tweede lid, artikel 4, artikel 4 bis of artikel 4 ter van Verordening (EG) nr. 765/2006 van toepassing is.
 
 ##### Artikel 2
 
@@ -62,11 +62,11 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 ##### Artikel 1a
 
-1. De bevoegde autoriteit, bedoeld in artikel 1 bis, derde lid, van Verordening (EG) nr. 765/2006, is de Minister van Economische Zaken, Landbouw en Innovatie.
+1. De bevoegde autoriteit, bedoeld in artikel 1 bis, derde lid, van Verordening (EG) nr. 765/2006, is de Minister voor Buitenlandse Handel en Ontwikkelingssamenwerking.
 
-2. De bevoegde autoriteit, bedoeld in artikel 1 ter, tweede lid, van Verordening (EG) nr. 765/2006, is voor zover het betreft de verlening van technische bijstand, de Minister van Economische Zaken, Landbouw en Innovatie, en voor zover het betreft de verlening van financiële bijstand, de Minister van Financiën.
+2. De bevoegde autoriteit, bedoeld in artikel 1 ter, tweede lid, van Verordening (EG) nr. 765/2006, is voor zover het betreft de verlening van technische bijstand, de Minister voor Buitenlandse Handel en Ontwikkelingssamenwerking, en voor zover het betreft de verlening van financiële bijstand, de Minister van Financiën.
 
-3. De bevoegde autoriteit, bedoeld in artikel 3, eerste en tweede lid, artikel 4 bis, en artikel 4 ter, van Verordening (EG) nr. 765/2006 is, voor zover het betreft de vrijgave en de beschikbaarstelling van economische middelen, de Minister van Economische Zaken, Landbouw en Innovatie.
+3. De bevoegde autoriteit, bedoeld in artikel 3, eerste en tweede lid, artikel 4 bis, en artikel 4 ter, van Verordening (EG) nr. 765/2006 is, voor zover het betreft de vrijgave en de beschikbaarstelling van economische middelen, de Minister voor Buitenlandse Handel en Ontwikkelingssamenwerking.
 
 4. De bevoegde autoriteit, bedoeld in artikel 3, eerste en tweede lid, artikel 4 bis, en artikel 4 ter, van Verordening (EG) nr. 765/2006 is, voor zover het betreft de vrijgave en de beschikbaarstelling van tegoeden, de Minister van Financiën.
 
@@ -78,7 +78,7 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 1. Het is verboden om militaire goederen, alsmede militaire technologie, aangewezen in de [Uitvoeringsregeling strategische goederen 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0030610), dan wel onderdelen daarvan, direct of indirect te verkopen, te leveren, over te dragen aan, dan wel door of uit te voeren naar entiteiten of personen in Belarus of voor gebruik in of ten behoeve van Belarus, ongeacht het land van oorsprong.
 
-2. Het eerste lid is niet van toepassing met vooraf verleende ontheffing van de Minister van Economische Zaken, Landbouw en Innovatie op:
+2. Het eerste lid is niet van toepassing met vooraf verleende ontheffing van de Minister voor Buitenlandse Handel en Ontwikkelingssamenwerking op:
 
 - a. de verkoop, levering, overdracht of uitvoer van niet-dodelijke militaire uitrusting die uitsluitend bestemd is voor humanitaire of beschermende doeleinden, voor programma’s voor institutionele opbouw of voor crisisbeheersingsoperaties van de Verenigde Naties en de Europese Unie;
 
