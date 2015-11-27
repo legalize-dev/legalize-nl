@@ -125,19 +125,3 @@ Deze regeling wordt aangehaald als: Subsidieregeling huisvestingslasten gesloten
 | 2020 | 100% | 0% |
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
-
-##### Artikel 9a
-
-De Minister kan een of meer bepalingen van deze regeling buiten toepassing laten of daarvan afwijken voor zover toepassing gelet op het belang dat de desbetreffende bepaling beoogt te beschermen, zal leiden tot een onbillijkheid van overwegende aard.
-
-## Bijlage. schema invoering normatieve huisvestingscomponent (NHC)
-
-| Jaar | NHC | Subsidiebedrag 2015 |
-| --- | --- | --- |
-| 2016 | 20% | 80% |
-| 2017 | 40% | 60% |
-| 2018 | 60% | 40% |
-| 2019 | 80% | 20% |
-| 2020 | 100% | 0% |
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
