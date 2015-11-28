@@ -4,7 +4,7 @@ identifier: "BWBR0005758"
 country: "nl"
 rank: "amvb"
 publication_date: "2025-01-01"
-last_updated: "2015-01-01"
+last_updated: "2015-11-28"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0005758"
 soort: "AMvB"
@@ -74,7 +74,7 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
 - 2°. geen ingrediënt wordt van die waar, maar daarin uitsluitend aanwezig is als onbedoeld maar technisch onvermijdelijk residu;
 
-- f. **richtlijn 98/83/EG:** [richtlijn nr. 98/83/EG](31998L0083) van de Raad van de Europese Unie van 3 november 1998 betreffende de kwaliteit van voor menselijke consumptie bestemd water (PbEG L 330);
+- f. **richtlijn 2013/51/Euratom:** Richtlijn 2013/51/Euratom van de Raad van 22 oktober 2013 tot vaststelling van voorschriften voor de bescherming van de volksgezondheid tegen radioactieve stoffen in voor menselijke consumptie bestemd water (PbEU 2013, L 296);
 
 - g. **voor menselijke consumptie bestemd water:** al het water, niet zijnde natuurlijk mineraalwater, bronwater of een geneesmiddel, dat in enig levensmiddelenbedrijf wordt gebruikt voor de vervaardiging, de behandeling, de conservering of het in de handel brengen van voor menselijke consumptie bestemde waren of stoffen;
 
@@ -126,7 +126,7 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
 7. Het is verboden eet- of drinkwaren te verhandelen die afkomstig zijn van dieren waarop diergeneesmiddelen zijn beproefd, tenzij overeenkomstig [Verordening (EEG) nr. 2377/90](31990R2377) van de Raad van de Europese Gemeenschappen van 26 juni 1990 houdende een communautaire procedure tot vaststelling van maximumwaarden voor residuen van geneesmiddelen voor diergeneeskundig gebruik in levensmiddelen van dierlijke oorsprong (PbEG L 224) maximumwaarden aan residuen en een passende wachttijd zijn vastgesteld om te waarborgen dat deze maximumwaarden aan residuen in die eet- of drinkwaren niet worden overschreden, en die bepalingen in acht zijn genomen.
 
-8. Het is verboden pluimveevlees te verhandelen anders dan met inachtneming van [artikel 4a](https://wetten.overheid.nl/jci1.3:c:BWBR0005758&paragraaf=3&artikel=4a&z=2015-01-01&g=2015-01-01) inzake de verpakking van de waar.
+8. Het is verboden pluimveevlees te verhandelen anders dan met inachtneming van [artikel 4a](https://wetten.overheid.nl/jci1.3:c:BWBR0005758&paragraaf=3&artikel=4a&z=2015-11-28&g=2015-11-28) inzake de verpakking van de waar.
 
 9. Het is verboden te handelen in strijd met de artikelen 1, eerste lid, 3, en 5, van verordening (EG) 1881/2006.
 
@@ -138,7 +138,7 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
 13. Het is verboden ten aanzien van eet- en drinkwaren te handelen in strijd met de artikelen 18, eerste lid, 19 en 20, eerste lid, van verordening (EG) 396/2005.
 
-14. Het is verboden te handelen in strijd met [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0005758&paragraaf=2&artikel=3&z=2015-01-01&g=2015-01-01).
+14. Het is verboden te handelen in strijd met [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0005758&paragraaf=2&artikel=3&z=2015-11-28&g=2015-11-28).
 
 15. Het is verboden te handelen in strijd met artikel 1, eerste lid, eerste en derde alinea, van verordening (EG) 124/2009.
 
@@ -192,7 +192,7 @@ Deze vermelding wordt aangebracht:
 
 ##### Artikel 5
 
-Vervallen
+Het voor menselijke consumptie bestemd water voldoet op het punt waar het water in het levensmiddelenbedrijf wordt gebruikt, aan de parameterwaarden, bedoeld in bijlage I bij richtlijn 2013/51/Euratom.
 
 ##### Artikel 5a
 
@@ -274,7 +274,7 @@ Het gehalte aan erucazuur in eet- of drinkwaren, berekend op het totale gehalte 
 
 ##### Artikel 13
 
-In eet- en drinkwaren mogen door Onze Minister aangewezen verontreinigingen, andere dan bedoeld in [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0005758&paragraaf=4&artikel=12&z=2015-01-01&g=2015-01-01), die uit oogpunt van gezondheid schadelijk kunnen zijn, niet in een grotere hoeveelheid aanwezig zijn dan door Onze Minister voor de betrokken stof is vastgesteld. De hoeveelheid kan voor de onderscheiden eet- of drinkwaren verschillend worden bepaald.
+In eet- en drinkwaren mogen door Onze Minister aangewezen verontreinigingen, andere dan bedoeld in [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0005758&paragraaf=4&artikel=12&z=2015-11-28&g=2015-11-28), die uit oogpunt van gezondheid schadelijk kunnen zijn, niet in een grotere hoeveelheid aanwezig zijn dan door Onze Minister voor de betrokken stof is vastgesteld. De hoeveelheid kan voor de onderscheiden eet- of drinkwaren verschillend worden bepaald.
 
 #### § 4. Verontreinigingen en residuen van bestrijdingsmiddelen
 
@@ -346,11 +346,7 @@ Vervallen
 
 1. Als methoden van onderzoek welke bij uitsluiting beslissend zijn voor de vaststelling of al dan niet is voldaan aan de bij of krachtens dit besluit gestelde regels, worden aangewezen microbiologische onderzoekingsmethoden, chromatografische en andere scheidingsmethoden, organoleptische bepalingsmethoden en detectiemethoden, alsmede de daartoe door een andere Lid-Staat van de Europese Economische Gemeenschap aangewezen methoden.
 
-2. Onverminderd het eerste lid worden bij de vaststelling of al dan niet is voldaan aan [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005758&paragraaf=3&artikel=5&z=2015-01-01&g=2015-01-01), de specificaties in acht genomen die zijn omschreven in bijlage III van [richtlijn 98/83/EG](31998L0083), met dien verstande dat:
-
-- a. andere dan in bijlage III, deel 1, van die richtlijn vermelde methoden gebruikt mogen worden voor zover kan worden aangetoond dat de daarmee verkregen resultaten ten minste even betrouwbaar zijn als die van de gespecificeerde methoden;
-
-- b. voor de in bijlage III, delen 2 en 3, van die richtlijn genoemde parameters elke methode van onderzoek mag worden gebruikt die aan de aldaar gestelde eisen voldoet.
+2. Onverminderd het eerste lid worden bij de controle of al dan niet is voldaan aan [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0005758&paragraaf=3&artikel=5&z=2015-11-28&g=2015-11-28) de in bijlage II en III bij richtlijn 2013/51/Euratom vastgestelde controlestrategieën en controlefrequenties in acht genomen.
 
 3. Onze Minister kan omtrent de in het eerste lid bedoelde methoden nadere regels stellen.
 
@@ -376,11 +372,11 @@ een en ander behoudens indien de toestemming op een eerder tijdstip wordt ingetr
 
 1. Dit besluit treedt in werking met ingang van de derde maand na de datum van uitgifte van het Staatsblad, waarin het wordt geplaatst.
 
-2. In afwijking van het eerste lid treden de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0005758&paragraaf=1&artikel=2&z=2015-01-01&g=2015-01-01), [14](https://wetten.overheid.nl/jci1.3:c:BWBR0005758&paragraaf=5&artikel=14&z=2015-01-01&g=2015-01-01) en [18](https://wetten.overheid.nl/jci1.3:c:BWBR0005758&paragraaf=7&artikel=18&z=2015-01-01&g=2015-01-01) in werking met ingang van 10 januari 1993.
+2. In afwijking van het eerste lid treden de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0005758&paragraaf=1&artikel=2&z=2015-11-28&g=2015-11-28), [14](https://wetten.overheid.nl/jci1.3:c:BWBR0005758&paragraaf=5&artikel=14&z=2015-11-28&g=2015-11-28) en [18](https://wetten.overheid.nl/jci1.3:c:BWBR0005758&paragraaf=7&artikel=18&z=2015-11-28&g=2015-11-28) in werking met ingang van 10 januari 1993.
 
-3. In afwijking van het eerste lid treedt [artikel 15, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005758&paragraaf=5&artikel=15&z=2015-01-01&g=2015-01-01), voor zover het betreft het vervoer van de daar bedoelde eet- of drinkwaar, en tweede en derde lid, in werking met ingang van de achttiende maand na de in het eerste lid bedoelde datum.
+3. In afwijking van het eerste lid treedt [artikel 15, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005758&paragraaf=5&artikel=15&z=2015-11-28&g=2015-11-28), voor zover het betreft het vervoer van de daar bedoelde eet- of drinkwaar, en tweede en derde lid, in werking met ingang van de achttiende maand na de in het eerste lid bedoelde datum.
 
-4. Een wijziging van bijlage III van [richtlijn 98/83/EG](31998L0083) gaat voor de toepassing van dit besluit gelden met ingang van de dag waarop aan de betrokken wijzigingsrichtlijn uitvoering moet zijn gegeven.
+4. Een wijziging van bijlage II en III van richtlijn 2013/51/Euratom gaat voor de toepassing van [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0005758&paragraaf=3&artikel=5&z=2015-11-28&g=2015-11-28) en [18, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005758&paragraaf=7&artikel=18&z=2015-11-28&g=2015-11-28), gelden met ingang van de dag waarop aan de betrokken wijzigingsrichtlijn uitvoering moet zijn gegeven.
 
 ##### Artikel 21
 
