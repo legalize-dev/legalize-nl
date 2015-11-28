@@ -4,7 +4,7 @@ identifier: "BWBR0036818"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2015-11-28"
-last_updated: "2015-07-01"
+last_updated: "2015-11-28"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0036818"
 soort: "ministeriele-regeling"
@@ -46,7 +46,7 @@ Treedt in werking op het tijdstip waarop het Wjzigingsbesluit Besluit beschikbaa
 
 ##### Artikel 1
 
-De Nederlandse Zorgautoriteit kan, op grond van onderdeel B, sub 16, van de [bijlage behorende bij het Besluit beschikbaarheidbijdrage WMG](478189), een beschikbaarheidbijdrage verlenen voor acuut ambulancevervoer per ambulancehelikopter vanaf de Friese Waddeneilanden.
+De Nederlandse Zorgautoriteit kan, op grond van onderdeel B, sub 16, van de [bijlage behorende bij het Besluit beschikbaarheidbijdrage WMG](onbekend), een beschikbaarheidbijdrage verlenen voor acuut ambulancevervoer per ambulancehelikopter vanaf de Friese Waddeneilanden.
 
 ##### Artikel 2
 
