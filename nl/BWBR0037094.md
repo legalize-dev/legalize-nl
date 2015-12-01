@@ -295,21 +295,3 @@ Het jaarverslag bestaat ten minste uit de volgende onderdelen:
 - 6. Het aantal en de aard van de ontvangen bezwaren evenals de korte inhoud van de ter zake genomen besluiten in het beschreven kalenderjaar.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
-
-##### Artikel 13a. Overgangsrecht certificaten natuurlijke personen
-
-In afwijking van [artikel 2, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037094&paragraaf=2&artikel=2&z=2025-12-13&g=2025-12-13), is een certificaat van een natuurlijk persoon dat is afgegeven voor 29 september 2024 of op grond van de Beoordelingsrichtlijn voor het certificaat f-gassen voor natuurlijke personen, versie 1.2, 1 mei 2017, geldig tot het moment dat voor de werkzaamheden waarvoor het certificaat is afgegeven een nieuw examen is afgelegd waaruit blijkt dat aan de eisen, bedoeld in artikel 2, eerste lid, wordt voldaan, en uiterlijk tot 12 maart 2029.
-
-##### Artikel 13b. Overgangsrecht certificaten ondernemingen
-
-In afwijking van [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037094&paragraaf=2&artikel=2&z=2025-12-13&g=2025-12-13), is een certificaat van een onderneming dat is afgegeven op grond van de Beoordelingsrichtlijn voor het certificaat f-gassen voor ondernemingen, versie 2.0, 6 juni 2019, geldig tot drie maanden na de publicatie van de Uitvoeringsregeling F-gassenverordening en OAS-verordening.
-
-## Bijlage 1. behorende bij [artikel 9, eerste lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0037094&paragraaf=5&artikel=9&z=2025-12-13&g=2025-12-13)
-
-Vervallen
-
-## Bijlage 2. behorende bij [artikel 9, tweede lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0037094&paragraaf=5&artikel=9&z=2025-12-13&g=2025-12-13)
-
-Vervallen
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
