@@ -4,7 +4,7 @@ identifier: "BWBV0006368"
 country: "nl"
 rank: "verdrag"
 publication_date: "2015-12-01"
-last_updated: "2014-05-28"
+last_updated: "2015-12-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBV0006368"
 soort: "verdrag"
@@ -58,7 +58,7 @@ For the purpose of this Agreement
 
 - a). the term “Aeronautical Authorities” means: for the Kingdom of the Netherlands, the Minister of Infrastructure and the Environment of the Netherlands; for the Republic of Mauritius: the national Minister to whom the responsibility for civil aviation is assigned, or in either case any person or body authorized to perform any functions at present exercised by the said Authorities;
 
-- b). the terms “Agreed Service” and “Specified Route” mean: International Air Service pursuant to this Agreement and the route specified in the [Annex](https://wetten.overheid.nl/jci1.3:c:BWBV0006368&bijlage=2&z=2014-05-28&g=2014-05-28) to this Agreement respectively;
+- b). the terms “Agreed Service” and “Specified Route” mean: International Air Service pursuant to this Agreement and the route specified in the [Annex](https://wetten.overheid.nl/jci1.3:c:BWBV0006368&bijlage=2&z=2015-12-01&g=2015-12-01) to this Agreement respectively;
 
 - c). the term “Agreement” means: this Agreement, its Annexes drawn up in application thereof, as well as any amendment to the Agreement or the Annexes;
 
@@ -70,7 +70,7 @@ For the purpose of this Agreement
 
 - g). the term “the Convention” means: the [Convention on International Civil Aviation](https://wetten.overheid.nl/jci1.3:c:BWBV0005507), opened for signature at Chicago on 7 December 1944, and includes any Annex adopted under [Article 90 of that Convention](https://wetten.overheid.nl/jci1.3:c:BWBV0005507&artikel=90) and any amendment of the [Annexes](https://wetten.overheid.nl/jci1.3:c:BWBR0008858&artikel=1) or the Convention under Articles 90 and [94](https://wetten.overheid.nl/jci1.3:c:BWBV0005507&artikel=94) thereof, insofar as those Annexes and amendments have become effective for, or been ratified by both Contracting Parties;
 
-- h). the term “Designated Airline” means: the Airline which has been designated and authorized in accordance with [Article 3](https://wetten.overheid.nl/jci1.3:c:BWBV0006368&hoofdstuk=II&artikel=3&z=2014-05-28&g=2014-05-28) of this Agreement (Designation and Authorization);
+- h). the term “Designated Airline” means: the Airline which has been designated and authorized in accordance with [Article 3](https://wetten.overheid.nl/jci1.3:c:BWBV0006368&hoofdstuk=II&artikel=3&z=2015-12-01&g=2015-12-01) of this Agreement (Designation and Authorization);
 
 - i). the term “Intermodal Air Transportation” means: the public carriage by aircraft and by one or more surface modes of transport of passengers, baggage, cargo and mail, separately or in combination, for remuneration or hire;
 
@@ -84,7 +84,7 @@ For the purpose of this Agreement
 
 ##### Article 2. Grant of rights
 
-1. Each Contracting Party grants to the other Contracting Party except as otherwise specified in [Annex 2](https://wetten.overheid.nl/jci1.3:c:BWBV0006368&bijlage=2&z=2014-05-28&g=2014-05-28) the following rights for the conduct of international air transportation by the Designated Airline of the other Contracting Party:
+1. Each Contracting Party grants to the other Contracting Party except as otherwise specified in [Annex 2](https://wetten.overheid.nl/jci1.3:c:BWBV0006368&bijlage=2&z=2015-12-01&g=2015-12-01) the following rights for the conduct of international air transportation by the Designated Airline of the other Contracting Party:
 
 - a). the right to fly across its Territory without landing;
 
@@ -96,7 +96,7 @@ For the purpose of this Agreement
 
 ##### Article 3. Designation and Authorization
 
-1. Each Contracting Party shall have the right, by written notification through diplomatic channels to the other Contracting Party, to designate one Airline for passenger/combination services and one (the same or an other) Airline for all-cargo services to operate International Air Services on the routes specified in [Annex 2](https://wetten.overheid.nl/jci1.3:c:BWBV0006368&bijlage=2&z=2014-05-28&g=2014-05-28) and to substitute an other Airline for an Airline previously designated.
+1. Each Contracting Party shall have the right, by written notification through diplomatic channels to the other Contracting Party, to designate one Airline for passenger/combination services and one (the same or an other) Airline for all-cargo services to operate International Air Services on the routes specified in [Annex 2](https://wetten.overheid.nl/jci1.3:c:BWBV0006368&bijlage=2&z=2015-12-01&g=2015-12-01) and to substitute an other Airline for an Airline previously designated.
 
 2. On receipt of such a notification, each Contracting Party shall, without delay, grant to the Airline(s) so designated by the other Contracting Party the appropriate operating authorizations subject to the provisions of this Article, unless it is not satisfied that:
 
@@ -106,7 +106,7 @@ For the purpose of this Agreement
 
 - (ii). effective regulatory control of the Airline is exercised and maintained by the European Union Member State responsible for issuing its Air Operator Certificate and the relevant Aeronautical Authority is clearly identified in the designation, and
 
-- (iii). the Airline is owned directly or through majority ownership, and it is effectively controlled by (a) European Union Member State(s) and/or Nationals of European Union Member State(s), and/or by (an) other State(s) listed in [Annex 1](https://wetten.overheid.nl/jci1.3:c:BWBV0006368&bijlage=1&z=2014-05-28&g=2014-05-28) and/or Nationals of such other State (s).
+- (iii). the Airline is owned directly or through majority ownership, and it is effectively controlled by (a) European Union Member State(s) and/or Nationals of European Union Member State(s), and/or by (an) other State(s) listed in [Annex 1](https://wetten.overheid.nl/jci1.3:c:BWBV0006368&bijlage=1&z=2015-12-01&g=2015-12-01) and/or Nationals of such other State (s).
 
 - b). in the case of the Airline designated by the Republic of Mauritius: and that:
 
@@ -116,7 +116,7 @@ For the purpose of this Agreement
 
 - (iii). the Airline is owned directly or through majority ownership, and it is effectively controlled by the Republic of Mauritius and/or Nationals of the Republic of Mauritius.
 
-- c). the Government designating the Airline is maintaining and administering the standards set forth in [Article 16](https://wetten.overheid.nl/jci1.3:c:BWBV0006368&hoofdstuk=V&artikel=16&z=2014-05-28&g=2014-05-28) (Safety) and [Article 17](https://wetten.overheid.nl/jci1.3:c:BWBV0006368&hoofdstuk=V&artikel=17&z=2014-05-28&g=2014-05-28) (Aviation Security).
+- c). the Government designating the Airline is maintaining and administering the standards set forth in [Article 16](https://wetten.overheid.nl/jci1.3:c:BWBV0006368&hoofdstuk=V&artikel=16&z=2015-12-01&g=2015-12-01) (Safety) and [Article 17](https://wetten.overheid.nl/jci1.3:c:BWBV0006368&hoofdstuk=V&artikel=17&z=2015-12-01&g=2015-12-01) (Aviation Security).
 
 - d). the Designated Airline is qualified to meet the conditions prescribed under the laws and regulations normally applied to the operations of international air transportation by the Contracting Party considering the application or applications.
 
@@ -132,7 +132,7 @@ For the purpose of this Agreement
 
 - (ii). effective regulatory control of the Airline is not exercised or not maintained by the European Union Member State responsible for issuing its Air Operator Certificate or the relevant Aeronautical Authority is not clearly identified in the designation; or
 
-- (iii). the Airline is not owned, directly or through majority ownership, or is not effectively controlled by (a) European Union Member State(s) and/or Nationals of Member State(s), and/or by (a) other State(s) listed in [Annex 1](https://wetten.overheid.nl/jci1.3:c:BWBV0006368&bijlage=1&z=2014-05-28&g=2014-05-28) and/or Nationals of such other State(s); and
+- (iii). the Airline is not owned, directly or through majority ownership, or is not effectively controlled by (a) European Union Member State(s) and/or Nationals of Member State(s), and/or by (a) other State(s) listed in [Annex 1](https://wetten.overheid.nl/jci1.3:c:BWBV0006368&bijlage=1&z=2015-12-01&g=2015-12-01) and/or Nationals of such other State(s); and
 
 - (iv). the Airline is already authorised to operate under a bilateral agreement between the Kingdom of the Netherlands and another European Union Member State and the Republic of Mauritius can demonstrate that, by exercising traffic rights under this Agreement on a route that includes a point in any other Member State, it would be circumventing restrictions on traffic rights imposed by that other agreement; or
 
@@ -150,7 +150,7 @@ For the purpose of this Agreement
 
 - d). if the Airline otherwise fails to operate in accordance with the conditions prescribed under this Agreement; or
 
-- e). in the case of failure by the other Contracting Party to take appropriate action to improve safety and security in accordance with [Article(s) 16](https://wetten.overheid.nl/jci1.3:c:BWBV0006368&hoofdstuk=V&artikel=16&z=2014-05-28&g=2014-05-28) and [17](https://wetten.overheid.nl/jci1.3:c:BWBV0006368&hoofdstuk=V&artikel=17&z=2014-05-28&g=2014-05-28).
+- e). in the case of failure by the other Contracting Party to take appropriate action to improve safety and security in accordance with [Article(s) 16](https://wetten.overheid.nl/jci1.3:c:BWBV0006368&hoofdstuk=V&artikel=16&z=2015-12-01&g=2015-12-01) and [17](https://wetten.overheid.nl/jci1.3:c:BWBV0006368&hoofdstuk=V&artikel=17&z=2015-12-01&g=2015-12-01).
 
 2. Unless immediate action is essential to prevent further non-compliance with paragraph 1 of this Article, the rights established by this Article shall be exercised only after consultation within 30 calendar days with the other Contracting Party.
 
@@ -344,7 +344,7 @@ Each Contracting Party, however, reserves the right to refuse to recognize, for 
 
 1. Each Contracting Party may request consultations at any time concerning safety standards in any area relating to aircrew, aircraft or their operation adopted by the other Contracting Party. Such consultations shall take place within 30 (thirty) days of that request.
 
-2. If, following such consultations, one Contracting Party finds that the other Contracting Party does not effectively maintain and administer safety standards and requirements in any such area that are at least equal to the minimum standards established at that time pursuant to the Convention, the first Contracting Party shall notify the other Contracting Party of those findings and the steps considered necessary to conform with those minimum standards, and that other Contracting Party shall take appropriate corrective action. Failure by the other Contracting Party to take appropriate action within 15 days or such longer period as may be agreed, shall be grounds for the application of [Article 4](https://wetten.overheid.nl/jci1.3:c:BWBV0006368&hoofdstuk=II&artikel=4&z=2014-05-28&g=2014-05-28) of this Agreement (Revocation and Suspension of Authorization).
+2. If, following such consultations, one Contracting Party finds that the other Contracting Party does not effectively maintain and administer safety standards and requirements in any such area that are at least equal to the minimum standards established at that time pursuant to the Convention, the first Contracting Party shall notify the other Contracting Party of those findings and the steps considered necessary to conform with those minimum standards, and that other Contracting Party shall take appropriate corrective action. Failure by the other Contracting Party to take appropriate action within 15 days or such longer period as may be agreed, shall be grounds for the application of [Article 4](https://wetten.overheid.nl/jci1.3:c:BWBV0006368&hoofdstuk=II&artikel=4&z=2015-12-01&g=2015-12-01) of this Agreement (Revocation and Suspension of Authorization).
 
 3. Notwithstanding the obligations mentioned in [Article 33 of the Convention](https://wetten.overheid.nl/jci1.3:c:BWBV0005507&artikel=33) it is agreed that any aircraft operated by or, under a lease arrangement, on behalf of the Airline(s) of one Contracting Party on services to or from the Territory of the other Contracting Party may, while within the Territory of the other Contracting Party, be made the subject of an examination by the authorized representatives of the other Contracting Party, on board and around the aircraft, to check both the validity of the aircraft documents and those of its crew and the apparent conditions of the aircraft and its equipment (ramp inspections), provided this does not lead to unreasonable delay.
 
@@ -384,7 +384,7 @@ the Contracting Party carrying out the inspection shall, for the purpose of [Art
 
 ##### Article 18. Timetable
 
-Neither Contracting Party shall require the filing of schedules, programs for flights or operational plans by a Designated Airline of the other Contracting Party for approval, except as may be required on a non-discriminatory basis to enforce the uniform conditions foreseen by [paragraph 2 of Article 9](https://wetten.overheid.nl/jci1.3:c:BWBV0006368&hoofdstuk=III&artikel=9&z=2014-05-28&g=2014-05-28) (Fair Competition) or as may be specifically authorized in [Annex 2](https://wetten.overheid.nl/jci1.3:c:BWBV0006368&bijlage=2&z=2014-05-28&g=2014-05-28) to this Agreement. If a Contracting Party requires filings for information purposes, it shall minimize the administrative burdens of filing requirements and procedures on air transportation intermediaries and on the Designated Airline(s) of the other Contracting Party.
+Neither Contracting Party shall require the filing of schedules, programs for flights or operational plans by a Designated Airline of the other Contracting Party for approval, except as may be required on a non-discriminatory basis to enforce the uniform conditions foreseen by [paragraph 2 of Article 9](https://wetten.overheid.nl/jci1.3:c:BWBV0006368&hoofdstuk=III&artikel=9&z=2015-12-01&g=2015-12-01) (Fair Competition) or as may be specifically authorized in [Annex 2](https://wetten.overheid.nl/jci1.3:c:BWBV0006368&bijlage=2&z=2015-12-01&g=2015-12-01) to this Agreement. If a Contracting Party requires filings for information purposes, it shall minimize the administrative burdens of filing requirements and procedures on air transportation intermediaries and on the Designated Airline(s) of the other Contracting Party.
 
 ##### Article 19. Consultation and Amendment
 
@@ -392,9 +392,9 @@ Neither Contracting Party shall require the filing of schedules, programs for fl
 
 2. Either Contracting Party may request consultations with a view to amend this Agreement and/or its Annexes. These consultations shall begin within sixty (60) days from the date of the receipt of the request by the other Contracting Party, unless otherwise agreed. Such consultations may be conducted through discussion or by correspondence.
 
-3. Any amendment of this Agreement and/or of [Annex 2, section 2](https://wetten.overheid.nl/jci1.3:c:BWBV0006368&bijlage=2&z=2014-05-28&g=2014-05-28), shall be agreed upon by the Contracting Parties and shall come into force on the date on which the Contracting Parties have informed each other in writing, through the exchange of diplomatic notes, of the completion of their respective constitutional requirements.
+3. Any amendment of this Agreement and/or of [Annex 2, section 2](https://wetten.overheid.nl/jci1.3:c:BWBV0006368&bijlage=2&z=2015-12-01&g=2015-12-01), shall be agreed upon by the Contracting Parties and shall come into force on the date on which the Contracting Parties have informed each other in writing, through the exchange of diplomatic notes, of the completion of their respective constitutional requirements.
 
-4. Notwithstanding the provisions of paragraph 3 above any amendment of the [Annexes 1](https://wetten.overheid.nl/jci1.3:c:BWBV0006368&bijlage=1&z=2014-05-28&g=2014-05-28) and [2, section 1](https://wetten.overheid.nl/jci1.3:c:BWBV0006368&bijlage=2&z=2014-05-28&g=2014-05-28), to this Agreement shall be agreed upon by the Aeronautical Authorities, through an exchange of diplomatic notes, and shall take effect on a date to be determined in the notes.
+4. Notwithstanding the provisions of paragraph 3 above any amendment of the [Annexes 1](https://wetten.overheid.nl/jci1.3:c:BWBV0006368&bijlage=1&z=2015-12-01&g=2015-12-01) and [2, section 1](https://wetten.overheid.nl/jci1.3:c:BWBV0006368&bijlage=2&z=2015-12-01&g=2015-12-01), to this Agreement shall be agreed upon by the Aeronautical Authorities, through an exchange of diplomatic notes, and shall take effect on a date to be determined in the notes.
 
 ##### Article 20. Settlement of Disputes
 
