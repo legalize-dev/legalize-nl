@@ -327,31 +327,3 @@ Dit besluit treedt in werking met ingang van de eerste dag van de tweede kalende
 Dit besluit wordt aangehaald als: Besluit gefluoreerde broeikasgassen en ozonlaagafbrekende stoffen.
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
-
-##### Artikel 17a
-
-1. Het is marktdeelnemers verboden ten aanzien van producten die vallen onder de F-gassenverordening en de Verordening ozonlaagafbrekende stoffen te handelen in strijd met artikel 7, eerste lid, van [verordening (EU) nr. 2019/1020](32019R1020).
-
-2. Het is een aanbieder van diensten van de informatiemaatschappij verboden ten aanzien van producten die vallen onder de F-gassenverordening en de Verordening ozonlaagafbrekende stoffen te handelen in strijd met artikel 7, tweede lid, van [verordening (EU) nr. 2019/1020](32019R1020).
-
-#### § 6. Overgangs- en slotbepalingen
-
-Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
-
-##### Artikel 2a
-
-Voor de toepassing van dit besluit wordt een eigenaar aangewezen als zijnde eveneens verantwoordelijk voor de verplichtingen van een exploitant indien hij de feitelijke macht over het technisch functioneren van de onder de F-gassenverordening vallende producten, apparatuur of inrichtingen contractueel heeft overgedragen aan een dienstverlener.
-
-#### § 2. Gefluoreerde broeikasgassen
-
-##### Artikel 6a
-
-Dit onderdeel is nog niet inwerking getreden
-
-#### § 3. Ozonlaagafbrekende stoffen
-
-#### § 4. Erkenning van instellingen die natuurlijke personen en ondernemingen certificeren
-
-#### § 6. Overgangs- en slotbepalingen
-
-Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
