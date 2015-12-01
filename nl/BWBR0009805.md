@@ -4,7 +4,7 @@ identifier: "BWBR0009805"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-11-22"
-last_updated: "2014-04-01"
+last_updated: "2015-12-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0009805"
 soort: "ministeriele-regeling"
@@ -347,15 +347,17 @@ Deze weigering geldt in beginsel voor een periode van ten hoogste drie maanden. 
 
 Indien u verdacht wordt van, of veroordeeld bent wegens, een terroristisch misdrijf of indien de bescherming van slachtoffers van of anderszins betrokkenen bij het door u gepleegde misdrijf een weigering van bezoek voor een zo lang mogelijke termijn vergt, dan kan de weigering voor een periode van maximaal twaalf maanden gelden. De directeur kan in deze gevallen de weigering daarna opnieuw opleggen voor een periode van twaalf maanden.
 
-**(Alleen verplicht voor inrichtingen waar het recht op bezoek zonder toezicht van toepassing is)**
+**(Alleen verplicht voor inrichtingen waar bezoek zonder toezicht wordt aangeboden)**
 
 U kunt ten hoogste één keer per maand bezoek zonder toezicht ontvangen indien wordt voldaan aan de navolgende voorwaarden:
 
-- a. U verblijft gedurende een aaneengesloten periode van drie maanden in één of meerdere normaal beveiligde gevangenis(sen);
+- a. u verblijft gedurende een aaneengesloten periode van zes maanden in één of meerdere normaal beveiligde penitentiaire inrichtingen zijnde gevangenis of huis van bewaring;
 
 - b. het bezoek draagt, naar het oordeel van de directeur, redelijkerwijs bij tot het behoud of het versterken van de banden tussen u en het beoogde bezoek, en is van belang voor de terugkeer van u in de samenleving;
 
-- c. de band tussen u en het beoogde bezoek is naar het oordeel van de directeur hecht en duurzaam.
+- c. de band tussen u en het beoogde bezoek is naar het oordeel van de directeur hecht en duurzaam;
+
+- d. de belangen van de opsporing en vervolging van strafbare feiten verzetten zich niet tegen het beoogde bezoek.
 
 Zowel u als degene van wie het bezoek wordt beoogd moet een verzoek om bezoek zonder toezicht indienen bij de directeur. De directeur bepaalt of het bezoek zonder toezicht wordt toegestaan en de duur van het bezoek zonder toezicht. Het bezoek vindt plaats in een vertrek of een andere daartoe geschikt bevonden en ingerichte ruimte in de inrichting. Het bezoek zonder toezicht komt in de plaats van het gebruikelijke bezoek dat u in de desbetreffende week zou hebben ontvangen.
 
