@@ -4,7 +4,7 @@ identifier: "BWBR0030482"
 country: "nl"
 rank: "zbo"
 publication_date: "2026-01-01"
-last_updated: "2015-11-01"
+last_updated: "2015-12-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0030482"
 soort: "zbo"
@@ -75,9 +75,9 @@ In dit besluit wordt verstaan onder:
 
 ##### Artikel 4. Directie Toezicht en Handhaving
 
-1. De directie Toezicht en Handhaving is belast met het in [artikel 16 van de Wmg](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=16) bedoelde toezicht op de uitvoering van het bepaalde bij of krachtens de [AWBZ](https://wetten.overheid.nl/jci1.3:c:BWBR0002614&wetgeving), de [Wet langdurige zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0035917&wetgeving), de [Zorgverzekeringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450), de [Wet financiering sociale verzekeringen](https://wetten.overheid.nl/jci1.3:c:BWBR0017745), de [Wet maatschappelijke ondersteuning 2015](https://wetten.overheid.nl/jci1.3:c:BWBR0035362&wetgeving), met het toezicht op de naleving van hetgeen bij of krachtens de [Wmg](https://wetten.overheid.nl/jci1.3:c:BWBR0020078) is bepaald en met de beoordeling van aanmerkelijke marktmacht en concentraties, met het uitbrengen van zienswijzen en met handhaving.
+1. De directie Toezicht en Handhaving is belast met het in [artikel 16 van de Wmg](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=16) bedoelde toezicht op de uitvoering van het bepaalde bij of krachtens de [Wet langdurige zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0035917&wetgeving), de [Zorgverzekeringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450), de [Wet financiering sociale verzekeringen](https://wetten.overheid.nl/jci1.3:c:BWBR0017745), de [Wet maatschappelijke ondersteuning 2015](https://wetten.overheid.nl/jci1.3:c:BWBR0035362&wetgeving), met het toezicht op de naleving van hetgeen bij of krachtens de [Wmg](https://wetten.overheid.nl/jci1.3:c:BWBR0020078) is bepaald en met de beoordeling van aanmerkelijke marktmacht en concentraties, met het uitbrengen van zienswijzen en met handhaving.
 
-2. De directie Toezicht en Handhaving kent de units Markttoezicht en Toezicht Zorgaanbieders, Detectie en Toezicht Zorgaanbieders, Toezicht Zorgverzekeraars en de unit Toezicht Transparantie en Zorgplicht.
+2. De directie Toezicht en Handhaving kent de units Markttoezicht en Toezicht Zorgaanbieders, Detectie en Toezicht Zorgaanbieders, Toezicht Zorgverzekeraars, Toezicht Transparantie en Zorgplicht, Toezicht Wlz-uitvoerders en de unit Snelle Interventies.
 
 ##### Artikel 5. Directie Bedrijfsvoering
 
@@ -99,11 +99,11 @@ In dit besluit wordt verstaan onder:
 
 ##### Artikel 8. Unit Human Resource Management
 
-De unit Human Resource Management (HRM) is belast met persoonlijke ontplooiing en organisatie-ontwikkeling, arbeidsvoorwaarden, de HR-cyclus, personeels in- en uitstroom, opleiding, coaching, conflictbemiddeling, gezondheidszorg, het ondersteunen van de unitmanagers en directeuren bij de uitvoering van het HRM-beleid en de advisering van de Raad van Bestuur op het gebied van organisatie- en personele vraagstukken.
+De unit Human Resource Management is belast met het ondersteunen van medewerkers, unitmanagers en directeuren bij de uitvoering van het HRM-beleid en de advisering van de Raad van Bestuur op het gebied van organisatievraagstukken en personele vraagstukken, in het bijzonder op het gebied van persoonlijke ontplooiing en organisatie-ontwikkeling, arbeidsvoorwaarden, de HR-cyclus, personeels in- en uitstroom, opleiding, coaching, conflictbemiddeling en gezondheidszorg.
 
 ##### Artikel 9. Binnen beleid en begroting
 
-1. De op grond van de [artikelen 11](https://wetten.overheid.nl/jci1.3:c:BWBR0030482&artikel=11&z=2015-06-06&g=2015-11-01), [12](https://wetten.overheid.nl/jci1.3:c:BWBR0030482&artikel=12&z=2015-06-06&g=2015-11-01) en [13](https://wetten.overheid.nl/jci1.3:c:BWBR0030482&artikel=13&z=2015-06-06&g=2015-11-01) van dit besluit verleende bevoegdheden gelden voor de uitoefening van taken binnen het door de Raad van Bestuur vastgestelde beleid, de begroting en de personeelsformatie en overeenkomstig de door de Raad van Bestuur vastgestelde richtlijnen, waaronder de richtlijnen opgenomen in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0030482&bijlage=1&z=2015-06-06&g=2015-11-01) bij dit besluit.
+1. De op grond van de [artikelen 11](https://wetten.overheid.nl/jci1.3:c:BWBR0030482&artikel=11&z=2015-12-01&g=2015-12-01), [12](https://wetten.overheid.nl/jci1.3:c:BWBR0030482&artikel=12&z=2015-12-01&g=2015-12-01) en [13](https://wetten.overheid.nl/jci1.3:c:BWBR0030482&artikel=13&z=2015-12-01&g=2015-12-01) van dit besluit verleende bevoegdheden gelden voor de uitoefening van taken binnen het door de Raad van Bestuur vastgestelde beleid, de begroting en de personeelsformatie en overeenkomstig de door de Raad van Bestuur vastgestelde richtlijnen, waaronder de richtlijnen opgenomen in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0030482&bijlage=1&z=2015-12-01&g=2015-12-01) bij dit besluit.
 
 2. Directeuren en de unitmanager HRM oefenen hun bevoegdheden uit in overleg met hun portefeuillehouder.
 
@@ -129,15 +129,15 @@ De unit Human Resource Management (HRM) is belast met persoonlijke ontplooiing e
 
 6. De portefeuillehouder Toezicht en Handhaving is bevoegd om beschikkingen te nemen tot het ter openbare kennis brengen van een aanwijzing en een last onder dwangsom.
 
-7. De unitmanager HRM is, met inachtneming van [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0030482&artikel=8&z=2015-06-06&g=2015-11-01), bevoegd voor de uitvoering van de werkzaamheden van zijn unit, namens de NZa beschikkingen te nemen betreffende verzoeken krachtens de [Wet openbaarheid van bestuur](https://wetten.overheid.nl/jci1.3:c:BWBR0005252), betreffende dwangsombeschikkingen in verband met het niet-tijdig beslissen op een aanvraag of een bezwaarschrift, betreffende de rechtspositie van het personeel van zijn unit, met uitzondering van beschikkingen tot het aanstellen, bevorderen en ontslaan van personeel en beschikkingen tot het verlenen van een voorschot op het salaris, tot het geven van een gratificatie en tot het vaststellen van een beoordeling en de daaruit voortvloeiende besluiten.
+7. De unitmanager HRM is, met inachtneming van [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0030482&artikel=8&z=2015-12-01&g=2015-12-01), bevoegd voor de uitvoering van de werkzaamheden van zijn unit, namens de NZa beschikkingen te nemen betreffende verzoeken krachtens de [Wet openbaarheid van bestuur](https://wetten.overheid.nl/jci1.3:c:BWBR0005252), betreffende dwangsombeschikkingen in verband met het niet-tijdig beslissen op een aanvraag of een bezwaarschrift, betreffende de rechtspositie van het personeel van zijn unit, met uitzondering van beschikkingen tot het aanstellen, bevorderen en ontslaan van personeel en beschikkingen tot het verlenen van een voorschot op het salaris, tot het geven van een gratificatie en tot het vaststellen van een beoordeling en de daaruit voortvloeiende besluiten.
 
 ##### Artikel 12. Volmacht
 
-1. Directeuren onderscheidenlijk leden van de Raad van Bestuur zijn voor de uitvoering van de werkzaamheden van hun directie onderscheidenlijk het aandachtsgebied waarvoor de portefeuillehouder verantwoordelijk is, bevoegd namens de NZa privaatrechtelijke rechtshandelingen te verrichten met inachtneming van de in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0030482&bijlage=2&z=2015-06-06&g=2015-11-01) opgenomen maxima ten aanzien van de uit die rechtshandelingen voor de NZa voortvloeiende financiële verplichtingen.
+1. Directeuren onderscheidenlijk leden van de Raad van Bestuur zijn voor de uitvoering van de werkzaamheden van hun directie onderscheidenlijk het aandachtsgebied waarvoor de portefeuillehouder verantwoordelijk is, bevoegd namens de NZa privaatrechtelijke rechtshandelingen te verrichten met inachtneming van de in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0030482&bijlage=2&z=2015-12-01&g=2015-12-01) opgenomen maxima ten aanzien van de uit die rechtshandelingen voor de NZa voortvloeiende financiële verplichtingen.
 
-2. Directeuren zijn bevoegd tot het verlenen van ondervolmacht aan hun unitmanagers om voor de uitvoering van de werkzaamheden van hun unit namens de NZa privaatrechtelijke rechtshandelingen te verrichten met in achtneming van de in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0030482&bijlage=2&z=2015-06-06&g=2015-11-01) opgenomen maxima ten aanzien van de uit die rechtshandelingen voor de NZa voortvloeiende financiële verplichtingen.
+2. Directeuren zijn bevoegd tot het verlenen van ondervolmacht aan hun unitmanagers om voor de uitvoering van de werkzaamheden van hun unit namens de NZa privaatrechtelijke rechtshandelingen te verrichten met in achtneming van de in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0030482&bijlage=2&z=2015-12-01&g=2015-12-01) opgenomen maxima ten aanzien van de uit die rechtshandelingen voor de NZa voortvloeiende financiële verplichtingen.
 
-3. De unitmanager HRM is bevoegd voor de uitvoering van werkzaamheden van zijn unit namens de NZa privaatrechtelijke rechtshandelingen te verrichten met inachtneming van de in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0030482&bijlage=2&z=2015-06-06&g=2015-11-01) opgenomen maxima ten aanzien van de uit de rechtshandelingen voor de NZa voortvloeiende financiële verplichtingen.
+3. De unitmanager HRM is bevoegd voor de uitvoering van werkzaamheden van zijn unit namens de NZa privaatrechtelijke rechtshandelingen te verrichten met inachtneming van de in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0030482&bijlage=2&z=2015-12-01&g=2015-12-01) opgenomen maxima ten aanzien van de uit de rechtshandelingen voor de NZa voortvloeiende financiële verplichtingen.
 
 ##### Artikel 13. Machtiging
 
