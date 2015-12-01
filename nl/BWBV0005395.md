@@ -4,7 +4,7 @@ identifier: "BWBV0005395"
 country: "nl"
 rank: "verdrag"
 publication_date: "2021-06-25"
-last_updated: "2011-05-25"
+last_updated: "2015-12-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBV0005395"
 soort: "verdrag"
@@ -74,7 +74,7 @@ In deze overeenkomst wordt onder „gerubriceerde informatie” verstaan: alle i
 
 2. Geen enkele bepaling in deze overeenkomst doet afbreuk aan de nationale wet- en regelgeving van de Partijen inzake de toegang van het publiek tot documenten, de bescherming van persoonsinformatie of de bescherming van gerubriceerde informatie.
 
-3. De Partijen stellen de depositaris van deze overeenkomst in kennis van iedere wijziging van de rubriceringen in de bijlage. [Artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBV0005395&artikel=11&z=2011-05-25&g=2011-05-25) is niet van toepassing op deze kennisgevingen.
+3. De Partijen stellen de depositaris van deze overeenkomst in kennis van iedere wijziging van de rubriceringen in de bijlage. [Artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBV0005395&artikel=11&z=2015-12-01&g=2015-12-01) is niet van toepassing op deze kennisgevingen.
 
 ##### Artikel 4
 
@@ -98,17 +98,17 @@ In deze overeenkomst wordt onder „gerubriceerde informatie” verstaan: alle i
 
 4. Op verzoek verlenen de Partijen elkaar wederzijdse bijstand, in overeenstemming met hun respectieve nationale wet- en regelgeving, om de veiligheidsonderzoeken ten behoeve van de veiligheidsmachtigingen uit te voeren.
 
-5. Iedere Partij zorgt er volgens haar nationale wet- en regelgeving voor dat iedere onder haar bevoegdheid vallende instantie die gerubriceerde informatie kan ontvangen of opstellen, een passend veiligheidsonderzoek heeft ondergaan en een adequate bescherming, als bedoeld in [artikel 3, lid 1](https://wetten.overheid.nl/jci1.3:c:BWBV0005395&artikel=3&z=2011-05-25&g=2011-05-25), op het passende beveiligingsniveau kan bieden.
+5. Iedere Partij zorgt er volgens haar nationale wet- en regelgeving voor dat iedere onder haar bevoegdheid vallende instantie die gerubriceerde informatie kan ontvangen of opstellen, een passend veiligheidsonderzoek heeft ondergaan en een adequate bescherming, als bedoeld in [artikel 3, lid 1](https://wetten.overheid.nl/jci1.3:c:BWBV0005395&artikel=3&z=2015-12-01&g=2015-12-01), op het passende beveiligingsniveau kan bieden.
 
 6. Binnen de werkingssfeer van deze overeenkomst kan iedere Partij de door een andere Partij afgegeven veiligheidsmachtigingen voor personen en voor vestigingen erkennen.
 
 ##### Artikel 6
 
-De Partijen zorgen ervoor dat alle gerubriceerde informatie die in het kader van deze overeenkomst binnen of tussen de Partijen wordt verzonden, uitgewisseld of overgedragen, adequaat beschermd wordt, overeenkomstig [artikel 3, lid 1](https://wetten.overheid.nl/jci1.3:c:BWBV0005395&artikel=3&z=2011-05-25&g=2011-05-25).
+De Partijen zorgen ervoor dat alle gerubriceerde informatie die in het kader van deze overeenkomst binnen of tussen de Partijen wordt verzonden, uitgewisseld of overgedragen, adequaat beschermd wordt, overeenkomstig [artikel 3, lid 1](https://wetten.overheid.nl/jci1.3:c:BWBV0005395&artikel=3&z=2015-12-01&g=2015-12-01).
 
 ##### Artikel 7
 
-Iedere Partij zorgt ervoor dat passende maatregelen worden genomen voor de bescherming, als bedoeld in [artikel 3, lid 1](https://wetten.overheid.nl/jci1.3:c:BWBV0005395&artikel=3&z=2011-05-25&g=2011-05-25), van gerubriceerde informatie die door communicatie- en informatiesystemen wordt verwerkt, opgeslagen of verzonden. Die maatregelen moeten de vertrouwelijkheid, de integriteit, de beschikbaarheid, en, in voorkomend geval, de onweerlegbaarheid en de authenticiteit van de gerubriceerde informatie waarborgen en een passend niveau van verantwoording en traceerbaarheid garanderen wat betreft de handelingen in verband met die informatie.
+Iedere Partij zorgt ervoor dat passende maatregelen worden genomen voor de bescherming, als bedoeld in [artikel 3, lid 1](https://wetten.overheid.nl/jci1.3:c:BWBV0005395&artikel=3&z=2015-12-01&g=2015-12-01), van gerubriceerde informatie die door communicatie- en informatiesystemen wordt verwerkt, opgeslagen of verzonden. Die maatregelen moeten de vertrouwelijkheid, de integriteit, de beschikbaarheid, en, in voorkomend geval, de onweerlegbaarheid en de authenticiteit van de gerubriceerde informatie waarborgen en een passend niveau van verantwoording en traceerbaarheid garanderen wat betreft de handelingen in verband met die informatie.
 
 ##### Artikel 8
 
@@ -128,7 +128,7 @@ Op verzoek verstrekken de Partijen elkaar relevante informatie over hun beveilig
 
 ##### Artikel 11
 
-Deze overeenkomst kan worden gewijzigd op basis van schriftelijke onderlinge overeenstemming tussen de Partijen. Wijzigingen treden in werking na kennisgeving in overeenstemming met [artikel 13, lid 2](https://wetten.overheid.nl/jci1.3:c:BWBV0005395&artikel=13&z=2011-05-25&g=2011-05-25).
+Deze overeenkomst kan worden gewijzigd op basis van schriftelijke onderlinge overeenstemming tussen de Partijen. Wijzigingen treden in werking na kennisgeving in overeenstemming met [artikel 13, lid 2](https://wetten.overheid.nl/jci1.3:c:BWBV0005395&artikel=13&z=2015-12-01&g=2015-12-01).
 
 ##### Artikel 12
 
