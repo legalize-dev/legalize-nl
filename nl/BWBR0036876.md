@@ -4,7 +4,7 @@ identifier: "BWBR0036876"
 country: "nl"
 rank: "zbo"
 publication_date: "2017-08-01"
-last_updated: "2015-08-01"
+last_updated: "2015-12-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0036876"
 soort: "zbo"
@@ -56,13 +56,13 @@ Deze regeling treedt in werking met ingang van 1 augustus 2015.
 
 ##### Artikel 4. Intrekking
 
-De [Regeling omzetting scores in cijfers bij centrale examinering mbo](https://wetten.overheid.nl/jci1.3:c:BWBR0035250&wetgeving), van 15 april 2014 wordt ingetrokken.
+De [Regeling omzetting scores in cijfers bij centrale examinering mbo](https://wetten.overheid.nl/jci1.3:c:BWBR0035250), van 15 april 2014 wordt ingetrokken.
 
 ##### Artikel 5. Citeertitel
 
 Deze regeling wordt aangehaald als: Regeling omzetting scores in cijfers bij centrale examinering mbo (2015).
 
-## Bijlage. bij [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0036876&artikel=1&z=2015-08-01&g=2015-08-01) van de Regeling omzetting scores in cijfers bij centrale examinering mbo (2015), van 15 juni 2015, nummer CvTE-15.01457
+## Bijlage. bij de Regeling van het College voor Toetsen en Examens van 5 november 2015, nummer CvTE-15.02139
 
 ### Normering met een vaardigheidsschaal bij de centrale examens Nederlandse taal en rekenen in het mbo en de rekentoets vo (rvo)
 
@@ -120,7 +120,7 @@ Een vaak toegepaste schattingsmethode voor de moeilijkheidsparameters β**i** is
 
 ### Standaardsetting
 
-Bij een standaardsetting wordt een punt op de vaardigheidsschaal bepaald (figuur 4). Uitgangspunt voor de standaardbepaling was de gehanteerde procedure en de bijbehorende uitkomsten van het standaardsettingsonderzoek bij de referentiesets. Bij de referentiesets is gebruik gemaakt van standaardsetting-procedures met beoordelaars, in casu de **Angoff-procedure** en de **Bookmark-procedure** . Merk op dat deze methoden niet beperkt hoeven te zijn tot de cesuur voor een voldoende, maar ook toegepast kunnen worden voor het cijfer 5 of 8.
+Bij een standaardsetting wordt een punt op de vaardigheidsschaal bepaald (figuur 4). Uitgangspunt voor de standaardbepaling was de gehanteerde procedure en de bijbehorende uitkomsten van het standaardsettingsonderzoek bij de referentiesets. Bij de referentiesets is gebruik gemaakt van standaardsetting-procedures met beoordelaars, in casu de **Angoff-procedure** en de **Bookmark-procedure**. Merk op dat deze methoden niet beperkt hoeven te zijn tot de cesuur voor een voldoende, maar ook toegepast kunnen worden voor het cijfer 5 of 8.
 
 ### Angoff-procedure
 
@@ -162,11 +162,15 @@ Tabel 3a is een voorbeeld van een omzettingstabel van scores – via vaardigheid
 
 Het is mogelijk om bij de normering met een andere cesuur dan de referentiecesuur te werken. In 2013 is dit voor het eerst gebeurd bij de normering van de rekentoets 2F. Toen is de cesuur voor de kandidaten in de gemengde en theoretische leerweg één cijferpunt hoger gelegd dan de referentiecesuur, terwijl de cesuur voor de kandidaten in de basisberoepsgerichte leerweg één cijferpunt lager lag. Tabel 3b respectievelijk 3c is een voorbeeld van een omzettingstabel waarbij de cesuur één cijferpunt lager respectievelijk hoger ligt dan bij de omzetting van scores in cijfers volgens tabel 3a.
 
-### Literatuur
+### Cijferdifferentiatie (aangepaste normering) bij Nederlandse taal 2F voor entree-en mbo-2opleidingen
 
-Eggen, T. J. H. M., & Verhelst, N. D. (2011). Item calibration in incomplete testing designs. **Psicologica: International Journal of Methodology and Experimental Psychology, 32**, 107-132.
+Vanaf 2015–2016 zal voor de studenten uit de entree-opleidingen en de mbo-2 opleidingen een aangepaste normering gelden. Deze normering ligt op hetzelfde niveau als de normering Nederlandse taal voor de bb-leerlingen in het vmbo. Dit betekent dat de cesuur en de bijbehorende cijferverdeling over de tienpuntsschaal met 1 cijferpunt worden verlaagd ten opzichte van het referentieniveau 2F. Tabel 4 is een voorbeeld van een omzettingstabel waarbij in kolom 2 de score-cijferverdeling conform de referentiecesuur is toegepast en in kolom 3 cijferdifferentiatie is toegepast met één cijferpunt lager dan de referentiecesuur. De reden dat deze cijferdifferentiatie wordt toegepast op beide beroepsopleidingen is dat eenzelfde differentiatie wordt toegepast op de vooropleiding voor mbo-2, te weten de basisberoepsgerichte leerweg in het vmbo. Een onverkorte toepassing van de normering zoals voor de andere leerwegen in het vmbo en mbo-3 zou ertoe leiden dat onevenredig veel studenten zouden zakken, omdat het vereiste referentieniveau 2F feitelijk te moeilijk is voor hen. Naar verwachting zou dan een te groot deel zonder diploma het onderwijs verlaten, hetgeen onwenselijk is.
 
 Glas, C. A. W., & Verhelst, N.D. (1989). Extensions of the partial credit model, **Psychometrika, 54**, 635-659.
+
+Eggen, T.J.H.M., & Verhelst, N.D. (2011). Item calibration in incomplete testing designs. **Psicologica: International Journal of Methodology and Experimental Psychology, 32**, 107–132.
+
+Glas, C.A.W., & Verhelst, N.D. (1989). Extensions of the partial credit model, **Psychometrika, 54**, 635–659.
 
 Van der Schoot, F. (2001). **Standaarden voor kerndoelen basisonderwijs. De ontwikkeling van standaarden voor kerndoelen basisonderwijs op basis van resultaten uit peilingsonderzoek.** (Proefschrift Universiteit van Amsterdam). Arnhem, Cito.
 
@@ -174,8 +178,10 @@ Van der Schoot, F. (2008). **Onderwijs op peil? Een samenvattend overzicht van 2
 
 Verhelst, N.D., & Engelen, R.J.H. (1999). **An ability estimator in the two parameter logistic model based on raw scores**. Research memorandum. Arnhem: Cito.
 
-Verhelst, N.D., & Glas, C.A.W. (1993). A dynamic generalization of the Rasch model. **Psychometrika, 58**, 395-415.
+Verhelst, N.D., & Glas, C.A.W. (1993). A dynamic generalization of the Rasch model. **Psychometrika, 58**, 395–415.
+
+### Literatuur
 
 Verhelst, N.D., Glas, C.A.W., & Verstralen, H.H.F.M. (1993). OPLM: One parameter logistic model. Computer program and manual. Arnhem: Cito.
 
-Warm, T.A. (1989). Weighted likelihood estimation of ability in item response theory. **Psychometrika, 54**, 427-450.
+Warm, T.A. (1989). Weighted likelihood estimation of ability in item response theory. **Psychometrika, 54**, 427–450.
