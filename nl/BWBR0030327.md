@@ -4,7 +4,7 @@ identifier: "BWBR0030327"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2023-09-02"
-last_updated: "2013-02-22"
+last_updated: "2015-12-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0030327"
 soort: "ministeriele-regeling"
@@ -154,7 +154,7 @@ Het hoofd van de afdeling Communicatieadvies en Onderzoek is verantwoordelijk vo
 
 1. Het hoofd van de afdeling Publiek en Informatie is verantwoordelijk voor:
 
-- a. het beantwoorden van burgerbrieven gericht aan bewindspersonen en het ministerie;
+- a. het beantwoorden van burgercorrespondentie inhoudende persoonlijke brieven gericht aan de bewindspersonen of burgerbrieven gericht aan het ministerie;
 
 - b. het onderhouden van de liaisonfunctie met interdepartementaal georganiseerde diensten, zoals Postbus 51, Antwoordvoorbedrijven en Overheidscommunicatie Nieuwe Stijl;
 
@@ -192,7 +192,7 @@ Het hoofd van de afdeling Communicatieadvies en Onderzoek is verantwoordelijk vo
 
 2. In afwijking van het eerste lid wordt aan de hoofden van de afdelingen mandaat en machtiging verleend met betrekking tot het nemen van besluiten over en het vaststellen en ondertekenen van stukken die betrekking hebben op personeelsaangelegenheden ten behoeve van medewerkers van de eigen afdeling, met uitzondering van het vaststellen van beoordelingen en bijzondere beloningen van rechtstreeks onder hen ressorterende teamleiders.
 
-3. Aan de teamleiders, bedoeld in de [artikelen 4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030327&paragraaf=2&artikel=4&z=2013-02-22&g=2013-02-22) en [6, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030327&paragraaf=2&artikel=6&z=2013-02-22&g=2013-02-22), wordt mandaat en machtiging verleend ten behoeve van medewerkers van het eigen team met betrekking tot:
+3. Aan de teamleiders, bedoeld in de [artikelen 4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030327&paragraaf=2&artikel=4&z=2015-12-01&g=2015-12-01) en [6, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030327&paragraaf=2&artikel=6&z=2015-12-01&g=2015-12-01), wordt mandaat en machtiging verleend ten behoeve van medewerkers van het eigen team met betrekking tot:
 
 - a. het opmaken, niet zijnde vaststellen, van een beoordeling van medewerkers;
 
@@ -204,9 +204,11 @@ Het hoofd van de afdeling Communicatieadvies en Onderzoek is verantwoordelijk vo
 
 4. In aanvulling op het eerste lid wordt aan het hoofd en de teamleider van de afdeling Publiek en Informatie mandaat en machtiging verleend met betrekking tot:
 
-- a. het paraferen van concepten van antwoorden op persoonlijke brieven en e-mails van burgers, die direct aan bewindspersonen gericht zijn;
+- a. het paraferen van concepten van antwoorden op persoonlijke brieven die direct aan bewindspersonen gericht zijn;
 
-- b. het ondertekenen van de vervolgcorrespondentie naar aanleiding van persoonlijke brieven en e-mails van burgers die aan bewindspersonen gericht zijn en persoonlijke brieven en e-mails die aan het ministerie gericht zijn.
+- b. het ondertekenen van de vervolgcorrespondentie naar aanleiding van persoonlijke brieven die aan bewindspersonen gericht zijn;
+
+- c. het ondertekenen van burgerbrieven die aan het ministerie gericht zijn.
 
 ##### Artikel 9
 
