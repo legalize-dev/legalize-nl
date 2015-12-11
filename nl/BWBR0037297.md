@@ -4,7 +4,7 @@ identifier: "BWBR0037297"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2015-12-11"
-last_updated: "2015-01-01"
+last_updated: "2015-12-11"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0037297"
 soort: "ministeriele-regeling"
@@ -78,7 +78,7 @@ In deze regeling wordt verstaan onder:
 
 ##### Artikel 3. Reserves en voorzieningen
 
-1. De bedragen van de met de activiteiten samenhangende voorzieningen, bedoeld in [artikel 374, eerste lid, van Boek 2 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=374) worden voor de toepassing van [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037297&artikel=5&z=2015-12-11&g=2015-01-01), aangemerkt als bestede bedragen, tenzij de Minister van oordeel is dat een voorziening niet voor subsidiëring in aanmerking komt.
+1. De bedragen van de met de activiteiten samenhangende voorzieningen, bedoeld in [artikel 374, eerste lid, van Boek 2 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=374) worden voor de toepassing van [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037297&artikel=5&z=2015-12-11&g=2015-12-11), aangemerkt als bestede bedragen, tenzij de Minister van oordeel is dat een voorziening niet voor subsidiëring in aanmerking komt.
 
 2. In de toelichting op de balans worden de toevoegingen en onttrekkingen aan de reserves en voorzieningen toegelicht.
 
