@@ -4,7 +4,7 @@ identifier: "BWBR0033667"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2015-12-11"
-last_updated: "2013-07-16"
+last_updated: "2015-12-11"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0033667"
 soort: "ministeriele-regeling"
@@ -52,7 +52,7 @@ In dit besluit wordt verstaan onder:
 
 - e. **feitelijk beheerder van het archief:** het Dienstencentrum afdeling Productie binnen het ministerie van Veiligheid en Justitie;
 
-- f. **beoordelaar archiefverzoeken:** het hoofd van de afdeling Juridische en Internationale Zaken van het directoraat-generaal Jeugd en Sanctietoepassing binnen het ministerie van Veiligheid en Justitie;
+- f. **beoordelaar archiefverzoeken:** het hoofd van de portefeuille Juridische en Internationale Zaken van het directoraat-generaal Straffen en Beschermen binnen het ministerie van Veiligheid en Justitie;
 
 - g. **anonimiseren:** het verwijderen van gegevens die het, afzonderlijk of in onderlinge samenhang, mogelijk maken om een individuele melder te identificeren.
 
@@ -70,9 +70,9 @@ De [Archiefwet 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007376) en de [Wet
 
 1. Stukken die behoren tot het niet-openbare deel van het archief, worden met de grootst mogelijke vertrouwelijkheid behandeld.
 
-2. Onze Minister anonimiseert onverwijld alle meldingen met ingang van 1 januari 2016.
+2. Onze Minister anonimiseert onverwijld alle meldingen met ingang van 1 maart 2017.
 
-3. In afwijking van het tweede lid, besluit Onze Minister tot eerdere anonimisering van een melding na een daartoe strekkend verzoek van de melder, mits dit verzoek, gelet op de in het tweede lid genoemde datum, voor 1 oktober 2015 is ontvangen.
+3. In afwijking van het tweede lid, besluit Onze Minister tot eerdere anonimisering van een melding na een daartoe strekkend verzoek van de melder, mits dit verzoek, gelet op de in het tweede lid genoemde datum, voor 1 december 2016 is ontvangen.
 
 4. In afwijking van het tweede lid wordt een melding niet geanonimiseerd indien een melder dat schriftelijk aan Onze Minister verzoekt.
 
