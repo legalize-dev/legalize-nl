@@ -4,7 +4,7 @@ identifier: "BWBR0017681"
 country: "nl"
 rank: "amvb"
 publication_date: "2026-01-01"
-last_updated: "2010-10-10"
+last_updated: "2015-12-11"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0017681"
 soort: "AMvB"
@@ -44,6 +44,8 @@ De Raad van State gehoord (advies van 2 september 2004, nr. W04.04.0254/I);
 Gezien het nader rapport van Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties van 6 december 2004, nr. PRO 2004/78765;
 
 Hebben goedgevonden en verstaan:
+
+Treedt in werking op het tijdstip waarop de Rijkswet Onderzoeksraad voor veiligheid in werking treedt. Treedt voor wat betreft het onderzoek naar ongevallen en incidenten met een zeeschip, niet zijnde een oorlogsschip, marinehulpschip of ander schip dat in gebruik is voor de uitvoering van de militaire taak in werking op 1 januari 2010 (Stb. 2009/563).
 
 #### § 1. Begripsomschrijving
 
@@ -135,9 +137,13 @@ Hebben goedgevonden en verstaan:
 
 - q. staat met aanmerkelijk belang: in geval van een voorval met een zeeschip, staat die tot een van de bij ministeriële regeling aangewezen categorieën behoort;
 
-- r. spoorweg: het spoorwegsysteem als bedoeld in richtlijn nr. 2004/49/EG van het Europees Parlement en de Raad van 29 april 2004 inzake de veiligheid op de communautaire spoorwegen en tot wijziging van richtlijn 95/18/EG van de Raad betreffende de verlening van vergunningen aan spoorwegondernemingen, en van richtlijn 2001/14/EG van de Raad inzake de toewijzing van spoorweginfrastructuurcapaciteit en de heffing van rechten voor het gebruik van spoorweginfrastructuur alsmede inzake veiligheidscertificering («Spoorwegveiligheidsrichtlijn») (PbEG L 220), voor zover dit systeem is aangewezen in het [Besluit aanwijzing hoofdspoorwegen](https://wetten.overheid.nl/jci1.3:c:BWBR0017794);
+- r. spoorweg: een spoorwegsysteem als bedoeld in richtlijn 2004/49/EG, voor zover dat systeem is aangewezen in het [Besluit aanwijzing hoofdspoorwegen](https://wetten.overheid.nl/jci1.3:c:BWBR0017794);
 
-- s. ernstig ongeval in verband met een spoorweg: een botsing of ontsporing van treinen, waarbij ten minste één persoon omkomt of vijf of meer personen ernstig gewond raken of grote schade aan het rollend materieel, de infrastructuur of het milieu wordt veroorzaakt, dan wel een soortgelijk ongeval dat duidelijk consequenties heeft voor de regelgeving op het gebied van de veiligheid op het spoor of het veiligheidsbeheer, waarbij onder «grote schade» wordt verstaan schade waarvan de totale kosten onmiddellijk door de onderzoekende instantie op ten minste € 2 miljoen kunnen worden geraamd.
+- s. ernstig ongeval in verband met een spoorweg: een botsing of ontsporing van treinen, waarbij ten minste één persoon omkomt of vijf of meer personen ernstig gewond raken of grote schade aan het rollend materieel, de infrastructuur of het milieu wordt veroorzaakt, dan wel een soortgelijk ongeval dat duidelijk consequenties heeft voor de regelgeving op het gebied van de veiligheid op het spoor of het veiligheidsbeheer, waarbij onder «grote schade» wordt verstaan schade waarvan de totale kosten onmiddellijk door de onderzoekende instantie op ten minste € 2 miljoen kunnen worden geraamd;
+
+- t. richtlijn 2004/49/EG: [richtlijn nr. 2004/49/EG](32004L0049) van het Europees Parlement en de Raad van 29 april 2004 inzake de veiligheid op de communautaire spoorwegen en tot wijziging van [richtlijn 95/18/EG](31995L0018) van de Raad betreffende de verlening van vergunningen aan spoorwegondernemingen, en van [richtlijn 2001/14/EG](32001L0014) van de Raad inzake de toewijzing van spoorweginfrastructuurcapaciteit en de heffing van rechten voor het gebruik van spoorweginfrastructuur alsmede inzake veiligheidscertificering («Spoorwegveiligheidsrichtlijn») (PbEG L 220);
+
+- u. Nederlandse spoorwegveiligheidsinstantie: de door Onze Minister van Infrastructuur en Milieu aangewezen dienst, belast met de taken van de veiligheidsinstantie, bedoeld in artikel 3, onderdeel g, van [richtlijn 2004/49/EG](32004L0049).
 
 2. Onder een luchtvaartongeval wordt mede verstaan een gebeurtenis die samenhangt met het gebruik van een onbemand luchtvaartuig en plaatsvindt tijdens de periode vanaf de start tot en met de landing en waarbij de in het eerste lid onderdeel d onder 1 tot en met 3 genoemde gevolgen zich hebben voorgedaan.
 
@@ -145,11 +151,11 @@ Hebben goedgevonden en verstaan:
 
 ##### Artikel 2
 
-1. Op voorvallen niet in verband met een spoorweg, waarbij geen andere zaak of persoon is betrokken dan een zaak of persoon in gebruik bij onderscheidenlijk in de uitoefening van een functie ten behoeve van Onze Minister van Defensie of bij een buitenlandse krijgsmacht, dan wel ten behoeve van een organisatie waarvan het beheer is opgedragen aan Onze Minister van Defensie, zijn de [artikelen 3 tot en met 5](https://wetten.overheid.nl/jci1.3:c:BWBR0017681&paragraaf=3&artikel=3&z=2010-10-10&g=2010-10-10), [8](https://wetten.overheid.nl/jci1.3:c:BWBR0017681&paragraaf=3&artikel=8&z=2010-10-10&g=2010-10-10), [9, eerste lid, onderdelen a tot en met k, en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017681&paragraaf=4&artikel=9&z=2010-10-10&g=2010-10-10), en [10 tot en met 23](https://wetten.overheid.nl/jci1.3:c:BWBR0017681&paragraaf=5&artikel=10&z=2010-10-10&g=2010-10-10) niet van toepassing.
+1. Op voorvallen niet in verband met een spoorweg, waarbij geen andere zaak of persoon is betrokken dan een zaak of persoon in gebruik bij onderscheidenlijk in de uitoefening van een functie ten behoeve van Onze Minister van Defensie of bij een buitenlandse krijgsmacht, dan wel ten behoeve van een organisatie waarvan het beheer is opgedragen aan Onze Minister van Defensie, zijn de [artikelen 3 tot en met 5](https://wetten.overheid.nl/jci1.3:c:BWBR0017681&paragraaf=3&artikel=3&z=2015-12-11&g=2015-12-11), [8](https://wetten.overheid.nl/jci1.3:c:BWBR0017681&paragraaf=3&artikel=8&z=2015-12-11&g=2015-12-11), [9, eerste lid, onderdelen a tot en met k, en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017681&paragraaf=4&artikel=9&z=2015-12-11&g=2015-12-11), en [10 tot en met 23](https://wetten.overheid.nl/jci1.3:c:BWBR0017681&paragraaf=5&artikel=10&z=2015-12-11&g=2015-12-11) niet van toepassing.
 
-2. Indien bij een voorval als in het eerste lid bedoeld tevens een andere zaak of persoon is betrokken dan in dat lid bedoeld, zijn de [artikelen 3 tot en met 5](https://wetten.overheid.nl/jci1.3:c:BWBR0017681&paragraaf=3&artikel=3&z=2010-10-10&g=2010-10-10), [8](https://wetten.overheid.nl/jci1.3:c:BWBR0017681&paragraaf=3&artikel=8&z=2010-10-10&g=2010-10-10), [9, eerste lid, onderdelen a tot en met k, en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017681&paragraaf=4&artikel=9&z=2010-10-10&g=2010-10-10), en [10 tot en met 23](https://wetten.overheid.nl/jci1.3:c:BWBR0017681&paragraaf=5&artikel=10&z=2010-10-10&g=2010-10-10) slechts van toepassing voorzover het die andere zaak of persoon betreft.
+2. Indien bij een voorval als in het eerste lid bedoeld tevens een andere zaak of persoon is betrokken dan in dat lid bedoeld, zijn de [artikelen 3 tot en met 5](https://wetten.overheid.nl/jci1.3:c:BWBR0017681&paragraaf=3&artikel=3&z=2015-12-11&g=2015-12-11), [8](https://wetten.overheid.nl/jci1.3:c:BWBR0017681&paragraaf=3&artikel=8&z=2015-12-11&g=2015-12-11), [9, eerste lid, onderdelen a tot en met k, en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017681&paragraaf=4&artikel=9&z=2015-12-11&g=2015-12-11), en [10 tot en met 23](https://wetten.overheid.nl/jci1.3:c:BWBR0017681&paragraaf=5&artikel=10&z=2015-12-11&g=2015-12-11) slechts van toepassing voorzover het die andere zaak of persoon betreft.
 
-3. De [artikelen 4](https://wetten.overheid.nl/jci1.3:c:BWBR0017681&paragraaf=3&artikel=4&z=2010-10-10&g=2010-10-10), [5](https://wetten.overheid.nl/jci1.3:c:BWBR0017681&paragraaf=3&artikel=5&z=2010-10-10&g=2010-10-10), [11a](https://wetten.overheid.nl/jci1.3:c:BWBR0017681&paragraaf=5&artikel=11a&z=2010-10-10&g=2010-10-10) en [11b](https://wetten.overheid.nl/jci1.3:c:BWBR0017681&paragraaf=5&artikel=11b&z=2010-10-10&g=2010-10-10) zijn niet van toepassing op scheepvaartongevallen, waarbij uitsluitend zijn betrokken:
+3. De [artikelen 4](https://wetten.overheid.nl/jci1.3:c:BWBR0017681&paragraaf=3&artikel=4&z=2015-12-11&g=2015-12-11), [5](https://wetten.overheid.nl/jci1.3:c:BWBR0017681&paragraaf=3&artikel=5&z=2015-12-11&g=2015-12-11), [11a](https://wetten.overheid.nl/jci1.3:c:BWBR0017681&paragraaf=5&artikel=11a&z=2015-12-11&g=2015-12-11) en [11b](https://wetten.overheid.nl/jci1.3:c:BWBR0017681&paragraaf=5&artikel=11b&z=2015-12-11&g=2015-12-11) zijn niet van toepassing op scheepvaartongevallen, waarbij uitsluitend zijn betrokken:
 
 - a. andere dan in het eerste lid bedoelde schepen in eigendom van of geëxploiteerd door een andere staat voor een niet-commerciële overheidsdienst;
 
@@ -167,7 +173,7 @@ Hebben goedgevonden en verstaan:
 
 ##### Artikel 3
 
-1. De raad stelt een onderzoek in naar luchtvaartongevallen, niet zijnde een luchtvaartongeval als bedoeld in [artikel 1, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017681&paragraaf=1&artikel=1&z=2010-10-10&g=2010-10-10), en ernstige luchtvaartincidenten, betreffende:
+1. De raad stelt een onderzoek in naar luchtvaartongevallen, niet zijnde een luchtvaartongeval als bedoeld in [artikel 1, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017681&paragraaf=1&artikel=1&z=2015-12-11&g=2015-12-11), en ernstige luchtvaartincidenten, betreffende:
 
 - a. een luchtvaartuig op of boven het grondgebied van Nederland met inbegrip van de territoriale zee,
 
@@ -235,11 +241,11 @@ Hebben goedgevonden en verstaan:
 
 - c. in geval van een luchtvaartongeval of een ernstig luchtvaartincident met een Nederlands luchtvaartuig boven volle zee of in het buitenland: de gezagvoerder en de exploitant van het luchtvaartuig;
 
-- d. in geval van een scheepvaartongeval of een scheepvaartincident dat voldoet aan de criteria, genoemd in [artikel 4, eerste lid, de onderdelen a tot en met c](https://wetten.overheid.nl/jci1.3:c:BWBR0017681&paragraaf=3&artikel=4&z=2010-10-10&g=2010-10-10): de kapitein en de exploitant van een schip dat betrokken is bij het ongeval, en daartoe door het bevoegde gezag, bedoeld in de Scheepvaartverkeerswet, aangewezen personen werkzaam bij de desbetreffende scheepvaartbegeleidingsdienst indien dat ongeval heeft plaatsgevonden in de Europese wateren;
+- d. in geval van een scheepvaartongeval of een scheepvaartincident dat voldoet aan de criteria, genoemd in [artikel 4, eerste lid, de onderdelen a tot en met c](https://wetten.overheid.nl/jci1.3:c:BWBR0017681&paragraaf=3&artikel=4&z=2015-12-11&g=2015-12-11): de kapitein en de exploitant van een schip dat betrokken is bij het ongeval, en daartoe door het bevoegde gezag, bedoeld in de Scheepvaartverkeerswet, aangewezen personen werkzaam bij de desbetreffende scheepvaartbegeleidingsdienst indien dat ongeval heeft plaatsgevonden in de Europese wateren;
 
 - e. in geval van een scheepvaartongeval met andere schepen dan zeeschepen varende in de Europese wateren onder Nederlandse jurisdictie: de kapitein en de exploitant van het schip;
 
-- f. in geval van een voorval in verband met een spoorweg of een andere railweg in Nederland: de exploitant van een railvoertuig dat betrokken is bij het ongeval, de betrokken verkeersleiding en de betrokken beheerder van de betrokken railweg of daarmee vergelijkbare geleider;
+- f. in geval van een voorval in verband met een spoorweg of een andere railweg in Nederland: de exploitant van een railvoertuig dat betrokken is bij het voorval, de Nederlandse spoorwegveiligheidsinstantie, de betrokken verkeersleiding en de betrokken beheerder van de betrokken railweg of daarmee vergelijkbare geleider;
 
 - g. in geval van een voorval in verband met een buisleiding in Nederland: de exploitant van een buisleiding die betrokken is bij het ongeval;
 
@@ -249,11 +255,11 @@ Hebben goedgevonden en verstaan:
 
 - j. in geval van een zwaar ongeval als bedoeld als bedoeld in [richtlijn nr. 96/82/EG](31996L0082) van de Raad van de Europese Unie van 9 december 1996 betreffende de beheersing van de gevaren van zware ongevallen waarbij gevaarlijke stoffen zijn betrokken (PbEG L 010): de exploitant van de inrichting als in de richtlijn bedoeld;
 
-- k. in geval van een luchtvaartongeval of een ernstig luchtvaartincident als bedoeld in [artikel 6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017681&paragraaf=3&artikel=6&z=2010-10-10&g=2010-10-10): Onze Minister van Defensie.
+- k. in geval van een luchtvaartongeval of een ernstig luchtvaartincident als bedoeld in [artikel 6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017681&paragraaf=3&artikel=6&z=2015-12-11&g=2015-12-11): Onze Minister van Defensie.
 
 2. In geval internationale verdragen of regelingen Onze Minister wie het aangaat verplichten tot het melden van een voorval aan een andere staat, de Commissie van de Europese Gemeenschappen of een internationale organisatie, geeft de raad de ontvangen melding terstond door aan Onze Minister wie het aangaat.
 
-#### § 5. Onderzoek
+#### § 4. Meldingsplichten
 
 ##### Artikel 10
 
@@ -301,7 +307,7 @@ Indien de staat die een onderzoek verricht terzake van een luchtvaartongeval met
 
 ##### Artikel 18
 
-Bij ministeriële regeling kunnen voorschriften worden gegeven omtrent de aanwijzing door Onze Minister van Verkeer en Waterstaat van vertegenwoordigers als bedoeld in de [artikelen 14, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017681&paragraaf=8&artikel=14&z=2010-10-10&g=2010-10-10), [16, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017681&paragraaf=8&artikel=16&z=2010-10-10&g=2010-10-10), en [17](https://wetten.overheid.nl/jci1.3:c:BWBR0017681&paragraaf=8&artikel=17&z=2010-10-10&g=2010-10-10).
+Bij ministeriële regeling kunnen voorschriften worden gegeven omtrent de aanwijzing door Onze Minister van Verkeer en Waterstaat van vertegenwoordigers als bedoeld in de [artikelen 14, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017681&paragraaf=8&artikel=14&z=2015-12-11&g=2015-12-11), [16, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017681&paragraaf=8&artikel=16&z=2015-12-11&g=2015-12-11), en [17](https://wetten.overheid.nl/jci1.3:c:BWBR0017681&paragraaf=8&artikel=17&z=2015-12-11&g=2015-12-11).
 
 ##### Artikel 19
 
@@ -359,7 +365,7 @@ Op verzoek van de staat die een onderzoek terzake van een luchtvaartongeval of l
 
 ##### Artikel 25
 
-Ter bevordering van de coördinatie en het overleg maken de raad en Onze Minister wie het aangaat, binnen een half jaar na inwerkingtreding van de rijkswet, afspraken over de samenwerking en informatie-uitwisseling in de gevallen waarin zowel de raad een onderzoek instelt naar een voorval als ook ten aanzien van hetzelfde voorval het opleggen van een bestuurlijke sanctie wordt overwogen. [Artikel 24, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017681&paragraaf=9&artikel=24&z=2010-10-10&g=2010-10-10), is van overeenkomstige toepassing.
+Ter bevordering van de coördinatie en het overleg maken de raad en Onze Minister wie het aangaat, binnen een half jaar na inwerkingtreding van de rijkswet, afspraken over de samenwerking en informatie-uitwisseling in de gevallen waarin zowel de raad een onderzoek instelt naar een voorval als ook ten aanzien van hetzelfde voorval het opleggen van een bestuurlijke sanctie wordt overwogen. [Artikel 24, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017681&paragraaf=9&artikel=24&z=2015-12-11&g=2015-12-11), is van overeenkomstige toepassing.
 
 #### § 10. Slotbepalingen
 
@@ -403,7 +409,7 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 ##### Artikel 9a
 
-1. Bij een besluit van de raad als bedoeld in [artikel 41, eerste lid, van de rijkswet](https://wetten.overheid.nl/jci1.3:c:BWBR0017613&artikel=41), om onderzoek te doen naar een scheepvaartongeval of incident, houdt de raad rekening met:
+1. Bij een beslissing van de raad als bedoeld in [artikel 41, eerste lid, van de rijkswet](https://wetten.overheid.nl/jci1.3:c:BWBR0017613&artikel=41), om onderzoek te doen naar een scheepvaartongeval of incident, houdt de raad rekening met:
 
 - a. de ernst van het ongeval of incident;
 
@@ -420,6 +426,40 @@ De raad voert het onderzoek naar een scheepvaartongeval, waarbij een zeeschip is
 ##### Artikel 11b
 
 Bij een onderzoek naar een scheepvaartongeval, waarbij een zeeschip is betrokken, wordt voor aangelegenheden die niet reeds in de rijkswet en de daarop berustende bepalingen expliciet geregeld zijn, de Code of the International Standards and Recommended Practices for a Safety Investigation into a Marine Casualty or Marine Incident zoals vastgesteld bij resolutie MSC.255(84) van de International Maritime Organisation van 16 mei 2008 in acht genomen.
+
+#### § 7. Toezenden rapport aan derden
+
+#### § 8. Onderzoek door een ander land
+
+#### § 9. Verhouding tot onderzoek met het oog op het opleggen van sancties
+
+Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
+
+##### Artikel 8b
+
+Bij een beslissing als bedoeld in [artikel 41, eerste lid, van de rijkswet](https://wetten.overheid.nl/jci1.3:c:BWBR0017613&artikel=41), omtrent het instellen van een onderzoek naar een ongeval of incident in verband met een spoorweg, niet zijnde een ernstig ongeval in verband met een spoorweg, houdt de raad rekening met:
+
+- a. de ernst van het ongeval of incident,
+
+- b. de vraag of het ongeval of incident deel uitmaakt van een reeks ongevallen of incidenten die van belang zijn voor het systeem als geheel,
+
+- c. de consequenties van het ongeval of incident voor de veiligheid op het spoor in de Europese Unie, en
+
+- d. verzoeken van infrastructuurbeheerders, spoorwegondernemingen, de Nederlandse spoorwegveiligheidsinstantie of andere lidstaten.
+
+#### § 5. Onderzoek
+
+##### Artikel 11c
+
+Bij het onderzoek naar een scheepvaartongeval, een ernstig scheepvaartongeval of een zeer ernstig scheepvaartongeval wordt rekening gehouden met de relevante bepalingen van de IMO-richtsnoeren betreffende de billijke behandeling van zeelieden bij ongevallen op zee, bedoeld in artikel 3, vierde lid, van [richtlijn 2009/18/EG](32009L0018) van het Europees parlement en van de Raad van Europese Unie van 23 april 2009 tot vaststelling van de grondbeginselen voor het onderzoek van ongevallen in de zeescheepvaartsector en tot wijziging van de [Richtlijn 1999/35/EG](31999L0035) van de Raad en [Richtlijn 2002/59/EG](32002L0059) van het Europees Parlement en de Raad (PbEU L 131).
+
+##### Artikel 11d
+
+1. Indien de raad naar aanleiding van een onderzoek naar een voorval in verband met een spoorweg een aanbeveling doet, richt hij deze tot de Nederlandse spoorwegveiligheidsinstantie, en, als de aard van de aanbeveling dat vereist, tot andere bestuursorganen of tot andere lidstaten.
+
+2. De Nederlandse spoorwegveiligheidsinstantie en de in het eerste lid bedoelde andere bestuursorganen alsmede andere lidstaten tot welke de aanbevelingen zijn gericht, laten de raad ten minste eenmaal per jaar weten welke maatregelen zij naar aanleiding van de aanbeveling hebben genomen of nog zullen nemen.
+
+#### § 6. Informatiemateriaal
 
 #### § 7. Toezenden rapport aan derden
 
