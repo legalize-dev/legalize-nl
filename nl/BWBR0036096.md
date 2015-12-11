@@ -4,7 +4,7 @@ identifier: "BWBR0036096"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-01-01"
-last_updated: "2015-03-24"
+last_updated: "2015-12-11"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0036096"
 soort: "ministeriele-regeling"
@@ -96,7 +96,7 @@ De gegevensverwerking, bedoeld in [artikel 5.2.9, zesde lid, van de wet](https:/
 
 ##### Artikel 4
 
-1. Een AMHK stelt een jaarrekening als bedoeld in [artikel 2:361 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=361) op waarin de eigen financiële gegevens zijn opgenomen en de gegevens, bedoeld in [artikel 2:392 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=392), zijn bijgevoegd.
+1. Een AMHK stelt een jaarrekening als bedoeld in [artikel 361 van Boek 2 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=361) op waarin de eigen financiële gegevens zijn opgenomen en de gegevens, bedoeld in [artikel 392 van Boek 2 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=392), zijn bijgevoegd.
 
 2. Op de jaarverslaggeving van een AMHK is [Titel 9 Boek 2 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&titeldeel=9) van overeenkomstige toepassing met uitzondering van de [afdelingen 1](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&afdeling=1), [11](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&afdeling=11) en [12](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&afdeling=12) voor zover in deze paragraaf niet anders is bepaald.
 
@@ -108,9 +108,9 @@ De gegevensverwerking, bedoeld in [artikel 5.2.9, zesde lid, van de wet](https:/
 
 - c. is het verslagjaar altijd gelijk aan een kalenderjaar;
 
-- d. kan een AMHK met een omzet van minder dan € 1.000.000,- per jaar en minder dan 10 fte personeel volstaan met een samenstellingsverklaring van een accountant in plaats van een verklaring als bedoeld in [artikel 2:393, vijfde lid, van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=393);
+- d. kan een AMHK dat op twee opeenvolgende balansdata, zonder onderbreking nadien op twee opeenvolgende balansdata, heeft voldaan aan twee of drie van de eisen, genoemd in [artikel 395a, eerste lid, van Boek 2 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=395a), volstaan met een samenstellingsverklaring van een accountant in plaats van een verklaring als bedoeld in [artikel 393, vijfde lid, van Boek 2 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=393);
 
-- e. kan een AMHK dat voldoet aan de eisen in [artikel 2:396, eerste lid, van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=396), volstaan met een beoordelingsverklaring van een accountant in plaats van een verklaring als bedoeld in [artikel 2:393, vijfde lid, van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=393).
+- e. kan een AMHK dat op twee opeenvolgende balansdata, zonder onderbreking nadien op twee opeenvolgende balansdata, heeft voldaan aan twee of drie van de eisen genoemd in [artikel 396, eerste lid, onderdelen a tot en met c, van Boek 2 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=396), volstaan met een beoordelingsverklaring van een accountant in plaats van een verklaring als bedoeld in [artikel 393, vijfde lid, van Boek 2 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=393).
 
 ##### Artikel 5
 
@@ -126,9 +126,9 @@ De gegevensverwerking, bedoeld in [artikel 5.2.9, zesde lid, van de wet](https:/
 
 1. Bij het Centraal Informatiepunt Beroepen Gezondheidszorg worden vóór 1 juni van het jaar volgend op het verslagjaar ingediend:
 
-- a. de jaarverslaggeving, bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0036096&hoofdstuk=4&paragraaf=1&artikel=5&z=2015-03-24&g=2015-03-24), in elektronische vorm;
+- a. de jaarverslaggeving, bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0036096&hoofdstuk=4&paragraaf=1&artikel=5&z=2015-12-11&g=2015-12-11), in elektronische vorm;
 
-- b. het jaardocument, bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0036096&hoofdstuk=4&paragraaf=1&artikel=5&z=2015-03-24&g=2015-03-24), in elektronische vorm.
+- b. het jaardocument, bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0036096&hoofdstuk=4&paragraaf=1&artikel=5&z=2015-12-11&g=2015-12-11), in elektronische vorm.
 
 2. De Minister kan een AMHK uitstel van indiening verlenen op een gemotiveerd verzoek, dat uiterlijk acht weken vóór het verstrijken van de in het eerste lid genoemde termijn moet zijn ingediend.
 
@@ -196,13 +196,13 @@ Ingevolge [artikel 3.13, eerste lid, onderdeel b, onder 2°, van het Uitvoerings
 
 ##### Artikel 12
 
-1. Voor de ongehuwde verzekerde die de pensioengerechtigde leeftijd heeft bereikt, wordt, indien het op grond van [artikel 3.13, eerste lid, onderdeel a, van het Uitvoeringsbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0035733&artikel=3.13), na toepassing van de [artikelen 9 tot en met 11 berekende bedrag](https://wetten.overheid.nl/jci1.3:c:BWBR0036096&hoofdstuk=6&artikel=9&z=2015-03-24&g=2015-03-24), meer bedraagt dan € 8.178, als extra vrijlating in mindering gebracht 25% van het verschil tussen het berekende bedrag en laatstbedoeld bedrag.
+1. Voor de ongehuwde verzekerde die de pensioengerechtigde leeftijd heeft bereikt, wordt, indien het op grond van [artikel 3.13, eerste lid, onderdeel a, van het Uitvoeringsbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0035733&artikel=3.13), na toepassing van de [artikelen 9 tot en met 11 berekende bedrag](https://wetten.overheid.nl/jci1.3:c:BWBR0036096&hoofdstuk=6&artikel=9&z=2015-12-11&g=2015-12-11), meer bedraagt dan € 8.178, als extra vrijlating in mindering gebracht 25% van het verschil tussen het berekende bedrag en laatstbedoeld bedrag.
 
-2. Voor de gehuwde verzekerden die de pensioengerechtigde leeftijd hebben bereikt, wordt, indien het op grond van [artikel 3.13, eerste lid, onderdeel a, van het Uitvoeringsbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0035733&artikel=3.13), na toepassing van de [artikelen 9 tot en met 11](https://wetten.overheid.nl/jci1.3:c:BWBR0036096&hoofdstuk=6&artikel=9&z=2015-03-24&g=2015-03-24), berekende bedrag voor hen tezamen, meer bedraagt dan € 9.826, als extra vrijlating in mindering gebracht 25% van het verschil tussen het berekende bedrag en laatstbedoeld bedrag.
+2. Voor de gehuwde verzekerden die de pensioengerechtigde leeftijd hebben bereikt, wordt, indien het op grond van [artikel 3.13, eerste lid, onderdeel a, van het Uitvoeringsbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0035733&artikel=3.13), na toepassing van de [artikelen 9 tot en met 11](https://wetten.overheid.nl/jci1.3:c:BWBR0036096&hoofdstuk=6&artikel=9&z=2015-12-11&g=2015-12-11), berekende bedrag voor hen tezamen, meer bedraagt dan € 9.826, als extra vrijlating in mindering gebracht 25% van het verschil tussen het berekende bedrag en laatstbedoeld bedrag.
 
-3. Voor de ongehuwde verzekerde die de pensioengerechtigde leeftijd nog niet heeft bereikt, wordt, indien het op grond van [artikel 3.13, eerste lid, onderdeel a, van het Uitvoeringsbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0035733&artikel=3.13), na toepassing van de [artikelen 9 tot en met 11](https://wetten.overheid.nl/jci1.3:c:BWBR0036096&hoofdstuk=6&artikel=9&z=2015-03-24&g=2015-03-24), berekende bedrag, meer bedraagt dan € 6.158, als extra vrijlating in mindering gebracht 25% van het verschil tussen het berekende bedrag en laatstbedoeld bedrag.
+3. Voor de ongehuwde verzekerde die de pensioengerechtigde leeftijd nog niet heeft bereikt, wordt, indien het op grond van [artikel 3.13, eerste lid, onderdeel a, van het Uitvoeringsbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0035733&artikel=3.13), na toepassing van de [artikelen 9 tot en met 11](https://wetten.overheid.nl/jci1.3:c:BWBR0036096&hoofdstuk=6&artikel=9&z=2015-12-11&g=2015-12-11), berekende bedrag, meer bedraagt dan € 6.158, als extra vrijlating in mindering gebracht 25% van het verschil tussen het berekende bedrag en laatstbedoeld bedrag.
 
-4. Voor de gehuwde verzekerden die de pensioengerechtigde leeftijd nog niet hebben bereikt, wordt, indien het op grond van [artikel 3.13, eerste lid, onderdeel a, van het Uitvoeringsbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0035733&artikel=3.13), na toepassing van de [artikelen 9 tot en met 11](https://wetten.overheid.nl/jci1.3:c:BWBR0036096&hoofdstuk=6&artikel=9&z=2015-03-24&g=2015-03-24), berekende bedrag voor hen tezamen, meer bedraagt dan € 13.284, als extra vrijlating in mindering gebracht 25% van het verschil tussen het berekende bedrag en laatstbedoeld bedrag.
+4. Voor de gehuwde verzekerden die de pensioengerechtigde leeftijd nog niet hebben bereikt, wordt, indien het op grond van [artikel 3.13, eerste lid, onderdeel a, van het Uitvoeringsbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0035733&artikel=3.13), na toepassing van de [artikelen 9 tot en met 11](https://wetten.overheid.nl/jci1.3:c:BWBR0036096&hoofdstuk=6&artikel=9&z=2015-12-11&g=2015-12-11), berekende bedrag voor hen tezamen, meer bedraagt dan € 13.284, als extra vrijlating in mindering gebracht 25% van het verschil tussen het berekende bedrag en laatstbedoeld bedrag.
 
 5. Het tweede lid is van toepassing indien een van beide gehuwde verzekerden de pensioengerechtigde leeftijd nog niet heeft bereikt.
 
@@ -236,7 +236,7 @@ Wijzigt de Voorzieningenregeling voor militaire oorlogs- en dienstslachtoffers.
 
 ##### Artikel 19
 
-[Artikel 2, tweede tot en met vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036096&hoofdstuk=2&artikel=2&z=2015-03-24&g=2015-03-24), is niet van toepassing op het verrichten van betalingen uit het persoonsgebonden budget voor een verzekerde als bedoeld in [artikel 8.3, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0035362&artikel=8.3), gedurende de looptijd van het indicatiebesluit of uiterlijk tot 1 januari 2016.
+[Artikel 2, tweede tot en met vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036096&hoofdstuk=2&artikel=2&z=2015-12-11&g=2015-12-11), is niet van toepassing op het verrichten van betalingen uit het persoonsgebonden budget voor een verzekerde als bedoeld in [artikel 8.3, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0035362&artikel=8.3), gedurende de looptijd van het indicatiebesluit of uiterlijk tot 1 januari 2016.
 
 ##### Artikel 20
 
@@ -262,7 +262,7 @@ Het [Uitvoeringsbesluit Wmo 2015](https://wetten.overheid.nl/jci1.3:c:BWBR003573
 
 In onderstaande tabel is een overzicht opgenomen van alle gegevens die aangeleverd moeten worden. Tussen haakjes is aangegeven in welke paragraaf van het informatieprotocol de gegevens worden uitgewerkt.
 
-Ook is in het informatieprotocol opgenomen ([hoofdstuk 5](https://wetten.overheid.nl/jci1.3:c:BWBR0036096&hoofdstuk=5&z=2015-03-24&g=2015-03-24)) welke gegevens van de AMHK organisaties zelf aan CBS geleverd moeten worden. Deze gegevens heeft het CBS nodig om de halfjaarlijkse gegevens uitvraag te doen.
+Ook is in het informatieprotocol opgenomen ([hoofdstuk 5](https://wetten.overheid.nl/jci1.3:c:BWBR0036096&hoofdstuk=5&z=2015-12-11&g=2015-12-11)) welke gegevens van de AMHK organisaties zelf aan CBS geleverd moeten worden. Deze gegevens heeft het CBS nodig om de halfjaarlijkse gegevens uitvraag te doen.
 
 Het informatieprotocol wordt beheerd door het ministerie van VWS. In praktijk vindt het beheer plaats in afstemming met:
 
@@ -720,7 +720,7 @@ Deze regeling zal met toelichting in de Staatscourant worden geplaatst.
 
 ### Hoofdstuk 8. Overgang- en slotbepalingen
 
-## Bijlage. behorende bij [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0036096&hoofdstuk=4&paragraaf=2&artikel=7&z=2015-03-24&g=2015-03-24) van de Uitvoeringsregeling Wmo 2015
+## Bijlage. behorende bij [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0036096&hoofdstuk=4&paragraaf=2&artikel=7&z=2015-12-11&g=2015-12-11) van de Uitvoeringsregeling Wmo 2015
 
 ### 1. Inleiding
 
