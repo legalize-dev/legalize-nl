@@ -4,7 +4,7 @@ identifier: "BWBR0037308"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2015-12-11"
-last_updated: "2014-03-06"
+last_updated: "2015-12-11"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0037308"
 soort: "ministeriele-regeling"
@@ -52,7 +52,7 @@ Wijzigt het Besluit vaststelling beleidsregels en subsidieplafond subsidiëring 
 
 ##### Artikel III
 
-Voor subsidies die zijn verleend op grond van het [besluit van de Minister voor Buitenlandse Handel en Ontwikkelingssamenwerking van 27 februari 2013, tot vaststelling van beleidsregels en een subsidieplafond op grond van de Subsidieregeling Ministerie van Buitenlandse Zaken 2006 (Tweede call Fonds Duurzaam Water)](https://wetten.overheid.nl/jci1.3:c:BWBR0034875) geldt dat de zin in [paragraaf 3.2](510759) Subsidiabele kosten van dit besluit luidende ‘Kosten voor hardware mogen niet worden gemaakt ten laste van het toegekende subsidiebudget voordat resultaat 1 (zie par. 5.2 inceptiefase) volledig en succesvol is.’ niet van toepassing is.
+Voor subsidies die zijn verleend op grond van het [besluit van de Minister voor Buitenlandse Handel en Ontwikkelingssamenwerking van 27 februari 2013, tot vaststelling van beleidsregels en een subsidieplafond op grond van de Subsidieregeling Ministerie van Buitenlandse Zaken 2006 (Tweede call Fonds Duurzaam Water)](https://wetten.overheid.nl/jci1.3:c:BWBR0034875) geldt dat de zin in [paragraaf 3.2](onbekend) Subsidiabele kosten van dit besluit luidende ‘Kosten voor hardware mogen niet worden gemaakt ten laste van het toegekende subsidiebudget voordat resultaat 1 (zie par. 5.2 inceptiefase) volledig en succesvol is.’ niet van toepassing is.
 
 ##### Artikel IV
 
