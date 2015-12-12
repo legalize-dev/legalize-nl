@@ -4,7 +4,7 @@ identifier: "BWBR0032421"
 country: "nl"
 rank: "amvb"
 publication_date: "2026-01-01"
-last_updated: "2015-01-01"
+last_updated: "2015-12-12"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0032421"
 soort: "AMvB"
@@ -54,7 +54,7 @@ In dit besluit wordt onder «wet» verstaan: [Wet normering bezoldiging topfunct
 
 De volgende variabele beloningen worden aangemerkt als uitzonderingen als bedoeld in de [artikelen 2.11](https://wetten.overheid.nl/jci1.3:c:BWBR0032249&artikel=2.11) en [3.8 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0032249&artikel=3.8):
 
-- a. een gratificatie ter gelegenheid van het bereiken van een diensttijd van 12½, 25, 40 en 50 jaar;
+- a. een uit een wettelijk voorschrift, een collectieve arbeidsovereenkomst of reguliere arbeidsvoorwaarden voortvloeiende uitkering of verstrekking die wordt toegekend in verband met het bereiken van een bepaalde diensttijd;
 
 - b. een eenmalige mobiliteitstoeslag;
 
@@ -62,7 +62,7 @@ De volgende variabele beloningen worden aangemerkt als uitzonderingen als bedoel
 
 ##### Artikel 3
 
-Het bedrag van de in [artikel 5.6, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0032249&artikel=5.6) bedoelde kosten verbonden aan de openbaarmaking van gegevens, bedoeld in artikel 5.6, eerste lid, en van het opstellen van het document wordt vastgesteld op € 1100.
+Het bedrag van de in [artikel 5.6, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0032249&artikel=5.6) bedoelde kosten verbonden aan de openbaarmaking van gegevens, bedoeld in artikel 5.6, eerste lid, en van het opstellen van het document wordt vastgesteld op € 1100, vermeerderd met de kosten verbonden aan de werkzaamheden van een accountant in verband met de verzameling en de controle van gegevens, tot een maximum van € 12.000.
 
 ##### Artikel 4
 
