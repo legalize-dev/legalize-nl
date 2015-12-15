@@ -4,7 +4,7 @@ identifier: "BWBR0021043"
 country: "nl"
 rank: "beleidsregel"
 publication_date: "2025-01-01"
-last_updated: "2007-01-11"
+last_updated: "2015-12-15"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0021043"
 soort: "beleidsregel"
@@ -85,11 +85,23 @@ Een beheerder van een fonds die vooraf zekerheid wil over de fiscale behandeling
 
 Het kan voorkomen dat bij een verdragspartner vragen rijzen over de toekenning van verdragsvoordelen wanneer via een fonds voor gemene rekening wordt belegd. In dergelijke gevallen is het Ministerie van Financiën, op verzoek, bereid om met deze verdragspartner in overleg te treden. Een beheerder van een fonds voor gemene rekening kan in dit kader contact opnemen met de directie Internationale Fiscale Zaken van het Ministerie van Financiën.
 
-### 6. Ingetrokken regeling
+### 6. Het stapelen van fondsen voor gemene rekening
+
+De afgelopen periode is mij gevraagd hoe bij het stapelen van personenvennootschappen moet worden aangekeken tegen fondsen voor gemene rekening waarbij de vervreemding van de bewijzen van deelgerechtigdheid uitsluitend kan geschieden aan het fonds zelf of aan bloed- en aanverwanten in de rechte linie van de participant (de zogenoemde inkoopvariant). Omwille van de duidelijkheid merk ik op dat een fonds voor gemene rekening met een inkoopvariant gecombineerd kan worden met een fonds voor gemene rekening met eveneens een inkoopvariant zonder dat daarmee het besloten karakter van deze gestapelde fondsen wordt aangetast.
+
+### 7. Inwerkingtreding
+
+Dit besluit treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin het wordt geplaatst en werkt terug tot en met de dagtekening van dit besluit.
+
+Dit besluit zal in de Staatscourant worden geplaatst.
+
+Voor stapels waarin zowel fondsen voor gemene rekening met een inkoopvariant als met een toestemmingsvariant zijn opgenomen, of waarin naast een of meerdere fondsen voor gemene rekening ook een samenwerkingsverband met een toestemmingsvariant is opgenomen, verwijs ik naar [onderdelen 5](532789) en [7 van mijn besluit van 15 december 2015, nr. BLKB2015/1209M](532789). Hierin ga ik in op het stapelen van samenwerkingsverbanden met een toestemmingsvariant en geef ik een goedkeuring in de vorm van het zogenoemde enkelvoudig toestemmingsvereiste. Zoals in dat onderdeel 5 aangegeven, geldt deze goedkeuring en de daarbij horende voorwaarde ook bij stapels waarbij een samenwerkingsverband met een toestemmingsvariant wordt gecombineerd met een fonds voor gemene rekening met een inkoopvariant of met een toestemmingsvariant.
+
+### 7. Ingetrokken regeling
 
 De volgende besluiten zijn ingetrokken met ingang van de inwerkingtreding van dit besluit:
 
-### 7. Inwerkingtreding
+### 8. Inwerkingtreding
 
 Dit besluit treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin het wordt geplaatst en werkt terug tot en met de dagtekening van dit besluit.
 
