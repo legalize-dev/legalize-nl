@@ -4,7 +4,7 @@ identifier: "BWBR0032516"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2023-10-18"
-last_updated: "2014-12-25"
+last_updated: "2015-12-16"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0032516"
 soort: "ministeriele-regeling"
@@ -66,13 +66,13 @@ Met het toezicht op de naleving, bedoeld in [artikel 8.1, eerste lid, van de wet
 
 - e. de controleurs, inspecteurs en keurmeesters van de Stichting COKZ;
 
-- f. de ambtenaren van de politie, bedoeld in [artikel 2, onderdeel a, van de Politiewet 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&artikel=2) voor zover het betreft het toezicht op de naleving van de [artikel 2.1](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&artikel=2.1) en [artikel 2.2, achtste lid, van de Wet dieren](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&artikel=2.2) en het [Besluit houders van dieren](https://wetten.overheid.nl/jci1.3:c:BWBR0035217&wetgeving);
+- f. de ambtenaren van de politie, bedoeld in [artikel 2, onderdeel a, van de Politiewet 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&artikel=2) voor zover het betreft het toezicht op de naleving van de [artikelen 2.1](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&artikel=2.1) en [2.2, achtste lid, van de Wet dieren](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&artikel=2.2) en het [Besluit houders van dieren](https://wetten.overheid.nl/jci1.3:c:BWBR0035217&wetgeving);
 
 - g. de inspecteurs van de stichting Landelijke Inspectiedienst Dierenbescherming, voor zover het betreft het toezicht op de naleving van:
 
 - 1.°. [Artikel 2.1](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&artikel=2.1) en [2.2, achtste lid, van de Wet dieren](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&artikel=2.2) en [artikel 1.3 van het Besluit houders van dieren](https://wetten.overheid.nl/jci1.3:c:BWBR0035217&artikel=1.3);
 
-- 2.°. de [artikelen 2.2, tiende lid, onderdeel b, c, d, e, f, g, k, l, m, n, en p](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&artikel=2.2), [2.6, tweede lid, onderdeel a, b, d, e, en f](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&artikel=2.6), [2.7, tweede lid, onderdeel a, c, d, g, k, l en m](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&artikel=2.7), [2.8, vierde lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&artikel=2.8), [2.16, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&artikel=2.16), in samenhang met [artikel 7.1](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&artikel=7.1), [7.2, tweede lid, onderdeel c, d, e, g en i](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&artikel=7.2), en [7.6, tweede lid, onderdeel c, van de Wet dieren](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&artikel=7.6), in samenhang met het bepaalde bij of krachtens [artikel 3.4](https://wetten.overheid.nl/jci1.3:c:BWBR0035217&artikel=3.4) en [paragraaf 3.2 van het Besluit houders van dieren](https://wetten.overheid.nl/jci1.3:c:BWBR0035217&paragraaf=3);
+- 2.°. de [artikelen 2.2, tiende lid, onderdeel b, c, d, e, f, g, k, l, m, n, en p](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&artikel=2.2), [2.6, tweede lid, onderdeel a, b, d, e, en f](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&artikel=2.6), [2.7, tweede lid, onderdeel a, c, d, g, k, l en m](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&artikel=2.7), [2.8, vierde lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&artikel=2.8), [2.16, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&artikel=2.16), in samenhang met [artikel 7.1](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&artikel=7.1), [7.2, tweede lid, onderdeel c, d, e, g en i](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&artikel=7.2), en [7.6, tweede lid, onderdeel c, van de Wet dieren](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&artikel=7.6), in samenhang met het bepaalde bij of krachtens [artikel 3.4](https://wetten.overheid.nl/jci1.3:c:BWBR0035217&artikel=3.4) en [paragraaf 3.2 van het Besluit houders van dieren](https://wetten.overheid.nl/jci1.3:c:BWBR0035217&paragraaf=2);
 
 - 3.°. [artikel 2.2, zevende lid, van de Wet dieren](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&artikel=2.2) in samenhang met het bepaalde in [artikel 1.20 van het Besluit houders van dieren](https://wetten.overheid.nl/jci1.3:c:BWBR0035217&artikel=1.20);
 
