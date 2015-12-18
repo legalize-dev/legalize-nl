@@ -4,7 +4,7 @@ identifier: "BWBR0037372"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2015-12-18"
-last_updated: "2015-12-10"
+last_updated: "2015-12-18"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0037372"
 soort: "ministeriele-regeling"
@@ -42,7 +42,7 @@ Besluit:
 
 ##### Artikel 1
 
-1. De Stichting Geschillencommissies voor Consumentenzaken wordt aangewezen als geschilleninstantie in de zin van de [Implementatiewet buitengerechtelijke geschillenbeslechting consumenten](https://wetten.overheid.nl/jci1.3:c:BWBR0036550&wetgeving).
+1. De Stichting Geschillencommissies voor Consumentenzaken wordt aangewezen als geschilleninstantie in de zin van de [Implementatiewet buitengerechtelijke geschillenbeslechting consumenten](https://wetten.overheid.nl/jci1.3:c:BWBR0036550).
 
 2. De aanwijzing, bedoeld in het eerste lid, ziet uitsluitend op de behandeling van geschillen zoals bedoeld in [artikel 2, eerste lid van de implementatiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0036550&artikel=2).
 
