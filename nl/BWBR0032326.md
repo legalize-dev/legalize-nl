@@ -4,7 +4,7 @@ identifier: "BWBR0032326"
 country: "nl"
 rank: "beleidsregel"
 publication_date: "2025-02-11"
-last_updated: "2015-10-01"
+last_updated: "2015-12-18"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0032326"
 soort: "beleidsregel"
@@ -114,11 +114,23 @@ Bij overtredingen begaan door werknemers of zelfstandigen geldt als uitgangspunt
 
 - d. indien meer dan tien, respectievelijk meer dan vijftig werknemers aan een niet-administratieve overtreding zijn blootgesteld wordt het normbedrag vermenigvuldigd met anderhalf, respectievelijk twee.
 
-11. Bij de vaststelling of sprake is van herhaling van dezelfde of soortgelijke overtredingen wordt bij zelfstandig opererende nevenvestigingen van rechtspersonen gehandeld alsof deze afzonderlijke ondernemingen zijn.
+11. Indien de werkgever aantoont dat hij inspanningen heeft verricht, gericht op het voorkomen van de overtreding in het concrete geval, kan dit leiden tot matiging van het al dan niet op bedrijfsgrootte gecorrigeerde normbedrag. De volgende inspanningen kunnen leiden tot een matiging van 25% per onderdeel:
 
-12. Indien rechtspersonen langer dan zes aaneengesloten maanden op dezelfde bouwlocatie werkzaamheden verrichten, wordt die bouwlocatie beschouwd als nevenvestiging als bedoeld in het elfde lid.
+- a. als de risico’s van de concrete werkzaamheden voldoende zijn geïnventariseerd en een veilige werkwijze is ontwikkeld die voldoet aan de vereisten van het bepaalde bij of krachtens de Arbeidsomstandighedenwet;
 
-13. Het elfde en twaalfde lid zijn niet van toepassing op ernstige overtredingen, als bedoeld in [artikel 9.10a, derde lid, van het Arbeidsomstandighedenbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=9.10a).
+- b. als de noodzakelijke randvoorwaarden zijn gecreëerd voor het toepassen van een veilige werkwijze;
+
+- c. als er adequate instructies zijn gegeven;
+
+- d. als er adequaat toezicht is gehouden.
+
+12. Als werkgever in de zin van het elfde lid wordt mede begrepen degene bij wie vrijwilligers werkzaam zijn.
+
+13. Bij de vaststelling of sprake is van herhaling van dezelfde of soortgelijke overtredingen wordt bij zelfstandig opererende nevenvestigingen van rechtspersonen gehandeld alsof deze afzonderlijke ondernemingen zijn.
+
+14. Indien rechtspersonen langer dan zes aaneengesloten maanden op dezelfde bouwlocatie werkzaamheden verrichten, wordt die bouwlocatie beschouwd als nevenvestiging als bedoeld in het dertiende.
+
+15. Het dertiende en veertiende lid zijn niet van toepassing op ernstige overtredingen, als bedoeld in [artikel 9.10a, derde lid, van het Arbeidsomstandighedenbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=9.10a).
 
 ##### Artikel 2
 
