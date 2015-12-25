@@ -4,7 +4,7 @@ identifier: "BWBV0006531"
 country: "nl"
 rank: "verdrag"
 publication_date: "2015-12-25"
-last_updated: "2015-06-29"
+last_updated: "2015-12-25"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBV0006531"
 soort: "verdrag"
@@ -68,11 +68,11 @@ Teneinde haar doel te verwezenlijken, vervult de Bank de volgende taken:
 
 1. Het lidmaatschap van de Bank staat open voor leden van de Internationale Bank voor Herstel en Ontwikkeling en voor leden van de Aziatische Ontwikkelingsbank.
 
-- a. Regionale leden zijn de leden vermeld in Deel A van Schema A en de overige leden die deel uitmaken van de Aziatische regio in overeenstemming met [artikel 1, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBV0006531&hoofdstuk=I&artikel=1&z=2015-06-29&g=2015-06-29). Alle overige leden zijn niet-regionale leden.
+- a. Regionale leden zijn de leden vermeld in Deel A van Schema A en de overige leden die deel uitmaken van de Aziatische regio in overeenstemming met [artikel 1, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBV0006531&hoofdstuk=I&artikel=1&z=2015-12-25&g=2015-12-25). Alle overige leden zijn niet-regionale leden.
 
-- b. Oprichtende leden zijn de leden vermeld in Schema A die op of voor de datum genoemd in [artikel 57](https://wetten.overheid.nl/jci1.3:c:BWBV0006531&hoofdstuk=XI&artikel=57&z=2015-06-29&g=2015-06-29) dit Verdrag hebben ondertekend en aan alle overige voorwaarden voor het lidmaatschap hebben voldaan voor de uiterste datum vermeld in [artikel 58, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBV0006531&hoofdstuk=XI&artikel=58&z=2015-06-29&g=2015-06-29).
+- b. Oprichtende leden zijn de leden vermeld in Schema A die op of voor de datum genoemd in [artikel 57](https://wetten.overheid.nl/jci1.3:c:BWBV0006531&hoofdstuk=XI&artikel=57&z=2015-12-25&g=2015-12-25) dit Verdrag hebben ondertekend en aan alle overige voorwaarden voor het lidmaatschap hebben voldaan voor de uiterste datum vermeld in [artikel 58, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBV0006531&hoofdstuk=XI&artikel=58&z=2015-12-25&g=2015-12-25).
 
-2. De leden van de Internationale Bank voor Herstel en Ontwikkeling en de leden van de Aziatische Ontwikkelingsbank die geen lid worden in overeenstemming met [artikel 58](https://wetten.overheid.nl/jci1.3:c:BWBV0006531&hoofdstuk=XI&artikel=58&z=2015-06-29&g=2015-06-29) kunnen onder door de Bank te bepalen voorwaarden worden toegelaten tot het lidmaatschap van de Bank bij een bijzondere meerderheid van stemmen van de Raad van Gouverneurs zoals voorzien in [artikel 28](https://wetten.overheid.nl/jci1.3:c:BWBV0006531&hoofdstuk=V&artikel=28&z=2015-06-29&g=2015-06-29).
+2. De leden van de Internationale Bank voor Herstel en Ontwikkeling en de leden van de Aziatische Ontwikkelingsbank die geen lid worden in overeenstemming met [artikel 58](https://wetten.overheid.nl/jci1.3:c:BWBV0006531&hoofdstuk=XI&artikel=58&z=2015-12-25&g=2015-12-25) kunnen onder door de Bank te bepalen voorwaarden worden toegelaten tot het lidmaatschap van de Bank bij een bijzondere meerderheid van stemmen van de Raad van Gouverneurs zoals voorzien in [artikel 28](https://wetten.overheid.nl/jci1.3:c:BWBV0006531&hoofdstuk=V&artikel=28&z=2015-12-25&g=2015-12-25).
 
 3. In het geval van kandidaten die niet soeverein zijn of niet zelf hun internationale betrekkingen regelen, wordt de aanvraag van het lidmaatschap van de Bank voorgelegd of goedgekeurd door het lid van de Bank dat verantwoordelijk is voor diens internationale betrekkingen.
 
@@ -80,27 +80,27 @@ Teneinde haar doel te verwezenlijken, vervult de Bank de volgende taken:
 
 ##### Artikel 4. Maatschappelijk kapitaal
 
-1. Het maatschappelijk kapitaal van de Bank bedraagt honderd miljard Amerikaanse dollar ($100.000.000.000), verdeeld in één miljoen (1.000.000) aandelen met een pari-waarde van 100.000 dollar ($100.000) elk, waarop uitsluitend door leden kan worden ingeschreven in overeenstemming met de bepalingen van [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBV0006531&hoofdstuk=II&artikel=5&z=2015-06-29&g=2015-06-29).
+1. Het maatschappelijk kapitaal van de Bank bedraagt honderd miljard Amerikaanse dollar ($100.000.000.000), verdeeld in één miljoen (1.000.000) aandelen met een pari-waarde van 100.000 dollar ($100.000) elk, waarop uitsluitend door leden kan worden ingeschreven in overeenstemming met de bepalingen van [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBV0006531&hoofdstuk=II&artikel=5&z=2015-12-25&g=2015-12-25).
 
 2. Het aanvankelijke maatschappelijk kapitaal wordt verdeeld in volgestorte aandelen en niet-volgestorte aandelen. Tot een totale pari-waarde van twintig miljard dollar ($20.000.000.000) bestaat het uit volgestorte aandelen en tot een totale pari-waarde van tachtig miljard dollar ($80.000.000.000) uit niet-volgestorte aandelen.
 
-3. Het maatschappelijk kapitaal van de Bank kan door de Raad van Gouverneurs bij een supermeerderheid van stemmen, zoals voorzien in [artikel 28](https://wetten.overheid.nl/jci1.3:c:BWBV0006531&hoofdstuk=V&artikel=28&z=2015-06-29&g=2015-06-29), worden verhoogd op een tijdstip en onder de voorwaarden die hem goeddunken, met inbegrip van de verhouding tussen volgestorte en niet-volgestorte aandelen.
+3. Het maatschappelijk kapitaal van de Bank kan door de Raad van Gouverneurs bij een supermeerderheid van stemmen, zoals voorzien in [artikel 28](https://wetten.overheid.nl/jci1.3:c:BWBV0006531&hoofdstuk=V&artikel=28&z=2015-12-25&g=2015-12-25), worden verhoogd op een tijdstip en onder de voorwaarden die hem goeddunken, met inbegrip van de verhouding tussen volgestorte en niet-volgestorte aandelen.
 
 4. Onder de uitdrukking „dollar” en het symbool „$” zoals gebruikt in dit Verdrag wordt het officiële betaalmiddel van de Verenigde Staten van Amerika verstaan.
 
 ##### Artikel 5. Inschrijving op aandelen
 
-1. Elk lid schrijft in op aandelen van het kapitaal van de Bank. Elke inschrijving op het aanvankelijke maatschappelijk kapitaal heeft betrekking op volgestorte aandelen en niet-volgestorte aandelen in de verhouding twee (2) staat tot acht (8). Het aantal aandelen waarvoor aanvankelijk door landen die lid worden in overeenstemming met [artikel 58](https://wetten.overheid.nl/jci1.3:c:BWBV0006531&hoofdstuk=XI&artikel=58&z=2015-06-29&g=2015-06-29) dient te worden ingeschreven is vermeld in Schema A.
+1. Elk lid schrijft in op aandelen van het kapitaal van de Bank. Elke inschrijving op het aanvankelijke maatschappelijk kapitaal heeft betrekking op volgestorte aandelen en niet-volgestorte aandelen in de verhouding twee (2) staat tot acht (8). Het aantal aandelen waarvoor aanvankelijk door landen die lid worden in overeenstemming met [artikel 58](https://wetten.overheid.nl/jci1.3:c:BWBV0006531&hoofdstuk=XI&artikel=58&z=2015-12-25&g=2015-12-25) dient te worden ingeschreven is vermeld in Schema A.
 
-2. Het aantal aandelen waarvoor aanvankelijk dient te worden ingeschreven door landen die tot het lidmaatschap worden toegelaten overeenkomstig [artikel 3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBV0006531&hoofdstuk=I&artikel=3&z=2015-06-29&g=2015-06-29), wordt vastgesteld door de Raad van Gouverneurs, echter met dien verstande dat inschrijving niet is toegestaan indien dit tot gevolg zou hebben dat het percentage kapitaal in handen van regionale leden wordt teruggebracht tot minder dan vijfenzeventig (75) percent van het totale geplaatste kapitaal, tenzij anders overeengekomen door de Raad van Gouverneurs bij een supermeerderheid van stemmen zoals voorzien in [artikel 28](https://wetten.overheid.nl/jci1.3:c:BWBV0006531&hoofdstuk=V&artikel=28&z=2015-06-29&g=2015-06-29).
+2. Het aantal aandelen waarvoor aanvankelijk dient te worden ingeschreven door landen die tot het lidmaatschap worden toegelaten overeenkomstig [artikel 3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBV0006531&hoofdstuk=I&artikel=3&z=2015-12-25&g=2015-12-25), wordt vastgesteld door de Raad van Gouverneurs, echter met dien verstande dat inschrijving niet is toegestaan indien dit tot gevolg zou hebben dat het percentage kapitaal in handen van regionale leden wordt teruggebracht tot minder dan vijfenzeventig (75) percent van het totale geplaatste kapitaal, tenzij anders overeengekomen door de Raad van Gouverneurs bij een supermeerderheid van stemmen zoals voorzien in [artikel 28](https://wetten.overheid.nl/jci1.3:c:BWBV0006531&hoofdstuk=V&artikel=28&z=2015-12-25&g=2015-12-25).
 
-3. De Raad van Gouverneurs kan op verzoek van een lid de inschrijving van dat lid uitbreiden op door de Raad bij een supermeerderheid van stemmen, zoals voorzien in [artikel 28](https://wetten.overheid.nl/jci1.3:c:BWBV0006531&hoofdstuk=V&artikel=28&z=2015-06-29&g=2015-06-29), vast te stellen voorwaarden, echter met dien verstande dat uitbreiding van de inschrijving van een lid niet is toegestaan indien dit tot gevolg zou hebben dat het percentage van het kapitaal in handen van de regionale leden wordt teruggebracht tot minder dan vijfenzeventig (75) percent van het totale geplaatste kapitaal, tenzij anders wordt overeengekomen door de Raad van Gouverneurs bij een supermeerderheid van stemmen zoals voorzien in artikel 28.
+3. De Raad van Gouverneurs kan op verzoek van een lid de inschrijving van dat lid uitbreiden op door de Raad bij een supermeerderheid van stemmen, zoals voorzien in [artikel 28](https://wetten.overheid.nl/jci1.3:c:BWBV0006531&hoofdstuk=V&artikel=28&z=2015-12-25&g=2015-12-25), vast te stellen voorwaarden, echter met dien verstande dat uitbreiding van de inschrijving van een lid niet is toegestaan indien dit tot gevolg zou hebben dat het percentage van het kapitaal in handen van de regionale leden wordt teruggebracht tot minder dan vijfenzeventig (75) percent van het totale geplaatste kapitaal, tenzij anders wordt overeengekomen door de Raad van Gouverneurs bij een supermeerderheid van stemmen zoals voorzien in artikel 28.
 
 4. De Raad van Gouverneurs herziet het kapitaal van de Bank met tussenpozen van ten hoogste vijf (5) jaar. In geval van verhoging van het maatschappelijk kapitaal krijgt elk lid een redelijke gelegenheid om, onder door de Raad van Gouverneurs vast te stellen voorwaarden, in te schrijven voor een deel van het bedrag waarmee het kapitaal wordt verhoogd, dat gelijk is aan de verhouding waarin de aandelen waarvoor het reeds heeft ingeschreven staan tot het totale geplaatste kapitaal onmiddellijk voor de verhoging. De leden zijn niet verplicht in te schrijven op een gedeelte van een verhoging van het kapitaal.
 
 ##### Artikel 6. Betaling van de inschrijvingen
 
-1. Het bedrag waarvoor door de ondertekenaars van dit Verdrag die lid worden overeenkomstig het bepaalde in [artikel 58](https://wetten.overheid.nl/jci1.3:c:BWBV0006531&hoofdstuk=XI&artikel=58&z=2015-06-29&g=2015-06-29), op het gestorte kapitaal van de Bank aanvankelijk is ingeschreven wordt betaald in vijf (5) termijnen, elk van twintig (20) percent van dat bedrag, behalve zoals voorzien in het vijfde lid van dit artikel. De eerste termijn wordt door de leden betaald hetzij binnen dertig (30) dagen na de datum van inwerkingtreding van dit Verdrag, hetzij op of voor de datum van nederlegging namens dat lid van de akte van bekrachtiging, aanvaarding of goedkeuring overeenkomstig artikel 58, eerste lid, al naargelang van wat het laatst is. De tweede termijn vervalt een (1) jaar na de inwerkingtreding van dit Verdrag. De resterende drie (3) termijnen vervallen achtereenvolgens telkens een (1) jaar na de datum waarop de voorgaande termijn verviel.
+1. Het bedrag waarvoor door de ondertekenaars van dit Verdrag die lid worden overeenkomstig het bepaalde in [artikel 58](https://wetten.overheid.nl/jci1.3:c:BWBV0006531&hoofdstuk=XI&artikel=58&z=2015-12-25&g=2015-12-25), op het gestorte kapitaal van de Bank aanvankelijk is ingeschreven wordt betaald in vijf (5) termijnen, elk van twintig (20) percent van dat bedrag, behalve zoals voorzien in het vijfde lid van dit artikel. De eerste termijn wordt door de leden betaald hetzij binnen dertig (30) dagen na de datum van inwerkingtreding van dit Verdrag, hetzij op of voor de datum van nederlegging namens dat lid van de akte van bekrachtiging, aanvaarding of goedkeuring overeenkomstig artikel 58, eerste lid, al naargelang van wat het laatst is. De tweede termijn vervalt een (1) jaar na de inwerkingtreding van dit Verdrag. De resterende drie (3) termijnen vervallen achtereenvolgens telkens een (1) jaar na de datum waarop de voorgaande termijn verviel.
 
 2. Elke termijnbetaling van de aanvankelijke inschrijvingen op het aanvankelijke volgestorte kapitaal wordt betaald in dollars of in een andere convertibele valuta, behalve als voorzien in het vijfde lid van dit artikel. De Bank kan deze betalingen te allen tijde inwisselen voor dollars. Alle rechten, met inbegrip van stemrecht, verworven ter zake van volgestorte en de bijbehorende niet-volgestorte aandelen waarvoor deze betalingen verschuldigd zijn maar die niet zijn ontvangen, worden opgeschort totdat de volledige betaling is ontvangen door de Bank.
 
@@ -128,7 +128,7 @@ Teneinde haar doel te verwezenlijken, vervult de Bank de volgende taken:
 
 ##### Artikel 7. Voorwaarden voor aandelen
 
-1. Aandelen waarop leden aanvankelijk hebben ingeschreven worden uitgegeven a pari. De overige aandelen worden uitgegeven a pari, tenzij de Raad van Gouverneurs bij een bijzondere meerderheid van stemmen zoals voorzien in [artikel 28](https://wetten.overheid.nl/jci1.3:c:BWBV0006531&hoofdstuk=V&artikel=28&z=2015-06-29&g=2015-06-29) onder bijzondere omstandigheden besluit ze op andere voorwaarden uit te geven.
+1. Aandelen waarop leden aanvankelijk hebben ingeschreven worden uitgegeven a pari. De overige aandelen worden uitgegeven a pari, tenzij de Raad van Gouverneurs bij een bijzondere meerderheid van stemmen zoals voorzien in [artikel 28](https://wetten.overheid.nl/jci1.3:c:BWBV0006531&hoofdstuk=V&artikel=28&z=2015-12-25&g=2015-12-25) onder bijzondere omstandigheden besluit ze op andere voorwaarden uit te geven.
 
 2. De aandelen worden op generlei wijze verpand of bezwaard en zijn slechts overdraagbaar aan de Bank.
 
@@ -140,29 +140,29 @@ Teneinde haar doel te verwezenlijken, vervult de Bank de volgende taken:
 
 In dit Verdrag wordt onder de term „gewone middelen” van de Bank mede verstaan:
 
-- i. het maatschappelijk kapitaal van de Bank, bestaande uit volgestorte en niet-volgestorte aandelen, ingeschreven ingevolge [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBV0006531&hoofdstuk=II&artikel=5&z=2015-06-29&g=2015-06-29);
+- i. het maatschappelijk kapitaal van de Bank, bestaande uit volgestorte en niet-volgestorte aandelen, ingeschreven ingevolge [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBV0006531&hoofdstuk=II&artikel=5&z=2015-12-25&g=2015-12-25);
 
-- ii. fondsen verkregen door de Bank krachtens de ingevolge [artikel 16, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBV0006531&hoofdstuk=IV&artikel=16&z=2015-06-29&g=2015-06-29), verleende bevoegdheden waarop de verplichting te voldoen aan verzoeken tot volstorting, voorzien in [artikel 6, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0006531&hoofdstuk=II&artikel=6&z=2015-06-29&g=2015-06-29), van toepassing is;
+- ii. fondsen verkregen door de Bank krachtens de ingevolge [artikel 16, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBV0006531&hoofdstuk=IV&artikel=16&z=2015-12-25&g=2015-12-25), verleende bevoegdheden waarop de verplichting te voldoen aan verzoeken tot volstorting, voorzien in [artikel 6, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0006531&hoofdstuk=II&artikel=6&z=2015-12-25&g=2015-12-25), van toepassing is;
 
-- iii. fondsen ontvangen als terugbetaling van leningen of garanties die zijn verstrekt met de onder i en ii van dit artikel genoemde middelen of opbrengsten van beleggingen in aandelen en andere vormen van financiering goedgekeurd overeenkomstig [artikel 11, onder 2, punt vi](https://wetten.overheid.nl/jci1.3:c:BWBV0006531&hoofdstuk=III&artikel=11&z=2015-06-29&g=2015-06-29), met deze middelen;
+- iii. fondsen ontvangen als terugbetaling van leningen of garanties die zijn verstrekt met de onder i en ii van dit artikel genoemde middelen of opbrengsten van beleggingen in aandelen en andere vormen van financiering goedgekeurd overeenkomstig [artikel 11, onder 2, punt vi](https://wetten.overheid.nl/jci1.3:c:BWBV0006531&hoofdstuk=III&artikel=11&z=2015-12-25&g=2015-12-25), met deze middelen;
 
-- iv. inkomsten afkomstig van leningen uit bovengenoemde fondsen of van garanties waarop de verplichting te voldoen aan verzoeken tot volstorting vervat in [artikel 6, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0006531&hoofdstuk=II&artikel=6&z=2015-06-29&g=2015-06-29), van toepassing is; en
+- iv. inkomsten afkomstig van leningen uit bovengenoemde fondsen of van garanties waarop de verplichting te voldoen aan verzoeken tot volstorting vervat in [artikel 6, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0006531&hoofdstuk=II&artikel=6&z=2015-12-25&g=2015-12-25), van toepassing is; en
 
-- v. andere door de bank ontvangen fondsen of inkomsten die geen deel uitmaken van de middelen van haar bijzondere fondsen bedoeld in [artikel 17](https://wetten.overheid.nl/jci1.3:c:BWBV0006531&hoofdstuk=IV&artikel=17&z=2015-06-29&g=2015-06-29) van dit Verdrag.
+- v. andere door de bank ontvangen fondsen of inkomsten die geen deel uitmaken van de middelen van haar bijzondere fondsen bedoeld in [artikel 17](https://wetten.overheid.nl/jci1.3:c:BWBV0006531&hoofdstuk=IV&artikel=17&z=2015-12-25&g=2015-12-25) van dit Verdrag.
 
 ### HOOFDSTUK III. WERKZAAMHEDEN VAN DE BANK
 
 ##### Artikel 9. Gebruik van middelen
 
-De middelen en faciliteiten van de Bank worden uitsluitend gebruikt om het doel en de taken, vervat in de [artikelen 1](https://wetten.overheid.nl/jci1.3:c:BWBV0006531&hoofdstuk=I&artikel=1&z=2015-06-29&g=2015-06-29) en [2](https://wetten.overheid.nl/jci1.3:c:BWBV0006531&hoofdstuk=I&artikel=2&z=2015-06-29&g=2015-06-29) van dit Verdrag, te vervullen overeenkomstig met de beginselen van gezond bankbeleid.
+De middelen en faciliteiten van de Bank worden uitsluitend gebruikt om het doel en de taken, vervat in de [artikelen 1](https://wetten.overheid.nl/jci1.3:c:BWBV0006531&hoofdstuk=I&artikel=1&z=2015-12-25&g=2015-12-25) en [2](https://wetten.overheid.nl/jci1.3:c:BWBV0006531&hoofdstuk=I&artikel=2&z=2015-12-25&g=2015-12-25) van dit Verdrag, te vervullen overeenkomstig met de beginselen van gezond bankbeleid.
 
 ##### Artikel 10. Gewone en bijzondere werkzaamheden
 
 1. De werkzaamheden van de Bank bestaan uit:
 
-- i. de gewone werkzaamheden die worden gefinancierd uit de gewone middelen van de Bank, bedoeld in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBV0006531&hoofdstuk=II&artikel=8&z=2015-06-29&g=2015-06-29); en
+- i. de gewone werkzaamheden die worden gefinancierd uit de gewone middelen van de Bank, bedoeld in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBV0006531&hoofdstuk=II&artikel=8&z=2015-12-25&g=2015-12-25); en
 
-- ii. de bijzondere werkzaamheden die worden gefinancierd uit de middelen van de bijzondere fondsen, bedoeld in [artikel 17](https://wetten.overheid.nl/jci1.3:c:BWBV0006531&hoofdstuk=IV&artikel=17&z=2015-06-29&g=2015-06-29).
+- ii. de bijzondere werkzaamheden die worden gefinancierd uit de middelen van de bijzondere fondsen, bedoeld in [artikel 17](https://wetten.overheid.nl/jci1.3:c:BWBV0006531&hoofdstuk=IV&artikel=17&z=2015-12-25&g=2015-12-25).
 
 Met de twee soorten werkzaamheden kunnen elementen van hetzelfde project of programma afzonderlijk gefinancierd worden.
 
@@ -176,7 +176,7 @@ Met de twee soorten werkzaamheden kunnen elementen van hetzelfde project of prog
 
 - a. De Bank kan zorgen voor of bemiddeling verlenen bij het verschaffen van gelden aan een lid, of aan een agentschap, orgaan of een staatkundig onderdeel daarvan, of aan een instelling of onderneming dat of die werkzaam is op het grondgebied van een lid, alsmede aan internationale of regionale organen of instellingen die betrokken zijn bij de economische ontwikkeling van de regio.
 
-- b. Onder bijzondere omstandigheden kan de Bank uitsluitend assistentie verlenen aan een niet in onderdeel a van dit lid genoemde ontvanger indien de Raad van Gouverneurs bij een supermeerderheid van stemmen zoals voorzien in [artikel 28](https://wetten.overheid.nl/jci1.3:c:BWBV0006531&hoofdstuk=V&artikel=28&z=2015-06-29&g=2015-06-29): i. heeft vastgesteld dat deze ondersteuning bedoeld is om bij te dragen aan de verwezenlijking van het doel van de Bank, binnen haar taken valt en in het belang is van de leden van de Bank; en ii. de vormen van assistentie uit hoofde van het tweede lid van dit artikel heeft omschreven die aan een dergelijke ontvanger mogen worden verstrekt.
+- b. Onder bijzondere omstandigheden kan de Bank uitsluitend assistentie verlenen aan een niet in onderdeel a van dit lid genoemde ontvanger indien de Raad van Gouverneurs bij een supermeerderheid van stemmen zoals voorzien in [artikel 28](https://wetten.overheid.nl/jci1.3:c:BWBV0006531&hoofdstuk=V&artikel=28&z=2015-12-25&g=2015-12-25): i. heeft vastgesteld dat deze ondersteuning bedoeld is om bij te dragen aan de verwezenlijking van het doel van de Bank, binnen haar taken valt en in het belang is van de leden van de Bank; en ii. de vormen van assistentie uit hoofde van het tweede lid van dit artikel heeft omschreven die aan een dergelijke ontvanger mogen worden verstrekt.
 
 2. De Bank verricht haar werkzaamheden op de volgende wijze(n):
 
@@ -188,13 +188,13 @@ Met de twee soorten werkzaamheden kunnen elementen van hetzelfde project of prog
 
 - iv. door het aanwenden van middelen van de bijzondere fondsen in overeenstemming met de overeenkomsten waarin het gebruik daarvan wordt bepaald;
 
-- v. door het verlenen van technische assistentie in overeenstemming met [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBV0006531&hoofdstuk=III&artikel=15&z=2015-06-29&g=2015-06-29); of
+- v. door het verlenen van technische assistentie in overeenstemming met [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBV0006531&hoofdstuk=III&artikel=15&z=2015-12-25&g=2015-12-25); of
 
-- vi. via andere vormen van financiering die bij een bijzondere meerderheid van stemmen zoals voorzien in [artikel 28](https://wetten.overheid.nl/jci1.3:c:BWBV0006531&hoofdstuk=V&artikel=28&z=2015-06-29&g=2015-06-29) kunnen worden vastgesteld door de Raad van Gouverneurs.
+- vi. via andere vormen van financiering die bij een bijzondere meerderheid van stemmen zoals voorzien in [artikel 28](https://wetten.overheid.nl/jci1.3:c:BWBV0006531&hoofdstuk=V&artikel=28&z=2015-12-25&g=2015-12-25) kunnen worden vastgesteld door de Raad van Gouverneurs.
 
 ##### Artikel 12. Beperkingen ten aanzien van gewone werkzaamheden
 
-1. Het totale uitstaande bedrag aan leningen, beleggingen in aandelen, garanties en andere vormen van financiering die door de Bank zijn verstrekt, gedaan dan wel gegeven in het kader van haar gewone werkzaamheden uit hoofde van [artikel 11, tweede lid, onder i, ii, iii en vi](https://wetten.overheid.nl/jci1.3:c:BWBV0006531&hoofdstuk=III&artikel=11&z=2015-06-29&g=2015-06-29), mag nimmer worden verhoogd, indien door de verhoging het totale bedrag van haar onaangetaste geplaatste kapitaal, waarbij de reserves en de ingehouden winst zijn begrepen in haar gewone middelen, zou worden overschreden. Onverminderd het bepaalde in de voorgaande volzin kan de Raad van Gouverneurs bij een supermeerderheid zoals voorzien in [artikel 28](https://wetten.overheid.nl/jci1.3:c:BWBV0006531&hoofdstuk=V&artikel=28&z=2015-06-29&g=2015-06-29), te allen tijde bepalen dat op basis van de financiële positie en draagkracht van de Bank, de beperking uit hoofde van dit lid verhoogd mag worden tot ten hoogste 250 percent van het onaangetaste geplaatste kapitaal, de reserves en de winst van de Bank begrepen in haar gewone middelen,
+1. Het totale uitstaande bedrag aan leningen, beleggingen in aandelen, garanties en andere vormen van financiering die door de Bank zijn verstrekt, gedaan dan wel gegeven in het kader van haar gewone werkzaamheden uit hoofde van [artikel 11, tweede lid, onder i, ii, iii en vi](https://wetten.overheid.nl/jci1.3:c:BWBV0006531&hoofdstuk=III&artikel=11&z=2015-12-25&g=2015-12-25), mag nimmer worden verhoogd, indien door de verhoging het totale bedrag van haar onaangetaste geplaatste kapitaal, waarbij de reserves en de ingehouden winst zijn begrepen in haar gewone middelen, zou worden overschreden. Onverminderd het bepaalde in de voorgaande volzin kan de Raad van Gouverneurs bij een supermeerderheid zoals voorzien in [artikel 28](https://wetten.overheid.nl/jci1.3:c:BWBV0006531&hoofdstuk=V&artikel=28&z=2015-12-25&g=2015-12-25), te allen tijde bepalen dat op basis van de financiële positie en draagkracht van de Bank, de beperking uit hoofde van dit lid verhoogd mag worden tot ten hoogste 250 percent van het onaangetaste geplaatste kapitaal, de reserves en de winst van de Bank begrepen in haar gewone middelen,
 
 2. Het bedrag dat is gemoeid met beleggingen van de Bank in aandelen mag nimmer een bedrag te boven gaan dat overeenkomt met het totaal van het onaangetaste volgestorte kapitaal en de algemene reserves.
 
@@ -204,7 +204,7 @@ De Bank laat zich bij het verrichten van haar werkzaamheden leiden door de volge
 
 - 1. De Bank laat zich bij haar werkzaamheden leiden door beginselen van gezond bankbeleid.
 
-- 2. De werkzaamheden van de Bank voorzien voornamelijk in de financiering van specifieke projecten of specifieke investeringsprogramma’s, in kapitaalinvesteringen, en in technische assistentie overeenkomstig [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBV0006531&hoofdstuk=III&artikel=15&z=2015-06-29&g=2015-06-29).
+- 2. De werkzaamheden van de Bank voorzien voornamelijk in de financiering van specifieke projecten of specifieke investeringsprogramma’s, in kapitaalinvesteringen, en in technische assistentie overeenkomstig [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBV0006531&hoofdstuk=III&artikel=15&z=2015-12-25&g=2015-12-25).
 
 - 3. De Bank financiert geen ondernemingen op het grondgebied van een lid, indien dat lid tegen de financiering bezwaar maakt.
 
@@ -226,7 +226,7 @@ De Bank laat zich bij het verrichten van haar werkzaamheden leiden door de volge
 
 ##### Artikel 14. Voorwaarden voor financiering
 
-1. Bij leningen die door de Bank worden verstrekt, waarin door de Bank wordt deelgenomen of die door de Bank worden gegarandeerd, worden overeenkomstig de beginselen die bij de werkzaamheden in acht dienen te worden genomen, vervat in [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBV0006531&hoofdstuk=III&artikel=13&z=2015-06-29&g=2015-06-29) en onder toepassing van de overige bepalingen van dit Verdrag, de voorwaarden vastgesteld voor de desbetreffende lening of garantie. Bij de vaststelling van deze voorwaarden geeft de Bank zich ten volle rekenschap van de noodzaak haar inkomsten en financiële positie veilig te stellen.
+1. Bij leningen die door de Bank worden verstrekt, waarin door de Bank wordt deelgenomen of die door de Bank worden gegarandeerd, worden overeenkomstig de beginselen die bij de werkzaamheden in acht dienen te worden genomen, vervat in [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBV0006531&hoofdstuk=III&artikel=13&z=2015-12-25&g=2015-12-25) en onder toepassing van de overige bepalingen van dit Verdrag, de voorwaarden vastgesteld voor de desbetreffende lening of garantie. Bij de vaststelling van deze voorwaarden geeft de Bank zich ten volle rekenschap van de noodzaak haar inkomsten en financiële positie veilig te stellen.
 
 2. Indien de ontvanger van leningen of garanties van leningen zelf geen lid is, kan de Bank, wanneer zulks wenselijk lijkt, verlangen dat het lid op het grondgebied waarvan het desbetreffende project dient te worden uitgevoerd, of een voor de Bank aanvaardbaar openbare instantie of andere instantie van dat lid de terugbetaling van de hoofdsom en de betaling van de rente en overige kosten waarborgt in overeenstemming met de voorwaarden daarvan.
 
@@ -260,7 +260,7 @@ Naast de elders in dit Verdrag omschreven bevoegdheden, heeft de Bank de hierond
 
 - 7. De Bank kan fondsen instellen of het beheer ervan aanvaarden voor andere partijen, mits deze trustfondsen bedoeld zijn bij te dragen aan het doel en vallen binnen de taken van de Bank binnen een kader voor trustfondsen dat dient te zijn goedgekeurd door de Raad van Gouverneurs.
 
-- 8. De Bank kan dochterentiteiten oprichten die bedoeld zijn bij te dragen aan het doel en vallen binnen de taken van de Bank, mits zij zijn goedgekeurd door de Raad van Gouverneurs bij een bijzondere meerderheid van stemmen zoals voorzien in [artikel 28](https://wetten.overheid.nl/jci1.3:c:BWBV0006531&hoofdstuk=V&artikel=28&z=2015-06-29&g=2015-06-29).
+- 8. De Bank kan dochterentiteiten oprichten die bedoeld zijn bij te dragen aan het doel en vallen binnen de taken van de Bank, mits zij zijn goedgekeurd door de Raad van Gouverneurs bij een bijzondere meerderheid van stemmen zoals voorzien in [artikel 28](https://wetten.overheid.nl/jci1.3:c:BWBV0006531&hoofdstuk=V&artikel=28&z=2015-12-25&g=2015-12-25).
 
 - 9. De Bank kan alle andere bevoegdheden uitoefenen en alle regels en voorschriften aannemen die nodig of geschikt zijn voor de bevordering van haar doel en taken, overeenkomstig de bepalingen van dit Verdrag.
 
@@ -284,7 +284,7 @@ Naast de elders in dit Verdrag omschreven bevoegdheden, heeft de Bank de hierond
 
 ##### Artikel 18. Allocatie en uitkering van het netto inkomen
 
-1. De Raad van Gouverneurs stelt ten minste eenmaal per jaar vast welk deel van het netto inkomen van de Bank, na voorziening van de reserves wordt toegewezen aan de winst of aan andere doeleinden, en welk gedeelte eventueel wordt uitgekeerd aan de leden. Een besluit ter zake van de toewijzing van het netto inkomen van de Bank aan andere doeleinden wordt genomen bij een supermeerderheid van stemmen van de Raad van Gouverneurs zoals voorzien in [artikel 28](https://wetten.overheid.nl/jci1.3:c:BWBV0006531&hoofdstuk=V&artikel=28&z=2015-06-29&g=2015-06-29).
+1. De Raad van Gouverneurs stelt ten minste eenmaal per jaar vast welk deel van het netto inkomen van de Bank, na voorziening van de reserves wordt toegewezen aan de winst of aan andere doeleinden, en welk gedeelte eventueel wordt uitgekeerd aan de leden. Een besluit ter zake van de toewijzing van het netto inkomen van de Bank aan andere doeleinden wordt genomen bij een supermeerderheid van stemmen van de Raad van Gouverneurs zoals voorzien in [artikel 28](https://wetten.overheid.nl/jci1.3:c:BWBV0006531&hoofdstuk=V&artikel=28&z=2015-12-25&g=2015-12-25).
 
 2. Uitkering zoals bedoeld in het voorgaande lid vindt plaats naar rato van het aantal aandelen gehouden door elk lid en betalingen geschieden op de wijze en in de valuta te bepalen door de Raad van Gouverneurs.
 
@@ -296,7 +296,7 @@ Naast de elders in dit Verdrag omschreven bevoegdheden, heeft de Bank de hierond
 
 ##### Artikel 20. Wijzen waarop de Bank haar verliezen dekt
 
-1. In geval van betalingsachterstanden en in gebreke blijven van debiteuren ten aanzien van leningen die door de Bank zijn verstrekt of gegarandeerd, of waarin door de Bank wordt deelgenomen, en in geval van verliezen bij beleggingen in aandelen of andere vormen van financiering ingevolge [artikel 11, tweede lid, onder vi](https://wetten.overheid.nl/jci1.3:c:BWBV0006531&hoofdstuk=III&artikel=11&z=2015-06-29&g=2015-06-29), neemt de Bank in het kader van haar gewone werkzaamheden de maatregelen die zij passend acht. De Bank treft passende voorzieningen tegen mogelijke verliezen.
+1. In geval van betalingsachterstanden en in gebreke blijven van debiteuren ten aanzien van leningen die door de Bank zijn verstrekt of gegarandeerd, of waarin door de Bank wordt deelgenomen, en in geval van verliezen bij beleggingen in aandelen of andere vormen van financiering ingevolge [artikel 11, tweede lid, onder vi](https://wetten.overheid.nl/jci1.3:c:BWBV0006531&hoofdstuk=III&artikel=11&z=2015-12-25&g=2015-12-25), neemt de Bank in het kader van haar gewone werkzaamheden de maatregelen die zij passend acht. De Bank treft passende voorzieningen tegen mogelijke verliezen.
 
 2. Verliezen voortvloeiend uit de gewone werkzaamheden van de Bank worden ten laste gebracht van
 
@@ -308,7 +308,7 @@ Naast de elders in dit Verdrag omschreven bevoegdheden, heeft de Bank de hierond
 
 - iv. ten vierde het onaangetaste volgestorte kapitaal; en
 
-- v. ten slotte, een passend bedrag van het niet-volgestorte geplaatste kapitaal, waarvan de volstorting wordt gevorderd in overeenstemming met de bepalingen van [artikel 6, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0006531&hoofdstuk=II&artikel=6&z=2015-06-29&g=2015-06-29).
+- v. ten slotte, een passend bedrag van het niet-volgestorte geplaatste kapitaal, waarvan de volstorting wordt gevorderd in overeenstemming met de bepalingen van [artikel 6, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0006531&hoofdstuk=II&artikel=6&z=2015-12-25&g=2015-12-25).
 
 ### HOOFDSTUK V. BESTUUR
 
@@ -338,7 +338,7 @@ De Bank heeft een Raad van Gouverneurs, een Raad van Bewindvoerders, een preside
 
 - iv. te beslissen omtrent beroepen die zijn ingesteld naar aanleiding van interpretaties of toepassingen van dit Verdrag door de Raad van Bewindvoerders;
 
-- v. de bewindvoerders van de Bank te kiezen en de onkosten die betaald dienen worden aan de bewindvoerders en hun plaatsvervangers alsmede een eventuele beloning uit hoofde van [artikel 25, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0006531&hoofdstuk=V&artikel=25&z=2015-06-29&g=2015-06-29), vast te stellen;
+- v. de bewindvoerders van de Bank te kiezen en de onkosten die betaald dienen worden aan de bewindvoerders en hun plaatsvervangers alsmede een eventuele beloning uit hoofde van [artikel 25, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0006531&hoofdstuk=V&artikel=25&z=2015-12-25&g=2015-12-25), vast te stellen;
 
 - vi. de president te kiezen, deze te schorsen of uit zijn functie te ontheffen en zijn beloning en overige arbeidsvoorwaarden vast te stellen;
 
@@ -374,7 +374,7 @@ De Bank heeft een Raad van Gouverneurs, een Raad van Bewindvoerders, een preside
 
 Bewindvoerders dienen personen te zijn die in hoge mate competent zijn in economische en financiële zaken en zij worden gekozen in overeenstemming met Schema B. Bewindvoerders vertegenwoordigen de leden van wie de gouverneurs hen hebben gekozen, alsmede de leden van wie de gouverneurs hun stemrecht aan hen hebben overgedragen.
 
-2. De Raad van Gouverneurs kan de omvang van de Raad van Bewindvoerders van tijd tot tijd vergroten of verkleinen, of de samenstelling daarvan herzien indien daartoe wordt besloten bij een supermeerderheid zoals voorzien in [artikel 28](https://wetten.overheid.nl/jci1.3:c:BWBV0006531&hoofdstuk=V&artikel=28&z=2015-06-29&g=2015-06-29).
+2. De Raad van Gouverneurs kan de omvang van de Raad van Bewindvoerders van tijd tot tijd vergroten of verkleinen, of de samenstelling daarvan herzien indien daartoe wordt besloten bij een supermeerderheid zoals voorzien in [artikel 28](https://wetten.overheid.nl/jci1.3:c:BWBV0006531&hoofdstuk=V&artikel=28&z=2015-12-25&g=2015-12-25).
 
 3. Elke bewindvoerder wijst een plaatsvervanger aan met de volledige bevoegdheid voor hem op te treden wanneer hij niet aanwezig is. De Raad van Gouverneurs neemt voorschriften aan die een bewindvoerder die door meer dan een omschreven aantal leden is gekozen in staat stellen een aanvullende plaatsvervanger te benoemen.
 
@@ -398,7 +398,7 @@ De Raad van Bewindvoerders is verantwoordelijk voor de leiding van de algemene w
 
 - ii. het vaststellen van het beleid van de Bank en, bij een meerderheid die ten minste drie vierde van het totale aantal stemmen van de leden vertegenwoordigt, het nemen van besluiten betreffende belangrijke operationele en financiële beleidslijnen en delegatie van bevoegdheid aan de president in overeenstemming met het beleid van de Bank;
 
-- iii. het nemen van besluiten betreffende werkzaamheden van de Bank ingevolge [artikel 11, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBV0006531&hoofdstuk=III&artikel=11&z=2015-06-29&g=2015-06-29), en bij een meerderheid die ten minste drie vierde van het totale aantal stemmen van de leden vertegenwoordigt, besluiten over delegatie van deze bevoegdheid aan de president;
+- iii. het nemen van besluiten betreffende werkzaamheden van de Bank ingevolge [artikel 11, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBV0006531&hoofdstuk=III&artikel=11&z=2015-12-25&g=2015-12-25), en bij een meerderheid die ten minste drie vierde van het totale aantal stemmen van de leden vertegenwoordigt, besluiten over delegatie van deze bevoegdheid aan de president;
 
 - iv. het op regelmatige basis toezicht uitoefenen op het management en de werking van de Bank, en het vaststellen van een toezichtsmechanisme daartoe, in lijn met de beginselen van transparantie, openheid, onafhankelijkheid en controleerbaarheid;
 
@@ -410,7 +410,7 @@ De Raad van Bewindvoerders is verantwoordelijk voor de leiding van de algemene w
 
 ##### Artikel 27. Raad van Bewindvoerders: Procedure
 
-1. De Raad van Bewindvoerders vergadert zo vaak als de werkzaamheden van de Bank dit vereisen, periodiek gedurende het jaar. De Raad van Bewindvoerders heeft geen permanente zetel, tenzij anders wordt besloten door de Raad van Gouverneurs bij een supermeerderheid zoals voorzien in [artikel 28](https://wetten.overheid.nl/jci1.3:c:BWBV0006531&hoofdstuk=V&artikel=28&z=2015-06-29&g=2015-06-29). Vergaderingen worden bijeengeroepen door de voorzitter of op verzoek van drie (3) bewindvoerders.
+1. De Raad van Bewindvoerders vergadert zo vaak als de werkzaamheden van de Bank dit vereisen, periodiek gedurende het jaar. De Raad van Bewindvoerders heeft geen permanente zetel, tenzij anders wordt besloten door de Raad van Gouverneurs bij een supermeerderheid zoals voorzien in [artikel 28](https://wetten.overheid.nl/jci1.3:c:BWBV0006531&hoofdstuk=V&artikel=28&z=2015-12-25&g=2015-12-25). Vergaderingen worden bijeengeroepen door de voorzitter of op verzoek van drie (3) bewindvoerders.
 
 2. Een meerderheid van de bewindvoerders vormt een quorum voor elke vergadering van de Raad van Bewindvoerders, mits deze meerderheid ten minste twee derde van het totale aantal stemmen van de leden vertegenwoordigt.
 
@@ -428,7 +428,7 @@ De Raad van Bewindvoerders is verantwoordelijk voor de leiding van de algemene w
 
 - iii. Aan elk oprichtend lid worden zeshonderd (600) stemmen als oprichtend lid toegewezen.
 
-Indien een lid verzuimt een deel van het bedrag verschuldigd ter zake van zijn verplichtingen uit hoofde van volgestorte aandelen ingevolge [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBV0006531&hoofdstuk=II&artikel=6&z=2015-06-29&g=2015-06-29) te betalen, wordt het aantal aandeelstemmen gedurende het verzuim naar rato verlaagd met het percentage dat het verschuldigde niet-betaalde bedrag vertegenwoordigt van de totale pari-waarde van volgestorte aandelen waarvoor dat lid heeft ingeschreven.
+Indien een lid verzuimt een deel van het bedrag verschuldigd ter zake van zijn verplichtingen uit hoofde van volgestorte aandelen ingevolge [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBV0006531&hoofdstuk=II&artikel=6&z=2015-12-25&g=2015-12-25) te betalen, wordt het aantal aandeelstemmen gedurende het verzuim naar rato verlaagd met het percentage dat het verschuldigde niet-betaalde bedrag vertegenwoordigt van de totale pari-waarde van volgestorte aandelen waarvoor dat lid heeft ingeschreven.
 
 2. Bij stemming in de Raad van Gouverneurs is elke gouverneur gerechtigd de stemmen uit te brengen van het lid dat hij vertegenwoordigt.
 
@@ -446,9 +446,9 @@ Indien een lid verzuimt een deel van het bedrag verschuldigd ter zake van zijn v
 
 ##### Artikel 29. De president
 
-1. De Raad van Gouverneurs kiest via een open, transparant en op merites gebaseerd proces een president voor de Bank bij een supermeerderheid zoals voorzien in [artikel 28](https://wetten.overheid.nl/jci1.3:c:BWBV0006531&hoofdstuk=V&artikel=28&z=2015-06-29&g=2015-06-29). Hij dient onderdaan te zijn van een regionaal lid. De president mag tijdens het bekleden van zijn functie geen gouverneur, bewindvoerder of plaatsvervanger van een van beiden zijn.
+1. De Raad van Gouverneurs kiest via een open, transparant en op merites gebaseerd proces een president voor de Bank bij een supermeerderheid zoals voorzien in [artikel 28](https://wetten.overheid.nl/jci1.3:c:BWBV0006531&hoofdstuk=V&artikel=28&z=2015-12-25&g=2015-12-25). Hij dient onderdaan te zijn van een regionaal lid. De president mag tijdens het bekleden van zijn functie geen gouverneur, bewindvoerder of plaatsvervanger van een van beiden zijn.
 
-2. De ambtstermijn van de president is vijf (5) jaar. Hij kan eenmaal worden herkozen. De president kan worden geschorst of uit zijn functie worden ontheven wanneer de Raad van Gouverneurs zulks besluit bij een supermeerderheid zoals voorzien in [artikel 28](https://wetten.overheid.nl/jci1.3:c:BWBV0006531&hoofdstuk=V&artikel=28&z=2015-06-29&g=2015-06-29).
+2. De ambtstermijn van de president is vijf (5) jaar. Hij kan eenmaal worden herkozen. De president kan worden geschorst of uit zijn functie worden ontheven wanneer de Raad van Gouverneurs zulks besluit bij een supermeerderheid zoals voorzien in [artikel 28](https://wetten.overheid.nl/jci1.3:c:BWBV0006531&hoofdstuk=V&artikel=28&z=2015-12-25&g=2015-12-25).
 
 - a. Indien door enige oorzaak de functie van president openvalt, kiest de Raad van Gouverneurs, in overeenstemming met de bepalingen van het eerste lid van dit artikel, een tijdelijke president ad interim of een nieuwe president.
 
@@ -490,7 +490,7 @@ Indien een lid verzuimt een deel van het bedrag verschuldigd ter zake van zijn v
 
 ##### Artikel 34. Verslagen en informatie
 
-1. De voertaal van de Bank is de Engelse taal en de Bank baseert zich op de Engelse tekst van dit Verdrag voor alle besluiten en voor interpretaties ingevolge [artikel 54](https://wetten.overheid.nl/jci1.3:c:BWBV0006531&hoofdstuk=X&artikel=54&z=2015-06-29&g=2015-06-29).
+1. De voertaal van de Bank is de Engelse taal en de Bank baseert zich op de Engelse tekst van dit Verdrag voor alle besluiten en voor interpretaties ingevolge [artikel 54](https://wetten.overheid.nl/jci1.3:c:BWBV0006531&hoofdstuk=X&artikel=54&z=2015-12-25&g=2015-12-25).
 
 2. De leden doen de Bank de informatie toekomen die zij redelijkerwijs van hen kan verlangen teneinde de uitvoering van haar taken te vergemakkelijken.
 
@@ -522,39 +522,39 @@ Indien een lid verzuimt een deel van het bedrag verschuldigd ter zake van zijn v
 
 ##### Artikel 38. Schorsing van het lidmaatschap
 
-1. Indien een lid zijn verplichtingen tegenover de Bank niet nakomt, kan de Raad van Gouverneurs zijn lidmaatschap schorsen bij een supermeerderheid zoals voorzien in [artikel 28](https://wetten.overheid.nl/jci1.3:c:BWBV0006531&hoofdstuk=V&artikel=28&z=2015-06-29&g=2015-06-29).
+1. Indien een lid zijn verplichtingen tegenover de Bank niet nakomt, kan de Raad van Gouverneurs zijn lidmaatschap schorsen bij een supermeerderheid zoals voorzien in [artikel 28](https://wetten.overheid.nl/jci1.3:c:BWBV0006531&hoofdstuk=V&artikel=28&z=2015-12-25&g=2015-12-25).
 
-2. Een aldus geschorst lid houdt een (1) jaar na zijn schorsing automatisch op lid te zijn, tenzij de Raad van Gouverneurs bij een supermeerderheid zoals voorzien in [artikel 28](https://wetten.overheid.nl/jci1.3:c:BWBV0006531&hoofdstuk=V&artikel=28&z=2015-06-29&g=2015-06-29) besluit het lid in ere te herstellen.
+2. Een aldus geschorst lid houdt een (1) jaar na zijn schorsing automatisch op lid te zijn, tenzij de Raad van Gouverneurs bij een supermeerderheid zoals voorzien in [artikel 28](https://wetten.overheid.nl/jci1.3:c:BWBV0006531&hoofdstuk=V&artikel=28&z=2015-12-25&g=2015-12-25) besluit het lid in ere te herstellen.
 
 3. Zolang de schorsing duurt, is een lid niet bevoegd enig recht uit hoofde van dit Verdrag uit te oefenen, met uitzondering van het recht van opzegging en blijft het gebonden aan al zijn verplichtingen.
 
 ##### Artikel 39. Vereffening van rekeningen
 
-1. Na de datum waarop een land ophoudt lid te zijn, blijft het aansprakelijk voor zijn directe en zijn indirecte verplichtingen jegens de Bank, zolang enig deel van de leningen, garanties, beleggingen in aandelen en andere vormen van financiering ingevolge [artikel 11, tweede lid, onder vi](https://wetten.overheid.nl/jci1.3:c:BWBV0006531&hoofdstuk=III&artikel=11&z=2015-06-29&g=2015-06-29), (hierna te noemen „andere vormen van financiering”) die werden aangegaan voordat het ophield lid te zijn, nog uitstaat; doch het is niet langer aansprakelijk met betrekking tot leningen, garanties, beleggingen in aandelen of andere vormen van financiering die daarna door de Bank werden aangegaan en het deelt niet in de inkomsten of uitgaven van de Bank.
+1. Na de datum waarop een land ophoudt lid te zijn, blijft het aansprakelijk voor zijn directe en zijn indirecte verplichtingen jegens de Bank, zolang enig deel van de leningen, garanties, beleggingen in aandelen en andere vormen van financiering ingevolge [artikel 11, tweede lid, onder vi](https://wetten.overheid.nl/jci1.3:c:BWBV0006531&hoofdstuk=III&artikel=11&z=2015-12-25&g=2015-12-25), (hierna te noemen „andere vormen van financiering”) die werden aangegaan voordat het ophield lid te zijn, nog uitstaat; doch het is niet langer aansprakelijk met betrekking tot leningen, garanties, beleggingen in aandelen of andere vormen van financiering die daarna door de Bank werden aangegaan en het deelt niet in de inkomsten of uitgaven van de Bank.
 
 2. Op het tijdstip waarop een land ophoudt lid te zijn, treft de Bank ten behoeve van de vereffening van de rekeningen van dat land bij de Bank in overeenstemming met de bepalingen van het derde en vierde lid van dit artikel maatregelen voor de terugkoop van de aandelen van dat land. Voor dat doel is de prijs waarvoor de aandelen worden teruggekocht gelijk aan de waarde die is aangegeven in de boeken van de Bank op de datum waarop het land ophoudt lid te zijn.
 
 3. De betaling van aandelen die krachtens dit artikel door de Bank worden teruggekocht, is aan de volgende voorwaarden gebonden:
 
-- i. Alle bedragen die aan het land voor zijn aandelen verschuldigd zijn, worden ingehouden zolang het land, zijn centrale bank of één van zijn agentschappen, instanties of staatkundige onderdelen daarvan als leningnemer, borg of andere partij verplichtingen heeft ter zake van beleggingen in aandelen of andere vormen van financiering jegens de Bank en deze bedragen kunnen, naar keuze van de Bank, op de vervaldag op elke verplichting van die aard in mindering worden gebracht. Er wordt geen bedrag ingehouden uit hoofde van een betalingsverplichting van het land voortvloeiende uit toekomstige verzoeken tot storting ter zake van zijn inschrijving op aandelen in overeenstemming met [artikel 6, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0006531&hoofdstuk=II&artikel=6&z=2015-06-29&g=2015-06-29). In geen geval wordt een bedrag dat aan een lid voor zijn aandelen is verschuldigd, eerder uitbetaald dan zes (6) maanden na de datum waarop het land ophoudt lid te zijn.
+- i. Alle bedragen die aan het land voor zijn aandelen verschuldigd zijn, worden ingehouden zolang het land, zijn centrale bank of één van zijn agentschappen, instanties of staatkundige onderdelen daarvan als leningnemer, borg of andere partij verplichtingen heeft ter zake van beleggingen in aandelen of andere vormen van financiering jegens de Bank en deze bedragen kunnen, naar keuze van de Bank, op de vervaldag op elke verplichting van die aard in mindering worden gebracht. Er wordt geen bedrag ingehouden uit hoofde van een betalingsverplichting van het land voortvloeiende uit toekomstige verzoeken tot storting ter zake van zijn inschrijving op aandelen in overeenstemming met [artikel 6, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0006531&hoofdstuk=II&artikel=6&z=2015-12-25&g=2015-12-25). In geen geval wordt een bedrag dat aan een lid voor zijn aandelen is verschuldigd, eerder uitbetaald dan zes (6) maanden na de datum waarop het land ophoudt lid te zijn.
 
 - ii. Betalingen voor aandelen kunnen van tijd tot tijd worden gedaan tegen inlevering van de overeenkomende aandelen-certificaten door het betrokken land tot de omvang waarmee het bedrag van de in het tweede lid van dit artikel bedoelde terugkoopprijs het totaal van de verplichtingen ten aanzien van de leningen, garanties, beleggingen in aandelen en overige vormen van financiering bedoeld onder punt i van dit lid te boven gaat, totdat het voormalige lid de volledige terugkoopprijs heeft ontvangen.
 
 - iii. Betalingen geschieden in de beschikbare valuta die de Bank bepaalt, rekening houdend met haar financiële positie.
 
-- iv. Indien door de Bank verliezen worden geleden op leningen, garanties, beleggingen in aandelen of andere vormen van financiering die uitstonden op de datum waarop een land ophield lid te zijn, en het bedrag van deze verliezen het bedrag van de met het oog op verliezen gevormde reserves te boven gaat op die datum, betaalt het desbetreffende land op verzoek het bedrag terug waarmee de terugkoopprijs van zijn aandelen zou zijn verminderd indien met de verliezen rekening zou zijn gehouden bij de bepaling van de terugkoopprijs. Bovendien blijft het voormalige lid aansprakelijk voor elk verzoek tot betaling voor niet-volgestorte inschrijvingen ingevolge [artikel 6, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0006531&hoofdstuk=II&artikel=6&z=2015-06-29&g=2015-06-29), tot het bedrag waarvoor het verplicht zou zijn op te komen indien het kapitaalverlies zou hebben plaatsgevonden en het verzoek zou zijn gedaan op het tijdstip waarop de terugkoopprijs van zijn aandelen werd vastgesteld.
+- iv. Indien door de Bank verliezen worden geleden op leningen, garanties, beleggingen in aandelen of andere vormen van financiering die uitstonden op de datum waarop een land ophield lid te zijn, en het bedrag van deze verliezen het bedrag van de met het oog op verliezen gevormde reserves te boven gaat op die datum, betaalt het desbetreffende land op verzoek het bedrag terug waarmee de terugkoopprijs van zijn aandelen zou zijn verminderd indien met de verliezen rekening zou zijn gehouden bij de bepaling van de terugkoopprijs. Bovendien blijft het voormalige lid aansprakelijk voor elk verzoek tot betaling voor niet-volgestorte inschrijvingen ingevolge [artikel 6, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0006531&hoofdstuk=II&artikel=6&z=2015-12-25&g=2015-12-25), tot het bedrag waarvoor het verplicht zou zijn op te komen indien het kapitaalverlies zou hebben plaatsgevonden en het verzoek zou zijn gedaan op het tijdstip waarop de terugkoopprijs van zijn aandelen werd vastgesteld.
 
-4. Indien de Bank in overeenstemming met [artikel 41](https://wetten.overheid.nl/jci1.3:c:BWBV0006531&hoofdstuk=VIII&artikel=41&z=2015-06-29&g=2015-06-29) haar werkzaamheden beëindigt binnen zes (6) maanden na de datum waarop een land ophoudt lid te zijn, worden alle rechten van het desbetreffende land vastgesteld in overeenstemming met de bepalingen van de artikelen 41 tot en met 43. Het betrokken land wordt geacht nog lid te zijn voor de toepassing van deze artikelen maar heeft geen stemrecht.
+4. Indien de Bank in overeenstemming met [artikel 41](https://wetten.overheid.nl/jci1.3:c:BWBV0006531&hoofdstuk=VIII&artikel=41&z=2015-12-25&g=2015-12-25) haar werkzaamheden beëindigt binnen zes (6) maanden na de datum waarop een land ophoudt lid te zijn, worden alle rechten van het desbetreffende land vastgesteld in overeenstemming met de bepalingen van de artikelen 41 tot en met 43. Het betrokken land wordt geacht nog lid te zijn voor de toepassing van deze artikelen maar heeft geen stemrecht.
 
 ### HOOFDSTUK VIII. OPSCHORTING EN BEËINDIGING VAN DE WERKZAAMHEDEN VAN DE BANK
 
 ##### Artikel 40. Tijdelijke opschorting van de werkzaamheden
 
-Bij onvoorziene omstandigheden kan de Raad van Bewindvoerders de werkzaamheden tijdelijk opschorten ten aanzien van nieuwe leningen, garanties, beleggingen in aandelen en andere vormen van financiering, ingevolge [artikel 11, tweede lid, onder vi](https://wetten.overheid.nl/jci1.3:c:BWBV0006531&hoofdstuk=III&artikel=11&z=2015-06-29&g=2015-06-29), in afwachting van een gelegenheid tot verder overleg en maatregelen van de Raad van Gouverneurs.
+Bij onvoorziene omstandigheden kan de Raad van Bewindvoerders de werkzaamheden tijdelijk opschorten ten aanzien van nieuwe leningen, garanties, beleggingen in aandelen en andere vormen van financiering, ingevolge [artikel 11, tweede lid, onder vi](https://wetten.overheid.nl/jci1.3:c:BWBV0006531&hoofdstuk=III&artikel=11&z=2015-12-25&g=2015-12-25), in afwachting van een gelegenheid tot verder overleg en maatregelen van de Raad van Gouverneurs.
 
 ##### Artikel 41. Beëindiging van de werkzaamheden
 
-1. De Bank kan haar werkzaamheden beëindigen bij een besluit genomen met een supermeerderheid van de Raad van Gouverneurs zoals voorzien in [artikel 28](https://wetten.overheid.nl/jci1.3:c:BWBV0006531&hoofdstuk=V&artikel=28&z=2015-06-29&g=2015-06-29).
+1. De Bank kan haar werkzaamheden beëindigen bij een besluit genomen met een supermeerderheid van de Raad van Gouverneurs zoals voorzien in [artikel 28](https://wetten.overheid.nl/jci1.3:c:BWBV0006531&hoofdstuk=V&artikel=28&z=2015-12-25&g=2015-12-25).
 
 2. Bij bedoelde beëindiging staakt de Bank terstond alle activiteiten, behalve die welke nodig zijn voor het naar behoren te gelde maken, het in stand houden en het beschermen van haar activa en het vereffenen van haar schulden.
 
@@ -570,7 +570,7 @@ Bij onvoorziene omstandigheden kan de Raad van Bewindvoerders de werkzaamheden t
 
 - i. aan alle verplichtingen tegenover crediteuren is voldaan of deze verplichtingen zijn geregeld; en
 
-- ii. de Raad van Gouverneurs tot verdeling heeft besloten bij een supermeerderheid zoals voorzien in [artikel 28](https://wetten.overheid.nl/jci1.3:c:BWBV0006531&hoofdstuk=V&artikel=28&z=2015-06-29&g=2015-06-29).
+- ii. de Raad van Gouverneurs tot verdeling heeft besloten bij een supermeerderheid zoals voorzien in [artikel 28](https://wetten.overheid.nl/jci1.3:c:BWBV0006531&hoofdstuk=V&artikel=28&z=2015-12-25&g=2015-12-25).
 
 2. Elke verdeling van activa van de Bank onder de leden dient te geschieden in verhouding tot de deelneming van elk van de leden in het kapitaal en vindt plaats op het tijdstip en onder de voorwaarden die de Bank redelijk en billijk acht. De aandelen in de verdeelde activa behoeven niet eenvormig te zijn wat de soort activa betreft. Geen enkel lid is gerechtigd zijn aandeel in een verdeling van activa te ontvangen voordat het al zijn verplichtingen tegenover de Bank is nagekomen.
 
@@ -654,15 +654,15 @@ Alle gouverneurs, bewindvoerders, plaatsvervangers, de president, vicepresidente
 
 ##### Artikel 53. Wijzigingen
 
-1. Dit Verdrag kan uitsluitend worden gewijzigd bij een besluit van de Raad van Gouverneurs bij een supermeerderheid zoals voorzien in [artikel 28](https://wetten.overheid.nl/jci1.3:c:BWBV0006531&hoofdstuk=V&artikel=28&z=2015-06-29&g=2015-06-29).
+1. Dit Verdrag kan uitsluitend worden gewijzigd bij een besluit van de Raad van Gouverneurs bij een supermeerderheid zoals voorzien in [artikel 28](https://wetten.overheid.nl/jci1.3:c:BWBV0006531&hoofdstuk=V&artikel=28&z=2015-12-25&g=2015-12-25).
 
 2. Niettegenstaande het bepaalde in het eerste lid van dit artikel is de unanieme instemming van de Raad van Gouverneurs vereist wanneer het een voorstel betreft tot wijziging van:
 
 - i. het recht om het lidmaatschap van de Bank op te zeggen;
 
-- ii. de beperking van aansprakelijkheid, vermeld in [artikel 7, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0006531&hoofdstuk=II&artikel=7&z=2015-06-29&g=2015-06-29); en
+- ii. de beperking van aansprakelijkheid, vermeld in [artikel 7, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0006531&hoofdstuk=II&artikel=7&z=2015-12-25&g=2015-12-25); en
 
-- iii. de rechten betreffende de aankoop van kapitaal, vermeld in [artikel 5, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0006531&hoofdstuk=II&artikel=5&z=2015-06-29&g=2015-06-29).
+- iii. de rechten betreffende de aankoop van kapitaal, vermeld in [artikel 5, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0006531&hoofdstuk=II&artikel=5&z=2015-12-25&g=2015-12-25).
 
 3. Elk voorstel dit Verdrag te wijzigen, afkomstig hetzij van een lid, hetzij van de Raad van Bewindvoerders, wordt ingediend bij de voorzitter van de Raad van Gouverneurs, die het voorstel aan de Raad van Gouverneurs voorlegt. Wanneer een wijziging is aanvaard, legt de Bank dit in een officiële aanzegging aan alle leden vast. Wijzigingen worden voor alle leden 3 (drie) maanden na de datum van de officiële aanzegging van kracht, tenzij de Raad van Gouverneurs daarin een ander tijdvak omschrijft.
 
@@ -678,7 +678,7 @@ Wanneer een geschil ontstaat tussen de Bank en een land dat heeft opgehouden lid
 
 ##### Artikel 56. Wanneer toestemming wordt geacht te zijn gegeven
 
-Steeds wanneer de toestemming van een lid is vereist voordat een handeling door de Bank, behalve ingevolge [artikel 53, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBV0006531&hoofdstuk=X&artikel=53&z=2015-06-29&g=2015-06-29), mag worden verricht, wordt die toestemming geacht te zijn gegeven, tenzij het lid binnen een redelijke termijn die de Bank bij het mededelen aan het lid voor de voorgestelde handeling kan vaststellen, daartegen bezwaar maakt.
+Steeds wanneer de toestemming van een lid is vereist voordat een handeling door de Bank, behalve ingevolge [artikel 53, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBV0006531&hoofdstuk=X&artikel=53&z=2015-12-25&g=2015-12-25), mag worden verricht, wordt die toestemming geacht te zijn gegeven, tenzij het lid binnen een redelijke termijn die de Bank bij het mededelen aan het lid voor de voorgestelde handeling kan vaststellen, daartegen bezwaar maakt.
 
 ### HOOFDSTUK XI. SLOTBEPALINGEN
 
@@ -690,7 +690,7 @@ Steeds wanneer de toestemming van een lid is vereist voordat een handeling door 
 
 ##### Artikel 58. Bekrachtiging, aanvaarding of goedkeuring
 
-1. Dit Verdrag dient te worden bekrachtigd of aanvaard door de ondertekenaars. De akten van bekrachtiging, aanvaarding of goedkeuring worden uiterlijk op 31 december 2016 nedergelegd bij de depositaris of zo nodig op een latere datum vast te stellen door de Raad van Gouverneurs bij een supermeerderheid zoals voorzien in [artikel 28](https://wetten.overheid.nl/jci1.3:c:BWBV0006531&hoofdstuk=V&artikel=28&z=2015-06-29&g=2015-06-29). De depositaris stelt de andere ondertekenaars naar behoren op de hoogte van elke nederlegging en van de datum waarop die heeft plaats gevonden.
+1. Dit Verdrag dient te worden bekrachtigd of aanvaard door de ondertekenaars. De akten van bekrachtiging, aanvaarding of goedkeuring worden uiterlijk op 31 december 2016 nedergelegd bij de depositaris of zo nodig op een latere datum vast te stellen door de Raad van Gouverneurs bij een supermeerderheid zoals voorzien in [artikel 28](https://wetten.overheid.nl/jci1.3:c:BWBV0006531&hoofdstuk=V&artikel=28&z=2015-12-25&g=2015-12-25). De depositaris stelt de andere ondertekenaars naar behoren op de hoogte van elke nederlegging en van de datum waarop die heeft plaats gevonden.
 
 2. Een ondertekenaar, wiens akte van bekrachtiging, aanvaarding of goedkeuring wordt nedergelegd vóór de datum waarop dit Verdrag in werking treedt, wordt op die datum lid van de Bank. Elke andere ondertekenaar, die voldoet aan de bepalingen van het voorgaande lid, wordt lid van de Bank op de datum waarop zijn akte van bekrachtiging, aanvaarding of goedkeuring wordt nedergelegd.
 
@@ -706,7 +706,7 @@ Dit Verdrag treedt in werking wanneer de akten van bekrachtiging, aanvaarding of
 
 - i. verkiezing van de president;
 
-- ii. verkiezing van de bewindvoerders van de Bank in overeenstemming met [artikel 25, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBV0006531&hoofdstuk=V&artikel=25&z=2015-06-29&g=2015-06-29), van dit Verdrag met dien verstande dat de Raad van Gouverneurs kan besluiten voor een aanvangstermijn korter dan twee jaar minder bewindvoerders te kiezen gelet op het aantal leden en ondertekenaars dat nog geen lid is geworden;
+- ii. verkiezing van de bewindvoerders van de Bank in overeenstemming met [artikel 25, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBV0006531&hoofdstuk=V&artikel=25&z=2015-12-25&g=2015-12-25), van dit Verdrag met dien verstande dat de Raad van Gouverneurs kan besluiten voor een aanvangstermijn korter dan twee jaar minder bewindvoerders te kiezen gelet op het aantal leden en ondertekenaars dat nog geen lid is geworden;
 
 - iii. het treffen van regelingen voor het vaststellen van de datum waarop de Bank haar werkzaamheden aanvangt; en
 
