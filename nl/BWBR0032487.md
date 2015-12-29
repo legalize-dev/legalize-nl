@@ -4,7 +4,7 @@ identifier: "BWBR0032487"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2017-01-01"
-last_updated: "2013-04-01"
+last_updated: "2015-12-29"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0032487"
 soort: "ministeriele-regeling"
@@ -72,7 +72,9 @@ Wijzigt deze regeling.
 
 1. Deze regeling treedt in werking met ingang van 1 januari 2013.
 
-2. Deze regeling vervalt drie jaar na het in het eerste lid genoemde tijdstip.
+2. [Artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0032487&artikel=1&z=2015-12-29&g=2015-12-29) vervalt drie jaar na het in het eerste lid genoemde tijdstip.
+
+3. De [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0032487&artikel=2&z=2015-12-29&g=2015-12-29) en [3](https://wetten.overheid.nl/jci1.3:c:BWBR0032487&artikel=3&z=2015-12-29&g=2015-12-29) vervallen met ingang van 1 januari 2017.
 
 ##### Artikel 6
 
