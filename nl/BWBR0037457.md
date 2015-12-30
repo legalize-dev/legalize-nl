@@ -4,7 +4,7 @@ identifier: "BWBR0037457"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-11-11"
-last_updated: "2015-05-01"
+last_updated: "2015-12-30"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0037457"
 soort: "ministeriele-regeling"
@@ -124,7 +124,7 @@ Bij afwezigheid of verhindering van de directeur S&I worden, voor de duur van de
 
 ##### Artikel 7
 
-1. Het [Organisatie-, mandaat- en volmachtbesluit I&S 2014](https://wetten.overheid.nl/jci1.3:c:BWBR0034841&wetgeving) wordt ingetrokken.
+1. Het [Organisatie-, mandaat- en volmachtbesluit I&S 2014](https://wetten.overheid.nl/jci1.3:c:BWBR0034841) wordt ingetrokken.
 
 2. Deze regeling treedt in werking met ingang van de eerste dag na de dagtekening van de Staatscourant waarin zij wordt geplaatst en werkt terug tot en met 1 mei 2015.
 
