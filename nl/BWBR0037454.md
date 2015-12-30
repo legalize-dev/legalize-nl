@@ -4,7 +4,7 @@ identifier: "BWBR0037454"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-04-05"
-last_updated: "2015-05-01"
+last_updated: "2015-12-30"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0037454"
 soort: "ministeriele-regeling"
@@ -94,7 +94,7 @@ Het hoofd van de afdeling Participatie en Arbeidsmarktregio’s is verantwoordel
 
 - b. de institutionele inrichting van de organisatievormen van gemeenten, de arbeidsmarktregio’s en de werkbedrijven;
 
-- c. de bevordering van de uitvoering van de [Wet structuur uitvoeringsorganisatie werk en inkomen](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&wetgeving), als ook de beleidsvorming op het terrein van de decentralisaties en de voorbereiding van onderraden over dit onderwerp;
+- c. de bevordering van de uitvoering van de [Wet structuur uitvoeringsorganisatie werk en inkomen](https://wetten.overheid.nl/jci1.3:c:BWBR0013060), als ook de beleidsvorming op het terrein van de decentralisaties en de voorbereiding van onderraden over dit onderwerp;
 
 - d. de niet-financiële sturing richting gemeenten door middel van bijvoorbeeld management bij speech, dialoog, ondersteuning en kennisvergroting;
 
@@ -156,7 +156,7 @@ Bij afwezigheid van de directeur Participatie en Decentrale Voorzieningen worden
 
 ##### Artikel 11
 
-1. Het [Organisatie-, mandaat- en volmachtbesluit Re-integratie en Participatie 2009](https://wetten.overheid.nl/jci1.3:c:BWBR0024987&wetgeving) wordt ingetrokken.
+1. Het [Organisatie-, mandaat- en volmachtbesluit Re-integratie en Participatie 2009](https://wetten.overheid.nl/jci1.3:c:BWBR0024987) wordt ingetrokken.
 
 2. Deze regeling treedt in werking met ingang van de eerste dag na de dagtekening van de Staatscourant waarin zij wordt geplaatst en werkt terug tot en met 1 mei 2015.
 
