@@ -4,7 +4,7 @@ identifier: "BWBR0037455"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2023-12-09"
-last_updated: "2015-05-01"
+last_updated: "2015-12-30"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0037455"
 soort: "ministeriele-regeling"
@@ -50,7 +50,7 @@ In deze regeling en de daarop berustende bepalingen wordt verstaan onder:
 
 - b. **SUWI-organisaties:** het Uitvoeringsinstituut werknemersverzekeringen, genoemd in [hoofdstuk 5 van de Wet SUWI](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&hoofdstuk=5), de Sociale verzekeringsbank, genoemd in [hoofdstuk 6 van de Wet SUWI](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&hoofdstuk=6) en het Inlichtingenbureau, genoemd in [artikel 63 van de Wet SUWI](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&artikel=63);
 
-- c. **Wet SUWI:** de [Wet structuur uitvoeringsorganisatie werk en inkomen](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&wetgeving).
+- c. **Wet SUWI:** de [Wet structuur uitvoeringsorganisatie werk en inkomen](https://wetten.overheid.nl/jci1.3:c:BWBR0013060).
 
 #### § 2. Organisatie en taken afdelingen
 
@@ -80,9 +80,9 @@ Het hoofd van het taakveld Strategie & Stelsel, Kennis & Onderzoek is verantwoor
 
 - e. het uitvoeren van cijfermatige analyses met betrekking tot trends en ontwikkelingen binnen het stelsel van werk en inkomen, waaronder de monitor arbeidsmarkt;
 
-- f. het beheer en de ontwikkeling van de [Wet SUWI](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&wetgeving) op het gebied van samenwerking en structuur;
+- f. het beheer en de ontwikkeling van de [Wet SUWI](https://wetten.overheid.nl/jci1.3:c:BWBR0013060) op het gebied van samenwerking en structuur;
 
-- g. het periodiek evalueren van de [Wet SUWI](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&wetgeving).
+- g. het periodiek evalueren van de [Wet SUWI](https://wetten.overheid.nl/jci1.3:c:BWBR0013060).
 
 ##### Artikel 4
 
@@ -90,7 +90,7 @@ Het hoofd van het taakveld Eigenaarschap zbo’s is verantwoordelijk voor de vol
 
 - a. het zorgen voor de kaderstelling voor de zelfstandige bestuursorganen van het ministerie;
 
-- b. het bepalen van het standpunt bij bestuurlijke vraagstukken, zoals de sturingsvisie, het verrichten van andere taken door de zelfstandige bestuursorganen en de relatie tussen het ministerie en uitvoeringsorganisaties en het aanpassen van de [Wet SUWI](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&wetgeving) op deze punten;
+- b. het bepalen van het standpunt bij bestuurlijke vraagstukken, zoals de sturingsvisie, het verrichten van andere taken door de zelfstandige bestuursorganen en de relatie tussen het ministerie en uitvoeringsorganisaties en het aanpassen van de [Wet SUWI](https://wetten.overheid.nl/jci1.3:c:BWBR0013060) op deze punten;
 
 - c. het onderhouden van de sturingsrelatie met het Uitvoeringsinstituut werknemersverzekeringen en de Sociale verzekeringsbank, waaronder de sturing op ICT en de (prestatie)afspraken die met het Uitvoeringsinstituut werknemersverzekeringen en de Sociale verzekeringsbank gemaakt worden;
 
@@ -126,7 +126,7 @@ Het hoofd van het taakveld Handhaving en Gegevensuitwisseling is verantwoordelij
 
 - f. het coördineren en maken van beleid op het gebied van de gegevensuitwisseling, privacy en beveiliging binnen de SUWI-organisaties en aanpalende domeinen en het fungeren als aanspreekpunt op dit gebied voor de uitvoeringsorganisaties en de Vereniging van Nederlandse Gemeenten;
 
-- g. de aanpassing van de [Wet SUWI](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&wetgeving) en de daarop gebaseerde nadere regelgeving op het gebied van gegevensuitwisseling en evaluaties, waaronder de evaluatie van de Wet eenmalige gegevensuitvraag werk en inkomen;
+- g. de aanpassing van de [Wet SUWI](https://wetten.overheid.nl/jci1.3:c:BWBR0013060) en de daarop gebaseerde nadere regelgeving op het gebied van gegevensuitwisseling en evaluaties, waaronder de evaluatie van de Wet eenmalige gegevensuitvraag werk en inkomen;
 
 - h. het vervullen van een accountfunctie en de coördinatie van de planning- en controlcyclus van het Inlichtingenbureau;
 
@@ -182,7 +182,7 @@ Bij afwezigheid of verhindering van de directeur SV worden, voor de duur van de 
 
 ##### Artikel 11
 
-1. Het[Organisatie-, mandaat- en volmachtbesluit UBN 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0033484&wetgeving) wordt ingetrokken.
+1. Het[Organisatie-, mandaat- en volmachtbesluit UBN 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0033484) wordt ingetrokken.
 
 2. Deze regeling treedt in werking met ingang van de eerste dag na de dagtekening van de Staatscourant waarin zij wordt geplaatst en werkt terug tot en met 1 mei 2015.
 
