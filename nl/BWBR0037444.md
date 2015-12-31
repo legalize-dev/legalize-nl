@@ -4,7 +4,7 @@ identifier: "BWBR0037444"
 country: "nl"
 rank: "wet"
 publication_date: "2019-01-01"
-last_updated: "2015-09-15"
+last_updated: "2015-12-31"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0037444"
 soort: "wet"
@@ -211,7 +211,7 @@ Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel XLII
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Wet belastingen op milieugrondslag.
 
 ##### Artikel XLII0a
 
@@ -227,7 +227,7 @@ Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel XLIV
 
-Wijzigt de Invorderingswet 1990.
+Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel XLV
 
@@ -259,7 +259,7 @@ Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel L
 
-Dit onderdeel is nog niet inwerking getreden
+[Artikel 90 van de Wet belastingen op milieugrondslag](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=90) vindt bij het begin van het kalenderjaar 2016 geen toepassing op de bedragen, genoemd in [artikel 59, eerste lid, onderdelen a en c](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=59), artikel 59, derde lid, en [artikel 60, eerste lid, van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=60).
 
 ##### Artikel LI
 
@@ -272,3 +272,11 @@ Dit onderdeel is nog niet inwerking getreden
 ##### Artikel LIII
 
 Dit onderdeel is nog niet inwerking getreden
+
+Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
+
+Alzo Wij in overweging genomen hebben, dat het voor het jaar 2016 wenselijk is een aantal fiscale maatregelen te treffen die voortvloeien uit het vijfmiljardpakket en de koopkrachtbesluitvorming en dat het in het kader van het fiscale beleid voor het jaar 2016 wenselijk is in een aantal belastingwetten en enige andere wetten wijzigingen, bijstellingen of technische reparaties aan te brengen die uiterlijk met ingang van 1 januari 2016 in werking moeten treden;
+
+Zo is het, dat Wij, de Afdeling advisering van de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
+
+Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren die zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
