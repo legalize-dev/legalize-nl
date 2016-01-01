@@ -4,7 +4,7 @@ identifier: "BWBR0018707"
 country: "nl"
 rank: "amvb"
 publication_date: "2026-02-13"
-last_updated: "2015-11-01"
+last_updated: "2016-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0018707"
 soort: "AMvB"
@@ -102,7 +102,7 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 ##### Artikel 1b
 
-1. De verstrekking van gegevens en inlichtingen ingevolge [artikel 38, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0018472&artikel=38) aan de Belastingdienst/Toeslagen vindt plaats onder vermelding van het burgerservicenummer van degene op wie de gegevens betrekking hebben en geschiedt op de door de Belastingdienst/Toeslagen voorgeschreven wijze. De Belastingdienst/Toeslagen kan voor de toepassing van [artikel 1a, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018707&artikel=1a&z=2016-01-01&g=2015-11-01), bepalen dat de vermelding van het burgerservicenummer achterwege blijft.
+1. De verstrekking van gegevens en inlichtingen ingevolge [artikel 38, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0018472&artikel=38) aan de Belastingdienst/Toeslagen vindt plaats onder vermelding van het burgerservicenummer van degene op wie de gegevens betrekking hebben en geschiedt op de door de Belastingdienst/Toeslagen voorgeschreven wijze. De Belastingdienst/Toeslagen kan voor de toepassing van [artikel 1a, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018707&artikel=1a&z=2016-01-01&g=2016-01-01), bepalen dat de vermelding van het burgerservicenummer achterwege blijft.
 
 2. Degene op wie de gegevens betrekking hebben, dienen hiertoe hun burgerservicenummer bekend te maken aan de instelling die de gegevensverstrekking aan de Belastingdienst/Toeslagen verzorgt.
 
@@ -122,21 +122,7 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 ##### Artikel 1c. Gegevensverstrekking ten behoeve van MijnOverheid
 
-1. In dit artikel wordt verstaan onder:
-
-- a. MijnOverheid: het domein van een natuurlijke persoon op de website mijn.overheid.nl;
-
-- b. gebruiker: degene aan wiens persoonsgegevens MijnOverheid is gekoppeld.
-
-2. Als voorziening die de dienstverlening voortvloeiende uit de uitvoering van de wet verbetert, wordt aangemerkt: MijnOverheid.
-
-3. De Belastingdienst/Toeslagen verstrekt aan Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties de gegevens die noodzakelijk zijn voor het beschikbaar stellen van MijnOverheid aan gebruikers. Tot deze gegevens behoort in elk geval het burgerservicenummer, bedoeld in [artikel 1, onderdeel b, van de Wet algemene bepalingen burgerservicenummer](https://wetten.overheid.nl/jci1.3:c:BWBR0022428&artikel=1), van de gebruiker.
-
-4. MijnOverheid bevat in ieder geval functionaliteit waarmee de gebruiker elektronisch verzonden berichten van de Belastingdienst/Toeslagen kan ontvangen.
-
-5. Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties draagt zorg voor de beschikbaarstelling en instandhouding van Mijnoverheid en voor de betrouwbare toegang van een gebruiker tot MijnOverheid.
-
-6. MijnOverheid-accounts die bestaan op de dag van inwerkingtreding van dit artikel worden aangemerkt als voorziening op grond van dit artikel.
+Vervallen
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
 
