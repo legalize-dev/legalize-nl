@@ -4,7 +4,7 @@ identifier: "BWBR0011144"
 country: "nl"
 rank: "kb"
 publication_date: "2018-07-25"
-last_updated: "2015-04-03"
+last_updated: "2016-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0011144"
 soort: "KB"
@@ -84,7 +84,7 @@ Bij de uitreiking van de herinneringsmedaille dan wel van later toegekende gespe
 
 ##### Artikel 9
 
-De kosten van de in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0011144&artikel=8&z=2015-04-03&g=2015-04-03) bedoelde versierselen komen ten laste van het Rijk.
+De kosten van de in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0011144&artikel=8&z=2018-07-25&g=2016-01-01) bedoelde versierselen komen ten laste van het Rijk.
 
 ##### Artikel 10
 
@@ -120,7 +120,7 @@ Onze Minister van Defensie is belast met de uitvoering van dit besluit, dat in h
 
 1. In verband met de hulpverlening in Nederlands militair verband bij de leniging van de nood van slachtoffers van de tsunami in Azië en Afrika in de periode december 2004 tot en met december 2005 wordt de gesp «Tsunami 2004» ingesteld.
 
-2. In afwijking van [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0011144&artikel=2&z=2015-04-03&g=2015-04-03) wordt de herinneringsmedaille tevens toegekend aan de leden van het Rampen Identificatie Team van het Korps landelijke politiediensten die hier te lande daadwerkelijk aan de hulpverlening, bedoeld in het eerste lid, hebben deelgenomen en daarbij in alle opzichten een goede plichtsbetrachting en een goed gedrag hebben betoond.
+2. In afwijking van [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0011144&artikel=2&z=2018-07-25&g=2016-01-01) wordt de herinneringsmedaille tevens toegekend aan de leden van het Rampen Identificatie Team van het Korps landelijke politiediensten die hier te lande daadwerkelijk aan de hulpverlening, bedoeld in het eerste lid, hebben deelgenomen en daarbij in alle opzichten een goede plichtsbetrachting en een goed gedrag hebben betoond.
 
 ##### Artikel 10e
 
@@ -137,5 +137,15 @@ Onze Minister van Defensie is belast met de uitvoering van dit besluit, dat in h
 ##### Artikel 10g
 
 In verband met de hulpverlening in Nederlands militair verband bij de leniging van de nood van slachtoffers van de ebola-epidemie in West-Afrika in de periode 6 november 2014 tot en met 24 januari 2015 wordt de gesp «West-Afrika 2014» ingesteld.
+
+Onze Minister van Defensie is belast met de uitvoering van dit besluit, dat in het Staatsblad zal worden geplaatst en waarvan afschrift zal worden gezonden aan de Kanselier der Nederlandse Orden.
+
+##### Artikel 10j
+
+In verband met de hulpverlening in Nederlands militair verband bij de leniging van de nood van migranten in de Middellandse Zee in de periode van 7 maart 2016 tot en met 15 juli 2016 wordt de gesp «LIBISCHE ZEE 2016» ingesteld.
+
+##### Artikel 10k
+
+In verband met de hulpverlening in Nederlands militair verband bij de leniging van de nood van slachtoffers van de orkaan Matthew in Haïti in de periode van 11 oktober 2016 tot en met 27 oktober 2016 wordt de gesp «HAÏTI 2016» ingesteld.
 
 Onze Minister van Defensie is belast met de uitvoering van dit besluit, dat in het Staatsblad zal worden geplaatst en waarvan afschrift zal worden gezonden aan de Kanselier der Nederlandse Orden.
