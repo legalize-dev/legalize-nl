@@ -4,7 +4,7 @@ identifier: "BWBR0032029"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2020-01-01"
-last_updated: "2012-10-01"
+last_updated: "2016-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0032029"
 soort: "ministeriele-regeling"
@@ -40,17 +40,19 @@ Gelet op [artikel 4, eerste lid, van de Wet administratiefrechtelijke handhaving
 
 Besluit:
 
+Treedt in werking op het tijdstip waarop artikel II, onderdelen B, C en D en artikel VI van de Wijzigingswet Wetboek van Strafrecht, enz. (strafbaarstelling deelnemen en meewerken training terrorisme, uitbreiding mogelijkheden ontzetting uit beroep als bijkomende straf en enkele andere wijzigingen) in werking treden.
+
 ##### Artikel 1
 
-De administratiekosten, bedoeld in [artikel 11a van het Besluit administratiefrechtelijke handhaving verkeersvoorschriften 1994](https://wetten.overheid.nl/jci1.3:c:BWBR0006847&artikel=11a), bedragen per administratieve sanctie € 7.
+De administratiekosten, bedoeld in [artikel 11a van het Besluit administratiefrechtelijke handhaving verkeersvoorschriften 1994](https://wetten.overheid.nl/jci1.3:c:BWBR0006847&artikel=11a), bedragen per administratieve sanctie € 9.
 
 ##### Artikel 2
 
-De administratiekosten, bedoeld in [artikel 9b van het Besluit tenuitvoerlegging geldboeten](https://wetten.overheid.nl/jci1.3:c:BWBR0006717&artikel=9b), bedragen per geldboete € 7.
+De administratiekosten, bedoeld in [artikel 9b van het Besluit tenuitvoerlegging geldboeten](https://wetten.overheid.nl/jci1.3:c:BWBR0006717&artikel=9b), bedragen per geldboete € 9.
 
 ##### Artikel 3
 
-De administratiekosten, bedoeld in de artikelen 1 en 2 kunnen met ingang van 1 januari 2015 tweejaarlijks worden geïndexeerd op basis van het consumentenprijsindexcijfer zoals vastgesteld door het Centraal Planbureau. Tevens kan een herijking van de administratiekosten plaatsvinden.
+Vervallen
 
 ##### Artikel 4
 
