@@ -4,7 +4,7 @@ identifier: "BWBR0032487"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2017-01-01"
-last_updated: "2015-12-29"
+last_updated: "2016-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0032487"
 soort: "ministeriele-regeling"
@@ -44,7 +44,7 @@ Besluit:
 
 ##### Artikel 1
 
-Voor de behandeling van verzoeken om een Europees betalingsbevel als bedoeld in artikel 7 van de verordening (EG) nr. 1896/2006 van het Europees Parlement en de Raad van 12 december 2006 tot invoering van een Europese betalingsbevelprocedure (PbEU L 399) wordt de rechtbank Den Haag aangewezen als andere rechtbank als bedoeld in [artikel 46a, eerste lid, van de Wet op de rechterlijke organisatie](https://wetten.overheid.nl/jci1.3:c:BWBR0001830&artikel=46a).
+Vervallen
 
 ##### Artikel 2
 
@@ -72,9 +72,9 @@ Wijzigt deze regeling.
 
 1. Deze regeling treedt in werking met ingang van 1 januari 2013.
 
-2. [Artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0032487&artikel=1&z=2015-12-29&g=2015-12-29) vervalt drie jaar na het in het eerste lid genoemde tijdstip.
+2. [Artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0032487&artikel=1&z=2016-01-01&g=2016-01-01) vervalt drie jaar na het in het eerste lid genoemde tijdstip.
 
-3. De [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0032487&artikel=2&z=2015-12-29&g=2015-12-29) en [3](https://wetten.overheid.nl/jci1.3:c:BWBR0032487&artikel=3&z=2015-12-29&g=2015-12-29) vervallen met ingang van 1 januari 2017.
+3. De [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0032487&artikel=2&z=2016-01-01&g=2016-01-01) en [3](https://wetten.overheid.nl/jci1.3:c:BWBR0032487&artikel=3&z=2016-01-01&g=2016-01-01) vervallen met ingang van 1 januari 2017.
 
 ##### Artikel 6
 
