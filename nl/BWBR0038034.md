@@ -4,7 +4,7 @@ identifier: "BWBR0038034"
 country: "nl"
 rank: "wet"
 publication_date: "2016-10-01"
-last_updated: "2015-01-01"
+last_updated: "2016-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0038034"
 soort: "wet"
@@ -113,7 +113,7 @@ Wijzigt de Zorgverzekeringswet.
 
 ##### Artikel XIX
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Veegwet VWS 2013.
 
 #### § 2. **Wetten van andere ministeries**
 
@@ -127,7 +127,7 @@ Wijzigt de Algemene Ouderdomswet.
 
 ##### Artikel XXII
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Ambtenarenwet.
 
 ##### Artikel XXIII
 
@@ -212,17 +212,3 @@ Dit onderdeel is nog niet inwerking getreden
 ##### Artikel XXXX
 
 Dit onderdeel is nog niet inwerking getreden
-
-Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
-
-Alzo Wij in overweging genomen hebben, dat het wenselijk is om enige wetten op het terrein van het ministerie van Volksgezondheid, Welzijn en Sport te wijzigen teneinde daarin misslagen te verbeteren en omissies weg te nemen, enige andere wetten technisch te wijzigen teneinde de broninhouding van eigen bijdragen voor beschermd wonen ingevolge de [Wet maatschappelijke ondersteuning 2015](https://wetten.overheid.nl/jci1.3:c:BWBR0035362&wetgeving) te kunnen voortzetten, zoals dat ook mogelijk was toen beschermd wonen nog onder de aanspraken ingevolge de [Algemene Wet Bijzondere Ziektekosten](https://wetten.overheid.nl/jci1.3:c:BWBR0002614&wetgeving) viel, de [Geneesmiddelenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0021505) te wijzigen teneinde ook personen met een tijdelijke voorschrijfbevoegdheid onder de regels over geneesmiddelenreclame te brengen, de [Wet donorgegevens kunstmatige bevruchting](https://wetten.overheid.nl/jci1.3:c:BWBR0013642) te wijzigen teneinde een wettelijke grondslag op te nemen voor het gebruik van het burgerservicenummer en de [Wet toelating zorginstellingen](https://wetten.overheid.nl/jci1.3:c:BWBR0018906) te wijzigen teneinde het College bouw zorginstellingen, dat geen wettelijke taken meer heeft, op te heffen;
-
-Zo is het, dat Wij, de Afdeling advisering van de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
-
-#### § 1. Wetten van het ministerie van Volksgezondheid, Welzijn en Sport
-
-#### § 2. **Wetten van andere ministeries**
-
-#### § 3. **Slot- en overgangsbepalingen**
-
-Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren die zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
