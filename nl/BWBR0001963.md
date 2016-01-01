@@ -4,7 +4,7 @@ identifier: "BWBR0001963"
 country: "nl"
 rank: "wet"
 publication_date: "2021-07-01"
-last_updated: "1994-01-01"
+last_updated: "2016-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0001963"
 soort: "wet"
@@ -74,7 +74,7 @@ Al hetgeen bij de opruiming wordt geborgen, wordt tegen voldoening van de ter za
 
 ##### Artikel 6
 
-Indien belanghebbenden zich niet aanmelden, doch in gebreke blijven binnen een door de beheerder te stellen termijn de in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0001963&artikel=5&z=1994-01-01&g=1994-01-01) bedoelde kosten te voldoen of voor de voldoening daarvan zekerheid te stellen, is de beheerder bevoegd het geborgene te verkopen.
+Indien belanghebbenden zich niet aanmelden, doch in gebreke blijven binnen een door de beheerder te stellen termijn de in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0001963&artikel=5&z=2016-01-01&g=2016-01-01) bedoelde kosten te voldoen of voor de voldoening daarvan zekerheid te stellen, is de beheerder bevoegd het geborgene te verkopen.
 
 ##### Artikel 7
 
@@ -90,11 +90,11 @@ Vervallen
 
 ##### Artikel 10
 
-De kosten, krachtens deze wet gemaakt, komen, voor zooveel zij niet door belanghebbenden zijn terugbetaald, of uit de opbrengst van het krachtens [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0001963&artikel=6&z=1994-01-01&g=1994-01-01) verkochte kunnen worden gekweten, ten laste van den beheerder, onverminderd diens bevoegdheid om de krachtens dit artikel te zijnen laste komende kosten te verhalen op dengene, die volgens de wet daarvoor aansprakelijk is.
+De kosten, krachtens deze wet gemaakt, komen, voor zooveel zij niet door belanghebbenden zijn terugbetaald, of uit de opbrengst van het krachtens [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0001963&artikel=6&z=2016-01-01&g=2016-01-01) verkochte kunnen worden gekweten, ten laste van den beheerder, onverminderd diens bevoegdheid om de krachtens dit artikel te zijnen laste komende kosten te verhalen op dengene, die volgens de wet daarvoor aansprakelijk is.
 
 ##### Artikel 11
 
-Handelingen in strijd met het bepaalde in het [tweede lid van artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0001963&artikel=2&z=1994-01-01&g=1994-01-01) en het bepaalde in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0001963&artikel=4&z=1994-01-01&g=1994-01-01) worden aangemerkt als overtredingen en gestraft met een geldboete van de derde categorie.
+Handelingen in strijd met het bepaalde in het [tweede lid van artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0001963&artikel=2&z=2016-01-01&g=2016-01-01) en het bepaalde in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0001963&artikel=4&z=2016-01-01&g=2016-01-01) worden aangemerkt als overtredingen en gestraft met een geldboete van de derde categorie.
 
 ##### Artikel 12
 
@@ -102,7 +102,11 @@ Met het tijdstip van de inwerkingtreding van deze wet vervalt de wet van 23 Juli
 
 ##### Artikel 12a
 
-De [artikelen 5](https://wetten.overheid.nl/jci1.3:c:BWBR0001963&artikel=5&z=1994-01-01&g=1994-01-01) tot en met [9](https://wetten.overheid.nl/jci1.3:c:BWBR0001963&artikel=9&z=1994-01-01&g=1994-01-01), zoals deze luiden voor de wijziging van deze artikelen ingevolge de wet van 22 mei 1991, **Stb.** 394 blijven van kracht ten aanzien van opruimingen die voor de inwerkingtreding van deze wet zijn verricht.
+Met betrekking tot een wrak waarop de [Wet bestrijding maritieme ongevallen](https://wetten.overheid.nl/jci1.3:c:BWBR0037162) van toepassing is, zijn:
+
+de [artikelen 1 tot en met 4](https://wetten.overheid.nl/jci1.3:c:BWBR0001963&artikel=1&z=2016-01-01&g=2016-01-01) en [10 tot en met 12](https://wetten.overheid.nl/jci1.3:c:BWBR0001963&artikel=10&z=2016-01-01&g=2016-01-01) niet van toepassing;
+
+de [artikelen 5 tot en met 8](https://wetten.overheid.nl/jci1.3:c:BWBR0001963&artikel=5&z=2016-01-01&g=2016-01-01) van toepassing op de markering en opruiming daarvan overeenkomstig die wet.
 
 ##### Artikel 13
 
