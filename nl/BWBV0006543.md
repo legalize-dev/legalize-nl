@@ -4,7 +4,7 @@ identifier: "BWBV0006543"
 country: "nl"
 rank: "verdrag"
 publication_date: "2017-12-31"
-last_updated: "2015-07-27"
+last_updated: "2016-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBV0006543"
 soort: "verdrag"
@@ -80,11 +80,11 @@ Within the scope of its official activities, AMSCO shall be exempt from stock-ex
 
 ##### Article 5
 
-1. The provisions of [Article 2](https://wetten.overheid.nl/jci1.3:c:BWBV0006543&bijlage=B&artikel=2&z=2015-07-27&g=2015-07-27) and [3](https://wetten.overheid.nl/jci1.3:c:BWBV0006543&bijlage=B&artikel=3&z=2015-07-27&g=2015-07-27) shall not apply to taxes and duties that are no more than charges for public utility services;
+1. The provisions of [Article 2](https://wetten.overheid.nl/jci1.3:c:BWBV0006543&bijlage=B&artikel=2&z=2016-01-01&g=2016-01-01) and [3](https://wetten.overheid.nl/jci1.3:c:BWBV0006543&bijlage=B&artikel=3&z=2016-01-01&g=2016-01-01) shall not apply to taxes and duties that are no more than charges for public utility services;
 
-2. Goods acquired under [Article 2](https://wetten.overheid.nl/jci1.3:c:BWBV0006543&bijlage=B&artikel=2&z=2015-07-27&g=2015-07-27), [4](https://wetten.overheid.nl/jci1.3:c:BWBV0006543&bijlage=B&artikel=4&z=2015-07-27&g=2015-07-27) or imported under [Article 3](https://wetten.overheid.nl/jci1.3:c:BWBV0006543&bijlage=B&artikel=3&z=2015-07-27&g=2015-07-27) shall not be sold given away, or otherwise disposed of, except in accordance with conditions agreed with the Government;
+2. Goods acquired under [Article 2](https://wetten.overheid.nl/jci1.3:c:BWBV0006543&bijlage=B&artikel=2&z=2016-01-01&g=2016-01-01), [4](https://wetten.overheid.nl/jci1.3:c:BWBV0006543&bijlage=B&artikel=4&z=2016-01-01&g=2016-01-01) or imported under [Article 3](https://wetten.overheid.nl/jci1.3:c:BWBV0006543&bijlage=B&artikel=3&z=2016-01-01&g=2016-01-01) shall not be sold given away, or otherwise disposed of, except in accordance with conditions agreed with the Government;
 
-3. No exemption shall be granted under [Article 2](https://wetten.overheid.nl/jci1.3:c:BWBV0006543&bijlage=B&artikel=2&z=2015-07-27&g=2015-07-27),[3](https://wetten.overheid.nl/jci1.3:c:BWBV0006543&bijlage=B&artikel=3&z=2015-07-27&g=2015-07-27) or [4](https://wetten.overheid.nl/jci1.3:c:BWBV0006543&bijlage=B&artikel=4&z=2015-07-27&g=2015-07-27) in respect of goods purchased or imported, or services provided, for the personal benefit of the staff members of AMSCO.
+3. No exemption shall be granted under [Article 2](https://wetten.overheid.nl/jci1.3:c:BWBV0006543&bijlage=B&artikel=2&z=2016-01-01&g=2016-01-01),[3](https://wetten.overheid.nl/jci1.3:c:BWBV0006543&bijlage=B&artikel=3&z=2016-01-01&g=2016-01-01) or [4](https://wetten.overheid.nl/jci1.3:c:BWBV0006543&bijlage=B&artikel=4&z=2016-01-01&g=2016-01-01) in respect of goods purchased or imported, or services provided, for the personal benefit of the staff members of AMSCO.
 
 ##### Article 6
 
