@@ -4,7 +4,7 @@ identifier: "BWBR0013514"
 country: "nl"
 rank: "amvb"
 publication_date: "2023-06-13"
-last_updated: "2015-01-01"
+last_updated: "2016-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0013514"
 soort: "AMvB"
@@ -46,6 +46,8 @@ Gezien het nader rapport van Onze Minister van Verkeer en Waterstaat van 7 maart
 
 Hebben goedgevonden en verstaan:
 
+Treedt in werking op het tijdstip waarop artikel I van de Wijzigingswet Wet luchtvaart (vervoer van gevaarlijke stoffen en van dieren) in werking treedt.
+
 #### Paragraaf 1. Algemene bepalingen
 
 ##### Artikel 1
@@ -58,11 +60,11 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
 - c. Technische Voorschriften: ingevolge een mededeling van Onze Minister van Infrastructuur en Milieu gepubliceerd in de Staatscourant van kracht zijnde versie van de bij Annex 18 behorende «Technical Instructions for the Safe Transport of Dangerous goods by Air», Doc 9284-AN/905, inclusief het Supplement, zoals ter inzage gelegd op de bij die mededeling aangegeven locatie;
 
-- d. afzender: natuurlijke persoon of rechtspersoon als bedoeld in [artikel 9, eerste lid,onder 1°](https://wetten.overheid.nl/jci1.3:c:BWBR0013514&paragraaf=4&artikel=9&z=2015-01-01&g=2015-01-01);
+- d. afzender: natuurlijke persoon of rechtspersoon als bedoeld in [artikel 9, eerste lid,onder 1°](https://wetten.overheid.nl/jci1.3:c:BWBR0013514&paragraaf=4&artikel=9&z=2016-01-01&g=2016-01-01);
 
-- e. expediteur-luchtvrachtagent: natuurlijke persoon of rechtspersoon als bedoeld in [artikel 9, eerste lid, onder 2°](https://wetten.overheid.nl/jci1.3:c:BWBR0013514&paragraaf=4&artikel=9&z=2015-01-01&g=2015-01-01);
+- e. expediteur-luchtvrachtagent: natuurlijke persoon of rechtspersoon als bedoeld in [artikel 9, eerste lid, onder 2°](https://wetten.overheid.nl/jci1.3:c:BWBR0013514&paragraaf=4&artikel=9&z=2016-01-01&g=2016-01-01);
 
-- f. grondafhandelaar: natuurlijke persoon of rechtspersoon als bedoeld in [artikel 9, eerste lid, onder 3°](https://wetten.overheid.nl/jci1.3:c:BWBR0013514&paragraaf=4&artikel=9&z=2015-01-01&g=2015-01-01).
+- f. grondafhandelaar: natuurlijke persoon of rechtspersoon als bedoeld in [artikel 9, eerste lid, onder 3°](https://wetten.overheid.nl/jci1.3:c:BWBR0013514&paragraaf=4&artikel=9&z=2016-01-01&g=2016-01-01).
 
 ##### Artikel 2
 
@@ -88,7 +90,7 @@ Als gevaarlijke stoffen, bedoeld in [artikel 6.51, eerste lid, van de wet](https
 
 ##### Artikel 3
 
-1. Het in [artikel 6.51, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&artikel=6.51) bedoelde verbod geldt niet voor de daar bedoelde handelingen ten aanzien van de in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0013514&paragraaf=1&artikel=2&z=2015-01-01&g=2015-01-01) aangewezen gevaarlijke stoffen, voorzover daarbij Annex 18 en de Technische Voorschriften in acht worden genomen.
+1. Het in [artikel 6.51, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&artikel=6.51) bedoelde verbod geldt niet voor de daar bedoelde handelingen ten aanzien van de in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0013514&paragraaf=1&artikel=2&z=2016-01-01&g=2016-01-01) aangewezen gevaarlijke stoffen, voorzover daarbij Annex 18 en de Technische Voorschriften in acht worden genomen.
 
 2. Onze Minister van Defensie kan bepaalde gedeelten van Annex 18 en de Technische Voorschriften aanwijzen, welke in afwijking van het eerste lid, niet door de krijgsmacht of de krijgsmacht van een buitenlandse mogendheid in acht behoeven te worden genomen. Onze Minister van Defensie kan daarbij bepalen dat in dat geval door de krijgsmacht of de krijgsmacht van een buitenlandse mogendheid internationale militaire voorschriften in acht dienen te worden genomen.
 
@@ -104,7 +106,7 @@ Bij regeling van Onze Minister van Infrastructuur en Milieu respectievelijk van 
 
 ##### Artikel 6
 
-Bij regeling van Onze Minister van Infrastructuur en Milieu respectievelijk van Onze Minister van Defensie kunnen regels worden gesteld met betrekking tot de keuring van de inrichtingen, voertuigen en werktuigen bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0013514&paragraaf=2&artikel=5&z=2015-01-01&g=2015-01-01).
+Bij regeling van Onze Minister van Infrastructuur en Milieu respectievelijk van Onze Minister van Defensie kunnen regels worden gesteld met betrekking tot de keuring van de inrichtingen, voertuigen en werktuigen bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0013514&paragraaf=2&artikel=5&z=2016-01-01&g=2016-01-01).
 
 #### Paragraaf 3. Bepalingen met het oog op de veiligheid en het milieu
 
@@ -122,13 +124,13 @@ Onze Minister van Infrastructuur en Milieu respectievelijk Onze Minister van Def
 
 1. Onze Minister van Infrastructuur en Milieu kan de navolgende erkenningen verlenen:
 
-- 1°. een A-erkenning: een erkenning voor een afzender, zijnde een natuurlijke persoon of een rechtspersoon, welke de bevoegdheid geeft om gevaarlijke stoffen aan te bieden voor vervoer door de lucht;
+- 1°. een A-erkenning: een erkenning voor een afzender, zijnde een natuurlijke persoon of een rechtspersoon, welke de bevoegdheid geeft om gevaarlijke stoffen, in eigendom aan hem toebehorend of afkomstig uit eigen onderneming, aan te bieden voor vervoer door de lucht;
 
 - 2°. een B-erkenning: een erkenning voor een expediteur-luchtvrachtagent, zijnde een natuurlijke persoon of een rechtspersoon, welke de bevoegdheid geeft om gevaarlijke stoffen door de lucht te doen vervoeren;
 
-- 3°. een C-erkenning: een erkenning voor een grondafhandelaar, zijnde een natuurlijke persoon of een rechtspersoon, welke de bevoegdheid geeft om namens de houder van een luchtvaartuig de acceptatie en het laden en lossen van gevaarlijke stoffen te verrichten;
+- 3°. een C-erkenning: een erkenning voor een grondafhandelaar, zijnde een natuurlijke persoon of een rechtspersoon, welke de bevoegdheid geeft om namens de houder van een luchtvaartuig de acceptatie of het laden en lossen van gevaarlijke stoffen te verrichten;
 
-- 4°. een D-erkenning: een erkenning voor een luchtvaartmaatschappij, of een houder van een luchtvaartuig, zijnde een natuurlijke persoon of een rechtspersoon, welke de bevoegdheid geeft om feitelijk gevaarlijke stoffen door de lucht te vervoeren;
+- 4°. een D-erkenning: een erkenning voor een luchtvaartmaatschappij, of een houder van een luchtvaartuig, zijnde een natuurlijke persoon of een rechtspersoon, niet in het bezit van een op basis van het Unierecht verstrekte AOC, welke de bevoegdheid geeft om feitelijk gevaarlijke stoffen door de lucht te vervoeren;
 
 - 5°. een E-erkenning: een erkenning voor een in het vervoer door de lucht gespecialiseerde organisatie met rechtspersoonlijkheid welke de bevoegdheid geeft om in opdracht van derden op te treden als afzender en verpakker van gevaarlijke stoffen.
 
