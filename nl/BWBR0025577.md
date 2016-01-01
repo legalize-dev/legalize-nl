@@ -4,7 +4,7 @@ identifier: "BWBR0025577"
 country: "nl"
 rank: "amvb"
 publication_date: "2018-01-01"
-last_updated: "2015-01-01"
+last_updated: "2016-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0025577"
 soort: "AMvB"
@@ -45,6 +45,8 @@ De Raad van State gehoord (advies van 7 december 2007, nr. W.10.07.450/III);
 Gezien het nader rapport van de Staatssecretaris van Economische Zaken van 24 maart 2009, nr. WJZ / 9054333;
 
 Hebben goedgevonden en verstaan:
+
+Treedt in werking op het tijdstip waarop de Postwet 2009 in werking treedt.
 
 #### § 1. Begripsbepalingen
 
@@ -108,19 +110,19 @@ Poststukken komen voor vervoer binnen de universele postdienst in aanmerking ind
 
 1. Een verlener van de universele postdienst draagt er zorg voor dat de voor het postvervoer binnen de universele postdienst verschuldigde porten op verschillende manieren kunnen worden voldaan, maar in elk geval door middel van postzegels of postzegelafdrukken.
 
-2. Postzegels worden door de verlener van de universele postdienst ten minste op alle dienstverleningspunten als bedoeld in [artikel 16, zevende lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0025572&artikel=16) verkrijgbaar gesteld.
+2. Postzegels worden door de verlener van de universele postdienst ten minste op alle dienstverleningspunten als bedoeld in [artikel 4b](https://wetten.overheid.nl/jci1.3:c:BWBR0025577&paragraaf=3&artikel=4b&z=2016-01-01&g=2016-01-01) verkrijgbaar gesteld.
 
 ##### Artikel 7
 
 1. Poststukken die zijn bestemd voor postvervoer binnen de universele postdienst worden in voor het publiek bestemde brievenbussen van de verlener de universele postdienst gedeponeerd of bij daartoe bestemde dienstverleningspunten van de verlener van de universele postdienst afgegeven.
 
-2. Een verlener van de universele postdienst stelt in de algemene voorwaarden de voorwaarden vast waaraan verzenders van poststukken moeten voldoen om ervoor te zorgen dat de aangeboden poststukken worden vervoerd met de standaard overnight service, bedoeld in [artikel 16, zesde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0025572&artikel=16).
+2. Een verlener van de universele postdienst stelt in de algemene voorwaarden de voorwaarden vast waaraan verzenders van poststukken moeten voldoen om ervoor te zorgen dat de aangeboden poststukken worden vervoerd met de standaard overnight service, bedoeld in [artikel 4a](https://wetten.overheid.nl/jci1.3:c:BWBR0025577&paragraaf=3&artikel=4a&z=2016-01-01&g=2016-01-01).
 
 3. Bij ministeriële regeling worden regels gesteld over de voorwaarden, bedoeld in het tweede lid.
 
 ##### Artikel 8
 
-1. Een verlener van de universele postdienst zorgt ervoor dat voor het publiek bestemde brievenbussen als bedoeld in [artikel 16, achtste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0025572&artikel=16), zodanig worden geplaatst en uitgevoerd, dat deze goed herkenbaar en bereikbaar zijn en dat deze in goede staat worden gehouden.
+1. Een verlener van de universele postdienst zorgt ervoor dat voor het publiek bestemde brievenbussen als bedoeld in [artikel 4c](https://wetten.overheid.nl/jci1.3:c:BWBR0025577&paragraaf=3&artikel=4c&z=2016-01-01&g=2016-01-01) zodanig worden geplaatst en uitgevoerd, dat deze goed herkenbaar en bereikbaar zijn en dat deze in goede staat worden gehouden.
 
 2. Bij ministeriële regeling kunnen regels worden gesteld over de toegankelijkheid van brievenbussen van een verlener van de universele postdienst.
 
@@ -134,7 +136,7 @@ Poststukken komen voor vervoer binnen de universele postdienst in aanmerking ind
 
 ##### Artikel 10
 
-1. Bij ministeriële regeling wordt bepaald welke diensten en activiteiten zijn opgenomen in een volledig assortiment van diensten als bedoeld in [artikel 16, zevende lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0025572&artikel=16).
+1. Bij ministeriële regeling wordt bepaald welke diensten en activiteiten zijn opgenomen in een volledig assortiment van diensten als bedoeld in [artikel 4b](https://wetten.overheid.nl/jci1.3:c:BWBR0025577&paragraaf=3&artikel=4b&z=2016-01-01&g=2016-01-01).
 
 2. Bij ministeriële regeling kunnen nadere regels worden gesteld met betrekking tot de kwaliteit van de universele postdienst.
 
@@ -154,7 +156,7 @@ De bedragen, bedoeld in [artikel 29, vierde lid, van de wet](https://wetten.over
 
 Vervallen
 
-#### § 6. Vergoeding kosten Autoriteit Consument en Markt buiten universele postdienst
+#### § 4. Bedragen aansprakelijkheid
 
 ##### Artikel 13
 
@@ -200,15 +202,15 @@ Vervallen
 
 ##### Artikel 19
 
-De vergoeding, bedoeld in [artikel 15, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025577&paragraaf=6&artikel=15&z=2015-01-01&g=2015-01-01), voor het kalenderjaar waarin de [wet](https://wetten.overheid.nl/jci1.3:c:BWBR0025572) in werking treedt en, indien nodig, voor de twee daaropvolgende kalenderjaren, wordt in rekening gebracht na vaststelling van het criterium met betrekking tot de relevante omzet van een postvervoerbedrijf in Nederland als bedoeld in [artikel 64, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0025572&artikel=64).
+De vergoeding, bedoeld in [artikel 15, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025577&paragraaf=6&artikel=15&z=2016-01-01&g=2016-01-01), voor het kalenderjaar waarin de [wet](https://wetten.overheid.nl/jci1.3:c:BWBR0025572) in werking treedt en, indien nodig, voor de twee daaropvolgende kalenderjaren, wordt in rekening gebracht na vaststelling van het criterium met betrekking tot de relevante omzet van een postvervoerbedrijf in Nederland als bedoeld in [artikel 64, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0025572&artikel=64).
 
 ##### Artikel 20
 
 1. In het kalenderjaar van de inwerkingtreding van de [wet](https://wetten.overheid.nl/jci1.3:c:BWBR0025572):
 
-- a. worden de ramingen, bedoeld in [artikel 12, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025577&paragraaf=5&artikel=12&z=2015-01-01&g=2015-01-01), en [13, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025577&paragraaf=6&artikel=13&z=2015-01-01&g=2015-01-01), in afwijking van [artikel 13, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025577&paragraaf=6&artikel=13&z=2015-01-01&g=2015-01-01), binnen zes weken na de datum van inwerkingtreding van dit besluit voor de werkzaamheden van de Autoriteit Consument en Markt ter uitvoering van de [wet](https://wetten.overheid.nl/jci1.3:c:BWBR0025572) in dat kalenderjaar of het resterende gedeelte van dat kalenderjaar vastgesteld;
+- a. worden de ramingen, bedoeld in [artikel 12, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025577&paragraaf=5&artikel=12&z=2016-01-01&g=2016-01-01), en [13, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025577&paragraaf=6&artikel=13&z=2016-01-01&g=2016-01-01), in afwijking van [artikel 13, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025577&paragraaf=6&artikel=13&z=2016-01-01&g=2016-01-01), binnen zes weken na de datum van inwerkingtreding van dit besluit voor de werkzaamheden van de Autoriteit Consument en Markt ter uitvoering van de [wet](https://wetten.overheid.nl/jci1.3:c:BWBR0025572) in dat kalenderjaar of het resterende gedeelte van dat kalenderjaar vastgesteld;
 
-- b. wordt de verdeelsleutel, bedoeld in [artikel 14, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025577&paragraaf=6&artikel=14&z=2015-01-01&g=2015-01-01), in afwijking van [artikel 14, tweede lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0025577&paragraaf=6&artikel=14&z=2015-01-01&g=2015-01-01), voor het eerste kalenderjaar waarin de [wet](https://wetten.overheid.nl/jci1.3:c:BWBR0025572) van kracht is, berekend op grond van de in onderdeel a bedoelde ramingen.
+- b. wordt de verdeelsleutel, bedoeld in [artikel 14, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025577&paragraaf=6&artikel=14&z=2016-01-01&g=2016-01-01), in afwijking van [artikel 14, tweede lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0025577&paragraaf=6&artikel=14&z=2016-01-01&g=2016-01-01), voor het eerste kalenderjaar waarin de [wet](https://wetten.overheid.nl/jci1.3:c:BWBR0025572) van kracht is, berekend op grond van de in onderdeel a bedoelde ramingen.
 
 2. Postvervoerbedrijven delen binnen zes weken na de datum van inwerkingtreding van dit besluit aan de Autoriteit Consument en Markt de relevante omzet mee, die gerealiseerd is in het kalenderjaar dat twee jaar voorafgaat aan het kalenderjaar van inwerkingtreding.
 
@@ -225,5 +227,41 @@ Dit besluit treedt in werking op het tijdstip waarop de [Postwet 2009](https://w
 ##### Artikel 23
 
 Dit besluit wordt aangehaald als: Postbesluit met vermelding van het jaartal van het Staatsblad waarin het zal worden geplaatst.
+
+Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
+
+##### Artikel 4a
+
+Een verlener van de universele postdienst zorgt ervoor dat de brieven, die overeenkomstig de daartoe gestelde voorwaarden aan hem worden aangeboden voor postvervoer binnen Nederland met de standaard overnight service, per kalenderjaar in ten minste gemiddeld 95% van de gevallen worden besteld op de dag, niet zijnde een zon- of maandag of officiële feestdag, volgend op de dag van aanbieding, met dien verstande dat rouwbrieven en medische brieven per kalenderjaar in ten minste gemiddeld 95% van de gevallen worden besteld op de dag, niet zijnde een zondag of officiële feestdag, volgend op de dag van aanbieding.
+
+##### Artikel 4b
+
+De verlener van de universele postdienst zorgt ervoor dat het net van dienstverleningspunten voor het aanbieden van postzendingen en voor het verrichten van andere met het postvervoer samenhangende handelingen voldoet aan de volgende spreidingsmaatstaven:
+
+- a. de spreiding over Nederland van dienstverleningspunten met een volledig assortiment van diensten resulteert in een beschikbaarheid van een volledig assortiment van diensten binnen een straal van vijf kilometer voor ten minste 95% van de inwoners;
+
+- b. de spreiding van dienstverleningspunten met een volledig assortiment van diensten buiten woonkernen met meer dan 5.000 inwoners resulteert in een beschikbaarheid van een volledig assortiment van diensten binnen een straal van vijf kilometer voor ten minste 85% van de betrokken inwoners.
+
+##### Artikel 4c
+
+1. De verlener van de universele postdienst zorgt ervoor dat:
+
+- a. in woonkernen met meer dan 5.000 inwoners binnen een straal van 1.000 meter een voor het publiek bestemde brievenbus is, en
+
+- b. buiten de woonkernen, bedoeld in onderdeel a binnen een straal van 2.500 meter een voor het publiek bestemde brievenbus is.
+
+2. De verlener van de universele postdienst kan in afwijking van de in het eerste lid, onderdeel b, gestelde eis, wanneer deze eis redelijkerwijs niet haalbaar is, afwijken van die eis indien hij de betrokken gebruikers de gelegenheid biedt om bij de bestelling poststukken ten vervoer aan te bieden.
+
+##### Artikel 4d
+
+De verlener van de universele postdienst houdt bij de uitvoering van het bepaalde in de [artikelen 4b](https://wetten.overheid.nl/jci1.3:c:BWBR0025577&paragraaf=3&artikel=4b&z=2016-01-01&g=2016-01-01) en [4c](https://wetten.overheid.nl/jci1.3:c:BWBR0025577&paragraaf=3&artikel=4c&z=2016-01-01&g=2016-01-01) rekening met een advies als bedoeld in [artikel 18a, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0025572&artikel=18a) ten aanzien van de belangen van kwetsbare gebruikers van de universele postdienst.
+
+#### § 5. Vergoeding kosten Autoriteit Consument en Markt binnen de universele postdienst
+
+#### § 6. Vergoeding kosten Autoriteit Consument en Markt buiten universele postdienst
+
+#### § 7. Aanwijzingsprocedure verlener universele postdienst
+
+#### § 8. Overgangs- en slotbepalingen
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
