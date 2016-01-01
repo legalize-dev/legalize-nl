@@ -4,7 +4,7 @@ identifier: "BWBR0037208"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2016-01-01"
-last_updated: "2014-01-01"
+last_updated: "2016-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0037208"
 soort: "ministeriele-regeling"
@@ -38,7 +38,7 @@ entry_into_force: "2016-01-01"
 
 ##### Artikel I
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Regeling zorgverzekering.
 
 ##### Artikel II
 
@@ -54,11 +54,11 @@ Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel IV
 
-Dit onderdeel is nog niet inwerking getreden
+Deze regeling treedt in werking op 1 januari 2016 en werkt voor wat betreft [Artikel II, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037208&artikel=II&z=2016-01-01&g=2016-01-01), en [Artikel III, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037208&artikel=III&z=2016-01-01&g=2016-01-01), terug tot en met 1 januari 2014.
 
 ##### Artikel V
 
-Dit onderdeel is nog niet inwerking getreden
+Deze regeling wordt aangehaald als: Regeling aanlevering zorgvraagzwaarte cGGZ.
 
 ## Bijlage
 
