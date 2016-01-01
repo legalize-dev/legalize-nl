@@ -4,7 +4,7 @@ identifier: "BWBR0005812"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-01-01"
-last_updated: "2015-04-01"
+last_updated: "2016-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0005812"
 soort: "ministeriele-regeling"
@@ -40,13 +40,15 @@ Gelet op de [artikelen 3, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR00
 
 Besluit:
 
+Treedt in werking op het tijdstip waarop de Wet op de verbruiksbelastingen van alcoholvrije dranken en van enkele andere produkten in werking treedt.
+
 ### Hoofdstuk I. Inleidende bepalingen
 
 ### Afdeling 1. Algemene bepalingen
 
 ##### Artikel 1
 
-Deze regeling geeft uitvoering aan de [artikelen 3, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005802&artikel=3), [4, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005802&artikel=4), [5, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005802&artikel=5), [7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005802&artikel=7), [10, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005802&artikel=10), [14, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005802&artikel=14), [15, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005802&artikel=15), [20, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005802&artikel=20), [23, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005802&artikel=23), [29, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005802&artikel=29), [30, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005802&artikel=30), [31](https://wetten.overheid.nl/jci1.3:c:BWBR0005802&artikel=31), [32, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005802&artikel=32), [33, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005802&artikel=33), [35, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005802&artikel=35), [36](https://wetten.overheid.nl/jci1.3:c:BWBR0005802&artikel=36), [37](https://wetten.overheid.nl/jci1.3:c:BWBR0005802&artikel=37) en [40 van de Wet op de verbruiksbelasting van alcoholvrije dranken](https://wetten.overheid.nl/jci1.3:c:BWBR0005802&artikel=40) en [artikel 6 van het Uitvoeringsbesluit verbruiksbelasting van alcoholvrije dranken](https://wetten.overheid.nl/jci1.3:c:BWBR0005804&artikel=6).
+Deze regeling geeft uitvoering aan de [artikelen 3, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005802&artikel=3), [4, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005802&artikel=4), [5, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005802&artikel=5), [10, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005802&artikel=10), [14, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005802&artikel=14), [15, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005802&artikel=15), [20, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005802&artikel=20), [23, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005802&artikel=23), [29, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005802&artikel=29), [30, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005802&artikel=30), [31](https://wetten.overheid.nl/jci1.3:c:BWBR0005802&artikel=31), [32, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005802&artikel=32), [33, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005802&artikel=33), [35, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005802&artikel=35), [36](https://wetten.overheid.nl/jci1.3:c:BWBR0005802&artikel=36), [37](https://wetten.overheid.nl/jci1.3:c:BWBR0005802&artikel=37) en [40 van de Wet op de verbruiksbelasting van alcoholvrije dranken](https://wetten.overheid.nl/jci1.3:c:BWBR0005802&artikel=40) en [artikel 6 van het Uitvoeringsbesluit verbruiksbelasting van alcoholvrije dranken](https://wetten.overheid.nl/jci1.3:c:BWBR0005804&artikel=6).
 
 ##### Artikel 2
 
@@ -92,19 +94,15 @@ Als een bescheid als bedoeld in [artikel 5 van het besluit](https://wetten.overh
 
 ##### Artikel 6
 
-1. Het percentage vruchtensap of vruchtenmoes dat een mengsel van water en vruchtensap ten minste moet bevatten om aangemerkt te worden als vruchtensap is opgenomen in de bijlage bij deze regeling.
-
-2. Indien een mengsel als bedoeld in het eerste lid, meer dan één soort vruchtensap of vruchtenmoes bevat, worden de in de bijlage opgenomen percentages van de desbetreffende soorten naar evenredigheid toegepast.
+Vervallen
 
 ##### Artikel 7
 
-1. De belasting van vruchtensap of groentesap in vaste vorm of in geconcentreerde vorm of van limonade in vaste vorm of in geconcentreerde vorm, andere dan voor huishoudelijk gebruik, wordt berekend naar het volume dat die dranken hebben, nadat zij voor rechtstreekse consumptie geschikt zijn gemaakt.
-
-2. Degene die vruchtensap of groentesap in vaste vorm of in geconcentreerde vorm of limonade in vaste vorm of in geconcentreerde vorm, andere dan voor huishoudelijk gebruik, uitslaat of invoert, is op verzoek van de inspecteur gehouden alle gegevens te verstrekken die het mogelijk maken op eenvoudige wijze het volume van de dranken te herleiden tot het in het eerste lid bedoelde volume.
+Vervallen
 
 ##### Artikel 8
 
-Indien alcoholvrije dranken zijn verpakt in kleinhandelsverpakking, wordt het volume in aanmerking genomen dat op de verpakking is vermeld, mits de wijze waarop dat is vastgesteld en de aanduiding ervan voldoen aan de voorschriften gesteld bij het [Warenwetbesluit hoeveelheden voorverpakkingen](https://wetten.overheid.nl/jci1.3:c:BWBR0035560&wetgeving).
+Indien alcoholvrije dranken zijn verpakt in kleinhandelsverpakking, wordt het volume in aanmerking genomen dat op de verpakking is vermeld, mits de wijze waarop dat is vastgesteld en de aanduiding ervan voldoen aan de voorschriften gesteld bij het [Warenwetbesluit hoeveelheden voorverpakkingen](https://wetten.overheid.nl/jci1.3:c:BWBR0035560).
 
 ### Hoofdstuk III. Uitslag
 
@@ -120,7 +118,7 @@ Indien alcoholvrije dranken zijn verpakt in kleinhandelsverpakking, wordt het vo
 
 In afwijking van het in [artikel 14, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005802&artikel=14) van overeenkomstige toepassing verklaarde [artikel 40, tweede lid, van de Wet op de accijns](https://wetten.overheid.nl/jci1.3:c:BWBR0005251&artikel=40) kunnen als inrichting in aanmerking komen:
 
-- a. plaatsen van waaruit alcoholvrije dranken worden geleverd met vrijstelling van belasting als bedoeld in [artikel 19](https://wetten.overheid.nl/jci1.3:c:BWBR0005812&hoofdstuk=IV&afdeling=1&artikel=19&z=2015-04-01&g=2015-04-01);
+- a. plaatsen van waaruit alcoholvrije dranken worden geleverd met vrijstelling van belasting als bedoeld in [artikel 19](https://wetten.overheid.nl/jci1.3:c:BWBR0005812&hoofdstuk=IV&afdeling=1&artikel=19&z=2016-01-01&g=2016-01-01);
 
 - b. plaatsen van waaruit, onder door de inspecteur te stellen voorwaarden, alcoholvrije dranken worden afgeleverd aan verbruikers;
 
@@ -186,7 +184,7 @@ In afwijking van het in [artikel 14, tweede lid, van de wet](https://wetten.over
 
 - gemiddeld in een aangiftetijdvak met een vervoersopdracht vanuit een derde land, vanuit een plaats voor tijdelijke opslag of na beëindiging van een EU-douaneregeling wordt overgebracht naar de inrichting.
 
-3. Indien op grond van [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0005812&hoofdstuk=III&afdeling=2&artikel=13&z=2015-04-01&g=2015-04-01) toestemming is verleend voor het doen van één aangifte voor twee of meer inrichtingen worden de afzonderlijke zekerheidstellingen voor de desbetreffende inrichtingen vervangen door één zekerheid die voor die inrichtingen tezamen van toepassing is. Het hierbij in acht te nemen belastingbelang wordt gevormd door het totale belastingbelang dat op basis van het tweede lid voor de desbetreffende inrichtingen is vastgesteld.
+3. Indien op grond van [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0005812&hoofdstuk=III&afdeling=2&artikel=13&z=2016-01-01&g=2016-01-01) toestemming is verleend voor het doen van één aangifte voor twee of meer inrichtingen worden de afzonderlijke zekerheidstellingen voor de desbetreffende inrichtingen vervangen door één zekerheid die voor die inrichtingen tezamen van toepassing is. Het hierbij in acht te nemen belastingbelang wordt gevormd door het totale belastingbelang dat op basis van het tweede lid voor de desbetreffende inrichtingen is vastgesteld.
 
 4. De zekerheid bedraagt ten minste 5 percent en ten hoogste 100 percent van het belastingbelang met een maximum van € 2.250.000.
 
@@ -282,7 +280,7 @@ In afwijking van het in [artikel 14, tweede lid, van de wet](https://wetten.over
 
 - b. ingeval de na afloop van het onderzoek, de controle of de smaaktest resterende alcoholvrije dranken worden overgebracht naar een derde land: elektronische of geprinte exemplaren van het uitvoergeleidedocument of de aangifte ten uitvoer alsmede van de bevestiging van uitgang, welke documenten zijn vereist op grond van de wettelijke bepalingen, bedoeld in [artikel 1:1, eerste en tweede lid, van de Algemene douanewet](https://wetten.overheid.nl/jci1.3:c:BWBR0023746&artikel=1:1);
 
-- c. ingeval de na afloop van het onderzoek, de controle of de smaaktest resterende alcoholvrije dranken worden overgebracht naar een andere lidstaat: een afschrift van het bescheid als bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0005812&hoofdstuk=I&afdeling=2&artikel=4&z=2015-04-01&g=2015-04-01).
+- c. ingeval de na afloop van het onderzoek, de controle of de smaaktest resterende alcoholvrije dranken worden overgebracht naar een andere lidstaat: een afschrift van het bescheid als bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0005812&hoofdstuk=I&afdeling=2&artikel=4&z=2016-01-01&g=2016-01-01).
 
 - d. ingeval de na afloop van het onderzoek, de controle of de smaaktest resterende alcoholvrije dranken worden vernietigd onder ambtelijk toezicht een afschrift van de ter zake opgemaakte ambtelijke verklaring.
 
@@ -302,11 +300,9 @@ In afwijking van het in [artikel 14, tweede lid, van de wet](https://wetten.over
 
 1. Een verzoek om teruggaaf van belasting als bedoeld in [artikel 32 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005802&artikel=32) wordt ingediend uiterlijk drie maanden na afloop van het kalenderkwartaal waarin:
 
-- a. de vruchten- of groentesappen, bedoeld in [artikel 28 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005802&artikel=28), zijn vervaardigd;
+- a. de alcoholvrije dranken zijn gebruikt overeenkomstig een bestemming als bedoeld in [artikel 29, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005802&artikel=29); of
 
-- b. de alcoholvrije dranken zijn gebruikt overeenkomstig een bestemming als bedoeld in [artikel 29, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005802&artikel=29); of
-
-- c. de alcoholvrije dranken een bestemming als bedoeld in [artikel 30 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005802&artikel=30) hebben gevolgd.
+- b. de alcoholvrije dranken een bestemming als bedoeld in [artikel 30 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005802&artikel=30) hebben gevolgd.
 
 2. De verklaring, bedoeld in [artikel 19 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0005804&artikel=19), bevat in het geval van levering aan een schip de volgende gegevens:
 
@@ -526,57 +522,7 @@ Vervallen
 
 ## Bijlage
 
-| **Gehalte aan vruchtensap of vruchtenmoes als bedoeld in artikel 6** | **Minimumgehalte aan sap en eventueel aan vruchtenmoes, uitgedrukt in gewichtspercenten van het eindproduct** |
-| --- | --- |
-| **1. Vruchten met zuur sap dat onbewerkt niet geschikt is voor menselijke consumptie** |   |
-| passievruchten (Passiflora edulis) | 25 |
-| gele terongs (Solanum quitoense) | 25 |
-| zwarte aalbessen | 25 |
-| witte aalbessen | 25 |
-| rode aalbessen | 25 |
-| kruisbessen | 30 |
-| duindoornbessen (Hippophaë) | 25 |
-| sleepruimen | 30 |
-| pruimen | 30 |
-| kwetsen | 30 |
-| lijsterbessen | 30 |
-| rozebottels | 40 |
-| zure kersen (Morellen) | 35 |
-| andere kersen | 40 |
-| bosbessen | 40 |
-| vlierbessen | 50 |
-| frambozen | 40 |
-| abrikozen | 40 |
-| aardbeien | 40 |
-| bramen (braambessen) | 40 |
-| rode bosbessen | 30 |
-| kweeperen | 50 |
-| citroenen en lemmetjes | 25 |
-| andere vruchten van deze categorie | 25 |
-|   |   |
-| **2. Zuurarme vruchten of vruchten met veel vruchtvlees of zeer aromatische vruchten, met sap dat onbewerkt niet geschikt is voor menselijke consumptie:** |   |
-| mango's | 35 |
-| bananen | 25 |
-| guaves | 25 |
-| papaya's | 25 |
-| litchi's | 25 |
-| azarolmispels | 25 |
-| zuurzakken (Annona Muricata) | 25 |
-| boeah nona's (Annona reticulata) | 25 |
-| cherimoya's | 25 |
-| granaatappelen | 25 |
-| acajounoten of cashewnoten (Anarcardium occidentale) | 25 |
-| rode mombinpruimen (Spondias purperea) | 25 |
-| Imbu-mombinpruimen (Spondias tuberosa arruda) | 30 |
-| andere vruchten van deze categorie | 25 |
-|   |   |
-| **3. vruchten met sap dat onbewerkt geschikt is voor menselijke consumptie:** |   |
-| appelen | 50 |
-| peren | 50 |
-| perziken | 45 |
-| citrusvruchten met uitzondering van citroenen en lemmetjes | 50 |
-| ananassen | 50 |
-| andere vruchten van deze categorie | 50 |
+Vervallen
 
 ##### Artikel 40a
 
