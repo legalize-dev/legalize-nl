@@ -4,7 +4,7 @@ identifier: "BWBR0036593"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2020-01-01"
-last_updated: "2015-07-01"
+last_updated: "2016-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0036593"
 soort: "ministeriele-regeling"
@@ -92,11 +92,11 @@ Indien de verstrekte gegevens en bescheiden onvoldoende zijn voor de beoordeling
 
 ##### Artikel 6. Ontslagadviescommissie
 
-Na ontvangst van het in [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036593&paragraaf=2&artikel=4&z=2015-07-01&g=2015-07-01), bedoelde verweer van de werknemer dan wel nadat de werkgever en werknemer hun zienswijze krachtens artikel 4, tweede, derde en vijfde lid, naar voren hebben gebracht, kan het UWV het verzoek om toestemming om de arbeidsovereenkomst op te zeggen op grond van [artikel 669, derde lid, onderdeel a, van Boek 7 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=669) en de daarop betrekking hebbende gegevens en bescheiden voor advies aan de ontslagadviescommissie voorleggen.
+Na ontvangst van het in [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036593&paragraaf=2&artikel=4&z=2016-01-01&g=2016-01-01), bedoelde verweer van de werknemer dan wel nadat de werkgever en werknemer hun zienswijze krachtens artikel 4, tweede, derde en vijfde lid, naar voren hebben gebracht, kan het UWV het verzoek om toestemming om de arbeidsovereenkomst op te zeggen op grond van [artikel 669, derde lid, onderdeel a, van Boek 7 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=669) en de daarop betrekking hebbende gegevens en bescheiden voor advies aan de ontslagadviescommissie voorleggen.
 
 ##### Artikel 7. Geen toestemming bij opzegverbod
 
-Indien uit een verzoek om toestemming, of tijdens de behandeling daarvan blijkt dat een opzegverbod als bedoeld in [artikel 670, eerste tot en met vierde en tiende lid, van Boek 7 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=670), of een met deze opzegverboden naar aard en strekking vergelijkbaar opzegverbod in een ander wettelijk voorschrift geldt, geeft het UWV geen toestemming om de arbeidsovereenkomst op te zeggen, tenzij redelijkerwijs verwacht mag worden dat het opzegverbod binnen vier weken na de dag waarop het UWV beslist op het verzoek niet meer geldt.
+Vervallen
 
 ##### Artikel 8. Beoordeling financiële omstandigheden
 
@@ -104,7 +104,7 @@ Indien uit een verzoek om toestemming, of tijdens de behandeling daarvan blijkt 
 
 2. Een verzoek als bedoeld in het eerste lid wordt door de werkgever gelijktijdig met het verzoek om toestemming gedaan.
 
-3. Een verzoek als bedoeld in het eerste lid wordt door de werknemer ten laatste gelijktijdig met zijn verweer, bedoeld in [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036593&paragraaf=2&artikel=4&z=2015-07-01&g=2015-07-01), gedaan.
+3. Een verzoek als bedoeld in het eerste lid wordt door de werknemer ten laatste gelijktijdig met zijn verweer, bedoeld in [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036593&paragraaf=2&artikel=4&z=2016-01-01&g=2016-01-01), gedaan.
 
 4. Dit artikel vervalt met ingang van 1 januari 2020.
 
