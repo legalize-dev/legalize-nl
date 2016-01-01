@@ -4,7 +4,7 @@ identifier: "BWBR0002080"
 country: "nl"
 rank: "wet"
 publication_date: "2023-01-01"
-last_updated: "2015-01-01"
+last_updated: "2016-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0002080"
 soort: "wet"
@@ -81,7 +81,7 @@ Er zijn vier gerechtshoven, die als volgt worden aangeduid:
 
 ##### Artikel 3
 
-Het rechtsgebied van een rechtbank onderscheidenlijk gerechtshof omvat het in [paragraaf 2](https://wetten.overheid.nl/jci1.3:c:BWBR0002080&paragraaf=2&z=2015-01-01&g=2015-01-01) onderscheidenlijk [paragraaf 3](https://wetten.overheid.nl/jci1.3:c:BWBR0002080&paragraaf=3&z=2015-01-01&g=2015-01-01) als zodanig genoemde arrondissement onderscheidenlijk ressort.
+Het rechtsgebied van een rechtbank onderscheidenlijk gerechtshof omvat het in [paragraaf 2](https://wetten.overheid.nl/jci1.3:c:BWBR0002080&paragraaf=2&z=2016-01-01&g=2016-01-01) onderscheidenlijk [paragraaf 3](https://wetten.overheid.nl/jci1.3:c:BWBR0002080&paragraaf=3&z=2016-01-01&g=2016-01-01) als zodanig genoemde arrondissement onderscheidenlijk ressort.
 
 ##### Artikel 4
 
@@ -97,11 +97,11 @@ Het arrondissement Limburg omvat het grondgebied van de provincie Limburg.
 
 ##### Artikel 7
 
-Het arrondissement Midden-Nederland omvat het grondgebied van de provincies Flevoland en Utrecht alsmede van de gemeenten Blaricum, Bussum, Hilversum, Huizen, Laren, Muiden, Naarden, Weesp en Wijdemeren.
+Het arrondissement Midden-Nederland omvat het grondgebied van de provincies Flevoland en Utrecht alsmede van de gemeenten Blaricum, Gooise Meren, Hilversum, Huizen, Laren, Weesp en Wijdemeren.
 
 ##### Artikel 8
 
-Het arrondissement Noord-Holland omvat het grondgebied van de gemeenten Alkmaar, Beemster, Bergen, Beverwijk, Bloemendaal, Castricum Den Helder, Drechterland, Edam-Volendam, Enkhuizen, Haarlem, Haarlemmerliede en Spaarnwoude, Haarlemmermeer, Heemskerk, Heemstede, Heerhugowaard, Heiloo, Hollands Kroon, Hoorn, Koggenland, Landsmeer, Langedijk, Medemblik, Oostzaan, Opmeer, Purmerend, Schagen, Stede Broec, Texel, Uitgeest, Velsen, Watersland, Wormerland, Zaanstad, Zandvoort en Zeevang.
+Het arrondissement Noord-Holland omvat het grondgebied van de gemeenten Alkmaar, Beemster, Bergen, Beverwijk, Bloemendaal, Castricum Den Helder, Drechterland, Edam-Volendam, Enkhuizen, Haarlem, Haarlemmerliede en Spaarnwoude, Haarlemmermeer, Heemskerk, Heemstede, Heerhugowaard, Heiloo, Hollands Kroon, Hoorn, Koggenland, Landsmeer, Langedijk, Medemblik, Oostzaan, Opmeer, Purmerend, Schagen, Stede Broec, Texel, Uitgeest, Velsen, Watersland, Wormerland, Zaanstad en Zandvoort.
 
 ##### Artikel 9
 
