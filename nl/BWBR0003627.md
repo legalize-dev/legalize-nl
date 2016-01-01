@@ -4,7 +4,7 @@ identifier: "BWBR0003627"
 country: "nl"
 rank: "amvb"
 publication_date: "2025-01-01"
-last_updated: "2012-05-19"
+last_updated: "2016-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0003627"
 soort: "AMvB"
@@ -110,19 +110,19 @@ De coördinaten zijn uitgedrukt in lengte en breedte volgens het World Geodetic 
 
 ##### Artikel 3
 
-In dit besluit wordt verstaan onder Onze Minister: Onze Minister van Verkeer en Waterstaat.
+In dit besluit wordt verstaan onder Onze Minister: Onze Minister van Infrastructuur en Milieu.
 
 ##### Artikel 4
 
-1. Onze Minister stelt de voorschriften en de regelen vast, bedoeld in de [artikelen 1.01, onder C, 3° en 4°](https://wetten.overheid.nl/jci1.3:c:BWBR0003628&artikel=1.01), 4.06, eerste lid, onder a, en derde lid, [6.32, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003628&artikel=6.32), [9.07, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003628&artikel=9.07), en [10.02, eerste lid, van het Binnenvaartpolitiereglement](https://wetten.overheid.nl/jci1.3:c:BWBR0003628&artikel=10.02).
+1. Onze Minister stelt de voorschriften en de nadere regels vast, bedoeld in de [artikelen 1.01, aanhef en onder C, onderdelen 3° en 4°](https://wetten.overheid.nl/jci1.3:c:BWBR0003628&artikel=1.01), [4.06, eerste lid, onder a, en derde lid,](https://wetten.overheid.nl/jci1.3:c:BWBR0003628&artikel=4.06)[6.32, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003628&artikel=6.32), [9.02, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003628&artikel=9.02), [9.07, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003628&artikel=9.07), en [10.02, eerste lid, van het Binnenvaartpolitiereglement](https://wetten.overheid.nl/jci1.3:c:BWBR0003628&artikel=10.02).
 
-2. Onze Minister wijst de instantie aan, bedoeld in artikel 4.06, eerste lid, onder a, van het Binnenvaartpolitiereglement.
+2. Onze Minister wijst de instantie aan, bedoeld in [artikel 4.06, eerste lid, onder a, van het Binnenvaartpolitiereglement](https://wetten.overheid.nl/jci1.3:c:BWBR0003628&artikel=4.06).
 
-3. Onze Minister wijst de vaarwegen aan, bedoeld in de artikelen 4.06, derde en vierde lid, en [10.02, eerste lid, van het Binnenvaartpolitiereglement](https://wetten.overheid.nl/jci1.3:c:BWBR0003628&artikel=10.02).
+3. Onze Minister wijst de vaarwegen aan, bedoeld in de [artikelen 4.06, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003628&artikel=4.06), en [10.02, eerste lid, van het Binnenvaartpolitiereglement](https://wetten.overheid.nl/jci1.3:c:BWBR0003628&artikel=10.02).
 
-4. Onze Minister wijst de marifoonkanalen aan, bedoeld in de [artikelen 4.05, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003628&artikel=4.05), 4.06, tweede lid, en [6.32, derde en vierde lid, van het Binnenvaartpolitiereglement](https://wetten.overheid.nl/jci1.3:c:BWBR0003628&artikel=6.32).
+4. Onze Minister wijst de marifoonkanalen aan, bedoeld in de [artikelen 4.05, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003628&artikel=4.05), [4.06, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003628&artikel=4.06), en [6.32, derde en vierde lid, van het Binnenvaartpolitiereglement](https://wetten.overheid.nl/jci1.3:c:BWBR0003628&artikel=6.32).
 
-5. Onze Minister wijst de categorieën van schepen aan, bedoeld in artikel 4.06, vierde lid, van het Binnenvaartpolitiereglement.
+5. Onze Minister wijst de categorieën van schepen aan, bedoeld in [artikel 4.06, vierde lid, van het Binnenvaartpolitiereglement](https://wetten.overheid.nl/jci1.3:c:BWBR0003628&artikel=4.06).
 
 ##### Artikel 5
 
@@ -142,7 +142,7 @@ Vervallen
 
 ##### Artikel 7
 
-De besluiten, bedoeld in de [artikelen 4](https://wetten.overheid.nl/jci1.3:c:BWBR0003627&artikel=4&z=2012-05-19&g=2012-05-19) en [5](https://wetten.overheid.nl/jci1.3:c:BWBR0003627&artikel=5&z=2012-05-19&g=2012-05-19) worden in de **Staatscourant** geplaatst.
+De besluiten, bedoeld in de [artikelen 4](https://wetten.overheid.nl/jci1.3:c:BWBR0003627&artikel=4&z=2016-01-01&g=2016-01-01) en [5](https://wetten.overheid.nl/jci1.3:c:BWBR0003627&artikel=5&z=2016-01-01&g=2016-01-01) worden in de **Staatscourant** geplaatst.
 
 ##### Artikel 7a
 
@@ -178,6 +178,6 @@ Een wijziging van [richtlijn nr. 2002/59/EG](32002L0059) van het Europees Parlem
 
 ## Bijlage. Binnenvaartpolitiereglement (BPR)
 
-[Binnenvaartpolitiereglement](https://wetten.overheid.nl/jci1.3:c:BWBR0003628)
+[Binnenvaartpolitiereglement](https://wetten.overheid.nl/jci1.3:c:BWBR0003628&wetgeving)
 
 Lasten en bevelen, dat dit besluit met de daarbij behorende nota van toelichting en de bijlage bij deze laatste, alsmede het bij dit besluit gevoegde Binnenvaartpolitiereglement in het **Staatsblad** zullen worden geplaatst en dat daarvan afschrift zal worden gezonden aan de Raad van State.
