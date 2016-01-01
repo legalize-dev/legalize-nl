@@ -4,7 +4,7 @@ identifier: "BWBR0036921"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2018-06-23"
-last_updated: "2015-08-01"
+last_updated: "2016-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0036921"
 soort: "ministeriele-regeling"
@@ -64,7 +64,7 @@ Voor de toepassing van Titel III, Hoofdstuk 1, van [Verordening (EG) nr. 883/200
 
 ##### Artikel 4
 
-Het [Besluit van de Minister van Volksgezondheid, Welzijn en Sport van 7 februari 2014, kenmerk 195822-116964-Z, houdende de aanwijzing van enige organen ingevolge Verordening (EG) nr. 883/2004](https://wetten.overheid.nl/jci1.3:c:BWBR0034808&wetgeving), wordt ingetrokken met ingang van de datum waarop dit besluit in werking treedt.
+Het [Besluit van de Minister van Volksgezondheid, Welzijn en Sport van 7 februari 2014, kenmerk 195822-116964-Z, houdende de aanwijzing van enige organen ingevolge Verordening (EG) nr. 883/2004](https://wetten.overheid.nl/jci1.3:c:BWBR0034808), wordt ingetrokken met ingang van de datum waarop dit besluit in werking treedt.
 
 Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin het wordt geplaatst en werkt terug tot en met 1 augustus 2015.
 
