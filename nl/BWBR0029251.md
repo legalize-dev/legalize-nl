@@ -4,7 +4,7 @@ identifier: "BWBR0029251"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2019-03-30"
-last_updated: "2015-07-04"
+last_updated: "2016-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0029251"
 soort: "ministeriele-regeling"
@@ -78,19 +78,19 @@ Het dagelijks bestuur van een medeoverheid zendt de informatie, bedoeld in [arti
 
 ##### Artikel 3
 
-1. De bijlage bij de jaarrekening met de verantwoordingsinformatie per specifieke uitkering als bedoeld in [artikel 58a van het Besluit begroting en verantwoording provincies en gemeenten](https://wetten.overheid.nl/jci1.3:c:BWBR0014606&artikel=58a) wordt ingericht overeenkomstig de bij deze regeling behorende [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0029251&bijlage=1&z=2015-07-04&g=2015-07-04).
+1. De bijlage bij de jaarrekening met de verantwoordingsinformatie per specifieke uitkering als bedoeld in [artikel 58a van het Besluit begroting en verantwoording provincies en gemeenten](https://wetten.overheid.nl/jci1.3:c:BWBR0014606&artikel=58a) wordt ingericht overeenkomstig de bij deze regeling behorende [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0029251&bijlage=1&z=2016-06-17&g=2016-01-01).
 
-2. De bijlage bij het verslag van bevindingen met de verslaglegging van fouten en onzekerheden wordt ingericht overeenkomstig de bij deze regeling behorende [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0029251&bijlage=2&z=2015-07-04&g=2015-07-04).
+2. De bijlage bij het verslag van bevindingen met de verslaglegging van fouten en onzekerheden wordt ingericht overeenkomstig de bij deze regeling behorende [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0029251&bijlage=2&z=2016-06-17&g=2016-01-01).
 
 ##### Artikel 4
 
-De in de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0029251&paragraaf=2&artikel=2&z=2015-07-04&g=2015-07-04) en [3](https://wetten.overheid.nl/jci1.3:c:BWBR0029251&paragraaf=2&artikel=3&z=2015-07-04&g=2015-07-04) bedoelde informatie wordt elektronisch aangeleverd, overeenkomstig de bij deze regeling behorende [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0029251&bijlage=3&z=2015-07-04&g=2015-07-04).
+De in de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0029251&paragraaf=2&artikel=2&z=2016-06-17&g=2016-01-01) en [3](https://wetten.overheid.nl/jci1.3:c:BWBR0029251&paragraaf=2&artikel=3&z=2016-06-17&g=2016-01-01) bedoelde informatie wordt elektronisch aangeleverd, overeenkomstig de bij deze regeling behorende [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0029251&bijlage=3&z=2016-06-17&g=2016-01-01).
 
 #### § 3. Mededeling vanwege de minister
 
 ##### Artikel 5
 
-De minister deelt aan het dagelijks bestuur van de desbetreffende medeoverheid mede of de verstrekte informatie naar zijn oordeel voldoet aan de [artikelen 2 tot en met 4](https://wetten.overheid.nl/jci1.3:c:BWBR0029251&paragraaf=2&artikel=2&z=2015-07-04&g=2015-07-04).
+De minister deelt aan het dagelijks bestuur van de desbetreffende medeoverheid mede of de verstrekte informatie naar zijn oordeel voldoet aan de [artikelen 2 tot en met 4](https://wetten.overheid.nl/jci1.3:c:BWBR0029251&paragraaf=2&artikel=2&z=2016-06-17&g=2016-01-01).
 
 #### § 4. Herziening
 
@@ -126,7 +126,7 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 op grond van [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0029251&paragraaf=2&artikel=4&z=2013-12-06&g=2012-01-01) van de Regeling informatieverstrekking sisa
 
-### Toelichting op de procedure van de verantwoordingsinformatie via SiSa, op grond van [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0029251&paragraaf=2&artikel=4&z=2015-07-04&g=2015-07-04) van de Regeling informatieverstrekking SiSa
+### Toelichting op de procedure van de verantwoordingsinformatie via SiSa, op grond van [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0029251&paragraaf=2&artikel=4&z=2016-06-17&g=2016-01-01) van de Regeling informatieverstrekking SiSa
 
 ### Inhoudsopgave
 
@@ -710,53 +710,53 @@ Deze bijlage bevat vier voorbeeldbrieven:
 
 Aan de Minister van Binnenlandse Zaken en Koninkrijksrelaties,
 
-Hierbij treft u de verantwoording over de specifieke uitkeringen van (jaartal) aan. De verantwoording bestaat uit de jaarstukken, zijnde de jaarrekening en het jaarverslag als bedoeld in [artikel 17a, eerste lid, onderdeel a van de Financiële-verhoudingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0008290&artikel=17a), en de accountantsverklaring en het verslag van bevindingen als bedoeld in artikel 17a, eerste lid, onderdeel b van de Financiële-verhoudingswet.
+Versie 11 januari 2016
 
 De aangeleverde Excel-bestanden zijn inhoudelijk gelijk aan de SiSa-bijlage, zoals opgenomen in de jaarrekening en aan de tabel met fouten en onzekerheden in het verslag van bevindingen van de accountant.
 
-De jaarstukken zijn d.d. (datum) door de gemeenteraad / provinciale staten / het bestuur van de gemeenschappelijke regeling vastgesteld.
+SiSa staat voor: Single information, Single audit, eenmalige informatieverstrekking, eenmalige accountantscontrole. SiSa is sinds 2006 de manier waarop medeoverheden (provincies, gemeenten en gemeenschappelijke regelingen) zich per jaar verantwoorden over de besteding van specifieke uitkeringen en /of vanaf 2015 provinciale middelen van een aantal provincies (vanaf 2015: Fryslân en vanaf 2016 ook Groningen en Drenthe). Om de lasten van de verantwoording zo laag mogelijk te houden, is SiSa volledig ingebed in het reguliere jaarrekeningproces van de medeoverheden. De verantwoording via SiSa is vastgelegd in [artikel 17a Financiële-verhoudingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0008290&artikel=17a) en nader geregeld in de **Regeling informatieverstrekking sisa** (nr. 2010-0000812461). Naast de [Financiële verhoudingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0008290), zijn ook het **Besluit begroting en verantwoording** (BBV), het [Besluit accountantscontrole decentrale overheden](https://wetten.overheid.nl/jci1.3:c:BWBR0015524) (Bado) en de **kadernota rechtmatigheid** van toepassing.
 
-Namens het college van burgemeester en wethouders / gedeputeerde staten / het dagelijks bestuur van de gemeenschappelijke regeling,
+Deze invulwijzer is een handleiding voor het invullen van het format voor de SiSa-bijlage verantwoordingsinformatie (hierna: de SiSa-bijlage of het format). Deze invulwijzer is geen vervanging van de bepalingen in de regelgeving die op de specifieke uitkeringen of verantwoording over provinciale middelen van toepassing zijn. Bij eventuele tegenstrijdigheden prevaleert de relevante regelgeving. De procedure om de verantwoordingsstukken in te dienen bij de verstrekkers van de uitkeringen is beschreven in de ‘**procedure aanlevering verantwoordingsinformatie**’.
 
-35Doorhalen wat niet van toepassing is.
+Deze invulwijzer bevat een algemene en een specifieke toelichting. De specifieke toelichting bevat per specifieke uitkering of uitgekeerde provinciale middelen aanwijzingen hoe de SiSa-bijlage dient te worden ingevuld. De algemene toelichting gaat in op onderwerpen die de individuele regelingen overstijgen. De invulwijzer wordt met regelmaat bijgewerkt. Wij adviseren u om een snelkoppeling te maken naar dit document via www.rijksoverheid.nl/sisa. Bij deze versie is uitgegaan van wet- en regelgeving zoals dat op d.d. 1 januari 2015 bekend was, tenzij in het loop van het jaar deze wet- en regelgeving is aangepast of gewijzigd.
 
 ### 2a. Voorbeeld aanbiedingsbrief correcties/aanvullingen als de strekking van de controleverklaring door de aanpassing is gewijzigd
 
 Aan de minister van [het betreffende departement]/dagelijks bestuur van de verstrekkende medeoverheid,36Doorhalen wat niet van toepassing is.
 
-Hierbij treft u een correctie/aanvulling van de verantwoording over de specifieke uitkeringen van (jaartal) aan. Na vaststelling van de jaarstukken is er een fout ontdekt in (bijvoorbeeld de regeling Quick Wins Binnenhavens). Ten opzichte van de jaarstukken d.d. (vorige aanbiedingsdatum) zijn de jaarstukken op de volgende punten gewijzigd:
+Het volledige format van de SiSa-bijlage verantwoordingsinformatie 2015 bevat minder regelingen dan in het format van de SiSa-bijlage verantwoordingsinformatie 2014 (42 regelingen). Mede hierdoor is ook de omvang van de volledige tabel verminderd. Voor regelingen die vervallen zijn, hoeft geen verantwoordingsinformatie meer via SiSa/CBS te worden aangeleverd. Alle substantiële wijzigingen ten opzichte van 2014 zijn in dit hoofdstuk uiteen gezet.
 
-De strekking van de controleverklaring is door deze aanpassing gewijzigd. De gewijzigde bevindingen van de accountant zijn verwoord in het verslag van bevindingen. De aanpassing is op (datum) door de gemeenteraad/ provinciale staten/ het algemeen bestuur van de gemeenschappelijke regeling37Doorhalen wat niet van toepassing is. vastgesteld.
+Een belangrijke wijziging in 2014 en 2015 is de afbouw van de verzameluitkering. Een verzameluitkering is een specifieke uitkering aan provincies en gemeenten per ministerie waarin bedragen voor beleidsthema’s zijn opgenomen. Een financiële verantwoordingsplicht aan het Rijk via de verzameluitkering wordt niet langer opportuun geacht. Verzameluitkeringen zijn in 2014 of in 2015 beëindigd of uitgekeerd via een decentralisatie-uitkering.
 
-Namens het college van burgemeester en wethouders / gedeputeerde staten / het dagelijks bestuur van de gemeenschappelijke regeling*,
+Een tweede belangrijke wijziging is de verantwoording van het participatiebudget, dat is veranderd vanwege de decentralisaties. Vanwege deze veranderingen en de SiSa tussen medeoverheden ziet de verantwoording van het participatiebudget als volgt uit:
 
-Doorhalen wat niet van toepassing is.
+En de laatste belangrijke wijziging is dat er vanaf SiSa 2015 toevoegingen zullen komen van regelingen van een aantal provincies (te weten de provincies Fryslân, Groningen en Drenthe). Deze provincies zullen over verstrekte provinciale middelen (of een gedeelte daarvan) aan gemeenten of gemeenschappelijke regelingen financiële verantwoording vragen via de SiSa methodiek. De procedure en werkwijze om de verantwoordingsstukken in te dienen bij de verstrekkers (in dit geval de provincies), is hetzelfde als de huidige werkwijze bij de regelingen SiSa tussen medeoverheden tenzij nadrukkelijk in tekst en toelichting is aangegeven dat hiervan wordt afgeweken. De provincies zullen in de beschikkingen aan de ontvanger duidelijk aangeven of deze regeling wel of niet via SiSa verantwoord dient te worden. Neem bij twijfel of vragen contact op met de betreffende provincie of met het ministerie van BZK. In 2015 gaat het om 1 regeling: te weten Programma Bereikbaar Leeuwarden. In SiSa 2016 volgen er meer en zal deze nieuwe werkwijze ook worden geëvalueerd.
 
-### 2b. Voorbeeld aanbiedingsbrief correcties/aanvullingen als de strekking van de controleverklaring door de aanpassing niet is gewijzigd en de stukken ter informatie aan de provinciale staten/ gemeenteraad/ algemeen bestuur van de gemeenschappelijke regeling worden voorgelegd
+### 2.1. Vervallen regelingen
 
-Aan de minister van [het betreffende departement]/dagelijks bestuur van de verstrekkende medeoverheid,39Doorhalen wat niet van toepassing is.
+Er is geen verantwoordingsinformatie via SiSa nodig voor vervallen regelingen.
 
 Hierbij treft u een correctie/aanvulling van de verantwoording over de specifieke uitkeringen van (jaartal) aan. Na vaststelling van de jaarstukken is er een fout ontdekt in (bijvoorbeeld de regeling Quick Wins Binnenhavens). Ten opzichte van de jaarstukken d.d. (vorige aanbiedingsdatum) zijn de jaarstukken op de volgende punten gewijzigd:
 
 De strekking van de controleverklaring is door deze aanpassing niet gewijzigd. De (niet) gewijzigde bevindingen van de accountant zijn verwoord in het verslag van bevindingen.
 
-De aanpassing is ter informatie op (datum) aan de gemeenteraad/ provinciale staten/het algemeen bestuur van de gemeenschappelijke regeling40Doorhalen wat niet van toepassing is. aangeboden.
+Zowel als gevolg van voortschrijdend inzicht als de wens tot verheldering zijn binnen een aantal regelingen aanpassingen doorgevoerd in de omschrijving van de indicatoren. Als dit aan de orde is bij een bepaalde regeling, is dit vermeld bij de specifieke toelichting per regeling.
 
 Namens het college van burgemeester en wethouders / gedeputeerde staten / het dagelijks bestuur van de gemeenschappelijke regeling*,
 
-41Doorhalen wat niet van toepassing is.
+Bij verschillende specifieke uitkeringen worden veranderingen verwacht.36Dit zijn verwachtingen voor zover bekend op publicatiedatum van deze invulwijzer. Deze verwachtingen kunnen veranderen en er kunnen derhalve geen rechten aan worden ontleend.
 
-### 2c. Voorbeeld aanbiedingsbrief correcties/aanvullingen als de strekking van de controleverklaring door de aanpassing niet is gewijzigd en de stukken worden ter vaststelling aan de provinciale staten/ gemeenteraad/ algemeen bestuur van de gemeenschappelijke regeling voorgelegd
+### 2.5. Aansluiting met overzichten met specifieke uitkeringen
 
-Aan de [verstrekker van de specifieke uitkering],
+Het ministerie van BZK stelt jaarlijks, op basis van de begrotingen van de departementen, het Onderhoudsrapport Specifieke Uitkeringen (OSU) op. Soms wordt er op andere manieren, bijvoorbeeld beantwoording van Kamervragen, gerapporteerd over het aantal specifieke uitkeringen. Doorgaans bevat de SiSa-bijlage meer regelingen dan er specifieke uitkeringen worden gerapporteerd (zoals in vergelijking met het OSU). Dat komt omdat overzichten rapporteren over de uitkeringen die nog daadwerkelijk worden verstrekt (‘actuele uitkeringen’). De SiSa-bijlage bevat naast deze uitkeringen ook uitkeringen die nog moeten worden verantwoord, maar inmiddels niet meer worden verstrekt (‘administratieve uitkeringen’). Een andere belangrijke verklaring voor de verschillende aantallen is de definitie van de termen ‘regeling’ en ‘specifieke uitkering’. Deze begrippen betekenen niet hetzelfde. Eén specifieke uitkering kan meerdere regelingen omvatten, zoals de gebundelde uitkering die drie regelingen omvat: G2, G2A en G2B. Vanaf SiSa 2015 en SiSa 2016, zullen er ook verschillen ontstaan doordat een aantal provincies de methode SiSa zullen gebruiken voor de verantwoording van verstrekte provinciale middelen.
 
 Bijgaand treft u een correctie/aanvulling van de verantwoording over de specifieke uitkeringen van (jaartal) aan. Na vaststelling van de jaarstukken is er een fout ontdekt in (bijvoorbeeld de regeling Quick Wins Binnenhavens). Ten opzichte van de jaarstukken d.d. (vorige vaststellingsdatum) zijn de jaarstukken op de volgende punten gewijzigd:
 
-De strekking van de controleverklaring is door deze aanpassing niet gewijzigd. De (niet) gewijzigde bevindingen van de accountant zijn verwoord in het verslag van bevindingen.
+**Hier vindt u een toelichting voor het werken met het Excel-bestand.**
 
 De aanpassing is op (datum) door de gemeenteraad/ provinciale staten/ het algemeen bestuur van de gemeenschappelijke42Doorhalen wat niet van toepassing is. regeling vastgesteld.
 
-Namens het college van burgemeester en wethouders / gedeputeerde staten / het dagelijks bestuur van de gemeenschappelijke regeling,
+1 De afkorting voor de verstrekker (naam van het ministerie of de provincie).
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
@@ -805,5 +805,577 @@ Versie 9 januari 2015
 ### 1. : Voorbeeld aanbiedingsbrief procedure 15 juli
 
 ¹ Doorhalen wat niet van toepassing is.
+
+Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
+
+## Bijlage 4. bij de Regeling informatieverstrekking sisa: Invulwijzer SiSa-bijlage 2015
+
+### 1. Inleiding
+
+Kijk dan direct hieronder op pagina 5 voor wijzigingen ten opzichte van 2014.
+
+### 2. Wijzigingen ten opzichte van 2014
+
+### 2.2. Nieuwe regelingen
+
+### 2.3. Wijzigingen bestaande regelingen
+
+### 2.4. Verwachtingen SiSa 2016 en verder
+
+### 3. Het Excel-bestand: Technische aspecten
+
+### 3.1. Legenda
+
+Vanaf SiSa 2016 worden toegevoegd:
+
+2 Het nummer van de regeling. Per specifieke uitkering / uitgekeerde provinciale middelen kunnen meerdere regelingen bestaan. Gebruik dit nummer bij de communicatie met de verstrekker van de specifieke uitkering of het ministerie van BZK (via het vragenformulier op de website www.rijksoverheid.nl/sisa).
+
+3 De naam van de specifieke uitkering of de uitgekeerde provinciale middelen.
+
+4 De wettelijke basis voor het bestaan van de specifieke uitkering of de provinciale middelen. In de wettekst is ook meer informatie over de te verantwoorden indicatoren opgenomen. Zoek de teksten via www.wetten.nl.
+
+5 Het type medeoverheid dat de specifieke uitkering of de provinciale middelen ontvangt.
+
+6 De omschrijving van de indicator (te verantwoorden eenheid). Een specifieke uitkering / uitkering van provinciale middelen kan verschillende aantallen en soorten indicatoren hebben. Lees de omschrijving en de toelichting voorafgaand aan het invullen.
+
+De omschrijving (jaar T) heeft betrekking op het kalenderjaar waarover gegevens moeten worden verantwoord. Voor 2015 geldt de volgende conversietabel:
+
+7 Aard controle is een aanwijzing voor de manier waarop de accountant deze indicator controleert. Het format kent vier verschillende vormen: R, D1, D2 en n.v.t.. In de nota verwachtingen accountantscontrole, te vinden via http://www.rijksoverheid.nl/sisa (hierna: de website) zijn deze termen verder toegelicht.
+
+8 Het indicatornummer. Elke indicator in het format heeft een uniek nummer, gevormd door het nummer van de regeling aangevuld met de volgorde waarin de indicator in het format is vermeld. Gebruik dit nummer bij de communicatie met de verstrekker van de specifieke uitkering of de uitgekeerde provinciale middelen of met het ministerie van BZK (via het vragenformulier op de website www.rijksoverheid.nl/sisa).
+
+9 De witte invulcel. Hier vult de medeoverheid de voor de eigen organisatie te verantwoorden informatie in. Het invullen van deze cel is **verplicht**. Zie ook de toelichting bij 3.2 De betekenis van de kleuren. Bij sommige regelingen is het mogelijk meer regels in te vullen. Zie daarvoor de toelichting bij 3.3 Het vullen van de invulcellen.
+
+10 De groene invulcel. Het invullen van deze cel is **niet** verplicht. Als de medeoverheid daarvoor kiest, kan ook hier de voor de eigen organisatie te verantwoorden informatie ingevuld worden. Zie ook de toelichting bij 3.2 De betekenis van de kleuren. Bij sommige regelingen is het mogelijk meer regels in te vullen. Zie daarvoor de toelichting bij 3.3 Het vullen van de invulcellen.
+
+### 3.2. De betekenis van de kleuren
+
+Het format bevat verschillende kleuren met ieder een betekenis:
+
+### 3.3. Het vullen van de invulcellen
+
+### 3.4. Het verbergen van rijen
+
+Het format-op-maat van de SiSa-bijlage bevat bij regelingen waarbij per beschikking moet worden verantwoordt, de mogelijkheid om meerdere beschikkingsnummers in te vullen. Hiervoor zijn (meestal) 100 rijen beschikbaar. Als u het format zo compact mogelijk wilt gebruiken en/of printen, kunt u de rijen die u niet nodig heeft verbergen. Verbergen in Excel kan door op de rij(en) te gaan staan, op de rechtermuisknop te klikken en op ‘verbergen’ te klikken. We raden u aan om:
+
+Let op: U kan niet extra rijen gebruiken voor het geven van een toelichting en daarbij andere ‘witte’ (verplichte) cellen op diezelfde regel leeg laten. Het systeem bij het CBS dat de ingediende bijlage controleert op vormvereisten ziet dat dan als het ‘niet invullen van verplichte cellen’ en beoordeelt de aanlevering als niet plausibel.
+
+### 3.5. Opmaak van een cel wijzigen
+
+De opmaak van de verplicht in te vullen cellen kan niet gewijzigd worden. Als u in een bepaalde cel een aantal wilt invullen, en de opmaak geeft een bedrag in euro’s weer, kan het of een fout zijn in het format, of een verkeerde interpretatie van de verantwoordingsinformatie die gevraagd wordt. Bij twijfel: lees de toelichting in deze nota. Staat uw vraag er niet bij gebruik dan het vragenformulier op de website.
+
+### 3.6. Opmaak van cellen met toelichting wijzigen
+
+De opmaak van cellen waarin om een toelichting gevraagd wordt, is ingesteld op het verwerken van 255 tekens. De functie ‘terugloop’ staat standaard ingesteld bij deze cellen, zodat als de inhoud van de tekst groter is dan de cel, het format de opmaak automatisch aanpast.
+
+Als u een tekst uit een ander bestand in een invulcel plakt, werkt de terugloop niet altijd. Dit kan worden voorkomen door de tekst te plakken in de formulebalk bovenaan het scherm of door te plakken ‘zonder opmaak’. Mocht dit in uw geval niet werken, controleert u dan in de formulebalk boven in het scherm of de gehele tekst daarin wel is opgenomen. Als dat het geval is, hoeft u zich voor de doorlevering geen zorgen te maken; het CBS stuurt bij de verwerking wel de volledige tekst door. Als u voor uw eigen gebruik de tekst wel zichtbaar wilt maken, kunt u de kolombreedte aanpassen. In het format is de breedte aan te passen door middel van de extra knoppen die verschijnen in de werkbalk.
+
+U kunt er ook voor kiezen om in de toelichtende tekst te verwijzen naar een tekst die elders in de jaarrekening is opgenomen. Voeg in dat geval de desbetreffende paginanummers toe, zodat degenen die de informatie moeten beoordelen de toelichtende tekst terug kunnen vinden.
+
+### 3.7. Kolommen breder of smaller maken
+
+U kunt de opmaak van de kolommen van het format breder of smaller maken zodat de tekst die u wilt invullen beter leesbaar is in uw jaarrekening conform de gebruikelijke werkwijze daarvoor in Excel.
+
+### 3.8. Welk bestand indienen bij het CBS?
+
+Voor het aanleveren van de SiSa-stukken kunt u bij het CBS alléén het format indienen welke u heeft ontvangen via een e-mail van het CBS. Meer over de aanlevering leest u in de **procedure aanlevering verantwoordingsinformatie**. Op het tabblad ‘algemeen’ in het format vindt u de versie-aanduiding.
+
+Heeft u technische problemen met het format, bijvoorbeeld vanwege andere programmatuur, neemt u dan contact op met het ministerie van BZK via het contactformulier op de website.
+
+De afgelopen jaren zijn sommige provincies gebruik gaan maken van een provinciale SiSa-bijlage. Via deze provinciale bijlage vraagt de provincie om de verantwoording over subsidies die met eigen provinciale middelen aan medeoverheden worden verstrekt. Dit betreft een andere verantwoording dan SiSa. Het is derhalve niet toegestaan de provinciale bijlage in te dienen bij het CBS. Controleer bij twijfel de verantwoordingslijst. Komt uw organisatie niet voor op die verantwoordingslijst, en u heeft wel van de provincie het verzoek gekregen via SiSa te verantwoorden, neem dan contact op met de provincie.
+
+### 3.9. Een fout in het Excelbestand?
+
+Meent u dat er een fout in het Excel-bestand zit, bijvoorbeeld als een bepaalde witte cel niet door u ingevuld kan worden of de witte cel eigenlijk een groene cel zou moeten zijn: neem dan zo spoedig mogelijk contact op met het ministerie van BZK via de **website**. Het ministerie van BZK stelt u alertheid op prijs, mede omdat in het geval van een fout het ook voor andere medeoverheden van belang is dit zo snel mogelijk te signaleren.
+
+Maak bij twijfel over de juistheid of het al dan niet van toepassing zijn van een indicator geen eigen keuzes om de verantwoording snel te kunnen indienen.
+
+### 4. Specifieke toelichting (per regeling)
+
+**Hier vindt u een toelichting per specifieke uitkering en een toelichting voor indicatoren die uniek zijn voor de betreffende regeling. De specifieke toelichting bevat per specifieke uitkering aanwijzingen hoe de SiSa-bijlage dient te worden ingevuld. Een toelichting voor indicatoren die bij meerdere regelingen voorkomen, staat in hoofdstuk 5 Algemene toelichting. Bij de indicatoren zijn zoveel als mogelijk verwijzingen toegevoegd naar nadere informatie. Deze invulwijzer is een handleiding voor het invullen van het format voor de SiSa-bijlage verantwoordingsinformatie (hierna: de SiSa-bijlage of: het format). Deze invulwijzer is geen vervanging van de bepalingen in de regelgeving die op de specifieke uitkeringen van toepassing is. Bij eventuele tegenstrijdigheden prevaleert de relevante regelgeving.**
+
+### A2. Brede DoelUitkering Rampenbestrijding (BDUR)
+
+Doelgroep: veiligheidsregio’s
+
+Relevante wet- en regelgeving:
+
+### C7C. Investering Stedelijke Vernieuwing (ISV) II
+
+Doelgroep: Project-gemeenten (SiSa tussen medeoverheden)
+
+Relevante wet- en regelgeving:
+
+Zie 5.9 SiSa tussen medeoverheden. Er is een verschil in behandeling tussen ISV I, II en III. Alleen ISV II wordt via SiSa verantwoord.37Met uitzondering van de provincie Noord-Holland. In deze provincie wordt ISV-I ook via SiSa verantwoord. In 2007 is voor de ISV II-periode een start gemaakt met de SiSa tussen mede overheden. ISV I-projecten worden niet via de SiSa-bijlage afgerekend, maar via een afzonderlijke accountantsverklaring voorzien van een gewaarmerkte (financiële) eindverantwoording. Vanaf 2011 worden de ISV middelen als decentralisatie-uitkering in het provinciefonds gestort. De ISV III-projecten worden ook niet via de SiSa-bijlage afgerekend, maar via een afzonderlijke afspraak tussen de provincie en de ontvanger van de uitkering, vaak via een afzonderlijke accountantsverklaring.
+
+**Let op:** De bestedingsvoorwaarden kunnen per provincie verschillen. In onderstaande tabel kunt u zien waar u de bestedingsvoorwaarden die voor u gelden, kunt vinden. Voor enkele provincies bevat onderstaande tabel een link naar de bestedingsvoorwaarden of informatie daarover. De meeste provincies hebben de bestedingsvoorwaarden opgenomen in de verleningsbrief of subsidiebeschikking.
+
+1 Link 1 en 2 provincie Drenthe: http://www.drenthe.info/dvs/fileadmin/user_upload/conversie/04336.00/41417007.pdfhttp://www.drenthe.info/dvs/fileadmin/user_upload/conversie/05244.00/35572007.pdf
+
+2 Link provincie Limburg: http://www.limburg.nl/dsresource?objectid=21875&type=pdf te vinden via www.limburg.nl/e-locket/reglementen en verordeningen/ subsidieregelingen/B012
+
+3 Link provincie Noord-Holland: http://www.noord-holland.nl/web/Digitaal-loket/Subsidies/Actuele-subsidieregelingen.htm
+
+De provincie Utrecht maakt geen gebruik van deze regeling.
+
+### C9. Excellente gebieden innovatieve energiebesparing in de nieuwbouw
+
+Doelgroep: gemeenten
+
+Relevante wet- en regelgeving:
+
+### D1. Regionale meld- en coördinatiecentra voortijdig schoolverlaten
+
+Doelgroep: gemeenten
+
+Relevante wet- en regelgeving:
+
+Deze regeling wordt ingevuld door de gemeenten die de Regionale Meld- en Coördinatiefunctie (RMC) voortijdig schoolverlaten vervullen. Elk jaar maken de regio’s in de RMC-effectrapportage zichtbaar hoe ze de middelen inzetten.
+
+### D3. Excessieve kosten Archeologie
+
+Van toepassing zijnde wet- en regelgeving:
+
+### D4A. Regeling brede scholen 2009_Uitstel
+
+Doelgroep: gemeenten
+
+Relevante wet- en regelgeving:
+
+Deze regeling is bedoeld voor die gemeenten die uitstel hebben gekregen.
+
+### D9. Onderwijsachterstandenbeleid 2011–2016 (OAB)
+
+Doelgroep: gemeenten
+
+Relevante wet- en regelgeving:
+
+**Let op**: de besteding van de uitkering mag in de eerste jaren van de vijfjarige periode waar dit besluit betrekking op heeft worden doorgeschoven naar een volgend jaar. Aan het eind van het vijfde jaar behoort het totaalbedrag echter te zijn besteed; een eventueel overschot wordt teruggevorderd. Het omgekeerde geldt niet: het kan niet zo zijn dat hogere gemeentelijke uitgaven in een van de eerste jaren worden bekostigd vanuit een uitkering in een later jaar. De lopende GOA-periode is in het besluit tot wijziging van 22 september 2015 met één jaar verlengd tot en met 2016. Daarmee kunnen in 2015 overgebleven middelen alsnog naar 2016 worden doorgeschoven.
+
+### D10. (Volwassenen)Onderwijs ([Wijzigingswet Wet participatiebudget](https://wetten.overheid.nl/jci1.3:c:BWBR0035386)) 2015–2017
+
+Doelgroep: contactgemeenten
+
+Relevante wet- en regelgeving:
+
+De verantwoording van het participatiebudget is veranderd vanwege de decentralisaties. Het educatiegedeelte van de verantwoording is overgegaan naar de regelingen D10 en D11. De regeling D10 wordt vanaf 2015 ingevuld door de contactgemeenten als bedoeld in [artikel IIIa van de Wijzigingswet Wet participatiebudget](https://wetten.overheid.nl/jci1.3:c:BWBR0035386&artikel=IIIa) (de centrumgemeenten van de 35 arbeidsmarktregio’s). De regeling D11 wordt eenmalig ingevuld door alle gemeenten die educatiemiddelen uit 2014 hebben gereserveerd voor 2015.
+
+*** Gemeente Sa is contactgemeente voor gemeente Si en besteedt in 2015 dus aan educatie namens deze gemeente.**
+
+*** Gemeente Si verantwoordt in 2015 via de D11 en is puur opgenomen voor het rekenvoorbeeld.**
+
+*** Gemeente Sa is contactgemeente voor gemeente Si en besteedt in 2015 dus aan educatie namens deze gemeente.**
+
+*** Gemeente Si verantwoordt in 2015 via de D11 en is puur opgenomen voor het rekenvoorbeeld.**
+
+### D11. [Wet participatiebudget](https://wetten.overheid.nl/jci1.3:c:BWBR0025039) 2014 – overgangsrecht 2015 reserveringsregeling deel educatie
+
+Doelgroep: gemeenten
+
+Relevante wet- en regelgeving:
+
+De verantwoording van het participatiebudget is veranderd vanwege de decentralisaties. Het educatiegedeelte van de verantwoording is overgegaan naar de OCW-regelingen D10 en D11.
+
+De regeling D11 wordt ingevuld door gemeenten die niet bestede OCW-gelden uit 2014 binnen de grenzen van de reserveringsregeling voor educatie bij roc’s hebben overgeheveld naar het kalenderjaar 2015 (jaar T). Via de onderstaande indicatoren worden de bestedingen in 2015 van deze gereserveerde bedragen uit 2014 verantwoord.
+
+### E2. Stimuleringsregeling stille wegdekken
+
+Doelgroep: gemeenten
+
+Relevante wet- en regelgeving:
+
+Ten opzichte van de verantwoording van 2014 is één indicator toegevoegd: de correctie in de besteding (jaar T-1). Zie 5.7 correctie in de besteding.
+
+### E3. [Subsidieregeling sanering verkeerslawaai](https://wetten.overheid.nl/jci1.3:c:BWBR0020731) (inclusief bestrijding spoorweglawaai)
+
+Doelgroep:provincies, gemeenten en gemeenschappelijke regelingen
+
+Relevante wet- en regelgeving:
+
+Ten opzichte van de verantwoording van 2014 is één indicator toegevoegd: de correctie in de besteding (jaar T-1). Zie 5.7 correctie in de besteding.
+
+### E6B. Bodemsanering (excl. Bedrijvenregeling) 2005–2009 (SiSa tussen medeoverheden)
+
+**Let op:** De bestedingsvoorwaarden verschillen per provincie. De provincies Drenthe, Gelderland, Groningen en Overijssel hebben de bestedingsvoorwaarden opgenomen in de verleningsbrief / subsidiebeschikking.38De provincies Flevoland, Fryslân, Limburg, Zuid-Holland, Noord-Holland, Noord-Brabant, Utrecht en Zeeland maken geen gebruik van deze regeling.
+
+### E10. [Tijdelijke subsidieregeling Innovatieprogramma Mooi Nederland](https://wetten.overheid.nl/jci1.3:c:BWBR0025727)
+
+Doelgroep: provincies en gemeenten
+
+Relevante wet- en regelgeving:
+
+### E11. Nationaal Samenwerkingsprogramma Luchtkwaliteit (NSL)
+
+Doelgroep:gemeenten en gemeenschappelijke regelingen (SiSa tussen medeoverheden)
+
+**Let op:** De bestedingsvoorwaarden kunnen per provincie verschillen. In onderstaande tabel kunt u zien waar u de bestedingsvoorwaarden die voor u gelden, kunt vinden. Voor enkele provincies bevat onderstaande tabel een link naar de bestedingsvoorwaarden of informatie daarover. De meeste provincies hebben de bestedingsvoorwaarden opgenomen in de verleningsbrief of subsidiebeschikking39De provincies Drenthe, Fryslân, Groningen, Overijssel en Zeeland maken geen gebruik van deze regeling..
+
+Relevante wet- en regelgeving:
+
+De regeling is in 2014 verlengd om één jaar extra ruimte te geven voor het besteden van de NSL-middelen, te weten tot en met 2015. De verlenging van de bestedingstermijn tot 1-1-2016 heeft volgens de brief van I&M (14-10-2014) betrekking op de 3e en 4e tranche van de NSL subsidies. Uit de subsidiebeschikkingen voor de 1e en 2e tranches (uit resp. 2006 en 2007) blijkt geen eenduidige einddatum voor besteding van middelen in lokale programma’s ter verbetering van de luchtkwaliteit. In de SiSa-verantwoording is geen onderscheid opgenomen tussen 1e, 2e, 3e en 4e tranche. Het ministerie van IenM heeft de provincies daarom per brief (15-7-2015) laten weten de subsidietermijn van de 1e en 2e tranche gelijk te trekken met de 3e en 4e tranche. De bestedingen van de 1e en 2e tranche konden volgens deze brief uiterlijk op 31 december 2015 gelijktijdig met de 3e en 4e tranche worden verantwoord.
+
+In de brief van 26 november 2015 van de staatssecretaris van IenM aan de Tweede Kamer, is ook bekend gemaakt dat zij het voornemen heeft om het NSL te verlengen tot het moment waarop de Omgevingsweg in werking treedt (in 2018). Voordeel hiervan is dat de luchtkwaliteitspunten op de huidige manier gemonitord kunnen blijven worden en steden meer tijd krijgen om de hun reeds toegekende NSL-budgetten te besteden aan luchtkwaliteitsmaatregelen. Met het verlengen van de NSL sluiten het NSL en de Omgevingswet mooi op elkaar aan waardoor er geen juridisch overgangsregime nodig is.
+
+Vanwege de hiervoor genoemde ontwikkelingen is het verruimde bestedingsbegrip niet meer van toepassing op jaar T (2015) en verwijderd uit de SiSa invulwijzer 2015. U verantwoordt gewoon zo zoals u dat ook in het (jaar T-1) (2014) deed voor het NSL. Zodra het besluit over de voorgenomen verlenging van de NSL en de manier van verantwoording in de komende jaren definitief bekend is, ontvangt u meer informatie hierover via het ministerie van IenM, de IBI-nieuwsbrief en de concept invulwijzers SiSa 2016. Mocht u hierop vooruitlopend vragen hebben, stel deze dan via de contactformulieren op www.rijksoverheid.nl/sisa, dan proberen IenM en BZK deze zo goed mogelijk voor u te beantwoorden.
+
+Er is een behoefte gebleken aan meer duidelijkheid over hoe bestedingen in de E11 moeten worden verantwoord. Sommige provincies hebben de doorgeleide middelen van de provincie naar medeoverheden verantwoord bij de indicator 01 uit 2013: ‘Besteding (jaar T) ten laste van rijksmiddelen’. Anderen hebben deze middelen niet verantwoord omdat deze in de E11B-bijlage ten uiting komen. Dit laatste is de bedoeling geweest. Om deze onduidelijkheid weg te nemen, zijn er twee type indicatoren: Cumulatieve indicatoren voor de provincie voor jaar T (08 t/m 13) en cumulatieve indicatoren voor de medeoverheden voor jaar T-1 (14 t/m 17). Provincies die de genoemde doorgeleide rijksmiddelen naar medeoverheden voorheen hebben verantwoord via de indicator 01 uit 2013, kunnen dit via indicator 02 en 09 verantwoorden. Andere provincies hoeven deze middelen niet te verantwoorden.
+
+**NB Hieronder wordt met medeoverheid bedoeld: een gemeente of gemeenschappelijke regeling. Rekenvoorbeelden zijn eveneens hieronder opgenomen.**
+
+**Rekenhulp**: Het optellen van de bedragen bij indicator E11/01, 03, 04 en 05 leidt tot de totale besteding voor NSL in jaar T.
+
+### E11B. Nationaal Samenwerkingsprogramma Luchtkwaliteit (NSL) SiSa tussen medeoverheden
+
+Doelgroep:gemeenten en gemeenschappelijke regelingen (SiSa tussen medeoverheden)
+
+**Let op:** De bestedingsvoorwaarden kunnen per provincie verschillen. In onderstaande tabel kunt u zien waar u de bestedingsvoorwaarden die voor u gelden, kunt vinden. Voor enkele provincies bevat onderstaande tabel een link naar de bestedingsvoorwaarden of informatie daarover. De meeste provincies hebben de bestedingsvoorwaarden opgenomen in de verleningsbrief of subsidiebeschikking40De provincies Drenthe, Fryslân, Groningen, Overijssel en Zeeland maken geen gebruik van deze regeling..
+
+Relevante wet- en regelgeving:
+
+De regeling is in 2014 verlengd om één jaar extra ruimte te geven voor het besteden van de NSL-middelen, te weten tot en met 2015. De verlenging van de bestedingstermijn tot 1-1-2016 heeft volgens de brief van I&M (14-10-2014) betrekking op de 3e en 4e tranche van de NSL subsidies. Uit de subsidiebeschikkingen voor de 1e en 2e tranches (uit resp. 2006 en 2007) blijkt geen eenduidige einddatum voor besteding van middelen in lokale programma’s ter verbetering van de luchtkwaliteit. In de SiSa-verantwoording is geen onderscheid opgenomen tussen 1e, 2e, 3e en 4e tranche. Het ministerie van IenM heeft de provincies daarom per brief (15-7-2015) laten weten de subsidietermijn van de 1e en 2e tranche gelijk te trekken met de 3e en 4e tranche. De bestedingen van de 1e en 2e tranche konden volgens deze brief uiterlijk op 31 december 2015 gelijktijdig met de 3e en 4e tranche worden verantwoord.
+
+In de brief van 26 november 2015 van de staatssecretaris van IenM aan de Tweede Kamer, is ook bekend gemaakt dat zij het voornemen heeft om het NSL te verlengen tot het moment waarop de Omgevingsweg in werking treedt (in 2018). Voordeel hiervan is dat de luchtkwaliteitspunten op de huidige manier gemonitord kunnen blijven en steden meer tijd krijgen om de hun reeds toegekende NSL-budgetten te besteden aan luchtkwaliteitsmaatregelen. Met het verlengen van de NSL sluiten het NSL en de [Omgevingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0037885) mooi op elkaar aan waardoor er geen juridisch overgangsregime nodig is.
+
+Vanwege de hiervoor genoemde ontwikkelingen is het verruimde bestedingsbegrip niet meer van toepassing op jaar T (2015) en verwijderd uit de SiSa invulwijzer 2015. U verantwoordt gewoon zo zoals u dat ook in het (jaar T-1) (2014) deed voor het NSL. Zodra het besluit over de voorgenomen verlenging van de NSL en de manier van verantwoording in de komende jaren definitief bekend is, ontvangt u meer informatie hierover via het ministerie van IenM, de IBI-nieuwsbrief en de concept invulwijzers SiSa 2016. Mocht u hierop vooruitlopend vragen hebben, stel deze dan via de contactformulieren op www.rijksoverheid.nl/sisa, dan proberen IenM en BZK deze zo goed mogelijk voor u te beantwoorden.
+
+### E12. Nieuwe Sleutel Projecten (NSP)
+
+Doelgroep: gemeenten
+
+Relevante wet- en regelgeving:
+
+### E17. Nota Ruimte project Maastricht Belvedere
+
+Doelgroep:gemeente Maastricht
+
+Relevante wet- en regelgeving:
+
+### E21. Nota Ruimte project Spoorzone Den Bosch
+
+Doelgroep: gemeente Den Bosch
+
+Relevante wet- en regelgeving:
+
+### E22. Nota Ruimte project Stadshaven Rotterdam
+
+Doelgroep: gemeente Rotterdam
+
+Relevante wet- en regelgeving:
+
+### E25. [Beleidsregeling subsidies Budget Investeringen Ruimtelijke Kwaliteit](https://wetten.overheid.nl/jci1.3:c:BWBR0014631) (BIRK)
+
+Doelgroep: provincies en gemeenten
+
+Relevante wet- en regelgeving:
+
+### E26. Spoorse doorsnijdingen, tranche 1
+
+Doelgroep:gemeenten
+
+Relevante wet- en regelgeving:
+
+### E27. Brede doeluitkering verkeer en vervoer
+
+Doelgroep: provincies
+
+Relevante wet- en regelgeving:
+
+Op 16 december 2014 heeft de Eerste Kamer besloten tot de intrekking van de Wet Gemeenschappelijke Regeling Plus (WGR+). Als gevolg hiervan zijn er twee vervoerregio’s (Amsterdam en Rotterdam/Den Haag) gekomen. Voor deze vervoerregio’s is een aparte SiSa-regeling opgenomen: E27A Brede doeluitkering verkeer en vervoer (SiSa Vervoerregio’s).
+
+Met ingang van 1 januari 2016 is de BDU Verkeer en Vervoer vanuit het Rijk naar de provincies gedecentraliseerd. Met de decentralisatie is de BDU Verkeer en Vervoer geen specifieke uitkering meer en is de vorm van verantwoording van de gelden vanaf 1 januari 2016 de keuze van de provincies. Het is daarnaast mogelijk dat bij uw provincies nog een positief eindsaldo openstaat per 31-12-2015 en nog niet volledig is verplicht in de vorm van opdrachten c.q. subsidieverstrekkingen. Deze gelden mogen ook na 31-12-2015 nog beschikt worden aan gemeenten en / of gemeenschappelijke regelingen en zullen dan nog in de SiSa-bijlage van 2016 e.v. moeten worden verantwoord. Over dit laatste worden de gesprekken nog gevoerd met de provincies.
+
+### E27A. Brede doeluitkering verkeer en vervoer (SiSa Vervoerregio’s)
+
+Doelgroep: Vervoerregio’s Amsterdam en Rotterdam/Den Haag
+
+Relevante wet- en regelgeving:
+
+Op 16 december 2014 heeft de Eerste Kamer besloten tot de intrekking van de Wet Gemeenschappelijke Regeling Plus (WGR+). Als gevolg van het wetsvoorstel zijn er twee vervoerregio’s (Metropoolregio Rotterdam en Metropoolregio Amsterdam) gekomen. Voor deze vervoerregio’s is de onderhavige SiSa-regeling opgenomen: E27A Brede doeluitkering verkeer en vervoer (SiSa Vervoerregio’s).
+
+Let op: enkele relevante toelichtingen zijn opgenomen in deze invulwijzer onder de toelichting bij de E27.
+
+### E27B. Brede doeluitkering verkeer en vervoer SiSa tussen medeoverheden
+
+Doelgroep: gemeenten en gemeenschappelijke regelingen (SiSa tussen medeoverheden)
+
+Relevante wet- en regelgeving:
+
+Let op: De bestedingsvoorwaarden verschillen per provincie. In onderstaande tabel kunt u zien waar u de bestedingsvoorwaarden die voor u gelden, kunt vinden. Voor enkele provincies bevat onderstaande tabel een link naar de bestedingsvoorwaarden of informatie daarover. De meeste provincies hebben de bestedingsvoorwaarden opgenomen in de verleningsbrief of subsidiebeschikking:
+
+1 Volledige link naar Limburgs Mobiliteitsprogramma 2009–2012: http://portal.prvlimburg.nl/psonline/popups/details.jsp;jsessionid=030FF5C313DC9AC080492362E1926DF5?node=88650&for=88243
+
+2 Volledige link naar actuele subsidieregelingen provincie Noord-Holland: http://www.noord-holland.nl/web/Digitaal-loket/Subsidies/Actuele-subsidieregelingen.htm
+
+Let op: enkele relevante toelichtingen zijn opgenomen in deze invulwijzer onder de toelichting bij de E27.
+
+### E28. Regionale mobiliteitsfondsen
+
+Doelgroep:provincies en stadsregio’s
+
+Relevante wet- en regelgeving:
+
+Voor de regionale mobiliteitsfondsen dient een afzonderlijke bankrekening te worden aangehouden. De indicatoren zijn hier ook op gebaseerd en zijn bedoeld om verantwoording af te leggen over het verloop van de bankrekening/fonds. De volgende formule vormt het verband tussen de indicatoren:
+
+### E28B. Regionale mobiliteitsfondsen (Zuiderzeelijn) SiSa tussen medeoverheden
+
+Doelgroep:provincies Fryslân, Groningen en Drenthe
+
+Relevante wet- en regelgeving:
+
+### E28C. Regionale mobiliteitsfondsen SiSa tussen medeoverheden
+
+Doelgroep: gemeenten
+
+Relevante wet- en regelgeving:
+
+**Let op:** De bestedingsvoorwaarden kunnen per provincie verschillen. In onderstaande tabel kunt u zien waar u de bestedingsvoorwaarden die voor u gelden, kunt vinden.41De provincies Flevoland, Groningen, Zuid-Holland, Noord-Holland, Overijssel, Utrecht en Zeeland maken geen gebruik van deze regeling.
+
+### E29. [Tijdelijke regeling stedelijke synergieprojecten Kaderrichtlijn Water](https://wetten.overheid.nl/jci1.3:c:BWBR0026073)
+
+Doelgroep: gemeenten
+
+Relevante wet- en regelgeving:
+
+### E30. Quick wins binnenhavens
+
+Doelgroep: provincies en gemeenten
+
+Relevante wet- en regelgeving:
+
+### E30B. Quick wins binnenhavens SiSa tussen medeoverheden
+
+Doelgroep: gemeenten
+
+Relevante wet- en regelgeving:
+
+**Let op:** De bestedingsvoorwaarden kunnen per provincie verschillen. In onderstaande tabel ziet u waar u de bestedingsvoorwaarden kunt vinden die voor u van toepassing zijn:
+
+De andere provincies maken geen gebruik van deze regeling.
+
+### E37. Regeling wilhelminasluis
+
+Doelgroep: provincie Noord-Holland
+
+Relevante wet- en regelgeving:
+
+### F4. Deelproject 750 – Project Mainportontwikkeling Rotterdam
+
+Doelgroep: provincie Zuid-Holland
+
+Relevante wet- en regelgeving:
+
+### F4B. Deelproject 750 – Project Mainportontwikkeling Rotterdam
+
+Doelgroep: stadsregio Rotterdam en gemeente Rotterdam
+
+Zie 5.9 SiSa tussen medeoverheden.**Let op:** De bestedingsvoorwaarden kunnen per provincie verschillen. In onderstaande tabel ziet u waar u de bestedingsvoorwaarden kunt vinden die voor u van toepassing zijn:
+
+De andere provincies maken geen gebruik van deze regeling.
+
+### F7. [Subsidieregeling sterktes in de regio](https://wetten.overheid.nl/jci1.3:c:BWBR0024884) (Pieken in de delta)
+
+Doelgroep: gemeenten
+
+Relevante wet- en regelgeving:
+
+### G1A. [Wet sociale werkvoorziening](https://wetten.overheid.nl/jci1.3:c:BWBR0008903) (Wsw)_Totaal 2014
+
+Doelgroep: gemeenten
+
+Relevante wet- en regelgeving:
+
+Ten opzichte van SiSa 2014 is de verantwoording via G1 [Wet sociale werkvoorziening](https://wetten.overheid.nl/jci1.3:c:BWBR0008903) (WSW), vanwege de decentralisatie vervallen. Deze regeling (G1A) betreft het totaal over 2014 en wordt ingevuld door alle gemeenten, ongeacht of er inwoners werkzaam waren bij de eigen of een ander openbaar lichaam (opgericht op grond van de [Wet gemeenschappelijke regelingen](https://wetten.overheid.nl/jci1.3:c:BWBR0003740)). Via deze indicatoren legt de gemeente (via SiSa) verantwoording af aan het ministerie van SZW over de op basis van het beschikbaar gestelde budget gerealiseerde taakstelling in arbeidsjaren. Deze informatie is voor het ministerie van SZW de basis voor de bepaling van de ‘vaststelling’ 2014 en of er sprake is van onderrealisatie dan wel of de gemeente in aanmerking komt voor de bonus begeleid werken. In SiSa 2016, komt ook deze regeling te vervallen.
+
+**Let op:** het betreft hier het totaal van verantwoordingsjaar T-1 van zowel gemeente (G1) als het openbaar lichaam (G1B). Bijvoorbeeld in verantwoordingsjaar 2015 het totaal van G1 over 2014 en G1B over 2014. Dit betekent dus ook dat het onmogelijk is dat de gemeente hier terecht een 0 (nul) verantwoordt. Het toch indienen van een 0 (nul)-verantwoording betekent dat de gemeente géén Wsw-taken heeft uitgevoerd in jaar T-1 en dat het ministerie van SZW het volledige bedrag van het budget Wsw voor jaar T-1 terugvordert.
+
+### G2. Gebundelde uitkering op grond van artikel 69 Participatiewet_gemeentedeel 2015
+
+Doelgroep: gemeenten
+
+Relevante wet- en regelgeving:
+
+Zie 5.2.1 Besteding SZW/Bbz. Deze regeling wordt ingevuld door alle gemeenten ongeacht of de uitvoering voor een deel wordt verricht door een openbaar lichaam (opgericht op grond van de [Wet gemeenschappelijke regelingen](https://wetten.overheid.nl/jci1.3:c:BWBR0003740), hierna ‘gemeenschappelijke regeling’). De gemeente vult alleen de **gemeentelijke** uitvoeringsgegevens in **exclusief** het deel dat eventueel door gemeenschappelijke regelingen is uitgevoerd. Het is daarbij niet relevant of de gemeente deelnemer is van de gemeenschappelijke regeling. Indien de uitvoering **volledig** door een gemeenschappelijke regeling is verricht en de gemeente derhalve niet beschikt over informatie ten behoeve van een bepaalde indicator, vult de gemeente bij de betreffende indicator ‘0’ (nul) in.
+
+Ten opzichte van de verantwoording van 2014 zijn twee indicatoren toegevoegd. Te weten indicator 10: **Besteding (jaar T) Loonkostensubsidie o.g.v. art. 10d Participatiewet** en indicator 11: **Baten (jaar T) Loonkostensubsidie o.g.v. art. 10d Participatiewet (excl. Rijk).**
+
+### G2A. Gebundelde uitkering op grond van artikel 69 WWB _Totaal 2014
+
+Doelgroep: gemeenten
+
+Relevante wet- en regelgeving:
+
+Zie 5.2.1 Besteding SZW/Bbz. Deze regeling betreft een totaal en wordt alleen ingevuld door gemeenten die de uitvoering (deels) hebben laten verrichten door een openbaar lichaam (opgericht op grond van de [Wet gemeenschappelijke regelingen](https://wetten.overheid.nl/jci1.3:c:BWBR0003740), hierna ‘gemeenschappelijke regeling’). Gemeenten stellen de volgende bij deze regeling in te vullen gegevens (het totaal) op:
+
+**Let op:** het betreft hier het totaal van verantwoordingsjaar T-1 van zowel gemeente (G2) als gemeenschappelijke regeling (G2B). Bijvoorbeeld in verantwoordingsjaar 2014 het totaal van G2 over 2013 en G2B over 2013. Dit betekent dus ook dat het onmogelijk is dat de gemeente hier terecht een 0 (nul) verantwoordt.
+
+### G2B. Gebundelde uitkering op grond van artikel 69 Participatiewet_deel openbaar lichaam 2015
+
+Doelgroep: gemeenschappelijke regeling
+
+Zie 5.2.1 Besteding SZW/Bbz en 5.9 SiSa tussen medeoverheden.
+
+Relevante wet- en regelgeving:
+
+Deze regeling wordt alleen ingevuld door openbare lichamen opgericht op grond van de [Wet gemeenschappelijke regelingen](https://wetten.overheid.nl/jci1.3:c:BWBR0003740) (hierna ‘gemeenschappelijke regeling’) die (een deel van) de uitvoering hebben verricht voor gemeenten. De gemeenschappelijke regeling vult alleen de **eigen** uitvoeringsgegevens in **exclusief** delen die door de betreffende gemeente(n) of andere gemeenschappelijke regelingen zijn uitgevoerd. Als de gemeenschappelijke regeling geen taken heeft verricht voor een bepaalde indicator, dient de gemeenschappelijke regeling ‘0’ (nul) in te vullen. Deze informatie wordt door het ministerie van SZW gebruikt voor de verdeling van de budgetten voor de gebundelde uitkering.
+
+Ten opzichte van de verantwoording van 2014 zijn twee indicatoren toegevoegd. Te weten indicator 12: **Besteding (jaar T) Loonkostensubsidie o.g.v. art. 10d Participatiewet** en indicator 13: **Baten (jaar T) Loonkostensubsidie o.g.v. art. 10d Participatiewet (excl. Rijk).**
+
+### G3. [Besluit bijstandverlening zelfstandigen 2004](https://wetten.overheid.nl/jci1.3:c:BWBR0015711) (exclusief levensonderhoud beginnende zelfstandigen)_gemeentedeel 2015
+
+Doelgroep: gemeenten
+
+Relevante wet- en regelgeving:
+
+Zie 5.2.1 Besteding SZW/Bbz.
+
+Relevante wet- en regelgeving:
+
+Deze regeling wordt ingevuld door alle gemeenten ongeacht of de uitvoering voor een deel wordt verricht door een openbaar lichaam (opgericht op grond van de [Wet gemeenschappelijke regelingen](https://wetten.overheid.nl/jci1.3:c:BWBR0003740), hierna ‘gemeenschappelijke regeling’). De gemeente vult alleen de **gemeentelijke** uitvoeringsgegevens in **exclusief** het deel dat eventueel door gemeenschappelijke regeling is uitgevoerd. Indien de uitvoering **volledig** door een gemeenschappelijke regeling is verricht en de gemeente derhalve niet beschikt over informatie ten behoeve van een bepaalde indicator, vult de gemeente bij de betreffende indicator ‘0’ (nul) in.
+
+### G3A. [Besluit bijstandverlening zelfstandigen 2004](https://wetten.overheid.nl/jci1.3:c:BWBR0015711) (exclusief levensonderhoud beginnende zelfstandigen)_Totaal 2014
+
+Doelgroep: gemeenten
+
+Relevante wet- en regelgeving:
+
+Deze regeling betreft een totaal en wordt alleen ingevuld door gemeenten die de uitvoering (deels) hebben laten verrichten door een openbaar lichaam (opgericht op grond van de [Wet gemeenschappelijke regelingen](https://wetten.overheid.nl/jci1.3:c:BWBR0003740), hierna ‘gemeenschappelijke regeling’). Gemeenten stellen de volgende bij deze regeling in te vullen gegevens (het totaal) op:
+
+**Let op:** het betreft hier het totaal van verantwoordingsjaar T-1 van zowel gemeente (G3) als gemeenschappelijke regeling (G3B). Bijvoorbeeld in verantwoordingsjaar 2014 het totaal van G3 over 2013 en G3B over 2013. Dit betekent dus ook dat het onmogelijk is dat de gemeente hier terecht een 0 (nul) verantwoordt. Het toch indienen van een 0 (nul)-verantwoording betekent dat de gemeente géén taken heeft uitgevoerd in jaar T-1 en dat het ministerie van SZW het volledige bedrag van het voorschot voor jaar T-1 terugvordert. Deze informatie is voor het ministerie van SZW de basis voor het vaststellen / afrekenen met deze gemeenten.
+
+### G3B. [Besluit bijstandverlening zelfstandigen 2004](https://wetten.overheid.nl/jci1.3:c:BWBR0015711) (exclusief levensonderhoud beginnende zelfstandigen) – deel openbaar lichaam 2015
+
+Doelgroep: gemeenschappelijke regelingen
+
+Relevante wet- en regelgeving:
+
+Zie 5.9 SiSa tussen medeoverheden. Deze regeling wordt alleen ingevuld door openbare lichamen opgericht op grond van de [Wet gemeenschappelijke regelingen](https://wetten.overheid.nl/jci1.3:c:BWBR0003740) (hierna ‘gemeenschappelijke regeling’) die (een deel van) de uitvoering hebben verricht voor gemeenten. Deze informatie wordt door het ministerie van SZW gebruikt voor de verdeling van de budgetten.
+
+De gemeenschappelijke regeling vult alleen de **eigen** uitvoeringsgegevens in **exclusief** delen die door de betreffende gemeente(n) of andere gemeenschappelijke regelingen is uitgevoerd. Als de gemeenschappelijke regeling geen taken heeft verricht voor een bepaalde indicator, dient het openbaar lichaam ‘0’ (nul) in te vullen.
+
+### G5A. [Wet participatiebudget](https://wetten.overheid.nl/jci1.3:c:BWBR0025039) (Wpb)_Totaal 2014
+
+Doelgroep: gemeenten
+
+Relevante wet- en regelgeving:
+
+Ten opzichte van SiSa 2014 is de verantwoording via G5 Wet participatiebudget vervallen. Deze regeling (G5A) betreft het totaal over 2014 en wordt alleen ingevuld door gemeenten die de uitvoering (deels) hebben laten verrichten door een openbaar lichaam (opgericht op grond van de [Wet gemeenschappelijke regelingen](https://wetten.overheid.nl/jci1.3:c:BWBR0003740), hierna ‘gemeenschappelijke regeling’) en hebben verantwoord. Deze informatie is voor het ministerie van SZW de basis voor het vaststellen / afrekenen met deze gemeenten. Gemeenten stellen de volgende bij deze regeling in te vullen gegevens (het totaal) op:
+
+In SiSa 2016, komt ook deze regeling te vervallen.
+
+**Let op:** het betreft hier het totaal van verantwoordingsjaar T-1 van zowel gemeente (voorheen G5) als gemeenschappelijke regeling (voorheen G5B). Bijvoorbeeld in verantwoordingsjaar 2014 het totaal van G5 over 2013 en G5B over 2013. Dit betekent dus ook dat het onmogelijk is dat de gemeente hier terecht een 0 (nul) verantwoordt. Het toch indienen van een 0 (nul)-verantwoording betekent dat de gemeente géén participatievoorzieningen heeft gerealiseerd in jaar T-1 en dat het ministerie van SZW het volledige budget voor jaar T-1 terugvordert.
+
+### H1. [Ministeriële regeling heroïnebehandeling](https://wetten.overheid.nl/jci1.3:c:BWBR0020561)
+
+Doelgroep: gemeenten
+
+Relevante wet- en regelgeving:
+
+Het gaat om de **specifieke uitkering heroïnebehandeling**, welke is gebaseerd op [artikel 10 van de Regeling](https://wetten.overheid.nl/jci1.3:c:BWBR0020561&artikel=10):
+
+### Artikel 10
+
+Het college van burgemeester en wethouders neemt de volgende verantwoordingsinformatie op in de bijlage van de jaarrekening over het jaar waarvoor de uitkering wordt verstrekt:
+
+### H3. Seksualiteitscoördinatie- en hulpverlening + aanvullende curatieve SOA bestrijding
+
+Doelgroep: gemeenten
+
+Relevante wet- en regelgeving:
+
+Ten opzichte van de SiSa-bijlage 2014 is er één indicator toegevoegd te weten besteding (jaar T).
+
+### H8. Doeluitkering jeugdzorg (Bureau Jeugdzorg + Zorgkosten Jeugdzorg)
+
+Doelgroep: provincies en stadsregio’s
+
+Relevante wet- en regelgeving:
+
+Ten opzichte van SiSa 2014 is de verantwoording van de doeluitkering jeugdzorg nog niet veranderd vanwege de decentralisaties. De resterende looptijd van de doeluitkering jeugdzorg is tot de stelselwijziging volledig is doorgevoerd. De provinciale jeugdzorg en jeugdbescherming/jeugdreclassering is met ingang van 1 januari 2015 overgeheveld naar het gemeentefonds. Dit betekent dat bij de aanlevering in 2015 in de SiSa verantwoording de afrekening tussen provincies en instellingen over 2014 verwerkt wordt.
+
+### 2.01. Programma Bereikbaarheid Leeuwarden
+
+Doelgroep: Gemeente Leeuwarden
+
+Grondslag: Overeenkomst Programma Bereikbaarheid Leeuwarden op 1 maart 2010 afgesloten tussen de gemeente Leeuwarden en de provincie Fryslân.
+
+### 5. Algemene toelichting
+
+**Hier vindt u algemene toelichtingen bij veelgebruikte begrippen of indicatoren.**
+
+### 5.1. Baten-lastenstelsel en verhouding met BBV
+
+Met ingang van de SiSa-verantwoording 2010 geldt voor alle specifieke uitkeringen(en eventuele provinciale middelen die via SiSa worden verantwoord) het baten-lastenstelsel in plaats van het kas-verplichtingenstelsel. Hiermee wordt voorkomen dat extracomptabele administraties met afwijkende waarderingsregels en aanvullende controles bij medeoverheden nodig zijn ten behoeve van de aansluiting op de Rijksadministratie.
+
+Voor alle specifieke uitkeringen en provinciale middelen die via SiSa worden verantwoord geldt, in lijn met het [Besluit begroting en verantwoording provincies en gemeenten](https://wetten.overheid.nl/jci1.3:c:BWBR0014606) (BBV), een eenduidige definitie van het begrip besteding, die gekoppeld is aan het moment van een prestatie of verlies. Het nieuwe stelsel geldt voor alle huidige en nieuwe specifieke uitkeringen / provinciale middelen die via SiSa worden verantwoord, ongeacht de aard (openeinde, declaratie, project et cetera), looptijd en verstrekker van de specifieke uitkering.
+
+De volgende indicatoren worden hieronder toegelicht:
+
+**(Let op het onderscheid tussen de indicator ‘besteding’ en de indicator ‘besteding ten laste van’ en ‘verantwoording door derden’)**
+
+### 5.2. Besteding
+
+Een besteding bestaat uit twee delen: de aan een periode toegerekende lasten plus de relevante balansmutaties in investeringen.
+
+Het eerste deel ‘de aan een periode toegerekende lasten’ is conform het BBV42Zie ook Kadernota Rechtmatigheid BBV.. Lasten zijn uitgaven die aan een periode zijn toegerekend. Uitgaven worden aan een begrotingsjaar toegerekend indien de prestatie (die leidt tot kosten) in het begrotingsjaar plaatsvond dan wel indien het verlies in het begrotingsjaar plaatsvond dan wel het verlies aan dat begrotingsjaar toe te rekenen is.
+
+Het tweede deel ‘de relevante balansmutaties in investeringen’ is toegevoegd voor de specifieke uitkeringen die rechtstreeks via de balans worden verantwoord door een medeoverheid. Dit kan als de specifieke uitkering (deels) een bijdrage is voor investeringen, die bij de gemeente, provincie of gemeenschappelijke regeling wordt geactiveerd en dus niet in het desbetreffende jaar tot lasten leidt. Dit betekent dat investeringen ook kunnen worden verantwoord – mits er wordt voldaan aan de bestedingsvoorwaarden in de regeling.
+
+In de betreffende regelgeving van de specifieke uitkering of de provinciale middelen die via SiSa wordt verantwoord zijn (eventueel) aanvullende bepalingen opgenomen over het type bestedingen dat in het kader van de regeling kan worden verantwoord. Zie 5.3 Besteding ten laste van ... (rijk/provincie/...).
+
+### 5.2.1. Besteding SZW/Bbz
+
+Het bestedingsbegrip bij de SZW / Bbz kent in aanvulling van de definities onder 5.2 Besteding het volgende: Balansmutaties in verband met de verstrekking van leningen, zoals kapitaalverstrekking in het kader van het Bbz, worden verantwoord bij de bestedingen.
+
+### 5.3. Besteding ten laste van ... (rijk/provincie/...)
+
+Er wordt gevraagd naar de bestedingen ten laste van rijksmiddelen, ten laste van provinciale middelen of ten laste van een andere bron. U verantwoordt hier het gedeelte van de bestedingen dat ten laste wordt gebracht van de bijdrage van de betreffende bron (rijk, provincie, eigen middelen et cetera), dus alleen de subsidiabele bestedingen en niet de totale bestedingen. In de betreffende regelgeving van de specifieke uitkering of provinciale middelen die via SiSa wordt verantwoord zijn (eventueel) aanvullende bepalingen opgenomen over het type bestedingen dat in het kader van de regeling kan worden verantwoord.
+
+### 5.4. Baten
+
+Baten zijn inkomsten die aan een periode worden toegerekend. Inkomsten worden aan een periode toegerekend als de prestatie in die periode plaatsvond. Hetzij omdat de uitvoering van een taak die tot opbrengsten leidde in het begrotingsjaar plaatsvond, hetzij omdat het voordeel in het begrotingsjaar plaatsvond. In de betreffende regelgeving van de specifieke uitkering zijn (eventueel) aanvullende bepalingen opgenomen over het type baten dat in het kader van de regeling kan worden verantwoord.
+
+Conform het **BBV** worden **fraude**vorderingen (in afwijking van overige vorderingen) als netto baten verantwoord. In een situatie van de opsporing van een fraudegeval wordt onder het baten- en lastenstelsel de vordering in één keer in het jaar van het stellen van de vordering opgenomen bij de baten, waarbij een voorziening voor dubieuze debiteuren in mindering wordt gebracht.
+
+### 5.4.1. Baten SZW/Bbz
+
+Ook de verantwoording van baten voor de gebundelde uitkering en van het [Besluit bijstandverlenging zelfstandigen](https://wetten.overheid.nl/jci1.3:c:BWBR0015711) (Bbz) vindt plaats op basis van het baten- en lastenstelsel, conform het BBV. Balansmutaties in verband met de terugbetaling van leningen, zoals kapitaalverstrekking in het kader van het Bbz, worden verantwoord bij de baten.
+
+### 5.5. Eindverantwoording Ja/Nee
+
+Met deze indicator geeft u aan of de specifieke uitkering is afgerond. U kiest ‘nee’ als u nog bestedingen verwacht of nog niet alle werkzaamheden zijn afgerond. U kiest ‘ja’ als u geen bestedingen meer verwacht en de verstrekker van de specifieke uitkering over kan gaan tot het vaststellen van de beschikking/uitkering. ‘Ja’ is het teken voor de verstrekker van de uitkering dat kan worden afgerekend. U kan dan het volgende jaar (t+1) voor deze regeling geen verantwoording meer indienen. Indien een specifieke uitkering is onderverdeeld in verschillende projecten dan geldt de indicator per project. Voor regelingen die jaarlijks worden afgerekend, geldt deze indicator niet. Als voor een regeling bijzondere bepalingen gelden, is dit in de toelichting aangegeven.
+
+Bovenstaande toelichting geldt alleen voor de indicator ‘eindverantwoording’, niet voor de indicator ‘volledige zelfstandige uitvoering’ die bij de SZW-regelingen wordt gehanteerd.
+
+De indicator ‘Eindverantwoording Ja/Nee’ is niet voor alle specifieke uitkeringen van toepassing.
+
+### 5.6. Verantwoording indien uitvoering door derden
+
+Het kan zijn dat een medeoverheid een specifieke uitkering (deels) door een derde laat uitvoeren. Een derde kan naast bijvoorbeeld een stichting, aannemer of adviesbureau ook een andere gemeente, provincie of gemeenschappelijke regeling zijn. In het geval van uitvoering door een derde geldt ook het baten-lastenstelsel.
+
+Voorlopige toekenningen en voorschotten kunnen conform het baten-lastenstelsel als bestedingen in de SiSa-verantwoording worden opgenomen, indien aan de daarvoor geldende subsidievoorwaarden is voldaan. Zie blz. 13 van de Kadernota rechtmatigheid BBV 2015. Om te kunnen beoordelen of een voorlopige toekenning of een voorschot als besteding in de jaarrekening en SiSa-bijlage kan worden opgenomen, is een adequaat contractbeheer/subsidieproces noodzakelijk. Op basis daarvan kan worden beoordeeld of een prestatie (die leidt tot de kosten) in de betreffende periode (begrotingsjaar) heeft plaatsgevonden en deze aan die periode kan worden toegerekend en als besteding in de SiSa-bijlage kan worden opgenomen.
+
+### 5.7. Correctie in de besteding 2014
+
+Het is mogelijk dat u in de besteding 2014 een voorlopige toekenning heeft opgenomen. Als dat zo is, kan het zijn dat u deze besteding via SiSa 2015 moet corrigeren. Die correctie kunt u hier opnemen.
+
+Let op: U kunt hier geen correcties opnemen die verband houden met foutieve verantwoordingen over eerdere jaren. Het is namelijk géén cumulatieve indicator. In zo’n geval zult u een correctie en/of aanvulling bij de verstrekker moeten doen. Als u geen gebruikt heeft gemaakt van voorlopige toekenningen in de besteding 2015, kunt u hier ‘0’ (nul) verantwoorden.
+
+### 5.8. Cumulatieve bestedingen
+
+Het voornaamste doel van deze indicator is het vergemakkelijken van de communicatie tussen de verstrekker van de specifieke uitkering en de ontvanger van de specifieke uitkering over het al dan niet volledig besteden van de uitkering. In de praktijk blijkt dat, vooral bij meerjarige uitkeringen, de beeldvorming over bij verstrekker en ontvanger hierover verschillend is. Via deze indicator kunnen verstrekker en ontvanger waarborgen dat ze gedurende het project beiden over hetzelfde praten. Deze indicator kent géén accountantscontrole. Het is dus de verantwoordelijkheid van de medeoverheid zelf om te zorgen voor een juiste invulling.
+
+Deze indicator wordt niet direct gebruikt voor de vaststelling. De basis voor de vaststelling is de optelling van de jaarlijkse verantwoordingen met de eventueel daarop van toepassing zijnde correcties. De cumulatieve indicator wordt wel indirect gebruikt bij de vaststelling, met name als er een verschil is tussen de optelling van de jaarverantwoordingen die de verstrekker zelf maakt en de optelling die de ontvanger maakt via de cumulatieve indicator. Als uit de opgave via de cumulatieve indicator blijkt dat er ergens in het traject iets verkeer is verantwoord, kan het nodig zijn dat de ontvanger van de specifieke uitkering, via de daarvoor geldende procedure, een correctie doorvoert in de betreffende jaarschijf.
+
+### 5.9. SiSa tussen medeoverheden
+
+Voor SiSa tussen medeoverheden gelden dezelfde procedures en voorwaarden als voor SiSa. Deze zijn verwoord in de nota ‘Procedure aanlevering verantwoordingsinformatie’, de nota ‘Verwachtingen accountantscontrole’ en de onderhavige Invulwijzer. Meer informatie over SiSa tussen medeoverheden SZW is te vinden op de website van het ministerie van SZW.
+
+### 5.10. Verantwoordingslijst
+
+De verantwoordingslijst (voorheen kruisjeslijst) is te raadplegen via http://www.rijksoverheid.nl/sisa. Het is mogelijk om via een speciale webapplicatie een ‘kruisjeslijst’ op maat te genereren. Deze applicatie is te benaderen via https://teverantwoordenregelingen.rijksoverheid.nl/.
+
+In 5.10.1 Handleiding applicatie verantwoordingslijst staat de handleiding voor de webapplicatie. De nota procedure aanlevering verantwoordingsinformatie 2015 bevat voorschriften en bepalingen over de verantwoordingslijst. Hieronder volgt een aantal veelgestelde vragen dat verband houdt met het invullen van het format voor de SiSa bijlage verantwoordingsinformatie.
+
+### 5.10.1. Handleiding applicatie verantwoordingslijst 2015
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
