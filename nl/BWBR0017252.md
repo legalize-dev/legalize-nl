@@ -4,7 +4,7 @@ identifier: "BWBR0017252"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-10-01"
-last_updated: "2015-03-11"
+last_updated: "2016-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0017252"
 soort: "ministeriele-regeling"
@@ -66,7 +66,7 @@ Voor 1 oktober van elk kalenderjaar verstrekt de Sociale verzekeringsbank aan de
 
 ##### Artikel 3. Betaling voorschot
 
-1. De minister stort op de rekening-courant, bedoeld in [artikel 5.16, onderdeel a, van de Regeling Wfsv](https://wetten.overheid.nl/jci1.3:c:BWBR0019150&artikel=5.16) een periodiek voorschot op het bedrag, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0017252&paragraaf=2&artikel=2&z=2015-03-11&g=2015-03-11), van:
+1. De minister stort op de rekening-courant, bedoeld in [artikel 5.16, onderdeel a, van de Regeling Wfsv](https://wetten.overheid.nl/jci1.3:c:BWBR0019150&artikel=5.16) een periodiek voorschot op het bedrag, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0017252&paragraaf=2&artikel=2&z=2016-01-01&g=2016-01-01), van:
 
 - a. geraamde uitkeringslasten met als valutadatum de tweeëntwintigste dag van elke maand, en
 
@@ -76,7 +76,7 @@ Voor 1 oktober van elk kalenderjaar verstrekt de Sociale verzekeringsbank aan de
 
 ##### Artikel 4. Afrekening
 
-1. In de jaarrekening, bedoeld in [artikel 49 van de Wet structuur uitvoeringsorganisatie werk en inkomen](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&artikel=49), worden de baten en lasten, alsmede de ontvangen voorschotten, bedoeld in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017252&paragraaf=2&artikel=3&z=2015-03-11&g=2015-03-11), met betrekking tot de kinderopvangtoeslag buitenland opgenomen.
+1. In de jaarrekening, bedoeld in [artikel 49 van de Wet structuur uitvoeringsorganisatie werk en inkomen](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&artikel=49), worden de baten en lasten, alsmede de ontvangen voorschotten, bedoeld in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017252&paragraaf=2&artikel=3&z=2016-01-01&g=2016-01-01), met betrekking tot de kinderopvangtoeslag buitenland opgenomen.
 
 2. Na goedkeuring van het besluit tot vaststelling van de jaarrekening, bedoeld in [artikel 34, tweede lid, van de Kaderwet zelfstandige bestuursorganen](https://wetten.overheid.nl/jci1.3:c:BWBR0020495&artikel=34), rekent de minister de baten en lasten, alsmede de ontvangen voorschotten, met betrekking tot het desbetreffende kalenderjaar af, met als valutadatum 1 juni van het hierop volgende kalenderjaar.
 
@@ -176,7 +176,7 @@ Vervallen
 
 ##### Artikel 12. Verslag
 
-Het college verstrekt aan de minister uiterlijk op 1 juli van elk kalenderjaar, overeenkomstig het in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0017252&bijlage=2&z=2015-03-11&g=2015-03-11) bij deze regeling opgenomen model, gegevens over het voorafgaande kalenderjaar over de uitvoering van de aan het college bij of krachtens de wet opgedragen taken.
+Het college verstrekt aan de minister uiterlijk op 1 juli van elk kalenderjaar, overeenkomstig het in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0017252&bijlage=2&z=2016-01-01&g=2016-01-01) bij deze regeling opgenomen model, gegevens over het voorafgaande kalenderjaar over de uitvoering van de aan het college bij of krachtens de wet opgedragen taken.
 
 #### Paragraaf 7. Kinderopvang buiten Nederland
 
@@ -216,7 +216,7 @@ Vervallen
 
 ##### Artikel 17. Overgangsbepaling met betrekking tot gemeentelijk verslag
 
-De verplichting van [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0017252&paragraaf=6&artikel=12&z=2015-03-11&g=2015-03-11) geldt voor het eerst over het kalenderjaar volgend op het kalenderjaar waarop dat artikel in werking is getreden.
+De verplichting van [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0017252&paragraaf=6&artikel=12&z=2016-01-01&g=2016-01-01) geldt voor het eerst over het kalenderjaar volgend op het kalenderjaar waarop dat artikel in werking is getreden.
 
 ##### Artikel 18. Tijdstip van inwerkingtreding
 
@@ -480,7 +480,7 @@ Vervallen
 
 ##### Artikel 9b. Systeembeschrijving
 
-De systeembeschrijving, bedoeld in [artikel 4, vijfde lid, van het Besluit registers](https://wetten.overheid.nl/jci1.3:c:BWBR0030892&artikel=4), wordt vastgesteld overeenkomstig de bij deze regeling behorende [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0017252&bijlage=2&z=2015-03-11&g=2015-03-11).
+De systeembeschrijving, bedoeld in [artikel 4, vijfde lid, van het Besluit registers](https://wetten.overheid.nl/jci1.3:c:BWBR0030892&artikel=4), wordt vastgesteld overeenkomstig de bij deze regeling behorende [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0017252&bijlage=2&z=2016-01-01&g=2016-01-01).
 
 ##### Artikel 9c. Taak Dienst Uitvoering Onderwijs
 
@@ -526,35 +526,35 @@ Deze ProjectStartArchitectuur (PSA) bevat een eerste opzet voor de architectuur 
 
 De registers kinderopvang en peuterspeelzaalwerk zijn in de uitvoering gerealiseerd en bijeengebracht onder de naam Landelijk Register Kinderopvang en Peuterspeelzalen (LRKP). Het LRKP is een centrale, door Dienst Uitvoering Onderwijs (hierna: DUO) beheerde, elektronische database die door een webapplicatie ter beschikking is gesteld aan alle gemeenten, die op basis van door DUO verstrekte autorisaties bevoegd zijn gegevens in het systeem in te voeren, te wijzigen of te verwijderen (via het zogenoemde Overheidsportaal). Gekoppeld aan dit Overheidsportaal is er een inkijkfunctie in de Basisregistratie personen (hierna: Brp), waarmee de gegevens van de aanvrager door de gemeenten te controleren zijn.1Voor de inwerkingtreding van de Wet basisadministratie personen (Stb. 2013, 315) is deze administratie aangeduid met het begrip ‘gemeentelijke basisadministratie’.
 
-### Projectstartarchitectuur Landelijk Register Kinderopvang
+### Systeembeschrijving registers kinderopvang en peuterspeelzaalwerk.
+
+De registers kinderopvang en peuterspeelzaalwerk zijn in de uitvoering gerealiseerd en bijeengebracht onder de naam Landelijk Register Kinderopvang en Peuterspeelzalen (LRKP). Het LRKP is een centrale, door Dienst Uitvoering Onderwijs (hierna: DUO) beheerde, elektronische database die door een webapplicatie ter beschikking is gesteld aan alle gemeenten, die op basis van door DUO verstrekte autorisaties bevoegd zijn gegevens in het systeem in te voeren, te wijzigen of te verwijderen (via het zogenoemde Overheidsportaal). Gekoppeld aan dit Overheidsportaal is er een inkijkfunctie in de Basisregistratie personen (hierna: Brp), waarmee de gegevens van de aanvrager door de gemeenten te controleren zijn.1Voor de inwerkingtreding van de Wet basisadministratie personen (Stb. 2013, 315) is deze administratie aangeduid met het begrip ‘gemeentelijke basisadministratie’.
+
+Tevens is aan het LRKP een toezichts- en handhavingssysteem gekoppeld: de Gemeenschappelijke Inspectieruimte (GIR). Deze GIR is via het Overheidsportaal toegankelijk voor GGD’en en gemeenten en wordt gebruikt om toezicht en handhaving te faciliteren: toezichtsgegevens kunnen makkelijk in het systeem worden vastgelegd en inspectierapporten en handhavingsbrieven kunnen worden gegenereerd. Tevens kan gemakkelijk informatie worden uitgewisseld tussen GGD en gemeente. De GIR wordt ook gebruikt bij het genereren van de jaarverantwoording door gemeenten aan de Inspectie van het Onderwijs (de tweedelijns toezichthouder).
 
 Het LRKP staat in verbinding met het toeslagensysteem van de Belastingdienst/Toeslagen, die het LRKP gebruikt bij de toekenning van de kinderopvangtoeslag.
 
 Het openbare deel van de gegevens in het LRKP is via een website voor iedereen in te zien (het Publieksportaal). In het Publieksportaal kan op diverse manieren gezocht worden naar kinderopvangvoorzieningen en peuterspeelzalen en wordt allerlei informatie over de voorzieningen en de houders zichtbaar gemaakt. Deze informatie kan via internet ook in de vorm van een spreadsheet door iedereen worden gedownload via Open data Rijksoverheid.
 
-Het proces rond het systeemcomplex werkt als volgt:
+### 1.1. Doelgroep
 
 DUO zorgt in opdracht van de minister voor het beheer en de verdere ontwikkeling van het systeemcomplex LRKP/GIR. In een jaarlijks contract met daarbij een Dienstverleningsovereenkomst en een Service Level Agreement wordt vastgelegd welke werkzaamheden DUO dient uit te voeren en welke doelen bereikt moeten worden. Iedere maand wordt door DUO gerapporteerd over het Service level en ieder kwartaal vindt op directeursniveau overleg plaats over de voortgang en het niveau van de dienstverlening.
 
-### 1.1. Doelgroep
+Er is minstens eenmaal per maand overleg tussen de ketenpartners (DUO, SZW, ICT Uitvoeringsorganisatie, Vereniging Nederlandse Gemeenten (hierna: VNG), GGD Nederland, Belastingdienst/Toeslagen, Inspectie van het Onderwijs) over de voortgang en over vraagstukken in de uitvoering. Tevens is er maandelijks een Change Advisory Board (hierna: CAB), met daarin voornoemde partijen, die systeemwijzigingsvoorstellen prioriteert en de opdrachtgever adviseert over de doorontwikkeling van het systeem. In principe is er een halfjaarlijkse nieuwe release, waarin eventuele wijzigingen in beleid en regelgeving en gebruikerswensen zijn verwerkt.
 
 VNG, GGD Nederland en DUO hebben veelvuldig overleg met gebruikers van het systeem. Eventuele gewenste wijzigingen kunnen via een wijzigingsvoorstel worden ingebracht in het CAB, dat daar vervolgens over adviseert. De hele procedure van het indienen van een wijzigingsvoorstel tot de uiteindelijke wijziging van het systeem is in een beschrijving vastgelegd en maakt onderdeel uit van de Dienstverleningsovereenkomst.
 
 DUO zorgt voor een helpdesk en een nieuwsbrief aan gebruikers en gaat met regiomanagers het land in om bij gemeenten en GGD’en de vinger aan de pols te houden en problemen voor te zijn of op te lossen. Ook zorgt DUO voor instructies en korte cursussen in het werken met het LRKP en de GIR.
 
-In drie hoofdstukken worden de eerste negen vlakken van de NORA besproken. In de hoofdstukken 4, 5 en 6 worden drie vlakken van respectievelijk de bedrijfs-, de informatie- en de technische architectuur behandeld.
+### Systeembeschrijving register buitenlandse kinderopvang
 
 Het beheer van het register buitenlandse kinderopvang wordt ondergebracht bij de Helpdesk Kinderopvang van DUO. Omdat door het afschaffen van de gelijkgestelde categorieën kinderopvang het aantal aanvragen tot inschrijving in het register buitenlandse kinderopvang zal toenemen, wordt ter ondersteuning van de uitvoering een compacte applicatie ingericht waarin de aanvragen en de daaruit volgende registraties worden bijgehouden. In deze applicatie wordt onder meer bijgehouden wat de status van een aanvraag is, en of en zo ja, welke brieven en beschikkingen er zijn verstuurd. Bij elke registratie wordt een identificerend nummer gegenereerd dat onder andere gebruikt wordt in de communicatie met de Belastingdienst/Toeslagen en dat ook gebruikt kan worden om gearchiveerde bewijsstukken op te vragen uit het digitaal archief van DUO.
 
-### 1.2. Scope van dit document
+De binnenkomende aanvragen en bewijsstukken worden in eerste instantie verzameld en handmatig verwerkt. Dit wordt onder andere zo gedaan omdat het belangrijk is de bewijsstukken fysiek te kunnen beoordelen. Nadat een beschikking is afgegeven wordt het dossier als één geheel gescand en zowel fysiek als digitaal gearchiveerd.
 
 De regelgeving is verwerkt in werkinstructies aan de hand waarvan de Helpdesk Kinderopvang werkt. Naarmate de regeling tot meer landen wordt uitgebreid zullen ook daarvoor werkinstructies worden opgesteld.
 
 Rond eind 2014/begin 2015 zal worden aangesloten op de bestaande koppeling tussen het LRKP en de Belastingdienst/Toeslagen. De gegevens van de geregistreerde buitenlandse kinderopvanginstellingen zullen dan via een automatische koppeling worden doorgegeven naar de Belastingdienst/Toeslagen. In principe wordt aangesloten op de bestaande koppeling, maar dat gebeurt zodanig dat de berichten onderscheiden kunnen worden van de berichten die betrekking hebben op het LRKP, zodat de beide stromen van elkaar gescheiden blijven. Alleen de medewerkers van de Helpdesk Kinderopvang hebben toegang tot de beheerfunctionaliteit van het register buitenlandse kinderopvang.
-
-Het programma Landelijk Register Kinderopvang en Peuterspeelzalen is een breed programma dat uiteindelijk de volledige ondersteuning van de nieuwe [Wet Kinderopvang en kwaliteitseisen peuterspeelzalen](https://wetten.overheid.nl/jci1.3:c:BWBR0017017) gaat opleveren.
-
-Het programma is, om dit brede doel te realiseren, opgesplitst in een aantal deelprojecten: Implementatie, Beheer en ICT. Het is evident dat er een nauwe relatie is tussen de verschillende deelprojecten.
 
 Dit document beschrijft de tot nu toe door het ICT-gedeelte van het programma gerealiseerde delen van het systeemcomplex LR KO&PSW.
 
@@ -580,15 +580,15 @@ De informatieverstrekking geschiedt aan de hand van de criteria die hieronder zi
 
 ### 1.6. Woordenlijst
 
-Dit document heeft ook een relatie met een aantal documenten die verdergaan op basis van de inhoud. Het gaat hier om de volgende documenten:
+Gemeenten die gebruik maken van de landelijke uitvoeringssystemen LRKP en GIR en waarvan de bij de gemeente behorende GGD dat eveneens doet, dienen de gegevens vast te laten stellen door het college. Vervolgens wordt het jaarverslag aan de gemeenteraad en de Inspectie van het Onderwijs (hierna: IvhO) beschikbaar gesteld.
 
-Voor het systeemcomplex LR KO&PSW relevante externe systemen zijn – begin 2012 – het kinderopvangtoeslagsysteem van de belastingdienst, dat wordt gevoed met informatie betreffende het in- en uitschrijven van organisaties voor kinderopvang, en de GBA, dat wordt gebruikt voor het ophalen van persoonsgegevens.
+Voor gemeenten die voor een deel van hun taak niet zijn aangesloten bij de hiervoor genoemde landelijke systemen, of waarvan de GGD niet met GIR-inspecteren werkt, kan de volledige gegevensverzameling niet automatisch plaatsvinden. Deze gemeenten dienen de ontbrekende gegevens zelf op de website www.waarstaatjegemeente.nl toe te voegen. Ook deze gemeenten dienen de verantwoordingsgegevens door het college te laten vaststellen en aan de gemeenteraad en IvhO beschikbaar te stellen.
 
 Het programma Landelijk Register Kinderopvang is een breed programma dat uiteindelijk de volledige ondersteuning van de nieuwe [wet Kinderopvang](https://wetten.overheid.nl/jci1.3:c:BWBR0017017) gaat opleveren.
 
-### D. Criterium ‘handhaving’ kindercentra, buitenschoolse opvang, gastouderbureaus, peuterspeelzalen en voorzieningen gastouderopvang
+### B. Criterium tijdig afgehandeld kindercentra, buitenschoolse opvang, gastouderbureaus, peuterspeelzalen en voorzieningen gastouderopvang
 
-### 3.3. Kaders en standaarden
+### C. Criterium ‘uitvoering inspecties’ kindercentra, buitenschoolse opvang, gastouderbureaus, peuterspeelzalen en voorzieningen gastouderopvang
 
 De overheid is voornemens de interoperabiliteit tussen overheidsinstellingen te verbeteren. Daarvoor worden in toenemende maten standaarden benoemd en afspraken gemaakt over de wijze waarop met elkaar gecommuniceerd gaat worden. De NORA is daarvan een uitvloeisel.
 
@@ -2104,7 +2104,7 @@ Tevens is aan het LRKP een toezichts- en handhavingssysteem gekoppeld: de Gemeen
 
 ### Documenthistorie
 
-Er is minstens eenmaal per maand overleg tussen de ketenpartners (DUO, SZW, ICT Uitvoeringsorganisatie, Vereniging Nederlandse Gemeenten (hierna: VNG), GGD Nederland, Belastingdienst/Toeslagen, Inspectie van het Onderwijs) over de voortgang en over vraagstukken in de uitvoering. Tevens is er maandelijks een Change Advisory Board (hierna: CAB), met daarin voornoemde partijen, die systeemwijzigingsvoorstellen prioriteert en de opdrachtgever adviseert over de doorontwikkeling van het systeem. In principe is er een halfjaarlijkse nieuwe release, waarin eventuele wijzigingen in beleid en regelgeving en gebruikerswensen zijn verwerkt.
+Het proces rond het systeemcomplex werkt als volgt:
 
 ### 1.3. Leeswijzer
 
@@ -2118,15 +2118,15 @@ De implementatie van de [Wko](https://wetten.overheid.nl/jci1.3:c:BWBR0017017) r
 
 De informatieverstrekking van het college aan de minister over de uitvoering van de bij of krachtens de wet opgedragen taken toezicht en handhaving in het kader van de wet- en regelgeving kinderopvang en peuterspeelzalen, dient jaarlijks uiterlijk op 1 juli plaats te vinden.
 
-### 1.5. Relatie met andere documenten op lager niveau
+### Informatieverstrekking over de toezicht- en handhavingstaken
 
-De benodigde gegevens worden zoveel mogelijk uit de bestaande landelijke gebruikers- en uitvoeringssystemen (het Landelijk Register Kinderopvang en Peuterspeelzalen (LRKP) en de Gemeenschappelijke Inspectie Ruimte (GIR)) gehaald. Deze worden per gemeente verwerkt in een jaarlijks overzicht ten behoeve van de jaarverantwoording kinderopvang en peuterspeelzalen. Dit overzicht wordt vervolgens op de website www.waarstaatjegemeente.nl beschikbaar gesteld.
+De informatieverstrekking van het college aan de minister over de uitvoering van de bij of krachtens de wet opgedragen taken toezicht en handhaving in het kader van de wet- en regelgeving kinderopvang en peuterspeelzalen, dient jaarlijks uiterlijk op 1 juli plaats te vinden.
 
 ### A. Criterium Registervoering
 
 Uitgangspunt bij het ontwerp van het systeemcomplex LR KO&PSW is dat – waar mogelijk – gebruik wordt gemaakt van open standaarden en open source producten.
 
-### 2.2. Probleem en oplossing
+### D. Criterium ‘handhaving’ kindercentra, buitenschoolse opvang, gastouderbureaus, peuterspeelzalen en voorzieningen gastouderopvang
 
 Reden voor de introductie van deze nieuwe wet is meerledig:
 
@@ -3046,11 +3046,11 @@ Deze regeling berust mede op [artikel 4, eerste lid, van het Besluit basisvoorwa
 
 ### 3.1. Scope
 
-Voor gemeenten die voor een deel van hun taak niet zijn aangesloten bij de hiervoor genoemde landelijke systemen, of waarvan de GGD niet met GIR-inspecteren werkt, kan de volledige gegevensverzameling niet automatisch plaatsvinden. Deze gemeenten dienen de ontbrekende gegevens zelf op de website www.waarstaatjegemeente.nl toe te voegen. Ook deze gemeenten dienen de verantwoordingsgegevens door het college te laten vaststellen en aan de gemeenteraad en IvhO beschikbaar te stellen.
+De benodigde gegevens worden zoveel mogelijk uit de bestaande landelijke gebruikers- en uitvoeringssystemen (het Landelijk Register Kinderopvang en Peuterspeelzalen (LRKP) en de Gemeenschappelijke Inspectie Ruimte (GIR)) gehaald. Deze worden per gemeente verwerkt in een jaarlijks overzicht ten behoeve van de jaarverantwoording kinderopvang en peuterspeelzalen. Dit overzicht wordt vervolgens op de website www.waarstaatjegemeente.nl beschikbaar gesteld.
 
 ### B. Criterium tijdig afgehandeld kindercentra, buitenschoolse opvang, gastouderbureaus, peuterspeelzalen en voorzieningen gastouderopvang
 
-### C. Criterium ‘uitvoering inspecties’ kindercentra, buitenschoolse opvang, gastouderbureaus, peuterspeelzalen en voorzieningen gastouderopvang
+### A. Criterium Registervoering
 
 Het programma Landelijk Register Kinderopvang is een breed programma dat uiteindelijk de volledige ondersteuning van de nieuwe [wet Kinderopvang](https://wetten.overheid.nl/jci1.3:c:BWBR0017017) gaat opleveren.
 
@@ -3262,7 +3262,7 @@ Deze regeling berust mede op [artikel 4, eerste lid, van het Besluit basisvoorwa
 
 ### Informatieverstrekking over de toezicht- en handhavingstaken
 
-Gemeenten die gebruik maken van de landelijke uitvoeringssystemen LRKP en GIR en waarvan de bij de gemeente behorende GGD dat eveneens doet, dienen de gegevens vast te laten stellen door het college. Vervolgens wordt het jaarverslag aan de gemeenteraad en de Inspectie van het Onderwijs (hierna: IvhO) beschikbaar gesteld.
+De informatieverstrekking geschiedt aan de hand van de criteria die hieronder zijn opgenomen.
 
 ### 4.2. Diensten en services
 
@@ -3600,7 +3600,7 @@ Vervallen
 
 ##### Artikel 10e
 
-1. Aan de Directeur-generaal van de Dienst Uitvoering Onderwijs wordt mandaat, volmacht en machtiging verleend tot het nemen van besluiten en het verrichten van alle benodigde werkzaamheden, waaronder het vaststellen en ondertekenen van stukken, ter uitvoering van de bevoegdheid van de minister, genoemd in de [artikelen 10, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017252&paragraaf=4&artikel=10&z=2015-03-11&g=2015-03-11), [10a, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017252&paragraaf=4&artikel=10a&z=2015-03-11&g=2015-03-11) en [10b, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017252&paragraaf=4&artikel=10b&z=2015-03-11&g=2015-03-11).
+1. Aan de Directeur-generaal van de Dienst Uitvoering Onderwijs wordt mandaat, volmacht en machtiging verleend tot het nemen van besluiten en het verrichten van alle benodigde werkzaamheden, waaronder het vaststellen en ondertekenen van stukken, ter uitvoering van de bevoegdheid van de minister, genoemd in de [artikelen 10, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017252&paragraaf=4&artikel=10&z=2016-01-01&g=2016-01-01), [10a, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017252&paragraaf=4&artikel=10a&z=2016-01-01&g=2016-01-01) en [10b, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017252&paragraaf=4&artikel=10b&z=2016-01-01&g=2016-01-01).
 
 2. Aan de Directeur-generaal van de Dienst Uitvoering Onderwijs wordt mandaat en machtiging verleend met betrekking tot het nemen van besluiten over en het vaststellen en ondertekenen van stukken, die betrekking hebben op de afhandeling van administratieve stukken inzake klacht-, bezwaar- en beroepsprocedures, voor zover deze verband houden met de uitoefening van de bevoegdheden, genoemd in het eerste lid en met dien verstande dat de Directeur-generaal geen besluit op bezwaar neemt met betrekking tot een bezwaarschrift tegen een besluit dat de Directeur-generaal in mandaat heeft genomen.
 
@@ -3614,7 +3614,7 @@ Vervallen
 
 #### Paragraaf 8. Overgangs- en slotbepalingen
 
-## Bijlage 2
+## Bijlage 1. , behorende bij [artikel 9b](https://wetten.overheid.nl/jci1.3:c:BWBR0017252&paragraaf=3&artikel=9b&z=2016-01-01&g=2016-01-01)
 
 ### 1.3. Leeswijzer
 
@@ -3690,9 +3690,9 @@ De vraagouder betaalt periodiek de kosten voor gastouderopvang uiterlijk binnen 
 
 3. De houder van een peuterspeelzaal kan de gegevens, bedoeld in het tweede lid, op een andere plaats administreren dan op de plaats van vestiging van de peuterspeelzaal, mits de gegevens, bedoeld in het tweede lid, op verzoek van de toezichthouder, bedoeld in [artikel 2.19 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&artikel=2.19), bij een onderzoek onverwijld beschikbaar komen op de plaats van vestiging van de peuterspeelzaal.
 
-#### Paragraaf 6. Gemeentelijk jaarverslag
+#### Paragraaf 5c. Verslag klachtenregeling kindercentra, gastouderbureaus en peuterspeelzalen
 
-#### Paragraaf 7. Kinderopvang buiten Nederland
+#### Paragraaf 6. Gemeentelijk jaarverslag
 
 #### Paragraaf 8. Overgangs- en slotbepalingen
 
@@ -3800,7 +3800,15 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 ##### Artikel 17c
 
-Indien een ouder op 31 december 2013 gebruik maakte van een buiten Nederland gevestigd kindercentrum of gevestigde gastouder als bedoeld in de [artikelen 16a tot en met 16d](https://wetten.overheid.nl/jci1.3:c:BWBR0017252&paragraaf=7a&artikel=16a&z=2015-03-11&g=2015-03-11), zoals deze luidden op 31 december 2013, wordt dit kindercentrum of deze gastouder voor het gebruik door deze ouder tot 1 januari 2015 aangemerkt als een in het register buitenlandse kinderopvang ingeschreven voorziening als bedoeld in [artikel 1.48, eerste of tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&artikel=1.48).
+Indien een ouder op 31 december 2013 gebruik maakte van een buiten Nederland gevestigd kindercentrum of gevestigde gastouder als bedoeld in de [artikelen 16a tot en met 16d](https://wetten.overheid.nl/jci1.3:c:BWBR0017252&paragraaf=7a&artikel=16a&z=2016-01-01&g=2016-01-01), zoals deze luidden op 31 december 2013, wordt dit kindercentrum of deze gastouder voor het gebruik door deze ouder tot 1 januari 2015 aangemerkt als een in het register buitenlandse kinderopvang ingeschreven voorziening als bedoeld in [artikel 1.48, eerste of tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&artikel=1.48).
+
+## Bijlage 1a
+
+Vervallen
+
+## Bijlage 1b
+
+Vervallen
 
 ## Bijlage 1a
 
@@ -3826,10 +3834,22 @@ Vervallen
 
 Vervallen
 
+Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
+
+##### Artikel 11h. Verslag
+
+De houder van een kindercentrum, een gastouderbureau of een peuterspeelzaal stelt jaarlijks vanaf het kalenderjaar 2017 het verslag, bedoeld in de [artikelen 1.57b, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&artikel=1.57b), en [2.13a, vierde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&artikel=2.13a) op, dat betrekking heeft op het voorafgaande kalenderjaar.
+
+#### Paragraaf 7. Kinderopvang buiten Nederland
+
+#### Paragraaf 7a. Aanwijzing van gelijkgestelde buitenlandse kinderopvangvoorzieningen
+
+#### Paragraaf 8. Overgangs- en slotbepalingen
+
 ## Bijlage 1g
 
 Vervallen
 
-## Bijlage 2. , behorende bij [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0017252&paragraaf=6&artikel=12&z=2015-03-11&g=2015-03-11)
+## Bijlage 2. , behorende bij [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0017252&paragraaf=6&artikel=12&z=2016-01-01&g=2016-01-01)
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
