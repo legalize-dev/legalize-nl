@@ -4,7 +4,7 @@ identifier: "BWBR0036398"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2016-01-01"
-last_updated: "2015-01-01"
+last_updated: "2016-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0036398"
 soort: "ministeriele-regeling"
@@ -40,9 +40,9 @@ Gelet op de [artikelen 87](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&artik
 
 Gezien de Regeling zorgvraagzwaarte cGGZ (Stcrt.2013, nr. 30961);
 
-Gezien de [Regeling tijdelijke opschorting levering zorgvraagzwaarte cGGZ](https://wetten.overheid.nl/jci1.3:c:BWBR0035586&wetgeving) (Stcrt. 2014, nr. 27276);
+Gezien de [Regeling tijdelijke opschorting levering zorgvraagzwaarte cGGZ](https://wetten.overheid.nl/jci1.3:c:BWBR0035586) (Stcrt. 2014, nr. 27276);
 
-Overwegende dat de overwegingen die ten grondslag lagen aan de [Regeling tijdelijke opschorting levering zorgvraagzwaarte cGGZ](https://wetten.overheid.nl/jci1.3:c:BWBR0035586&wetgeving) nog steeds van toepassing zijn;
+Overwegende dat de overwegingen die ten grondslag lagen aan de [Regeling tijdelijke opschorting levering zorgvraagzwaarte cGGZ](https://wetten.overheid.nl/jci1.3:c:BWBR0035586) nog steeds van toepassing zijn;
 
 Overwegende dat GGZ Nederland, de Landelijke Vereniging van Vrijgevestigde Psychologen en Psychotherapeuten (LVVP), de Nederlandse Vereniging voor Psychiatrie (NVvP), het Nederlands Instituut voor Psychologen (NIP), het Landelijk Platform GGZ, Zorgverzekeraars Nederland en de Nederlandse Zorgautoriteit zijn gestart met de verkenning of een andere wijze van verwerking van het gegeven zorgvraagzwaarte mogelijk is die minder inbreuk maakt op de persoonlijke levenssfeer van de verzekerde patiënt dan het vermelden van het gegeven zorgvraagzwaarte op de declaratie;
 
@@ -66,13 +66,7 @@ Wijzigt de Regeling zorgverzekering.
 
 ##### Artikel II
 
-1. Wijzigt de Regeling zorgverzekering.
-
-2. De zorgaanbieder is verplicht, mits de Nederlandse Zorgautoriteit dat in een regel op grond van de [Wet marktordening gezondheidszorg](https://wetten.overheid.nl/jci1.3:c:BWBR0020078) heeft bepaald, de zorgvraagzwaarteindicator, die wordt afgeleid uit brongegevens die de zorgaanbieder heeft geregistreerd met betrekking tot zorg waarop het vierde lid van [artikel 7.2](https://wetten.overheid.nl/jci1.3:c:BWBR0018715&artikel=7.2) is toegepast en voor welke zorg bij een zorgverzekeraar een declaratie is ingediend, met ingang van 2016 aan die zorgverzekeraar te leveren:
-
-- a. door middel van de door betrokkenen gezamenlijk ontwikkelde, concrete, werkbare en geoperationaliseerde wijze die minder inbreuk maakt op de persoonlijke levenssfeer van de verzekerde patiënt dan vermelding van die zorgvraagzwaarteindicator op de declaratie, dan wel, bij gebrek aan een dergelijke wijze,
-
-- b. door middel van een wijze waarbij de zorgvraagzwaarteindicator door de zorgverzekeraar kan worden gekoppeld aan de ingediende declaratie.
+Vervallen
 
 ##### Artikel III
 
