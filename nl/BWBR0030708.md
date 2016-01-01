@@ -4,7 +4,7 @@ identifier: "BWBR0030708"
 country: "nl"
 rank: "zbo"
 publication_date: "2016-01-01"
-last_updated: "2014-01-01"
+last_updated: "2016-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0030708"
 soort: "zbo"
@@ -52,17 +52,17 @@ Vervallen
 
 ##### Artikel 3. Preliminaire vaststelling syllabi 2015
 
-De syllabi, bedoeld in [artikel 2, tweede lid, onderdeel f, van de Wet College voor examens](https://wetten.overheid.nl/jci1.3:c:BWBR0025364&artikel=2) worden vastgesteld voor de centrale examens in het v.m.b.o. in 2015, voor de vakken als vermeld in de [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0030708&bijlage=3&z=2014-01-01&g=2014-01-01) bij deze regeling, en maken na bekendmaking deel uit van deze regeling.
+Vervallen
 
 ##### Artikel 4. Inwerkingtreding
 
 Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst en vervalt:
 
-- 1. betreffende [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0030708&artikel=1&z=2014-01-01&g=2014-01-01): per 1 januari 2014;
+- 1. betreffende [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0030708&artikel=1&z=2016-01-01&g=2016-01-01): per 1 januari 2014;
 
-- 2. betreffende [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0030708&artikel=2&z=2014-01-01&g=2014-01-01): per 1 januari 2013;
+- 2. betreffende [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0030708&artikel=2&z=2016-01-01&g=2016-01-01): per 1 januari 2013;
 
-- 3. betreffende [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0030708&artikel=3&z=2014-01-01&g=2014-01-01): per 1 januari 2016.
+- 3. betreffende [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0030708&artikel=3&z=2016-01-01&g=2016-01-01): per 1 januari 2016.
 
 ##### Artikel 5. Citeertitel
 
@@ -72,7 +72,7 @@ Deze regeling wordt aangehaald als: Regeling syllabi centrale examens VO 2013 en
 
 1. Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
-2. De syllabi als bedoeld in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0030708&artikel=1&z=2014-01-01&g=2014-01-01), [2](https://wetten.overheid.nl/jci1.3:c:BWBR0030708&artikel=2&z=2014-01-01&g=2014-01-01) en [3](https://wetten.overheid.nl/jci1.3:c:BWBR0030708&artikel=3&z=2014-01-01&g=2014-01-01) worden bekend gemaakt op www.examenblad.nl.
+2. De syllabi als bedoeld in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0030708&artikel=1&z=2016-01-01&g=2016-01-01), [2](https://wetten.overheid.nl/jci1.3:c:BWBR0030708&artikel=2&z=2016-01-01&g=2016-01-01) en [3](https://wetten.overheid.nl/jci1.3:c:BWBR0030708&artikel=3&z=2016-01-01&g=2016-01-01) worden bekend gemaakt op www.examenblad.nl.
 
 ## Bijlage 1a
 
@@ -319,5 +319,7 @@ Vervallen
 Vervallen
 
 ## Bijlage 3
+
+Vervallen
 
 ### Preliminaire vaststelling syllabi v.m.b.o. 2015
