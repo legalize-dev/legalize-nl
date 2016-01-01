@@ -4,7 +4,7 @@ identifier: "BWBR0002622"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2016-01-01"
-last_updated: "2013-07-01"
+last_updated: "2016-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0002622"
 soort: "ministeriele-regeling"
@@ -48,21 +48,23 @@ Besluit:
 
 2. Voor de toepassing van de [Wet op de arbeidsongeschiktheidsverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0002524) of de [Wet werk en inkomen naar arbeidsvermogen](https://wetten.overheid.nl/jci1.3:c:BWBR0019057) is het bepaalde in het vorige lid niet van toepassing, indien de betrokkene de pensioengerechtigde leeftijd, bedoeld in [artikel 7a, eerste lid, van de Algemene Ouderdomswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002221&artikel=7a) heeft bereikt.
 
+3. Voor de toepassing van de [Ziektewet](https://wetten.overheid.nl/jci1.3:c:BWBR0001888) en de [Wet op de arbeidsongeschiktheidsverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0002524) wordt in de gevallen, bedoeld in het eerste lid, aangewezen als werkgever het Uitvoeringsinstituut werknemersverzekeringen.
+
 ##### Artikel 2
 
-1. Voor de toepassing van de [Ziektewet](https://wetten.overheid.nl/jci1.3:c:BWBR0001888), de [Wet op de arbeidsongeschiktheidsverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0002524) en de [Wet werk en inkomen naar arbeidsvermogen](https://wetten.overheid.nl/jci1.3:c:BWBR0019057) wordt als werknemer beschouwd degene, die wegens werkloosheid niet werkt, doch aan wie geen uitkering wordt verleend:
+1. Voor de toepassing van de [Ziektewet](https://wetten.overheid.nl/jci1.3:c:BWBR0001888), de [Wet op de arbeidsongeschiktheidsverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0002524) en de [Wet werk en inkomen naar arbeidsvermogen](https://wetten.overheid.nl/jci1.3:c:BWBR0019057) wordt als werknemer beschouwd degene die wegens werkloosheid niet werkt, doch aan wie geen uitkering wordt verleend:
 
-- a. op grond van het bepaalde in [artikel 19, eerste lid, onderdelen j en k, en derde lid van de Werkloosheidswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&artikel=19) (Stb. 1986, 566);
+- a. op grond van het bepaalde in [artikel 19, eerste lid, onderdelen j en k, en derde, vierde en zesde lid, van de Werkloosheidswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&artikel=19);
 
-- b. op grond van het bepaalde in de [artikelen 19, eerste lid, onderdeel e](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&artikel=19), [24, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&artikel=24), [25](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&artikel=25), [26, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&artikel=26), en [27 van de Werkloosheidswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&artikel=27), mits de periode, waarover op grond van laatstbedoelde bepalingen geen uitkeringen wordt verleend, voorafgaand aan, dan wel een onderbreking vormt van een periode, waarover wel uitkering wordt verleend;
+- b. op grond van het bepaalde in de [artikelen 19, eerste lid, onderdeel e](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&artikel=19), [24, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&artikel=24), [25](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&artikel=25), [26, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&artikel=26), en [27 van de Werkloosheidswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&artikel=27), mits de periode, waarover op grond van laatstbedoelde bepalingen geen uitkering wordt verleend, voorafgaat aan, dan wel een onderbreking vormt van een periode, waarover wel uitkering wordt verleend;
 
 - c. over de zaterdagen en zondagen.
 
-1a. Voor de toepassing van de [Ziektewet](https://wetten.overheid.nl/jci1.3:c:BWBR0001888) wordt in de gevallen, bedoeld in het vorige lid, aangewezen als werkgever de bedrijfsvereniging, bij welke degene, die ingevolge het bepaalde in het vorige lid als werknemer wordt beschouwd, verzekerd zou zijn, indien hem de in dat lid bedoelde uitkering zou zijn verleend.
+2. Voor de toepassing van de [Ziektewet](https://wetten.overheid.nl/jci1.3:c:BWBR0001888) en de [Wet op de arbeidsongeschiktheidsverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0002524) wordt in de gevallen, bedoeld in het eerste lid, aangewezen als werkgever het Uitvoeringsinstituut werknemersverzekeringen.
 
 ##### Artikel 3
 
-Voor de toepassing van de [Ziektewet](https://wetten.overheid.nl/jci1.3:c:BWBR0001888) en de [Wet werk en inkomen naar arbeidsvermogen](https://wetten.overheid.nl/jci1.3:c:BWBR0019057) wordt als werknemer beschouwd degene wiens dienstbetrekking is geëindigd anders dan door opzegging met inachtneming van de rechtens geldende termijn, doch aan wie geen uitkering op grond van de [Werkloosheidswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004045) wordt verleend, doordat op grond van [artikel 1, onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0032545&artikel=1), en [artikel 2, van de Gelijkstellingsregeling arbeidsuren](https://wetten.overheid.nl/jci1.3:c:BWBR0032545&artikel=2) geen verlies van arbeidsuren optreedt.
+Vervallen
 
 ##### Artikel 4
 
