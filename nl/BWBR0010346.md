@@ -4,7 +4,7 @@ identifier: "BWBR0010346"
 country: "nl"
 rank: "wet"
 publication_date: "2025-07-01"
-last_updated: "2015-06-01"
+last_updated: "2016-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0010346"
 soort: "wet"
@@ -89,7 +89,7 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 - i. arbeidsongeval: een aan een werknemer in verband met het verrichten van arbeid overkomen ongewilde, plotselinge gebeurtenis, die schade aan de gezondheid tot vrijwel onmiddellijk gevolg heeft gehad en heeft geleid tot ziekteverzuim, of de dood tot vrijwel onmiddellijk gevolg heeft gehad;
 
-- j. arbodienst: een dienst als bedoeld in [artikel 14a, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010346&hoofdstuk=3&artikel=14a&z=2015-06-01&g=2015-06-01);
+- j. arbodienst: een dienst als bedoeld in [artikel 14a, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010346&hoofdstuk=3&artikel=14a&z=2016-01-01&g=2016-01-01);
 
 - k. zelfstandige: degene die zonder werkgever of werknemer te zijn in de zin van het eerste of tweede lid arbeid verricht;
 
@@ -99,7 +99,7 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 - 2°. in het kader van een taakstraf dan wel in het kader van het voldoen aan voorwaarden ter voorkoming van strafvervolging als bedoeld in [artikel 74, tweede lid, onderdeel f](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=74), of [artikel 77f, eerste lid, onderdeel b, van het Wetboek van Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=77f) dan wel in het kader van deelneming aan een project als bedoeld in [artikel 77e van het Wetboek van Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=77e);
 
-- 3°. als bedoeld in [artikel 16, zesde lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0010346&hoofdstuk=4&artikel=16&z=2015-06-01&g=2015-06-01).
+- 3°. als bedoeld in [artikel 16, zesde lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0010346&hoofdstuk=4&artikel=16&z=2016-01-01&g=2016-01-01).
 
 4. Waar in deze wet en de daarop berustende bepalingen de woorden «bedrijf» en «inrichting» worden gebruikt om een plaats aan te duiden, omvatten deze mede een andere plaats waar arbeid wordt verricht of pleegt te worden verricht.
 
@@ -135,7 +135,7 @@ Deze wet en de daarop berustende bepalingen zijn mede van toepassing op:
 
 - e. doeltreffende maatregelen worden getroffen op het gebied van de eerste hulp bij ongevallen, de brandbestrijding en de evacuatie van werknemers en andere aanwezige personen, en doeltreffende verbindingen worden onderhouden met de desbetreffende externe hulpverleningsorganisaties;
 
-- f. elke werknemer moet bij ernstig en onmiddellijk gevaar voor zijn eigen veiligheid of die van anderen, rekening houdend met zijn technische kennis en middelen, de nodige passende maatregelen kunnen nemen om de gevolgen van een dergelijk gevaar te voorkomen, waarbij [artikel 29, eerste lid, derde zin](https://wetten.overheid.nl/jci1.3:c:BWBR0010346&hoofdstuk=5&artikel=29&z=2015-06-01&g=2015-06-01), van overeenkomstige toepassing is.
+- f. elke werknemer moet bij ernstig en onmiddellijk gevaar voor zijn eigen veiligheid of die van anderen, rekening houdend met zijn technische kennis en middelen, de nodige passende maatregelen kunnen nemen om de gevolgen van een dergelijk gevaar te voorkomen, waarbij [artikel 29, eerste lid, derde zin](https://wetten.overheid.nl/jci1.3:c:BWBR0010346&hoofdstuk=5&artikel=29&z=2016-01-01&g=2016-01-01), van overeenkomstige toepassing is.
 
 2. De werkgever voert, binnen het algemeen arbeidsomstandighedenbeleid, een beleid gericht op voorkoming en indien dat niet mogelijk is beperking van psychosociale arbeidsbelasting.
 
@@ -147,7 +147,7 @@ Deze wet en de daarop berustende bepalingen zijn mede van toepassing op:
 
 ##### Artikel 4. Aanpassing arbeidsplaats werknemer met structurele functionele beperking
 
-1. In aanvulling op [artikel 3, eerste lid, aanhef en onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0010346&hoofdstuk=2&artikel=3&z=2015-06-01&g=2015-06-01), past de werkgever, bedoeld in [artikel 1, eerste lid, onderdeel a, onder 1°](https://wetten.overheid.nl/jci1.3:c:BWBR0010346&hoofdstuk=1&artikel=1&z=2015-06-01&g=2015-06-01) uit hoofde van de uitoefening van zijn taak, bedoeld in [artikel 7:658a van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=658a) en [artikel 76e van de Ziektewet](https://wetten.overheid.nl/jci1.3:c:BWBR0001888&artikel=76e),
+1. In aanvulling op [artikel 3, eerste lid, aanhef en onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0010346&hoofdstuk=2&artikel=3&z=2016-01-01&g=2016-01-01), past de werkgever, bedoeld in [artikel 1, eerste lid, onderdeel a, onder 1°](https://wetten.overheid.nl/jci1.3:c:BWBR0010346&hoofdstuk=1&artikel=1&z=2016-01-01&g=2016-01-01) uit hoofde van de uitoefening van zijn taak, bedoeld in [artikel 7:658a van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=658a) en [artikel 76e van de Ziektewet](https://wetten.overheid.nl/jci1.3:c:BWBR0001888&artikel=76e),
 
 - a. de inrichting van de arbeidsplaats, de werkmethoden en de bij de arbeid gebruikte arbeidsmiddelen, alsmede de arbeidsinhoud aan zijn werknemer, die in verband met ongeschiktheid ten gevolge van ziekte verhinderd is de bedongen arbeid te verrichten aan, en
 
@@ -161,9 +161,9 @@ Deze wet en de daarop berustende bepalingen zijn mede van toepassing op:
 
 1. Bij het voeren van het arbeidsomstandighedenbeleid legt de werkgever in een inventarisatie en evaluatie schriftelijk vast welke risico's de arbeid voor de werknemers met zich brengt. Deze risico-inventarisatie en -evaluatie bevat tevens een beschrijving van de gevaren en de risico-beperkende maatregelen en de risico's voor bijzondere categorieën van werknemers.
 
-2. In de risico-inventarisatie en -evaluatie wordt aandacht besteed aan de toegang van werknemers tot een deskundige werknemer of persoon, bedoeld in de [artikelen 13](https://wetten.overheid.nl/jci1.3:c:BWBR0010346&hoofdstuk=3&artikel=13&z=2015-06-01&g=2015-06-01) en [14](https://wetten.overheid.nl/jci1.3:c:BWBR0010346&hoofdstuk=3&artikel=14&z=2015-06-01&g=2015-06-01), of de arbodienst.
+2. In de risico-inventarisatie en -evaluatie wordt aandacht besteed aan de toegang van werknemers tot een deskundige werknemer of persoon, bedoeld in de [artikelen 13](https://wetten.overheid.nl/jci1.3:c:BWBR0010346&hoofdstuk=3&artikel=13&z=2016-01-01&g=2016-01-01) en [14](https://wetten.overheid.nl/jci1.3:c:BWBR0010346&hoofdstuk=3&artikel=14&z=2016-01-01&g=2016-01-01), of de arbodienst.
 
-3. Een plan van aanpak, waarin is aangegeven welke maatregelen zullen worden genomen in verband met de bedoelde risico's en de samenhang daartussen, een en ander overeenkomstig [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0010346&hoofdstuk=2&artikel=3&z=2015-06-01&g=2015-06-01), maakt deel uit van de risico-inventarisatie en -evaluatie. In het plan van aanpak wordt tevens aangegeven binnen welke termijn deze maatregelen zullen worden genomen.
+3. Een plan van aanpak, waarin is aangegeven welke maatregelen zullen worden genomen in verband met de bedoelde risico's en de samenhang daartussen, een en ander overeenkomstig [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0010346&hoofdstuk=2&artikel=3&z=2016-01-01&g=2016-01-01), maakt deel uit van de risico-inventarisatie en -evaluatie. In het plan van aanpak wordt tevens aangegeven binnen welke termijn deze maatregelen zullen worden genomen.
 
 4. De risico-inventarisatie en -evaluatie wordt aangepast zo dikwijls als de daarmee opgedane ervaring, gewijzigde werkmethoden of werkomstandigheden of de stand van de wetenschap en professionele dienstverlening daartoe aanleiding geven.
 
@@ -179,7 +179,7 @@ Deze wet en de daarop berustende bepalingen zijn mede van toepassing op:
 
 - a. de categorieën van bedrijven, inrichtingen of delen daarvan ten aanzien waarvan de werkgever die maatregelen neemt;
 
-- b. de gegevens die de werkgever met betrekking tot de bedrijven, inrichtingen of delen daarvan, bedoeld onder a, op schrift stelt of verstrekt aan de toezichthouder of aan de werknemers en de andere deskundige personen, bedoeld in [artikel 13, eerste tot en met derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010346&hoofdstuk=3&artikel=13&z=2015-06-01&g=2015-06-01), de personen, bedoeld in [artikel 14, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010346&hoofdstuk=3&artikel=14&z=2015-06-01&g=2015-06-01) en de arbodienst;
+- b. de gegevens die de werkgever met betrekking tot de bedrijven, inrichtingen of delen daarvan, bedoeld onder a, op schrift stelt of verstrekt aan de toezichthouder of aan de werknemers en de andere deskundige personen, bedoeld in [artikel 13, eerste tot en met derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010346&hoofdstuk=3&artikel=13&z=2016-01-01&g=2016-01-01), de personen, bedoeld in [artikel 14, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010346&hoofdstuk=3&artikel=14&z=2016-01-01&g=2016-01-01) en de arbodienst;
 
 - c. de maatregelen die de werkgever neemt ten aanzien van de bedrijven, inrichtingen of delen daarvan, bedoeld onder a;
 
@@ -197,7 +197,7 @@ Deze wet en de daarop berustende bepalingen zijn mede van toepassing op:
 
 ##### Artikel 7
 
-1. De toezichthouder stelt krachtens [artikel 6, eerste lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0010346&hoofdstuk=2&artikel=6&z=2015-06-01&g=2015-06-01), verschafte en bij algemene maatregel van bestuur aangewezen gegevens uit eigen beweging ter beschikking van het publiek. Bij of krachtens algemene maatregel van bestuur kunnen terzake regels worden gesteld.
+1. De toezichthouder stelt krachtens [artikel 6, eerste lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0010346&hoofdstuk=2&artikel=6&z=2016-01-01&g=2016-01-01), verschafte en bij algemene maatregel van bestuur aangewezen gegevens uit eigen beweging ter beschikking van het publiek. Bij of krachtens algemene maatregel van bestuur kunnen terzake regels worden gesteld.
 
 2. Onverminderd [artikel 10, eerste lid, van de Wet openbaarheid van bestuur](https://wetten.overheid.nl/jci1.3:c:BWBR0005252&artikel=10) en in afwijking van [artikel 10, tweede lid, van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005252&artikel=10) blijft het verstrekken van gegevens als bedoeld in het eerste lid achterwege voor zover het belang daarvan niet opweegt tegen de volgende belangen:
 
@@ -205,7 +205,7 @@ Deze wet en de daarop berustende bepalingen zijn mede van toepassing op:
 
 - b. het belang, bedoeld in [artikel 10, zevende lid, onder b, van de Wet openbaarheid van bestuur](https://wetten.overheid.nl/jci1.3:c:BWBR0005252&artikel=10), voorzover het betreft het voorkomen van sabotage.
 
-3. [Artikel 10, tweede lid, aanhef en onder f, van de Wet openbaarheid van bestuur](https://wetten.overheid.nl/jci1.3:c:BWBR0005252) is niet van toepassing op het op verzoek verstrekken van gegevens die door de daartoe aangewezen ambtenaar bedoeld in [artikel 24](https://wetten.overheid.nl/jci1.3:c:BWBR0010346&hoofdstuk=5&artikel=24&z=2015-06-01&g=2015-06-01) zijn verkregen in verband met de toepassing van het bepaalde bij of krachtens [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0010346&hoofdstuk=2&artikel=6&z=2015-06-01&g=2015-06-01) ter uitvoering van Richtlijn 2012/18/EU van het Europees Parlement en de Raad van 4 juli 2012 betreffende de beheersing van de gevaren van zware ongevallen waarbij gevaarlijke stoffen zijn betrokken, houdende wijziging en vervolgens intrekking van Richtlijn 96/82/EG van de Raad (PbEU 2012, L 197).
+3. [Artikel 10, tweede lid, aanhef en onder f, van de Wet openbaarheid van bestuur](https://wetten.overheid.nl/jci1.3:c:BWBR0005252) is niet van toepassing op het op verzoek verstrekken van gegevens die door de daartoe aangewezen ambtenaar bedoeld in [artikel 24](https://wetten.overheid.nl/jci1.3:c:BWBR0010346&hoofdstuk=5&artikel=24&z=2016-01-01&g=2016-01-01) zijn verkregen in verband met de toepassing van het bepaalde bij of krachtens [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0010346&hoofdstuk=2&artikel=6&z=2016-01-01&g=2016-01-01) ter uitvoering van Richtlijn 2012/18/EU van het Europees Parlement en de Raad van 4 juli 2012 betreffende de beheersing van de gevaren van zware ongevallen waarbij gevaarlijke stoffen zijn betrokken, houdende wijziging en vervolgens intrekking van Richtlijn 96/82/EG van de Raad (PbEU 2012, L 197).
 
 4. [Artikel 10, tweede lid, aanhef en onder b, van de Wet openbaarheid van bestuur](https://wetten.overheid.nl/jci1.3:c:BWBR0005252&artikel=10) is op het op verzoek verstrekken van informatie over gegevens als bedoeld in het derde lid uitsluitend van toepassing, voorzover die gegevens een vertrouwelijk karakter hebben.
 
@@ -219,7 +219,7 @@ Deze wet en de daarop berustende bepalingen zijn mede van toepassing op:
 
 1. De werkgever zorgt ervoor dat de werknemers doeltreffend worden ingelicht over de te verrichten werkzaamheden en de daaraan verbonden risico's, alsmede over de maatregelen die erop gericht zijn deze risico's te voorkomen of te beperken.
 
-Tevens zorgt de werkgever ervoor dat de werknemers doeltreffend worden ingelicht over de wijze waarop de deskundige bijstand, bedoeld in de [artikelen 13](https://wetten.overheid.nl/jci1.3:c:BWBR0010346&hoofdstuk=3&artikel=13&z=2015-06-01&g=2015-06-01), [14](https://wetten.overheid.nl/jci1.3:c:BWBR0010346&hoofdstuk=3&artikel=14&z=2015-06-01&g=2015-06-01), [14a](https://wetten.overheid.nl/jci1.3:c:BWBR0010346&hoofdstuk=3&artikel=14a&z=2015-06-01&g=2015-06-01) en [15](https://wetten.overheid.nl/jci1.3:c:BWBR0010346&hoofdstuk=3&artikel=15&z=2015-06-01&g=2015-06-01), in zijn bedrijf of inrichting is georganiseerd.
+Tevens zorgt de werkgever ervoor dat de werknemers doeltreffend worden ingelicht over de wijze waarop de deskundige bijstand, bedoeld in de [artikelen 13](https://wetten.overheid.nl/jci1.3:c:BWBR0010346&hoofdstuk=3&artikel=13&z=2016-01-01&g=2016-01-01), [14](https://wetten.overheid.nl/jci1.3:c:BWBR0010346&hoofdstuk=3&artikel=14&z=2016-01-01&g=2016-01-01), [14a](https://wetten.overheid.nl/jci1.3:c:BWBR0010346&hoofdstuk=3&artikel=14a&z=2016-01-01&g=2016-01-01) en [15](https://wetten.overheid.nl/jci1.3:c:BWBR0010346&hoofdstuk=3&artikel=15&z=2016-01-01&g=2016-01-01), in zijn bedrijf of inrichting is georganiseerd.
 
 2. De werkgever zorgt ervoor dat aan de werknemers doeltreffend en aan hun onderscheiden taken aangepast onderricht wordt verstrekt met betrekking tot de arbeidsomstandigheden.
 
@@ -237,7 +237,7 @@ Tevens zorgt de werkgever ervoor dat de werknemers doeltreffend worden ingelicht
 
 2. De werkgever houdt een lijst bij van de gemelde arbeidsongevallen en van arbeidsongevallen welke hebben geleid tot een verzuim van meer dan drie werkdagen en registreert daarop de aard en datum van het ongeval.
 
-3. De persoon, bedoeld in [artikel 14, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010346&hoofdstuk=3&artikel=14&z=2015-06-01&g=2015-06-01), die belast is met de taak, bedoeld in onderdeel b van dat lid, of de arbodienst meldt beroepsziekten aan een door Onze Minister hiertoe aangewezen instelling.
+3. De persoon, bedoeld in [artikel 14, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010346&hoofdstuk=3&artikel=14&z=2016-01-01&g=2016-01-01), die belast is met de taak, bedoeld in onderdeel b van dat lid, of de arbodienst meldt beroepsziekten aan een door Onze Minister hiertoe aangewezen instelling.
 
 #### Voorkomen van gevaar voor derden
 
@@ -257,11 +257,11 @@ De werknemer is verplicht om in zijn doen en laten op de arbeidsplaats, overeenk
 
 - c. de op arbeidsmiddelen of anderszins aangebrachte beveiligingen niet te veranderen of buiten noodzaak weg te halen en deze op de juiste wijze te gebruiken;
 
-- d. mede te werken aan het voor hem georganiseerde onderricht bedoeld in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0010346&hoofdstuk=2&artikel=8&z=2015-06-01&g=2015-06-01);
+- d. mede te werken aan het voor hem georganiseerde onderricht bedoeld in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0010346&hoofdstuk=2&artikel=8&z=2016-01-01&g=2016-01-01);
 
 - e. de door hem opgemerkte gevaren voor de veiligheid of de gezondheid terstond ter kennis te brengen aan de werkgever of degene die namens deze ter plaatse met de leiding is belast;
 
-- f. de werkgever en de de werknemers en de andere deskundige personen, bedoeld in [artikel 13, eerste tot en met derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010346&hoofdstuk=3&artikel=13&z=2015-06-01&g=2015-06-01), de personen, bedoeld in [artikel 14, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010346&hoofdstuk=3&artikel=14&z=2015-06-01&g=2015-06-01), en de arbodienst, indien nodig bij te staan bij de uitvoering van hun verplichtingen en taken op grond van deze wet.
+- f. de werkgever en de de werknemers en de andere deskundige personen, bedoeld in [artikel 13, eerste tot en met derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010346&hoofdstuk=3&artikel=13&z=2016-01-01&g=2016-01-01), de personen, bedoeld in [artikel 14, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010346&hoofdstuk=3&artikel=14&z=2016-01-01&g=2016-01-01), en de arbodienst, indien nodig bij te staan bij de uitvoering van hun verplichtingen en taken op grond van deze wet.
 
 ### Hoofdstuk 3. Samenwerking, overleg, bijzondere rechten van de ondernemingsraad, de personeelsvertegenwoordiging en de belanghebbende werknemers en de regeling van de deskundige bijstand
 
@@ -273,7 +273,7 @@ De werknemer is verplicht om in zijn doen en laten op de arbeidsplaats, overeenk
 
 2. De werkgever voert overleg met de ondernemingsraad of de personeelsvertegenwoordiging over aangelegenheden die het arbeidsomstandighedenbeleid betreffen alsmede over de uitvoering van dit beleid, waarbij actief informatie wordt gewisseld.
 
-3. De werkgever voert in ondernemingen waarin in de regel minder dan 10 personen werkzaam zijn, bij het ontbreken van een ondernemingsraad of personeelsvertegenwoordiging, overleg met de belanghebbende werknemers over de risico-inventarisatie en -evaluatie, de organisatie van de deskundige bijstand, bedoeld in [artikel 13, eerste tot en met derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010346&hoofdstuk=3&artikel=13&z=2015-06-01&g=2015-06-01), de arbodienst en de deskundige bijstand, bedoeld in [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBR0010346&hoofdstuk=3&artikel=15&z=2015-06-01&g=2015-06-01).
+3. De werkgever voert in ondernemingen waarin in de regel minder dan 10 personen werkzaam zijn, bij het ontbreken van een ondernemingsraad of personeelsvertegenwoordiging, overleg met de belanghebbende werknemers over de risico-inventarisatie en -evaluatie, de organisatie van de deskundige bijstand, bedoeld in [artikel 13, eerste tot en met derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010346&hoofdstuk=3&artikel=13&z=2016-01-01&g=2016-01-01), de arbodienst en de deskundige bijstand, bedoeld in [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBR0010346&hoofdstuk=3&artikel=15&z=2016-01-01&g=2016-01-01).
 
 4. Aan de leden van de ondernemingsraad of de personeelsvertegenwoordiging wordt in verband met hun taak in het kader van de arbeidsomstandigheden van de werknemers:
 
@@ -303,7 +303,7 @@ De werknemer is verplicht om in zijn doen en laten op de arbeidsplaats, overeenk
 
 7. Het verlenen van bijstand omvat in ieder geval:
 
-- a. het verlenen van medewerking aan het verrichten en opstellen van een risico-inventarisatie en -evaluatie als bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0010346&hoofdstuk=2&artikel=5&z=2015-06-01&g=2015-06-01);
+- a. het verlenen van medewerking aan het verrichten en opstellen van een risico-inventarisatie en -evaluatie als bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0010346&hoofdstuk=2&artikel=5&z=2016-01-01&g=2016-01-01);
 
 - b. het adviseren aan onderscheidenlijk nauw samenwerken met de ondernemingsraad of de personeelsvertegenwoordiging, of, bij het ontbreken daarvan, de belanghebbende werknemers, inzake de genomen en de te nemen maatregelen, gericht op een zo goed mogelijk arbeidsomstandighedenbeleid;
 
@@ -311,7 +311,7 @@ De werknemer is verplicht om in zijn doen en laten op de arbeidsplaats, overeenk
 
 8. Een afschrift van een advies als bedoeld in het zevende lid, onderdeel b, wordt aan de werkgever gezonden.
 
-9. In de risico-inventarisatie en -evaluatie, bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0010346&hoofdstuk=2&artikel=5&z=2015-06-01&g=2015-06-01), worden de maatregelen beschreven die nodig zijn om te voldoen aan het vierde en tiende lid.
+9. In de risico-inventarisatie en -evaluatie, bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0010346&hoofdstuk=2&artikel=5&z=2016-01-01&g=2016-01-01), worden de maatregelen beschreven die nodig zijn om te voldoen aan het vierde en tiende lid.
 
 10. In afwijking van het eerste tot en met het derde lid, kunnen bij werkgevers met niet meer dan 25 werknemers de taken in het kader van de bijstand ook worden verricht door de werkgever zelf, indien deze natuurlijk persoon is, of door de directeur indien de werkgever rechtspersoon is, indien deze personen beschikken over voldoende deskundigheid, ervaring en uitrusting om deze taken naar behoren te vervullen.
 
@@ -319,15 +319,15 @@ De werknemer is verplicht om in zijn doen en laten op de arbeidsplaats, overeenk
 
 ##### Artikel 14
 
-1. In aanvulling op [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0010346&hoofdstuk=3&artikel=13&z=2015-06-01&g=2015-06-01) laat de werkgever zich bij de volgende taken bijstaan door een of meer deskundige personen ten behoeve van wie overeenkomstig [artikel 20](https://wetten.overheid.nl/jci1.3:c:BWBR0010346&hoofdstuk=4&artikel=20&z=2015-06-01&g=2015-06-01) een certificaat is afgegeven of die als bedrijfsarts is ingeschreven in een erkend specialistenregister als bedoeld in [artikel 14 van de Wet op de beroepen in de individuele gezondheidszorg](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&artikel=14):
+1. In aanvulling op [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0010346&hoofdstuk=3&artikel=13&z=2016-01-01&g=2016-01-01) laat de werkgever zich bij de volgende taken bijstaan door een of meer deskundige personen ten behoeve van wie overeenkomstig [artikel 20](https://wetten.overheid.nl/jci1.3:c:BWBR0010346&hoofdstuk=4&artikel=20&z=2016-01-01&g=2016-01-01) een certificaat is afgegeven of die als bedrijfsarts is ingeschreven in een erkend specialistenregister als bedoeld in [artikel 14 van de Wet op de beroepen in de individuele gezondheidszorg](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&artikel=14):
 
-- a. het toetsen van de risico-inventarisatie en -evaluatie, bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0010346&hoofdstuk=2&artikel=5&z=2015-06-01&g=2015-06-01), en daarover adviseren;
+- a. het toetsen van de risico-inventarisatie en -evaluatie, bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0010346&hoofdstuk=2&artikel=5&z=2016-01-01&g=2016-01-01), en daarover adviseren;
 
 - b. de bijstand bij de begeleiding van werknemers die door ziekte niet in staat zijn hun arbeid te verrichten, met inbegrip van de bijstand bij de uitvoering van bij of krachtens [artikel 25, eerste, tweede, derde, vierde en zevende lid van de Wet werk en inkomen naar arbeidsvermogen](https://wetten.overheid.nl/jci1.3:c:BWBR0019057&artikel=25), dan wel bij of krachtens [artikel 71a, eerste, tweede, derde, vierde en zevende lid, van de Wet op de arbeidsongeschiktheidsverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0002524&artikel=71a) gestelde regels;
 
 - c. het uitvoeren van:
 
-- 1°. het arbeidsgezondheidskundig onderzoek, bedoeld in [artikel 18](https://wetten.overheid.nl/jci1.3:c:BWBR0010346&hoofdstuk=4&artikel=18&z=2015-06-01&g=2015-06-01);
+- 1°. het arbeidsgezondheidskundig onderzoek, bedoeld in [artikel 18](https://wetten.overheid.nl/jci1.3:c:BWBR0010346&hoofdstuk=4&artikel=18&z=2016-01-01&g=2016-01-01);
 
 - 2°. de aanstellingskeuring, indien de werkgever deze laat verrichten.
 
@@ -345,13 +345,13 @@ De werknemer is verplicht om in zijn doen en laten op de arbeidsplaats, overeenk
 
 4. De wijze waarop de bijstandverlening plaatsvindt met betrekking tot de taak, bedoeld in het eerste lid, onderdeel b, wordt schriftelijk vastgelegd.
 
-5. Bij de gegevensverwerking noodzakelijk voor de uitvoering van de taak, bedoeld in het eerste lid, onderdeel b, kan gebruik worden gemaakt van het burgerservicenummer of, bij het ontbreken daarvan, het sociaal-fiscaalnummer.
+5. Bij de gegevensverwerking noodzakelijk voor de uitvoering van de taak, bedoeld in het eerste lid, onderdeel b, kan gebruik worden gemaakt van het burgerservicenummer.
 
 6. [Artikel 464 van Boek 7 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=464) voorzover het betreft de overeenkomstige toepassing van de [artikelen 457](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=457) en [464, tweede lid, onder b, van Boek 7 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=464), is niet van toepassing indien in verband met de uitvoering van deze wet handelingen worden verricht op het gebied van de geneeskunst door personen die zijn belast met de taken, bedoeld in het eerste lid, onderdeel b.
 
-7. De deskundige werknemers en andere deskundige personen, bedoeld in [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0010346&hoofdstuk=3&artikel=13&z=2015-06-01&g=2015-06-01), en de personen, bedoeld in het eerste lid, werken bij het verlenen van bijstand aan een werkgever samen.
+7. De deskundige werknemers en andere deskundige personen, bedoeld in [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0010346&hoofdstuk=3&artikel=13&z=2016-01-01&g=2016-01-01), en de personen, bedoeld in het eerste lid, werken bij het verlenen van bijstand aan een werkgever samen.
 
-8. [Artikel 13, vijfde en zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010346&hoofdstuk=3&artikel=13&z=2015-06-01&g=2015-06-01), is van overeenkomstige toepassing.
+8. [Artikel 13, vijfde en zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010346&hoofdstuk=3&artikel=13&z=2016-01-01&g=2016-01-01), is van overeenkomstige toepassing.
 
 9. De organisatie van de bijstand bij de taken, bedoeld in het eerste lid, kan, met inachtneming van het tweede lid, plaatsvinden bij:
 
@@ -385,7 +385,7 @@ De werknemer is verplicht om in zijn doen en laten op de arbeidsplaats, overeenk
 
 ##### Artikel 15
 
-1. De werkgever laat zich ten aanzien van de naleving van zijn verplichtingen op grond van [artikel 3, eerste lid, onder e, van deze wet](https://wetten.overheid.nl/jci1.3:c:BWBR0010346&hoofdstuk=2&artikel=3&z=2015-06-01&g=2015-06-01) bijstaan door een of meer werknemers die door hem zijn aangewezen als bedrijfshulpverleners.
+1. De werkgever laat zich ten aanzien van de naleving van zijn verplichtingen op grond van [artikel 3, eerste lid, onder e, van deze wet](https://wetten.overheid.nl/jci1.3:c:BWBR0010346&hoofdstuk=2&artikel=3&z=2016-01-01&g=2016-01-01) bijstaan door een of meer werknemers die door hem zijn aangewezen als bedrijfshulpverleners.
 
 2. Het verlenen van de bijstand houdt in elk geval in:
 
@@ -409,7 +409,7 @@ De werknemer is verplicht om in zijn doen en laten op de arbeidsplaats, overeenk
 
 - a. hebben betrekking op de arbozorg en de organisatie van de arbeid, de inrichting van de arbeidsplaatsen, het werken met gevaarlijke stoffen en biologische agentia, de mate van fysieke belasting waaraan werknemers blootstaan, de fysische factoren die zich op de arbeidsplaats voordoen, de bij de arbeid gebruikte arbeidsmiddelen en persoonlijke beschermingsmiddelen en de op de arbeidsplaats te gebruiken veiligheids- en gezondheidssignalering en
 
-- b. kunnen mede strekken ter uitvoering van de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0010346&hoofdstuk=2&artikel=3&z=2015-06-01&g=2015-06-01), [4](https://wetten.overheid.nl/jci1.3:c:BWBR0010346&hoofdstuk=2&artikel=4&z=2015-06-01&g=2015-06-01), [5](https://wetten.overheid.nl/jci1.3:c:BWBR0010346&hoofdstuk=2&artikel=5&z=2015-06-01&g=2015-06-01), [8](https://wetten.overheid.nl/jci1.3:c:BWBR0010346&hoofdstuk=2&artikel=8&z=2015-06-01&g=2015-06-01), [9](https://wetten.overheid.nl/jci1.3:c:BWBR0010346&hoofdstuk=2&artikel=9&z=2015-06-01&g=2015-06-01), [13](https://wetten.overheid.nl/jci1.3:c:BWBR0010346&hoofdstuk=3&artikel=13&z=2015-06-01&g=2015-06-01), [14](https://wetten.overheid.nl/jci1.3:c:BWBR0010346&hoofdstuk=3&artikel=14&z=2015-06-01&g=2015-06-01), [14a](https://wetten.overheid.nl/jci1.3:c:BWBR0010346&hoofdstuk=3&artikel=14a&z=2015-06-01&g=2015-06-01), [15](https://wetten.overheid.nl/jci1.3:c:BWBR0010346&hoofdstuk=3&artikel=15&z=2015-06-01&g=2015-06-01) en [18](https://wetten.overheid.nl/jci1.3:c:BWBR0010346&hoofdstuk=4&artikel=18&z=2015-06-01&g=2015-06-01).
+- b. kunnen mede strekken ter uitvoering van de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0010346&hoofdstuk=2&artikel=3&z=2016-01-01&g=2016-01-01), [4](https://wetten.overheid.nl/jci1.3:c:BWBR0010346&hoofdstuk=2&artikel=4&z=2016-01-01&g=2016-01-01), [5](https://wetten.overheid.nl/jci1.3:c:BWBR0010346&hoofdstuk=2&artikel=5&z=2016-01-01&g=2016-01-01), [8](https://wetten.overheid.nl/jci1.3:c:BWBR0010346&hoofdstuk=2&artikel=8&z=2016-01-01&g=2016-01-01), [9](https://wetten.overheid.nl/jci1.3:c:BWBR0010346&hoofdstuk=2&artikel=9&z=2016-01-01&g=2016-01-01), [13](https://wetten.overheid.nl/jci1.3:c:BWBR0010346&hoofdstuk=3&artikel=13&z=2016-01-01&g=2016-01-01), [14](https://wetten.overheid.nl/jci1.3:c:BWBR0010346&hoofdstuk=3&artikel=14&z=2016-01-01&g=2016-01-01), [14a](https://wetten.overheid.nl/jci1.3:c:BWBR0010346&hoofdstuk=3&artikel=14a&z=2016-01-01&g=2016-01-01), [15](https://wetten.overheid.nl/jci1.3:c:BWBR0010346&hoofdstuk=3&artikel=15&z=2016-01-01&g=2016-01-01) en [18](https://wetten.overheid.nl/jci1.3:c:BWBR0010346&hoofdstuk=4&artikel=18&z=2016-01-01&g=2016-01-01).
 
 3. De in het eerste en tweede lid bedoelde regels kunnen inhouden:
 
@@ -429,7 +429,7 @@ De werknemer is verplicht om in zijn doen en laten op de arbeidsplaats, overeenk
 
 - b. arbeid verricht in militaire dienst;
 
-- c. arbeid verricht door werknemers en verrichtingen als bedoeld in [artikel 2, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0010346&hoofdstuk=1&artikel=2&z=2015-06-01&g=2015-06-01), van leerlingen en studenten in onderwijsinrichtingen;
+- c. arbeid verricht door werknemers en verrichtingen als bedoeld in [artikel 2, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0010346&hoofdstuk=1&artikel=2&z=2016-01-01&g=2016-01-01), van leerlingen en studenten in onderwijsinrichtingen;
 
 - d. arbeid verricht bij een verkenningsonderzoek, het opsporen of winnen van delfstoffen of aardwarmte dan wel het opslaan van stoffen als bedoeld in de Mijnbouwwet;
 
@@ -461,7 +461,7 @@ regels worden gesteld die afwijken van deze wet of de daarop berustende bepaling
 
 9. De in het eerste lid bedoelde regels kunnen betrekking hebben op andere onderwerpen dan die genoemd in het tweede lid of zich richten tot andere personen dan de werkgever of de in het zevende en achtste lid bedoelde personen, indien dat noodzakelijk is ter uitvoering van verdragen of besluiten van volkenrechtelijke organisaties met betrekking tot de verbetering van de veiligheid of de gezondheid.
 
-10. De werkgever, dan wel een ander dan de werkgever bedoeld in het zevende, achtste of negende lid en de werknemers zijn verplicht tot naleving van de voorschriften en verboden vastgesteld bij of krachtens de op grond van dit artikel, [artikel 20, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010346&hoofdstuk=4&artikel=20&z=2015-06-01&g=2015-06-01), en [artikel 24, negende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010346&hoofdstuk=5&artikel=24&z=2015-06-01&g=2015-06-01), vastgestelde algemene maatregel van bestuur voorzover en op de wijze als bij of krachtens deze maatregel is bepaald.
+10. De werkgever, dan wel een ander dan de werkgever bedoeld in het zevende, achtste of negende lid en de werknemers zijn verplicht tot naleving van de voorschriften en verboden vastgesteld bij of krachtens de op grond van dit artikel, [artikel 20, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010346&hoofdstuk=4&artikel=20&z=2016-01-01&g=2016-01-01), en [artikel 24, negende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010346&hoofdstuk=5&artikel=24&z=2016-01-01&g=2016-01-01), vastgestelde algemene maatregel van bestuur voorzover en op de wijze als bij of krachtens deze maatregel is bepaald.
 
 11. Het niet naleven van de in het tiende lid bedoelde voorschriften en verboden kan worden aangemerkt als strafbaar feit.
 
@@ -517,23 +517,23 @@ De werkgever stelt de werknemers periodiek in de gelegenheid een onderzoek te on
 
 ##### Artikel 21
 
-1. De krachtens [artikel 20, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010346&hoofdstuk=4&artikel=20&z=2015-06-01&g=2015-06-01), aangewezen instellingen verstrekken desgevraagd kosteloos aan Onze Minister de voor de uitoefening van zijn taak benodigde inlichtingen. Onze Minister kan inzage vorderen van zakelijke gegevens en bescheiden, voor zover dat voor de vervulling van zijn taak redelijkerwijs nodig is.
+1. De krachtens [artikel 20, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010346&hoofdstuk=4&artikel=20&z=2016-01-01&g=2016-01-01), aangewezen instellingen verstrekken desgevraagd kosteloos aan Onze Minister de voor de uitoefening van zijn taak benodigde inlichtingen. Onze Minister kan inzage vorderen van zakelijke gegevens en bescheiden, voor zover dat voor de vervulling van zijn taak redelijkerwijs nodig is.
 
-2. Bij algemene maatregel van bestuur kunnen de krachtens [artikel 20, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010346&hoofdstuk=4&artikel=20&z=2015-06-01&g=2015-06-01), aangewezen instellingen worden verplicht tot het periodiek opstellen en toezenden aan Onze Minister van een verslag van de in [artikel 20, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010346&hoofdstuk=4&artikel=20&z=2015-06-01&g=2015-06-01), genoemde werkzaamheden en de rechtmatigheid en doeltreffendheid van die werkzaamheden en werkwijze in de afgelopen periode.
+2. Bij algemene maatregel van bestuur kunnen de krachtens [artikel 20, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010346&hoofdstuk=4&artikel=20&z=2016-01-01&g=2016-01-01), aangewezen instellingen worden verplicht tot het periodiek opstellen en toezenden aan Onze Minister van een verslag van de in [artikel 20, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010346&hoofdstuk=4&artikel=20&z=2016-01-01&g=2016-01-01), genoemde werkzaamheden en de rechtmatigheid en doeltreffendheid van die werkzaamheden en werkwijze in de afgelopen periode.
 
 #### Certificatie
 
 ##### Artikel 22
 
-1. Onze Minister kan de krachtens [artikel 20, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010346&hoofdstuk=4&artikel=20&z=2015-06-01&g=2015-06-01), aangewezen instellingen aanwijzingen geven met betrekking tot de uitoefening van hun taak. Hij treedt daarbij niet in individuele gevallen.
+1. Onze Minister kan de krachtens [artikel 20, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010346&hoofdstuk=4&artikel=20&z=2016-01-01&g=2016-01-01), aangewezen instellingen aanwijzingen geven met betrekking tot de uitoefening van hun taak. Hij treedt daarbij niet in individuele gevallen.
 
-2. De krachtens [artikel 20, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010346&hoofdstuk=4&artikel=20&z=2015-06-01&g=2015-06-01), aangewezen instellingen zijn gehouden overeenkomstig de aanwijzing, bedoeld in het eerste lid, te handelen.
+2. De krachtens [artikel 20, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010346&hoofdstuk=4&artikel=20&z=2016-01-01&g=2016-01-01), aangewezen instellingen zijn gehouden overeenkomstig de aanwijzing, bedoeld in het eerste lid, te handelen.
 
 #### Informatievoorziening
 
 ##### Artikel 23
 
-Bij algemene maatregel van bestuur kunnen voorzieningen worden getroffen voor het geval de krachtens [artikel 20, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010346&hoofdstuk=4&artikel=20&z=2015-06-01&g=2015-06-01), aangewezen instellingen hun uit deze wet voortvloeiende verplichtingen niet naar behoren nakomen.
+Bij algemene maatregel van bestuur kunnen voorzieningen worden getroffen voor het geval de krachtens [artikel 20, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010346&hoofdstuk=4&artikel=20&z=2016-01-01&g=2016-01-01), aangewezen instellingen hun uit deze wet voortvloeiende verplichtingen niet naar behoren nakomen.
 
 ### Hoofdstuk 5. Toezicht en ambtelijke bevelen
 
@@ -551,7 +551,7 @@ Bij algemene maatregel van bestuur kunnen voorzieningen worden getroffen voor he
 
 5. De toezichthouder stelt ter voldoening aan [artikel 5:18, zesde lid, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:18) een rapport op; dit rapport en een rapport als bedoeld in het vierde lid zendt hij aan de werkgever, aan de ondernemingsraad of aan de personeelsvertegenwoordiging.
 
-6. De toezichthouder is bevoegd bij het verwerken van persoonsgegevens gebruik te maken van het burgerservicenummer of, bij het ontbreken daarvan, het sociaal-fiscaalnummer, voorzover dat voor de vervulling van zijn taak redelijkerwijs nodig is.
+6. De toezichthouder is bevoegd bij het verwerken van persoonsgegevens gebruik te maken van het burgerservicenummer voorzover dat voor de vervulling van zijn taak redelijkerwijs nodig is.
 
 7. De toezichthouder geeft zo spoedig mogelijk gehoor aan het verzoek om een onderzoek in te stellen, gedaan door de ondernemingsraad of de personeelsvertegenwoordiging, dan wel door een vereniging van werknemers, die krachtens haar statuten ten doel heeft de belangen van haar leden als werknemers te behartigen en als zodanig in de betrokken onderneming of bedrijfstak werkzaam is en in het bezit is van volledige rechtsbevoegdheid.
 
@@ -563,7 +563,7 @@ Bij algemene maatregel van bestuur kunnen voorzieningen worden getroffen voor he
 
 ##### Artikel 25
 
-Onze Minister ziet toe op de rechtmatige en doeltreffende uitvoering van het bepaalde bij en krachtens deze wet door krachtens [artikel 20, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010346&hoofdstuk=4&artikel=20&z=2015-06-01&g=2015-06-01), aangewezen instellingen.
+Onze Minister ziet toe op de rechtmatige en doeltreffende uitvoering van het bepaalde bij en krachtens deze wet door krachtens [artikel 20, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010346&hoofdstuk=4&artikel=20&z=2016-01-01&g=2016-01-01), aangewezen instellingen.
 
 #### Ambtenaren belast met het toezicht
 
@@ -581,9 +581,9 @@ De toezichthouders zijn, behoudens tegenover hen aan wier gezag zij uit kracht v
 
 3. De werkgever is verplicht om aan de eis te voldoen. De werknemers zijn verplicht aan de eis te voldoen voor zover zulks bij de eis is bepaald. De werkgever draagt zorg dat de werknemers van de op hen rustende verplichting zo spoedig mogelijk in kennis worden gesteld.
 
-4. Voor de toepassing van de vorige leden worden met een werkgever gelijkgesteld: de in [artikel 16, zevende, achtste en negende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010346&hoofdstuk=4&artikel=16&z=2015-06-01&g=2015-06-01), bedoelde personen voor zover het betreft de krachtens dat artikel omschreven verplichtingen.
+4. Voor de toepassing van de vorige leden worden met een werkgever gelijkgesteld: de in [artikel 16, zevende, achtste en negende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010346&hoofdstuk=4&artikel=16&z=2016-01-01&g=2016-01-01), bedoelde personen voor zover het betreft de krachtens dat artikel omschreven verplichtingen.
 
-5. Een eis kan worden gesteld tot naleving van de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0010346&hoofdstuk=2&artikel=3&z=2015-06-01&g=2015-06-01), [4](https://wetten.overheid.nl/jci1.3:c:BWBR0010346&hoofdstuk=2&artikel=4&z=2015-06-01&g=2015-06-01), [5](https://wetten.overheid.nl/jci1.3:c:BWBR0010346&hoofdstuk=2&artikel=5&z=2015-06-01&g=2015-06-01), [6](https://wetten.overheid.nl/jci1.3:c:BWBR0010346&hoofdstuk=2&artikel=6&z=2015-06-01&g=2015-06-01), [8](https://wetten.overheid.nl/jci1.3:c:BWBR0010346&hoofdstuk=2&artikel=8&z=2015-06-01&g=2015-06-01), [11](https://wetten.overheid.nl/jci1.3:c:BWBR0010346&hoofdstuk=2&artikel=11&z=2015-06-01&g=2015-06-01), [13, eerste tot en met vierde lid, negende en tiende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010346&hoofdstuk=3&artikel=13&z=2015-06-01&g=2015-06-01), [14, eerste, tweede en zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010346&hoofdstuk=3&artikel=14&z=2015-06-01&g=2015-06-01), [14a, tweede, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010346&hoofdstuk=3&artikel=14a&z=2015-06-01&g=2015-06-01), [15, eerste en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010346&hoofdstuk=3&artikel=15&z=2015-06-01&g=2015-06-01), [16](https://wetten.overheid.nl/jci1.3:c:BWBR0010346&hoofdstuk=4&artikel=16&z=2015-06-01&g=2015-06-01), voorzover dat bij de krachtens dat artikel gestelde regels is bepaald, [18](https://wetten.overheid.nl/jci1.3:c:BWBR0010346&hoofdstuk=4&artikel=18&z=2015-06-01&g=2015-06-01) en [19](https://wetten.overheid.nl/jci1.3:c:BWBR0010346&hoofdstuk=4&artikel=19&z=2015-06-01&g=2015-06-01).
+5. Een eis kan worden gesteld tot naleving van de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0010346&hoofdstuk=2&artikel=3&z=2016-01-01&g=2016-01-01), [4](https://wetten.overheid.nl/jci1.3:c:BWBR0010346&hoofdstuk=2&artikel=4&z=2016-01-01&g=2016-01-01), [5](https://wetten.overheid.nl/jci1.3:c:BWBR0010346&hoofdstuk=2&artikel=5&z=2016-01-01&g=2016-01-01), [6](https://wetten.overheid.nl/jci1.3:c:BWBR0010346&hoofdstuk=2&artikel=6&z=2016-01-01&g=2016-01-01), [8](https://wetten.overheid.nl/jci1.3:c:BWBR0010346&hoofdstuk=2&artikel=8&z=2016-01-01&g=2016-01-01), [11](https://wetten.overheid.nl/jci1.3:c:BWBR0010346&hoofdstuk=2&artikel=11&z=2016-01-01&g=2016-01-01), [13, eerste tot en met vierde lid, negende en tiende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010346&hoofdstuk=3&artikel=13&z=2016-01-01&g=2016-01-01), [14, eerste, tweede en zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010346&hoofdstuk=3&artikel=14&z=2016-01-01&g=2016-01-01), [14a, tweede, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010346&hoofdstuk=3&artikel=14a&z=2016-01-01&g=2016-01-01), [15, eerste en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010346&hoofdstuk=3&artikel=15&z=2016-01-01&g=2016-01-01), [16](https://wetten.overheid.nl/jci1.3:c:BWBR0010346&hoofdstuk=4&artikel=16&z=2016-01-01&g=2016-01-01), voorzover dat bij de krachtens dat artikel gestelde regels is bepaald, [18](https://wetten.overheid.nl/jci1.3:c:BWBR0010346&hoofdstuk=4&artikel=18&z=2016-01-01&g=2016-01-01) en [19](https://wetten.overheid.nl/jci1.3:c:BWBR0010346&hoofdstuk=4&artikel=19&z=2016-01-01&g=2016-01-01).
 
 #### Geheimhouding
 
@@ -591,9 +591,9 @@ De toezichthouders zijn, behoudens tegenover hen aan wier gezag zij uit kracht v
 
 1. Een daartoe aangewezen toezichthouder is bevoegd mondeling of bij gedagtekend schrijven te bevelen, dat personen niet mogen blijven in door hem aangewezen plaatsen, of dat door hem aangewezen werkzaamheden worden gestaakt dan wel niet mogen worden aangevangen, indien naar zijn redelijk oordeel dat verblijf of die werkzaamheden ernstig gevaar opleveren voor personen.
 
-2. Een mondeling bevel wordt zo spoedig mogelijk schriftelijk bevestigd aan de werkgever of aan de andere personen, bedoeld in [artikel 16, zevende, achtste en negende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010346&hoofdstuk=4&artikel=16&z=2015-06-01&g=2015-06-01).
+2. Een mondeling bevel wordt zo spoedig mogelijk schriftelijk bevestigd aan de werkgever of aan de andere personen, bedoeld in [artikel 16, zevende, achtste en negende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010346&hoofdstuk=4&artikel=16&z=2016-01-01&g=2016-01-01).
 
-3. De bevoegdheid, bedoeld in het eerste lid, geldt mede in die gevallen, waarin op grond van het bepaalde in [artikel 27](https://wetten.overheid.nl/jci1.3:c:BWBR0010346&hoofdstuk=5&artikel=27&z=2015-06-01&g=2015-06-01) aan een gestelde eis nog geen uitvoering behoeft te worden gegeven.
+3. De bevoegdheid, bedoeld in het eerste lid, geldt mede in die gevallen, waarin op grond van het bepaalde in [artikel 27](https://wetten.overheid.nl/jci1.3:c:BWBR0010346&hoofdstuk=5&artikel=27&z=2016-01-01&g=2016-01-01) aan een gestelde eis nog geen uitvoering behoeft te worden gegeven.
 
 4. Zodra naar het oordeel van de toezichthouder die een bevel als bedoeld in het eerste lid gaf, geen ernstig gevaar meer aanwezig is, trekt hij het bevel in.
 
@@ -605,13 +605,13 @@ De toezichthouders zijn, behoudens tegenover hen aan wier gezag zij uit kracht v
 
 ##### Artikel 29
 
-1. Een werknemer is bevoegd het werk te onderbreken en de onderbreking voort te zetten, indien en zolang naar zijn redelijk oordeel ernstig gevaar voor personen als bedoeld in [artikel 28](https://wetten.overheid.nl/jci1.3:c:BWBR0010346&hoofdstuk=5&artikel=28&z=2015-06-01&g=2015-06-01) aanwezig is en naar zijn redelijk oordeel het gevaar zo onmiddellijk dreigt dat een toezichthouder niet tijdig kan optreden. Voor de duur van de onderbreking behoudt de werknemer zijn aanspraak op het naar tijdruimte vastgesteld loon. De werknemer mag als gevolg van de werkonderbreking niet worden benadeeld in zijn positie in het bedrijf of in de inrichting.
+1. Een werknemer is bevoegd het werk te onderbreken en de onderbreking voort te zetten, indien en zolang naar zijn redelijk oordeel ernstig gevaar voor personen als bedoeld in [artikel 28](https://wetten.overheid.nl/jci1.3:c:BWBR0010346&hoofdstuk=5&artikel=28&z=2016-01-01&g=2016-01-01) aanwezig is en naar zijn redelijk oordeel het gevaar zo onmiddellijk dreigt dat een toezichthouder niet tijdig kan optreden. Voor de duur van de onderbreking behoudt de werknemer zijn aanspraak op het naar tijdruimte vastgesteld loon. De werknemer mag als gevolg van de werkonderbreking niet worden benadeeld in zijn positie in het bedrijf of in de inrichting.
 
 2. Degene die stelt dat de werknemer de aanwezigheid van onmiddellijk dreigend gevaar als bedoeld in het eerste lid op grond van de feiten waarop hij zich beroept, niet naar zijn redelijk oordeel mocht aannemen, moet dit bewijzen.
 
 3. Indien de onderbreking van het werk geschiedt buiten weten van de werkgever onderscheidenlijk de bij de arbeid betrokken leidinggevende persoon, moet de werknemer de onderbreking terstond bij deze melden.
 
-4. De onderbreking van het werk wordt zo spoedig mogelijk ter kennis gebracht van de daartoe aangewezen toezichthouder, die een bevel geeft krachtens [artikel 28, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010346&hoofdstuk=5&artikel=28&z=2015-06-01&g=2015-06-01), of verklaart, zo nodig onder het stellen van een eis als bedoeld in [artikel 27](https://wetten.overheid.nl/jci1.3:c:BWBR0010346&hoofdstuk=5&artikel=27&z=2015-06-01&g=2015-06-01), dat de arbeid kan worden verricht. Door de beschikking van de daartoe aangewezen toezichthouder eindigt de bevoegdheid van de werknemer de werkonderbreking voort te zetten.
+4. De onderbreking van het werk wordt zo spoedig mogelijk ter kennis gebracht van de daartoe aangewezen toezichthouder, die een bevel geeft krachtens [artikel 28, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010346&hoofdstuk=5&artikel=28&z=2016-01-01&g=2016-01-01), of verklaart, zo nodig onder het stellen van een eis als bedoeld in [artikel 27](https://wetten.overheid.nl/jci1.3:c:BWBR0010346&hoofdstuk=5&artikel=27&z=2016-01-01&g=2016-01-01), dat de arbeid kan worden verricht. Door de beschikking van de daartoe aangewezen toezichthouder eindigt de bevoegdheid van de werknemer de werkonderbreking voort te zetten.
 
 ### Hoofdstuk 6. Vrijstellingen, ontheffingen en beroep
 
@@ -619,7 +619,7 @@ De toezichthouders zijn, behoudens tegenover hen aan wier gezag zij uit kracht v
 
 ##### Artikel 30
 
-1. Onze Minister kan met betrekking tot categorieën van bedrijven, inrichtingen, of arbeidsverhoudingen vrijstelling verlenen van de voorschriften zoals die bij of krachtens [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0010346&hoofdstuk=2&artikel=5&z=2015-06-01&g=2015-06-01), en de [artikelen 12 tot en met 18](https://wetten.overheid.nl/jci1.3:c:BWBR0010346&hoofdstuk=3&artikel=12&z=2015-06-01&g=2015-06-01) zijn vastgesteld.
+1. Onze Minister kan met betrekking tot categorieën van bedrijven, inrichtingen, of arbeidsverhoudingen vrijstelling verlenen van de voorschriften zoals die bij of krachtens [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0010346&hoofdstuk=2&artikel=5&z=2016-01-01&g=2016-01-01), en de [artikelen 12 tot en met 18](https://wetten.overheid.nl/jci1.3:c:BWBR0010346&hoofdstuk=3&artikel=12&z=2016-01-01&g=2016-01-01) zijn vastgesteld.
 
 2. Een daartoe aangewezen toezichthouder kan met betrekking tot een individueel bedrijf of inrichting ontheffing verlenen van de in het eerste lid bedoelde voorschriften, tenzij met betrekking tot een dergelijk voorschrift een eis is gesteld.
 
@@ -643,9 +643,9 @@ De toezichthouders zijn, behoudens tegenover hen aan wier gezag zij uit kracht v
 
 ##### Artikel 31
 
-1. Tegen een beschikking op grond van deze wet van een ambtenaar als bedoeld in [artikel 24, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010346&hoofdstuk=5&artikel=24&z=2015-06-01&g=2015-06-01), kan door een belanghebbende administratief beroep worden ingesteld bij Onze Minister.
+1. Tegen een beschikking op grond van deze wet van een ambtenaar als bedoeld in [artikel 24, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010346&hoofdstuk=5&artikel=24&z=2016-01-01&g=2016-01-01), kan door een belanghebbende administratief beroep worden ingesteld bij Onze Minister.
 
-2. Een beschikking op grond van deze wet van een ambtenaar als bedoeld in de [artikelen 24, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010346&hoofdstuk=5&artikel=24&z=2015-06-01&g=2015-06-01), [28a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010346&hoofdstuk=5&artikel=28a&z=2015-06-01&g=2015-06-01), [28b](https://wetten.overheid.nl/jci1.3:c:BWBR0010346&hoofdstuk=5&artikel=28b&z=2015-06-01&g=2015-06-01), en [34, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010346&hoofdstuk=7&artikel=34&z=2015-06-01&g=2015-06-01), wordt gegeven namens Onze Minister.
+2. Een beschikking op grond van deze wet van een ambtenaar als bedoeld in de [artikelen 24, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010346&hoofdstuk=5&artikel=24&z=2016-01-01&g=2016-01-01), [28a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010346&hoofdstuk=5&artikel=28a&z=2016-01-01&g=2016-01-01), [28b](https://wetten.overheid.nl/jci1.3:c:BWBR0010346&hoofdstuk=5&artikel=28b&z=2016-01-01&g=2016-01-01), en [34, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010346&hoofdstuk=7&artikel=34&z=2016-01-01&g=2016-01-01), wordt gegeven namens Onze Minister.
 
 ### Hoofdstuk 7. Sancties
 
@@ -659,13 +659,13 @@ Het is de werkgever verboden handelingen te verrichten of na te laten in strijd 
 
 ##### Artikel 33
 
-1. Als overtreding wordt aangemerkt het niet naleven van de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0010346&hoofdstuk=2&artikel=3&z=2015-06-01&g=2015-06-01), [4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010346&hoofdstuk=2&artikel=4&z=2015-06-01&g=2015-06-01), [5](https://wetten.overheid.nl/jci1.3:c:BWBR0010346&hoofdstuk=2&artikel=5&z=2015-06-01&g=2015-06-01), [6, eerste lid, eerste volzin](https://wetten.overheid.nl/jci1.3:c:BWBR0010346&hoofdstuk=2&artikel=6&z=2015-06-01&g=2015-06-01), [8](https://wetten.overheid.nl/jci1.3:c:BWBR0010346&hoofdstuk=2&artikel=8&z=2015-06-01&g=2015-06-01), [9, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010346&hoofdstuk=2&artikel=9&z=2015-06-01&g=2015-06-01), [10](https://wetten.overheid.nl/jci1.3:c:BWBR0010346&hoofdstuk=2&artikel=10&z=2015-06-01&g=2015-06-01), [11](https://wetten.overheid.nl/jci1.3:c:BWBR0010346&hoofdstuk=2&artikel=11&z=2015-06-01&g=2015-06-01), [13, eerste tot en met vierde lid, negende en tiende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010346&hoofdstuk=3&artikel=13&z=2015-06-01&g=2015-06-01), [14, eerste, tweede en zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010346&hoofdstuk=3&artikel=14&z=2015-06-01&g=2015-06-01), [14a, tweede, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010346&hoofdstuk=3&artikel=14a&z=2015-06-01&g=2015-06-01), [15, eerste en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010346&hoofdstuk=3&artikel=15&z=2015-06-01&g=2015-06-01), [18](https://wetten.overheid.nl/jci1.3:c:BWBR0010346&hoofdstuk=4&artikel=18&z=2015-06-01&g=2015-06-01) en [19](https://wetten.overheid.nl/jci1.3:c:BWBR0010346&hoofdstuk=4&artikel=19&z=2015-06-01&g=2015-06-01).
+1. Als overtreding wordt aangemerkt het niet naleven van de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0010346&hoofdstuk=2&artikel=3&z=2016-01-01&g=2016-01-01), [4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010346&hoofdstuk=2&artikel=4&z=2016-01-01&g=2016-01-01), [5](https://wetten.overheid.nl/jci1.3:c:BWBR0010346&hoofdstuk=2&artikel=5&z=2016-01-01&g=2016-01-01), [6, eerste lid, eerste volzin](https://wetten.overheid.nl/jci1.3:c:BWBR0010346&hoofdstuk=2&artikel=6&z=2016-01-01&g=2016-01-01), [8](https://wetten.overheid.nl/jci1.3:c:BWBR0010346&hoofdstuk=2&artikel=8&z=2016-01-01&g=2016-01-01), [9, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010346&hoofdstuk=2&artikel=9&z=2016-01-01&g=2016-01-01), [10](https://wetten.overheid.nl/jci1.3:c:BWBR0010346&hoofdstuk=2&artikel=10&z=2016-01-01&g=2016-01-01), [11](https://wetten.overheid.nl/jci1.3:c:BWBR0010346&hoofdstuk=2&artikel=11&z=2016-01-01&g=2016-01-01), [13, eerste tot en met vierde lid, negende en tiende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010346&hoofdstuk=3&artikel=13&z=2016-01-01&g=2016-01-01), [14, eerste, tweede en zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010346&hoofdstuk=3&artikel=14&z=2016-01-01&g=2016-01-01), [14a, tweede, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010346&hoofdstuk=3&artikel=14a&z=2016-01-01&g=2016-01-01), [15, eerste en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010346&hoofdstuk=3&artikel=15&z=2016-01-01&g=2016-01-01), [18](https://wetten.overheid.nl/jci1.3:c:BWBR0010346&hoofdstuk=4&artikel=18&z=2016-01-01&g=2016-01-01) en [19](https://wetten.overheid.nl/jci1.3:c:BWBR0010346&hoofdstuk=4&artikel=19&z=2016-01-01&g=2016-01-01).
 
-2. Als overtreding wordt tevens aangemerkt het niet naleven van de [artikelen 6, eerste lid, tweede volzin](https://wetten.overheid.nl/jci1.3:c:BWBR0010346&hoofdstuk=2&artikel=6&z=2015-06-01&g=2015-06-01), en [16, tiende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010346&hoofdstuk=4&artikel=16&z=2015-06-01&g=2015-06-01), voor zover het niet naleven van de in die artikelleden bedoelde voorschriften en verboden bij of krachtens algemene maatregel van bestuur is aangemerkt als overtreding.
+2. Als overtreding wordt tevens aangemerkt het niet naleven van de [artikelen 6, eerste lid, tweede volzin](https://wetten.overheid.nl/jci1.3:c:BWBR0010346&hoofdstuk=2&artikel=6&z=2016-01-01&g=2016-01-01), en [16, tiende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010346&hoofdstuk=4&artikel=16&z=2016-01-01&g=2016-01-01), voor zover het niet naleven van de in die artikelleden bedoelde voorschriften en verboden bij of krachtens algemene maatregel van bestuur is aangemerkt als overtreding.
 
-3. Geen bestuurlijke boete kan worden opgelegd ter zake van bij of krachtens deze wet strafbaar gestelde feiten of ter zake van deze wet in de [Wet op de economische delicten](https://wetten.overheid.nl/jci1.3:c:BWBR0002063) strafbaar gestelde feiten, met uitzondering van de strafbare feiten, bedoeld in [artikel 6, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010346&hoofdstuk=2&artikel=6&z=2015-06-01&g=2015-06-01), van deze wet en [artikel 1, onder 1°, van de Wet op de economische delicten](https://wetten.overheid.nl/jci1.3:c:BWBR0002063&artikel=1) ten aanzien van artikel 6, eerste lid, eerste volzin.
+3. Geen bestuurlijke boete kan worden opgelegd ter zake van bij of krachtens deze wet strafbaar gestelde feiten of ter zake van deze wet in de [Wet op de economische delicten](https://wetten.overheid.nl/jci1.3:c:BWBR0002063) strafbaar gestelde feiten, met uitzondering van de strafbare feiten, bedoeld in [artikel 6, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010346&hoofdstuk=2&artikel=6&z=2016-01-01&g=2016-01-01), van deze wet en [artikel 1, onder 1°, van de Wet op de economische delicten](https://wetten.overheid.nl/jci1.3:c:BWBR0002063&artikel=1) ten aanzien van artikel 6, eerste lid, eerste volzin.
 
-#### Beroep
+#### Vrijstelling en ontheffing
 
 ##### Artikel 34
 
@@ -675,7 +675,7 @@ Het is de werkgever verboden handelingen te verrichten of na te laten in strijd 
 
 3. De bestuurlijke boete die voor een overtreding kan worden opgelegd bedraagt ten hoogste het bedrag van de vijfde categorie, bedoeld in [artikel 23, vierde lid, van het Wetboek van Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=23).
 
-4. De bestuurlijke boete die voor een overtreding van [artikel 6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010346&hoofdstuk=2&artikel=6&z=2015-06-01&g=2015-06-01), of voor het niet naleven van een voorschrift of verbod bij of krachtens de algemene maatregel van bestuur, bedoeld in artikel 6, eerste lid, voor zover aangemerkt als overtreding, kan worden opgelegd bedraagt ten hoogste het bedrag van de zesde categorie, bedoeld in [artikel 23, vierde lid, van het Wetboek van Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=23).
+4. De bestuurlijke boete die voor een overtreding van [artikel 6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010346&hoofdstuk=2&artikel=6&z=2016-01-01&g=2016-01-01), of voor het niet naleven van een voorschrift of verbod bij of krachtens de algemene maatregel van bestuur, bedoeld in artikel 6, eerste lid, voor zover aangemerkt als overtreding, kan worden opgelegd bedraagt ten hoogste het bedrag van de zesde categorie, bedoeld in [artikel 23, vierde lid, van het Wetboek van Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=23).
 
 5. Onverminderd het derde en vierde lid verhoogt de op grond van het eerste lid aangewezen ambtenaar de op te leggen bestuurlijke boete met 100 procent van het boetebedrag, vastgesteld op grond van het tiende lid, indien binnen een tijdvak van vijf jaar voorafgaand aan de dag van constatering van de overtreding een eerdere overtreding, bestaande uit het niet naleven van eenzelfde wettelijke verplichting of verbod of het niet naleven van bij of krachtens algemene maatregel van bestuur aan te wijzen soortgelijke verplichtingen en verboden, is geconstateerd en de bestuurlijke boete wegens de eerdere overtreding onherroepelijk is geworden.
 
@@ -683,7 +683,7 @@ Het is de werkgever verboden handelingen te verrichten of na te laten in strijd 
 
 7. Onverminderd het derde en vierde lid verhoogt de op grond van het eerste lid aangewezen ambtenaar de op te leggen bestuurlijke boete met 200 procent van het boetebedrag, vastgesteld op grond van het tiende lid, indien binnen een tijdvak van vijf jaar voorafgaand aan de dag van constatering van de overtreding twee maal een eerdere overtreding, bestaande uit het niet naleven van eenzelfde wettelijke verplichting of verbod of het niet naleven van bij of krachtens algemene maatregel van bestuur aan te wijzen soortgelijke verplichtingen en verboden, is geconstateerd en de bestuurlijke boeten wegens de eerdere overtredingen onherroepelijk zijn geworden.
 
-8. Voor de toepassing van het vijfde en zevende lid wordt met een onherroepelijke bestuurlijke boete gelijkgesteld een onherroepelijke strafrechtelijke sanctie wegens een overtreding als bedoeld in [artikel 6, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010346&hoofdstuk=2&artikel=6&z=2015-06-01&g=2015-06-01).
+8. Voor de toepassing van het vijfde en zevende lid wordt met een onherroepelijke bestuurlijke boete gelijkgesteld een onherroepelijke strafrechtelijke sanctie wegens een overtreding als bedoeld in [artikel 6, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010346&hoofdstuk=2&artikel=6&z=2016-01-01&g=2016-01-01).
 
 9. In afwijking van het vijfde en zevende lid is het tijdvak van vijf jaar in die leden tien jaar indien de onherroepelijke boetes, bedoeld in die leden, zijn opgelegd wegens bij of krachtens algemene maatregel van bestuur aangewezen ernstige overtredingen.
 
@@ -691,7 +691,7 @@ Het is de werkgever verboden handelingen te verrichten of na te laten in strijd 
 
 11. In afwijking van [artikel 8:69 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=8:69) kan de rechter in beroep of hoger beroep de hoogte van de boete ook ten nadele van de belanghebbende wijzigen.
 
-#### Strafbepaling
+#### Beroep
 
 ##### Artikel 35
 
@@ -703,7 +703,7 @@ Vervallen
 
 1. Onverminderd [artikel 5:48, tweede lid, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:48) vermeldt het rapport naast de overtreder in ieder geval de andere bij de overtreding betrokken persoon of personen.
 
-2. Het rapport wordt toegezonden aan de daartoe op grond van [artikel 34, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010346&hoofdstuk=7&artikel=34&z=2015-06-01&g=2015-06-01), aangewezen ambtenaar.
+2. Het rapport wordt toegezonden aan de daartoe op grond van [artikel 34, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010346&hoofdstuk=7&artikel=34&z=2016-01-01&g=2016-01-01), aangewezen ambtenaar.
 
 3. Een afschrift van het rapport wordt toegezonden of uitgereikt aan de andere bij de overtreding betrokken persoon of personen, bedoeld in het eerste lid.
 
@@ -711,15 +711,15 @@ Vervallen
 
 ##### Artikel 37
 
-Een afschrift van de boetebeschikking wordt toegezonden of uitgereikt aan de andere bij de overtreding betrokken persoon of personen, bedoeld in [artikel 36, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010346&hoofdstuk=7&artikel=36&z=2015-06-01&g=2015-06-01), en in voorkomend geval, desgevraagd aan zijn of hun nabestaande of nabestaanden.
+Een afschrift van de boetebeschikking wordt toegezonden of uitgereikt aan de andere bij de overtreding betrokken persoon of personen, bedoeld in [artikel 36, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010346&hoofdstuk=7&artikel=36&z=2016-01-01&g=2016-01-01), en in voorkomend geval, desgevraagd aan zijn of hun nabestaande of nabestaanden.
 
 #### Hoogte bestuurlijke boete en recidive
 
 ##### Artikel 38
 
-Degene aan wie een bestuurlijke boete is opgelegd is verplicht desgevraagd aan de daartoe op grond van [artikel 34, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010346&hoofdstuk=7&artikel=34&z=2015-06-01&g=2015-06-01), aangewezen ambtenaar de inlichtingen te verstrekken die voor de tenuitvoerlegging van de boete van belang zijn.
+Degene aan wie een bestuurlijke boete is opgelegd is verplicht desgevraagd aan de daartoe op grond van [artikel 34, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010346&hoofdstuk=7&artikel=34&z=2016-01-01&g=2016-01-01), aangewezen ambtenaar de inlichtingen te verstrekken die voor de tenuitvoerlegging van de boete van belang zijn.
 
-#### Boeterapport
+#### Hoogte bestuurlijke boete en recidive
 
 ##### Artikel 39
 
@@ -757,13 +757,13 @@ Indien een bestuurlijke boete ten onrechte is opgelegd, wordt deze binnen zes we
 
 De kosten die zijn verbonden aan de naleving van de regels die bij of krachtens deze wet zijn gesteld, worden niet ten laste van de werknemers gebracht.
 
-#### Terugbetaling
+#### Wijziging boetebedrag
 
 ##### Artikel 45
 
 Onze Minister zendt binnen 5 jaar na de inwerkingtreding van de [Wet van 30 november 2006 tot wijziging van de Arbeidsomstandighedenwet 1998 en enige andere wetten in verband met het vergroten van de verantwoordelijkheid van werkgevers en werknemers voor het arbeidsomstandighedenbeleid](https://wetten.overheid.nl/jci1.3:c:BWBR0020772) (Stb. 2006, 673) aan de Staten-Generaal een verslag over de doeltreffendheid en de effecten van deze wet in de praktijk.
 
-#### Kosten
+#### Terugbetaling
 
 ##### Artikel 46
 
@@ -885,7 +885,7 @@ Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle mi
 
 Vervallen
 
-#### Wijziging boetebedrag
+#### Invordering
 
 ### Hoofdstuk 8. Overgangs- en slotbepalingen
 
@@ -897,17 +897,17 @@ Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle mi
 
 ##### Artikel 14a
 
-1. Indien de bijstand bij de taken, bedoeld in [artikel 14, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010346&hoofdstuk=3&artikel=14&z=2015-06-01&g=2015-06-01), niet is georganiseerd met toepassing van [artikel 14, negende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010346&hoofdstuk=3&artikel=14&z=2015-06-01&g=2015-06-01), wordt deze bijstand georganiseerd met inachtneming van dit artikel.
+1. Indien de bijstand bij de taken, bedoeld in [artikel 14, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010346&hoofdstuk=3&artikel=14&z=2016-01-01&g=2016-01-01), niet is georganiseerd met toepassing van [artikel 14, negende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010346&hoofdstuk=3&artikel=14&z=2016-01-01&g=2016-01-01), wordt deze bijstand georganiseerd met inachtneming van dit artikel.
 
-2. De werkgever laat zich met betrekking tot de taken, bedoeld in [artikel 14, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010346&hoofdstuk=3&artikel=14&z=2015-06-01&g=2015-06-01), bijstaan door een arbodienst, ten behoeve waarvan overeenkomstig [artikel 20](https://wetten.overheid.nl/jci1.3:c:BWBR0010346&hoofdstuk=4&artikel=20&z=2015-06-01&g=2015-06-01) een certificaat is afgegeven en die deel uitmaakt van de organisatie van het bedrijf of de inrichting.
+2. De werkgever laat zich met betrekking tot de taken, bedoeld in [artikel 14, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010346&hoofdstuk=3&artikel=14&z=2016-01-01&g=2016-01-01), bijstaan door een arbodienst, ten behoeve waarvan overeenkomstig [artikel 20](https://wetten.overheid.nl/jci1.3:c:BWBR0010346&hoofdstuk=4&artikel=20&z=2016-01-01&g=2016-01-01) een certificaat is afgegeven en die deel uitmaakt van de organisatie van het bedrijf of de inrichting.
 
-3. Voorzover de mogelijkheden onvoldoende zijn om de bijstand binnen het bedrijf of de inrichting te organiseren, wordt de bijstand verleend door een andere arbodienst ten behoeve waarvan, overeenkomstig [artikel 20](https://wetten.overheid.nl/jci1.3:c:BWBR0010346&hoofdstuk=4&artikel=20&z=2015-06-01&g=2015-06-01), een certificaat is afgegeven.
+3. Voorzover de mogelijkheden onvoldoende zijn om de bijstand binnen het bedrijf of de inrichting te organiseren, wordt de bijstand verleend door een andere arbodienst ten behoeve waarvan, overeenkomstig [artikel 20](https://wetten.overheid.nl/jci1.3:c:BWBR0010346&hoofdstuk=4&artikel=20&z=2016-01-01&g=2016-01-01), een certificaat is afgegeven.
 
-4. De deskundige werknemers en andere deskundige personen, bedoeld in [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0010346&hoofdstuk=3&artikel=13&z=2015-06-01&g=2015-06-01), en de werknemers van een arbodienst, werken bij het verlenen van bijstand aan een werkgever samen.
+4. De deskundige werknemers en andere deskundige personen, bedoeld in [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0010346&hoofdstuk=3&artikel=13&z=2016-01-01&g=2016-01-01), en de werknemers van een arbodienst, werken bij het verlenen van bijstand aan een werkgever samen.
 
-5. [Artikel 13, vijfde en zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010346&hoofdstuk=3&artikel=13&z=2015-06-01&g=2015-06-01), is van overeenkomstige toepassing.
+5. [Artikel 13, vijfde en zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010346&hoofdstuk=3&artikel=13&z=2016-01-01&g=2016-01-01), is van overeenkomstige toepassing.
 
-6. [Artikel 14, derde tot en met zesde lid, twaalfde tot en met veertiende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010346&hoofdstuk=3&artikel=14&z=2015-06-01&g=2015-06-01), is van toepassing.
+6. [Artikel 14, derde tot en met zesde lid, twaalfde tot en met veertiende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010346&hoofdstuk=3&artikel=14&z=2016-01-01&g=2016-01-01), is van toepassing.
 
 #### Deskundige bijstand op het gebied van bedrijfshulpverlening
 
@@ -1035,11 +1035,13 @@ Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle mi
 
 #### Strafbepaling
 
+#### Strafbepaling
+
 #### Overtredingen
 
 #### Hoogte bestuurlijke boete en recidive
 
-#### Hoogte bestuurlijke boete en recidive
+#### Boeterapport
 
 #### Boeterapport
 
@@ -1049,17 +1051,15 @@ Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle mi
 
 #### Invordering
 
-#### Invordering
-
 ### Hoofdstuk 8. Overgangs- en slotbepalingen
+
+#### Kosten
 
 #### Kosten
 
 #### Evaluatie
 
 #### Citeertitel
-
-#### Evaluatie
 
 #### Intrekking
 
@@ -1075,23 +1075,23 @@ Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle mi
 
 ##### Artikel 15a
 
-De werkgever zorgt ervoor dat de deskundige werknemers en de andere deskundige personen, bedoeld in [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0010346&hoofdstuk=3&artikel=13&z=2015-06-01&g=2015-06-01), de personen, bedoeld in [artikel 14, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010346&hoofdstuk=3&artikel=14&z=2015-06-01&g=2015-06-01), de bedrijfshulpverleners, bedoeld in [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBR0010346&hoofdstuk=3&artikel=15&z=2015-06-01&g=2015-06-01), en de arbodienst kennis kunnen nemen van:
+De werkgever zorgt ervoor dat de deskundige werknemers en de andere deskundige personen, bedoeld in [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0010346&hoofdstuk=3&artikel=13&z=2016-01-01&g=2016-01-01), de personen, bedoeld in [artikel 14, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010346&hoofdstuk=3&artikel=14&z=2016-01-01&g=2016-01-01), de bedrijfshulpverleners, bedoeld in [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBR0010346&hoofdstuk=3&artikel=15&z=2016-01-01&g=2016-01-01), en de arbodienst kennis kunnen nemen van:
 
-- a. de ongevalsrapportages en de lijst van arbeidsongevallen, bedoeld in [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0010346&hoofdstuk=2&artikel=9&z=2015-06-01&g=2015-06-01);
+- a. de ongevalsrapportages en de lijst van arbeidsongevallen, bedoeld in [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0010346&hoofdstuk=2&artikel=9&z=2016-01-01&g=2016-01-01);
 
-- b. een eis als bedoeld in [artikel 27, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010346&hoofdstuk=5&artikel=27&z=2015-06-01&g=2015-06-01);
+- b. een eis als bedoeld in [artikel 27, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010346&hoofdstuk=5&artikel=27&z=2016-01-01&g=2016-01-01);
 
-- c. een bevel als bedoeld in [artikel 28, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010346&hoofdstuk=5&artikel=28&z=2015-06-01&g=2015-06-01);
+- c. een bevel als bedoeld in [artikel 28, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010346&hoofdstuk=5&artikel=28&z=2016-01-01&g=2016-01-01);
 
-- d. een bevel als bedoeld in [artikel 28a, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010346&hoofdstuk=5&artikel=28a&z=2015-06-01&g=2015-06-01);
+- d. een bevel als bedoeld in [artikel 28a, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010346&hoofdstuk=5&artikel=28a&z=2016-01-01&g=2016-01-01);
 
-- e. een beschikking tot oplegging van een last onder bestuursdwang of tot oplegging van een last onder dwangsom als bedoeld in [artikel 28b](https://wetten.overheid.nl/jci1.3:c:BWBR0010346&hoofdstuk=5&artikel=28b&z=2015-06-01&g=2015-06-01);
+- e. een beschikking tot oplegging van een last onder bestuursdwang of tot oplegging van een last onder dwangsom als bedoeld in [artikel 28b](https://wetten.overheid.nl/jci1.3:c:BWBR0010346&hoofdstuk=5&artikel=28b&z=2016-01-01&g=2016-01-01);
 
-- f. een verzoek om ontheffing als bedoeld in [artikel 30, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010346&hoofdstuk=6&artikel=30&z=2015-06-01&g=2015-06-01);
+- f. een verzoek om ontheffing als bedoeld in [artikel 30, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010346&hoofdstuk=6&artikel=30&z=2016-01-01&g=2016-01-01);
 
-- g. een rapport als bedoeld in [artikel 36, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010346&hoofdstuk=7&artikel=36&z=2015-06-01&g=2015-06-01);
+- g. een rapport als bedoeld in [artikel 36, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010346&hoofdstuk=7&artikel=36&z=2016-01-01&g=2016-01-01);
 
-- h. een beschikking als bedoeld in [artikel 37, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010346&hoofdstuk=7&artikel=37&z=2015-06-01&g=2015-06-01).
+- h. een beschikking als bedoeld in [artikel 37, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010346&hoofdstuk=7&artikel=37&z=2016-01-01&g=2016-01-01).
 
 ### Hoofdstuk 4. Bijzondere verplichtingen
 
@@ -1103,7 +1103,7 @@ De werkgever zorgt ervoor dat de deskundige werknemers en de andere deskundige p
 
 ##### Artikel 28a. Bevel stillegging van werk in verband met recidive
 
-1. Een daartoe door Onze Minister aangewezen, onder hem ressorterende ambtenaar kan, nadat een overtreding van een voorschrift of verbod bij of krachtens deze wet is geconstateerd die bestuurlijk beboetbaar is gesteld of op grond van de [Wet op de economische delicten](https://wetten.overheid.nl/jci1.3:c:BWBR0002063) strafbaar is gesteld, aan de werkgever een schriftelijke waarschuwing geven dat bij herhaling van de overtreding of bij een latere overtreding van eenzelfde in de waarschuwing aangegeven wettelijke verplichting of verbod of bij of krachtens algemene maatregel van bestuur aan te wijzen soortgelijke verplichtingen of verboden, door hem een bevel kan worden opgelegd dat door hem aangewezen werkzaamheden voor ten hoogste drie maanden worden gestaakt dan wel niet mogen worden aangevangen. [De artikelen 24, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010346&hoofdstuk=5&artikel=24&z=2015-06-01&g=2015-06-01), en [27, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010346&hoofdstuk=5&artikel=27&z=2015-06-01&g=2015-06-01), zijn van overeenkomstige toepassing.
+1. Een daartoe door Onze Minister aangewezen, onder hem ressorterende ambtenaar kan, nadat een overtreding van een voorschrift of verbod bij of krachtens deze wet is geconstateerd die bestuurlijk beboetbaar is gesteld of op grond van de [Wet op de economische delicten](https://wetten.overheid.nl/jci1.3:c:BWBR0002063) strafbaar is gesteld, aan de werkgever een schriftelijke waarschuwing geven dat bij herhaling van de overtreding of bij een latere overtreding van eenzelfde in de waarschuwing aangegeven wettelijke verplichting of verbod of bij of krachtens algemene maatregel van bestuur aan te wijzen soortgelijke verplichtingen of verboden, door hem een bevel kan worden opgelegd dat door hem aangewezen werkzaamheden voor ten hoogste drie maanden worden gestaakt dan wel niet mogen worden aangevangen. [De artikelen 24, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010346&hoofdstuk=5&artikel=24&z=2016-01-01&g=2016-01-01), en [27, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010346&hoofdstuk=5&artikel=27&z=2016-01-01&g=2016-01-01), zijn van overeenkomstige toepassing.
 
 2. Indien een waarschuwing als bedoeld in het eerste lid is gegeven en herhaling van de overtreding of een latere overtreding als bedoeld in het eerste lid is geconstateerd, kan door de ambtenaar, bedoeld in het eerste lid, aan de werkgever bij beschikking een bevel als bedoeld in het eerste lid worden opgelegd dat wordt opgevolgd met ingang van het in de beschikking aangeven tijdstip. Deze beschikking wordt niet gegeven zolang wegens de eerste overtreding, bedoeld in het eerste lid, nog niet een bestuurlijke boete is opgelegd of een proces-verbaal is opgemaakt.
 
@@ -1133,11 +1133,11 @@ Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle mi
 
 ##### Artikel 29a. Gegevensuitwisseling
 
-1. Bestuursorganen en een instelling als bedoeld in [artikel 20, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010346&hoofdstuk=4&artikel=20&z=2015-06-01&g=2015-06-01), zijn bevoegd uit eigen beweging en verplicht desgevraagd aan Onze Minister en de toezichthouder kosteloos alle gegevens en inlichtingen te verstrekken die noodzakelijk zijn voor de uitvoering en het toezicht op de naleving van het bepaalde bij of krachtens deze wet en dit noodzakelijk is ten behoeve van een samenwerkingsverband tussen twee of meer van de voornoemde instanties.
+1. Bestuursorganen en een instelling als bedoeld in [artikel 20, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010346&hoofdstuk=4&artikel=20&z=2016-01-01&g=2016-01-01), zijn bevoegd uit eigen beweging en verplicht desgevraagd aan Onze Minister en de toezichthouder kosteloos alle gegevens en inlichtingen te verstrekken die noodzakelijk zijn voor de uitvoering en het toezicht op de naleving van het bepaalde bij of krachtens deze wet en dit noodzakelijk is ten behoeve van een samenwerkingsverband tussen twee of meer van de voornoemde instanties.
 
-2. Onze Minister en de toezichthouder verstrekken andere bestuursorganen en een instelling als bedoeld in [artikel 20, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010346&hoofdstuk=4&artikel=20&z=2015-06-01&g=2015-06-01), kosteloos alle gegevens en inlichtingen, die zijn verkregen door de uitvoering of het toezicht op de naleving van het bepaalde bij of krachtens deze wet, welke noodzakelijk zijn voor de uitvoering van hun wettelijke taak en dit noodzakelijk is ten behoeve van een samenwerkingsverband tussen twee of meer van de voornoemde instanties.
+2. Onze Minister en de toezichthouder verstrekken andere bestuursorganen en een instelling als bedoeld in [artikel 20, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010346&hoofdstuk=4&artikel=20&z=2016-01-01&g=2016-01-01), kosteloos alle gegevens en inlichtingen, die zijn verkregen door de uitvoering of het toezicht op de naleving van het bepaalde bij of krachtens deze wet, welke noodzakelijk zijn voor de uitvoering van hun wettelijke taak en dit noodzakelijk is ten behoeve van een samenwerkingsverband tussen twee of meer van de voornoemde instanties.
 
-3. Onze Minister, bestuursorganen, de toezichthouder en een instelling als bedoeld in [artikel 20, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010346&hoofdstuk=4&artikel=20&z=2015-06-01&g=2015-06-01), kunnen bij het verwerken van persoonsgegevens gebruik maken van het burgerservicenummer of, bij het ontbreken daarvan, het sociaal-fiscaalnummer.
+3. Onze Minister, bestuursorganen, de toezichthouder en een instelling als bedoeld in [artikel 20, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010346&hoofdstuk=4&artikel=20&z=2016-01-01&g=2016-01-01), kunnen bij het verwerken van persoonsgegevens gebruik maken van het burgerservicenummer.
 
 4. De gegevensverstrekking, bedoeld in het eerste en tweede lid, vindt niet plaats indien de persoonlijke levenssfeer van de betrokkene daardoor onevenredig wordt geschaad.
 
@@ -1149,7 +1149,19 @@ Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle mi
 
 ##### Artikel 28b
 
-Een daartoe door Onze Minister aangewezen, onder hem ressorterende ambtenaar is bevoegd tot oplegging van een last onder bestuursdwang ter zake van de naleving van [artikel 5:20 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:20), voor zover het de verplichting betreft tot het verlenen van medewerking aan de toezichthouder, de [artikelen 24, negende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010346&hoofdstuk=5&artikel=24&z=2015-06-01&g=2015-06-01), [28, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010346&hoofdstuk=5&artikel=28&z=2015-06-01&g=2015-06-01), en [28a, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010346&hoofdstuk=5&artikel=28a&z=2015-06-01&g=2015-06-01), en de daartoe bij algemene maatregel van bestuur aangewezen bepalingen krachtens deze wet. Artikel 24, tweede lid, is van overeenkomstige toepassing.
+Een daartoe door Onze Minister aangewezen, onder hem ressorterende ambtenaar is bevoegd tot oplegging van een last onder bestuursdwang ter zake van de naleving van [artikel 5:20 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:20), voor zover het de verplichting betreft tot het verlenen van medewerking aan de toezichthouder, de [artikelen 24, negende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010346&hoofdstuk=5&artikel=24&z=2016-01-01&g=2016-01-01), [28, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010346&hoofdstuk=5&artikel=28&z=2016-01-01&g=2016-01-01), en [28a, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010346&hoofdstuk=5&artikel=28a&z=2016-01-01&g=2016-01-01), en de daartoe bij algemene maatregel van bestuur aangewezen bepalingen krachtens deze wet. Artikel 24, tweede lid, is van overeenkomstige toepassing.
+
+### Hoofdstuk 7. Sancties
+
+### Hoofdstuk 8. Overgangs- en slotbepalingen
+
+Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
+
+##### Artikel 29b. Openbaarmaking van door toezicht op de naleving verkregen gegevens
+
+Dit onderdeel is nog niet inwerking getreden
+
+### Hoofdstuk 6. Vrijstellingen, ontheffingen en beroep
 
 ### Hoofdstuk 7. Sancties
 
