@@ -4,7 +4,7 @@ identifier: "BWBR0036755"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2020-06-11"
-last_updated: "2015-07-01"
+last_updated: "2016-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0036755"
 soort: "ministeriele-regeling"
@@ -44,19 +44,15 @@ Besluit:
 
 In dit besluit wordt verstaan onder:
 
-- a. **directeur:** directeur van de Tijdelijke werkorganisatie Autoriteit woningcorporaties,genoemd in de [bijlage bij het Organisatie- en mandaatbesluit Inspectie Leefomgeving en Transport 2015](onbekend);
+- a. **de directeur:** de directeur van de ILT/Autoriteit woningcorporaties, bedoeld in de bij het [Organisatie- en mandaatbesluit Inspectie Leefomgeving en Transport 2015 behorende bijlage](onbekend);
 
-- b. **afdelingshoofd:** afdelingshoofd van de Afdeling Toezicht woningcorporaties Utrecht en de Afdeling Toezicht woningcorporaties Baarn, bedoeld in de [bijlage bij het Organisatie- en mandaatbesluit Inspectie Leefomgeving en Transport 2015](onbekend);
+- b. **de hoofden:** de hoofden van de Afdeling Vergunningen, Analyse en Ontwikkeling, van de Afdeling Toezicht Woningcorporaties-I en van de Afdeling Toezicht Woningcorporaties-II, bedoeld in de bij het [Organisatie- en mandaatbesluit Inspectie Leefomgeving en Transport 2015 behorende bijlage](onbekend);
 
-- c. **teamleider:** een teamleider van de afdeling Toezicht woningcorporaties Baarn, bedoeld in de [bijlage bij het Organisatie- en mandaatbesluit Inspectie Leefomgeving en Transport 2015](onbekend);
-
-- d. **inspecteur:** inspecteur van de Afdeling Toezicht woningcorporaties Utrecht en de Afdeling Toezicht woningcorporaties Baarn, bedoeld in de [bijlage bij het Organisatie- en mandaatbesluit Inspectie Leefomgeving en Transport 2015](onbekend);
-
-- e. **aan de inspecteur-generaal verleende bevoegdheden:** door de Minister van Wonen en Rijksdienst aan de inspecteur-generaal verleende bevoegdheden, bedoeld in de [artikelen 3 tot en met 7 van het Besluit mandaat Autoriteit woningcorporaties en aanwijzing toezichthouders Woningwet en WNT](https://wetten.overheid.nl/jci1.3:c:BWBR0036749&artikel=3).
+- c. **de inspecteurs:** de inspecteurs van de Afdeling Vergunningen, Analyse en Ontwikkeling, van de Afdeling Toezicht Woningcorporaties-I en van de Afdeling Toezicht Woningcorporaties-II, bedoeld in de bij het [Organisatie- en mandaatbesluit Inspectie Leefomgeving en Transport 2015 behorende bijlage](onbekend).
 
 ##### Artikel 2
 
-1. Aan de directeur, afdelingshoofden, teamleiders en inspecteurs worden, voor zover het behoort tot hun taken, de aan de inspecteur-generaal verleende bevoegdheden in ondermandaat verleend.
+1. Aan de directeur, afdelingshoofden en inspecteurs worden, voor zover het behoort tot hun taken, de aan de inspecteur-generaal verleende bevoegdheden in ondermandaat verleend.
 
 2. Het ondermandaat, bedoeld in het eerste lid, omvat niet het vaststellen, wijzigen of intrekken van beleidsregels.
 
@@ -74,7 +70,7 @@ In dit besluit wordt verstaan onder:
 
 ##### Artikel 4
 
-In afwijking van [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0036755&artikel=2&z=2015-07-01&g=2015-07-01) wordt ondermandaat van personele aangelegenheden slechts verleend aan de directeur, de afdelingshoofden en teamleiders.
+In afwijking van [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0036755&artikel=2&z=2016-01-01&g=2016-01-01) wordt ondermandaat van personele aangelegenheden slechts verleend aan de directeur en de afdelingshoofden.
 
 ##### Artikel 5
 
