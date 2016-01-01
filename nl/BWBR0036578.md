@@ -4,7 +4,7 @@ identifier: "BWBR0036578"
 country: "nl"
 rank: "amvb"
 publication_date: "2026-01-01"
-last_updated: "2015-07-01"
+last_updated: "2016-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0036578"
 soort: "AMvB"
@@ -108,7 +108,7 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
 ##### Artikel 2:3
 
-De gegevens, bedoeld in de [artikelen 2:1](https://wetten.overheid.nl/jci1.3:c:BWBR0036578&hoofdstuk=2&artikel=2:1&z=2015-07-01&g=2015-07-01) en [2:2](https://wetten.overheid.nl/jci1.3:c:BWBR0036578&hoofdstuk=2&artikel=2:2&z=2015-07-01&g=2015-07-01), die door de Inspectie SZW en de rijksbelastingdienst via de bewerker worden verstrekt aan de certificerende instellingen, worden door de certificerende instellingen en de bewerker vernietigd na een periode van maximaal vijf jaar, te rekenen vanaf de datum van ontvangst van het gegeven met dien verstande dat bij verlies van het certificaat door een onderneming of rechtspersoon, de certificerende instellingen en de bewerker de gegevens vernietigen na een periode van een half jaar, te rekenen vanaf de datum waarop de onderneming of rechtspersoon het certificaat heeft verloren.
+De gegevens, bedoeld in de [artikelen 2:1](https://wetten.overheid.nl/jci1.3:c:BWBR0036578&hoofdstuk=2&artikel=2:1&z=2016-01-01&g=2016-01-01) en [2:2](https://wetten.overheid.nl/jci1.3:c:BWBR0036578&hoofdstuk=2&artikel=2:2&z=2016-01-01&g=2016-01-01), die door de Inspectie SZW en de rijksbelastingdienst via de bewerker worden verstrekt aan de certificerende instellingen, worden door de certificerende instellingen en de bewerker vernietigd na een periode van maximaal vijf jaar, te rekenen vanaf de datum van ontvangst van het gegeven met dien verstande dat bij verlies van het certificaat door een onderneming of rechtspersoon, de certificerende instellingen en de bewerker de gegevens vernietigen na een periode van een half jaar, te rekenen vanaf de datum waarop de onderneming of rechtspersoon het certificaat heeft verloren.
 
 #### Beveiliging tegen verlies of onrechtmatige verwerking
 
@@ -154,15 +154,15 @@ De certificerende instelling en de bewerker dragen zorg voor de nodige voorzieni
 
 ##### Artikel 3:2
 
-Bij ministeriële regeling kan het aantal werknemers, bedoeld in [artikel 3:1, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036578&hoofdstuk=3&artikel=3:1&z=2015-07-01&g=2015-07-01), worden aangepast.
+Bij ministeriële regeling kan het aantal werknemers, bedoeld in [artikel 3:1, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036578&hoofdstuk=3&artikel=3:1&z=2016-01-01&g=2016-01-01), worden aangepast.
 
 #### Ernstige overtredingen
 
 ##### Artikel 3:3
 
-Ernstige overtredingen in de zin van [artikel 19, derde en vijfde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0009616&artikel=19) zijn de overtredingen, genoemd in [artikel 3:1, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036578&hoofdstuk=3&artikel=3:1&z=2015-07-01&g=2015-07-01).
+Ernstige overtredingen in de zin van [artikel 19, derde en vijfde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0009616&artikel=19) zijn de overtredingen, genoemd in [artikel 3:1, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036578&hoofdstuk=3&artikel=3:1&z=2016-01-01&g=2016-01-01).
 
-### Hoofdstuk 4. Wijzigingen in andere besluiten
+### Hoofdstuk 3a. Openbaarmaking inspectiegegevens
 
 #### [Arbeidstijdenbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0007687)
 
@@ -184,16 +184,80 @@ Wijzigt het Arbeidsomstandighedenbesluit.
 
 Het [Besluit arbeidsbemiddeling](https://wetten.overheid.nl/jci1.3:c:BWBR0009724) wordt ingetrokken.
 
-#### Inwerkingtreding
+#### [Arbeidstijdenbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0007687)
 
 ##### Artikel 5:2
 
 Dit besluit treedt in werking met ingang van 1 juli 2015.
 
-#### Citeertitel
+#### [Arbeidsomstandighedenbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498)
 
 ##### Artikel 5:3
 
 Dit besluit wordt aangehaald als: Besluit allocatie arbeidskrachten door intermediairs.
+
+Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
+
+##### Artikel 3a:1. Plaats en duur openbaarmaking
+
+1. De gegevens, bedoeld in [artikel 15b van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0009616&artikel=15b), worden door de toezichthouder of de door Onze Minister aangewezen ambtenaren geplaatst op een website met informatie van de toezichthouder of de door Onze Minister aangewezen ambtenaren, bedoeld in artikel 15b, eerste lid, van de wet.
+
+2. De gegevens, bedoeld in [artikel 15b, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0009616&artikel=15b), blijven uiterlijk drie jaar na de datum van bekendmaking van het besluit, bedoeld in artikel 15b, eerste lid, dan wel na verzending van een brief met de mededeling dat er geen overtreding is geconstateerd, beschikbaar op de website.
+
+##### Artikel 3a:2. Inhoud openbare inspectiegegevens
+
+1. De gegevens, bedoeld in [artikel 15b van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0009616&artikel=15b), betreffen:
+
+- a. de punten waarop is gecontroleerd en de wet of wetten die de grondslag daarvoor bieden;
+
+- b. de locatie waar het onderzoek heeft plaatsgevonden; en
+
+- c. de datum of periode waarop het onderzoek heeft plaatsgevonden.
+
+2. Indien het onderzoek heeft plaatsgevonden bij een normadressaat die is ingeschreven in het handelsregister, bedoeld in [artikel 2 van de Handelsregisterwet 2007](https://wetten.overheid.nl/jci1.3:c:BWBR0021777&artikel=2), worden in aanvulling op het eerste lid met betrekking tot de normadressaat tevens openbaar gemaakt:
+
+- a. de naam en vestigingsplaats;
+
+- b. het nummer waaronder deze staat ingeschreven in het handelsregister; en
+
+- c. de sector of branche waarin deze normadressaat zijn economische activiteiten verricht.
+
+3. Indien na afronding van een onderzoek geen overtreding is geconstateerd die leidt tot de besluiten, genoemd in [artikel 3a:3](https://wetten.overheid.nl/jci1.3:c:BWBR0036578&hoofdstuk=3a&artikel=3a:3&z=2016-01-01&g=2016-01-01), wordt bij de gegevens, genoemd in het eerste lid, de opmerking geplaatst dat geen overtreding is geconstateerd.
+
+##### Artikel 3a:3. Openbare gegevens omtrent opgelegde boetes en stilleggingen
+
+1. In aanvulling op [artikel 3a:2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036578&hoofdstuk=3a&artikel=3a:2&z=2016-01-01&g=2016-01-01), worden indien een onderzoek door de toezichthouder of de door Onze Minister aangewezen ambtenaren, bedoeld in [artikel 13, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0009616&artikel=13), wordt gevolgd door een besluit tot het opleggen van een bestuurlijke boete als bedoeld in [artikel 16 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0009616&artikel=16) of door een besluit tot bevel tot staken van de werkzaamheden als bedoeld in [artikel 22, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0009616&artikel=22), de volgende gegevens met betrekking tot dat besluit openbaar gemaakt:
+
+- a. welk besluit is genomen, de artikelen van de wet die de grondslag daarvoor bieden en de datum van dat besluit; en
+
+- b. welke rechtsmiddelen tegen het besluit zijn of kunnen worden aangewend en wat hiervan de uitkomst was, of dat het besluit onherroepelijk is geworden.
+
+2. Indien het besluit geheel of gedeeltelijk bestaat uit een besluit tot bevel tot staken van de werkzaamheden, bedoeld in artikel 18i, eerste lid, van de wet, bevat de openbaarmaking tevens de periode waarin de werkzaamheden zijn gestaakt.
+
+##### Artikel 3a:4. Termijn waarbinnen openbaarmaking geschiedt
+
+1. De openbaarmaking van de gegevens, bedoeld in de [artikelen 3a:2](https://wetten.overheid.nl/jci1.3:c:BWBR0036578&hoofdstuk=3a&artikel=3a:2&z=2016-01-01&g=2016-01-01) en [3a:3](https://wetten.overheid.nl/jci1.3:c:BWBR0036578&hoofdstuk=3a&artikel=3a:3&z=2016-01-01&g=2016-01-01), geschiedt niet eerder dan tien werkdagen, doch uiterlijk dertig werkdagen na de datum waarop het besluit tot openbaarmaking van deze gegevens aan belanghebbende bekend is gemaakt.
+
+2. Indien wordt verzocht om een voorlopige voorziening als bedoeld in [artikel 15b, zevende lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0009616&artikel=15b), wordt de termijn van dertig werkdagen, bedoeld in het eerste lid, overeenkomstig opgeschort.
+
+##### Artikel 3a:5. Reactie van belanghebbende
+
+1. Op verzoek van de belanghebbende kan een schriftelijke reactie over de openbaarmaking van de gegevens, bedoeld in de [artikelen 3a:2](https://wetten.overheid.nl/jci1.3:c:BWBR0036578&hoofdstuk=3a&artikel=3a:2&z=2016-01-01&g=2016-01-01) en [3a:3](https://wetten.overheid.nl/jci1.3:c:BWBR0036578&hoofdstuk=3a&artikel=3a:3&z=2016-01-01&g=2016-01-01), van ten hoogste 2.000 leestekens worden gegeven, die zal worden gevoegd bij de openbaar te maken gegevens op de website met informatie van de toezichthouder of de door Onze Minister aangewezen ambtenaren.
+
+2. Onderdelen van de schriftelijke reactie die persoonsgegevens, bedrijfsnamen of bedrijfsgegevens van derden dan wel strafbare of aanstootgevende uitlatingen bevatten, worden niet op de website gepubliceerd.
+
+##### Artikel 3a:6. Rectificatie
+
+Indien in verband met een beslissing op bezwaar, beroep of hoger beroep wordt vastgesteld dat de gegevens, die op grond van [artikel 15b van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0009616&artikel=15b), en de [artikelen 3a:1](https://wetten.overheid.nl/jci1.3:c:BWBR0036578&hoofdstuk=3a&artikel=3a:1&z=2016-01-01&g=2016-01-01) en [3a:2](https://wetten.overheid.nl/jci1.3:c:BWBR0036578&hoofdstuk=3a&artikel=3a:2&z=2016-01-01&g=2016-01-01) openbaar zijn gemaakt, niet meer juist of volledig zijn, worden deze gegevens aangepast, binnen tien werkdagen na ontvangst van de desbetreffende beslissing door Onze Minister.
+
+### Hoofdstuk 4. Wijzigingen in andere besluiten
+
+### Hoofdstuk 5. Slotbepalingen
+
+#### Intrekking Besluit
+
+#### Inwerkingtreding
+
+#### Citeertitel
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
