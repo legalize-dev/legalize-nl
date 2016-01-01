@@ -4,7 +4,7 @@ identifier: "BWBR0036465"
 country: "nl"
 rank: "ministeriele_regeling_bes"
 publication_date: "2026-01-01"
-last_updated: "2015-04-01"
+last_updated: "2016-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0036465"
 soort: "ministeriele-regeling-BES"
@@ -38,9 +38,9 @@ entry_into_force: "2016-12-20"
 
 ##### Artikel 1. Bezoldigingschalen
 
-1. De bezoldigingschalen voor de ambtenaren in dienst van de staat zijn per 1 juli 2013 zoals in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0036465&bijlage=1&z=2015-04-01&g=2015-04-01) van deze regeling is vermeld.
+1. De bezoldigingschalen voor de ambtenaren in dienst van de staat zijn per 1 juli 2013 zoals in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0036465&bijlage=1&z=2015-04-01&g=2016-01-01) van deze regeling is vermeld.
 
-2. De bezoldigingschalen voor de ambtenaren in dienst van de staat zijn per 1 januari 2014 zoals in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0036465&bijlage=2&z=2015-04-01&g=2015-04-01) van deze regeling is vermeld.
+2. De bezoldigingschalen voor de ambtenaren in dienst van de staat zijn per 1 januari 2014 zoals in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0036465&bijlage=2&z=2015-04-01&g=2016-01-01) van deze regeling is vermeld.
 
 ##### Artikel 2. Garantietreden
 
@@ -56,31 +56,31 @@ entry_into_force: "2016-12-20"
 
 1. Dit artikel is uitsluitend van toepassing op ambtenaren in dienst van de staat die hun functie in 2013 naar het oordeel van het bevoegde gezag, dat is neergelegd in een formele beoordeling als bedoeld in [artikel 12, tweede lid, van het Rechtspositiebesluit ambtenaren BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028693&artikel=12) of [artikel 25 van het Besluit rechtspositie korps politie BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028767&artikel=25), naar behoren hebben vervuld.
 
-2. De inpastabel voor de ambtenaren in dienst van de staat met uitzondering van de ambtenaren, bedoeld in het derde tot en met vijfde lid, is zoals in [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0036465&bijlage=3&z=2015-04-01&g=2015-04-01) van deze regeling is vermeld.
+2. De inpastabel voor de ambtenaren in dienst van de staat met uitzondering van de ambtenaren, bedoeld in het derde tot en met vijfde lid, is zoals in [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0036465&bijlage=3&z=2015-04-01&g=2016-01-01) van deze regeling is vermeld.
 
-3. De inpastabel voor de ambtenaren in dienst van de staat die werkzaam zijn bij de Dienst Justitiële Inrichtingen BES is zoals in [bijlage 4](https://wetten.overheid.nl/jci1.3:c:BWBR0036465&bijlage=4&z=2015-04-01&g=2015-04-01) van deze regeling is vermeld.
+3. De inpastabel voor de ambtenaren in dienst van de staat die werkzaam zijn bij de Dienst Justitiële Inrichtingen BES is zoals in [bijlage 4](https://wetten.overheid.nl/jci1.3:c:BWBR0036465&bijlage=4&z=2015-04-01&g=2016-01-01) van deze regeling is vermeld.
 
-4. De inpastabel voor de ambtenaren in dienst van de staat die werkzaam zijn bij de Douane BES is zoals in [bijlage 5](https://wetten.overheid.nl/jci1.3:c:BWBR0036465&bijlage=5&z=2015-04-01&g=2015-04-01) van deze regeling is vermeld.
+4. De inpastabel voor de ambtenaren in dienst van de staat die werkzaam zijn bij de Douane BES is zoals in [bijlage 5](https://wetten.overheid.nl/jci1.3:c:BWBR0036465&bijlage=5&z=2015-04-01&g=2016-01-01) van deze regeling is vermeld.
 
-5. De inpastabel voor de ambtenaren in dienst van de staat en aangesteld voor de uitvoering van de politietaak en voor de aspirant alsmede voor de ambtenaren in dienst van de staat die werkzaam zijn voor de Koninklijke Marechaussee is zoals in [bijlage 6](https://wetten.overheid.nl/jci1.3:c:BWBR0036465&bijlage=6&z=2015-04-01&g=2015-04-01) van deze regeling is vermeld.
+5. De inpastabel voor de ambtenaren in dienst van de staat en aangesteld voor de uitvoering van de politietaak en voor de aspirant alsmede voor de ambtenaren in dienst van de staat die werkzaam zijn voor de Koninklijke Marechaussee is zoals in [bijlage 6](https://wetten.overheid.nl/jci1.3:c:BWBR0036465&bijlage=6&z=2015-04-01&g=2016-01-01) van deze regeling is vermeld.
 
 ##### Artikel 4. Inpastabellen geen goede beoordeling 2013
 
 1. Dit artikel is uitsluitend van toepassing op ambtenaren in dienst van de staat ten aanzien van wie niet in een formele beoordeling als bedoeld in [artikel 12, tweede lid, van het Rechtspositiebesluit ambtenaren BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028693&artikel=12) of [artikel 25 van het Besluit rechtspositie korps politie BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028767&artikel=25) is neergelegd dat zij hun functie in 2013 naar behoren hebben vervuld.
 
-2. De inpastabel voor de ambtenaren in dienst van de staat met uitzondering van de ambtenaren, bedoeld in het derde tot en met vijfde lid, is zoals in [bijlage 7](https://wetten.overheid.nl/jci1.3:c:BWBR0036465&bijlage=7&z=2015-04-01&g=2015-04-01) van deze regeling is vermeld.
+2. De inpastabel voor de ambtenaren in dienst van de staat met uitzondering van de ambtenaren, bedoeld in het derde tot en met vijfde lid, is zoals in [bijlage 7](https://wetten.overheid.nl/jci1.3:c:BWBR0036465&bijlage=7&z=2015-04-01&g=2016-01-01) van deze regeling is vermeld.
 
-3. De inpastabel voor de ambtenaren in dienst van de staat die werkzaam zijn bij de Dienst Justitiële Inrichtingen BES is zoals in [bijlage 8](https://wetten.overheid.nl/jci1.3:c:BWBR0036465&bijlage=8&z=2015-04-01&g=2015-04-01) van deze regeling is vermeld.
+3. De inpastabel voor de ambtenaren in dienst van de staat die werkzaam zijn bij de Dienst Justitiële Inrichtingen BES is zoals in [bijlage 8](https://wetten.overheid.nl/jci1.3:c:BWBR0036465&bijlage=8&z=2015-04-01&g=2016-01-01) van deze regeling is vermeld.
 
-4. De inpastabel voor de ambtenaren in dienst van de staat die werkzaam zijn bij de Douane BES is zoals in [bijlage 9](https://wetten.overheid.nl/jci1.3:c:BWBR0036465&bijlage=9&z=2015-04-01&g=2015-04-01) van deze regeling is vermeld.
+4. De inpastabel voor de ambtenaren in dienst van de staat die werkzaam zijn bij de Douane BES is zoals in [bijlage 9](https://wetten.overheid.nl/jci1.3:c:BWBR0036465&bijlage=9&z=2015-04-01&g=2016-01-01) van deze regeling is vermeld.
 
-5. De inpastabel voor de ambtenaren in dienst van de staat en aangesteld voor de uitvoering van de politietaak en voor de aspirant alsmede voor de ambtenaren in dienst van de staat die werkzaam zijn voor de Koninklijke Marechaussee is zoals in [bijlage 10](https://wetten.overheid.nl/jci1.3:c:BWBR0036465&bijlage=10&z=2015-04-01&g=2015-04-01) van deze regeling is vermeld.
+5. De inpastabel voor de ambtenaren in dienst van de staat en aangesteld voor de uitvoering van de politietaak en voor de aspirant alsmede voor de ambtenaren in dienst van de staat die werkzaam zijn voor de Koninklijke Marechaussee is zoals in [bijlage 10](https://wetten.overheid.nl/jci1.3:c:BWBR0036465&bijlage=10&z=2015-04-01&g=2016-01-01) van deze regeling is vermeld.
 
 ##### Artikel 5. Bezoldiging geestelijke
 
-1. In afwijking van [artikel 1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036465&artikel=1&z=2015-04-01&g=2015-04-01), zijn de bezoldigingschalen voor de ambtenaren in dienst van de staat en werkzaam als geestelijke per 1 juli 2013 zoals in [bijlage 11](https://wetten.overheid.nl/jci1.3:c:BWBR0036465&bijlage=11&z=2015-04-01&g=2015-04-01) van deze regeling is vermeld.
+1. In afwijking van [artikel 1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036465&artikel=1&z=2015-04-01&g=2016-01-01), zijn de bezoldigingschalen voor de ambtenaren in dienst van de staat en werkzaam als geestelijke per 1 juli 2013 zoals in [bijlage 11](https://wetten.overheid.nl/jci1.3:c:BWBR0036465&bijlage=11&z=2015-04-01&g=2016-01-01) van deze regeling is vermeld.
 
-2. In afwijking van [artikel 1, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036465&artikel=1&z=2015-04-01&g=2015-04-01), zijn de bezoldigingschalen voor de ambtenaren in dienst van de staat en werkzaam als geestelijke per 1 januari 2014 zoals in [bijlage 12](https://wetten.overheid.nl/jci1.3:c:BWBR0036465&bijlage=12&z=2015-04-01&g=2015-04-01) van deze regeling is vermeld.
+2. In afwijking van [artikel 1, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036465&artikel=1&z=2015-04-01&g=2016-01-01), zijn de bezoldigingschalen voor de ambtenaren in dienst van de staat en werkzaam als geestelijke per 1 januari 2014 zoals in [bijlage 12](https://wetten.overheid.nl/jci1.3:c:BWBR0036465&bijlage=12&z=2015-04-01&g=2016-01-01) van deze regeling is vermeld.
 
 ##### Artikel 6. Extra toelage IBTers etc
 
@@ -118,11 +118,11 @@ De vergoeding, bedoeld in [artikel 23b van het Besluit rechtspositie korps polit
 
 1. Deze regeling treedt in werking met ingang van 1 april 2015.
 
-2. De [artikelen 1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036465&artikel=1&z=2015-04-01&g=2015-04-01), [2](https://wetten.overheid.nl/jci1.3:c:BWBR0036465&artikel=2&z=2015-04-01&g=2015-04-01), [3](https://wetten.overheid.nl/jci1.3:c:BWBR0036465&artikel=3&z=2015-04-01&g=2015-04-01), [4](https://wetten.overheid.nl/jci1.3:c:BWBR0036465&artikel=4&z=2015-04-01&g=2015-04-01), [5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036465&artikel=5&z=2015-04-01&g=2015-04-01), en [10](https://wetten.overheid.nl/jci1.3:c:BWBR0036465&artikel=10&z=2015-04-01&g=2015-04-01) werken terug tot en met 1 juli 2013.
+2. De [artikelen 1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036465&artikel=1&z=2015-04-01&g=2016-01-01), [2](https://wetten.overheid.nl/jci1.3:c:BWBR0036465&artikel=2&z=2015-04-01&g=2016-01-01), [3](https://wetten.overheid.nl/jci1.3:c:BWBR0036465&artikel=3&z=2015-04-01&g=2016-01-01), [4](https://wetten.overheid.nl/jci1.3:c:BWBR0036465&artikel=4&z=2015-04-01&g=2016-01-01), [5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036465&artikel=5&z=2015-04-01&g=2016-01-01), en [10](https://wetten.overheid.nl/jci1.3:c:BWBR0036465&artikel=10&z=2015-04-01&g=2016-01-01) werken terug tot en met 1 juli 2013.
 
-3. De [artikelen 1, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036465&artikel=1&z=2015-04-01&g=2015-04-01), en [5, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036465&artikel=5&z=2015-04-01&g=2015-04-01), werken terug tot en met 1 januari 2014.
+3. De [artikelen 1, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036465&artikel=1&z=2015-04-01&g=2016-01-01), en [5, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036465&artikel=5&z=2015-04-01&g=2016-01-01), werken terug tot en met 1 januari 2014.
 
-4. [Artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0036465&artikel=6&z=2015-04-01&g=2015-04-01) werkt terug tot en met 1 januari 2015.
+4. [Artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0036465&artikel=6&z=2015-04-01&g=2016-01-01) werkt terug tot en met 1 januari 2015.
 
 ##### Artikel 13
 
@@ -136,7 +136,7 @@ Deze regeling wordt aangehaald als: Regeling bezoldiging Rijksambtenaren BES 201
 
 ## Bijlage 2. , behorend bij [artikel 1, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036465&artikel=1&z=2015-04-01&g=2015-01-01), van de Regeling bezoldiging Rijksambtenaren BES 2013–2015
 
-## Bijlage 2. , behorend bij [artikel 1, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036465&artikel=1&z=2015-04-01&g=2015-04-01), van de Regeling bezoldiging Rijksambtenaren BES 2013–2015
+## Bijlage 2. , behorend bij [artikel 1, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036465&artikel=1&z=2015-04-01&g=2016-01-01), van de Regeling bezoldiging Rijksambtenaren BES 2013–2015
 
 ### Bezoldigingschalen Rijksambtenaren BES per 1 januari 2014
 
@@ -166,11 +166,11 @@ Deze regeling wordt aangehaald als: Regeling bezoldiging Rijksambtenaren BES 201
 
 ## Bijlage 9. , behorend bij [artikel 4, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036465&artikel=4&z=2015-04-01&g=2015-01-01), van de Regeling bezoldiging Rijksambtenaren BES 2013–2015
 
-## Bijlage 9. , behorend bij [artikel 4, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036465&artikel=4&z=2015-04-01&g=2015-04-01), van de Regeling bezoldiging Rijksambtenaren BES 2013–2015
+## Bijlage 9. , behorend bij [artikel 4, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036465&artikel=4&z=2015-04-01&g=2016-01-01), van de Regeling bezoldiging Rijksambtenaren BES 2013–2015
 
 ### Inpastabel Rijksambtenaren Douane BES zonder goede beoordeling 2013
 
-## Bijlage 10. , behorend bij [artikel 4, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036465&artikel=4&z=2015-04-01&g=2015-04-01), van de Regeling bezoldiging Rijksambtenaren BES 2013–2015
+## Bijlage 10. , behorend bij [artikel 4, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036465&artikel=4&z=2015-04-01&g=2016-01-01), van de Regeling bezoldiging Rijksambtenaren BES 2013–2015
 
 **Inpastabel Rijksambtenaren politie en KMAR BES zonder goede beoordeling 2013**
 
@@ -306,7 +306,7 @@ Gelet op de [artikelen 1, onder d](https://wetten.overheid.nl/jci1.3:c:BWBR00284
 
 Besluit:
 
-## Bijlage 1. , behorend bij [artikel 1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036465&artikel=1&z=2015-04-01&g=2015-04-01), van de Regeling bezoldiging Rijksambtenaren BES 2013–2015
+## Bijlage 1. , behorend bij [artikel 1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036465&artikel=1&z=2015-04-01&g=2016-01-01), van de Regeling bezoldiging Rijksambtenaren BES 2013–2015
 
 ### Bezoldigingschalen Rijksambtenaren BES per 1 juli 2013
 
@@ -314,36 +314,106 @@ Besluit:
 
 * de garantietreden GRT16, GRT17 en GRT 18 zijn alleen van toepassing voor ambtenaren van wie de bezoldiging tot 1 juli 2013 was vastgesteld op een bezoldigingstrede, als bedoeld in [artikel 1, onder f, van het Bezoldigingsbesluit 1998 BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028491&artikel=1), zoals dat tot die datum luidde, die voorzien was van de aanduiding ‘G.T.’, en voor de ambtenaren die tot 1 juli 2013 uitzicht hadden op een dergelijke bezoldigingstrede.
 
-## Bijlage 3. , behorend bij [artikel 3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036465&artikel=3&z=2015-04-01&g=2015-04-01), van de Regeling bezoldiging Rijksambtenaren BES 2013–2015
+## Bijlage 3. , behorend bij [artikel 3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036465&artikel=3&z=2015-04-01&g=2016-01-01), van de Regeling bezoldiging Rijksambtenaren BES 2013–2015
 
 ### Inpastabel Rijksambtenaren BES met goede beoordeling 2013
 
-## Bijlage 4. , behorend bij [artikel 3, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036465&artikel=3&z=2015-04-01&g=2015-04-01), van de Regeling bezoldiging Rijksambtenaren BES 2013–2015
+## Bijlage 4. , behorend bij [artikel 3, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036465&artikel=3&z=2015-04-01&g=2016-01-01), van de Regeling bezoldiging Rijksambtenaren BES 2013–2015
 
 ### Inpastabel Rijksambtenaren Dienst Justitiële Inrichtingen BES met goede beoordeling 2013
 
-## Bijlage 5. , behorend bij [artikel 3, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036465&artikel=3&z=2015-04-01&g=2015-04-01), van de Regeling bezoldiging Rijksambtenaren BES 2013–2015
+## Bijlage 5. , behorend bij [artikel 3, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036465&artikel=3&z=2015-04-01&g=2016-01-01), van de Regeling bezoldiging Rijksambtenaren BES 2013–2015
 
 ### Inpastabel Rijksambtenaren Douane BES met goede beoordeling 2013
 
-## Bijlage 6. , behorend bij [artikel 3, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036465&artikel=3&z=2015-04-01&g=2015-04-01), van de Regeling bezoldiging Rijksambtenaren BES 2013–2015
+## Bijlage 6. , behorend bij [artikel 3, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036465&artikel=3&z=2015-04-01&g=2016-01-01), van de Regeling bezoldiging Rijksambtenaren BES 2013–2015
 
 ### Inpastabel Rijksambtenaren politie en KMAR BES met goede beoordeling 2013
 
-## Bijlage 7. , behorend bij [artikel 4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036465&artikel=4&z=2015-04-01&g=2015-04-01), van de Regeling bezoldiging Rijksambtenaren BES
+## Bijlage 7. , behorend bij [artikel 4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036465&artikel=4&z=2015-04-01&g=2016-01-01), van de Regeling bezoldiging Rijksambtenaren BES
 
 ### Inpastabel Rijkambtenaren BES zonder goede beoordeling 2013–2015
 
-## Bijlage 8. , behorend bij [artikel 4, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036465&artikel=4&z=2015-04-01&g=2015-04-01), van de Regeling bezoldiging Rijksambtenaren BES 2013–2015
+## Bijlage 8. , behorend bij [artikel 4, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036465&artikel=4&z=2015-04-01&g=2016-01-01), van de Regeling bezoldiging Rijksambtenaren BES 2013–2015
 
 ### Inpastabel Rijksambtenaren Dienst Justitiële Inrichtingen BES zonder goede beoordeling 2013
 
-## Bijlage 11. , behorend bij [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036465&artikel=5&z=2015-04-01&g=2015-04-01), van de Regeling bezoldiging Rijksambtenaren BES 2013–2015
+## Bijlage 11. , behorend bij [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036465&artikel=5&z=2015-04-01&g=2016-01-01), van de Regeling bezoldiging Rijksambtenaren BES 2013–2015
 
 ### Bezoldiging Geestelijken BES per 1 januari 2013
 
-## Bijlage 12. , behorend bij [artikel 5, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036465&artikel=5&z=2015-04-01&g=2015-04-01), van de Regeling bezoldiging Rijksambtenaren BES
+## Bijlage 12. , behorend bij [artikel 5, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036465&artikel=5&z=2015-04-01&g=2016-01-01), van de Regeling bezoldiging Rijksambtenaren BES
 
 ### Bezoldiging Geestelijken BES per 1 januari 2014
+
+Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
+
+## Bijlage 13. , behorend bij [artikel 1, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036465&artikel=1&z=2016-12-31&g=2016-01-01), van de Regeling bezoldiging Rijksambtenaren BES
+
+| Schalen | Schalen | Schalen | Schalen | Schalen | Schalen | Schalen | Schalen | Schalen | Schalen | Schalen | Schalen | Schalen | Schalen | Schalen | Schalen | Schalen | Schalen | Schalen |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+|   | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 12 | 13 | 14 | 15 | 16 | 17 |   |
+| Nr |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   | **N**r |
+| **1** | 891 | 978 | 1100 | 1240 | 1404 | 1601 | 1827 | 2094 | 2403 | 2765 | 3197 | 3692 | 4260 | 4906 | 5642 | 6280 | 6877 | **1** |
+| **2** | 909 | 999 | 1128 | 1277 | 1447 | 1650 | 1881 | 2152 | 2465 | 2828 | 3265 | 3765 | 4336 | 4989 | 5730 | 6375 | 6980 | **2** |
+| **3** | 924 | 1019 | 1156 | 1313 | 1491 | 1700 | 1935 | 2211 | 2527 | 2892 | 3335 | 3838 | 4414 | 5071 | 5819 | 6471 | 7085 | **3** |
+| **4** | 941 | 1041 | 1185 | 1349 | 1533 | 1748 | 1989 | 2269 | 2589 | 2957 | 3402 | 3910 | 4490 | 5153 | 5908 | 6567 | 7190 | **4** |
+| **5** | 957 | 1061 | 1214 | 1385 | 1576 | 1798 | 2043 | 2328 | 2651 | 3020 | 3471 | 3985 | 4569 | 5236 | 5996 | 6665 | 7296 | **5** |
+| **6** | 974 | 1083 | 1242 | 1421 | 1619 | 1847 | 2099 | 2387 | 2714 | 3084 | 3540 | 4057 | 4645 | 5318 | 6085 | 6760 | 7401 | **6** |
+| **7** | 990 | 1104 | 1272 | 1457 | 1663 | 1898 | 2152 | 2445 | 2774 | 3148 | 3609 | 4130 | 4722 | 5402 | 6173 | 6857 | 7508 | **7** |
+| **8** | 1007 | 1124 | 1300 | 1494 | 1705 | 1946 | 2207 | 2503 | 2836 | 3212 | 3676 | 4203 | 4800 | 5483 | 6263 | 6953 | 7613 | **8** |
+| **9** | 1023 | 1145 | 1329 | 1530 | 1748 | 1996 | 2260 | 2562 | 2897 | 3276 | 3746 | 4275 | 4877 | 5566 | 6350 | 7050 | 7719 | **9** |
+| **10** | 1041 | 1165 | 1358 | 1565 | 1791 | 2044 | 2316 | 2621 | 2960 | 3341 | 3814 | 4348 | 4954 | 5648 | 6440 | 7146 | 7825 | **10** |
+| **11** | 1057 | 1186 | 1386 | 1602 | 1833 | 2094 | 2369 | 2678 | 3020 | 3405 | 3883 | 4421 | 5031 | 5730 | 6528 | 7241 | 7931 | **11** |
+| **12** | 1074 | 1207 | 1415 | 1637 | 1877 | 2144 | 2423 | 2738 | 3082 | 3469 | 3952 | 4494 | 5108 | 5813 | 6616 | 7339 | 8037 | **12** |
+| **13** | 1089 | 1227 | 1444 | 1674 | 1920 | 2193 | 2478 | 2796 | 3145 | 3532 | 4020 | 4568 | 5187 | 5895 | 6706 | 7435 | 8144 | **13** |
+| **14** | 1107 | 1249 | 1472 | 1710 | 1963 | 2242 | 2532 | 2855 | 3206 | 3596 | 4088 | 4640 | 5263 | 5977 | 6793 | 7532 | 8249 | **14** |
+| **15** | 1123 | 1267 | 1503 | 1746 | 2005 | 2292 | 2586 | 2913 | 3268 | 3660 | 4157 | 4713 | 5340 | 6060 | 6883 | 7628 | 8355 | **15** |
+
+| Garantie Politie Treden | Garantie Politie Treden | Garantie Politie Treden | Garantie Politie Treden | Garantie Politie Treden | Garantie Politie Treden | Garantie Politie Treden | Garantie Politie Treden | Garantie Politie Treden | Garantie Politie Treden | Garantie Politie Treden | Garantie Politie Treden | Garantie Politie Treden | Garantie Politie Treden | Garantie Politie Treden | Garantie Politie Treden | Garantie Politie Treden | Garantie Politie Treden | Garantie Politie Treden |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Schalen | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 12 | 13 | 14 | 15 | 16 | 17 |   |
+| Garantietreden | Garantietreden |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   | Garantietreden |
+| **GPT16** |   |   |   | 1798 | 2067 | 2366 | 2655 | 3002 | 3362 | 3766 | 4277 | 4814 | 5451 |   |   |   |   | **GPT16** |
+| **GPT17** |   |   |   | 1849 | 2109 | 2418 | 2725 | 3090 | 3456 | 3871 | 4399 | 4918 | 5561 |   |   |   |   | **GPT17** |
+| **Gpt18** |   |   |   | 1902 | 2160 | 2481 | 2794 | 3180 | 3551 | 3977 |   |   | 5677 |   |   |   |   | **Gpt18** |
+| **GPT19** |   |   |   | 1953 | 2212 | 2545 | 2863 | 3269 | 3645 | 4082 |   |   |   |   |   |   |   | **GPT19** |
+| **GPT20** |   |   |   | 2006 | 2263 | 2607 | 2933 | 3358 | 3739 | 4190 |   |   |   |   |   |   |   | **GPT20** |
+| **GPT21** |   |   |   |   | 2316 | 2670 | 3005 | 3447 | 3833 |   |   |   |   |   |   |   |   | **GPT21** |
+| **GPT22** |   |   |   |   | 2367 | 2734 | 3071 | 3536 | 3927 |   |   |   |   |   |   |   |   | **GPT22** |
+| **GPT23** |   |   |   |   | 2419 | 2797 | 3141 | 3625 |   |   |   |   |   |   |   |   |   | **GPT23** |
+| **GPT24** |   |   |   |   | 2470 | 2863 | 3210 | 3714 |   |   |   |   |   |   |   |   |   | **GPT24** |
+| **GPT25** |   |   |   |   | 2523 |   | 3279 |   |   |   |   |   |   |   |   |   |   | **GPT25** |
+| **GPT26** |   |   |   |   | 2574 |   |   |   |   |   |   |   |   |   |   |   |   | **GPT26** |
+| **GPT27** |   |   |   |   | 2626 |   |   |   |   |   |   |   |   |   |   |   |   | **GPT27** |
+
+| Garantie Justitiele Instellingen Treden | Garantie Justitiele Instellingen Treden | Garantie Justitiele Instellingen Treden | Garantie Justitiele Instellingen Treden | Garantie Justitiele Instellingen Treden | Garantie Justitiele Instellingen Treden | Garantie Justitiele Instellingen Treden | Garantie Justitiele Instellingen Treden | Garantie Justitiele Instellingen Treden | Garantie Justitiele Instellingen Treden | Garantie Justitiele Instellingen Treden | Garantie Justitiele Instellingen Treden | Garantie Justitiele Instellingen Treden | Garantie Justitiele Instellingen Treden | Garantie Justitiele Instellingen Treden | Garantie Justitiele Instellingen Treden | Garantie Justitiele Instellingen Treden | Garantie Justitiele Instellingen Treden | Garantie Justitiele Instellingen Treden |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Schalen | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 12 | 13 | 14 | 15 | 16 | 17 |   |
+| Garantietreden | Garantietreden |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   | Garantietreden |
+| **GJT16** |   |   | 1550 | 1798 | 2067 | 2366 | 2655 | 3002 | 3362 | 3766 | 4277 |   |   |   |   |   |   | **GJT16** |
+| **GJT17** |   |   | 1596 | 1849 | 2109 | 2418 | 2725 | 3090 | 3456 | 3871 | 4399 |   |   |   |   |   |   | **GJT17** |
+| **GJT18** |   |   | 1642 | 1902 | 2160 | 2481 | 2794 | 3180 | 3551 | 3977 | 4519 |   |   |   |   |   |   | **GJT18** |
+| **GJT19** |   |   | 1690 | 1953 | 2212 | 2545 | 2863 | 3269 | 3645 | 4082 | 4641 |   |   |   |   |   |   | **GJT19** |
+| **GJT20** |   |   |   | 2006 | 2263 | 2607 | 2933 | 3358 | 3739 | 4190 | 4761 |   |   |   |   |   |   | **GJT20** |
+| **GJT21** |   |   |   |   | 2316 | 2670 | 3005 | 3447 | 3833 | 4294 | 4887 |   |   |   |   |   |   | **GJT21** |
+| **GJT22** |   |   |   |   | 2367 | 2734 |   | 3536 |   | 4400 |   |   |   |   |   |   |   | **GJT22** |
+
+| Garantie Douane Treden | Garantie Douane Treden | Garantie Douane Treden | Garantie Douane Treden | Garantie Douane Treden | Garantie Douane Treden | Garantie Douane Treden | Garantie Douane Treden | Garantie Douane Treden | Garantie Douane Treden | Garantie Douane Treden | Garantie Douane Treden | Garantie Douane Treden | Garantie Douane Treden | Garantie Douane Treden | Garantie Douane Treden | Garantie Douane Treden | Garantie Douane Treden | Garantie Douane Treden |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Schalen | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 12 | 13 | 14 | 15 | 16 | 17 |   |
+| Garantietreden | Garantietreden |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   | Garantietreden |
+| **GDT16** |   |   |   |   |   |   | 2655 |   | 3362 | 3766 | 4277 |   |   |   |   |   |   | **GDT16** |
+| **GDT17** |   |   |   |   |   |   | 2725 |   | 3456 |   |   |   |   |   |   |   |   | **GDT17** |
+
+| Garantie RCN Treden voor GT gerechtigden uit overgangsrecht 1998 | Garantie RCN Treden voor GT gerechtigden uit overgangsrecht 1998 | Garantie RCN Treden voor GT gerechtigden uit overgangsrecht 1998 | Garantie RCN Treden voor GT gerechtigden uit overgangsrecht 1998 | Garantie RCN Treden voor GT gerechtigden uit overgangsrecht 1998 | Garantie RCN Treden voor GT gerechtigden uit overgangsrecht 1998 | Garantie RCN Treden voor GT gerechtigden uit overgangsrecht 1998 | Garantie RCN Treden voor GT gerechtigden uit overgangsrecht 1998 | Garantie RCN Treden voor GT gerechtigden uit overgangsrecht 1998 | Garantie RCN Treden voor GT gerechtigden uit overgangsrecht 1998 | Garantie RCN Treden voor GT gerechtigden uit overgangsrecht 1998 | Garantie RCN Treden voor GT gerechtigden uit overgangsrecht 1998 | Garantie RCN Treden voor GT gerechtigden uit overgangsrecht 1998 | Garantie RCN Treden voor GT gerechtigden uit overgangsrecht 1998 | Garantie RCN Treden voor GT gerechtigden uit overgangsrecht 1998 | Garantie RCN Treden voor GT gerechtigden uit overgangsrecht 1998 | Garantie RCN Treden voor GT gerechtigden uit overgangsrecht 1998 | Garantie RCN Treden voor GT gerechtigden uit overgangsrecht 1998 | Garantie RCN Treden voor GT gerechtigden uit overgangsrecht 1998 |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Schalen | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 12 | 13 | 14 | 15 | 16 | 17 |   |
+| Garantietreden | Garantietreden |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   | Garantietreden |
+| **GRT16** | 1169 | 1310 | 1552 | 1798 | 2067 | 2366 | 2655 | 3002 |   |   |   |   |   |   |   |   |   | **GRT16** |
+| **GRT17** |   | 1352 |   |   |   |   | 2725 |   |   |   |   |   |   |   |   |   |   | **GRT17** |
+| **GRT18** |   | 1395 |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   | **GRT18** |
+
+* de garantietreden GRT16, GRT17 en GRT 18 zijn alleen van toepassing voor ambtenaren van wie de bezoldiging tot 1 juli 2013 was vastgesteld op een bezoldigingstrede, als bedoeld in [artikel 1, onder f, van het Bezoldigingsbesluit 1998 BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028491&artikel=1), zoals dat tot die datum luidde, die voorzien was van de aanduiding ‘G.T.’, en voor de ambtenaren die tot 1 juli 2013 uitzicht hadden op een dergelijke bezoldigingstrede.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
