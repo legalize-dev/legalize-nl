@@ -4,7 +4,7 @@ identifier: "BWBR0006463"
 country: "nl"
 rank: "wet"
 publication_date: "2025-02-12"
-last_updated: "2013-01-01"
+last_updated: "2016-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0006463"
 soort: "wet"
@@ -49,15 +49,15 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
-- **bestuur:** bestuur als bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0006463&hoofdstuk=2&paragraaf=1&artikel=3&z=2013-01-01&g=2013-01-01);
+- **bestuur:** bestuur als bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0006463&hoofdstuk=2&paragraaf=1&artikel=3&z=2016-01-01&g=2016-01-01);
 
-- **Dienst:** Dienst voor het kadaster en de openbare registers als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0006463&hoofdstuk=1&artikel=2&z=2013-01-01&g=2013-01-01);
+- **Dienst:** Dienst voor het kadaster en de openbare registers als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0006463&hoofdstuk=1&artikel=2&z=2016-01-01&g=2016-01-01);
 
-- **kamer:** rechtszekerheidskamer of geoinformatiekamer als bedoeld in [artikel 16, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006463&hoofdstuk=3&artikel=16&z=2013-01-01&g=2013-01-01);
+- **kamer:** rechtszekerheidskamer of geoinformatiekamer als bedoeld in [artikel 16, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006463&hoofdstuk=3&artikel=16&z=2016-01-01&g=2016-01-01);
 
 - **Onze Minister:** Onze Minister van Infrastructuur en Milieu;
 
-- **raad van toezicht:** raad van toezicht als bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0006463&hoofdstuk=2&paragraaf=1&artikel=3&z=2013-01-01&g=2013-01-01).
+- **raad van toezicht:** raad van toezicht als bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0006463&hoofdstuk=2&paragraaf=1&artikel=3&z=2016-01-01&g=2016-01-01).
 
 ##### Artikel 2
 
@@ -93,7 +93,7 @@ Vervallen
 
 ##### Artikel 7
 
-Het bestuur is belast met het besturen van de Dienst.
+Het bestuur is belast met het besturen van de Dienst. De voorzitter en overige leden van het bestuur worden benoemd voor een tijdvak van ten hoogste vijf jaren en zijn terstond herbenoembaar.
 
 ##### Artikel 8
 
@@ -141,11 +141,11 @@ Het bestuur stelt een bestuursreglement vast.
 
 2. Het bestuur heeft in ieder geval de voorafgaande instemming nodig van de raad van toezicht met betrekking tot:
 
-- a. de reglementen, bedoeld in de [artikelen 16](https://wetten.overheid.nl/jci1.3:c:BWBR0006463&hoofdstuk=3&artikel=16&z=2013-01-01&g=2013-01-01) en [17](https://wetten.overheid.nl/jci1.3:c:BWBR0006463&hoofdstuk=4&paragraaf=1&artikel=17&z=2013-01-01&g=2013-01-01);
+- a. de reglementen, bedoeld in de [artikelen 9](https://wetten.overheid.nl/jci1.3:c:BWBR0006463&hoofdstuk=2&paragraaf=2&artikel=9&z=2016-01-01&g=2016-01-01), [16](https://wetten.overheid.nl/jci1.3:c:BWBR0006463&hoofdstuk=3&artikel=16&z=2016-01-01&g=2016-01-01) en [17](https://wetten.overheid.nl/jci1.3:c:BWBR0006463&hoofdstuk=4&paragraaf=1&artikel=17&z=2016-01-01&g=2016-01-01);
 
 - b. belangrijke reorganisaties.
 
-3. Het bestuur heeft de voorafgaande instemming nodig van Onze Minister voor het verrichten van werkzaamheden als bedoeld in [artikel 2, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006463&hoofdstuk=1&artikel=2&z=2013-01-01&g=2013-01-01). Het bestuur legt die beslissing voor aan Onze Minister nadat de raad van toezicht heeft verklaard tegen die beslissing geen bedenkingen te hebben.
+3. Het bestuur heeft de voorafgaande instemming nodig van Onze Minister voor het verrichten van werkzaamheden als bedoeld in [artikel 2, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006463&hoofdstuk=1&artikel=2&z=2016-01-01&g=2016-01-01). Het bestuur legt die beslissing voor aan Onze Minister nadat de raad van toezicht heeft verklaard tegen die beslissing geen bedenkingen te hebben.
 
 ##### Artikel 14
 
@@ -401,11 +401,11 @@ Lasten en bevelen dat deze in het **Staatsblad** zal worden geplaatst en dat all
 
 ##### Artikel 16a
 
-1. Het bestuur voert met de gebruikersraad of, indien het bestuur gebruik heeft gemaakt van de mogelijkheid, bedoeld in [artikel 16, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006463&hoofdstuk=3&artikel=16&z=2013-01-01&g=2013-01-01), met de kamers overleg over de kwaliteit en de doelmatigheid van de dienstverlening door de Dienst, over de tarieven die daarvoor in rekening worden gebracht, over het meerjarenbeleidsplan en over andere zaken van gemeenschappelijk belang.
+1. Het bestuur voert met de gebruikersraad of, indien het bestuur gebruik heeft gemaakt van de mogelijkheid, bedoeld in [artikel 16, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006463&hoofdstuk=3&artikel=16&z=2016-01-01&g=2016-01-01), met de kamers overleg over de kwaliteit en de doelmatigheid van de dienstverlening door de Dienst, over de tarieven die daarvoor in rekening worden gebracht, over het meerjarenbeleidsplan en over andere zaken van gemeenschappelijk belang.
 
 2. De gebruikersraad of een kamer kan het bestuur op diens verzoek of uit eigen beweging in kennis stellen van de binnen de gebruikersraad of de kamer levende standpunten over een onderwerp als bedoeld in het eerste lid.
 
-3. Een commissie als bedoeld in [artikel 16, zesde lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0006463&hoofdstuk=3&artikel=16&z=2013-01-01&g=2013-01-01), kan het bestuur op diens verzoek of uit eigen beweging in kennis stellen van de binnen die commissie levende standpunten over een onderwerp, waarvoor zij is ingesteld.
+3. Een commissie als bedoeld in [artikel 16, zesde lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0006463&hoofdstuk=3&artikel=16&z=2016-01-01&g=2016-01-01), kan het bestuur op diens verzoek of uit eigen beweging in kennis stellen van de binnen die commissie levende standpunten over een onderwerp, waarvoor zij is ingesteld.
 
 4. Onder de dienstverlening, bedoeld in het eerste lid, wordt niet verstaan het beheer van een landelijke voorziening.
 
