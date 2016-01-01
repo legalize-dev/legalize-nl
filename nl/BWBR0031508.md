@@ -4,7 +4,7 @@ identifier: "BWBR0031508"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-01-01"
-last_updated: "2015-02-01"
+last_updated: "2016-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0031508"
 soort: "ministeriele-regeling"
@@ -60,11 +60,11 @@ Het percentage, bedoeld in de [artikelen 12, tweede lid, van de Algemene Kinderb
 
 - a. de ouder aanspraak heeft op kindgebonden budget voor meer dan een kind; en
 
-- b. voor een of meer van die kinderen voor de toepassing van de [Algemene Kinderbijslagwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002368) een ander land dan een van de in [artikel 1, onder a tot en met d](https://wetten.overheid.nl/jci1.3:c:BWBR0031508&artikel=1&z=2015-02-01&g=2015-02-01), bedoelde landen als woonland in aanmerking wordt genomen,
+- b. voor een of meer van die kinderen voor de toepassing van de [Algemene Kinderbijslagwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002368) een ander land dan een van de in [artikel 1, onder a tot en met d](https://wetten.overheid.nl/jci1.3:c:BWBR0031508&artikel=1&z=2016-01-01&g=2016-01-01), bedoelde landen als woonland in aanmerking wordt genomen,
 
-wordt voor de vaststelling van de hoogte van het kindgebonden budget het hoogste bedrag aan kindgebonden budget op grond van [artikel 2, tweede, vierde en vijfde lid, van de Wet op het kindgebonden budget](https://wetten.overheid.nl/jci1.3:c:BWBR0022751&artikel=2) en de verhoging, bedoeld in [artikel 2, zesde lid, van de Wet op het kindgebonden budget](https://wetten.overheid.nl/jci1.3:c:BWBR0022751&artikel=2) gekoppeld aan het kind dat woont in het land met het hoogste percentage, bedoeld in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0031508&artikel=1&z=2015-02-01&g=2015-02-01), en wordt vervolgens steeds het daarop volgende hoogste bedrag aan kindgebonden budget gekoppeld aan het kind dat woont in het land met het daarop volgende hoogste percentage. Bij een gelijk percentage wordt het hoogste bedrag aan kindgebonden budget gekoppeld aan het kind met de hoogste leeftijd.
+wordt voor de vaststelling van de hoogte van het kindgebonden budget het hoogste bedrag aan kindgebonden budget op grond van [artikel 2, tweede, vierde en vijfde lid, van de Wet op het kindgebonden budget](https://wetten.overheid.nl/jci1.3:c:BWBR0022751&artikel=2) en de verhoging, bedoeld in [artikel 2, zesde lid, van de Wet op het kindgebonden budget](https://wetten.overheid.nl/jci1.3:c:BWBR0022751&artikel=2) gekoppeld aan het kind dat woont in het land met het hoogste percentage, bedoeld in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0031508&artikel=1&z=2016-01-01&g=2016-01-01), en wordt vervolgens steeds het daarop volgende hoogste bedrag aan kindgebonden budget gekoppeld aan het kind dat woont in het land met het daarop volgende hoogste percentage. Bij een gelijk percentage wordt het hoogste bedrag aan kindgebonden budget gekoppeld aan het kind met de hoogste leeftijd.
 
-2. Voor de toepassing van het eerste lid hebben de landen, bedoeld in [artikel 1, onder a tot en met d](https://wetten.overheid.nl/jci1.3:c:BWBR0031508&artikel=1&z=2015-02-01&g=2015-02-01), een percentage van 100.
+2. Voor de toepassing van het eerste lid hebben de landen, bedoeld in [artikel 1, onder a tot en met d](https://wetten.overheid.nl/jci1.3:c:BWBR0031508&artikel=1&z=2016-01-01&g=2016-01-01), een percentage van 100.
 
 ##### Artikel 3. Inwerkingtreding
 
@@ -246,5 +246,211 @@ Deze regeling wordt aangehaald als: Regeling woonlandbeginsel in de sociale zeke
 1 Met betrekking tot Macedonië geldt in verband met het geldende bilaterale socialezekerheidsverdrag voor de wezenuitkering vooralsnog een woonlandfactor van 100%.
 
 2 Met betrekking tot Nieuw-Zeeland geldt in verband met het geldende bilaterale socialezekerheidsverdrag vooralsnog een woonlandfactor van 100%.
+
+Deze regeling zal met de toelichting en de bijlage in de Staatscourant worden geplaatst.
+
+##### Artikel 2a. Grondslag
+
+Deze regeling berust mede op [artikel 2, twaalfde lid, van de Wet op het kindgebonden budget](https://wetten.overheid.nl/jci1.3:c:BWBR0022751&artikel=2).
+
+## Bijlage. als bedoeld in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0031508&artikel=1&z=2016-01-01&g=2016-01-01) van de Regeling woonlandbeginsel in de sociale zekerheid 2012
+
+| **Land:** | **Woonlandfactor:** |
+| --- | --- |
+| Afghanistan | 40% |
+| Albanië | 50% |
+| Algerije | 40% |
+| Angola | 70% |
+| Antigua en Barbuda | 60% |
+| Argentinië | 60% |
+| Armenië | 50% |
+| Australië1 | 100% |
+| Azerbeidzjan | 50% |
+| Bahamas | 90% |
+| Bahrein | 60% |
+| Bangladesh | 30% |
+| Barbados | 90% |
+| Belarus | 40% |
+| Belize | 60% |
+| Benin | 50% |
+| Bhutan | 30% |
+| Boeroendi | 40% |
+| Bolivia | 50% |
+| Bosnië en Herzegovina2 | 50% |
+| Botswana | 50% |
+| Brazilië | 70% |
+| Brunei Darussalam | 50% |
+| Burkina Faso | 50% |
+| Cambodja | 40% |
+| Canada3 | 100% |
+| Centraal Afrikaanse Republiek | 60% |
+| Chili4 | 70% |
+| China | 60% |
+| Colombia | 60% |
+| Comoren | 60% |
+| Congo, Dem. Rep. | 60% |
+| Congo, Rep. | 50% |
+| Costa Rica | 70% |
+| Cuba | 30% |
+| Djibouti | 60% |
+| Dominica | 70% |
+| Dominicaanse Republiek | 50% |
+| Ecuador | 60% |
+| Egypte | 30% |
+| El Salvador | 50% |
+| Equatoriaal Guinea | 60% |
+| Eritrea | 50% |
+| Ethiopië | 40% |
+| Fiji | 60% |
+| Filippijnen | 40% |
+| Gabon | 60% |
+| Gambia | 30% |
+| Georgië | 50% |
+| Ghana | 50% |
+| Grenada | 70% |
+| Guatemala | 50% |
+| Guinea | 40% |
+| Guinea-Bissau | 40% |
+| Guyana | 60% |
+| Haïti | 50% |
+| Honduras | 50% |
+| Hong Kong SAR, China | 70% |
+| India5 | 30% |
+| Indonesië | 40% |
+| Irak | 50% |
+| Iran | 30% |
+| Israel6 | 100% |
+| Ivoorkust | 50% |
+| Jamaica | 60% |
+| Japan | 100% |
+| Jemen, Rep. | 40% |
+| Jordanië | 50% |
+| Kaapverdië | 60% |
+| Kameroen | 50% |
+| Katar | 70% |
+| Kazakstan | 60% |
+| Kenia | 50% |
+| Kirgizië | 40% |
+| Kiribati | 90% |
+| Koeweit | 60% |
+| Kosovo7 | 40% |
+| Laos | 40% |
+| Lesotho | 40% |
+| Libanon | 60% |
+| Liberia | 50% |
+| Libië | 60% |
+| Macau SAR, China | 60% |
+| Macedonië, FYR8 | 40% |
+| Madagascar | 30% |
+| Malawi | 30% |
+| Malediven | 60% |
+| Maleisië | 50% |
+| Mali | 40% |
+| Marokko9 | 40% |
+| Mauritanië | 40% |
+| Mauritius | 50% |
+| Mexico | 60% |
+| Micronesië | 90% |
+| Moldavië | 50% |
+| Monaco | 100% |
+| Mongolië | 40% |
+| Montenegro10 | 50% |
+| Mozambique | 50% |
+| Namibië | 60% |
+| Nepal | 30% |
+| Nicaragua | 40% |
+| Nieuw Zeeland11 | 100% |
+| Niger | 50% |
+| Nigeria | 50% |
+| Oeganda | 40% |
+| Oekraïne | 50% |
+| Oezbekistan | 40% |
+| Oman | 50% |
+| Pakistan | 30% |
+| Palau | 80% |
+| Panama | 60% |
+| Papoea Nieuw Guinea | 80% |
+| Paraguay | 50% |
+| Peru | 60% |
+| Russische Federatie | 60% |
+| Rwanda | 40% |
+| Samoa | 70% |
+| Sao Tomé en Principe | 50% |
+| Saoedi-Arabië | 50% |
+| Senegal | 50% |
+| Servië12 | 50% |
+| Seychellen | 60% |
+| Sierra Leone | 40% |
+| Singapore | 70% |
+| Soedan | 50% |
+| Solomon Eilanden | 90% |
+| Somalië | 50% |
+| Sri Lanka | 40% |
+| St. Kitts en Nevis | 70% |
+| St. Lucia | 70% |
+| St. Vincent en de Grenadines | 60% |
+| Suriname13 | 60% |
+| Swaziland | 50% |
+| Syrië | 50% |
+| Tadzjkistan | 40% |
+| Tanzania | 40% |
+| Thailand | 40% |
+| Timor-Leste | 50% |
+| Togo | 50% |
+| Tonga | 80% |
+| Trinidad en Tobago | 60% |
+| Tsjaad | 50% |
+| Tunesië | 40% |
+| Turkije14 | 60% |
+| Turkmenistan | 60% |
+| Uruguay | 80% |
+| Vanuatu | 100% |
+| Venezuela | 80% |
+| Verenigde Arabische Emiraten | 70% |
+| Verenigde Staten | 100% |
+| Vietnam | 40% |
+| Westelijke Jordaanoever en Gaza | 60% |
+| Zambia | 50% |
+| Zimbabwe | 50% |
+| Zuid Afrika | 50% |
+| Zuid-Korea15 | 80% |
+| Zuid Soedan | 50% |
+| St. Maarten (Frans gedeelte) | 100% |
+| Aruba | 70% |
+| Bonaire | 70% |
+| Curaçao | 70% |
+| Saba | 70% |
+| St Eustatius | 70% |
+| Sint Maarten (Nederlands deel) | 70% |
+
+1 Met betrekking tot Australië geldt in verband met het geldende bilaterale socialezekerheidsverdrag vooralsnog een woonlandfactor van 100%.
+
+2 Met betrekking tot Bosnië en Herzegovina geldt in verband met het geldende bilaterale socialezekerheidsverdrag, met uitzondering van de kinderbijslag en het kindgebonden budget, vooralsnog een woonlandfactor van 100%.
+
+3 Met betrekking tot Canada geldt in verband met het geldende bilaterale socialezekerheidsverdrag, met uitzondering van de kinderbijslag en het kindgebonden budget, vooralsnog een woonlandfactor van 100%.
+
+4 Met betrekking tot Chili geldt in verband met het geldende bilaterale socialezekerheidsverdrag, met uitzondering van de kinderbijslag en het kindgebonden budget, vooralsnog een woonlandfactor van 100%.
+
+5 Met betrekking tot India geldt in verband met het geldende bilaterale socialezekerheidsverdrag, met uitzondering van de kinderbijslag en het kindgebonden budget, vooralsnog een woonlandfactor van 100%.
+
+6 Met betrekking tot Israël geldt in verband met het geldende bilaterale socialezekerheidsverdrag vooralsnog een woonlandfactor van 100%.
+
+7 Met betrekking tot Kosovo geldt in verband met het geldende bilaterale socialezekerheidsverdrag, met uitzondering van de kinderbijslag en het kindgebonden budget, vooralsnog een woonlandfactor van 100%.
+
+8 Met betrekking tot Macedonië (FYROM) geldt in verband met het geldende bilaterale socialezekerheidsverdrag, met uitzondering van de kinderbijslag en het kindgebonden budget, vooralsnog een woonlandfactor van 100%.
+
+9 Met betrekking tot Marokko geldt in verband met het geldende bilaterale socialezekerheidsverdrag vooralsnog een woonlandfactor van 100%.
+
+10 Met betrekking tot Montenegro geldt in verband met het geldende bilaterale socialezekerheidsverdrag, met uitzondering van de kinderbijslag en het kindgebonden budget, vooralsnog een woonlandfactor van 100%.
+
+11 Met betrekking tot Nieuw-Zeeland geldt in verband met het geldende bilaterale socialezekerheidsverdrag vooralsnog een woonlandfactor van 100%.
+
+12 Met betrekking tot Servië geldt in verband met het geldende bilaterale socialezekerheidsverdrag, met uitzondering van de kinderbijslag en het kindgebonden budget, vooralsnog een woonlandfactor van 100%.
+
+13 Met betrekking tot Suriname geldt in verband met het geldende bilaterale socialezekerheidsverdrag vooralsnog een woonlandfactor van 100%.
+
+14 Met betrekking tot Turkije geldt in verband met het Associatieraadsbesluit, met uitzondering van de kinderbijslag en het kindgebonden budget, een woonlandfactor van 100%.
+
+15 Met betrekking tot Zuid-Korea geldt in verband met het geldende bilaterale socialezekerheidsverdrag vooralsnog een woonlandfactor van 100%.
 
 Deze regeling zal met de toelichting en de bijlage in de Staatscourant worden geplaatst.
