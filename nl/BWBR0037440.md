@@ -145,23 +145,3 @@ Deze regeling treedt in werking met ingang van 1 januari 2016.
 Deze regeling wordt aangehaald als: Regeling S&O-afdrachtvermindering.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
-
-##### Artikel 5a
-
-1. Er is sprake van een verschoonbare termijnoverschrijding als bedoeld in [artikel 27a van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007746&artikel=27a), indien:
-
-- a. de termijnoverschrijding is veroorzaakt door een niet aan de indiener toerekenbare verstoring van de toegang tot of de werking van de voorziening, bedoeld in [artikel 22, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007746&artikel=22), of [artikel 27, achtste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007746&artikel=27);
-
-- b. de verstoring plaatsvindt op de laatste dag van een op grond van de [wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007746) voor de S&O-inhoudingsplichtige of de S&O-belastingplichtige geldende termijn voor het indienen van een S&O-aanvraag, een S&O-mededeling of een S&O-opgave, dan wel in de twee dagen daaraan voorafgaand;
-
-- c. de verstoring gedurende een aaneengesloten periode van minimaal twee uur aanhoudt; en
-
-- d. de S&O-inhoudingsplichtige of S&O-belastingplichtige de S&O-aanvraag, S&O-mededeling of S&O-opgave alsnog doet binnen de periode, bedoeld in het tweede of derde lid.
-
-2. De periode, bedoeld in het eerste lid, onderdeel d, bedraagt drie werkdagen na de laatste dag van de op grond van de [wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007746) voor de S&O-inhoudingsplichtige of S&O-belastingplichtige geldende termijn voor het indienen van een S&O-aanvraag, een S&O-mededeling of een S&O-opgave of, indien dit later is, drie werkdagen na de dag waarop de verstoring verholpen is.
-
-3. Indien dit naar oordeel van de minister gelet op de aard van de verstoring noodzakelijk is, kan de minister besluiten de periode, genoemd in het tweede lid, te verlengen, opdat de periode in verhouding is tot de aard van de verstoring. In dat geval doet de minister hiervan voor het einde van de periode, genoemd in het tweede lid, mededeling in de Staatscourant.
-
-4. S&O-aanvragen, S&O-mededelingen en S&O-opgaven die, bij een verstoring als bedoeld in het eerste lid, onderdelen a, b, en c, zijn gedaan binnen de periode, bedoeld in het tweede of derde lid, worden geacht te zijn gedaan binnen de op grond van de [wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007746) geldende termijnen voor het indienen van een S&O-aanvraag, een S&O-mededeling of een S&O-opgave.
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
