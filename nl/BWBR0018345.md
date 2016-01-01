@@ -4,7 +4,7 @@ identifier: "BWBR0018345"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2016-01-01"
-last_updated: "2013-07-01"
+last_updated: "2016-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0018345"
 soort: "ministeriele-regeling"
@@ -48,11 +48,11 @@ Besluit:
 
 - a. wet: [Wet op belastingen van rechtsverkeer](https://wetten.overheid.nl/jci1.3:c:BWBR0002740);
 
-- b. herstructureringsgebied: gebied waarin een activiteit plaatsvindt in het kader van stedelijke vernieuwing als bedoeld in [artikel 1, eerste lid, onderdeel p, van de Woningwet](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&artikel=1);
+- b. herstructureringsgebied: gebied waarin een activiteit plaatsvindt in het kader van stedelijke vernieuwing als bedoeld in [artikel 1, eerste lid, van de Woningwet](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&artikel=1);
 
-- c. toegelaten instelling: een instelling als bedoeld in [artikel 70, eerste lid, van de Woningwet](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&artikel=70);
+- c. toegelaten instelling: een instelling als bedoeld in [artikel 19, eerste lid, van de Woningwet](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&artikel=19);
 
-- d. fonds: een in Nederland gevestigde landelijk werkende toegelaten instelling als bedoeld in [artikel 70, eerste lid, van de Woningwet](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&artikel=70), die geen winstoogmerk heeft, die hoofdzakelijk tot doel heeft de aankoop van woningen van toegelaten instellingen die daadwerkelijk uitvoering geven aan stedelijke herstructurering en de verkoop van deze woningen aan natuurlijke personen, en die als zodanig is aangewezen door de Minister voor Wonen en Rijksdienst;
+- d. fonds: een in Nederland gevestigde landelijk werkende toegelaten instelling die geen winstoogmerk heeft, die hoofdzakelijk tot doel heeft de aankoop van woningen van toegelaten instellingen die daadwerkelijk uitvoering geven aan stedelijke herstructurering en de verkoop van deze woningen aan natuurlijke personen, en die als zodanig is aangewezen door de Minister voor Wonen en Rijksdienst;
 
 - e. investeren: de feitelijke besteding door de toegelaten instelling van middelen ten behoeve van de stedelijke herstructurering in een herstructureringsgebied.
 
