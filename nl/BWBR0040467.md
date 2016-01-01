@@ -4,7 +4,7 @@ identifier: "BWBR0040467"
 country: "nl"
 rank: "wet"
 publication_date: "2026-01-01"
-last_updated: "2013-01-01"
+last_updated: "2016-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0040467"
 soort: "wet"
@@ -173,8 +173,6 @@ Dit onderdeel is nog niet inwerking getreden
 ##### Artikel XXIII
 
 Wijzigt de Wet op de internationale bijstandsverlening bij de heffing van belastingen.
-
-Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel XXIV
 
