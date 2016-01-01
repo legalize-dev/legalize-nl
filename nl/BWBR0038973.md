@@ -4,7 +4,7 @@ identifier: "BWBR0038973"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2021-01-01"
-last_updated: "2014-05-23"
+last_updated: "2016-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0038973"
 soort: "ministeriele-regeling"
@@ -39,8 +39,6 @@ entry_into_force: "2017-01-01"
 ##### Artikel I
 
 Wijzigt de Uitvoeringsregeling inkomstenbelasting 2001.
-
-Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel II
 
@@ -155,8 +153,6 @@ Dit onderdeel is nog niet inwerking getreden
 ##### Artikel XXII
 
 Wijzigt de Uitvoeringsregeling internationale bijstandsverlening bij de heffing van belastingen.
-
-Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel XXIII
 
