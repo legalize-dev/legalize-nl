@@ -4,7 +4,7 @@ identifier: "BWBR0019237"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-01-01"
-last_updated: "2015-07-01"
+last_updated: "2016-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0019237"
 soort: "ministeriele-regeling"
@@ -207,11 +207,13 @@ Vervallen
 
 - 14°. vergoedingen op grond van de compensatieregeling van de Rooms-Katholieke Kerk Nederland voor slachtoffers van seksueel misbruik;
 
-- 15°. bijzondere uitkeringen van het Ministerie van Defensie op grond van [artikel 21a van het Besluit aanvullende arbeidsongeschiktheids- en invaliditeitsvoorzieningen](onbekend) of op grond van [artikel 21a van het Besluit bijzondere militaire pensioenen](onbekend);
+- 15°. bijzondere uitkeringen van het Ministerie van Defensie op grond van [artikel 21a van het Besluit aanvullende arbeidsongeschiktheids- en invaliditeitsvoorzieningen](https://wetten.overheid.nl/jci1.3:c:BWBR0012223&artikel=21a) of op grond van [artikel 21a van het Besluit bijzondere militaire pensioenen](https://wetten.overheid.nl/jci1.3:c:BWBR0012222&artikel=21a);
 
 - 16°. uitkeringen op grond van de Tijdelijke regeling uitkeringen seksueel misbruik minderjarigen in instellingen en pleeggezinnen of op grond van de civiele regeling die de Staat voor deze groep van slachtoffers heeft opgesteld;
 
-- 17°. uitkeringen van een voorschot op een persoonsgebonden budget als bedoeld in [paragraaf 2.6 van de Regeling subsidies AWBZ](https://wetten.overheid.nl/jci1.3:c:BWBR0019161&paragraaf=2.6), die betrekking hebben op een in het kalenderjaar 2012 of in het kalenderjaar 2013 gelegen subsidieperiode voor zover deze zijn gedaan vóór 1 januari van het betreffende kalenderjaar.
+- 17°. uitkeringen van een voorschot op een persoonsgebonden budget als bedoeld in [paragraaf 2.6 van de Regeling subsidies AWBZ](https://wetten.overheid.nl/jci1.3:c:BWBR0019161&paragraaf=2.6), die betrekking hebben op een in het kalenderjaar 2012 of in het kalenderjaar 2013 gelegen subsidieperiode voor zover deze zijn gedaan vóór 1 januari van het betreffende kalenderjaar;
+
+- 18°. uitkeringen op grond van de [Uitkeringsregeling Backpay](https://wetten.overheid.nl/jci1.3:c:BWBR0037426).
 
 2. Het eerste lid, onderdeel b, onder 4° tot en met 11°, is eveneens van toepassing ingeval de genoemde uitkeringen zijn verstrekt aan nabestaanden van de gerechtigden.
 
@@ -219,7 +221,7 @@ Vervallen
 
 4. Een verzoek als bedoeld in het eerste lid wordt geacht mede te zijn gedaan voor op het berekeningsjaar volgende berekeningsjaren.
 
-5. Een verzoek als bedoeld in het eerste lid kan, met overeenkomstige toepassing van het tweede, derde en vierde lid, eveneens worden gedaan met betrekking tot het buiten toepassing laten van [artikel 2a, eerste lid, van de Wet op de zorgtoeslag](https://wetten.overheid.nl/jci1.3:c:BWBR0018451&artikel=2a) of [artikel 1, vierde lid, van de Wet op het kindgebonden budget](https://wetten.overheid.nl/jci1.3:c:BWBR0022751&artikel=1) indien de belanghebbende wel aanspraak op zorgtoeslag, onderscheidenlijk kindgebonden budget, zou hebben indien de grondslag sparen en beleggen, bedoeld in [artikel 5.2, eerste lid, van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=5.2), zou worden verminderd met een bedrag ter grootte van de eenmalige uitkeringen, bedoeld in het eerste lid, onderdeel b.
+5. Een verzoek als bedoeld in het eerste lid kan, met overeenkomstige toepassing van het tweede, derde en vierde lid, eveneens worden gedaan met betrekking tot het buiten toepassing laten van [artikel 2a, eerste lid, van de Wet op de zorgtoeslag](https://wetten.overheid.nl/jci1.3:c:BWBR0018451&artikel=2a) of [artikel 1, vierde lid, van de Wet op het kindgebonden budget](https://wetten.overheid.nl/jci1.3:c:BWBR0022751&artikel=1) indien de belanghebbende wel aanspraak op zorgtoeslag, onderscheidenlijk kindgebonden budget, zou hebben indien de rendementsgrondslag, bedoeld in [artikel 5.3 van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=5.3), zou worden verminderd met de bezittingen, bedoeld in het eerste lid, onderdeel a, of de eenmalige uitkeringen, bedoeld in het eerste lid, onderdeel b.
 
 ##### Artikel 10. Inwerkingtreding
 
@@ -239,7 +241,7 @@ Indien de Belastingdienst/Toeslagen overeenkomstig artikel 6 van Verordening (EG
 
 - b. worden de in [artikel 19 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0018472&artikel=19) genoemde beslissingstermijnen voor toekenning van de tegemoetkoming verlengd met de tijd gedurende welke een orgaan in een andere lidstaat aangewezen is geweest als voorlopig bevoegd orgaan;
 
-- c. worden de in de [artikelen 21, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018472&artikel=21), en [27, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0018472&artikel=27) genoemde termijnen en de in [artikel 5a, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0019237&artikel=5a&z=2016-01-01&g=2015-07-01), genoemde termijn verlengd met de tijd gedurende welk een orgaan in een andere lidstaat aangewezen is geweest als voorlopig bevoegd orgaan.
+- c. worden de in de [artikelen 21, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018472&artikel=21), en [27, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0018472&artikel=27) genoemde termijnen en de in [artikel 5a, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0019237&artikel=5a&z=2016-01-01&g=2016-01-01), genoemde termijn verlengd met de tijd gedurende welk een orgaan in een andere lidstaat aangewezen is geweest als voorlopig bevoegd orgaan.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
@@ -261,18 +263,18 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 ##### Artikel 9bis. Overgangsrecht vermogenstoets letselschade-uitkeringen
 
-1. Op verzoek van de belanghebbende blijft [artikel 2a, eerste lid, van de Wet op de zorgtoeslag](https://wetten.overheid.nl/jci1.3:c:BWBR0018451&artikel=2a) of [artikel 1, vierde lid, van de Wet op het kindgebonden budget](https://wetten.overheid.nl/jci1.3:c:BWBR0022751&artikel=1), tot 1 januari 2023 buiten toepassing ten aanzien van degene die in het berekeningsjaar aanspraak op zorgtoeslag, onderscheidenlijk kindgebonden budget, zou hebben indien de grondslag sparen en beleggen, bedoeld in [artikel 5.2, eerste lid, van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=5.2), zou worden verminderd met een bedrag ter grootte van een in het berekeningsjaar of in enig eerder jaar ontvangen eenmalige uitkering:
+1. Op verzoek van de belanghebbende blijft [artikel 2a, eerste lid, van de Wet op de zorgtoeslag](https://wetten.overheid.nl/jci1.3:c:BWBR0018451&artikel=2a) of [artikel 1, vierde lid, van de Wet op het kindgebonden budget](https://wetten.overheid.nl/jci1.3:c:BWBR0022751&artikel=1), tot 1 januari 2023 buiten toepassing ten aanzien van degene die in het berekeningsjaar aanspraak op zorgtoeslag, onderscheidenlijk kindgebonden budget, zou hebben indien de rendementsgrondslag, bedoeld in [artikel 5.3 van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=5.3), zou worden verminderd met een bedrag ter grootte van een in het berekeningsjaar of in enig eerder jaar ontvangen eenmalige uitkering:
 
 - a. die een schadevergoeding vormt voor een letselschade; en
 
 - b. waarvan de hoogte is vastgelegd in een overeenkomst of rechterlijke uitspraak die is gedateerd voor 11 oktober 2010, dan wel, indien de uitkering op andere grond tot stand is gekomen, de hoogte is vastgesteld voor 11 oktober 2010.
 
-2. [Artikel 9, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019237&artikel=9&z=2016-01-01&g=2015-07-01), is van overeenkomstige toepassing op het verzoek, bedoeld in het eerste lid.
+2. [Artikel 9, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019237&artikel=9&z=2016-01-01&g=2016-01-01), is van overeenkomstige toepassing op het verzoek, bedoeld in het eerste lid.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 ##### Artikel 9ter
 
-Indien bij de Belastingdienst/Toeslagen op 1 december 2013 geen bankrekening op naam van de belanghebbende bekend is, wordt tot en met 30 juni 2015 als geval als bedoeld in [artikel 25, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0018472&artikel=25) aangewezen de uitbetaling van een verleend voorschot of toegekende tegemoetkoming door de Belastingdienst/Toeslagen op de bankrekening die vóór 1 december 2013 door de Belastingdienst/Toeslagen werd gebruikt voor de uitbetaling van een verleend voorschot of toegekende tegemoetkoming aan de belanghebbende.
+Vervallen
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
