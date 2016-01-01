@@ -4,7 +4,7 @@ identifier: "BWBR0007763"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-01-01"
-last_updated: "2015-07-01"
+last_updated: "2016-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0007763"
 soort: "ministeriele-regeling"
@@ -41,11 +41,11 @@ Besluit:
 
 ##### Artikel 1
 
-1. De grondslag voor de gewezen zelfstandige en de echtgenoot wordt vastgesteld op: € 1.586,22.
+1. De grondslag voor de gewezen zelfstandige en de echtgenoot wordt vastgesteld op: € 1.598,50.
 
-2. De grondslag voor de alleenstaande gewezen zelfstandige wordt vastgesteld op: € 793,11.
+2. De grondslag voor de alleenstaande gewezen zelfstandige wordt vastgesteld op: € 799,25.
 
-3. De grondslag voor de alleenstaande gewezen zelfstandige, die met een of meer meerderjarige personen in dezelfde woning zijn hoofdverblijf heeft, wordt vastgesteld op: € 1.226,02.
+3. De grondslag voor de alleenstaande gewezen zelfstandige, die met een of meer meerderjarige personen in dezelfde woning zijn hoofdverblijf heeft, wordt vastgesteld op: € 1.237,10.
 
 ##### Artikel 2
 
@@ -61,13 +61,13 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 1. De grondslag voor de alleenstaande gewezen zelfstandige, bedoeld in [artikel 63b, eerste lid, van de Wet inkomensvoorziening oudere en gedeeltelijk arbeidsongeschikte gewezen zelfstandigen](https://wetten.overheid.nl/jci1.3:c:BWBR0004163&artikel=63b) wordt voor:
 
-- a. de periode van 1 juli 2015 tot en met 31 december 2015 vastgesteld op: € 1.182,59;
+- a. vervallen;
 
-- b. 2016 vastgesteld op: € 1.118,26;
+- b. 2016 vastgesteld op: € 1.128,43;
 
-- c. 2017 vastgesteld op: € 1.008,71;
+- c. 2017 vastgesteld op: € 1.018,21;
 
-- d. 2018 vastgesteld op: € 900,96.
+- d. 2018 vastgesteld op: € 909,54.
 
 2. Het eerste lid, onderdeel a, vervalt met ingang van 1 januari 2016.
 
