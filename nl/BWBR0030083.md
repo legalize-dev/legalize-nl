@@ -4,7 +4,7 @@ identifier: "BWBR0030083"
 country: "nl"
 rank: "wet"
 publication_date: "2016-01-01"
-last_updated: "2013-01-01"
+last_updated: "2016-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0030083"
 soort: "wet"
@@ -71,10 +71,10 @@ De [artikelen 132a](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=132a
 
 ##### Artikel VII
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt het Burgerlijk Wetboek Boek 2.
 
 ##### Artikel VIII
 
-Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip, met uitzondering van [artikel VII](https://wetten.overheid.nl/jci1.3:c:BWBR0030083&artikel=VII&z=2013-01-01&g=2013-01-01) dat op 1 januari 2016 in werking treedt.
+Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip, met uitzondering van [artikel VII](https://wetten.overheid.nl/jci1.3:c:BWBR0030083&artikel=VII&z=2016-01-01&g=2016-01-01) dat op 1 januari 2016 in werking treedt.
 
 Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
