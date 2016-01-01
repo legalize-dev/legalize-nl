@@ -4,7 +4,7 @@ identifier: "BWBR0016402"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2016-01-01"
-last_updated: "2013-07-01"
+last_updated: "2016-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0016402"
 soort: "ministeriele-regeling"
@@ -48,7 +48,7 @@ Besluit:
 
 - a. wet: [Wet op belastingen van rechtsverkeer](https://wetten.overheid.nl/jci1.3:c:BWBR0002740);
 
-- b. herstructureringsplan: een plan dat beoogt uitvoering te geven aan een activiteit in het kader van stedelijke vernieuwing als bedoeld in [artikel 1, eerste lid, onderdeel p, van de Woningwet](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&artikel=1);
+- b. herstructureringsplan: een plan dat beoogt uitvoering te geven aan een activiteit in het kader van stedelijke vernieuwing als bedoeld in [artikel 1, eerste lid, van de Woningwet](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&artikel=1);
 
 - c. wijkontwikkelingsmaatschappij: een in Nederland gevestigd lichaam dat bevordering van stedelijke herstructurering ten doel heeft en dat is opgericht om uitvoering te geven aan een herstructureringsplan en dat door de Minister voor Wonen en Rijksdienst op voordracht van het college van burgemeester en wethouders als zodanig is aangewezen.
 
@@ -84,13 +84,13 @@ Besluit:
 
 2. De wijkontwikkelingsmaatschappij stelt de inspecteur onverwijld in kennis zodra een omstandigheid als bedoeld in het eerste lid zich voordoet.
 
-3. De Minister voor Wonen en Rijksdienst trekt de aanwijzing als bedoeld in [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0016402&artikel=2&z=2013-07-01&g=2013-07-01), in indien geen uitvoering meer wordt gegeven aan het herstructureringsplan.
+3. De Minister voor Wonen en Rijksdienst trekt de aanwijzing als bedoeld in [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0016402&artikel=2&z=2016-01-01&g=2016-01-01), in indien geen uitvoering meer wordt gegeven aan het herstructureringsplan.
 
 ##### Artikel 5
 
 1. Deze regeling treedt in werking met ingang van de tweede dag na de dagtekening in de Staatscourant waarin zij wordt geplaatst en werkt terug tot en met 1 januari 2003.
 
-2. Deze regeling is van overeenkomstige toepassing ten aanzien van verkrijgingen van onroerende zaken na 1 januari 2003 en voor de datum van inwerkingtreding van deze regeling, indien een aanwijzing als bedoeld in [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0016402&artikel=2&z=2013-07-01&g=2013-07-01), heeft plaatsgevonden na de datum van inwerkingtreding van deze regeling.
+2. Deze regeling is van overeenkomstige toepassing ten aanzien van verkrijgingen van onroerende zaken na 1 januari 2003 en voor de datum van inwerkingtreding van deze regeling, indien een aanwijzing als bedoeld in [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0016402&artikel=2&z=2016-01-01&g=2016-01-01), heeft plaatsgevonden na de datum van inwerkingtreding van deze regeling.
 
 3. Deze regeling wordt aangehaald als: Regeling vrijstelling overdrachtsbelasting stedelijke herstructurering.
 
