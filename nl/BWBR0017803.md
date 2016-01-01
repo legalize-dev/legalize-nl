@@ -4,7 +4,7 @@ identifier: "BWBR0017803"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2016-01-01"
-last_updated: "2005-02-08"
+last_updated: "2016-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0017803"
 soort: "ministeriele-regeling"
@@ -41,7 +41,7 @@ Besluit:
 
 ##### Artikel 1
 
-De Hoofdinspecteur voor de gezondheidszorg en de onder zijn bevelen staande ambtenaren nemen bij de uitvoering van hun taak op grond van [artikel 20 van de Wet inzake bloedvoorziening](https://wetten.overheid.nl/jci1.3:c:BWBR0009079&artikel=20) en op grond van [artikel 8 van de Kwaliteitswet zorginstellingen](https://wetten.overheid.nl/jci1.3:c:BWBR0007850&artikel=8) artikel 8 van [Richtlijn 2002/98/EG](32002L0098) van het Europees Parlement en de Raad van 27 januari 2003 tot vaststelling van kwaliteits- en veiligheidsnormen voor het inzamelen, testen, bewerken, opslaan en distribueren van bloed en bloedbestanddelen van menselijke oorsprong en tot wijziging van [Richtlijn 2001/83/EG](32001L0083) (PbEU L 33) in acht.
+De Hoofdinspecteur voor de gezondheidszorg en de onder zijn bevelen staande ambtenaren nemen bij de uitvoering van hun taak op grond van [artikel 20 van de Wet inzake bloedvoorziening](https://wetten.overheid.nl/jci1.3:c:BWBR0009079&artikel=20) en op grond van [artikel 24 van de Wet kwaliteit, klachten en geschillen zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0037173&artikel=24) artikel 8 van [Richtlijn 2002/98/EG](32002L0098) van het Europees Parlement en de Raad van 27 januari 2003 tot vaststelling van kwaliteits- en veiligheidsnormen voor het inzamelen, testen, bewerken, opslaan en distribueren van bloed en bloedbestanddelen van menselijke oorsprong en tot wijziging van [Richtlijn 2001/83/EG](32001L0083) (PbEU L 33) in acht.
 
 ##### Artikel 2
 
