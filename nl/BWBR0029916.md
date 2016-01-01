@@ -4,7 +4,7 @@ identifier: "BWBR0029916"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2020-07-17"
-last_updated: "2013-06-05"
+last_updated: "2016-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0029916"
 soort: "ministeriele-regeling"
@@ -62,13 +62,7 @@ Het tijdstip, bedoeld in [artikel 2.4, tweede lid, van het besluit](https://wett
 
 ##### Artikel 4
 
-1. Voor het nakomen van de verplichting, bedoeld in [artikel 2.9, eerste lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0029909&artikel=2.9), tellen biotickets als bedoeld in [artikel 1 van het Besluit hernieuwbare energie vervoer](https://wetten.overheid.nl/jci1.3:c:BWBR0029926&artikel=1) van andere rapportageplichtigen en van leveranciers van elektriciteit of biogas als bedoeld in [artikel 6 van dat besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0029926&artikel=6) mee.
-
-2. Biobrandstoffen die met toepassing van [artikel 3, zesde lid, onderdeel b, van het Besluit hernieuwbare energie vervoer](https://wetten.overheid.nl/jci1.3:c:BWBR0029926&artikel=3), in enig jaar meetellen voor het nakomen van de verplichting, bedoeld in artikel 3, eerste lid, van dat besluit, tellen in dat jaar tevens mee voor het nakomen van de verplichting, bedoeld in [artikel 2.9, eerste lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0029909&artikel=2.9). Artikel 18 van de Regeling hernieuwbare energie vervoer is van overeenkomstige toepassing.
-
-3. Voor zover een hoeveelheid elektriciteit is geleverd ten behoeve van wegvoertuigen wordt die hoeveelheid geleverde elektriciteit voor het nakomen van de verplichting, bedoeld in [artikel 2.9, eerste lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0029909&artikel=2.9), vermenigvuldigd met tweeënhalf.
-
-4. De rapportage, bedoeld in [artikel 2.9, derde lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0029909&artikel=2.9), wordt ingediend door middel van een door de Minister van Infrastructuur en Milieu vastgesteld en door het bestuur van de emissieautoriteit op elektronische wijze ter beschikking gesteld model.
+De rapportage, bedoeld in [artikel 2.9, derde lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0029909&artikel=2.9), wordt ingediend door middel van een door de Minister van Infrastructuur en Milieu vastgesteld en door het bestuur van de emissieautoriteit op elektronische wijze ter beschikking gesteld model.
 
 ##### Artikel 5
 
@@ -272,11 +266,13 @@ De hoeveelheid elektriciteit wordt hierbij uitgedrukt in kWh en de broeikasgasem
 
 ##### Artikel 4a
 
-De hoeveelheid, bedoeld in [artikel 2.9a, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0029909&artikel=2.9a), is voor:
+De hoeveelheid, bedoeld in [artikel 2.9a van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0029909&artikel=2.9a), is opgeteld voor:
 
-- a. benzine, diesel, LPG, en gasolie voor mobiele machines: 50.000 liter;
+- a. benzine, diesel, of gasolie voor mobiele machines: 500.000 liter;
 
-- b. CNG en LNG, bestemd voor wegvoertuigen: 50.000 Nm3.
+- b. LPG of LNG, bestemd voor wegvoertuigen: 500.000 kilo, of
+
+- c. CNG, bestemd voor wegvoertuigen: 500.000 Nm3.
 
 ## Bijlage. bij artikel 4, vierde lid, van de Regeling brandstoffen luchtverontreiniging
 
