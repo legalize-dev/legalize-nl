@@ -4,7 +4,7 @@ identifier: "BWBR0034319"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-01-01"
-last_updated: "2014-01-06"
+last_updated: "2016-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0034319"
 soort: "ministeriele-regeling"
@@ -38,9 +38,11 @@ entry_into_force: "2014-01-06"
 
 Gelet op [artikel 10:4](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=10:4) en [artikel 10:12 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=10:12);
 
-Gezien het RNI Convenant Dienstverlening en de daarin overeengekomen werkzaamheden genoemd in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0034319&artikel=2&z=2014-01-06&g=2014-01-06),
+Gezien het RNI Convenant Dienstverlening en de daarin overeengekomen werkzaamheden genoemd in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0034319&artikel=2&z=2014-01-06&g=2016-01-01),
 
 Besluit:
+
+Treedt in werking op het tijdstip waarop de Wet basisregistratie personen in werking treedt.
 
 ##### Artikel 1
 
@@ -74,7 +76,7 @@ In dit besluit wordt verstaan onder:
 
 ##### Artikel 3
 
-1. Het college van burgemeester en wethouders kan voor de in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0034319&artikel=2&z=2014-01-06&g=2014-01-06) bedoelde aangelegenheden ondermandaat verlenen aan ambtenaren van de gemeente die zijn aangewezen om de inschrijving te verrichten.
+1. Het college van burgemeester en wethouders kan voor de in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0034319&artikel=2&z=2014-01-06&g=2016-01-01) bedoelde aangelegenheden ondermandaat verlenen aan ambtenaren van de gemeente die zijn aangewezen om de inschrijving te verrichten.
 
 2. Het verlenen van ondermandaat geschiedt schriftelijk.
 
@@ -100,7 +102,7 @@ Medewerker inschrijfvoorziening [naam gemeente]
 
 ##### Artikel 6
 
-Het college van burgemeester en wethouders is niet bevoegd om zelfstandig verzoeken in het kader van de [Wet openbaarheid van bestuur](https://wetten.overheid.nl/jci1.3:c:BWBR0005252), de [Wet nationale ombudsman](https://wetten.overheid.nl/jci1.3:c:BWBR0003372), dan wel verzoeken van gelijksoortig karakter, voor zover die verband houden met de uitvoering van de in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0034319&artikel=2&z=2014-01-06&g=2014-01-06) van dit besluit bedoelde taken, namens de Minister af te doen. Dergelijke verzoeken worden door het college inhoudelijk voorbereid en ter afdoening aan de Minister voorgelegd.
+Het college van burgemeester en wethouders is niet bevoegd om zelfstandig verzoeken in het kader van de [Wet openbaarheid van bestuur](https://wetten.overheid.nl/jci1.3:c:BWBR0005252), de [Wet nationale ombudsman](https://wetten.overheid.nl/jci1.3:c:BWBR0003372), dan wel verzoeken van gelijksoortig karakter, voor zover die verband houden met de uitvoering van de in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0034319&artikel=2&z=2014-01-06&g=2016-01-01) van dit besluit bedoelde taken, namens de Minister af te doen. Dergelijke verzoeken worden door het college inhoudelijk voorbereid en ter afdoening aan de Minister voorgelegd.
 
 ##### Artikel 7
 
