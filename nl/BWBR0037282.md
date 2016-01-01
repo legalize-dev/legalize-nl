@@ -4,7 +4,7 @@ identifier: "BWBR0037282"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2016-01-01"
-last_updated: "2015-01-01"
+last_updated: "2016-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0037282"
 soort: "ministeriele-regeling"
@@ -38,43 +38,77 @@ entry_into_force: "2016-01-01"
 
 ##### Artikel 1. Begripsbepaling
 
-Dit onderdeel is nog niet inwerking getreden
+In deze regeling wordt verstaan onder:
+
+- a. **Wfsv:** de [Wet financiering sociale verzekeringen](https://wetten.overheid.nl/jci1.3:c:BWBR0017745);
+
+- b. **AWf-premie:** het deel van de premie, bedoeld in [artikel 27 van de Wfsv](https://wetten.overheid.nl/jci1.3:c:BWBR0017745&artikel=27), dat ten gunste komt van het Algemeen Werkloosheidsfonds;
+
+- c. **Ufo-premie:** het premiepercentage, bedoeld in [artikel 31 van de Wfsv](https://wetten.overheid.nl/jci1.3:c:BWBR0017745&artikel=31), voor de premie verschuldigd door overheidswerkgevers als middel tot dekking van uitgaven ten laste van het Uitvoeringsfonds voor de overheid.
 
 ##### Artikel 2. Awf-premie
 
-Dit onderdeel is nog niet inwerking getreden
+De AWf-premie wordt voor het jaar 2016 vastgesteld op 2,44%.
 
 ##### Artikel 3. Vervangende premie voor de sectorfondsen
 
-Dit onderdeel is nog niet inwerking getreden
+Het gemiddelde premiepercentage, bedoeld in [artikel 28, tweede lid, van de Wfsv](https://wetten.overheid.nl/jci1.3:c:BWBR0017745&artikel=28), wordt voor het jaar 2016 vastgesteld op 2,16%.
 
 ##### Artikel 4. Ufo-premie
 
-Dit onderdeel is nog niet inwerking getreden
+De Ufo-premie wordt voor het jaar 2016 vastgesteld op 0,78%.
 
 ##### Artikel 5. Basispremie Arbeidsongeschiktheidsfonds
 
-Dit onderdeel is nog niet inwerking getreden
+De basispremie, bedoeld in [artikel 36 van de Wfsv](https://wetten.overheid.nl/jci1.3:c:BWBR0017745&artikel=36), wordt voor het jaar 2016 vastgesteld op 5,88%.
 
 ##### Artikel 6. Maximumpremieloon
 
-Dit onderdeel is nog niet inwerking getreden
+Het bedrag, bedoeld in [artikel 17, eerste lid, eerste volzin, van de Wfsv](https://wetten.overheid.nl/jci1.3:c:BWBR0017745&artikel=17), wordt voor het jaar 2016 vastgesteld voor een loontijdvak van:
+
+- a. een jaar op: € 52.763;
+
+- b. een maand op: € 4.396,91;
+
+- c. vier weken op: € 4.058,69;
+
+- d. een week op: € 1.014,67;
+
+- e. een dag op: € 202,93.
 
 ##### Artikel 7. Maximumpremieloon bij afwijkend loontijdvak in verband met vakantiebonnen, vakantietoeslagbonnen of daarmee overeenkomende aanspraken
 
-Dit onderdeel is nog niet inwerking getreden
+1. Het bedrag, bedoeld in [artikel 17, eerste lid, eerste zin, van de Wfsv](https://wetten.overheid.nl/jci1.3:c:BWBR0017745&artikel=17), wordt voor werknemers als bedoeld in [artikel 6.2, eerste lid, onderdeel a, van de Uitvoeringsregeling loonbelasting 2011](https://wetten.overheid.nl/jci1.3:c:BWBR0028236&artikel=6.2), voor het jaar 2016 vastgesteld voor een verlengd loontijdvak van:
+
+- a. een maand op: € 4.989,53;
+
+- b. vier weken op: € 4.605,73;
+
+- c. een week op: € 1.151,42;
+
+- d. een dag op: € 230,28.
+
+2. Het bedrag, bedoeld in [artikel 17, eerste lid, eerste zin, van de Wfsv](https://wetten.overheid.nl/jci1.3:c:BWBR0017745&artikel=17), wordt voor werknemers als bedoeld in [artikel 6.2, eerste lid, onderdeel b, van de Uitvoeringsregeling loonbelasting 2011](https://wetten.overheid.nl/jci1.3:c:BWBR0028236&artikel=6.2), voor het jaar 2016 vastgesteld voor een verlengd loontijdvak van:
+
+- a. een maand op: € 4.666,10;
+
+- b. vier weken op: € 4.307,18;
+
+- c. een week op: € 1.076,79;
+
+- d. een dag op: € 215,35.
 
 ##### Artikel 8. Premiepercentage algemene ouderdomsverzekering
 
-Dit onderdeel is nog niet inwerking getreden
+De premie, bedoeld in [artikel 11, eerste lid, van de Wfsv](https://wetten.overheid.nl/jci1.3:c:BWBR0017745&artikel=11), wordt voor het jaar 2016 vastgesteld op 17,90%.
 
 ##### Artikel 9. Premiepercentage nabestaandenverzekering
 
-Dit onderdeel is nog niet inwerking getreden
+De premie, bedoeld in [artikel 11, tweede lid, van de Wfsv](https://wetten.overheid.nl/jci1.3:c:BWBR0017745&artikel=11), wordt voor het jaar 2016 vastgesteld op 0,60%.
 
 ##### Artikel 10. Opslag tot dekking kosten kinderopvangtoeslag
 
-Dit onderdeel is nog niet inwerking getreden
+De opslag, bedoeld in [artikel 1.10, eerste lid, van de Wet kinderopvang](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&artikel=1.10) en kwaliteitseisen peuterspeelzalen, wordt voor het jaar 2016 vastgesteld op 0,50%.
 
 ##### Artikel 11. Minimum loonsomgrens WW sector Grootwinkelbedrijf
 
@@ -82,11 +116,11 @@ Wijzigt de Regeling Wfsv.
 
 ##### Artikel 12. Inwerkingtreding
 
-Dit onderdeel is nog niet inwerking getreden
+Deze regeling treedt in werking met ingang van 1 januari 2016, met uitzondering van [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0037282&artikel=11&z=2016-01-01&g=2016-01-01) dat in werking treedt met ingang van 1 januari 2016 en terugwerkt tot en met 1 januari 2015.
 
 ##### Artikel 13. Citeertitel
 
-Dit onderdeel is nog niet inwerking getreden
+Deze regeling wordt aangehaald als: Regeling vaststelling premiepercentages en het maximumpremieloon werknemers- en volksverzekeringen en de opslag kinderopvangtoeslag 2016.
 
 Handelende in overeenstemming met de Minister van Volksgezondheid, Welzijn en Sport en de Staatssecretaris van Financiën;
 
