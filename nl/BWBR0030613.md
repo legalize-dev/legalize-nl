@@ -4,7 +4,7 @@ identifier: "BWBR0030613"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2023-04-01"
-last_updated: "2015-10-01"
+last_updated: "2016-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0030613"
 soort: "ministeriele-regeling"
@@ -62,13 +62,13 @@ In deze regeling wordt verstaan onder:
 
 ##### Artikel 2
 
-1. Een vermoeden als bedoeld in [artikel 130, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=130) wordt gebaseerd op feiten of omstandigheden als genoemd in de bij deze regeling behorende [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0030613&bijlage=1&z=2015-10-01&g=2015-10-01).
+1. Een vermoeden als bedoeld in [artikel 130, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=130) wordt gebaseerd op feiten of omstandigheden als genoemd in de bij deze regeling behorende [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0030613&bijlage=1&z=2016-01-01&g=2016-01-01).
 
-2. Indien een vermoeden als bedoeld in het eerste lid wordt gebaseerd op het gestelde in de bij deze regeling behorende [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0030613&bijlage=1&z=2015-10-01&g=2015-10-01), onderdeel B, subonderdeel III, Drogerende stoffen, dient betrokkene bij minimaal één feit bestuurder te zijn geweest van een motorrijtuig waarvoor een rijbewijs is vereist.
+2. Indien een vermoeden als bedoeld in het eerste lid wordt gebaseerd op het gestelde in de bij deze regeling behorende [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0030613&bijlage=1&z=2016-01-01&g=2016-01-01), onderdeel B, subonderdeel III, Drogerende stoffen, dient betrokkene bij minimaal één feit bestuurder te zijn geweest van een motorrijtuig waarvoor een rijbewijs is vereist.
 
 ##### Artikel 3
 
-1. Feiten of omstandigheden als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0030613&paragraaf=1&artikel=2&z=2015-10-01&g=2015-10-01) kunnen blijken uit:
+1. Feiten of omstandigheden als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0030613&paragraaf=1&artikel=2&z=2016-01-01&g=2016-01-01) kunnen blijken uit:
 
 - a. eigen waarneming en gegevens afkomstig van de politie;
 
@@ -76,7 +76,7 @@ In deze regeling wordt verstaan onder:
 
 - c. door de politie nagetrokken gegevens uit andere bron.
 
-2. Feiten of omstandigheden als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0030613&paragraaf=1&artikel=2&z=2015-10-01&g=2015-10-01) kunnen voor zover het de geschiktheid betreft bovendien blijken uit:
+2. Feiten of omstandigheden als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0030613&paragraaf=1&artikel=2&z=2016-01-01&g=2016-01-01) kunnen voor zover het de geschiktheid betreft bovendien blijken uit:
 
 - a. gegevens door de directeur verkregen in het kader van aanvragen van verklaringen van geschiktheid als bedoeld in [artikel 97 van het Reglement rijbewijzen](https://wetten.overheid.nl/jci1.3:c:BWBR0008074&artikel=97);
 
@@ -84,7 +84,7 @@ In deze regeling wordt verstaan onder:
 
 - c. gegevens, door de directeur uit andere bron verkregen.
 
-3. Het meest recente feit, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0030613&paragraaf=1&artikel=2&z=2015-10-01&g=2015-10-01), is ten tijde van de mededeling niet langer dan zes maanden geleden geconstateerd. Indien het een mededeling betreft van de officier van justitie inzake [bijlage 1, onder IV](https://wetten.overheid.nl/jci1.3:c:BWBR0030613&bijlage=1&z=2015-10-01&g=2015-10-01), dient de mededeling uiterlijk binnen zes maanden nadat de laatste afdoening onherroepelijk is geworden, te worden gedaan. Een uitzondering is slechts mogelijk, indien in de aard van de zaak gelegen omstandigheden dit rechtvaardigen.
+3. Het meest recente feit, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0030613&paragraaf=1&artikel=2&z=2016-01-01&g=2016-01-01), is ten tijde van de mededeling niet langer dan zes maanden geleden geconstateerd. Indien het een mededeling betreft van de officier van justitie inzake [bijlage 1, onder IV](https://wetten.overheid.nl/jci1.3:c:BWBR0030613&bijlage=1&z=2016-01-01&g=2016-01-01), dient de mededeling uiterlijk binnen zes maanden nadat de laatste afdoening onherroepelijk is geworden, te worden gedaan. Een uitzondering is slechts mogelijk, indien in de aard van de zaak gelegen omstandigheden dit rechtvaardigen.
 
 ##### Artikel 4
 
@@ -124,7 +124,7 @@ Een vordering tot overgifte van het rijbewijs, bedoeld in [artikel 130, tweede l
 
 - m. ten aanzien van betrokkene is binnen een periode van vijf jaar ten minste drie maal proces-verbaal opgemaakt op verdenking van overtreding van [artikel 8, tweede, derde of vierde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=8), waarbij de laatste overtreding moet zijn begaan als houder van een rijbewijs;
 
-- n. betrokkene heeft twee maal als beginnende bestuurder een of meer van de in [bijlage 1, onderdeel A, subonderdeel IV](https://wetten.overheid.nl/jci1.3:c:BWBR0030613&bijlage=1&z=2015-10-01&g=2015-10-01), opgenomen feiten begaan en voor deze feiten is hij tijdens of na de in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0030613&paragraaf=1&artikel=1&z=2015-10-01&g=2015-10-01), onder beginnende bestuurder, genoemde termijn onherroepelijk veroordeeld, tenzij voor het feit in eerste instantie een strafbeschikking als bedoeld in [artikel 257b van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=257b) is uitgevaardigd, dan wel voor deze feiten is tijdens of na die termijn ten aanzien van hem een onherroepelijk geworden strafbeschikking als bedoeld in [artikel 257a van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=257a) uitgevaardigd;
+- n. betrokkene heeft twee maal als beginnende bestuurder een of meer van de in [bijlage 1, onderdeel A, subonderdeel IV](https://wetten.overheid.nl/jci1.3:c:BWBR0030613&bijlage=1&z=2016-01-01&g=2016-01-01), opgenomen feiten begaan en voor deze feiten is hij tijdens of na de in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0030613&paragraaf=1&artikel=1&z=2016-01-01&g=2016-01-01), onder beginnende bestuurder, genoemde termijn onherroepelijk veroordeeld, tenzij voor het feit in eerste instantie een strafbeschikking als bedoeld in [artikel 257b van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=257b) is uitgevaardigd, dan wel voor deze feiten is tijdens of na die termijn ten aanzien van hem een onherroepelijk geworden strafbeschikking als bedoeld in [artikel 257a van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=257a) uitgevaardigd;
 
 - o. ten aanzien van betrokkene is tijdens de duur van het alcoholslotprogramma proces-verbaal opgemaakt op verdenking van overtreding van [artikel 8, derde juncto vierde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=8) of [artikel 9, negende lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=9);
 
@@ -132,7 +132,7 @@ Een vordering tot overgifte van het rijbewijs, bedoeld in [artikel 130, tweede l
 
 ##### Artikel 6
 
-In de gevallen, bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0030613&paragraaf=2&artikel=5&z=2015-10-01&g=2015-10-01), schorst het CBR overeenkomstig [artikel 131, tweede lid, onderdeel a, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=131) de geldigheid van het rijbewijs voor een of meer categorieën van motorrijtuigen, tenzij een educatieve maatregel als bedoeld in artikel 131, eerste lid, onderdeel a, van de wet wordt opgelegd, het rijbewijs ongeldig wordt verklaard op grond van [artikel 132b, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=132b) of het CBR op grond van [artikel 23, vierde of vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030613&paragraaf=7&artikel=23&z=2015-10-01&g=2015-10-01), afziet van het opleggen van een onderzoek.
+In de gevallen, bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0030613&paragraaf=2&artikel=5&z=2016-01-01&g=2016-01-01), schorst het CBR overeenkomstig [artikel 131, tweede lid, onderdeel a, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=131) de geldigheid van het rijbewijs voor een of meer categorieën van motorrijtuigen, tenzij een educatieve maatregel als bedoeld in artikel 131, eerste lid, onderdeel a, van de wet wordt opgelegd, het rijbewijs ongeldig wordt verklaard op grond van [artikel 132b, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=132b) of het CBR op grond van [artikel 23, vierde of vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030613&paragraaf=7&artikel=23&z=2016-01-01&g=2016-01-01), afziet van het opleggen van een onderzoek.
 
 #### § 3. Lichte educatieve maatregel alcohol en verkeer
 
@@ -159,6 +159,8 @@ Dit onderdeel is nog niet inwerking getreden
 Gelet op de [artikelen 130, eerste en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=130), [131, eerste en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=131), [132, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=132), [132a, tweede, derde en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=132a), [132b, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=132b), [132c, vijfde, zesde, zevende en negende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=132c), [132d, eerste, tweede, derde en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=132d), [133, vierde en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=133), [134, tweede, derde, zevende en achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=134), van de Wegenverkeerswet 1994;
 
 Besluit:
+
+Treedt in werking op het tijdstip waarop de artikelen I, onderdelen A, E tot en met DD, en GG tot en met PP, en II tot en met VIII, van de Wijzigingswet Wegenverkeerswet 1994 (aanpassing Vorderingsprocedure en invoering alcoholslotprogramma) (Stb. 2010/259) in werking treden.
 
 #### § 1. Inleidende bepalingen
 
@@ -212,15 +214,9 @@ Betrokkene verleent onder meer niet de vereiste medewerking aan de educatieve ma
 
 ##### Artikel 10
 
-1. De ten laste van betrokkene komende kosten verbonden aan het opleggen van de lichte educatieve maatregel alcohol en verkeer worden onderscheiden in:
+1. De in [artikel 132a, tweede en derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=132a) bedoelde kosten worden betaald binnen vijf weken nadat het besluit tot oplegging van de lichte educatieve maatregel alcohol en verkeer aan betrokkene bekend is gemaakt, op de wijze zoals aangegeven bij die bekendmaking.
 
-- a. kosten van het opleggen van de maatregel, die € 330,– bedragen en
-
-- b. kosten van de uitvoering van de maatregel, die € 216,– bedragen.
-
-2. Alle in het eerste lid bedoelde kosten worden betaald binnen vijf weken nadat het besluit tot oplegging van de lichte educatieve maatregel alcohol en verkeer aan betrokkene bekend is gemaakt, op de wijze zoals aangegeven bij die bekendmaking.
-
-3. De in het tweede lid bedoelde termijn kan niet worden verlengd.
+2. De in het eerste lid bedoelde termijn kan niet worden verlengd.
 
 ##### Artikel 11
 
@@ -232,11 +228,13 @@ Betrokkene verleent onder meer niet de vereiste medewerking aan de educatieve ma
 
 - c. ten aanzien van betrokkene binnen een periode van vijf jaar tenminste twee maal proces-verbaal opgemaakt op verdenking van overtreding van [artikel 8, tweede, derde of vierde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=8), waarbij bij één van die verdenkingen een adem- of bloedalcoholgehalte is geconstateerd dat hoger is dan 220 µg/l, respectievelijk 0,5‰, dan wel hoger is dan 88 µg/l, respectievelijk 0,2‰ indien een van de feiten is begaan als beginnende bestuurder, of waarbij hij ten minste eenmaal heeft geweigerd mee te werken aan een onderzoek als bedoeld in artikel 8, tweede of derde lid;
 
-- d. betrokkene op grond van [artikel 8, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0030613&paragraaf=3&artikel=8&z=2015-10-01&g=2015-10-01), niet in aanmerking komt voor een lichte educatieve maatregel alcohol en verkeer;
+- d. betrokkene op grond van [artikel 8, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0030613&paragraaf=3&artikel=8&z=2016-01-01&g=2016-01-01), niet in aanmerking komt voor een lichte educatieve maatregel alcohol en verkeer;
 
-- e. betrokkene weigert mee te werken aan een onderzoek als bedoeld in [artikel 8, tweede of derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=8).
+- e. betrokkene weigert mee te werken aan een onderzoek als bedoeld in [artikel 8, tweede of derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=8);
 
-2. [Artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0030613&paragraaf=3&artikel=9&z=2015-10-01&g=2015-10-01) is van overeenkomstige toepassing.
+- f. de uitslag van het ingevolge [artikel 23, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030613&paragraaf=7&artikel=23&z=2016-01-01&g=2016-01-01), opgelegde onderzoek geen aanleiding geeft tot ongeldigverklaring van het rijbewijs.
+
+2. [Artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0030613&paragraaf=3&artikel=9&z=2016-01-01&g=2016-01-01) is van overeenkomstige toepassing.
 
 ##### Artikel 12
 
@@ -260,15 +258,9 @@ Betrokkene komt niet in aanmerking voor de educatieve maatregel alcohol en verke
 
 ##### Artikel 13
 
-1. De ten laste van betrokkene komende kosten verbonden aan het opleggen van de educatieve maatregel alcohol en verkeer worden onderscheiden in:
+1. De in [artikel 132a, tweede en derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=132a) bedoelde kosten worden betaald binnen tien weken nadat het besluit tot oplegging van de educatieve maatregel aan betrokkene bekend is gemaakt, op de wijze zoals aangegeven bij die bekendmaking.
 
-- a. kosten met betrekking tot het opleggen van de maatregel, die € 330,– bedragen en
-
-- b. kosten met betrekking tot de uitvoering van de maatregel, die € 540,– bedragen.
-
-2. Alle in het eerste lid bedoelde kosten worden betaald binnen tien weken nadat het besluit tot oplegging van de educatieve maatregel aan betrokkene bekend is gemaakt, op de wijze zoals aangegeven bij die bekendmaking.
-
-3. Indien betrokkene zich in een dusdanig financiële situatie bevindt dat betaling binnen de termijn redelijkerwijs niet mogelijk is, kan voor de kosten, bedoeld in het eerste lid, onderdeel b, de in het tweede lid genoemde termijn worden verlengd.
+2. Indien betrokkene zich in een dusdanig financiële situatie bevindt dat betaling binnen de termijn redelijkerwijs niet mogelijk is, kan voor de kosten, bedoeld in [artikel 132a, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=132a), de in het eerste lid genoemde termijn worden verlengd.
 
 #### § 5. Educatieve maatregel gedrag en verkeer
 
@@ -276,19 +268,19 @@ Betrokkene komt niet in aanmerking voor de educatieve maatregel alcohol en verke
 
 1. Het CBR besluit tot oplegging van een educatieve maatregel gedrag en verkeer indien:
 
-- a. betrokkene tijdens een rit herhaaldelijk gedragingen heeft verricht als genoemd in de bij deze regeling behorende [bijlage 1, onder A, onderdeel III](https://wetten.overheid.nl/jci1.3:c:BWBR0030613&bijlage=1&z=2015-10-01&g=2015-10-01), Rijgedrag;
+- a. betrokkene tijdens een rit herhaaldelijk gedragingen heeft verricht als genoemd in de bij deze regeling behorende [bijlage 1, onder A, onderdeel III, Rijgedrag](https://wetten.overheid.nl/jci1.3:c:BWBR0030613&bijlage=1&z=2016-01-01&g=2016-01-01);
 
 - b. ten aanzien van betrokkene als bestuurder van een motorrijtuig, niet zijnde een bromfiets of een rijbewijsplichtige landbouw- of bosbouwtrekker of een rijbewijsplichtig motorrijtuig met beperkte snelheid een overschrijding is geconstateerd van de toegestane maximumsnelheid met 50 kilometer of meer op wegen binnen de bebouwde kom;
 
 - c. ten aanzien van betrokkene als bestuurder van een bromfiets of een rijbewijsplichtige landbouw- of bosbouwtrekker of een rijbewijsplichtig motorrijtuig met beperkte snelheid een overschrijding is geconstateerd van de toegestane maximumsnelheid met 31 kilometer of meer op wegen binnen de bebouwde kom;
 
-- d. ten aanzien van betrokkene als bestuurder van een motorrijtuig een overschrijding is geconstateerd van de toegestane maximumsnelheid met 31 kilometer of meer op wegen binnen de bebouwde kom bij wegwerkzaamheden,.
+- d. ten aanzien van betrokkene als bestuurder van een motorrijtuig een overschrijding is geconstateerd van de toegestane maximumsnelheid met 31 kilometer of meer op wegen binnen de bebouwde kom bij wegwerkzaamheden;
 
-- e. de uitslag van het ingevolge [artikel 23, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030613&paragraaf=7&artikel=23&z=2015-10-01&g=2015-10-01), opgelegde onderzoek geen aanleiding geeft tot ongeldigverklaring van het rijbewijs.
+- e. de uitslag van het ingevolge [artikel 23, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030613&paragraaf=7&artikel=23&z=2016-01-01&g=2016-01-01), opgelegde onderzoek of van het ingevolge het derde lid, onderdeel a, opgelegde onderzoek, voor zover dit onderzoek is gebaseerd op [bijlage 1, onder A, onderdeel IV](https://wetten.overheid.nl/jci1.3:c:BWBR0030613&bijlage=1&z=2016-01-01&g=2016-01-01), geen aanleiding geeft tot ongeldigverklaring van het rijbewijs.
 
-2. Het CBR kan afzien van het opleggen van de in het eerste lid bedoelde educatieve maatregel gedrag en verkeer, indien de mededeling, bedoeld in [artikel 130 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=130), is gebaseerd op feiten of omstandigheden, die al eerder hebben geleid tot een mededeling gebaseerd op feiten of omstandigheden als genoemd in [bijlage 1, onderdeel A, subonderdeel IV](https://wetten.overheid.nl/jci1.3:c:BWBR0030613&bijlage=1&z=2015-10-01&g=2015-10-01), en het CBR in het kader van die eerdere mededeling al een onderzoek naar de rijvaardigheid heeft opgelegd.
+2. Het CBR kan afzien van het opleggen van de in het eerste lid bedoelde educatieve maatregel gedrag en verkeer, indien de mededeling, bedoeld in [artikel 130 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=130), is gebaseerd op feiten of omstandigheden, die al eerder hebben geleid tot een mededeling gebaseerd op feiten of omstandigheden als genoemd in [bijlage 1, onderdeel A, subonderdeel IV](https://wetten.overheid.nl/jci1.3:c:BWBR0030613&bijlage=1&z=2016-01-01&g=2016-01-01), en het CBR in het kader van die eerdere mededeling al een onderzoek naar de rijvaardigheid heeft opgelegd.
 
-3. [Artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0030613&paragraaf=3&artikel=9&z=2015-10-01&g=2015-10-01) is van overeenkomstige toepassing.
+3. [Artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0030613&paragraaf=3&artikel=9&z=2016-01-01&g=2016-01-01) is van overeenkomstige toepassing.
 
 ##### Artikel 15
 
@@ -310,13 +302,7 @@ Betrokkene komt niet in aanmerking voor de educatieve maatregel gedrag en verkee
 
 ##### Artikel 16
 
-1. De ten laste van betrokkene komende kosten verbonden aan het opleggen van de educatieve maatregel gedrag en verkeer worden onderscheiden in:
-
-- a. kosten met betrekking tot het opleggen van de maatregel, die € 330,– bedragen en
-
-- b. kosten met betrekking tot de uitvoering van de maatregel, die € 708,– bedragen.
-
-2. [Artikel 13, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030613&paragraaf=4&artikel=13&z=2015-10-01&g=2015-10-01), is van overeenkomstige toepassing.
+[Artikel 13, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030613&paragraaf=4&artikel=13&z=2016-01-01&g=2016-01-01), is van overeenkomstige toepassing.
 
 #### § 6. Alcoholslotprogramma
 
@@ -376,7 +362,7 @@ Betrokkene verleent onder meer niet de vereiste medewerking, bedoeld in [artikel
 
 - a. hij de kosten, bedoeld in [artikel 132c, zesde en zevende lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=132c) niet, niet binnen de gestelde termijn of niet op de voorgeschreven dan wel overeengekomen wijze voldoet;
 
-- b. hij niet of niet binnen de gestelde termijn meewerkt aan de uitlezing van de gegevens uit het alcoholslot, met uitzondering van de in [artikel 19, zesde lid, onderdelen a, b of c](https://wetten.overheid.nl/jci1.3:c:BWBR0030613&paragraaf=6&artikel=19&z=2015-10-01&g=2015-10-01), genoemde gevallen;
+- b. hij niet of niet binnen de gestelde termijn meewerkt aan de uitlezing van de gegevens uit het alcoholslot, met uitzondering van de in [artikel 19, zesde lid, onderdelen a, b of c](https://wetten.overheid.nl/jci1.3:c:BWBR0030613&paragraaf=6&artikel=19&z=2016-01-01&g=2016-01-01), genoemde gevallen;
 
 - c. hij niet of niet binnen de door het CBR gestelde termijn meewerkt aan de vastgestelde bijeenkomsten of begeleidingsafspraken in het kader van het alcoholslotprogramma zonder dat daarvoor tijdig een geldige reden van verhindering is opgegeven;
 
@@ -424,17 +410,9 @@ Betrokkene verleent onder meer niet de vereiste medewerking, bedoeld in [artikel
 
 ##### Artikel 21
 
-1. De ten laste van betrokkene komende kosten verbonden aan het opleggen van het alcoholslotprogramma, voor zover niet betrekking hebbend op de kosten van het huren of kopen, de inbouw, het uitlezen, het testen, het kalibreren, het onderhoud en de uitbouw van het typegoedgekeurde alcoholslot worden onderscheiden in:
+1. De in [artikel 132c, zesde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=132c) bedoelde kosten worden betaald binnen 10 weken nadat het besluit tot oplegging van het alcoholslotprogramma, bedoeld in artikel 132c, eerste lid, van de wet, aan betrokkene bekend is gemaakt, op de wijze zoals aangegeven bij dat besluit.
 
-- a. kosten met betrekking tot het opleggen van het alcoholslotprogramma, die € 330,– bedragen;
-
-- b. kosten met betrekking tot de uitvoering van het alcoholslotprogramma voor de in [artikel 132c, vierde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=132c) bedoelde periode, die € 790,– bedragen;
-
-- c. kosten met betrekking tot de uitvoering van het alcoholslotprogramma voor de in [artikel 132d, tweede of vierde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=132d) bedoelde verlenging, die per verlenging € 177,– bedragen;
-
-- d. kosten verbonden aan het in stand houden van het alcoholslotregister, welke kostenbij of krachtens de [Wegenverkeerswet 1994](https://wetten.overheid.nl/jci1.3:c:BWBR0006622)zijn vastgesteld.
-
-2. De kosten, bedoeld in het eerste lid, worden betaald in termijnen op de wijze zoals door het CBR aangegeven bij het besluit, bedoeld in [artikel 132c, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=132c), dan wel bij het besluit, bedoeld in [artikel 132d, tweede of vierde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=132d).
+2. De in [artikel 132c, zevende lid, onderdeel a, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=132c) bedoelde kosten worden betaald in termijnen op de wijze zoals door het CBR vermeld bij het besluit, bedoeld in artikel 132c, eerste lid, van de wet, dan wel bij het besluit, bedoeld in [artikel 132d, tweede of vierde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=132d).
 
 3. De in het tweede lid bedoelde termijnen kunnen niet worden verlengd.
 
@@ -454,27 +432,27 @@ Het CBR besluit tot verlenging van het alcoholslotprogramma indien uit de in [ar
 
 - c. ten aanzien van betrokkene binnen een periode van vijf jaar tenminste drie maal proces-verbaal is opgemaakt op verdenking van overtreding van [artikel 8, tweede, derde of vierde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=8), waarbij bij één van die verdenkingen een adem- of bloedalcoholgehalte is geconstateerd dat hoger is dan 220 µg/l, respectievelijk 0,5‰, dan wel 88 µg/l, respectievelijk 0,2‰ indien een van de feiten is begaan als beginnende bestuurder, of waarbij hij ten minste eenmaal heeft geweigerd mee te werken aan een onderzoek als bedoeld in dat artikel;
 
-- d. betrokkene niet in aanmerking komt voor een lichte educatieve maatregel alcohol en verkeer, op grond van een of meer van de in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0030613&paragraaf=3&artikel=8&z=2015-10-01&g=2015-10-01) genoemde onderdelen a, b, d, e, f, g, h of i.
+- d. betrokkene niet in aanmerking komt voor een lichte educatieve maatregel alcohol en verkeer, op grond van een of meer van de in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0030613&paragraaf=3&artikel=8&z=2016-01-01&g=2016-01-01) genoemde onderdelen a, b, d, e, f, g, h of i.
 
-- e. betrokkene op grond van [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0030613&paragraaf=4&artikel=12&z=2015-10-01&g=2015-10-01) niet in aanmerking komt voor een educatieve maatregel alcohol en verkeer.
+- e. betrokkene op grond van [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0030613&paragraaf=4&artikel=12&z=2016-01-01&g=2016-01-01) niet in aanmerking komt voor een educatieve maatregel alcohol en verkeer.
 
-2. Het CBR besluit voorts dat betrokkene zich dient te onderwerpen aan een onderzoek naar de rijvaardigheid, meer in het bijzonder het rijgedrag, indien betrokkene op grond van [artikel 15, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0030613&paragraaf=5&artikel=15&z=2015-10-01&g=2015-10-01), niet in aanmerking komt voor een educatieve maatregel gedrag en verkeer.
+2. Het CBR besluit voorts dat betrokkene zich dient te onderwerpen aan een onderzoek naar de rijvaardigheid, meer in het bijzonder het rijgedrag, indien betrokkene op grond van [artikel 15, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0030613&paragraaf=5&artikel=15&z=2016-01-01&g=2016-01-01), niet in aanmerking komt voor een educatieve maatregel gedrag en verkeer.
 
 3. Het CBR besluit ten slotte dat betrokkene zich dient te onderwerpen aan een onderzoek naar de rijvaardigheid dan wel geschiktheid:
 
-- a. in geval van feiten of omstandigheden als genoemd in de bij deze regeling behorende [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0030613&bijlage=1&z=2015-10-01&g=2015-10-01), anders dan die vermeld onder A, onderdeel III, Rijgedrag, of onder B, onderdeel III, Drogerende stoffen ‘Alcohol’, alsmede
+- a. in geval van feiten of omstandigheden als genoemd in de bij deze regeling behorende [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0030613&bijlage=1&z=2016-01-01&g=2016-01-01), anders dan die vermeld onder A, onderdeel III, Rijgedrag, of onder B, onderdeel III, Drogerende stoffen ‘Alcohol’, alsmede
 
-- b. indien betrokkene op grond van [artikel 15, onderdelen a, b, c, e, f of g](https://wetten.overheid.nl/jci1.3:c:BWBR0030613&paragraaf=5&artikel=15&z=2015-10-01&g=2015-10-01), niet in aanmerking komt voor een educatieve maatregel gedrag en verkeer.
+- b. indien betrokkene op grond van [artikel 15, onderdelen a, b, c, e, f of g](https://wetten.overheid.nl/jci1.3:c:BWBR0030613&paragraaf=5&artikel=15&z=2016-01-01&g=2016-01-01), niet in aanmerking komt voor een educatieve maatregel gedrag en verkeer.
 
-4. Indien de mededeling, bedoeld in [artikel 130, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=130) is gedaan op basis van feiten en omstandigheden als genoemd in de bij deze regeling behorende [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0030613&bijlage=1&z=2015-10-01&g=2015-10-01), vermeld onder A, onderdeel IV, Herhaaldelijk niet of niet op de juiste wijze naleven van essentiële verkeersregels dan wel verkeerstekens, kan het CBR besluiten af te zien van het opleggen van een onderzoek, indien daarvoor dringende redenen aanwezig zijn.
+4. Indien de mededeling, bedoeld in [artikel 130, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=130) is gedaan op basis van feiten en omstandigheden als genoemd in de bij deze regeling behorende [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0030613&bijlage=1&z=2016-01-01&g=2016-01-01), vermeld onder A, onderdeel IV, Herhaaldelijk niet of niet op de juiste wijze naleven van essentiële verkeersregels dan wel verkeerstekens, kan het CBR besluiten af te zien van het opleggen van een onderzoek, indien daarvoor dringende redenen aanwezig zijn.
 
-5. Het CBR kan, voor zover het een onderzoek naar de rijvaardigheid betreft, afzien van het opleggen van het in het tweede of het derde lid bedoelde onderzoek, indien de mededeling, bedoeld in [artikel 130 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=130), is gebaseerd op feiten of omstandigheden, die al eerder hebben geleid tot een mededeling gebaseerd op feiten of omstandigheden als genoemd in [bijlage 1, onderdeel A, subonderdeel IV](https://wetten.overheid.nl/jci1.3:c:BWBR0030613&bijlage=1&z=2015-10-01&g=2015-10-01), en het CBR in het kader van die eerdere mededeling al een onderzoek naar de rijvaardigheid heeft opgelegd.
+5. Het CBR kan, voor zover het een onderzoek naar de rijvaardigheid betreft, afzien van het opleggen van het in het tweede of het derde lid bedoelde onderzoek, indien de mededeling, bedoeld in [artikel 130 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=130), is gebaseerd op feiten of omstandigheden, die al eerder hebben geleid tot een mededeling gebaseerd op feiten of omstandigheden als genoemd in [bijlage 1, onderdeel A, subonderdeel IV](https://wetten.overheid.nl/jci1.3:c:BWBR0030613&bijlage=1&z=2016-01-01&g=2016-01-01), en het CBR in het kader van die eerdere mededeling al een onderzoek naar de rijvaardigheid heeft opgelegd.
 
 ##### Artikel 24
 
 Betrokkene verleent onder meer niet de vereiste medewerking aan het onderzoek naar de rijvaardigheid of geschiktheid indien hij:
 
-- a. de kosten bedoeld in [artikel 25, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030613&paragraaf=7&artikel=25&z=2015-10-01&g=2015-10-01), niet, niet tijdig of niet op de voorgeschreven dan wel overeengekomen wijze voldoet, of
+- a. de kosten bedoeld in [artikel 25, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030613&paragraaf=7&artikel=25&z=2016-01-01&g=2016-01-01), niet, niet tijdig of niet op de voorgeschreven dan wel overeengekomen wijze voldoet, of
 
 - b. niet of niet binnen de door het CBR gestelde termijn meewerkt aan het opgelegde onderzoek of de opgelegde onderzoeken zonder dat daarvoor naar het oordeel van het CBR een geldige reden van verhindering is opgegeven.
 
@@ -482,27 +460,21 @@ Betrokkene verleent onder meer niet de vereiste medewerking aan het onderzoek na
 
 1. De kosten verbonden aan een onderzoek naar de geschiktheid komen voor rekening van de betrokken rijbewijshouder:
 
-- a. in de in [artikel 23, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030613&paragraaf=7&artikel=23&z=2015-10-01&g=2015-10-01), bedoelde gevallen, en
+- a. in de in [artikel 23, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030613&paragraaf=7&artikel=23&z=2016-01-01&g=2016-01-01), bedoelde gevallen, en
 
-- b. in de in [artikel 23, derde lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0030613&paragraaf=7&artikel=23&z=2015-10-01&g=2015-10-01), bedoelde gevallen, voor zover het de gevallen betreft, bedoeld in [bijlage 1, onder B, onderdeel III](https://wetten.overheid.nl/jci1.3:c:BWBR0030613&bijlage=1&z=2015-10-01&g=2015-10-01), Andere drogerende stoffen.
+- b. in de in [artikel 23, derde lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0030613&paragraaf=7&artikel=23&z=2016-01-01&g=2016-01-01), bedoelde gevallen, voor zover het de gevallen betreft, bedoeld in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0030613&bijlage=1&z=2016-01-01&g=2016-01-01), onder B, onderdeel III, Andere drogerende stoffen.
 
-2. De in het eerste lid bedoelde kosten worden onderscheiden in:
+2. De kosten worden betaald binnen tien weken nadat het besluit tot oplegging van het onderzoek aan betrokkene is bekendgemaakt, op de wijze zoals vermeld bij dat besluit.
 
-- a. kosten met betrekking tot het opleggen van het onderzoek, die € 330,– bedragen;
+3. Indien betrokkene zich in een zodanige financiële situatie bevindt dat betaling binnen de termijn redelijkerwijs niet mogelijk is, kan de in het tweede lid genoemde termijn worden verlengd.
 
-- b. kosten met betrekking tot de uitvoering van die maatregel, die € 726,– bedragen.
-
-3. [Artikel 13, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030613&paragraaf=4&artikel=13&z=2015-10-01&g=2015-10-01), is van overeenkomstige toepassing.
-
-4. Indien betrokkene niet of niet binnen de door het CBR gestelde termijn heeft meegewerkt aan het opgelegde onderzoek of de opgelegde onderzoeken zonder dat daarvoor naar het oordeel van het CBR een geldige reden voor de verhindering is opgegeven, bedragen de kosten van uitvoering € 517,–. Het verschil tussen het bedrag, genoemd in het tweede lid, onderdeel b, en het in dit lid bedoelde bedrag wordt door het CBR terugbetaald aan degene die het in het tweede lid, onderdeel b, genoemde bedrag heeft betaald.
+4. Het CBR brengt kosten in rekening indien betrokkene niet of niet binnen de door het CBR gestelde termijn heeft meegewerkt aan het onderzoek zonder dat daarvoor naar het oordeel van het CBR een geldige reden van verhindering is opgegeven. In dat geval wordt het verschil tussen de kosten voor het bedoelde onderzoek en de kosten vanwege het niet verschijnen door het CBR terugbetaald aan degene die de in het eerste lid bedoelde kosten heeft betaald.
 
 ##### Artikel 26
 
-1. De kosten van het tweede onderzoek, bedoeld in [artikel 134, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=134) bedragen € 675,–’.
+1. De kosten van het tweede onderzoek, bedoeld in [artikel 134, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=134) worden betaald binnen twee weken na de mededeling van het CBR, bedoeld in artikel 134, derde lid, van de wet, op de wijze zoals bij die mededeling is aangegeven. Deze termijn wordt niet verlengd.
 
-2. De kosten van het tweede onderzoek worden betaald binnen twee weken na de mededeling van het CBR, bedoeld in [artikel 134, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=134), op de wijze zoals bij die mededeling is aangegeven. Deze termijn wordt niet verlengd.
-
-3. Indien betrokkene niet of niet binnen de door het CBR gestelde termijn heeft meegewerkt aan het tweede onderzoek zonder dat daarvoor naar het oordeel van het CBR een geldige reden van verhindering is opgegeven, bedragen de kosten van uitvoering € 517,–. Het verschil tussen het bedrag, bedoeld in het eerste lid, en het in dit lid genoemde bedrag wordt door het CBR terugbetaald aan degene die het in het eerste lid genoemde bedrag heeft betaald.
+2. Het CBR brengt kosten in rekening indien betrokkene niet of niet binnen de door het CBR gestelde termijn heeft meegewerkt aan het tweede onderzoek zonder dat daarvoor naar het oordeel van het CBR een geldige reden van verhindering is opgegeven. In dat geval wordt het verschil tussen de kosten van het bedoelde onderzoek en de kosten vanwege het niet verschijnen door het CBR terugbetaald aan degene die de in het eerste lid bedoelde kosten heeft betaald.
 
 #### § 8. Ongeldigverklaring van het rijbewijs
 
@@ -546,7 +518,7 @@ Feiten dan wel omstandigheden, die een vermoeden rechtvaardigen dat betrokkene n
 
 ### IV. Herhaaldelijk niet of niet op de juiste wijze naleven van essentiële verkeersregels dan wel verkeerstekens
 
-In de hoedanigheid van beginnende bestuurder, onverminderd het overigens in deze bijlage bepaalde, twee maal een of meer van de navolgende feiten hebben begaan waarvoor hij tijdens of na de in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0030613&paragraaf=1&artikel=1&z=2015-10-01&g=2015-10-01), onder beginnende bestuurder, genoemde termijn onherroepelijk is veroordeeld, tenzij voor het feit in eerste instantie een strafbeschikking als bedoeld in [artikel 257b van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=257b) is uitgevaardigd, dan wel indien voor deze feiten tijdens of na die termijn ten aanzien van hem een onherroepelijk geworden strafbeschikking als bedoeld in [artikel 257a van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=257a) is uitgevaardigd:
+In de hoedanigheid van beginnende bestuurder, onverminderd het overigens in deze bijlage bepaalde, twee maal een of meer van de navolgende feiten hebben begaan waarvoor hij tijdens of na de in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0030613&paragraaf=1&artikel=1&z=2016-01-01&g=2016-01-01), onder beginnende bestuurder, genoemde termijn onherroepelijk is veroordeeld, tenzij voor het feit in eerste instantie een strafbeschikking als bedoeld in [artikel 257b van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=257b) is uitgevaardigd, dan wel indien voor deze feiten tijdens of na die termijn ten aanzien van hem een onherroepelijk geworden strafbeschikking als bedoeld in [artikel 257a van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=257a) is uitgevaardigd:
 
 ### B. Geschiktheid
 
