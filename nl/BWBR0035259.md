@@ -4,7 +4,7 @@ identifier: "BWBR0035259"
 country: "nl"
 rank: "wet"
 publication_date: "2016-01-01"
-last_updated: "2015-08-01"
+last_updated: "2016-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0035259"
 soort: "wet"
@@ -71,7 +71,7 @@ Wijzigt de Wet inkomensvoorziening oudere en gedeeltelijk arbeidsongeschikte gew
 
 Wijzigt de Wet op het kindgebonden budget.
 
-##### Artikel VIIa. [Wet werk en arbeidsondersteuning jonggehandicapten](https://wetten.overheid.nl/jci1.3:c:BWBR0008657&wetgeving)
+##### Artikel VIIa. [Wet werk en arbeidsondersteuning jonggehandicapten](https://wetten.overheid.nl/jci1.3:c:BWBR0008657)
 
 Wijzigt de Wet werk en arbeidsondersteuning jonggehandicapten.
 
@@ -103,21 +103,7 @@ Zo is het, dat Wij, de Afdeling advisering van de Raad van State gehoord, en met
 
 ##### Artikel XII. Overgangsrecht
 
-1. Een op 31 december 2014 bestaande tegemoetkoming op grond van de [Regeling tegemoetkoming ouders van thuiswonende gehandicapte kinderen](https://wetten.overheid.nl/jci1.3:c:BWBR0010997&wetgeving) wordt aangemerkt als kinderbijslag als bedoeld in [artikel 7a van de Algemene Kinderbijslagwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002368&artikel=7a).
-
-2. Voor de persoon die op 31 december 2014 recht had op algemene bijstand op grond van de [Wet werk en bijstand](https://wetten.overheid.nl/jci1.3:c:BWBR0015703), de op hem van toepassing zijnde norm een norm voor een alleenstaande ouder was en hij geen aanspraak heeft op de verhoging van het kindgebonden budget, bedoeld in [artikel 2, zesde lid, van de Wet op het kindgebonden budget](https://wetten.overheid.nl/jci1.3:c:BWBR0022751&artikel=2) omdat hij een partner heeft als bedoeld in [artikel 3 van de Algemene wet inkomensafhankelijke regelingen](https://wetten.overheid.nl/jci1.3:c:BWBR0018472&artikel=3), is tot 1 januari 2016 in afwijking van de [artikelen 20 tot en met 22a van de Participatiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&artikel=20), de norm per kalendermaand, indien het betreft:
-
-- a. een persoon van 18, 19 of 20 jaar op wie een norm voor alleenstaande ouders van toepassing is: € 506,78 per 1 juli 2015: € 512,65;
-
-- b. een persoon van 21 jaar of ouder doch jonger dan de pensioengerechtigde leeftijd, die niet met een of meer meerderjarige personen in dezelfde woning zijn hoofdverblijf heeft en op wie een norm voor alleenstaande ouders van toepassing is: € 1.191,18 per 1 juli 2015: € 1.237,67;
-
-- c. een persoon die de pensioengerechtigde leeftijd heeft bereikt, die niet met een of meer meerderjarige personen in dezelfde woning zijn hoofdverblijf heeft en op wie een norm voor alleenstaande ouders van toepassing is: € 1.313,82 per 1 juli 2015: € 1.360,57;
-
-- d. een alleenstaande ouder op wie [artikel 22a, eerste lid, van de Participatiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&artikel=22a) van toepassing is of een gehuwde voor wie op grond van [artikel 24 van de Participatiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&artikel=24) de norm gelijk is aan de norm die voor hem als alleenstaande ouder zou gelden: de norm per kalendermaand als bedoeld in artikel 22a, eerste lid, verhoogd met 20% x de rekennorm, bedoeld in artikel 22a, tweede lid, van de Participatiewet.
-
-3. Onze Minister van Sociale Zaken en Werkgelegenheid kan de bedragen, genoemd in het tweede lid, aanpassen na inwerkingtreding van dit artikel indien het netto minimumloon wijzigt.
-
-4. Dit artikel vervalt met ingang van 1 januari 2016.
+Vervallen
 
 ##### Artikel XIII
 
