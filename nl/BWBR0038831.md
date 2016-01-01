@@ -4,7 +4,7 @@ identifier: "BWBR0038831"
 country: "nl"
 rank: "wet"
 publication_date: "2020-03-01"
-last_updated: "2015-04-01"
+last_updated: "2016-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0038831"
 soort: "wet"
@@ -55,8 +55,6 @@ Wijzigt de Algemene ouderdomswet.
 
 Wijzigt het Burgerlijk Wetboek Boek 7.
 
-Dit onderdeel is nog niet inwerking getreden
-
 ##### Artikel V. [Burgerlijk Wetboek BES Boek 7a](https://wetten.overheid.nl/jci1.3:c:BWBR0028752)
 
 Wijzigt het Burgerlijk Wetboek BES Boek 7a.
@@ -84,8 +82,6 @@ Dit onderdeel is nog niet inwerking getreden
 ##### Artikel IX. [Participatiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0015703)
 
 Wijzigt de Participatiewet.
-
-Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel X. [Remigratiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0010424)
 
@@ -161,8 +157,6 @@ Dit onderdeel is nog niet inwerking getreden
 
 Wijzigt de Wet financiering sociale verzekeringen.
 
-Dit onderdeel is nog niet inwerking getreden
-
 ##### Artikel XX. [Wet inkomensvoorziening oudere en gedeeltelijk arbeidsongeschikte gewezen zelfstandigen](https://wetten.overheid.nl/jci1.3:c:BWBR0004163)
 
 Wijzigt de Wet inkomensvoorziening oudere en gedeeltelijk arbeidsongeschikte gewezen zelfstandigen.
@@ -233,13 +227,9 @@ Dit onderdeel is nog niet inwerking getreden
 
 Wijzigt de Ziektewet.
 
-Dit onderdeel is nog niet inwerking getreden
-
 ##### Artikel XXXIII. Wet van 23 december 2015 houdende wijziging van de Participatiewet, de Ziektewet, de Wet werk en inkomen naar arbeidsvermogen en de Wet financiering sociale verzekeringen in verband met harmonisatie van instrumenten ter bevordering van arbeidsdeelname van arbeidsbeperkten (Stb. 2015, 547)
 
 Wijzigt de Wijzigingswet Participatiewet, enz. (harmonisatie instrumenten ter bevordering van arbeidsdeelname van arbeidsbeperkten)(Stb. 2015/547).
-
-Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel XXXIIIa. Wet van 23 augustus 2016, houdende wijziging van de socialezekerheidswetten in verband met de regeling van de bestuurlijke boete (Stb. 2016, 318)
 
