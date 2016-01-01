@@ -4,7 +4,7 @@ identifier: "BWBR0025921"
 country: "nl"
 rank: "wet"
 publication_date: "2017-09-01"
-last_updated: "2011-01-01"
+last_updated: "2016-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0025921"
 soort: "wet"
@@ -50,7 +50,9 @@ In deze wet wordt verstaan onder verordening: verordening (EG) nr. 1896/2006 van
 
 ##### Artikel 2
 
-Een verzoek om een Europees betalingsbevel als bedoeld in artikel 7 van de verordening wordt gedaan aan de rechtbank. Is het bedrag, bedoeld in artikel 7, tweede lid, onder b, van de verordening, niet hoger dan het bedrag genoemd in [artikel 93 onder a, van het Wetboek van Burgerlijke Rechtsvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&artikel=93) of betreft het een zaak als bedoeld [onder c, van dat artikel](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&artikel=93), dan wordt het verzoek behandeld en wordt daarop beslist door de kantonrechter.
+1. Een verzoek om een Europees betalingsbevel als bedoeld in artikel 7 van de verordening wordt gedaan aan de rechtbank Den Haag.
+
+2. Wordt een verzoek, als bedoeld in het eerste lid, ingediend bij een andere rechtbank dan de rechtbank Den Haag, dan verklaart de rechter zich ambtshalve onbevoegd en verwijst hij de zaak in de stand waarin deze zich bevindt naar de rechtbank Den Haag. De griffier zendt een afschrift van de beschikking, alsmede de op de procedure betrekking hebbende stukken aan de griffier van de rechtbank Den Haag.
 
 ##### Artikel 3
 
@@ -74,9 +76,17 @@ Heeft de verweerder geen bekende woonplaats of bekend werkelijk verblijf in Nede
 
 ##### Artikel 6
 
-1. Op de voortzetting van een procedure na indiening van een verweerschrift, als bedoeld in artikel 17 van de verordening, is [artikel 69 van het Wetboek van Burgerlijke Rechtsvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&artikel=69) van overeenkomstige toepassing. De procedure is aanhangig vanaf de dag van indiening van het verzoek tot uitvaardiging van een Europees betalingsbevel.
+1. Indien de procedure wordt voortgezet na indiening van een verweerschrift, als bedoeld in artikel 17 van de verordening, doet de rechtbank Den Haag een voorstel voor aanwijzing van een rechter die de zaak verder behandelt en bepaalt de rechtbank Den Haag daarbij de termijn waarbinnen de eiser het voorstel kan betwisten door aanwijzing van een andere rechter. Na verloop van deze termijn wordt een afschrift van de aanwijzingsbeslissing per gewone post verzonden aan de eiser en de verweerder. Indien een rechter van een ander gerecht dan de rechtbank Den Haag wordt aangewezen om de zaak verder te behandelen, zendt de griffier een afschrift van de aanwijzingsbeslissing, alsmede de op de procedure betrekking hebbende stukken aan de griffier van het gerecht dat is aangewezen. Indien de verweerder de aanwijzingsbeslissing betwist, wordt deze betwisting behandeld door de rechter die voor de verdere behandeling van de zaak is aangewezen. De rechter die is aangewezen, is niet gebonden aan de aanwijzing.
 
-2. Ongeacht of de verweerder in de voortgezette procedure verschijnt en of hij het griffierecht tijdig heeft voldaan, geldt een vonnis in de voortgezette procedure als een vonnis op tegenspraak en moet hoger beroep tegen een eindbeschikking in de voortgezette procedure door de eiser en de verweerder worden ingesteld binnen drie maanden, te rekenen vanaf de dag van de uitspraak. In zijn bevel inzake de voortzetting neemt de rechter de mededeling, bedoeld in [artikel 111, tweede lid, onderdeel k, van het Wetboek van Burgerlijke Rechtsvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&artikel=111) op en wijst hij de verweerder op de in de vorige zin bedoelde rechtsgevolgen. De verweerder die niet in de voortgezette procedure verschijnt, krijgt de uitspraak toegezonden per gewone post.
+2. In zijn aanwijzingsbeslissing beveelt de rechtbank Den Haag dat de procedure verder wordt behandeld volgens de regels die gelden voor de dagvaardingsprocedure onderscheidenlijk de verzoekschriftprocedure. De procedure is aanhangig vanaf de dag van indiening van het verzoek om een Europees betalingsbevel.
+
+3. Beveelt de rechtbank Den Haag dat de procedure verder wordt behandeld volgens de regels die gelden voor de dagvaardingsprocedure, dan bepaalt hij tevens in de aanwijzingsbeslissing een dag waarop de zaak op de rol komt van de rechter die de zaak verder behandelt voor het stellen van partijen, zonder dat daartoe een dagvaarding of oproeping bij exploot wordt vereist. Verschijnt de verweerder op de bepaalde roldatum niet, dan dient hij alsnog door de eiser bij exploot te worden opgeroepen. Verschijnt de eiser op de bepaalde roldatum niet, dan biedt de rechter die de zaak verder behandelt hem de gelegenheid binnen een termijn van twee weken alsnog te verschijnen. Indien de eiser van de hem geboden gelegenheid geen gebruik maakt, wordt hij geacht de zaak te hebben ingetrokken en wordt hij in de kosten veroordeeld.
+
+4. De rechter die de zaak verder behandelt, stelt partijen in de gelegenheid hun stellingen aan de dan toepasselijke procesregels aan te passen.
+
+5. Tegen een beslissing ingevolge het eerste tot en met het derde lid staat geen hogere voorziening open.
+
+6. Ongeacht of de verweerder in de voortgezette procedure verschijnt en of hij het griffierecht tijdig heeft voldaan, geldt een vonnis in de voortgezette procedure als een vonnis op tegenspraak en moet hoger beroep tegen een eindbeschikking op de voortgezette procedure door de verweerder worden ingesteld binnen drie maanden, te rekenen vanaf de dag van de uitspraak. In zijn aanwijzingsbeslissing neemt de rechtbank Den Haag de mededeling, bedoeld in [artikel 111, tweede lid, onderdeel k, van het Wetboek van Burgerlijke Rechtsvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&artikel=111) op en wijst hij de verweerder op de in de vorige zin bedoelde rechtsgevolgen. De verweerder die niet in de voortgezette procedure verschijnt, krijgt de uitspraak toegezonden per gewone post.
 
 ##### Artikel 7
 
@@ -108,7 +118,7 @@ Op verzoeken betreffende de tenuitvoerlegging als bedoeld in de artikelen 22 en 
 
 ##### Artikel 11
 
-1. Het bedrag, bedoeld in artikel 25, tweede lid, van de verordening, dat in rekening wordt gebracht voor een verzoek om een Europees betalingsbevel, wordt vastgesteld overeenkomstig de [Wet griffierechten burgerlijke zaken](https://wetten.overheid.nl/jci1.3:c:BWBR0028899).
+1. Het bedrag, bedoeld in artikel 25, tweede lid, van de verordening, dat in rekening wordt gebracht voor een verzoek om een Europees betalingsbevel, wordt vastgesteld overeenkomstig de [Wet griffierechten burgerlijke zaken](https://wetten.overheid.nl/jci1.3:c:BWBR0028899). Is het bedrag, bedoeld in artikel 7, tweede lid, onder b, van de verordening, niet hoger dan het bedrag genoemd in [artikel 93 onder a, van het Wetboek van Burgerlijke Rechtsvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&artikel=93) of betreft het een zaak als bedoeld onder c van dat artikel, dan worden de griffierechten voor kantonzaken als bedoeld in de bijlage bij de Wet griffierechten burgerlijke zaken geheven.
 
 2. Van de verweerder wordt geen griffierecht geheven voor de indiening van een verweerschrift als bedoeld in artikel 16 van de verordening.
 
@@ -116,7 +126,7 @@ Op verzoeken betreffende de tenuitvoerlegging als bedoeld in de artikelen 22 en 
 
 ##### Artikel 12
 
-In aanvulling op hetgeen uit de verordening of uit deze wet voortvloeit, zijn de regels inzake de verzoekschriftprocedure van toepassing op een ingediend verzoek om een Europees betalingsbevel.
+In aanvulling op hetgeen uit de verordening of uit deze wet voortvloeit, zijn de regels inzake de verzoekschriftprocedure van toepassing op een ingediend verzoek om een Europees betalingsbevel en op de procedure bedoeld in [artikel 6, eerste tot en met derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025921&artikel=6&z=2016-01-01&g=2016-01-01).
 
 ##### Artikel 13
 
