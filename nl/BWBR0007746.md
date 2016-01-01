@@ -4,7 +4,7 @@ identifier: "BWBR0007746"
 country: "nl"
 rank: "wet"
 publication_date: "2026-01-01"
-last_updated: "2015-01-01"
+last_updated: "2016-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0007746"
 soort: "wet"
@@ -98,25 +98,53 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 - k. fiscale eenheid: een eenheid in de zin van de [artikelen 15](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&artikel=15) en [15a van de Wet op de vennootschapsbelasting 1969](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&artikel=15a);
 
-- l. S&O-inhoudingsplichtige: een inhoudingsplichtige die tevens een onderneming drijft;
+- l. S&O-inhoudingsplichtige: een inhoudingsplichtige die tevens een onderneming drijft, tenzij deze inhoudingsplichtige een publieke kennisinstelling is;
 
-- m. S&O-belastingplichtige: een natuurlijke persoon die voldoet aan het urencriterium, bedoeld in [artikel 3.6 van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.6);
+- m. publieke kennisinstelling:
 
-- n. speur- en ontwikkelingswerk: door een S&O-inhoudingsplichtige, dan wel een S&O-belastingplichtige, systematisch georganiseerde en in een lidstaat van de Europese Unie verrichte werkzaamheden, direct en uitsluitend gericht op:
+- 1°. een instelling voor hoger onderwijs als bedoeld in de onderdelen a, b, c, g, h en i van de [bijlage behorende bij de Wet op het hoger onderwijs en wetenschappelijk onderzoek](onbekend) en een academisch ziekenhuis als bedoeld in onderdeel j van die bijlage;
+
+- 2°. een geheel of gedeeltelijk, meerjarig door de overheid gefinancierde onderzoeksorganisatie zonder winstoogmerk die activiteiten verricht met als doel de algemene wetenschappelijke of technische kennis uit te breiden;
+
+- 3°. een geheel of gedeeltelijk, meerjarig door een andere lidstaat van de Europese Unie gefinancierde openbare instelling voor hoger onderwijs, ziekenhuis of onderzoeksorganisatie die gelijkwaardig is aan een publieke kennisinstelling als bedoeld onder 1° of 2°;
+
+- n. **onderzoeksorganisatie:** een onderzoeksorganisatie als bedoeld in artikel 1.3, onderdeel ee, van de Kaderregeling betreffende staatssteun voor onderzoek, ontwikkeling en innovatie (PbEU 2014, C198/7);
+
+- o. S&O-belastingplichtige: een natuurlijke persoon die voldoet aan het urencriterium, bedoeld in [artikel 3.6 van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.6);
+
+- p. speur- en ontwikkelingswerk: door een S&O-inhoudingsplichtige of een S&O-belastingplichtige systematisch georganiseerde en in een lidstaat van de Europese Unie verrichte werkzaamheden, direct en uitsluitend gericht op:
 
 - 1°. technisch-wetenschappelijk onderzoek;
 
-- 2°. de ontwikkeling van voor de S&O-inhoudingsplichtige of de S&O-belastingplichtige technisch nieuwe (onderdelen van) fysieke producten, (onderdelen van) fysieke productieprocessen, of (onderdelen van) programmatuur;
+- 2°. de ontwikkeling van voor de S&O-inhoudingsplichtige, onderscheidenlijk de S&O-belastingplichtige, technisch nieuwe (onderdelen van) fysieke producten, (onderdelen van) fysieke productieprocessen, of (onderdelen van) programmatuur;
 
-- 3°. het uitvoeren van een systematisch opgezette analyse van de technische haalbaarheid van het zelf verrichten van het speur- en ontwikkelingswerk, bedoeld onder 1°of 2°, of
+- q. programmatuur: het niet-fysieke, logische deelsysteem van een informatiesysteem dat de structuur van de gegevens en van de verwerkingsprocessen bepaalt voor zover dat deelsysteem is vastgelegd in een formele programmeertaal;
 
-- 4°. het uitvoeren van een technisch onderzoek naar een substantiële wijziging van een productiemethode, indien de wijziging kan leiden tot een significante verbetering van het fysieke productieproces dat reeds wordt toegepast in de onderneming van de S&O-inhoudingsplichtige of S&O-belastingplichtige, dan wel naar modellering van processen, indien deze kan leiden tot een significante verbetering van programmatuur die reeds wordt toegepast in de onderneming van de S&O-inhoudingsplichtige of S&O-belastingplichtige.
+- r. S&O-referentiejaar: het tweede kalenderjaar voorafgaande aan het kalenderjaar waarop de S&O-afdrachtvermindering betrekking heeft;
 
-- o. programmatuur: het niet-fysieke, logische deelsysteem van een informatiesysteem dat de structuur van de gegevens en van de verwerkingsprocessen bepaalt;
+- s. S&O-verklaring: de door Onze Minister van Economische Zaken op de voet van [artikel 23](https://wetten.overheid.nl/jci1.3:c:BWBR0007746&hoofdstuk=VIII&artikel=23&z=2016-01-01&g=2016-01-01) aan een S&O-inhoudingsplichtige of [artikel 27](https://wetten.overheid.nl/jci1.3:c:BWBR0007746&hoofdstuk=VIII&artikel=27&z=2016-01-01&g=2016-01-01) aan een S&O-belastingplichtige afgegeven verklaring betreffende speur- en ontwikkelingswerk;
 
-- p. S&O-referentiejaar: het tweede kalenderjaar voorafgaande aan het kalenderjaar waarop de S&O-afdrachtvermindering betrekking heeft;
+- t. kosten: al hetgeen voor de realisatie van speur- en ontwikkelingswerk van de S&O-inhoudingsplichtige is betaald door de S&O-inhoudingsplichtige of door een lichaam dat deel uitmaakt van dezelfde fiscale eenheid als de S&O-inhoudingsplichtige voor zover deze betalingen:
 
-- q. S&O-verklaring: de door Onze Minister van Economische Zaken op de voet van [artikel 23](https://wetten.overheid.nl/jci1.3:c:BWBR0007746&hoofdstuk=VIII&artikel=23&z=2015-01-01&g=2015-01-01) aan een S&O-inhoudingsplichtige of [artikel 27](https://wetten.overheid.nl/jci1.3:c:BWBR0007746&hoofdstuk=VIII&artikel=27&z=2015-01-01&g=2015-01-01) aan een S&O-belastingplichtige afgegeven verklaring betreffende speur- en ontwikkelingswerk.
+- 1°. niet eerder in aanmerking zijn genomen voor een S&O-verklaring;
+
+- 2°. uitsluitend dienstbaar en direct toerekenbaar zijn aan het uitvoeren van speur- en ontwikkelingswerk;
+
+- 3°. drukken op de S&O-inhoudingsplichtige of op een lichaam dat deel uitmaakt van dezelfde fiscale eenheid als de S&O-inhoudingsplichtige; en
+
+- 4°. geen uitgaven zijn als bedoeld in onderdeel u;
+
+- u. uitgaven: al hetgeen is betaald voor de verwerving van nieuw vervaardigde bedrijfsmiddelen voor zover deze betalingen drukken op de S&O-inhoudingsplichtige of op een lichaam dat deel uitmaakt van dezelfde fiscale eenheid als de S&O-inhoudingsplichtige en deze bedrijfsmiddelen:
+
+- 1°. niet eerder in aanmerking zijn genomen voor een S&O-verklaring;
+
+- 2°. niet eerder zijn gebruikt; en
+
+- 3°. dienstbaar en direct toerekenbaar zijn aan de realisatie van speur- en ontwikkelingswerk van de S&O-inhoudingsplichtige;
+
+- v. bedrijfsmiddel: goed dat voor het drijven van een onderneming wordt gebruikt;
+
+- w. uitbesteed onderzoek: werkzaamheden die voor de S&O-inhoudingsplichtige als speur- en ontwikkelingswerk kunnen worden aangemerkt en door deze S&O-inhoudingsplichtige worden uitbesteed aan een derde.
 
 2. Voor toepassing van het eerste lid, onderdeel h, onder 2°, dient:
 
@@ -132,7 +160,7 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 - b. het schip een lengte te hebben van ten minste 24 meter, bepaald op basis van de International Convention on Load Lines.
 
-3. Voor de toepassing van het eerste lid, onderdeel n, wordt niet tot speur- en ontwikkelingswerk gerekend:
+3. Voor de toepassing van het eerste lid, onderdeel p, wordt niet tot speur- en ontwikkelingswerk gerekend:
 
 - a. marktonderzoek;
 
@@ -140,7 +168,7 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 - c. door Onze Minister van Economische Zaken bij ministeriële regeling aangewezen andere werkzaamheden.
 
-4. De ministeriële regelingen, bedoeld in deze wet, worden, voor zover niet anders is bepaald, uitgevaardigd door Onze Minister, wat betreft de regelingen, bedoeld in de [artikelen 17](https://wetten.overheid.nl/jci1.3:c:BWBR0007746&hoofdstuk=VII&artikel=17&z=2015-01-01&g=2015-01-01), [18](https://wetten.overheid.nl/jci1.3:c:BWBR0007746&hoofdstuk=VII&artikel=18&z=2015-01-01&g=2015-01-01) en [20](https://wetten.overheid.nl/jci1.3:c:BWBR0007746&hoofdstuk=VII&artikel=20&z=2015-01-01&g=2015-01-01), in overeenstemming met Onze Minister van Infrastructuur en Milieu en Onze Minister van Sociale Zaken en Werkgelegenheid.
+4. De ministeriële regelingen, bedoeld in deze wet, worden, voor zover niet anders is bepaald, uitgevaardigd door Onze Minister, wat betreft de regelingen, bedoeld in de [artikelen 17](https://wetten.overheid.nl/jci1.3:c:BWBR0007746&hoofdstuk=VII&artikel=17&z=2016-01-01&g=2016-01-01), [18](https://wetten.overheid.nl/jci1.3:c:BWBR0007746&hoofdstuk=VII&artikel=18&z=2016-01-01&g=2016-01-01) en [20](https://wetten.overheid.nl/jci1.3:c:BWBR0007746&hoofdstuk=VII&artikel=20&z=2016-01-01&g=2016-01-01), in overeenstemming met Onze Minister van Infrastructuur en Milieu en Onze Minister van Sociale Zaken en Werkgelegenheid.
 
 ##### Artikel 2
 
@@ -170,9 +198,9 @@ Voor zover loon in aanmerking is genomen voor de toepassing van de S&O-afdrachtv
 
 ##### Artikel 5
 
-1. De afdrachtvermindering zeevaart beloopt een bedrag te bepalen op de voet van [hoofdstuk VII](https://wetten.overheid.nl/jci1.3:c:BWBR0007746&hoofdstuk=VII&z=2015-01-01&g=2015-01-01).
+1. De afdrachtvermindering zeevaart beloopt een bedrag te bepalen op de voet van [hoofdstuk VII](https://wetten.overheid.nl/jci1.3:c:BWBR0007746&hoofdstuk=VII&z=2016-01-01&g=2016-01-01).
 
-2. De S&O-afdrachtvermindering beloopt een bedrag te bepalen op de voet van [hoofdstuk VIII](https://wetten.overheid.nl/jci1.3:c:BWBR0007746&hoofdstuk=VIII&z=2015-01-01&g=2015-01-01).
+2. De S&O-afdrachtvermindering beloopt een bedrag te bepalen op de voet van [hoofdstuk VIII](https://wetten.overheid.nl/jci1.3:c:BWBR0007746&hoofdstuk=VIII&z=2016-01-01&g=2016-01-01).
 
 ##### Artikel 6
 
@@ -268,7 +296,7 @@ Vervallen
 
 ##### Artikel 18
 
-1. Volgens bij ministeriële regeling te stellen regels maakt de inhoudingsplichtige per loontijdvak een berekening van het in [artikel 17, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007746&hoofdstuk=VII&artikel=17&z=2015-01-01&g=2015-01-01), bedoelde loon alsmede het gedeelte van dat loon dat niet in aanmerking is genomen en van het bedrag van de afdrachtvermindering zeevaart.
+1. Volgens bij ministeriële regeling te stellen regels maakt de inhoudingsplichtige per loontijdvak een berekening van het in [artikel 17, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007746&hoofdstuk=VII&artikel=17&z=2016-01-01&g=2016-01-01), bedoelde loon alsmede het gedeelte van dat loon dat niet in aanmerking is genomen en van het bedrag van de afdrachtvermindering zeevaart.
 
 2. De inhoudingsplichtige bewaart en registreert met betrekking tot het schip of de schepen waarop een of meer zeevarenden werkzaam zijn met betrekking tot wie de afdrachtvermindering zeevaart wordt toegepast:
 
@@ -286,7 +314,7 @@ Vervallen
 
 ##### Artikel 19
 
-Indien de inhoudingsplichtige niet voldoet aan de in [artikel 18](https://wetten.overheid.nl/jci1.3:c:BWBR0007746&hoofdstuk=VII&artikel=18&z=2015-01-01&g=2015-01-01) bedoelde verplichtingen, wordt de afdrachtvermindering zeevaart geacht ten onrechte te hebben plaatsgevonden.
+Indien de inhoudingsplichtige niet voldoet aan de in [artikel 18](https://wetten.overheid.nl/jci1.3:c:BWBR0007746&hoofdstuk=VII&artikel=18&z=2016-01-01&g=2016-01-01) bedoelde verplichtingen, wordt de afdrachtvermindering zeevaart geacht ten onrechte te hebben plaatsgevonden.
 
 ##### Artikel 20
 
@@ -306,17 +334,15 @@ Bij ministeriële regeling kunnen regels worden gesteld ter bevordering van een 
 
 1. De S&O-inhoudingsplichtige kan voor een aaneengesloten periode van ten minste drie kalendermaanden en ten hoogste twaalf kalendermaanden vallende binnen één kalenderjaar en in totaal voor niet meer dan drie perioden per kalenderjaar, een S&O-verklaring aanvragen. Een kalendermaand waarop een aanvraag betrekking heeft kan niet meer worden betrokken in een latere aanvraag.
 
-2. Bij ministeriële regeling van Onze Minister van Economische Zaken worden regels gesteld omtrent de inhoud van de aanvraag van een S&O-verklaring en de wijze waarop deze moet worden ingediend, waarbij in het algemeen of voor groepen van gevallen kan worden bepaald dat de aanvraag uitsluitend op elektronische wijze kan worden gedaan.
+2. Een aanvraag als bedoeld in het eerste lid, een opgave als bedoeld in het vierde lid en een mededeling als bedoeld in [artikel 24, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007746&hoofdstuk=VIII&artikel=24&z=2016-01-01&g=2016-01-01), geschieden uitsluitend langs elektronische weg met gebruikmaking van de hiervoor door Onze Minister van Economische Zaken beschikbaar gestelde voorziening en door opvolging van de daarbij opgenomen aanwijzingen.
 
 3. De aanvraag moet worden ingediend ten minste een kalendermaand voorafgaande aan de periode waarop de aanvraag betrekking heeft. De beslissing op de aanvraag wordt gegeven binnen drie kalendermaanden na de aanvang van de periode waarop de aanvraag betrekking heeft. Onze Minister van Economische Zaken kan bij ministeriële regeling in het algemeen of voor groepen van gevallen, een latere datum vaststellen waarop de beslissing op de aanvraag uiterlijk moet zijn gegeven.
 
 4. De aanvraag wordt in de situatie waarin de S&O-inhoudingsplichtige in het S&O-referentiejaar speur- en ontwikkelingswerk heeft verricht waarvoor een S&O-verklaring is verstrekt, slechts in behandeling genomen indien hij uiterlijk bij de indiening van de aanvraag opgave heeft gedaan van de burgerservicenummers van zijn werknemers die dat speur- en ontwikkelingswerk hebben verricht.
 
-5. Bij ministeriële regeling van Onze Minister van Economische Zaken worden regels gesteld omtrent de wijze waarop de opgave van de burgerservicenummers, bedoeld in het vierde lid, moet worden gedaan, waarbij in het algemeen of voor groepen van gevallen kan worden bepaald dat de opgave van die burgerservicenummers uitsluitend op elektronische wijze kan worden gedaan.
-
 ##### Artikel 23
 
-1. Onze Minister van Economische Zaken verstrekt aan een S&O-inhoudingsplichtige die voornemens is in een periode van een kalenderjaar speur- en ontwikkelingswerk te verrichten, op zijn aanvraag op de voet van [artikel 22](https://wetten.overheid.nl/jci1.3:c:BWBR0007746&hoofdstuk=VIII&artikel=22&z=2015-01-01&g=2015-01-01) een S&O-verklaring.
+1. Onze Minister van Economische Zaken verstrekt aan een S&O-inhoudingsplichtige die voornemens is in een periode van een kalenderjaar speur- en ontwikkelingswerk te verrichten, op zijn aanvraag op de voet van [artikel 22](https://wetten.overheid.nl/jci1.3:c:BWBR0007746&hoofdstuk=VIII&artikel=22&z=2016-01-01&g=2016-01-01) een S&O-verklaring.
 
 2. De S&O-verklaring bevat:
 
@@ -324,55 +350,69 @@ Bij ministeriële regeling kunnen regels worden gesteld ter bevordering van een 
 
 - b. de periode waarvoor de S&O-verklaring wordt verstrekt;
 
-- c. het aantal uren dat werknemers van de S&O-inhoudingsplichtige in die periode aan het speur- en ontwikkelingswerk naar verwachting zullen besteden;
+- c. het aantal uren dat werknemers van de S&O-inhoudingsplichtige in die periode aan het werk, bedoeld in onderdeel a, naar verwachting zullen besteden;
 
-- d. het bedrag aan S&O-afdrachtvermindering met een berekening van dat bedrag.
+- d. het bedrag aan kosten en uitgaven dat naar verwachting betrekking heeft op die periode en het werk, bedoeld in onderdeel a, of het bedrag dat voor die periode naar verwachting volgt uit de toepassing van het vierde lid, onderdeel b;
 
-3. Het bedrag aan S&O-afdrachtvermindering beloopt 14 percent van het product van het aantal uren, bedoeld in het tweede lid, onderdeel c, en het gemiddelde uurloon als bedoeld in het vierde lid, vermeerderd met 21 percent van dat product voorzover dat product in het kalenderjaar niet uitgaat boven € 250.000. De vermeerdering met 21 percent blijft achterwege voorzover die vermeerdering reeds toepassing heeft gevonden bij een S&O-verklaring betreffende een eerdere periode van het kalenderjaar.
+- e. het bedrag aan S&O-afdrachtvermindering met een berekening van dat bedrag.
 
-4. Het gemiddelde uurloon wordt gesteld op het uurloon dat de S&O-inhoudingsplichtige in het S&O-referentiejaar gemiddeld heeft betaald aan zijn werknemers die in dat jaar speur- en ontwikkelingswerk hebben verricht waarvoor een S&O-verklaring is verstrekt. Het gemiddelde uurloon wordt daarbij gesteld op de som van de door de S&O-inhoudingsplichtige aan deze werknemers in het S&O-referentiejaar betaalde lonen gedeeld door de som van de in het S&O-referentiejaar door de S&O-inhoudingsplichtige aan deze werknemers verloonde uren nadat de som van de verloonde uren is vermenigvuldigd met 0,85; de uitkomst van deze deling wordt naar boven afgerond op een bedrag in hele euro’s. Het gemiddelde uurloon wordt aldus bepaald aan de hand van de gegevens zoals die blijken uit de polisadministratie van het Uitvoeringsinstituut Werknemersverzekeringen op een bij ministeriële regeling van Onze Minister van Economische Zaken vast te stellen peildatum gelegen in het kalenderjaar volgende op het S&O-referentiejaar. Indien de berekening aan de hand van de gegevens op de peildatum leidt tot een evident onjuist gemiddeld uurloon, wordt het gemiddelde uurloon bepaald aan de hand van de juiste gegevens zoals die blijken na uitvraag daarvan bij de S&O-inhoudingsplichtige door Onze Minister van Economische Zaken. Ingeval de S&O-inhoudingsplichtige in het S&O-referentiejaar geen speur- en ontwikkelingswerk heeft verricht waarvoor hij over een S&O-verklaring beschikt, geldt een gemiddeld uurloon van € 29.
+3. Het bedrag aan S&O-afdrachtvermindering beloopt 16 percent van:
 
-5. Het totaal van de S&O-afdrachtvermindering over een kalenderjaar bedraagt per S&O-inhoudingsplichtige maximaal € 14 000 000 dan wel, ingeval de inhoudingsplichtige deel uitmaakt of in een deel van het kalenderjaar heeft uitgemaakt, van een fiscale eenheid, per fiscale eenheid. In het laatste geval wordt in de S&O-verklaring vastgesteld welk deel van het bedrag van € 14 000 000, betrekking heeft op de S&O-inhoudingsplichtige.
+- a. het bedrag dat volgt uit het product van het aantal uren, bedoeld in het tweede lid, onderdeel c, en het gemiddelde uurloon, bedoeld in het vijfde lid; en
+
+- b. het bedrag aan kosten en uitgaven;
+
+vermeerderd met 16 percent van de som van de bedragen, bedoeld in de onderdelen a en b, voor zover de som van die bedragen in het kalenderjaar niet uitgaat boven € 350 000. De vermeerdering, bedoeld in de eerste volzin, blijft achterwege voor zover die vermeerdering reeds toepassing heeft gevonden bij een S&O-verklaring betreffende een eerdere periode van het kalenderjaar.
+
+4. Indien de S&O-inhoudingsplichtige in de aanvraag van de S&O-verklaring die betrekking heeft op de eerste periode van een kalenderjaar waarvoor de S&O-inhoudingsplichtige een aanvraag doet, gekozen heeft voor het op forfaitaire wijze berekenen van het bedrag aan kosten en uitgaven voor speur- en ontwikkelingswerk, beloopt het bedrag aan S&O-afdrachtvermindering, in afwijking van het derde lid, 16 percent van:
+
+- a. het bedrag dat volgt uit het product van het aantal uren, bedoeld in het tweede lid, onderdeel c, en het gemiddelde uurloon, bedoeld in het vijfde lid; en
+
+- b. het bedrag dat volgt uit het product van € 10 en het aantal uren, bedoeld in het tweede lid, onderdeel c, voor zover dit aantal uren in het kalenderjaar niet hoger is dan 1800 en het bedrag dat volgt uit het product van € 4 en het aantal uren, bedoeld in het tweede lid, onderdeel c, voor zover dit aantal uren in het kalenderjaar hoger is dan 1.800;
+
+vermeerderd met 16 percent van de som van de bedragen, bedoeld in de onderdelen a en b, voor zover de som van die bedragen in het kalenderjaar niet uitgaat boven € 350 .000. De vermeerdering, bedoeld in de eerste volzin, blijft achterwege voor zover die vermeerdering reeds toepassing heeft gevonden bij een S&O-verklaring betreffende een eerdere periode van het kalenderjaar.
+
+5. Het gemiddelde uurloon wordt gesteld op het uurloon dat de S&O-inhoudingsplichtige in het S&O-referentiejaar gemiddeld heeft betaald aan zijn werknemers die in dat jaar speur- en ontwikkelingswerk hebben verricht waarvoor een S&O-verklaring is verstrekt. Het gemiddelde uurloon wordt daarbij gesteld op de som van de door de S&O-inhoudingsplichtige aan deze werknemers in het S&O-referentiejaar betaalde lonen gedeeld door de som van de in het S&O-referentiejaar door de S&O-inhoudingsplichtige aan deze werknemers verloonde uren nadat de som van de verloonde uren is vermenigvuldigd met 0,85; de uitkomst van deze deling wordt naar boven afgerond op een bedrag in hele euro’s. Het gemiddelde uurloon wordt aldus bepaald aan de hand van de gegevens zoals die blijken uit de polisadministratie van het Uitvoeringsinstituut Werknemersverzekeringen op een bij ministeriële regeling van Onze Minister van Economische Zaken vast te stellen peildatum gelegen in het kalenderjaar volgende op het S&O-referentiejaar. Indien de berekening aan de hand van de gegevens op de peildatum leidt tot een evident onjuist gemiddeld uurloon, wordt het gemiddelde uurloon bepaald aan de hand van de juiste gegevens zoals die blijken na uitvraag daarvan bij de S&O-inhoudingsplichtige door Onze Minister van Economische Zaken. Ingeval de S&O-inhoudingsplichtige in het S&O-referentiejaar geen speur- en ontwikkelingswerk heeft verricht waarvoor hij over een S&O-verklaring beschikt, geldt een gemiddeld uurloon van € 29.
 
 6. De inhoudingsplichtige die deel uitmaakt van een fiscale eenheid en voor speur- en ontwikkelingswerk werknemers ter beschikking stelt aan een onderneming binnen die fiscale eenheid, wordt geacht dat speur- en ontwikkelingswerk zelf te verrichten. Op deze inhoudingsplichtige is het bij of krachtens deze wet bepaalde zoveel mogelijk van overeenkomstige toepassing met dien verstande dat de inhoudingsplichtige de verplichtingen in voorkomende gevallen zal doen uitvoeren door de onderneming die het speur- en ontwikkelingswerk uitvoert.
 
-7. Het in het derde lid vermelde percentage van 21 wordt vervangen door 36 indien de S&O-inhoudingsplichtige in een of meer van de vijf voorafgaande kalenderjaren geen inhoudingsplichtige was en voor die periode met betrekking tot ten hoogste twee kalenderjaren een S&O-verklaring is afgegeven. Indien de voor rekening van de inhoudingsplichtige gedreven onderneming een voortzetting is van een onderneming die, of een gedeelte van een onderneming dat direct of indirect is gedreven door een met hem verbonden vennootschap in de zin van [artikel 10a, zevende lid, van de Wet op de loonbelasting 1964](https://wetten.overheid.nl/jci1.3:c:BWBR0002471&artikel=10a), dan wel voor rekening van een natuurlijk persoon die op het moment van aanvraag een aanmerkelijk belang in de zin van de Wet op de inkomstenbelasting 2001 heeft in de inhoudingsplichtige, wordt voor de toepassing van de eerste volzin een ten aanzien van de verbonden vennootschap, onderscheidenlijk natuurlijk persoon, reeds voor de voortzetting afgegeven S&O-verklaring aangemerkt als een ten aanzien van de inhoudingsplichtige afgegeven verklaring. Een S&O-verklaring die is afgegeven voor een deel van een kalenderjaar wordt aangemerkt als een S&O-verklaring afgegeven met betrekking tot een heel kalenderjaar.
+7. Het in het derde en vierde lid laatstvermelde percentage wordt vervangen door 24 indien de S&O-inhoudingsplichtige in een of meer van de vijf voorafgaande kalenderjaren geen inhoudingsplichtige was en voor die periode met betrekking tot ten hoogste twee kalenderjaren een S&O-verklaring is afgegeven. Indien de voor rekening van de inhoudingsplichtige gedreven onderneming een voortzetting is van een onderneming die, of een gedeelte van een onderneming dat direct of indirect is gedreven door een met hem verbonden vennootschap in de zin van [artikel 10a, zevende lid, van de Wet op de loonbelasting 1964](https://wetten.overheid.nl/jci1.3:c:BWBR0002471&artikel=10a), dan wel voor rekening van een natuurlijk persoon die op het moment van aanvraag een aanmerkelijk belang in de zin van de Wet op de inkomstenbelasting 2001 heeft in de inhoudingsplichtige, wordt voor de toepassing van de eerste volzin een ten aanzien van de verbonden vennootschap, onderscheidenlijk natuurlijk persoon, reeds voor de voortzetting afgegeven S&O-verklaring aangemerkt als een ten aanzien van de inhoudingsplichtige afgegeven verklaring. Een S&O-verklaring die is afgegeven voor een deel van een kalenderjaar wordt aangemerkt als een S&O-verklaring afgegeven met betrekking tot een heel kalenderjaar.
 
-8. In afwijking van [artikel 1, eerste lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0007746&hoofdstuk=I&artikel=1&z=2015-01-01&g=2015-01-01), is het loon, bedoeld in het vierde lid, het loon in de zin van de [Wet op de loonbelasting 1964](https://wetten.overheid.nl/jci1.3:c:BWBR0002471), zonder de verminderingen als bedoeld in dat onderdeel.
+8. In afwijking van [artikel 1, eerste lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0007746&hoofdstuk=I&artikel=1&z=2016-01-01&g=2016-01-01), is het loon, bedoeld in het vijfde lid, het loon in de zin van de [Wet op de loonbelasting 1964](https://wetten.overheid.nl/jci1.3:c:BWBR0002471), zonder de verminderingen als bedoeld in dat onderdeel.
+
+9. Kosten en uitgaven kunnen slechts bij één S&O-inhoudingsplichtige tot het bedrag, bedoeld in het derde lid, onderdeel b, gerekend worden.
 
 ##### Artikel 24
 
-1. De S&O-inhoudingsplichtige aan wie een S&O-verklaring is afgegeven, houdt over de periode vermeld in de verklaring een overeenkomstig bij ministeriële regeling van Onze Minister van Economische Zaken vast te stellen regels ingerichte administratie bij omtrent de aard, de inhoud, de omvang en de voortgang van het werk dat in de verklaring is aangemerkt als speur- en ontwikkelingswerk.
+1. De S&O-inhoudingsplichtige aan wie een S&O-verklaring is afgegeven, houdt een overeenkomstig bij regeling van Onze Minister van Economische Zaken vast te stellen regels ingerichte administratie bij omtrent de aard, de inhoud, de omvang en de voortgang van het werk dat in de verklaring is aangemerkt als speur- en ontwikkelingswerk. Ingeval aan de S&O-inhoudingsplichtige een S&O-verklaring is afgegeven die ook een bedrag aan kosten en uitgaven als bedoeld in [artikel 23, tweede lid, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0007746&hoofdstuk=VIII&artikel=23&z=2016-01-01&g=2016-01-01), bevat, houdt de S&O-inhoudingsplichtige ook een overeenkomstig bij regeling van Onze Minister van Economische Zaken vast te stellen regels ingerichte administratie bij omtrent de kosten en uitgaven die zijn gemaakt voor het speur- en ontwikkelingswerk waarvoor hij de verklaring heeft ontvangen.
 
-2. De S&O-inhoudingsplichtige aan wie een S&O-verklaring is afgegeven doet van het aantal uren dat zijn werknemers hebben besteed aan het speur- en ontwikkelingswerk in de periode waarop de verklaring betrekking heeft, mededeling aan Onze Minister van Economische Zaken, indien het aantal bestede uren minder is dan het in de S&O-verklaring opgenomen aantal. Indien het aantal bestede uren aan het speur- en ontwikkelingswerk ten minste gelijk is aan het in de S&O-verklaring opgenomen aantal, doet de S&O-inhoudingsplichtige aan wie de S&O-verklaring is afgegeven daarvan mededeling aan Onze Minister van Economische Zaken.
+2. De S&O-inhoudingsplichtige aan wie een S&O-verklaring is afgegeven, doet mededeling aan Onze Minister van Economische Zaken over de in dat kalenderjaar aan speur- en ontwikkelingswerk bestede uren per afgegeven S&O-verklaring en, ingeval die verklaring ook een bedrag aan kosten en uitgaven als bedoeld in [artikel 23, tweede lid, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0007746&hoofdstuk=VIII&artikel=23&z=2016-01-01&g=2016-01-01), bevat, van de in dat kalenderjaar gerealiseerde kosten en uitgaven per afgegeven S&O-verklaring.
 
 3. De S&O-inhoudingsplichtige doet de mededeling, bedoeld in het tweede lid, gezamenlijk voor alle op een kalenderjaar betrekking hebbende S&O-verklaringen binnen drie kalendermaanden na afloop van het kalenderjaar waarop de in dat lid bedoelde S&O-verklaringen betrekking hebben of, indien dat later is, binnen drie kalendermaanden na de afgifte van de laatste S&O-verklaring die betrekking heeft op dat kalenderjaar.
 
 4. Bij het eindigen van de inhoudingsplicht vóór het tijdstip, bedoeld in het derde lid, wordt in afwijking van dat lid de mededeling gedaan binnen één kalendermaand nadat de inhoudingsplicht is geëindigd.
 
-5. Onze Minister van Economische Zaken kan bij ministeriële regeling nadere regels stellen ten aanzien van de inhoud van de mededeling en de indiening daarvan, waarbij in het algemeen of voor groepen van gevallen kan worden bepaald dat de mededeling uitsluitend op elektronische wijze kan worden gedaan.
-
 ##### Artikel 25
 
-1. Onze Minister van Economische Zaken geeft aan de S&O-inhoudingsplichtige die de mededeling, bedoeld in [artikel 24, tweede lid, eerste volzin](https://wetten.overheid.nl/jci1.3:c:BWBR0007746&hoofdstuk=VIII&artikel=24&z=2015-01-01&g=2015-01-01), deed, een correctie-S&O-verklaring af voor alle op het kalenderjaar betrekking hebbende S&O-verklaringen gezamenlijk, waarbij hij het bedrag van de correctie-S&O-verklaring, gespecificeerd per S&O-verklaring, vaststelt op basis van het volgens de mededeling niet gerealiseerde aantal uren.
+1. Onze Minister van Economische Zaken geeft aan de S&O-inhoudingsplichtige die de mededeling, bedoeld in [artikel 24, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007746&hoofdstuk=VIII&artikel=24&z=2016-01-01&g=2016-01-01), heeft gedaan, zo nodig een correctie-S&O-verklaring af voor alle op het kalenderjaar betrekking hebbende S&O-verklaringen gezamenlijk, waarbij hij het bedrag van de correctie-S&O-verklaring, gespecificeerd per S&O-verklaring, vaststelt op basis van de voor dat kalenderjaar toegekende uren, kosten en uitgaven, maar volgens die mededeling niet-bestede uren en niet-gerealiseerde kosten en uitgaven.
 
 2. Onze Minister van Economische Zaken geeft aan de S&O-inhoudingsplichtige een correctie-S&O-verklaring af met het bedrag dat op de S&O-verklaring ten onrechte is vermeld als bedrag aan S&O-afdrachtvermindering, indien:
 
 - a. aannemelijk is dat ter verkrijging van de S&O-verklaring gegevens of bescheiden zijn verstrekt die zodanig onjuist of onvolledig zijn dat op de aanvraag een andere beslissing zou zijn genomen indien bij de beoordeling daarvan de juiste omstandigheden volledig bekend zouden zijn geweest;
 
-- b. aannemelijk is geworden, dat de S&O-inhoudingsplichtige de verplichting, bedoeld in [artikel 24, tweede lid, eerste volzin](https://wetten.overheid.nl/jci1.3:c:BWBR0007746&hoofdstuk=VIII&artikel=24&z=2015-01-01&g=2015-01-01), niet is nagekomen.
+- b. aannemelijk is geworden, dat de S&O-inhoudingsplichtige de verplichtingen, bedoeld in [artikel 24, tweede, derde of vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007746&hoofdstuk=VIII&artikel=24&z=2016-01-01&g=2016-01-01), niet is nagekomen, met dien verstande dat het bedrag van de correctie-S&O-verklaring wordt vastgesteld op 100% van het bedrag aan S&O-afdrachtvermindering waarvoor de mededeling, bedoeld in artikel 24, tweede lid, niet is gedaan.
 
-3. Onze Minister van Economische Zaken kan, indien blijkt dat de in [artikel 24, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007746&hoofdstuk=VIII&artikel=24&z=2015-01-01&g=2015-01-01), bedoelde administratie niet voldoet aan het bij of krachtens dat artikel bepaalde aan de S&O-inhoudingsplichtige een correctie-S&O-verklaring afgeven tot een omvang waarvan onvoldoende aannemelijk is dat speur- en ontwikkelingswerk zoals opgenomen in de S&O-verklaring, is verricht.
+3. Onze Minister van Economische Zaken kan, indien blijkt dat de in [artikel 24, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007746&hoofdstuk=VIII&artikel=24&z=2016-01-01&g=2016-01-01), bedoelde administratie niet voldoet aan het bij of krachtens dat artikel bepaalde aan de S&O-inhoudingsplichtige een correctie-S&O-verklaring afgeven tot een omvang waarvan onvoldoende aannemelijk is dat speur- en ontwikkelingswerk zoals opgenomen in de S&O-verklaring is verricht of kosten en uitgaven zoals opgenomen in de S&O-verklaring zijn gerealiseerd.
 
 4. Een bedrag vastgesteld bij een correctie-S&O-verklaring komt zoveel mogelijk in mindering op het bij één of meer S&O-verklaringen waarop de correctie-S&O-verklaring betrekking heeft, vastgestelde bedrag aan S&O-afdrachtvermindering dat nog niet in mindering is gebracht op de af te dragen belasting en premie. Voorzover dat niet mogelijk is, is sprake van een negatieve S&O-afdrachtvermindering welke er toe leidt dat de over het aangiftetijdvak waarin de correctie-S&O-verklaring is gedagtekend of het daaropvolgende aangiftetijdvak af te dragen loonbelasting, dan wel af te dragen loonbelasting en premie voor de volksverzekeringen, wordt vermeerderd met dat bedrag aan negatieve S&O-afdrachtvermindering.
 
 ##### Artikel 26
 
-1. Bij overtreding van het bij of krachtens [artikel 24, eerste lid of tweede lid, tweede volzin](https://wetten.overheid.nl/jci1.3:c:BWBR0007746&hoofdstuk=VIII&artikel=24&z=2015-01-01&g=2015-01-01), bepaalde of indien sprake is van het geval, bedoeld in [artikel 25, tweede lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0007746&hoofdstuk=VIII&artikel=25&z=2015-01-01&g=2015-01-01), kan Onze Minister van Economische Zaken aan de S&O-inhoudingsplichtige een bestuurlijke boete opleggen ter hoogte van maximaal € 100 000, of, wanneer dat meer is, 20% van het in de S&O-verklaring als afdrachtvermindering vastgestelde bedrag.
+1. Bij overtreding van het bij of krachtens [artikel 24, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007746&hoofdstuk=VIII&artikel=24&z=2016-01-01&g=2016-01-01), bepaalde of indien sprake is van het geval, bedoeld in [artikel 25, tweede lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0007746&hoofdstuk=VIII&artikel=25&z=2016-01-01&g=2016-01-01), kan Onze Minister van Economische Zaken aan de S&O-inhoudingsplichtige een bestuurlijke boete opleggen ter hoogte van maximaal € 100 000, of, wanneer dat meer is, 20% van het in de S&O-verklaring als afdrachtvermindering vastgestelde bedrag.
 
-2. Bij overtreding van het bij of krachtens [artikel 24, tweede lid, eerste volzin, of derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007746&hoofdstuk=VIII&artikel=24&z=2015-01-01&g=2015-01-01), bepaalde, legt Onze Minister van Economische Zaken aan de S&O-inhoudingsplichtige een bestuurlijke boete op ter hoogte van het bedrag van de correctie-S&O-verklaring die is vastgesteld op de voet van [artikel 25, tweede lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0007746&hoofdstuk=VIII&artikel=25&z=2015-01-01&g=2015-01-01). Onze Minister van Economische Zaken kan de boete lager vaststellen op grond van geringe ernst van de overtreding.
+2. Bij overtreding van het bij of krachtens [artikel 24, tweede, derde of vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007746&hoofdstuk=VIII&artikel=24&z=2016-01-01&g=2016-01-01), bepaalde, legt Onze Minister van Economische Zaken aan de S&O-inhoudingsplichtige een bestuurlijke boete op ter hoogte van het bedrag van de correctie-S&O-verklaring die is vastgesteld op de voet van [artikel 25, tweede lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0007746&hoofdstuk=VIII&artikel=25&z=2016-01-01&g=2016-01-01). Onze Minister van Economische Zaken kan de boete lager vaststellen op grond van geringe ernst van de overtreding.
 
-3. Onze Minister van Economische Zaken brengt opgelegde boeten tot uitdrukking door deze op te nemen in een correctie-S&O-verklaring. [Artikel 25, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007746&hoofdstuk=VIII&artikel=25&z=2015-01-01&g=2015-01-01), is van overeenkomstige toepassing.
+3. Onze Minister van Economische Zaken brengt opgelegde boeten tot uitdrukking door deze op te nemen in een correctie-S&O-verklaring. [Artikel 25, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007746&hoofdstuk=VIII&artikel=25&z=2016-01-01&g=2016-01-01), is van overeenkomstige toepassing.
 
 ### Hoofdstuk VIIIA. Arbo-afdrachtvermindering
 
@@ -398,17 +438,17 @@ Vervallen
 
 5. [Artikel 3.6, vijfde lid, van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.6) is van overeenkomstige toepassing.
 
-6. [Artikel 24, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007746&hoofdstuk=VIII&artikel=24&z=2015-01-01&g=2015-01-01), is van overeenkomstige toepassing met betrekking tot de S&O-belastingplichtige aan wie een S&O-verklaring is afgegeven.
+6. [Artikel 24, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007746&hoofdstuk=VIII&artikel=24&z=2016-01-01&g=2016-01-01), is van overeenkomstige toepassing met betrekking tot de S&O-belastingplichtige aan wie een S&O-verklaring is afgegeven.
 
 7. Onze Minister van Economische Zaken trekt de S&O-verklaring in indien:
 
-- a. blijkt dat de in [artikel 24, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007746&hoofdstuk=VIII&artikel=24&z=2015-01-01&g=2015-01-01), bedoelde administratie niet voldoet aan het bij of krachtens dat artikel bepaalde;
+- a. blijkt dat de in [artikel 24, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007746&hoofdstuk=VIII&artikel=24&z=2016-01-01&g=2016-01-01), bedoelde administratie niet voldoet aan het bij of krachtens dat artikel bepaalde;
 
 - b. de S&O-belastingplichtige de mededeling, bedoeld in het vierde lid, deed, of aannemelijk is dat hij dat had behoren te doen;
 
 - c. aannemelijk is dat ter verkrijging van de S&O-verklaring gegevens of bescheiden zijn verstrekt die zodanig onjuist of onvolledig zijn dat op de aanvraag een andere beslissing zou zijn genomen indien bij de beoordeling daarvan de juiste omstandigheden volledig bekend zouden zijn geweest.
 
-8. Bij ministeriële regeling van Onze Minister van Economische Zaken worden regels gesteld omtrent de inhoud van de aanvraag en de wijze waarop deze moet worden ingediend. Onze Minister van Economische Zaken kan bij ministeriële regeling nadere regels stellen ten aanzien van de inhoud van de mededeling, bedoeld in het vierde lid, en de indiening daarvan.
+8. Een aanvraag als bedoeld in het eerste lid en een mededeling als bedoeld in het vierde lid geschieden uitsluitend langs elektronische weg met gebruikmaking van de hiervoor door Onze Minister van Economische Zaken beschikbaar gestelde voorziening en door opvolging van de daarbij opgenomen aanwijzingen.
 
 ##### Artikel 28
 
@@ -420,11 +460,11 @@ Vervallen
 
 Teneinde zo veel mogelijk evenwicht te bereiken tussen de S&O-afdrachtverminderingen en het hiervoor in de rijksbegroting opgenomen bedrag, kan bij regeling van Onze Minister van Economische Zaken, onder overeenkomstige aanpassing van dit artikel, met ingang van 1 januari van enig jaar:
 
-- a. het in [artikel 23, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007746&hoofdstuk=VIII&artikel=23&z=2015-01-01&g=2015-01-01), vermelde percentage van 14, worden verhoogd tot ten hoogste 25, worden verlaagd, dan wel op nihil worden gesteld;
+- a. het in [artikel 23, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007746&hoofdstuk=VIII&artikel=23&z=2016-01-01&g=2016-01-01), eerstvermelde percentage worden verhoogd tot ten hoogste 25, worden verlaagd, dan wel op nihil worden gesteld;
 
-- b. het in [artikel 23, derde en zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007746&hoofdstuk=VIII&artikel=23&z=2015-01-01&g=2015-01-01), vermelde percentage van 21, worden verhoogd tot ten hoogste 33,5, worden verlaagd, dan wel op nihil worden gesteld;
+- b. het in [artikel 23, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007746&hoofdstuk=VIII&artikel=23&z=2016-01-01&g=2016-01-01), laatstvermelde percentage worden verhoogd tot ten hoogste 33,5, worden verlaagd, dan wel op nihil worden gesteld;
 
-- c. het in [artikel 23, zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007746&hoofdstuk=VIII&artikel=23&z=2015-01-01&g=2015-01-01), vermelde percentage van 36, worden verhoogd tot ten hoogste 46, worden verlaagd, dan wel op nihil worden gesteld.
+- c. het in [artikel 23, zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007746&hoofdstuk=VIII&artikel=23&z=2016-01-01&g=2016-01-01), vermelde percentage worden verhoogd tot ten hoogste 46, worden verlaagd, dan wel op nihil worden gesteld.
 
 De nieuwe percentages gelden met betrekking tot S&O-verklaringen die betrekking hebben op een periode die aanvangt op of na de dag waarop de wijziging in werking treedt.
 
@@ -436,11 +476,11 @@ De nieuwe percentages gelden met betrekking tot S&O-verklaringen die betrekking 
 
 2. Voor de toepassing van de [artikelen 63](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=63) en [67 van de Algemene wet inzake rijksbelastingen](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=67) betreffende de uitvoering van deze wet door Onze Minister van Economische Zaken of de door hem aangewezen ambtenaren, treedt Onze Minister van Economische Zaken in de plaats van Onze Minister.
 
-3. Tegen een uitspraak van het College van Beroep voor het bedrijfsleven kunnen de belanghebbende en het bestuursorgaan beroep in cassatie instellen ter zake van schending van de [artikelen 1](https://wetten.overheid.nl/jci1.3:c:BWBR0007746&hoofdstuk=I&artikel=1&z=2015-01-01&g=2015-01-01) en [2](https://wetten.overheid.nl/jci1.3:c:BWBR0007746&hoofdstuk=I&artikel=2&z=2015-01-01&g=2015-01-01) met betrekking tot het bepaalde omtrent de begrippen 'inhoudingsplichtige', 'aangiftetijdvak', 'loon', 'onderneming', 'fiscale eenheid' en 'werknemer'.
+3. Tegen een uitspraak van het College van Beroep voor het bedrijfsleven kunnen de belanghebbende en het bestuursorgaan beroep in cassatie instellen ter zake van schending van de [artikelen 1](https://wetten.overheid.nl/jci1.3:c:BWBR0007746&hoofdstuk=I&artikel=1&z=2016-01-01&g=2016-01-01) en [2](https://wetten.overheid.nl/jci1.3:c:BWBR0007746&hoofdstuk=I&artikel=2&z=2016-01-01&g=2016-01-01) met betrekking tot het bepaalde omtrent de begrippen 'inhoudingsplichtige', 'aangiftetijdvak', 'loon', 'onderneming', 'fiscale eenheid' en 'werknemer'.
 
 4. Op dit beroep zijn de voorschriften betreffende het beroep in cassatie tegen uitspraken van de gerechtshoven inzake beroepen in belastingzaken van overeenkomstige toepassing, waarbij het College van Beroep voor het bedrijfsleven de plaats inneemt van een gerechtshof.
 
-### Hoofdstuk XI. Aanvullende regelingen
+### Hoofdstuk IX. Bestuurlijke boeten inzake speur- en ontwikkelingswerk
 
 ##### Artikel 30a
 
@@ -516,11 +556,17 @@ De Wet bevordering speur- en ontwikkelingswerk wordt ingetrokken.
 
 ##### Artikel 47
 
-1. Met betrekking tot de toepassing van deze wet terzake van speur- en ontwikkelingswerk dat is verricht voor 1 januari 2006, blijven de bepalingen bij of krachtens de [hoofdstukken VIII](https://wetten.overheid.nl/jci1.3:c:BWBR0007746&hoofdstuk=VIII&z=2015-01-01&g=2015-01-01) en [IX](https://wetten.overheid.nl/jci1.3:c:BWBR0007746&hoofdstuk=IX&z=2015-01-01&g=2015-01-01) zoals deze luidden voor de wijzigingen ingevolge het [Belastingplan 2006](https://wetten.overheid.nl/jci1.3:c:BWBR0019286), van toepassing.
+1. Voor de toepassing van [artikel 1, eerste lid, onderdeel t, onder 1°, en onderdeel u, onder 1°](https://wetten.overheid.nl/jci1.3:c:BWBR0007746&hoofdstuk=I&artikel=1&z=2016-01-01&g=2016-01-01), worden onder kosten en uitgaven die eerder in aanmerking zijn genomen voor een S&O-verklaring mede verstaan: kosten en uitgaven die eerder in aanmerking zijn genomen voor een beschikking als bedoeld in [artikel 3.52a, eerste lid, van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.52a) zoals deze luidde tot en met 31 december 2015.
 
-2. Aanvragen voor een S&O-verklaring met betrekking tot kalendermaanden in 2006 die zijn of worden ingediend op de voet van [artikel 24, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007746&hoofdstuk=VIII&artikel=24&z=2015-01-01&g=2015-01-01), zoals dat luidde voor de wijzigingen ingevolge het Belastingplan 2006, worden behandeld als aanvragen die zijn ingediend met inachtneming van [artikel 22, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007746&hoofdstuk=VIII&artikel=22&z=2015-01-01&g=2015-01-01), of, indien de aanvrager een S&O-belastingplichtige is, [artikel 27, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007746&hoofdstuk=VIII&artikel=27&z=2015-01-01&g=2015-01-01), zoals deze luiden na de wijzigingen ingevolge het [Belastingplan 2006](https://wetten.overheid.nl/jci1.3:c:BWBR0019286).
+2. In afwijking van het eerste lid en [artikel 1, eerste lid, onderdeel u](https://wetten.overheid.nl/jci1.3:c:BWBR0007746&hoofdstuk=I&artikel=1&z=2016-01-01&g=2016-01-01), wordt onder uitgaven mede verstaan 20% van de uitgaven van € 1.000.000 of meer per bedrijfsmiddel die in aanmerking zijn genomen voor een beschikking als bedoeld in [artikel 3.52a, eerste lid, van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.52a) zoals deze luidde tot en met 31 december 2015, voor zover deze uitgaven:
 
-3. Met betrekking tot aanvragen als bedoeld in het tweede lid, is voor de wijze van indiening en de inhoud van de aanvragen van toepassing hetgeen is bepaald bij of krachtens [artikel 24](https://wetten.overheid.nl/jci1.3:c:BWBR0007746&hoofdstuk=VIII&artikel=24&z=2015-01-01&g=2015-01-01) zoals dat luidde voor de wijzigingen ingevolge het [Belastingplan 2006](https://wetten.overheid.nl/jci1.3:c:BWBR0019286).
+- a. zijn betaald door de S&O-inhoudingsplichtige of door een lichaam dat deel uitmaakt van dezelfde fiscale eenheid als de S&O-inhoudingsplichtige;
+
+- b. dienstbaar zijn aan speur- en ontwikkelingswerk van de S&O-inhoudingsplichtige; en
+
+- c. niet in meer dan vier voorgaande kalenderjaren in een beschikking als bedoeld in [artikel 3.52a, eerste lid, van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.52a) zoals deze luidde tot en met 31 december 2015 of in een S&O-verklaring zijn opgenomen.
+
+3. Met betrekking tot de toepassing van deze wet ter zake van speur- en ontwikkelingswerk dat is verricht voor 1 januari 2016, blijven de bepalingen bij of krachtens de [hoofdstukken I](https://wetten.overheid.nl/jci1.3:c:BWBR0007746&hoofdstuk=I&z=2016-01-01&g=2016-01-01), [VIII](https://wetten.overheid.nl/jci1.3:c:BWBR0007746&hoofdstuk=VIII&z=2016-01-01&g=2016-01-01) en [XII](https://wetten.overheid.nl/jci1.3:c:BWBR0007746&hoofdstuk=XII&z=2016-01-01&g=2016-01-01) zoals deze luidden voor de wijzigingen ingevolge het [Belastingplan 2016](https://wetten.overheid.nl/jci1.3:c:BWBR0036644) van toepassing.
 
 ##### Artikel 48
 
@@ -596,4 +642,54 @@ Vervallen
 
 ### Hoofdstuk XI. Aanvullende regelingen
 
+### Hoofdstuk XI. Aanvullende regelingen
+
+##### Artikel 23a
+
+1. Uitgaven die gedeeltelijk direct toerekenbaar zijn aan door de S&O-inhoudingsplichtige verricht speur- en ontwikkelingswerk, komen slechts voor dat deel als uitgaven als bedoeld in [artikel 23, derde lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0007746&hoofdstuk=VIII&artikel=23&z=2016-01-01&g=2016-01-01), in aanmerking.
+
+2. Een uitgave kan slechts in één S&O-verklaring worden opgenomen.
+
+3. Uitgaven van € 1.000.000 of meer per bedrijfsmiddel komen in enig kalenderjaar voor 20 percent als uitgaven als bedoeld in [artikel 23, derde lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0007746&hoofdstuk=VIII&artikel=23&z=2016-01-01&g=2016-01-01), in aanmerking.
+
+4. In afwijking van het tweede lid kunnen uitgaven als bedoeld in het derde lid gedurende 5 jaar maximaal eenmaal per kalenderjaar in een S&O-verklaring worden opgenomen.
+
+##### Artikel 23b
+
+1. Voor de toepassing van dit hoofdstuk worden niet tot de kosten gerekend:
+
+- a. kosten van uitbesteed onderzoek;
+
+- b. kosten van inhuur van arbeid;
+
+- c. financieringskosten;
+
+- d. kosten van grondverwerving of grondverbetering;
+
+- e. kosten die een vergoeding vormen voor het ter beschikking stellen van een bedrijfsmiddel waarvoor de S&O-inhoudingsplichtige of een ander lichaam eerder een S&O-verklaring heeft ontvangen, mits:
+
+- 1°. de S&O-inhoudingsplichtige of het lichaam dat de kosten maakt onmiddellijk of middellijk deelneemt aan de leiding van of het toezicht op, dan wel in het kapitaal van het lichaam dat het bedrijfsmiddel ter beschikking stelt;
+
+- 2°. het lichaam dat het bedrijfsmiddel ter beschikking stelt onmiddellijk of middellijk deelneemt aan de leiding van of het toezicht op, dan wel in het kapitaal van de S&O-inhoudingsplichtige of het lichaam dat de kosten maakt; of
+
+- 3°. een derde zowel onmiddellijk of middellijk deelneemt aan de leiding van of het toezicht op, dan wel in het kapitaal van de S&O-inhoudingsplichtige of het lichaam dat de kosten maakt als onmiddellijk of middellijk deelneemt aan de leiding van of het toezicht op, dan wel in het kapitaal van het lichaam dat het bedrijfsmiddel ter beschikking stelt;
+
+- f. loonkosten.
+
+2. Voor de toepassing van dit hoofdstuk worden niet tot de uitgaven gerekend investeringen die in aanmerking komen voor energie-investeringsaftrek als bedoeld in [artikel 3.42 van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.42) of voor milieu-investeringsaftrek als bedoeld in [artikel 3.42a van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.42a).
+
+##### Artikel 23c
+
+Indien tussen twee lichamen waarvan een van de lichamen onmiddellijk of middellijk deelneemt aan de leiding van of toezicht op, dan wel in het kapitaal van het andere lichaam ter zake van hun onderlinge rechtsverhoudingen voorwaarden worden overeengekomen of opgelegd die afwijken van voorwaarden die in het economische verkeer door onafhankelijke partijen zouden zijn overeengekomen, worden de kosten en uitgaven van deze lichamen voor de toepassing van dit hoofdstuk en de daarop berustende bepalingen bepaald alsof die laatstbedoelde voorwaarden zijn overeengekomen. De eerste volzin is van overeenkomstige toepassing indien een derde onmiddellijk of middellijk deelneemt aan de leiding van of het toezicht op, dan wel in het kapitaal van twee lichamen.
+
+##### Artikel 23d
+
+1. Kosten die in enig kalenderjaar in een S&O-verklaring zijn opgenomen worden betaald voordat de mededeling, bedoeld in [artikel 24, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007746&hoofdstuk=VIII&artikel=24&z=2016-01-01&g=2016-01-01), voor deze S&O-verklaring wordt gedaan.
+
+2. Uitgaven worden niet eerder in aanmerking genomen dan in het kalenderjaar waarin het bedrijfsmiddel waarop zij betrekking hebben in gebruik is genomen.
+
+### Hoofdstuk X. Bijzondere bepalingen inzake beroep en bevoegdheden
+
 ### Hoofdstuk XII. Overgangs- en slotbepalingen
+
+Lasten en bevelen dat deze in het **Staatsblad** zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
