@@ -4,7 +4,7 @@ identifier: "BWBR0019305"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2020-09-01"
-last_updated: "2015-07-01"
+last_updated: "2016-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0019305"
 soort: "ministeriele-regeling"
@@ -114,7 +114,7 @@ Vervallen
 
 ##### Artikel 7. Vrijstelling om andere redenen
 
-Van de verplichtingen, bedoeld in de [artikelen 24, eerste lid, onderdeel b, onder 1°, 2° en 4°](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&artikel=24), [26, eerste lid, onderdelen d, f en g, van de WW](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&artikel=26) en [14, tweede lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0024394&artikel=14), en [15, onderdelen a tot en met e, van de IOW](https://wetten.overheid.nl/jci1.3:c:BWBR0024394&artikel=15), [30, eerste lid, van de ZW](https://wetten.overheid.nl/jci1.3:c:BWBR0001888&artikel=30), of de verplichtingen, bedoeld in [artikel 30, eerste lid, van de Wet WIA](https://wetten.overheid.nl/jci1.3:c:BWBR0019057&artikel=30), is vrijgesteld de uitkeringsgerechtigde die 64 jaar of ouder is op de eerste dag van werkloosheid respectievelijk op de eerste dag dat hij recht heeft op een WGA-uitkering.
+Van de verplichtingen, bedoeld in de [artikelen 24, eerste lid, onderdeel b, onder 1°, 2° en 4°](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&artikel=24) en [26, eerste lid, onderdelen d, f, en g, van de WW](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&artikel=26), [14, tweede lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0024394&artikel=14), en [15, onderdelen a tot en met e, van de IOW](https://wetten.overheid.nl/jci1.3:c:BWBR0024394&artikel=15), [30, eerste lid, van de ZW](https://wetten.overheid.nl/jci1.3:c:BWBR0001888&artikel=30) en [30, eerste lid, van de Wet WIA](https://wetten.overheid.nl/jci1.3:c:BWBR0019057&artikel=30), is vrijgesteld de uitkeringsgerechtigde die op de eerste dag van werkloosheid of ziekte respectievelijk op de eerste dag dat hij recht heeft op een WGA-uitkering, de leeftijd heeft bereikt waarop hij binnen een jaar de pensioengerechtigde leeftijd bereikt, bedoeld in [artikel 7a van de Algemene Ouderdomswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002221&artikel=7a).
 
 ##### Artikel 8. Overgangsbepaling in verband met de [Werkloosheidswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004045)
 
@@ -166,7 +166,7 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 ##### Artikel 1a. Aanvulling wettelijke grondslag
 
-Deze regeling berust mede op de [artikelen 16, eerste lid, van de IOW](https://wetten.overheid.nl/jci1.3:c:BWBR0024394&artikel=16) en [30aa, tweede lid, van de ZW](https://wetten.overheid.nl/jci1.3:c:BWBR0001888&artikel=30aa).
+Deze regeling berust mede op de [artikelen 16, eerste lid, van de IOW](https://wetten.overheid.nl/jci1.3:c:BWBR0024394&artikel=16)[19, achtste lid, van de WW](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&artikel=19) en [30aa, tweede lid, van de ZW](https://wetten.overheid.nl/jci1.3:c:BWBR0001888&artikel=30aa).
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
