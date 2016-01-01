@@ -4,7 +4,7 @@ identifier: "BWBR0013131"
 country: "nl"
 rank: "amvb"
 publication_date: "2020-10-01"
-last_updated: "2015-01-01"
+last_updated: "2016-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0013131"
 soort: "AMvB"
@@ -92,7 +92,7 @@ Hebben goedgevonden en verstaan:
 
 4. In afwijking van het tweede lid worden de in de op de [Ambtenarenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0001947) berustende bepalingen aan Onze Minister toegekende bevoegdheden tot het stellen van regels, de daarin aan Onze Minister toegekende bevoegdheden tot het verlenen van mandaat van een bevoegdheid tot het stellen van regels met een sterk technisch karakter, de daarin aan Onze Minister toegekende bevoegdheden tot het doen van een voordracht voor een regeling, alsmede de in de [artikelen 113 tot en met 117 van het Algemeen Rijksambtenarenreglement](https://wetten.overheid.nl/jci1.3:c:BWBR0001950&artikel=113) aan Onze Minister toegekende bevoegdheden, ten aanzien van de niet-rechterlijke leden van de gerechtsbesturen uitgeoefend door de Raad voor de rechtspraak.
 
-5. Het eerste, tweede en vierde lid zijn van overeenkomstige toepassing op de uitoefening van de bevoegdheden in de ingevolge [artikel 1, negende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013131&artikel=1&z=2015-01-01&g=2015-01-01), overeenkomstig toepasselijke bepalingen van het [Bezoldigingsbesluit Burgerlijke Rijksambtenaren 1984](https://wetten.overheid.nl/jci1.3:c:BWBR0003630).
+5. Het eerste, tweede en vierde lid zijn van overeenkomstige toepassing op de uitoefening van de bevoegdheden in de ingevolge [artikel 1, negende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013131&artikel=1&z=2016-08-23&g=2016-01-01), overeenkomstig toepasselijke bepalingen van het [Bezoldigingsbesluit Burgerlijke Rijksambtenaren 1984](https://wetten.overheid.nl/jci1.3:c:BWBR0003630).
 
 6. [Artikel 98, eerste lid, onderdeel g, van het Algemeen Rijksambtenarenreglement](https://wetten.overheid.nl/jci1.3:c:BWBR0001950&artikel=98) is niet van toepassing op de niet-rechterlijke leden van de Raad voor de rechtspraak en de niet-rechterlijke leden van de gerechtsbesturen.
 
@@ -136,13 +136,13 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 ##### Artikel 9a
 
-1. De persoon, bedoeld in [artikel 9, eerste of tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013131&artikel=9&z=2015-01-01&g=2015-01-01), heeft, wanneer hij voor meer dan 50% van een volledige arbeidsduur ongeschikt is tot het verrichten van zijn arbeid wegens ziekte, maar niet volledig arbeidsongeschikt is, in afwijking van artikel 9, eerste en tweede lid, na ommekomst van het kalenderjaar waarin de ongeschiktheid is aangevangen en het kalenderjaar daaropvolgend, aanspraak op een onkostenvergoeding die een met zijn arbeidsduur overeenkomend deel bedraagt van de vergoeding die hij zou hebben ontvangen indien hij in het geheel niet ongeschikt tot het verrichten van zijn arbeid wegens ziekte zou zijn.
+1. De persoon, bedoeld in [artikel 9, eerste of tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013131&artikel=9&z=2016-08-23&g=2016-01-01), heeft, wanneer hij voor meer dan 50% van een volledige arbeidsduur ongeschikt is tot het verrichten van zijn arbeid wegens ziekte, maar niet volledig arbeidsongeschikt is, in afwijking van artikel 9, eerste en tweede lid, na ommekomst van het kalenderjaar waarin de ongeschiktheid is aangevangen en het kalenderjaar daaropvolgend, aanspraak op een onkostenvergoeding die een met zijn arbeidsduur overeenkomend deel bedraagt van de vergoeding die hij zou hebben ontvangen indien hij in het geheel niet ongeschikt tot het verrichten van zijn arbeid wegens ziekte zou zijn.
 
-2. In afwijking van [artikel 9, eerste of tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013131&artikel=9&z=2015-01-01&g=2015-01-01), heeft de persoon, bedoeld in artikel 9, eerste of tweede lid, in geval van volledige arbeidsongeschiktheid wegens ziekte, na ommekomst van het kalenderjaar volgend op dat waarin de arbeidsongeschiktheid is aangevangen, geen aanspraak op een onkostenvergoeding.
+2. In afwijking van [artikel 9, eerste of tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013131&artikel=9&z=2016-08-23&g=2016-01-01), heeft de persoon, bedoeld in artikel 9, eerste of tweede lid, in geval van volledige arbeidsongeschiktheid wegens ziekte, na ommekomst van het kalenderjaar volgend op dat waarin de arbeidsongeschiktheid is aangevangen, geen aanspraak op een onkostenvergoeding.
 
 ##### Artikel 9b
 
-Bij regeling van Onze Minister kunnen de in de [artikelen 9 tot en met 9aa](https://wetten.overheid.nl/jci1.3:c:BWBR0013131&artikel=9&z=2015-01-01&g=2015-01-01) genoemde vergoedingen worden aangepast door middel van toepassing van het geldende prijsindexcijfer, waarbij de bedragen worden afgerond naar de eerstvolgende euro.
+Bij regeling van Onze Minister kunnen de in de [artikelen 9 tot en met 9aa](https://wetten.overheid.nl/jci1.3:c:BWBR0013131&artikel=9&z=2016-08-23&g=2016-01-01) genoemde vergoedingen worden aangepast door middel van toepassing van het geldende prijsindexcijfer, waarbij de bedragen worden afgerond naar de eerstvolgende euro.
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
 
@@ -168,9 +168,9 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 ##### Artikel 9aa
 
-1. De persoon, bedoeld in [artikel 9, eerste of tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013131&artikel=9&z=2015-01-01&g=2015-01-01), heeft, wanneer aan hem voor zijn volledige arbeidsduur buitengewoon verlof, al dan niet met behoud van bezoldiging, is verleend voor de periode van ten minste een maand, in afwijking van artikel 9, eerste en tweede lid, gedurende de periode van het buitengewoon verlof geen aanspraak op een onkostenvergoeding.
+1. De persoon, bedoeld in [artikel 9, eerste of tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013131&artikel=9&z=2016-08-23&g=2016-01-01), heeft, wanneer aan hem voor zijn volledige arbeidsduur buitengewoon verlof, al dan niet met behoud van bezoldiging, is verleend voor de periode van ten minste een maand, in afwijking van artikel 9, eerste en tweede lid, gedurende de periode van het buitengewoon verlof geen aanspraak op een onkostenvergoeding.
 
-2. De persoon, bedoeld in [artikel 9, eerste of tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013131&artikel=9&z=2015-01-01&g=2015-01-01), heeft, wanneer aan hem voor 50% of meer van de arbeidsduur waarvoor hij is aangesteld buitengewoon verlof, al dan niet met behoud van bezoldiging, is verleend voor de periode van ten minste een maand, in afwijking van artikel 9, eerste en tweede lid, gedurende de periode van het buitengewoon verlof, aanspraak op de onkostenvergoeding naar rato van het aantal uren dat hij geen buitengewoon verlof geniet.
+2. De persoon, bedoeld in [artikel 9, eerste of tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013131&artikel=9&z=2016-08-23&g=2016-01-01), heeft, wanneer aan hem voor 50% of meer van de arbeidsduur waarvoor hij is aangesteld buitengewoon verlof, al dan niet met behoud van bezoldiging, is verleend voor de periode van ten minste een maand, in afwijking van artikel 9, eerste en tweede lid, gedurende de periode van het buitengewoon verlof, aanspraak op de onkostenvergoeding naar rato van het aantal uren dat hij geen buitengewoon verlof geniet.
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
 
