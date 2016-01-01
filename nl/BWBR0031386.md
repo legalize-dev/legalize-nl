@@ -4,7 +4,7 @@ identifier: "BWBR0031386"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-01-01"
-last_updated: "2015-01-01"
+last_updated: "2016-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0031386"
 soort: "ministeriele-regeling"
@@ -114,45 +114,37 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 - 5°. eindheffing publiekrechtelijke uitkeringen en tijdelijke knelpunten van ernstige aard;
 
-- 6°. eindheffing loon met een bestemmingskarakter;
+- 6°. eindheffing doorlopend afwisselend gebruik bestelauto;
 
-- 7°. eindheffing bezwaarlijk te individualiseren loon;
+- 7°. eindheffing VUT-regeling;
 
-- 8°. eindheffing geschenken in natura;
+- 8°. eindheffing overschrijding forfaitaire werkkostenregeling;
 
-- 9°. eindheffing bovenmatige vergoedingen en verstrekkingen;
+- 9°. afdrachtvermindering zeevaart;
 
-- 10°. eindheffing doorlopend afwisselend gebruik bestelauto;
+- 10°. afdrachtvermindering speur- en ontwikkelingswerk;
 
-- 11°. eindheffing VUT-regeling;
+- 11°. totaal basispremie WAO/IVA/WGA;
 
-- 12°. eindheffing overschrijding forfaitaire werkkostenregeling;
+- 12°. totaal gedifferentieerde premie Whk;
 
-- 13°. afdrachtvermindering zeevaart;
+- 13°. totaal premie WW Awf;
 
-- 14°. afdrachtvermindering speur- en ontwikkelingswerk;
+- 14°. totaal premie Ufo;
 
-- 15°. totaal basispremie WAO/IVA/WGA;
+- 15°. totaal ingehouden bijdragen Zvw;
 
-- 16°. totaal gedifferentieerde premie Whk;
+- 16°. totaal werkgeversheffing Zvw;
 
-- 17°. totaal premie WW Awf;
+- 17°. premiekorting arbeidsgehandicapten;
 
-- 18°. totaal premie Ufo;
+- 18°. premiekorting nieuwe arbeidsverhouding oudere werknemers;
 
-- 19°. totaal ingehouden bijdragen Zvw;
+- 19°. premiekorting jongere werknemers;
 
-- 20°. totaal werkgeversheffing Zvw;
+- 20°. totaal te betalen over tijdvak;
 
-- 21°. premiekorting arbeidsgehandicapten;
-
-- 22°. premiekorting nieuwe arbeidsverhouding oudere werknemers;
-
-- 23°. premiekorting jongere werknemers;
-
-- 24°. totaal te betalen over tijdvak;
-
-- 25°. totaal generaal;
+- 21°. totaal generaal;
 
 - b. specificatie premie sectorfonds:
 
@@ -282,8 +274,6 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 - 25°. code incidentele inkomstenvermindering;
 
-- 26°. indicatie tijdelijke heffingskorting;
-
 - f. werknemersgegevens:
 
 - 1°. loon LB/PH;
@@ -340,9 +330,15 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 - 27°. aantal verloonde uren;
 
-- 28°. bedrag in uitkering begrepen doorbetaalde alimentatie;
+- 28°. contractloon;
 
-- 29°. bedrag rechtstreeks betaalde alimentatie;
+- 29°. aantal contracturen per week;
+
+- 30°. bedrag rente- of kostenvoordeel personeelslening;
+
+- 31°. bedrag in uitkering begrepen doorbetaalde alimentatie;
+
+- 32°. bedrag rechtstreeks betaalde alimentatie;
 
 - g. sector risicogroep:
 
@@ -360,7 +356,7 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 ##### Artikel 1a.2. Gegevens opgave bij onjuiste of onvolledige aangifte
 
-De opgave, bedoeld in [artikel 28a, eerste lid en tweede lid, aanhef en onderdelen a tot en met d, van de Wet op de loonbelasting 1964](https://wetten.overheid.nl/jci1.3:c:BWBR0002471&artikel=28a), bevat de gegevens, genoemd in [artikel 1a.1](https://wetten.overheid.nl/jci1.3:c:BWBR0031386&hoofdstuk=1a&artikel=1a.1&z=2015-01-01&g=2015-01-01).
+De opgave, bedoeld in [artikel 28a, eerste lid en tweede lid, aanhef en onderdelen a tot en met d, van de Wet op de loonbelasting 1964](https://wetten.overheid.nl/jci1.3:c:BWBR0002471&artikel=28a), bevat de gegevens, genoemd in [artikel 1a.1](https://wetten.overheid.nl/jci1.3:c:BWBR0031386&hoofdstuk=1a&artikel=1a.1&z=2016-01-01&g=2016-01-01).
 
 ##### Artikel 1a.3. Gegevens opgave bij verwijtbaar onjuiste of onvolledige aangifte over verstreken kalenderjaar (jaarloonopgave)
 
