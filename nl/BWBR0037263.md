@@ -191,29 +191,3 @@ In het beleid, bedoeld in artikel 4, eerste lid, aanhef en onderdeel n, wordt va
 Indien het opvangcentrum te maken krijgt met een onvoorziene situatie waardoor het zich gedwongen ziet van de voorschriften van dit protocol af te wijken, stelt het onverwijld de Rijksdienst voor Ondernemend Nederland van het Ministerie van Economische Zaken daarvan op de hoogte.
 
 Dit besluit zal met de toelichting in de Staatscourant worden geplaatst.
-
-In dit protocol wordt verstaan onder:
-
-### Artikel 2. Doel
-
-Het opvangcentrum heeft in ieder geval als doel:
-
-Als onderdeel van het beleid, bedoeld in artikel 4, eerste lid, aanhef en onderdeel a, stelt het bestuur van het opvangcentrum het volgende vast:
-
-Als onderdeel van het beleid, bedoeld in artikel 4, eerste lid, aanhef en onderdeel b, stelt het bestuur van het opvangcentrum vast op welke wijze wordt gewaarborgd dat:
-
-Het beleid omtrent het voorkomen van en het handelen na ontsnapping, bedoeld in artikel 4, eerste lid, aanhef en onderdeel f, bevat een beschrijving van maatregelen en handelingen over hoe ontsnapping van dieren kan worden voorkomen en een beschrijving van de te treffen maatregelen en uit te voeren handelingen na ontsnapping van dieren van niet van nature in Nederland in het wild voorkomende diersoorten en dieren waarbij sprake is van een dierziekte, zoönose, ziekteverwekker of ziekteverschijnsel die gemeld dient te worden op grond van de [artikelen 1.29](https://wetten.overheid.nl/jci1.3:c:BWBR0035217&artikel=1.29), [1.30](https://wetten.overheid.nl/jci1.3:c:BWBR0035217&artikel=1.30) of [1.31 van het Besluit houders van dieren](https://wetten.overheid.nl/jci1.3:c:BWBR0035217&artikel=1.31).
-
-### Artikel 12. Voeding
-
-Het beleid, bedoeld in artikel 4, eerste lid, aanhef en onderdeel i, bevat:
-
-Als het oorspronkelijke biotoop van een dier van een niet van nature in Nederland in het wild voorkomende diersoort is te achterhalen, wordt bij de afweging voor de keuze om het dier middels uitzetten in vrijheid uit te zetten als bedoeld in artikel 19, derde lid, aanhef en onderdeel a, in ieder geval rekening gehouden met:
-
-De beheerder en de dierenarts stellen per opgevangen diersoort of diercategorie de werkwijze, bedoeld in artikel 4, eerste lid, aanhef en onderdeel l, vast voor het doden van opgevangen dieren in overeenstemming met [hoofdstuk 1, paragraaf 3 van het Besluit houders van dieren](https://wetten.overheid.nl/jci1.3:c:BWBR0035217&paragraaf=3).
-
-### Artikel 29. Afwijkingsmogelijkheid
-
-Wanneer het opvangcentrum te maken krijgt met een onvoorziene situatie waardoor het zich gedwongen ziet van de voorschriften van dit protocol af te wijken, stelt het onverwijld het bevoegd gezag dat de omgevingsvergunning of ontheffing heeft verleend of het maatwerkvoorschrift heeft gesteld, daarvan op de hoogte.
-
-Dit besluit zal met de toelichting in de Staatscourant worden geplaatst.
