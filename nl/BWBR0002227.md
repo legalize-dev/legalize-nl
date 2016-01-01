@@ -4,7 +4,7 @@ identifier: "BWBR0002227"
 country: "nl"
 rank: "amvb"
 publication_date: "2026-01-01"
-last_updated: "2015-11-01"
+last_updated: "2016-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0002227"
 soort: "AMvB"
@@ -122,7 +122,7 @@ Het percentage, bedoeld in [artikel 21, veertiende lid, van de Successiewet 1956
 
 ##### Artikel 13
 
-1. Er is een Adviescommissie beoordeling aangeboden cultuurbezit uit nalatenschappen, verder te noemen: de commissie, die tot taak heeft Onze Minister op zijn verzoek te adviseren omtrent verzoeken op grond van dit Besluit ter zake van de beoordeling of een voorwerp op grond van de cultuurhistorische of kunsthistorische voorwaarden die zijn opgenomen in [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBR0002227&hoofdstuk=2&artikel=15&z=2015-01-01&g=2015-11-01), in aanmerking komt voor de toepassing van [artikel 67, derde lid, van de Successiewet 1956](https://wetten.overheid.nl/jci1.3:c:BWBR0002226&artikel=67).
+1. Er is een Adviescommissie beoordeling aangeboden cultuurbezit uit nalatenschappen, verder te noemen: de commissie, die tot taak heeft Onze Minister op zijn verzoek te adviseren omtrent verzoeken op grond van dit Besluit ter zake van de beoordeling of een voorwerp op grond van de cultuurhistorische of kunsthistorische voorwaarden die zijn opgenomen in [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBR0002227&hoofdstuk=2&artikel=15&z=2016-01-01&g=2016-01-01), in aanmerking komt voor de toepassing van [artikel 67, derde lid, van de Successiewet 1956](https://wetten.overheid.nl/jci1.3:c:BWBR0002226&artikel=67).
 
 2. De commissie bestaat uit een voorzitter, tevens lid, en twee andere leden.
 
@@ -148,9 +148,9 @@ Het percentage, bedoeld in [artikel 21, veertiende lid, van de Successiewet 1956
 
 ##### Artikel 12
 
-1. Voor de beslissing op het in [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0002227&hoofdstuk=2&artikel=11&z=2015-01-01&g=2015-11-01) bedoelde verzoek laat Onze Minister zich adviseren door de in [artikel 13, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002227&hoofdstuk=2&artikel=13&z=2015-01-01&g=2015-11-01), bedoelde commissie, behalve indien het verzoek kennelijk ongegrond of niet-ontvankelijk is.
+1. Voor de beslissing op het in [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0002227&hoofdstuk=2&artikel=11&z=2016-01-01&g=2016-01-01) bedoelde verzoek laat Onze Minister zich adviseren door de in [artikel 13, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002227&hoofdstuk=2&artikel=13&z=2016-01-01&g=2016-01-01), bedoelde commissie, behalve indien het verzoek kennelijk ongegrond of niet-ontvankelijk is.
 
-2. Onze Minister wijst het verzoek af indien het voorwerp niet voldoet aan de in [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBR0002227&hoofdstuk=2&artikel=15&z=2015-01-01&g=2015-11-01) opgenomen voorwaarden.
+2. Onze Minister wijst het verzoek af indien het voorwerp niet voldoet aan de in [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBR0002227&hoofdstuk=2&artikel=15&z=2016-01-01&g=2016-01-01) opgenomen voorwaarden.
 
 3. Indien Onze Minister besluit ter zake van de overdracht van het voorwerp aan de Staat kwijtschelding van erfbelasting te verlenen, vermeldt het besluit tevens de waarde in het economische verkeer die voor de berekening van de kwijtschelding aan het voorwerp zal worden toegekend.
 
@@ -174,9 +174,9 @@ Het percentage, bedoeld in [artikel 21, veertiende lid, van de Successiewet 1956
 
 ##### Artikel 14
 
-1. Een ieder die een voorwerp in eigendom heeft waarvan hij vermoedt dat het voldoet aan de voorwaarden die zijn opgenomen in [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBR0002227&hoofdstuk=2&artikel=15&z=2015-01-01&g=2015-11-01), kan Onze Minister verzoeken te verklaren dat met betrekking tot dit voorwerp [artikel 67, derde lid, van de Successiewet 1956](https://wetten.overheid.nl/jci1.3:c:BWBR0002226&artikel=67) toepassing kan vinden indien daarom na zijn overlijden door degene die dit voorwerp krachtens erfrecht uit zijn nalatenschap heeft verkregen zal worden verzocht.
+1. Een ieder die een voorwerp in eigendom heeft waarvan hij vermoedt dat het voldoet aan de voorwaarden die zijn opgenomen in [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBR0002227&hoofdstuk=2&artikel=15&z=2016-01-01&g=2016-01-01), kan Onze Minister verzoeken te verklaren dat met betrekking tot dit voorwerp [artikel 67, derde lid, van de Successiewet 1956](https://wetten.overheid.nl/jci1.3:c:BWBR0002226&artikel=67) toepassing kan vinden indien daarom na zijn overlijden door degene die dit voorwerp krachtens erfrecht uit zijn nalatenschap heeft verkregen zal worden verzocht.
 
-2. Het in het eerste lid bedoelde verzoek omvat mede een omschrijving van het voorwerp en voorts zijn de bepalingen van [artikel 12, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002227&hoofdstuk=2&artikel=12&z=2015-01-01&g=2015-11-01), van overeenkomstige toepassing, met dien verstande dat aan de verklaring voorwaarden kunnen worden verbonden.
+2. Het in het eerste lid bedoelde verzoek omvat mede een omschrijving van het voorwerp en voorts zijn de bepalingen van [artikel 12, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002227&hoofdstuk=2&artikel=12&z=2016-01-01&g=2016-01-01), van overeenkomstige toepassing, met dien verstande dat aan de verklaring voorwaarden kunnen worden verbonden.
 
 ##### Artikel 15
 
@@ -233,7 +233,7 @@ Onze Minister van Financiën is belast met de uitvoering van dit besluit, hetwel
 
 ##### Artikel 10b
 
-De waarde van een erfpachtcanon als bedoeld in [artikel 21, negende lid, van de Successiewet 1956](https://wetten.overheid.nl/jci1.3:c:BWBR0002226&artikel=21) wordt gesteld op het zeventienvoud van het jaarlijkse bedrag. In afwijking van de eerste volzin wordt het deel van een erfpachtcanon dat kan worden toegerekend aan een verhuurde woning als bedoeld in [artikel 10a, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002227&hoofdstuk=1&artikel=10a&z=2015-01-01&g=2015-11-01), gesteld op het twintigvoud van het jaarlijkse bedrag. De toerekening van de erfpachtcanon, bedoeld in de vorige volzin, geschiedt naar rato van de, met inachtneming van artikel 10a, vierde lid, berekende, WOZ-waarden van de onderscheiden zelfstandige onderdelen van het gebouwd eigendom waarop de erfpachtcanon betrekking heeft.
+De waarde van een erfpachtcanon als bedoeld in [artikel 21, negende lid, van de Successiewet 1956](https://wetten.overheid.nl/jci1.3:c:BWBR0002226&artikel=21) wordt gesteld op het zeventienvoud van het jaarlijkse bedrag. In afwijking van de eerste volzin wordt het deel van een erfpachtcanon dat kan worden toegerekend aan een verhuurde woning als bedoeld in [artikel 10a, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002227&hoofdstuk=1&artikel=10a&z=2016-01-01&g=2016-01-01), gesteld op het twintigvoud van het jaarlijkse bedrag. De toerekening van de erfpachtcanon, bedoeld in de vorige volzin, geschiedt naar rato van de, met inachtneming van artikel 10a, vierde lid, berekende, WOZ-waarden van de onderscheiden zelfstandige onderdelen van het gebouwd eigendom waarop de erfpachtcanon betrekking heeft.
 
 ### Hoofdstuk 1a. Informatieverplichtingen
 
@@ -431,7 +431,7 @@ Onze Minister van Financiën is belast met de uitvoering van dit besluit, hetwel
 
 5. Een verloopoverzicht van het ANBI-vermogen als bedoeld in het tweede lid, onderdeel e, is een overzicht van de ontwikkeling per kalenderjaar van het ANBI-vermogen vanaf het tijdstip met ingang waarvan de instelling ingevolge [artikel 5b, zevende of achtste lid, van de Algemene wet inzake rijksbelastingen](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=5b) niet meer als algemeen nut beogende instelling is aangemerkt.
 
-6. De gegevens en inlichtingen, bedoeld in het tweede lid, worden langs elektronische weg verstrekt binnen acht maanden na afloop van het kalenderjaar. De inspecteur kan regels stellen met betrekking tot de wijze waarop deze gegevens en inlichtingen worden verstrekt. De inspecteur kan ontheffing verlenen van het langs elektronische weg verstrekken van deze gegevens en inlichtingen indien het langs elektronische weg verstrekken van deze gegevens en inlichtingen redelijkerwijs niet verlangd kan worden.
+6. De gegevens en inlichtingen, bedoeld in het tweede lid, worden binnen acht maanden na afloop van het kalenderjaar verstrekt. De inspecteur kan regels stellen met betrekking tot de wijze waarop deze gegevens en inlichtingen worden verstrekt.
 
 7. Het niet, niet tijdig, onjuist of onvolledig verstrekken van de gegevens en inlichtingen, bedoeld in het tweede lid, wordt aangemerkt als een overtreding.
 
@@ -441,10 +441,10 @@ Onze Minister van Financiën is belast met de uitvoering van dit besluit, hetwel
 
 ##### Artikel 15a
 
-1. [Artikel 10e](https://wetten.overheid.nl/jci1.3:c:BWBR0002227&hoofdstuk=1a&artikel=10e&z=2015-01-01&g=2015-11-01) is niet van toepassing op instellingen die met ingang van een vóór 1 januari 2013 gelegen datum ingevolge [artikel 5b, zevende of achtste lid, van de Algemene wet inzake rijksbelastingen](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=5b) niet meer als algemeen nut beogende instelling zijn aangemerkt.
+1. [Artikel 10e](https://wetten.overheid.nl/jci1.3:c:BWBR0002227&hoofdstuk=1a&artikel=10e&z=2016-01-01&g=2016-01-01) is niet van toepassing op instellingen die met ingang van een vóór 1 januari 2013 gelegen datum ingevolge [artikel 5b, zevende of achtste lid, van de Algemene wet inzake rijksbelastingen](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=5b) niet meer als algemeen nut beogende instelling zijn aangemerkt.
 
-2. [Artikel 10e](https://wetten.overheid.nl/jci1.3:c:BWBR0002227&hoofdstuk=1a&artikel=10e&z=2015-01-01&g=2015-11-01) is voor het eerst van toepassing met betrekking tot kalenderjaren na 31 december 2012.
+2. [Artikel 10e](https://wetten.overheid.nl/jci1.3:c:BWBR0002227&hoofdstuk=1a&artikel=10e&z=2016-01-01&g=2016-01-01) is voor het eerst van toepassing met betrekking tot kalenderjaren na 31 december 2012.
 
-3. De gegevens en inlichtingen over het kalenderjaar 2013 worden, in afwijking in zoverre van [artikel 10e, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002227&hoofdstuk=1a&artikel=10e&z=2015-01-01&g=2015-11-01), tussen 1 februari 2015 en 1 mei 2015 verstrekt.
+3. De gegevens en inlichtingen over het kalenderjaar 2013 worden, in afwijking in zoverre van [artikel 10e, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002227&hoofdstuk=1a&artikel=10e&z=2016-01-01&g=2016-01-01), tussen 1 februari 2015 en 1 mei 2015 verstrekt.
 
 Onze Minister van Financiën is belast met de uitvoering van dit besluit, hetwelk in het **Staatsblad** zal worden geplaatst en waarvan afschrift zal worden gezonden aan de Raad van State.
