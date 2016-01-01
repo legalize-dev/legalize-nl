@@ -4,7 +4,7 @@ identifier: "BWBR0038020"
 country: "nl"
 rank: "amvb"
 publication_date: "2016-06-09"
-last_updated: "2015-09-01"
+last_updated: "2016-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0038020"
 soort: "AMvB"
@@ -71,5 +71,19 @@ Wijzigt het Inkomstenbesluit burgerlijke ambtenaren defensie.
 Wijzigt het Inkomstenbesluit militairen.
 
 ### Hoofdstuk 4. Salarisverhoging met ingang van 1 januari 2016
+
+### Hoofdstuk 5. Slotbepalingen
+
+##### Artikel 8
+
+Wijzigt het Besluit personenchauffeurs defensie.
+
+##### Artikel 9
+
+Wijzigt het Inkomstenbesluit burgerlijke ambtenaren defensie.
+
+##### Artikel 10
+
+Wijzigt het Inkomstenbesluit militairen.
 
 ### Hoofdstuk 5. Slotbepalingen
