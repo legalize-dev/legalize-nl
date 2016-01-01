@@ -4,7 +4,7 @@ identifier: "BWBR0027285"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2016-01-01"
-last_updated: "2013-04-05"
+last_updated: "2016-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0027285"
 soort: "ministeriele-regeling"
@@ -42,13 +42,15 @@ Gelet op [artikel 3, vierde en vijfde lid, van de Wet explosieven voor civiel ge
 
 Besluit:
 
+Inwerkingtreding voorheen door Stcrt. 2010/2576 gesteld op 5 april 2012.
+
 #### Paragraaf 1. Algemene bepalingen
 
 ##### Artikel 1
 
 In deze regeling wordt verstaan onder:
 
-- **DCMR:** DCMR Milieudienst Rijnmond;
+- **ILT:** Inspectie Leefomgeving en Transport;
 
 - **lonten:** niet-exploderende ontstekingsvoorzieningen in de vorm van een snoer;
 
@@ -76,11 +78,11 @@ Indien een explosief voor uitvoer wordt geproduceerd en het overeenkomstig de ve
 
 ##### Artikel 4
 
-DCMR wijst op aanvraag van de producent elke productielocatie binnen Nederland een code van drie cijfers toe.
+ILT wijst op aanvraag van de producent elke productielocatie binnen Nederland een code van drie cijfers toe.
 
 ##### Artikel 5
 
-Bij een productlocatie buiten de Europese Gemeenschap wijst, indien Nederland de lidstaat van invoer is, DCMR de in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0027285&paragraaf=3&artikel=4&z=2013-04-05&g=2013-04-05) bedoelde code toe.
+Bij een productlocatie buiten de Europese Gemeenschap wijst, indien Nederland de lidstaat van invoer is, ILT de in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0027285&paragraaf=3&artikel=4&z=2016-01-01&g=2016-01-01) bedoelde code toe.
 
 #### Paragraaf 4. De wijze waarop de unieke identificatie wordt aangebracht of bevestigd
 
@@ -118,11 +120,11 @@ De unieke identificatie van blikken en bussen die explosieven bevatten, wordt in
 
 ##### Artikel 13
 
-In de gevallen, genoemd in de [artikelen 6](https://wetten.overheid.nl/jci1.3:c:BWBR0027285&paragraaf=4&artikel=6&z=2013-04-05&g=2013-04-05) en [8 tot en met 12](https://wetten.overheid.nl/jci1.3:c:BWBR0027285&paragraaf=4&artikel=8&z=2013-04-05&g=2013-04-05) kan tevens een passief, inert elektronisch merk worden aangebracht op de desbetreffende explosieven, onderdelen of verpakkingseenheden van explosieven of ontstekingsmiddelen.
+In de gevallen, genoemd in de [artikelen 6](https://wetten.overheid.nl/jci1.3:c:BWBR0027285&paragraaf=4&artikel=6&z=2016-01-01&g=2016-01-01) en [8 tot en met 12](https://wetten.overheid.nl/jci1.3:c:BWBR0027285&paragraaf=4&artikel=8&z=2016-01-01&g=2016-01-01) kan tevens een passief, inert elektronisch merk worden aangebracht op de desbetreffende explosieven, onderdelen of verpakkingseenheden van explosieven of ontstekingsmiddelen.
 
 ##### Artikel 14
 
-Op elke doos met daarin de in de [artikelen 6](https://wetten.overheid.nl/jci1.3:c:BWBR0027285&paragraaf=4&artikel=6&z=2013-04-05&g=2013-04-05) en [8 tot en met 11](https://wetten.overheid.nl/jci1.3:c:BWBR0027285&paragraaf=4&artikel=8&z=2013-04-05&g=2013-04-05) genoemde explosieven, onderdelen of verpakkingseenheden van explosieven of ontstekingsmiddelen, wordt een corresponderend etiket aangebracht en, indien van toepassing, een corresponderend elektronisch merk.
+Op elke doos met daarin de in de [artikelen 6](https://wetten.overheid.nl/jci1.3:c:BWBR0027285&paragraaf=4&artikel=6&z=2016-01-01&g=2016-01-01) en [8 tot en met 11](https://wetten.overheid.nl/jci1.3:c:BWBR0027285&paragraaf=4&artikel=8&z=2016-01-01&g=2016-01-01) genoemde explosieven, onderdelen of verpakkingseenheden van explosieven of ontstekingsmiddelen, wordt een corresponderend etiket aangebracht en, indien van toepassing, een corresponderend elektronisch merk.
 
 ##### Artikel 15
 
