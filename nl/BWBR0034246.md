@@ -4,7 +4,7 @@ identifier: "BWBR0034246"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-01-01"
-last_updated: "2014-11-29"
+last_updated: "2016-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0034246"
 soort: "ministeriele-regeling"
@@ -52,29 +52,21 @@ In deze regeling wordt verstaan onder:
 
 - **zorgverzekeraars:** de zorgverzekeraars, bedoeld in de [bijlage 3 bij de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0032249&bijlage=3).
 
-##### Artikel 2. Sectorale bezoldigingsnorm 2013
+##### Artikel 2. Sectorale bezoldigingsnorm 2016
 
-Voor het kalenderjaar 2013 bedraagt de sectorale bezoldigingsnorm voor de zorgverzekeraars € 300.000 aan beloning, inclusief belastbare vaste en variabele onkostenvergoedingen, vermeerderd met:
+1. Voor het kalenderjaar 2016 bedraagt de sectorale bezoldigingsnorm voor zorgverzekeraars:
 
-- a. de sociale verzekeringspremies,
+- a. € 266.000, indien zij op 1 januari 2015 meer dan 1.000.000 verzekerden hadden;
 
-- b. de voorzieningen ten behoeve van beloningen betaalbaar op termijn, bestaande uit ten hoogste het voor de betreffende topfunctionaris vastgestelde bedrag aan werkgeversbijdrage in de premie voor de reguliere pensioenafspraken van de geldende pensioenregeling.
+- b. € 231.000, indien zij op 1 januari 2015 tussen de 300.000 en 1.000.000 verzekerden hadden;
 
-##### Artikel 3. Sectorale bezoldigingsnorm en indeling in klassen 2014
+- c. € 195.000, indien zij op 1 januari 2015 minder dan 300.000 verzekerden hadden.
 
-1. Voor het kalenderjaar 2014 bedraagt de sectorale bezoldigingsnorm voor zorgverzekeraars met op 1 januari 2014:
+2. Indien een zorgverzekeraar deel uitmaakt van een groep als bedoeld in [artikel 24b van Boek 2 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=24b) waarbinnen zich ook andere zorgverzekeraars bevinden, mogen voor de toepassing van het eerste lid de verzekerden van alle zorgverzekeraars binnen die groep worden meegeteld.
 
-- a. minder dan 300.000 verzekerden: € 220.000;
+##### Artikel 3. Sectorale bezoldigingsnorm
 
-- b. tussen de 300.000 en 1.000.0000 verzekerden: € 260.000; en
-
-- c. met meer dan 1.000.000 verzekerden: € 300.000.
-
-2. De sectorale bezoldigingsnorm is inclusief belastbare vaste en variabele onkostenvergoedingen, vermeerderd met:
-
-- a. de sociale verzekeringspremies, en
-
-- b. de voorzieningen ten behoeve van beloningen betaalbaar op termijn, bestaande uit ten hoogste het voor de betreffende topfunctionaris vastgestelde bedrag aan werkgeversbijdrage in de premie voor de reguliere pensioenafspraken van de geldende pensioenregeling.
+De sectorale bezoldigingsnorm wordt verhoogd met de voorzieningen ten behoeve van beloningen betaalbaar op termijn, bestaande uit het voor de betreffende topfunctionaris vastgestelde bedrag aan werkgeversbijdrage in de premie voor de reguliere pensioenafspraken van de geldende pensioenregeling.
 
 ##### Artikel 4. Indeling in een andere klasse
 
@@ -84,13 +76,13 @@ Een zorgverzekeraar dient een aanvraag als bedoeld in [artikel 3.4, derde lid, v
 
 - b. een verklaring van de verantwoordelijke waaruit zijn instemming met de aanvraag blijkt.
 
-##### Artikel 5. Wijziging [regeling 2013](https://wetten.overheid.nl/jci1.3:c:BWBR0032595)
+##### Artikel 5. Inwerkingtreding
 
-In [artikel 1, aanhef, onder b, van de regeling van de Minister van Volksgezondheid, Welzijn en Sport van 14 december 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0032595&artikel=1), DWJZ-3147991, houdende vaststelling van de sectorale bezoldigingsnorm voor de in bijlage 3 bij de Wet normering bezoldiging topfunctionarissen in de publieke en semipublieke sector opgenomen categorie zorgverzekeraars (Stcrt. 2012, 26811), wordt ‘het reguliere pensioenpakket van het betrokken pensioenfonds’ vervangen door: de reguliere pensioenafspraken van de geldende pensioenregeling.
+Deze regeling treedt in werking met ingang van 1 januari 2014.
 
-##### Artikel 6. Intrekking [regeling 2013](https://wetten.overheid.nl/jci1.3:c:BWBR0032595)
+##### Artikel 6. Citeertitel
 
-De [regeling van de Minister van Volksgezondheid, Welzijn en Sport van 14 december 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0032595), DWJZ-3147991, houdende vaststelling van de sectorale bezoldigingsnorm voor de in bijlage 3 bij de Wet normering bezoldiging topfunctionarissen in de publieke en semipublieke sector opgenomen categorie zorgverzekeraars (**Stcrt. 2012, 26811**), wordt ingetrokken.
+Deze regeling wordt aangehaald als: Regeling sectorale bezoldigingsnorm topfunctionarissen zorgverzekeraars.
 
 ##### Artikel 7. Inwerkingtreding
 
@@ -113,5 +105,7 @@ Deze regeling zal met de toelichting in de Staatscourant worden gepubliceerd.
 - c. met meer dan 1.000.000 verzekerden: € 300.000.
 
 2. [Artikel 3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034246&artikel=3&z=2014-11-29&g=2014-11-29), is van overeenkomstige toepassing.
+
+Deze regeling zal met de toelichting in de Staatscourant worden gepubliceerd.
 
 Deze regeling zal met de toelichting in de Staatscourant worden gepubliceerd.
