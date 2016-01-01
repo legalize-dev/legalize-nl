@@ -4,7 +4,7 @@ identifier: "BWBR0037257"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-01-01"
-last_updated: "2014-01-01"
+last_updated: "2016-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0037257"
 soort: "ministeriele-regeling"
@@ -38,19 +38,41 @@ entry_into_force: "2025-11-13"
 
 ##### Artikel 1. Begripsbepalingen
 
-Dit onderdeel is nog niet inwerking getreden
+In deze regeling wordt verstaan onder:
+
+- **wet:** de [Wet normering bezoldiging topfunctionarissen publieke en semipublieke sector](https://wetten.overheid.nl/jci1.3:c:BWBR0032249);
+
+- **bijlage:** de bijlage bij deze regeling;
+
+- **rechtspersonen of instellingen voor zorg of jeugdhulp:** de rechtspersonen of instellingen, bedoeld in [bijlage 1 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0032249&bijlage=1) onder het opschrift ‘Ministerie van Volksgezondheid, Welzijn en Sport’, onder de nummers 1 tot en met 3, 7 en 8.
 
 ##### Artikel 2. Indeling in klassen
 
-Dit onderdeel is nog niet inwerking getreden
+1. Het hoogste toezichthoudende orgaan van een rechtspersoon of instelling voor zorg of jeugdhulp deelt de rechtspersoon of instelling met inachtneming van de bijlage in een klasse in.
+
+2. Het toezichthoudende orgaan, bedoeld in het eerste lid, legt de onderbouwing van de totaalscore die volgt uit de toepassing van de bijlage, alsmede de daaruit volgende klassenindeling, schriftelijk vast.
+
+3. De verantwoordelijke vermeldt in het financieel verslaggevingsdocument de totaalscore alsmede de daaruit volgende klassenindeling, bedoeld in het tweede lid.
 
 ##### Artikel 3. Bezoldigingsmaxima
 
-Dit onderdeel is nog niet inwerking getreden
+De bezoldiging voor een topfunctionaris bij een rechtspersoon of instelling voor zorg of jeugdhulp bedraagt voor de klasse waarin de desbetreffende rechtspersoon of instelling is ingedeeld, niet meer dan het in onderstaande tabel opgenomen bedrag.
+
+| Klasse | Bezoldigingsmaximum |
+| --- | --- |
+| I | € 98.000 |
+| II | € 120.000 |
+| III | € 145.000 |
+| IV | € 165.000 |
+| V | € 179.000 |
 
 ##### Artikel 4. Indeling in een andere klasse
 
-Dit onderdeel is nog niet inwerking getreden
+Een rechtspersoon of instelling voor zorg of jeugdhulp dient een aanvraag als bedoeld in [artikel 2.7, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0032249&artikel=2.7) om in een andere klasse te worden ingedeeld schriftelijk in bij de Minister van Volksgezondheid, Welzijn en Sport en voorziet deze van:
+
+- a. een deugdelijke motivering;
+
+- b. een verklaring van het hoogste toezichthoudende orgaan van de rechtspersoon of instelling, waaruit zijn instemming met de aanvraag blijkt.
 
 ##### Artikel 5. Wijziging Regeling bezoldigingsmaxima topfunctionarissen zorg- en welzijnssector
 
@@ -58,15 +80,23 @@ Wijzigt de Regeling bezoldigingsmaxima topfunctionarissen zorg- en welzijnssecto
 
 ##### Artikel 6. Intrekking van regelingen
 
-Dit onderdeel is nog niet inwerking getreden
+1. De Regeling van de Minister van Volksgezondheid, Welzijn en Sport van 25 november 2014, kenmerk 688563-129348-MEVA, houdende wijziging van de Regeling bezoldigingsmaxima topfunctionarissen zorg- en welzijnssector in verband met de vaststelling van de bezoldigingsmaxima voor het kalenderjaar 2015 (Stcrt. 2014, 34258) wordt ingetrokken.
+
+2. De [Regeling bezoldigingsmaxima topfunctionarissen zorg- en welzijnssector](https://wetten.overheid.nl/jci1.3:c:BWBR0034248) wordt ingetrokken.
 
 ##### Artikel 7. Inwerkingtreding
 
-Dit onderdeel is nog niet inwerking getreden
+1. Deze regeling treedt, met uitzondering van [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0037257&artikel=5&z=2016-01-01&g=2016-01-01), in werking met ingang van 1 januari 2016.
+
+2. [Artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0037257&artikel=5&z=2016-01-01&g=2016-01-01) treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin deze regeling wordt geplaatst.
+
+3. Artikel 5, onderdeel A, werkt terug tot en met 1 januari 2015.
+
+4. Artikel 5, onderdeel B, werkt terug tot en met 1 januari 2014.
 
 ##### Artikel 8. Citeertitel
 
-Dit onderdeel is nog niet inwerking getreden
+Deze regeling wordt aangehaald als: Regeling bezoldigingsmaxima topfunctionarissen zorg en jeugdhulp.
 
 ## Bijlage. bij Artikel 2
 
@@ -135,41 +165,3 @@ Onder ‘omzet’ wordt verstaan de som van de bedrijfsopbrengsten in het kalend
 In rechtspersonen of instellingen waar vrijgevestigde medisch-specialisten werken, kan de omzet over het voorafgaande kalenderjaar een onvolledig beeld geven van de werkelijke omzet omdat de omzet van de vrijgevestigde medisch-specialisten niet is meegerekend. Voor deze rechtspersonen of instellingen mag daarom de omzet van de vrijgevestigden worden opgeteld bij de omzet over het voorafgaande kalenderjaar, voor zover althans die omzet daar niet al in begrepen is. Om dezelfde reden kan bij huisartsenposten per aangesloten fte huisarts € 15.000 bij de omzet van een huisartsenpost worden opgeteld.
 
 Deze regeling zal (met de toelichting) in de Staatscourant worden geplaatst.
-
-In afwijking van paragraaf 1 vindt de beoordeling van het aantal taken plaats op basis van de situatie in de drie kalenderjaren voorafgaande aan het jaar waarin de beoordeling plaatsvindt. Een rechtspersoon of instelling scoort extra punten als deze in ten minste één van de drie kalenderjaren voorafgaande aan het jaar waarin de beoordeling plaatsvindt, geneeskundige vervolgopleidingen heeft verzorgd.
-
-### 2.3. Aantal relevante financieringsbronnen in relatie tot omzet uit die bronnen
-
-Onder het begrip ‘opbrengsten’ wordt verstaan: de som van de bedrijfsopbrengsten in het kader van de [Zvw](https://wetten.overheid.nl/jci1.3:c:BWBR0018450), [Wlz](https://wetten.overheid.nl/jci1.3:c:BWBR0035917), [Jeugdwet](https://wetten.overheid.nl/jci1.3:c:BWBR0034925), [Wmo 2015](https://wetten.overheid.nl/jci1.3:c:BWBR0035362), financiering voor forensische zorg en financiering voor onderwijs van het kalenderjaar voorafgaande aan het jaar waarin de beoordeling plaatsvindt2Omdat de Wlz en Jeugdwet in 2014 nog niet van kracht waren, kunnen wat betreft verslagjaar 2014 de opbrengsten uit de Algemene Wet Bijzondere Ziektekosten respectievelijk de Wet op de Jeugdzorg gebruikt worden.. Dit begrip verschilt hiermee van het begrip ‘omzet’ in paragraaf 3.
-
-### 3. Omzet
-
-Onder ‘omzet’ wordt verstaan de som van de bedrijfsopbrengsten in het kalenderjaar voorafgaande aan het jaar waarin de beoordeling plaatsvindt.
-
-Bij huisartsenposten kan de omzet een onvolledig beeld geven van de werkelijke omzet indien de omzet van de aangesloten huisartsen niet is meegerekend. Om die reden kan bij huisartsenposten per aangesloten fte huisarts € 15.000 bij de omzet van een huisartsenpost worden opgeteld.
-
-Deze regeling zal (met de toelichting) in de Staatscourant worden geplaatst.
-
-### 3. Omzet
-
-Deze regeling zal (met de toelichting) in de Staatscourant worden geplaatst.
-
-##### Artikel 4a. Verzoek om individuele uitzondering op klassenindeling.
-
-1. Een verzoek om op grond van [artikel 2.7, vierde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0032249&artikel=2.7) ten aanzien van een topfunctionaris een hogere bezoldiging te mogen overeenkomen dan toegestaan op grond van deze regeling, wordt door een rechtspersoon of instelling voor zorg of jeugdhulp uiterlijk 6 weken voorafgaand aan de periode waarin de hogere bezoldiging moet ingaan ingediend.
-
-2. [Artikel 4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037257&artikel=4&z=2026-01-01&g=2026-01-01), is van overeenkomstige toepassing.
-
-## Bijlage. bij [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0037257&artikel=2&z=2026-01-01&g=2026-01-01)
-
-### 1. Herleiding punten naar klassen
-
-De karakteristieken van een rechtspersoon of instelling worden beoordeeld op basis van de situatie in het kalenderjaar voorafgaande aan het jaar waarin de beoordeling plaatsvindt.
-
-### 2.1. Kennisintensiteit
-
-Indien op een rechtspersoon of instelling meerdere rijen uit de tabel van toepassing zijn en/of indien een rechtspersoon of instelling meerdere primaire processen kent (die niet in de tabel zijn opgenomen), mogen de punten niet bij elkaar worden opgeteld. Hetzelfde geldt uiteraard indien op een rechtspersoon of instelling één rij uit de tabel van toepassing is en deze daarnaast nog één of meerdere primaire processen kent en vice versa. In dergelijke gevallen mag het puntenaantal worden gescoord dat hoort bij de rij of het primaire proces dat het hoogste aantal punten oplevert, mits de zorg, bedoeld in die rij, of dat primaire proces ten minste 20% van de totale omzet uitmaakt.
-
-### 2.2. Aantal taken
-
-### 2.3. Aantal relevante financieringsbronnen
