@@ -4,7 +4,7 @@ identifier: "BWBR0037057"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2016-01-01"
-last_updated: "2015-10-01"
+last_updated: "2016-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0037057"
 soort: "ministeriele-regeling"
@@ -40,6 +40,8 @@ Gelet op [artikel 130, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR00066
 
 Besluit:
 
+De datum van inwerkingtreding ligt voor de datum van uitgifte.
+
 ##### Artikel I
 
 Wijzigt de Regeling maatregelen rijvaardigheid en geschiktheid 2011.
@@ -54,10 +56,10 @@ Wijzigt de Regeling taxibestuurders 2005.
 
 ##### Artikel IV
 
-Dit onderdeel is nog niet inwerking getreden
+[Artikel I, onderdeel J](https://wetten.overheid.nl/jci1.3:c:BWBR0037057&artikel=I&z=2016-01-01&g=2016-01-01), van deze regeling is alleen van toepassing op na het tijdstip van inwerkingtreding van deze regeling begane feiten.
 
 ##### Artikel V
 
-Deze regeling treedt in werking met ingang van 1 januari 2016, met uitzondering van de [artikelen I, onderdelen A en K](https://wetten.overheid.nl/jci1.3:c:BWBR0037057&artikel=I&z=2015-10-01&g=2015-10-01), en [II](https://wetten.overheid.nl/jci1.3:c:BWBR0037057&artikel=II&z=2015-10-01&g=2015-10-01) en [III](https://wetten.overheid.nl/jci1.3:c:BWBR0037057&artikel=III&z=2015-10-01&g=2015-10-01), die in werking treden met ingang van 1 oktober 2015.
+Deze regeling treedt in werking met ingang van 1 januari 2016, met uitzondering van de [artikelen I, onderdelen A en K](https://wetten.overheid.nl/jci1.3:c:BWBR0037057&artikel=I&z=2016-01-01&g=2016-01-01), en [II](https://wetten.overheid.nl/jci1.3:c:BWBR0037057&artikel=II&z=2016-01-01&g=2016-01-01) en [III](https://wetten.overheid.nl/jci1.3:c:BWBR0037057&artikel=III&z=2016-01-01&g=2016-01-01), die in werking treden met ingang van 1 oktober 2015.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
