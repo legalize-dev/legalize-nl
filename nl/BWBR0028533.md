@@ -4,7 +4,7 @@ identifier: "BWBR0028533"
 country: "nl"
 rank: "amvb_bes"
 publication_date: "2022-07-01"
-last_updated: "2015-07-01"
+last_updated: "2016-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0028533"
 soort: "AMvB-BES"
@@ -39,9 +39,9 @@ entry_into_force: "2011-01-01"
 
 De volgende personen, die de leeftijd van vijftien jaar, doch nog niet die van 27 jaar hebben bereikt en die niet op grond van [artikel 5, eerste lid, van de Wet algemene ouderdomsverzekering BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028459&artikel=5) zijn verzekerd, zijn verzekerd op grond van de [Wet algemene ouderdomsverzekering BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028459):
 
-- a. het buiten de openbare lichamen Bonaire, Sint Eustatius of Saba wonende kind, voor wie degene, die voldoet aan [artikel 5, eerste lid, onderdeel c, van de Wet algemene ouderdomsverzekering BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028459&artikel=5), recht heeft op kindertoeslag op grond van de [Wet inkomstenbelasting BES](onbekend);
+- a. het buiten de openbare lichamen Bonaire, Sint Eustatius of Saba wonende kind, voor wie degene, die voldoet aan [artikel 5, eerste lid, onderdeel c, van de Wet algemene ouderdomsverzekering BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028459&artikel=5), recht heeft op kinderbijslag BES op grond van de [Wet kinderbijslagvoorziening BES](https://wetten.overheid.nl/jci1.3:c:BWBR0037347);
 
-- b. het buiten de openbare lichamen Bonaire, Sint Eustatius of Saba wonende kind, voor wie een ingezetene van de openbare lichamen Bonaire, Sint Eustatius of Saba recht heeft op kindertoeslag op grond van de [Wet inkomstenbelasting BES](onbekend).
+- b. het buiten de openbare lichamen Bonaire, Sint Eustatius of Saba wonende kind, voor wie een ingezetene van de openbare lichamen Bonaire, Sint Eustatius of Saba recht heeft op kinderbijslag BES op grond van de [Wet kinderbijslagvoorziening BES](https://wetten.overheid.nl/jci1.3:c:BWBR0037347).
 
 ##### Artikel 2. Beperking kring verzekerden
 
