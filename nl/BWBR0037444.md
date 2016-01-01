@@ -4,7 +4,7 @@ identifier: "BWBR0037444"
 country: "nl"
 rank: "wet"
 publication_date: "2019-01-01"
-last_updated: "2015-12-31"
+last_updated: "2016-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0037444"
 soort: "wet"
@@ -39,175 +39,175 @@ entry_into_force: "2015-12-31"
 
 ##### Artikel I
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Wet inkomstenbelasting 2001.
 
 ##### Artikel Ia
 
-Dit onderdeel is nog niet inwerking getreden
+[Artikel 3.52a van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.52a) en de op dat artikel gebaseerde bepalingen, zoals dat artikel en die bepalingen luidden op 31 december 2015, blijven van toepassing ter zake van aanvragen die betrekking hebben op een periode vóór 1 januari 2016.
 
 ##### Artikel II
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Wet inkomstenbelasting 2001.
 
 ##### Artikel III
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Wet inkomstenbelasting 2001.
 
 ##### Artikel IV
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Wet inkomstenbelasting 2001.
 
 ##### Artikel V
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Wet inkomstenbelasting 2001.
 
 ##### Artikel VI
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Wet inkomstenbelasting 2001.
 
 ##### Artikel VII
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Wet inkomstenbelasting 2001.
 
 ##### Artikel VIII
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Wet inkomstenbelasting 2001.
 
 ##### Artikel IX
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Wet inkomstenbelasting 2001.
 
 ##### Artikel X
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Wet inkomstenbelasting 2001.
 
 ##### Artikel XI
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Wet inkomstenbelasting 2001.
 
 ##### Artikel XII
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Wet inkomstenbelasting 2001.
 
 ##### Artikel XIII
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Wet inkomstenbelasting 2001.
 
 ##### Artikel XIV
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Wet inkomstenbelasting 2001.
 
 ##### Artikel XV
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Wet inkomstenbelasting 2001.
 
 ##### Artikel XVI
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Wet inkomstenbelasting 2001.
 
 ##### Artikel XVII
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Wet op de loonbelasting 1964.
 
 ##### Artikel XVIII
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Wet op de loonbelasting 1964.
 
 ##### Artikel XIX
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Wet op de loonbelasting 1964.
 
 ##### Artikel XX
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Wet op de loonbelasting 1964.
 
 ##### Artikel XXI
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Wet op de loonbelasting 1964.
 
 ##### Artikel XXII
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Wet op de loonbelasting 1964.
 
 ##### Artikel XXIII
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Wet op de loonbelasting 1964.
 
 ##### Artikel XXIV
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Wet op de loonbelasting 1964.
 
 ##### Artikel XXV
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Wet op de loonbelasting 1964.
 
 ##### Artikel XXVI
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Wet op de loonbelasting 1964.
 
 ##### Artikel XXVII
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Wet op de loonbelasting 1964.
 
 ##### Artikel XXVIII
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Wet op de loonbelasting 1964.
 
 ##### Artikel XXIX
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Wet op de loonbelasting 1964.
 
 ##### Artikel XXX
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Wet op de loonbelasting 1964.
 
 ##### Artikel XXXI
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Wet op de loonbelasting 1964.
 
 ##### Artikel XXXII
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Wet op de loonbelasting 1964.
 
 ##### Artikel XXXIII
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Wet vermindering afdracht loonbelasting en premie voor de volksverzekeringen.
 
 ##### Artikel XXXIV
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Wet op de vennootschapsbelasting 1969.
 
 ##### Artikel XXXV
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Successiewet 1956.
 
 ##### Artikel XXXVI
 
-Dit onderdeel is nog niet inwerking getreden
+Bij het begin van het kalenderjaar 2017 wordt [artikel 35a van de Successiewet 1956](https://wetten.overheid.nl/jci1.3:c:BWBR0002226&artikel=35a) niet toegepast op het in [artikel 33, onderdelen 5° en 7°, van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002226&artikel=33) laatstgenoemde bedrag.
 
 ##### Artikel XXXVII
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Successiewet 1956.
 
 ##### Artikel XXXVIII
 
-Dit onderdeel is nog niet inwerking getreden
+Onze Minister zendt binnen vier jaar na de inwerkingtreding van de in [artikel XXXV](https://wetten.overheid.nl/jci1.3:c:BWBR0037444&artikel=XXXV&z=2016-01-01&g=2016-01-01) van het Belastingplan 2016 opgenomen wijzigingen van [artikel 33 van de Successiewet 1956](https://wetten.overheid.nl/jci1.3:c:BWBR0002226&artikel=33) aan de Tweede Kamer der Staten-Generaal een verslag over de doeltreffendheid en de effecten van die wijzigingen.
 
 ##### Artikel XXXIX
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Wet op belastingen van rechtsverkeer.
 
 ##### Artikel XL
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Wet op de accijns.
 
 ##### Artikel XLa
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Wet op de accijns.
 
 ##### Artikel XLI
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Wet op de verbruiksbelasting van alcoholvrije dranken.
 
 ##### Artikel XLII
 
@@ -215,15 +215,15 @@ Wijzigt de Wet belastingen op milieugrondslag.
 
 ##### Artikel XLII0a
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Wet belastingen op milieugrondslag.
 
 ##### Artikel XLIIa
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Wet belastingen op milieugrondslag.
 
 ##### Artikel XLIII
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Algemene wet inkomensafhankelijke regelingen.
 
 ##### Artikel XLIV
 
@@ -231,31 +231,31 @@ Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel XLV
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Provinciewet.
 
 ##### Artikel XLVI
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Invoeringswet fiscaal stelsel BES.
 
 ##### Artikel XLVII
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Wet maatregelen woningmarkt 2014 II.
 
 ##### Artikel XLVIII
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt het Belastingplan 2015.
 
 ##### Artikel XLVIIIa
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Overige fiscale maatregelen 2016.
 
 ##### Artikel XLVIIIb
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Electriciteits- en gaswet.
 
 ##### Artikel XLIX
 
-Dit onderdeel is nog niet inwerking getreden
+Voor de toepassing van [artikel 10.6bis van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=10.6bis) bij het begin van het kalenderjaar 2017 wordt het langetermijnrendement op onroerende zaken, aandelen en obligaties van het kalenderjaar 2016 gesteld op 4,25%, 8,25%, onderscheidenlijk 4,00%.
 
 ##### Artikel L
 
@@ -263,15 +263,49 @@ Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel LI
 
-Dit onderdeel is nog niet inwerking getreden
+Ingeval de samenloop van wetten die in 2015 in het Staatsblad zijn of worden gepubliceerd en wijzigingen aanbrengen in een of meer belastingwetten, niet of niet juist is geregeld, of indien als gevolg van die samenloop onjuistheden ontstaan in de aanduiding van artikelen, artikelonderdelen, verwijzingen en dergelijke in de desbetreffende wetten, kunnen die wetten op dit punt bij ministeriële regeling worden gewijzigd.
 
 ##### Artikel LII
 
-Dit onderdeel is nog niet inwerking getreden
+1. Onder toepassing van [artikel 12 van de Wet raadgevend referendum](https://wetten.overheid.nl/jci1.3:c:BWBR0036443&artikel=12) treedt deze wet in werking met ingang van 1 januari 2016, met dien verstande dat:
+
+- a. [artikel I, onderdelen B en C](https://wetten.overheid.nl/jci1.3:c:BWBR0037444&artikel=I&z=2016-01-01&g=2016-01-01), eerst toepassing vindt nadat [artikel 10.1 van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=10.1) en [artikel 3.5 van de Wet maatregelen woningmarkt 2014 II](https://wetten.overheid.nl/jci1.3:c:BWBR0034553&artikel=3.5) bij het begin van het kalenderjaar 2016 zijn toegepast;
+
+- b. [artikel I, onderdeel Ea](https://wetten.overheid.nl/jci1.3:c:BWBR0037444&artikel=I&z=2016-01-01&g=2016-01-01), eerst toepassing vindt nadat [artikel 10.1 van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=10.1) bij het begin van het kalenderjaar 2016 is toegepast;.
+
+- c. [artikel I, onderdeel G](https://wetten.overheid.nl/jci1.3:c:BWBR0037444&artikel=I&z=2016-01-01&g=2016-01-01), eerst toepassing vindt nadat [artikel 10.1 van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=10.1) en [artikel III, onderdeel C, van het Belastingplan 2014](https://wetten.overheid.nl/jci1.3:c:BWBR0034538&artikel=III) bij het begin van het kalenderjaar 2016 zijn toegepast;
+
+- d. [artikel I, onderdeel H, onder 1](https://wetten.overheid.nl/jci1.3:c:BWBR0037444&artikel=I&z=2016-01-01&g=2016-01-01), eerst toepassing vindt nadat [artikel 10.1 van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=10.1) en [artikel III, onderdeel D, van het Belastingplan 2014](https://wetten.overheid.nl/jci1.3:c:BWBR0034538&artikel=III) bij het begin van het kalenderjaar 2016 zijn toegepast;
+
+- e. [artikel I, onderdelen I, J en L](https://wetten.overheid.nl/jci1.3:c:BWBR0037444&artikel=I&z=2016-01-01&g=2016-01-01), eerst toepassing vindt nadat [artikel 10.1 van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=10.1) bij het begin van het kalenderjaar 2016 is toegepast;
+
+- f. indien [artikel 10.1 van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=10.1) bij het begin van het kalenderjaar 2017 wordt toegepast: [artikel II, onderdeel E](https://wetten.overheid.nl/jci1.3:c:BWBR0037444&artikel=II&z=2016-01-01&g=2016-01-01), eerst toepassing vindt nadat artikel 10.1 van de Wet inkomstenbelasting 2001 bij het begin van het kalenderjaar 2017 is toegepast;
+
+- g. [artikel XVII, onderdelen A en B](https://wetten.overheid.nl/jci1.3:c:BWBR0037444&artikel=XVII&z=2016-01-01&g=2016-01-01), eerst toepassing vindt nadat de [artikelen 20a, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002471&artikel=20a), en [20b, tweede lid, van de Wet op de loonbelasting 1964](https://wetten.overheid.nl/jci1.3:c:BWBR0002471&artikel=20b) en [artikel 5.3 van de Wet maatregelen woningmarkt 2014 II](https://wetten.overheid.nl/jci1.3:c:BWBR0034553&artikel=5.3) bij het begin van het kalenderjaar 2016 zijn toegepast;
+
+- h. [artikel XVII, onderdeel C](https://wetten.overheid.nl/jci1.3:c:BWBR0037444&artikel=XVII&z=2016-01-01&g=2016-01-01), eerst toepassing vindt nadat [artikel 22d van de Wet op de loonbelasting 1964](https://wetten.overheid.nl/jci1.3:c:BWBR0002471&artikel=22d) en [artikel VII, onderdeel C, van het Belastingplan 2014](https://wetten.overheid.nl/jci1.3:c:BWBR0034538&artikel=VII) bij het begin van het kalenderjaar 2016 zijn toegepast;
+
+- i. [artikel XVII, onderdeel D](https://wetten.overheid.nl/jci1.3:c:BWBR0037444&artikel=XVII&z=2016-01-01&g=2016-01-01), eerst toepassing vindt nadat [artikel 22d van de Wet op de loonbelasting 1964](https://wetten.overheid.nl/jci1.3:c:BWBR0002471&artikel=22d) en [artikel VII, onderdeel D, van het Belastingplan 2014](https://wetten.overheid.nl/jci1.3:c:BWBR0034538&artikel=VII) bij het begin van het kalenderjaar 2016 zijn toegepast;
+
+- j. [artikel XVII, onderdeel E](https://wetten.overheid.nl/jci1.3:c:BWBR0037444&artikel=XVII&z=2016-01-01&g=2016-01-01), eerst toepassing vindt nadat [artikel 22d van de Wet op de loonbelasting 1964](https://wetten.overheid.nl/jci1.3:c:BWBR0002471&artikel=22d) bij het begin van het kalenderjaar 2016 is toegepast;
+
+- k. [artikel XLVI](https://wetten.overheid.nl/jci1.3:c:BWBR0037444&artikel=XLVI&z=2016-01-01&g=2016-01-01) toepassing vindt voordat [hoofdstuk III, artikel II, vierde lid, van de Invoeringswet fiscaal stelsel BES](https://wetten.overheid.nl/jci1.3:c:BWBR0029268&artikel=II) wordt toegepast;
+
+- l. [artikel XLVII](https://wetten.overheid.nl/jci1.3:c:BWBR0037444&artikel=XLVII&z=2016-01-01&g=2016-01-01) eerst toepassing vindt nadat [artikel 8.1 van de Wet maatregelen woningmarkt 2014 II](https://wetten.overheid.nl/jci1.3:c:BWBR0034553&artikel=8.1) bij het begin van het kalenderjaar 2016 is toegepast.
+
+2. In afwijking van het eerste lid treden [artikel XLII, onderdelen A, B, C en D](https://wetten.overheid.nl/jci1.3:c:BWBR0037444&artikel=XLII&z=2016-01-01&g=2016-01-01), en [artikel L](https://wetten.overheid.nl/jci1.3:c:BWBR0037444&artikel=L&z=2016-01-01&g=2016-01-01) in werking op een bij koninklijk besluit te bepalen tijdstip en:
+
+- a. vinden deze eerst toepassing nadat [artikel XLII, onderdelen Ba en Ca](https://wetten.overheid.nl/jci1.3:c:BWBR0037444&artikel=XLII&z=2016-01-01&g=2016-01-01), is toegepast; en
+
+- b. vinden deze toepassing met ingang van 1 januari van het eerstvolgende kalenderjaar na het tijdstip, bedoeld in de aanhef.
+
+3. [Artikel XLIV, onderdeel A, onder 1 en 2, onderdeel B, onder 1, en onderdeel C](https://wetten.overheid.nl/jci1.3:c:BWBR0037444&artikel=XLIV&z=2016-01-01&g=2016-01-01), werkt terug tot en met 15 september 2015, 15.15 uur.
+
+4. [Artikel XLIV, onderdeel A, onder 3, en onderdeel B, onder 2](https://wetten.overheid.nl/jci1.3:c:BWBR0037444&artikel=XLIV&z=2016-01-01&g=2016-01-01), werkt terug tot en met 29 oktober 2015, 23:15 uur.
 
 ##### Artikel LIII
 
-Dit onderdeel is nog niet inwerking getreden
+Deze wet wordt aangehaald als: Belastingplan 2016.
 
 Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
 
