@@ -4,7 +4,7 @@ identifier: "BWBR0030973"
 country: "nl"
 rank: "amvb"
 publication_date: "2021-01-01"
-last_updated: "2015-01-01"
+last_updated: "2016-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0030973"
 soort: "AMvB"
@@ -48,7 +48,7 @@ Hebben goedgevonden en verstaan:
 
 ##### Artikel 1
 
-1. Dit besluit geeft uitvoering aan de [artikelen 8, vierde en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003954&artikel=8), en [11, tweede lid, van de Wet op de internationale bijstandsverlening bij de heffing van belastingen](https://wetten.overheid.nl/jci1.3:c:BWBR0003954&artikel=11).
+1. Dit besluit geeft uitvoering aan [artikel 8, vierde en vijfde lid, van de Wet op de internationale bijstandsverlening bij de heffing van belastingen](https://wetten.overheid.nl/jci1.3:c:BWBR0003954&artikel=8).
 
 2. Dit besluit verstaat onder:
 
@@ -76,7 +76,7 @@ Hebben goedgevonden en verstaan:
 
 ##### Artikel 3
 
-De administratieplichtigen, bedoeld in de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0030973&artikel=2&z=2015-01-01&g=2015-01-01) en [2a](https://wetten.overheid.nl/jci1.3:c:BWBR0030973&artikel=2a&z=2015-01-01&g=2015-01-01), zijn gehouden de gegevens en inlichtingen te verstrekken op de door Onze Minister voorgeschreven wijze en met een door Onze Minister voorgeschreven frequentie. De gegevens en inlichtingen dienen uiterlijk te worden verstrekt:
+De administratieplichtigen, bedoeld in de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0030973&artikel=2&z=2016-01-01&g=2016-01-01) en [2a](https://wetten.overheid.nl/jci1.3:c:BWBR0030973&artikel=2a&z=2016-01-01&g=2016-01-01), zijn gehouden de gegevens en inlichtingen te verstrekken op de door Onze Minister voorgeschreven wijze en met een door Onze Minister voorgeschreven frequentie. De gegevens en inlichtingen dienen uiterlijk te worden verstrekt:
 
 - a. indien Onze Minister maandelijkse aanlevering voorschrijft: de laatste dag van de kalendermaand volgend op de kalendermaand waarop de gegevens en inlichtingen betrekking hebben;
 
@@ -150,8 +150,6 @@ Indien de belastingplichtige een lichaam is dat op grond van [artikel 2, achtste
 
 9. De gegevens en inlichtingen, bedoeld in het derde en vierde lid, worden uiterlijk bij het doen van de aangifte, bedoeld in [artikel 8 van de Algemene wet inzake rijksbelastingen](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=8), over het jaar waarop de gegevens en inlichtingen betrekking hebben door de belastingplichtige verstrekt.
 
-10. Het niet, niet tijdig, onjuist of onvolledig verstrekken van de gegevens en inlichtingen, bedoeld in het derde en vierde lid, wordt aangemerkt als een overtreding.
-
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
 
 ##### Artikel 2a
@@ -182,8 +180,8 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 ##### Artikel 2b
 
-1. Als gegevens en inlichtingen als bedoeld in [artikel 8, vierde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0003954&artikel=8) worden voor administratieplichtigen als bedoeld in [artikel 2a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030973&artikel=2a&z=2015-01-01&g=2015-01-01), mede aangewezen: de naam van elke niet-participerende financiële instelling als bedoeld in artikel 1, eerste lid, onderdeel r, van het FATCA-verdrag, waaraan de administratieplichtige een of meer betalingen heeft verricht en het totaalbedrag van deze betalingen, te bepalen met inachtneming van artikel 3, tweede lid, van het FATCA-verdrag en de bepalingen in de bijlagen I en II van het FATCA-verdrag.
+1. Als gegevens en inlichtingen als bedoeld in [artikel 8, vierde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0003954&artikel=8) worden voor administratieplichtigen als bedoeld in [artikel 2a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030973&artikel=2a&z=2016-01-01&g=2016-01-01), mede aangewezen: de naam van elke niet-participerende financiële instelling als bedoeld in artikel 1, eerste lid, onderdeel r, van het FATCA-verdrag, waaraan de administratieplichtige een of meer betalingen heeft verricht en het totaalbedrag van deze betalingen, te bepalen met inachtneming van artikel 3, tweede lid, van het FATCA-verdrag en de bepalingen in de bijlagen I en II van het FATCA-verdrag.
 
-2. [Artikel 2a, derde, vierde, vijfde, zevende en achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030973&artikel=2a&z=2015-01-01&g=2015-01-01), is voor de toepassing van het eerste lid van overeenkomstige toepassing.
+2. [Artikel 2a, derde, vierde, vijfde, zevende en achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030973&artikel=2a&z=2016-01-01&g=2016-01-01), is voor de toepassing van het eerste lid van overeenkomstige toepassing.
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
