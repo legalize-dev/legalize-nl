@@ -4,7 +4,7 @@ identifier: "BWBR0034372"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-04-03"
-last_updated: "2015-01-01"
+last_updated: "2016-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0034372"
 soort: "ministeriele-regeling"
@@ -52,23 +52,21 @@ In deze regeling wordt verstaan onder:
 
 ##### Artikel 2
 
-1. De voorzitter van de Kamer ontvangt per kalenderjaar een bezoldiging die gelijk is aan de salarisschaal 19 van [bijlage B van het Bezoldigingsbesluit Burgerlijke Rijksambtenaren 1984](https://wetten.overheid.nl/jci1.3:c:BWBR0003630&bijlage=B).
+1. De voorzitter van de Kamer ontvangt per kalenderjaar een bezoldiging die gelijk is aan het salaris van [bijlage A van het Bezoldigingsbesluit Burgerlijke Rijksambtenaren 1984](https://wetten.overheid.nl/jci1.3:c:BWBR0003630&bijlage=A).
 
-2. Bovenop de bezoldiging ontvangt de voorzitter een toelage van € 2.916,67 bruto per maand.
+2. De overige leden van de Kamer ontvangen per kalenderjaar een bezoldiging die gelijk is aan de salarisschaal 18 van [bijlage B van het Bezoldigingsbesluit Burgerlijke Rijksambtenaren 1984](https://wetten.overheid.nl/jci1.3:c:BWBR0003630&bijlage=B).
 
-3. Bovenop de bezoldiging ontvangt de voorzitter tevens een vakantie- en een eindejaarsuitkering van respectievelijk 8% en 8,3% van twaalf maal het bruto maandsalaris plus de in het tweede lid bedoelde toelage.
+3. Bovenop de bezoldiging ontvangen de leden van de Kamer een vakantie- en een eindejaarsuitkering van respectievelijk 8% en 8,3% van twaalf maal het bruto maandsalaris plus de in het vierde lid bedoelde toelage.
 
-4. De bezoldiging wordt, met uitzondering van de vakantie- en eindejaarsuitkering, uitbetaald in gelijke maandelijkse termijnen. De vakantie- en eindejaarsuitkering worden eens per jaar uitbetaald, in de maanden mei respectievelijk november van ieder jaar.
+4. Bovenop de bezoldiging ontvangen de leden van de Kamer tevens een maandelijkse toelage. De hoogte van de toelage is afhankelijk van de bijtelling van de auto, bedoeld in [artikel 7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034372&artikel=7&z=2016-01-01&g=2016-01-01), en wordt zodanig vastgesteld dat de totale bezoldiging per kalenderjaar het bezoldigingsmaximum, bedoeld in [artikel 2.3, eerste lid, van de Wet normering bezoldiging topfunctionarissen publieke en semipublieke sector](https://wetten.overheid.nl/jci1.3:c:BWBR0032249&artikel=2.3), niet overschrijdt.
 
-5. Indien de salarissen in de salarisschalen in [bijlage B van het Bezoldigingsbesluit Burgerlijke Rijksambtenaren 1984](https://wetten.overheid.nl/jci1.3:c:BWBR0003630&bijlage=B) generiek met een bepaald percentage worden verhoogd, wordt het bedrag van de toelage, bedoeld in het tweede lid, telkens voor dezelfde periode met hetzelfde percentage verhoogd.
+5. De totale bezoldiging, bedoeld in het vierde lid, is de som van de toepasselijke bezoldigingscomponenten, genoemd in [artikel 2, eerste lid, Uitvoeringsregeling WNT](https://wetten.overheid.nl/jci1.3:c:BWBR0035962&artikel=2).
+
+6. De bezoldiging wordt, met uitzondering van de vakantie- en eindejaarsuitkering, uitbetaald in gelijke maandelijkse termijnen. De vakantie- en eindejaarsuitkering worden eens per jaar uitbetaald, in de maanden mei respectievelijk november van ieder jaar.
 
 ##### Artikel 3
 
-1. De overige leden van de Kamer ontvangen per kalenderjaar een bezoldiging die gelijk is aan de salarisschaal 18 van [bijlage B van het Bezoldigingsbesluit Burgerlijke Rijksambtenaren 1984](https://wetten.overheid.nl/jci1.3:c:BWBR0003630&bijlage=B).
-
-2. Bovenop de bezoldiging ontvangen de overige leden van de Kamer een toelage van € 2.850,– bruto per maand.
-
-3. [Artikel 2, derde tot en met vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034372&artikel=2&z=2014-01-01&g=2015-01-01), is van overeenkomstige toepassing.
+Vervallen
 
 ##### Artikel 4
 
@@ -80,7 +78,7 @@ In deze regeling wordt verstaan onder:
 
 - b. de tijd dat betrokkene direct voorafgaand aan zijn benoeming in de Kamer van Koophandel op basis van een arbeidsovereenkomst of aanstelling werkzaam is geweest bij de Vereniging Kamer van Koophandel Nederland, een Kamer van Koophandel of de Stichting Syntens.
 
-3. Als berekeningsbasis voor de hoogte van de uitkering, bedoeld in het eerste lid, geldt het salarisbedrag, bedoeld in [bijlage B van het Bezoldigingsbesluit burgerlijke rijksambtenaren 1984](https://wetten.overheid.nl/jci1.3:c:BWBR0003630&bijlage=B), exclusief bijzondere toeslagen, maar inclusief de toelage, bedoeld in de [artikelen 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034372&artikel=2&z=2014-01-01&g=2015-01-01), en [3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034372&artikel=3&z=2014-01-01&g=2015-01-01).
+3. Als berekeningsbasis voor de hoogte van de uitkering, bedoeld in het eerste lid, geldt het salarisbedrag, bedoeld in [bijlage B van het Bezoldigingsbesluit burgerlijke rijksambtenaren 1984](https://wetten.overheid.nl/jci1.3:c:BWBR0003630&bijlage=B), exclusief bijzondere toeslagen, maar inclusief de toelage, bedoeld in [artikel 2, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034372&artikel=2&z=2016-01-01&g=2016-01-01).
 
 4. Betrokkene heeft naast het bepaalde in het eerste lid tevens recht op een ontslagvergoeding van € 75.000,–.
 
@@ -90,7 +88,7 @@ In geval van ongeschiktheid tot het verrichten van zijn arbeid wegens ziekte, ge
 
 ##### Artikel 6
 
-1. De leden van de Kamer ontvangen een representatiekostenvergoeding van € 6.400,– per kalenderjaar.
+1. De leden van de Kamer ontvangen een representatiekostenvergoeding conform [artikel 68a, derde lid, onderdeel a, van het Algemeen Rijksambtenarenreglement](https://wetten.overheid.nl/jci1.3:c:BWBR0001950&artikel=68a).
 
 2. De leden van de Kamer hebben aanspraak op de verloffaciliteiten die gelden voor het personeel van de Kamer.
 
