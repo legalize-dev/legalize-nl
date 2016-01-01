@@ -4,7 +4,7 @@ identifier: "BWBR0028754"
 country: "nl"
 rank: "ministeriele_regeling_bes"
 publication_date: "2026-01-01"
-last_updated: "2013-11-27"
+last_updated: "2016-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0028754"
 soort: "ministeriele-regeling-BES"
@@ -68,7 +68,9 @@ Besluit:
 
 - l. de [Wet minimumlonen BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028170);
 
-- m. het [Besluit onderstand BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028595).
+- m. het [Besluit onderstand BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028595);
+
+- n. de [Wet kinderbijslagvoorziening BES](https://wetten.overheid.nl/jci1.3:c:BWBR0037347).
 
 2. Naast de in het eerste lid genoemde ambtenaren worden tevens de ambtenaren van de Inspectie SZW van het ministerie van Sociale Zaken en Werkgelegenheid aangewezen als ambtenaren belast met het toezicht op de naleving en de uitoefening van de in dit kader geregelde bevoegdheden van het bepaalde bij of krachtens de [Arbeidsveiligheidswet BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028228).
 
@@ -83,5 +85,11 @@ Deze regeling treedt in werking met ingang van 10 oktober 2010.
 ##### Artikel 4
 
 Deze regeling wordt aangehaald als: Aanwijzingsregeling toezichthoudende ambtenaren SZW-regelgeving BES.
+
+Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
+
+##### Artikel 2a
+
+Deze regeling berust mede op [artikel 41, eerste lid, van het Besluit onderstand BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028595&artikel=41).
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
