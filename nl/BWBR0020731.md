@@ -4,7 +4,7 @@ identifier: "BWBR0020731"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-11-14"
-last_updated: "2015-02-03"
+last_updated: "2016-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0020731"
 soort: "ministeriele-regeling"
@@ -60,7 +60,7 @@ In deze regeling wordt verstaan onder:
 
 - f. categorie b-ruimte: ruimte als bedoeld in [artikel 1.1, onderdeel d, onder 4° en 5°, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0020445&artikel=1.1);
 
-- g. een met een lettercombinatie aangeduid formulier: een formulier opgenomen in [bijlage B](https://wetten.overheid.nl/jci1.3:c:BWBR0020731&bijlage=B&z=2015-02-03&g=2015-02-03) bij deze regeling;
+- g. een met een lettercombinatie aangeduid formulier: een formulier opgenomen in [bijlage B](https://wetten.overheid.nl/jci1.3:c:BWBR0020731&bijlage=B&z=2015-02-03&g=2016-01-01) bij deze regeling;
 
 - h. gekoppelde gevelsanering: in het kader van de sanering wegverkeerslawaai of spoorweglawaai treffen van geluidwerende maatregelen met een ander oogmerk dan uitsluitend de beperking van het geluidsniveau binnen de woning of het andere geluidsgevoelig gebouw, vanwege een weg of spoorweg;
 
@@ -118,7 +118,7 @@ In deze regeling wordt verstaan onder:
 
 ##### Artikel 4
 
-1. Maatregelen als bedoeld in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020731&paragraaf=2&artikel=3&z=2015-02-03&g=2015-02-03), komen slechts in aanmerking voor subsidie indien zij door de Minister zijn vastgesteld op grond van [artikel 90, vijfde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0003227&artikel=90) of op grond van [artikel 4.23, derde lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0020445&artikel=4.23).
+1. Maatregelen als bedoeld in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020731&paragraaf=2&artikel=3&z=2015-02-03&g=2016-01-01), komen slechts in aanmerking voor subsidie indien zij door de Minister zijn vastgesteld op grond van [artikel 90, vijfde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0003227&artikel=90) of op grond van [artikel 4.23, derde lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0020445&artikel=4.23).
 
 2. Maatregelen komen niet in aanmerking voor subsidie indien zij betrekking hebben op woningen, andere geluidsgevoelige gebouwen of geluidsgevoelige terreinen die niet tijdig overeenkomstig [artikel 88 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0003227&artikel=88), zoals deze luidde onmiddellijk voorafgaand aan 24 februari 2010, of [artikel 4.17 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0020445&artikel=4.17), zoals dat luidde voor inwerkingtreding van artikel I, onderdeel CC, van het Invoeringsbesluit geluidproductieplafonds, zijn gemeld.
 
@@ -144,11 +144,11 @@ In deze regeling wordt verstaan onder:
 
 - a. de maatregelen niet sober en doelmatig zijn;
 
-- b. voor zover het de maatregelen, bedoeld in [artikel 3, eerste lid, onderdelen b, c en d](https://wetten.overheid.nl/jci1.3:c:BWBR0020731&paragraaf=2&artikel=3&z=2015-02-03&g=2015-02-03), betreft, de maatregelen niet sober zijn en niet financieel doelmatig op grond van de [Regeling doelmatigheid geluidmaatregelen Wet geluidhinder](https://wetten.overheid.nl/jci1.3:c:BWBR0026996), of
+- b. voor zover het de maatregelen, bedoeld in [artikel 3, eerste lid, onderdelen b, c en d](https://wetten.overheid.nl/jci1.3:c:BWBR0020731&paragraaf=2&artikel=3&z=2015-02-03&g=2016-01-01), betreft, de maatregelen niet sober zijn en niet financieel doelmatig op grond van de [Regeling doelmatigheid geluidmaatregelen Wet geluidhinder](https://wetten.overheid.nl/jci1.3:c:BWBR0026996), of
 
 - c. onvoldoende gebruik gemaakt is van de mogelijkheid dat anderen in de kosten voorzien.
 
-2. Bij de beoordeling van de doelmatigheid van bronmaatregelen aan een weg in beheer bij een Provincie of gemeente op grond van de [Regeling doelmatigheid geluidmaatregelen Wet geluidhinder](https://wetten.overheid.nl/jci1.3:c:BWBR0026996), worden de maatregelpunten opgenomen in [bijlage F](https://wetten.overheid.nl/jci1.3:c:BWBR0020731&bijlage=F&z=2015-02-03&g=2015-02-03) toegepast in plaats van de maatregelpunten opgenomen in tabel 1 van [bijlage I bij die regeling](https://wetten.overheid.nl/jci1.3:c:BWBR0026996&bijlage=1).
+2. Bij de beoordeling van de doelmatigheid van bronmaatregelen aan een weg in beheer bij een Provincie of gemeente op grond van de [Regeling doelmatigheid geluidmaatregelen Wet geluidhinder](https://wetten.overheid.nl/jci1.3:c:BWBR0026996), worden de maatregelpunten opgenomen in [bijlage F](https://wetten.overheid.nl/jci1.3:c:BWBR0020731&bijlage=F&z=2015-02-03&g=2016-01-01) toegepast in plaats van de maatregelpunten opgenomen in tabel 1 van [bijlage I bij die regeling](https://wetten.overheid.nl/jci1.3:c:BWBR0026996&bijlage=1).
 
 ##### Artikel 6
 
@@ -168,9 +168,9 @@ Niet in aanmerking voor een subsidie komen maatregelen:
 
 ##### Artikel 7
 
-1. De Minister kan aan het gemeentebestuur of het bestuur op aanvraag subsidie verstrekken ter zake de kosten van voorbereiding van, begeleiding van en toezicht op maatregelen als bedoeld in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020731&paragraaf=2&artikel=3&z=2015-02-03&g=2015-02-03);
+1. De Minister kan aan het gemeentebestuur of het bestuur op aanvraag subsidie verstrekken ter zake de kosten van voorbereiding van, begeleiding van en toezicht op maatregelen als bedoeld in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020731&paragraaf=2&artikel=3&z=2015-02-03&g=2016-01-01);
 
-2. [Artikel 3, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020731&paragraaf=2&artikel=3&z=2015-02-03&g=2015-02-03), is van overeenkomstige toepassing.
+2. [Artikel 3, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020731&paragraaf=2&artikel=3&z=2015-02-03&g=2016-01-01), is van overeenkomstige toepassing.
 
 3. Een subsidie als bedoeld in het eerste lid wordt niet verstrekt voor zover deze betrekking heeft op de kosten van maatregelen ter vermindering van de geluidsbelasting vanwege rijksinfrastructuur.
 
@@ -180,7 +180,7 @@ Niet in aanmerking voor een subsidie komen maatregelen:
 
 - a. in de gehele betreffende gemeente minder dan 25 saneringsobjecten, als bedoeld in [artikel 89, eerste lid van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0003227&artikel=89), en geluidsgevoelige gebouwen, als bedoeld in [artikel 3.6 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0020445&artikel=3.6), (saneringsobjecten) zijn gelegen die nog niet in een saneringsprogramma zijn opgenomen, of;
 
-- b. het gemeentebestuur of bestuur bij de aanvraag, bedoeld in het eerste lid, heeft aangegeven dat alleen de maatregel, bedoeld in [artikel 3, eerste lid, onderdeel f](https://wetten.overheid.nl/jci1.3:c:BWBR0020731&paragraaf=2&artikel=3&z=2015-02-03&g=2015-02-03), in aanmerking komt, of;
+- b. het gemeentebestuur of bestuur bij de aanvraag, bedoeld in het eerste lid, heeft aangegeven dat alleen de maatregel, bedoeld in [artikel 3, eerste lid, onderdeel f](https://wetten.overheid.nl/jci1.3:c:BWBR0020731&paragraaf=2&artikel=3&z=2015-02-03&g=2016-01-01), in aanmerking komt, of;
 
 - c. Indien de aanvraag wordt gedaan ten behoeve van een reconstructie als bedoeld in [artikel 98, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0003227&artikel=98).
 
@@ -192,7 +192,7 @@ Vervallen
 
 ##### Artikel 9
 
-Subsidieaanvragen als bedoeld in [artikel 7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020731&paragraaf=3&sub-paragraaf=3.1&artikel=7&z=2015-02-03&g=2015-02-03), worden jaarlijks gelijktijdig beoordeeld op basis van hun geschiktheid om bij te dragen aan de doelstellingen van deze regeling.
+Subsidieaanvragen als bedoeld in [artikel 7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020731&paragraaf=3&sub-paragraaf=3.1&artikel=7&z=2015-02-03&g=2016-01-01), worden jaarlijks gelijktijdig beoordeeld op basis van hun geschiktheid om bij te dragen aan de doelstellingen van deze regeling.
 
 ##### Artikel 10
 
@@ -216,7 +216,7 @@ Subsidieaanvragen als bedoeld in [artikel 7, eerste lid](https://wetten.overheid
 
 - a. maatregelen die in uitvoering zijn genomen, voordat op de aanvraag door de Minister is beslist;
 
-- b. maatregelen waarvoor geen subsidie als bedoeld in [artikel 7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020731&paragraaf=3&sub-paragraaf=3.1&artikel=7&z=2015-02-03&g=2015-02-03), is verleend.
+- b. maatregelen waarvoor geen subsidie als bedoeld in [artikel 7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020731&paragraaf=3&sub-paragraaf=3.1&artikel=7&z=2015-02-03&g=2016-01-01), is verleend.
 
 2. Het eerste lid, onder a, is niet van toepassing in de gevallen waarin de Minister vooraf heeft toegestemd met het op en eerder tijdstip in uitvoering nemen van die maatregelen.
 
@@ -232,7 +232,7 @@ Subsidieaanvragen als bedoeld in [artikel 7, eerste lid](https://wetten.overheid
 
 - c. niet voortvloeien uit het normale beheer en onderhoud van de weg.
 
-2. Verkeersmaatregelen komen slechts in aanmerking voor subsidie, voor zover de kosten niet hoger zijn dan het bedrag dat volgt uit de toepassing van [bijlage A, onderdeel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0020731&bijlage=A&z=2015-02-03&g=2015-02-03), bij deze regeling.
+2. Verkeersmaatregelen komen slechts in aanmerking voor subsidie, voor zover de kosten niet hoger zijn dan het bedrag dat volgt uit de toepassing van [bijlage A, onderdeel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0020731&bijlage=A&z=2015-02-03&g=2016-01-01), bij deze regeling.
 
 ##### Artikel 13
 
@@ -240,11 +240,11 @@ Geluidreducerende maatregelen aan de constructie van een spoorweg komen slechts 
 
 - a. voor zover de kosten niet voortvloeien uit het normale beheer en onderhoud van de spoorweg;
 
-- b. indien het geluidreducerende maatregelen aan een kunstwerk in een spoorweg betreft, met uitzondering van het plaatsen van raildempers, voor zover de kosten niet hoger zijn dan het bedrag dat volgt uit de toepassing van [Bijlage A](https://wetten.overheid.nl/jci1.3:c:BWBR0020731&bijlage=A&z=2015-02-03&g=2015-02-03), onderdeel 3 bij deze regeling.
+- b. indien het geluidreducerende maatregelen aan een kunstwerk in een spoorweg betreft, met uitzondering van het plaatsen van raildempers, voor zover de kosten niet hoger zijn dan het bedrag dat volgt uit de toepassing van [Bijlage A](https://wetten.overheid.nl/jci1.3:c:BWBR0020731&bijlage=A&z=2015-02-03&g=2016-01-01), onderdeel 3 bij deze regeling.
 
 ##### Artikel 14
 
-Afschermende maatregelen komen voorts slechts in aanmerking voor subsidie voor zover de kosten, behoudens voorafgaande instemming van de Minister, niet meer dan 10% hoger zijn dan de gemiddelde kosten van de in de praktijk gangbare afschermende maatregelen als bedoeld in [bijlage C](https://wetten.overheid.nl/jci1.3:c:BWBR0020731&bijlage=C&z=2015-02-03&g=2015-02-03).
+Afschermende maatregelen komen voorts slechts in aanmerking voor subsidie voor zover de kosten, behoudens voorafgaande instemming van de Minister, niet meer dan 10% hoger zijn dan de gemiddelde kosten van de in de praktijk gangbare afschermende maatregelen als bedoeld in [bijlage C](https://wetten.overheid.nl/jci1.3:c:BWBR0020731&bijlage=C&z=2015-02-03&g=2016-01-01).
 
 ##### Artikel 15
 
@@ -290,11 +290,11 @@ Geluidwerende maatregelen komen, in geval van autonome gevelsanering, slechts vo
 
 - c. voor zover voor de eventueel aan te brengen ventilatievoorzieningen, waar mogelijk, gebruik is gemaakt van de bestaande ventilatiemogelijkheden, rekening houdend met de eisen die aan het voldoende beperken van de geluidsbelasting worden gesteld, en
 
-- d. tot het bedrag van de werkelijke kosten, zulks met een maximum van het met behulp van [bijlage D, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0020731&bijlage=D&z=2015-02-03&g=2015-02-03), berekende bedrag; bij een eventuele overschrijding van dat bedrag kan ook dat meerdere voor subsidie in aanmerking komen indien die overschrijding naar het oordeel van de Minister voldoende onderbouwd is.
+- d. tot het bedrag van de werkelijke kosten, zulks met een maximum van het met behulp van [bijlage D, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0020731&bijlage=D&z=2015-02-03&g=2016-01-01), berekende bedrag; bij een eventuele overschrijding van dat bedrag kan ook dat meerdere voor subsidie in aanmerking komen indien die overschrijding naar het oordeel van de Minister voldoende onderbouwd is.
 
 ##### Artikel 18
 
-1. De in een saneringsprogramma opgenomen geluidwerende maatregelen aan woningen komen, in geval van gekoppelde gevelsanering, uitsluitend voor een subsidie in aanmerking, voor zover de kosten niet hoger zijn dan het bedrag dat is bepaald met behulp van [bijlage D, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0020731&bijlage=D&z=2015-02-03&g=2015-02-03).
+1. De in een saneringsprogramma opgenomen geluidwerende maatregelen aan woningen komen, in geval van gekoppelde gevelsanering, uitsluitend voor een subsidie in aanmerking, voor zover de kosten niet hoger zijn dan het bedrag dat is bepaald met behulp van [bijlage D, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0020731&bijlage=D&z=2015-02-03&g=2016-01-01).
 
 2. De Minister kan, in geval van bijzondere onderdelen van de gevel, op schriftelijk gemotiveerd verzoek van het gemeentebestuur of het bestuur een hogere dan de in het eerste lid bedoelde subsidie verstrekken.
 
@@ -302,15 +302,15 @@ Geluidwerende maatregelen komen, in geval van autonome gevelsanering, slechts vo
 
 1. Maatregelen tegen wegverkeers- en spoorweglawaai die strekken tot onttrekking aan de bestemming van woningen en andere geluidsgevoelige gebouwen komen slechts in aanmerking voor subsidie, indien de geluidsbelasting op deze woningen en gebouwen, met aftrek als bedoeld in [artikel 110g van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0003227&artikel=110g), vanwege wegverkeerslawaai hoger is dan 65 dB en vanwege spoorweglawaai hoger is dan 70 dB.
 
-2. Het subsidiebedrag voor maatregelen als bedoeld in het eerste lid is niet hoger dan het bedrag dat volgt uit de toepassing van [bijlage A](https://wetten.overheid.nl/jci1.3:c:BWBR0020731&bijlage=A&z=2015-02-03&g=2015-02-03), onderdelen 4 en 5.
+2. Het subsidiebedrag voor maatregelen als bedoeld in het eerste lid is niet hoger dan het bedrag dat volgt uit de toepassing van [bijlage A](https://wetten.overheid.nl/jci1.3:c:BWBR0020731&bijlage=A&z=2015-02-03&g=2016-01-01), onderdelen 4 en 5.
 
 #### § 4. Procedureverloop
 
-#### § 4.1. Procedure voorbereidingssubsidie
+#### § 3.3. subsidieplafond
 
 ##### Artikel 20
 
-Een aanvraag om subsidie als bedoeld in [artikel 7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020731&paragraaf=3&sub-paragraaf=3.1&artikel=7&z=2015-02-03&g=2015-02-03), wordt ingediend bij de Minister, met gebruikmaking van een volledig ingevuld formulier VBT.
+Een aanvraag om subsidie als bedoeld in [artikel 7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020731&paragraaf=3&sub-paragraaf=3.1&artikel=7&z=2015-02-03&g=2016-01-01), wordt ingediend bij de Minister, met gebruikmaking van een volledig ingevuld formulier VBT.
 
 ##### Artikel 21
 
@@ -326,7 +326,7 @@ Een aanvraag om subsidie als bedoeld in [artikel 7, eerste lid](https://wetten.o
 
 1. De Minister beslist vóór 1 juni over de aanvraag voor een subsidie voor voorbereiding, begeleiding en toezicht.
 
-2. In de gevallen, genoemd in [artikel 21, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020731&paragraaf=4&sub-paragraaf=4.1&artikel=21&z=2015-02-03&g=2015-02-03), beslist de minister binnen vier maanden na ontvangst van de aanvraag.
+2. In de gevallen, genoemd in [artikel 21, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020731&paragraaf=4&sub-paragraaf=4.1&artikel=21&z=2015-02-03&g=2016-01-01), beslist de minister binnen vier maanden na ontvangst van de aanvraag.
 
 3. Indien de beslissing als bedoeld in het eerste lid negatief is, kan de Minister deze beslissing tot 31 december herzien.
 
@@ -342,17 +342,17 @@ In het besluit tot verlening van een subsidie voor voorbereiding, begeleiding en
 
 3. Het voorschot bedraagt € 150,– per saneringsobject met een geluidsbelasting tot en met 55 dB, inclusief aftrek als bedoeld in [artikel 110g van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0003227&artikel=110g).
 
-4. Na afloop van het tijdvak, bedoeld in [artikel 23](https://wetten.overheid.nl/jci1.3:c:BWBR0020731&paragraaf=4&sub-paragraaf=4.1&artikel=23&z=2015-02-03&g=2015-02-03), kan de Minister een nieuw voorschot verstrekken, waarbij de verstrekte voorschotten tezamen ten hoogste 95% van de verleende subsidie bedragen.
+4. Na afloop van het tijdvak, bedoeld in [artikel 23](https://wetten.overheid.nl/jci1.3:c:BWBR0020731&paragraaf=4&sub-paragraaf=4.1&artikel=23&z=2015-02-03&g=2016-01-01), kan de Minister een nieuw voorschot verstrekken, waarbij de verstrekte voorschotten tezamen ten hoogste 95% van de verleende subsidie bedragen.
 
 ##### Artikel 25
 
 1. Na ontvangst van een volledig ingevuld formulier MA of MA-F stelt de Minister de subsidie voor voorbereiding, begeleiding en toezicht vast op:
 
-- a. 18% van het bedrag van de verlening van de subsidie voor de maatregelen, als bedoeld in [artikel 3, eerste lid, onderdeel a tot en met d](https://wetten.overheid.nl/jci1.3:c:BWBR0020731&paragraaf=2&artikel=3&z=2015-02-03&g=2015-02-03), daarbij wijzigingen als gevolg van toepassing van [artikel 30](https://wetten.overheid.nl/jci1.3:c:BWBR0020731&paragraaf=4&sub-paragraaf=4.2&artikel=30&z=2015-02-03&g=2015-02-03) of [31](https://wetten.overheid.nl/jci1.3:c:BWBR0020731&paragraaf=4&sub-paragraaf=4.2&artikel=31&z=2015-02-03&g=2015-02-03) niet meegerekend.
+- a. 18% van het bedrag van de verlening van de subsidie voor de maatregelen, als bedoeld in [artikel 3, eerste lid, onderdeel a tot en met d](https://wetten.overheid.nl/jci1.3:c:BWBR0020731&paragraaf=2&artikel=3&z=2015-02-03&g=2016-01-01), daarbij wijzigingen als gevolg van toepassing van [artikel 30](https://wetten.overheid.nl/jci1.3:c:BWBR0020731&paragraaf=4&sub-paragraaf=4.2&artikel=30&z=2015-02-03&g=2016-01-01) of [31](https://wetten.overheid.nl/jci1.3:c:BWBR0020731&paragraaf=4&sub-paragraaf=4.2&artikel=31&z=2015-02-03&g=2016-01-01) niet meegerekend.
 
-- b. Indien het project uitsluitend of tevens maatregelen betreft als bedoeld in [artikel 3, eerste lid, onderdeel e](https://wetten.overheid.nl/jci1.3:c:BWBR0020731&paragraaf=2&artikel=3&z=2015-02-03&g=2015-02-03), vermeerdert de Minister het in onderdeel a bedoelde bedrag met een bedrag dat wordt bepaald met toepassing van Bijlage A, onderdeel 6.
+- b. Indien het project uitsluitend of tevens maatregelen betreft als bedoeld in [artikel 3, eerste lid, onderdeel e](https://wetten.overheid.nl/jci1.3:c:BWBR0020731&paragraaf=2&artikel=3&z=2015-02-03&g=2016-01-01), vermeerdert de Minister het in onderdeel a bedoelde bedrag met een bedrag dat wordt bepaald met toepassing van Bijlage A, onderdeel 6.
 
-2. In afwijking van het eerste lid verzoekt de subsidieontvanger, indien deze geen subsidie als bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0020731&paragraaf=2&artikel=3&z=2015-02-03&g=2015-02-03) aanvraagt, uiterlijk vier weken na de afronding van de procedure, beschreven in hoofdstuk 6 van het besluit, om vaststelling van de subsidie voor voorbereiding, begeleiding en toezicht.
+2. In afwijking van het eerste lid verzoekt de subsidieontvanger, indien deze geen subsidie als bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0020731&paragraaf=2&artikel=3&z=2015-02-03&g=2016-01-01) aanvraagt, uiterlijk vier weken na de afronding van de procedure, beschreven in hoofdstuk 6 van het besluit, om vaststelling van de subsidie voor voorbereiding, begeleiding en toezicht.
 
 3. De Minister kan de subsidie voor voorbereiding, begeleiding en toezicht op nihil vaststellen:
 
@@ -362,7 +362,7 @@ In het besluit tot verlening van een subsidie voor voorbereiding, begeleiding en
 
 4. Indien toepassing van het derde lid zal leiden tot onbillijkheid van overwegende aard, kan de Minister besluiten om de subsidie voor voorbereiding, begeleiding en toezicht, in afwijking van het derde lid, vast te stellen op het reeds betaalde voorschotbedrag.
 
-5. In afwijking van het eerste lid stelt de Minister de subsidie voor voorbereiding, begeleiding en toezicht vast op 4% van het bedrag van de verlening van de subsidie voor de betrokken maatregelen, daarbij wijzigingen als gevolg van toepassing van [artikel 30](https://wetten.overheid.nl/jci1.3:c:BWBR0020731&paragraaf=4&sub-paragraaf=4.2&artikel=30&z=2015-02-03&g=2015-02-03) of [31](https://wetten.overheid.nl/jci1.3:c:BWBR0020731&paragraaf=4&sub-paragraaf=4.2&artikel=31&z=2015-02-03&g=2015-02-03) niet meegerekend, vermeerderd met het bedrag dat de spoorwegexploitant bij de subsidieontvanger in rekening heeft gebracht ten behoeve van de voorbereiding van, begeleiding van en het toezicht op de maatregelen, indien:
+5. In afwijking van het eerste lid stelt de Minister de subsidie voor voorbereiding, begeleiding en toezicht vast op 4% van het bedrag van de verlening van de subsidie voor de betrokken maatregelen, daarbij wijzigingen als gevolg van toepassing van [artikel 30](https://wetten.overheid.nl/jci1.3:c:BWBR0020731&paragraaf=4&sub-paragraaf=4.2&artikel=30&z=2015-02-03&g=2016-01-01) of [31](https://wetten.overheid.nl/jci1.3:c:BWBR0020731&paragraaf=4&sub-paragraaf=4.2&artikel=31&z=2015-02-03&g=2016-01-01) niet meegerekend, vermeerderd met het bedrag dat de spoorwegexploitant bij de subsidieontvanger in rekening heeft gebracht ten behoeve van de voorbereiding van, begeleiding van en het toezicht op de maatregelen, indien:
 
 - a. het overeenkomstig de aanhef berekende subsidiebedrag 18% of meer van het bedrag van de verlening van de subsidie voor de maatregelen bedraagt, en
 
@@ -378,7 +378,7 @@ Vervallen
 
 ##### Artikel 27
 
-Een aanvraag om subsidie als bedoeld in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020731&paragraaf=2&artikel=3&z=2015-02-03&g=2015-02-03) wordt ingediend bij de Minister, met gebruikmaking van een volledig ingevuld formulier UK/S.
+Een aanvraag om subsidie als bedoeld in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020731&paragraaf=2&artikel=3&z=2015-02-03&g=2016-01-01) wordt ingediend bij de Minister, met gebruikmaking van een volledig ingevuld formulier UK/S.
 
 ##### Artikel 28
 
@@ -386,7 +386,7 @@ Vervallen
 
 ##### Artikel 29
 
-De Minister beslist binnen vier maanden na ontvangst van de aanvraag om een subsidie als bedoeld in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020731&paragraaf=2&artikel=3&z=2015-02-03&g=2015-02-03).
+De Minister beslist binnen vier maanden na ontvangst van de aanvraag om een subsidie als bedoeld in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020731&paragraaf=2&artikel=3&z=2015-02-03&g=2016-01-01).
 
 ##### Artikel 30
 
@@ -420,15 +420,15 @@ Voorschotten worden maximaal vier maal, gelijkmatig verspreid over het tijdvak w
 
 1. De subsidieontvanger zendt de Minister, onder gebruikmaking van formulier WG of formulier RG, binnen 10 maanden na het einde van het tijdvak waarin de maatregelen getroffen moesten worden de aanvraag tot subsidievaststelling.
 
-2. De subsidieontvanger maakt voor de verklaring, bedoeld in [artikel 14, tweede lid, onder d, van het Besluit milieusubsidies](https://wetten.overheid.nl/jci1.3:c:BWBR0010065&artikel=14) gebruik van [model 1 of model 2 van bijlage E](https://wetten.overheid.nl/jci1.3:c:BWBR0020731&bijlage=E&z=2015-02-03&g=2015-02-03).
+2. De subsidieontvanger maakt voor de verklaring, bedoeld in [artikel 14, tweede lid, onder d, van het Besluit milieusubsidies](https://wetten.overheid.nl/jci1.3:c:BWBR0010065&artikel=14) gebruik van [model 1 of model 2 van bijlage E](https://wetten.overheid.nl/jci1.3:c:BWBR0020731&bijlage=E&z=2015-02-03&g=2016-01-01).
 
 ##### Artikel 34
 
-Indien de subsidieontvanger de aanvraag tot subsidievaststelling niet tijdig heeft toegezonden of indien de toegezonden stukken naar het oordeel van de Minister onvolledig zijn, stelt de Minister de subsidieontvanger binnen zes weken na de in [artikel 33, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020731&paragraaf=4&sub-paragraaf=4.2&artikel=33&z=2015-02-03&g=2015-02-03), genoemde termijn dan wel na ontvangst van deze stukken, in de gelegenheid om binnen een door de Minister te stellen termijn van ten hoogste acht weken alsnog aan zijn verplichtingen te voldoen.
+Indien de subsidieontvanger de aanvraag tot subsidievaststelling niet tijdig heeft toegezonden of indien de toegezonden stukken naar het oordeel van de Minister onvolledig zijn, stelt de Minister de subsidieontvanger binnen zes weken na de in [artikel 33, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020731&paragraaf=4&sub-paragraaf=4.2&artikel=33&z=2015-02-03&g=2016-01-01), genoemde termijn dan wel na ontvangst van deze stukken, in de gelegenheid om binnen een door de Minister te stellen termijn van ten hoogste acht weken alsnog aan zijn verplichtingen te voldoen.
 
 ##### Artikel 35
 
-1. Indien de subsidieontvanger niet binnen de in [artikel 34](https://wetten.overheid.nl/jci1.3:c:BWBR0020731&paragraaf=4&sub-paragraaf=4.2&artikel=34&z=2015-02-03&g=2015-02-03) bedoelde termijn aan zijn verplichtingen heeft voldaan, kan de Minister voor iedere week die de subsidieontvanger in gebreke blijft, bij de vaststelling van de subsidie een korting toepassen van 2,5% van de verleende subsidie.
+1. Indien de subsidieontvanger niet binnen de in [artikel 34](https://wetten.overheid.nl/jci1.3:c:BWBR0020731&paragraaf=4&sub-paragraaf=4.2&artikel=34&z=2015-02-03&g=2016-01-01) bedoelde termijn aan zijn verplichtingen heeft voldaan, kan de Minister voor iedere week die de subsidieontvanger in gebreke blijft, bij de vaststelling van de subsidie een korting toepassen van 2,5% van de verleende subsidie.
 
 2. Indien de subsidieontvanger deze termijn met zestien weken heeft overschreden, stelt de Minister de subsidie vast, waarbij hij een korting toepast van ten minste 50% en ten hoogste 100% van de verleende subsidie.
 
@@ -438,7 +438,7 @@ Indien de subsidieontvanger de aanvraag tot subsidievaststelling niet tijdig hee
 
 ##### Artikel 36
 
-1. Zolang geen aanvraag tot subsidievaststelling is ingediend, dient de ontvanger van een subsidie als bedoeld in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020731&paragraaf=2&artikel=3&z=2015-02-03&g=2015-02-03), eenmaal per jaar, voor een in het besluit tot subsidieverlening te noemen datum, een overzicht in als bedoeld in [artikel 13 van het Besluit milieusubsidies](https://wetten.overheid.nl/jci1.3:c:BWBR0010065&artikel=13).
+1. Zolang geen aanvraag tot subsidievaststelling is ingediend, dient de ontvanger van een subsidie als bedoeld in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020731&paragraaf=2&artikel=3&z=2015-02-03&g=2016-01-01), eenmaal per jaar, voor een in het besluit tot subsidieverlening te noemen datum, een overzicht in als bedoeld in [artikel 13 van het Besluit milieusubsidies](https://wetten.overheid.nl/jci1.3:c:BWBR0010065&artikel=13).
 
 2. Het eerste lid is niet van toepassing indien de subsidieontvanger een gemeentebestuur, bestuur of provinciebestuur is.
 
@@ -486,7 +486,7 @@ De subsidieontvanger is verplicht:
 
 4. Indien het saneringsprogramma geluidwerende maatregelen omvat, wordt tevens gebruik gemaakt van formulier GBa of GBb.
 
-5. Het vierde lid is niet van toepassing indien de subsidieontvanger, ingevolge [artikel 35b, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020731&paragraaf=4&sub-paragraaf=4.3&artikel=35b&z=2015-02-03&g=2015-02-03), heeft aangegeven gebruik te maken van de facultatieve procedure.
+5. Het vierde lid is niet van toepassing indien de subsidieontvanger, ingevolge [artikel 35b, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020731&paragraaf=4&sub-paragraaf=4.3&artikel=35b&z=2015-02-03&g=2016-01-01), heeft aangegeven gebruik te maken van de facultatieve procedure.
 
 ##### Artikel 42
 
@@ -502,17 +502,17 @@ De subsidieontvanger is verplicht:
 
 1. De Minister kan een onderzoek instellen naar de kwaliteit en de kosten van de maatregelen waarvoor subsidie is verleend.
 
-2. Indien uit het onderzoek mocht blijken dat de geluidwerende maatregelen de geluidsbelasting niet hebben teruggebracht tot de waarden, bedoeld in [artikel 16, onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0020731&paragraaf=3&sub-paragraaf=3.2&artikel=16&z=2015-02-03&g=2015-02-03), stelt de Minister de subsidieontvanger in de gelegenheid om de geluidwerende maatregelen binnen een door hem te bepalen termijn alsnog te voltooien of aan te vullen, dan wel opnieuw te treffen.
+2. Indien uit het onderzoek mocht blijken dat de geluidwerende maatregelen de geluidsbelasting niet hebben teruggebracht tot de waarden, bedoeld in [artikel 16, onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0020731&paragraaf=3&sub-paragraaf=3.2&artikel=16&z=2015-02-03&g=2016-01-01), stelt de Minister de subsidieontvanger in de gelegenheid om de geluidwerende maatregelen binnen een door hem te bepalen termijn alsnog te voltooien of aan te vullen, dan wel opnieuw te treffen.
 
 3. Indien de betrokken maatregelen niet binnen de in het tweede lid bedoelde termijn zijn getroffen, kan de Minister op kosten van de subsidieontvanger de nodige maatregelen treffen.
 
-4. Indien uit het onderzoek mocht blijken dat de kosten van de geluidwerende maatregelen niet voldoen aan [artikel 16, onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0020731&paragraaf=3&sub-paragraaf=3.2&artikel=16&z=2015-02-03&g=2015-02-03), stelt de Minister de subsidieontvanger in de gelegenheid om daarover opheldering te verschaffen binnen een door hem te bepalen termijn.
+4. Indien uit het onderzoek mocht blijken dat de kosten van de geluidwerende maatregelen niet voldoen aan [artikel 16, onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0020731&paragraaf=3&sub-paragraaf=3.2&artikel=16&z=2015-02-03&g=2016-01-01), stelt de Minister de subsidieontvanger in de gelegenheid om daarover opheldering te verschaffen binnen een door hem te bepalen termijn.
 
 5. De Minister kan een onafhankelijke instantie aanwijzen die belast is met de toepassing van het eerste, tweede en derde lid. Hij doet daarvan mededeling aan de subsidieontvanger.
 
 ##### Artikel 44
 
-1. In afwijking van [artikel 6, aanhef en onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0020731&paragraaf=2&artikel=6&z=2015-02-03&g=2015-02-03), zoals dat luidde voor 1 januari 2015, kan de Minister aan het gemeentebestuur op aanvraag subsidie verstrekken voor de kosten van geluidwerende maatregelen tegen wegverkeerslawaai aan woningen:
+1. In afwijking van [artikel 6, aanhef en onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0020731&paragraaf=2&artikel=6&z=2015-02-03&g=2016-01-01), zoals dat luidde voor 1 januari 2015, kan de Minister aan het gemeentebestuur op aanvraag subsidie verstrekken voor de kosten van geluidwerende maatregelen tegen wegverkeerslawaai aan woningen:
 
 - a. die op 1 maart 1986 een geluidsbelasting vanwege een weg, niet zijnde een rijksweg, ondervonden van ten minste 65 dB(A), dan wel ten minste 60 dB(A) indien zij deel uitmaken van een verzameling van woningen waarvan ten minste één woning een geluidsbelasting vanwege een weg ondervond van ten minste 65 dB(A), en
 
@@ -554,7 +554,7 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst, met u
 
 ##### Artikel 13a
 
-1. De subsidie voor geluidreducerende maatregelen aan de constructie van een weg, niet zijnde een rijksweg, wordt berekend met toepassing van [Bijlage A](https://wetten.overheid.nl/jci1.3:c:BWBR0020731&bijlage=A&z=2015-02-03&g=2015-02-03), onderdeel 2 bij deze regeling.
+1. De subsidie voor geluidreducerende maatregelen aan de constructie van een weg, niet zijnde een rijksweg, wordt berekend met toepassing van [Bijlage A](https://wetten.overheid.nl/jci1.3:c:BWBR0020731&bijlage=A&z=2015-02-03&g=2016-01-01), onderdeel 2 bij deze regeling.
 
 2. Geluidreducerende maatregelen aan de constructie van een rijksweg komen slechts in aanmerking voor subsidie voor zover de kosten van de maatregel hoger zijn dan de kosten bij de aanleg van een wegdek van Dicht Asfalt Beton op het betreffende traject.
 
@@ -568,25 +568,25 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst, met u
 
 ##### Artikel 30a
 
-De Minister kan de subsidieverlening wijzigen naar aanleiding van het rapport, bedoeld in [artikel 39, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0020731&paragraaf=5&sub-paragraaf=5.1&artikel=39&z=2015-02-03&g=2015-02-03).
+De Minister kan de subsidieverlening wijzigen naar aanleiding van het rapport, bedoeld in [artikel 39, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0020731&paragraaf=5&sub-paragraaf=5.1&artikel=39&z=2015-02-03&g=2016-01-01).
 
 ##### Artikel 33a
 
-1. In afwijking van [artikel 33](https://wetten.overheid.nl/jci1.3:c:BWBR0020731&paragraaf=4&sub-paragraaf=4.2&artikel=33&z=2015-02-03&g=2015-02-03), wordt, indien de subsidieontvanger een gemeentebestuur, bestuur of provinciebestuur is, een subsidievaststelling aangevraagd door verantwoordingsinformatie aan de Minister van Binnenlandse Zaken en Koninkrijksrelaties te verstrekken, op een wijze als bedoeld in [artikel 17a van de Financiële-verhoudingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0008290&artikel=17a).
+1. In afwijking van [artikel 33](https://wetten.overheid.nl/jci1.3:c:BWBR0020731&paragraaf=4&sub-paragraaf=4.2&artikel=33&z=2015-02-03&g=2016-01-01), wordt, indien de subsidieontvanger een gemeentebestuur, bestuur of provinciebestuur is, een subsidievaststelling aangevraagd door verantwoordingsinformatie aan de Minister van Binnenlandse Zaken en Koninkrijksrelaties te verstrekken, op een wijze als bedoeld in [artikel 17a van de Financiële-verhoudingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0008290&artikel=17a).
 
 2. In afwijking van het eerste lid kan de subsidieontvanger een subsidievaststelling aanvragen door de verantwoordingsinformatie, bedoeld in het eerste lid, voor zover deze specifiek op de verleende subsidie ziet, voor 1 juli van het jaar volgend op het begrotingsjaar aan de Minister te zenden.
 
 ##### Artikel 35a
 
-De [artikelen 34](https://wetten.overheid.nl/jci1.3:c:BWBR0020731&paragraaf=4&sub-paragraaf=4.2&artikel=34&z=2015-02-03&g=2015-02-03) en [35](https://wetten.overheid.nl/jci1.3:c:BWBR0020731&paragraaf=4&sub-paragraaf=4.2&artikel=35&z=2015-02-03&g=2015-02-03) zijn niet van toepassing indien de subsidieontvanger een gemeentebestuur, bestuur of provinciebestuur is.
+De [artikelen 34](https://wetten.overheid.nl/jci1.3:c:BWBR0020731&paragraaf=4&sub-paragraaf=4.2&artikel=34&z=2015-02-03&g=2016-01-01) en [35](https://wetten.overheid.nl/jci1.3:c:BWBR0020731&paragraaf=4&sub-paragraaf=4.2&artikel=35&z=2015-02-03&g=2016-01-01) zijn niet van toepassing indien de subsidieontvanger een gemeentebestuur, bestuur of provinciebestuur is.
 
 #### § 5. Verplichtingen subsidieontvanger
 
-#### § 6. Saneringsprogramma
+#### § 5. Verplichtingen subsidieontvanger
 
 ##### Artikel 42a
 
-In een saneringsprogramma als bedoeld in de [artikelen 41](https://wetten.overheid.nl/jci1.3:c:BWBR0020731&paragraaf=6&artikel=41&z=2015-02-03&g=2015-02-03) en [42](https://wetten.overheid.nl/jci1.3:c:BWBR0020731&paragraaf=6&artikel=42&z=2015-02-03&g=2015-02-03) is onderbouwd dat maatregelen financieel doelmatig zijn op grond van de [Regeling doelmatigheid geluidmaatregelen Wet geluidhinder](https://wetten.overheid.nl/jci1.3:c:BWBR0026996), voor zover het saneringsprogramma afschermende of geluidreducerende maatregelen omvat.
+In een saneringsprogramma als bedoeld in de [artikelen 41](https://wetten.overheid.nl/jci1.3:c:BWBR0020731&paragraaf=6&artikel=41&z=2015-02-03&g=2016-01-01) en [42](https://wetten.overheid.nl/jci1.3:c:BWBR0020731&paragraaf=6&artikel=42&z=2015-02-03&g=2016-01-01) is onderbouwd dat maatregelen financieel doelmatig zijn op grond van de [Regeling doelmatigheid geluidmaatregelen Wet geluidhinder](https://wetten.overheid.nl/jci1.3:c:BWBR0026996), voor zover het saneringsprogramma afschermende of geluidreducerende maatregelen omvat.
 
 #### § 7. Slotbepalingen
 
@@ -659,13 +659,13 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst, met u
 
 #### § 8. Tijdelijke overgangsregeling Investeringsbudget Stedelijke Vernieuwing Geluid
 
-#### § 8.1. Subsidiabele maatregelen
+#### § 5.2. Verplichtingen subsidieontvanger bij facultatieve procedure geluidwerende maatregelen
 
 #### § 8.2. Subsidieplafond
 
 ##### Artikel 44a
 
-1. Het tijdvak voor de subsidieverstrekking ten behoeve van het treffen van geluidwerende maatregelen aan woningen als bedoeld in [artikel 44, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020731&paragraaf=8&sub-paragraaf=8.1&artikel=44&z=2015-02-03&g=2015-02-03), beslaat de periode vanaf de inwerkingtreding van paragraaf 8 tot en met 31 december 2014.
+1. Het tijdvak voor de subsidieverstrekking ten behoeve van het treffen van geluidwerende maatregelen aan woningen als bedoeld in [artikel 44, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020731&paragraaf=8&sub-paragraaf=8.1&artikel=44&z=2015-02-03&g=2016-01-01), beslaat de periode vanaf de inwerkingtreding van paragraaf 8 tot en met 31 december 2014.
 
 2. Het subsidieplafond voor het tijdvak, bedoeld in het eerste lid, wordt vastgesteld op € 15.850.000,–.
 
@@ -673,9 +673,9 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst, met u
 
 ##### Artikel 44b
 
-1. Per subsidieaanvrager geldt een maximum bedrag dat wordt bepaald volgens [Bijlage H](https://wetten.overheid.nl/jci1.3:c:BWBR0020731&bijlage=H&z=2015-02-03&g=2015-02-03).
+1. Per subsidieaanvrager geldt een maximum bedrag dat wordt bepaald volgens [Bijlage H](https://wetten.overheid.nl/jci1.3:c:BWBR0020731&bijlage=H&z=2015-02-03&g=2016-01-01).
 
-2. Een subsidieaanvrager kan per categorie als bedoeld in [artikel 44e, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020731&paragraaf=8&sub-paragraaf=8.5&artikel=44e&z=2015-02-03&g=2015-02-03), slechts één aanvraag indienen. Indien een subsidieaanvrager meerdere aanvragen binnen dezelfde categorie indient, worden de aanvragen met de laagst aangevraagde subsidiebedragen niet in behandeling genomen.
+2. Een subsidieaanvrager kan per categorie als bedoeld in [artikel 44e, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020731&paragraaf=8&sub-paragraaf=8.5&artikel=44e&z=2015-02-03&g=2016-01-01), slechts één aanvraag indienen. Indien een subsidieaanvrager meerdere aanvragen binnen dezelfde categorie indient, worden de aanvragen met de laagst aangevraagde subsidiebedragen niet in behandeling genomen.
 
 3. De subsidieaanvrager verklaart dat aan de te saneren woningen niet eerder ten laste van het Rijk maatregelen zijn getroffen en dat de maatregelen worden getroffen voor 1 januari 2017.
 
@@ -683,9 +683,9 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst, met u
 
 ##### Artikel 44c
 
-1. Aanvragen voor subsidie als bedoeld in [artikel 44](https://wetten.overheid.nl/jci1.3:c:BWBR0020731&paragraaf=8&sub-paragraaf=8.1&artikel=44&z=2015-02-03&g=2015-02-03) worden uiterlijk op 1 oktober 2014 ingediend bij de Minister door middel van een volledig ingevuld formulier-ISVG met de benodigde bijlagen.
+1. Aanvragen voor subsidie als bedoeld in [artikel 44](https://wetten.overheid.nl/jci1.3:c:BWBR0020731&paragraaf=8&sub-paragraaf=8.1&artikel=44&z=2015-02-03&g=2016-01-01) worden uiterlijk op 1 oktober 2014 ingediend bij de Minister door middel van een volledig ingevuld formulier-ISVG met de benodigde bijlagen.
 
-2. Aanvragen die na 1 oktober 2014 door de Minister zijn ontvangen of op 15 oktober 2014 niet volledig zijn, alsmede subsidieaanvragen die niet voldoen aan [artikel 44b](https://wetten.overheid.nl/jci1.3:c:BWBR0020731&paragraaf=8&sub-paragraaf=8.3&artikel=44b&z=2015-02-03&g=2015-02-03), worden niet in behandeling genomen.
+2. Aanvragen die na 1 oktober 2014 door de Minister zijn ontvangen of op 15 oktober 2014 niet volledig zijn, alsmede subsidieaanvragen die niet voldoen aan [artikel 44b](https://wetten.overheid.nl/jci1.3:c:BWBR0020731&paragraaf=8&sub-paragraaf=8.3&artikel=44b&z=2015-02-03&g=2016-01-01), worden niet in behandeling genomen.
 
 ##### Artikel 44d
 
@@ -699,27 +699,27 @@ De Minister beslist voor 1 december 2014 op de aanvragen.
 
 - a. aanvragen voor af te ronden lopende projecten, waarvoor vóór 1 januari 2014 opdracht is verleend aan de partij die de geluidwerende maatregelen zal uitvoeren;
 
-- b. aanvragen die alle woningen als bedoeld in [artikel 44](https://wetten.overheid.nl/jci1.3:c:BWBR0020731&paragraaf=8&sub-paragraaf=8.1&artikel=44&z=2015-02-03&g=2015-02-03) betreffen die zijn gelegen binnen de betrokken gemeente, ten aanzien waarvan nog geen geluidwerende maatregelen zijn getroffen en met een maximum van 10 woningen;
+- b. aanvragen die alle woningen als bedoeld in [artikel 44](https://wetten.overheid.nl/jci1.3:c:BWBR0020731&paragraaf=8&sub-paragraaf=8.1&artikel=44&z=2015-02-03&g=2016-01-01) betreffen die zijn gelegen binnen de betrokken gemeente, ten aanzien waarvan nog geen geluidwerende maatregelen zijn getroffen en met een maximum van 10 woningen;
 
 - c. alle overige aanvragen.
 
 2. Indien het subsidieplafond wordt overschreden binnen een categorie als bedoeld in het eerste lid worden de aanvragen binnen die categorie gehonoreerd op volgorde van binnenkomst, waarbij aanvragen die op dezelfde dag binnenkomen worden aangemerkt als zijnde tegelijkertijd ontvangen.
 
-3. Als het moment van binnenkomst van twee of meerdere aanvragen gelijk is, gaat de aanvraag met de meeste woningen, bedoeld in [artikel 44, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020731&paragraaf=8&sub-paragraaf=8.1&artikel=44&z=2015-02-03&g=2015-02-03), voor.
+3. Als het moment van binnenkomst van twee of meerdere aanvragen gelijk is, gaat de aanvraag met de meeste woningen, bedoeld in [artikel 44, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020731&paragraaf=8&sub-paragraaf=8.1&artikel=44&z=2015-02-03&g=2016-01-01), voor.
 
 4. Aanvragen die het subsidieplafond doen overschrijden worden geweigerd.
 
-#### § 8.3. Voorwaarden
+#### § 8.1. Subsidiabele maatregelen
 
 ##### Artikel 44f
 
 Indien de subsidie wordt verleend ontvangt de subsidieontvanger uiterlijk op 31 december 2014 een voorschot tot maximaal 95% van het verleende subsidiebedrag.
 
-#### § 8.4. Procedure subsidieverlening
+#### § 8.2. Subsidieplafond
 
 ##### Artikel 44g
 
-1. Op de aanvraag tot subsidievaststelling is [artikel 33a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020731&paragraaf=4&sub-paragraaf=4.2&artikel=33a&z=2015-02-03&g=2015-02-03), van toepassing.
+1. Op de aanvraag tot subsidievaststelling is [artikel 33a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020731&paragraaf=4&sub-paragraaf=4.2&artikel=33a&z=2015-02-03&g=2016-01-01), van toepassing.
 
 2. De subsidieontvanger stuurt de Minister voor 1 maart 2017 een verslag van het project, waarin ten minste zijn opgenomen:
 
@@ -755,11 +755,11 @@ Met dit formulier kan tot en met 1 oktober 2014 een aanvraag ingediend worden vo
 
 ### Formulier-ISVG
 
-Met dit formulier kan tot en met 1 oktober 2014 een aanvraag ingediend worden voor subsidie op basis van [artikel 44](https://wetten.overheid.nl/jci1.3:c:BWBR0020731&paragraaf=8&sub-paragraaf=8.1&artikel=44&z=2015-02-03&g=2015-02-03), Ssv. Een subsidieaanvraag wordt geweigerd indien deze niet uiterlijk op 1 oktober 2014 is ingediend of op 15 oktober 2014 aangevuld en volledig is, inclusief de vereiste bijlagen. U dient uw aanvraag in te dienen bij het ministerie van Infrastructuur en Milieu, p/a Bureau Sanering Verkeerslawaai, Postbus 97, 3440 AB, Woerden.
+Met dit formulier kan tot en met 1 oktober 2014 een aanvraag ingediend worden voor subsidie op basis van [artikel 44](https://wetten.overheid.nl/jci1.3:c:BWBR0020731&paragraaf=8&sub-paragraaf=8.1&artikel=44&z=2015-02-03&g=2016-01-01), Ssv. Een subsidieaanvraag wordt geweigerd indien deze niet uiterlijk op 1 oktober 2014 is ingediend of op 15 oktober 2014 aangevuld en volledig is, inclusief de vereiste bijlagen. U dient uw aanvraag in te dienen bij het ministerie van Infrastructuur en Milieu, p/a Bureau Sanering Verkeerslawaai, Postbus 97, 3440 AB, Woerden.
 
 ..............................................
 
-(handtekening(en) aanvrager(s))
+Gepubliceerd op www.bureausaneringverkeerslawaai.nl.
 
 ## Bijlage C
 
@@ -832,7 +832,7 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst, met u
 
 ##### Artikel 24a
 
-De hoogte van het totale voorschot wordt, indien de aanvraag geluidwerende maatregelen betreft en de subsidieontvanger heeft aangegeven gebruik te maken van de facultatieve procedure, als bedoeld in [artikel 35b, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020731&paragraaf=4&sub-paragraaf=4.3&artikel=35b&z=2015-02-03&g=2015-02-03), bepaald met behulp van bijlage A, onderdeel 7.
+De hoogte van het totale voorschot wordt, indien de aanvraag geluidwerende maatregelen betreft en de subsidieontvanger heeft aangegeven gebruik te maken van de facultatieve procedure, als bedoeld in [artikel 35b, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020731&paragraaf=4&sub-paragraaf=4.3&artikel=35b&z=2015-02-03&g=2016-01-01), bepaald met behulp van bijlage A, onderdeel 7.
 
 #### § 4.2. Procedure uitvoeringssubsidie
 
@@ -840,11 +840,11 @@ De hoogte van het totale voorschot wordt, indien de aanvraag geluidwerende maatr
 
 ##### Artikel 35b
 
-1. Indien de subsidieontvanger een gemeentebestuur, bestuur of provinciebestuur is kan, als het maatregelen betreft, als bedoeld in [artikel 3, eerste lid, onderdeel e](https://wetten.overheid.nl/jci1.3:c:BWBR0020731&paragraaf=2&artikel=3&z=2015-02-03&g=2015-02-03), deze gebruik maken van de facultatieve procedure.
+1. Indien de subsidieontvanger een gemeentebestuur, bestuur of provinciebestuur is kan, als het maatregelen betreft, als bedoeld in [artikel 3, eerste lid, onderdeel e](https://wetten.overheid.nl/jci1.3:c:BWBR0020731&paragraaf=2&artikel=3&z=2015-02-03&g=2016-01-01), deze gebruik maken van de facultatieve procedure.
 
 2. De subsidieontvanger maakt gebruik van de facultatieve procedure kenbaar met gebruikmaking van het formulier UK/S
 
-3. Op de facultatieve procedure, bedoeld in het eerste lid, zijn [artikel 30](https://wetten.overheid.nl/jci1.3:c:BWBR0020731&paragraaf=4&sub-paragraaf=4.2&artikel=30&z=2015-02-03&g=2015-02-03) en [31](https://wetten.overheid.nl/jci1.3:c:BWBR0020731&paragraaf=4&sub-paragraaf=4.2&artikel=31&z=2015-02-03&g=2015-02-03) niet van toepassing.
+3. Op de facultatieve procedure, bedoeld in het eerste lid, zijn [artikel 30](https://wetten.overheid.nl/jci1.3:c:BWBR0020731&paragraaf=4&sub-paragraaf=4.2&artikel=30&z=2015-02-03&g=2016-01-01) en [31](https://wetten.overheid.nl/jci1.3:c:BWBR0020731&paragraaf=4&sub-paragraaf=4.2&artikel=31&z=2015-02-03&g=2016-01-01) niet van toepassing.
 
 #### § 5. Verplichtingen subsidieontvanger
 
@@ -854,11 +854,11 @@ De hoogte van het totale voorschot wordt, indien de aanvraag geluidwerende maatr
 
 ##### Artikel 40a
 
-Deze paragraaf is van toepassing indien de subsidieontvanger, ingevolge [artikel 35b, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020731&paragraaf=4&sub-paragraaf=4.3&artikel=35b&z=2015-02-03&g=2015-02-03), heeft aangegeven gebruik te maken van de facultatieve procedure.
+Deze paragraaf is van toepassing indien de subsidieontvanger, ingevolge [artikel 35b, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020731&paragraaf=4&sub-paragraaf=4.3&artikel=35b&z=2015-02-03&g=2016-01-01), heeft aangegeven gebruik te maken van de facultatieve procedure.
 
 ##### Artikel 40b
 
-1. In afwijking van [artikel 39, aanhef, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0020731&paragraaf=5&sub-paragraaf=5.1&artikel=39&z=2015-02-03&g=2015-02-03), doet de subsidieontvanger binnen vier weken na de afronding van de werkzaamheden daarvan mededeling aan de Minister onder gebruikmaking van een volledig ingevuld formulier MA-F, inclusief de op dat formulier aangegeven bijlagen.
+1. In afwijking van [artikel 39, aanhef, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0020731&paragraaf=5&sub-paragraaf=5.1&artikel=39&z=2015-02-03&g=2016-01-01), doet de subsidieontvanger binnen vier weken na de afronding van de werkzaamheden daarvan mededeling aan de Minister onder gebruikmaking van een volledig ingevuld formulier MA-F, inclusief de op dat formulier aangegeven bijlagen.
 
 2. De Minister kan het bedrag van de subsidieverlening wijzigen naar aanleiding van de ontvangen informatie, bedoeld in het eerste lid.
 
@@ -874,7 +874,7 @@ Deze paragraaf is van toepassing indien de subsidieontvanger, ingevolge [artikel
 
 #### § 8.6. Voorschot
 
-#### § 8.7. Subsidievaststelling
+#### § 8.5. Tender
 
 ## Bijlage A
 
@@ -892,11 +892,11 @@ Gepubliceerd op www.bureausaneringverkeerslawaai.nl.
 
 ### 3. AANVRAAG1Aanvragen die op 15 oktober 2014, niet voldoen aan de voorwaarden, genoemd in artikel 44b Ssv, worden niet in behandeling genomen.
 
-### 4. BIJLAGE
+### 1. GEGEVENS AANVRAGER
 
-### 5. ONDERTEKENING
+### 2. CATEGORIE
 
-Ondergetekende verklaart dat:
+¹ Doorhalen wat niet van toepassing is, als u meerdere categorieën aanvraagt dient u voor iedere categorie afzonderlijk een aanvraag in te dienen.
 
 ..............................................
 
@@ -925,75 +925,39 @@ De maatregelpunten, bedoeld in [artikel 5, tweede lid](https://wetten.overheid.n
 
 De maatregelpunten zijn bedoeld voor de beoordeling van de doelmatigheid van bronmaatregelen aan een weg in beheer bij een gemeente of provincie op grond van de [Regeling doelmatigheid geluidmaatregelen Wet geluidhinder](https://wetten.overheid.nl/jci1.3:c:BWBR0026996).
 
-## Bijlage G
+## Bijlage C
 
-| nr. | gemeente | naam project | traject |
-| --- | --- | --- | --- |
-| 1 | Bussum | Bussum railsanering | 371 en 372 |
-| 2 | Capelle a/d IJssel | Schollevaar | 600 |
-| 3 | Deurne | Katoenstraat e.o. | 790 |
-| 4 | Diemen | Diemen | 369 en 374 |
-| 5 | Duiven | sanering 17 woningen | 237 |
-| 6 | Haarlemmerliede | Halfweg | 400 |
-| 7 | Haren | Glimmen | 86, 58 en 57 |
-| 8 | Heeze-Leende | Heeze–Leende Rail | 800 |
-| 9 | Heiloo | Spoorlijn Alkmaar–Uitgeest | 430 |
-| 10 | Hillegom | Parallelweg | 500 |
-| 11 | Hilversum | Hilversum, centrum | 360, 370 en 371 |
-| 12 | Langendijk | St. Pancras | 460 |
-| 13 | Leidschendam | combinatie met R21 |   |
-| 14 | Maastricht | Maastricht nieuw | 843 |
-| 15 | Meerssen | Meerssen | 841 |
-| 16 | Nunspeet | Molijnstraat e.o. | 253 |
-| 17 | Oosterhout | Dorst, verspreid liggende woningen | 650 |
-| 18 | Steenwijk | Oostwijken en De Gagels | 40 |
-| 19 | Stein | Stein | 841 |
-| 20 | Tegelen | Populierenstraat | 810 |
-| 21 | Tegelen | Aerdberg | 810 |
-| 22 | Zaanstad | Wormerveer | 411 |
-| 23 | Zaltbommel | Stationsweg | 731 |
-| 24 | Zeist | Zeist, Den Dolder | 331 en 337 |
-| 25 | Zwolle | Pierik | 90 |
+Gepubliceerd op www.bureausaneringverkeerslawaai.nl.
 
-## Bijlage H
-
-Tabel, behorende bij [artikel 44b, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020731&paragraaf=8&sub-paragraaf=8.3&artikel=44b&z=2015-02-03&g=2015-01-01).
-
-| Aantal woningen als bedoeld in [artikel 44, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020731&paragraaf=8&sub-paragraaf=8.1&artikel=44&z=2015-02-03&g=2015-01-01), binnen de gemeentegrenzen van de subsidieaanvrager | Maximum subsidiebedrag (in euro) |
-| --- | --- |
-| Meer dan 5.000 | 2.500.000,– |
-| Meer dan 1.000 | 1.000.000,– |
-| Meer dan 200 | 500.000,– |
-| Meer dan 100 en minder dan 200 | 250.000,– |
-| Minder dan 100 | 100.000,– |
+## Bijlage D. , Toetsbedragen geluidwerende maatregelen
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst, met uitzondering van de bijlagen, die ter inzage worden gelegd in de bibliotheek van het Ministerie van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer, Rijnstraat 8, 2515 XP Den Haag.
 
 ### Inleiding
 
-Het uitgangspunt van de Wet geluidhinder in combinatie met SSV is dat saneringsmaatregelen voor werkelijke vergoeding in aanmerking komen, mits deze als sober en doelmatig kunnen worden aangemerkt. Als normering voor het begrip soberheid bij geluidwerende maatregelen aan de uitwendige scheidingsconstructie gelden onderhavige toetsbedragen. In het geval van autonome gevelsanering zijn de toetsbedragen daarnaast van belang voor een efficiënte voorbereiding, aanbesteding en uitvoering van de te treffen maatregelen.
+(handtekening(en) aanvrager(s))
 
 Voor veel voorkomende maatregelen aan de uitwendige scheidingsconstructie, die worden getroffen in verband met de geluidwering van bestaande woningen is onderzocht welke aspecten van belang zijn voor de prijsvorming. Op basis hiervan zijn de toetsbedragen in onderstaande tabellen vastgesteld. De tabellen onder a betreffen toetsbedragen die overeenkomen met de kosten van de maatregelen bij autonome gevelsanering.
 
 De tabellen onder b betreffen toetsbedragen die overeenkomen met de meerkosten van de maatregelen indien om andere redenen dan de geluidwering, maatregelen aan de uitwendige scheidingsconstructie worden getroffen (kozijnvervanging bij bijvoorbeeld stadsvernieuwing). Deze toetsbedragen zijn afgeleid van de toetsbedragen die gelden voor autonome gevelsanering. Daarbij is ervan uitgegaan dat de eenvoudigste maatregelen bij autonome sanering qua kwaliteit en kosten overeenkomen met maatregelen aan de uitwendige scheidingsconstructie die worden getroffen om andere redenen dan geluidwering.
 
-### A. Toetsbedragen geluidwerende maatregelen bij autonome gevelsanering
+### Inleiding
 
-**Alle bedragen zijn exclusief BTW.**
+Het uitgangspunt van de Wet geluidhinder in combinatie met SSV is dat saneringsmaatregelen voor werkelijke vergoeding in aanmerking komen, mits deze als sober en doelmatig kunnen worden aangemerkt. Als normering voor het begrip soberheid bij geluidwerende maatregelen aan de uitwendige scheidingsconstructie gelden onderhavige toetsbedragen. In het geval van autonome gevelsanering zijn de toetsbedragen daarnaast van belang voor een efficiënte voorbereiding, aanbesteding en uitvoering van de te treffen maatregelen.
 
 ### 1. Gevelmaatregelen
 
 ### 2. Geluiddempende ventilatievoorzieningen
 
-### 3. Maatregelen hellend dakvlak
+### A. Toetsbedragen geluidwerende maatregelen bij autonome gevelsanering
 
 ### 4. Maatregelen plafonds
 
-### B. Toetsbedragen geluidwerende maatregelen bij gekoppelde gevelsanering
+### 1. Gevelmaatregelen
 
 **Alle bedragen zijn exclusief BTW.**
 
-### C. Toelichting op het toetsbedragensysteem voor gevelmaatregelen
+### 3. Maatregelen hellend dakvlak
 
 De belangrijkste aspecten van het systeem van de toetsbedragen zijn (zie de tabellen onder a):
 
@@ -1005,7 +969,7 @@ Gepubliceerd op www.bureausaneringverkeerslawaai.nl.
 
 ## Bijlage F. Maatregelpunten lokale bronmaatregelen
 
-De maatregelpunten, bedoeld in [artikel 5, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020731&paragraaf=2&artikel=5&z=2015-02-03&g=2015-02-03), zijn als volgt:
+De maatregelpunten, bedoeld in [artikel 5, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020731&paragraaf=2&artikel=5&z=2015-02-03&g=2016-01-01), zijn als volgt:
 
 | Bestaand wegdek | Aan te brengen wegdek | Maatregelpunten per 10 m2 |
 | --- | --- | --- |
@@ -1048,9 +1012,150 @@ De maatregelpunten zijn bedoeld voor de beoordeling van de doelmatigheid van bro
 
 ## Bijlage H
 
-Tabel, behorende bij [artikel 44b, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020731&paragraaf=8&sub-paragraaf=8.3&artikel=44b&z=2015-02-03&g=2015-02-03).
+Tabel, behorende bij [artikel 44b, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020731&paragraaf=8&sub-paragraaf=8.3&artikel=44b&z=2015-02-03&g=2016-01-01).
 
-| Aantal woningen als bedoeld in [artikel 44, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020731&paragraaf=8&sub-paragraaf=8.1&artikel=44&z=2015-02-03&g=2015-02-03), binnen de gemeentegrenzen van de subsidieaanvrager | Maximum subsidiebedrag (in euro) |
+| Aantal woningen als bedoeld in [artikel 44, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020731&paragraaf=8&sub-paragraaf=8.1&artikel=44&z=2015-02-03&g=2016-01-01), binnen de gemeentegrenzen van de subsidieaanvrager | Maximum subsidiebedrag (in euro) |
+| --- | --- |
+| Meer dan 5.000 | 2.500.000,– |
+| Meer dan 1.000 | 1.000.000,– |
+| Meer dan 200 | 500.000,– |
+| Meer dan 100 en minder dan 200 | 250.000,– |
+| Minder dan 100 | 100.000,– |
+
+Deze regeling zal met de toelichting in de Staatscourant worden geplaatst, met uitzondering van de bijlagen, die ter inzage worden gelegd in de bibliotheek van het Ministerie van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer, Rijnstraat 8, 2515 XP Den Haag.
+
+##### Artikel 19a
+
+1. Het tijdvak voor de subsidieverstrekking ter zake van de kosten van projecten die zijn gericht op de beperking van de geluidsbelasting vanwege wegen en spoorwegen die wordt ondervonden door woningen, andere geluidsgevoelige gebouwen en geluidsgevoelige terreinen of zijn gericht op de beperking van het geluidsniveau binnen woningen of andere geluidsgevoelige gebouwen beslaat de periode 1 januari 2016 tot en met 31 december 2016.
+
+2. Het subsidieplafond voor het tijdvak, bedoeld in het eerste lid, wordt vastgesteld op € 18.010.000,00.
+
+#### § 4. Procedureverloop
+
+#### § 4.1. Procedure voorbereidingssubsidie
+
+#### § 4.2. Procedure uitvoeringssubsidie
+
+#### § 4.3. Facultatieve procedure bij geluidwerende maatregelen
+
+##### Artikel 35c
+
+1. Indien de aanvraag geluidwerende maatregelen betreft en de subsidieontvanger heeft aangegeven gebruik te maken van de facultatieve procedure, wordt de hoogte van het totale voorschot bepaald met behulp van[bijlage A](https://wetten.overheid.nl/jci1.3:c:BWBR0020731&bijlage=A&z=2016-02-24&g=2016-01-01), onderdeel 7.
+
+2. In afwijking van [artikel 32](https://wetten.overheid.nl/jci1.3:c:BWBR0020731&paragraaf=4&sub-paragraaf=4.2&artikel=32&z=2016-02-24&g=2016-01-01) wordt het totale voorschot, bedoeld in het eerste lid, binnen vier weken na verlening van de subsidie in één keer verstrekt.
+
+#### § 5.1. Verplichtingen subsidieontvanger bij de algemene procedure
+
+#### § 6. Saneringsprogramma
+
+#### § 7. Slotbepalingen
+
+##### Artikel 43a
+
+Deze regeling vervalt met ingang van 1 juli 2017, met dien verstande dat de regeling van toepassing blijft op voor die datum reeds verleende subsidies.
+
+#### § 8. Tijdelijke overgangsregeling Investeringsbudget Stedelijke Vernieuwing Geluid
+
+#### § 8.3. Voorwaarden
+
+#### § 8.4. Procedure subsidieverlening
+
+#### § 8.6. Voorschot
+
+#### § 8.7. Subsidievaststelling
+
+## Bijlage A
+
+Gepubliceerd op www.bureausaneringverkeerslawaai.nl.
+
+## Bijlage B
+
+### Formulier-ISVG
+
+Met dit formulier kan tot en met 1 oktober 2014 een aanvraag ingediend worden voor subsidie op basis van [artikel 44](https://wetten.overheid.nl/jci1.3:c:BWBR0020731&paragraaf=8&sub-paragraaf=8.1&artikel=44&z=2016-02-24&g=2016-01-01), Ssv. Een subsidieaanvraag wordt geweigerd indien deze niet uiterlijk op 1 oktober 2014 is ingediend of op 15 oktober 2014 aangevuld en volledig is, inclusief de vereiste bijlagen. U dient uw aanvraag in te dienen bij het ministerie van Infrastructuur en Milieu, p/a Bureau Sanering Verkeerslawaai, Postbus 97, 3440 AB, Woerden.
+
+### 3. AANVRAAG1Aanvragen die op 15 oktober 2014, niet voldoen aan de voorwaarden, genoemd in artikel 44b Ssv, worden niet in behandeling genomen.
+
+### 4. BIJLAGE
+
+### 5. ONDERTEKENING
+
+Ondergetekende verklaart dat:
+
+..............................................
+
+Voor veel voorkomende maatregelen aan de uitwendige scheidingsconstructie, die worden getroffen in verband met de geluidwering van bestaande woningen is onderzocht welke aspecten van belang zijn voor de prijsvorming. Op basis hiervan zijn de toetsbedragen in onderstaande tabellen vastgesteld. De tabellen onder a betreffen toetsbedragen die overeenkomen met de kosten van de maatregelen bij autonome gevelsanering.
+
+De tabellen onder b betreffen toetsbedragen die overeenkomen met de meerkosten van de maatregelen indien om andere redenen dan de geluidwering, maatregelen aan de uitwendige scheidingsconstructie worden getroffen (kozijnvervanging bij bijvoorbeeld stadsvernieuwing). Deze toetsbedragen zijn afgeleid van de toetsbedragen die gelden voor autonome gevelsanering. Daarbij is ervan uitgegaan dat de eenvoudigste maatregelen bij autonome sanering qua kwaliteit en kosten overeenkomen met maatregelen aan de uitwendige scheidingsconstructie die worden getroffen om andere redenen dan geluidwering.
+
+**Alle bedragen zijn exclusief BTW.**
+
+### 2. Geluiddempende ventilatievoorzieningen
+
+### 4. Maatregelen plafonds
+
+### B. Toetsbedragen geluidwerende maatregelen bij gekoppelde gevelsanering
+
+**Alle bedragen zijn exclusief BTW.**
+
+### C. Toelichting op het toetsbedragensysteem voor gevelmaatregelen
+
+De belangrijkste aspecten van het systeem van de toetsbedragen zijn (zie de tabellen onder a):
+
+Het toetsbedragensysteem voor gekoppelde gevelsanering (zie de tabellen onder b) is, in verband met de andere uitgangssituatie bij koppeling van maatregelen, vereenvoudigd ten opzichte van het systeem voor autonome gevelsanering. Tot de meerkosten die aan de geluidwering worden toegerekend, behoren niet de maatregelen waarvoor bij autonome sanering kostenklasse I van toepassing zou zijn, de correctie voor het gemiddeld element oppervlak en diverse toeslagen anders dan voor de naar buiten draaiende ramen en deuren. Ter vereenvoudiging van het systeem zijn daarnaast de bedragen voor de noodzakelijke extra naaddichting verwerkt in de m2 bedragen voor de beglazing en de panelen.
+
+## Bijlage E
+
+Gepubliceerd op www.bureausaneringverkeerslawaai.nl.
+
+## Bijlage F. Maatregelpunten lokale bronmaatregelen
+
+De maatregelpunten, bedoeld in [artikel 5, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020731&paragraaf=2&artikel=5&z=2016-02-24&g=2016-01-01), zijn als volgt:
+
+| Bestaand wegdek | Aan te brengen wegdek | Maatregelpunten per 10 m2 |
+| --- | --- | --- |
+| Elementen-verharding | Stille elementen-verharding | 3 |
+| Elementen-verharding | Dicht asfalt beton (al dan niet voorzien van streetprint) | 5 |
+| Elementen-verharding | Dunne geluidreducerende deklaag | 16 |
+| Dicht asfalt beton | Dunne geluidreducerende deklaag | 13 |
+
+De maatregelpunten zijn bedoeld voor de beoordeling van de doelmatigheid van bronmaatregelen aan een weg in beheer bij een gemeente of provincie op grond van de [Regeling doelmatigheid geluidmaatregelen Wet geluidhinder](https://wetten.overheid.nl/jci1.3:c:BWBR0026996).
+
+## Bijlage G
+
+| nr. | gemeente | naam project | traject |
+| --- | --- | --- | --- |
+| 1 | Bussum | Bussum railsanering | 371 en 372 |
+| 2 | Capelle a/d IJssel | Schollevaar | 600 |
+| 3 | Deurne | Katoenstraat e.o. | 790 |
+| 4 | Diemen | Diemen | 369 en 374 |
+| 5 | Duiven | sanering 17 woningen | 237 |
+| 6 | Haarlemmerliede | Halfweg | 400 |
+| 7 | Haren | Glimmen | 86, 58 en 57 |
+| 8 | Heeze-Leende | Heeze–Leende Rail | 800 |
+| 9 | Heiloo | Spoorlijn Alkmaar–Uitgeest | 430 |
+| 10 | Hillegom | Parallelweg | 500 |
+| 11 | Hilversum | Hilversum, centrum | 360, 370 en 371 |
+| 12 | Langendijk | St. Pancras | 460 |
+| 13 | Leidschendam | combinatie met R21 |   |
+| 14 | Maastricht | Maastricht nieuw | 843 |
+| 15 | Meerssen | Meerssen | 841 |
+| 16 | Nunspeet | Molijnstraat e.o. | 253 |
+| 17 | Oosterhout | Dorst, verspreid liggende woningen | 650 |
+| 18 | Steenwijk | Oostwijken en De Gagels | 40 |
+| 19 | Stein | Stein | 841 |
+| 20 | Tegelen | Populierenstraat | 810 |
+| 21 | Tegelen | Aerdberg | 810 |
+| 22 | Zaanstad | Wormerveer | 411 |
+| 23 | Zaltbommel | Stationsweg | 731 |
+| 24 | Zeist | Zeist, Den Dolder | 331 en 337 |
+| 25 | Zwolle | Pierik | 90 |
+
+## Bijlage H
+
+Tabel, behorende bij [artikel 44b, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020731&paragraaf=8&sub-paragraaf=8.3&artikel=44b&z=2016-02-24&g=2016-01-01).
+
+| Aantal woningen als bedoeld in [artikel 44, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020731&paragraaf=8&sub-paragraaf=8.1&artikel=44&z=2016-02-24&g=2016-01-01), binnen de gemeentegrenzen van de subsidieaanvrager | Maximum subsidiebedrag (in euro) |
 | --- | --- |
 | Meer dan 5.000 | 2.500.000,– |
 | Meer dan 1.000 | 1.000.000,– |
