@@ -4,7 +4,7 @@ identifier: "BWBR0033648"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2022-07-06"
-last_updated: "2013-08-01"
+last_updated: "2016-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0033648"
 soort: "ministeriele-regeling"
@@ -76,7 +76,7 @@ Deze paragraaf is van toepassing op kapiteins van de volgende schepen:
 
 ##### Artikel 3. Gebruik van het routeringssysteem Noord Hinder – Duitse Bocht
 
-1. Het routeringssysteem zoals opgenomen in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0033648&bijlage=1&z=2013-08-01&g=2013-08-01) bij deze regeling of een deel daarvan wordt gevolgd indien wordt gevaren:
+1. Het routeringssysteem zoals opgenomen in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0033648&bijlage=1&z=2016-01-01&g=2016-01-01) bij deze regeling of een deel daarvan wordt gevolgd indien wordt gevaren:
 
 - a. van Noord Hinder naar de Baltische of Noordzeehavens van Noorwegen, Zweden, Denemarken, de Bondsrepubliek Duitsland of Nederland ten noorden van de drieënvijftigste Noorderbreedtegraad en omgekeerd;
 
@@ -108,7 +108,7 @@ Het zeegebied tussen het routerings-systeem en de aangrenzende kust van de Wadde
 
 ##### Artikel 7. Vrijstelling
 
-1. De schepen, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0033648&paragraaf=2&artikel=2&z=2013-08-01&g=2013-08-01), die vanwege hun diepgang het zuidelijk deel van het routeringssysteem, omschreven in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0033648&bijlage=1&z=2013-08-01&g=2013-08-01), onderdeel A en B, onder a en b, niet op veilige wijze kunnen bevaren, zijn vrijgesteld van het verplichting om dit deel van het routeringssysteem te gebruiken.
+1. De schepen, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0033648&paragraaf=2&artikel=2&z=2016-01-01&g=2016-01-01), die vanwege hun diepgang het zuidelijk deel van het routeringssysteem, omschreven in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0033648&bijlage=1&z=2016-01-01&g=2016-01-01), onderdeel A en B, onder a en b, niet op veilige wijze kunnen bevaren, zijn vrijgesteld van het verplichting om dit deel van het routeringssysteem te gebruiken.
 
 2. De schepen, bedoeld in het eerste lid, kunnen gebruik maken van de westelijke route van het in de Bekendmaking van de Minister van Verkeer en Waterstaat van 26 november 1990, nr. S/J 32.053/90 (Stcrt. 1990, 233) omschreven routeringssysteem ter hoogte van Friesland.
 
@@ -118,7 +118,7 @@ Het zeegebied tussen het routerings-systeem en de aangrenzende kust van de Wadde
 
 ##### Artikel 8
 
-Het is kapiteins van alle schepen verboden zich te bevinden in de gebieden zoals opgenomen in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0033648&bijlage=2&z=2013-08-01&g=2013-08-01) bij deze regeling.
+Het is kapiteins van alle schepen verboden zich te bevinden in de gebieden zoals opgenomen in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0033648&bijlage=2&z=2016-01-01&g=2016-01-01) bij deze regeling.
 
 #### § 4. Overige bepalingen
 
@@ -134,7 +134,7 @@ Deze regeling treedt in werking met ingang van 1 augustus 2013.
 
 Deze regeling wordt aangehaald als: Regeling routerings- en meldingssystemen voor schepen in volle zee voor de Nederlandse kust.
 
-## Bijlage 1. behorende bij [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0033648&paragraaf=2&artikel=3&z=2013-08-01&g=2013-08-01), van deze regeling
+## Bijlage 1. behorende bij [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0033648&paragraaf=2&artikel=3&z=2016-01-01&g=2016-01-01), van deze regeling
 
 ### Routeringssysteem Noord Hinder Duitse Bocht
 
@@ -158,7 +158,7 @@ Het voorzorgsgebied, ingesteld direct ten noorden van het verkeersscheidingsstel
 
 ### F. Verkeersscheidingsstelsel ’Oost Friesland’
 
-## Bijlage 2. , behorende bij [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0033648&paragraaf=3&artikel=8&z=2013-08-01&g=2013-08-01) van deze regeling
+## Bijlage 2. behorende bij [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0033648&paragraaf=3&artikel=8&z=2016-01-01&g=2016-01-01) van deze regeling
 
 De coördinaten zijn uitgedrukt in lengte en breedte volgens het World Geodetic System 84 (WGS 84), in graden en minuten
 
@@ -166,10 +166,10 @@ De coördinaten zijn uitgedrukt in lengte en breedte volgens het World Geodetic 
 
 ### 1. Nabij IJmuiden
 
-Het gebied dat gemeden dient te worden, bedoeld in [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0033648&paragraaf=4&artikel=9&z=2013-08-01&g=2013-08-01), wordt begrensd door een lijn die volgende geografische posities verbindt:
+Het gebied dat gemeden dient te worden, bedoeld in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0033648&paragraaf=3&artikel=8&z=2016-01-01&g=2016-01-01), wordt begrensd door een lijn die volgende geografische posities verbindt:
 
 ### 2. Bij Maas Noord
 
-Het gebied dat gemeden dient te worden, bedoeld in [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0033648&paragraaf=4&artikel=11&z=2013-08-01&g=2013-08-01), wordt begrensd door een lijn die volgende geografische posities verbindt:
+Het gebied dat gemeden dient te worden, bedoeld in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0033648&paragraaf=3&artikel=8&z=2016-01-01&g=2016-01-01), wordt begrensd door een lijn die volgende geografische posities verbindt:
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
