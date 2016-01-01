@@ -4,7 +4,7 @@ identifier: "BWBR0037319"
 country: "nl"
 rank: "wet"
 publication_date: "2016-07-01"
-last_updated: "2015-12-11"
+last_updated: "2016-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0037319"
 soort: "wet"
@@ -51,11 +51,11 @@ Wijzigt de Algemene Ouderdomswet.
 
 ##### Artikel IV. [Arbeidsomstandighedenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0010346)
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Arbeidsomstandighedenwet.
 
 ##### Artikel V. [Arbeidstijdenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0007671)
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Arbeidstijdenwet.
 
 ##### Artikel VI. [Boek 7 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005290)
 
@@ -63,11 +63,11 @@ Wijzigt het Burgerlijk Wetboek Boek 7.
 
 ##### Artikel VIa. [Cessantiawet BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028304)
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Cessantiawet BES.
 
 ##### Artikel VII. [Kaderwet SZW-subsidies](https://wetten.overheid.nl/jci1.3:c:BWBR0008754)
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Kaderwet SZW-subsidies.
 
 ##### Artikel VIII. [Participatiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0015703)
 
@@ -83,19 +83,19 @@ Wijzigt de Werkloosheidswet.
 
 ##### Artikel Xa. [Wetboek van Burgerlijke Rechtsvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001827)
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt het Wetboek van Burgerlijke Rechtsvordering.
 
 ##### Artikel XI. [Wet algemene weduwen- en wezenverzekering BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028387)
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Wet algemene weduwen- en wezenverzekering BES.
 
 ##### Artikel XII. [Wet allocatie arbeidskrachten door intermediairs](https://wetten.overheid.nl/jci1.3:c:BWBR0009616)
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Wet allocatie arbeidskrachten door intermediairs.
 
 ##### Artikel XIII. [Wet arbeid en zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0013008)
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Wet arbeid en zorg.
 
 ##### Artikel XIV. [Wet arbeid vreemdelingen](https://wetten.overheid.nl/jci1.3:c:BWBR0007149)
 
@@ -115,7 +115,7 @@ Wijzigt de Wet financiering sociale verzekeringen.
 
 ##### Artikel XVIII. [Wet flexibel werken](https://wetten.overheid.nl/jci1.3:c:BWBR0011173&wetgeving)
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Wet flexibel werken.
 
 ##### Artikel XIX. [Wet inkomensvoorziening oudere en gedeeltelijk arbeidsongeschikte werkloze werknemers](https://wetten.overheid.nl/jci1.3:c:BWBR0004044)
 
@@ -123,19 +123,19 @@ Wijzigt de Wet inkomensvoorziening oudere en gedeeltelijk arbeidsongeschikte wer
 
 ##### Artikel XX. [Wet inkomensvoorziening oudere en gedeeltelijk arbeidsongeschikte gewezen zelfstandigen](https://wetten.overheid.nl/jci1.3:c:BWBR0004163)
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Wet inkomensvoorziening oudere en gedeeltelijk arbeidsongeschikte gewezen zelfstandigen.
 
 ##### Artikel XXI. [Wet inkomensvoorziening oudere werklozen](https://wetten.overheid.nl/jci1.3:c:BWBR0024394&wetgeving)
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Wet inkomensvoorziening oudere werklozen.
 
 ##### Artikel XXII. [Wet kinderopvang en kwaliteitseisen peuterspeelzalen](https://wetten.overheid.nl/jci1.3:c:BWBR0017017)
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Wet kinderopvang en kwaliteitseisen peuterspeelzalen.
 
 ##### Artikel XXIII. [Wet maatregelen Wet werk en bijstand en enkele andere wetten](https://wetten.overheid.nl/jci1.3:c:BWBR0035385&wetgeving)
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Wet maatregelen Wet werk en bijstand en enkele andere wetten.
 
 ##### Artikel XXIV. [Wet minimumloon en minimumvakantiebijslag](https://wetten.overheid.nl/jci1.3:c:BWBR0002638)
 
@@ -143,7 +143,7 @@ Wijzigt de Wet minimumloon en minimumvakantiebijslag.
 
 ##### Artikel XXV. [Wet ongevallenverzekering BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028497)
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Wet ongevallenverzekering BES.
 
 ##### Artikel XXVI. [Wet op de arbeidsongeschiktheidsverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0002524&wetgeving)
 
@@ -151,7 +151,7 @@ Wijzigt de Wet op de arbeidsongeschiktheidsverzekering.
 
 ##### Artikel XXVII. [Wet op het kindgebonden budget](https://wetten.overheid.nl/jci1.3:c:BWBR0022751)
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Wet op het kindgebonden budget.
 
 ##### Artikel XXVIII. [Wet structuur uitvoeringsorganisatie werk en inkomen](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&wetgeving)
 
@@ -163,11 +163,11 @@ Wijzigt de Wet studievoorschot hoger onderwijs.
 
 ##### Artikel XXX. [Wet uitvoering wetten voor verzetsdeelnemers en oorlogsgetroffenen](https://wetten.overheid.nl/jci1.3:c:BWBR0027660)
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Wet uitvoering wetten voor verzetsdeelnemers en oorlogsgetroffenen.
 
 ##### Artikel XXXI. [Wet vereenvoudiging regelingen UWV](https://wetten.overheid.nl/jci1.3:c:BWBR0032732)
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Wet vereenvoudiging regelingen UWV.
 
 ##### Artikel XXXII. [Wet werk en inkomen naar arbeidsvermogen](https://wetten.overheid.nl/jci1.3:c:BWBR0019057&wetgeving)
 
@@ -175,7 +175,7 @@ Wijzigt de Wet werk en inkomen naar arbeidsvermogen.
 
 ##### Artikel XXXIII. [Wet ziekteverzekering BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028728)
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Wet ziekteverzekering BES.
 
 ##### Artikel XXXIV. [Ziektewet](https://wetten.overheid.nl/jci1.3:c:BWBR0001888)
 
@@ -183,15 +183,17 @@ Wijzigt de Ziektewet.
 
 ##### Artikel XXXV. Eenmalige aanpassing bedragen
 
-Dit onderdeel is nog niet inwerking getreden
+1. Onze Minister van Sociale Zaken en Werkgelegenheid kan de bedragen, genoemd in de [artikelen VIII, onderdeel I](https://wetten.overheid.nl/jci1.3:c:BWBR0037319&artikel=VIII&z=2016-01-01&g=2016-01-01), [XIX, onderdeel Aa](https://wetten.overheid.nl/jci1.3:c:BWBR0037319&artikel=XIX&z=2016-01-01&g=2016-01-01), en [XX, onderdeel Aa](https://wetten.overheid.nl/jci1.3:c:BWBR0037319&artikel=XX&z=2016-01-01&g=2016-01-01), van deze wet eenmalig aanpassen na de datum van inwerkingtreding van dat artikelonderdeel.
+
+2. Dit artikel vervalt zes maanden na de inwerkingtreding van het artikelonderdeel, genoemd in het eerste lid.
 
 ##### Artikel XXXVI. Inwerkingtreding
 
-Dit onderdeel is nog niet inwerking getreden
+De artikelen van deze wet treden in werking op een bij koninklijk besluit te bepalen tijdstip, dat voor verschillende artikelen of onderdelen daarvan verschillend kan worden vastgesteld, en kunnen terugwerken tot en met een in dat besluit te bepalen tijdstip, dat voor de verschillende artikelen of onderdelen daarvan verschillend kan worden vastgesteld. In dat besluit wordt zo nodig toepassing gegeven aan [artikel 12 van de Wet raadgevend referendum](https://wetten.overheid.nl/jci1.3:c:BWBR0036443&artikel=12).
 
 ##### Artikel XXXVII. Citeertitel
 
-Dit onderdeel is nog niet inwerking getreden
+Deze wet wordt aangehaald als: Verzamelwet SZW 2016.
 
 Allen die deze zullen zien of horen lezen, saluut! doen te weten:
 
