@@ -4,7 +4,7 @@ identifier: "BWBR0011354"
 country: "nl"
 rank: "wet"
 publication_date: "2026-01-01"
-last_updated: "2015-06-12"
+last_updated: "2016-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0011354"
 soort: "wet"
@@ -568,11 +568,15 @@ De termijn van op 31 december 2000 bestaande schulden die zijn aangegaan ter ver
 
 - 2. Het eerste lid is van overeenkomstige toepassing op een kapitaalsuitkering uit levensverzekering na 31 december 2000 ter zake van een op 31 december 2000 bestaande levensverzekering, tenzij de levensverzekering met ingang van 1 januari 2001 als kapitaalverzekering eigen woning wordt aangemerkt.
 
-- 3. Voor de toepassing van onderdeel AL, eerste lid, eerste volzin, alsmede onderdeel AM worden de in artikel 26a, tweede lid, van de Wet op de inkomstenbelasting 1964, zoals dat luidde op 31 december 2000, genoemde bedragen verminderd met het bedrag aan uitkeringen uit een levensverzekering dat op grond van [artikel 10bis.6 van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=10bis.6) niet tot het inkomen uit werk en woning heeft behoord.
+- 3. Voor de toepassing van onderdeel AL, eerste lid, eerste volzin, alsmede onderdeel AM worden de in artikel 26a, tweede lid, van de Wet op de inkomstenbelasting 1964, zoals dat luidde op 31 december 2000, genoemde bedragen verminderd met het bedrag aan uitkeringen uit een levensverzekering dat op grond van [artikel 10bis.6 van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=10bis.6) niet tot het inkomen uit werk en woning heeft behoord, alsmede met het bedrag aan tegoeden van een spaarrekening eigen woning die en aan waarden van een beleggingsrecht eigen woning die op grond van [artikel 10bis.7 van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=10bis.7) niet tot het inkomen uit werk en woning hebben behoord.
 
-- 4. Het in onderdeel AN, eerste lid, genoemde bedrag wordt verminderd met het bedrag aan uitkeringen uit een levensverzekering dat op grond van [artikel 10bis.6 van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=10bis.6) niet tot het inkomen uit werk en woning heeft behoord.
+- 4. Het in onderdeel AN, eerste lid, genoemde bedrag wordt verminderd met het bedrag aan uitkeringen uit een levensverzekering dat op grond van [artikel 10bis.6 van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=10bis.6) niet tot het inkomen uit werk en woning heeft behoord, alsmede met het bedrag aan tegoeden van een spaarrekening eigen woning die en aan waarden van een beleggingsrecht eigen woning die op grond van [artikel 10bis.7 van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=10bis.7) niet tot het inkomen uit werk en woning hebben behoord.
 
-- 5. Indien [artikel 10bis.6 van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=10bis.6) met betrekking tot een levensverzekering van de belastingplichtige toepassing vindt, worden de in artikel 26a, tweede lid, van de Wet op de inkomstenbelasting 1964 en in hoofdstuk 2, artikel I, onderdeel AN, van de Invoeringswet Wet inkomstenbelasting 2001 genoemde bedragen ten aanzien van hem verhoogd met een bedrag gelijk aan de in het derde en vierde lid bedoelde vermindering wegens de eerdere toepassing van [artikel 10bis.6, eerste lid, van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=10bis.6) op deze verzekering.
+- 5. Indien [artikel 10bis.6, vijfde lid, van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=10bis.6) met betrekking tot een levensverzekering of via [artikel 10bis.7 van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=10bis.7) met betrekking tot een spaarrekening eigen woning of een beleggingsrecht eigen woning van de belastingplichtige toepassing vindt, worden de in artikel 26a, tweede lid, van de Wet op de inkomstenbelasting 1964 en in hoofdstuk 2, artikel I, onderdeel AN, van de Invoeringswet Wet inkomstenbelasting 2001 genoemde bedragen ten aanzien van hem verhoogd met een bedrag gelijk aan de in het derde en vierde lid bedoelde vermindering wegens de eerdere toepassing van artikel 10bis.6, eerste lid, van de Wet inkomstenbelasting 2001 op deze verzekering of van artikel 10bis.7 van die wet op deze spaarrekening of dit beleggingsrecht.
+
+- 1. Voor de toepassing van de onderdelen AL, AM, AO en AP wordt, indien de belastingplichtige het gehele kalenderjaar dezelfde partner in de zin van de [Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353) heeft of voor de toepassing van [artikel 2.17 van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=2.17) geacht wordt te hebben gehad, op gezamenlijk verzoek van de belastingplichtige en zijn partner een uitkering uit kapitaalverzekering bij leven geacht bij de belastingplichtige en zijn partner voor de helft op te komen.
+
+- 2. Het verzoek, bedoeld in het eerste lid, wordt gedaan in de aangifte over het jaar waarin de kapitaalverzekering tot uitkering is gekomen. Op het verzoek kan niet worden teruggekomen.
 
 Tot de bezittingen, bedoeld in [artikel 5.3, tweede lid, van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=5.3) behoren niet aandelen in en winstbewijzen van bij het [Besluit particuliere participatiemaatschappijen](https://wetten.overheid.nl/jci1.3:c:BWBR0006526) aangewezen participatiemaatschappijen tot een bedrag van maximaal €11 345.
 
@@ -760,9 +764,9 @@ Voor de plaatsing in het Staatsblad brengt Onze Minister van Financiën de in de
 
 ##### Artikel II. Inwerkingtreding
 
-1. Deze wet en de [Wet Inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353) treden in werking met ingang van 1 januari 2001 met uitzondering van [Hoofdstuk 2, artikel I, onderdeel AF, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011354&hoofdstuk=2&z=2018-01-01&g=2015-06-12), dat in werking treedt op 31 december 2000.
+1. Deze wet en de [Wet Inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353) treden in werking met ingang van 1 januari 2001 met uitzondering van [Hoofdstuk 2, artikel I, onderdeel AF, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011354&hoofdstuk=2&z=2016-01-01&g=2016-01-01), dat in werking treedt op 31 december 2000.
 
-2. In afwijking van het eerste lid, treedt [hoofdstuk 2, artikel 1, onderdelen Dc en Dd](https://wetten.overheid.nl/jci1.3:c:BWBR0011354&hoofdstuk=2&z=2018-01-01&g=2015-06-12), in werking op een bij koninklijk besluit te bepalen tijdstip dat zo nodig terugwerkende kracht kan hebben tot 1 januari 2001.
+2. In afwijking van het eerste lid, treedt [hoofdstuk 2, artikel 1, onderdelen Dc en Dd](https://wetten.overheid.nl/jci1.3:c:BWBR0011354&hoofdstuk=2&z=2016-01-01&g=2016-01-01), in werking op een bij koninklijk besluit te bepalen tijdstip dat zo nodig terugwerkende kracht kan hebben tot 1 januari 2001.
 
 3. Deze wet wordt aangehaald als: Invoeringswet Wet inkomstenbelasting 2001.
 
