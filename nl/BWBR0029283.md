@@ -4,7 +4,7 @@ identifier: "BWBR0029283"
 country: "nl"
 rank: "wet_bes"
 publication_date: "2025-04-01"
-last_updated: "2013-01-01"
+last_updated: "2016-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0029283"
 soort: "wet-BES"
@@ -103,7 +103,7 @@ Onder de naam «loonbelasting» wordt een belasting van de werknemers geheven.
 
 - b. degene, die aan één of meer personen loon uit vroegere dienstbetrekking tot hemzelf of tot een ander verstrekt.
 
-2. Als degene, tot wie de dienstbetrekking bestaat, wordt beschouwd in de gevallen bedoeld in [artikel 3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029283&hoofdstuk=I&artikel=3&z=2013-01-01&g=2013-01-01). onder
+2. Als degene, tot wie de dienstbetrekking bestaat, wordt beschouwd in de gevallen bedoeld in [artikel 3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029283&hoofdstuk=I&artikel=3&z=2016-01-01&g=2016-01-01). onder
 
 - a. het lichaam;
 
@@ -135,7 +135,7 @@ Onder de naam «loonbelasting» wordt een belasting van de werknemers geheven.
 
 ##### Artikel 5
 
-De belasting wordt geheven naar het zuiver voljaarsloon, bedoeld in [artikel 7, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029283&hoofdstuk=III&artikel=7&z=2013-01-01&g=2013-01-01).
+De belasting wordt geheven naar het zuiver voljaarsloon, bedoeld in [artikel 7, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029283&hoofdstuk=III&artikel=7&z=2016-01-01&g=2016-01-01).
 
 ##### Artikel 6
 
@@ -149,7 +149,7 @@ De belasting wordt geheven naar het zuiver voljaarsloon, bedoeld in [artikel 7, 
 
 - b. eenmalige uitkeringen en verstrekkingen ter zake van het overlijden van de werknemer voor zover deze uitkeringen en verstrekkingen driemaal het loon over een maand niet overtreffen;
 
-- c. de verplichte bijdragen voor pensioenen en aan pensioenfondsen die worden verrekend met de aan de werknemer, gewezen werknemer, zijn echtgenoot, zijn gewezen echtgenoot, zijn kinderen of pleegkinderen als bedoeld in [artikel 6a, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0029283&hoofdstuk=II&artikel=6a&z=2013-01-01&g=2013-01-01), toekomende pensioenuitkeringen;
+- c. de verplichte bijdragen voor pensioenen en aan pensioenfondsen die worden verrekend met de aan de werknemer, gewezen werknemer, zijn echtgenoot, zijn gewezen echtgenoot, zijn kinderen of pleegkinderen als bedoeld in [artikel 6a, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0029283&hoofdstuk=II&artikel=6a&z=2016-01-01&g=2016-01-01), toekomende pensioenuitkeringen;
 
 - d. de verplichte bijdragen van de werkgever voor pensioenen en aan pensioenfondsen;
 
@@ -253,11 +253,11 @@ Hierbij wordt uitgegaan van het loon over het tijdvak, hetwelk bij de aanvang va
 
 1. Het bedrag van de verschuldigde belasting over een loontijdvak van een jaar wordt bepaald overeenkomstig de [artikelen 24](https://wetten.overheid.nl/jci1.3:c:BWBR0029281&artikel=24) en [24A van de Wet inkomstenbelasting BES](https://wetten.overheid.nl/jci1.3:c:BWBR0029281&artikel=24a), met dien verstande dat in afwijking van artikel 24A, eerste lid, het bedrag van de over de belastbare som, bedoeld in artikel 24, verschuldigde belasting wordt bepaald door de belastbare som te vermenigvuldigen met een tarief van 30,4%, en dat geen vermindering plaatsvindt met het zuivere bedrag van de voordelen, bedoeld in [artikel 11, eerste lid, onder 3°](https://wetten.overheid.nl/jci1.3:c:BWBR0029281&artikel=11), en met de opbrengst, bedoeld in [artikel 17, eerste lid, aanhef en onderdelen e en f, van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0029281&artikel=17).
 
-2. Indien de werknemer over loontijdvakken die geheel of gedeeltelijk samenvallen loon geniet uit meer dan één dienstbetrekking of vroegere dienstbetrekking dan wel van meer dan één inhoudingsplichtige en dit loon voor de berekening van de belasting niet wordt samengevoegd, kan de werknemer de belastingvrije som, de kindertoeslag en de ouderentoeslag slechts in één dienstbetrekking dan wel tegenover één inhoudingsplichtige geldend maken.
+2. Indien de werknemer over loontijdvakken die geheel of gedeeltelijk samenvallen loon geniet uit meer dan één dienstbetrekking of vroegere dienstbetrekking dan wel van meer dan één inhoudingsplichtige en dit loon voor de berekening van de belasting niet wordt samengevoegd, kan de werknemer de belastingvrije som en de ouderentoeslag slechts in één dienstbetrekking dan wel tegenover één inhoudingsplichtige geldend maken.
 
 3. Onze Minister is bevoegd met het oog op de uitvoering van deze wet ter nadere uitwerking van de tabel, bedoeld in [artikel 24A van de Wet inkomstenbelasting BES](https://wetten.overheid.nl/jci1.3:c:BWBR0029281&artikel=24a), loonbelastingtabellen, waaronder begrepen de tabel voor bijzondere beloningen, bedoeld in het vierde lid, vast te stellen voor loontijdvakken waarvoor bij deze nodig acht. Bij het opstellen van deze tabellen kunnen loonklassen en afrondingen worden aangebracht.
 
-4. Tantièmes, gratificaties, overwerkloon en andere beloningen welke gewoonlijk slechts éénmaal of éénmaal per jaar worden genoten worden belast volgens de tabel voor bijzondere beloningen. In deze tabel worden jaarlonen en belastingpercentages opgenomen. Bij elk jaarloon komt het belastingpercentage overeen met het percentage dat verschuldigd is van de laatste duizend dollar van 90% van het zuiver voljaarsloon, bedoeld in [artikel 7, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029283&hoofdstuk=III&artikel=7&z=2013-01-01&g=2013-01-01).
+4. Tantièmes, gratificaties, overwerkloon en andere beloningen welke gewoonlijk slechts éénmaal of éénmaal per jaar worden genoten worden belast volgens de tabel voor bijzondere beloningen. In deze tabel worden jaarlonen en belastingpercentages opgenomen. Bij elk jaarloon komt het belastingpercentage overeen met het percentage dat verschuldigd is van de laatste duizend dollar van 90% van het zuiver voljaarsloon, bedoeld in [artikel 7, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029283&hoofdstuk=III&artikel=7&z=2016-01-01&g=2016-01-01).
 
 5. Indien dit niet tot een hoger belastingbedrag leidt mogen de in het vierde lid bedoelde beloningen worden beschouwd als een toevoeging aan het loon over het loontijdvak waarin zij worden uitbetaald.
 
@@ -269,9 +269,9 @@ Hierbij wordt uitgegaan van het loon over het tijdvak, hetwelk bij de aanvang va
 
 ##### Artikel 9
 
-1. In afwijking van het in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0029283&hoofdstuk=III&artikel=8&z=2013-01-01&g=2013-01-01) bepaalde bedraagt de belasting 35,4% van het loon ingeval de werknemer zijn naam, adres of woonplaats niet aan de inhoudingsplichtige heeft verstrekt alsmede ingeval de werknemer ter zake onjuiste gegevens heeft verstrekt en de inhoudingsplichtige dit wist of redelijkerwijs had moeten weten.
+1. In afwijking van het in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0029283&hoofdstuk=III&artikel=8&z=2016-01-01&g=2016-01-01) bepaalde bedraagt de belasting 35,4% van het loon ingeval de werknemer zijn naam, adres of woonplaats niet aan de inhoudingsplichtige heeft verstrekt alsmede ingeval de werknemer ter zake onjuiste gegevens heeft verstrekt en de inhoudingsplichtige dit wist of redelijkerwijs had moeten weten.
 
-2. In afwijking van het in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0029283&hoofdstuk=III&artikel=8&z=2013-01-01&g=2013-01-01) bepaalde bedraagt de belasting ten aanzien van de niet op de BES eilanden wonende artiest die een overeenkomst van korte duur om als musicus of anderszins als artiest op te treden is aangegaan, 10% van de som van het loon verminderd met de in [artikel 6, derde lid, onderdeel f](https://wetten.overheid.nl/jci1.3:c:BWBR0029283&hoofdstuk=II&artikel=6&z=2013-01-01&g=2013-01-01), bedoelde bedragen.
+2. In afwijking van het in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0029283&hoofdstuk=III&artikel=8&z=2016-01-01&g=2016-01-01) bepaalde bedraagt de belasting ten aanzien van de niet op de BES eilanden wonende artiest die een overeenkomst van korte duur om als musicus of anderszins als artiest op te treden is aangegaan, 10% van de som van het loon verminderd met de in [artikel 6, derde lid, onderdeel f](https://wetten.overheid.nl/jci1.3:c:BWBR0029283&hoofdstuk=II&artikel=6&z=2016-01-01&g=2016-01-01), bedoelde bedragen.
 
 ##### Artikel 9a
 
@@ -293,7 +293,7 @@ Hierbij wordt uitgegaan van het loon over het tijdvak, hetwelk bij de aanvang va
 
 4. Indien is overeengekomen dat het loon op een ongebruikelijk tijdstip zal worden genoten, wordt daarmee voor de toepassing van het tweede lid geen rekening gehouden.
 
-5. Voor zover ingevolge [artikel 9A](https://wetten.overheid.nl/jci1.3:c:BWBR0029283&hoofdstuk=III&artikel=9a&z=2013-01-01&g=2013-01-01) het loon hoger is dan het werkelijk genoten loon, wordt het meerdere geacht te zijn genoten bij het einde van het kalenderjaar of het einde van de dienstbetrekking zo deze in de loop van het kalenderjaar eindigt.
+5. Voor zover ingevolge [artikel 9A](https://wetten.overheid.nl/jci1.3:c:BWBR0029283&hoofdstuk=III&artikel=9a&z=2016-01-01&g=2016-01-01) het loon hoger is dan het werkelijk genoten loon, wordt het meerdere geacht te zijn genoten bij het einde van het kalenderjaar of het einde van de dienstbetrekking zo deze in de loop van het kalenderjaar eindigt.
 
 ##### Artikel 11
 
@@ -301,13 +301,13 @@ Hierbij wordt uitgegaan van het loon over het tijdvak, hetwelk bij de aanvang va
 
 ##### Artikel 12
 
-Overtreft de belasting het van de inhoudingsplichtige genoten loon in geld, dan wordt het ontbrekende geacht te zijn ingehouden op het tijdstip omschreven in [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0029283&hoofdstuk=III&artikel=10&z=2013-01-01&g=2013-01-01), met dien verstande dat de inhoudingsplichtige bevoegd is dat ontbrekende te verhalen op de werknemer.
+Overtreft de belasting het van de inhoudingsplichtige genoten loon in geld, dan wordt het ontbrekende geacht te zijn ingehouden op het tijdstip omschreven in [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0029283&hoofdstuk=III&artikel=10&z=2016-01-01&g=2016-01-01), met dien verstande dat de inhoudingsplichtige bevoegd is dat ontbrekende te verhalen op de werknemer.
 
 ##### Artikel 12a
 
 1. Indien de werknemer ook premieplichtig is voor de algemene ouderdomsverzekering BES en de algemene weduwen- en wezenverzekering BES, geschiedt de heffing van de belasting en de premies voor deze volksverzekeringen in één bedrag dan wel in één percentage, met overeenkomstige toepassing van de regels die gelden voor de heffing en de invordering van de loonbelasting.
 
-2. Voor gevallen waarin het eerste lid toepassing vindt, worden, met overeenkomstige toepassing van [artikel 8, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029283&hoofdstuk=III&artikel=8&z=2013-01-01&g=2013-01-01), bij ministeriële regeling tabellen vastgesteld waarin telkens de belasting en de premies voor de algemene ouderdomsverzekering BES en de algemene weduwen- en wezenverzekering BES in één bedrag dan wel in één percentage worden opgenomen.
+2. Voor gevallen waarin het eerste lid toepassing vindt, worden, met overeenkomstige toepassing van [artikel 8, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029283&hoofdstuk=III&artikel=8&z=2016-01-01&g=2016-01-01), bij ministeriële regeling tabellen vastgesteld waarin telkens de belasting en de premies voor de algemene ouderdomsverzekering BES en de algemene weduwen- en wezenverzekering BES in één bedrag dan wel in één percentage worden opgenomen.
 
 3. Bij ministeriële regeling worden voor daarbij aan te wijzen gevallen berekeningsvoorschriften vastgesteld aan de hand waarvan uit de in het tweede lid bedoelde tabellen het bedrag van de belasting wordt afgeleid.
 
