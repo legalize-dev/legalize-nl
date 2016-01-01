@@ -4,7 +4,7 @@ identifier: "BWBR0007178"
 country: "nl"
 rank: "amvb"
 publication_date: "2026-01-01"
-last_updated: "2015-01-01"
+last_updated: "2016-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0007178"
 soort: "AMvB"
@@ -49,7 +49,7 @@ Hebben goedgevonden en verstaan:
 
 ##### Artikel 1
 
-1. Dit besluit geeft uitvoering aan de [artikelen 20, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=20), [22, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=22), [27, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=27), [33, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=33), [34, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=34), [35, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=35), [44, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=44), [45, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=45), [51, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=51), [54, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=54), [59, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=59), [59a, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=59a), [64, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=64), [67, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=67), [68, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=68), [69, zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=69), [70, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=70), en [93, eerste lid, van de Wet belastingen op milieugrondslag](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=93).
+1. Dit besluit geeft uitvoering aan de [artikelen 20, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=20), [22, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=22), [27, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=27), [33, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=33), [34, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=34), [35, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=35), [44, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=44), [45, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=45), [51, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=51), [54, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=54), [59, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=59), [59a, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=59a), [60, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=60), [64, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=64), [67, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=67), [68, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=68), [69, zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=69), [70, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=70), [70a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=70a), en [93, eerste lid, van de Wet belastingen op milieugrondslag](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=93).
 
 2. In dit besluit wordt verstaan onder de wet: de [Wet belastingen op milieugrondslag](https://wetten.overheid.nl/jci1.3:c:BWBR0007168).
 
@@ -115,7 +115,7 @@ Voor de toepassing van [artikel 11i, eerste lid, van de wet](https://wetten.over
 
 ##### Artikel 5
 
-Voor de toepassing van [artikel 22, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=22) wordt de toepassing van stoffen, preparaten of voorwerpen binnen een inrichting waar afvalstoffen worden verbrand, geacht hetzij verband te houden met de bedrijfsvoering van de inrichting, hetzij deel uit te maken van het bedrijfsproces dat leidt tot de nuttige toepassing of verwijdering van afvalstoffen, indien de stoffen, preparaten of voorwerpen in de inrichting dienen voor de activiteiten, dan wel bestaan uit de materialen of voorwerpen, bedoeld in [artikel 4, onderdelen a, f, g, h, i, of k](https://wetten.overheid.nl/jci1.3:c:BWBR0007178&hoofdstuk=IV&artikel=4&z=2015-01-01&g=2015-01-01).
+Voor de toepassing van [artikel 22, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=22) wordt de toepassing van stoffen, preparaten of voorwerpen binnen een inrichting waar afvalstoffen worden verbrand, geacht hetzij verband te houden met de bedrijfsvoering van de inrichting, hetzij deel uit te maken van het bedrijfsproces dat leidt tot de nuttige toepassing of verwijdering van afvalstoffen, indien de stoffen, preparaten of voorwerpen in de inrichting dienen voor de activiteiten, dan wel bestaan uit de materialen of voorwerpen, bedoeld in [artikel 4, onderdelen a, f, g, h, i, of k](https://wetten.overheid.nl/jci1.3:c:BWBR0007178&hoofdstuk=IV&artikel=4&z=2016-01-01&g=2016-01-01).
 
 ##### Artikel 5a
 
@@ -427,7 +427,7 @@ Het brengen, bedoeld in [artikel 35, tweede lid, onderdeel a, van de wet](https:
 
 ##### Artikel 16
 
-1. In de vervoersopdracht, bedoeld in [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0007178&hoofdstuk=V&artikel=14&z=2015-01-01&g=2015-01-01), worden vermeld:
+1. In de vervoersopdracht, bedoeld in [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0007178&hoofdstuk=V&artikel=14&z=2016-01-01&g=2016-01-01), worden vermeld:
 
 - a. de naam en het adres van degene die de vervoersopdracht opmaakt dan wel van degene in wiens opdracht zij wordt opgemaakt;
 
@@ -447,9 +447,9 @@ Het brengen, bedoeld in [artikel 35, tweede lid, onderdeel a, van de wet](https:
 
 ##### Artikel 17
 
-1. De vrijstellingen, bedoeld in [artikel 44, eerste en tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=44), worden verleend, indien:
+1. De vrijstellingen, bedoeld in [artikel 44, eerste, tweede en derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=44), worden verleend, indien:
 
-- a. degene die de kolen gebruikt, verklaart dat de aan hem te leveren kolen worden gebruikt op de wijze, bedoeld in [artikel 44, eerste of tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=44);
+- a. degene die de kolen gebruikt, verklaart dat de aan hem te leveren kolen worden gebruikt op de wijze, bedoeld in [artikel 44, eerste, tweede of derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=44);
 
 - b. de verklaring geschiedt met gebruikmaking van een door de vergunninghouder van de inrichting opgesteld bescheid in geval van uitslag of met gebruikmaking van een door degene die de levering verricht opgesteld bescheid in geval van invoer;
 
@@ -457,7 +457,9 @@ Het brengen, bedoeld in [artikel 35, tweede lid, onderdeel a, van de wet](https:
 
 - d. de verklaring op overzichtelijke wijze wordt bewaard bij de administratie van de vergunninghouder van de inrichting in geval van uitslag en bij de administratie van degene die de aangifte tot plaatsing onder de douaneregeling brengen in het vrije verkeer doet, in geval van invoer.
 
-2. Degene die de kolen gebruikt, richt zijn administratie zodanig in dat daarin op overzichtelijke wijze de gegevens zijn opgenomen omtrent alle voor de vrijstellingen, bedoeld in [artikel 44, eerste en tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=44), van belang zijnde bedrijfshandelingen.
+2. De vrijstelling, bedoeld in [artikel 44, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=44), wordt niet verleend indien de kolen worden gebruikt in een installatie voor het opwekken van elektriciteit met een elektrisch vermogen van minder dan 60 kW.
+
+3. Degene die de kolen gebruikt, richt zijn administratie zodanig in dat daarin op overzichtelijke wijze de gegevens zijn opgenomen omtrent alle voor de vrijstellingen, bedoeld in [artikel 44, eerste, tweede of derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=44), van belang zijnde bedrijfshandelingen.
 
 ##### Artikel 18
 
@@ -465,13 +467,15 @@ Het brengen, bedoeld in [artikel 35, tweede lid, onderdeel a, van de wet](https:
 
 2. Het verzoek om teruggaaf wordt gedaan binnen dertien weken:
 
-- a. na het einde van het in het eerste lid bedoelde tijdvak waarin de kolen zijn gebruikt op een wijze, bedoeld in [artikel 44, eerste en tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=44);
+- a. na het einde van het in het eerste lid bedoelde tijdvak waarin de kolen zijn gebruikt op een wijze, bedoeld in [artikel 44, eerste, tweede of derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=44);
 
 - b. nadat de kolen de in [artikel 45, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=45) bedoelde bestemming hebben gevolgd.
 
 3. Bij het verzoek om teruggaaf worden de aankoopfactuur en de van belang zijnde gegevens over de bestemming van de kolen waarop de teruggaaf betrekking heeft overgelegd.
 
-4. De administratie van degene die om teruggaaf verzoekt, voldoet aan bij ministeriële regeling te stellen voorwaarden.
+4. [Artikel 17, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007178&hoofdstuk=V&artikel=17&z=2016-01-01&g=2016-01-01), is van overeenkomstige toepassing op de teruggaaf, bedoeld in [artikel 45, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=45), met betrekking tot kolen die worden gebruikt op een wijze als bedoeld in [artikel 44, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=44).
+
+5. De administratie van degene die om teruggaaf verzoekt, voldoet aan bij ministeriële regeling te stellen voorwaarden.
 
 ### Hoofdstuk VI. Energiebelasting
 
@@ -577,15 +581,29 @@ Vervallen
 
 3. Teruggaaf van belasting wordt alleen verleend indien de aankoopfactuur en de van belang zijnde gegevens en verklaringen over de bestemming van het aardgas of de elektriciteit waarop de teruggaaf betrekking heeft, worden overgelegd en indien de administratie van degene die om teruggaaf verzoekt voldoet aan bij ministeriële regeling te stellen voorwaarden.
 
-4. [Artikel 22, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007178&hoofdstuk=VI&artikel=22&z=2015-01-01&g=2015-01-01), is van overeenkomstige toepassing op de teruggaaf, bedoeld in [artikel 70, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=70).
+4. [Artikel 22, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007178&hoofdstuk=VI&artikel=22&z=2016-01-01&g=2016-01-01), is van overeenkomstige toepassing op de teruggaaf, bedoeld in [artikel 70, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=70).
 
-5. [Artikel 22, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007178&hoofdstuk=VI&artikel=22&z=2015-01-01&g=2015-01-01), is van overeenkomstige toepassing op de teruggaaf van belasting, bedoeld in [artikel 70, eerste, tweede en derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=70).
+5. [Artikel 22, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007178&hoofdstuk=VI&artikel=22&z=2016-01-01&g=2016-01-01), is van overeenkomstige toepassing op de teruggaaf van belasting, bedoeld in [artikel 70, eerste, tweede en derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=70).
 
 ### Hoofdstuk VII. Vliegbelasting
 
 ##### Artikel 28
 
-Vervallen
+1. Teruggaaf van belasting als bedoeld in [artikel 70a, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=70a) wordt op verzoek verleend aan degene aan wie de belasting in rekening is gebracht.
+
+2. Het tijdvak waarover de teruggaaf wordt verleend, is het kalenderkwartaal. De inspecteur kan op verzoek een ander tijdvak aanwijzen.
+
+3. Het verzoek om teruggaaf van belasting wordt gedaan binnen dertien weken na het eind van het in het tweede lid bedoelde tijdvak waarin het aardgas is geleverd.
+
+4. Teruggaaf wordt voorts alleen verleend indien:
+
+- a. uit de aankoopfactuur blijkt wanneer en hoeveel aardgas is geleverd;
+
+- b. degene die het verzoek om teruggaaf doet, bij het verzoek schriftelijk verklaart welk gedeelte van dit aardgas is gebruikt als brandstof voor vaartuigen op communautaire wateren, niet zijnde particuliere pleziervaartuigen; en
+
+- c. de verklaring, bedoeld in onderdeel b, desgevraagd kan worden gestaafd met schriftelijke verklaringen van de exploitanten van de vaartuigen waarin het aardgas als brandstof is gebruikt.
+
+5. De teruggaaf wordt voorts alleen verleend indien de aankoopfactuur en de van belang zijnde gegevens en verklaringen over de bestemming van het aardgas waarop de teruggaaf betrekking heeft, worden overgelegd en indien de administratie van degene die om teruggaaf verzoekt, voldoet aan bij ministeriële regeling te stellen voorwaarden.
 
 ### Hoofdstuk VIII. Algemene bepaling
 
@@ -763,7 +781,7 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 ### Afdeling 1. Sierteelt
 
-### Hoofdstuk VIII. Algemene bepaling
+### Hoofdstuk IX. Slotbepalingen
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het **Staatsblad** zal worden geplaatst en dat daarvan afschrift zal worden gezonden aan de Raad van State.
 
@@ -804,3 +822,33 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 ### Afdeling 2. Groenten en fruit
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het **Staatsblad** zal worden geplaatst en dat daarvan afschrift zal worden gezonden aan de Raad van State.
+
+##### Artikel 21c
+
+1. De verbruiker, bedoeld in [artikel 60, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=60), wordt aangemerkt als onderneming in moeilijkheden, wanneer het bedrijf van de verbruiker waaraan het aardgas wordt geleverd niet of niet langer levensvatbaar is.
+
+2. Een bedrijf als bedoeld in het eerste lid wordt geacht niet of niet langer levensvatbaar te zijn, wanneer zich een of meer van de volgende omstandigheden voordoen:
+
+- a. de verbruiker heeft verzocht om uitstel van betaling van een belastingschuld, maar dit verzoek is door de ontvanger onherroepelijk afgewezen omdat hij het bedrijf niet of niet langer levensvatbaar acht;
+
+- b. de verbruiker heeft aan zijn schuldeisers een verzoek gedaan een crediteurenakkoord te sluiten tot vermindering of kwijtschelding van de uitstaande vorderingen;
+
+- c. aan de verbruiker is surseance van betaling toegestaan als bedoeld in [artikel 222 van de Faillissementswet](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&artikel=222);
+
+- d. de verbruiker is bij rechterlijk vonnis in staat van faillissement verklaard als bedoeld in [artikel 1 van de Faillissementswet](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&artikel=1).
+
+3. Wanneer een of meer omstandigheden als bedoeld in het tweede lid zich voordoen, meldt de verbruiker binnen acht weken schriftelijk aan de leverancier van het aardgas dat hij niet langer in aanmerking komt voor het tarief, bedoeld in [artikel 60, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=60), omdat hij niet langer voldoet aan de voorwaarde, bedoeld in artikel 60, tweede lid, van de wet. Hierbij vermeldt de verbruiker de datum waarop deze wijziging is ingetreden. De leverancier van het aardgas beëindigt de toepassing van het tarief, bedoeld in artikel 60, eerste lid, van de wet, drie maanden na de datum genoemd in de melding van de verbruiker, bedoeld in de eerste volzin, tenzij deze melding is gevolgd door een intrekking van deze melding als bedoeld in het vijfde lid.
+
+4. Een omstandigheid als bedoeld in het tweede lid wordt geacht zich niet te hebben voorgedaan, wanneer binnen de termijn van acht weken, bedoeld in het derde lid:
+
+- a. in geval van het tweede lid, onderdeel a: de verbruiker de belastingschuld waarvoor uitstel van betaling was verzocht volledig heeft voldaan;
+
+- b. in geval van het tweede lid, onderdeel b: de schuldeisers van de verbruiker het verzoek om een crediteurenakkoord te sluiten honoreren;
+
+- c. in geval van het tweede lid, onderdeel c: de beschikking waarbij de surseance is ingetrokken in kracht van gewijsde is gegaan, bedoeld in [artikel 245 van de Faillissementswet](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&artikel=245), en de faillietverklaring van de verbruiker niet is uitgesproken;
+
+- d. in geval van het tweede lid, onderdeel d: het faillissement eindigt als gevolg van de homologatie van een akkoord dat in kracht van gewijsde is gegaan, bedoeld in [artikel 161 van de Faillissementswet](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&artikel=161).
+
+5. Wanneer de melding, bedoeld in het derde lid, eerste volzin, heeft plaatsgevonden en het vierde lid van toepassing is, trekt de verbruiker deze melding schriftelijk in binnen twee weken na afloop van de termijn van acht weken, genoemd in het derde lid. De eerdere melding wordt dan geacht niet te hebben plaatsgevonden.
+
+6. Bij regeling van Onze Minister kunnen nadere regels worden gesteld voor de toepassing van het tweede, derde en vierde lid.
