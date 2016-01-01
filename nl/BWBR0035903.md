@@ -4,7 +4,7 @@ identifier: "BWBR0035903"
 country: "nl"
 rank: "zbo"
 publication_date: "2022-05-01"
-last_updated: "2015-01-01"
+last_updated: "2016-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0035903"
 soort: "zbo"
@@ -95,7 +95,7 @@ Ontheffingen worden onderscheiden in langlopende ontheffingen en incidentele ont
 
 - d. een maximale massa van 100.000 kg;
 
-- e. een maximale aslast van 12.000 kg.
+- e. een maximale aslast van 10.000 kg dan wel 12.000 kg voor een pendelas.
 
 ##### Artikel 5. Incidentele ontheffing
 
@@ -175,7 +175,7 @@ Ontheffingen worden onderscheiden in langlopende ontheffingen en incidentele ont
 
 1. In het ontheffingsdocument wordt voor het voertuig of het samenstel van voertuigen vermeld:
 
-- a. het Nederlandse kenteken, dan wel tot 1 maart 2015 het buitenlandse kenteken, of
+- a. het Nederlandse kenteken, of
 
 - b. het VIN indien het een niet in Nederland geregistreerd voertuig betreft, of
 
@@ -275,7 +275,7 @@ Indiening van aanvragen kan uitsluitend schriftelijk plaatsvinden.
 
 - b. ter plaatse van een bijzondere verrichting geldt ten minste twee transportbegeleiders en op werkdagen een rijtijdbeperking van 06.00 uur tot 10.00 uur en 15.00 tot 20.00 uur.
 
-5. Indien sprake is van een aanvraag als bedoeld in [artikel 13, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035903&paragraaf=2&artikel=13&z=2015-01-01&g=2015-01-01), wordt het voorschrift van ten minste twee transportbegeleiders aan de ontheffing verbonden.
+5. Indien sprake is van een aanvraag als bedoeld in [artikel 13, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035903&paragraaf=2&artikel=13&z=2016-01-01&g=2016-01-01), wordt het voorschrift van ten minste twee transportbegeleiders aan de ontheffing verbonden.
 
 6. Indien er sprake is van een aanvraag met een bijzondere voertuigconfiguratie kan het voorschrift transportbegeleiding uitgevoerd door één dan wel twee transportbegeleiders aan de ontheffing worden verbonden.
 
@@ -315,7 +315,7 @@ Indiening van aanvragen kan uitsluitend schriftelijk plaatsvinden.
 
 - b. indien een bijzondere verrichting vereist is, ter plaatse ten minste twee transportbegeleiders en op werkdagen een rijtijdbeperking van 06.00 uur tot 10.00 uur en 15.00 tot 20.00 uur.
 
-5. Indien sprake is van een aanvraag als bedoeld in [artikel 10, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035903&paragraaf=2&artikel=10&z=2015-01-01&g=2015-01-01), wordt het voorschrift van ten minste twee transportbegeleiders aan de ontheffing verbonden.
+5. Indien sprake is van een aanvraag als bedoeld in [artikel 10, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035903&paragraaf=2&artikel=10&z=2016-01-01&g=2016-01-01), wordt het voorschrift van ten minste twee transportbegeleiders aan de ontheffing verbonden.
 
 6. Indien er sprake is van een aanvraag met een bijzondere voertuigconfiguratie kan het voorschrift transportbegeleiding uitgevoerd door één dan wel twee transportbegeleiders aan de ontheffing worden verbonden.
 
@@ -327,21 +327,25 @@ Indiening van aanvragen kan uitsluitend schriftelijk plaatsvinden.
 
 - b. de route, al dan niet in combinatie met de lading;
 
-- c. het bepaalde in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0035903&paragraaf=1&artikel=5&z=2015-01-01&g=2015-01-01).
+- c. het bepaalde in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0035903&paragraaf=1&artikel=5&z=2016-01-01&g=2016-01-01).
 
 2. Bij de beoordeling door de Dienst Wegverkeer van de geschiktheid van een motorvoertuig voor de uitvoering van een exceptioneel transport met een toegestane maximummassa van een samenstel van voertuigen groter dan het wettelijk maximum, is het volgende van toepassing:
 
 - a. ten aanzien van het motorvermogen: ≤ 100.000 kg: 0,00294 kW/kg > 100.000 kg ten minste 294 kW en;
 
-- b. ten aanzien van de belasting op de aangedreven assen: het motorvoertuig moet zodanig zijn belast dat ten minste 1/5 deel van de toegestane maximummassa van het samenstel van voertuigen op de aangedreven assen rust, tot een maximum van 10.000 kg (en 12.000 kg op Rijkswegen) voor een langlopende ontheffing en tot maximum 12.000 kg voor een incidentele ontheffing
+- b. ten aanzien van de belasting op de aangedreven as of assen: het motorvoertuig moet zodanig zijn belast dat ten minste 1/5 deel van de toegestane maximummassa van het samenstel van voertuigen op de aangedreven as of assen rust:
 
-- c. ten aanzien van het toegestane maximummassa van een voertuig of van een samenstel van voertuigen en maximale aslasten: het gestelde in [artikel 17, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032805&artikel=17), [artikel 18, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032805&artikel=18) en [artikel 19, tweede en derde lid van de Beleidsregel ontheffing gerelateerde voertuigdocumenten](https://wetten.overheid.nl/jci1.3:c:BWBR0032805&artikel=19). Deze onderzoeken vinden plaats bij de RDW. Het onder a genoemde onderzoek wordt uitgevoerd aan de hand van het bepaalde in [artikel 13, eerste lid, onder a en c en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032805&artikel=13) dan wel [artikel 14, eerste en derde lid van de Beleidsregel ontheffing gerelateerde documenten](https://wetten.overheid.nl/jci1.3:c:BWBR0032805&artikel=14).
+- 1°. bij meerdere aangedreven assen tot een maximum van 10.000 kg voor een langlopende ontheffing en tot een maximum van 12.000 kg voor in een incidentele ontheffing.
 
-3. Ten behoeve van de voertuigbeoordeling als bedoeld in het eerste lid, onder a, kan een technisch onderzoek van het voertuig noodzakelijk zijn naar:
+- 2°. bij een enkele aangedreven as tot een maximum van 11.500 kg;
 
-- a. het gedrag in bochten van het voertuig dan wel van het samenstel van voertuigen;
+- c. ten aanzien van het toegestane maximummassa van een voertuig of van een samenstel van voertuigen en maximale aslasten: het gestelde in [artikel 17, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032805&artikel=17), [artikel 18, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032805&artikel=18) en [artikel 19, tweede en derde lid van de Beleidsregel ontheffing gerelateerde voertuigdocumenten](https://wetten.overheid.nl/jci1.3:c:BWBR0032805&artikel=19). Deze onderzoeken vinden plaats bij de RDW. Het onder a genoemde onderzoek wordt uitgevoerd aan de hand van het bepaalde in [artikel 13, eerste lid, onder a en c en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032805&artikel=13) dan wel [artikel 14, eerste en derde lid van de Beleidsregel ontheffing gerelateerde documenten](https://wetten.overheid.nl/jci1.3:c:BWBR0032805&artikel=14);
 
-- b. de geschiktheid op technische gronden van het voertuig dan wel van het samenstel van voertuigen voor het vervoer van de opgegeven lading.
+- d. ten aanzien van de banden: de wielen van elke as van het voertuig moeten gezamenlijk zijn voorzien van banden waarvan de loadindex niet kleiner is dan de maximum toegestane aslast, zoals beschreven in het kentekenbewijs dan wel ontheffingsattest of SERT document, in combinatie met een snelheidscodering van tenminste 80 km/h.
+
+3. Ten behoeve van de voertuigbeoordeling als bedoeld in het eerste lid, onder a, kan een technisch onderzoek van het voertuig noodzakelijk zijn naar de geschiktheid op technische gronden van het voertuig dan wel van het samenstel van voertuigen voor het vervoer van de opgegeven lading.
+
+Dit onderzoek wordt uitgevoerd aan de hand van het bepaalde in [artikel 13, eerste lid, onder a en c en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032805&artikel=13) dan wel [artikel 14, eerste en derde lid van de Beleidsregel ontheffing gerelateerde documenten](https://wetten.overheid.nl/jci1.3:c:BWBR0032805&artikel=14).
 
 4. Ten behoeve van de route als bedoeld in het eerste lid, onder b, kunnen worden opgevraagd:
 
@@ -359,7 +363,7 @@ Indiening van aanvragen kan uitsluitend schriftelijk plaatsvinden.
 
 ##### Artikel 17. Voorschriften verbonden aan de ontheffing
 
-1. De Dienst Wegverkeer verbindt aan iedere ontheffing algemene voorschriften, zoals opgenomen in [bijlage A](https://wetten.overheid.nl/jci1.3:c:BWBR0035903&bijlage=A&z=2015-01-01&g=2015-01-01).
+1. De Dienst Wegverkeer verbindt aan iedere ontheffing algemene voorschriften, zoals opgenomen in [bijlage A](https://wetten.overheid.nl/jci1.3:c:BWBR0035903&bijlage=A&z=2016-01-01&g=2016-01-01).
 
 2. De Dienst Wegverkeer kan aan iedere ontheffing bijzondere voorschriften verbinden.
 
@@ -371,7 +375,7 @@ De voor inwerkingtreding van deze beleidsregel aangevraagde en verleende ontheff
 
 ##### Artikel 19. Intrekking
 
-De [Beleidsregel Ontheffingverlening exceptionele transporten Dienst Wegverkeer 2013](https://wetten.overheid.nl/jci1.3:c:BWBR0033052&wetgeving) (Stct. 2013, nr. 7573) wordt ingetrokken.
+De [Beleidsregel Ontheffingverlening exceptionele transporten Dienst Wegverkeer 2013](https://wetten.overheid.nl/jci1.3:c:BWBR0033052) (Stct. 2013, nr. 7573) wordt ingetrokken.
 
 ##### Artikel 20. Inwerkingtreding
 
@@ -381,7 +385,7 @@ Deze beleidsregel treedt in werking met ingang van 1 januari 2015.
 
 Deze beleidsregel wordt aangehaald als: Beleidsregel Ontheffingverlening exceptionele transporten RDW 2015.
 
-## Bijlage A. Bij [artikel 17, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035903&paragraaf=3&artikel=17&z=2015-01-01&g=2015-01-01)
+## Bijlage A. Bij [artikel 17, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035903&paragraaf=3&artikel=17&z=2016-01-01&g=2016-01-01)
 
 ### Algemene voorschriften
 
