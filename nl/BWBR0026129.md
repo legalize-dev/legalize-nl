@@ -4,7 +4,7 @@ identifier: "BWBR0026129"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2016-01-01"
-last_updated: "2014-01-01"
+last_updated: "2016-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0026129"
 soort: "ministeriele-regeling"
@@ -74,7 +74,13 @@ Het Gevechtsinsigne wordt eenmalig toegekend.
 
 ##### Artikel 7
 
-De toekenning van het Gevechtsinsigne geschiedt namens de Minister van Defensie door de Commandant der Strijdkrachten.
+De toekenning van het gevechtsinsigne geschiedt namens de Minister van Defensie:
+
+- a. door de Commandant der Strijdkrachten;
+
+- b. door de Commandant van het Operationeel Commando waartoe de militair behoort;
+
+- c. gedurende uitzendingen door de Commandant van het Contingentscommando, dan wel de Senior National Representative in het uitzendgebied waar de militair zich bevindt.
 
 ##### Artikel 8
 
