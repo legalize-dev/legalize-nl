@@ -4,7 +4,7 @@ identifier: "BWBR0040483"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2018-04-01"
-last_updated: "2015-01-01"
+last_updated: "2016-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0040483"
 soort: "ministeriele-regeling"
@@ -147,8 +147,6 @@ Wijzigt de Uitvoeringsregeling Algemene wet inzake rijksbelastingen 1994.
 ##### Artikel XX
 
 Wijzigt de Uitvoeringsregeling Belastingdienst 2003.
-
-Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel XXI
 
