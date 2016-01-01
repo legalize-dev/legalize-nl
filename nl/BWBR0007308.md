@@ -4,7 +4,7 @@ identifier: "BWBR0007308"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-01-01"
-last_updated: "2014-07-01"
+last_updated: "2016-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0007308"
 soort: "ministeriele-regeling"
@@ -41,7 +41,7 @@ Besluit:
 
 ##### Artikel 1
 
-Deze regeling geeft uitvoering aan de [artikelen 3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006324&artikel=3), [7, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006324&artikel=7), [15, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006324&artikel=15), [24a, achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006324&artikel=24a), [24b, tweede en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006324&artikel=24b), en [37f van de Wet op de motorrijtuigenbelasting 1994](https://wetten.overheid.nl/jci1.3:c:BWBR0006324&artikel=37f) en [artikel XII, eerste lid, van de Invoeringswet Wet op de motorrijtuigenbelasting 1994](https://wetten.overheid.nl/jci1.3:c:BWBR0007310&artikel=XII).
+Deze regeling geeft uitvoering aan de [artikelen 3, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006324&artikel=3), [7, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006324&artikel=7), [15, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006324&artikel=15), [24a, achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006324&artikel=24a), [24b, tweede en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006324&artikel=24b), en [37f van de Wet op de motorrijtuigenbelasting 1994](https://wetten.overheid.nl/jci1.3:c:BWBR0006324&artikel=37f) en [artikel XII, eerste lid, van de Invoeringswet Wet op de motorrijtuigenbelasting 1994](https://wetten.overheid.nl/jci1.3:c:BWBR0007310&artikel=XII).
 
 ##### Artikel 2
 
