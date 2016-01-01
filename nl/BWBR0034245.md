@@ -4,7 +4,7 @@ identifier: "BWBR0034245"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-01-01"
-last_updated: "2014-01-01"
+last_updated: "2016-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0034245"
 soort: "ministeriele-regeling"
@@ -56,18 +56,16 @@ Een toegelaten instelling wordt ingedeeld in een bezoldigingsklasse overeenkomst
 
 De bezoldiging van een topfunctionaris van een toegelaten instelling bedraagt per bezoldigingsklasse ten hoogste:
 
-| Bezoldigingsklasse | Maximale bezoldiging (in euro) |
+| Bezoldigingsklasse | Maximale bezoldiging |
 | --- | --- |
-| A | € 82.100 |
-| B | € 93.000 |
-| C | € 103.900 |
-| D | € 112.400 |
-| E | € 130.600 |
-| F | € 148.800 |
-| G | € 167.000 |
-| H | € 185.200 |
-| I | € 203.400 |
-| J | bezoldigingsmaximum volgens [artikel 2.3 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0032249&artikel=2.3) |
+| A | 83.000 |
+| B | 94.000 |
+| C | 105.000 |
+| D | 113.000 |
+| E | 131.000 |
+| **F** | 150.000 |
+| G | 168.000 |
+| H | 179.000 |
 
 ##### Artikel 4. Indeling in een andere klasse
 
@@ -93,6 +91,8 @@ Deze regeling wordt aangehaald als: Regeling bezoldigingsmaxima topfunctionariss
 
 ### Tabel behorende bij de Regeling bezoldigingsmaxima topfunctionarissen toegelaten instellingen volkshuisvesting 2014
 
+Indeling van toegelaten instellingen in bezoldigingsklassen
+
 Deze tabel deelt de toegelaten instellingen in in bezoldigingsklassen.
 
 **Verticaal** in de tabel is uitgezet het aantal verhuureenheden (VHE) dat de toegelaten instelling op de peildatum in eigendom of beheer heeft volgens de gegevens, bedoeld in [bijlage II bij het Besluit beheer sociale-huursector](https://wetten.overheid.nl/jci1.3:c:BWBR0005686&bijlage=II).
@@ -105,8 +105,10 @@ In deze tabel worden voor de bepaling van het aantal verhuureenheden van een toe
 
 **Overige verhuureenheden:**
 
-Als **peildatum** voor het aantal verhuureenheden dat de toegelaten instelling in eigendom of beheer heeft geldt 31 december van het tweede jaar voorafgaande aan het jaar waarin de bezoldigingsmaxima, bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0034245&artikel=3&z=2014-01-01&g=2014-01-01), van toepassing zijn.
+Als **peildatum** voor het aantal verhuureenheden dat de toegelaten instelling in eigendom of beheer heeft geldt 31 december van het tweede jaar voorafgaande aan het jaar waarin de bezoldigingsmaxima, bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0034245&artikel=3&z=2016-01-01&g=2016-01-01), van toepassing zijn.
 
-Voor de bepaling van het aantal inwoners van een gemeente wordt in deze tabel uitgegaan van de door het Centraal Bureau voor de Statistiek openbaar gemaakte bevolkingscijfers op 1 januari van het eerste jaar voorafgaand aan het jaar waarin de bezoldigingsmaxima, bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0034245&artikel=3&z=2014-01-01&g=2014-01-01), van toepassing zijn.
+Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
+
+Voor de bepaling van het aantal inwoners van een gemeente wordt in deze tabel uitgegaan van de door het Centraal Bureau voor de Statistiek openbaar gemaakte bevolkingscijfers op 1 januari van het eerste jaar voorafgaand aan het jaar waarin de bezoldigingsmaxima, bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0034245&artikel=3&z=2016-01-01&g=2016-01-01), van toepassing zijn.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
