@@ -4,7 +4,7 @@ identifier: "BWBR0024391"
 country: "nl"
 rank: "wet"
 publication_date: "2016-01-01"
-last_updated: "2008-09-01"
+last_updated: "2016-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0024391"
 soort: "wet"
@@ -49,7 +49,7 @@ Wijzigt de Wet op het financieel toezicht.
 
 ##### Artikel II
 
-In de [artikelen III tot en met XVIII](https://wetten.overheid.nl/jci1.3:c:BWBR0024391&artikel=III&z=2008-09-01&g=2008-09-01) wordt verstaan onder «de wet»: de [Wet op het financieel toezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0020368).
+In de [artikelen III tot en met XVIII](https://wetten.overheid.nl/jci1.3:c:BWBR0024391&artikel=III&z=2016-01-01&g=2016-01-01) wordt verstaan onder «de wet»: de [Wet op het financieel toezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0020368).
 
 ##### Artikel III
 
@@ -89,7 +89,7 @@ In de [artikelen III tot en met XVIII](https://wetten.overheid.nl/jci1.3:c:BWBR0
 
 ##### Artikel IV
 
-1. Degene die op het tijdstip van inwerkingtreding van deze wet een gekwalificeerde deelneming houdt in een herverzekeraar als bedoeld in [artikel III](https://wetten.overheid.nl/jci1.3:c:BWBR0024391&artikel=III&z=2008-09-01&g=2008-09-01), beschikt vanaf dat tijdstip van rechtswege over een verklaring van geen bezwaar als bedoeld in [artikel 3:95, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:95) voor die deelneming.
+1. Degene die op het tijdstip van inwerkingtreding van deze wet een gekwalificeerde deelneming houdt in een herverzekeraar als bedoeld in [artikel III](https://wetten.overheid.nl/jci1.3:c:BWBR0024391&artikel=III&z=2016-01-01&g=2016-01-01), beschikt vanaf dat tijdstip van rechtswege over een verklaring van geen bezwaar als bedoeld in [artikel 3:95, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:95) voor die deelneming.
 
 2. De houder van de gekwalificeerde deelneming legt binnen drie maanden na inwerkingtreding van deze wet aan de Nederlandsche Bank over:
 
@@ -105,7 +105,7 @@ In de [artikelen III tot en met XVIII](https://wetten.overheid.nl/jci1.3:c:BWBR0
 
 ##### Artikel V
 
-1. De gegevens, bedoeld in [artikel III, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024391&artikel=III&z=2008-09-01&g=2008-09-01), zijn:
+1. De gegevens, bedoeld in [artikel III, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024391&artikel=III&z=2016-01-01&g=2016-01-01), zijn:
 
 - a. een opgave van de naam, het adres en het telefoon- en faxnummer van de herverzekeraar;
 
@@ -165,7 +165,7 @@ In de [artikelen III tot en met XVIII](https://wetten.overheid.nl/jci1.3:c:BWBR0
 
 ##### Artikel VI
 
-Het programma van werkzaamheden, bedoeld in [artikel IV, eerste lid, onderdeel f,](https://wetten.overheid.nl/jci1.3:c:BWBR0024391&artikel=IV&z=2008-09-01&g=2008-09-01) dat wordt overgelegd door degene die een vergunning aanvraagt voor het uitoefenen van het bedrijf van herverzekeraar, bevat het volgende:
+Het programma van werkzaamheden, bedoeld in [artikel IV, eerste lid, onderdeel f,](https://wetten.overheid.nl/jci1.3:c:BWBR0024391&artikel=IV&z=2016-01-01&g=2016-01-01) dat wordt overgelegd door degene die een vergunning aanvraagt voor het uitoefenen van het bedrijf van herverzekeraar, bevat het volgende:
 
 - a. een opgave van de aard van de risico’s die de herverzekeraar voornemens is te dekken;
 
@@ -217,7 +217,7 @@ Het programma van werkzaamheden, bedoeld in [artikel IV, eerste lid, onderdeel f
 
 ##### Artikel VIII
 
-1. De gegevens, bedoeld in [artikel VII, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024391&artikel=VII&z=2008-09-01&g=2008-09-01), zijn:
+1. De gegevens, bedoeld in [artikel VII, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024391&artikel=VII&z=2016-01-01&g=2016-01-01), zijn:
 
 - a. een opgave van de naam, het adres en het telefoon- en faxnummer van de herverzekeraar;
 
@@ -277,7 +277,7 @@ Het programma van werkzaamheden, bedoeld in [artikel IV, eerste lid, onderdeel f
 
 ##### Artikel IX
 
-Het programma van werkzaamheden, bedoeld in [artikel VIII, eerste lid, onderdeel f](https://wetten.overheid.nl/jci1.3:c:BWBR0024391&artikel=VIII&z=2008-09-01&g=2008-09-01), dat wordt overgelegd door degene die een vergunning aanvraagt voor het uitoefenen van het bedrijf van herverzekeraar, bevat het volgende:
+Het programma van werkzaamheden, bedoeld in [artikel VIII, eerste lid, onderdeel f](https://wetten.overheid.nl/jci1.3:c:BWBR0024391&artikel=VIII&z=2016-01-01&g=2016-01-01), dat wordt overgelegd door degene die een vergunning aanvraagt voor het uitoefenen van het bedrijf van herverzekeraar, bevat het volgende:
 
 - a. een opgave van de aard van de risico’s die de herverzekeraar voornemens is te dekken;
 
@@ -297,241 +297,31 @@ Het programma van werkzaamheden, bedoeld in [artikel VIII, eerste lid, onderdeel
 
 ##### Artikel X
 
-1. Een entiteit voor risico-acceptatie met zetel in Nederland die zijn bedrijf uitoefende onmiddellijk voorafgaand aan 10 december 2005, verkrijgt op het tijdstip van inwerkingtreding van deze wet van rechtswege een vergunning als bedoeld in [artikel 2:54a, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:54a) voor de uitoefening van het bedrijf van entiteit voor risico-acceptatie in de activiteit waarin zij haar bedrijf op het tijdstip van inwerkingtreding van deze wet uitoefent.
-
-2. De entiteit voor risico-acceptatie legt binnen drie maanden na inwerkingtreding van deze wet gegevens aan de Nederlandsche Bank over waaruit blijkt dat uiterlijk op 10 december 2008 zal zijn voldaan aan:
-
-- a. [artikel 3:8 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:8) met betrekking tot de deskundigheid van de in dat artikel bedoelde personen;
-
-- b. [artikel 3:9 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:9) met betrekking tot de betrouwbaarheid van de in dat artikel genoemde personen;
-
-- c. [artikel 3:10, eerste en tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:10) met betrekking tot het beleid met betrekking tot de integere bedrijfsuitoefening;
-
-- d. [artikel 3:15, eerste en tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:15) met betrekking tot het minimum aantal personen dat het dagelijks beleid bepaalt en de plaats van waaruit zij hun werkzaamheden verrichten;
-
-- e. [artikel 3:16, eerste en tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:16) met betrekking tot de zeggenschapsstructuur;
-
-- f. [artikel 3:17, eerste en tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:17) met betrekking tot de inrichting van de bedrijfsvoering;
-
-- g. [artikel 3:20 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:20) met betrekking tot de rechtsvorm;
-
-- h. [artikel 3:53, eerste tot en met vierde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:53) met betrekking tot het minimum eigen vermogen;
-
-- i. [artikel 3:57, eerste tot en met vierde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:57) met betrekking tot de solvabiliteit; en
-
-- j. [artikel 3:70 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:70) met betrekking tot het boekjaar.
-
-3. De Nederlandsche Bank kan alle in de wet voorziene maatregelen treffen jegens de entiteit voor risico-acceptatie, tot 10 december 2008 met uitzondering van:
-
-- a. het intrekken van de vergunning uitsluitend vanwege het feit dat de entiteit voor risico-acceptatie niet voldoet aan [artikel 3:53, eerste, tweede en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:53), of [artikel 3:57, eerste, derde en vierde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:57);
-
-- b. het geven van een aanwijzing als bedoeld in [artikel 1:75 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=1:75) tot overdracht van de gehele portefeuille uitsluitend vanwege het feit dat de entiteit voor risico-acceptatie niet voldoet aan [artikel 3:53, eerste, tweede en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:53), of [artikel 3:57, eerste, derde en vierde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:57).
-
-4. De entiteit voor risico-acceptatie die overeenkomstig het eerste lid een vergunning heeft, wordt als aanvrager ingeschreven in het register, bedoeld in [artikel 1:107 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=1:107). De Nederlandsche Bank haalt deze inschrijving door zodra zij onherroepelijk op de aanvraag heeft beslist.
+Vervallen
 
 ##### Artikel XI
 
-1. Degene die op het tijdstip van inwerkingtreding van deze wet een gekwalificeerde deelneming houdt in een entiteit voor risico-acceptatie als bedoeld in [artikel X](https://wetten.overheid.nl/jci1.3:c:BWBR0024391&artikel=X&z=2008-09-01&g=2008-09-01), beschikt vanaf dat tijdstip van rechtswege over een verklaring van geen bezwaar als bedoeld in [artikel 3:95, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:95) voor die deelneming.
-
-2. De houder van de gekwalificeerde deelneming legt binnen drie maanden na inwerkingtreding van deze aan de Nederlandsche Bank over:
-
-- a. een opgave van de omvang van een gekwalificeerde deelneming als bedoeld in [artikel 3:95 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:95);
-
-- b. gegevens op basis waarvan de Nederlandsche Bank kan beoordelen of voldaan wordt aan hetgeen ingevolge [artikel 3:99 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:99) is bepaald met betrekking tot de betrouwbaarheid van de houder van een verklaring van geen bezwaar die op grond van zijn gekwalificeerde deelneming het beleid van de betrokken onderneming zou kunnen bepalen of mede bepalen of zou bepalen of mede bepalen; en
-
-- c. bescheiden waaruit zijn financiële positie en zijn juridische groepsstructuur blijken.
-
-3. Indien het een gekwalificeerde deelneming betreft als bedoeld in [artikel 3:97, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:97) zendt de Nederlandsche Bank de gegevens en bescheiden, vergezeld van haar advies, door aan Onze Minister.
-
-4. Tot 10 december 2008 kan de Nederlandsche Bank de ingevolge het eerste lid verkregen verklaring van geen bezwaar niet intrekken.
+Vervallen
 
 ##### Artikel XII
 
-1. De gegevens, bedoeld in [artikel X, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024391&artikel=X&z=2008-09-01&g=2008-09-01), zijn:
-
-- a. een opgave van de naam, het adres en het telefoon- en faxnummer van de entiteit voor risico-acceptatie;
-
-- b. een opgave van de naam van de entiteit voor risico-acceptatie;
-
-- c. een opgave van de statutaire zetel, de statutaire naam en de handelsnaam of handelsnamen;
-
-- d. indien de entiteit voor risico-acceptatie is ingeschreven in het handelsregister, een opgave van het nummer van inschrijving;
-
-- e. een gewaarmerkt afschrift van de statuten;
-
-- f. een programma van werkzaamheden die de entiteit voor risico-acceptatie voornemens is te verrichten;
-
-- g. gegevens op basis waarvan de Nederlandsche Bank kan beoordelen of voldaan wordt aan hetgeen ingevolge [artikel 3:8 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:8) is bepaald met betrekking tot de deskundigheid van de personen die het dagelijks beleid bepalen;
-
-- h. gegevens op basis waarvan de Nederlandsche Bank kan beoordelen of voldaan wordt aan hetgeen ingevolge [artikel 3:9 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:9) is bepaald met betrekking tot de betrouwbaarheid van de personen die het beleid bepalen of mede bepalen of onderdeel zijn van een orgaan dat belast is met toezicht op het beleid en de algemene gang van zaken;
-
-- i. een beschrijving van het voorgenomen beleid met betrekking tot de integere bedrijfsuitoefening, bedoeld in [artikel 3:10, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:10);
-
-- j. een beschrijving van de zeggenschapsstructuur aan de hand waarvan de Nederlandsche Bank kan beoordelen of voldaan wordt aan [artikel 3:16 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:16);
-
-- k. een beschrijving van de inrichting van de bedrijfsvoering met betrekking tot de beheerste en integere bedrijfsuitoefening, bedoeld in [artikel 3:17, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:17);
-
-- l. bescheiden waaruit het eigen vermogen, bedoeld in [artikel 3:53 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:53), en de te verwachten solvabiliteit, bedoeld in [artikel 3:57, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:57) blijken; en
-
-- m. indien van toepassing:
-
-- 1°. een opgave van de omvang van een gekwalificeerde deelneming als bedoeld in [artikel 3:95 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:95);
-
-- 2°. gegevens op basis waarvan de Nederlandsche Bank kan beoordelen of wordt voldaan aan hetgeen ingevolge [artikel 3:99 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:99) is bepaald met betrekking tot de betrouwbaarheid van de houder van een verklaring van geen bezwaar die op grond van zijn gekwalificeerde deelneming het beleid van de betrokken onderneming zou kunnen bepalen of mede bepalen of zou bepalen of mede bepalen; en
-
-- 3°. bescheiden waaruit zijn financiële positie en zijn juridische groepsstructuur van de aanvrager van een verklaring van geen bezwaar blijken.
-
-2. De gegevens, bedoeld in het eerste lid, onderdeel g, zijn:
-
-- a. een opgave van de naam, geboortedatum, geboorteplaats, nationaliteit, het privé-adres, het telefoon- en faxnummer en de functie;
-
-- b. een curriculum vitae;
-
-- c. een opgave van de relevante diploma’s;
-
-- d. een kopie van een geldig legimatiebewijs; en
-
-- e. een opgave van referenten.
-
-3. De gegevens, bedoeld in het eerste lid, aanhef en onderdeel h, zijn:
-
-- a. een opgave van de naam, de geboortedatum, de geboorteplaats, nationaliteit, het privé-adres, het telefoon- en faxnummer en de functie;
-
-- b. een kopie van een geldig identiteitsbewijs;
-
-- c. gegevens met betrekking tot de antecedenten, bedoeld in de [bijlage bij het Besluit Markttoegang financiële ondernemingen Wft](onbekend); en
-
-- d. een opgave van referenten.
-
-4. Het eerste lid, aanhef en onderdelen h en m, zijn niet van toepassing ten aanzien van personen wier betrouwbaarheid voor de toepassing van de [wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368) door een toezichthouder reeds is vastgesteld.
+Vervallen
 
 ##### Artikel XIII
 
-Het programma van werkzaamheden, bedoeld in [artikel XII, eerste lid, onderdeel f](https://wetten.overheid.nl/jci1.3:c:BWBR0024391&artikel=XII&z=2008-09-01&g=2008-09-01), bevat het volgende:
-
-- a. een opgave van de aard van de risico’s die de entiteit voor risico-acceptatie voornemens is te dekken;
-
-- b. indien van toepassing, een opgave van de aard van de overeenkomsten die de entiteit voor risico-acceptatie voornemens is te sluiten met de levensverzekeraars, natura-uitvaartverzekeraars of andere herverzekeraars die levensverzekeringen herverzekeren, van wie hij de overgedragen risico’s accepteert;
-
-- c. een uiteenzetting omtrent de leidende beginselen op het gebied van het sluiten van overeenkomsten waarbij de entiteit voor risico-acceptatie een gedeelte van het door hem geaccepteerde risico, tegen betaling van premie, op zijn beurt aan een andere herverzekeraar overdraagt;
-
-- d. een raming van de kosten voor de inrichting van de administratie en van het produktienet en bewijsstukken waaruit blijkt dat de entiteit voor risico-acceptatie beschikt over de financiële middelen ter dekking daarvan;
-
-- e. een raming voor de eerste drie boekjaren van de andere dan de in onderdeel c bedoelde kosten van beheer, in het bijzonder van de algemene kosten en provisies;
-
-- f. een raming voor de eerste drie boekjaren van de premies en van de schaden;
-
-- g. een raming voor de eerste drie boekjaren van de liquiditeitspositie; en
-
-- h. een raming voor de eerste drie boekjaren van de financiële middelen tot dekking van de verplichtingen en tot dekking van de solvabiliteitsmarge, bedoeld in [artikel 3:57, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:57).
+Vervallen
 
 ##### Artikel XIV
 
-1. Een entiteit voor risico-acceptatie met zetel in een niet-aangewezen staat die zijn bedrijf vanuit een in Nederland gelegen bijkantoor uitoefende onmiddellijk voorafgaand aan 10 december 2005 overeenkomstig het recht van de staat van de zetel, verkrijgt op het tijdstip van inwerkingtreding van deze wet van rechtswege een vergunning als bedoeld in [artikel 2:54a, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:54a) voor de uitoefening van het bedrijf van entiteit voor risico-acceptatie in de activiteit waarin zij haar bedrijf op het tijdstip van inwerkingtreding van de [wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368) uitoefent.
-
-2. De entiteit voor risico-acceptatie legt binnen drie maanden na inwerkingtreding van deze wet gegevens aan de Nederlandsche Bank over waaruit blijkt dat uiterlijk 10 december 2008 zal zijn voldaan aan:
-
-- a. [artikel 3:8 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:8) met betrekking tot de deskundigheid van de in dat artikel bedoelde personen;
-
-- b. [artikel 3:9 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:9) met betrekking tot de betrouwbaarheid van de in dat artikel genoemde personen;
-
-- c. [artikel 3:10, eerste en tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:10) met betrekking tot het beleid met betrekking tot de integere bedrijfsuitoefening;
-
-- d. [artikel 3:16, eerste en tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:16) met betrekking tot de zeggenschapsstructuur;
-
-- e. [artikel 3:17, eerste en tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:17) met betrekking tot de inrichting van de bedrijfsvoering;
-
-- f. [artikel 3:53, eerste tot en met vierde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:53) met betrekking tot het minimum eigen vermogen;
-
-- g. [artikel 3:57, eerste tot en met vierde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:57) met betrekking tot de solvabiliteit; en
-
-- h. [artikel 3:70](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:70) met betrekking tot het boekjaar.
-
-3. De Nederlandsche Bank kan alle in de wet voorziene maatregelen treffen jegens de entiteit voor risico-acceptatie, tot 10 december 2008 met uitzondering van:
-
-- a. het intrekken van de vergunning uitsluitend vanwege het feit dat de entiteit voor risico-acceptatie niet voldoet aan [artikel 3:53, eerste, tweede en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:53), of [artikel 3:57, eerste, derde en vierde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:57); en
-
-- b. het geven van een aanwijzing als bedoeld in [artikel 1:75 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=1:75) tot overdracht van de gehele portefeuille uitsluitend vanwege het feit dat de entiteit voor risico-acceptatie niet voldoet aan [artikel 3:53, eerste, tweede en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:53), of [artikel 3:57, eerste, derde en vierde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:57).
-
-4. De entiteit voor risico-acceptatie die overeenkomstig het eerste lid een vergunning heeft, wordt als aanvrager ingeschreven in het register, bedoeld in [artikel 1:107 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=1:107). De Nederlandsche Bank haalt deze inschrijving door zodra zij onherroepelijk op de aanvraag heeft beslist.
+Vervallen
 
 ##### Artikel XV
 
-1. De gegevens, bedoeld in [artikel XIV, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024391&artikel=XIV&z=2008-09-01&g=2008-09-01), zijn:
-
-- a. een opgave van de naam, het adres en het telefoon- en faxnummer van de entiteit voor risico-acceptatie;
-
-- b. een opgave van de naam van de entiteit voor risico-acceptatie;
-
-- c. een opgave van de statutaire zetel, de statutaire naam en de handelsnaam of handelsnamen;
-
-- d. indien de entiteit voor risico-acceptatie is ingeschreven in het handelsregister, een opgave van het nummer van inschrijving;
-
-- e. een gewaarmerkt afschrift van de statuten;
-
-- f. een programma van werkzaamheden die de entiteit voor risico-acceptatie voornemens is te verrichten;
-
-- g. gegevens op basis waarvan de Nederlandsche Bank kan beoordelen of voldaan wordt aan hetgeen ingevolge [artikel 3:8 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:8) is bepaald met betrekking tot de deskundigheid van de personen die het dagelijks beleid bepalen;
-
-- h. gegevens op basis waarvan de Nederlandsche Bank kan beoordelen of voldaan wordt aan hetgeen ingevolge [artikel 3:9 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:9) is bepaald met betrekking tot de betrouwbaarheid van de personen die het beleid bepalen of mede bepalen of onderdeel zijn van een orgaan dat belast is met toezicht op het beleid en de algemene gang van zaken;
-
-- i. een beschrijving van het voorgenomen beleid met betrekking tot de integere bedrijfsuitoefening, bedoeld in [artikel 3:10, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:10);
-
-- j. een beschrijving van de zeggenschapsstructuur aan de hand waarvan de Nederlandsche Bank kan beoordelen of voldaan wordt aan [artikel 3:16 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:16);
-
-- k. een beschrijving van de inrichting van de bedrijfsvoering met betrekking tot de beheerste en integere bedrijfsuitoefening, bedoeld in [artikel 3:17, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:17);
-
-- l. bescheiden waaruit het eigen vermogen, bedoeld in [artikel 3:53 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:53), en de te verwachten solvabiliteit, bedoeld in [artikel 3:57, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:57) blijken; en
-
-- m. indien van toepassing:
-
-- 1°. een opgave van de omvang van een gekwalificeerde deelneming als bedoeld in [artikel 3:95 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:95);
-
-- 2°. gegevens op basis waarvan de Nederlandsche Bank kan beoordelen of wordt voldaan aan hetgeen ingevolge [artikel 3:99 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:99) is bepaald met betrekking tot de betrouwbaarheid van de houder van een verklaring van geen bezwaar die op grond van zijn gekwalificeerde deelneming het beleid van de betrokken onderneming zou kunnen bepalen of mede bepalen of zou bepalen of mede bepalen; en
-
-- 3°. bescheiden waaruit zijn financiële positie en zijn juridische groepsstructuur blijken.
-
-2. De gegevens, bedoeld in het eerste lid, aanhef en onderdeel g, zijn:
-
-- a. een opgave van de naam, geboortedatum, geboorteplaats, nationaliteit, het privé-adres, het telefoon- en faxnummer en de functie;
-
-- b. een curriculum vitae;
-
-- c. een opgave van de relevante diploma’s;
-
-- d. een kopie van een geldig legimatiebewijs; en
-
-- e. een opgave van referenten.
-
-3. De gegevens, bedoeld in het eerste lid, aanhef en onderdeel h, zijn:
-
-- a. een opgave van de naam, de geboortedatum, de geboorteplaats, nationaliteit, het privé-adres, het telefoon- en faxnummer en de functie;
-
-- b. een kopie van een geldig identiteitsbewijs;
-
-- c. gegevens met betrekking tot de antecedenten, bedoeld in de [bijlage bij het Besluit Markttoegang financiële ondernemingen Wft](onbekend); en
-
-- d. een opgave van referenten.
-
-4. Het eerste lid, aanhef en onderdelen h en m, zijn niet van toepassing ten aanzien van personen wier betrouwbaarheid voor de toepassing van de [wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368) door een toezichthouder reeds is vastgesteld.
+Vervallen
 
 ##### Artikel XVI
 
-Het programma van werkzaamheden, bedoeld in [artikel XV, eerste lid, onderdeel f](https://wetten.overheid.nl/jci1.3:c:BWBR0024391&artikel=XV&z=2008-09-01&g=2008-09-01), dat wordt overgelegd door degene die een vergunning aanvraagt voor het uitoefenen van het bedrijf van entiteit voor risico-acceptatie, bevat het volgende:
-
-- a. een opgave van de aard van de risico’s die de entiteit voor risico-acceptatie voornemens is te dekken;
-
-- b. een uiteenzetting omtrent de leidende beginselen op het gebied van het sluiten van overeenkomsten waarbij de entiteit voor risico-acceptatie een gedeelte van het door hem herverzekerde risico, tegen betaling van premie, op zijn beurt aan een andere herverzekeraar overdraagt;
-
-- c. een raming van de kosten voor de inrichting van de administratie en van het produktienet en bewijsstukken waaruit blijkt dat de entiteit voor risico-acceptatie beschikt over de financiële middelen ter dekking daarvan;
-
-- d. een raming voor de eerste drie boekjaren van de andere dan de in onderdeel c bedoelde kosten van beheer, in het bijzonder van de algemene kosten en provisies;
-
-- e. een raming voor de eerste drie boekjaren van de premies en van de schaden;
-
-- f. een raming voor de eerste drie boekjaren van de liquiditeitspositie; en
-
-- g. een raming voor de eerste drie boekjaren van de financiële middelen tot dekking van de verplichtingen en tot dekking van de solvabiliteitsmarge, bedoeld in [artikel 3:57, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:57).
+Vervallen
 
 ##### Artikel XVII
 
