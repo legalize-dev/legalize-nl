@@ -4,7 +4,7 @@ identifier: "BWBR0005802"
 country: "nl"
 rank: "wet"
 publication_date: "2025-01-01"
-last_updated: "2015-01-01"
+last_updated: "2016-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0005802"
 soort: "wet"
@@ -74,7 +74,7 @@ In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
 1. In deze wet en de daarop berustende bepalingen wordt verstaan onder uitslag: het brengen van alcoholvrije dranken buiten een plaats die voor dat soort goederen als inrichting is aangewezen.
 
-2. Indien [artikel 15a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005802&hoofdstuk=III&afdeling=2&artikel=15a&z=2015-01-01&g=2015-01-01), van toepassing is, wordt als uitslag mede aangemerkt het vervaardigen van vruchten- of groentesap boven een hoeveelheid van 12.000 liter per kalenderjaar.
+2. Indien [artikel 15a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005802&hoofdstuk=III&afdeling=2&artikel=15a&z=2016-01-01&g=2016-01-01), van toepassing is, wordt als uitslag mede aangemerkt het vervaardigen van vruchten- of groentesap boven een hoeveelheid van 12.000 liter per kalenderjaar.
 
 3. Als uitslag wordt mede aangemerkt het verbruik, anders dan als grondstof, van alcoholvrije dranken binnen een plaats die voor dat soort goed als inrichting is aangewezen.
 
@@ -156,7 +156,7 @@ Onder alcoholvrije dranken worden verstaan vruchten- en groentesap, mineraalwate
 
 ##### Artikel 7
 
-1. Onder vruchten- en groentesap wordt verstaan drank die bestaat uit sap van vruchten of groenten of een mengsel daarvan, mengsels van water en vruchtensap die tenminste een bij ministeriële regeling vast te stellen percentage vruchtensap of vruchtenmoes bevatten daaronder begrepen.
+1. Onder vruchten- en groentesap wordt verstaan drank die bestaat uit sap van vruchten of groenten of een mengsel daarvan.
 
 2. Als vruchten- en groentesap wordt mede aangemerkt de drank, bedoeld in het eerste lid, in vaste vorm of als concentraat in kleinhandelsverpakking of in een verpakking die is bestemd voor afnemers die voor gebruik gereed vruchten- en groentesap vervaardigen voor gebruik ter plaatse.
 
@@ -188,13 +188,9 @@ Onder alcoholvrije dranken worden verstaan vruchten- en groentesap, mineraalwate
 
 ##### Artikel 10
 
-1. De belasting bedraagt per hectoliter voor:
+1. De belasting bedraagt per hectoliter € 8,83.
 
-- a. vruchtensap, groentesap en mineraalwater € 5,70;
-
-- b. limonade € 7,59.
-
-2. Voor de toepassing van het eerste lid wordt, met inachtneming van bij ministeriële regeling te stellen regels, het volume van vruchten- en groentesap en limonade in vaste vorm of in geconcentreerde vorm herleid tot het volume van voor gebruik gereed vruchten- en groentesap of voor gebruik gerede limonade, met dien verstande dat voor limonade in vaste of geconcentreerde vorm voor huishoudelijk gebruik deze herleiding geschiedt op basis van de factor 3.
+2. Voor de toepassing van het eerste lid geschiedt de herleiding van vruchtensap, groentesap en limonade in vaste of geconcentreerde vorm naar het volume van voor gebruik gereed vruchten- en groentesap of voor gebruik gerede limonade op basis van de factor 4, waarbij voor het herleiden van vruchtensap, groentesap en limonade in vaste vorm een gram wordt gelijkgesteld aan een milliliter.
 
 3. Bij ministeriële regeling kunnen met betrekking tot alcoholvrije dranken in kleinhandelsverpakking nadere regels worden gesteld.
 
@@ -238,11 +234,11 @@ De belasting wordt geheven:
 
 - a. van de vergunninghouder van de inrichting; of
 
-- b. van degene die ingevolge [artikel 15a](https://wetten.overheid.nl/jci1.3:c:BWBR0005802&hoofdstuk=III&afdeling=2&artikel=15a&z=2015-01-01&g=2015-01-01) geen vergunning voor een inrichting heeft maar in een kalenderjaar meer dan 12.000 liter vruchten- of groentesap vervaardigt.
+- b. van degene die ingevolge [artikel 15a](https://wetten.overheid.nl/jci1.3:c:BWBR0005802&hoofdstuk=III&afdeling=2&artikel=15a&z=2016-01-01&g=2016-01-01) geen vergunning voor een inrichting heeft maar in een kalenderjaar meer dan 12.000 liter vruchten- of groentesap vervaardigt.
 
 ##### Artikel 17
 
-In afwijking van [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBR0005802&hoofdstuk=III&afdeling=3&artikel=16&z=2015-01-01&g=2015-01-01) wordt de belasting bij toepassing van [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005802&hoofdstuk=I&artikel=4&z=2015-01-01&g=2015-01-01), geheven van degene die de alcoholvrije dranken voorhanden heeft.
+In afwijking van [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBR0005802&hoofdstuk=III&afdeling=3&artikel=16&z=2016-01-01&g=2016-01-01) wordt de belasting bij toepassing van [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005802&hoofdstuk=I&artikel=4&z=2016-01-01&g=2016-01-01), geheven van degene die de alcoholvrije dranken voorhanden heeft.
 
 ##### Artikel 18
 
@@ -250,7 +246,7 @@ De belasting wordt verschuldigd op het tijdstip van de uitslag.
 
 ##### Artikel 19
 
-In afwijking van [artikel 18](https://wetten.overheid.nl/jci1.3:c:BWBR0005802&hoofdstuk=III&afdeling=3&artikel=18&z=2015-01-01&g=2015-01-01) wordt de belasting bij toepassing van [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005802&hoofdstuk=I&artikel=4&z=2015-01-01&g=2015-01-01), verschuldigd op het tijdstip van de aanvang van het voorhanden hebben van de alcoholvrije dranken.
+In afwijking van [artikel 18](https://wetten.overheid.nl/jci1.3:c:BWBR0005802&hoofdstuk=III&afdeling=3&artikel=18&z=2016-01-01&g=2016-01-01) wordt de belasting bij toepassing van [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005802&hoofdstuk=I&artikel=4&z=2016-01-01&g=2016-01-01), verschuldigd op het tijdstip van de aanvang van het voorhanden hebben van de alcoholvrije dranken.
 
 ##### Artikel 20
 
@@ -262,9 +258,9 @@ In afwijking van [artikel 18](https://wetten.overheid.nl/jci1.3:c:BWBR0005802&ho
 
 ##### Artikel 21
 
-1. Bij toepassing van [artikel 19](https://wetten.overheid.nl/jci1.3:c:BWBR0005802&hoofdstuk=III&afdeling=3&artikel=19&z=2015-01-01&g=2015-01-01) dient in afwijking van [artikel 20, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=20), en van [artikel 10, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=10), en [artikel 19, derde lid, van de Algemene wet inzake rijksbelastingen](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=19) uiterlijk op de dag na het in [artikel 19](https://wetten.overheid.nl/jci1.3:c:BWBR0005802&hoofdstuk=III&afdeling=3&artikel=19&z=2015-01-01&g=2015-01-01) bedoelde tijdstip aangifte te worden gedaan en de belasting op aangifte te worden voldaan.
+1. Bij toepassing van [artikel 19](https://wetten.overheid.nl/jci1.3:c:BWBR0005802&hoofdstuk=III&afdeling=3&artikel=19&z=2016-01-01&g=2016-01-01) dient in afwijking van [artikel 20, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=20), en van [artikel 10, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=10), en [artikel 19, derde lid, van de Algemene wet inzake rijksbelastingen](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=19) uiterlijk op de dag na het in [artikel 19](https://wetten.overheid.nl/jci1.3:c:BWBR0005802&hoofdstuk=III&afdeling=3&artikel=19&z=2016-01-01&g=2016-01-01) bedoelde tijdstip aangifte te worden gedaan en de belasting op aangifte te worden voldaan.
 
-2. In afwijking van het eerste lid kan de inspecteur, bij toepassing van [artikel 4, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0005802&hoofdstuk=I&artikel=4&z=2015-01-01&g=2015-01-01), op verzoek toestemming verlenen om de in een week op de voet van [artikel 19](https://wetten.overheid.nl/jci1.3:c:BWBR0005802&hoofdstuk=III&afdeling=3&artikel=19&z=2015-01-01&g=2015-01-01) verschuldigd geworden belasting uiterlijk op de vrijdag van de week daaropvolgend op aangifte te voldoen.
+2. In afwijking van het eerste lid kan de inspecteur, bij toepassing van [artikel 4, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0005802&hoofdstuk=I&artikel=4&z=2016-01-01&g=2016-01-01), op verzoek toestemming verlenen om de in een week op de voet van [artikel 19](https://wetten.overheid.nl/jci1.3:c:BWBR0005802&hoofdstuk=III&afdeling=3&artikel=19&z=2016-01-01&g=2016-01-01) verschuldigd geworden belasting uiterlijk op de vrijdag van de week daaropvolgend op aangifte te voldoen.
 
 ##### Artikel 22
 
@@ -290,7 +286,7 @@ De [artikelen 54](https://wetten.overheid.nl/jci1.3:c:BWBR0005251&artikel=54) en
 
 ##### Artikel 25
 
-De vervoerder van alcoholvrije dranken is hoofdelijk aansprakelijk voor het bedrag aan belasting dat wordt vertegenwoordigd door de hoeveelheid van die goederen waarvan de belasting niet is geheven die door hem wordt vervoerd naar het buitenland, naar een inrichting of naar een persoon of lichaam als bedoeld in [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005802&hoofdstuk=I&artikel=4&z=2015-01-01&g=2015-01-01), indien tijdens dat vervoer door hem of door zijn toedoen een onregelmatigheid of een overtreding is begaan.
+De vervoerder van alcoholvrije dranken is hoofdelijk aansprakelijk voor het bedrag aan belasting dat wordt vertegenwoordigd door de hoeveelheid van die goederen waarvan de belasting niet is geheven die door hem wordt vervoerd naar het buitenland, naar een inrichting of naar een persoon of lichaam als bedoeld in [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005802&hoofdstuk=I&artikel=4&z=2016-01-01&g=2016-01-01), indien tijdens dat vervoer door hem of door zijn toedoen een onregelmatigheid of een overtreding is begaan.
 
 ### Hoofdstuk IV. Invoer
 
@@ -310,21 +306,11 @@ Ter zake van de belasting bij invoer zijn de wettelijke bepalingen, bedoeld in [
 
 ##### Artikel 28
 
-1. Onder bij algemene maatregel van bestuur te stellen voorwaarden en beperkingen wordt vrijstelling van belasting verleend ter zake van de uitslag en de invoer van vruchten- en groentesappen die uitsluitend zijn bestemd om te worden gebruikt als aanvulling op kindervoeding, voor medicinale doeleinden of anders dan om te worden gedronken.
-
-2. Bij ministeriële regeling kunnen nadere regels worden gesteld met betrekking tot:
-
-- a. de aard van en de aanduiding op de verpakking van de in het eerste lid bedoelde vruchten- en groentesappen; en
-
-- b. de uitvoering van dit artikel.
+Vervallen
 
 ##### Artikel 29
 
-1. Onder bij algemene maatregel van bestuur te stellen voorwaarden en beperkingen wordt vrijstelling van belasting verleend ter zake van de uitslag en de invoer van:
-
-- a. vruchten- en groentesappen waarvan de in [artikel 28](https://wetten.overheid.nl/jci1.3:c:BWBR0005802&hoofdstuk=V&afdeling=1&artikel=28&z=2015-01-01&g=2015-01-01) aangegeven bestemming niet of niet voldoende blijkt uit die dranken als zodanig, indien degene die die dranken betrekt deze gebruikt voor het vervaardigen van vruchten- of groentesappen als bedoeld in [artikel 28](https://wetten.overheid.nl/jci1.3:c:BWBR0005802&hoofdstuk=V&afdeling=1&artikel=28&z=2015-01-01&g=2015-01-01);
-
-- b. alcoholvrije dranken die door degene die die goederen betrekt, worden gebruikt als grondstof voor het vervaardigen van andere goederen dan alcoholvrije dranken.
+1. Onder bij algemene maatregel van bestuur te stellen voorwaarden en beperkingen wordt vrijstelling van belasting verleend ter zake van de uitslag en de invoer van alcoholvrije dranken die door degene die de betreffende dranken betrekt, worden gebruikt als grondstof voor het vervaardigen van andere goederen dan alcoholvrije dranken.
 
 2. Om de alcoholvrije dranken met vrijstelling te kunnen betrekken, dient degene die deze goederen betrekt in het bezit te zijn van een daartoe strekkende vergunning.
 
@@ -356,7 +342,7 @@ De [artikelen 68](https://wetten.overheid.nl/jci1.3:c:BWBR0005251&artikel=68) en
 
 - b. artikel 30.
 
-2. De in het eerste lid, onderdeel **a**, bedoelde teruggaaf wordt verleend aan degene die een vergunning heeft ingevolge [artikel 29, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005802&hoofdstuk=V&afdeling=1&artikel=29&z=2015-01-01&g=2015-01-01).
+2. De in het eerste lid, onderdeel **a**, bedoelde teruggaaf wordt verleend aan degene die een vergunning heeft ingevolge [artikel 29, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005802&hoofdstuk=V&afdeling=1&artikel=29&z=2016-01-01&g=2016-01-01).
 
 3. De in het eerste lid, onderdeel **b**, bedoelde teruggaaf wordt verleend aan degene die de levering heeft verricht.
 
@@ -418,7 +404,7 @@ De [artikelen 2, vijfde, zesde, zevende en tiende lid](https://wetten.overheid.n
 
 1. Het is verboden:
 
-- a. anders dan als particulier voor eigen verbruik, alcoholvrije dranken te vervaardigen buiten een inrichting die voor dat soort goed als zodanig is aangewezen, tenzij deze vervaardiging plaatsvindt overeenkomstig de ingevolge [artikel 29](https://wetten.overheid.nl/jci1.3:c:BWBR0005802&hoofdstuk=V&afdeling=1&artikel=29&z=2015-01-01&g=2015-01-01) bij algemene maatregel van bestuur gestelde voorwaarden en beperkingen, dan wel alcoholvrije dranken worden vervaardigd uit andere alcoholvrije dranken en het bedrag van de belasting die eerstbedoelde alcoholvrije dranken vertegenwoordigen niet hoger is dan het bedrag van de belasting dat de alcoholvrije dranken vertegenwoordigen waaruit zij zijn vervaardigd;
+- a. anders dan als particulier voor eigen verbruik, alcoholvrije dranken te vervaardigen buiten een inrichting die voor dat soort goed als zodanig is aangewezen, tenzij deze vervaardiging plaatsvindt overeenkomstig de ingevolge [artikel 29](https://wetten.overheid.nl/jci1.3:c:BWBR0005802&hoofdstuk=V&afdeling=1&artikel=29&z=2016-01-01&g=2016-01-01) bij algemene maatregel van bestuur gestelde voorwaarden en beperkingen, dan wel alcoholvrije dranken worden vervaardigd uit andere alcoholvrije dranken en het bedrag van de belasting die eerstbedoelde alcoholvrije dranken vertegenwoordigen niet hoger is dan het bedrag van de belasting dat de alcoholvrije dranken vertegenwoordigen waaruit zij zijn vervaardigd;
 
 - b. alcoholvrije dranken voorhanden te hebben die niet overeenkomstig de bepalingen van deze wet in de heffing zijn betrokken, met uitzondering van alcoholvrije dranken die door particulieren voor eigen verbruik zijn betrokken uit een andere lidstaat.
 
@@ -432,7 +418,7 @@ Vervallen
 
 ##### Artikel 41
 
-Degene die opzettelijk een in [artikel 39](https://wetten.overheid.nl/jci1.3:c:BWBR0005802&hoofdstuk=VII&afdeling=1&artikel=39&z=2015-01-01&g=2015-01-01) opgenomen verbod overtreedt, wordt gestraft met gevangenisstraf van ten hoogste vier jaren of geldboete van de vierde categorie of, indien dit bedrag hoger is, ten hoogste eenmaal het bedrag van de te weinig geheven belasting.
+Degene die opzettelijk een in [artikel 39](https://wetten.overheid.nl/jci1.3:c:BWBR0005802&hoofdstuk=VII&afdeling=1&artikel=39&z=2016-01-01&g=2016-01-01) opgenomen verbod overtreedt, wordt gestraft met gevangenisstraf van ten hoogste vier jaren of geldboete van de vierde categorie of, indien dit bedrag hoger is, ten hoogste eenmaal het bedrag van de te weinig geheven belasting.
 
 ##### Artikel 42
 
@@ -506,13 +492,13 @@ Lasten en bevelen dat deze in het **Staatsblad** zal worden geplaatst en dat all
 
 ##### Artikel 15a
 
-1. Een vergunning als bedoeld in [artikel 14, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005802&hoofdstuk=III&afdeling=1&artikel=14&z=2015-01-01&g=2015-01-01), is niet vereist indien:
+1. Een vergunning als bedoeld in [artikel 14, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005802&hoofdstuk=III&afdeling=1&artikel=14&z=2016-01-01&g=2016-01-01), is niet vereist indien:
 
 - a. per kalenderjaar doorgaans niet meer dan 12.000 liter vruchten- of groentesap wordt vervaardigd; en
 
 - b. uitsluitend vruchten- of groentesap wordt vervaardigd.
 
-2. Indien in twee achtereenvolgende kalenderjaren meer dan 12.000 liter vruchten- of groentesap per kalenderjaar is vervaardigd, moet een vergunning als bedoeld in [artikel 14, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005802&hoofdstuk=III&afdeling=1&artikel=14&z=2015-01-01&g=2015-01-01), worden aangevraagd.
+2. Indien in twee achtereenvolgende kalenderjaren meer dan 12.000 liter vruchten- of groentesap per kalenderjaar is vervaardigd, moet een vergunning als bedoeld in [artikel 14, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005802&hoofdstuk=III&afdeling=1&artikel=14&z=2016-01-01&g=2016-01-01), worden aangevraagd.
 
 3. De vergunning, bedoeld in het tweede lid, wordt verleend voor een periode van ten minste vijf jaar.
 
