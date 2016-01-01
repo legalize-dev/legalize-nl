@@ -4,7 +4,7 @@ identifier: "BWBR0035945"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-01-01"
-last_updated: "2015-01-01"
+last_updated: "2016-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0035945"
 soort: "ministeriele-regeling"
@@ -82,13 +82,23 @@ In deze regeling wordt verstaan onder:
 
 - m. een uitgifte van de identificatiecode voor juridische entiteiten die ingeschreven zijn in het handelsregister, bedoeld in de bijlage van de Uitvoeringsverordening (EU) Nr. 1247/2012 van de Commissie van 19 december 2012 tot vaststelling van technische uitvoeringsnormen met betrekking tot de formattering en de frequentie van de transactierapportage aan transactieregisters overeenkomstig Verordening (EU) nr. 648/2012 van het Europees parlement en de Raad betreffende otc-derivaten, centrale tegenpartijen en transactieregisters (Legal Entity Identifier): € 150,– voor de eerste aanvraag en € 100,– voor de jaarlijkse verlenging;
 
-- n. een themabijeenkomst: € 50,–;
+- n. een evenement:
 
-- o. een evenement: € 50,–;
+- 1°. gericht op overdracht informatie: € 25,– per deelnemer;
 
-- p. een workshop: € 50,– per deelnemer;
+- 2°. gericht op het delen van specifieke kennis: € 50,– per deelnemer;
 
-- q. een netwerkbijeenkomst: € 50,– per deelnemer.
+- 3°. in samenwerking met partnerorganisaties: € 50,– per deelnemer, minus eigen bijdrage door de partnerorganisaties;
+
+- o. een workshop: € 50,– per deelnemer;
+
+- p. een netwerkbijeenkomst: € 50,– per deelnemer;
+
+- q. een product KvK data op maat:
+
+- 1°. basisrapportage: € 2.400,– voor de basismodule en € 300,– voor elke additionele module;
+
+- 2°. toevoeging van maatwerk aan modules: € 122,– per uur.
 
 2. Het uurtarief voor de uitvoering van de taken, bedoeld in de [artikelen 5](https://wetten.overheid.nl/jci1.3:c:BWBR0034331&artikel=5), [24 tot en met 28, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034331&artikel=24), [30](https://wetten.overheid.nl/jci1.3:c:BWBR0034331&artikel=30) en [31 van de Wet op de Kamer van Koophandel](https://wetten.overheid.nl/jci1.3:c:BWBR0034331&artikel=31), wordt berekend volgens de tabel in de bijlage bij deze regeling.
 
@@ -104,23 +114,23 @@ Deze regeling treedt in werking met ingang van 1 januari 2015.
 
 Deze regeling wordt aangehaald als: Regeling vergoedingen Kamer van Koophandel 2015.
 
-## Bijlage. behorend bij [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035945&artikel=2&z=2015-01-01&g=2015-01-01):
+## Bijlage. behorend bij [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035945&artikel=2&z=2016-01-01&g=2016-01-01):
 
-| Uurtarieven begroting 2014 | KCC | OO | DOP | ICT |
+| Uurtarieven begroting 2015 | KCC | OO | DOP | ICT |
 | --- | --- | --- | --- | --- |
-| Loonschaal 4 | 83 |   |   |   |
-| Loonschaal 5 | 86 |   |   | 85 |
-| Loonschaal 6 | 89 |   |   | 88 |
-| Loonschaal 7 | 93 | 92 |   | 92 |
-| Loonschaal 8 | 99 |   |   | 98 |
-| Loonschaal 9 | 105 |   | 0 | 104 |
-| Loonschaal 10 | 112 | 110 |   | 111 |
-| Loonschaal 11 | 121 | 119 | 0 | 120 |
-| Loonschaal 12 | 131 | 129 |   | 130 |
-| Loonschaal 13 |   | 141 |   | 142 |
-| Loonschaal 14 |   | 151 |   |   |
+| Loonschaal 4 | 85 |   |   |   |
+| Loonschaal 5 | 88 |   |   | 87 |
+| Loonschaal 6 | 92 |   |   | 91 |
+| Loonschaal 7 | 96 | 95 |   | 95 |
+| Loonschaal 8 | 102 |   |   | 101 |
+| Loonschaal 9 | 108 |   | 117 | 107 |
+| Loonschaal 10 | 115 | 113 |   | 114 |
+| Loonschaal 11 | 124 | 122 | 133 | 123 |
+| Loonschaal 12 | 135 | 133 |   | 134 |
+| Loonschaal 13 |   | 145 |   | 146 |
+| Loonschaal 14 |   | 155 |   |   |
 | Loonschaal 15 |   |   |   |   |
-| Loonschaal 16 |   |   |   |   |
+| Loonschaal 16 |   | 164 |   |   |
 | Loonschaal 17 |   |   |   |   |
 | Loonschaal 18 |   |   |   |   |
 
