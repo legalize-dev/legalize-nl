@@ -4,7 +4,7 @@ identifier: "BWBR0036007"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-01-01"
-last_updated: "2015-12-24"
+last_updated: "2016-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0036007"
 soort: "ministeriele-regeling"
@@ -94,7 +94,7 @@ Als categorieën van gekwalificeerde gedragswetenschappers worden aangewezen:
 
 ##### Artikel 4.1
 
-[Artikel 4.3.1, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0034925&artikel=4.3.1) alsmede de [artikelen 4.2](https://wetten.overheid.nl/jci1.3:c:BWBR0036007&paragraaf=4&artikel=4.2&z=2015-12-24&g=2015-12-24), [4.3](https://wetten.overheid.nl/jci1.3:c:BWBR0036007&paragraaf=4&artikel=4.3&z=2015-12-24&g=2015-12-24) en [4.4](https://wetten.overheid.nl/jci1.3:c:BWBR0036007&paragraaf=4&artikel=4.4&z=2015-12-24&g=2015-12-24) van deze regeling zijn niet van toepassing op jeugdhulpaanbieders als bedoeld in [artikel 1.1, onderdeel 2°, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0034925&artikel=1.1).
+[Artikel 4.3.1, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0034925&artikel=4.3.1) alsmede de [artikelen 4.2](https://wetten.overheid.nl/jci1.3:c:BWBR0036007&paragraaf=4&artikel=4.2&z=2016-01-01&g=2016-01-01), [4.3](https://wetten.overheid.nl/jci1.3:c:BWBR0036007&paragraaf=4&artikel=4.3&z=2016-01-01&g=2016-01-01) en [4.4](https://wetten.overheid.nl/jci1.3:c:BWBR0036007&paragraaf=4&artikel=4.4&z=2016-01-01&g=2016-01-01) van deze regeling zijn niet van toepassing op jeugdhulpaanbieders als bedoeld in [artikel 1.1, onderdeel 2°, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0034925&artikel=1.1).
 
 ##### Artikel 4.2
 
@@ -132,9 +132,9 @@ Als categorieën van gekwalificeerde gedragswetenschappers worden aangewezen:
 
 1. Bij het Centraal Informatiepunt Beroepen Gezondheidszorg worden vóór 1 juni van het jaar volgend op het verslagjaar ingediend:
 
-- a. de jaarverslaggeving, bedoeld in [artikel 4.3](https://wetten.overheid.nl/jci1.3:c:BWBR0036007&paragraaf=4&artikel=4.3&z=2015-12-24&g=2015-12-24), in elektronische vorm;
+- a. de jaarverslaggeving, bedoeld in [artikel 4.3](https://wetten.overheid.nl/jci1.3:c:BWBR0036007&paragraaf=4&artikel=4.3&z=2016-01-01&g=2016-01-01), in elektronische vorm;
 
-- b. het jaardocument, bedoeld in [artikel 4.3](https://wetten.overheid.nl/jci1.3:c:BWBR0036007&paragraaf=4&artikel=4.3&z=2015-12-24&g=2015-12-24), in elektronische vorm;
+- b. het jaardocument, bedoeld in [artikel 4.3](https://wetten.overheid.nl/jci1.3:c:BWBR0036007&paragraaf=4&artikel=4.3&z=2016-01-01&g=2016-01-01), in elektronische vorm;
 
 2. De Ministers kunnen een jeugdhulpaanbieder of een gecertificeerde instelling uitstel van indiening verlenen op een gemotiveerd verzoek, dat uiterlijk acht weken vóór het verstrijken van de in het eerste lid genoemde termijn is ingediend.
 
@@ -142,19 +142,19 @@ Als categorieën van gekwalificeerde gedragswetenschappers worden aangewezen:
 
 ##### Artikel 5.1
 
-1. Het in [artikel 5.3, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0034925&artikel=5.3) bedoelde basisbedrag van de vergoeding voor de verzorging en opvoeding van een pleegkind is het bedrag, genoemd in onderdeel a van [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0036007&bijlage=1&z=2015-12-24&g=2015-12-24) bij deze regeling.
+1. Het in [artikel 5.3, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0034925&artikel=5.3) bedoelde basisbedrag van de vergoeding voor de verzorging en opvoeding van een pleegkind is het bedrag, genoemd in onderdeel a van [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0036007&bijlage=1&z=2016-01-01&g=2016-01-01) bij deze regeling.
 
 2. Het basisbedrag kan worden verminderd voor de periode gedurende welke een pleegkind als gevolg van bijzondere omstandigheden tijdelijk niet bij de pleegouder verblijft. Alsdan worden de door de pleegouder werkelijk gemaakte noodzakelijke kosten vergoed tot ten hoogste het basisbedrag.
 
 ##### Artikel 5.2
 
-1. Het basisbedrag, bedoeld in [artikel 5.1](https://wetten.overheid.nl/jci1.3:c:BWBR0036007&paragraaf=5&artikel=5.1&z=2015-12-24&g=2015-12-24), wordt vermeerderd met een toeslag ter hoogte van het bedrag, genoemd in onderdeel b van [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0036007&bijlage=1&z=2015-12-24&g=2015-12-24) bij deze regeling:
+1. Het basisbedrag, bedoeld in [artikel 5.1](https://wetten.overheid.nl/jci1.3:c:BWBR0036007&paragraaf=5&artikel=5.1&z=2016-01-01&g=2016-01-01), wordt vermeerderd met een toeslag ter hoogte van het bedrag, genoemd in onderdeel b van [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0036007&bijlage=1&z=2016-01-01&g=2016-01-01) bij deze regeling:
 
 - a. zolang sprake is van een crisisplaatsing waarbij het pleegkind met spoed is geplaatst bij de pleegouder, gedurende de eerste vier weken van het verblijf van het pleegkind;
 
 - b. zolang bij een pleegouder drie of meer pleegkinderen verblijven, voor het derde en volgende pleegkind.
 
-2. Onverminderd het bepaalde in het eerste lid, wordt het basisbedrag, bedoeld in [artikel 5.1](https://wetten.overheid.nl/jci1.3:c:BWBR0036007&paragraaf=5&artikel=5.1&z=2015-12-24&g=2015-12-24), vermeerderd met een door de pleegzorgaanbieder vast te stellen toeslag van ten hoogste het bedrag, genoemd in [onderdeel c van bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0036007&bijlage=1&z=2015-12-24&g=2015-12-24) bij deze regeling, voor de door de pleegouder ten behoeve van een pleegkind met een verstandelijke, zintuiglijke of lichamelijke beperking gemaakte kosten, voor zover:
+2. Onverminderd het bepaalde in het eerste lid, wordt het basisbedrag, bedoeld in [artikel 5.1](https://wetten.overheid.nl/jci1.3:c:BWBR0036007&paragraaf=5&artikel=5.1&z=2016-01-01&g=2016-01-01), vermeerderd met een door de pleegzorgaanbieder vast te stellen toeslag van ten hoogste het bedrag, genoemd in [onderdeel c van bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0036007&bijlage=1&z=2016-01-01&g=2016-01-01) bij deze regeling, voor de door de pleegouder ten behoeve van een pleegkind met een verstandelijke, zintuiglijke of lichamelijke beperking gemaakte kosten, voor zover:
 
 - a. deze kosten naar het oordeel van de pleegzorgaanbieder redelijkerwijs noodzakelijk zijn in verband met de beperkingen;
 
@@ -168,7 +168,7 @@ Als categorieën van gekwalificeerde gedragswetenschappers worden aangewezen:
 
 De pleegzorgaanbieder verstrekt een door de pleegzorgaanbieder vast te stellen vergoeding voor bijzondere kosten voor het pleegkind ingeval sprake is van een pleegoudervoogd dan wel een pleegouder die een pleegkind opvangt in het kader van een kinderbeschermingsmaatregel, voor zover:
 
-- a. deze kosten naar het oordeel van de pleegzorgaanbieder redelijkerwijs noodzakelijk worden geacht en niet kunnen worden voldaan uit het basisbedrag, bedoeld in [artikel 5.1](https://wetten.overheid.nl/jci1.3:c:BWBR0036007&paragraaf=5&artikel=5.1&z=2015-12-24&g=2015-12-24), dan wel uit de toeslagen, bedoeld in [artikel 5.2](https://wetten.overheid.nl/jci1.3:c:BWBR0036007&paragraaf=5&artikel=5.2&z=2015-12-24&g=2015-12-24);
+- a. deze kosten naar het oordeel van de pleegzorgaanbieder redelijkerwijs noodzakelijk worden geacht en niet kunnen worden voldaan uit het basisbedrag, bedoeld in [artikel 5.1](https://wetten.overheid.nl/jci1.3:c:BWBR0036007&paragraaf=5&artikel=5.1&z=2016-01-01&g=2016-01-01), dan wel uit de toeslagen, bedoeld in [artikel 5.2](https://wetten.overheid.nl/jci1.3:c:BWBR0036007&paragraaf=5&artikel=5.2&z=2016-01-01&g=2016-01-01);
 
 - b. voor deze kosten geen uitkering op grond van een andere regeling kan worden verstrekt, en
 
@@ -176,7 +176,7 @@ De pleegzorgaanbieder verstrekt een door de pleegzorgaanbieder vast te stellen v
 
 ##### Artikel 5.4
 
-Het basisbedrag, bedoeld in [artikel 5.1](https://wetten.overheid.nl/jci1.3:c:BWBR0036007&paragraaf=5&artikel=5.1&z=2015-12-24&g=2015-12-24), en de toeslagen, bedoeld in [artikel 5.2](https://wetten.overheid.nl/jci1.3:c:BWBR0036007&paragraaf=5&artikel=5.2&z=2015-12-24&g=2015-12-24), worden jaarlijks met ingang van 1 januari geïndexeerd overeenkomstig de wijze, bedoeld in [onderdeel d van bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0036007&bijlage=1&z=2015-12-24&g=2015-12-24) bij deze regeling.
+Het basisbedrag, bedoeld in [artikel 5.1](https://wetten.overheid.nl/jci1.3:c:BWBR0036007&paragraaf=5&artikel=5.1&z=2016-01-01&g=2016-01-01), en de toeslagen, bedoeld in [artikel 5.2](https://wetten.overheid.nl/jci1.3:c:BWBR0036007&paragraaf=5&artikel=5.2&z=2016-01-01&g=2016-01-01), worden jaarlijks met ingang van 1 januari geïndexeerd overeenkomstig de wijze, bedoeld in [onderdeel d van bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0036007&bijlage=1&z=2016-01-01&g=2016-01-01) bij deze regeling.
 
 #### § 6. Beveiligingseisen gegevensverwerking
 
@@ -188,7 +188,7 @@ De beveiliging van de gegevensverwerking, bedoeld in de [artikelen 7.2.1](https:
 
 ##### Artikel 7
 
-De jeugdhulpaanbieder en de gecertificeerde instelling verstrekken aan het Centraal Bureau voor de Statistiek structureel de gegevens, bedoeld in [artikel 7.5.1, eerste lid, van het Besluit Jeugdwet](https://wetten.overheid.nl/jci1.3:c:BWBR0035779&artikel=7.5.1), op de wijze beschreven in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0036007&bijlage=2&z=2015-12-24&g=2015-12-24) bij deze regeling.
+De jeugdhulpaanbieder en de gecertificeerde instelling verstrekken aan het Centraal Bureau voor de Statistiek structureel de gegevens, bedoeld in [artikel 7.5.1, eerste lid, van het Besluit Jeugdwet](https://wetten.overheid.nl/jci1.3:c:BWBR0035779&artikel=7.5.1), op de wijze beschreven in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0036007&bijlage=2&z=2016-01-01&g=2016-01-01) bij deze regeling.
 
 #### § 8. Persoonsgebonden budget
 
@@ -196,25 +196,39 @@ De jeugdhulpaanbieder en de gecertificeerde instelling verstrekken aan het Centr
 
 1. In dit artikel wordt verstaan onder ‘derde’: derde als bedoeld in [artikel 8.1.1, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0034925&artikel=8.1.1).
 
-2. De Sociale verzekeringsbank verricht betalingen uit het persoonsgebonden budget en voert het budgetbeheer als bedoeld in [artikel 8.1.8, eerste lid, van de wet uit](https://wetten.overheid.nl/jci1.3:c:BWBR0034925&artikel=8.1.1):
+2. De Sociale verzekeringsbank verricht uitsluitend aan een derde een betaling uit het persoonsgebonden budget voor geleverde jeugdhulp en voert het budgetbeheer als bedoeld in [artikel 8.1.8, eerste lid, van de wet uit](https://wetten.overheid.nl/jci1.3:c:BWBR0034925&artikel=8.1.1):
 
 - a. overeenkomstig de beschikking tot verlening van het persoonsgebonden budget, bedoeld in [artikel 8.1.1, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0034925&artikel=8.1.1);
 
-- b. overeenkomstig een door het college goedgekeurd document waaruit de rechtsgeldige afspraken blijken tussen de persoon aan wie het persoonsgebonden budget wordt verstrekt en een derde; en
+- b. overeenkomstig een door het college goedgekeurd document waaruit de rechtsgeldige afspraken blijken tussen de persoon aan wie het persoonsgebonden budget wordt verstrekt en de derde; en
 
 - c. tot afdracht van eventuele loonheffing, premies voor de sociale verzekeringen en inkomensafhankelijke bijdragen op grond van de [Zorgverzekeringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450).
 
-3. De Sociale verzekeringsbank verricht betalingen uit het persoonsgebonden budget, voor werkzaamheden die voortvloeien uit een arbeidsovereenkomst of overeenkomst van opdracht, indien een declaratie van een derde de naam en het adres van de derde, het tarief, een verantwoording van de overeengekomen resultaten dan wel een overzicht van het aantal te betalen uren en dagdelen of etmalen, bevat.
+3. De Sociale verzekeringsbank verricht betalingen uit het persoonsgebonden budget, voor werkzaamheden die voortvloeien uit een arbeidsovereenkomst of overeenkomst van opdracht, indien een declaratie van een derde bevat:
 
-4. De Sociale verzekeringsbank kan een betaling uit het persoonsgebonden budget beëindigen of weigeren:
+- a. de naam en het adres van de derde;
+
+- b. het tarief;
+
+- c. een verantwoording van de overeengekomen resultaten dan wel een overzicht van het aantal te betalen uren en dagdelen of etmalen; en
+
+- d. een handtekening van de persoon aan wie het persoonsgebonden budget is verstrekt of, voor zover van toepassing, diens vertegenwoordiger, indien het een schriftelijke declaratie betreft.
+
+4. De Sociale verzekeringsbank kan een betaling uit het persoonsgebonden budget geheel of gedeeltelijk beëindigen, weigeren of opschorten:
 
 - a. bij het intrekken of herzien van een beslissing als bedoeld in [artikel 8.1.4 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0034925&artikel=8.1.4);
 
-- b. wegens strijd met het recht, waaronder het recht dat van toepassing is op de arbeidsovereenkomst of overeenkomst van opdracht, of het belang van de uitvoerbaarheid van het verrichten van de betalingen uit het persoonsgebonden budget door de Sociale verzekeringsbank.
+- b. wegens strijd met het recht, waaronder het recht dat van toepassing is op de arbeidsovereenkomst of overeenkomst van opdracht, of het belang van de uitvoerbaarheid van het verrichten van de betalingen uit het persoonsgebonden budget door de Sociale verzekeringsbank;
 
-5. De Sociale verzekeringsbank verricht betalingen uit het persoonsgebonden budget zonder dat dit bij beschikking wordt vastgesteld, binnen 30 dagen na ontvangst van de declaratie door de Sociale verzekeringsbank, tenzij een betaling geheel of gedeeltelijk wordt geweigerd. Betalingen die op grond van het vierde lid zijn geweigerd kunnen na goedkeuring door de Sociale verzekeringsbank binnen 30 dagen alsnog worden verricht.
+- c. indien de derde de declaratie niet binnen zes weken na de maand waarin de prestatie is verleend, heeft ingediend bij de persoon aan wie het persoongebonden budget is verstrekt;
 
-6. De Sociale verzekeringsbank verricht betalingen ter verkrijging door de persoon aan wie het persoonsgebonden budget wordt verstrekt, van gelden die aanvullend op het persoonsgebonden budget door of vanwege die persoon zelf zijn gestort bij de Sociale verzekeringsbank.
+- d. indien de Sociale verzekeringsbank de declaratie niet heeft ontvangen binnen vier weken nadat de persoon aan wie het persoonsgebonden budget is verstrekt, deze heeft ontvangen;
+
+- e. indien het college bij de toepassing van de bij verordening gestelde regels, bedoeld in [artikel 2.9, onderdeel d, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0034925&artikel=2.9), de Sociale verzekeringbank daarom verzoekt.
+
+5. De Sociale verzekeringsbank verricht betalingen uit het persoonsgebonden budget zonder dat dit bij beschikking wordt vastgesteld, binnen dertig dagen na ontvangst van de declaratie, tenzij een declaratie onjuist of onvolledig is ingediend. Indien een declaratie niet overeenkomstig het vierde lid is ingediend, en betalingen niet zijn beëindigd, geweigerd of opgeschort, nodigt de Sociale verzekeringsbank de cliënt uit tot herstel daarvan. Na herstel van de declaratie wordt de betaling binnen dertig dagen verricht. De Sociale verzekeringsbank weigert de betaling geheel of gedeeltelijk indien de declaratie niet binnen een door de Sociale verzekeringbank gestelde termijn is hersteld. Indien de Sociale verzekeringsbank naar aanleiding van een declaratie werkzaamheden verricht als bedoeld in het tweede lid, onderdeel c, wordt de termijn, bedoeld in de eerste volzin, verlengd met tien dagen.
+
+6. Een persoon aan wie het persoonsgebonden budget is verstrekt of zijn vertegenwoordiger kan de Sociale verzekeringsbank verzoeken om namens hem in aanvulling op de hem bij de beschikking, bedoeld in [artikel 8.1.1, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0034925&artikel=8.1.1) toegekende jeugdhulp, jeugdhulp te betalen als omschreven in het document, bedoeld in het tweede lid, onderdeel b. De Sociale verzekeringsbank willigt een verzoek als bedoeld in de eerste volzin in voor zover de in die zin bedoelde persoon daartoe voldoende geld bij haar heeft gestort. Een verzoek tot betalingen voor aanvullende jeugdhulp geschiedt met gebruikmaking van een model dat door de Sociale verzekeringsbank daartoe beschikbaar is gesteld. De Sociale verzekeringsbank stort na de betaling van de aanvullende jeugdhulp de onbestede gelden terug aan degene die hiervoor het geld heeft gestort.
 
 7. De Sociale verzekeringsbank ondersteunt de persoon aan wie het persoonsgebonden budget wordt verstrekt bij zijn werkgeverstaken, waaronder ten aanzien van arbeidsomstandighedenregelgeving, zaakschade en aansprakelijkheid.
 
@@ -222,7 +236,7 @@ De jeugdhulpaanbieder en de gecertificeerde instelling verstrekken aan het Centr
 
 ##### Artikel 9.1
 
-De [Regeling beleidsinformatie jeugdzorg 2011](https://wetten.overheid.nl/jci1.3:c:BWBR0030593&wetgeving) blijft nadat zij met ingang van 1 januari 2015 is vervallen, van toepassing op informatieverstrekkingen met betrekking tot de periode voorafgaand aan de inwerkingtreding van deze regeling.
+De [Regeling beleidsinformatie jeugdzorg 2011](https://wetten.overheid.nl/jci1.3:c:BWBR0030593) blijft nadat zij met ingang van 1 januari 2015 is vervallen, van toepassing op informatieverstrekkingen met betrekking tot de periode voorafgaand aan de inwerkingtreding van deze regeling.
 
 ##### Artikel 9.2
 
@@ -660,7 +674,7 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 ##### Artikel 6a.2
 
-1. Een jeugdhulpaanbieder die een jeugdige geestelijke gezondheidszorg heeft verleend of zal verlenen, vermeldt bij de declaratie naast de in [artikel 6a.1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036007&paragraaf=6a&artikel=6a.1&z=2015-12-24&g=2015-12-24), bedoelde gegevens de persoonsgegevens die hij ingevolge door of namens het college gemaakte afspraken dan wel gegeven instructies dient te vermelden, met dien verstande dat:
+1. Een jeugdhulpaanbieder die een jeugdige geestelijke gezondheidszorg heeft verleend of zal verlenen, vermeldt bij de declaratie naast de in [artikel 6a.1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036007&paragraaf=6a&artikel=6a.1&z=2016-01-01&g=2016-01-01), bedoelde gegevens de persoonsgegevens die hij ingevolge door of namens het college gemaakte afspraken dan wel gegeven instructies dient te vermelden, met dien verstande dat:
 
 - a. de persoonsgegevens die bij de declaratie worden vermeld niet meer of gedetailleerder zijn dan de persoonsgegevens, bedoeld in de Externe Integratiestandaard nummer JW 321 van Vektis,
 
@@ -674,11 +688,11 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 ##### Artikel 6a.3
 
-Een jeugdhulpaanbieder die andere jeugdhulp dan geestelijke gezondheidszorg of een aanbieder die preventie heeft verleend of zal verlenen, vermeldt bij de declaratie naast de in in [artikel 6a.1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036007&paragraaf=6a&artikel=6a.1&z=2015-12-24&g=2015-12-24), bedoelde gegevens de persoonsgegevens die hij ingevolge door of namens het college gemaakte afspraken dan wel gegeven instructies dient te vermelden, met dien verstande dat niet meer soorten persoonsgegevens worden vermeld dan de persoonsgegevens, bedoeld in de Externe Integratiestandaard nummer JW 303 van Vektis.
+Een jeugdhulpaanbieder die andere jeugdhulp dan geestelijke gezondheidszorg of een aanbieder die preventie heeft verleend of zal verlenen, vermeldt bij de declaratie naast de in in [artikel 6a.1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036007&paragraaf=6a&artikel=6a.1&z=2016-01-01&g=2016-01-01), bedoelde gegevens de persoonsgegevens die hij ingevolge door of namens het college gemaakte afspraken dan wel gegeven instructies dient te vermelden, met dien verstande dat niet meer soorten persoonsgegevens worden vermeld dan de persoonsgegevens, bedoeld in de Externe Integratiestandaard nummer JW 303 van Vektis.
 
 ##### Artikel 6a.4
 
-Een gecertificeerde instelling die een kinderbeschermingsmaatregel uitvoert, vermeldt bij de declaratie naast de in [artikel 6a.1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036007&paragraaf=6a&artikel=6a.1&z=2015-12-24&g=2015-12-24), bedoelde gegevens of sprake is van:
+Een gecertificeerde instelling die een kinderbeschermingsmaatregel uitvoert, vermeldt bij de declaratie naast de in [artikel 6a.1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036007&paragraaf=6a&artikel=6a.1&z=2016-01-01&g=2016-01-01), bedoelde gegevens of sprake is van:
 
 - a. eerste jaar ondertoezichtstelling,
 
@@ -688,7 +702,7 @@ Een gecertificeerde instelling die een kinderbeschermingsmaatregel uitvoert, ver
 
 ##### Artikel 6a.5
 
-Een gecertificeerde instelling die jeugdreclassering uitvoert vermeldt bij de declaratie naast de in [artikel 6a.1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036007&paragraaf=6a&artikel=6a.1&z=2015-12-24&g=2015-12-24), bedoelde gegevens of sprake is van:
+Een gecertificeerde instelling die jeugdreclassering uitvoert vermeldt bij de declaratie naast de in [artikel 6a.1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036007&paragraaf=6a&artikel=6a.1&z=2016-01-01&g=2016-01-01), bedoelde gegevens of sprake is van:
 
 - a. toezicht en begeleiding,
 
@@ -702,17 +716,17 @@ Een gecertificeerde instelling die jeugdreclassering uitvoert vermeldt bij de de
 
 - f. voorbereiding gedragsbeïnvloedende maatregel, of
 
-- g. samenloop met ondertoezichtstelling of voogdij, als bedoeld in [artikel 6a.4](https://wetten.overheid.nl/jci1.3:c:BWBR0036007&paragraaf=6a&artikel=6a.4&z=2015-12-24&g=2015-12-24).
+- g. samenloop met ondertoezichtstelling of voogdij, als bedoeld in [artikel 6a.4](https://wetten.overheid.nl/jci1.3:c:BWBR0036007&paragraaf=6a&artikel=6a.4&z=2016-01-01&g=2016-01-01).
 
 ##### Artikel 6a.6
 
-1. Het college of een door het college aangewezen persoon verwerkt persoonsgegevens als bedoeld in de [artikelen 6a.1 tot en met 6a.5](https://wetten.overheid.nl/jci1.3:c:BWBR0036007&paragraaf=6a&artikel=6a.1&z=2015-12-24&g=2015-12-24), slechts voor zover zij noodzakelijk zijn ten behoeve van:
+1. Het college of een door het college aangewezen persoon verwerkt persoonsgegevens als bedoeld in de [artikelen 6a.1 tot en met 6a.5](https://wetten.overheid.nl/jci1.3:c:BWBR0036007&paragraaf=6a&artikel=6a.1&z=2016-01-01&g=2016-01-01), slechts voor zover zij noodzakelijk zijn ten behoeve van:
 
 - a. het verrichten van formele controle;
 
 - b. het betalen van het gedeclareerde bedrag, behalve voor zover de formele controle tot de conclusie leidt dat de betaling niet rechtmatig zou zijn;
 
-- c. het zonodig bij de declarant opvragen van nadere persoonsgegevens als bedoeld in de [artikelen 6a.1 tot en met 6a.5](https://wetten.overheid.nl/jci1.3:c:BWBR0036007&paragraaf=6a&artikel=6a.1&z=2015-12-24&g=2015-12-24) indien de formele controle uitwees dat betaling van de declaratie niet rechtmatig zou zijn omdat noodzakelijke gegevens ontbreken;
+- c. het zonodig bij de declarant opvragen van nadere persoonsgegevens als bedoeld in de [artikelen 6a.1 tot en met 6a.5](https://wetten.overheid.nl/jci1.3:c:BWBR0036007&paragraaf=6a&artikel=6a.1&z=2016-01-01&g=2016-01-01) indien de formele controle uitwees dat betaling van de declaratie niet rechtmatig zou zijn omdat noodzakelijke gegevens ontbreken;
 
 - d. het verrichten van fraude-onderzoek.
 
@@ -728,7 +742,7 @@ Een gecertificeerde instelling die jeugdreclassering uitvoert vermeldt bij de de
 
 - 4°. overeenkomt met daartoe door of namens het college gemaakte afspraken dan wel in hoogte aansluit bij hetgeen in de Nederlandse marktkomstandigheden in redelijkheid passend is te achten.
 
-- b. **fraude-onderzoek:** een onderzoek waarbij de college of een door het college aangewezen persoon nagaat of degene die bij de gemeente een bedrag als bedoeld in [artikel 6a.1](https://wetten.overheid.nl/jci1.3:c:BWBR0036007&paragraaf=6a&artikel=6a.1&z=2015-12-24&g=2015-12-24) in rekening brengt, valsheid in geschrifte, bedrog, benadeling van rechthebbenden of verduistering pleegt of tracht te plegen ten nadele van de gemeente, met het doel een betaling of ander voordeel te verkrijgen waarop hij geen recht heeft of kan hebben.
+- b. **fraude-onderzoek:** een onderzoek waarbij de college of een door het college aangewezen persoon nagaat of degene die bij de gemeente een bedrag als bedoeld in [artikel 6a.1](https://wetten.overheid.nl/jci1.3:c:BWBR0036007&paragraaf=6a&artikel=6a.1&z=2016-01-01&g=2016-01-01) in rekening brengt, valsheid in geschrifte, bedrog, benadeling van rechthebbenden of verduistering pleegt of tracht te plegen ten nadele van de gemeente, met het doel een betaling of ander voordeel te verkrijgen waarop hij geen recht heeft of kan hebben.
 
 3. Een jeugdhulpaanbieder, een aanbieder van preventie of een gecertificeerde instelling verstrekt het college of een door het college aangewezen persoon gegevens uit het dossier van de jeugdige voor zover dat noodzakelijk is in het kader van een door hem ingesteld fraude-onderzoek, mits die jeugdige of degene die het gezag over de jeugdige uitoefent het college schriftelijk toestemming heeft gegeven om de desbetreffende gegevens ten behoeve van dat onderzoek op te vragen.
 
@@ -736,11 +750,11 @@ Een gecertificeerde instelling die jeugdreclassering uitvoert vermeldt bij de de
 
 ##### Artikel 6a.7
 
-1. Het college bewaart in zijn administratie een afschrift van de in [artikel 6a.2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036007&paragraaf=6a&artikel=6a.2&z=2015-12-24&g=2015-12-24), bedoelde verklaring.
+1. Het college bewaart in zijn administratie een afschrift van de in [artikel 6a.2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036007&paragraaf=6a&artikel=6a.2&z=2016-01-01&g=2016-01-01), bedoelde verklaring.
 
-2. Indien het college voor het moment van declaratie een verklaring als bedoeld in [artikel 6a.2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036007&paragraaf=6a&artikel=6a.2&z=2015-12-24&g=2015-12-24), heeft ontvangen en uit de declaratie van het op de desbetreffende zorg betrekking hebbende bedrag de diagnose van de jeugdige zou kunnen worden afgeleid, is het college op verzoek van de jeugdhulpaanbieder verplicht te overleggen over een afwijkende wijze van declareren, zodanig, dat de diagnose niet uit het te declareren bedrag afgeleid kan worden.
+2. Indien het college voor het moment van declaratie een verklaring als bedoeld in [artikel 6a.2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036007&paragraaf=6a&artikel=6a.2&z=2016-01-01&g=2016-01-01), heeft ontvangen en uit de declaratie van het op de desbetreffende zorg betrekking hebbende bedrag de diagnose van de jeugdige zou kunnen worden afgeleid, is het college op verzoek van de jeugdhulpaanbieder verplicht te overleggen over een afwijkende wijze van declareren, zodanig, dat de diagnose niet uit het te declareren bedrag afgeleid kan worden.
 
-3. Het college betaalt declaraties als bedoeld in [artikel 6a.2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036007&paragraaf=6a&artikel=6a.2&z=2015-12-24&g=2015-12-24), indien deze voor het overige aan de daarover met de jeugdhulpaanbieder gemaakte afspraken voldoen.
+3. Het college betaalt declaraties als bedoeld in [artikel 6a.2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036007&paragraaf=6a&artikel=6a.2&z=2016-01-01&g=2016-01-01), indien deze voor het overige aan de daarover met de jeugdhulpaanbieder gemaakte afspraken voldoen.
 
 #### § 7. Beleidsinformatie
 
@@ -787,7 +801,7 @@ Handtekening gezagsdrager
 
 Handtekening zorgaanbieder
 
-## Bijlage 1a. behorende bij [artikel 6a.2](https://wetten.overheid.nl/jci1.3:c:BWBR0036007&paragraaf=6a&artikel=6a.2&z=2015-12-24&g=2015-12-24) van de Regeling Jeugdwet
+## Bijlage 1a. behorende bij [artikel 6a.2](https://wetten.overheid.nl/jci1.3:c:BWBR0036007&paragraaf=6a&artikel=6a.2&z=2016-01-01&g=2016-01-01) van de Regeling Jeugdwet
 
 Ondergetekenden:
 
@@ -990,9 +1004,9 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 ##### Artikel 6b.1
 
-1. Het college verricht materiële controle op de in de [artikelen 6b.2 tot en met 6b.6](https://wetten.overheid.nl/jci1.3:c:BWBR0036007&paragraaf=6b&artikel=6b.2&z=2016-08-25&g=2015-12-24) bepaalde wijze.
+1. Het college verricht materiële controle op de in de [artikelen 6b.2 tot en met 6b.6](https://wetten.overheid.nl/jci1.3:c:BWBR0036007&paragraaf=6b&artikel=6b.2&z=2016-08-25&g=2016-01-01) bepaalde wijze.
 
-2. Het college verricht fraude-onderzoek op de in de [artikel 6b.7](https://wetten.overheid.nl/jci1.3:c:BWBR0036007&paragraaf=6b&artikel=6b.7&z=2016-08-25&g=2015-12-24) bepaalde wijze.
+2. Het college verricht fraude-onderzoek op de in de [artikel 6b.7](https://wetten.overheid.nl/jci1.3:c:BWBR0036007&paragraaf=6b&artikel=6b.7&z=2016-08-25&g=2016-01-01) bepaalde wijze.
 
 3. Aanbieders zijn verplicht medewerking te verlenen aan overeenkomstig het eerste of tweede lid uitgevoerde controles of onderzoeken.
 
@@ -1018,17 +1032,17 @@ Het college stelt voorafgaand aan de uitvoering van de materiële controle het d
 
 3. Het naar aanleiding van de algemene risicoanalyse opgestelde algemene controleplan voorziet niet in de inzet van detailcontrole.
 
-4. Indien uit het uitgevoerde algemene controleplan blijkt dat het controledoel, bedoeld in [artikel 6b.2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036007&paragraaf=6b&artikel=6b.2&z=2016-08-25&g=2015-12-24), is bereikt, kan slechts detailcontrole worden uitgevoerd als er van een ander dan het college afkomstige of uit de uitgevoerde controle voortvloeiende aanwijzingen zijn waaruit blijkt dat er sprake is van onvoldoende zekerheid.
+4. Indien uit het uitgevoerde algemene controleplan blijkt dat het controledoel, bedoeld in [artikel 6b.2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036007&paragraaf=6b&artikel=6b.2&z=2016-08-25&g=2016-01-01), is bereikt, kan slechts detailcontrole worden uitgevoerd als er van een ander dan het college afkomstige of uit de uitgevoerde controle voortvloeiende aanwijzingen zijn waaruit blijkt dat er sprake is van onvoldoende zekerheid.
 
 ##### Artikel 6b.4
 
-Het college maakt informatie openbaar over het ingevolge [artikel 6b.2](https://wetten.overheid.nl/jci1.3:c:BWBR0036007&paragraaf=6b&artikel=6b.2&z=2016-08-25&g=2015-12-24) vastgestelde controledoel en het ingevolge [artikel 6b.3](https://wetten.overheid.nl/jci1.3:c:BWBR0036007&paragraaf=6b&artikel=6b.3&z=2016-08-25&g=2015-12-24) vastgestelde algemene controleplan op een zodanige wijze dat die informatie voor jeugdigen of degenen die het gezag over hen uitoefenen alsmede voor aanbieders gemakkelijk verkrijgbaar is.
+Het college maakt informatie openbaar over het ingevolge [artikel 6b.2](https://wetten.overheid.nl/jci1.3:c:BWBR0036007&paragraaf=6b&artikel=6b.2&z=2016-08-25&g=2016-01-01) vastgestelde controledoel en het ingevolge [artikel 6b.3](https://wetten.overheid.nl/jci1.3:c:BWBR0036007&paragraaf=6b&artikel=6b.3&z=2016-08-25&g=2016-01-01) vastgestelde algemene controleplan op een zodanige wijze dat die informatie voor jeugdigen of degenen die het gezag over hen uitoefenen alsmede voor aanbieders gemakkelijk verkrijgbaar is.
 
 ##### Artikel 6b.5
 
 1. Het college voert geen detailcontrole uit dan nadat is voldaan aan de volgende voorwaarden:
 
-- a. het college heeft een specifieke risicoanalyse verricht op de bevindingen uit het uitgevoerde algemene controleplan, bedoeld in [artikel 6b.3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036007&paragraaf=6b&artikel=6b.3&z=2016-08-25&g=2015-12-24);
+- a. het college heeft een specifieke risicoanalyse verricht op de bevindingen uit het uitgevoerde algemene controleplan, bedoeld in [artikel 6b.3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036007&paragraaf=6b&artikel=6b.3&z=2016-08-25&g=2016-01-01);
 
 - b. het college heeft naar aanleiding van de specifieke risicoanalyse een specifiek controleplan en specifiek controledoel opgesteld, waarin de objecten van materiële controle en de methoden van detailcontrole zijn opgenomen;
 
@@ -1064,7 +1078,7 @@ Op voorafgaand verzoek van de aanbieder is de persoon, bedoeld in onderdeel a of
 
 ##### Artikel 6b.7
 
-1. Bij fraude-onderzoek zijn de voorwaarden, bedoeld in [artikel 6b.5, eerste lid, onderdelen b en d](https://wetten.overheid.nl/jci1.3:c:BWBR0036007&paragraaf=6b&artikel=6b.5&z=2016-08-25&g=2015-12-24), van overeenkomstige toepassing, en is de in onderdeel e bedoelde voorwaarde van overeenkomstige toepassing voor zover het onderzoeksbelang of het belang van de bescherming van de persoonlijke levenssfeer van de jeugdige of degene die het gezag over hem uitoefent zich hier niet tegen verzet.
+1. Bij fraude-onderzoek zijn de voorwaarden, bedoeld in [artikel 6b.5, eerste lid, onderdelen b en d](https://wetten.overheid.nl/jci1.3:c:BWBR0036007&paragraaf=6b&artikel=6b.5&z=2016-08-25&g=2016-01-01), van overeenkomstige toepassing, en is de in onderdeel e bedoelde voorwaarde van overeenkomstige toepassing voor zover het onderzoeksbelang of het belang van de bescherming van de persoonlijke levenssfeer van de jeugdige of degene die het gezag over hem uitoefent zich hier niet tegen verzet.
 
 2. In afwijking van het eerste lid kan het college met betrekking tot een individuele jeugdige detailcontrole uitvoeren zonder dat de in dat lid genoemde voorwaarden van toepassing zijn, indien die jeugdige of, indien de jeugdige jonger is dan twaalf jaar dan wel niet in staat kan worden geacht tot een redelijke waardering van zijn belangen ter zake, degene die het gezag over hem uitoefent of zijn curator of mentor ten behoeve van het fraude-onderzoek schriftelijk toestemming heeft gegeven voor verstrekking van persoonsgegevens, waaronder gegevens met betrekking tot zijn gezondheid, aan het college. Het college verwerkt ten behoeve van de detailcontrole niet meer gegevens dan gelet op het onderzoeksdoel en de omstandigheden van het geval noodzakelijk is.
 
@@ -1078,7 +1092,7 @@ Op voorafgaand verzoek van de aanbieder is de persoon, bedoeld in onderdeel a of
 
 ## Bijlage 1. behorende bij [paragraaf 5](https://wetten.overheid.nl/jci1.3:c:BWBR0036007&paragraaf=5&z=2016-08-25&g=2015-06-30) van de Regeling Jeugdwet
 
-## Bijlage 1. behorende bij [paragraaf 5](https://wetten.overheid.nl/jci1.3:c:BWBR0036007&paragraaf=5&z=2016-08-25&g=2015-12-24) van de Regeling Jeugdwet
+## Bijlage 1. behorende bij [paragraaf 5](https://wetten.overheid.nl/jci1.3:c:BWBR0036007&paragraaf=5&z=2016-08-25&g=2016-01-01) van de Regeling Jeugdwet
 
 ## Bijlage 1a. behorende bij [artikel 6a.2](https://wetten.overheid.nl/jci1.3:c:BWBR0036007&paragraaf=6a&artikel=6a.2&z=2016-08-25&g=2015-08-07) van de Regeling Jeugdwet
 
@@ -1349,9 +1363,9 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 ##### Artikel 6a.8
 
-1. Indien ten aanzien van verleende geestelijke gezondheidszorg een verklaring als bedoeld in [artikel 6a.2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036007&paragraaf=6a&artikel=6a.2&z=2016-08-25&g=2015-12-24), bestaat en uit de declaratie van het op de desbetreffende zorg betrekking hebbende bedrag de diagnose van de jeugdige zou kunnen worden afgeleid, is het college op verzoek van de jeugdhulpaanbieder verplicht te overleggen over een afwijkende wijze van declareren, zodanig, dat de diagnose niet uit het te declareren bedrag afgeleid kan worden.
+1. Indien ten aanzien van verleende geestelijke gezondheidszorg een verklaring als bedoeld in [artikel 6a.2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036007&paragraaf=6a&artikel=6a.2&z=2016-08-25&g=2016-01-01), bestaat en uit de declaratie van het op de desbetreffende zorg betrekking hebbende bedrag de diagnose van de jeugdige zou kunnen worden afgeleid, is het college op verzoek van de jeugdhulpaanbieder verplicht te overleggen over een afwijkende wijze van declareren, zodanig, dat de diagnose niet uit het te declareren bedrag afgeleid kan worden.
 
-2. Het college betaalt declaraties als bedoeld in [artikel 6a.2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036007&paragraaf=6a&artikel=6a.2&z=2016-08-25&g=2015-12-24), indien deze voor het overige aan de daarover met de jeugdhulpaanbieder gemaakte afspraken voldoen.
+2. Het college betaalt declaraties als bedoeld in [artikel 6a.2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036007&paragraaf=6a&artikel=6a.2&z=2016-08-25&g=2016-01-01), indien deze voor het overige aan de daarover met de jeugdhulpaanbieder gemaakte afspraken voldoen.
 
 #### § 6b. Verwerking persoonsgegevens ten behoeve van materiële controle en fraudebestrijding
 
@@ -1363,7 +1377,7 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 ## Bijlage 1. behorende bij [paragraaf 5](https://wetten.overheid.nl/jci1.3:c:BWBR0036007&paragraaf=5&z=2016-08-25&g=2015-08-07) van de Regeling Jeugdwet
 
-## Bijlage 1a. behorende bij [artikel 6a.2](https://wetten.overheid.nl/jci1.3:c:BWBR0036007&paragraaf=6a&artikel=6a.2&z=2016-08-25&g=2015-12-24) van de Regeling Jeugdwet
+## Bijlage 1a. behorende bij [artikel 6a.2](https://wetten.overheid.nl/jci1.3:c:BWBR0036007&paragraaf=6a&artikel=6a.2&z=2016-08-25&g=2016-01-01) van de Regeling Jeugdwet
 
 Ondergetekenden:
 
@@ -1408,23 +1422,33 @@ Handtekening zorgaanbieder
 
 ##### Artikel 8a
 
-Dit onderdeel is nog niet inwerking getreden
+1. In afwijking van [artikel 8, aanhef en tweede, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0036007&paragraaf=8&artikel=8&z=2016-01-01&g=2016-01-01), kan de Sociale verzekeringsbank rechtstreeks aan de persoon aan wie het persoonsgebonden budget is verstrekt, betalen:
+
+- a. door die persoon gemaakte vervoerskosten; of
+
+- b. een verantwoordingsvrij bedrag voor jeugdhulp.
+
+2. In afwijking van [artikel 8, vierde lid, onderdelen c en d](https://wetten.overheid.nl/jci1.3:c:BWBR0036007&paragraaf=8&artikel=8&z=2016-01-01&g=2016-01-01), ontvangt de Sociale verzekeringsbank uiterlijk vier weken na het eindigen van de beschikking, bedoeld in [artikel 8.1.1, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0034925&artikel=8.1.1) een declaratie ter betaling van vervoerskosten van de persoon aan wie het persoonsgebonden budget is verstrekt.
+
+3. De Sociale verzekeringsbank ontvangt een verzoek om een verantwoordingsvrij bedrag voor jeugdhulp voor het eindigen van de beschikking, bedoeld in het tweede lid, van de persoon aan wie het persoonsgebonden budget is verstrekt. Op dit verzoek is [artikel 8, vierde lid, onderdelen a, b en e](https://wetten.overheid.nl/jci1.3:c:BWBR0036007&paragraaf=8&artikel=8&z=2016-01-01&g=2016-01-01), van overeenkomstige toepassing.
+
+4. De Sociale verzekeringsbank verricht betalingen, indien de declaratie, bedoeld in het tweede lid, of het verzoek, bedoeld in het derde lid, is opgesteld met gebruikmaking van een model dat door de Sociale verzekeringsbank daartoe beschikbaar is gesteld.
 
 #### § 9. Slotbepalingen
 
-## Bijlage 1. behorende bij [paragraaf 5](https://wetten.overheid.nl/jci1.3:c:BWBR0036007&paragraaf=5&z=2015-12-24&g=2015-12-24) van de Regeling Jeugdwet
+## Bijlage 1. behorende bij [paragraaf 5](https://wetten.overheid.nl/jci1.3:c:BWBR0036007&paragraaf=5&z=2016-01-01&g=2016-01-01) van de Regeling Jeugdwet
 
 ### Basisbedragen en toeslagen pleegvergoeding
 
-## Bijlage 2. behorende bij [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0036007&paragraaf=7&artikel=7&z=2015-12-24&g=2015-12-24) van de Regeling Jeugdwet
+## Bijlage 2. behorende bij [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0036007&paragraaf=7&artikel=7&z=2016-01-01&g=2016-01-01) van de Regeling Jeugdwet
 
 ### 1.3. Wie dienen er beleidsinformatie aan te leveren?
 
 #### § 9. Slotbepalingen
 
-## Bijlage 1a*. behorende bij [artikel 6a.2](https://wetten.overheid.nl/jci1.3:c:BWBR0036007&paragraaf=6a&artikel=6a.2&z=2016-08-25&g=2015-12-24) van de Regeling Jeugdwet
+## Bijlage 1a*. behorende bij [artikel 6a.2](https://wetten.overheid.nl/jci1.3:c:BWBR0036007&paragraaf=6a&artikel=6a.2&z=2016-08-25&g=2016-01-01) van de Regeling Jeugdwet
 
-## Bijlage 2. behorende bij [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0036007&paragraaf=7&artikel=7&z=2016-08-25&g=2015-12-24) van de Regeling Jeugdwet
+## Bijlage 2. behorende bij [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0036007&paragraaf=7&artikel=7&z=2016-08-25&g=2016-01-01) van de Regeling Jeugdwet
 
 ### 2.1. Jeugdige
 
