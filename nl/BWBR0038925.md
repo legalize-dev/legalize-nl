@@ -4,7 +4,7 @@ identifier: "BWBR0038925"
 country: "nl"
 rank: "amvb"
 publication_date: "2016-12-28"
-last_updated: "2012-07-01"
+last_updated: "2016-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0038925"
 soort: "AMvB"
@@ -44,8 +44,6 @@ Wijzigt het Rechtspositiebesluit ambtenaren BES.
 
 Wijzigt het Bezoldigingsbesluit 1998 BES.
 
-Dit onderdeel is nog niet inwerking getreden
-
 ##### Artikel III
 
 Wijzigt het Besluit rechtspositie korps politie BES.
@@ -59,15 +57,3 @@ Dit onderdeel is nog niet inwerking getreden
 ##### Artikel V
 
 Dit onderdeel is nog niet inwerking getreden
-
-Op de voordracht van Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties van 11 november 2016, nr. 2016-0000708712;
-
-Gelet op de [artikelen 17](https://wetten.overheid.nl/jci1.3:c:BWBR0028215&artikel=17) en [81 van de Ambtenarenwet BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028215&artikel=81) en [artikel 21, tweede lid, onder a, van de Veiligheidswet BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028586&artikel=21);
-
-De Afdeling advisering van de Raad van State gehoord (advies van 30 november 2016, nr. W04.16.0366/I);
-
-Gezien het nader rapport van Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties van 7 december 2016, nr. 2016-0000765582;
-
-Hebben goedgevonden en verstaan:
-
-Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
