@@ -4,7 +4,7 @@ identifier: "BWBR0036678"
 country: "nl"
 rank: "wet"
 publication_date: "2017-01-01"
-last_updated: "2015-06-18"
+last_updated: "2016-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0036678"
 soort: "wet"
@@ -40,11 +40,11 @@ entry_into_force: "2015-06-18"
 
 ##### Artikel I
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Postwet 2009.
 
 ##### Artikel II
 
-Dit onderdeel is nog niet inwerking getreden
+Na inwerkingtreding van deze wet berust de op de [artikelen 22, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025572&artikel=22), [23, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025572&artikel=23), [25, eerste, tweede, derde en zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025572&artikel=25), en [27 van de Postwet 2009](https://wetten.overheid.nl/jci1.3:c:BWBR0025572&artikel=27) gebaseerde ministeriële regeling op de artikelen 22, derde lid, 23, tweede lid, 25, eerste, vierde en vijfde lid, en 27, tweede lid, van de Postwet 2009 zoals die luiden na inwerkingtreding van deze wet.
 
 ##### Artikel III
 
@@ -56,11 +56,11 @@ Wijzigt de Instellingswet Autoriteit Consument en Markt.
 
 ##### Artikel IV
 
-1. De [artikelen I](https://wetten.overheid.nl/jci1.3:c:BWBR0036678&artikel=I&z=2015-06-18&g=2015-06-18) en [II](https://wetten.overheid.nl/jci1.3:c:BWBR0036678&artikel=II&z=2015-06-18&g=2015-06-18) van deze wet treden in werking op een bij koninklijk besluit te bepalen tijdstip, dat voor de verschillende artikelen of onderdelen daarvan verschillend kan worden vastgesteld, met uitzondering van artikel I, onderdeel 0A, dat in werking treedt met ingang van 1 januari 2017.
+1. De [artikelen I](https://wetten.overheid.nl/jci1.3:c:BWBR0036678&artikel=I&z=2016-01-01&g=2016-01-01) en [II](https://wetten.overheid.nl/jci1.3:c:BWBR0036678&artikel=II&z=2016-01-01&g=2016-01-01) van deze wet treden in werking op een bij koninklijk besluit te bepalen tijdstip, dat voor de verschillende artikelen of onderdelen daarvan verschillend kan worden vastgesteld, met uitzondering van artikel I, onderdeel 0A, dat in werking treedt met ingang van 1 januari 2017.
 
-2. [Artikel III](https://wetten.overheid.nl/jci1.3:c:BWBR0036678&artikel=III&z=2015-06-18&g=2015-06-18) van deze wet treedt in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin deze wet wordt geplaatst en werkt terug tot en met 1 augustus 2014.
+2. [Artikel III](https://wetten.overheid.nl/jci1.3:c:BWBR0036678&artikel=III&z=2016-01-01&g=2016-01-01) van deze wet treedt in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin deze wet wordt geplaatst en werkt terug tot en met 1 augustus 2014.
 
-3. [Artikel IIIa](https://wetten.overheid.nl/jci1.3:c:BWBR0036678&artikel=IIIa&z=2015-06-18&g=2015-06-18) van deze wet treedt in werking met ingang van 1 januari 2015. Indien het Staatsblad waarin deze wet wordt geplaatst wordt uitgegeven na 31 december 2014, treedt artikel IIIa van deze wet in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin deze wet wordt geplaatst en werkt het terug tot en met 1 januari 2015.
+3. [Artikel IIIa](https://wetten.overheid.nl/jci1.3:c:BWBR0036678&artikel=IIIa&z=2016-01-01&g=2016-01-01) van deze wet treedt in werking met ingang van 1 januari 2015. Indien het Staatsblad waarin deze wet wordt geplaatst wordt uitgegeven na 31 december 2014, treedt artikel IIIa van deze wet in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin deze wet wordt geplaatst en werkt het terug tot en met 1 januari 2015.
 
 Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
 
