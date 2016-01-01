@@ -4,7 +4,7 @@ identifier: "BWBR0035797"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-07-15"
-last_updated: "2015-10-01"
+last_updated: "2016-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0035797"
 soort: "ministeriele-regeling"
@@ -42,11 +42,11 @@ Besluit:
 
 ##### Artikel 1
 
-Als beroepsopleiding of school als bedoeld in [artikel 7, zesde lid, onderdeel b, onder 1°, van de Algemene Kinderbijslagwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002368&artikel=7) wordt aangewezen een beroepsopleiding of school die is opgenomen in de bij deze regeling behorende [bijlagen](https://wetten.overheid.nl/jci1.3:c:BWBR0035797&bijlage=A&z=2015-10-01&g=2015-10-01).
+Als beroepsopleiding of school als bedoeld in [artikel 7, zesde lid, onderdeel b, onder 1° of 5°, van de Algemene Kinderbijslagwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002368&artikel=7) wordt aangewezen een beroepsopleiding of school die is opgenomen in de bij deze regeling behorende [bijlagen](https://wetten.overheid.nl/jci1.3:c:BWBR0035797&bijlage=A&z=2016-01-01&g=2016-01-01).
 
 ##### Artikel 2
 
-De afstand, bedoeld in [artikel 7, zesde lid, onderdeel b, onder 1°, van de Algemene Kinderbijslagwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002368&artikel=7), bedraagt 25 kilometer.
+De afstand, bedoeld in [artikel 7, zesde lid, onderdeel b, onder 1° of 5°, van de Algemene Kinderbijslagwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002368&artikel=7), bedraagt 25 kilometer.
 
 ##### Artikel 3
 
