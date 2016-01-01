@@ -4,7 +4,7 @@ identifier: "BWBR0034082"
 country: "nl"
 rank: "wet"
 publication_date: "2016-01-01"
-last_updated: "2014-01-01"
+last_updated: "2016-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0034082"
 soort: "wet"
@@ -57,9 +57,11 @@ Wijzigt de Wet op het financieel toezicht.
 
 ##### Artikel IV
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Wet op het financieel toezicht.
 
 ##### Artikel V
+
+Wijzigt deze wet.
 
 Dit onderdeel is nog niet inwerking getreden
 
