@@ -4,7 +4,7 @@ identifier: "BWBR0022112"
 country: "nl"
 rank: "zbo"
 publication_date: "2016-01-01"
-last_updated: "2013-11-28"
+last_updated: "2016-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0022112"
 soort: "zbo"
@@ -94,13 +94,7 @@ Deze vermelding of vertoning mag niet eveneens een vermijdbare vermelding of ver
 
 ##### Artikel 4
 
-1. Aan omroepinstellingen wordt ontheffing verleend van het bepaalde in het vierde lid van [artikel 52 van de Mediawet](https://wetten.overheid.nl/jci1.3:c:BWBR0004149&artikel=52) voor mededelingen over het ter beschikking stellen aan derden van programma’s of programmaonderdelen of vastleggingen daarvan mits:
-
-- a. de uitgaven niet eerder dan één maand na de laatste oproep terzake in de handel verkrijgbaar zijn;
-
-- b. in de mededeling de betrokken omroepinstelling uitsluitend als uitgever wordt genoemd, en,
-
-- c. de mededeling wordt uitgezonden in onmiddellijke aansluiting op het programmaonderdeel waarop de mededeling betrekking heeft.
+Vervallen
 
 ### Oproepen in het kader van verenigingsactiviteiten
 
