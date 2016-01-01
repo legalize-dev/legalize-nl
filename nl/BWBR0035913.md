@@ -4,7 +4,7 @@ identifier: "BWBR0035913"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2016-01-01"
-last_updated: "2015-02-01"
+last_updated: "2016-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0035913"
 soort: "ministeriele-regeling"
@@ -59,5 +59,7 @@ Met ingang van 18 december 2014 worden voor een periode van vijf jaar tot lid va
 1. Aan de voorzitter van het nationaal comité dierproeven wordt een vaste vergoeding per maand toegekend, waarbij de salarisschaal wordt vastgesteld op schaal 18 van [bijlage B van het Bezoldigingsbesluit burgerlijke rijksambtenaren 1984](https://wetten.overheid.nl/jci1.3:c:BWBR0003630&bijlage=B) en de arbeidsduurfactor op 0,22.
 
 2. Aan de andere leden van het nationaal comité dierproeven wordt een vaste vergoeding per maand toegekend, waarbij de salarisschaal wordt vastgesteld op schaal 16 van [bijlage B van het Bezoldigingsbesluit burgerlijke rijksambtenaren 1984](https://wetten.overheid.nl/jci1.3:c:BWBR0003630&bijlage=B) en de arbeidsduurfactor op 0,11.
+
+3. Een gastdeskundige ontvangt een vergoeding per vergadering van € 256,24.
 
 Dit besluit zal in de Staatscourant worden geplaatst en in afschrift worden gezonden aan betrokkenen en aan het nationaal comité dierproeven.
