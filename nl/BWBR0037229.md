@@ -4,7 +4,7 @@ identifier: "BWBR0037229"
 country: "nl"
 rank: "wet"
 publication_date: "2019-07-10"
-last_updated: "2015-12-17"
+last_updated: "2016-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0037229"
 soort: "wet"
@@ -49,7 +49,7 @@ Wijzigt de Wet op het financieel toezicht.
 
 ##### Artikel Ia
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Wet bekostiging financieel toezicht.
 
 ##### Artikel II
 
