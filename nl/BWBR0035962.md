@@ -4,7 +4,7 @@ identifier: "BWBR0035962"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-01-01"
-last_updated: "2015-01-01"
+last_updated: "2016-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0035962"
 soort: "ministeriele-regeling"
@@ -159,5 +159,25 @@ Deze regeling treedt in werking met ingang van 1 januari 2015.
 ##### Artikel 7. Citeertitel
 
 Deze regeling wordt aangehaald als: Uitvoeringsregeling WNT.
+
+Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
+
+##### Artikel 2a. De componenten van de bezoldiging van de topfunctionaris zonder dienstbetrekking
+
+1. Ten aanzien van de topfunctionaris zonder dienstbetrekking wordt, voor zover niet in het tweede lid uitgezonderd, in ieder geval tot de bezoldiging in de zin van de [wet](https://wetten.overheid.nl/jci1.3:c:BWBR0032249) gerekend:
+
+- a. de vergoeding voor de door de topfunctionaris zonder dienstbetrekking verrichte arbeid;
+
+- b. de vergoeding voor de kosten van bemiddeling;
+
+- c. de vergoeding voor de bureaukosten;
+
+- d. de componenten, bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035962&artikel=2&z=2017-05-02&g=2016-01-01), voor zover die niet onder onderdeel a, b of c, vallen, of een compensatie of bijdrage voor die componenten.
+
+2. Ten aanzien van de topfunctionaris zonder dienstbetrekking wordt in ieder geval niet tot de bezoldiging in de zin van de [wet](https://wetten.overheid.nl/jci1.3:c:BWBR0032249) gerekend:
+
+- a. de omzetbelasting;
+
+- b. de vergoedingen en verstrekkingen, bedoeld in [artikel 2, tweede lid, onderdeel e](https://wetten.overheid.nl/jci1.3:c:BWBR0035962&artikel=2&z=2017-05-02&g=2016-01-01).
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
