@@ -4,7 +4,7 @@ identifier: "BWBR0011901"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2016-01-23"
-last_updated: "2013-10-01"
+last_updated: "2016-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0011901"
 soort: "ministeriele-regeling"
@@ -86,7 +86,7 @@ Onze Minister verstrekt een EG-verklaring taxivervoer:
 
 ##### Artikel 8
 
-1. Bij het beoordelen van de aanvraag, bedoeld in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0011901&paragraaf=2&artikel=6&z=2013-10-01&g=2013-10-01), kan Onze Minister advies inwinnen bij het Centraal Bureau Rijvaardigheidsbewijzen.
+1. Bij het beoordelen van de aanvraag, bedoeld in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0011901&paragraaf=2&artikel=6&z=2016-01-01&g=2016-01-01), kan Onze Minister advies inwinnen bij het Centraal Bureau Rijvaardigheidsbewijzen.
 
 2. Het advies, bedoeld in het eerste lid, bevat een aanduiding van de wezenlijke verschillen waarop de proeve van bekwaamheid onderscheidenlijk de aanpassingsstage betrekking dient te hebben, alsmede, in geval van een aanpassingsstage, een aanduiding van de duur daarvan.
 
@@ -101,6 +101,52 @@ Deze regeling wordt aangehaald als: Regeling vakbekwaamheid beroepspersonenvervo
 ## Bijlage
 
 (als bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0011901&paragraaf=2&artikel=5&z=2013-10-01&g=2013-10-01) van de Regeling vakbekwaamheid beroepspersonenvervoer)
+
+(als bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0011901&paragraaf=2&artikel=5&z=2016-01-01&g=2016-01-01) van de Regeling vakbekwaamheid beroepspersonenvervoer)
+
+### burgerlijk recht
+
+De kandidaat moet met name:
+
+### handelsrecht
+
+De kandidaat moet met name:
+
+### sociaal recht
+
+De kandidaat moet met name:
+
+### belastingrecht
+
+De kandidaat moet met name kennis hebben van de voorschriften inzake:
+
+### commercieel en financieel beheer
+
+De kandidaat moet met name:
+
+### toegang tot de markt
+
+De kandidaat moet met name:
+
+### technische normen en exploitatie
+
+De kandidaat moet met name:
+
+### veiligheid op de weg
+
+De kandidaat moet met name:
+
+Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
+
+##### Artikel 8a
+
+Vrijstelling wordt verleend van:
+
+- a. [artikel 76, derde lid, van de Wet personenvervoer 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011470&artikel=76), en
+
+- b. de in [artikel 76, vierde lid, van de Wet personenvervoer 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011470&artikel=76) bedoelde eis van vakbekwaamheid.
+
+## Bijlage
 
 Bij het examen vakbekwaamheid voor het verrichten van taxivervoer wordt ten minste de kennis vastgesteld van de hiernavolgende onderwerpen.
 
