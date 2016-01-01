@@ -4,7 +4,7 @@ identifier: "BWBR0036087"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2016-01-01"
-last_updated: "2015-04-01"
+last_updated: "2016-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0036087"
 soort: "ministeriele-regeling"
@@ -128,17 +128,17 @@ Met betrekking tot een belastingaanslag inkomstenbelasting over het kalenderjaar
 
 1. Deze regeling treedt in werking met ingang van 1 januari 2015, met dien verstande dat:
 
-- a. [artikel I, onderdeel C](https://wetten.overheid.nl/jci1.3:c:BWBR0036087&artikel=I&z=2015-04-01&g=2015-04-01), [artikel VI, onderdelen B en D](https://wetten.overheid.nl/jci1.3:c:BWBR0036087&artikel=VI&z=2015-04-01&g=2015-04-01), en [artikel VIII, onderdeel D](https://wetten.overheid.nl/jci1.3:c:BWBR0036087&artikel=VIII&z=2015-04-01&g=2015-04-01), terugwerken tot en met 1 januari 2014;
+- a. [artikel I, onderdeel C](https://wetten.overheid.nl/jci1.3:c:BWBR0036087&artikel=I&z=2016-01-01&g=2016-01-01), [artikel VI, onderdelen B en D](https://wetten.overheid.nl/jci1.3:c:BWBR0036087&artikel=VI&z=2016-01-01&g=2016-01-01), en [artikel VIII, onderdeel D](https://wetten.overheid.nl/jci1.3:c:BWBR0036087&artikel=VIII&z=2016-01-01&g=2016-01-01), terugwerken tot en met 1 januari 2014;
 
-- b. [artikel XIII, onderdeel D](https://wetten.overheid.nl/jci1.3:c:BWBR0036087&artikel=XIII&z=2015-04-01&g=2015-04-01), terugwerkt tot en met 6 januari 2014;
+- b. [artikel XIII, onderdeel D](https://wetten.overheid.nl/jci1.3:c:BWBR0036087&artikel=XIII&z=2016-01-01&g=2016-01-01), terugwerkt tot en met 6 januari 2014;
 
-- c. [artikel X, onderdelen K, L en S](https://wetten.overheid.nl/jci1.3:c:BWBR0036087&artikel=X&z=2015-04-01&g=2015-04-01), terugwerkt tot en met 1 oktober 2014;
+- c. [artikel X, onderdelen K, L en S](https://wetten.overheid.nl/jci1.3:c:BWBR0036087&artikel=X&z=2016-01-01&g=2016-01-01), terugwerkt tot en met 1 oktober 2014;
 
-- d. [artikel XV, onderdelen C en D](https://wetten.overheid.nl/jci1.3:c:BWBR0036087&artikel=XV&z=2015-04-01&g=2015-04-01), en [artikel XIX](https://wetten.overheid.nl/jci1.3:c:BWBR0036087&artikel=XIX&z=2015-04-01&g=2015-04-01) voor het eerst van toepassing zijn op verzoeken om kwijtschelding die na inwerkingtreding van deze regeling bij de ontvanger worden ingediend.
+- d. [artikel XV, onderdelen C en D](https://wetten.overheid.nl/jci1.3:c:BWBR0036087&artikel=XV&z=2016-01-01&g=2016-01-01), en [artikel XIX](https://wetten.overheid.nl/jci1.3:c:BWBR0036087&artikel=XIX&z=2016-01-01&g=2016-01-01) voor het eerst van toepassing zijn op verzoeken om kwijtschelding die na inwerkingtreding van deze regeling bij de ontvanger worden ingediend.
 
-2. In afwijking van het eerste lid treden [artikel VII](https://wetten.overheid.nl/jci1.3:c:BWBR0036087&artikel=VII&z=2015-04-01&g=2015-04-01) en [artikel X, onderdeel I](https://wetten.overheid.nl/jci1.3:c:BWBR0036087&artikel=X&z=2015-04-01&g=2015-04-01), met ingang van 1 april 2015 in werking.
+2. In afwijking van het eerste lid treden [artikel VII](https://wetten.overheid.nl/jci1.3:c:BWBR0036087&artikel=VII&z=2016-01-01&g=2016-01-01) en [artikel X, onderdeel I](https://wetten.overheid.nl/jci1.3:c:BWBR0036087&artikel=X&z=2016-01-01&g=2016-01-01), met ingang van 1 april 2015 in werking.
 
-3. In afwijking van het eerste lid treedt [artikel II, onderdeel F](https://wetten.overheid.nl/jci1.3:c:BWBR0036087&artikel=II&z=2015-04-01&g=2015-04-01), met ingang van 1 januari 2016 in werking.
+3. In afwijking van het eerste lid treedt [artikel II, onderdeel F](https://wetten.overheid.nl/jci1.3:c:BWBR0036087&artikel=II&z=2016-01-01&g=2016-01-01), met ingang van 1 januari 2016 in werking.
 
 Handelende wat [artikel 3.13 van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.13) betreft in overeenstemming met de Minister van Infrastructuur en Milieu;
 
