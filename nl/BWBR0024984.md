@@ -4,7 +4,7 @@ identifier: "BWBR0024984"
 country: "nl"
 rank: "beleidsregel"
 publication_date: "2016-01-01"
-last_updated: "2008-12-26"
+last_updated: "2016-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0024984"
 soort: "beleidsregel"
@@ -40,7 +40,7 @@ Besluit:
 
 ##### Artikel 1
 
-Voor de toepassing van de [Wet vermindering afdracht loonbelasting en premie voor de volksverzekeringen](https://wetten.overheid.nl/jci1.3:c:BWBR0007746) en de daarop gebaseerde regelgeving wordt het in [artikel 1, eerste lid, onder n, van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007746&artikel=1) gehanteerde begrip ‘voor de S&O-inhoudingsplichtige of S&O-belastingplichtige technisch nieuwe (onderdelen van) programmatuur’ zo uitgelegd dat daaronder ook kan worden verstaan programmatuur die bestaande programmatuur op een voor de S&O-inhoudingsplichtige of S&O-belastingplichtige technisch nieuwe wijze integreert of laat samenwerken.
+Voor de toepassing van de [Wet vermindering afdracht loonbelasting en premie voor de volksverzekeringen](https://wetten.overheid.nl/jci1.3:c:BWBR0007746) en de daarop gebaseerde regelgeving wordt het in [artikel 1, eerste lid, onder p, van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007746&artikel=1) gehanteerde begrip ‘voor de S&O-inhoudingsplichtige of S&O-belastingplichtige technisch nieuwe (onderdelen van) programmatuur’ zo uitgelegd dat daaronder ook kan worden verstaan programmatuur die bestaande programmatuur op een voor de S&O-inhoudingsplichtige of S&O-belastingplichtige technisch nieuwe wijze integreert of laat samenwerken.
 
 ##### Artikel 2
 
