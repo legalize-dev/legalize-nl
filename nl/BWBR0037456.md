@@ -4,7 +4,7 @@ identifier: "BWBR0037456"
 country: "nl"
 rank: "wet"
 publication_date: "2021-01-01"
-last_updated: "2015-09-15"
+last_updated: "2016-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0037456"
 soort: "wet"
@@ -44,15 +44,15 @@ Wijzigt de Wet inkomstenbelasting 2001.
 
 ##### Artikel II
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Wet op de loonbelasting 1964.
 
 ##### Artikel III
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Wet op de vennootschapsbelasting 1969.
 
 ##### Artikel IV
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Wet op de dividendbelasting 1965.
 
 ##### Artikel V
 
@@ -60,19 +60,19 @@ Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel VI
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Wet op belastingen van rechtsverkeer.
 
 ##### Artikel VII
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Wet op de omzetbelasting 1968.
 
 ##### Artikel VIII
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Algemene douanewet.
 
 ##### Artikel IX
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Wet op de accijns.
 
 ##### Artikel X
 
@@ -88,19 +88,19 @@ Wijzigt de Wet belastingen op milieugrondslag.
 
 ##### Artikel XIII
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Belastingwet BES.
 
 ##### Artikel XIV
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Douane- en Accijnswet BES.
 
 ##### Artikel XV
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Wet waardering onroerende zaken.
 
 ##### Artikel XVI
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Algemene wet inzake rijksbelastingen.
 
 ##### Artikel XVII
 
@@ -108,52 +108,82 @@ Wijzigt de Invorderingswet 1990.
 
 ##### Artikel XVIII
 
-Dit onderdeel is nog niet inwerking getreden
+Onze Minister van Financiën zendt binnen vijf jaar na de inwerkingtreding van deze wet aan de Staten-Generaal een verslag over de werking in de praktijk van [artikel 67a van de Invorderingswet 1990](77609), waar nodig in samenhang met [artikel 64 van de Algemene wet inzake rijksbelastingen](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=64).
 
 ##### Artikel XIX
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Algemene wet inkomensafhankelijke regelingen.
 
 ##### Artikel XX
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Wet op de internationale bijstandsverlening bij de heffing van belastingen.
 
 ##### Artikel XXI
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Wet strategische diensten.
 
 ##### Artikel XXII
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Invoeringswet Wet inkomstenbelasting 2001.
 
 ##### Artikel XXIII
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Wet verhoging AOW- en pensioenrichtleeftijd.
 
 ##### Artikel XXIV
 
-Dit onderdeel is nog niet inwerking getreden
+De in [artikel XIX, onderdeel A, onder 1 en 2](https://wetten.overheid.nl/jci1.3:c:BWBR0037456&artikel=XIX&z=2016-01-01&g=2016-01-01), opgenomen wijzigingen zijn mede van toepassing op:
+
+- a. vóór 1 juli 2015 gegeven toeslagbeschikkingen die op 1 juli 2015 nog niet onherroepelijk waren; en
+
+- b. na 30 juni 2015 gegeven toeslagbeschikkingen die betrekking hebben op berekeningsjaren tot 1 januari 2016.
 
 ##### Artikel XXV
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt deze wet.
 
 ##### Artikel XXVI
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Erfgoedwet.
 
 ##### Artikel XXVIa
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt het Belastingplan 2015.
 
 ##### Artikel XXVIb
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Elektriciteits- en gaswet.
 
 ##### Artikel XXVII
 
-Dit onderdeel is nog niet inwerking getreden
+1. Onder toepassing van [artikel 12 van de Wet raadgevend referendum](https://wetten.overheid.nl/jci1.3:c:BWBR0036443&artikel=12) treedt deze wet in werking met ingang van 1 januari 2016, met dien verstande dat:
+
+- a. [artikel III, onderdeel G](https://wetten.overheid.nl/jci1.3:c:BWBR0037456&artikel=III&z=2016-01-01&g=2016-01-01), voor het eerst toepassing vindt met betrekking tot te rapporteren jaren van multinationale groepen die aanvangen op of na 1 januari 2016;
+
+- b. de [artikelen XIII](https://wetten.overheid.nl/jci1.3:c:BWBR0037456&artikel=XIII&z=2016-01-01&g=2016-01-01) en [XX](https://wetten.overheid.nl/jci1.3:c:BWBR0037456&artikel=XX&z=2016-01-01&g=2016-01-01) voor het eerst toepassing vinden met betrekking tot beboetbare en strafbare feiten die zijn begaan op of na 1 januari 2016;
+
+- c. [artikel 25a van de Algemene wet inzake rijksbelastingen](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=25a) zoals dat luidde op 31 december 2015, van toepassing blijft op bezwaren die ingevolge dat artikel vóór 1 januari 2016 zijn aangewezen als massaal bezwaar;
+
+- d. [artikel XIX, onderdeel C](https://wetten.overheid.nl/jci1.3:c:BWBR0037456&artikel=XIX&z=2016-01-01&g=2016-01-01), eerst toepassing vindt met betrekking tot uitspraken van de rechtbank of de voorzieningenrechter die zijn gedaan op of na 1 januari 2016.
+
+2. [Artikel I, onderdeel C](https://wetten.overheid.nl/jci1.3:c:BWBR0037456&artikel=I&z=2016-01-01&g=2016-01-01), werkt terug tot en met 1 januari 2013.
+
+3. [Artikel XII, onderdelen D, E, G en H](https://wetten.overheid.nl/jci1.3:c:BWBR0037456&artikel=XII&z=2016-01-01&g=2016-01-01), werkt terug tot en met 1 januari 2015.
+
+4. [Artikel XVII, onderdeel B](https://wetten.overheid.nl/jci1.3:c:BWBR0037456&artikel=XVII&z=2016-01-01&g=2016-01-01), werkt terug tot en met 15 september 2015, 15.15 uur.
+
+5. In afwijking van het eerste lid treden de [artikelen X](https://wetten.overheid.nl/jci1.3:c:BWBR0037456&artikel=X&z=2016-01-01&g=2016-01-01) en [XI](https://wetten.overheid.nl/jci1.3:c:BWBR0037456&artikel=XI&z=2016-01-01&g=2016-01-01) in werking met ingang van 1 juli 2016.
+
+6. In afwijking van het eerste lid treedt [artikel V](https://wetten.overheid.nl/jci1.3:c:BWBR0037456&artikel=V&z=2016-01-01&g=2016-01-01) in werking op een bij koninklijk besluit te bepalen tijdstip.
 
 ##### Artikel XXVIII
 
-Dit onderdeel is nog niet inwerking getreden
+Deze wet wordt aangehaald als: Overige fiscale maatregelen 2016.
+
+Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
+
+Alzo Wij in overweging genomen hebben, dat het in het kader van het fiscale beleid voor het jaar 2016 wenselijk is in een aantal belastingwetten en enige andere wetten wijzigingen, bijstellingen of technische reparaties aan te brengen;
+
+Zo is het, dat Wij, de Afdeling advisering van de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
+
+Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren die zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
