@@ -4,7 +4,7 @@ identifier: "BWBR0034672"
 country: "nl"
 rank: "wet"
 publication_date: "2016-01-01"
-last_updated: "2014-04-01"
+last_updated: "2016-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0034672"
 soort: "wet"
@@ -45,27 +45,39 @@ Zo is het, dat Wij, de Afdeling advisering van de Raad van State gehoord, en met
 
 ##### Artikel I
 
-Dit onderdeel is nog niet inwerking getreden
+Dit artikel treedt niet meer in werking. Het artikel is ingetrokken door Stb. 2015/407.
+
+Wijzigt de Wet cliëntenrechten zorg.
 
 ##### Artikel II
 
-Dit onderdeel is nog niet inwerking getreden
+Dit artikel treedt niet meer in werking. Het artikel is ingetrokken door Stb. 2015/407.
+
+Wijzigt de Zorgverzekeringswet.
 
 ##### Artikel III
 
-Dit onderdeel is nog niet inwerking getreden
+Dit artikel treedt niet meer in werking. Het artikel is ingetrokken door Stb. 2015/407.
+
+Wijzigt het Burgerlijk Wetboek Boek 7.
 
 ##### Artikel IV
 
-Dit onderdeel is nog niet inwerking getreden
+Dit artikel treedt niet meer in werking. Het artikel is ingetrokken door Stb. 2015/407.
+
+Wijzigt de Wet marktordening gezondheidszorg.
 
 ##### Artikel V
 
-Dit onderdeel is nog niet inwerking getreden
+Dit artikel treedt niet meer in werking. Het artikel is ingetrokken door Stb. 2015/407.
+
+Wijzigt de Wet op de economische delicten.
 
 ##### Artikel VI
 
-Dit onderdeel is nog niet inwerking getreden
+Dit artikel treedt niet meer in werking. Het artikel is ingetrokken door Stb. 2015/407.
+
+Wijzigt de Algemene wet bestuursrecht.
 
 ##### Artikel VII
 
@@ -205,23 +217,23 @@ Wijzigt de Wijzigingswet Algemene Wet Bijzondere Ziektekosten, enz. (instelling 
 
 ##### Artikel XXXXI
 
-Wijzigt de Zorgverzekeringswet.
+Vervallen
 
 ##### Artikel XXXXII
 
-Wijzigt het Burgerlijk Wetboek Boek 7.
+Vervallen
 
 ##### Artikel XXXXIII
 
-Wijzigt de Wet marktordening gezondheidszorg.
+Vervallen
 
 ##### Artikel XXXXIV
 
-Wijzigt de Wet op de economische delicten.
+Vervallen
 
 ##### Artikel XXXXV
 
-Wijzigt de Algemene wet bestuursrecht.
+Vervallen
 
 ##### Artikel XXXXVI
 
