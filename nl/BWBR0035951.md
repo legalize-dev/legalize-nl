@@ -4,7 +4,7 @@ identifier: "BWBR0035951"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-01-01"
-last_updated: "2015-01-01"
+last_updated: "2016-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0035951"
 soort: "ministeriele-regeling"
@@ -52,7 +52,7 @@ In deze regeling wordt verstaan onder:
 
 - –. **ADL-assistentie:** gedurende het gehele etmaal direct oproepbare assistentie bij algemene dagelijkse levensverrichtingen in en om de ADL-woning, waaronder alarmopvolging bij een noodoproep;
 
-- –. **ADL-cluster:** cluster als bedoeld in [artikel 1.3, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0035951&hoofdstuk=1&artikel=1.3&z=2015-01-01&g=2015-01-01);
+- –. **ADL-cluster:** cluster als bedoeld in [artikel 1.3, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0035951&hoofdstuk=1&artikel=1.3&z=2016-01-01&g=2016-01-01);
 
 - –. **ADL-eenheid:** ruimte in de omgeving van de ADL-woningen van waaruit de ADL-assistent wordt opgeroepen;
 
@@ -72,13 +72,15 @@ In deze regeling wordt verstaan onder:
 
 ##### Artikel 1.2
 
-Het Zorginstituut kan aan een ADL-aanbieder een subsidie verstrekken ten behoeve van het verlenen van ADL-assistentie aan verzekerden die:
+1. Het Zorginstituut kan aan een ADL-aanbieder een subsidie verstrekken ten behoeve van het verlenen van ADL-assistentie aan verzekerden die:
 
 - a. woonachtig zijn in een ADL-woning,
 
 - b. ten tijde van het verkrijgen van de ADL-assistentie beschikken over een oordeel van het CIZ en
 
 - c. in en om de ADL-woning uitsluitend ADL-assistentie ontvangen van de subsidieontvanger.
+
+2. Ten behoeve van een verzekerde als bedoeld in het eerste lid die een indicatiebesluit als bedoeld in [artikel 3.2.3 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0035917&artikel=3.2.3) ontvangt, wordt de subsidie voor het verlenen van ADL-assistentie ten hoogste gedurende een redelijke termijn verstrekt.
 
 ##### Artikel 1.3
 
@@ -114,25 +116,25 @@ De subsidie wordt per kalenderjaar verstrekt.
 
 ##### Artikel 1.6
 
-1. Het subsidieplafond voor het verstrekken van de subsidies bedraagt voor het jaar 2015 € 86.600.000.
+1. Het subsidieplafond voor het verstrekken van de subsidies bedraagt voor het jaar 2016 € 89.500.000.
 
-2. Het bedrag van de subsidie die voor het jaar 2015 ten hoogste wordt verleend aan een subsidieontvanger wordt berekend overeenkomstig de formule
+2. Het bedrag van de subsidie die voor het jaar 2016 ten hoogste wordt verleend aan een subsidieontvanger wordt berekend overeenkomstig de formule
 
-(A / B) x € 86.600.000
+(A / B) x € 89.500.000
 
 waarbij wordt verstaan onder:
 
-- A:. de som van:
+A: de som van:
 
-- 1°. het totaal aantal uren ADL-assistentie vermeld in de rekenstaat behorende bij de beschikking, bedoeld in [artikel 50 van de Wet marktordening gezondheidszorg](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=50), voor het jaar 2014 die ten tijde van de inwerkingtreding van deze regeling gold voor de subsidieontvanger en
+- 1°. het totaal aantal uren ADL-assistentie vermeld in de beschikking tot verlening van de subsidie op grond van deze regeling voor het jaar 2015 en
 
-- 2°. een raming van het aantal in 2015 te verlenen uren ADL-assistentie in en om een ADL-woning waarop de beschikking, bedoeld onder 1°, niet van toepassing is en waarmee het aantal ADL-woningen waar de subsidieontvanger ADL-assistentie aanbiedt is toegenomen;
+- 2°. een raming van het aantal in 2016 te verlenen uren ADL-assistentie in en om een ADL-woning waarop de beschikking, bedoeld onder 1°, niet van toepassing is en waarmee het aantal ADL-woningen waar de subsidieontvanger ADL-assistentie aanbiedt is toegenomen;
 
-- B:. de som van A voor alle subsidieontvangers.
+B: de som van A voor alle subsidieontvangers.
 
 3. De raming, bedoeld in het tweede lid, onderdeel A, onder 2°, wordt gebaseerd op het aantal ADL-woningen en een berekening van de behoefte aan ADL-assistentie in en om die woningen.
 
-4. De subsidie die aan een subsidieontvanger voor het jaar 2015 ten hoogste wordt verleend bedraagt niet meer dan het aantal uren ADL-assistentie, bedoeld in het tweede lid, onderdeel A, vermenigvuldigd met het uurtarief, bedoeld in [artikel 5.5](https://wetten.overheid.nl/jci1.3:c:BWBR0035951&hoofdstuk=5&artikel=5.5&z=2015-01-01&g=2015-01-01).
+4. De subsidie die aan een subsidieontvanger voor het jaar 2016 ten hoogste wordt verleend bedraagt niet meer dan het aantal uren ADL-assistentie, bedoeld in het tweede lid, onderdeel A, vermenigvuldigd met het uurtarief, bedoeld in [artikel 5.5](https://wetten.overheid.nl/jci1.3:c:BWBR0035951&hoofdstuk=5&artikel=5.5&z=2016-01-01&g=2016-01-01).
 
 ### Hoofdstuk 2. Aanvraag
 
@@ -140,7 +142,7 @@ waarbij wordt verstaan onder:
 
 1. De subsidie wordt op aanvraag verstrekt.
 
-2. Een aanvraag tot verlening van de subsidie wordt ontvangen uiterlijk dertien weken voor de aanvang van het jaar waarvoor de subsidie wordt aangevraagd.
+2. Een aanvraag tot verlening van de subsidie wordt ontvangen uiterlijk vier weken voor de aanvang van het jaar waarvoor de subsidie wordt aangevraagd.
 
 3. Een aanvraag die na de termijn, bedoeld in het vorige lid, wordt ontvangen wordt afgewezen.
 
@@ -148,9 +150,9 @@ waarbij wordt verstaan onder:
 
 De aanvrager doet in de aanvraag tot verlening van de subsidie opgave van:
 
-- a. het totaal aantal uren ADL-assistentie bedoeld in [artikel 1.6, tweede lid, onderdeel A, onder 1°](https://wetten.overheid.nl/jci1.3:c:BWBR0035951&hoofdstuk=1&artikel=1.6&z=2015-01-01&g=2015-01-01), en
+- a. het totaal aantal uren ADL-assistentie bedoeld in [artikel 1.6, tweede lid, onderdeel A, onder 1°](https://wetten.overheid.nl/jci1.3:c:BWBR0035951&hoofdstuk=1&artikel=1.6&z=2016-01-01&g=2016-01-01), en
 
-- b. de raming bedoeld in [artikel 1.6, tweede lid, onderdeel A, onder 2°](https://wetten.overheid.nl/jci1.3:c:BWBR0035951&hoofdstuk=1&artikel=1.6&z=2015-01-01&g=2015-01-01).
+- b. de raming bedoeld in [artikel 1.6, tweede lid, onderdeel A, onder 2°](https://wetten.overheid.nl/jci1.3:c:BWBR0035951&hoofdstuk=1&artikel=1.6&z=2016-01-01&g=2016-01-01).
 
 ##### Artikel 2.3
 
@@ -162,9 +164,9 @@ De aanvrager doet in de aanvraag tot verlening van de subsidie opgave van:
 
 1. De aanvraag tot verlening van de subsidie gaat vergezeld van:
 
-- a. afschriften van de beschikking en de bijbehorende rekenstaat, bedoeld in [artikel 1.6, tweede lid, onderdeel A, onder 1°](https://wetten.overheid.nl/jci1.3:c:BWBR0035951&hoofdstuk=1&artikel=1.6&z=2015-01-01&g=2015-01-01);
+- a. afschriften van de beschikking en de bijbehorende rekenstaat, bedoeld in [artikel 1.6, tweede lid, onderdeel A, onder 1°](https://wetten.overheid.nl/jci1.3:c:BWBR0035951&hoofdstuk=1&artikel=1.6&z=2016-01-01&g=2016-01-01);
 
-- b. stukken ter onderbouwing van de raming bedoeld in [artikel 1.6, tweede lid, onderdeel A, onder 2°](https://wetten.overheid.nl/jci1.3:c:BWBR0035951&hoofdstuk=1&artikel=1.6&z=2015-01-01&g=2015-01-01).
+- b. stukken ter onderbouwing van de raming bedoeld in [artikel 1.6, tweede lid, onderdeel A, onder 2°](https://wetten.overheid.nl/jci1.3:c:BWBR0035951&hoofdstuk=1&artikel=1.6&z=2016-01-01&g=2016-01-01).
 
 - c. een afschrift van de oprichtingsakte van de rechtspersoon dan wel van de statuten zoals deze laatstelijk zijn gewijzigd;
 
@@ -304,7 +306,7 @@ Het Zorginstituut kan bij de verlening van de subsidie verplichtingen opleggen a
 
 ##### Artikel 5.5
 
-De subsidie ten behoeve van het jaar 2015 wordt vastgesteld op het totaal aantal in dat jaar door de subsidieontvanger verleende uren ADL-assistentie vermenigvuldigd met € 60,10 tot ten hoogste het maximum bedrag van de verleende subsidie.
+De subsidie ten behoeve van het jaar 2016 wordt vastgesteld op het totaal aantal in dat jaar door de subsidieontvanger verleende uren ADL-assistentie vermenigvuldigd met € 60,10 tot ten hoogste het maximum bedrag van de verleende subsidie.
 
 ##### Artikel 5.6
 
@@ -314,11 +316,7 @@ Binnen tweeëntwintig weken na ontvangst van de aanvraag tot vaststelling van de
 
 ##### Artikel 6.1
 
-1. In afwijking van [artikel 2.1](https://wetten.overheid.nl/jci1.3:c:BWBR0035951&hoofdstuk=2&artikel=2.1&z=2015-01-01&g=2015-01-01) wordt een aanvraag ten behoeve van 2015 uiterlijk ingediend binnen vier weken na publicatie van deze regeling in de Staatscourant.
-
-2. In afwijking van [artikel 3.1](https://wetten.overheid.nl/jci1.3:c:BWBR0035951&hoofdstuk=3&artikel=3.1&z=2015-01-01&g=2015-01-01) besluit het Zorginstituut binnen acht weken na afloop van de termijn, bedoeld in het eerste lid, over de verlening van de subsidie.
-
-3. In afwijking van [artikel 4.1](https://wetten.overheid.nl/jci1.3:c:BWBR0035951&hoofdstuk=4&artikel=4.1&z=2015-01-01&g=2015-01-01) kan het Zorginstituut na ontvangst van de aanvraag ten behoeve van 2015 ambtshalve voorschotten verstrekken.
+Vervallen
 
 ##### Artikel 6.2
 
