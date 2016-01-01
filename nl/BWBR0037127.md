@@ -4,7 +4,7 @@ identifier: "BWBR0037127"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-04-01"
-last_updated: "2015-11-01"
+last_updated: "2016-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0037127"
 soort: "ministeriele-regeling"
@@ -112,7 +112,8 @@ Deze regeling wordt aangehaald als: Regeling elektronisch berichtenverkeer Belas
 |   | [Artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=8), eerste lid, jo. [artikel 9, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=9) | aangifte IB niet-winst | x |   |   |   |
 |   | idem | aangifte IB winst |   | x | SBR/Digipoort Belastingdienst advanced programming interface (BAPI) MijnBelastingdienst Ondernemers | PKI Overheid services certificaat BAPI-certificaat Door Belastingdienst verstrekte gebruikersnaam en wachtwoord |
 |   | idem | aangifte Vpb |   | x | SBR/Digipoort BAPI MijnBelastingdienst Ondernemers | PKI Overheid services certificaat BAPI-certificaat Door Belastingdienst verstrekte gebruikersnaam en wachtwoord |
-|   | Artikel 8, eerste lid, jo. [artikel 10, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=10) | aangifte loonbelasting |   | x | SBR/Digipoort BAPI File oriented service (FOS) MijnBelastingdienst Ondernemers | PKI Overheid services certificaat BAPI-certificaat PKI Overheid services certificaat Door Belastingdienst verstrekte gebruikersnaam en wachtwoord |
+|   | Artikel 8, eerste lid, jo. [artikel 10, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=10) | aangifte loonbelasting, met uitzondering van de aangifte voor de pseudo-eindheffing, bedoeld in [artikel 32bb van de Wet op de loonbelasting 1964](https://wetten.overheid.nl/jci1.3:c:BWBR0002471&artikel=32bb) |   | x | SBR/Digipoort BAPI File oriented service (FOS) MijnBelastingdienst Ondernemers | PKI Overheid services certificaat BAPI-certificaat PKI Overheid services certificaat Door Belastingdienst verstrekte gebruikersnaam en wachtwoord |
+|   | idem | aangifte voor de pseudo-eindheffing, bedoeld in artikel 32bb van de Wet op de loonbelasting 1964 | x |   |   |   |
 |   | idem | aangifte OB |   | x | SBR/Digipoort MijnBelastingdienst Ondernemers | PKI Overheid services certificaat Door Belastingdienst verstrekte gebruikersnaam en wachtwoord |
 |   | Artikel 8, eerste lid | aangifte voor alle andere belastingmiddelen | x |   |   |   |
 |   | Artikel 9, tweede lid | verzoek om uitstel aangifte (alle aanslagbelastingen) verlening uitstel | x |   |   |   |
@@ -148,7 +149,7 @@ Deze regeling wordt aangehaald als: Regeling elektronisch berichtenverkeer Belas
 | [Wet op de accijns](https://wetten.overheid.nl/jci1.3:c:BWBR0005251) |   | alle berichten in verband met de heffing en voldoening van accijns bij uitslag | x |   |   |   |
 |   |   | alle verzoeken en meldingen voor zover niet gedaan bij de aangifte en de op grond daarvan in voorkomend geval afgegeven voor bezwaar vatbare beschikkingen | x |   |   |   |
 | [Wet op de verbruiksbelasting van alcoholvrije dranken](https://wetten.overheid.nl/jci1.3:c:BWBR0005802) |   | alle berichten in verband met de heffing en voldoening van verbruiksbelasting op alcoholvrije dranken | x |   |   |   |
-| [Successiewet 1956](https://wetten.overheid.nl/jci1.3:c:BWBR0002226) |   | alle berichten in verband met de heffing van erf- en schenkbelasting | x |   |   |   |
+| [Successiewet 1956](onbekend) |   | alle berichten in verband met de heffing van erf- en schenkbelasting | x |   |   |   |
 | [Wet op belastingen van rechtsverkeer](https://wetten.overheid.nl/jci1.3:c:BWBR0002740) |   | alle berichten in verband met de heffing van overdrachts- en assurantiebelasting | x |   |   |   |
 | [Wet op de dividendbelasting 1965](https://wetten.overheid.nl/jci1.3:c:BWBR0002515) |   | alle berichten in verband met de heffing van dividendbelasting | x |   |   |   |
 | [Wet belastingen op milieugrondslag](https://wetten.overheid.nl/jci1.3:c:BWBR0007168) |   | alle berichten in verband met de heffing van de belasting op leidingwater, de afvalstoffenbelasting, de belasting op kolen en de energiebelasting | x |   |   |   |
