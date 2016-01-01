@@ -4,7 +4,7 @@ identifier: "BWBR0028497"
 country: "nl"
 rank: "wet_bes"
 publication_date: "2026-01-01"
-last_updated: "2013-07-01"
+last_updated: "2016-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0028497"
 soort: "wet-BES"
@@ -146,7 +146,7 @@ Vervallen
 
 4. Bij gedeeltelijke arbeidsongeschiktheid bedraagt het ongevallengeld per dag gedurende de in het tweede lid genoemde tijdvakken een in een evenredige verhouding tot het percentage van de arbeidsongeschiktheid staand deel van de in het tweede lid genoemde percentages van het loon per dag.
 
-5. De werknemer heeft geen recht op ongevallengeld over de zondagen, of de daarvoor voor hem in de plaats tredende vrije dagen, terwijl de werknemer voor wie een vijfdaagse werkweek geldt bovendien geen recht heeft op ongevallengeld over de vrije zaterdagen of de daarvoor voor hem in de plaats tredende vrije dagen.
+5. De werknemer heeft geen recht op ongevallengeld over de zondagen, of de daarvoor voor hem in de plaats tredende vrije dagen, terwijl de werknemer voor wie een werkweek van vijf dagen of minder geldt bovendien geen recht heeft op ongevallengeld over de vrije zaterdagen of de daarvoor voor hem in de plaats tredende vrije dagen.
 
 6. Wanneer de werknemer tijdens zijn arbeidsongeschiktheid van zijn werkgever loon ontvangt, wordt het ongevallengeld per dag verminderd met het bedrag, waarmede het ongevallengeld en het loon per dag tezamen het oorspronkelijke loon per dag overtreft.
 
@@ -186,7 +186,7 @@ Vervallen
 
 19. Voor zover het loon per dag meer heeft bedragen dan een door Onze Minister vastgesteld bedrag, blijft het bij de berekening van de uitkering buiten aanmerking.
 
-## Vaststelling der tegemoetkoming
+## Vaststelling van de uitkering
 
 ##### Artikel 6
 
@@ -260,7 +260,7 @@ geeft hij van deze bevindingen en zijn daaruit volgende voorschriften kennis aan
 
 ##### Artikel 8a
 
-Voor zover op grond van deze wet niet anders is bepaald is ten aanzien van de premieheffing op grond van [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0028497&artikel=8&z=2013-07-01&g=2013-07-01) en de invordering daarvan [hoofdstuk VIII van de Belastingwet BES](https://wetten.overheid.nl/jci1.3:c:BWBR0029244&hoofdstuk=VIII) van overeenkomstige toepassing.
+Voor zover op grond van deze wet niet anders is bepaald is ten aanzien van de premieheffing op grond van [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0028497&artikel=8&z=2016-01-01&g=2016-01-01) en de invordering daarvan [hoofdstuk VIII van de Belastingwet BES](https://wetten.overheid.nl/jci1.3:c:BWBR0029244&hoofdstuk=VIII) van overeenkomstige toepassing.
 
 ##### Artikel 8b
 
@@ -398,21 +398,21 @@ Alle op grond van deze wet opgemaakte of overgelegde stukken, verzoekschriften e
 
 ##### Artikel 14a
 
-1. Op overtreding van [artikel 11, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028497&artikel=11&z=2013-07-01&g=2013-07-01), en het niet of niet tijdig nakomen van een van de verplichtingen gesteld bij de [artikelen 5, twaalfde lid, eerste zin](https://wetten.overheid.nl/jci1.3:c:BWBR0028497&artikel=5&z=2013-07-01&g=2013-07-01), [6, eerste lid, tweede zin](https://wetten.overheid.nl/jci1.3:c:BWBR0028497&artikel=6&z=2013-07-01&g=2013-07-01), [8h](https://wetten.overheid.nl/jci1.3:c:BWBR0028497&artikel=8h&z=2013-07-01&g=2013-07-01), [12, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028497&artikel=12&z=2013-07-01&g=2013-07-01), en krachtens [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0028497&artikel=13&z=2013-07-01&g=2013-07-01) wordt een boete geheven van de tweede categorie.
+1. Op overtreding van [artikel 11, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028497&artikel=11&z=2016-01-01&g=2016-01-01), en het niet of niet tijdig nakomen van een van de verplichtingen gesteld bij de [artikelen 5, twaalfde lid, eerste zin](https://wetten.overheid.nl/jci1.3:c:BWBR0028497&artikel=5&z=2016-01-01&g=2016-01-01), [6, eerste lid, tweede zin](https://wetten.overheid.nl/jci1.3:c:BWBR0028497&artikel=6&z=2016-01-01&g=2016-01-01), [8h](https://wetten.overheid.nl/jci1.3:c:BWBR0028497&artikel=8h&z=2016-01-01&g=2016-01-01), [12, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028497&artikel=12&z=2016-01-01&g=2016-01-01), en krachtens [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0028497&artikel=13&z=2016-01-01&g=2016-01-01) wordt een boete geheven van de tweede categorie.
 
-2. Onder het niet voldoen aan de verplichtingen van [artikel 12, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028497&artikel=12&z=2013-07-01&g=2013-07-01), wordt mede verstaan het verstrekken van inlichtingen die onjuist zijn.
+2. Onder het niet voldoen aan de verplichtingen van [artikel 12, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028497&artikel=12&z=2016-01-01&g=2016-01-01), wordt mede verstaan het verstrekken van inlichtingen die onjuist zijn.
 
 3. Indien er sprake is van herhaling van eenzelfde overtreding binnen twee jaar wordt het maximum van de boetes, genoemd in het eerste lid, verdubbeld.
 
 4. De boete wordt geheven door een beschikking van Onze Minister.
 
-## Strafbepalingen
+## Overgangs- en slotbepalingen
 
 ##### Artikel 15
 
-1. Overtreding van [artikel 11, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028497&artikel=11&z=2013-07-01&g=2013-07-01), en het niet of niet tijdig nakomen van een van de verplichtingen gesteld bij de [artikelen 5, twaalfde lid, eerste zin](https://wetten.overheid.nl/jci1.3:c:BWBR0028497&artikel=5&z=2013-07-01&g=2013-07-01), [6, eerste lid, tweede zin](https://wetten.overheid.nl/jci1.3:c:BWBR0028497&artikel=6&z=2013-07-01&g=2013-07-01), [8h](https://wetten.overheid.nl/jci1.3:c:BWBR0028497&artikel=8h&z=2013-07-01&g=2013-07-01), [12, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028497&artikel=12&z=2013-07-01&g=2013-07-01) en krachtens [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0028497&artikel=13&z=2013-07-01&g=2013-07-01) wordt gestraft met hechtenis van ten hoogste een maand of geldboete van de derde categorie.
+1. Overtreding van [artikel 11, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028497&artikel=11&z=2016-01-01&g=2016-01-01), en het niet of niet tijdig nakomen van een van de verplichtingen gesteld bij de [artikelen 5, twaalfde lid, eerste zin](https://wetten.overheid.nl/jci1.3:c:BWBR0028497&artikel=5&z=2016-01-01&g=2016-01-01), [6, eerste lid, tweede zin](https://wetten.overheid.nl/jci1.3:c:BWBR0028497&artikel=6&z=2016-01-01&g=2016-01-01), [8h](https://wetten.overheid.nl/jci1.3:c:BWBR0028497&artikel=8h&z=2016-01-01&g=2016-01-01), [12, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028497&artikel=12&z=2016-01-01&g=2016-01-01) en krachtens [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0028497&artikel=13&z=2016-01-01&g=2016-01-01) wordt gestraft met hechtenis van ten hoogste een maand of geldboete van de derde categorie.
 
-2. Het opzettelijk, mondeling of schriftelijk verstrekken of doen verstrekken van inlichtingen als bedoeld in [artikel 12, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028497&artikel=12&z=2013-07-01&g=2013-07-01), die onjuist zijn alsmede het afleggen van een valse verklaring aan Onze Minister, wordt gestraft met gevangenisstraf van ten hoogste één jaar of een geldboete van de derde categorie.
+2. Het opzettelijk, mondeling of schriftelijk verstrekken of doen verstrekken van inlichtingen als bedoeld in [artikel 12, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028497&artikel=12&z=2016-01-01&g=2016-01-01), die onjuist zijn alsmede het afleggen van een valse verklaring aan Onze Minister, wordt gestraft met gevangenisstraf van ten hoogste één jaar of een geldboete van de derde categorie.
 
 3. Het opzettelijk door giften, beloften, misbruik van gezag, geweld, bedreiging of misleiding bewegen van een werknemer om geen gebruik te maken van een hem op grond van deze wet toekomend recht wordt gestraft met gevangenisstraf van ten hoogste één jaar of geldboete van de derde categorie.
 
@@ -443,3 +443,29 @@ Deze wet wordt aangehaald als: Wet ongevallenverzekering BES.
 ## Strafbepalingen
 
 ## Overgangs- en slotbepalingen
+
+##### Artikel 1a
+
+Bij of krachtens algemene maatregel van bestuur kan een uitbreiding dan wel een beperking worden gegeven ten aanzien van degene die als werknemer wordt beschouwd:
+
+- a. ten aanzien van vreemdelingen;
+
+- b. ter voorkoming van samenloop op grond van deze wet met een overeenkomstige regeling buiten de openbare lichamen Bonaire, Sint Eustatius of Saba;
+
+- c. in de gevallen van tijdelijk verblijf of tijdelijke werkzaamheden binnen de openbare lichamen Bonaire, Sint Eustatius of Saba;
+
+- d. ten aanzien van echtgenoten en overige gezinsleden van de werknemer en van de in de onderdelen b en c bedoelde personen.
+
+## Vaststelling van het loon per dag
+
+## Uitkeringen
+
+## Geneeskundige behandeling en verpleging
+
+## Vorderingen en aansprakelijkheid
+
+## Uitvoering, inlichtingen en toezicht
+
+## Administratieve sancties
+
+## Strafbepalingen
