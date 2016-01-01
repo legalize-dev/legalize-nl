@@ -4,7 +4,7 @@ identifier: "BWBR0024795"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-10-15"
-last_updated: "2015-11-27"
+last_updated: "2016-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0024795"
 soort: "ministeriele-regeling"
@@ -72,13 +72,13 @@ Deze budgetten worden jaarlijks toegevoegd aan de landelijk beschikbare budgette
 
 ##### Artikel 2.1.2. Begroting, verslaglegging, informatie en toezicht
 
-1. Het bepaalde bij of krachtens [paragraaf 1 van titel 5 van hoofdstuk 2 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&paragraaf=1) is van overeenkomstige toepassing op de instituten, bedoeld in [artikel 2.1.1](https://wetten.overheid.nl/jci1.3:c:BWBR0024795&hoofdstuk=2&paragraaf=1&artikel=2.1.1&z=2015-11-27&g=2015-11-27).
+1. Het bepaalde bij of krachtens [paragraaf 1 van titel 5 van hoofdstuk 2 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&paragraaf=1) is van overeenkomstige toepassing op de instituten, bedoeld in [artikel 2.1.1](https://wetten.overheid.nl/jci1.3:c:BWBR0024795&hoofdstuk=2&paragraaf=1&artikel=2.1.1&z=2016-01-01&g=2016-01-01).
 
-2. Het bepaalde bij of krachtens [hoofdstuk 5 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0010646&hoofdstuk=5), alsmede de [Bijlagen 1](https://wetten.overheid.nl/jci1.3:c:BWBR0010646&bijlage=1), [1c](https://wetten.overheid.nl/jci1.3:c:BWBR0010646&bijlage=1C) en [4 behorende bij het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0010646&bijlage=4), is van overeenkomstige toepassing op de instituten, bedoeld in [artikel 2.1.1](https://wetten.overheid.nl/jci1.3:c:BWBR0024795&hoofdstuk=2&paragraaf=1&artikel=2.1.1&z=2015-11-27&g=2015-11-27).
+2. Het bepaalde bij of krachtens [hoofdstuk 5 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0010646&hoofdstuk=5), alsmede de [Bijlagen 1](https://wetten.overheid.nl/jci1.3:c:BWBR0010646&bijlage=1), [1c](https://wetten.overheid.nl/jci1.3:c:BWBR0010646&bijlage=1C) en [4 behorende bij het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0010646&bijlage=4), is van overeenkomstige toepassing op de instituten, bedoeld in [artikel 2.1.1](https://wetten.overheid.nl/jci1.3:c:BWBR0024795&hoofdstuk=2&paragraaf=1&artikel=2.1.1&z=2016-01-01&g=2016-01-01).
 
 ##### Artikel 2.1.3. Voorschriften [WEB](https://wetten.overheid.nl/jci1.3:c:BWBR0007625) die van toepassing zijn op de Instituten voor doven
 
-De instituten, bedoeld in [artikel 2.1.1](https://wetten.overheid.nl/jci1.3:c:BWBR0024795&hoofdstuk=2&paragraaf=1&artikel=2.1.1&z=2015-11-27&g=2015-11-27), nemen voor de beroepsopleidingen verzorgd aan die instituten in acht hetgeen bij of krachtens de [wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007625) is bepaald ten aanzien van:
+De instituten, bedoeld in [artikel 2.1.1](https://wetten.overheid.nl/jci1.3:c:BWBR0024795&hoofdstuk=2&paragraaf=1&artikel=2.1.1&z=2016-01-01&g=2016-01-01), nemen voor de beroepsopleidingen verzorgd aan die instituten in acht hetgeen bij of krachtens de [wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007625) is bepaald ten aanzien van:
 
 - a. de taken van de instellingen ten aanzien van het beroepsonderwijs, bedoeld in [artikel 1.3.5 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=1.3.5);
 
@@ -122,13 +122,13 @@ De instituten, bedoeld in [artikel 2.1.1](https://wetten.overheid.nl/jci1.3:c:BW
 
 ##### Artikel 2.2.2. Begroting, verslaglegging, informatie en toezicht
 
-1. Het bepaalde bij of krachtens [paragraaf 1 van titel 5 van hoofdstuk 2 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&paragraaf=1) is van overeenkomstige toepassing op de hogeschool, bedoeld in [artikel 2.2.1](https://wetten.overheid.nl/jci1.3:c:BWBR0024795&hoofdstuk=2&paragraaf=2&artikel=2.2.1&z=2015-11-27&g=2015-11-27).
+1. Het bepaalde bij of krachtens [paragraaf 1 van titel 5 van hoofdstuk 2 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&paragraaf=1) is van overeenkomstige toepassing op de hogeschool, bedoeld in [artikel 2.2.1](https://wetten.overheid.nl/jci1.3:c:BWBR0024795&hoofdstuk=2&paragraaf=2&artikel=2.2.1&z=2016-01-01&g=2016-01-01).
 
-2. Het bepaalde bij of krachtens [hoofdstuk 5 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0010646&hoofdstuk=5), alsmede de [Bijlagen 1](https://wetten.overheid.nl/jci1.3:c:BWBR0010646&bijlage=1), [1c](https://wetten.overheid.nl/jci1.3:c:BWBR0010646&bijlage=1C) en [4 behorende bij het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0010646&bijlage=4) is van overeenkomstige toepassing op de hogeschool, bedoeld in [artikel 2.2.1](https://wetten.overheid.nl/jci1.3:c:BWBR0024795&hoofdstuk=2&paragraaf=2&artikel=2.2.1&z=2015-11-27&g=2015-11-27).
+2. Het bepaalde bij of krachtens [hoofdstuk 5 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0010646&hoofdstuk=5), alsmede de [Bijlagen 1](https://wetten.overheid.nl/jci1.3:c:BWBR0010646&bijlage=1), [1c](https://wetten.overheid.nl/jci1.3:c:BWBR0010646&bijlage=1C) en [4 behorende bij het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0010646&bijlage=4) is van overeenkomstige toepassing op de hogeschool, bedoeld in [artikel 2.2.1](https://wetten.overheid.nl/jci1.3:c:BWBR0024795&hoofdstuk=2&paragraaf=2&artikel=2.2.1&z=2016-01-01&g=2016-01-01).
 
 ##### Artikel 2.2.3. Voorschriften [WEB](https://wetten.overheid.nl/jci1.3:c:BWBR0007625) die van toepassing zijn op hogeschool Haarlem dan wel diens rechtsopvolgers
 
-De hogeschool, bedoeld in [artikel 2.2.1](https://wetten.overheid.nl/jci1.3:c:BWBR0024795&hoofdstuk=2&paragraaf=2&artikel=2.2.1&z=2015-11-27&g=2015-11-27), neemt voor de beroepsopleidingen verzorgd door die hogeschool, in acht hetgeen bij of krachtens de [wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007625) is bepaald ten aanzien van:
+De hogeschool, bedoeld in [artikel 2.2.1](https://wetten.overheid.nl/jci1.3:c:BWBR0024795&hoofdstuk=2&paragraaf=2&artikel=2.2.1&z=2016-01-01&g=2016-01-01), neemt voor de beroepsopleidingen verzorgd door die hogeschool, in acht hetgeen bij of krachtens de [wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007625) is bepaald ten aanzien van:
 
 - a. de taken van de instellingen ten aanzien van het beroepsonderwijs, bedoeld in [artikel 1.3.5 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=1.3.5);
 
@@ -168,7 +168,7 @@ De hogeschool, bedoeld in [artikel 2.2.1](https://wetten.overheid.nl/jci1.3:c:BW
 
 1. Het bedrag ten behoeve van de huisvestingskosten, bedoeld in [artikel 2.4.1, tweede lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0010646&artikel=2.4.1), bedraagt € 496,– per leerling aan een school voor voortgezet onderwijs als bedoeld in [artikel 1 van de Wet op het voortgezet onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0002399&artikel=1).
 
-2. Het bedrag ten behoeve van de huisvestingskosten, bedoeld in [artikel 2.4.1, derde lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0010646&artikel=2.4.1), bedraagt € 469,33 per leerling verbonden aan het voorbereidend beroepsonderwijs, verzorgd aan een agrarisch opleidingscentrum als bedoeld in [artikel 1.3.3 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=1.3.3).
+2. Het bedrag ten behoeve van de huisvestingskosten, bedoeld in [artikel 2.4.1, derde lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0010646&artikel=2.4.1), bedraagt € 540,– per leerling verbonden aan het voorbereidend beroepsonderwijs, verzorgd aan een agrarisch opleidingscentrum als bedoeld in [artikel 1.3.3 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=1.3.3).
 
 3. De bedragen, bedoeld in het eerste en tweede lid, kunnen worden aangepast in verband met uit de rijksbegroting voortvloeiende maatregelen.
 
@@ -184,7 +184,7 @@ De hogeschool, bedoeld in [artikel 2.2.1](https://wetten.overheid.nl/jci1.3:c:BW
 
 - d. indien de formatie van een agrarisch opleidingscentrum, berekend volgens deze regeling zoals die luidde op 1 januari 2011, hoger was dan die volgens deze regeling zoals deze luidt op 1 januari 2012, dan wordt het verschil voor het bekostigingsjaar 2012 toegevoegd aan de formatie van dat agrarisch opleidingscentrum. Voor het bekostigingsjaar 2013 wordt 75% van het verschil toegevoegd, voor het jaar 2014 50% en voor het jaar 2015 25%.
 
-2. De prijs per leerling verbonden aan het voorbereidend beroepsonderwijs en leerwegondersteunend onderwijs als bedoeld in [artikel 2.3.2 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0010646&artikel=2.3.2) bedraagt per 1 januari 2015:
+2. De prijs per leerling verbonden aan het voorbereidend beroepsonderwijs en leerwegondersteunend onderwijs als bedoeld in [artikel 2.3.2 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0010646&artikel=2.3.2) bedraagt voor het jaar 2015:
 
 - a. voor de leerling voorbereidend beroepsonderwijs € 6.860,24, bestaande uit een component voor personele kosten ad € 5.740,14 en een component voor materiële kosten ad € 1.120,10;
 
@@ -268,7 +268,7 @@ In deze formule wordt verstaan onder:
 
 5. Indien de uitkomst van het onderdeel (Ht – Nt) van de formule, bedoeld in het vierde lid, negatief is, wordt het verzoek om een aanvullende vergoeding afgewezen.
 
-##### Artikel 5.2. Wijzigingen [artikel 2.2.1](https://wetten.overheid.nl/jci1.3:c:BWBR0024795&hoofdstuk=2&paragraaf=2&artikel=2.2.1&z=2015-11-27&g=2015-11-27) en [2.2.3](https://wetten.overheid.nl/jci1.3:c:BWBR0024795&hoofdstuk=2&paragraaf=2&artikel=2.2.3&z=2015-11-27&g=2015-11-27) in verband met invoering leerlinggebonden financiering MBO
+##### Artikel 5.2. Wijzigingen [artikel 2.2.1](https://wetten.overheid.nl/jci1.3:c:BWBR0024795&hoofdstuk=2&paragraaf=2&artikel=2.2.1&z=2016-01-01&g=2016-01-01) en [2.2.3](https://wetten.overheid.nl/jci1.3:c:BWBR0024795&hoofdstuk=2&paragraaf=2&artikel=2.2.3&z=2016-01-01&g=2016-01-01) in verband met invoering leerlinggebonden financiering MBO
 
 Wijzigt deze regeling.
 
@@ -314,7 +314,21 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 ##### Artikel 3.1.2a
 
-Dit onderdeel is nog niet inwerking getreden
+1. De vaste voet per instelling, bedoeld in [artikel 2.3.2, eerste lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0010646&artikel=2.3.2), wordt voor het jaar 2016 berekend door elke vaste formatieplaats te vermenigvuldigen met een bedrag van € 57.960,06. De vaste formatie wordt als volgt vastgesteld:
+
+- a. één formatieplaats per agrarisch opleidingscentrum; en
+
+- b. een halve formatieplaats per vestiging waar per 1 augustus voorafgaand aan het desbetreffende jaar voorbereidend beroepsonderwijs in de afdeling landbouw, natuurlijke omgeving en voedsel wordt verzorgd;
+
+- c. indien twee of meer agrarische opleidingscentra een fusie met elkaar aangaan, behoudt het agrarisch opleidingscentrum dat ten gevolge van de fusie tot stand komt het aantal formatieplaatsen, bedoeld in het eerste lid onder a. en b., dat ieder van de agrarische opleidingscentra afzonderlijk voor de fusie had, voor een periode van drie jaren na het jaar waarin de fusie plaatsvond;
+
+2. De prijs per leerling verbonden aan het voorbereidend beroepsonderwijs en leerwegondersteunend onderwijs als bedoeld in [artikel 2.3.2 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0010646&artikel=2.3.2) bedraagt voor het jaar 2016:
+
+- a. voor de leerling voorbereidend beroepsonderwijs € 6.789,70, bestaande uit een component voor personele kosten ad € 5.682,71 en een component voor materiële kosten ad € 1.106,99;
+
+- b. voor de leerling leerwegondersteunend onderwijs € 11.064,95, bestaande uit een component voor personele kosten ad € 9.783,10 en een component voor materiële kosten ad € 1.281,85;
+
+3. het ondersteuningsbedrag per leerling verbonden aan het voorbereidend beroepsonderwijs en leerwegondersteunend onderwijs als bedoeld in [artikel 2.3.2 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0010646&artikel=2.3.2) bedraagt voor het jaar 2016 € 4.275,25.
 
 #### § 2. Overgangsvoorschriften bekostiging
 
