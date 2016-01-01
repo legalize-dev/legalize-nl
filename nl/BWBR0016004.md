@@ -4,7 +4,7 @@ identifier: "BWBR0016004"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2017-10-27"
-last_updated: "2015-07-01"
+last_updated: "2016-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0016004"
 soort: "ministeriele-regeling"
@@ -62,13 +62,13 @@ Besluit:
 
 ##### Artikel 3. In mindering brengen
 
-1. Op het aantal dagen, bedoeld in [artikel 2, eerste en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0016004&artikel=2&z=2015-07-01&g=2015-07-01), wordt in mindering gebracht:
+1. Op het aantal dagen, bedoeld in [artikel 2, eerste en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0016004&artikel=2&z=2016-01-01&g=2016-01-01), wordt in mindering gebracht:
 
 - a. vijf maal het aantal hele weken voor de eerste werkloosheidsdag in het desbetreffende kalenderjaar, gedeeld door 13;
 
 - b. het aantal dagen waarop de werknemer in het desbetreffende kalenderjaar vakantie heeft genoten met behoud van zijn recht op uitkering op grond van de [Werkloosheidswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004045), met uitzondering van vakantiedagen die tevens nationale of christelijke feestdagen zijn.
 
-2. Op het aantal dagen, bedoeld in [artikel 2, tweede en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0016004&artikel=2&z=2015-07-01&g=2015-07-01), wordt in mindering gebracht:
+2. Op het aantal dagen, bedoeld in [artikel 2, tweede en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0016004&artikel=2&z=2016-01-01&g=2016-01-01), wordt in mindering gebracht:
 
 - a. vijf maal het aantal hele weken voor de eerste dag waarop recht op een uitkering op grond van de [Wet inkomensvoorziening oudere werklozen](https://wetten.overheid.nl/jci1.3:c:BWBR0024394) bestond in het desbetreffende kalenderjaar, gedeeld door 13;
 
@@ -98,6 +98,6 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 ##### Artikel 1a. Aanvulling wettelijke grondslag
 
-Deze regeling berust mede op [artikel 6, zesde lid, van de Wet inkomensvoorziening oudere werklozen](https://wetten.overheid.nl/jci1.3:c:BWBR0024394&artikel=6).
+Deze regeling berust mede op de [artikelen 19, achtste lid, van de Werkloosheidswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&artikel=19) en [6, zesde lid, van de Wet inkomensvoorziening oudere werklozen](https://wetten.overheid.nl/jci1.3:c:BWBR0024394&artikel=6).
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
