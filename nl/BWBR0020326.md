@@ -4,7 +4,7 @@ identifier: "BWBR0020326"
 country: "nl"
 rank: "amvb"
 publication_date: "2025-01-01"
-last_updated: "2015-04-11"
+last_updated: "2016-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0020326"
 soort: "AMvB"
@@ -56,11 +56,13 @@ In dit besluit wordt verstaan onder wet: [Wet marktordening gezondheidszorg](htt
 
 1. Als zorg in de zin van de [wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020078) worden aangewezen de werkzaamheden van:
 
-- a. de SBOH, voor zover het betreft de toepassing van [artikel 56a van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=56a) ten behoeve van de opleiding tot huisartsen en van de opleiding tot specialisten ouderengeneeskunde;
+- a. de Stichting Beroeps Opleiding Huisartsen, voor zover het betreft de toepassing van [artikel 56a van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=56a) ten behoeve van de opleiding tot huisarts, specialist ouderengeneeskunde, en arts voor verstandelijk gehandicapten;
 
 - b. instellingen waarvan de werkzaamheden zijn gericht op donatie of transplantatie van weefsel of organen;
 
-- c. personen ingeschreven in een register als bedoeld in [artikel 3 van de Wet op de beroepen in de individuele gezondheidszorg](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&artikel=3) of door personen als bedoeld in [artikel 34 van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&artikel=34), voor zover het betreft werkzaamheden in het kader van hun beroepsuitoefening met uitzondering van bedrijfsgeneeskundige zorg of verzekeringsgeneeskundige zorg, al dan niet onder eigen verantwoordelijkheid uitgevoerd, en die niet zijn begrepen onder [artikel 1, onder b, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=1).
+- c. personen ingeschreven in een register als bedoeld in [artikel 3 van de Wet op de beroepen in de individuele gezondheidszorg](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&artikel=3) of door personen als bedoeld in [artikel 34 van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&artikel=34), voor zover het betreft werkzaamheden in het kader van hun beroepsuitoefening met uitzondering van bedrijfsgeneeskundige zorg of verzekeringsgeneeskundige zorg, al dan niet onder eigen verantwoordelijkheid uitgevoerd, en die niet zijn begrepen onder [artikel 1, onder b, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=1);
+
+- d. de Stichting Beroepsopleiding tot Sportarts, voor zover het betreft de toepassing van [artikel 56a van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=56a) ten behoeve van de opleiding tot sportarts.
 
 2. Als zorg in de zin van de wet worden tevens aangewezen werkzaamheden in het kader van de verlening van zorg die krachtens [artikel 3, vierde lid, van het Interimbesluit forensische zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0029333&artikel=3) bij ministeriële regeling als forensische zorg is aangemerkt.
 
@@ -106,11 +108,7 @@ In dit besluit wordt verstaan onder wet: [Wet marktordening gezondheidszorg](htt
 
 - a. de zorg, bedoeld in het eerste lid, onderdeel e en h tot en met l geleverd wordt door of vanwege een instelling in de zin van de [Wet toelating zorginstellingen](https://wetten.overheid.nl/jci1.3:c:BWBR0018906) of deel uitmaakt van een prestatie of geheel van prestaties waarvoor een tarief in rekening wordt gebracht; of
 
-- b. het vervoer betreft:
-
-- 1°. bedoeld in [artikel 2.13 van het Besluit zorgverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0018492&artikel=2.13); of
-
-- 2°. bedoeld in [artikel 2.14 van het Besluit zorgverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0018492&artikel=2.14), van een minderjarige in verband met zorg als bedoeld in [artikel 2.10, tweede lid, van dat besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0018492&artikel=2.10).
+- b. het vervoer betreft als bedoeld in [artikel 2.13 van het Besluit zorgverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0018492&artikel=2.13).
 
 ##### Artikel 4
 
