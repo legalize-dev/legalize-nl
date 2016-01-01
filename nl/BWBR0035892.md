@@ -4,7 +4,7 @@ identifier: "BWBR0035892"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2016-01-01"
-last_updated: "2015-01-01"
+last_updated: "2016-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0035892"
 soort: "ministeriele-regeling"
@@ -42,9 +42,9 @@ Besluit:
 
 ##### Artikel 1. Gegevenslevering door lokale bibliotheken
 
-1. Ten behoeve van de beleidsontwikkeling door de Minister van Onderwijs, Cultuur en Wetenschap levert een lokale bibliotheek jaarlijks gegevens over het voorgaande kalenderjaar aan.
+1. Ten behoeve van de beleidsontwikkeling door de Minister van Onderwijs, Cultuur en Wetenschap levert een lokale bibliotheek jaarlijks gegevens over het voorgaande kalenderjaar aan. In afwijking van de eerste volzin kan op de website, bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0035892&artikel=5&z=2016-01-01&g=2016-01-01), worden aangegeven dat bepaalde gegevens meerjaarlijks worden aangeleverd.
 
-2. De aan te leveren gegevens staan vermeld in de bij deze regeling gevoegde [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBR0035892&bijlage=I&z=2015-01-01&g=2015-01-01) en zijn onderverdeeld in de volgende categorieën:
+2. De aan te leveren gegevens staan vermeld in de bij deze regeling gevoegde [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBR0035892&bijlage=I&z=2016-01-01&g=2016-01-01) en zijn onderverdeeld in de volgende categorieën:
 
 - a. voorzieningen;
 
@@ -54,15 +54,17 @@ Besluit:
 
 - d. lidmaatschap en bezoek;
 
-- e. personeel;
+- e. invulling van kernfuncties en dienstverlening;
 
-- f. baten en lasten.
+- f. personeel;
+
+- g. baten en lasten.
 
 ##### Artikel 2. Gegevenslevering landelijke digitale bibliotheek
 
-1. Ten behoeve van de beleidsontwikkeling door de Minister van Onderwijs, Cultuur en Wetenschap levert de Koninklijke Bibliotheek jaarlijks gegevens over de landelijke digitale bibliotheek over het voorgaande kalenderjaar aan.
+1. Ten behoeve van de beleidsontwikkeling door de Minister van Onderwijs, Cultuur en Wetenschap levert de Koninklijke Bibliotheek jaarlijks gegevens over de landelijke digitale bibliotheek over het voorgaande kalenderjaar aan. In afwijking van de eerste volzin kan op de website, bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0035892&artikel=5&z=2016-01-01&g=2016-01-01), worden aangegeven dat bepaalde gegevens meerjaarlijks worden aangeleverd.
 
-2. De aan te leveren gegevens staan vermeld in de bij deze regeling gevoegde [bijlage II](https://wetten.overheid.nl/jci1.3:c:BWBR0035892&bijlage=II&z=2015-01-01&g=2015-01-01) en zijn onderverdeeld in de volgende categorieën:
+2. De aan te leveren gegevens staan vermeld in de bij deze regeling gevoegde [bijlage II](https://wetten.overheid.nl/jci1.3:c:BWBR0035892&bijlage=II&z=2016-01-01&g=2016-01-01) en zijn onderverdeeld in de volgende categorieën:
 
 - a. collectie;
 
@@ -72,19 +74,23 @@ Besluit:
 
 ##### Artikel 3. Gegevenslevering provinciale ondersteuningsinstellingen
 
-1. Ten behoeve van de beleidsontwikkeling door de Minister van Onderwijs, Cultuur en Wetenschap levert een provinciale ondersteuningsinstelling jaarlijks gegevens over het voorgaande kalenderjaar aan.
+1. Ten behoeve van de beleidsontwikkeling door de Minister van Onderwijs, Cultuur en Wetenschap levert een provinciale ondersteuningsinstelling jaarlijks gegevens over het voorgaande kalenderjaar aan. In afwijking van de eerste volzin kan op de website, bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0035892&artikel=5&z=2016-01-01&g=2016-01-01), worden aangegeven dat bepaalde gegevens meerjaarlijks worden aangeleverd.
 
-2. De aan te leveren gegevens staan vermeld in de bij deze regeling gevoegde [bijlage III](https://wetten.overheid.nl/jci1.3:c:BWBR0035892&bijlage=III&z=2015-01-01&g=2015-01-01) en zijn onderverdeeld in de volgende categorieën:
+2. De aan te leveren gegevens staan vermeld in de bij deze regeling gevoegde [bijlage III](https://wetten.overheid.nl/jci1.3:c:BWBR0035892&bijlage=III&z=2016-01-01&g=2016-01-01) en zijn onderverdeeld in de volgende categorieën:
 
 - a. voorzieningen;
 
 - b. interbibliothecaire leenverkeer;
 
-- c. overige ondersteuningsactiviteiten.
+- c. ontwikkeling van innovaties ten behoeve van lokale bibliotheken;
+
+- d. functioneren van het netwerk;
+
+- e. baten en lasten.
 
 ##### Artikel 4. Aanleverdatum
 
-1. De lokale bibliotheken, provinciale ondersteuningsinstellingen en de Koninklijke Bibliotheek leveren de gegevens jaarlijks voor 1 mei aan.
+1. De lokale bibliotheken, provinciale ondersteuningsinstellingen en de Koninklijke Bibliotheek leveren de gegevens in enig jaar voor 1 mei aan.
 
 2. De eerste aanlevering van de gegevens door de lokale bibliotheken en de Koninklijke Bibliotheek vindt plaats in het jaar 2016 en de eerste aanlevering door de provinciale ondersteuningsinstellingen vindt plaats in 2017.
 
@@ -100,7 +106,7 @@ Deze regeling treedt in werking met ingang van 1 januari 2015.
 
 Deze regeling wordt aangehaald als: Regeling gegevenslevering openbare bibliotheekvoorzieningen.
 
-## Bijlage I. : Lokale bibliotheken
+## Bijlage I. Lokale bibliotheken
 
 De volgende gegevens worden aangeleverd door lokale bibliotheken. Voor zover niet anders vermeld gaat het bij aantallen om de stand op 31 december van het jaar waarover de gegevens worden aangeleverd.
 
@@ -110,21 +116,15 @@ Aantal gemeente(n) in verzorgingsgebied
 
 Gemeente(n) in het verzorgingsgebied waaraan bibliotheekdiensten worden geleverd
 
-Aantal publieke PC's met toegang tot internet
+Aantal en type vestigingen
 
 Beschikbaarheid WIFI in bibliotheek voor bezoekers
-
-Aantal publieke PC's met toegang tot het Basispakket Digitale Content
-
-Aantal informatiepunten in bibliotheek, naar type
-
-### b. Collectie
 
 Bezit: boeken jeugd (fictie)
 
 Bezit: boeken jeugd (non-fictie, inclusief naslag)
 
-Bezit: boeken volwassenen (fictie)
+### b. Collectie
 
 Bezit: boeken volwassenen (non-fictie, inclusief naslag)
 
@@ -140,13 +140,13 @@ Aanschaf: boeken volwassenen (non-fictie, inclusief naslag)
 
 Aanschaf: overig, naar type
 
-### c. Uitleningen
+Aanschaf: boeken volwassenen (fictie)
 
 Uitleningen: boeken jeugd (fictie; exclusief verlenging)
 
 Uitleningen: boeken jeugd (non-fictie, inclusief naslag; exclusief verlenging)
 
-Uitleningen: boeken jeugd via Bibliotheek op school; (fictie; exclusief verlening)
+### c. Uitleningen
 
 Uitleningen: boeken jeugd via Bibliotheek op school; (non-fictie; exclusief verlening)
 
@@ -162,13 +162,13 @@ Aangevraagde materialen bij andere organisaties
 
 Aangevraagde materialen door andere organisaties
 
-### d. Lidmaatschap en bezoek
+Aantal reserveringen
 
 Totaal aantal jeugdleden (leeftijd t/m 17 jaar)
 
 Totaal aantal volwassen leden (leeftijd 18 jaar en ouder)
 
-Aantal nieuwe jeugdleden (leeftijd t/m 17 jaar)
+### d. Lidmaatschap en bezoek
 
 Aantal nieuwe volwassen leden (leeftijd 18 jaar en ouder)
 
@@ -182,7 +182,31 @@ Aantal bezoekers op website
 
 Leeftijd tot waarop jeugdleden (t/m 17 jaar) gratis mogen lenen
 
+Aantal drempeloverschrijdingen
+
+Aantal informatiepunten in bibliotheek, naar type
+
+Aantal ontvangen informatieve aanvragen
+
 ### e. Personeel
+
+Samenwerking met voor- en vroegschoolse educatie instellingen (waaronder kinderopvang en peuterspeelzaal)
+
+Samenwerking met overige (publieke) partners (waaronder educatief, cultureel en zorg en welzijn)
+
+Samenwerking met private en commerciële partners
+
+Dienstverlening basisvaardigheden (waaronder in ieder geval leesbevordering en laaggeletterdheid) voor jeugd en volwassenen
+
+Dienstverlening kunst en cultuur
+
+Dienstverlening zorg en welzijn
+
+Dienstverlening integratie en inburgering
+
+Dienstverlening persoonlijke ontwikkeling en leven lang leren
+
+Aantal personeelsleden niet in loondienst (fulltimers, exclusief vrijwilligers)
 
 Aantal personeelsleden betaald (vast dienstverband in loondienst: fulltimers)
 
@@ -194,7 +218,7 @@ Aantal personeelsleden betaald (tijdelijk dienstverband in loondienst: fulltimer
 
 Aantal personeelsleden betaald (tijdelijk dienstverband in loondienst: parttimers)
 
-Omvang personeelsbestand betaald in fte (tijdelijk dienstverband in loondienst)
+### f. Baten en lasten
 
 Aantal personeelsleden in loondienst van het mannelijke geslacht
 
@@ -212,7 +236,7 @@ Totaal aantal uren per week ingezet door vrijwilligers
 
 Opbouw personeelsbestand, naar leeftijdscategorie
 
-### f. Baten en lasten
+Subsidie: provinciale subsidie
 
 Inkomsten gebruikers
 
@@ -244,11 +268,11 @@ Kosten personeel niet in loondienst.
 
 Kosten met betrekking tot studie en deskundigheidsbevordering
 
-Administratiekosten
+## Bijlage II. Landelijke digitale bibliotheek
 
 Transportkosten
 
-Automatiseringskosten
+### a. Collectie
 
 Kosten collectie en media
 
@@ -262,17 +286,17 @@ Toevoeging reserves en voorzieningen
 
 Dotatie algemene reserve
 
-## Bijlage II. Landelijke digitale bibliotheek
+Aanschaf: e-boeken jeugd (non-fictie, inclusief naslag)
 
 De volgende gegevens worden aangeleverd door de Koninklijke Bibliotheek. Voor zover niet anders vermeld gaat het bij aantallen om de stand op 31 december van het jaar waarover de gegevens worden aangeleverd.
 
-### a. Collectie
+Aanschaf: e-boeken volwassenen (non-fictie, inclusief naslag)
 
 Bezit: e-boeken jeugd (fictie)
 
 Bezit: e-boeken jeugd (non-fictie, inclusief naslag)
 
-Bezit: e-boeken volwassenen (fictie)
+### b. Gebruik
 
 Bezit: e-boeken volwassenen (non-fictie, inclusief naslag)
 
@@ -288,9 +312,9 @@ Aanschaf: e-boeken volwassenen (non-fictie, inclusief naslag)
 
 Aanschaf: overig, naar type
 
-Overlap met fysieke collectie
+### c. Lidmaatschap
 
-### b. Gebruik
+Aantal accounts jeugd (t/m 17 jaar)
 
 Uitleningen: e-boeken jeugd (fictie; exclusief verlenging)
 
@@ -305,6 +329,48 @@ Uitleningen: overig, naar type (exclusief verlenging)
 Aantal websitebezoeken
 
 Gebruik aangeboden diensten, naar type
+
+## Bijlage III
+
+Niet opgenomen.
+
+Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
+
+### b. Collectie
+
+Bezit: boeken volwassenen (fictie)
+
+### c. Uitleningen
+
+Uitleningen: boeken jeugd via Bibliotheek op school; (fictie; exclusief verlening)
+
+### d. Lidmaatschap en bezoek
+
+Aantal nieuwe jeugdleden (leeftijd t/m 17 jaar)
+
+### e. Invulling van kernfuncties en dienstverlening
+
+Samenwerking met scholen, naar type dienstverlening per school
+
+### f. Personeel
+
+Omvang personeelsbestand betaald in fte (tijdelijk dienstverband in loondienst)
+
+### g. Baten en lasten
+
+Administratiekosten
+
+Automatiseringskosten
+
+## Bijlage II. Landelijke digitale bibliotheek
+
+### a. Collectie
+
+Bezit: e-boeken volwassenen (fictie)
+
+Overlap met fysieke collectie
+
+### b. Gebruik
 
 ### c. Lidmaatschap
 
@@ -324,8 +390,48 @@ Aantal vervallen accounts jeugd (t/m 17 jaar)
 
 Aantal vervallen accounts volwassenen
 
-## Bijlage III
+## Bijlage III. Provinciale ondersteuningsinstellingen
 
-Niet opgenomen.
+### a. Voorzieningen
+
+Overzicht bibliotheekorganisaties in het verzorgingsgebied met bibliotheekdiensten, naar soort
+
+Aantal netwerken per provincie (gezamenlijke collectie, catalogus en lenersadministratie)
+
+Aantal bibliotheekorganisaties per netwerk
+
+### b. Interbibliothecair leenverkeer
+
+Aantal vervoerde fysieke media, naar soort (binnen provincie en tussen provincies)
+
+Aantal aanvragen binnen provincie en tussen provincies
+
+Aantal afleverpunten, binnen provincie en tussen provincies
+
+### c. Ontwikkeling van innovaties ten behoeve van lokale bibliotheken
+
+Ontwikkeling programma’s en projecten ten behoeve van innovatie, naar soort, sector en domein
+
+### d. Functioneren van het netwerk
+
+Aantal en soort ondersteunende taken gericht op een gezamenlijke catalogus
+
+Aantal en soort ondersteunende taken gericht op het gezamenlijke collectieplan (Koninklijke Bibliotheek)
+
+Aantal en soort ondersteunende taken gericht op een op elkaar afgestemde gezamenlijke administratie en digitale infrastructuur
+
+Aantal en soort ondersteunende taken gericht op onderwijs
+
+### e. Baten en lasten
+
+Provinciale subsidie met betrekking tot taken op grond van de Wet stelsel openbare bibliotheekvoorzieningen
+
+Inkomsten met betrekking tot taken op grond van de Wet stelsel openbare bibliotheekvoorzieningen
+
+Kosten interbibliothecair leenverkeer
+
+Kosten ontwikkeling innovatie
+
+Kosten netwerktaken
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
