@@ -4,7 +4,7 @@ identifier: "BWBR0028500"
 country: "nl"
 rank: "ministeriele_regeling_bes"
 publication_date: "2016-01-01"
-last_updated: "2010-10-10"
+last_updated: "2016-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0028500"
 soort: "ministeriele-regeling-BES"
@@ -39,13 +39,15 @@ Gelet op [artikel 3, eerste lid, onderdeel i](https://wetten.overheid.nl/jci1.3:
 
 Besluit:
 
+Treedt in werking op het tijdstip waarop artikel I, tweede lid, van de Rijkswet wijziging Statuut in verband met de opheffing van de Nederlandse Antillen in werking treedt.
+
 #### § 1. Begripsbepalingen
 
 ##### Artikel 1
 
 In deze regeling wordt verstaan onder
 
-- a. **algemeen weerbericht:** algemeen weerbericht, bedoeld in de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0028500&paragraaf=1&artikel=2&z=2010-10-10&g=2010-10-10) en [3](https://wetten.overheid.nl/jci1.3:c:BWBR0028500&paragraaf=1&artikel=3&z=2010-10-10&g=2010-10-10);
+- a. **algemeen weerbericht:** algemeen weerbericht, bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0028500&paragraaf=1&artikel=3&z=2016-01-01&g=2016-01-01);
 
 - b. **gezaghebber:** gezaghebber, bedoeld in [artikel 5, van de Wet openbare lichamen Bonaire, Sint Eustatius en Saba](https://wetten.overheid.nl/jci1.3:c:BWBR0028142&artikel=5);
 
@@ -55,7 +57,7 @@ In deze regeling wordt verstaan onder
 
 ##### Artikel 2
 
-Het KNMI heeft mede als taak het voor de samenleving beschikbaar maken, houden en stellen van een algemeen weerbericht dat betrekking heeft op de openbare lichamen Bonaire, Sint Eustatius en Saba.
+Aan de zorgplichten, bedoeld in [artikel 3, eerste lid, onderdelen a en b, van de Wet taken meteorologie en seismologie](https://wetten.overheid.nl/jci1.3:c:BWBR0037074&artikel=3), wordt namens de minister uitvoering gegeven door het agentschap KNMI.
 
 ##### Artikel 3
 
@@ -81,13 +83,13 @@ Tot het algemeen weerbericht behoren, voor zover betrekking hebbend op of gevolg
 
 ##### Artikel 4
 
-De hoofddirecteur stelt het algemeen weerbericht of onderdelen daarvan om niet beschikbaar aan een ieder, in het bijzonder aan:
+De hoofddirecteur van het KNMI stelt het algemeen weerbericht of onderdelen daarvan om niet beschikbaar aan een ieder, in het bijzonder aan:
 
 - a. omroepen en uitgevers die via openbare media en communicatiemiddelen in weersinformatie voorzien;
 
 - b. de gezaghebbers van de onderscheiden openbare lichamen;
 
-- c. Onze Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer, Onze Minister van Binnenlandse Zaken en Koninkrijkrelaties;
+- c. de minister van Infrastructuur en Milieu, de minister van Binnenlandse Zaken en Koninkrijkrelaties;
 
 - d. organisaties die zijn belast met de scheepvaartbegeleiding, het beheer van waterstaatkundige werken of die belast zijn met de voorbereiding op en de bestrijding van calamiteiten waarbij het weer een belangrijke rol speelt, en
 
@@ -101,7 +103,7 @@ Het algemeen weerbericht en onderdelen daarvan worden beschikbaar gesteld met be
 
 ##### Artikel 6
 
-[Artikel 3, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0028500&paragraaf=1&artikel=3&z=2010-10-10&g=2010-10-10), bevat informatie over de volgende weersverschijnselen:
+[Artikel 3, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0028500&paragraaf=1&artikel=3&z=2016-01-01&g=2016-01-01), bevat informatie over de volgende weersverschijnselen:
 
 - a. de neerslagsoort, de mate van zonneschijn of de mate van bewolking;
 
@@ -115,7 +117,7 @@ Het algemeen weerbericht en onderdelen daarvan worden beschikbaar gesteld met be
 
 ##### Artikel 7
 
-[Artikel 3, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0028500&paragraaf=1&artikel=3&z=2010-10-10&g=2010-10-10), bevat de volgende informatie:
+[Artikel 3, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0028500&paragraaf=1&artikel=3&z=2016-01-01&g=2016-01-01), bevat de volgende informatie:
 
 - a. de hoeveelheid neerslag in de voorafgaande periode van 24 uren;
 
@@ -127,7 +129,7 @@ Het algemeen weerbericht en onderdelen daarvan worden beschikbaar gesteld met be
 
 ##### Artikel 8
 
-[Artikel 3, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0028500&paragraaf=1&artikel=3&z=2010-10-10&g=2010-10-10), bevat de volgende informatie:
+[Artikel 3, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0028500&paragraaf=1&artikel=3&z=2016-01-01&g=2016-01-01), bevat de volgende informatie:
 
 - a. de mate van zonneschijn of bewolking;
 
@@ -143,7 +145,7 @@ Het algemeen weerbericht en onderdelen daarvan worden beschikbaar gesteld met be
 
 ##### Artikel 9
 
-[Artikel 3, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0028500&paragraaf=1&artikel=3&z=2010-10-10&g=2010-10-10), bevat de volgende informatie:
+[Artikel 3, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0028500&paragraaf=1&artikel=3&z=2016-01-01&g=2016-01-01), bevat de volgende informatie:
 
 - a. een korte typerende beschrijving van het te verwachten weer;
 
@@ -157,7 +159,7 @@ Het algemeen weerbericht en onderdelen daarvan worden beschikbaar gesteld met be
 
 ##### Artikel 10
 
-[Artikel 3, onderdeel e](https://wetten.overheid.nl/jci1.3:c:BWBR0028500&paragraaf=1&artikel=3&z=2010-10-10&g=2010-10-10), bevat de volgende informatie:
+[Artikel 3, onderdeel e](https://wetten.overheid.nl/jci1.3:c:BWBR0028500&paragraaf=1&artikel=3&z=2016-01-01&g=2016-01-01), bevat de volgende informatie:
 
 - a. de weersituatie;
 
@@ -177,7 +179,7 @@ Het algemeen weerbericht en onderdelen daarvan worden beschikbaar gesteld met be
 
 ##### Artikel 11
 
-1. [Artikel 3, onderdeel f](https://wetten.overheid.nl/jci1.3:c:BWBR0028500&paragraaf=1&artikel=3&z=2010-10-10&g=2010-10-10), bevat in voorkomende gevallen de volgende informatie:
+1. [Artikel 3, onderdeel f](https://wetten.overheid.nl/jci1.3:c:BWBR0028500&paragraaf=1&artikel=3&z=2016-01-01&g=2016-01-01), bevat in voorkomende gevallen de volgende informatie:
 
 - a. de melding dat sprake is van een windsnelheid van 39 km per uur of meer;
 
@@ -191,7 +193,7 @@ Het algemeen weerbericht en onderdelen daarvan worden beschikbaar gesteld met be
 
 ##### Artikel 12
 
-1. [Artikel 3, onderdeel g](https://wetten.overheid.nl/jci1.3:c:BWBR0028500&paragraaf=1&artikel=3&z=2010-10-10&g=2010-10-10), bevat in voorkomende gevallen de volgende informatie:
+1. [Artikel 3, onderdeel g](https://wetten.overheid.nl/jci1.3:c:BWBR0028500&paragraaf=1&artikel=3&z=2016-01-01&g=2016-01-01), bevat in voorkomende gevallen de volgende informatie:
 
 - a. zwaar onweer binnen een straal van 15 km;
 
@@ -209,23 +211,21 @@ Het algemeen weerbericht en onderdelen daarvan worden beschikbaar gesteld met be
 
 ##### Artikel 13
 
-1. [Artikel 3, onderdeel h](https://wetten.overheid.nl/jci1.3:c:BWBR0028500&paragraaf=1&artikel=3&z=2010-10-10&g=2010-10-10), bevat in voorkomende gevallen de volgende informatie:
+1. [Artikel 3, onderdeel h](https://wetten.overheid.nl/jci1.3:c:BWBR0028500&paragraaf=1&artikel=3&z=2016-01-01&g=2016-01-01), bevat in voorkomende gevallen de volgende informatie:
 
 - a. meteorologische gegevens en adviezen ten behoeve van de preparatie op of de bestrijding van weersafhankelijke calamiteiten;
 
 - b. meteorologische gegevens en adviezen met betrekking tot de verspreiding van gevaarlijke stoffen die tijdens de biologische, chemische of nucleaire calamiteiten vrijkomen of kunnen vrijkomen in de atmosfeer of in de zee.
 
-2. Onverminderd [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0028500&paragraaf=2&artikel=4&z=2010-10-10&g=2010-10-10), worden berichten en adviezen als bedoeld in het eerste lid, in het bijzonder verstrekt aan de gezaghebber en overheids- of andere instanties die op het grondgebied van de openbare lichamen zijn belast met de zorg voor de veiligheid.
+2. Onverminderd [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0028500&paragraaf=2&artikel=4&z=2016-01-01&g=2016-01-01), worden berichten en adviezen als bedoeld in het eerste lid, in het bijzonder verstrekt aan de gezaghebber en overheids- of andere instanties die op het grondgebied van de openbare lichamen zijn belast met de zorg voor de veiligheid.
 
 #### § 4. Eisen aan apparatuur en personeel
 
 ##### Artikel 14
 
-1. De meteorologisch dienstverlener die de in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0028500&paragraaf=1&artikel=2&z=2010-10-10&g=2010-10-10) bedoelde taak uitvoert, draagt er zorg voor dat apparatuur die hiervoor in gebruik is, betrouwbaar is, nauwkeurig werkt en op een geschikte plaatsis opgesteld. De gebruikte apparatuur voldoet aan de eisen van publicatienummer 8 van de WMO.
+1. De meteorologisch dienstverlener die de in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0028500&paragraaf=1&artikel=2&z=2016-01-01&g=2016-01-01) bedoelde taak uitvoert, draagt er zorg voor dat apparatuur die hiervoor in gebruik is, betrouwbaar is, nauwkeurig werkt en op een geschikte plaatsis opgesteld. De gebruikte apparatuur voldoet aan de eisen van publicatienummer 8 van de WMO.
 
-2. Medewerkers die werkzaamheden uitvoeren ten behoeve van de in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0028500&paragraaf=1&artikel=2&z=2010-10-10&g=2010-10-10) bedoelde taak, zijn gekwalificeerd uitgaande van ten minste de eisen van de WMO vastgelegd in publicatienummer 258 van de WMO.
-
-3. De in het eerste en tweede lid genoemde eisen gelden tevens als eisen van geschiktheid of bekwaamheid als bedoeld in [artikel 3a, tweede lid, onderdeel a, van de Wet op het Koninklijk Nederlands Meteorologisch Instituut](https://wetten.overheid.nl/jci1.3:c:BWBR0012952&artikel=3a).
+2. Medewerkers die werkzaamheden uitvoeren ten behoeve van de in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0028500&paragraaf=1&artikel=2&z=2016-01-01&g=2016-01-01) bedoelde taak, zijn gekwalificeerd uitgaande van ten minste de eisen van de WMO vastgelegd in publicatienummer 258 van de WMO.
 
 #### § 5. Slotbepalingen
 
@@ -236,5 +236,19 @@ Deze regeling treedt in werking op het tijdstip waarop [artikel I, tweede lid, v
 ##### Artikel 16
 
 Deze regeling wordt aangehaald als: Regeling algemeen weerbericht BES 2010.
+
+Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
+
+##### Artikel 1a
+
+Deze regeling berust op [artikel 3, tweede lid, aanhef en onderdelen a en b, en derde lid, van de Wet taken meteorologie en seismologie](https://wetten.overheid.nl/jci1.3:c:BWBR0037074&artikel=3).
+
+#### § 2. Beschikbaarstelling van het algemeen weerbericht
+
+#### § 3. Inhoud van het algemeen weerbericht
+
+#### § 4. Eisen aan apparatuur en personeel
+
+#### § 5. Slotbepalingen
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
