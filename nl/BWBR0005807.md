@@ -4,7 +4,7 @@ identifier: "BWBR0005807"
 country: "nl"
 rank: "amvb"
 publication_date: "2025-01-01"
-last_updated: "2015-01-01"
+last_updated: "2016-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0005807"
 soort: "AMvB"
@@ -86,7 +86,7 @@ Hebben goedgevonden en verstaan:
 
 - -. bestuurder, vennoot of aandeelhouder zijn van een onderneming, opgericht in de vorm van een vennootschap,
 
-een en ander mits de eigenaar of houder niet een werknemer is als bedoeld in [artikel 2, eerste lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0005807&artikel=2&z=2015-01-01&g=2015-01-01).
+een en ander mits de eigenaar of houder niet een werknemer is als bedoeld in [artikel 2, eerste lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0005807&artikel=2&z=2016-01-01&g=2016-01-01).
 
 2. De vrijstelling wordt slechts verleend indien:
 
@@ -94,15 +94,15 @@ een en ander mits de eigenaar of houder niet een werknemer is als bedoeld in [ar
 
 - b. het motorrijtuig blijkens een kilometerregistratie voor ten minste 50% zakelijk buiten Nederland wordt gebruikt; het zakelijk gebruik buiten Nederland wordt per kalenderjaar bepaald, waarbij de afstand die wordt overbrugd van de woonplaats naar de in het buitenland gelegen werkplaats en omgekeerd buiten beschouwing blijft.
 
-3. [Artikel 2, tweede tot en met zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005807&artikel=2&z=2015-01-01&g=2015-01-01), is van overeenkomstige toepassing.
+3. [Artikel 2, tweede tot en met zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005807&artikel=2&z=2016-01-01&g=2016-01-01), is van overeenkomstige toepassing.
 
 ##### Artikel 4
 
-1. Vrijstelling van belasting wordt in andere gevallen dan bedoeld in de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0005807&artikel=2&z=2015-01-01&g=2015-01-01), [3](https://wetten.overheid.nl/jci1.3:c:BWBR0005807&artikel=3&z=2015-01-01&g=2015-01-01) en [3a](https://wetten.overheid.nl/jci1.3:c:BWBR0005807&artikel=3a&z=2015-01-01&g=2015-01-01) verleend voor uit een ander land afkomstige personenauto’s, motorrijwielen en bestelauto’s indien ter zake van het in het vrije verkeer brengen daarvan aanspraak op vrijstelling van rechten bij invoer bestaat, of zou bestaan indien de vervoermiddelen uit een ander land dan een lidstaat van de Europese Unie in het vrije verkeer zouden zijn gebracht, onder de daarbij gestelde voorwaarden en beperkingen.
+1. Vrijstelling van belasting wordt in andere gevallen dan bedoeld in de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0005807&artikel=2&z=2016-01-01&g=2016-01-01), [3](https://wetten.overheid.nl/jci1.3:c:BWBR0005807&artikel=3&z=2016-01-01&g=2016-01-01) en [3a](https://wetten.overheid.nl/jci1.3:c:BWBR0005807&artikel=3a&z=2016-01-01&g=2016-01-01) verleend voor uit een ander land afkomstige personenauto’s, motorrijwielen en bestelauto’s indien ter zake van het in het vrije verkeer brengen daarvan aanspraak op vrijstelling van rechten bij invoer bestaat, of zou bestaan indien de vervoermiddelen uit een ander land dan een lidstaat van de Europese Unie in het vrije verkeer zouden zijn gebracht, onder de daarbij gestelde voorwaarden en beperkingen.
 
 2. Indien aanspraak op vrijstelling van rechten bij invoer bestaat of zou bestaan ter zake van de wederinvoer van een personenauto, een motorrijwiel of een bestelauto, wordt de vrijstelling slechts verleend indien wordt aangetoond dat de belasting vóór de overbrenging naar het buitenland daadwerkelijk is betaald en niet ter zake van de overbrenging naar het buitenland is teruggegeven.
 
-3. Indien voor de in het eerste lid bedoelde personenauto’s, motorrijwielen en bestelauto’s vrijstelling van rechten bij invoer wordt gevraagd overeenkomstig de daarvoor geldende bepalingen, dient de desbetreffende aanvraag tevens het verzoek om vrijstelling van belasting te bevatten. In andere gevallen is [artikel 2, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005807&artikel=2&z=2015-01-01&g=2015-01-01), van overeenkomstige toepassing.
+3. Indien voor de in het eerste lid bedoelde personenauto’s, motorrijwielen en bestelauto’s vrijstelling van rechten bij invoer wordt gevraagd overeenkomstig de daarvoor geldende bepalingen, dient de desbetreffende aanvraag tevens het verzoek om vrijstelling van belasting te bevatten. In andere gevallen is [artikel 2, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005807&artikel=2&z=2016-01-01&g=2016-01-01), van overeenkomstige toepassing.
 
 4. In de gevallen waarin vrijstelling van belasting is verleend op de voet van het eerste lid, wordt, indien ingevolge de bepalingen op grond waarvan de vrijstelling van rechten bij invoer is verleend of zou worden verleend de rechten bij invoer verschuldigd is of zou worden, tevens de belasting verschuldigd.
 
@@ -152,15 +152,11 @@ De in [artikel 15 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005806&ar
 
 1. De in [artikel 15, eerste lid, aanhef en onderdeel d, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005806&artikel=15) bedoelde teruggaaf wordt slechts verleend, indien:
 
-- a. de personenauto is ingericht voor het vervoeren van zieken en gewonden, is uiterlijk herkenbaar als ambulance en is voorzien van:
-
-- –. een meertonige hoorn;
-
-- –. een duidelijk zichtbaar blauw zwaai- of knipperlicht;
+- a. de personenauto ingericht is voor het vervoeren van zieken of gewonden en uiterlijk herkenbaar is als ambulance;
 
 - b. de personenauto wordt gebruikt door de Regionale Ambulancevoorziening, bedoeld in [artikel 4 van de Tijdelijke wet ambulancezorg](https://wetten.overheid.nl/jci1.3:c:BWBR0031557&artikel=4), of bij de ambulancezorg waarvoor op grond van [artikel 11 van de Tijdelijke wet ambulancezorg](https://wetten.overheid.nl/jci1.3:c:BWBR0031557&artikel=11) vrijstelling is verleend; en
 
-- c. de personenauto uitsluitend wordt gebruikt voor het vervoer van zieken en gewonden en het verlenen van spoedeisende medische hulp.
+- c. de personenauto uitsluitend wordt gebruikt voor het vervoer van zieken of gewonden of het verlenen van spoedeisende medische hulp.
 
 2. De in [artikel 15, vierde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005806&artikel=15) bedoelde aangifte wordt gedaan indien niet meer wordt voldaan aan de voorwaarden en beperkingen in het eerste lid, of indien het motorrijtuig binnen vijf jaren na het tijdstip waarop het recht op teruggaaf is ontstaan, wordt afgestoten.
 
@@ -170,11 +166,9 @@ De in [artikel 15 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005806&ar
 
 - a. direct achter de bestuurderszitplaats een vaste wand is aangebracht over de gehele breedte van de personenauto of de bestelauto;
 
-- b. de achterruimte niet is voorzien van zitplaatsen en veiligheidsgordels;
+- b. de achterruimte niet is voorzien van zitplaatsen en veiligheidsgordels; en
 
-- c. de achterruimte geheel is voorzien van een verhoogde laadvloer; en
-
-- d. de personenauto of de bestelauto uitsluitend wordt gebruikt voor het vervoer van stoffelijke overschotten.
+- c. de personenauto of de bestelauto uitsluitend wordt gebruikt voor het vervoer van stoffelijke overschotten.
 
 2. De in [artikel 15, vierde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005806&artikel=15) bedoelde aangifte wordt gedaan indien niet meer wordt voldaan aan de voorwaarden en beperkingen in het eerste lid, of indien het motorrijtuig binnen acht jaren na het tijdstip waarop het recht op teruggaaf is ontstaan, wordt afgestoten.
 
@@ -296,7 +290,7 @@ Lasten en bevelen dat dit besluit met daarbij behorende nota van toelichting in 
 
 - a. bij het verzoek worden overgelegd:
 
-- –. bescheiden waaruit blijkt dat de gehandicapte beschikt over een rolstoel als bedoeld in [artikel 15a, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005806&artikel=15a) die is verstrekt in het kader van een beschikking ingevolge de [Wet maatschappelijke ondersteuning 2015](https://wetten.overheid.nl/jci1.3:c:BWBR0035362&wetgeving) of een beschikking van het Uitvoeringsinstituut werknemersverzekeringen, bedoeld in [artikel 2, eerste lid, van de Wet structuur uitvoeringsorganisaties werk en inkomen](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&artikel=2), dan wel waarvoor hij beschikt over een verklaring van een arts die is afgegeven ten hoogste zes weken voorafgaand aan de datum van indiening van het verzoek, dat hij voor zijn vervoer is aangewezen op het gebruik van een dergelijke rolstoel;
+- –. bescheiden waaruit blijkt dat de gehandicapte beschikt over een rolstoel als bedoeld in [artikel 15a, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005806&artikel=15a) die is verstrekt in het kader van een beschikking ingevolge de [Wet maatschappelijke ondersteuning 2015](https://wetten.overheid.nl/jci1.3:c:BWBR0035362) of een beschikking van het Uitvoeringsinstituut werknemersverzekeringen, bedoeld in [artikel 2, eerste lid, van de Wet structuur uitvoeringsorganisaties werk en inkomen](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&artikel=2), dan wel waarvoor hij beschikt over een verklaring van een arts die is afgegeven ten hoogste zes weken voorafgaand aan de datum van indiening van het verzoek, dat hij voor zijn vervoer is aangewezen op het gebruik van een dergelijke rolstoel;
 
 - –. een afschrift van de kentekencard of van de delen I en II, de delen I en I B of deel I A en B van het kentekenbewijs dat ingevolge [artikel 36, tweede lid, van de Wegenverkeerswet 1994](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=36) is afgegeven voor de bestelauto; en
 
@@ -314,7 +308,7 @@ Bij wijziging van de tenaamstelling van de bestelauto blijft [artikel 13a, derde
 
 - a. de bestelauto waarvoor ingevolge [artikel 13a van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005806&artikel=13a) vrijstelling van belasting is verleend, binnen vijf jaren na het tijdstip waarop de bestelauto is ingeschreven en te naam gesteld in het kentekenregister, op naam wordt gesteld van een ondernemer die voldoet aan de voorwaarden genoemd in [artikel 13a, eerste en tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005806&artikel=13a), en
 
-- b. in de administratie van de ondernemer op wiens naam de bestelauto daarvoor in het kentekenregister te naam was gesteld een verklaring is opgenomen waarin deze ondernemer en de in onderdeel a bedoelde ondernemer ten aanzien van de bestelauto verklaren, dat de in onderdeel a bedoelde ondernemer voor de toepassing van [artikel 13a](https://wetten.overheid.nl/jci1.3:c:BWBR0005807&artikel=13a&z=2015-01-01&g=2015-01-01) in de plaats treedt van de ondernemer op wiens naam de bestelauto daarvoor in het kentekenregister te naam was gesteld.
+- b. in de administratie van de ondernemer op wiens naam de bestelauto daarvoor in het kentekenregister te naam was gesteld een verklaring is opgenomen waarin deze ondernemer en de in onderdeel a bedoelde ondernemer ten aanzien van de bestelauto verklaren, dat de in onderdeel a bedoelde ondernemer voor de toepassing van [artikel 13a](https://wetten.overheid.nl/jci1.3:c:BWBR0005807&artikel=13a&z=2016-01-01&g=2016-01-01) in de plaats treedt van de ondernemer op wiens naam de bestelauto daarvoor in het kentekenregister te naam was gesteld.
 
 ##### Artikel 3a
 
@@ -360,7 +354,7 @@ Bij wijziging van de tenaamstelling van de bestelauto blijft [artikel 13a, derde
 
 - d. bij het verzoek bescheiden worden overgelegd waaruit blijkt dat het motorrijtuig is geregistreerd in een andere lidstaat van de Europese Unie of een staat die partij is bij de Overeenkomst betreffende de Europese Economische Ruimte, alsmede bescheiden waaruit blijkt vanaf welk tijdstip het motorrijtuig niet langer in Nederland feitelijk ter beschikking staat van de in Nederland wonende natuurlijke persoon of gevestigd lichaam.
 
-2. [Artikel 4a, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005807&artikel=4a&z=2015-01-01&g=2015-01-01), is van overeenkomstige toepassing.
+2. [Artikel 4a, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005807&artikel=4a&z=2016-01-01&g=2016-01-01), is van overeenkomstige toepassing.
 
 Lasten en bevelen dat dit besluit met daarbij behorende nota van toelichting in het **Staatsblad** zal worden geplaatst en dat daarvan afschrift zal worden gezonden aan de Raad van State.
 
