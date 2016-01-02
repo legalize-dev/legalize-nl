@@ -4,7 +4,7 @@ identifier: "BWBR0037423"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2016-01-02"
-last_updated: "2015-12-24"
+last_updated: "2016-01-02"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0037423"
 soort: "ministeriele-regeling"
@@ -54,8 +54,8 @@ Wijzigt de Regeling aanwijzing consumenten- en theatervuurwerk.
 
 ##### Artikel III
 
-1. Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst, met uitzondering van [Artikel I, onderdeel A, onder 6](https://wetten.overheid.nl/jci1.3:c:BWBR0037423&artikel=I&z=2015-12-24&g=2015-12-24).
+1. Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst, met uitzondering van [Artikel I, onderdeel A, onder 6](https://wetten.overheid.nl/jci1.3:c:BWBR0037423&artikel=I&z=2016-01-02&g=2016-01-02).
 
-2. [Artikel I, onderdeel A, onder 6](https://wetten.overheid.nl/jci1.3:c:BWBR0037423&artikel=I&z=2015-12-24&g=2015-12-24), treedt in werking met ingang van 2 januari 2016.
+2. [Artikel I, onderdeel A, onder 6](https://wetten.overheid.nl/jci1.3:c:BWBR0037423&artikel=I&z=2016-01-02&g=2016-01-02), treedt in werking met ingang van 2 januari 2016.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
