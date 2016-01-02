@@ -4,7 +4,7 @@ identifier: "BWBR0027932"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-12-01"
-last_updated: "2015-12-24"
+last_updated: "2016-01-02"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0027932"
 soort: "ministeriele-regeling"
@@ -44,7 +44,7 @@ Besluit:
 
 In deze regeling wordt verstaan onder:
 
-**bijlage:** bij deze regeling behorende [bijlage](https://wetten.overheid.nl/jci1.3:c:BWBR0027932&bijlage=I&z=2015-12-24&g=2015-12-24);
+**bijlage:** bij deze regeling behorende [bijlage](https://wetten.overheid.nl/jci1.3:c:BWBR0027932&bijlage=I&z=2016-01-02&g=2016-01-02);
 
 **burstlading:** pyrotechnische stoffen of preparaten welke zijn bedoeld om het vuurwerk open te rijten en de effectlading te verspreiden en zo nodig te ontsteken;
 
@@ -74,7 +74,7 @@ In deze regeling wordt verstaan onder:
 
 ##### Artikel 2
 
-1. Als consumentenvuurwerk wordt aangewezen vuurwerk dat behoort tot een in [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBR0027932&bijlage=I&z=2015-12-24&g=2015-12-24) of [II](https://wetten.overheid.nl/jci1.3:c:BWBR0027932&bijlage=II&z=2015-12-24&g=2015-12-24) genoemde categorie en voldoet aan de volgende eisen:
+1. Als consumentenvuurwerk wordt aangewezen vuurwerk dat behoort tot een in [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBR0027932&bijlage=I&z=2016-01-02&g=2016-01-02) of [II](https://wetten.overheid.nl/jci1.3:c:BWBR0027932&bijlage=II&z=2016-01-02&g=2016-01-02) genoemde categorie en voldoet aan de volgende eisen:
 
 - a. het vuurwerk is bestemd om het in de bijlage bij de betrokken categorie aangegeven effect te bewerkstelligen;
 
@@ -98,11 +98,11 @@ In deze regeling wordt verstaan onder:
 
 ##### Artikel 3
 
-Als fop- en schertsvuurwerk wordt aangewezen vuurwerk dat behoort tot een in [bijlage II](https://wetten.overheid.nl/jci1.3:c:BWBR0027932&bijlage=II&z=2015-12-24&g=2015-12-24) genoemde categorie en voldoet aan de in [artikel 2, eerste lid, onder a, b en d](https://wetten.overheid.nl/jci1.3:c:BWBR0027932&artikel=2&z=2015-12-24&g=2015-12-24), bedoelde eisen.
+Als fop- en schertsvuurwerk wordt aangewezen vuurwerk dat behoort tot een in [bijlage II](https://wetten.overheid.nl/jci1.3:c:BWBR0027932&bijlage=II&z=2016-01-02&g=2016-01-02) genoemde categorie en voldoet aan de in [artikel 2, eerste lid, onder a, b en d](https://wetten.overheid.nl/jci1.3:c:BWBR0027932&artikel=2&z=2016-01-02&g=2016-01-02), bedoelde eisen.
 
 ##### Artikel 4
 
-1. Als theatervuurwerk wordt aangewezen vuurwerk dat behoort tot een in [bijlage III](https://wetten.overheid.nl/jci1.3:c:BWBR0027932&bijlage=III&z=2015-12-24&g=2015-12-24) genoemde categorie en voldoet aan de volgende eisen:
+1. Als theatervuurwerk wordt aangewezen vuurwerk dat behoort tot een in [bijlage III](https://wetten.overheid.nl/jci1.3:c:BWBR0027932&bijlage=III&z=2016-01-02&g=2016-01-02) genoemde categorie en voldoet aan de volgende eisen:
 
 - a. het vuurwerk is bestemd om het in de bijlage bij de betrokken categorie aangegeven effect te bewerkstelligen;
 
@@ -126,7 +126,7 @@ Deze regeling wordt aangehaald als: Regeling aanwijzing consumenten- en theaterv
 
 Deze regeling treedt in werking met ingang van de dag na uitgifte van de Staatscourant waarin zij wordt geplaatst.
 
-## Bijlage I. Consumentenvuurwerk, met uitzondering van fop- en schertsvuurwerk ([artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0027932&artikel=2&z=2015-12-24&g=2015-12-24))
+## Bijlage I. Consumentenvuurwerk, met uitzondering van fop- en schertsvuurwerk ([artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0027932&artikel=2&z=2016-01-02&g=2016-01-02))
 
 | Nederlandse naam | Engelse naam | effect | categorie | maximaal toegestane gewicht aan pyrotechnische stoffen of preparaten |
 | --- | --- | --- | --- | --- |
@@ -155,8 +155,6 @@ Deze regeling treedt in werking met ingang van de dag na uitgifte van de Staatsc
 |   |   |   |   |   |
 | Vuurpijlen | rockets | opstijgen met of zonder licht- of geluidseffect, al dan niet gevolgd door licht- of geluidseffect in de lucht | F2 | 40 gram pyrotechnische stoffen of preparaten in totaal; de burstlading bevat of maximaal 10 gram zwart buskruit of maximaal 4,0 gram nitraat/metaal of maximaal 2,0 gram perchloraat/metaal; knallading is niet toegestaan |
 |   |   |   |   |   |
-| Romeinse kaarsen, mits onderdeel van een samengesteld pakket 1 of met een binnendiameter groter dan 8 mm. | Roman candles | achtereenvolgende uitstoot van pyrotechnische units, waardoor een serie licht- of geluidseffecten in de lucht ontstaan | F2 | twee of meer pyrotechnische units tot een gezamenlijk gewicht aan pyrotechnische stoffen of preparaten van ten hoogste 50 gram waarbij het gewicht aan pyrotechnische stoffen of preparaten per pyrotechnische unit niet meer bedraagt dan 10 gram; niet meer dan 5 pyrotechnische units met burstlading, ieder met of maximaal 10 gram zwart buskruit of maximaal 4 gram nitraat/metaal of maximaal 2 gram perchloraat/metaal; knallading is niet toegestaan |
-|   |   |   |   |   |
 | Enkelschotsbuizen | shot tubes | uitstoot van de pyrotechnische unit, waardoor een licht- of geluidseffect in de lucht ontstaat | F2 | 25 gram pyrotechnische stoffen of preparaten in totaal; de burstlading van de pyrotechnische unit bevat of maximaal 10 gram zwart buskruit of maximaal 4 gram nitraat/metaal of maximaal 2 gram perchloraat/metaal; knallading is niet toegestaan |
 | Enkelschotsbuizen | shot tubes | uitstoot van de pyrotechnische unit, waardoor een licht- of geluidseffect in de lucht ontstaat | F3 | 40 gram pyrotechnische stoffen of preparaten in totaal; de burstlading van de pyrotechnische unit bevat of maximaal 10 gram zwart buskruit of maximaal 4 gram nitraat/metaal of maximaal 2 gram perchloraat/metaal; knallading is niet toegestaan |
 |   |   |   |   |   |
@@ -164,9 +162,7 @@ Deze regeling treedt in werking met ingang van de dag na uitgifte van de Staatsc
 |   |   |   |   |   |
 | Draaizonnen | wheels | draaiende beweging rond een vast punt, met uitstoot van vonken of vlammen met geluidseffect anders dan een knal of zonder geluidseffect | F2 | 40 gram pyrotechnische stoffen of preparaten; het gewicht aan pyrotechnische stoffen van een eventuele effectlading met fluiteffect per compartiment niet meer dan 5 gram; knallading is niet toegestaan |
 
-1 pakket van verschillende soorten consumentenvuurwerk dat als zodanig in de transportverpakking wordt aangeleverd in de bufferbewaarplaats.
-
-## Bijlage II. fop- en schertsvuurwerk ([artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0027932&artikel=3&z=2015-12-24&g=2015-12-24))
+## Bijlage II. fop- en schertsvuurwerk ([artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0027932&artikel=3&z=2016-01-02&g=2016-01-02))
 
 | Nederlandse naam | Engelse naam | beoogde effect | categorie | maximaal toegestane gewicht aan pyrotechnische stoffen of preparaten |
 | --- | --- | --- | --- | --- |
@@ -204,7 +200,7 @@ Deze regeling treedt in werking met ingang van de dag na uitgifte van de Staatsc
 |   |   |   |   |   |
 | Knalerwten | throwdowns | knal als gevolg van het op de grond gooien van het artikel | F1 | 2,5 milligram zilverfulminaat |
 
-## Bijlage III. Theatervuurwerk ([artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0027932&artikel=4&z=2015-12-24&g=2015-12-24))
+## Bijlage III. Theatervuurwerk ([artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0027932&artikel=4&z=2016-01-02&g=2016-01-02))
 
 | Nederlandse naam | Engelse naam | Beoogd effect | Maximaal toegestane gewicht aan pyrotechnische stoffen en preparaten |
 | --- | --- | --- | --- |
