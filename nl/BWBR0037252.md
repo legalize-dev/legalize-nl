@@ -4,7 +4,7 @@ identifier: "BWBR0037252"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2017-01-01"
-last_updated: "2016-01-01"
+last_updated: "2016-01-04"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0037252"
 soort: "ministeriele-regeling"
@@ -68,6 +68,18 @@ Wijzigt de Uitvoeringsregeling Wmo 2015.
 
 5. De in [artikel 15, derde en vijfde lid van het Bijdragebesluit zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0008253&artikel=15) genoemde bedragen worden vastgesteld op: € 2.559.
 
+6. De in [artikel 16d, eerste lid, van het Bijdragebesluit zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0008253&artikel=16d) genoemd bedrag wordt vastgesteld op: € 14,40.
+
+7. De in [artikel 16d, tweede lid, onderdeel a, van het Bijdragebesluit zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0008253&artikel=16d) genoemde bedragen worden vastgesteld op: € 19,40 en € 22.486.
+
+8. De in [artikel 16d, tweede lid, onderdeel b, van het Bijdragebesluit zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0008253&artikel=16d) genoemde bedragen worden vastgesteld op: € 19,40 en € 16.887.
+
+9. De in [artikel 16d, tweede lid, onderdeel c, van het Bijdragebesluit zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0008253&artikel=16d) genoemde bedragen worden vastgesteld op: € 27,80 en € 28.177.
+
+10. De in [artikel 16d, tweede lid, onderdeel d, van het Bijdragebesluit zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0008253&artikel=16d) genoemde bedragen worden vastgesteld op: € 27,80 en € 23.374.
+
+11. De in [artikel 16e, derde en vijfde lid van het Bijdragebesluit zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0008253&artikel=16e) genoemde bedragen worden vastgesteld op: € 2.559.
+
 ##### Artikel VI
 
 1. Dit artikel is van toepassing op de berekening van de bijdrage in de kosten die krachtens [artikel 8.3, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035362&artikel=8.3), en [8,4, tweede lid, van de Wet maatschappelijke ondersteuning 2015](https://wetten.overheid.nl/jci1.3:c:BWBR0035362&artikel=8.4) aan het college verschuldigd is.
@@ -100,4 +112,4 @@ Wijzigt de Uitvoeringsregeling Wmo 2015.
 
 ##### Artikel VII
 
-Deze regeling treedt in werking met ingang van 1 januari 2016, met uitzondering van de [artikelen III, tweede tot en met zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037252&artikel=III&z=2016-01-01&g=2016-01-01), en [V, zesde tot en met elfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037252&artikel=V&z=2016-01-01&g=2016-01-01), die inwerking treden met ingang van 4 januari 2016.
+Deze regeling treedt in werking met ingang van 1 januari 2016, met uitzondering van de [artikelen III, tweede tot en met zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037252&artikel=III&z=2016-01-04&g=2016-01-04), en [V, zesde tot en met elfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037252&artikel=V&z=2016-01-04&g=2016-01-04), die inwerking treden met ingang van 4 januari 2016.
