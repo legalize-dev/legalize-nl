@@ -1,0 +1,63 @@
+---
+title: "Beleidsregels openbaarmaking door de Autoriteit Persoonsgegevens"
+identifier: "BWBR0037531"
+country: "nl"
+rank: "zbo"
+publication_date: "2023-04-13"
+last_updated: "2016-01-13"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0037531"
+soort: "zbo"
+stam_id: "13391463"
+version_id: "22968212"
+internal_id: "C33203281"
+label_id: "13359304"
+dtd_version: "2.0"
+original_entry_into_force: "2016-01-13"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0037531/2023-04-13/0"
+intitule_bron: "Stcrt.2016-1380"
+intitule_effect: "nieuwe-regeling"
+intitule_published: "2016-01-12"
+intitule_in_force: "2016-01-12"
+intitule_status: "goed"
+original_publication: "Stcrt.2016-1380"
+original_published_date: "2016-01-12"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2016-1380"
+entry_into_force_date: "2016-01-13"
+jci_1_3: "jci1.3:c:BWBR0037531&z=2023-04-13&g=2023-04-13"
+jci_1_0: "1.0:c:BWBR0037531&g=2023-04-13"
+citeertitel_status: "officieel"
+entry_into_force: "2016-01-13"
+---
+# Beleidsregels openbaarmaking door de Autoriteit Persoonsgegevens
+
+Gelet op [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0005252&artikel=3) en [8 van de Wet openbaarheid van bestuur](https://wetten.overheid.nl/jci1.3:c:BWBR0005252&artikel=8),
+
+In aanmerking nemende dat de Autoriteit Persoonsgegevens, gelet op het bepaalde in [artikel 4:81 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:81), inzicht wenst te geven in zijn openbaarmakingsbeleid met het oog op de hem in [artikel 51](https://wetten.overheid.nl/jci1.3:c:BWBR0011468&artikel=51) en [52 Wet bescherming persoonsgegevens](https://wetten.overheid.nl/jci1.3:c:BWBR0011468&artikel=52) opgedragen toezichthoudende en adviserende taken,
+
+Stelt de gewijzigde Beleidsregels openbaarmaking door de Autoriteit Persoonsgegevens vast en trekt de geldende [Beleidsregels actieve openbaarmaking door het CBP](https://wetten.overheid.nl/jci1.3:c:BWBR0034173) in:
+
+### 1. Definities
+
+In dit besluit wordt verstaan onder:
+
+### 2. Algemene uitgangspunten
+
+### 3. Bevindingen
+
+### 4. Handhavingsbesluiten
+
+### 5. Overige besluiten
+
+### 6. Wetgevingsadviezen
+
+### 7. Zienswijze van de Autoriteit Persoonsgegevens
+
+### 8. Persberichten en mededelingen
+
+### 9. Intrekking eerder besluit
+
+### 10. Aanhaling
+
+### 11. Inwerkingtreding
