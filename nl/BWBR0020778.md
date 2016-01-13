@@ -4,7 +4,7 @@ identifier: "BWBR0020778"
 country: "nl"
 rank: "zbo"
 publication_date: "2025-12-03"
-last_updated: "2016-01-01"
+last_updated: "2016-01-13"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0020778"
 soort: "zbo"
@@ -55,7 +55,7 @@ In deze regeling wordt verstaan onder:
 
 - b. DNB: de Nederlandsche Bank N.V.;
 
-- c. financiële onderneming: een ieder waarvoor op grond van [artikel 2:1 eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020778&hoofdstuk=2&artikel=2:1&z=2015-10-15&g=2016-01-01) van deze Regeling de modellen van de staten worden vastgesteld;
+- c. financiële onderneming: een ieder waarvoor op grond van [artikel 2:1 eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020778&hoofdstuk=2&artikel=2:1&z=2016-01-13&g=2016-01-13) van deze Regeling de modellen van de staten worden vastgesteld;
 
 - d. wet: [Wet op het financieel toezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0020368);
 
@@ -73,7 +73,7 @@ In deze regeling wordt verstaan onder:
 
 - k. gesubconsolideerd: de gesubconsolideerde situatie als bedoeld in artikel 22 van de CRR;
 
-- l. richtlijn Solvabiliteit II: richtlijn nr. 2009/138/EG van het Europees Parlement en de Raad van 25 november 2009 betreffende de toegang tot en uitoefening van het verzekerings- en het herverzekeringsbedrijf (Solvabiliteit II) (herschikking) (PbEU 2009, L 335).
+- l. technische uitvoeringsnormen solvabiliteit II: technische uitvoeringsnormen met betrekking tot de toezichtrapportages ingevolge de richtlijn solvabiliteit II, zoals vastgelegd in de Uitvoeringsverordening (EU) 2015/2450 van de Commissie van 2 december 2015.
 
 ### Hoofdstuk 2. Staten financiële ondernemingen
 
@@ -81,73 +81,57 @@ In deze regeling wordt verstaan onder:
 
 1. De modellen van de staten, bedoeld in [artikel 131, eerste lid, onderdeel a, van het Besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&artikel=131), worden vastgesteld voor:
 
-- a. een verzekeraar of een bijkantoor als bedoeld in [artikel 130, tweede lid, aanhef, van het Besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&artikel=130), zoals opgenomen in de [bijlagen 1](https://wetten.overheid.nl/jci1.3:c:BWBR0020778&bijlage=1&z=2015-10-15&g=2016-01-01) en [2](https://wetten.overheid.nl/jci1.3:c:BWBR0020778&bijlage=2&z=2015-10-15&g=2016-01-01) bij deze regeling;
+- a. een verzekeraar of een bijkantoor als bedoeld in [artikel 130, derde lid, aanhef, van het Besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&artikel=130), zoals opgenomen in de [bijlagen 1](https://wetten.overheid.nl/jci1.3:c:BWBR0020778&bijlage=1&z=2016-01-13&g=2016-01-13) en [2](https://wetten.overheid.nl/jci1.3:c:BWBR0020778&bijlage=2&z=2016-01-13&g=2016-01-13) bij deze regeling;
 
-- b. een bank of clearinginstelling als bedoeld in [artikel 130, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&artikel=130), en een bijkantoor als bedoeld in artikel 130, vierde lid, van het Besluit, zoals opgenomen in [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0020778&bijlage=3&z=2015-10-15&g=2016-01-01) bij deze regeling;
+- b. een bank of clearinginstelling als bedoeld in [artikel 130, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&artikel=130), en een bijkantoor als bedoeld in artikel 130, vierde lid, van het Besluit, zoals opgenomen in [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0020778&bijlage=3&z=2016-01-13&g=2016-01-13) bij deze regeling;
 
-- c. een beleggingsonderneming als bedoeld in [artikel 130, eerste lid, aanhef, van het Besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&artikel=130), zoals opgenomen in [bijlage 4](https://wetten.overheid.nl/jci1.3:c:BWBR0020778&bijlage=4&z=2015-10-15&g=2016-01-01) bij deze regeling;
+- c. een beleggingsonderneming als bedoeld in [artikel 130, eerste lid, aanhef, van het Besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&artikel=130), zoals opgenomen in [bijlage 4](https://wetten.overheid.nl/jci1.3:c:BWBR0020778&bijlage=4&z=2016-01-13&g=2016-01-13) bij deze regeling;
 
-- d. een elektronische geldinstelling of betaalinstelling als bedoeld in [artikel 130, derde lid, aanhef, van het Besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&artikel=130), zoals opgenomen in [bijlage 5](https://wetten.overheid.nl/jci1.3:c:BWBR0020778&bijlage=5&z=2015-10-15&g=2016-01-01) bij deze regeling;
+- d. een elektronische geldinstelling of betaalinstelling als bedoeld in [artikel 130, vijfde lid, aanhef, van het Besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&artikel=130), zoals opgenomen in [bijlage 5](https://wetten.overheid.nl/jci1.3:c:BWBR0020778&bijlage=5&z=2016-01-13&g=2016-01-13) bij deze regeling;
 
-- e. een premiepensioeninstelling als bedoeld in [artikel 130, vijfde lid, aanhef, van het Besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&artikel=130), zoals opgenomen in [bijlage 12](https://wetten.overheid.nl/jci1.3:c:BWBR0020778&bijlage=12&z=2015-10-15&g=2016-01-01) bij deze regeling;
+- e. een premiepensioeninstelling als bedoeld in [artikel 130, zevende lid, aanhef, van het Besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&artikel=130), zoals opgenomen in [bijlage 12](https://wetten.overheid.nl/jci1.3:c:BWBR0020778&bijlage=12&z=2016-01-13&g=2016-01-13) bij deze regeling;
 
-- f. een beheerder als bedoeld in [artikel 130, zesde lid, aanhef, van het Besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&artikel=130), zoals opgenomen in [bijlage 13](https://wetten.overheid.nl/jci1.3:c:BWBR0020778&bijlage=13&z=2015-10-15&g=2016-01-01) bij deze regeling;
+- f. een beheerder als bedoeld in [artikel 130, achtste lid, aanhef, van het Besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&artikel=130), zoals opgenomen in [bijlage 13](https://wetten.overheid.nl/jci1.3:c:BWBR0020778&bijlage=13&z=2016-01-13&g=2016-01-13) bij deze regeling;
 
-- g. een afwikkelonderneming als bedoeld in [artikel 130, zevende lid, aanhef, van het Besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&artikel=130), zoals opgenomen in [bijlage 14](https://wetten.overheid.nl/jci1.3:c:BWBR0020778&bijlage=14&z=2015-10-15&g=2016-01-01) bij deze regeling.
+- g. een afwikkelonderneming als bedoeld in [artikel 130, negende lid, aanhef, van het Besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&artikel=130), zoals opgenomen in [bijlage 14](https://wetten.overheid.nl/jci1.3:c:BWBR0020778&bijlage=14&z=2016-01-13&g=2016-01-13) bij deze regeling.
 
-2. In afwijking van het eerste lid, onderdeel b, worden de modellen van de staten voor een clearinginstelling die tevens een beleggingsonderneming is vastgesteld zoals opgenomen in [bijlage 4](https://wetten.overheid.nl/jci1.3:c:BWBR0020778&bijlage=4&z=2015-10-15&g=2016-01-01).
+2. In afwijking van het eerste lid, onderdeel b, worden de modellen van de staten voor een clearinginstelling die tevens een beleggingsonderneming is vastgesteld zoals opgenomen in [bijlage 4](https://wetten.overheid.nl/jci1.3:c:BWBR0020778&bijlage=4&z=2016-01-13&g=2016-01-13).
 
 3. De regels met betrekking tot de staten, bedoeld in [artikel 131, eerste lid, onderdelen b, c, d, e, f, g, en h, van het Besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&artikel=131), zijn opgenomen in de modellen van de staten, bedoeld in het eerste lid, en de bijbehorende toelichting op de staten.
 
 ##### Artikel 2:2
 
-1. Een clearinginstelling, beleggingsonderneming, of bank als bedoeld in [artikel 130, eerste lid, van het Besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&artikel=130), een elektronische geldinstelling of betaalinstelling als bedoeld in artikel 130, derde lid van het Besluit, een bijkantoor als bedoeld in artikel 130, vierde lid, van het Besluit, een premiepensioeninstelling als bedoeld in artikel 130, vijfde lid, van het Besluit en een beheerder als bedoeld in artikel 130, zesde lid, van het Besluit verstrekken de staten, bedoeld in artikel 130, eerste, derde, vierde, vijfde en zesde lid, van het Besluit aan DNB met de frequenties en binnen de termijnen, zoals vermeld in de [bijlage 6](https://wetten.overheid.nl/jci1.3:c:BWBR0020778&bijlage=6&z=2015-10-15&g=2016-01-01) bij deze regeling.
+1. Een clearinginstelling, beleggingsonderneming, of bank als bedoeld in [artikel 130, eerste lid, van het Besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&artikel=130), een elektronische geldinstelling of betaalinstelling als bedoeld in artikel 130, vijfde lid van het Besluit, een bijkantoor als bedoeld in artikel 130, zesde lid, van het Besluit, een premiepensioeninstelling als bedoeld in artikel 130, zevende lid, van het Besluit en een beheerder als bedoeld in artikel 130, achtste lid, van het Besluit verstrekken de staten, bedoeld in artikel 130, eerste, vijfde, zesde, zevende en achtste lid, van het Besluit aan DNB met de frequenties en binnen de termijnen, zoals vermeld in de [bijlage 6](https://wetten.overheid.nl/jci1.3:c:BWBR0020778&bijlage=6&z=2016-01-13&g=2016-01-13) bij deze regeling.
 
-2. Een verzekeraar als bedoeld in [artikel 130, tweede lid, aanhef, van het Besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&artikel=130), verstrekt de staten zoals opgenomen in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0020778&bijlage=1&z=2015-10-15&g=2016-01-01) bij deze regeling, met uitzondering van de staat Eigen Risicobeoordeling, jaarlijks binnen vijf maanden na afloop van ieder boekjaar met betrekking tot dat boekjaar aan DNB.
+2. Een verzekeraar als bedoeld in [artikel 130, derde lid, van het Besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&artikel=130), verstrekt de staten zoals bepaald door de technische uitvoeringsnormen solvabiliteit II aan DNB met inachtneming van de indieningstermijnen zoals bedoeld in artikel 312 van de verordening solvabiliteit II.
 
-3. In aanvulling op het tweede lid verstrekt de verzekeraar, op verzoek van DNB, de staten zoals opgenomen in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0020778&bijlage=2&z=2015-10-15&g=2016-01-01) bij deze regeling aan DNB per halfjaar of kwartaal, binnen dertig werkdagen na afloop van dat halfjaar onderscheidenlijk kwartaal, indien:
+3. In aanvulling op het tweede lid verstrekt de verzekeraar de staten opgenomen in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0020778&bijlage=1&z=2016-01-13&g=2016-01-13) bij deze regeling, jaarlijks aan DNB met inachtneming van de indieningstermijnen zoals bepaald in artikel 312 van de verordening solvabiliteit II.
 
-- a. de vergunning, gerekend vanaf het begin van elk boekjaar, minder dan drie jaar geleden aan de verzekeraar verleend is;
+4. Vervallen.
 
-- b. aan de verzekeraar een aanwijzing is gegeven als bedoeld in [artikel 1:75, eerste of tweede lid, van de Wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=1:75), wegens het niet voldoen aan bij of krachtens de Wet gestelde regels met betrekking tot het garantiefonds, de solvabiliteitsmarge of de technische voorzieningen van de verzekeraar, onderscheidenlijk wegens tekenen van een ontwikkeling die het garantiefonds of de solvabiliteitsmarge van de verzekeraar in gevaar kan brengen; of
+5. Vervallen.
 
-- c. zich uitzonderlijke omstandigheden voordoen op grond waarvan te verwachten is dat de financiële positie van de verzekeraar zodanig verslechtert, dat deze niet langer zal kunnen voldoen aan de bij of krachtens de Wet gestelde regels met betrekking tot het garantiefonds, de solvabiliteitsmarge of de technische voorzieningen van de verzekeraar.
+6. Vervallen.
 
-4. De verzekeraar verstrekt de aanvullende staten, bedoeld in het derde lid, voor het eerst over het halfjaar dan wel kwartaal volgend op het moment dat:
+7. Vervallen.
 
-- a. de vergunning is verstrekt;
+8. Vervallen.
 
-- b. de aanwijzing is gegeven;
-
-- c. de uitzonderlijke omstandigheden zich voor het eerst voordoen.
-
-5. De verzekeraar verstrekt de aanvullende staten, bedoeld in het derde lid, gedurende:
-
-- a. de termijn van drie jaar volgend op het moment dat de vergunning is verstrekt;
-
-- b. de termijn binnen welke de in de aanwijzingsbeschikking bepaalde gedragslijn wordt gevolgd, vermeerderd met ten hoogste drie jaar;
-
-- c. de termijn dat de uitzonderlijke omstandigheden zich voordoen.
-
-6. Een verzekeraar waarop [artikel 24a, tweede lid, van het Besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&artikel=24a) van toepassing is, verstrekt de staat Eigen Risicobeoordeling, zoals opgenomen in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0020778&bijlage=1&z=2015-10-15&g=2016-01-01), onderdeel Verzekeraars – Jaarset Leven Natura Schade BW IFRS, bij deze regeling, ten minste eenmaal per kalenderjaar binnen twee weken nadat de Eigen Risicobeoordeling door de verzekeraar is goedgekeurd, en uiterlijk op 31 december van ieder kalenderjaar.
-
-7. Een verzekeraar waarop [artikel 131, vijfde lid, van het Besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&artikel=131) van toepassing is, verstrekt binnen 22 weken na afloop van het boekjaar dat eindigt op 31 december 2014 de modeljaarstaten ter voorbereiding op de richtlijn Solvabiliteit II, zoals opgenomen in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0020778&bijlage=1&z=2015-10-15&g=2016-01-01), onderdeel Verzekeraars – Overgangsregime 2015.
-
-8. Een verzekeraar waarop [artikel 131, vijfde lid, van het Besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&artikel=131) van toepassing is, verstrekt binnen 8 weken na afloop van de kwartalen die eindigen op 30 juni 2015 onderscheidenlijk op 30 september 2015 de modelkwartaalstaten ter voorbereiding op de richtlijn Solvabiliteit II, zoals opgenomen in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0020778&bijlage=1&z=2015-10-15&g=2016-01-01), onderdeel Verzekeraars – Overgangsregime 2015.
-
-9. Een beheerder op welke het ingevolge de wet bepaalde, met uitzondering van de [artikelen 3:74c](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:74c), [4:37l tot en met 4:37m](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=4:37l),[5:19a](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=5:19a) en [5:25c van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=5:25c), niet van toepassing is op grond van [artikel 1:13b van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=1:13b), verstrekt de staten als bedoeld in [bijlage 6](https://wetten.overheid.nl/jci1.3:c:BWBR0020778&bijlage=6&z=2015-10-15&g=2016-01-01) die op hem van toepassing zouden zijn indien de beheerder zou beschikken over een vergunning als bedoeld in [artikel 2:65 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:65), met uitzondering van de staten genoemd in onderdeel B van tabel 6.5 van die bijlage.
+9. Een beheerder op welke het ingevolge de wet bepaalde, met uitzondering van de [artikelen 3:74c](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:74c), [4:37l tot en met 4:37m](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=4:37l),[5:19a](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=5:19a) en [5:25c van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=5:25c), niet van toepassing is op grond van [artikel 1:13b van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=1:13b), verstrekt de staten als bedoeld in [bijlage 6](https://wetten.overheid.nl/jci1.3:c:BWBR0020778&bijlage=6&z=2016-01-13&g=2016-01-13) die op hem van toepassing zouden zijn indien de beheerder zou beschikken over een vergunning als bedoeld in [artikel 2:65 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:65), met uitzondering van de staten genoemd in onderdeel B van tabel 6.5 van die bijlage.
 
 10. Een bank of beleggingsonderneming in de zin van artikel 4 van de CRR, verstrekt tevens de staten met de frequenties en indieningstermijnen zoals bepaald door de technische uitvoeringsnorm inzake rapportages van de EBA;
 
 11. Vervallen.
 
-12. Een afwikkelonderneming als bedoeld in [artikel 130, zevende lid, van het Besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&artikel=130) verstrekt de staten zoals opgenomen in [bijlage 14](https://wetten.overheid.nl/jci1.3:c:BWBR0020778&bijlage=14&z=2015-10-15&g=2016-01-01) aan DNB met de frequenties en binnen de termijnen, zoals vermeld in de [bijlage 6](https://wetten.overheid.nl/jci1.3:c:BWBR0020778&bijlage=6&z=2015-10-15&g=2016-01-01) bij deze regeling.
+12. Een afwikkelonderneming als bedoeld in [artikel 130, negende lid, van het Besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&artikel=130) verstrekt de staten zoals opgenomen in [bijlage 14](https://wetten.overheid.nl/jci1.3:c:BWBR0020778&bijlage=14&z=2016-01-13&g=2016-01-13) aan DNB met de frequenties en binnen de termijnen, zoals vermeld in de [bijlage 6](https://wetten.overheid.nl/jci1.3:c:BWBR0020778&bijlage=6&z=2016-01-13&g=2016-01-13) bij deze regeling.
 
 ##### Artikel 2:3
 
 1. Een financiële onderneming waardeert de posten in de staten overeenkomstig de waarderingsmethoden die de financiële onderneming in haar jaarrekening toepast.
 
-2. De staten van een financiële onderneming met zetel in een staat die geen lidstaat is bevatten uitsluitend de gegevens die betrekking hebben op het bedrijf uitgeoefend vanuit het bijkantoor in Nederland.
+2. De staten van een financiële onderneming met zetel in een staat die geen lidstaat is bevatten uitsluitend de gegevens die betrekking hebben op het bedrijf uitgeoefend vanuit het bijkantoor in Nederland, tenzij een ontheffing is verleend als bedoeld in [artikel 3:60, eerste lid, van de Wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:60).
+
+3. Het eerste lid is niet van toepassing op een verzekeraar als bedoeld in [artikel 130, derde lid, van het Besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&artikel=130).
 
 ##### Artikel 2:4. - Geconsolideerde staten
 
@@ -157,39 +141,41 @@ In deze regeling wordt verstaan onder:
 
 3. Een financiële onderneming betrekt ten behoeve van geconsolideerde (waaronder gesubconsolideerde) staten uitsluitend die gerelateerde entiteiten die op grond van de [Wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368), de CRR of hetgeen bij of krachtens de Wet of de CRR is vastgesteld, in de reikwijdte van consolidatie opgenomen moeten worden.
 
+4. Een deelnemende verzekeraar, verzekeringsholding of een gemengde financiële holding verstrekt geconsolideerde staten zoals bepaald door de technische uitvoeringsnormen solvabiliteit II aan DNB met inachtneming van de indieningstermijnen zoals bedoeld in artikel 373 van de verordening solvabiliteit II.
+
 ##### Artikel 2:5
 
-Een accountant betrekt bij zijn onderzoek, bedoeld in [artikel 133, eerste lid, van het Besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&artikel=133), de staten die zijn opgenomen in [bijlage 7](https://wetten.overheid.nl/jci1.3:c:BWBR0020778&bijlage=7&z=2015-10-15&g=2016-01-01) bij deze regeling.
+Een accountant betrekt bij zijn onderzoek, bedoeld in [artikel 133, van het Besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&artikel=133), de staten die zijn opgenomen in [bijlage 7](https://wetten.overheid.nl/jci1.3:c:BWBR0020778&bijlage=7&z=2016-01-13&g=2016-01-13) bij deze regeling.
 
 ### Hoofdstuk 3. Branchegroepen en opgave van gesloten verzekeringen
 
 ##### Artikel 3:1
 
-Het model van de opgave, bedoeld in [artikel 135, eerste lid, van het Besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&artikel=135), in te dienen door een levensverzekeraar met zetel in Nederland met betrekking tot de vanuit Nederland of vanuit een bijkantoor in een andere lidstaat gesloten overeenkomsten van verzekering, wordt vastgesteld zoals het is opgenomen in het onderdeel bijkantoren en vrije dienstverrichting levensverzekeraars van [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0020778&bijlage=1&z=2015-10-15&g=2016-01-01) bij deze regeling.
+Vervallen
 
 ##### Artikel 3:2
 
-Het model van de opgave, bedoeld in [artikel 135, eerste lid, van het Besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&artikel=135), in te dienen door een levensverzekeraar met zetel in een andere lidstaat, met betrekking tot de vanuit een bijkantoor in een staat die geen lidstaat is uit hoofde van het verrichten van diensten naar Nederland gesloten overeenkomsten van verzekering, wordt vastgesteld zoals het is opgenomen in [bijlage 8](https://wetten.overheid.nl/jci1.3:c:BWBR0020778&bijlage=8&z=2015-10-15&g=2016-01-01) bij deze regeling.
+Het model van de opgave, bedoeld in [artikel 135, eerste lid, van het Besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&artikel=135), in te dienen door een levensverzekeraar met zetel in een andere lidstaat, met betrekking tot de vanuit een bijkantoor in een staat die geen lidstaat is uit hoofde van het verrichten van diensten naar Nederland gesloten overeenkomsten van verzekering, wordt vastgesteld zoals het is opgenomen in [bijlage 8](https://wetten.overheid.nl/jci1.3:c:BWBR0020778&bijlage=8&z=2016-01-13&g=2016-01-13) bij deze regeling.
 
 ##### Artikel 3:3
 
-Het model van de opgave, bedoeld in [artikel 135, eerste lid, van het Besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&artikel=135), in te dienen door een levensverzekeraar met zetel in een staat die geen lidstaat is, met betrekking tot de vanuit een bijkantoor in Nederland uit hoofde van het verrichten van diensten naar een andere lidstaat gesloten overeenkomsten van verzekering, wordt vastgesteld zoals het is opgenomen in het onderdeel bijkantoren en vrije dienstverrichting levensverzekeraars van [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0020778&bijlage=1&z=2015-10-15&g=2016-01-01) bij deze regeling.
+Het model van de opgave, bedoeld in [artikel 135, eerste lid, van het Besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&artikel=135), in te dienen door een levensverzekeraar met zetel in een staat die geen lidstaat is, met betrekking tot de vanuit een bijkantoor in Nederland uit hoofde van het verrichten van diensten naar een andere lidstaat gesloten overeenkomsten van verzekering, wordt vastgesteld zoals het is opgenomen in het onderdeel bijkantoren en vrije dienstverrichting levensverzekeraars van [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0020778&bijlage=1&z=2016-01-13&g=2016-01-13) bij deze regeling.
 
 ##### Artikel 3:4
 
-De branchegroepen en het model van de opgave, bedoeld in [artikel 135, tweede lid, van het Besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&artikel=135), in te dienen door een schadeverzekeraar met zetel in Nederland, met betrekking tot de vanuit Nederland of vanuit een bijkantoor in een andere lidstaat gesloten overeenkomsten van verzekering, worden vastgesteld zoals zij zijn opgenomen in het onderdeel bijkantoren en vrije dienstverrichting schadeverzekeraars van [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0020778&bijlage=1&z=2015-10-15&g=2016-01-01) bij deze regeling.
+Vervallen
 
 ##### Artikel 3:5
 
-De branchegroepen en het model van de opgave, bedoeld in [artikel 135, tweede lid, van het Besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&artikel=135), in te dienen door een schadeverzekeraar met zetel in een andere lidstaat, met betrekking tot de vanuit een bijkantoor in een staat die geen lidstaat is uit hoofde van het verrichten van diensten naar Nederland gesloten overeenkomsten van verzekering, worden vastgesteld zoals zij zijn opgenomen in [bijlage 9](https://wetten.overheid.nl/jci1.3:c:BWBR0020778&bijlage=9&z=2015-10-15&g=2016-01-01) bij deze regeling.
+De branchegroepen en het model van de opgave, bedoeld in [artikel 135, tweede lid, van het Besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&artikel=135), in te dienen door een schadeverzekeraar met zetel in een andere lidstaat, met betrekking tot de vanuit een bijkantoor in een staat die geen lidstaat is uit hoofde van het verrichten van diensten naar Nederland gesloten overeenkomsten van verzekering, worden vastgesteld zoals zij zijn opgenomen in [bijlage 9](https://wetten.overheid.nl/jci1.3:c:BWBR0020778&bijlage=9&z=2016-01-13&g=2016-01-13) bij deze regeling.
 
 ##### Artikel 3:6
 
-De branchegroepen en het model van de opgave, bedoeld in [artikel 135, tweede lid, van het Besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&artikel=135), in te dienen door een schadeverzekeraar met zetel in een staat die geen lidstaat is, met betrekking tot de vanuit een bijkantoor in Nederland uit hoofde van het verrichten van diensten naar een andere lidstaat gesloten overeenkomsten van verzekering, worden vastgesteld zoals zij zijn opgenomen in het onderdeel bijkantoren en vrije dienstverrichting schadeverzekeraars van [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0020778&bijlage=1&z=2015-10-15&g=2016-01-01) bij deze regeling.
+De branchegroepen en het model van de opgave, bedoeld in [artikel 135, tweede lid, van het Besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&artikel=135), in te dienen door een schadeverzekeraar met zetel in een staat die geen lidstaat is, met betrekking tot de vanuit een bijkantoor in Nederland uit hoofde van het verrichten van diensten naar een andere lidstaat gesloten overeenkomsten van verzekering, worden vastgesteld zoals zij zijn opgenomen in het onderdeel bijkantoren en vrije dienstverrichting schadeverzekeraars van [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0020778&bijlage=1&z=2016-01-13&g=2016-01-13) bij deze regeling.
 
 ##### Artikel 3:7
 
-Het model van de opgave, bedoeld in [artikel 135, derde lid, van het Besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&artikel=135), in te dienen door een natura-uitvaartverzekeraar als bedoeld in [artikel 3:87, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:87), wordt vastgesteld zoals het is opgenomen in [bijlage 10](https://wetten.overheid.nl/jci1.3:c:BWBR0020778&bijlage=10&z=2015-10-15&g=2016-01-01) bij deze regeling.
+Vervallen
 
 ### Hoofdstuk 4. Overgangs- en slotbepalingen
 
@@ -317,13 +303,13 @@ De regeling zal met de toelichting in de Staatscourant worden geplaatst met uitz
 
 ##### 2:6
 
-DNB kan bij besluit bepalen dat een bank voorts de staten zoals opgenomen in [bijlage 11](https://wetten.overheid.nl/jci1.3:c:BWBR0020778&bijlage=11&z=2015-10-15&g=2016-01-01) bij deze regeling verstrekt aan DNB. DNB zal bij dat besluit bepalen met welke frequentie en binnen welke termijnen de staten zoals opgenomen in bijlage 11 worden verstrekt.
+DNB kan bij besluit bepalen dat een bank voorts de staten zoals opgenomen in [bijlage 11](https://wetten.overheid.nl/jci1.3:c:BWBR0020778&bijlage=11&z=2016-01-13&g=2016-01-13) bij deze regeling verstrekt aan DNB. DNB zal bij dat besluit bepalen met welke frequentie en binnen welke termijnen de staten zoals opgenomen in bijlage 11 worden verstrekt.
 
 ### Hoofdstuk 3. Branchegroepen en opgave van gesloten verzekeringen
 
 ### Hoofdstuk 4. Overgangs- en slotbepalingen
 
-## Bijlage 6. bij [artikel 2:2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020778&hoofdstuk=2&artikel=2:2&z=2015-10-15&g=2016-01-01) – Frequentie en indieningstermijn staten
+## Bijlage 6. bij [artikel 2:2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020778&hoofdstuk=2&artikel=2:2&z=2016-01-13&g=2016-01-13) – Frequentie en indieningstermijn staten
 
 1 Rapportageplicht indien kapitaalbeslag kredietrisico > vastekosteneis.
 
@@ -333,7 +319,7 @@ Ligt ter inzage bij de Nederlandsche Bank N.V.
 
 1 De vaststelling van het model voor de staat volgt uit artikel 110 van de Gedelegeerde Verordening, de frequentie en de indieningstermijn worden bij deze regeling vastgesteld.
 
-## Bijlage 7. bij [artikel 2:5](https://wetten.overheid.nl/jci1.3:c:BWBR0020778&hoofdstuk=2&artikel=2:5&z=2015-10-15&g=2016-01-01) – Overzicht van de staten die de accountant betrekt bij zijn onderzoek
+## Bijlage 7. bij [artikel 2:5](https://wetten.overheid.nl/jci1.3:c:BWBR0020778&hoofdstuk=2&artikel=2:5&z=2016-01-13&g=2016-01-13) – Overzicht van de staten die de accountant betrekt bij zijn onderzoek
 
 ### Overzicht van de staten die de accountant betrekt bij zijn onderzoek
 
@@ -357,13 +343,15 @@ De branchegroepen en het model van de opgave, bedoeld in [artikel 135, tweede li
 
 ## Bijlage 10
 
-## Bijlage 12
-
-Ligt ter inzage bij DNB.
+Vervallen
 
 ## Bijlage 11
 
 Ligt ter inzage bij de Nederlandsche Bank N.V.
+
+## Bijlage 12
+
+Ligt ter inzage bij DNB.
 
 De regeling zal met de toelichting in de Staatscourant worden geplaatst met uitzondering van de [bijlagen 1 tot en met 5](https://wetten.overheid.nl/jci1.3:c:BWBR0020778&bijlage=1&z=2014-03-14&g=2014-03-14),[11](https://wetten.overheid.nl/jci1.3:c:BWBR0020778&bijlage=11&z=2014-03-14&g=2014-03-14), [12](https://wetten.overheid.nl/jci1.3:c:BWBR0020778&bijlage=12&z=2014-03-14&g=2014-03-14) en [13](https://wetten.overheid.nl/jci1.3:c:BWBR0020778&bijlage=13&z=2014-03-14&g=2014-03-14) die ter inzage worden gelegd bij DNB.
 
@@ -389,11 +377,11 @@ De branchegroepen en het model van de opgave, bedoeld in [artikel 135, tweede li
 
 Het model van de opgave, bedoeld in [artikel 135, derde lid, van het Besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&artikel=135), in te dienen door een natura-uitvaartverzekeraar als bedoeld in [artikel 3:87, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:87).
 
-## Bijlage 11
+## Bijlage 13
 
-Ligt ter inzage bij de Nederlandsche Bank N.V.
+Ligt ter inzage bij DNB.
 
-## Bijlage 12
+## Bijlage 14
 
 Ligt ter inzage bij DNB.
 
@@ -407,7 +395,7 @@ De regeling zal met de toelichting in de Staatscourant worden geplaatst met uitz
 
 ****) Geen waarmerking/certificering maar via ‘Agreed Upon Procedure’ (AUP).**
 
-### B. Verzekeraars
+### B. **Verzekeraars**
 
 ### **Bijlage bij artikel 3:7 van de Regeling staten financiële ondernemingen Wft**
 
@@ -418,3 +406,5 @@ Het model van de opgave, bedoeld in [artikel 135, derde lid, van het Besluit](ht
 Ligt ter inzage bij DNB.
 
 De regeling zal met de toelichting in de Staatscourant worden geplaatst, met uitzondering van de [bijlagen 1 tot en met 5](https://wetten.overheid.nl/jci1.3:c:BWBR0020778&bijlage=1&z=2015-10-15&g=2016-01-01) en [11 tot en met 14](https://wetten.overheid.nl/jci1.3:c:BWBR0020778&bijlage=11&z=2015-10-15&g=2016-01-01), die ter inzage worden gelegd bij DNB.
+
+De regeling zal met de toelichting in de Staatscourant worden geplaatst, met uitzondering van de [bijlagen 1 tot en met 5](https://wetten.overheid.nl/jci1.3:c:BWBR0020778&bijlage=1&z=2016-01-13&g=2016-01-13) en [11 tot en met 14](https://wetten.overheid.nl/jci1.3:c:BWBR0020778&bijlage=11&z=2016-01-13&g=2016-01-13), die ter inzage worden gelegd bij DNB.
