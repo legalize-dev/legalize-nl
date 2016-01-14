@@ -4,7 +4,7 @@ identifier: "BWBR0021424"
 country: "nl"
 rank: "reglement"
 publication_date: "2021-12-09"
-last_updated: "2006-06-22"
+last_updated: "2016-01-14"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0021424"
 soort: "reglement"
@@ -60,7 +60,7 @@ De Voorzitter deelt het besluit van de Tweede Kamer tot aanwijzing van een groot
 
 ### Artikel 6. Verantwoordelijke commissie
 
-De commissie die is belast met de uitvoering is verantwoordelijk voor het vaststellen van de in [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0021424&hoofdstuk=IV&artikel=9&z=2006-06-22&g=2006-06-22) genoemde uitgangspunten en vervolgens voor de controle op het aangewezen groot project.
+De commissie die is belast met de uitvoering is verantwoordelijk voor het vaststellen van de in [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0021424&hoofdstuk=IV&artikel=9&z=2016-01-14&g=2016-01-14) genoemde uitgangspunten en vervolgens voor de controle op het aangewezen groot project.
 
 ### Artikel 7. Advies over uitvoering regeling
 
