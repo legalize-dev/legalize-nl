@@ -4,7 +4,7 @@ identifier: "BWBR0037549"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2016-01-16"
-last_updated: "2015-10-01"
+last_updated: "2016-01-16"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0037549"
 soort: "ministeriele-regeling"
@@ -68,15 +68,21 @@ In de Algemene Commissie tot Voorkoming van Arbeidsongevallen Zeevarenden worden
 
 ##### Artikel 3. Regels omtrent haar werkwijze
 
-Dit onderdeel is nog niet inwerking getreden
+Goedkeuring wordt verleend aan de door de Algemene Commissie tot Voorkoming van Arbeidsongevallen Zeevarenden vastgestelde en in [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBR0037549&bijlage=I&z=2016-01-16&g=2016-01-16) bij dit besluit opgenomen regels omtrent haar werkwijze als bedoeld in [artikel 26d, eerste lid, van de Schepenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0001876&artikel=26d).
 
 ##### Artikel 4. Intrekken besluiten
 
-Dit onderdeel is nog niet inwerking getreden
+De volgende besluiten worden ingetrokken:
+
+- a. Het besluit van de Minister van Infrastructuur en Milieu van 8 april 2014, houdende benoeming leden en plaatsvervangende leden Algemene Commissie tot Voorkoming van Arbeidsongevallen Zeevarenden en goedkeuring regels omtrent werkwijze van deze commissie (IENM/BSK-2013/238721);
+
+- b. Het besluit van de Minister van Infrastructuur en Milieu van 26 februari 2015, tot benoeming van de heer P. Visser als lid, en de heer J.P. Bosma als plaatsvervanger, van de Algemene Commissie tot Voorkoming van Arbeidsongevallen Zeevarenden (IENM/BSK-2015/33010).
 
 ##### Artikel 5. Inwerkingtreding
 
-Dit onderdeel is nog niet inwerking getreden
+1. Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst.
+
+2. De artikelen 1 en 2 werken terug tot en met 1 oktober 2015.
 
 ## Bijlage I
 
