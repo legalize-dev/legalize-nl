@@ -4,7 +4,7 @@ identifier: "BWBR0024144"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-07-01"
-last_updated: "2014-05-03"
+last_updated: "2016-01-18"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0024144"
 soort: "ministeriele-regeling"
@@ -68,7 +68,7 @@ Deze regeling is van toepassing op een aanvraag van een migrerende beroepsbeoefe
 
 1. De aanvrager maakt zijn keuze voor een proeve van bekwaamheid of een aanpassingsstage binnen een daartoe door de Minister gestelde termijn kenbaar.
 
-2. Indien de aanvrager een opleidingstitel afkomstig uit een derde land heeft overgelegd, maakt, in afwijking van het eerste lid, de Minister zijn keuze voor een proeve van bekwaamheid of een aanpassingsstage kenbaar binnen 4 weken na ontvangst van de aanvraag, bedoeld in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024144&artikel=3&z=2014-05-03&g=2014-05-03).
+2. Indien de aanvrager een opleidingstitel afkomstig uit een derde land heeft overgelegd, maakt, in afwijking van het eerste lid, de Minister zijn keuze voor een proeve van bekwaamheid of een aanpassingsstage kenbaar binnen 4 weken na ontvangst van de aanvraag, bedoeld in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024144&artikel=3&z=2014-05-03&g=2016-01-18).
 
 3. De Minister stelt vast in overeenstemming met welke examenvakken de aanvrager de proeve van bekwaamheid aflegt of met betrekking tot welke vakken de aanvrager de aanpassingsstage doorloopt, alsmede de termijn waarbinnen dit geschiedt.
 
@@ -78,7 +78,7 @@ Deze regeling is van toepassing op een aanvraag van een migrerende beroepsbeoefe
 
 ##### Artikel 5
 
-Een aanvraag als bedoeld in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024144&artikel=3&z=2014-05-03&g=2014-05-03), wordt afgewezen, indien de proeve van bekwaamheid, dan wel de aanpassingsstage, bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0024144&artikel=4&z=2014-05-03&g=2014-05-03), als onvoldoende zijn beoordeeld.
+Een aanvraag als bedoeld in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024144&artikel=3&z=2014-05-03&g=2016-01-18), wordt afgewezen, indien de proeve van bekwaamheid, dan wel de aanpassingsstage, bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0024144&artikel=4&z=2014-05-03&g=2016-01-18), als onvoldoende zijn beoordeeld.
 
 ##### Artikel 6
 
