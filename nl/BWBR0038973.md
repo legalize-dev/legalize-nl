@@ -4,7 +4,7 @@ identifier: "BWBR0038973"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2021-01-01"
-last_updated: "2016-01-01"
+last_updated: "2016-01-18"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0038973"
 soort: "ministeriele-regeling"
@@ -85,8 +85,6 @@ Dit onderdeel is nog niet inwerking getreden
 ##### Artikel X
 
 Wijzigt de Uitvoeringsregeling accijns.
-
-Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel XI
 
