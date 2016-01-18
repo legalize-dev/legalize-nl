@@ -4,7 +4,7 @@ identifier: "BWBR0030733"
 country: "nl"
 rank: "wet"
 publication_date: "2026-01-01"
-last_updated: "2013-01-01"
+last_updated: "2016-01-18"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0030733"
 soort: "wet"
@@ -53,7 +53,7 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 1. Het College bestaat uit minimaal negen en maximaal twaalf leden, onder wie een voorzitter en twee ondervoorzitters. Voorts kunnen plaatsvervangende leden worden benoemd.
 
-2. De voorzitter en een van beide ondervoorzitters voldoen aan de vereisten voor benoembaarheid tot rechterlijk ambtenaar, gesteld bij of krachtens [artikel 5, eerste, tweede en vierde lid, van de Wet rechtspositie rechterlijke ambtenaren](https://wetten.overheid.nl/jci1.3:c:BWBR0008365&artikel=5). Bij de benoeming van de voorzitter van het College kan in bijzondere gevallen van het bepaalde in de eerste volzin worden afgeweken.
+2. De voorzitter en een van beide ondervoorzitters voldoen aan de vereisten voor benoembaarheid tot rechterlijk ambtenaar, gesteld bij of krachtens [artikel 5, eerste en tweede lid, van de Wet rechtspositie rechterlijke ambtenaren](https://wetten.overheid.nl/jci1.3:c:BWBR0008365&artikel=5). Bij de benoeming van de voorzitter van het College kan in bijzondere gevallen van het bepaalde in de eerste volzin worden afgeweken.
 
 3. Het College wordt vertegenwoordigd door de voorzitter of, bij afwezigheid, door een ondervoorzitter.
 
@@ -107,7 +107,7 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 ##### Artikel 19
 
-Bij algemene maatregel van bestuur worden nadere regels gesteld omtrent de werkwijze van de afdeling, bedoeld in [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0030733&hoofdstuk=2&artikel=9&z=2013-01-01&g=2013-01-01), waaronder in elk geval regels betreffende:
+Bij algemene maatregel van bestuur worden nadere regels gesteld omtrent de werkwijze van de afdeling, bedoeld in [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0030733&hoofdstuk=2&artikel=9&z=2016-01-18&g=2016-01-18), waaronder in elk geval regels betreffende:
 
 - a. de wijze van behandeling;
 
@@ -119,9 +119,9 @@ Bij algemene maatregel van bestuur worden nadere regels gesteld omtrent de werkw
 
 1. De [artikelen 12](https://wetten.overheid.nl/jci1.3:c:BWBR0020495&artikel=12) en [21 van de Kaderwet zelfstandige bestuursorganen](https://wetten.overheid.nl/jci1.3:c:BWBR0020495&artikel=21) zijn niet van toepassing.
 
-2. In afwijking van [artikel 20 van de Kaderwet zelfstandige bestuursorganen](https://wetten.overheid.nl/jci1.3:c:BWBR0020495&artikel=20) is het College niet verplicht Onze Ministers van Binnenlandse Zaken en Koninkrijksrelaties en van Veiligheid en Justitie inlichtingen te verstrekken of inzage te geven in zakelijke gegevens en bescheiden, met betrekking tot de inhoud en de aanpak van lopende onderzoeken van het College als bedoeld in [artikel 3, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0030733&hoofdstuk=1&artikel=3&z=2013-01-01&g=2013-01-01), en [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0030733&hoofdstuk=2&artikel=10&z=2013-01-01&g=2013-01-01).
+2. In afwijking van [artikel 20 van de Kaderwet zelfstandige bestuursorganen](https://wetten.overheid.nl/jci1.3:c:BWBR0020495&artikel=20) is het College niet verplicht Onze Ministers van Binnenlandse Zaken en Koninkrijksrelaties en van Veiligheid en Justitie inlichtingen te verstrekken of inzage te geven in zakelijke gegevens en bescheiden, met betrekking tot de inhoud en de aanpak van lopende onderzoeken van het College als bedoeld in [artikel 3, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0030733&hoofdstuk=1&artikel=3&z=2016-01-18&g=2016-01-18), en [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0030733&hoofdstuk=2&artikel=10&z=2016-01-18&g=2016-01-18).
 
-3. In afwijking van [artikel 22 van de Kaderwet zelfstandige bestuursorganen](https://wetten.overheid.nl/jci1.3:c:BWBR0020495&artikel=22) kunnen Onze Ministers van Binnenlandse Zaken en Koninkrijksrelaties en van Veiligheid en Justitie een besluit van het College dat betrekking heeft op het onderzoek of het oordeel, bedoeld in [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0030733&hoofdstuk=2&artikel=10&z=2013-01-01&g=2013-01-01), niet vernietigen.
+3. In afwijking van [artikel 22 van de Kaderwet zelfstandige bestuursorganen](https://wetten.overheid.nl/jci1.3:c:BWBR0020495&artikel=22) kunnen Onze Ministers van Binnenlandse Zaken en Koninkrijksrelaties en van Veiligheid en Justitie een besluit van het College dat betrekking heeft op het onderzoek of het oordeel, bedoeld in [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0030733&hoofdstuk=2&artikel=10&z=2016-01-18&g=2016-01-18), niet vernietigen.
 
 ### Hoofdstuk 4. Verslag en rapport
 
@@ -131,19 +131,19 @@ Bij algemene maatregel van bestuur worden nadere regels gesteld omtrent de werkw
 
 ##### Artikel 35
 
-1. In afwijking van [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBR0030733&hoofdstuk=3&artikel=16&z=2013-01-01&g=2013-01-01) worden de benoemingen van de leden en de plaatsvervangende leden van de Commissie gelijke behandeling, onder wie de voorzitter en twee ondervoorzitters, van rechtswege gewijzigd in een benoeming tot leden en plaatsvervangende leden van het College voor de rechten van de mens. [Artikel 17, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030733&hoofdstuk=3&artikel=17&z=2013-01-01&g=2013-01-01), is van overeenkomstige toepassing. De datum van benoeming in het latere ambt wordt gelijkgesteld met de datum van benoeming in het eerdere ambt.
+1. In afwijking van [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBR0030733&hoofdstuk=3&artikel=16&z=2016-01-18&g=2016-01-18) worden de benoemingen van de leden en de plaatsvervangende leden van de Commissie gelijke behandeling, onder wie de voorzitter en twee ondervoorzitters, van rechtswege gewijzigd in een benoeming tot leden en plaatsvervangende leden van het College voor de rechten van de mens. [Artikel 17, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030733&hoofdstuk=3&artikel=17&z=2016-01-18&g=2016-01-18), is van overeenkomstige toepassing. De datum van benoeming in het latere ambt wordt gelijkgesteld met de datum van benoeming in het eerdere ambt.
 
 2. De overgang van de in het eerste lid bedoelde leden en plaatsvervangende leden vindt plaats met dezelfde rechtspositie als die welke voor elk van hen gold bij de Commissie gelijke behandeling.
 
 ##### Artikel 36
 
-1. Op het tijdstip van inwerkingtreding van [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0030733&hoofdstuk=1&artikel=1&z=2013-01-01&g=2013-01-01) van deze wet behoren de personen die tot het bureau van de Commissie gelijke behandeling behoren, bedoeld in [artikel 17 van de Algemene wet gelijke behandeling](https://wetten.overheid.nl/jci1.3:c:BWBR0006502&artikel=17), tot het bureau van het College voor de rechten van de mens.
+1. Op het tijdstip van inwerkingtreding van [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0030733&hoofdstuk=1&artikel=1&z=2016-01-18&g=2016-01-18) van deze wet behoren de personen die tot het bureau van de Commissie gelijke behandeling behoren, bedoeld in [artikel 17 van de Algemene wet gelijke behandeling](https://wetten.overheid.nl/jci1.3:c:BWBR0006502&artikel=17), tot het bureau van het College voor de rechten van de mens.
 
 2. De overgang van de in het eerste lid bedoelde personen vindt plaats met dezelfde rechtspositie als die welke voor elk van hen gold bij de Commissie gelijke behandeling.
 
 ##### Artikel 37
 
-Onderzoeken op schriftelijk verzoek als bedoeld in [artikel 12, eerste lid, van de Algemene wet gelijke behandeling](https://wetten.overheid.nl/jci1.3:c:BWBR0006502&artikel=12), die nog niet zijn voltooid op het tijdstip van inwerkingtreding van [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0030733&hoofdstuk=1&artikel=1&z=2013-01-01&g=2013-01-01) van deze wet worden voortgezet door het College voor de rechten van de mens.
+Onderzoeken op schriftelijk verzoek als bedoeld in [artikel 12, eerste lid, van de Algemene wet gelijke behandeling](https://wetten.overheid.nl/jci1.3:c:BWBR0006502&artikel=12), die nog niet zijn voltooid op het tijdstip van inwerkingtreding van [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0030733&hoofdstuk=1&artikel=1&z=2016-01-18&g=2016-01-18) van deze wet worden voortgezet door het College voor de rechten van de mens.
 
 ##### Artikel 38
 
@@ -153,7 +153,7 @@ De administratie en het archief van de Commissie gelijke behandeling worden van 
 
 1. De artikelen van deze wet treden in werking op een bij koninklijk besluit te bepalen tijdstip, dat voor de verschillende artikelen of onderdelen daarvan verschillend kan worden vastgesteld.
 
-2. Voor zover de [artikelen 15](https://wetten.overheid.nl/jci1.3:c:BWBR0030733&hoofdstuk=3&artikel=15&z=2013-01-01&g=2013-01-01) en [16](https://wetten.overheid.nl/jci1.3:c:BWBR0030733&hoofdstuk=3&artikel=16&z=2013-01-01&g=2013-01-01) eerder in werking treden dan [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0030733&hoofdstuk=1&artikel=1&z=2013-01-01&g=2013-01-01), neemt de Commissie gelijke behandeling voor de toepassing van de artikelen 15, derde lid, en 16, tweede en derde lid, de plaats in van het College tot het tijdstip van inwerkingtreding van artikel 1.
+2. Voor zover de [artikelen 15](https://wetten.overheid.nl/jci1.3:c:BWBR0030733&hoofdstuk=3&artikel=15&z=2016-01-18&g=2016-01-18) en [16](https://wetten.overheid.nl/jci1.3:c:BWBR0030733&hoofdstuk=3&artikel=16&z=2016-01-18&g=2016-01-18) eerder in werking treden dan [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0030733&hoofdstuk=1&artikel=1&z=2016-01-18&g=2016-01-18), neemt de Commissie gelijke behandeling voor de toepassing van de artikelen 15, derde lid, en 16, tweede en derde lid, de plaats in van het College tot het tijdstip van inwerkingtreding van artikel 1.
 
 ##### Artikel 40
 
@@ -171,7 +171,7 @@ Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle mi
 
 ##### Artikel 2
 
-Deze wet, met uitzondering van [hoofdstuk 2](https://wetten.overheid.nl/jci1.3:c:BWBR0030733&hoofdstuk=2&z=2013-01-01&g=2013-01-01), is mede van toepassing in de openbare lichamen Bonaire, Sint Eustatius en Saba, met dien verstande dat [artikel 3, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0030733&hoofdstuk=1&artikel=3&z=2013-01-01&g=2013-01-01), wordt gelezen als volgt:
+Deze wet, met uitzondering van [hoofdstuk 2](https://wetten.overheid.nl/jci1.3:c:BWBR0030733&hoofdstuk=2&z=2016-01-18&g=2016-01-18), is mede van toepassing in de openbare lichamen Bonaire, Sint Eustatius en Saba, met dien verstande dat [artikel 3, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0030733&hoofdstuk=1&artikel=3&z=2016-01-18&g=2016-01-18), wordt gelezen als volgt:
 
 - a. het doen van onderzoek naar de bescherming van de rechten van de mens;.
 
@@ -179,11 +179,11 @@ Deze wet, met uitzondering van [hoofdstuk 2](https://wetten.overheid.nl/jci1.3:c
 
 De taak van het College is:
 
-- a. het doen van onderzoek naar de bescherming van de rechten van de mens, waaronder het onderzoeken of een onderscheid is of wordt gemaakt en het geven van een oordeel daarover, bedoeld in [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0030733&hoofdstuk=2&artikel=10&z=2013-01-01&g=2013-01-01);
+- a. het doen van onderzoek naar de bescherming van de rechten van de mens, waaronder het onderzoeken of een onderscheid is of wordt gemaakt en het geven van een oordeel daarover, bedoeld in [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0030733&hoofdstuk=2&artikel=10&z=2016-01-18&g=2016-01-18);
 
 - b. het rapporteren en het doen van aanbevelingen over de bescherming van de rechten van de mens, waaronder het jaarlijks rapporteren over de mensenrechtensituatie in Nederland;
 
-- c. het geven van advies, bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0030733&hoofdstuk=1&artikel=5&z=2013-01-01&g=2013-01-01);
+- c. het geven van advies, bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0030733&hoofdstuk=1&artikel=5&z=2016-01-18&g=2016-01-18);
 
 - d. het geven van voorlichting en het stimuleren en coördineren van onderwijs over de rechten van de mens;
 
@@ -227,7 +227,7 @@ Het College vervult zijn taak in onafhankelijkheid.
 
 ##### Artikel 8
 
-1. De onderzoeken, rapporten en aanbevelingen, bedoeld in [artikel 3, onderdelen a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0030733&hoofdstuk=1&artikel=3&z=2013-01-01&g=2013-01-01), en de adviezen, bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0030733&hoofdstuk=1&artikel=5&z=2013-01-01&g=2013-01-01), worden door het College openbaar gemaakt.
+1. De onderzoeken, rapporten en aanbevelingen, bedoeld in [artikel 3, onderdelen a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0030733&hoofdstuk=1&artikel=3&z=2016-01-18&g=2016-01-18), en de adviezen, bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0030733&hoofdstuk=1&artikel=5&z=2016-01-18&g=2016-01-18), worden door het College openbaar gemaakt.
 
 2. Onze Minister wie het aangaat stelt het College in de gelegenheid de onderzoeken, rapporten, aanbevelingen en adviezen met hem te bespreken.
 
@@ -267,11 +267,11 @@ Binnen het College is een afdeling belast met de uitvoering van de in dit hoofds
 
 1. Het College stelt geen onderzoek in of beëindigt het onderzoek, indien:
 
-- a. het in [artikel 10, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030733&hoofdstuk=2&artikel=10&z=2013-01-01&g=2013-01-01), bedoelde verzoek kennelijk ongegrond is;
+- a. het in [artikel 10, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030733&hoofdstuk=2&artikel=10&z=2016-01-18&g=2016-01-18), bedoelde verzoek kennelijk ongegrond is;
 
 - b. het belang van de verzoeker of het gewicht van de gedraging kennelijk onvoldoende is;
 
-- c. sinds het in [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0030733&hoofdstuk=2&artikel=10&z=2013-01-01&g=2013-01-01) bedoelde onderscheid een zodanige termijn is verstreken dat in redelijkheid geen onderzoek meer kan plaatsvinden.
+- c. sinds het in [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0030733&hoofdstuk=2&artikel=10&z=2016-01-18&g=2016-01-18) bedoelde onderscheid een zodanige termijn is verstreken dat in redelijkheid geen onderzoek meer kan plaatsvinden.
 
 2. Indien zich gevallen als bedoeld in het eerste lid voordoen, doet het College daarover aan verzoeker schriftelijk en met redenen omkleed mededeling.
 
@@ -311,7 +311,7 @@ Het College stelt elke vijf jaar een rapport op van zijn bevindingen ten aanzien
 
 ##### Artikel 23
 
-Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties zendt zo spoedig mogelijk na ontvangst van het in [artikel 22](https://wetten.overheid.nl/jci1.3:c:BWBR0030733&hoofdstuk=4&artikel=22&z=2013-01-01&g=2013-01-01) bedoelde rapport aan de Staten-Generaal een verslag over de werking in de praktijk van deze wet, de [Algemene wet gelijke behandeling](https://wetten.overheid.nl/jci1.3:c:BWBR0006502), de [Wet gelijke behandeling van mannen en vrouwen](https://wetten.overheid.nl/jci1.3:c:BWBR0003299) en [artikel 646 van Boek 7 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=646).
+Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties zendt zo spoedig mogelijk na ontvangst van het in [artikel 22](https://wetten.overheid.nl/jci1.3:c:BWBR0030733&hoofdstuk=4&artikel=22&z=2016-01-18&g=2016-01-18) bedoelde rapport aan de Staten-Generaal een verslag over de werking in de praktijk van deze wet, de [Algemene wet gelijke behandeling](https://wetten.overheid.nl/jci1.3:c:BWBR0006502), de [Wet gelijke behandeling van mannen en vrouwen](https://wetten.overheid.nl/jci1.3:c:BWBR0003299) en [artikel 646 van Boek 7 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=646).
 
 ### Hoofdstuk 5. Wijziging van deze wet en andere wetten
 
