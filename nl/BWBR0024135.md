@@ -4,7 +4,7 @@ identifier: "BWBR0024135"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2016-01-23"
-last_updated: "2014-03-15"
+last_updated: "2016-01-18"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0024135"
 soort: "ministeriele-regeling"
@@ -106,7 +106,7 @@ Vervallen
 
 ##### Artikel 9
 
-Deze regeling treedt in werking met ingang van de tweede dag na dagtekening van de Staatscourant waarin zij wordt geplaatst met dien verstande dat [paragraaf 1](https://wetten.overheid.nl/jci1.3:c:BWBR0024135&paragraaf=1&z=2014-03-15&g=2014-03-15) en [2](https://wetten.overheid.nl/jci1.3:c:BWBR0024135&paragraaf=2&z=2014-03-15&g=2014-03-15) terugwerken tot en met 21 december 2007.
+Deze regeling treedt in werking met ingang van de tweede dag na dagtekening van de Staatscourant waarin zij wordt geplaatst met dien verstande dat [paragraaf 1](https://wetten.overheid.nl/jci1.3:c:BWBR0024135&paragraaf=1&z=2014-03-15&g=2016-01-18) en [2](https://wetten.overheid.nl/jci1.3:c:BWBR0024135&paragraaf=2&z=2014-03-15&g=2016-01-18) terugwerken tot en met 21 december 2007.
 
 ##### Artikel 10
 
