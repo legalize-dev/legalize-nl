@@ -4,7 +4,7 @@ identifier: "BWBR0035213"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2020-04-01"
-last_updated: "2014-07-01"
+last_updated: "2016-01-18"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0035213"
 soort: "ministeriele-regeling"
@@ -52,7 +52,7 @@ In dit besluit wordt verstaan onder:
 
 - **centrale examenbank:** centrale examenbank, bedoeld in [artikel 11e van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&artikel=11e);
 
-- **College:** College Deskundigheid Financiële Dienstverlening, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0035213&paragraaf=2&artikel=2&z=2014-07-01&g=2014-07-01);
+- **College:** College Deskundigheid Financiële Dienstverlening, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0035213&paragraaf=2&artikel=2&z=2014-07-01&g=2016-01-18);
 
 - **exameninstituut:** exameninstituut als bedoeld in [artikel 4:9, derde lid, van de Wft](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=4:9);
 
@@ -154,7 +154,7 @@ Aan de voorzitter wordt mandaat verleend om namens de Minister:
 
 ##### Artikel 9
 
-Indien uitvoering wordt gegeven aan de [artikelen 7](https://wetten.overheid.nl/jci1.3:c:BWBR0035213&paragraaf=3&artikel=7&z=2014-07-01&g=2014-07-01) of [8](https://wetten.overheid.nl/jci1.3:c:BWBR0035213&paragraaf=3&artikel=8&z=2014-07-01&g=2014-07-01) luidt de ondertekening:
+Indien uitvoering wordt gegeven aan de [artikelen 7](https://wetten.overheid.nl/jci1.3:c:BWBR0035213&paragraaf=3&artikel=7&z=2014-07-01&g=2016-01-18) of [8](https://wetten.overheid.nl/jci1.3:c:BWBR0035213&paragraaf=3&artikel=8&z=2014-07-01&g=2016-01-18) luidt de ondertekening:
 
 De Minister van Financiën,
 
@@ -166,7 +166,7 @@ gevolgd door de handtekening en de naam van de voorzitter.
 
 ##### Artikel 10
 
-Het College verschaft de Minister desgevraagd schriftelijk informatie over de wijze waarop de bevoegdheden, bedoeld in de [artikelen 7](https://wetten.overheid.nl/jci1.3:c:BWBR0035213&paragraaf=3&artikel=7&z=2014-07-01&g=2014-07-01) en [8](https://wetten.overheid.nl/jci1.3:c:BWBR0035213&paragraaf=3&artikel=8&z=2014-07-01&g=2014-07-01), worden uitgeoefend.
+Het College verschaft de Minister desgevraagd schriftelijk informatie over de wijze waarop de bevoegdheden, bedoeld in de [artikelen 7](https://wetten.overheid.nl/jci1.3:c:BWBR0035213&paragraaf=3&artikel=7&z=2014-07-01&g=2016-01-18) en [8](https://wetten.overheid.nl/jci1.3:c:BWBR0035213&paragraaf=3&artikel=8&z=2014-07-01&g=2016-01-18), worden uitgeoefend.
 
 ##### Artikel 11
 
