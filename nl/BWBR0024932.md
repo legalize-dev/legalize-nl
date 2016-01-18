@@ -4,7 +4,7 @@ identifier: "BWBR0024932"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2016-04-05"
-last_updated: "2010-07-28"
+last_updated: "2016-01-18"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0024932"
 soort: "ministeriele-regeling"
@@ -88,11 +88,11 @@ Besluit:
 
 - e. een verklaring omtrent gedrag afgegeven door het bevoegd gezag van de betrokken staat van oorsprong of herkomst, of een met die verklaring overeenkomend document bedoeld in [artikel 14, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0023066&artikel=14), met dien verstande dat de verklaring of het document ten tijde van de indiening van de aanvraag niet ouder is dan drie maanden.
 
-3. Indien het bestuur een eerdere aanvraag heeft afgewezen en hierbij een mededeling, bedoeld in [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024932&hoofdstuk=2&artikel=4&z=2010-07-28&g=2010-07-28), heeft gedaan, doet de aanvrager de aanvraag tevens vergezeld gaan van:
+3. Indien het bestuur een eerdere aanvraag heeft afgewezen en hierbij een mededeling, bedoeld in [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024932&hoofdstuk=2&artikel=4&z=2016-04-05&g=2016-01-18), heeft gedaan, doet de aanvrager de aanvraag tevens vergezeld gaan van:
 
-- a. een verklaring, bedoeld in [artikel 5, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024932&hoofdstuk=2&artikel=5&z=2010-07-28&g=2010-07-28); of
+- a. een verklaring, bedoeld in [artikel 5, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024932&hoofdstuk=2&artikel=5&z=2016-04-05&g=2016-01-18); of
 
-- b. een verklaring, bedoeld in [artikel 6, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024932&hoofdstuk=2&artikel=6&z=2010-07-28&g=2010-07-28).
+- b. een verklaring, bedoeld in [artikel 6, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024932&hoofdstuk=2&artikel=6&z=2016-04-05&g=2016-01-18).
 
 4. Het bestuur kan verlangen dat de aanvrager nadere informatie verstrekt over:
 
@@ -154,7 +154,7 @@ Besluit:
 
 1. Het bestuur kan voorafgaand aan de eerste dienstverrichting de beroepskwalificaties van de dienstverrichter controleren in verband met de openbare veiligheid, bedoeld in [artikel 27 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0023066&artikel=27).
 
-2. In geval van [artikel 27, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0023066&artikel=27), biedt het bestuur de dienstverrichter de mogelijkheid om door middel van een met goed gevolg afgelegde proeve van bekwaamheid, bedoeld in de [artikelen 4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024932&hoofdstuk=2&artikel=4&z=2010-07-28&g=2010-07-28), en [6](https://wetten.overheid.nl/jci1.3:c:BWBR0024932&hoofdstuk=2&artikel=6&z=2010-07-28&g=2010-07-28), aan te tonen dat hij de ontbrekende kennis en vaardigheden heeft verworven.
+2. In geval van [artikel 27, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0023066&artikel=27), biedt het bestuur de dienstverrichter de mogelijkheid om door middel van een met goed gevolg afgelegde proeve van bekwaamheid, bedoeld in de [artikelen 4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024932&hoofdstuk=2&artikel=4&z=2016-04-05&g=2016-01-18), en [6](https://wetten.overheid.nl/jci1.3:c:BWBR0024932&hoofdstuk=2&artikel=6&z=2016-04-05&g=2016-01-18), aan te tonen dat hij de ontbrekende kennis en vaardigheden heeft verworven.
 
 ##### Artikel 9. Gegevens voor afnemers van de dienst
 
