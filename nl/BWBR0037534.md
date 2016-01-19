@@ -4,7 +4,7 @@ identifier: "BWBR0037534"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2016-01-19"
-last_updated: "2015-12-07"
+last_updated: "2016-01-19"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0037534"
 soort: "ministeriele-regeling"
@@ -46,15 +46,15 @@ Voor het jaar 2015 is voor de beheerskosten Wlz van de Wlz-uitvoerders en de zor
 
 ##### Artikel 2
 
-Van het in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0037534&artikel=1&z=2016-01-19&g=2015-12-07) genoemde bedrag is € 6,476 miljoen beschikbaar voor de taken, bedoeld in [artikel 4.2.4, tweede lid, van de Wet langdurige zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0035917&artikel=4.2.4) en € 3,389 miljoen voor de overige bij of krachtens die [wet](https://wetten.overheid.nl/jci1.3:c:BWBR0035917&wetgeving) geregelde taken.
+Van het in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0037534&artikel=1&z=2016-01-19&g=2016-01-19) genoemde bedrag is € 6,476 miljoen beschikbaar voor de taken, bedoeld in [artikel 4.2.4, tweede lid, van de Wet langdurige zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0035917&artikel=4.2.4) en € 3,389 miljoen voor de overige bij of krachtens die [wet](https://wetten.overheid.nl/jci1.3:c:BWBR0035917) geregelde taken.
 
 ##### Artikel 3
 
-Uit het bedrag, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0037534&artikel=2&z=2016-01-19&g=2015-12-07), voor de taken, bedoeld in [artikel 4.2.4 tweede lid, van de Wet langdurige zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0035917&artikel=4.2.4), wordt aan zorgkantoren incidenteel in totaal maximaal een bedrag van € 2,000 miljoen beschikbaar gesteld voor externe juridische kosten naar aanleiding van huisbezoeken PGB. De kosten worden naar werkelijke kosten en na goedkeuring van de Nederlandse Zorgautoriteit (NZa) vergoed. Indien niet alle kosten uit het bedrag kunnen worden vergoed, worden de kosten naar evenredigheid van de in aanmerking komende en goedgekeurde kosten per zorgkantoor vergoed.
+Uit het bedrag, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0037534&artikel=2&z=2016-01-19&g=2016-01-19), voor de taken, bedoeld in [artikel 4.2.4 tweede lid, van de Wet langdurige zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0035917&artikel=4.2.4), wordt aan zorgkantoren incidenteel in totaal maximaal een bedrag van € 2,000 miljoen beschikbaar gesteld voor externe juridische kosten naar aanleiding van huisbezoeken PGB. De kosten worden naar werkelijke kosten en na goedkeuring van de Nederlandse Zorgautoriteit (NZa) vergoed. Indien niet alle kosten uit het bedrag kunnen worden vergoed, worden de kosten naar evenredigheid van de in aanmerking komende en goedgekeurde kosten per zorgkantoor vergoed.
 
 ##### Artikel 4
 
-De Wlz-uitvoerders leggen in een geïntegreerd verslag financiële verantwoording af over het jaar 2015. Hierin is opgenomen welk beheerskostenbudget voor de uitvoering van de [Wlz](https://wetten.overheid.nl/jci1.3:c:BWBR0035917&wetgeving) is ontvangen en hoeveel in dat jaar is besteed aan de uitvoering van de Wlz. De verschillen worden als overschotten dan wel tekorten in de jaarrekening opgeteld bij de primo stand wettelijke reserve uitvoering Wlz 2015 en in de jaarrekening vastgelegd als de ultimo stand wettelijke reserve uitvoering Wlz 2015.
+De Wlz-uitvoerders leggen in een geïntegreerd verslag financiële verantwoording af over het jaar 2015. Hierin is opgenomen welk beheerskostenbudget voor de uitvoering van de [Wlz](https://wetten.overheid.nl/jci1.3:c:BWBR0035917) is ontvangen en hoeveel in dat jaar is besteed aan de uitvoering van de Wlz. De verschillen worden als overschotten dan wel tekorten in de jaarrekening opgeteld bij de primo stand wettelijke reserve uitvoering Wlz 2015 en in de jaarrekening vastgelegd als de ultimo stand wettelijke reserve uitvoering Wlz 2015.
 
 ##### Artikel 5
 
