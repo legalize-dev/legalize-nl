@@ -4,7 +4,7 @@ identifier: "BWBR0004416"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2016-01-22"
-last_updated: "2014-06-27"
+last_updated: "2016-01-22"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0004416"
 soort: "ministeriele-regeling"
@@ -50,7 +50,7 @@ Aan de eigenaar wordt op de voet van de bepalingen van deze regeling op zijn ver
 
 ##### Artikel 3
 
-De bijdrage, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0004416&artikel=2&z=2014-06-27&g=2014-06-27), wordt slechts verleend indien:
+De bijdrage, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0004416&artikel=2&z=2016-01-22&g=2016-01-22), wordt slechts verleend indien:
 
 - a. ten minste een aaneengesloten halve hectare grond wordt bebost of een door de minister daarmee gelijk te stellen aantal kilometers weg- of rijbeplanting wordt aangelegd en
 
@@ -68,19 +68,15 @@ Geen bijdrage wordt verleend indien:
 
 ##### Artikel 5
 
-1. De eigenaar dient de opstand waarvoor een bijdrage als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0004416&artikel=2&z=2014-06-27&g=2014-06-27), is verleend, in stand te houden tot het moment van velling overeenkomstig het bepaalde in het tweede en derde lid van dit artikel.
+De eigenaar dient de opstand waarvoor een bijdrage als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0004416&artikel=2&z=2016-01-22&g=2016-01-22), is verleend in stand te houden:
 
-2. De opstand dient te worden geveld:
+- a. gedurende tenminste 15 jaar na het moment van aanleg, indien de opstand bomen betreft die behoren tot de geslachten populus of salix;
 
-- a. indien deze bestaat uit bomen behorende tot de geslachten populus of salix, tussen 15 en 25 jaar na het moment van aanleg;
-
-- b. indien deze bestaat uit de andere boomsoorten genoemd in [artikel 3, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0004416&artikel=3&z=2014-06-27&g=2014-06-27), tussen 25 en 40 jaar na het moment van aanleg.
-
-3. In afwijking van het bepaalde in het vorige lid mag de houtopstand, nadat de minister daartoe toestemming heeft gegeven, worden geveld binnen de termijn van 15 onderscheidenlijk 25 jaar na het moment van aanleg, indien ten minste 3200 m² hout per hectare kan worden geoogst, dat geschikt is voor industriële toepassing.
+- b. gedurende tenminste 25 jaar na het moment van aanleg, indien de opstand andere boomsoorten, genoemd in [artikel 3, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0004416&artikel=3&z=2016-01-22&g=2016-01-22), betreft.
 
 ##### Artikel 6
 
-Aanvragen voor een bijdrage als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0004416&artikel=2&z=2014-06-27&g=2014-06-27), kunnen op een daartoe bestemd formulier worden gericht aan de minister tot en met uiterlijk 30 juni 1994.
+Aanvragen voor een bijdrage als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0004416&artikel=2&z=2016-01-22&g=2016-01-22), kunnen op een daartoe bestemd formulier worden gericht aan de minister tot en met uiterlijk 30 juni 1994.
 
 ##### Artikel 7
 
@@ -90,7 +86,7 @@ Aanvragen voor een bijdrage als bedoeld in [artikel 2](https://wetten.overheid.n
 
 ##### Artikel 8
 
-Indien de voorschriften bedoeld in de [artikelen 5](https://wetten.overheid.nl/jci1.3:c:BWBR0004416&artikel=5&z=2014-06-27&g=2014-06-27) en [7](https://wetten.overheid.nl/jci1.3:c:BWBR0004416&artikel=7&z=2014-06-27&g=2014-06-27) niet worden nagekomen vervalt het recht op de bijdrage en kan deze, vermeerderd met de verschuldigde wettelijke rente, geheel of gedeeltelijk worden teruggevorderd van degene aan wie de bijdrage is verleend of van diens rechtsopvolgers onder algemene titel.
+Indien de voorschriften bedoeld in de [artikelen 5](https://wetten.overheid.nl/jci1.3:c:BWBR0004416&artikel=5&z=2016-01-22&g=2016-01-22) en [7](https://wetten.overheid.nl/jci1.3:c:BWBR0004416&artikel=7&z=2016-01-22&g=2016-01-22) niet worden nagekomen vervalt het recht op de bijdrage en kan deze, vermeerderd met de verschuldigde wettelijke rente, geheel of gedeeltelijk worden teruggevorderd van degene aan wie de bijdrage is verleend of van diens rechtsopvolgers onder algemene titel.
 
 ##### Artikel 9
 
