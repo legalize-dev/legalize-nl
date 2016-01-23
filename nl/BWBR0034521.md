@@ -4,7 +4,7 @@ identifier: "BWBR0034521"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2018-10-01"
-last_updated: "2016-01-18"
+last_updated: "2016-01-23"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0034521"
 soort: "ministeriele-regeling"
@@ -40,6 +40,8 @@ Gelet op [Richtlijn nr. 2005/36/EG](32005L0036) van het Europees Parlement en de
 
 BESLUIT:
 
+Treedt in werking op 1 april 2014 Stb 2013/553.
+
 ### Hoofdstuk 1. Algemene bepalingen
 
 ##### Artikel 1. Definities
@@ -52,11 +54,13 @@ In deze regeling wordt verstaan onder:
 
 - –. **BOBNB:** [Besluit opleidingen en bevoegdheden nautische beroepsbeoefenaren](https://wetten.overheid.nl/jci1.3:c:BWBR0034471);
 
+- –. **bootman:** degene die in de uitoefening van zijn beroep een zeeschip vast- of losmaakt;
+
 - –. **Koninklijke Dirkzwager:** Koninklijke Scheepsagentuur Dirkzwager BV, statutair gevestigd te Maassluis;
 
 - –. **NNVO:** Stichting Nationale nautische verkeersdienst opleiding;
 
-- –. **wet:** [Algemene wet erkenning EG-beroepskwalificaties](https://wetten.overheid.nl/jci1.3:c:BWBR0023066).
+- –. **wet:** [Algemene wet erkenning EU-beroepskwalificaties](https://wetten.overheid.nl/jci1.3:c:BWBR0023066).
 
 ### Hoofdstuk 2. Registerloodsen
 
@@ -122,11 +126,11 @@ Voor de toepassing van [hoofdstuk 5 van het BOBNB](https://wetten.overheid.nl/jc
 
 - 13°. 52°57'.9 NB, 04°48'.1 OL;
 
-### Hoofdstuk 5. Erkenning EG-beroepskwalificaties registerloods, noordzeeloods en VTS-operator
+### Hoofdstuk 5. Erkenning EU-beroepskwalificaties registerloods, noordzeeloods en VTS-operator
 
 ##### Artikel 6. Delegatie en mandaat van bevoegdheden
 
-Alle taken en bevoegdheden tot het nemen van besluiten met betrekking tot het afgeven van een erkenning van EG-beroepskwalificaties als bedoeld in de wet en de daarop berustende bepalingen, worden voor de uitoefening van het beroep van:
+1. Alle taken en bevoegdheden tot het nemen van besluiten met betrekking tot het afgeven van een erkenning van EU-beroepskwalificaties als bedoeld in de wet en de daarop berustende bepalingen, worden voor de uitoefening van het beroep van:
 
 - a. registerloods in Nederland, gedelegeerd aan de algemene raad van de Nederlandse loodsencorporatie;
 
@@ -134,9 +138,13 @@ Alle taken en bevoegdheden tot het nemen van besluiten met betrekking tot het af
 
 - c. VTS-operator in Nederland, gemandateerd aan de directeur van de NNVO.
 
+2. Ten behoeve van de uitvoering van [artikel 31b van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0023066&artikel=31b), informeert een in het eerste lid genoemde organisatie de Minister van Infrastructuur en Milieu onmiddellijk nadat een migrerende beroepsbeoefenaar door een rechterlijke instantie of een andere bij of krachtens de wet bevoegde instantie in Nederland schuldig is bevonden aan het gebruik van valse beroepskwalificaties in verband met een procedure als bedoeld in de [hoofdstukken 2](https://wetten.overheid.nl/jci1.3:c:BWBR0023066&hoofdstuk=2), [3](https://wetten.overheid.nl/jci1.3:c:BWBR0023066&hoofdstuk=3) en [3a van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0023066&hoofdstuk=3a) of de daarop gebaseerde bepalingen van deze regeling.
+
+3. Onverminderd het tweede lid, verstrekt een in het eerste lid genoemde organisatie de Minister van Infrastructuur en Milieu op diens verzoek alle informatie die hij nodig heeft ten behoeve van de uitvoering van de [wet](https://wetten.overheid.nl/jci1.3:c:BWBR0023066).
+
 ##### Artikel 7. Aanvraag
 
-1. Een aanvraag wordt ingediend bij de voor de betreffende erkenning van beroepskwalificaties in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0034521&hoofdstuk=5&artikel=6&z=2016-01-23&g=2016-01-18) genoemde organisatie.
+1. Een aanvraag wordt ingediend bij de voor de betreffende erkenning van beroepskwalificaties in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0034521&hoofdstuk=5&artikel=6&z=2016-01-23&g=2016-01-23) genoemde organisatie.
 
 2. Indien de aanvraag betrekking heeft op erkenning van beroepskwalificaties voor het beroep van registerloods of noordzeeloods, overlegt de aanvrager de documenten, bedoeld in [artikel 13, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023066&artikel=13), juncto [artikel 15 tot en met 17 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0023066&artikel=15).
 
@@ -148,43 +156,43 @@ Alle taken en bevoegdheden tot het nemen van besluiten met betrekking tot het af
 
 ##### Artikel 8. Aanpassingsstage of proeve van bekwaamheid
 
-Indien bij de toepassing van [artikel 11, eerste, tweede en derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0023066&artikel=11) is gebleken dat de kennis en ervaring van de aanvrager wezenlijk verschilt van de inhoudsgebieden of onderdelen van inhoudsgebieden die deel uitmaken van de opleiding tot registerloods, noordzeeloods of VTS-operator, bedoeld in respectievelijk [hoofdstuk 2](https://wetten.overheid.nl/jci1.3:c:BWBR0034471&hoofdstuk=2), [3](https://wetten.overheid.nl/jci1.3:c:BWBR0034471&hoofdstuk=3) of [5 van het BOBNB](https://wetten.overheid.nl/jci1.3:c:BWBR0034471&hoofdstuk=5) en dat het daardoor noodzakelijk is dat een aanpassingsstage wordt doorlopen of proeve van bekwaamheid wordt afgelegd, maakt de aanvrager zijn keuze tussen de aanpassingsstage of de proeve van bekwaamheid kenbaar, tenzij [artikel 11, vijfde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0023066&artikel=11) van toepassing is.
+1. Indien bij de toepassing van [artikel 11, eerste, tweede en derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0023066&artikel=11) is gebleken dat de kennis en ervaring van de aanvrager wezenlijk verschilt van de inhoudsgebieden of onderdelen van inhoudsgebieden die deel uitmaken van de opleiding tot registerloods, noordzeeloods of VTS-operator, bedoeld in respectievelijk [hoofdstuk 2](https://wetten.overheid.nl/jci1.3:c:BWBR0034471&hoofdstuk=2), [3](https://wetten.overheid.nl/jci1.3:c:BWBR0034471&hoofdstuk=3) of [5 van het BOBNB](https://wetten.overheid.nl/jci1.3:c:BWBR0034471&hoofdstuk=5) en dat het daardoor noodzakelijk is dat een aanpassingsstage wordt doorlopen of proeve van bekwaamheid wordt afgelegd, maakt de aanvrager zijn keuze tussen de aanpassingsstage of de proeve van bekwaamheid kenbaar, tenzij [artikel 11, vijfde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0023066&artikel=11) van toepassing is.
+
+2. In afwijking van het eerste lid, kan, in geval [artikel 11, zesde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0023066&artikel=11) van toepassing is, worden bepaald dat zowel een aanpassingsstage wordt doorlopen als een proeve van bekwaamheid wordt afgelegd.
+
+3. Bij de toepassing van dit artikel wordt [artikel 11, zevende en achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023066&artikel=11), van de wet in acht genomen.
 
 ##### Artikel 9. De aanpassingsstage
 
-Indien de aanvrager voor een aanpassingsstage in aanmerking wenst te komen, stelt de betreffende in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0034521&hoofdstuk=5&artikel=6&z=2016-01-23&g=2016-01-18) genoemde organisatie vast:
+Indien de aanvrager voor een aanpassingsstage in aanmerking wenst te komen, stelt de betreffende in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0034521&hoofdstuk=5&artikel=6&z=2016-01-23&g=2016-01-23) genoemde organisatie vast:
 
 - a. de inhoudsgebieden of onderdelen van inhoudsgebieden waarop de aanpassingsstage betrekking heeft,
 
 - b. de duur van de aanpassingsstage,
 
-- c. in voorkomend geval de aanvullende opleiding die deel uitmaakt van de aanpassingsstage,
+- c. in voorkomend geval de aanvullende opleiding die deel uitmaakt van de aanpassingsstage, en
 
-- d. de wijze waarop de aanpassingsstage wordt beoordeeld, en
-
-- e. de aan de aanpassingsstage verbonden kosten.
+- d. de wijze waarop de aanpassingsstage wordt beoordeeld.
 
 ##### Artikel 10. De proeve van bekwaamheid
 
-Indien de aanvrager voor een proeve van bekwaamheid in aanmerking wenst te komen, stelt de betreffende in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0034521&hoofdstuk=5&artikel=6&z=2016-01-23&g=2016-01-18) genoemde organisatie vast:
+Indien de aanvrager voor een proeve van bekwaamheid in aanmerking wenst te komen, stelt de betreffende in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0034521&hoofdstuk=5&artikel=6&z=2016-01-23&g=2016-01-23) genoemde organisatie vast:
 
-- a. met betrekking tot welke inhoudsgebieden of onderdelen van inhoudsgebieden de proeve wordt afgelegd,
+- a. met betrekking tot welke inhoudsgebieden of onderdelen van inhoudsgebieden de proeve wordt afgelegd, en
 
-- b. de wijze waarop en de termijn waarbinnen de diverse onderdelen van de proeve zullen worden afgenomen, en
-
-- c. de aan de proeve van bekwaamheid verbonden kosten.
+- b. de wijze waarop en de termijn waarbinnen de diverse onderdelen van de proeve zullen worden afgenomen.
 
 ##### Artikel 11. Afwijzen aanvraag
 
 De aanvraag wordt afgewezen, indien de aanvrager de aanpassingsstage of de proeve van bekwaamheid niet met goed gevolg heeft volbracht of de daaraan verbonden kosten niet heeft voldaan.
 
-##### Artikel 12. Intrekken afgegeven erkenning EG-beroepskwalificatie
+##### Artikel 12. Intrekken afgegeven erkenning EU-beroepskwalificaties
 
-Indien na afgifte van de erkenning van de EG-beroepskwalificaties is gebleken, dat de bij de aanvraag overgelegde documenten niet geldig, vals of vervalst waren, wordt de erkenning ingetrokken en vervangen door een afwijzing van de aanvraag.
+Indien na afgifte van de erkenning van de EU-beroepskwalificaties is gebleken, dat de bij de aanvraag overgelegde documenten niet geldig, vals of vervalst waren, wordt de erkenning ingetrokken en vervangen door een afwijzing van de aanvraag.
 
 ##### Artikel 13. Tijdelijke en incidentele dienstverrichting
 
-1. Voorafgaand aan de eerste dienstverrichting in Nederland in een functie die gewoonlijk wordt uitgeoefend door een registerloods, noordzeeloods of VTS-operator, door een dienstverrichter als bedoeld in [artikel 21 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0023066&artikel=21), legt deze dienstverrichter aan de betreffende in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0034521&hoofdstuk=5&artikel=6&z=2016-01-23&g=2016-01-18) genoemde organisatie over:
+1. Voorafgaand aan de eerste dienstverrichting in Nederland in een functie die gewoonlijk wordt uitgeoefend door een registerloods, noordzeeloods of VTS-operator, door een dienstverrichter als bedoeld in [artikel 21 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0023066&artikel=21), legt deze dienstverrichter aan de betreffende in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0034521&hoofdstuk=5&artikel=6&z=2016-01-23&g=2016-01-23) genoemde organisatie over:
 
 - a. een schriftelijke verklaring met daarin gegevens betreffende verzekering of gelijksoortige bescherming tegen de financiële risico’s van zijn beroepsaansprakelijkheid als bedoeld in [artikel 23, eerste en tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0023066&artikel=23), en
 
@@ -230,13 +238,13 @@ De volgende regelingen worden ingetrokken:
 
 ##### Artikel 20. Overgangsrecht
 
-In afwijking van [artikel 19, aanhef en onderdeel b en c](https://wetten.overheid.nl/jci1.3:c:BWBR0034521&hoofdstuk=6&artikel=19&z=2016-01-23&g=2016-01-18), blijven de in de genoemde onderdelen genoemde regelingen zoals deze op 31 december 2013 luidden, van toepassing op aanvragen voor erkenning van EU-beroepskwalificaties die voor die datum bij een van de in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0034521&hoofdstuk=5&artikel=6&z=2016-01-23&g=2016-01-18) genoemde organisaties zijn ingediend.
+In afwijking van [artikel 19, aanhef en onderdeel b en c](https://wetten.overheid.nl/jci1.3:c:BWBR0034521&hoofdstuk=6&artikel=19&z=2016-01-23&g=2016-01-23), blijven de in de genoemde onderdelen genoemde regelingen zoals deze op 31 december 2013 luidden, van toepassing op aanvragen voor erkenning van EU-beroepskwalificaties die voor die datum bij een van de in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0034521&hoofdstuk=5&artikel=6&z=2016-01-23&g=2016-01-23) genoemde organisaties zijn ingediend.
 
 ##### Artikel 21. Inwerkingtreding
 
 1. Deze regeling treedt in werking met ingang van 1 januari 2014.
 
-2. In afwijking van het eerste lid, treedt deze regeling, indien het [Besluit opleidingen en bevoegdheden nautische beroepsbeoefenaren](https://wetten.overheid.nl/jci1.3:c:BWBR0034471), niet op 1 januari 2014 in werking treedt, in werking met ingang van 1 april 2014 en werken de [artikelen 3 tot en met 14](https://wetten.overheid.nl/jci1.3:c:BWBR0034521&hoofdstuk=3&artikel=3&z=2016-01-23&g=2016-01-18) en [17 tot en met 20](https://wetten.overheid.nl/jci1.3:c:BWBR0034521&hoofdstuk=6&artikel=17&z=2016-01-23&g=2016-01-18) terug tot en met 1 januari 2014.
+2. In afwijking van het eerste lid, treedt deze regeling, indien het [Besluit opleidingen en bevoegdheden nautische beroepsbeoefenaren](https://wetten.overheid.nl/jci1.3:c:BWBR0034471), niet op 1 januari 2014 in werking treedt, in werking met ingang van 1 april 2014 en werken de [artikelen 3 tot en met 14](https://wetten.overheid.nl/jci1.3:c:BWBR0034521&hoofdstuk=3&artikel=3&z=2016-01-23&g=2016-01-23) en [17 tot en met 20](https://wetten.overheid.nl/jci1.3:c:BWBR0034521&hoofdstuk=6&artikel=17&z=2016-01-23&g=2016-01-23) terug tot en met 1 januari 2014.
 
 ##### Artikel 22. Citeertitel
 
