@@ -4,7 +4,7 @@ identifier: "BWBR0030563"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2019-04-01"
-last_updated: "2016-01-18"
+last_updated: "2016-01-23"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0030563"
 soort: "ministeriele-regeling"
@@ -55,19 +55,19 @@ In deze regeling wordt verstaan onder:
 
 ##### Artikel 2
 
-1. De eisen inzake de medische geschiktheid van personen die binnen het hoofdspoorwegverkeerssysteem de veiligheidsfunctie van machinist met volledige bevoegdheid, machinist met beperkte bevoegdheid of rangeerder uitoefenen, bedoeld in [artikel 9, eerste en tweede lid, van het Besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0030006&artikel=9), zijn opgenomen in de bij deze regeling behorende [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0030563&bijlage=1&z=2016-01-23&g=2016-01-18).
+1. De eisen inzake de medische geschiktheid van personen die binnen het hoofdspoorwegverkeerssysteem de veiligheidsfunctie van machinist met volledige bevoegdheid, machinist met beperkte bevoegdheid of rangeerder uitoefenen, bedoeld in [artikel 9, eerste en tweede lid, van het Besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0030006&artikel=9), zijn opgenomen in de bij deze regeling behorende [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0030563&bijlage=1&z=2016-01-23&g=2016-01-23).
 
-2. De eisen inzake de medische geschiktheid van personen die binnen het hoofdspoorwegverkeerssysteem de veiligheidsfunctie van treindienstleider met volledige bevoegdheid uitoefenen, bedoeld in [artikel 9, tweede lid, van het Besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0030006&artikel=9), zijn opgenomen in de bij deze regeling behorende [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0030563&bijlage=2&z=2016-01-23&g=2016-01-18).
+2. De eisen inzake de medische geschiktheid van personen die binnen het hoofdspoorwegverkeerssysteem de veiligheidsfunctie van treindienstleider met volledige bevoegdheid uitoefenen, bedoeld in [artikel 9, tweede lid, van het Besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0030006&artikel=9), zijn opgenomen in de bij deze regeling behorende [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0030563&bijlage=2&z=2016-01-23&g=2016-01-23).
 
-3. De eisen inzake de medische geschiktheid van personen die binnen het hoofdspoorwegverkeerssysteem de veiligheidsfunctie van treindienstleider met minimale bevoegdheid uitoefenen, bedoeld in [artikel 9, tweede lid, van het Besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0030006&artikel=9), zijn opgenomen in de bij deze regeling behorende [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0030563&bijlage=3&z=2016-01-23&g=2016-01-18).
+3. De eisen inzake de medische geschiktheid van personen die binnen het hoofdspoorwegverkeerssysteem de veiligheidsfunctie van treindienstleider met minimale bevoegdheid uitoefenen, bedoeld in [artikel 9, tweede lid, van het Besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0030006&artikel=9), zijn opgenomen in de bij deze regeling behorende [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0030563&bijlage=3&z=2016-01-23&g=2016-01-23).
 
 ##### Artikel 3
 
-De eisen inzake de psychologische geschiktheid van personen die binnen het hoofdspoorwegverkeerssysteem een veiligheidsfunctie uitoefenen, bedoeld in [artikel 9, eerste en tweede lid, van het Besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0030006&artikel=9), zijn opgenomen in de bij deze regeling behorende [bijlage 4](https://wetten.overheid.nl/jci1.3:c:BWBR0030563&bijlage=4&z=2016-01-23&g=2016-01-18).
+De eisen inzake de psychologische geschiktheid van personen die binnen het hoofdspoorwegverkeerssysteem een veiligheidsfunctie uitoefenen, bedoeld in [artikel 9, eerste en tweede lid, van het Besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0030006&artikel=9), zijn opgenomen in de bij deze regeling behorende [bijlage 4](https://wetten.overheid.nl/jci1.3:c:BWBR0030563&bijlage=4&z=2016-01-23&g=2016-01-23).
 
 ##### Artikel 4
 
-Indien de keurling in geringe mate niet aan één of meerdere ingevolge [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0030563&paragraaf=2&artikel=2&z=2016-01-23&g=2016-01-18) vastgestelde medische eisen voldoet, kan de keurling desondanks ten aanzien van de desbetreffende eis of eisen zonder voorwaarden of beperkingen worden goedgekeurd, indien:
+Indien de keurling in geringe mate niet aan één of meerdere ingevolge [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0030563&paragraaf=2&artikel=2&z=2016-01-23&g=2016-01-23) vastgestelde medische eisen voldoet, kan de keurling desondanks ten aanzien van de desbetreffende eis of eisen zonder voorwaarden of beperkingen worden goedgekeurd, indien:
 
 - a. de keuringsarts vaststelt dat de keuringseis waaraan niet wordt voldaan voldoende wordt gecompenseerd;
 
@@ -99,7 +99,7 @@ De verklaring van medische geschiktheid en de verklaring van psychologische gesc
 
 2. Een aanvraag gaat vergezeld van de documenten zoals aangegeven op het aanvraagformulier, bedoeld in het eerste lid.
 
-#### § 4. Erkenning EG-beroepskwalificaties
+#### § 4. Erkenning EU-beroepskwalificaties
 
 ##### Artikel 7
 
@@ -107,9 +107,9 @@ Deze paragraaf is van toepassing op een aanvraag van een migrerende beroepsbeoef
 
 ##### Artikel 8
 
-1. Een aanvraag als bedoeld in [artikel 33 van de Algemene wet erkenning EG-beroepskwalificaties](https://wetten.overheid.nl/jci1.3:c:BWBR0023066&artikel=33) wordt ingediend bij Onze Minister.
+1. Een aanvraag als bedoeld in [artikel 33 van de Algemene wet erkenning EU-beroepskwalificaties](https://wetten.overheid.nl/jci1.3:c:BWBR0023066&artikel=33) wordt ingediend bij Onze Minister.
 
-2. De aanvraag bevat de documenten, bedoeld in de [artikelen 13, eerste lid, onderdelen a tot en met d](https://wetten.overheid.nl/jci1.3:c:BWBR0023066&artikel=13), en [15 van de Algemene wet erkenning EG-beroepskwalificaties](https://wetten.overheid.nl/jci1.3:c:BWBR0023066&artikel=15).
+2. De aanvraag bevat de documenten, bedoeld in de [artikelen 13, eerste lid, onderdelen a tot en met d](https://wetten.overheid.nl/jci1.3:c:BWBR0023066&artikel=13), en [15 van de Algemene wet erkenning EU-beroepskwalificaties](https://wetten.overheid.nl/jci1.3:c:BWBR0023066&artikel=15).
 
 ##### Artikel 9
 
@@ -123,7 +123,7 @@ De migrerende beroepsbeoefenaar maakt zijn keuze voor een aanpassingsstage of pr
 
 ##### Artikel 11
 
-Een aanvraag als bedoeld in [artikel 8, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030563&paragraaf=4&artikel=8&z=2016-01-23&g=2016-01-18), wordt afgewezen indien de aanpassingsstage, dan wel de proeve van bekwaamheid, als onvoldoende is beoordeeld.
+Een aanvraag als bedoeld in [artikel 8, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030563&paragraaf=4&artikel=8&z=2016-01-23&g=2016-01-23), wordt afgewezen indien de aanpassingsstage, dan wel de proeve van bekwaamheid, als onvoldoende is beoordeeld.
 
 #### § 5. Slotbepalingen
 
@@ -135,7 +135,7 @@ Dit besluit treedt in werking op het tijdstip waarop het [Besluit](https://wette
 
 Deze regeling wordt aangehaald als: Regeling spoorwegpersoneel 2011.
 
-## Bijlage 1. behorende bij [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030563&paragraaf=2&artikel=2&z=2016-01-23&g=2016-01-18), van de Regeling spoorwegpersoneel 2011
+## Bijlage 1. behorende bij [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030563&paragraaf=2&artikel=2&z=2016-01-23&g=2016-01-23), van de Regeling spoorwegpersoneel 2011
 
 ### Medische eisen veiligheidsfuncties van rangeerder, machinist met volledige bevoegdheid en machinist met beperkte bevoegdheid
 
@@ -647,7 +647,7 @@ Bij aandoeningen die niet genoemd zijn in de vorige hoofdstukken en waarbij de m
 
 moet altijd worden overlegd met de arts-deskundige.
 
-## Bijlage 2. behorende bij [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030563&paragraaf=2&artikel=2&z=2016-01-23&g=2016-01-18), van de Regeling spoorwegpersoneel 2011
+## Bijlage 2. behorende bij [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030563&paragraaf=2&artikel=2&z=2016-01-23&g=2016-01-23), van de Regeling spoorwegpersoneel 2011
 
 ### Medische eisen veiligheidsfuncties van treindienstleider met volledige bevoegdheid
 
@@ -1019,7 +1019,7 @@ Aangetoond overmatig alcoholgebruik c.q. misbruik, alsmede druggebruik, leidt to
 
 Psychiatrische aandoeningen kunnen treindienstleiders belemmeren in adequaat handelen. In de praktijk zijn twee situaties denkbaar.
 
-## Bijlage 3. behorende bij [artikel 2, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030563&paragraaf=2&artikel=2&z=2016-01-23&g=2016-01-18), van de Regeling spoorwegpersoneel 2011
+## Bijlage 3. behorende bij [artikel 2, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030563&paragraaf=2&artikel=2&z=2016-01-23&g=2016-01-23), van de Regeling spoorwegpersoneel 2011
 
 ### Medische eisen veiligheidsfuncties van treindienstleider met minimale bevoegdheid
 
@@ -1145,7 +1145,7 @@ Medicijngebruik mag geen invloed hebben op de veiligheidsgeschiktheid. Bij twijf
 
 Aangetoond overmatig alcoholgebruik c.q. misbruik, alsmede druggebruik, leidt altijd tot (tijdelijke) ongeschiktheid. Geschiktverklaring na behandeling vindt plaats na beoordeling van het behandelingsresultaat en het terugvalrisico. Hiertoe kan het oordeel van een psychologische keuringsinstantie worden ingeroepen.
 
-## Bijlage 4. behorende bij [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0030563&paragraaf=2&artikel=3&z=2016-01-23&g=2016-01-18) van de Regeling spoorwegpersoneel 2011
+## Bijlage 4. behorende bij [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0030563&paragraaf=2&artikel=3&z=2016-01-23&g=2016-01-23) van de Regeling spoorwegpersoneel 2011
 
 ### Psychologische eisen veiligheidsfuncties hoofdspoorweginfrastructuur
 
