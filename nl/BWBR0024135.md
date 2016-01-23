@@ -4,7 +4,7 @@ identifier: "BWBR0024135"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2016-01-23"
-last_updated: "2016-01-18"
+last_updated: "2016-01-23"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0024135"
 soort: "ministeriele-regeling"
@@ -44,7 +44,7 @@ In deze regeling wordt verstaan onder:
 
 Minister: Minister van Infrastructuur en Milieu;
 
-wet: [Algemene wet erkenning EG-beroepskwalificaties](https://wetten.overheid.nl/jci1.3:c:BWBR0023066).
+wet: [Algemene wet erkenning EU-beroepskwalificaties](https://wetten.overheid.nl/jci1.3:c:BWBR0023066).
 
 ##### Artikel 2
 
@@ -92,7 +92,7 @@ Besluit:
 
 #### § 1. Algemene bepalingen
 
-#### § 2. Erkenning EG-beroepskwalificaties
+#### § 2. Erkenning EU-beroepskwalificaties
 
 ##### Artikel 7
 
@@ -106,11 +106,11 @@ Vervallen
 
 ##### Artikel 9
 
-Deze regeling treedt in werking met ingang van de tweede dag na dagtekening van de Staatscourant waarin zij wordt geplaatst met dien verstande dat [paragraaf 1](https://wetten.overheid.nl/jci1.3:c:BWBR0024135&paragraaf=1&z=2014-03-15&g=2016-01-18) en [2](https://wetten.overheid.nl/jci1.3:c:BWBR0024135&paragraaf=2&z=2014-03-15&g=2016-01-18) terugwerken tot en met 21 december 2007.
+Deze regeling treedt in werking met ingang van de tweede dag na dagtekening van de Staatscourant waarin zij wordt geplaatst met dien verstande dat [paragraaf 1](https://wetten.overheid.nl/jci1.3:c:BWBR0024135&paragraaf=1&z=2016-01-23&g=2016-01-23) en [2](https://wetten.overheid.nl/jci1.3:c:BWBR0024135&paragraaf=2&z=2016-01-23&g=2016-01-23) terugwerken tot en met 21 december 2007.
 
 ##### Artikel 10
 
-Deze regeling wordt aangehaald als: Regeling erkenning EG-beroepskwalificaties en bewijzen van bevoegdheid luchtvaart.
+Deze regeling wordt aangehaald als: Regeling erkenning EU-beroepskwalificaties en bewijzen van bevoegdheid luchtvaart.
 
 Deze regeling zal met de toelichting de in Staatscourant worden geplaatst.
 
