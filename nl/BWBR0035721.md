@@ -4,7 +4,7 @@ identifier: "BWBR0035721"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2018-06-21"
-last_updated: "2015-01-01"
+last_updated: "2016-01-27"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0035721"
 soort: "ministeriele-regeling"
@@ -44,7 +44,7 @@ Besluit:
 
 1. Tot lid van het Comité van toezicht EFMB, bedoeld in [artikel 2 van de Regeling tot instelling van het Comité van toezicht EFMB](https://wetten.overheid.nl/jci1.3:c:BWBR0035716&artikel=2) worden benoemd:
 
-- a. namens het Ministerie van Sociale Zaken en Werkgelegenheid: de heer R.G. de Boer (tevens voorzitter), met als plaatsvervangend lid mevrouw M.R. ter Napel (tevens plaatsvervangend voorzitter);
+- a. namens het Ministerie van Sociale Zaken en Werkgelegenheid: mevrouw C. Bronda (tevens voorzitter), met als plaatsvervangend lid mevrouw M.R. ten Napel (tevens plaatsvervangend voorzitter);
 
 - b. namens de Algemene Nederlandse Bond voor Ouderen: de heer A. van Scherpenzeel, met als plaatsvervangend lid de heer W. Reijn;
 
@@ -56,7 +56,7 @@ Besluit:
 
 - f. namens het Ministerie van Volksgezondheid, Welzijn en Sport: de heer B. Bijl, met als plaatsvervangend lid mevrouw S. Majiti-Hamria;
 
-- g. namens het Agentschap SZW: de heer M.L.J. Wijnands, met als plaatsvervangend lid de heer M.A.G. Rietbergen.
+- g. namens het Agentschap SZW: de heer W.L.J. van de Griendt, met als plaatsvervangend lid de heer M.A.G. Rietbergen.
 
 2. Namens de Europese Commissie worden de heer H. Lange en de heer P. Melis tot adviserend lid van het Comité van toezicht EFMB benoemd.
 
