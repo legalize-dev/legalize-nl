@@ -4,7 +4,7 @@ identifier: "BWBR0024788"
 country: "nl"
 rank: "wet"
 publication_date: "2024-07-01"
-last_updated: "2011-11-19"
+last_updated: "2016-01-28"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0024788"
 soort: "wet"
@@ -45,11 +45,11 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 ##### Artikel 1
 
-1. De bezoldiging van de vice-president van de Raad van State, de president van de Algemene Rekenkamer en de Nationale ombudsman wordt bepaald op € 10.325,86 per maand.
+1. De bezoldiging van de vice-president van de Raad van State, de president van de Algemene Rekenkamer en de Nationale ombudsman wordt bepaald op € 11.270,20 per maand.
 
-2. De bezoldiging van de voorzitter van de Afdeling bestuursrechtspraak van de Raad van State wordt bepaald op € 9691,95 per maand.
+2. De bezoldiging van de voorzitter van de Afdeling bestuursrechtspraak van de Raad van State wordt bepaald op € 10.520,48 per maand.
 
-3. De bezoldiging van de overige leden van de Raad van State, de overige leden in gewone dienst van de Algemene Rekenkamer en de substituut-ombudsmannen wordt bepaald op € 9098,26 per maand.
+3. De bezoldiging van de overige leden van de Raad van State, de overige leden in gewone dienst van de Algemene Rekenkamer en de substituut-ombudsmannen wordt bepaald op € 9.818,34 per maand.
 
 4. De staatsraden ontvangen een zodanig deel van de in het derde lid bedoelde bezoldiging als overeenkomt met de vastgestelde omvang van de te verrichten taak.
 
