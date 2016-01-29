@@ -4,7 +4,7 @@ identifier: "BWBR0024716"
 country: "nl"
 rank: "wet"
 publication_date: "2016-01-29"
-last_updated: "2010-01-01"
+last_updated: "2016-01-29"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0024716"
 soort: "wet"
@@ -65,11 +65,7 @@ Wijzigt het Burgerlijk Wetboek Boek 2.
 
 ##### Artikel VI
 
-1. [Artikel 5:25c van de Wet op het financieel toezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=5:25c) is niet van toepassing op jaarlijkse financiële verslaggeving die betrekking heeft op boekjaren die vóór 1 januari 2008 zijn aangevangen.
-
-2. [Artikel 5:25d van de Wet op het financieel toezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=5:25d) is niet van toepassing op boekjaren die vóór 1 januari 2008 zijn aangevangen.
-
-3. [Artikel 5:25e van de Wet op het financieel toezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=5:25e) heeft geen betrekking op perioden van een boekjaar die op het tijdstip van inwerkingtreding van deze wet al zijn aangevangen.
+Vervallen
 
 ##### Artikel VII
 
