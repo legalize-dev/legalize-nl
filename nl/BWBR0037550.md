@@ -4,7 +4,7 @@ identifier: "BWBR0037550"
 country: "nl"
 rank: "wet"
 publication_date: "2016-01-29"
-last_updated: "2016-01-01"
+last_updated: "2016-01-29"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0037550"
 soort: "wet"
@@ -43,31 +43,31 @@ Wijzigt de Wet op het financieel toezicht.
 
 ##### Artikel II
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Wet toezicht financiële verslaggeving.
 
 ##### Artikel III
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt het Burgerlijk Wetboek Boek 2.
 
 ##### Artikel IV
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Wijzigingswet Wet op het financieel toezicht, enz. (transparantievereisten informatie uitgevende instellingen waarvan effecten tot de handel op een gereglementeerde markt zijn toegelaten).
 
 ##### Artikel V
 
-Dit onderdeel is nog niet inwerking getreden
+[Artikel 5:25e van de Wet op het financieel toezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=5:25e), zoals dat artikel luidt na inwerkingtreding van deze wet, is niet van toepassing op verslagen die betrekking hebben op boekjaren die zijn aangevangen voor 1 januari 2016.
 
 ##### Artikel Va
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt deze wet.
 
 ##### Artikel VI
 
-Dit onderdeel is nog niet inwerking getreden
+Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip dat voor de verschillende artikelen of onderdelen daarvan verschillend kan worden vastgesteld en werkt, in het geval deze wet na 31 december 2015 in het Staatsblad wordt geplaatst, ten aanzien van [artikel I, onderdeel Ia](https://wetten.overheid.nl/jci1.3:c:BWBR0037550&artikel=I&z=2016-01-29&g=2016-01-29), terug tot en met 1 januari 2016.
 
 ##### Artikel VII
 
-Dit onderdeel is nog niet inwerking getreden
+Deze wet wordt aangehaald als: Implementatiewet wijziging richtlijn transparantie.
 
 Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
 
