@@ -4,7 +4,7 @@ identifier: "BWBR0013280"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-01-01"
-last_updated: "2016-01-01"
+last_updated: "2016-01-30"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0013280"
 soort: "ministeriele-regeling"
@@ -232,7 +232,7 @@ De CWI sluit overeenkomsten met burgemeester en wethouders onderscheidenlijk het
 
 2. Indien de pensioenuitvoerder de werkzaamheden uitbesteedt als bedoeld in [artikel 34 van de Pensioenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&artikel=34) en [artikel 43 van de Wet verplichte beroepspensioenregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0018831&artikel=43) en deze uitbesteding inhoudt, dat de daar genoemde derde bewerker is in de zin van de [Wet bescherming persoonsgegevens](https://wetten.overheid.nl/jci1.3:c:BWBR0028067) voor de pensioenuitvoerder, verstrekt het UWV de gegevens aan deze derde.
 
-3. Het UWV overlegt over de inrichting van de elektronische voorziening, bedoeld in [artikel 3.1, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&hoofdstuk=3&paragraaf=3.1&artikel=3.1&z=2015-09-25&g=2016-01-01), met een vertegenwoordiging van de pensioenuitvoerders.
+3. Het UWV overlegt over de inrichting van de elektronische voorziening, bedoeld in [artikel 3.1, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&hoofdstuk=3&paragraaf=3.1&artikel=3.1&z=2016-01-30&g=2016-01-30), met een vertegenwoordiging van de pensioenuitvoerders.
 
 ##### Artikel 3.3. Toegang tot adresgegevens polisadministratie ten behoeve van basisregistratie personen
 
@@ -242,7 +242,7 @@ De CWI sluit overeenkomsten met burgemeester en wethouders onderscheidenlijk het
 
 3. Het UWV verstrekt de gegevens, bedoeld in het tweede lid, op de door het college van burgemeester en wethouders bij het verzoek aangegeven wijze of verwerkt die gegevens in het kader van de gezamenlijke elektronische voorzieningen SUWI.
 
-4. Het UWV en de colleges van burgemeester en wethouders verwerken de adresgegevens, bedoeld in eerste en tweede lid, in het kader van de gezamenlijke elektronische voorzieningen SUWI op de wijze, bedoeld in [artikel 6.2](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&hoofdstuk=6&paragraaf=6.1&artikel=6.2&z=2015-09-25&g=2016-01-01), [6.3](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&hoofdstuk=6&paragraaf=6.1&artikel=6.3&z=2015-09-25&g=2016-01-01) en [6.4](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&hoofdstuk=6&paragraaf=6.1&artikel=6.4&z=2015-09-25&g=2016-01-01).
+4. Het UWV en de colleges van burgemeester en wethouders verwerken de adresgegevens, bedoeld in eerste en tweede lid, in het kader van de gezamenlijke elektronische voorzieningen SUWI op de wijze, bedoeld in [artikel 6.2](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&hoofdstuk=6&paragraaf=6.1&artikel=6.2&z=2016-01-30&g=2016-01-30), [6.3](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&hoofdstuk=6&paragraaf=6.1&artikel=6.3&z=2016-01-30&g=2016-01-30) en [6.4](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&hoofdstuk=6&paragraaf=6.1&artikel=6.4&z=2016-01-30&g=2016-01-30).
 
 5. Het UWV bepaalt bij de uitvoering van taken als bedoeld in [artikel 5.21, eerste en tweede lid, van het Besluit SUWI](https://wetten.overheid.nl/jci1.3:c:BWBR0013267&artikel=5.21), op welke wijze bij de toepassing van het vierde lid, inhoud wordt gegeven aan de gegevensverwerking op grond van dit artikel.
 
@@ -342,7 +342,7 @@ In deze paragraaf wordt verstaan onder:
 
 ##### Artikel 3.7. Bewaren van gegevens
 
-1. Het UWV houdt de gegevens bedoeld in [artikel 3.5, onderdelen a tot en met e](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&hoofdstuk=3&paragraaf=3.2&artikel=3.5&z=2015-09-25&g=2016-01-01), gedurende ten minste vijf kalenderjaren na het jaar waarin deze gegevens zijn opgenomen, beschikbaar ten behoeve van raadplegingen.
+1. Het UWV houdt de gegevens bedoeld in [artikel 3.5, onderdelen a tot en met e](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&hoofdstuk=3&paragraaf=3.2&artikel=3.5&z=2016-01-30&g=2016-01-30), gedurende ten minste vijf kalenderjaren na het jaar waarin deze gegevens zijn opgenomen, beschikbaar ten behoeve van raadplegingen.
 
 2. Vanaf het moment dat een verzekerde de leeftijd van 65 jaar bereikt of voor het bereiken van die leeftijd overlijdt, worden de hem betreffende, in de verzekerdenadministratie opgenomen gegevens, gedurende vijf jaren te rekenen vanaf dat moment door het UWV bewaard.
 
@@ -378,13 +378,13 @@ In deze paragraaf wordt verstaan onder:
 
 1. Het UWV verifieert de in het tweede lid genoemde gegevens bij de authentieke bron bij de eerste opname van gegevens over de verzekerde in de verzekerdenadministratie en vervolgens, indien daartoe aanleiding is.
 
-2. Voor de in [artikel 3.5](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&hoofdstuk=3&paragraaf=3.2&artikel=3.5&z=2015-09-25&g=2016-01-01) bedoelde gegevens gelden als authentieke bron:
+2. Voor de in [artikel 3.5](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&hoofdstuk=3&paragraaf=3.2&artikel=3.5&z=2016-01-30&g=2016-01-30) bedoelde gegevens gelden als authentieke bron:
 
 - a. burgerservicenummer: de beheersvoorziening BSN;
 
 - b. gegevens van de arbeidsverhouding: de administratie van de werkgever.
 
-3. Voor de in [artikel 3.5](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&hoofdstuk=3&paragraaf=3.2&artikel=3.5&z=2015-09-25&g=2016-01-01) genoemde gegevens waarvoor in het tweede lid geen persoon of instelling als authentieke bron is aangemerkt, geldt als authentieke bron het UWV.
+3. Voor de in [artikel 3.5](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&hoofdstuk=3&paragraaf=3.2&artikel=3.5&z=2016-01-30&g=2016-01-30) genoemde gegevens waarvoor in het tweede lid geen persoon of instelling als authentieke bron is aangemerkt, geldt als authentieke bron het UWV.
 
 4. De verificatie bij eerste opname van gegevens over de verzekerde vindt plaats binnen vier weken na ontvangst van die gegevens.
 
@@ -450,11 +450,11 @@ Het UWV en de SVB dienen ieder jaarlijks vóór 1 juli een ontwerp-jaarplan met 
 
 1. Het UWV, de SVB en het IB bieden ieder hun jaarplan met begroting jaarlijks vóór 1 oktober aan de minister aan.
 
-2. De jaarplannen met begrotingen van het UWV , de SVB, en het IB bevatten in elk geval een omschrijving van de onderwerpen die zijn genoemd in de bij deze regeling behorende [bijlagen VI](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&bijlage=VI&z=2015-09-25&g=2016-01-01), [VIII](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&bijlage=VIII&z=2015-09-25&g=2016-01-01) en [XI](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&bijlage=XI&z=2015-09-25&g=2016-01-01).
+2. De jaarplannen met begrotingen van het UWV , de SVB, en het IB bevatten in elk geval een omschrijving van de onderwerpen die zijn genoemd in de bij deze regeling behorende [bijlagen VI](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&bijlage=VI&z=2016-01-30&g=2016-01-30), [VIII](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&bijlage=VIII&z=2016-01-30&g=2016-01-30) en [XI](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&bijlage=XI&z=2016-01-30&g=2016-01-30).
 
 3. Het jaarplan van het UWV bestaat uit twee afzonderlijke delen, waarvan één deel uitsluitend betrekking heeft op het in [artikel 5.21, tweede lid, van het Besluit SUWI](https://wetten.overheid.nl/jci1.3:c:BWBR0013267&artikel=5.21) bedoelde organisatieonderdeel en het andere deel op het UWV met uitzondering van het bedoelde organisatieonderdeel.
 
-4. De delen van het jaarplan die betrekking hebben op het in [artikel 5.21, tweede lid, van het Besluit SUWI](https://wetten.overheid.nl/jci1.3:c:BWBR0013267&artikel=5.21) bedoelde organisatieonderdeel bevatten in elk geval een omschrijving van de onderwerpen die zijn genoemd in de bij deze regeling behorende [bijlage XX](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&bijlage=XX&z=2015-09-25&g=2016-01-01).
+4. De delen van het jaarplan die betrekking hebben op het in [artikel 5.21, tweede lid, van het Besluit SUWI](https://wetten.overheid.nl/jci1.3:c:BWBR0013267&artikel=5.21) bedoelde organisatieonderdeel bevatten in elk geval een omschrijving van de onderwerpen die zijn genoemd in de bij deze regeling behorende [bijlage XX](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&bijlage=XX&z=2016-01-30&g=2016-01-30).
 
 ##### Artikel 5.4. Meerjarenbeleidsplan van UWV en SVB
 
@@ -498,9 +498,9 @@ Vervallen
 
 ##### Artikel 5.12. Periodieke informatieverstrekking
 
-1. Uiterlijk op de in de [bijlagen VI](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&bijlage=VI&z=2015-09-25&g=2016-01-01) en [VIII](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&bijlage=VIII&z=2015-09-25&g=2016-01-01) genoemde tijdstippen verstrekken het UWV en de SVB aan de minister een rapportage over de door hen beheerde fondsen op de wijze als in de [bijlagen VI](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&bijlage=VI&z=2015-09-25&g=2016-01-01) en [VIII](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&bijlage=VIII&z=2015-09-25&g=2016-01-01) is aangegeven.
+1. Uiterlijk op de in de [bijlagen VI](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&bijlage=VI&z=2016-01-30&g=2016-01-30) en [VIII](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&bijlage=VIII&z=2016-01-30&g=2016-01-30) genoemde tijdstippen verstrekken het UWV en de SVB aan de minister een rapportage over de door hen beheerde fondsen op de wijze als in de [bijlagen VI](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&bijlage=VI&z=2016-01-30&g=2016-01-30) en [VIII](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&bijlage=VIII&z=2016-01-30&g=2016-01-30) is aangegeven.
 
-2. Het UWV en de SVB verstrekken ten behoeve van het jaarverslag van het Ministerie van Sociale Zaken en Werkgelegenheid de informatie, bedoeld in de bij deze regeling behorende [bijlagen VI](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&bijlage=VI&z=2015-09-25&g=2016-01-01), en [VIII](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&bijlage=VIII&z=2015-09-25&g=2016-01-01) op het in deze bijlagen bepaalde tijdstip.
+2. Het UWV en de SVB verstrekken ten behoeve van het jaarverslag van het Ministerie van Sociale Zaken en Werkgelegenheid de informatie, bedoeld in de bij deze regeling behorende [bijlagen VI](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&bijlage=VI&z=2016-01-30&g=2016-01-30), en [VIII](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&bijlage=VIII&z=2016-01-30&g=2016-01-30) op het in deze bijlagen bepaalde tijdstip.
 
 ##### Artikel 5.13. Jaarlijkse informatieverstrekking voor de Rijksbegroting
 
@@ -514,7 +514,7 @@ Vervallen
 
 3. Op verzoek van de minister verstrekken het UWV en de SVB informatie aan door hem aangewezen internationaalrechtelijke organisaties.
 
-4. Op verzoek van de minister verstrekt het UWV gegevens en informatie aan de minister van Binnenlands Zaken en Koninkrijksrelaties. Het UWV levert in ieder geval binnen zes weken na afloop van elk kwartaal de in [bijlage IX](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&bijlage=IX&z=2015-09-25&g=2016-01-01) genoemde rapportages en jaarlijks, binnen drie maanden na afloop van het jaar, de in [bijlage IX](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&bijlage=IX&z=2015-09-25&g=2016-01-01) genoemde bestanden.
+4. Op verzoek van de minister verstrekt het UWV gegevens en informatie aan de minister van Binnenlands Zaken en Koninkrijksrelaties. Het UWV levert in ieder geval binnen zes weken na afloop van elk kwartaal de in [bijlage IX](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&bijlage=IX&z=2016-01-30&g=2016-01-30) genoemde rapportages en jaarlijks, binnen drie maanden na afloop van het jaar, de in [bijlage IX](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&bijlage=IX&z=2016-01-30&g=2016-01-30) genoemde bestanden.
 
 5. Het UWV en de SVB plegen overleg met de personen of instanties, bedoeld in het eerste, tweede, derde en vierde lid, over de inhoud, de vorm, de wijze en het tijdstip waarop de informatieverstrekking, bedoeld in het eerste, tweede, derde en vierde lid, plaatsvindt.
 
@@ -524,7 +524,7 @@ Vervallen
 
 1. Het UWV en de SVB brengen rapporten over onderzoek dat door of in opdracht van de uitvoeringsorganisatie is uitgevoerd, ter kennis van de minister. De rapporten over onderzoeken, waarvan de minister niet reeds op de hoogte was of kon zijn, worden uiterlijk twee weken voor openbaarmaking aan de minister verstrekt.
 
-2. Het UWV en de SVB maken rapporten met informatie als bedoeld in [artikel 5.12](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&hoofdstuk=5&paragraaf=5.2&sub-paragraaf=5.2.1&artikel=5.12&z=2015-09-25&g=2016-01-01) en [artikel 5.14, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&hoofdstuk=5&paragraaf=5.2&sub-paragraaf=5.2.1&artikel=5.14&z=2015-09-25&g=2016-01-01), niet eerder dan twee dagen na verstrekking aan de minister, openbaar.
+2. Het UWV en de SVB maken rapporten met informatie als bedoeld in [artikel 5.12](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&hoofdstuk=5&paragraaf=5.2&sub-paragraaf=5.2.1&artikel=5.12&z=2016-01-30&g=2016-01-30) en [artikel 5.14, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&hoofdstuk=5&paragraaf=5.2&sub-paragraaf=5.2.1&artikel=5.14&z=2016-01-30&g=2016-01-30), niet eerder dan twee dagen na verstrekking aan de minister, openbaar.
 
 3. In geval van de openbaarmaking, bedoeld in dit artikel, wordt de minister uiterlijk 48 uur voor de verwachte publicatietermijn geïnformeerd over de wijze waarop dit zal plaatsvinden.
 
@@ -534,13 +534,13 @@ Vervallen
 
 1. Het UWV en de SVB dragen zorg voor een deugdelijke administratie en organisatie, waaronder begrepen dusdanige procedures en voorzieningen dat er, mede gelet op de stand van de kennis op het terrein van de kwaliteitszorg, voldoende waarborgen aanwezig zijn voor:
 
-- a. het kunnen voldoen aan de informatieverplichtingen, bedoeld in [§ 5.2.1](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&hoofdstuk=5&paragraaf=5.2&sub-paragraaf=5.2.1&z=2015-09-25&g=2016-01-01);
+- a. het kunnen voldoen aan de informatieverplichtingen, bedoeld in [§ 5.2.1](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&hoofdstuk=5&paragraaf=5.2&sub-paragraaf=5.2.1&z=2016-01-30&g=2016-01-30);
 
 - b. tijdige verstrekking van gegevens en informatie;
 
 - c. voldoende actualiteit;
 
-- d. het voldoen aan het normenkader voor de betrouwbaarheid van de niet-financiële informatie zoals opgenomen in de bij deze regeling behorende [bijlage XVII](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&bijlage=XVII&z=2015-09-25&g=2016-01-01) (‘Normenkader betrouwbaarheid niet-financiële informatie’);
+- d. het voldoen aan het normenkader voor de betrouwbaarheid van de niet-financiële informatie zoals opgenomen in de bij deze regeling behorende [bijlage XVII](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&bijlage=XVII&z=2016-01-30&g=2016-01-30) (‘Normenkader betrouwbaarheid niet-financiële informatie’);
 
 - e. continuïteit van de verstrekking en opslag van gegevens en informatie.
 
@@ -608,33 +608,33 @@ Vervallen
 
 ##### Artikel 6.1. Eenmalige uitvraag van gegevens
 
-1. In [bijlage II](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&bijlage=II&z=2015-09-25&g=2016-01-01) bij deze regeling zijn de gegevens uit [Bijlage II, bedoeld in artikel 5.2a van het Besluit SUWI](https://wetten.overheid.nl/jci1.3:c:BWBR0013267&bijlage=II) opgenomen, waarop [artikel 5.2a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013267&artikel=5.2a), van toepassing is.
+1. In [bijlage II](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&bijlage=II&z=2016-01-30&g=2016-01-30) bij deze regeling zijn de gegevens uit [Bijlage II, bedoeld in artikel 5.2a van het Besluit SUWI](https://wetten.overheid.nl/jci1.3:c:BWBR0013267&bijlage=II) opgenomen, waarop [artikel 5.2a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013267&artikel=5.2a), van toepassing is.
 
-2. In de [bijlage](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&bijlage=II&z=2015-09-25&g=2016-01-01) wordt bij de gegevens aangegeven vanaf welk moment [artikel 5.2a, eerste lid, van het Besluit SUWI](https://wetten.overheid.nl/jci1.3:c:BWBR0013267&artikel=5.2a) voor de verwerking van die gegevens van toepassing is.
+2. In de [bijlage](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&bijlage=II&z=2016-01-30&g=2016-01-30) wordt bij de gegevens aangegeven vanaf welk moment [artikel 5.2a, eerste lid, van het Besluit SUWI](https://wetten.overheid.nl/jci1.3:c:BWBR0013267&artikel=5.2a) voor de verwerking van die gegevens van toepassing is.
 
 ##### Artikel 6.2. Gegevensregister SUWI
 
-1. In [bijlage XII](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&bijlage=XII&z=2015-09-25&g=2016-01-01) (Gegevensregister SUWI 9.0) bij deze regeling is het Gegevensregister SUWI opgenomen, bedoeld in [artikel 5.20 van het Besluit SUWI](https://wetten.overheid.nl/jci1.3:c:BWBR0013267&artikel=5.20).
+1. In [bijlage XII](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&bijlage=XII&z=2016-01-30&g=2016-01-30) (Gegevensregister SUWI 9.0) bij deze regeling is het Gegevensregister SUWI opgenomen, bedoeld in [artikel 5.20 van het Besluit SUWI](https://wetten.overheid.nl/jci1.3:c:BWBR0013267&artikel=5.20).
 
-2. In [bijlage XVIII](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&bijlage=XVIII&z=2015-09-25&g=2016-01-01) (Gegevensregister IB 2.7) bij deze regeling zijn gegevens opgenomen als bedoeld in [artikel 5.24, tweede lid, van het Besluit SUWI](https://wetten.overheid.nl/jci1.3:c:BWBR0013267&artikel=5.24), die door het IB worden verwerkt.
+2. In [bijlage XVIII](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&bijlage=XVIII&z=2016-01-30&g=2016-01-30) (Gegevensregister IB 2.7) bij deze regeling zijn gegevens opgenomen als bedoeld in [artikel 5.24, tweede lid, van het Besluit SUWI](https://wetten.overheid.nl/jci1.3:c:BWBR0013267&artikel=5.24), die door het IB worden verwerkt.
 
 ##### Artikel 6.3. Stelselontwerp gezamenlijke elektronische voorzieningen SUWI
 
-In [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&bijlage=I&z=2015-09-25&g=2016-01-01) (‘Stelselontwerp & Beveiliging Gezamenlijke elektronische voorzieningen SUWI’) bij deze regeling is het Stelselontwerp gezamenlijke elektronische voorzieningen SUWI opgenomen, bedoeld in [artikel 5.21, vierde lid, van het Besluit SUWI](https://wetten.overheid.nl/jci1.3:c:BWBR0013267&artikel=5.21).
+In [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&bijlage=I&z=2016-01-30&g=2016-01-30) (‘Stelselontwerp & Beveiliging Gezamenlijke elektronische voorzieningen SUWI’) bij deze regeling is het Stelselontwerp gezamenlijke elektronische voorzieningen SUWI opgenomen, bedoeld in [artikel 5.21, vierde lid, van het Besluit SUWI](https://wetten.overheid.nl/jci1.3:c:BWBR0013267&artikel=5.21).
 
 ##### Artikel 6.4. Beveiliging elektronische voorzieningen SUWI
 
-1. Het UWV, de SVB, de colleges van burgemeester en wethouders, het IB en op de gezamenlijke elektronische voorzieningen SUWI aangesloten niet SUWI-partijen dragen zorg voor de beveiliging van de gegevensuitwisselingen die plaatsvinden in het kader van de gezamenlijke elektronische voorzieningen SUWI, tegen inbreuk op de beschikbaarheid, integriteit en vertrouwelijkheid, overeenkomstig hetgeen over de voor het stelsel van maatregelen en procedures te hanteren normen wordt bepaald in [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&bijlage=I&z=2015-09-25&g=2016-01-01) (‘Stelselontwerp & Beveiliging Gezamenlijke elektronische Voorzieningen SUWI’).
+1. Het UWV, de SVB, de colleges van burgemeester en wethouders, het IB en op de gezamenlijke elektronische voorzieningen SUWI aangesloten niet SUWI-partijen dragen zorg voor de beveiliging van de gegevensuitwisselingen die plaatsvinden in het kader van de gezamenlijke elektronische voorzieningen SUWI, tegen inbreuk op de beschikbaarheid, integriteit en vertrouwelijkheid, overeenkomstig hetgeen over de voor het stelsel van maatregelen en procedures te hanteren normen wordt bepaald in [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&bijlage=I&z=2016-01-30&g=2016-01-30) (‘Stelselontwerp & Beveiliging Gezamenlijke elektronische Voorzieningen SUWI’).
 
 2. Het UWV, de SVB, de colleges van burgemeester en wethouders, het IB en op de gezamenlijke elektronische voorzieningen SUWI aangesloten niet- SUWI- partijen geven ieder in een beveiligingsplan aan op welke wijze zij invulling geven aan het eerste lid.
 
-3. [Artikel 5.22](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&hoofdstuk=5&paragraaf=5.3&artikel=5.22&z=2015-09-25&g=2016-01-01) is van overeenkomstige toepassing op het gebruik en de inrichting van de gezamenlijke elektronische voorzieningen SUWI.
+3. [Artikel 5.22](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&hoofdstuk=5&paragraaf=5.3&artikel=5.22&z=2016-01-30&g=2016-01-30) is van overeenkomstige toepassing op het gebruik en de inrichting van de gezamenlijke elektronische voorzieningen SUWI.
 
 #### § 5.3. Rapportage gegevensverwerking
 
 ##### Artikel 6.5. Gebruik elektronische voorzieningen door niet SUWI-partijen
 
-Bij het tot stand komen van de overeenkomst als bedoeld in [artikel 5.23, eerste lid, van het Besluit SUWI](https://wetten.overheid.nl/jci1.3:c:BWBR0013267&artikel=5.23) wordt het in [bijlage III](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&bijlage=III&z=2015-09-25&g=2016-01-01) bij deze regeling opgenomen protocol in acht genomen.
+Bij het tot stand komen van de overeenkomst als bedoeld in [artikel 5.23, eerste lid, van het Besluit SUWI](https://wetten.overheid.nl/jci1.3:c:BWBR0013267&artikel=5.23) wordt het in [bijlage III](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&bijlage=III&z=2016-01-30&g=2016-01-30) bij deze regeling opgenomen protocol in acht genomen.
 
 ##### Artikel 6.6. Inlichtingenbureau
 
@@ -1640,7 +1640,7 @@ Alle relevante gegevens behorende tot de volgende categorieën:
 
 ## Bijlagen
 
-## Bijlage I. , bedoeld in [artikel 6.3](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&hoofdstuk=6&paragraaf=6.1&artikel=6.3&z=2015-09-25&g=2016-01-01) van de Regeling SUWI
+## Bijlage I. , bedoeld in [artikel 6.3](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&hoofdstuk=6&paragraaf=6.1&artikel=6.3&z=2016-01-30&g=2016-01-30) van de Regeling SUWI
 
 ## Bijlage II. Aanvraag [WW](https://wetten.overheid.nl/jci1.3:c:BWBR0004045)/[TW](https://wetten.overheid.nl/jci1.3:c:BWBR0004043)
 
@@ -2384,17 +2384,17 @@ De bijlagen III tot en met XVI liggen met ingang van 1 januari 2002 ter inzage i
 
 ##### Artikel 5.10a. Jaarverslag, tussentijdse verslagen en jaarrekening van UWV, SVB en IB
 
-1. De jaarverslagen van het UWV en de SVB bevatten in elk geval een omschrijving van de onderwerpen die zijn genoemd in de bij deze regeling behorende bijlagen, [VI](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&bijlage=VI&z=2015-09-25&g=2016-01-01) en [VIII](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&bijlage=VIII&z=2015-09-25&g=2016-01-01).
+1. De jaarverslagen van het UWV en de SVB bevatten in elk geval een omschrijving van de onderwerpen die zijn genoemd in de bij deze regeling behorende bijlagen, [VI](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&bijlage=VI&z=2016-01-30&g=2016-01-30) en [VIII](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&bijlage=VIII&z=2016-01-30&g=2016-01-30).
 
 2. De in de jaarrekening van het UWV en de SVB op te nemen egalisatiereserve, bedoeld in [artikel 52 van de Wet SUWI](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&artikel=52), heeft slechts betrekking op de uitvoeringskosten. De egalisatiereserve bedraagt ten hoogste 5 procent van het over de voorgaande 3 jaar toegekende budget voor de uitvoeringskosten, bedoeld in [artikel 48, eerste lid, van de Wet SUWI](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&artikel=48) en bedraagt niet minder dan nul. Dotatie en onttrekking aan en vrijval van de egalisatiereserve wordt afzonderlijk vermeld en toegelicht in de jaarrekening.
 
-3. De tussentijdse verslagen van het UWV en de SVB bevatten in elk geval een omschrijving van de onderwerpen die zijn genoemd in de bij deze regeling behorende bijlagen, [VI](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&bijlage=VI&z=2015-09-25&g=2016-01-01) en [VIII](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&bijlage=VIII&z=2015-09-25&g=2016-01-01).
+3. De tussentijdse verslagen van het UWV en de SVB bevatten in elk geval een omschrijving van de onderwerpen die zijn genoemd in de bij deze regeling behorende bijlagen, [VI](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&bijlage=VI&z=2016-01-30&g=2016-01-30) en [VIII](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&bijlage=VIII&z=2016-01-30&g=2016-01-30).
 
 4. Het jaarverslag, de tussentijdse verslagen en de jaarrekening van het UWV bestaan uit twee afzonderlijke delen, waarvan één deel uitsluitend betrekking heeft op het in [artikel 5.21, tweede lid, van het Besluit SUWI](https://wetten.overheid.nl/jci1.3:c:BWBR0013267&artikel=5.21) bedoelde organisatieonderdeel en het andere deel op het UWV met uitzondering van het bedoelde organisatieonderdeel.
 
-5. De delen van het jaarverslag en de tussentijdse verslagen die betrekking hebben op het in [artikel 5.21, tweede lid, van het Besluit SUWI](https://wetten.overheid.nl/jci1.3:c:BWBR0013267&artikel=5.21) bedoelde organisatieonderdeel bevatten in elk geval een omschrijving van de onderwerpen die zijn genoemd in de bij deze regeling behorende [bijlage XX](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&bijlage=XX&z=2015-09-25&g=2016-01-01). Het tweede lid is van overeenkomstige toepassing.
+5. De delen van het jaarverslag en de tussentijdse verslagen die betrekking hebben op het in [artikel 5.21, tweede lid, van het Besluit SUWI](https://wetten.overheid.nl/jci1.3:c:BWBR0013267&artikel=5.21) bedoelde organisatieonderdeel bevatten in elk geval een omschrijving van de onderwerpen die zijn genoemd in de bij deze regeling behorende [bijlage XX](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&bijlage=XX&z=2016-01-30&g=2016-01-30). Het tweede lid is van overeenkomstige toepassing.
 
-6. Het jaarverslag, de jaarrekening en de tussentijdse verslagen van het IB bevatten in ieder geval een omschrijving van de onderwerpen, die zijn opgenomen in [bijlage XI](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&bijlage=XI&z=2015-09-25&g=2016-01-01). Het IB vormt een egalisatiereserve met overeenkomstige toepassing van [artikel 33 van de Kaderwet zelfstandige bestuursorganen](https://wetten.overheid.nl/jci1.3:c:BWBR0020495&artikel=33), waarbij het tweede lid van overeenkomstige toepassing is.
+6. Het jaarverslag, de jaarrekening en de tussentijdse verslagen van het IB bevatten in ieder geval een omschrijving van de onderwerpen, die zijn opgenomen in [bijlage XI](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&bijlage=XI&z=2016-01-30&g=2016-01-30). Het IB vormt een egalisatiereserve met overeenkomstige toepassing van [artikel 33 van de Kaderwet zelfstandige bestuursorganen](https://wetten.overheid.nl/jci1.3:c:BWBR0020495&artikel=33), waarbij het tweede lid van overeenkomstige toepassing is.
 
 #### § 5.1b. Accountantscontrole
 
@@ -2613,7 +2613,7 @@ De bijlagen III tot en met XVI liggen met ingang van 1 januari 2002 ter inzage i
 
 4. Bij de bepaling van de strekking van de uiteindelijke controleverklaring weegt de accountant het getrouwe beeld van de jaarrekening en de rechtmatigheidsrapportage in de bedrijfsvoeringsparagraaf, waaronder de getrouwheid van de rapportage over het gevoerde beleid ter voorkoming en bestrijding van misbruik en oneigenlijk gebruik. Voor de getrouwheid van de rechtmatigheidsrapportage geldt geen kwantitatieve goedkeuringstolerantie.
 
-5. De controleverklaring wordt opgesteld overeenkomstig de modellen die zijn opgenomen in [bijlage XXII](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&bijlage=XXII&z=2015-09-25&g=2016-01-01) behorende bij deze regeling.
+5. De controleverklaring wordt opgesteld overeenkomstig de modellen die zijn opgenomen in [bijlage XXII](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&bijlage=XXII&z=2016-01-30&g=2016-01-30) behorende bij deze regeling.
 
 ##### Artikel 5.10e. Het verslag van bevindingen
 
@@ -2623,7 +2623,7 @@ De bijlagen III tot en met XVI liggen met ingang van 1 januari 2002 ter inzage i
 
 - b. overige fouten en onzekerheden die niet worden gehanteerd voor de bepaling van de strekking van de controleverklaring;
 
-- c. de doelmatigheid van het beheer en de organisatie, zoals omschreven in de bij deze regeling behorende [bijlage XXIII](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&bijlage=XXIII&z=2015-09-25&g=2016-01-01);
+- c. de doelmatigheid van het beheer en de organisatie, zoals omschreven in de bij deze regeling behorende [bijlage XXIII](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&bijlage=XXIII&z=2016-01-30&g=2016-01-30);
 
 - d. het jaarverslag, voor wat betreft de prestatie-indicatoren en kengetallen;
 
@@ -2735,7 +2735,7 @@ Middels de wet eenmalige gegevensuitvraag werk en inkomen (Stb. 2007, 555) wordt
 
 ### **1. Inleiding**
 
-Middels de wet eenmalige gegevensuitvraag werk en inkomen (Stb. 2007, 555) wordt in [artikel 62, tweede lid, van de Wet SUWI](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&artikel=62) de basis gelegd voor het gebruik van de Gezamenlijke elektronische Voorzieningen SUWI (GevS)1In de bijlage Stelselontwerp van de Regeling SUWI is de GeVS beschreven. door niet-Suwipartijen voor de verwerking van gegevens. Het gebruik van de elektronische voorzieningen voor gegevensuitwisseling met derden, niet SUWI-partijen is nader uitgewerkt in het nieuwe [artikel 5.23 van het Besluit SUWI](https://wetten.overheid.nl/jci1.3:c:BWBR0013267&artikel=5.23). [Artikel 6.5](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&hoofdstuk=6&paragraaf=6.1&artikel=6.5&z=2015-09-25&g=2016-01-01) van de regeling bepaalt dat in bijlage III
+Middels de wet eenmalige gegevensuitvraag werk en inkomen (Stb. 2007, 555) wordt in [artikel 62, tweede lid, van de Wet SUWI](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&artikel=62) de basis gelegd voor het gebruik van de Gezamenlijke elektronische Voorzieningen SUWI (GevS)1In de bijlage Stelselontwerp van de Regeling SUWI is de GeVS beschreven. door niet-Suwipartijen voor de verwerking van gegevens. Het gebruik van de elektronische voorzieningen voor gegevensuitwisseling met derden, niet SUWI-partijen is nader uitgewerkt in het nieuwe [artikel 5.23 van het Besluit SUWI](https://wetten.overheid.nl/jci1.3:c:BWBR0013267&artikel=5.23). [Artikel 6.5](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&hoofdstuk=6&paragraaf=6.1&artikel=6.5&z=2016-01-30&g=2016-01-30) van de regeling bepaalt dat in bijlage III
 
 ### **Risicomanagement**
 
@@ -2837,7 +2837,7 @@ In de Keten-SLA (§ 1.4) worden concrete (wederzijdse) prestatie afspraken gemaa
 
 De Verantwoordingsrichtlijn (privacy en beveiliging van de GeVS) is een gezamenlijk product van de SUWI-partijen en de beheerder van de centrale voorziening welke, op basis van de wettelijke voorschriften rondom privacy en beveiliging, vorm en inhoud is gegeven. Het bevat de normen, criteria en vormvereisten op basis waarvan het oordeel dan wel de verklaring van getrouwheid (ex. [art 5.22](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&hoofdstuk=5&paragraaf=5.3&artikel=5.22&z=2015-04-30&g=2015-05-01) regeling SUWI) over de privacy en beveiliging van de GeVS in de Jaarverslagen van de op de GeVS aangesloten ontvangende partijen en de beheerder van de centrale voorziening wordt onderbouwd. In het Jaarverslag wordt daartoe een aparte, als zodanig herkenbare, paragraaf gewijd aan de privacy en beveiliging van de GeVS waarin, waar nodig, verbetermaatregelen worden benoemd.
 
-De Verantwoordingsrichtlijn (privacy en beveiliging van de GeVS) is een gezamenlijk product van de SUWI-partijen en de beheerder van de centrale voorziening welke, op basis van de wettelijke voorschriften rondom privacy en beveiliging, vorm en inhoud is gegeven. Het bevat de normen, criteria en vormvereisten op basis waarvan het oordeel dan wel de verklaring van getrouwheid (ex. [art 5.22](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&hoofdstuk=5&paragraaf=5.3&artikel=5.22&z=2015-09-25&g=2016-01-01) regeling SUWI) over de privacy en beveiliging van de GeVS in de Jaarverslagen van de op de GeVS aangesloten ontvangende partijen en de beheerder van de centrale voorziening wordt onderbouwd. In het Jaarverslag wordt daartoe een aparte, als zodanig herkenbare, paragraaf gewijd aan de privacy en beveiliging van de GeVS waarin, waar nodig, verbetermaatregelen worden benoemd.
+De Verantwoordingsrichtlijn (privacy en beveiliging van de GeVS) is een gezamenlijk product van de SUWI-partijen en de beheerder van de centrale voorziening welke, op basis van de wettelijke voorschriften rondom privacy en beveiliging, vorm en inhoud is gegeven. Het bevat de normen, criteria en vormvereisten op basis waarvan het oordeel dan wel de verklaring van getrouwheid (ex. [art 5.22](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&hoofdstuk=5&paragraaf=5.3&artikel=5.22&z=2016-01-30&g=2016-01-30) regeling SUWI) over de privacy en beveiliging van de GeVS in de Jaarverslagen van de op de GeVS aangesloten ontvangende partijen en de beheerder van de centrale voorziening wordt onderbouwd. In het Jaarverslag wordt daartoe een aparte, als zodanig herkenbare, paragraaf gewijd aan de privacy en beveiliging van de GeVS waarin, waar nodig, verbetermaatregelen worden benoemd.
 
 ### **Aansluitprotocol GeVS**
 
@@ -2873,7 +2873,7 @@ CWI levert één planningsdocument op, te weten het jaarplan met begroting. CWI 
 
 ### Planning & control producten van UWV
 
-In deze bijlage zijn de diverse producten gespecificeerd die UWV periodiek aan SZW dient te verstrekken op grond van [artikel 5.3](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&hoofdstuk=5&paragraaf=5.1&artikel=5.3&z=2015-09-25&g=2016-01-01), [5.4](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&hoofdstuk=5&paragraaf=5.1&artikel=5.4&z=2015-09-25&g=2016-01-01), [5.10a](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&hoofdstuk=5&paragraaf=5.1&artikel=5.10a&z=2015-09-25&g=2016-01-01) en [5.12](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&hoofdstuk=5&paragraaf=5.2&sub-paragraaf=5.2.1&artikel=5.12&z=2015-09-25&g=2016-01-01) van de Regeling SUWI. Het betreft de volgende producten:
+In deze bijlage zijn de diverse producten gespecificeerd die UWV periodiek aan SZW dient te verstrekken op grond van [artikel 5.3](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&hoofdstuk=5&paragraaf=5.1&artikel=5.3&z=2016-01-30&g=2016-01-30), [5.4](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&hoofdstuk=5&paragraaf=5.1&artikel=5.4&z=2016-01-30&g=2016-01-30), [5.10a](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&hoofdstuk=5&paragraaf=5.1&artikel=5.10a&z=2016-01-30&g=2016-01-30) en [5.12](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&hoofdstuk=5&paragraaf=5.2&sub-paragraaf=5.2.1&artikel=5.12&z=2016-01-30&g=2016-01-30) van de Regeling SUWI. Het betreft de volgende producten:
 
 UWV levert het **ontwerp jaarplan met begroting vòòr 1 juli en het definitief jaarplan met begroting vòòr 1 oktober**. UWV dient zich op verschillende momenten te verantwoorden over de uitvoering van het jaarplan. Deze verantwoording vindt plaats in twee **tussentijdse verslagen** en het **jaarverslag**. De tussentijdse verslagen worden uiterlijk zes weken na afloop van de verslagperiode (tertaal) aan de minister verstrekt. Het jaarverslag wordt vòòr 15 maart aan de minister aangeboden.
 
@@ -2899,41 +2899,33 @@ In de tussentijdse verslagen en het jaarverslag doet UWV verslag van de uitvoeri
 
 Bij klantgerichtheid wordt specifiek ingegaan op o.a. klachtenafhandeling, bereikbaarheid en klanttevredenheid. Daarnaast rapporteert UWV in haar jaarverslag over de wijze waarop aan cliëntenparticipatie is vormgegeven. UWV verantwoordt zich over de activiteiten die zijn ondernomen om de dienstverlening aan de klant te handhaven en verbeteren.
 
-Bij handhaving wordt specifiek ingegaan op de uitvoering en effecten van het handhavingsbeleid. Naast de onderwerpen die genoemd zijn in het jaarplan, wordt hierbij specifiek ingegaan op de speerpunten van het Handhavingsprogramma en op de realisering van de in het Handhavingsarrangement gemaakte afspraken. Tevens worden opvallende cijfermatige ontwikkelingen toegelicht. De Raad van Bestuur wordt geacht de uitgangspunten die zij hanteert bij het te voeren handhavingsbeleid te expliciteren.
+Bij handhaving wordt specifiek ingegaan op de uitvoering en effecten van het handhavingsbeleid. Naast de onderwerpen die genoemd zijn in het jaarplan, wordt hierbij specifiek ingegaan op de realisering van de in het Handhavingsarrangement gemaakte afspraken. Tevens worden opvallende cijfermatige ontwikkelingen toegelicht. De Raad van Bestuur wordt geacht de uitgangspunten die zij hanteert bij het te voeren handhavingsbeleid te expliciteren.
 
 ### 3. Ontwikkelingen grote projecten en projecten ter invoering van nieuwe wet- en regelgeving
 
-UWV doet verslag van de uitvoering van het investeringsprogramma en de invoering van nieuwe wet- en regelgeving. Hierbij wordt ingegaan op de bereikte resultaten en de daarmee gepaard gaande kosten. UWV legt hierbij een relatie met de planning en licht eventuele wijzigingen kort toe.
+UWV doet verslag van de uitvoering van het veranderprogramma waaronder de invoering van nieuwe wet- en regelgeving. Hierbij wordt ingegaan op de bereikte resultaten en de daarmee gepaard gaande kosten. UWV legt hierbij een relatie met de planning en licht eventuele wijzigingen kort toe.
 
 ### 4. Ketensamenwerking
 
-Met de wijziging van de Wet SUWI per 1 juli 2012 dienen UWV en gemeenten voortaan samen te werken bij de registratie van werkzoekenden en vacatures, en dienen zij in regio’s samen te werken bij de dienstverlening aan werkgevers en het verrichten van taken met betrekking tot de regionale arbeidsmarkt.
+UWV geeft in het jaarplan aan hoe invulling wordt gegeven aan de samenwerking met gemeenten en andere partijen, waaronder de regionale samenwerking. In de tussentijdse verslagen en het jaarverslag wordt hierover verantwoording afgelegd door UWV. In de rapportages wordt aangegeven in welke mate de doelstellingen zijn gerealiseerd en wat de onderliggende analyse is bij afwijkingen in de realisatie. In dat geval wordt verder aangegeven welke aanvullende maatregelen UWV neemt om de doelstellingen alsnog te realiseren.
 
-### 4. Ketensamenwerking en geïntegreerde dienstverlening
+### 5. Bedrijfsvoering
 
-UWV geeft in het jaarplan aan hoe de dienstverlening wordt geconcretiseerd. In de tussentijdse verslagen en het jaarverslag wordt hierover verantwoording afgelegd door UWV.
+In de bedrijfsvoeringsparagraaf gaat UWV in op de sturing en beheersing van de bedrijfsprocessen binnen UWV. Het doel is aan te geven in welke mate het management van UWV haar bedrijfsprocessen beheerst. In de bedrijfsvoeringsparagraaf van het jaarverslag legt UWV, mede gebaseerd op risicoanalyse, verantwoording af over de bedrijfsvoering. De bedrijfsvoeringsparagraaf bestaat tenminste uit de volgende onderdelen: rechtmatigheid (waaronder het M&O beleid), doelmatigheid, totstandkoming niet-financiële informatie, financieel beheer en overige aspecten van de bedrijfsvoering.
 
 In de rapportages wordt aangegeven in welke mate de doelstellingen zijn gerealiseerd en wat de onderliggende analyse is bij afwijkingen in de realisatie. In dat geval wordt verder aangegeven welke aanvullende maatregelen UWV neemt om de doelstellingen alsnog te realiseren.
 
-In de bedrijfsvoeringsparagraaf gaat UWV in op de sturing en beheersing van de bedrijfsprocessen binnen UWV. Het doel is aan te geven in welke mate het management van UWV haar bedrijfsprocessen beheerst. In de bedrijfsvoeringsparagraaf van het jaarverslag legt UWV, mede gebaseerd op risicoanalyse, verantwoording af over de bedrijfsvoering. De bedrijfsvoeringsparagraaf bestaat tenminste uit de volgende onderdelen: rechtmatigheid (waaronder het M&O beleid), doelmatigheid, totstandkoming niet-financiële informatie, financieel beheer en overige aspecten van de bedrijfsvoering.
+UWV rapporteert in de tussentijdse verslagen over de voorlopige indicatieve rechtmatigheidscijfers per wet en in het jaarverslag over de jaarcijfers. Vaststelling van de rechtmatigheid is gekoppeld aan het handelen in het verslagjaar (het handelen omvat mede het ten onrechte niet-handelen) en de fouten die daarbij zijn gevonden. Ingegaan wordt op de wijze waarop met oude fouten is omgegaan. Tevens wordt hierbij inzicht geboden in de uitgevoerde herstelactiviteiten. De wijze waarop het UWV verantwoording dient af te leggen over de rechtmatigheid in het jaarverslag en de jaarrekening, alsmede de wijze waarop de accountant zijn controlewerkzaamheden dient te verrichten, zijn nader uitgewerkt in de [artikelen 5.10b t/m 5.10e](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&hoofdstuk=5&paragraaf=5.1b&artikel=5.10b&z=2016-01-30&g=2016-01-30) van de Regeling SUWI en met name in de daarbijbehorende toelichting.
 
 In de bedrijfsvoeringsparagraaf gaat UWV in op de sturing en beheersing van de bedrijfsprocessen binnen UWV. Het doel is aan te geven in welke mate het management van UWV haar bedrijfsprocessen beheerst. In de bedrijfsvoeringsparagraaf van het jaarverslag legt UWV, mede gebaseerd op risicoanalyse, verantwoording af over de bedrijfsvoering. De bedrijfsvoeringsparagraaf bestaat tenminste uit de volgende onderdelen: rechtmatigheid (waaronder het M&O beleid), doelmatigheid, totstandkoming niet-financiële informatie, financieel beheer en overige aspecten van de bedrijfsvoering.
 
-Voor wat betreft rechtmatigheid rapporteert het UWV in het tweede tussentijdsverslag over de rechtmatigheidscijfers per wet over het eerste half jaar en in het jaarverslag over de jaarcijfers. Vaststelling van de rechtmatigheid is gekoppeld aan het handelen in het verslagjaar (het handelen omvat mede het ten onrechte niet-handelen) en de fouten die daarbij zijn gevonden. Ingegaan wordt op de wijze waarop met oude fouten is omgegaan. Tevens wordt hierbij inzicht geboden in de uitgevoerde herstelactiviteiten. De wijze waarop het UWV verantwoording dient af te leggen over de rechtmatigheid in het jaarverslag en de jaarrekening, alsmede de wijze waarop de accountant zijn controlewerkzaamheden dient te verrichten, zijn nader uitgewerkt in de [artikelen 5.10b t/m 5.10e](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&hoofdstuk=5&paragraaf=5.1b&artikel=5.10b&z=2013-07-10&g=2013-07-10) van de Regeling SUWI en met name in de daarbijbehorende toelichting.
+In [artikel 5.10e, eerste lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&hoofdstuk=5&paragraaf=5.1b&artikel=5.10e&z=2016-01-30&g=2016-01-30), van de Regeling SUWI is aangegeven dat het UWV inzicht biedt in doelmatigheid van het beheer en de organisatie. Dit is nader uitgewerkt in [bijlage XXIII](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&bijlage=XXIII&z=2016-01-30&g=2016-01-30) bij de Regeling SUWI. Het UWV brengt in het jaarverslag afzonderlijk in beeld op welke wijze de afgesproken taakstellingen zijn gerealiseerd. De Raad van Bestuur wordt geacht de uitgangspunten die zij hanteert met betrekking tot doelmatigheid te expliciteren.
 
 Voor wat betreft rechtmatigheid rapporteert het UWV in het tweede tussentijdsverslag over de rechtmatigheidscijfers per wet over het eerste half jaar en in het jaarverslag over de jaarcijfers. Vaststelling van de rechtmatigheid is gekoppeld aan het handelen in het verslagjaar (het handelen omvat mede het ten onrechte niet-handelen) en de fouten die daarbij zijn gevonden. Ingegaan wordt op de wijze waarop met oude fouten is omgegaan. Tevens wordt hierbij inzicht geboden in de uitgevoerde herstelactiviteiten. De wijze waarop het UWV verantwoording dient af te leggen over de rechtmatigheid in het jaarverslag en de jaarrekening, alsmede de wijze waarop de accountant zijn controlewerkzaamheden dient te verrichten, zijn nader uitgewerkt in de [artikelen 5.10b t/m 5.10e](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&hoofdstuk=5&paragraaf=5.1b&artikel=5.10b&z=2015-09-25&g=2016-01-01) van de Regeling SUWI en met name in de daarbijbehorende toelichting.
 
-Het UWV brengt verslag uit van activiteiten die zijn ondernomen om de bedrijfsprocessen door te lichten, waarbij het kostenniveau wordt gerelateerd aan de (kwaliteit van de) geleverde prestatie. De Raad van Bestuur wordt geacht de uitgangspunten die zij hanteert met betrekking tot doelmatigheid te expliciteren. Een toelichting op [artikel 5.10e, eerste lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&hoofdstuk=5&paragraaf=5.1b&artikel=5.10e&z=2015-04-30&g=2015-05-01), van de Regeling SUWI, wordt gegeven in [Bijlage XXIII](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&bijlage=XXIII&z=2015-04-30&g=2015-05-01) bij de Regeling SUWI.
+UWV rapporteert in het jaarverslag over het totstandkomingsproces van de informatievoorziening (inclusief de daarbij gehanteerde criteria zoals vastgelegd in bijlage XVII van de SUWI-regeling) en de wijze waarop deze is gewaarborgd (conform [artikel 5.16 tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&hoofdstuk=5&paragraaf=5.2&sub-paragraaf=5.2.1&artikel=5.16&z=2016-01-30&g=2016-01-30) Regeling SUWI) en eventuele verbetermaatregelen.
 
 In [artikel 5.10e, eerste lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&hoofdstuk=5&paragraaf=5.1b&artikel=5.10e&z=2015-09-25&g=2016-01-01), van de Regeling SUWI is aangegeven dat het UWV inzicht biedt in doelmatigheid van het beheer en de organisatie. Het UWV brengt in het jaarverslag afzonderlijk in beeld op welke wijze de afgesproken taakstellingen zijn gerealiseerd.
-
-Het UWV brengt verslag uit van activiteiten die zijn ondernomen om de bedrijfsprocessen door te lichten, waarbij het kostenniveau wordt gerelateerd aan de (kwaliteit van de) geleverde prestatie. De Raad van Bestuur wordt geacht de uitgangspunten die zij hanteert met betrekking tot doelmatigheid te expliciteren. Een toelichting op [artikel 5.10e, eerste lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&hoofdstuk=5&paragraaf=5.1b&artikel=5.10e&z=2015-09-25&g=2016-01-01), van de Regeling SUWI, wordt gegeven in [Bijlage XXIII](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&bijlage=XXIII&z=2015-09-25&g=2016-01-01) bij de Regeling SUWI.
-
-UWV rapporteert in het jaarverslag over het totstandkomingsproces van de informatievoorziening (inclusief de daarbij gehanteerde criteria zoals vastgelegd in [bijlage XVII](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&bijlage=XVII&z=2013-07-10&g=2013-07-10) van de SUWI-regeling) en de wijze waarop deze is gewaarborgd (conform [artikel 5.16 tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&hoofdstuk=5&paragraaf=5.2&sub-paragraaf=5.2.1&artikel=5.16&z=2013-07-10&g=2013-07-10) Regeling SUWI)en eventuele verbetermaatregelen.
-
-UWV rapporteert in het jaarverslag over het totstandkomingsproces van de informatievoorziening (inclusief de daarbij gehanteerde criteria zoals vastgelegd in [bijlage XVII](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&bijlage=XVII&z=2015-09-25&g=2016-01-01) van de SUWI-regeling) en de wijze waarop deze is gewaarborgd (conform [artikel 5.16 tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&hoofdstuk=5&paragraaf=5.2&sub-paragraaf=5.2.1&artikel=5.16&z=2015-09-25&g=2016-01-01) Regeling SUWI)en eventuele verbetermaatregelen.
-
-Het financieel beheer dient te voldoen aan de eisen ordelijkheid en controleerbaarheid. Onder ordelijk wordt verstaan dat het financieel beheer en de administraties in overeenstemming zijn met de in de administratieve organisatie vastgelegde procedureregels. Met controleerbaar wordt bedoeld dat de uitkomsten van het financieel beheer duidelijk worden vastgelegd, opdat achteraf controle efficiënt kan worden uitgevoerd.
 
 In dit onderdeel rapporteert UWV over de belangrijkste tekortkomingen in het financieel beheer. Onder financieel beheer wordt verstaan het geheel van beslissingen, handelingen en regels die zijn bedoeld voor de sturing en beheersing van, alsmede de verantwoording over, de financiële transacties en de saldi waarvoor het management (mede)verantwoordelijkheid draagt. De administraties, die ten behoeve van het financieel beheer worden bijgehouden, worden eveneens tot het financieel beheer gerekend.
 
@@ -2941,7 +2933,7 @@ Het financieel beheer dient te voldoen aan de eisen ordelijkheid en controleerba
 
 UWV rapporteert in het algemeen bij onvolkomenheden in het financieel beheer als die kunnen leiden tot disfunctioneren van het financieel beheer, en/of betrekking hebben op kritieke processen, en/of wijd verbreid zijn, en/of kunnen leiden of hebben geleid tot aanzienlijke risico’s.
 
-UWV rapporteert op dit punt over belangrijke personeelsaangelegenheden, waaronder in ieder geval de personeelsbezetting, het personeelsverloop, de sociale plannen en de daarmee gemoeide kosten.
+Het financieel beheer dient te voldoen aan de eisen ordelijkheid en controleerbaarheid. Onder ordelijk wordt verstaan dat het financieel beheer en de administraties in overeenstemming zijn met de in de administratieve organisatie vastgelegde procedureregels. Met controleerbaar wordt bedoeld dat de uitkomsten van het financieel beheer duidelijk worden vastgelegd, opdat achteraf controle efficiënt kan worden uitgevoerd.
 
 UWV rapporteert over ontwikkelingen ten aanzien van de volgende onderwerpen:
 
@@ -2949,7 +2941,15 @@ UWV rapporteert op dit punt over belangrijke personeelsaangelegenheden, waaronde
 
 UWV rapporteert over de voortgang, verbetering en vernieuwing van de geautomatiseerde ondersteuning van zowel haar primaire- als ondersteunende processen. Ook de voortgang van projecten ter verbetering van gegevensbeheer en privacybescherming vallen hieronder.
 
-UWV rapporteert in het jaarverslag over de opzet en werking van het stelsel van maatregelen en procedures gericht op het waarborgen van een exclusieve, integere, beschikbare en controleerbare gegevensverwerking, en over het beveiligingsniveau van Suwinet (conform [artikel 5.22](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&hoofdstuk=5&paragraaf=5.3&artikel=5.22&z=2015-09-25&g=2016-01-01) en [6.4](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&hoofdstuk=6&paragraaf=6.1&artikel=6.4&z=2015-09-25&g=2016-01-01) Regeling SUWI).
+UWV rapporteert in het jaarverslag over de opzet en werking van het stelsel van maatregelen en procedures gericht op het waarborgen van een exclusieve, integere, beschikbare en controleerbare gegevensverwerking, en over het beveiligingsniveau van Suwinet (conform [artikel 5.22](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&hoofdstuk=5&paragraaf=5.3&artikel=5.22&z=2016-01-30&g=2016-01-30) en [6.4](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&hoofdstuk=6&paragraaf=6.1&artikel=6.4&z=2016-01-30&g=2016-01-30) Regeling SUWI).
+
+UWV doet in de tussentijdse verslagen en in het jaarverslag verslag van de voortgang van het huisvestingsplan. In het bijzonder rapporteert het UWV over de volgende onderwerpen:
+
+UWV rapporteert op dit punt over belangrijke personeelsaangelegenheden, waaronder in ieder geval de personeelsbezetting, het personeelsverloop, de sociale plannen en de daarmee gemoeide kosten.
+
+De onderwerpen die onder het onderdeel governance vallen hebben betrekking op de bestuurlijke inrichting van UWV en de wijze waarop zij haar taken uitvoert.
+
+UWV gaat in op welke wijze risico’s binnen de organisatie zijn geanalyseerd, hoe wordt omgegaan met risico’s en hoe risico’s worden gemanaged.
 
 UWV doet in de tussentijdse verslagen en in het jaarverslag verslag van de voortgang van het huisvestingsplan. In het bijzonder rapporteert het UWV specifiek over de volgende onderwerpen:
 
@@ -2961,23 +2961,23 @@ Ligt ter inzage bij het Ministerie van Sociale Zaken en Werkgelegenheid.
 
 Ligt ter inzage bij het Ministerie van Sociale Zaken en Werkgelegenheid.
 
-### 6. Governance
-
-De onderwerpen die onder het onderdeel governance vallen hebben betrekking op de bestuurlijke inrichting van UWV en de wijze waarop zij haar taken uitvoert.
-
-### ICT en informatiebeveiling
-
-Totale huisvestingskosten (regulier en frictie) opgebouwd en onderverdeeld naar:
-
-### 6. **Governance**
-
-### 7.1. Uitvoeringskosten)1Deze tabel te rapporteren in het tweede tussentijdse verslag. UWV geeft in het eerste tussentijdse verslag aan **welke richting** het opgaat met de jaarprognose (verwacht UWV binnen budget te blijven, mate van te verwachten over- of onderuitputting, verschil in regulier en projecten).
-
-UWV doet jaarlijks verslag van de bezoldiging van de leden van de Raad van Bestuur ([artikel 5 vierde lid Wet SUWI](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&artikel=5)) en van de topinkomens op basis van de [Wet openbaarmaking uit financiële middelen gefinancierde topinkomens](https://wetten.overheid.nl/jci1.3:c:BWBR0019562) (WOPT).
-
 ### 8. Investeringen per categorie
 
 De indeling in categorieën volgt [Titel 9 Boek 2 BW](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&titeldeel=9).
+
+### 9. Overzicht ten behoeve van bevoorschotting / afrekening
+
+Ten behoeve van de bevoorschotting neemt UWV in het jaarplan met begroting een overzicht op van de uitvoeringskosten en programmakosten welke ten laste komen van een rijksbijdrage. Dit overzicht wordt tevens separaat van de tussentijdse verslagen aan SZW verstrekt. Voor de afrekening neemt UWV in de jaarrekening de in paragraaf 10.6.8 opgenomen tabel op die ziet op afrekening van de uitvoerings- en programmakosten.
+
+### 10. Jaarrekening
+
+### 7.1. Uitvoeringskosten)1Deze tabel te rapporteren in het tweede tussentijdse verslag. UWV geeft in het eerste tussentijdse verslag aan **welke richting** het opgaat met de jaarprognose (verwacht UWV binnen budget te blijven, mate van te verwachten over- of onderuitputting, verschil in regulier en projecten).
+
+De jaarrekening wordt ingericht zoveel mogelijk met overeenkomstige toepassing van [titel 9 van Boek 2 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&titeldeel=9).
+
+### 8. Investeringen per categorie
+
+In de toelichting op de jaarrekening wordt onder andere ingegaan op:
 
 UWV gaat in op welke wijze risico’s binnen de organisatie zijn geanalyseerd, hoe wordt omgegaan met risico’s en hoe risico’s worden gemanaged.
 
@@ -2985,17 +2985,17 @@ UWV gaat in op welke wijze risico’s binnen de organisatie zijn geanalyseerd, h
 
 De jaarrekening heeft betrekking op de balans en de staat van baten en lasten met de toelichting en op de in het jaarplan opgenomen financiële onderwerpen. De jaarrekening wordt ingericht zoveel mogelijk met overeenkomstige toepassing van [titel 9 van Boek 2 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&titeldeel=9).
 
-De jaarrekening van UWV omvat zowel het UWV als uitvoeringsorganisatie alsook de geadministreerde fondsen.
+Met ingang van het jaar 2014 is het voor UWV verplicht om een egalisatiereserve te vormen. Deze reserve wordt gevormd uit het positieve verschil tussen de gerealiseerde uitvoeringskosten en het SZW-budget. De egalisatiereserve wordt ingezet voor:
 
 ### 8. **Investeringen per categorie**
 
-De in de jaarrekening opgenomen informatie dient een zodanig betrouwbaar beeld te geven van de werkelijkheid als in de gegeven omstandigheden is vereist. Alle uitvoeringskosten worden in de budgetverantwoording opgenomen, ongeacht of er budget voor is toegekend. Het salderen van bijzondere baten en lasten is niet toegestaan, tenzij wetgeving anders voorschrijft.
+Wat betreft de omvang van de egalisatiereserve wordt aangesloten bij de richtlijn voor baten/lastendiensten, te weten 5% van het gemiddelde van de jaarbudgetten van de afgelopen 3 jaar. Bij de reactie op het jaarverslag over jaar t wordt door SZW de maximale omvang van de egalisatiereserve voor het jaar t+1 vastgesteld op basis van het gemiddelde van de vastgestelde jaarbudgetten van jaar t-2, t-1 en t.
 
-De jaarrekening UWV bestaat uit de volgende onderdelen:
+De vorming, besteding en vrijval van de egalisatiereserve moet toegelicht worden in de jaarrekening. In beginsel vormt UWV naast de egalisatiereserve geen bestemmingsreserves en bestemmingsfondsen. Hiervan kan slechts met instemming van het ministerie van SZW worden afgeweken.
 
 In de toelichting op de jaarrekening wordt onder andere ingegaan op:
 
-Ten behoeve van de bevoorschotting neemt UWV in het jaarplan met begroting een overzicht op van de uitvoeringskosten en programmakosten welke ten laste komen van een rijksbijdrage. Dit overzicht wordt tevens separaat van de tussentijdse verslagen aan SZW verstrekt. Voor de afrekening neemt UWV de in paragraaf 10.4.7 opgenomen tabel op die ziet op afrekening van de uitvoerings- en programmakosten.
+Vanwege de urgentie en omvang van de frictiekostenproblematiek, mag UWV tijdelijk, naast de egalisatiereserve, een bestemmingsfonds frictiekosten vormen. Aan het vullen van dit bestemmingsfonds wordt prioriteit gegeven totdat de omvang van het fonds het niveau heeft bereikt dat nodig is om de frictiekostenproblematiek op te lossen. UWV levert daartoe drie keer per jaar (eind maart, 1 juli, 1 november) een actuele meerjarenraming van de frictiekosten, welke door SZW wordt getoetst.
 
 In verband met de versnelling van de verantwoording is het toegestaan het handelen in het verslagjaar te koppelen aan een jaarschijveninterpretatie. De te hanteren jaarschijf mag niet ouder zijn dan 3 maanden ten opzichte van het kalenderjaar waarop de verantwoording betrekking heeft. Indien de jaarschijven worden aangepast dan dient dit in de jaarrekening te worden vermeld evenals de vergelijkbare cijfers van het voorgaande jaar.
 
@@ -3019,29 +3019,29 @@ Het budget voor projecten wet en regelgeving
 
 Het budget voor projecten bedrijfsvoering
 
-Het budget voor specifieke projecten.
+Jaarlijks worden tijdens het uitvoeringsjaar de wetten en regelingen die in deze tabel opgenomen moeten worden, na ambtelijke afstemming tussen UWV en SZW, door SZW per brief vastgesteld.
 
 Wat betreft de omvang van de egalisatiereserve zal worden aangesloten bij de richtlijn voor baten/lastendiensten, te weten 5% van het gemiddelde van de jaarbudgetten van de afgelopen 3 jaar. Bij de reactie op het jaarverslag over jaar t wordt door SZW de maximale omvang van de egalisatiereserve voor het jaar t+1 vastgesteld op basis van het gemiddelde van de vastgestelde jaarbudgetten van jaar t-2, t-1 en t.
 
-De vorming, besteding en vrijval van de egalisatiereserve moet toegelicht worden in de jaarrekening. In beginsel vormt UWV naast de egalisatiereserve geen bestemmingsreserves en bestemmingsfondsen. Hiervan kan slechts met instemming van het ministerie van SZW worden afgeweken.
+De accountant onderzoekt de verantwoording die de Raad van Bestuur van UWV op grond van de Regeling SUWI heeft uitgebracht. De controleverklaring en het verslag van bevindingen zijn nader geregeld in [artikel 5.10b t/m e](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&hoofdstuk=5&paragraaf=5.1b&artikel=5.10b&z=2016-01-30&g=2016-01-30) en [bijlage XXII](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&bijlage=XXII&z=2016-01-30&g=2016-01-30) van de Regeling SUWI.
 
 1 In de jaarrekening UWV worden deze bedragen onder de [WW](https://wetten.overheid.nl/jci1.3:c:BWBR0004045) in één bedrag verantwoord.
 
-Vanwege de urgentie en omvang van de frictiekostenproblematiek, mag UWV tijdelijk, naast de egalisatiereserve, een bestemmingsfonds frictiekosten vormen. Aan het vullen van dit bestemmingsfonds wordt prioriteit gegeven totdat de omvang van het fonds het niveau heeft bereikt dat nodig is om de frictiekostenproblematiek op te lossen. UWV levert daartoe drie keer per jaar (eind maart, 1 juli, 1 november) een actuele meerjarenraming van de frictiekosten, welke door SZW wordt getoetst.
+De concept aansluitingstabel UWV – SZW wordt samen met het jaarverslag UWV naar het Ministerie van Sociale Zaken en Werkgelegenheid gestuurd. De definitieve aansluitingstabel, plus controleverklaring, wordt een week later opgeleverd. De aansluitingstabel UWV – SZW valt onder de accountantscontrole door het UWV. De door UWV te leveren items in de tabel worden, na ambtelijke afstemming tussen UWV en SZW, schriftelijk door het Ministerie van SZW aan UWV kenbaar gemaakt.
 
-### 10.4. Balans UWV per 31 december
+### 12. VBTB-verslag
 
-**Ccontroleverklaring en verslag van bevindingen**
+Ten behoeve van het SZW-jaarverslag verstrekt UWV jaarlijks VBTB-informatie
 
-**Ccontroleverklaring en verslag van bevindingen**
+Het VBTB-verslag wordt uiterlijk zes weken na afloop van het kalenderjaar opgeleverd. De door UWV te leveren items in het VBTB-verslag worden schriftelijk door het Ministerie van SZW aan UWV kenbaar gemaakt.
 
 De accountant onderzoekt de verantwoording die de Raad van Bestuur van UWV op grond van de Regeling SUWI heeft uitgebracht. De controleverklaring en het verslag van bevindingen zijn nader geregeld in [artikel 5.10b t/m e](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&hoofdstuk=5&paragraaf=5.1b&artikel=5.10b&z=2013-07-10&g=2013-07-10) en[bijlage XXII](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&bijlage=XXII&z=2013-07-10&g=2013-07-10) van de Regeling SUWI.
 
-De accountant onderzoekt de verantwoording die de Raad van Bestuur van UWV op grond van de Regeling SUWI heeft uitgebracht. De controleverklaring en het verslag van bevindingen zijn nader geregeld in [artikel 5.10b t/m e](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&hoofdstuk=5&paragraaf=5.1b&artikel=5.10b&z=2013-07-10&g=2013-07-01) en[bijlage XXII](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&bijlage=XXII&z=2013-07-10&g=2013-07-01) van de Regeling SUWI.
+Over de levering van de periodieke kwantitatieve informatie per wet, de maandelijkse kerncijfers en de statistische jaarrapportages worden jaarlijks bilaterale afspraken gemaakt.
 
 De concept aansluitingstabel UWV – SZW wordt samen met het jaarverslag UWV naar het Ministerie van Sociale Zaken en Werkgelegenheid gestuurd. De definitieve aansluitingstabel, plus controleverklaring, wordt een week later opgeleverd. De aansluitingstabel UWV – SZW valt onder de accountantscontrole door het UWV. De door UWV te leveren items in de tabel worden schriftelijk door het Ministerie van SZW aan UWV kenbaar gemaakt.
 
-De concept aansluitingstabel UWV – SZW wordt samen met het jaarverslag UWV naar het Ministerie van Sociale Zaken en Werkgelegenheid gestuurd. De definitieve aansluitingstabel, plus controleverklaring, wordt een week later opgeleverd. De aansluitingstabel UWV – SZW valt onder de accountantscontrole door het UWV. De door UWV te leveren items in de tabel worden schriftelijk door het Ministerie van SZW aan UWV kenbaar gemaakt.
+Het UWV gaat in de tussentijdse verslagen en het jaarverslag in op de bevindingen van de Inspectie SZW en de Algemene Rekenkamer en op de naar aanleiding daarvan genomen maatregelen.
 
 Ten behoeve van het SZW-jaarverslag verstrekt UWV jaarlijks VBTB-informatie
 
@@ -3051,7 +3051,7 @@ Het VBTB-verslag wordt uiterlijk zes weken na afloop van het kalenderjaar opgele
 
 ### 13. **Kwantitatieve informatie**
 
-### 10.6.8. Controleverklaring en verslag van bevindingen
+### Planning & control producten van SVB
 
 ### 14. **Toezichtbevindingen**
 
@@ -3065,7 +3065,7 @@ Het VBTB-verslag wordt uiterlijk zes weken na afloop van het kalenderjaar opgele
 
 ### Planning & control producten van SVB
 
-### 13. Kwantitatieve informatie
+### Legenda
 
 Over de levering van de periodieke kwantitatieve informatie per wet, de maandelijkse kerncijfers en de statistische jaarrapportages worden jaarlijks bilaterale afspraken gemaakt.
 
@@ -3075,27 +3075,27 @@ Het UWV gaat in de tussentijdse verslagen en het jaarverslag in op de bevindinge
 
 ### 15. Rapportage grote ICT-projecten plus nota van bevindingen
 
-Dit betreft alleen projecten met een meerjarig ICT-component van minimaal € 20 mln, of projecten met een meerjarige ICT-component van minimaal € 5 mln en het project als geheel heeft een hoog risicoprofiel. De rapportage hierover geschiedt overeenkomstig de brief aan de Tweede Kamer van de Minister van BZK van 29 januari 2010. De rapportage maakt deel uit van het Jaarverslag UWV. De rapportage gaat vergezeld van een nota van bevindingen van de accountant over de ordelijkheid, controleerbaarheid en deugdelijkheid van het totstandkomingsproces van de informatie. De Minister van BZK zal de rapportage afzonderlijk aan de kamer aanbieden. De ICT-projecten worden sinds 2011 op het Rijks ICT-dashboard gepubliceerd. De geactualiseerde data op het Rijks ICT-dashboard worden eenmaal per jaar verwerkt in de jaarrapportage bedrijfsvoering Rijk.
+In het jaarplan wordt ook aandacht besteed aan eventuele veranderingen in de taken van de organisatie. Gedacht kan worden aan:
 
-In de hierna volgende tabel worden de onderwerpen benoemd, die in de diverse producten van de P&C cyclus aan de orde dienen te komen. Daaronder volgt, per onderwerp, een nadere toelichting.
+In de tussentijdse verslagen en het jaarverslag doet de SVB verslag van de uitvoering van het beleid en de geleverde prestaties. Hierbij wordt tevens over majeure budgettaire ontwikkelingen gerapporteerd. Het jaarplan en de daarin opgenomen prestatie-indicatoren en kengetallen vormen het uitgangspunt. De uitkomsten van de prestatie-indicatoren worden, voorzien van een toelichting, samen met de normen/streefwaarden per wet verantwoord. Indien van toepassing beschrijft de SVB zoveel als mogelijk de eigen bijdrage aan het behalen van de doelstellingen, en geeft een verklaring als doelstellingen niet worden gehaald en de verbetermaatregelen die zijn/worden genomen.
 
 ### 1. **Volumeontwikkeling en fondsbelasting**
 
-De SVB levert **het ontwerp jaarplan met begroting vòòr 1 juli en het definitief jaarplan met begroting vòòr 1 oktober**. De SVB dient zich op verschillende momenten te verantwoorden over de uitvoering van het jaarplan. Deze verantwoording vindt plaats in twee **tussentijdse verslagen** en het **jaarverslag**. De tussentijdse verslagen worden uiterlijk zes weken na afloop van de verslagperiode (tertaal) aan de minister verstrekt. Het jaarverslag wordt vòòr 15 maart aan de minister aangeboden.
+Bij handhaving wordt specifiek ingegaan op de uitvoering en effecten van het handhavingsbeleid. Naast de onderwerpen die genoemd zijn in het jaarplan, wordt specifiek ingegaan op de realisering van de in het Handhavingsarrangement gemaakte afspraken. Tevens worden opvallende cijfermatige ontwikkelingen toegelicht. De Raad van Bestuur wordt geacht de uitgangspunten die zij hanteert bij het te voeren handhavingsbeleid te expliciteren.
 
-### 2. **Ontwikkelingen wetsuitvoering en andere taken**
+### 3. Ontwikkelingen grote projecten en projecten ter invoering van nieuwe wet- en regelgeving
 
-De SVB levert **het ontwerp jaarplan met begroting vòòr 1 juli en het definitief jaarplan met begroting vòòr 1 oktober**. De SVB dient zich op verschillende momenten te verantwoorden over de uitvoering van het jaarplan. Deze verantwoording vindt plaats in twee **tussentijdse verslagen** en het **jaarverslag**. De tussentijdse verslagen worden uiterlijk zes weken na afloop van de verslagperiode (tertaal) aan de minister verstrekt. Het jaarverslag wordt vòòr 15 maart aan de minister aangeboden.
+De SVB doet verslag van de uitvoering van nieuwe wet- en regelgeving. Hierbij wordt ingegaan op de bereikte resultaten en de daarmee gepaard gaande kosten. De SVB legt hierbij een relatie met de planning en licht eventuele wijzigingen kort toe.
 
 Met de **fondsennota’s** verstrekt de SVB informatie over de volumegegevens, baten en lasten en de vermogenspositie van de door haar beheerde fondsen. De fondsennota’s worden uiterlijk 1 februari respectievelijk 1 juli opgeleverd
 
-### Legenda
+### 5. Bedrijfsvoering
 
-In de hierna volgende tabel worden de onderwerpen benoemd, die in de diverse producten van de P&C cyclus aan de orde dienen te komen. Daaronder volgt, per onderwerp, een nadere toelichting.
+In de bedrijfsvoeringsparagraaf gaat de SVB in op de sturing en beheersing van de bedrijfsprocessen binnen de SVB. Het doel is aan te geven in welke mate het management van de SVB haar bedrijfsprocessen beheerst. In de bedrijfsvoeringsparagraaf legt de SVB, mede gebaseerd op risicoanalyse, verantwoording af over de bedrijfsvoering. De bedrijfsvoeringsparagraaf bestaat tenminste uit de volgende onderdelen: rechtmatigheid (waaronder het M&O beleid), doelmatigheid, totstandkoming niet-financiële informatie, financieel beheer en overige aspecten van de bedrijfsvoering.
 
 De SVB verstrekt aan de minister met betrekking tot de door haar beheerde fondsen afzonderlijk:
 
-Bij handhaving wordt specifiek ingegaan op de uitvoering en effecten van het handhavingsbeleid. Naast de onderwerpen die genoemd zijn in het jaarplan, wordt specifiek ingegaan op de speerpunten van het Handhavingsprogramma en op de realisering van de in het Handhavingsarrangement gemaakte afspraken. Tevens worden opvallende cijfermatige ontwikkelingen toegelicht. De Raad van Bestuur wordt geacht de uitgangspunten die zij hanteert bij het te voeren handhavingsbeleid te expliciteren.
+Voor wat betreft rechtmatigheid rapporteert de SVB in het tweede tussentijdsverslag over de rechtmatigheidscijfers per wet over het eerste half jaar en in het jaarverslag over de jaarcijfers. Vaststelling van de rechtmatigheid is gekoppeld aan het handelen in het verslagjaar (het handelen omvat mede het ten onrechte niet-handelen) en de fouten die daarbij zijn gevonden. Ingegaan wordt op de wijze waarop met oude fouten wordt omgegaan. Tevens wordt hierbij inzicht geboden in de uitgevoerde herstelactiviteiten. De wijze waarop de SVB verantwoording dient af te leggen over de rechtmatigheid in het jaarverslag en de jaarrekening, alsmede de wijze waarop de accountant zijn controlewerkzaamheden dient te verrichten, zijn nader uitgewerkt in de [artikelen 5.10b t/m 5.10e](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&hoofdstuk=5&paragraaf=5.1b&artikel=5.10b&z=2016-01-30&g=2016-01-30) van de Regeling SUWI en met name in de daarbij behorende toelichting.
 
 ## Bijlage V
 
@@ -3105,13 +3105,13 @@ Vervallen
 
 Vervallen
 
-### 4. **Ketensamenwerking en geïntegreerde dienstverlening (n.v.t.)**
+### 5c). Totstandkoming niet-financiële informatie
 
-In het jaarplan wordt ook aandacht besteed aan eventuele veranderingen in de taken van de organisatie. Gedacht kan worden aan:
+De SVB rapporteert in het jaarverslag over het totstandkomingsproces van de informatievoorziening (inclusief de daarbij gehanteerde criteria zoals vastgelegd in bijlage XVII van de SUWI-regeling) en de wijze waarop deze is gewaarborgd (conform [artikel 5.16 tweede lid Regeling SUWI](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&hoofdstuk=5&paragraaf=5.2&sub-paragraaf=5.2.1&artikel=5.16&z=2016-01-30&g=2016-01-30)) en eventuele verbetermaatregelen.
 
-### 5. **Bedrijfsvoering**
+### 5d). Financieel Beheer
 
-De SVB rapporteert over de klanttevredenheid. Daarnaast rapporteert de SVB in haar jaarverslag over de wijze waarop de cliëntenparticipatie is vormgegeven. De SVB verantwoordt zich over de activiteiten die zijn ondernomen om de dienstverlening aan de klant te handhaven en verbeteren.
+In dit onderdeel rapporteert de SVB over de belangrijkste tekortkomingen in het financieel beheer. Onder financieel beheer wordt verstaan het geheel van beslissingen, handelingen en regels die zijn bedoeld voor de sturing en beheersing van, alsmede de verantwoording over, de financiële transacties en de saldi waarvoor het management (mede)verantwoordelijkheid draagt. De administraties, die ten behoeve van het financieel beheer worden bijgehouden, worden eveneens tot het financieel beheer gerekend.
 
 ### 5a). **Rechtmatigheid**
 
@@ -3121,81 +3121,81 @@ De SVB doet verslag van de uitvoering van nieuwe wet- en regelgeving. Hierbij wo
 
 ### 4. Ketensamenwerking en geïntegreerde dienstverlening
 
-(n.v.t.)
+SVB rapporteert op dit punt over belangrijke personeelsaangelegenheden, waaronder in ieder geval de personeelsbezetting, het personeelsverloop, de sociale plannen en de daarmee gemoeide kosten.
 
 ### 5. Bedrijfsvoering
 
-In de bedrijfsvoeringsparagraaf gaat de SVB in op de sturing en beheersing van de bedrijfsprocessen binnen de SVB. Het doel is aan te geven in welke mate het management van de SVB haar bedrijfsprocessen beheerst. In de bedrijfsvoeringsparagraaf legt de SVB, mede gebaseerd op risicoanalyse, verantwoording af over de bedrijfsvoering. De bedrijfsvoeringsparagraaf bestaat tenminste uit de volgende onderdelen: rechtmatigheid (waaronder het M&O beleid), doelmatigheid, totstandkoming niet-financiële informatie, financieel beheer en overige aspecten van de bedrijfsvoering.
+De SVB doet in de tussentijdse verslagen en het jaarverslag verslag van de voortgang van de huisvestingsplannen. In het bijzonder rapporteert de SVB specifiek over de volgende onderwerpen:
 
 Het financieel beheer dient te voldoen aan de eisen ordelijkheid en controleerbaarheid. Onder ordelijk wordt verstaan dat het financieel beheer en de administraties in overeenstemming zijn met de in de administratieve organisatie vastgelegde procedureregels. Met controleerbaar wordt bedoeld dat de uitkomsten van het financieel beheer duidelijk worden vastgelegd, opdat achteraf controle efficiënt kan worden uitgevoerd.
 
 ### 5e). **Overige aspecten van de bedrijfsvoering**
 
-De SVB rapporteert in het algemeen bij onvolkomenheden in het financieel beheer als die kunnen leiden tot disfunctioneren van het financieel beheer en/of betrekking hebben op kritieke processen en/of wijd verbreid zijn en/of kunnen leiden of hebben geleid tot aanzienlijke risico’s. Daarnaast rapporteert de SVB bij dit onderdeel over de fouten (per wet) die zijn vastgesteld bij de bepaling van de financiële rechtmatigheid, maar niet tot financiële onrechtmatigheid hebben geleid.
+De SVB gaat in op welke wijze risico’s binnen de organisatie zijn geanalyseerd, hoe wordt omgegaan met risico’s en hoe risico’s worden gemanaged.
 
 In [artikel 5.10e, eerste lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&hoofdstuk=5&paragraaf=5.1b&artikel=5.10e&z=2015-09-25&g=2016-01-01), van de Regeling SUWI is aangegeven dat de SVB inzicht biedt in doelmatigheid van het beheer en de organisatie. De SVB brengt verslag uit van activiteiten die zijn ondernomen om de bedrijfsprocessen door te lichten, waarbij het kostenniveau wordt gerelateerd aan de (kwaliteit van de) geleverde prestatie. De Raad van Bestuur wordt geacht de uitgangspunten die zij hanteert met betrekking tot doelmatigheid te expliciteren. Een toelichting op artikel 5.10e, eerste lid, onderdeel c, van de Regeling SUWI, wordt gegeven in [Bijlage XXIII](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&bijlage=XXIII&z=2015-09-25&g=2016-01-01) bij de Regeling SUWI.
 
-**Sociaal beleid en HRM**
+In de toelichting wordt onder andere ingegaan op:
 
-De SVB rapporteert in het jaarverslag over het totstandkomingsproces van de informatievoorziening (inclusief de daarbij gehanteerde criteria zoals vastgelegd in [bijlage XVII](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&bijlage=XVII&z=2015-09-25&g=2016-01-01) van de SUWI-regeling) en de wijze waarop deze is gewaarborgd (conform [artikel 5.16 tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&hoofdstuk=5&paragraaf=5.2&sub-paragraaf=5.2.1&artikel=5.16&z=2015-09-25&g=2016-01-01) Regeling SUWI) en eventuele verbetermaatregelen.
-
-Het financieel beheer dient te voldoen aan de eisen ordelijkheid en controleerbaarheid. Onder ordelijk wordt verstaan dat het financieel beheer en de administraties in overeenstemming zijn met de in de administratieve organisatie vastgelegde procedureregels. Met controleerbaar wordt bedoeld dat de uitkomsten van het financieel beheer duidelijk worden vastgelegd, opdat achteraf controle efficiënt kan worden uitgevoerd.
-
-In dit onderdeel rapporteert de SVB over de belangrijkste tekortkomingen in het financieel beheer. Onder financieel beheer wordt verstaan het geheel van beslissingen, handelingen en regels die zijn bedoeld voor de sturing en beheersing van, alsmede de verantwoording over, de financiële transacties en de saldi waarvoor het management (mede)verantwoordelijkheid draagt. De administraties, die ten behoeve van het financieel beheer worden bijgehouden, worden eveneens tot het financieel beheer gerekend.
+De SVB doet jaarlijks verslag van de bezoldiging van de leden van de Raad van Bestuur ([artikel 5 vierde lid Wet SUWI](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&artikel=5)), en van de topinkomens op basis van de Wet normering bezoldiging topfunctionarissen publieke en semipublieke sector (WNT).
 
 Het financieel beheer dient te voldoen aan de eisen ordelijkheid en controleerbaarheid. Onder ordelijk wordt verstaan dat het financieel beheer en de administraties in overeenstemming zijn met de in de administratieve organisatie vastgelegde procedureregels. Met controleerbaar wordt bedoeld dat de uitkomsten van het financieel beheer duidelijk worden vastgelegd, opdat achteraf controle efficiënt kan worden uitgevoerd.
 
-De SVB rapporteert in het algemeen bij onvolkomenheden in het financieel beheer als die kunnen leiden tot disfunctioneren van het financieel beheer en/of betrekking hebben op kritieke processen en/of wijd verbreid zijn en/of kunnen leiden of hebben geleid tot aanzienlijke risico’s. Daarnaast rapporteert de SVB bij dit onderdeel over de fouten (per wet) die zijn vastgesteld bij de bepaling van de financiële rechtmatigheid, maar niet tot financiële onrechtmatigheid hebben geleid.
+De indeling in categorieën volgt [Titel 9 Boek 2 BW](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&titeldeel=9).
+
+Het financieel beheer dient te voldoen aan de eisen ordelijkheid en controleerbaarheid. Onder ordelijk wordt verstaan dat het financieel beheer en de administraties in overeenstemming zijn met de in de administratieve organisatie vastgelegde procedureregels. Met controleerbaar wordt bedoeld dat de uitkomsten van het financieel beheer duidelijk worden vastgelegd, opdat achteraf controle efficiënt kan worden uitgevoerd.
+
+Ten behoeve van de bevoorschotting neemt SVB in het jaarplan met begroting een overzicht op van de uitvoeringskosten en uitkeringslasten welke ten laste komen van een rijksbijdrage. Dit overzicht wordt tevens separaat van de tussentijdse verslagen aan SZW verstrekt. Voor de afrekening neemt SVB de in paragraaf 10.4.7 opgenomen tabel op die ziet op afrekening van de uitvoeringskosten en uitkeringslasten.
 
 SVB rapporteert op dit punt over belangrijke personeelsaangelegenheden, waaronder in ieder geval de personeelsbezetting, het personeelsverloop, de sociale plannen en de daarmee gemoeide kosten.
 
-SVB rapporteert over ontwikkelingen ten aanzien van de volgende onderwerpen:
+De jaarrekening van de SVB omvat zowel de SVB als uitvoeringsorganisatie alsook de geadministreerde SV-fondsen.
 
-SVB rapporteert op dit punt over belangrijke personeelsaangelegenheden, waaronder in ieder geval de personeelsbezetting, het personeelsverloop, de sociale plannen en de daarmee gemoeide kosten.
+De jaarrekening heeft betrekking op de balans en de staat van baten en lasten met de toelichting en op de in het jaarplan opgenomen financiële onderwerpen. De jaarrekening is zoveel als mogelijk gebaseerd op [titel 9, boek 2 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&titeldeel=9), tenzij hiervan in deze bijlage wordt afgeweken.
 
-SVB rapporteert over de voortgang, verbetering en vernieuwing van de geautomatiseerde ondersteuning van zowel haar primaire als ondersteunende processen. Ook de voortgang van projecten ter verbetering van gegevensbeheer en privacybescherming vallen hieronder. SVB rapporteert in het jaarverslag over de opzet en werking van het stelsel van maatregelen en procedures gericht op het waarborgen van een exclusieve, integere, beschikbare en controleerbare gegevensverwerking, en over het beveiligingsniveau van Suwinet (conform [artikel 5.22](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&hoofdstuk=5&paragraaf=5.3&artikel=5.22&z=2015-09-25&g=2016-01-01) en [6.4](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&hoofdstuk=6&paragraaf=6.1&artikel=6.4&z=2015-09-25&g=2016-01-01) Regeling SUWI).
+De in de jaarrekening opgenomen informatie dient een zodanig betrouwbaar beeld te geven van de werkelijkheid als in de gegeven omstandigheden is vereist. Alle uitvoeringskosten worden in de staat van baten en lasten met toelichting opgenomen, ongeacht of er budget voor is toegekend. Het salderen van bijzondere baten en lasten is niet toegestaan, tenzij wetgeving anders voorschrijft.
 
-De SVB doet in de tussentijdse verslagen en het jaarverslag verslag van de voortgang van de huisvestingsplannen. In het bijzonder rapporteert de SVB specifiek over de volgende onderwerpen:
+De jaarrekening SVB bestaat uit de volgende onderdelen:
 
-De SVB gaat in op welke wijze risico’s binnen de organisatie zijn geanalyseerd, hoe wordt omgegaan met risico’s en hoe risico’s worden gemanaged.
+In de toelichting op de jaarrekening wordt onder andere ingegaan op:
 
-De onderwerpen die onder het onderdeel governance vallen hebben betrekking op de bestuurlijke inrichting van de SVB en de wijze waarop zij haar taken uitvoert.
+In verband met de versnelling van de verantwoording is het toegestaan het handelen in het verslagjaar te koppelen aan een jaarschijveninterpretatie. De te hanteren jaarschijf mag niet ouder zijn dan 3 maanden ten opzichte van het kalenderjaar waarop de verantwoording betrekking heeft. Indien de jaarschijven worden aangepast dan dient dit in de jaarrekening te worden vermeld evenals de vergelijkende cijfers. Met betrekking tot de premiebaten is het toegestaan als waarderingsgrondslag de EMU-definitie te hanteren (één maand verschoven kasbasis).
 
-De SVB gaat in op welke wijze risico’s binnen de organisatie zijn geanalyseerd, hoe wordt omgegaan met risico’s en hoe risico’s worden gemanaged.
+Met ingang van het jaar 2014 is het voor de SVB verplicht om een egalisatiereserve te vormen. Deze reserve wordt gevormd uit het positieve verschil tussen gerealiseerde baten en lasten (SZW-budget). De egalisatiereserve blijft beperkt tot de uitvoeringskosten en wordt ingezet voor:
 
 ### 7. Uitvoeringskosten
 
-In de toelichting wordt onder andere ingegaan op:
+Wat betreft de omvang van de egalisatiereserve zal worden aangesloten bij de richtlijn voor baten/lastendiensten, te weten 5% van het gemiddelde van de jaarbudgetten van de afgelopen 3 jaar. Bij de reactie op het jaarverslag over jaar t wordt door SZW de maximale omvang van de egalisatiereserve voor het jaar t+1 vastgesteld op basis van het gemiddelde van de vastgestelde jaarbudgetten van jaar t-2, t-1 en t.
 
-De SVB doet jaarlijks verslag van de bezoldiging van de leden van de Raad van Bestuur ([artikel 5 vierde lid Wet SUWI](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&artikel=5)), en van de topinkomens op basis van de [Wet openbaarmaking uit financiële middelen gefinancierde topinkomens](https://wetten.overheid.nl/jci1.3:c:BWBR0019562) (WOPT).
+De vorming, besteding en vrijval van de egalisatiereserve moet toegelicht worden in de jaarrekening.
 
-Ten behoeve van de bevoorschotting neemt SVB in het jaarplan met begroting een overzicht op van de uitvoeringskosten en uitkeringslasten welke ten laste komen van een rijksbijdrage. Dit overzicht wordt tevens separaat van de tussentijdse verslagen aan SZW verstrekt. Voor de afrekening neemt SVB de in paragraaf 10.4.7 opgenomen tabel op die ziet op afrekening van de uitvoeringskosten en uitkeringslasten.
+In beginsel vormt de SVB naast de egalisatiereserve geen bestemmingsreserves en bestemmingsfondsen. Hiervan kan slechts met instemming van het ministerie van SZW worden afgeweken.
 
 De indeling in categorieën volgt Titel 9 Boek 2 BW.
 
 De jaarrekening van de SVB omvat zowel de SVB als uitvoeringsorganisatie alsook de geadministreerde SV-fondsen.
 
-Ten behoeve van de bevoorschotting neemt SVB in het jaarplan met begroting een overzicht op van de uitvoeringskosten en uitkeringslasten welke ten laste komen van een rijksbijdrage. Dit overzicht wordt tevens separaat van de tussentijdse verslagen aan SZW verstrekt. Voor de afrekening neemt SVB de in paragraaf 10.4.7 opgenomen tabel op die ziet op afrekening van de uitvoeringskosten en uitkeringslasten.
+Jaarlijks worden tijdens het uitvoeringsjaar de wetten en regelingen die in deze tabel opgenomen moeten worden, na ambtelijke afstemming tussen SVB en SZW, door SZW per brief vastgesteld.
 
-### 10. Jaarrekening
+### Controleverklaring en verslag van bevindingen
 
-De jaarrekening van de SVB omvat zowel de SVB als uitvoeringsorganisatie alsook de geadministreerde SV-fondsen.
+De accountant onderzoekt de verantwoording die de Raad van Bestuur van de SVB op grond van de Regeling SUWI heeft uitgebracht. De controleverklaring en het verslag van bevindingen zijn nader geregeld in [artikel 5.10b t/m e](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&hoofdstuk=5&paragraaf=5.1b&artikel=5.10b&z=2016-01-30&g=2016-01-30) en [bijlage XXII](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&bijlage=XXII&z=2016-01-30&g=2016-01-30) van de Regeling SUWI.
 
 De jaarrekening heeft betrekking op de balans en de staat van baten en lasten met de toelichting en op de in het jaarplan opgenomen financiële onderwerpen. De jaarrekening is zoveel als mogelijk gebaseerd op titel 9, boek 2 van het Burgerlijk Wetboek, tenzij hiervan in deze bijlage wordt afgeweken.
 
-### Planning & control producten van de RWI
+### 12. VBTB-informatie
 
 ### Grondslagen waardering en resultaatbepaling
 
-### 8. Kasstroomoverzicht
+### 13. Kwantitatieve informatie
 
 ### Grondslagen waardering en resultaatbepaling
 
-### 11. **Aansluitingstabel (n.v.t.)**
+### 14. Toezichtbevindingen
 
 ### Egalisatiereserve
 
-### 12. **VBTB-informatie**
+### 15. Rapportage grote ICT-projecten plus nota van bevindingen
 
 ### 13. **Kwantitatieve informatie**
 
@@ -3209,17 +3209,17 @@ Baten wettelijke taken (realisatie t/begroot t/realisatie t-1)
 
 ### Toelichting
 
-Baten wettelijke taken (realisatie t/begroot t/realisatie t-1)
+Ten aanzien van IB wordt één planningsdocument opgeleverd, te weten het **jaarplan met begroting**(vòòr 1 oktober). Het jaarplan van IB bevat in elk geval een omschrijving van de taak, bedoeld in [artikel 1, onderdeel m, van de Wet SUWI](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&artikel=1) en de andere taken die het IB ten behoeve van gemeenten op grond van [artikel 5.24 van het Besluit SUWI](https://wetten.overheid.nl/jci1.3:c:BWBR0013267&artikel=5.24) verricht. IB dient zich op verschillende momenten te verantwoorden over de uitvoering van het jaarplan. Deze verantwoording vindt plaats in de **tussentijdse verslagen** en het **jaarverslag**. Het tussentijdse verslag wordt uiterlijk zes weken na afloop van de verslagperiode aan de minister verstrekt. Het jaarverslag wordt vòòr 15 maart aan de minister aangeboden.
 
-Nog te verrekenen rijksbijdragen
+In die hierna volgende tabel worden de onderwerpen benoemd, die in de diverse producten van de P&C cyclus aan de orde dienen te komen. Daaronder volgt, per onderwerp, een nadere toelichting.
+
+### Legenda
+
+### 1. Volumeontwikkeling en fondsbelasting
 
 ### Planning & control producten van IB
 
-### Controleverklaring en verslag van bevindingen
-
-### Planning & control producten van IB
-
-### 11. Aansluitingstabel
+### 2. Ontwikkelingen wetsuitvoering en andere taken
 
 ### **Legenda**
 
@@ -3235,7 +3235,7 @@ Over de levering van de periodieke kwantitatieve informatie per wet, de maandeli
 
 De SVB gaat in de tussentijdse verslagen en het jaarverslag in op de bevindingen van de Inspectie Werk en Inkomen en de Algemene Rekenkamer en op de naar aanleiding daarvan genomen maatregelen.
 
-In het tussentijdse verslag en het jaarverslag doet IB verslag van de uitvoering van het beleid en de geleverde prestaties. Het jaarplan en de daarin opgenomen prestatie-indicatoren vormen hierbij het uitgangspunt. De uitkomsten van de prestatie-indicatoren worden, voorzien van een toelichting, samen met de normen/streefwaarden per wet verantwoord. Indien van toepassing beschrijft IB zoveel als mogelijk de eigen bijdrage aan het behalen van de doelstellingen en geeft een verklaring als doelstellingen niet worden gehaald en de verbetermaatregelen die zijn/worden genomen. Bij klantgerichtheid wordt specifiek ingegaan op o.a. klachtenafhandeling, bereikbaarheid en klanttevredenheid.
+IB doet verslag van de samenwerking met de ketenpartners, de ontwikkelingen in de keten werk en inkomen en de voortgang van de uitvoering van het ketenprogramma. Het jaarplan vormt hierbij het uitgangspunt. Per speerpunt wordt aangegeven in welke mate de doelstellingen zijn gerealiseerd en wat de onderliggende analyse is bij afwijkingen in de realisatie. In dat geval wordt verder aangegeven welke aanvullende maatregelen IB heeft genomen om de doelstellingen alsnog te realiseren.
 
 ## Bijlage X
 
@@ -3259,91 +3259,99 @@ Ten aanzien van IB wordt één planningsdocument opgeleverd, te weten het **jaar
 
 ### 1. Volumeontwikkeling en fondsbelasting
 
-### Legenda
-
-In [artikel 5.10e, eerste lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&hoofdstuk=5&paragraaf=5.1b&artikel=5.10e&z=2013-07-10&g=2013-07-10), van de Regeling SUWI is aangegeven dat IB inzicht moet bieden in de doelmatigheid van het beheer en de organisatie. Ten aanzien van IB wordt verslag uitgebracht van activiteiten die zijn ondernomen om de bedrijfsprocessen door te lichten, waarbij het kostenniveau wordt gerelateerd aan de (kwaliteit van de) geleverde prestatie. IB wordt geacht de uitgangspunten die zij hanteert met betrekking tot doelmatigheid te expliciteren. Een toelichting op artikel 5.10e, eerste lid, onderdeel c, van de Regeling SUWI, wordt gegeven in [Bijlage XXIII](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&bijlage=XXIII&z=2013-07-10&g=2013-07-10) bij de Regeling SUWI.
-
-### 5c). **Totstandkoming niet-financiële informatie**
-
-In het kader van de budgetverantwoordelijkheid van SZW voor IB dient IB zich tevens te verantwoorden over prestatie-indicatoren en prestatiegegevens op het gebied van:
-
-### 5d). **Financieel Beheer**
-
-In het kader van de budgetverantwoordelijkheid van SZW voor IB dient IB zich tevens te verantwoorden over prestatie-indicatoren en prestatiegegevens op het gebied van:
-
-In het jaarplan wordt ook aandacht besteed aan eventuele veranderingen in de taken van de organisatie. Gedacht kan worden aan:
-
-### 5e). **Overige onderwerpen bedrijfsvoering**
-
-Onder ordelijk wordt verstaan dat het financieel beheer en de administraties in overeenstemming zijn met de in de administratieve organisatie vastgelegde procedureregels. Met controleerbaar wordt bedoeld dat de uitkomsten van het financieel beheer duidelijk worden vastgelegd, opdat achteraf controle efficiënt kan worden uitgevoerd. IB rapporteert in het algemeen bij onvolkomenheden in het financieel beheer als die kunnen leiden tot disfunctioneren van het financieel beheer en/of betrekking hebben op kritieke processen en/of wijd verbreid zijn en/of kunnen leiden of hebben geleid tot aanzienlijke risico’s.
-
-IB doet verslag van de uitvoering van het investeringsprogramma en de invoering van nieuwe wet- en regelgeving (indien van toepassing). Hierbij wordt ingegaan op de bereikte resultaten en de daarmee gepaard gaande kosten. IB legt hierbij een relatie met de planning en licht eventuele wijzigingen kort toe. IB dient tevens verslag te doen van de fte-bezetting (vast/tijdelijk/extern) per einddatum van de verslagperiode.
-
-**Sociaal beleid en HRM**
-
-IB doet verslag van de samenwerking met de ketenpartners, de ontwikkelingen in de keten werk en inkomen en de voortgang van de uitvoering van het ketenprogramma. Het jaarplan vormt hierbij het uitgangspunt. Per speerpunt wordt aangegeven in welke mate de doelstellingen zijn gerealiseerd en wat de onderliggende analyse is bij afwijkingen in de realisatie. In dat geval wordt verder aangegeven welke aanvullende maatregelen IB heeft genomen om de doelstellingen alsnog te realiseren.
-
-**ICT en informatiebeveiliging**
-
-In de bedrijfsvoeringsparagraaf gaat IB in op de sturing en beheersing van de bedrijfsprocessen binnen IB voor zover van belang voor de uitvoering van de taken op grond van de Wet SUWI. Het doel is aan te geven in welke mate het management van IB haar bedrijfsprocessen beheerst. In de bedrijfsvoeringsparagraaf legt IB, mede gebaseerd op risicoanalyse, verantwoording af over de bedrijfsvoering. De bedrijfsvoeringsparagraaf bestaat tenminste uit de volgende onderdelen:
-
-**Huisvesting**
-
-De wijze waarop IB verantwoording dient af te leggen over de rechtmatigheid in het jaarverslag en de jaarrekening, alsmede de wijze waarop de accountant zijn controlewerkzaamheden dient te verrichten, zijn nader uitgewerkt in de [artikelen 5.10b t/m 5.10e](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&hoofdstuk=5&paragraaf=5.1b&artikel=5.10b&z=2015-09-25&g=2016-01-01) van de Regeling SUWI en met name in de daarbij behorende toelichting.
-
-IB doet verslag van de voortgang van huisvestingskosten.
-
-In [artikel 5.10e, eerste lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&hoofdstuk=5&paragraaf=5.1b&artikel=5.10e&z=2015-09-25&g=2016-01-01), van de Regeling SUWI is aangegeven dat IB inzicht moet bieden in de doelmatigheid van het beheer en de organisatie. Ten aanzien van IB wordt verslag uitgebracht van activiteiten die zijn ondernomen om de bedrijfsprocessen door te lichten, waarbij het kostenniveau wordt gerelateerd aan de (kwaliteit van de) geleverde prestatie. IB wordt geacht de uitgangspunten die zij hanteert met betrekking tot doelmatigheid te expliciteren. Een toelichting op artikel 5.10e, eerste lid, onderdeel c, van de Regeling SUWI, wordt gegeven in [Bijlage XXIII](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&bijlage=XXIII&z=2015-09-25&g=2016-01-01) bij de Regeling SUWI.
-
-bestuurlijke inrichting van IB en de wijze waarop zij haar taken uitvoert.
-
-IB rapporteert in het jaarverslag over het totstandkomingsproces van de informatievoorziening (inclusief de daarbij gehanteerde criteria zoals vastgelegd in [bijlage XVII](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&bijlage=XVII&z=2015-09-25&g=2016-01-01) van de SUWI-regeling) en de wijze waarop deze is gewaarborgd (conform [artikel 5.16 tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&hoofdstuk=5&paragraaf=5.2&sub-paragraaf=5.2.1&artikel=5.16&z=2015-09-25&g=2016-01-01) Regeling SUWI).
-
-Het financieel beheer dient te voldoen aan de eisen ordelijkheid en controleerbaarheid.
+### 5d). Financieel Beheer
 
 In dit onderdeel rapporteert IB over eventuele tekortkomingen in het financieel beheer. Onder financieel beheer wordt verstaan het geheel van beslissingen, handelingen en regels die zijn bedoeld voor de sturing en beheersing van, alsmede de verantwoording over, de financiële transacties en de saldi waarvoor het management (mede)verantwoordelijkheid draagt. De administraties, die ten behoeve van het financieel beheer worden bijgehouden, worden eveneens tot het financieel beheer gerekend.
 
-### 5e). Overige onderwerpen bedrijfsvoering
+### 5c). **Totstandkoming niet-financiële informatie**
 
 Onder ordelijk wordt verstaan dat het financieel beheer en de administraties in overeenstemming zijn met de in de administratieve organisatie vastgelegde procedureregels. Met controleerbaar wordt bedoeld dat de uitkomsten van het financieel beheer duidelijk worden vastgelegd, opdat achteraf controle efficiënt kan worden uitgevoerd. IB rapporteert in het algemeen bij onvolkomenheden in het financieel beheer als die kunnen leiden tot disfunctioneren van het financieel beheer en/of betrekking hebben op kritieke processen en/of wijd verbreid zijn en/of kunnen leiden of hebben geleid tot aanzienlijke risico’s.
 
-IB rapporteert op dit punt over belangrijke personeelsaangelegenheden, waaronder in ieder geval de personeelsomvang, het personeelsverloop, de sociale plannen en de daarmee gemoeide kosten.
+### 5e). Overige onderwerpen bedrijfsvoering
 
 IB rapporteert over belangrijke ontwikkelingen ten aanzien van de volgende onderwerpen:
 
 IB rapporteert op dit punt over belangrijke personeelsaangelegenheden, waaronder in ieder geval de personeelsomvang, het personeelsverloop, de sociale plannen en de daarmee gemoeide kosten.
 
+### 5e). **Overige onderwerpen bedrijfsvoering**
+
+IB doet verslag van de voortgang van huisvestingskosten.
+
+IB doet verslag van de uitvoering van het investeringsprogramma en de invoering van nieuwe wet- en regelgeving (indien van toepassing). Hierbij wordt ingegaan op de bereikte resultaten en de daarmee gepaard gaande kosten. IB legt hierbij een relatie met de planning en licht eventuele wijzigingen kort toe. IB dient tevens verslag te doen van de fte-bezetting (vast/tijdelijk/extern) per einddatum van de verslagperiode.
+
+De onderwerpen die onder het onderdeel governance vallen hebben betrekking op de bestuurlijke inrichting van IB en de wijze waarop zij haar taken uitvoert.
+
+IB gaat in op welke wijze risico’s binnen de organisatie zijn geanalyseerd, hoe wordt omgegaan met risico’s en hoe risico’s worden gemanaged.
+
+**ICT en informatiebeveiliging**
+
+In de toelichting wordt onder andere ingegaan op:
+
+Het IB doet jaarlijks verslag van de bestuurskosten van de leden van het Bestuur ([artikel 5, vierde lid, Wet SUWI](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&artikel=5)) en van de topinkomens op basis van de [Wet openbaarmaking uit financiële middelen gefinancierde topinkomens](https://wetten.overheid.nl/jci1.3:c:BWBR0019562) (WOPT).
+
+De wijze waarop IB verantwoording dient af te leggen over de rechtmatigheid in het jaarverslag en de jaarrekening, alsmede de wijze waarop de accountant zijn controlewerkzaamheden dient te verrichten, zijn nader uitgewerkt in de [artikelen 5.10b t/m 5.10e](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&hoofdstuk=5&paragraaf=5.1b&artikel=5.10b&z=2015-09-25&g=2016-01-01) van de Regeling SUWI en met name in de daarbij behorende toelichting.
+
+De indeling in categorieën volgt [Titel 9 Boek 2 Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&titeldeel=9).
+
+In [artikel 5.10e, eerste lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&hoofdstuk=5&paragraaf=5.1b&artikel=5.10e&z=2015-09-25&g=2016-01-01), van de Regeling SUWI is aangegeven dat IB inzicht moet bieden in de doelmatigheid van het beheer en de organisatie. Ten aanzien van IB wordt verslag uitgebracht van activiteiten die zijn ondernomen om de bedrijfsprocessen door te lichten, waarbij het kostenniveau wordt gerelateerd aan de (kwaliteit van de) geleverde prestatie. IB wordt geacht de uitgangspunten die zij hanteert met betrekking tot doelmatigheid te expliciteren. Een toelichting op artikel 5.10e, eerste lid, onderdeel c, van de Regeling SUWI, wordt gegeven in [Bijlage XXIII](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&bijlage=XXIII&z=2015-09-25&g=2016-01-01) bij de Regeling SUWI.
+
+Ten behoeve van de bevoorschotting neemt IB in het jaarplan en de jaarrekening een overzicht op van de uitvoeringskosten welke ten laste komen van de rijksbijdrage.
+
+IB rapporteert in het jaarverslag over het totstandkomingsproces van de informatievoorziening (inclusief de daarbij gehanteerde criteria zoals vastgelegd in [bijlage XVII](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&bijlage=XVII&z=2015-09-25&g=2016-01-01) van de SUWI-regeling) en de wijze waarop deze is gewaarborgd (conform [artikel 5.16 tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&hoofdstuk=5&paragraaf=5.2&sub-paragraaf=5.2.1&artikel=5.16&z=2015-09-25&g=2016-01-01) Regeling SUWI).
+
+De jaarrekening van IB geeft inzicht in de baten en lasten over het boekjaar, de balans aan het eind van het boekjaar en de cash flow, voor zover deze betrekking hebben op de rijksbijdrage, bedoeld in [artikel 5.25 van het Besluit SUWI](https://wetten.overheid.nl/jci1.3:c:BWBR0013267&artikel=5.25). De jaarrekening heeft betrekking op de balans en de resultatenrekening met de toelichting en op de in het jaarplan en modelverantwoording opgenomen financiële onderwerpen. De jaarrekening is zoveel als mogelijk gebaseerd op [titel 9, Boek 2 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&titeldeel=9), tenzij hiervan in deze modelverantwoording wordt afgeweken.
+
+De in de jaarrekening opgenomen informatie dient een zodanig betrouwbaar beeld te geven van de werkelijkheid als in de gegeven omstandigheden is vereist. Alle uitvoeringskosten worden in de budgetverantwoording opgenomen, ongeacht of er budget voor is toegekend. Het salderen van bijzondere baten en lasten is niet toegestaan, tenzij wetgeving anders voorschrijft.
+
+### 5e). Overige onderwerpen bedrijfsvoering
+
+Onder ordelijk wordt verstaan dat het financieel beheer en de administraties in overeenstemming zijn met de in de administratieve organisatie vastgelegde procedureregels. Met controleerbaar wordt bedoeld dat de uitkomsten van het financieel beheer duidelijk worden vastgelegd, opdat achteraf controle efficiënt kan worden uitgevoerd. IB rapporteert in het algemeen bij onvolkomenheden in het financieel beheer als die kunnen leiden tot disfunctioneren van het financieel beheer en/of betrekking hebben op kritieke processen en/of wijd verbreid zijn en/of kunnen leiden of hebben geleid tot aanzienlijke risico’s.
+
+In verband met de versnelling van de verantwoording is het toegestaan het handelen in het verslagjaar te koppelen aan een jaarschijveninterpretatie. De te hanteren jaarschijf mag niet ouder zijn dan 3 maanden ten opzichte van het kalenderjaar waarop de verantwoording betrekking heeft. Indien de jaarschijven worden aangepast dan dient dit in de jaarrekening te worden vermeld evenals de vergelijkbare cijfers van het voorgaande jaar.
+
+IB rapporteert over belangrijke ontwikkelingen ten aanzien van de volgende onderwerpen:
+
+De accountant onderzoekt de verantwoording die het management van IB op grond van de Regeling SUWI heeft uitgebracht. De controleverklaring en het verslag van bevindingen zijn nader geregeld in [artikel 5.10b t/m e](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&hoofdstuk=5&paragraaf=5.1b&artikel=5.10b&z=2016-01-30&g=2016-01-30) en [bijlage XXII](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&bijlage=XXII&z=2016-01-30&g=2016-01-30) van de Regeling SUWI.
+
 IB rapporteert over de voortgang, verbetering en vernieuwing van de geautomatiseerde ondersteuning van zowel haar primaire- als ondersteunende processen. Ook de voortgang van projecten ter verbetering van gegevensbeheer en privacybescherming vallen hier onder. In het jaarverslag wordt ingegaan op het oordeel van de EDP-auditor. Deze geeft conform [artikel 5.22](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&hoofdstuk=5&paragraaf=5.3&artikel=5.22&z=2015-09-25&g=2016-01-01) en [6.4](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&hoofdstuk=5&paragraaf=5.3&artikel=5.22&z=2015-09-25&g=2016-01-01) Regeling SUWI een oordeel over het stelsel van maatregelen en procedures gericht op het waarborgen van een exclusieve, integere, beschikbare en controleerbare gegevensverwerking en over het beveiligingsniveau van Suwinet. Indien van toepassing geeft IB inzicht in de verrichte inspanningen om de kwaliteit te verbeteren c.q. te consolideren.
 
 ### 10. **Jaarrekening**
 
-IB gaat in op welke wijze risico’s binnen de organisatie zijn geanalyseerd, hoe wordt omgegaan met risico’s en hoe risico’s worden gemanaged.
+Het positieve verschil tussen de gerealiseerde baten en lasten met betrekking tot de uitvoeringskosten. SZW-budget, dat voor de egalisatiereserve in aanmerking wordt genomen, heeft betrekking op:
 
 ### 7. Uitvoeringskosten
 
 ### 5. Bedrijfsvoering
 
-### 7. Uitvoeringskosten
+### Bestemmingsfonds voor investeringen
 
 ### 8. Investeringen per categorie
 
-### 12. Kwantitatieve informatie met wet
+### Toelichting
 
-### 8. Investeringen per categorie
+### 11. Aansluitingstabel
 
 ### 11. **Aansluitingstabel (n.v.t.)**
 
-### 9. Overzicht t.b.v. bevoorschotting/afrekening
+### 12. VBTB-informatie
 
-Ten behoeve van de bevoorschotting neemt IB in het jaarplan en de jaarrekening een overzicht op van de uitvoeringskosten welke ten laste komen van de rijksbijdrage.
+(n.v.t.)
 
-### 10. Jaarrekening
+### 13. Kwantitatieve informatie met wet
 
-De jaarrekening van IB geeft inzicht in de baten en lasten over het boekjaar, de balans aan het eind van het boekjaar en de cash flow, voor zover deze betrekking hebben op de rijksbijdrage, bedoeld in [artikel 5.25 van het Besluit SUWI](https://wetten.overheid.nl/jci1.3:c:BWBR0013267&artikel=5.25). De jaarrekening heeft betrekking op de balans en de resultatenrekening met de toelichting en op de in het jaarplan en modelverantwoording opgenomen financiële onderwerpen. De jaarrekening is zoveel als mogelijk gebaseerd op [titel 9, Boek 2 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&titeldeel=9), tenzij hiervan in deze modelverantwoording wordt afgeweken.
+(n.v.t.)
 
 ## Bijlage XII
 
 Gepubliceerd op www.bkwi.nl.
+
+## Bijlage XIII
+
+Vervallen
+
+## Bijlage XII
+
+Gepubliceerd op http://www.bkwi.nl/producten/suwinet-services/suwinet-standaarden/suwi-gegevensregister-sgr/downloads.
 
 ## Bijlage XIII
 
@@ -3369,19 +3377,13 @@ Ligt ter inzage bij het Ministerie van Sociale Zaken en Werkgelegenheid.
 
 Gepubliceerd op www.inlichtingenbureau.nl.
 
-## Bijlage XIX. behorende bij de Regeling SUWI, artikel 7.4, eerste lid
-
-Vervallen
-
-## Bijlage XX. behorende bij de [artikelen 5.3](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&hoofdstuk=5&paragraaf=5.1&artikel=5.3&z=2013-07-10&g=2013-07-10) en [5.10a](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&hoofdstuk=5&paragraaf=5.1&artikel=5.10a&z=2013-07-10&g=2013-07-10) van de Regeling SUWI
-
 ### Bestemmingsfonds voor investeringen
 
 De vorming, besteding en vrijval van de egalisatiereserve moet toegelicht worden in de jaarrekening.
 
-### Bestemmingsfonds voor investeringen
+### Planning & control producten van BKWI
 
-IB beschikt gezien de aard van de dienstverlening over grootschalige ICT in verhouding tot de organisatiegrootte en het budget. De voorziene egalisatiereserve is onvoldoende groot om grootschalige (vervangings)investeringen te plegen. Het is IB derhalve toegestaan naast de egalisatiereserve een ‘**bestemmingsfonds voor investeringen’** aan te houden. In het jaarplan neemt IB een ‘**reservering investeringen**’ op, in het jaarverslag het ‘**bestemmingsfonds voor investeringen**’, inclusief een toelichting en een meerjarig overzicht van de nog te plegen investeringen.
+In deze bijlage zijn de informatieproducten gespecificeerd die BKWI (als organisatieonderdeel van UWV) periodiek aan SZW dient te verstrekken op grond van [artikel 5.3](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&hoofdstuk=5&paragraaf=5.1&artikel=5.3&z=2016-01-30&g=2016-01-30) en [5.10a](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&hoofdstuk=5&paragraaf=5.1&artikel=5.10a&z=2016-01-30&g=2016-01-30) van de Regeling SUWI. Het betreft de volgende producten:
 
 ### Toelichting
 
@@ -3389,73 +3391,73 @@ IB beschikt gezien de aard van de dienstverlening over grootschalige ICT in verh
 
 (n.v.t.)
 
-### 12. VBTB-informatie
+### 1. Volumeontwikkeling en fondsbelasting
 
 (n.v.t.)
 
-### 13. Kwantitatieve informatie met wet
-
-(n.v.t.)
-
-UWV doet ten aanzien van BKWI verslag van de uitvoering van het investeringsprogramma en de invoering van nieuwe wet- en regelgeving (indien van toepassing). Hierbij wordt ingegaan op de bereikte resultaten en de daarmee gepaard gaande kosten. BKWI legt hierbij een relatie met de planning en licht eventuele wijzigingen kort toe.
-
-### 18. **Ketensamenwerking**
-
-Voor de elektronische voorzieningen wordt verslag gedaan van de samenwerking tussen ketenpartners, de ontwikkelingen in de keten werk en inkomen en de voortgang van de uitvoering van het ketenprogramma. Het jaarplan vormt hierbij het uitgangspunt. Per speerpunt wordt aangegeven in welke mate de doelstellingen zijn gerealiseerd en wat de onderliggende analyse is bij afwijkingen in de realisatie. In dat geval wordt verder aangegeven welke aanvullende maatregelen door BKWI zijn genomen om de doelstellingen alsnog te realiseren.
-
-Voor de elektronische voorzieningen wordt verslag gedaan van de samenwerking tussen ketenpartners, de ontwikkelingen in de keten werk en inkomen en de voortgang van de uitvoering van het ketenprogramma. Het jaarplan vormt hierbij het uitgangspunt. Per speerpunt wordt aangegeven in welke mate de doelstellingen zijn gerealiseerd en wat de onderliggende analyse is bij afwijkingen in de realisatie. In dat geval wordt verder aangegeven welke aanvullende maatregelen door BKWI zijn genomen om de doelstellingen alsnog te realiseren.
-
-In de bedrijfsvoeringsparagraaf gaat UWV in op de sturing en beheersing van de bedrijfsprocessen binnen BKWI. Het doel is aan te geven in welke mate het management van BKWI haar bedrijfsprocessen beheerst. In de bedrijfsvoeringsparagraaf legt UWV, mede gebaseerd op risicoanalyse, verantwoording af over de bedrijfsvoering van BKWI. De bedrijfsvoeringsparagraaf bestaat tenminste uit de volgende onderdelen:
-
-De wijze waarop UWV ten aanzien van BKWI verantwoording dient af te leggen over de rechtmatigheid in het jaarverslag en de jaarrekening, alsmede de wijze waarop de accountant zijn controlewerkzaamheden dient te verrichten, zijn nader uitgewerkt in de [artikelen 5.10b t/m 5.10e](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&hoofdstuk=5&paragraaf=5.1b&artikel=5.10b&z=2012-07-01&g=2013-07-01) van de Regeling SUWI en met name in de daarbij behorende toelichting.
-
-De wijze waarop UWV ten aanzien van BKWI verantwoording dient af te leggen over de rechtmatigheid in het jaarverslag en de jaarrekening, alsmede de wijze waarop de accountant zijn controlewerkzaamheden dient te verrichten, zijn nader uitgewerkt in de [artikelen 5.10b t/m 5.10e](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&hoofdstuk=5&paragraaf=5.1b&artikel=5.10b&z=2013-07-10&g=2013-07-10) van de Regeling SUWI en met name in de daarbij behorende toelichting.
-
-In [artikel 5.10e, eerste lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&hoofdstuk=5&paragraaf=5.1b&artikel=5.10e&z=2012-07-01&g=2013-07-01), van de Regeling SUWI is aangegeven dat UWV inzicht moet bieden in de doelmatigheid van het beheer en de organisatie BKWI. Ten aanzien van BKWI wordt verslag uitgebracht van activiteiten die zijn ondernomen om de bedrijfsprocessen door te lichten, waarbij het kostenniveau wordt gerelateerd aan de (kwaliteit van de) geleverde prestatie. De Raad van Bestuur van UWV wordt geacht de uitgangspunten die zij hanteert met betrekking tot doelmatigheid te expliciteren. Een toelichting op artikel 5.10e, eerste lid, onderdeel c, van de Regeling SUWI, wordt gegeven in [Bijlage XXIII](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&bijlage=XXIII&z=2012-07-01&g=2013-07-01) bij de Regeling SUWI.
-
-In [artikel 5.10e, eerste lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&hoofdstuk=5&paragraaf=5.1b&artikel=5.10e&z=2013-07-10&g=2013-07-10), van de Regeling SUWI is aangegeven dat UWV inzicht moet bieden in de doelmatigheid van het beheer en de organisatie BKWI. Ten aanzien van BKWI wordt verslag uitgebracht van activiteiten die zijn ondernomen om de bedrijfsprocessen door te lichten, waarbij het kostenniveau wordt gerelateerd aan de (kwaliteit van de) geleverde prestatie. De Raad van Bestuur van UWV wordt geacht de uitgangspunten die zij hanteert met betrekking tot doelmatigheid te expliciteren. Een toelichting op artikel 5.10e, eerste lid, onderdeel c, van de Regeling SUWI, wordt gegeven in [Bijlage XXIII](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&bijlage=XXIII&z=2013-07-10&g=2013-07-10) bij de Regeling SUWI.
-
-UWV rapporteert in het jaarverslag over het onderdeel BKWI over het totstandkomingproces van de informatievoorziening (inclusief de daarbij gehanteerde criteria zoals vastgelegd in [bijlage XVII](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&bijlage=XVII&z=2012-07-01&g=2013-07-01) van de SUWI-regeling) en de wijze waarop deze is gewaarborgd (conform [artikel 5.16 tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&hoofdstuk=5&paragraaf=5.2&sub-paragraaf=5.2.1&artikel=5.16&z=2012-07-01&g=2013-07-01) Regeling SUWI). In zowel het tussentijdse verslag als het jaarverslag wordt ingegaan op de voortgang van verbetermaatregelen.
-
-In deze bijlage zijn de informatieproducten gespecificeerd die BKWI (als organisatieonderdeel van UWV) periodiek aan SZW dient te verstrekken op grond van [artikel 5.3](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&hoofdstuk=5&paragraaf=5.1&artikel=5.3&z=2015-04-30&g=2015-05-01) en [5.10a](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&hoofdstuk=5&paragraaf=5.1&artikel=5.10a&z=2015-04-30&g=2015-05-01) van de Regeling SUWI. Het betreft de volgende producten:
-
-Ten aanzien van BKWI wordt één planningsdocument opgeleverd, te weten het **jaarplan met begroting** (vóór 1 oktober). Het jaarplan van BKWI bevat in elk geval een omschrijving van de taak, bedoeld in [artikel 5.21, eerste lid, van het Besluit SUWI](https://wetten.overheid.nl/jci1.3:c:BWBR0013267&artikel=5.21) en de andere taken die BKWI ten behoeve van gemeenten verricht. Ten aanzien van BKWI dient UWV zich op verschillende momenten te verantwoorden over de uitvoering van het jaarplan. Deze verantwoording vindt plaats in het **tussentijdse verslag** en het **jaarverslag**. Het tussentijdse verslag wordt uiterlijk zes weken na afloop van de verslagperiode aan de minister verstrekt. Het jaarverslag wordt vòòr 15 maart aan de minister aangeboden.
-
-In deze bijlage zijn de informatieproducten gespecificeerd die BKWI (als organisatieonderdeel van UWV) periodiek aan SZW dient te verstrekken op grond van [artikel 5.3](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&hoofdstuk=5&paragraaf=5.1&artikel=5.3&z=2015-09-25&g=2016-01-01) en [5.10a](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&hoofdstuk=5&paragraaf=5.1&artikel=5.10a&z=2015-09-25&g=2016-01-01) van de Regeling SUWI. Het betreft de volgende producten:
-
-Ten aanzien van BKWI wordt één planningsdocument opgeleverd, te weten het **jaarplan met begroting** (vóór 1 oktober). Het jaarplan van BKWI bevat in elk geval een omschrijving van de taak, bedoeld in [artikel 5.21, eerste lid, van het Besluit SUWI](https://wetten.overheid.nl/jci1.3:c:BWBR0013267&artikel=5.21) en de andere taken die BKWI ten behoeve van gemeenten verricht. Ten aanzien van BKWI dient UWV zich op verschillende momenten te verantwoorden over de uitvoering van het jaarplan. Deze verantwoording vindt plaats in het **tussentijdse verslag** en het **jaarverslag**. Het tussentijdse verslag wordt uiterlijk zes weken na afloop van de verslagperiode aan de minister verstrekt. Het jaarverslag wordt vòòr 15 maart aan de minister aangeboden.
-
-In die hierna volgende tabel worden de onderwerpen benoemd, die in de diverse producten van de P&C cyclus aan de orde dienen te komen. Daaronder volgt, per onderwerp, een nadere toelichting.
-
-### Legenda
-
-UWV rapporteert voor het onderdeel BKWI over belangrijke ontwikkelingen ten aanzien van de volgende onderwerpen:
-
-(n.v.t.)
-
-In het jaarplan wordt ook aandacht besteed aan eventuele veranderingen in de taken van de organisatie. Gedacht kan worden aan:
+### 2. Ontwikkelingen wetsuitvoering en andere taken
 
 Het jaarplan gaat (volgens de VBTB-systematiek) in op de volgende vragen:
 
 In het jaarplan wordt ook aandacht besteed aan eventuele veranderingen in de taken van de organisatie. Gedacht kan worden aan:
 
+### 18. **Ketensamenwerking**
+
+Voor de elektronische voorzieningen wordt verslag gedaan van de samenwerking tussen ketenpartners, de ontwikkelingen in de keten werk en inkomen en de voortgang van de uitvoering van het ketenprogramma. Het jaarplan vormt hierbij het uitgangspunt. Per speerpunt wordt aangegeven in welke mate de doelstellingen zijn gerealiseerd en wat de onderliggende analyse is bij afwijkingen in de realisatie. In dat geval wordt verder aangegeven welke aanvullende maatregelen door BKWI zijn genomen om de doelstellingen alsnog te realiseren.
+
+UWV doet ten aanzien van BKWI verslag van de uitvoering van het investeringsprogramma en de invoering van nieuwe wet- en regelgeving (indien van toepassing). Hierbij wordt ingegaan op de bereikte resultaten en de daarmee gepaard gaande kosten. BKWI legt hierbij een relatie met de planning en licht eventuele wijzigingen kort toe.
+
+In de bedrijfsvoeringsparagraaf gaat UWV in op de sturing en beheersing van de bedrijfsprocessen binnen BKWI. Het doel is aan te geven in welke mate het management van BKWI haar bedrijfsprocessen beheerst. In de bedrijfsvoeringsparagraaf legt UWV, mede gebaseerd op risicoanalyse, verantwoording af over de bedrijfsvoering van BKWI. De bedrijfsvoeringsparagraaf bestaat tenminste uit de volgende onderdelen:
+
+Voor de elektronische voorzieningen wordt verslag gedaan van de samenwerking tussen ketenpartners, de ontwikkelingen in de keten werk en inkomen en de voortgang van de uitvoering van het ketenprogramma. Het jaarplan vormt hierbij het uitgangspunt. Per speerpunt wordt aangegeven in welke mate de doelstellingen zijn gerealiseerd en wat de onderliggende analyse is bij afwijkingen in de realisatie. In dat geval wordt verder aangegeven welke aanvullende maatregelen door BKWI zijn genomen om de doelstellingen alsnog te realiseren.
+
+De wijze waarop UWV ten aanzien van BKWI verantwoording dient af te leggen over de rechtmatigheid in het jaarverslag en de jaarrekening, alsmede de wijze waarop de accountant zijn controlewerkzaamheden dient te verrichten, zijn nader uitgewerkt in de [artikelen 5.10b t/m 5.10e](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&hoofdstuk=5&paragraaf=5.1b&artikel=5.10b&z=2013-07-10&g=2013-07-10) van de Regeling SUWI en met name in de daarbij behorende toelichting.
+
+In de bedrijfsvoeringsparagraaf gaat UWV in op de sturing en beheersing van de bedrijfsprocessen binnen BKWI. Het doel is aan te geven in welke mate het management van BKWI haar bedrijfsprocessen beheerst. In de bedrijfsvoeringsparagraaf legt UWV, mede gebaseerd op risicoanalyse, verantwoording af over de bedrijfsvoering van BKWI. De bedrijfsvoeringsparagraaf bestaat tenminste uit de volgende onderdelen:
+
+In [artikel 5.10e, eerste lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&hoofdstuk=5&paragraaf=5.1b&artikel=5.10e&z=2013-07-10&g=2013-07-10), van de Regeling SUWI is aangegeven dat UWV inzicht moet bieden in de doelmatigheid van het beheer en de organisatie BKWI. Ten aanzien van BKWI wordt verslag uitgebracht van activiteiten die zijn ondernomen om de bedrijfsprocessen door te lichten, waarbij het kostenniveau wordt gerelateerd aan de (kwaliteit van de) geleverde prestatie. De Raad van Bestuur van UWV wordt geacht de uitgangspunten die zij hanteert met betrekking tot doelmatigheid te expliciteren. Een toelichting op artikel 5.10e, eerste lid, onderdeel c, van de Regeling SUWI, wordt gegeven in [Bijlage XXIII](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&bijlage=XXIII&z=2013-07-10&g=2013-07-10) bij de Regeling SUWI.
+
+De wijze waarop UWV ten aanzien van BKWI verantwoording dient af te leggen over de rechtmatigheid in het jaarverslag en de jaarrekening, alsmede de wijze waarop de accountant zijn controlewerkzaamheden dient te verrichten, zijn nader uitgewerkt in de [artikelen 5.10b t/m 5.10e](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&hoofdstuk=5&paragraaf=5.1b&artikel=5.10b&z=2016-01-30&g=2016-01-30) van de Regeling SUWI en met name in de daarbij behorende toelichting.
+
+In deze bijlage zijn de informatieproducten gespecificeerd die BKWI (als organisatieonderdeel van UWV) periodiek aan SZW dient te verstrekken op grond van [artikel 5.3](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&hoofdstuk=5&paragraaf=5.1&artikel=5.3&z=2015-04-30&g=2015-05-01) en [5.10a](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&hoofdstuk=5&paragraaf=5.1&artikel=5.10a&z=2015-04-30&g=2015-05-01) van de Regeling SUWI. Het betreft de volgende producten:
+
+In [artikel 5.10e, eerste lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&hoofdstuk=5&paragraaf=5.1b&artikel=5.10e&z=2016-01-30&g=2016-01-30), van de Regeling SUWI is aangegeven dat UWV inzicht moet bieden in de doelmatigheid van het beheer en de organisatie BKWI. Ten aanzien van BKWI wordt verslag uitgebracht van activiteiten die zijn ondernomen om de bedrijfsprocessen door te lichten, waarbij het kostenniveau wordt gerelateerd aan de (kwaliteit van de) geleverde prestatie. De Raad van Bestuur van UWV wordt geacht de uitgangspunten die zij hanteert met betrekking tot doelmatigheid te expliciteren. Een toelichting op artikel 5.10e, eerste lid, onderdeel c, van de Regeling SUWI, wordt gegeven in [Bijlage XXIII](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&bijlage=XXIII&z=2016-01-30&g=2016-01-30) bij de Regeling SUWI.
+
+In deze bijlage zijn de informatieproducten gespecificeerd die BKWI (als organisatieonderdeel van UWV) periodiek aan SZW dient te verstrekken op grond van [artikel 5.3](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&hoofdstuk=5&paragraaf=5.1&artikel=5.3&z=2015-09-25&g=2016-01-01) en [5.10a](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&hoofdstuk=5&paragraaf=5.1&artikel=5.10a&z=2015-09-25&g=2016-01-01) van de Regeling SUWI. Het betreft de volgende producten:
+
+UWV rapporteert in het jaarverslag over het onderdeel BKWI over het totstandkomingproces van de informatievoorziening (inclusief de daarbij gehanteerde criteria zoals vastgelegd in [bijlage XVII](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&bijlage=XVII&z=2016-01-30&g=2016-01-30) van de SUWI-regeling) en de wijze waarop deze is gewaarborgd (conform [artikel 5.16 tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&hoofdstuk=5&paragraaf=5.2&sub-paragraaf=5.2.1&artikel=5.16&z=2016-01-30&g=2016-01-30) Regeling SUWI). In zowel het tussentijdse verslag als het jaarverslag wordt ingegaan op de voortgang van verbetermaatregelen.
+
+In die hierna volgende tabel worden de onderwerpen benoemd, die in de diverse producten van de P&C cyclus aan de orde dienen te komen. Daaronder volgt, per onderwerp, een nadere toelichting.
+
+### Legenda
+
+Het financieel beheer dient te voldoen aan de eisen ordelijkheid en controleerbaarheid.
+
+Onder ordelijk wordt verstaan dat het financieel beheer en de administraties in overeenstemming zijn met de in de administratieve organisatie vastgelegde procedureregels. Met controleerbaar wordt bedoeld dat de uitkomsten van het financieel beheer duidelijk worden vastgelegd, opdat achteraf controle efficiënt kan worden uitgevoerd. Het UWV rapporteert in het algemeen bij onvolkomenheden in het financieel beheer als die kunnen leiden tot disfunctioneren van het financieel beheer en/of betrekking hebben op kritieke processen en/of wijd verbreid zijn en/of kunnen leiden of hebben geleid tot aanzienlijke risico’s.
+
+In het jaarplan wordt ook aandacht besteed aan eventuele veranderingen in de taken van de organisatie. Gedacht kan worden aan:
+
+UWV rapporteert voor het onderdeel BKWI over belangrijke ontwikkelingen ten aanzien van de volgende onderwerpen:
+
+BKWI rapporteert op dit punt over belangrijke personeelsaangelegenheden, waaronder in ieder geval de personeelsomvang, het personeelsverloop, de sociale plannen en de daarmee gemoeide kosten.
+
 ### Legenda
 
 UWV doet verslag van de voortgang van huisvestingskosten van BKWI.
 
-### 20. **Governance**
+### 6. Governance
 
 ### 4. Ketensamenwerking
 
 ### **10. Jaarrekening**
 
-### 5. Bedrijfsvoering
+### 7. Uitvoeringskosten
 
 ### 21. **Uitvoeringskosten**
 
 ### 5a). Rechtmatigheid
 
-### 21. **Uitvoeringskosten**
+### 8. Investeringen per categorie
 
 ### 5b). Doelmatigheid
 
@@ -3469,45 +3471,45 @@ UWV rapporteert in het jaarverslag over het onderdeel BKWI over het totstandkomi
 
 ### 23. **Overzicht t.b.v. bevoorschotting/afrekening**
 
-### 5e). Overige onderwerpen bedrijfsvoering
+### Grondslagen waardering en resultaatbepaling
 
-Onder ordelijk wordt verstaan dat het financieel beheer en de administraties in overeenstemming zijn met de in de administratieve organisatie vastgelegde procedureregels. Met controleerbaar wordt bedoeld dat de uitkomsten van het financieel beheer duidelijk worden vastgelegd, opdat achteraf controle efficiënt kan worden uitgevoerd. Het UWV rapporteert in het algemeen bij onvolkomenheden in het financieel beheer als die kunnen leiden tot disfunctioneren van het financieel beheer en/of betrekking hebben op kritieke processen en/of wijd verbreid zijn en/of kunnen leiden of hebben geleid tot aanzienlijke risico’s.
+In verband met de versnelling van de verantwoording is het toegestaan het handelen in het verslagjaar te koppelen aan een jaarschijveninterpretatie. De te hanteren jaarschijf mag niet ouder zijn dan 3 maanden ten opzichte van het kalenderjaar waarop de verantwoording betrekking heeft. Indien de jaarschijven worden aangepast dan dient dit in de jaarrekening te worden vermeld evenals de vergelijkbare cijfers van het voorgaande jaar.
 
-### 5e). Overige onderwerpen bedrijfsvoering
+### Accountantsverklaring en verslag van bevindingen
 
-UWV rapporteert voor het onderdeel BKWI over belangrijke ontwikkelingen ten aanzien van de volgende onderwerpen:
+De accountant onderzoekt de verantwoording die het management van het BKWI op grond van de Regeling SUWI heeft uitgebracht. De accountantsverklaring en het verslag van bevindingen zijn nader geregeld in [artikel 5.10b t/m e](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&hoofdstuk=5&paragraaf=5.1b&artikel=5.10b&z=2016-01-30&g=2016-01-30) en [bijlage XXII](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&bijlage=XXII&z=2016-01-30&g=2016-01-30) van de Regeling SUWI.
 
 BKWI rapporteert op dit punt over belangrijke personeelsaangelegenheden, waaronder in ieder geval de personeelsomvang, het personeelsverloop, de sociale plannen en de daarmee gemoeide kosten.
 
 ### 6. Governance
 
-UWV doet verslag van de voortgang van huisvestingskosten van BKWI.
+Het positieve verschil tussen de gerealiseerde baten en lasten met betrekking tot de uitvoeringskosten. SZW-budget, dat voor de egalisatiereserve in aanmerking wordt genomen, heeft betrekking op:
 
-UWV gaat in op welke wijze risico’s binnen het organisatieonderdeel BKWI zijn geanalyseerd, hoe wordt omgegaan met risico’s en hoe risico’s worden gemanaged.
+Wat betreft de omvang van de egalisatiereserve zal worden aangesloten bij de richtlijn voor baten/lastendiensten, te weten 5% van het gemiddelde van de jaarbudgetten van de afgelopen 3 jaar. Bij de reactie op het jaarverslag over jaar t wordt door SZW de maximale omvang van de egalisatiereserve voor het jaar t+1 vastgesteld op basis van het gemiddelde van de vastgestelde jaarbudgetten van jaar t-2, t-1 en t.
 
-De onderwerpen die onder het onderdeel governance vallen hebben betrekking op de bestuurlijke inrichting door UWV van het organisatieonderdeel BKWI en de wijze waarop zij haar taken uitvoert.
+De vorming, besteding en vrijval van de egalisatiereserve moet toegelicht worden in de jaarrekening.
 
-### 27. **Kwantitatieve informatie met wet (n.v.t.)**
+### Egalisatiereserve en bestemmingsfonds voor investeringen
 
 ### 7. Uitvoeringskosten
 
 In de toelichting wordt onder andere ingegaan op:
 
-### d). Financieel Beheer
+### 11. Aansluitingstabel
 
-In dit onderdeel rapporteert UWV over de belangrijkste tekortkomingen in het financieel beheer. Onder financieel beheer wordt verstaan het geheel van beslissingen, handelingen en regels die zijn bedoeld voor de sturing en beheersing van, alsmede de verantwoording over, de financiële transacties en de saldi waarvoor het management (mede)verantwoordelijkheid draagt. De administraties, die ten behoeve van het financieel beheer worden bijgehouden, worden eveneens tot het financieel beheer gerekend. Administraties zijn immers onlosmakelijk met een goed beheer verbonden.
+(n.v.t.)
 
 De indeling in categorieën volgt [Titel 9 Boek 2 Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&titeldeel=9).
 
-Aan:
+(n.v.t.)
 
-### 7. Uitvoeringskosten
+### 13. Kwantitatieve informatie met wet
 
-De jaarrekening voor het onderdeel BKWI bestaat uit de volgende onderdelen:
+(n.v.t.)
 
-### Grondslagen waardering en resultaatbepaling
+### 14. Toezichtbevindingen
 
-De jaarrekening voor het onderdeel BKWI bestaat uit de volgende onderdelen:
+BKWI gaat in het jaarverslag op hoofdlijnen in op de bevindingen van de Inspectie Werk en Inkomen en de Algemene Rekenkamer, en op de naar aanleiding van deze bevindingen genomen maatregelen.
 
 Bij het maken van deze risico-inschattingen neemt de accountant de interne beheersing in aanmerking die relevant is voor het opmaken van de jaarrekening c.a. en voor het getrouwe beeld daarvan, gericht op het opzetten van controlewerkzaamheden die passend zijn in de omstandigheden. Deze risico-inschattingen hebben echter niet tot doel een oordeel tot uitdrukking te brengen over de effectiviteit van de interne beheersing van het zbo /de stichting. Een controle omvat tevens het evalueren van de geschiktheid van de gebruikte grondslagen voor financiële verslaggeving en van de redelijkheid van de door de Raad van Bestuur zbo/Stichtingsbestuur/ Raad/Directie gemaakte schattingen, alsmede een evaluatie van het algehele beeld van de jaarrekening c.a..
 
@@ -3519,51 +3521,51 @@ Naar ons oordeel geven de in het jaarverslag 201X van het zbo/de stichting opgen
 
 ### Egalisatiereserve
 
-Met ingang van het jaar 2014 is het BKWI verplicht om een egalisatiereserve te vormen. Deze reserve wordt gevormd uit het positieve verschil tussen gerealiseerde baten en lasten (SZW-budget). De egalisatiereserve blijft beperkt tot de uitvoeringskosten en wordt ingezet voor:
+De Raad van Bestuur zbo/Stichtingsbestuur/Raad/Directie is verantwoordelijk voor het opmaken van de jaarrekening c.a., alsmede voor het opstellen van de overige onderdelen van het jaarverslag, alle in overeenstemming met de [Wet SUWI](https://wetten.overheid.nl/jci1.3:c:BWBR0013060) en de daarmee verbonden dan wel daaruit voortvloeiende regelgeving, waaronder het Uitvoeringsbesluit onderwijsvoorzieningen voor jongeren met een handicap. De Raad van Bestuur zbo/Stichtingsbestuur/Raad/Directie is tevens verantwoordelijk voor een zodanige interne beheersing als zij noodzakelijk acht om het opmaken van de jaarrekening c.a. mogelijk te maken zonder afwijkingen van materieel belang als gevolg van fraude of fouten.
 
 ### 5a). Rechtmatigheid
 
-Wat betreft de omvang van de egalisatiereserve zal worden aangesloten bij de richtlijn voor baten/lastendiensten, te weten 5% van het gemiddelde van de jaarbudgetten van de afgelopen 3 jaar. Bij de reactie op het jaarverslag over jaar t wordt door SZW de maximale omvang van de egalisatiereserve voor het jaar t+1 vastgesteld op basis van het gemiddelde van de vastgestelde jaarbudgetten van jaar t-2, t-1 en t.
+Een controle omvat het uitvoeren van werkzaamheden ter verkrijging van controle-informatie over de bedragen en de toelichtingen in de verantwoordingen. De geselecteerde werkzaamheden zijn afhankelijk van de door de accountant toegepaste oordeelsvorming, met inbegrip van het inschatten van de risico’s dat de jaarrekening c.a. een afwijking van materieel belang bevatten als gevolg van fraude of fouten.
 
-De vorming, besteding en vrijval van de egalisatiereserve moet toegelicht worden in de jaarrekening.
+Bij het maken van deze risico-inschattingen neemt de accountant de interne beheersing in aanmerking die relevant is voor het opmaken van de jaarrekening c.a. en voor het getrouwe beeld daarvan, gericht op het opzetten van controlewerkzaamheden die passend zijn in de omstandigheden. Deze risico-inschattingen hebben echter niet tot doel een oordeel tot uitdrukking te brengen over de effectiviteit van de interne beheersing van het zbo /de stichting. Een controle omvat tevens het evalueren van de geschiktheid van de gebruikte grondslagen voor financiële verslaggeving en van de redelijkheid van de door de Raad van Bestuur zbo/Stichtingsbestuur/ Raad/Directie gemaakte schattingen, alsmede een evaluatie van het algehele beeld van de jaarrekening c.a..
 
 ### Egalisatiereserve en bestemmingsfonds voor investeringen
 
-BKWI beschikt gezien de aard van de dienstverlening over grootschalige ICT in verhouding tot de organisatiegrootte en het budget. De voorziene egalisatiereserve is onvoldoende groot om grootschalige (vervangings)investeringen te plegen. Het is BKWI derhalve toegestaan naast de egalisatiereserve een ‘**bestemmingsfonds voor investeringen’** aan te houden. In het jaarplan neemt BKWI een ‘**reservering investeringen**’ op, in het jaarverslag het ‘bestemmingsfonds voor investeringen’, inclusief een toelichting en een meerjarig overzicht van de nog te plegen investeringen.
+Naar ons oordeel geven de in het jaarverslag 201X van het zbo/de stichting opgenomen
 
-(n.v.t.)
+een getrouw beeld van de uitkomsten van de taakuitvoering van het zbo/de stichting over 201X in overeenstemming met de [Wet SUWI](https://wetten.overheid.nl/jci1.3:c:BWBR0013060) en de daarmee verbonden dan wel daaruit voortvloeiende regelgeving, waaronder het Uitvoeringsbesluit onderwijsvoorzieningen voor jongeren met een handicap. (**NB: Zin vanaf ‘waaronder’ alleen indien van toepassing.**)
 
 ### 11. Aansluitingstabel
 
-(n.v.t.)
+Plaats, datum
 
-Een organisatie is doelmatig als er een goed evenwicht is tussen de geleverde prestaties (primair in kwantiteit en secundair in kwaliteit) en de door haar ingezette middelen.
+Accountant van
 
-(n.v.t.)
+Naam accountant en ondertekening met die naam
 
 ### 13. Kwantitatieve informatie met wet
 
-### **Minimumeisen toetsingskader**
+### **Inleiding**
 
-Het toetsingskader dient aan de volgende minimumeisen te voldoen:
+Doelmatigheid is een begrip dat op verschillende manieren kan worden gedefinieerd.
 
 ### **Rol van de accountant**
 
-De accountant heeft als taak in zijn verslag van bevindingen te rapporteren over de ordelijke en controleerbare totstandkoming van de verantwoording over de doelmatigheid.
+In de context van de [Wet SUWI](https://wetten.overheid.nl/jci1.3:c:BWBR0013060) gaat het om de doelmatigheid van de uitvoering van de sociale verzekeringen en wetten in het verstreken boekjaar en de vraag of het beheer en de organisatie van de rechtspersoon voldoen aan eisen van doelmatigheid. De uitwerking van het doelmatigheidsbegrip die in het kader van de Regeling SUWI wordt gegeven heeft betrekking op de doelmatigheid van bedrijfsvoering.
 
 Aan:
 
 ### CONTROLEVERKLARING van de onafhankelijke accountant
 
-Aan:
+In aansluiting op de definitie van doelmatigheid werken UWV, SVB, IB en BKWI hun eigen toetsingskader uit.
 
-### 7. Uitvoeringskosten
+### **Minimumeisen toetsingskader**
 
-De Raad van Bestuur zbo/Stichtingsbestuur/Raad/Directie is verantwoordelijk voor het opmaken van de jaarrekening c.a., alsmede voor het opstellen van de overige onderdelen van het jaarverslag, alle in overeenstemming met de [Wet SUWI](https://wetten.overheid.nl/jci1.3:c:BWBR0013060) en de daarmee verbonden dan wel daaruit voortvloeiende regelgeving, waaronder het Uitvoeringsbesluit onderwijsvoorzieningen voor jongeren met een handicap. De Raad van Bestuur zbo/Stichtingsbestuur/Raad/Directie is tevens verantwoordelijk voor een zodanige interne beheersing als zij noodzakelijk acht om het opmaken van de jaarrekening c.a. mogelijk te maken zonder afwijkingen van materieel belang als gevolg van fraude of fouten.
+Het toetsingskader dient aan de volgende minimumeisen te voldoen:
 
 Onze verantwoordelijkheid is het geven van een oordeel over de jaarrekening c.a. op basis van onze controle. Wij hebben onze controle verricht in overeenstemming met Nederlands recht, waaronder de Nederlandse controlestandaarden en de regels inzake de accountantscontrole zoals opgenomen in de Regeling SUWI, [paragraaf 5.1b](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&hoofdstuk=5&paragraaf=5.1b&z=2015-09-25&g=2016-01-01), Accountantscontrole. Dit vereist dat wij voldoen aan de voor ons geldende ethische voorschriften en dat wij onze controle zodanig plannen en uitvoeren dat een redelijke mate van zekerheid wordt verkregen dat de jaarrekening c.a. geen afwijkingen van materieel belang bevatten.
 
-Een controle omvat het uitvoeren van werkzaamheden ter verkrijging van controle-informatie over de bedragen en de toelichtingen in de verantwoordingen. De geselecteerde werkzaamheden zijn afhankelijk van de door de accountant toegepaste oordeelsvorming, met inbegrip van het inschatten van de risico’s dat de jaarrekening c.a. een afwijking van materieel belang bevatten als gevolg van fraude of fouten.
+De accountant gaat in de context van de [Wet SUWI](https://wetten.overheid.nl/jci1.3:c:BWBR0013060) in zijn verslag van bevindingen in op de vraag of het beheer en de organisatie van de rechtspersoon voldoet aan de eisen van doelmatigheid.
 
 Deze regeling zal met de toelichting en de bijlagen, met uitzondering van de bijlagen III tot en met XVI, in de Staatscourant worden geplaatst.
 
@@ -3651,7 +3653,7 @@ Doordat de dienstverlening van UWV ingrijpend veranderd is door deze wetswijzigi
 
 ### 5. Bedrijfsvoering
 
-Ontwikkeling in benodigde vierkante meters als gevolg van krimpen organisatie:
+In de toelichting wordt onder andere ingegaan op:
 
 ## Bijlage V
 
@@ -3667,15 +3669,15 @@ In de toelichting wordt onder andere ingegaan op:
 
 ### **8. Jaarrekening**
 
-**Risicomanagement**
+De in de jaarrekening opgenomen informatie dient een zodanig betrouwbaar beeld te geven van de werkelijkheid als in de gegeven omstandigheden is vereist. Alle uitvoeringskosten worden in de budgetverantwoording opgenomen, ongeacht of er budget voor is toegekend.
 
 ### 7. **Uitvoeringskosten**
 
-Ten behoeve van de bevoorschotting neemt UWV in het jaarplan met begroting een overzicht op van de uitvoeringskosten en programmakosten welke ten laste komen van een rijksbijdrage. Dit overzicht wordt tevens separaat van de tussentijdse verslagen aan SZW verstrekt. Voor de afrekening neemt UWV de in paragraaf 10.4.7 opgenomen tabel op die ziet op afrekening van de uitvoerings- en programmakosten.
+In verband met de versnelling van de verantwoording is het toegestaan het handelen in het verslagjaar te koppelen aan een jaarschijveninterpretatie. De te hanteren jaarschijf mag niet ouder zijn dan 3 maanden ten opzichte van het kalenderjaar waarop de verantwoording betrekking heeft. Indien de jaarschijven worden aangepast dan dient dit in de jaarrekening te worden vermeld evenals de vergelijkbare cijfers van het voorgaande jaar.
 
-### 10. Jaarrekening
+### 10.2. Egalisatiereserve
 
-De jaarrekening heeft betrekking op de balans en de staat van baten en lasten met de toelichting en op de in het jaarplan opgenomen financiële onderwerpen. De jaarrekening wordt ingericht zoveel mogelijk met overeenkomstige toepassing van [titel 9 van Boek 2 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&titeldeel=9).
+Het positieve verschil tussen de gerealiseerde baten en lasten met betrekking tot de uitvoeringskosten SZW-budget, dat voor de egalisatiereserve in aanmerking wordt genomen, heeft betrekking op:
 
 ### 8. **Investeringen per categorie**
 
@@ -3683,23 +3685,23 @@ Ten behoeve van het SZW-jaarverslag verstrekt UWV jaarlijks VBTB-informatie
 
 ### 10.5. Staat van baten en lasten UWV
 
-Jaarlijks worden tijdens het uitvoeringsjaar de wetten en regelingen die in deze tabel opgenomen moeten worden, na ambtelijke afstemming tussen UWV en SZW, door SZW per brief vastgesteld.
+Dit betreft alleen projecten met een meerjarig ICT-component van minimaal € 5 mln. De rapportage hierover geschiedt overeenkomstig de brieven aan de Tweede Kamer van de Minister van BZK van 29 januari 2010 respectievelijk 10 juli 2015 (TK 26 643, nrs. 148 en 365). De accountant rapporteert jaarlijks middels een nota van bevindingen over de ordelijkheid, controleerbaarheid en deugdelijkheid van het totstandkomingsproces van de informatie, die met peildatum ultimo verantwoordingsjaar aan het ministerie van SZW wordt geleverd.
 
 ### 10.6.7. Nog te verrekenen rijksbijdragen
 
 Jaarlijks worden tijdens het uitvoeringsjaar de wetten en regelingen die in deze tabel opgenomen moeten worden, na ambtelijke afstemming tussen UWV en SZW, door SZW per brief vastgesteld.
 
-### Planning & control producten van SVB
+### 1. Volumeontwikkeling en fondsbelasting
 
-De SVB levert twee planningsdocumenten op, te weten het **meerjarenbeleidsplan** (vòòr 1 februari) en het **jaarplan met begroting (ontwerp jaarplan met begroting vòòr 1 juli, definitief jaarplan met begroting vòòr 1 oktober)**. De SVB dient zich op verschillende momenten te verantwoorden over de uitvoering van het jaarplan. Deze verantwoording vindt plaats in twee **tussentijdse verslagen** en het **jaarverslag**. De tussentijdse verslagen worden uiterlijk zes weken na afloop van de verslagperiode (tertaal) aan de minister verstrekt. Het jaarverslag wordt vòòr 15 maart aan de minister aangeboden.
+De SVB verstrekt aan de minister met betrekking tot de door haar beheerde fondsen afzonderlijk:
 
-### 2. Ontwikkelingen wetsuitvoering en andere taken
+### 2.. Ontwikkelingen wetsuitvoering en andere taken
 
-**Het VBTB-verslag** betreft een beperkte informatielevering vooruitlopend op het jaarverslag van SVB. Deze informatie wordt uiterlijk zes weken na afloop van het kalenderjaar aan SZW geleverd ten behoeve van het jaarverslag van SZW.
+Het jaarplan gaat in op de volgende vragen:
 
 ### **Legenda**
 
-In deze bijlage zijn de diverse producten gespecificeerd die de SVB periodiek aan SZW dient te verstrekken op grond van [artikel 5.3](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&hoofdstuk=5&paragraaf=5.1&artikel=5.3&z=2015-04-30&g=2015-05-01), [5.4](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&hoofdstuk=5&paragraaf=5.1&artikel=5.4&z=2015-04-30&g=2015-05-01), [5.10a](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&hoofdstuk=5&paragraaf=5.1&artikel=5.10a&z=2015-04-30&g=2015-05-01) en [5.12](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&hoofdstuk=5&paragraaf=5.2&sub-paragraaf=5.2.1&artikel=5.12&z=2015-04-30&g=2015-05-01) van de Regeling SUWI. Het betreft de volgende producten:
+De SVB rapporteert over de klanttevredenheid. Daarnaast rapporteert de SVB in haar jaarverslag over de wijze waarop de cliëntenparticipatie is vormgegeven. De SVB verantwoordt zich over de activiteiten die zijn ondernomen om de dienstverlening aan de klant te handhaven en verbeteren.
 
 ### Planning & control producten van SVB
 
@@ -3721,23 +3723,23 @@ In de tussentijdse verslagen en het jaarverslag doet de SVB verslag van de uitvo
 
 ### 3. Ontwikkelingen grote projecten en projecten ter invoering van nieuwe wet- en regelgeving
 
-Bij handhaving wordt specifiek ingegaan op de uitvoering en effecten van het handhavingsbeleid. Naast de onderwerpen die genoemd zijn in het jaarplan, wordt specifiek ingegaan op de speerpunten van het Handhavingsprogramma en op de realisering van de in het Handhavingsarrangement gemaakte afspraken. Tevens worden opvallende cijfermatige ontwikkelingen toegelicht. De Raad van Bestuur wordt geacht de uitgangspunten die zij hanteert bij het te voeren handhavingsbeleid te expliciteren.
+Het financieel beheer dient te voldoen aan de eisen ordelijkheid en controleerbaarheid. Onder ordelijk wordt verstaan dat het financieel beheer en de administraties in overeenstemming zijn met de in de administratieve organisatie vastgelegde procedureregels. Met controleerbaar wordt bedoeld dat de uitkomsten van het financieel beheer duidelijk worden vastgelegd, opdat achteraf controle efficiënt kan worden uitgevoerd.
 
-### 5b). **Doelmatigheid**
+### 5e). Overige aspecten van de bedrijfsvoering
 
-De SVB rapporteert in het jaarverslag over het totstandkomingsproces van de informatievoorziening (inclusief de daarbij gehanteerde criteria zoals vastgelegd in [bijlage XVII](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&bijlage=XVII&z=2012-07-01&g=2013-07-01) van de SUWI-regeling) en de wijze waarop deze is gewaarborgd (conform [artikel 5.16 tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&hoofdstuk=5&paragraaf=5.2&sub-paragraaf=5.2.1&artikel=5.16&z=2012-07-01&g=2013-07-01) Regeling SUWI) en eventuele verbetermaatregelen.
+SVB rapporteert over ontwikkelingen ten aanzien van de volgende onderwerpen:
 
 ### 5c). **Totstandkoming niet-financiële informatie**
 
-De SVB rapporteert in het jaarverslag over het totstandkomingsproces van de informatievoorziening (inclusief de daarbij gehanteerde criteria zoals vastgelegd in [bijlage XVII](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&bijlage=XVII&z=2013-07-10&g=2013-07-01) van de SUWI-regeling) en de wijze waarop deze is gewaarborgd (conform [artikel 5.16 tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&hoofdstuk=5&paragraaf=5.2&sub-paragraaf=5.2.1&artikel=5.16&z=2013-07-10&g=2013-07-01) Regeling SUWI) en eventuele verbetermaatregelen.
+SVB rapporteert over de voortgang, verbetering en vernieuwing van de geautomatiseerde ondersteuning van zowel haar primaire als ondersteunende processen. Ook de voortgang van projecten ter verbetering van gegevensbeheer en privacybescherming vallen hieronder. SVB rapporteert in het jaarverslag over de opzet en werking van het stelsel van maatregelen en procedures gericht op het waarborgen van een exclusieve, integere, beschikbare en controleerbare gegevensverwerking, en over het beveiligingsniveau van Suwinet (conform [artikel 5.22](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&hoofdstuk=5&paragraaf=5.3&artikel=5.22&z=2016-01-30&g=2016-01-30) en [6.4](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&hoofdstuk=6&paragraaf=6.1&artikel=6.4&z=2016-01-30&g=2016-01-30) Regeling SUWI).
 
 ### 5d). **Financieel Beheer**
 
-Voor wat betreft rechtmatigheid rapporteert de SVB in het tweede tussentijdsverslag over de rechtmatigheidscijfers per wet over het eerste half jaar en in het jaarverslag over de jaarcijfers. Vaststelling van de rechtmatigheid is gekoppeld aan het handelen in het verslagjaar (het handelen omvat mede het ten onrechte niet-handelen) en de fouten die daarbij zijn gevonden. Ingegaan wordt op de wijze waarop met oude fouten wordt omgegaan. Tevens wordt hierbij inzicht geboden in de uitgevoerde herstelactiviteiten. De wijze waarop de SVB verantwoording dient af te leggen over de rechtmatigheid in het jaarverslag en de jaarrekening, alsmede de wijze waarop de accountant zijn controlewerkzaamheden dient te verrichten, zijn nader uitgewerkt in de [artikelen 5.10b t/m 5.10e](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&hoofdstuk=5&paragraaf=5.1b&artikel=5.10b&z=2015-09-25&g=2016-01-01) van de Regeling SUWI en met name in de daarbij behorende toelichting.
+De onderwerpen die onder het onderdeel governance vallen hebben betrekking op de bestuurlijke inrichting van de SVB en de wijze waarop zij haar taken uitvoert.
 
 ### 5b). Doelmatigheid
 
-De SVB doet jaarlijks verslag van de bezoldiging van de leden van de Raad van Bestuur ([artikel 5 vierde lid Wet SUWI](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&artikel=5)), en van de topinkomens op basis van de [Wet openbaarmaking uit financiële middelen gefinancierde topinkomens](https://wetten.overheid.nl/jci1.3:c:BWBR0019562) (WOPT).
+Het positieve verschil tussen de gerealiseerde baten en lasten met betrekking tot de uitvoeringskosten SZW-budget, dat voor de egalisatiereserve in aanmerking wordt genomen, heeft betrekking op:
 
 ### 8. Investeringen per categorie
 
@@ -3751,35 +3753,35 @@ De in de jaarrekening opgenomen informatie dient een zodanig betrouwbaar beeld t
 
 In beginsel vormt de SVB naast de egalisatiereserve geen bestemmingsreserves en bestemmingsfondsen. Hiervan kan slechts met instemming van het ministerie van SZW worden afgeweken.
 
-### Toelichting
+### Planning & control producten van IB
 
-Nog te verrekenen rijksbijdragen
+In deze bijlage zijn de informatieproducten gespecificeerd die IB periodiek aan SZW dient te verstrekken op grond van [artikel 5.3](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&hoofdstuk=5&paragraaf=5.1&artikel=5.3&z=2016-01-30&g=2016-01-30) en [5.10a](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&hoofdstuk=5&paragraaf=5.1&artikel=5.10a&z=2016-01-30&g=2016-01-30) van de Regeling SUWI. Het betreft de volgende producten:
 
 ### **Risicomanagement**
 
 Jaarlijks worden tijdens het uitvoeringsjaar de wetten en regelingen die in deze tabel opgenomen moeten worden, na ambtelijke afstemming tussen SVB en SZW, door SZW per brief vastgesteld.
 
-### 2. **Ontwikkelingen wetsuitvoering en andere taken**
+### 3. Ontwikkelingen grote projecten en projecten ter invoering van nieuwe wet- en regelgeving
 
-In het kader van de budgetverantwoordelijkheid van SZW voor IB dient IB zich tevens te verantwoorden over prestatie-indicatoren en prestatiegegevens op het gebied van:
+IB doet verslag van de uitvoering van het investeringsprogramma en de invoering van nieuwe wet- en regelgeving (indien van toepassing). Hierbij wordt ingegaan op de bereikte resultaten en de daarmee gepaard gaande kosten. IB legt hierbij een relatie met de planning en licht eventuele wijzigingen kort toe. IB dient tevens verslag te doen van de fte-bezetting (vast/tijdelijk/extern) per einddatum van de verslagperiode.
 
-### Planning & control producten van IB
+### 4. Ketensamenwerking
 
 Dit betreft alleen projecten met een meerjarig ICT-component van minimaal € 20 mln, of projecten met een meerjarige ICT-component van minimaal € 5 mln en het project als geheel heeft een hoog risicoprofiel. De rapportage hierover geschiedt overeenkomstig de brief aan de Tweede Kamer van de Minister van BZK van 29 januari 2010. De rapportage maakt deel uit van het Jaarverslag SVB. De rapportage gaat vergezeld van een nota van bevindingen van de accountant over de ordelijkheid, controleerbaarheid en deugdelijkheid van het totstandkomingsproces van de informatie. De Minister van BZK zal de rapportage afzonderlijk aan de kamer aanbieden. De ICT-projecten worden sinds 2011 op het Rijks ICT-dashboard gepubliceerd. De geactualiseerde data op het Rijks ICT-dashboard worden eenmaal per jaar verwerkt in de jaarrapportage bedrijfsvoering Rijk.
 
 ## Bijlage XI. behorende bij de [artikelen 5.3](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&hoofdstuk=5&paragraaf=5.1&artikel=5.3&z=2015-09-25&g=2016-01-01) en [5.10a](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&hoofdstuk=5&paragraaf=5.1&artikel=5.10a&z=2015-09-25&g=2016-01-01) van de Regeling SUWI
 
-### Planning & control producten van IB
+### 5b). Doelmatigheid
 
-In deze bijlage zijn de informatieproducten gespecificeerd die IB periodiek aan SZW dient te verstrekken op grond van [artikel 5.3](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&hoofdstuk=5&paragraaf=5.1&artikel=5.3&z=2015-09-25&g=2016-01-01) en [5.10a](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&hoofdstuk=5&paragraaf=5.1&artikel=5.10a&z=2015-09-25&g=2016-01-01) van de Regeling SUWI. Het betreft de volgende producten:
+In [artikel 5.10e, eerste lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&hoofdstuk=5&paragraaf=5.1b&artikel=5.10e&z=2016-01-30&g=2016-01-30), van de Regeling SUWI is aangegeven dat IB inzicht moet bieden in de doelmatigheid van het beheer en de organisatie. Ten aanzien van IB wordt verslag uitgebracht van activiteiten die zijn ondernomen om de bedrijfsprocessen door te lichten, waarbij het kostenniveau wordt gerelateerd aan de (kwaliteit van de) geleverde prestatie. IB wordt geacht de uitgangspunten die zij hanteert met betrekking tot doelmatigheid te expliciteren. Een toelichting op artikel 5.10e, eerste lid, onderdeel c, van de Regeling SUWI, wordt gegeven in [Bijlage XXIII](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&bijlage=XXIII&z=2016-01-30&g=2016-01-30) bij de Regeling SUWI.
 
-### Legenda
+### 5c). Totstandkoming niet-financiële informatie
 
-In die hierna volgende tabel worden de onderwerpen benoemd, die in de diverse producten van de P&C cyclus aan de orde dienen te komen. Daaronder volgt, per onderwerp, een nadere toelichting.
+IB rapporteert in het jaarverslag over het totstandkomingsproces van de informatievoorziening (inclusief de daarbij gehanteerde criteria zoals vastgelegd in [bijlage XVII](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&bijlage=XVII&z=2016-01-30&g=2016-01-30) van de SUWI-regeling) en de wijze waarop deze is gewaarborgd (conform [artikel 5.16 tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&hoofdstuk=5&paragraaf=5.2&sub-paragraaf=5.2.1&artikel=5.16&z=2016-01-30&g=2016-01-30) Regeling SUWI).
 
 ### 1. Volumeontwikkeling en fondsbelasting
 
-(n.v.t.)
+Het financieel beheer dient te voldoen aan de eisen ordelijkheid en controleerbaarheid.
 
 ### 2. Ontwikkelingen wetsuitvoering en andere taken
 
@@ -3787,19 +3789,19 @@ Het jaarplan gaat in op de volgende vragen:
 
 ### 5d). **Financieel Beheer**
 
-In het tussentijdse verslag en het jaarverslag doet IB verslag van de uitvoering van het beleid en de geleverde prestaties. Het jaarplan en de daarin opgenomen prestatie-indicatoren vormen hierbij het uitgangspunt. De uitkomsten van de prestatie-indicatoren worden, voorzien van een toelichting, samen met de normen/streefwaarden per wet verantwoord. Indien van toepassing beschrijft IB zoveel als mogelijk de eigen bijdrage aan het behalen van de doelstellingen en geeft een verklaring als doelstellingen niet worden gehaald en de verbetermaatregelen die zijn/worden genomen. Bij klantgerichtheid wordt specifiek ingegaan op o.a. klachtenafhandeling, bereikbaarheid en klanttevredenheid.
+IB rapporteert over de voortgang, verbetering en vernieuwing van de geautomatiseerde ondersteuning van zowel haar primaire- als ondersteunende processen. Ook de voortgang van projecten ter verbetering van gegevensbeheer en privacybescherming vallen hier onder. In het jaarverslag wordt ingegaan op het oordeel van de EDP-auditor. Deze geeft conform [artikel 5.22](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&hoofdstuk=5&paragraaf=5.3&artikel=5.22&z=2016-01-30&g=2016-01-30) en [6.4](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&hoofdstuk=5&paragraaf=5.3&artikel=5.22&z=2016-01-30&g=2016-01-30) Regeling SUWI een oordeel over het stelsel van maatregelen en procedures gericht op het waarborgen van een exclusieve, integere, beschikbare en controleerbare gegevensverwerking en over het beveiligingsniveau van Suwinet. Indien van toepassing geeft IB inzicht in de verrichte inspanningen om de kwaliteit te verbeteren c.q. te consolideren.
 
 ### 3. Ontwikkelingen grote projecten en projecten ter invoering van nieuwe wet- en regelgeving
 
-Het financieel beheer dient te voldoen aan de eisen ordelijkheid en controleerbaarheid.
+De jaarrekening IB bestaat uit de volgende onderdelen:
 
-### 8. **Investeringen per categorie**
+### Grondslagen waardering en resultaatbepaling
 
-IB doet verslag van de voortgang van huisvestingskosten.
+Met ingang van het jaar 2014 is het IB verplicht om een egalisatiereserve te vormen. Deze reserve wordt gevormd uit het positieve verschil tussen gerealiseerde baten en lasten (SZW-budget). De egalisatiereserve blijft beperkt tot de uitvoeringskosten en wordt ingezet voor:
 
 ### 6. Governance
 
-De onderwerpen die onder het onderdeel governance vallen hebben betrekking op de bestuurlijke inrichting van IB en de wijze waarop zij haar taken uitvoert.
+Wat betreft de omvang van de egalisatiereserve zal worden aangesloten bij de richtlijn voor baten/lastendiensten, te weten 5% van het gemiddelde van de jaarbudgetten van de afgelopen 3 jaar. Bij de reactie op het jaarverslag over jaar t wordt door SZW de maximale omvang van de egalisatiereserve voor het jaar t+1 vastgesteld op basis van het gemiddelde van de vastgestelde jaarbudgetten van jaar t-2, t-1 en t.
 
 ### 13. **Kwantitatieve informatie met wet (n.v.t.)**
 
@@ -3809,7 +3811,9 @@ De in de jaarrekening opgenomen informatie dient een zodanig betrouwbaar beeld t
 
 De in de jaarrekening opgenomen informatie dient een zodanig betrouwbaar beeld te geven van de werkelijkheid als in de gegeven omstandigheden is vereist. Alle uitvoeringskosten worden in de budgetverantwoording opgenomen, ongeacht of er budget voor is toegekend. Het salderen van bijzondere baten en lasten is niet toegestaan, tenzij wetgeving anders voorschrijft.
 
-## Bijlage XX. behorende bij de [artikelen 5.3](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&hoofdstuk=5&paragraaf=5.1&artikel=5.3&z=2013-07-10&g=2013-07-01) en [5.10a](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&hoofdstuk=5&paragraaf=5.1&artikel=5.10a&z=2013-07-10&g=2013-07-01) van de Regeling SUWI
+## Bijlage XIX. behorende bij de Regeling SUWI, artikel 7.4, eerste lid
+
+Vervallen
 
 ### Planning & control producten van BKWI
 
@@ -3817,9 +3821,9 @@ Ten aanzien van BKWI wordt één planningsdocument opgeleverd, te weten het **ja
 
 ### 11. Aansluitingstabel
 
-(n.v.t.)
+Ten aanzien van BKWI wordt één planningsdocument opgeleverd, te weten het **jaarplan met begroting** (vóór 1 oktober). Het jaarplan van BKWI bevat in elk geval een omschrijving van de taak, bedoeld in [artikel 5.21, eerste lid, van het Besluit SUWI](https://wetten.overheid.nl/jci1.3:c:BWBR0013267&artikel=5.21) en de andere taken die BKWI ten behoeve van gemeenten verricht. Ten aanzien van BKWI dient UWV zich op verschillende momenten te verantwoorden over de uitvoering van het jaarplan. Deze verantwoording vindt plaats in het **tussentijdse verslag** en het **jaarverslag**. Het tussentijdse verslag wordt uiterlijk zes weken na afloop van de verslagperiode aan de minister verstrekt. Het jaarverslag wordt vòòr 15 maart aan de minister aangeboden.
 
-### 16. **Ontwikkelingen wetsuitvoering en andere taken**
+### Legenda
 
 Het jaarplan gaat (volgens de VBTB-systematiek) in op de volgende vragen:
 
@@ -3829,27 +3833,27 @@ In het tussentijdse verslag en het jaarverslag doet BKWI verslag van de uitvoeri
 
 ### 17. **Ontwikkelingen grote projecten en projecten ter invoering van nieuwe wet- en regelgeving**
 
-IB gaat in de tussentijdse verslagen en het jaarverslag op hoofdlijnen in op de bevindingen van de Inspectie Werk en Inkomen en de Algemene Rekenkamer, en op de naar aanleiding van deze bevindingen genomen maatregelen.
+In het tussentijdse verslag en het jaarverslag doet BKWI verslag van de uitvoering van het beleid en de geleverde prestaties. Het jaarplan en de daarin opgenomen prestatie-indicatoren vormen hierbij het uitgangspunt. De uitkomsten van de prestatie-indicatoren worden, voorzien van een toelichting, samen met de normen/streefwaarden verantwoord. Indien van toepassing beschrijft BKWI zoveel als mogelijk de eigen bijdrage aan het behalen van de doelstellingen en geeft een verklaring als doelstellingen niet worden gehaald en de verbetermaatregelen die zijn/worden genomen. Bij klantgerichtheid wordt ingegaan op o.a. klachtenafhandeling, bereikbaarheid en klanttevredenheid.
 
-### 18. **Ketensamenwerking**
+### 3. Ontwikkelingen grote projecten en projecten ter invoering van nieuwe wet- en regelgeving
 
-(n.v.t.)
+In dit onderdeel rapporteert UWV over eventuele tekortkomingen in het financieel beheer van BKWI. Onder financieel beheer wordt verstaan het geheel van beslissingen, handelingen en regels die zijn bedoeld voor de sturing en beheersing van, alsmede de verantwoording over, de financiële transacties en de saldi waarvoor het management (mede)verantwoordelijkheid draagt. De administraties, die ten behoeve van het financieel beheer worden bijgehouden, worden eveneens tot het financieel beheer gerekend
 
 ### 1. Volumeontwikkeling en fondsbelasting
 
-In het tussentijdse verslag en het jaarverslag doet BKWI verslag van de uitvoering van het beleid en de geleverde prestaties. Het jaarplan en de daarin opgenomen prestatie-indicatoren vormen hierbij het uitgangspunt. De uitkomsten van de prestatie-indicatoren worden, voorzien van een toelichting, samen met de normen/streefwaarden verantwoord. Indien van toepassing beschrijft BKWI zoveel als mogelijk de eigen bijdrage aan het behalen van de doelstellingen en geeft een verklaring als doelstellingen niet worden gehaald en de verbetermaatregelen die zijn/worden genomen. Bij klantgerichtheid wordt ingegaan op o.a. klachtenafhandeling, bereikbaarheid en klanttevredenheid.
+UWV rapporteert over de voortgang, verbetering en vernieuwing van de geautomatiseerde ondersteuning van zowel haar primaire- als ondersteunende processen bij BKWI. Ook de voortgang van projecten ter verbetering van gegevensbeheer en privacybescherming vallen hier onder. In het jaarverslag wordt ingegaan op het oordeel van de EDP-auditor. Deze geeft conform [artikel 5.22](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&hoofdstuk=5&paragraaf=5.3&artikel=5.22&z=2016-01-30&g=2016-01-30) en [6.4](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&hoofdstuk=6&paragraaf=6.1&artikel=6.4&z=2016-01-30&g=2016-01-30) Regeling SUWI een oordeel over het stelsel van maatregelen en procedures gericht op het waarborgen van een exclusieve, integere, beschikbare en controleerbare gegevensverwerking en over het beveiligingsniveau van Suwinet. Indien van toepassing geeft UWV voor de bijdrage van BKWI inzicht in de verrichte inspanningen om de kwaliteit te verbeteren c.q. te consolideren.
 
 ### 3. Ontwikkelingen grote projecten en projecten ter invoering van nieuwe wet- en regelgeving
 
 UWV doet ten aanzien van BKWI verslag van de uitvoering van het investeringsprogramma en de invoering van nieuwe wet- en regelgeving (indien van toepassing). Hierbij wordt ingegaan op de bereikte resultaten en de daarmee gepaard gaande kosten. BKWI legt hierbij een relatie met de planning en licht eventuele wijzigingen kort toe.
 
-### 22. **Investeringen per categorie**
+### 9. Overzicht t.b.v. bevoorschotting/afrekening
 
-BKWI doet jaarlijks verslag van de bezoldiging van de leden van de Raad van Bestuur ([artikel 5 vierde lid Wet SUWI](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&artikel=5)), en van de topinkomens op basis van de [Wet openbaarmaking uit financiële middelen gefinancierde topinkomens](https://wetten.overheid.nl/jci1.3:c:BWBR0019562) (WOPT).
+Ten behoeve van de bevoorschotting neemt BKWI in het jaarplan en de jaarrekening een overzicht op van de uitvoeringskosten welke ten laste komen van de rijksbijdrage. De kasbeweging dient aan te sluiten op de rekeningen-courant met het ministerie van Financiën (geïntegreerd middelenbeheer).
 
-### 22. **Investeringen per categorie**
+### 10. Jaarrekening
 
-Het financieel beheer dient te voldoen aan de eisen ordelijkheid en controleerbaarheid.
+De jaarrekening voor het onderdeel BKWI geeft inzicht in de baten en lasten over het boekjaar, de balans aan het eind van het boekjaar en de cash flow. De jaarrekening heeft betrekking op de balans en de resultatenrekening met de toelichting en op de in het jaarplan en modelverantwoording opgenomen financiële onderwerpen. De jaarrekening is zoveel als mogelijk gebaseerd op [titel 9, Boek 2 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&titeldeel=9), tenzij hiervan in deze modelverantwoording wordt afgeweken. De in de jaarrekening opgenomen informatie dient een zodanig betrouwbaar beeld te geven van de werkelijkheid als in de gegeven omstandigheden is vereist. Alle uitvoeringskosten worden in de budgetverantwoording opgenomen, ongeacht of er budget voor is toegekend. Het salderen van bijzondere baten en lasten is niet toegestaan, tenzij wetgeving anders voorschrijft.
 
 ## Bijlage XXI. als bedoeld in [artikel 5.10d, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&hoofdstuk=5&paragraaf=5.1b&artikel=5.10d&z=2005-12-29&g=2005-12-29), van de Regeling SUWI
 
@@ -3859,13 +3863,13 @@ BKWI rapporteert op dit punt over belangrijke personeelsaangelegenheden, waarond
 
 ### 4. Bedrijfsvoering
 
-UWV rapporteert over de voortgang, verbetering en vernieuwing van de geautomatiseerde ondersteuning van zowel haar primaire- als ondersteunende processen bij BKWI. Ook de voortgang van projecten ter verbetering van gegevensbeheer en privacybescherming vallen hier onder. In het jaarverslag wordt ingegaan op het oordeel van de EDP-auditor. Deze geeft conform [artikel 5.22](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&hoofdstuk=5&paragraaf=5.3&artikel=5.22&z=2015-09-25&g=2016-01-01) en [6.4](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&hoofdstuk=6&paragraaf=6.1&artikel=6.4&z=2015-09-25&g=2016-01-01) Regeling SUWI een oordeel over het stelsel van maatregelen en procedures gericht op het waarborgen van een exclusieve, integere, beschikbare en controleerbare gegevensverwerking en over het beveiligingsniveau van Suwinet. Indien van toepassing geeft UWV voor de bijdrage van BKWI inzicht in de verrichte inspanningen om de kwaliteit te verbeteren c.q. te consolideren.
+Met ingang van het jaar 2014 is het BKWI verplicht om een egalisatiereserve te vormen. Deze reserve wordt gevormd uit het positieve verschil tussen gerealiseerde baten en lasten (SZW-budget). De egalisatiereserve blijft beperkt tot de uitvoeringskosten en wordt ingezet voor:
 
 ### 25. **Aansluitingstabel (n.v.t.)**
 
 UWV gaat in op welke wijze risico’s binnen het organisatieonderdeel BKWI zijn geanalyseerd, hoe wordt omgegaan met risico’s en hoe risico’s worden gemanaged.
 
-### 8. Investeringen per categorie
+### Toelichting
 
 BKWI doet jaarlijks verslag van de bezoldiging van de leden van de Raad van Bestuur ([artikel 5 vierde lid Wet SUWI](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&artikel=5)), en van de topinkomens op basis van de [Wet openbaarmaking uit financiële middelen gefinancierde topinkomens](https://wetten.overheid.nl/jci1.3:c:BWBR0019562) (WOPT).
 
@@ -3879,19 +3883,19 @@ De jaarrekening voor het onderdeel BKWI geeft inzicht in de baten en lasten over
 
 ### 8. Investeringen per categorie
 
-De accountant onderzoekt de verantwoording die het management van het BKWI op grond van de Regeling SUWI heeft uitgebracht. De accountantsverklaring en het verslag van bevindingen zijn nader geregeld in [artikel 5.10b t/m e](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&hoofdstuk=5&paragraaf=5.1b&artikel=5.10b&z=2015-09-25&g=2016-01-01) en [bijlage XXII](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&bijlage=XXII&z=2015-09-25&g=2016-01-01) van de Regeling SUWI.
+Aan:
 
 ### **Minimumeisen toetsingskader**
 
-Het positieve verschil tussen de gerealiseerde baten en lasten met betrekking tot de uitvoeringskosten. SZW-budget, dat voor de egalisatiereserve in aanmerking wordt genomen, heeft betrekking op:
+Onze verantwoordelijkheid is het geven van een oordeel over de jaarrekening c.a. op basis van onze controle. Wij hebben onze controle verricht in overeenstemming met Nederlands recht, waaronder de Nederlandse controlestandaarden en de regels inzake de accountantscontrole zoals opgenomen in de Regeling SUWI, [paragraaf 5.1b](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&hoofdstuk=5&paragraaf=5.1b&z=2016-01-30&g=2016-01-30), Accountantscontrole. Dit vereist dat wij voldoen aan de voor ons geldende ethische voorschriften en dat wij onze controle zodanig plannen en uitvoeren dat een redelijke mate van zekerheid wordt verkregen dat de jaarrekening c.a. geen afwijkingen van materieel belang bevatten.
 
 ### Egalisatiereserve en bestemmingsfonds voor investeringen
 
-Doelmatigheid is een begrip dat op verschillende manieren kan worden gedefinieerd.
+Wij zijn van mening dat de door ons verkregen controle-informatie voldoende en geschikt is om een onderbouwing voor ons oordeel te bieden.
 
 ### 11. Aansluitingstabel
 
-In de context van de [Wet SUWI](https://wetten.overheid.nl/jci1.3:c:BWBR0013060) gaat het om de doelmatigheid van de uitvoering van de sociale verzekeringen en wetten in het verstreken boekjaar en de vraag of het beheer en de organisatie van de rechtspersoon voldoen aan eisen van doelmatigheid. De uitwerking van het doelmatigheidsbegrip die in het kader van de Regeling SUWI wordt gegeven heeft betrekking op de doelmatigheid van bedrijfsvoering.
+Tevens vermelden wij dat de overige delen van het jaarverslag, voor zover wij dat kunnen beoordelen, verenigbaar zijn met de jaarrekening c.a.
 
 ### **Definitie doelmatigheid**
 
@@ -3899,11 +3903,11 @@ In aansluiting op de definitie van doelmatigheid werken UWV, SVB, IB en BKWI hun
 
 ### 14. Toezichtbevindingen
 
-BKWI gaat in het jaarverslag op hoofdlijnen in op de bevindingen van de Inspectie Werk en Inkomen en de Algemene Rekenkamer, en op de naar aanleiding van deze bevindingen genomen maatregelen.
+Een gangbaar onderscheid is die tussen ‘doelmatigheid van bedrijfsvoering’ en ‘doelmatigheid van beleid’. Bij ‘doelmatigheid van bedrijfsvoering’ staat de samenhang tussen de geleverde prestaties (producten of diensten) – uitgedrukt in kwantiteit én kwaliteit – en de ingezette middelen centraal. De ‘doelmatigheid van beleid’ benadert doelmatigheid op een hoger abstractieniveau, waarbij de relatie tussen beoogde effecten en ingezette middelen centraal staat.
 
 ### CONTROLEVERKLARING van de onafhankelijke accountant
 
-Ingevolge [Artikel 49 lid 3 van de Wet Structuur Uitvoeringsorganisatie Werk en Inkomen](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&artikel=49) (Wet SUWI) hebben wij de volgende elementen die alle deel uitmaken van het jaarverslag 201X van het zbo /de stichting en hierna samen worden aangeduid als de jaarrekening c.a., gecontroleerd:
+Een organisatie is doelmatig als er een goed evenwicht is tussen de geleverde prestaties (primair in kwantiteit en secundair in kwaliteit) en de door haar ingezette middelen.
 
 ### **3. Ketensamenwerking**
 
@@ -3911,7 +3915,7 @@ Ingevolge [Artikel 49 lid 3 van de Wet Structuur Uitvoeringsorganisatie Werk en 
 
 ### **3. Ketensamenwerking**
 
-Bij het maken van deze risico-inschattingen neemt de accountant de interne beheersing in aanmerking die relevant is voor het opmaken van de jaarrekening c.a. en voor het getrouwe beeld daarvan, gericht op het opzetten van controlewerkzaamheden die passend zijn in de omstandigheden. Deze risico-inschattingen hebben echter niet tot doel een oordeel tot uitdrukking te brengen over de effectiviteit van de interne beheersing van het zbo /de stichting. Een controle omvat tevens het evalueren van de geschiktheid van de gebruikte grondslagen voor financiële verslaggeving en van de redelijkheid van de door de Raad van Bestuur zbo/Stichtingsbestuur/ Raad/Directie gemaakte schattingen, alsmede een evaluatie van het algehele beeld van de jaarrekening c.a..
+De accountant heeft als taak in zijn verslag van bevindingen te rapporteren over de ordelijke en controleerbare totstandkoming van de verantwoording over de doelmatigheid.
 
 Deze regeling zal met de toelichting en de bijlagen, met uitzondering van de bijlagen III tot en met XVI, in de Staatscourant worden geplaatst.
 
@@ -3973,15 +3977,15 @@ In deze bijlage zijn de diverse producten gespecificeerd die UWV periodiek aan S
 
 ### Legenda
 
-### 5. **Bedrijfsvoering**
+### 5a). Rechtmatigheid
 
-Totale huisvestingskosten (regulier en frictie) opgebouwd en onderverdeeld naar:
+UWV doet jaarlijks verslag van de bezoldiging van de leden van de Raad van Bestuur ([artikel 5 vierde lid Wet SUWI](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&artikel=5)) en van de topinkomens op basis van de [Wet normering bezoldiging topfunctionarissen publieke en semipublieke sector](https://wetten.overheid.nl/jci1.3:c:BWBR0032249) (WNT).
 
 ## Bijlage VI. , bedoeld in [artikel 5.10a, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&hoofdstuk=5&paragraaf=5.1a&artikel=5.10a&z=2006-07-09&g=2006-07-09), en [5.12, eerste, tweede, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&hoofdstuk=5&paragraaf=5.2&sub-paragraaf=5.2.1&artikel=5.12&z=2006-07-09&g=2006-07-09), van de Regeling SUWI
 
-De onderwerpen die onder het onderdeel governance vallen hebben betrekking op de
+De jaarrekening van UWV omvat zowel het UWV als uitvoeringsorganisatie alsook de geadministreerde fondsen.
 
-### 9. Overzicht ten behoeve van bevoorschotting/afrekening
+### 10.1. Grondslagen waardering en resultaatbepaling
 
 ### 7.1. **Uitvoeringskosten1Deze tabel te rapporteren in het tweede tussentijdse verslag. UWV geeft in het eerste tussentijdse verslag aan **welke richting** het opgaat met de jaarprognose (verwacht UWV binnen budget te blijven, mate van te verwachten over- of onderuitputting, verschil in regulier en projecten)..**
 
@@ -3993,25 +3997,25 @@ Over de levering van de periodieke kwantitatieve informatie per wet, de maandeli
 
 ### Planning & control producten van SVB
 
-### 1. Volumeontwikkeling en fondsbelasting
-
-### Legenda
-
-In het jaarplan wordt ook aandacht besteed aan eventuele veranderingen in de taken van de organisatie. Gedacht kan worden aan:
-
-## Bijlage VI. , bedoeld in de [artikelen 5.3](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&hoofdstuk=5&paragraaf=5.1&artikel=5.3&z=2010-01-01&g=2010-01-01), [5.4](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&hoofdstuk=5&paragraaf=5.1&artikel=5.4&z=2010-01-01&g=2010-01-01), [5.10a](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&hoofdstuk=5&paragraaf=5.1&artikel=5.10a&z=2010-01-01&g=2010-01-01) en [5.12](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&hoofdstuk=5&paragraaf=5.2&sub-paragraaf=5.2.1&artikel=5.12&z=2010-01-01&g=2010-01-01) van de Regeling SUWI
-
-In [artikel 5.10e, eerste lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&hoofdstuk=5&paragraaf=5.1b&artikel=5.10e&z=2012-07-01&g=2013-07-01), van de Regeling SUWI is aangegeven dat de SVB inzicht biedt in doelmatigheid van het beheer en de organisatie. De SVB brengt verslag uit van activiteiten die zijn ondernomen om de bedrijfsprocessen door te lichten, waarbij het kostenniveau wordt gerelateerd aan de (kwaliteit van de) geleverde prestatie. De Raad van Bestuur wordt geacht de uitgangspunten die zij hanteert met betrekking tot doelmatigheid te expliciteren. Een toelichting op [artikel 5.10e, eerste lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&hoofdstuk=5&paragraaf=5.1b&artikel=5.10e&z=2012-07-01&g=2013-07-01), van de Regeling SUWI, wordt gegeven in [Bijlage XXIII](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&bijlage=XXIII&z=2012-07-01&g=2013-07-01) bij de Regeling SUWI.
+### 4. Ketensamenwerking en geïntegreerde dienstverlening (n.v.t.)
 
 ### 5a). Rechtmatigheid
 
-### 5e). **Overige aspecten van de bedrijfsvoering**
+In [artikel 5.10e, eerste lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&hoofdstuk=5&paragraaf=5.1b&artikel=5.10e&z=2016-01-30&g=2016-01-30), van de Regeling SUWI is aangegeven dat de SVB inzicht biedt in doelmatigheid van het beheer en de organisatie. De SVB brengt verslag uit van activiteiten die zijn ondernomen om de bedrijfsprocessen door te lichten, waarbij het kostenniveau wordt gerelateerd aan de (kwaliteit van de) geleverde prestatie. De Raad van Bestuur wordt geacht de uitgangspunten die zij hanteert met betrekking tot doelmatigheid te expliciteren. Een toelichting op artikel 5.10e, eerste lid, onderdeel c, van de Regeling SUWI, wordt gegeven in [Bijlage XXIII](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&bijlage=XXIII&z=2016-01-30&g=2016-01-30) bij de Regeling SUWI.
+
+## Bijlage VI. , bedoeld in de [artikelen 5.3](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&hoofdstuk=5&paragraaf=5.1&artikel=5.3&z=2010-01-01&g=2010-01-01), [5.4](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&hoofdstuk=5&paragraaf=5.1&artikel=5.4&z=2010-01-01&g=2010-01-01), [5.10a](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&hoofdstuk=5&paragraaf=5.1&artikel=5.10a&z=2010-01-01&g=2010-01-01) en [5.12](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&hoofdstuk=5&paragraaf=5.2&sub-paragraaf=5.2.1&artikel=5.12&z=2010-01-01&g=2010-01-01) van de Regeling SUWI
+
+De SVB rapporteert in het algemeen bij onvolkomenheden in het financieel beheer als die kunnen leiden tot disfunctioneren van het financieel beheer en/of betrekking hebben op kritieke processen en/of wijd verbreid zijn en/of kunnen leiden of hebben geleid tot aanzienlijke risico’s. Daarnaast rapporteert de SVB bij dit onderdeel over de fouten (per wet) die zijn vastgesteld bij de bepaling van de financiële rechtmatigheid, maar niet tot financiële onrechtmatigheid hebben geleid.
+
+### 6. Governance
+
+### 7. Uitvoeringskosten
 
 ### 9. **Overzicht t.b.v. bevoorschotting/afrekening**
 
-### 10. Jaarrekening
+### 11. Aansluitingstabel (n.v.t.)
 
-De jaarrekening SVB bestaat uit de volgende onderdelen:
+Het VBTB-verslag betreft een beperkte informatielevering vooruitlopend op het jaarverslag van SVB. Deze informatie wordt uiterlijk zes weken na afloop van het kalenderjaar aan SZW geleverd ten behoeve van het jaarverslag van SZW. De door SVB te leveren items in het VBTB-verslag worden schriftelijk door het Ministerie van SZW aan SVB kenbaar gemaakt.
 
 ### Controleverklaring en verslag van bevindingen
 
@@ -4019,7 +4023,7 @@ In deze bijlage zijn de informatieproducten gespecificeerd die IB periodiek aan 
 
 ### 15. Rapportage grote ICT-projecten plus nota van bevindingen
 
-IB doet verslag van de uitvoering van het investeringsprogramma en de invoering van nieuwe wet- en regelgeving (indien van toepassing). Hierbij wordt ingegaan op de bereikte resultaten en de daarmee gepaard gaande kosten. IB legt hierbij een relatie met de planning en licht eventuele wijzigingen kort toe. IB dient tevens verslag te doen van de fte-bezetting (vast/tijdelijk/extern) per einddatum van de verslagperiode.
+In de bedrijfsvoeringsparagraaf gaat IB in op de sturing en beheersing van de bedrijfsprocessen binnen IB voor zover van belang voor de uitvoering van de taken op grond van de Wet SUWI. Het doel is aan te geven in welke mate het management van IB haar bedrijfsprocessen beheerst. In de bedrijfsvoeringsparagraaf legt IB, mede gebaseerd op risicoanalyse, verantwoording af over de bedrijfsvoering. De bedrijfsvoeringsparagraaf bestaat tenminste uit de volgende onderdelen:
 
 ## Bijlage XI. , bedoeld in [artikel 5.21](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&hoofdstuk=5&paragraaf=5.2&sub-paragraaf=5.2.3&artikel=5.21&z=2006-07-09&g=2006-07-09) van de Regeling SUWI
 
@@ -4027,21 +4031,19 @@ IB doet verslag van de uitvoering van het investeringsprogramma en de invoering 
 
 ### 3. Ontwikkelingen grote projecten en projecten ter invoering van nieuwe wet- en regelgeving
 
-### 5e). **Overige onderwerpen bedrijfsvoering**
+### 6. Governance
 
 ### 5e). Overige onderwerpen bedrijfsvoering
 
-IB gaat in op welke wijze risico’s binnen de organisatie zijn geanalyseerd, hoe wordt omgegaan met risico’s en hoe risico’s worden gemanaged.
+De vorming, besteding en vrijval van de egalisatiereserve moet toegelicht worden in de jaarrekening.
 
-### Grondslagen waardering en resultaatbepaling
+### 14. Toezichtbevindingen
 
-De jaarrekening IB bestaat uit de volgende onderdelen:
+IB gaat in de tussentijdse verslagen en het jaarverslag op hoofdlijnen in op de bevindingen van de Inspectie Werk en Inkomen en de Algemene Rekenkamer, en op de naar aanleiding van deze bevindingen genomen maatregelen.
 
-## Bijlage XV
+## Bijlage XX. behorende bij de [artikelen 5.3](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&hoofdstuk=5&paragraaf=5.1&artikel=5.3&z=2016-01-30&g=2016-01-30) en [5.10a](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&hoofdstuk=5&paragraaf=5.1&artikel=5.10a&z=2016-01-30&g=2016-01-30) van de Regeling SUWI
 
-Ligt ter inzage bij het Ministerie van Sociale Zaken en Werkgelegenheid.
-
-De indeling in categorieën volgt [Titel 9 Boek 2 Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&titeldeel=9).
+In die hierna volgende tabel worden de onderwerpen benoemd, die in de diverse producten van de P&C cyclus aan de orde dienen te komen. Daaronder volgt, per onderwerp, een nadere toelichting.
 
 ### 14. Toezichtbevindingen
 
@@ -4049,27 +4051,27 @@ De indeling in categorieën volgt [Titel 9 Boek 2 Burgerlijk Wetboek](https://we
 
 ### Planning & control producten van BKWI
 
-De onderwerpen die onder het onderdeel governance vallen hebben betrekking op de
+De onderwerpen die onder het onderdeel governance vallen hebben betrekking op de bestuurlijke inrichting door UWV van het organisatieonderdeel BKWI en de wijze waarop zij haar taken uitvoert.
 
 ### 5d). Financieel Beheer
 
-In dit onderdeel rapporteert UWV over eventuele tekortkomingen in het financieel beheer van BKWI. Onder financieel beheer wordt verstaan het geheel van beslissingen, handelingen en regels die zijn bedoeld voor de sturing en beheersing van, alsmede de verantwoording over, de financiële transacties en de saldi waarvoor het management (mede)verantwoordelijkheid draagt. De administraties, die ten behoeve van het financieel beheer worden bijgehouden, worden eveneens tot het financieel beheer gerekend
+De jaarrekening voor het onderdeel BKWI bestaat uit de volgende onderdelen:
 
 ## Bijlage XII
 
 Gepubliceerd op www.bkwi.nl.
 
-### 5d). Financieel Beheer
+### Egalisatiereserve
 
 ### 6. Governance
 
-BKWI doet jaarlijks verslag van de bezoldiging van de leden van de Raad van Bestuur ([artikel 5 vierde lid Wet SUWI](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&artikel=5)), en van de topinkomens op basis van de [Wet openbaarmaking uit financiële middelen gefinancierde topinkomens](https://wetten.overheid.nl/jci1.3:c:BWBR0019562) (WOPT).
+BKWI beschikt gezien de aard van de dienstverlening over grootschalige ICT in verhouding tot de organisatiegrootte en het budget. De voorziene egalisatiereserve is onvoldoende groot om grootschalige (vervangings)investeringen te plegen. Het is BKWI derhalve toegestaan naast de egalisatiereserve een ‘**bestemmingsfonds voor investeringen’** aan te houden. In het jaarplan neemt BKWI een ‘**reservering investeringen**’ op, in het jaarverslag het ‘bestemmingsfonds voor investeringen’, inclusief een toelichting en een meerjarig overzicht van de nog te plegen investeringen.
 
-### CONTROLEVERKLARING van de onafhankelijke accountant
+### 12. VBTB-informatie
 
 ### Grondslagen waardering en resultaatbepaling
 
-Het positieve verschil tussen de gerealiseerde baten en lasten met betrekking tot de uitvoeringskosten. SZW-budget, dat voor de egalisatiereserve in aanmerking wordt genomen, heeft betrekking op:
+Ingevolge [Artikel 49 lid 3 van de Wet Structuur Uitvoeringsorganisatie Werk en Inkomen](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&artikel=49) (Wet SUWI) hebben wij de volgende elementen die alle deel uitmaken van het jaarverslag 201X van het zbo /de stichting en hierna samen worden aangeduid als de jaarrekening c.a., gecontroleerd:
 
 ### **Inleiding**
 
@@ -4079,11 +4081,11 @@ Het positieve verschil tussen de gerealiseerde baten en lasten met betrekking to
 
 (n.v.t.)
 
-### 6. Governance
+### **Definitie doelmatigheid**
 
-### 11. Accountantsverklaring en verslag van bevindingen
+### **Rol van de accountant**
 
-Wij zijn van mening dat de door ons verkregen controle-informatie voldoende en geschikt is om een onderbouwing voor ons oordeel te bieden.
+De accountant stelt in dit verband ook vast of de organisatie een toetsingskader hanteert dat voldoende rekening houdt met de in deze toelichting benoemde minimumeisen.
 
 Deze regeling zal met de toelichting en de bijlagen, met uitzondering van de bijlagen III tot en met XVI, in de Staatscourant worden geplaatst.
 
@@ -4129,7 +4131,7 @@ Deze regeling zal met de toelichting en de bijlagen, met uitzondering van de bij
 
 De bijlagen III tot en met XVI liggen met ingang van 1 januari 2002 ter inzage in de bibliotheek van het Ministerie van Sociale Zaken en Werkgelegenheid.
 
-## Bijlage VI. behorende bij de [artikelen 5.3](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&hoofdstuk=5&paragraaf=5.1&artikel=5.3&z=2015-09-25&g=2016-01-01), [5.4](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&hoofdstuk=5&paragraaf=5.1&artikel=5.4&z=2015-09-25&g=2016-01-01), [5.10a](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&hoofdstuk=5&paragraaf=5.1&artikel=5.10a&z=2015-09-25&g=2016-01-01) en [5.12](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&hoofdstuk=5&paragraaf=5.2&sub-paragraaf=5.2.1&artikel=5.12&z=2015-09-25&g=2016-01-01) van de Regeling SUWI
+## Bijlage VI. behorende bij de [artikelen 5.3](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&hoofdstuk=5&paragraaf=5.1&artikel=5.3&z=2016-01-30&g=2016-01-30), [5.4](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&hoofdstuk=5&paragraaf=5.1&artikel=5.4&z=2016-01-30&g=2016-01-30), [5.10a](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&hoofdstuk=5&paragraaf=5.1&artikel=5.10a&z=2016-01-30&g=2016-01-30) en [5.12](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&hoofdstuk=5&paragraaf=5.2&sub-paragraaf=5.2.1&artikel=5.12&z=2016-01-30&g=2016-01-30) van de Regeling SUWI
 
 Deze regeling zal met de toelichting en de bijlagen, met uitzondering van de bijlagen III tot en met XVI, in de Staatscourant worden geplaatst.
 
@@ -4201,7 +4203,7 @@ UWV levert het **ontwerp jaarplan met begroting vòòr 1 juli en het definitief 
 
 ### 5b). Doelmatigheid
 
-### 5e). Overige aspecten van de bedrijfsvoering
+### 6. Governance
 
 ### **Raad van Bestuur en Raad van Advies**
 
@@ -4215,31 +4217,31 @@ Vervallen
 
 ## Bijlage VI. , bedoeld in de [artikelen 5.3](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&hoofdstuk=5&paragraaf=5.1&artikel=5.3&z=2008-02-28&g=2008-02-28), [5.4](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&hoofdstuk=5&paragraaf=5.1&artikel=5.4&z=2008-02-28&g=2008-02-28), [5.10a](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&hoofdstuk=5&paragraaf=5.1&artikel=5.10a&z=2008-02-28&g=2008-02-28) en [5.12](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&hoofdstuk=5&paragraaf=5.2&sub-paragraaf=5.2.1&artikel=5.12&z=2008-02-28&g=2008-02-28) van de Regeling SUWI
 
-### 9. **Overzicht ten behoeve van bevoorschotting / afrekening**
-
-### 10.2. Egalisatiereserve
-
-### 10.2. **Balans UWV per 31 december**
-
 ### 10.3. Bestemmingsfonds frictiekosten
 
 ### 10.5. Staat van baten en lasten UWV
 
-### 10.6.1. Baten wettelijke taken naar wet
+### 10.6.6. Uitvoeringskosten realisatie / begroot (regulier, projecten) 1Mag ook in het jaarverslag worden opgenomen.
 
-### 10.6.3. Uitvoeringskosten naar kostensoort
+### 10.6.9. Controleverklaring en verslag van bevindingen
 
-### 10.6.5. Uitvoeringskosten realisatie/begroot (regulier, projecten) 2Mag ook in het jaarverslag worden opgenomen.
+### 10.5. Staat van baten en lasten UWV
 
-Het UWV gaat in de tussentijdse verslagen en het jaarverslag in op de bevindingen van de Inspectie Werk en Inkomen en de Algemene Rekenkamer en op de naar aanleiding daarvan genomen maatregelen.
+### 13. Kwantitatieve informatie
 
-Het VBTB-verslag wordt uiterlijk zes weken na afloop van het kalenderjaar opgeleverd. De door UWV te leveren items in het VBTB-verslag worden schriftelijk door het Ministerie van SZW aan UWV kenbaar gemaakt.
+### 14. Toezichtbevindingen
 
-Het VBTB-verslag wordt uiterlijk zes weken na afloop van het kalenderjaar opgeleverd. De door UWV te leveren items in het VBTB-verslag worden schriftelijk door het Ministerie van SZW aan UWV kenbaar gemaakt.
+### 15. Rapportage grote ICT-projecten plus nota van bevindingen
+
+De SVB levert **het ontwerp jaarplan met begroting vòòr 1 juli en het definitief jaarplan met begroting vòòr 1 oktober**. De SVB dient zich op verschillende momenten te verantwoorden over de uitvoering van het jaarplan. Deze verantwoording vindt plaats in twee **tussentijdse verslagen** en het **jaarverslag**. De tussentijdse verslagen worden uiterlijk zes weken na afloop van de verslagperiode (tertaal) aan de minister verstrekt. Het jaarverslag wordt vòòr 15 maart aan de minister aangeboden.
+
+**Het VBTB-verslag** betreft een beperkte informatielevering vooruitlopend op het jaarverslag van SVB. Deze informatie wordt uiterlijk zes weken na afloop van het kalenderjaar aan SZW geleverd ten behoeve van het jaarverslag van SZW.
+
+**Tabel: Inhoudsvoorschriften voor de producten van de P&C-cyclus**
 
 In deze bijlage zijn de diverse producten gespecificeerd die de SVB periodiek aan SZW dient te verstrekken op grond van [artikel 5.3](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&hoofdstuk=5&paragraaf=5.1&artikel=5.3&z=2012-07-01&g=2013-07-01), [5.4](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&hoofdstuk=5&paragraaf=5.1&artikel=5.4&z=2012-07-01&g=2013-07-01), [5.10a](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&hoofdstuk=5&paragraaf=5.1&artikel=5.10a&z=2012-07-01&g=2013-07-01) en [5.12](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&hoofdstuk=5&paragraaf=5.2&sub-paragraaf=5.2.1&artikel=5.12&z=2012-07-01&g=2013-07-01) van de Regeling SUWI. Het betreft de volgende producten:
 
-### 3. **Ontwikkelingen grote projecten en projecten ter invoering van nieuwe wet- en regelgeving**
+### 5b). Doelmatigheid
 
 ### 5c). Totstandkoming niet-financiële informatie
 
@@ -4259,9 +4261,9 @@ In deze bijlage zijn de diverse producten gespecificeerd die de SVB periodiek aa
 
 ### 8. Investeringen per categorie
 
-### 10. **Jaarrekening**
+### Toelichting
 
-### 9. Overzicht t.b.v. bevoorschotting/afrekening
+### Toelichting
 
 ### 15. Rapportage grote ICT-projecten plus nota van bevindingen
 
@@ -4271,23 +4273,23 @@ Vervallen
 
 ## Bijlage VIII. , bedoeld in de [artikelen 5.3](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&hoofdstuk=5&paragraaf=5.1&artikel=5.3&z=2008-02-28&g=2008-02-28), [5.4](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&hoofdstuk=5&paragraaf=5.1&artikel=5.4&z=2008-02-28&g=2008-02-28), [5.10a](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&hoofdstuk=5&paragraaf=5.1&artikel=5.10a&z=2008-02-28&g=2008-02-28) en [5.12](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&hoofdstuk=5&paragraaf=5.2&sub-paragraaf=5.2.1&artikel=5.12&z=2008-02-28&g=2008-02-28) van de Regeling SUWI
 
-Het positieve verschil tussen de gerealiseerde baten en lasten met betrekking tot de uitvoeringskosten SZW-budget, dat voor de egalisatiereserve in aanmerking wordt genomen, heeft betrekking op:
+De SVB gaat in de tussentijdse verslagen en het jaarverslag in op de bevindingen van de Inspectie SZW en de Algemene Rekenkamer en op de naar aanleiding daarvan genomen maatregelen.
 
 Met ingang van het jaar 2014 is het voor de SVB verplicht om een egalisatiereserve te vormen. Deze reserve wordt gevormd uit het positieve verschil tussen gerealiseerde baten en lasten (SZW-budget). De egalisatiereserve blijft beperkt tot de uitvoeringskosten en wordt ingezet voor:
 
-Het positieve verschil tussen de gerealiseerde baten en lasten met betrekking tot de uitvoeringskosten SZW-budget, dat voor de egalisatiereserve in aanmerking wordt genomen, heeft betrekking op:
+Dit betreft alleen projecten met een meerjarig ICT-component van minimaal € 5 mln. De rapportage hierover geschiedt overeenkomstig de brieven aan de Tweede Kamer van de Minister van BZK van 29 januari 2010 respectievelijk 10 juli 2015 (TK 26 643, nrs. 148 en 365). De accountant rapporteert jaarlijks middels een nota van bevindingen over de ordelijkheid, controleerbaarheid en deugdelijkheid van het totstandkomingsproces van de informatie, die met peildatum ultimo verantwoordingsjaar aan het ministerie van SZW wordt geleverd.
 
 Wat betreft de omvang van de egalisatiereserve zal worden aangesloten bij de richtlijn voor baten/lastendiensten, te weten 5% van het gemiddelde van de jaarbudgetten van de afgelopen 3 jaar. Bij de reactie op het jaarverslag over jaar t wordt door SZW de maximale omvang van de egalisatiereserve voor het jaar t+1 vastgesteld op basis van het gemiddelde van de vastgestelde jaarbudgetten van jaar t-2, t-1 en t.
 
-De accountant onderzoekt de verantwoording die de Raad van Bestuur van de SVB op grond van de Regeling SUWI heeft uitgebracht. De controleverklaring en het verslag van bevindingen zijn nader geregeld in [artikel 5.10b t/m e](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&hoofdstuk=5&paragraaf=5.1b&artikel=5.10b&z=2015-09-25&g=2016-01-01) en [bijlage XXII](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&bijlage=XXII&z=2015-09-25&g=2016-01-01) van de Regeling SUWI.
+(n.v.t.)
 
 Ten aanzien van IB wordt één planningsdocument opgeleverd, te weten het **jaarplan met begroting**(vòòr 1 oktober). Het jaarplan van IB bevat in elk geval een omschrijving van de taak, bedoeld in [artikel 1, onderdeel m, van de Wet SUWI](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&artikel=1) en de andere taken die het IB ten behoeve van gemeenten op grond van [artikel 5.24 van het Besluit SUWI](https://wetten.overheid.nl/jci1.3:c:BWBR0013267&artikel=5.24) verricht. IB dient zich op verschillende momenten te verantwoorden over de uitvoering van het jaarplan. Deze verantwoording vindt plaats in de **tussentijdse verslagen** en het **jaarverslag**. Het tussentijdse verslag wordt uiterlijk zes weken na afloop van de verslagperiode aan de minister verstrekt. Het jaarverslag wordt vòòr 15 maart aan de minister aangeboden.
 
-(n.v.t.)
+Het jaarplan gaat in op de volgende vragen:
 
-In die hierna volgende tabel worden de onderwerpen benoemd, die in de diverse producten van de P&C cyclus aan de orde dienen te komen. Daaronder volgt, per onderwerp, een nadere toelichting.
+In het kader van de budgetverantwoordelijkheid van SZW voor IB dient IB zich tevens te verantwoorden over prestatie-indicatoren en prestatiegegevens op het gebied van:
 
-Het VBTB-verslag betreft een beperkte informatielevering vooruitlopend op het jaarverslag van SVB. Deze informatie wordt uiterlijk zes weken na afloop van het kalenderjaar aan SZW geleverd ten behoeve van het jaarverslag van SZW. De door SVB te leveren items in het VBTB-verslag worden schriftelijk door het Ministerie van SZW aan SVB kenbaar gemaakt.
+In het jaarplan wordt ook aandacht besteed aan eventuele veranderingen in de taken van de organisatie. Gedacht kan worden aan:
 
 ### 3. **Ontwikkelingen grote projecten en projecten ter invoering van nieuwe wet- en regelgeving**
 
@@ -4295,11 +4297,11 @@ IB doet verslag van de uitvoering van het investeringsprogramma en de invoering 
 
 ### 1. Ontwikkelingen wetsuitvoering en andere taken
 
-### 6. **Governance**
+### 8. Investeringen per categorie
 
-### [Wet Wajong](https://wetten.overheid.nl/jci1.3:c:BWBR0008657)
+### 10. Jaarrekening
 
-In de toelichting wordt onder andere ingegaan op:
+IB beschikt gezien de aard van de dienstverlening over grootschalige ICT in verhouding tot de organisatiegrootte en het budget. De voorziene egalisatiereserve is onvoldoende groot om grootschalige (vervangings)investeringen te plegen. Het is IB derhalve toegestaan naast de egalisatiereserve een ‘**bestemmingsfonds voor investeringen’** aan te houden. In het jaarplan neemt IB een ‘**reservering investeringen**’ op, in het jaarverslag het ‘**bestemmingsfonds voor investeringen**’, inclusief een toelichting en een meerjarig overzicht van de nog te plegen investeringen.
 
 Het IB doet jaarlijks verslag van de bestuurskosten van de leden van het Bestuur ([artikel 5, vierde lid, Wet SUWI](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&artikel=5)) en van de topinkomens op basis van de [Wet openbaarmaking uit financiële middelen gefinancierde topinkomens](https://wetten.overheid.nl/jci1.3:c:BWBR0019562) (WOPT).
 
@@ -4377,11 +4379,11 @@ Vervallen
 
 Ligt ter inzage bij het Ministerie van Sociale Zaken en Werkgelegenheid.
 
-### 1. Volumeontwikkeling en fondsbelasting
+### 5d). Financieel Beheer
 
-### 2. Ontwikkelingen wetsuitvoering en andere taken
+### 5e). Overige onderwerpen bedrijfsvoering
 
-Voor de elektronische voorzieningen wordt verslag gedaan van de samenwerking tussen ketenpartners, de ontwikkelingen in de keten werk en inkomen en de voortgang van de uitvoering van het ketenprogramma. Het jaarplan vormt hierbij het uitgangspunt. Per speerpunt wordt aangegeven in welke mate de doelstellingen zijn gerealiseerd en wat de onderliggende analyse is bij afwijkingen in de realisatie. In dat geval wordt verder aangegeven welke aanvullende maatregelen door BKWI zijn genomen om de doelstellingen alsnog te realiseren.
+UWV gaat in op welke wijze risico’s binnen het organisatieonderdeel BKWI zijn geanalyseerd, hoe wordt omgegaan met risico’s en hoe risico’s worden gemanaged.
 
 **Risicomanagement**
 
@@ -4778,11 +4780,11 @@ Het e-gegevenstransport wordt, voor zover dit tussen en over organisaties binnen
 
 ### 3. Ontwikkelingen grote projecten en projecten ter invoering van nieuwe wet- en regelgeving
 
-### 5c). Totstandkoming niet-financiële informatie (kwaliteit)
-
-### 5c). Totstandkoming niet-financiële informatie (kwaliteit)
-
 ### 5d). Financieel Beheer
+
+### 5c). Totstandkoming niet-financiële informatie (kwaliteit)
+
+### 5e). Overige aspecten van de bedrijfsvoering
 
 ### 5d). Financieel Beheer
 
@@ -4792,35 +4794,35 @@ Het e-gegevenstransport wordt, voor zover dit tussen en over organisaties binnen
 
 ### **Risicomanagement**
 
-### **Raad van Bestuur en Raad van Advies**
+### 7. Uitvoeringskosten
 
 ### 10.6.2. Lasten wettelijke taken naar wet
 
 ### 10.6.4. Uitvoeringskosten naar wet
 
-De accountant onderzoekt de verantwoording die de Raad van Bestuur van UWV op grond van de Regeling SUWI heeft uitgebracht. De controleverklaring en het verslag van bevindingen zijn nader geregeld in [artikel 5.10b t/m e](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&hoofdstuk=5&paragraaf=5.1b&artikel=5.10b&z=2015-09-25&g=2016-01-01) en [bijlage XXII](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&bijlage=XXII&z=2015-09-25&g=2016-01-01) van de Regeling SUWI.
+In deze bijlage zijn de diverse producten gespecificeerd die de SVB periodiek aan SZW dient te verstrekken op grond van [artikel 5.3](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&hoofdstuk=5&paragraaf=5.1&artikel=5.3&z=2016-01-30&g=2016-01-30), [5.4](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&hoofdstuk=5&paragraaf=5.1&artikel=5.4&z=2016-01-30&g=2016-01-30), [5.10a](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&hoofdstuk=5&paragraaf=5.1&artikel=5.10a&z=2016-01-30&g=2016-01-30) en [5.12](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&hoofdstuk=5&paragraaf=5.2&sub-paragraaf=5.2.1&artikel=5.12&z=2016-01-30&g=2016-01-30) van de Regeling SUWI. Het betreft de volgende producten:
 
-De concept aansluitingstabel UWV – SZW wordt samen met het jaarverslag UWV naar het Ministerie van Sociale Zaken en Werkgelegenheid gestuurd. De definitieve aansluitingstabel, plus controleverklaring, wordt een week later opgeleverd. De aansluitingstabel UWV – SZW valt onder de accountantscontrole door het UWV. De door UWV te leveren items in de tabel worden schriftelijk door het Ministerie van SZW aan UWV kenbaar gemaakt.
+Met de **fondsennota’s** verstrekt de SVB informatie over de volumegegevens, baten en lasten en de vermogenspositie van de door haar beheerde fondsen. De fondsennota’s worden respectievelijk uiterlijk 1 februari, 1 maart en 1 juli opgeleverd
 
-Ten behoeve van het SZW-jaarverslag verstrekt UWV jaarlijks VBTB-informatie
+In de hierna volgende tabel worden de onderwerpen benoemd, die in de diverse producten van de P&C cyclus aan de orde dienen te komen. Daaronder volgt, per onderwerp, een nadere toelichting.
 
-### 5d). Financieel Beheer
+### 8. Investeringen per categorie
 
-### 5e). Overige aspecten van de bedrijfsvoering
+### 10. Jaarrekening
 
 ### 6. Governance
 
-De accountant onderzoekt de verantwoording die de Raad van Bestuur van de SVB op grond van de Regeling SUWI heeft uitgebracht. De controleverklaring en het verslag van bevindingen zijn nader geregeld in [artikel 5.10b t/m e](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&hoofdstuk=5&paragraaf=5.1b&artikel=5.10b&z=2013-07-10&g=2013-07-10) en [bijlage XXII](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&bijlage=XXII&z=2013-07-10&g=2013-07-10) van de Regeling SUWI.
+Over de levering van de periodieke kwantitatieve informatie per wet, de maandelijkse kerncijfers, de rapportage handhaving SVB en de statistische jaarrapportages worden jaarlijks bilaterale afspraken gemaakt.
 
 In verband met de versnelling van de verantwoording is het toegestaan het handelen in het verslagjaar te koppelen aan een jaarschijveninterpretatie. De te hanteren jaarschijf mag niet ouder zijn dan 3 maanden ten opzichte van het kalenderjaar waarop de verantwoording betrekking heeft. Indien de jaarschijven worden aangepast dan dient dit in de jaarrekening te worden vermeld evenals de vergelijkende cijfers. Met betrekking tot de premiebaten is het toegestaan als waarderingsgrondslag de EMU-definitie te hanteren (één maand verschoven kasbasis).
 
-### 3. **Ontwikkelingen grote projecten en projecten ter invoering van nieuwe wet- en regelgeving**
+### 5. Bedrijfsvoering
 
-### Planning & control producten van IB
+### 5a). Rechtmatigheid
 
 ### 4. Ketensamenwerking
 
-### 5. Bedrijfsvoering
+### 7. Uitvoeringskosten
 
 ### [ZW](https://wetten.overheid.nl/jci1.3:c:BWBR0001888)
 
@@ -4828,7 +4830,7 @@ In verband met de versnelling van de verantwoording is het toegestaan het handel
 
 ### 5b). Doelmatigheid
 
-### 6. **Governance**
+### 9. Overzicht t.b.v. bevoorschotting/afrekening
 
 ### 5c). Totstandkoming niet-financiële informatie
 
@@ -4850,7 +4852,7 @@ Het IB doet jaarlijks verslag van de bestuurskosten van de leden van het Bestuur
 
 De accountant onderzoekt de verantwoording die het management van IB op grond van de Regeling SUWI heeft uitgebracht. De controleverklaring en het verslag van bevindingen zijn nader geregeld in [artikel 5.10b t/m e](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&hoofdstuk=5&paragraaf=5.1b&artikel=5.10b&z=2013-07-10&g=2013-07-10) en [bijlage XXII](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&bijlage=XXII&z=2013-07-10&g=2013-07-10) van de Regeling SUWI.
 
-De indeling in categorieën volgt [Titel 9 Boek 2 Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&titeldeel=9).
+(n.v.t.)
 
 De RWI gaat op hoofdlijnen in op de bevindingen van de Inspectie Werk en Inkomen en de Algemene Rekenkamer en op de naar aanleiding van deze bevindingen genomen maatregelen.
 
@@ -4862,7 +4864,7 @@ IB rapporteert op dit punt over belangrijke personeelsaangelegenheden, waaronder
 
 Wat betreft de omvang van de egalisatiereserve zal worden aangesloten bij de richtlijn voor baten/lastendiensten, te weten 5% van het gemiddelde van de jaarbudgetten van de afgelopen 3 jaar. Bij de reactie op het jaarverslag over jaar t wordt door SZW de maximale omvang van de egalisatiereserve voor het jaar t+1 vastgesteld op basis van het gemiddelde van de vastgestelde jaarbudgetten van jaar t-2, t-1 en t.
 
-### 19. **Bedrijfsvoering**
+### 4. Ketensamenwerking
 
 ### 5b). **Doelmatigheid**
 
@@ -4872,17 +4874,17 @@ Wat betreft de omvang van de egalisatiereserve zal worden aangesloten bij de ric
 
 ### 5d). Financieel Beheer
 
-In de bedrijfsvoeringsparagraaf gaat UWV in op de sturing en beheersing van de bedrijfsprocessen binnen BKWI. Het doel is aan te geven in welke mate het management van BKWI haar bedrijfsprocessen beheerst. In de bedrijfsvoeringsparagraaf legt UWV, mede gebaseerd op risicoanalyse, verantwoording af over de bedrijfsvoering van BKWI. De bedrijfsvoeringsparagraaf bestaat tenminste uit de volgende onderdelen:
+In de toelichting wordt onder andere ingegaan op:
 
-UWV gaat in op welke wijze risico’s binnen het organisatieonderdeel BKWI zijn geanalyseerd, hoe wordt omgegaan met risico’s en hoe risico’s worden gemanaged.
+BKWI doet jaarlijks verslag van de bezoldiging van de leden van de Raad van Bestuur ([artikel 5 vierde lid Wet SUWI](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&artikel=5)), en van de topinkomens op basis van de [Wet openbaarmaking uit financiële middelen gefinancierde topinkomens](https://wetten.overheid.nl/jci1.3:c:BWBR0019562) (WOPT).
 
 De wijze waarop UWV ten aanzien van BKWI verantwoording dient af te leggen over de rechtmatigheid in het jaarverslag en de jaarrekening, alsmede de wijze waarop de accountant zijn controlewerkzaamheden dient te verrichten, zijn nader uitgewerkt in de [artikelen 5.10b t/m 5.10e](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&hoofdstuk=5&paragraaf=5.1b&artikel=5.10b&z=2015-09-25&g=2016-01-01) van de Regeling SUWI en met name in de daarbij behorende toelichting.
 
-**Bestuurskosten**
+De indeling in categorieën volgt [Titel 9 Boek 2 Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&titeldeel=9).
 
 ### 9. Overzicht t.b.v. bevoorschotting/afrekening
 
-### Accountantsverklaring en verslag van bevindingen
+### CONTROLEVERKLARING van de onafhankelijke accountant
 
 ## Bijlage IX
 
@@ -5408,7 +5410,7 @@ Voorliggende bijlage richt zich, vanuit ketenperspectief, op het realiseren van 
 
 ### 3. **Ontwikkelingen grote projecten en projecten ter invoering van nieuwe wet- en regelgeving**
 
-### **5a) Rechtmatigheid**
+### 5b). Doelmatigheid
 
 ### **5c) Totstandkoming niet-financiële informatie (kwaliteit)**
 
@@ -5426,11 +5428,11 @@ Voorliggende bijlage richt zich, vanuit ketenperspectief, op het realiseren van 
 
 In de toelichting op de jaarrekening wordt onder andere ingegaan op:
 
-Het jaarplan gaat in op de volgende vragen:
+In het tussentijdse verslag en het jaarverslag doet IB verslag van de uitvoering van het beleid en de geleverde prestaties. Het jaarplan en de daarin opgenomen prestatie-indicatoren vormen hierbij het uitgangspunt. De uitkomsten van de prestatie-indicatoren worden, voorzien van een toelichting, samen met de normen/streefwaarden per wet verantwoord. Indien van toepassing beschrijft IB zoveel als mogelijk de eigen bijdrage aan het behalen van de doelstellingen en geeft een verklaring als doelstellingen niet worden gehaald en de verbetermaatregelen die zijn/worden genomen. Bij klantgerichtheid wordt specifiek ingegaan op o.a. klachtenafhandeling, bereikbaarheid en klanttevredenheid.
 
-### 8. **Investeringen per categorie**
+### Controleverklaring en verslag van bevindingen
 
-### 6. Governance
+### Egalisatiereserve
 
 ## Bijlage VIII. , bedoeld in de [artikelen 5.3](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&hoofdstuk=5&paragraaf=5.1&artikel=5.3&z=2009-01-01&g=2009-06-12), [5.4](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&hoofdstuk=5&paragraaf=5.1&artikel=5.4&z=2009-01-01&g=2009-06-12), [5.10a](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&hoofdstuk=5&paragraaf=5.1&artikel=5.10a&z=2009-01-01&g=2009-06-12) en [5.12](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&hoofdstuk=5&paragraaf=5.2&sub-paragraaf=5.2.1&artikel=5.12&z=2009-01-01&g=2009-06-12) van de Regeling SUWI
 
@@ -5438,11 +5440,11 @@ Het jaarplan gaat in op de volgende vragen:
 
 ### 5a). **Rechtmatigheid**
 
-### 5b). **Doelmatigheid**
+### 5a). Rechtmatigheid
 
-### 5c). **Totstandkoming niet-financiële informatie**
+### 5b). Doelmatigheid
 
-### 5d). **Financieel Beheer**
+### 5c). Totstandkoming niet-financiële informatie
 
 ### 3. Ontwikkelingen grote projecten en projecten ter invoering van nieuwe wet- en regelgeving
 
@@ -5784,15 +5786,15 @@ Vervallen
 
 ### 6. Governance
 
-### 10. **Jaarrekening**
+### 10.4. Balans UWV per 31 december
 
-### 5e). Overige aspecten van de bedrijfsvoering
+### 9. Overzicht t.b.v. bevoorschotting/afrekening
 
-In deze bijlage zijn de informatieproducten gespecificeerd die IB periodiek aan SZW dient te verstrekken op grond van [artikel 5.3](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&hoofdstuk=5&paragraaf=5.1&artikel=5.3&z=2015-04-30&g=2015-05-01) en [5.10a](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&hoofdstuk=5&paragraaf=5.1&artikel=5.10a&z=2015-04-30&g=2015-05-01) van de Regeling SUWI. Het betreft de volgende producten:
+De wijze waarop IB verantwoording dient af te leggen over de rechtmatigheid in het jaarverslag en de jaarrekening, alsmede de wijze waarop de accountant zijn controlewerkzaamheden dient te verrichten, zijn nader uitgewerkt in de [artikelen 5.10b t/m 5.10e](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&hoofdstuk=5&paragraaf=5.1b&artikel=5.10b&z=2016-01-30&g=2016-01-30) van de Regeling SUWI en met name in de daarbij behorende toelichting.
 
 ## Bijlage VIII. , bedoeld in de [artikelen 5.3](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&hoofdstuk=5&paragraaf=5.1&artikel=5.3&z=2010-01-01&g=2010-01-01), [5.4](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&hoofdstuk=5&paragraaf=5.1&artikel=5.4&z=2010-01-01&g=2010-01-01), [5.10a](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&hoofdstuk=5&paragraaf=5.1&artikel=5.10a&z=2010-01-01&g=2010-01-01) en [5.12](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&hoofdstuk=5&paragraaf=5.2&sub-paragraaf=5.2.1&artikel=5.12&z=2010-01-01&g=2010-01-01) van de Regeling SUWI
 
-### 5a). **Rechtmatigheid**
+### 5. Bedrijfsvoering
 
 ### Legenda
 
@@ -5868,19 +5870,19 @@ Vervallen
 
 ### 2. Ontwikkelingen wetsuitvoering en andere taken
 
-### 10.4. Toelichting op de resultatenrekening UWV
+### 10.6.1. Premiebaten per fonds
 
-### 10.1. **Grondslagen waardering en resultaatbepaling**
+### 10.6.4. Overige baten en lasten
 
-### 10.3. **Staat van baten en lasten UWV**
+### 10.6.7. Toelichting uitvoeringskosten per kostensoort
 
-### 10.4. **Toelichting op de staat van baten en lasten UWV**
+### 10.6.8. Nog te verrekenen rijksbijdragen
 
 ### 10.4.1. **Baten wettelijke taken naar wet**
 
 ### 10.4.3. **Uitvoeringskosten naar kostensoort**
 
-### 10.3. Bestemmingsfonds frictiekosten
+### 11. Aansluitingstabel jaarrekeningen UWV – SZW
 
 ## Bijlage VIII. behorende bij de [artikelen 5.3](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&hoofdstuk=5&paragraaf=5.1&artikel=5.3&z=2013-07-10&g=2013-07-01), [5.4](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&hoofdstuk=5&paragraaf=5.1&artikel=5.4&z=2013-07-10&g=2013-07-01), [5.10a](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&hoofdstuk=5&paragraaf=5.1&artikel=5.10a&z=2013-07-10&g=2013-07-01) en [5.12](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&hoofdstuk=5&paragraaf=5.2&sub-paragraaf=5.2.1&artikel=5.12&z=2013-07-10&g=2013-07-01) van de Regeling SUWI
 
@@ -5942,13 +5944,13 @@ De bijlagen III tot en met XVI liggen met ingang van 1 januari 2002 ter inzage i
 
 ### **Legenda**
 
-### **5b) Doelmatigheid**
+### 5c). Totstandkoming niet-financiële informatie (kwaliteit)
 
-### 10.4.1. Baten wettelijke taken naar wet
+### 10.6.2. Rijksbijdragen per fonds
 
-### 10.1. **Grondslagen waardering en resultaatbepaling**
+### 10.6.3. Lasten wettelijke taken naar wet en fonds
 
-### 10.1. **Grondslagen waardering en resultaatbepaling**
+### 10.6.5. Uitvoeringskosten naar wet
 
 ## Bijlage VIII. behorende bij de [artikelen 5.3](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&hoofdstuk=5&paragraaf=5.1&artikel=5.3&z=2015-09-25&g=2016-01-01), [5.4](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&hoofdstuk=5&paragraaf=5.1&artikel=5.4&z=2015-09-25&g=2016-01-01), [5.10a](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&hoofdstuk=5&paragraaf=5.1&artikel=5.10a&z=2015-09-25&g=2016-01-01) en [5.12](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&hoofdstuk=5&paragraaf=5.2&sub-paragraaf=5.2.1&artikel=5.12&z=2015-09-25&g=2016-01-01) van de Regeling SUWI
 
@@ -6038,13 +6040,13 @@ Deze regeling zal met de toelichting en de bijlagen, met uitzondering van de bij
 
 De bijlagen III tot en met XVI liggen met ingang van 1 januari 2002 ter inzage in de bibliotheek van het Ministerie van Sociale Zaken en Werkgelegenheid.
 
-### 10.3. Resultatenrekening UWV
+### 10.6. Toelichting op de staat van baten en lasten UWV
 
 ## Bijlage VII
 
 Vervallen
 
-## Bijlage VIII. behorende bij de [artikelen 5.3](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&hoofdstuk=5&paragraaf=5.1&artikel=5.3&z=2012-01-01&g=2012-01-01), [5.4](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&hoofdstuk=5&paragraaf=5.1&artikel=5.4&z=2012-01-01&g=2012-01-01), [5.10a](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&hoofdstuk=5&paragraaf=5.1&artikel=5.10a&z=2012-01-01&g=2012-01-01) en [5.12](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&hoofdstuk=5&paragraaf=5.2&sub-paragraaf=5.2.1&artikel=5.12&z=2012-01-01&g=2012-01-01) van de Regeling SUWI
+## Bijlage VIII. behorende bij de [artikelen 5.3](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&hoofdstuk=5&paragraaf=5.1&artikel=5.3&z=2016-01-30&g=2016-01-30), [5.4](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&hoofdstuk=5&paragraaf=5.1&artikel=5.4&z=2016-01-30&g=2016-01-30), [5.10a](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&hoofdstuk=5&paragraaf=5.1&artikel=5.10a&z=2016-01-30&g=2016-01-30) en [5.12](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&hoofdstuk=5&paragraaf=5.2&sub-paragraaf=5.2.1&artikel=5.12&z=2016-01-30&g=2016-01-30) van de Regeling SUWI
 
 ### 2. Ontwikkelingen wetsuitvoering en andere taken
 
@@ -6058,9 +6060,7 @@ Ligt ter inzage bij het Ministerie van Sociale Zaken en Werkgelegenheid.
 
 ## Bijlage XI. behorende bij de [artikelen 5.3](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&hoofdstuk=5&paragraaf=5.1&artikel=5.3&z=2012-01-01&g=2012-01-01) en [5.10a](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&hoofdstuk=5&paragraaf=5.1&artikel=5.10a&z=2012-01-01&g=2012-01-01) van de Regeling SUWI
 
-## Bijlage XXI
-
-Vervallen
+## Bijlage XXIII. betreffende een nadere toelichting op [artikel 5.10c, achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&hoofdstuk=5&paragraaf=5.1b&artikel=5.10c&z=2016-01-30&g=2016-01-30), en [artikel 5.10e, eerste lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&hoofdstuk=5&paragraaf=5.1b&artikel=5.10e&z=2016-01-30&g=2016-01-30), van de Regeling
 
 ## Bijlage XXII. als bedoeld in [artikel 5.10d, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&hoofdstuk=5&paragraaf=5.1b&artikel=5.10d&z=2012-01-01&g=2012-01-01), van de Regeling SUWI
 
@@ -6136,7 +6136,7 @@ De bijlagen III tot en met XVI liggen met ingang van 1 januari 2002 ter inzage i
 
 ## Bijlage III. bedoeld in [artikel 6.5](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&hoofdstuk=6&paragraaf=6.1&artikel=6.5&z=2015-04-30&g=2015-05-01) van de Regeling SUWI
 
-## Bijlage II. bedoeld in [artikel 6.1](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&hoofdstuk=6&paragraaf=6.1&artikel=6.1&z=2015-09-25&g=2016-01-01) van de Regeling SUWI eenmalige gegevensuitvraag
+## Bijlage II. bedoeld in [artikel 6.1](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&hoofdstuk=6&paragraaf=6.1&artikel=6.1&z=2016-01-30&g=2016-01-30) van de Regeling SUWI eenmalige gegevensuitvraag
 
 |   | Status 31 december 2008 | Uiterlijk 31 december 2009 | Uiterlijk 31 december 2010 | Uiterlijk 31 december 2011 |
 | --- | --- | --- | --- | --- |
@@ -6214,9 +6214,9 @@ De bijlagen III tot en met XVI liggen met ingang van 1 januari 2002 ter inzage i
 
 ¹ Gegevenssoort moet nog nader worden gespecificeerd.
 
-## Bijlage IV. behorende bij [artikel 3.13](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&hoofdstuk=3&paragraaf=3.4&artikel=3.13&z=2015-09-25&g=2016-01-01) van de Regeling SUWI
+## Bijlage IV. behorende bij [artikel 3.13](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&hoofdstuk=3&paragraaf=3.4&artikel=3.13&z=2016-01-30&g=2016-01-30) van de Regeling SUWI
 
-In deze bijlage zijn de gegevens uit de doelgroepregistratie arbeidsbeperkten en de polisadministratie gespecificeerd die het UWV periodiek aan de Minister van Binnenlandse Zaken en Koninkrijksrelaties dient te verstrekken op grond van [artikel 3.13](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&hoofdstuk=3&paragraaf=3.4&artikel=3.13&z=2015-09-25&g=2016-01-01) van de Regeling SUWI.
+In deze bijlage zijn de gegevens uit de doelgroepregistratie arbeidsbeperkten en de polisadministratie gespecificeerd die het UWV periodiek aan de Minister van Binnenlandse Zaken en Koninkrijksrelaties dient te verstrekken op grond van [artikel 3.13](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&hoofdstuk=3&paragraaf=3.4&artikel=3.13&z=2016-01-30&g=2016-01-30) van de Regeling SUWI.
 
 Het betreft de volgende gegevens:
 
@@ -6288,13 +6288,13 @@ De bijlagen III tot en met XVI liggen met ingang van 1 januari 2002 ter inzage i
 
 ##### Artikel 3.13. Gegevensverstrekking aan de Minister van BZK
 
-Het UWV verstrekt periodiek de in [bijlage IV](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&bijlage=IV&z=2015-09-25&g=2016-01-01) vermelde gegevens uit de registratie arbeidsbeperkten, bedoeld in artikel [38d van de Wfsv](https://wetten.overheid.nl/jci1.3:c:BWBR0017745&artikel=38d), en uit de polisadministratie, bedoeld in [artikel 33 van de Wet SUWI](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&artikel=33), aan de Minister van Binnenlandse Zaken en Koninkrijksrelaties voor zover die Minister deze gegevens nodig heeft voor de uitvoering van de [Wet banenafspraak en quotum arbeidsbeperkten](https://wetten.overheid.nl/jci1.3:c:BWBR0036551) voor de sector overheid.
+Het UWV verstrekt periodiek de in [bijlage IV](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&bijlage=IV&z=2016-01-30&g=2016-01-30) vermelde gegevens uit de registratie arbeidsbeperkten, bedoeld in artikel [38d van de Wfsv](https://wetten.overheid.nl/jci1.3:c:BWBR0017745&artikel=38d), en uit de polisadministratie, bedoeld in [artikel 33 van de Wet SUWI](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&artikel=33), aan de Minister van Binnenlandse Zaken en Koninkrijksrelaties voor zover die Minister deze gegevens nodig heeft voor de uitvoering van de [Wet banenafspraak en quotum arbeidsbeperkten](https://wetten.overheid.nl/jci1.3:c:BWBR0036551) voor de sector overheid.
 
 #### § 5.2. Informatievoorziening
 
 ### **Inleiding**
 
-## Bijlage III. bedoeld in [artikel 6.5](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&hoofdstuk=6&paragraaf=6.1&artikel=6.5&z=2015-09-25&g=2016-01-01) van de Regeling SUWI
+## Bijlage III. bedoeld in [artikel 6.5](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&hoofdstuk=6&paragraaf=6.1&artikel=6.5&z=2016-01-30&g=2016-01-30) van de Regeling SUWI
 
 ## Bijlage VII
 
@@ -6313,3 +6313,19 @@ Vervallen
 Deze regeling zal met de toelichting en de bijlagen, met uitzondering van de bijlagen III tot en met XVI, in de Staatscourant worden geplaatst.
 
 De bijlagen III tot en met XVI liggen met ingang van 1 januari 2002 ter inzage in de bibliotheek van het Ministerie van Sociale Zaken en Werkgelegenheid.
+
+## Bijlage IX
+
+Ligt ter inzage bij het Ministerie van Sociale Zaken en Werkgelegenheid.
+
+## Bijlage X
+
+Vervallen
+
+## Bijlage XI. behorende bij de [artikelen 5.3](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&hoofdstuk=5&paragraaf=5.1&artikel=5.3&z=2016-01-30&g=2016-01-30) en [5.10a](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&hoofdstuk=5&paragraaf=5.1&artikel=5.10a&z=2016-01-30&g=2016-01-30) van de Regeling SUWI
+
+## Bijlage XXI
+
+Vervallen
+
+## Bijlage XXII. als bedoeld in [artikel 5.10d, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&hoofdstuk=5&paragraaf=5.1b&artikel=5.10d&z=2016-01-30&g=2016-01-30), van de Regeling SUWI
