@@ -4,7 +4,7 @@ identifier: "BWBR0006728"
 country: "nl"
 rank: "amvb"
 publication_date: "2024-03-30"
-last_updated: "2013-01-01"
+last_updated: "2016-02-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0006728"
 soort: "AMvB"
@@ -112,7 +112,7 @@ Vervallen
 
 ##### Artikel 10
 
-Onverminderd [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006728&artikel=2&z=2013-01-01&g=2013-01-01), kan de commissaris een ieder belast met bevoegdheden in de openbare dienst in de provincie verzoeken om bericht en raad, voor zover hij dat nodig acht in verband met de hem bij deze instructie opgedragen taken. Aan deze verzoeken dient te worden voldaan.
+Onverminderd [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006728&artikel=2&z=2016-02-01&g=2016-02-01), kan de commissaris een ieder belast met bevoegdheden in de openbare dienst in de provincie verzoeken om bericht en raad, voor zover hij dat nodig acht in verband met de hem bij deze instructie opgedragen taken. Aan deze verzoeken dient te worden voldaan.
 
 ##### Artikel 11
 
@@ -136,24 +136,50 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 1. De commissaris overlegt met het regionaal beleidsteam, alvorens een aanwijzing te geven als bedoeld in [artikel 41 van de Wet veiligheidsregio’s](https://wetten.overheid.nl/jci1.3:c:BWBR0027466&artikel=41).
 
-2. De commissaris stelt Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties onverwijld in kennis van een gegeven aanwijzing.
+2. De commissaris stelt Onze Minister van Veiligheid en Justitie onverwijld in kennis van een gegeven aanwijzing.
 
 ##### Artikel 5b
 
-De commissaris zendt zijn oordeel over het bestreden besluit, bedoeld in [artikel 40, vijfde lid, van de Wet veiligheidsregio’s](https://wetten.overheid.nl/jci1.3:c:BWBR0027466&artikel=40), alsmede de stukken, bedoeld in het eerste en tweede lid van dat artikel, binnen zes weken na de ontvangst van het standpunt van de raad over dat besluit aan Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties.
+De commissaris zendt zijn oordeel over het bestreden besluit, bedoeld in [artikel 40, vijfde lid, van de Wet veiligheidsregio’s](https://wetten.overheid.nl/jci1.3:c:BWBR0027466&artikel=40), alsmede de stukken, bedoeld in het eerste en tweede lid van dat artikel, binnen zes weken na de ontvangst van het standpunt van de raad over dat besluit aan Onze Minister van Veiligheid en Justitie.
 
 ##### Artikel 5c
 
-1. Tenzij de vereiste spoed zich daartegen verzet, geeft de commissaris geen aanwijzing als bedoeld in [artikel 42 van de Wet veiligheidsregio’s](https://wetten.overheid.nl/jci1.3:c:BWBR0027466&artikel=42) dan na overleg met Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties.
+1. Tenzij de vereiste spoed zich daartegen verzet, geeft de commissaris geen aanwijzing als bedoeld in [artikel 42 van de Wet veiligheidsregio’s](https://wetten.overheid.nl/jci1.3:c:BWBR0027466&artikel=42) dan na overleg met Onze Minister van Veiligheid en Justitie.
 
-2. De commissaris geeft onverwijld uitvoering aan een verzoek van Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties tot het geven van een aanwijzing als bedoeld in [artikel 42 van de Wet veiligheidsregio’s](https://wetten.overheid.nl/jci1.3:c:BWBR0027466&artikel=42).
+2. De commissaris geeft onverwijld uitvoering aan een verzoek van Onze Minister van Veiligheid en Justitie tot het geven van een aanwijzing als bedoeld in [artikel 42 van de Wet veiligheidsregio’s](https://wetten.overheid.nl/jci1.3:c:BWBR0027466&artikel=42).
 
 ##### Artikel 5d
 
 1. Indien uit een rapportage van de Inspectie Openbare Orde en Veiligheid blijkt dat de taakuitvoering in een veiligheidsregio tekortschiet, ziet de commissaris er op toe dat het bestuur van de veiligheidsregio passende maatregelen neemt om de tekortkomingen weg te nemen.
 
-2. De commissaris geeft geen aanwijzing als bedoeld in [artikel 59 van de Wet veiligheidsregio’s](https://wetten.overheid.nl/jci1.3:c:BWBR0027466&artikel=59) dan na instemming van Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties.
+2. De commissaris geeft geen aanwijzing als bedoeld in [artikel 59 van de Wet veiligheidsregio’s](https://wetten.overheid.nl/jci1.3:c:BWBR0027466&artikel=59) dan na instemming van Onze Minister van Veiligheid en Justitie.
 
-3. De commissaris geeft uitvoering aan een verzoek van Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties tot het geven van een aanwijzing als bedoeld in [artikel 59 van de Wet veiligheidsregio’s](https://wetten.overheid.nl/jci1.3:c:BWBR0027466&artikel=59).
+3. De commissaris geeft uitvoering aan een verzoek van Onze Minister van Veiligheid en Justitie tot het geven van een aanwijzing als bedoeld in [artikel 59 van de Wet veiligheidsregio’s](https://wetten.overheid.nl/jci1.3:c:BWBR0027466&artikel=59).
+
+Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het **Staatsblad** zal worden geplaatst.
+
+##### Artikel 6a
+
+De commissaris bevordert dat de vergadering van de raad waarin de burgemeester de eed (verklaring en belofte) aflegt, plaatsvindt op of zo kort mogelijk na de datum waarop zijn benoeming ingaat.
+
+##### Artikel 6b
+
+De commissaris informeert Onze Minister over ontheffingen als bedoeld in [artikel 69, eerste lid, van de Gemeentewet](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&artikel=69), in zijn periodieke rapportage, tenzij naar zijn oordeel betrokkenheid van Onze Minister noodzakelijk is alvorens op een concreet verzoek te besluiten.
+
+##### Artikel 6c
+
+De commissaris informeert Onze Minister over ontheffingen als bedoeld in [artikel 71, derde lid, van de Gemeentewet](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&artikel=71) in zijn periodieke rapportage, tenzij naar zijn oordeel betrokkenheid van Onze Minister noodzakelijk is alvorens op een concreet verzoek te besluiten.
+
+##### Artikel 6d
+
+De commissaris informeert Onze Minister over toestemmingen als bedoeld in [artikel 72, eerste lid, van de Gemeentewet](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&artikel=72) in zijn periodieke rapportage, tenzij naar zijn oordeel betrokkenheid van Onze Minister noodzakelijk is alvorens op een concreet verzoek te besluiten.
+
+##### Artikel 6e
+
+De commissaris brengt een voornemen tot benoeming van een waarnemend burgemeester ter kennis van Onze Minister.
+
+##### Artikel 7b
+
+De commissaris informeert Onze Minister bij verstoorde bestuurlijke verhoudingen in een gemeente en wanneer de bestuurlijke integriteit van een gemeente in het geding is. Hij informeert Onze Minister daarbij tevens over de maatregelen die hij ter zake neemt.
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het **Staatsblad** zal worden geplaatst.
