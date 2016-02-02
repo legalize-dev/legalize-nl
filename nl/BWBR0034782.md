@@ -4,7 +4,7 @@ identifier: "BWBR0034782"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2024-01-01"
-last_updated: "2015-07-08"
+last_updated: "2016-02-02"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0034782"
 soort: "ministeriele-regeling"
@@ -90,7 +90,7 @@ BESLUIT:
 
 - 4°. via verkoop op afstand elektrische en elektronische apparatuur rechtstreeks verkoopt aan particuliere huishoudens of aan andere gebruikers dan particuliere huishoudens in Nederland, en is gevestigd in een ander land dan Nederland;
 
-- q. **richtlijn nr. 2012/19/EU:** [richtlijn nr. 2012/19](32012L0019)/EU van het Europees Parlement en de Raad van 4 juli 2012 betreffende afgedankte elektrische en elektronische apparatuur (AEEA) (herschikking) (PbEU 2012, L 197).
+- q. **richtlijn nr. 2012/19/EU:** richtlijn 2012/19/EU van het Europees Parlement en de Raad van 4 juli 2012 betreffende afgedankte elektrische en elektronische apparatuur (AEEA) (herschikking) (PbEU 2012, L 197).
 
 2. Voor de toepassing van deze regeling wordt verstaan onder:
 
@@ -98,7 +98,7 @@ BESLUIT:
 
 - **NEN-EN 50574:** NEN-EN 50574:2012 en: Nederlandse norm voor Levensduureisen voor huishoudelijke toestellen die vluchtige fluorkoolstof of vluchtige koolwaterstof bevatten, juni 2012;
 
-- **WEEELABEX Treatment:** WEEELABEX normative document on Treatment V9.0, mei 2011.
+- **WEEELABEX Standard:** WEEELABEX Standard on Treatment v10 of een latere geldende versie van de WEEELABEX Standard on Treatment die is vastgesteld en uitgegeven door de WEEELABEX Organisatie te Praag, Tsjechië, met als doel een kwalitatief hoogwaardige verwerking van afgedankte en elektronische apparatuur volgens die standaard.
 
 ##### Artikel 2. Toepassingsgebied
 
@@ -140,7 +140,11 @@ BESLUIT:
 
 ##### Artikel 4. Innameplicht distributeur bij ter beschikking stellen nieuwe producten
 
-Een distributeur neemt bij het ter beschikking stellen van een nieuw apparaat een afgedankt apparaat, zijnde afgedankte elektrische en elektronische apparatuur van particuliere huishoudens, van een gelijkwaardig type dat dezelfde functies heeft als het geleverde apparaat, dat hem wordt aangeboden, ten minste om niet in en wijst voordat koop en betaling van dat apparaat hebben plaatsgevonden, duidelijk zichtbaar op deze mogelijkheid.
+1. Een distributeur neemt bij het ter beschikking stellen van een nieuw apparaat een afgedankt apparaat, zijnde afgedankte elektrische en elektronische apparatuur van particuliere huishoudens, van een gelijkwaardig type dat dezelfde functies heeft als het geleverde apparaat, dat hem wordt aangeboden, ten minste om niet in en wijst voordat koop en levering van dat apparaat hebben plaatsgevonden, duidelijk zichtbaar op deze mogelijkheid.
+
+2. Indien een nieuw apparaat bij verkoop op afstand na verzending ter beschikking wordt gesteld, zorgt de distributeur ervoor dat een afgedankt apparaat als bedoeld in het eerste lid bij aflevering van een nieuw apparaat om niet wordt ingenomen, binnen een redelijke termijn wordt opgehaald of door de consument kan worden verzonden naar de distributeur of de ontvanger die het apparaat namens de distributeur in ontvangst neemt. Hij wijst de consument duidelijk zichtbaar op deze mogelijkheden voordat koop en voordat levering van het apparaat hebben plaatsgevonden.
+
+3. In afwijking van het tweede lid geldt de daarin genoemde optie van verzending door de consument naar de distributeur of de ontvanger niet voor grotere apparatuur als bedoeld in bijlage III, onderdeel 1, 2 of 4, van richtlijn nr. 2012/19/EU, tenzij de consument hiervoor uitdrukkelijk kiest en deze optie door de distributeur mogelijk wordt gemaakt.
 
 ##### Artikel 5. Innameplicht detailhandelszaken met grotere verkoopoppervlakken elektrische en elektronische apparatuur
 
@@ -150,15 +154,15 @@ Een distributeur neemt bij het ter beschikking stellen van een nieuw apparaat ee
 
 ##### Artikel 6. Mogelijkheid producenten opzetten eigen innamesysteem voor afgedankte elektrische en elektronische apparatuur van particulieren
 
-Onverminderd de [artikelen 3 tot en met 5](https://wetten.overheid.nl/jci1.3:c:BWBR0034782&artikel=3&z=2015-07-08&g=2015-07-08), mogen producenten innamesystemen voor afgedankte elektrische en elektronische apparatuur van particuliere huishoudens invoeren en exploiteren mits deze systemen in overeenstemming zijn met de doelstellingen van [richtlijn nr. 2012/19](32012L0019)/EU.
+Onverminderd de [artikelen 3 tot en met 5](https://wetten.overheid.nl/jci1.3:c:BWBR0034782&artikel=3&z=2016-02-02&g=2016-02-02), mogen producenten innamesystemen voor afgedankte elektrische en elektronische apparatuur van particuliere huishoudens invoeren en exploiteren mits deze systemen in overeenstemming zijn met de doelstellingen van [richtlijn nr. 2012/19](32012L0019)/EU.
 
 ##### Artikel 7. Weigeren inname verontreinigde afgedankte elektrische en elektronische apparatuur
 
-De inzameling en het achterlaten, bedoeld in de [artikelen 3 tot en met 5](https://wetten.overheid.nl/jci1.3:c:BWBR0034782&artikel=3&z=2015-07-08&g=2015-07-08), kan worden geweigerd indien de afgedankte elektrische en elektronische apparatuur bij gebruik is verontreinigd en daardoor een risico voor de gezondheid of veiligheid oplevert voor medewerkers van degene die inneemt.
+De inzameling en het achterlaten, bedoeld in de [artikelen 3 tot en met 5](https://wetten.overheid.nl/jci1.3:c:BWBR0034782&artikel=3&z=2016-02-02&g=2016-02-02), kan worden geweigerd indien de afgedankte elektrische en elektronische apparatuur bij gebruik is verontreinigd en daardoor een risico voor de gezondheid of veiligheid oplevert voor medewerkers van degene die inneemt.
 
 ##### Artikel 8. Gescheiden inzameling afgedankte elektrische en elektronische apparatuur van andere dan particuliere huishoudens
 
-Onverminderd [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0034782&artikel=14&z=2015-07-08&g=2015-07-08) draagt een producent zorg voor de gescheiden inzameling van afgedankte door hem in de handel gebrachte elektrische en elektronische apparatuur, niet zijnde afgedankte elektrische en elektronische apparatuur van particuliere huishoudens.
+Onverminderd [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0034782&artikel=14&z=2016-02-02&g=2016-02-02) draagt een producent zorg voor de gescheiden inzameling van afgedankte door hem in de handel gebrachte elektrische en elektronische apparatuur, niet zijnde afgedankte elektrische en elektronische apparatuur van particuliere huishoudens.
 
 ##### Artikel 9. Vervoer en voorbereiding voor hergebruik van ingezamelde afgedankte elektrische en elektronische apparatuur
 
@@ -192,13 +196,15 @@ Een producent draagt er zorg voor dat:
 
 - c. de verwerking van de ingenomen afgedankte elektrische en elektronische apparatuur geschiedt volgens de technische voorschriften van bijlage VIII van [richtlijn nr. 2012/19](32012L0019)/EU, en
 
-- d. ingenomen afgedankte elektrische en elektronische apparatuur wordt vanaf 1 juli 2015 verwerkt volgens WEEELABEX Treatment.
+- d. ingenomen afgedankte elektrische en elektronische apparatuur vanaf 1 juli 2015 wordt verwerkt volgens de WEEELABEX Standard, hetgeen in ieder geval wordt aangetoond met een conformiteitsverklaring die aangeeft dat gewerkt wordt overeenkomstig de WEEELABEX Standard.
 
 3. In afwijking van het tweede lid, onder d, worden afgedankte huishoudelijke toestellen die vluchtige fluorkoolstoffen of vluchtige koolwaterstoffen bevatten verwerkt volgens NEN-EN 50574.
 
-4. Degene die ingezamelde afgedankte elektrische en elektronische apparatuur naar een ander land overbrengt draagt er zorg voor en toont voorafgaand aan de overbrenging aan dat deze passend zal worden verwerkt onder voorwaarden die gelijkwaardig zijn aan het tweede lid of voldoet aan de minimumvoorschriften bedoeld in bijlage VI van [richtlijn nr. 2012/19](32012L0019)/EU.
+4. Degene die ingezamelde afgedankte elektrische en elektronische apparatuur naar een ander land overbrengt draagt er zorg voor en toont voorafgaand aan de overbrenging aan dat deze passend zal worden verwerkt onder voorwaarden die gelijkwaardig zijn aan het tweede lid.
 
-5. Documenten inzake de overbrenging bedoeld in het vierde lid worden door degene die ingezamelde elektrische en elektronische apparatuur doet overbrengen, ten minste vijf jaar bewaard.
+5. De houder die gebruikte elektrische of elektronische apparatuur, waarvan vermoed wordt dat het afgedankte elektrische of elektronische apparatuur is, naar een ander land overbrengt of voornemens is over te brengen, draagt er zorg voor en toont aan dat hij voldoet aan de minimumvoorschriften, bedoeld in bijlage VI van [richtlijn nr. 2012/19](32012L0019)/EU.
+
+6. Documenten die betrekking hebben op de overbrenging, bedoeld in het vierde en vijfde lid, worden door degene die ingezamelde elektrische en elektronische apparatuur doet overbrengen, ten minste vijf jaar bewaard.
 
 ##### Artikel 12. Vergunningen
 
@@ -210,7 +216,7 @@ Het bevoegd gezag verbindt zodanige voorschriften aan een omgevingsvergunning vo
 
 2. Een producent die op de markt aanwezig is op het moment waarop de kosten ontstaan van het beheer van afgedankte elektrische en elektronische apparatuur van particuliere huishoudens welke apparatuur op of voor 13 augustus 2005 in de handel is gebracht, draagt zorg voor de financiering van het beheer van die afgedankte apparatuur naar evenredigheid van zijn marktaandeel op het moment waarop de kosten van het afvalbeheer ontstaan.
 
-3. De in het eerste en tweede lid genoemde zorg voor financiering begint bij de afgifte op de in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0034782&artikel=3&z=2015-07-08&g=2015-07-08) bedoelde plaats alsmede bij de in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0034782&artikel=4&z=2015-07-08&g=2015-07-08) genoemde distributeur.
+3. De in het eerste en tweede lid genoemde zorg voor financiering begint bij de afgifte op de in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0034782&artikel=3&z=2016-02-02&g=2016-02-02) bedoelde plaats alsmede bij de in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0034782&artikel=4&z=2016-02-02&g=2016-02-02) genoemde distributeur.
 
 4. Bij het in de handel brengen van elektrische en elektronische apparatuur als bedoeld in het eerste lid stelt de producent een waarborg waaruit blijkt dat de inzameling, verwerking, nuttige toepassing en milieuhygiënisch verantwoorde verwijdering van die apparatuur, wanneer die wordt afgedankt, zal worden gefinancierd overeenkomstig het eerste lid.
 
@@ -312,7 +318,7 @@ Een wijziging van de bijlagen bij [richtlijn nr. 2012/19](32012L0019)/EU gaat vo
 
 ##### Artikel 24
 
-De [Regeling beheer elektrische en elektronische apparatuur](https://wetten.overheid.nl/jci1.3:c:BWBR0017053) wordt ingetrokken met dien verstande dat [artikel 16 van die regeling](https://wetten.overheid.nl/jci1.3:c:BWBR0017053&artikel=16) van toepassing blijft ten aanzien van de resultaten van de uitvoering van de [artikelen 7](https://wetten.overheid.nl/jci1.3:c:BWBR0034782&artikel=7&z=2015-07-08&g=2015-07-08), [8](https://wetten.overheid.nl/jci1.3:c:BWBR0034782&artikel=8&z=2015-07-08&g=2015-07-08), [9](https://wetten.overheid.nl/jci1.3:c:BWBR0034782&artikel=9&z=2015-07-08&g=2015-07-08), [10](https://wetten.overheid.nl/jci1.3:c:BWBR0034782&artikel=10&z=2015-07-08&g=2015-07-08), [11](https://wetten.overheid.nl/jci1.3:c:BWBR0034782&artikel=11&z=2015-07-08&g=2015-07-08), [12](https://wetten.overheid.nl/jci1.3:c:BWBR0034782&artikel=12&z=2015-07-08&g=2015-07-08) en [13](https://wetten.overheid.nl/jci1.3:c:BWBR0034782&artikel=13&z=2015-07-08&g=2015-07-08) alsmede over de hoeveelheid op de markt gebrachte elektrische en elektronische apparatuur in 2013.
+De [Regeling beheer elektrische en elektronische apparatuur](https://wetten.overheid.nl/jci1.3:c:BWBR0017053) wordt ingetrokken met dien verstande dat [artikel 16 van die regeling](https://wetten.overheid.nl/jci1.3:c:BWBR0017053&artikel=16) van toepassing blijft ten aanzien van de resultaten van de uitvoering van de [artikelen 7](https://wetten.overheid.nl/jci1.3:c:BWBR0034782&artikel=7&z=2016-02-02&g=2016-02-02), [8](https://wetten.overheid.nl/jci1.3:c:BWBR0034782&artikel=8&z=2016-02-02&g=2016-02-02), [9](https://wetten.overheid.nl/jci1.3:c:BWBR0034782&artikel=9&z=2016-02-02&g=2016-02-02), [10](https://wetten.overheid.nl/jci1.3:c:BWBR0034782&artikel=10&z=2016-02-02&g=2016-02-02), [11](https://wetten.overheid.nl/jci1.3:c:BWBR0034782&artikel=11&z=2016-02-02&g=2016-02-02), [12](https://wetten.overheid.nl/jci1.3:c:BWBR0034782&artikel=12&z=2016-02-02&g=2016-02-02) en [13](https://wetten.overheid.nl/jci1.3:c:BWBR0034782&artikel=13&z=2016-02-02&g=2016-02-02) alsmede over de hoeveelheid op de markt gebrachte elektrische en elektronische apparatuur in 2013.
 
 ##### Artikel 25
 
