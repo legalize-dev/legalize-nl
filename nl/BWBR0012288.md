@@ -4,7 +4,7 @@ identifier: "BWBR0012288"
 country: "nl"
 rank: "circulaire"
 publication_date: "2026-04-04"
-last_updated: "2016-01-01"
+last_updated: "2016-02-02"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0012288"
 soort: "circulaire"
@@ -151,7 +151,7 @@ De IND beslist na overleg met de Raad voor Rechtsbijstand en het COA op welke da
 
 De IND beslist na overleg met de Raad voor Rechtsbijstand en het COA op welke datum de algemene asielprocedure van de vreemdeling start. De IND deelt de vreemdeling schriftelijk mede op welke datum de algemene asielprocedure van de vreemdeling start.
 
-Het verloop van de algemene asielprocedure is geregeld in de [artikelen 3.112 tot en met 3.115 Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=3.112).
+Het verloop van de algemene asielprocedure is geregeld in de [artikelen 42 Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=42) en [3.112 tot en met 3.115 Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=3.112).
 
 De IND behandelt een aanvraag voor een verblijfsvergunning asiel voor bepaalde tijd in de algemene asielprocedure als geen tijdrovend onderzoek noodzakelijk is voor de beoordeling van de aanvraag.
 
@@ -167,7 +167,7 @@ Het [Vreemdelingenbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0011825) beva
 
 Voor de termijnen van de algemene asielprocedure tellen op grond van [artikel 3.42 VV](https://wetten.overheid.nl/jci1.3:c:BWBR0012002&artikel=3.42) de dagen gedurende het weekend, Goede Vrijdag en blokdagen mee.
 
-Anders dan in de algemene asielprocedure, tellen de dagen gedurende het weekend, Goede Vrijdag en blokdagen niet mee voor de termijnen van de ééndagstoets asiel. Wanneer de behandeling van de tweede of volgende aanvraag op grond van artikel 3.118b, vierde lid Vb wordt voortgezet in de algemene asielprocedure tellen de dagen gedurende het weekend, Goede Vrijdag en blokdagen wel mee.
+Anders dan in de algemene asielprocedure, tellen de dagen gedurende het weekend, Goede Vrijdag en blokdagen niet mee voor de termijnen van de ééndagstoets asiel. Wanneer de behandeling van de tweede of volgende aanvraag op grond van [artikel 3.118b, vierde lid Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=3.118b) wordt voortgezet in de algemene asielprocedure tellen de dagen gedurende het weekend, Goede Vrijdag en blokdagen wel mee.
 
 De termijnen als bedoeld in [artikel 3.110 Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=3.110), [3.112 tot en met 3.115 Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=3.112) en [3.118b vierde, vijfde en zesde lid, Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=3.118b), zijn bindend voor de IND en de vreemdeling.
 
@@ -181,7 +181,7 @@ De IND houdt bij verlenging van de termijnen van de algemene asielprocedure de g
 
 De IND kan besluiten de eerdere processtappen van de algemene asielprocedure opnieuw uit te voeren, als de vreemdeling zijn verklaringen op essentiële onderdelen wijzigt of aanvult.
 
-De IND mag de termijnen in de algemene asielprocedure meerdere keren verlengen, zolang de IND het besluit op de aanvraag voor een verblijfsvergunning asiel voor bepaalde tijd volgens artikel 3.115, zesde lid, Vb uiterlijk op de veertiende, de zestiende of de tweeëntwintigste dag van de algemene asielprocedure uitreikt aan de vreemdeling.
+De IND mag de termijnen in de algemene asielprocedure meerdere keren verlengen, zolang de IND het besluit op de aanvraag voor een verblijfsvergunning asiel voor bepaalde tijd volgens [artikel 3.115, zesde lid, Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=3.115) uiterlijk op de veertiende, de zestiende of de tweeëntwintigste dag van de algemene asielprocedure uitreikt aan de vreemdeling.
 
 De IND past deze beleidsregels bij verlenging van de termijnen op grond van [artikel 3.118b, vijfde lid, Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=3.118b) overeenkomstig toe, met dien verstande dat de IND de beschikking uiterlijk op de twaalfde, de veertiende of de twintigste dag van de algemene asielprocedure uitreikt.
 
@@ -197,11 +197,17 @@ De IND kan de termijnen van de algemene asielprocedure in ieder geval verlengen 
 
 De IND kan de termijnen van de algemene asielprocedure verlengen op grond van [artikel 3.115, eerste lid, aanhef en onder d, Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=3.115), als de IND door de gewijzigde verklaringen van de vreemdeling:
 
-De IND kan de termijnen van de algemene asielprocedure in ieder geval verlengen op grond van [artikel 3.115, eerste lid, aanhef en onder f, Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=3.115), als het medisch onderzoek als bedoeld in artikel 3.109e Vb naar verwachting binnen die verlengde termijnen kan worden afgerond. De IND zal het medisch onderzoek als bedoeld in artikel 3.109e Vb uitvoeren binnen de (verlengde) termijnen van de algemene asielprocedure als dat mogelijk is.
+De IND kan de termijnen van de algemene asielprocedure in ieder geval verlengen op grond van [artikel 3.115, eerste lid, aanhef en onder f, Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=3.115), als het medisch onderzoek als bedoeld in [artikel 3.109e Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=3.109e) naar verwachting binnen die verlengde termijnen kan worden afgerond.
 
-De IND kan de termijnen van de algemene asielprocedure in ieder geval verlengen op grond van [artikel 3.115, eerst lid, aanhef en onder g Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=3.115), als de vreemdeling zich niet heeft gehouden aan de aanwijzingen in model M117-C en/of zonder voorafgaande kennisgeving niet op zijn afspraak in het aanmeldcentrum is verschenen (zie ook paragraaf C1/2.1 Vc onder ‘**Beschikbaarheid tijdens de asielprocedure’**en**paragraaf C1/2.3 ‘Het niet nakomen van de aanwijzingen’**).
+De IND kan de termijnen van de algemene asielprocedure in ieder geval verlengen op grond van [artikel 3.115, eerst lid, aanhef en onder g Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=3.115), als de vreemdeling zich niet heeft gehouden aan de aanwijzingen in [model M117-C](https://wetten.overheid.nl/jci1.3:c:BWBR0012287&bijlage=M117-C) en/of zonder voorafgaande kennisgeving niet op zijn afspraak in het aanmeldcentrum is verschenen (zie ook paragraaf C1/2.1 Vc onder ‘**Beschikbaarheid tijdens de asielprocedure’**en**paragraaf C1/2.3 ‘Het niet nakomen van de aanwijzingen’**).
 
-De IND kan de termijnen van de algemene asielprocedure in ieder geval verlengen op grond van artikel 3.115, eerst lid, aanhef en onder g Vb, als de vreemdeling zich niet heeft gehouden aan de aanwijzingen in model M117-C en/of zonder voorafgaande kennisgeving niet op zijn afspraak in het aanmeldcentrum is verschenen (zie ook paragraaf C1/2.1 Vc onder ‘**Beschikbaarheid tijdens de asielprocedure’**en**paragraaf C1/2.3 ‘Het niet nakomen van de aanwijzingen’**).
+De IND verlengt de termijnen van de asielprocedure met maximaal negen maanden als de vreemdeling strafrechtelijk wordt vervolgd wegens een (bijzonder) ernstig misdrijf, op grond van [artikel 42, vierde lid, onder a en c, Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=42).
+
+De IND beoordeelt ten behoeve van de verlenging van de beslistermijn of de aanvraag mogelijkerwijs kan worden afgewezen als sprake is van een ten laste gelegd delict dat naar zijn aard een gevaar voor de gemeenschap oplevert.
+
+De IND verlengt de termijnen van de asielprocedure op grond van [artikel 42, vijfde lid, Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=42) juncto artikel 42, vierde lid, Vw met maximaal drie maanden als het strafrechtelijk vonnis nog niet is gewezen.
+
+De IND verstrekt een nieuw W-document, indien de IND aan de vreemdeling een nieuwe geboortedatum heeft toegekend. De vreemdeling moet het oude W-document bij de IND inleveren.
 
 De IND beoordeelt op basis van het medisch advies (zie paragraaf C1/2.2 Vc) of sprake is van een situatie als bedoeld in [artikel 3.113 lid 7 5, aanhef en onder a, Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=3.113).
 
@@ -209,7 +215,7 @@ De IND behandelt de aanvraag voor een verblijfsvergunning asiel voor bepaalde ti
 
 De IND verstrekt een nieuw W-document, indien de IND aan de vreemdeling een nieuwe geboortedatum heeft toegekend. De vreemdeling moet het oude W-document bij de IND inleveren.
 
-De IND verstrekt een nieuw W-document, indien de IND aan de vreemdeling een nieuwe geboortedatum heeft toegekend. De vreemdeling moet het oude W-document bij de IND inleveren.
+De IND toetst tijdens de behandeling van de aanvraag voor een verblijfsvergunning asiel voor bepaalde tijd voortdurend of de aanvraag binnen de grensprocedure kan worden behandeld. Het uitgangspunt is dat de IND uiterlijk na het nader gehoor, op basis van volledige informatie, aan de vreemdeling kenbaar maakt indien zijn aanvraag niet in de grensprocedure verder kan worden behandeld. Hiervan kan worden afgeweken indien in een eerder of later stadium de relevante informatie voorhanden is.
 
 Het verloop van de grensprocedure is geregeld in [artikel 3, derde tot en met achtste lid Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=3) en [artikel 3.109b Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=3.109b). In de grensprocedure worden de [artikelen 3.109](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=3.109) en [3.112 tot en met 3.115 Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=3.112) overeenkomstig toegepast, tenzij anders is bepaald.
 
@@ -217,13 +223,13 @@ In artikel 3.109 Vb is de rust- en voorbereidingstermijn beschreven. Conform [ar
 
 De IND toetst tijdens de behandeling van de aanvraag voor een verblijfsvergunning asiel voor bepaalde tijd voortdurend of de aanvraag binnen de grensprocedure kan worden behandeld. Het uitgangspunt is dat de IND uiterlijk na het nader gehoor, op basis van volledige informatie, aan de vreemdeling kenbaar maakt indien zijn aanvraag niet in de grensprocedure verder kan worden behandeld. Hiervan kan worden afgeweken indien in een eerder of later stadium de relevante informatie voorhanden is.
 
-In ieder geval in de volgende situaties zal reeds na het eerste gehoor geconcludeerd worden dat zijn aanvraag niet binnen de grensprocedure (verder) zal worden behandeld:
+### 2.4. De verlengde asielprocedure
 
 Indien de IND concludeert dat de aanvraag voor een verblijfsvergunning asiel voor bepaalde tijd niet binnen de grensprocedure verder kan worden behandeld, dan wordt van rechtswege de toegang verleend en de vrijheidsontnemende maatregel bedoeld in [artikel 6, derde lid Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=6), opgeheven. De IND meldt de vreemdeling uiterlijk om 18.00 uur aan bij het COA ten behoeve van de uitplaatsing. De behandeling van de aanvraag voor een verblijfsvergunning asiel voor bepaalde tijd zal in dit geval worden opgeschort en verder worden behandeld in de algemene asielprocedure of de verlengde asielprocedure. De IND bepaalt in overleg met de gemachtigde van de vreemdeling, wanneer en op welke locatie de behandeling van de aanvraag voor een verblijfsvergunning asiel voor bepaalde tijd zal worden voortgezet. Daarbij geldt als uitgangspunt dat de opschorting een week duurt.
 
 Indien de IND de aanvraag voor een verblijfsvergunning asiel voor bepaalde tijd binnen de grensprocedure afwijst, motiveert de IND in de beschikking de voorzetting van de vrijheidsontnemende maatregel als bedoeld in artikel 6, derde lid Vw. De IND betrekt hierbij of deze maatregel ten aanzien van de vreemdeling onredelijk bezwarend is en of er zicht op uitzetting bestaat.
 
-### 2.4. De verlengde asielprocedure
+De uitgestelde/opgeschorte toegangsweigering wordt definitief bij het afdoen van de asielaanvraag in de grensprocedure.
 
 De IND bepaalt tijdens de grensprocedure of de aanvraag voor een verblijfsvergunning asiel voor bepaalde tijd verder wordt behandeld binnen de grensprocedure onder voortzetting van de vrijheidsontnemende maatregel bedoeld in artikel 6 Vw.
 
@@ -239,7 +245,7 @@ Indien duidelijk is dat de aanvraag tot het verlenen van een verblijfsvergunning
 
 Indien de vreemdeling een gevaar vormt voor de openbare orde of de nationale veiligheid, terwijl de aanvraag niet binnen de termijn zoals bedoeld in artikel 3, zevende lid, Vw kan worden afgedaan, verzoekt de IND aan de ambtenaar belast met het toezicht op vreemdelingen, zijnde de Hulpofficier van Justitie, de vreemdeling aansluitend in bewaring te stellen op grond van artikel 59b, Vw. Hiervan is in ieder geval sprake indien de aanvraag voor een verblijfsvergunning asiel voor bepaalde tijd mogelijk met toepassing van artikel 1F Vluchtelingenverdrag kan worden afgewezen (zie [paragraaf A5/6.3](onbekend) Vc).
 
-Indien de vreemdeling een gevaar vormt voor de openbare orde of de nationale veiligheid, terwijl de aanvraag niet binnen de termijn zoals bedoeld in artikel 3, zevende lid, Vw kan worden afgedaan, verzoekt de IND aan de ambtenaar belast met het toezicht op vreemdelingen, zijnde de Hulpofficier van Justitie, de vreemdeling aansluitend in bewaring te stellen op grond van artikel 59b, Vw. Hiervan is in ieder geval sprake indien de aanvraag voor een verblijfsvergunning asiel voor bepaalde tijd mogelijk met toepassing van artikel 1F Vluchtelingenverdrag kan worden afgewezen (zie [paragraaf A5/6.3](onbekend) Vc).
+Dit geldt eveneens als de vreemdeling een vrijheidsontnemende maatregel is opgelegd of als de vreemdeling in bewaring is gesteld.
 
 [Artikel 30, tweede lid, Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=30) en [artikel 3.109c Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=3.109c) regelen het verloop van de Dublinprocedure. Deze paragraaf bevat een verdere uitwerking van deze artikelen.
 
@@ -257,17 +263,17 @@ Mocht de vreemdeling desondanks bezwaren hebben tegen de overdracht naar de vera
 
 Als er een aanvullend gehoor in zin van artikel 30, tweede lid, Vw plaatsvindt, dan maakt de IND het rapport van aanvullend gehoor uiterlijk tegelijkertijd met het voornemen bekend aan de vreemdeling.
 
-De vreemdeling kan eventuele correcties en aanvullingen op het rapport van gehoor in de zin van artikel 5, eerste lid van Verordening (EU) 604/2013 gelijk met zijn zienswijze op het voornemen om de aanvraag niet in behandeling te nemen indienen (zie ook [3.109c, derde lid Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=3.109c)). Paragraaf C1/2.10 Vc onder **Uitstel voor het indienen van de zienswijze**is van toepassing.
+### 2.5. Eerste- en nader gehoor
 
 De IND verleent geen uitstel indien aan de vreemdeling een vrijheidsontnemende maatregel is opgelegd, of indien de vreemdeling in bewaring is gesteld.
 
 Als tijdens de Dublinprocedure wordt vastgesteld dat Nederland verantwoordelijk is voor de behandeling van de aanvraag voor een verblijfsvergunning asiel voor bepaalde tijd, dan wordt de behandeling van de aanvraag voortgezet in de algemene asielprocedure. Wanneer de vreemdeling (nog) geen (volledige) rust- en voorbereidingstermijn heeft doorlopen, dan moet hij eerst de rust- en voorbereidingstermijn doorlopen. Wanneer de vreemdeling na behandeling in de algemene asielprocedure, is behandeld in de Dublin procedure waarin wordt vastgesteld dat Nederland verantwoordelijk is voor de behandeling van de aanvraag voor een verblijfsvergunning asiel voor bepaalde tijd, dan wordt de behandeling van de aanvraag voortgezet in de verlengde asielprocedure. De IND geeft hierbij ook aan op welk moment de beslistermijn in de zin van [artikel 42, zesde lid, Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=42) is aangevangen.
 
-### 2.5. Eerste- en nader gehoor
+De IND maakt de beschikking bekend door toezending aan gemachtigde (zie[artikel 3.109c, zevende lid, Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=3.109c)).
 
 Als de aanvraag voor een verblijfsvergunning asiel voor bepaalde tijd niet in behandeling wordt genomen op grond van artikel 30, Vw, neemt de IND in ieder geval in de meeromvattende beschikking op:
 
-Als de aanvraag voor een verblijfsvergunning asiel voor bepaalde tijd niet in behandeling wordt genomen op grond van artikel 30, Vw, neemt de IND in ieder geval in de meeromvattende beschikking op:
+De vreemdeling die een tweede of volgende aanvraag voor een verblijfsvergunning asiel voor bepaalde tijd wil indienen, stelt de IND conform artikel 3.118b, eerste lid, Vb, daarvan schriftelijk in kennis middels [model M35-O](https://wetten.overheid.nl/jci1.3:c:BWBR0012287&bijlage=M35-O). De vreemdeling geeft op model M35-O aan op grond van welke nieuwe feiten en omstandigheden hij een tweede of volgende aanvraag voor een verblijfsvergunning asiel voor bepaalde tijd wil indienen en voegt bewijsmiddelen als bijlage bij. Als de IND de bijlage met bewijsmiddelen heeft ontvangen, verstrekt de IND aan de vreemdeling een bewijs van ontvangst, waarin staat beschreven welke bewijsmiddelen de IND concreet heeft ontvangen. Voor wat betreft de teruggave van bewijsmiddelen door de IND zijn de beleidsregels in paragraaf C1/2.2 Vc onder het kopje **onderzoek in de rust- en voorbereidingstermijn**van overeenkomstige toepassing.
 
 [Artikel 3.118b Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=3.118b) regelt het verloop van de asielprocedure als een tweede of volgende aanvraag voor een verblijfsvergunning asiel voor bepaalde tijd wordt ingediend. De procedure als beschreven in artikel 3.118b, tweede lid, Vb wordt aangeduid als de ééndagstoets asiel.
 
@@ -295,13 +301,13 @@ Voor de termijnen in de ééndagstoets asiel zijn de beleidsregels in C1/2.3 Vc 
 
 De IND behandelt de tweede of volgende aanvraag voor een verblijfsvergunning asiel voor bepaalde tijd in de procedure als beschreven in artikel 3.118b, vierde lid, Vb, of in de Dublinprocedure als het voornemen tot afwijzing niet volgens artikel 3.118b tweede lid onder c, Vb, op de eerste dag aan de vreemdeling is toegezonden of uitgereikt.
 
-Als de vreemdeling de termijnen als beschreven in artikel 3.118b, tweede lid Vb overschrijdt, behandelt de IND de opvolgende aanvraag voor een verblijfsvergunning asiel voor bepaalde tijd in de procedure als beschreven in artikel 3.118b, tweede lid Vb, of in de Dublinprocedure tenzij deze termijnoverschrijding de vreemdeling niet toegerekend kan worden.
+### 2.6. Voornemenprocedure
 
 De IND behandelt de tweede of volgende aanvraag om een verblijfsvergunning asiel voor bepaalde tijd in de algemene asielprocedure, als de vreemdeling op grond van artikel 3.118b, zevende lid, Vb, juncto [artikel 3.50 VV](https://wetten.overheid.nl/jci1.3:c:BWBR0012002&artikel=3.50) is uitgezonderd van de ééndagstoets asiel of in de Dublinprocedure in geval artikel 3.50 onder d VV van toepassing is. De vreemdeling geeft in dat geval te kennen een tweede of opvolgende aanvraag voor een verblijfsvergunning asiel voor bepaalde tijd te willen indienen op de wijze zoals bedoeld in paragraaf C1/2.1 Vc.
 
 Wanneer het een alleenstaande minderjarige vreemdeling betreft, kan de tweede of volgende aanvraag voor een verblijfsvergunning asiel voor bepaalde tijd in de ééndagstoets asiel alleen niet ontvankelijk worden verklaard op grond van [artikel 30a, eerste lid onder d Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=30a) of kennelijk ongegrond worden verklaard op grond van[artikel 30b, eerste lid onder b, j of k Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=30b). Dit vloeit voort uit artikel 25, zesde lid onder a van de Procedurerichtlijn. In alle overige gevallen neemt de IND eerst een beslissing op de tweede of volgende aanvraag na doorzending naar de Dublinprocedure, de algemene asielprocedure of de verlengde asielprocedure.
 
-### 2.6. Voornemenprocedure
+De IND reikt het voornemen en de beschikking aan de vreemdeling uit indien deze aanwezig is op het aanmeldcentrum.
 
 Paragraaf C1/2.11 Vc onder **‘Wijze van bekendmaken’** en ‘**De beschikking in de algemene asielprocedure’** is van overeenkomstige toepassing.
 
@@ -317,7 +323,7 @@ Na de uitzetting of overdracht van de vreemdeling behandelt de IND de aanvraag o
 
 Als de geplande uitzetting of overdracht van de vreemdeling wordt geannuleerd, vindt de (verdere) behandeling van de aanvraag voor een verblijfsvergunning asiel voor bepaalde tijd plaats plaats in de algemene asielprocedure, de verlengde asielprocedure, de ééndagstoets of de Dublinprocedure. Als aan de vreemdeling een vrijheidsontnemende maatregel of de maatregel tot inbewaringstelling is opgelegd, wordt deze in beginsel voortgezet of opnieuw (op een andere grondslag) opgelegd.
 
-Na de uitzetting of overdracht van de vreemdeling behandelt de IND de aanvraag om een verblijfsvergunning asiel voor bepaalde tijd in de verlengde asielprocedure zoals beschreven in paragraaf C1/2.4 Vc. Het voornemen en de beschikking worden uitgereikt door middel van verzending aan gemachtigde.
+De IND verleent aan de vreemdeling van wie de vrijheidsontnemende maatregel is opgelegd in afwijking van C1/2.10, onder a tot en met e, Vc geen uitstel voor het indienen van de zienswijze.
 
 A[rtikel 3.117 Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=3.117) regelt het verloop van de asielprocedure vanuit vreemdelingenbewaring. Deze paragraaf bevat een verdere uitwerking van dit artikel.
 
@@ -325,7 +331,7 @@ Als een vreemdeling van wie op grond van [artikel 59](https://wetten.overheid.nl
 
 De IND verleent aan de vreemdeling van wie de vrijheidsontnemende maatregel is opgelegd in afwijking van C1/2.10, onder a tot en met e, Vc geen uitstel voor het indienen van de zienswijze.
 
-Als een vreemdeling van wie op grond van [artikel 59](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=59), [59a](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=59a) of [59b Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=59b) een vrijheidsontnemende maatregel is opgelegd aangeeft een aanvraag voor een verblijfsvergunning asiel voor bepaalde tijd te willen indienen, dient de vreemdeling deze aanvraag in in het aanmeldcentrum Schiphol of op de locatie waar de vrijheidsontnemende maatregel ten uitvoer wordt gelegd. De IND kan besluiten deze aanvraag in de Algemene Asielprocedure in het aanmeldcentrum Schiphol te behandelen. De IND beoordeelt in overleg met de DT&V, de ambtenaar belast met de grensbewaking of met het toezicht op vreemdelingen of de vreemdeling voor de behandeling van zijn aanvraag voor een verblijfsvergunning asiel voor bepaalde tijd wordt overgeplaatst naar aanmeldcentrum Schiphol. Het uitgangspunt bij de beoordeling is dat de vreemdeling wordt overgeplaatst naar aanmeldcentrum Schiphol voor behandeling van de aanvraag voor een verblijfsvergunning asiel voor bepaalde tijd. De IND weegt bij deze beoordeling in ieder geval de volgende omstandigheden mee:
+Als een vreemdeling stelt tot een minderheid in het land van herkomst te behoren, veronderstelt de IND dat hij naast ten minste één taal die valt onder de hierboven genoemde soorten talen, ook de lokale taal of het dialect van de gestelde minderheid verstaat.
 
 In [artikel 3.109a, eerste lid, Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=3.109a) is beschreven dat de vreemdeling gebruik kan maken van de diensten van een tolk tijdens de gehoren en op andere momenten waarop dat noodzakelijk is om zijn zaak voor te leggen, indien een goede communicatie zonder die diensten niet kan worden gewaarborgd. In [artikel 38 Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=38) staat beschreven dat de vreemdeling wordt gehoord in een taal waaraan de vreemdeling de voorkeur geeft, tenzij er een andere taal kan worden gebruikt die hij begrijpt en waarin hij helder kan communiceren. De IND hanteert hierbij het uitgangspunt dat de vreemdeling wordt gehoord in een taal waarvan redelijkerwijs kan worden aangenomen dat de vreemdeling die kan verstaan.
 
@@ -333,13 +339,13 @@ De IND beschouwt als talen waarvan redelijkerwijs kan worden aangenomen dat de v
 
 Als een vreemdeling stelt tot een minderheid in het land van herkomst te behoren, veronderstelt de IND dat hij naast ten minste één taal die valt onder de hierboven genoemde soorten talen, ook de lokale taal of het dialect van de gestelde minderheid verstaat.
 
-Een vreemdeling kan de IND verzoeken door een vrouwelijke of mannelijke ambtenaar van de IND en met behulp van een vrouwelijke of mannelijke tolk gehoord te worden. De IND heeft een inspanningsverplichting met betrekking tot een dergelijk verzoek.
+### 2.7. Het geven van de beschikking
 
 De gemachtigde van de vreemdeling mag als waarnemer bij het eerste – en nader gehoor aanwezig zijn. De gemachtigde mag de aanvang en het verloop van het gehoor niet ophouden.
 
 De IND verstrekt een rapport van eerste – of nader gehoor niet aan de gemachtigde van de vreemdeling als de vreemdeling heeft aangegeven hier bezwaar tegen te hebben. Dit geldt ook voor het rapport van het gehoor in de zin van artikel 5, eerste lid, Verordening (EU) 604/2013 dan wel voor het rapport van aanvullend gehoorin zin van [artikel 30, tweede lid, Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=30).
 
-### 2.7. Het geven van de beschikking
+De vreemdeling mag schriftelijk op het rapport van eerste gehoor reageren.
 
 De IND vraagt alleenstaande minderjarige vreemdelingen jonger dan twaalf jaar tijdens het eerste gehoor uitsluitend naar de volgende gegevens:
 
@@ -357,13 +363,13 @@ Als de vreemdeling in vreemdelingenbewaring zit en de aanvraag niet in de algeme
 
 In [artikel 3.113, vijfde en zesde lid, Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=3.113) is opgenomen dat de vreemdeling wordt verzocht uiterlijk op de vierde dag schriftelijk te bevestigen dat de inhoud van het verslag een correcte afspiegeling is van het nader gehoor. Deze termijn wordt in het verslag van het nader gehoor vermeld. Aan de vreemdeling wordt een formulier verzonden, waarin wordt gevraagd of hij kan bevestigen dat de inhoud van het verslag een correcte afspiegeling is van het nader gehoor. Indien de vreemdeling weigert te bevestigen dat de inhoud van het verslag een correcte afspiegeling van het nader gehoor vormt, kan hij redenen aangeven waarom hij dit weigert. De redenen voor deze weigering worden in zijn dossier opgenomen, samen met de correcties en aanvullingen op het nader gehoor. Die weigering belet de IND niet om een beslissing op de aanvraag te nemen. De IND gaat in het besluit in op de door de vreemdeling aangevoerde redenen voor zijn weigering.
 
-Als de vreemdeling in vreemdelingenbewaring zit en de aanvraag niet in de algemene asielprocedure wordt behandeld, overhandigt de IND het rapport van nader gehoor tegelijkertijd met het voornemen aan de vreemdeling. De reactietermijn op het rapport van nader gehoor is dan gelijk aan de reactietermijn op het voornemen, te weten twee weken. Paragraaf C1/2.10 Vc is van toepassing op een verzoek om uitstel voor het indienen van een reactie op het rapport van nader gehoor.
+### 2.10. Voornemenprocedure
 
 De IND maakt in het voornemen kenbaar:
 
 De IND verstrekt bij het voornemen informatie over de mogelijkheid die de vreemdeling heeft om een zienswijze naar voren te brengen.
 
-### 3.2. Verstrekken onjuiste gegevens/fraude
+De termijnen voor het indienen van de zienswijze worden geregeld in [artikel 3.116, tweede lid, Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=3.116).
 
 De IND zendt het voornemen aan de gemachtigde van de vreemdeling.
 
@@ -391,7 +397,7 @@ Feiten en omstandigheden zoals bedoeld in [artikel 3.119 Vb](https://wetten.over
 
 Als het eerder uitgebrachte voornemen op grond van nieuwe feiten of omstandigheden als bedoeld in artikel 3.119 Vb niet meer alle gronden voor afwijzing van de aanvraag tot een verblijfsvergunning asiel bevat, brengt de IND een nieuw of aanvullend voornemen uit.
 
-Feiten en omstandigheden zoals bedoeld in [artikel 3.119 Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=3.119) zijn in ieder geval:
+Er is ook sprake van een complexe feitelijke en juridische kwestie zoals bedoeld in artikel 42, vierde lid, onder a, Vw als er 1F-indicaties zijn.
 
 De IND neemt binnen 6 maanden na indiening van de aanvraag voor verlening of verlenging van een verblijfsvergunning asiel voor bepaalde tijd een beslissing op de aanvraag. Deze termijn kan op grond van [artikel 42 Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=42) worden verlengd.
 
@@ -419,7 +425,7 @@ Als de IND de aanvraag inwilligt op grond van artikel 29, eerste lid, onder b, V
 
 Als de vreemdeling uitsluitend een adres in het buitenland heeft, stuurt de IND de beschikking door tussenkomst van de Nederlandse diplomatieke of consulaire vertegenwoordiging in dat land naar het buitenlandse adres van de vreemdeling.
 
-Als de IND de aanvraag inwilligt op grond van artikel 29, eerste lid, onder b, Vw, motiveert de IND waarom niet is ingewilligd op grond van [artikel 29, eerste lid, onder a, Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=29). Als de IND de aanvraag inwilligt op grond van artikel 29, tweede lid, Vw, motiveert de IND waarom niet is ingewilligd op grond van artikel 29, eerste lid, onder a en b, Vw. De IND beperkt deze motivering tot het benoemen van de (on)geloofwaardige relevante elementen en, indien van toepassing, de redenen waarom deze niet kwalificeren voor vluchtelingenstatus en/of de subsidiaire beschermingsstatus. De IND brengt in deze situatie geen voornemen uit, maar motiveert dit in de inwilligende beschikking.
+Het gehoor als bedoeld in artikel 41, tweede lid, Vw wordt aangeduid als het intrekkingsgehoor.
 
 De voornemenprocedure bij intrekking van een verblijfsvergunning asiel voor bepaalde of onbepaalde tijd, is hetzelfde als de voornemenprocedure zoals die wordt gevolgd in de verlengde asielprocedure. Paragraaf C1/2.10 Vc is van overeenkomstige toepassing.
 
@@ -443,27 +449,27 @@ Paragraaf C1/2.11 Vc onder ‘**wijze van bekendmaken**’ en ‘**de beschikkin
 
 Als de vreemdeling uitsluitend een adres in het buitenland heeft, stuurt de IND de beschikking door tussenkomst van de Nederlandse diplomatieke of consulaire vertegenwoordiging in dat land naar het buitenlandse adres van de vreemdeling.
 
-Paragraaf C1/2.11 Vc onder ‘**wijze van bekendmaken**’ en ‘**de beschikking in de verlengde asielprocedure**’ is van overeenkomstige toepassing.
+Deze toetsingsvolgorde is ook van toepassing op vreemdelingen die behoren tot een door de IND in het landgebonden asielbeleid aangewezen risicogroep of kwetsbare minderheidsgroep.
 
-Als de vreemdeling uitsluitend een adres in het buitenland heeft, stuurt de IND de beschikking door tussenkomst van de Nederlandse diplomatieke of consulaire vertegenwoordiging in dat land naar het buitenlandse adres van de vreemdeling.
+De IND hanteert voor het beoordelen van een aanvraag voor een verblijfsvergunning asiel voor bepaalde tijd de volgende toetsingsvolgorde:
 
 De IND hanteert voor het beoordelen van een aanvraag voor een verblijfsvergunning asiel voor bepaalde tijd de volgende toetsingsvolgorde:
 
 Deze toetsingsvolgorde is ook van toepassing op vreemdelingen die behoren tot een door de IND in het landgebonden asielbeleid aangewezen risicogroep of kwetsbare minderheidsgroep.
 
-De IND hanteert voor het beoordelen van een aanvraag voor een verblijfsvergunning asiel voor bepaalde tijd de volgende toetsingsvolgorde:
-
-De IND betrekt bij de beoordeling van de aanvraag voor een verblijfsvergunning asiel voor bepaalde tijd mede de omstandigheid dat de vreemdeling bij zijn aanvraag onjuiste gegevens aan de Nederlandse autoriteiten heeft verstrekt dan wel de juiste gegevens heeft achtergehouden. Er is in ieder geval sprake van dergelijke omstandigheden als:
-
-De IND verleent een verblijfsvergunning regulier op grond van [artikel 3.6a, eerste lid, onder c, Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=3.6a) juncto [artikel 3.48, tweede lid onder b, Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=3.48) ambtshalve wanneer de Minister hier op grond van zijn discretionaire bevoegdheid toe heeft besloten.
-
-### C2. De verblijfsvergunning asiel voor bepaalde tijd
+### 4.2. Verstrekken onjuiste gegevens/fraude
 
 ### 4.3. Documenten
 
 De documenten met betrekking tot de identiteit van de vreemdeling moeten officiële, door de overheid van het land van herkomst van de vreemdeling afgegeven documenten zijn met daarin tenminste een pasfoto en de geboorteplaats en -datum van de vreemdeling.
 
 ### 3.8. Beoordeling van opvolgende aanvragen tot een verblijfsvergunning asiel voor bepaalde tijd
+
+De IND acht al deze documenten in beginsel relevant voor het beoordelen van de aanvraag voor een verblijfsvergunning asiel.
+
+De documenten met betrekking tot de identiteit van de vreemdeling moeten officiële, door de overheid van het land van herkomst van de vreemdeling afgegeven documenten zijn met daarin tenminste een pasfoto en de geboorteplaats en -datum van de vreemdeling.
+
+Als documenten met betrekking tot de nationaliteit van de vreemdeling gelden in ieder geval:
 
 Als documenten die de reisroute onderbouwen gelden in ieder geval:
 
@@ -473,27 +479,27 @@ Onder documenten die het asielrelaas onderbouwen verstaat de IND documenten ter 
 
 Wanneer relevante documenten ontbreken, beoordeelt de IND of dit toerekenbaar is aan de vreemdeling. De IND betrekt bij de beoordeling van de geloofwaardigheid van het relaas van de vreemdeling of het ontbreken van documenten de vreemdeling is toe te rekenen.
 
-De vreemdeling heeft aannemelijk gemaakt dat het ontbreken van documenten niet aan hem is toe rekenen als aan de volgende twee voorwaarden is voldaan:
-
-Als de vreemdeling aannemelijk maakt dat de documenten onder dwang aan de reisagent zijn afgegeven en hij ook op alle andere elementen van de beoordeling van de aanvraag om een verblijfsvergunning asiel voor bepaalde tijd volledig meewerkt en geloofwaardig is, is het ontbreken van documenten niet aan hem toe te rekenen.
-
-Onder ‘hetgeen overigens bekend is’ verstaat de IND bij het ontbreken van documenten met betrekking tot de identiteit en nationaliteit van de vreemdeling in ieder geval:
-
 ### 3. Internationale bescherming
 
 ### 3.1. Algemeen
 
-Het is in beginsel niet geloofwaardig dat een vreemdeling geen enkel bewijs van zijn reis over kan leggen.
+Onder ‘hetgeen overigens bekend is’ verstaat de IND bij het ontbreken van documenten met betrekking tot de identiteit en nationaliteit van de vreemdeling in ieder geval:
+
+Bij het ontbreken van documenten die zien op het asielrelaas van de vreemdeling verstaat de IND onder ‘hetgeen overigens bekend is’ openbare informatie uit objectieve bronnen over de situatie in het land van herkomst.
 
 Bij het ontbreken van documenten die zien op de reisroute van de vreemdeling verstaat de IND onder ‘hetgeen overigens bekend is’ alle informatie die betrekking heeft op reizen naar Nederland.
 
-De IND beoordeelt de geloofwaardigheid van de relevante elementen. Relevante elementen zijn feiten en omstandigheden die in de volgende twee categorieën worden onderscheiden:
+Het is in beginsel niet geloofwaardig dat een vreemdeling geen enkel bewijs van zijn reis over kan leggen.
+
+Onder gestelde gebeurtenissen worden ook de ‘veronderstellingen’ van de vreemdeling verstaan. Onder ‘veronderstellingen’ verstaat de IND aannames van de vreemdeling die deel uitmaken van de door hem gestelde gebeurtenissen in het verleden.
+
+### 4.4.1. De beoordeling van de geloofwaardigheid
 
 Gegevens die zien op de persoon van de vreemdeling zijn in ieder geval:
 
 Onder gestelde gebeurtenissen worden ook de ‘veronderstellingen’ van de vreemdeling verstaan. Onder ‘veronderstellingen’ verstaat de IND aannames van de vreemdeling die deel uitmaken van de door hem gestelde gebeurtenissen in het verleden.
 
-### 4.4.1. De beoordeling van de geloofwaardigheid
+Als de IND een relevant element niet als geloofwaardig beoordeelt, kan de vreemdeling op basis van dit element geen aanspraak maken op de beschermingsgronden als genoemd in [artikel 29, eerste lid, Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=29).
 
 Bij de beoordeling van de geloofwaardigheid van de door de vreemdeling gestelde relevante elementen betrekt de IND:
 
@@ -501,7 +507,7 @@ Documenten zijn alle gegevensdragers die een vreemdeling ter onderbouwing van zi
 
 Als de IND een relevant element niet als geloofwaardig beoordeelt, kan de vreemdeling op basis van dit element geen aanspraak maken op de beschermingsgronden als genoemd in [artikel 29, eerste lid, Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=29).
 
-Documenten zijn alle gegevensdragers die een vreemdeling ter onderbouwing van zijn verklaringen heeft ingediend.
+Een ambtsbericht van de Minister van Buitenlandse Zaken is voor de IND een gewichtige bron van informatie over de situatie in het land van herkomst.
 
 Er vindt een integrale geloofwaardigheidsbeoordeling plaats. Hierbij worden alle relevante omstandigheden van het geval betrokken en in onderlinge samenhang gewogen.
 
@@ -523,7 +529,7 @@ Als de concrete aanknopingspunten voor twijfel aan de juistheid, de volledigheid
 
 De IND beschouwt in ieder geval niet als concrete aanknopingspunten voor twijfel aan de juistheid, de volledigheid of de actualiteit van een deskundigenbericht:
 
-Als de concrete aanknopingspunten voor twijfel aan de juistheid, de volledigheid of de actualiteit van een deskundigenbericht door nader onderzoek bevestigd zijn, betrekt de IND deze informatie bij de beoordeling van de geloofwaardigheid van de verklaringen van de vreemdeling.
+Als de IND oordeelt dat deze vermoedens aannemelijk zijn, beoordeelt de IND of de gebeurtenissen die de vreemdeling verwacht, voldoende zwaarwegend zijn om te worden aangemerkt als een rechtsgrond voor verlening van een verblijfsvergunning asiel voor bepaalde tijd als bedoeld in [artikel 29 Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=29).
 
 De IND beoordeelt of de vermoedens van de vreemdeling over wat er met hem zal gebeuren als hij terugkeert naar zijn land van herkomst, aannemelijk zijn.
 
@@ -533,7 +539,7 @@ Als de IND oordeelt dat deze vermoedens aannemelijk zijn, beoordeelt de IND of d
 
 De IND betrekt BMA niet bij de beoordeling van de zwaarwegendheid van de verklaringen van de vreemdeling.
 
-Als de IND oordeelt dat deze vermoedens aannemelijk zijn, beoordeelt de IND of de gebeurtenissen die de vreemdeling verwacht, voldoende zwaarwegend zijn om te worden aangemerkt als een rechtsgrond voor verlening van een verblijfsvergunning asiel voor bepaalde tijd als bedoeld in [artikel 29 Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=29).
+Indicaties over de aanwezigheid van littekens, fysieke klachten en/of psychische klachten kunnen onder andere naar voren komen uit:
 
 Als de IND het voor de beoordeling van de aanvraag tot het verlenen van een verblijfsvergunning asiel relevant vindt, wordt aan de vreemdeling een forensisch medisch onderzoek aangeboden naar aanwijzingen van vroegere vervolging of ernstige schade. Indien de IND het onderzoek niet relevant vindt, kan de vreemdeling op eigen initiatief en kosten een forensisch medisch onderzoek regelen.
 
@@ -557,7 +563,7 @@ De IND weegt het forensisch medisch onderzoek mee in de geloofwaardigheidsbeoord
 
 De IND start geen forensisch medisch onderzoek op in het kader van de beoordeling van de mogelijkheid tot intrekking van een verblijfsvergunning asiel voor bepaalde of onbepaalde tijd.
 
-De IND weegt het forensisch medisch onderzoek mee in de geloofwaardigheidsbeoordeling en de uiteindelijke beslissing op de aanvraag voor een verblijfsvergunning asiel.
+Als uit het leeftijdsonderzoek blijkt dat de vreemdeling minstens 20 jaar oud is, kent de IND de vreemdeling op basis van het onderzoeksresultaat een geboortedatum toe als:
 
 Het leeftijdsonderzoek kan een van de volgende resultaten opleveren:
 
@@ -569,7 +575,7 @@ De IND stelt het toe te kennen geboortejaar vast op het jaar waarin het leeftijd
 
 Het Protocol Identificatie en Labeling (PIL) is van toepassing.
 
-De IND stelt het toe te kennen geboortejaar vast op het jaar waarin het leeftijdsonderzoek is uitgevoerd minus 20 jaar. Als het leeftijdsonderzoek heeft plaatsgevonden tussen 1 januari en 1 juli stelt de IND de geboortedatum op 1 januari van het afgeleide geboortejaar. Als het leeftijdsonderzoek heeft plaatsgevonden tussen 1 juli en 1 januari, stelt de IND de geboortedatum op 1 juli van het afgeleide geboortejaar.
+Paragraaf C2/6.2.3 Vc is van toepassing.
 
 De vreemdeling die een beroep doet op [artikel 29, tweede lid, Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=29) of het gezinslid bij wie de vreemdeling verblijf beoogt, moet de gestelde familierelatie aantonen door het overleggen van:
 
@@ -583,7 +589,7 @@ Als de vreemdeling aannemelijk heeft gemaakt dat het ontbreken van dit document 
 
 De IND vraagt geen eigen bijdrage van de vreemdeling voor het DNA-onderzoek als de vreemdeling een beroep doet op artikel 29, tweede lid, Vw.
 
-Als de vreemdeling aannemelijk heeft gemaakt dat het ontbreken van dit document of deze documenten niet aan hem is toe te rekenen, wijst de IND de vreemdeling of het gezinslid op de mogelijkheid van DNA-onderzoek.
+Bij de ambtshalve beoordeling of de vreemdeling in aanmerking komt voor een verblijfsvergunning regulier voor bepaalde tijd op grond van[artikel 3.6a, eerste lid, onder a, Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=3.6a) (uitzetting in strijd met artikel 8 EVRM), past de IND [paragraaf B7/3.8 Vc](onbekend) (8 EVRM) overeenkomstig toe.
 
 Bij afwijzing van de eerste aanvraag voor een verblijfsvergunning asiel voor bepaalde tijd als (kennelijk) ongegrond beoordeelt de IND volgens [artikel 3.6a Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=3.6a) ambtshalve of de vreemdeling in aanmerking komt voor verlening van een verblijfsvergunning regulier voor bepaalde tijd op een van de gronden genoemd in het artikel 3.6a, eerste lid, Vb, tenzij artikel 3.6a, tweede lid, Vb van toepassing is.
 
@@ -595,13 +601,13 @@ Bij de ambtshalve beoordeling of de vreemdeling in aanmerking komt voor een verb
 
 De IND verleent een verblijfsvergunning regulier op grond van [artikel 3.6a, eerste lid, onder c, Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=3.6a) juncto [artikel 3.48, tweede lid onder b, Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=3.48) ambtshalve wanneer de Minister hier op grond van zijn discretionaire bevoegdheid toe heeft besloten.
 
-De IND beoordeelt bij afwijzing van de eerste aanvraag voor een verblijfsvergunning asiel voor bepaalde tijd als (kennelijk) ongegrond op grond van [artikel 6.1e Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=6.1e) ambtshalve of de vreemdeling in aanmerking komt voor uitstel van vertrek op grond van [artikel 64 Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=64), tenzij de aanvraag als kennelijk ongegrond is afgewezen op grond van [artikel 30b, eerste lid onder g, j of k Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=30b). [Paragraaf A3/7](onbekend) is van overeenkomstige toepassing.
+### 3.3. Daden als bedoeld in [artikel 29 eerste lid, aanhef en onder b Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=29)
 
 De IND laat de ambtshalve toets als bedoeld in [artikel 3.6a Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=3.6a) en [6.1e Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=6.1e) achterwege, wanneer de IND aan de vreemdeling met de afwijzing van een aanvraag voor een verblijfsvergunning asiel voor bepaalde tijd een zwaar inreisverbod ([artikel 66a, lid 7, Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=66a)) of een ongewenstverklaring oplegt.
 
-De IND beoordeelt bij afwijzing van de eerste aanvraag voor een verblijfsvergunning asiel voor bepaalde tijd als (kennelijk) ongegrond op grond van [artikel 6.1e Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=6.1e) ambtshalve of de vreemdeling in aanmerking komt voor uitstel van vertrek op grond van [artikel 64 Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=64), tenzij de aanvraag als kennelijk ongegrond is afgewezen op grond van artikel 30b, eerste lid onder g, j of k Vw. Paragraaf A3/7 is van overeenkomstige toepassing.
+Als de vreemdeling in het kader van een opvolgende aanvraag voor een verblijfsvergunning asiel voor bepaalde tijd voor het eerst door de IND gehoord wordt, concludeert de IND in geen geval dat de vreemdeling de door hem ingebrachte feiten en omstandigheden eerder had moeten inbrengen.
 
-### 3.3. Daden als bedoeld in [artikel 29 eerste lid, aanhef en onder b Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=29)
+Als de vreemdeling in het kader van zijn opvolgende aanvraag voor een verblijfsvergunning asiel voor bepaalde tijd feiten en omstandigheden inbrengt die dateren van voor de eerdere afwijzende beschikking, beoordeelt de IND of de vreemdeling deze feiten en omstandigheden in het kader van een eerdere aanvraag voor een verblijfsvergunning asiel voor bepaalde tijd had kunnen inbrengen. De IND hanteert daarbij als uitgangspunt dat de vreemdeling alle bij hem bekende informatie en documenten in het kader van zijn aanvraag voor een verblijfsvergunning asiel voor bepaalde tijd aan de IND moet overleggen. Als de vreemdeling in het kader van zijn opvolgende aanvraag voor een verblijfsvergunning asiel voor bepaalde tijd feiten en omstandigheden inbrengt die dateren van voor de eerdere afwijzende beschikking, moet de vreemdeling aannemelijk maken dat hij deze feiten en omstandigheden redelijkerwijs niet eerder had kunnen inbrengen.
 
 Gegevensdragers die feiten en omstandigheden onderbouwen die de vreemdeling in het kader van een eerdere aanvraag voor een verblijfsvergunning asiel voor bepaalde tijd heeft ingebracht, kunnen nieuwe feiten of omstandigheden als bedoeld in [artikel 4:6 Awb](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:6) vormen.
 
@@ -617,7 +623,7 @@ Als een vreemdeling tijdens een tweede of opvolgende asielaanvraag aangeeft dat 
 
 De IND beschouwt een verzoek om heroverweging als een onvolledige aanvraag als bedoeld in [artikel 4:5 Awb](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:5).
 
-Als een vreemdeling tijdens een tweede of opvolgende asielaanvraag aangeeft dat hij homoseksueel is, en deze informatie acht de IND geloofwaardig, werpt de IND de vreemdeling niet tegen dat hij niet tijdens een voorgaande procedure gewag heeft gemaakt van zijn homoseksuele geaardheid.
+De uitsluitingsgronden en contra-indicaties die van toepassing zijn op de internationale beschermingsgronden zijn eveneens van toepassing in het geval een vreemdeling in het kader van hervestiging naar Nederland wil komen.
 
 De hoofdstukken C1 en C2 van de Vc zijn niet van toepassing in hervestigingszaken, omdat de beoordeling of de vreemdeling in aanmerking komt voor een verblijfsvergunning asiel voor bepaalde tijd al vóór diens komst naar Nederland heeft plaatsgevonden. Wel meldt de vreemdeling die voor hervestiging in aanmerking komt, zich na aankomst in Nederland bij de IND voor de formele indiening van de aanvraag voor verlening van een verblijfsvergunning asiel voor bepaalde tijd.
 
@@ -625,13 +631,13 @@ Bij de toetsing of een vreemdeling voor hervestiging in aanmerking komt maakt de
 
 De uitsluitingsgronden en contra-indicaties die van toepassing zijn op de internationale beschermingsgronden zijn eveneens van toepassing in het geval een vreemdeling in het kader van hervestiging naar Nederland wil komen.
 
-Bij de toetsing of een vreemdeling voor hervestiging in aanmerking komt maakt de IND een beoordeling op grond van een weging van de volgende factoren:
+De IND verleent geen verblijfsvergunning asiel voor bepaalde tijd, als de vreemdeling vreest voor een bestraffing vanwege dienstplichtweigering of desertie (zie ook Handboek UNHCR, paragrafen 167 tot en met 172) zonder dat daarbij sprake is van een discriminatoire behandeling.
 
-De uitsluitingsgronden en contra-indicaties die van toepassing zijn op de internationale beschermingsgronden zijn eveneens van toepassing in het geval een vreemdeling in het kader van hervestiging naar Nederland wil komen.
+[Artikel 29, eerste en tweede lid, Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=29) bevat de gronden, waarop de IND een verblijfsvergunning asiel voor bepaalde tijd kan verlenen. De IND toetst de toepasselijkheid van deze gronden in de volgorde waarin deze gronden in de [Vreemdelingenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0011823) voorkomen.
 
 In dit hoofdstuk zijn beleidsregels opgenomen in:
 
-De IND verleent geen verblijfsvergunning asiel voor bepaalde tijd, als de vreemdeling vreest voor een bestraffing vanwege dienstplichtweigering of desertie (zie ook Handboek UNHCR, paragrafen 167 tot en met 172) zonder dat daarbij sprake is van een discriminatoire behandeling.
+De IND stelt eerst het land van herkomst van de vreemdeling vast, vóórdat de IND beoordeelt of de vreemdeling gegronde vrees voor vervolging heeft in het land van herkomst, De IND verstaat onder ‘land van herkomst’ het land waarvan de vreemdeling de nationaliteit heeft.
 
 [Artikel 29, eerste en tweede lid, Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=29) bevat de gronden, waarop de IND een verblijfsvergunning asiel voor bepaalde tijd kan verlenen. De IND toetst de toepasselijkheid van deze gronden in de volgorde waarin deze gronden in de [Vreemdelingenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0011823) voorkomen.
 
@@ -647,9 +653,9 @@ De IND beoordeelt per vreemdeling op individuele basis en op basis van de situat
 
 De IND kan een verblijfsvergunning asiel voor bepaalde tijd op verschillende gronden afwijzen. Deze gronden worden behandeld in de paragrafen C2/5, C2/6, C2/7 en C2/8 van de Vc.
 
-De IND beoordeelt per vreemdeling op individuele basis en op basis van de situatie van de vreemdeling zelf of de vreemdeling in aanmerking komt voor een verblijfsvergunning asiel voor bepaalde tijd. Dit wordt het individualiseringsvereiste genoemd.
+[Artikel 3.36 VV](https://wetten.overheid.nl/jci1.3:c:BWBR0012002&artikel=3.36) beschrijft wat wordt verstaan onder daden van vervolging.
 
-De IND kan een verblijfsvergunning asiel voor bepaalde tijd op verschillende gronden afwijzen. Deze gronden worden behandeld in de paragrafen C2/5, C2/6, C2/7 en C2/8 van de Vc.
+[Artikel 3.37a VV](https://wetten.overheid.nl/jci1.3:c:BWBR0012002&artikel=3.37a) beschrijft wat wordt verstaan onder actoren van vervolging.
 
 De IND beoordeelt de aanvraag voor een verblijfsvergunning asiel voor bepaalde tijd met in achtneming van [artikel 31, Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=31).
 
@@ -661,7 +667,7 @@ De IND beoordeelt de aanvraag voor een verblijfsvergunning asiel voor bepaalde t
 
 De IND verleent geen verblijfsvergunning asiel voor bepaalde tijd op grond van artikel 29, eerste lid, aanhef en onder a of b, Vw, als [artikel 3.37d, VV](https://wetten.overheid.nl/jci1.3:c:BWBR0012002&artikel=3.37d) van toepassing is. Paragraaf C2/3.4 Vc is van toepassing.
 
-[Artikel 3.37c VV](https://wetten.overheid.nl/jci1.3:c:BWBR0012002&artikel=3.37c) beschrijft wat wordt verstaan onder actoren van bescherming. De IND verleent geen verblijfsvergunning asiel voor bepaalde tijd op grond van artikel 29, eerste lid, aanhef en onder a of b, Vw indien actoren van bescherming aan de vreemdeling bescherming kunnen of willen bieden.
+Het Vluchtelingenverdrag is niet van toepassing op personen, zoals beschreven in de artikelen 1D tot en met 1F van het Vluchtelingenverdrag, verder de ‘uitsluitingsgronden’. De IND verleent aan de vreemdeling geen verblijfsvergunning asiel voor bepaalde tijd, als één van deze uitsluitingsgronden zich voordoet.
 
 Artikel 1A van het Vluchtelingenverdrag geeft aan welke vreemdeling ‘vluchteling’ is. Het aanmerken als vluchteling is niet afhankelijk van een beoordeling door een individuele staat. Het Vluchtelingenverdrag kent geen verplichting om een verblijfsvergunning asiel voor bepaalde tijd te verlenen. De verplichting om een verblijfsvergunning asiel voor bepaalde tijd te verlenen is wel geregeld in [artikel 29, eerste lid, aanhef en onder a, Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=29) in combinatie met [artikel 3.105b, Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=3.105b).
 
@@ -683,15 +689,15 @@ De IND past dan de uitsluitingsgrond artikel 1D toe.
 
 De bescherming of bijstand door de UNRWA van de staatloze Palestijnse vreemdeling is beëindigd indien sprake is van een of meerdere van de volgende situaties:
 
-De IND gaat na of de staatloze Palestijnse vreemdeling gedwongen werd het betreffende gebied te verlaten. Hiervan is sprake als wordt voldaan aan één van beide hieronder genoemde voorwaarden:
-
-In het kader van de eerste voorwaarde beoordeelt de IND op individuele basis of:
-
-Indien de uitsluitingsgrond artikel 1D niet (langer) van toepassing is en de vreemdeling zich niet schuldig heeft gemaakt aan handelingen als bedoeld in de uitsluitingsgrond artikel 1F van het Vluchtelingenverdrag, zijn de bepalingen van het Vluchtelingenverdrag van toepassing. De IND verleent in dat geval een verblijfsvergunning asiel voor bepaalde tijd op grond van artikel 29 eerste lid, aanhef en onder a, Vw aan de staatloze Palestijnse vreemdeling.
-
 ### 4. Nationale bescherming
 
 ### 4.1. [Artikel 29, tweede lid, onder a, b of c, Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=29), afgeleide verblijfsvergunning
+
+Indien de uitsluitingsgrond artikel 1D niet (langer) van toepassing is en de vreemdeling zich niet schuldig heeft gemaakt aan handelingen als bedoeld in de uitsluitingsgrond artikel 1F van het Vluchtelingenverdrag, zijn de bepalingen van het Vluchtelingenverdrag van toepassing. De IND verleent in dat geval een verblijfsvergunning asiel voor bepaalde tijd op grond van artikel 29 eerste lid, aanhef en onder a, Vw aan de staatloze Palestijnse vreemdeling.
+
+De IND past artikel 1E van het Vluchtelingenverdrag niet toe als uitsluitingsgrond.
+
+De bepalingen van het Vluchtelingenverdrag zijn op grond van artikel 1F van dat verdrag niet van toepassing op een vreemdeling ten aanzien van wie er ernstige redenen zijn om te veronderstellen dat de vreemdeling oorlogsmisdrijven of andere ernstige misdrijven heeft gepleegd. De IND verleent in dat geval de vreemdeling geen verblijfsvergunning asiel voor bepaalde tijd (zie paragraaf C2/7.10.2 Vc).
 
 Er is sprake van groepsvervolging, als in een land van herkomst een groep vreemdelingen systematisch wordt blootgesteld aan vervolging wegens een van de gronden van artikel 1A Vluchtelingenverdrag.
 
@@ -755,15 +761,15 @@ Indien in het land van herkomst sprake is van strafbaarstelling van seksuele ger
 
 Bij deze beoordeling betrekt de IND in ieder geval:
 
-Als de seksuele gerichtheid of seksuele handelingen strafbaar zijn in het land van herkomst hoeft de vreemdeling geen bescherming conform [artikel 3.37c VV](https://wetten.overheid.nl/jci1.3:c:BWBR0012002&artikel=3.37c) in te roepen.
-
-De IND betrekt bij de beoordeling of de vreemdeling vanwege zijn (toegedichte) seksuele gerichtheid vervolgd wordt bij het bekend zijn of worden van de seksuele gerichtheid in de directe (leef)omgeving van de vreemdeling, in ieder geval:
-
-De IND merkt in ieder geval de volgende situaties aan als politieke overtuiging, als de vreemdeling die een aanvraag voor een verblijfsvergunning asiel voor bepaalde tijd heeft ingediend een vrouw is en de vervolging in de zin van artikel 1A Vluchtelingenverdrag in het land van herkomst plaatsvindt:
-
 ### 5. Afwijzingsgronden verblijfsvergunning asiel voor bepaalde tijd (imperatief)
 
 ### 5.1. Een ander land is verantwoordelijk ([artikel 30, eerste lid sub a Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=30))
+
+De IND merkt in ieder geval de volgende situaties aan als politieke overtuiging, als de vreemdeling die een aanvraag voor een verblijfsvergunning asiel voor bepaalde tijd heeft ingediend een vrouw is en de vervolging in de zin van artikel 1A Vluchtelingenverdrag in het land van herkomst plaatsvindt:
+
+De beoordeling van de aanvraag voor een verblijfsvergunning asiel voor bepaalde tijd van een vrouw die zich beroept op het risico van het ondergaan van genitale verminking, wordt beschreven in paragraaf C2/3.3 Vc.
+
+De IND verleent, onder toepassing van artikel 3.36 VV, een verblijfsvergunning asiel voor bepaalde tijd aan de vreemdeling die zich beroept op dienstweigering of desertie, als de vreemdeling voldoet aan tenminste één van de volgende voorwaarden:
 
 De IND verleent geen verblijfsvergunning asiel voor bepaalde tijd, als de vreemdeling vreest voor een bestraffing vanwege dienstplichtweigering of desertie (zie ook Handboek UNHCR, paragrafen 167 tot en met 172) zonder dat daarbij sprake is van een discriminatoire behandeling.
 
@@ -785,21 +791,21 @@ De IND verleent geen verblijfsvergunning asiel voor bepaalde tijd, indien alle v
 
 Een commuun delict is een delict dat niet kan worden herleid tot één van de gronden van het Vluchtelingenverdrag, en zonder dat daarbij sprake is van een onevenredige of discriminatoire maatregel vanwege een van de gronden van artikel 1A van het Vluchtelingenverdrag.
 
-De IND verleent geen verblijfsvergunning asiel voor bepaalde tijd, indien alle volgende voorwaarden van toepassing zijn:
-
-De IND verleent een verblijfsvergunning asiel voor bepaalde tijd op grond van [artikel 29, eerste lid, aanhef en onder b, Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=29) als bij de verwijdering van de vreemdeling uit Nederland sprake is van een reëel risico op ernstige schade in de zin van artikel 29, eerste lid, aanhef en onder b, Vw, en [artikel 3.37b VV](https://wetten.overheid.nl/jci1.3:c:BWBR0012002&artikel=3.37b).
-
-Het reëel risico op ernstige schade kan aanwezig zijn op het moment van het vertrek van de vreemdeling uit het land van herkomst, maar kan ook ontstaan na vertrek van de vreemdeling uit het land van herkomst.
-
 De IND verleent geen verblijfsvergunning asiel voor bepaalde tijd op grond van artikel 29, eerste lid, aanhef en onder b, Vw, als [artikel 3.105e, aanhef en onder e, Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=3.105e) van toepassing is.
 
 ### 5. Afwijzingsgronden verblijfsvergunning asiel voor bepaalde tijd (imperatief)
 
-De IND beoordeelt of sprake is van een situatie als beschreven in artikel 29, eerste lid, aanhef en onder b, Vw aan de hand van alle volgende elementen:
+Het reëel risico op ernstige schade kan aanwezig zijn op het moment van het vertrek van de vreemdeling uit het land van herkomst, maar kan ook ontstaan na vertrek van de vreemdeling uit het land van herkomst.
 
 ### 6. Afwijzingsgronden verblijfsvergunning asiel voor bepaalde tijd (facultatief)
 
 ### 6.1. Er is geen rechtsgrond voor verlening van een verblijfsvergunning asiel voor bepaalde tijd.
+
+De IND beoordeelt of sprake is van een situatie als beschreven in artikel 29, eerste lid, aanhef en onder b, Vw aan de hand van alle volgende elementen:
+
+De IND toetst of de vreemdeling in aanmerking komt voor een verblijfsvergunning asiel voor bepaalde tijd op grond van artikel 29 eerste lid, aanhef onder b, Vw, aan de hand van vorenstaande volgorde.
+
+Er is sprake van een uitzonderlijke situatie >als bedoeld in artikel 3EVRM (en artikel 15c van de richtlijn 2011/95/EU indien de algehele gewelds- en mensenrechtensituatie in het land van herkomst, of in een bepaald gebied in dit land zo uitzonderlijk slecht is dat voor elke vreemdeling, ongeacht de individuele omstandigheden bij terugkeer een reëel risico op ernstige schade (in de woorden van het EHRM: **most extreme cases of general violence**). De Minister is bevoegd een situatie in een land van herkomst aan te merken als uitzonderlijke situatie.
 
 Bij de vraag of sprake is van een uitzonderlijke situatie worden in ieder geval de volgende elementen in samenhang gewogen:
 
@@ -853,27 +859,27 @@ De IND verleent geen verblijfsvergunning asiel voor bepaalde tijd op grond van a
 
 De IND verleent geen verblijfsvergunning asiel voor bepaalde tijd op grond van artikel 29 eerste lid, aanhef en onder b, Vw indien sprake is van:
 
-De IND verleent een vrouw, die zich beroept op een vrees voor genitale verminking, een verblijfsvergunning asiel voor bepaalde tijd op grond van artikel 29 eerste lid, aanhef en onder b, Vw, als wordt voldaan aan alle volgende voorwaarden:
-
-De IND beoordeelt op basis van de individuele verklaringen van de vreemdeling of de vreemdeling in aanmerking komt voor een verblijfsvergunning asiel voor bepaalde tijd op grond van artikel 29 eerste lid, aanhef en onder b, Vw vanwege een reëel risico op genitale verminking bij vrouwen.
-
-De IND weegt daarbij mee de algemene informatie over genitale verminking bij vrouwen in het land van herkomst. Dit kan bijvoorbeeld blijken uit een ambtsbericht van de Minister van Buitenlandse Zaken.
-
 ### 6.1. Er is geen rechtsgrond voor verlening van een verblijfsvergunning asiel voor bepaalde tijd.
 
 ### 6. Afwijzingsgronden verblijfsvergunning asiel voor bepaalde tijd (facultatief)
 
-De IND beoordeelt of uitzetting in verband met de medische toestand van de uit te zetten vreemdeling, onder uitzonderlijke omstandigheden en wegens dwingende redenen van humanitaire aard, bij gebrek aan medische voorzieningen en sociale opvang in het land waarnaar wordt uitgezet, leidt tot ernstige schade.
+De IND weegt daarbij mee de algemene informatie over genitale verminking bij vrouwen in het land van herkomst. Dit kan bijvoorbeeld blijken uit een ambtsbericht van de Minister van Buitenlandse Zaken.
 
 ### 6.2.2. Niet onverwijld gemeld
 
-Indien uit het BMA advies blijkt dat de ziekte van de vreemdeling zich op het moment van de beoordeling niet in een vergevorderd en direct levensbedreigend stadium bevindt concludeert de IND dat er geen sprake is van uitzonderlijke omstandigheden, zoals hier bedoeld.
+In afwijking van het voorgaande verleent de IND bij een beroep op vrees voor genitale verminking in ieder geval geen verblijfsvergunning asiel voor bepaalde tijd op grond van artikel 29 eerste lid, aanhef en onder b, Vw, aan:
 
 ### 6.2.3. Toerekenbaar geen of onvoldoende documenten overgelegd
 
-De situatie dat er geen sprake is van ziekte in een vergevorderd en direct levensbedreigend stadium, maar dat er bij uitblijven van de medische behandeling op korte termijn een medische noodsituatie zal optreden kan de IND meewegen in het kader van de beoordeling van [artikel 64 Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=64).
+De IND beoordeelt, mede op basis van een actueel BMA advies, de omstandigheden aan de hand van de drie volgende criteria.
+
+Indien uit het BMA advies blijkt dat de ziekte van de vreemdeling zich op het moment van de beoordeling niet in een vergevorderd en direct levensbedreigend stadium bevindt concludeert de IND dat er geen sprake is van uitzonderlijke omstandigheden, zoals hier bedoeld.
 
 Indien er wel sprake is van een ziekte in een vergevorderd en direct levensbedreigend stadium toetst de IND voor de uitzonderlijke omstandigheden waar de vreemdeling in kan komen te verkeren aan de criteria onder b en c. De medische zorg en steun van naasten, waaronder de familieleden van de vreemdeling, in het land van herkomst worden door de IND beoordeeld in samenhang met het stadium waarin de ziekte zich bevindt. De mogelijkheden voor de benodigde medische behandeling in het land van herkomst volgen uit het BMA advies. De IND beoordeelt de omstandigheid of de familie aan de vreemdeling ondersteuning kan bieden aan de hand van de verklaringen van de vreemdeling en/of aanvullend onderzoek.
+
+De situatie dat er geen sprake is van ziekte in een vergevorderd en direct levensbedreigend stadium, maar dat er bij uitblijven van de medische behandeling op korte termijn een medische noodsituatie zal optreden kan de IND meewegen in het kader van de beoordeling van [artikel 64 Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=64).
+
+In beide uitzonderingssituaties constateert de IND dat bescherming van de vreemdeling door de autoriteiten in het land van herkomst mogelijk is.
 
 De IND beoordeelt de bescherming van de vreemdeling in de zin van [artikel 3.37c,VV](https://wetten.overheid.nl/jci1.3:c:BWBR0012002&artikel=3.37c) en [artikel 3.37d, VV](https://wetten.overheid.nl/jci1.3:c:BWBR0012002&artikel=3.37d) nadat is vastgesteld dat de vreemdeling een gegronde vrees heeft voor vervolging als bedoeld in [artikel 29 eerste lid, aanhef en onder a Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=29) of daden als bedoeld in artikel 29 eerste lid, aanhef en onder b Vw. De IND beoordeelt de vraag of deze bescherming van de vreemdeling mogelijk is, op het moment waarop het besluit op de aanvraag om verlening van een verblijfsvergunning asiel voor bepaalde tijd wordt genomen.
 
@@ -899,13 +905,13 @@ Als uit algemene informatie over het land van herkomst blijkt dat bescherming ni
 
 Als de vreemdeling stelt dat het inroepen van bescherming gevaarlijk zou zijn, terwijl dit niet uit openbare, objectieve bron blijkt, moet de vreemdeling dit voor zijn individuele situatie aannemelijk maken.
 
-Bij de beantwoording van de vraag of een vreemdeling bescherming in Nederland nodig heeft tegen dreigende vervolging of daden als bedoeld in artikel 29 eerste lid, aanhef en onder b, Vw, beoordeelt de IND of de vreemdeling in het land van herkomst een beschermingsalternatief heeft om zich in een ander gebied in het land van herkomst aan deze dreiging te onttrekken.
+### 6.2.4. Veilig land van herkomst en veilig derde land
 
 De term beschermingsalternatief is een verzamelterm voor het vlucht- of vestigingsalternatief. Bepalend voor het gebruik van deze termen is de dreiging waartegen deze alternatieven voor de vreemdeling bescherming bieden.
 
 De IND gebruikt de term vluchtalternatief bij bescherming van de vreemdeling tegen dreigende vervolging in de zin van het Vluchtelingenverdrag.
 
-### 6.2.4. Veilig land van herkomst en veilig derde land
+De IND gebruikt de term vestigingsalternatief bij bescherming van de vreemdeling tegen daden als bedoeld in artikel 29, eerste lid, aanhef en onder b Vw.
 
 De IND neemt aan dat een ander gebied in het land van herkomst op grond van artikel 3.37d VV voldoet als vlucht- of vestigingsalternatief als aan alle volgende voorwaarden is voldaan:
 
@@ -913,13 +919,13 @@ Naast het vereiste dat de dreiging in het andere gebied niet mag bestaan, is het
 
 Als de dreiging een gevolg is van een uitzonderlijke situatie als bedoeld in artikel 15c van richtlijn 2011/95/EU in een bepaald gebied en niet gerelateerd is aan individuele, persoonlijke vrees, kan de vreemdeling afkomstig uit dat gebied zich onttrekken aan deze dreiging door zich te vestigen in een plaats gelegen buiten het hier bedoelde gebied. De voorwaarden genoemd onder b en c voor het tegenwerpen van een vestigingsalternatief blijven onverminderd van toepassing.
 
-Het gebied moet vanuit Nederland daadwerkelijk bereikbaar zijn. Daarnaast moet het gebied op legale en veilige wijze kunnen worden bereikt.
+### 6.2.1. Zonder geldige reden niet beschikbaar gehouden
 
 De bescherming die de vreemdeling in het gebied krijgt, hoeft niet dezelfde te zijn als de bescherming die de vreemdeling in Nederland zou hebben gekregen.
 
 De vreemdeling moet zich in het gebied kunnen vestigen en een leven kunnen leiden onder omstandigheden, die naar plaatselijke maatstaven gemeten als normaal zijn aan te merken. De vreemdeling mag in het betreffende gebied niet achtergesteld worden in de uitoefening van essentiële rechten ten opzichte van de overige bevolking. Daarnaast mogen de levensomstandigheden in het betreffende gebied in zijn algemeenheid niet zodanig zijn dat dit op zichzelf al kan leiden tot een humanitaire noodsituatie.
 
-### 6.2.1. Zonder geldige reden niet beschikbaar gehouden
+Dat de omstandigheden in het gebied minder gunstig zijn dan in het oorspronkelijke woongebied van de vreemdeling is voor de IND onvoldoende reden om geen vlucht- of vestigingsalternatief tegen te werpen.
 
 De IND beoordeelt aan de hand van de over het land van herkomst beschikbare nauwkeurige en actuele informatie uit relevante bronnen of een vlucht- of vestigingsalternatief in de individuele zaak van de vreemdeling aanwezig is.
 
@@ -927,17 +933,17 @@ In het landgebonden asielbeleid kan de Staatssecretaris van Veiligheid en Justit
 
 De IND verleent geen verblijfsvergunning op grond van artikel 29, eerste lid, Vw als er concrete aanwijzingen bestaan dat de vreemdeling na indiening van zijn aanvraag om verlening van een verblijfsvergunning asiel voor bepaalde tijd naar zijn land van herkomst terug is geweest.
 
-In het landgebonden asielbeleid kan de Staatssecretaris van Veiligheid en Justitie het bestaan van een vlucht- of vestigingsalternatief op basis van de beschikbare nauwkeurige en actuele informatie uit relevante bronnen met inachtneming van de genoemde voorwaarden van tevoren vaststellen dan wel uitsluiten voor:
-
-De IND verleent geen verblijfsvergunning op grond van artikel 29, eerste lid, Vw als er concrete aanwijzingen bestaan dat de vreemdeling na indiening van zijn aanvraag om verlening van een verblijfsvergunning asiel voor bepaalde tijd naar zijn land van herkomst terug is geweest.
-
-Het wettelijk kader voor het verlenen van de afgeleide verblijfsvergunning voor nareizende gezinsleden staat beschreven in [artikel 29, tweede lid, onder a, b of c, Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=29).
-
 De houder van een verblijfsvergunning asiel voor bepaalde tijd, die verzoekt om overkomst van zijn gezinsleden, wordt aangemerkt als ‘referent’.
 
 De termijn van drie maanden, die in [artikel 29, tweede lid, Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=29) wordt genoemd, gaat in op de dag na die waarop het besluit voor verlening van de verblijfsvergunning asiel voor bepaalde tijd aan de referent bekend is gemaakt.
 
 ### 6.2.6. Verblijfsalternatief
+
+De houder van een verblijfsvergunning asiel voor bepaalde tijd, die verzoekt om overkomst van zijn gezinsleden, wordt aangemerkt als ‘referent’.
+
+De termijn van drie maanden, die in [artikel 29, tweede lid, Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=29) wordt genoemd, gaat in op de dag na die waarop het besluit voor verlening van de verblijfsvergunning asiel voor bepaalde tijd aan de referent bekend is gemaakt.
+
+De termijn van drie maanden, zoals die in [artikel 29 tweede lid, Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=29) wordt genoemd, is veiliggesteld als:
 
 De IND verleent de verblijfsvergunning asiel voor bepaalde tijd op grond van [artikel 29, tweede lid, Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=29) als de referent zijn gezinsleden ook heeft genoemd tijdens zijn asielprocedure.
 
@@ -955,13 +961,13 @@ Ook als men niet heeft samengewoond of maar heel kort heeft samengewoond, of ind
 
 Het uitgangspunt is dat voor biologische minderjarige kinderen geldt dat de biologische band tussen de ouder(s) en het kind als feitelijke gezinsband wordt aangemerkt. Slechts in zeer uitzonderlijke situaties eindigt de gezinsband tussen ouders en hun minderjarige biologische kinderen.
 
-Indien er sprake is van één of meer van de volgende omstandigheden (contra-indicaties), kan in ieder geval worden aangenomen dat het kind niet langer feitelijk tot het gezin van de ouder(s) behoort:
+### 6.2.4. Veilig land van herkomst en veilig derde land
 
 Indien het kind zelf de zorg heeft voor afhankelijke gezinsleden, onder wie (buitenechtelijke) kinderen, is dit alleen een reden om aan te nemen dat het niet langer feitelijk behoort tot het gezin van de ouder(s), indien daarnaast sprake is van één van de eerste twee hiervóór genoemde omstandigheden.
 
 Het beleid voor biologische minderjarige kinderen is ook van toepassing op minderjarige kinderen uit een eerdere relatie van de referent (voorkinderen) waarbij de biologische afstammingsrelatie is vastgesteld. Voor overkomst van het kind is een toestemmingsverklaring van de achterblijvende ouder noodzakelijk.
 
-### 6.2.4. Veilig land van herkomst en veilig derde land
+Voor meerderjarige kinderen geldt eveneens dat het kind feitelijk moet behoren tot het gezin van de referent. In dit geval moet er sprake zijn van een normale afhankelijkheidsrelatie tussen de referent en het meerderjarige kind en dient de referent aan te tonen dat het meerderjarig kind in het buitenland altijd feitelijk tot zijn gezin heeft behoord en dat die feitelijke gezinsband niet verbroken is.
 
 Voor de beoordeling of het meerderjarig kind feitelijk behoort tot het gezin wordt niet alleen betrokken de gezinssituatie ten tijde van de beoordeling van de aanvraag, maar ook de gezinssituatie ten tijde van het vertrek van de hoofdpersoon uit het land van herkomst (dan wel land van bestendig verblijf).
 
@@ -995,17 +1001,17 @@ De referent en zijn echtgeno(o)t(e) of partner moeten aannemelijk maken dat buit
 
 De IND beoordeelt of sprake is van minderjarigheid of meerderjarigheid naar Nederlands recht (zie [artikel 1.233 Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&artikel=233)).
 
-Voor onderzoek naar de feitelijke gezinsband tussen ouder(s) en biologische kinderen wordt verwezen naar paragraaf C1/3 Vc.
+### 6.2.6. Verblijfsalternatief
 
 Voor de beoordeling van aanvragen van gezinsleden in relatie tot artikel 1F Vluchtelingenverdrag wordt verwezen naar paragraaf C2/7.10 Vc (‘gezinsleden en artikel 1F Vluchtelingenverdrag’).
 
 De IND verleent de verblijfsvergunning asiel voor bepaalde tijd op grond van [artikel 29, tweede lid, Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=29) ambtshalve of op aanvraag.
 
-### 6.2.6. Verblijfsalternatief
+De IND verleent de verblijfsvergunning asiel voor bepaalde tijd op grond van [artikel 29, tweede lid, Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=29) ambtshalve (conform [artikel 28, eerste lid onder d en derde lid Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=28)) als de vreemdeling met een daartoe afgegeven mvv is ingereisd, zich vervolgens binnen drie dagen heeft aangemeld via het door de IND opgegeven telefoonnummer en de mvv op die datum nog geldig is. De ingangsdatum is de datum als bedoeld in [artikel 3.105a eerste lid, Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=3.105a), tenzij de vreemdeling bij de afgifte van de mvv heeft aangegeven de datum als bedoeld in artikel 3.105a tweede lid, Vb als ingangsdatum te prefereren.
 
 De IND verleent de verblijfsvergunning asiel voor bepaalde tijd op grond van [artikel 29, tweede lid, Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=29) op aanvraag aan het gezinslid van een referent indien:
 
-De IND verleent de verblijfsvergunning asiel voor bepaalde tijd op grond van [artikel 29, tweede lid, Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=29) ambtshalve (conform [artikel 28, eerste lid onder d en derde lid Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=28)) als de vreemdeling met een daartoe afgegeven mvv is ingereisd, zich vervolgens binnen drie dagen heeft aangemeld via het door de IND opgegeven telefoonnummer en de mvv op die datum nog geldig is. De ingangsdatum is de datum als bedoeld in [artikel 3.105a eerste lid, Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=3.105a), tenzij de vreemdeling bij de afgifte van de mvv heeft aangegeven de datum als bedoeld in artikel 3.105a tweede lid, Vb als ingangsdatum te prefereren.
+Verordening (EU) nr. 604/2013 maakt een onderscheid tussen een verzoek om internationale bescherming en de (formele) indiening daarvan. Een aanvraag voor een verblijfsvergunning asiel voor bepaalde tijd in de zin van de [Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823), kan alleen schriftelijk met een vastgesteld model worden ingediend.
 
 De IND neemt, conform [artikel 30, Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=30), de aanvraag van de vreemdeling voor een verblijfsvergunning asiel voor bepaalde tijd niet in behandeling indien een andere lidstaat verantwoordelijk is voor behandeling van het verzoek om internationale bescherming op grond van de Verordening (EU) nr. 604/2013 (Dublinverordening).
 
@@ -1039,11 +1045,11 @@ In de volgende gevallen past de IND artikel 16, eerste lid, Verordening (EU) nr.
 
 De IND wijkt alleen in uitzonderlijke situaties af van de verplichting om afhankelijke gezins- of familieleden samen te brengen.
 
-In de volgende gevallen past de IND artikel 16, eerste lid, Verordening (EU) nr. 604/2013 toe:
+Die bescherming van de vreemdeling kan in ieder geval blijken uit:
 
 De omstandigheden die kunnen leiden tot de conclusie dat een aanvraag niet-ontvankelijk is, zijn beschreven in [artikel 30a, Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=30a) en worden behandeld in deze paragraaf.
 
-De omstandigheden die kunnen leiden tot de conclusie dat een aanvraag niet-ontvankelijk is, zijn beschreven in [artikel 30a, Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=30a) en worden behandeld in deze paragraaf.
+Wanneer een vreemdeling bescherming geniet in een andere EU-lidstaat, is toegang tot en terugkeer naar de andere lidstaat gegarandeerd.
 
 Die bescherming van de vreemdeling kan in ieder geval blijken uit:
 
@@ -1051,7 +1057,7 @@ Wanneer het verblijfsdocument van de vreemdeling verlopen is, wil dat niet zegge
 
 Wanneer een vreemdeling bescherming geniet in een andere EU-lidstaat, is toegang tot en terugkeer naar de andere lidstaat gegarandeerd.
 
-Wanneer het verblijfsdocument van de vreemdeling verlopen is, wil dat niet zeggen dat de vreemdeling geen bescherming meer geniet in de betreffende EU-lidstaat. In dat geval moet worden nagegaan of de bescherming nog steeds van toepassing is.
+De IND gaat uit van wedertoelating in deze situaties, tenzij de vreemdeling aannemelijk maakt dat wedertoelating niet het geval is.
 
 Het gaat in ieder geval om de volgende situaties:
 
@@ -1061,45 +1067,45 @@ De IND gaat uit van wedertoelating in deze situaties, tenzij de vreemdeling aann
 
 Enkel het bezit van een geldig visum voor een derde land is in dit kader onvoldoende om te spreken van ‘bescherming’ in de zin van [artikel 30a, eerste lid, onder b, Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=30a).
 
-De IND gaat uit van wedertoelating in deze situaties, tenzij de vreemdeling aannemelijk maakt dat wedertoelating niet het geval is.
+### 6.3. Veilig derde land
 
 In deze paragraaf zijn beleidsregels opgenomen die een uitwerking zijn van de volgende artikelen:
 
-Bij de vraag of een veilig derde land voor de individuele vreemdeling als veilig moet worden beschouwd, vormt het relaas van de vreemdeling het uitgangspunt. De IND weegt mee of het betreffende land in de praktijk de verplichtingen uit de relevante mensenrechtenverdragen naleeft. De IND kan de presumptie van veilig derde land niet handhaven wanneer de vreemdeling aannemelijk maakt dat het betreffende derde land in zijn specifieke geval niet als veilig land kan worden beschouwd. In dat geval beoordeelt de IND op de gebruikelijke wijze of de vreemdeling in aanmerking komt voor internationale bescherming.
+### 7. Procedurele regels verblijfsvergunning asiel voor bepaalde tijd
 
-### 6.2.8.4. Bewijslast en verantwoordelijkheid
+De IND en de vreemdeling hebben een gedeelde bewijslast op de vraag of een derde land als veilig kan worden aangemerkt, namelijk:
 
 De IND onderzoekt of de vreemdeling een zodanige band heeft met het derde land dat het van de vreemdeling redelijkerwijs verwacht mag worden dat hij naar dat land gaat.
 
-### 7. Procedurele regels verblijfsvergunning asiel voor bepaalde tijd
+De IND neemt in de volgende gevallen in ieder geval aan dat de vreemdeling een band heeft met een derde land:
 
 De IND neemt in ieder geval aan dat een derde land niet als veilig kan worden aangemerkt wanneer voor dat land een besluitmoratorium als bedoeld in [artikel 43 Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=43) van toepassing is.
 
 De IND verklaart een aanvraag om een verblijfsvergunning asiel voor bepaalde tijd alleen niet-ontvankelijk op grond van artikel 30a, eerste lid, onder c, Vw indien er redenen zijn om aan te nemen dat de vreemdeling wordt toegelaten tot het veilige derde land.
 
-De IND neemt in ieder geval aan dat een derde land niet als veilig kan worden aangemerkt wanneer voor dat land een besluitmoratorium als bedoeld in [artikel 43 Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=43) van toepassing is.
-
-Met ‘nieuwe elementen of bevindingen’ wordt hetzelfde bedoeld als ‘nieuw gebleken feiten of veranderde omstandigheden’ zoals bedoeld in [artikel 4:6 Awb](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:6).
-
-Een aanvraag wordt als een opvolgende aanvraag beschouwd, wanneer er geen beroep in eerste aanleg meer open staat tegen de afwijzing van de vorige aanvraag, hetzij omdat de termijn voor het instellen van beroep is verstreken, hetzij omdat er een uitspraak in beroep is gedaan.
-
 ### 6.4. Opvolgende aanvraag zonder nieuwe elementen of bevindingen
 
 ### 6.5. Reeds in bezit van verblijfsvergunning op grond van artikel 29, eerste lid, Vw
 
+Een aanvraag wordt als een opvolgende aanvraag beschouwd, wanneer er geen beroep in eerste aanleg meer open staat tegen de afwijzing van de vorige aanvraag, hetzij omdat de termijn voor het instellen van beroep is verstreken, hetzij omdat er een uitspraak in beroep is gedaan.
+
 Wanneer de aanvraag kan worden afgewezen wegens niet-ontvankelijkheid, maakt de IND hiervan gebruik en wijst de IND niet af op grond van artikel 4:6 Awb.
 
-De IND verklaart een aanvraag voor een asielvergunning door een vreemdeling die al een asielvergunning bezit, niet-ontvankelijk.
+Indien wordt beslist op een opvolgende aanvraag terwijl het beroep in de eerdere procedure nog niet op zitting is behandeld, zendt de IND het besluit op de opvolgende aanvraag aan de behandelend rechtbank toe met het verzoek dit, indien de vreemdeling ook hiertegen beroep instelt, gezamenlijk te behandelen.
+
+### 6.5. Reeds in bezit van verblijfsvergunning op grond van artikel 29, eerste lid, Vw
 
 De IND verklaart een aanvraag voor een asielvergunning door een vreemdeling die al een asielvergunning bezit, niet-ontvankelijk.
-
-### 7. Gegrond, ongegrond en kennelijk ongegrond
-
-De beoordeling of een aanvraag voor een verblijfsvergunning asiel gegrond of ongegrond is, vindt plaats aan de hand van [artikel 31 Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=31). De omstandigheden die kunnen leiden tot de conclusie dat een aanvraag kennelijk ongegrond is, zijn beschreven in [artikel 30b Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=30b) en worden behandeld in paragraaf C2/7.1 t/m C2/7.11 van de Vc. Eerst nadat de IND heeft beoordeeld of een aanvraag ongegrond is, beoordeelt de IND of de aanvraag tevens als kennelijk ongegrond kan worden afgewezen.
 
 Onder aangelegenheden die niet ter zake doen verstaat de IND alle aangelegenheden die geen betrekking hebben op voor de beoordeling van het asielverzoek relevante informatie. Deze aangelegenheden raken niet aan Vluchtelingschap of artikel 3 EVRM.
 
 ### 7.2. Veilig land van herkomst
+
+In deze paragraaf zijn beleidsregels opgenomen die een uitwerking zijn van de volgende artikelen:
+
+Onder aangelegenheden die niet ter zake doen verstaat de IND alle aangelegenheden die geen betrekking hebben op voor de beoordeling van het asielverzoek relevante informatie. Deze aangelegenheden raken niet aan Vluchtelingschap of artikel 3 EVRM.
+
+In dat geval verklaart de IND een aanvraag om een verblijfsvergunning asiel voor bepaalde tijd niet kennelijk ongegrond op grond van artikel 30b, eerste lid, onder b, Vw.
 
 In deze paragraaf zijn beleidsregels opgenomen die een uitwerking zijn van de volgende artikelen:
 
@@ -1113,7 +1119,7 @@ Bij de beantwoording van de vraag of het land van herkomst van de vreemdeling te
 
 De IND neemt in ieder geval aan dat een land van herkomst niet als veilig kan worden aangemerkt wanneer op dat land een besluitmoratorium als bedoeld in [artikel 43 Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=43) van toepassing is.
 
-Bij de beantwoording van de vraag of het land van herkomst van de vreemdeling ten aanzien van hem als veilig kan worden aangemerkt, geldt een tussen de IND en de vreemdeling gedeelde bewijslast, namelijk:
+Bij ‘identiteitsdocumenten’ moet het gaan om documenten die specifiek te herleiden zijn tot de betreffende vreemdeling, hetzij door middel van een pasfoto, hetzij door middel van biometrische gegevens.
 
 Onder misleiden wordt verstaan: de vreemdeling probeert in een gunstiger positie te komen door bewust informatie te verstrekken die aantoonbaar onjuist is of informatie achter te houden. Hij probeert als het ware de autoriteiten op het verkeerde been te zetten, teneinde in aanmerking te komen voor een verblijfsvergunning.
 
@@ -1121,13 +1127,13 @@ Van misleiden is in ieder geval sprake indien:
 
 Bij ‘identiteitsdocumenten’ moet het gaan om documenten die specifiek te herleiden zijn tot de betreffende vreemdeling, hetzij door middel van een pasfoto, hetzij door middel van biometrische gegevens.
 
-De IND verklaart niet zonder meer een aanvraag kennelijk ongegrond wanneer identiteits- of nationaliteitsdocumenten (toerekenbaar) ontbreken. Er moet sprake zijn van een zekere ‘opzettelijkheid’.
+### 7.4. Waarschijnlijk, te kwader trouw, een identiteits- of reisdocument vernietigd of zich daarvan ontdaan
 
 In de volgende gevallen is wel sprake van het toerekenbaar ontbreken van documenten, maar niet zonder meer van ‘misleiden’ door documenten achter te houden:
 
 De verklaringen van de vreemdeling omtrent het verlies dan wel de omstandigheden waaronder hij de documenten heeft afgegeven dienen geloofwaardig te zijn.
 
-### 7.4. Waarschijnlijk, te kwader trouw, een identiteits- of reisdocument vernietigd of zich daarvan ontdaan
+De IND verklaart niet zondermeer een aanvraag kennelijk ongegrond wanneer identiteits- of reisdocumenten (toerekenbaar) ontbreken. Er moet sprake zijn van een zekere ‘opzettelijkheid’.
 
 ‘Te kwader trouw’ betekent dat de vreemdeling bewust en opzettelijk informatie heeft achtergehouden of vernietigd, met als doel daardoor in een gunstiger positie te komen. ‘Waarschijnlijk’ betekent dat de IND dit bedrog niet hoeft aan te tonen of bewijzen, maar dat er sprake moet zijn van een zekere ‘aannemelijkheid’ dat de vreemdeling te kwader trouw heeft gehandeld. Die aannemelijkheid kan zien op twee onderdelen:
 
@@ -1139,35 +1145,29 @@ In de volgende gevallen is wel sprake van het toerekenbaar ontbreken van documen
 
 De verklaringen van de vreemdeling omtrent het verlies dan wel de omstandigheden waaronder hij de documenten heeft afgegeven dienen geloofwaardig te zijn.
 
-In de volgende gevallen is wel sprake van het toerekenbaar ontbreken van documenten, maar staat niet zonder meer vast dat dit (waarschijnlijk) te kwader trouw gebeurde:
+De IND verstaat de bepaling in artikel 30b, eerste lid, onder e, Vw als volgt:
 
 De IND verstaat de bepaling in artikel 30b, eerste lid, onder e, Vw als volgt:
 
 Het gaat om duidelijke vormen van ongeloofwaardigheid, waarvan in redelijkheid kan worden aangenomen dat hierover geen twijfel bestaat en waardoor de verklaringen alle overtuigingskracht wordt ontnomen.
 
-De IND verstaat de bepaling in artikel 30b, eerste lid, onder e, Vw als volgt:
+Bij de beoordeling of sprake is van het uitstellen of verijdelen van de uitzetting of overdracht betrekt de IND het moment waarop de vreemdeling zijn asielwens kenbaar maakt. Situaties waarbij dit van toepassing kan zijn, zijn bijvoorbeeld:
 
 Bij de beoordeling of sprake is van het uitstellen of verijdelen van de uitzetting of overdracht betrekt de IND het moment waarop de vreemdeling zijn asielwens kenbaar maakt. Situaties waarbij dit van toepassing kan zijn, zijn bijvoorbeeld:
 
 Verder wordt aangesloten bij [artikel 3.1, vierde lid, Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=3.1).
 
-Bij de beoordeling of sprake is van het uitstellen of verijdelen van de uitzetting of overdracht betrekt de IND het moment waarop de vreemdeling zijn asielwens kenbaar maakt. Situaties waarbij dit van toepassing kan zijn, zijn bijvoorbeeld:
+Het gaat in [artikel 30b, eerste lid, onder h, Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=30b) om de situatie dat:
 
 Hieronder valt in ieder geval een opvolgende aanvraag waarbij nieuwe elementen en bevindingen zijn ingebracht die relevant kunnen zijn voor de beoordeling van de aanvraag, maar waar dit niet leidt tot een inwilliging van de aanvraag.
 
-Hieronder valt in ieder geval een opvolgende aanvraag waarbij nieuwe elementen en bevindingen zijn ingebracht die relevant kunnen zijn voor de beoordeling van de aanvraag, maar waar dit niet leidt tot een inwilliging van de aanvraag.
+### 7.8. Zonder gegronde reden niet zo snel mogelijk gemeld
 
 Het gaat in [artikel 30b, eerste lid, onder h, Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=30b) om de situatie dat:
 
 Hieronder valt ook de vreemdeling die zich pas meldt na het verlopen van een visum. ‘Gezien de omstandigheden bij binnenkomst’ zoals volgt in artikel 30b, eerste lid, onder h, Vw, betekent dat bij de beoordeling betrokken moet worden of de asielmotieven al aanwezig waren bij binnenkomst, of dat die op een later moment zijn ontstaan.
 
-### 7.9. Weigeren vingerafdrukken
-
-Hieronder valt ook de vreemdeling die zich pas meldt na het verlopen van een visum. ‘Gezien de omstandigheden bij binnenkomst’ zoals volgt in artikel 30b, eerste lid, onder h, Vw, betekent dat bij de beoordeling betrokken moet worden of de asielmotieven al aanwezig waren bij binnenkomst, of dat die op een later moment zijn ontstaan.
-
-Een vreemdeling werkt in de volgende gevallen onvoldoende mee aan het onderzoek in het kader van de beoordeling van zijn asielaanvraag:
-
-Een vreemdeling werkt in de volgende gevallen onvoldoende mee aan het onderzoek in het kader van de beoordeling van zijn asielaanvraag:
+De IND werpt de vreemdeling niet tegen dat hij onrechtmatig binnen is gekomen als de vreemdeling zich uit eigen beweging binnen 48 uur na binnenkomst in Nederland heeft gemeld bij een ambtenaar belast met de grensbewaking of het toezicht op vreemdelingen en daar kenbaar heeft gemaakt dat hij een aanvraag tot het verlenen van een verblijfsvergunning asiel voor bepaalde tijd wil indienen.
 
 Een vreemdeling werkt in de volgende gevallen onvoldoende mee aan het onderzoek in het kader van de beoordeling van zijn asielaanvraag:
 
@@ -1177,55 +1177,55 @@ De IND beoordeelt of van het beleid moet worden afgeweken, indien de vreemdeling
 
 Voor de toepassing van het begrip ‘gevaar voor de nationale veiligheid’, zie [paragraaf B1/4.4](onbekend) Vc.
 
-De IND kan de aanvraag voor een verblijfsvergunning asiel voor bepaalde tijd ook kennelijk ongegrond verklaren op grond van [artikel 30b, eerste lid onder j Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=30b), als sprake is van een ernstig misdrijf, dat geen zelfstandige afwijzing van de aanvraag rechtvaardigt.
+Bij de beoordeling van een aanvraag tot het verlenen van een verblijfsvergunning asiel, onderzoekt de IND of de vreemdeling een gevaar vormt voor de openbare orde of nationale veiligheid. De IND beoordeelt of er sprake is van een bijzonder ernstig misdrijf als de vreemdeling een verdragsvluchteling is. De IND beoordeelt of er sprake is van een ernstig misdrijf indien de vreemdeling aannemelijk heeft gemaakt een reëel risico te lopen als bedoeld in [artikel 29, eerste lid, aanhef en onder b, Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=29).
 
-**Openbare orde als de vreemdeling een verdragsvluchteling is**
+De IND beoordeelt of sprake is van een (bijzonder) ernstig misdrijf op individuele basis en aan de hand van alle relevante feitelijke en juridische gegevens. De IND betrekt daarbij in ieder geval de door de vreemdeling aangevoerde bijzondere omstandigheden, die zien op de aard en de ernst van het delict en het tijdsverloop dat is verstreken sinds het delict.
+
+De IND hanteert bij de beoordeling van het tijdsverloop de verjaringstermijnen zoals opgenomen in [paragraaf B1/4.4 Vc](onbekend). Na afloop van die termijnen wordt een eenmalig gepleegd delict niet meer tegengeworpen.
+
+De IND beoordeelt de vraag of er sprake is van een (bijzonder) ernstig misdrijf aan de hand van de vraag of de optelsom van het onvoorwaardelijk ten uitvoer te leggen gedeelte van de straffen in totaal ten minste de toepasselijke norm bedraagt. Hierbij wegen de individuele omstandigheden zwaar mee, waaronder de vraag hoe groot het aandeel is van de delicten die een gevaar voor de gemeenschap vormen. In ieder geval één van de veroordelingen zal betrekking moeten hebben op een misdrijf dat een gevaar voor de gemeenschap oplevert.
+
+De IND betrekt de strafbare feiten die de vreemdeling in het buitenland heeft gepleegd ook bij de beoordeling of sprake is van een gevaar voor de openbare orde of nationale veiligheid. Hierbij beoordeelt de IND, op basis van door het Openbaar Ministerie verstrekte informatie, welke gevolgen naar Nederlands recht aan de strafbare feiten zouden zijn verbonden, indien die strafbare feiten in Nederland zouden zijn gepleegd en bestraft.
+
+Voor de toepassing van het begrip “gevaar voor de nationale veiligheid”, zie [paragraaf B1/4.4 Vc](onbekend).
+
+De IND verklaart de aanvraag voor een verblijfsvergunning asiel voor bepaalde tijd kennelijk ongegrond op grond van [artikel 30b, eerste lid onder j Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=30b), als sprake is van een ernstig misdrijf, dat een zelfstandige afwijzing van de aanvraag rechtvaardigt.
+
+De IND past voorgaande beleidsregels ook toe bij de minderjarige vreemdeling waarbij het volwassenenstrafrecht is toegepast. Hierbij wegen de individuele omstandigheden zwaar mee.
 
 De IND verleent geen verblijfsvergunning asiel voor bepaalde tijd aan de vreemdeling, die aan alle volgende voorwaarden voldoet:
 
 Er is sprake van een ‘bijzonder ernstig misdrijf’ indien aan alle volgende voorwaarden wordt voldaan:
 
-De IND betrekt de strafbare feiten die de vreemdeling in het buitenland heeft gepleegd ook bij de beoordeling. Hierbij beoordeelt de IND, op basis van door het Openbaar Ministerie verstrekte informatie, welke gevolgen naar Nederlands recht aan de strafbare feiten zouden zijn verbonden, indien die strafbare feiten in Nederland zouden zijn gepleegd en bestraft.
+### 8.4. De grond voor verlening is komen te vervallen
+
+### 8.5. De vreemdeling heeft zijn hoofdverblijf buiten Nederland gevestigd
 
 De IND weegt bij de beoordeling van het ‘gevaar voor de gemeenschap’ dat de vreemdeling vormt in ieder geval de volgende aspecten mee:
 
 De IND beoordeelt het gevaar dat de vreemdeling voor de gemeenschap vormt aan de hand van de situatie zoals die zich voordoet bij het beoordelen van de aanvraag (‘ex nunc’-beoordeling).
 
-De IND neemt een gevaar voor de gemeenschap aan in alle volgende gevallen:
+### 2. Besluitmoratorium
 
 De vreemdeling vormt ook een gevaar voor de gemeenschap of nationale veiligheid als bedoeld in [artikel 3.105, aanhef en onder c, Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=3.105):
 
-De IND beoordeelt of de door de vreemdeling aangevoerde feiten of omstandigheden aannemelijk maken dat in zijn geval geen sprake is van gevaar voor de gemeenschap. Indien de vreemdeling aanvoert dat de laatste veroordeling lang geleden heeft plaatsgevonden en dat hij sindsdien zich niet schuldig heeft gemaakt aan het plegen van een strafbaar feit, hanteert de IND een verjaringstermijn van twintig jaren.
+De IND beoordeelt of de door de vreemdeling aangevoerde feiten of omstandigheden aannemelijk maken dat in zijn geval geen sprake is van een gevaar voor de gemeenschap.
 
-### 8.4. De grond voor verlening is komen te vervallen
+De aanvraag tot het verlenen van een verblijfsvergunning asiel voor bepaalde tijd van een vreemdeling die heeft aangetoond een risico te lopen als bedoeld in [artikel 29, eerste lid, aanhef en onder b, Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=29), kan door de IND worden afgewezen, indien de vreemdeling veroordeeld is voor een ‘ernstig misdrijf’.
 
-### 8.5. De vreemdeling heeft zijn hoofdverblijf buiten Nederland gevestigd
-
-Er is sprake van een ernstig misdrijf indien aan alle volgende voorwaarden wordt voldaan:
-
-De IND kan een ernstig misdrijf ook aan een vreemdeling tegenwerpen indien de veroordeling voor dit misdrijf nog niet onherroepelijk is geworden.
-
-### 2. Besluitmoratorium
-
-De IND werpt een veroordeling voor een ernstig misdrijf niet voor altijd aan de vreemdeling tegen. Er geldt een verjaringstermijn van tien jaar.
-
-Na verjaring van het misdrijf stuurt de IND de vreemdeling een brief met een uitnodiging tot het aanvragen van een verblijfsvergunning regulier voor bepaalde tijd. De IND willigt deze aanvraag in op grond van [artikel 3.4, derde lid, Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=3.4) indien voldaan wordt aan alle volgende voorwaarden:
-
-Het betreft in dat geval op grond van [artikel 3.5, derde lid, Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=3.5) een tijdelijk verblijfsrecht.
-
-Na verjaring van het misdrijf stuurt de IND de vreemdeling een brief met een uitnodiging tot het aanvragen van een verblijfsvergunning regulier voor bepaalde tijd. De IND willigt deze aanvraag in op grond van [artikel 3.4, derde lid, Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=3.4) indien voldaan wordt aan alle volgende voorwaarden:
+Er kan sprake zijn van een ernstig misdrijf indien aan alle volgende voorwaarden wordt voldaan:
 
 ### 7.10.2.1. Artikel 1F aanhef en onder a, Vluchtelingenverdrag
 
-De IND kan ‘misdrijven tegen de vrede’ in ieder geval tegenwerpen aan de hoogste civiele of militaire leidinggevenden in een land.
+[Paragraaf B1/4.4 Vc](onbekend) ten aanzien van verjaring van misdrijven is hier van overeenkomstige toepassing.
 
 De ernst van een misdrijf wordt bepaald door:
 
 De IND kan ‘misdrijven tegen de vrede’ in ieder geval tegenwerpen aan de hoogste civiele of militaire leidinggevenden in een land.
 
-Het door de vreemdeling gepleegde misdrijf wordt beschouwd als een politiek misdrijf, indien aan alle volgende voorwaarden is voldaan:
+De IND kan ‘misdrijven tegen de vrede’ in ieder geval tegenwerpen aan de hoogste civiele of militaire leidinggevenden in een land.
 
-De volgende misdrijven kunnen in ieder geval een politiek karakter hebben:
+De ernst van een misdrijf wordt bepaald door:
 
 De volgende misdrijven moeten op grond van het bovenstaande in ieder geval worden aangemerkt als ernstig niet-politiek misdrijf in de zin van artikel 1F, onder b van het Vluchtelingenverdrag:
 
@@ -1233,19 +1233,25 @@ De volgende misdrijven moeten op grond van het bovenstaande in ieder geval worde
 
 ### 7.10.2.3. Artikel 1F aanhef en onder c, Vluchtelingenverdrag
 
-Onder de doelstellingen van de VN wordt verstaan: de preambule en artikel 1 van het Handvest van de VN van 1945. Onder de beginselen van de VN wordt verstaan: artikel 2 van het Handvest van de VN van 1945.
+De volgende misdrijven moeten op grond van het bovenstaande in ieder geval worden aangemerkt als ernstig niet-politiek misdrijf in de zin van artikel 1F, onder b van het Vluchtelingenverdrag:
 
 ### 7.10.2.3. Artikel 1F aanhef en onder c, Vluchtelingenverdrag
 
 Om de vreemdeling verantwoordelijk te kunnen houden voor misdrijven die vallen onder artikel 1F aanhef en onder c, Vluchtelingenverdrag beoordeelt de IND:
 
+Onder de doelstellingen van de VN wordt verstaan: de preambule en artikel 1 van het Handvest van de VN van 1945. Onder de beginselen van de VN wordt verstaan: artikel 2 van het Handvest van de VN van 1945.
+
 De volgende handelingen zijn in ieder geval in strijd met de doelstellingen en beginselen van de VN:
 
-Voor tegenwerping van artikel 1F Vluchtelingenverdrag, moet de IND aantonen dat er ‘ernstige redenen’ zijn om te veronderstellen dat de vreemdeling verantwoordelijk gehouden kan worden voor één van de misdrijven zoals bedoeld in dit artikel. Indien de IND ‘ernstige redenen’ heeft aangetoond, moet de vreemdeling dit gemotiveerd weerleggen, om toepassing van artikel 1F Vluchtelingenverdrag te voorkomen.
+Om de vreemdeling verantwoordelijk te kunnen houden voor misdrijven die vallen onder artikel 1F aanhef en onder c, Vluchtelingenverdrag beoordeelt de IND:
+
+### 7.10.2.4. Bewijslast en verantwoordelijkheid
+
+### 3. Vertrekmoratorium
 
 Om te bepalen of de vreemdeling verantwoordelijk kan worden gehouden voor misdrijven en daden als bedoeld in artikel 1F Vluchtelingenverdrag, onderzoekt de IND of de vreemdeling weet heeft gehad of had behoren te hebben van het plegen van het betreffende misdrijf (knowing participation) en of hij op enige wijze hieraan persoonlijk heeft deelgenomen (personal participation).
 
-### 7.10.2.4. Bewijslast en verantwoordelijkheid
+Er is in ieder geval sprake van ‘knowing participation’ bij de vreemdeling in één van de volgende situaties:
 
 ### 3. Vertrekmoratorium
 
@@ -1253,7 +1259,7 @@ De IND neemt geen ‘knowing participation’ aan voor misdrijven als genoemd in
 
 Indien de vreemdeling bij het plegen van misdrijven als bedoeld in artikel 1F Vluchtelingenverdrag tussen de vijftien en achttien jaar oud was, betrekt de IND alle feiten en omstandigheden bij haar onderzoek om vast te stellen of de vreemdeling weet heeft gehad of had moeten hebben van de misdrijven.
 
-### 3. Vertrekmoratorium
+Als de vreemdeling bij het plegen van misdrijven als bedoeld in artikel 1F Vluchtelingenverdrag tussen de vijftien en achttien jaren oud was en als soldaat in een leger heeft gediend, worden in ieder geval de volgende omstandigheden door de IND meegewogen:
 
 Er is sprake van ‘personal participation’ bij de vreemdeling in tenminste één van de volgende situaties:
 
@@ -1261,7 +1267,7 @@ De vreemdeling heeft een misdrijf gefaciliteerd, indien zijn handelen en/of nala
 
 De IND toetst of er sprake is van een ‘significante uitzondering’ zoals beschreven in de subparagraaf ‘bewijslast en verantwoordelijkheid’ (‘knowing participation’).
 
-De vreemdeling heeft een misdrijf gefaciliteerd, indien zijn handelen en/of nalaten in wezenlijke mate heeft bijgedragen aan het misdrijf. De IND concludeert dat de vreemdeling in wezenlijke mate heeft bijgedragen indien aan beide volgende voorwaarden is voldaan:
+Wanneer de vreemdeling aanvoert uit zelfverdediging misdrijven als bedoeld in artikel 1F Vluchtelingenverdrag te hebben gepleegd, wordt deze niet gevrijwaard van verantwoordelijkheid indien er sprake is van in ieder geval een van de volgende situaties:
 
 De IND toetst aan artikel 33 van het Statuut van Rome, inzake het Internationaal Strafhof voor de beoordeling van de individuele verantwoordelijkheid van de vreemdeling, indien de vreemdeling heeft gehandeld op bevel van een regering of meerdere.
 
@@ -1269,43 +1275,43 @@ Indien de vreemdeling aanvoert dat hij gedwongen is tot het plegen van misdrijve
 
 Wanneer de vreemdeling aanvoert uit zelfverdediging misdrijven als bedoeld in artikel 1F Vluchtelingenverdrag te hebben gepleegd, wordt deze niet gevrijwaard van verantwoordelijkheid indien er sprake is van in ieder geval een van de volgende situaties:
 
-Indien de vreemdeling aanvoert dat hij gedwongen is tot het plegen van misdrijven, wordt hij niet gevrijwaard van verantwoordelijkheid indien sprake is van in ieder geval één van de volgende situaties:
+De IND neemt disproportionaliteit aan indien de vreemdeling aantoont dat hij zich in een uitzonderlijke situatie bevindt.
 
 Indien aan de vreemdeling op grond van artikel 1F Vluchtelingenverdrag geen verblijfsvergunning asiel voor bepaalde tijd wordt verleend, maar tegelijkertijd aannemelijk is dat de vreemdeling bij terugkeer een reëel risico loopt op een behandeling als bedoeld in artikel 3 EVRM beoordeelt de IND alle volgende omstandigheden:
 
 De term ‘duurzaam’ houdt in dat sprake moet zijn van alle volgende omstandigheden:
 
-De IND neemt disproportionaliteit aan indien de vreemdeling aantoont dat hij zich in een uitzonderlijke situatie bevindt.
+### 7.10.2.7. Gezinsleden en artikel 1F Vluchtelingenverdrag
 
 Indien de vreemdeling disproportionaliteit heeft aangetoond en de vreemdeling niet in aanmerking komt voor een verblijfsvergunning asiel voor bepaalde tijd, nodigt de IND de vreemdeling uit een verblijfsvergunning regulier voor bepaalde tijd aan te vragen. De IND willigt deze aanvraag in op grond van [artikel 3.4, derde lid, Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=3.4). Het betreft in dat geval op grond van [artikel 3.5, vierde lid, Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=3.5) een tijdelijk verblijfsrecht.
 
-De IND neemt disproportionaliteit aan indien de vreemdeling aantoont dat hij zich in een uitzonderlijke situatie bevindt.
+De contra-indicatie artikel 1F Vluchtelingenverdrag wordt niet langer tegengeworpen aan het gezinslid van de vreemdeling aan wie artikel 1F Vluchtelingenverdrag is tegengeworpen als aan alle volgende voorwaarden wordt voldaan:
 
-### 7.10.2.7. Gezinsleden en artikel 1F Vluchtelingenverdrag
+De IND verleent op grond van de [artikelen 3.77](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=3.77) en [3.107 Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=3.107) geen verblijfsvergunning asiel voor bepaalde tijd aan gezinsleden van een vreemdeling van wie de aanvraag voor een verblijfsvergunning asiel voor bepaalde tijd is afgewezen op grond van artikel 1F Vluchtelingenverdrag. Dit geldt niet wanneer deze gezinsleden op zelfstandige gronden in aanmerking komen voor een verblijfsvergunning asiel voor bepaalde tijd op grond van [artikel 29, eerste lid, aanhef en onder a of b, Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=29).
 
 De IND werpt de contra-indicatie artikel 1F Vluchtelingenverdrag niet tegen aan een gezinslid, indien de feitelijke gezinsband met de vreemdeling aan wie artikel 1F Vluchtelingenverdrag is tegengeworpen feitelijk verbroken is. Van verbreking van de gezinsband wordt niet uitgegaan indien blijkt dat de vreemdeling aan wie artikel 1F Vluchtelingenverdrag is tegengeworpen op enige wijze gebruik blijft maken van de voorzieningen van het gezinslid.
 
-De contra-indicatie artikel 1F Vluchtelingenverdrag wordt niet langer tegengeworpen aan het gezinslid van de vreemdeling aan wie artikel 1F Vluchtelingenverdrag is tegengeworpen als aan alle volgende voorwaarden wordt voldaan:
+### 7.11. Onder dwang uitgezet wegens openbare veiligheid of openbare orde
 
 Voor de gezinsleden binnen één gezin waarbinnen de feitelijke gezinsband niet is verbroken, geldt voor alle gezinsleden de datum van eerste aanvraag tot een verblijfsvergunning asiel van het hier langst verblijvende gezinslid als aanvang van de termijn. De aanvraag tot een verblijfsvergunning asiel van de vreemdeling aan wie artikel 1F Vluchtelingenverdrag is tegengeworpen telt hiervoor niet mee.
 
-De contra-indicatie artikel 1F Vluchtelingenverdrag wordt niet langer tegengeworpen aan het gezinslid van de vreemdeling aan wie artikel 1F Vluchtelingenverdrag is tegengeworpen als aan alle volgende voorwaarden wordt voldaan:
-
-### 7.11. Onder dwang uitgezet wegens openbare veiligheid of openbare orde
-
-De IND verstaat hieronder de vreemdeling die, anders dan onder [artikel 30b, eerste lid, onder j, Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=30b), op een eerder moment op grond van de openbare orde of nationale veiligheid de toegang tot Nederland (en daarmee het Schengengebied) is geweigerd en derhalve, zonder dat het gepleegde feit heeft geleid tot een inreisverbod of ongewenstverklaring zoals bedoeld in [artikel 66a Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=66a) of [artikel 67 Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=67), is uitgezet naar het land van herkomst.
-
 De IND kan een aanvraag op alle momenten na de indiening daarvan buiten behandeling stellen, indien:
 
-Zie paragraaf C1/2.3 Vc onder de kopjes**beschikbaarheid tijdens de asielprocedure** en **het niet nakomen van de aanwijziging**.
+De IND verstaat hieronder de vreemdeling die, anders dan onder [artikel 30b, eerste lid, onder j, Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=30b), op een eerder moment op grond van de openbare orde of nationale veiligheid de toegang tot Nederland (en daarmee het Schengengebied) is geweigerd en derhalve, zonder dat het gepleegde feit heeft geleid tot een inreisverbod of ongewenstverklaring zoals bedoeld in [artikel 66a Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=66a) of [artikel 67 Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=67), is uitgezet naar het land van herkomst.
 
 ### 8. Buiten behandeling stellen
 
 ### C4. Tijdelijke bescherming
 
-Indien één van bovengenoemde situaties leidt tot de conclusie dat de vreemdeling onvoldoende informatie heeft verstrekt, dan wel dat de vreemdeling met onbekende bestemming is vertrokken, wordt de aanvraag in ieder geval buiten behandeling gesteld.
+Zie paragraaf C1/2.3 Vc onder de kopjes**beschikbaarheid tijdens de asielprocedure** en **het niet nakomen van de aanwijziging**.
 
 ### 9. Nadere bepalingen over de verblijfsvergunning asiel voor bepaalde tijd
+
+Bij het beoordelen van de toerekenbaarheid betrekt de IND of de vreemdeling een geldige reden heeft voor het niet verschijnen of zonder toestemming (tijdelijk) vertrekken.
+
+Indien één van bovengenoemde situaties leidt tot de conclusie dat de vreemdeling onvoldoende informatie heeft verstrekt, dan wel dat de vreemdeling met onbekende bestemming is vertrokken, wordt de aanvraag in ieder geval buiten behandeling gesteld.
+
+De IND verlengt de geldigheidsduur van de verblijfsvergunning asiel voor bepaalde tijd met vijf jaar, tenzij zich één van de gronden van [artikel 32 Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=32) voordoet, van de vreemdeling die vijf achtereenvolgende jaren rechtmatig verblijf heeft gehad op basis van [artikel 8, onder c, Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=8), maar niet in aanmerking komt voor een verblijfsvergunning asiel voor onbepaalde tijd. De verlenging van de geldigheidsduur van de vergunning asiel voor bepaalde tijd met vijf jaar geldt tevens als de aanvraag van de verblijfsvergunning voor onbepaalde tijd buiten behandeling wordt gesteld vanwege het niet voldoen van het legesbedrag.
 
 De IND vermeldt op de verblijfsvergunning asiel voor bepaalde tijd de arbeidsmarktbeperking: ‘Arbeid vrij toegestaan; TWV niet vereist’.
 
@@ -1315,63 +1321,63 @@ De IND verlengt de geldigheidsduur van de verblijfsvergunning asiel voor bepaald
 
 De IND reikt op grond van [artikel 9 Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=9) het verblijfsdocument waaruit het rechtmatig verblijf blijkt uit aan het IND loket dat zich het dichtst bij de woon- of verblijfplaats van de vreemdeling bevindt.
 
-De vreemdeling kan een aanvraag indienen tot het vervangen of vernieuwen van het verblijfsdocument waaruit zijn rechtmatig verblijf blijkt om redenen als genoemd in [artikel 4.22 Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=4.22). De vreemdeling dient de aanvraag in bij een door de IND opgegeven postadres dat de IND via zijn website of het aanvraagformulier kenbaar maakt. De IND maakt op zijn website of op het aanvraagformulier eveneens kenbaar op welke wijze de vreemdeling de leges moet betalen. De vreemdeling dient de aanvraag in met het vereiste aanvraagformulier, dat bij de IND verkrijgbaar is.
-
-De IND reikt op grond van [artikel 9 Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=9) het verblijfsdocument waaruit het rechtmatig verblijf blijkt uit aan het IND loket dat zich het dichtst bij de woon- of verblijfplaats van de vreemdeling bevindt.
-
-De vreemdeling kan een aanvraag indienen tot het vervangen of vernieuwen van het verblijfsdocument waaruit zijn rechtmatig verblijf blijkt om redenen als genoemd in [artikel 4.22 Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=4.22). De vreemdeling dient de aanvraag in bij een door de IND opgegeven postadres dat de IND via zijn website of het aanvraagformulier kenbaar maakt. De IND maakt op zijn website of op het aanvraagformulier eveneens kenbaar op welke wijze de vreemdeling de leges moet betalen. De vreemdeling dient de aanvraag in met het vereiste aanvraagformulier, dat bij de IND verkrijgbaar is.
+### 10. Verlenging en intrekking verblijfsvergunning asiel voor bepaalde tijd
 
 ### 10. Verlenging en intrekking verblijfsvergunning asiel voor bepaalde tijd
 
-### 10.1. De vreemdeling heeft onjuiste gegevens verstrekt of gegevens achtergehouden die tot afwijzing van de aanvraag zouden hebben geleid.
+Als de IND een verblijfsvergunning asiel voor bepaalde tijd intrekt op grond van [artikel 32, eerste lid, onder a Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=32), wordt de verblijfsvergunning ingetrokken met terugwerkende kracht tot aan de ingangsdatum van de verblijfsvergunning.
+
+Met het intrekken of niet-verlengen van de verblijfsvergunning asiel voor bepaalde tijd van de vreemdeling op grond van artikel 32, beoordeelt de IND de situatie zoals die zou zijn geweest als de juiste gegevens op het moment van aanvraag tot een verblijfsvergunning asiel voor bepaalde tijd bekend zouden zijn geweest.
+
+Als de IND vaststelt dat een houder van een verblijfsvergunning asiel voor bepaalde tijd onjuiste gegevens heeft verstrekt of dat over hem door een ander onjuiste gegevens zijn verstrekt, beoordeelt de IND of de vreemdeling op grond van alle beschikbare en geloofwaardige gegevens op grond van [artikel 29, eerste en tweede lid, Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=29) in het bezit moet blijven van een verblijfsvergunning asiel voor bepaalde tijd.
 
 Als de IND een verblijfsvergunning asiel voor bepaalde tijd intrekt op grond van [artikel 32, eerste lid, onder a Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=32), wordt de verblijfsvergunning ingetrokken met terugwerkende kracht tot aan de ingangsdatum van de verblijfsvergunning.
 
-Als de IND de verblijfsvergunning asiel voor bepaalde tijd en/of onbepaalde tijd intrekt op grond van artikel 32, eerste lid, aanhef en onder a, Vw, beoordeelt de IND of de vreemdeling op het moment van het beoordelen van de intrekking van de verblijfsvergunning in het land van herkomst een risico loopt op vervolging of schending van artikel 3 EVRM.
+### 10.2. Artikel 1F Vluchtelingenverdrag blijkt alsnog van toepassing
 
 Als de IND de verblijfsvergunning asiel voor bepaalde tijd intrekt of de aanvraag om verlenging van de geldigheidsduur ervan afwijst, beoordeelt de IND op grond van [artikel 3.6a Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=3.6a) ambtshalve, of de vreemdeling in aanmerking komt voor een verblijfsvergunning regulier voor bepaalde tijd (zie verder paragraaf C1/3 Vc onder het kopje **ambtshalve toets**).
 
-Als de IND ambtshalve geen verblijfsvergunning regulier voor bepaalde tijd verleent, beoordeelt de IND op grond van [artikel 6.1e Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=6.1e) ambtshalve, of de vreemdeling in aanmerking komt voor uitstel van vertrek op grond van [artikel 64 Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=64) (zie verder paragraaf C1/3 Vc onder het kopje **ambtshalve toets**), met dien verstande dat in dat geval de ambtshalve beoordeling uitsluitend plaatsvindt indien de vreemdeling de voor die beoordeling relevante medische gegevens en overige bescheiden heeft overgelegd.
+### 10.2. Artikel 1F Vluchtelingenverdrag blijkt alsnog van toepassing
 
 ### 10.2. Artikel 1F Vluchtelingenverdrag blijkt alsnog van toepassing
 
 Het gestelde in paragraaf C2/7.10.2 Vc is van toepassing.
 
-### 10.2. Artikel 1F Vluchtelingenverdrag blijkt alsnog van toepassing
-
 ### 10.3. Gevaar voor de openbare orde of de nationale veiligheid
-
-De IND brengt geen voornemen uit tot intrekking of weigering van verlenging van de geldigheidsduur van de verblijfsvergunning asiel voor bepaalde tijd op grond van de vaststelling dat artikel 1F Vluchtelingenverdrag juncto [artikel 31, tweede lid, onder k Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=31) van toepassing is, voordat de vreemdeling in de gelegenheid is gesteld tijdens een gehoor op deze vaststelling te reageren. Dit gehoor wordt uitgevoerd door een ambtenaar van de IND, die gespecialiseerd is in de materie van artikel 1F Vluchtelingenverdrag.
-
-### 10.3. Gevaar voor de openbare orde of de nationale veiligheid
-
-In C2/7.10.1 Vc is uitgewerkt wanneer sprake is van een bijzonder ernstig misdrijf zoals bedoeld in [artikel 3.105c, tweede lid, onder b, Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=3.105c). In aanvulling op het vorenstaande is ook sprake van een bijzonder ernstig misdrijf als het onvoorwaardelijk ten uitvoer te leggen gedeelte van de straffen of maatregelen in totaal de norm genoemd in de glijdende schaal van [artikel 3.86 Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=3.86) is en het totaal van de straffen of maatregelen ten minste 24 maanden bedraagt.
-
-### 10.3. Gevaar voor de openbare orde of de nationale veiligheid
-
-### 3. Afwijzingsgronden verblijfsvergunning asiel voor onbepaalde tijd
-
-Internationale instrumenten zoals bedoeld in [artikel 3.105f, tweede lid onder a Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=3.105f) zijn onder andere:
-
-### 3. Afwijzingsgronden verblijfsvergunning asiel voor onbepaalde tijd
-
-De vreemdeling van wie de verblijfsvergunning asiel voor bepaalde tijd op grond van artikel 29, eerste lid, aanhef en onder b, Vw, is ingetrokken of geldigheidsduur van de verblijfsvergunning asiel voor bepaalde tijd niet is verlengd op grond van artikel 32, eerste lid, aanhef en onder b Vw, wordt Nederland niet uitgezet, indien de vreemdeling in zijn land nog steeds een risico loopt op schending van artikel 3 EVRM.
-
-### 4. Intrekking verblijfsvergunning asiel voor onbepaalde tijd
-
-### 4. Intrekking verblijfsvergunning asiel voor onbepaalde tijd
-
-De IND trekt de verblijfsvergunning asiel voor bepaalde tijd verleend op grond van artikel 29, tweede lid, Vw niet in op grond van artikel 32, eerste lid, aanhef en onder b Vw als:
-
-### 4. Intrekking verblijfsvergunning asiel voor onbepaalde tijd
-
-De IND past bovenstaande beleidsregels overeenkomstig toe in het geval de verblijfsvergunning asiel voor bepaalde tijd is verleend op grond van artikel 29, eerste lid onder c of d Vw zoals dat luidde op de dag voorafgaand aan het tijdstip van inwerkingtreding van de wet tot wijziging van de Vreemdelingenwet 2000 in verband met het herschikken van de gronden voor asielverlening.
-
-### C6. Verdrag inzake de verantwoordelijkheid voor vluchtelingen
 
 Paragraaf C2/10.1 Vc onder het kopje **ambtshalve toets** is van overeenkomstige toepassing.
 
-[Paragraaf B1/4.4](onbekend) Vc (‘nationale veiligheid’) is van overeenkomstige toepassing.
+### 10.3. Gevaar voor de openbare orde of de nationale veiligheid
+
+### 3. Afwijzingsgronden verblijfsvergunning asiel voor onbepaalde tijd
+
+C2/7.10.1 en [artikel 3.86, eerste tot en met elfde lid, Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=3.86) zijn van overeenkomstige toepassing, voor zover de daarin opgenomen strafmaat de norm van C1/2.3 overstijgt.
+
+### 3. Afwijzingsgronden verblijfsvergunning asiel voor onbepaalde tijd
+
+De vreemdeling van wie de verblijfsvergunning asiel voor bepaalde tijd op grond van [artikel 29, eerste lid, aanhef en onder a, Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=29), is ingetrokken of geldigheidsduur van de verblijfsvergunning asiel voor bepaalde tijd niet is verlengd op grond van [artikel 32, eerste lid, aanhef en onder b Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=32), wordt Nederland niet uitgezet, indien de vreemdeling in zijn land nog steeds een risico loopt op vervolging of schending van artikel 3 EVRM.
+
+### 4. Intrekking verblijfsvergunning asiel voor onbepaalde tijd
+
+### 4. Intrekking verblijfsvergunning asiel voor onbepaalde tijd
+
+De vreemdeling van wie de verblijfsvergunning asiel voor bepaalde tijd op grond van [artikel 29, eerste lid, aanhef en onder b, Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=29), is ingetrokken of geldigheidsduur van de verblijfsvergunning asiel voor bepaalde tijd niet is verlengd op grond van [artikel 32, eerste lid, aanhef en onder b Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=32), wordt Nederland niet uitgezet, indien de vreemdeling in zijn land nog steeds een risico loopt op schending van artikel 3 EVRM.
+
+### 4. Intrekking verblijfsvergunning asiel voor onbepaalde tijd
+
+De IND trekt de verblijfsvergunning asiel voor bepaalde tijd verleend op grond van [artikel 29, tweede lid Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=29) niet in op grond van [artikel 32, eerste lid, aanhef en onder b Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=32) als:
+
+### C6. Verdrag inzake de verantwoordelijkheid voor vluchtelingen
+
+In afwijking van vorenstaande trekt de IND de verblijfsvergunning asiel voor bepaalde tijd verleend op grond van [artikel 29, tweede lid, Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=29) wel in op grond van[artikel 32, eerste lid, aanhef en onder b Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=32), als de verblijfsvergunning op grond van [artikel 28, eerste lid, onder d Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=28), ambtshalve is verleend. Als de vreemdeling meent dat hij in zijn land van herkomst een risico loopt op vervolging of een risico loopt op schending van artikel 3 EVRM, dan kan hij daartoe een aanvraag voor een verblijfsvergunning asiel voor bepaalde tijd indienen.
+
+De IND past bovenstaande beleidsregels overeenkomstig toe in het geval de verblijfsvergunning asiel voor bepaalde tijd is verleend op grond van [artikel 29, eerste lid onder c of d Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=29) zoals dat luidde op de dag voorafgaand aan het tijdstip van inwerkingtreding van de [wet tot wijziging van de Vreemdelingenwet 2000 in verband met het herschikken van de gronden voor asielverlening](https://wetten.overheid.nl/jci1.3:c:BWBR0034268).
+
+[Paragraaf B1/4.4 Vc](onbekend) (‘nationale veiligheid’) is van overeenkomstige toepassing.
+
+Paragraaf C2/10.1 Vc onder het kopje **ambtshalve toets** is van overeenkomstige toepassing.
+
+Als de IND een verblijfsvergunning asiel voor bepaalde tijd intrekt op grond van [artikel 32, eerste lid, onder c Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=32), wordt de verblijfsvergunning asiel voor bepaalde tijd ingetrokken met terugwerkende kracht tot aan het moment dat de grond voor verlening is komen te vervallen.
 
 Als de IND vaststelt dat de grond voor verlening van een verblijfsvergunning asiel voor bepaalde tijd is komen te vervallen en de wijziging van de omstandigheden ingevolge [artikel 3.37g VV](https://wetten.overheid.nl/jci1.3:c:BWBR0012002&artikel=3.37g) een voldoende ingrijpend en niet voorbijgaand karakter hebben onderzoekt de IND in ieder geval:
 
@@ -1379,33 +1385,27 @@ Als tenminste één van deze omstandigheden zich voordoet, trekt de IND de verbl
 
 Als de IND een verblijfsvergunning asiel voor bepaalde tijd intrekt op grond van [artikel 32, eerste lid, onder c Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=32), wordt de verblijfsvergunning asiel voor bepaalde tijd ingetrokken met terugwerkende kracht tot aan het moment dat de grond voor verlening is komen te vervallen.
 
-Paragraaf C2/10.1 Vc onder het kopje **ambtshalve toets** is van overeenkomstige toepassing.
-
-Ingevolge artikel 3.37g VV komt de vreemdeling in aanmerking voor dit beleid indien hij voldoet aan beide hieronder genoemde voorwaarden:
-
-De IND beschouwt de volgende daden als zodanig:
-
 ### 2.3. Vervolging in de zin van het Vluchtelingenverdrag
 
-De IND geeft in het landgebonden asielbeleid aan of een wijziging in de algemene situatie in (een deel van) een bepaald land een voldoende ingrijpend en niet-voorbijgaand karakter heeft zoals bedoeld in artikel 3.37g VV.
+Ingevolge artikel 3.37g VV komt de vreemdeling in aanmerking voor dit beleid indien hij voldoet aan beide hieronder genoemde voorwaarden:
 
 ### C7. Landgebonden beleid
 
 ### 1. Landgebonden asielbeleid algemeen
 
-De IND trekt de verblijfsvergunning asiel voor bepaalde tijd, verleend op grond van artikel 29, eerste lid, aanhef en onder a Vw, in onder toepassing van artikel 1C Vluchtelingenverdrag, indien een vreemdeling een paspoort van zijn land van herkomst aanvraagt en verkrijgt.
+De IND geeft in het landgebonden asielbeleid aan of een wijziging in de algemene situatie in (een deel van) een bepaald land een voldoende ingrijpend en niet-voorbijgaand karakter heeft zoals bedoeld in artikel 3.37g VV.
 
-De IND trekt de verblijfsvergunning asiel voor bepaalde tijd, verleend op grond van artikel 29, eerste lid, aanhef en onder a Vw, niet in, indien de vreemdeling met bewijsmiddelen onderbouwt dat artikel 1C Vluchtelingenverdrag niet van toepassing is.
+Het enkele feit dat een vreemdeling die in het bezit is van een verblijfsvergunning asiel voor bepaalde tijd op grond van artikel 29, eerste lid, aanhef en onder a of b, Vw vrijwillig is teruggekeerd naar het land van herkomst is niet voldoende voor de IND om de verblijfsvergunning asiel voor bepaalde tijd in te trekken of niet te verlengen.
 
 ### 2.4. Foltering, onmenselijke of vernederende behandeling of bestraffing in de zin van artikel 3 EVRM
 
-Als de IND constateert dat in het land van herkomst een doeltreffend systeem voor opsporing, vervolging en bestraffing van daders van als traumatiserend aangemerkte gebeurtenissen aanwezig is, kan dit aanleiding geven voor de conclusie dat de grond voor verlening van een verblijfsvergunning asiel voor bepaalde tijd verleend op grond van artikel 29, eerste lid, aanhef en onder c Vw, zoals dat luidde op de dag voorafgaand aan de wijziging van de Vreemdelingenwet 2000 in verband met het herschikken van de gronden voor asielverlening is komen te vervallen.
+De IND trekt de verblijfsvergunning asiel voor bepaalde tijd, verleend op grond van artikel 29, eerste lid, aanhef en onder a Vw, in onder toepassing van artikel 1C Vluchtelingenverdrag, indien een vreemdeling een paspoort van zijn land van herkomst aanvraagt en verkrijgt.
 
 ### 10.5. De vreemdeling heeft zijn hoofdverblijf buiten Nederland gevestigd
 
-Als de IND constateert dat in het land van herkomst een doeltreffend systeem voor opsporing, vervolging en bestraffing van daders van als traumatiserend aangemerkte gebeurtenissen aanwezig is, kan dit aanleiding geven voor de conclusie dat de grond voor verlening van een verblijfsvergunning asiel voor bepaalde tijd verleend op grond van artikel 29, eerste lid, aanhef en onder c Vw, zoals dat luidde op de dag voorafgaand aan de wijziging van de Vreemdelingenwet 2000 in verband met het herschikken van de gronden voor asielverlening is komen te vervallen.
+De IND concludeert niet dat de grond voor verlening is komen te vervallen alleen vanwege het feit dat de daders van de als traumatiserend aangemerkte gebeurtenis die aan de verlening van de verblijfsgunning asiel voor bepaalde tijd op grond van artikel 29, eerste lid, aanhef en onder c, Vw zoals dat luidde op de dag voorafgaand aan de wijziging van de Vreemdelingenwet 2000 in verband met het herschikken van de gronden voor asielverlening ten grondslag lag, zijn bestraft.
 
-De definitie van de intrekkingsgrond zoals bedoeld in [artikel 32, eerste lid, onder d, Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=32) is uitgewerkt in [paragraaf B1/6.2.1](onbekend) Vc.
+Als de IND constateert dat in het land van herkomst een doeltreffend systeem voor opsporing, vervolging en bestraffing van daders van als traumatiserend aangemerkte gebeurtenissen aanwezig is, kan dit aanleiding geven voor de conclusie dat de grond voor verlening van een verblijfsvergunning asiel voor bepaalde tijd verleend op grond van artikel 29, eerste lid, aanhef en onder c Vw, zoals dat luidde op de dag voorafgaand aan de wijziging van de Vreemdelingenwet 2000 in verband met het herschikken van de gronden voor asielverlening is komen te vervallen.
 
 ### 10.5. De vreemdeling heeft zijn hoofdverblijf buiten Nederland gevestigd
 
@@ -1415,79 +1415,85 @@ De IND trekt de verblijfsvergunning asiel voor bepaalde tijd niet in op grond va
 
 ### 10.6. De huwelijks- of gezinsband is verbroken
 
-**Verblijfsvergunning asiel voor bepaalde tijd op grond van artikel 29, tweede lid, aanhef en onder a, b of c, Vw**
+De IND trekt de verblijfsvergunning asiel voor bepaalde tijd niet in op grond van artikel 32, eerste lid, aanhef en onder b, Vw, als de vreemdeling op het moment van het beoordelen van de intrekking van de verblijfsvergunning asiel voor bepaalde tijd in zijn land een risico loopt op vervolging of ernstige schade.
 
 ### 10.6. De huwelijks- of gezinsband is verbroken
 
+### 10.6. De huwelijks- of gezinsband is verbroken
+
+**Verblijfsvergunning asiel voor bepaalde tijd op grond van artikel 29, tweede lid, aanhef en onder a, b of c, Vw**
+
 ### 11. Rechtsmiddelen
 
-De IND trekt de verblijfsvergunning asiel voor bepaalde tijd, verleend op grond van [artikel 29, tweede lid, Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=29) in op grond van [artikel 32, eerste lid, onder e Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=32) juncto [artikel 3.106 Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=3.106) als de huwelijks- of gezinsband is verbroken.
-
-### 11. Rechtsmiddelen
-
-Een interim measure van het EHRM, een zogenoemde **Rule 39**, wordt gelijk gesteld met een toegewezen voorlopige voorziening.
+De IND neemt aan dat de huwelijks- of gezinsband is verbroken in de situaties als opgesomd in [paragrafen B7/3.1](onbekend) en [B7/3.2.1](onbekend) van de Vc.
 
 ### 11. Rechtsmiddelen
 
 ### 2.4. Foltering, onmenselijke of vernederende behandeling of bestraffing in de zin van artikel 3 EVRM
 
-en zich nadien geen nieuwe feiten of omstandigheden hebben voorgedaan.
+Een interim measure van het EHRM, een zogenoemde **Rule 39**, wordt gelijk gesteld met een toegewezen voorlopige voorziening.
 
 ### 2.4.2. Systematische blootstelling in de zin van paragraaf C2/3.3 Vc
 
+De IND staat de vreemdeling toe een verzoek om een voorlopige voorziening, dat connex is aan een rechtsmiddel dat is gericht tegen een overdrachtsbesluit in de zin van Verordening (EU) nr. 604/2013, in Nederland af te wachten, tenzij:
+
+### 2.4.3. Kwetsbare minderheidsgroepen in de zin van paragraaf C2/3.3 Vc
+
+### 2.4.3. Kwetsbare minderheidsgroepen in de zin van paragraaf C2/3.3 Vc
+
 De internationale instanties waar een met uitzetting bedreigde vreemdeling zich tot kan wenden zijn:
 
-### 2.4.3. Kwetsbare minderheidsgroepen in de zin van paragraaf C2/3.3 Vc
+### 2.4.4. Individuele kenmerken
 
-### 2.4.3. Kwetsbare minderheidsgroepen in de zin van paragraaf C2/3.3 Vc
-
-De DT&V geeft gehoor aan een verzoek van het Comité voor de rechten van de mens en het Comité tegen Foltering om een vreemdeling niet uit te zetten.
+De DT&V mag de vreemdeling uit Nederland uitzetten als het toezichthoudend orgaan geen verzoek doet aan Nederland om opschorting van de uitzetting van de vreemdeling, in afwachting van de uitspraak op de klacht van de vreemdeling bij dat toezichthoudend orgaan. De DT&V kan de vreemdeling in vreemdelingenbewaring stellen om de gedwongen terugkeer uit Nederland te bevorderen.
 
 ### 2.4.4. Individuele kenmerken
 
-De DT&V moet nagaan of er omstandigheden zijn die aanleiding vormen het verzoek te honoreren.
-
-### 2.4.4. Individuele kenmerken
-
-De DT&V betrekt bij de beoordeling van het verzoek van een toezichthoudend orgaan de omstandigheid dat:
+Als uitzondering op de regel dat de DT&V geeft gehoor aan een verzoek van het Comité voor de rechten van de mens en het Comité tegen Foltering om een vreemdeling niet uit te zetten, kan de DT&V kan weigeren te voldoen aan een verzoek om de vreemdeling niet uit te zetten:
 
 ### 2.4.5. Alleenstaande vrouwen
 
 ### C3. Moratoria
 
-Als de DT&V het verzoek om de vreemdeling niet uit te zetten honoreert, heft de DT&V de eventuele vreemdelingenbewaring van de vreemdeling op.
+De DT&V betrekt bij de beoordeling van het verzoek van een toezichthoudend orgaan de omstandigheid dat:
 
 ### 1. Inleiding
 
-In dit hoofdstuk zijn beleidsregels opgenomen in die gelden bij toepassing van:
+Als het toezichthoudend orgaan als eindoordeel geeft dat de uitzetting van de vreemdeling in strijd is met de bepalingen van het Verdrag waar het orgaan op toeziet, verleent de IND een verblijfsvergunning asiel voor bepaalde tijd als de vreemdeling een aanvraag voor een verblijfsvergunning asiel voor bepaalde tijd indient. De IND verleent in ieder geval geen verblijfsvergunning asiel voor bepaalde tijd aan de vreemdeling als sprake is van aspecten als bedoeld in artikel 1F Vluchtelingenverdrag. De DT&V zal de vreemdeling niet uitzetten als de IND geen verblijfsvergunning asiel voor bepaalde tijd heeft verleend aan de vreemdeling.
 
-### 1. Inleiding
+### C3. Moratoria
 
 In dit hoofdstuk zijn beleidsregels opgenomen in die gelden bij toepassing van:
 
 ### 2. Besluitmoratorium
 
-De IND verlengt in eerste instantie de beslistermijn voor de vreemdeling tot één jaar, voor zover de gehele beslistermijn daarmee niet met maximaal toegstane duur van eenentwintig maanden overschrijdt. en De IND geeft aan de vreemdeling aan op welk moment de verlengde beslistermijn eindigt. In de gevallen waarin het besluitmoratorium in algemene zin voor een kortere periode dan een jaar is vastgesteld, blijft het mogelijk om de individuele beslistermijn voor de vreemdeling met één jaar te verlengen.
+Deze beleidsregels zijn een aanvulling op of een uitwerking van [artikel 43](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=43), [45, vierde en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=45), [71, lid 2](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=71), en [artikel 82, lid 2, Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=82).
 
 ### 2. Besluitmoratorium
+
+In [artikel 43 Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=43) staan de redenen vermeld op grond waarvan de Minister kan besluiten een besluitmoratorium in te stellen voor bepaalde categorieën vreemdelingen. Indien het besluitmoratorium is ingegeven door de situatie in het land van herkomst, houdt het moratorium in dat voor de in het besluit genoemde categorieën vreemdelingen geen inhoudelijke beslissingen worden genomen. De Minister publiceert het besluit tot instelling van een besluitmoratorium in de Staatscourant. Het besluit van de Minister geeft in ieder geval aan:
+
+### 3. Vertrekmoratorium
+
+### 3. Vertrekmoratorium
 
 Als de individuele beslistermijn eindigt, moet de IND een besluit nemen op de aanvraag om een verblijfsvergunning asiel voor bepaalde tijd naar de stand van zaken op het moment van het nemen van de beslissing, ook als het algemeen afgekondigde besluitmoratorium op dat moment nog van kracht is.
 
 ### 3. Vertrekmoratorium
 
-### 3. Vertrekmoratorium
-
-De IND verstrekt een document W2, met een inlegvel, voorzien van een sticker ‘Verblijfsaantekeningen Algemeen’ aan de vreemdeling.
-
-### 3. Vertrekmoratorium
-
-De vreemdeling valt niet onder de werking van het vertrekmoratorium als de vreemdeling aantoonbaar uit Nederland is vertrokken na de aanvraag voor een verblijfsvergunning asiel voor bepaalde tijd.
+De vreemdeling die onder de werking van het vertrekmoratorium valt, maar geen opvang of voorzieningen meer heeft, kan deze verkrijgen door zich in persoon te melden bij AC Ter Apel. De vreemdeling hoeft geen aanvraag in te dienen voor opvang of voorzieningen. Evenmin hoeft de vreemdeling een aanvraag in te dienen om een verblijfsvergunning asiel voor bepaalde tijd.
 
 ### 3. Het asielbeleid ten aanzien van Angola
 
 ### C4. Tijdelijke bescherming
 
-Aantoonbaar vertrek uit Nederland kan in ieder geval blijken uit de volgende situaties:
+De vreemdeling valt niet onder de werking van het vertrekmoratorium als de vreemdeling aantoonbaar uit Nederland is vertrokken na de aanvraag voor een verblijfsvergunning asiel voor bepaalde tijd.
+
+### 1. Inleiding
+
+Wanneer het vertrekmoratorium eindigt, eindigt het recht op opvang en voorzieningen van rechtswege.
+
+### C4. Tijdelijke bescherming
 
 ### 1. Inleiding
 
@@ -1495,51 +1501,45 @@ In dit hoofdstuk zijn beleidsregels opgenomen in paragraaf, die gelden bij de to
 
 ### 2. Tijdelijke bescherming
 
-### 2. Tijdelijke bescherming
-
-De IND moet beoordelen of de vreemdeling onder [Richtlijn 2001/55](32001L0055) valt en moet de voor die beoordeling noodzakelijke gegevens registreren. De IND verlengt de beslistermijn voor het nemen van een beslissing op de aanvraag voor een verblijfsvergunning asiel voor bepaalde tijd voor de duur van de tijdelijke bescherming.
-
-### 2. Tijdelijke bescherming
-
-De vreemdeling, die meent in aanmerking te komen voor tijdelijke bescherming conform [richtlijn 2001/55](32001L0055), meldt zich bij een AC met het verzoek om onder de werking van het vertrekmoratorium te worden gebracht. De IND stelt vast of de vreemdeling onder de regeling van tijdelijk bescherming valt. De vreemdeling heeft het recht op opvang zolang de tijdelijke bescherming van kracht is. Voor de beleidsregels met betrekking tot tijdelijke bescherming wordt verwezen naar hoofdstuk C3 Vc.
+De Raad van de EU kan op grond van [richtlijn 2001/55](32001L0055) besluiten een nader omschreven groep vreemdelingen voor een bepaalde periode tijdelijke bescherming te verlenen. De IND biedt een vreemdeling die in aanmerking komt voor tijdelijke bescherming conform [richtlijn 2001/55](32001L0055), in Nederland de mogelijkheid om een aanvraag voor een verblijfsvergunning asiel voor bepaalde tijd in te dienen. De vreemdeling van wie de opvang op grond van de meeromvattende beschikking is beëindigd hoeft geen aanvraag om een verblijfsvergunning asiel voor bepaalde tijd in te dienen, als de vreemdeling zich op het moment waarop tijdelijke bescherming conform [richtlijn 2001/55](32001L0055) wordt ingesteld nog in Nederland bevindt.
 
 ### C5. De verblijfsvergunning asiel voor onbepaalde tijd
 
-De vreemdeling, die meent in aanmerking te komen voor tijdelijke bescherming conform [richtlijn 2001/55](32001L0055), meldt zich bij een AC met het verzoek om onder de werking van het vertrekmoratorium te worden gebracht. De IND stelt vast of de vreemdeling onder de regeling van tijdelijk bescherming valt. De vreemdeling heeft het recht op opvang zolang de tijdelijke bescherming van kracht is. Voor de beleidsregels met betrekking tot tijdelijke bescherming wordt verwezen naar hoofdstuk C3 Vc.
+De IND is bevoegd een beslissing te nemen op de aanvraag voor een verblijfsvergunning asiel voor bepaalde tijd voordat de termijn voor de tijdelijke bescherming is beëindigd.
 
 ### C5. De verblijfsvergunning asiel voor onbepaalde tijd
 
-### 1. Inleiding
+### C5. De verblijfsvergunning asiel voor onbepaalde tijd
 
 In dit hoofdstuk zijn beleidsregels opgenomen, die gelden:
 
 ### 2. Procedurele regels verblijfsvergunning asiel voor onbepaalde tijd
 
-De vreemdeling moet de aanvraag tot een verblijfsvergunning asiel voor onbepaalde tijd indienen voor de geldigheidsduur van zijn verblijfsvergunning asiel voor bepaalde tijd afloopt. Indien de vreemdeling in aanmerking komt voor een verblijfsvergunning asiel voor onbepaalde tijd, dan geldt de dag na het verstrijken van de geldigheidsduur van de verblijfsvergunning asiel voor bepaalde tijd als ingangsdatum van de verblijfsvergunning asiel voor onbepaalde tijd, enkel voor zover:
+Deze beleidsregels zijn een aanvulling op of een uitwerking van de artikelen [33](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=33), [34](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=34), [35](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=35), [40](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=40), [41](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=41), [42, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=42), [44, vierde en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=44), en [45 Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=45), de [artikelen 3.107a Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=3.107a), [3.108 Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=3.108), [3.116](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=3.116), en [3.118 Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=3.118), en de [artikelen 3.41](https://wetten.overheid.nl/jci1.3:c:BWBR0012002&artikel=3.41) en [3.47 VV](https://wetten.overheid.nl/jci1.3:c:BWBR0012002&artikel=3.47).
 
 ### 2. Procedurele regels verblijfsvergunning asiel voor onbepaalde tijd
 
-De IND beoordeelt of de vertraging bij het indienen van de aanvraag tot een verblijfsvergunning asiel voor onbepaalde tijd aan de vreemdeling is toe te rekenen.
+De vreemdeling kan niet eerder dan vier weken voordat de geldigheidsduur van zijn verblijfsvergunning asiel voor bepaalde tijd afloopt een aanvraag tot een verblijfsvergunning asiel voor onbepaalde tijd indienen.
 
 ### 3.4.2. Systematische blootstelling in de zin van paragraaf C2/3.3 Vc
 
-De IND past de [artikelen 3.113 Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=3.113) en [3.114 Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=3.114) niet toe op de behandeling van een aanvraag tot een verblijfsvergunning asiel voor onbepaalde tijd.
+De verblijfsvergunning asiel voor onbepaalde tijd krijgt als ingangsdatum de datum dat de IND de aanvraag heeft ontvangen, uitsluitend als:
 
 ### 3.4.3. Kwetsbare minderheidsgroepen in de zin van paragraaf C2/3.3 Vc
 
-De IND toetst hierbij of de vreemdeling aan de voorwaarden van [artikel 3.107a Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=3.107a) voldoet indien de aanvraag voor een verblijfsvergunning asiel voor bepaalde tijd is ingediend op of na 1 januari 2005.
+Als de vreemdeling meer dan zes maanden na het verstrijken van de geldigheidsduur van de verblijfsvergunning asiel voor bepaalde tijd meent voor verblijf in aanmerking te komen, moet hij een aanvraag om een verblijfsvergunning asiel voor bepaalde tijd indienen.
 
-Als de aanvraag voor een verblijfsvergunning asiel voor bepaalde tijd is ingediend voor 1 januari 2005, dan geldt het inburgeringsvereiste niet en toetst de IND niet aan de voorwaarden van artikel 3.107a Vb. Zie paragraaf C2/10 Vc met betrekking tot de verlenging van de geldigheidsduur, als de vreemdeling niet aan de voorwaarden van artikel 3.107a Vb voldoet.
+De IND past de [artikelen 3.113 Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=3.113) en [3.114 Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=3.114) niet toe op de behandeling van een aanvraag tot een verblijfsvergunning asiel voor onbepaalde tijd.
 
 ### 3.7. Vertrekmoratorium
 
 ### 3.5.2. Vlucht- en vestigingsalternatief in de zin van paragraaf C2/6 Vc
 
-Als de IND de vreemdeling direct een verblijfsvergunning asiel voor onbepaalde tijd verleent, zonder dat de vreemdeling in het bezit is geweest van een verblijfsvergunning asiel voor bepaalde tijd, dan is [artikel 29, tweede lid, Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=29) van toepassing.
+Als de aanvraag voor een verblijfsvergunning asiel voor bepaalde tijd is ingediend voor 1 januari 2005, dan geldt het inburgeringsvereiste niet en toetst de IND niet aan de voorwaarden van artikel 3.107a Vb. Zie paragraaf C2/10 Vc met betrekking tot de verlenging van de geldigheidsduur, als de vreemdeling niet aan de voorwaarden van artikel 3.107a Vb voldoet.
 
 ### 3. Afwijzingsgronden verblijfsvergunning asiel voor onbepaalde tijd
 
-Als de IND de vreemdeling direct een verblijfsvergunning asiel voor onbepaalde tijd verleent, zonder dat de vreemdeling in het bezit is geweest van een verblijfsvergunning asiel voor bepaalde tijd, dan is [artikel 29, tweede lid, Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=29) van toepassing.
+De IND reikt op grond van [artikel 9 Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=9) het verblijfsdocument waaruit het rechtmatig verblijf blijkt uit aan het IND loket dat zich het dichtst bij de woon- of verblijfplaats van de vreemdeling bevindt.
 
 ### 3. Afwijzingsgronden verblijfsvergunning asiel voor onbepaalde tijd
 
@@ -1549,7 +1549,7 @@ De IND wijst de aanvraag voor een verblijfsvergunning asiel voor onbepaalde tijd
 
 ### 4. Intrekking verblijfsvergunning asiel voor onbepaalde tijd
 
-De IND wijst de aanvraag voor een verblijfsvergunning asiel voor onbepaalde tijd niet af op grond van [artikel 32, eerste lid, onder c, Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=32), als de oorspronkelijke verblijfsvergunning asiel voor bepaalde tijd is verleend op grond van [artikel 29, eerste lid, onder c of d, Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=29), zoals dat luidde op de dag voorafgaand aan het tijdstip van inwerkingtreding van de [wet tot wijziging van de Vreemdelingenwet 2000 in verband met het herschikken van de gronden voor asielverlening](https://wetten.overheid.nl/jci1.3:c:BWBR0034268), omdat de wettelijke grondslag van die vergunningen is vervallen.
+De IND wijst de aanvraag voor een verblijfsvergunning asiel voor onbepaalde tijd niet af op grond van [artikel 32, eerste lid, onder c, Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=32), als de verleningsgrond van de verblijfsvergunning asiel voor bepaalde tijd was vervallen, maar zich op het moment van behandeling van de aanvraag tot een verblijfsvergunning asiel voor onbepaalde tijd opnieuw voordoet.
 
 ### 4. Intrekking verblijfsvergunning asiel voor onbepaalde tijd
 
@@ -1559,15 +1559,15 @@ In aanvulling op paragraaf C2/10.3 Vc kan de IND een verblijfsvergunning asiel v
 
 ### C6. Verdrag inzake de verantwoordelijkheid voor vluchtelingen
 
-In aanvulling op paragraaf C2/10.3 Vc kan de IND een verblijfsvergunning asiel voor onbepaalde tijd ook intrekken op grond van [artikel 35, eerste lid onder c Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=35) als de verblijfsvergunning asiel voor bepaalde tijd was verleend op grond van [artikel 29, eerste lid onder a of b Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=29).
+De IND trekt een verblijfsvergunning asiel voor onbepaalde tijd in op grond van [artikel 35, eerste lid, onder b Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=35) als wordt voldaan aan artikel 35, eerste lid onder b Vw en aan [artikel 3.86 Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=3.86).
 
 ### C6. Verdrag inzake de verantwoordelijkheid voor vluchtelingen
 
 In dit hoofdstuk zijn beleidsregels opgenomen in paragraaf, die gelden bij de toepassing van de Europese Overeenkomst inzake de overdracht van verantwoordelijkheid met betrekking tot vluchtelingen (Trb 1982, 24). Deze beleidsregels zijn een aanvulling op of een uitwerking van deze overeenkomst.
 
-### 2. Europese Overeenkomst inzake de overdracht van verantwoordelijkheid met betrekking tot vluchtelingen
+### 1. Inleiding
 
-De IND:
+In dit hoofdstuk zijn beleidsregels opgenomen in paragraaf, die gelden bij de toepassing van de Europese Overeenkomst inzake de overdracht van verantwoordelijkheid met betrekking tot vluchtelingen (Trb 1982, 24). Deze beleidsregels zijn een aanvulling op of een uitwerking van deze overeenkomst.
 
 De IND zendt de beschikking in drievoud naar de Nederlandse ambassade in de Staat die de verantwoordelijkheid voor de vreemdeling overneemt.
 
@@ -1575,13 +1575,13 @@ De IND zendt de beschikking in drievoud naar de Nederlandse ambassade in de Staa
 
 ### 4.5. Bescherming
 
+De IND zendt de beschikking in drievoud naar de Nederlandse ambassade in de Staat die de verantwoordelijkheid voor de vreemdeling overneemt.
+
+De Nederlandse ambassade:
+
+Een vreemdeling die een beroep doet op de Overeenkomst en nog niet in het bezit is van een verblijfsvergunning asiel of regulier, kan een aanvraag om een verblijfsvergunning asiel voor bepaalde tijd of regulier voor bepaalde tijd indienen op de wijze als bedoeld in paragrafen C1 en [B1/3.3 Vc](onbekend). De IND stelt de ambassade in Nederland van de staat waar de vreemdeling heeft verbleven op de hoogte van het overnemen van verantwoordelijkheid over de vreemdeling als de IND de vreemdeling in het bezit stelt van een verblijfsvergunning asiel voor bepaalde tijd of regulier voor bepaalde tijd.
+
 Als de vreemdeling een verblijfsvergunning regulier voor bepaalde tijd bezit, stelt de IND in het dossier zowel elektronisch als fysiek een aantekening dat de vreemdeling Verdragsvluchteling is.
-
-De IND stelt deze vreemdeling in de gelegenheid een aanvraag om een verblijfsvergunning asiel voor bepaalde tijd in te dienen als de geldigheidsduur van de verblijfsvergunning regulier voor bepaalde tijd van de vreemdeling eindigt.
-
-Als de vreemdeling een verblijfsvergunning regulier voor bepaalde tijd bezit, stelt de IND in het dossier zowel elektronisch als fysiek een aantekening dat de vreemdeling Verdragsvluchteling is.
-
-De IND stelt deze vreemdeling in de gelegenheid een aanvraag om een verblijfsvergunning asiel voor bepaalde tijd in te dienen als de geldigheidsduur van de verblijfsvergunning regulier voor bepaalde tijd van de vreemdeling eindigt.
 
 ### C7. Landgebonden beleid
 
@@ -1589,13 +1589,19 @@ Een algemeen ambtsbericht van het Ministerie van Buitenlandse Zaken over de situ
 
 ### 1. Landgebonden asielbeleid algemeen
 
-De opbouw van de paragrafen van dit hoofdstuk wijkt af van de opbouw van de hoofdstukken C1 tot en met C6 Vc en is conform de volgorde van toetsing van een aanvraag voor een verblijfsvergunning asiel voor bepaalde tijd. Zie ook paragraaf C1/4.1 Vc.
+Het landgebonden asielbeleid bevat beleidsregels ten aanzien van het land van herkomst van de vreemdeling die een aanvraag voor een verblijfsvergunning asiel voor bepaalde tijd heeft ingediend.
 
-Het landgebonden asielbeleid is een uitwerking van het algemene beleid in de hoofdstukken C1 tot en met C6 Vc en betreft geen uitzonderingsregeling.
+Een algemeen ambtsbericht van het Ministerie van Buitenlandse Zaken over de situatie in een land wordt betrokken bij het asielbeleid ten aanzien van dat land.
 
 ### 2.1. Besluitmoratorium
 
-Geen bijzonderheden.
+De opbouw van de paragrafen van dit hoofdstuk wijkt af van de opbouw van de hoofdstukken C1 tot en met C6 Vc en is conform de volgorde van toetsing van een aanvraag voor een verblijfsvergunning asiel voor bepaalde tijd. Zie ook paragraaf C1/4.1 Vc.
+
+### 2. Het asielbeleid ten aanzien van Afghanistan
+
+De IND neemt in de regel ten aanzien van de volgende categorieën vreemdelingen ‘personal and knowing participation’ in de zin van paragraaf C2/7.10.1 Vc aan:
+
+### 2.3. Vervolging in de zin van het Vluchtelingenverdrag
 
 ### 2.2. Artikel 1F Vluchtelingenverdrag
 
@@ -1603,9 +1609,9 @@ De IND neemt in de regel ten aanzien van de volgende categorieën vreemdelingen 
 
 ### 2.3. Vervolging in de zin van het Vluchtelingenverdrag
 
-### 2.3.1. Groepsvervolging in de zin van paragraaf C2/3.2 Vc
+De IND merkt voor Afghanistan uitsluitend de volgende categorieën vreemdelingen aan als risicogroep:
 
-Geen bijzonderheden.
+### 2.4. Ernstige schade in de zin van artikel 29, eerste lid, onder b, Vw
 
 ### 2.3.2. Risicogroepen in de zin van paragraaf C2/3.2 Vc
 
@@ -1613,9 +1619,9 @@ De IND merkt voor Afghanistan uitsluitend de volgende categorieën vreemdelingen
 
 ### 2.4. Ernstige schade in de zin van artikel 29, eerste lid, onder b, Vw
 
-### 2.4.1. Uitzonderlijke situatie in de zin van paragraaf C2/3.3 Vc
-
 Geen bijzonderheden.
+
+### 2.4.3. Kwetsbare minderheidsgroepen in de zin van paragraaf C2/3.3 Vc
 
 ### 2.4.2. Systematische blootstelling in de zin van paragraaf C2/3.3 Vc
 
@@ -1623,13 +1629,13 @@ Geen bijzonderheden.
 
 ### 2.4.3. Kwetsbare minderheidsgroepen in de zin van paragraaf C2/3.3 Vc
 
-### 2.4.3. Kwetsbare minderheidsgroepen in de zin van paragraaf C2/3.3 Vc
+De IND merkt uitsluitend de volgende categorieën aan als kwetsbare minderheidsgroep:
 
-De IND merkt shiitische moslims gelet op hun situatie in Afghanistan niet aan als een kwetsbare minderheidsgroep.
+### 2.4.4. Individuele kenmerken
 
-### 2.4.3. Kwetsbare minderheidsgroepen in de zin van paragraaf C2/3.3 Vc
+De IND merkt Afghaanse vreemdelingen die een andere religie dan de islam aanhangen, aan als een kwetsbare minderheidsgroep, ongeacht uit welk gebied in Afghanistan zij afkomstig zijn.
 
-De IND verleent op grond van de beleidsregels over kwetsbare minderheidsgroepen in Afghanistan uitsluitend een verblijfsvergunning asiel voor bepaalde tijd op grond van [artikel 29, eerste lid, aanhef en onder b, Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=29) aan de vreemdeling die zich in Nederland heeft bekeerd, als de vreemdeling in Afghanistan problemen heeft ondervonden om andere redenen dan de nieuwe religie.
+### 2.4.5. Alleenstaande vrouwen
 
 ### 2.4.4. Individuele kenmerken
 
@@ -1637,31 +1643,25 @@ De IND verleent een verblijfsvergunning asiel voor bepaalde tijd op grond van [a
 
 ### 2.4.5. Alleenstaande vrouwen
 
-### 2.4.5. Alleenstaande vrouwen
-
-De IND merkt een Afghaanse vrouw aan als alleenstaand als zij voldoet aan alle volgende voorwaarden:
-
-### 2.4.5. Alleenstaande vrouwen
-
-Uitzondering op de regel dat een alleenstaande Afghaanse vrouw bij terugkeer een reëel risico loopt, betreft vrouwen ten aanzien van wie het evident is dat de bescherming op grond van haar status van alleenstaande niet nodig is.
+De IND verleent een verblijfsvergunning asiel voor bepaalde tijd op grond van [artikel 29, eerste lid, aanhef en onder b, Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=29) aan alleenstaande vrouwen uit Afghanistan.
 
 ### 2.5. Bescherming
 
-Uitzondering op de regel dat een alleenstaande Afghaanse vrouw bij terugkeer een reëel risico loopt, betreft vrouwen ten aanzien van wie het evident is dat de bescherming op grond van haar status van alleenstaande niet nodig is.
+De IND merkt de gezinsband in elk geval aan als verbroken, als:
 
 ### 2.5. Bescherming
 
 In uitzondering hierop neemt de IND aan dat het voor uitsluitend de volgende categorieën niet mogelijk is de bescherming van de autoriteiten of internationale organisaties te verkrijgen:
 
+### 2.5.1. Bescherming door autoriteiten en/of internationale organisaties in de zin van paragraaf C2/3.4 Vc
+
+De IND beoordeelt bij elke vreemdeling individueel de mogelijkheid om de bescherming te verkrijgen. De IND neemt uitsluitend voor Afghaanse vreemdelingen afkomstig uit Kaboel aan dat het mogelijk is de bescherming te verkrijgen van de autoriteiten.
+
+### 2.5.2. Vlucht- en vestigingsalternatief in de zin van paragraaf C2/3.4 Vc
+
 ### 2.5.2. Vlucht- en vestigingsalternatief in de zin van paragraaf C2/3.4 Vc
 
 De IND neemt ten aanzien van Afghanistan een vlucht- of vestigingsalternatief aan in Kaboel. De IND beoordeelt bij elke vreemdeling individueel of dit vlucht- of vestigingsalternatief kan worden tegengeworpen.
-
-### 2.5.2. Vlucht- en vestigingsalternatief in de zin van paragraaf C2/3.4 Vc
-
-### 2.6. Adequate opvang alleenstaande minderjarige vreemdelingen
-
-De IND beoordeelt aan de hand van [paragraaf B8/6](onbekend) Vc of adequate opvang voor amv’s aanwezig is.
 
 ### 2.6. Adequate opvang alleenstaande minderjarige vreemdelingen
 
@@ -1679,7 +1679,7 @@ De IND verleent geen verblijfsvergunning asiel voor bepaalde tijd aan een Afghaa
 
 ### 3. Het asielbeleid ten aanzien van Angola
 
-### 3.2. Artikel 1F Vluchtelingenverdrag
+### 3. Het asielbeleid ten aanzien van Angola
 
 Geen bijzonderheden.
 
@@ -1691,7 +1691,7 @@ Geen bijzonderheden.
 
 Geen bijzonderheden.
 
-### 3.3.2. Risicogroepen in de zin van paragraaf C2/3.2 Vc
+### 3.3.1. Groepsvervolging in de zin van paragraaf C2/3.2 Vc
 
 ### 3.4. Ernstige schade in de zin van artikel 29, eerste lid, onder b, Vw
 
@@ -1701,7 +1701,7 @@ Geen bijzonderheden.
 
 Geen bijzonderheden.
 
-### 3.4.2. Systematische blootstelling in de zin van paragraaf C2/3.3 Vc
+### 3.4.1. Uitzonderlijke situatie in de zin van paragraaf C2/3.3 Vc
 
 Geen bijzonderheden.
 
@@ -1715,7 +1715,7 @@ Geen bijzonderheden.
 
 Geen bijzonderheden.
 
-### 3.5.2. Vlucht- en vestigingsalternatief in de zin van paragraaf C2/3.4 Vc
+### 3.5.1. Bescherming door autoriteiten en/of internationale organisaties in de zin van paragraaf C2/3.4 Vc
 
 ### 3.6. Adequate opvang alleenstaande minderjarige vreemdelingen
 
@@ -1727,9 +1727,15 @@ Geen bijzonderheden.
 
 ### 3.8. Bijzonderheden
 
+### 3.7. Vertrekmoratorium
+
+Geen bijzonderheden.
+
 ### 3.8. Bijzonderheden
 
 Geen bijzonderheden.
+
+### 4. Het asielbeleid ten aanzien van Armenië
 
 ### 4.1. Besluitmoratorium
 
@@ -1737,25 +1743,19 @@ Geen bijzonderheden.
 
 ### 4.2. Artikel 1F Vluchtelingenverdrag
 
-### 4.2. Artikel 1F Vluchtelingenverdrag
+Geen bijzonderheden.
+
+### 4.3. Vervolging in de zin van het Vluchtelingenverdrag
 
 Geen bijzonderheden.
 
-### 4.3.1. Groepsvervolging in de zin van paragraaf C2/3.2 Vc
-
-Geen bijzonderheden.
+### 4.4. Ernstige schade in de zin van artikel 29, eerste lid, onder b, Vw
 
 ### 4.3.2. Risicogroepen in de zin van paragraaf C2/3.2 Vc
 
 Geen bijzonderheden.
 
 ### 4.4. Ernstige schade in de zin van artikel 29, eerste lid, onder b, Vw
-
-### 4.4.1. Uitzonderlijke situatie in de zin van paragraaf C2/3.3 Vc
-
-Geen bijzonderheden.
-
-### 4.4.2. Systematische blootstelling in de zin van paragraaf C2/3.3 Vc
 
 Geen bijzonderheden.
 
@@ -1769,7 +1769,7 @@ Geen bijzonderheden.
 
 ### 4.5. Bescherming
 
-### 4.5.2. Vlucht- en vestigingsalternatief in de zin van paragraaf C2/3.4 Vc
+### 4.5. Bescherming
 
 Geen bijzonderheden.
 
@@ -1779,15 +1779,15 @@ In Armenië is adequate opvang in de zin van [paragraaf B8/6](onbekend) Vc.
 
 ### 4.7. Vertrekmoratorium
 
+### 4.6. Adequate opvang alleenstaande minderjarige vreemdelingen
+
+In Armenië is adequate opvang in de zin van [paragraaf B8/6](onbekend) Vc.
+
 ### 4.7. Vertrekmoratorium
 
 Geen bijzonderheden.
 
 ### 4.8. Bijzonderheden
-
-Geen bijzonderheden.
-
-### 5.1. Besluitmoratorium
 
 ### 5. Het asielbeleid ten aanzien van Azerbeidzjan
 
@@ -1803,7 +1803,7 @@ Geen bijzonderheden.
 
 Geen bijzonderheden.
 
-### 5.3.2. Risicogroepen in de zin van paragraaf C2/3.2 Vc
+### 5.3.1. Groepsvervolging in de zin van paragraaf C2/3.2 Vc
 
 ### 5.4. Ernstige schade in de zin van artikel 29, eerste lid, onder b, Vw
 
@@ -1813,7 +1813,7 @@ Geen bijzonderheden.
 
 Geen bijzonderheden.
 
-### 5.4.2. Systematische blootstelling in de zin van paragraaf C2/3.3 Vc
+### 5.4.1. Uitzonderlijke situatie in de zin van paragraaf C2/3.3 Vc
 
 Geen bijzonderheden.
 
@@ -1833,27 +1833,31 @@ De IND kan een verblijfsvergunning asiel voor bepaalde tijd verlenen als de vree
 
 Bovenstaande beleidsregels gelden ook voor kinderen uit gemengde huwelijken of duurzame relaties. Als het kind verblijft in een gescheiden gezin, toetst de IND de situatie van het kind aan de hand van de bevolkingsgroep van de ouder, bij wie het kind verblijft.
 
+### 5.5.1. Bescherming door autoriteiten en/of internationale organisaties in de zin van paragraaf C2/4.3 Vc
+
+De IND neemt in ieder geval voor de volgende categorieën aan dat het niet mogelijk is de bescherming van de autoriteiten of internationale organisaties te verkrijgen:
+
+### 5.5.2. Vlucht- en vestigingsalternatief in de zin van paragraaf C2/4.3 Vc
+
 ### 5.5.2. Vlucht- en vestigingsalternatief in de zin van paragraaf C2/4.3 Vc
 
 De IND neemt in ieder geval aan dat een vlucht- of vestigingsalternatief aanwezig is in het hoofdgebied van Azerbeidzjan:
 
-### 5.5.2. Vlucht- en vestigingsalternatief in de zin van paragraaf C2/4.3 Vc
-
 ### 5.5.3. Buitenlands vestigingsalternatief in Armenië
 
-De IND neemt in ieder geval aan dat een vlucht- of vestigingsalternatief aanwezig is in Nagorny Karabach voor:
+Bovenstaande beleidsregels gelden ook voor kinderen uit gemengde huwelijken of duurzame relaties. Als het kind verblijft in een gescheiden gezin, toetst de IND de situatie van het kind aan de hand van de bevolkingsgroep van de ouder, bij wie het kind verblijft.
 
 ### 5.5.3. Buitenlands vestigingsalternatief in Armenië
-
-De IND neemt aan dat een buitenlands vestigingsalternatief in Armenië aanwezig is voor etnische Armeniërs uit Azerbeidzjan, tenzij in ieder geval één van de volgende omstandigheden zich voordoet:
-
-### 5.6. Adequate opvang alleenstaande minderjarige vreemdelingen
 
 ### 5.6. Adequate opvang alleenstaande minderjarige vreemdelingen
 
 De IND beoordeelt aan de hand van [paragraaf B8/6](onbekend) Vc of adequate opvang voor amv’s aanwezig is.
 
-Geen bijzonderheden.
+De IND beoordeelt aan de hand van [paragraaf B8/6](onbekend) Vc of adequate opvang voor amv’s aanwezig is.
+
+Voor Azerbeidzjan geldt in ieder geval dat:
+
+### 5.7. Vertrekmoratorium
 
 Geen bijzonderheden.
 
@@ -1861,18 +1865,14 @@ Geen bijzonderheden.
 
 Geen bijzonderheden.
 
+### 6. Het asielbeleid ten aanzien van Bosnië en Herzegovina
+
 ### 6.1. Besluitmoratorium
 
 Geen bijzonderheden.
 
 ### 6.2. Artikel 1F Vluchtelingenverdrag
 
-### 6.2. Artikel 1F Vluchtelingenverdrag
-
-Geen bijzonderheden.
-
-### 6.3.1. Groepsvervolging in de zin van paragraaf C2/3.2 Vc
-
 Geen bijzonderheden.
 
 Geen bijzonderheden.
@@ -1887,7 +1887,7 @@ Geen bijzonderheden.
 
 Geen bijzonderheden.
 
-### 6.4.2. Systematische blootstelling in de zin van paragraaf C2/3.3 Vc
+### 6.4.1. Uitzonderlijke situatie in de zin van paragraaf C2/3.3 Vc
 
 ### 6.4.3. Kwetsbare minderheidsgroepen in de zin van paragraaf C2/3.3 Vc
 
@@ -1899,7 +1899,7 @@ Geen bijzonderheden.
 
 ### 6.5. Bescherming
 
-### 6.5.2. Vlucht- en vestigingsalternatief in de zin van paragraaf C2/3.4 Vc
+### 6.5. Bescherming
 
 Geen bijzonderheden.
 
@@ -1909,6 +1909,10 @@ In Bosnië en Herzegovina is adequate opvang in de zin van [paragraaf B8/6](onbe
 
 ### 6.7. Vertrekmoratorium
 
+### 6.6. Adequate opvang alleenstaande minderjarige vreemdelingen
+
+In Bosnië en Herzegovina is adequate opvang in de zin van [paragraaf B8/6](onbekend) Vc.
+
 ### 6.7. Vertrekmoratorium
 
 Geen bijzonderheden.
@@ -1917,7 +1921,9 @@ Geen bijzonderheden.
 
 Geen bijzonderheden.
 
-### 7.1. Besluitmoratorium
+### 7. Het asielbeleid ten aanzien van Burundi
+
+Geen bijzonderheden.
 
 Geen bijzonderheden.
 
@@ -1927,21 +1933,15 @@ Geen bijzonderheden.
 
 Geen bijzonderheden.
 
-### 7.3.1. Groepsvervolging in de zin van paragraaf C2/3.2 Vc
-
-Geen bijzonderheden.
-
-Geen bijzonderheden.
-
 Geen bijzonderheden.
 
 ### 7.4. Ernstige schade in de zin van artikel 29, eerste lid, onder b, Vw
 
-### 7.4.1. Uitzonderlijke situatie in de zin van paragraaf C2/3.3 Vc
+### 7.3.2. Risicogroepen in de zin van paragraaf C2/3.2 Vc
 
 Geen bijzonderheden.
 
-### 7.4.2. Systematische blootstelling in de zin van paragraaf C2/3.3 Vc
+### 7.4. Ernstige schade in de zin van artikel 29, eerste lid, onder b, Vw
 
 Geen bijzonderheden.
 
@@ -1961,9 +1961,15 @@ Geen bijzonderheden.
 
 ### 7.6. Adequate opvang alleenstaande minderjarige vreemdelingen
 
+### 7.5.2. Vlucht- en vestigingsalternatief in de zin van paragraaf C2/3.4 Vc
+
+Geen bijzonderheden.
+
 ### 7.6. Adequate opvang alleenstaande minderjarige vreemdelingen
 
-Voor Burundi geldt in ieder geval dat:
+De IND beoordeelt of adequate opvang voor amv’s aanwezig is aan de hand van [paragraaf B8/6](onbekend) Vc.
+
+### 7.8. Bijzonderheden
 
 ### 7.7. Vertrekmoratorium
 
@@ -1971,9 +1977,9 @@ Geen bijzonderheden.
 
 ### 7.8. Bijzonderheden
 
-### 7.8. Bijzonderheden
-
 Geen bijzonderheden.
+
+### 8. Het asielbeleid ten aanzien van China
 
 ### 8.1. Besluitmoratorium
 
@@ -1981,13 +1987,13 @@ Ten aanzien van Oeigoeren afkomstig uit China geldt een besluit in de zin van [a
 
 ### 8.2. Artikel 1F Vluchtelingenverdrag
 
-### 8.2. Artikel 1F Vluchtelingenverdrag
+Geen bijzonderheden.
+
+### 8.3. Vervolging in de zin van het Vluchtelingenverdrag
 
 Geen bijzonderheden.
 
-### 8.3.1. Groepsvervolging in de zin van paragraaf C2/3.2 Vc
-
-Geen bijzonderheden.
+### 8.3.3. Tibetanen die te maken kunnen hebben met repressie
 
 ### 8.3.2. Risicogroepen in de zin van paragraaf C2/3.2 Vc
 
@@ -1995,13 +2001,7 @@ Geen bijzonderheden.
 
 ### 8.3.3. Tibetanen die te maken kunnen hebben met repressie
 
-### 8.3.3. Tibetanen die te maken kunnen hebben met repressie
-
-De IND verleent een verblijfsvergunning asiel voor bepaalde tijd op grond van [artikel 29, eerste lid, aanhef en onder a, Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=29) aan de vreemdeling uit Tibet die aannemelijk maakt dat hij tot een of meerdere van deze groepen behoort.
-
-### 8.4. Ernstige schade in de zin van [artikel 29, eerste lid, onder b, Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=29)
-
-De IND verleent een verblijfsvergunning asiel voor bepaalde tijd op grond van [artikel 29, eerste lid, aanhef en onder a, Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=29) aan de vreemdeling uit Tibet die aannemelijk maakt dat hij tot een of meerdere van deze groepen behoort.
+Tibetanen kunnen te maken hebben met repressie in China, als zij:
 
 ### 8.4. Ernstige schade in de zin van [artikel 29, eerste lid, onder b, Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=29)
 
@@ -2019,19 +2019,19 @@ De IND verleent een verblijfsvergunning asiel voor bepaalde tijd op grond van [a
 
 ### 8.5. Bescherming
 
-### 8.5.1. Bescherming door autoriteiten en/of internationale organisaties in de zin van paragraaf C2/3.4 Vc
+### 8.4.4. Vreemdelingen die illegaal China zijn uitgereisd
+
+De IND verleent een verblijfsvergunning asiel voor bepaalde tijd op grond van [artikel 29, eerste lid, aanhef en onder b, Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=29) aan de vreemdeling uit Tibet die aannemelijk heeft gemaakt dat hij illegaal China is uitgereisd.
+
+### 8.5. Bescherming
 
 Geen bijzonderheden.
+
+### 8.6. Adequate opvang alleenstaande minderjarige vreemdelingen
 
 ### 8.5.2. Vlucht- en vestigingsalternatief in de zin van paragraaf C2/3.4 Vc
 
 Geen bijzonderheden.
-
-### 8.6. Adequate opvang alleenstaande minderjarige vreemdelingen
-
-### 8.6. Adequate opvang alleenstaande minderjarige vreemdelingen
-
-In China is adequate opvang in de zin van [paragraaf B8/6 Vc](onbekend).
 
 Ten aanzien van Oeigoeren afkomstig uit China geldt een besluit in de zin van [artikel 45, vierde lid, Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=45).
 
@@ -2041,11 +2041,11 @@ Geen bijzonderheden.
 
 ### 9. Het asielbeleid ten aanzien van Colombia
 
-### 9.1. Besluitmoratorium
+### 8.8. Bijzonderheden
 
 Geen bijzonderheden.
 
-### 9.2. Artikel 1F Vluchtelingenverdrag
+### 9. Het asielbeleid ten aanzien van Colombia
 
 Geen bijzonderheden.
 
@@ -2055,9 +2055,9 @@ Geen bijzonderheden.
 
 Geen bijzonderheden.
 
-### 9.3.2. Risicogroepen in de zin van paragraaf C2/3.2 Vc
+### 9.3. Vervolging in de zin van het Vluchtelingenverdrag
 
-### 9.3.2. Risicogroepen in de zin van paragraaf C2/3.2 Vc
+### 9.3.1. Groepsvervolging in de zin van paragraaf C2/3.2 Vc
 
 Geen bijzonderheden.
 
@@ -2067,7 +2067,7 @@ Geen bijzonderheden.
 
 Geen bijzonderheden.
 
-### 9.4.2. Systematische blootstelling in de zin van paragraaf C2/3.3 Vc
+### 9.4.1. Uitzonderlijke situatie in de zin van paragraaf C2/3.3 Vc
 
 Geen bijzonderheden.
 
@@ -2081,7 +2081,7 @@ Geen bijzonderheden.
 
 Geen bijzonderheden.
 
-### 9.5.2. Vlucht- en vestigingsalternatief in de zin van paragraaf C2/3.4 Vc
+### 9.5.1. Bescherming door autoriteiten en/of internationale organisaties in de zin van paragraaf C2/3.4 Vc
 
 ### 9.6. Adequate opvang alleenstaande minderjarige vreemdelingen
 
@@ -2109,9 +2109,13 @@ Geen bijzonderheden.
 
 Geen bijzonderheden.
 
-### 10.3.1. Groepsvervolging in de zin van paragraaf C2/3.2 Vc
+### 10.2. Artikel 1F Vluchtelingenverdrag
 
 ### 10.3. Vervolging in de zin van het Vluchtelingenverdrag
+
+Geen bijzonderheden.
+
+### 10.3.1. Groepsvervolging in de zin van paragraaf C2/3.2 Vc
 
 Geen bijzonderheden.
 
@@ -2119,11 +2123,11 @@ Geen bijzonderheden.
 
 Geen bijzonderheden.
 
+### 10.4. Ernstige schade in de zin van artikel 29, eerste lid, onder b, Vw
+
 ### 10.4.1. Uitzonderlijke situatie in de zin van paragraaf C2/3.3 Vc
 
 In Congo DRC is uitsluitend sprake van een uitzonderlijke situatie in de zin van [artikel 29, eerste lid, onder b, Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=29) in de provincies Noord- en Zuid-Kivu.
-
-### 10.4.2. Systematische blootstelling in de zin van paragraaf C2/3.3 Vc
 
 ### 10.4.2. Systematische blootstelling in de zin van paragraaf C2/3.3 Vc
 
@@ -2133,15 +2137,17 @@ Geen bijzonderheden.
 
 Geen bijzonderheden.
 
-### 10.5.1. Bescherming door autoriteiten en/of internationale organisaties in de zin van paragraaf C2/3.4 Vc
-
 De IND neemt in ieder geval voor de volgende categorieën aan dat het niet mogelijk is de bescherming te verkrijgen van de autoriteiten of internationale organisaties:
+
+### 10.5.1. Bescherming door autoriteiten en/of internationale organisaties in de zin van paragraaf C2/3.4 Vc
 
 De IND neemt in ieder geval voor de volgende categorieën aan dat het niet mogelijk is de bescherming te verkrijgen van de autoriteiten of internationale organisaties:
 
 ### 10.5.2. Vlucht- en vestigingsalternatief in de zin van paragraaf C2/3.4 Vc
 
-De IND neemt voor Congo DRC een vestigingsalternatief in Kinshasa aan als de vreemdeling aan alle volgende voorwaarden voldoet:
+De IND neemt voor Congo DRC geen vlucht- of vestigingsalternatief aan, als de IND heeft geconcludeerd dat de vreemdeling op basis van de vreemdeling zelf betreffende omstandigheden een gegronde vrees heeft voor vervolging dan wel ernstige schade.
+
+### 10.7. Vertrekmoratorium
 
 ### 10.6. Adequate opvang alleenstaande minderjarige vreemdelingen
 
@@ -2149,27 +2155,25 @@ In Congo DRC is adequate opvang in de zin van [paragraaf B8/6](onbekend) Vc.
 
 ### 10.7. Vertrekmoratorium
 
-### 10.7. Vertrekmoratorium
-
 Geen bijzonderheden.
 
 ### 10.8. Bijzonderheden
-
-Geen bijzonderheden.
-
-### 11.1. Besluitmoratorium
 
 ### 11. Het asielbeleid ten aanzien van Eritrea
 
 Geen bijzonderheden.
 
+### 11.1. Besluitmoratorium
+
+Geen bijzonderheden.
+
 ### 11.2. Artikel 1F Vluchtelingenverdrag
+
+### 11.3. Vervolging in de zin van het Vluchtelingenverdrag
 
 Geen bijzonderheden.
 
 ### 11.3.1. Groepsvervolging in de zin van paragraaf C2/3.2 Vc
-
-### 11.3. Vervolging in de zin van het Vluchtelingenverdrag
 
 Geen bijzonderheden.
 
@@ -2177,11 +2181,11 @@ Geen bijzonderheden.
 
 Geen bijzonderheden.
 
+### 11.4. Ernstige schade in de zin van artikel 29, eerste lid, onder b, Vw
+
 ### 11.4.1. Uitzonderlijke situatie in de zin van paragraaf C2/3.3 Vc
 
 Geen bijzonderheden.
-
-### 11.4.2. Systematische blootstelling in de zin van paragraaf C2/3.3 Vc
 
 ### 11.4.2. Systematische blootstelling in de zin van paragraaf C2/3.3 Vc
 
@@ -2191,23 +2195,19 @@ Geen bijzonderheden.
 
 Geen bijzonderheden.
 
-### 11.4.4. Dienstplichtigen en deserteurs
-
-De IND verleent een verblijfsvergunning asiel voor bepaalde tijd op grond van artikel 29, eerste lid, aanhef en onder b, Vw aan vreemdelingen die aannemelijk hebben gemaakt dat zij vanwege hun dienstweigering of dienstplichtontduiking in de negatieve aandacht van de autoriteiten staan.
-
 De IND verleent een verblijfsvergunning asiel voor bepaalde tijd op grond van [artikel 29, eerste lid, aanhef en onder b, Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=29) aan vreemdelingen die aannemelijk hebben gemaakt dat zij zijn gedeserteerd.
 
 ### 11.4.5. Illegale en legale uitreis
 
-De IND verleent een verblijfsvergunning asiel voor bepaalde tijd op grond van [artikel 29, eerste lid, aanhef en onder b, Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=29) aan de Eritrese vreemdeling die Eritrea op legale wijze (met geldig document voor grensoverschrijding en uitreisvisum) heeft verlaten, uitsluitend als de vreemdeling individuele omstandigheden naar voren heeft gebracht die aannemelijk maken dat hij bij terugkeer wordt blootgesteld aan ernstige schade. Hiervan kan sprake zijn als de vreemdeling heeft aangetoond dat hij aanmerkelijk langer in het buitenland heeft verbleven dan was beoogd voor het doel waarvoor de Eritrese autoriteiten een uitreisvisum hebben afgegeven.
+De IND verleent een verblijfsvergunning asiel voor bepaalde tijd op grond van artikel 29, eerste lid, aanhef en onder b, Vw aan vreemdelingen die aannemelijk hebben gemaakt dat zij vanwege hun dienstweigering of dienstplichtontduiking in de negatieve aandacht van de autoriteiten staan.
+
+### 11.4.5. Illegale en legale uitreis
+
+De IND verleent een verblijfsvergunning asiel voor bepaalde tijd op grond van [artikel 29, eerste lid, aanhef en onder b, Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=29) aan de Eritrese vreemdeling die illegaal Eritrea uitgereisd is.
 
 ### 11.5. Bescherming
 
-De IND verleent een verblijfsvergunning asiel voor bepaalde tijd op grond van [artikel 29, eerste lid, aanhef en onder b, Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=29) aan de Eritrese vreemdeling die Eritrea op legale wijze (met geldig document voor grensoverschrijding en uitreisvisum) heeft verlaten, uitsluitend als de vreemdeling individuele omstandigheden naar voren heeft gebracht die aannemelijk maken dat hij bij terugkeer wordt blootgesteld aan ernstige schade. Hiervan kan sprake zijn als de vreemdeling heeft aangetoond dat hij aanmerkelijk langer in het buitenland heeft verbleven dan was beoogd voor het doel waarvoor de Eritrese autoriteiten een uitreisvisum hebben afgegeven.
-
 ### 11.5. Bescherming
-
-### 11.5.2. Vlucht- en vestigingsalternatief in de zin van paragraaf C2/3.4 Vc
 
 De IND neemt aan dat geen vlucht- en vestigingsalternatief in Eritrea aanwezig is voor vrouwen die aannemelijk hebben gemaakt dat zij hebben te vrezen voor genitale verminking.
 
@@ -2217,22 +2217,22 @@ In Eritrea is adequate opvang in de zin van [paragraaf B8/6](onbekend) Vc.
 
 ### 11.7. Vertrekmoratorium
 
+### 11.6. Adequate opvang alleenstaande minderjarige vreemdelingen
+
+In Eritrea is adequate opvang in de zin van [paragraaf B8/6](onbekend) Vc.
+
 ### 11.7. Vertrekmoratorium
 
 Geen bijzonderheden.
 
 ### 11.8. Bijzonderheden
 
+### 12.1. Besluitmoratorium
+
 Uitgangspunt is echter dat een vreemdeling die legaal, met toestemming van de Eritrese autoriteiten, is uitgereisd, zelfstandig kan terugkeren. Bij deze groep neemt de IND niet op voorhand aan dat bij terugkeer naar Eritrea sprake is van ernstige schade.
 
 ### 12. Het asielbeleid ten aanzien van Guinee
 
-### 12.1. Besluitmoratorium
-
-Geen bijzonderheden.
-
-### 12.2. Artikel 1F Vluchtelingenverdrag
-
 Geen bijzonderheden.
 
 ### 12.3. Vervolging in de zin van het Vluchtelingenverdrag
@@ -2241,7 +2241,7 @@ Geen bijzonderheden.
 
 ### 12.3. Vervolging in de zin van het Vluchtelingenverdrag
 
-### 12.3.2. Risicogroepen in de zin van paragraaf C2/3.2 Vc
+### 12.3. Vervolging in de zin van het Vluchtelingenverdrag
 
 Geen bijzonderheden.
 
@@ -2265,7 +2265,7 @@ Geen bijzonderheden.
 
 ### 12.5. Bescherming
 
-### 12.5.2. Vlucht- en vestigingsalternatief in de zin van paragraaf C2/3.4 Vc
+### 12.5. Bescherming
 
 Geen bijzonderheden.
 
@@ -2275,9 +2275,9 @@ De IND beoordeelt aan de hand van [paragraaf B8/6](onbekend) Vc of adequate opva
 
 ### 12.6. Adequate opvang alleenstaande minderjarige vreemdelingen
 
-### 12.7. Vertrekmoratorium
+### 12.6. Adequate opvang alleenstaande minderjarige vreemdelingen
 
-Geen bijzonderheden.
+De IND beoordeelt aan de hand van [paragraaf B8/6](onbekend) Vc of adequate opvang voor amv’s aanwezig is.
 
 ### 12.8. Bijzonderheden
 
@@ -2285,21 +2285,21 @@ Geen bijzonderheden.
 
 ### 13. Het asielbeleid ten aanzien van Irak
 
-### 13.1. Besluitmoratorium
+### 12.8. Bijzonderheden
 
-Ten aanzien van Irak geldt geen besluit in de zin van [artikel 43, eerste lid, Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=43).
+Geen bijzonderheden.
 
-### 13.2. Artikel 1F Vluchtelingenverdrag
-
-De IND neemt in de regel in ieder geval ten aanzien van de volgende categorieën ‘personal and knowing participation’ in de zin van paragraaf C2/7.10.1 Vc aan:
-
-### 13.3. Vervolging in de zin van het Vluchtelingenverdrag
+### 13. Het asielbeleid ten aanzien van Irak
 
 De IND neemt in de regel in ieder geval ten aanzien van de volgende categorieën ‘personal and knowing participation’ in de zin van paragraaf C2/7.10.1 Vc aan:
 
 ### 13.3. Vervolging in de zin van het Vluchtelingenverdrag
 
-### 13.3.2. Risicogroepen in de zin van paragraaf C2/3.2 Vc
+De IND neemt in de regel in ieder geval ten aanzien van de volgende categorieën ‘personal and knowing participation’ in de zin van paragraaf C2/7.10.1 Vc aan:
+
+### 13.3. Vervolging in de zin van het Vluchtelingenverdrag
+
+### 13.3. Vervolging in de zin van het Vluchtelingenverdrag
 
 Geen bijzonderheden.
 
@@ -2310,6 +2310,10 @@ Geen bijzonderheden.
 ### 13.4. Ernstige schade in de zin van [artikel 29, eerste lid, onder b, Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=29)
 
 Geen bijzonderheden.
+
+### 13.4.1. Uitzonderlijke situatie in de zin van paragraaf C2/3.3 Vc
+
+De IND wijst uitsluitend de volgende gebieden in Irak aan als gebieden waarin sprake is van een uitzonderlijke situatie zoals bedoeld in [artikel 29, eerste lid, onder b Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=29):
 
 ### 13.4.2. Systematische blootstelling in de zin van paragraaf C2/3.3 Vc
 
@@ -2317,23 +2321,19 @@ Geen bijzonderheden.
 
 ### 13.4.3. Kwetsbare minderheidsgroepen in de zin van paragraaf C2/3.3 Vc
 
-De IND merkt een Iraakse vrouw aan als alleenstaand als zij voldoet aan alle volgende voorwaarden:
-
-### 13.4.3. Kwetsbare minderheidsgroepen in de zin van paragraaf C2/3.3 Vc
-
 ### 13.5. Bescherming
 
-De IND merkt de gezinsband in elk geval aan als verbroken, als:
+De IND merkt een Iraakse vrouw aan als alleenstaand als zij voldoet aan alle volgende voorwaarden:
+
+### 13.5.1. Bescherming door autoriteiten en/of internationale organisaties in de zin van paragraaf C2/3.4 Vc
+
+Uitzondering op de regel dat een alleenstaande vrouw bij terugkeer een reëel risico loopt, betreft vrouwen ten aanzien van wie het evident is dat bescherming op grond van haar alleenstaande status niet nodig is.
+
+### 13.5. Bescherming
 
 ### 13.5.1. Bescherming door autoriteiten en/of internationale organisaties in de zin van paragraaf C2/3.4 Vc
 
 De IND neemt aan dat het voor de vreemdeling afkomstig uit Centraal en Zuid-Irak in beginsel niet mogelijk is de bescherming te verkrijgen van de autoriteiten of internationale organisaties in Centraal- en Zuid-Irak.
-
-### 13.5.1. Bescherming door autoriteiten en/of internationale organisaties in de zin van paragraaf C2/3.4 Vc
-
-### 13.5.2. Vlucht- en vestigingsalternatief in de zin van paragraaf C2/3.4 Vc
-
-De IND beoordeelt of sprake is van concrete aanknopingspunten op basis waarvan in individuele gevallen geconcludeerd kan worden dat de persoon zich buiten het gebied van herkomst, bijvoorbeeld in de stad Bagdad, kan vestigen.
 
 ### 13.5.2. Vlucht- en vestigingsalternatief in de zin van paragraaf C2/3.4 Vc
 
@@ -2343,11 +2343,11 @@ De IND neemt aan dat een vreemdeling afkomstig uit een van de gebieden genoemd i
 
 ### 13.7. Vertrekmoratorium
 
-Voor Irak geldt in ieder geval dat:
+De IND neemt aan dat een vreemdeling afkomstig uit een van de gebieden genoemd in paragraaf C7/13.4.1 Vc geen binnenlands vlucht- of vestigingsalternatief heeft in de KAR, tenzij er sprake is van concrete aanknopingspunten op basis waarvan geconcludeerd kan worden dat de persoon zich in de KAR kan vestigen.
 
-### 13.7. Vertrekmoratorium
+### 13.6. Adequate opvang alleenstaande minderjarige vreemdelingen
 
-Geen bijzonderheden.
+De IND beoordeelt aan de hand van [paragraaf B8/6 Vc](onbekend) of adequate opvang voor amv’s aanwezig is.
 
 ### 13.8. Bijzonderheden
 
@@ -2355,11 +2355,11 @@ De IND merkt Fayli-Koerden van wie de Iraakse nationaliteit is ontnomen tijdens 
 
 ### 14. Het asielbeleid ten aanzien van Iran
 
-### 14.1. Besluitmoratorium
+### 13.8. Bijzonderheden
 
-Geen bijzonderheden.
+De IND merkt Fayli-Koerden van wie de Iraakse nationaliteit is ontnomen tijdens het regime van Saddam Hoessein, niet aan als staatloos. De IND neemt aan dat zij de Iraakse nationaliteit hebben.
 
-### 14.2. Artikel 1F Vluchtelingenverdrag
+### 14. Het asielbeleid ten aanzien van Iran
 
 Geen bijzonderheden.
 
@@ -2367,9 +2367,9 @@ Geen bijzonderheden.
 
 Geen bijzonderheden.
 
-De IND beschouwt de volgende groepen als groepen die systematisch worden blootgesteld aan vervolging in de zin van artikel 1A Vluchtelingenverdrag:
+Geen bijzonderheden.
 
-### 14.3.2. Risicogroepen in de zin van paragraaf C2/3.2 Vc
+### 14.3. Vervolging in de zin van het Vluchtelingenverdrag
 
 De IND merkt de volgende groepen aan tot risicogroepen:
 
@@ -2387,7 +2387,7 @@ De IND verleent een verblijfsvergunning asiel voor bepaalde tijd op grond van [a
 
 Geen bijzonderheden.
 
-### 14.4.3. Kwetsbare minderheidsgroepen in de zin van paragraaf C2/3.3 Vc
+### 14.4.1. Uitzonderlijke situatie in de zin van paragraaf C2/3.3 Vc
 
 ### 14.4.3. Kwetsbare minderheidsgroepen in de zin van paragraaf C2/3.3 Vc
 
@@ -2399,7 +2399,7 @@ Geen bijzonderheden.
 
 ### 14.5. Bescherming
 
-### 14.5.2. Vlucht- en vestigingsalternatief in de zin van paragraaf C2/6 Vc
+### 14.5. Bescherming
 
 Geen bijzonderheden.
 
@@ -2423,15 +2423,21 @@ Geen bijzonderheden.
 
 Geen bijzonderheden.
 
+### 15. Het asielbeleid ten aanzien van Ivoorkust
+
+Geen bijzonderheden.
+
+Geen bijzonderheden.
+
 ### 15.2. Artikel 1F Vluchtelingenverdrag
 
 Geen bijzonderheden.
 
-Geen bijzonderheden.
-
-### 15.3.1. Groepsvervolging in de zin van paragraaf C2/3.2 Vc
+### 15.3. Vervolging in de zin van het Vluchtelingenverdrag
 
 Geen bijzonderheden.
+
+### 15.4. Ernstige schade in de zin van artikel 29, eerste lid, onder b, Vw
 
 ### 15.3.2. Risicogroepen in de zin van paragraaf C2/3.2 Vc
 
@@ -2439,9 +2445,9 @@ Geen bijzonderheden.
 
 ### 15.4. Ernstige schade in de zin van artikel 29, eerste lid, onder b, Vw
 
-### 15.4.1. Uitzonderlijke situatie in de zin van paragraaf C2/3.3 Vc
-
 Geen bijzonderheden.
+
+### 15.4.3. Kwetsbare minderheidsgroepen in de zin van paragraaf C2/3.3 Vc
 
 ### 15.4.2. Systematische blootstelling in de zin van paragraaf C2/3.3 Vc
 
@@ -2449,9 +2455,9 @@ Geen bijzonderheden.
 
 ### 15.4.3. Kwetsbare minderheidsgroepen in de zin van paragraaf C2/3.3 Vc
 
-### 15.5. Bescherming
+Geen bijzonderheden.
 
-De IND neemt in ieder geval voor de volgende categorieën aan dat het niet mogelijk is de bescherming van de autoriteiten of internationale organisaties te verkrijgen:
+### 15.5. Bescherming
 
 ### 15.5.1. Bescherming door autoriteiten en/of internationale organisaties in de zin van paragraaf C2/3.4 Vc
 
@@ -2459,39 +2465,39 @@ De IND neemt in ieder geval voor de volgende categorieën aan dat het niet mogel
 
 ### 15.5.2. Vlucht- en vestigingsalternatief in de zin van paragraaf C2/3.4 Vc
 
+Geen bijzonderheden.
+
 ### 15.6. Adequate opvang alleenstaande minderjarige vreemdelingen
 
 De IND beoordeelt aan de hand van [paragraaf B8/6 Vc](onbekend) of adequate opvang voor amv’s aanwezig is.
 
-### 15.7. Vertrekmoratorium
-
-Voor Ivoorkust geldt in ieder geval dat:
+### 15.8. Bijzonderheden
 
 ### 15.7. Vertrekmoratorium
 
 Geen bijzonderheden.
 
-### 15.8. Bijzonderheden
+Geen bijzonderheden.
 
 ### 16. Het asielbeleid ten aanzien van Jemen
+
+Geen bijzonderheden.
+
+### 16.1. Besluitmoratorium
 
 Ten aanzien van Jemen geldt een besluit in de zin van [artikel 43, eerste lid, Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=43).
 
 Geen bijzonderheden.
 
-### 16. Het asielbeleid ten aanzien van Jemen
-
-Geen bijzonderheden.
-
 ### 16.3. Vervolging in de zin van het Vluchtelingenverdrag
 
 Geen bijzonderheden.
 
-Geen bijzonderheden.
-
-### 16.3. Vervolging in de zin van het Vluchtelingenverdrag
+### 16.3.1. Groepsvervolging in de zin van paragraaf C2/3.2 Vc
 
 Geen bijzonderheden.
+
+### 16.3.2. Risicogroepen in de zin van paragraaf C2/3.2 Vc
 
 ### 16.4. Ernstige schade in de zin van [artikel 29, eerste lid, onder b, Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=29)
 
@@ -2499,15 +2505,9 @@ Geen bijzonderheden.
 
 ### 16.4.1. Uitzonderlijke situatie in de zin van paragraaf C2/3.3 Vc
 
-### 16.4. Ernstige schade in de zin van [artikel 29, eerste lid, onder b, Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=29)
-
 Geen bijzonderheden.
 
-### 16.4.3. Kwetsbare minderheidsgroepen in de zin van paragraaf C2/3.3 Vc
-
-Geen bijzonderheden.
-
-### 16.5. Bescherming
+### 16.4.2. Systematische blootstelling in de zin van paragraaf C2/3.3 Vc
 
 ### 16.5. Bescherming
 
@@ -2517,7 +2517,7 @@ Geen bijzonderheden.
 
 Geen bijzonderheden.
 
-### 16.6. Adequate opvang alleenstaande minderjarige vreemdelingen
+### 16.5.1. Bescherming door autoriteiten en/of internationale organisaties in de zin van paragraaf C2/6 Vc
 
 ### 16.6. Adequate opvang alleenstaande minderjarige vreemdelingen
 
@@ -2533,11 +2533,11 @@ Geen bijzonderheden.
 
 ### 17. Het asielbeleid ten aanzien van Libië
 
-### 17.1. Besluitmoratorium
+### 16.8. Bijzonderheden
 
 Geen bijzonderheden.
 
-### 17.2. Artikel 1F Vluchtelingenverdrag
+### 17. Het asielbeleid ten aanzien van Libië
 
 Geen bijzonderheden.
 
@@ -2547,7 +2547,7 @@ Geen bijzonderheden.
 
 Geen bijzonderheden.
 
-### 17.3.2. Risicogroepen in de zin van paragraaf C2/3.2 Vc
+### 17.3. Vervolging in de zin van het Vluchtelingenverdrag
 
 De IND merkt voor Libië uitsluitend de volgende risicogroepen aan:
 
@@ -2561,11 +2561,11 @@ De IND merkt voor Libië uitsluitend de volgende risicogroepen aan:
 
 Geen bijzonderheden.
 
-### 17.4.3. Kwetsbare minderheidsgroepen in de zin van paragraaf C2/3.3 Vc
+### 17.4.1. Uitzonderlijke situatie in de zin van paragraaf C2/3.3 Vc
 
-De IND merkt uitsluitend LHBT’s aan als kwetsbare minderheidsgroep.
+Geen bijzonderheden.
 
-### 17.5. Bescherming
+### 17.4.2. Systematische blootstelling in de zin van paragraaf C2/3.3 Vc
 
 ### 17.5. Bescherming
 
@@ -2575,7 +2575,7 @@ De IND merkt uitsluitend LHBT’s aan als kwetsbare minderheidsgroep.
 
 De IND neemt aan dat geen vlucht- of vestigingsalternatief in Libië aanwezig is voor de volgende categorieën:
 
-### 17.6. Adequate opvang alleenstaande minderjarige vreemdelingen
+### 17.5.1. Bescherming door autoriteiten en/of internationale organisaties in de zin van paragraaf C2/3.4 Vc
 
 ### 17.6. Adequate opvang alleenstaande minderjarige vreemdelingen
 
@@ -2587,9 +2587,9 @@ De IND beoordeelt aan de hand van [paragraaf B8/6](onbekend) Vc of adequate opva
 
 ### 17.8. Bijzonderheden
 
-Geen bijzonderheden.
+Voor Libië geldt in ieder geval dat:
 
-### 18. Het asielbeleid ten aanzien van Mongolië
+### 17.7. Vertrekmoratorium
 
 ### 18. Het asielbeleid ten aanzien van Mongolië
 
@@ -2609,9 +2609,15 @@ Geen bijzonderheden.
 
 Geen bijzonderheden.
 
-### 18.4. Ernstige schade in de zin van artikel 29, eerste lid, onder b, Vw
+### 18.3.1. Groepsvervolging in de zin van paragraaf C2/3.2 Vc
 
 Geen bijzonderheden.
+
+### 18.3.2. Risicogroepen in de zin van paragraaf C2/3.2 Vc
+
+Geen bijzonderheden.
+
+### 18.4. Ernstige schade in de zin van artikel 29, eerste lid, onder b, Vw
 
 ### 18.4.1. Uitzonderlijke situatie in de zin van paragraaf C2/3.3 Vc
 
@@ -2619,9 +2625,9 @@ Geen bijzonderheden.
 
 ### 18.4.2. Systematische blootstelling in de zin van paragraaf C2/3.3 Vc
 
-### 18.4.3. Kwetsbare minderheidsgroepen in de zin van paragraaf C2/3.3 Vc
-
 Geen bijzonderheden.
+
+### 18.4.3. Kwetsbare minderheidsgroepen in de zin van paragraaf C2/3.3 Vc
 
 ### 18.5. Bescherming
 
@@ -2629,21 +2635,15 @@ Geen bijzonderheden.
 
 ### 18.5.1. Bescherming door autoriteiten en/of internationale organisaties in de zin van paragraaf C2/3.4 Vc
 
-### 18.5. Bescherming
-
 Geen bijzonderheden.
 
-### 18.6. Adequate opvang alleenstaande minderjarige vreemdelingen
+### 18.5.2. Vlucht- en vestigingsalternatief in de zin van paragraaf C2/3.4 Vc
+
+### 18.7. Vertrekmoratorium
+
+Geen bijzonderheden.
 
 In Mongolië is adequate opvang in de zin van [paragraaf B8/6](onbekend) Vc.
-
-### 18.7. Vertrekmoratorium
-
-### 18.7. Vertrekmoratorium
-
-Geen bijzonderheden.
-
-Geen bijzonderheden.
 
 Geen bijzonderheden.
 
@@ -2655,7 +2655,7 @@ Geen bijzonderheden.
 
 Geen bijzonderheden.
 
-### 19.3. Vervolging in de zin van het Vluchtelingenverdrag
+### 19.1. Besluitmoratorium
 
 Geen bijzonderheden.
 
@@ -2665,7 +2665,7 @@ Geen bijzonderheden.
 
 Geen bijzonderheden.
 
-### 19.4. Ernstige schade in de zin van artikel 29, eerste lid, onder b, Vw
+### 19.3.1. Groepsvervolging in de zin van paragraaf C2/3.2 Vc
 
 Geen bijzonderheden.
 
@@ -2678,8 +2678,14 @@ Geen bijzonderheden.
 Geen bijzonderheden.
 
 Geen bijzonderheden.
+
+### 19.4.2. Systematische blootstelling in de zin van paragraaf C2/3.3 Vc
 
 ### 19.5. Bescherming
+
+Geen bijzonderheden.
+
+Geen bijzonderheden.
 
 ### 19.5. Bescherming
 
@@ -2687,19 +2693,13 @@ Geen bijzonderheden.
 
 De IND neemt in ieder geval voor de volgende categorieën aan dat het niet mogelijk is de bescherming van de autoriteiten of internationale organisaties te verkrijgen:
 
-### 19.5.2. Vlucht- en vestigingsalternatief in de zin van paragraaf C2/6 Vc
-
-Geen bijzonderheden.
-
-De IND beoordeelt aan de hand van [paragraaf B8/6](onbekend) Vc of adequate opvang voor amv’s aanwezig is.
-
 De IND beoordeelt aan de hand van [paragraaf B8/6](onbekend) Vc of adequate opvang voor amv’s aanwezig is.
 
 ### 19.6. Adequate opvang alleenstaande minderjarige vreemdelingen
 
 De IND beoordeelt aan de hand van [paragraaf B8/6](onbekend) Vc of adequate opvang voor amv’s aanwezig is.
 
-Geen bijzonderheden.
+De IND beoordeelt aan de hand van [paragraaf B8/6](onbekend) Vc of adequate opvang voor amv’s aanwezig is.
 
 ### 19.8. Bijzonderheden
 
@@ -2711,7 +2711,7 @@ Geen bijzonderheden.
 
 ### 20. Het asielbeleid ten aanzien van Nigeria
 
-### 20.2. Artikel 1F Vluchtelingenverdrag
+### 20. Het asielbeleid ten aanzien van Nigeria
 
 Geen bijzonderheden.
 
@@ -2721,7 +2721,7 @@ Geen bijzonderheden.
 
 ### 20.3. Vervolging in de zin van het Vluchtelingenverdrag
 
-### 20.3.2. Risicogroepen in de zin van paragraaf C2/3.2 Vc
+### 20.3. Vervolging in de zin van het Vluchtelingenverdrag
 
 Geen bijzonderheden.
 
@@ -2731,7 +2731,7 @@ Geen bijzonderheden.
 
 ### 20.4. Ernstige schade in de zin van artikel 29, eerste lid, onder b, Vw
 
-### 20.4.2. Systematische blootstelling in de zin van paragraaf C2/3.3 Vc
+### 20.4. Ernstige schade in de zin van artikel 29, eerste lid, onder b, Vw
 
 Geen bijzonderheden.
 
@@ -2751,9 +2751,9 @@ De IND neemt aan dat in Nigeria een vlucht- en vestigingsalternatief aanwezig is
 
 ### 20.5.2. Vlucht- en vestigingsalternatief in de zin van paragraaf C2/3.4 Vc
 
-### 20.6. Adequate opvang alleenstaande minderjarige vreemdelingen
+### 20.5.2. Vlucht- en vestigingsalternatief in de zin van paragraaf C2/3.4 Vc
 
-De IND beoordeelt aan de hand van [paragraaf B8/6 Vc](onbekend) of adequate opvang voor amv’s aanwezig is.
+De IND neemt aan dat in Nigeria een vlucht- en vestigingsalternatief aanwezig is voor de volgende categorieën:
 
 ### 20.6. Adequate opvang alleenstaande minderjarige vreemdelingen
 
@@ -2761,7 +2761,7 @@ De IND beoordeelt aan de hand van [paragraaf B8/6 Vc](onbekend) of adequate opva
 
 ### 20.8. Bijzonderheden
 
-Geen bijzonderheden.
+Voor Nigeria geldt in ieder geval dat:
 
 Geen bijzonderheden.
 
@@ -2773,7 +2773,7 @@ Geen bijzonderheden.
 
 Geen bijzonderheden.
 
-### 21.3. Vervolging in de zin van het Vluchtelingenverdrag
+### 21.1. Besluitmoratorium
 
 ### 21.3. Vervolging in de zin van het Vluchtelingenverdrag
 
@@ -2783,7 +2783,7 @@ Geen bijzonderheden.
 
 De IND merkt voor Pakistan uitsluitend de volgende categorieën als risicogroepen aan:
 
-### 21.4. Ernstige schade in de zin van [artikel 29, eerste lid, onder b, Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=29)
+### 21.3.1. Groepsvervolging in de zin van C2/3.2
 
 ### 21.4. Ernstige schade in de zin van [artikel 29, eerste lid, onder b, Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=29)
 
@@ -2793,35 +2793,41 @@ De IND merkt voor Pakistan uitsluitend de volgende categorieën als risicogroepe
 
 Geen bijzonderheden.
 
-### 21.4.3. Kwetsbare minderheidsgroepen in de zin van paragraaf C2/3.3
+### 21.4.1. Uitzonderlijke situatie in de zin van C2/3.3
 
 ### 21.4.3. Kwetsbare minderheidsgroepen in de zin van paragraaf C2/3.3
 
 Geen bijzonderheden.
 
-De IND neemt in ieder geval aan dat het niet mogelijk is de bescherming van de autoriteiten te verkrijgen voor:
+Geen bijzonderheden.
 
 Geen bijzonderheden.
 
+Geen bijzonderheden.
+
+Geen bijzonderheden.
+
+### 21.5.1. Bescherming door autoriteiten en/of internationale organisaties in de zin van C2/3.4 Vc
+
 De IND neemt in ieder geval aan dat het niet mogelijk is de bescherming van de autoriteiten te verkrijgen voor:
+
+### 21.5.2. Vlucht- en vestigingsalternatief in de zin van C2/3.4 Vc
 
 Geen bijzonderheden.
 
 ### 21.6. Adequate opvang alleenstaande minderjarige vreemdelingen
 
-De IND beoordeelt aan de hand van [paragraaf B8/6](onbekend) Vc of adequate opvang voor amv’s aanwezig is.
-
-### 21.7. Vertrekmoratorium
+### 21.8. Bijzonderheden
 
 Voor Pakistan geldt in ieder geval dat:
 
 ### 21.7. Vertrekmoratorium
 
+Geen bijzonderheden.
+
 ### 21.8. Bijzonderheden
 
 Geen bijzonderheden.
-
-### 22. Het asielbeleid ten aanzien van de Russische Federatie
 
 Geen bijzonderheden.
 
@@ -2829,11 +2835,11 @@ Geen bijzonderheden.
 
 Geen bijzonderheden.
 
+### 22.2. Artikel 1F Vluchtelingenverdrag
+
 Geen bijzonderheden.
 
 ### 22.3. Vervolging in de zin van het Vluchtelingenverdrag
-
-Geen bijzonderheden.
 
 ### 22.3.1. Groepsvervolging in de zin van paragraaf C2/3.2 Vc
 
@@ -2841,9 +2847,9 @@ Geen bijzonderheden.
 
 ### 22.3.2. Risicogroepen in de zin van paragraaf C2/3.2 Vc
 
-### 22.4. Ernstige schade in de zin van [artikel 29, eerste lid, onder b, Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=29)
+De IND merkt LHBT’s aan als risicogroep.
 
-Geen bijzonderheden.
+### 22.4. Ernstige schade in de zin van [artikel 29, eerste lid, onder b, Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=29)
 
 ### 22.4.1. Uitzonderlijke situatie in de zin van paragraaf C2/3.3 Vc
 
@@ -2851,17 +2857,19 @@ Geen bijzonderheden.
 
 ### 22.4.2. Systematische blootstelling in de zin van paragraaf C2/3.3 Vc
 
-### 22.4.3. Kwetsbare minderheidsgroepen in de zin van paragraaf C2/3.3 Vc
-
 Geen bijzonderheden.
+
+### 22.4.3. Kwetsbare minderheidsgroepen in de zin van paragraaf C2/3.3 Vc
 
 ### 22.5. Bescherming
 
-De IND neemt aan dat het voor LHBT’s niet mogelijk is de bescherming van de autoriteiten of internationale organisaties te verkrijgen.
+De IND werpt ten aanzien van LHBT’s terughoudend een vlucht- of vestigingsalternatief tegen. De IND neemt aan dat er voor LHBT’s uitsluitend een vlucht- vestigingsalternatief is indien wordt voldaan aan alle voorwaarden zoals neergelegd in C2/3.4 Vc en uit de verklaringen van de vreemdeling blijkt dat hij langere tijd zonder problemen elders in de Russische Federatie heeft verbleven en daar ook thans een goed sociaal netwerk heeft.
 
 ### 22.5.1. Bescherming door autoriteiten en/of internationale organisaties in de zin van paragraaf C2/3.4 Vc
 
-### 22.5. Bescherming
+De IND neemt aan dat het voor LHBT’s niet mogelijk is de bescherming van de autoriteiten of internationale organisaties te verkrijgen.
+
+### 22.5.2. Vlucht- en vestigingsalternatief in de zin van paragraaf C2/3.4 Vc
 
 De IND werpt ten aanzien van LHBT’s terughoudend een vlucht- of vestigingsalternatief tegen. De IND neemt aan dat er voor LHBT’s uitsluitend een vlucht- vestigingsalternatief is indien wordt voldaan aan alle voorwaarden zoals neergelegd in C2/3.4 Vc en uit de verklaringen van de vreemdeling blijkt dat hij langere tijd zonder problemen elders in de Russische Federatie heeft verbleven en daar ook thans een goed sociaal netwerk heeft.
 
@@ -2869,9 +2877,7 @@ De IND werpt ten aanzien van LHBT’s terughoudend een vlucht- of vestigingsalte
 
 De IND beoordeelt aan de hand van [paragraaf B8/6 Vc](onbekend) of adequate opvang voor amv’s aanwezig is.
 
-### 22.7. Vertrekmoratorium
-
-Voor de Russische Federatie geldt in ieder geval dat:
+### 22.8. Bijzonderheden
 
 ### 22.7. Vertrekmoratorium
 
@@ -2879,11 +2885,11 @@ Geen bijzonderheden.
 
 ### 22.8. Bijzonderheden
 
+Geen bijzonderheden.
+
 ### 23. Het asielbeleid ten aanzien van Sierra Leone
 
 Geen bijzonderheden.
-
-### 23.1. Besluitmoratorium
 
 Geen bijzonderheden.
 
@@ -2891,11 +2897,11 @@ Geen bijzonderheden.
 
 Geen bijzonderheden.
 
-Geen bijzonderheden.
-
-### 23.3.1. Groepsvervolging in de zin van paragraaf C2/3.2 Vc
+### 23.3. Vervolging in de zin van het Vluchtelingenverdrag
 
 Geen bijzonderheden.
+
+### 23.4. Ernstige schade in de zin van [artikel 29, eerste lid, onder b, Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=29)
 
 ### 23.3.2. Risicogroepen in de zin van paragraaf C2/3.2 Vc
 
@@ -2903,9 +2909,9 @@ Geen bijzonderheden.
 
 ### 23.4. Ernstige schade in de zin van [artikel 29, eerste lid, onder b, Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=29)
 
-### 23.4.1. Uitzonderlijke situatie in de zin van paragraaf C2/3.3 Vc
-
 Geen bijzonderheden.
+
+### 23.4.3. Kwetsbare minderheidsgroepen in de zin van paragraaf C2/3.3 Vc
 
 ### 23.4.2. Systematische blootstelling in de zin van paragraaf C2/3.3 Vc
 
@@ -2913,89 +2919,89 @@ Geen bijzonderheden.
 
 ### 23.4.3. Kwetsbare minderheidsgroepen in de zin van paragraaf C2/3.3 Vc
 
+Geen bijzonderheden.
+
 ### 23.5. Bescherming
 
-De IND neemt in ieder geval voor de volgende categorieën aan dat het niet mogelijk is de bescherming van de autoriteiten of internationale organisaties te verkrijgen:
-
-### 23.5.1. Bescherming door autoriteiten en/of internationale organisaties in de zin van paragraaf C2/3.4 Vc
+De IND neemt in ieder geval aan dat in Sierra Leone een vlucht- en vestigingsalternatief aanwezig is voor de volgende categorieën:
 
 De IND neemt in ieder geval voor de volgende categorieën aan dat het niet mogelijk is de bescherming van de autoriteiten of internationale organisaties te verkrijgen:
 
 ### 23.5.2. Vlucht- en vestigingsalternatief in de zin van paragraaf C2/3.4 Vc
 
-De IND neemt in ieder geval aan dat in Sierra Leone een vlucht- en vestigingsalternatief aanwezig is voor de volgende categorieën:
+### 23.6. Adequate opvang alleenstaande minderjarige vreemdelingen
 
 De IND beziet per vreemdeling, bij vrees voor genitale verminking, of de aanwezigheid van een vlucht- en vestigingsalternatief wordt tegengeworpen. Bij een meerderjarige vrouwelijke vreemdeling is hierbij van belang of zij aan de controle van haar familie kan ontkomen en hoe zij zich voor haar vertrek uit Sierra Leone heeft kunnen onttrekken aan de genitale verminking.
 
-### 23.6. Adequate opvang alleenstaande minderjarige vreemdelingen
+### 23.7. Vertrekmoratorium
+
+De IND verwacht van een meerderjarige vreemdeling dat hij zich aan het lidmaatschap van het geheime genootschap onttrekt door zich elders in Sierra Leone te vestigen. De IND verlangt niet van een minderjarige vreemdeling dat hij zich elders in Sierra Leone vestigt, als de vreemdeling hierin niet ondersteund wordt door familie of derden, tenzij de vreemdeling zich eerder aan het lidmaatschap van een geheim genootschap heeft kunnen onttrekken.
 
 ### 23.6. Adequate opvang alleenstaande minderjarige vreemdelingen
 
-De IND verlangt niet van een minderjarige vrouwelijke vreemdeling dat zij zich elders in Sierra Leone vestigt, als zij hierin niet ondersteund wordt door familie of derden, tenzij zij zich eerder aan genitale verminking heeft kunnen onttrekken.
+In Sierra Leone is adequate opvang in de zin van [paragraaf B8/6 Vc](onbekend).
 
 ### 23.7. Vertrekmoratorium
 
-Geen bijzonderheden.
-
-### 23.8. Bijzonderheden
-
-Geen bijzonderheden.
-
-### 24. Het asielbeleid ten aanzien van Somalië
-
 ### 24. Het asielbeleid ten aanzien van Somalië
 
 Geen bijzonderheden.
 
 ### 24. Het asielbeleid ten aanzien van Somalië
+
+Geen bijzonderheden.
+
+### 24.1. Besluitmoratorium
+
+Ten aanzien van Somalië geldt een besluit in de zin van [artikel 43, eerste lid, Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=43) voor vreemdelingen afkomstig uit die gebieden in Centraal- en Zuid-Somalië die onder controle staan van Al-Shabaab.
+
+### 24.2. Artikel 1F Vluchtelingenverdrag
 
 Geen bijzonderheden.
 
 ### 24.3. Vervolging in de zin van het Vluchtelingenverdrag
 
-Geen bijzonderheden.
+De IND merkt voor Somalië uitsluitend aan als risicogroepen:
 
-### 24.3.1. Groepsvervolging in de zin van paragraaf C2/3.2 Vc
-
-Geen bijzonderheden.
+### 24.3.2. Risicogroepen in de zin van paragraaf C2/3.2 Vc
 
 ### 24.3.2. Risicogroepen in de zin van paragraaf C2/3.2 Vc
 
 De IND merkt voor Somalië uitsluitend aan als risicogroepen:
 
-### 24.3.2. Risicogroepen in de zin van paragraaf C2/3.2 Vc
-
-### 24.4. Ernstige schade in de zin van [artikel 29, eerste lid, onder b, Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=29)
-
 Dit beleid geldt voor geheel Zuid- en Centraal Somalië, inclusief Mogadishu.
 
 Een vreemdeling die zich erop beroept dat hij er door Al-Shabaab van wordt verdacht te spioneren voor de overheid en afkomstig is uit gebieden die niet onder controle staan van Al-Shabaab (inclusief Mogadishu), zal aannemelijk moeten maken dat juist hij zal worden geconfronteerd met Al-Shabaab. De enkele terugkeer uit het Westen is daartoe onvoldoende.
-
-In Somalië (inclusief Mogadishu) is geen sprake van een uitzonderlijke situatie als bedoeld in [artikel 29, eerste lid, onder b, Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=29).
 
 De IND herbeoordeelt vooralsnog niet de verblijfsvergunningen asiel voor bepaalde tijd die aan Somaliërs verleend zijn op grond van de uitzonderlijke situatie zoals bedoeld in [artikel 29, eerste lid, onder b, Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=29) die heeft gegolden ten aanzien van personen afkomstig uit Mogadishu. De IND zal pas overgaan tot intrekking als is gebleken van een wijziging van omstandigheden die een voldoende ingrijpend en niet-voorbijgaand karakter heeft (zie [artikel 3.37e VV](https://wetten.overheid.nl/jci1.3:c:BWBR0012002&artikel=3.37e)).
 
 De IND wijst om diezelfde reden niet aanvragen tot verlenging van de verblijfsvergunning asiel voor bepaalde tijd of een verblijfsvergunning asiel voor onbepaalde tijd af van vreemdelingen die op grond van de uitzonderlijke situatie zoals bedoeld in [artikel 29, eerste lid, onder b, Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=29) in het bezit zijn van een verblijfsvergunning asiel voor bepaalde tijd.
 
-De IND herbeoordeelt vooralsnog niet de verblijfsvergunningen asiel voor bepaalde tijd die aan Somaliërs verleend zijn op grond van de uitzonderlijke situatie zoals bedoeld in [artikel 29, eerste lid, onder b, Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=29) die heeft gegolden ten aanzien van personen afkomstig uit Mogadishu. De IND zal pas overgaan tot intrekking als is gebleken van een wijziging van omstandigheden die een voldoende ingrijpend en niet-voorbijgaand karakter heeft (zie [artikel 3.37e VV](https://wetten.overheid.nl/jci1.3:c:BWBR0012002&artikel=3.37e)).
+In Somalië (inclusief Mogadishu) is geen sprake van een uitzonderlijke situatie als bedoeld in [artikel 29, eerste lid, onder b, Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=29).
 
-In Somalië is geen sprake van systematische blootstelling van een specifieke groep aan ernstige schade.
+De IND herbeoordeelt vooralsnog niet de verblijfsvergunningen asiel voor bepaalde tijd die aan Somaliërs verleend zijn op grond van de uitzonderlijke situatie zoals bedoeld in [artikel 29, eerste lid, onder b, Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=29) die heeft gegolden ten aanzien van personen afkomstig uit Mogadishu. De IND zal pas overgaan tot intrekking als is gebleken van een wijziging van omstandigheden die een voldoende ingrijpend en niet-voorbijgaand karakter heeft (zie [artikel 3.37e VV](https://wetten.overheid.nl/jci1.3:c:BWBR0012002&artikel=3.37e)).
 
 ### 24.4.2. Systematische blootstelling in de zin van paragraaf C2/3.3 Vc
 
-### 24.4.3. Alleenstaande vrouwen
+### 24.4.2. Systematische blootstelling in de zin van paragraaf C2/3.3 Vc
+
+In Somalië is geen sprake van systematische blootstelling van een specifieke groep aan ernstige schade.
 
 De IND herbeoordeelt vooralsnog niet de verblijfsvergunning asiel voor bepaalde tijd die aan Somaliërs verleend zijn op grond van het behoren tot de Benadiri/Reer Hamar. De IND zal pas overgaan tot intrekking, als is gebleken van een wijziging van omstandigheden die een voldoende ingrijpend en niet-voorbijgaand karakter heeft (zie [artikel 3.37e VV](https://wetten.overheid.nl/jci1.3:c:BWBR0012002&artikel=3.37e)).
+
+De IND wijst om diezelfde reden niet aanvragen tot verlenging van de verblijfsvergunning asiel voor bepaalde tijd of een verblijfsvergunning asiel voor onbepaalde tijd af van vreemdelingen die op grond van het behoren tot de Benadiri/Reer Hamar in het bezit zijn van een verblijfsvergunning asiel voor bepaalde tijd.
+
+De IND verleent een verblijfsvergunning asiel voor bepaalde tijd op grond van [artikel 29, eerste lid, aanhef en onder b, Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=29) aan een alleenstaande vrouw, als zij aannemelijk heeft gemaakt dat zij een gegronde vrees heeft voor een onmenselijke behandeling bij terugkeer naar Somalië.
 
 De IND verleent een verblijfsvergunning asiel voor bepaalde tijd op grond van [artikel 29, eerste lid, aanhef en onder b, Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=29) aan een alleenstaande vrouw, als zij aannemelijk heeft gemaakt dat zij een gegronde vrees heeft voor een onmenselijke behandeling bij terugkeer naar Somalië.
 
 De IND merkt een Somalische vrouw in ieder geval aan als alleenstaand, als:
 
-De IND verleent een verblijfsvergunning asiel voor bepaalde tijd op grond van [artikel 29, eerste lid, aanhef en onder b, Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=29) aan een alleenstaande vrouw, als zij aannemelijk heeft gemaakt dat zij een gegronde vrees heeft voor een onmenselijke behandeling bij terugkeer naar Somalië.
+De IND verleent, behoudens contra-indicaties, in ieder geval een verblijfsvergunning asiel voor bepaalde tijd op grond van [artikel 29, eerste lid, aanhef en onder b, Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=29) aan een vreemdeling afkomstig uit Centraal- en Zuid-Somalië, als de vreemdeling voldoet aan alle volgende voorwaarden:
 
 Geen bijzonderheden.
 
-De IND verleent, behoudens contra-indicaties, in ieder geval een verblijfsvergunning asiel voor bepaalde tijd op grond van [artikel 29, eerste lid, aanhef en onder b, Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=29) aan een vreemdeling afkomstig uit Centraal- en Zuid-Somalië, als de vreemdeling voldoet aan alle volgende voorwaarden:
+Doordat Mogadishu niet onder controle staat van Al-Shabaab, is het voor de terugkeer naar Mogadishu niet noodzakelijk dat de vreemdeling ervaring heeft met het leven onder Al-Shabaab.
 
 De IND verleent, behoudens contra-indicaties, in ieder geval een verblijfsvergunning asiel voor bepaalde tijd op grond van [artikel 29, eerste lid, aanhef en onder b, Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=29) aan een vreemdeling afkomstig uit Centraal- en Zuid-Somalië, als de vreemdeling voldoet aan alle volgende voorwaarden:
 
@@ -3005,12 +3011,6 @@ Doordat Mogadishu niet onder controle staat van Al-Shabaab, is het voor de terug
 
 Bij de beoordeling of het verblijf in Nederland bij een individuele Somalische vreemdeling heeft geleid tot een verwestering waarbij een of meer specifieke kenmerken bij terugkeer feitelijk niet meer verborgen kunnen worden gehouden, spelen in ieder geval de volgende elementen een rol:
 
-Doordat Mogadishu niet onder controle staat van Al-Shabaab, is het voor de terugkeer naar Mogadishu niet noodzakelijk dat de vreemdeling ervaring heeft met het leven onder Al-Shabaab.
-
-Bij de beoordeling of het verblijf in Nederland bij een individuele Somalische vreemdeling heeft geleid tot een verwestering waarbij een of meer specifieke kenmerken bij terugkeer feitelijk niet meer verborgen kunnen worden gehouden, spelen in ieder geval de volgende elementen een rol:
-
-De IND neemt in ieder geval aan dat het voor de volgende categorieën in Somalië (inclusief Noord-Somalië) niet mogelijk is de bescherming van de autoriteiten of internationale organisaties te verkrijgen:
-
 De IND neemt in zijn algemeenheid geen binnenlands vlucht- en of/vestigingsalternatief aan, tenzij de vreemdeling onder naar plaatselijke maatstaven gemeten redelijke omstandigheden minstens zes maanden voorafgaand aan zijn vertrek heeft verbleven in:
 
 De IND neemt in zijn algemeenheid geen binnenlands vlucht- en of/vestigingsalternatief aan, tenzij de vreemdeling onder naar plaatselijke maatstaven gemeten redelijke omstandigheden minstens zes maanden voorafgaand aan zijn vertrek heeft verbleven in:
@@ -3019,25 +3019,25 @@ De IND neemt in zijn algemeenheid geen binnenlands vlucht- en of/vestigingsalter
 
 De IND neemt in ieder geval aan dat geen vlucht- en vestigingsalternatief in Somalië (inclusief Noord-Somalië) aanwezig is voor:
 
-Voorts kan de IND een vlucht- of vestigingsalternatief aannemen als er sprake is van concrete aanknopingspunten op basis waarvan in individuele gevallen geconcludeerd kan worden dat de persoon zich buiten het gebied van herkomst kan vestigen. Hierbij betrekt de IND, naast de in [artikel 3.37d VV](https://wetten.overheid.nl/jci1.3:c:BWBR0012002&artikel=3.37d) genoemde voorwaarden die in het algemeen gelden voor het tegenwerpen van een vlucht- en vestigingsalternatief, in de individuele zaak van de vreemdeling in ieder geval de volgende aanknopingspunten:
+De IND neemt in zijn algemeenheid geen binnenlands vlucht- en of/vestigingsalternatief aan, tenzij de vreemdeling onder naar plaatselijke maatstaven gemeten redelijke omstandigheden minstens zes maanden voorafgaand aan zijn vertrek heeft verbleven in:
 
 ### 24.6. Adequate opvang alleenstaande minderjarige vreemdelingen
 
-Voorts kan de IND een vlucht- of vestigingsalternatief aannemen als er sprake is van concrete aanknopingspunten op basis waarvan in individuele gevallen geconcludeerd kan worden dat de persoon zich buiten het gebied van herkomst kan vestigen. Hierbij betrekt de IND, naast de in [artikel 3.37d VV](https://wetten.overheid.nl/jci1.3:c:BWBR0012002&artikel=3.37d) genoemde voorwaarden die in het algemeen gelden voor het tegenwerpen van een vlucht- en vestigingsalternatief, in de individuele zaak van de vreemdeling in ieder geval de volgende aanknopingspunten:
+De IND neemt in ieder geval aan dat geen vlucht- en vestigingsalternatief in Somalië (inclusief Noord-Somalië) aanwezig is voor:
 
 ### 24.7. Vertrekmoratorium
 
-Voor Somalië geldt in ieder geval dat:
+De IND sluit voorts ook een vlucht- of vestigingsalternatief in Mogadishu niet op voorhand uit. De IND kan in individuele gevallen waarbij er concrete aanknopingspunten zijn in het asielrelaas dat een vreemdeling zich in Mogadishu kan vestigen, dit aan de vreemdeling tegenwerpen.
 
 De IND beoordeelt aan de hand van [paragraaf B8/6 Vc](onbekend) of adequate opvang voor amv’s aanwezig is.
 
 ### 24.8. Bijzonderheden
 
-Geen bijzonderheden.
+Voor Somalië geldt in ieder geval dat:
 
-### 25. Het asielbeleid ten aanzien van Sri Lanka
+### 24.7. Vertrekmoratorium
 
-Geen bijzonderheden.
+Ten aanzien van Somalië geldt een besluit in de zin van [artikel 45, vierde lid, Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=45) voor vreemdelingen die afkomstig zijn uit gebieden in Centraal- en Zuid-Somalië die onder controle staan van Al-Shabaab.
 
 Geen bijzonderheden.
 
@@ -3065,7 +3065,7 @@ Geen bijzonderheden.
 
 Geen bijzonderheden.
 
-### 25.4.3. Kwetsbare minderheidsgroepen in de zin van paragraaf C2/3.3 Vc
+### 25.4.1. Uitzonderlijke situatie in de zin van paragraaf C2/3.3 Vc
 
 Geen bijzonderheden.
 
@@ -3073,13 +3073,13 @@ Geen bijzonderheden.
 
 ### 25.4.4. Tamils
 
-### 25.5. Bescherming
+### 25.4.3. Kwetsbare minderheidsgroepen in de zin van paragraaf C2/3.3 Vc
 
-De door het Europese Hof van de Rechten van de Mens benoemde risicofactoren, die in onderlinge samenhang moeten worden bezien in het licht van de algemene situatie in Sri Lanka, zijn:
+Geen bijzonderheden.
 
-### 25.5. Bescherming
+### 25.4.4. Tamils
 
-De door het Europese Hof van de Rechten van de Mens benoemde risicofactoren, die in onderlinge samenhang moeten worden bezien in het licht van de algemene situatie in Sri Lanka, zijn:
+De IND beoordeelt een verzoek om een verblijfsvergunning asiel voor bepaalde tijd op grond van [artikel 29, eerste lid, aanhef en onder b, Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=29) van Srilankaanse Tamils ook aan de hand van de door het Europese Hof van de Rechten van de Mens benoemde risicofactoren. De genoemde risicofactoren vormen geen checklist en zijn niet uitputtend bedoeld. Iedere genoemde individuele risicofactor hoeft op zich geen aanleiding te geven om ervan uit te gaan dat er een reëel risico op ernstige schade is bij terugkeer naar Colombo. Een combinatie van twee of meer risicofactoren kan aanleiding zijn om een reëel risico op ernstige schade aan te nemen.
 
 ### 25.5. Bescherming
 
@@ -3095,9 +3095,15 @@ De IND beoordeelt aan de hand van [paragraaf B8/6](onbekend) Vc of adequate opva
 
 De IND beoordeelt aan de hand van [paragraaf B8/6](onbekend) Vc of adequate opvang voor amv’s aanwezig is.
 
-Geen bijzonderheden.
+De IND beoordeelt aan de hand van [paragraaf B8/6](onbekend) Vc of adequate opvang voor amv’s aanwezig is.
 
 ### 25.8. Bijzonderheden
+
+Geen bijzonderheden.
+
+### 26. Het asielbeleid ten aanzien van Sudan
+
+Geen bijzonderheden.
 
 Geen bijzonderheden.
 
@@ -3111,25 +3117,19 @@ Geen bijzonderheden.
 
 Geen bijzonderheden.
 
-Geen bijzonderheden.
-
-### 26.3.1. Groepsvervolging in de zin van paragraaf C2/3.2 Vc
-
-Geen bijzonderheden.
-
 De IND merkt voor Sudan uitsluitend aan als risicogroep:
 
 De IND merkt voor Sudan uitsluitend aan als risicogroep:
 
 ### 26.3.2. Risicogroepen in de zin van paragraaf C2/3.2 Vc
 
-### 26.4. Ernstige schade in de zin van [artikel 29, eerste lid, onder b, Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=29)
+### 26.3.2. Risicogroepen in de zin van paragraaf C2/3.2 Vc
+
+De IND merkt voor Sudan uitsluitend aan als risicogroep:
 
 Gelet op de algemeen bekende informatie wordt er vanuit gegaan dat in ieder geval vreemdelingen behorend tot de niet-Arabische bevolkingsgroepen uit Darfur (Noord-, Oost, Zuid- en Centraal-Darfur) en vreemdeling die behoren tot de bevolkingsgroep van de Nuba door de autoriteiten gezien worden als (vermeend) aanhanger van een (gewapende) oppositiegroep.
 
-In Sudan is sprake van een uitzonderlijke situatie als bedoeld in [artikel 29, eerste lid, onder b, Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=29) voor uitsluitend:
-
-### 26.4.2. Systematische blootstelling in de zin van paragraaf C2/3.3 Vc
+### 26.4. Ernstige schade in de zin van [artikel 29, eerste lid, onder b, Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=29)
 
 Geen bijzonderheden.
 
@@ -3143,9 +3143,9 @@ De IND merkt uitsluitend aan als kwetsbare minderheidsgroep:
 
 ### 26.5.1. Bescherming door autoriteiten en/of internationale organisaties in de zin van paragraaf C2/3.4 Vc
 
-De IND neemt in ieder geval voor de volgende categorieën aan dat het niet mogelijk is de bescherming van de autoriteiten en/of internationale organisaties te verkrijgen:
+Gelet op de algemeen bekende informatie wordt er vanuit gegaan dat in ieder geval vreemdelingen behorend tot de niet-Arabische bevolkingsgroepen uit Darfur (Noord-, Oost, Zuid- en Centraal-Darfur) en vreemdeling die behoren tot de bevolkingsgroep van de Nuba door de autoriteiten gezien worden als (vermeend) aanhanger van een (gewapende) oppositiegroep.
 
-### 26.5.1. Bescherming door autoriteiten en/of internationale organisaties in de zin van paragraaf C2/3.4 Vc
+### 26.5. Bescherming
 
 De IND neemt in ieder geval voor de volgende categorieën aan dat het niet mogelijk is de bescherming van de autoriteiten en/of internationale organisaties te verkrijgen:
 
@@ -3157,43 +3157,43 @@ Dit vestigingsalternatief geldt niet voor vreemdelingen die (vermeend) aanhanger
 
 ### C7. Landgebonden beleid
 
-De IND concludeert niet dat de grond voor verlening is komen te vervallen alleen vanwege het feit dat de daders van de als traumatiserend aangemerkte gebeurtenis die aan de verlening van de verblijfsgunning asiel voor bepaalde tijd op grond van artikel 29, eerste lid, aanhef en onder c, Vw zoals dat luidde op de dag voorafgaand aan de wijziging van de Vreemdelingenwet 2000 in verband met het herschikken van de gronden voor asielverlening ten grondslag lag, zijn bestraft.
+Als de IND vaststelt dat een vreemdeling die in het bezit is van een verblijfsvergunning asiel op grond van artikel 29, eerste lid, aanhef en onder a of b, Vw uit vrije wil is teruggekeerd naar zijn land van herkomst, nodigt de IND de vreemdeling uit om tijdens een gehoor uitleg te geven over de reden, bestemming, duur en verloop van zijn reis. Het is aan de vreemdeling om aannemelijk te maken dat hij ondanks zijn terugkeer naar het land van herkomst nog steeds in aanmerking komt voor een verblijfsvergunning asiel.
 
 ### Afwijzingsgronden
+
+De IND trekt de verblijfsvergunning asiel voor bepaalde tijd, verleend op grond van artikel 29, eerste lid, aanhef en onder a Vw, niet in, indien de vreemdeling met bewijsmiddelen onderbouwt dat artikel 1C Vluchtelingenverdrag niet van toepassing is.
+
+### 10.5. De vreemdeling heeft zijn hoofdverblijf buiten Nederland gevestigd
 
 Als de IND een verblijfsvergunning asiel voor bepaalde tijd verleent op grond van artikel 29, eerste lid, aanhef en onder d Vw zoals dat luidde op de dag voorafgaand aan de wijziging van de Vreemdelingenwet 2000 in verband met het herschikken van de gronden voor asielverlening intrekt op grond van [artikel 32, eerste lid, onder c Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=32), wordt de verblijfsvergunning ingetrokken met terugwerkende kracht tot aan de ingangsdatum van het wijzigingsbesluit waarmee het categoriaal beschermingsbeleid is beëindigd.
 
 ### 10.5. De vreemdeling heeft zijn hoofdverblijf buiten Nederland gevestigd
 
-De intrekkingsgrond bedoeld in artikel 32, eerste lid, onder d, Vw wordt niet toegepast op de verblijfsvergunning asiel voor bepaalde tijd, verleend op grond van [artikel 29, eerste lid, aanhef en onder a of b, Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=29).
-
-### 10.5. De vreemdeling heeft zijn hoofdverblijf buiten Nederland gevestigd
-
-Als de IND een verblijfsvergunning asiel voor bepaalde tijd intrekt op grond van artikel 32, eerste lid, onder d, Vw, wordt de verblijfsvergunning ingetrokken met terugwerkende kracht tot aan de datum waarop de verplaatsing van het hoofdverblijf uit Nederland kon worden vastgesteld.
+De definitie van de intrekkingsgrond zoals bedoeld in [artikel 32, eerste lid, onder d, Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=32) is uitgewerkt in [paragraaf B1/6.2.1](onbekend) Vc.
 
 ### 10.6. De huwelijks- of gezinsband is verbroken
 
-De IND trekt de verblijfsvergunning asiel voor bepaalde tijd, verleend op grond van [artikel 29, tweede lid, Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=29) in op grond van [artikel 32, eerste lid, onder e Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=32) juncto [artikel 3.106 Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=3.106) als de huwelijks- of gezinsband is verbroken.
+Als de IND een verblijfsvergunning asiel voor bepaalde tijd intrekt op grond van artikel 32, eerste lid, onder d, Vw, wordt de verblijfsvergunning ingetrokken met terugwerkende kracht tot aan de datum waarop de verplaatsing van het hoofdverblijf uit Nederland kon worden vastgesteld.
 
 ### 11. Rechtsmiddelen
 
-De IND staat de vreemdeling toe een verzoek om een voorlopige voorziening, dat connex is aan een rechtsmiddel dat is gericht tegen een overdrachtsbesluit in de zin van Verordening (EU) nr. 604/2013, in Nederland af te wachten, tenzij:
+[Artikel 82 Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=82) regelt wanneer de vreemdeling het beroep tegen de afwijzing van de aanvraag voor een verblijfsvergunning asiel voor bepaalde tijd al dan niet mag afwachten. [Artikel 7.3 Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=7.3) regelt wanneer de vreemdeling de beslissing op het verzoek om een voorlopige voorziening te treffen wel of niet mag afwachten.
 
 ### 2.4.3. Kwetsbare minderheidsgroepen in de zin van paragraaf C2/3.3 Vc
 
-De DT&V mag de vreemdeling uit Nederland uitzetten als het toezichthoudend orgaan geen verzoek doet aan Nederland om opschorting van de uitzetting van de vreemdeling, in afwachting van de uitspraak op de klacht van de vreemdeling bij dat toezichthoudend orgaan. De DT&V kan de vreemdeling in vreemdelingenbewaring stellen om de gedwongen terugkeer uit Nederland te bevorderen.
+Indien hiervan sprake is, geldt één van de volgende aanvullende voorwaarden:
 
 ### 2.4.4. Individuele kenmerken
 
-Als het toezichthoudend orgaan als eindoordeel geeft dat de uitzetting van de vreemdeling in strijd is met de bepalingen van het Verdrag waar het orgaan op toeziet, verleent de IND een verblijfsvergunning asiel voor bepaalde tijd als de vreemdeling een aanvraag voor een verblijfsvergunning asiel voor bepaalde tijd indient. De IND verleent in ieder geval geen verblijfsvergunning asiel voor bepaalde tijd aan de vreemdeling als sprake is van aspecten als bedoeld in artikel 1F Vluchtelingenverdrag. De DT&V zal de vreemdeling niet uitzetten als de IND geen verblijfsvergunning asiel voor bepaalde tijd heeft verleend aan de vreemdeling.
+Als het Europese Hof voor de Rechten van de Mens de Nederlandse staat op grond van **Rule 39** verzoekt om de uitzetting van de vreemdeling uit Nederland op te schorten, mag de DT&V de vreemdeling niet uitzetten.
 
 ### C3. Moratoria
 
-De vreemdeling die onder de werking van het vertrekmoratorium valt, maar geen opvang of voorzieningen meer heeft, kan deze verkrijgen door zich in persoon te melden bij AC Ter Apel. De vreemdeling hoeft geen aanvraag in te dienen voor opvang of voorzieningen. Evenmin hoeft de vreemdeling een aanvraag in te dienen om een verblijfsvergunning asiel voor bepaalde tijd.
+De IND neemt ondanks het besluitmoratorium in ieder geval een beslissing op de aanvraag om een verblijfsvergunning asiel voor bepaalde tijd in de volgende situaties:
 
 ### 3. Vertrekmoratorium
 
-Wanneer het vertrekmoratorium eindigt, eindigt het recht op opvang en voorzieningen van rechtswege.
+De vreemdeling heeft geen recht op opvang en andere voorzieningen als [artikel 31, tweede lid, onder j en k, Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=31) van toepassing is. Elke veroordeling wegens een misdrijf is voldoende om de opvang te onthouden.
 
 ### C4. Tijdelijke bescherming
 
@@ -3203,39 +3203,39 @@ De Raad van de EU kan op grond van [richtlijn 2001/55](32001L0055) besluiten een
 
 Deze beleidsregels zijn een aanvulling op of een uitwerking van de artikelen [33](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=33), [34](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=34), [35](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=35), [40](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=40), [41](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=41), [42, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=42), [44, vierde en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=44), en [45 Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=45), de [artikelen 3.107a Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=3.107a), [3.108 Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=3.108), [3.116](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=3.116), en [3.118 Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=3.118), en de [artikelen 3.41](https://wetten.overheid.nl/jci1.3:c:BWBR0012002&artikel=3.41) en [3.47 VV](https://wetten.overheid.nl/jci1.3:c:BWBR0012002&artikel=3.47).
 
-### 2. Procedurele regels verblijfsvergunning asiel voor onbepaalde tijd
+### 1. Inleiding
 
 ### 3.5.1. Bescherming door autoriteiten en/of internationale organisaties in de zin van paragraaf C2/6 Vc
 
-De IND vermeldt op de verblijfsvergunning asiel voor onbepaalde tijd de arbeidsmarktaantekening: “Arbeid vrij toegestaan; TWV niet vereist”.
+De IND verleent direct een verblijfsvergunning asiel voor onbepaalde tijd op grond van een aanvraag om een verblijfsvergunning asiel voor bepaalde tijd aan de vreemdeling als aan alle volgende voorwaarden is voldaan:
 
-De IND reikt op grond van [artikel 9 Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=9) het verblijfsdocument waaruit het rechtmatig verblijf blijkt uit aan het IND loket dat zich het dichtst bij de woon- of verblijfplaats van de vreemdeling bevindt.
+De IND toetst hierbij of de vreemdeling aan de voorwaarden van [artikel 3.107a Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=3.107a) voldoet indien de aanvraag voor een verblijfsvergunning asiel voor bepaalde tijd is ingediend op of na 1 januari 2005.
 
 ### 3.8. Bijzonderheden
 
-De IND wijst de aanvraag voor een verblijfsvergunning asiel voor onbepaalde tijd niet af op grond van [artikel 32, eerste lid, onder c, Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=32), als de verleningsgrond van de verblijfsvergunning asiel voor bepaalde tijd was vervallen, maar zich op het moment van behandeling van de aanvraag tot een verblijfsvergunning asiel voor onbepaalde tijd opnieuw voordoet.
+De vreemdeling kan een aanvraag indienen tot het vervangen of vernieuwen van het verblijfsdocument waaruit zijn rechtmatig verblijf blijkt om redenen als genoemd in [artikel 4.22 Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=4.22). De vreemdeling dient de aanvraag in bij een door de IND opgegeven postadres dat de IND via zijn website of het aanvraagformulier kenbaar maakt. De IND maakt op zijn website of op het aanvraagformulier eveneens kenbaar op welke wijze de vreemdeling de leges moet betalen. De vreemdeling dient de aanvraag in met het vereiste aanvraagformulier, dat bij de IND verkrijgbaar.
 
 ### 3. Afwijzingsgronden verblijfsvergunning asiel voor onbepaalde tijd
 
-De IND trekt een verblijfsvergunning asiel voor onbepaalde tijd in op grond van [artikel 35, eerste lid, onder b Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=35) als wordt voldaan aan artikel 35, eerste lid onder b Vw en aan [artikel 3.86 Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=3.86).
+Voor de beleidsregels met betrekking tot de ontheffingsgrond als bedoeld in [artikel 3.107a, tweede lid, onder b, Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=3.107a) (‘het inburgeringsvereiste’) is [paragraaf B1/4.7 Vc](onbekend) van overeenkomstige toepassing.
 
-### C6. Verdrag inzake de verantwoordelijkheid voor vluchtelingen
+### 4. Intrekking verblijfsvergunning asiel voor onbepaalde tijd
 
 ### 2. Europese Overeenkomst inzake de overdracht van verantwoordelijkheid met betrekking tot vluchtelingen
 
-De Nederlandse ambassade:
+Een staat die partij is bij de Europese Overeenkomst inzake de overdracht van verantwoordelijkheid met betrekking tot vluchtelingen (Trb 1982, 24) kan Nederland informeren dat die staat de verantwoordelijkheid van de vluchtelingenstatus heeft overgenomen en de vreemdeling zich in die staat kan vestigen.
 
-Een vreemdeling die een beroep doet op de Overeenkomst en nog niet in het bezit is van een verblijfsvergunning asiel of regulier, kan een aanvraag om een verblijfsvergunning asiel voor bepaalde tijd of regulier voor bepaalde tijd indienen op de wijze als bedoeld in paragrafen C1 en [B1/3.3 Vc](onbekend). De IND stelt de ambassade in Nederland van de staat waar de vreemdeling heeft verbleven op de hoogte van het overnemen van verantwoordelijkheid over de vreemdeling als de IND de vreemdeling in het bezit stelt van een verblijfsvergunning asiel voor bepaalde tijd of regulier voor bepaalde tijd.
+De IND:
 
 ### 4.5.1. Bescherming door autoriteiten en/of internationale organisaties in de zin van paragraaf C2/6 Vc
 
 ### C7. Landgebonden beleid
 
-Het landgebonden asielbeleid bevat beleidsregels ten aanzien van het land van herkomst van de vreemdeling die een aanvraag voor een verblijfsvergunning asiel voor bepaalde tijd heeft ingediend.
+De IND stelt deze vreemdeling in de gelegenheid een aanvraag om een verblijfsvergunning asiel voor bepaalde tijd in te dienen als de geldigheidsduur van de verblijfsvergunning regulier voor bepaalde tijd van de vreemdeling eindigt.
 
 ### 2. Het asielbeleid ten aanzien van Afghanistan
 
-De opbouw van de paragrafen van dit hoofdstuk wijkt af van de opbouw van de hoofdstukken C1 tot en met C6 Vc en is conform de volgorde van toetsing van een aanvraag voor een verblijfsvergunning asiel voor bepaalde tijd. Zie ook paragraaf C1/4.1 Vc.
+Het landgebonden asielbeleid is een uitwerking van het algemene beleid in de hoofdstukken C1 tot en met C6 Vc en betreft geen uitzonderingsregeling.
 
 De IND neemt in de regel ten aanzien van de volgende categorieën vreemdelingen ‘personal and knowing participation’ in de zin van paragraaf C2/7.10.1 Vc aan:
 
@@ -3257,25 +3257,25 @@ De IND neemt ten aanzien van Afghanistan een vlucht- of vestigingsalternatief aa
 
 ### 2.6. Adequate opvang alleenstaande minderjarige vreemdelingen
 
-Geen bijzonderheden.
+Voor Afghanistan geldt in ieder geval dat:
 
-### 2.8. Bijzonderheden
-
-Geen bijzonderheden.
-
-### 3.2. Artikel 1F Vluchtelingenverdrag
+### 2.7. Vertrekmoratorium
 
 Geen bijzonderheden.
 
-### 3.4.1. Uitzonderlijke situatie in de zin van paragraaf C2/3.3 Vc
+### 3.1. Besluitmoratorium
 
-### 3.4.3. Kwetsbare minderheidsgroepen in de zin van paragraaf C2/3.3 Vc
+Geen bijzonderheden.
+
+### 3.3.2. Risicogroepen in de zin van paragraaf C2/3.2 Vc
+
+### 3.4.2. Systematische blootstelling in de zin van paragraaf C2/3.3 Vc
 
 Geen bijzonderheden.
 
 Geen bijzonderheden.
 
-### 3.6. Adequate opvang alleenstaande minderjarige vreemdelingen
+### 3.5.2. Vlucht- en vestigingsalternatief in de zin van paragraaf C2/3.4 Vc
 
 Geen bijzonderheden.
 
@@ -3291,7 +3291,7 @@ Geen bijzonderheden.
 
 Geen bijzonderheden.
 
-### 4.5.2. Vlucht- en vestigingsalternatief in de zin van paragraaf C2/3.4 Vc
+### 4.5.1. Bescherming door autoriteiten en/of internationale organisaties in de zin van paragraaf C2/3.4 Vc
 
 Geen bijzonderheden.
 
@@ -3299,31 +3299,31 @@ Geen bijzonderheden.
 
 Geen bijzonderheden.
 
-### 5.2. Artikel 1F Vluchtelingenverdrag
+### 5. Het asielbeleid ten aanzien van Azerbeidzjan
 
-### 5.2. Artikel 1F Vluchtelingenverdrag
-
-Geen bijzonderheden.
+### 5.1. Besluitmoratorium
 
 Geen bijzonderheden.
 
-### 5.4.1. Uitzonderlijke situatie in de zin van paragraaf C2/3.3 Vc
+Geen bijzonderheden.
 
-### 5.4.3. Kwetsbare minderheidsgroepen in de zin van paragraaf C2/3.3 Vc
+### 5.3.2. Risicogroepen in de zin van paragraaf C2/3.2 Vc
+
+### 5.4.2. Systematische blootstelling in de zin van paragraaf C2/3.3 Vc
 
 Geen bijzonderheden.
 
-De IND neemt in ieder geval voor de volgende categorieën aan dat het niet mogelijk is de bescherming van de autoriteiten of internationale organisaties te verkrijgen:
+De IND verleent uitsluitend een verblijfsvergunning asiel voor bepaalde tijd als de vreemdeling tevens voldoet aan alle volgende voorwaarden:
 
-### 5.5.1. Bescherming door autoriteiten en/of internationale organisaties in de zin van paragraaf C2/4.3 Vc
+### 5.5. Bescherming
 
 Bovenstaande beleidsregels gelden ook voor kinderen uit gemengde huwelijken of duurzame relaties. Als het kind verblijft in een gescheiden gezin, toetst de IND de situatie van het kind aan de hand van de bevolkingsgroep van de ouder, bij wie het kind verblijft.
 
 ### 5.5.3. Buitenlands vestigingsalternatief in Armenië
 
-Voor Azerbeidzjan geldt in ieder geval dat:
+De IND neemt aan dat een buitenlands vestigingsalternatief in Armenië aanwezig is voor etnische Armeniërs uit Azerbeidzjan, tenzij in ieder geval één van de volgende omstandigheden zich voordoet:
 
-### 5.7. Vertrekmoratorium
+### 5.6. Adequate opvang alleenstaande minderjarige vreemdelingen
 
 ### 5.7. Vertrekmoratorium
 
@@ -3347,29 +3347,29 @@ Geen bijzonderheden.
 
 ### 2.2. Artikel 1F Vluchtelingenverdrag
 
-De IND neemt aan dat de vreemdeling die geconfronteerd is met een dergelijke wandaad zich in een positie bevindt dat hij niet terug kan keren naar zijn land van herkomst als de daders van de wandaad ongestraft blijven in het land van herkomst. De IND beoordeelt hiertoe naar de huidige situatie of daders van de wandaad in het algemeen worden bestraft in het land van herkomst.
+Paragraaf C2/10.1 Vc onder het kopje **ambtshalve toets** is van overeenkomstige toepassing.
 
-Het enkele feit dat een vreemdeling die in het bezit is van een verblijfsvergunning asiel voor bepaalde tijd op grond van artikel 29, eerste lid, aanhef en onder a of b, Vw vrijwillig is teruggekeerd naar het land van herkomst is niet voldoende voor de IND om de verblijfsvergunning asiel voor bepaalde tijd in te trekken of niet te verlengen.
+De IND beschouwt de volgende daden als zodanig:
 
 ### 10.5. De vreemdeling heeft zijn hoofdverblijf buiten Nederland gevestigd
 
-De IND trekt de verblijfsvergunning asiel voor bepaalde tijd niet in op grond van artikel 32, eerste lid, aanhef en onder b, Vw, als de vreemdeling op het moment van het beoordelen van de intrekking van de verblijfsvergunning asiel voor bepaalde tijd in zijn land een risico loopt op vervolging of ernstige schade.
+De intrekkingsgrond bedoeld in artikel 32, eerste lid, onder d, Vw wordt niet toegepast op de verblijfsvergunning asiel voor bepaalde tijd, verleend op grond van [artikel 29, eerste lid, aanhef en onder a of b, Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=29).
 
 De IND neemt aan dat de huwelijks- of gezinsband is verbroken in de situaties als opgesomd in [paragrafen B7/3.1](onbekend) en [B7/3.2.1](onbekend) van de Vc.
 
-[Artikel 82 Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=82) regelt wanneer de vreemdeling het beroep tegen de afwijzing van de aanvraag voor een verblijfsvergunning asiel voor bepaalde tijd al dan niet mag afwachten. [Artikel 7.3 Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=7.3) regelt wanneer de vreemdeling de beslissing op het verzoek om een voorlopige voorziening te treffen wel of niet mag afwachten.
+De IND trekt de verblijfsvergunning asiel voor bepaalde tijd, verleend op grond van [artikel 29, tweede lid, Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=29) in op grond van [artikel 32, eerste lid, onder e Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=32) juncto [artikel 3.106 Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=3.106) als de huwelijks- of gezinsband is verbroken.
 
 ### 11. Rechtsmiddelen
 
-Indien hiervan sprake is, geldt één van de volgende aanvullende voorwaarden:
+De IND staat de vreemdeling op grond van artikel 7.3, tweede lid, Vb, in ieder geval niet toe zijn verzoek om een voorlopige voorziening in Nederland af te wachten in de volgende situaties:
 
 ### 2.4.3. Kwetsbare minderheidsgroepen in de zin van paragraaf C2/3.3 Vc
 
-Als uitzondering op de regel dat de DT&V geeft gehoor aan een verzoek van het Comité voor de rechten van de mens en het Comité tegen Foltering om een vreemdeling niet uit te zetten, kan de DT&V kan weigeren te voldoen aan een verzoek om de vreemdeling niet uit te zetten:
+Deze instanties worden aangeduid als ‘toezichthoudend orgaan’.
 
 ### 2.4.5. Alleenstaande vrouwen
 
-Als het toezichthoudend orgaan als eindoordeel geeft dat de uitzetting van de vreemdeling in strijd is met de bepalingen van het Verdrag waar het orgaan op toeziet, verleent de IND een verblijfsvergunning asiel voor bepaalde tijd als de vreemdeling een aanvraag voor een verblijfsvergunning asiel voor bepaalde tijd indient. De IND verleent in ieder geval geen verblijfsvergunning asiel voor bepaalde tijd aan de vreemdeling als sprake is van aspecten als bedoeld in artikel 1F Vluchtelingenverdrag. De DT&V zal de vreemdeling niet uitzetten als de IND geen verblijfsvergunning asiel voor bepaalde tijd heeft verleend aan de vreemdeling.
+Als de DT&V het verzoek om de vreemdeling niet uit te zetten honoreert, heft de DT&V de eventuele vreemdelingenbewaring van de vreemdeling op.
 
 ### C3. Moratoria
 
@@ -3377,7 +3377,7 @@ De vreemdeling heeft geen recht op opvang en andere voorzieningen als [artikel 3
 
 ### 2.7. Vertrekmoratorium
 
-Wanneer het vertrekmoratorium eindigt, eindigt het recht op opvang en voorzieningen van rechtswege.
+Aantoonbaar vertrek uit Nederland kan in ieder geval blijken uit de volgende situaties:
 
 ### C4. Tijdelijke bescherming
 
@@ -3385,19 +3385,19 @@ De IND is bevoegd een beslissing te nemen op de aanvraag voor een verblijfsvergu
 
 ### C5. De verblijfsvergunning asiel voor onbepaalde tijd
 
-De vreemdeling kan niet eerder dan vier weken voordat de geldigheidsduur van zijn verblijfsvergunning asiel voor bepaalde tijd afloopt een aanvraag tot een verblijfsvergunning asiel voor onbepaalde tijd indienen.
+In dit hoofdstuk zijn beleidsregels opgenomen, die gelden:
 
 ### 2. Procedurele regels verblijfsvergunning asiel voor onbepaalde tijd
 
-De vreemdeling kan een aanvraag indienen tot het vervangen of vernieuwen van het verblijfsdocument waaruit zijn rechtmatig verblijf blijkt om redenen als genoemd in [artikel 4.22 Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=4.22). De vreemdeling dient de aanvraag in bij een door de IND opgegeven postadres dat de IND via zijn website of het aanvraagformulier kenbaar maakt. De IND maakt op zijn website of op het aanvraagformulier eveneens kenbaar op welke wijze de vreemdeling de leges moet betalen. De vreemdeling dient de aanvraag in met het vereiste aanvraagformulier, dat bij de IND verkrijgbaar.
+De IND vermeldt op de verblijfsvergunning asiel voor onbepaalde tijd de arbeidsmarktaantekening: “Arbeid vrij toegestaan; TWV niet vereist”.
 
 ### 3. Afwijzingsgronden verblijfsvergunning asiel voor onbepaalde tijd
 
-Voor de beleidsregels met betrekking tot de ontheffingsgrond als bedoeld in [artikel 3.107a, tweede lid, onder b, Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=3.107a) (‘het inburgeringsvereiste’) is [paragraaf B1/4.7 Vc](onbekend) van overeenkomstige toepassing.
+Als zich op het moment dat de geldigheidsduur van de verblijfsvergunning asiel voor bepaalde tijd verloopt een grond voordoet als bedoeld in [artikel 32 Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=32), handelt de IND conform paragraaf C2/10 Vc.
 
 ### 4. Intrekking verblijfsvergunning asiel voor onbepaalde tijd
 
-De IND trekt een verblijfsvergunning asiel voor onbepaalde tijd in op grond van [artikel 35, eerste lid, onder b Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=35) als wordt voldaan aan artikel 35, eerste lid onder b Vw en aan [artikel 3.86 Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=3.86).
+Paragraaf C2/10 is van toepassing.
 
 ### 1. Inleiding
 
@@ -3413,11 +3413,11 @@ Geen bijzonderheden.
 
 Geen bijzonderheden.
 
-### 2.3.2. Risicogroepen in de zin van paragraaf C2/3.2 Vc
+### 2.3.1. Groepsvervolging in de zin van paragraaf C2/3.2 Vc
 
 Geen bijzonderheden.
 
-### 2.4.2. Systematische blootstelling in de zin van paragraaf C2/3.3 Vc
+### 2.4.1. Uitzonderlijke situatie in de zin van paragraaf C2/3.3 Vc
 
 De IND merkt Afghaanse vreemdelingen die een andere religie dan de islam aanhangen, aan als een kwetsbare minderheidsgroep, ongeacht uit welk gebied in Afghanistan zij afkomstig zijn.
 
@@ -3427,29 +3427,29 @@ De IND merkt de gezinsband in elk geval aan als verbroken, als:
 
 ### 2.5. Bescherming
 
-Voor Afghanistan geldt in ieder geval dat:
+De IND neemt in ieder geval aan dat geen vlucht- of vestigingsalternatief in Kaboel aanwezig is voor de volgende categorieën:
 
-### 2.7. Vertrekmoratorium
-
-De IND verleent geen verblijfsvergunning asiel voor bepaalde tijd aan een Afghaanse vrouw uitsluitend omdat zij na het vertrek uit Afghanistan een westerse levensstijl heeft aangenomen. De IND neemt namelijk aan dat de vrouw zich bij terugkeer zal kunnen aanpassen aan de traditionele Afghaanse normen. De omstandigheid dat een Afghaanse vrouw zich in Afghanistan niet op gelijke wijze kan uiten of ontplooien, vormt voor de IND onvoldoende grond voor verlening van een verblijfsvergunning asiel voor bepaalde tijd.
-
-### 3.1. Besluitmoratorium
+### 2.6. Adequate opvang alleenstaande minderjarige vreemdelingen
 
 Geen bijzonderheden.
 
-### 3.3.1. Groepsvervolging in de zin van paragraaf C2/3.2 Vc
+### 2.8. Bijzonderheden
 
 Geen bijzonderheden.
 
-### 3.4.2. Systematische blootstelling in de zin van paragraaf C2/3.3 Vc
-
-### 3.5.1. Bescherming door autoriteiten en/of internationale organisaties in de zin van paragraaf C2/3.4 Vc
+### 3.2. Artikel 1F Vluchtelingenverdrag
 
 Geen bijzonderheden.
 
-In Angola is adequate opvang in de zin van [paragraaf B8/6](onbekend) Vc.
+### 3.4. Ernstige schade in de zin van artikel 29, eerste lid, onder b, Vw
 
-### 3.7. Vertrekmoratorium
+### 3.4.3. Kwetsbare minderheidsgroepen in de zin van paragraaf C2/3.3 Vc
+
+Geen bijzonderheden.
+
+Geen bijzonderheden.
+
+### 3.6. Adequate opvang alleenstaande minderjarige vreemdelingen
 
 Geen bijzonderheden.
 
@@ -3461,49 +3461,49 @@ Geen bijzonderheden.
 
 Geen bijzonderheden.
 
-### 4.4.2. Systematische blootstelling in de zin van paragraaf C2/3.3 Vc
+### 4.4.1. Uitzonderlijke situatie in de zin van paragraaf C2/3.3 Vc
 
 Geen bijzonderheden.
 
-### 4.6. Adequate opvang alleenstaande minderjarige vreemdelingen
+### 4.5.2. Vlucht- en vestigingsalternatief in de zin van paragraaf C2/3.4 Vc
 
 Geen bijzonderheden.
 
 ### 5. Het asielbeleid ten aanzien van Azerbeidzjan
 
-### 5.3.1. Groepsvervolging in de zin van paragraaf C2/3.2 Vc
+### 5.2. Artikel 1F Vluchtelingenverdrag
 
 Geen bijzonderheden.
 
 Geen bijzonderheden.
 
-### 5.4.2. Systematische blootstelling in de zin van paragraaf C2/3.3 Vc
+### 5.4. Ernstige schade in de zin van artikel 29, eerste lid, onder b, Vw
 
-### 5.4.4. Bijzonderheden
+### 5.4.3. Kwetsbare minderheidsgroepen in de zin van paragraaf C2/3.3 Vc
 
-De IND verleent uitsluitend een verblijfsvergunning asiel voor bepaalde tijd als de vreemdeling tevens voldoet aan alle volgende voorwaarden:
+Geen bijzonderheden.
 
 De IND neemt in ieder geval voor de volgende categorieën aan dat het niet mogelijk is de bescherming van de autoriteiten of internationale organisaties te verkrijgen:
 
 ### 5.5.2. Vlucht- en vestigingsalternatief in de zin van paragraaf C2/4.3 Vc
 
-De IND neemt aan dat een buitenlands vestigingsalternatief in Armenië aanwezig is voor etnische Armeniërs uit Azerbeidzjan, tenzij in ieder geval één van de volgende omstandigheden zich voordoet:
+De IND neemt in ieder geval aan dat een vlucht- of vestigingsalternatief aanwezig is in Nagorny Karabach voor:
 
 ### 5.6. Adequate opvang alleenstaande minderjarige vreemdelingen
 
 ### 5.8. Bijzonderheden
 
-### 6.3.2. Risicogroepen in de zin van paragraaf C2/3.2 Vc
+### 6.3.1. Groepsvervolging in de zin van paragraaf C2/3.2 Vc
 
 Geen bijzonderheden.
 
 Geen bijzonderheden.
 
-### 6.4.3. Kwetsbare minderheidsgroepen in de zin van paragraaf C2/3.3 Vc
+### 6.4.2. Systematische blootstelling in de zin van paragraaf C2/3.3 Vc
 
 Geen bijzonderheden.
 
-### 6.5.2. Vlucht- en vestigingsalternatief in de zin van paragraaf C2/3.4 Vc
+### 6.5.1. Bescherming door autoriteiten en/of internationale organisaties in de zin van paragraaf C2/4.3 Vc
 
 Geen bijzonderheden.
 
@@ -3513,7 +3513,7 @@ Geen bijzonderheden.
 
 Geen bijzonderheden.
 
-### 7.3.2. Risicogroepen in de zin van paragraaf C2/3.2 Vc
+### 7.3. Vervolging in de zin van het Vluchtelingenverdrag
 
 Geen bijzonderheden.
 
@@ -3521,9 +3521,9 @@ Geen bijzonderheden.
 
 ### 7.4. Ernstige schade in de zin van artikel 29, eerste lid, onder b, Vw
 
-### 7.5.2. Vlucht- en vestigingsalternatief in de zin van paragraaf C2/3.4 Vc
+### 7.5.1. Bescherming door autoriteiten en/of internationale organisaties in de zin van paragraaf C2/3.4 Vc
 
-Geen bijzonderheden.
+De IND neemt in ieder geval aan dat het voor vrouwen die aannemelijk hebben gemaakt dat zij hebben te vrezen voor (seksuele) geweldpleging niet mogelijk is de bescherming van de autoriteiten of internationale organisaties te verkrijgen.
 
 De IND beoordeelt of adequate opvang voor amv’s aanwezig is aan de hand van [paragraaf B8/6](onbekend) Vc.
 
@@ -3541,7 +3541,7 @@ Tibetanen kunnen te maken hebben met repressie in China, als zij:
 
 ### 8.3.3. Tibetanen die te maken kunnen hebben met repressie
 
-### 8.4.2. Systematische blootstelling in de zin van paragraaf C2/3.3 Vc
+### 8.4.1. Uitzonderlijke situatie in de zin van paragraaf C2/3.3 Vc
 
 Geen bijzonderheden.
 
@@ -3553,9 +3553,9 @@ In China is adequate opvang in de zin van [paragraaf B8/6 Vc](onbekend).
 
 ### 8.7. Vertrekmoratorium
 
-### 8.7. Vertrekmoratorium
+### 8.6. Adequate opvang alleenstaande minderjarige vreemdelingen
 
-Ten aanzien van Oeigoeren afkomstig uit China geldt een besluit in de zin van [artikel 45, vierde lid, Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=45).
+In China is adequate opvang in de zin van [paragraaf B8/6 Vc](onbekend).
 
 Geen bijzonderheden.
 
@@ -3569,35 +3569,35 @@ Geen bijzonderheden.
 
 ### 9.4. Ernstige schade in de zin van artikel 29, eerste lid, onder b, Vw
 
-### 9.4.1. Uitzonderlijke situatie in de zin van paragraaf C2/3.3 Vc
+### 9.3.2. Risicogroepen in de zin van paragraaf C2/3.2 Vc
 
 Geen bijzonderheden.
 
-### 9.4.3. Kwetsbare minderheidsgroepen in de zin van paragraaf C2/3.3 Vc
-
-Geen bijzonderheden.
-
-De IND neemt aan dat in Colombia geen vlucht- of vestigingsalternatief aanwezig is.
-
-### 9.6. Adequate opvang alleenstaande minderjarige vreemdelingen
-
-Geen bijzonderheden.
-
-### 9.8. Bijzonderheden
-
-### 10.2. Artikel 1F Vluchtelingenverdrag
+### 9.4.2. Systematische blootstelling in de zin van paragraaf C2/3.3 Vc
 
 Geen bijzonderheden.
 
 Geen bijzonderheden.
 
-### 10.3.2. Risicogroepen in de zin van paragraaf C2/3.2 Vc
+### 9.5.2. Vlucht- en vestigingsalternatief in de zin van paragraaf C2/3.4 Vc
+
+Voor Colombia geldt in ieder geval dat:
+
+### 9.7. Vertrekmoratorium
+
+### 10.1. Besluitmoratorium
+
+Geen bijzonderheden.
+
+Geen bijzonderheden.
+
+### 10.3. Vervolging in de zin van het Vluchtelingenverdrag
 
 Geen bijzonderheden.
 
 ### 10.4.3. Kwetsbare minderheidsgroepen in de zin van paragraaf C2/3.3 Vc
 
-### 10.5.2. Vlucht- en vestigingsalternatief in de zin van paragraaf C2/3.4 Vc
+### 10.5. Bescherming
 
 De IND neemt voor Congo DRC geen vlucht- of vestigingsalternatief aan, als de IND heeft geconcludeerd dat de vreemdeling op basis van de vreemdeling zelf betreffende omstandigheden een gegronde vrees heeft voor vervolging dan wel ernstige schade.
 
@@ -3607,43 +3607,43 @@ Geen bijzonderheden.
 
 Geen bijzonderheden.
 
-### 11.2. Artikel 1F Vluchtelingenverdrag
+### 11. Het asielbeleid ten aanzien van Eritrea
 
 Geen bijzonderheden.
 
-### 11.3.2. Risicogroepen in de zin van paragraaf C2/3.2 Vc
+### 11.3. Vervolging in de zin van het Vluchtelingenverdrag
 
 Geen bijzonderheden.
 
 ### 11.4.3. Kwetsbare minderheidsgroepen in de zin van paragraaf C2/3.3 Vc
 
-### 11.4.5. Illegale en legale uitreis
+### 11.4.4. Dienstplichtigen en deserteurs
 
-De IND verleent een verblijfsvergunning asiel voor bepaalde tijd op grond van [artikel 29, eerste lid, aanhef en onder b, Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=29) aan de Eritrese vreemdeling die illegaal Eritrea uitgereisd is.
+De IND verleent een verblijfsvergunning asiel voor bepaalde tijd op grond van [artikel 29, eerste lid, aanhef en onder b, Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=29) aan vreemdelingen die aannemelijk hebben gemaakt dat zij zijn gedeserteerd.
 
 De IND neemt in ieder geval voor de volgende categorieën aan dat het niet mogelijk is de bescherming te verkrijgen van de autoriteiten of internationale organisaties:
 
-### 11.5.2. Vlucht- en vestigingsalternatief in de zin van paragraaf C2/3.4 Vc
+### 11.5.1. Bescherming door autoriteiten en/of internationale organisaties in de zin van paragraaf C2/3.4 Vc
 
 Geen bijzonderheden.
 
 ### 11.8. Bijzonderheden
 
-Uitgangspunt is echter dat een vreemdeling die legaal, met toestemming van de Eritrese autoriteiten, is uitgereisd, zelfstandig kan terugkeren. Bij deze groep neemt de IND niet op voorhand aan dat bij terugkeer naar Eritrea sprake is van ernstige schade.
+Gedwongen terugkeer van vreemdelingen naar Eritrea zal niet plaatsvinden. De IND neemt aan dat bij gedwongen terugkeer, zowel na legale als na illegale uitreis, een reëel risico op ernstige schade aanwezig is.
 
 ### 12. Het asielbeleid ten aanzien van Guinee
 
 Geen bijzonderheden.
 
-### 12.3.2. Risicogroepen in de zin van paragraaf C2/3.2 Vc
+### 12.3.1. Groepsvervolging in de zin van paragraaf C2/3.2 Vc
 
-### 12.4.2. Systematische blootstelling in de zin van paragraaf C2/3.3 Vc
+### 12.4.1. Uitzonderlijke situatie in de zin van paragraaf C2/3.3 Vc
 
 Geen bijzonderheden.
 
 De IND neemt in ieder geval voor de volgende categorieën aan dat het niet mogelijk is de bescherming van de autoriteiten of internationale organisaties te verkrijgen:
 
-### 12.5.2. Vlucht- en vestigingsalternatief in de zin van paragraaf C2/3.4 Vc
+### 12.5.1. Bescherming door autoriteiten en/of internationale organisaties in de zin van paragraaf C2/3.4 Vc
 
 De IND beoordeelt aan de hand van [paragraaf B8/6](onbekend) Vc of adequate opvang voor amv’s aanwezig is.
 
@@ -3655,9 +3655,9 @@ Geen bijzonderheden.
 
 De IND merkt Iraakse LHBT’s aan als groep die systematisch wordt blootgesteld aan vervolging in de zin van artikel 1A Vluchtelingenverdrag.
 
-### 13.3.2. Risicogroepen in de zin van paragraaf C2/3.2 Vc
+### 13.3.1. Groepsvervolging in de zin van paragraaf C2/3.2 Vc
 
-Uitzondering op de regel dat een alleenstaande vrouw bij terugkeer een reëel risico loopt, betreft vrouwen ten aanzien van wie het evident is dat bescherming op grond van haar alleenstaande status niet nodig is.
+De IND merkt uitsluitend de volgende groepen aan als kwetsbare minderheidsgroep:
 
 ### 13.5. Bescherming
 
@@ -3665,7 +3665,7 @@ De IND neemt aan dat het voor de vreemdeling afkomstig uit Centraal en Zuid-Irak
 
 ### 13.5.2. Vlucht- en vestigingsalternatief in de zin van paragraaf C2/3.4 Vc
 
-De IND beoordeelt aan de hand van [paragraaf B8/6 Vc](onbekend) of adequate opvang voor amv’s aanwezig is.
+De IND neemt aan dat, in beginsel, in ieder geval voor de volgende categorieën Iraakse asielzoekers afkomstig uit een van de gebieden genoemd in paragraaf C7/13.4.1 Vc geen sprake is van een binnenlands vlucht- of vestigingsalternatief in andere delen van Irak:
 
 ### 13.6. Adequate opvang alleenstaande minderjarige vreemdelingen
 
@@ -3677,21 +3677,21 @@ De IND merkt Fayli-Koerden van wie de Iraakse nationaliteit is ontnomen tijdens 
 
 De IND merkt de volgende groepen aan tot risicogroepen:
 
-Geen bijzonderheden.
+Voor wat betreft sub a ziet dit op christenen die niet reeds vallen onder de in paragraaf 14.3.1. genoemde groepen.
 
-### 14.4.1. Uitzonderlijke situatie in de zin van paragraaf C2/3.3 Vc
-
-Geen bijzonderheden.
-
-### 14.5. Bescherming
+### 14.3.3. LHBT’s
 
 Geen bijzonderheden.
 
-### 14.6. Adequate opvang alleenstaande minderjarige vreemdelingen
+### 14.4.2. Systematische blootstelling in de zin van paragraaf C2/3.3 Vc
 
 Geen bijzonderheden.
 
-### 15. Het asielbeleid ten aanzien van Ivoorkust
+### 14.5.1. Bescherming door autoriteiten en/of internationale organisaties in de zin van paragraaf C2/6 Vc
+
+Voor Iran geldt in ieder geval dat:
+
+### 14.7. Vertrekmoratorium
 
 ### 15. Het asielbeleid ten aanzien van Ivoorkust
 
@@ -3717,25 +3717,25 @@ Geen bijzonderheden.
 
 ### 16. Het asielbeleid ten aanzien van Jemen
 
-### 16.1. Besluitmoratorium
+### 15.8. Bijzonderheden
 
-Ten aanzien van Jemen geldt een besluit in de zin van [artikel 43, eerste lid, Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=43).
+Geen bijzonderheden.
 
-### 16.3.1. Groepsvervolging in de zin van paragraaf C2/3.2 Vc
+### 16.2. Artikel 1F Vluchtelingenverdrag
 
 Geen bijzonderheden.
 
 Geen bijzonderheden.
 
-### 16.4.2. Systematische blootstelling in de zin van paragraaf C2/3.3 Vc
+### 16.4. Ernstige schade in de zin van [artikel 29, eerste lid, onder b, Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=29)
 
 Geen bijzonderheden.
 
-### 16.5.1. Bescherming door autoriteiten en/of internationale organisaties in de zin van paragraaf C2/6 Vc
+### 16.4.3. Kwetsbare minderheidsgroepen in de zin van paragraaf C2/3.3 Vc
 
-De IND beoordeelt aan de hand van [paragraaf B8/6 Vc](onbekend) of adequate opvang voor amv’s aanwezig is.
+Geen bijzonderheden.
 
-### 16.7. Vertrekmoratorium
+### 16.5.2. Vlucht- en vestigingsalternatief in de zin van paragraaf C2/6 Vc
 
 Geen bijzonderheden.
 
@@ -3745,23 +3745,23 @@ Geen bijzonderheden.
 
 De IND merkt voor Libië uitsluitend de volgende risicogroepen aan:
 
+De IND beschouwt in ieder geval als stammen waarvan bekend is dat zij loyaal waren aan het bewind van Gadaffi:
+
+### 17.4. Ernstige schade in de zin van artikel 29, eerste lid, onder b, Vw
+
 Geen bijzonderheden.
 
-### 17.4.2. Systematische blootstelling in de zin van paragraaf C2/3.3 Vc
+### 17.4.3. Kwetsbare minderheidsgroepen in de zin van paragraaf C2/3.3 Vc
 
 De IND neemt aan dat het niet mogelijk is de bescherming van de autoriteiten of internationale organisaties te verkrijgen.
 
-### 17.5.1. Bescherming door autoriteiten en/of internationale organisaties in de zin van paragraaf C2/3.4 Vc
-
-De IND beoordeelt aan de hand van [paragraaf B8/6](onbekend) Vc of adequate opvang voor amv’s aanwezig is.
-
-### 17.7. Vertrekmoratorium
+### 17.5.2. Vlucht- en vestigingsalternatief in de zin van paragraaf C2/3.4 Vc
 
 Geen bijzonderheden.
 
-### 18.1. Besluitmoratorium
+### 17.8. Bijzonderheden
 
-### 18.3. Vervolging in de zin van het Vluchtelingenverdrag
+### 18.1. Besluitmoratorium
 
 Geen bijzonderheden.
 
@@ -3771,11 +3771,11 @@ Geen bijzonderheden.
 
 Geen bijzonderheden.
 
-### 18.5.2. Vlucht- en vestigingsalternatief in de zin van paragraaf C2/3.4 Vc
+### 18.5. Bescherming
 
 Geen bijzonderheden.
 
-### 18.8. Bijzonderheden
+### 18.6. Adequate opvang alleenstaande minderjarige vreemdelingen
 
 ### 18.8. Bijzonderheden
 
@@ -3785,17 +3785,17 @@ Geen bijzonderheden.
 
 Geen bijzonderheden.
 
-### 19.3.1. Groepsvervolging in de zin van paragraaf C2/3.2 Vc
+### 19.2. Artikel 1F Vluchtelingenverdrag
 
 Geen bijzonderheden.
 
-### 19.4.1. Uitzonderlijke situatie in de zin van paragraaf C2/3.3 Vc
+### 19.3.2. Risicogroepen in de zin van paragraaf C2/3.2 Vc
 
 Geen bijzonderheden.
 
-De IND neemt in ieder geval voor de volgende categorieën aan dat het niet mogelijk is de bescherming van de autoriteiten of internationale organisaties te verkrijgen:
+Geen bijzonderheden.
 
-### 19.5.1. Bescherming door autoriteiten en/of internationale organisaties in de zin van paragraaf C2/3.4 Vc
+### 19.4.3. Kwetsbare minderheidsgroepen in de zin van paragraaf C2/3.3 Vc
 
 ### 19.5. Bescherming
 
@@ -3803,57 +3803,57 @@ Geen bijzonderheden.
 
 ### 19.6. Adequate opvang alleenstaande minderjarige vreemdelingen
 
-Voor Nepal geldt in ieder geval dat:
+Geen bijzonderheden.
 
 ### 19.8. Bijzonderheden
 
-Geen bijzonderheden.
+Voor Nepal geldt in ieder geval dat:
 
 Geen bijzonderheden.
 
-### 20.3. Vervolging in de zin van het Vluchtelingenverdrag
+### 20.1. Besluitmoratorium
 
 Geen bijzonderheden.
 
-### 20.4. Ernstige schade in de zin van artikel 29, eerste lid, onder b, Vw
+### 20.3.1. Groepsvervolging in de zin van paragraaf C2/3.2 Vc
 
 Geen bijzonderheden.
 
-### 20.4.3. Kwetsbare minderheidsgroepen in de zin van paragraaf C2/3.3 Vc
+### 20.4.1. Uitzonderlijke situatie in de zin van paragraaf C2/3.3 Vc
 
-### 20.6. Adequate opvang alleenstaande minderjarige vreemdelingen
+### 20.5.1. Bescherming door autoriteiten en/of internationale organisaties in de zin van paragraaf C2/3.4 Vc
 
-Of vrouwen zich kunnen onttrekken aan genitale verminking door zich elders (buiten de eigen leefgemeenschap) te vestigen kan per geval verschillen. Dit is afhankelijk van de vraag in hoeverre vrouwen elders een nieuw bestaan kunnen opbouwen. Hierbij speelt het sociale netwerk een belangrijke rol. Het sociale netwerk kan bestaan uit de familie- of gezinsleden, maar ook uit andere sociale netwerken zoals verenigingen en kerkgenootschappen.
+De IND neemt aan dat het voor vreemdelingen die aannemelijk hebben gemaakt dat zij te maken hebben met (eventueel) op de persoon gericht geweld door militante groeperingen niet mogelijk is de bescherming van de autoriteiten of internationale organisaties te verkrijgen.
 
 De IND neemt aan dat in Nigeria een vlucht- en vestigingsalternatief aanwezig is voor de volgende categorieën:
 
 ### 20.7. Vertrekmoratorium
 
-### 21. Het asielbeleid ten aanzien van Pakistan
+### 20.7. Vertrekmoratorium
 
 Geen bijzonderheden.
 
 Geen bijzonderheden.
 
-### 21.3.1. Groepsvervolging in de zin van C2/3.2
+### 21.2. Artikel 1F Vluchtelingenverdrag
 
 Geen bijzonderheden.
 
-### 21.4.1. Uitzonderlijke situatie in de zin van C2/3.3
+### 21.3.2. Risicogroepen in de zin van C2/3.2
 
 Geen bijzonderheden.
+
+### 21.4.2. Systematische blootstelling in de zin van C2/3.3
 
 ### 21.5. Bescherming
 
-### 21.5. Bescherming
-
 Geen bijzonderheden.
 
-Geen bijzonderheden.
+De IND beoordeelt aan de hand van [paragraaf B8/6](onbekend) Vc of adequate opvang voor amv’s aanwezig is.
 
 ### 21.8. Bijzonderheden
 
-### 22.2. Artikel 1F Vluchtelingenverdrag
+### 22. Het asielbeleid ten aanzien van de Russische Federatie
 
 Geen bijzonderheden.
 
@@ -3865,9 +3865,9 @@ Geen bijzonderheden.
 
 ### 22.4.3. Kwetsbare minderheidsgroepen in de zin van paragraaf C2/3.3 Vc
 
-De IND neemt aan dat het voor LHBT’s niet mogelijk is de bescherming van de autoriteiten of internationale organisaties te verkrijgen.
+Geen bijzonderheden.
 
-### 22.5.2. Vlucht- en vestigingsalternatief in de zin van paragraaf C2/3.4 Vc
+### 22.5. Bescherming
 
 Geen bijzonderheden.
 
@@ -3889,13 +3889,13 @@ Geen bijzonderheden.
 
 De IND verlangt niet van een minderjarige vrouwelijke vreemdeling dat zij zich elders in Sierra Leone vestigt, als zij hierin niet ondersteund wordt door familie of derden, tenzij zij zich eerder aan genitale verminking heeft kunnen onttrekken.
 
-De IND verwacht van een meerderjarige vreemdeling dat hij zich aan het lidmaatschap van het geheime genootschap onttrekt door zich elders in Sierra Leone te vestigen. De IND verlangt niet van een minderjarige vreemdeling dat hij zich elders in Sierra Leone vestigt, als de vreemdeling hierin niet ondersteund wordt door familie of derden, tenzij de vreemdeling zich eerder aan het lidmaatschap van een geheim genootschap heeft kunnen onttrekken.
+De IND neemt in ieder geval aan dat in Sierra Leone een vlucht- en vestigingsalternatief aanwezig is voor de volgende categorieën:
 
 ### 23.6. Adequate opvang alleenstaande minderjarige vreemdelingen
 
-Ten aanzien van Somalië geldt een besluit in de zin van [artikel 43, eerste lid, Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=43) voor vreemdelingen afkomstig uit die gebieden in Centraal- en Zuid-Somalië die onder controle staan van Al-Shabaab.
+Geen bijzonderheden.
 
-### 24.1. Besluitmoratorium
+### 23.8. Bijzonderheden
 
 Een vreemdeling die zich erop beroept dat hij er door Al-Shabaab van wordt verdacht te spioneren voor de overheid en afkomstig is uit gebieden die niet onder controle staan van Al-Shabaab (inclusief Mogadishu), zal aannemelijk moeten maken dat juist hij zal worden geconfronteerd met Al-Shabaab. De enkele terugkeer uit het Westen is daartoe onvoldoende.
 
@@ -3903,7 +3903,7 @@ Een vreemdeling die zich erop beroept dat hij er door Al-Shabaab van wordt verda
 
 ### 24.4.1. Uitzonderlijke situatie in de zin van paragraaf C2/3.3 Vc
 
-De IND herbeoordeelt vooralsnog niet de verblijfsvergunning asiel voor bepaalde tijd die aan Somaliërs verleend zijn op grond van het behoren tot de Benadiri/Reer Hamar. De IND zal pas overgaan tot intrekking, als is gebleken van een wijziging van omstandigheden die een voldoende ingrijpend en niet-voorbijgaand karakter heeft (zie [artikel 3.37e VV](https://wetten.overheid.nl/jci1.3:c:BWBR0012002&artikel=3.37e)).
+De IND wijst om diezelfde reden niet aanvragen tot verlenging van de verblijfsvergunning asiel voor bepaalde tijd of een verblijfsvergunning asiel voor onbepaalde tijd af van vreemdelingen die op grond van de uitzonderlijke situatie zoals bedoeld in [artikel 29, eerste lid, onder b, Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=29) in het bezit zijn van een verblijfsvergunning asiel voor bepaalde tijd.
 
 De IND wijst om diezelfde reden niet aanvragen tot verlenging van de verblijfsvergunning asiel voor bepaalde tijd of een verblijfsvergunning asiel voor onbepaalde tijd af van vreemdelingen die op grond van het behoren tot de Benadiri/Reer Hamar in het bezit zijn van een verblijfsvergunning asiel voor bepaalde tijd.
 
@@ -3911,43 +3911,43 @@ De IND wijst om diezelfde reden niet aanvragen tot verlenging van de verblijfsve
 
 ### 24.4.4. Kwetsbare minderheidsgroepen in de zin van paragraaf C2/3.3 Vc
 
+De IND neemt in ieder geval aan dat het voor de volgende categorieën in Somalië (inclusief Noord-Somalië) niet mogelijk is de bescherming van de autoriteiten of internationale organisaties te verkrijgen:
+
+### 24.6. Adequate opvang alleenstaande minderjarige vreemdelingen
+
 De IND neemt aan dat de vreemdeling zich in het desbetreffende gebied kan handhaven.
 
 ### 24.6. Adequate opvang alleenstaande minderjarige vreemdelingen
 
-De IND sluit voorts ook een vlucht- of vestigingsalternatief in Mogadishu niet op voorhand uit. De IND kan in individuele gevallen waarbij er concrete aanknopingspunten zijn in het asielrelaas dat een vreemdeling zich in Mogadishu kan vestigen, dit aan de vreemdeling tegenwerpen.
+De IND beoordeelt aan de hand van [paragraaf B8/6 Vc](onbekend) of adequate opvang voor amv’s aanwezig is.
 
-### 24.7. Vertrekmoratorium
+### 24.8. Bijzonderheden
 
-Ten aanzien van Somalië geldt een besluit in de zin van [artikel 45, vierde lid, Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=45) voor vreemdelingen die afkomstig zijn uit gebieden in Centraal- en Zuid-Somalië die onder controle staan van Al-Shabaab.
+Geen bijzonderheden.
 
 ### 25.1. Besluitmoratorium
 
 Geen bijzonderheden.
 
-### 25.3. Vervolging in de zin van het Vluchtelingenverdrag
+### 25.3.1. Groepsvervolging in de zin van paragraaf C2/3.2 Vc
 
 Geen bijzonderheden.
 
-### 25.4. Ernstige schade in de zin van [artikel 29, eerste lid, onder b, Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=29)
+### 25.4.2. Systematische blootstelling in de zin van paragraaf C2/3.3 Vc
 
 Geen bijzonderheden.
-
-### 25.4.4. Tamils
-
-De IND beoordeelt een verzoek om een verblijfsvergunning asiel voor bepaalde tijd op grond van [artikel 29, eerste lid, aanhef en onder b, Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=29) van Srilankaanse Tamils ook aan de hand van de door het Europese Hof van de Rechten van de Mens benoemde risicofactoren. De genoemde risicofactoren vormen geen checklist en zijn niet uitputtend bedoeld. Iedere genoemde individuele risicofactor hoeft op zich geen aanleiding te geven om ervan uit te gaan dat er een reëel risico op ernstige schade is bij terugkeer naar Colombo. Een combinatie van twee of meer risicofactoren kan aanleiding zijn om een reëel risico op ernstige schade aan te nemen.
 
 De IND beoordeelt een verzoek om een verblijfsvergunning asiel voor bepaalde tijd op grond van [artikel 29, eerste lid, aanhef en onder b, Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=29) van Srilankaanse Tamils ook aan de hand van de door het Europese Hof van de Rechten van de Mens benoemde risicofactoren. De genoemde risicofactoren vormen geen checklist en zijn niet uitputtend bedoeld. Iedere genoemde individuele risicofactor hoeft op zich geen aanleiding te geven om ervan uit te gaan dat er een reëel risico op ernstige schade is bij terugkeer naar Colombo. Een combinatie van twee of meer risicofactoren kan aanleiding zijn om een reëel risico op ernstige schade aan te nemen.
 
 ### 25.4.4. Tamils
 
-### 25.6. Adequate opvang alleenstaande minderjarige vreemdelingen
+### 25.5.1. Bescherming door autoriteiten en/of internationale organisaties in de zin van paragraaf C2/3.4 Vc
 
-De IND beoordeelt aan de hand van [paragraaf B8/6](onbekend) Vc of adequate opvang voor amv’s aanwezig is.
+De IND neemt in ieder geval voor de volgende categorieën aan dat het niet mogelijk is de bescherming van de autoriteiten of internationale organisaties te verkrijgen:
 
 ### 25.8. Bijzonderheden
 
-Geen bijzonderheden.
+Voor Sri Lanka geldt in ieder geval dat:
 
 ### 26. Het asielbeleid ten aanzien van Sudan
 
@@ -3957,9 +3957,9 @@ Geen bijzonderheden.
 
 Geen bijzonderheden.
 
-### 26.3.2. Risicogroepen in de zin van paragraaf C2/3.2 Vc
+### 26.3. Vervolging in de zin van het Vluchtelingenverdrag
 
-Gelet op de algemeen bekende informatie wordt er vanuit gegaan dat in ieder geval vreemdelingen behorend tot de niet-Arabische bevolkingsgroepen uit Darfur (Noord-, Oost, Zuid- en Centraal-Darfur) en vreemdeling die behoren tot de bevolkingsgroep van de Nuba door de autoriteiten gezien worden als (vermeend) aanhanger van een (gewapende) oppositiegroep.
+Geen bijzonderheden.
 
 De IND merkt voor Sudan uitsluitend aan als risicogroep:
 
@@ -3971,39 +3971,39 @@ Geen bijzonderheden.
 
 ### 26.7. Vertrekmoratorium
 
-De IND neemt voor Sudan een vestigingsalternatief in een ander deel van Sudan aan als:
+Gelet op de algemeen bekende informatie wordt er vanuit gegaan dat in ieder geval vreemdelingen behorend tot de niet-Arabische bevolkingsgroepen uit Darfur (Noord-, Oost, Zuid- en Centraal-Darfur) en vreemdeling die behoren tot de bevolkingsgroep van de Nuba door de autoriteiten gezien worden als (vermeend) aanhanger van een (gewapende) oppositiegroep.
 
 ## Bijlage
 
 ### Aanvraag
 
-De IND beoordeelt aan de hand van [paragraaf B8/6 Vc](onbekend) of adequate opvang voor amv’s aanwezig is.
+De IND neemt voor Sudan een vestigingsalternatief in een ander deel van Sudan aan als:
 
-Als de vreemdeling in het kader van zijn opvolgende aanvraag voor een verblijfsvergunning asiel voor bepaalde tijd feiten en omstandigheden inbrengt die dateren van voor de eerdere afwijzende beschikking, beoordeelt de IND of de vreemdeling deze feiten en omstandigheden in het kader van een eerdere aanvraag voor een verblijfsvergunning asiel voor bepaalde tijd had kunnen inbrengen. De IND hanteert daarbij als uitgangspunt dat de vreemdeling alle bij hem bekende informatie en documenten in het kader van zijn aanvraag voor een verblijfsvergunning asiel voor bepaalde tijd aan de IND moet overleggen. Als de vreemdeling in het kader van zijn opvolgende aanvraag voor een verblijfsvergunning asiel voor bepaalde tijd feiten en omstandigheden inbrengt die dateren van voor de eerdere afwijzende beschikking, moet de vreemdeling aannemelijk maken dat hij deze feiten en omstandigheden redelijkerwijs niet eerder had kunnen inbrengen.
+De IND beoordeelt bij afwijzing van de eerste aanvraag voor een verblijfsvergunning asiel voor bepaalde tijd als (kennelijk) ongegrond op grond van [artikel 6.1e Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=6.1e) ambtshalve of de vreemdeling in aanmerking komt voor uitstel van vertrek op grond van [artikel 64 Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=64), tenzij de aanvraag als kennelijk ongegrond is afgewezen op grond van [artikel 30b, eerste lid onder g, j of k Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=30b). [Paragraaf A3/7](onbekend) is van overeenkomstige toepassing.
 
 ### 3.3. Daden als bedoeld in [artikel 29 eerste lid, aanhef en onder b Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=29)
 
-De IND past artikel 1E van het Vluchtelingenverdrag niet toe als uitsluitingsgrond.
+De IND gaat na of de staatloze Palestijnse vreemdeling gedwongen werd het betreffende gebied te verlaten. Hiervan is sprake als wordt voldaan aan één van beide hieronder genoemde voorwaarden:
 
-De bepalingen van het Vluchtelingenverdrag zijn op grond van artikel 1F van dat verdrag niet van toepassing op een vreemdeling ten aanzien van wie er ernstige redenen zijn om te veronderstellen dat de vreemdeling oorlogsmisdrijven of andere ernstige misdrijven heeft gepleegd. De IND verleent in dat geval de vreemdeling geen verblijfsvergunning asiel voor bepaalde tijd (zie paragraaf C2/7.10.2 Vc).
+In het kader van de eerste voorwaarde beoordeelt de IND op individuele basis of:
 
 ### 4. Nationale bescherming
 
 ### 4.1. [Artikel 29, tweede lid, onder a, b of c, Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=29), afgeleide verblijfsvergunning
 
-De beoordeling van de aanvraag voor een verblijfsvergunning asiel voor bepaalde tijd van een vrouw die zich beroept op het risico van het ondergaan van genitale verminking, wordt beschreven in paragraaf C2/3.3 Vc.
+Als de seksuele gerichtheid of seksuele handelingen strafbaar zijn in het land van herkomst hoeft de vreemdeling geen bescherming conform [artikel 3.37c VV](https://wetten.overheid.nl/jci1.3:c:BWBR0012002&artikel=3.37c) in te roepen.
 
-De IND verleent, onder toepassing van artikel 3.36 VV, een verblijfsvergunning asiel voor bepaalde tijd aan de vreemdeling die zich beroept op dienstweigering of desertie, als de vreemdeling voldoet aan tenminste één van de volgende voorwaarden:
+De IND betrekt bij de beoordeling of de vreemdeling vanwege zijn (toegedichte) seksuele gerichtheid vervolgd wordt bij het bekend zijn of worden van de seksuele gerichtheid in de directe (leef)omgeving van de vreemdeling, in ieder geval:
 
 ### 5. Afwijzingsgronden verblijfsvergunning asiel voor bepaalde tijd (imperatief)
 
 ### 5.1. Een ander land is verantwoordelijk ([artikel 30, eerste lid sub a Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=30))
 
+De IND verleent een verblijfsvergunning asiel voor bepaalde tijd op grond van [artikel 29, eerste lid, aanhef en onder b, Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=29) als bij de verwijdering van de vreemdeling uit Nederland sprake is van een reëel risico op ernstige schade in de zin van artikel 29, eerste lid, aanhef en onder b, Vw, en [artikel 3.37b VV](https://wetten.overheid.nl/jci1.3:c:BWBR0012002&artikel=3.37b).
+
+De IND verleent geen verblijfsvergunning asiel voor bepaalde tijd op grond van artikel 29, eerste lid, aanhef en onder b, Vw, als [artikel 3.105e, aanhef en onder e, Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=3.105e) van toepassing is.
+
 Bij de beoordeling van artikel 29, eerste lid, aanhef en onder b, Vw wordt ook de algemene gewelds- en mensenrechtensituatie in een land van herkomst betrokken. Hoe ernstiger de situatie van (willekeurig) geweld of de mensenrechtensituatie in en land van herkomst is, hoe eerder de IND kan concluderen dat de vreemdeling, gelet op zijn individuele feiten en omstandigheden bij terugkeer naar het land van herkomst een reëel risico loopt op ernstige schade.
-
-De IND toetst of de vreemdeling in aanmerking komt voor een verblijfsvergunning asiel voor bepaalde tijd op grond van artikel 29 eerste lid, aanhef onder b, Vw, aan de hand van vorenstaande volgorde.
-
-Er is sprake van een uitzonderlijke situatie >als bedoeld in artikel 3EVRM (en artikel 15c van de richtlijn 2011/95/EU indien de algehele gewelds- en mensenrechtensituatie in het land van herkomst, of in een bepaald gebied in dit land zo uitzonderlijk slecht is dat voor elke vreemdeling, ongeacht de individuele omstandigheden bij terugkeer een reëel risico op ernstige schade (in de woorden van het EHRM: **most extreme cases of general violence**). De Minister is bevoegd een situatie in een land van herkomst aan te merken als uitzonderlijke situatie.
 
 ### 5.2. De vreemdeling is al in procedure ([artikel 30, eerste lid sub c Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=30))
 
@@ -4011,13 +4011,13 @@ Er is sprake van een uitzonderlijke situatie >als bedoeld in artikel 3EVRM (en a
 
 ### 6.1. Er is geen rechtsgrond voor verlening van een verblijfsvergunning asiel voor bepaalde tijd.
 
+De IND verleent een vrouw, die zich beroept op een vrees voor genitale verminking, een verblijfsvergunning asiel voor bepaalde tijd op grond van artikel 29 eerste lid, aanhef en onder b, Vw, als wordt voldaan aan alle volgende voorwaarden:
+
+De IND beoordeelt op basis van de individuele verklaringen van de vreemdeling of de vreemdeling in aanmerking komt voor een verblijfsvergunning asiel voor bepaalde tijd op grond van artikel 29 eerste lid, aanhef en onder b, Vw vanwege een reëel risico op genitale verminking bij vrouwen.
+
 De IND verleent bij een gegronde vrees voor genitale verminking de verblijfsvergunning asiel voor bepaalde tijd op grond van artikel 29 eerste lid, aanhef en onder b, Vw uitsluitend aan:
 
-In afwijking van het voorgaande verleent de IND bij een beroep op vrees voor genitale verminking in ieder geval geen verblijfsvergunning asiel voor bepaalde tijd op grond van artikel 29 eerste lid, aanhef en onder b, Vw, aan:
-
-De IND beoordeelt, mede op basis van een actueel BMA advies, de omstandigheden aan de hand van de drie volgende criteria.
-
-Indien er wel sprake is van een ziekte in een vergevorderd en direct levensbedreigend stadium toetst de IND voor de uitzonderlijke omstandigheden waar de vreemdeling in kan komen te verkeren aan de criteria onder b en c. De medische zorg en steun van naasten, waaronder de familieleden van de vreemdeling, in het land van herkomst worden door de IND beoordeeld in samenhang met het stadium waarin de ziekte zich bevindt. De mogelijkheden voor de benodigde medische behandeling in het land van herkomst volgen uit het BMA advies. De IND beoordeelt de omstandigheid of de familie aan de vreemdeling ondersteuning kan bieden aan de hand van de verklaringen van de vreemdeling en/of aanvullend onderzoek.
+De IND beoordeelt of uitzetting in verband met de medische toestand van de uit te zetten vreemdeling, onder uitzonderlijke omstandigheden en wegens dwingende redenen van humanitaire aard, bij gebrek aan medische voorzieningen en sociale opvang in het land waarnaar wordt uitgezet, leidt tot ernstige schade.
 
 ### 6.2. De specifieke afwijzingsgronden
 
@@ -4027,79 +4027,79 @@ Indien er wel sprake is van een ziekte in een vergevorderd en direct levensbedre
 
 ### 6.2. De specifieke afwijzingsgronden
 
-De IND gebruikt de term vestigingsalternatief bij bescherming van de vreemdeling tegen daden als bedoeld in artikel 29, eerste lid, aanhef en onder b Vw.
+Bij de beantwoording van de vraag of een vreemdeling bescherming in Nederland nodig heeft tegen dreigende vervolging of daden als bedoeld in artikel 29 eerste lid, aanhef en onder b, Vw, beoordeelt de IND of de vreemdeling in het land van herkomst een beschermingsalternatief heeft om zich in een ander gebied in het land van herkomst aan deze dreiging te onttrekken.
 
 ### 6.2. De specifieke afwijzingsgronden
 
-Dat de omstandigheden in het gebied minder gunstig zijn dan in het oorspronkelijke woongebied van de vreemdeling is voor de IND onvoldoende reden om geen vlucht- of vestigingsalternatief tegen te werpen.
+Het gebied moet vanuit Nederland daadwerkelijk bereikbaar zijn. Daarnaast moet het gebied op legale en veilige wijze kunnen worden bereikt.
 
 ### 4. Nationale bescherming
 
-De termijn van drie maanden, zoals die in [artikel 29 tweede lid, Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=29) wordt genoemd, is veiliggesteld als:
+Het wettelijk kader voor het verlenen van de afgeleide verblijfsvergunning voor nareizende gezinsleden staat beschreven in [artikel 29, tweede lid, onder a, b of c, Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=29).
 
 ### 6.2.5. Land van eerder verblijf
 
-Voor meerderjarige kinderen geldt eveneens dat het kind feitelijk moet behoren tot het gezin van de referent. In dit geval moet er sprake zijn van een normale afhankelijkheidsrelatie tussen de referent en het meerderjarige kind en dient de referent aan te tonen dat het meerderjarig kind in het buitenland altijd feitelijk tot zijn gezin heeft behoord en dat die feitelijke gezinsband niet verbroken is.
+Indien er sprake is van één of meer van de volgende omstandigheden (contra-indicaties), kan in ieder geval worden aangenomen dat het kind niet langer feitelijk tot het gezin van de ouder(s) behoort:
 
 ### 6.2.7. Openbare orde of nationale veiligheid
 
-De IND verleent de verblijfsvergunning asiel voor bepaalde tijd op grond van [artikel 29, tweede lid, Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=29) ambtshalve (conform [artikel 28, eerste lid onder d en derde lid Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=28)) als de vreemdeling met een daartoe afgegeven mvv is ingereisd, zich vervolgens binnen drie dagen heeft aangemeld via het door de IND opgegeven telefoonnummer en de mvv op die datum nog geldig is. De ingangsdatum is de datum als bedoeld in [artikel 3.105a eerste lid, Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=3.105a), tenzij de vreemdeling bij de afgifte van de mvv heeft aangegeven de datum als bedoeld in artikel 3.105a tweede lid, Vb als ingangsdatum te prefereren.
+Voor onderzoek naar de feitelijke gezinsband tussen ouder(s) en biologische kinderen wordt verwezen naar paragraaf C1/3 Vc.
 
 ### 6.2.8. Artikel 1F Vluchtelingenverdrag
 
 De IND en de vreemdeling hebben een gedeelde bewijslast op de vraag of een derde land als veilig kan worden aangemerkt, namelijk:
 
-De IND neemt in de volgende gevallen in ieder geval aan dat de vreemdeling een band heeft met een derde land:
+Bij de vraag of een veilig derde land voor de individuele vreemdeling als veilig moet worden beschouwd, vormt het relaas van de vreemdeling het uitgangspunt. De IND weegt mee of het betreffende land in de praktijk de verplichtingen uit de relevante mensenrechtenverdragen naleeft. De IND kan de presumptie van veilig derde land niet handhaven wanneer de vreemdeling aannemelijk maakt dat het betreffende derde land in zijn specifieke geval niet als veilig land kan worden beschouwd. In dat geval beoordeelt de IND op de gebruikelijke wijze of de vreemdeling in aanmerking komt voor internationale bescherming.
 
 ### 6.4. Opvolgende aanvraag zonder nieuwe elementen of bevindingen
 
-Indien wordt beslist op een opvolgende aanvraag terwijl het beroep in de eerdere procedure nog niet op zitting is behandeld, zendt de IND het besluit op de opvolgende aanvraag aan de behandelend rechtbank toe met het verzoek dit, indien de vreemdeling ook hiertegen beroep instelt, gezamenlijk te behandelen.
+Met ‘nieuwe elementen of bevindingen’ wordt hetzelfde bedoeld als ‘nieuw gebleken feiten of veranderde omstandigheden’ zoals bedoeld in [artikel 4:6 Awb](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:6).
 
 De beoordeling of een aanvraag voor een verblijfsvergunning asiel gegrond of ongegrond is, vindt plaats aan de hand van [artikel 31 Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=31). De omstandigheden die kunnen leiden tot de conclusie dat een aanvraag kennelijk ongegrond is, zijn beschreven in [artikel 30b Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=30b) en worden behandeld in paragraaf C2/7.1 t/m C2/7.11 van de Vc. Eerst nadat de IND heeft beoordeeld of een aanvraag ongegrond is, beoordeelt de IND of de aanvraag tevens als kennelijk ongegrond kan worden afgewezen.
 
 ### 7.1. Aangelegenheden die niet ter zake doen
 
-### 7.1. Aangelegenheden die niet ter zake doen
+### 7. Gegrond, ongegrond en kennelijk ongegrond
 
-Onder aangelegenheden die niet ter zake doen verstaat de IND alle aangelegenheden die geen betrekking hebben op voor de beoordeling van het asielverzoek relevante informatie. Deze aangelegenheden raken niet aan Vluchtelingschap of artikel 3 EVRM.
+De beoordeling of een aanvraag voor een verblijfsvergunning asiel gegrond of ongegrond is, vindt plaats aan de hand van [artikel 31 Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=31). De omstandigheden die kunnen leiden tot de conclusie dat een aanvraag kennelijk ongegrond is, zijn beschreven in [artikel 30b Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=30b) en worden behandeld in paragraaf C2/7.1 t/m C2/7.11 van de Vc. Eerst nadat de IND heeft beoordeeld of een aanvraag ongegrond is, beoordeelt de IND of de aanvraag tevens als kennelijk ongegrond kan worden afgewezen.
 
 ### 7.2. Veilig land van herkomst
 
 ### 7.3. Misleiden omtrent identiteit of nationaliteit en/of informatie achterhouden
 
-In de volgende gevallen is wel sprake van het toerekenbaar ontbreken van documenten, maar niet zonder meer van ‘misleiden’ door documenten achter te houden:
+De IND verklaart niet zonder meer een aanvraag kennelijk ongegrond wanneer identiteits- of nationaliteitsdocumenten (toerekenbaar) ontbreken. Er moet sprake zijn van een zekere ‘opzettelijkheid’.
 
 ### 7.5. Kennelijk inconsequente en tegenstrijdige, kennelijk valse of duidelijk onwaarschijnlijke verklaringen
 
 De IND werpt de vreemdeling niet tegen dat hij onrechtmatig binnen is gekomen als de vreemdeling zich uit eigen beweging binnen 48 uur na binnenkomst in Nederland heeft gemeld bij een ambtenaar belast met de grensbewaking of het toezicht op vreemdelingen en daar kenbaar heeft gemaakt dat hij een aanvraag tot het verlenen van een verblijfsvergunning asiel voor bepaalde tijd wil indienen.
 
-Bij de beoordeling van een aanvraag tot het verlenen van een verblijfsvergunning asiel, onderzoekt de IND of de vreemdeling een gevaar vormt voor de openbare orde of nationale veiligheid.
+Een vreemdeling werkt in de volgende gevallen onvoldoende mee aan het onderzoek in het kader van de beoordeling van zijn asielaanvraag:
 
-### 7.10.1. Algemeen
+### 7.10. Openbare orde of nationale veiligheid
 
 ### 9. Rechtsmiddelen
 
-Paragraaf B1/4.4 Vc ten aanzien van verjaring van misdrijven is in dit verband van overeenkomstige toepassing.
+De IND betrekt de strafbare feiten die de vreemdeling in het buitenland heeft gepleegd ook bij de beoordeling. Hierbij beoordeelt de IND, op basis van door het Openbaar Ministerie verstrekte informatie, welke gevolgen naar Nederlands recht aan de strafbare feiten zouden zijn verbonden, indien die strafbare feiten in Nederland zouden zijn gepleegd en bestraft.
 
-De aanvraag tot het verlenen van een verblijfsvergunning asiel voor bepaalde tijd van een vreemdeling die heeft aangetoond een risico te lopen als bedoeld in artikel 29, eerste lid, aanhef en onder b, Vw, kan door de IND worden afgewezen, indien de vreemdeling veroordeeld is voor een ‘ernstig misdrijf’.
+De IND beoordeelt het gevaar voor de gemeenschap op individuele basis en aan de hand van alle relevante feitelijke en juridische gegevens.
 
-Paragraaf B1/4.4 Vc ten aanzien van verjaring van misdrijven is hier van overeenkomstige toepassing.
+De IND kan in alle volgende gevallen een gevaar voor de gemeenschap aannemen:
 
 ### 9. Rechtsmiddelen
 
 ### 7.10.2. Artikel 1F, Vluchtelingenverdrag
 
-Het betreft in dat geval op grond van [artikel 3.5, derde lid, Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=3.5) een tijdelijk verblijfsrecht.
+De IND kan een ernstig misdrijf ook aan een vreemdeling tegenwerpen indien de veroordeling voor dit misdrijf nog niet onherroepelijk is geworden.
 
 ### 7.10.2. Artikel 1F, Vluchtelingenverdrag
 
 ### 7.10.2.2. Artikel 1F aanhef en onder b, Vluchtelingenverdrag
 
+Het door de vreemdeling gepleegde misdrijf wordt beschouwd als een politiek misdrijf, indien aan alle volgende voorwaarden is voldaan:
+
+De volgende misdrijven kunnen in ieder geval een politiek karakter hebben:
+
 Bij ‘absolute politieke misdrijven’ kan artikel 1F, onder b van het Vluchtelingenverdrag niet worden toegepast. Absolute politieke misdrijven zijn misdrijven met een politiek karakter, waarbij uit de omschrijving van het misdrijf blijkt dat zij zijn gericht tegen de staat. De volgende misdrijven zijn in ieder geval absolute politieke misdrijven:
-
-De volgende misdrijven moeten op grond van het bovenstaande in ieder geval worden aangemerkt als ernstig niet-politiek misdrijf in de zin van artikel 1F, onder b van het Vluchtelingenverdrag:
-
-De volgende handelingen zijn in ieder geval in strijd met de doelstellingen en beginselen van de VN:
 
 ### 7.10.2.4. Bewijslast en verantwoordelijkheid
 
@@ -4107,7 +4107,7 @@ De volgende handelingen zijn in ieder geval in strijd met de doelstellingen en b
 
 Er is in ieder geval sprake van ‘knowing participation’ bij de vreemdeling in één van de volgende situaties:
 
-Als de vreemdeling bij het plegen van misdrijven als bedoeld in artikel 1F Vluchtelingenverdrag tussen de vijftien en achttien jaren oud was en als soldaat in een leger heeft gediend, worden in ieder geval de volgende omstandigheden door de IND meegewogen:
+In het geval van situatie a. of b. toetst de IND of de vreemdeling een uitzondering vormt op de regel dat de vreemdeling wetenschap gehad heeft of had moeten hebben van het plegen van de misdrijven. De IND spreekt dan van een ‘significante uitzondering’.
 
 ### C5. Verblijfsvergunning asiel voor onbepaalde tijd
 
@@ -4115,19 +4115,19 @@ Als de vreemdeling bij het plegen van misdrijven als bedoeld in artikel 1F Vluch
 
 ### 7.10.2.5. Persoonlijke vrijwaren van verantwoordelijkheid
 
-De IND verleent op grond van de [artikelen 3.77](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=3.77) en [3.107 Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=3.107) geen verblijfsvergunning asiel voor bepaalde tijd aan gezinsleden van een vreemdeling van wie de aanvraag voor een verblijfsvergunning asiel voor bepaalde tijd is afgewezen op grond van artikel 1F Vluchtelingenverdrag. Dit geldt niet wanneer deze gezinsleden op zelfstandige gronden in aanmerking komen voor een verblijfsvergunning asiel voor bepaalde tijd op grond van [artikel 29, eerste lid, aanhef en onder a of b, Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=29).
+De IND neemt disproportionaliteit aan indien de vreemdeling aantoont dat hij zich in een uitzonderlijke situatie bevindt.
 
-De IND verstaat hieronder de vreemdeling die, anders dan onder [artikel 30b, eerste lid, onder j, Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=30b), op een eerder moment op grond van de openbare orde of nationale veiligheid de toegang tot Nederland (en daarmee het Schengengebied) is geweigerd en derhalve, zonder dat het gepleegde feit heeft geleid tot een inreisverbod of ongewenstverklaring zoals bedoeld in [artikel 66a Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=66a) of [artikel 67 Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=67), is uitgezet naar het land van herkomst.
+De contra-indicatie artikel 1F Vluchtelingenverdrag wordt niet langer tegengeworpen aan het gezinslid van de vreemdeling aan wie artikel 1F Vluchtelingenverdrag is tegengeworpen als aan alle volgende voorwaarden wordt voldaan:
 
 ### 8. Buiten behandeling stellen
 
 Hierbij kan gedacht worden aan het niet reageren op nadere (schriftelijke) vragen.
 
-Bij het beoordelen van de toerekenbaarheid betrekt de IND of de vreemdeling een geldige reden heeft voor het niet verschijnen of zonder toestemming (tijdelijk) vertrekken.
+De IND kan een aanvraag op alle momenten na de indiening daarvan buiten behandeling stellen, indien:
 
 ### 9. Nadere bepalingen over de verblijfsvergunning asiel voor bepaalde tijd
 
-Bij het beoordelen van de toerekenbaarheid betrekt de IND of de vreemdeling een geldige reden heeft voor het niet verschijnen of zonder toestemming (tijdelijk) vertrekken.
+Hierbij kan gedacht worden aan het niet reageren op nadere (schriftelijke) vragen.
 
 ### 9. Nadere bepalingen over de verblijfsvergunning asiel voor bepaalde tijd
 
@@ -4135,17 +4135,17 @@ Bij het beoordelen van de toerekenbaarheid betrekt de IND of de vreemdeling een 
 
 ### 10. Verlenging en intrekking verblijfsvergunning asiel voor bepaalde tijd
 
-Met het intrekken of niet-verlengen van de verblijfsvergunning asiel voor bepaalde tijd van de vreemdeling op grond van artikel 32, beoordeelt de IND de situatie zoals die zou zijn geweest als de juiste gegevens op het moment van aanvraag tot een verblijfsvergunning asiel voor bepaalde tijd bekend zouden zijn geweest.
+De vreemdeling kan een aanvraag indienen tot het vervangen of vernieuwen van het verblijfsdocument waaruit zijn rechtmatig verblijf blijkt om redenen als genoemd in [artikel 4.22 Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=4.22). De vreemdeling dient de aanvraag in bij een door de IND opgegeven postadres dat de IND via zijn website of het aanvraagformulier kenbaar maakt. De IND maakt op zijn website of op het aanvraagformulier eveneens kenbaar op welke wijze de vreemdeling de leges moet betalen. De vreemdeling dient de aanvraag in met het vereiste aanvraagformulier, dat bij de IND verkrijgbaar is.
 
 Als de IND vaststelt dat een houder van een verblijfsvergunning asiel voor bepaalde tijd onjuiste gegevens heeft verstrekt of dat over hem door een ander onjuiste gegevens zijn verstrekt, beoordeelt de IND of de vreemdeling op grond van alle beschikbare en geloofwaardige gegevens op grond van [artikel 29, eerste en tweede lid, Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=29) in het bezit moet blijven van een verblijfsvergunning asiel voor bepaalde tijd.
 
 ### 10.2. Artikel 1F Vluchtelingenverdrag blijkt alsnog van toepassing
 
-De IND brengt geen voornemen uit tot intrekking of weigering van verlenging van de geldigheidsduur van de verblijfsvergunning asiel voor bepaalde tijd op grond van de vaststelling dat artikel 1F Vluchtelingenverdrag juncto [artikel 31, tweede lid, onder k Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=31) van toepassing is, voordat de vreemdeling in de gelegenheid is gesteld tijdens een gehoor op deze vaststelling te reageren. Dit gehoor wordt uitgevoerd door een ambtenaar van de IND, die gespecialiseerd is in de materie van artikel 1F Vluchtelingenverdrag.
+Als de IND ambtshalve geen verblijfsvergunning regulier voor bepaalde tijd verleent, beoordeelt de IND op grond van [artikel 6.1e Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=6.1e) ambtshalve, of de vreemdeling in aanmerking komt voor uitstel van vertrek op grond van [artikel 64 Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=64) (zie verder paragraaf C1/3 Vc onder het kopje **ambtshalve toets**), met dien verstande dat in dat geval de ambtshalve beoordeling uitsluitend plaatsvindt indien de vreemdeling de voor die beoordeling relevante medische gegevens en overige bescheiden heeft overgelegd.
 
 Paragraaf C2/10.1 Vc onder het kopje **ambtshalve toets** is van overeenkomstige toepassing.
 
-Als de IND een verblijfsvergunning asiel voor bepaalde tijd intrekt op grond van [artikel 32, eerste lid, aanhef en onder b Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=32), wordt de verblijfsvergunning ingetrokken met terugwerkende kracht tot aan de pleegdatum van het misdrijf.
+De IND brengt geen voornemen uit tot intrekking of weigering van verlenging van de geldigheidsduur van de verblijfsvergunning asiel voor bepaalde tijd op grond van de vaststelling dat artikel 1F Vluchtelingenverdrag juncto [artikel 31, tweede lid, onder k Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=31) van toepassing is, voordat de vreemdeling in de gelegenheid is gesteld tijdens een gehoor op deze vaststelling te reageren. Dit gehoor wordt uitgevoerd door een ambtenaar van de IND, die gespecialiseerd is in de materie van artikel 1F Vluchtelingenverdrag.
 
 ### 10.3. Gevaar voor de openbare orde of de nationale veiligheid
 
@@ -4153,19 +4153,19 @@ Een omstandigheid die tot de conclusie kan leiden dat de hiervoor bedoelde vreem
 
 ### 3. Afwijzingsgronden verblijfsvergunning asiel voor onbepaalde tijd
 
-In C2/7.10.1 Vc is uitgewerkt wanneer sprake is van een ernstig misdrijf zoals bedoeld in artikel 3.105f, tweede lid onder b, Vb. In aanvulling op het vorenstaande is ook is sprake van een ernstig misdrijf als het onvoorwaardelijk ten uitvoer te leggen gedeelte van de straffen of maatregelen in totaal de norm genoemd in de glijdende schaal van artikel 3.86 Vb is en het totaal van de straffen of maatregelen ten minste 18 maanden bedraagt.
+In C2/7.10.1 Vc is uitgewerkt wanneer sprake is van een bijzonder ernstig misdrijf zoals bedoeld in[artikel 3.105c, tweede lid, onder b, Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=3.105c). In aanvulling op het vorenstaande is ook sprake van een bijzonder ernstig misdrijf als het onvoorwaardelijk ten uitvoer te leggen gedeelte van de straffen of maatregelen in totaal de norm genoemd in de glijdende schaal van [artikel 3.86 Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=3.86) is en het totaal van de straffen of maatregelen ten minste 10 maanden bedraagt.
 
 ### 1. Landgebonden asielbeleid algemeen
 
-Artikel 3.86 Vb is van toepassing.
+Internationale instrumenten zoals bedoeld in [artikel 3.105f, tweede lid onder a Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=3.105f) zijn onder andere:
 
 ### 4. Intrekking verblijfsvergunning asiel voor onbepaalde tijd
 
-In afwijking van vorenstaande trekt de IND de verblijfsvergunning asiel voor bepaalde tijd verleend op grond van artikel 29, tweede lid, Vw wel in op grond van artikel 32, eerste lid, aanhef en onder b Vw, als de verblijfsvergunning op grond van artikel 28, eerste lid, onder d Vw, ambtshalve is verleend. Als de vreemdeling meent dat hij in zijn land van herkomst een risico loopt op vervolging of een risico loopt op schending van artikel 3 EVRM, dan kan hij daartoe een aanvraag voor een verblijfsvergunning asiel voor bepaalde tijd indienen.
+[Artikel 3.86, eerste tot en met elfde lid, Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=3.86) is van toepassing, voor zover de daarin opgenomen strafmaat de norm van C1/2.3 overstijgt.
 
 ### C6. Verdrag inzake de verantwoordelijkheid voor vluchtelingen
 
-[Paragraaf B1/4.4](onbekend) Vc (‘nationale veiligheid’) is van overeenkomstige toepassing.
+De IND trekt de verblijfsvergunning asiel voor bepaalde tijd verleend op grond van [artikel 29, tweede lid, Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=29) niet in op grond van [artikel 32, eerste lid, aanhef en onder b Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=32) als:
 
 ### 10.4. De grond voor verlening is komen te vervallen
 
@@ -4175,17 +4175,17 @@ In afwijking van vorenstaande trekt de IND de verblijfsvergunning asiel voor bep
 
 ### 2.1. Besluitmoratorium
 
-Als de IND vaststelt dat een vreemdeling die in het bezit is van een verblijfsvergunning asiel op grond van artikel 29, eerste lid, aanhef en onder a of b, Vw uit vrije wil is teruggekeerd naar zijn land van herkomst, nodigt de IND de vreemdeling uit om tijdens een gehoor uitleg te geven over de reden, bestemming, duur en verloop van zijn reis. Het is aan de vreemdeling om aannemelijk te maken dat hij ondanks zijn terugkeer naar het land van herkomst nog steeds in aanmerking komt voor een verblijfsvergunning asiel.
+De IND neemt aan dat de vreemdeling die geconfronteerd is met een dergelijke wandaad zich in een positie bevindt dat hij niet terug kan keren naar zijn land van herkomst als de daders van de wandaad ongestraft blijven in het land van herkomst. De IND beoordeelt hiertoe naar de huidige situatie of daders van de wandaad in het algemeen worden bestraft in het land van herkomst.
 
 ### 2.4.5. Alleenstaande vrouwen
 
-Als de DT&V het verzoek om de vreemdeling niet uit te zetten honoreert, heft de DT&V de eventuele vreemdelingenbewaring van de vreemdeling op.
+De DT&V moet nagaan of er omstandigheden zijn die aanleiding vormen het verzoek te honoreren.
 
 Deze beleidsregels zijn een aanvulling op of een uitwerking van [artikel 43](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=43), [45, vierde en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=45), [71, lid 2](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=71), en [artikel 82, lid 2, Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=82).
 
-### 2. Besluitmoratorium
+### 1. Inleiding
 
-In [artikel 43 Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=43) staan de redenen vermeld op grond waarvan de Minister kan besluiten een besluitmoratorium in te stellen voor bepaalde categorieën vreemdelingen. Indien het besluitmoratorium is ingegeven door de situatie in het land van herkomst, houdt het moratorium in dat voor de in het besluit genoemde categorieën vreemdelingen geen inhoudelijke beslissingen worden genomen. De Minister publiceert het besluit tot instelling van een besluitmoratorium in de Staatscourant. Het besluit van de Minister geeft in ieder geval aan:
+In dit hoofdstuk zijn beleidsregels opgenomen in die gelden bij toepassing van:
 
 ### 2. Besluitmoratorium
 
@@ -4193,55 +4193,55 @@ De IND neemt ondanks het besluitmoratorium in ieder geval een beslissing op de a
 
 ### 3. Vertrekmoratorium
 
-Aantoonbaar vertrek uit Nederland kan in ieder geval blijken uit de volgende situaties:
+De IND verstrekt een document W2, met een inlegvel, voorzien van een sticker ‘Verblijfsaantekeningen Algemeen’ aan de vreemdeling.
 
 ### 1. Inleiding
 
-In dit hoofdstuk zijn beleidsregels opgenomen, die gelden:
+De vreemdeling, die meent in aanmerking te komen voor tijdelijke bescherming conform [richtlijn 2001/55](32001L0055), meldt zich bij een AC met het verzoek om onder de werking van het vertrekmoratorium te worden gebracht. De IND stelt vast of de vreemdeling onder de regeling van tijdelijk bescherming valt. De vreemdeling heeft het recht op opvang zolang de tijdelijke bescherming van kracht is. Voor de beleidsregels met betrekking tot tijdelijke bescherming wordt verwezen naar hoofdstuk C3 Vc.
 
 De verblijfsvergunning asiel voor onbepaalde tijd krijgt als ingangsdatum de datum dat de IND de aanvraag heeft ontvangen, uitsluitend als:
 
 ### 3.5.1. Bescherming door autoriteiten en/of internationale organisaties in de zin van paragraaf C2/6 Vc
 
-Als de vreemdeling meer dan zes maanden na het verstrijken van de geldigheidsduur van de verblijfsvergunning asiel voor bepaalde tijd meent voor verblijf in aanmerking te komen, moet hij een aanvraag om een verblijfsvergunning asiel voor bepaalde tijd indienen.
+De vreemdeling moet de aanvraag tot een verblijfsvergunning asiel voor onbepaalde tijd indienen voor de geldigheidsduur van zijn verblijfsvergunning asiel voor bepaalde tijd afloopt. Indien de vreemdeling in aanmerking komt voor een verblijfsvergunning asiel voor onbepaalde tijd, dan geldt de dag na het verstrijken van de geldigheidsduur van de verblijfsvergunning asiel voor bepaalde tijd als ingangsdatum van de verblijfsvergunning asiel voor onbepaalde tijd, enkel voor zover:
 
 ### 3.5.2. Vlucht- en vestigingsalternatief in de zin van paragraaf C2/6 Vc
 
-De IND verleent direct een verblijfsvergunning asiel voor onbepaalde tijd op grond van een aanvraag om een verblijfsvergunning asiel voor bepaalde tijd aan de vreemdeling als aan alle volgende voorwaarden is voldaan:
+De IND beoordeelt of de vertraging bij het indienen van de aanvraag tot een verblijfsvergunning asiel voor onbepaalde tijd aan de vreemdeling is toe te rekenen.
 
 ### 3.6. Adequate opvang alleenstaande minderjarige vreemdelingen
 
-### 2. Europese Overeenkomst inzake de overdracht van verantwoordelijkheid met betrekking tot vluchtelingen
+### C6. Verdrag inzake de verantwoordelijkheid voor vluchtelingen
 
 Een staat die partij is bij de Europese Overeenkomst inzake de overdracht van verantwoordelijkheid met betrekking tot vluchtelingen (Trb 1982, 24) kan Nederland informeren dat die staat de verantwoordelijkheid van de vluchtelingenstatus heeft overgenomen en de vreemdeling zich in die staat kan vestigen.
 
 ### 2. Europese Overeenkomst inzake de overdracht van verantwoordelijkheid met betrekking tot vluchtelingen
 
-### 1. Landgebonden asielbeleid algemeen
+### C7. Landgebonden beleid
 
-De IND neemt in de regel ten aanzien van de volgende categorieën vreemdelingen ‘personal and knowing participation’ in de zin van paragraaf C2/7.10.1 Vc aan:
+Geen bijzonderheden.
 
-De IND merkt voor Afghanistan uitsluitend de volgende categorieën vreemdelingen aan als risicogroep:
+Geen bijzonderheden.
 
 ### 2.4.4. Individuele kenmerken
 
-De IND verleent een verblijfsvergunning asiel voor bepaalde tijd op grond van [artikel 29, eerste lid, aanhef en onder b, Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=29) aan de Afghaanse vreemdeling, die aannemelijk heeft gemaakt te vrezen voor eerwraak of bloedwraak, als uit de verklaringen van de vreemdeling is gebleken dat een niet-gewelddadige oplossing onmogelijk is.
+De IND verleent op grond van de beleidsregels over kwetsbare minderheidsgroepen in Afghanistan uitsluitend een verblijfsvergunning asiel voor bepaalde tijd op grond van [artikel 29, eerste lid, aanhef en onder b, Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=29) aan de vreemdeling die zich in Nederland heeft bekeerd, als de vreemdeling in Afghanistan problemen heeft ondervonden om andere redenen dan de nieuwe religie.
 
-De IND merkt de gezinsband in elk geval aan als verbroken, als:
-
-### 2.5.1. Bescherming door autoriteiten en/of internationale organisaties in de zin van paragraaf C2/3.4 Vc
-
-De IND beoordeelt bij elke vreemdeling individueel de mogelijkheid om de bescherming te verkrijgen. De IND neemt uitsluitend voor Afghaanse vreemdelingen afkomstig uit Kaboel aan dat het mogelijk is de bescherming te verkrijgen van de autoriteiten.
+De IND merkt een Afghaanse vrouw aan als alleenstaand als zij voldoet aan alle volgende voorwaarden:
 
 ### 2.5.1. Bescherming door autoriteiten en/of internationale organisaties in de zin van paragraaf C2/3.4 Vc
+
+Uitzondering op de regel dat een alleenstaande Afghaanse vrouw bij terugkeer een reëel risico loopt, betreft vrouwen ten aanzien van wie het evident is dat de bescherming op grond van haar status van alleenstaande niet nodig is.
+
+### 2.5. Bescherming
 
 De IND beoordeelt bij elke vreemdeling individueel de mogelijkheid om de bescherming te verkrijgen. De IND neemt uitsluitend voor Afghaanse vreemdelingen afkomstig uit Kaboel aan dat het mogelijk is de bescherming te verkrijgen van de autoriteiten.
 
 ### 2.5.2. Vlucht- en vestigingsalternatief in de zin van paragraaf C2/3.4 Vc
 
-Geen bijzonderheden.
+De IND beoordeelt aan de hand van [paragraaf B8/6](onbekend) Vc of adequate opvang voor amv’s aanwezig is.
 
-### 3.3.2. Risicogroepen in de zin van paragraaf C2/3.2 Vc
+### 3.3. Vervolging in de zin van het Vluchtelingenverdrag
 
 Geen bijzonderheden.
 
@@ -4249,15 +4249,19 @@ Geen bijzonderheden.
 
 ### 3.4.3. Kwetsbare minderheidsgroepen in de zin van paragraaf C2/3.3 Vc
 
-### 3.5.2. Vlucht- en vestigingsalternatief in de zin van paragraaf C2/3.4 Vc
+### 3.5. Bescherming
+
+Geen bijzonderheden.
+
+In Angola is adequate opvang in de zin van [paragraaf B8/6](onbekend) Vc.
+
+### 4.3.1. Groepsvervolging in de zin van paragraaf C2/3.2 Vc
 
 Geen bijzonderheden.
 
 Geen bijzonderheden.
 
-### 4.3.2. Risicogroepen in de zin van paragraaf C2/3.2 Vc
-
-Geen bijzonderheden.
+### 4.4.2. Systematische blootstelling in de zin van paragraaf C2/3.3 Vc
 
 Geen bijzonderheden.
 
@@ -4265,39 +4269,31 @@ Geen bijzonderheden.
 
 Geen bijzonderheden.
 
-### 4.5.1. Bescherming door autoriteiten en/of internationale organisaties in de zin van paragraaf C2/3.4 Vc
-
 Geen bijzonderheden.
-
-In Armenië is adequate opvang in de zin van [paragraaf B8/6](onbekend) Vc.
 
 Geen bijzonderheden.
 
 ### 5.4.3. Kwetsbare minderheidsgroepen in de zin van paragraaf C2/3.3 Vc
 
-### 5.5. Bescherming
+### 5.4.4. Bijzonderheden
 
-De IND verleent uitsluitend een verblijfsvergunning asiel voor bepaalde tijd als de vreemdeling tevens voldoet aan alle volgende voorwaarden:
+De IND kan een verblijfsvergunning asiel voor bepaalde tijd verlenen als de vreemdeling voldoet aan in ieder geval één van de volgende voorwaarden:
 
-De IND neemt in ieder geval aan dat een vlucht- of vestigingsalternatief aanwezig is in Nagorny Karabach voor:
+Bovenstaande beleidsregels gelden ook voor kinderen uit gemengde huwelijken of duurzame relaties. Als het kind verblijft in een gescheiden gezin, toetst de IND de situatie van het kind aan de hand van de bevolkingsgroep van de ouder, bij wie het kind verblijft.
 
-### 6.3.2. Risicogroepen in de zin van paragraaf C2/3.2 Vc
+### 6.3. Vervolging in de zin van het Vluchtelingenverdrag
 
-### 6.4.2. Systematische blootstelling in de zin van paragraaf C2/3.3 Vc
-
-Geen bijzonderheden.
+### 6.4. Ernstige schade in de zin van artikel 29, eerste lid, onder b, Vw
 
 Geen bijzonderheden.
 
-### 6.5.1. Bescherming door autoriteiten en/of internationale organisaties in de zin van paragraaf C2/4.3 Vc
+Geen bijzonderheden.
+
+### 6.4.3. Kwetsbare minderheidsgroepen in de zin van paragraaf C2/3.3 Vc
 
 Geen bijzonderheden.
 
-### 6.6. Adequate opvang alleenstaande minderjarige vreemdelingen
-
-In Bosnië en Herzegovina is adequate opvang in de zin van [paragraaf B8/6](onbekend) Vc.
-
-### 7. Het asielbeleid ten aanzien van Burundi
+### 6.5.2. Vlucht- en vestigingsalternatief in de zin van paragraaf C2/3.4 Vc
 
 Geen bijzonderheden.
 
@@ -4305,21 +4301,25 @@ Geen bijzonderheden.
 
 Geen bijzonderheden.
 
-### 7.2. Artikel 1F Vluchtelingenverdrag
+### 7. Het asielbeleid ten aanzien van Burundi
+
+Geen bijzonderheden.
+
+### 7.1. Besluitmoratorium
 
 ### 7.3. Vervolging in de zin van het Vluchtelingenverdrag
 
-### 7.3.2. Risicogroepen in de zin van paragraaf C2/3.2 Vc
+### 7.3.1. Groepsvervolging in de zin van paragraaf C2/3.2 Vc
 
 Geen bijzonderheden.
 
-### 7.4.2. Systematische blootstelling in de zin van paragraaf C2/3.3 Vc
+### 7.4.1. Uitzonderlijke situatie in de zin van paragraaf C2/3.3 Vc
 
 Geen bijzonderheden.
 
 Geen bijzonderheden.
 
-### 7.5.1. Bescherming door autoriteiten en/of internationale organisaties in de zin van paragraaf C2/3.4 Vc
+### 7.4.3. Kwetsbare minderheidsgroepen in de zin van paragraaf C2/3.3 Vc
 
 ### 8. Het asielbeleid ten aanzien van China
 
@@ -4329,7 +4329,7 @@ Ten aanzien van Oeigoeren afkomstig uit China geldt een besluit in de zin van [a
 
 Geen bijzonderheden.
 
-### 8.3.2. Risicogroepen in de zin van paragraaf C2/3.2 Vc
+### 8.3.1. Groepsvervolging in de zin van paragraaf C2/3.2 Vc
 
 Geen bijzonderheden.
 
@@ -4337,49 +4337,49 @@ Tibetanen kunnen te maken hebben met repressie in China, als zij:
 
 ### 8.4.1. Uitzonderlijke situatie in de zin van paragraaf C2/3.3 Vc
 
-Geen bijzonderheden.
+De IND verleent een verblijfsvergunning asiel voor bepaalde tijd op grond van [artikel 29, eerste lid, aanhef en onder a, Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=29) aan de vreemdeling uit Tibet die aannemelijk maakt dat hij tot een of meerdere van deze groepen behoort.
+
+### 8.4. Ernstige schade in de zin van [artikel 29, eerste lid, onder b, Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=29)
 
 ### 8.4.2. Systematische blootstelling in de zin van paragraaf C2/3.3 Vc
+
+Geen bijzonderheden.
 
 ### 8.4.3. Kwetsbare minderheidsgroepen in de zin van paragraaf C2/3.3 Vc
 
 Geen bijzonderheden.
 
-### 8.4.4. Vreemdelingen die illegaal China zijn uitgereisd
-
-De IND verleent een verblijfsvergunning asiel voor bepaalde tijd op grond van [artikel 29, eerste lid, aanhef en onder b, Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=29) aan de vreemdeling uit Tibet die aannemelijk heeft gemaakt dat hij illegaal China is uitgereisd.
-
 Geen bijzonderheden.
 
-### 8.5.2. Vlucht- en vestigingsalternatief in de zin van paragraaf C2/3.4 Vc
+### 8.5.1. Bescherming door autoriteiten en/of internationale organisaties in de zin van paragraaf C2/3.4 Vc
 
 Geen bijzonderheden.
 
 Geen bijzonderheden.
 
-### 9.3.1. Groepsvervolging in de zin van paragraaf C2/3.2 Vc
+### 9.2. Artikel 1F Vluchtelingenverdrag
 
-### 9.4.2. Systematische blootstelling in de zin van paragraaf C2/3.3 Vc
-
-Geen bijzonderheden.
+### 9.4. Ernstige schade in de zin van artikel 29, eerste lid, onder b, Vw
 
 Geen bijzonderheden.
 
-### 9.5.2. Vlucht- en vestigingsalternatief in de zin van paragraaf C2/3.4 Vc
+Geen bijzonderheden.
+
+### 9.5. Bescherming
 
 De IND neemt aan dat in Colombia geen vlucht- of vestigingsalternatief aanwezig is.
 
-Voor Colombia geldt in ieder geval dat:
+De IND neemt aan dat in Colombia geen vlucht- of vestigingsalternatief aanwezig is.
 
-### 9.7. Vertrekmoratorium
+### 9.6. Adequate opvang alleenstaande minderjarige vreemdelingen
+
+De IND beoordeelt aan de hand van [paragraaf B8/6](onbekend) Vc of adequate opvang voor amv’s aanwezig is.
+
+### 9.8. Bijzonderheden
 
 Geen bijzonderheden.
 
-### 10.1. Besluitmoratorium
-
-Geen bijzonderheden.
-
-### 10.2. Artikel 1F Vluchtelingenverdrag
+### 10. Het asielbeleid ten aanzien van Congo DRC (Democratische Republiek Congo)
 
 ### 10.3. Vervolging in de zin van het Vluchtelingenverdrag
 
@@ -4405,7 +4405,7 @@ De IND neemt voor Congo DRC geen vlucht- of vestigingsalternatief aan, als de IN
 
 ### 10.6. Adequate opvang alleenstaande minderjarige vreemdelingen
 
-In Congo DRC is adequate opvang in de zin van [paragraaf B8/6](onbekend) Vc.
+De IND neemt voor Congo DRC een vestigingsalternatief in Kinshasa aan als de vreemdeling aan alle volgende voorwaarden voldoet:
 
 Geen bijzonderheden.
 
@@ -4439,133 +4439,133 @@ De IND verleent een verblijfsvergunning asiel voor bepaalde tijd op grond van [a
 
 ### 11.5.1. Bescherming door autoriteiten en/of internationale organisaties in de zin van paragraaf C2/3.4 Vc
 
+De IND verleent een verblijfsvergunning asiel voor bepaalde tijd op grond van [artikel 29, eerste lid, aanhef en onder b, Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=29) aan de Eritrese vreemdeling die Eritrea op legale wijze (met geldig document voor grensoverschrijding en uitreisvisum) heeft verlaten, uitsluitend als de vreemdeling individuele omstandigheden naar voren heeft gebracht die aannemelijk maken dat hij bij terugkeer wordt blootgesteld aan ernstige schade. Hiervan kan sprake zijn als de vreemdeling heeft aangetoond dat hij aanmerkelijk langer in het buitenland heeft verbleven dan was beoogd voor het doel waarvoor de Eritrese autoriteiten een uitreisvisum hebben afgegeven.
+
 De IND neemt in ieder geval voor de volgende categorieën aan dat het niet mogelijk is de bescherming te verkrijgen van de autoriteiten of internationale organisaties:
 
+### 11.5.2. Vlucht- en vestigingsalternatief in de zin van paragraaf C2/3.4 Vc
+
 De IND neemt aan dat geen vlucht- en vestigingsalternatief in Eritrea aanwezig is voor vrouwen die aannemelijk hebben gemaakt dat zij hebben te vrezen voor genitale verminking.
-
-### 11.6. Adequate opvang alleenstaande minderjarige vreemdelingen
-
-In Eritrea is adequate opvang in de zin van [paragraaf B8/6](onbekend) Vc.
 
 ### 11.8. Bijzonderheden
 
 Gedwongen terugkeer van vreemdelingen naar Eritrea zal niet plaatsvinden. De IND neemt aan dat bij gedwongen terugkeer, zowel na legale als na illegale uitreis, een reëel risico op ernstige schade aanwezig is.
 
+### 12.1. Besluitmoratorium
+
+Geen bijzonderheden.
+
 ### 12.2. Artikel 1F Vluchtelingenverdrag
 
 Geen bijzonderheden.
 
-### 12.3.1. Groepsvervolging in de zin van paragraaf C2/3.2 Vc
+Geen bijzonderheden.
+
+### 12.3.2. Risicogroepen in de zin van paragraaf C2/3.2 Vc
 
 Geen bijzonderheden.
 
-Geen bijzonderheden.
-
-### 12.4.1. Uitzonderlijke situatie in de zin van paragraaf C2/3.3 Vc
-
-Geen bijzonderheden.
+### 12.4. Ernstige schade in de zin van artikel 29, eerste lid, onder b, Vw
 
 ### 12.4.2. Systematische blootstelling in de zin van paragraaf C2/3.3 Vc
+
+Geen bijzonderheden.
 
 ### 12.4.3. Kwetsbare minderheidsgroepen in de zin van paragraaf C2/3.3 Vc
 
 Geen bijzonderheden.
 
-### 12.5.1. Bescherming door autoriteiten en/of internationale organisaties in de zin van paragraaf C2/3.4 Vc
-
 De IND neemt in ieder geval voor de volgende categorieën aan dat het niet mogelijk is de bescherming van de autoriteiten of internationale organisaties te verkrijgen:
 
-Geen bijzonderheden.
-
-### 12.6. Adequate opvang alleenstaande minderjarige vreemdelingen
-
-Voor Guinee geldt in ieder geval dat:
-
-### 12.8. Bijzonderheden
+### 12.5.2. Vlucht- en vestigingsalternatief in de zin van paragraaf C2/3.4 Vc
 
 Geen bijzonderheden.
+
+### 12.7. Vertrekmoratorium
+
+Geen bijzonderheden.
+
+### 13.1. Besluitmoratorium
+
+Ten aanzien van Irak geldt geen besluit in de zin van [artikel 43, eerste lid, Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=43).
 
 ### 13.2. Artikel 1F Vluchtelingenverdrag
 
-De IND neemt in de regel ten aanzien van de volgende categorieën ‘personal and knowing participation’ in de zin van paragraaf C2/7.10.1 Vc aan:
-
-### 13.3.1. Groepsvervolging in de zin van paragraaf C2/3.2 Vc
+De IND neemt in de regel in ieder geval ten aanzien van de volgende categorieën ‘personal and knowing participation’ in de zin van paragraaf C2/7.10.1 Vc aan:
 
 De IND merkt Iraakse LHBT’s aan als groep die systematisch wordt blootgesteld aan vervolging in de zin van artikel 1A Vluchtelingenverdrag.
 
+### 13.3.2. Risicogroepen in de zin van paragraaf C2/3.2 Vc
+
 Geen bijzonderheden.
 
-### 13.4.1. Uitzonderlijke situatie in de zin van paragraaf C2/3.3 Vc
-
-De IND wijst uitsluitend de volgende gebieden in Irak aan als gebieden waarin sprake is van een uitzonderlijke situatie zoals bedoeld in [artikel 29, eerste lid, onder b Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=29):
-
-### 13.4.2. Systematische blootstelling in de zin van paragraaf C2/3.3 Vc
+### 13.4. Ernstige schade in de zin van [artikel 29, eerste lid, onder b, Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=29)
 
 Geen bijzonderheden.
 
 ### 13.4.3. Kwetsbare minderheidsgroepen in de zin van paragraaf C2/3.3 Vc
 
-Uitzondering op de regel dat een alleenstaande vrouw bij terugkeer een reëel risico loopt, betreft vrouwen ten aanzien van wie het evident is dat bescherming op grond van haar alleenstaande status niet nodig is.
+De IND merkt de gezinsband in elk geval aan als verbroken, als:
 
 ### 13.5. Bescherming
 
 De IND neemt aan dat het mogelijk is voor vreemdelingen afkomstig uit de Koerdische Autonome Regio (KAR) de bescherming te verkrijgen van de autoriteiten of internationale organisaties.
 
-### 13.6. Adequate opvang alleenstaande minderjarige vreemdelingen
+### 13.5.2. Vlucht- en vestigingsalternatief in de zin van paragraaf C2/3.4 Vc
 
-De IND neemt aan dat, in beginsel, in ieder geval voor de volgende categorieën Iraakse asielzoekers afkomstig uit een van de gebieden genoemd in paragraaf C7/13.4.1 Vc geen sprake is van een binnenlands vlucht- of vestigingsalternatief in andere delen van Irak:
+De IND beoordeelt of sprake is van concrete aanknopingspunten op basis waarvan in individuele gevallen geconcludeerd kan worden dat de persoon zich buiten het gebied van herkomst, bijvoorbeeld in de stad Bagdad, kan vestigen.
 
 ### 13.8. Bijzonderheden
 
-De IND merkt Fayli-Koerden van wie de Iraakse nationaliteit is ontnomen tijdens het regime van Saddam Hoessein, niet aan als staatloos. De IND neemt aan dat zij de Iraakse nationaliteit hebben.
+Voor Irak geldt in ieder geval dat:
 
-### 14. Het asielbeleid ten aanzien van Iran
-
-Geen bijzonderheden.
+### 13.7. Vertrekmoratorium
 
 Geen bijzonderheden.
 
-### 14.3. Vervolging in de zin van het Vluchtelingenverdrag
+Geen bijzonderheden.
 
-De IND beschouwt de volgende groepen als groepen die systematisch worden blootgesteld aan vervolging in de zin van artikel 1A Vluchtelingenverdrag:
+### 14.1. Besluitmoratorium
+
+Geen bijzonderheden.
+
+### 14.2. Artikel 1F Vluchtelingenverdrag
 
 ### 14.3.1. Groepsvervolging in de zin van paragraaf C2/3.2 Vc
 
-### 14.3.3. LHBT’s
+De IND beschouwt de volgende groepen als groepen die systematisch worden blootgesteld aan vervolging in de zin van artikel 1A Vluchtelingenverdrag:
 
-Voor wat betreft sub a ziet dit op christenen die niet reeds vallen onder de in paragraaf 14.3.1. genoemde groepen.
+### 14.3.2. Risicogroepen in de zin van paragraaf C2/3.2 Vc
 
-### 14.3.3. LHBT’s
+De IND merkt de volgende groepen aan tot risicogroepen:
 
 De IND verleent een verblijfsvergunning asiel voor bepaalde tijd op grond van [artikel 29, eerste lid, aanhef en onder a, Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=29) aan Iraanse LHBT’s, tenzij uit het individuele asielrelaas blijkt dat de vreemdeling niet zal worden blootgesteld aan vervolging.
 
-Geen bijzonderheden.
-
-### 14.4.2. Systematische blootstelling in de zin van paragraaf C2/3.3 Vc
+### 14.4. Ernstige schade in de zin van [artikel 29, eerste lid, onder b, Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=29)
 
 Geen bijzonderheden.
 
-### 14.5.1. Bescherming door autoriteiten en/of internationale organisaties in de zin van paragraaf C2/6 Vc
+### 14.4.3. Kwetsbare minderheidsgroepen in de zin van paragraaf C2/3.3 Vc
 
 Geen bijzonderheden.
 
-### 14.7. Vertrekmoratorium
+### 14.5.2. Vlucht- en vestigingsalternatief in de zin van paragraaf C2/6 Vc
 
-Voor Iran geldt in ieder geval dat:
+Geen bijzonderheden.
 
-### 14.7. Vertrekmoratorium
+### 14.6. Adequate opvang alleenstaande minderjarige vreemdelingen
+
+De IND beoordeelt aan de hand van [paragraaf B8/6 Vc](onbekend) of adequate opvang voor amv’s aanwezig is.
+
+Geen bijzonderheden.
+
+### 14.8. Bijzonderheden
 
 Geen bijzonderheden.
 
 Geen bijzonderheden.
 
-### 15.1. Besluitmoratorium
-
-Geen bijzonderheden.
-
-Geen bijzonderheden.
-
-### 15.4.3. Kwetsbare minderheidsgroepen in de zin van paragraaf C2/3.3 Vc
+### 15.4.1. Uitzonderlijke situatie in de zin van paragraaf C2/3.3 Vc
 
 Geen bijzonderheden.
 
@@ -4579,7 +4579,7 @@ De IND beoordeelt aan de hand van [paragraaf B8/6 Vc](onbekend) of adequate opva
 
 ### 15.8. Bijzonderheden
 
-Geen bijzonderheden.
+Voor Ivoorkust geldt in ieder geval dat:
 
 Geen bijzonderheden.
 
@@ -4593,33 +4593,33 @@ Geen bijzonderheden.
 
 Geen bijzonderheden.
 
-### 16.5.2. Vlucht- en vestigingsalternatief in de zin van paragraaf C2/6 Vc
+### 16.5. Bescherming
 
 Geen bijzonderheden.
 
-### 16.8. Bijzonderheden
+### 16.6. Adequate opvang alleenstaande minderjarige vreemdelingen
+
+De IND beoordeelt aan de hand van [paragraaf B8/6 Vc](onbekend) of adequate opvang voor amv’s aanwezig is.
+
+### 16.7. Vertrekmoratorium
+
+Ten aanzien van Jemen geldt een besluit in de zin van [artikel 45, vierde lid, Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=45).
 
 Geen bijzonderheden.
 
-### 17. Het asielbeleid ten aanzien van Libië
+### 17.1. Besluitmoratorium
 
 Geen bijzonderheden.
 
-Geen bijzonderheden.
-
-### 17.3. Vervolging in de zin van het Vluchtelingenverdrag
-
-Geen bijzonderheden.
+### 17.2. Artikel 1F Vluchtelingenverdrag
 
 ### 17.3.1. Groepsvervolging in de zin van paragraaf C2/3.2 Vc
 
-### 17.4. Ernstige schade in de zin van artikel 29, eerste lid, onder b, Vw
+Geen bijzonderheden.
 
-De IND beschouwt in ieder geval als stammen waarvan bekend is dat zij loyaal waren aan het bewind van Gadaffi:
+### 17.3.2. Risicogroepen in de zin van paragraaf C2/3.2 Vc
 
-### 17.4. Ernstige schade in de zin van artikel 29, eerste lid, onder b, Vw
-
-De IND beschouwt in ieder geval als stammen waarvan bekend is dat zij loyaal waren aan het bewind van Gadaffi:
+De IND merkt voor Libië uitsluitend de volgende risicogroepen aan:
 
 Geen bijzonderheden.
 
@@ -4627,13 +4627,13 @@ Geen bijzonderheden.
 
 De IND merkt uitsluitend LHBT’s aan als kwetsbare minderheidsgroep.
 
-### 17.5.2. Vlucht- en vestigingsalternatief in de zin van paragraaf C2/3.4 Vc
+### 17.5. Bescherming
 
 De IND neemt aan dat geen vlucht- of vestigingsalternatief in Libië aanwezig is voor de volgende categorieën:
 
-### 17.7. Vertrekmoratorium
+### 17.6. Adequate opvang alleenstaande minderjarige vreemdelingen
 
-Geen bijzonderheden.
+De IND beoordeelt aan de hand van [paragraaf B8/6](onbekend) Vc of adequate opvang voor amv’s aanwezig is.
 
 ### 17.8. Bijzonderheden
 
@@ -4641,11 +4641,11 @@ Geen bijzonderheden.
 
 Geen bijzonderheden.
 
-### 18.2. Artikel 1F Vluchtelingenverdrag
+### 18. Het asielbeleid ten aanzien van Mongolië
 
 ### 18.3. Vervolging in de zin van het Vluchtelingenverdrag
 
-### 18.3.2. Risicogroepen in de zin van paragraaf C2/3.2 Vc
+### 18.3. Vervolging in de zin van het Vluchtelingenverdrag
 
 Geen bijzonderheden.
 
@@ -4665,13 +4665,13 @@ Geen bijzonderheden.
 
 In Mongolië is adequate opvang in de zin van [paragraaf B8/6](onbekend) Vc.
 
+### 18.7. Vertrekmoratorium
+
+### 18.8. Bijzonderheden
+
 ### 19. Het asielbeleid ten aanzien van Nepal
 
-### 19.1. Besluitmoratorium
-
-### 19.2. Artikel 1F Vluchtelingenverdrag
-
-### 19.3.2. Risicogroepen in de zin van paragraaf C2/3.2 Vc
+### 19.3. Vervolging in de zin van het Vluchtelingenverdrag
 
 Geen bijzonderheden.
 
@@ -4679,55 +4679,55 @@ Geen bijzonderheden.
 
 ### 19.4.3. Kwetsbare minderheidsgroepen in de zin van paragraaf C2/3.3 Vc
 
+### 19.6. Adequate opvang alleenstaande minderjarige vreemdelingen
+
 ### 19.7. Vertrekmoratorium
 
-### 20. Het asielbeleid ten aanzien van Nigeria
-
 Geen bijzonderheden.
 
 Geen bijzonderheden.
 
 Geen bijzonderheden.
 
-### 20.3.1. Groepsvervolging in de zin van paragraaf C2/3.2 Vc
+### 20.2. Artikel 1F Vluchtelingenverdrag
 
 Geen bijzonderheden.
 
-### 20.4.1. Uitzonderlijke situatie in de zin van paragraaf C2/3.3 Vc
+### 20.3.2. Risicogroepen in de zin van paragraaf C2/3.2 Vc
+
+Geen bijzonderheden.
+
+### 20.4.2. Systematische blootstelling in de zin van paragraaf C2/3.3 Vc
+
+Geen bijzonderheden.
+
+### 20.4.3. Kwetsbare minderheidsgroepen in de zin van paragraaf C2/3.3 Vc
 
 Geen bijzonderheden.
 
 ### 20.5. Bescherming
 
-De IND neemt aan dat het voor vreemdelingen die aannemelijk hebben gemaakt dat zij te maken hebben met (eventueel) op de persoon gericht geweld door militante groeperingen niet mogelijk is de bescherming van de autoriteiten of internationale organisaties te verkrijgen.
-
-### 20.5.1. Bescherming door autoriteiten en/of internationale organisaties in de zin van paragraaf C2/3.4 Vc
-
-De IND neemt aan dat het voor vreemdelingen die aannemelijk hebben gemaakt dat zij te maken hebben met (eventueel) op de persoon gericht geweld door militante groeperingen niet mogelijk is de bescherming van de autoriteiten of internationale organisaties te verkrijgen.
-
-### 20.5.2. Vlucht- en vestigingsalternatief in de zin van paragraaf C2/3.4 Vc
-
-### 21.1. Besluitmoratorium
+### 20.8. Bijzonderheden
 
 Geen bijzonderheden.
 
-### 21.2. Artikel 1F Vluchtelingenverdrag
+### 21. Het asielbeleid ten aanzien van Pakistan
 
 Geen bijzonderheden.
 
 Geen bijzonderheden.
 
-### 21.3.2. Risicogroepen in de zin van C2/3.2
+### 21.3. Vervolging in de zin van het Vluchtelingenverdrag
 
 De IND merkt voor Pakistan uitsluitend de volgende categorieën als risicogroepen aan:
 
-### 21.4.2. Systematische blootstelling in de zin van C2/3.3
+### 21.4. Ernstige schade in de zin van [artikel 29, eerste lid, onder b, Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=29)
 
 Geen bijzonderheden.
 
-### 21.5.1. Bescherming door autoriteiten en/of internationale organisaties in de zin van C2/3.4 Vc
+### 21.4.3. Kwetsbare minderheidsgroepen in de zin van paragraaf C2/3.3
 
-### 21.5.2. Vlucht- en vestigingsalternatief in de zin van C2/3.4 Vc
+### 21.5. Bescherming
 
 ### 21.6. Adequate opvang alleenstaande minderjarige vreemdelingen
 
@@ -4775,19 +4775,19 @@ Geen bijzonderheden.
 
 Geen bijzonderheden.
 
-### 23.3. Vervolging in de zin van het Vluchtelingenverdrag
+### 23.1. Besluitmoratorium
 
 ### 23.3. Vervolging in de zin van het Vluchtelingenverdrag
 
 Geen bijzonderheden.
 
-### 23.4. Ernstige schade in de zin van [artikel 29, eerste lid, onder b, Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=29)
+### 23.3.1. Groepsvervolging in de zin van paragraaf C2/3.2 Vc
 
 Geen bijzonderheden.
 
 Geen bijzonderheden.
 
-### 23.4.3. Kwetsbare minderheidsgroepen in de zin van paragraaf C2/3.3 Vc
+### 23.4.1. Uitzonderlijke situatie in de zin van paragraaf C2/3.3 Vc
 
 Geen bijzonderheden.
 
@@ -4795,13 +4795,13 @@ Geen bijzonderheden.
 
 De IND neemt in ieder geval aan dat in Sierra Leone een vlucht- en vestigingsalternatief aanwezig is voor de volgende categorieën:
 
-### 23.6. Adequate opvang alleenstaande minderjarige vreemdelingen
+### 23.5.1. Bescherming door autoriteiten en/of internationale organisaties in de zin van paragraaf C2/3.4 Vc
 
 Geen bijzonderheden.
 
-Ten aanzien van Somalië geldt een besluit in de zin van [artikel 43, eerste lid, Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=43) voor vreemdelingen afkomstig uit die gebieden in Centraal- en Zuid-Somalië die onder controle staan van Al-Shabaab.
+Geen bijzonderheden.
 
-### 24.2. Artikel 1F Vluchtelingenverdrag
+### 24. Het asielbeleid ten aanzien van Somalië
 
 Geen bijzonderheden.
 
@@ -4813,15 +4813,15 @@ Geen bijzonderheden.
 
 ### 24.4. Ernstige schade in de zin van [artikel 29, eerste lid, onder b, Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=29)
 
-### 24.4.2. Systematische blootstelling in de zin van paragraaf C2/3.3 Vc
+### 24.4.1. Uitzonderlijke situatie in de zin van paragraaf C2/3.3 Vc
 
 ### 23.7. Vertrekmoratorium
 
-### 24.5. Bescherming
+### 24.4.4. Kwetsbare minderheidsgroepen in de zin van paragraaf C2/3.3 Vc
 
 ### 24.4.5. Individuele kenmerken
 
-De IND beoordeelt aan de hand van [paragraaf B8/6 Vc](onbekend) of adequate opvang voor amv’s aanwezig is.
+Voorts kan de IND een vlucht- of vestigingsalternatief aannemen als er sprake is van concrete aanknopingspunten op basis waarvan in individuele gevallen geconcludeerd kan worden dat de persoon zich buiten het gebied van herkomst kan vestigen. Hierbij betrekt de IND, naast de in [artikel 3.37d VV](https://wetten.overheid.nl/jci1.3:c:BWBR0012002&artikel=3.37d) genoemde voorwaarden die in het algemeen gelden voor het tegenwerpen van een vlucht- en vestigingsalternatief, in de individuele zaak van de vreemdeling in ieder geval de volgende aanknopingspunten:
 
 Geen bijzonderheden.
 
@@ -4829,39 +4829,39 @@ Geen bijzonderheden.
 
 Geen bijzonderheden.
 
-### 25.4.2. Systematische blootstelling in de zin van paragraaf C2/3.3 Vc
+### 25.4. Ernstige schade in de zin van [artikel 29, eerste lid, onder b, Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=29)
 
 Geen bijzonderheden.
 
 ### 25.4.3. Kwetsbare minderheidsgroepen in de zin van paragraaf C2/3.3 Vc
 
-### 25.7. Vertrekmoratorium
-
-Voor Sri Lanka geldt in ieder geval dat:
-
-### 25.7. Vertrekmoratorium
+### 25.5.2. Vlucht- en vestigingsalternatief in de zin van paragraaf C2/3.4 Vc
 
 Geen bijzonderheden.
 
-### 26.1. Besluitmoratorium
+### 25.6. Adequate opvang alleenstaande minderjarige vreemdelingen
+
+Geen bijzonderheden.
+
+### 25.8. Bijzonderheden
+
+In Sudan is sprake van een uitzonderlijke situatie als bedoeld in [artikel 29, eerste lid, onder b, Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=29) voor uitsluitend:
+
+### 26.4.3. Kwetsbare minderheidsgroepen in de zin van paragraaf C2/3.3 Vc
 
 De IND merkt uitsluitend aan als kwetsbare minderheidsgroep:
 
-### 26.5. Bescherming
+### 26.5.2. Vlucht- en vestigingsalternatief in de zin van paragraaf C2/3.4 Vc
 
-Gelet op de algemeen bekende informatie wordt er vanuit gegaan dat in ieder geval vreemdelingen behorend tot de niet-Arabische bevolkingsgroepen uit Darfur (Noord-, Oost, Zuid- en Centraal-Darfur) en vreemdeling die behoren tot de bevolkingsgroep van de Nuba door de autoriteiten gezien worden als (vermeend) aanhanger van een (gewapende) oppositiegroep.
+De IND neemt voor Sudan geen vlucht- of vestigingsalternatief aan als door hen is geconcludeerd dat de vreemdeling een gegronde vrees heeft voor vervolging dan wel ernstige schade.
+
+### 26.7. Vertrekmoratorium
+
+Dit vestigingsalternatief geldt niet voor vreemdelingen die (vermeend) aanhanger zijn van een (gewapende) oppositiegroep, tenzij uit de het individuele dossier blijkt dat de vreemdeling zich elders kan vestigen. Dit wordt in ieder geval aangenomen indien de vreemdeling minstens zes maanden zonder problemen heeft verbleven in de gebieden waar geen sprake is van een uitzonderlijke situatie.
 
 ### 26.6. Adequate opvang alleenstaande minderjarige vreemdelingen
 
-De IND neemt voor Sudan een vestigingsalternatief in een ander deel van Sudan aan als:
-
-### 26.7. Vertrekmoratorium
-
-Voor Sudan geldt in ieder geval dat:
-
-### 26.7. Vertrekmoratorium
-
-Geen bijzonderheden.
+De IND beoordeelt aan de hand van [paragraaf B8/6 Vc](onbekend) of adequate opvang voor amv’s aanwezig is.
 
 ## Bijlage
 
@@ -4875,7 +4875,7 @@ De IND merkt uitsluitend de volgende groepen aan als kwetsbare minderheidsgroep:
 
 ### 15.3. Vervolging in de zin van het Vluchtelingenverdrag
 
-### 16.3.2. Risicogroepen in de zin van paragraaf C2/3.2 Vc
+### 16.3. Vervolging in de zin van het Vluchtelingenverdrag
 
 ### 18.4. Ernstige schade in de zin van artikel 29, eerste lid, onder b, Vw
 
@@ -4883,21 +4883,21 @@ De IND merkt uitsluitend de volgende groepen aan als kwetsbare minderheidsgroep:
 
 ### 19.4. Ernstige schade in de zin van artikel 29, eerste lid, onder b, Vw
 
-### 19.4.3. Kwetsbare minderheidsgroepen in de zin van paragraaf C2/3.3 Vc
+### 19.4.1. Uitzonderlijke situatie in de zin van paragraaf C2/3.3 Vc
 
 Geen bijzonderheden.
 
 Geen bijzonderheden.
 
-Voor Nigeria geldt in ieder geval dat:
+Of vrouwen zich kunnen onttrekken aan genitale verminking door zich elders (buiten de eigen leefgemeenschap) te vestigen kan per geval verschillen. Dit is afhankelijk van de vraag in hoeverre vrouwen elders een nieuw bestaan kunnen opbouwen. Hierbij speelt het sociale netwerk een belangrijke rol. Het sociale netwerk kan bestaan uit de familie- of gezinsleden, maar ook uit andere sociale netwerken zoals verenigingen en kerkgenootschappen.
 
-### 20.7. Vertrekmoratorium
+### 20.6. Adequate opvang alleenstaande minderjarige vreemdelingen
 
-Geen bijzonderheden.
+De IND beoordeelt aan de hand van [paragraaf B8/6 Vc](onbekend) of adequate opvang voor amv’s aanwezig is.
 
 ### 20.8. Bijzonderheden
 
-Geen bijzonderheden.
+De IND merkt voor Pakistan uitsluitend de volgende categorieën als risicogroepen aan:
 
 Geen bijzonderheden.
 
@@ -4911,7 +4911,7 @@ Geen bijzonderheden.
 
 ### 23.8. Bijzonderheden
 
-### 24.4.1. Uitzonderlijke situatie in de zin van paragraaf C2/3.3 Vc
+### 24.4. Ernstige schade in de zin van [artikel 29, eerste lid, onder b, Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=29)
 
 ### 24.4.2. Systematische blootstelling in de zin van paragraaf C2/3.3 Vc
 
@@ -4919,33 +4919,33 @@ Geen bijzonderheden.
 
 ### 24.5. Bescherming
 
-### 25.2. Artikel 1F Vluchtelingenverdrag
+### 25. Het asielbeleid ten aanzien van Sri Lanka
 
 Geen bijzonderheden.
 
-### 25.3.2. Risicogroepen in de zin van paragraaf C2/3.2 Vc
+### 25.3. Vervolging in de zin van het Vluchtelingenverdrag
 
 De IND beoordeelt een verzoek om een verblijfsvergunning asiel voor bepaalde tijd op grond van [artikel 29, eerste lid, aanhef en onder b, Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=29) van Srilankaanse Tamils ook aan de hand van de door het Europese Hof van de Rechten van de Mens benoemde risicofactoren. De genoemde risicofactoren vormen geen checklist en zijn niet uitputtend bedoeld. Iedere genoemde individuele risicofactor hoeft op zich geen aanleiding te geven om ervan uit te gaan dat er een reëel risico op ernstige schade is bij terugkeer naar Colombo. Een combinatie van twee of meer risicofactoren kan aanleiding zijn om een reëel risico op ernstige schade aan te nemen.
 
 ### 25.5.1. Bescherming door autoriteiten en/of internationale organisaties in de zin van paragraaf C2/3.4 Vc
 
-De IND neemt in ieder geval voor de volgende categorieën aan dat het niet mogelijk is de bescherming van de autoriteiten of internationale organisaties te verkrijgen:
+De door het Europese Hof van de Rechten van de Mens benoemde risicofactoren, die in onderlinge samenhang moeten worden bezien in het licht van de algemene situatie in Sri Lanka, zijn:
 
-### 25.5.2. Vlucht- en vestigingsalternatief in de zin van paragraaf C2/3.4 Vc
+### 25.5. Bescherming
 
-### 26. Het asielbeleid ten aanzien van Sudan
+### 25.7. Vertrekmoratorium
 
-### 26.3. Vervolging in de zin van het Vluchtelingenverdrag
+### 26.1. Besluitmoratorium
 
-### 26.4. Ernstige schade in de zin van [artikel 29, eerste lid, onder b, Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=29)
+### 26.3.1. Groepsvervolging in de zin van paragraaf C2/3.2 Vc
+
+### 26.4.2. Systematische blootstelling in de zin van paragraaf C2/3.3 Vc
+
+Geen bijzonderheden.
 
 ### 26.5. Bescherming
 
-Gelet op de algemeen bekende informatie wordt er vanuit gegaan dat in ieder geval vreemdelingen behorend tot de niet-Arabische bevolkingsgroepen uit Darfur (Noord-, Oost, Zuid- en Centraal-Darfur) en vreemdeling die behoren tot de bevolkingsgroep van de Nuba door de autoriteiten gezien worden als (vermeend) aanhanger van een (gewapende) oppositiegroep.
-
-### 26.5. Bescherming
-
-De IND neemt voor Sudan geen vlucht- of vestigingsalternatief aan als door hen is geconcludeerd dat de vreemdeling een gegronde vrees heeft voor vervolging dan wel ernstige schade.
+De IND neemt in ieder geval voor de volgende categorieën aan dat het niet mogelijk is de bescherming van de autoriteiten en/of internationale organisaties te verkrijgen:
 
 ### 26.5.2. Vlucht- en vestigingsalternatief in de zin van paragraaf C2/3.4 Vc
 
@@ -4957,9 +4957,9 @@ De IND beoordeelt aan de hand van [paragraaf B8/6 Vc](onbekend) of adequate opva
 
 ### 26.8. Bijzonderheden
 
-Geen bijzonderheden.
+Voor Sudan geldt in ieder geval dat:
 
-### 27. Het asielbeleid ten aanzien van Syrië
+### 26.7. Vertrekmoratorium
 
 ## Bijlage
 
@@ -4969,13 +4969,13 @@ Geen bijzonderheden.
 
 De IND merkt voor Somalië uitsluitend aan als risicogroepen:
 
-### 24.4.4. Kwetsbare minderheidsgroepen in de zin van paragraaf C2/3.3 Vc
+### 24.4.3. Alleenstaande vrouwen
 
 ### 24.4.5. Individuele kenmerken
 
-### 24.5. Bescherming
+### 24.4.5. Individuele kenmerken
 
-### 24.4.3. Kwetsbare minderheidsgroepen in de zin van paragraaf C2/3.3 Vc
+### 24.5.2. Vlucht- en vestigingsalternatief in de zin van paragraaf C2/3.4 Vc
 
 Gelet op de algemeen bekende informatie wordt er vanuit gegaan dat in ieder geval vreemdelingen behorend tot de niet-Arabische bevolkingsgroepen uit Darfur (Noord-, Oost, Zuid- en Centraal-Darfur) en vreemdeling die behoren tot de bevolkingsgroep van de Nuba door de autoriteiten gezien worden als (vermeend) aanhanger van een (gewapende) oppositiegroep.
 
@@ -4989,11 +4989,11 @@ Geen bijzonderheden.
 
 ### 27. Het asielbeleid ten aanzien van Syrië
 
-### 27.3. Vervolging in de zin van het Vluchtelingenverdrag
+### 27.1. Besluitmoratorium
 
 Geen bijzonderheden.
 
-### 27.3.1. Groepsvervolging in de zin van paragraaf C2/3.2 Vc
+### 27.2. Artikel 1F Vluchtelingenverdrag
 
 Geen bijzonderheden.
 
@@ -5005,13 +5005,13 @@ Geen bijzonderheden.
 
 ### 24.5. Bescherming
 
-### 24.5.2. Vlucht- en vestigingsalternatief in de zin van paragraaf C2/3.4 Vc
+### 24.5. Bescherming
 
 ### 24.6. Adequate opvang alleenstaande minderjarige vreemdelingen
 
 ### 24.8. Bijzonderheden
 
-### 27.2. Artikel 1F Vluchtelingenverdrag
+### 27. Het asielbeleid ten aanzien van Syrië
 
 Geen bijzonderheden.
 
@@ -5045,26 +5045,26 @@ De IND neemt aan dat vreemdelingen uit Syrië die vanuit het buitenland terugker
 
 Geen bijzonderheden.
 
+### 27.4.4. Vreemdelingen die geen actieve aanhanger zijn van het regime
+
+De IND neemt aan dat vreemdelingen uit Syrië die vanuit het buitenland terugkeren, bij of na inreis een reëel risico lopen op ernstige schade. Een vreemdeling uit Syrië komt in aanmerking voor een verblijfsvergunning asiel voor bepaalde tijd op grond van [artikel 29, eerste lid, aanhef en onder b Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=29) als de vreemdeling geen actieve aanhanger is van het regime.
+
+Geen bijzonderheden.
+
 ### 27.5.1. Bescherming door autoriteiten en/of internationale organisaties in de zin van paragraaf C2/3.4 Vc
 
 Geen bijzonderheden.
+
+De IND beoordeelt aan de hand van [paragraaf B8/6 Vc](onbekend) of adequate opvang voor amv’s aanwezig is.
 
 Geen bijzonderheden.
 
 ### 27.6. Adequate opvang alleenstaande minderjarige vreemdelingen
 
-De IND beoordeelt aan de hand van [paragraaf B8/6 Vc](onbekend) of adequate opvang voor amv’s aanwezig is.
-
-De IND beoordeelt aan de hand van [paragraaf B8/6 Vc](onbekend) of adequate opvang voor amv’s aanwezig is.
+### 27.8. Bijzonderheden
 
 Voor Syrië geldt in ieder geval dat:
 
-### 27.7. Vertrekmoratorium
-
-### 27.8. Bijzonderheden
-
-Geen bijzonderheden.
-
 Geen bijzonderheden.
 
 ### 28. Het asielbeleid ten aanzien van Turkije
@@ -5072,6 +5072,14 @@ Geen bijzonderheden.
 Geen bijzonderheden.
 
 ### 28. Het asielbeleid ten aanzien van Turkije
+
+Geen bijzonderheden.
+
+### 28.1. Besluitmoratorium
+
+Geen bijzonderheden.
+
+### 28.2. Artikel 1F Vluchtelingenverdrag
 
 Geen bijzonderheden.
 
@@ -5079,19 +5087,11 @@ Geen bijzonderheden.
 
 Geen bijzonderheden.
 
-### 28.3.1. Groepsvervolging in de zin van paragraaf C2/3.2 Vc
-
-Geen bijzonderheden.
-
-### 28.3.2. Risicogroepen in de zin van paragraaf C2/3.2 Vc
-
-Geen bijzonderheden.
-
 ## Bijlage
 
 ### Aanvraag
 
-De IND verleent in ieder geval geen verblijfsvergunning asiel voor bepaalde tijd als één van de volgende omstandigheden zich voordoet:
+Geen bijzonderheden.
 
 ## Bijlage
 
@@ -5099,15 +5099,15 @@ De IND verleent in ieder geval geen verblijfsvergunning asiel voor bepaalde tijd
 
 ### 2.5. Eerste- en nader gehoor
 
-De IND maakt de beschikking bekend door toezending aan gemachtigde (zie[artikel 3.109c, zevende lid, Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=3.109c)).
+De vreemdeling kan eventuele correcties en aanvullingen op het rapport van gehoor in de zin van artikel 5, eerste lid van Verordening (EU) 604/2013 gelijk met zijn zienswijze op het voornemen om de aanvraag niet in behandeling te nemen indienen (zie ook [3.109c, derde lid Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=3.109c)). Paragraaf C1/2.10 Vc onder **Uitstel voor het indienen van de zienswijze**is van toepassing.
 
 ### 2.6. Voornemenprocedure
 
-De IND reikt het voornemen en de beschikking aan de vreemdeling uit indien deze aanwezig is op het aanmeldcentrum.
+Als de vreemdeling de termijnen als beschreven in artikel 3.118b, tweede lid Vb overschrijdt, behandelt de IND de opvolgende aanvraag voor een verblijfsvergunning asiel voor bepaalde tijd in de procedure als beschreven in artikel 3.118b, tweede lid Vb, of in de Dublinprocedure tenzij deze termijnoverschrijding de vreemdeling niet toegerekend kan worden.
 
-### 2.7. Het geven van de beschikking
+### 2.9. Eerste – en nader gehoor
 
-De vreemdeling mag schriftelijk op het rapport van eerste gehoor reageren.
+Een vreemdeling kan de IND verzoeken door een vrouwelijke of mannelijke ambtenaar van de IND en met behulp van een vrouwelijke of mannelijke tolk gehoord te worden. De IND heeft een inspanningsverplichting met betrekking tot een dergelijk verzoek.
 
 ### 3. Beoordelen van de asielaanvraag
 
@@ -5115,9 +5115,9 @@ De termijnen voor het indienen van de zienswijze worden geregeld in [artikel 3.1
 
 Bij de beoordeling van de aanvraag om een verblijfsvergunning asiel voor bepaalde tijd betrekt de IND alle documenten die zien op de volgende elementen:
 
-De IND acht al deze documenten in beginsel relevant voor het beoordelen van de aanvraag voor een verblijfsvergunning asiel.
+De IND betrekt bij de beoordeling van de aanvraag voor een verblijfsvergunning asiel voor bepaalde tijd mede de omstandigheid dat de vreemdeling bij zijn aanvraag onjuiste gegevens aan de Nederlandse autoriteiten heeft verstrekt dan wel de juiste gegevens heeft achtergehouden. Er is in ieder geval sprake van dergelijke omstandigheden als:
 
-Als documenten met betrekking tot de nationaliteit van de vreemdeling gelden in ieder geval:
+Bij de beoordeling van de aanvraag om een verblijfsvergunning asiel voor bepaalde tijd betrekt de IND alle documenten die zien op de volgende elementen:
 
 ### C2. De verblijfsvergunning asiel voor bepaalde tijd
 
@@ -5125,19 +5125,19 @@ Als documenten met betrekking tot de nationaliteit van de vreemdeling gelden in 
 
 ### 2. Algemene beleidsregels ten aanzien van de verblijfsvergunning asiel voor bepaalde tijd
 
-Bij het ontbreken van documenten die zien op het asielrelaas van de vreemdeling verstaat de IND onder ‘hetgeen overigens bekend is’ openbare informatie uit objectieve bronnen over de situatie in het land van herkomst.
+De vreemdeling heeft aannemelijk gemaakt dat het ontbreken van documenten niet aan hem is toe rekenen als aan de volgende twee voorwaarden is voldaan:
 
-Bij het ontbreken van documenten die zien op de reisroute van de vreemdeling verstaat de IND onder ‘hetgeen overigens bekend is’ alle informatie die betrekking heeft op reizen naar Nederland.
+Als de vreemdeling aannemelijk maakt dat de documenten onder dwang aan de reisagent zijn afgegeven en hij ook op alle andere elementen van de beoordeling van de aanvraag om een verblijfsvergunning asiel voor bepaalde tijd volledig meewerkt en geloofwaardig is, is het ontbreken van documenten niet aan hem toe te rekenen.
 
 ### 4.4. De geloofwaardigheid
 
-### C2. De verblijfsvergunning asiel voor bepaalde tijd
+### 4.4. De geloofwaardigheid
 
-Gegevens die zien op de persoon van de vreemdeling zijn in ieder geval:
+De IND beoordeelt de geloofwaardigheid van de relevante elementen. Relevante elementen zijn feiten en omstandigheden die in de volgende twee categorieën worden onderscheiden:
 
 ### 3.2. [Artikel 29 eerste lid, aanhef en onder a Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=29), vluchtelingschap
 
-### 3.3. Daden als bedoeld in [artikel 29 eerste lid, aanhef en onder b Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=29)
+### 4.7. Hervestigingscriteria
 
 ### 4. Nationale bescherming
 
@@ -5177,19 +5177,19 @@ Wanneer de aanvraag kan worden afgewezen wegens niet-ontvankelijkheid, maakt de 
 
 ### 7.3. Misleiden omtrent identiteit of nationaliteit en/of informatie achterhouden
 
-### 7.8. Zonder gegronde reden niet zo snel mogelijk gemeld
+### 7.7. Opvolgende aanvraag die niet niet-ontvankelijk is verklaard
 
 ### 8.4. De grond voor verlening is komen te vervallen
 
 ### 9. Rechtsmiddelen
 
-### 7.10.2.4. Bewijslast en verantwoordelijkheid
+### 7.10.2.3. Artikel 1F aanhef en onder c, Vluchtelingenverdrag
 
 ### 7.10.2.5. Persoonlijke vrijwaren van verantwoordelijkheid
 
 ### 7.10.2.5. Persoonlijke vrijwaren van verantwoordelijkheid
 
-### 7.10.2.6. Duurzaamheid en proportionaliteit
+### 7.10.2.5. Persoonlijke vrijwaren van verantwoordelijkheid
 
 ### 7.10.2.7. Gezinsleden en artikel 1F Vluchtelingenverdrag
 
@@ -5199,23 +5199,23 @@ Wanneer de aanvraag kan worden afgewezen wegens niet-ontvankelijkheid, maakt de 
 
 ### 10.2. Artikel 1F Vluchtelingenverdrag blijkt alsnog van toepassing
 
-De vreemdeling van wie de verblijfsvergunning asiel voor bepaalde tijd op grond van artikel 29, eerste lid, aanhef en onder a, Vw, is ingetrokken of geldigheidsduur van de verblijfsvergunning asiel voor bepaalde tijd niet is verlengd op grond van artikel 32, eerste lid, aanhef en onder b Vw, wordt Nederland niet uitgezet, indien de vreemdeling in zijn land nog steeds een risico loopt op vervolging of schending van artikel 3 EVRM.
+Als de IND een verblijfsvergunning asiel voor bepaalde tijd intrekt op grond van [artikel 32, eerste lid, aanhef en onder b Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=32), wordt de verblijfsvergunning ingetrokken met terugwerkende kracht tot aan de pleegdatum van het misdrijf.
 
-De IND trekt de verblijfsvergunning asiel voor bepaalde tijd verleend op grond van artikel 29, tweede lid Vw niet in op grond van artikel 32, eerste lid, aanhef en onder b Vw als:
+In C2/7.10.1 Vc is uitgewerkt wanneer sprake is van een ernstig misdrijf zoals bedoeld in [artikel 3.105f, tweede lid onder b, Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=3.105f). In aanvulling op het vorenstaande is ook is sprake van een ernstig misdrijf als het onvoorwaardelijk ten uitvoer te leggen gedeelte van de straffen of maatregelen in totaal de norm genoemd in de glijdende schaal van [artikel 3.86 Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=3.86) is en het totaal van de straffen of maatregelen ten minste zes maanden bedraagt.
 
 ### 1. Landgebonden asielbeleid algemeen
 
 De IND staat de vreemdeling op grond van artikel 7.3, tweede lid, Vb, in ieder geval niet toe zijn verzoek om een voorlopige voorziening in Nederland af te wachten in de volgende situaties:
 
-De IND is bevoegd een beslissing te nemen op de aanvraag voor een verblijfsvergunning asiel voor bepaalde tijd voordat de termijn voor de tijdelijke bescherming is beëindigd.
+De IND moet beoordelen of de vreemdeling onder [Richtlijn 2001/55](32001L0055) valt en moet de voor die beoordeling noodzakelijke gegevens registreren. De IND verlengt de beslistermijn voor het nemen van een beslissing op de aanvraag voor een verblijfsvergunning asiel voor bepaalde tijd voor de duur van de tijdelijke bescherming.
 
-Als zich op het moment dat de geldigheidsduur van de verblijfsvergunning asiel voor bepaalde tijd verloopt een grond voordoet als bedoeld in [artikel 32 Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=32), handelt de IND conform paragraaf C2/10 Vc.
+Als de IND de vreemdeling direct een verblijfsvergunning asiel voor onbepaalde tijd verleent, zonder dat de vreemdeling in het bezit is geweest van een verblijfsvergunning asiel voor bepaalde tijd, dan is [artikel 29, tweede lid, Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=29) van toepassing.
 
-Paragraaf C2/10 is van toepassing.
+De IND wijst de aanvraag voor een verblijfsvergunning asiel voor onbepaalde tijd niet af op grond van [artikel 32, eerste lid, onder c, Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=32), als de oorspronkelijke verblijfsvergunning asiel voor bepaalde tijd is verleend op grond van [artikel 29, eerste lid, onder c of d, Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=29), zoals dat luidde op de dag voorafgaand aan het tijdstip van inwerkingtreding van de [wet tot wijziging van de Vreemdelingenwet 2000 in verband met het herschikken van de gronden voor asielverlening](https://wetten.overheid.nl/jci1.3:c:BWBR0034268), omdat de wettelijke grondslag van die vergunningen is vervallen.
 
 Geen bijzonderheden.
 
-De IND merkt Afghaanse vreemdelingen die een andere religie dan de islam aanhangen, aan als een kwetsbare minderheidsgroep, ongeacht uit welk gebied in Afghanistan zij afkomstig zijn.
+De IND merkt shiitische moslims gelet op hun situatie in Afghanistan niet aan als een kwetsbare minderheidsgroep.
 
 Geen bijzonderheden.
 
@@ -5231,21 +5231,21 @@ Geen bijzonderheden.
 
 De IND beoordeelt of adequate opvang voor amv’s aanwezig is aan de hand van [paragraaf B8/6](onbekend) Vc.
 
-Geen bijzonderheden.
+Voor Burundi geldt in ieder geval dat:
 
 Geen bijzonderheden.
 
-### 9.5.1. Bescherming door autoriteiten en/of internationale organisaties in de zin van paragraaf C2/3.4 Vc
+### 9.4.3. Kwetsbare minderheidsgroepen in de zin van paragraaf C2/3.3 Vc
 
 Geen bijzonderheden.
 
-De IND neemt aan dat, in beginsel, in ieder geval voor de volgende categorieën Iraakse asielzoekers afkomstig uit een van de gebieden genoemd in paragraaf C7/13.4.1 Vc geen sprake is van een binnenlands vlucht- of vestigingsalternatief in andere delen van Irak:
+De IND neemt aan dat het mogelijk is voor vreemdelingen afkomstig uit de Koerdische Autonome Regio (KAR) de bescherming te verkrijgen van de autoriteiten of internationale organisaties.
 
 De IND beoordeelt aan de hand van [paragraaf B8/6 Vc](onbekend) of adequate opvang voor amv’s aanwezig is.
 
 Geen bijzonderheden.
 
-### 19.4.2. Systematische blootstelling in de zin van paragraaf C2/3.3 Vc
+### 19.4. Ernstige schade in de zin van artikel 29, eerste lid, onder b, Vw
 
 ### 24.4.3. Alleenstaande vrouwen
 
@@ -5253,7 +5253,7 @@ Geen bijzonderheden.
 
 ### 24.5.1. Bescherming door autoriteiten en/of internationale organisaties in de zin van paragraaf C2/3.4 Vc
 
-### 25.3.1. Groepsvervolging in de zin van paragraaf C2/3.2 Vc
+### 25.2. Artikel 1F Vluchtelingenverdrag
 
 ## Bijlage
 
@@ -5271,19 +5271,19 @@ Ten aanzien van Irak geldt een besluit in de zin van [artikel 43, eerste lid, Vw
 
 De IND merkt de gezinsband in elk geval aan als verbroken, als:
 
-De IND beoordeelt aan de hand van [paragraaf B8/6 Vc](onbekend) of adequate opvang voor amv’s aanwezig is.
+Geen bijzonderheden.
 
-### 15.3. Vervolging in de zin van het Vluchtelingenverdrag
+### 15.1. Besluitmoratorium
 
 Geen bijzonderheden.
 
-### 15.4. Ernstige schade in de zin van artikel 29, eerste lid, onder b, Vw
+### 15.3.1. Groepsvervolging in de zin van paragraaf C2/3.2 Vc
 
 Geen bijzonderheden.
 
 De IND beoordeelt aan de hand van [paragraaf B8/6 Vc](onbekend) of adequate opvang voor amv’s aanwezig is.
 
-### 16.2. Artikel 1F Vluchtelingenverdrag
+### 16. Het asielbeleid ten aanzien van Jemen
 
 Geen bijzonderheden.
 
@@ -5291,13 +5291,13 @@ Geen bijzonderheden.
 
 Geen bijzonderheden.
 
-Ten aanzien van Jemen geldt een besluit in de zin van [artikel 45, vierde lid, Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=45).
+Geen bijzonderheden.
 
-Voor Libië geldt in ieder geval dat:
+De IND neemt aan dat geen vlucht- of vestigingsalternatief in Libië aanwezig is voor de volgende categorieën:
 
-### 18.3.1. Groepsvervolging in de zin van paragraaf C2/3.2 Vc
+### 18.2. Artikel 1F Vluchtelingenverdrag
 
-### 19.7. Vertrekmoratorium
+### 19.5.2. Vlucht- en vestigingsalternatief in de zin van paragraaf C2/6 Vc
 
 ### 21.5. Bescherming
 
@@ -5305,17 +5305,17 @@ De IND beoordeelt aan de hand van [paragraaf B8/6](onbekend) Vc of adequate opva
 
 ### 21.6. Adequate opvang alleenstaande minderjarige vreemdelingen
 
+Voor de Russische Federatie geldt in ieder geval dat:
+
+### 24.3.1. Groepsvervolging in de zin van paragraaf C2/3.2 Vc
+
 Geen bijzonderheden.
 
-### 24.4.1. Uitzonderlijke situatie in de zin van paragraaf C2/3.3 Vc
-
-Dit beleid geldt voor geheel Zuid- en Centraal Somalië, inclusief Mogadishu.
-
-### 24.4.2. Systematische blootstelling in de zin van paragraaf C2/3.3 Vc
+### 24.5.1. Bescherming door autoriteiten en/of internationale organisaties in de zin van paragraaf C2/3.4 Vc
 
 ### 24.6. Adequate opvang alleenstaande minderjarige vreemdelingen
 
-### 25.4.1. Uitzonderlijke situatie in de zin van paragraaf C2/3.3 Vc
+### 25.3.2. Risicogroepen in de zin van paragraaf C2/3.2 Vc
 
 ## Bijlage
 
@@ -5323,7 +5323,7 @@ Vervallen
 
 ### 3.3. Ernstige schade als bedoeld in artikel 29 eerste lid, aanhef en onder b Vw
 
-### 5.1. Een ander land is verantwoordelijk ([artikel 30, eerste lid sub a Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=30))
+### 3.3. Ernstige schade als bedoeld in artikel 29 eerste lid, aanhef en onder b Vw
 
 ### 5. Afwijzingsgronden verblijfsvergunning asiel voor bepaalde tijd (imperatief)
 
@@ -5335,7 +5335,7 @@ Vervallen
 
 ### 6.2.3. Toerekenbaar geen of onvoldoende documenten overgelegd
 
-### 4.1. [Artikel 29, tweede lid, onder a, b of c, Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=29), afgeleide verblijfsvergunning
+### 4. Nationale bescherming
 
 ### 6.2.5. Land van eerder verblijf
 
@@ -5353,7 +5353,7 @@ Vervallen
 
 ### 7.9. Weigeren vingerafdrukken
 
-In het geval van situatie a. of b. toetst de IND of de vreemdeling een uitzondering vormt op de regel dat de vreemdeling wetenschap gehad heeft of had moeten hebben van het plegen van de misdrijven. De IND spreekt dan van een ‘significante uitzondering’.
+Voor tegenwerping van artikel 1F Vluchtelingenverdrag, moet de IND aantonen dat er ‘ernstige redenen’ zijn om te veronderstellen dat de vreemdeling verantwoordelijk gehouden kan worden voor één van de misdrijven zoals bedoeld in dit artikel. Indien de IND ‘ernstige redenen’ heeft aangetoond, moet de vreemdeling dit gemotiveerd weerleggen, om toepassing van artikel 1F Vluchtelingenverdrag te voorkomen.
 
 ### 7.10.2.6. Duurzaamheid en proportionaliteit
 
@@ -5365,49 +5365,49 @@ In het geval van situatie a. of b. toetst de IND of de vreemdeling een uitzonder
 
 ### 4. Intrekking verblijfsvergunning asiel voor onbepaalde tijd
 
-Als de IND de verblijfsvergunning asiel voor bepaalde tijd intrekt of de aanvraag om verlenging van de geldigheidsduur ervan afwijst, beoordeelt de IND op grond van [artikel 3.6a Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=3.6a) ambtshalve, of de vreemdeling in aanmerking komt voor een verblijfsvergunning regulier voor bepaalde tijd (zie verder paragraaf C1/3 Vc onder het kopje **ambtshalve toets**).
+Als de IND de verblijfsvergunning asiel voor bepaalde tijd en/of onbepaalde tijd intrekt op grond van artikel 32, eerste lid, aanhef en onder a, Vw, beoordeelt de IND of de vreemdeling op het moment van het beoordelen van de intrekking van de verblijfsvergunning in het land van herkomst een risico loopt op vervolging of schending van artikel 3 EVRM.
 
 ### C7. Landgebonden beleid
 
-Als het Europese Hof voor de Rechten van de Mens de Nederlandse staat op grond van **Rule 39** verzoekt om de uitzetting van de vreemdeling uit Nederland op te schorten, mag de DT&V de vreemdeling niet uitzetten.
+De DT&V geeft gehoor aan een verzoek van het Comité voor de rechten van de mens en het Comité tegen Foltering om een vreemdeling niet uit te zetten.
 
-In dit hoofdstuk zijn beleidsregels opgenomen in paragraaf, die gelden bij de toepassing van de Europese Overeenkomst inzake de overdracht van verantwoordelijkheid met betrekking tot vluchtelingen (Trb 1982, 24). Deze beleidsregels zijn een aanvulling op of een uitwerking van deze overeenkomst.
+In aanvulling op paragraaf C2/10.3 Vc kan de IND een verblijfsvergunning asiel voor onbepaalde tijd ook intrekken op grond van [artikel 35, eerste lid onder c Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=35) als de verblijfsvergunning asiel voor bepaalde tijd was verleend op grond van [artikel 29, eerste lid onder a of b Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=29).
 
 ### 2. Het asielbeleid ten aanzien van Afghanistan
 
-### 2.2. Artikel 1F Vluchtelingenverdrag
+### 2.1. Besluitmoratorium
 
-### 5.3.2. Risicogroepen in de zin van paragraaf C2/3.2 Vc
-
-Geen bijzonderheden.
+### 5.3. Vervolging in de zin van het Vluchtelingenverdrag
 
 Geen bijzonderheden.
 
 Geen bijzonderheden.
 
-De IND neemt in ieder geval aan dat het voor vrouwen die aannemelijk hebben gemaakt dat zij hebben te vrezen voor (seksuele) geweldpleging niet mogelijk is de bescherming van de autoriteiten of internationale organisaties te verkrijgen.
-
-### 7.5.2. Vlucht- en vestigingsalternatief in de zin van paragraaf C2/3.4 Vc
+Geen bijzonderheden.
 
 Geen bijzonderheden.
 
-### 8.8. Bijzonderheden
+### 7.5. Bescherming
 
 Geen bijzonderheden.
+
+### 8.7. Vertrekmoratorium
+
+Ten aanzien van Oeigoeren afkomstig uit China geldt een besluit in de zin van [artikel 45, vierde lid, Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=45).
 
 ## Bijlage
 
 Vervallen
 
-### 6.4.1. Uitzonderlijke situatie in de zin van paragraaf C2/3.3 Vc
+### 6.3.2. Risicogroepen in de zin van paragraaf C2/3.2 Vc
 
-### 7.4.3. Kwetsbare minderheidsgroepen in de zin van paragraaf C2/3.3 Vc
+### 7.4.2. Systematische blootstelling in de zin van paragraaf C2/3.3 Vc
 
 ### 7.7. Vertrekmoratorium
 
-### 19.6. Adequate opvang alleenstaande minderjarige vreemdelingen
+### 19.5.1. Bescherming door autoriteiten en/of internationale organisaties in de zin van paragraaf C2/3.4 Vc
 
-### 20.1. Besluitmoratorium
+### 19.8. Bijzonderheden
 
 ## Bijlage
 
@@ -5429,7 +5429,7 @@ Vervallen
 
 ### 6.2.3. Toerekenbaar geen of onvoldoende documenten overgelegd
 
-### 6.2.4. Veilig land van herkomst en veilig derde land
+### 4.1. [Artikel 29, tweede lid, onder a, b of c, Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=29), afgeleide verblijfsvergunning
 
 ### 6.2.4. Veilig land van herkomst en veilig derde land
 
@@ -5437,7 +5437,7 @@ Vervallen
 
 ### 6.2.8. Artikel 1F Vluchtelingenverdrag
 
-### 7.2. Veilig land van herkomst
+### 7.1. Aangelegenheden die niet ter zake doen
 
 ### 7.3. Misleiden omtrent identiteit of nationaliteit en/of informatie achterhouden
 
@@ -5463,19 +5463,19 @@ Vervallen
 
 ### 2.2. Artikel 1F Vluchtelingenverdrag
 
-Deze instanties worden aangeduid als ‘toezichthoudend orgaan’.
+en zich nadien geen nieuwe feiten of omstandigheden hebben voorgedaan.
 
-De IND neemt ondanks het besluitmoratorium in ieder geval een beslissing op de aanvraag om een verblijfsvergunning asiel voor bepaalde tijd in de volgende situaties:
+De IND verlengt in eerste instantie de beslistermijn voor de vreemdeling tot één jaar, voor zover de gehele beslistermijn daarmee niet met maximaal toegstane duur van eenentwintig maanden overschrijdt. en De IND geeft aan de vreemdeling aan op welk moment de verlengde beslistermijn eindigt. In de gevallen waarin het besluitmoratorium in algemene zin voor een kortere periode dan een jaar is vastgesteld, blijft het mogelijk om de individuele beslistermijn voor de vreemdeling met één jaar te verlengen.
 
 In dit hoofdstuk zijn beleidsregels opgenomen in paragraaf, die gelden bij de toepassing van [richtlijn 2001/55](32001L0055) (tijdelijke bescherming). Deze beleidsregels zijn een aanvulling op of een uitwerking van [artikel 1, onder n, Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=1), artikel 1, onder o, Vw, [artikel 45, lid 6, Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=45) en [artikel 3.1a, Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=3.1a).
 
-De IND neemt in ieder geval aan dat geen vlucht- of vestigingsalternatief in Kaboel aanwezig is voor de volgende categorieën:
+In uitzondering hierop neemt de IND aan dat het voor uitsluitend de volgende categorieën niet mogelijk is de bescherming van de autoriteiten of internationale organisaties te verkrijgen:
 
-Geen bijzonderheden.
+De IND verleent geen verblijfsvergunning asiel voor bepaalde tijd aan een Afghaanse vrouw uitsluitend omdat zij na het vertrek uit Afghanistan een westerse levensstijl heeft aangenomen. De IND neemt namelijk aan dat de vrouw zich bij terugkeer zal kunnen aanpassen aan de traditionele Afghaanse normen. De omstandigheid dat een Afghaanse vrouw zich in Afghanistan niet op gelijke wijze kan uiten of ontplooien, vormt voor de IND onvoldoende grond voor verlening van een verblijfsvergunning asiel voor bepaalde tijd.
 
-### 9.2. Artikel 1F Vluchtelingenverdrag
+### 9.1. Besluitmoratorium
 
-In Sierra Leone is adequate opvang in de zin van [paragraaf B8/6 Vc](onbekend).
+De IND verlangt niet van een minderjarige vrouwelijke vreemdeling dat zij zich elders in Sierra Leone vestigt, als zij hierin niet ondersteund wordt door familie of derden, tenzij zij zich eerder aan genitale verminking heeft kunnen onttrekken.
 
 ## Bijlage
 
@@ -5501,15 +5501,15 @@ Vervallen
 
 ### C2. De verblijfsvergunning asiel voor bepaalde tijd
 
-### 2. Algemene beleidsregels ten aanzien van de verblijfsvergunning asiel voor bepaalde tijd
+### 4.4.1. De beoordeling van de geloofwaardigheid
 
 ### 3.1. Algemeen
 
 ### 3. Internationale bescherming
 
-### 3.2. [Artikel 29 eerste lid, aanhef en onder a Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=29), vluchtelingschap
+### 4.4.3. De zwaarwegendheid
 
-### 3.1. Algemeen
+### 3. Internationale bescherming
 
 ### 4.1. [Artikel 29, tweede lid, onder a, b of c, Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=29), afgeleide verblijfsvergunning
 
@@ -5537,7 +5537,7 @@ Vervallen
 
 ### 6. Niet-ontvankelijk
 
-### 6.1. Bescherming in andere EU-lidstaat
+### 6. Niet-ontvankelijk
 
 ### 6.2. Erkend als vluchteling of bescherming in een derde land
 
@@ -5551,7 +5551,7 @@ Vervallen
 
 ### 8.4. De grond voor verlening is komen te vervallen
 
-### 8. Buiten behandeling stellen
+### 7.11. Onder dwang uitgezet wegens openbare veiligheid of openbare orde
 
 ### 8. Buiten behandeling stellen
 
@@ -5561,11 +5561,11 @@ Geen bijzonderheden.
 
 Gedwongen terugkeer van vreemdelingen naar Eritrea zal niet plaatsvinden. De IND neemt aan dat bij gedwongen terugkeer, zowel na legale als na illegale uitreis, een reëel risico op ernstige schade aanwezig is.
 
-Geen bijzonderheden.
+Voor Guinee geldt in ieder geval dat:
 
 Geen bijzonderheden.
 
-De IND neemt aan dat het niet mogelijk is de bescherming van de autoriteiten of internationale organisaties te verkrijgen.
+De IND merkt uitsluitend LHBT’s aan als kwetsbare minderheidsgroep.
 
 ## Bijlage
 
@@ -5583,7 +5583,7 @@ Vervallen
 
 ### 6.1. Bescherming in andere EU-lidstaat
 
-### 6.2. Erkend als vluchteling of bescherming in een derde land
+### 6.1. Bescherming in andere EU-lidstaat
 
 ### 6.3. Veilig derde land
 
@@ -5591,7 +5591,7 @@ Vervallen
 
 ### 7.5. Kennelijk inconsequente en tegenstrijdige, kennelijk valse of duidelijk onwaarschijnlijke verklaringen
 
-### 7.6. Uitzetting of overdracht uitstellen of verijdelen
+### 7.5. Kennelijk inconsequente en tegenstrijdige, kennelijk valse of duidelijk onwaarschijnlijke verklaringen
 
 ### 8.4. De grond voor verlening is komen te vervallen
 
@@ -5615,7 +5615,7 @@ Vervallen
 
 ### 4.1. Volgorde van toetsing
 
-### 3.8. Beoordeling van opvolgende aanvragen tot een verblijfsvergunning asiel voor bepaalde tijd
+### 4.3. Documenten
 
 ### 4.4. De geloofwaardigheid
 
@@ -5639,7 +5639,7 @@ Vervallen
 
 ### 6.1. Bescherming in andere EU-lidstaat
 
-### 6.2.8.3. Artikel 1F aanhef en onder c, Vluchtelingenverdrag
+### 6.2. Erkend als vluchteling of bescherming in een derde land
 
 ### 6.3. Veilig derde land
 
@@ -5655,7 +5655,7 @@ Geen bijzonderheden.
 
 Vervallen
 
-De uitgestelde/opgeschorte toegangsweigering wordt definitief bij het afdoen van de asielaanvraag in de grensprocedure.
+In ieder geval in de volgende situaties zal reeds na het eerste gehoor geconcludeerd worden dat zijn aanvraag niet binnen de grensprocedure (verder) zal worden behandeld:
 
 ### 2.4. De verlengde asielprocedure
 
@@ -5677,7 +5677,7 @@ De uitgestelde/opgeschorte toegangsweigering wordt definitief bij het afdoen van
 
 ### 3.6. Onderzoek naar de gezinsband bij nareizende gezinsleden
 
-### 4.1. Volgorde van toetsing
+### 4. Beoordelen van de asielaanvraag
 
 ### 3.8. Beoordeling van opvolgende aanvragen tot een verblijfsvergunning asiel voor bepaalde tijd
 
@@ -5687,7 +5687,7 @@ De uitgestelde/opgeschorte toegangsweigering wordt definitief bij het afdoen van
 
 ### 3.2. [Artikel 29 eerste lid, aanhef en onder a Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=29), vluchtelingschap
 
-### 3.3. Daden als bedoeld in [artikel 29 eerste lid, aanhef en onder b Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=29)
+### 3.1. Algemeen
 
 ### 4.1. [Artikel 29, tweede lid, onder a, b of c, Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=29), afgeleide verblijfsvergunning
 
@@ -5721,7 +5721,7 @@ De uitgestelde/opgeschorte toegangsweigering wordt definitief bij het afdoen van
 
 Vervallen
 
-### 26.4.3. Kwetsbare minderheidsgroepen in de zin van paragraaf C2/3.3 Vc
+### 26.4.1. Uitzonderlijke situatie in de zin van paragraaf C2/3.3 Vc
 
 ## Bijlage
 
@@ -5745,7 +5745,7 @@ De IND bepaalt op welke wijze passende steun als bedoeld in [artikel 3.108b Vb](
 
 ### 2.4. De verlengde asielprocedure
 
-### 2.5. De Grensprocedure
+### 2.4. De verlengde asielprocedure
 
 ### 2.6. De Dublinprocedure
 
@@ -5759,7 +5759,7 @@ De IND bepaalt op welke wijze passende steun als bedoeld in [artikel 3.108b Vb](
 
 ### 4. Beoordelen van de asielaanvraag
 
-### 4.2. Verstrekken onjuiste gegevens/fraude
+### 4.1. Volgorde van toetsing
 
 ### 4.3. Documenten
 
@@ -5779,7 +5779,7 @@ De IND bepaalt op welke wijze passende steun als bedoeld in [artikel 3.108b Vb](
 
 ### C2. De verblijfsvergunning asiel voor bepaalde tijd
 
-### 2. Algemene beleidsregels ten aanzien van de verblijfsvergunning asiel voor bepaalde tijd
+### C2. De verblijfsvergunning asiel voor bepaalde tijd
 
 ### 3. Internationale bescherming
 
@@ -5789,33 +5789,33 @@ De IND bepaalt op welke wijze passende steun als bedoeld in [artikel 3.108b Vb](
 
 ### 5. Niet in behandeling nemen
 
-### 7.7. Opvolgende aanvraag die niet niet-ontvankelijk is verklaard
+### 7.6. Uitzetting of overdracht uitstellen of verijdelen
 
-### 7.10.1. Algemeen
+### 7.9. Weigeren vingerafdrukken
 
-### 7.10.1. Algemeen
+### 7.10.1. Openbare orde als afwijzingsgrond
+
+### 7.10.2. Artikel 1F, Vluchtelingenverdrag
 
 ### 7.10.2.1. Artikel 1F aanhef en onder a, Vluchtelingenverdrag
 
-### 7.10.2.2. Artikel 1F aanhef en onder b, Vluchtelingenverdrag
+### 27.3.1. Groepsvervolging in de zin van paragraaf C2/3.2 Vc
 
-### 27.4. Ernstige schade in de zin van [artikel 29, eerste lid, onder b, Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=29)
-
-### 27.4.3. Kwetsbare minderheidsgroepen in de zin van paragraaf C2/3.3 Vc
+### 27.4.1. Uitzonderlijke situatie in de zin van paragraaf C2/3.3 Vc
 
 Geen bijzonderheden.
 
-### 27.5. Bescherming
+### 27.4.3. Kwetsbare minderheidsgroepen in de zin van paragraaf C2/3.3 Vc
 
-### 27.5.2. Vlucht- en vestigingsalternatief in de zin van paragraaf C2/3.4 Vc
+### 27.5. Bescherming
 
 Geen bijzonderheden.
 
 ### 27.6. Adequate opvang alleenstaande minderjarige vreemdelingen
 
-### 27.7. Vertrekmoratorium
+### 27.5.2. Vlucht- en vestigingsalternatief in de zin van paragraaf C2/3.4 Vc
 
-Geen bijzonderheden.
+De IND beoordeelt aan de hand van [paragraaf B8/6 Vc](onbekend) of adequate opvang voor amv’s aanwezig is.
 
 ### 27.8. Bijzonderheden
 
@@ -5827,7 +5827,7 @@ Geen bijzonderheden.
 
 Geen bijzonderheden.
 
-### 28.3.3. Vervolging vanwege dienstweigering of desertie
+### 28.3.1. Groepsvervolging in de zin van paragraaf C2/3.2 Vc
 
 ### 28.3.3. Vervolging vanwege dienstweigering of desertie
 
@@ -5839,7 +5839,7 @@ Het algemene beleid in de zin van paragraaf C2/3.2 Vc is van toepassing.
 
 ### 28.4.1. Uitzonderlijke situatie in de zin van paragraaf C2/3.3 Vc
 
-Geen bijzonderheden.
+De IND verleent in ieder geval geen verblijfsvergunning asiel voor bepaalde tijd als één van de volgende omstandigheden zich voordoet:
 
 Geen bijzonderheden.
 
@@ -5847,13 +5847,19 @@ Geen bijzonderheden.
 
 ### 28.4.3. Kwetsbare minderheidsgroepen in de zin van paragraaf C2/3.3 Vc
 
+### 28.4.2. Systematische blootstelling in de zin van paragraaf C2/3.3 Vc
+
+Geen bijzonderheden.
+
+### 28.4.3. Kwetsbare minderheidsgroepen in de zin van paragraaf C2/3.3 Vc
+
+Geen bijzonderheden.
+
 ### 28.5. Bescherming
 
 Geen bijzonderheden.
 
-### 28.5.1. Bescherming door autoriteiten en/of internationale organisaties in de zin van paragraaf C2/3.4 Vc
-
-Geen bijzonderheden.
+### 28.6. Adequate opvang alleenstaande minderjarige vreemdelingen
 
 ### 28.5.2. Vlucht- en vestigingsalternatief in de zin van paragraaf C2/3.4 Vc
 
@@ -5861,25 +5867,19 @@ Geen bijzonderheden.
 
 ### 28.6. Adequate opvang alleenstaande minderjarige vreemdelingen
 
+In Turkije is adequate opvang beschikbaar in de zin van [paragraaf B8/6 Vc](onbekend).
+
 ### 28.7. Vertrekmoratorium
 
 Geen bijzonderheden.
 
-### 28.8. Bijzonderheden
-
 Geen bijzonderheden.
 
 ### 29. Het asielbeleid ten aanzien van Uganda
 
 Geen bijzonderheden.
 
-Geen bijzonderheden.
-
-### 29. Het asielbeleid ten aanzien van Uganda
-
-Geen bijzonderheden.
-
-### 29.3. Vervolging in de zin van het Vluchtelingenverdrag
+### 29.1. Besluitmoratorium
 
 Geen bijzonderheden.
 
@@ -5895,11 +5895,11 @@ Vervallen
 
 ### 7.11. Onder dwang uitgezet wegens openbare veiligheid of openbare orde
 
-### 26.5.2. Vlucht- en vestigingsalternatief in de zin van paragraaf C2/3.4 Vc
+### 26.5.1. Bescherming door autoriteiten en/of internationale organisaties in de zin van paragraaf C2/3.4 Vc
 
-### 27.1. Besluitmoratorium
+### 26.8. Bijzonderheden
 
-### 27.4.1. Uitzonderlijke situatie in de zin van paragraaf C2/3.3 Vc
+### 27.3.2. Risicogroepen in de zin van paragraaf C2/3.2 Vc
 
 Geen bijzonderheden.
 
@@ -5913,21 +5913,21 @@ De IND neemt aan dat vreemdelingen uit Syrië die vanuit het buitenland terugker
 
 De IND beoordeelt aan de hand van [paragraaf B8/6 Vc](onbekend) of adequate opvang voor amv’s aanwezig is.
 
-### 28. Het asielbeleid ten aanzien van Turkije
+### 27.7. Vertrekmoratorium
 
 Geen bijzonderheden.
 
-### 28.1. Besluitmoratorium
+### 27.8. Bijzonderheden
+
+Geen bijzonderheden.
+
+### 28.3.2. Risicogroepen in de zin van paragraaf C2/3.2 Vc
 
 Het algemene beleid in de zin van paragraaf C2/3.2 Vc is van toepassing.
 
 ### 28.4. Ernstige schade in de zin van [artikel 29, eerste lid, onder b, Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=29)
 
-De IND verleent in ieder geval geen verblijfsvergunning asiel voor bepaalde tijd als één van de volgende omstandigheden zich voordoet:
-
 ### 28.4. Ernstige schade in de zin van [artikel 29, eerste lid, onder b, Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=29)
-
-### 28.4.2. Systematische blootstelling in de zin van paragraaf C2/3.3 Vc
 
 Geen bijzonderheden.
 
@@ -5943,7 +5943,7 @@ In Turkije is adequate opvang beschikbaar in de zin van [paragraaf B8/6 Vc](onbe
 
 Geen bijzonderheden.
 
-### 29.1. Besluitmoratorium
+### 28.8. Bijzonderheden
 
 Geen bijzonderheden.
 
@@ -5953,39 +5953,45 @@ Vervallen
 
 Geen bijzonderheden.
 
-### 27.3.2. Risicogroepen in de zin van paragraaf C2/3.2 Vc
+### 27.3. Vervolging in de zin van het Vluchtelingenverdrag
 
-### 27.4.2. Systematische blootstelling in de zin van paragraaf C2/3.3 Vc
+### 27.4. Ernstige schade in de zin van [artikel 29, eerste lid, onder b, Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=29)
 
 Geen bijzonderheden.
 
-### 28.2. Artikel 1F Vluchtelingenverdrag
+### 28. Het asielbeleid ten aanzien van Turkije
 
 ### 28.8. Bijzonderheden
 
+### 29. Het asielbeleid ten aanzien van Uganda
+
 ### 29.2. Artikel 1F Vluchtelingenverdrag
 
-### 29.3.1. Groepsvervolging in de zin van paragraaf C2/3.2 Vc
+Geen bijzonderheden.
+
+### 29.3. Vervolging in de zin van het Vluchtelingenverdrag
 
 Geen bijzonderheden.
 
-### 29.3.2. Risicogroepen in de zin van paragraaf C2/3.2 Vc
-
 Geen bijzonderheden.
-
-De IND beoordeelt de aanvraag voor een verblijfsvergunning asiel voor bepaalde tijd van Ugandese LHBT’s op basis van de individuele omstandigheden, afgezet tegen de positie van deze groep in Uganda.
 
 De IND beoordeelt de aanvraag voor een verblijfsvergunning asiel voor bepaalde tijd van Ugandese LHBT’s op basis van de individuele omstandigheden, afgezet tegen de positie van deze groep in Uganda.
 
 ### 29.3.3. LHBT’s
 
-### 29.4. Ernstige schade in de zin van [artikel 29, eerste lid, onder b, Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=29)
+### 29.3.3. LHBT’s
 
-De IND beoordeelt of de vreemdeling aannemelijk heeft gemaakt dat hij behoort tot deze groep en dat hij – met in achtneming van het beleid dat volgt uit paragraaf C2/3.2 Vc – bij terugkeer wordt blootgesteld aan vervolging.
+De IND beoordeelt de aanvraag voor een verblijfsvergunning asiel voor bepaalde tijd van Ugandese LHBT’s op basis van de individuele omstandigheden, afgezet tegen de positie van deze groep in Uganda.
 
 ### 29.4.1. Uitzonderlijke situatie in de zin van paragraaf C2/3.3 Vc
 
+Gelet op de zeer fragiele positie van LHBT’s in Uganda, ook als gevolg van de ondertekening van de anti-homoseksualiteitswet, betekent dit dat de IND aan Ugandese LHBT’s een verblijfsvergunning asiel voor bepaalde tijd op grond van [artikel 29, eerste lid, aanhef en onder a, Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=29) verleent, tenzij contra-indicaties de verlening van een verblijfsvergunning asiel voor bepaalde tijd in de weg staan.
+
+### 29.4. Ernstige schade in de zin van [artikel 29, eerste lid, onder b, Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=29)
+
 Geen bijzonderheden.
+
+### 29.4.3. Kwetsbare minderheidsgroepen in de zin van paragraaf C2/3.3 Vc
 
 ### 29.4.2. Systematische blootstelling in de zin van paragraaf C2/3.3 Vc
 
@@ -5993,11 +5999,11 @@ Geen bijzonderheden.
 
 ### 29.4.3. Kwetsbare minderheidsgroepen in de zin van paragraaf C2/3.3 Vc
 
+Geen bijzonderheden.
+
 ### 29.5. Bescherming
 
-De IND neemt aan dat het in ieder geval voor LHBT’s niet mogelijk is de bescherming van de autoriteiten of internationale organisaties te verkrijgen.
-
-### 29.5.1. Bescherming door autoriteiten en/of internationale organisaties in de zin van paragraaf C2/3.4
+De IND neemt ten aanzien van de Ugandese LHBT geen binnenlands vlucht- of vestigingsalternatief aan in Uganda.
 
 De IND neemt aan dat het in ieder geval voor LHBT’s niet mogelijk is de bescherming van de autoriteiten of internationale organisaties te verkrijgen.
 
@@ -6005,25 +6011,19 @@ De IND neemt aan dat het in ieder geval voor LHBT’s niet mogelijk is de besche
 
 De IND neemt ten aanzien van de Ugandese LHBT geen binnenlands vlucht- of vestigingsalternatief aan in Uganda.
 
+### 29.6. Adequate opvang alleenstaande minderjarige vreemdelingen
+
 De IND beoordeelt aan de hand van [paragraaf B8/6 Vc](onbekend) of adequate opvang voor amv’s aanwezig is.
-
-### 29.7. Vertrekmoratorium
-
-Voor Uganda geldt in ieder geval dat:
-
-### 29.7. Vertrekmoratorium
-
-Geen bijzonderheden.
 
 ## Bijlage
 
 Vervallen
 
-### 27.4.4. Vreemdelingen die geen actieve aanhanger zijn van het regime
+### 27.4.2. Systematische blootstelling in de zin van paragraaf C2/3.3 Vc
 
-De IND neemt aan dat vreemdelingen uit Syrië die vanuit het buitenland terugkeren, bij of na inreis een reëel risico lopen op ernstige schade. Een vreemdeling uit Syrië komt in aanmerking voor een verblijfsvergunning asiel voor bepaalde tijd op grond van [artikel 29, eerste lid, aanhef en onder b Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=29) als de vreemdeling geen actieve aanhanger is van het regime.
+Geen bijzonderheden.
 
-### 28.4.3. Kwetsbare minderheidsgroepen in de zin van paragraaf C2/3.3 Vc
+### 28.4.1. Uitzonderlijke situatie in de zin van paragraaf C2/3.3 Vc
 
 Geen bijzonderheden.
 
@@ -6031,17 +6031,17 @@ Geen bijzonderheden.
 
 Geen bijzonderheden.
 
-### 29.3.3. LHBT’s
+### 29.3.1. Groepsvervolging in de zin van paragraaf C2/3.2 Vc
 
-### 29.4.1. Uitzonderlijke situatie in de zin van paragraaf C2/3.3 Vc
+### 29.3.2. Risicogroepen in de zin van paragraaf C2/3.2 Vc
 
-De IND beoordeelt of de vreemdeling aannemelijk heeft gemaakt dat hij behoort tot deze groep en dat hij – met in achtneming van het beleid dat volgt uit paragraaf C2/3.2 Vc – bij terugkeer wordt blootgesteld aan vervolging.
+Geen bijzonderheden.
 
 ### 29.4. Ernstige schade in de zin van [artikel 29, eerste lid, onder b, Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=29)
 
 Geen bijzonderheden.
 
-### 29.4.3. Kwetsbare minderheidsgroepen in de zin van paragraaf C2/3.3 Vc
+### 29.4.1. Uitzonderlijke situatie in de zin van paragraaf C2/3.3 Vc
 
 Geen bijzonderheden.
 
@@ -6051,7 +6051,7 @@ Geen bijzonderheden.
 
 De IND neemt ten aanzien van de Ugandese LHBT geen binnenlands vlucht- of vestigingsalternatief aan in Uganda.
 
-### 29.6. Adequate opvang alleenstaande minderjarige vreemdelingen
+### 29.5.1. Bescherming door autoriteiten en/of internationale organisaties in de zin van paragraaf C2/3.4
 
 ## Bijlage
 
@@ -6119,13 +6119,13 @@ Vervallen
 
 ### 9. Nadere bepalingen over de verblijfsvergunning asiel voor bepaalde tijd
 
-### 28.4. Ernstige schade in de zin van [artikel 29, eerste lid, onder b, Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=29)
+### 28.3.3. Vervolging vanwege dienstweigering of desertie
 
 Geen bijzonderheden.
 
-### 28.6. Adequate opvang alleenstaande minderjarige vreemdelingen
+### 28.5.1. Bescherming door autoriteiten en/of internationale organisaties in de zin van paragraaf C2/3.4 Vc
 
-In Turkije is adequate opvang beschikbaar in de zin van [paragraaf B8/6 Vc](onbekend).
+Geen bijzonderheden.
 
 ### 29.3. Vervolging in de zin van het Vluchtelingenverdrag
 
@@ -6133,7 +6133,7 @@ In Turkije is adequate opvang beschikbaar in de zin van [paragraaf B8/6 Vc](onbe
 
 ### 29.4. Ernstige schade in de zin van [artikel 29, eerste lid, onder b, Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=29)
 
-Gelet op de zeer fragiele positie van LHBT’s in Uganda, ook als gevolg van de ondertekening van de anti-homoseksualiteitswet, betekent dit dat de IND aan Ugandese LHBT’s een verblijfsvergunning asiel voor bepaalde tijd op grond van [artikel 29, eerste lid, aanhef en onder a, Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=29) verleent, tenzij contra-indicaties de verlening van een verblijfsvergunning asiel voor bepaalde tijd in de weg staan.
+De IND beoordeelt of de vreemdeling aannemelijk heeft gemaakt dat hij behoort tot deze groep en dat hij – met in achtneming van het beleid dat volgt uit paragraaf C2/3.2 Vc – bij terugkeer wordt blootgesteld aan vervolging.
 
 ### 29.5. Bescherming
 
@@ -6145,7 +6145,7 @@ De IND beoordeelt aan de hand van [paragraaf B8/6 Vc](onbekend) of adequate opva
 
 ### 29.8. Bijzonderheden
 
-Geen bijzonderheden.
+Voor Uganda geldt in ieder geval dat:
 
 ## Bijlage
 
@@ -6184,6 +6184,52 @@ Vervallen
 ### 2.6. De Dublinprocedure
 
 ### 5. Niet in behandeling nemen
+
+## Bijlage
+
+Vervallen
+
+### 2.5. De Grensprocedure
+
+### 2.6. De Dublinprocedure
+
+### 2.7. De procedure bij een tweede of volgende aanvraag
+
+### 2.8. De procedure bij een aanvraag vanuit vreemdelingenbewaring
+
+### 2.11. Het geven van de beschikking
+
+### 3. De procedure bij intrekking van de verblijfsvergunning asiel voor bepaalde of onbepaalde tijd
+
+### 4.4.2. Bewijslast voor de geloofwaardigheid
+
+### 4.4.4. Forensisch medisch onderzoek
+
+### 4.4.5. Leeftijdsonderzoek
+
+### 4.4.6. Onderzoek naar de gezinsband bij nareizende gezinsleden
+
+### 4.5. Ambtshalve toets
+
+### 4.6. Beoordeling van opvolgende aanvragen tot een verblijfsvergunning asiel voor bepaalde tijd
+
+### 1. Inleiding
+
+### 2. Algemene beleidsregels ten aanzien van de verblijfsvergunning asiel voor bepaalde tijd
+
+### 3.2. Artikel 29 eerste lid, aanhef en onder a Vw, vluchtelingschap
+
+### 3.4. Bescherming autoriteiten en beschermingsalternatief
+
+### 5. Niet in behandeling nemen
+
+### 29.7. Vertrekmoratorium
+
+Geen bijzonderheden.
+
+### 29.8. Bijzonderheden
+
+Geen bijzonderheden.
 
 ## Bijlage
 
