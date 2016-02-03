@@ -4,7 +4,7 @@ identifier: "BWBR0029277"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-07-01"
-last_updated: "2016-01-01"
+last_updated: "2016-02-03"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0029277"
 soort: "ministeriele-regeling"
@@ -42,7 +42,7 @@ Besluit:
 
 ##### Artikel 1
 
-Als ambtenaar van de Inspectie Leefomgeving en Transport als bedoeld in de hierna genoemde artikelen, worden aangewezen de ambtenaren van de Inspectie Verkeer en Waterstaat die belast zijn met toezicht:
+Als ambtenaar van de Inspectie Leefomgeving en Transport als bedoeld in de hierna genoemde artikelen, worden aangewezen de ambtenaren van de Inspectie Leefomgeving en Transport die belast zijn met toezicht:
 
 - –. [artikel 45a, eerste lid, van de Loodsenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0004365&artikel=45a);
 
@@ -54,7 +54,7 @@ Als ambtenaar van de Inspectie Leefomgeving en Transport als bedoeld in de hiern
 
 - –. [artikel 15, eerste lid, van de Wet laden en lossen zeeschepen](https://wetten.overheid.nl/jci1.3:c:BWBR0017718&artikel=15);
 
-- –. [artikel 18, eerste lid, van de Wet pleziervaartuigen](https://wetten.overheid.nl/jci1.3:c:BWBR0008366&artikel=18);
+- –. [artikel 13, eerste lid, van de Wet pleziervaartuigen 2016](https://wetten.overheid.nl/jci1.3:c:BWBR0037546&artikel=13);
 
 - –. [artikel 27, eerste lid, van de Wet scheepsuitrusting](https://wetten.overheid.nl/jci1.3:c:BWBR0011301&artikel=27);
 
