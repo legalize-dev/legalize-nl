@@ -4,7 +4,7 @@ identifier: "BWBR0037587"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2016-02-04"
-last_updated: "2016-01-01"
+last_updated: "2016-02-04"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0037587"
 soort: "ministeriele-regeling"
@@ -52,7 +52,7 @@ De commandant USAR.NL en de door hem aangewezen ambtenaren zijn bevoegd om namen
 
 ##### Artikel 3
 
-De [mandaatregeling landelijk commandant USAR.NL](https://wetten.overheid.nl/jci1.3:c:BWBR0033692&wetgeving) wordt ingetrokken.
+De [mandaatregeling landelijk commandant USAR.NL](https://wetten.overheid.nl/jci1.3:c:BWBR0033692) wordt ingetrokken.
 
 ##### Artikel 4
 
