@@ -4,7 +4,7 @@ identifier: "BWBV0006576"
 country: "nl"
 rank: "verdrag"
 publication_date: "2017-01-01"
-last_updated: "2016-01-26"
+last_updated: "2016-02-05"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBV0006576"
 soort: "verdrag"
@@ -162,7 +162,7 @@ The Kosovo Relocated Specialist Judicial Institution shall enjoy, in the territo
 
 4. The Kosovo Relocated Specialist Judicial Institution may expel or exclude persons from the premises for violation of its regulations and shall inform the competent authorities, if possible, in advance of such measures.
 
-5. Any dispute as to whether a regulation of the Kosovo Relocated Specialist Judicial Institution comes within the ambit of this Article or as to whether a law or regulation of the Host State is inconsistent with a regulation of the Kosovo Relocated Specialist Judicial Institution under this Article shall be settled promptly by the procedure set out in [Article 36](https://wetten.overheid.nl/jci1.3:c:BWBV0006576&deel=VI&artikel=36&z=2016-01-26&g=2016-01-26) of this Agreement. Pending such settlement, the regulation of the Kosovo Relocated Specialist Judicial Institution shall apply and the law or regulation of the Host State shall be inapplicable on the premises to the extent that the Kosovo Relocated Specialist Judicial Institution claims it to be inconsistent with its rule or regulation.
+5. Any dispute as to whether a regulation of the Kosovo Relocated Specialist Judicial Institution comes within the ambit of this Article or as to whether a law or regulation of the Host State is inconsistent with a regulation of the Kosovo Relocated Specialist Judicial Institution under this Article shall be settled promptly by the procedure set out in [Article 36](https://wetten.overheid.nl/jci1.3:c:BWBV0006576&deel=VI&artikel=36&z=2016-02-05&g=2016-02-05) of this Agreement. Pending such settlement, the regulation of the Kosovo Relocated Specialist Judicial Institution shall apply and the law or regulation of the Host State shall be inapplicable on the premises to the extent that the Kosovo Relocated Specialist Judicial Institution claims it to be inconsistent with its rule or regulation.
 
 ##### Article 9. Public services for the premises
 
@@ -426,7 +426,7 @@ The Kosovo Relocated Specialist Judicial Institution shall be exempted from all 
 
 1. This Article covers counsel and persons assisting counsel who need to be present in the Host State.
 
-2. Counsel shall enjoy the following privileges, immunities and facilities to the extent necessary for the free and independent exercise of their functions during the preparatory phase, subject to the notification procedure required under [Article 28](https://wetten.overheid.nl/jci1.3:c:BWBV0006576&deel=V&deel=1&artikel=28&z=2016-01-26&g=2016-01-26) of this Agreement:
+2. Counsel shall enjoy the following privileges, immunities and facilities to the extent necessary for the free and independent exercise of their functions during the preparatory phase, subject to the notification procedure required under [Article 28](https://wetten.overheid.nl/jci1.3:c:BWBV0006576&deel=V&deel=1&artikel=28&z=2016-02-05&g=2016-02-05) of this Agreement:
 
 - a). immunity from personal arrest or detention or any other restriction of their liberty in respect of acts or convictions prior to their entry into the territory of the Host State;
 
@@ -498,13 +498,13 @@ The Kosovo Relocated Specialist Judicial Institution shall be exempted from all 
 
 ##### Article 25. Exceptions to immunities
 
-The immunity granted to persons mentioned in [Article 17, paragraph 1](https://wetten.overheid.nl/jci1.3:c:BWBV0006576&deel=III&artikel=17&z=2016-01-26&g=2016-01-26); [Article 18, paragraph 1 to 3 and paragraph 6](https://wetten.overheid.nl/jci1.3:c:BWBV0006576&deel=III&artikel=18&z=2016-01-26&g=2016-01-26); [Article 19](https://wetten.overheid.nl/jci1.3:c:BWBV0006576&deel=III&artikel=19&z=2016-01-26&g=2016-01-26); [Article 20, paragraph 3](https://wetten.overheid.nl/jci1.3:c:BWBV0006576&deel=III&artikel=20&z=2016-01-26&g=2016-01-26); [Article 21, paragraphs 2 and 4](https://wetten.overheid.nl/jci1.3:c:BWBV0006576&deel=III&artikel=21&z=2016-01-26&g=2016-01-26) and [Article 22, paragraphs 1 and 4](https://wetten.overheid.nl/jci1.3:c:BWBV0006576&deel=III&artikel=22&z=2016-01-26&g=2016-01-26) shall not extend to any civil action by a third party for damages, including personal injury or death, arising from a traffic accident caused by any such person.
+The immunity granted to persons mentioned in [Article 17, paragraph 1](https://wetten.overheid.nl/jci1.3:c:BWBV0006576&deel=III&artikel=17&z=2016-02-05&g=2016-02-05); [Article 18, paragraph 1 to 3 and paragraph 6](https://wetten.overheid.nl/jci1.3:c:BWBV0006576&deel=III&artikel=18&z=2016-02-05&g=2016-02-05); [Article 19](https://wetten.overheid.nl/jci1.3:c:BWBV0006576&deel=III&artikel=19&z=2016-02-05&g=2016-02-05); [Article 20, paragraph 3](https://wetten.overheid.nl/jci1.3:c:BWBV0006576&deel=III&artikel=20&z=2016-02-05&g=2016-02-05); [Article 21, paragraphs 2 and 4](https://wetten.overheid.nl/jci1.3:c:BWBV0006576&deel=III&artikel=21&z=2016-02-05&g=2016-02-05) and [Article 22, paragraphs 1 and 4](https://wetten.overheid.nl/jci1.3:c:BWBV0006576&deel=III&artikel=22&z=2016-02-05&g=2016-02-05) shall not extend to any civil action by a third party for damages, including personal injury or death, arising from a traffic accident caused by any such person.
 
 ## PART IV. WAIVER OF PRIVILEGES AND IMMUNITIES
 
-##### Article 26. Waiver of privileges, immunities and facilities provided for in [Articles 17](https://wetten.overheid.nl/jci1.3:c:BWBV0006576&deel=III&artikel=17&z=2016-01-26&g=2016-01-26), [18](https://wetten.overheid.nl/jci1.3:c:BWBV0006576&deel=III&artikel=18&z=2016-01-26&g=2016-01-26), [19](https://wetten.overheid.nl/jci1.3:c:BWBV0006576&deel=III&artikel=19&z=2016-01-26&g=2016-01-26), [20](https://wetten.overheid.nl/jci1.3:c:BWBV0006576&deel=III&artikel=20&z=2016-01-26&g=2016-01-26), [21](https://wetten.overheid.nl/jci1.3:c:BWBV0006576&deel=III&artikel=21&z=2016-01-26&g=2016-01-26), [22](https://wetten.overheid.nl/jci1.3:c:BWBV0006576&deel=III&artikel=22&z=2016-01-26&g=2016-01-26) and [23](https://wetten.overheid.nl/jci1.3:c:BWBV0006576&deel=III&artikel=23&z=2016-01-26&g=2016-01-26)
+##### Article 26. Waiver of privileges, immunities and facilities provided for in [Articles 17](https://wetten.overheid.nl/jci1.3:c:BWBV0006576&deel=III&artikel=17&z=2016-02-05&g=2016-02-05), [18](https://wetten.overheid.nl/jci1.3:c:BWBV0006576&deel=III&artikel=18&z=2016-02-05&g=2016-02-05), [19](https://wetten.overheid.nl/jci1.3:c:BWBV0006576&deel=III&artikel=19&z=2016-02-05&g=2016-02-05), [20](https://wetten.overheid.nl/jci1.3:c:BWBV0006576&deel=III&artikel=20&z=2016-02-05&g=2016-02-05), [21](https://wetten.overheid.nl/jci1.3:c:BWBV0006576&deel=III&artikel=21&z=2016-02-05&g=2016-02-05), [22](https://wetten.overheid.nl/jci1.3:c:BWBV0006576&deel=III&artikel=22&z=2016-02-05&g=2016-02-05) and [23](https://wetten.overheid.nl/jci1.3:c:BWBV0006576&deel=III&artikel=23&z=2016-02-05&g=2016-02-05)
 
-1. The privileges, immunities and facilities provided for in [Articles 17](https://wetten.overheid.nl/jci1.3:c:BWBV0006576&deel=III&artikel=17&z=2016-01-26&g=2016-01-26), [18](https://wetten.overheid.nl/jci1.3:c:BWBV0006576&deel=III&artikel=18&z=2016-01-26&g=2016-01-26), [19](https://wetten.overheid.nl/jci1.3:c:BWBV0006576&deel=III&artikel=19&z=2016-01-26&g=2016-01-26), [20](https://wetten.overheid.nl/jci1.3:c:BWBV0006576&deel=III&artikel=20&z=2016-01-26&g=2016-01-26), [21](https://wetten.overheid.nl/jci1.3:c:BWBV0006576&deel=III&artikel=21&z=2016-01-26&g=2016-01-26), [22](https://wetten.overheid.nl/jci1.3:c:BWBV0006576&deel=III&artikel=22&z=2016-01-26&g=2016-01-26) and [23](https://wetten.overheid.nl/jci1.3:c:BWBV0006576&deel=III&artikel=23&z=2016-01-26&g=2016-01-26) of this Agreement are granted in the interests of the Kosovo Relocated Specialist Judicial Institution and not for the personal benefit of the persons themselves.
+1. The privileges, immunities and facilities provided for in [Articles 17](https://wetten.overheid.nl/jci1.3:c:BWBV0006576&deel=III&artikel=17&z=2016-02-05&g=2016-02-05), [18](https://wetten.overheid.nl/jci1.3:c:BWBV0006576&deel=III&artikel=18&z=2016-02-05&g=2016-02-05), [19](https://wetten.overheid.nl/jci1.3:c:BWBV0006576&deel=III&artikel=19&z=2016-02-05&g=2016-02-05), [20](https://wetten.overheid.nl/jci1.3:c:BWBV0006576&deel=III&artikel=20&z=2016-02-05&g=2016-02-05), [21](https://wetten.overheid.nl/jci1.3:c:BWBV0006576&deel=III&artikel=21&z=2016-02-05&g=2016-02-05), [22](https://wetten.overheid.nl/jci1.3:c:BWBV0006576&deel=III&artikel=22&z=2016-02-05&g=2016-02-05) and [23](https://wetten.overheid.nl/jci1.3:c:BWBV0006576&deel=III&artikel=23&z=2016-02-05&g=2016-02-05) of this Agreement are granted in the interests of the Kosovo Relocated Specialist Judicial Institution and not for the personal benefit of the persons themselves.
 
 2. The immunity of any person granted under this Agreement shall be waived as set out in Law No. 04/L-274 of the Republic of Kosovo in any particular case where the immunity would impede the course of justice and can be waived without prejudice to
 
@@ -538,7 +538,7 @@ The immunity granted to persons mentioned in [Article 17, paragraph 1](https://w
 
 ##### Article 29. Notification and Identification Cards
 
-1. The Registrar shall promptly, and no later than ten (10) days prior to the date of their arrival, notify the Host State of the presence in the Host State of persons other than suspects, accused, witnesses and victims as referred to in [Article 23](https://wetten.overheid.nl/jci1.3:c:BWBV0006576&deel=III&artikel=23&z=2016-01-26&g=2016-01-26) of this Agreement. If in exceptional circumstances the ten (10) days prior notification is not possible, the Registrar shall consult the Ministry of Foreign Affairs immediately.
+1. The Registrar shall promptly, and no later than ten (10) days prior to the date of their arrival, notify the Host State of the presence in the Host State of persons other than suspects, accused, witnesses and victims as referred to in [Article 23](https://wetten.overheid.nl/jci1.3:c:BWBV0006576&deel=III&artikel=23&z=2016-02-05&g=2016-02-05) of this Agreement. If in exceptional circumstances the ten (10) days prior notification is not possible, the Registrar shall consult the Ministry of Foreign Affairs immediately.
 
 2. The Registrar shall promptly, and no later than eight (8) days after the date of their first arrival in the Host State, notify the Host State of:
 
@@ -558,7 +558,7 @@ The immunity granted to persons mentioned in [Article 17, paragraph 1](https://w
 
 3. With respect to persons referred to in paragraph 2(a), the Registrar shall promptly, but within eight (8) days, notify the Host State of their appointment. With respect to persons referred to in paragraph 2(b), the Registrar shall promptly, but within eight (8) days, notify the Host State of the acceptation of such persons into the internship programme of the Kosovo Relocated Specialist Judicial Institution.
 
-4. The Registrar shall promptly, but within eight (8) days, notify the Host State of the hiring of experts, and the hiring of personnel recruited locally in accordance with [Article 19](https://wetten.overheid.nl/jci1.3:c:BWBV0006576&deel=III&artikel=19&z=2016-01-26&g=2016-01-26) of this Agreement.
+4. The Registrar shall promptly, but within eight (8) days, notify the Host State of the hiring of experts, and the hiring of personnel recruited locally in accordance with [Article 19](https://wetten.overheid.nl/jci1.3:c:BWBV0006576&deel=III&artikel=19&z=2016-02-05&g=2016-02-05) of this Agreement.
 
 5. With respect to the persons referred to in paragraphs 1, 2 and 4 of this Article, the Registrar shall promptly, but within eight (8) days, notify the Host State of their final departure or the termination of their functions or their involvement with the Kosovo Relocated Specialist Judicial Institution.
 
@@ -574,15 +574,15 @@ The immunity granted to persons mentioned in [Article 17, paragraph 1](https://w
 
 - c). private servants;
 
-- d). interns, provided that they have been registered in accordance with [Article 20(1)](https://wetten.overheid.nl/jci1.3:c:BWBV0006576&deel=III&artikel=20&z=2016-01-26&g=2016-01-26) of this Agreement;
+- d). interns, provided that they have been registered in accordance with [Article 20(1)](https://wetten.overheid.nl/jci1.3:c:BWBV0006576&deel=III&artikel=20&z=2016-02-05&g=2016-02-05) of this Agreement;
 
-- e). experts, provided that the Ministry of Foreign Affairs has been supplied with the document referred to under [Article 21(2)](https://wetten.overheid.nl/jci1.3:c:BWBV0006576&deel=III&artikel=21&z=2016-01-26&g=2016-01-26) of this Agreement;
+- e). experts, provided that the Ministry of Foreign Affairs has been supplied with the document referred to under [Article 21(2)](https://wetten.overheid.nl/jci1.3:c:BWBV0006576&deel=III&artikel=21&z=2016-02-05&g=2016-02-05) of this Agreement;
 
 - f). counsel and persons assisting counsel;
 
-- g). other persons who are required to be present at the seat of the Kosovo Relocated Specialist Judicial Institution, provided that the Ministry of Foreign Affairs has been supplied with the document referred to under [Article 23(2)](https://wetten.overheid.nl/jci1.3:c:BWBV0006576&deel=III&artikel=23&z=2016-01-26&g=2016-01-26) of this Agreement;
+- g). other persons who are required to be present at the seat of the Kosovo Relocated Specialist Judicial Institution, provided that the Ministry of Foreign Affairs has been supplied with the document referred to under [Article 23(2)](https://wetten.overheid.nl/jci1.3:c:BWBV0006576&deel=III&artikel=23&z=2016-02-05&g=2016-02-05) of this Agreement;
 
-- h). personnel recruited locally in accordance with [Article 19](https://wetten.overheid.nl/jci1.3:c:BWBV0006576&deel=III&artikel=19&z=2016-01-26&g=2016-01-26) of this Agreement.
+- h). personnel recruited locally in accordance with [Article 19](https://wetten.overheid.nl/jci1.3:c:BWBV0006576&deel=III&artikel=19&z=2016-02-05&g=2016-02-05) of this Agreement.
 
 9. At the final departure of the persons referred to in paragraphs 2, 4 and 8(g) of this Article or when these persons have ceased to perform their functions, the identity card referred to in paragraph 8 of this Article shall be promptly, and not later than within fifteen (15) days, be returned by the Registrar to the Ministry of Foreign Affairs. In case persons who have ceased to perform their functions are not able to return the identity card referred to in paragraph 8 of this Article within the specified time period, the Ministry of Foreign Affairs shall be consulted immediately.
 
@@ -600,9 +600,9 @@ To the extent that the social security system of the Kosovo Relocated Specialist
 
 3. Applications for visas where required from members of the family forming part of the household of the persons referred to in paragraph 1 of this Article shall be processed by the Host State as promptly as possible and granted free of charge.
 
-##### Article 32. Visas for experts, interns, counsel, and persons referred to in [Article 23](https://wetten.overheid.nl/jci1.3:c:BWBV0006576&deel=III&artikel=23&z=2016-01-26&g=2016-01-26)
+##### Article 32. Visas for experts, interns, counsel, and persons referred to in [Article 23](https://wetten.overheid.nl/jci1.3:c:BWBV0006576&deel=III&artikel=23&z=2016-02-05&g=2016-02-05)
 
-1. All persons referred to in [Articles 20](https://wetten.overheid.nl/jci1.3:c:BWBV0006576&deel=III&artikel=20&z=2016-01-26&g=2016-01-26), [21](https://wetten.overheid.nl/jci1.3:c:BWBV0006576&deel=III&artikel=21&z=2016-01-26&g=2016-01-26), [22](https://wetten.overheid.nl/jci1.3:c:BWBV0006576&deel=III&artikel=22&z=2016-01-26&g=2016-01-26) and [23](https://wetten.overheid.nl/jci1.3:c:BWBV0006576&deel=III&artikel=23&z=2016-01-26&g=2016-01-26) of this Agreement, as notified as such by the Registrar to the Host State, shall have the right of unimpeded entry into, exit from and, subject to paragraph 3 of this Article, movement within the Host State, as appropriate and for the purposes of the Kosovo Relocated Specialist Judicial Institution.
+1. All persons referred to in [Articles 20](https://wetten.overheid.nl/jci1.3:c:BWBV0006576&deel=III&artikel=20&z=2016-02-05&g=2016-02-05), [21](https://wetten.overheid.nl/jci1.3:c:BWBV0006576&deel=III&artikel=21&z=2016-02-05&g=2016-02-05), [22](https://wetten.overheid.nl/jci1.3:c:BWBV0006576&deel=III&artikel=22&z=2016-02-05&g=2016-02-05) and [23](https://wetten.overheid.nl/jci1.3:c:BWBV0006576&deel=III&artikel=23&z=2016-02-05&g=2016-02-05) of this Agreement, as notified as such by the Registrar to the Host State, shall have the right of unimpeded entry into, exit from and, subject to paragraph 3 of this Article, movement within the Host State, as appropriate and for the purposes of the Kosovo Relocated Specialist Judicial Institution.
 
 2. Visas, where required, shall be granted free of charge and as promptly as possible.
 
@@ -612,7 +612,7 @@ To the extent that the social security system of the Kosovo Relocated Specialist
 
 ##### Article 33. Driving licence
 
-During their period of employment, the judges, the Specialist Prosecutor, the Deputy Specialist Prosecutor, the Registrar, the Deputy Registrar, staff, members of their family forming part of their household and their private servants and counsel and members of their family forming part of their household and interns shall be allowed to obtain from the Host State a driving licence on presentation of their valid foreign driving licence or to continue to drive using their own valid foreign driving licence, provided the holder is in possession of an identity card issued by the Host State in accordance with [Article 29](https://wetten.overheid.nl/jci1.3:c:BWBV0006576&deel=V&deel=1&artikel=29&z=2016-01-26&g=2016-01-26) of this Agreement. The same applies to experts if an expert is required to stay in the Host State for an uninterrupted period exceeding three (3) months.
+During their period of employment, the judges, the Specialist Prosecutor, the Deputy Specialist Prosecutor, the Registrar, the Deputy Registrar, staff, members of their family forming part of their household and their private servants and counsel and members of their family forming part of their household and interns shall be allowed to obtain from the Host State a driving licence on presentation of their valid foreign driving licence or to continue to drive using their own valid foreign driving licence, provided the holder is in possession of an identity card issued by the Host State in accordance with [Article 29](https://wetten.overheid.nl/jci1.3:c:BWBV0006576&deel=V&deel=1&artikel=29&z=2016-02-05&g=2016-02-05) of this Agreement. The same applies to experts if an expert is required to stay in the Host State for an uninterrupted period exceeding three (3) months.
 
 ### SECTION 3. : SECURITY, OPERATIONAL ASSISTANCE
 
@@ -648,7 +648,7 @@ The Kosovo Relocated Specialist Judicial Institution shall make provisions for a
 
 4. The arbitral tribunal shall determine its own procedures, provided that any two arbitrators shall constitute a quorum for all purposes, and all decisions require the agreement of any two arbitrators.
 
-5. The expenses, as assessed by the arbitral tribunal, shall be borne by the Kosovo Relocated Specialist Judicial Institution in accordance with [Article 38](https://wetten.overheid.nl/jci1.3:c:BWBV0006576&deel=VI&artikel=38&z=2016-01-26&g=2016-01-26) of this Agreement and by the Host State.
+5. The expenses, as assessed by the arbitral tribunal, shall be borne by the Kosovo Relocated Specialist Judicial Institution in accordance with [Article 38](https://wetten.overheid.nl/jci1.3:c:BWBV0006576&deel=VI&artikel=38&z=2016-02-05&g=2016-02-05) of this Agreement and by the Host State.
 
 6. The arbitral tribunal shall reach a decision on the difference on the basis of the provisions of this Agreement and subsequent arrangements or agreements and the applicable rules of international law. The arbitral award shall contain a statement of the reasons on which it is based and shall be final and binding on the Parties.
 
@@ -672,7 +672,7 @@ This Agreement shall enter into force after the last notification between both P
 
 1. This Agreement shall be concluded for a period of one year.
 
-2. This Agreement shall cease to be in force upon entry into force of a Host State Agreement under [Article 2(2)](https://wetten.overheid.nl/jci1.3:c:BWBV0006576&deel=I&artikel=2&z=2016-01-26&g=2016-01-26) of this Agreement, if the seat of the Kosovo Relocated Specialist Judicial Institution is removed from the territory of the Host State or if the Kosovo Relocated Specialist Judicial Institution is dissolved, except for such provisions as may be applicable in connection with the orderly termination of the operations of the Kosovo Relocated Specialist Judicial Institution at its seat in the Host State and the disposition of its property therein, as well as provisions granting immunity from legal process of every kind in respect of words spoken or written or acts done in an official capacity.
+2. This Agreement shall cease to be in force upon entry into force of a Host State Agreement under [Article 2(2)](https://wetten.overheid.nl/jci1.3:c:BWBV0006576&deel=I&artikel=2&z=2016-02-05&g=2016-02-05) of this Agreement, if the seat of the Kosovo Relocated Specialist Judicial Institution is removed from the territory of the Host State or if the Kosovo Relocated Specialist Judicial Institution is dissolved, except for such provisions as may be applicable in connection with the orderly termination of the operations of the Kosovo Relocated Specialist Judicial Institution at its seat in the Host State and the disposition of its property therein, as well as provisions granting immunity from legal process of every kind in respect of words spoken or written or acts done in an official capacity.
 
 3. The provisions relating to the inviolability of the funds, assets, archives and documents of the Kosovo Relocated Specialist Judicial Institution shall survive termination of this Agreement.
 
