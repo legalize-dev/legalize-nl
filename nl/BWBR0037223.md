@@ -4,7 +4,7 @@ identifier: "BWBR0037223"
 country: "nl"
 rank: "zbo"
 publication_date: "2025-07-01"
-last_updated: "2015-11-25"
+last_updated: "2016-02-05"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0037223"
 soort: "zbo"
@@ -45,7 +45,7 @@ Het Uitvoeringsinstituut werknemersverzekeringen hanteert bij de uitvoering van 
 
 ##### Artikel 2
 
-De bijlage, bedoeld in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0037223&artikel=1&z=2015-11-25&g=2015-11-25), ligt ter inzage bij de locaties van de afdeling Arbeids-juridische dienstverlening van UWV WERKbedrijf en is te raadplegen op de website www.uwv.nl.
+De bijlage, bedoeld in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0037223&artikel=1&z=2016-02-05&g=2016-02-05), ligt ter inzage bij de locaties van de afdeling Arbeids-juridische dienstverlening van UWV WERKbedrijf en is te raadplegen op de website www.uwv.nl.
 
 ##### Artikel 3
 
