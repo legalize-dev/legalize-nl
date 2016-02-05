@@ -4,7 +4,7 @@ identifier: "BWBR0036387"
 country: "nl"
 rank: "zbo"
 publication_date: "2018-03-29"
-last_updated: "2015-03-07"
+last_updated: "2016-02-05"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0036387"
 soort: "zbo"
@@ -47,7 +47,7 @@ In deze regeling wordt verstaan onder:
 
 - c. **het jaar t + 3:** het jaar dat ligt 3 jaar na het jaar t;
 
-- d. **Wlz:** [Wet langdurige zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0035917&wetgeving);
+- d. **Wlz:** [Wet langdurige zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0035917);
 
 - e. **Flz:** Fonds langdurige zorg;
 
@@ -55,11 +55,11 @@ In deze regeling wordt verstaan onder:
 
 - g. **Wlz-uitvoerder:** een rechtspersoon als bedoeld in [artikel 4.1.1 van de Wlz](https://wetten.overheid.nl/jci1.3:c:BWBR0035917&artikel=4.1.1);
 
-- h. **Zorgkantoor:** de zorgkantoren die zijn aangewezen in het [Besluit van de Staatssecretaris van VWS van 10 december 2014](https://wetten.overheid.nl/jci1.3:c:BWBR0035987&wetgeving), houdende de aanwijzing van de zorgkantoren.
+- h. **Zorgkantoor:** de zorgkantoren die zijn aangewezen in het [Besluit van de Staatssecretaris van VWS van 10 december 2014](https://wetten.overheid.nl/jci1.3:c:BWBR0035987), houdende de aanwijzing van de zorgkantoren.
 
 ##### Artikel 2
 
-Deze regeling is van toepassing op voorschotbetalingen die worden gedaan onder de [Wlz](https://wetten.overheid.nl/jci1.3:c:BWBR0035917&wetgeving).
+Deze regeling is van toepassing op voorschotbetalingen die worden gedaan onder de [Wlz](https://wetten.overheid.nl/jci1.3:c:BWBR0035917).
 
 ##### Artikel 3. Vaststelling voorschotten beheerskosten
 
@@ -69,9 +69,11 @@ Deze regeling is van toepassing op voorschotbetalingen die worden gedaan onder d
 
 3. Voor een Wlz-uitvoerder, die zich na 1 januari van het jaar t bij de Nederlandse Zorgautoriteit (NZa) meldt op grond van [artikel 4.1.1 Wlz](https://wetten.overheid.nl/jci1.3:c:BWBR0035917&artikel=4.1.1), stelt het Zorginstituut de hoogte van het voorschot en de te betalen termijnen op nader door hem te bepalen wijze vast.
 
-##### Artikel 4. Betaling voorschotten en beheerskosten in termijnen
+##### Artikel 4. betaling voorschotten en beheerskosten in termijnen
 
-De betaling van het voorschot, bedoeld in [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036387&artikel=2&z=2015-03-07&g=2015-03-07), geschiedt in twaalf maandelijkse gelijke termijnen en vangt aan in de maand februari van het jaar t met als betaaldag de eerste werkdag van de maand.
+Het Zorginstituut betaalt het voorschot, bedoeld in [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036387&artikel=2&z=2016-02-05&g=2016-02-05), als volgt:
+
+Op de eerste werkdag van de maand maart van het jaar t keert het Zorginstituut 25 procent van het voorschot uit. Iedere eerste werkdag van de maanden april tot en met januari daaropvolgend keert het Zorginstituut 7,5 procent van het voorschot uit.
 
 ##### Artikel 5. Vaststelling voorschotten kosten verstrekkingen en vergoedingen
 
@@ -81,19 +83,19 @@ Voor de vergoeding van kosten van verstrekkingen en vergoedingen, bedoeld in [ar
 
 1. Uiterlijk op de eerste werkdag in oktober van het jaar t+1 stelt het Zorginstituut de vergoeding voor de kosten van verstrekkingen en vergoedingen voorlopig vast.
 
-2. Voor de toepassing van het eerste lid gaat het Zorginstituut voor de kosten van verstrekkingen en vergoedingen ingevolge de [Wlz](https://wetten.overheid.nl/jci1.3:c:BWBR0035917&wetgeving) voor de Wlz-uitvoerder uit van de som van:
+2. Voor de toepassing van het eerste lid gaat het Zorginstituut voor de kosten van verstrekkingen en vergoedingen ingevolge de [Wlz](https://wetten.overheid.nl/jci1.3:c:BWBR0035917) voor de Wlz-uitvoerder uit van de som van:
 
 - a. het saldo van de kosten van rechtstreeks met het Flz te verrekenen kosten en opbrengsten van zorgaanspraken die de Wlz-uitvoerder aan het Zorginstituut voor het jaar t opgeeft;
 
 - b. de door de Wlz-uitvoerder over het jaar t opgegeven rentebaten.
 
-3. Voor de toepassing van het eerste lid gaat het Zorginstituut voor de kosten van verstrekkingen en vergoedingen ingevolge de [Wlz](https://wetten.overheid.nl/jci1.3:c:BWBR0035917&wetgeving) voor het zorgkantoor uit van de som van:
+3. Voor de toepassing van het eerste lid gaat het Zorginstituut voor de kosten van verstrekkingen en vergoedingen ingevolge de [Wlz](https://wetten.overheid.nl/jci1.3:c:BWBR0035917) voor het zorgkantoor uit van de som van:
 
 - a. het saldo van de kosten van rechtstreeks met het Flz te verrekenen kosten en opbrengsten van zorgaanspraken die het zorgkantoor aan het Zorginstituut voor het jaar t opgeeft;
 
 - b. de nagekomen opbrengsten van eigen bijdragen in het kader van de bijzondere ziektekostenverzekering.
 
-4. Het Zorginstituut keert de voorlopig vastgestelde vergoeding voor de kosten van verstrekkingen en vergoedingen, bedoeld in [artikel 4.2 Besluit Wfsv](https://wetten.overheid.nl/jci1.3:c:BWBR0019070&artikel=4.2), uit onder verrekening van de in jaar t verstrekte voorschotten, bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0036387&artikel=4&z=2015-03-07&g=2015-03-07).
+4. Het Zorginstituut keert de voorlopig vastgestelde vergoeding voor de kosten van verstrekkingen en vergoedingen, bedoeld in [artikel 4.2 Besluit Wfsv](https://wetten.overheid.nl/jci1.3:c:BWBR0019070&artikel=4.2), uit onder verrekening van de in jaar t verstrekte voorschotten, bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0036387&artikel=4&z=2016-02-05&g=2016-02-05).
 
 ##### Artikel 7. De definitieve vaststelling en uitkering van de vergoeding van kosten van verstrekkingen en vergoedingen
 
@@ -107,30 +109,32 @@ Voor de vergoeding van kosten van verstrekkingen en vergoedingen, bedoeld in [ar
 
 2. Indien het definitief vastgestelde beheerskostenbudget hoger is dan het nader vastgestelde beheerskostenbudget, betaalt het Zorginstituut de Wlz-uitvoerder en het zorgkantoor het verschil vermeerderd met de rentekosten uit en indien het definitief vastgestelde budget lager is dan het nader vastgestelde budget vordert het Zorginstituut het verschil terug, vermeerderd met de rentekosten.
 
-3. Voor een Wlz-uitvoerder en een zorgkantoor, waarvoor krachtens [artikel 2, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036387&artikel=2&z=2015-03-07&g=2015-03-07), een afwijkende bevoorschotting heeft plaatsgevonden, wordt de toepassing van hetgeen in het eerste en tweede lid van dit artikel is bepaald, aan die bevoorschotting aangepast.
+3. Voor een Wlz-uitvoerder en een zorgkantoor, waarvoor krachtens [artikel 2, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036387&artikel=2&z=2016-02-05&g=2016-02-05), een afwijkende bevoorschotting heeft plaatsgevonden, wordt de toepassing van hetgeen in het eerste en tweede lid van dit artikel is bepaald, aan die bevoorschotting aangepast.
 
 4. Bij de betaling van het bedrag van de voorlopige vaststelling van de kosten van verstrekkingen en vergoedingen brengt het Zorginstituut aan de Wlz-uitvoerder en het zorgkantoor met ingang van de betaaldatum van het voorschot rente in rekening, voor zover het voorschot de werkelijke kosten van verstrekkingen en vergoedingen, die de Wlz-uitvoerder en het zorgkantoor aan het Zorginstituut voor het jaar t opgeeft, overschrijdt. De rente wordt berekend over de periode tussen het moment van de voorschotverstrekking en de afrekening.
 
 ##### Artikel 9. Berekening hoogte rente
 
-1. Voor het rentepercentage voor de uitkering beheerskosten wordt uitgegaan van het gemiddelde van de maandrentes van het Euro InterbankOffered Rate (Euribortarief) voor driemaands termijngelden zonder onderpand over de onderscheiden periodes, bedoeld in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0036387&artikel=8&z=2015-03-07&g=2015-03-07). Voor de laatste kalendermaand vóór de betaling wordt uitgegaan van de rente over de voorafgaande kalendermaand.
+1. Voor het rentepercentage voor de uitkering beheerskosten wordt uitgegaan van het gemiddelde van de maandrentes van het Euro InterbankOffered Rate (Euribortarief) voor driemaands termijngelden zonder onderpand over de onderscheiden periodes, bedoeld in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0036387&artikel=8&z=2016-02-05&g=2016-02-05). Voor de laatste kalendermaand vóór de betaling wordt uitgegaan van de rente over de voorafgaande kalendermaand.
 
-2. De rente betreft een samengestelde rente en wordt op maandbasis berekend. Bij de berekening wordt een maand op 30 en een jaar op 360 dagen gesteld.
+2. Het rentepercentage betreft een samengestelde rente en wordt op maandbasis berekend. Bij de berekening wordt een maand op 30 dagen en een jaar op 360 dagen gesteld.
 
 3. Indien de situatie zich voordoet dat het Euro InterbankOffered Rate niet meer kan worden toegepast, zal een zoveel als mogelijk overeenkomstig tarief worden gehanteerd.
 
-##### Artikel 10. Inwerkingtreding
+##### Artikel 10. rentepercentage wettelijke reserve [Wlz](https://wetten.overheid.nl/jci1.3:c:BWBR0035917)
+
+1. Het Zorginstituut stelt het rentepercentage, bedoeld in [artikel 4.6, derde lid van het besluit Wfsv](https://wetten.overheid.nl/jci1.3:c:BWBR0019070&artikel=4.6), vast op het gemiddelde van de maandrentes van het Euro InterbankOffered Rate (Euribortarief) voor driemaands termijngelden zonder onderpand over de onderscheiden periodes.
+
+2. Het rentepercentage, bedoeld in het eerste lid, betreft een samengestelde rente en wordt op maandbasis berekend. Bij de berekening wordt een maand op 30 dagen en een jaar op 360 dagen gesteld.
+
+3. Indien de situatie zich voordoet dat het Euro InterbankOfferd Rate niet meer kan worden toegepast, zal een zoveel als mogelijk overeenkomstig tarief worden gehanteerd.
+
+##### Artikel 11. Inwerkingtreding
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst. Deze regeling treedt in werking met ingang van de tweede dag na de dag van dagtekening van de Staatscourant waarin deze wordt geplaatst en werkt terug tot en met 1 januari 2015.
 
-##### Artikel 11. Slotbepalingen
-
-1. De [Regeling voorschotverlening op uitkeringen AWBZ 2013](https://wetten.overheid.nl/jci1.3:c:BWBR0032880) blijft van toepassing op de afwikkeling van de voorschotverlening op uitkeringen inzake de [AWBZ](https://wetten.overheid.nl/jci1.3:c:BWBR0002614&wetgeving).
-
-2. Deze regeling wordt aangehaald als: Regeling voorschotverlening op uitkeringen en vergoedingen Wlz 2015.
-
 ##### Artikel 12. Slotbepalingen
 
-1. De [Regeling voorschotverlening op uitkeringen AWBZ 2013](https://wetten.overheid.nl/jci1.3:c:BWBR0032880) blijft van toepassing op de afwikkeling van de voorschotverlening op uitkeringen inzake de [AWBZ](https://wetten.overheid.nl/jci1.3:c:BWBR0002614&wetgeving).
+1. De [Regeling voorschotverlening op uitkeringen AWBZ 2013](https://wetten.overheid.nl/jci1.3:c:BWBR0032880) blijft van toepassing op de afwikkeling van de voorschotverlening op uitkeringen inzake de [AWBZ](https://wetten.overheid.nl/jci1.3:c:BWBR0002614).
 
 2. Deze regeling wordt aangehaald als: Regeling voorschotverlening op uitkeringen en vergoedingen Wlz 2015.
