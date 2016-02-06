@@ -95,9 +95,3 @@ Dit besluit treedt in werking met ingang van de dag na dagtekening van de Staats
 Dit besluit wordt aangehaald als: Besluit buitengewoon opsporingsambtenaar gemeente Hengelo 2016.
 
 Dit besluit zal met de toelichting in de Staatscourant worden geplaatst.
-
-##### Artikel 9
-
-Dit besluit wordt aangehaald als: Besluit buitengewoon opsporingsambtenaar gemeente Hengelo 2016.
-
-Dit besluit zal met de toelichting in de Staatscourant worden geplaatst.
