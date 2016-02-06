@@ -4,7 +4,7 @@ identifier: "BWBR0032666"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2016-02-06"
-last_updated: "2013-01-01"
+last_updated: "2016-02-06"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0032666"
 soort: "ministeriele-regeling"
@@ -45,7 +45,7 @@ Besluiten:
 
 1. Aan SSC-ICT Den Haag wordt de status van baten-lastendienst verleend, als bedoeld in [artikel 10, eerste lid, van de Comptabiliteitswet 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0013891&artikel=10).
 
-2. De tenaamstelling van de baten-lastendienst komt te luiden: baten-lastendienst SSC-ICT Den Haag.
+2. De tenaamstelling van de baten-lastendienst komt te luiden: baten-lastendienst SSC-ICT.
 
 ##### Artikel 2
 
