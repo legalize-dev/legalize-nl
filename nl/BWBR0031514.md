@@ -4,7 +4,7 @@ identifier: "BWBR0031514"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2018-02-09"
-last_updated: "2012-04-28"
+last_updated: "2016-02-09"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0031514"
 soort: "ministeriele-regeling"
@@ -56,7 +56,7 @@ In deze regeling en de daarop berustende bepalingen wordt verstaan onder:
 
 - 5. **Archiefbewaarplaats:** een bij of krachtens de [Archiefwet](https://wetten.overheid.nl/jci1.3:c:BWBR0007376) voor blijvende bewaring van records aangewezen bewaarplaats.
 
-- 6. **Archiefvormend orgaan:** de onderdelen van het ministerie van IenM genoemd in [artikel 2 van het Organisatie- en mandaatbesluit Infrastructuur en Milieu 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0030951&artikel=2) en een ander orgaan (al dan niet van IenM), die of dat een (deel van een) taak of meerdere taken van het ministerie van IenM uitvoert en waarvoor afzonderlijk dient te worden gearchiveerd ingevolge de [Archiefwet](https://wetten.overheid.nl/jci1.3:c:BWBR0007376).
+- 6. **Archiefvormend orgaan:** de onderdelen van het ministerie van IenM genoemd in [artikel 2 van het Organisatie- en mandaatbesluit Infrastructuur en Milieu 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0030951&artikel=2), een ander orgaan (al dan niet van IenM), dat een (deel van een) taak of taken van het ministerie van IenM dan wel opgedragen door de Minister van IenM uitvoert en waarvoor afzonderlijk dient te worden gearchiveerd ingevolge de [Archiefwet](https://wetten.overheid.nl/jci1.3:c:BWBR0007376).
 
 - 7. **Authenticiteit:** de mate waarin van een document kan worden aangetoond dat:
 
@@ -90,7 +90,7 @@ In deze regeling en de daarop berustende bepalingen wordt verstaan onder:
 
 - 19. **Gegevensdrager:** materiaal waarop of waarin gegevens worden vastgelegd.
 
-- 20. **Hoofd van een archiefvormend orgaan:** het diensthoofd of de secretaris van een adviesorgaan of overlegorgaan van een onderdeel van het ministerie van IenM, genoemd in [artikel 2 van het Organisatie- en mandaatbesluit Infrastructuur en Milieu 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0030951&artikel=2) en hoofden van andere organen (al dan niet van IenM), onder wiens verantwoordelijkheid een (deel van een) taak of meerdere taken van het ministerie van IenM worden uitgevoerd en waarvoor afzonderlijk dient te worden gearchiveerd ingevolge de [Archiefwet](https://wetten.overheid.nl/jci1.3:c:BWBR0007376).
+- 20. **Hoofd van een archiefvormend orgaan:** het diensthoofd of de secretaris van een adviesorgaan of overlegorgaan van een onderdeel van het ministerie van IenM, genoemd in [artikel 2 van het Organisatie- en mandaatbesluit Infrastructuur en Milieu 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0030951&artikel=2) en hoofden van andere organen (al dan niet van IenM), onder wiens verantwoordelijkheid een (deel van een) taak of taken van het ministerie van IenM dan wel opgedragen door de Minister van IenM worden uitgevoerd en waarvoor afzonderlijk dient te worden gearchiveerd ingevolge de [Archiefwet](https://wetten.overheid.nl/jci1.3:c:BWBR0007376).
 
 - 21. **Leesbaarheid:** de mate waarin van informatie, de opslagtechniek (drager, formaat) en het schrift bekend zijn, waardoor zij op een voor de mens natuurlijke manier kan worden waargenomen en geïnterpreteerd.
 
@@ -254,7 +254,7 @@ In deze regeling en de daarop berustende bepalingen wordt verstaan onder:
 
 2. Van een, voor permanente bewaring in aanmerking komend, afgesloten archief wordt een beschrijvende inventaris opgesteld en onderhouden.
 
-3. De hoofden archiefvormend orgaan verstrekken de inventaris op diens verzoek aan de Hoofddirecteur Financiën Management en Control ten behoeve van de uitvoering van de in [artikel 3, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031514&hoofdstuk=3&artikel=3&z=2012-04-28&g=2012-04-28), van deze regeling bedoelde taken.
+3. De hoofden archiefvormend orgaan verstrekken de inventaris op diens verzoek aan de Hoofddirecteur Financiën Management en Control ten behoeve van de uitvoering van de in [artikel 3, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031514&hoofdstuk=3&artikel=3&z=2016-02-09&g=2016-02-09), van deze regeling bedoelde taken.
 
 ### Hoofdstuk 5. : Het beheer van records
 
@@ -266,7 +266,7 @@ In deze regeling en de daarop berustende bepalingen wordt verstaan onder:
 
 3. Het hoofd van een archiefvormend orgaan draagt zorg dat vernietigbare records gedurende hun bewaartermijn in goede materiële staat worden gehouden.
 
-4. Indien records door de aard van de oorspronkelijk gebruikte materialen of programmatuur niet (langer) voldoen aan het in het eerste en derde lid bepaalde, wordt overgegaan tot vervanging van de records door reproducties op de wijze als in [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0031514&hoofdstuk=5&artikel=12&z=2012-04-28&g=2012-04-28) van de beheersregeling wordt omschreven of in geval van programmatuur tot conversie, migratie en emulatie volgens [artikel 19](https://wetten.overheid.nl/jci1.3:c:BWBR0031514&hoofdstuk=6&artikel=19&z=2012-04-28&g=2012-04-28).
+4. Indien records door de aard van de oorspronkelijk gebruikte materialen of programmatuur niet (langer) voldoen aan het in het eerste en derde lid bepaalde, wordt overgegaan tot vervanging van de records door reproducties op de wijze als in [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0031514&hoofdstuk=5&artikel=12&z=2016-02-09&g=2016-02-09) van de beheersregeling wordt omschreven of in geval van programmatuur tot conversie, migratie en emulatie volgens [artikel 19](https://wetten.overheid.nl/jci1.3:c:BWBR0031514&hoofdstuk=6&artikel=19&z=2016-02-09&g=2016-02-09).
 
 ##### Artikel 10. Archiefruimten
 
@@ -306,7 +306,7 @@ Zowel in de aanvraag van de machtiging tot vervanging als in de bekendmaking van
 
 6. Van de vervanging van records wordt een door het hoofd van een archiefvormend orgaan ondertekende verklaring opgesteld, die ten minste een specificatie van de vervangen records bevat, alsmede aangeeft op grond waarvan en op welke wijze de vervanging is geschied. Een exemplaar van de verklaring wordt gearchiveerd.
 
-7. In de in [artikel 8, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031514&hoofdstuk=4&artikel=8&z=2012-04-28&g=2012-04-28), van de beheersregeling genoemde inventaris wordt de datum van de vervanging van de betreffende records vermeld.
+7. In de in [artikel 8, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031514&hoofdstuk=4&artikel=8&z=2016-02-09&g=2016-02-09), van de beheersregeling genoemde inventaris wordt de datum van de vervanging van de betreffende records vermeld.
 
 ##### Artikel 13. Organisatiewijzigingen
 
@@ -334,11 +334,11 @@ Het hoofd van een archiefvormend orgaan zorgt ervoor dat het beheer van zijn rec
 
 ##### Artikel 16. Beheer van digitale records
 
-De [artikelen 17 tot en met 21](https://wetten.overheid.nl/jci1.3:c:BWBR0031514&hoofdstuk=6&artikel=17&z=2012-04-28&g=2012-04-28) van de beheersregeling bevatten bepalingen die uitsluitend gelden voor digitale records. De overige artikelen van de beheersregeling hebben betrekking op álle records, ongeacht hun vorm, en zijn derhalve eveneens van toepassing op digitale records.
+De [artikelen 17 tot en met 21](https://wetten.overheid.nl/jci1.3:c:BWBR0031514&hoofdstuk=6&artikel=17&z=2016-02-09&g=2016-02-09) van de beheersregeling bevatten bepalingen die uitsluitend gelden voor digitale records. De overige artikelen van de beheersregeling hebben betrekking op álle records, ongeacht hun vorm, en zijn derhalve eveneens van toepassing op digitale records.
 
 ##### Artikel 17. Metagegevens bij digitale records
 
-Het hoofd van een archiefvormend orgaan is er verantwoordelijk voor dat van digitale records, naast de in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0031514&hoofdstuk=4&artikel=4&z=2012-04-28&g=2012-04-28) en [5](https://wetten.overheid.nl/jci1.3:c:BWBR0031514&hoofdstuk=4&artikel=5&z=2012-04-28&g=2012-04-28) genoemde registratiekenmerken ten minste de volgende kenmerken worden vastgelegd en bewaard:
+Het hoofd van een archiefvormend orgaan is er verantwoordelijk voor dat van digitale records, naast de in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0031514&hoofdstuk=4&artikel=4&z=2016-02-09&g=2016-02-09) en [5](https://wetten.overheid.nl/jci1.3:c:BWBR0031514&hoofdstuk=4&artikel=5&z=2016-02-09&g=2016-02-09) genoemde registratiekenmerken ten minste de volgende kenmerken worden vastgelegd en bewaard:
 
 - 1. de oorspronkelijke technische aard van de digitale records, alsmede van de hard- en softwareomgeving daarvan;
 
@@ -356,7 +356,7 @@ Het hoofd van een archiefvormend orgaan is er verantwoordelijk voor dat van digi
 
 - 4. Het hoofd van een archiefvormend orgaan legt de functionele eisen vast ten aanzien van:
 
-- a). de inhoud, vorm en structuur van digitale records, zoals bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0031514&hoofdstuk=4&artikel=5&z=2012-04-28&g=2012-04-28) van de beheersregeling;
+- a). de inhoud, vorm en structuur van digitale records, zoals bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0031514&hoofdstuk=4&artikel=5&z=2016-02-09&g=2016-02-09) van de beheersregeling;
 
 - b). het gedrag, voor zover dit noodzakelijk is voor het waarborgen van de authenticiteit van de digitale records.
 
@@ -382,19 +382,19 @@ Het hoofd van een archiefvormend orgaan treft zodanig passende maatregelen, dat 
 
 ##### Artikel 21. Vernietigbare digitale records
 
-Onverminderd de verplichting alle records in goede, geordende en toegankelijke staat te houden, kunnen [artikel 17 tot en met 20](https://wetten.overheid.nl/jci1.3:c:BWBR0031514&hoofdstuk=6&artikel=17&z=2012-04-28&g=2012-04-28) van de beheersregeling buiten toepassing blijven voor vernietigbare digitale records, indien dit de doelmatigheid van het archiefbeheer ten goede komt.
+Onverminderd de verplichting alle records in goede, geordende en toegankelijke staat te houden, kunnen [artikel 17 tot en met 20](https://wetten.overheid.nl/jci1.3:c:BWBR0031514&hoofdstuk=6&artikel=17&z=2016-02-09&g=2016-02-09) van de beheersregeling buiten toepassing blijven voor vernietigbare digitale records, indien dit de doelmatigheid van het archiefbeheer ten goede komt.
 
 ### Hoofdstuk 7. : De verwijdering en verplaatsing van records
 
 ##### Artikel 22. Vernietiging
 
-1. Records worden uitsluitend vernietigd op grond van een vastgestelde selectielijst, op grond van noodvernietiging of, met inachtneming van de voorschriften uit [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0031514&hoofdstuk=5&artikel=12&z=2012-04-28&g=2012-04-28) van de beheersregeling, na vervanging van de betreffende records door reproducties.
+1. Records worden uitsluitend vernietigd op grond van een vastgestelde selectielijst, op grond van noodvernietiging of, met inachtneming van de voorschriften uit [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0031514&hoofdstuk=5&artikel=12&z=2016-02-09&g=2016-02-09) van de beheersregeling, na vervanging van de betreffende records door reproducties.
 
 2. Het hoofd van een archiefvormend orgaan draagt verantwoordelijkheid voor vernietiging van daarvoor in aanmerking komende archiefbestanddelen en bijbehorende metagegevens, zodra de daarvoor in de selectielijst vastgestelde termijn is verstreken.
 
 3. Van de vernietiging van archiefbestanddelen wordt een door het hoofd van een archiefvormend orgaan ondertekende verklaring opgemaakt, die ten minste een specificatie van de vernietigde records bevat, alsmede aangeeft op grond waarvan en op welke wijze de vernietiging heeft plaatsgevonden. Een exemplaar van de verklaring wordt gearchiveerd.
 
-4. In het in [artikel 7, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031514&hoofdstuk=4&artikel=7&z=2012-04-28&g=2012-04-28), van de beheersregeling genoemde overzicht wordt vermeld op welke datum de betreffende records vernietigd zijn.
+4. In het in [artikel 7, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031514&hoofdstuk=4&artikel=7&z=2016-02-09&g=2016-02-09), van de beheersregeling genoemde overzicht wordt vermeld op welke datum de betreffende records vernietigd zijn.
 
 ##### Artikel 23. Overbrenging
 
@@ -426,7 +426,7 @@ Onverminderd de verplichting alle records in goede, geordende en toegankelijke s
 
 2. Voorafgaand aan de overdracht van archiefbestanddelen van het dynamisch naar het semi-statisch archief maken de betrokken archiefbeheerders nadere afspraken over de toegankelijkheid, de ordening en de materiële staat van het over te dragen archief.
 
-3. In het in [artikel 7, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031514&hoofdstuk=4&artikel=7&z=2012-04-28&g=2012-04-28), van de beheersregeling genoemde overzicht wordt vermeld op welke datum en aan welk organisatieonderdeel de records zijn overgedragen.
+3. In het in [artikel 7, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031514&hoofdstuk=4&artikel=7&z=2016-02-09&g=2016-02-09), van de beheersregeling genoemde overzicht wordt vermeld op welke datum en aan welk organisatieonderdeel de records zijn overgedragen.
 
 ##### Artikel 26. Verhuizingen
 
