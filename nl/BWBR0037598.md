@@ -95,9 +95,3 @@ Dit besluit treedt in werking met ingang van de dag na dagtekening van de Staats
 Dit besluit wordt aangehaald als: Besluit buitengewoon opsporingsambtenaar, domein II, Milieu, welzijn en infrastructuur van de provincie Groningen 2016.
 
 Dit besluit zal met de toelichting in de Staatscourant worden geplaatst.
-
-##### Artikel 6a
-
-De buitengewoon opsporingsambtenaar, genoemd in [artikel 2, lid 2](https://wetten.overheid.nl/jci1.3:c:BWBR0037598&artikel=2&z=2019-03-21&g=2019-03-21), kan de in [artikel 7, eerste en derde lid, van de Politiewet 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&artikel=7) omschreven bevoegdheden uitoefenen met gebruikmaking van handboeien en een wapenstok.
-
-Dit besluit zal met de toelichting in de Staatscourant worden geplaatst.
