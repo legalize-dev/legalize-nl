@@ -4,7 +4,7 @@ identifier: "BWBR0017237"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2024-01-01"
-last_updated: "2016-01-01"
+last_updated: "2016-02-11"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0017237"
 soort: "ministeriele-regeling"
@@ -110,7 +110,9 @@ Van het schriftelijk theorie-examen wordt informatie over de examenplanning en d
 
 - d. voor RPL, ten behoeve van het vliegen met toestellen als bedoeld in bijlage II van de basisverordening, geldig is conform bijlage I (Deel FCL) van verordening (EU) nr. 1178/2011;
 
-- e. geldig is voor een schriftelijk examen als bedoeld in Bijlage III, onderdeel B Conversie bewijzen van bevoegdheid, van verordening (EU) nr. 1178/2011.
+- e. geldig is voor een schriftelijk examen als bedoeld in Bijlage III, onderdeel B Conversie bewijzen van bevoegdheid, van verordening (EU) nr. 1178/2011;
+
+- f. geldig is voor een schriftelijk overbruggingsexamen voor militairen ter verkrijging van een bewijs van bevoegdheid ATPL (A) of ATPL (H)/IR als bedoeld in bijlage I (deel FCL), subdelen F en G, van verordening (EU) nr. 1178/2011.
 
 3. Het in het tweede lid bedoelde toelatingsbewijs vermeldt het persoonsgebonden registratienummer en de geldigheidsduur van het toelatingsbewijs, te weten 18 maanden, gerekend vanaf de laatste dag van de kalendermaand waarin de kandidaat voor het eerst aan een examenzitting heeft deelgenomen.
 
@@ -122,7 +124,7 @@ Van het schriftelijk theorie-examen wordt informatie over de examenplanning en d
 
 - b. voor aanvang van het examen op de examenlocatie een wettig en geldig legitimatiebewijs toont, en
 
-- c. in het bezit is van een geldig toelatingsbewijs als bedoeld in [artikel 3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017237&paragraaf=2&artikel=3&z=2015-05-08&g=2016-01-01).
+- c. in het bezit is van een geldig toelatingsbewijs als bedoeld in [artikel 3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017237&paragraaf=2&artikel=3&z=2016-02-11&g=2016-02-11).
 
 2. Aanvullende eisen voor toelating tot het schriftelijk theorie-examen worden vastgesteld en bekendgemaakt door het CBR.
 
@@ -138,7 +140,7 @@ Vervallen
 
 ##### Artikel 7
 
-Op het theorie-examen voor CPL(FB) zijn de eisen, bedoeld in tabel 1 van [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0017237&bijlage=1&z=2015-05-08&g=2016-01-01), van toepassing.
+Op het theorie-examen voor CPL(FB) zijn de eisen, bedoeld in tabel 1 van [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0017237&bijlage=1&z=2016-02-11&g=2016-02-11), van toepassing.
 
 ##### Artikel 8
 
@@ -166,7 +168,7 @@ De minister kan de uitslag van het schriftelijk theorie-examen ongeldig verklare
 
 2. Het eindresultaat van de beoordeling per examen luidt:
 
-- a. indien alle vakken zijn behaald binnen het toegestane aantal pogingen en examenzittingen, bedoeld in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0017237&paragraaf=2&artikel=7&z=2015-05-08&g=2016-01-01): geslaagd;
+- a. indien alle vakken zijn behaald binnen het toegestane aantal pogingen en examenzittingen, bedoeld in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0017237&paragraaf=2&artikel=7&z=2016-02-11&g=2016-02-11): geslaagd;
 
 - b. in de overige gevallen: afgewezen.
 
@@ -214,15 +216,15 @@ Een praktijkexamen en een proeve van bekwaamheid worden afgenomen op een luchtva
 
 1. Een kandidaat is voor het afleggen van een praktijkexamen of proeve van bekwaamheid een vergoeding verschuldigd aan:
 
-- a. indien [artikel 15, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0017237&paragraaf=3&artikel=15&z=2015-05-08&g=2016-01-01), van toepassing is: de protocolhouder, voor zover deze de kosten doorberekent;
+- a. indien [artikel 15, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0017237&paragraaf=3&artikel=15&z=2016-02-11&g=2016-02-11), van toepassing is: de protocolhouder, voor zover deze de kosten doorberekent;
 
-- b. indien [artikel 15, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0017237&paragraaf=3&artikel=15&z=2015-05-08&g=2016-01-01), van toepassing is: de minister.
+- b. indien [artikel 15, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0017237&paragraaf=3&artikel=15&z=2016-02-11&g=2016-02-11), van toepassing is: de minister.
 
 2. Het bedrag van de vergoeding, bedoeld in het eerste lid, wordt vastgesteld op grondslag van [artikel 4 van de Regeling examinatoren voor luchtvarenden 2004](https://wetten.overheid.nl/jci1.3:c:BWBR0017236&artikel=4).
 
 ##### Artikel 17
 
-De kandidaat wordt slechts toegelaten tot het praktijkexamen of de proeve van bekwaamheid indien hij voor aanvang aan de examinator, bedoeld in [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBR0017237&paragraaf=3&artikel=15&z=2015-05-08&g=2016-01-01), de volgende bescheiden overlegt:
+De kandidaat wordt slechts toegelaten tot het praktijkexamen of de proeve van bekwaamheid indien hij voor aanvang aan de examinator, bedoeld in [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBR0017237&paragraaf=3&artikel=15&z=2016-02-11&g=2016-02-11), de volgende bescheiden overlegt:
 
 - a. een wettig en geldig legitimatiebewijs; en
 
@@ -232,7 +234,7 @@ De kandidaat wordt slechts toegelaten tot het praktijkexamen of de proeve van be
 
 1. De kandidaat dan wel de opleidingsinstelling draagt zorg voor de beschikbaarheid van een luchtvaartuig of FSTD, voor zover van toepassing, voor het afleggen van een praktijkexamen of een proeve van bekwaamheid.
 
-2. Praktijkexamens en proeven van bekwaamheid voor een ATPL, of een multi-pilot type bevoegdverklaring worden uitgevoerd in een FSTD als bedoeld in [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0017237&paragraaf=3&artikel=13&z=2015-05-08&g=2016-01-01), tenzij er geen FSTD beschikbaar is die het voor een examenonderdeel vereiste niveau van kwalificatie heeft, dan wel er voor het desbetreffende type luchtvaartuig geen gekwalificeerde FSTD voorhanden is.
+2. Praktijkexamens en proeven van bekwaamheid voor een ATPL, of een multi-pilot type bevoegdverklaring worden uitgevoerd in een FSTD als bedoeld in [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0017237&paragraaf=3&artikel=13&z=2016-02-11&g=2016-02-11), tenzij er geen FSTD beschikbaar is die het voor een examenonderdeel vereiste niveau van kwalificatie heeft, dan wel er voor het desbetreffende type luchtvaartuig geen gekwalificeerde FSTD voorhanden is.
 
 3. De examenonderdelen die niet geëxamineerd kunnen worden in een FSTD, worden afgenomen in een luchtvaartuig van het desbetreffende type of de desbetreffende klasse.
 
@@ -266,7 +268,7 @@ Vervallen
 
 - 7°. de examinator niet betrokken is bij de bediening van het luchtvaartuig tenzij diens tussenkomst noodzakelijk is in het belang van de veiligheid of teneinde vertraging van overig verkeer te voorkomen.
 
-2. Onverminderd het eerste lid is bij het afnemen van het praktijkexamen [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0017237&bijlage=2&z=2015-05-08&g=2016-01-01), behorende bij deze regeling van toepassing. Van [deze bijlage](https://wetten.overheid.nl/jci1.3:c:BWBR0017237&bijlage=2&z=2015-05-08&g=2016-01-01) kan worden afgeweken indien de strikte naleving ervan in het concrete geval niet nodig is en een onevenredig nadeel voor de kandidaat zou opleveren.
+2. Onverminderd het eerste lid is bij het afnemen van het praktijkexamen [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0017237&bijlage=2&z=2016-02-11&g=2016-02-11), behorende bij deze regeling van toepassing. Van [deze bijlage](https://wetten.overheid.nl/jci1.3:c:BWBR0017237&bijlage=2&z=2016-02-11&g=2016-02-11) kan worden afgeweken indien de strikte naleving ervan in het concrete geval niet nodig is en een onevenredig nadeel voor de kandidaat zou opleveren.
 
 ##### Artikel 21
 
@@ -274,13 +276,13 @@ Vervallen
 
 ##### Artikel 22
 
-1. De uitslag van een praktijkexamen voor RPL of CPL(FB) wordt vastgesteld door de minister aan de hand van de gegevens die door de examinator, bedoeld in [artikel 15, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017237&paragraaf=3&artikel=15&z=2015-05-08&g=2016-01-01), op het examenformulier zijn aangetekend.
+1. De uitslag van een praktijkexamen voor RPL of CPL(FB) wordt vastgesteld door de minister aan de hand van de gegevens die door de examinator, bedoeld in [artikel 15, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017237&paragraaf=3&artikel=15&z=2016-02-11&g=2016-02-11), op het examenformulier zijn aangetekend.
 
 2. De minister voorziet de kandidaat van een resultaatbrief met de uitslag van het praktijkexamen.
 
 ##### Artikel 23
 
-1. Met betrekking tot de vaststelling van de uitslag van een proeve van bekwaamheid is [artikel 22](https://wetten.overheid.nl/jci1.3:c:BWBR0017237&paragraaf=3&artikel=22&z=2015-05-08&g=2016-01-01) van overeenkomstige toepassing.
+1. Met betrekking tot de vaststelling van de uitslag van een proeve van bekwaamheid is [artikel 22](https://wetten.overheid.nl/jci1.3:c:BWBR0017237&paragraaf=3&artikel=22&z=2016-02-11&g=2016-02-11) van overeenkomstige toepassing.
 
 2. Indien de examinator een proeve van bekwaamheid positief beoordeelt, tekent hij dit aan op het examenformulier en tekent hij namens de minister de verlenging dan wel de hernieuwde afgifte aan op het document waarop bewijzen van bevoegdheid en bevoegdverklaringen zijn weergegeven.
 
