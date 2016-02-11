@@ -4,7 +4,7 @@ identifier: "BWBR0037601"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2016-02-11"
-last_updated: "2016-01-02"
+last_updated: "2016-02-11"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0037601"
 soort: "ministeriele-regeling"
@@ -72,7 +72,7 @@ Om zijn doelstelling te bereiken organiseert het FBG, in overleg met het ministe
 
 ##### Artikel 7. Voorzitter
 
-1. De voorzitter is eindverantwoordelijk voor de realisatie van de doelstelling genoemd in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0037601&artikel=3&z=2016-02-11&g=2016-01-02).
+1. De voorzitter is eindverantwoordelijk voor de realisatie van de doelstelling genoemd in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0037601&artikel=3&z=2016-02-11&g=2016-02-11).
 
 2. Specifiek valt onder de eindverantwoordelijkheid van de voorzitter te rekenen:
 
