@@ -4,7 +4,7 @@ identifier: "BWBR0037443"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2016-02-14"
-last_updated: "2015-12-16"
+last_updated: "2016-02-14"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0037443"
 soort: "ministeriele-regeling"
@@ -65,7 +65,7 @@ De commissie wordt ingesteld met ingang van 16 december 2015 en wordt opgeheven 
 
 Tot leden van de commissie worden benoemd:
 
-- a. drs. P.W.A. Veld, tevens voorzitter,
+- a. drs. R.IJ.M. Kuipers, tevens voorzitter,
 
 - b. prof. dr. E.A. van Zoonen,
 
