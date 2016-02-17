@@ -4,7 +4,7 @@ identifier: "BWBR0037614"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2016-02-17"
-last_updated: "2014-01-01"
+last_updated: "2016-02-17"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0037614"
 soort: "ministeriele-regeling"
@@ -70,13 +70,13 @@ In deze regeling wordt verstaan onder:
 
 ##### Artikel 3
 
-1. Indien een medewerker na de datum van overgang wordt bezoldigd naar een hogere salarisschaal wordt de toelage als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0037614&artikel=2&z=2016-02-17&g=2014-01-01) naar evenredigheid verminderd met toegekende salarisverhogingen.
+1. Indien een medewerker na de datum van overgang wordt bezoldigd naar een hogere salarisschaal wordt de toelage als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0037614&artikel=2&z=2016-02-17&g=2016-02-17) naar evenredigheid verminderd met toegekende salarisverhogingen.
 
-2. Indien de arbeidsduur van de medewerker na de datum van overgang vermindert, vermindert de toelage als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0037614&artikel=2&z=2016-02-17&g=2014-01-01) naar evenredigheid.
+2. Indien de arbeidsduur van de medewerker na de datum van overgang vermindert, vermindert de toelage als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0037614&artikel=2&z=2016-02-17&g=2016-02-17) naar evenredigheid.
 
-3. [Hoofdstuk 6 van het Algemeen Rijksambtenarenreglement](https://wetten.overheid.nl/jci1.3:c:BWBR0001950&hoofdstuk=VI) is van overeenkomstige toepassing op de doorbetaling van de toelage als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0037614&artikel=2&z=2016-02-17&g=2014-01-01).
+3. [Hoofdstuk 6 van het Algemeen Rijksambtenarenreglement](https://wetten.overheid.nl/jci1.3:c:BWBR0001950&hoofdstuk=VI) is van overeenkomstige toepassing op de doorbetaling van de toelage als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0037614&artikel=2&z=2016-02-17&g=2016-02-17).
 
-4. Voor de berekeningsgrondslag van de ambtsjubileum- en diensttijdgratificatie telt de toelage, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0037614&artikel=2&z=2016-02-17&g=2014-01-01), mee.
+4. Voor de berekeningsgrondslag van de ambtsjubileum- en diensttijdgratificatie telt de toelage, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0037614&artikel=2&z=2016-02-17&g=2016-02-17), mee.
 
 ##### Artikel 4
 
