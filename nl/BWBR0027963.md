@@ -4,7 +4,7 @@ identifier: "BWBR0027963"
 country: "nl"
 rank: "amvb"
 publication_date: "2026-01-01"
-last_updated: "2015-11-25"
+last_updated: "2016-02-17"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0027963"
 soort: "AMvB"
@@ -76,15 +76,15 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
 - **middenkaderopleiding:** middenkaderopleiding, genoemd in [artikel 7.2.2, eerste lid, onderdeel d, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=7.2.2);
 
-- **onderdeel Engels:** onderdeel Engels waarvoor op grond van [artikel 17a, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0027963&hoofdstuk=III&artikel=17a&z=2015-11-25&g=2015-11-25), van dit besluit generieke kwalificatie-eisen zijn vastgesteld;
+- **onderdeel Engels:** onderdeel Engels waarvoor op grond van [artikel 17a, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0027963&hoofdstuk=III&artikel=17a&z=2016-02-17&g=2016-02-17), van dit besluit generieke kwalificatie-eisen zijn vastgesteld;
 
-- **onderdeel loopbaan en burgerschap:** onderdeel loopbaan en burgerschap waarvoor op grond van [artikel 17a, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0027963&hoofdstuk=III&artikel=17a&z=2015-11-25&g=2015-11-25), van dit besluit generieke kwalificatie-eisen zijn vastgesteld;
+- **onderdeel loopbaan en burgerschap:** onderdeel loopbaan en burgerschap waarvoor op grond van [artikel 17a, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0027963&hoofdstuk=III&artikel=17a&z=2016-02-17&g=2016-02-17), van dit besluit generieke kwalificatie-eisen zijn vastgesteld;
 
 - **onderdeel Nederlandse taal:** onderdeel Nederlandse taal dat is vastgesteld overeenkomstig het referentieniveau Nederlandse taal, bedoeld in [artikel 2, tweede lid, aanhef en onderdeel d, van de Wet referentieniveaus Nederlandse taal en rekenen](https://wetten.overheid.nl/jci1.3:c:BWBR0027679&artikel=2);
 
 - **onderdeel rekenen:** onderdeel rekenen dat is vastgesteld overeenkomstig het referentieniveau rekenen, bedoeld in [artikel 2, tweede lid, aanhef en onderdeel d, van de Wet referentieniveaus Nederlandse taal en rekenen](https://wetten.overheid.nl/jci1.3:c:BWBR0027679&artikel=2);
 
-- **pilotexamen:** centraal examen dat bij wijze van proef wordt afgenomen in een periode voorafgaand aan de invoering van centrale examinering voor het betreffende examenonderdeel overeenkomstig daarvoor bij of krachtens [artikel 19](https://wetten.overheid.nl/jci1.3:c:BWBR0027963&hoofdstuk=IV&artikel=19&z=2015-11-25&g=2015-11-25) gestelde eisen;
+- **pilotexamen:** centraal examen dat bij wijze van proef wordt afgenomen in een periode voorafgaand aan de invoering van centrale examinering voor het betreffende examenonderdeel overeenkomstig daarvoor bij of krachtens [artikel 19](https://wetten.overheid.nl/jci1.3:c:BWBR0027963&hoofdstuk=IV&artikel=19&z=2016-02-17&g=2016-02-17) gestelde eisen;
 
 - **specialistenopleiding:** specialistenopleiding, genoemd in [artikel 7.2.2, eerste lid, onderdeel e, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=7.2.2);
 
@@ -168,7 +168,7 @@ Onze Minister zorgt ervoor dat de instellingen tijdig beschikken over de opgaven
 
 ##### Artikel 8. Herkansing centraal examen
 
-1. Indien de deelnemer voor een centraal examen een waardering lager dan het cijfer 6 heeft behaald, heeft hij recht op ten minste één herkansing voor dit centraal examen of indien hij ingevolge [artikel 3a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0027963&hoofdstuk=II&paragraaf=1&artikel=3a&z=2015-11-25&g=2015-11-25), zijn examen op een hoger niveau heeft afgelegd, heeft hij recht op herkansing op het niveau van de desbetreffende beroepsopleiding.
+1. Indien de deelnemer voor een centraal examen een waardering lager dan het cijfer 6 heeft behaald, heeft hij recht op ten minste één herkansing voor dit centraal examen of indien hij ingevolge [artikel 3a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0027963&hoofdstuk=II&paragraaf=1&artikel=3a&z=2016-02-17&g=2016-02-17), zijn examen op een hoger niveau heeft afgelegd, heeft hij recht op herkansing op het niveau van de desbetreffende beroepsopleiding.
 
 2. Indien de deelnemer voor een centraal examen een waardering van ten minste het cijfer 6 heeft behaald, heeft hij recht op één herkansing voor dit centraal examen, tenzij hij eerder gebruik heeft gemaakt van het recht op herkansing, bedoeld in het eerste lid. De deelnemer kan daarbij op zijn verzoek het desbetreffende examenonderdeel op een hoger niveau afleggen dan vastgesteld voor zijn beroepsopleiding.
 
@@ -176,9 +176,9 @@ Onze Minister zorgt ervoor dat de instellingen tijdig beschikken over de opgaven
 
 4. De deelnemer wordt binnen de voor hem geldende studieduur voor de eerste maal in de gelegenheid gesteld de herkansing af te leggen, tenzij hij geen gebruik heeft gemaakt van de voor hem vastgestelde eerste gelegenheid tot het afleggen van het centraal examen.
 
-5. Nadat de deelnemer gebruik heeft gemaakt van een herkansingsmogelijkheid voor een centraal examen wordt het hoogste door de deelnemer behaalde cijfer voor dit centraal examen gebruikt bij het bepalen van de eindwaardering, bedoeld in [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBR0027963&hoofdstuk=II&paragraaf=4&artikel=15&z=2015-11-25&g=2015-11-25).
+5. Nadat de deelnemer gebruik heeft gemaakt van een herkansingsmogelijkheid voor een centraal examen wordt het hoogste door de deelnemer behaalde cijfer voor dit centraal examen gebruikt bij het bepalen van de eindwaardering, bedoeld in [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBR0027963&hoofdstuk=II&paragraaf=4&artikel=15&z=2016-02-17&g=2016-02-17).
 
-6. Indien zowel het centraal examen als het centraal examen ER voor het onderdeel rekenen is afgelegd of het examenonderdeel Nederlandse taal of rekenen mede op een hoger niveau is afgelegd, en voor elk examenonderdeel ten minste het cijfer 6 is behaald, bepaalt de examencommissie in afwijking van het vijfde lid in overleg met de deelnemer welk cijfer wordt gebruikt voor het bepalen van de eindwaardering, bedoeld in [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBR0027963&hoofdstuk=II&paragraaf=4&artikel=15&z=2015-11-25&g=2015-11-25). [Artikel 3a, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0027963&hoofdstuk=II&paragraaf=1&artikel=3a&z=2015-11-25&g=2015-11-25), is niet van toepassing.
+6. Indien zowel het centraal examen als het centraal examen ER voor het onderdeel rekenen is afgelegd of het examenonderdeel Nederlandse taal of rekenen mede op een hoger niveau is afgelegd, en voor elk examenonderdeel ten minste het cijfer 6 is behaald, bepaalt de examencommissie in afwijking van het vijfde lid in overleg met de deelnemer welk cijfer wordt gebruikt voor het bepalen van de eindwaardering, bedoeld in [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBR0027963&hoofdstuk=II&paragraaf=4&artikel=15&z=2016-02-17&g=2016-02-17). [Artikel 3a, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0027963&hoofdstuk=II&paragraaf=1&artikel=3a&z=2016-02-17&g=2016-02-17), is niet van toepassing.
 
 7. Herkansing in een centraal examen vindt plaats in een volgend tijdvak.
 
@@ -240,13 +240,13 @@ Bij gedeeltelijk centrale examinering van een examenonderdeel worden de waarderi
 
 ##### Artikel 16. Vaststelling uitslag
 
-De examencommissie stelt de uitslag van het examen vast met inachtneming van [artikel 17](https://wetten.overheid.nl/jci1.3:c:BWBR0027963&hoofdstuk=II&paragraaf=4&artikel=17&z=2015-11-25&g=2015-11-25).
+De examencommissie stelt de uitslag van het examen vast met inachtneming van [artikel 17](https://wetten.overheid.nl/jci1.3:c:BWBR0027963&hoofdstuk=II&paragraaf=4&artikel=17&z=2016-02-17&g=2016-02-17).
 
 ##### Artikel 17. Uitslag
 
 1. Onverminderd [artikel 7.4.3 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=7.4.3) is het examen voor de entreeopleiding met goed gevolg afgelegd, indien:
 
-- a. voor alle specifieke examenonderdelen een eindwaardering van ten minste het cijfer 6 of ten minste «voldoende» is behaald, dan wel op grond van [artikel 14a](https://wetten.overheid.nl/jci1.3:c:BWBR0027963&hoofdstuk=II&paragraaf=3&artikel=14a&z=2015-11-25&g=2015-11-25) vrijstelling is verkregen; en
+- a. voor alle specifieke examenonderdelen een eindwaardering van ten minste het cijfer 6 of ten minste «voldoende» is behaald, dan wel op grond van [artikel 14a](https://wetten.overheid.nl/jci1.3:c:BWBR0027963&hoofdstuk=II&paragraaf=3&artikel=14a&z=2016-02-17&g=2016-02-17) vrijstelling is verkregen; en
 
 - b. voor het onderdeel loopbaan en burgerschap een eindwaardering «voldaan» is behaald.
 
@@ -254,7 +254,7 @@ De examencommissie stelt de uitslag van het examen vast met inachtneming van [ar
 
 - a. voor één van de onderdelen Nederlandse taal en rekenen een eindwaardering van ten minste het cijfer 5 en voor het andere genoemde onderdeel ten minste het cijfer 6 is behaald;
 
-- b. voor alle specifieke examenonderdelen een eindwaardering van ten minste het cijfer 6 of ten minste «voldoende» is behaald, dan wel op grond van [artikel 14a](https://wetten.overheid.nl/jci1.3:c:BWBR0027963&hoofdstuk=II&paragraaf=3&artikel=14a&z=2015-11-25&g=2015-11-25) vrijstelling is verkregen; en
+- b. voor alle specifieke examenonderdelen een eindwaardering van ten minste het cijfer 6 of ten minste «voldoende» is behaald, dan wel op grond van [artikel 14a](https://wetten.overheid.nl/jci1.3:c:BWBR0027963&hoofdstuk=II&paragraaf=3&artikel=14a&z=2016-02-17&g=2016-02-17) vrijstelling is verkregen; en
 
 - c. voor het onderdeel loopbaan en burgerschap een eindwaardering «voldaan» is behaald.
 
@@ -262,51 +262,51 @@ De examencommissie stelt de uitslag van het examen vast met inachtneming van [ar
 
 - a. voor één van de onderdelen Engels, Nederlandse taal en rekenen een eindwaardering van ten minste het cijfer 5 en voor de andere twee genoemde onderdelen ten minste het cijfer 6 is behaald;
 
-- b. voor alle specifieke examenonderdelen een eindwaardering van ten minste het cijfer 6 of ten minste «voldoende» is behaald, dan wel op grond van [artikel 14a](https://wetten.overheid.nl/jci1.3:c:BWBR0027963&hoofdstuk=II&paragraaf=3&artikel=14a&z=2015-11-25&g=2015-11-25) vrijstelling is verkregen; en
+- b. voor alle specifieke examenonderdelen een eindwaardering van ten minste het cijfer 6 of ten minste «voldoende» is behaald, dan wel op grond van [artikel 14a](https://wetten.overheid.nl/jci1.3:c:BWBR0027963&hoofdstuk=II&paragraaf=3&artikel=14a&z=2016-02-17&g=2016-02-17) vrijstelling is verkregen; en
 
 - c. voor het onderdeel loopbaan en burgerschap een eindwaardering «voldaan» is behaald.
 
-4. Het eerste tot en met derde lid zijn van toepassing met inachtneming van het bepaalde in [artikel 19, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0027963&hoofdstuk=IV&artikel=19&z=2015-11-25&g=2015-11-25).
+4. Het eerste tot en met derde lid zijn van toepassing met inachtneming van het bepaalde in [artikel 19, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0027963&hoofdstuk=IV&artikel=19&z=2016-02-17&g=2016-02-17).
 
 ### Hoofdstuk V. Overgangs-, invoerings- en slotbepalingen
 
 ##### Artikel 18. Invoering centrale examinering en specifieke en generieke examenonderdelen
 
-1. Centrale examinering voor het onderdeel rekenen als bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0027963&hoofdstuk=II&paragraaf=2&artikel=4&z=2015-11-25&g=2015-11-25) vindt voor de eerste maal plaats:
+1. Centrale examinering voor het onderdeel rekenen als bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0027963&hoofdstuk=II&paragraaf=2&artikel=4&z=2016-02-17&g=2016-02-17) vindt voor de eerste maal plaats:
 
 - a. in het studiejaar 2015–2016 bij de middenkaderopleiding en de specialistenopleiding waarmee een aanvang is gemaakt op of na 1 augustus 2010;
 
 - b. in het studiejaar 2016–2017 bij de basisberoepsopleiding en de vakopleiding waarmee een aanvang is gemaakt op of na 1 augustus 2012.
 
-2. Centrale examinering voor het onderdeel Nederlandse taal als bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0027963&hoofdstuk=II&paragraaf=2&artikel=5&z=2015-11-25&g=2015-11-25) vindt voor de eerste maal plaats:
+2. Centrale examinering voor het onderdeel Nederlandse taal als bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0027963&hoofdstuk=II&paragraaf=2&artikel=5&z=2016-02-17&g=2016-02-17) vindt voor de eerste maal plaats:
 
 - a. in het studiejaar 2014–2015 bij de middenkaderopleiding en de specialistenopleiding waarmee een aanvang is gemaakt op of na 1 augustus 2010;
 
 - b. in het studiejaar 2015–2016 bij de basisberoepsopleiding en de vakopleiding waarmee een aanvang is gemaakt op of na 1 augustus 2012.
 
-3. Centrale examinering voor het onderdeel Engels als bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0027963&hoofdstuk=II&paragraaf=2&artikel=5&z=2015-11-25&g=2015-11-25) vindt voor de eerste maal plaats in het studiejaar 2017–2018 bij de middenkaderopleiding en de specialistenopleiding waarmee een aanvang is gemaakt op of na 1 augustus 2014.
+3. Centrale examinering voor het onderdeel Engels als bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0027963&hoofdstuk=II&paragraaf=2&artikel=5&z=2016-02-17&g=2016-02-17) vindt voor de eerste maal plaats in het studiejaar 2017–2018 bij de middenkaderopleiding en de specialistenopleiding waarmee een aanvang is gemaakt op of na 1 augustus 2014.
 
-4. Indien de resultaten van eerdere pilotexamens als bedoeld in [artikel 19](https://wetten.overheid.nl/jci1.3:c:BWBR0027963&hoofdstuk=IV&artikel=19&z=2015-11-25&g=2015-11-25), dan wel onvoorziene omstandigheden daartoe aanleiding geven, kan bij koninklijk besluit een later studiejaar worden bepaald dat voor de onderdelen Nederlandse taal, rekenen en Engels verschillend kan worden vastgesteld.
+4. Indien de resultaten van eerdere pilotexamens als bedoeld in [artikel 19](https://wetten.overheid.nl/jci1.3:c:BWBR0027963&hoofdstuk=IV&artikel=19&z=2016-02-17&g=2016-02-17), dan wel onvoorziene omstandigheden daartoe aanleiding geven, kan bij koninklijk besluit een later studiejaar worden bepaald dat voor de onderdelen Nederlandse taal, rekenen en Engels verschillend kan worden vastgesteld.
 
 5. Voor de deelnemer die voor 1 augustus 2012 een aanvang heeft gemaakt met een basisberoepsopleiding of vakopleiding en deze opleiding nog niet heeft voltooid in het studiejaar waarin centrale examinering voor de eerste maal plaatsvindt, vindt centrale examinering voor de eerste maal plaats in het tweede studiejaar volgend op het studiejaar waarin de voor hem geldende studieduur is verstreken.
 
-6. Het examen van een beroepsopleiding wordt voor de eerste maal ingedeeld in specifieke en generieke examenonderdelen als bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0027963&hoofdstuk=II&paragraaf=1&artikel=3&z=2015-11-25&g=2015-11-25), in het studiejaar 2012–2013 bij beroepsopleidingen waarmee een aanvang wordt gemaakt op of na 1 augustus 2012.
+6. Het examen van een beroepsopleiding wordt voor de eerste maal ingedeeld in specifieke en generieke examenonderdelen als bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0027963&hoofdstuk=II&paragraaf=1&artikel=3&z=2016-02-17&g=2016-02-17), in het studiejaar 2012–2013 bij beroepsopleidingen waarmee een aanvang wordt gemaakt op of na 1 augustus 2012.
 
-7. Op het examen van de basisberoepsopleiding, vakopleiding, middenkaderopleiding en specialistenopleiding waarmee een aanvang is gemaakt voor 1 augustus 2012 zijn de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0027963&hoofdstuk=II&paragraaf=1&artikel=3&z=2015-11-25&g=2015-11-25) en [17](https://wetten.overheid.nl/jci1.3:c:BWBR0027963&hoofdstuk=II&paragraaf=4&artikel=17&z=2015-11-25&g=2015-11-25) van toepassing zoals deze artikelen luidden voor 1 augustus 2012 met dien verstande dat daarbij het bepaalde in [artikel 19, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0027963&hoofdstuk=IV&artikel=19&z=2015-11-25&g=2015-11-25), in acht wordt genomen en in geval van centrale examinering van de basisberoepsopleiding en de vakopleiding voor de deelnemers, bedoeld in het derde lid, [artikel 18a, eerste lid, aanhef en onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0027963&hoofdstuk=IV&artikel=18a&z=2015-11-25&g=2015-11-25), van overeenkomstige toepassing is.
+7. Op het examen van de basisberoepsopleiding, vakopleiding, middenkaderopleiding en specialistenopleiding waarmee een aanvang is gemaakt voor 1 augustus 2012 zijn de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0027963&hoofdstuk=II&paragraaf=1&artikel=3&z=2016-02-17&g=2016-02-17) en [17](https://wetten.overheid.nl/jci1.3:c:BWBR0027963&hoofdstuk=II&paragraaf=4&artikel=17&z=2016-02-17&g=2016-02-17) van toepassing zoals deze artikelen luidden voor 1 augustus 2012 met dien verstande dat daarbij het bepaalde in [artikel 19, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0027963&hoofdstuk=IV&artikel=19&z=2016-02-17&g=2016-02-17), in acht wordt genomen en in geval van centrale examinering van de basisberoepsopleiding en de vakopleiding voor de deelnemers, bedoeld in het derde lid, [artikel 18a, eerste lid, aanhef en onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0027963&hoofdstuk=IV&artikel=18a&z=2016-02-17&g=2016-02-17), van overeenkomstige toepassing is.
 
-8. De deelnemer is niet vrijgesteld van het examen in het examenonderdeel Nederlandse taal op grond van [artikel 3b, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0027963&hoofdstuk=II&paragraaf=1&artikel=3b&z=2015-11-25&g=2015-11-25), indien bij het door de deelnemer afgelegde examen in het vak Nederlandse taal en literatuur, het op grond van [artikel 2, tweede lid, aanhef en onderdeel c, van de Wet referentieniveaus Nederlandse taal en rekenen](https://wetten.overheid.nl/jci1.3:c:BWBR0027679&artikel=2) vastgestelde referentieniveau voor Nederlandse taal voor havo of vwo niet in acht is genomen.
+8. De deelnemer is niet vrijgesteld van het examen in het examenonderdeel Nederlandse taal op grond van [artikel 3b, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0027963&hoofdstuk=II&paragraaf=1&artikel=3b&z=2016-02-17&g=2016-02-17), indien bij het door de deelnemer afgelegde examen in het vak Nederlandse taal en literatuur, het op grond van [artikel 2, tweede lid, aanhef en onderdeel c, van de Wet referentieniveaus Nederlandse taal en rekenen](https://wetten.overheid.nl/jci1.3:c:BWBR0027679&artikel=2) vastgestelde referentieniveau voor Nederlandse taal voor havo of vwo niet in acht is genomen.
 
 ##### Artikel 19. Pilot centrale examinering
 
-1. In één of meer studiejaren gelegen voor het studiejaar waarin krachtens [artikel 18](https://wetten.overheid.nl/jci1.3:c:BWBR0027963&hoofdstuk=IV&artikel=18&z=2015-11-25&g=2015-11-25) centrale examinering voor de onderdelen Nederlandse taal, rekenen of Engels voor de eerste maal plaatsvindt, kan voor de onderdelen Nederlandse taal, rekenen en Engels bij wijze van proef geheel of gedeeltelijk centrale examinering plaatsvinden door middel van een pilotexamen. Het bevoegd gezag van een instelling beslist of bij die instelling pilotexamens plaatsvinden.
+1. In één of meer studiejaren gelegen voor het studiejaar waarin krachtens [artikel 18](https://wetten.overheid.nl/jci1.3:c:BWBR0027963&hoofdstuk=IV&artikel=18&z=2016-02-17&g=2016-02-17) centrale examinering voor de onderdelen Nederlandse taal, rekenen of Engels voor de eerste maal plaatsvindt, kan voor de onderdelen Nederlandse taal, rekenen en Engels bij wijze van proef geheel of gedeeltelijk centrale examinering plaatsvinden door middel van een pilotexamen. Het bevoegd gezag van een instelling beslist of bij die instelling pilotexamens plaatsvinden.
 
 2. Deelname aan een pilotexamen, niet zijnde een instellingsexamen, in het laatste studiejaar voorafgaande aan het studiejaar waarin centrale examinering voor de eerste maal plaatsvindt, levert voor de onderdelen Nederlandse taal, rekenen of Engels een vrijstelling van uitsluitend het centraal examen voor het betreffende onderdeel op indien:
 
-- a. dit overeenkomstig [artikel 7a](https://wetten.overheid.nl/jci1.3:c:BWBR0027963&hoofdstuk=II&paragraaf=2&artikel=7a&z=2015-11-25&g=2015-11-25) is afgenomen; en
+- a. dit overeenkomstig [artikel 7a](https://wetten.overheid.nl/jci1.3:c:BWBR0027963&hoofdstuk=II&paragraaf=2&artikel=7a&z=2016-02-17&g=2016-02-17) is afgenomen; en
 
 - b. voor zover het pilotexamen het onderdeel Nederlandse taal of Engels betreft, voor dit pilotexamen ten minste het cijfer 6 is behaald.
 
-3. Bij vrijstelling voor de onderdelen Nederlandse taal, rekenen of Engels op grond van het tweede lid, telt de waardering voor het pilotexamen mee bij het bepalen van de eindwaardering, bedoeld in [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBR0027963&hoofdstuk=II&paragraaf=4&artikel=15&z=2015-11-25&g=2015-11-25).
+3. Bij vrijstelling voor de onderdelen Nederlandse taal, rekenen of Engels op grond van het tweede lid, telt de waardering voor het pilotexamen mee bij het bepalen van de eindwaardering, bedoeld in [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBR0027963&hoofdstuk=II&paragraaf=4&artikel=15&z=2016-02-17&g=2016-02-17).
 
 4. Indien een pilotexamen of uitsluitend een instellingsexamen voor de onderdelen Nederlandse taal of rekenen van een beroepsopleiding is afgenomen voordat centrale examinering van die onderdelen voor de deelnemer voor de eerste maal plaatsvindt, heeft de waardering daarvan met een cijfer lager dan 6 dan wel met «onvoldoende» geen gevolgen voor het behalen van het diploma.
 
@@ -340,9 +340,9 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 2. Voor elke kwalificatie worden in het kwalificatiedossier generieke kwalificatie-eisen voor rekenen opgenomen overeenkomstig het desbetreffende referentieniveau, bedoeld in [artikel 3, onderdelen h tot en met l, van het Besluit referentieniveaus Nederlandse taal en rekenen](https://wetten.overheid.nl/jci1.3:c:BWBR0027879&artikel=3).
 
-3. Voor elke kwalificatie worden in het kwalificatiedossier generieke kwalificatie-eisen voor loopbaan en burgerschap opgenomen overeenkomstig [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0027963&bijlage=1&z=2015-11-25&g=2015-11-25) bij dit besluit.
+3. Voor elke kwalificatie worden in het kwalificatiedossier generieke kwalificatie-eisen voor loopbaan en burgerschap opgenomen overeenkomstig [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0027963&bijlage=1&z=2016-02-17&g=2016-02-17) bij dit besluit.
 
-4. Voor elke kwalificatie voor het vierde niveau bedoeld in [artikel 7.2.2, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=7.2.2) worden in het kwalificatiedossier generieke kwalificatie-eisen voor Engels opgenomen overeenkomstig de volgende referentieniveaus zoals opgenomen in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0027963&bijlage=2&z=2015-11-25&g=2015-11-25) bij dit besluit:
+4. Voor elke kwalificatie voor het vierde niveau bedoeld in [artikel 7.2.2, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=7.2.2) worden in het kwalificatiedossier generieke kwalificatie-eisen voor Engels opgenomen overeenkomstig de volgende referentieniveaus zoals opgenomen in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0027963&bijlage=2&z=2016-02-17&g=2016-02-17) bij dit besluit:
 
 - a. lezen en luisteren: B1,
 
@@ -350,7 +350,7 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 ##### Artikel 17b. Specifieke kwalificatie-eisen moderne vreemde talen
 
-In het toelichtende deel van het kwalificatiedossier wordt aangegeven hoe de specifieke kwalificatie-eisen voor moderne vreemde talen zich verhouden tot de referentieniveaus zoals opgenomen in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0027963&bijlage=2&z=2015-11-25&g=2015-11-25) bij dit besluit.
+In het toelichtende deel van het kwalificatiedossier wordt aangegeven hoe de specifieke kwalificatie-eisen voor moderne vreemde talen zich verhouden tot de referentieniveaus zoals opgenomen in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0027963&bijlage=2&z=2016-02-17&g=2016-02-17) bij dit besluit.
 
 ### Hoofdstuk IV. Overgangs-, invoerings- en slotbepalingen
 
@@ -382,13 +382,13 @@ Loopbaanoriëntatie en -ontwikkeling draagt maatschappelijk gezien bij aan emplo
 
 Het gaat hierbij om het sturing geven aan het vinden van betekenisvol werk of vervolgonderwijs dat aansluit op de eigen kwaliteiten, mogelijkheden, waarden en motieven.
 
-Daarvoor is nodig dat een deelnemer inzicht heeft in de eigen kwaliteiten, mogelijkheden, waarden en motieven. Maar het vereist ook oriëntatie op en inzicht in de mogelijkheden die de arbeidsmarkt biedt. De deelnemer is in staat de eigen kwaliteiten, mogelijkheden, waarden en motieven te vergelijken met gevraagde waarden en kwaliteiten van verschillende soorten werk. Ook oriëntatie op mogelijke doorstroomtrajecten in het vervolgonderwijs (hbo, een volgend niveau in het mbo of andere scholingsmogelijkheden) en op ondersteuningsmogelijkheden ten behoeve van de loopbaanontwikkeling zijn hierbij van belang. Op basis van de vergelijking komt de deelnemer tot weloverwogen keuzes en vervolgstappen om gemaakte keuzes te realiseren.
+Loopbaanoriëntatie en -ontwikkeling draagt maatschappelijk gezien bij aan employability en ondernemerschap. Daarnaast draagt de loopbaanoriëntatie en -ontwikkeling bij aan de persoonlijke ontplooiing.
 
 ### 2.3. **De sociaal-maatschappelijke dimensie**
 
-Hiervoor is nodig dat een deelnemer inzicht heeft in de onderwerpen die voor hem van belang zijn en waarover politieke besluiten worden genomen, in de verschillende meningen en opvattingen die erover bestaan en in de verschillende belangen die daarbij een rol spelen. De deelnemer (h)erkent de basiswaarden van onze samenleving, leert omgaan met waardendilemma’s (zoals seksuele diversiteit) en hanteert de basiswaarden als richtlijn en uitgangspunt in zijn meningsvorming en bij zijn handelen.
+Daarvoor is nodig dat een deelnemer inzicht heeft in de eigen kwaliteiten, mogelijkheden, waarden en motieven. Maar het vereist ook oriëntatie op en inzicht in de mogelijkheden die de arbeidsmarkt biedt. De deelnemer is in staat de eigen kwaliteiten, mogelijkheden, waarden en motieven te vergelijken met gevraagde waarden en kwaliteiten van verschillende soorten werk. Ook oriëntatie op mogelijke doorstroomtrajecten in het vervolgonderwijs (hbo, een volgend niveau in het mbo of andere scholingsmogelijkheden) en op ondersteuningsmogelijkheden ten behoeve van de loopbaanontwikkeling zijn hierbij van belang. Op basis van de vergelijking komt de deelnemer tot weloverwogen keuzes en vervolgstappen om gemaakte keuzes te realiseren.
 
-De deelnemer heeft kennis over en inzicht in de volgende onderwerpen die bij de politiek-juridische dimensie aan bod komen: de kenmerken en het functioneren van een parlementaire democratie, de rechtsstaat en het rechtssysteem, de rol van de overheid, de belangrijkste politieke stromingen en hun maatschappelijke agenda’s, de rol en de invloed op de politieke besluitvorming van belangengroeperingen en maatschappelijke organisaties, de invloed van de Europese Unie op het Nederlandse overheidsbeleid en daarmee op de Nederlandse samenleving, en de rol en de invloed van de (massa)media.
+De elementen die bij loopbaanoriëntatie en -begeleiding aan bod komen zijn
 
 De politiek-juridische dimensie betreft de bereidheid en het vermogen om deel te nemen aan politieke besluitvorming. Hierbij gaat het om de participatie in formele zin (stemmen bij officiële verkiezingen) en meer (inter)actieve vormen van betrokkenheid bij besluitvorming op verschillende politieke niveaus (Europees, landelijk, regionaal, gemeentelijk, buurt). Maar ook om actuele, meer op issues gerichte vormen van politieke participatie, zoals duurzaamheid, veiligheid, internationalisering, ondernemerschap, interculturaliteit en levensbeschouwing.
 
@@ -396,19 +396,19 @@ Hiervoor is nodig dat een deelnemer inzicht heeft in de onderwerpen die voor hem
 
 ### 2.3. **De sociaal-maatschappelijke dimensie**
 
-De deelnemer heeft kennis over en inzicht in de volgende onderwerpen die bij de economische dimensie aan bod komen: de maatschappelijke functies en waardering van arbeid, de factoren die van invloed zijn op de bedrijfscultuur, de arbeidsverhoudingen in Nederland, de rol en de invloed van branche- of vakorganisaties, de rol van de overheid op het gebied van arbeid, de verzorgingsstaat en de consumentenmarkt, de belangrijkste principes van budgettering, kenmerken van duurzame consumptie en productie, de rol en de invloed van consumentenorganisaties, de invloed van de media op het bestedingspatroon van consumenten.
+Hiervoor is nodig dat een deelnemer inzicht heeft in de onderwerpen die voor hem van belang zijn en waarover politieke besluiten worden genomen, in de verschillende meningen en opvattingen die erover bestaan en in de verschillende belangen die daarbij een rol spelen. De deelnemer (h)erkent de basiswaarden van onze samenleving, leert omgaan met waardendilemma’s (zoals seksuele diversiteit) en hanteert de basiswaarden als richtlijn en uitgangspunt in zijn meningsvorming en bij zijn handelen.
 
-De economische dimensie is in twee deelgebieden uitgesplitst en heeft betrekking op
+De deelnemer heeft kennis over en inzicht in de volgende onderwerpen die bij de politiek-juridische dimensie aan bod komen: de kenmerken en het functioneren van een parlementaire democratie, de rechtsstaat en het rechtssysteem, de rol van de overheid, de belangrijkste politieke stromingen en hun maatschappelijke agenda’s, de rol en de invloed op de politieke besluitvorming van belangengroeperingen en maatschappelijke organisaties, de invloed van de Europese Unie op het Nederlandse overheidsbeleid en daarmee op de Nederlandse samenleving, en de rol en de invloed van de (massa)media.
 
 Hierbij gaat het om het adequaat functioneren op de arbeidsmarkt en binnen een bedrijf en om het verantwoord handelen op de consumptiemarkt. Voor het adequaat functioneren op de arbeidsmarkt en binnen een bedrijf is nodig dat een deelnemer zich algemeen aanvaarde regels en standaard (bedrijfs)procedures eigen maakt en zich daaraan houdt. De deelnemer kent de rechten en plichten van de beroepsbeoefenaar en stelt zich collegiaal op. Voor het functioneren als kritisch consument is nodig dat een deelnemer weet hoe hij informatie over producten en diensten kan verzamelen om een weloverwogen keuze te kunnen maken. Hij heeft inzicht in zijn eigen wensen in relatie met zijn financiële speelruimte. En het is nodig dat hij bij de aanschaf van producten en diensten afwegingen kan maken met betrekking tot maatschappelijke belangen zoals duurzaamheid en gezondheidsaspecten.
 
-De deelnemer heeft kennis over en inzicht in de volgende onderwerpen die bij de economische dimensie aan bod komen: de maatschappelijke functies en waardering van arbeid, de factoren die van invloed zijn op de bedrijfscultuur, de arbeidsverhoudingen in Nederland, de rol en de invloed van branche- of vakorganisaties, de rol van de overheid op het gebied van arbeid, de verzorgingsstaat en de consumentenmarkt, de belangrijkste principes van budgettering, kenmerken van duurzame consumptie en productie, de rol en de invloed van consumentenorganisaties, de invloed van de media op het bestedingspatroon van consumenten.
+De economische dimensie is in twee deelgebieden uitgesplitst en heeft betrekking op
 
 ## Bijlage 2. Referentieniveaus moderne vreemde talen bij [artikel 17a, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0027963&hoofdstuk=III&artikel=17a&z=2012-01-01&g=2012-01-01), en [17b](https://wetten.overheid.nl/jci1.3:c:BWBR0027963&hoofdstuk=III&artikel=17b&z=2012-01-01&g=2012-01-01) van het Examen- en kwalificatiebesluit beroepsopleidingen WEB
 
 ### 1.. **Beschrijving ERK-niveaus moderne vreemde talen A1, A2, B1 en B2**
 
-### 2.4. **De dimensie vitaal burgerschap**
+### 2.3. **De sociaal-maatschappelijke dimensie**
 
 ### 1.2. **Vaardigheid Lezen**
 
@@ -418,15 +418,15 @@ De deelnemer heeft kennis over en inzicht in de volgende onderwerpen die bij de 
 
 ### 1.. **Beschrijving ERK-niveaus moderne vreemde talen A1, A2, B1 en B2**
 
-### 1.1. **Vaardigheid Luisteren**
+### 2.4. **De dimensie vitaal burgerschap**
+
+De dimensie vitaal burgerschap heeft betrekking op de bereidheid en het vermogen om te reflecteren op de eigen leefstijl en zorg te dragen voor de eigen vitaliteit als burger en werknemer.
+
+Hierbij gaat het om de zorg voor de eigen vitaliteit en fitheid. Daarbij is een belangrijke taak om de juiste afstemming te vinden tussen werken, zorgen (voor jezelf en voor anderen), leren en ontspannen.
 
 De deelnemer heeft kennis over en inzicht in de volgende onderwerpen die bij de dimensie vitaal burgerschap aan bod komen: de kenmerken van een gezonde leefwijze waaronder de nationale norm gezond bewegen en de aard, plaats en organisatie van gezondheidsbevorderende activiteiten in de samenleving en het arbeidsproces.
 
 Om zorg te kunnen dragen voor de eigen gezondheid is het nodig dat de deelnemer zich bewust is van zijn eigen leefstijl, gezondheidsrisico’s van leefstijl en werk in kan schatten, op basis daarvan verantwoorde keuzes kan maken en activiteiten onderneemt die bijdragen aan een gezonde leefstijl. Het gaat naast bewegen en sport ook om aspecten als voeding, roken, alcohol, drugs en seksualiteit.
-
-Op enkele plaatsen zijn zeer kleine, redactionele wijzigingen aangebracht die de leesbaarheid verbeteren of zijn kleine tekstuele correcties doorgevoerd.
-
-Het ERK onderscheidt vijf taalvaardigheden: luisteren, lezen, gesprekken voeren, spreken en schrijven. Per vaardigheid worden de taalniveaus A1, A2, B1 en B2 beschreven. Deze geven een opklimmende moeilijkheidsgraad aan. Per vaardigheid zijn de algemene omschrijvingen van de beheersingsniveaus uit het Europees Referentiekader opgenomen, in de vorm van descriptoren of «can do-statements»: korte, kernachtige omschrijvingen van wat iemand kan doen in een vreemde taal.
 
 Onder iedere vaardigheid zijn toelichtende schalen opgenomen. Deze omvatten een samenhangend cluster van taaltaken, ook wel globale descriptoren genoemd.
 
@@ -446,7 +446,7 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 1. Indien de examencommissie daarin toestemt, kan de deelnemer in plaats van het examen in het onderdeel Nederlandse taal of rekenen van de beroepsopleiding waarin hij examen doet, het examen in het betreffende onderdeel afleggen zoals is vastgesteld voor een beroepsopleiding van een hoger niveau als bedoeld in [artikel 7.2.2, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=7.2.2).
 
-2. Indien de deelnemer in het onderdeel Nederlandse taal of rekenen op een hoger niveau examen doet, wordt het cijfer dat is behaald voor dit onderdeel gebruikt bij het bepalen van de eindwaardering, bedoeld in [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBR0027963&hoofdstuk=II&paragraaf=4&artikel=15&z=2015-11-25&g=2015-11-25).
+2. Indien de deelnemer in het onderdeel Nederlandse taal of rekenen op een hoger niveau examen doet, wordt het cijfer dat is behaald voor dit onderdeel gebruikt bij het bepalen van de eindwaardering, bedoeld in [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBR0027963&hoofdstuk=II&paragraaf=4&artikel=15&z=2016-02-17&g=2016-02-17).
 
 ##### Artikel 3b. Vrijstellingen examenonderdelen Nederlandse taal, rekenen en Engels
 
@@ -472,7 +472,7 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 5. Op een verzoek van de deelnemer bij de examencommissie tot vrijstelling van het instellingsexamen van het examenonderdeel Nederlandse taal of van het instellingsexamen van het examenonderdeel Engels beslist de examencommissie met inachtneming van de vereisten, genoemd in het eerste lid.
 
-6. Indien de examencommissie vrijstelling heeft verleend op grond van het vierde of vijfde lid, telt het cijfer voor het eerder afgelegde centraal examen respectievelijk instellingsexamen van het examenonderdeel Nederlandse taal of van het examenonderdeel Engels mee bij het bepalen van de eindwaardering, bedoeld in [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBR0027963&hoofdstuk=II&paragraaf=4&artikel=15&z=2015-11-25&g=2015-11-25).
+6. Indien de examencommissie vrijstelling heeft verleend op grond van het vierde of vijfde lid, telt het cijfer voor het eerder afgelegde centraal examen respectievelijk instellingsexamen van het examenonderdeel Nederlandse taal of van het examenonderdeel Engels mee bij het bepalen van de eindwaardering, bedoeld in [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBR0027963&hoofdstuk=II&paragraaf=4&artikel=15&z=2016-02-17&g=2016-02-17).
 
 #### Paragraaf 2. Centraal examen
 
@@ -492,23 +492,23 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 ### Hoofdstuk III. Inhoud kwalificatiedossiers
 
-### Hoofdstuk III. Inhoud kwalificatiedossiers
+### Hoofdstuk III. Kwalificatiedossiers, certificaten, keuzedelen en onderdelen als bedoeld in [artikel 6.1.2a, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=6.1.2a)
 
 ##### Artikel 18a. Overgangsbepaling uitslagregeling in verband met de invoering van centrale examinering van het onderdeel Nederlandse taal
 
-1. In afwijking van [artikel 17, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0027963&hoofdstuk=II&paragraaf=4&artikel=17&z=2015-11-25&g=2015-11-25), en onverminderd artikel 17, vierde lid, van dit besluit en [artikel 7.4.3 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=7.4.3), geldt in het studiejaar waarin centrale examinering voor het onderdeel Nederlandse taal voor de eerste maal plaatsvindt dat het examen voor de basisberoepsopleiding en de vakopleiding met goed gevolg is afgelegd, indien:
+1. In afwijking van [artikel 17, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0027963&hoofdstuk=II&paragraaf=4&artikel=17&z=2016-02-17&g=2016-02-17), en onverminderd artikel 17, vierde lid, van dit besluit en [artikel 7.4.3 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=7.4.3), geldt in het studiejaar waarin centrale examinering voor het onderdeel Nederlandse taal voor de eerste maal plaatsvindt dat het examen voor de basisberoepsopleiding en de vakopleiding met goed gevolg is afgelegd, indien:
 
 - a. voor het onderdeel Nederlandse taal een eindwaardering van ten minste het cijfer 5 is behaald;
 
-- b. voor alle specifieke examenonderdelen een eindwaardering van ten minste het cijfer 6 dan wel ten minste «voldoende» is behaald dan wel op grond van [artikel 14a](https://wetten.overheid.nl/jci1.3:c:BWBR0027963&hoofdstuk=II&paragraaf=3&artikel=14a&z=2015-11-25&g=2015-11-25) vrijstelling is verkregen; en
+- b. voor alle specifieke examenonderdelen een eindwaardering van ten minste het cijfer 6 dan wel ten minste «voldoende» is behaald dan wel op grond van [artikel 14a](https://wetten.overheid.nl/jci1.3:c:BWBR0027963&hoofdstuk=II&paragraaf=3&artikel=14a&z=2016-02-17&g=2016-02-17) vrijstelling is verkregen; en
 
 - c. voor het onderdeel loopbaan en burgerschap een eindwaardering «voldaan» is behaald.
 
-2. In afwijking van [artikel 17, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0027963&hoofdstuk=II&paragraaf=4&artikel=17&z=2015-11-25&g=2015-11-25), en onverminderd artikel 17, vierde lid, van dit besluit en [artikel 7.4.3 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=7.4.3), geldt in het studiejaar waarin centrale examinering voor het onderdeel Nederlandse taal voor de eerste maal plaatsvindt dat het examen voor de middenkaderopleiding en de specialistenopleiding met goed gevolg is afgelegd, indien:
+2. In afwijking van [artikel 17, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0027963&hoofdstuk=II&paragraaf=4&artikel=17&z=2016-02-17&g=2016-02-17), en onverminderd artikel 17, vierde lid, van dit besluit en [artikel 7.4.3 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=7.4.3), geldt in het studiejaar waarin centrale examinering voor het onderdeel Nederlandse taal voor de eerste maal plaatsvindt dat het examen voor de middenkaderopleiding en de specialistenopleiding met goed gevolg is afgelegd, indien:
 
-- a. voor het onderdeel Nederlandse taal of het onderdeel Engels een eindwaardering van ten minste het cijfer 5 en voor het andere genoemde onderdeel ten minste het cijfer 6 is behaald, dan wel op grond van [artikel 14a](https://wetten.overheid.nl/jci1.3:c:BWBR0027963&hoofdstuk=II&paragraaf=3&artikel=14a&z=2015-11-25&g=2015-11-25) vrijstelling is verkregen;
+- a. voor het onderdeel Nederlandse taal of het onderdeel Engels een eindwaardering van ten minste het cijfer 5 en voor het andere genoemde onderdeel ten minste het cijfer 6 is behaald, dan wel op grond van [artikel 14a](https://wetten.overheid.nl/jci1.3:c:BWBR0027963&hoofdstuk=II&paragraaf=3&artikel=14a&z=2016-02-17&g=2016-02-17) vrijstelling is verkregen;
 
-- b. voor alle specifieke examenonderdelen een eindwaardering van ten minste het cijfer 6 dan wel ten minste «voldoende» is behaald dan wel op grond van [artikel 14a](https://wetten.overheid.nl/jci1.3:c:BWBR0027963&hoofdstuk=II&paragraaf=3&artikel=14a&z=2015-11-25&g=2015-11-25) vrijstelling is verkregen; en
+- b. voor alle specifieke examenonderdelen een eindwaardering van ten minste het cijfer 6 dan wel ten minste «voldoende» is behaald dan wel op grond van [artikel 14a](https://wetten.overheid.nl/jci1.3:c:BWBR0027963&hoofdstuk=II&paragraaf=3&artikel=14a&z=2016-02-17&g=2016-02-17) vrijstelling is verkregen; en
 
 - c. voor het onderdeel loopbaan en burgerschap een eindwaardering «voldaan» is behaald.
 
@@ -518,19 +518,19 @@ Loopbaanoriëntatie en -ontwikkeling draagt maatschappelijk gezien bij aan emplo
 
 ### 2.1. **De politiek-juridische dimensie**
 
-De elementen die bij loopbaanoriëntatie en -begeleiding aan bod komen zijn
+Het gaat hierbij om het sturing geven aan het vinden van betekenisvol werk of vervolgonderwijs dat aansluit op de eigen kwaliteiten, mogelijkheden, waarden en motieven.
 
 ### 2. **Burgerschap**
 
 ### 2.3. **De sociaal-maatschappelijke dimensie**
 
-De sociaal-maatschappelijke dimensie heeft betrekking op de bereidheid en het vermogen om deel uit te maken van de gemeenschap en daar een actieve bijdrage aan te leveren.
+De deelnemer heeft kennis over en inzicht in de volgende onderwerpen die bij de economische dimensie aan bod komen: de maatschappelijke functies en waardering van arbeid, de factoren die van invloed zijn op de bedrijfscultuur, de arbeidsverhoudingen in Nederland, de rol en de invloed van branche- of vakorganisaties, de rol van de overheid op het gebied van arbeid, de verzorgingsstaat en de consumentenmarkt, de belangrijkste principes van budgettering, kenmerken van duurzame consumptie en productie, de rol en de invloed van consumentenorganisaties, de invloed van de media op het bestedingspatroon van consumenten.
 
 Het gaat hier om het adequaat functioneren in de eigen woon- en leefomgeving, in zorgsituaties en in de school; om de acceptatie van verschillen en culturele verscheidenheid.
 
-Om adequaat te kunnen functioneren in de sociale omgeving is het nodig dat de deelnemer de aspecten van breed geaccepteerde sociale omgangsvormen kent en deze kan toepassen in verschillende situaties. De deelnemer heeft inzicht in de kenmerken van verschillende culturen. In zijn opvattingen en gedrag toont hij respect voor culturele verscheidenheid.
+De sociaal-maatschappelijke dimensie heeft betrekking op de bereidheid en het vermogen om deel uit te maken van de gemeenschap en daar een actieve bijdrage aan te leveren.
 
-De deelnemer heeft kennis over en inzicht in de volgende onderwerpen die bij de sociaal-maatschappelijke dimensie aan bod komen: de grondrechten en plichten in Nederland, kenmerken van de verschillende (sub)culturen in Nederland, kenmerken van – en oorzaken van spanningen tussen – verschillende (sub)culturen en bevolkingsgroepen in Nederland, kenmerken van ethisch en integer handelen, en het doel en de invloed van sociale en professionele netwerken.
+Het gaat hier om het adequaat functioneren in de eigen woon- en leefomgeving, in zorgsituaties en in de school; om de acceptatie van verschillen en culturele verscheidenheid.
 
 ## Bijlage 2. Referentieniveaus moderne vreemde talen bij [artikel 17a, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0027963&hoofdstuk=III&artikel=17a&z=2012-08-01&g=2012-08-01), en [17b](https://wetten.overheid.nl/jci1.3:c:BWBR0027963&hoofdstuk=III&artikel=17b&z=2012-08-01&g=2012-08-01) van het Examen- en kwalificatiebesluit beroepsopleidingen WEB
 
@@ -548,11 +548,11 @@ Bij de formulering van de eisen aan de beheersing van moderne vreemde talen word
 
 Deze beschrijvingen zijn gebaseerd op het Europees Referentiekader voor Moderne Vreemde Talen. De hierin gebruikte «can do-statements» zijn door Cito getoetst op validiteit en sluiten ook aan bij de gebruikte omschrijvingen op www.erk.nl.
 
+Bij de formulering van de eisen aan de beheersing van moderne vreemde talen wordt gebruik gemaakt van het Common European Framework of Reference for Languages (Europees Referentiekader, hierna ERK). Bij de omschrijving van ERK-niveaus zijn de beschrijvingen gehanteerd zoals gebruikt in de publicatie «Taalprofielen, leerlijnen voor competentiegericht vreemde talenonderwijs», een uitgave van het Nationaal Bureau Moderne Vreemde Talen.
+
+Deze beschrijvingen zijn gebaseerd op het Europees Referentiekader voor Moderne Vreemde Talen. De hierin gebruikte «can do-statements» zijn door Cito getoetst op validiteit en sluiten ook aan bij de gebruikte omschrijvingen op www.erk.nl.
+
 Op enkele plaatsen zijn zeer kleine, redactionele wijzigingen aangebracht die de leesbaarheid verbeteren of zijn kleine tekstuele correcties doorgevoerd.
-
-Het ERK onderscheidt vijf taalvaardigheden: luisteren, lezen, gesprekken voeren, spreken en schrijven. Per vaardigheid worden de taalniveaus A1, A2, B1 en B2 beschreven. Deze geven een opklimmende moeilijkheidsgraad aan. Per vaardigheid zijn de algemene omschrijvingen van de beheersingsniveaus uit het Europees Referentiekader opgenomen, in de vorm van descriptoren of «can do-statements»: korte, kernachtige omschrijvingen van wat iemand kan doen in een vreemde taal.
-
-Onder iedere vaardigheid zijn toelichtende schalen opgenomen. Deze omvatten een samenhangend cluster van taaltaken, ook wel globale descriptoren genoemd.
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
 
@@ -578,31 +578,31 @@ De bepalingen in dit besluit die van toepassing zijn op de entreeopleiding zijn 
 
 Daarvoor is nodig dat een deelnemer inzicht heeft in de eigen kwaliteiten, mogelijkheden, waarden en motieven. Maar het vereist ook oriëntatie op en inzicht in de mogelijkheden die de arbeidsmarkt biedt. De deelnemer is in staat de eigen kwaliteiten, mogelijkheden, waarden en motieven te vergelijken met gevraagde waarden en kwaliteiten van verschillende soorten werk. Ook oriëntatie op mogelijke doorstroomtrajecten in het vervolgonderwijs (hbo, een volgend niveau in het mbo of andere scholingsmogelijkheden) en op ondersteuningsmogelijkheden ten behoeve van de loopbaanontwikkeling zijn hierbij van belang. Op basis van de vergelijking komt de deelnemer tot weloverwogen keuzes en vervolgstappen om gemaakte keuzes te realiseren.
 
-### 2. **Burgerschap**
+### 1. **Loopbaan**
 
 ### 2.1. **De politiek-juridische dimensie**
 
-### 2.2. **De economische dimensie**
+### 2. **Burgerschap**
 
-De deelnemer heeft kennis over en inzicht in de volgende onderwerpen die bij de politiek-juridische dimensie aan bod komen: de kenmerken en het functioneren van een parlementaire democratie, de rechtsstaat en het rechtssysteem, de rol van de overheid, de belangrijkste politieke stromingen en hun maatschappelijke agenda’s, de rol en de invloed op de politieke besluitvorming van belangengroeperingen en maatschappelijke organisaties, de invloed van de Europese Unie op het Nederlandse overheidsbeleid en daarmee op de Nederlandse samenleving, en de rol en de invloed van de (massa)media.
+De politiek-juridische dimensie betreft de bereidheid en het vermogen om deel te nemen aan politieke besluitvorming. Hierbij gaat het om de participatie in formele zin (stemmen bij officiële verkiezingen) en meer (inter)actieve vormen van betrokkenheid bij besluitvorming op verschillende politieke niveaus (Europees, landelijk, regionaal, gemeentelijk, buurt). Maar ook om actuele, meer op issues gerichte vormen van politieke participatie, zoals duurzaamheid, veiligheid, internationalisering, ondernemerschap, interculturaliteit en levensbeschouwing.
 
 ### 2.3. **De sociaal-maatschappelijke dimensie**
 
+Hierbij gaat het om het adequaat functioneren op de arbeidsmarkt en binnen een bedrijf en om het verantwoord handelen op de consumptiemarkt. Voor het adequaat functioneren op de arbeidsmarkt en binnen een bedrijf is nodig dat een deelnemer zich algemeen aanvaarde regels en standaard (bedrijfs)procedures eigen maakt en zich daaraan houdt. De deelnemer kent de rechten en plichten van de beroepsbeoefenaar en stelt zich collegiaal op. Voor het functioneren als kritisch consument is nodig dat een deelnemer weet hoe hij informatie over producten en diensten kan verzamelen om een weloverwogen keuze te kunnen maken. Hij heeft inzicht in zijn eigen wensen in relatie met zijn financiële speelruimte. En het is nodig dat hij bij de aanschaf van producten en diensten afwegingen kan maken met betrekking tot maatschappelijke belangen zoals duurzaamheid en gezondheidsaspecten.
+
 Om adequaat te kunnen functioneren in de sociale omgeving is het nodig dat de deelnemer de aspecten van breed geaccepteerde sociale omgangsvormen kent en deze kan toepassen in verschillende situaties. De deelnemer heeft inzicht in de kenmerken van verschillende culturen. In zijn opvattingen en gedrag toont hij respect voor culturele verscheidenheid.
 
-De deelnemer heeft kennis over en inzicht in de volgende onderwerpen die bij de dimensie vitaal burgerschap aan bod komen: de kenmerken van een gezonde leefwijze waaronder de nationale norm gezond bewegen en de aard, plaats en organisatie van gezondheidsbevorderende activiteiten in de samenleving en het arbeidsproces.
-
-De dimensie vitaal burgerschap heeft betrekking op de bereidheid en het vermogen om te reflecteren op de eigen leefstijl en zorg te dragen voor de eigen vitaliteit als burger en werknemer.
+De deelnemer heeft kennis over en inzicht in de volgende onderwerpen die bij de sociaal-maatschappelijke dimensie aan bod komen: de grondrechten en plichten in Nederland, kenmerken van de verschillende (sub)culturen in Nederland, kenmerken van – en oorzaken van spanningen tussen – verschillende (sub)culturen en bevolkingsgroepen in Nederland, kenmerken van ethisch en integer handelen, en het doel en de invloed van sociale en professionele netwerken.
 
 ## Bijlage 2. Referentieniveaus moderne vreemde talen bij [artikel 17a, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0027963&hoofdstuk=III&artikel=17a&z=2014-08-01&g=2015-08-01), en [17b](https://wetten.overheid.nl/jci1.3:c:BWBR0027963&hoofdstuk=III&artikel=17b&z=2014-08-01&g=2015-08-01) van het Examen- en kwalificatiebesluit beroepsopleidingen WEB
 
-### 1.2. **Vaardigheid Lezen**
+### 1.. **Beschrijving ERK-niveaus moderne vreemde talen A1, A2, B1 en B2**
 
-### 1.3. **Vaardigheid Gesprekken voeren**
+### 1.1. **Vaardigheid Luisteren**
 
-Per vaardigheid en per niveau wordt een verdere specificatie gegeven in de vorm van tekstkenmerken en kenmerken van de taakuitvoering.
+Het ERK onderscheidt vijf taalvaardigheden: luisteren, lezen, gesprekken voeren, spreken en schrijven. Per vaardigheid worden de taalniveaus A1, A2, B1 en B2 beschreven. Deze geven een opklimmende moeilijkheidsgraad aan. Per vaardigheid zijn de algemene omschrijvingen van de beheersingsniveaus uit het Europees Referentiekader opgenomen, in de vorm van descriptoren of «can do-statements»: korte, kernachtige omschrijvingen van wat iemand kan doen in een vreemde taal.
 
-Per vaardigheid zijn de niveaus naast elkaar gezet in een tabel. Hierbij zijn de niveaus C1 en C2 weg gelaten omdat die niveaus in het mbo niet geëist worden.
+Onder iedere vaardigheid zijn toelichtende schalen opgenomen. Deze omvatten een samenhangend cluster van taaltaken, ook wel globale descriptoren genoemd.
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
 
@@ -632,13 +632,13 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 ##### Artikel 18c. Overgangsbepaling uitslagregeling in verband met de invoering van centrale examinering van het onderdeel rekenen
 
-1. In afwijking van [artikel 17, tweede lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0027963&hoofdstuk=II&paragraaf=4&artikel=17&z=2015-11-25&g=2015-11-25), dient voor het examenonderdeel Nederlandse taal een eindwaardering van ten minste het cijfer 5 te zijn behaald, en het examenonderdeel rekenen te zijn afgelegd in:
+1. In afwijking van [artikel 17, tweede lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0027963&hoofdstuk=II&paragraaf=4&artikel=17&z=2016-02-17&g=2016-02-17), dient voor het examenonderdeel Nederlandse taal een eindwaardering van ten minste het cijfer 5 te zijn behaald, en het examenonderdeel rekenen te zijn afgelegd in:
 
 - a. de basisberoepsopleiding,
 
 - b. de vakopleiding.
 
-2. In afwijking van [artikel 17, derde lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0027963&hoofdstuk=II&paragraaf=4&artikel=17&z=2015-11-25&g=2015-11-25), dient in de middenkaderopleiding en in de specialistenopleiding voor één van de onderdelen Engels en Nederlandse taal een eindwaardering van ten minste het cijfer 5 en voor het andere genoemde onderdeel ten minste het cijfer 6 te zijn behaald, en het examenonderdeel rekenen te zijn afgelegd.
+2. In afwijking van [artikel 17, derde lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0027963&hoofdstuk=II&paragraaf=4&artikel=17&z=2016-02-17&g=2016-02-17), dient in de middenkaderopleiding en in de specialistenopleiding voor één van de onderdelen Engels en Nederlandse taal een eindwaardering van ten minste het cijfer 5 en voor het andere genoemde onderdeel ten minste het cijfer 6 te zijn behaald, en het examenonderdeel rekenen te zijn afgelegd.
 
 3. Dit artikel vervalt op een bij koninklijk besluit te bepalen tijdstip dat voor de verschillende onderdelen daarvan verschillend kan worden vastgesteld.
 
@@ -652,13 +652,55 @@ Hierbij gaat het om de zorg voor de eigen vitaliteit en fitheid. Daarbij is een 
 
 ## Bijlage 2. Referentieniveaus moderne vreemde talen bij [artikel 17a, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0027963&hoofdstuk=III&artikel=17a&z=2015-11-25&g=2015-11-25), en [17b](https://wetten.overheid.nl/jci1.3:c:BWBR0027963&hoofdstuk=III&artikel=17b&z=2015-11-25&g=2015-11-25) van het Examen- en kwalificatiebesluit beroepsopleidingen WEB
 
+### 1.2. **Vaardigheid Lezen**
+
+### 1.3. **Vaardigheid Gesprekken voeren**
+
 ### 1.4. **Vaardigheid Spreken**
+
+Per vaardigheid en per niveau wordt een verdere specificatie gegeven in de vorm van tekstkenmerken en kenmerken van de taakuitvoering.
+
+Per vaardigheid zijn de niveaus naast elkaar gezet in een tabel. Hierbij zijn de niveaus C1 en C2 weg gelaten omdat die niveaus in het mbo niet geëist worden.
+
+De in het ERK opgenomen kenmerken van de taakuitvoering en tekstkenmerken kunnen beschouwd worden als prestatie-indicatoren die gebruikt kunnen worden bij de inrichting van de examinering.
+
+Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
+
+##### Artikel 17c. Certificaten
+
+Bij ministeriële regeling kan worden bepaald dat aan een onderdeel of onderdelen van een kwalificatie of kwalificaties dan wel aan een keuzedeel of keuzedelen een certificaat is verbonden.
+
+##### Artikel 17d. Omvang keuzedelen en onderdelen als bedoeld in [artikel 6.1.2a, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=6.1.2a)
+
+1. Bij ministeriële regeling wordt op voorstel van de Samenwerkingsorganisatie beroepsonderwijs bedrijfsleven de studielast van elk keuzedeel vastgesteld. De studielast van een keuzedeel is 240, 480, 720 of 960 klokuren.
+
+2. De totale studielast van de keuzedelen die deel uitmaken van een beroepsopleiding is ten minste
+
+- a. voorde entreeopleiding en de specialistenopleiding: 240 klokuren,
+
+- b. voor de basisberoepsopleiding: 480 klokuren,
+
+- c. voor de vakopleiding: 720 klokuren,
+
+- d. voor de middenkaderopleiding: 720 klokuren of, indien met inachtneming van [artikel 7.2.4a, vierde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=7.2.4a) voor de opleiding een langere studieduur dan drie volledige studiejaren kan worden vastgesteld: 960 klokuren.
+
+3. Indien een of meer onderdelen als bedoeld in [artikel 6.1.2a, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=6.1.2a) deel uitmaken van de beroepsopleiding, worden 240 klokuren in mindering gebracht op de in het tweede lid, onder b, c en d, bedoelde minimum studielast van de keuzedelen.
+
+4. Voor de toepassing van [artikel 7.2.7, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=7.2.7) wordt voor keuzedelen en onderdelen als bedoeld in [artikel 6.1.2a, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=6.1.2a) tezamen maximaal het in het tweede lid genoemde aantal klokuren uren studielast meegerekend.
+
+### Hoofdstuk IV. Overgangs-, invoerings- en slotbepalingen
+
+## Bijlage 1. Kwalificatie-eisen loopbaan en burgerschap bij [artikel 17a, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0027963&hoofdstuk=III&artikel=17a&z=2016-02-17&g=2016-02-17), van het Examen- en kwalificatiebesluit beroepsopleidingen WEB
+
+### 2.1. **De politiek-juridische dimensie**
+
+### 2.2. **De economische dimensie**
+
+## Bijlage 2. Referentieniveaus moderne vreemde talen bij [artikel 17a, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0027963&hoofdstuk=III&artikel=17a&z=2016-02-17&g=2016-02-17), en [17b](https://wetten.overheid.nl/jci1.3:c:BWBR0027963&hoofdstuk=III&artikel=17b&z=2016-02-17&g=2016-02-17) van het Examen- en kwalificatiebesluit beroepsopleidingen WEB
 
 ### 1.5. **Vaardigheid Schrijven**
 
 ### 2.. **Toelichting referentieniveaus moderne vreemde talen**
-
-De in het ERK opgenomen kenmerken van de taakuitvoering en tekstkenmerken kunnen beschouwd worden als prestatie-indicatoren die gebruikt kunnen worden bij de inrichting van de examinering.
 
 Afhankelijk van de beroepscontext, zoals beschreven in het kwalificatiedossier, is het mogelijk dat niet alle toelichtende schalen die onder een vaardigheid zijn genoemd even relevant zijn. Bijvoorbeeld: Onder de Vaardigheid «Luisteren» zijn vier toelichtende schalen opgenomen, namelijk:
 
