@@ -4,7 +4,7 @@ identifier: "BWBR0006982"
 country: "nl"
 rank: "amvb"
 publication_date: "2026-01-01"
-last_updated: "2014-12-13"
+last_updated: "2016-02-19"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0006982"
 soort: "AMvB"
@@ -244,13 +244,11 @@ waaraan voor, tijdens of na de verzuring uitsluitend wei-eiwitconcentraat of cas
 
 ##### Artikel 9
 
-1. De aanduiding kaas mag uitsluitend worden gebezigd voor het zuivelprodukt dat wordt verkregen door:
+1. De aanduiding kaas mag uitsluitend worden gebezigd voor een al dan niet gerijpt zacht, halfhard, hard of extra hard product, waarin de verhouding wei-eiwit/caseïne niet hoger is dan bij koemelk, en dat wordt verkregen door:
 
-- 1°. stremming van uitsluitend koemelk, waaraan al dan niet melkbestanddelen zijn toegevoegd of onttrokken;
+- a. geheel of gedeeltelijke stremming van koemelk, waaraan al dan niet melkbestanddelen zijn toegevoegd of onttrokken, en door gedeeltelijke verwijdering van wei die het resultaat is van deze stremming; of
 
-- 2°. verwijdering van wei; en
-
-- 3°. rijping tot de waar gereed is voor consumptie.
+- b. procestechnieken waarbij geheel of gedeeltelijke stremming van koemelk, waaraan al dan niet melkbestanddelen zijn toegevoegd of onttrokken, een onderdeel is en die leiden tot een product met soortgelijke fysische, chemische en organoleptische kenmerken als het product bedoeld onder a.
 
 2. Voor kaas mag een van de namen, bedoeld in de bijlage en [hoofdstuk 2, paragraaf 2, van de Regeling dierlijke producten](https://wetten.overheid.nl/jci1.3:c:BWBR0032462&paragraaf=2) worden gebezigd, voor zover het een waar betreft waarvan de aard en de samenstelling voldoet aan:
 
@@ -260,7 +258,7 @@ waaraan voor, tijdens of na de verzuring uitsluitend wei-eiwitconcentraat of cas
 
 ##### Artikel 10
 
-1. Ten aanzien van een op de voet van [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0006982&paragraaf=5&artikel=9&z=2014-12-13&g=2014-12-13) aangeduide waar, aanwezig in een verpakking, wordt een van toepassing zijnde vermelding uit kolom A gebezigd inzake het vetgehalte van de droge stof van die waar:
+1. Ten aanzien van een op de voet van [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0006982&paragraaf=5&artikel=9&z=2016-02-19&g=2016-02-19) aangeduide waar, aanwezig in een verpakking, wordt een van toepassing zijnde vermelding uit kolom A gebezigd inzake het vetgehalte van de droge stof van die waar:
 
 | A | B |
 | --- | --- |
@@ -290,7 +288,7 @@ Aan de vermeldingen 50+, 48+ en 45+ mag worden toegevoegd: volvet(te).
 
 ##### Artikel 11
 
-Bij een in [artikel 9, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006982&paragraaf=5&artikel=9&z=2014-12-13&g=2014-12-13), bedoelde aanduiding wordt een vermelding gebezigd inzake de naam van het desbetreffende land van bereiding, tenzij het een kaassoort betreft:
+Bij een in [artikel 9, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006982&paragraaf=5&artikel=9&z=2016-02-19&g=2016-02-19), bedoelde aanduiding wordt een vermelding gebezigd inzake de naam van het desbetreffende land van bereiding, tenzij het een kaassoort betreft:
 
 - a. vermeld is in bijlage II en bereid is in het daar bedoelde land van origine; of
 
@@ -298,7 +296,7 @@ Bij een in [artikel 9, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR00069
 
 ##### Artikel 12
 
-1. Gehele schapekaas, geitekaas of kaas zoals bedoeld in [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0006982&paragraaf=5&artikel=9&z=2014-12-13&g=2014-12-13), die onverpakt is en:
+1. Gehele schapekaas, geitekaas of kaas zoals bedoeld in [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0006982&paragraaf=5&artikel=9&z=2016-02-19&g=2016-02-19), die onverpakt is en:
 
 - a. aanwezig is in winkels of in enige andere voor het publiek toegankelijke verkoopplaats; en
 
@@ -318,7 +316,7 @@ is voorzien van de desbetreffende aanduiding en van een vermelding, aangevende h
 
 ##### Artikel 12a
 
-1. Op de korst van schapekaas, geitekaas en kaas zoals bedoeld in [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0006982&paragraaf=5&artikel=9&z=2014-12-13&g=2014-12-13), mogen slechts zijn aangebracht:
+1. Op de korst van schapekaas, geitekaas en kaas zoals bedoeld in [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0006982&paragraaf=5&artikel=9&z=2016-02-19&g=2016-02-19), mogen slechts zijn aangebracht:
 
 - a. ingrediënten van eet- en drinkwaren;
 
@@ -340,17 +338,9 @@ onder de voorwaarden die ter zake zijn gesteld bij of krachtens verordening (EG)
 
 3. Onze Minister kan in overeenstemming met Onze Minister van Economische Zaken, Landbouw en Innovatie, nadere regels vaststellen inzake het eerste en tweede lid.
 
-4. Het bepaalde in het eerste en tweede lid is niet van toepassing op schapekaas, geitekaas en kaas zoals bedoeld in [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0006982&paragraaf=5&artikel=9&z=2014-12-13&g=2014-12-13), die in een andere lidstaat van de Europese Unie of in een andere staat die partij is bij de overeenkomst betreffende de Europese Economische Ruimte rechtmatig zijn bereid en in het verkeer gebracht, onder de voorwaarde dat de korst van die kazen bedekt is met kaaskorstbedekkingsmiddelen die in die staten wettelijk daartoe zijn toegestaan.
-
 ##### Artikel 13
 
-1. De aanduiding kwark of verse kaas mag uitsluitend worden gebezigd voor het zuivelprodukt dat zonder rijping wordt verkregen door:
-
-- a. stremming van uitsluitend koemelk, waaraan al dan niet koemelkbestanddelen zijn toegevoegd of onttrokken;
-
-- b. verwijdering van wei; en
-
-- c. al dan niet met toevoeging van koemelkbestanddelen; waarvan het eiwitgehalte in de vetvrije droge stof ten minste 60% en het vochtgehalte ten hoogste 87% van de vetvrije waar bedraagt.
+1. De aanduiding kwark of verse kaas mag uitsluitend worden gebezigd voor het product bedoeld in [artikel 9, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006982&paragraaf=5&artikel=9&z=2016-02-19&g=2016-02-19), dat zonder rijping wordt verkregen en waarvan het eiwitgehalte in de vetvrije droge stof ten minste 60% en het vochtgehalte ten hoogste 87% van de vetvrije waar bedraagt.
 
 2. In plaats van een in het eerste lid bedoelde aanduiding mag de aanduiding Cottage Cheese worden gebezigd, voor zover het een waar betreft waarvan de aard en samenstelling voldoet aan de desbetreffende kaasstandaard.
 
@@ -438,27 +428,13 @@ Bevat wijzigingen in andere regelgeving.
 
 ##### Artikel 21
 
-1. Dit besluit treedt in werking met ingang van 1 januari 1995.
-
-2. Een wijziging van:
-
-- a. de artikelen 2 tot en met 5, en artikel 7, tweede lid, van [verordening (EG) nr. 2597/97](31997R2597) van de Raad van 18 december 1997 houdende aanvullende voorschriften voor de gemeenschappelijke ordening der markten in de sector melk en zuivelproducten met betrekking tot consumptiemelk (PbEG L 351); en
-
-- b. artikel 2 en artikel 3 van [Verordening (EEG) nr 1898/87](31987R1898) van de Raad van 2 juli 1987 betreffende de bescherming van de benaming van melk en zuivelprodukten bij het in de handel brengen; treedt voor de toepassing van [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006982&paragraaf=1&artikel=2&z=2014-12-13&g=2014-12-13), onderscheidenlijk [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006982&paragraaf=1&artikel=2&z=2014-12-13&g=2014-12-13), in werking met ingang van de dag waarop de betrokken wijzigingsverordening in werking treedt.
-
-3. Een wijziging van:
-
-- a. [Richtlijn 79/1067/EEG](31979L1067); en
-
-- b. [Richtlijn 85/503/EEG](31985L0503);
-
-treedt voor de toepassing van [artikel 18, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006982&paragraaf=7&artikel=18&z=2014-12-13&g=2014-12-13), onderscheidenlijk [artikel 18, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006982&paragraaf=7&artikel=18&z=2014-12-13&g=2014-12-13), in werking met ingang van de dag waarop aan de betrokken wijzigingsrichtlijn uiterlijk uitvoering moet zijn gegeven.
+Dit besluit treedt in werking met ingang van 1 januari 1995.
 
 ##### Artikel 22
 
 Dit besluit wordt aangehaald als: Warenwetbesluit Zuivel.
 
-## Bijlage. Deze bijlage behoort bij [artikel 9, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006982&paragraaf=5&artikel=9&z=2014-12-13&g=2014-12-13), en [10, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006982&paragraaf=5&artikel=10&z=2014-12-13&g=2014-12-13).
+## Bijlage. Deze bijlage behoort bij [artikel 9, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006982&paragraaf=5&artikel=9&z=2016-02-19&g=2016-02-19), en [10, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006982&paragraaf=5&artikel=10&z=2016-02-19&g=2016-02-19).
 
 Lijst van namen van kaassoorten, waarvoor kaasstandaarden bestaan die aanvaard zijn door de Nederlandse Regering, gevolgd door het land van origine van die soort.
 
