@@ -4,7 +4,7 @@ identifier: "BWBR0029619"
 country: "nl"
 rank: "amvb"
 publication_date: "2016-02-19"
-last_updated: "2011-07-20"
+last_updated: "2016-02-19"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0029619"
 soort: "AMvB"
@@ -162,7 +162,7 @@ Fabrikanten en importeurs die speelgoed in de handel brengen en distributeurs di
 
 1. Aanvragen voor EG-typeonderzoek, de uitvoering en de verlening van certificaten daarvan vinden plaats met inachtneming van artikel 20 van [richtlijn 2009/48/EG](32009L0048).
 
-2. Fabrikanten vragen het EG-typeonderzoek, bedoeld in artikel 19, derde lid, van [richtlijn 2009/48/EG](32009L0048) aan bij de keuringsinstantie, bedoeld in [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0029619&artikel=12&z=2011-07-20&g=2011-07-20) van dit besluit.
+2. Fabrikanten vragen het EG-typeonderzoek, bedoeld in artikel 19, derde lid, van [richtlijn 2009/48/EG](32009L0048) aan bij de keuringsinstantie, bedoeld in [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0029619&artikel=12&z=2016-02-19&g=2016-02-19) van dit besluit.
 
 3. De technische documentatie en correspondentie, bedoeld in artikel 20, vijfde lid, van [richtlijn 2009/48/EG](32009L0048), zijn in ieder geval opgesteld in de Nederlandse of Engelse taal.
 
@@ -198,7 +198,7 @@ In het kader van het markttoezicht handelen de in [artikel 25 van de Warenwet](h
 
 ##### Artikel 14
 
-Een wijziging van [richtlijn 2009/48/EG](32009L0048) gaat voor de toepassing van dit besluit gelden met ingang van de dag waarop aan de betrokken wijzigingsrichtlijn uitvoering moet zijn gegeven, tenzij bij ministerieel besluit, dat in de Staatscourant wordt bekendgemaakt, een ander tijdstip wordt vastgesteld.
+Vervallen
 
 ##### Artikel 15
 
