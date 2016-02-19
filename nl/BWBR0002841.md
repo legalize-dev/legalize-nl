@@ -4,7 +4,7 @@ identifier: "BWBR0002841"
 country: "nl"
 rank: "amvb"
 publication_date: "2020-01-21"
-last_updated: "2014-12-13"
+last_updated: "2016-02-19"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0002841"
 soort: "AMvB"
@@ -80,11 +80,11 @@ Aangeduid mag uitsluitend worden:
 
 ##### Artikel 3
 
-1. Glasartikelen mogen niet worden aangeduid met de symbolen van een cirkel, vierkant of gelijkzijdige driehoek zonder vermelding, bij het symbool, van een der bij [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0002841&artikel=2&z=2014-12-13&g=2014-12-13) toegelaten benamingen.
+1. Glasartikelen mogen niet worden aangeduid met de symbolen van een cirkel, vierkant of gelijkzijdige driehoek zonder vermelding, bij het symbool, van een der bij [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0002841&artikel=2&z=2016-02-19&g=2016-02-19) toegelaten benamingen.
 
-2. Een symbool als in het eerste lid bedoeld mag uitsluitend worden gebezigd, indien het daarmee aangeduide glasartikel is vervaardigd uit glas als omschreven in de bepaling die in [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBR0002841&bijlage=I&z=2014-12-13&g=2014-12-13) bij het gebezigde symbool is genoemd.
+2. Een symbool als in het eerste lid bedoeld mag uitsluitend worden gebezigd, indien het daarmee aangeduide glasartikel is vervaardigd uit glas als omschreven in de bepaling die in [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBR0002841&bijlage=I&z=2016-02-19&g=2016-02-19) bij het gebezigde symbool is genoemd.
 
-3. Indien het overeenkomstig het tweede lid gebezigde symbool aangebracht is op het glasartikel of de verpakking daarvan, moet het zijn uitgevoerd als aangegeven in [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBR0002841&bijlage=I&z=2014-12-13&g=2014-12-13).
+3. Indien het overeenkomstig het tweede lid gebezigde symbool aangebracht is op het glasartikel of de verpakking daarvan, moet het zijn uitgevoerd als aangegeven in [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBR0002841&bijlage=I&z=2016-02-19&g=2016-02-19).
 
 ##### Artikel 4
 
@@ -92,9 +92,9 @@ Glasartikelen mogen niet worden aangeduid met een benaming, genoemd bij de numme
 
 ##### Artikel 5
 
-1. Glasartikelen waarop is aangebracht hetzij een opschrift dat niet een bij [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0002841&artikel=2&z=2014-12-13&g=2014-12-13) toegelaten benaming is doch waarin zodanige benaming of een bij [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0002841&artikel=4&z=2014-12-13&g=2014-12-13) verboden benaming voorkomt, hetzij een opschrift, dat met een bij [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0002841&artikel=2&z=2014-12-13&g=2014-12-13) toegelaten benaming of een bij [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0002841&artikel=4&z=2014-12-13&g=2014-12-13) verboden benaming kan worden verward, alsmede glasartikelen aanwezig in een verpakking waarop een zodanig opschrift is aangebracht, moeten op het glasartikel onderscheidenlijk op de verpakking daarvan tevens zijn aangeduid met:
+1. Glasartikelen waarop is aangebracht hetzij een opschrift dat niet een bij [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0002841&artikel=2&z=2016-02-19&g=2016-02-19) toegelaten benaming is doch waarin zodanige benaming of een bij [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0002841&artikel=4&z=2016-02-19&g=2016-02-19) verboden benaming voorkomt, hetzij een opschrift, dat met een bij [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0002841&artikel=2&z=2016-02-19&g=2016-02-19) toegelaten benaming of een bij [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0002841&artikel=4&z=2016-02-19&g=2016-02-19) verboden benaming kan worden verward, alsmede glasartikelen aanwezig in een verpakking waarop een zodanig opschrift is aangebracht, moeten op het glasartikel onderscheidenlijk op de verpakking daarvan tevens zijn aangeduid met:
 
-- a. de bij [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0002841&artikel=2&z=2014-12-13&g=2014-12-13) toegelaten benaming, voor zover het glasartikel vervaardigd is uit glas als omschreven in [artikel 2, onder **a**, **b**, **c**, 1° of **c**, 2°](https://wetten.overheid.nl/jci1.3:c:BWBR0002841&artikel=2&z=2014-12-13&g=2014-12-13);
+- a. de bij [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0002841&artikel=2&z=2016-02-19&g=2016-02-19) toegelaten benaming, voor zover het glasartikel vervaardigd is uit glas als omschreven in [artikel 2, onder **a**, **b**, **c**, 1° of **c**, 2°](https://wetten.overheid.nl/jci1.3:c:BWBR0002841&artikel=2&z=2016-02-19&g=2016-02-19);
 
 - b. de benaming: gewoon glas of een andere benaming, waaruit de aard van het glas, waaruit het glasartikel is vervaardigd, blijkt, voor zover het glasartikel vervaardigd is uit ander glas dan bedoeld onder **a**.
 
@@ -110,7 +110,7 @@ Aanduidingen met betrekking tot glasartikelen, welke misleidend zijn ten aanzien
 
 ##### Artikel 7
 
-Voor zover voor de beoordeling of de aanduidingen van glasartikelen overeenstemmen met de in dit besluit gestelde regelen, de aard of samenstelling van het glas moet worden vastgesteld, moet worden gebruik gemaakt van de methoden van onderzoek, aangegeven in [bijlage II](https://wetten.overheid.nl/jci1.3:c:BWBR0002841&bijlage=II&z=2014-12-13&g=2014-12-13) van dit besluit, voor zover deze daartoe toereikend zijn.
+Voor zover voor de beoordeling of de aanduidingen van glasartikelen overeenstemmen met de in dit besluit gestelde regelen, de aard of samenstelling van het glas moet worden vastgesteld, moet worden gebruik gemaakt van de methoden van onderzoek, aangegeven in [bijlage II](https://wetten.overheid.nl/jci1.3:c:BWBR0002841&bijlage=II&z=2016-02-19&g=2016-02-19) van dit besluit, voor zover deze daartoe toereikend zijn.
 
 ##### Artikel 8
 
@@ -192,7 +192,7 @@ Onze Minister van Volksgezondheid en Milieuhygiëne is belast met de uitvoering 
 
 ##### Artikel 7a
 
-Een wijziging van bijlage I van richtlijn 1969/493/EEG gaat voor de toepassing van [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0002841&artikel=2&z=2014-12-13&g=2014-12-13) en [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0002841&artikel=4&z=2014-12-13&g=2014-12-13) gelden met ingang van de dag waarop aan de betrokken wijzigingsrichtlijn uitvoering moet zijn gegeven, tenzij bij ministerieel besluit, dat in de Staatscourant wordt bekendgemaakt, een ander tijdstip wordt vastgesteld.
+Vervallen
 
 ## Bijlage II. behorende bij het Glasartikelenbesluit (Warenwet)
 
