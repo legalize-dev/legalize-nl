@@ -4,7 +4,7 @@ identifier: "BWBR0037633"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2016-02-19"
-last_updated: "2016-01-01"
+last_updated: "2016-02-19"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0037633"
 soort: "ministeriele-regeling"
@@ -42,15 +42,15 @@ Besluit:
 
 ##### Artikel 1
 
-De besteedbare middelen ter dekking van de voor de uitvoering van de [Wet langdurige zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0035917&wetgeving) te maken beheerskosten bedragen voor het jaar 2016 € 148,687 miljoen.
+De besteedbare middelen ter dekking van de voor de uitvoering van de [Wet langdurige zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0035917) te maken beheerskosten bedragen voor het jaar 2016 € 148,687 miljoen.
 
 ##### Artikel 2
 
-Van het in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0037633&artikel=1&z=2016-02-19&g=2016-01-01) genoemde bedrag is € 71,203 miljoen beschikbaar voor de taken, bedoeld in [artikel 4.2.4, tweede lid, van de Wet langdurige zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0035917&artikel=4.2.4) en € 77,484 miljoen voor de overige bij of krachtens die wet geregelde taken.
+Van het in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0037633&artikel=1&z=2016-02-19&g=2016-02-19) genoemde bedrag is € 71,203 miljoen beschikbaar voor de taken, bedoeld in [artikel 4.2.4, tweede lid, van de Wet langdurige zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0035917&artikel=4.2.4) en € 77,484 miljoen voor de overige bij of krachtens die wet geregelde taken.
 
 ##### Artikel 3
 
-Uit het bedrag, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0037633&artikel=2&z=2016-02-19&g=2016-01-01), voor de overige bij of krachtens de [Wlz](https://wetten.overheid.nl/jci1.3:c:BWBR0035917&wetgeving) geregelde taken wordt structureel per jaar in totaal maximaal een bedrag van € 7,500 miljoen beschikbaar gesteld voor onafhankelijke cliëntondersteuning.
+Uit het bedrag, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0037633&artikel=2&z=2016-02-19&g=2016-02-19), voor de overige bij of krachtens de [Wlz](https://wetten.overheid.nl/jci1.3:c:BWBR0035917) geregelde taken wordt structureel per jaar in totaal maximaal een bedrag van € 7,500 miljoen beschikbaar gesteld voor onafhankelijke cliëntondersteuning.
 
 De kosten worden naar werkelijke kosten en na goedkeuring van de Nederlandse Zorgautoriteit (NZa) vergoed. Indien niet alle kosten uit het bedrag kunnen worden vergoed, worden de kosten naar evenredigheid van de in aanmerking komende en goedgekeurde kosten per zorgkantoor vergoed.
 
