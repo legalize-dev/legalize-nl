@@ -4,7 +4,7 @@ identifier: "BWBR0019099"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-01-01"
-last_updated: "2012-04-01"
+last_updated: "2016-02-19"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0019099"
 soort: "ministeriele-regeling"
@@ -42,7 +42,7 @@ Besluit:
 
 ##### Artikel 1
 
-De lijst met handelsbenamingen, bedoeld in artikel 4, tweede lid, van [verordening (EG) 104/2000](32000R0104), is opgenomen in de bijlage.
+De lijst met handelsbenamingen, bedoeld in artikel 37, eerste lid, van verordening (EU) 1379/2013, is opgenomen in de bijlage.
 
 ##### Artikel 2
 
@@ -52,9 +52,9 @@ Deze regeling treedt in werking met ingang van 1 januari 2006.
 
 Deze regeling wordt aangehaald als: Warenwetregeling handelsbenamingen vis.
 
-## Deze bijlage behoort bij [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0019099&artikel=1&z=2012-04-01&g=2012-04-01)
+## Deze bijlage behoort bij [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0019099&artikel=1&z=2016-02-19&g=2016-02-19)
 
-De lijst met handelsbenamingen, bedoeld in artikel 4, tweede lid, van [verordening (EG) 104/2000](32000R0104), is de navolgende:
+De lijst met handelsbenamingen, bedoeld in artikel 37, eerste lid, van verordening (EU) 1379/2013, is de navolgende:
 
 |   | Wetenschappelijke naam | Handelsbenaming |
 | --- | --- | --- |
