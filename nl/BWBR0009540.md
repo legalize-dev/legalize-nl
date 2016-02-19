@@ -4,7 +4,7 @@ identifier: "BWBR0009540"
 country: "nl"
 rank: "amvb"
 publication_date: "2016-02-19"
-last_updated: "1998-05-01"
+last_updated: "2016-02-19"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0009540"
 soort: "AMvB"
@@ -48,9 +48,7 @@ Hebben goedgevonden en verstaan:
 
 ##### Artikel 1
 
-1. In dit besluit wordt verstaan onder **specerijen** en **kruiden**: eetwaren, zijnde delen van planten die aromatisch smaken of ruiken dan wel een scherpe smaak bezitten, en die bestemd zijn om aan eet- en drinkwaren te worden toegevoegd.
-
-2. Dit besluit is niet van toepassing op een eet- of drinkwaar die met een in dit besluit bedoelde aanduiding rechtmatig in het verkeer is gebracht in een andere lid-staat van de Europese Unie of in een andere staat die partij is bij de overeenkomst inzake de Europese Economische Ruimte, voor zover die aanduiding vergezeld gaat van beschrijvende vermeldingen die dicht bij die aanduiding staan, zodat de koper in staat is de aldus geëtiketteerde waar te onderscheiden van in Nederland in het verkeer gebrachte waren waarvoor die aanduiding gebezigd mag worden.
+In dit besluit wordt verstaan onder **specerijen** en **kruiden**: eetwaren, zijnde delen van planten die aromatisch smaken of ruiken dan wel een scherpe smaak bezitten, en die bestemd zijn om aan eet- en drinkwaren te worden toegevoegd.
 
 ##### Artikel 2
 
