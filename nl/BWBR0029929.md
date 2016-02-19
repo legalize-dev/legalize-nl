@@ -4,7 +4,7 @@ identifier: "BWBR0029929"
 country: "nl"
 rank: "amvb"
 publication_date: "2016-02-19"
-last_updated: "2014-09-27"
+last_updated: "2016-02-19"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0029929"
 soort: "AMvB"
@@ -64,7 +64,7 @@ Hebben goedgevonden en verstaan:
 
 ##### Artikel 2
 
-Het is verboden te handelen in strijd met de voorschriften gesteld in de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0029929&artikel=3&z=2014-09-27&g=2014-09-27) en [4](https://wetten.overheid.nl/jci1.3:c:BWBR0029929&artikel=4&z=2014-09-27&g=2014-09-27).
+Het is verboden te handelen in strijd met de voorschriften gesteld in de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0029929&artikel=3&z=2016-02-19&g=2016-02-19) en [4](https://wetten.overheid.nl/jci1.3:c:BWBR0029929&artikel=4&z=2016-02-19&g=2016-02-19).
 
 ##### Artikel 3
 
@@ -80,7 +80,7 @@ Lucky Bamboo:
 
 ##### Artikel 4
 
-1. Voor de behandeling, bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0029929&artikel=3&z=2014-09-27&g=2014-09-27), beschikt de verhandelaar over een bestrijdingsplan.
+1. Voor de behandeling, bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0029929&artikel=3&z=2016-02-19&g=2016-02-19), beschikt de verhandelaar over een bestrijdingsplan.
 
 2. De verhandelaar beschikt voorts over een administratie waarin de gegevens die samenhangen met en betrekking hebben op de uitvoering van het bestrijdingsplan op een systematische wijze zijn vastgelegd.
 
@@ -102,6 +102,6 @@ Lasten en bevelen dat dit besluit met de daarbij horende nota van toelichting in
 
 ##### Artikel 4a
 
-Met behandelde Lucky Bamboo als bedoeld in dit besluit wordt gelijkgesteld behandelde Lucky Bamboo die rechtmatig is gekweekt of in de handel is gebracht in een andere lidstaat van de Europese Unie of in een staat, niet zijnde een lidstaat van de Europese Unie, die partij is bij een tot een douane-unie strekkend Verdrag, dan wel rechtmatig is gekweekt in een staat die partij is bij een tot een vrijhandelszone strekkend Verdrag dat Nederland bindt, en die voldoet aan de eisen die een beschermingsniveau bieden dat ten minste gelijkwaardig is aan het niveau dat met de nationale eisen wordt nagestreefd.
+Vervallen
 
 Lasten en bevelen dat dit besluit met de daarbij horende nota van toelichting in het Staatsblad zal worden geplaatst.
