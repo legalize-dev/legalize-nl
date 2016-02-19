@@ -4,7 +4,7 @@ identifier: "BWBR0009349"
 country: "nl"
 rank: "amvb"
 publication_date: "2016-02-19"
-last_updated: "1998-04-01"
+last_updated: "2016-02-19"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0009349"
 soort: "AMvB"
@@ -48,7 +48,7 @@ Hebben goedgevonden en verstaan:
 
 ##### Artikel 1
 
-1. In dit besluit wordt verstaan onder:
+In dit besluit wordt verstaan onder:
 
 - a. soja-eiwitproducten: de uit ontvliesde sojabonen verkregen eiwitproducten, waaraan het vet is onttrokken, met uitzondering van de eiwithydrolysaten;
 
@@ -57,8 +57,6 @@ Hebben goedgevonden en verstaan:
 - c. schimmeleiwitproducten: de producten die worden verkregen uit de hyphae van schimmel;
 
 - d. P.E.R.: de voedingswaarde van het eiwit ten opzichte van caseïne («Protein Efficiency Ratio»).
-
-2. [Artikel 3, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0009349&artikel=3&z=1998-04-01&g=1998-04-01), en [artikel 4, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0009349&artikel=4&z=1998-04-01&g=1998-04-01), zijn niet van toepassing op een waar die rechtmatig in het verkeer is gebracht in een andere lid-staat van de Europese Unie of in een andere staat die partij is bij de Overeenkomst inzake de Europese Economische Ruimte.
 
 ##### Artikel 2
 
