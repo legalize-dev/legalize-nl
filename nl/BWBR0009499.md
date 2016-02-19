@@ -4,7 +4,7 @@ identifier: "BWBR0009499"
 country: "nl"
 rank: "amvb"
 publication_date: "2024-01-01"
-last_updated: "2015-01-01"
+last_updated: "2016-02-19"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0009499"
 soort: "AMvB"
@@ -48,7 +48,7 @@ Hebben goedgevonden en verstaan:
 
 ##### Artikel 1
 
-1. In dit besluit wordt verstaan onder:
+In dit besluit wordt verstaan onder:
 
 - a. **druiven:** vruchten van Vitis Vinifera L;
 
@@ -79,8 +79,6 @@ Hebben goedgevonden en verstaan:
 - g. **verordening (EG) 1334/2008:** verordening (EG) nr. 1334/2008 van het Europees Parlement en de Raad van 16 december 2008 **inzake aroma’s en bepaalde voedselingrediënten met aromatiserende eigenschappen voor gebruik in levensmiddelen en tot wijziging van Verordening (EEG) nr. 1601/91 van de Raad, Verordening (EG) nr. 2232/96, Verordening (EG) nr. 110/2008 en Richtlijn 2000/13/EG (PbEU 2008, L 354);**
 
 - h. **zwak gedistilleerde drank:** alcoholhoudend product met minder dan 15% vol, met uitzondering van eierlikeur en advocaat, behorend tot GN-code 2208 van verordening (EEG) 2658/87, waarvoor in geval van gebruik of verbruik hier te lande alcoholaccijns verschuldigd is.
-
-2. Dit besluit is niet van toepassing op een eet- of drinkwaar die rechtmatig is vervaardigd of in de handel is gebracht in een andere lidstaat van de Europese Unie of in een staat, niet zijnde een lidstaat van de Europese Unie, die partij is bij een tot een douane-unie strekkend Verdrag, dan wel rechtmatig is vervaardigd in een staat die partij is bij een tot een vrijhandelszone strekkend Verdrag dat Nederland bindt.
 
 ##### Artikel 2
 
@@ -136,7 +134,7 @@ Als methoden van onderzoek welke bij uitsluiting beslissend zijn voor de vastste
 
 ##### Artikel 9
 
-Dit besluit treedt in werking met ingang van 1 april 1998, met uitzondering van [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0009499&artikel=6&z=2015-01-01&g=2015-01-01) en [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0009499&artikel=7&z=2015-01-01&g=2015-01-01), die in werking treden met ingang van 1 mei 1998.
+Dit besluit treedt in werking met ingang van 1 april 1998, met uitzondering van [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0009499&artikel=6&z=2016-02-19&g=2016-02-19) en [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0009499&artikel=7&z=2016-02-19&g=2016-02-19), die in werking treden met ingang van 1 mei 1998.
 
 ##### Artikel 10
 
@@ -162,7 +160,7 @@ De aanduiding **bier** mag uitsluitend worden gebezigd voor een drinkwaar verkre
 
 waaraan mogen zijn toegevoegd:
 
-- –. vruchten of vruchtensappen en aroma’s, met dien verstande dat het gebruik van deze ingrediënten uitsluitend is toegestaan voor de bereiding van andere bieren dan bieren van het type pils als bedoeld in [artikel 7f](https://wetten.overheid.nl/jci1.3:c:BWBR0009499&artikel=7f&z=2015-01-01&g=2015-01-01);
+- –. vruchten of vruchtensappen en aroma’s, met dien verstande dat het gebruik van deze ingrediënten uitsluitend is toegestaan voor de bereiding van andere bieren dan bieren van het type pils als bedoeld in [artikel 7f](https://wetten.overheid.nl/jci1.3:c:BWBR0009499&artikel=7f&z=2016-02-19&g=2016-02-19);
 
 - –. technologische hulpstoffen en additieven die voldoen aan de voorschriften gesteld bij of krachtens Verordening (EG) nr. 1333/2008 van het Europees Parlement en de Raad van 16 december 2008 inzake levensmiddelenadditieven (PbEU 2008, L 354).
 
