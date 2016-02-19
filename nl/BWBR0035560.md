@@ -4,7 +4,7 @@ identifier: "BWBR0035560"
 country: "nl"
 rank: "amvb"
 publication_date: "2023-01-21"
-last_updated: "2015-01-01"
+last_updated: "2016-02-19"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0035560"
 soort: "AMvB"
@@ -64,7 +64,7 @@ Hebben goedgevonden en verstaan:
 
 - **℮-teken:** het teken bedoeld in bijlage I, punt 3.3, van [Richtlijn 76/211/EEG](31976L0211);
 
-- **metrologische instantie:** de krachtens [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0035560&paragraaf=2&artikel=10&z=2015-01-01&g=2015-01-01) aangewezen rechtspersoon;
+- **metrologische instantie:** de krachtens [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0035560&paragraaf=2&artikel=10&z=2016-02-19&g=2016-02-19) aangewezen rechtspersoon;
 
 - **gedistilleerde drank:** drank als bedoeld in artikel 2, eerste lid, van verordening (EG) nr. 110/2008 van het Europees Parlement en de Raad van 15 januari 2008 betreffende de definitie, de aanduiding, de presentatie, de etikettering en de bescherming van geografische aanduidingen van gedistilleerde dranken en tot intrekking van Verordening (EG) nr. 1576/89 van de Raad (PbEU 2008, L 39);
 
@@ -86,7 +86,7 @@ Hebben goedgevonden en verstaan:
 
 1. Het is verboden voorverpakkingen in de handel te brengen anders dan met inachtneming van de bij dit besluit gestelde voorschriften.
 
-2. Het is verboden gedistilleerde drank in een voorverpakking in de handel te brengen anders dan met inachtneming van [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0035560&paragraaf=4&artikel=12&z=2015-01-01&g=2015-01-01).
+2. Het is verboden gedistilleerde drank in een voorverpakking in de handel te brengen anders dan met inachtneming van [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0035560&paragraaf=4&artikel=12&z=2016-02-19&g=2016-02-19).
 
 #### § 2. Voorverpakkingen met een ℮-teken
 
@@ -116,17 +116,17 @@ Een geregeld meetinstrument als bedoeld in de [Metrologiewet](https://wetten.ove
 
 2. Een verklaring als bedoeld in het eerste lid wordt afgegeven als voldaan is aan bijlage I, punt 4, zesde alinea, van [Richtlijn 76/211/EEG](31976L0211). Voordat de verklaring wordt afgegeven wordt de metrologische instantie gehoord.
 
-3. Indien een importeur gebruik maakt van een bedrijfscontrolesysteem is [artikel 5, tweede tot en met vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035560&paragraaf=2&artikel=5&z=2015-01-01&g=2015-01-01), van overeenkomstige toepassing op de erkenning van het bedrijfscontrolesysteem.
+3. Indien een importeur gebruik maakt van een bedrijfscontrolesysteem is [artikel 5, tweede tot en met vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035560&paragraaf=2&artikel=5&z=2016-02-19&g=2016-02-19), van overeenkomstige toepassing op de erkenning van het bedrijfscontrolesysteem.
 
 ##### Artikel 7
 
-1. De aanvrager is aan Onze Minister een retributie verschuldigd voor elke ingediende aanvraag voor en afgifte van een voorlopige of definitieve erkenning van een bedrijfscontrolesysteem en voor de aanvraag voor en de afgifte van een verklaring als bedoeld in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0035560&paragraaf=2&artikel=6&z=2015-01-01&g=2015-01-01).
+1. De aanvrager is aan Onze Minister een retributie verschuldigd voor elke ingediende aanvraag voor en afgifte van een voorlopige of definitieve erkenning van een bedrijfscontrolesysteem en voor de aanvraag voor en de afgifte van een verklaring als bedoeld in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0035560&paragraaf=2&artikel=6&z=2016-02-19&g=2016-02-19).
 
-2. Onze Minister stelt ter uitvoering van het eerste lid nadere regels. Deze regels hebben in elk geval betrekking op de hoogte van de retributies voor de voorlopige of definitieve erkenning van een bedrijfscontrolesysteem en de afgifte van een verklaring als bedoeld in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0035560&paragraaf=2&artikel=6&z=2015-01-01&g=2015-01-01).
+2. Onze Minister stelt ter uitvoering van het eerste lid nadere regels. Deze regels hebben in elk geval betrekking op de hoogte van de retributies voor de voorlopige of definitieve erkenning van een bedrijfscontrolesysteem en de afgifte van een verklaring als bedoeld in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0035560&paragraaf=2&artikel=6&z=2016-02-19&g=2016-02-19).
 
 ##### Artikel 8
 
-De voorlopige of definitieve erkenning van een bedrijfscontrolesysteem, of een verklaring als bedoeld in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0035560&paragraaf=2&artikel=6&z=2015-01-01&g=2015-01-01), kan door Onze Minister worden ingetrokken indien:
+De voorlopige of definitieve erkenning van een bedrijfscontrolesysteem, of een verklaring als bedoeld in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0035560&paragraaf=2&artikel=6&z=2016-02-19&g=2016-02-19), kan door Onze Minister worden ingetrokken indien:
 
 - a. het betrokken vulbedrijf of de importeur geen medewerking verleent aan ambtenaren of personen in dienst van een privaatrechtelijke rechtspersoon die op grond van [artikel 25](https://wetten.overheid.nl/jci1.3:c:BWBR0001969&artikel=25) onderscheidenlijk [25a van de Warenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0001969&artikel=25a) zijn belast met het toezicht op de naleving van dit besluit;
 
@@ -140,7 +140,7 @@ De termijn gedurende welke de in bijlage I, punt 4, vijfde alinea, van [Richtlij
 
 ##### Artikel 10
 
-Onze Minister van Economische Zaken wijst een rechtspersoon aan die tot taak heeft metrologische onderzoeken te verrichten ten behoeve van de uitvoering van dit besluit.
+Vervallen
 
 #### § 3. Voorverpakkingen zonder ℮-teken
 
@@ -164,7 +164,7 @@ Indien op een voorverpakking geen ℮-teken is aangebracht bevat de voorverpakki
 
 ##### Artikel 13
 
-Een wijziging van [Richtlijn 76/211/EEG](31976L0211) of [Richtlijn 2007/45/EEG](32007L0045) gaat voor de toepassing van dit besluit gelden met ingang van de dag waarop aan de betrokken wijziging uitvoering moet zijn gegeven, tenzij bij ministerieel besluit, dat in de Staatscourant wordt bekendgemaakt, een ander tijdstip wordt vastgesteld.
+Vervallen
 
 ##### Artikel 14
 
@@ -172,7 +172,7 @@ Wijzigt het Warenwetbesluit bestuurlijke boeten.
 
 ##### Artikel 15
 
-Het [Hoeveelheidsaanduidingenbesluit (Warenwet)](https://wetten.overheid.nl/jci1.3:c:BWBR0003310&wetgeving) wordt ingetrokken.
+Het [Hoeveelheidsaanduidingenbesluit (Warenwet)](https://wetten.overheid.nl/jci1.3:c:BWBR0003310) wordt ingetrokken.
 
 ##### Artikel 16
 
