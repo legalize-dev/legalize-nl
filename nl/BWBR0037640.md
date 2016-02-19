@@ -4,7 +4,7 @@ identifier: "BWBR0037640"
 country: "nl"
 rank: "zbo"
 publication_date: "2017-08-18"
-last_updated: "2015-10-01"
+last_updated: "2016-02-19"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0037640"
 soort: "zbo"
@@ -598,7 +598,7 @@ Het Zorginstituut gaat bij de verdeling van de macro-deelbedragen 2016 en de ber
 
 3. Het Zorginstituut vermindert het resultaat van het tweede lid met 0,06661 procent.
 
-4. Het Zorginstituut berekent de vereveningsbijdrage 2016 voor een zorgverzekeraar door op het normatieve bedrag 2016, bedoeld in het eerste lid, de normatieve eigen risico opbrengst 2016 zoals bepaald in [artikel 37, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037640&hoofdstuk=II&artikel=37&z=2016-02-19&g=2015-10-01) en de op grond van het tweede en derde lid berekende opbrengst van de nominale rekenpremie 2016 in mindering te brengen.
+4. Het Zorginstituut berekent de vereveningsbijdrage 2016 voor een zorgverzekeraar door op het normatieve bedrag 2016, bedoeld in het eerste lid, de normatieve eigen risico opbrengst 2016 zoals bepaald in [artikel 37, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037640&hoofdstuk=II&artikel=37&z=2016-02-19&g=2016-02-19) en de op grond van het tweede en derde lid berekende opbrengst van de nominale rekenpremie 2016 in mindering te brengen.
 
 5. Het Zorginstituut berekent per zorgverzekeraar de uitkering in verband met uitvoeringskosten van verzekerden jonger dan achttien jaar 2016. Deze uitkering bedraagt het aantal geraamde verzekerden jonger dan achttien jaar vermenigvuldigd met € 43,00.
 
@@ -612,15 +612,15 @@ Indien een zorgverzekeraar na de toekenning van de vereveningsbijdrage 2016 besl
 
 1. Het Zorginstituut herberekent de toekenning van de vereveningsbijdrage op basis van de werkelijke verzekerdenaantallen 2016 volgens de opgaven van de zorgverzekeraars aan het Zorginstituut op 7 maart 2016.
 
-2. Het Zorginstituut voert de herberekening van de toegekende vereveningsbijdrage 2016 als volgt uit: Het Zorginstituut deelt per zorgverzekeraar het totaal aantal verzekerden uit de opgaven in het eerste lid door het geraamde totaal aantal verzekerden 2016 en vermenigvuldigt per zorgverzekeraar de uitkomst hiervan met de vereveningsbijdrage 2016, zoals toegekend op grond van [artikel 38, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037640&hoofdstuk=II&artikel=38&z=2016-02-19&g=2015-10-01).
+2. Het Zorginstituut voert de herberekening van de toegekende vereveningsbijdrage 2016 als volgt uit: Het Zorginstituut deelt per zorgverzekeraar het totaal aantal verzekerden uit de opgaven in het eerste lid door het geraamde totaal aantal verzekerden 2016 en vermenigvuldigt per zorgverzekeraar de uitkomst hiervan met de vereveningsbijdrage 2016, zoals toegekend op grond van [artikel 38, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037640&hoofdstuk=II&artikel=38&z=2016-02-19&g=2016-02-19).
 
-3. Het Zorginstituut herziet de op grond van [artikel 38, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037640&hoofdstuk=II&artikel=38&z=2016-02-19&g=2015-10-01), toegekende vereveningsbijdrage 2016 overeenkomstig de herberekening uit het tweede lid.
+3. Het Zorginstituut herziet de op grond van [artikel 38, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037640&hoofdstuk=II&artikel=38&z=2016-02-19&g=2016-02-19), toegekende vereveningsbijdrage 2016 overeenkomstig de herberekening uit het tweede lid.
 
 ### Hoofdstuk III. De eerste voorlopige vaststelling van de vereveningsbijdrage voor een zorgverzekeraar
 
 ##### Artikel 41. Algemene bepaling verzekerdenaantallen
 
-1. Het Zorginstituut bepaalt de verzekerdenaantallen 2016 met inachtneming van het bepaalde in dit artikel en met inachtneming van [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0037640&hoofdstuk=II&artikel=5&z=2016-02-19&g=2015-10-01), [6](https://wetten.overheid.nl/jci1.3:c:BWBR0037640&hoofdstuk=II&artikel=6&z=2016-02-19&g=2015-10-01), [7](https://wetten.overheid.nl/jci1.3:c:BWBR0037640&hoofdstuk=II&artikel=7&z=2016-02-19&g=2015-10-01) en [8](https://wetten.overheid.nl/jci1.3:c:BWBR0037640&hoofdstuk=II&artikel=8&z=2016-02-19&g=2015-10-01).
+1. Het Zorginstituut bepaalt de verzekerdenaantallen 2016 met inachtneming van het bepaalde in dit artikel en met inachtneming van [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0037640&hoofdstuk=II&artikel=5&z=2016-02-19&g=2016-02-19), [6](https://wetten.overheid.nl/jci1.3:c:BWBR0037640&hoofdstuk=II&artikel=6&z=2016-02-19&g=2016-02-19), [7](https://wetten.overheid.nl/jci1.3:c:BWBR0037640&hoofdstuk=II&artikel=7&z=2016-02-19&g=2016-02-19) en [8](https://wetten.overheid.nl/jci1.3:c:BWBR0037640&hoofdstuk=II&artikel=8&z=2016-02-19&g=2016-02-19).
 
 2. Het Zorginstituut baseert zich bij de bepaling van de verzekerdenaantallen per zorgverzekeraar op het VPPKB 2016, zoals de zorgverzekeraars dat hebben aangeleverd op 1 juni 2017.
 
@@ -658,7 +658,7 @@ Indien een zorgverzekeraar na de toekenning van de vereveningsbijdrage 2016 besl
 
 5. In afwijking van het bepaalde in het derde lid hanteert het Zorginstituut voor de klasse ‘Kanker’ een drempel van ten minste 3 receptregels. Beneden deze drempel deelt het Zorginstituut een verzekerde niet in bij de klasse ‘Kanker’.
 
-6. Het Zorginstituut koppelt de opgaven bedoeld in het eerste lid, onderdeel b en c, met behulp van het gepseudonimiseerde burgerservicenummer aan het VPPKB 2016 en bepaalt op basis hiervan en met inachtneming van de drempels bedoeld in het derde, vierde en vijfde lid in welke FKG klassen de verzekerde valt, met inachtneming van het bepaalde met betrekking tot de samenloop van FKG klassen, bedoeld in [artikel 10, zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037640&hoofdstuk=II&artikel=10&z=2016-02-19&g=2015-10-01).
+6. Het Zorginstituut koppelt de opgaven bedoeld in het eerste lid, onderdeel b en c, met behulp van het gepseudonimiseerde burgerservicenummer aan het VPPKB 2016 en bepaalt op basis hiervan en met inachtneming van de drempels bedoeld in het derde, vierde en vijfde lid in welke FKG klassen de verzekerde valt, met inachtneming van het bepaalde met betrekking tot de samenloop van FKG klassen, bedoeld in [artikel 10, zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037640&hoofdstuk=II&artikel=10&z=2016-02-19&g=2016-02-19).
 
 7. Als een verzekerde niet in een andere klasse dan ‘Geen FKG’ valt, deelt het Zorginstituut deze verzekerde in de klasse ‘Geen FKG’ in.
 
@@ -702,7 +702,7 @@ Indien een zorgverzekeraar na de toekenning van de vereveningsbijdrage 2016 besl
 
 - f. de studenten en de hoogopgeleiden, op de opgave van DUO per gepseudonimiseerd burgerservicenummer met peildatum 1 juni 2016.
 
-2. Het Zorginstituut deelt een verzekerde die in meerdere klassen voor het criterium aard van het inkomen is in te delen, in op basis van het bepaalde in [artikel 13, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037640&hoofdstuk=II&artikel=13&z=2016-02-19&g=2015-10-01).
+2. Het Zorginstituut deelt een verzekerde die in meerdere klassen voor het criterium aard van het inkomen is in te delen, in op basis van het bepaalde in [artikel 13, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037640&hoofdstuk=II&artikel=13&z=2016-02-19&g=2016-02-19).
 
 ##### Artikel 47. Regio
 
@@ -836,7 +836,7 @@ Indien een zorgverzekeraar na de toekenning van de vereveningsbijdrage 2016 besl
 
 6. Het Zorginstituut koppelt de opgave bedoeld in het eerste lid, onderdeel b, met behulp van het gepseudonimiseerde burgerservicenummer aan het VPPKB 2016 en bepaalt op basis hiervan en met behulp van de drempels bedoeld in het derde, vierde en vijfde lid in welke FKG GGZ klassen de verzekerde wordt ingedeeld.
 
-7. Het Zorginstituut deelt de verzekerde in bij alle toepasselijke FKG GGZ klassen met inachtneming van het bepaalde met betrekking tot de samenloop van FKG GGZ klassen, bedoeld in [artikel 21, zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037640&hoofdstuk=II&artikel=21&z=2016-02-19&g=2015-10-01).
+7. Het Zorginstituut deelt de verzekerde in bij alle toepasselijke FKG GGZ klassen met inachtneming van het bepaalde met betrekking tot de samenloop van FKG GGZ klassen, bedoeld in [artikel 21, zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037640&hoofdstuk=II&artikel=21&z=2016-02-19&g=2016-02-19).
 
 8. Als een verzekerde niet in een andere klasse dan ‘Geen FKG psychische aandoeningen’ valt, deelt het Zorginstituut deze verzekerde in de klasse ‘Geen FKG psychische aandoeningen’ in.
 
@@ -908,7 +908,7 @@ Indien een zorgverzekeraar na de toekenning van de vereveningsbijdrage 2016 besl
 
 2. Het Zorginstituut herberekent het gewicht variabele zorgkosten per verzekerde voor de MHK klasse ‘Geen MHK’ door het totaal aantal verzekerden in een andere klasse dan ‘Geen MHK’ per MHK klasse te vermenigvuldigen met het overeenkomstige gewicht en de som van het resultaat vervolgens te delen door het totaal aantal verzekerden in de MHK klasse ‘Geen MHK’, dat af te ronden op twee decimalen en van een negatief teken te voorzien.
 
-3. Het Zorginstituut herberekent met inachtneming van de op grond van [artikel 41](https://wetten.overheid.nl/jci1.3:c:BWBR0037640&hoofdstuk=III&artikel=41&z=2016-02-19&g=2015-10-01) bepaalde verzekerdenaantallen het normatieve bedrag variabele zorgkosten 2016 voor iedere zorgverzekeraar afzonderlijk, overeenkomstig [artikel 27](https://wetten.overheid.nl/jci1.3:c:BWBR0037640&hoofdstuk=II&artikel=27&z=2016-02-19&g=2015-10-01) en [28](https://wetten.overheid.nl/jci1.3:c:BWBR0037640&hoofdstuk=II&artikel=28&z=2016-02-19&g=2015-10-01), alsmede voor het totaal van de verzekerden 2016 van alle zorgverzekeraars.
+3. Het Zorginstituut herberekent met inachtneming van de op grond van [artikel 41](https://wetten.overheid.nl/jci1.3:c:BWBR0037640&hoofdstuk=III&artikel=41&z=2016-02-19&g=2016-02-19) bepaalde verzekerdenaantallen het normatieve bedrag variabele zorgkosten 2016 voor iedere zorgverzekeraar afzonderlijk, overeenkomstig [artikel 27](https://wetten.overheid.nl/jci1.3:c:BWBR0037640&hoofdstuk=II&artikel=27&z=2016-02-19&g=2016-02-19) en [28](https://wetten.overheid.nl/jci1.3:c:BWBR0037640&hoofdstuk=II&artikel=28&z=2016-02-19&g=2016-02-19), alsmede voor het totaal van de verzekerden 2016 van alle zorgverzekeraars.
 
 4. Het Zorginstituut berekent de schalingsfactor voor variabele zorgkosten 2016 door de variabele zorgkosten 2016 voor het totaal van de zorgverzekeraars, zoals bepaald in het eerste lid, te delen door het in het derde lid herberekende normatieve bedrag variabele zorgkosten 2016 voor het totaal van de verzekerden 2016 van alle zorgverzekeraars.
 
@@ -924,7 +924,7 @@ Indien een zorgverzekeraar na de toekenning van de vereveningsbijdrage 2016 besl
 
 1. Op basis van de opgave jaarstaat 2016 per 1 mei 2017 en met inachtneming van de [artikelen 12](https://wetten.overheid.nl/jci1.3:c:BWBR0037291&artikel=12), [13](https://wetten.overheid.nl/jci1.3:c:BWBR0037291&artikel=13) en [15 van de Regeling](https://wetten.overheid.nl/jci1.3:c:BWBR0037291&artikel=15) bepaalt het Zorginstituut de vaste zorgkosten 2016 voor iedere zorgverzekeraar afzonderlijk.
 
-2. Het Zorginstituut herberekent het deelbedrag vaste zorgkosten door het totaal aantal verzekerden 2016 per zorgverzekeraar, vastgesteld met toepassing van [artikel 41](https://wetten.overheid.nl/jci1.3:c:BWBR0037640&hoofdstuk=III&artikel=41&z=2016-02-19&g=2015-10-01) te vermenigvuldigen met het normbedrag vaste zorgkosten 2016, berekend in [artikel 29, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037640&hoofdstuk=II&artikel=29&z=2016-02-19&g=2015-10-01).
+2. Het Zorginstituut herberekent het deelbedrag vaste zorgkosten door het totaal aantal verzekerden 2016 per zorgverzekeraar, vastgesteld met toepassing van [artikel 41](https://wetten.overheid.nl/jci1.3:c:BWBR0037640&hoofdstuk=III&artikel=41&z=2016-02-19&g=2016-02-19) te vermenigvuldigen met het normbedrag vaste zorgkosten 2016, berekend in [artikel 29, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037640&hoofdstuk=II&artikel=29&z=2016-02-19&g=2016-02-19).
 
 3. Het Zorginstituut calculeert per zorgverzekeraar 100 procent na op het verschil tussen de vaste zorgkosten 2016, verkregen in het eerste lid, en het deelbedrag vaste zorgkosten, verkregen in het tweede lid.
 
@@ -936,7 +936,7 @@ Indien een zorgverzekeraar na de toekenning van de vereveningsbijdrage 2016 besl
 
 2. Het Zorginstituut herberekent het gewicht kosten van verpleging en verzorging per verzekerde voor de MHK klasse ‘Geen MHK’ door het totaal aantal verzekerden in een andere klasse dan ‘Geen MHK’ per MHK klasse te vermenigvuldigen met het overeenkomstige gewicht en de som van het resultaat vervolgens te delen door het totaal aantal verzekerden in de MHK klasse ‘Geen MHK’, dat af te ronden op twee decimalen en van een negatief teken te voorzien.
 
-3. Het Zorginstituut herberekent met inachtneming van de op grond van [artikel 41](https://wetten.overheid.nl/jci1.3:c:BWBR0037640&hoofdstuk=III&artikel=41&z=2016-02-19&g=2015-10-01) berekende verzekerdenaantallen het normatieve bedrag kosten van verpleging en verzorging 2016 voor iedere zorgverzekeraar afzonderlijk, overeenkomstig [artikel 30](https://wetten.overheid.nl/jci1.3:c:BWBR0037640&hoofdstuk=II&artikel=30&z=2016-02-19&g=2015-10-01) en [31](https://wetten.overheid.nl/jci1.3:c:BWBR0037640&hoofdstuk=II&artikel=31&z=2016-02-19&g=2015-10-01), alsmede voor het totaal van de verzekerden 2016 van alle zorgverzekeraars.
+3. Het Zorginstituut herberekent met inachtneming van de op grond van [artikel 41](https://wetten.overheid.nl/jci1.3:c:BWBR0037640&hoofdstuk=III&artikel=41&z=2016-02-19&g=2016-02-19) berekende verzekerdenaantallen het normatieve bedrag kosten van verpleging en verzorging 2016 voor iedere zorgverzekeraar afzonderlijk, overeenkomstig [artikel 30](https://wetten.overheid.nl/jci1.3:c:BWBR0037640&hoofdstuk=II&artikel=30&z=2016-02-19&g=2016-02-19) en [31](https://wetten.overheid.nl/jci1.3:c:BWBR0037640&hoofdstuk=II&artikel=31&z=2016-02-19&g=2016-02-19), alsmede voor het totaal van de verzekerden 2016 van alle zorgverzekeraars.
 
 4. Het Zorginstituut berekent de schalingsfactor voor kosten van verpleging en verzorging 2016 door de kosten van verpleging en verzorging 2016 voor het totaal van de zorgverzekeraars, zoals bepaald in het eerste lid, te delen door het in het derde lid herberekende normatieve bedrag kosten van verpleging en verzorging voor het totaal van de verzekerden 2016 van alle zorgverzekeraars.
 
@@ -954,7 +954,7 @@ Indien een zorgverzekeraar na de toekenning van de vereveningsbijdrage 2016 besl
 
 2. Het Zorginstituut herberekent het gewicht kosten van geneeskundige GGZ per verzekerde voor de GGZ-MHK klasse ‘GGZ-MHK 3 jaar geen kosten’ door het totaal aantal verzekerden in een andere klasse dan ‘GGZ-MHK 3 jaar geen kosten’ per GGZ-MHK klasse te vermenigvuldigen met het overeenkomstige gewicht en de som van het resultaat vervolgens te delen door het totaal aantal verzekerden in de GGZ-MHK klasse ‘GGZ-MHK 3 jaar geen kosten’, dat af te ronden op twee decimalen en van een negatief teken te voorzien.
 
-3. Het Zorginstituut herberekent met inachtneming van het op grond van [artikel 41](https://wetten.overheid.nl/jci1.3:c:BWBR0037640&hoofdstuk=III&artikel=41&z=2016-02-19&g=2015-10-01) bepaalde aantal verzekerden van achttien jaar en ouder het normatieve bedrag kosten van geneeskundige geestelijke gezondheidszorg 2016 voor iedere zorgverzekeraar afzonderlijk, overeenkomstig [artikel 32](https://wetten.overheid.nl/jci1.3:c:BWBR0037640&hoofdstuk=II&artikel=32&z=2016-02-19&g=2015-10-01) en [33](https://wetten.overheid.nl/jci1.3:c:BWBR0037640&hoofdstuk=II&artikel=33&z=2016-02-19&g=2015-10-01), alsmede voor het totaal van de verzekerden van achttien jaar en ouder 2016 van alle zorgverzekeraars.
+3. Het Zorginstituut herberekent met inachtneming van het op grond van [artikel 41](https://wetten.overheid.nl/jci1.3:c:BWBR0037640&hoofdstuk=III&artikel=41&z=2016-02-19&g=2016-02-19) bepaalde aantal verzekerden van achttien jaar en ouder het normatieve bedrag kosten van geneeskundige geestelijke gezondheidszorg 2016 voor iedere zorgverzekeraar afzonderlijk, overeenkomstig [artikel 32](https://wetten.overheid.nl/jci1.3:c:BWBR0037640&hoofdstuk=II&artikel=32&z=2016-02-19&g=2016-02-19) en [33](https://wetten.overheid.nl/jci1.3:c:BWBR0037640&hoofdstuk=II&artikel=33&z=2016-02-19&g=2016-02-19), alsmede voor het totaal van de verzekerden van achttien jaar en ouder 2016 van alle zorgverzekeraars.
 
 4. Het Zorginstituut berekent de schalingsfactor voor kosten van geneeskundige geestelijke gezondheidszorg 2016 voor verzekerden van achttien jaar en ouder 2016 door de kosten van geneeskundige geestelijke gezondheidszorg 2016 voor het totaal van de zorgverzekeraars, zoals bepaald in het eerste lid, te delen door het in het derde lid herberekende normatieve bedrag kosten van geneeskundige geestelijke gezondheidszorg 2016 voor het totaal van de verzekerden van achttien jaar en ouder 2016 van alle zorgverzekeraars.
 
@@ -974,7 +974,7 @@ Indien een zorgverzekeraar na de toekenning van de vereveningsbijdrage 2016 besl
 
 3. Het Zorginstituut herberekent het gewicht kosten van langdurige GGZ voor verzekerden van achttien jaar en ouder per verzekerde voor de IGG klasse ‘Geen IGG’ 2016 door het totaal aantal verzekerden in een andere klasse dan ‘Geen IGG’ per IGG klasse te vermenigvuldigen met het overeenkomstige gewicht en de som van het resultaat vervolgens te delen door het totaal aantal verzekerden voor de klasse ‘Geen IGG’, dat af te ronden op twee decimalen en van een negatief teken te voorzien.
 
-4. Het Zorginstituut herberekent met inachtneming van het op grond van [artikel 41](https://wetten.overheid.nl/jci1.3:c:BWBR0037640&hoofdstuk=III&artikel=41&z=2016-02-19&g=2015-10-01) bepaalde aantal verzekerden van achttien jaar en ouder het normatieve bedrag kosten van langdurige geestelijke gezondheidszorg 2016 voor iedere zorgverzekeraar afzonderlijk, overeenkomstig [artikel 34](https://wetten.overheid.nl/jci1.3:c:BWBR0037640&hoofdstuk=II&artikel=34&z=2016-02-19&g=2015-10-01) en [35](https://wetten.overheid.nl/jci1.3:c:BWBR0037640&hoofdstuk=II&artikel=35&z=2016-02-19&g=2015-10-01), alsmede voor het totaal van de verzekerden van achttien jaar en ouder 2016 van alle zorgverzekeraars.
+4. Het Zorginstituut herberekent met inachtneming van het op grond van [artikel 41](https://wetten.overheid.nl/jci1.3:c:BWBR0037640&hoofdstuk=III&artikel=41&z=2016-02-19&g=2016-02-19) bepaalde aantal verzekerden van achttien jaar en ouder het normatieve bedrag kosten van langdurige geestelijke gezondheidszorg 2016 voor iedere zorgverzekeraar afzonderlijk, overeenkomstig [artikel 34](https://wetten.overheid.nl/jci1.3:c:BWBR0037640&hoofdstuk=II&artikel=34&z=2016-02-19&g=2016-02-19) en [35](https://wetten.overheid.nl/jci1.3:c:BWBR0037640&hoofdstuk=II&artikel=35&z=2016-02-19&g=2016-02-19), alsmede voor het totaal van de verzekerden van achttien jaar en ouder 2016 van alle zorgverzekeraars.
 
 5. Het Zorginstituut berekent de schalingsfactor voor kosten van langdurige geestelijke gezondheidszorg 2016 voor verzekerden van achttien jaar en ouder 2016 door de kosten van langdurige geestelijke gezondheidszorg 2016 voor het totaal van de zorgverzekeraars, zoals bepaald in het eerste lid, te delen door het in het vierde lid herberekende normatieve bedrag kosten van langdurige geestelijke gezondheidszorg 2016 voor het totaal van de verzekerden van achttien jaar en ouder 2016 van alle zorgverzekeraars.
 
@@ -988,9 +988,9 @@ Indien een zorgverzekeraar na de toekenning van de vereveningsbijdrage 2016 besl
 
 ##### Artikel 65. De voorlopige herberekening van de normatieve opbrengst van het eigen risico 2016
 
-1. Uitgangspunt voor de herberekening van de normatieve opbrengst van het eigen risico zijn de opgaven, bedoeld in [artikel 41, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037640&hoofdstuk=III&artikel=41&z=2016-02-19&g=2015-10-01), van de verzekerdenaantallen van de zorgverzekeraar.
+1. Uitgangspunt voor de herberekening van de normatieve opbrengst van het eigen risico zijn de opgaven, bedoeld in [artikel 41, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037640&hoofdstuk=III&artikel=41&z=2016-02-19&g=2016-02-19), van de verzekerdenaantallen van de zorgverzekeraar.
 
-2. Het Zorginstituut herberekent overeenkomstig [artikel 36](https://wetten.overheid.nl/jci1.3:c:BWBR0037640&hoofdstuk=II&artikel=36&z=2016-02-19&g=2015-10-01) en [37](https://wetten.overheid.nl/jci1.3:c:BWBR0037640&hoofdstuk=II&artikel=37&z=2016-02-19&g=2015-10-01) de normatieve eigen risico opbrengst 2016.
+2. Het Zorginstituut herberekent overeenkomstig [artikel 36](https://wetten.overheid.nl/jci1.3:c:BWBR0037640&hoofdstuk=II&artikel=36&z=2016-02-19&g=2016-02-19) en [37](https://wetten.overheid.nl/jci1.3:c:BWBR0037640&hoofdstuk=II&artikel=37&z=2016-02-19&g=2016-02-19) de normatieve eigen risico opbrengst 2016.
 
 3. In afwijking van het tweede lid bepaalt het Zorginstituut de gederfde inkomsten voor verzekerden van achttien jaar en ouder voor wie op grond van [artikel 24 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&artikel=24) geen nominale premies worden ontvangen, op basis van de opgave jaarstaat 2016 per 1 mei 2017.
 
@@ -1000,9 +1000,9 @@ Indien een zorgverzekeraar na de toekenning van de vereveningsbijdrage 2016 besl
 
 2. Voor de toepassing van [artikel 3.17 van het Besluit zorgverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0018492&artikel=3.17):
 
-- a. bepaalt het Zorginstituut per zorgverzekeraar het verschil tussen het voorlopige herberekende deelbedrag kosten van verpleging en verzorging 2016, bedoeld in [artikel 62, achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037640&hoofdstuk=III&artikel=62&z=2016-02-19&g=2015-10-01), en de kosten van verpleging en verzorging 2016, bedoeld in artikel 62, eerste lid en deelt dit verschil door het aantal verzekerden van achttien jaar en ouder waarop [artikel 24 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&artikel=24) niet van toepassing is, dat bij die zorgverzekeraar is ingeschreven;
+- a. bepaalt het Zorginstituut per zorgverzekeraar het verschil tussen het voorlopige herberekende deelbedrag kosten van verpleging en verzorging 2016, bedoeld in [artikel 62, achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037640&hoofdstuk=III&artikel=62&z=2016-02-19&g=2016-02-19), en de kosten van verpleging en verzorging 2016, bedoeld in artikel 62, eerste lid en deelt dit verschil door het aantal verzekerden van achttien jaar en ouder waarop [artikel 24 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&artikel=24) niet van toepassing is, dat bij die zorgverzekeraar is ingeschreven;
 
-- b. berekent het Zorginstituut het gemiddelde marktresultaat voor het deelbedrag verpleging en verzorging. Het Zorginstituut berekent het gemiddelde marktresultaat door voor het totaal van de zorgverzekeraars het verschil tussen het herberekende normatieve bedrag kosten van verpleging en verzorging zorg bedoeld in [artikel 62, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037640&hoofdstuk=III&artikel=62&z=2016-02-19&g=2015-10-01), en de kosten van verpleging en verzorging 2016, bedoeld in artikel 62, eerste lid, te delen door het aantal verzekerden van achttien jaar en ouder waarop [artikel 24 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&artikel=24) niet van toepassing is;
+- b. berekent het Zorginstituut het gemiddelde marktresultaat voor het deelbedrag verpleging en verzorging. Het Zorginstituut berekent het gemiddelde marktresultaat door voor het totaal van de zorgverzekeraars het verschil tussen het herberekende normatieve bedrag kosten van verpleging en verzorging zorg bedoeld in [artikel 62, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037640&hoofdstuk=III&artikel=62&z=2016-02-19&g=2016-02-19), en de kosten van verpleging en verzorging 2016, bedoeld in artikel 62, eerste lid, te delen door het aantal verzekerden van achttien jaar en ouder waarop [artikel 24 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&artikel=24) niet van toepassing is;
 
 - c. indien het verschil tussen het in onderdeel a bepaalde bedrag en het gemiddelde marktresultaat groter is dan € 15,00 per verzekerde van achttien jaar en ouder waarop [artikel 24 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&artikel=24) niet van toepassing is, dan trekt het Zorginstituut 75 procent van het meerdere af van het normatieve bedrag 2016;
 
@@ -1010,9 +1010,9 @@ Indien een zorgverzekeraar na de toekenning van de vereveningsbijdrage 2016 besl
 
 3. Voor de toepassing van [artikel 3.17 van het Besluit zorgverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0018492&artikel=3.17):
 
-- a. bepaalt het Zorginstituut per zorgverzekeraar het verschil tussen het voorlopige herberekende deelbedrag kosten van geneeskundige geestelijke gezondheidszorg 2016, bedoeld in [artikel 63, achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037640&hoofdstuk=III&artikel=63&z=2016-02-19&g=2015-10-01), en de kosten van geneeskundige geestelijke gezondheidszorg 2016, bedoeld in artikel 63, eerste lid, en deelt dit verschil door het aantal verzekerden van achttien jaar en ouder waarop [artikel 24 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&artikel=24) niet van toepassing is, dat bij die zorgverzekeraar is ingeschreven;
+- a. bepaalt het Zorginstituut per zorgverzekeraar het verschil tussen het voorlopige herberekende deelbedrag kosten van geneeskundige geestelijke gezondheidszorg 2016, bedoeld in [artikel 63, achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037640&hoofdstuk=III&artikel=63&z=2016-02-19&g=2016-02-19), en de kosten van geneeskundige geestelijke gezondheidszorg 2016, bedoeld in artikel 63, eerste lid, en deelt dit verschil door het aantal verzekerden van achttien jaar en ouder waarop [artikel 24 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&artikel=24) niet van toepassing is, dat bij die zorgverzekeraar is ingeschreven;
 
-- b. berekent het Zorginstituut het gemiddelde marktresultaat voor het deelbedrag kosten van geneeskundige geestelijke gezondheidszorg. Het Zorginstituut berekent het gemiddeld marktresultaat door voor het totaal van de zorgverzekeraars het verschil tussen het herberekende normatieve bedrag kosten van geneeskundige geestelijke gezondheidszorg 2016, bedoeld in [artikel 63, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037640&hoofdstuk=III&artikel=63&z=2016-02-19&g=2015-10-01), en de kosten van geneeskundige geestelijke gezondheidszorg 2016, bedoeld in artikel 63, eerste lid, te delen door het aantal verzekerden van achttien jaar en ouder waarop [artikel 24 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&artikel=24) niet van toepassing is;
+- b. berekent het Zorginstituut het gemiddelde marktresultaat voor het deelbedrag kosten van geneeskundige geestelijke gezondheidszorg. Het Zorginstituut berekent het gemiddeld marktresultaat door voor het totaal van de zorgverzekeraars het verschil tussen het herberekende normatieve bedrag kosten van geneeskundige geestelijke gezondheidszorg 2016, bedoeld in [artikel 63, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037640&hoofdstuk=III&artikel=63&z=2016-02-19&g=2016-02-19), en de kosten van geneeskundige geestelijke gezondheidszorg 2016, bedoeld in artikel 63, eerste lid, te delen door het aantal verzekerden van achttien jaar en ouder waarop [artikel 24 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&artikel=24) niet van toepassing is;
 
 - c. indien het verschil tussen het in onderdeel a bepaalde bedrag en het gemiddelde marktresultaat groter is dan € 17,50 per verzekerde van achttien jaar en ouder waarop [artikel 24 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&artikel=24) niet van toepassing is, dan trekt het Zorginstituut 75 procent van het meerdere af van het normatieve bedrag 2016;
 
@@ -1020,9 +1020,9 @@ Indien een zorgverzekeraar na de toekenning van de vereveningsbijdrage 2016 besl
 
 4. Voor de toepassing van [artikel 3.17 van het Besluit zorgverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0018492&artikel=3.17):
 
-- a. bepaalt het Zorginstituut per zorgverzekeraar het verschil tussen het voorlopige herberekende deelbedrag kosten van langdurige geestelijke gezondheidszorg 2016, bedoeld in [artikel 64, negende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037640&hoofdstuk=III&artikel=64&z=2016-02-19&g=2015-10-01), en de kosten van langdurige geestelijke gezondheidszorg 2016, bedoeld in artikel 64, eerste lid, en deelt dit verschil door het aantal verzekerden van achttien jaar en ouder waarop [artikel 24 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&artikel=24) niet van toepassing is, dat bij die zorgverzekeraar is ingeschreven;
+- a. bepaalt het Zorginstituut per zorgverzekeraar het verschil tussen het voorlopige herberekende deelbedrag kosten van langdurige geestelijke gezondheidszorg 2016, bedoeld in [artikel 64, negende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037640&hoofdstuk=III&artikel=64&z=2016-02-19&g=2016-02-19), en de kosten van langdurige geestelijke gezondheidszorg 2016, bedoeld in artikel 64, eerste lid, en deelt dit verschil door het aantal verzekerden van achttien jaar en ouder waarop [artikel 24 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&artikel=24) niet van toepassing is, dat bij die zorgverzekeraar is ingeschreven;
 
-- b. berekent het Zorginstituut het gemiddelde marktresultaat voor het deelbedrag kosten van langdurige geestelijke gezondheidszorg. Het Zorginstituut berekent het gemiddeld marktresultaat door voor het totaal van de zorgverzekeraars het verschil tussen het herberekende normatieve bedrag kosten van langdurige geestelijke gezondheidszorg 2016, bedoeld in [artikel 64, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037640&hoofdstuk=III&artikel=64&z=2016-02-19&g=2015-10-01), en de kosten van langdurige geestelijke gezondheidszorg 2016, bedoeld in artikel 64, eerste lid, te delen door het aantal verzekerden van achttien jaar en ouder waarop [artikel 24 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&artikel=24) niet van toepassing is;
+- b. berekent het Zorginstituut het gemiddelde marktresultaat voor het deelbedrag kosten van langdurige geestelijke gezondheidszorg. Het Zorginstituut berekent het gemiddeld marktresultaat door voor het totaal van de zorgverzekeraars het verschil tussen het herberekende normatieve bedrag kosten van langdurige geestelijke gezondheidszorg 2016, bedoeld in [artikel 64, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037640&hoofdstuk=III&artikel=64&z=2016-02-19&g=2016-02-19), en de kosten van langdurige geestelijke gezondheidszorg 2016, bedoeld in artikel 64, eerste lid, te delen door het aantal verzekerden van achttien jaar en ouder waarop [artikel 24 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&artikel=24) niet van toepassing is;
 
 - c. indien het verschil tussen het in onderdeel a bepaalde bedrag en het gemiddelde marktresultaat groter is dan € 5,00 per verzekerde van achttien jaar en ouder waarop [artikel 24 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&artikel=24) niet van toepassing is, dan trekt het Zorginstituut 100 procent van het meerdere af van het normatieve bedrag 2016;
 
@@ -1034,7 +1034,7 @@ Indien een zorgverzekeraar na de toekenning van de vereveningsbijdrage 2016 besl
 
 7. Het Zorginstituut herberekent voorlopig de aanvulling op de bijdrage voor de uitkering in verband met uitvoeringskosten van verzekerden jonger dan achttien jaar door het aantal verzekerden jonger dan achttien jaar 2016 te vermenigvuldigen met € 43,00.
 
-8. Het Zorginstituut herberekent de vereveningsbijdrage 2016 voorlopig door de som van het herberekende normatieve bedrag 2016, bedoeld in het eerste lid, met toepassing van het tweede, derde en vierde lid en de aanvulling voor uitvoeringskosten van verzekerden jonger dan achttien jaar, bedoeld in het vorige lid, te verminderen met de voorlopig herberekende normatieve eigen risico opbrengst, bedoeld in [artikel 65](https://wetten.overheid.nl/jci1.3:c:BWBR0037640&hoofdstuk=III&artikel=65&z=2016-02-19&g=2015-10-01), en de opbrengst van de nominale rekenpremie, bedoeld in het vijfde en zesde lid.
+8. Het Zorginstituut herberekent de vereveningsbijdrage 2016 voorlopig door de som van het herberekende normatieve bedrag 2016, bedoeld in het eerste lid, met toepassing van het tweede, derde en vierde lid en de aanvulling voor uitvoeringskosten van verzekerden jonger dan achttien jaar, bedoeld in het vorige lid, te verminderen met de voorlopig herberekende normatieve eigen risico opbrengst, bedoeld in [artikel 65](https://wetten.overheid.nl/jci1.3:c:BWBR0037640&hoofdstuk=III&artikel=65&z=2016-02-19&g=2016-02-19), en de opbrengst van de nominale rekenpremie, bedoeld in het vijfde en zesde lid.
 
 9. Het Zorginstituut stelt de vereveningsbijdrage 2016 in september 2017 voorlopig vast ter hoogte van de in het vorige lid berekende bijdrage.
 
@@ -1046,7 +1046,7 @@ Het Zorginstituut herberekent het normatieve bedrag voor de tweede keer voorlopi
 
 ##### Artikel 68. Bepaling van de verzekerdenaantallen 2016
 
-1. Het Zorginstituut betrekt de correcties die de Nederlandse Zorgautoriteit heeft toegepast over 2016 bij de verzekerdenaantallen, zoals berekend op grond van [artikel 41](https://wetten.overheid.nl/jci1.3:c:BWBR0037640&hoofdstuk=III&artikel=41&z=2016-02-19&g=2015-10-01).
+1. Het Zorginstituut betrekt de correcties die de Nederlandse Zorgautoriteit heeft toegepast over 2016 bij de verzekerdenaantallen, zoals berekend op grond van [artikel 41](https://wetten.overheid.nl/jci1.3:c:BWBR0037640&hoofdstuk=III&artikel=41&z=2016-02-19&g=2016-02-19).
 
 2. Voor het criterium SES betrekt het Zorginstituut voor het inkomen de opgave van de Belastingdienst over 2016 bij de verzekerdenaantallen. Indien een verzekerde niet is opgenomen in de opgave over 2016, maakt het Zorginstituut gebruik van de opgave over 2015.
 
@@ -1064,7 +1064,7 @@ Het Zorginstituut herberekent het normatieve bedrag voor de tweede keer voorlopi
 
 2. Het Zorginstituut herberekent het gewicht variabele zorgkosten per verzekerde voor de MHK klasse ‘Geen MHK’ door het totaal aantal verzekerden in een andere klasse dan ‘Geen MHK’ per MHK klasse te vermenigvuldigen met het overeenkomstige gewicht en de som van het resultaat vervolgens te delen door het totaal aantal verzekerden in de MHK klasse ‘Geen MHK’, dat af te ronden op twee decimalen en van een negatief teken te voorzien.
 
-3. Het Zorginstituut herberekent met inachtneming van de op grond van [artikel 68](https://wetten.overheid.nl/jci1.3:c:BWBR0037640&hoofdstuk=IV&artikel=68&z=2016-02-19&g=2015-10-01) bepaalde verzekerdenaantallen het normatieve bedrag variabele zorgkosten 2016 voor iedere zorgverzekeraar afzonderlijk, overeenkomstig [artikel 27](https://wetten.overheid.nl/jci1.3:c:BWBR0037640&hoofdstuk=II&artikel=27&z=2016-02-19&g=2015-10-01) en [28](https://wetten.overheid.nl/jci1.3:c:BWBR0037640&hoofdstuk=II&artikel=28&z=2016-02-19&g=2015-10-01), alsmede voor het totaal van de verzekerden 2016 van alle zorgverzekeraars.
+3. Het Zorginstituut herberekent met inachtneming van de op grond van [artikel 68](https://wetten.overheid.nl/jci1.3:c:BWBR0037640&hoofdstuk=IV&artikel=68&z=2016-02-19&g=2016-02-19) bepaalde verzekerdenaantallen het normatieve bedrag variabele zorgkosten 2016 voor iedere zorgverzekeraar afzonderlijk, overeenkomstig [artikel 27](https://wetten.overheid.nl/jci1.3:c:BWBR0037640&hoofdstuk=II&artikel=27&z=2016-02-19&g=2016-02-19) en [28](https://wetten.overheid.nl/jci1.3:c:BWBR0037640&hoofdstuk=II&artikel=28&z=2016-02-19&g=2016-02-19), alsmede voor het totaal van de verzekerden 2016 van alle zorgverzekeraars.
 
 4. Het Zorginstituut berekent de schalingsfactor voor variabele zorgkosten 2016 door de variabele zorgkosten 2016 voor het totaal van de zorgverzekeraars, zoals bepaald in het eerste lid, te delen door het in het derde lid herberekende normatieve bedrag variabele zorgkosten 2016 voor het totaal van de verzekerden 2016 van alle zorgverzekeraars.
 
@@ -1078,7 +1078,7 @@ Het Zorginstituut herberekent het normatieve bedrag voor de tweede keer voorlopi
 
 ##### Artikel 70. De tweede voorlopige herberekening van het deelbedrag vaste zorgkosten 2016
 
-Het Zorginstituut herberekent voor de tweede keer voorlopig het deelbedrag vaste zorgkosten 2016 overeenkomstig [artikel 61](https://wetten.overheid.nl/jci1.3:c:BWBR0037640&hoofdstuk=III&artikel=61&z=2016-02-19&g=2015-10-01), met inachtneming van [artikel 67](https://wetten.overheid.nl/jci1.3:c:BWBR0037640&hoofdstuk=IV&artikel=67&z=2016-02-19&g=2015-10-01) en [68](https://wetten.overheid.nl/jci1.3:c:BWBR0037640&hoofdstuk=IV&artikel=68&z=2016-02-19&g=2015-10-01).
+Het Zorginstituut herberekent voor de tweede keer voorlopig het deelbedrag vaste zorgkosten 2016 overeenkomstig [artikel 61](https://wetten.overheid.nl/jci1.3:c:BWBR0037640&hoofdstuk=III&artikel=61&z=2016-02-19&g=2016-02-19), met inachtneming van [artikel 67](https://wetten.overheid.nl/jci1.3:c:BWBR0037640&hoofdstuk=IV&artikel=67&z=2016-02-19&g=2016-02-19) en [68](https://wetten.overheid.nl/jci1.3:c:BWBR0037640&hoofdstuk=IV&artikel=68&z=2016-02-19&g=2016-02-19).
 
 ##### Artikel 71. De tweede voorlopige herberekening van het deelbedrag verpleging en verzorging 2016
 
@@ -1086,7 +1086,7 @@ Het Zorginstituut herberekent voor de tweede keer voorlopig het deelbedrag vaste
 
 2. Het Zorginstituut herberekent het gewicht kosten van verpleging en verzorging per verzekerde voor de MHK klasse ‘Geen MHK’ door het totaal aantal verzekerden in een andere klasse dan ‘Geen MHK’ per MHK klasse te vermenigvuldigen met het overeenkomstige gewicht en de som van het resultaat vervolgens te delen door het totaal aantal verzekerden in de MHK klasse ‘Geen MHK’, dat af te ronden op twee decimalen en van een negatief teken te voorzien.
 
-3. Het Zorginstituut herberekent met inachtneming van de op grond van [artikel 68](https://wetten.overheid.nl/jci1.3:c:BWBR0037640&hoofdstuk=IV&artikel=68&z=2016-02-19&g=2015-10-01) bepaalde verzekerdenaantallen, het normatieve bedrag kosten van verpleging en verzorging prestaties 2016 voor iedere zorgverzekeraar afzonderlijk, overeenkomstig [artikel 30](https://wetten.overheid.nl/jci1.3:c:BWBR0037640&hoofdstuk=II&artikel=30&z=2016-02-19&g=2015-10-01) en [31](https://wetten.overheid.nl/jci1.3:c:BWBR0037640&hoofdstuk=II&artikel=31&z=2016-02-19&g=2015-10-01), alsmede voor het totaal van de verzekerden 2016 van alle zorgverzekeraars.
+3. Het Zorginstituut herberekent met inachtneming van de op grond van [artikel 68](https://wetten.overheid.nl/jci1.3:c:BWBR0037640&hoofdstuk=IV&artikel=68&z=2016-02-19&g=2016-02-19) bepaalde verzekerdenaantallen, het normatieve bedrag kosten van verpleging en verzorging prestaties 2016 voor iedere zorgverzekeraar afzonderlijk, overeenkomstig [artikel 30](https://wetten.overheid.nl/jci1.3:c:BWBR0037640&hoofdstuk=II&artikel=30&z=2016-02-19&g=2016-02-19) en [31](https://wetten.overheid.nl/jci1.3:c:BWBR0037640&hoofdstuk=II&artikel=31&z=2016-02-19&g=2016-02-19), alsmede voor het totaal van de verzekerden 2016 van alle zorgverzekeraars.
 
 4. Het Zorginstituut berekent de schalingsfactor voor kosten van verpleging en verzorging 2016 door de kosten van verpleging en verzorging 2016 voor het totaal van de zorgverzekeraars, zoals bepaald in het eerste lid, te delen door het in het derde lid herberekende normatieve bedrag kosten van verpleging en verzorging 2016 voor het totaal van de verzekerden 2016 van alle zorgverzekeraars.
 
@@ -1104,7 +1104,7 @@ Het Zorginstituut herberekent voor de tweede keer voorlopig het deelbedrag vaste
 
 2. Het Zorginstituut herberekent het gewicht kosten van geneeskundige GGZ per verzekerde voor de GGZ-MHK klasse ‘GGZ-MHK 3 jaar geen kosten’ door het totaal aantal verzekerden in een andere klasse dan ‘GGZ-MHK 3 jaar geen kosten’ per GGZ-MHK klasse te vermenigvuldigen met het overeenkomstige gewicht en de som van het resultaat vervolgens te delen door het totaal aantal verzekerden in de GGZ-MHK klasse ‘GGZ-MHK 3 jaar geen kosten’, dat af te ronden op twee decimalen en van een negatief teken te voorzien.
 
-3. Het Zorginstituut herberekent met inachtneming van de op grond van [artikel 68](https://wetten.overheid.nl/jci1.3:c:BWBR0037640&hoofdstuk=IV&artikel=68&z=2016-02-19&g=2015-10-01) bepaalde verzekerdenaantallen het normatieve bedrag kosten van geneeskundige geestelijke gezondheidszorg 2016 voor iedere zorgverzekeraar afzonderlijk, overeenkomstig [artikel 32](https://wetten.overheid.nl/jci1.3:c:BWBR0037640&hoofdstuk=II&artikel=32&z=2016-02-19&g=2015-10-01) en [33](https://wetten.overheid.nl/jci1.3:c:BWBR0037640&hoofdstuk=II&artikel=33&z=2016-02-19&g=2015-10-01), alsmede voor het totaal van de verzekerden van achttien jaar en ouder 2016 van alle zorgverzekeraars.
+3. Het Zorginstituut herberekent met inachtneming van de op grond van [artikel 68](https://wetten.overheid.nl/jci1.3:c:BWBR0037640&hoofdstuk=IV&artikel=68&z=2016-02-19&g=2016-02-19) bepaalde verzekerdenaantallen het normatieve bedrag kosten van geneeskundige geestelijke gezondheidszorg 2016 voor iedere zorgverzekeraar afzonderlijk, overeenkomstig [artikel 32](https://wetten.overheid.nl/jci1.3:c:BWBR0037640&hoofdstuk=II&artikel=32&z=2016-02-19&g=2016-02-19) en [33](https://wetten.overheid.nl/jci1.3:c:BWBR0037640&hoofdstuk=II&artikel=33&z=2016-02-19&g=2016-02-19), alsmede voor het totaal van de verzekerden van achttien jaar en ouder 2016 van alle zorgverzekeraars.
 
 4. Het Zorginstituut berekent de schalingsfactor voor kosten van geneeskundige geestelijke gezondheidszorg 2016 door de kosten van geneeskundige geestelijke gezondheidszorg 2016 voor het totaal van de zorgverzekeraars, zoals bepaald in het eerste lid, te delen door het in het derde lid herberekende normatieve bedrag kosten van geneeskundige geestelijke gezondheidszorg 2016 voor het totaal van alle zorgverzekeraars.
 
@@ -1124,7 +1124,7 @@ Het Zorginstituut herberekent voor de tweede keer voorlopig het deelbedrag vaste
 
 3. Het Zorginstituut herberekent het gewicht kosten van langdurige GGZ voor verzekerden van achttien jaar en ouder per verzekerde voor de IGG klasse ‘Geen IGG’ 2016 door het totaal aantal verzekerden in een andere klasse dan ‘Geen IGG’ per IGG klasse te vermenigvuldigen met het overeenkomstige gewicht en de som van het resultaat vervolgens te delen door het totaal aantal verzekerden voor de klasse ‘Geen IGG’, dat af te ronden op twee decimalen en van een negatief teken te voorzien.
 
-4. Het Zorginstituut herberekent met inachtneming van de op grond van [artikel 68](https://wetten.overheid.nl/jci1.3:c:BWBR0037640&hoofdstuk=IV&artikel=68&z=2016-02-19&g=2015-10-01) bepaalde verzekerdenaantallen het normatieve bedrag kosten van langdurige geestelijke gezondheidszorg 2016 voor iedere zorgverzekeraar afzonderlijk, overeenkomstig [artikel 34](https://wetten.overheid.nl/jci1.3:c:BWBR0037640&hoofdstuk=II&artikel=34&z=2016-02-19&g=2015-10-01) en [35](https://wetten.overheid.nl/jci1.3:c:BWBR0037640&hoofdstuk=II&artikel=35&z=2016-02-19&g=2015-10-01) alsmede voor het totaal van de verzekerden van achttien jaar en ouder 2016 van alle zorgverzekeraars.
+4. Het Zorginstituut herberekent met inachtneming van de op grond van [artikel 68](https://wetten.overheid.nl/jci1.3:c:BWBR0037640&hoofdstuk=IV&artikel=68&z=2016-02-19&g=2016-02-19) bepaalde verzekerdenaantallen het normatieve bedrag kosten van langdurige geestelijke gezondheidszorg 2016 voor iedere zorgverzekeraar afzonderlijk, overeenkomstig [artikel 34](https://wetten.overheid.nl/jci1.3:c:BWBR0037640&hoofdstuk=II&artikel=34&z=2016-02-19&g=2016-02-19) en [35](https://wetten.overheid.nl/jci1.3:c:BWBR0037640&hoofdstuk=II&artikel=35&z=2016-02-19&g=2016-02-19) alsmede voor het totaal van de verzekerden van achttien jaar en ouder 2016 van alle zorgverzekeraars.
 
 5. Het Zorginstituut berekent de schalingsfactor voor kosten van langdurige geestelijke gezondheidszorg 2016 door de kosten van langdurige geestelijke gezondheidszorg 2016 voor het totaal van de zorgverzekeraars, zoals bepaald in het eerste lid, te delen door het in het vierde lid herberekende normatieve bedrag kosten van langdurige geestelijke gezondheidszorg 2016 voor het totaal van alle zorgverzekeraars.
 
@@ -1138,7 +1138,7 @@ Het Zorginstituut herberekent voor de tweede keer voorlopig het deelbedrag vaste
 
 ##### Artikel 74. De tweede voorlopige herberekening van de normatieve eigen risico opbrengst 2016
 
-Het Zorginstituut herberekent voor de tweede keer voorlopig de normatieve eigen risico opbrengst 2016 overeenkomstig [artikel 65](https://wetten.overheid.nl/jci1.3:c:BWBR0037640&hoofdstuk=III&artikel=65&z=2016-02-19&g=2015-10-01), met inachtneming van [artikel 67](https://wetten.overheid.nl/jci1.3:c:BWBR0037640&hoofdstuk=IV&artikel=67&z=2016-02-19&g=2015-10-01) en [68](https://wetten.overheid.nl/jci1.3:c:BWBR0037640&hoofdstuk=IV&artikel=68&z=2016-02-19&g=2015-10-01).
+Het Zorginstituut herberekent voor de tweede keer voorlopig de normatieve eigen risico opbrengst 2016 overeenkomstig [artikel 65](https://wetten.overheid.nl/jci1.3:c:BWBR0037640&hoofdstuk=III&artikel=65&z=2016-02-19&g=2016-02-19), met inachtneming van [artikel 67](https://wetten.overheid.nl/jci1.3:c:BWBR0037640&hoofdstuk=IV&artikel=67&z=2016-02-19&g=2016-02-19) en [68](https://wetten.overheid.nl/jci1.3:c:BWBR0037640&hoofdstuk=IV&artikel=68&z=2016-02-19&g=2016-02-19).
 
 ##### Artikel 75. De tweede voorlopige herberekening van het normatieve bedrag 2016 en de tweede voorlopige herberekening en de vaststelling van de vereveningsbijdrage 2016
 
@@ -1146,9 +1146,9 @@ Het Zorginstituut herberekent voor de tweede keer voorlopig de normatieve eigen 
 
 2. Voor de toepassing van [artikel 3.17 van het Besluit zorgverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0018492&artikel=3.17):
 
-- a. bepaalt het Zorginstituut per zorgverzekeraar het verschil tussen het tweede voorlopige herberekende deelbedrag kosten van verpleging en verzorging 2016, bedoeld in [artikel 71, achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037640&hoofdstuk=IV&artikel=71&z=2016-02-19&g=2015-10-01), en de kosten van verpleging en verzorging 2016, bedoeld in artikel 71, eerste lid, en deelt dit verschil door het aantal verzekerden van achttien jaar en ouder waarop [artikel 24 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&artikel=24) niet van toepassing is, dat bij die zorgverzekeraar is ingeschreven;
+- a. bepaalt het Zorginstituut per zorgverzekeraar het verschil tussen het tweede voorlopige herberekende deelbedrag kosten van verpleging en verzorging 2016, bedoeld in [artikel 71, achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037640&hoofdstuk=IV&artikel=71&z=2016-02-19&g=2016-02-19), en de kosten van verpleging en verzorging 2016, bedoeld in artikel 71, eerste lid, en deelt dit verschil door het aantal verzekerden van achttien jaar en ouder waarop [artikel 24 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&artikel=24) niet van toepassing is, dat bij die zorgverzekeraar is ingeschreven;
 
-- b. berekent het Zorginstituut het gemiddelde marktresultaat voor het deelbedrag kosten van verpleging en verzorging. Het Zorginstituut berekent het gemiddelde marktresultaat door voor het totaal van de zorgverzekeraars het verschil tussen het herberekende normatieve bedrag kosten van verpleging en verzorging, bedoeld in [artikel 71, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037640&hoofdstuk=IV&artikel=71&z=2016-02-19&g=2015-10-01), en de kosten van verpleging en verzorging 2016, bedoeld in artikel 71, eerste lid, te delen door het aantal verzekerden van achttien jaar en ouder waarop [artikel 24 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&artikel=24) niet van toepassing is;
+- b. berekent het Zorginstituut het gemiddelde marktresultaat voor het deelbedrag kosten van verpleging en verzorging. Het Zorginstituut berekent het gemiddelde marktresultaat door voor het totaal van de zorgverzekeraars het verschil tussen het herberekende normatieve bedrag kosten van verpleging en verzorging, bedoeld in [artikel 71, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037640&hoofdstuk=IV&artikel=71&z=2016-02-19&g=2016-02-19), en de kosten van verpleging en verzorging 2016, bedoeld in artikel 71, eerste lid, te delen door het aantal verzekerden van achttien jaar en ouder waarop [artikel 24 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&artikel=24) niet van toepassing is;
 
 - c. indien het verschil tussen het in onderdeel a bepaalde bedrag en het gemiddelde marktresultaat groter is dan € 15,00 per verzekerde van achttien jaar en ouder waarop [artikel 24 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&artikel=24) niet van toepassing is, dan trekt het Zorginstituut 75 procent van het meerdere af van het normatieve bedrag 2016;
 
@@ -1156,9 +1156,9 @@ Het Zorginstituut herberekent voor de tweede keer voorlopig de normatieve eigen 
 
 3. Voor de toepassing van [artikel 3.17 van het Besluit zorgverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0018492&artikel=3.17):
 
-- a. bepaalt het Zorginstituut per zorgverzekeraar het verschil tussen het tweede voorlopige herberekende deelbedrag kosten van geneeskundige geestelijke gezondheidszorg 2016, bedoeld in [artikel 72, achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037640&hoofdstuk=IV&artikel=72&z=2016-02-19&g=2015-10-01), en de kosten van geneeskundige geestelijke gezondheidszorg 2016, bedoeld in artikel 72, eerste lid, en deelt dit verschil door het aantal verzekerden van achttien jaar en ouder waarop [artikel 24 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&artikel=24) niet van toepassing is, dat bij die zorgverzekeraar is ingeschreven;
+- a. bepaalt het Zorginstituut per zorgverzekeraar het verschil tussen het tweede voorlopige herberekende deelbedrag kosten van geneeskundige geestelijke gezondheidszorg 2016, bedoeld in [artikel 72, achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037640&hoofdstuk=IV&artikel=72&z=2016-02-19&g=2016-02-19), en de kosten van geneeskundige geestelijke gezondheidszorg 2016, bedoeld in artikel 72, eerste lid, en deelt dit verschil door het aantal verzekerden van achttien jaar en ouder waarop [artikel 24 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&artikel=24) niet van toepassing is, dat bij die zorgverzekeraar is ingeschreven;
 
-- b. berekent het Zorginstituut het gemiddelde marktresultaat voor het deelbedrag kosten van geneeskundige geestelijke gezondheidszorg. Het Zorginstituut berekent het gemiddeld marktresultaat door voor het totaal van de zorgverzekeraars het verschil tussen het herberekende normatieve bedrag kosten van geneeskundige geestelijke gezondheidszorg 2016, bedoeld in [artikel 72, achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037640&hoofdstuk=IV&artikel=72&z=2016-02-19&g=2015-10-01), en de kosten van geneeskundige geestelijke gezondheidszorg 2016 bedoeld in artikel 72, derde lid, te delen door het aantal verzekerden van achttien jaar en ouder waarop [artikel 24 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&artikel=24) niet van toepassing is;
+- b. berekent het Zorginstituut het gemiddelde marktresultaat voor het deelbedrag kosten van geneeskundige geestelijke gezondheidszorg. Het Zorginstituut berekent het gemiddeld marktresultaat door voor het totaal van de zorgverzekeraars het verschil tussen het herberekende normatieve bedrag kosten van geneeskundige geestelijke gezondheidszorg 2016, bedoeld in [artikel 72, achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037640&hoofdstuk=IV&artikel=72&z=2016-02-19&g=2016-02-19), en de kosten van geneeskundige geestelijke gezondheidszorg 2016 bedoeld in artikel 72, derde lid, te delen door het aantal verzekerden van achttien jaar en ouder waarop [artikel 24 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&artikel=24) niet van toepassing is;
 
 - c. indien het verschil tussen het in onderdeel a bepaalde bedrag en het gemiddelde marktresultaat groter is dan € 17,50 per verzekerde van achttien jaar en ouder waarop [artikel 24 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&artikel=24) niet van toepassing is, dan trekt het Zorginstituut 75 procent van het meerdere af van het normatieve bedrag 2016;
 
@@ -1166,9 +1166,9 @@ Het Zorginstituut herberekent voor de tweede keer voorlopig de normatieve eigen 
 
 4. Voor de toepassing van [artikel 3.17 van het Besluit zorgverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0018492&artikel=3.17):
 
-- a. bepaalt het Zorginstituut per zorgverzekeraar het verschil tussen het tweede voorlopige herberekende deelbedrag kosten van langdurige geestelijke gezondheidszorg 2016, bedoeld in [artikel 73, negende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037640&hoofdstuk=IV&artikel=73&z=2016-02-19&g=2015-10-01), en de kosten van langdurige geestelijke gezondheidszorg 2016, bedoeld in artikel 73, eerste lid, en deelt dit verschil door het aantal verzekerden van achttien jaar en ouder waarop [artikel 24 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&artikel=24) niet van toepassing is, dat bij die zorgverzekeraar is ingeschreven;
+- a. bepaalt het Zorginstituut per zorgverzekeraar het verschil tussen het tweede voorlopige herberekende deelbedrag kosten van langdurige geestelijke gezondheidszorg 2016, bedoeld in [artikel 73, negende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037640&hoofdstuk=IV&artikel=73&z=2016-02-19&g=2016-02-19), en de kosten van langdurige geestelijke gezondheidszorg 2016, bedoeld in artikel 73, eerste lid, en deelt dit verschil door het aantal verzekerden van achttien jaar en ouder waarop [artikel 24 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&artikel=24) niet van toepassing is, dat bij die zorgverzekeraar is ingeschreven;
 
-- b. berekent het Zorginstituut het gemiddelde marktresultaat voor het deelbedrag kosten van langdurige geestelijke gezondheidszorg. Het Zorginstituut berekent het gemiddeld marktresultaat door voor het totaal van de zorgverzekeraars het verschil tussen het herberekende normatieve bedrag kosten van langdurige geestelijke gezondheidszorg 2016, bedoeld in [artikel 73, negende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037640&hoofdstuk=IV&artikel=73&z=2016-02-19&g=2015-10-01), en de kosten van langdurige geestelijke gezondheidszorg 2016 bedoeld in artikel 73, vierde lid, te delen door het aantal verzekerden van achttien jaar en ouder waarop [artikel 24 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&artikel=24) niet van toepassing is;
+- b. berekent het Zorginstituut het gemiddelde marktresultaat voor het deelbedrag kosten van langdurige geestelijke gezondheidszorg. Het Zorginstituut berekent het gemiddeld marktresultaat door voor het totaal van de zorgverzekeraars het verschil tussen het herberekende normatieve bedrag kosten van langdurige geestelijke gezondheidszorg 2016, bedoeld in [artikel 73, negende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037640&hoofdstuk=IV&artikel=73&z=2016-02-19&g=2016-02-19), en de kosten van langdurige geestelijke gezondheidszorg 2016 bedoeld in artikel 73, vierde lid, te delen door het aantal verzekerden van achttien jaar en ouder waarop [artikel 24 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&artikel=24) niet van toepassing is;
 
 - c. indien het verschil tussen het in onderdeel a bepaalde bedrag en het gemiddelde marktresultaat groter is dan € 5,00 per verzekerde van achttien jaar en ouder waarop [artikel 24 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&artikel=24) niet van toepassing is, dan trekt het Zorginstituut 100 procent van het meerdere af van het normatieve bedrag 2016;
 
@@ -1180,7 +1180,7 @@ Het Zorginstituut herberekent voor de tweede keer voorlopig de normatieve eigen 
 
 7. Het Zorginstituut berekent de tweede voorlopige aanvulling op de bijdrage voor de uitkering in verband met uitvoeringskosten van verzekerden jonger dan achttien jaar door het aantal verzekerden jonger dan achttien jaar te vermenigvuldigen met € 43,00.
 
-8. Het Zorginstituut berekent de vereveningsbijdrage 2016 voor de tweede keer voorlopig door de som van het tweede voorlopige normatieve bedrag 2016 bedoeld in het eerste lid, met toepassing van het tweede, derde en vierde lid en de aanvulling voor uitvoeringskosten van verzekerden jonger dan achttien jaar, bedoeld in het vorige lid, te verminderen met de tweede voorlopige normatieve eigen risico opbrengst, bedoeld in [artikel 74](https://wetten.overheid.nl/jci1.3:c:BWBR0037640&hoofdstuk=IV&artikel=74&z=2016-02-19&g=2015-10-01), en de opbrengst van de nominale rekenpremie, bedoeld in het vijfde en zesde lid.
+8. Het Zorginstituut berekent de vereveningsbijdrage 2016 voor de tweede keer voorlopig door de som van het tweede voorlopige normatieve bedrag 2016 bedoeld in het eerste lid, met toepassing van het tweede, derde en vierde lid en de aanvulling voor uitvoeringskosten van verzekerden jonger dan achttien jaar, bedoeld in het vorige lid, te verminderen met de tweede voorlopige normatieve eigen risico opbrengst, bedoeld in [artikel 74](https://wetten.overheid.nl/jci1.3:c:BWBR0037640&hoofdstuk=IV&artikel=74&z=2016-02-19&g=2016-02-19), en de opbrengst van de nominale rekenpremie, bedoeld in het vijfde en zesde lid.
 
 9. Het Zorginstituut stelt de vereveningsbijdrage 2016 voor de tweede keer voorlopig vast in september 2019 ter hoogte van de in het vorige lid berekende bijdrage.
 
@@ -1192,31 +1192,31 @@ Het Zorginstituut herberekent de vereveningsbijdrage definitief met inachtneming
 
 ##### Artikel 77. De definitieve herberekening van het deelbedrag variabele zorgkosten 2016
 
-Het Zorginstituut herberekent definitief het deelbedrag variabele zorgkosten 2016 overeenkomstig [artikel 69](https://wetten.overheid.nl/jci1.3:c:BWBR0037640&hoofdstuk=IV&artikel=69&z=2016-02-19&g=2015-10-01), met inachtneming van [artikel 76](https://wetten.overheid.nl/jci1.3:c:BWBR0037640&hoofdstuk=V&artikel=76&z=2016-02-19&g=2015-10-01).
+Het Zorginstituut herberekent definitief het deelbedrag variabele zorgkosten 2016 overeenkomstig [artikel 69](https://wetten.overheid.nl/jci1.3:c:BWBR0037640&hoofdstuk=IV&artikel=69&z=2016-02-19&g=2016-02-19), met inachtneming van [artikel 76](https://wetten.overheid.nl/jci1.3:c:BWBR0037640&hoofdstuk=V&artikel=76&z=2016-02-19&g=2016-02-19).
 
 ##### Artikel 78. De definitieve herberekening van het deelbedrag vaste zorgkosten 2016
 
-Het Zorginstituut herberekent definitief het deelbedrag vaste zorgkosten 2016 overeenkomstig [artikel 70](https://wetten.overheid.nl/jci1.3:c:BWBR0037640&hoofdstuk=IV&artikel=70&z=2016-02-19&g=2015-10-01), met inachtneming van [artikel 76](https://wetten.overheid.nl/jci1.3:c:BWBR0037640&hoofdstuk=V&artikel=76&z=2016-02-19&g=2015-10-01).
+Het Zorginstituut herberekent definitief het deelbedrag vaste zorgkosten 2016 overeenkomstig [artikel 70](https://wetten.overheid.nl/jci1.3:c:BWBR0037640&hoofdstuk=IV&artikel=70&z=2016-02-19&g=2016-02-19), met inachtneming van [artikel 76](https://wetten.overheid.nl/jci1.3:c:BWBR0037640&hoofdstuk=V&artikel=76&z=2016-02-19&g=2016-02-19).
 
 ##### Artikel 79. De definitieve herberekening van het deelbedrag verpleging en verzorging 2016
 
-Het Zorginstituut herberekent definitief het deelbedrag verpleging en verzorging 2016 overeenkomstig [artikel 71](https://wetten.overheid.nl/jci1.3:c:BWBR0037640&hoofdstuk=IV&artikel=71&z=2016-02-19&g=2015-10-01), met inachtneming van [artikel 76](https://wetten.overheid.nl/jci1.3:c:BWBR0037640&hoofdstuk=V&artikel=76&z=2016-02-19&g=2015-10-01).
+Het Zorginstituut herberekent definitief het deelbedrag verpleging en verzorging 2016 overeenkomstig [artikel 71](https://wetten.overheid.nl/jci1.3:c:BWBR0037640&hoofdstuk=IV&artikel=71&z=2016-02-19&g=2016-02-19), met inachtneming van [artikel 76](https://wetten.overheid.nl/jci1.3:c:BWBR0037640&hoofdstuk=V&artikel=76&z=2016-02-19&g=2016-02-19).
 
 ##### Artikel 80. De definitieve herberekening van het deelbedrag geneeskundige geestelijke gezondheidszorg 2016
 
-Het Zorginstituut herberekent definitief het deelbedrag geneeskundige geestelijke gezondheidszorg 2016 overeenkomstig [artikel 72](https://wetten.overheid.nl/jci1.3:c:BWBR0037640&hoofdstuk=IV&artikel=72&z=2016-02-19&g=2015-10-01), met inachtneming van [artikel 76](https://wetten.overheid.nl/jci1.3:c:BWBR0037640&hoofdstuk=V&artikel=76&z=2016-02-19&g=2015-10-01).
+Het Zorginstituut herberekent definitief het deelbedrag geneeskundige geestelijke gezondheidszorg 2016 overeenkomstig [artikel 72](https://wetten.overheid.nl/jci1.3:c:BWBR0037640&hoofdstuk=IV&artikel=72&z=2016-02-19&g=2016-02-19), met inachtneming van [artikel 76](https://wetten.overheid.nl/jci1.3:c:BWBR0037640&hoofdstuk=V&artikel=76&z=2016-02-19&g=2016-02-19).
 
 ##### Artikel 81. De definitieve herberekening van het deelbedrag langdurige geestelijke gezondheidszorg 2016
 
-Het Zorginstituut herberekent definitief het deelbedrag geneeskundige geestelijke gezondheidszorg 2016 overeenkomstig [artikel 73](https://wetten.overheid.nl/jci1.3:c:BWBR0037640&hoofdstuk=IV&artikel=73&z=2016-02-19&g=2015-10-01), met inachtneming van [artikel 76](https://wetten.overheid.nl/jci1.3:c:BWBR0037640&hoofdstuk=V&artikel=76&z=2016-02-19&g=2015-10-01).
+Het Zorginstituut herberekent definitief het deelbedrag geneeskundige geestelijke gezondheidszorg 2016 overeenkomstig [artikel 73](https://wetten.overheid.nl/jci1.3:c:BWBR0037640&hoofdstuk=IV&artikel=73&z=2016-02-19&g=2016-02-19), met inachtneming van [artikel 76](https://wetten.overheid.nl/jci1.3:c:BWBR0037640&hoofdstuk=V&artikel=76&z=2016-02-19&g=2016-02-19).
 
 ##### Artikel 82. De definitieve herberekening van de normatieve eigen risico opbrengst 2016
 
-Het Zorginstituut herberekent definitief het deelbedrag normatieve eigen risico opbrengst overeenkomstig [artikel 74](https://wetten.overheid.nl/jci1.3:c:BWBR0037640&hoofdstuk=IV&artikel=74&z=2016-02-19&g=2015-10-01), met inachtneming van [artikel 76](https://wetten.overheid.nl/jci1.3:c:BWBR0037640&hoofdstuk=V&artikel=76&z=2016-02-19&g=2015-10-01).
+Het Zorginstituut herberekent definitief het deelbedrag normatieve eigen risico opbrengst overeenkomstig [artikel 74](https://wetten.overheid.nl/jci1.3:c:BWBR0037640&hoofdstuk=IV&artikel=74&z=2016-02-19&g=2016-02-19), met inachtneming van [artikel 76](https://wetten.overheid.nl/jci1.3:c:BWBR0037640&hoofdstuk=V&artikel=76&z=2016-02-19&g=2016-02-19).
 
 ##### Artikel 83. De definitieve herberekening van het normatieve bedrag 2016 en de definitieve herberekening en de vaststelling van de bijdrage 2016
 
-1. Het Zorginstituut herberekent definitief het normatieve bedrag 2016 overeenkomstig [artikel 75](https://wetten.overheid.nl/jci1.3:c:BWBR0037640&hoofdstuk=IV&artikel=75&z=2016-02-19&g=2015-10-01), met inachtneming van [artikel 76](https://wetten.overheid.nl/jci1.3:c:BWBR0037640&hoofdstuk=V&artikel=76&z=2016-02-19&g=2015-10-01).
+1. Het Zorginstituut herberekent definitief het normatieve bedrag 2016 overeenkomstig [artikel 75](https://wetten.overheid.nl/jci1.3:c:BWBR0037640&hoofdstuk=IV&artikel=75&z=2016-02-19&g=2016-02-19), met inachtneming van [artikel 76](https://wetten.overheid.nl/jci1.3:c:BWBR0037640&hoofdstuk=V&artikel=76&z=2016-02-19&g=2016-02-19).
 
 2. Het Zorginstituut stelt de bijdrage 2016 vast in april 2020 ter hoogte van de in het vorige lid definitief berekende normatieve bedrag 2016.
 
@@ -1224,17 +1224,17 @@ Het Zorginstituut herberekent definitief het deelbedrag normatieve eigen risico 
 
 ##### Artikel 84
 
-1. Bij gelegenheid van de vaststelling van de bijdrage 2016, bedoeld in [artikel 83](https://wetten.overheid.nl/jci1.3:c:BWBR0037640&hoofdstuk=V&artikel=83&z=2016-02-19&g=2015-10-01), stelt het Zorginstituut per zorgverzekeraar ook de uitkering 2016 vast voor de kosten die op grond van de [wet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450) naar het werkelijke bedrag door het Zorginstituut worden vergoed.
+1. Bij gelegenheid van de vaststelling van de bijdrage 2016, bedoeld in [artikel 83](https://wetten.overheid.nl/jci1.3:c:BWBR0037640&hoofdstuk=V&artikel=83&z=2016-02-19&g=2016-02-19), stelt het Zorginstituut per zorgverzekeraar ook de uitkering 2016 vast voor de kosten die op grond van de [wet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450) naar het werkelijke bedrag door het Zorginstituut worden vergoed.
 
-2. In afwachting van de vaststelling van de uitkering 2016 voor de kosten die op grond van de [wet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450) naar het werkelijke bedrag door het Zorginstituut worden vergoed, stelt het Zorginstituut bij de voorlopige vaststelling van de bijdrage 2016, bedoeld in [artikel 66](https://wetten.overheid.nl/jci1.3:c:BWBR0037640&hoofdstuk=III&artikel=66&z=2016-02-19&g=2015-10-01), ook de voorlopige uitkering 2016 voor de kosten die op grond van de wet naar het werkelijke bedrag door het Zorginstituut worden vergoed, vast.
+2. In afwachting van de vaststelling van de uitkering 2016 voor de kosten die op grond van de [wet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450) naar het werkelijke bedrag door het Zorginstituut worden vergoed, stelt het Zorginstituut bij de voorlopige vaststelling van de bijdrage 2016, bedoeld in [artikel 66](https://wetten.overheid.nl/jci1.3:c:BWBR0037640&hoofdstuk=III&artikel=66&z=2016-02-19&g=2016-02-19), ook de voorlopige uitkering 2016 voor de kosten die op grond van de wet naar het werkelijke bedrag door het Zorginstituut worden vergoed, vast.
 
-3. In afwachting van de vaststelling van de uitkering 2016 voor de kosten die op grond van de [wet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450) naar het werkelijke bedrag door het Zorginstituut worden vergoed, stelt het Zorginstituut bij de tweede voorlopige vaststelling van de bijdrage 2016, bedoeld in [artikel 75](https://wetten.overheid.nl/jci1.3:c:BWBR0037640&hoofdstuk=IV&artikel=75&z=2016-02-19&g=2015-10-01), ook de tweede voorlopige uitkering 2016 voor de kosten die op grond van de wet naar het werkelijke bedrag door het Zorginstituut worden vergoed, vast.
+3. In afwachting van de vaststelling van de uitkering 2016 voor de kosten die op grond van de [wet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450) naar het werkelijke bedrag door het Zorginstituut worden vergoed, stelt het Zorginstituut bij de tweede voorlopige vaststelling van de bijdrage 2016, bedoeld in [artikel 75](https://wetten.overheid.nl/jci1.3:c:BWBR0037640&hoofdstuk=IV&artikel=75&z=2016-02-19&g=2016-02-19), ook de tweede voorlopige uitkering 2016 voor de kosten die op grond van de wet naar het werkelijke bedrag door het Zorginstituut worden vergoed, vast.
 
 ### Hoofdstuk VII. De betalingen aan de zorgverzekeraars
 
 ##### Artikel 85
 
-1. Het Zorginstituut betaalt de zorgverzekeraars de vereveningsbijdrage, bedoeld in [artikel 38, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037640&hoofdstuk=II&artikel=38&z=2016-02-19&g=2015-10-01), uit. Het Zorginstituut maakt bij de betaling onderscheid naar de volgende bestanddelen:
+1. Het Zorginstituut betaalt de zorgverzekeraars de vereveningsbijdrage, bedoeld in [artikel 38, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037640&hoofdstuk=II&artikel=38&z=2016-02-19&g=2016-02-19), uit. Het Zorginstituut maakt bij de betaling onderscheid naar de volgende bestanddelen:
 
 - a. het deelbedrag variabele zorgkosten 2016;
 
@@ -1248,17 +1248,17 @@ Het Zorginstituut herberekent definitief het deelbedrag normatieve eigen risico 
 
 - f. een aftrekpost voor de normatieve eigen risico opbrengst 2016.
 
-2. Het Zorginstituut betaalt de zorgverzekeraars de uitkering in verband met uitvoeringskosten van verzekerden jonger dan achttien jaar, bedoeld in [artikel 38, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037640&hoofdstuk=II&artikel=38&z=2016-02-19&g=2015-10-01), gelijktijdig met de betaling genoemd in het eerste lid uit.
+2. Het Zorginstituut betaalt de zorgverzekeraars de uitkering in verband met uitvoeringskosten van verzekerden jonger dan achttien jaar, bedoeld in [artikel 38, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037640&hoofdstuk=II&artikel=38&z=2016-02-19&g=2016-02-19), gelijktijdig met de betaling genoemd in het eerste lid uit.
 
 3. Voor de betaling van de kosten, die op grond van de [wet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450) naar werkelijke kosten worden vergoed, kan het Zorginstituut ambtshalve een bedrag vaststellen, waarmee de betaling aan de zorgverzekeraars wordt verhoogd.
 
 ##### Artikel 86. Betaling
 
-1. Het Zorginstituut bepaalt per zorgverzekeraar de som van de bestanddelen genoemd in [artikel 85, eerste lid, onder a tot en met e](https://wetten.overheid.nl/jci1.3:c:BWBR0037640&hoofdstuk=VII&artikel=85&z=2016-02-19&g=2015-10-01) en de uitkering, genoemd in artikel 85, tweede lid.
+1. Het Zorginstituut bepaalt per zorgverzekeraar de som van de bestanddelen genoemd in [artikel 85, eerste lid, onder a tot en met e](https://wetten.overheid.nl/jci1.3:c:BWBR0037640&hoofdstuk=VII&artikel=85&z=2016-02-19&g=2016-02-19) en de uitkering, genoemd in artikel 85, tweede lid.
 
-2. Het Zorginstituut berekent per zorgverzekeraar de som van de vereveningsbijdrage 2016, bedoeld in [artikel 38, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037640&hoofdstuk=II&artikel=38&z=2016-02-19&g=2015-10-01) en de normatieve eigen risico opbrengst 2016, zoals bepaald in [artikel 37, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037640&hoofdstuk=II&artikel=37&z=2016-02-19&g=2015-10-01) en deelt het resultaat door het resultaat van het eerste lid.
+2. Het Zorginstituut berekent per zorgverzekeraar de som van de vereveningsbijdrage 2016, bedoeld in [artikel 38, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037640&hoofdstuk=II&artikel=38&z=2016-02-19&g=2016-02-19) en de normatieve eigen risico opbrengst 2016, zoals bepaald in [artikel 37, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037640&hoofdstuk=II&artikel=37&z=2016-02-19&g=2016-02-19) en deelt het resultaat door het resultaat van het eerste lid.
 
-3. Het Zorginstituut vermenigvuldigt per zorgverzekeraar ieder van de bestanddelen genoemd in [artikel 85, eerste lid, onder a tot en met e](https://wetten.overheid.nl/jci1.3:c:BWBR0037640&hoofdstuk=VII&artikel=85&z=2016-02-19&g=2015-10-01), en de uitkering bedoeld in artikel 85, tweede lid, met het percentage dat het resultaat is van het tweede lid.
+3. Het Zorginstituut vermenigvuldigt per zorgverzekeraar ieder van de bestanddelen genoemd in [artikel 85, eerste lid, onder a tot en met e](https://wetten.overheid.nl/jci1.3:c:BWBR0037640&hoofdstuk=VII&artikel=85&z=2016-02-19&g=2016-02-19), en de uitkering bedoeld in artikel 85, tweede lid, met het percentage dat het resultaat is van het tweede lid.
 
 4. De resultaten van het derde lid worden respectievelijk genoemd als volgt:
 
@@ -1274,11 +1274,11 @@ Het Zorginstituut herberekent definitief het deelbedrag normatieve eigen risico 
 
 - f. het netto te betalen bedrag dat betrekking heeft op de uitkering in verband met de uitvoeringskosten van verzekerden jonger dan achttien jaar.
 
-5. Het Zorginstituut betaalt de netto te betalen bedragen, bedoeld in het vierde lid, onder a tot en met f, verminderd met de aftrekpost voor de normatieve eigen risico opbrengst 2016, bedoeld in [artikel 85, eerste lid, onder f](https://wetten.overheid.nl/jci1.3:c:BWBR0037640&hoofdstuk=VII&artikel=85&z=2016-02-19&g=2015-10-01), in termijnen op de eerste werkdag van de maand, overeenkomstig onderstaand betalingsschema:
+5. Het Zorginstituut betaalt de netto te betalen bedragen, bedoeld in het vierde lid, onder a tot en met f, verminderd met de aftrekpost voor de normatieve eigen risico opbrengst 2016, bedoeld in [artikel 85, eerste lid, onder f](https://wetten.overheid.nl/jci1.3:c:BWBR0037640&hoofdstuk=VII&artikel=85&z=2016-02-19&g=2016-02-19), in termijnen op de eerste werkdag van de maand, overeenkomstig onderstaand betalingsschema:
 
 |   | Bestanddelen betalingen |   |   |   |   |
 | --- | --- | --- | --- | --- | --- |
-| Betaalmoment | [Artikel 86](https://wetten.overheid.nl/jci1.3:c:BWBR0037640&hoofdstuk=VII&artikel=86&z=2016-02-19&g=2015-10-01) vierde lid, onder a en b | [Artikel 86](https://wetten.overheid.nl/jci1.3:c:BWBR0037640&hoofdstuk=VII&artikel=86&z=2016-02-19&g=2015-10-01) vierde lid, onder c | [Artikel 86](https://wetten.overheid.nl/jci1.3:c:BWBR0037640&hoofdstuk=VII&artikel=86&z=2016-02-19&g=2015-10-01) vierde lid, onder d en e | [Artikel 86, vierde lid, onder f](https://wetten.overheid.nl/jci1.3:c:BWBR0037640&hoofdstuk=VII&artikel=86&z=2016-02-19&g=2015-10-01) | [Artikel 85, eerste lid onder f](https://wetten.overheid.nl/jci1.3:c:BWBR0037640&hoofdstuk=VII&artikel=85&z=2016-02-19&g=2015-10-01) |
+| Betaalmoment | [Artikel 86](https://wetten.overheid.nl/jci1.3:c:BWBR0037640&hoofdstuk=VII&artikel=86&z=2016-02-19&g=2016-02-19) vierde lid, onder a en b | [Artikel 86](https://wetten.overheid.nl/jci1.3:c:BWBR0037640&hoofdstuk=VII&artikel=86&z=2016-02-19&g=2016-02-19) vierde lid, onder c | [Artikel 86](https://wetten.overheid.nl/jci1.3:c:BWBR0037640&hoofdstuk=VII&artikel=86&z=2016-02-19&g=2016-02-19) vierde lid, onder d en e | [Artikel 86, vierde lid, onder f](https://wetten.overheid.nl/jci1.3:c:BWBR0037640&hoofdstuk=VII&artikel=86&z=2016-02-19&g=2016-02-19) | [Artikel 85, eerste lid onder f](https://wetten.overheid.nl/jci1.3:c:BWBR0037640&hoofdstuk=VII&artikel=85&z=2016-02-19&g=2016-02-19) |
 | januari 2016 | 0,69% | 1,10% | 0,00% | 8,33% | 3,47% |
 | februari 2016 | 2,51% | 4,05% | 0,00% | 8,33% | 8,29% |
 | maart 2016 | 5,36% | 7,01% | 0,81% | 8,34% | 8,29% |
@@ -1310,13 +1310,13 @@ Het Zorginstituut herberekent definitief het deelbedrag normatieve eigen risico 
 
 ##### Artikel 87. Aanpassing bevoorschotting
 
-1. Bij de herberekening en herziening van de toegekende vereveningsbijdrage 2016 op grond van [artikel 40](https://wetten.overheid.nl/jci1.3:c:BWBR0037640&hoofdstuk=II&artikel=40&z=2016-02-19&g=2015-10-01) herziet het Zorginstituut de te betalen termijnen overeenkomstig [artikel 86](https://wetten.overheid.nl/jci1.3:c:BWBR0037640&hoofdstuk=VII&artikel=86&z=2016-02-19&g=2015-10-01) voor de eerste keer. Het Zorginstituut verrekent het verschil tussen de reeds betaalde termijnen en de voor de eerste keer herziene termijnen.
+1. Bij de herberekening en herziening van de toegekende vereveningsbijdrage 2016 op grond van [artikel 40](https://wetten.overheid.nl/jci1.3:c:BWBR0037640&hoofdstuk=II&artikel=40&z=2016-02-19&g=2016-02-19) herziet het Zorginstituut de te betalen termijnen overeenkomstig [artikel 86](https://wetten.overheid.nl/jci1.3:c:BWBR0037640&hoofdstuk=VII&artikel=86&z=2016-02-19&g=2016-02-19) voor de eerste keer. Het Zorginstituut verrekent het verschil tussen de reeds betaalde termijnen en de voor de eerste keer herziene termijnen.
 
-2. Bij gelegenheid van de eerste voorlopige vaststelling van de bijdrage, op grond van [hoofdstuk III](https://wetten.overheid.nl/jci1.3:c:BWBR0037640&hoofdstuk=III&z=2016-02-19&g=2015-10-01), herziet het Zorginstituut voor de tweede keer de te betalen termijnen overeenkomstig [artikel 86](https://wetten.overheid.nl/jci1.3:c:BWBR0037640&hoofdstuk=VII&artikel=86&z=2016-02-19&g=2015-10-01). Het Zorginstituut verrekent het verschil tussen de reeds betaalde termijnen en de voor de tweede keer herziene termijnen.
+2. Bij gelegenheid van de eerste voorlopige vaststelling van de bijdrage, op grond van [hoofdstuk III](https://wetten.overheid.nl/jci1.3:c:BWBR0037640&hoofdstuk=III&z=2016-02-19&g=2016-02-19), herziet het Zorginstituut voor de tweede keer de te betalen termijnen overeenkomstig [artikel 86](https://wetten.overheid.nl/jci1.3:c:BWBR0037640&hoofdstuk=VII&artikel=86&z=2016-02-19&g=2016-02-19). Het Zorginstituut verrekent het verschil tussen de reeds betaalde termijnen en de voor de tweede keer herziene termijnen.
 
-3. Bij gelegenheid van de tweede voorlopige vaststelling van de bijdrage, op grond van [hoofdstuk IV](https://wetten.overheid.nl/jci1.3:c:BWBR0037640&hoofdstuk=IV&z=2016-02-19&g=2015-10-01), herziet het Zorginstituut de te betalen termijnen voor de derde keer overeenkomstig [artikel 86](https://wetten.overheid.nl/jci1.3:c:BWBR0037640&hoofdstuk=VII&artikel=86&z=2016-02-19&g=2015-10-01). Het Zorginstituut verrekent het verschil tussen de reeds betaalde termijnen en de voor de derde maal herziene termijnen.
+3. Bij gelegenheid van de tweede voorlopige vaststelling van de bijdrage, op grond van [hoofdstuk IV](https://wetten.overheid.nl/jci1.3:c:BWBR0037640&hoofdstuk=IV&z=2016-02-19&g=2016-02-19), herziet het Zorginstituut de te betalen termijnen voor de derde keer overeenkomstig [artikel 86](https://wetten.overheid.nl/jci1.3:c:BWBR0037640&hoofdstuk=VII&artikel=86&z=2016-02-19&g=2016-02-19). Het Zorginstituut verrekent het verschil tussen de reeds betaalde termijnen en de voor de derde maal herziene termijnen.
 
-4. Bij gelegenheid van de definitieve vaststelling van de bijdrage, op grond van [hoofdstuk V](https://wetten.overheid.nl/jci1.3:c:BWBR0037640&hoofdstuk=V&z=2016-02-19&g=2015-10-01), stelt het Zorginstituut de te betalen termijnen definitief vast overeenkomstig [artikel 86](https://wetten.overheid.nl/jci1.3:c:BWBR0037640&hoofdstuk=VII&artikel=86&z=2016-02-19&g=2015-10-01). Het Zorginstituut verrekent het verschil tussen de reeds betaalde termijnen en de definitief te betalen termijnen.
+4. Bij gelegenheid van de definitieve vaststelling van de bijdrage, op grond van [hoofdstuk V](https://wetten.overheid.nl/jci1.3:c:BWBR0037640&hoofdstuk=V&z=2016-02-19&g=2016-02-19), stelt het Zorginstituut de te betalen termijnen definitief vast overeenkomstig [artikel 86](https://wetten.overheid.nl/jci1.3:c:BWBR0037640&hoofdstuk=VII&artikel=86&z=2016-02-19&g=2016-02-19). Het Zorginstituut verrekent het verschil tussen de reeds betaalde termijnen en de definitief te betalen termijnen.
 
 5. Indien toepassing van onderscheidenlijk het eerste, tweede, derde en vierde lid, resulteert in een positief saldo voor de zorgverzekeraar, betaalt het Zorginstituut dat saldo ineens aan de zorgverzekeraar.
 
@@ -1324,23 +1324,23 @@ Het Zorginstituut herberekent definitief het deelbedrag normatieve eigen risico 
 
 ##### Artikel 88. Rente
 
-1. De zorgverzekeraar en het Zorginstituut zijn over en weer rente verschuldigd en hebben over en weer aanspraak op rente over de verschillen, bedoeld in [artikel 87](https://wetten.overheid.nl/jci1.3:c:BWBR0037640&hoofdstuk=VII&artikel=87&z=2016-02-19&g=2015-10-01).
+1. De zorgverzekeraar en het Zorginstituut zijn over en weer rente verschuldigd en hebben over en weer aanspraak op rente over de verschillen, bedoeld in [artikel 87](https://wetten.overheid.nl/jci1.3:c:BWBR0037640&hoofdstuk=VII&artikel=87&z=2016-02-19&g=2016-02-19).
 
 2. De rente, bedoeld in het eerste lid, wordt bij de eerste voorlopige, tweede voorlopige en de definitieve vaststelling van de uitkering door het Zorginstituut verwerkt en zo mogelijk verrekend met andere betalingen die uit deze vaststellingen voortvloeien.
 
 ##### Artikel 89. Renteberekening
 
-1. Bij de verrekening van verschillen, bedoeld in [artikel 87, tweede, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037640&hoofdstuk=VII&artikel=87&z=2016-02-19&g=2015-10-01), berekent het Zorginstituut rente over het verschil vanaf de datum waarop het verschil is ontstaan tot de datum waarop de verschillen worden verrekend.
+1. Bij de verrekening van verschillen, bedoeld in [artikel 87, tweede, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037640&hoofdstuk=VII&artikel=87&z=2016-02-19&g=2016-02-19), berekent het Zorginstituut rente over het verschil vanaf de datum waarop het verschil is ontstaan tot de datum waarop de verschillen worden verrekend.
 
-2. Bij de verrekening van de verschillen, bedoeld in [artikel 87, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037640&hoofdstuk=VII&artikel=87&z=2016-02-19&g=2015-10-01), berekent het Zorginstituut rente vanaf de betaaldata, genoemd in [artikel 86](https://wetten.overheid.nl/jci1.3:c:BWBR0037640&hoofdstuk=VII&artikel=86&z=2016-02-19&g=2015-10-01) en artikel 87, eerste en tweede lid tot de datum van de voorlopige vaststelling van de bijdrage.
+2. Bij de verrekening van de verschillen, bedoeld in [artikel 87, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037640&hoofdstuk=VII&artikel=87&z=2016-02-19&g=2016-02-19), berekent het Zorginstituut rente vanaf de betaaldata, genoemd in [artikel 86](https://wetten.overheid.nl/jci1.3:c:BWBR0037640&hoofdstuk=VII&artikel=86&z=2016-02-19&g=2016-02-19) en artikel 87, eerste en tweede lid tot de datum van de voorlopige vaststelling van de bijdrage.
 
-3. Bij de verrekening van de verschillen, bedoeld in [artikel 87, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037640&hoofdstuk=VII&artikel=87&z=2016-02-19&g=2015-10-01), berekent het Zorginstituut rente vanaf de betaaldata, genoemd in [artikel 86](https://wetten.overheid.nl/jci1.3:c:BWBR0037640&hoofdstuk=VII&artikel=86&z=2016-02-19&g=2015-10-01) en artikel 87, eerste, tweede en derde lid tot de datum van de tweede voorlopige vaststelling van de bijdrage.
+3. Bij de verrekening van de verschillen, bedoeld in [artikel 87, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037640&hoofdstuk=VII&artikel=87&z=2016-02-19&g=2016-02-19), berekent het Zorginstituut rente vanaf de betaaldata, genoemd in [artikel 86](https://wetten.overheid.nl/jci1.3:c:BWBR0037640&hoofdstuk=VII&artikel=86&z=2016-02-19&g=2016-02-19) en artikel 87, eerste, tweede en derde lid tot de datum van de tweede voorlopige vaststelling van de bijdrage.
 
-4. Bij de verrekening van de verschillen, bedoeld in [artikel 87, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037640&hoofdstuk=VII&artikel=87&z=2016-02-19&g=2015-10-01), berekent het Zorginstituut rente vanaf de betaaldata, genoemd in [artikel 86](https://wetten.overheid.nl/jci1.3:c:BWBR0037640&hoofdstuk=VII&artikel=86&z=2016-02-19&g=2015-10-01) en artikel 87 eerste, tweede, derde en vierde lid tot de datum van de definitieve vaststelling van de bijdrage.
+4. Bij de verrekening van de verschillen, bedoeld in [artikel 87, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037640&hoofdstuk=VII&artikel=87&z=2016-02-19&g=2016-02-19), berekent het Zorginstituut rente vanaf de betaaldata, genoemd in [artikel 86](https://wetten.overheid.nl/jci1.3:c:BWBR0037640&hoofdstuk=VII&artikel=86&z=2016-02-19&g=2016-02-19) en artikel 87 eerste, tweede, derde en vierde lid tot de datum van de definitieve vaststelling van de bijdrage.
 
-5. Voor een zorgverzekeraar waarvoor krachtens [artikel 86, zesde en zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037640&hoofdstuk=VII&artikel=86&z=2016-02-19&g=2015-10-01), afwijkende betalingen hebben plaatsgevonden, kan het Zorginstituut bij de renteberekening afwijken van de vorige leden.
+5. Voor een zorgverzekeraar waarvoor krachtens [artikel 86, zesde en zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037640&hoofdstuk=VII&artikel=86&z=2016-02-19&g=2016-02-19), afwijkende betalingen hebben plaatsgevonden, kan het Zorginstituut bij de renteberekening afwijken van de vorige leden.
 
-6. Het Zorginstituut deelt het bedrag dat de zorgverzekeraar heeft terugbetaald op grond van [artikel 87, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037640&hoofdstuk=VII&artikel=87&z=2016-02-19&g=2015-10-01), voor de renteberekening naar rato toe aan de eerste dag van de maand waarin is terugbetaald en de eerste dag van de daaropvolgende maand, waarbij het uitgangspunt is de dag van terugbetaling.
+6. Het Zorginstituut deelt het bedrag dat de zorgverzekeraar heeft terugbetaald op grond van [artikel 87, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037640&hoofdstuk=VII&artikel=87&z=2016-02-19&g=2016-02-19), voor de renteberekening naar rato toe aan de eerste dag van de maand waarin is terugbetaald en de eerste dag van de daaropvolgende maand, waarbij het uitgangspunt is de dag van terugbetaling.
 
 7. Voor het rentepercentage gaat het Zorginstituut uit van het gemiddelde van de maandrentes van het Euro Interbank Offered Rate (Euribortarief) voor driemaands termijngelden zonder onderpand bij toepassing van het eerste tot en met vijfde lid. Voor de laatste kalendermaand vóór de betaling gaat het Zorginstituut uit van de rente over de voorafgaande kalendermaand.
 
@@ -1362,7 +1362,7 @@ Deze beleidsregels worden aangehaald als: Beleidsregels vereveningsbijdrage zorg
 
 ## Bijlage 1. Toewijzing FKG’s diabetes 2016 op basis van farmaciegebruik voor diabetes en hypertensie
 
-### Bijlage bij [artikel 10, lid 7, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0037640&hoofdstuk=II&artikel=10&z=2016-02-19&g=2015-10-01)
+### Bijlage bij [artikel 10, lid 7, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0037640&hoofdstuk=II&artikel=10&z=2016-02-19&g=2016-02-19)
 
 Toelichting:
 
