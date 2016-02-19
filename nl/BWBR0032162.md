@@ -4,7 +4,7 @@ identifier: "BWBR0032162"
 country: "nl"
 rank: "amvb"
 publication_date: "2016-02-19"
-last_updated: "2013-01-01"
+last_updated: "2016-02-19"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0032162"
 soort: "AMvB"
@@ -54,7 +54,7 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
 - –. **vruchtensap:** hetgeen [Richtlijn 2001/112/EG](32001L0112) daaronder verstaat;
 
-- –. **uit sapconcentraat verkregen vruchtensap:** hetgeen [Richtlijn 2001/112/EG](32001L0112) daaronder verstaat;
+- –. **vruchtensap uit concentraat:** hetgeen [Richtlijn 2001/112/EG](32001L0112) daaronder verstaat;
 
 - –. **geconcentreerd vruchtensap:** hetgeen [Richtlijn 2001/112/EG](32001L0112) daaronder verstaat;
 
@@ -66,29 +66,27 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
 ##### Artikel 2
 
-1. Het is verboden vruchtensap, uit sapconcentraat verkregen vruchtensap, geconcentreerd vruchtensap, door waterextractie verkregen vruchtensap, gedehydrateerd vruchtensap, vruchtensappoeder of vruchtennectar, te bereiden of te behandelen anders dan met inachtneming van de bij dit besluit gestelde voorschriften.
+1. Het is verboden vruchtensap, vruchtensap uit concentraat, geconcentreerd vruchtensap, door waterextractie verkregen vruchtensap, gedehydrateerd vruchtensap, vruchtensappoeder of vruchtennectar, te bereiden of te behandelen anders dan met inachtneming van de bij dit besluit gestelde voorschriften.
 
-2. Het is verboden vruchtensap, uit sapconcentraat verkregen vruchtensap, geconcentreerd vruchtensap, door waterextractie verkregen vruchtensap, gedehydrateerd vruchtensap, vruchtensappoeder of vruchtennectar, te verhandelen anders dan met inachtneming van de bij dit besluit gestelde voorschriften met betrekking tot hun aanduiding.
+2. Het is verboden vruchtensap, vruchtensap uit concentraat, geconcentreerd vruchtensap, door waterextractie verkregen vruchtensap, gedehydrateerd vruchtensap, vruchtensappoeder of vruchtennectar, te verhandelen anders dan met inachtneming van de bij dit besluit gestelde voorschriften met betrekking tot hun aanduiding.
 
-3. Het is verboden vruchtensap, uit sapconcentraat verkregen vruchtensap, geconcentreerd vruchtensap, door waterextractie verkregen vruchtensap, gedehydrateerd vruchtensap, vruchtensappoeder of vruchtennectar, te verhandelen anders dan met inachtneming van bij dit besluit gestelde voorschriften met betrekking tot het bezigen van vermeldingen inzake de aard, samenstelling, hoedanigheid of eigenschappen van de waar.
+3. Het is verboden vruchtensap, vruchtensap uit concentraat, geconcentreerd vruchtensap, door waterextractie verkregen vruchtensap, gedehydrateerd vruchtensap, vruchtensappoeder of vruchtennectar, te verhandelen anders dan met inachtneming van bij dit besluit gestelde voorschriften met betrekking tot het bezigen van vermeldingen inzake de aard, samenstelling, hoedanigheid of eigenschappen van de waar.
 
 ##### Artikel 3
 
-Het bereiden en behandelen van vruchtensap, uit sapconcentraat verkregen vruchtensap, geconcentreerd vruchtensap, door waterextractie verkregen vruchtensap, gedehydrateerd vruchtensap, vruchtensappoeder of vruchtennectar, geschiedt met inachtneming van de bij [Richtlijn 2001/112/EG](32001L0112) gestelde voorschriften.
+Het bereiden en behandelen van vruchtensap, vruchtensap uit concentraat, geconcentreerd vruchtensap, door waterextractie verkregen vruchtensap, gedehydrateerd vruchtensap, vruchtensappoeder of vruchtennectar, geschiedt met inachtneming van de bij [Richtlijn 2001/112/EG](32001L0112) gestelde voorschriften.
 
 ##### Artikel 4
 
-Het verhandelen van vruchtensap, uit sapconcentraat verkregen vruchtensap, geconcentreerd vruchtensap, door waterextractie verkregen vruchtensap, gedehydrateerd vruchtensap, vruchtensappoeder of vruchtennectar, geschiedt met inachtneming van de bij [Richtlijn 2001/112/EG](32001L0112) gestelde voorschriften inzake hun aanduiding.
+Het verhandelen van vruchtensap, vruchtensap uit concentraat, geconcentreerd vruchtensap, door waterextractie verkregen vruchtensap, gedehydrateerd vruchtensap, vruchtensappoeder of vruchtennectar, geschiedt met inachtneming van de bij [Richtlijn 2001/112/EG](32001L0112) gestelde voorschriften inzake hun aanduiding.
 
 ##### Artikel 5
 
-Het verhandelen van vruchtensap, uit sapconcentraat verkregen vruchtensap, geconcentreerd vruchtensap, door waterextractie verkregen vruchtensap, gedehydrateerd vruchtensap, vruchtensappoeder of vruchtennectar, geschiedt met inachtneming van de bij [Richtlijn 2001/112/EG](32001L0112) gestelde voorschriften inzake het bezigen van vermeldingen.
+Het verhandelen van vruchtensap, vruchtensap uit concentraat, geconcentreerd vruchtensap, door waterextractie verkregen vruchtensap, gedehydrateerd vruchtensap, vruchtensappoeder of vruchtennectar, geschiedt met inachtneming van de bij [Richtlijn 2001/112/EG](32001L0112) gestelde voorschriften inzake het bezigen van vermeldingen.
 
 ##### Artikel 6
 
-1. Een wijziging van [Richtlijn 2001/112/EG](32001L0112) gaat voor de toepassing van dit besluit gelden met ingang van de dag waarop aan de betrokken wijziging uitvoering moet zijn gegeven, tenzij bij ministerieel besluit, dat in de Staatscourant wordt bekendgemaakt, een ander tijdstip wordt vastgesteld.
-
-2. Indien een wijziging als bedoeld in het eerste lid de lidstaten verplicht of de mogelijkheid biedt tot het vaststellen van overgangsmaatregelen, worden deze door Onze Minister in de Staatscourant bekendgemaakt.
+Vervallen
 
 ##### Artikel 7
 
