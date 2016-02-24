@@ -363,19 +363,3 @@ Dit onderdeel is nog niet inwerking getreden
 Dit besluit wordt aangehaald als: Warenwetbesluit liften 2016.
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
-
-##### Artikel 31. Wijziging van het [Arbeidsomstandighedenbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498)
-
-Wijzigt het Arbeidsomstandighedenbesluit.
-
-##### Artikel 32. Wijziging van het [Warenwetbesluit bestuurlijke boeten](https://wetten.overheid.nl/jci1.3:c:BWBR0011841)
-
-Wijzigt het Warenwetbesluit bestuurlijke boeten.
-
-##### Artikel 33. Wijziging van het [Warenwetbesluit machines](https://wetten.overheid.nl/jci1.3:c:BWBR0005577)
-
-Wijzigt het Warenwetbesluit machines.
-
-### Hoofdstuk 5. Overgangs- en slotbepalingen
-
-Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
