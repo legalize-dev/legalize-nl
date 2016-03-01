@@ -4,7 +4,7 @@ identifier: "BWBR0036359"
 country: "nl"
 rank: "zbo"
 publication_date: "2026-03-14"
-last_updated: "2015-04-01"
+last_updated: "2016-03-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0036359"
 soort: "zbo"
@@ -72,11 +72,11 @@ Besluit:
 
 - b. algemene regels, op grond van deze regeling;
 
-- c. vakspecifieke regels, op grond van een besluit van het College voor Toetsen en Examens op grond van [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0036359&artikel=6&z=2015-04-01&g=2015-04-01) of [12](https://wetten.overheid.nl/jci1.3:c:BWBR0036359&artikel=12&z=2015-04-01&g=2015-04-01) van deze regeling;
+- c. vakspecifieke regels, op grond van een besluit van het College voor Toetsen en Examens op grond van [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0036359&artikel=6&z=2016-03-01&g=2016-03-01) of [12](https://wetten.overheid.nl/jci1.3:c:BWBR0036359&artikel=12&z=2016-03-01&g=2016-03-01) van deze regeling;
 
 - d. een beoordelingsmodel bij iedere toets.
 
-2. Het correctievoorschrift, bedoeld in het eerste lid, wordt ingericht met inachtneming van de [bijlagen 1](https://wetten.overheid.nl/jci1.3:c:BWBR0036359&bijlage=1&z=2015-04-01&g=2015-04-01) en [3](https://wetten.overheid.nl/jci1.3:c:BWBR0036359&bijlage=3&z=2015-04-01&g=2015-04-01). In afwijking hiervan wordt het correctievoorschrift voor het centraal schriftelijk en praktisch examen vmbo ingericht met inachtneming van de [bijlagen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0036359&bijlage=2&z=2015-04-01&g=2015-04-01) en 3.
+2. Het correctievoorschrift, bedoeld in het eerste lid, wordt ingericht met inachtneming van de [bijlagen 1](https://wetten.overheid.nl/jci1.3:c:BWBR0036359&bijlage=1&z=2016-03-01&g=2016-03-01) en [3](https://wetten.overheid.nl/jci1.3:c:BWBR0036359&bijlage=3&z=2016-03-01&g=2016-03-01). In afwijking hiervan wordt het correctievoorschrift voor het centraal schriftelijk en praktisch examen vmbo ingericht met inachtneming van de [bijlagen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0036359&bijlage=2&z=2016-03-01&g=2016-03-01) en 3.
 
 3. De directeur stelt na de afname van een toets het correctievoorschrift aan de examinator ter beschikking.
 
@@ -120,7 +120,7 @@ Besluit:
 
 ##### Artikel 6. Vakspecifieke regels en beoordelingsmodel
 
-De vakspecifieke regels en het beoordelingsmodel bij iedere toets, bedoeld in [artikel 2, eerste lid, onder c en d](https://wetten.overheid.nl/jci1.3:c:BWBR0036359&artikel=2&z=2015-04-01&g=2015-04-01), worden door het College voor Toetsen en Examens vastgesteld voor elk van de vakken zoals vermeld in [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0036359&bijlage=3&z=2015-04-01&g=2015-04-01), en maken na bekendmaking deel uit van die bijlage.
+De vakspecifieke regels en het beoordelingsmodel bij iedere toets, bedoeld in [artikel 2, eerste lid, onder c en d](https://wetten.overheid.nl/jci1.3:c:BWBR0036359&artikel=2&z=2016-03-01&g=2016-03-01), worden door het College voor Toetsen en Examens vastgesteld voor elk van de vakken zoals vermeld in [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0036359&bijlage=3&z=2016-03-01&g=2016-03-01), en maken na bekendmaking deel uit van die bijlage.
 
 ##### Artikel 7. Vermeende fouten
 
@@ -128,7 +128,7 @@ De vakspecifieke regels en het beoordelingsmodel bij iedere toets, bedoeld in [a
 
 2. Degene die in de toets of het beoordelingsmodel een fout of onvolkomenheid meent te hebben geconstateerd kan deze fout aan het College voor Toetsen en Examens meedelen.
 
-3. Deze mededeling wordt voorgelegd aan de desbetreffende vakcommissie, en indien deze de mededeling als juist aanmerkt, kan de vakcommissie de voorzitter adviseren een beslissing op grond van [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0036359&artikel=10&z=2015-04-01&g=2015-04-01) te nemen.
+3. Deze mededeling wordt voorgelegd aan de desbetreffende vakcommissie, en indien deze de mededeling als juist aanmerkt, kan de vakcommissie de voorzitter adviseren een beslissing op grond van [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0036359&artikel=10&z=2016-03-01&g=2016-03-01) te nemen.
 
 4. Het is niet toegestaan zelfstandig af te wijken van het beoordelingsmodel. Met een eventuele fout wordt bij de bepaling van het cijfer voor het centraal examen zoals bedoeld in [artikel tweede lid onder e, van de wet College voor Toetsen en Examens](https://wetten.overheid.nl/jci1.3:c:BWBR0025364&artikel=2), rekening gehouden.
 
@@ -164,7 +164,7 @@ Het College voor Toetsen en Examens kan op voorstel van een vakcommissie besliss
 
 ##### Artikel 13. Aanpassing
 
-De voorzitter van het College voor Toetsen en Examens is gemachtigd de vaststellingen als opgenomen in [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0036359&bijlage=3&z=2015-04-01&g=2015-04-01) op onderdelen aan te passen.
+De voorzitter van het College voor Toetsen en Examens is gemachtigd de vaststellingen als opgenomen in [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0036359&bijlage=3&z=2016-03-01&g=2016-03-01) op onderdelen aan te passen.
 
 ##### Artikel 14. Inwerkingtreding
 
@@ -174,7 +174,7 @@ Deze regeling treedt in werking op 1 april 2015.
 
 1. Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
-2. De vakspecifieke regels en beoordelingsmodellen per toets bedoeld in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0036359&artikel=6&z=2015-04-01&g=2015-04-01) worden bekend gemaakt op de in [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0036359&bijlage=3&z=2015-04-01&g=2015-04-01) onder 2 opgenomen wijze.
+2. De vakspecifieke regels en beoordelingsmodellen per toets bedoeld in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0036359&artikel=6&z=2016-03-01&g=2016-03-01) worden bekend gemaakt op de in [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0036359&bijlage=3&z=2016-03-01&g=2016-03-01) onder 2 opgenomen wijze.
 
 ##### Artikel 16. Intrekking
 
@@ -206,13 +206,13 @@ Voor de beoordeling van het examenwerk zijn de volgende bepalingen uit de regeli
 
 ### 3. Vakspecifieke regel(s)
 
-In het correctievoorschrift van een vak kunnen vakspecifieke regels gegeven worden. Hiervoor zij verwezen naar [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0036359&bijlage=3&z=2015-04-01&g=2015-04-01).
+In het correctievoorschrift van een vak kunnen vakspecifieke regels gegeven worden. Hiervoor zij verwezen naar [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0036359&bijlage=3&z=2016-03-01&g=2016-03-01).
 
 ### 4. Beoordelingsmodel
 
 (antwoorden en scores per vraag).
 
-Zie [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0036359&bijlage=3&z=2015-04-01&g=2015-04-01).
+Zie [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0036359&bijlage=3&z=2016-03-01&g=2016-03-01).
 
 ## Bijlage 2. bij de Regeling beoordelingsnormen en bijbehorende scores centraal examen, van 9 februari 2015, nummer CvTE-15.00617
 
@@ -236,7 +236,7 @@ Voor de beoordeling van het examenwerk zijn de volgende bepalingen uit de regeli
 
 Voor het centraal schriftelijk en praktisch examen kunnen vakspecifieke regels worden vastgesteld.
 
-Zie hiervoor [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0036359&bijlage=3&z=2015-04-01&g=2015-04-01).
+Zie hiervoor [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0036359&bijlage=3&z=2016-03-01&g=2016-03-01).
 
 ### 4. Beoordelingsmodel
 
@@ -254,34 +254,44 @@ De examinator en de tweede examinator stellen in onderling overleg de score vast
 
 De directeur stelt het cijfer voor het cspe vast op basis van de regels voor omzetting van score naar cijfer.
 
-## Bijlage 3. bij de Regeling beoordelingsnormen en bijbehorende scores centraal examen, van 9 februari 2015, nummer CvTE-15.00617
+## Bijlage 3. bij de Regeling beoordelingsnormen en bijbehorende scores centraal examen VO 2015, van 9 februari 2015, nummer CvTE-15.00617.
 
-De vakspecifieke regels en het beoordelingsmodel bij iedere toets, bedoeld in [artikel 2, eerste lid, onder c en d, van de Regeling beoordelingsnormen en bijbehorende scores centraal examen](https://wetten.overheid.nl/jci1.3:c:BWBR0027449&artikel=2) worden door het College voor Toetsen en Examens voor het examenjaar 2015 vastgesteld voor elk van de vakken zoals vermeld in deze bijlage en maken na bekendmaking deel uit van die bijlage.
+De vakspecifieke regels en het beoordelingsmodel bij iedere toets, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0036359&artikel=2&z=2016-03-01&g=2016-03-01), eerste lid, onder c en d, van de Regeling beoordelingsnormen en bijbehorende scores centraal examen worden door het College voor Toetsen en Examens voor het examenjaar 2016 vastgesteld voor elk van de vakken zoals vermeld in deze bijlage en maken na bekendmaking deel uit van die bijlage.
 
-### Bekendmaking van (vastgestelde) vakspecifieke regels, beoordelingsmodellen per toets en de daarbij behorende scores
-
-### 1. Voor wat betreft de vakspecifieke regels, beoordelingsmodellen per toets en de daarbij behorende scores geldt het volgende rooster van bekendmaking
-
-### 2. Bekendmaking van de volledige correctievoorschriften voor de vakken, aangegeven in de tabellen, vindt plaats
+### Bekendmaking van (vastgestelde) vakspecifieke regels, beoordelingsmodellen per toets en de daarbij behorende scores.
 
 ### Tabel 1 Vakspecifieke regels, beoordelingsnormen en scores voorbereidend wetenschappelijk onderwijs
 
-De vakspecifieke regels, beoordelingsnormen en scores voor de centrale examens voorbereidend wetenschappelijk onderwijs 2015 worden vastgesteld voor wat betreft
+### 2. Bekendmaking van de volledige correctievoorschriften voor de vakken, aangegeven in de tabellen, vindt plaats
 
 ### Tabel 2 Vakspecifieke regels, beoordelingsnormen en scores hoger algemeen voortgezet onderwijs
 
-De vakspecifieke regels, beoordelingsnormen en scores voor de centrale examens hoger algemeen voortgezet onderwijs 2015 worden vastgesteld voor wat betreft
+De vakspecifieke regels, beoordelingsnormen en scores voor de centrale examens hoger algemeen voortgezet onderwijs 2016 worden vastgesteld voor wat betreft
+
+### Tabel 3 Vakspecifieke regels, beoordelingsnormen en scores theoretische leerweg
+
+De vakspecifieke regels, beoordelingsnormen en scores voor de centrale examens theoretische leerweg 2016 worden vastgesteld voor wat betreft:
 
 ### Tabel 3 Vakspecifieke regels, beoordelingsnormen en scores theoretische leerweg
 
 De vakspecifieke regels, beoordelingsnormen en scores voor de centrale examens theoretische leerweg 2015 worden vastgesteld voor wat betreft
 
-### Vakspecifieke regels, beoordelingsnormen en scores gemengde leerweg
+### Tabel 5 Vakspecifieke regels, beoordelingsnormen en scores basisberoepsgerichte leerweg
 
 ### Tabel 4 Vakspecifieke regels, beoordelingsnormen en scores kaderberoepsgerichte leerweg
 
 ### Tabel 5 Vakspecifieke regels, beoordelingsnormen en scores basisberoepsgerichte leerweg
 
-### Tabel 6 Rekentoets 2015
+### Tabel 6 Rekentoets 2016
 
-De rekentoets VO wordt digitaal afgenomen en bevat uitsluitend automatisch scoorbare vragen. Dientengevolge staat de rekentoets niet onder toezicht van een of meer gecommitteerden (artikel 46 lid 6 Eindexamenbesluit VO).
+De rekentoets VO wordt digitaal afgenomen en bevat uitsluitend automatisch scoorbare vragen. Dientengevolge staat de rekentoets niet onder toezicht van een of meer gecommitteerden ([artikel 46 lid 6 Eindexamenbesluit VO](https://wetten.overheid.nl/jci1.3:c:BWBR0004593&artikel=46)).
+
+De vakspecifieke regels, beoordelingsnormen en scores voor de centrale examens voorbereidend wetenschappelijk onderwijs 2016 worden vastgesteld voor wat betreft:
+
+**Vakspecifieke regels, beoordelingsnormen en scores gemengde leerweg**
+
+### Tabel. Vakspecifieke regels, beoordelingsnormen en scores kaderberoepsgerichte leerweg
+
+**Tabel 5b basisberoepsgerichte leerweg**
+
+Alle vakken worden afgenomen als aangewezen vak.
