@@ -4,7 +4,7 @@ identifier: "BWBR0037661"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2022-08-01"
-last_updated: "2016-02-01"
+last_updated: "2016-03-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0037661"
 soort: "ministeriele-regeling"
@@ -44,13 +44,13 @@ Besluit:
 
 ##### Artikel 1. Vaststelling van modellen, instructies en toetsingskader
 
-1. Het model voor een kwalificatiedossier wordt vastgesteld op de wijze bedoeld in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0037661&bijlage=1&z=2016-03-01&g=2016-02-01) behorende bij deze regeling.
+1. Het model voor een kwalificatiedossier wordt vastgesteld op de wijze bedoeld in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0037661&bijlage=1&z=2016-03-01&g=2016-03-01) behorende bij deze regeling.
 
-2. Het model voor een keuzedeel wordt vastgesteld op de wijze bedoeld in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0037661&bijlage=2&z=2016-03-01&g=2016-02-01) behorende bij deze regeling.
+2. Het model voor een keuzedeel wordt vastgesteld op de wijze bedoeld in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0037661&bijlage=2&z=2016-03-01&g=2016-03-01) behorende bij deze regeling.
 
-3. De instructies behorende bij de modellen, bedoeld in het eerste en tweede lid, worden vastgesteld op de wijze bedoeld in [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0037661&bijlage=3&z=2016-03-01&g=2016-02-01) behorende bij deze regeling.
+3. De instructies behorende bij de modellen, bedoeld in het eerste en tweede lid, worden vastgesteld op de wijze bedoeld in [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0037661&bijlage=3&z=2016-03-01&g=2016-03-01) behorende bij deze regeling.
 
-4. Het toetsingskader voor de kwalificatiestructuur wordt vastgesteld op de wijze bedoeld in [bijlage 4](https://wetten.overheid.nl/jci1.3:c:BWBR0037661&bijlage=4&z=2016-03-01&g=2016-02-01) behorende bij deze regeling.
+4. Het toetsingskader voor de kwalificatiestructuur wordt vastgesteld op de wijze bedoeld in [bijlage 4](https://wetten.overheid.nl/jci1.3:c:BWBR0037661&bijlage=4&z=2016-03-01&g=2016-03-01) behorende bij deze regeling.
 
 ##### Artikel 2. Inwerkingtreding
 
@@ -622,9 +622,9 @@ Er is twee keer per jaar de mogelijkheid tot het vaststellen van een nieuw of ve
 
 Jaarlijks rapporteert de Toetsingskamer in een review over trends en ontwikkelingen in de kwalificatiestructuur en doet daarin voorstellen tot (onderzoek naar) kwaliteitsverbetering van de kwalificatiestructuur.
 
-Deze regeling wordt met toelichting en [bijlagen](https://wetten.overheid.nl/jci1.3:c:BWBR0037661&bijlage=1&z=2016-03-01&g=2016-02-01) in de Staatscourant geplaatst.
+Deze regeling wordt met toelichting en [bijlagen](https://wetten.overheid.nl/jci1.3:c:BWBR0037661&bijlage=1&z=2016-03-01&g=2016-03-01) in de Staatscourant geplaatst.
 
-De [bijlagen](https://wetten.overheid.nl/jci1.3:c:BWBR0037661&bijlage=1&z=2016-03-01&g=2016-02-01) worden eveneens geplaatst op de websites:
+De [bijlagen](https://wetten.overheid.nl/jci1.3:c:BWBR0037661&bijlage=1&z=2016-03-01&g=2016-03-01) worden eveneens geplaatst op de websites:
 
 • www.s-bb.nl/kwalificatiedossiers; en
 
