@@ -4,7 +4,7 @@ identifier: "BWBV0006449"
 country: "nl"
 rank: "verdrag"
 publication_date: "2023-12-19"
-last_updated: "2015-02-05"
+last_updated: "2016-03-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBV0006449"
 soort: "verdrag"
@@ -84,13 +84,13 @@ In dit Verdrag wordt verstaan onder:
 
 - e. project nieuwe sluis: de aanleg van de Nieuwe Sluis Terneuzen binnen het bestaande sluizencomplex in Terneuzen, zoals weergegeven met de rode lijn op de kaart, en het infrastructureel beheer en onderhoud ervan in het gebied weergegeven met de blauwe stippellijn op de kaart;
 
-- f. nieuwe sluis: de Nieuwe Sluis Terneuzen die als zodanig is omschreven in [bijlage A](https://wetten.overheid.nl/jci1.3:c:BWBV0006449&bijlage=A&z=2015-02-05&g=2015-02-05);
+- f. nieuwe sluis: de Nieuwe Sluis Terneuzen die als zodanig is omschreven in [bijlage A](https://wetten.overheid.nl/jci1.3:c:BWBV0006449&bijlage=A&z=2016-03-01&g=2016-03-01);
 
-- g. kaart: de kaart opgenomen in [bijlage B](https://wetten.overheid.nl/jci1.3:c:BWBV0006449&bijlage=B&z=2015-02-05&g=2015-02-05);
+- g. kaart: de kaart opgenomen in [bijlage B](https://wetten.overheid.nl/jci1.3:c:BWBV0006449&bijlage=B&z=2016-03-01&g=2016-03-01);
 
-- h. betalingsregeling: de betalingsregeling opgenomen in [bijlage C](https://wetten.overheid.nl/jci1.3:c:BWBV0006449&bijlage=C&z=2015-02-05&g=2015-02-05);
+- h. betalingsregeling: de betalingsregeling opgenomen in [bijlage C](https://wetten.overheid.nl/jci1.3:c:BWBV0006449&bijlage=C&z=2016-03-01&g=2016-03-01);
 
-- i. kanaalaanpassingen: werken bestaande uit vervanging en aanpassing van de bestaande infrastructuur, zijnde kunstwerken en kanaalprofiel, waarvan de lijst is opgenomen in [bijlage D](https://wetten.overheid.nl/jci1.3:c:BWBV0006449&bijlage=D&z=2015-02-05&g=2015-02-05) en die plaatsvinden op, onder, over of langs het Kanaal Gent-Terneuzen met uitzondering van de havengebieden of in het gebied begrensd door de rode lijn op de kaart;
+- i. kanaalaanpassingen: werken bestaande uit vervanging en aanpassing van de bestaande infrastructuur, zijnde kunstwerken en kanaalprofiel, waarvan de lijst is opgenomen in [bijlage D](https://wetten.overheid.nl/jci1.3:c:BWBV0006449&bijlage=D&z=2016-03-01&g=2016-03-01) en die plaatsvinden op, onder, over of langs het Kanaal Gent-Terneuzen met uitzondering van de havengebieden of in het gebied begrensd door de rode lijn op de kaart;
 
 - j. meerkosten van een kanaalaanpassing: de bijkomende aanlegkosten van kanaalaanpassingen alsmede de kosten van het additioneel infrastructureel beheer en onderhoud als gevolg van de keuze voor een nieuwe sluis ten opzichte van kanaalaanpassingen en het infrastructureel beheer en onderhoud zonder realisatie van een nieuwe sluis;
 
@@ -140,17 +140,17 @@ Dit Verdrag heeft tot doel de tenuitvoerlegging en de bekostiging te verzekeren 
 
 3. Alle specifiek genoemde bedragen in dit Verdrag zijn, tenzij anders vermeld, exclusief Belasting Toegevoegde Waarde en op basis van het prijspeil van 2014. Deze bedragen worden op het moment van verrekenen gecorrigeerd voor prijsstijgingen conform de IBOI-methodiek.
 
-4. De Verdragsluitende Partijen maken twee jaar voor de afloop van de periode van dertig jaar, vermeld in [artikel 3, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0006449&hoofdstuk=2&artikel=3&z=2015-02-05&g=2015-02-05), een afspraak over het infrastructureel beheer en onderhoud van de nieuwe sluis voor de volgende zeventig jaar.
+4. De Verdragsluitende Partijen maken twee jaar voor de afloop van de periode van dertig jaar, vermeld in [artikel 3, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0006449&hoofdstuk=2&artikel=3&z=2016-03-01&g=2016-03-01), een afspraak over het infrastructureel beheer en onderhoud van de nieuwe sluis voor de volgende zeventig jaar.
 
 5. Vlaanderen neemt het initiatief tot een verzoek aan de instellingen van de Europese Unie om een bijdrage in de financiering of bekostiging van de nieuwe sluis. Nederland ondersteunt dit verzoek.
 
 ##### Artikel 5. Kostenverdeling en kostenverhouding
 
-1. Vlaanderen draagt de werkelijke kosten van de aanleg. Vlaanderen draagt ook de kosten van het infrastructureel beheer en onderhoud van de nieuwe sluis, geraamd volgens een gezamenlijk overeengekomen methodiek, gedurende de periode van dertig jaar, vermeld in [artikel 3, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0006449&hoofdstuk=2&artikel=3&z=2015-02-05&g=2015-02-05). Ongeacht de effectieve hoogte van alle vermelde kosten levert Nederland een bijdrage van 155,381 miljoen euro.
+1. Vlaanderen draagt de werkelijke kosten van de aanleg. Vlaanderen draagt ook de kosten van het infrastructureel beheer en onderhoud van de nieuwe sluis, geraamd volgens een gezamenlijk overeengekomen methodiek, gedurende de periode van dertig jaar, vermeld in [artikel 3, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0006449&hoofdstuk=2&artikel=3&z=2016-03-01&g=2016-03-01). Ongeacht de effectieve hoogte van alle vermelde kosten levert Nederland een bijdrage van 155,381 miljoen euro.
 
 2. De Verdragsluitende Partijen dragen elk de financieringskosten en de Belasting Toegevoegde Waarde voor hun aandeel in de kosten van het project nieuwe sluis.
 
-3. Bij de toepassing van [artikel 3, zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBV0006449&hoofdstuk=2&artikel=3&z=2015-02-05&g=2015-02-05), worden de daar omschreven uit beëindiging voortvloeiende kosten gelijk verdeeld tussen de Verdragsluitende Partijen. Kosten gemaakt voor de inwerkingtreding van dit Verdrag blijven buiten beschouwing.
+3. Bij de toepassing van [artikel 3, zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBV0006449&hoofdstuk=2&artikel=3&z=2016-03-01&g=2016-03-01), worden de daar omschreven uit beëindiging voortvloeiende kosten gelijk verdeeld tussen de Verdragsluitende Partijen. Kosten gemaakt voor de inwerkingtreding van dit Verdrag blijven buiten beschouwing.
 
 4. Betalingen geschieden overeenkomstig de betalingsregeling.
 
@@ -164,7 +164,7 @@ Dit Verdrag heeft tot doel de tenuitvoerlegging en de bekostiging te verzekeren 
 
 1. Het infrastructureel beheer en onderhoud betreft het functiebehoud van de nieuwe sluis, waaronder wordt verstaan het blijvend laten voldoen aan de functionele eisen waarmee de nieuwe sluis is ontworpen en gebouwd.
 
-2. De kosten en meerkosten van het infrastructureel beheer en onderhoud worden geraamd op basis van de SSK-methodiek en de door Verdragsluitende Partijen gedeelde uitgangspunten infrastructureel beheer en onderhoud nieuwe sluis, opgenomen in [bijlage F](https://wetten.overheid.nl/jci1.3:c:BWBV0006449&bijlage=F&z=2015-02-05&g=2015-02-05).
+2. De kosten en meerkosten van het infrastructureel beheer en onderhoud worden geraamd op basis van de SSK-methodiek en de door Verdragsluitende Partijen gedeelde uitgangspunten infrastructureel beheer en onderhoud nieuwe sluis, opgenomen in [bijlage F](https://wetten.overheid.nl/jci1.3:c:BWBV0006449&bijlage=F&z=2016-03-01&g=2016-03-01).
 
 3. Als het infrastructureel beheer en onderhoud van de voorhaven binnen de blauwe stippellijn op de kaart geheel of gedeeltelijk door of namens Vlaanderen wordt uitgevoerd, geschiedt dit conform de normen die gelden als Nederland het uit zou laten voeren en op voorwaarde dat er, voorafgaand aan de uitvoering, overeenstemming bestaat over de ramingen waartegen het werk wordt gewaardeerd. Vlaanderen voert deze baggerwerken uit voor eigen rekening. Deze kosten worden verrekend in het globale pakket van het onderhoud, vermeld in het tweede lid.
 
@@ -190,7 +190,7 @@ De meerkosten van kanaalaanpassingen worden berekend door op de werkelijke koste
 
 ##### Artikel 9. Kosten, kostenverdeling en betalingsregeling
 
-1. Bij de beraadslaging en besluitvorming, vermeld in [artikel 7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBV0006449&hoofdstuk=3&artikel=7&z=2015-02-05&g=2015-02-05), raamt de VNSC rekening houdend met de Nederlandse systematiek de kosten van de aanleg, alsmede van het infrastructureel beheer en onderhoud voor een periode van dertig jaar van een kanaalaanpassing op Nederlands grondgebied. Zij berekent daarbij tevens de meerkosten op grond van [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBV0006449&hoofdstuk=3&artikel=8&z=2015-02-05&g=2015-02-05).
+1. Bij de beraadslaging en besluitvorming, vermeld in [artikel 7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBV0006449&hoofdstuk=3&artikel=7&z=2016-03-01&g=2016-03-01), raamt de VNSC rekening houdend met de Nederlandse systematiek de kosten van de aanleg, alsmede van het infrastructureel beheer en onderhoud voor een periode van dertig jaar van een kanaalaanpassing op Nederlands grondgebied. Zij berekent daarbij tevens de meerkosten op grond van [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBV0006449&hoofdstuk=3&artikel=8&z=2016-03-01&g=2016-03-01).
 
 2. Vlaanderen betaalt de kosten van de aanleg en het infrastructureel beheer en onderhoud van een kanaalaanpassing op Vlaams grondgebied, alsmede de meerkosten van de aanleg en het infrastructureel beheer en onderhoud voor een periode van dertig jaar van een kanaalaanpassing op Nederlands grondgebied.
 
@@ -198,9 +198,9 @@ De meerkosten van kanaalaanpassingen worden berekend door op de werkelijke koste
 
 4. De Verdragsluitende Partijen maken twee jaar voor de afloop van de periode van dertig jaar na ingebruikname van een kanaalaanpassing een afspraak over de kostenverdeling van de meerkosten van het infrastructureel beheer en onderhoud voor een periode van zeventig jaar na het verstrijken van de vermelde periode.
 
-5. Vlaanderen betaalt de meerkosten van de aanleg van een kanaalaanpassing op Nederlands grondgebied, als vermeld in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBV0006449&hoofdstuk=3&artikel=8&z=2015-02-05&g=2015-02-05), voorafgaand aan de datum van de start van de aanleg, vermeld in [artikel 7, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBV0006449&hoofdstuk=3&artikel=7&z=2015-02-05&g=2015-02-05).
+5. Vlaanderen betaalt de meerkosten van de aanleg van een kanaalaanpassing op Nederlands grondgebied, als vermeld in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBV0006449&hoofdstuk=3&artikel=8&z=2016-03-01&g=2016-03-01), voorafgaand aan de datum van de start van de aanleg, vermeld in [artikel 7, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBV0006449&hoofdstuk=3&artikel=7&z=2016-03-01&g=2016-03-01).
 
-6. Bij de bepaling van de datum van ingebruikname van een kanaalaanpassing, vermeld in [artikel 7, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0006449&hoofdstuk=3&artikel=7&z=2015-02-05&g=2015-02-05):
+6. Bij de bepaling van de datum van ingebruikname van een kanaalaanpassing, vermeld in [artikel 7, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0006449&hoofdstuk=3&artikel=7&z=2016-03-01&g=2016-03-01):
 
 - a. stelt de VNSC de werkelijke meerkosten inclusief infrastructureel beheer en onderhoud van de aanleg van een kanaalaanpassing vast, en
 
@@ -234,7 +234,7 @@ Op de uitvoering van dit Verdrag op Nederlands grondgebied is het Nederlandse re
 
 1. De bewindslieden treden met elkaar in overleg als zich onvoorziene omstandigheden voordoen, waaronder begrepen wijzigingen in relevante internationale en Europese regelgeving en daarop betrekking hebbende jurisprudentie welke van dien aard zijn dat naar de maatstaven van redelijkheid en billijkheid ongewijzigde instandhouding van dit Verdrag niet mag worden verwacht.
 
-2. Een nadere regeling met betrekking tot de afwijkingen van de overeenkomsten is opgenomen in [bijlage E](https://wetten.overheid.nl/jci1.3:c:BWBV0006449&bijlage=E&z=2015-02-05&g=2015-02-05).
+2. Een nadere regeling met betrekking tot de afwijkingen van de overeenkomsten is opgenomen in [bijlage E](https://wetten.overheid.nl/jci1.3:c:BWBV0006449&bijlage=E&z=2016-03-01&g=2016-03-01).
 
 ##### Artikel 14. Geschillenbeslechting
 
@@ -242,13 +242,13 @@ Op de uitvoering van dit Verdrag op Nederlands grondgebied is het Nederlandse re
 
 2. Als de Verdragsluitende Partijen er niet in slagen de kwestie te regelen door middel van onderhandelingen binnen een termijn van zes maanden te rekenen vanaf de formele aanvraag tot onderhandelingen, dan wel binnen een onderling overeengekomen termijn, kan zij op verzoek van één van de Verdragsluitende Partijen worden voorgelegd aan een scheidsgerecht.
 
-3. De bepalingen over de samenstelling van het scheidsgerecht en de procedure van het scheidsgerecht zijn opgenomen in [bijlage G](https://wetten.overheid.nl/jci1.3:c:BWBV0006449&bijlage=G&z=2015-02-05&g=2015-02-05).
+3. De bepalingen over de samenstelling van het scheidsgerecht en de procedure van het scheidsgerecht zijn opgenomen in [bijlage G](https://wetten.overheid.nl/jci1.3:c:BWBV0006449&bijlage=G&z=2016-03-01&g=2016-03-01).
 
 ### HOOFDSTUK 6. SLOTBEPALINGEN
 
 ##### Artikel 15. Wijziging van het Verdrag
 
-1. Door de Verdragsluitende Partijen schriftelijk overeengekomen wijzigingen van dit Verdrag, de [bijlage G](https://wetten.overheid.nl/jci1.3:c:BWBV0006449&bijlage=G&z=2015-02-05&g=2015-02-05) daarbij inbegrepen, treden in werking op de dag waarop de Verdragsluitende Partijen elkaar schriftelijk hebben medegedeeld dat aan de constitutionele vereisten is voldaan.
+1. Door de Verdragsluitende Partijen schriftelijk overeengekomen wijzigingen van dit Verdrag, de [bijlage G](https://wetten.overheid.nl/jci1.3:c:BWBV0006449&bijlage=G&z=2016-03-01&g=2016-03-01) daarbij inbegrepen, treden in werking op de dag waarop de Verdragsluitende Partijen elkaar schriftelijk hebben medegedeeld dat aan de constitutionele vereisten is voldaan.
 
 2. Wijzigingen van de bijlagen A tot en met F worden schriftelijk overeengekomen tussen de bewindslieden en treden in werking op een door hen te bepalen datum.
 
@@ -292,7 +292,7 @@ Dit artikel bevat een aantal uitgangspunten voor de aanleg en het infrastructure
 
 - In het vierde lid wordt bepaald dat Nederland de contracten gunt binnen een periode van twee maanden na zowel inwerkingtreding van dit Verdrag als het nemen van de besluiten die daartoe ingevolge het Nederlandse recht nodig zijn. Het gaat dan bijvoorbeeld om de besluiten in het kader van het Meerjarenprogramma Infrastructuur Ruimte en Transport (MIRT). Deze kennen weer bepaalde vereisten, zoals bijvoorbeeld een voldoende nauwkeurige raming van aanleg en onderhoud en een onherroepelijk Tracébesluit.
 
-Hoewel Nederland juridisch opdrachtgever is ([artikel 12, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBV0006449&hoofdstuk=4&artikel=12&z=2015-02-05&g=2015-02-05)), is er uitdrukkelijk voor gekozen om de VNSC een rol te geven bij de besluitvorming, o.m. door het uitbrengen van een positief advies over de gunning, het opmaken en ondertekenen van de gunningsverslagen en het bepalen van het moment van ingebruikname en oplevering. Hiermee wordt het gezamenlijke karakter van dit project benadrukt. Dit sluit tevens aan bij de doelstellingen van het [Verdrag van 21 december 2005 inzake de samenwerking op het gebied van het beleid en het beheer in het Schelde-estuarium](https://wetten.overheid.nl/jci1.3:c:BWBV0003047).
+Hoewel Nederland juridisch opdrachtgever is ([artikel 12, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBV0006449&hoofdstuk=4&artikel=12&z=2016-03-01&g=2016-03-01)), is er uitdrukkelijk voor gekozen om de VNSC een rol te geven bij de besluitvorming, o.m. door het uitbrengen van een positief advies over de gunning, het opmaken en ondertekenen van de gunningsverslagen en het bepalen van het moment van ingebruikname en oplevering. Hiermee wordt het gezamenlijke karakter van dit project benadrukt. Dit sluit tevens aan bij de doelstellingen van het [Verdrag van 21 december 2005 inzake de samenwerking op het gebied van het beleid en het beheer in het Schelde-estuarium](https://wetten.overheid.nl/jci1.3:c:BWBV0003047).
 
 ##### Artikel 4. Financiering en bekostiging
 
@@ -324,7 +324,7 @@ Over elke afzonderlijke kanaalaanpassing neemt de VNSC binnen een redelijke term
 
 Dit artikel betreft de berekeningswijze voor de meerkosten van kanaalaanpassingen.
 
-Overeenkomstig [artikel 9, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBV0006449&hoofdstuk=3&artikel=9&z=2015-02-05&g=2015-02-05), komen deze meerkosten bij een kanaalaanpassing op Nederlands grondgebied voor rekening van Vlaanderen.
+Overeenkomstig [artikel 9, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBV0006449&hoofdstuk=3&artikel=9&z=2016-03-01&g=2016-03-01), komen deze meerkosten bij een kanaalaanpassing op Nederlands grondgebied voor rekening van Vlaanderen.
 
 De meerkosten van kanaalaanpassingen betreffen bijvoorbeeld een situatie waarin er een kanaalaanpassing plaatsvindt en deze op verzoek van Vlaanderen eerder dan volgens de normale afschrijvingstermijn zou plaatsvinden, of situaties waarin de werken groter, breder, hoger of dieper worden of waarin ze op een andere manier extra kosten met zich meebrengen ten opzichte van de normale vervangingsplannen van Nederland.
 
@@ -350,7 +350,7 @@ Aangezien de werken op Nederlands grondgebied plaatsvinden, is het Nederlandse r
 
 Uit het feit dat de werken op Nederlands grondgebied plaatsvinden, vloeit tevens voort dat Nederland, tenzij anders bepaald, juridisch opdrachtgever is.
 
-Tegelijkertijd wordt er ook een rol gegeven aan de VNSC, zoals reeds vermeld onder [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBV0006449&hoofdstuk=2&artikel=3&z=2015-02-05&g=2015-02-05). Om de in het Verdrag opgenomen termijnen te kunnen eerbiedigen, geven de Partijen aan de VNSC de opdracht om een bestendige bestuurlijke monitoring uit te voeren. Deze monitoring bestaat uit het permanent waken over de voortgang van de verschillende stappen die moeten leiden tot de tijdige realisatie van de in het Verdrag omschreven werken volgens de daartoe bepaalde termijnen.
+Tegelijkertijd wordt er ook een rol gegeven aan de VNSC, zoals reeds vermeld onder [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBV0006449&hoofdstuk=2&artikel=3&z=2016-03-01&g=2016-03-01). Om de in het Verdrag opgenomen termijnen te kunnen eerbiedigen, geven de Partijen aan de VNSC de opdracht om een bestendige bestuurlijke monitoring uit te voeren. Deze monitoring bestaat uit het permanent waken over de voortgang van de verschillende stappen die moeten leiden tot de tijdige realisatie van de in het Verdrag omschreven werken volgens de daartoe bepaalde termijnen.
 
 Zij zorgt voor een adequate uitvoeringsstructuur die aan de hand van plannen van aanpak de respectieve fases doorloopt.
 
@@ -362,7 +362,7 @@ Bij onvoorziene omstandigheden zullen de Partijen overleg plegen. Onvoorziene om
 
 ##### Artikel 14. Geschillenbeslechting
 
-Dit artikel regelt de beslechting van alle mogelijke geschillen over het Verdrag. Deze bepaling alsmede de regels omtrent de samenstelling en de procedure van het scheidsgerecht opgenomen in [bijlage G](https://wetten.overheid.nl/jci1.3:c:BWBV0006449&bijlage=G&z=2015-02-05&g=2015-02-05) bij het Verdrag, betreffen een standaardregeling die veel wordt gebruikt in bilaterale verdragen. Het Permanente Hof van Arbitrage te Den Haag heeft arbitrageregels opgesteld, die gehanteerd worden om een vlotte en efficiënte doorloop te kunnen garanderen.
+Dit artikel regelt de beslechting van alle mogelijke geschillen over het Verdrag. Deze bepaling alsmede de regels omtrent de samenstelling en de procedure van het scheidsgerecht opgenomen in [bijlage G](https://wetten.overheid.nl/jci1.3:c:BWBV0006449&bijlage=G&z=2016-03-01&g=2016-03-01) bij het Verdrag, betreffen een standaardregeling die veel wordt gebruikt in bilaterale verdragen. Het Permanente Hof van Arbitrage te Den Haag heeft arbitrageregels opgesteld, die gehanteerd worden om een vlotte en efficiënte doorloop te kunnen garanderen.
 
 Bij een eventuele geschillenbeslechting wordt het Engels of Nederlands gehanteerd om het onderling communiceren tussen de scheidslieden eenvoudig te laten verlopen.
 
@@ -370,25 +370,25 @@ Bij een eventuele geschillenbeslechting wordt het Engels of Nederlands gehanteer
 
 ##### Artikel 15. Wijziging van het Verdrag
 
-Het Verdrag voorziet in twee wijzigingsprocedures. Voor het Verdrag zelf en [bijlage G](https://wetten.overheid.nl/jci1.3:c:BWBV0006449&bijlage=G&z=2015-02-05&g=2015-02-05) geldt de normale procedure voor wijziging van verdragen, overeenkomstig de constitutionele vereisten van beide Partijen. Voor de andere bijlagen geldt een vereenvoudigde procedure. Het wijzigen van deze bijlagen kan geschieden via de schriftelijke overeenstemming tussen de Bewindslieden. Dit biedt de mogelijkheid om flexibel te handelen. Een formele verdragswijziging kent immers normalerwijs een lange doorlooptijd.
+Het Verdrag voorziet in twee wijzigingsprocedures. Voor het Verdrag zelf en [bijlage G](https://wetten.overheid.nl/jci1.3:c:BWBV0006449&bijlage=G&z=2016-03-01&g=2016-03-01) geldt de normale procedure voor wijziging van verdragen, overeenkomstig de constitutionele vereisten van beide Partijen. Voor de andere bijlagen geldt een vereenvoudigde procedure. Het wijzigen van deze bijlagen kan geschieden via de schriftelijke overeenstemming tussen de Bewindslieden. Dit biedt de mogelijkheid om flexibel te handelen. Een formele verdragswijziging kent immers normalerwijs een lange doorlooptijd.
 
 ##### Artikel 16. Bijlagen
 
-Dit artikel bepaalt dat de bijlagen een onlosmakelijk deel van het Verdrag vormen, wat betekent dat ze op dezelfde manier verbindend zijn. Het betreft de volgende bijlagen, waarvan [bijlage F](https://wetten.overheid.nl/jci1.3:c:BWBV0006449&bijlage=F&z=2015-02-05&g=2015-02-05) een nadere uitleg behoeft, die na de artikelsgewijze toelichting is opgenomen:
+Dit artikel bepaalt dat de bijlagen een onlosmakelijk deel van het Verdrag vormen, wat betekent dat ze op dezelfde manier verbindend zijn. Het betreft de volgende bijlagen, waarvan [bijlage F](https://wetten.overheid.nl/jci1.3:c:BWBV0006449&bijlage=F&z=2016-03-01&g=2016-03-01) een nadere uitleg behoeft, die na de artikelsgewijze toelichting is opgenomen:
 
-- –. [bijlage A](https://wetten.overheid.nl/jci1.3:c:BWBV0006449&bijlage=A&z=2015-02-05&g=2015-02-05): omschrijving nieuwe sluis Terneuzen;
+- –. [bijlage A](https://wetten.overheid.nl/jci1.3:c:BWBV0006449&bijlage=A&z=2016-03-01&g=2016-03-01): omschrijving nieuwe sluis Terneuzen;
 
-- –. [bijlage B](https://wetten.overheid.nl/jci1.3:c:BWBV0006449&bijlage=B&z=2015-02-05&g=2015-02-05): de kaart met de gebieden waarbinnen afspraken gelden voor het aanleggebied. Tevens bepalen de lijnen de grenzen van het gebied waarbinnen afspraken gelden voor het onderhoud;
+- –. [bijlage B](https://wetten.overheid.nl/jci1.3:c:BWBV0006449&bijlage=B&z=2016-03-01&g=2016-03-01): de kaart met de gebieden waarbinnen afspraken gelden voor het aanleggebied. Tevens bepalen de lijnen de grenzen van het gebied waarbinnen afspraken gelden voor het onderhoud;
 
-- –. [bijlage C](https://wetten.overheid.nl/jci1.3:c:BWBV0006449&bijlage=C&z=2015-02-05&g=2015-02-05): betalingsregeling;
+- –. [bijlage C](https://wetten.overheid.nl/jci1.3:c:BWBV0006449&bijlage=C&z=2016-03-01&g=2016-03-01): betalingsregeling;
 
-- –. [bijlage D](https://wetten.overheid.nl/jci1.3:c:BWBV0006449&bijlage=D&z=2015-02-05&g=2015-02-05): een lijst met kanaalaanpassingen, die, hoewel zij geen onderdeel uit maken van het project, vanwege de afspraken over kostenverdeling toch uitdrukkelijk worden opgesomd;
+- –. [bijlage D](https://wetten.overheid.nl/jci1.3:c:BWBV0006449&bijlage=D&z=2016-03-01&g=2016-03-01): een lijst met kanaalaanpassingen, die, hoewel zij geen onderdeel uit maken van het project, vanwege de afspraken over kostenverdeling toch uitdrukkelijk worden opgesomd;
 
-- –. [bijlage E](https://wetten.overheid.nl/jci1.3:c:BWBV0006449&bijlage=E&z=2015-02-05&g=2015-02-05): afwijkingen van de overeenkomsten, wat niet alleen het Programma van Eisen en de aanbieding omvat, maar ook andere juridische bepalingen;
+- –. [bijlage E](https://wetten.overheid.nl/jci1.3:c:BWBV0006449&bijlage=E&z=2016-03-01&g=2016-03-01): afwijkingen van de overeenkomsten, wat niet alleen het Programma van Eisen en de aanbieding omvat, maar ook andere juridische bepalingen;
 
-- –. [bijlage F](https://wetten.overheid.nl/jci1.3:c:BWBV0006449&bijlage=F&z=2015-02-05&g=2015-02-05): inzicht in de inhoud van onderhoud zoals oorspronkelijk bedoeld in de M-component bij de contractvorm DBFM en een indicatie van de onderhoudskosten over een periode van 30 jaar bij bestaande sluizen in Nederland en Vlaanderen (Zie nadere toelichting hieronder);
+- –. [bijlage F](https://wetten.overheid.nl/jci1.3:c:BWBV0006449&bijlage=F&z=2016-03-01&g=2016-03-01): inzicht in de inhoud van onderhoud zoals oorspronkelijk bedoeld in de M-component bij de contractvorm DBFM en een indicatie van de onderhoudskosten over een periode van 30 jaar bij bestaande sluizen in Nederland en Vlaanderen (Zie nadere toelichting hieronder);
 
-- –. [bijlage G](https://wetten.overheid.nl/jci1.3:c:BWBV0006449&bijlage=G&z=2015-02-05&g=2015-02-05): samenstelling en procedure van het scheidsgerecht.
+- –. [bijlage G](https://wetten.overheid.nl/jci1.3:c:BWBV0006449&bijlage=G&z=2016-03-01&g=2016-03-01): samenstelling en procedure van het scheidsgerecht.
 
 ##### Artikel 17. Territoriaal toepassingsgebied
 
