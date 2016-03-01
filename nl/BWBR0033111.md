@@ -4,7 +4,7 @@ identifier: "BWBR0033111"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2022-07-01"
-last_updated: "2016-01-01"
+last_updated: "2016-03-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0033111"
 soort: "ministeriele-regeling"
@@ -46,17 +46,17 @@ De kostenvergoeding bedoeld in [artikel 48, tweede lid, van het Besluit justiti�
 
 - a. verklaring omtrent het gedrag natuurlijke personen:
 
-- 1°. indien deze rechtstreeks elektronisch bij de Minister van Veiligheid en Justitie wordt aangevraagd: € 24,55;
+- 1°. indien deze rechtstreeks elektronisch bij de Minister van Veiligheid en Justitie wordt aangevraagd: € 33,85;
 
 - 2°. indien deze rechtstreeks elektronisch bij de Minister van Veiligheid en Justitie wordt aangevraagd teneinde op vrijwillige basis te werken met minderjarigen of verstandelijk beperkten: € 0,00, voor zover voldaan wordt aan nader te stellen beleidsregels;
 
-- 3°. in alle andere gevallen: € 30,05;
+- 3°. in alle andere gevallen: € 41,35;
 
 - b. verklaring omtrent het gedrag rechtspersonen: € 207,00.
 
 ##### Artikel 2
 
-1. De vergoeding bedoeld in [artikel 39, derde lid, van de Wet justitiële en strafvorderlijke gegevens](https://wetten.overheid.nl/jci1.3:c:BWBR0014194&artikel=39) bedraagt € 22,55.
+1. De vergoeding bedoeld in [artikel 39, derde lid, van de Wet justitiële en strafvorderlijke gegevens](https://wetten.overheid.nl/jci1.3:c:BWBR0014194&artikel=39) bedraagt € 33,85.
 
 2. De Bank voor Nederlandse Gemeenten int maandelijks via automatische incasso bij de verschillende gemeenten de vergoeding bedoeld in het eerste lid voor de Minister van Veiligheid en Justitie.
 
