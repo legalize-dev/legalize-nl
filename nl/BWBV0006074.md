@@ -4,7 +4,7 @@ identifier: "BWBV0006074"
 country: "nl"
 rank: "verdrag"
 publication_date: "2016-03-01"
-last_updated: "2011-05-11"
+last_updated: "2016-03-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBV0006074"
 soort: "verdrag"
@@ -158,9 +158,9 @@ De partijen erkennen, stimuleren en ondersteunen de werkzaamheden van de betrokk
 
 ##### Artikel 10. Coördinerend orgaan
 
-1. De partijen wijzen een of meer officiële organen aan of stellen die in die verantwoordelijk zijn voor de coördinatie, implementatie, toezicht op en toetsing van beleid en maatregelen ter voorkoming en bestrijding van alle vormen van geweld waarop dit Verdrag van toepassing is. Deze organen coördineren het verzamelen van gegevens zoals bedoeld in [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBV0006074&hoofdstuk=II&artikel=11&z=2011-05-11&g=2011-05-11) en analyseren en verspreiden de resultaten.
+1. De partijen wijzen een of meer officiële organen aan of stellen die in die verantwoordelijk zijn voor de coördinatie, implementatie, toezicht op en toetsing van beleid en maatregelen ter voorkoming en bestrijding van alle vormen van geweld waarop dit Verdrag van toepassing is. Deze organen coördineren het verzamelen van gegevens zoals bedoeld in [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBV0006074&hoofdstuk=II&artikel=11&z=2016-03-01&g=2016-03-01) en analyseren en verspreiden de resultaten.
 
-2. De partijen zien erop toe dat de uit hoofde van dit artikel aangewezen of ingestelde organen algemene informatie ontvangen over ingevolge [Hoofdstuk VIII](https://wetten.overheid.nl/jci1.3:c:BWBV0006074&hoofdstuk=VIII&z=2011-05-11&g=2011-05-11) genomen maatregelen.
+2. De partijen zien erop toe dat de uit hoofde van dit artikel aangewezen of ingestelde organen algemene informatie ontvangen over ingevolge [Hoofdstuk VIII](https://wetten.overheid.nl/jci1.3:c:BWBV0006074&hoofdstuk=VIII&z=2016-03-01&g=2016-03-01) genomen maatregelen.
 
 3. De partijen zien erop toe dat de uit hoofde van dit artikel aangewezen of ingestelde organen beschikken over de capaciteit om rechtstreeks te communiceren en betrekkingen te onderhouden met hun tegenhangers van de andere partijen.
 
@@ -174,7 +174,7 @@ De partijen erkennen, stimuleren en ondersteunen de werkzaamheden van de betrokk
 
 2. De partijen streven ernaar met regelmatige tussenpozen onderzoeken onder hun bevolking uit te voeren teneinde de omvang van en ontwikkelingen binnen alle vormen van geweld die vallen onder de reikwijdte van dit Verdrag vast te stellen.
 
-3. De partijen voorzien de groep deskundigen bedoeld in [artikel 66](https://wetten.overheid.nl/jci1.3:c:BWBV0006074&hoofdstuk=IX&artikel=66&z=2011-05-11&g=2011-05-11) van dit Verdrag van de informatie die uit hoofde van dit artikel is verzameld teneinde internationale samenwerking te stimuleren en internationale benchmarking mogelijk te maken.
+3. De partijen voorzien de groep deskundigen bedoeld in [artikel 66](https://wetten.overheid.nl/jci1.3:c:BWBV0006074&hoofdstuk=IX&artikel=66&z=2016-03-01&g=2016-03-01) van dit Verdrag van de informatie die uit hoofde van dit artikel is verzameld teneinde internationale samenwerking te stimuleren en internationale benchmarking mogelijk te maken.
 
 4. De partijen zien erop toe dat de uit hoofde van dit artikel verzamelde informatie beschikbaar is voor het publiek.
 
@@ -232,7 +232,7 @@ De partijen erkennen, stimuleren en ondersteunen de werkzaamheden van de betrokk
 
 1. De partijen nemen de wetgevende of andere maatregelen die nodig zijn ter bescherming van alle slachtoffers tegen verdere daden van geweld.
 
-2. De partijen nemen in overeenstemming met het nationale recht de wetgevende of andere maatregelen die nodig zijn om passende mechanismen te waarborgen voor effectieve samenwerking tussen alle relevante staatsorganen, met inbegrip van de rechterlijke macht, het openbaar ministerie, rechtshandhavende instanties, lokale en regionale autoriteiten alsmede non-gouvernementele organisaties en andere relevante organisaties en entiteiten ter bescherming en ondersteuning van slachtoffers en getuigen van alle vormen van geweld die vallen onder de reikwijdte van dit Verdrag, met inbegrip van doorverwijzing naar diensten voor algemene en gespecialiseerde ondersteuning zoals omschreven in de [artikelen 20](https://wetten.overheid.nl/jci1.3:c:BWBV0006074&hoofdstuk=IV&artikel=20&z=2011-05-11&g=2011-05-11) en [22](https://wetten.overheid.nl/jci1.3:c:BWBV0006074&hoofdstuk=IV&artikel=22&z=2011-05-11&g=2011-05-11) van dit Verdrag.
+2. De partijen nemen in overeenstemming met het nationale recht de wetgevende of andere maatregelen die nodig zijn om passende mechanismen te waarborgen voor effectieve samenwerking tussen alle relevante staatsorganen, met inbegrip van de rechterlijke macht, het openbaar ministerie, rechtshandhavende instanties, lokale en regionale autoriteiten alsmede non-gouvernementele organisaties en andere relevante organisaties en entiteiten ter bescherming en ondersteuning van slachtoffers en getuigen van alle vormen van geweld die vallen onder de reikwijdte van dit Verdrag, met inbegrip van doorverwijzing naar diensten voor algemene en gespecialiseerde ondersteuning zoals omschreven in de [artikelen 20](https://wetten.overheid.nl/jci1.3:c:BWBV0006074&hoofdstuk=IV&artikel=20&z=2016-03-01&g=2016-03-01) en [22](https://wetten.overheid.nl/jci1.3:c:BWBV0006074&hoofdstuk=IV&artikel=22&z=2016-03-01&g=2016-03-01) van dit Verdrag.
 
 3. De partijen waarborgen dat de maatregelen genomen uit hoofde van dit hoofdstuk:
 
@@ -380,9 +380,9 @@ De partijen nemen de wetgevende of andere maatregelen die nodig zijn om te waarb
 
 ##### Artikel 41. Medeplichtigheid of uitlokking en poging
 
-1. De partijen nemen de wetgevende of andere maatregelen die nodig zijn om opzettelijke medeplichtigheid aan of opzettelijke uitlokking tot het plegen van de overeenkomstig de [artikelen 33](https://wetten.overheid.nl/jci1.3:c:BWBV0006074&hoofdstuk=V&artikel=33&z=2011-05-11&g=2011-05-11), [34](https://wetten.overheid.nl/jci1.3:c:BWBV0006074&hoofdstuk=V&artikel=34&z=2011-05-11&g=2011-05-11), [35](https://wetten.overheid.nl/jci1.3:c:BWBV0006074&hoofdstuk=V&artikel=35&z=2011-05-11&g=2011-05-11), [36](https://wetten.overheid.nl/jci1.3:c:BWBV0006074&hoofdstuk=V&artikel=36&z=2011-05-11&g=2011-05-11), [37](https://wetten.overheid.nl/jci1.3:c:BWBV0006074&hoofdstuk=V&artikel=37&z=2011-05-11&g=2011-05-11), [38, letter a](https://wetten.overheid.nl/jci1.3:c:BWBV0006074&hoofdstuk=V&artikel=38&z=2011-05-11&g=2011-05-11), en [39](https://wetten.overheid.nl/jci1.3:c:BWBV0006074&hoofdstuk=V&artikel=39&z=2011-05-11&g=2011-05-11) van dit Verdrag strafbaar gestelde feiten strafbaar te stellen.
+1. De partijen nemen de wetgevende of andere maatregelen die nodig zijn om opzettelijke medeplichtigheid aan of opzettelijke uitlokking tot het plegen van de overeenkomstig de [artikelen 33](https://wetten.overheid.nl/jci1.3:c:BWBV0006074&hoofdstuk=V&artikel=33&z=2016-03-01&g=2016-03-01), [34](https://wetten.overheid.nl/jci1.3:c:BWBV0006074&hoofdstuk=V&artikel=34&z=2016-03-01&g=2016-03-01), [35](https://wetten.overheid.nl/jci1.3:c:BWBV0006074&hoofdstuk=V&artikel=35&z=2016-03-01&g=2016-03-01), [36](https://wetten.overheid.nl/jci1.3:c:BWBV0006074&hoofdstuk=V&artikel=36&z=2016-03-01&g=2016-03-01), [37](https://wetten.overheid.nl/jci1.3:c:BWBV0006074&hoofdstuk=V&artikel=37&z=2016-03-01&g=2016-03-01), [38, letter a](https://wetten.overheid.nl/jci1.3:c:BWBV0006074&hoofdstuk=V&artikel=38&z=2016-03-01&g=2016-03-01), en [39](https://wetten.overheid.nl/jci1.3:c:BWBV0006074&hoofdstuk=V&artikel=39&z=2016-03-01&g=2016-03-01) van dit Verdrag strafbaar gestelde feiten strafbaar te stellen.
 
-2. De partijen nemen de wetgevende of andere maatregelen die nodig zijn om opzettelijke pogingen tot het plegen van de overeenkomstig de [artikelen 35](https://wetten.overheid.nl/jci1.3:c:BWBV0006074&hoofdstuk=V&artikel=35&z=2011-05-11&g=2011-05-11), [36](https://wetten.overheid.nl/jci1.3:c:BWBV0006074&hoofdstuk=V&artikel=36&z=2011-05-11&g=2011-05-11), [37](https://wetten.overheid.nl/jci1.3:c:BWBV0006074&hoofdstuk=V&artikel=37&z=2011-05-11&g=2011-05-11), [38, letter a](https://wetten.overheid.nl/jci1.3:c:BWBV0006074&hoofdstuk=V&artikel=38&z=2011-05-11&g=2011-05-11), en [39](https://wetten.overheid.nl/jci1.3:c:BWBV0006074&hoofdstuk=V&artikel=39&z=2011-05-11&g=2011-05-11) van dit Verdrag strafbaar gestelde feiten strafbaar te stellen.
+2. De partijen nemen de wetgevende of andere maatregelen die nodig zijn om opzettelijke pogingen tot het plegen van de overeenkomstig de [artikelen 35](https://wetten.overheid.nl/jci1.3:c:BWBV0006074&hoofdstuk=V&artikel=35&z=2016-03-01&g=2016-03-01), [36](https://wetten.overheid.nl/jci1.3:c:BWBV0006074&hoofdstuk=V&artikel=36&z=2016-03-01&g=2016-03-01), [37](https://wetten.overheid.nl/jci1.3:c:BWBV0006074&hoofdstuk=V&artikel=37&z=2016-03-01&g=2016-03-01), [38, letter a](https://wetten.overheid.nl/jci1.3:c:BWBV0006074&hoofdstuk=V&artikel=38&z=2016-03-01&g=2016-03-01), en [39](https://wetten.overheid.nl/jci1.3:c:BWBV0006074&hoofdstuk=V&artikel=39&z=2016-03-01&g=2016-03-01) van dit Verdrag strafbaar gestelde feiten strafbaar te stellen.
 
 ##### Artikel 42. Onaanvaardbare rechtvaardiging voor misdrijven, met inbegrip van misdrijven gepleegd in het kader van de zogenaamde „eer”
 
@@ -410,9 +410,9 @@ De overeenkomstig dit Verdrag strafbaar gestelde feiten zijn van toepassing onge
 
 2. De partijen streven ernaar de wetgevende of andere maatregelen die nodig zijn te nemen om rechtsmacht te vestigen met betrekking tot de overeenkomstig dit Verdrag strafbaar gestelde feiten wanneer ze zijn gepleegd tegen een van hun onderdanen of een persoon die op hun grondgebied haar of zijn vaste woon- of verblijfplaats heeft.
 
-3. Voor de vervolging van de overeenkomstig de [artikelen 36](https://wetten.overheid.nl/jci1.3:c:BWBV0006074&hoofdstuk=V&artikel=36&z=2011-05-11&g=2011-05-11), [37](https://wetten.overheid.nl/jci1.3:c:BWBV0006074&hoofdstuk=V&artikel=37&z=2011-05-11&g=2011-05-11), [38](https://wetten.overheid.nl/jci1.3:c:BWBV0006074&hoofdstuk=V&artikel=38&z=2011-05-11&g=2011-05-11) en [39](https://wetten.overheid.nl/jci1.3:c:BWBV0006074&hoofdstuk=V&artikel=39&z=2011-05-11&g=2011-05-11) van dit Verdrag strafbaar gestelde feiten nemen de partijen de wetgevende of andere maatregelen die nodig zijn om te waarborgen dat hun rechtsmacht niet afhankelijk wordt gesteld van de voorwaarde dat de feiten strafbaar zijn op het grondgebied waar zij zijn gepleegd.
+3. Voor de vervolging van de overeenkomstig de [artikelen 36](https://wetten.overheid.nl/jci1.3:c:BWBV0006074&hoofdstuk=V&artikel=36&z=2016-03-01&g=2016-03-01), [37](https://wetten.overheid.nl/jci1.3:c:BWBV0006074&hoofdstuk=V&artikel=37&z=2016-03-01&g=2016-03-01), [38](https://wetten.overheid.nl/jci1.3:c:BWBV0006074&hoofdstuk=V&artikel=38&z=2016-03-01&g=2016-03-01) en [39](https://wetten.overheid.nl/jci1.3:c:BWBV0006074&hoofdstuk=V&artikel=39&z=2016-03-01&g=2016-03-01) van dit Verdrag strafbaar gestelde feiten nemen de partijen de wetgevende of andere maatregelen die nodig zijn om te waarborgen dat hun rechtsmacht niet afhankelijk wordt gesteld van de voorwaarde dat de feiten strafbaar zijn op het grondgebied waar zij zijn gepleegd.
 
-4. Voor de vervolging van de overeenkomstig de [artikelen 36](https://wetten.overheid.nl/jci1.3:c:BWBV0006074&hoofdstuk=V&artikel=36&z=2011-05-11&g=2011-05-11), [37](https://wetten.overheid.nl/jci1.3:c:BWBV0006074&hoofdstuk=V&artikel=37&z=2011-05-11&g=2011-05-11), [38](https://wetten.overheid.nl/jci1.3:c:BWBV0006074&hoofdstuk=V&artikel=38&z=2011-05-11&g=2011-05-11) en [39](https://wetten.overheid.nl/jci1.3:c:BWBV0006074&hoofdstuk=V&artikel=39&z=2011-05-11&g=2011-05-11) van dit Verdrag strafbaar gestelde feiten nemen de partijen de wetgevende of andere maatregelen die nodig zijn om te waarborgen dat hun rechtsmacht uit hoofde van het eerste lid, letters d en e, niet afhankelijk wordt gesteld van de voorwaarde dat vervolging slechts kan worden ingesteld na aangifte door het slachtoffer ter zake van het strafbare feit of overlegging van informatie door de staat van de plaats waar het feit is gepleegd.
+4. Voor de vervolging van de overeenkomstig de [artikelen 36](https://wetten.overheid.nl/jci1.3:c:BWBV0006074&hoofdstuk=V&artikel=36&z=2016-03-01&g=2016-03-01), [37](https://wetten.overheid.nl/jci1.3:c:BWBV0006074&hoofdstuk=V&artikel=37&z=2016-03-01&g=2016-03-01), [38](https://wetten.overheid.nl/jci1.3:c:BWBV0006074&hoofdstuk=V&artikel=38&z=2016-03-01&g=2016-03-01) en [39](https://wetten.overheid.nl/jci1.3:c:BWBV0006074&hoofdstuk=V&artikel=39&z=2016-03-01&g=2016-03-01) van dit Verdrag strafbaar gestelde feiten nemen de partijen de wetgevende of andere maatregelen die nodig zijn om te waarborgen dat hun rechtsmacht uit hoofde van het eerste lid, letters d en e, niet afhankelijk wordt gesteld van de voorwaarde dat vervolging slechts kan worden ingesteld na aangifte door het slachtoffer ter zake van het strafbare feit of overlegging van informatie door de staat van de plaats waar het feit is gepleegd.
 
 5. De partijen nemen de wetgevende of andere maatregelen die nodig zijn om rechtsmacht te vestigen met betrekking tot de overeenkomstig dit Verdrag strafbaar gestelde feiten, in gevallen waarin een vermoedelijke dader zich op hun grondgebied bevindt en zij die persoon niet uitleveren aan een andere partij, uitsluitend op grond van diens nationaliteit.
 
@@ -510,7 +510,7 @@ De partijen nemen de wetgevende of andere maatregelen die nodig zijn om te waarb
 
 ##### Artikel 55. Procedures op verzoek van partijen en ambtshalve procedures
 
-1. De partijen waarborgen dat onderzoek naar of vervolging van de overeenkomstig de [artikelen 35](https://wetten.overheid.nl/jci1.3:c:BWBV0006074&hoofdstuk=V&artikel=35&z=2011-05-11&g=2011-05-11), [36](https://wetten.overheid.nl/jci1.3:c:BWBV0006074&hoofdstuk=V&artikel=36&z=2011-05-11&g=2011-05-11), [37](https://wetten.overheid.nl/jci1.3:c:BWBV0006074&hoofdstuk=V&artikel=37&z=2011-05-11&g=2011-05-11), [38](https://wetten.overheid.nl/jci1.3:c:BWBV0006074&hoofdstuk=V&artikel=38&z=2011-05-11&g=2011-05-11) en [39](https://wetten.overheid.nl/jci1.3:c:BWBV0006074&hoofdstuk=V&artikel=39&z=2011-05-11&g=2011-05-11) van dit Verdrag strafbaar gestelde feiten niet volledig afhankelijk zijn van een melding of aangifte door een slachtoffer indien het feit geheel of gedeeltelijk op hun grondgebied heeft plaatsgevonden en dat de procedure kan worden voortgezet wanneer het slachtoffer haar of zijn verklaring of aangifte intrekt.
+1. De partijen waarborgen dat onderzoek naar of vervolging van de overeenkomstig de [artikelen 35](https://wetten.overheid.nl/jci1.3:c:BWBV0006074&hoofdstuk=V&artikel=35&z=2016-03-01&g=2016-03-01), [36](https://wetten.overheid.nl/jci1.3:c:BWBV0006074&hoofdstuk=V&artikel=36&z=2016-03-01&g=2016-03-01), [37](https://wetten.overheid.nl/jci1.3:c:BWBV0006074&hoofdstuk=V&artikel=37&z=2016-03-01&g=2016-03-01), [38](https://wetten.overheid.nl/jci1.3:c:BWBV0006074&hoofdstuk=V&artikel=38&z=2016-03-01&g=2016-03-01) en [39](https://wetten.overheid.nl/jci1.3:c:BWBV0006074&hoofdstuk=V&artikel=39&z=2016-03-01&g=2016-03-01) van dit Verdrag strafbaar gestelde feiten niet volledig afhankelijk zijn van een melding of aangifte door een slachtoffer indien het feit geheel of gedeeltelijk op hun grondgebied heeft plaatsgevonden en dat de procedure kan worden voortgezet wanneer het slachtoffer haar of zijn verklaring of aangifte intrekt.
 
 2. De partijen nemen de wetgevende of andere maatregelen die nodig zijn om te waarborgen dat overheidsinstanties, non-gouvernementele organisaties en hulpverleners op het gebied van huiselijk geweld in overeenstemming met de voorwaarden voorzien in hun nationale recht slachtoffers op hun verzoek kunnen bijstaan en/of ondersteunen tijdens het onderzoek en de gerechtelijke procedures ter zake van de overeenkomstig dit Verdrag strafbaar gestelde feiten.
 
@@ -546,7 +546,7 @@ slachtoffers onder de voorwaarden voorzien in hun nationale recht.
 
 ##### Artikel 58. Verjaringstermijn
 
-De partijen nemen de wetgevende of andere maatregelen die nodig zijn om te waarborgen dat de verjaringstermijnen voor het instellen van gerechtelijke procedures ten aanzien van de overeenkomstig de [artikelen 36](https://wetten.overheid.nl/jci1.3:c:BWBV0006074&hoofdstuk=V&artikel=36&z=2011-05-11&g=2011-05-11), [37](https://wetten.overheid.nl/jci1.3:c:BWBV0006074&hoofdstuk=V&artikel=37&z=2011-05-11&g=2011-05-11), [38](https://wetten.overheid.nl/jci1.3:c:BWBV0006074&hoofdstuk=V&artikel=38&z=2011-05-11&g=2011-05-11) en [39](https://wetten.overheid.nl/jci1.3:c:BWBV0006074&hoofdstuk=V&artikel=39&z=2011-05-11&g=2011-05-11) van dit Verdrag strafbaar gestelde feiten toereikend zijn en in verhouding staan tot de ernst van het desbetreffende strafbare feit, zodat het slachtoffer na het bereiken van de meerderjarigheid in de gelegenheid is een procedure in te stellen.
+De partijen nemen de wetgevende of andere maatregelen die nodig zijn om te waarborgen dat de verjaringstermijnen voor het instellen van gerechtelijke procedures ten aanzien van de overeenkomstig de [artikelen 36](https://wetten.overheid.nl/jci1.3:c:BWBV0006074&hoofdstuk=V&artikel=36&z=2016-03-01&g=2016-03-01), [37](https://wetten.overheid.nl/jci1.3:c:BWBV0006074&hoofdstuk=V&artikel=37&z=2016-03-01&g=2016-03-01), [38](https://wetten.overheid.nl/jci1.3:c:BWBV0006074&hoofdstuk=V&artikel=38&z=2016-03-01&g=2016-03-01) en [39](https://wetten.overheid.nl/jci1.3:c:BWBV0006074&hoofdstuk=V&artikel=39&z=2016-03-01&g=2016-03-01) van dit Verdrag strafbaar gestelde feiten toereikend zijn en in verhouding staan tot de ernst van het desbetreffende strafbare feit, zodat het slachtoffer na het bereiken van de meerderjarigheid in de gelegenheid is een procedure in te stellen.
 
 ### HOOFDSTUK VII. MIGRATIE EN ASIEL
 
@@ -596,11 +596,11 @@ De partijen nemen de wetgevende of andere maatregelen die nodig zijn om te waarb
 
 3. Indien een partij die wederzijdse rechtshulp in strafzaken, uitlevering of de tenuitvoerlegging van door een andere partij uitgesproken civielrechtelijke of strafrechtelijke vonnissen afhankelijk maakt van het bestaan van een verdrag, een verzoek om deze samenwerking in rechtszaken ontvangt van een partij waarmee zij een dergelijk verdrag niet heeft gesloten, kan zij dit Verdrag beschouwen als de juridische grondslag voor wederzijdse rechtshulp in strafzaken, uitlevering of de tenuitvoerlegging van door een andere partij uitgesproken civielrechtelijke of strafrechtelijke vonnissen met betrekking tot de overeenkomstig dit Verdrag strafbaar gestelde feiten.
 
-4. De partijen trachten waar passend de voorkoming en bestrijding van geweld tegen vrouwen en huiselijk geweld te integreren in programma’s voor ontwikkelingssamenwerking ten behoeve van derde staten, onder meer door het sluiten van bilaterale en multilaterale verdragen met derde staten teneinde de bescherming van slachtoffers in overeenstemming met [artikel 18, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0006074&hoofdstuk=IV&artikel=18&z=2011-05-11&g=2011-05-11), te vergemakkelijken.
+4. De partijen trachten waar passend de voorkoming en bestrijding van geweld tegen vrouwen en huiselijk geweld te integreren in programma’s voor ontwikkelingssamenwerking ten behoeve van derde staten, onder meer door het sluiten van bilaterale en multilaterale verdragen met derde staten teneinde de bescherming van slachtoffers in overeenstemming met [artikel 18, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0006074&hoofdstuk=IV&artikel=18&z=2016-03-01&g=2016-03-01), te vergemakkelijken.
 
 ##### Artikel 63. Maatregelen ten behoeve van personen die gevaar lopen
 
-Indien een partij op grond van de haar beschikbare informatie gegronde redenen heeft om aan te nemen dat een persoon op het grondgebied van een andere partij direct gevaar loopt het slachtoffer te worden van een van de daden van geweld bedoeld in de [artikelen 36](https://wetten.overheid.nl/jci1.3:c:BWBV0006074&hoofdstuk=V&artikel=36&z=2011-05-11&g=2011-05-11), [37](https://wetten.overheid.nl/jci1.3:c:BWBV0006074&hoofdstuk=V&artikel=37&z=2011-05-11&g=2011-05-11), [38](https://wetten.overheid.nl/jci1.3:c:BWBV0006074&hoofdstuk=V&artikel=38&z=2011-05-11&g=2011-05-11) en [39](https://wetten.overheid.nl/jci1.3:c:BWBV0006074&hoofdstuk=V&artikel=39&z=2011-05-11&g=2011-05-11) van dit Verdrag, wordt de partij die over deze informatie beschikt aangemoedigd deze onverwijld door te zenden naar de laatstgenoemde teneinde te waarborgen dat alle relevante beschermende maatregelen worden genomen. Indien van toepassing omvat deze informatie gegevens over bestaande beschermingsvoorzieningen ten behoeve van de persoon die gevaar loopt.
+Indien een partij op grond van de haar beschikbare informatie gegronde redenen heeft om aan te nemen dat een persoon op het grondgebied van een andere partij direct gevaar loopt het slachtoffer te worden van een van de daden van geweld bedoeld in de [artikelen 36](https://wetten.overheid.nl/jci1.3:c:BWBV0006074&hoofdstuk=V&artikel=36&z=2016-03-01&g=2016-03-01), [37](https://wetten.overheid.nl/jci1.3:c:BWBV0006074&hoofdstuk=V&artikel=37&z=2016-03-01&g=2016-03-01), [38](https://wetten.overheid.nl/jci1.3:c:BWBV0006074&hoofdstuk=V&artikel=38&z=2016-03-01&g=2016-03-01) en [39](https://wetten.overheid.nl/jci1.3:c:BWBV0006074&hoofdstuk=V&artikel=39&z=2016-03-01&g=2016-03-01) van dit Verdrag, wordt de partij die over deze informatie beschikt aangemoedigd deze onverwijld door te zenden naar de laatstgenoemde teneinde te waarborgen dat alle relevante beschermende maatregelen worden genomen. Indien van toepassing omvat deze informatie gegevens over bestaande beschermingsvoorzieningen ten behoeve van de persoon die gevaar loopt.
 
 ##### Artikel 64. Informatie
 
@@ -640,7 +640,7 @@ Persoonsgegevens worden opgeslagen en gebruikt in overeenstemming met de verplic
 
 6. GREVIO stelt haar eigen reglement van orde vast.
 
-7. De leden van GREVIO en andere leden van delegaties die de bezoeken aan landen omschreven in [artikel 68, negende en veertiende lid](https://wetten.overheid.nl/jci1.3:c:BWBV0006074&hoofdstuk=IX&artikel=68&z=2011-05-11&g=2011-05-11), afleggen, genieten de voorrechten en immuniteiten vastgelegd in de bijlage bij dit Verdrag.
+7. De leden van GREVIO en andere leden van delegaties die de bezoeken aan landen omschreven in [artikel 68, negende en veertiende lid](https://wetten.overheid.nl/jci1.3:c:BWBV0006074&hoofdstuk=IX&artikel=68&z=2016-03-01&g=2016-03-01), afleggen, genieten de voorrechten en immuniteiten vastgelegd in de bijlage bij dit Verdrag.
 
 ##### Artikel 67. Comité van de Partijen
 
@@ -664,7 +664,7 @@ Persoonsgegevens worden opgeslagen en gebruikt in overeenstemming met de verplic
 
 6. GREVIO houdt naar behoren rekening met de bestaande informatie die beschikbaar is via andere regionale en internationale instrumenten en organen op terreinen die vallen onder de reikwijdte van dit Verdrag.
 
-7. Bij het aannemen van vragenlijsten voor de afzonderlijke evaluatierondes, houdt GREVIO naar behoren rekening met de bij de partijen reeds verzamelde gegevens en het reeds verrichte onderzoek bedoeld in [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBV0006074&hoofdstuk=II&artikel=11&z=2011-05-11&g=2011-05-11) van dit Verdrag.
+7. Bij het aannemen van vragenlijsten voor de afzonderlijke evaluatierondes, houdt GREVIO naar behoren rekening met de bij de partijen reeds verzamelde gegevens en het reeds verrichte onderzoek bedoeld in [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBV0006074&hoofdstuk=II&artikel=11&z=2016-03-01&g=2016-03-01) van dit Verdrag.
 
 8. GREVIO kan over de uitvoering van het Verdrag informatie ontvangen van de Commissaris voor de Rechten van de Mens van de Raad van Europa, van de Parlementaire Vergadering en de relevante gespecialiseerde organen van de Raad van Europa alsmede van andere uit hoofde van internationale instrumenten opgerichte organen. Bij deze organen ingediende klachten en de uitkomst daarvan worden aan GREVIO ter beschikking gesteld.
 
@@ -706,7 +706,7 @@ GREVIO kan indien passend algemene aanbevelingen aannemen voor de uitvoering van
 
 ##### Artikel 72. Wijzigingen
 
-1. Elk voorstel tot wijziging van dit Verdrag dat door een partij wordt ingediend, wordt medegedeeld aan de Secretaris-Generaal van de Raad van Europa en door haar of hem toegezonden aan de lidstaten van de Raad van Europa, elke ondertekenaar, elke partij, de Europese Unie, elke staat die overeenkomstig de bepalingen van [artikel 75](https://wetten.overheid.nl/jci1.3:c:BWBV0006074&hoofdstuk=XII&artikel=75&z=2011-05-11&g=2011-05-11) is uitgenodigd dit Verdrag te ondertekenen en aan elke staat die overeenkomstig de bepalingen van [artikel 76](https://wetten.overheid.nl/jci1.3:c:BWBV0006074&hoofdstuk=XII&artikel=76&z=2011-05-11&g=2011-05-11) is uitgenodigd tot dit Verdrag toe te treden.
+1. Elk voorstel tot wijziging van dit Verdrag dat door een partij wordt ingediend, wordt medegedeeld aan de Secretaris-Generaal van de Raad van Europa en door haar of hem toegezonden aan de lidstaten van de Raad van Europa, elke ondertekenaar, elke partij, de Europese Unie, elke staat die overeenkomstig de bepalingen van [artikel 75](https://wetten.overheid.nl/jci1.3:c:BWBV0006074&hoofdstuk=XII&artikel=75&z=2016-03-01&g=2016-03-01) is uitgenodigd dit Verdrag te ondertekenen en aan elke staat die overeenkomstig de bepalingen van [artikel 76](https://wetten.overheid.nl/jci1.3:c:BWBV0006074&hoofdstuk=XII&artikel=76&z=2016-03-01&g=2016-03-01) is uitgenodigd tot dit Verdrag toe te treden.
 
 2. Het Comité van Ministers van de Raad van Europa bestudeert voorgestelde wijzigingen en kan deze na overleg met de partijen bij dit Verdrag die geen lid zijn van de Raad van Europa, aannemen met de meerderheid voorzien in [artikel 20, onderdeel d, van het Statuut van de Raad van Europa](https://wetten.overheid.nl/jci1.3:c:BWBV0005506&artikel=20).
 
@@ -756,27 +756,27 @@ De bepalingen van dit Verdrag doen geen afbreuk aan de bepalingen van nationale 
 
 2. Elke staat of de Europese Unie kan, op het tijdstip van ondertekening of bij de nederlegging van zijn of haar akte van bekrachtiging, aanvaarding, goedkeuring of toetreding, door middel van een verklaring gericht aan de Secretaris-Generaal van de Raad van Europa, verklaren dat hij of zij zich het recht voorbehoudt de volgende bepalingen niet toe te passen of slechts in specifieke gevallen of omstandigheden toe te passen:
 
-- –. [artikel 30, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBV0006074&hoofdstuk=V&artikel=30&z=2011-05-11&g=2011-05-11);
+- –. [artikel 30, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBV0006074&hoofdstuk=V&artikel=30&z=2016-03-01&g=2016-03-01);
 
-- –. [artikel 44, eerste lid, onderdeel e, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0006074&hoofdstuk=V&artikel=44&z=2011-05-11&g=2011-05-11);
+- –. [artikel 44, eerste lid, onderdeel e, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0006074&hoofdstuk=V&artikel=44&z=2016-03-01&g=2016-03-01);
 
-- –. [artikel 55, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBV0006074&hoofdstuk=VI&artikel=55&z=2011-05-11&g=2011-05-11), wat betreft [artikel 35](https://wetten.overheid.nl/jci1.3:c:BWBV0006074&hoofdstuk=V&artikel=35&z=2011-05-11&g=2011-05-11) ter zake van lichte strafbare feiten;
+- –. [artikel 55, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBV0006074&hoofdstuk=VI&artikel=55&z=2016-03-01&g=2016-03-01), wat betreft [artikel 35](https://wetten.overheid.nl/jci1.3:c:BWBV0006074&hoofdstuk=V&artikel=35&z=2016-03-01&g=2016-03-01) ter zake van lichte strafbare feiten;
 
-- –. [artikel 58](https://wetten.overheid.nl/jci1.3:c:BWBV0006074&hoofdstuk=VI&artikel=58&z=2011-05-11&g=2011-05-11) wat betreft de [artikelen 37](https://wetten.overheid.nl/jci1.3:c:BWBV0006074&hoofdstuk=V&artikel=37&z=2011-05-11&g=2011-05-11), [38](https://wetten.overheid.nl/jci1.3:c:BWBV0006074&hoofdstuk=V&artikel=38&z=2011-05-11&g=2011-05-11) en [39](https://wetten.overheid.nl/jci1.3:c:BWBV0006074&hoofdstuk=V&artikel=39&z=2011-05-11&g=2011-05-11);
+- –. [artikel 58](https://wetten.overheid.nl/jci1.3:c:BWBV0006074&hoofdstuk=VI&artikel=58&z=2016-03-01&g=2016-03-01) wat betreft de [artikelen 37](https://wetten.overheid.nl/jci1.3:c:BWBV0006074&hoofdstuk=V&artikel=37&z=2016-03-01&g=2016-03-01), [38](https://wetten.overheid.nl/jci1.3:c:BWBV0006074&hoofdstuk=V&artikel=38&z=2016-03-01&g=2016-03-01) en [39](https://wetten.overheid.nl/jci1.3:c:BWBV0006074&hoofdstuk=V&artikel=39&z=2016-03-01&g=2016-03-01);
 
-- –. [artikel 59](https://wetten.overheid.nl/jci1.3:c:BWBV0006074&hoofdstuk=VII&artikel=59&z=2011-05-11&g=2011-05-11).
+- –. [artikel 59](https://wetten.overheid.nl/jci1.3:c:BWBV0006074&hoofdstuk=VII&artikel=59&z=2016-03-01&g=2016-03-01).
 
-3. Elke staat of de Europese Unie kan, op het tijdstip van ondertekening of bij de nederlegging van zijn of haar akte van bekrachtiging, aanvaarding, goedkeuring of toetreding, door middel van een verklaring gericht aan de Secretaris-Generaal van de Raad van Europa, verklaren dat hij of zij zich het recht voorbehoudt voor de gedragingen bedoeld in de [artikelen 33](https://wetten.overheid.nl/jci1.3:c:BWBV0006074&hoofdstuk=V&artikel=33&z=2011-05-11&g=2011-05-11) en [34](https://wetten.overheid.nl/jci1.3:c:BWBV0006074&hoofdstuk=V&artikel=34&z=2011-05-11&g=2011-05-11) te voorzien in niet-strafrechtelijke sancties in plaats van strafrechtelijke sancties.
+3. Elke staat of de Europese Unie kan, op het tijdstip van ondertekening of bij de nederlegging van zijn of haar akte van bekrachtiging, aanvaarding, goedkeuring of toetreding, door middel van een verklaring gericht aan de Secretaris-Generaal van de Raad van Europa, verklaren dat hij of zij zich het recht voorbehoudt voor de gedragingen bedoeld in de [artikelen 33](https://wetten.overheid.nl/jci1.3:c:BWBV0006074&hoofdstuk=V&artikel=33&z=2016-03-01&g=2016-03-01) en [34](https://wetten.overheid.nl/jci1.3:c:BWBV0006074&hoofdstuk=V&artikel=34&z=2016-03-01&g=2016-03-01) te voorzien in niet-strafrechtelijke sancties in plaats van strafrechtelijke sancties.
 
 4. Elke partij kan een voorbehoud geheel of gedeeltelijk intrekken door middel van een verklaring gericht aan de Secretaris-Generaal van de Raad van Europa. Een dergelijke verklaring wordt van kracht met ingang van de datum van ontvangst door de Secretaris-Generaal.
 
 ##### Artikel 79. Geldigheid en herziening van voorbehouden
 
-1. De in [artikel 78, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0006074&hoofdstuk=XII&artikel=78&z=2011-05-11&g=2011-05-11), bedoelde voorbehouden zijn vijf jaar geldig, gerekend vanaf de dag van de inwerkingtreding van dit Verdrag ten aanzien van de betrokken partij. Dergelijke voorbehouden kunnen evenwel worden verlengd met tijdvakken van dezelfde duur.
+1. De in [artikel 78, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0006074&hoofdstuk=XII&artikel=78&z=2016-03-01&g=2016-03-01), bedoelde voorbehouden zijn vijf jaar geldig, gerekend vanaf de dag van de inwerkingtreding van dit Verdrag ten aanzien van de betrokken partij. Dergelijke voorbehouden kunnen evenwel worden verlengd met tijdvakken van dezelfde duur.
 
 2. Achttien maanden voor de datum van het verstrijken van het voorbehoud stelt de Secretaris-Generaal van de Raad van Europa de betrokken partij in kennis van dat verstrijken. Uiterlijk drie maanden voor het verstrijken stelt de partij de Secretaris-Generaal in kennis van het handhaven, het wijzigen of het intrekken van haar voorbehoud. Bij gebreke van een kennisgeving van de betrokken partij deelt de Secretaris-Generaal van de Raad van Europa die partij mede dat haar voorbehoud geacht wordt automatisch te zijn verlengd voor een tijdvak van zes maanden. Indien de betrokken partij voor het verstrijken van dat tijdvak geen kennisgeving doet van haar voornemen het voorbehoud te handhaven of te wijzigen, vervalt het voorbehoud.
 
-3. Indien een partij in overeenstemming met [artikel 78, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0006074&hoofdstuk=XII&artikel=78&z=2011-05-11&g=2011-05-11), een voorbehoud maakt, stelt zij GREVIO alvorens het te verlengen of op verzoek in kennis van de redenen die de voortzetting rechtvaardigen.
+3. Indien een partij in overeenstemming met [artikel 78, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0006074&hoofdstuk=XII&artikel=78&z=2016-03-01&g=2016-03-01), een voorbehoud maakt, stelt zij GREVIO alvorens het te verlengen of op verzoek in kennis van de redenen die de voortzetting rechtvaardigen.
 
 ##### Artikel 80. Opzegging
 
@@ -792,13 +792,13 @@ De Secretaris-Generaal van de Raad van Europa stelt de lidstaten van de Raad van
 
 - b. de nederlegging van elke akte van bekrachtiging, aanvaarding, goedkeuring of toetreding;
 
-- c. elke datum van inwerkingtreding van dit Verdrag in overeenstemming met de [artikelen 75](https://wetten.overheid.nl/jci1.3:c:BWBV0006074&hoofdstuk=XII&artikel=75&z=2011-05-11&g=2011-05-11) en [76](https://wetten.overheid.nl/jci1.3:c:BWBV0006074&hoofdstuk=XII&artikel=76&z=2011-05-11&g=2011-05-11);
+- c. elke datum van inwerkingtreding van dit Verdrag in overeenstemming met de [artikelen 75](https://wetten.overheid.nl/jci1.3:c:BWBV0006074&hoofdstuk=XII&artikel=75&z=2016-03-01&g=2016-03-01) en [76](https://wetten.overheid.nl/jci1.3:c:BWBV0006074&hoofdstuk=XII&artikel=76&z=2016-03-01&g=2016-03-01);
 
-- d. elke wijziging die overeenkomstig [artikel 72](https://wetten.overheid.nl/jci1.3:c:BWBV0006074&hoofdstuk=XI&artikel=72&z=2011-05-11&g=2011-05-11) is aangenomen en de datum waarop een dergelijke wijziging in werking treedt;
+- d. elke wijziging die overeenkomstig [artikel 72](https://wetten.overheid.nl/jci1.3:c:BWBV0006074&hoofdstuk=XI&artikel=72&z=2016-03-01&g=2016-03-01) is aangenomen en de datum waarop een dergelijke wijziging in werking treedt;
 
-- e. elk voorbehoud en elke intrekking van voorbehouden gemaakt ingevolge [artikel 78](https://wetten.overheid.nl/jci1.3:c:BWBV0006074&hoofdstuk=XII&artikel=78&z=2011-05-11&g=2011-05-11);
+- e. elk voorbehoud en elke intrekking van voorbehouden gemaakt ingevolge [artikel 78](https://wetten.overheid.nl/jci1.3:c:BWBV0006074&hoofdstuk=XII&artikel=78&z=2016-03-01&g=2016-03-01);
 
-- f. elke opzegging uit hoofde van de bepalingen van [artikel 80](https://wetten.overheid.nl/jci1.3:c:BWBV0006074&hoofdstuk=XII&artikel=80&z=2011-05-11&g=2011-05-11);
+- f. elke opzegging uit hoofde van de bepalingen van [artikel 80](https://wetten.overheid.nl/jci1.3:c:BWBV0006074&hoofdstuk=XII&artikel=80&z=2016-03-01&g=2016-03-01);
 
 - g. elke andere akte, kennisgeving of mededeling met betrekking tot dit Verdrag.
 
