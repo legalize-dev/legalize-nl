@@ -4,7 +4,7 @@ identifier: "BWBV0006546"
 country: "nl"
 rank: "verdrag"
 publication_date: "2016-03-01"
-last_updated: "2013-07-01"
+last_updated: "2016-03-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBV0006546"
 soort: "verdrag"
@@ -150,7 +150,7 @@ Dit protocol vormt een integrerend onderdeel van de [Overeenkomst inzake handel,
 
 1. Dit protocol treedt in werking op de eerste dag van de eerste maand na de datum van neerlegging van de laatste akte van goedkeuring.
 
-2. Onverminderd lid 1 komen de overeenkomstsluitende partijen overeen de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBV0006546&hoofdstuk=I&artikel=3&z=2013-07-01&g=2013-07-01) en [4](https://wetten.overheid.nl/jci1.3:c:BWBV0006546&hoofdstuk=II&artikel=4&z=2013-07-01&g=2013-07-01) van dit protocol voorlopig toe te passen met ingang van 1 juli 2013.
+2. Onverminderd lid 1 komen de overeenkomstsluitende partijen overeen de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBV0006546&hoofdstuk=I&artikel=3&z=2016-03-01&g=2016-03-01) en [4](https://wetten.overheid.nl/jci1.3:c:BWBV0006546&hoofdstuk=II&artikel=4&z=2016-03-01&g=2016-03-01) van dit protocol voorlopig toe te passen met ingang van 1 juli 2013.
 
 ##### Artikel 8
 
