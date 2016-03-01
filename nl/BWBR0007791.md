@@ -4,7 +4,7 @@ identifier: "BWBR0007791"
 country: "nl"
 rank: "wet"
 publication_date: "2023-07-01"
-last_updated: "2016-01-01"
+last_updated: "2016-03-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0007791"
 soort: "wet"
@@ -68,15 +68,15 @@ In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
 - i. deeltijdfactor: de breuk, bedoeld in artikel A 1a, tweede lid, van de Abp-wet, zoals die bepaling luidde op 31 december 1995;
 
-- j. vervallen;
+- j. nettopensioen: het nettopensioen, bedoeld in [artikel 1 van de Pensioenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&artikel=1);
 
 - k. Onze Minister: Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties;
 
 - l. overheidspersoneel: de overheidswerknemers en de militairen, bedoeld in artikel A 1, eerste lid, van de Amp-wet, alsmede degenen die ingevolge het tweede lid van dat artikel daaronder worden begrepen, met inachtneming van artikel A 4 van die wet;
 
-- m. overheidswerkgever: ieder gezag of bestuur dat bevoegd is tot aanstelling of indienstneming en ontslag van een overheidswerknemer en voor de toepassing van de [paragrafen 4](https://wetten.overheid.nl/jci1.3:c:BWBR0007791&paragraaf=4&z=2016-03-01&g=2016-01-01), [9](https://wetten.overheid.nl/jci1.3:c:BWBR0007791&paragraaf=9&z=2016-03-01&g=2016-01-01) en [10](https://wetten.overheid.nl/jci1.3:c:BWBR0007791&paragraaf=10&z=2016-03-01&g=2016-01-01) de Stichting tot verzorging van de pensioenen van het personeel van de Koninklijke Hofhouding van het Huis van Oranje-Nassau;
+- m. overheidswerkgever: ieder gezag of bestuur dat bevoegd is tot aanstelling of indienstneming en ontslag van een overheidswerknemer en voor de toepassing van de [paragrafen 4](https://wetten.overheid.nl/jci1.3:c:BWBR0007791&paragraaf=4&z=2016-03-01&g=2016-03-01), [9](https://wetten.overheid.nl/jci1.3:c:BWBR0007791&paragraaf=9&z=2016-03-01&g=2016-03-01) en [10](https://wetten.overheid.nl/jci1.3:c:BWBR0007791&paragraaf=10&z=2016-03-01&g=2016-03-01) de Stichting tot verzorging van de pensioenen van het personeel van de Koninklijke Hofhouding van het Huis van Oranje-Nassau;
 
-- n. overheidswerknemer: de overheidswerknemer, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0007791&paragraaf=1&artikel=2&z=2016-03-01&g=2016-01-01);
+- n. overheidswerknemer: de overheidswerknemer, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0007791&paragraaf=1&artikel=2&z=2016-03-01&g=2016-03-01);
 
 - o. vervallen;
 
@@ -88,25 +88,23 @@ In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
 - 2°. van het personeel dat werkzaam is in de sector Defensie: Onze Minister van Defensie;
 
-- 3°. van het personeel dat werkzaam is in de sector Onderwijs en Wetenschappen: Onze Minister van Onderwijs, Cultuur en Wetenschappen;
+- 3°. van het personeel dat werkzaam is in de sector Politie: Onze Minister van Veiligheid en Justitie;
 
-- 4°. van het personeel dat werkzaam is in de sector Politie: Onze Minister van Veiligheid en Justitie;
+- 4°. van het personeel dat werkzaam is in de sector Rechterlijke Macht: Onze Minister van Veiligheid en Justitie;
 
-- 5°. van het personeel dat werkzaam is in de sector Rechterlijke Macht: Onze Minister van Veiligheid en Justitie;
+- 5°. van het personeel dat werkzaam is in de sector Gemeenten: de Vereniging van Nederlandse Gemeenten;
 
-- 6°. van het personeel dat werkzaam is in de sector Gemeenten: de Vereniging van Nederlandse Gemeenten;
+- 6°. van het personeel dat werkzaam is in de sector Provincies: het Interprovinciaal Overleg;
 
-- 7°. van het personeel dat werkzaam is in de sector Provincies: het Interprovinciaal Overleg;
+- 7°. van het personeel dat werkzaam is in de sector Waterschappen: de Unie van Waterschappen;
 
-- 8°. van het personeel dat werkzaam is in de sector Waterschappen: de Unie van Waterschappen;
-
-- 9°. van personeel dat niet werkzaam is in een van de onder 1° tot en met 8° genoemde sectoren: **(a)**. de sectorwerkgever van de sector waartoe de instelling waarbij het desbetreffende personeel werkzaam is, wordt gerekend, gelet op de aard van de werkzaamheid van die instelling, de arbeidsvoorwaarden of de financiële verhouding met een of meer overheids- of onderwijsinstellingen, of **(b)**. de sectorwerkgever van de door Onze Minister aangewezen sector, of **(c)**. een door Onze Minister aangewezen, met de onder 1° tot en met 8° genoemde sectorwerkgevers gelijk te stellen, ander gezag of andere instantie;
+- 8°. van personeel dat niet werkzaam is in een van de onder 1° tot en met 7° genoemde sectoren: **(a)**. de sectorwerkgever van de sector waartoe de instelling waarbij het desbetreffende personeel werkzaam is, wordt gerekend, gelet op de aard van de werkzaamheid van die instelling, de arbeidsvoorwaarden of de financiële verhouding met een of meer overheids- of onderwijsinstellingen, of **(b)**. de sectorwerkgever van de door Onze Minister aangewezen sector, of **(c)**. een door Onze Minister aangewezen, met de onder 1° tot en met 7° genoemde sectorwerkgevers gelijk te stellen, ander gezag of andere instantie;
 
 - r. vervallen;
 
 - s. WAO: de [Wet op de arbeidsongeschiktheidsverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0002524);
 
-- t. WAO-conforme uitkering: de met overeenkomstige toepassing van de WAO toegekende arbeidsongeschiktheidsuitkering, bedoeld in [artikel 32](https://wetten.overheid.nl/jci1.3:c:BWBR0007791&paragraaf=9&artikel=32&z=2016-03-01&g=2016-01-01);
+- t. WAO-conforme uitkering: de met overeenkomstige toepassing van de WAO toegekende arbeidsongeschiktheidsuitkering, bedoeld in [artikel 32](https://wetten.overheid.nl/jci1.3:c:BWBR0007791&paragraaf=9&artikel=32&z=2016-03-01&g=2016-03-01);
 
 - u. Wet FVP/ABP: de [Wet financiële voorzieningen privatisering ABP](https://wetten.overheid.nl/jci1.3:c:BWBR0007211).
 
@@ -128,13 +126,15 @@ In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
 - d. in dienst is van een privaatrechtelijk lichaam als bedoeld in [artikel 68 van de Wet op het primair onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=68), [artikel 69 van de Wet op de expertisecentra](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=69) en [artikel 53b van de Wet op het voortgezet onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0002399&artikel=53b), waarvan de personeelskosten voor ten minste 51 procent ten laste van de overheidskassen door de scholen worden bekostigd;
 
-- e. in dienst is van een B 3-lichaam;
+- e. in dienst van een samenwerkingsverband als bedoeld in artikel 1 van de Wet op het primair onderwijs en in dienst is van een samenwerkingsverband als bedoeld in [artikel 1 van de Wet op het voortgezet onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0002399&artikel=1);
 
-- f. die op 31 december 1995 ambtenaar in de zin van de Abp-wet is ingevolge artikel U 1 van die wet, dan wel op grond van artikel 65 van de Organisatiewet sociale verzekeringen, zoals dat artikel luidde op 31 december 1994, en wiens dienstverband op 1 januari 1996 niet is beëindigd.
+- f. in dienst is van een B 3-lichaam;
+
+- g. die op 31 december 1995 ambtenaar in de zin van de Abp-wet is ingevolge artikel U 1 van die wet, dan wel op grond van artikel 65 van de Organisatiewet sociale verzekeringen, zoals dat artikel luidde op 31 december 1994, en wiens dienstverband op 1 januari 1996 niet is beëindigd.
 
 2. In afwijking van het eerste lid zijn geen overheidswerknemer:
 
-- a. personen waarvan de dienstverhouding is ingegaan op of na het tijdstip waarop zij de leeftijd van 65 jaar hebben bereikt;
+- a. personen waarvan de dienstverhouding is ingegaan op of na het tijdstip waarop zij de pensioengerechtigde leeftijd, bedoeld in [artikel 7a, eerste lid, van de Algemene Ouderdomswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002221&artikel=7a) hebben bereikt;
 
 - b. ministers, staatssecretarissen, gedeputeerden, wethouders en de Rijksvertegenwoordiger voor de openbare lichamen Bonaire, Sint Eustatius en Saba;
 
@@ -168,15 +168,15 @@ In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
 4. Onze Minister kan in overeenstemming met Onze Minister van Sociale Zaken en Werkgelegenheid bij ministeriële regeling bepalen dat onderdelen van de arbeidsvoorwaarden van de werknemers en onderdelen van de arbeidsvoorwaarden van een sector, voor de vergelijking die volgt uit de toepassing van het derde lid, onder c, buiten beschouwing blijven.
 
-5. Voor de toepassing van de [paragrafen 4](https://wetten.overheid.nl/jci1.3:c:BWBR0007791&paragraaf=4&z=2016-03-01&g=2016-01-01), [9](https://wetten.overheid.nl/jci1.3:c:BWBR0007791&paragraaf=9&z=2016-03-01&g=2016-01-01) en [10](https://wetten.overheid.nl/jci1.3:c:BWBR0007791&paragraaf=10&z=2016-03-01&g=2016-01-01), alsmede van [artikel 57](https://wetten.overheid.nl/jci1.3:c:BWBR0007791&paragraaf=11&artikel=57&z=2016-03-01&g=2016-01-01) wordt tevens als overheidswerknemer aangemerkt degene die behoort tot het personeel van de Koninklijke Hofhouding, bedoeld in [artikel 1, onderdeel b, van de Wet gevolgen privatisering ABP voor het personeel van de Koninklijke Hofhouding](https://wetten.overheid.nl/jci1.3:c:BWBR0008328&artikel=1).
+5. Voor de toepassing van de [paragrafen 4](https://wetten.overheid.nl/jci1.3:c:BWBR0007791&paragraaf=4&z=2016-03-01&g=2016-03-01), [9](https://wetten.overheid.nl/jci1.3:c:BWBR0007791&paragraaf=9&z=2016-03-01&g=2016-03-01) en [10](https://wetten.overheid.nl/jci1.3:c:BWBR0007791&paragraaf=10&z=2016-03-01&g=2016-03-01), alsmede van [artikel 57](https://wetten.overheid.nl/jci1.3:c:BWBR0007791&paragraaf=11&artikel=57&z=2016-03-01&g=2016-03-01) wordt tevens als overheidswerknemer aangemerkt degene die behoort tot het personeel van de Koninklijke Hofhouding, bedoeld in [artikel 1, onderdeel b, van de Wet gevolgen privatisering ABP voor het personeel van de Koninklijke Hofhouding](https://wetten.overheid.nl/jci1.3:c:BWBR0008328&artikel=1).
 
 ##### Artikel 3
 
-1. Een aanwijzing op grond van artikel B 3 van de Abp-wet wordt aangemerkt als een aanwijzing ingevolge [artikel 2, derde lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0007791&paragraaf=1&artikel=2&z=2016-03-01&g=2016-01-01).
+1. Een aanwijzing op grond van artikel B 3 van de Abp-wet wordt aangemerkt als een aanwijzing ingevolge [artikel 2, derde lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0007791&paragraaf=1&artikel=2&z=2016-03-01&g=2016-03-01).
 
-2. Onze Minister kan, gehoord het bestuur van de Stichting Pensioenfonds ABP en de Nederlandsche Bank N.V., een aanwijzing uiterlijk voor het tijdstip, bedoeld in [artikel 21, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007791&paragraaf=5&artikel=21&z=2016-03-01&g=2016-01-01), intrekken indien het lichaam niet meer voldoet aan een of meer van de gestelde voorwaarden of aan de eisen als bedoeld in [artikel 2, derde lid, onder b, onderscheidenlijk c](https://wetten.overheid.nl/jci1.3:c:BWBR0007791&paragraaf=1&artikel=2&z=2016-03-01&g=2016-01-01).
+2. Onze Minister kan, gehoord het bestuur van de Stichting Pensioenfonds ABP en de Nederlandsche Bank N.V., een aanwijzing uiterlijk voor het tijdstip, bedoeld in [artikel 21, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007791&paragraaf=5&artikel=21&z=2016-03-01&g=2016-03-01), intrekken indien het lichaam niet meer voldoet aan een of meer van de gestelde voorwaarden of aan de eisen als bedoeld in [artikel 2, derde lid, onder b, onderscheidenlijk c](https://wetten.overheid.nl/jci1.3:c:BWBR0007791&paragraaf=1&artikel=2&z=2016-03-01&g=2016-03-01).
 
-3. Indien aan het vijfde lid toepassing wordt gegeven, is [artikel 22, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007791&paragraaf=5&artikel=22&z=2016-03-01&g=2016-01-01), van overeenkomstige toepassing.
+3. Indien aan het vijfde lid toepassing wordt gegeven, is [artikel 22, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007791&paragraaf=5&artikel=22&z=2016-03-01&g=2016-03-01), van overeenkomstige toepassing.
 
 #### § 2. De pensioenen van het overheidspersoneel en de Stichting Pensioenfonds ABP
 
@@ -196,11 +196,11 @@ In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
 ##### Artikel 5
 
-1. Indien de sectorwerkgever en de meerderheid van de binnen de desbetreffende sector representatieve verenigingen van overheidspersoneel of centrales van overheidspersoneel gezamenlijk daartoe besluiten, kan, na intrekking van de verplichte deelneming overeenkomstig [artikel 21, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007791&paragraaf=5&artikel=21&z=2016-03-01&g=2016-01-01), de overeenkomst, bedoeld in [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007791&paragraaf=2&artikel=4&z=2016-03-01&g=2016-01-01), voor zover deze de eigen sector betreft, worden gesloten door die sectorwerkgever en de meerderheid van die verenigingen van overheidspersoneel of centrales van overheidspersoneel.
+1. Indien de sectorwerkgever en de meerderheid van de binnen de desbetreffende sector representatieve verenigingen van overheidspersoneel of centrales van overheidspersoneel gezamenlijk daartoe besluiten, kan, na intrekking van de verplichte deelneming overeenkomstig [artikel 21, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007791&paragraaf=5&artikel=21&z=2016-03-01&g=2016-03-01), de overeenkomst, bedoeld in [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007791&paragraaf=2&artikel=4&z=2016-03-01&g=2016-03-01), voor zover deze de eigen sector betreft, worden gesloten door die sectorwerkgever en de meerderheid van die verenigingen van overheidspersoneel of centrales van overheidspersoneel.
 
 2. In overeenstemming met de desbetreffende sectorwerkgever en na het advies van de ROP hieromtrent te hebben ontvangen, bepaalt Onze Minister of een vereniging van overheidspersoneel die niet is aangesloten bij een centrale van overheidspersoneel, representatief is in een of meerdere sectoren.
 
-3. Bij of krachtens algemene maatregel van bestuur kunnen regels worden gesteld met betrekking tot de bevoegdheid met ingang van het tijdstip, bedoeld in [artikel 21, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007791&paragraaf=5&artikel=21&z=2016-03-01&g=2016-01-01), tot het sluiten van de in [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007791&paragraaf=2&artikel=4&z=2016-03-01&g=2016-01-01), bedoelde overeenkomst ten aanzien van B 3-lichamen en privaatrechtelijke lichamen als bedoeld in [artikel 2, derde lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0007791&paragraaf=1&artikel=2&z=2016-03-01&g=2016-01-01), die met ingang van 1 januari 1996 of een latere datum tot de Stichting Pensioenfonds ABP zijn toegetreden.
+3. Bij of krachtens algemene maatregel van bestuur kunnen regels worden gesteld met betrekking tot de bevoegdheid met ingang van het tijdstip, bedoeld in [artikel 21, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007791&paragraaf=5&artikel=21&z=2016-03-01&g=2016-03-01), tot het sluiten van de in [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007791&paragraaf=2&artikel=4&z=2016-03-01&g=2016-03-01), bedoelde overeenkomst ten aanzien van B 3-lichamen en privaatrechtelijke lichamen als bedoeld in [artikel 2, derde lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0007791&paragraaf=1&artikel=2&z=2016-03-01&g=2016-03-01), die met ingang van 1 januari 1996 of een latere datum tot de Stichting Pensioenfonds ABP zijn toegetreden.
 
 ##### Artikel 6
 
@@ -212,11 +212,11 @@ In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
 ##### Artikel 7
 
-1. De belanghebbende verkrijgt met ingang van 1 januari 1996 aanspraken op ouderdoms- en nabestaandenpensioen jegens de Stichting Pensioenfonds ABP die in totaliteit gelijkwaardig zijn aan het uitzicht of het recht dat hij op 31 december 1995 ter zake ontleent aan de Abp-wet en de wijzigingswetten van die wet, met inachtneming van hetgeen ter zake in [paragraaf 3](https://wetten.overheid.nl/jci1.3:c:BWBR0007791&paragraaf=3&z=2016-03-01&g=2016-01-01) is bepaald.
+1. De belanghebbende verkrijgt met ingang van 1 januari 1996 aanspraken op ouderdoms- en nabestaandenpensioen jegens de Stichting Pensioenfonds ABP die in totaliteit gelijkwaardig zijn aan het uitzicht of het recht dat hij op 31 december 1995 ter zake ontleent aan de Abp-wet en de wijzigingswetten van die wet, met inachtneming van hetgeen ter zake in [paragraaf 3](https://wetten.overheid.nl/jci1.3:c:BWBR0007791&paragraaf=3&z=2016-03-01&g=2016-03-01) is bepaald.
 
-2. De belanghebbende verkrijgt met inachtneming van [paragraaf 4](https://wetten.overheid.nl/jci1.3:c:BWBR0007791&paragraaf=4&z=2016-03-01&g=2016-01-01) met ingang van 1 januari 1996 aanspraken op invaliditeitspensioen of herplaatsingstoelage jegens de Stichting Pensioenfonds ABP, die tezamen met de aanspraken jegens het FAOP op een WAO-conforme uitkering ingevolge [artikel 32, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007791&paragraaf=9&artikel=32&z=2016-03-01&g=2016-01-01), juncto [artikel 37](https://wetten.overheid.nl/jci1.3:c:BWBR0007791&paragraaf=9&artikel=37&z=2016-03-01&g=2016-01-01) in totaliteit gelijkwaardig zijn aan de overeenkomstige aanspraken ingevolge de Abp-wet en de wijzigingswetten van die wet.
+2. De belanghebbende verkrijgt met inachtneming van [paragraaf 4](https://wetten.overheid.nl/jci1.3:c:BWBR0007791&paragraaf=4&z=2016-03-01&g=2016-03-01) met ingang van 1 januari 1996 aanspraken op invaliditeitspensioen of herplaatsingstoelage jegens de Stichting Pensioenfonds ABP, die tezamen met de aanspraken jegens het FAOP op een WAO-conforme uitkering ingevolge [artikel 32, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007791&paragraaf=9&artikel=32&z=2016-03-01&g=2016-03-01), juncto [artikel 37](https://wetten.overheid.nl/jci1.3:c:BWBR0007791&paragraaf=9&artikel=37&z=2016-03-01&g=2016-03-01) in totaliteit gelijkwaardig zijn aan de overeenkomstige aanspraken ingevolge de Abp-wet en de wijzigingswetten van die wet.
 
-3. Het eerste en tweede lid zijn niet van toepassing ten aanzien van het personeelslid van het ABP waarop [artikel 27](https://wetten.overheid.nl/jci1.3:c:BWBR0007791&paragraaf=7&artikel=27&z=2016-03-01&g=2016-01-01) van toepassing is, behoudens het vierde lid van dat artikel.
+3. Het eerste en tweede lid zijn niet van toepassing ten aanzien van het personeelslid van het ABP waarop [artikel 27](https://wetten.overheid.nl/jci1.3:c:BWBR0007791&paragraaf=7&artikel=27&z=2016-03-01&g=2016-03-01) van toepassing is, behoudens het vierde lid van dat artikel.
 
 4. Het bestuur van de Stichting Pensioenfonds ABP verstrekt aan degene die op 31 december 1995 ambtenaar is of recht op invaliditeitspensioen heeft, alsmede voor zover mogelijk aan de gewezen ambtenaar aan wie nog geen pensioen is toegekend, een schriftelijke opgave van het uit hoofde van zijn dienstbetrekking opgebouwde uitzicht op pensioen ingevolge de Abp-wet. Deze opgave bevat ten minste de voor pensioen geldende diensttijd, alsmede de twee berekeningsgrondslagen die zouden zijn gehanteerd indien aan hem pensioen ingevolge de Abp-wet zou zijn verleend met ingang van 1 januari 1996.
 
@@ -248,7 +248,7 @@ zoals die artikelen luidden op 31 december 1995, tijd die niet als ambtenaar in 
 
 2. Ten aanzien van de in het eerste lid, onderdeel **a**, bedoelde externe diensttijd blijft artikel 75 van de Wet FVP/ABP, zoals dat artikel luidde op 31 december 1995, van toepassing.
 
-3. Het bestuur van de Stichting Pensioenfonds ABP doet aan de belanghebbende opgave van de externe diensttijd, bedoeld in het eerste lid. Op deze opgave is [artikel 7, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007791&paragraaf=2&artikel=7&z=2016-03-01&g=2016-01-01), van overeenkomstige toepassing.
+3. Het bestuur van de Stichting Pensioenfonds ABP doet aan de belanghebbende opgave van de externe diensttijd, bedoeld in het eerste lid. Op deze opgave is [artikel 7, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007791&paragraaf=2&artikel=7&z=2016-03-01&g=2016-03-01), van overeenkomstige toepassing.
 
 4. Tenzij belanghebbende tijdig te kennen heeft gegeven geen overname van externe diensttijd te wensen, wordt door het bestuur van de Stichting Pensioenfonds ABP mededeling van de overname gedaan aan de betrokken pensioeninstantie, voor zover dit noodzakelijk is in verband met het voorkomen van een dubbele pensioentoekenning over de door de Stichting Pensioenfonds ABP overgenomen externe diensttijd dan wel de toepassing van [artikel 33 van de Wet privatisering Spoorwegpensioenfonds](https://wetten.overheid.nl/jci1.3:c:BWBR0006319&artikel=33) of artikel 76 van de Wet FVP/ABP.
 
@@ -262,7 +262,9 @@ Vervallen
 
 1. De op 31 december 1995 reeds ingegane pensioenen en reeds bestaande uitzichten op pensioen worden door het bestuur van de Stichting Pensioenfonds ABP aangepast aan algemene bezoldigingswijzigingen en eenmalige uitkeringen, overeenkomstig artikel A 8 van de Abp-wet, zoals dat artikel op genoemde datum luidde, tenzij de financiële positie van het pensioenfonds zich dwingend tegen die aanpassing verzet. In het pensioenreglement van de Stichting Pensioenfonds ABP wordt bepaald wanneer sprake is van de in de vorige volzin bedoelde financiële positie.
 
-2. In het pensioenreglement van de Stichting Pensioenfonds ABP kan worden bepaald dat de in het eerste lid bedoelde aanpassing in beginsel op een of meer vaste tijdstippen in het jaar plaatsvindt en is gebaseerd op de algemene bezoldigingswijzigingen en eenmalige aanpassingen die zich gedurende een bepaalde periode voorafgaand aan de genoemde data hebben voorgedaan.
+2. In afwijking van het eerste lid worden de reeds ingegane pensioenen en reeds bestaande uitzichten op pensioen, in alle gevallen aangepast aan een wijziging of vervanging van de indexatiewijze in de overeenkomst, bedoeld in [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007791&paragraaf=2&artikel=4&z=2016-03-01&g=2016-03-01), waartoe de sectorwerkgevers en centrales van overheidspersoneel, bedoeld in artikel 4, derde lid, besluiten op de wijze, bedoeld in artikel 4.
+
+3. In het pensioenreglement van de Stichting Pensioenfonds ABP kan worden bepaald dat de in het eerste lid bedoelde aanpassing in beginsel op een of meer vaste tijdstippen in het jaar plaatsvindt en is gebaseerd op de algemene bezoldigingswijzigingen en eenmalige aanpassingen die zich gedurende een bepaalde periode voorafgaand aan de genoemde data hebben voorgedaan.
 
 ##### Artikel 11
 
@@ -318,49 +320,55 @@ Vervallen
 
 ##### Artikel 17
 
-1. De belanghebbende die op 31 december 1995 recht heeft op een of meer invaliditeitspensioenen of herplaatsingstoelagen ingevolge de Abp-wet waarvan de duur niet met ingang van 1 januari 1996 is verstreken, verkrijgt met ingang van laatstgenoemde datum jegens de Stichting Pensioenfonds ABP uitsluitend een aanspraak op een invaliditeitspensioen of een herplaatsingstoelage als bedoeld in [artikel 7, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007791&paragraaf=2&artikel=7&z=2016-03-01&g=2016-01-01), voor zover de op 31 december 1995 geldende aanspraak op invaliditeitspensioen, onderscheidenlijk herplaatsingstoelage wat hoogte en duur betreft, uitgaat boven de aanspraak op een WAO-conforme uitkering ingevolge [artikel 32, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007791&paragraaf=9&artikel=32&z=2016-03-01&g=2016-01-01), juncto [artikel 37](https://wetten.overheid.nl/jci1.3:c:BWBR0007791&paragraaf=9&artikel=37&z=2016-03-01&g=2016-01-01).
+1. De belanghebbende die op 31 december 1995 recht heeft op een of meer invaliditeitspensioenen of herplaatsingstoelagen ingevolge de Abp-wet waarvan de duur niet met ingang van 1 januari 1996 is verstreken, verkrijgt met ingang van laatstgenoemde datum jegens de Stichting Pensioenfonds ABP uitsluitend een aanspraak op een invaliditeitspensioen of een herplaatsingstoelage als bedoeld in [artikel 7, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007791&paragraaf=2&artikel=7&z=2016-03-01&g=2016-03-01), voor zover de op 31 december 1995 geldende aanspraak op invaliditeitspensioen, onderscheidenlijk herplaatsingstoelage wat hoogte en duur betreft, uitgaat boven de aanspraak op een WAO-conforme uitkering ingevolge [artikel 32, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007791&paragraaf=9&artikel=32&z=2016-03-01&g=2016-03-01), juncto [artikel 37](https://wetten.overheid.nl/jci1.3:c:BWBR0007791&paragraaf=9&artikel=37&z=2016-03-01&g=2016-03-01).
 
 2. Het bestuur van het FAOP maakt de vastgestelde aanspraak op een WAO-conforme uitkering kenbaar aan het bestuur van de Stichting Pensioenfonds ABP.
 
 ##### Artikel 18
 
-In het pensioenreglement van de Stichting Pensioenfonds ABP kan worden bepaald dat het invaliditeitspensioen of de herplaatsingstoelage, bedoeld in [artikel 17, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007791&paragraaf=4&artikel=17&z=2016-03-01&g=2016-01-01), waarop belanghebbende met ingang van 1 januari 1996 aanspraak heeft, wordt aangepast overeenkomstig wijzigingen in het recht op de WAO-conforme uitkering, bedoeld in [artikel 32, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007791&paragraaf=9&artikel=32&z=2016-03-01&g=2016-01-01), juncto [artikel 37](https://wetten.overheid.nl/jci1.3:c:BWBR0007791&paragraaf=9&artikel=37&z=2016-03-01&g=2016-01-01).
+In het pensioenreglement van de Stichting Pensioenfonds ABP kan worden bepaald dat het invaliditeitspensioen of de herplaatsingstoelage, bedoeld in [artikel 17, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007791&paragraaf=4&artikel=17&z=2016-03-01&g=2016-03-01), waarop belanghebbende met ingang van 1 januari 1996 aanspraak heeft, wordt aangepast overeenkomstig wijzigingen in het recht op de WAO-conforme uitkering, bedoeld in [artikel 32, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007791&paragraaf=9&artikel=32&z=2016-03-01&g=2016-03-01), juncto [artikel 37](https://wetten.overheid.nl/jci1.3:c:BWBR0007791&paragraaf=9&artikel=37&z=2016-03-01&g=2016-03-01).
 
 ##### Artikel 19
 
-1. De in [artikel 17, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007791&paragraaf=4&artikel=17&z=2016-03-01&g=2016-01-01), bedoelde belanghebbende die op 1 januari 1996 de leeftijd van 65 jaar nog niet heeft bereikt, heeft tot de eerste dag van de maand waarin hij die leeftijd bereikt ten minste aanspraak op het diensttijdpensioen verminderd met de aanspraak op een WAO-conforme uitkering.
+1. De in [artikel 17, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007791&paragraaf=4&artikel=17&z=2016-03-01&g=2016-03-01), bedoelde belanghebbende die op 1 januari 1996 de leeftijd van 65 jaar nog niet heeft bereikt, heeft tot de eerste dag van de maand waarin hij die leeftijd bereikt ten minste aanspraak op het diensttijdpensioen verminderd met de aanspraak op een WAO-conforme uitkering.
 
 2. Het diensttijdpensioen, bedoeld in het eerste lid, is het uitsluitend naar de diensttijd ten tijde van het ontslag berekende ouderdomspensioen, zonder toepassing van de inbouw van algemeen pensioen of aftrek van een franchise.
 
-3. Ten aanzien van het diensttijdpensioen is [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0007791&paragraaf=3&artikel=11&z=2016-03-01&g=2016-01-01) van overeenkomstige toepassing, met dien verstande dat in het pensioenreglement van de Stichting Pensioenfonds ABP kan worden bepaald dat de aanspraak op diensttijdpensioen kan worden uitgedrukt in een percentage van de aangepaste middelsom, bedoeld in [artikel 11, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007791&paragraaf=3&artikel=11&z=2016-03-01&g=2016-01-01).
+3. Ten aanzien van het diensttijdpensioen is [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0007791&paragraaf=3&artikel=11&z=2016-03-01&g=2016-03-01) van overeenkomstige toepassing, met dien verstande dat in het pensioenreglement van de Stichting Pensioenfonds ABP kan worden bepaald dat de aanspraak op diensttijdpensioen kan worden uitgedrukt in een percentage van de aangepaste middelsom, bedoeld in [artikel 11, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007791&paragraaf=3&artikel=11&z=2016-03-01&g=2016-03-01).
 
 ##### Artikel 20
 
-De [artikelen 17 tot en met 19](https://wetten.overheid.nl/jci1.3:c:BWBR0007791&paragraaf=4&artikel=17&z=2016-03-01&g=2016-01-01) zijn van overeenkomstige toepassing op het invaliditeitspensioen van de betrokkene, bedoeld in [artikel 59, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007791&paragraaf=11&artikel=59&z=2016-03-01&g=2016-01-01), na het einde van het recht op diens naar aard en strekking met herplaatsingswachtgeld overeenkomende uitkering, dan wel diens herplaatsingswachtgeld, met dien verstande dat in [artikel 18, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007791&paragraaf=4&artikel=18&z=2016-03-01&g=2016-01-01), voor "[artikel 32, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007791&paragraaf=9&artikel=32&z=2016-03-01&g=2016-01-01), juncto [artikel 37](https://wetten.overheid.nl/jci1.3:c:BWBR0007791&paragraaf=9&artikel=37&z=2016-03-01&g=2016-01-01)" dient te worden gelezen: [artikel 32, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007791&paragraaf=9&artikel=32&z=2016-03-01&g=2016-01-01), juncto [artikel 42](https://wetten.overheid.nl/jci1.3:c:BWBR0007791&paragraaf=9&artikel=42&z=2016-03-01&g=2016-01-01).
+De [artikelen 17 tot en met 19](https://wetten.overheid.nl/jci1.3:c:BWBR0007791&paragraaf=4&artikel=17&z=2016-03-01&g=2016-03-01) zijn van overeenkomstige toepassing op het invaliditeitspensioen van de betrokkene, bedoeld in [artikel 59, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007791&paragraaf=11&artikel=59&z=2016-03-01&g=2016-03-01), na het einde van het recht op diens naar aard en strekking met herplaatsingswachtgeld overeenkomende uitkering, dan wel diens herplaatsingswachtgeld, met dien verstande dat in [artikel 18, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007791&paragraaf=4&artikel=18&z=2016-03-01&g=2016-03-01), voor "[artikel 32, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007791&paragraaf=9&artikel=32&z=2016-03-01&g=2016-03-01), juncto [artikel 37](https://wetten.overheid.nl/jci1.3:c:BWBR0007791&paragraaf=9&artikel=37&z=2016-03-01&g=2016-03-01)" dient te worden gelezen: [artikel 32, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007791&paragraaf=9&artikel=32&z=2016-03-01&g=2016-03-01), juncto [artikel 42](https://wetten.overheid.nl/jci1.3:c:BWBR0007791&paragraaf=9&artikel=42&z=2016-03-01&g=2016-03-01).
 
 #### § 5. Verplichte deelneming in de Stichting Pensioenfonds ABP
 
 ##### Artikel 21
 
-1. De overheidswerknemers zijn verplicht deel te nemen in de Stichting Pensioenfonds ABP.
+1. De overheidswerknemers zijn verplicht deel te nemen in de Stichting Pensioenfonds ABP tot het bedrag dat op grond van [artikel 18ga, eerste lid, van de Wet op de loonbelasting 1964](https://wetten.overheid.nl/jci1.3:c:BWBR0002471&artikel=18ga) tot het pensioengevend loon behoort.
 
-2. Vervallen.
+2. De Stichting Pensioenfonds ABP heeft tot taak op verzoek van:
 
-3. Op een bij koninklijk besluit, op voordracht van Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties in overeenstemming met Onze Minister van Sociale Zaken en Werkgelegenheid, nader te bepalen tijdstip is de [Wet verplichte deelneming in een bedrijfstakpensioenfonds 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0012092) van toepassing. De verplichte deelneming in de Stichting Pensioenfonds ABP ingevolge het eerste lid wordt met ingang van die datum aangemerkt als een verplichte deelneming ingevolge de in de eerste volzin genoemde wet, welke deelneming alsdan met inachtneming van de in [artikel 22, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007791&paragraaf=5&artikel=22&z=2016-03-01&g=2016-01-01), geregelde voorwaarden of van [artikel 23, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007791&paragraaf=5&artikel=23&z=2016-03-01&g=2016-01-01), overeenkomstig laatstbedoelde wet en de op basis daarvan gestelde regels kan worden gewijzigd of ingetrokken.
+- a. de sectorwerkgever, of
+
+- b. de overheidswerkgever, die overheidswerknemers in dienst heeft als bedoeld in [artikel 2, eerste lid, onder f, en derde lid, onder b, en c](https://wetten.overheid.nl/jci1.3:c:BWBR0007791&paragraaf=1&artikel=2&z=2016-03-01&g=2016-03-01), vrijstelling voor het nettopensioen te verlenen van de nettopensioenregeling van de Stichting Pensioenfonds ABP of de verleende vrijstelling in te trekken. De Stichting Pensioenfonds ABP stelt de voorwaarden waaronder de vrijstelling wordt verleend of wordt ingetrokken vast, met dien verstande dat de aanspraken op een niet bij de Stichting Pensioenfonds ABP afgesloten regeling voor het nettopensioen ten minste gelijkwaardig zijn aan die van de Stichting Pensioenfonds ABP.
+
+De onder a en b genoemde werkgevers zijn zonder vrijstelling verplicht de nettopensioenregeling van de Stichting Pensioenfonds ABP aan de overheidswerknemers aan te bieden.
+
+3. Op een bij koninklijk besluit, op voordracht van Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties in overeenstemming met Onze Minister van Sociale Zaken en Werkgelegenheid, nader te bepalen tijdstip is de [Wet verplichte deelneming in een bedrijfstakpensioenfonds 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0012092) van toepassing. De verplichte deelneming in de Stichting Pensioenfonds ABP ingevolge het eerste lid wordt met ingang van die datum aangemerkt als een verplichte deelneming ingevolge de in de eerste volzin genoemde wet, welke deelneming alsdan met inachtneming van de in [artikel 22, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007791&paragraaf=5&artikel=22&z=2016-03-01&g=2016-03-01), geregelde voorwaarden of van [artikel 23, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007791&paragraaf=5&artikel=23&z=2016-03-01&g=2016-03-01), overeenkomstig laatstbedoelde wet en de op basis daarvan gestelde regels kan worden gewijzigd of ingetrokken.
 
 4. In afwijking van het derde lid zijn de artikelen [5](https://wetten.overheid.nl/jci1.3:c:BWBR0012092&artikel=5), [6](https://wetten.overheid.nl/jci1.3:c:BWBR0012092&artikel=6), [7](https://wetten.overheid.nl/jci1.3:c:BWBR0012092&artikel=7), [8](https://wetten.overheid.nl/jci1.3:c:BWBR0012092&artikel=8), [14](https://wetten.overheid.nl/jci1.3:c:BWBR0012092&artikel=14) en de daarop berustende ministeriële regeling, [17](https://wetten.overheid.nl/jci1.3:c:BWBR0012092&artikel=17), [18](https://wetten.overheid.nl/jci1.3:c:BWBR0012092&artikel=18), [19](https://wetten.overheid.nl/jci1.3:c:BWBR0012092&artikel=19), [20](https://wetten.overheid.nl/jci1.3:c:BWBR0012092&artikel=20) en [39, zesde en zevende lid, van de Wet verplichte deelneming in een bedrijfstakpensioenfonds 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0012092&artikel=39) van overeenkomstige toepassing met ingang van de datum waarop die wet in werking treedt tot het tijdstip bedoeld in het derde lid.
 
 ##### Artikel 22
 
-1. Tot het tijdstip, bedoeld in [artikel 21, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007791&paragraaf=5&artikel=21&z=2016-03-01&g=2016-01-01), kan, op het gezamenlijk verzoek van het bestuur van een B 3-lichaam of een privaatrechtelijk lichaam dat ingevolge [artikel 2, derde lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0007791&paragraaf=1&artikel=2&z=2016-03-01&g=2016-01-01), is aangewezen als lichaam waarvan de werknemers deelnemen in de Stichting Pensioenfonds ABP, en het personeel van dat lichaam, die aanwijzing door Onze Minister worden ingetrokken.
+1. Tot het tijdstip, bedoeld in [artikel 21, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007791&paragraaf=5&artikel=21&z=2016-03-01&g=2016-03-01), kan, op het gezamenlijk verzoek van het bestuur van een B 3-lichaam of een privaatrechtelijk lichaam dat ingevolge [artikel 2, derde lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0007791&paragraaf=1&artikel=2&z=2016-03-01&g=2016-03-01), is aangewezen als lichaam waarvan de werknemers deelnemen in de Stichting Pensioenfonds ABP, en het personeel van dat lichaam, die aanwijzing door Onze Minister worden ingetrokken.
 
 2. Het verzoek tot intrekking, bedoeld in het eerste lid, kan namens het personeel worden gedaan door de organisaties die het betrokken personeel vertegenwoordigen in het arbeidsvoorwaardenoverleg.
 
-3. Intrekking van de aanwijzing, bedoeld in [artikel 2, derde lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0007791&paragraaf=1&artikel=2&z=2016-03-01&g=2016-01-01), vindt slechts plaats indien de pensioenaanspraken van:
+3. Intrekking van de aanwijzing, bedoeld in [artikel 2, derde lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0007791&paragraaf=1&artikel=2&z=2016-03-01&g=2016-03-01), vindt slechts plaats indien de pensioenaanspraken van:
 
 - a. de werknemers van het betrokken lichaam;
 
-- b. de gewezen werknemers van het betrokken lichaam, voor zover zij na hun ontslag niet in dienst zijn getreden van een ander lichaam als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0007791&paragraaf=1&artikel=2&z=2016-03-01&g=2016-01-01) of van een lichaam dat op basis van vrijwilligheid is aangesloten bij de Stichting Pensioenfonds ABP, dan wel hun pensioenaanspraken tegenover het ABP of de Stichting Pensioenfonds ABP geheel teniet zijn gegaan ten gevolge van waarde-overdracht;
+- b. de gewezen werknemers van het betrokken lichaam, voor zover zij na hun ontslag niet in dienst zijn getreden van een ander lichaam als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0007791&paragraaf=1&artikel=2&z=2016-03-01&g=2016-03-01) of van een lichaam dat op basis van vrijwilligheid is aangesloten bij de Stichting Pensioenfonds ABP, dan wel hun pensioenaanspraken tegenover het ABP of de Stichting Pensioenfonds ABP geheel teniet zijn gegaan ten gevolge van waarde-overdracht;
 
 - c. de gepensioneerde, gewezen werknemers van het betrokken lichaam;
 
@@ -370,15 +378,15 @@ door middel van collectieve waardeoverdracht worden ondergebracht bij een andere
 
 ##### Artikel 23
 
-1. Op het gezamenlijke verzoek van de sectorwerkgever en de meerderheid van de binnen de desbetreffende sector representatieve verenigingen van overheidspersoneel of centrales van overheidspersoneel kan de verplichte deelneming van de desbetreffende sector in de Stichting Pensioenfonds ABP door Onze Minister van Sociale Zaken en Werkgelegenheid worden ingetrokken met ingang van een datum die niet voor het tijdstip, bedoeld in [artikel 21, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007791&paragraaf=5&artikel=21&z=2016-03-01&g=2016-01-01), is gelegen.
+1. Op het gezamenlijke verzoek van de sectorwerkgever en de meerderheid van de binnen de desbetreffende sector representatieve verenigingen van overheidspersoneel of centrales van overheidspersoneel kan de verplichte deelneming van de desbetreffende sector in de Stichting Pensioenfonds ABP door Onze Minister van Sociale Zaken en Werkgelegenheid worden ingetrokken met ingang van een datum die niet voor het tijdstip, bedoeld in [artikel 21, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007791&paragraaf=5&artikel=21&z=2016-03-01&g=2016-03-01), is gelegen.
 
-2. Het [derde lid van artikel 22](https://wetten.overheid.nl/jci1.3:c:BWBR0007791&paragraaf=5&artikel=22&z=2016-03-01&g=2016-01-01) is van overeenkomstige toepassing.
+2. Het [derde lid van artikel 22](https://wetten.overheid.nl/jci1.3:c:BWBR0007791&paragraaf=5&artikel=22&z=2016-03-01&g=2016-03-01) is van overeenkomstige toepassing.
 
 #### § 6. Overgang van het vermogen van het ABP
 
 ##### Artikel 24
 
-1. Met inachtneming van het tweede lid en behoudens [artikel 76, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007791&paragraaf=11&artikel=76&z=2016-03-01&g=2016-01-01), gaan op 1 januari 1996 alle vermogensbestanddelen van het ABP onder algemene titel over op de Stichting Pensioenfonds ABP.
+1. Met inachtneming van het tweede lid en behoudens [artikel 76, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007791&paragraaf=11&artikel=76&z=2016-03-01&g=2016-03-01), gaan op 1 januari 1996 alle vermogensbestanddelen van het ABP onder algemene titel over op de Stichting Pensioenfonds ABP.
 
 2. Ter zake van de overgang van vermogensbestanddelen, bedoeld in het eerste lid, blijft de heffing van overdrachtsbelasting achterwege.
 
@@ -546,7 +554,7 @@ Vervallen
 
 ##### Artikel 55
 
-1. Indien op 1 januari 1996 geen overeenkomst als bedoeld in de [artikelen 28](https://wetten.overheid.nl/jci1.3:c:BWBR0007791&paragraaf=8&artikel=28&z=2016-03-01&g=2016-01-01) en [31, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007791&paragraaf=8&artikel=31&z=2016-03-01&g=2016-01-01), en geen algemene maatregel van bestuur als bedoeld in [artikel 31, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007791&paragraaf=8&artikel=31&z=2016-03-01&g=2016-01-01), tot stand zijn gebracht, treden de bepalingen, bedoeld in [artikel 77, de onderdelen b tot en met m](https://wetten.overheid.nl/jci1.3:c:BWBR0007791&paragraaf=11&artikel=77&z=2016-03-01&g=2016-01-01), zoals deze luidden op 31 december 1995, voor die overeenkomsten en algemene maatregel van bestuur in de plaats, tot het tijdstip waarop het in de [paragraaf 8](https://wetten.overheid.nl/jci1.3:c:BWBR0007791&paragraaf=8&z=2016-03-01&g=2016-01-01) bedoelde stelsel in totaliteit in werking kan treden.
+1. Indien op 1 januari 1996 geen overeenkomst als bedoeld in de [artikelen 28](https://wetten.overheid.nl/jci1.3:c:BWBR0007791&paragraaf=8&artikel=28&z=2016-03-01&g=2016-03-01) en [31, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007791&paragraaf=8&artikel=31&z=2016-03-01&g=2016-03-01), en geen algemene maatregel van bestuur als bedoeld in [artikel 31, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007791&paragraaf=8&artikel=31&z=2016-03-01&g=2016-03-01), tot stand zijn gebracht, treden de bepalingen, bedoeld in [artikel 77, de onderdelen b tot en met m](https://wetten.overheid.nl/jci1.3:c:BWBR0007791&paragraaf=11&artikel=77&z=2016-03-01&g=2016-03-01), zoals deze luidden op 31 december 1995, voor die overeenkomsten en algemene maatregel van bestuur in de plaats, tot het tijdstip waarop het in de [paragraaf 8](https://wetten.overheid.nl/jci1.3:c:BWBR0007791&paragraaf=8&z=2016-03-01&g=2016-03-01) bedoelde stelsel in totaliteit in werking kan treden.
 
 2. Voor zolang toepassing wordt gegeven aan het eerste lid, treden het bestuur, onderscheidenlijk de directieraad van de Stichting Pensioenfonds ABP in de plaats van het bestuur, onderscheidenlijk de directieraad van het ABP.
 
@@ -574,7 +582,7 @@ Vervallen
 
 ##### Artikel 61
 
-1. In afwijking van [artikel 77, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0007791&paragraaf=11&artikel=77&z=2016-03-01&g=2016-01-01), blijft hoofdstuk S van de Abp-wet van toepassing ten aanzien van besluiten als bedoeld in het genoemde hoofdstuk die voor 1 januari 1996 genomen zijn.
+1. In afwijking van [artikel 77, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0007791&paragraaf=11&artikel=77&z=2016-03-01&g=2016-03-01), blijft hoofdstuk S van de Abp-wet van toepassing ten aanzien van besluiten als bedoeld in het genoemde hoofdstuk die voor 1 januari 1996 genomen zijn.
 
 2. Ten aanzien van besluiten van het bestuur of de directieraad van de Stichting Pensioenfonds ABP die genomen zijn naar aanleiding van verzoeken of aanvragen die voor 1 januari 1996 op basis van de Abp-wet zijn gedaan, is hoofdstuk S van de Abp-wet van overeenkomstige toepassing.
 
@@ -586,7 +594,7 @@ Vervallen
 
 ##### Artikel 62
 
-In afwijking van [artikel 77, de onderdelen b tot en met m](https://wetten.overheid.nl/jci1.3:c:BWBR0007791&paragraaf=11&artikel=77&z=2016-03-01&g=2016-01-01), blijven de artikelen W 2 en W 3 van de Amp-wet van toepassing ten aanzien van besluiten die voor 1 januari 1996 zijn genomen.
+In afwijking van [artikel 77, de onderdelen b tot en met m](https://wetten.overheid.nl/jci1.3:c:BWBR0007791&paragraaf=11&artikel=77&z=2016-03-01&g=2016-03-01), blijven de artikelen W 2 en W 3 van de Amp-wet van toepassing ten aanzien van besluiten die voor 1 januari 1996 zijn genomen.
 
 ##### Artikel 63
 
@@ -606,7 +614,7 @@ Bevat wijzigingen in andere regelgeving.
 
 ##### Artikel 66a
 
-1. Besluiten van het FAOP uit hoofde van zijn taak ingevolge [artikel 46, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007791&paragraaf=10&artikel=46&z=2016-03-01&g=2016-01-01), die genomen zijn voor 1 januari 1996, worden tot de datum waarop het College van toezicht sociale verzekeringen, bedoeld in artikel 2 van de Organisatiewet sociale verzekeringen, deze zal hebben goedgekeurd, doch uiterlijk tot 1 januari 1997, aangemerkt als te zijn goedgekeurd door dat college, voor zover het betreft besluiten die:
+1. Besluiten van het FAOP uit hoofde van zijn taak ingevolge [artikel 46, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007791&paragraaf=10&artikel=46&z=2016-03-01&g=2016-03-01), die genomen zijn voor 1 januari 1996, worden tot de datum waarop het College van toezicht sociale verzekeringen, bedoeld in artikel 2 van de Organisatiewet sociale verzekeringen, deze zal hebben goedgekeurd, doch uiterlijk tot 1 januari 1997, aangemerkt als te zijn goedgekeurd door dat college, voor zover het betreft besluiten die:
 
 - a. betrekking hebben op het in artikel 49, tweede juncto eerste lid, van de Wet FVP/ABP bedoelde onderdeel van de begroting betreffende de in artikel 21**a** van die wet bedoelde uitvoeringskosten;
 
@@ -652,7 +660,7 @@ Bevat wijzigingen in andere regelgeving.
 
 ##### Artikel 75
 
-1. De Stichting Pensioenfonds ABP heeft voor de kosten van de op 31 december 1995 reeds ingegane pensioenen ingevolge de Abp-wet, alsmede voor de kosten van de aanspraken bedoeld in [artikel 17](https://wetten.overheid.nl/jci1.3:c:BWBR0007791&paragraaf=4&artikel=17&z=2016-03-01&g=2016-01-01), welke ten gevolge van een ongeval veroorzaakt zijn, verhaal op degene die, bij het ontbreken van die voorziening, in verband met het veroorzaken van het ongeval jegens een overheidswerknemer dan wel diens nagelaten betrekkingen naar burgerlijk recht aansprakelijk zou zijn voor de alsdan door dezen geleden schade.
+1. De Stichting Pensioenfonds ABP heeft voor de kosten van de op 31 december 1995 reeds ingegane pensioenen ingevolge de Abp-wet, alsmede voor de kosten van de aanspraken bedoeld in [artikel 17](https://wetten.overheid.nl/jci1.3:c:BWBR0007791&paragraaf=4&artikel=17&z=2016-03-01&g=2016-03-01), welke ten gevolge van een ongeval veroorzaakt zijn, verhaal op degene die, bij het ontbreken van die voorziening, in verband met het veroorzaken van het ongeval jegens een overheidswerknemer dan wel diens nagelaten betrekkingen naar burgerlijk recht aansprakelijk zou zijn voor de alsdan door dezen geleden schade.
 
 2. Voor zover het bestuur van het ABP ingevolge artikel P 1 van de Amp-wet op 31 december 1995 belast was met de uitvoering van op die datum reeds ingegane pensioenen van nagelaten betrekkingen van militairen in de zin van die wet, is het eerste lid ten aanzien van de kosten van die pensioenen van overeenkomstige toepassing, indien die pensioenen zijn ondergebracht bij de Stichting Pensioenfonds ABP.
 
@@ -698,7 +706,7 @@ Ingetrokken worden:
 
 ##### Artikel 78
 
-1. Deze wet treedt wat betreft de [artikelen 4, tweede en zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007791&paragraaf=2&artikel=4&z=2016-03-01&g=2016-01-01), [6](https://wetten.overheid.nl/jci1.3:c:BWBR0007791&paragraaf=2&artikel=6&z=2016-03-01&g=2016-01-01), [10 tot en met 16](https://wetten.overheid.nl/jci1.3:c:BWBR0007791&paragraaf=3&artikel=10&z=2016-03-01&g=2016-01-01), [17, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007791&paragraaf=4&artikel=17&z=2016-03-01&g=2016-01-01), [24, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007791&paragraaf=6&artikel=24&z=2016-03-01&g=2016-01-01), [25 tot en met 31](https://wetten.overheid.nl/jci1.3:c:BWBR0007791&paragraaf=6&artikel=25&z=2016-03-01&g=2016-01-01), [46](https://wetten.overheid.nl/jci1.3:c:BWBR0007791&paragraaf=10&artikel=46&z=2016-03-01&g=2016-01-01), [48](https://wetten.overheid.nl/jci1.3:c:BWBR0007791&paragraaf=10&artikel=48&z=2016-03-01&g=2016-01-01) en [53](https://wetten.overheid.nl/jci1.3:c:BWBR0007791&paragraaf=10&artikel=53&z=2016-03-01&g=2016-01-01) in werking met ingang van de dag na de datum van uitgifte van het **Staatsblad** waarin zij wordt geplaatst en werkt wat deze artikelen betreft terug tot en met 1 augustus 1995.
+1. Deze wet treedt wat betreft de [artikelen 4, tweede en zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007791&paragraaf=2&artikel=4&z=2016-03-01&g=2016-03-01), [6](https://wetten.overheid.nl/jci1.3:c:BWBR0007791&paragraaf=2&artikel=6&z=2016-03-01&g=2016-03-01), [10 tot en met 16](https://wetten.overheid.nl/jci1.3:c:BWBR0007791&paragraaf=3&artikel=10&z=2016-03-01&g=2016-03-01), [17, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007791&paragraaf=4&artikel=17&z=2016-03-01&g=2016-03-01), [24, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007791&paragraaf=6&artikel=24&z=2016-03-01&g=2016-03-01), [25 tot en met 31](https://wetten.overheid.nl/jci1.3:c:BWBR0007791&paragraaf=6&artikel=25&z=2016-03-01&g=2016-03-01), [46](https://wetten.overheid.nl/jci1.3:c:BWBR0007791&paragraaf=10&artikel=46&z=2016-03-01&g=2016-03-01), [48](https://wetten.overheid.nl/jci1.3:c:BWBR0007791&paragraaf=10&artikel=48&z=2016-03-01&g=2016-03-01) en [53](https://wetten.overheid.nl/jci1.3:c:BWBR0007791&paragraaf=10&artikel=53&z=2016-03-01&g=2016-03-01) in werking met ingang van de dag na de datum van uitgifte van het **Staatsblad** waarin zij wordt geplaatst en werkt wat deze artikelen betreft terug tot en met 1 augustus 1995.
 
 2. De overige artikelen van deze wet treden in werking met ingang van 1 januari 1996.
 
