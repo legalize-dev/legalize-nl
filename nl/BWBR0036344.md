@@ -4,7 +4,7 @@ identifier: "BWBR0036344"
 country: "nl"
 rank: "zbo"
 publication_date: "2026-03-01"
-last_updated: "2015-04-01"
+last_updated: "2016-03-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0036344"
 soort: "zbo"
@@ -72,7 +72,7 @@ Besluit:
 
 - c. beoordelingsmodel bij iedere schriftelijke toets.
 
-2. Het beoordelingsmodel wordt door het College voor Toetsen en Examens vastgesteld voor elke schriftelijke toets zoals vermeld in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0036344&bijlage=1&z=2015-04-01&g=2015-04-01).
+2. Het beoordelingsmodel wordt door het College voor Toetsen en Examens vastgesteld voor elke schriftelijke toets zoals vermeld in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0036344&bijlage=1&z=2016-03-01&g=2016-03-01).
 
 ##### Artikel 3. Algemene aanwijzing bij beoordeling schriftelijke toetsen
 
@@ -80,7 +80,7 @@ Voor de uitvoering van een opdracht worden door de eerste en door de tweede corr
 
 ##### Artikel 4. Beoordelingsmodel bij iedere schriftelijke toets
 
-Het beoordelingsmodel bij iedere schriftelijke toets, bedoeld in [artikel 2, eerste lid onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0036344&artikel=2&z=2015-04-01&g=2015-04-01), wordt door het College voor Toetsen en Examens niet eerder bekendgemaakt dan wanneer het College voor Toetsen en Examens heeft vastgesteld, dat de betreffende toetsen zoals vermeld in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0036344&bijlage=1&z=2015-04-01&g=2015-04-01), geen onderdeel meer van een college-examen zullen uitmaken.
+Het beoordelingsmodel bij iedere schriftelijke toets, bedoeld in [artikel 2, eerste lid onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0036344&artikel=2&z=2016-03-01&g=2016-03-01), wordt door het College voor Toetsen en Examens niet eerder bekendgemaakt dan wanneer het College voor Toetsen en Examens heeft vastgesteld, dat de betreffende toetsen zoals vermeld in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0036344&bijlage=1&z=2016-03-01&g=2016-03-01), geen onderdeel meer van een college-examen zullen uitmaken.
 
 ##### Artikel 5. Beoordeling mondelinge examens
 
@@ -88,7 +88,7 @@ Het beoordelingsmodel bij iedere schriftelijke toets, bedoeld in [artikel 2, eer
 
 2. Een mondeling examen wordt afgenomen door twee examinatoren.
 
-3. Het voorschrift voor de beoordeling van de mondelinge examens wordt door het College voor Toetsen en Examens vastgesteld voor elk mondeling examen zoals vermeld in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0036344&bijlage=2&z=2015-04-01&g=2015-04-01).
+3. Het voorschrift voor de beoordeling van de mondelinge examens wordt door het College voor Toetsen en Examens vastgesteld voor elk mondeling examen zoals vermeld in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0036344&bijlage=2&z=2016-03-01&g=2016-03-01).
 
 ##### Artikel 6. Beoordeling praktische examens
 
@@ -96,7 +96,7 @@ Het beoordelingsmodel bij iedere schriftelijke toets, bedoeld in [artikel 2, eer
 
 2. Een praktisch examen wordt afgenomen door twee examinatoren.
 
-3. Het voorschrift voor de beoordeling van de praktische examens wordt door het College voor Toetsen en Examens vastgesteld voor elk praktisch examen zoals vermeld in [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0036344&bijlage=3&z=2015-04-01&g=2015-04-01).
+3. Het voorschrift voor de beoordeling van de praktische examens wordt door het College voor Toetsen en Examens vastgesteld voor elk praktisch examen zoals vermeld in [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0036344&bijlage=3&z=2016-03-01&g=2016-03-01).
 
 ##### Artikel 7. Afwijking
 
@@ -108,7 +108,7 @@ Het College voor Toetsen en Examens kan beslissen, dat in het voorschrift voor d
 
 ##### Artikel 9. Aanpassing
 
-De voorzitter is gemachtigd de vaststellingen als opgenomen in [bijlagen 1](https://wetten.overheid.nl/jci1.3:c:BWBR0036344&bijlage=1&z=2015-04-01&g=2015-04-01), [2](https://wetten.overheid.nl/jci1.3:c:BWBR0036344&bijlage=2&z=2015-04-01&g=2015-04-01) en [3](https://wetten.overheid.nl/jci1.3:c:BWBR0036344&bijlage=3&z=2015-04-01&g=2015-04-01) op onderdelen aan te passen.
+De voorzitter is gemachtigd de vaststellingen als opgenomen in [bijlagen 1](https://wetten.overheid.nl/jci1.3:c:BWBR0036344&bijlage=1&z=2016-03-01&g=2016-03-01), [2](https://wetten.overheid.nl/jci1.3:c:BWBR0036344&bijlage=2&z=2016-03-01&g=2016-03-01) en [3](https://wetten.overheid.nl/jci1.3:c:BWBR0036344&bijlage=3&z=2016-03-01&g=2016-03-01) op onderdelen aan te passen.
 
 ##### Artikel 10. Inwerkingtreding
 
@@ -126,7 +126,84 @@ De [Regeling beoordelingsnormen staatsexamens Voortgezet Onderwijs](https://wett
 
 Deze regeling kan worden aangehaald als Regeling beoordelingsnormen staatsexamens VO en staatsexamens VO BES 2015.
 
-## Bijlage 1. behorende bij de Regeling beoordelingsnormen staatsexamens VO en staatsexamens VO BES 2015, van 9 februari 2015, nummer CvTE-15.00619
+## Bijlage 1. Schriftelijke toetsen bij de college-examens staatsexamens VO en staatsexamens VO BES 2016
+
+Toetsen voor de vakken die zijn opgenomen in bijlage 1, worden eveneens vastgesteld voor het derde tijdvak van de staatsexamens VO en staatsexamens VO BES.
+
+Er zijn beoordelingsmodellen voor de volgende schriftelijke toetsen bij de college-examens:
+
+| schrijfopdracht Nederlandse taal en literatuur |
+| --- |
+| schrijfopdracht Franse taal en literatuur |
+| schrijfopdracht Friese taal en cultuur |
+| schrijfopdracht Duitse taal en literatuur |
+| schrijfopdracht Engelse taal en literatuur |
+| schrijfopdracht Italiaanse taal en literatuur |
+| leesopdracht Italiaanse taal en literatuur |
+| schrijfopdracht Italiaanse taal en literatuur (elementair) |
+| leesopdracht Italiaanse taal en literatuur (elementair) |
+| schrijfopdracht Spaanse taal en literatuur |
+| schrijfopdracht Spaanse taal en literatuur (elementair) |
+| leesopdracht Spaanse taal en literatuur (elementair) |
+| schrijfopdracht Russische taal en literatuur |
+| leesopdracht Russische taal en literatuur (elementair) |
+| schrijfopdracht Turkse taal en literatuur |
+| schrijfopdracht Turkse taal en literatuur (elementair) |
+| leesopdracht Turkse taal en literatuur (elementair) |
+| schrijfopdracht Arabische taal en literatuur |
+| leesopdracht Arabische taal en literatuur (elementair) |
+| maatschappijleer (pilot) |
+| algemene natuurwetenschappen |
+| natuur, leven en technologie |
+| informatica |
+
+| schrijfopdracht Nederlandse taal en literatuur |
+| --- |
+| schrijfopdracht Franse taal en literatuur |
+| schrijfopdracht Friese taal en cultuur |
+| schrijfopdracht Duitse taal en literatuur |
+| schrijfopdracht Engelse taal en literatuur |
+| schrijfopdracht Italiaanse taal en literatuur |
+| leesopdracht Italiaanse taal en literatuur |
+| schrijfopdracht Italiaanse taal en literatuur (elementair) |
+| leesopdracht Italiaanse taal en literatuur (elementair) |
+| schrijfopdracht Spaanse taal en literatuur |
+| schrijfopdracht Spaanse taal en literatuur (elementair) |
+| leesopdracht Spaanse taal en literatuur (elementair) |
+| schrijfopdracht Russische taal en literatuur |
+| leesopdracht Russische taal en literatuur (elementair) |
+| schrijfopdracht Turkse taal en literatuur |
+| schrijfopdracht Turkse taal en literatuur (elementair) |
+| leesopdracht Turkse taal en literatuur (elementair) |
+| schrijfopdracht Arabische taal en literatuur |
+| leesopdracht Arabische taal en literatuur (elementair) |
+| maatschappijleer (pilot) |
+| algemene natuurwetenschappen |
+| natuur, leven en technologie |
+| informatica |
+
+| schrijfopdracht Frans |
+| --- |
+| schrijfopdracht Duits |
+| schrijfopdracht Spaans |
+| schrijfopdracht Turks |
+| maatschappijleer (pilot) |
+
+| schrijfopdracht Franse taal |
+| --- |
+| schrijfopdracht Duitse taal |
+| schrijfopdracht Engelse taal |
+| schrijfopdracht Spaanse taal |
+| schrijfopdracht Turkse taal |
+| maatschappijleer (pilot) |
+
+| schrijfopdracht Franse taal |
+| --- |
+| schrijfopdracht Duitse taal |
+| schrijfopdracht Engelse taal |
+| schrijfopdracht Spaanse taal |
+| schrijfopdracht Turkse taal |
+| maatschappijleer (pilot) |
 
 ### Schriftelijke toetsen staatsexamens VO en staatsexamens VO BES 2015
 
@@ -145,3 +222,155 @@ De volgende mondelinge examens worden afgenomen:
 ### Praktische examens staatsexamens VO en staatsexamens VO BES 2015
 
 De volgende praktische examens worden afgenomen:
+
+## Bijlage 2. Mondelinge examens staatsexamens VO en staatsexamens VO BES 2016
+
+De volgende mondelinge examens worden afgenomen:
+
+| aardrijkskunde |
+| --- |
+| algemene natuurwetenschappen |
+| Arabische taal en literatuur |
+| Arabische taal en literatuur (elementair) |
+| biologie (nieuw programma) |
+| biologie (oud programma) |
+| Duitse taal en literatuur |
+| economie |
+| Engelse taal en literatuur |
+| filosofie |
+| Franse taal en literatuur |
+| Friese taal en cultuur |
+| geschiedenis |
+| Griekse taal en literatuur |
+| informatica |
+| Italiaanse taal en literatuur |
+| Italiaanse taal en literatuur (elementair) |
+| klassieke culturele vorming |
+| Latijnse taal en literatuur |
+| maatschappijleer |
+| maatschappijwetenschappen |
+| management en organisatie |
+| natuur, leven en technologie |
+| natuurkunde (nieuw programma) |
+| natuurkunde (oud programma) |
+| Nederlandse taal en literatuur |
+| profielwerkstuk en oriëntatie op studie en beroep |
+| Russische taal en literatuur |
+| Russische taal en literatuur (elementair) |
+| scheikunde (nieuw programma) |
+| scheikunde (oud programma) |
+| Spaanse taal en literatuur |
+| Spaanse taal en literatuur (elementair) |
+| Turkse taal en literatuur |
+| Turkse taal en literatuur (elementair) |
+| wiskunde A |
+| wiskunde B |
+| wiskunde C |
+| wiskunde D |
+
+| aardrijkskunde |
+| --- |
+| algemene natuurwetenschappen |
+| Arabische taal en literatuur |
+| Arabische taal en literatuur (elementair) |
+| biologie |
+| Duitse taal en literatuur |
+| economie |
+| Engelse taal en literatuur |
+| Filosofie |
+| Franse taal en literatuur |
+| Friese taal en cultuur |
+| geschiedenis |
+| informatica |
+| Italiaanse taal en literatuur |
+| Italiaanse taal en literatuur (elementair) |
+| maatschappijleer |
+| maatschappijwetenschappen |
+| management en organisatie |
+| natuur, leven en technologie |
+| natuurkunde |
+| Nederlandse taal en literatuur |
+| profielwerkstuk en oriëntatie op studie en beroep |
+| Russische taal en literatuur |
+| Russische taal en literatuur (elementair) |
+| scheikunde |
+| Spaanse taal en literatuur |
+| Spaanse taal en literatuur (elementair) |
+| Turkse taal en literatuur |
+| Turkse taal en literatuur (elementair) |
+| wiskunde A |
+| wiskunde B |
+| wiskunde D |
+
+| aardrijkskunde |
+| --- |
+| Arabische taal |
+| biologie |
+| Duitse taal |
+| economie |
+| Engelse taal |
+| Franse taal |
+| Friese taal en cultuur |
+| geschiedenis en staatsinrichting |
+| maatschappijleer (gemeenschappelijk deel) |
+| maatschappijleer II |
+| natuur- en scheikunde I |
+| natuur- en scheikunde II |
+| Nederlandse taal |
+| sectorwerkstuk en oriëntatie op leren en werken |
+| Spaanse taal |
+| Turkse taal |
+| wiskunde |
+
+| aardrijkskunde |
+| --- |
+| Arabische taal |
+| biologie |
+| Duitse taal |
+| economie |
+| Engelse taal |
+| Franse taal |
+| geschiedenis en staatsinrichting |
+| maatschappijleer (gemeenschappelijk deel) |
+| maatschappijleer II |
+| natuur- en scheikunde I |
+| Nederlandse taal |
+| Spaanse taal |
+| Turkse taal |
+| wiskunde |
+
+| aardrijkskunde |
+| --- |
+| Arabische taal |
+| biologie |
+| Duitse taal |
+| economie |
+| Engelse taal |
+| Franse taal |
+| geschiedenis en staatsinrichting |
+| maatschappijleer (gemeenschappelijk deel) |
+| maatschappijleer II |
+| natuur- en scheikunde I |
+| Nederlandse taal |
+| Spaanse taal |
+| Turkse taal |
+| wiskunde |
+
+## Bijlage 3. Praktische examens staatsexamens VO en staatsexamens VO BES 2016
+
+De volgende praktische examens worden afgenomen:
+
+| handvaardigheid |
+| --- |
+| muziek |
+| tekenen |
+
+| handvaardigheid |
+| --- |
+| muziek |
+| tekenen |
+
+| kunstvakken II: beeldende vakken-handvaardigheid/textiele werkvormen |
+| --- |
+| kunstvakken II: beeldende vakken-tekenen |
+| kunstvakken II: muziek |
