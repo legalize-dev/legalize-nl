@@ -4,7 +4,7 @@ identifier: "BWBR0037686"
 country: "nl"
 rank: "zbo"
 publication_date: "2016-03-02"
-last_updated: "2015-01-01"
+last_updated: "2016-03-02"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0037686"
 soort: "zbo"
@@ -34,19 +34,19 @@ entry_into_force: "2016-03-02"
 
 ### Vooraf
 
-Wlz-uitvoerders zijn op basis van de [Wet langdurige zorg (Wlz)](https://wetten.overheid.nl/jci1.3:c:BWBR0035917&wetgeving) verplicht om jaarlijks een uitvoeringsverslag ([artikel 4.3.2 Wlz](https://wetten.overheid.nl/jci1.3:c:BWBR0035917&artikel=4.3.2)) en een financieel verslag ([artikel 4.3.1 Wlz](https://wetten.overheid.nl/jci1.3:c:BWBR0035917&artikel=4.3.2)) op te stellen. De Nederlandse Zorgautoriteit (NZa) heeft de voorschriften hiervoor nader uitgewerkt in het Model uitvoeringsverslag en financieel verslag 2015 Verantwoording Wlz-uitvoerders over de uitvoering Wlz ([Model uitvoeringsverslag en financieel verslag 2015](https://wetten.overheid.nl/jci1.3:c:BWBR0037483&wetgeving)).
+Wlz-uitvoerders zijn op basis van de [Wet langdurige zorg (Wlz)](https://wetten.overheid.nl/jci1.3:c:BWBR0035917) verplicht om jaarlijks een uitvoeringsverslag ([artikel 4.3.2 Wlz](https://wetten.overheid.nl/jci1.3:c:BWBR0035917&artikel=4.3.2)) en een financieel verslag ([artikel 4.3.1 Wlz](https://wetten.overheid.nl/jci1.3:c:BWBR0035917&artikel=4.3.2)) op te stellen. De Nederlandse Zorgautoriteit (NZa) heeft de voorschriften hiervoor nader uitgewerkt in het Model uitvoeringsverslag en financieel verslag 2015 Verantwoording Wlz-uitvoerders over de uitvoering Wlz ([Model uitvoeringsverslag en financieel verslag 2015](https://wetten.overheid.nl/jci1.3:c:BWBR0037483)).
 
-In het Protocol Prestatiemeting Wlz 2015 Normenkader onderzoek uitvoering Wlz ([Protocol Prestatiemeting 2015](https://wetten.overheid.nl/jci1.3:c:BWBR0036635&wetgeving)) hebben wij het normenkader opgenomen. U kunt dit protocol raadplegen op www.nza.nl. Dit normenkader is mede als gevolg van de invoering van de [Wlz](https://wetten.overheid.nl/jci1.3:c:BWBR0035917&wetgeving) aangepast. De indeling in prestatievelden is vervangen door een indeling in hoofddoelen.
+In het Protocol Prestatiemeting Wlz 2015 Normenkader onderzoek uitvoering Wlz ([Protocol Prestatiemeting 2015](https://wetten.overheid.nl/jci1.3:c:BWBR0036635)) hebben wij het normenkader opgenomen. U kunt dit protocol raadplegen op www.nza.nl. Dit normenkader is mede als gevolg van de invoering van de [Wlz](https://wetten.overheid.nl/jci1.3:c:BWBR0035917) aangepast. De indeling in prestatievelden is vervangen door een indeling in hoofddoelen.
 
-In dit Protocol Accountantsonderzoek 2015 Wlz-uitvoerders stelt de NZa regels voor de controle door de Wlz-uitvoerders, de inhoud en inrichting van de verklaring en het accountantsverslag. Het protocol heeft betrekking op de [Wlz](https://wetten.overheid.nl/jci1.3:c:BWBR0035917&wetgeving) en voor bepaalde onderdelen heeft dit protocol ook betrekking op de uitvoering van de [Algemene Wet Bijzondere Ziektekosten](https://wetten.overheid.nl/jci1.3:c:BWBR0002614&wetgeving) (AWBZ) over eerdere jaren.
+In dit Protocol Accountantsonderzoek 2015 Wlz-uitvoerders stelt de NZa regels voor de controle door de Wlz-uitvoerders, de inhoud en inrichting van de verklaring en het accountantsverslag. Het protocol heeft betrekking op de [Wlz](https://wetten.overheid.nl/jci1.3:c:BWBR0035917) en voor bepaalde onderdelen heeft dit protocol ook betrekking op de uitvoering van de [Algemene Wet Bijzondere Ziektekosten](https://wetten.overheid.nl/jci1.3:c:BWBR0002614) (AWBZ) over eerdere jaren.
 
-Voor de uitvoering van de [Wlz](https://wetten.overheid.nl/jci1.3:c:BWBR0035917&wetgeving) hebben zich in totaal twaalf Wlz-uitvoerders aangemeld. De Staatssecretaris van het ministerie van Volksgezondheid, Welzijn en Sport (VWS) heeft voor 2015 tien Wlz-uitvoerders aangewezen als zorgkantoor. Een Wlz-uitvoerder is als zorgkantoor voor één of meer van de 32 zorgkantoorregio’s aangewezen.
+Voor de uitvoering van de [Wlz](https://wetten.overheid.nl/jci1.3:c:BWBR0035917) hebben zich in totaal twaalf Wlz-uitvoerders aangemeld. De Staatssecretaris van het ministerie van Volksgezondheid, Welzijn en Sport (VWS) heeft voor 2015 tien Wlz-uitvoerders aangewezen als zorgkantoor. Een Wlz-uitvoerder is als zorgkantoor voor één of meer van de 32 zorgkantoorregio’s aangewezen.
 
-Het zorgkantoor is verantwoordelijk voor de rechtmatige en doelmatige regionale uitvoering van het persoonsgebonden budget (pgb). Het zorgkantoor is daarnaast verantwoordelijk voor de administratieve werkzaamheden. De overige taken vallen, uitgaande van de wet, onder de verantwoordelijkheid van de Wlz-uitvoerder. Voor het jaar 2015 hebben de zorgkantoren, het ministerie van VWS en de NZa de afspraak gemaakt om het uitvoeringsjaar 2015 te beschouwen als een jaar waarin de uitvoeringsstructuur van de [AWBZ](https://wetten.overheid.nl/jci1.3:c:BWBR0002614&wetgeving), als het ware nog doorloopt.
+Het zorgkantoor is verantwoordelijk voor de rechtmatige en doelmatige regionale uitvoering van het persoonsgebonden budget (pgb). Het zorgkantoor is daarnaast verantwoordelijk voor de administratieve werkzaamheden. De overige taken vallen, uitgaande van de wet, onder de verantwoordelijkheid van de Wlz-uitvoerder. Voor het jaar 2015 hebben de zorgkantoren, het ministerie van VWS en de NZa de afspraak gemaakt om het uitvoeringsjaar 2015 te beschouwen als een jaar waarin de uitvoeringsstructuur van de [AWBZ](https://wetten.overheid.nl/jci1.3:c:BWBR0002614), als het ware nog doorloopt.
 
-Inmiddels is er een convenant gesloten tussen Zorgverzekeraars Nederland (ZN) namens de Wlz-uitvoerders en het ministerie van VWS. De NZa en Zorginstituut Nederland (het Zorginstituut) hebben zich hieraan verbonden. De belangrijkste afspraak daarin is dat het uitgangspunt dat de [Wlz](https://wetten.overheid.nl/jci1.3:c:BWBR0035917&wetgeving) wordt uitgevoerd voor de verzekerden van de Wlz-uitvoerder, wordt vervangen door het uitgangspunt dat de Wlz regionaal wordt uitgevoerd. Verder is hierin een nadere toelichting gegeven over hoe de beheerskosten en de wettelijke reserve Wlz verantwoord moeten worden in de financiële verantwoording.
+Inmiddels is er een convenant gesloten tussen Zorgverzekeraars Nederland (ZN) namens de Wlz-uitvoerders en het ministerie van VWS. De NZa en Zorginstituut Nederland (het Zorginstituut) hebben zich hieraan verbonden. De belangrijkste afspraak daarin is dat het uitgangspunt dat de [Wlz](https://wetten.overheid.nl/jci1.3:c:BWBR0035917) wordt uitgevoerd voor de verzekerden van de Wlz-uitvoerder, wordt vervangen door het uitgangspunt dat de Wlz regionaal wordt uitgevoerd. Verder is hierin een nadere toelichting gegeven over hoe de beheerskosten en de wettelijke reserve Wlz verantwoord moeten worden in de financiële verantwoording.
 
-De twee Wlz-uitvoerders die geen zorgkantoorfunctie uitoefenen, vallen buiten het domein van het [Protocol Prestatiemeting](https://wetten.overheid.nl/jci1.3:c:BWBR0036635&wetgeving). Zij hebben echter wel een rol bij de beoordeling van het functioneren van de zorgkantoren zoals neergelegd in het convenant. Ook voeren zij, net als de Wlz-uitvoerders die wel als zorgkantoor zijn aangewezen, enkele niet gemandateerde en specifieke taken uit. De NZa houdt ook toezicht op de uitvoering van de niet gemandateerde en specifieke Wlz-taken door alle Wlz-uitvoerders.
+De twee Wlz-uitvoerders die geen zorgkantoorfunctie uitoefenen, vallen buiten het domein van het [Protocol Prestatiemeting](https://wetten.overheid.nl/jci1.3:c:BWBR0036635). Zij hebben echter wel een rol bij de beoordeling van het functioneren van de zorgkantoren zoals neergelegd in het convenant. Ook voeren zij, net als de Wlz-uitvoerders die wel als zorgkantoor zijn aangewezen, enkele niet gemandateerde en specifieke taken uit. De NZa houdt ook toezicht op de uitvoering van de niet gemandateerde en specifieke Wlz-taken door alle Wlz-uitvoerders.
 
 De NZa maakt een voorbehoud voor wijzigingen die mogelijk in een addendum op dit protocol bekend moeten worden gemaakt.
 
@@ -56,21 +56,21 @@ De NZa maakt een voorbehoud voor wijzigingen die mogelijk in een addendum op dit
 
 ### 1.1. Algemeen
 
-Op 1 januari 2015 is de [Wlz](https://wetten.overheid.nl/jci1.3:c:BWBR0035917&wetgeving) in werking getreden. Tot 1 januari 2015 was de [AWBZ](https://wetten.overheid.nl/jci1.3:c:BWBR0002614&wetgeving) van toepassing. Hierdoor houdt vanaf 1 januari 2015 de NZa ook toezicht op de financiële rechtmatigheid van het pgb. Voorheen was dit de verantwoordelijkheid van het Zorginstituut.
+Op 1 januari 2015 is de [Wlz](https://wetten.overheid.nl/jci1.3:c:BWBR0035917) in werking getreden. Tot 1 januari 2015 was de [AWBZ](https://wetten.overheid.nl/jci1.3:c:BWBR0002614) van toepassing. Hierdoor houdt vanaf 1 januari 2015 de NZa ook toezicht op de financiële rechtmatigheid van het pgb. Voorheen was dit de verantwoordelijkheid van het Zorginstituut.
 
-In [hoofdstuk 11 van de Wlz](https://wetten.overheid.nl/jci1.3:c:BWBR0035917&hoofdstuk=11) zijn de invoeringsbepalingen en het overgangsrecht opgenomen. Hierin is onder andere opgenomen dat alle rechten en verplichtingen van een zorgverzekeraar van rechtswege overgaan op de Wlz-uitvoerder waarbij de verzekerde is ingeschreven. Indien van toepassing zijn de overgangsbepalingen over de afwikkeling van de [AWBZ](https://wetten.overheid.nl/jci1.3:c:BWBR0002614&wetgeving) in dit document opgenomen bij de betreffende onderdelen.
+In [hoofdstuk 11 van de Wlz](https://wetten.overheid.nl/jci1.3:c:BWBR0035917&hoofdstuk=11) zijn de invoeringsbepalingen en het overgangsrecht opgenomen. Hierin is onder andere opgenomen dat alle rechten en verplichtingen van een zorgverzekeraar van rechtswege overgaan op de Wlz-uitvoerder waarbij de verzekerde is ingeschreven. Indien van toepassing zijn de overgangsbepalingen over de afwikkeling van de [AWBZ](https://wetten.overheid.nl/jci1.3:c:BWBR0002614) in dit document opgenomen bij de betreffende onderdelen.
 
-De NZa heeft voorschriften voor de inrichting van het uitvoeringsverslag en het financieel verslag nader uitgewerkt in het [Model uitvoeringsverslag en financieel verslag 2015](https://wetten.overheid.nl/jci1.3:c:BWBR0037483&wetgeving). Het model bevat voorschriften over hoe Wlz-uitvoerders deze verantwoordings-documenten moeten inrichten.
+De NZa heeft voorschriften voor de inrichting van het uitvoeringsverslag en het financieel verslag nader uitgewerkt in het [Model uitvoeringsverslag en financieel verslag 2015](https://wetten.overheid.nl/jci1.3:c:BWBR0037483). Het model bevat voorschriften over hoe Wlz-uitvoerders deze verantwoordings-documenten moeten inrichten.
 
 Op grond van [artikel 31 van de Wet marktordening gezondheidszorg (Wmg)](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=31) kan de NZa regels stellen voor de controle door de Wlz-uitvoerders, de inhoud en inrichting van de verklaring en het accountantsverslag. De regels voor het accountantsonderzoek en de inhoud en inrichting van het accountantsverslag heeft de NZa vastgelegd in dit Protocol Accountantsonderzoek 2015.
 
-Dit Protocol Accountantsonderzoek 2015 geeft richtlijnen voor het door de accountant uit te voeren onderzoek naar de getrouwheid van de financiële verantwoording en de rechtmatige uitvoering van de [Wlz](https://wetten.overheid.nl/jci1.3:c:BWBR0035917&wetgeving). Het doel van het protocol is niet om de aanpak van het onderzoek voor te schrijven, maar om kaders te geven waarbinnen het onderzoek moet plaatsvinden.
+Dit Protocol Accountantsonderzoek 2015 geeft richtlijnen voor het door de accountant uit te voeren onderzoek naar de getrouwheid van de financiële verantwoording en de rechtmatige uitvoering van de [Wlz](https://wetten.overheid.nl/jci1.3:c:BWBR0035917). Het doel van het protocol is niet om de aanpak van het onderzoek voor te schrijven, maar om kaders te geven waarbinnen het onderzoek moet plaatsvinden.
 
 De accountant geeft de uitkomst van zijn onderzoek weer in een gecombineerde controleverklaring over de getrouwheid en de rechtmatigheid. Ook stelt hij een samenvattende rapportage (een accountantsrapport en een rapport van feitelijke bevindingen) op. Voor de tekst van de controleverklaring maakt de accountant gebruik van het model dat in hoofdstuk 5 van dit protocol is opgenomen. Het accountantsrapport en het rapport van feitelijke bevindingen maakt de accountant op in overeenstemming met de bepalingen in hoofdstuk 6.
 
 De Wlz-uitvoerder moet de verantwoordingsdocumenten vergezeld van de accountantsproducten voor 1 juli van het jaar volgende op het verslagjaar toezenden aan de NZa.
 
-De NZa maakt bij haar toezicht op de rechtmatige en doelmatige uitvoering van de [Wlz](https://wetten.overheid.nl/jci1.3:c:BWBR0035917&wetgeving) zoveel mogelijk gebruik van de verantwoordingsdocumenten van de Wlz-uitvoerder en van de controleverklaring, het accountantsrapport en het rapport van feitelijke bevindingen van de accountant. Daarbij beoordeelt de NZa de toereikendheid van de door de accountant uitgevoerde werkzaamheden en stelt op basis van haar bevindingen haar eigen onderzoekswerkzaamheden vast. Op grond van de verzamelde informatie vormt de NZa zich een oordeel over de rechtmatige en doelmatige uitvoering van de Wlz door de Wlz-uitvoerders en over de rechtmatigheid van de daarmee samenhangende ontvangsten en uitgaven. Jaarlijks brengt de NZa voor 1 december verslag uit over de rechtmatige en doelmatige uitvoering van de Wlz door de Wlz-uitvoerders en het CAK.1Voor het CAK is een separaat model en protocol van toepassing. Deze zijn te raadplegen op www.nza.nl.
+De NZa maakt bij haar toezicht op de rechtmatige en doelmatige uitvoering van de [Wlz](https://wetten.overheid.nl/jci1.3:c:BWBR0035917) zoveel mogelijk gebruik van de verantwoordingsdocumenten van de Wlz-uitvoerder en van de controleverklaring, het accountantsrapport en het rapport van feitelijke bevindingen van de accountant. Daarbij beoordeelt de NZa de toereikendheid van de door de accountant uitgevoerde werkzaamheden en stelt op basis van haar bevindingen haar eigen onderzoekswerkzaamheden vast. Op grond van de verzamelde informatie vormt de NZa zich een oordeel over de rechtmatige en doelmatige uitvoering van de Wlz door de Wlz-uitvoerders en over de rechtmatigheid van de daarmee samenhangende ontvangsten en uitgaven. Jaarlijks brengt de NZa voor 1 december verslag uit over de rechtmatige en doelmatige uitvoering van de Wlz door de Wlz-uitvoerders en het CAK.1Voor het CAK is een separaat model en protocol van toepassing. Deze zijn te raadplegen op www.nza.nl.
 
 ### 1.2. Inzet interne accountant
 
@@ -102,11 +102,11 @@ De samenvattende rapportage bevat de uitkomsten van het onderzoek van de account
 
 ### 3. Procedure onderzoek
 
-De procedure van het onderzoek naar de rechtmatige en doelmatige uitvoering van de [Wlz](https://wetten.overheid.nl/jci1.3:c:BWBR0035917&wetgeving) in 2015 is hierna beschreven.
+De procedure van het onderzoek naar de rechtmatige en doelmatige uitvoering van de [Wlz](https://wetten.overheid.nl/jci1.3:c:BWBR0035917) in 2015 is hierna beschreven.
 
 De Wlz-uitvoerder geeft de accountant opdracht om een onderzoek uit te voeren naar:
 
-Bij deze opdracht vormen het [Model Uitvoeringsverslag en financieel verslag 2015](https://wetten.overheid.nl/jci1.3:c:BWBR0037483&wetgeving), het Protocol Accountantsonderzoek 2015 en het [Protocol Prestatiemeting Wlz 2015](https://wetten.overheid.nl/jci1.3:c:BWBR0036635&wetgeving) het uitgangspunt. De NZa voorziet de Wlz-uitvoerder en de accountant van een exemplaar en stelt deze ook via haar website beschikbaar.
+Bij deze opdracht vormen het [Model Uitvoeringsverslag en financieel verslag 2015](https://wetten.overheid.nl/jci1.3:c:BWBR0037483), het Protocol Accountantsonderzoek 2015 en het [Protocol Prestatiemeting Wlz 2015](https://wetten.overheid.nl/jci1.3:c:BWBR0036635) het uitgangspunt. De NZa voorziet de Wlz-uitvoerder en de accountant van een exemplaar en stelt deze ook via haar website beschikbaar.
 
 De accountant voert zijn onderzoek uit volgens het Protocol Accountantsonderzoek 2015. De accountant rapporteert aan de Wlz-uitvoerder over de uitkomsten van dit onderzoek door middel van een controleverklaring over de getrouwheid en rechtmatigheid en een samenvattende rapportage.
 
@@ -122,7 +122,7 @@ De NZa trekt in voorkomende gevallen, mede aan de hand van de rapportages van de
 
 De Wlz-uitvoerder stuurt vóór 1 juli 2016 naar de NZa:
 
-De NZa kan haar onderzoek naar de rechtmatige en doelmatige uitvoering van de [Wlz](https://wetten.overheid.nl/jci1.3:c:BWBR0035917&wetgeving) door de Wlz-uitvoerder uitvoeren op de locatie van de Wlz-uitvoerder. De NZa neemt voor het tijdstip van onderzoek vooraf contact op met de Wlz-uitvoerder.
+De NZa kan haar onderzoek naar de rechtmatige en doelmatige uitvoering van de [Wlz](https://wetten.overheid.nl/jci1.3:c:BWBR0035917) door de Wlz-uitvoerder uitvoeren op de locatie van de Wlz-uitvoerder. De NZa neemt voor het tijdstip van onderzoek vooraf contact op met de Wlz-uitvoerder.
 
 De NZa maakt bij haar onderzoek zoveel mogelijk gebruik van de werkzaamheden van de accountant. Hiertoe beoordeelt de NZa door middel van een review of de accountant het Protocol Accountantsonderzoek 2015 Wlz-uitvoerders en de van toepassing zijnde wet- en regelgeving volledig en juist heeft gevolgd.
 
@@ -134,11 +134,11 @@ De NZa richt een dossier in waarin de onderbouwing van haar oordeel is opgenomen
 
 De NZa rapporteert, indien nodig, over de uitkomsten van de review aan de accountant via een reviewmemorandum. De NZa stelt de accountant in de gelegenheid om op het concept van het reviewmemorandum te reageren en verwerkt deze reactie in het definitieve memorandum6De NZa maakt het reviewmemorandum niet openbaar. Alle reviewmemoranda (inclusief de reactie van de accountant), die door de NZa zijn opgesteld in het kader van haar toezicht op de rechtmatige en doelmatige uitvoering van de Wlz, zijn beschikbaar voor de Autoriteit Financiële Markten (AFM). Het is de accountant toegestaan het reviewmemorandum te verstrekken aan de Wlz-uitvoerder..
 
-De NZa stelt per Wlz-uitvoerder een conceptrapportage op over de uitvoering van de [Wlz](https://wetten.overheid.nl/jci1.3:c:BWBR0035917&wetgeving). In deze conceptrapportage zijn de bevindingen en conclusies van de NZa opgenomen over de uitvoering van de Wlz in 2015 door de Wlz-uitvoerder. De NZa stemt deze conceptrapportage af met de Wlz-uitvoerder. De Wlz-uitvoerder krijgt de gelegenheid in een formele hoorprocedure te reageren op de bevindingen en conclusies in de rapportage. Bovendien kan de Wlz-uitvoerder reageren op het voorgenomen besluit, indien van toepassing, om de rapportage openbaar te maken.
+De NZa stelt per Wlz-uitvoerder een conceptrapportage op over de uitvoering van de [Wlz](https://wetten.overheid.nl/jci1.3:c:BWBR0035917). In deze conceptrapportage zijn de bevindingen en conclusies van de NZa opgenomen over de uitvoering van de Wlz in 2015 door de Wlz-uitvoerder. De NZa stemt deze conceptrapportage af met de Wlz-uitvoerder. De Wlz-uitvoerder krijgt de gelegenheid in een formele hoorprocedure te reageren op de bevindingen en conclusies in de rapportage. Bovendien kan de Wlz-uitvoerder reageren op het voorgenomen besluit, indien van toepassing, om de rapportage openbaar te maken.
 
 De raad van bestuur van de NZa stelt de definitieve versie van de rapportage vast en neemt een besluit over het openbaarmaken. De NZa stuurt deze versie toe aan de Wlz-uitvoerder en maakt, indien van toepassing, de rapportage openbaar.
 
-Jaarlijks brengt de NZa verslag uit over de rechtmatige en doelmatige uitvoering van de [Wlz](https://wetten.overheid.nl/jci1.3:c:BWBR0035917&wetgeving) door de Wlz-uitvoerders en het CAK. Dit rapport stelt zij jaarlijks vóór 1 december vast en maakt zij openbaar.
+Jaarlijks brengt de NZa verslag uit over de rechtmatige en doelmatige uitvoering van de [Wlz](https://wetten.overheid.nl/jci1.3:c:BWBR0035917) door de Wlz-uitvoerders en het CAK. Dit rapport stelt zij jaarlijks vóór 1 december vast en maakt zij openbaar.
 
 ### 4. Inhoud van het accountantsonderzoek
 
@@ -146,7 +146,7 @@ Jaarlijks brengt de NZa verslag uit over de rechtmatige en doelmatige uitvoering
 
 De Wlz-uitvoerders moeten vóór 1 juli van het jaar volgend op het verantwoordingsjaar bij de NZa de volgende producten aanleveren.
 
-In het uitvoeringsverslag rapporteert de Wlz-uitvoerder over de uitvoering van de [Wlz](https://wetten.overheid.nl/jci1.3:c:BWBR0035917&wetgeving) in het verantwoordingsjaar en geeft hij een overzicht van zijn voornemens voor de uitvoering van de Wlz in het daarop volgende jaar. Hierbij maakt de Wlz-uitvoerder gebruik van kengetallen en indicatoren. Aan het uitvoeringsverslag moet een bestuursverklaring toegevoegd worden.
+In het uitvoeringsverslag rapporteert de Wlz-uitvoerder over de uitvoering van de [Wlz](https://wetten.overheid.nl/jci1.3:c:BWBR0035917) in het verantwoordingsjaar en geeft hij een overzicht van zijn voornemens voor de uitvoering van de Wlz in het daarop volgende jaar. Hierbij maakt de Wlz-uitvoerder gebruik van kengetallen en indicatoren. Aan het uitvoeringsverslag moet een bestuursverklaring toegevoegd worden.
 
 Het Financieel verslag bestaat uit een:
 
@@ -154,17 +154,17 @@ De financiële verantwoording bestaat uit een balans, een exploitatierekening en
 
 In de bestuurlijke verantwoording legt de Wlz-uitvoerder verantwoording af over het gevoerde financieel beheer en over de borging van de rechtmatigheid van de baten en lasten die in de financiële verantwoording zijn opgenomen. Aan de bestuurlijke verantwoording moet een bestuursverklaring toegevoegd worden.
 
-Het normenkader voor deze verantwoordingen wordt gevormd door het [Model uitvoeringsverslag en financieel verslag 2015](https://wetten.overheid.nl/jci1.3:c:BWBR0037483&wetgeving) en het [Protocol Prestatiemeting Wlz 2015](https://wetten.overheid.nl/jci1.3:c:BWBR0036635&wetgeving).
+Het normenkader voor deze verantwoordingen wordt gevormd door het [Model uitvoeringsverslag en financieel verslag 2015](https://wetten.overheid.nl/jci1.3:c:BWBR0037483) en het [Protocol Prestatiemeting Wlz 2015](https://wetten.overheid.nl/jci1.3:c:BWBR0036635).
 
 ### 4.2. Het begrippenkader
 
-Het onderzoek naar de getrouwheid van de financiële verantwoording en de rechtmatige uitvoering van de [Wlz](https://wetten.overheid.nl/jci1.3:c:BWBR0035917&wetgeving) is gericht op het vaststellen of:
+Het onderzoek naar de getrouwheid van de financiële verantwoording en de rechtmatige uitvoering van de [Wlz](https://wetten.overheid.nl/jci1.3:c:BWBR0035917) is gericht op het vaststellen of:
 
 Voor het onderzoek naar de rechtmatigheid van de financiële verantwoording is de invulling van het rechtmatigheidsbegrip van belang.
 
 Rechtmatigheid in algemene zin wil zeggen: in overeenstemming met de relevante wet- en regelgeving. Een proces (of de uitkomsten daarvan) voldoet wel of niet aan de geldende wet- en regelgeving. In die zin is rechtmatigheid een absoluut begrip. De concrete invulling van het begrip is echter afhankelijk van de gekozen normstelling, de aard en reikwijdte van de regelgeving, het soort organisatie en het karakter van het betreffende proces of de uitkomst daarvan. Rechtmatigheid vormt dus een begrip dat gekoppeld is aan het object van onderzoek.
 
-In [hoofdstuk 2 van het Model uitvoeringsverslag en financieel verslag 2015](533309) is het rechtmatigheidsbegrip in detail uitgewerkt. Hierbij wordt onderscheid gemaakt tussen financiële en procedurele rechtmatigheid en tussen directe en gebruikersverantwoordelijkheid. Het model geeft ook aan welke randvoorwaarden bij de invulling van het rechtmatigheids-begrip van toepassing zijn.
+In [hoofdstuk 2 van het Model uitvoeringsverslag en financieel verslag 2015](onbekend) is het rechtmatigheidsbegrip in detail uitgewerkt. Hierbij wordt onderscheid gemaakt tussen financiële en procedurele rechtmatigheid en tussen directe en gebruikersverantwoordelijkheid. Het model geeft ook aan welke randvoorwaarden bij de invulling van het rechtmatigheids-begrip van toepassing zijn.
 
 Bij financiële rechtmatigheid hebben handelingen en beslissingen van een organisatie directe financiële gevolgen. De rechtmatige uitvoering van taken is rechtstreeks gekoppeld aan een geldstroom. Als taken niet rechtmatig worden uitgevoerd, heeft dat financiële consequenties voor de Wlz-uitvoerder. De controleverklaring bij de financiële verantwoording is gericht op financiële rechtmatigheid.
 
@@ -176,13 +176,13 @@ Bij gebruikersverantwoordelijkheid moet de Wlz-uitvoerder zorgen voor de juiste,
 
 Om tot een werkbaar rechtmatigheidsbegrip te komen is een aantal randvoorwaarden van belang:
 
-De accountant hanteert de begripsomschrijvingen uit het [Model uitvoeringsverslag en financieel verslag 2015](https://wetten.overheid.nl/jci1.3:c:BWBR0037483&wetgeving) als uitgangspunt voor het rechtmatigheidsonderzoek dat hij uitvoert. [Bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0037483&bijlage=3). ‘Lijst met circulaires en wet- en regelgeving Wlz’ en [Bijlage 4](https://wetten.overheid.nl/jci1.3:c:BWBR0037483&bijlage=4). ‘Lijst met circulaires en wet- en regelgeving AWBZ’ van het Model uitvoeringsverslag en financieel verslag 2015 geven een limitatieve opsomming van het normenkader voor de rechtmatigheidscontrole door de accountant.
+De accountant hanteert de begripsomschrijvingen uit het [Model uitvoeringsverslag en financieel verslag 2015](https://wetten.overheid.nl/jci1.3:c:BWBR0037483) als uitgangspunt voor het rechtmatigheidsonderzoek dat hij uitvoert. [Bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0037483&bijlage=3). ‘Lijst met circulaires en wet- en regelgeving Wlz’ en [Bijlage 4](https://wetten.overheid.nl/jci1.3:c:BWBR0037483&bijlage=4). ‘Lijst met circulaires en wet- en regelgeving AWBZ’ van het Model uitvoeringsverslag en financieel verslag 2015 geven een limitatieve opsomming van het normenkader voor de rechtmatigheidscontrole door de accountant.
 
 De concrete invulling van het rechtmatigheidsbegrip is afhankelijk van de regelgeving, de organisatie en de betreffende geldstromen.
 
-De Wlz-uitvoerder verantwoordt zich uitsluitend over de doelen en taken waarvoor de verantwoordelijkheid bij hem ligt overeenkomstig de geldende wet- en regelgeving en de afspraken uit het convenant. Als een Wlz-uitvoerder de doelen en taken waarvoor hij verantwoordelijk is uitvoert volgens de geldende wet- en regelgeving en de afspraken uit het convenant, dan zijn de uitvoering van de daaraan gekoppelde processen en de daaruit voortvloeiende geldstromen rechtmatig. In die situatie voert de Wlz-uitvoerder de [Wlz](https://wetten.overheid.nl/jci1.3:c:BWBR0035917&wetgeving) op een rechtmatige manier uit en zijn de baten en lasten die daarmee samenhangen als rechtmatig aan te merken.
+De Wlz-uitvoerder verantwoordt zich uitsluitend over de doelen en taken waarvoor de verantwoordelijkheid bij hem ligt overeenkomstig de geldende wet- en regelgeving en de afspraken uit het convenant. Als een Wlz-uitvoerder de doelen en taken waarvoor hij verantwoordelijk is uitvoert volgens de geldende wet- en regelgeving en de afspraken uit het convenant, dan zijn de uitvoering van de daaraan gekoppelde processen en de daaruit voortvloeiende geldstromen rechtmatig. In die situatie voert de Wlz-uitvoerder de [Wlz](https://wetten.overheid.nl/jci1.3:c:BWBR0035917) op een rechtmatige manier uit en zijn de baten en lasten die daarmee samenhangen als rechtmatig aan te merken.
 
-In het [Model uitvoeringsverslag en financieel verslag 2015](https://wetten.overheid.nl/jci1.3:c:BWBR0037483&wetgeving) zijn de doelen en taken van de Wlz-uitvoerders beschreven. Ook is uiteengezet of deze doelen en taken betrekking hebben op financiële of procedurele rechtmatigheid en in welke verantwoordingsdocumenten de Wlz-uitvoerder zich over deze doelen en taken moet verantwoorden.
+In het [Model uitvoeringsverslag en financieel verslag 2015](https://wetten.overheid.nl/jci1.3:c:BWBR0037483) zijn de doelen en taken van de Wlz-uitvoerders beschreven. Ook is uiteengezet of deze doelen en taken betrekking hebben op financiële of procedurele rechtmatigheid en in welke verantwoordingsdocumenten de Wlz-uitvoerder zich over deze doelen en taken moet verantwoorden.
 
 De relatie tussen doelen, taken, procedurele en financiële rechtmatigheid en de verantwoording daarover door de Wlz-uitvoerder is in Tabel 1. ‘Relatie tussen doelen, taken, rechtmatigheid en verantwoording’ van dit protocol weergegeven.
 
@@ -212,7 +212,7 @@ De accountant moet de plausibiliteit van de cijferbeoordeling beoordelen en zijn
 
 ### 4.4. Toetsingscriteria voor rechtmatigheid
 
-Deze toetsingscriteria hebben betrekking op het deelonderzoek naar de getrouwheid van de financiële verantwoording en de rechtmatigheid van de daarin opgenomen schaden [Wlz](https://wetten.overheid.nl/jci1.3:c:BWBR0035917&wetgeving), schaden [AWBZ](https://wetten.overheid.nl/jci1.3:c:BWBR0002614&wetgeving), bedrijfsopbrengsten Wlz, bedrijfsopbrengsten AWBZ, beheerskosten Wlz en beheerskosten AWBZ.
+Deze toetsingscriteria hebben betrekking op het deelonderzoek naar de getrouwheid van de financiële verantwoording en de rechtmatigheid van de daarin opgenomen schaden [Wlz](https://wetten.overheid.nl/jci1.3:c:BWBR0035917), schaden [AWBZ](https://wetten.overheid.nl/jci1.3:c:BWBR0002614), bedrijfsopbrengsten Wlz, bedrijfsopbrengsten AWBZ, beheerskosten Wlz en beheerskosten AWBZ.
 
 Het gaat om de in de financiële verantwoording en de bestuurlijke verantwoording opgenomen informatie over de taken 3, 8 tot en met 12 en 15 tot en met 20.
 
@@ -226,15 +226,15 @@ Deze taak heeft betrekking op financiële rechtmatigheid. Zorgkantoren maken pro
 
 De accountant onderzoekt of het zorgkantoor uitvoering heeft gegeven aan de taak Bewaking regiobudget. De accountant stelt vast dat:
 
-De accountant hanteert voor zijn onderzoek naar de bewaking van het regiobudget het normenkader zoals uiteengezet in het [Model uitvoeringsverslag en financieel verslag 2015](https://wetten.overheid.nl/jci1.3:c:BWBR0037483&wetgeving) en het [Protocol Prestatiemeting Wlz 2015](https://wetten.overheid.nl/jci1.3:c:BWBR0036635&wetgeving).
+De accountant hanteert voor zijn onderzoek naar de bewaking van het regiobudget het normenkader zoals uiteengezet in het [Model uitvoeringsverslag en financieel verslag 2015](https://wetten.overheid.nl/jci1.3:c:BWBR0037483) en het [Protocol Prestatiemeting Wlz 2015](https://wetten.overheid.nl/jci1.3:c:BWBR0036635).
 
-De accountant stelt vast of de Wlz-uitvoerder zich over deze taak in de bestuurlijke verantwoording juist en volledig heeft verantwoord. De Wlz-uitvoerder heeft zich volledig verantwoord als alle genoemde onderdelen in het [Model uitvoeringsverslag en financieel verslag 2015](https://wetten.overheid.nl/jci1.3:c:BWBR0037483&wetgeving) zijn opgenomen in de bestuurlijke verantwoording.
+De accountant stelt vast of de Wlz-uitvoerder zich over deze taak in de bestuurlijke verantwoording juist en volledig heeft verantwoord. De Wlz-uitvoerder heeft zich volledig verantwoord als alle genoemde onderdelen in het [Model uitvoeringsverslag en financieel verslag 2015](https://wetten.overheid.nl/jci1.3:c:BWBR0037483) zijn opgenomen in de bestuurlijke verantwoording.
 
 De accountant toetst in het kader van de controle van de financiële verantwoording of het zorgkantoor in 2015 binnen de reguliere financiële contracteerruimte is gebleven voor de productieafspraken met de door hem gecontracteerde aanbieders. Hij stelt vast of het totaal van de op
 
 1 november 2015 bij de NZa ingediende productieafspraken 2016 binnen de door de NZa vastgestelde contracteerruimte voor 2016 is gebleven en of de gedeclareerde productie 2015 binnen de afspraken is gebleven. Als het zorgkantoor hier niet binnen is gebleven heeft dit directe financiële gevolgen (financiële rechtmatigheid). Hij toetst ook of het totaal van de afgegeven pgb-beschikkingen 2015 het pgb-subsidieplafond 2015 niet overschrijdt. Overschrijding hiervan heeft eveneens directe financiële gevolgen (financiële rechtmatigheid).
 
-Voor de uitvoering van de [AWBZ](https://wetten.overheid.nl/jci1.3:c:BWBR0002614&wetgeving) zijn de regels van toepassing die in 2014 en in eerdere jaren golden. Deze regels zijn opgenomen in de Modellen Uitvoeringsverslag en financiële verantwoordingen voor de concessiehouders van de betreffende jaren. Deze modellen zijn te raadplegen op www.nza.nl.
+Voor de uitvoering van de [AWBZ](https://wetten.overheid.nl/jci1.3:c:BWBR0002614) zijn de regels van toepassing die in 2014 en in eerdere jaren golden. Deze regels zijn opgenomen in de Modellen Uitvoeringsverslag en financiële verantwoordingen voor de concessiehouders van de betreffende jaren. Deze modellen zijn te raadplegen op www.nza.nl.
 
 De accountant neemt over de volgende punten zijn bevindingen expliciet op in het accountantsrapport:
 
@@ -246,11 +246,11 @@ Het zorgkantoor volgt de ontwikkelingen bij de gecontracteerde zorgaanbieder via
 
 De accountant onderzoekt of het zorgkantoor uitvoering heeft gegeven aan de taak Bewaking continuïteit zorgverlening. De accountant stelt vast dat:
 
-De accountant hanteert voor zijn onderzoek naar de bewaking van de continuïteit van zorgverlening, het normenkader zoals uiteengezet in het [Model uitvoeringsverslag en financieel verslag 2015](https://wetten.overheid.nl/jci1.3:c:BWBR0037483&wetgeving) en het [Protocol Prestatiemeting Wlz 2015](https://wetten.overheid.nl/jci1.3:c:BWBR0036635&wetgeving).
+De accountant hanteert voor zijn onderzoek naar de bewaking van de continuïteit van zorgverlening, het normenkader zoals uiteengezet in het [Model uitvoeringsverslag en financieel verslag 2015](https://wetten.overheid.nl/jci1.3:c:BWBR0037483) en het [Protocol Prestatiemeting Wlz 2015](https://wetten.overheid.nl/jci1.3:c:BWBR0036635).
 
-De accountant stelt vast of de Wlz-uitvoerder zich over deze taak in de bestuurlijke verantwoording juist en volledig heeft verantwoord. De Wlz-uitvoerder heeft zich volledig verantwoord als alle genoemde onderdelen in het [Model uitvoeringsverslag en financieel verslag 2015](https://wetten.overheid.nl/jci1.3:c:BWBR0037483&wetgeving) zijn opgenomen in de bestuurlijke verantwoording.
+De accountant stelt vast of de Wlz-uitvoerder zich over deze taak in de bestuurlijke verantwoording juist en volledig heeft verantwoord. De Wlz-uitvoerder heeft zich volledig verantwoord als alle genoemde onderdelen in het [Model uitvoeringsverslag en financieel verslag 2015](https://wetten.overheid.nl/jci1.3:c:BWBR0037483) zijn opgenomen in de bestuurlijke verantwoording.
 
-Voor de uitvoering van de [AWBZ](https://wetten.overheid.nl/jci1.3:c:BWBR0002614&wetgeving) zijn de regels van toepassing die in 2014 respectievelijk in eerdere jaren golden. Deze regels zijn opgenomen in de Modellen Uitvoeringsverslag en financiële verantwoordingen voor de concessiehouders van de betreffende jaren. Deze modellen zijn te raadplegen op www.nza.nl.
+Voor de uitvoering van de [AWBZ](https://wetten.overheid.nl/jci1.3:c:BWBR0002614) zijn de regels van toepassing die in 2014 respectievelijk in eerdere jaren golden. Deze regels zijn opgenomen in de Modellen Uitvoeringsverslag en financiële verantwoordingen voor de concessiehouders van de betreffende jaren. Deze modellen zijn te raadplegen op www.nza.nl.
 
 De accountant neemt over de volgende punten zijn bevindingen expliciet op in het accountantsrapport:
 
@@ -264,11 +264,11 @@ Het zorgkantoor moet hiertoe beschikken over een adequate cliëntvolgende bedrij
 
 De accountant onderzoekt of het zorgkantoor uitvoering heeft gegeven aan de taak Tijdige, juiste en volledige afhandeling declaraties zorg in natura. De accountant stelt vast dat:
 
-De accountant hanteert voor zijn onderzoek naar de tijdige, juiste en volledige afhandeling van de declaraties voor zorg in natura, het normenkader zoals uiteengezet in het [Model uitvoeringsverslag en financieel verslag 2015](https://wetten.overheid.nl/jci1.3:c:BWBR0037483&wetgeving) en het [Protocol Prestatiemeting Wlz 2015](https://wetten.overheid.nl/jci1.3:c:BWBR0036635&wetgeving).
+De accountant hanteert voor zijn onderzoek naar de tijdige, juiste en volledige afhandeling van de declaraties voor zorg in natura, het normenkader zoals uiteengezet in het [Model uitvoeringsverslag en financieel verslag 2015](https://wetten.overheid.nl/jci1.3:c:BWBR0037483) en het [Protocol Prestatiemeting Wlz 2015](https://wetten.overheid.nl/jci1.3:c:BWBR0036635).
 
-De accountant stelt vast of de Wlz-uitvoerder zich over deze taak in de bestuurlijke verantwoording juist en volledig heeft verantwoord. De Wlz-uitvoerder heeft zich volledig verantwoord als alle genoemde onderdelen in het [Model uitvoeringsverslag en financieel verslag 2015](https://wetten.overheid.nl/jci1.3:c:BWBR0037483&wetgeving) zijn opgenomen in de bestuurlijke verantwoording.
+De accountant stelt vast of de Wlz-uitvoerder zich over deze taak in de bestuurlijke verantwoording juist en volledig heeft verantwoord. De Wlz-uitvoerder heeft zich volledig verantwoord als alle genoemde onderdelen in het [Model uitvoeringsverslag en financieel verslag 2015](https://wetten.overheid.nl/jci1.3:c:BWBR0037483) zijn opgenomen in de bestuurlijke verantwoording.
 
-Voor de uitvoering van de [AWBZ](https://wetten.overheid.nl/jci1.3:c:BWBR0002614&wetgeving) zijn de regels van toepassing die in 2014 respectievelijk in eerdere jaren golden. Deze regels zijn opgenomen in de Modellen Uitvoeringsverslag en financiële verantwoordingen voor de concessiehouders van de betreffende jaren. Deze modellen zijn te raadplegen op www.nza.nl.
+Voor de uitvoering van de [AWBZ](https://wetten.overheid.nl/jci1.3:c:BWBR0002614) zijn de regels van toepassing die in 2014 respectievelijk in eerdere jaren golden. Deze regels zijn opgenomen in de Modellen Uitvoeringsverslag en financiële verantwoordingen voor de concessiehouders van de betreffende jaren. Deze modellen zijn te raadplegen op www.nza.nl.
 
 De accountant neemt over de volgende punten zijn bevindingen expliciet op in het accountantsrapport:
 
@@ -284,9 +284,9 @@ De accountant onderzoekt of het zorgkantoor uitvoering heeft gegeven aan de taak
 
 Ten aanzien van de gegevens die van de SVB worden ontvangen geldt een gebruikersverantwoordelijkheid. Zoals aangegeven in paragraaf 4.2 van dit protocol ‘Het begrippenkader’ hoeft het zorgkantoor de betrouwbaarheid van de aangeleverde gegevens door de SVB niet te toetsen. Indien deze gegevens onvolledig of onbetrouwbaar mochten zijn hoeft het zorgkantoor hierop zelf geen aanvullende controles uit te voeren. Het zorgkantoor blijft wel verantwoordelijk voor de verantwoording over de rechtmatigheid van de uitbetaalde declaraties. Onzekerheden en onjuistheden die bij de beoordeling van de rechtmatigheid door de SVB dan wel door het zorgkantoor zijn geconstateerd moeten opgenomen worden in de foutentabel en door de accountant worden meegenomen in zijn oordeelsvorming.
 
-De accountant hanteert voor zijn onderzoek naar een tijdige, juiste en volledige afhandeling van de declaraties pgb, het normenkader zoals uiteengezet in het [Model uitvoeringsverslag en financieel verslag 2015](https://wetten.overheid.nl/jci1.3:c:BWBR0037483&wetgeving) en het [Protocol Prestatiemeting Wlz 2015](https://wetten.overheid.nl/jci1.3:c:BWBR0036635&wetgeving).
+De accountant hanteert voor zijn onderzoek naar een tijdige, juiste en volledige afhandeling van de declaraties pgb, het normenkader zoals uiteengezet in het [Model uitvoeringsverslag en financieel verslag 2015](https://wetten.overheid.nl/jci1.3:c:BWBR0037483) en het [Protocol Prestatiemeting Wlz 2015](https://wetten.overheid.nl/jci1.3:c:BWBR0036635).
 
-Voor de uitvoering van de [AWBZ](https://wetten.overheid.nl/jci1.3:c:BWBR0002614&wetgeving) zijn de regels van toepassing die in 2014 respectievelijk in eerdere jaren golden. Deze regels zijn opgenomen in de Modellen Uitvoeringsverslag en financiële verantwoordingen voor de concessiehouders van de betreffende jaren. Deze modellen zijn te raadplegen op www.nza.nl.
+Voor de uitvoering van de [AWBZ](https://wetten.overheid.nl/jci1.3:c:BWBR0002614) zijn de regels van toepassing die in 2014 respectievelijk in eerdere jaren golden. Deze regels zijn opgenomen in de Modellen Uitvoeringsverslag en financiële verantwoordingen voor de concessiehouders van de betreffende jaren. Deze modellen zijn te raadplegen op www.nza.nl.
 
 De accountant neemt over de volgende punten zijn bevindingen expliciet op in het accountantsrapport:
 
@@ -296,7 +296,7 @@ Deze taak heeft betrekking op financiële rechtmatigheid.
 
 Voor de materiële controles voor zorg in natura, zoals bedoeld in [artikel 7.2 van de Rlz](https://wetten.overheid.nl/jci1.3:c:BWBR0036014&artikel=7.2), moet het zorgkantoor een adequate organisatie en interne beheersing hebben. De uitvoering van formele en materiële controles voor het pgb wordt behandeld in paragraaf 4.4.4. Paragraaf 4.4.9 behandelt de formele controles voor zorg in natura.
 
-De NZa [Regeling Controle en Administratie Wlz-uitvoerders](https://wetten.overheid.nl/jci1.3:c:BWBR0036909&wetgeving) geeft nadere voorschriften voor het uitvoeren van voldoende materiële controles. De risico’s die gesignaleerd worden op basis van de toepassing van [artikel 10 van deze regeling](https://wetten.overheid.nl/jci1.3:c:BWBR0036909&artikel=10) (EWS) moeten, indien nodig, betrokken worden bij de op te stellen risicoanalyse.
+De NZa [Regeling Controle en Administratie Wlz-uitvoerders](https://wetten.overheid.nl/jci1.3:c:BWBR0036909) geeft nadere voorschriften voor het uitvoeren van voldoende materiële controles. De risico’s die gesignaleerd worden op basis van de toepassing van [artikel 10 van deze regeling](https://wetten.overheid.nl/jci1.3:c:BWBR0036909&artikel=10) (EWS) moeten, indien nodig, betrokken worden bij de op te stellen risicoanalyse.
 
 Het zorgkantoor moet bij de uitvoering van de controles de [Wet bescherming persoonsgegevens](https://wetten.overheid.nl/jci1.3:c:BWBR0011468) (Wbp) in acht nemen. Verder moet hij de specifieke risicoanalyses en detailcontroles duidelijk vastleggen in zijn administratie en de reactie van de zorgaanbieder betrekken bij de uitkomsten.
 
@@ -304,11 +304,11 @@ Het zorgkantoor moet bij de materiële controle allereerst het doel van de contr
 
 De accountant onderzoekt of het zorgkantoor uitvoering heeft gegeven aan de taak Materiële controles. De accountant stelt vast dat:
 
-De accountant hanteert voor zijn onderzoek naar materiële controles het normenkader zoals uiteengezet in het [Model uitvoeringsverslag en financieel verslag 2015](https://wetten.overheid.nl/jci1.3:c:BWBR0037483&wetgeving) en het [Protocol Prestatiemeting Wlz 2015](https://wetten.overheid.nl/jci1.3:c:BWBR0036635&wetgeving).
+De accountant hanteert voor zijn onderzoek naar materiële controles het normenkader zoals uiteengezet in het [Model uitvoeringsverslag en financieel verslag 2015](https://wetten.overheid.nl/jci1.3:c:BWBR0037483) en het [Protocol Prestatiemeting Wlz 2015](https://wetten.overheid.nl/jci1.3:c:BWBR0036635).
 
-De accountant stelt vast of de Wlz-uitvoerder zich over deze taak in de bestuurlijke verantwoording juist en volledig heeft verantwoord. De Wlz-uitvoerder heeft zich volledig verantwoord als alle genoemde onderdelen in het [Model uitvoeringsverslag en financieel verslag 2015](https://wetten.overheid.nl/jci1.3:c:BWBR0037483&wetgeving) zijn opgenomen in de bestuurlijke verantwoording.
+De accountant stelt vast of de Wlz-uitvoerder zich over deze taak in de bestuurlijke verantwoording juist en volledig heeft verantwoord. De Wlz-uitvoerder heeft zich volledig verantwoord als alle genoemde onderdelen in het [Model uitvoeringsverslag en financieel verslag 2015](https://wetten.overheid.nl/jci1.3:c:BWBR0037483) zijn opgenomen in de bestuurlijke verantwoording.
 
-Voor de uitvoering van de [AWBZ](https://wetten.overheid.nl/jci1.3:c:BWBR0002614&wetgeving) zijn de regels van toepassing die in 2014 respectievelijk in eerdere jaren golden. Deze regels zijn opgenomen in de Modellen Uitvoeringsverslag en financiële verantwoordingen voor de concessiehouders van de betreffende jaren. Deze modellen zijn te raadplegen op www.nza.nl.
+Voor de uitvoering van de [AWBZ](https://wetten.overheid.nl/jci1.3:c:BWBR0002614) zijn de regels van toepassing die in 2014 respectievelijk in eerdere jaren golden. Deze regels zijn opgenomen in de Modellen Uitvoeringsverslag en financiële verantwoordingen voor de concessiehouders van de betreffende jaren. Deze modellen zijn te raadplegen op www.nza.nl.
 
 De accountant neemt over de volgende punten zijn bevindingen expliciet op in het accountantsrapport:
 
@@ -318,15 +318,15 @@ Deze taak heeft betrekking op procedurele rechtmatigheid.
 
 Voor de uitvoering van fraudeonderzoek, zoals bedoeld in [artikel 7.10 van de Rlz](https://wetten.overheid.nl/jci1.3:c:BWBR0036014&artikel=7.10), moet het zorgkantoor een adequate organisatie hebben. De risico’s die gesignaleerd worden op basis van de toepassing van [artikel 10 van de Regeling Controle en Administratie Wlz-uitvoerders](https://wetten.overheid.nl/jci1.3:c:BWBR0036909&artikel=10) (EWS) moeten, indien nodig, betrokken worden bij de op te stellen risicoanalyse.
 
-Het zorgkantoor moet beschikken over een strategisch beleid voor de bestrijding van zorgfraude in de [Wlz](https://wetten.overheid.nl/jci1.3:c:BWBR0035917&wetgeving). Dit beleid is zowel gericht op interne als externe fraude. Het zorgkantoor zoekt onder meer aansluiting bij afspraken, gemaakt in het Protocol Verzekeraars & Criminaliteit, de Gedragscode Verwerking Persoonsgegevens Zorgverzekeraars, en de Maatregelenrichtlijn van ZN.
+Het zorgkantoor moet beschikken over een strategisch beleid voor de bestrijding van zorgfraude in de [Wlz](https://wetten.overheid.nl/jci1.3:c:BWBR0035917). Dit beleid is zowel gericht op interne als externe fraude. Het zorgkantoor zoekt onder meer aansluiting bij afspraken, gemaakt in het Protocol Verzekeraars & Criminaliteit, de Gedragscode Verwerking Persoonsgegevens Zorgverzekeraars, en de Maatregelenrichtlijn van ZN.
 
 De accountant onderzoekt of het zorgkantoor uitvoering heeft gegeven aan de taak Bestrijding zorgfraude. De accountant stelt vast dat:
 
-De accountant hanteert voor zijn onderzoek naar de bestrijding van zorgfraude het normenkader zoals uiteengezet in het [Model uitvoeringsverslag en financieel verslag 2015](https://wetten.overheid.nl/jci1.3:c:BWBR0037483&wetgeving) en het [Protocol Prestatiemeting Wlz 2015](https://wetten.overheid.nl/jci1.3:c:BWBR0036635&wetgeving).
+De accountant hanteert voor zijn onderzoek naar de bestrijding van zorgfraude het normenkader zoals uiteengezet in het [Model uitvoeringsverslag en financieel verslag 2015](https://wetten.overheid.nl/jci1.3:c:BWBR0037483) en het [Protocol Prestatiemeting Wlz 2015](https://wetten.overheid.nl/jci1.3:c:BWBR0036635).
 
-De accountant stelt vast of de Wlz-uitvoerder zich over deze taak in de bestuurlijke verantwoording juist en volledig heeft verantwoord. De Wlz-uitvoerder heeft zich volledig verantwoord als alle genoemde onderdelen in het [Model uitvoeringsverslag en financieel verslag 2015](https://wetten.overheid.nl/jci1.3:c:BWBR0037483&wetgeving) zijn opgenomen in de bestuurlijke verantwoording.
+De accountant stelt vast of de Wlz-uitvoerder zich over deze taak in de bestuurlijke verantwoording juist en volledig heeft verantwoord. De Wlz-uitvoerder heeft zich volledig verantwoord als alle genoemde onderdelen in het [Model uitvoeringsverslag en financieel verslag 2015](https://wetten.overheid.nl/jci1.3:c:BWBR0037483) zijn opgenomen in de bestuurlijke verantwoording.
 
-Voor de uitvoering van de [AWBZ](https://wetten.overheid.nl/jci1.3:c:BWBR0002614&wetgeving) zijn de regels van toepassing die in 2014 respectievelijk in eerdere jaren golden. Deze regels zijn opgenomen in de Modellen Uitvoeringsverslag en financiële verantwoordingen voor de concessiehouders van de betreffende jaren. Deze modellen zijn te raadplegen op www.nza.nl.
+Voor de uitvoering van de [AWBZ](https://wetten.overheid.nl/jci1.3:c:BWBR0002614) zijn de regels van toepassing die in 2014 respectievelijk in eerdere jaren golden. Deze regels zijn opgenomen in de Modellen Uitvoeringsverslag en financiële verantwoordingen voor de concessiehouders van de betreffende jaren. Deze modellen zijn te raadplegen op www.nza.nl.
 
 De accountant neemt over de volgende punten zijn bevindingen expliciet op in het accountantsrapport:
 
@@ -334,15 +334,15 @@ De accountant neemt over de volgende punten zijn bevindingen expliciet op in het
 
 Deze taak heeft betrekking op financiële rechtmatigheid.
 
-Zorgkantoren moeten zorg dragen voor een adequate bedrijfsadministratie en voor inhoudelijke registraties die in overeenstemming zijn met de geldende wet- en regelgeving. De NZa [Regeling Controle en Administratie Wlz-uitvoerders](https://wetten.overheid.nl/jci1.3:c:BWBR0036909&wetgeving) geeft verdere invulling aan deze taak.
+Zorgkantoren moeten zorg dragen voor een adequate bedrijfsadministratie en voor inhoudelijke registraties die in overeenstemming zijn met de geldende wet- en regelgeving. De NZa [Regeling Controle en Administratie Wlz-uitvoerders](https://wetten.overheid.nl/jci1.3:c:BWBR0036909) geeft verdere invulling aan deze taak.
 
 De accountant onderzoekt of het zorgkantoor uitvoering heeft gegeven aan de taak Administratieve organisatie en interne beheersing. De accountant stelt vast dat:
 
-De accountant hanteert voor zijn onderzoek naar de administratieve organisatie en interne beheersing, het normenkader zoals uiteengezet in het [Model uitvoeringsverslag en financieel verslag 2015](https://wetten.overheid.nl/jci1.3:c:BWBR0037483&wetgeving) en het [Protocol Prestatiemeting Wlz 2015](https://wetten.overheid.nl/jci1.3:c:BWBR0036635&wetgeving).
+De accountant hanteert voor zijn onderzoek naar de administratieve organisatie en interne beheersing, het normenkader zoals uiteengezet in het [Model uitvoeringsverslag en financieel verslag 2015](https://wetten.overheid.nl/jci1.3:c:BWBR0037483) en het [Protocol Prestatiemeting Wlz 2015](https://wetten.overheid.nl/jci1.3:c:BWBR0036635).
 
-De accountant stelt vast of de Wlz-uitvoerder zich over deze taak in de bestuurlijke verantwoording juist en volledig heeft verantwoord. De Wlz-uitvoerder heeft zich volledig verantwoord als alle genoemde onderdelen in het [Model uitvoeringsverslag en financieel verslag 2015](https://wetten.overheid.nl/jci1.3:c:BWBR0037483&wetgeving) zijn opgenomen in de bestuurlijke verantwoording.
+De accountant stelt vast of de Wlz-uitvoerder zich over deze taak in de bestuurlijke verantwoording juist en volledig heeft verantwoord. De Wlz-uitvoerder heeft zich volledig verantwoord als alle genoemde onderdelen in het [Model uitvoeringsverslag en financieel verslag 2015](https://wetten.overheid.nl/jci1.3:c:BWBR0037483) zijn opgenomen in de bestuurlijke verantwoording.
 
-Voor de uitvoering van de [AWBZ](https://wetten.overheid.nl/jci1.3:c:BWBR0002614&wetgeving) zijn de regels van toepassing die in 2014 respectievelijk in eerdere jaren golden. Deze regels zijn opgenomen in de Modellen Uitvoeringsverslag en financiële verantwoordingen voor de concessiehouders van de betreffende jaren. Deze modellen zijn te raadplegen op www.nza.nl.
+Voor de uitvoering van de [AWBZ](https://wetten.overheid.nl/jci1.3:c:BWBR0002614) zijn de regels van toepassing die in 2014 respectievelijk in eerdere jaren golden. Deze regels zijn opgenomen in de Modellen Uitvoeringsverslag en financiële verantwoordingen voor de concessiehouders van de betreffende jaren. Deze modellen zijn te raadplegen op www.nza.nl.
 
 De accountant neemt over de volgende punten zijn bevindingen expliciet op in het accountantsrapport:
 
@@ -354,11 +354,11 @@ Relevant bij buitenlandzorg zijn8Hierop zijn de goedkeuringstoleranties van toep
 
 De accountant onderzoekt of de Wlz-uitvoerder uitvoering heeft gegeven aan de taak Buitenlandzorg. De accountant stelt vast dat:
 
-De accountant hanteert voor zijn onderzoek naar buitenlandzorg, het normenkader zoals uiteengezet in het [Model uitvoeringsverslag en financieel verslag 2015](https://wetten.overheid.nl/jci1.3:c:BWBR0037483&wetgeving).
+De accountant hanteert voor zijn onderzoek naar buitenlandzorg, het normenkader zoals uiteengezet in het [Model uitvoeringsverslag en financieel verslag 2015](https://wetten.overheid.nl/jci1.3:c:BWBR0037483).
 
-De accountant stelt vast of de Wlz-uitvoerder zich over deze taak in de bestuurlijke verantwoording juist en volledig heeft verantwoord. De Wlz-uitvoerder heeft zich volledig verantwoord als alle genoemde onderdelen in het [Model uitvoeringsverslag en financieel verslag 2015](https://wetten.overheid.nl/jci1.3:c:BWBR0037483&wetgeving) zijn opgenomen in de bestuurlijke verantwoording.
+De accountant stelt vast of de Wlz-uitvoerder zich over deze taak in de bestuurlijke verantwoording juist en volledig heeft verantwoord. De Wlz-uitvoerder heeft zich volledig verantwoord als alle genoemde onderdelen in het [Model uitvoeringsverslag en financieel verslag 2015](https://wetten.overheid.nl/jci1.3:c:BWBR0037483) zijn opgenomen in de bestuurlijke verantwoording.
 
-Voor de uitvoering van de [AWBZ](https://wetten.overheid.nl/jci1.3:c:BWBR0002614&wetgeving) zijn de regels van toepassing die in 2014 respectievelijk in eerdere jaren golden.
+Voor de uitvoering van de [AWBZ](https://wetten.overheid.nl/jci1.3:c:BWBR0002614) zijn de regels van toepassing die in 2014 respectievelijk in eerdere jaren golden.
 
 De accountant neemt over de volgende punten zijn bevindingen expliciet op in het accountantsrapport:
 
@@ -366,17 +366,17 @@ De accountant neemt over de volgende punten zijn bevindingen expliciet op in het
 
 Deze taak heeft betrekking op financiële rechtmatigheid.
 
-Wlz-uitvoerders moeten op grond van [artikel 7.2 van de Rlz](https://wetten.overheid.nl/jci1.3:c:BWBR0036014&artikel=7.2) formele controles uitvoeren. Bij het betalen van zorgaanspraken [Wlz](https://wetten.overheid.nl/jci1.3:c:BWBR0035917&wetgeving) wordt aangesloten bij de uitgangspunten genoemd in artikel 7.2 van de Rlz. De Wlz-uitvoerder moet bij de formele controles nagaan of het tarief dat door een zorgaanbieder voor een prestatie in rekening is gebracht:
+Wlz-uitvoerders moeten op grond van [artikel 7.2 van de Rlz](https://wetten.overheid.nl/jci1.3:c:BWBR0036014&artikel=7.2) formele controles uitvoeren. Bij het betalen van zorgaanspraken [Wlz](https://wetten.overheid.nl/jci1.3:c:BWBR0035917) wordt aangesloten bij de uitgangspunten genoemd in artikel 7.2 van de Rlz. De Wlz-uitvoerder moet bij de formele controles nagaan of het tarief dat door een zorgaanbieder voor een prestatie in rekening is gebracht:
 
 De accountant onderzoekt of de Wlz-uitvoerder uitvoering heeft gegeven aan de taak Het betalen van zorgaanspraken. De accountant stelt vast dat:
 
-Wanneer naar aanleiding van controles blijkt dat zorg niet voldoet aan de rechtmatigheidseisen, dan mag de Wlz-uitvoerder de betreffende zorg niet op basis van de [Wlz](https://wetten.overheid.nl/jci1.3:c:BWBR0035917&wetgeving) bekostigen. Zo nodig moet de Wlz-uitvoerder al betaalde bedragen terugvorderen dan wel de zorgaanbieder de geboekte en gedeclareerde zorg laten corrigeren.
+Wanneer naar aanleiding van controles blijkt dat zorg niet voldoet aan de rechtmatigheidseisen, dan mag de Wlz-uitvoerder de betreffende zorg niet op basis van de [Wlz](https://wetten.overheid.nl/jci1.3:c:BWBR0035917) bekostigen. Zo nodig moet de Wlz-uitvoerder al betaalde bedragen terugvorderen dan wel de zorgaanbieder de geboekte en gedeclareerde zorg laten corrigeren.
 
-De accountant hanteert voor zijn onderzoek naar het betalen van zorgaanspraken het normenkader zoals uiteengezet in het [Model uitvoeringsverslag en financieel verslag 2015](https://wetten.overheid.nl/jci1.3:c:BWBR0037483&wetgeving).
+De accountant hanteert voor zijn onderzoek naar het betalen van zorgaanspraken het normenkader zoals uiteengezet in het [Model uitvoeringsverslag en financieel verslag 2015](https://wetten.overheid.nl/jci1.3:c:BWBR0037483).
 
-De accountant stelt vast of de Wlz-uitvoerder zich over deze taak in de bestuurlijke verantwoording juist en volledig heeft verantwoord. De Wlz-uitvoerder heeft zich volledig verantwoord als alle genoemde onderdelen in het [Model uitvoeringsverslag en financieel verslag 2015](https://wetten.overheid.nl/jci1.3:c:BWBR0037483&wetgeving) zijn opgenomen in de bestuurlijke verantwoording.
+De accountant stelt vast of de Wlz-uitvoerder zich over deze taak in de bestuurlijke verantwoording juist en volledig heeft verantwoord. De Wlz-uitvoerder heeft zich volledig verantwoord als alle genoemde onderdelen in het [Model uitvoeringsverslag en financieel verslag 2015](https://wetten.overheid.nl/jci1.3:c:BWBR0037483) zijn opgenomen in de bestuurlijke verantwoording.
 
-Voor de uitvoering van de [AWBZ](https://wetten.overheid.nl/jci1.3:c:BWBR0002614&wetgeving) zijn de regels van toepassing die in 2014 respectievelijk in eerdere jaren golden. Deze regels zijn opgenomen in de Modellen Uitvoeringsverslag en financiële verantwoordingen voor de concessiehouders van de betreffende jaren. Deze modellen zijn te raadplegen op www.nza.nl.
+Voor de uitvoering van de [AWBZ](https://wetten.overheid.nl/jci1.3:c:BWBR0002614) zijn de regels van toepassing die in 2014 respectievelijk in eerdere jaren golden. Deze regels zijn opgenomen in de Modellen Uitvoeringsverslag en financiële verantwoordingen voor de concessiehouders van de betreffende jaren. Deze modellen zijn te raadplegen op www.nza.nl.
 
 De accountant neemt over de volgende punten zijn bevindingen expliciet op in het accountantsrapport:
 
@@ -388,11 +388,11 @@ Op grond van [artikel 4.2 van het Besluit Wfsv](https://wetten.overheid.nl/jci1.
 
 De accountant onderzoekt de volledige, juiste en tijdige doorbelasting aan het Zorginstituut van de betalingen die rechtstreeks aan zorgaanbieders zijn verricht. De accountant beoordeelt of het niet tijdig of niet volledig doorbelasten van de betalingen duidt op materiële tekortkomingen die effect kunnen hebben op het financiële rechtmatigheidsoordeel. De accountant stelt bij niet-gecorrigeerde, ten onrechte of foutief doorbelaste betalingen vast welke gevolgen deze hebben voor de strekking van zijn controleverklaring.
 
-De accountant hanteert voor zijn onderzoek naar het bij het Zorginstituut in rekening brengen van schaden [Wlz](https://wetten.overheid.nl/jci1.3:c:BWBR0035917&wetgeving)/[AWBZ](https://wetten.overheid.nl/jci1.3:c:BWBR0002614&wetgeving), het kader zoals uiteengezet in het [Model uitvoeringsverslag en financieel verslag 2015](https://wetten.overheid.nl/jci1.3:c:BWBR0037483&wetgeving).
+De accountant hanteert voor zijn onderzoek naar het bij het Zorginstituut in rekening brengen van schaden [Wlz](https://wetten.overheid.nl/jci1.3:c:BWBR0035917)/[AWBZ](https://wetten.overheid.nl/jci1.3:c:BWBR0002614), het kader zoals uiteengezet in het [Model uitvoeringsverslag en financieel verslag 2015](https://wetten.overheid.nl/jci1.3:c:BWBR0037483).
 
-De accountant stelt vast of de Wlz-uitvoerder zich over deze taak in de bestuurlijke verantwoording juist en volledig heeft verantwoord. De Wlz-uitvoerder heeft zich volledig verantwoord als alle genoemde onderdelen in het [Model uitvoeringsverslag en financieel verslag 2015](https://wetten.overheid.nl/jci1.3:c:BWBR0037483&wetgeving) zijn opgenomen in de bestuurlijke verantwoording.
+De accountant stelt vast of de Wlz-uitvoerder zich over deze taak in de bestuurlijke verantwoording juist en volledig heeft verantwoord. De Wlz-uitvoerder heeft zich volledig verantwoord als alle genoemde onderdelen in het [Model uitvoeringsverslag en financieel verslag 2015](https://wetten.overheid.nl/jci1.3:c:BWBR0037483) zijn opgenomen in de bestuurlijke verantwoording.
 
-Voor de uitvoering van de [AWBZ](https://wetten.overheid.nl/jci1.3:c:BWBR0002614&wetgeving) zijn de regels van toepassing die in 2014 respectievelijk in eerdere jaren golden. Deze regels zijn opgenomen in de Modellen Uitvoeringsverslag en financiële verantwoordingen voor de concessiehouders van de betreffende jaren. Deze modellen zijn te raadplegen op www.nza.nl.
+Voor de uitvoering van de [AWBZ](https://wetten.overheid.nl/jci1.3:c:BWBR0002614) zijn de regels van toepassing die in 2014 respectievelijk in eerdere jaren golden. Deze regels zijn opgenomen in de Modellen Uitvoeringsverslag en financiële verantwoordingen voor de concessiehouders van de betreffende jaren. Deze modellen zijn te raadplegen op www.nza.nl.
 
 De accountant neemt over de volgende punten zijn bevindingen expliciet op in het accountantsrapport:
 
@@ -406,27 +406,27 @@ In lijn met het tussen ZN en het ministerie van VWS gesloten convenant dat onder
 
 De Wlz-uitvoerders ontvangen op basis van door het Zorginstituut vastgestelde rekenregels ([Besluit Wfsv, artikelen 4.4](https://wetten.overheid.nl/jci1.3:c:BWBR0019070&artikel=4.4) en [4.5](https://wetten.overheid.nl/jci1.3:c:BWBR0019070&artikel=4.5)) een beheerskostenbudget. De zorgkantoren zijn door alle Wlz-uitvoerders gemandateerd om alle overige taken, bedoeld in artikel 4.4 van het Besluit Wfsv namens hen uit te voeren (Mandaat- en volmacht-overeenkomst 2015). De Wlz-uitvoerders hebben via een clearinghouse constructie hun beheerskostenbudget voor de gemandateerde taken aan de zorgkantoren ter beschikking gesteld.
 
-De aan een Wlz-uitvoerder (binnen de groep waarvan hij deel uitmaakt) toegerekende beheerskosten moeten volgens een bestendige gedragslijn zijn toegerekend. Verder geldt dat de toegerekende beheerskosten transparant, toetsbaar en rekenkundig juist moeten zijn. De Wlz-uitvoerder moet aantonen dat de beheerskosten die ten laste van de [Wlz](https://wetten.overheid.nl/jci1.3:c:BWBR0035917&wetgeving) zijn gebracht daadwerkelijk voor de uitvoering van de Wlz zijn gemaakt. De Wlz-uitvoerder zet het budget in voor zijn beheerskosten, verband houdende met de uitvoering van de Wlz.
+De aan een Wlz-uitvoerder (binnen de groep waarvan hij deel uitmaakt) toegerekende beheerskosten moeten volgens een bestendige gedragslijn zijn toegerekend. Verder geldt dat de toegerekende beheerskosten transparant, toetsbaar en rekenkundig juist moeten zijn. De Wlz-uitvoerder moet aantonen dat de beheerskosten die ten laste van de [Wlz](https://wetten.overheid.nl/jci1.3:c:BWBR0035917) zijn gebracht daadwerkelijk voor de uitvoering van de Wlz zijn gemaakt. De Wlz-uitvoerder zet het budget in voor zijn beheerskosten, verband houdende met de uitvoering van de Wlz.
 
 In overeenstemming met het gesloten convenant wordt het budgetresultaat in het verslagjaar volledig in aanmerking genomen bij de Wlz-uitvoerder die de taken daadwerkelijk heeft uitgevoerd. Het betreft zowel de aangewezen taken als de gemandateerde taken, als de niet gemandateerde taken, als de specifieke taken.
 
-De beheerskosten zijn rechtmatig als deze in ieder geval juist, volgens een bestendige gedragslijn10Met bestendige gedragslijn wordt de grondregel bedoeld, dat gelijksoortige posten op gelijke wijze worden toegerekend binnen één boekingsperiode, alsook van periode tot periode. en op basis van consistente verdeelsleutels zijn toegerekend aan de Wlz-uitvoerders. De beheerskosten moeten aantoonbaar zijn gemaakt voor de uitvoering van de [Wlz](https://wetten.overheid.nl/jci1.3:c:BWBR0035917&wetgeving) en in overeenstemming zijn met de geldende wet- en regelgeving.
+De beheerskosten zijn rechtmatig als deze in ieder geval juist, volgens een bestendige gedragslijn10Met bestendige gedragslijn wordt de grondregel bedoeld, dat gelijksoortige posten op gelijke wijze worden toegerekend binnen één boekingsperiode, alsook van periode tot periode. en op basis van consistente verdeelsleutels zijn toegerekend aan de Wlz-uitvoerders. De beheerskosten moeten aantoonbaar zijn gemaakt voor de uitvoering van de [Wlz](https://wetten.overheid.nl/jci1.3:c:BWBR0035917) en in overeenstemming zijn met de geldende wet- en regelgeving.
 
-De wettelijke reserve [AWBZ](https://wetten.overheid.nl/jci1.3:c:BWBR0002614&wetgeving) is ex [artikel 11.2.4 van de Wlz](https://wetten.overheid.nl/jci1.3:c:BWBR0035917&artikel=11.2.4) overgedragen van het voormalige AWBZ-zorgkantoor naar de als zorgkantoor aangewezen Wlz-uitvoerder ten behoeve van de uitvoering van de [Wlz](https://wetten.overheid.nl/jci1.3:c:BWBR0035917&wetgeving). In artikel 11.2.4 van de Wlz is geregeld dat de beheerskosten Wlz en de beheerskosten voor de afwikkeling van de AWBZ ten laste van de wettelijke reserve gebracht kunnen worden. Het budgetresultaat voor alle door de Wlz-uitvoerder uitgevoerde taken komt ten laste of ten gunste van de wettelijke reserve.
+De wettelijke reserve [AWBZ](https://wetten.overheid.nl/jci1.3:c:BWBR0002614) is ex [artikel 11.2.4 van de Wlz](https://wetten.overheid.nl/jci1.3:c:BWBR0035917&artikel=11.2.4) overgedragen van het voormalige AWBZ-zorgkantoor naar de als zorgkantoor aangewezen Wlz-uitvoerder ten behoeve van de uitvoering van de [Wlz](https://wetten.overheid.nl/jci1.3:c:BWBR0035917). In artikel 11.2.4 van de Wlz is geregeld dat de beheerskosten Wlz en de beheerskosten voor de afwikkeling van de AWBZ ten laste van de wettelijke reserve gebracht kunnen worden. Het budgetresultaat voor alle door de Wlz-uitvoerder uitgevoerde taken komt ten laste of ten gunste van de wettelijke reserve.
 
-In [artikel 4.6 van het besluit Wfsv](https://wetten.overheid.nl/jci1.3:c:BWBR0019070&artikel=4.6) is bepaald dat een Wlz-uitvoerder een reserve uitvoering Wlzaanhoudt. De wettelijke reserve uitvoering [Wlz](https://wetten.overheid.nl/jci1.3:c:BWBR0035917&wetgeving) ultimo enig jaar van de Wlz-uitvoerder mag maximaal twintig procent van het beheerskostenbudget bedragen, zoals bedoeld in [artikel 4.4 van het Besluit Wfsv](https://wetten.overheid.nl/jci1.3:c:BWBR0019070&artikel=4.4) voor dat jaar. Indien het Zorginstituut vaststelt dat de wettelijke reserve het gestelde maximum te boven gaat, dient de Wlz-uitvoerder het door het Zorginstituut vastgestelde bedrag van de overschrijding binnen vier weken in het Flz te storten. Dit is geregeld in artikel 4.6 van het Besluit Wfsv.
+In [artikel 4.6 van het besluit Wfsv](https://wetten.overheid.nl/jci1.3:c:BWBR0019070&artikel=4.6) is bepaald dat een Wlz-uitvoerder een reserve uitvoering Wlzaanhoudt. De wettelijke reserve uitvoering [Wlz](https://wetten.overheid.nl/jci1.3:c:BWBR0035917) ultimo enig jaar van de Wlz-uitvoerder mag maximaal twintig procent van het beheerskostenbudget bedragen, zoals bedoeld in [artikel 4.4 van het Besluit Wfsv](https://wetten.overheid.nl/jci1.3:c:BWBR0019070&artikel=4.4) voor dat jaar. Indien het Zorginstituut vaststelt dat de wettelijke reserve het gestelde maximum te boven gaat, dient de Wlz-uitvoerder het door het Zorginstituut vastgestelde bedrag van de overschrijding binnen vier weken in het Flz te storten. Dit is geregeld in artikel 4.6 van het Besluit Wfsv.
 
 De Wlz-uitvoerder moet een redelijk rendement toerekenen over de wettelijke reserve. In [artikel 4.6 van het besluit Wfsv](https://wetten.overheid.nl/jci1.3:c:BWBR0019070&artikel=4.6) is bepaald dat het Zorginstituut bepaalt welk percentage rente de Wlz-uitvoerder over de reserve geacht wordt te maken.
 
 De accountant onderzoekt of de Wlz-uitvoerder uitvoering heeft gegeven aan de taak Het toerekenen van beheerskosten. De accountant stelt vast dat:
 
-Van de Wlz-uitvoerders en de niet als zorgkantoor aangewezen Wlz-uitvoerders wordt een uitsplitsing verwacht van de beheerskosten [AWBZ](https://wetten.overheid.nl/jci1.3:c:BWBR0002614&wetgeving) enerzijds en [Wlz](https://wetten.overheid.nl/jci1.3:c:BWBR0035917&wetgeving) anderzijds.
+Van de Wlz-uitvoerders en de niet als zorgkantoor aangewezen Wlz-uitvoerders wordt een uitsplitsing verwacht van de beheerskosten [AWBZ](https://wetten.overheid.nl/jci1.3:c:BWBR0002614) enerzijds en [Wlz](https://wetten.overheid.nl/jci1.3:c:BWBR0035917) anderzijds.
 
-De accountant hanteert voor zijn onderzoek naar de rechtmatige toerekening van de beheerskosten [Wlz](https://wetten.overheid.nl/jci1.3:c:BWBR0035917&wetgeving) het normenkader zoals uiteengezet in het [Model uitvoeringsverslag en financieel verslag 2015](https://wetten.overheid.nl/jci1.3:c:BWBR0037483&wetgeving).
+De accountant hanteert voor zijn onderzoek naar de rechtmatige toerekening van de beheerskosten [Wlz](https://wetten.overheid.nl/jci1.3:c:BWBR0035917) het normenkader zoals uiteengezet in het [Model uitvoeringsverslag en financieel verslag 2015](https://wetten.overheid.nl/jci1.3:c:BWBR0037483).
 
-De accountant stelt vast of de Wlz-uitvoerder zich over deze taak in de bestuurlijke verantwoording juist en volledig heeft verantwoord. De Wlz-uitvoerder heeft zich volledig verantwoord als alle genoemde onderdelen in het [Model uitvoeringsverslag en financieel verslag 2015](https://wetten.overheid.nl/jci1.3:c:BWBR0037483&wetgeving) zijn opgenomen in de bestuurlijke verantwoording.
+De accountant stelt vast of de Wlz-uitvoerder zich over deze taak in de bestuurlijke verantwoording juist en volledig heeft verantwoord. De Wlz-uitvoerder heeft zich volledig verantwoord als alle genoemde onderdelen in het [Model uitvoeringsverslag en financieel verslag 2015](https://wetten.overheid.nl/jci1.3:c:BWBR0037483) zijn opgenomen in de bestuurlijke verantwoording.
 
-Voor de uitvoering van de [AWBZ](https://wetten.overheid.nl/jci1.3:c:BWBR0002614&wetgeving) zijn de regels van toepassing die in 2014 respectievelijk in eerdere jaren golden. Deze regels zijn opgenomen in de Modellen Uitvoeringsverslag en financiële verantwoordingen voor de concessiehouders van de betreffende jaren. Deze modellen zijn te raadplegen op www.nza.nl.
+Voor de uitvoering van de [AWBZ](https://wetten.overheid.nl/jci1.3:c:BWBR0002614) zijn de regels van toepassing die in 2014 respectievelijk in eerdere jaren golden. Deze regels zijn opgenomen in de Modellen Uitvoeringsverslag en financiële verantwoordingen voor de concessiehouders van de betreffende jaren. Deze modellen zijn te raadplegen op www.nza.nl.
 
 De accountant neemt over de volgende punten zijn bevindingen expliciet op in het accountantsrapport:
 
@@ -442,33 +442,33 @@ De eerste twee onderdelen zijn uitsluitend van toepassing op de als zorgkantoor 
 
 De Wlz-uitvoerder handelt rechtmatig als hij de rentevergoeding tijdig, volledig en juist met het Flz verrekent, in overeenstemming met de circulaires en regelingen van het Zorginstituut. De rentevergoeding moet in overeenstemming zijn met de geldende wet- en regelgeving.
 
-De accountant hanteert voor zijn onderzoek naar het vaststellen van de volledigheid en juistheid van de rente Flz/AFBZ het normenkader zoals uiteengezet in het [Model uitvoeringsverslag en financieel verslag 2015](https://wetten.overheid.nl/jci1.3:c:BWBR0037483&wetgeving).
+De accountant hanteert voor zijn onderzoek naar het vaststellen van de volledigheid en juistheid van de rente Flz/AFBZ het normenkader zoals uiteengezet in het [Model uitvoeringsverslag en financieel verslag 2015](https://wetten.overheid.nl/jci1.3:c:BWBR0037483).
 
-De accountant stelt vast of de Wlz-uitvoerder zich over deze taak in de bestuurlijke verantwoording juist en volledig heeft verantwoord. De Wlz-uitvoerder heeft zich volledig verantwoord als alle genoemde onderdelen in het [Model uitvoeringsverslag en financieel verslag 2015](https://wetten.overheid.nl/jci1.3:c:BWBR0037483&wetgeving) zijn opgenomen in de bestuurlijke verantwoording.
+De accountant stelt vast of de Wlz-uitvoerder zich over deze taak in de bestuurlijke verantwoording juist en volledig heeft verantwoord. De Wlz-uitvoerder heeft zich volledig verantwoord als alle genoemde onderdelen in het [Model uitvoeringsverslag en financieel verslag 2015](https://wetten.overheid.nl/jci1.3:c:BWBR0037483) zijn opgenomen in de bestuurlijke verantwoording.
 
-Voor de uitvoering van de [AWBZ](https://wetten.overheid.nl/jci1.3:c:BWBR0002614&wetgeving) zijn de regels van toepassing die in 2014 respectievelijk in eerdere jaren golden. Deze regels zijn opgenomen in de Modellen Uitvoeringsverslag en financiële verantwoordingen voor de concessiehouders van de betreffende jaren. Deze modellen zijn te raadplegen op www.nza.nl.
+Voor de uitvoering van de [AWBZ](https://wetten.overheid.nl/jci1.3:c:BWBR0002614) zijn de regels van toepassing die in 2014 respectievelijk in eerdere jaren golden. Deze regels zijn opgenomen in de Modellen Uitvoeringsverslag en financiële verantwoordingen voor de concessiehouders van de betreffende jaren. Deze modellen zijn te raadplegen op www.nza.nl.
 
 De accountant neemt over de volgende punten zijn bevindingen expliciet op in het accountantsrapport:
 
 ### 4.5. Toetsingscriteria voor het onderzoek naar de naleving van de voorschriften van het uitvoeringsverslag
 
-Deze toetsingscriteria hebben betrekking op de naleving van de voorschriften van het uitvoeringsverslag, zoals uitgewerkt in het [Model uitvoeringsverslag en financieel verslag 2015](https://wetten.overheid.nl/jci1.3:c:BWBR0037483&wetgeving). Het gaat om de in het uitvoeringsverslag opgenomen informatie over de taken 1, 2, 4 tot en met 7 en 14.
+Deze toetsingscriteria hebben betrekking op de naleving van de voorschriften van het uitvoeringsverslag, zoals uitgewerkt in het [Model uitvoeringsverslag en financieel verslag 2015](https://wetten.overheid.nl/jci1.3:c:BWBR0037483). Het gaat om de in het uitvoeringsverslag opgenomen informatie over de taken 1, 2, 4 tot en met 7 en 14.
 
-De accountant moet vaststellen of het uitvoeringsverslag is opgesteld in overeenstemming met het [Model uitvoeringsverslag en financieel verslag 2015](https://wetten.overheid.nl/jci1.3:c:BWBR0037483&wetgeving). Hiervoor maakt hij ook gebruik van de bestuursverklaring van de Wlz-uitvoerder. Zijn bevindingen legt hij vast in het rapport van feitelijke bevindingen.
+De accountant moet vaststellen of het uitvoeringsverslag is opgesteld in overeenstemming met het [Model uitvoeringsverslag en financieel verslag 2015](https://wetten.overheid.nl/jci1.3:c:BWBR0037483). Hiervoor maakt hij ook gebruik van de bestuursverklaring van de Wlz-uitvoerder. Zijn bevindingen legt hij vast in het rapport van feitelijke bevindingen.
 
 ### 4.6. Toetsingscriteria voor het onderzoek naar de naleving van de criteria ter bepaling van de outcome-indicatoren.
 
-Deze toetsingscriteria hebben betrekking op of de genoemde criteria ter bepaling van de outcome-indicatoren uit het [Model uitvoeringsverslag en financieel verslag 2015](https://wetten.overheid.nl/jci1.3:c:BWBR0037483&wetgeving) zijn nageleefd. Het gaat om de taken 5 tot en met 9 en 14.
+Deze toetsingscriteria hebben betrekking op of de genoemde criteria ter bepaling van de outcome-indicatoren uit het [Model uitvoeringsverslag en financieel verslag 2015](https://wetten.overheid.nl/jci1.3:c:BWBR0037483) zijn nageleefd. Het gaat om de taken 5 tot en met 9 en 14.
 
 De NZa beoordeelt zorgkantoren vanaf 2014 gedeeltelijk op behaalde resultaten. Doel hiervan is beter inzicht te krijgen in hoe zorgkantoren scoren in relatie tot de doelen die bij de maatschappelijke Wlz-taken horen.
 
-In [paragraaf 5.1 tot en met 5.3](533309) en [5.6 van het Model uitvoeringsverslag en financieel verslag 2015](533309) zijn de outcome-indicatoren voor de taken 5 tot en met 7 en 14 nader uitgewerkt. De Wlz-uitvoerder moet zich over deze outcome-indicatoren verantwoorden in het uitvoeringsverslag.
+In [paragraaf 5.1 tot en met 5.3](onbekend) en [5.6 van het Model uitvoeringsverslag en financieel verslag 2015](onbekend) zijn de outcome-indicatoren voor de taken 5 tot en met 7 en 14 nader uitgewerkt. De Wlz-uitvoerder moet zich over deze outcome-indicatoren verantwoorden in het uitvoeringsverslag.
 
-In [paragraaf 5.4](533309) en [5.5 van het Model uitvoeringsverslag en financieel verslag 2015](533309) zijn de outcome-indicatoren voor de taken 8 en 9 nader uitgewerkt. De Wlz-uitvoerder moet zich over deze outcome-indicatoren verantwoorden in de bestuurlijke verantwoording.
+In [paragraaf 5.4](onbekend) en [5.5 van het Model uitvoeringsverslag en financieel verslag 2015](onbekend) zijn de outcome-indicatoren voor de taken 8 en 9 nader uitgewerkt. De Wlz-uitvoerder moet zich over deze outcome-indicatoren verantwoorden in de bestuurlijke verantwoording.
 
 Bij de uitwerking van de outcome-indicatoren moet de Wlz-uitvoerder rekening houden met hetgeen is opgenomen in de Handreiking Outcome- indicatoren 2015 van ZN.
 
-De accountant stelt vast of de in het uitvoeringsverslag en in de bestuurlijke verantwoording opgenomen outcome-indicatoren aansluiten op de onderliggende registraties en juist zijn berekend overeenkomstig de definities genoemd in het [Model uitvoeringsverslag en financieel verslag 2015](https://wetten.overheid.nl/jci1.3:c:BWBR0037483&wetgeving). Van de accountant wordt geen inhoudelijk oordeel verwacht ten aanzien van de outcome-indicatoren. De accountant geeft zijn bevindingen van zijn onderzoek weer in het rapport van feitelijke bevindingen.
+De accountant stelt vast of de in het uitvoeringsverslag en in de bestuurlijke verantwoording opgenomen outcome-indicatoren aansluiten op de onderliggende registraties en juist zijn berekend overeenkomstig de definities genoemd in het [Model uitvoeringsverslag en financieel verslag 2015](https://wetten.overheid.nl/jci1.3:c:BWBR0037483). Van de accountant wordt geen inhoudelijk oordeel verwacht ten aanzien van de outcome-indicatoren. De accountant geeft zijn bevindingen van zijn onderzoek weer in het rapport van feitelijke bevindingen.
 
 ### 4.7. Betrouwbaarheid en nauwkeurigheid
 
@@ -482,7 +482,7 @@ Om de mate te kunnen bepalen waarin de rechtmatigheid is gewaarborgd, moet de ac
 
 Bron: Normenkader Auditdienst Rijk
 
-Van een fout in de verantwoording is sprake wanneer gebleken is dat een (gedeelte van een) post niet in overeenstemming is met één of meer aspecten van de wet- en regelgeving, het Protocol Accountantsonderzoek 2015 en het [Model uitvoeringsverslag en financieel verslag 2015](https://wetten.overheid.nl/jci1.3:c:BWBR0037483&wetgeving).
+Van een fout in de verantwoording is sprake wanneer gebleken is dat een (gedeelte van een) post niet in overeenstemming is met één of meer aspecten van de wet- en regelgeving, het Protocol Accountantsonderzoek 2015 en het [Model uitvoeringsverslag en financieel verslag 2015](https://wetten.overheid.nl/jci1.3:c:BWBR0037483).
 
 Een onzekerheid in de verantwoording doet zich voor als onvoldoende informatie beschikbaar is om een (gedeelte van een) post als rechtmatig of onrechtmatig aan te merken, kortom als onzekerheid bestaat over de (on)rechtmatigheid van de post.
 
@@ -502,7 +502,7 @@ Voor de niet als zorgkantoor aangewezen Wlz-uitvoerder betreft deze foutentabel 
 
 Bron: NZa
 
-Bij de tabel neemt de accountant een toelichting op over de oorzaak van de fouten en onzekerheden. Hierbij moet aangegeven worden of deze fouten en onzekerheden betrekking hebben op de [Wlz](https://wetten.overheid.nl/jci1.3:c:BWBR0035917&wetgeving) of de [AWBZ](https://wetten.overheid.nl/jci1.3:c:BWBR0002614&wetgeving).
+Bij de tabel neemt de accountant een toelichting op over de oorzaak van de fouten en onzekerheden. Hierbij moet aangegeven worden of deze fouten en onzekerheden betrekking hebben op de [Wlz](https://wetten.overheid.nl/jci1.3:c:BWBR0035917) of de [AWBZ](https://wetten.overheid.nl/jci1.3:c:BWBR0002614).
 
 Bij fouten in de verantwoording kan onderscheid worden gemaakt tussen incidentele en structurele fouten.
 
