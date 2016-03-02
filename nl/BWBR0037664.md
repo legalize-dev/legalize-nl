@@ -4,7 +4,7 @@ identifier: "BWBR0037664"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2016-03-02"
-last_updated: "2016-02-01"
+last_updated: "2016-03-02"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0037664"
 soort: "ministeriele-regeling"
@@ -66,7 +66,7 @@ Aan NLFI wordt een machtiging verleend om namens de Staat:
 
 ##### Artikel 3. Principiële en zwaarwegende beslissingen
 
-Voor zover NLFI bij de uitvoering van [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0037664&artikel=2&z=2016-03-02&g=2016-02-01) van dit besluit principiële of zwaarwegende beslissingen neemt, zijn deze beslissingen onderworpen aan de voorafgaande instemming van de Minister, overeenkomstig [artikel 4 van de Wet NLFI](https://wetten.overheid.nl/jci1.3:c:BWBR0030033&artikel=4).
+Voor zover NLFI bij de uitvoering van [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0037664&artikel=2&z=2016-03-02&g=2016-03-02) van dit besluit principiële of zwaarwegende beslissingen neemt, zijn deze beslissingen onderworpen aan de voorafgaande instemming van de Minister, overeenkomstig [artikel 4 van de Wet NLFI](https://wetten.overheid.nl/jci1.3:c:BWBR0030033&artikel=4).
 
 ##### Artikel 4. Inwerkingtreding
 
