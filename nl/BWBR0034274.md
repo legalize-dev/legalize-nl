@@ -4,7 +4,7 @@ identifier: "BWBR0034274"
 country: "nl"
 rank: "zbo"
 publication_date: "2016-03-04"
-last_updated: "2013-03-15"
+last_updated: "2016-03-04"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0034274"
 soort: "zbo"
@@ -90,7 +90,7 @@ De volgende kosten komen niet voor subsidiëring in aanmerking:
 
 1. Het Vervangingsfonds stelt bij de vaststelling van de jaarlijkse begroting het budget vast, dat per tranche maximaal voor de subsidie Werkplezier beschikbaar is.
 
-2. Het Vervangingsfonds verdeelt het beschikbare budget op de wijze, zoals in [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0034274&hoofdstuk=2&artikel=9&z=2013-03-15&g=2013-03-15) bepaald.
+2. Het Vervangingsfonds verdeelt het beschikbare budget op de wijze, zoals in [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0034274&hoofdstuk=2&artikel=9&z=2016-03-04&g=2016-03-04) bepaald.
 
 3. Het Vervangingsfonds maakt via de site www.vervaningsfonds.nl het beschikbare budget per tranche bekend voor aanvang van iedere tranche.
 
@@ -166,7 +166,7 @@ Een aanvraag voor subsidie voldoet in ieder geval aan de volgende criteria:
 
 2. Als uit de aanvraag van de subsidie volgt, dat voor de beslissing op de verlening een langere termijn nodig is dan de in het eerste lid genoemde termijn, bericht het Vervangingsfonds de werkgever daarvan zo spoedig mogelijk na sluiting van de tranche.
 
-3. Als het Vervangingsfonds de subsidie verleent, betaalt het binnen 6 weken na ontvangst van de bescheiden als bedoeld in [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0034274&hoofdstuk=3&artikel=12&z=2013-03-15&g=2013-03-15) 75% van het voorlopig toegekende subsidiebedrag.
+3. Als het Vervangingsfonds de subsidie verleent, betaalt het binnen 6 weken na ontvangst van de bescheiden als bedoeld in [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0034274&hoofdstuk=3&artikel=12&z=2016-03-04&g=2016-03-04) 75% van het voorlopig toegekende subsidiebedrag.
 
 ##### Artikel 12. Benodigde bescheiden na verlening
 
@@ -180,7 +180,7 @@ Een aanvraag voor subsidie voldoet in ieder geval aan de volgende criteria:
 
 ##### Artikel 13. Verantwoording van de subsidie
 
-1. De werkgever dient uiterlijk binnen dertien maanden na de datum van verlening van de subsidie een aanvraag tot definitieve vaststelling in bij het Vervangingsfonds.
+1. De werkgever dient uiterlijk binnen zestien maanden na de datum van verlening van de subsidie een aanvraag tot definitieve vaststelling in bij het Vervangingsfonds.
 
 2. De werkgever zendt bij de aanvraag tot definitieve vaststelling de originele factuur van de derde, die de activiteiten heeft verricht, mee. De derde verklaart op de originele factuur dat de activiteiten zijn verricht.
 
