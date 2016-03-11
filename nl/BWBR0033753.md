@@ -4,7 +4,7 @@ identifier: "BWBR0033753"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2016-03-11"
-last_updated: "2016-01-02"
+last_updated: "2016-03-11"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0033753"
 soort: "ministeriele-regeling"
@@ -40,21 +40,25 @@ Besluit:
 
 ##### Artikel 1
 
-In dit besluit wordt verstaan onder:
+- a. **INSARAG:** International Search and Rescue Advisory Group, waarvan het secretariaat valt onder de Field Coordination Support Section van de Emergency Service Branch van het Office for the coordination of Humanitarian Affairs van de Verenigde Naties;
 
-- a. **INSARAG:** International Search and Rescue Advisory Group, waarvan het secretariaat valt onder de Field Coordination Support Section van de Emergency Service Branch van het Office for the Coordination of Humanitarian Affairs van de Verenigde Naties;
+- b. **Richtlijn:** INSARAG Guidelines and Methodology, vastgesteld op grond van de resolutie van de algemene Vergadering van de Verenigde Naties 57/170 van 16 december 2002 met betrekking tot Strengthening the effectiveness and coordination of International urban search and rescue assistance;
 
-- b. **Richtlijn:** INSARAG Guidelines and Methodology, vastgesteld op grond van de resolutie van de Algemene Vergadering van de Verenigde Naties 57/170 van 16 december 2002 met betrekking tot Strengthening the effectiveness and coordination of international urban search and rescue assistance;
+- c. **EU Voluntary Pool:** Voluntary pool van het European Civil Protection Mechanism als bedoeld in hoofdstuk 5 van de Commission implementing decision van 16 October 2014 (2014/762/EU) laying down rules for the implementation of Decision No 1313/2013/EU of the European Parliament and of the Council on a Union Civil Protection Mechanism and repealing Commission Decisions 2004/277/EC, Euratom and 2007/606/EC, Euratom;
 
-- c. **IFV:** Instituut Fysieke Veiligheid als bedoeld in [artikel 66 van de Wet veiligheidsregio’s](https://wetten.overheid.nl/jci1.3:c:BWBR0027466&artikel=66);
+- d. **HUSAR:** Heavy Urban Search and Rescue team als bedoeld in E 7.3 van de Richtlijn;
 
-- d. **Veiligheidsregio:** veiligheidsregio als bedoeld in [artikel 1 van de Wet veiligheidsregio’s](https://wetten.overheid.nl/jci1.3:c:BWBR0027466&artikel=1);
+- e. **TAST:** Technical Assistance Support Team als bedoeld in hoofdstuk 4 van de Commission implementing decision van 16 October 2014 (2014/762/EU) laying down rules for the implementation of Decision No 1313/2013/EU of the European Parliament and of the Council on a Union Civil Protection Mechanism and repealing Commission Decisions 2004/277/EC, Euratom and 2007/606/EC, Euratom;
 
-- e. **Ramp:** ramp als bedoeld in [artikel 1 van de Wet veiligheidsregio’s](https://wetten.overheid.nl/jci1.3:c:BWBR0027466&artikel=1);
+- f. **IFV:** Instituut Fysieke Veiligheid als bedoeld in [artikel 66 van de Wet veiligheidsregio’s](https://wetten.overheid.nl/jci1.3:c:BWBR0027466&artikel=66);
 
-- f. **Minister:** Minister van Veiligheid en Justitie;
+- g. **Veiligheidsregio:** veiligheidsregio als bedoeld in [artikel 1 van de Wet veiligheidsregio’s](https://wetten.overheid.nl/jci1.3:c:BWBR0027466&artikel=1);
 
-- g. **USAR.NL:** Urban Search and Rescue Nederland.
+- h. **Ramp:** ramp als bedoeld in [artikel 1 van de Wet veiligheidsregio’s](https://wetten.overheid.nl/jci1.3:c:BWBR0027466&artikel=1);
+
+- i. **Minister:** Minister van Veiligheid en Justitie;
+
+- j. **USAR.NL:** Urban Search and Rescue Nederland.
 
 ##### Artikel 2
 
@@ -62,19 +66,19 @@ In dit besluit wordt verstaan onder:
 
 2. USAR.NL heeft tot taak:
 
-- a. Het verlenen van integrale hulp in het land Nederland na een ramp waarbij mensen of dieren zijn ingesloten of bedolven;
+- a. Het verlenen van hulp in het land Nederland na een ramp waarbij mensen of dieren zijn ingesloten of bedolven.
 
-- b. Het na een ramp in het land Nederland opsporen, redden of in veiligheid brengen van mensen of dieren.
+- b. Het na een ramp in het land Nederland opsporen, redden of in veiligheid brengen van ingesloten of bedolven mensen of dieren.
 
-3. In de in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0033753&artikel=6&z=2016-03-11&g=2016-01-02) van dit besluit bedoelde gevallen kan USAR.NL ook buiten het land Nederland worden ingezet.
+3. In de in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0033753&artikel=6&z=2016-03-11&g=2016-03-11) van dit besluit bedoelde gevallen kan USAR.NL ook buiten het land Nederland worden ingezet.
 
-4. USAR.NL voldoet aan de kwalificatie ‘heavy’, bedoeld in E 7.3 van de Richtlijn.
+4. USAR.NL voldoet aan de kwalificatie HUSAR en TAST en maakt als zodanig onderdeel uit van de EU Voluntary Pool.
 
 ##### Artikel 3
 
 1. Aan het hoofd van USAR.NL staat de landelijk commandant USAR.NL.
 
-2. De landelijk commandant USAR.NL is verantwoordelijk voor de inzetbaarheid en gereedstelling van USAR.NL, draagt zorg voor de inzet van USAR.NL en heeft de leiding bij een inzet.
+2. De landelijk commandant USAR.NL is verantwoordelijk voor het op niveau houden van de operationele capaciteit, de inzetbaarheid en de gereed stelling van USAR.NL en heeft de leiding bij een inzet.
 
 3. Het beheer van USAR.NL berust bij het Instituut Fysieke Veiligheid.
 
@@ -82,9 +86,9 @@ In dit besluit wordt verstaan onder:
 
 1. De Minister benoemt en ontslaat de landelijk commandant USAR.NL en zijn plaatsvervanger, gehoord hebbende de leden van de Stuurgroep USAR.NL, bedoeld in artikel 8, met uitzondering van de landelijke commandant USAR.NL.
 
-2. De landelijk commandant USAR.NL legt jaarlijks schriftelijk verantwoording af over de taakuitvoering aan de Minister en zendt daarvan afschrift aan de Stuurgroep USAR.NL, bedoeld in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0033753&artikel=8&z=2016-03-11&g=2016-01-02).
+2. De landelijk commandant USAR.NL legt jaarlijks schriftelijk verantwoording af over de taakuitvoering aan de Minister en zendt daarvan afschrift aan de Stuurgroep USAR.NL, bedoeld in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0033753&artikel=8&z=2016-03-11&g=2016-03-11).
 
-3. De directeur Risico’s en Dreigingen van het Ministerie van Veiligheid en Justitie is focal point voor de INSARAG. Hij kan deze bevoegdheid mandateren aan de landelijk commandant, bedoeld in het eerste lid.
+3. De directeur Weerbaarheidsverhoging van het Ministerie van Veiligheid en Justitie is focal point voor de INSARAG. Hij kan deze bevoegdheid mandateren aan de landelijk commandant USAR.NL en door hem aangewezen medewerkers van USAR.NL.
 
 ##### Artikel 5
 
@@ -108,13 +112,13 @@ De Minister beslist over de inzet van USAR.NL binnen het land Nederland.
 
 ##### Artikel 7
 
-1. Onverminderd de bevoegdheden van de landelijk commandant USAR.NL, bedoeld in [artikel 3, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0033753&artikel=3&z=2016-03-11&g=2016-01-02), staat USAR.NL bij de inzet in Nederland onder operationeel bevel van de burgemeester of van de voorzitter van de betrokken veiligheidsregio’s.
+1. Onverminderd de bevoegdheden van de landelijk commandant USAR.NL, bedoeld in [artikel 3, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0033753&artikel=3&z=2016-03-11&g=2016-03-11), staat USAR.NL bij de inzet in Nederland onder operationeel bevel van de burgemeester of van de voorzitter van de betrokken veiligheidsregio’s.
 
-2. Onverminderd de bevoegdheden van de landelijk commandant USAR.NL, bedoeld in [artikel 3, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0033753&artikel=3&z=2016-03-11&g=2016-01-02), staat USAR.NL bij de inzet in het buitenland onder operationeel bevel van de daartoe bevoegde lokale autoriteiten.
+2. Onverminderd de bevoegdheden van de landelijk commandant USAR.NL, bedoeld in [artikel 3, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0033753&artikel=3&z=2016-03-11&g=2016-03-11), staat USAR.NL bij de inzet in het buitenland onder operationeel bevel van de daartoe bevoegde lokale autoriteiten.
 
 ##### Artikel 8
 
-1. Er is een Stuurgroep USAR.NL die de Minister adviseert over beleid en beheer inzake USAR.NL.
+1. Er is een Stuurgroep USAR.NL die de Minister en het bestuur van het IFV adviseert over beleid en beheer inzake USAR.NL.
 
 2. De Stuurgroep USAR.NL staat onder voorzitterschap van de directeur Weerbaarheidsverhoging van het Ministerie van Veiligheid en Justitie en bestaat verder uit:
 
