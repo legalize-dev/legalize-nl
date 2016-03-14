@@ -4,7 +4,7 @@ identifier: "BWBR0037703"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2016-03-14"
-last_updated: "2016-01-01"
+last_updated: "2016-03-14"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0037703"
 soort: "ministeriele-regeling"
@@ -62,7 +62,7 @@ De Commissie heeft tot taak:
 
 1. De Commissie bestaat uit een voorzitter en ten hoogste drie andere leden.
 
-2. De leden van de Commissie worden door de Minister benoemd op grond van de deskundigheid die nodig is voor een goede vervulling van de in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0037703&artikel=3&z=2016-03-14&g=2016-01-01) genoemde taken.
+2. De leden van de Commissie worden door de Minister benoemd op grond van de deskundigheid die nodig is voor een goede vervulling van de in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0037703&artikel=3&z=2016-03-14&g=2016-03-14) genoemde taken.
 
 3. De Minister benoemt de voorzitter en overige leden voor een periode van drie jaar. Herbenoeming is eenmaal mogelijk voor een gelijke periode.
 
