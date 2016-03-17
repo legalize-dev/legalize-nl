@@ -4,7 +4,7 @@ identifier: "BWBR0037721"
 country: "nl"
 rank: "amvb"
 publication_date: "2016-04-01"
-last_updated: "2016-01-01"
+last_updated: "2016-03-17"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0037721"
 soort: "AMvB"
@@ -70,11 +70,11 @@ Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel IX
 
-Dit onderdeel is nog niet inwerking getreden
+Dit besluit treedt in werking met ingang van 1 april 2016, met uitzondering van [artikel I, onderdeel S](https://wetten.overheid.nl/jci1.3:c:BWBR0037721&artikel=I&z=2016-03-17&g=2016-03-17), dat in werking treedt met ingang van de dag na de datum van uitgifte van het Staatsblad waarin dit besluit wordt geplaatst en terugwerkt tot en met 1 januari 2016.
 
 ##### Artikel X
 
-Dit onderdeel is nog niet inwerking getreden
+Dit besluit wordt aangehaald als: Wijzigingsbesluit financiële markten 2016.
 
 Op de voordracht van Onze Minister van Financiën van 15 september 2015, FM/2015/1319 M, directie Financiële Markten;
 
