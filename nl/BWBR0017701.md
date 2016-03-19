@@ -4,7 +4,7 @@ identifier: "BWBR0017701"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-01-01"
-last_updated: "2016-01-01"
+last_updated: "2016-03-19"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0017701"
 soort: "ministeriele-regeling"
@@ -71,19 +71,25 @@ De opgave, bedoeld in [artikel 38c, eerste lid, onderdeel a](https://wetten.over
 
 Bij het doen van de in [artikel 38c, eerste lid, onderdeel a, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0015926&artikel=38c) bedoelde opgave kan gebruik worden gemaakt van de volgende procedures:
 
-- a. verstrekking van een computerbestand als bedoeld in [artikel 3, eerste lid, onderdeel a of b](https://wetten.overheid.nl/jci1.3:c:BWBR0017701&artikel=3&z=2016-03-19&g=2016-01-01), door middel van een door het CBS goedgekeurde procedure voor elektronische gegevensoverdracht;
+- a. verstrekking van een computerbestand als bedoeld in [artikel 3, eerste lid, onderdeel a of b](https://wetten.overheid.nl/jci1.3:c:BWBR0017701&artikel=3&z=2016-03-19&g=2016-03-19), door middel van een door het CBS goedgekeurde procedure voor elektronische gegevensoverdracht;
 
-- b. toezending van de in [artikel 3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017701&artikel=3&z=2016-03-19&g=2016-01-01), bedoelde bescheiden.
+- b. toezending van de in [artikel 3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017701&artikel=3&z=2016-03-19&g=2016-03-19), bedoelde bescheiden.
 
 ##### Artikel 5
 
-1. De hoogte van de in artikel 10, eerste lid, van verordening 638/2004 bedoelde statistische drempels wordt vastgesteld op € 1.500.000 aan waarde van de per jaar vanuit de andere lidstaten van de Europese Unie ontvangen of naar die lidstaten verzonden goederen.
+1. De hoogte van de in artikel 10, eerste lid, van verordening 638/2004 bedoelde statistische drempels wordt vastgesteld op:
 
-2. De in het eerste lid genoemde hoogte van de statistische drempels geldt voor de jaren 2014 en 2015.
+- a. € 1.000.000,– aan waarde van de per jaar vanuit de andere lidstaten van de Europese Unie ontvangen goederen;
+
+- b. € 1.200.000,– aan waarde van de per jaar naar de andere lidstaten van de Europese Unie verzonden goederen.
+
+2. De in het eerste lid genoemde hoogte van de statistische drempels geldt voor de jaren 2016 en 2017.
 
 ##### Artikel 6
 
-Uiterlijk op de tiende werkdag van elke maand wordt de in [artikel 38c, eerste lid, onderdeel a, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0015926&artikel=38c) bedoelde opgave over de daaraan voorafgaande maand verstrekt.
+1. Uiterlijk op de tiende werkdag van elke maand wordt de in [artikel 38c, eerste lid, onderdeel a, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0015926&artikel=38c) bedoelde opgave over de daaraan voorafgaande maand verstrekt.
+
+2. In afwijking van het eerste lid wordt uiterlijk op de zestigste kalenderdag van elk jaar de in [artikel 38c, eerste lid, onderdeel a, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0015926&artikel=38c) bedoelde opgave over het daaraan voorafgaande jaar verstrekt, indien de directeur-generaal van het CBS de mogelijkheid heeft geboden om jaaropgave te doen.
 
 ##### Artikel 7
 
