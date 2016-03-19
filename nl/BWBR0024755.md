@@ -4,7 +4,7 @@ identifier: "BWBR0024755"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2022-07-08"
-last_updated: "2012-01-01"
+last_updated: "2016-03-19"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0024755"
 soort: "ministeriele-regeling"
@@ -62,7 +62,7 @@ In deze regeling wordt verstaan onder:
 
 - h. **richtlijn:** [richtlijn nr. 2005/36/EG](32005L0036) van het Europees Parlement en de Raad van de Europese Unie van 7 september 2005, betreffende de erkenning van beroepskwalificaties (PbEG, L 255);
 
-- i. **wet:** [Algemene wet erkenning EG-beroepskwalificaties](https://wetten.overheid.nl/jci1.3:c:BWBR0023066);
+- i. **wet:** [Algemene wet erkenning EU-beroepskwalificaties](https://wetten.overheid.nl/jci1.3:c:BWBR0023066);
 
 - j. **wet BIG:** [Wet op de beroepen in de individuele gezondheidszorg](https://wetten.overheid.nl/jci1.3:c:BWBR0006251).
 
@@ -138,15 +138,9 @@ Indien een erkenning van beroepskwalificaties wordt aangevraagd voor het beroep 
 
 ##### Artikel 6
 
-1. Voorafgaand aan de eerste dienstverrichting controleert de minister de beroepskwalificaties van de dienstverrichter die:
+1. Voorafgaand aan de eerste dienstverrichting controleert de minister de beroepskwalificaties van de dienstverrichter die een beroep uitoefent waarvoor op grond van [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&artikel=3) of [14 van de Wet BIG](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&artikel=14) een register is ingesteld en de beroepsbeoefenaar niet op grond van titel III, hoofdstuk III, van de richtlijn in aanmerking komt voor erkenning op basis van de coördinatie van de minimumopleidingseisen.
 
-- –. het beroep uitoefent van apotheker, arts, tandarts, verloskundige of verpleegkundige en niet in aanmerking komt voor automatische erkenning op grond van titel III, hoofdstuk III van de richtlijn op basis van de coördinatie van de minimumopleidingseisen;
-
-- –. het beroep uitoefent van fysiotherapeut, gezondheidszorgpsycholoog of
-
-psychotherapeut.
-
-2. In aanvulling op de documenten genoemd in [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024755&artikel=5&z=2012-01-01&g=2012-01-01), verstrekt de dienstverrichter voor de controle de documenten, genoemd in [artikel 2, tweede lid, onderdeel d, e en i](https://wetten.overheid.nl/jci1.3:c:BWBR0024755&artikel=2&z=2012-01-01&g=2012-01-01).
+2. In aanvulling op de documenten genoemd in [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024755&artikel=5&z=2016-03-19&g=2016-03-19), verstrekt de dienstverrichter voor de controle de documenten, genoemd in [artikel 2, tweede lid, onderdeel d, e en i](https://wetten.overheid.nl/jci1.3:c:BWBR0024755&artikel=2&z=2016-03-19&g=2016-03-19).
 
 3. Teneinde te kunnen beoordelen of de situatie, genoemd in [artikel 27, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0023066&artikel=27) zich voordoet, wint de minister advies in van de commissie.
 
@@ -158,4 +152,6 @@ De commissie laat de minister weten of naar haar oordeel de situatie bedoeld in 
 
 Deze regeling treedt in werking met ingang van de tweede dag na dagtekening van de Staatscourant waarin zij wordt geplaatst.
 
-Deze regeling wordt aangehaald als: Regeling erkenning EG-beroepskwalificaties beroepen in de individuele gezondheidszorg.
+##### Artikel 8
+
+Deze regeling wordt aangehaald als: Regeling erkenning EU-beroepskwalificaties beroepen in de individuele gezondheidszorg.
