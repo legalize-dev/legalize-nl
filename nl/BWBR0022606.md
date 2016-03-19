@@ -4,7 +4,7 @@ identifier: "BWBR0022606"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-02-21"
-last_updated: "2013-11-07"
+last_updated: "2016-03-19"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0022606"
 soort: "ministeriele-regeling"
@@ -74,7 +74,7 @@ Bij het gebruik maken van een academische titel verleend in de lidstaat van oors
 
 ##### Artikel 3
 
-1. Als bewijs van een verworven vakbekwaamheid die geacht kan worden gelijkwaardig te zijn aan de krachtens [artikel 18 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&artikel=18) gestelde opleidingseisen met betrekking tot de arts, gelden de getuigschriften die in bijlage V, onder 5.1.1. van de richtlijn worden genoemd en de getuigschriften die in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0022606&bijlage=1&z=2013-11-07&g=2013-11-07) van deze regeling worden genoemd, voor zover de getuigschriften zijn behaald als gevolg van een opleiding die is begonnen ná de desbetreffende daarbij genoemde referentiedatum en indien zij zijn afgegeven door de bevoegde opleidingsinstelling.
+1. Als bewijs van een verworven vakbekwaamheid die geacht kan worden gelijkwaardig te zijn aan de krachtens [artikel 18 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&artikel=18) gestelde opleidingseisen met betrekking tot de arts, gelden de getuigschriften die in bijlage V, onder 5.1.1. van de richtlijn worden genoemd en de getuigschriften die in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0022606&bijlage=1&z=2016-03-19&g=2016-03-19) van deze regeling worden genoemd, voor zover de getuigschriften zijn behaald als gevolg van een opleiding die is begonnen ná de desbetreffende daarbij genoemde referentiedatum en indien zij zijn afgegeven door de bevoegde opleidingsinstelling.
 
 2. Indien het in het eerste lid bedoelde getuigschrift is behaald als gevolg van een opleiding die vóór de in de bijlagen genoemde referentiedatum is begonnen, geldt dit getuigschrift als bewijs van een verworven vakbekwaamheid indien het vergezeld gaat van een verklaring van de daartoe bevoegde autoriteit van de desbetreffende lidstaat of andere overeenkomstsluitende staat waarin wordt bevestigd dat de bezitter van het getuigschrift de werkzaamheden van arts gedurende ten minste drie opeenvolgende jaren tijdens de vijf jaren voorafgaande aan de afgifte van de verklaring daadwerkelijk en op wettige wijze heeft uitgeoefend.
 
@@ -82,13 +82,13 @@ Bij het gebruik maken van een academische titel verleend in de lidstaat van oors
 
 ##### Artikel 4
 
-Als bewijs van een verworven vakbekwaamheid als bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0022606&hoofdstuk=2&artikel=3&z=2013-11-07&g=2013-11-07) gelden tevens diploma’s, certificaten en andere titels van arts die voor 3 oktober 1990 zijn afgegeven door de voormalige Duitse Democratische Republiek, of ter verwerving waarvan de opleiding vóór die datum in dat land is begonnen, indien:
+Als bewijs van een verworven vakbekwaamheid als bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0022606&hoofdstuk=2&artikel=3&z=2016-03-19&g=2016-03-19) gelden tevens diploma’s, certificaten en andere titels van arts die voor 3 oktober 1990 zijn afgegeven door de voormalige Duitse Democratische Republiek, of ter verwerving waarvan de opleiding vóór die datum in dat land is begonnen, indien:
 
 - –. de betreffende autoriteiten een verklaring afgeven waaruit blijkt dat die onderdanen tijdens de vijf aan de afgifte van de verklaring voorafgaande jaren de bedoelde werkzaamheden gedurende ten minste drie opeenvolgende jaren daadwerkelijk en op rechtmatige wijze op hun grondgebied hebben verricht.
 
 ##### Artikel 5
 
-Als bewijs van een verworven vakbekwaamheid als bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0022606&hoofdstuk=2&artikel=3&z=2013-11-07&g=2013-11-07) gelden tevens diploma’s, certificaten en andere titels van arts die voor 1 januari 1993 zijn afgegeven door het voormalige Tsjecho-Slowakije, of ter verwerving waarvan de opleiding vóór die datum in dat land is begonnen, indien:
+Als bewijs van een verworven vakbekwaamheid als bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0022606&hoofdstuk=2&artikel=3&z=2016-03-19&g=2016-03-19) gelden tevens diploma’s, certificaten en andere titels van arts die voor 1 januari 1993 zijn afgegeven door het voormalige Tsjecho-Slowakije, of ter verwerving waarvan de opleiding vóór die datum in dat land is begonnen, indien:
 
 - –. de betreffende autoriteiten verklaren, dat die titels, wat betreft de toegang tot en de uitoefening van het betreffende beroep, op Tsjechisch, respectievelijk Slowaaks grondgebied dezelfde rechtsgeldigheid hebben als de Tsjechische respectievelijk Slowaakse titels van arts;
 
@@ -96,7 +96,7 @@ Als bewijs van een verworven vakbekwaamheid als bedoeld in [artikel 3](https://w
 
 ##### Artikel 6
 
-1. Als bewijs van een verworven vakbekwaamheid als bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0022606&hoofdstuk=2&artikel=3&z=2013-11-07&g=2013-11-07) gelden tevens diploma’s, certificaten en andere titels van arts die zijn afgegeven door de voormalige Sovjet-Unie, indien:
+1. Als bewijs van een verworven vakbekwaamheid als bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0022606&hoofdstuk=2&artikel=3&z=2016-03-19&g=2016-03-19) gelden tevens diploma’s, certificaten en andere titels van arts die zijn afgegeven door de voormalige Sovjet-Unie, indien:
 
 - –. de Estse, Letse of Litouwse autoriteiten verklaren, dat die titels, wat betreft de toegang tot en de uitoefening van het betreffende beroep, op hun eigen grondgebied dezelfde rechtsgeldigheid hebben als de nationale titels van arts;
 
@@ -106,7 +106,7 @@ Als bewijs van een verworven vakbekwaamheid als bedoeld in [artikel 3](https://w
 
 ##### Artikel 7
 
-Als bewijs van een verworven vakbekwaamheid als bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0022606&hoofdstuk=2&artikel=3&z=2013-11-07&g=2013-11-07) gelden tevens diploma’s, certificaten en andere titels van arts die voor 25 juni 1991 zijn afgegeven door Joegoslavië voor onderdanen van Slovenië, of zijn afgegeven vóór 8 oktober 1991 voor onderdanen van Kroatië, of ter verwerving waarvan de opleiding vóór deze respectievelijke data in deze landen is begonnen, indien:
+Als bewijs van een verworven vakbekwaamheid als bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0022606&hoofdstuk=2&artikel=3&z=2016-03-19&g=2016-03-19) gelden tevens diploma’s, certificaten en andere titels van arts die voor 25 juni 1991 zijn afgegeven door Joegoslavië voor onderdanen van Slovenië, of zijn afgegeven vóór 8 oktober 1991 voor onderdanen van Kroatië, of ter verwerving waarvan de opleiding vóór deze respectievelijke data in deze landen is begonnen, indien:
 
 - –. de Sloveense of de Kroatische autoriteiten verklaren, dat die titels, wat betreft de toegang tot en de uitoefening van het beroep van arts, op Sloveens respectievelijk Kroatisch grondgebied dezelfde rechtsgeldigheid hebben als respectievelijk de Sloveense en Kroatische titels van arts, en
 
@@ -116,7 +116,7 @@ Als bewijs van een verworven vakbekwaamheid als bedoeld in [artikel 3](https://w
 
 ##### Artikel 8
 
-1. Als bewijs van een verworven vakbekwaamheid die geacht kan worden gelijkwaardig te zijn aan de krachtens [artikel 20 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&artikel=20) gestelde opleidingseisen met betrekking tot de tandarts, gelden de getuigschriften die in bijlage V, onder 5.3.2. van de richtlijn worden genoemd en de getuigschriften die in de [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0022606&bijlage=2&z=2013-11-07&g=2013-11-07) van deze regeling worden genoemd, voor zover de getuigschriften zijn behaald als gevolg van een opleiding die is begonnen ná de desbetreffende daarbij genoemde referentiedatum en indien zij zijn afgegeven door de bevoegde opleidingsinstelling.
+1. Als bewijs van een verworven vakbekwaamheid die geacht kan worden gelijkwaardig te zijn aan de krachtens [artikel 20 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&artikel=20) gestelde opleidingseisen met betrekking tot de tandarts, gelden de getuigschriften die in bijlage V, onder 5.3.2. van de richtlijn worden genoemd en de getuigschriften die in de [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0022606&bijlage=2&z=2016-03-19&g=2016-03-19) van deze regeling worden genoemd, voor zover de getuigschriften zijn behaald als gevolg van een opleiding die is begonnen ná de desbetreffende daarbij genoemde referentiedatum en indien zij zijn afgegeven door de bevoegde opleidingsinstelling.
 
 2. Indien het in het eerste lid bedoelde getuigschrift is behaald als gevolg van een opleiding die vóór de in de bijlagen genoemde referentiedatum is begonnen, geldt dit getuigschrift als bewijs van een verworven vakbekwaamheid indien het vergezeld gaat van een verklaring van de daartoe bevoegde autoriteit van de desbetreffende lidstaat of andere overeenkomstsluitende staat waarin wordt bevestigd dat de bezitter van het getuigschrift de werkzaamheden van tandarts gedurende tenminste drie jaren achtereen tijdens de vijf jaren voorafgaande aan de afgifte van de verklaring daadwerkelijk en op wettige wijze heeft uitgeoefend.
 
@@ -124,13 +124,13 @@ Als bewijs van een verworven vakbekwaamheid als bedoeld in [artikel 3](https://w
 
 ##### Artikel 9
 
-Als bewijs van een verworven vakbekwaamheid als bedoeld in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0022606&hoofdstuk=3&artikel=8&z=2013-11-07&g=2013-11-07) gelden tevens diploma’s, certificaten en andere titels van tandarts die voor 3 oktober 1990 zijn afgegeven door de voormalige Duitse Democratische Republiek, of ter verwerving waarvan de opleiding vóór die datum in dat land is begonnen, indien:
+Als bewijs van een verworven vakbekwaamheid als bedoeld in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0022606&hoofdstuk=3&artikel=8&z=2016-03-19&g=2016-03-19) gelden tevens diploma’s, certificaten en andere titels van tandarts die voor 3 oktober 1990 zijn afgegeven door de voormalige Duitse Democratische Republiek, of ter verwerving waarvan de opleiding vóór die datum in dat land is begonnen, indien:
 
 - –. de betreffende autoriteiten een verklaring afgeven waaruit blijkt dat die onderdanen tijdens de vijf aan de afgifte van de verklaring voorafgaande jaren de bedoelde werkzaamheden gedurende ten minste drie opeenvolgende jaren daadwerkelijk en op rechtmatige wijze op hun grondgebied hebben verricht.
 
 ##### Artikel 10
 
-1. Als bewijs van een verworven vakbekwaamheid als bedoeld in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0022606&hoofdstuk=3&artikel=8&z=2013-11-07&g=2013-11-07) gelden tevens diploma’s, certificaten en andere titels van tandarts die zijn afgegeven door de voormalige Sovjet-Unie, indien:
+1. Als bewijs van een verworven vakbekwaamheid als bedoeld in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0022606&hoofdstuk=3&artikel=8&z=2016-03-19&g=2016-03-19) gelden tevens diploma’s, certificaten en andere titels van tandarts die zijn afgegeven door de voormalige Sovjet-Unie, indien:
 
 - –. de Estse, Letse of Litouwse autoriteiten verklaren, dat die titels, wat betreft de toegang tot en de uitoefening van het betreffende beroep, op hun eigen grondgebied dezelfde rechtsgeldigheid hebben als de nationale titels van tandarts;
 
@@ -140,7 +140,7 @@ Als bewijs van een verworven vakbekwaamheid als bedoeld in [artikel 8](https://w
 
 ##### Artikel 11
 
-Als bewijs van een verworven vakbekwaamheid als bedoeld in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0022606&hoofdstuk=3&artikel=8&z=2013-11-07&g=2013-11-07) gelden tevens diploma’s, certificaten en andere titels van tandarts die vóór 25 juni 1991 zijn afgegeven door Joegoslavië voor onderdanen van Slovenië, of vóór 8 oktober 1991 voor onderdanen van Kroatië, of ter verwerving waarvan de opleiding vóór die data in respectievelijk Slovenië en Kroatië is begonnen, indien:
+Als bewijs van een verworven vakbekwaamheid als bedoeld in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0022606&hoofdstuk=3&artikel=8&z=2016-03-19&g=2016-03-19) gelden tevens diploma’s, certificaten en andere titels van tandarts die vóór 25 juni 1991 zijn afgegeven door Joegoslavië voor onderdanen van Slovenië, of vóór 8 oktober 1991 voor onderdanen van Kroatië, of ter verwerving waarvan de opleiding vóór die data in respectievelijk Slovenië en Kroatië is begonnen, indien:
 
 - –. de Sloveense of de Kroatische autoriteiten verklaren, dat die titels, wat betreft de toegang tot en de uitoefening van het betreffende beroep, op respectievelijk Sloveens of Kroatisch grondgebied dezelfde rechtsgeldigheid hebben als de respectievelijk de Sloveense of Kroatische titels van tandarts en
 
@@ -148,43 +148,41 @@ Als bewijs van een verworven vakbekwaamheid als bedoeld in [artikel 8](https://w
 
 ##### Artikel 12
 
-1. Als bewijs van verworven vakbekwaamheid als bedoeld in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0022606&hoofdstuk=3&artikel=8&z=2013-11-07&g=2013-11-07) gelden tevens de diploma’s, certificaten en andere titels van arts die zijn afgegeven door de Roemeense, Spaanse, Italiaanse, Oostenrijkse, Tsjechische of Slowaakse bevoegde autoriteit aan personen die uiterlijk op de in de bijlage V vermelde datum een begin gemaakt hebben met hun universitaire opleiding tot arts en die vergezeld gaan van een door de desbetreffende bevoegde autoriteit afgegeven verklaring, waaruit blijkt dat betrokkene gedurende tenminste drie opeenvolgende jaren tijdens de vijf jaren voorafgaande aan de afgifte van de verklaring, in die lidstaat daadwerkelijk, wettig en als hoofdbezigheid de werkzaamheden van tandarts heeft verricht en tevens bevoegd is deze werkzaamheden onder gelijke voorwaarden als die welke gelden voor de houders van het in bijlage V, 5.3.2. voor de betrokken lidstaat opgenomen getuigschrift te verrichten.
+1. Als bewijs van verworven vakbekwaamheid als bedoeld in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0022606&hoofdstuk=3&artikel=8&z=2016-03-19&g=2016-03-19) gelden tevens de diploma’s, certificaten en andere titels van arts die zijn afgegeven door de Roemeense, Spaanse, Italiaanse, Oostenrijkse, Tsjechische of Slowaakse bevoegde autoriteit aan personen die uiterlijk op de in de bijlage V vermelde datum een begin gemaakt hebben met hun universitaire opleiding tot arts en die vergezeld gaan van een door de desbetreffende bevoegde autoriteit afgegeven verklaring, waaruit blijkt dat betrokkene gedurende tenminste drie opeenvolgende jaren tijdens de vijf jaren voorafgaande aan de afgifte van de verklaring, in die lidstaat daadwerkelijk, wettig en als hoofdbezigheid de werkzaamheden van tandarts heeft verricht en tevens bevoegd is deze werkzaamheden onder gelijke voorwaarden als die welke gelden voor de houders van het in bijlage V, 5.3.2. voor de betrokken lidstaat opgenomen getuigschrift te verrichten.
 
-2. Van de in het eerste lid gestelde eis van drie jaar praktijkervaring zijn vrijgesteld personen die met goed gevolg studies van ten minste drie jaar hebben gevolgd welke door de bevoegde autoriteiten zijn erkend als gelijkwaardig aan de opleiding die leidt tot vakbekwaamheid als bedoeld in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0022606&hoofdstuk=3&artikel=8&z=2013-11-07&g=2013-11-07).
+2. Van de in het eerste lid gestelde eis van drie jaar praktijkervaring zijn vrijgesteld personen die met goed gevolg studies van ten minste drie jaar hebben gevolgd welke door de bevoegde autoriteiten zijn erkend als gelijkwaardig aan de opleiding die leidt tot vakbekwaamheid als bedoeld in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0022606&hoofdstuk=3&artikel=8&z=2016-03-19&g=2016-03-19).
 
 3. Met betrekking tot Tsjechië en Slowakije zijn het eerste en tweede lid van gelijke toepassing op de in het voormalige Tsjecho-Slowakije verkregen opleidingstitels.
 
-4. Voor opleidingstitels van arts welke in Italië zijn afgegeven aan personen die na 28 januari 1980 en niet later dan 31 december 1984 met hun opleiding begonnen zijn is naast de verklaring als bedoeld in het eerste lid een verklaring vereist, waaruit blijkt dat betrokkene met goed gevolg de proef van bekwaamheid heeft afgelegd die door de bevoegde Italiaanse autoriteiten is georganiseerd of studies van tenminste drie jaar heeft gevolgd welke door de bevoegde autoriteiten zijn erkend als gelijkwaardig aan de opleiding die leidt tot vakbekwaamheid als bedoeld in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0022606&hoofdstuk=3&artikel=8&z=2013-11-07&g=2013-11-07).
+4. Voor opleidingstitels van arts welke in Italië zijn afgegeven aan personen die na 28 januari 1980 en niet later dan 31 december 1984 met hun opleiding begonnen zijn is naast de verklaring als bedoeld in het eerste lid een verklaring vereist, waaruit blijkt dat betrokkene met goed gevolg de proef van bekwaamheid heeft afgelegd die door de bevoegde Italiaanse autoriteiten is georganiseerd of studies van tenminste drie jaar heeft gevolgd welke door de bevoegde autoriteiten zijn erkend als gelijkwaardig aan de opleiding die leidt tot vakbekwaamheid als bedoeld in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0022606&hoofdstuk=3&artikel=8&z=2016-03-19&g=2016-03-19).
 
 5. Voor opleidingstitels van arts welke in Italië zijn afgegeven aan personen die na 31 december 1984 met hun opleiding begonnen zijn, is het vierde lid onverkort van toepassing, indien de bovengenoemde drie studiejaren voor 31 december 1994 zijn begonnen.
+
+6. Voor opleidingstitels van arts welke in Spanje zijn afgegeven aan personen die na 1 januari 1986 en niet later dan 31 december 1997 met hun opleiding zijn begonnen is naast de verklaring als bedoeld in het eerste lid een verklaring vereist, waaruit blijkt dat betrokkene een studie van ten minste drie jaar heeft gevolgd welke door de bevoegde autoriteiten is erkend als gelijkwaardig aan de opleiding die leidt tot een vakbekwaamheid als bedoeld in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0022606&hoofdstuk=3&artikel=8&z=2016-03-19&g=2016-03-19).
 
 ### Hoofdstuk 4. Verpleegkundigen
 
 ##### Artikel 13
 
-1. Als bewijs van een verworven vakbekwaamheid die geacht kan worden gelijkwaardig te zijn aan de krachtens [artikel 32 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&artikel=32) gestelde opleidingseisen met betrekking tot de verpleegkundige, gelden de getuigschriften die in bijlage V, onder 5.2.2. van de richtlijn worden genoemd en de getuigschriften die in de [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0022606&bijlage=3&z=2013-11-07&g=2013-11-07) van deze regeling worden genoemd, voor zover de getuigschriften zijn behaald als gevolg van een opleiding die is begonnen ná de desbetreffende daarbij genoemde referentiedatum en indien zij zijn afgegeven door de bevoegde opleidings-instelling.
+1. Als bewijs van een verworven vakbekwaamheid die geacht kan worden gelijkwaardig te zijn aan de krachtens [artikel 32 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&artikel=32) gestelde opleidingseisen met betrekking tot de verpleegkundige, gelden de getuigschriften die in bijlage V, onder 5.2.2. van de richtlijn worden genoemd en de getuigschriften die in de [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0022606&bijlage=3&z=2016-03-19&g=2016-03-19) van deze regeling worden genoemd, voor zover de getuigschriften zijn behaald als gevolg van een opleiding die is begonnen ná de desbetreffende daarbij genoemde referentiedatum en indien zij zijn afgegeven door de bevoegde opleidings-instelling.
 
 2. Indien het in het eerste lid bedoelde getuigschrift is behaald als gevolg van een opleiding die vóór de in de bijlage genoemde referentiedatum is begonnen, geldt dit getuigschrift als bewijs van een verworven vakbekwaamheid indien het vergezeld gaat van een verklaring van de daartoe bevoegde autoriteit van de desbetreffende lidstaat of andere overeenkomstsluitende staat waarin wordt bevestigd dat de bezitter van het getuigschrift de werkzaamheden van verpleegkundige gedurende tenminste drie jaren achtereen tijdens de vijf jaren voorafgaande aan de afgifte van de verklaring daadwerkelijk en op wettige wijze heeft uitgeoefend.
 
 3. Indien het getuigschrift niet betrekking heeft op een titel die in een van de bijlagen als aangegeven in het eerste lid, genoemd wordt, is met betrekking tot dit getuigschrift het eerste lid onverminderd van toepassing, indien dit getuigschrift vergezeld gaat van een verklaring van de daartoe bevoegde autoriteit waarin staat dat het wordt gelijkgesteld met het getuigschrift waarvan de benaming wel voorkomt in de desbetreffende bijlage.
 
-4. In afwijking van het tweede en derde lid geldt voor Roemenië als bewijs van verworven vakbekwaamheid als bedoeld in het eerste lid het diploma ‘Certificat de competenţe profesionale de asistent medical generalist’ met een aan een şcoală postliceală gevolgde post-secundaire opleiding, indien dat is afgegeven door de daartoe bevoegde Roemeense autoriteit vóór 1 januari 2007 of indien ter verwerving daarvan de opleiding in dat land is gestart voor die datum, mits het diploma vergezeld gaat van een verklaring van de daartoe bevoegde Roemeense autoriteit waarin wordt bevestigd dat de bezitter van een zodanig diploma de werkzaamheden van verpleegkundige tenminste vijf opeenvolgende jaren gedurende de zeven jaren voorafgaand aan de afgifte van de verklaring, daadwerkelijk en op wettige wijze heeft uitgeoefend.
+4. In afwijking van het tweede en derde lid geldt voor Roemenië als bewijs van verworven vakbekwaamheid als bedoeld in het eerste lid het diploma ‘Certificat de competenţe profesionale de asistent medical generalist’ met een aan een şcoală postliceală gevolgde post-secundaire opleiding, indien dat is afgegeven door de daartoe bevoegde Roemeense autoriteit vóór 1 januari 2007 of indien ter verwerving daarvan de opleiding in dat land is gestart voor die datum, het ‘‘diplomă de absolvire de asistent medical generalist’’ met een hogere opleiding van korte duur of een hogere opleiding van langere duur, waaruit blijkt dat vóór 1 oktober 2003 met de opleiding is begonnen, mits het diploma vergezeld gaat van een verklaring van de daartoe bevoegde Roemeense autoriteit waarin wordt bevestigd dat de bezitter van een zodanig diploma de werkzaamheden van verpleegkundige ten minste drie opeenvolgende jaren gedurende de vijf jaar voorafgaand aan de afgifte van de verklaring, daadwerkelijk en op wettige wijze heeft uitgeoefend.
 
-5. In afwijking van het tweede en derde lid gelden voor Polen als bewijs van verworven vakbekwaamheid als bedoeld in het eerste lid:
-
-- a. Het diploma ‘dyplom licencjata pielęgniarstwa’ en het diploma ‘dyplom pielęgniarki albo pielęgniarki dyplomowanej’, indien deze zijn afgegeven door de daartoe bevoegde Poolse autoriteit vóór 1 mei 2004 of indien ter verwerving daarvan de opleiding in dat land is gestart voor die datum, mits de diploma’s vergezeld gaan van een verklaring van de daartoe bevoegde Poolse autoriteit waarin wordt bevestigd dat de bezitter van een zodanig diploma de werkzaamheden van verpleegkundige ten minste drie, respectievelijk vijf opeenvolgende jaren gedurende de vijf, respectievelijk zeven jaren voorafgaand aan de afgifte van de verklaring, daadwerkelijk en op wettige wijze heeft uitgeoefend.
-
-- b. De opleidingstitels in de verpleegkunde die in Polen zijn afgegeven en waarvan de opleiding vóór 1 mei 2004 voltooid is, indien deze titels worden gestaafd met het diploma ‘bachelor’ dat is verkregen op basis van een, door de Poolse autoriteit opgezet speciaal voortgezet programma, als bedoeld in artikel 33, derde lid van de richtlijn.
+5. In afwijking van het tweede en derde lid gelden voor Polen als bewijs van verworven vakbekwaamheid als bedoeld in het eerste lid de opleidingstitels in de verpleegkunde die in Polen zijn afgegeven en waarvan de opleiding vóór 1 mei 2004 voltooid is, indien deze titels worden gestaafd met het diploma ‘bachelor’ dat is verkregen op basis van een, door de Poolse autoriteit opgezet speciaal voortgezet programma, als bedoeld in artikel 33, derde lid van de richtlijn.
 
 ##### Artikel 14
 
-Als bewijs van een verworven vakbekwaamheid als bedoeld in [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0022606&hoofdstuk=4&artikel=13&z=2013-11-07&g=2013-11-07) gelden tevens diploma’s, certificaten en andere titels van verpleegkundige die voor 3 oktober 1990 zijn afgegeven door de voormalige Duitse Democratische Republiek, of ter verwerving waarvan de opleiding vóór die datum in dat land is begonnen, indien:
+Als bewijs van een verworven vakbekwaamheid als bedoeld in [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0022606&hoofdstuk=4&artikel=13&z=2016-03-19&g=2016-03-19) gelden tevens diploma’s, certificaten en andere titels van verpleegkundige die voor 3 oktober 1990 zijn afgegeven door de voormalige Duitse Democratische Republiek, of ter verwerving waarvan de opleiding vóór die datum in dat land is begonnen, indien:
 
 - –. de betreffende autoriteiten een verklaring afgeven waaruit blijkt dat die onderdanen tijdens de vijf aan de afgifte van de verklaring voorafgaande jaren de bedoelde werkzaamheden gedurende tenminste drie opeenvolgende jaren daadwerkelijk en op rechtmatige wijze op hun grondgebied hebben verricht.
 
 ##### Artikel 15
 
-Als bewijs van een verworven vakbekwaamheid als bedoeld in [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0022606&hoofdstuk=4&artikel=13&z=2013-11-07&g=2013-11-07) gelden tevens diploma’s, certificaten en andere titels van verpleegkundige die voor 1 januari 1993 zijn afgegeven door het voormalige Tsjecho-Slowakije, of ter verwerving waarvan de opleiding vóór die datum in dat land is begonnen, indien:
+Als bewijs van een verworven vakbekwaamheid als bedoeld in [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0022606&hoofdstuk=4&artikel=13&z=2016-03-19&g=2016-03-19) gelden tevens diploma’s, certificaten en andere titels van verpleegkundige die voor 1 januari 1993 zijn afgegeven door het voormalige Tsjecho-Slowakije, of ter verwerving waarvan de opleiding vóór die datum in dat land is begonnen, indien:
 
 - –. de betreffende autoriteiten verklaren, dat die titels, wat betreft de toegang tot en de uitoefening van het betreffende beroep, op Tsjechisch, respectievelijk Slowaaks grondgebied dezelfde rechtsgeldigheid hebben als de Tsjechische respectievelijk Slowaakse titels van verpleegkundige;
 
@@ -192,7 +190,7 @@ Als bewijs van een verworven vakbekwaamheid als bedoeld in [artikel 13](https://
 
 ##### Artikel 16
 
-1. Als bewijs van een verworven vakbekwaamheid als bedoeld in [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0022606&hoofdstuk=4&artikel=13&z=2013-11-07&g=2013-11-07) gelden tevens diploma’s, certificaten en andere titels van verpleegkundige die zijn afgegeven door de voormalige Sovjet-Unie, indien:
+1. Als bewijs van een verworven vakbekwaamheid als bedoeld in [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0022606&hoofdstuk=4&artikel=13&z=2016-03-19&g=2016-03-19) gelden tevens diploma’s, certificaten en andere titels van verpleegkundige die zijn afgegeven door de voormalige Sovjet-Unie, indien:
 
 - –. de Estse, Letse of Litouwse autoriteiten verklaren, dat die titels, wat betreft de toegang tot en de uitoefening van het betreffende beroep, op hun eigen grondgebied dezelfde rechtsgeldigheid hebben als de nationale titels van verpleegkundige;
 
@@ -202,7 +200,7 @@ Als bewijs van een verworven vakbekwaamheid als bedoeld in [artikel 13](https://
 
 ##### Artikel 17
 
-Als bewijs van een verworven vakbekwaamheid als bedoeld in [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0022606&hoofdstuk=4&artikel=13&z=2013-11-07&g=2013-11-07) gelden tevens diploma’s certificaten en andere titels van verpleegkundige die vóór 25 juni 1991 zijn afgegeven door Joegoslavië voor onderdanen van Slovenië, of vóór 8 oktober 1991 voor onderdanen van Kroatië, of waarvan de opleiding vóór die respectievelijke data in Slovenië of Kroatië is begonnen, indien:
+Als bewijs van een verworven vakbekwaamheid als bedoeld in [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0022606&hoofdstuk=4&artikel=13&z=2016-03-19&g=2016-03-19) gelden tevens diploma’s certificaten en andere titels van verpleegkundige die vóór 25 juni 1991 zijn afgegeven door Joegoslavië voor onderdanen van Slovenië, of vóór 8 oktober 1991 voor onderdanen van Kroatië, of waarvan de opleiding vóór die respectievelijke data in Slovenië of Kroatië is begonnen, indien:
 
 - –. de Sloveense of de Kroatische autoriteiten verklaren, dat die titels, wat betreft de toegang tot en de uitoefening van het betreffende beroep, op respectievelijk Sloveens of Kroatisch grondgebied dezelfde rechtsgeldigheid hebben als de respectievelijk Sloveense of Kroatische titels van verpleegkundige en
 
@@ -212,7 +210,7 @@ Als bewijs van een verworven vakbekwaamheid als bedoeld in [artikel 13](https://
 
 ##### Artikel 18
 
-1. Als bewijs van een verworven vakbekwaamheid die geacht kan worden gelijkwaardig te zijn aan de krachtens [artikel 22 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&artikel=22) gestelde opleidingseisen met betrekking tot de apotheker, gelden de getuigschriften die in bijlage V, onder 5.6.2. van de richtlijn worden genoemd en de getuigschriften die in de [bijlage 4](https://wetten.overheid.nl/jci1.3:c:BWBR0022606&bijlage=4&z=2013-11-07&g=2013-11-07) van deze regeling worden genoemd, voor zover de getuigschriften zijn behaald als gevolg van een opleiding die is begonnen ná de desbetreffende daarbij genoemde referentiedatum en indien zij zijn afgegeven door de bevoegde opleidingsinstelling.
+1. Als bewijs van een verworven vakbekwaamheid die geacht kan worden gelijkwaardig te zijn aan de krachtens [artikel 22 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&artikel=22) gestelde opleidingseisen met betrekking tot de apotheker, gelden de getuigschriften die in bijlage V, onder 5.6.2. van de richtlijn worden genoemd en de getuigschriften die in de [bijlage 4](https://wetten.overheid.nl/jci1.3:c:BWBR0022606&bijlage=4&z=2016-03-19&g=2016-03-19) van deze regeling worden genoemd, voor zover de getuigschriften zijn behaald als gevolg van een opleiding die is begonnen ná de desbetreffende daarbij genoemde referentiedatum en indien zij zijn afgegeven door de bevoegde opleidingsinstelling.
 
 2. Indien het in het eerste lid bedoelde getuigschrift is behaald als gevolg van een opleiding die vóór de in de bijlage genoemde referentiedatum is begonnen, geldt dit getuigschrift als bewijs van een verworven vakbekwaamheid indien het vergezeld gaat van een verklaring van de daartoe bevoegde autoriteit van de desbetreffende lidstaat of andere overeenkomstsluitende staat waarin wordt bevestigd dat de bezitter van het getuigschrift de werkzaamheden van apotheker gedurende tenminste drie jaren achtereen tijdens de vijf jaren voorafgaande aan de afgifte van de verklaring daadwerkelijk en op wettige wijze heeft uitgeoefend.
 
@@ -220,13 +218,13 @@ Als bewijs van een verworven vakbekwaamheid als bedoeld in [artikel 13](https://
 
 ##### Artikel 19
 
-Als bewijs van een verworven vakbekwaamheid als bedoeld in [artikel 18](https://wetten.overheid.nl/jci1.3:c:BWBR0022606&hoofdstuk=5&artikel=18&z=2013-11-07&g=2013-11-07) gelden tevens diploma’s, certificaten en andere titels van apotheker die voor 3 oktober 1990 zijn afgegeven door de voormalige Duitse Democratische Republiek, of ter verwerving waarvan de opleiding vóór die datum in dat land is begonnen, indien:
+Als bewijs van een verworven vakbekwaamheid als bedoeld in [artikel 18](https://wetten.overheid.nl/jci1.3:c:BWBR0022606&hoofdstuk=5&artikel=18&z=2016-03-19&g=2016-03-19) gelden tevens diploma’s, certificaten en andere titels van apotheker die voor 3 oktober 1990 zijn afgegeven door de voormalige Duitse Democratische Republiek, of ter verwerving waarvan de opleiding vóór die datum in dat land is begonnen, indien:
 
 - –. de betreffende autoriteiten een verklaring afgeven waaruit blijkt dat die onderdanen tijdens de vijf aan de afgifte van de verklaring voorafgaande jaren de bedoelde werkzaamheden gedurende ten minste drie opeenvolgende jaren daadwerkelijk en op rechtmatige wijze op hun grondgebied hebben verricht.
 
 ##### Artikel 20
 
-Als bewijs van een verworven vakbekwaamheid als bedoeld in [artikel 18](https://wetten.overheid.nl/jci1.3:c:BWBR0022606&hoofdstuk=5&artikel=18&z=2013-11-07&g=2013-11-07) gelden tevens diploma’s, certificaten en andere titels van apotheker die voor 1 januari 1993 zijn afgegeven door het voormalige Tsjecho-Slowakije, of ter verwerving waarvan de opleiding vóór die datum in dat land is begonnen, indien:
+Als bewijs van een verworven vakbekwaamheid als bedoeld in [artikel 18](https://wetten.overheid.nl/jci1.3:c:BWBR0022606&hoofdstuk=5&artikel=18&z=2016-03-19&g=2016-03-19) gelden tevens diploma’s, certificaten en andere titels van apotheker die voor 1 januari 1993 zijn afgegeven door het voormalige Tsjecho-Slowakije, of ter verwerving waarvan de opleiding vóór die datum in dat land is begonnen, indien:
 
 - –. de betreffende autoriteiten verklaren, dat die titels, wat betreft de toegang tot en de uitoefening van het betreffende beroep, op Tsjechisch, respectievelijk Slowaaks grondgebied dezelfde rechtsgeldigheid hebben als de Tsjechische respectievelijk Slowaakse titels van apotheker;
 
@@ -234,7 +232,7 @@ Als bewijs van een verworven vakbekwaamheid als bedoeld in [artikel 18](https://
 
 ##### Artikel 21
 
-1. Als bewijs van een verworven vakbekwaamheid als bedoeld in [artikel 18](https://wetten.overheid.nl/jci1.3:c:BWBR0022606&hoofdstuk=5&artikel=18&z=2013-11-07&g=2013-11-07) gelden tevens diploma’s, certificaten en andere titels van apotheker die zijn afgegeven door de voormalige Sovjet-Unie, indien:
+1. Als bewijs van een verworven vakbekwaamheid als bedoeld in [artikel 18](https://wetten.overheid.nl/jci1.3:c:BWBR0022606&hoofdstuk=5&artikel=18&z=2016-03-19&g=2016-03-19) gelden tevens diploma’s, certificaten en andere titels van apotheker die zijn afgegeven door de voormalige Sovjet-Unie, indien:
 
 - –. de Estse, Letse of Litouwse autoriteiten verklaren, dat die titels, wat betreft de toegang tot en de uitoefening van het betreffende beroep, op hun eigen grondgebied dezelfde rechtsgeldigheid hebben als de nationale titels van apotheker;
 
@@ -244,7 +242,7 @@ Als bewijs van een verworven vakbekwaamheid als bedoeld in [artikel 18](https://
 
 ##### Artikel 22
 
-Als bewijs van een verworven vakbekwaamheid als bedoeld in [artikel 18](https://wetten.overheid.nl/jci1.3:c:BWBR0022606&hoofdstuk=5&artikel=18&z=2013-11-07&g=2013-11-07) gelden tevens diploma’s, certificaten en andere titels van apotheker die vóór 25 juni 1991 zijn afgegeven door Joegoslavië voor onderdanen van Slovenië, of vóór 8 oktober 1991 voor onderdanen van Kroatië, of ter verwerving waarvan de opleiding vóór die data in deze landen is begonnen, indien:
+Als bewijs van een verworven vakbekwaamheid als bedoeld in [artikel 18](https://wetten.overheid.nl/jci1.3:c:BWBR0022606&hoofdstuk=5&artikel=18&z=2016-03-19&g=2016-03-19) gelden tevens diploma’s, certificaten en andere titels van apotheker die vóór 25 juni 1991 zijn afgegeven door Joegoslavië voor onderdanen van Slovenië, of vóór 8 oktober 1991 voor onderdanen van Kroatië, of ter verwerving waarvan de opleiding vóór die data in deze landen is begonnen, indien:
 
 - –. de Sloveense of Kroatische autoriteiten verklaren, dat die titels, wat betreft de toegang tot en de uitoefening van het betreffende beroep, op respectievelijk Sloveens of Kroatisch grondgebied dezelfde rechtsgeldigheid hebben als de respectievelijke Sloveense of Kroatische titels van apotheker en
 
@@ -254,7 +252,7 @@ Als bewijs van een verworven vakbekwaamheid als bedoeld in [artikel 18](https://
 
 ##### Artikel 23
 
-1. Als bewijs van een verworven vakbekwaamheid die geacht kan worden gelijkwaardig te zijn aan de krachtens [artikel 30 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&artikel=30) gestelde opleidingseisen met betrekking tot de verloskundige, gelden de getuigschriften die in bijlage V, onder 5.5.2. van de richtlijn worden genoemd en de getuigschriften die in de [bijlage 5](https://wetten.overheid.nl/jci1.3:c:BWBR0022606&bijlage=5&z=2013-11-07&g=2013-11-07) van deze regeling worden genoemd, voor zover de getuigschriften zijn behaald als gevolg van een opleiding die is begonnen ná de desbetreffende daarbij genoemde referentiedatum en indien zij zijn afgegeven door de bevoegde opleidings-instelling en voldoen aan de voorwaarden gesteld in artikel 41 van de richtlijn.
+1. Als bewijs van een verworven vakbekwaamheid die geacht kan worden gelijkwaardig te zijn aan de krachtens [artikel 30 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&artikel=30) gestelde opleidingseisen met betrekking tot de verloskundige, gelden de getuigschriften die in bijlage V, onder 5.5.2. van de richtlijn worden genoemd en de getuigschriften die in de [bijlage 5](https://wetten.overheid.nl/jci1.3:c:BWBR0022606&bijlage=5&z=2016-03-19&g=2016-03-19) van deze regeling worden genoemd, voor zover de getuigschriften zijn behaald als gevolg van een opleiding die is begonnen ná de desbetreffende daarbij genoemde referentiedatum en indien zij zijn afgegeven door de bevoegde opleidings-instelling en voldoen aan de voorwaarden gesteld in artikel 41 van de richtlijn.
 
 2. Indien het in het eerste lid bedoelde getuigschrift is behaald als gevolg van een opleiding die vóór de in de bijlage genoemde referentiedatum is begonnen, geldt dit getuigschrift als bewijs van een verworven vakbekwaamheid indien het vergezeld gaat van een verklaring van de daartoe bevoegde autoriteit van de desbetreffende lidstaat of andere overeenkomstsluitende staat waarin wordt bevestigd dat de bezitter van het getuigschrift de werkzaamheden van verloskundige gedurende tenminste drie jaren achtereen tijdens de vijf jaren voorafgaande aan de afgifte van de verklaring daadwerkelijk en op wettige wijze heeft uitgeoefend.
 
@@ -262,11 +260,7 @@ Als bewijs van een verworven vakbekwaamheid als bedoeld in [artikel 18](https://
 
 4. In afwijking van het tweede en derde lid geldt voor Roemenië als bewijs van een verworven vakbekwaamheid als bedoeld in het eerste lid het diploma van ‘asistent medical obstetrică-ginecologie’, indien dat is afgegeven door de daartoe bevoegde Roemeense autoriteit voor 1 januari 2007 of indien de opleiding daartoe is gestart voor die datum, mits het diploma vergezeld gaat van een verklaring van de daartoe bevoegde Roemeense autoriteit waarin wordt bevestigd dat de bezitter van een zodanig diploma de werkzaamheden van verloskundige ten minste vijf opeenvolgende jaren gedurende de zeven jaren voorafgaand aan de afgifte van de verklaring, daadwerkelijk en op wettige wijze heeft uitgeoefend.
 
-5. In afwijking van het tweede en derde lid gelden voor Polen als bewijs van verworven vakbekwaamheid als bedoeld in het eerste lid:
-
-- a. Het diploma ‘dyplom licencjata polożnictwa’ en het diploma ‘dyplom polożnej’, indien deze zijn afgegeven door de daartoe bevoegde Poolse autoriteit vóór 1 mei 2004 of indien ter verwerving daarvan de opleiding in dat land is gestart voor die datum, voor zover de diploma’s vergezeld gaan van een verklaring van de daartoe bevoegde Poolse autoriteit waarin wordt bevestigd dat de bezitter van een zodanig diploma de werkzaamheden van verpleegkundige tenminste drie, respectievelijk vijf opeenvolgende jaren gedurende de vijf, respectievelijk zeven jaren voorafgaand aan de afgifte van de verklaring, daadwerkelijk en op wettige wijze heeft uitgeoefend.
-
-- b. De opleidingstitels in de verloskunde die in Polen zijn afgegeven en waarvan de opleiding vóór 1 mei 2004 voltooid is, indien deze titels worden gestaafd met het diploma ‘bachelor’ dat is verkregen op basis van een, door de Poolse autoriteit opgezet, speciaal voortgezet programma.
+5. In afwijking van het tweede en derde lid gelden voor Polen als bewijs van verworven vakbekwaamheid als bedoeld in het eerste lid de opleidingstitels in de verloskunde die in Polen zijn afgegeven en waarvan de opleiding vóór 1 mei 2004 voltooid is, indien deze titels worden gestaafd met het diploma ‘bachelor’ dat is verkregen op basis van een, door de Poolse autoriteit opgezet, speciaal voortgezet programma.
 
 6. In afwijking van het tweede lid gelden de volgende diploma’s die in Kroatië zijn behaald op het gebied van verloskunde vóór 1 juli 2013, niet als bewijs van verworven vakbekwaamheid, als bedoeld in artikel 23, eerste lid:
 
@@ -282,13 +276,13 @@ Als bewijs van een verworven vakbekwaamheid als bedoeld in [artikel 18](https://
 
 ##### Artikel 24
 
-Als bewijs van een verworven vakbekwaamheid als bedoeld in [artikel 23](https://wetten.overheid.nl/jci1.3:c:BWBR0022606&hoofdstuk=6&artikel=23&z=2013-11-07&g=2013-11-07) gelden tevens diploma’s, certificaten en andere titels van verloskundige die voor 3 oktober 1990 zijn afgegeven door de voormalige Duitse Democratische Republiek, of ter verwerving waarvan de opleiding vóór die datum in dat land is begonnen, indien:
+Als bewijs van een verworven vakbekwaamheid als bedoeld in [artikel 23](https://wetten.overheid.nl/jci1.3:c:BWBR0022606&hoofdstuk=6&artikel=23&z=2016-03-19&g=2016-03-19) gelden tevens diploma’s, certificaten en andere titels van verloskundige die voor 3 oktober 1990 zijn afgegeven door de voormalige Duitse Democratische Republiek, of ter verwerving waarvan de opleiding vóór die datum in dat land is begonnen, indien:
 
 - –. de betreffende autoriteiten een verklaring afgeven waaruit blijkt dat die onderdanen tijdens de vijf aan de afgifte van de verklaring voorafgaande jaren de bedoelde werkzaamheden gedurende ten minste drie opeenvolgende jaren daadwerkelijk en op rechtmatige wijze op hun grondgebied hebben verricht.
 
 ##### Artikel 25
 
-Als bewijs van een verworven vakbekwaamheid als bedoeld in [artikel 23](https://wetten.overheid.nl/jci1.3:c:BWBR0022606&hoofdstuk=6&artikel=23&z=2013-11-07&g=2013-11-07) gelden tevens diploma’s, certificaten en andere titels van verloskundige die voor 1 januari 1993 zijn afgegeven door het voormalige Tsjecho-Slowakije, of ter verwerving waarvan de opleiding vóór die datum in dat land is begonnen, indien:
+Als bewijs van een verworven vakbekwaamheid als bedoeld in [artikel 23](https://wetten.overheid.nl/jci1.3:c:BWBR0022606&hoofdstuk=6&artikel=23&z=2016-03-19&g=2016-03-19) gelden tevens diploma’s, certificaten en andere titels van verloskundige die voor 1 januari 1993 zijn afgegeven door het voormalige Tsjecho-Slowakije, of ter verwerving waarvan de opleiding vóór die datum in dat land is begonnen, indien:
 
 - –. de betreffende autoriteiten verklaren, dat die titels, wat betreft de toegang tot en de uitoefening van het betreffende beroep, op Tsjechisch, respectievelijk Slowaaks grondgebied dezelfde rechtsgeldigheid hebben als de Tsjechische respectievelijk Slowaakse titels van verloskundige;
 
@@ -296,7 +290,7 @@ Als bewijs van een verworven vakbekwaamheid als bedoeld in [artikel 23](https://
 
 ##### Artikel 26
 
-1. Als bewijs van een verworven vakbekwaamheid als bedoeld in [artikel 23](https://wetten.overheid.nl/jci1.3:c:BWBR0022606&hoofdstuk=6&artikel=23&z=2013-11-07&g=2013-11-07) gelden tevens diploma’s, certificaten en andere titels van verloskundige die zijn afgegeven door de voormalige Sovjet-Unie, indien:
+1. Als bewijs van een verworven vakbekwaamheid als bedoeld in [artikel 23](https://wetten.overheid.nl/jci1.3:c:BWBR0022606&hoofdstuk=6&artikel=23&z=2016-03-19&g=2016-03-19) gelden tevens diploma’s, certificaten en andere titels van verloskundige die zijn afgegeven door de voormalige Sovjet-Unie, indien:
 
 - –. de Estse, Letse of Litouwse autoriteiten verklaren, dat die titels, wat betreft de toegang tot en de uitoefening van het betreffende beroep, op hun eigen grondgebied dezelfde rechtsgeldigheid hebben als de nationale titels van verloskundige;
 
@@ -306,7 +300,7 @@ Als bewijs van een verworven vakbekwaamheid als bedoeld in [artikel 23](https://
 
 ##### Artikel 27
 
-Als bewijs van een verworven vakbekwaamheid als bedoeld in [artikel 23](https://wetten.overheid.nl/jci1.3:c:BWBR0022606&hoofdstuk=6&artikel=23&z=2013-11-07&g=2013-11-07) gelden tevens diploma’s, certificaten en andere titels van verloskundige die vóór 25 juni 1991 zijn afgegeven door Joegoslavië voor onderdanen van Slovenië, of vóór 8 oktober 1991 voor onderdanen van Kroatië of ter verwerving waarvan de opleiding vóór die respectievelijke data in deze landen is begonnen, indien:
+Als bewijs van een verworven vakbekwaamheid als bedoeld in [artikel 23](https://wetten.overheid.nl/jci1.3:c:BWBR0022606&hoofdstuk=6&artikel=23&z=2016-03-19&g=2016-03-19) gelden tevens diploma’s, certificaten en andere titels van verloskundige die vóór 25 juni 1991 zijn afgegeven door Joegoslavië voor onderdanen van Slovenië, of vóór 8 oktober 1991 voor onderdanen van Kroatië of ter verwerving waarvan de opleiding vóór die respectievelijke data in deze landen is begonnen, indien:
 
 - –. de Sloveense of Kroatische autoriteiten verklaren, dat die titels, wat betreft de toegang tot en de uitoefening van het betreffende beroep, op Sloveens respectievelijk Kroatisch grondgebied dezelfde rechtsgeldigheid hebben als de Sloveense of Kroatische titels van verloskundige en
 
