@@ -4,7 +4,7 @@ identifier: "BWBR0037762"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2016-03-25"
-last_updated: "2015-08-19"
+last_updated: "2016-03-25"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0037762"
 soort: "ministeriele-regeling"
@@ -67,7 +67,7 @@ tot het namens de Directeur-generaal Bestuur en Koninkrijksrelaties afdoen en te
 
 alsmede
 
-tot het namens de Directeur-generaal Bestuur en Koninkrijksrelaties verrichten van werkzaamheden en het nemen van besluiten inzake kiezers woonachtig op Aruba, Curaçao en Sint-Maarten voor de verkiezing van de leden van de Tweede Kamer der Staten-Generaal, de verkiezing van de leden van het Europees Parlement alsmede het raadgevend referendum op grond van de [Wet raadgevend referendum](https://wetten.overheid.nl/jci1.3:c:BWBR0036443&wetgeving).
+tot het namens de Directeur-generaal Bestuur en Koninkrijksrelaties verrichten van werkzaamheden en het nemen van besluiten inzake kiezers woonachtig op Aruba, Curaçao en Sint-Maarten voor de verkiezing van de leden van de Tweede Kamer der Staten-Generaal, de verkiezing van de leden van het Europees Parlement alsmede het raadgevend referendum op grond van de [Wet raadgevend referendum](https://wetten.overheid.nl/jci1.3:c:BWBR0036443).
 
 De werkzaamheden en besluiten die onder dit mandaat vallen betreffen in elk geval de werkzaamheden en besluiten op grond van de volgende bepalingen in de wetgeving en daarop gebaseerde regelgeving (al dan niet in samenhang gelezen met [artikel Y 2 Kieswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&artikel=Y_2)):
 
@@ -101,7 +101,7 @@ De werkzaamheden en besluiten die onder dit mandaat vallen betreffen in elk geva
 
 met betrekking tot de bevoegdheid van de onder (4), (5) en (6) genoemden:
 
-tot het namens de Directeur-generaal Bestuur en Koninkrijksrelaties verrichten van werkzaamheden en het nemen van besluiten inzake kiezers woonachtig op Aruba, Curaçao en Sint-Maarten voor de verkiezing van de leden van de Tweede Kamer der Staten-Generaal, de verkiezing van de leden van het Europees Parlement alsmede het raadgevend referendum op grond van de [Wet raadgevend referendum](https://wetten.overheid.nl/jci1.3:c:BWBR0036443&wetgeving).
+tot het namens de Directeur-generaal Bestuur en Koninkrijksrelaties verrichten van werkzaamheden en het nemen van besluiten inzake kiezers woonachtig op Aruba, Curaçao en Sint-Maarten voor de verkiezing van de leden van de Tweede Kamer der Staten-Generaal, de verkiezing van de leden van het Europees Parlement alsmede het raadgevend referendum op grond van de [Wet raadgevend referendum](https://wetten.overheid.nl/jci1.3:c:BWBR0036443).
 
 De werkzaamheden en besluiten die onder dit mandaat vallen betreffen in elk geval de werkzaamheden en besluiten op grond van de volgende bepalingen in de wetgeving en daarop gebaseerde regelgeving (al dan niet in samenhang gelezen met [artikel Y 2 Kieswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&artikel=Y_2)):
 
