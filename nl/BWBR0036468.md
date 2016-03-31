@@ -4,7 +4,7 @@ identifier: "BWBR0036468"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2016-03-31"
-last_updated: "2015-04-01"
+last_updated: "2016-03-31"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0036468"
 soort: "ministeriele-regeling"
@@ -104,7 +104,7 @@ De ambtenaar draagt de dienstkleding:
 
 ##### Artikel 5
 
-1. Het bevoegd gezag kan de ambtenaar toestemming verlenen af te wijken van het bepaalde in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0036468&artikel=4&z=2015-04-01&g=2015-04-01) indien:
+1. Het bevoegd gezag kan de ambtenaar toestemming verlenen af te wijken van het bepaalde in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0036468&artikel=4&z=2016-03-31&g=2016-03-31) indien:
 
 - a. de ambtenaar gedurende een bepaalde periode werkzaamheden verricht uit hoofde van een andere functie;
 
@@ -160,13 +160,13 @@ De ambtenaar is verplicht de aan deze verstrekte dienstkleding te doen inleveren
 
 ##### Artikel 9
 
-Deze regeling treedt in werking met ingang van 1 april 2015 en vervalt met ingang van 1 april 2016.
+Deze regeling treedt in werking met ingang van 1 april 2015.
 
 ##### Artikel 10
 
 Deze regeling wordt aangehaald als: Regeling dienstkleding Dienst Justitiële Inrichtingen.
 
-## Bijlage. behorende bij [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036468&artikel=3&z=2015-04-01&g=2015-04-01), van de Regeling dienstkleding Dienst Justitiële Inrichtingen
+## Bijlage. behorende bij [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036468&artikel=3&z=2016-03-31&g=2016-03-31), van de Regeling dienstkleding Dienst Justitiële Inrichtingen
 
 ### 1. Uniform dienstkledingpakket
 
