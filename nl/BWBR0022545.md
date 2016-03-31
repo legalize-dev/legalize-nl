@@ -4,7 +4,7 @@ identifier: "BWBR0022545"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-07-01"
-last_updated: "2016-01-23"
+last_updated: "2016-03-31"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0022545"
 soort: "ministeriele-regeling"
@@ -50,15 +50,25 @@ In deze regeling wordt verstaan onder:
 
 - besluit: [Besluit gewasbeschermingsmiddelen en biociden](https://wetten.overheid.nl/jci1.3:c:BWBR0022530);
 
+- groepsaccommodaties: een accommodatie met ten minste twintig slaapplaatsen voor het verstrekken van logies aan personen in groepsverband;
+
 - grondwaterbeschermingsgebied: een gebied waarbinnen de kwaliteit van het grondwater krachtens [artikel 1.2 van de Wet milieubeheer](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=1.2) wordt beschermd;
 
+- onkruid: een op een bepaalde bodem of ander oppervlak ongewenste plant, plantbegroeiing of houtachtig gewas;
+
+- richtlijn 2000/29/EG: richtlijn nr. 2000/29/EG van de Raad van 8 mei 2000 betreffende de beschermende maatregelen tegen het binnenbrengen en de verspreiding in de Gemeenschap van voor planten en voor plantaardige producten schadelijke organismen (PbEG 2000, L 169);
+
 - risicogetal: een volgens een door de Gezondheidsraad opgestelde methode vastgesteld getal dat het extra risico per jaar op sterfte door kanker van 4.10–5 bij een blootstelling gedurende 40 jaar, vijf dagen per week en acht uur per dag weergeeft;
+
+- stobbe: deel van een boom dat achterblijft in en boven de grond nadat de boom bovengronds is omgezaagd;
 
 - ultra low volume-formulering: een gewasbeschermingsmiddel in hooggeconcentreerde vorm, bestemd om in fijne druppelvorm te worden verspoten;
 
 - verordening 284/2013: Verordening (EU) nr. 284/2013 van de Commissie van 1 maart 2013 tot vaststelling van de gegevensvereisten voor gewasbeschermingsmiddelen overeenkomstig Verordening (EG) nr. 1107/2009 van het Europees Parlement en de Raad betreffende het op de markt brengen van gewasbeschermingsmiddelen (Pb EU 2013, L 93);
 
-- wet: [Wet gewasbeschermingsmiddelen en biociden](https://wetten.overheid.nl/jci1.3:c:BWBR0021670);
+- verordening (EU) 1143/2014: Verordening (EU) Nr. 1143/2014 van het Europees Parlement en de Raad van 22 oktober 2014 betreffende de preventie en beheersing van de introductie en verspreiding van invasieve uitheemse soorten (PbEU 2014, L 317);
+
+- wet: [Wet gewasbeschermingsmiddelen en biociden](https://wetten.overheid.nl/jci1.3:c:BWBR0021670).
 
 ### Hoofdstuk 2. Toelating gewasbeschermingsmiddelen
 
@@ -396,7 +406,7 @@ Vervallen
 
 - b. onjuiste of onvolledige gegevens zijn verstrekt op grond waarvan een erkenning is verleend;
 
-- c. de houder handelt in strijd met de voorwaarden genoemd in [artikel 4.4](https://wetten.overheid.nl/jci1.3:c:BWBR0022545&hoofdstuk=4&paragraaf=1&artikel=4.4&z=2016-01-23&g=2016-01-23) of de voorschriften die bij de erkenning zijn gesteld;
+- c. de houder handelt in strijd met de voorwaarden genoemd in [artikel 4.4](https://wetten.overheid.nl/jci1.3:c:BWBR0022545&hoofdstuk=4&paragraaf=1&artikel=4.4&z=2016-03-31&g=2016-03-31) of de voorschriften die bij de erkenning zijn gesteld;
 
 - d. de houder van de erkenning tekort schiet in hetgeen op grond van deze erkenning redelijkerwijs van hem mag worden verwacht;
 
@@ -412,11 +422,11 @@ Vervallen
 
 3. De aanvrager dan wel houder van een erkenning bewaart de gegevens van alle oorspronkelijke waarnemingen en berekeningen en de daarvan afgeleide gegevens, de ijkstaten en het eindverslag van de proef zolang het betrokken product in de Europese Unie is toegelaten.
 
-4. Essentiële wijzigingen van de organisatie die ingevolge [artikel 4.1](https://wetten.overheid.nl/jci1.3:c:BWBR0022545&hoofdstuk=4&paragraaf=1&artikel=4.1&z=2016-01-23&g=2016-01-23) een erkenning heeft, worden schriftelijk aan de Minister van Economische Zaken gemeld. De Minister van Economische Zaken beoordeelt of de gewijzigde organisatie dan wel eventuele uitbreiding van type proeven en analyses door de organisatie voldoen aan de eisen voor erkenning.
+4. Essentiële wijzigingen van de organisatie die ingevolge [artikel 4.1](https://wetten.overheid.nl/jci1.3:c:BWBR0022545&hoofdstuk=4&paragraaf=1&artikel=4.1&z=2016-03-31&g=2016-03-31) een erkenning heeft, worden schriftelijk aan de Minister van Economische Zaken gemeld. De Minister van Economische Zaken beoordeelt of de gewijzigde organisatie dan wel eventuele uitbreiding van type proeven en analyses door de organisatie voldoen aan de eisen voor erkenning.
 
 ##### Artikel 4.5. Leges
 
-Als vergoeding van de kosten voor de behandeling van een aanvraag tot erkenning als bedoeld in [artikel 4.1, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022545&hoofdstuk=4&paragraaf=1&artikel=4.1&z=2016-01-23&g=2016-01-23), is de aanvrager voor de werkzaamheden die worden verricht in verband met die erkenning verschuldigd:
+Als vergoeding van de kosten voor de behandeling van een aanvraag tot erkenning als bedoeld in [artikel 4.1, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022545&hoofdstuk=4&paragraaf=1&artikel=4.1&z=2016-03-31&g=2016-03-31), is de aanvrager voor de werkzaamheden die worden verricht in verband met die erkenning verschuldigd:
 
 - –. € 127,50 per uur per medewerker en
 
@@ -468,7 +478,7 @@ Vervallen
 
 - b. een goed leesbare kopie van het identiteitsbewijs van de aanvrager, en
 
-- c. een gewaarmerkt afschrift van een diploma of een certificaat als bedoeld in [artikel 6.3, derde tot en met zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022545&hoofdstuk=6&paragraaf=1&artikel=6.3&z=2016-01-23&g=2016-01-23), of
+- c. een gewaarmerkt afschrift van een diploma of een certificaat als bedoeld in [artikel 6.3, derde tot en met zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022545&hoofdstuk=6&paragraaf=1&artikel=6.3&z=2016-03-31&g=2016-03-31), of
 
 - d. een gewaarmerkt afschrift van een bekwaamheidsattest of opleidingstitel, dat door Bureau erkenningen van de AOC-raad is erkend op grond van [artikel 6 van de Algemene wet erkenning EU-beroepskwalificaties](https://wetten.overheid.nl/jci1.3:c:BWBR0023066&artikel=6).
 
@@ -508,7 +518,7 @@ Vervallen
 
 6. Het bewijs van vakbekwaamheid Mollen- en Woelrattenbestrijding wordt verstrekt aan de persoon die beschikt over een certificaat gewasbescherming MW of een diploma dat mede dat certificaat omvat, dat voldoet aan de op grond van de [artikelen 7.2.4](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=7.2.4).en [7.2.6. van de Wet educatie en beroepsonderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=7.2.6) vastgestelde kwalificaties en beroepsvereisten.
 
-7. Het bewijs van vakbekwaamheid op basis van een Veiligheidsinstructie Gewasbescherming, bedoeld in [artikel 6.3a](https://wetten.overheid.nl/jci1.3:c:BWBR0022545&hoofdstuk=6&paragraaf=1&artikel=6.3a&z=2016-01-23&g=2016-01-23), wordt verstrekt aan de persoon die een instructie op de werkplek heeft gevolgd als bedoeld in [artikel 17, eerste lid, onderdeel c, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0022530&artikel=17), welke instructie is erkend door Bureau Erkenningen van de AOC-raad.
+7. Het bewijs van vakbekwaamheid op basis van een Veiligheidsinstructie Gewasbescherming, bedoeld in [artikel 6.3a](https://wetten.overheid.nl/jci1.3:c:BWBR0022545&hoofdstuk=6&paragraaf=1&artikel=6.3a&z=2016-03-31&g=2016-03-31), wordt verstrekt aan de persoon die een instructie op de werkplek heeft gevolgd als bedoeld in [artikel 17, eerste lid, onderdeel c, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0022530&artikel=17), welke instructie is erkend door Bureau Erkenningen van de AOC-raad.
 
 8. Een bewijs van vakbekwaamheid als bedoeld in het derde tot en met zesde lid, wordt ambtshalve verlengd indien voldoende nascholingsbijeenkomsten zijn bijgewoond, die zijn erkend door Bureau Erkenningen van de AOC-raad, of opnieuw met goed gevolg een examen is afgelegd dat recht geeft op een certificaat als bedoeld in het derde tot en met zesde lid.
 
@@ -532,15 +542,15 @@ Vervallen
 
 5. In geval van toepassing van [artikel 27, derde lid, van de Algemene wet erkenning EU-beroepskwalificaties](https://wetten.overheid.nl/jci1.3:c:BWBR0023066&artikel=27) beoordeelt de Minister van Infrastructuur en Milieu of een door de Minister van Infrastructuur en Milieu aangewezen instantie of de dienstverrichter, bedoeld in het vierde lid, over voldoende kennis en vaardigheden beschikt.
 
-6. Een bewijs van vakbekwaamheid als bedoeld in [artikel 17a, eerste lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0022530&artikel=17a), ten aanzien van het afweren of bestrijden van een dierplaag, het bestrijden van houtrotverwekkende schimmel, gassingsleider of gasmeetdeskundige, wordt verstrekt indien de gebruiker met goed gevolg theorie- en praktijkexamens heeft afgelegd, die voldoen aan de eindtermen voor onderwijs, bedoeld in [bijlage VI](https://wetten.overheid.nl/jci1.3:c:BWBR0022545&bijlage=VI&z=2016-01-23&g=2016-01-23), onderdeel A, of [bijlage VII](https://wetten.overheid.nl/jci1.3:c:BWBR0022545&bijlage=VII&z=2016-01-23&g=2016-01-23), en daartoe een getuigschrift van Stichting Examen- en Certificeringsinstituut Plaagdierpreventie, of Stichting Certificeringsinstituut Plaagdierbeheersing, Milieu en Volksgezondheid heeft ontvangen.
+6. Een bewijs van vakbekwaamheid als bedoeld in [artikel 17a, eerste lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0022530&artikel=17a), ten aanzien van het afweren of bestrijden van een dierplaag, het bestrijden van houtrotverwekkende schimmel, gassingsleider of gasmeetdeskundige, wordt verstrekt indien de gebruiker met goed gevolg theorie- en praktijkexamens heeft afgelegd, die voldoen aan de eindtermen voor onderwijs, bedoeld in [bijlage VI](https://wetten.overheid.nl/jci1.3:c:BWBR0022545&bijlage=VI&z=2016-03-31&g=2016-03-31), onderdeel A, of [bijlage VII](https://wetten.overheid.nl/jci1.3:c:BWBR0022545&bijlage=VII&z=2016-03-31&g=2016-03-31), en daartoe een getuigschrift van Stichting Examen- en Certificeringsinstituut Plaagdierpreventie, of Stichting Certificeringsinstituut Plaagdierbeheersing, Milieu en Volksgezondheid heeft ontvangen.
 
-7. De kosten voor een bewijs van vakbekwaamheid bedragen voor een bewijs van vakbekwaamheid als bedoeld in [bijlage VI](https://wetten.overheid.nl/jci1.3:c:BWBR0022545&bijlage=VI&z=2016-01-23&g=2016-01-23), onderdeel A, ten hoogste € 45,–, exclusief de kosten van scholing. De kosten voor een bewijs van vakbekwaamheid als bedoeld in bijlage VI, onderdeel B, bedragen ten hoogste € 50,–, exclusief de kosten van nascholing.
+7. De kosten voor een bewijs van vakbekwaamheid bedragen voor een bewijs van vakbekwaamheid als bedoeld in [bijlage VI](https://wetten.overheid.nl/jci1.3:c:BWBR0022545&bijlage=VI&z=2016-03-31&g=2016-03-31), onderdeel A, ten hoogste € 45,–, exclusief de kosten van scholing. De kosten voor een bewijs van vakbekwaamheid als bedoeld in bijlage VI, onderdeel B, bedragen ten hoogste € 50,–, exclusief de kosten van nascholing.
 
-8. Een bewijs van vakbekwaamheid wordt ambtshalve verlengd als bedoeld in [artikel 18, tweede lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0022530&artikel=18), indien wordt voldaan aan de eindtermen voor onderwijs, bedoeld in [bijlage VI](https://wetten.overheid.nl/jci1.3:c:BWBR0022545&bijlage=VI&z=2016-01-23&g=2016-01-23), onderdeel B, of [bijlage VII](https://wetten.overheid.nl/jci1.3:c:BWBR0022545&bijlage=VII&z=2016-01-23&g=2016-01-23).
+8. Een bewijs van vakbekwaamheid wordt ambtshalve verlengd als bedoeld in [artikel 18, tweede lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0022530&artikel=18), indien wordt voldaan aan de eindtermen voor onderwijs, bedoeld in [bijlage VI](https://wetten.overheid.nl/jci1.3:c:BWBR0022545&bijlage=VI&z=2016-03-31&g=2016-03-31), onderdeel B, of [bijlage VII](https://wetten.overheid.nl/jci1.3:c:BWBR0022545&bijlage=VII&z=2016-03-31&g=2016-03-31).
 
-9. De Minister van Infrastructuur en Milieu kan een bewijs van vakbekwaamheid biociden intrekken indien de houder ervan niet voldoet aan de eindtermen voor onderwijs, bedoeld in [bijlagen VI](https://wetten.overheid.nl/jci1.3:c:BWBR0022545&bijlage=VI&z=2016-01-23&g=2016-01-23) of [VII](https://wetten.overheid.nl/jci1.3:c:BWBR0022545&bijlage=VII&z=2016-01-23&g=2016-01-23). [Artikel 6.3b, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022545&hoofdstuk=6&paragraaf=1&artikel=6.3b&z=2016-01-23&g=2016-01-23), is van overeenkomstige toepassing.
+9. De Minister van Infrastructuur en Milieu kan een bewijs van vakbekwaamheid biociden intrekken indien de houder ervan niet voldoet aan de eindtermen voor onderwijs, bedoeld in [bijlagen VI](https://wetten.overheid.nl/jci1.3:c:BWBR0022545&bijlage=VI&z=2016-03-31&g=2016-03-31) of [VII](https://wetten.overheid.nl/jci1.3:c:BWBR0022545&bijlage=VII&z=2016-03-31&g=2016-03-31). [Artikel 6.3b, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022545&hoofdstuk=6&paragraaf=1&artikel=6.3b&z=2016-03-31&g=2016-03-31), is van overeenkomstige toepassing.
 
-10. De Minister van Infrastructuur en Milieu kan een bewijs van vakbekwaamheid biociden intrekken op grond van [artikel 85, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0021670&artikel=85). [Artikel 6.3b, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022545&hoofdstuk=6&paragraaf=1&artikel=6.3b&z=2016-01-23&g=2016-01-23), is van overeenkomstige toepassing.
+10. De Minister van Infrastructuur en Milieu kan een bewijs van vakbekwaamheid biociden intrekken op grond van [artikel 85, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0021670&artikel=85). [Artikel 6.3b, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022545&hoofdstuk=6&paragraaf=1&artikel=6.3b&z=2016-03-31&g=2016-03-31), is van overeenkomstige toepassing.
 
 ##### Artikel 6.5. Voorwaarde voor de verlenging van een bewijs van vakbekwaamheid
 
@@ -552,11 +562,11 @@ Voor de volgende handelingen is geen bewijs van vakbekwaamheid vereist:
 
 - a. het afleveren door personeel van reeds bestelde of reeds gekochte gewasbeschermingsmiddelen of biociden, indien dat uit een bestelbon of factuur blijkt, zonder advies aan gebruikers;
 
-- b. het gedurende maximaal één jaar toepassen van biociden door diegene die met goed gevolg deel heeft genomen aan de opleiding starterlicentie voor het beheersen van plaagdieren en houtaantastende organismen, bedoeld in bijlage VI, onderdeel C, en die daartoe een starterlicentie van de Stichting Examen- en Certificeringsinstituut Plaagdierpreventie of de Stichting Certificeringsinstituut Plaagdierbeheersing, Milieu en Volksgezondheid heeft ontvangen en voldoet aan de voorwaarden gesteld in [bijlage VI, onderdeel D](https://wetten.overheid.nl/jci1.3:c:BWBR0022545&bijlage=VI&z=2016-01-23&g=2016-01-23);
+- b. het gedurende maximaal één jaar toepassen van biociden door diegene die met goed gevolg deel heeft genomen aan de opleiding starterlicentie voor het beheersen van plaagdieren en houtaantastende organismen, bedoeld in bijlage VI, onderdeel C, en die daartoe een starterlicentie van de Stichting Examen- en Certificeringsinstituut Plaagdierpreventie of de Stichting Certificeringsinstituut Plaagdierbeheersing, Milieu en Volksgezondheid heeft ontvangen en voldoet aan de voorwaarden gesteld in [bijlage VI, onderdeel D](https://wetten.overheid.nl/jci1.3:c:BWBR0022545&bijlage=VI&z=2016-03-31&g=2016-03-31);
 
-- c. het toepassen van een biocide voor het afweren of bestrijden van een dierplaag, niet zijnde knaagdieren of het bestrijden van een houtrotverwekkende schimmel als bedoeld in [artikel 6.4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022545&hoofdstuk=6&paragraaf=1&artikel=6.4&z=2016-01-23&g=2016-01-23), door een agrarische ondernemer op het eigen bedrijf;
+- c. het toepassen van een biocide voor het afweren of bestrijden van een dierplaag, niet zijnde knaagdieren of het bestrijden van een houtrotverwekkende schimmel als bedoeld in [artikel 6.4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022545&hoofdstuk=6&paragraaf=1&artikel=6.4&z=2016-03-31&g=2016-03-31), door een agrarische ondernemer op het eigen bedrijf;
 
-- d. het toepassen van biociden voor het afweren of bestrijden van knaagdieren door een agrarische ondernemer op het eigen bedrijf door een houder van een licentie voor het beheersen van knaagdieren door een agrarische ondernemer op het eigen bedrijf, bedoeld in [bijlage VI, onderdeel E](https://wetten.overheid.nl/jci1.3:c:BWBR0022545&bijlage=VI&z=2016-01-23&g=2016-01-23), en die daartoe een licentie van bureau Erkenningen van de AOC-Raad heeft ontvangen. De geldigheid van bovengenoemde licentie wordt na afloop van een termijn van vijf jaar door bureau Erkenningen van de AOC-Raad verlengd indien is voldaan aan de eindtermen voor onderwijs als genoemd in bijlage VI, onderdeel F;
+- d. het toepassen van biociden voor het afweren of bestrijden van knaagdieren door een agrarische ondernemer op het eigen bedrijf door een houder van een licentie voor het beheersen van knaagdieren door een agrarische ondernemer op het eigen bedrijf, bedoeld in [bijlage VI, onderdeel E](https://wetten.overheid.nl/jci1.3:c:BWBR0022545&bijlage=VI&z=2016-03-31&g=2016-03-31), en die daartoe een licentie van bureau Erkenningen van de AOC-Raad heeft ontvangen. De geldigheid van bovengenoemde licentie wordt na afloop van een termijn van vijf jaar door bureau Erkenningen van de AOC-Raad verlengd indien is voldaan aan de eindtermen voor onderwijs als genoemd in bijlage VI, onderdeel F;
 
 - e. de industriële toepassing van een biocide in hout in verband met de conservering ervan tegen schimmels of dierplagen;
 
@@ -590,17 +600,49 @@ Degene die de biologische productiemethode als bedoeld in [artikel 2 van het Lan
 
 #### § 2. Toepassingsmethoden, – technieken en – materialen
 
-##### Artikel 8.2. Verplichtingen gebruiker bij toepassing met luchtvaartuigen
+##### Artikel 8.2. (Noodzakelijk voor veilige exploitatie)
 
-Vervallen
+1. [Het eerste lid van artikel 27b van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0022530&artikel=27b) is niet van toepassing op het gebruik van gewasbeschermingsmiddelen voor het bestrijden van onkruid of mos op de volgende terreinen:
 
-##### Artikel 8.3. Algemene voorwaarden toepassing met luchtvaartuigen
+- a. locaties waar het gebruik van open vuur of draaiende motoren niet is toegestaan;
 
-Vervallen
+- b. start-, landings- en taxibanen van vliegvelden;
 
-##### Artikel 8.4. Nadere voorwaarden administratie
+- c. spoor-, metro en trambanen, voor zover het betreft:
 
-Vervallen
+- 1°. het ballastbed bestaande uit een laag steenslag waarin zich de railconstructie bevindt, of;
+
+- 2°. inspectie- of schouwpaden gelegen binnen de veiligheidszone;
+
+- d. locaties waar scherpe munitie of explosieven in de bodem aanwezig zijn of kunnen zijn.
+
+2. [Het eerste lid van artikel 27b van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0022530&artikel=27b) is niet van toepassing op het gebruik van gewasbeschermingsmiddelen voor het behandelen van stobben in, op of langs weg- en waterbouwkundige constructies, indien door mechanisch verwijderen de stabiliteit van deze constructie in gevaar komt.
+
+##### Artikel 8.3. (Noodzakelijk voor de bescherming van mens, dier of milieu)
+
+1. [Het eerste lid van artikel 27b van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0022530&artikel=27b) is niet van toepassing op het op verharde oppervlakken gebruik van gewasbeschermingsmiddelen ter selectieve en pleksgewijze bestrijding van:
+
+- a. Duizendknoop: Japanse duizendknoop (Fallopia japonica), Sachalinse duizendknoop (Fallopia sachalinensis), Bastaard duizendknoop (Fallopia x bohemica), Afghaanse duizendknoop (Persicaria wallichii) en kruisingen;
+
+- b. Ambrosia (**Ambrosia** species).
+
+2. [Het eerste lid van artikel 27b van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0022530&artikel=27b) is niet van toepassing op het gebruik waarvoor op grond van [artikel 38 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0021670&artikel=38) een vrijstelling is verleend.
+
+##### Artikel 8.4. (Specifieke terreinen voor sport en recreatie)
+
+[Het eerste lid van artikel 27b van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0022530&artikel=27b) is niet van toepassing op het gebruik van gewasbeschermingsmiddelen op de volgende terreinen:
+
+- a. sportvelden voor het in georganiseerd verband beoefenen van sport in de open lucht, voor zover het het bespeelbare gedeelte van het terrein betreft inclusief een beperkte zone daar omheen die voor het beoefenen van de sport nodig is.
+
+- b. niet door de overheid beheerde recreatieterreinen, voor zover het betreft:
+
+- 1°. bungalowterreinen;
+
+- 2°. groepsaccommodaties;
+
+- 3°. campingterreinen;
+
+- 4°. jachthavens, niet zijnde de aanlegsteigers in of nabij het oppervlaktewater.
 
 ##### Artikel 8.5. Schriftelijke verklaring op het gemeentehuis
 
@@ -616,13 +658,13 @@ Vervallen
 
 ##### Artikel 8.8. Toepasselijkheid bepalingen inzake gasvormige en gasvormende middelen
 
-1. De [artikelen 30](https://wetten.overheid.nl/jci1.3:c:BWBR0022530&artikel=30) en [31 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0022530&artikel=31) inzake de toepassingsmethoden bij gasvormige en gasvormende gewasbeschermingsmiddelen en biociden zijn slechts van toepassing op middelen met een werkzame stof als bedoeld in [bijlage X](https://wetten.overheid.nl/jci1.3:c:BWBR0022545&bijlage=X&z=2016-01-23&g=2016-01-23) bij deze regeling.
+1. De [artikelen 30](https://wetten.overheid.nl/jci1.3:c:BWBR0022530&artikel=30) en [31 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0022530&artikel=31) inzake de toepassingsmethoden bij gasvormige en gasvormende gewasbeschermingsmiddelen en biociden zijn slechts van toepassing op middelen met een werkzame stof als bedoeld in [bijlage X](https://wetten.overheid.nl/jci1.3:c:BWBR0022545&bijlage=X&z=2016-03-31&g=2016-03-31) bij deze regeling.
 
 2. De toegangen, bedoeld in [artikel 30, eerste lid, onderdeel a, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0022530&artikel=30) zijn voorzien van een waarschuwingssignaal en opschrift dat in overeenstemming is met hetgeen hieromtrent is bepaald in [hoofdstuk 8 van de Arbeidsomstandighedenregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=8).
 
 ##### Artikel 8.9. Melding toepassing fosforwaterstof, sulfurylfluoride en methylbromide
 
-1. Gewasbeschermingsmiddelen en biociden die als werkzame stof fosforwaterstof, sulfurylfluoride of methylbromide bevatten, worden niet toegepast dan nadat ten minste zeven dagen voor aanvang van de toepassing een melding is gedaan bij de bevoegde bedrijfstakdirecteur van de Inspectie Leefomgeving en Transport. Daartoe wordt het formulier, bedoeld in [bijlage XI](https://wetten.overheid.nl/jci1.3:c:BWBR0022545&bijlage=XI&z=2016-01-23&g=2016-01-23), volledig en naar waarheid ingevuld.
+1. Gewasbeschermingsmiddelen en biociden die als werkzame stof fosforwaterstof, sulfurylfluoride of methylbromide bevatten, worden niet toegepast dan nadat ten minste zeven dagen voor aanvang van de toepassing een melding is gedaan bij de bevoegde bedrijfstakdirecteur van de Inspectie Leefomgeving en Transport. Daartoe wordt het formulier, bedoeld in [bijlage XI](https://wetten.overheid.nl/jci1.3:c:BWBR0022545&bijlage=XI&z=2016-03-31&g=2016-03-31), volledig en naar waarheid ingevuld.
 
 2. In afwijking van het eerste lid kan de melding korter dan zeven dagen voor aanvang van de toepassing worden gedaan, indien minder dan 2500 m3 wordt gegast of de toepassing een gassing van lichters of binnenvaartschepen betreft en het spoedeisende karakter van de toepassing dit noodzakelijk maakt, mits:
 
@@ -632,7 +674,7 @@ Vervallen
 
 - –. de melding ten minste 24 uur voor aanvang van de toepassing is ontvangen en niet meer dan 2500 m3 wordt gegast.
 
-3. Voor de gasvrijverklaring, bedoeld in [artikel 31, derde lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0022530&artikel=31) wordt het formulier bedoeld in [bijlage XII](https://wetten.overheid.nl/jci1.3:c:BWBR0022545&bijlage=XII&z=2016-01-23&g=2016-01-23) volledig en naar waarheid ingevuld, verstrekt aan de opdrachtgever. Een afschrift van dit formulier wordt binnen 48 uur aan de bevoegde directeur van de Inspectie Leefomgeving en Transport toegezonden.
+3. Voor de gasvrijverklaring, bedoeld in [artikel 31, derde lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0022530&artikel=31) wordt het formulier bedoeld in [bijlage XII](https://wetten.overheid.nl/jci1.3:c:BWBR0022545&bijlage=XII&z=2016-03-31&g=2016-03-31) volledig en naar waarheid ingevuld, verstrekt aan de opdrachtgever. Een afschrift van dit formulier wordt binnen 48 uur aan de bevoegde directeur van de Inspectie Leefomgeving en Transport toegezonden.
 
 4. Degene die de verklaring, bedoeld in het derde lid, heeft verstrekt, bewaart een afschrift van de verklaring gedurende ten minste een jaar.
 
@@ -708,9 +750,9 @@ Vervallen
 
 ##### Artikel 9.6. Hoogte van de bestuurlijke boete
 
-1. De hoogte van de bestuurlijke boete, die de Minister van Economische Zaken en de Minister van Infrastructuur en Milieu op grond van [artikel 90 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0021670&artikel=90) kan opleggen bij een overtreding, is gelijk aan het geldbedrag dat in [bijlage XIII](https://wetten.overheid.nl/jci1.3:c:BWBR0022545&bijlage=XIII&z=2016-01-23&g=2016-01-23) voor de desbetreffende overtreding is vermeld.
+1. De hoogte van de bestuurlijke boete, die de Minister van Economische Zaken en de Minister van Infrastructuur en Milieu op grond van [artikel 90 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0021670&artikel=90) kan opleggen bij een overtreding, is gelijk aan het geldbedrag dat in [bijlage XIII](https://wetten.overheid.nl/jci1.3:c:BWBR0022545&bijlage=XIII&z=2016-03-31&g=2016-03-31) voor de desbetreffende overtreding is vermeld.
 
-2. In afwijking van het eerste lid bedraagt de bestuurlijke boete voor een overtreding met betrekking tot professioneel gebruik van biociden de helft van het geldbedrag, genoemd in [bijlage XIII](https://wetten.overheid.nl/jci1.3:c:BWBR0022545&bijlage=XIII&z=2016-01-23&g=2016-01-23), behoudens indien:
+2. In afwijking van het eerste lid bedraagt de bestuurlijke boete voor een overtreding met betrekking tot professioneel gebruik van biociden de helft van het geldbedrag, genoemd in [bijlage XIII](https://wetten.overheid.nl/jci1.3:c:BWBR0022545&bijlage=XIII&z=2016-03-31&g=2016-03-31), behoudens indien:
 
 - a. de gebruiker beschikt of dient te beschikken over een bewijs van vakbekwaamheid;
 
@@ -852,9 +894,9 @@ De kandidaat moet blijk geven over de volgende kennis te beschikken:
 
 De kandidaat kan na het met goed gevolg deelnemen aan het voor deze functie af te leggen theorie-examen:
 
-### D. Voorwaarden vrijstelling bewijs van vakbekwaamheid inzake een houder van een starterlicentie als bedoeld in [artikel 6.6, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0022545&hoofdstuk=6&paragraaf=1&artikel=6.6&z=2016-01-23&g=2016-01-23)
+### D. Voorwaarden vrijstelling bewijs van vakbekwaamheid inzake een houder van een starterlicentie als bedoeld in [artikel 6.6, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0022545&hoofdstuk=6&paragraaf=1&artikel=6.6&z=2016-03-31&g=2016-03-31)
 
-De houder van een starterlicentie, als bedoeld in [artikel 6.6, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0022545&hoofdstuk=6&paragraaf=1&artikel=6.6&z=2016-01-23&g=2016-01-23), voldoet aan de volgende voorwaarden:
+De houder van een starterlicentie, als bedoeld in [artikel 6.6, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0022545&hoofdstuk=6&paragraaf=1&artikel=6.6&z=2016-03-31&g=2016-03-31), voldoet aan de volgende voorwaarden:
 
 Gebruik maken van de juiste persoonlijke beschermingsmaatregelen
 
@@ -1497,7 +1539,7 @@ Vervallen
 
 ## Bijlage X. Gasvormige en gasvormende gewasbeschermingsmiddelen of biociden
 
-Gasvormige en gasvormende gewasbeschermingsmiddelen of biociden als bedoeld in [artikel 8.8](https://wetten.overheid.nl/jci1.3:c:BWBR0022545&hoofdstuk=8&paragraaf=2&artikel=8.8&z=2016-01-23&g=2016-01-23) van deze regeling, zijn gewasbeschermingsmiddelen of biociden die één of meer van de volgende stoffen bevatten:
+Gasvormige en gasvormende gewasbeschermingsmiddelen of biociden als bedoeld in [artikel 8.8](https://wetten.overheid.nl/jci1.3:c:BWBR0022545&hoofdstuk=8&paragraaf=2&artikel=8.8&z=2016-03-31&g=2016-03-31) van deze regeling, zijn gewasbeschermingsmiddelen of biociden die één of meer van de volgende stoffen bevatten:
 
 - 1. middelen die ethyleenoxyde bevatten;
 
@@ -1611,7 +1653,7 @@ Handtekening gassingsleider/gasmeetdeskundige
 
 | Rij nr. | grondslag | Overtreding | Boete in € voor distributeur ¹ | Boete in € voor professionele gebruiker | Boete in € voor niet-professionele gebruiker |
 | --- | --- | --- | --- | --- | --- |
-| A | 2a wet ² | Algemene zorgplicht niet nakomen | 1.000 | 500 | 250 |
+| A | [2a wet](https://wetten.overheid.nl/jci1.3:c:BWBR0021670&artikel=2a) ² | Algemene zorgplicht niet nakomen | 1.000 | 500 | 250 |
 
 ¹ Omvat ook de houder van de toelating; in rij 40 te lezen als: fabrikant of zijn gemachtigde.
 
@@ -1619,14 +1661,14 @@ Handtekening gassingsleider/gasmeetdeskundige
 
 | Rij | Grondslag | Overtreding | Boete in € voor distributeur | Boete in € voor professionele gebruiker | Boete in € voor niet-professionele gebruiker |
 | --- | --- | --- | --- | --- | --- |
-| 1. | 23 EG ¹ en 19 wet | Een werkzame stof gebruiken die niet is toegelaten als gewasbeschermingsmiddel of niet is goedgekeurd als basisstof. | Nvt | 2.000 | 500 |
-| 2. | 28, 1e lid EG en 20, 1e lid wet | Een niet in Nederland toegelaten gewasbeschermingsmiddel op de markt brengen of gebruiken | 2.500 | 2.000 | 1.000 |
+| 1. | 23 EG ¹ en [19 wet](https://wetten.overheid.nl/jci1.3:c:BWBR0021670&artikel=19) | Een werkzame stof gebruiken die niet is toegelaten als gewasbeschermingsmiddel of niet is goedgekeurd als basisstof. | Nvt | 2.000 | 500 |
+| 2. | 28, 1e lid EG en [20, 1e lid wet](https://wetten.overheid.nl/jci1.3:c:BWBR0021670&artikel=20) | Een niet in Nederland toegelaten gewasbeschermingsmiddel op de markt brengen of gebruiken | 2.500 | 2.000 | 1.000 |
 | 3. | 20, 3e lid wet | Een niet in Nederland toegelaten gewasbeschermingsmiddel voorhanden of op voorraad hebben | 1.500 | 500 | 250 |
 | 4. | 20, 3e lid wet | Een niet toegelaten toevoegingsstof voorhanden hebben of op voorraad hebben | 500 | 250 | 50 |
 | 5. | 20, 1e lid wet en 55 EG | Verkeerd gebruik van een gewasbeschermingsmiddel of toevoegingsstof | Nvt | 1.500 | 500 |
-| 6. | 22, 1e lid wet | Een toegelaten gewasbeschermings-middel op de markt brengen terwijl de voorschriften en beperkingen niet op de juiste wijze op of aan of bij de verpakking zijn vermeld. | 1.000 | nvt | nvt |
+| 6. | [22, 1e lid wet](https://wetten.overheid.nl/jci1.3:c:BWBR0021670&artikel=22) | Een toegelaten gewasbeschermings-middel op de markt brengen terwijl de voorschriften en beperkingen niet op de juiste wijze op of aan of bij de verpakking zijn vermeld. | 1.000 | nvt | nvt |
 | 7. | 22, 2e lid, wet | Een toegelaten gewasbeschermings- middel op de markt brengen of gebruiken, terwijl het gehalte aan werkzame stof en de verdere samenstelling, kleur, vorm, afwerking, verpakking, aanduidingen of vermeldingen niet aan de voorschriften voldoen. | 1.500 | 1.000 | 500 |
-| 8. | 21 wet | Zaaizaad op de markt brengen of gebruiken dat is behandeld met een niet voor dat doel in een lidstaat van de Europese Unie toegelaten gewasbeschermingsmiddel | 2.500 | 1.000 | 250 |
+| 8. | [21 wet](https://wetten.overheid.nl/jci1.3:c:BWBR0021670&artikel=21) | Zaaizaad op de markt brengen of gebruiken dat is behandeld met een niet voor dat doel in een lidstaat van de Europese Unie toegelaten gewasbeschermingsmiddel | 2.500 | 1.000 | 250 |
 | 9. | 20, 2e lid, wet en 49, 4e lid, EG | Met een gewasbeschermingsmiddel behandeld zaaizaad op de markt brengen in strijd met de etiketteringsregels | 1.000 | nvt | nvt |
 | 10. | 52, 1e lid, EG en 20, 1e lid, wet | Zonder vergunning voor parallelhandel een elders in de EU toegelaten gewasbeschermingsmiddel in Nederland brengen | 500 | 500 | 50 |
 | 11. | 52, 5e lid, EG en 20, 1e lid, wet | In strijd handelen met uitvoeringsverordening en de daarin gestelde controle-eisen voor parallelhandel | 250 | 250 | 50 |
@@ -1637,45 +1679,45 @@ Handtekening gassingsleider/gasmeetdeskundige
 | 16. | 65, 1e lid EG en 20, 2e lid, wet | Onjuiste etikettering | 2.000 | nvt | nvt |
 | 17. | 66, 1e, 2e en 4e lid, EG en 20, 2e lid, wet | Misleidende informatie geven over de gevaren van gewasbeschermingsmiddel voor mens, dier, plant of milieu of reclame maken voor niet toegelaten middelen | 2.000 | 1.500 | 500 |
 | 18. | 66,5e en 6e lid, EG en 20, 2e lid, wet | Reclame maken mbv irrealistische illustraties of zonder te wijzen op de waarschuwingszinnen en -symbolen |   |   |   |
-| 19. | 67 EG en 20, 2e lid, wet en 7.1, 7.3a, b, en c Rgb | Onjuiste of onvolledige administratie van gewasbeschermingsmiddelen | 1.000 | 500 | nvt |
-| 20. | 54 EG en 37, 3e lid, wet | Overtreding van een voorschrift of beperking, gesteld bij een ontheffing of erkenning voor proeven en experimenten | 2.500 | nvt | nvt |
-| 21. | 53 EG en 38, 3e lid, wet | Overtreding van een voorschrift of beperking, verbonden aan een vrijstelling van een gewasbeschermingsmiddel voor maximaal 120 dagen | 1.000 | 1.000 | 500 |
-| 22. | 71 EG en 39 wet | In strijd met een tijdelijke beperking of tijdelijk verbod een gewasbeschermingsmiddel op de markt brengen of gebruiken | 5.000 | 2.500 | 500 |
-| 23. | 71, 1e lid, wet en 6.7, Rgb | Een gewasbeschermingsmiddel ontvangen of voorhanden hebben zonder geldig bewijs van vakbekwaamheid | 1.500 | 500 | 250 |
+| 19. | 67 EG en 20, 2e lid, wet en [7.1](https://wetten.overheid.nl/jci1.3:c:BWBR0022545&hoofdstuk=7&artikel=7.1&z=2016-03-31&g=2016-03-31), [7.3a, b, en c](https://wetten.overheid.nl/jci1.3:c:BWBR0022545&hoofdstuk=7&artikel=7.3a&z=2016-03-31&g=2016-03-31) Rgb | Onjuiste of onvolledige administratie van gewasbeschermingsmiddelen | 1.000 | 500 | nvt |
+| 20. | 54 EG en [37, 3e lid, wet](https://wetten.overheid.nl/jci1.3:c:BWBR0021670&artikel=37) | Overtreding van een voorschrift of beperking, gesteld bij een ontheffing of erkenning voor proeven en experimenten | 2.500 | nvt | nvt |
+| 21. | 53 EG en [38, 3e lid, wet](https://wetten.overheid.nl/jci1.3:c:BWBR0021670&artikel=38) | Overtreding van een voorschrift of beperking, verbonden aan een vrijstelling van een gewasbeschermingsmiddel voor maximaal 120 dagen | 1.000 | 1.000 | 500 |
+| 22. | 71 EG en [39 wet](https://wetten.overheid.nl/jci1.3:c:BWBR0021670&artikel=39) | In strijd met een tijdelijke beperking of tijdelijk verbod een gewasbeschermingsmiddel op de markt brengen of gebruiken | 5.000 | 2.500 | 500 |
+| 23. | [71, 1e lid, wet](https://wetten.overheid.nl/jci1.3:c:BWBR0021670&artikel=71) en [6.7](https://wetten.overheid.nl/jci1.3:c:BWBR0022545&hoofdstuk=6&paragraaf=1&artikel=6.7&z=2016-03-31&g=2016-03-31), Rgb | Een gewasbeschermingsmiddel ontvangen of voorhanden hebben zonder geldig bewijs van vakbekwaamheid | 1.500 | 500 | 250 |
 | 24. | 71, 1e lid, wet en 6.7, Rgb | Een gewasbeschermingsmiddel gebruiken zonder geldig bewijs van vakbekwaamheid | nvt | 1.500 | 500 |
-| 25. | 73, 1e lid, wet | Een gewasbeschermingsmiddel voor professioneel gebruik op de markt brengen voor een klant die niet over een geldig bewijs van vakbekwaamheid beschikt. | 1.500 | nvt | Nvt |
+| 25. | [73, 1e lid, wet](https://wetten.overheid.nl/jci1.3:c:BWBR0021670&artikel=73) | Een gewasbeschermingsmiddel voor professioneel gebruik op de markt brengen voor een klant die niet over een geldig bewijs van vakbekwaamheid beschikt. | 1.500 | nvt | Nvt |
 | 26. | 73, 2e lid, wet | Een gewasbeschermingsmiddel, niet aangemerkt als geschikt voor niet-professioneel gebruik, op de markt brengen ten behoeve van een gebruiker die niet over een geldig bewijs van vakbekwaamheid beschikt. | 1.500 | nvt | Nvt |
 | 27. | 73, 3e lid, wet | Niet in staat zijn juiste voorlichting te geven aan klanten (professioneel) | 500 | nvt | nvt |
 | 28. | 73, 4e lid, wet en 7.4 Rgb | Niet in staat zijn juiste voorlichting te geven aan klanten (niet-professioneel) | 500 | nvt | Nvt |
-| 29. | 74, 2e lid, wet en artikelen 7.1, 7.3a, b en c Rgb | Geen administratie voeren of een ondeugdelijke administratie voeren in de in artikel 74, tweede lid bedoelde situatie | 500 | 250 | Nvt |
+| 29. | [74, 2e lid, wet](https://wetten.overheid.nl/jci1.3:c:BWBR0021670&artikel=74) en artikelen 7.1, 7.3a, b en c Rgb | Geen administratie voeren of een ondeugdelijke administratie voeren in de in artikel 74, tweede lid bedoelde situatie | 500 | 250 | Nvt |
 | 30. | 74, 2e lid, wet en 7.3d, 2e lid, Rgb | Zonder papieren niet-toegelaten middelen vervoeren | 500 | nvt | nvt |
-| 31. | 75, 1e lid, onderdeel c, wet en 7.3d, 1e lid, Rgb | Niet in Nederland toegelaten middelen niet apart opslaan van toegelaten middelen | 500 | 250 | nvt |
-| 32. | 78, 2e lid, wet en 26, 1e lid Bgb | Geen deugdelijke gewasbeschermingsmonitor bijhouden en afronden na de teelt | nvt | 500 | nvt |
-| 33. | 78, 2e lid, wet, en 27, 1e lid, Bgb | Gewasbeschermingsmonitor is niet op eerste verzoek te tonen | nvt | 50 | nvt |
-| 34. | 79 wet | Overtreding van een bij of krachtens amvb gesteld voorschrift over de uitvoering van goede praktijken bij het toepassen van een gewasbeschermingsmiddel | nvt | 500 | nvt |
-| 35. | 80,1e lid, wet en 27a Bgb | Nabij oppervlaktewater of beschermingszones prioritair gevaarlijke stoffen gebruiken | nvt | 1.000 | 500 |
-| 36. | 80,1e lid, wet en 27b Bgb | Gewasbeschermingsmiddelen niet minimaal gebruiken op of langs verhardingen of nabij oppervlaktewater of grondwater of waar kans op afspoeling bestaat | nvt | 1.000 | 500 |
-| 37. | 80, 1e lid wet en 29, 1e lid Bgb | Een gewasbeschermingsmiddel toepassen met een luchtvaartuig | nvt | 1.500 | 1.500 |
-| 38. | 80, 1e lid, wet en 30 Bgb | Een gasvormig of gasvormend gewasbeschermingsmiddel in een besloten ruimte toepassen in afwijking van het bepaalde in artikel 30 Bgb | nvt | 500 | 500 |
-| 39. | 80, 1e wet en 32 Bgb | Een gewasbeschermingsmiddel toepassen in strijd met de melding | 2.000 | 2.000 | 500 |
-| 40. | 80, 1e lid, wet, en Warenwet besluit machines; artikel 2, 1e lid, juncto 3, 2e lid, dan wel 3a, 1e lid, sub a Artikel 2, 2e lid, juncto 3, 2e lid, 5, 1e lid, sub a, b of c, dan wel 6c Artikel 2, 3e lid, juncto art. 3a, 1e lid, sub b, c of d, dan wel . 3b, 1e lid, sub a, b, c of 2e lid | De machine voor de toepassing van gewasbeschermingsmiddelen voldoet niet aan de veiligheidseisen ter bescherming van het milieu. | 1.000, dan wel 500 indien de natuurlijke persoon of rechtspersoon minder dan 50 werknemers telt op de dag dat de overtreding is begaan. |   |   |
+| 31. | [75, 1e lid, onderdeel c, wet](https://wetten.overheid.nl/jci1.3:c:BWBR0021670&artikel=75) en 7.3d, 1e lid, Rgb | Niet in Nederland toegelaten middelen niet apart opslaan van toegelaten middelen | 500 | 250 | nvt |
+| 32. | [78, 2e lid, wet](https://wetten.overheid.nl/jci1.3:c:BWBR0021670&artikel=78) en [26, 1e lid Bgb](https://wetten.overheid.nl/jci1.3:c:BWBR0022530&artikel=26) | Geen deugdelijke gewasbeschermingsmonitor bijhouden en afronden na de teelt | nvt | 500 | nvt |
+| 33. | 78, 2e lid, wet, en [27, 1e lid, Bgb](https://wetten.overheid.nl/jci1.3:c:BWBR0022530&artikel=27) | Gewasbeschermingsmonitor is niet op eerste verzoek te tonen | nvt | 50 | nvt |
+| 34. | [79 wet](https://wetten.overheid.nl/jci1.3:c:BWBR0021670&artikel=79) | Overtreding van een bij of krachtens amvb gesteld voorschrift over de uitvoering van goede praktijken bij het toepassen van een gewasbeschermingsmiddel | nvt | 500 | nvt |
+| 35. | [80,1e lid, wet](https://wetten.overheid.nl/jci1.3:c:BWBR0021670&artikel=80) en [27a Bgb](https://wetten.overheid.nl/jci1.3:c:BWBR0022530&artikel=27a) | Nabij oppervlaktewater of beschermingszones prioritair gevaarlijke stoffen gebruiken | nvt | 1.000 | 500 |
+| 36. | 78, 79, 80, 1e lid, [80a 1e lid wet](https://wetten.overheid.nl/jci1.3:c:BWBR0021670&artikel=80a) en [27b Bgb](https://wetten.overheid.nl/jci1.3:c:BWBR0022530&artikel=27b) | Gewasbeschermingsmiddelen gebruiken waar dit niet is toegestaan op grond van artikel 27b Bgb | nvt | 1.000 | nvt |
+| 37. | 80, 1e lid wet en [29, 1e lid Bgb](https://wetten.overheid.nl/jci1.3:c:BWBR0022530&artikel=29) | Een gewasbeschermingsmiddel toepassen met een luchtvaartuig | nvt | 1.500 | 1.500 |
+| 38. | 80, 1e lid, wet en [30 Bgb](https://wetten.overheid.nl/jci1.3:c:BWBR0022530&artikel=30) | Een gasvormig of gasvormend gewasbeschermingsmiddel in een besloten ruimte toepassen in afwijking van het bepaalde in artikel 30 Bgb | nvt | 500 | 500 |
+| 39. | 80, 1e wet en [32 Bgb](https://wetten.overheid.nl/jci1.3:c:BWBR0022530&artikel=32) | Een gewasbeschermingsmiddel toepassen in strijd met de melding | 2.000 | 2.000 | 500 |
+| 40. | [80, 1e lid, wet](https://wetten.overheid.nl/jci1.3:c:BWBR0021670&artikel=80), en [Warenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0001969&wetgeving) [besluit machines](https://wetten.overheid.nl/jci1.3:c:BWBR0005884); artikel 2, 1e lid, juncto 3, 2e lid, dan wel 3a, 1e lid, sub a Artikel 2, 2e lid, juncto 3, 2e lid, 5, 1e lid, sub a, b of c, dan wel 6c Artikel 2, 3e lid, juncto art. 3a, 1e lid, sub b, c of d, dan wel . 3b, 1e lid, sub a, b, c of 2e lid | De machine voor de toepassing van gewasbeschermingsmiddelen voldoet niet aan de veiligheidseisen ter bescherming van het milieu. | 1.000, dan wel 500 indien de natuurlijke persoon of rechtspersoon minder dan 50 werknemers telt op de dag dat de overtreding is begaan. |   |   |
 | 41. | 80, 1e lid wet | Een andere overtreding van een bij of krachtens a.m.v.b. gesteld voorschrift over het gebruik van voertuigen, vaartuigen, luchtvaarttuigen, apparatuur, technieken en materialen | Nvt | 500 | 250 |
-| 42. | 80, 2e lid, wet en 32b, 1e lid, Bgb | Niet goedgekeurde apparatuur gebruiken | nvt | 1.000 | 500 |
-| 43. | 80a, 1e lid, wet, en 27c, 1e en 2e lid, Bgb | Nabij scholen en creches e.d. een gewasbeschermingsmiddel gebruiken hoewel een redelijk alternatief beschikbaar is | nvt | 500 | 500 |
-| 44. | 80a, 1e lid, wet, en 27c, 3e en 4e lid, Bgb | Nabij scholen en creches e.d. een vergiftig of zeer vergiftig gewasbeschermingsmiddel gebruiken zonder voorgeschreven melding | nvt | 1.000 | 1.000 |
-| 45. | 80a,1e lid, wet, en 27d Bgb | Niet of onvoldoende waarschuwen tegen herbetreding | Nvt | 500 | nvt |
-| 46. | 80a, 2e lid, wet en 32a Bgb | Verpakkingen op incorrecte wijze reinigen | nvt | 500 | nvt |
-| 47. | 81 wet, en 11, 1e lid, dan wel 31, 1e lid, dan wel 32, 1e lid, Bgb | Zonder vergunning of melding of in strijd met voorschriften gesteld bij de vergunning of melding een middel toepassen |   | 500 | 250 |
+| 42. | 80, 2e lid, wet en [32b, 1e lid, Bgb](https://wetten.overheid.nl/jci1.3:c:BWBR0022530&artikel=32b) | Niet goedgekeurde apparatuur gebruiken | nvt | 1.000 | 500 |
+| 43. | vervallen |   |   |   |   |
+| 44. | vervallen |   |   |   |   |
+| 45. | 80a,1e lid, wet, en [27d Bgb](https://wetten.overheid.nl/jci1.3:c:BWBR0022530&artikel=27d) | Niet of onvoldoende waarschuwen tegen herbetreding | Nvt | 500 | nvt |
+| 46. | 80a, 2e lid, wet en [32a Bgb](https://wetten.overheid.nl/jci1.3:c:BWBR0022530&artikel=32a) | Verpakkingen op incorrecte wijze reinigen | nvt | 500 | nvt |
+| 47. | [81 wet](https://wetten.overheid.nl/jci1.3:c:BWBR0021670&artikel=81), en [11, 1e lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022530&artikel=11), dan wel [31, 1e lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022530&artikel=31), dan wel 32, 1e lid, Bgb | Zonder vergunning of melding of in strijd met voorschriften gesteld bij de vergunning of melding een middel toepassen |   | 500 | 250 |
 | 48. | 81 wet en 11, 1e lid , 31, 1e lid en 32, 1e lid Bgb | Een verplichte melding als bedoeld in artikel 11, 31 of 32, Bgb op onjuiste wijze of te laat doen | nvt | 250 | 250 |
-| 49. | 87, 6e lid, wet | In strijd met een gegeven aanwijzing of bevel handelen of nalaten | 2.000 | 1.000 | 500 |
-| 50. | 115 wet | Overtreding van een voorschrift van een algemeen verbindend verklaarde overeenkomst | 1.000 | 500 | nvt |
-| 51. | 118 wet | Overtreding van een vanwege communautaire wetgeving of besluiten gesteld (gewijzigd) voorschrift, voor zover niet reeds voorzien in de hierboven genoemde gevallen | 1.000 | 500 | 250 |
+| 49. | [87, 6e lid, wet](https://wetten.overheid.nl/jci1.3:c:BWBR0021670&artikel=87) | In strijd met een gegeven aanwijzing of bevel handelen of nalaten | 2.000 | 1.000 | 500 |
+| 50. | [115 wet](https://wetten.overheid.nl/jci1.3:c:BWBR0021670&artikel=115) | Overtreding van een voorschrift van een algemeen verbindend verklaarde overeenkomst | 1.000 | 500 | nvt |
+| 51. | [118 wet](https://wetten.overheid.nl/jci1.3:c:BWBR0021670&artikel=118) | Overtreding van een vanwege communautaire wetgeving of besluiten gesteld (gewijzigd) voorschrift, voor zover niet reeds voorzien in de hierboven genoemde gevallen | 1.000 | 500 | 250 |
 
 ¹ Het desbetreffende artikel in Verordening (EG) 1107/2009
 
 | Rij nr. | Grondslag ([Wet gewasbeschermingsmiddelen en biociden](https://wetten.overheid.nl/jci1.3:c:BWBR0021670), [Besluit gewasbeschermingsmiddelen en biociden](https://wetten.overheid.nl/jci1.3:c:BWBR0022530) of [Regeling gewasbeschermingsmiddelen en biociden](onbekend)) | Norm | Boete in € voor overtreding | Boete in € voor overtreding door distributeurs en toelatinghouders | Boete in € voor overtreding door gebruikers die biociden toepassen in het kader van de vervaardiging van een product, een biocide of van een product waarin een biocide wordt verwerkt of behandeld (industriële gebruikers) | Boete in € voor overtreding door gebruikers die biociden toepassen in het kader van het verrichten van een dienst voor derden (professionele gebruikers) en voor agrariërs | Boete in € voor overtreding door gebruikers die biociden toepassen in het kader van een bedrijf, niet gericht op het het toepassen van een biocide als onderdeel van een dienst voor derden (bedrijfsmatige niet-professionele gebruikers) | Boete in € voor overtreding door gebruikers die biociden toepassen als zijnde particulieren (niet-professionele gebruikers) |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 52 | 43, eerste lid van de wet | Een biocide op de markt brengen en gebruiken zonder dat daarvoor een toelating is verleend, als bedoeld in artikel 17, eerste lid, van de verordening. | 2.500 | 2.500 | 2.000 | 2.000 | 1.500 | 250 |
+| 52 | [43, eerste lid van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0021670&artikel=43) | Een biocide op de markt brengen en gebruiken zonder dat daarvoor een toelating is verleend, als bedoeld in artikel 17, eerste lid, van de verordening. | 2.500 | 2.500 | 2.000 | 2.000 | 1.500 | 250 |
 | 53 | 43, eerste lid van de wet | Het niet voldoen aan de voorwaarden van de toelating en aan de etiketterings- en verpakkingsvoorwaarden, als bedoeld in artikel 17, vijfde lid van de verordening. | 2.000 | 2.000 | 1.500 | 1.500 | 1.000 | 250 |
 | 54 | 43, eerste lid van de wet | Niet beperken tot het strikt noodzakelijk gebruik van biociden, als bedoeld in artikel 17, vijfde lid, van de verordening. | 1.500 | 1.500 | 1.000 | 1.000 | 500 | 250 |
 | 55 | 43, eerste lid van de wet | Niet binnen 30 dagen op de hoogte stellen van de bevoegde autoriteit van het in de handel brengen van een product die een nationale toelating voor een biocidefamilie heeft, als bedoeld in artikel 17, zesde lid, van de verordening. | 2.500 | 2.500 | 2.000 | 2.000 | 1.500 | 250 |
@@ -1690,28 +1732,28 @@ Handtekening gassingsleider/gasmeetdeskundige
 | 64 | 43, eerste lid van de wet | Het niet voldoen aan de voorwaarden voor reclame voor biociden. Als bedoeld in artikel 72, eerste en derde lid, van de verordening | 2.000 | 2.000 | 1.500 | 1.500 | 1.000 | 250 |
 | 65 | 43, derde lid van de wet | Een niet in Nederland toegelaten of niet geregistreerde biocide voorhanden of in voorraad hebben. | 1.500 | 1.500 | 1.000 | 1.000 | 500 | 250 |
 | 66 | 43, vierde lid van de wet | In strijd met een tijdelijke beperking of tijdelijk verbod een biocide op de markt brengen, voorhanden hebben of gebruiken. | 5.000 | 5.000 | 3.000 | 3.000 | 2.000 | 500 |
-| 67 | 71, eerste en vierde lid van de wet | Een biocide ontvangen of voorhanden hebben zonder geldig bewijs van vakbekwaamheid, hoewel dat bewijs wel is voorgeschreven. | 1.500 | 1.500 | 1.000 | 1.000 | 500 | 250 |
-| 68 | 71, eerste en vierde lid van de wet en 17a, eerste lid van het besluit | Een biocide gebruiken zonder geldig bewijs van vakbekwaamheid, hoewel dat bewijs wel is voorgeschreven. | 2.000 | 2.000 | 1.500 | 1.500 | 1.000 | 250 |
-| 69 | 72, eerste lid van de wet | Een niet in Nederland toegelaten biocide aanprijzen. | 2.000 | 2.000 | 1.500 | 1.500 | 1.000 | 250 |
+| 67 | [71, eerste en vierde lid van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0021670&artikel=71) | Een biocide ontvangen of voorhanden hebben zonder geldig bewijs van vakbekwaamheid, hoewel dat bewijs wel is voorgeschreven. | 1.500 | 1.500 | 1.000 | 1.000 | 500 | 250 |
+| 68 | 71, eerste en vierde lid van de wet en [17a, eerste lid van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0022530&artikel=17a) | Een biocide gebruiken zonder geldig bewijs van vakbekwaamheid, hoewel dat bewijs wel is voorgeschreven. | 2.000 | 2.000 | 1.500 | 1.500 | 1.000 | 250 |
+| 69 | [72, eerste lid van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0021670&artikel=72) | Een niet in Nederland toegelaten biocide aanprijzen. | 2.000 | 2.000 | 1.500 | 1.500 | 1.000 | 250 |
 | 70 | 72, tweede lid van de wet | Een biocide aanprijzen of aanbevelen in strijd met de voor het gebruik geldende voorschriften. | 2.000 | 2.000 | 1.500 | 1.500 | 1.000 | 250 |
 | 71 | 72, derde lid van de wet | Misleidende informatie geven over de gevaren van een biocide voor mens, dier, plant of milieu. | 2.000 | 2.000 | 1.500 | 1.500 | 1.000 | 250 |
-| 72 | 74, eerste lid van de wet en 7.1, 7.3a en 7.3c van de regeling | Geen of een ondeugdelijke administratie voeren bij het binnen Nederland brengen, de productie, de opslag of het vervoer van niet in Nederland toegelaten biociden in de in artikel 74, eerste lid, Wgb bedoelde situatie. | 1.000 | 1.000 | 500 | 500 | 250 | 50 |
-| 73 | 74, derde lid van de wet en 7.3d, eerste lid van de regeling | Niet in Nederland toegelaten biociden niet apart opslaan. | 1.000 | 1.000 | 500 | 500 | 250 | 50 |
+| 72 | [74, eerste lid van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0021670&artikel=74) en [7.1](https://wetten.overheid.nl/jci1.3:c:BWBR0022545&hoofdstuk=7&artikel=7.1&z=2016-03-31&g=2016-03-31), [7.3a](https://wetten.overheid.nl/jci1.3:c:BWBR0022545&hoofdstuk=7&artikel=7.3a&z=2016-03-31&g=2016-03-31) en [7.3c](https://wetten.overheid.nl/jci1.3:c:BWBR0022545&hoofdstuk=7&artikel=7.3c&z=2016-03-31&g=2016-03-31) van de regeling | Geen of een ondeugdelijke administratie voeren bij het binnen Nederland brengen, de productie, de opslag of het vervoer van niet in Nederland toegelaten biociden in de in artikel 74, eerste lid, Wgb bedoelde situatie. | 1.000 | 1.000 | 500 | 500 | 250 | 50 |
+| 73 | 74, derde lid van de wet en [7.3d, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022545&hoofdstuk=7&artikel=7.3d&z=2016-03-31&g=2016-03-31) van de regeling | Niet in Nederland toegelaten biociden niet apart opslaan. | 1.000 | 1.000 | 500 | 500 | 250 | 50 |
 | 74 | 74, derde lid van de wet en 7.3d, tweede lid van de regeling | Zonder papieren niet-toegelaten biociden vervoeren. | 1.000 | 1.000 | 500 | 500 | 250 | 50 |
-| 75 | 75 van de wet | Onjuiste of onvolledige administratie van biociden. | 1.000 | 1.000 | 500 | 500 | 250 | 50 |
-| 76 | 75 van de wet en 25 van het besluit | Biociden voor een ander toepassen of voorhanden hebben zonder een deugdelijke administratie als bedoeld in artikel 25 van het besluit. | 1.000 | 1.000 | 500 | 500 | 250 | 50 |
-| 77 | 78, tweede lid van de wet | Overtreding van een bij of krachtens AMvB gesteld voorschrift over de administratie van de wijze van gebruik van een biocide. | 1.500 | 1.500 | 1.000 | 1.000 | 500 | 250 |
-| 78 | 79 van de wet | Overtreding van een bij of krachtens AMvB gesteld voorschrift over de uitvoering van goede praktijken bij het toepassen van biociden. | 1.500 | 1.500 | 1.000 | 1.000 | 500 | 250 |
-| 79 | 80, eerste lid van de wet en 29, tweede lid van het besluit | Een biocide toepassen met behulp van een luchtvaartuig, terwijl dat in het geheel niet is toegestaan | 2.000 | 2.000 | 1.500 | 1.500 | 1.000 | 250 |
-| 80 | 80, eerste lid van de wet en 29, derde lid van het besluit en 8.7 van de regeling | In strijd met een of meer voorschriften een biocide toepassen met behulp van een luchtvaartuig. | 2.000 | 2.000 | 1.500 | 1.500 | 1.000 | 250 |
-| 81 | 80, eerste lid van de wet en 30 van het besluit | Een gasvormig of gasvormend biocide in een besloten ruimte toepassen in afwijking van het bepaalde in artikel 30 van het besluit. | 2.000 | 2.000 | 1.500 | 1.500 | 1.000 | 250 |
+| 75 | [75 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0021670&artikel=75) | Onjuiste of onvolledige administratie van biociden. | 1.000 | 1.000 | 500 | 500 | 250 | 50 |
+| 76 | 75 van de wet en [25 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0022530&artikel=25) | Biociden voor een ander toepassen of voorhanden hebben zonder een deugdelijke administratie als bedoeld in artikel 25 van het besluit. | 1.000 | 1.000 | 500 | 500 | 250 | 50 |
+| 77 | [78, tweede lid van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0021670&artikel=78) | Overtreding van een bij of krachtens AMvB gesteld voorschrift over de administratie van de wijze van gebruik van een biocide. | 1.500 | 1.500 | 1.000 | 1.000 | 500 | 250 |
+| 78 | [79 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0021670&artikel=79) | Overtreding van een bij of krachtens AMvB gesteld voorschrift over de uitvoering van goede praktijken bij het toepassen van biociden. | 1.500 | 1.500 | 1.000 | 1.000 | 500 | 250 |
+| 79 | [80, eerste lid van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0021670&artikel=80) en [29, tweede lid van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0022530&artikel=29) | Een biocide toepassen met behulp van een luchtvaartuig, terwijl dat in het geheel niet is toegestaan | 2.000 | 2.000 | 1.500 | 1.500 | 1.000 | 250 |
+| 80 | 80, eerste lid van de wet en 29, derde lid van het besluit en [8.7](https://wetten.overheid.nl/jci1.3:c:BWBR0022545&hoofdstuk=8&paragraaf=2&artikel=8.7&z=2016-03-31&g=2016-03-31) van de regeling | In strijd met een of meer voorschriften een biocide toepassen met behulp van een luchtvaartuig. | 2.000 | 2.000 | 1.500 | 1.500 | 1.000 | 250 |
+| 81 | 80, eerste lid van de wet en [30 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0022530&artikel=30) | Een gasvormig of gasvormend biocide in een besloten ruimte toepassen in afwijking van het bepaalde in artikel 30 van het besluit. | 2.000 | 2.000 | 1.500 | 1.500 | 1.000 | 250 |
 | 82 | 80, eerste lid van de wet | Een andere overtreding van een bij of krachtens AMvB gesteld voorschrift over het gebruik van voertuigen, vaartuigen, luchtvaarttuigen, apparatuur, technieken of materialen. | 2.000 | 2.000 | 1.500 | 1.500 | 1.000 | 250 |
-| 83 | 81 van de wet, en 31, eerste lid, dan wel 32, eerste lid van het besluit | Zonder vergunning of melding of in strijd met voorschriften gesteld bij de vergunning of melding een biocide toepassen. | 2.000 | 2.000 | 1.500 | 1.500 | 1.000 | 250 |
+| 83 | [81 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0021670&artikel=81), en [31, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022530&artikel=31), dan wel [32, eerste lid van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0022530&artikel=32) | Zonder vergunning of melding of in strijd met voorschriften gesteld bij de vergunning of melding een biocide toepassen. | 2.000 | 2.000 | 1.500 | 1.500 | 1.000 | 250 |
 | 84 | 81 van de wet en 31, eerste lid, en 32, eerste lid van het besluit | Een verplichte melding op onjuiste wijze of te laat doen. | 1.500 | 1.500 | 1.000 | 1.000 | 500 | 250 |
-| 85 | 87, zesde lid, van de wet | In strijd met een gegeven aanwijzing of bevel handelen of nalaten. | 2.000 | 2.000 | 1.500 | 1.500 | 1.000 | 250 |
-| 86 | 115 van de wet | Overtreding van een voorschrift van een algemeen verbindend verklaarde overeenkomst. | 2.000 | 2.000 | 1.500 | 1.500 | 1.000 | 250 |
-| 87 | 118 van de wet | Overtreding van een vanwege communautaire wetgeving of besluiten gesteld voorschrift, voor zover niet reeds voorzien in de hierboven genoemde gevallen. | 1.500 | 1.500 | 1.000 | 1.000 | 500 | 250 |
-| 88 | 75, eerste lid, van de wet en 25c van het besluit | Biociden niet uitsluitend leveren aan de in de toelating aangegeven gebruikers of hun personeel | 1.000 | 1.000 | nvt | nvt | nvt | nvt |
+| 85 | [87, zesde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0021670&artikel=87) | In strijd met een gegeven aanwijzing of bevel handelen of nalaten. | 2.000 | 2.000 | 1.500 | 1.500 | 1.000 | 250 |
+| 86 | [115 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0021670&artikel=115) | Overtreding van een voorschrift van een algemeen verbindend verklaarde overeenkomst. | 2.000 | 2.000 | 1.500 | 1.500 | 1.000 | 250 |
+| 87 | [118 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0021670&artikel=118) | Overtreding van een vanwege communautaire wetgeving of besluiten gesteld voorschrift, voor zover niet reeds voorzien in de hierboven genoemde gevallen. | 1.500 | 1.500 | 1.000 | 1.000 | 500 | 250 |
+| 88 | 75, eerste lid, van de wet en [25c van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0022530&artikel=25c) | Biociden niet uitsluitend leveren aan de in de toelating aangegeven gebruikers of hun personeel | 1.000 | 1.000 | nvt | nvt | nvt | nvt |
 
 ## Bijlage XIV. Beleidsregel voor het criterium landbouwtechnisch doelmatige, geïntegreerde teelt
 
@@ -2037,13 +2079,13 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 1. Een erkenning als bedoeld in [artikel 37, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0021670&artikel=37), van een instantie voor het doen van proeven en experimenten voor onderzoek- of ontwikkelingsdoeleinden waarbij een niet-toegelaten gewasbeschermingsmiddel in het milieu wordt gebracht, wordt aangevraagd bij de Minister van Economische Zaken.
 
-2. De [artikelen 4.3](https://wetten.overheid.nl/jci1.3:c:BWBR0022545&hoofdstuk=4&paragraaf=1&artikel=4.3&z=2016-01-23&g=2016-01-23), [4.4, eerste, tweede en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022545&hoofdstuk=4&paragraaf=1&artikel=4.4&z=2016-01-23&g=2016-01-23), en [4.5](https://wetten.overheid.nl/jci1.3:c:BWBR0022545&hoofdstuk=4&paragraaf=1&artikel=4.5&z=2016-01-23&g=2016-01-23) zijn van overeenkomstige toepassing.
+2. De [artikelen 4.3](https://wetten.overheid.nl/jci1.3:c:BWBR0022545&hoofdstuk=4&paragraaf=1&artikel=4.3&z=2016-03-31&g=2016-03-31), [4.4, eerste, tweede en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022545&hoofdstuk=4&paragraaf=1&artikel=4.4&z=2016-03-31&g=2016-03-31), en [4.5](https://wetten.overheid.nl/jci1.3:c:BWBR0022545&hoofdstuk=4&paragraaf=1&artikel=4.5&z=2016-03-31&g=2016-03-31) zijn van overeenkomstige toepassing.
 
 ##### Artikel 4.7. Erkenningsvoorwaarden instanties en toepassingsvoorschriften
 
-1. Een instantie, die proeven en experimenten wil doen overeenkomstig [artikel 4.6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022545&hoofdstuk=4&paragraaf=2&artikel=4.6&z=2016-01-23&g=2016-01-23), wordt voor dat doel erkend indien in voldoende mate is gebleken dat aan de volgende voorwaarden zal worden voldaan:
+1. Een instantie, die proeven en experimenten wil doen overeenkomstig [artikel 4.6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022545&hoofdstuk=4&paragraaf=2&artikel=4.6&z=2016-03-31&g=2016-03-31), wordt voor dat doel erkend indien in voldoende mate is gebleken dat aan de volgende voorwaarden zal worden voldaan:
 
-- a. de instantie voldoet aan de eisen bedoeld in punten 3.2 tot en met 3.4.2. van punt 3 Goede Laboratoriumpraktijken (GLP), van de inleiding van de bijlage bij verordening 284/2013 of zij is erkend overeenkomstig [artikel 4.1, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022545&hoofdstuk=4&paragraaf=1&artikel=4.1&z=2016-01-23&g=2016-01-23);
+- a. de instantie voldoet aan de eisen bedoeld in punten 3.2 tot en met 3.4.2. van punt 3 Goede Laboratoriumpraktijken (GLP), van de inleiding van de bijlage bij verordening 284/2013 of zij is erkend overeenkomstig [artikel 4.1, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022545&hoofdstuk=4&paragraaf=1&artikel=4.1&z=2016-03-31&g=2016-03-31);
 
 - b. de instantie treft bij de uitvoering van proeven en experimenten de noodzakelijke voorzorgsmaatregelen, die mogelijk schadelijke gevolgen voor de gezondheid van mens en dier, voor het milieu of voor andere gewassen voorkomen;
 
@@ -2260,7 +2302,7 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 ##### Artikel 8.11. Berekening MTR water
 
-Op verzoek berekent het college het maximaal toelaatbaar risico van gewasbeschermingsmiddelen voor waterorganismen, bedoeld in [artikel 2, onderdeel f, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0022530&artikel=2), aan de hand van de methode INS, bedoeld in [bijlage XV](https://wetten.overheid.nl/jci1.3:c:BWBR0022545&bijlage=XV&z=2016-01-23&g=2016-01-23), deel B.
+Op verzoek berekent het college het maximaal toelaatbaar risico van gewasbeschermingsmiddelen voor waterorganismen, bedoeld in [artikel 2, onderdeel f, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0022530&artikel=2), aan de hand van de methode INS, bedoeld in [bijlage XV](https://wetten.overheid.nl/jci1.3:c:BWBR0022545&bijlage=XV&z=2016-03-31&g=2016-03-31), deel B.
 
 ### Hoofdstuk 9. Toezicht en handhaving
 
@@ -2327,15 +2369,15 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 - b. het in een laboratorium ten behoeve van plantaardige weefselkweek in vitro gebruiken of voorhanden hebben van gewasbeschermingsmiddelen die volgens de desbetreffende toelating zijn bestemd om de levensprocessen van planten te beïnvloeden;
 
-- c. het bestrijden van aardappelopslag door middel van een gewasbeschermingsmiddel op basis van de werkzame stof glyfosaat door middel van handapparatuur, voor zover de apparatuur is gevuld door een andere persoon die beschikt over een bewijs van vakbekwaamheid Uitvoeren of Bedrijfsvoeren gewasbescherming als bedoeld in [artikel 6.3, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022545&hoofdstuk=6&paragraaf=1&artikel=6.3&z=2016-01-23&g=2016-01-23);
+- c. het bestrijden van aardappelopslag door middel van een gewasbeschermingsmiddel op basis van de werkzame stof glyfosaat door middel van handapparatuur, voor zover de apparatuur is gevuld door een andere persoon die beschikt over een bewijs van vakbekwaamheid Uitvoeren of Bedrijfsvoeren gewasbescherming als bedoeld in [artikel 6.3, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022545&hoofdstuk=6&paragraaf=1&artikel=6.3&z=2016-03-31&g=2016-03-31);
 
-- d. het doden van ongewenste planten met handapparatuur gevuld met een gewasbeschermingsmiddel op basis van de werkzame stof glyfosaat bij de selectie van bolgewassen en andere planten ten behoeve van veredeling, voor zover de apparatuur is gevuld door een andere persoon die beschikt over een bewijs van vakbekwaamheid Uitvoeren of Bedrijfsvoeren gewasbescherming als bedoeld in [artikel 6.3, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022545&hoofdstuk=6&paragraaf=1&artikel=6.3&z=2016-01-23&g=2016-01-23);
+- d. het doden van ongewenste planten met handapparatuur gevuld met een gewasbeschermingsmiddel op basis van de werkzame stof glyfosaat bij de selectie van bolgewassen en andere planten ten behoeve van veredeling, voor zover de apparatuur is gevuld door een andere persoon die beschikt over een bewijs van vakbekwaamheid Uitvoeren of Bedrijfsvoeren gewasbescherming als bedoeld in [artikel 6.3, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022545&hoofdstuk=6&paragraaf=1&artikel=6.3&z=2016-03-31&g=2016-03-31);
 
-- e. pleksgewijze onkruidbestrijding met handapparatuur gevuld met een gewasbeschermingsmiddel op basis van de werkzame stof glyfosaat in gewassen en natuurgebieden, voor zover de apparatuur is gevuld door een andere persoon die beschikt over een bewijs van vakbekwaamheid Uitvoeren of Bedrijfsvoeren gewasbescherming als bedoeld in [artikel 6.3, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022545&hoofdstuk=6&paragraaf=1&artikel=6.3&z=2016-01-23&g=2016-01-23);
+- e. pleksgewijze onkruidbestrijding met handapparatuur gevuld met een gewasbeschermingsmiddel op basis van de werkzame stof glyfosaat in gewassen en natuurgebieden, voor zover de apparatuur is gevuld door een andere persoon die beschikt over een bewijs van vakbekwaamheid Uitvoeren of Bedrijfsvoeren gewasbescherming als bedoeld in [artikel 6.3, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022545&hoofdstuk=6&paragraaf=1&artikel=6.3&z=2016-03-31&g=2016-03-31);
 
-- f. pleksgewijze onkruidbestrijding met handbediende slangen voorzien van spuitdop en afschermkap verbonden aan een trekker met spuittank gevuld met een gewasbeschermingsmiddel op basis van de werkzame stof glyfosaat in gewassen, voor zover de spuittank is gevuld door een andere persoon die beschikt over een bewijs van vakbekwaamheid Uitvoeren of Bedrijfsvoeren gewasbescherming als bedoeld in [artikel 6.3, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022545&hoofdstuk=6&paragraaf=1&artikel=6.3&z=2016-01-23&g=2016-01-23);
+- f. pleksgewijze onkruidbestrijding met handbediende slangen voorzien van spuitdop en afschermkap verbonden aan een trekker met spuittank gevuld met een gewasbeschermingsmiddel op basis van de werkzame stof glyfosaat in gewassen, voor zover de spuittank is gevuld door een andere persoon die beschikt over een bewijs van vakbekwaamheid Uitvoeren of Bedrijfsvoeren gewasbescherming als bedoeld in [artikel 6.3, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022545&hoofdstuk=6&paragraaf=1&artikel=6.3&z=2016-03-31&g=2016-03-31);
 
-- g. stobbebehandeling met handapparatuur gevuld met een gewasbeschermingsmiddel op basis van de werkzame stof glyfosaat in gewassen en natuurgebieden, voor zover de apparatuur is gevuld door een andere persoon die beschikt over een bewijs van vakbekwaamheid Uitvoeren of Bedrijfsvoeren gewasbescherming als bedoeld in [artikel 6.3, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022545&hoofdstuk=6&paragraaf=1&artikel=6.3&z=2016-01-23&g=2016-01-23);
+- g. stobbebehandeling met handapparatuur gevuld met een gewasbeschermingsmiddel op basis van de werkzame stof glyfosaat in gewassen en natuurgebieden, voor zover de apparatuur is gevuld door een andere persoon die beschikt over een bewijs van vakbekwaamheid Uitvoeren of Bedrijfsvoeren gewasbescherming als bedoeld in [artikel 6.3, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022545&hoofdstuk=6&paragraaf=1&artikel=6.3&z=2016-03-31&g=2016-03-31);
 
 - h. toepassing van bewortelingspoeders op basis van indolylboterzuur;
 
@@ -2343,11 +2385,11 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 - j. insmeren van stammen met middelen op basis van kwartszand voor wildafweer in fruitteeltgewassen;
 
-- k. het vullen van bewaarbakken voor na de oogst van snijbloemen met een gebruiksklare oplossing naoogst toedienen van houdbaarheidsmiddelen aan bewaarbakken met snijbloemen m.u.v. middelen met gevaarsymbool Xn schadelijk, voor zover de oplossing is bereid door een andere persoon die beschikt over een bewijs van vakbekwaamheid Uitvoeren of Bedrijfsvoeren gewasbescherming als bedoeld in [artikel 6.3, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022545&hoofdstuk=6&paragraaf=1&artikel=6.3&z=2016-01-23&g=2016-01-23);
+- k. het vullen van bewaarbakken voor na de oogst van snijbloemen met een gebruiksklare oplossing naoogst toedienen van houdbaarheidsmiddelen aan bewaarbakken met snijbloemen m.u.v. middelen met gevaarsymbool Xn schadelijk, voor zover de oplossing is bereid door een andere persoon die beschikt over een bewijs van vakbekwaamheid Uitvoeren of Bedrijfsvoeren gewasbescherming als bedoeld in [artikel 6.3, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022545&hoofdstuk=6&paragraaf=1&artikel=6.3&z=2016-03-31&g=2016-03-31);
 
-- l. het poten van aardappels met een trekker en aardappelpootmachine waarbij via poederdoseerapparatuur middel(en) op basis van pencycuron of flutolanil worden toegediend tegen Rhizoctonia, voor zover de poederdoseerapparatuur is gevuld door een andere persoon die beschikt over een bewijs van vakbekwaamheid Uitvoeren of Bedrijfsvoeren gewasbescherming als bedoeld in [artikel 6.3, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022545&hoofdstuk=6&paragraaf=1&artikel=6.3&z=2016-01-23&g=2016-01-23);
+- l. het poten van aardappels met een trekker en aardappelpootmachine waarbij via poederdoseerapparatuur middel(en) op basis van pencycuron of flutolanil worden toegediend tegen Rhizoctonia, voor zover de poederdoseerapparatuur is gevuld door een andere persoon die beschikt over een bewijs van vakbekwaamheid Uitvoeren of Bedrijfsvoeren gewasbescherming als bedoeld in [artikel 6.3, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022545&hoofdstuk=6&paragraaf=1&artikel=6.3&z=2016-03-31&g=2016-03-31);
 
-- m. het bedienen van een machine voor fytodrip in uitgangsmateriaal, voor zover de machine is gevuld door een andere persoon die beschikt over een bewijs van vakbekwaamheid Uitvoeren of Bedrijfsvoeren gewasbescherming als bedoeld in [artikel 6.3, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022545&hoofdstuk=6&paragraaf=1&artikel=6.3&z=2016-01-23&g=2016-01-23).
+- m. het bedienen van een machine voor fytodrip in uitgangsmateriaal, voor zover de machine is gevuld door een andere persoon die beschikt over een bewijs van vakbekwaamheid Uitvoeren of Bedrijfsvoeren gewasbescherming als bedoeld in [artikel 6.3, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022545&hoofdstuk=6&paragraaf=1&artikel=6.3&z=2016-03-31&g=2016-03-31).
 
 2. Bureau Erkenningen van de AOC-raad erkent een instructie, bedoeld in [artikel 17, eerste lid, onderdeel c, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0022530&artikel=17), indien zij ten minste voorlichting geeft over:
 
@@ -2361,9 +2403,9 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 - e. welke noodmaatregelen moeten worden genomen in geval van lekkages, verspilling of andere onvoorziene gebeurtenissen.
 
-3. De instructie wordt gegeven door een houder van een bewijs van vakbekwaamheid Uitvoeren of Bedrijfsvoeren Gewasbescherming als bedoeld in [artikel 6.3, derde of vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022545&hoofdstuk=6&paragraaf=1&artikel=6.3&z=2016-01-23&g=2016-01-23).
+3. De instructie wordt gegeven door een houder van een bewijs van vakbekwaamheid Uitvoeren of Bedrijfsvoeren Gewasbescherming als bedoeld in [artikel 6.3, derde of vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022545&hoofdstuk=6&paragraaf=1&artikel=6.3&z=2016-03-31&g=2016-03-31).
 
-4. [Artikel 6.3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022545&hoofdstuk=6&paragraaf=1&artikel=6.3&z=2016-01-23&g=2016-01-23), is niet van toepassing. De werkgever of opdrachtgever van de persoon die de instructie heeft gevolgd, verstrekt een kopie van de presentielijst van de instructie aan betrokkene, en bewaart het origineel gedurende vijf jaren nadat de instructie is gegeven. De presentielijst vermeldt de handeling, bedoeld in het eerste lid, waar de instructie betrekking op heeft, en wordt gedurende vijf jaren nadat de instructie is gevolgd, aangemerkt als bewijs van vakbekwaamheid voor de desbetreffende handeling.
+4. [Artikel 6.3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022545&hoofdstuk=6&paragraaf=1&artikel=6.3&z=2016-03-31&g=2016-03-31), is niet van toepassing. De werkgever of opdrachtgever van de persoon die de instructie heeft gevolgd, verstrekt een kopie van de presentielijst van de instructie aan betrokkene, en bewaart het origineel gedurende vijf jaren nadat de instructie is gegeven. De presentielijst vermeldt de handeling, bedoeld in het eerste lid, waar de instructie betrekking op heeft, en wordt gedurende vijf jaren nadat de instructie is gevolgd, aangemerkt als bewijs van vakbekwaamheid voor de desbetreffende handeling.
 
 ##### Artikel 6.3b. Intrekking bewijs van vakbekwaamheid
 
@@ -2379,19 +2421,19 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 ##### Artikel 6.7. Werken met gewasbeschermingsmiddelen
 
-1. Een distributeur van gewasbeschermingsmiddelen of voldoende van zijn personeel als bedoeld in [artikel 73, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0021670&artikel=73), beschikt over een bewijs van vakbekwaamheid Bedrijfsvoeren Gewasbescherming als bedoeld in [artikel 6.3, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022545&hoofdstuk=6&paragraaf=1&artikel=6.3&z=2016-01-23&g=2016-01-23).
+1. Een distributeur van gewasbeschermingsmiddelen of voldoende van zijn personeel als bedoeld in [artikel 73, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0021670&artikel=73), beschikt over een bewijs van vakbekwaamheid Bedrijfsvoeren Gewasbescherming als bedoeld in [artikel 6.3, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022545&hoofdstuk=6&paragraaf=1&artikel=6.3&z=2016-03-31&g=2016-03-31).
 
-2. Een professionele gebruiker van gewasbeschermingsmiddelen beschikt over een bewijs van vakbekwaamheid Bedrijfsvoeren Gewasbescherming als bedoeld in [artikel 6.3, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022545&hoofdstuk=6&paragraaf=1&artikel=6.3&z=2016-01-23&g=2016-01-23).
+2. Een professionele gebruiker van gewasbeschermingsmiddelen beschikt over een bewijs van vakbekwaamheid Bedrijfsvoeren Gewasbescherming als bedoeld in [artikel 6.3, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022545&hoofdstuk=6&paragraaf=1&artikel=6.3&z=2016-03-31&g=2016-03-31).
 
-3. In afwijking van het tweede lid beschikt het bedrijfshoofd van een landbouwbedrijf dat gewasbeschermingsmiddelen ontvangt, gebruikt of voorhanden heeft als bedoeld in [artikel 71, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0021670&artikel=71), en die is geboren voor 1 januari 1996 ten minste over een bewijs van vakbekwaamheid Uitvoeren Gewasbescherming als bedoeld in [artikel 6.3, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022545&hoofdstuk=6&paragraaf=1&artikel=6.3&z=2016-01-23&g=2016-01-23).
+3. In afwijking van het tweede lid beschikt het bedrijfshoofd van een landbouwbedrijf dat gewasbeschermingsmiddelen ontvangt, gebruikt of voorhanden heeft als bedoeld in [artikel 71, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0021670&artikel=71), en die is geboren voor 1 januari 1996 ten minste over een bewijs van vakbekwaamheid Uitvoeren Gewasbescherming als bedoeld in [artikel 6.3, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022545&hoofdstuk=6&paragraaf=1&artikel=6.3&z=2016-03-31&g=2016-03-31).
 
-4. In afwijking van het tweede lid beschikt een persoon die gewasbeschermingsmiddelen ontvangt of gebruikt in opdracht van een ander, over een bewijs van vakbekwaamheid Uitvoeren Gewasbescherming als bedoeld in [artikel 6.3, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022545&hoofdstuk=6&paragraaf=1&artikel=6.3&z=2016-01-23&g=2016-01-23), voor zover in het bedrijf waar de behandeling met gewasbeschermingsmiddelen wordt uitgevoerd, ten minste een persoon aanwezig of beschikbaar is, die beschikt over een bewijs van vakbekwaamheid Bedrijfsvoeren Gewasbescherming.
+4. In afwijking van het tweede lid beschikt een persoon die gewasbeschermingsmiddelen ontvangt of gebruikt in opdracht van een ander, over een bewijs van vakbekwaamheid Uitvoeren Gewasbescherming als bedoeld in [artikel 6.3, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022545&hoofdstuk=6&paragraaf=1&artikel=6.3&z=2016-03-31&g=2016-03-31), voor zover in het bedrijf waar de behandeling met gewasbeschermingsmiddelen wordt uitgevoerd, ten minste een persoon aanwezig of beschikbaar is, die beschikt over een bewijs van vakbekwaamheid Bedrijfsvoeren Gewasbescherming.
 
-5. In afwijking van het tweede lid beschikt een persoon die gewasbeschermingsmiddelen gebruikt over een bewijs van vakbekwaamheid Veiligheidsinstructie als bedoeld in [artikel 6.3, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022545&hoofdstuk=6&paragraaf=1&artikel=6.3&z=2016-01-23&g=2016-01-23), voor zover de handeling is opgenomen in [artikel 6.3a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022545&hoofdstuk=6&paragraaf=1&artikel=6.3a&z=2016-01-23&g=2016-01-23), en op de werkplek waar de behandeling met het gewasbeschermingsmiddel plaatsvindt ten minste een persoon aanwezig is, die beschikt over een bewijs van vakbekwaamheid Uitvoeren of Bedrijfsvoeren gewasbescherming.
+5. In afwijking van het tweede lid beschikt een persoon die gewasbeschermingsmiddelen gebruikt over een bewijs van vakbekwaamheid Veiligheidsinstructie als bedoeld in [artikel 6.3, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022545&hoofdstuk=6&paragraaf=1&artikel=6.3&z=2016-03-31&g=2016-03-31), voor zover de handeling is opgenomen in [artikel 6.3a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022545&hoofdstuk=6&paragraaf=1&artikel=6.3a&z=2016-03-31&g=2016-03-31), en op de werkplek waar de behandeling met het gewasbeschermingsmiddel plaatsvindt ten minste een persoon aanwezig is, die beschikt over een bewijs van vakbekwaamheid Uitvoeren of Bedrijfsvoeren gewasbescherming.
 
-6. In afwijking van het tweede lid beschikt een bestrijder van mollen en woelratten met gewasbeschermingsmiddelen over een bewijs van vakbekwaamheid Mollen en Woelrattenbestrijding als bedoeld in [artikel 6.3, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022545&hoofdstuk=6&paragraaf=1&artikel=6.3&z=2016-01-23&g=2016-01-23).
+6. In afwijking van het tweede lid beschikt een bestrijder van mollen en woelratten met gewasbeschermingsmiddelen over een bewijs van vakbekwaamheid Mollen en Woelrattenbestrijding als bedoeld in [artikel 6.3, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022545&hoofdstuk=6&paragraaf=1&artikel=6.3&z=2016-03-31&g=2016-03-31).
 
-7. Onverminderd het eerste lid beschikt een distributeur of het personeelslid dat is belast met de dagelijkse leiding of werkzaamheden ten behoeve van het op veilige wijze transporteren en opslaan van gewasbeschermingsmiddelen over een bewijs van vakbekwaamheid Distributie en Opslag als bedoeld in [artikel 6.3, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022545&hoofdstuk=6&paragraaf=1&artikel=6.3&z=2016-01-23&g=2016-01-23).
+7. Onverminderd het eerste lid beschikt een distributeur of het personeelslid dat is belast met de dagelijkse leiding of werkzaamheden ten behoeve van het op veilige wijze transporteren en opslaan van gewasbeschermingsmiddelen over een bewijs van vakbekwaamheid Distributie en Opslag als bedoeld in [artikel 6.3, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022545&hoofdstuk=6&paragraaf=1&artikel=6.3&z=2016-03-31&g=2016-03-31).
 
 ### Hoofdstuk 7. Overige bepalingen inzake handel
 
@@ -2411,9 +2453,7 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 ##### Artikel 8.10a. Meldingsplicht ter bescherming kwetsbare groepen mensen
 
-1. [Artikel 8.10, eerste, tweede en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022545&hoofdstuk=8&paragraaf=2&artikel=8.10&z=2016-01-23&g=2016-01-23), zijn van overeenkomstige toepassing op een melding als bedoeld in [artikel 27c, derde lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0022530&artikel=27c).
-
-2. De termijn, bedoeld in [artikel 27c, vierde lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0022530&artikel=27c), bedraagt veertien dagen vanaf het moment dat de melding per post of op elektronische wijze is gedaan.
+Vervallen
 
 #### § 4. Heffingen
 
@@ -2425,7 +2465,7 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 ### Hoofdstuk 11. Intrekkingsbepalingen, wijzigingsbepalingen, overgangsrecht en slotbepalingen
 
-##### Artikel 11.10a. Wijziging [artikel 6.6](https://wetten.overheid.nl/jci1.3:c:BWBR0022545&hoofdstuk=6&paragraaf=1&artikel=6.6&z=2016-01-23&g=2016-01-23)
+##### Artikel 11.10a. Wijziging [artikel 6.6](https://wetten.overheid.nl/jci1.3:c:BWBR0022545&hoofdstuk=6&paragraaf=1&artikel=6.6&z=2016-03-31&g=2016-03-31)
 
 Wijzigt deze regeling.
 
@@ -2572,7 +2612,7 @@ Degene die op grond van artikel 67 van verordening (EG) 1107/2009 of [artikel 24
 
 ##### Artikel 7.3b. Bestemd voor gebruik buiten Nederland
 
-Het is de eigenaar of houder van een in Nederland gevestigd bedrijf, die beschikt over landbouwpercelen in België of Duitsland toegestaan een niet in Nederland toegelaten gewasbeschermingsmiddel op zijn bedrijf op te slaan, voor zover het desbetreffende gewasbeschermingsmiddel is toegelaten in België of Duitsland en feitelijk ook over de Nederlandse grens wordt toegepast en daarvan blijkt uit zijn administratie, bedoeld in [artikel 7.3c](https://wetten.overheid.nl/jci1.3:c:BWBR0022545&hoofdstuk=7&artikel=7.3c&z=2016-01-23&g=2016-01-23).
+Het is de eigenaar of houder van een in Nederland gevestigd bedrijf, die beschikt over landbouwpercelen in België of Duitsland toegestaan een niet in Nederland toegelaten gewasbeschermingsmiddel op zijn bedrijf op te slaan, voor zover het desbetreffende gewasbeschermingsmiddel is toegelaten in België of Duitsland en feitelijk ook over de Nederlandse grens wordt toegepast en daarvan blijkt uit zijn administratie, bedoeld in [artikel 7.3c](https://wetten.overheid.nl/jci1.3:c:BWBR0022545&hoofdstuk=7&artikel=7.3c&z=2016-03-31&g=2016-03-31).
 
 ##### Artikel 7.3c. Administratie van niet toegelaten gewasbeschermingsmiddelen of biociden
 
@@ -2588,7 +2628,7 @@ Het is de eigenaar of houder van een in Nederland gevestigd bedrijf, die beschik
 
 - e. de datum van ontvangst, aflevering of verandering als bedoeld in de onderdelen b en c, en
 
-- f. de afschriften van overeenkomsten als bedoeld in [artikel 7.1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022545&hoofdstuk=7&artikel=7.1&z=2016-01-23&g=2016-01-23).
+- f. de afschriften van overeenkomsten als bedoeld in [artikel 7.1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022545&hoofdstuk=7&artikel=7.1&z=2016-03-31&g=2016-03-31).
 
 2. De administratie bestrijkt een periode van de laatste vijf jaren.
 
@@ -2854,7 +2894,7 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 ##### Artikel 11.10d
 
-In afwijking van [artikel 6.6, derde lid, onder d](https://wetten.overheid.nl/jci1.3:c:BWBR0022545&hoofdstuk=6&paragraaf=1&artikel=6.6&z=2016-01-23&g=2016-01-23), is een agrarische ondernemer tot 1 juli 2015 niet verplicht een licentie voor het beheersen van knaagdieren door een agrarische ondernemer op het eigen bedrijf te houden voor het afweren of bestrijden van knaagdieren op het eigen bedrijf.
+In afwijking van [artikel 6.6, derde lid, onder d](https://wetten.overheid.nl/jci1.3:c:BWBR0022545&hoofdstuk=6&paragraaf=1&artikel=6.6&z=2016-03-31&g=2016-03-31), is een agrarische ondernemer tot 1 juli 2015 niet verplicht een licentie voor het beheersen van knaagdieren door een agrarische ondernemer op het eigen bedrijf te houden voor het afweren of bestrijden van knaagdieren op het eigen bedrijf.
 
 ### B. Voorwaarden voor verlenging van een bewijs van vakbekwaamheid voor het beheersen van plaagdieren en houtaantastende organismen
 
