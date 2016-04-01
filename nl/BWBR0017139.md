@@ -4,7 +4,7 @@ identifier: "BWBR0017139"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2021-03-27"
-last_updated: "2015-01-01"
+last_updated: "2016-04-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0017139"
 soort: "ministeriele-regeling"
@@ -52,15 +52,25 @@ Besluit:
 
 3. De noodzakelijke opleiding of scholing bestaat in overwegende mate uit het verrichten van activiteiten die niet productie als doel hebben.
 
-4. Als noodzakelijke scholing wordt aangemerkt scholing waarvoor een verklaring is afgegeven als bedoeld in [artikel 3.6, vierde lid, van de Regeling cofinanciering sectorplannen 2015](516879).
+4. Als noodzakelijke scholing wordt aangemerkt scholing waarvoor een verklaring is afgegeven als bedoeld in [artikel 3.6, vierde lid, van de Regeling cofinanciering sectorplannen 2015](onbekend).
 
 ##### Artikel 2. Duur
 
-Opleiding of scholing als bedoeld in [artikel 76 van de Werkloosheidswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&artikel=76), duurt maximaal één jaar. Het UWV kan in individuele gevallen een opleiding of scholing van een langere duur toestaan, doch niet meer dan twee jaar.
+1. De opleiding of scholing duurt maximaal een jaar.
+
+2. Het UWV kan in afwijking van het eerste lid:
+
+- a. in individuele gevallen opleiding of scholing van een langere duur toestaan, doch niet langer dan twee jaar; of
+
+- b. opleiding of scholing met een langere duur dan een jaar toestaan, indien:
+
+- 1°. de nieuwe werkgever zekerheid op een arbeidsovereenkomst of een aanstelling in openbare dienst van ten minste zes maanden biedt, ingaande op uiterlijk de eerste (werk)dag van de maand nadat de opleiding succesvol is afgerond, met een minimale omvang per week van het gemiddelde aantal gewerkte uren en het aantal uren gevolgde scholing in de scholingsperiode voorafgaand aan het afronden daarvan; en
+
+- 2°. de werknemer gedurende het volgen van die scholing ten minste acht uren per week bij die werkgever werkzaam is.
 
 ##### Artikel 3. Uitzondering recht op uitkering
 
-Geen recht op uitkering als bedoeld in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0017139&artikel=1&z=2015-01-01&g=2015-01-01) en [2](https://wetten.overheid.nl/jci1.3:c:BWBR0017139&artikel=2&z=2015-01-01&g=2015-01-01) blijft bestaan, indien tijdens de opleiding of scholing recht bestaat op een voorziening in de derving van inkomen.
+Geen recht op uitkering als bedoeld in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0017139&artikel=1&z=2016-04-01&g=2016-04-01) en [2](https://wetten.overheid.nl/jci1.3:c:BWBR0017139&artikel=2&z=2016-04-01&g=2016-04-01) blijft bestaan, indien tijdens de opleiding of scholing recht bestaat op een voorziening in de derving van inkomen.
 
 ##### Artikel 4. Overgangsrecht
 
@@ -77,5 +87,11 @@ Deze regeling treedt in werking met ingang van de tweede dag na de dagtekening v
 ##### Artikel 7. Citeertitel
 
 Deze regeling wordt aangehaald als: Scholingsregeling WW.
+
+Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
+
+##### Artikel 4a. Overgangsrecht bij [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0017139&artikel=2&z=2016-04-01&g=2016-04-01)
+
+Dit onderdeel is nog niet inwerking getreden
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
