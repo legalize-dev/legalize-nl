@@ -4,7 +4,7 @@ identifier: "BWBR0031740"
 country: "nl"
 rank: "zbo"
 publication_date: "2023-04-01"
-last_updated: "2013-07-31"
+last_updated: "2016-04-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0031740"
 soort: "zbo"
@@ -41,6 +41,8 @@ Na overleg met de representatieve organisaties, het ministerie van Financiën en
 Gelet op de [artikelen 3:8](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:8), [3:100, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:100), [3:271](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:271), [4:9, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=4:9), en [5:29, eerste lid, van de Wet op het financieel toezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=5:29) (Wft); [artikel 105, derde lid, van de Pensioenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&artikel=105) (Pw); [artikel 110, derde lid, van de Wet verplichte beroepspensioenregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0018831&artikel=110) (Wvb); de [artikelen 14, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020892&artikel=14), [29](https://wetten.overheid.nl/jci1.3:c:BWBR0020892&artikel=29) en [30 van het Besluit uitvoering Pensioenwet en Wet verplichte beroepspensioenregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0020892&artikel=30); en de [artikelen 4, aanhef en onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0016189&artikel=4), en [11, tweede lid, van de Wet toezicht trustkantoren](https://wetten.overheid.nl/jci1.3:c:BWBR0016189&artikel=11) (Wtt);
 
 Besluiten tot het vaststellen van de volgende, gezamenlijke Beleidsregel geschiktheid 2012:
+
+Gelet op de artikelen 3:8, 3:100, eerste lid, onderdeel b, 3:271, 4:3, vierde lid, Wet op het financieel toezicht (Wft) juncto artikel 2a Besluit Gedragstoezicht financiële ondernemingen Wet op het financieel toezicht (BGfo), 4:9, eerste lid, en 5:29, eerste lid, van de Wft; artikel 105, derde lid, van de Pensioenwet (Pw); artikel 110, derde lid, van de Wet verplichte beroepspensioenregeling (Wvb); de artikelen 14, derde lid, 29 en 30 van het Besluit uitvoering Pensioenwet en Wet verplichte beroepspensioenregeling; en de artikelen 4, aanhef en onderdeel b, en 11, tweede lid, van de Wet toezicht trustkantoren (Wtt);
 
 ### Hoofdstuk 1. – Algemene bepalingen met betrekking tot de geschiktheidstoetsing van beleidsbepalers
 
@@ -96,7 +98,7 @@ Beleidsbepalers zijn geschikt met betrekking tot de volgende onderwerpen:
 
 - g). uitbesteding.
 
-3. Voor de toetsing voorafgaand aan het aantreden van een beleidsbepaler van de in [hoofdstuk 2](https://wetten.overheid.nl/jci1.3:c:BWBR0031740&hoofdstuk=2&z=2013-07-31&g=2013-07-31) genoemde ondernemingen is geschiktheid als omschreven in onderdeel 1.2.1, nader uitgewerkt in hoofdstuk 2.
+3. Voor de toetsing voorafgaand aan het aantreden van een beleidsbepaler van de in [hoofdstuk 2](https://wetten.overheid.nl/jci1.3:c:BWBR0031740&hoofdstuk=2&z=2016-04-06&g=2016-04-01) genoemde ondernemingen is geschiktheid als omschreven in onderdeel 1.2.1, nader uitgewerkt in hoofdstuk 2.
 
 ##### 1.3. Variabelen van toetsing
 
@@ -130,7 +132,7 @@ De toezichthouder toetst geschiktheid van een beleidsbepaler:
 
 - c). het door een onderneming gehanteerde beleid, en de uitkomsten daarvan, voor werving en selectie en voor periodieke beoordeling van beleidsbepalers. Hieronder valt:
 
-- i). het door de onderneming gedocumenteerde beleid waarin rekening is gehouden met [onderdelen 1.2.1](https://wetten.overheid.nl/jci1.3:c:BWBR0031740&hoofdstuk=1&artikel=1.2&z=2013-07-31&g=2013-07-31), [1.3](https://wetten.overheid.nl/jci1.3:c:BWBR0031740&hoofdstuk=1&artikel=1.3&z=2013-07-31&g=2013-07-31) en [1.4](https://wetten.overheid.nl/jci1.3:c:BWBR0031740&hoofdstuk=1&artikel=1.4&z=2013-07-31&g=2013-07-31) en voor pensioenfondsen en beroepspensioenfondsen onderdelen 1.2.1 aanhef, 1.2.2, 1.3 en 1.4;
+- i). het door de onderneming gedocumenteerde beleid waarin rekening is gehouden met [onderdelen 1.2.1](https://wetten.overheid.nl/jci1.3:c:BWBR0031740&hoofdstuk=1&artikel=1.2&z=2016-04-06&g=2016-04-01), [1.3](https://wetten.overheid.nl/jci1.3:c:BWBR0031740&hoofdstuk=1&artikel=1.3&z=2016-04-06&g=2016-04-01) en [1.4](https://wetten.overheid.nl/jci1.3:c:BWBR0031740&hoofdstuk=1&artikel=1.4&z=2016-04-06&g=2016-04-01) en voor pensioenfondsen en beroepspensioenfondsen onderdelen 1.2.1 aanhef, 1.2.2, 1.3 en 1.4;
 
 - ii). het door de onderneming opgestelde functieprofiel voor de functie waarvoor een beleidsbepaler getoetst wordt en de (schriftelijk vastgelegde) besluitvorming over de selectie van een beleidsbepaler waarbij ook de overwegingen die tot deze uitkomst hebben geleid worden weergegeven; en
 
@@ -144,7 +146,7 @@ De toezichthouder toetst geschiktheid van een beleidsbepaler:
 
 ##### 1.7. Weging van informatie en antecedenten
 
-Bij de weging van de in [onderdeel 1.6](https://wetten.overheid.nl/jci1.3:c:BWBR0031740&hoofdstuk=1&artikel=1.6&z=2013-07-31&g=2013-07-31) genoemde informatie en antecedenten betrekt de toezichthouder de volgende factoren:
+Bij de weging van de in [onderdeel 1.6](https://wetten.overheid.nl/jci1.3:c:BWBR0031740&hoofdstuk=1&artikel=1.6&z=2016-04-06&g=2016-04-01) genoemde informatie en antecedenten betrekt de toezichthouder de volgende factoren:
 
 - a). het onderlinge verband tussen de aan informatie of een antecedent ten grondslag liggende gedraging of gedragingen en de overige omstandigheden van het geval;
 
@@ -164,7 +166,7 @@ Bij de weging van de in [onderdeel 1.6](https://wetten.overheid.nl/jci1.3:c:BWBR
 
 1. Onverminderd de [artikelen 1:49](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=1:49) en [1:90 van de Wet of het financieel toezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=1:90), [artikel 205 van de Pensioenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&artikel=205), [artikel 199 van de Wet verplichte beroepspensioenregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0018831&artikel=199), [artikel 38 Besluit uitvoering Pensioenwet en Wet verplichte beroepspensioenregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0020892&artikel=38) en de [artikelen 13](https://wetten.overheid.nl/jci1.3:c:BWBR0016189&artikel=13) en [15 van de Wet toezicht trustkantoren](https://wetten.overheid.nl/jci1.3:c:BWBR0016189&artikel=15), maken de AFM en DNB (de toezichthouders) in concrete gevallen afspraken over hun samenwerking bij de toetsing van geschiktheid en het uitwisselen van informatie en antecedenten wanneer het een onderneming betreft die onder toezicht van beide toezichthouders staat.
 
-2. Met het oog op de consistente toepassing door de toezichthouders van deze beleidsregel wordt een gezamenlijk panel samengesteld. Dit gezamenlijke panel beoordeelt periodiek toetsingen op basis van deze beleidsregel. De bevindingen van het gezamenlijke panel worden gebruikt in de periodieke evaluatie van de beleidsregel, bedoeld in [onderdeel 3.1](https://wetten.overheid.nl/jci1.3:c:BWBR0031740&hoofdstuk=3&artikel=3.1&z=2013-07-31&g=2013-07-31).
+2. Met het oog op de consistente toepassing door de toezichthouders van deze beleidsregel wordt een gezamenlijk panel samengesteld. Dit gezamenlijke panel beoordeelt periodiek toetsingen op basis van deze beleidsregel. De bevindingen van het gezamenlijke panel worden gebruikt in de periodieke evaluatie van de beleidsregel, bedoeld in [onderdeel 3.1](https://wetten.overheid.nl/jci1.3:c:BWBR0031740&hoofdstuk=3&artikel=3.1&z=2016-04-06&g=2016-04-01).
 
 ### Hoofdstuk 2. – Nadere bepalingen voorafgaand aan het aantreden van beleidsbepalers van ondernemingen in groep B en C
 
@@ -176,25 +178,25 @@ Voor alle ondernemingen in groep B en C geldt dat algemene en specifieke vakinho
 
 ##### Artikel 2.2
 
-Indien een aanbieder van krediet, een beleggingsonderneming, een beheerder van een beleggingsinstelling, een beheerder van een icbe, een beleggingsmaatschappij, een icbe, een bewaarder, een bewaarder van een icbe of een financiële dienstverlener met uitzondering van een bemiddelaar of een adviseur van beleggingsobjecten, van, met inbegrip van de beleidsbepalers, ten hoogste zes personen, in omvang groeit naar een onderneming met meer dan zes personen, dan worden de beleidsbepalers van deze onderneming opnieuw aan de voor hen relevante criteria in [hoofdstuk 2](https://wetten.overheid.nl/jci1.3:c:BWBR0031740&hoofdstuk=2&z=2013-07-31&g=2013-07-31) getoetst.
+Indien een aanbieder van krediet, een beleggingsonderneming, een beheerder van een beleggingsinstelling, een beheerder van een icbe, een beleggingsmaatschappij, een icbe, een bewaarder, een bewaarder van een icbe of een financiële dienstverlener met uitzondering van een bemiddelaar of een adviseur van beleggingsobjecten, van, met inbegrip van de beleidsbepalers, ten hoogste zes personen, in omvang groeit naar een onderneming met meer dan zes personen, dan worden de beleidsbepalers van deze onderneming opnieuw aan de voor hen relevante criteria in [hoofdstuk 2](https://wetten.overheid.nl/jci1.3:c:BWBR0031740&hoofdstuk=2&z=2016-04-06&g=2016-04-01) getoetst.
 
-##### 2.3. Toepassing van [hoofdstuk 1](https://wetten.overheid.nl/jci1.3:c:BWBR0031740&hoofdstuk=1&z=2013-07-31&g=2013-07-31)
+##### 2.3. Toepassing van [hoofdstuk 1](https://wetten.overheid.nl/jci1.3:c:BWBR0031740&hoofdstuk=1&z=2016-04-06&g=2016-04-01)
 
-Bij de toetsing voorafgaand aan het aantreden van beleidsbepalers van ondernemingen in groep B en C worden in ieder geval de volgende onderdelen van [hoofdstuk 1](https://wetten.overheid.nl/jci1.3:c:BWBR0031740&hoofdstuk=1&z=2013-07-31&g=2013-07-31) meegewogen:
+Bij de toetsing voorafgaand aan het aantreden van beleidsbepalers van ondernemingen in groep B en C worden in ieder geval de volgende onderdelen van [hoofdstuk 1](https://wetten.overheid.nl/jci1.3:c:BWBR0031740&hoofdstuk=1&z=2016-04-06&g=2016-04-01) meegewogen:
 
-- a. variabelen van toetsing ([onderdeel 1.3](https://wetten.overheid.nl/jci1.3:c:BWBR0031740&hoofdstuk=1&artikel=1.3&z=2013-07-31&g=2013-07-31));
+- a. variabelen van toetsing ([onderdeel 1.3](https://wetten.overheid.nl/jci1.3:c:BWBR0031740&hoofdstuk=1&artikel=1.3&z=2016-04-06&g=2016-04-01));
 
-- b. collectief ([1.4](https://wetten.overheid.nl/jci1.3:c:BWBR0031740&hoofdstuk=1&artikel=1.4&z=2013-07-31&g=2013-07-31));
+- b. collectief ([1.4](https://wetten.overheid.nl/jci1.3:c:BWBR0031740&hoofdstuk=1&artikel=1.4&z=2016-04-06&g=2016-04-01));
 
-- c. informatie en antecedenten ([onderdeel 1.6](https://wetten.overheid.nl/jci1.3:c:BWBR0031740&hoofdstuk=1&artikel=1.6&z=2013-07-31&g=2013-07-31)); en
+- c. informatie en antecedenten ([onderdeel 1.6](https://wetten.overheid.nl/jci1.3:c:BWBR0031740&hoofdstuk=1&artikel=1.6&z=2016-04-06&g=2016-04-01)); en
 
-- d. weging van informatie en antecedenten ([onderdeel 1.7](https://wetten.overheid.nl/jci1.3:c:BWBR0031740&hoofdstuk=1&artikel=1.7&z=2013-07-31&g=2013-07-31)).
+- d. weging van informatie en antecedenten ([onderdeel 1.7](https://wetten.overheid.nl/jci1.3:c:BWBR0031740&hoofdstuk=1&artikel=1.7&z=2016-04-06&g=2016-04-01)).
 
 #### § 2. Aanbieder van krediet; beleggingsonderneming; beheerder van een beleggingsinstelling: beheerder van een icbe; beleggingsmaatschappij; icbe; bewaarder; bewaarder van een icbe (groep B)
 
 ##### 2.4. Aanbieder van krediet; beleggingsonderneming met uitzondering van een verbonden agent; beheerder van een beleggingsinstelling; beheerder van een icbe; beleggingsmaatschappij; icbe; bewaarder; bewaarder van een icbe
 
-1. Een beleidsbepaler van een aanbieder van krediet, beleggingsonderneming, met uitzondering van de verbonden agent, beheerder van een beleggingsinstelling, beheerder van een icbe, beleggingsmaatschappij, icbe, bewaarder en bewaarder van een icbe, wordt bij aantreden geacht geschikt te zijn als bedoeld in [onderdeel 1.2.1](https://wetten.overheid.nl/jci1.3:c:BWBR0031740&hoofdstuk=1&artikel=1.2&z=2013-07-31&g=2013-07-31) indien hij of zij aantoont minimaal te beschikken over:
+1. Een beleidsbepaler van een aanbieder van krediet, beleggingsonderneming, met uitzondering van de verbonden agent, beheerder van een beleggingsinstelling, beheerder van een icbe, beleggingsmaatschappij, icbe, bewaarder en bewaarder van een icbe, wordt bij aantreden geacht geschikt te zijn als bedoeld in [onderdeel 1.2.1](https://wetten.overheid.nl/jci1.3:c:BWBR0031740&hoofdstuk=1&artikel=1.2&z=2016-04-06&g=2016-04-01) indien hij of zij aantoont minimaal te beschikken over:
 
 - a. bestuurlijke vaardigheden nodig voor het dagelijks beleid;
 
@@ -216,17 +218,17 @@ Onderwerpen A tot en met D zijn opgedaan gedurende ten minste twee jaar werkerva
 
 ##### 2.5. Verbonden agent
 
-Een beleidsbepaler van een verbonden agent wordt bij zijn of haar aantreden geacht geschikt te zijn als bedoeld in [onderdeel 1.2.1](https://wetten.overheid.nl/jci1.3:c:BWBR0031740&hoofdstuk=1&artikel=1.2&z=2013-07-31&g=2013-07-31) indien hij of zij aantoont minimaal te beschikken over algemene en specifieke vakinhoudelijke kennis, opgedaan gedurende ten minste één jaar werkervaring.
+Een beleidsbepaler van een verbonden agent wordt bij zijn of haar aantreden geacht geschikt te zijn als bedoeld in [onderdeel 1.2.1](https://wetten.overheid.nl/jci1.3:c:BWBR0031740&hoofdstuk=1&artikel=1.2&z=2016-04-06&g=2016-04-01) indien hij of zij aantoont minimaal te beschikken over algemene en specifieke vakinhoudelijke kennis, opgedaan gedurende ten minste één jaar werkervaring.
 
 ##### 2.6. Nadere vereisten
 
-In aanvulling op de minimumvereisten van de [onderdelen 2.4](https://wetten.overheid.nl/jci1.3:c:BWBR0031740&hoofdstuk=2&paragraaf=2&artikel=2.4&z=2013-07-31&g=2013-07-31) en [2.5](https://wetten.overheid.nl/jci1.3:c:BWBR0031740&hoofdstuk=2&paragraaf=2&artikel=2.5&z=2013-07-31&g=2013-07-31) kan de toezichthouder, indien daartoe redelijke aanleiding bestaat, besluiten de geschiktheid van een beleidsbepaler van een in voornoemde onderdelen genoemde onderneming nader te toetsen aan de vereisten van [onderdeel 1.2.1](https://wetten.overheid.nl/jci1.3:c:BWBR0031740&hoofdstuk=1&artikel=1.2&z=2013-07-31&g=2013-07-31).
+In aanvulling op de minimumvereisten van de [onderdelen 2.4](https://wetten.overheid.nl/jci1.3:c:BWBR0031740&hoofdstuk=2&paragraaf=2&artikel=2.4&z=2016-04-06&g=2016-04-01) en [2.5](https://wetten.overheid.nl/jci1.3:c:BWBR0031740&hoofdstuk=2&paragraaf=2&artikel=2.5&z=2016-04-06&g=2016-04-01) kan de toezichthouder, indien daartoe redelijke aanleiding bestaat, besluiten de geschiktheid van een beleidsbepaler van een in voornoemde onderdelen genoemde onderneming nader te toetsen aan de vereisten van [onderdeel 1.2.1](https://wetten.overheid.nl/jci1.3:c:BWBR0031740&hoofdstuk=1&artikel=1.2&z=2016-04-06&g=2016-04-01).
 
 #### § 3. Financiëledienstverlener, met uitzondering van financiëledienstverleners in groep A en B; betaalinstelling; elektronischgeldinstelling; trustkantoor (groep C)
 
 ##### 2.7. Betaalinstelling; elektronischgeldinstelling; financiëledienstverlener, met uitzondering van een financiëledienstverlener in groep A en B; of trustkantoor
 
-1. Een beleidsbepaler van een betaalinstelling, een elektronischgeldinstelling, een financiëledienstverlener, met uitzondering van een financiëledienstverlener in groep A en B, of een trustkantoor wordt bij zijn of haar aantreden geacht geschikt te zijn als bedoeld in [onderdeel 1.2.1](https://wetten.overheid.nl/jci1.3:c:BWBR0031740&hoofdstuk=1&artikel=1.2&z=2013-07-31&g=2013-07-31), indien hij of zij aantoont te beschikken over:
+1. Een beleidsbepaler van een betaalinstelling, een elektronischgeldinstelling, een financiëledienstverlener, met uitzondering van een financiëledienstverlener in groep A en B, of een trustkantoor wordt bij zijn of haar aantreden geacht geschikt te zijn als bedoeld in [onderdeel 1.2.1](https://wetten.overheid.nl/jci1.3:c:BWBR0031740&hoofdstuk=1&artikel=1.2&z=2016-04-06&g=2016-04-01), indien hij of zij aantoont te beschikken over:
 
 - a. bestuurlijke vaardigheden nodig voor het (dagelijks) beleid;
 
@@ -240,7 +242,7 @@ In aanvulling op de minimumvereisten van de [onderdelen 2.4](https://wetten.over
 
 ##### 2.8. Kleine financiëledienstverlener met uitzondering van een bemiddelaar in of adviseur van beleggingsobjecten
 
-Een beleidsbepaler van een financiëledienstverlener, met uitzondering van een bemiddelaar in of adviseur van beleggingsobjecten, van, met inbegrip van de beleidsbepalers, ten hoogste zes personen, wordt bij zijn of haar aantreden geacht geschikt te zijn als bedoeld in [onderdeel 1.2.1](https://wetten.overheid.nl/jci1.3:c:BWBR0031740&hoofdstuk=1&artikel=1.2&z=2013-07-31&g=2013-07-31), indien hij of zij aantoont te beschikken over:
+Een beleidsbepaler van een financiëledienstverlener, met uitzondering van een bemiddelaar in of adviseur van beleggingsobjecten, van, met inbegrip van de beleidsbepalers, ten hoogste zes personen, wordt bij zijn of haar aantreden geacht geschikt te zijn als bedoeld in [onderdeel 1.2.1](https://wetten.overheid.nl/jci1.3:c:BWBR0031740&hoofdstuk=1&artikel=1.2&z=2016-04-06&g=2016-04-01), indien hij of zij aantoont te beschikken over:
 
 - (i). bestuurlijke ervaring opgedaan gedurende ten minste één jaar in een voor de onderneming relevante werkomgeving; of
 
@@ -252,7 +254,7 @@ Een beleidsbepaler van een financiëledienstverlener, met uitzondering van een b
 
 ##### 2.9. Nadere vereisten
 
-In aanvulling op de minimumvereisten van de [onderdelen 2.7](https://wetten.overheid.nl/jci1.3:c:BWBR0031740&hoofdstuk=2&paragraaf=3&artikel=2.7&z=2013-07-31&g=2013-07-31) en [2.8](https://wetten.overheid.nl/jci1.3:c:BWBR0031740&hoofdstuk=2&paragraaf=3&artikel=2.8&z=2013-07-31&g=2013-07-31) kan de toezichthouder, indien daartoe redelijke aanleiding bestaat, besluiten de geschiktheid van een beleidsbepaler van een in voornoemde onderdelen genoemde onderneming nader te toetsen aan de vereisten van [onderdeel 1.2.1](https://wetten.overheid.nl/jci1.3:c:BWBR0031740&hoofdstuk=1&artikel=1.2&z=2013-07-31&g=2013-07-31).
+In aanvulling op de minimumvereisten van de [onderdelen 2.7](https://wetten.overheid.nl/jci1.3:c:BWBR0031740&hoofdstuk=2&paragraaf=3&artikel=2.7&z=2016-04-06&g=2016-04-01) en [2.8](https://wetten.overheid.nl/jci1.3:c:BWBR0031740&hoofdstuk=2&paragraaf=3&artikel=2.8&z=2016-04-06&g=2016-04-01) kan de toezichthouder, indien daartoe redelijke aanleiding bestaat, besluiten de geschiktheid van een beleidsbepaler van een in voornoemde onderdelen genoemde onderneming nader te toetsen aan de vereisten van [onderdeel 1.2.1](https://wetten.overheid.nl/jci1.3:c:BWBR0031740&hoofdstuk=1&artikel=1.2&z=2016-04-06&g=2016-04-01).
 
 ### Hoofdstuk 3. – Slotbepalingen
 
@@ -272,7 +274,7 @@ Deze beleidsregel treedt in werking op 1 juli 2012. Indien de Staatscourant waar
 
 Deze beleidsregel wordt aangehaald als: Beleidsregel geschiktheid 2012.
 
-## Bijlage. – Competenties in alfabetische volgorde (behorend bij [onderdeel 1.2.1](https://wetten.overheid.nl/jci1.3:c:BWBR0031740&hoofdstuk=1&artikel=1.2&z=2013-07-31&g=2013-07-31))
+## Bijlage. – Competenties in alfabetische volgorde (behorend bij [onderdeel 1.2.1](https://wetten.overheid.nl/jci1.3:c:BWBR0031740&hoofdstuk=1&artikel=1.2&z=2016-04-06&g=2016-04-01))
 
 - a. **Authenticiteit:** is consistent in woord en daad, waarbij gedachten en gevoelens ook in lijn zijn met wat hij of zij zegt en doet. Dit betekent tevens het open communiceren van intenties, ideeën en gevoelens, het uitnodigen tot openheid en eerlijkheid en de toezichthouder juist informeren over de werkelijke situatie en erkennen van risico’s en problemen naar de toezichthouder.
 
