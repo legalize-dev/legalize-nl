@@ -4,7 +4,7 @@ identifier: "BWBR0011595"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-01-01"
-last_updated: "2016-01-01"
+last_updated: "2016-04-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0011595"
 soort: "ministeriele-regeling"
@@ -71,7 +71,7 @@ De studerende, bedoeld in [artikel 3.7, tweede lid, van de wet](https://wetten.o
 
 ##### Artikel 2.5. Deel opleiding buiten Nederland: aanvraag voorziening in geld
 
-1. De studerende, bedoeld in [artikel 4.6](https://wetten.overheid.nl/jci1.3:c:BWBR0011595&hoofdstuk=4&artikel=4.6&z=2016-01-01&g=2016-01-01), die een reisvoorziening in geld wenst te ontvangen, dient daartoe een aanvraag in bij de Minister.
+1. De studerende, bedoeld in [artikel 4.6](https://wetten.overheid.nl/jci1.3:c:BWBR0011595&hoofdstuk=4&artikel=4.6&z=2016-04-01&g=2016-04-01), die een reisvoorziening in geld wenst te ontvangen, dient daartoe een aanvraag in bij de Minister.
 
 2. Op het aanvraagformulier wordt door de onderwijsinstelling waar de studerende blijft ingeschreven, verklaard:
 
@@ -119,7 +119,7 @@ Vervallen
 
 - b. een weekendreisrecht als bedoeld in artikel 1, zevende lid, van de overeenkomst tussen de vervoersbedrijven en de Staat in verband met de uitvoering van het reisrecht.
 
-2. Indien een studerende als gevolg van de keuzemogelijkheid voor een soort reisrecht als bedoeld in [artikel 3.26, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&artikel=3.26), een weekendreisrecht kiest, geeft hij dit via de website www.ocwduo.nl aan de Minister door alvorens hij zijn reisproduct op zijn persoonlijke ov-chipkaart laadt zoals beschreven in [artikel 4.1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011595&hoofdstuk=4&artikel=4.1&z=2016-01-01&g=2016-01-01).
+2. Indien een studerende als gevolg van de keuzemogelijkheid voor een soort reisrecht als bedoeld in [artikel 3.26, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&artikel=3.26), een weekendreisrecht kiest, geeft hij dit via de website www.ocwduo.nl aan de Minister door alvorens hij zijn reisproduct op zijn persoonlijke ov-chipkaart laadt zoals beschreven in [artikel 4.1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011595&hoofdstuk=4&artikel=4.1&z=2016-04-01&g=2016-04-01).
 
 ##### Artikel 4.4. Wisselen van soort reisrecht
 
@@ -153,7 +153,7 @@ De studerende die beschikking heeft over een reisproduct heeft uitsluitend voor 
 
 3. De voorziening in geld, bedoeld in het eerste lid, is gelijk aan het bedrag, bedoeld in [artikel 5.3, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&artikel=5.3).
 
-4. Toekenning van de reisvoorziening in geld vindt plaats per kalendermaand voor de periode waarin de studerende voor de betreffende opleiding in het buitenland studeert. Na deze periode wordt dezelfde soort reisrecht toegekend zonder dat dat opnieuw behoeft te worden aangevraagd. Indien de studerende eerder dan aangegeven terugkeert in Nederland, kan opnieuw een reisrecht worden aangevraagd met inachtneming van de aanvraagtermijn in [artikel 2.4](https://wetten.overheid.nl/jci1.3:c:BWBR0011595&hoofdstuk=2&artikel=2.4&z=2016-01-01&g=2016-01-01).
+4. Toekenning van de reisvoorziening in geld vindt plaats per kalendermaand voor de periode waarin de studerende voor de betreffende opleiding in het buitenland studeert. Na deze periode wordt dezelfde soort reisrecht toegekend zonder dat dat opnieuw behoeft te worden aangevraagd. Indien de studerende eerder dan aangegeven terugkeert in Nederland, kan opnieuw een reisrecht worden aangevraagd met inachtneming van de aanvraagtermijn in [artikel 2.4](https://wetten.overheid.nl/jci1.3:c:BWBR0011595&hoofdstuk=2&artikel=2.4&z=2016-04-01&g=2016-04-01).
 
 5. Dit artikel berust op [artikel 3.7, vierde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&artikel=3.7).
 
@@ -223,7 +223,7 @@ De betaling van de maandelijkse termijnen voor de rente en aflossing van de leni
 
 5. Indien er niet langer betalingen op grond van de wet zijn, wordt het bedrag aan studiefinanciering dat te veel is uitbetaald voor zover dat bedrag nog niet is verrekend, op eerste vordering binnen 30 dagen geheel terugbetaald.
 
-6. In afwijking van het vijfde lid wordt het de debiteur toegestaan, indien hij daartoe een aanvraag indient, het in het vijfde lid bedoelde bedrag in ten hoogste 24 maandelijkse termijnen terug te betalen, waarbij geen termijn, met uitzondering van de laatste termijn, kleiner zal zijn dan het bedrag, bedoeld in het derde lid, dan wel het op grond van [artikel 6.2](https://wetten.overheid.nl/jci1.3:c:BWBR0011595&hoofdstuk=6&artikel=6.2&z=2016-01-01&g=2016-01-01) aangepaste bedrag. De in de vorige volzin bedoelde betaling van de maandelijkse termijn door de debiteur geschiedt door middel van automatische incasso.
+6. In afwijking van het vijfde lid wordt het de debiteur toegestaan, indien hij daartoe een aanvraag indient, het in het vijfde lid bedoelde bedrag in ten hoogste 24 maandelijkse termijnen terug te betalen, waarbij geen termijn, met uitzondering van de laatste termijn, kleiner zal zijn dan het bedrag, bedoeld in het derde lid, dan wel het op grond van [artikel 6.2](https://wetten.overheid.nl/jci1.3:c:BWBR0011595&hoofdstuk=6&artikel=6.2&z=2016-04-01&g=2016-04-01) aangepaste bedrag. De in de vorige volzin bedoelde betaling van de maandelijkse termijn door de debiteur geschiedt door middel van automatische incasso.
 
 7. Over het in het vijfde lid bedoelde bedrag, dat in maandelijkse termijnen wordt terugbetaald, is rente verschuldigd. Als rentepercentage wordt het percentage van de wettelijke rente gehanteerd. Deze rente wordt berekend per dag op basis van samengestelde interest en is verschuldigd over het bedrag van iedere terugbetaling afzonderlijk, met dien verstande dat ingeval de terugbetaling niet op de vervaldatum is ontvangen de op voet van deze bepaling berekende rente wordt bijgeschreven bij het verschuldigde bedrag, onverminderd het bepaalde in het negende lid.
 
@@ -233,7 +233,7 @@ De betaling van de maandelijkse termijnen voor de rente en aflossing van de leni
 
 ##### Artikel 6.2. Aanpassing
 
-Aanpassing van het bedrag genoemd in [artikel 6.1, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011595&hoofdstuk=6&artikel=6.1&z=2016-01-01&g=2016-01-01), geschiedt met de procentuele wijziging, bedoeld in [artikel 17, tweede lid, van het Besluit studiefinanciering 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011545&artikel=17).
+Aanpassing van het bedrag genoemd in [artikel 6.1, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011595&hoofdstuk=6&artikel=6.1&z=2016-04-01&g=2016-04-01), geschiedt met de procentuele wijziging, bedoeld in [artikel 17, tweede lid, van het Besluit studiefinanciering 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011545&artikel=17).
 
 ### Hoofdstuk 7. Overgangsbepalingen
 
@@ -249,15 +249,15 @@ Wijzigt de [Regeling studiefinanciering 2000](https://wetten.overheid.nl/jci1.3:
 
 Wijzigt de [Regeling studiefinanciering 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011595).
 
-##### Artikel 7.4. Afwijking van [artikel 5.1](https://wetten.overheid.nl/jci1.3:c:BWBR0011595&hoofdstuk=5&artikel=5.1&z=2016-01-01&g=2016-01-01)
+##### Artikel 7.4. Afwijking van [artikel 5.1](https://wetten.overheid.nl/jci1.3:c:BWBR0011595&hoofdstuk=5&artikel=5.1&z=2016-04-01&g=2016-04-01)
 
 1. Wijzigt deze regeling.
 
-2. In afwijking van [artikel 5.1](https://wetten.overheid.nl/jci1.3:c:BWBR0011595&hoofdstuk=5&artikel=5.1&z=2016-01-01&g=2016-01-01), kan de betaling, bedoeld in artikel 5.1, eerste lid, voor debiteuren op wie [hoofdstuk 10a van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&hoofdstuk=10a) van toepassing is, ook geschieden door een aan de debiteur gezonden acceptgirokaart.
+2. In afwijking van [artikel 5.1](https://wetten.overheid.nl/jci1.3:c:BWBR0011595&hoofdstuk=5&artikel=5.1&z=2016-04-01&g=2016-04-01), kan de betaling, bedoeld in artikel 5.1, eerste lid, voor debiteuren op wie [hoofdstuk 10a van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&hoofdstuk=10a) van toepassing is, ook geschieden door een aan de debiteur gezonden acceptgirokaart.
 
-3. Indien de in het tweede lid bedoelde debiteur betaalt volgens de in [artikel 5.1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011595&hoofdstuk=5&artikel=5.1&z=2016-01-01&g=2016-01-01), bedoelde wijze, wordt de te betalen maandelijkse termijn telkens verminderd met € 0,77.
+3. Indien de in het tweede lid bedoelde debiteur betaalt volgens de in [artikel 5.1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011595&hoofdstuk=5&artikel=5.1&z=2016-04-01&g=2016-04-01), bedoelde wijze, wordt de te betalen maandelijkse termijn telkens verminderd met € 0,77.
 
-##### Artikel 7.5. Afwijking van de [artikelen 6.1](https://wetten.overheid.nl/jci1.3:c:BWBR0011595&hoofdstuk=6&artikel=6.1&z=2016-01-01&g=2016-01-01) en [6.2](https://wetten.overheid.nl/jci1.3:c:BWBR0011595&hoofdstuk=6&artikel=6.2&z=2016-01-01&g=2016-01-01)
+##### Artikel 7.5. Afwijking van de [artikelen 6.1](https://wetten.overheid.nl/jci1.3:c:BWBR0011595&hoofdstuk=6&artikel=6.1&z=2016-04-01&g=2016-04-01) en [6.2](https://wetten.overheid.nl/jci1.3:c:BWBR0011595&hoofdstuk=6&artikel=6.2&z=2016-04-01&g=2016-04-01)
 
 Wijzigt de [Regeling studiefinanciering 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011595).
 
@@ -315,7 +315,7 @@ Vervallen
 
 Vervallen
 
-## Bijlage. behorende bij [artikel 6a.1](https://wetten.overheid.nl/jci1.3:c:BWBR0011595&hoofdstuk=6a&artikel=6a.1&z=2016-01-01&g=2016-01-01)
+## Bijlage. behorende bij [artikel 6a.1](https://wetten.overheid.nl/jci1.3:c:BWBR0011595&hoofdstuk=6a&artikel=6a.1&z=2016-04-01&g=2016-04-01)
 
 | HBO-bachelor | Croho-nummer | WO-bachelor | Croho-nummer | Bevoegdheid (leraar vo 2e graads) | Isatcode |
 | --- | --- | --- | --- | --- | --- |
@@ -503,13 +503,11 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst, met u
 
 1. Op aanvraag van de debiteur kan de terugbetaling, bedoeld in [artikel 6.7, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&artikel=6.7), en [artikel 10a.5, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&artikel=10a.5), worden opgeschort met een of meerdere aflosvrije periodes.
 
-2. Een aflosvrije periode beslaat minimaal drie kalendermaanden.
+2. Een aflosvrije periode beslaat minimaal één kalendermaand.
 
 3. De debiteur dient een aanvraag als bedoeld in het eerste lid in uiterlijk 1 maand voor de datum waarop de aflosvrije periode in moet gaan.
 
 4. Voor elke aflosvrije periode wordt een nieuwe aanvraag ingediend bij de Minister.
-
-5. In afwijking van het tweede lid, beslaat een aflosvrije periode voor een debiteur die in het buitenland woont als bedoeld in [artikel 10a.6, vierde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&artikel=10a.6), minimaal één kalenderjaar.
 
 ### Hoofdstuk 6. Herziening
 
