@@ -4,7 +4,7 @@ identifier: "BWBR0031611"
 country: "nl"
 rank: "ministeriele_regeling_bes"
 publication_date: "2022-01-01"
-last_updated: "2015-02-01"
+last_updated: "2016-04-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0031611"
 soort: "ministeriele-regeling-BES"
@@ -39,6 +39,8 @@ entry_into_force: "2012-07-01"
 Gelet op de [artikelen 2.3, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0030824&artikel=2.3), [2.9, eerste lid, onderdelen b en d](https://wetten.overheid.nl/jci1.3:c:BWBR0030824&artikel=2.9), [2.10, tweede lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0030824&artikel=2.10), [2.12, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030824&artikel=2.12), [3.3, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030824&artikel=3.3), [3.4](https://wetten.overheid.nl/jci1.3:c:BWBR0030824&artikel=3.4), [3.11, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0030824&artikel=3.11), en [4.2, tweede en zevende lid, van de Wet ter voorkoming van witwassen en financieren van terrorisme BES](https://wetten.overheid.nl/jci1.3:c:BWBR0030824&artikel=4.2);
 
 Besluiten:
+
+Treedt in werking op het tijdstip waarop Wet ter voorkoming van witwassen en financieren van terrorisme BES in werking treedt.
 
 ##### Artikel 1
 
@@ -102,22 +104,22 @@ Als land in de zin van [artikelen 2.9, eerste lid, onderdelen b en d](https://we
 
 ##### Artikel 6
 
-De indicatoren, bedoeld in [artikel 3.4 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0030824&artikel=3.4), worden met betrekking tot transacties in verband met het afnemen van diensten, bedoeld in de in onderstaande tabel genoemde onderdelen van [bijlage A bij de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0030824&bijlage=A), vastgesteld zoals opgenomen in de daarbij vermelde [bijlagen](https://wetten.overheid.nl/jci1.3:c:BWBR0031611&bijlage=A&z=2015-02-01&g=2015-02-01) bij deze regeling:
+De indicatoren, bedoeld in [artikel 3.4 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0030824&artikel=3.4), worden met betrekking tot transacties in verband met het afnemen van diensten, bedoeld in de in onderstaande tabel genoemde onderdelen van [bijlage A bij de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0030824&bijlage=A), vastgesteld zoals opgenomen in de daarbij vermelde [bijlagen](https://wetten.overheid.nl/jci1.3:c:BWBR0031611&bijlage=A&z=2016-04-01&g=2016-04-01) bij deze regeling:
 
 | Onderdelen van [bijlage A bij de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0030824&bijlage=A) waarin diensten zijn vermeld | Bijlagen bij deze regeling waarin indicatoren zijn opgenomen |
 | --- | --- |
-| a tot en met d, g, i en p tot en met w | [A](https://wetten.overheid.nl/jci1.3:c:BWBR0031611&bijlage=A&z=2015-02-01&g=2015-02-01), [I](https://wetten.overheid.nl/jci1.3:c:BWBR0031611&bijlage=I&z=2015-02-01&g=2015-02-01) en [J](https://wetten.overheid.nl/jci1.3:c:BWBR0031611&bijlage=J&z=2015-02-01&g=2015-02-01) |
-| e | [B](https://wetten.overheid.nl/jci1.3:c:BWBR0031611&bijlage=B&z=2015-02-01&g=2015-02-01) |
-| f | [C](https://wetten.overheid.nl/jci1.3:c:BWBR0031611&bijlage=C&z=2015-02-01&g=2015-02-01) |
-| h | [D](https://wetten.overheid.nl/jci1.3:c:BWBR0031611&bijlage=D&z=2015-02-01&g=2015-02-01) |
-| j | [E](https://wetten.overheid.nl/jci1.3:c:BWBR0031611&bijlage=E&z=2015-02-01&g=2015-02-01) |
-| k | [F](https://wetten.overheid.nl/jci1.3:c:BWBR0031611&bijlage=F&z=2015-02-01&g=2015-02-01) |
-| m | [G](https://wetten.overheid.nl/jci1.3:c:BWBR0031611&bijlage=G&z=2015-02-01&g=2015-02-01) |
-| l, n en o | [H](https://wetten.overheid.nl/jci1.3:c:BWBR0031611&bijlage=H&z=2015-02-01&g=2015-02-01) |
+| a tot en met d, g, i en p tot en met w | [A](https://wetten.overheid.nl/jci1.3:c:BWBR0031611&bijlage=A&z=2016-04-01&g=2016-04-01), [I](https://wetten.overheid.nl/jci1.3:c:BWBR0031611&bijlage=I&z=2016-04-01&g=2016-04-01) en [J](https://wetten.overheid.nl/jci1.3:c:BWBR0031611&bijlage=J&z=2016-04-01&g=2016-04-01) |
+| e | [B](https://wetten.overheid.nl/jci1.3:c:BWBR0031611&bijlage=B&z=2016-04-01&g=2016-04-01) |
+| f | [C](https://wetten.overheid.nl/jci1.3:c:BWBR0031611&bijlage=C&z=2016-04-01&g=2016-04-01) |
+| h | [D](https://wetten.overheid.nl/jci1.3:c:BWBR0031611&bijlage=D&z=2016-04-01&g=2016-04-01) |
+| j | [E](https://wetten.overheid.nl/jci1.3:c:BWBR0031611&bijlage=E&z=2016-04-01&g=2016-04-01) |
+| k | [F](https://wetten.overheid.nl/jci1.3:c:BWBR0031611&bijlage=F&z=2016-04-01&g=2016-04-01) |
+| m | [G](https://wetten.overheid.nl/jci1.3:c:BWBR0031611&bijlage=G&z=2016-04-01&g=2016-04-01) |
+| l, n en o | [H](https://wetten.overheid.nl/jci1.3:c:BWBR0031611&bijlage=H&z=2016-04-01&g=2016-04-01) |
 
 ##### Artikel 7
 
-1. De indicatoren in [bijlagen B](https://wetten.overheid.nl/jci1.3:c:BWBR0031611&bijlage=B&z=2015-02-01&g=2015-02-01) en [C](https://wetten.overheid.nl/jci1.3:c:BWBR0031611&bijlage=C&z=2015-02-01&g=2015-02-01) bij deze regeling blijven buiten toepassing in gevallen waarin ter voldoening aan toezeggingen omtrent pensioen door de werkgever aan werknemers, verbonden aan zijn onderneming:
+1. De indicatoren in [bijlagen B](https://wetten.overheid.nl/jci1.3:c:BWBR0031611&bijlage=B&z=2016-04-01&g=2016-04-01) en [C](https://wetten.overheid.nl/jci1.3:c:BWBR0031611&bijlage=C&z=2016-04-01&g=2016-04-01) bij deze regeling blijven buiten toepassing in gevallen waarin ter voldoening aan toezeggingen omtrent pensioen door de werkgever aan werknemers, verbonden aan zijn onderneming:
 
 - a. door de werkgever overeenkomsten van verzekering zijn gesloten met een verzekeraar die ingevolge de [Wet financiële markten BES](https://wetten.overheid.nl/jci1.3:c:BWBR0030883) het bedrijf van levensverzekeraar mag uitoefenen;
 
@@ -127,7 +129,7 @@ De indicatoren, bedoeld in [artikel 3.4 van de wet](https://wetten.overheid.nl/j
 
 ##### Artikel 8
 
-De indicatoren, bedoeld in [bijlagen B](https://wetten.overheid.nl/jci1.3:c:BWBR0031611&bijlage=B&z=2015-02-01&g=2015-02-01) en [C](https://wetten.overheid.nl/jci1.3:c:BWBR0031611&bijlage=C&z=2015-02-01&g=2015-02-01) bij deze regeling blijven voorts buiten toepassing ten aanzien van:
+De indicatoren, bedoeld in [bijlagen B](https://wetten.overheid.nl/jci1.3:c:BWBR0031611&bijlage=B&z=2016-04-01&g=2016-04-01) en [C](https://wetten.overheid.nl/jci1.3:c:BWBR0031611&bijlage=C&z=2016-04-01&g=2016-04-01) bij deze regeling blijven voorts buiten toepassing ten aanzien van:
 
 - a. het sluiten van overeenkomsten van verzekeringen door een pensioenfonds als bedoeld in [artikel 1, eerste lid, van de Pensioenwet BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028712&artikel=1) tot het overdragen of het herverzekeren van het uit de door het pensioenfonds aangegane verplichtingen voortspruitende risico;
 
@@ -137,7 +139,7 @@ De indicatoren, bedoeld in [bijlagen B](https://wetten.overheid.nl/jci1.3:c:BWBR
 
 ##### Artikel 9
 
-Het model voor het aangiftebiljet voor de aanmelding van een grensoverschrijdend geldtransport, bedoeld in [artikel 4.2, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0030824&artikel=4.2), is vastgesteld overeenkomstig de bij deze regeling behorende [bijlage K](https://wetten.overheid.nl/jci1.3:c:BWBR0031611&bijlage=K&z=2015-02-01&g=2015-02-01).
+Het model voor het aangifteformulier voor de aanmelding van een grensoverschrijdend geldtransport, bedoeld in [artikel 4.2, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0030824&artikel=4.2), is vastgesteld overeenkomstig de bij deze regeling behorende [bijlage K](https://wetten.overheid.nl/jci1.3:c:BWBR0031611&bijlage=K&z=2016-04-01&g=2016-04-01), waarbij naar keuze gebruik kan worden gemaakt van de Nederlandstalige, de Engelstalige, de Papiamentstalige of de Spaanstalige versie van het formulier.
 
 ##### Artikel 10
 
@@ -155,7 +157,7 @@ Deze regeling treedt in werking op het tijdstip waarop de [Wet ter voorkoming va
 
 Deze regeling wordt aangehaald als: Regeling ter voorkoming van witwassen en financieren van terrorisme BES.
 
-## Bijlage A. Indicatoren diensten als bedoeld in onderdelen a tot en met d, g, i en p tot en met w van [bijlage A bij de Wet ter voorkoming van witwassen en financieren van terrorisme BES](https://wetten.overheid.nl/jci1.3:c:BWBR0030824&bijlage=A) (dienstverleners: kredietinstellingen, geldtransactiekantoren, e.a.) (bijlage als bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0031611&artikel=5&z=2015-02-01&g=2015-02-01) van de Regeling ter voorkoming van witwassen en financieren van terrorisme BES)
+## Bijlage A. Indicatoren diensten als bedoeld in onderdelen a tot en met d, g, i en p tot en met w van [bijlage A bij de Wet ter voorkoming van witwassen en financieren van terrorisme BES](https://wetten.overheid.nl/jci1.3:c:BWBR0030824&bijlage=A) (dienstverleners: kredietinstellingen, geldtransactiekantoren, e.a.) (bijlage als bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0031611&artikel=5&z=2016-04-01&g=2016-04-01) van de Regeling ter voorkoming van witwassen en financieren van terrorisme BES)
 
 Voor alle indicatoren geldt:
 
@@ -163,7 +165,7 @@ Voor alle indicatoren geldt:
 
 ### II. Melding verplicht indien de meldingsplichtige oordeelt dat de volgende situaties van toepassing zijn (subjectieve indicatoren):
 
-## Bijlage B. Indicatoren diensten als bedoeld in onderdeel e van [bijlage A bij de Wet ter voorkoming van witwassen en financieren van terrorisme BES](https://wetten.overheid.nl/jci1.3:c:BWBR0030824&bijlage=A) (dienstverleners: levensverzekeraars en assurantiebemiddelaars) (bijlage als bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0031611&artikel=5&z=2015-02-01&g=2015-02-01) van de Regeling ter voorkoming van witwassen en financieren van terrorisme BES)
+## Bijlage B. Indicatoren diensten als bedoeld in onderdeel e van [bijlage A bij de Wet ter voorkoming van witwassen en financieren van terrorisme BES](https://wetten.overheid.nl/jci1.3:c:BWBR0030824&bijlage=A) (dienstverleners: levensverzekeraars en assurantiebemiddelaars) (bijlage als bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0031611&artikel=5&z=2016-04-01&g=2016-04-01) van de Regeling ter voorkoming van witwassen en financieren van terrorisme BES)
 
 Voor alle indicatoren geldt:
 
@@ -171,7 +173,7 @@ Voor alle indicatoren geldt:
 
 ### II. Melding verplicht indien de meldingsplichtige oordeelt dat de volgende situaties van toepassing zijn (subjectieve indicatoren):
 
-## Bijlage C. Indicatoren diensten als bedoeld in onderdeel f van [bijlage A bij de Wet ter voorkoming van witwassen en financieren van terrorisme BES](https://wetten.overheid.nl/jci1.3:c:BWBR0030824&bijlage=A) (dienstverleners: levensverzekeraars en assurantiebemiddelaars) (bijlage als bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0031611&artikel=5&z=2015-02-01&g=2015-02-01) van de Regeling ter voorkoming van witwassen en financieren van terrorisme BES)
+## Bijlage C. Indicatoren diensten als bedoeld in onderdeel f van [bijlage A bij de Wet ter voorkoming van witwassen en financieren van terrorisme BES](https://wetten.overheid.nl/jci1.3:c:BWBR0030824&bijlage=A) (dienstverleners: levensverzekeraars en assurantiebemiddelaars) (bijlage als bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0031611&artikel=5&z=2016-04-01&g=2016-04-01) van de Regeling ter voorkoming van witwassen en financieren van terrorisme BES)
 
 Voor alle indicatoren geldt:
 
@@ -181,7 +183,7 @@ Voor alle indicatoren geldt:
 
 Er bestaat aanleiding om te veronderstellen dat de betrokken verzekering verband houdt met witwassen of financiering van terrorisme.
 
-## Bijlage D. Indicatoren diensten als bedoeld in onderdeel h van [bijlage A bij de Wet ter voorkoming van witwassen en financieren van terrorisme BES](https://wetten.overheid.nl/jci1.3:c:BWBR0030824&bijlage=A) (dienstverleners: ondermeer creditcard bedrijven en kredietinstellingen) (bijlage als bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0031611&artikel=5&z=2015-02-01&g=2015-02-01) van de Regeling ter voorkoming van witwassen en financieren van terrorisme BES)
+## Bijlage D. Indicatoren diensten als bedoeld in onderdeel h van [bijlage A bij de Wet ter voorkoming van witwassen en financieren van terrorisme BES](https://wetten.overheid.nl/jci1.3:c:BWBR0030824&bijlage=A) (dienstverleners: ondermeer creditcard bedrijven en kredietinstellingen) (bijlage als bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0031611&artikel=5&z=2016-04-01&g=2016-04-01) van de Regeling ter voorkoming van witwassen en financieren van terrorisme BES)
 
 Voor alle indicatoren geldt:
 
@@ -189,7 +191,7 @@ Voor alle indicatoren geldt:
 
 ### II. Melding verplicht indien de meldingsplichtige oordeelt dat de volgende situaties van toepassing zijn:
 
-## Bijlage E. Indicatoren diensten als bedoeld in onderdeel j van [bijlage A bij de Wet ter voorkoming van witwassen en financieren van terrorisme BES](https://wetten.overheid.nl/jci1.3:c:BWBR0030824&bijlage=A) (dienstverleners: casino’s) (bijlage als bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0031611&artikel=5&z=2015-02-01&g=2015-02-01) van de Regeling ter voorkoming van witwassen en financieren van terrorisme BES)
+## Bijlage E. Indicatoren diensten als bedoeld in onderdeel j van [bijlage A bij de Wet ter voorkoming van witwassen en financieren van terrorisme BES](https://wetten.overheid.nl/jci1.3:c:BWBR0030824&bijlage=A) (dienstverleners: casino’s) (bijlage als bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0031611&artikel=5&z=2016-04-01&g=2016-04-01) van de Regeling ter voorkoming van witwassen en financieren van terrorisme BES)
 
 Voor alle indicatoren geldt:
 
@@ -197,7 +199,7 @@ Voor alle indicatoren geldt:
 
 ### II. Melding verplicht indien de instelling oordeelt dat een of meer van de volgende situaties van toepassing zljn:
 
-## Bijlage F. Indicatoren diensten als bedoeld in onderdeel k van [bijlage a bij de Wet ter voorkoming van witwassen en financieren van terrorisme BES](https://wetten.overheid.nl/jci1.3:c:BWBR0030824&bijlage=A) (dienstverleners: trustkantoren) (bijlage als bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0031611&artikel=5&z=2015-02-01&g=2015-02-01) van de Regeling ter voorkoming van witwassen en financieren van terrorisme BES)
+## Bijlage F. Indicatoren diensten als bedoeld in onderdeel k van [bijlage a bij de Wet ter voorkoming van witwassen en financieren van terrorisme BES](https://wetten.overheid.nl/jci1.3:c:BWBR0030824&bijlage=A) (dienstverleners: trustkantoren) (bijlage als bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0031611&artikel=5&z=2016-04-01&g=2016-04-01) van de Regeling ter voorkoming van witwassen en financieren van terrorisme BES)
 
 Voor alle indicatoren geldt dat melding verplicht is van transacties of voorgenomen transacties;
 
@@ -205,7 +207,7 @@ Voor alle indicatoren geldt dat melding verplicht is van transacties of voorgeno
 
 ### II. Melding verplicht indien de financiele dienstverlener oordeelt dat een of meer van de volgende situaties van toepassing zijn:
 
-## Bijlage G. Indicatoren diensten als bedoeld in onderdeel m van [bijlage A bij de Wet ter voorkoming van witwassen en financieren van terrorisme BES](https://wetten.overheid.nl/jci1.3:c:BWBR0030824&bijlage=A) (dienstverleners: handelaren in zaken grote waarde) (bijlage als bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0031611&artikel=5&z=2015-02-01&g=2015-02-01) van de Regeling ter voorkoming van witwassen en financieren van terrorisme BES)
+## Bijlage G. Indicatoren diensten als bedoeld in onderdeel m van [bijlage A bij de Wet ter voorkoming van witwassen en financieren van terrorisme BES](https://wetten.overheid.nl/jci1.3:c:BWBR0030824&bijlage=A) (dienstverleners: handelaren in zaken grote waarde) (bijlage als bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0031611&artikel=5&z=2016-04-01&g=2016-04-01) van de Regeling ter voorkoming van witwassen en financieren van terrorisme BES)
 
 Voor alle indicatoren geldt:
 
@@ -213,7 +215,7 @@ Voor alle indicatoren geldt:
 
 ### II. Melding verplicht indien de meldingsplichtige oordeelt dat de volgende situaties van toepassing zijn (subjectieve indicatoren):
 
-## Bijlage H. Indicatoren diensten als bedoeld in onderdelen l, n en o van [bijlage A bij de Wet ter voorkoming van witwassen en financieren van terrorisme BES](https://wetten.overheid.nl/jci1.3:c:BWBR0030824&bijlage=A) (dienstverleners: de vrije beroepsbeoefenaren, t.w. de onafhankelijke juridische adviseurs, advocaten, (kandidaat)notarissen, belastingadviseurs, accountants en bemiddelaars in onroerende zaken) (bijlage als bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0031611&artikel=5&z=2015-02-01&g=2015-02-01) van de Regeling ter voorkoming van witwassen en financieren van terrorisme BES)
+## Bijlage H. Indicatoren diensten als bedoeld in onderdelen l, n en o van [bijlage A bij de Wet ter voorkoming van witwassen en financieren van terrorisme BES](https://wetten.overheid.nl/jci1.3:c:BWBR0030824&bijlage=A) (dienstverleners: de vrije beroepsbeoefenaren, t.w. de onafhankelijke juridische adviseurs, advocaten, (kandidaat)notarissen, belastingadviseurs, accountants en bemiddelaars in onroerende zaken) (bijlage als bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0031611&artikel=5&z=2016-04-01&g=2016-04-01) van de Regeling ter voorkoming van witwassen en financieren van terrorisme BES)
 
 Voor alle indicatoren geldt:
 
@@ -221,7 +223,7 @@ Voor alle indicatoren geldt:
 
 ### II. Melding verplicht indien de meldingsplichtige oordeelt dat de volgende situaties van toepassing zijn (subjectieve indicatoren):
 
-## Bijlage I. Indicatoren diensten als bedoeld in onderdelen a tot en met d, g, i en p tot en met w van [bijlage A bij de Wet ter voorkoming van witwassen en financieren van terrorisme BES](https://wetten.overheid.nl/jci1.3:c:BWBR0030824&bijlage=A) (dienstverleners: beleggingsinstellingen) (bijlage als bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0031611&artikel=5&z=2015-02-01&g=2015-02-01) van de Regeling ter voorkoming van witwassen en financieren van terrorisme BES)
+## Bijlage I. Indicatoren diensten als bedoeld in onderdelen a tot en met d, g, i en p tot en met w van [bijlage A bij de Wet ter voorkoming van witwassen en financieren van terrorisme BES](https://wetten.overheid.nl/jci1.3:c:BWBR0030824&bijlage=A) (dienstverleners: beleggingsinstellingen) (bijlage als bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0031611&artikel=5&z=2016-04-01&g=2016-04-01) van de Regeling ter voorkoming van witwassen en financieren van terrorisme BES)
 
 Voor alle indicatoren geldt:
 
@@ -229,7 +231,7 @@ Voor alle indicatoren geldt:
 
 ### II. Melding verplicht indien de meldingsplichtige oordeelt dat de volgende situaties van toepassing zijn (subjectieve indicatoren):
 
-## Bijlage J. Indicatoren diensten als bedoeld in onderdelen a tot en met d, g, i en p tot en met w van [bijlage A bij de Wet ter voorkoming van witwassen en financieren van terrorisme BES](https://wetten.overheid.nl/jci1.3:c:BWBR0030824&bijlage=A) (dienstverleners: administrateurs beleggingsinstellingen) (bijlage als bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0031611&artikel=5&z=2015-02-01&g=2015-02-01) van de Regeling ter voorkoming van witwassen en financieren van terrorisme BES)
+## Bijlage J. Indicatoren diensten als bedoeld in onderdelen a tot en met d, g, i en p tot en met w van [bijlage A bij de Wet ter voorkoming van witwassen en financieren van terrorisme BES](https://wetten.overheid.nl/jci1.3:c:BWBR0030824&bijlage=A) (dienstverleners: administrateurs beleggingsinstellingen) (bijlage als bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0031611&artikel=5&z=2016-04-01&g=2016-04-01) van de Regeling ter voorkoming van witwassen en financieren van terrorisme BES)
 
 Voor alle indicatoren geldt:
 
@@ -237,15 +239,15 @@ Voor alle indicatoren geldt:
 
 ### II. Melding verplicht indien de financiële dienstverlener oordeelt dat een of meer van de volgende situaties van toepassing zijn (subjectieve indicatoren):
 
-## Bijlage K
+## Bijlage K. Model aangifteformulier voor grensoverschrijdende geldtransporten
 
-### Report of international transportation of currency or monetary instruments
+### 1. Aangifteformulier (Nederlandstalig)
 
-### Part I
+### 2. Aangifteformulier (Engelstalig)
 
 For a person departing from or entering Bonaire, Sint Eustatius or Saba, or a person shipping, mailing, or receiving currency or monetary instruments of USD 10.000 or more. If acting for anyone else, also complete part II below
 
-### Part II
+### 4. Aangifteformulier (Spaanstalig)
 
 Information about person(s) of business on whose behalf importation or exportation is conducted
 
@@ -344,5 +346,9 @@ Banco: Cada agente, agencia, sucursal u oficina de cualquiera persona dentro de 
 Una pena por delito en algunas circunstancias incluyendo una multa que no exceda USD 56.000 y encarcelamiento que no exceda 2 años, se impone a quien se abstenga de rellenar la información, a quien deje de mencionar algún material de información o haya dado información errada, o a quien haya dado una información falsa o fraudulenta. Y además, la moneda o instrumento monetario en cuestión puede ser confiscado o sometido a una multa.
 
 ¡Atención! En la Parte III de la información el montante/valor total debe ser declarado en US dólares.
+
+Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
+
+### 3. Aangifteformulier (Papiamento)
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
