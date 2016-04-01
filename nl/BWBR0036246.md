@@ -4,7 +4,7 @@ identifier: "BWBR0036246"
 country: "nl"
 rank: "wet"
 publication_date: "2016-04-01"
-last_updated: "2015-02-07"
+last_updated: "2016-04-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0036246"
 soort: "wet"
@@ -59,9 +59,9 @@ Onze Minister van Financiën zendt binnen drie jaar na de inwerkingtreding van d
 
 - b. op reeds voor dat tijdstip toegekende, maar nog niet uitgekeerde variabele beloningen van personen die een leidinggevende functie vervullen direct onder het echelon van de dagelijks beleidsbepalers en verantwoordelijk zijn voor natuurlijke personen wier werkzaamheden het risicoprofiel van de onderneming wezenlijk kunnen beïnvloeden, indien een financiële onderneming op het tijdstip van inwerkingtreding van deze wet steun geniet.
 
-2. In afwijking van [artikel 1:128, tweede lid, onderdeel b, van de Wet op het financieel toezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=1:128) wordt:
+2. In afwijking van [artikel 1:128, eerste lid, onderdeel b, van de Wet op het financieel toezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=1:128) wordt:
 
-- a. indien een financiële onderneming op het tijdstip van inwerkingtreding van deze wet steun geniet en deze steun reeds voor 6 oktober 2011 was verleend, bij het bepalen van de waarde van de vaste beloningen van haar bestuurders uitgegaan van de waarde die deze vaste beloningen hadden op 20 juni 2012, met dien verstande dat de voor de toepassing van [artikel 1:128, tweede lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=1:128), in acht te nemen waarde ten hoogste 120% van de waarde op 26 oktober 2011 bedraagt;
+- a. indien een financiële onderneming op het tijdstip van inwerkingtreding van deze wet steun geniet en deze steun reeds voor 6 oktober 2011 was verleend, bij het bepalen van de waarde van de vaste beloningen van haar bestuurders uitgegaan van de waarde die deze vaste beloningen hadden op 20 juni 2012, met dien verstande dat de voor de toepassing van [artikel 1:128, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=1:128), in acht te nemen waarde ten hoogste 120% van de waarde op 26 oktober 2011 bedraagt;
 
 - b. indien een financiële onderneming op het tijdstip van inwerkingtreding van deze wet steun geniet en deze steun reeds voor dat tijdstip was verleend, bij het bepalen van de waarde van de vaste beloningen van personen die een leidinggevende functie vervullen direct onder het echelon van de dagelijks beleidsbepalers en verantwoordelijk zijn voor natuurlijke personen wier werkzaamheden het risicoprofiel van de onderneming wezenlijk kunnen beïnvloeden uitgegaan van de waarde die deze vaste beloningen hadden op het tijdstip van inwerkingtreding van deze wet.
 
