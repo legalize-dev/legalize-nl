@@ -4,7 +4,7 @@ identifier: "BWBR0027509"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2016-04-01"
-last_updated: "2016-03-11"
+last_updated: "2016-04-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0027509"
 soort: "ministeriele-regeling"
@@ -46,9 +46,9 @@ In dit besluit wordt verstaan onder Toetsingscommissie vangnet Participatiewet: 
 
 ##### Artikel 2
 
-1. Aan de voorzitter van de Toetsingscommissie vangnet Participatiewet wordt een vaste vergoeding per maand toegekend, waarbij de salarisschaal wordt vastgesteld op schaal 17 van [bijlage B van het Bezoldigingsbesluit burgerlijke rijksambtenaren 1984](https://wetten.overheid.nl/jci1.3:c:BWBR0003630&bijlage=B) en de arbeidsduurfactor op 0,08.
+1. Aan de voorzitter van de Toetsingscommissie vangnet Participatiewet wordt een vaste vergoeding per maand toegekend, waarbij de salarisschaal wordt vastgesteld op schaal 17 van [bijlage B van het Bezoldigingsbesluit burgerlijke rijksambtenaren 1984](https://wetten.overheid.nl/jci1.3:c:BWBR0003630&bijlage=B) en de arbeidsduurfactor op 0,05.
 
-2. Aan de andere leden van de Toetsingscommissie vangnet Participatiewet wordt een vaste vergoeding per maand toegekend, waarbij de salarisschaal wordt vastgesteld op schaal 16 van [bijlage B van het Bezoldigingsbesluit burgerlijke rijksambtenaren 1984](https://wetten.overheid.nl/jci1.3:c:BWBR0003630&bijlage=B) en de arbeidsduurfactor op 0,08.
+2. Aan de andere leden van de Toetsingscommissie vangnet Participatiewet wordt een vaste vergoeding per maand toegekend, waarbij de salarisschaal wordt vastgesteld op schaal 16 van [bijlage B van het Bezoldigingsbesluit burgerlijke rijksambtenaren 1984](https://wetten.overheid.nl/jci1.3:c:BWBR0003630&bijlage=B) en de arbeidsduurfactor op 0,05.
 
 ##### Artikel 3
 
