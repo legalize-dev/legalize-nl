@@ -4,7 +4,7 @@ identifier: "BWBR0037239"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2018-02-21"
-last_updated: "2015-11-27"
+last_updated: "2016-04-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0037239"
 soort: "ministeriele-regeling"
@@ -60,7 +60,7 @@ In deze regeling wordt verstaan onder:
 
 ##### Artikel 2
 
-De [Kaderregeling VWS-subsidies](https://wetten.overheid.nl/jci1.3:c:BWBR0029947) is van toepassing op de verstrekking van subsidies op grond van deze regeling.
+Vervallen
 
 ##### Artikel 3
 
@@ -86,13 +86,13 @@ De minister kan tevens aan een organisatie waarvan de huisvestingslasten meer be
 
 ##### Artikel 6
 
-1. De aanvraag tot verlening van een subsidie, als bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0037239&artikel=3&z=2015-11-27&g=2015-11-27), heeft betrekking op het totaal van de accommodaties die een organisatie exploiteert.
+1. De aanvraag tot verlening van een subsidie, als bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0037239&artikel=3&z=2016-04-01&g=2016-04-01), heeft betrekking op het totaal van de accommodaties die een organisatie exploiteert.
 
 2. De aanvraag gaat vergezeld van een opgave van de capaciteitsbezetting. Deze opgave gaat vergezeld van een assurancerapport van een accountant als bedoeld in [artikel 393, eerste lid, van Boek 2 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=393) overeenkomstig een door de minister vastgesteld modelassurancerapport met inachtneming van een door de minister vastgesteld accountantsprotocol.
 
 ##### Artikel 7
 
-1. De aanvraag tot vaststelling van een subsidie, als bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0037239&artikel=3&z=2015-11-27&g=2015-11-27), bevat een opgave van de beschikbare capaciteitsplaatsen van de accommodatie waarvoor subsidie is verleend.
+1. De aanvraag tot vaststelling van een subsidie, als bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0037239&artikel=3&z=2016-04-01&g=2016-04-01), bevat een opgave van de beschikbare capaciteitsplaatsen van de accommodatie waarvoor subsidie is verleend.
 
 2. De minister kan de subsidie op een lager bedrag vaststellen indien het aantal beschikbare capaciteitsplaatsen lager is dan waarvoor subsidie is verleend.
 
@@ -100,11 +100,11 @@ De minister kan tevens aan een organisatie waarvan de huisvestingslasten meer be
 
 ##### Artikel 8
 
-Voor de berekening van een subsidie, als bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0037239&artikel=3&z=2015-11-27&g=2015-11-27), blijft voor 2016 het vijfde lid van [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0037239&artikel=4&z=2015-11-27&g=2015-11-27) buiten toepassing.
+Voor de berekening van een subsidie, als bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0037239&artikel=3&z=2016-04-01&g=2016-04-01), blijft voor 2016 het vijfde lid van [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0037239&artikel=4&z=2016-04-01&g=2016-04-01) buiten toepassing.
 
 ##### Artikel 9
 
-In afwijking van [artikel 17 van de Kaderregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0029947&artikel=17) wordt de aanvraag om een subsidie als bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0037239&artikel=3&z=2015-11-27&g=2015-11-27) ten behoeve van het 2016 ontvangen voor 1 december 2015.
+In afwijking van [artikel 17 van de Kaderregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0029947&artikel=17) wordt de aanvraag om een subsidie als bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0037239&artikel=3&z=2016-04-01&g=2016-04-01) ten behoeve van het 2016 ontvangen voor 1 december 2015.
 
 ##### Artikel 10
 
