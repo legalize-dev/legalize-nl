@@ -4,7 +4,7 @@ identifier: "BWBR0003109"
 country: "nl"
 rank: "wet"
 publication_date: "2023-01-01"
-last_updated: "2014-01-01"
+last_updated: "2016-04-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0003109"
 soort: "wet"
@@ -48,13 +48,13 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
-- **aangesloten instelling:** rechtspersoon die als zodanig door het centraal instituut is toegelaten;
+- **aangesloten instelling:** rechtspersoon die als zodanig door een centraal instituut is toegelaten;
 
 - **centraal instituut:** als zodanig door Onze Minister aangewezen rechtspersoon;
 
-- **effect:** financieel instrument als bedoeld in onderdeel a, b of c van de definitie van financieel instrument in [artikel 1:1 van de Wet op het financieel toezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=1:1) en een ander financieel instrument waarvan het centraal instituut heeft bepaald dat het tot een girodepot kan behoren;
+- **effect:** financieel instrument als bedoeld in onderdeel a, b of c van de definitie van financieel instrument in [artikel 1:1 van de Wet op het financieel toezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=1:1) en een ander financieel instrument waarvan een centraal instituut heeft bepaald dat het tot een girodepot kan behoren;
 
-- **intermediair:** aangesloten instelling, beleggingsonderneming of bank in de zin van [artikel 1:1 van de Wet op het financieel toezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=1:1) waaraan het op grond van die wet is toegestaan beleggingsdiensten te verlenen respectievelijk het bedrijf van bank uit te oefenen en die in Nederland ten name van cliënten rekeningen in effecten administreert;
+- **intermediair:** aangesloten instelling, beleggingsonderneming of bank in de zin van [artikel 1:1 van de Wet op het financieel toezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=1:1) waaraan het op grond van die wet is toegestaan beleggingsdiensten te verlenen respectievelijk het bedrijf van bank uit te oefenen;
 
 - **Onze Minister:** Onze Minister van Financiën;
 
@@ -76,7 +76,7 @@ In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
 ##### Artikel 3
 
-1. Onze Minister kan op voordracht van de toezichthouder besluiten van organen van het centraal instituut vernietigen wegens strijd met de statuten, met de in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0003109&hoofdstuk=1&artikel=4&z=2014-01-01&g=2014-01-01) bedoelde regels of met de eisen van een behoorlijk giraal effectenverkeer.
+1. Onze Minister kan op voordracht van de toezichthouder besluiten van organen van het centraal instituut vernietigen wegens strijd met de statuten, met de in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0003109&hoofdstuk=1&artikel=4&z=2016-04-01&g=2016-04-01) bedoelde regels of met de eisen van een behoorlijk giraal effectenverkeer.
 
 2. Een voordracht tot vernietiging moet worden gedaan binnen tien dagen na die waarop de toezichthouder van het besluit heeft kennis gekregen. Hangende de beslissing op de voordracht is het besluit geschorst.
 
@@ -98,19 +98,21 @@ Vervallen
 
 ##### Artikel 7
 
-Indien een vergunning van een beleggingsonderneming als bedoeld in de definitie van intermediair is ingetrokken geldt deze wet alsof de beleggingsonderneming nog intermediair in de zin van deze wet is voor zover dit nodig is voor de afwikkeling van de verzameldepots die op het tijdstip van de intrekking reeds bestonden.
+Indien het een beleggingsonderneming of bank als bedoeld in de definitie van intermediair op grond van de [Wet op het financieel toezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0020368) niet langer is toegestaan zijn beroep of bedrijf uit te oefenen, geldt deze wet alsof de beleggingsonderneming of bank nog intermediair in de zin van deze wet is voor zover dit nodig is voor de afwikkeling van de bestaande verzameldepots.
 
 ##### Artikel 8
 
 1. Effecten aan toonder behoren per soort slechts tot een verzameldepot of een girodepot indien zij:
 
-- a. door middel van een verzamelbewijs in bewaring worden gegeven bij een intermediair onderscheidenlijk het centraal instituut; of
+- a. door middel van een verzamelbewijs in bewaring worden gegeven bij een intermediair onderscheidenlijk een centraal instituut;
 
-- b. ten name van een intermediair worden bewaard door een instelling in het buitenland waaraan het op grond van het op die instelling van toepassing zijnde recht is toegestaan ten name van cliënten rekeningen in effecten te administreren onderscheidenlijk ten name van het centraal instituut worden bewaard door een zodanige instelling in het buitenland.
+- b. ten name van een intermediair worden bewaard door een instelling in het buitenland waaraan het op grond van het op die instelling van toepassing zijnde recht is toegestaan ten name van cliënten rekeningen in effecten te administreren of aan te houden;
 
-2. In afwijking van het eerste lid behoren effecten aan toonder die anders dan door middel van een verzamelbewijs in bewaring worden gegeven bij een intermediair eveneens tot een verzameldepot uiterlijk tot 1 januari 2013.
+- c. ten name van een centraal instituut worden bewaard door een instelling in het buitenland waaraan het op grond van het op die instelling van toepassing zijnde recht is toegestaan ten name van cliënten rekeningen in effecten te administreren of aan te houden; of
 
-3. In afwijking van de voorgaande leden zullen indien een buitenlands recht van toepassing is op effecten die behoren tot een verzameldepot niet voorziet in de mogelijkheid van omzetting, de effecten blijven behoren tot het desbetreffende verzameldepot.
+- d. ten name van een intermediair onderscheidenlijk een centraal instituut worden bewaard door een in het buitenland gevestigd centraal instituut of een instelling in het buitenland met een vergelijkbare functie dat is erkend op grond van artikel 25, vierde tot en met elfde lid, van Verordening (EU) Nr. 909/2014 van het Europees parlement en de Raad van 23 juli 2014 betreffende de verbetering van de effectenafwikkeling in de Europese Unie, betreffende centrale effectenbewaarinstellingen en tot wijziging van Richtlijnen 98/26/EG en 2014/65/EU en Verordening (EU) nr. 236/2012 (PbEU 2014, L 257).
+
+2. In afwijking van het eerste lid zullen indien een buitenlands recht van toepassing is op effecten die behoren tot een verzameldepot en die anders dan door middel van een verzamelbewijs in bewaring worden gegeven, die effecten blijven behoren tot het desbetreffende verzameldepot indien dat buitenlands recht niet voorziet in de mogelijkheid van omzetting.
 
 ##### Artikel 8a
 
@@ -134,9 +136,9 @@ Tot een verzameldepot behoren:
 
 - b. het ten name van de intermediair staande aandeel in het verzameldepot van effecten van de betreffende soort bij een andere intermediair;
 
-- c. het ten name van de aangesloten instelling staande aandeel in het in [hoofdstuk 3](https://wetten.overheid.nl/jci1.3:c:BWBR0003109&hoofdstuk=3&z=2014-01-01&g=2014-01-01) bedoelde girodepot van effecten van de betreffende soort;
+- c. het ten name van de aangesloten instelling staande aandeel in het in [hoofdstuk 3](https://wetten.overheid.nl/jci1.3:c:BWBR0003109&hoofdstuk=3&z=2016-04-01&g=2016-04-01) bedoelde girodepot van effecten van de betreffende soort;
 
-- d. het ten name van de intermediair staande tegoed terzake van effecten van de betreffende soort, die berusten onder of bewaard worden voor instellingen in het buitenland;
+- d. het ten name van de intermediair staande tegoed terzake van effecten van de betreffende soort, dat wordt aangehouden bij een instelling in het buitenland;
 
 - e. in het geval dat effecten als bedoeld onder a verloren zijn gegaan, de rechten daaruit of de daarvoor in de plaats getreden vorderingen tot vergoeding, alsmede hetgeen uit hoofde daarvan is ontvangen;
 
@@ -160,7 +162,7 @@ Tot een verzameldepot behoren:
 
 1. Bewaargeving van effecten aan toonder aan een intermediair of levering van effecten op naam aan een intermediair ter opname in het verzameldepot heeft tot gevolg dat degene aan wie de effecten toebehoorden op het tijdstip waarop zij door de intermediair ter bewaring in ontvangst zijn genomen dan wel aan de intermediair zijn geleverd, alsdan in het verzameldepot gerechtigd wordt als deelgenoot gezamenlijk met hen die daarin op dat tijdstip reeds gerechtigd waren. Voor zover de effecten bezwaard waren met een beperkt recht, komt dit op zijn aandeel te rusten.
 
-2. Levering van effecten door de instelling die de effecten heeft uitgegeven aan eenintermediairter opname van die effecten in een verzameldepot, heeft tot gevolg dat degene ten gunste van wie de effecten worden uitgegeven in het verzameldepot gerechtigd wordt als deelgenoot,gezamenlijk met hen die daarin op dat tijdstip reeds gerechtigd waren.
+2. Bewaargeving van effecten aan toonder of levering van effecten op naam door de instelling die de effecten heeft uitgegeven aan een intermediair ter opname van die effecten in een verzameldepot, heeft tot gevolg dat degene ten gunste van wie de effecten worden uitgegeven in het verzameldepot gerechtigd wordt als deelgenoot, gezamenlijk met hen die daarin op dat tijdstip reeds gerechtigd waren.
 
 3. Het aandeel wordt berekend naar evenredigheid van de hoeveelheid van de in bewaring gegeven of geleverde effecten.
 
@@ -186,7 +188,7 @@ De intermediair draagt desgewenst zorg dat de deelgenoten het aan de effecten ve
 
 ##### Artikel 16
 
-1. Behoort een verzameldepot toe aan twee of meer deelgenoten, dan kan ieder over zijn aandeel daarin beschikken. Een deelgenoot kan met instemming van de intermediair ook beschikken over een gedeelte van zijn aandeel, met dien verstande dat uitoefening van aan het aandeel verbonden stemrechten niet mogelijk is voor zover zijn aandeel niet overeenkomt met een of meer effecten.
+1. Behoort een verzameldepot toe aan twee of meer deelgenoten, dan kan ieder over zijn aandeel daarin, of over een gedeelte van dat aandeel, beschikken. Een deelgenoot kan met instemming van de intermediair ook beschikken over een gedeelte van een effect, met dien verstande dat uitoefening van aan een aandeel, of van aan een gedeelte van dat aandeel verbonden stemrechten niet mogelijk is voor zover dat aandeel onderscheidenlijk dat gedeelte van dat aandeel niet overeenkomt met een of meer effecten.
 
 2. Een deelgenoot kan niet beschikken over zijn aandeel in een tot een verzameldepot behorend goed afzonderlijk.
 
@@ -230,7 +232,7 @@ Indien onder een intermediair executoriaal derdenbeslag is gelegd op het aandeel
 
 ##### Artikel 25
 
-Vervallen
+Beslag onder een intermediair op een ten name van een andere intermediair staand aandeel in een verzameldepot is niet toegelaten.
 
 ## Titel 3. Uitlevering en verdeling
 
@@ -242,9 +244,9 @@ Vervallen
 
 3. Effecten worden uit een verzameldepot slechts uitgeleverd:
 
-- a. ter opname in een depot van een buitenlandse instelling met een functie vergelijkbaar met die van het centraal instituut; of
+- a. ter opname in een depot van een in het buitenland gevestigd centraal instituut of een buitenlandse instelling met een functie vergelijkbaar met die van een centraal instituut; of
 
-- b. ter opname in een verzameldepot van een andere intermediair of, indien de instelling die de effecten heeft uitgegeven daarmee heeft ingestemd, een depot van een cliënt van een instelling als bedoeld onder a, indien alle effecten van de desbetreffende soort worden uitgeleverd.
+- b. ter opname in een verzameldepot van een andere intermediair of, indien de instelling die de effecten heeft uitgegeven daarmee heeft ingestemd, een depot van een instelling in het buitenland waaraan het op grond van het op die instelling van toepassing zijnde recht is toegestaan ten name van cliënten rekeningen in effecten te administreren, indien alle effecten van de desbetreffende soort worden uitgeleverd.
 
 4. In afwijking van het derde lid worden effecten op verzoek van een deelgenoot uit een verzameldepot uitgeleverd indien de uitlevering noodzakelijk is voor de deelgenoot om een aan de effecten verbonden recht uit te kunnen oefenen. De effecten worden onverwijld teruggeleverd ter opname in het verzameldepot zodra het niet langer noodzakelijk is voor de betreffende deelgenoot de effecten in eigen naam te houden voor het uitoefenen van het hiervoor bedoelde recht.
 
@@ -274,13 +276,13 @@ Levert de intermediair aan een deelgenoot meer effecten uit dan waartoe hij inge
 
 ##### Artikel 31
 
-1. Voor zover uitlevering op grond van [artikel 26](https://wetten.overheid.nl/jci1.3:c:BWBR0003109&hoofdstuk=2&titeldeel=3&artikel=26&z=2014-01-01&g=2014-01-01) mogelijk is, komt bij de uitlevering van effecten uit hoofde van een aandeel waarop een beperkt recht of beslag rust dit beperkte recht of beslag mede op de uitgeleverde effecten te rusten.
+1. Voor zover uitlevering op grond van [artikel 26](https://wetten.overheid.nl/jci1.3:c:BWBR0003109&hoofdstuk=2&titeldeel=3&artikel=26&z=2016-04-01&g=2016-04-01) mogelijk is, komt bij de uitlevering van effecten uit hoofde van een aandeel waarop een beperkt recht of beslag rust dit beperkte recht of beslag mede op de uitgeleverde effecten te rusten.
 
-2. Het eerste lid is bij uitkering als bedoeld in [artikel 27, tweede lid, tweede volzin en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003109&hoofdstuk=2&titeldeel=3&artikel=27&z=2014-01-01&g=2014-01-01) van overeenkomstige toepassing.
+2. Het eerste lid is bij uitkering als bedoeld in [artikel 27, tweede lid, tweede volzin en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003109&hoofdstuk=2&titeldeel=3&artikel=27&z=2016-04-01&g=2016-04-01) van overeenkomstige toepassing.
 
 ##### Artikel 32
 
-Degene die overeenkomstig [artikel 12, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003109&hoofdstuk=2&titeldeel=1&artikel=12&z=2014-01-01&g=2014-01-01), een hoeveelheid effecten in bewaring heeft gegeven of heeft geleverd maar daarvoor geen deelgenoot is, wordt vermoed bevoegd te zijn de rechten van de deelgenoot uit de [artikelen 15](https://wetten.overheid.nl/jci1.3:c:BWBR0003109&hoofdstuk=2&titeldeel=1&artikel=15&z=2014-01-01&g=2014-01-01), [26](https://wetten.overheid.nl/jci1.3:c:BWBR0003109&hoofdstuk=2&titeldeel=3&artikel=26&z=2014-01-01&g=2014-01-01) en [27](https://wetten.overheid.nl/jci1.3:c:BWBR0003109&hoofdstuk=2&titeldeel=3&artikel=27&z=2014-01-01&g=2014-01-01) uit te oefenen.
+Degene die overeenkomstig [artikel 12, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003109&hoofdstuk=2&titeldeel=1&artikel=12&z=2016-04-01&g=2016-04-01), een hoeveelheid effecten in bewaring heeft gegeven of heeft geleverd maar daarvoor geen deelgenoot is, wordt vermoed bevoegd te zijn de rechten van de deelgenoot uit de [artikelen 15](https://wetten.overheid.nl/jci1.3:c:BWBR0003109&hoofdstuk=2&titeldeel=1&artikel=15&z=2016-04-01&g=2016-04-01), [26](https://wetten.overheid.nl/jci1.3:c:BWBR0003109&hoofdstuk=2&titeldeel=3&artikel=26&z=2016-04-01&g=2016-04-01) en [27](https://wetten.overheid.nl/jci1.3:c:BWBR0003109&hoofdstuk=2&titeldeel=3&artikel=27&z=2016-04-01&g=2016-04-01) uit te oefenen.
 
 ## Titel 4. Faillissement
 
@@ -290,21 +292,23 @@ Degene die overeenkomstig [artikel 12, eerste lid](https://wetten.overheid.nl/jc
 
 2. Het eerste lid is van overeenkomstige toepassing ingeval de schuldsaneringsregeling natuurlijke personen ten aanzien van de intermediair van toepassing is, met dien verstande dat in de plaats van [artikel 98 van de Faillissementswet](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&artikel=98) wordt gelezen [artikel 311 van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&artikel=311).
 
+3. Het eerste lid is van overeenkomstige toepassing in geval van surseance van betaling of bij toepassing van de noodregeling als bedoeld in [afdeling 3.5.4a van de Wet op het financieel toezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&afdeling=3.5.4a).
+
 ### Hoofdstuk 3. Girodepot
 
 ## Titel 1. Algemeen
 
 ##### Artikel 34
 
-1. Alleen het centraal instituut kan girodepots in de zin van deze wet houden.
+1. Alleen een centraal instituut kan girodepots in de zin van deze wet houden.
 
-2. Het centraal instituut bepaalt welke effecten tot een girodepot kunnen behoren.
+2. Het centraal instituut bepaalt welke effecten tot een door hem gehouden girodepot kunnen behoren.
 
-3. Het centraal instituut bepaalt welke effecten die tot een girodepot kunnen behoren, voor de toepassing van deze wet als effecten van dezelfde soort worden beschouwd.
+3. Het centraal instituut bepaalt welke effecten die tot een door hem gehouden girodepot kunnen behoren, voor de toepassing van deze wet als effecten van dezelfde soort worden beschouwd.
 
 4. Ten aanzien van iedere soort effecten die tot een girodepot kunnen behoren bestaat een afzonderlijk girodepot.
 
-5. Een aangesloten instelling is bevoegd tot bewaargeving of levering ter opname in het girodepot van tot een verzameldepot behorende effecten aan het centraal instituut zonder de medewerking van de andere deelgenoten.
+5. Een aangesloten instelling is bevoegd tot bewaargeving of levering ter opname in het girodepot van tot een verzameldepot behorende effecten aan een centraal instituut zonder de medewerking van de andere deelgenoten.
 
 ##### Artikel 35
 
@@ -312,7 +316,7 @@ Tot een girodepot behoren:
 
 - a. alle effecten van de betreffende soort die onder het centraal instituut berusten, voor het centraal instituut worden bewaard of aan het centraal instituut zijn geleverd;
 
-- b. het ten name van het centraal instituut staande tegoed terzake van effecten van de betreffende soort, die berusten onder of bewaard worden voor instellingen in het buitenland, die op verzoek van het centraal instituut door Onze Minister zijn aangewezen;
+- b. het ten name van het centraal instituut staande tegoed terzake van effecten van de betreffende soort, dat wordt aangehouden bij instellingen in het buitenland;
 
 - c. in het geval dat effecten als bedoeld onder **a** verloren zijn gegaan, de rechten daaruit of de daarvoor in de plaats getreden vorderingen tot vergoeding, alsmede hetgeen uit hoofde daarvan is ontvangen;
 
@@ -320,7 +324,7 @@ Tot een girodepot behoren:
 
 ##### Artikel 36
 
-1. Het centraal instituut is belast met het beheer van de girodepots.
+1. Een centraal instituut is belast met het beheer van de door hem gehouden girodepots.
 
 2. Het centraal instituut kan tegenover derden de rechten van degenen aan wie een girodepot toebehoort, uitoefenen, indien dit voor een goed beheer dienstig kan zijn.
 
@@ -336,7 +340,7 @@ Tot een girodepot behoren:
 
 ##### Artikel 37
 
-1. Alleen een aangesloten instelling kan effecten in bewaring hebben of aanhouden bij het centraal instituut.
+1. Alleen een aangesloten instelling kan effecten in bewaring hebben of aanhouden bij een centraal instituut.
 
 2. De rechten jegens het centraal instituut worden door de aangesloten instelling op eigen naam uitgeoefend voor hen aan wie de effecten toebehoren.
 
@@ -344,7 +348,7 @@ Tot een girodepot behoren:
 
 1. Zij aan wie de in bewaring gegeven effecten aan toonder of ter opname in een girodepot geleverde effecten op naam toebehoorden op het tijdstip waarop zij door het centraal instituut ter bewaring in ontvangst zijn genomen dan wel aan het centraal instituut zijn geleverd, worden vanaf dat tijdstip in het girodepot gerechtigd als deelgenoten, gezamenlijk met hen die in dat girodepot op het tijdstip van de bewaargeving of levering reeds gerechtigd waren.
 
-2. Levering van effecten door de instelling die de effecten heeft uitgegeven aan het centraal instituut ter opname van die effecten in een girodepot, heeft tot gevolg dat de aangesloten instelling ten gunste van wie de effecten worden bijgeschreven, alsdan in het girodepot gerechtigd wordt als deelgenoot, gezamenlijk met hen die daarinop dat tijdstip reeds gerechtigd waren. De effecten makenvanaf het moment van opname in het girodepot deel uit van de verzameldepots van de desbetreffende aangesloten instellingen.
+2. Bewaargeving van effecten aan toonder of levering van effecten op naam door de instelling die de effecten heeft uitgegeven aan een centraal instituut ter opname van die effecten in een girodepot, heeft tot gevolg dat de aangesloten instelling ten gunste van wie de effecten worden bijgeschreven, alsdan in het girodepot gerechtigd wordt als deelgenoot, gezamenlijk met hen die daarinop dat tijdstip reeds gerechtigd waren. De effecten makenvanaf het moment van opname in het girodepot deel uit van de verzameldepots van de desbetreffende aangesloten instellingen.
 
 3. Het aandeel in een girodepot staat op naam van de aangesloten instelling.
 
@@ -352,7 +356,7 @@ Tot een girodepot behoren:
 
 ##### Artikel 39
 
-Het centraal instituut draagt zorg dat de aangesloten instellingen kunnen voldoen aan hun in [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBR0003109&hoofdstuk=2&titeldeel=1&artikel=15&z=2014-01-01&g=2014-01-01) bedoelde verplichting ten aanzien van het aan de effecten verbonden stemrecht.
+Een centraal instituut draagt zorg dat de aangesloten instellingen kunnen voldoen aan hun in [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBR0003109&hoofdstuk=2&titeldeel=1&artikel=15&z=2016-04-01&g=2016-04-01) bedoelde verplichting ten aanzien van het aan de effecten verbonden stemrecht.
 
 ## Titel 2. Vervreemding en bezwaring
 
@@ -372,17 +376,17 @@ Het centraal instituut draagt zorg dat de aangesloten instellingen kunnen voldoe
 
 1. Vestiging van een pandrecht ten behoeve van een andere aangesloten instelling op een aandeel in een girodepot geschiedt door bijschrijving ten name van de andere instelling in de administratie van het centraal instituut.
 
-2. [Artikel 20, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003109&hoofdstuk=2&titeldeel=2&artikel=20&z=2014-01-01&g=2014-01-01), en [artikel 22](https://wetten.overheid.nl/jci1.3:c:BWBR0003109&hoofdstuk=2&titeldeel=2&artikel=22&z=2014-01-01&g=2014-01-01) zijn van overeenkomstige toepassing.
+2. [Artikel 20, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003109&hoofdstuk=2&titeldeel=2&artikel=20&z=2016-04-01&g=2016-04-01), en [artikel 22](https://wetten.overheid.nl/jci1.3:c:BWBR0003109&hoofdstuk=2&titeldeel=2&artikel=22&z=2016-04-01&g=2016-04-01) zijn van overeenkomstige toepassing.
 
 ##### Artikel 43
 
-1. Het centraal instituut is verplicht van een door hem verrichte bijschrijving terstond een kennisgeving te zenden aan de aangesloten instelling op wier naam de bijschrijving heeft plaatsgevonden.
+1. Een centraal instituut is verplicht van een door hem verrichte bijschrijving terstond een kennisgeving te zenden aan de aangesloten instelling op wier naam de bijschrijving heeft plaatsgevonden.
 
 2. Van het voorgaande lid kan niet bij overeenkomst worden afgeweken.
 
 ##### Artikel 44
 
-Beslag onder het centraal instituut op een ten name van een aangesloten instelling staand aandeel in een girodepot is niet toegelaten.
+Beslag onder een centraal instituut op een ten name van een aangesloten instelling staand aandeel in een girodepot is niet toegelaten.
 
 ## Titel 3. Uitlevering en verdeling
 
@@ -394,29 +398,29 @@ Beslag onder het centraal instituut op een ten name van een aangesloten instelli
 
 3. Effecten worden uit een girodepot slechts uitgeleverd:
 
-- a. ter opname in een depot van een buitenlandse instelling met een functie vergelijkbaar met die van het centraal instituut; of
+- a. ter opname in een depot van een in het buitenland gevestigd centraal instituut of een buitenlandse instelling met een functie vergelijkbaar met die van een centraal instituut; of
 
-- b. ter opname in een verzameldepot van een andere intermediair of indien de instelling die de effecten heeft uitgegeven daarmee heeft ingestemd, een depot van een cliënt van een instelling als bedoeld onder a, indien alle effecten van de desbetreffende soort worden uitgeleverd.
+- b. ter opname in een verzameldepot van een intermediair of, indien de instelling die de effecten heeft uitgegeven daarmee heeft ingestemd, een depot van een instelling in het buitenland waaraan het op grond van het op die instelling van toepassing zijnde recht is toegestaan ten name van cliënten rekeningen in effecten te administreren, indien alle effecten van de desbetreffende soort worden uitgeleverd.
 
 4. In afwijking van het derde lid worden effecten op verzoek van een aangesloten instelling uit een girodepot uitgeleverd indien de uitlevering noodzakelijk is voor de deelgenoot om een aan de effecten verbonden recht uit te kunnen oefenen. De effecten worden onverwijld teruggeleverd ter opname in het verzameldepot zodra het niet langer noodzakelijk is voor de betreffende deelgenoot de effecten in eigen naam te houden voor het uitoefenen van het hiervoor bedoelde recht.
 
 ##### Artikel 46
 
-De verdeling van een girodepot dat niet toereikend is om aan iedere instelling de haar toekomende hoeveelheid effecten uit te leveren, geschiedt door overeenkomstige toepassing van [artikel 27, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003109&hoofdstuk=2&titeldeel=3&artikel=27&z=2014-01-01&g=2014-01-01).
+De verdeling van een girodepot dat niet toereikend is om aan iedere instelling de haar toekomende hoeveelheid effecten uit te leveren, geschiedt door overeenkomstige toepassing van [artikel 27, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003109&hoofdstuk=2&titeldeel=3&artikel=27&z=2016-04-01&g=2016-04-01).
 
 ##### Artikel 47
 
-Levert het centraal instituut aan een instelling meer effecten uit dan waartoe het ingevolge de vorige twee artikelen bevoegd is, dan kan het teveel uitgeleverde door het centraal instituut worden teruggevorderd, tenzij de instelling op het tijdstip van de uitlevering te goeder trouw was.
+Levert een centraal instituut aan een instelling meer effecten uit dan waartoe het ingevolge de vorige twee artikelen bevoegd is, dan kan het teveel uitgeleverde door het centraal instituut worden teruggevorderd, tenzij de instelling op het tijdstip van de uitlevering te goeder trouw was.
 
 ##### Artikel 48
 
-Het centraal instituut is tot uitlevering bevoegd zonder medewerking van de andere instellingen op wier naam aandelen in het girodepot staan.
+Een centraal instituut is tot uitlevering bevoegd zonder medewerking van de andere instellingen op wier naam aandelen in het girodepot staan.
 
 ##### Artikel 49
 
 1. Bij uitlevering van effecten uit hoofde van een aandeel waarop een pandrecht rust, komt dit pandrecht mede op de uitgeleverde effecten te rusten.
 
-2. Het eerste lid is bij uitkeringen als bedoeld in [artikel 27, tweede lid, tweede zin, en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003109&hoofdstuk=2&titeldeel=3&artikel=27&z=2014-01-01&g=2014-01-01) van overeenkomstige toepassing.
+2. Het eerste lid is bij uitkeringen als bedoeld in [artikel 27, tweede lid, tweede zin, en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003109&hoofdstuk=2&titeldeel=3&artikel=27&z=2016-04-01&g=2016-04-01) van overeenkomstige toepassing.
 
 ### Hoofdstuk 4. Overgangs- en slotbepalingen
 
@@ -438,7 +442,7 @@ Lasten en bevelen dat deze in het **Staatsblad** zal worden geplaatst, en dat al
 
 ##### Artikel 8b
 
-Indien effecten op naam zijn geleverd aan een intermediair of aan het centraal instituut, kan in het desbetreffende register van de uitgevende instelling, de naam en het adres van de intermediair onderscheidenlijk het centraal instituut worden opgenomen, met vermelding van de datum waarop die aandelen zijn gaan behoren tot het verzameldepot onderscheidenlijk girodepot, de datum van de erkenning of betekening, alsmede van het op ieder aandeel gestorte bedrag.
+Indien effecten op naam zijn geleverd aan een intermediair of aan een centraal instituut, kan in het desbetreffende register van de uitgevende instelling, de naam en het adres van de intermediair onderscheidenlijk het centraal instituut worden opgenomen, met vermelding van de datum waarop die aandelen zijn gaan behoren tot het verzameldepot onderscheidenlijk girodepot, de datum van de erkenning of betekening, alsmede van het op ieder aandeel gestorte bedrag.
 
 ### Hoofdstuk 2. Verzameldepot
 
@@ -470,17 +474,17 @@ Indien effecten op naam zijn geleverd aan een intermediair of aan het centraal i
 
 ##### Artikel 50c
 
-In afwijking van [artikel 26](https://wetten.overheid.nl/jci1.3:c:BWBR0003109&hoofdstuk=2&titeldeel=3&artikel=26&z=2014-01-01&g=2014-01-01) of [45](https://wetten.overheid.nl/jci1.3:c:BWBR0003109&hoofdstuk=3&titeldeel=3&artikel=45&z=2014-01-01&g=2014-01-01) kunnen effecten tot uiterlijk zes maanden na het tijdstip van inwerkingtreding van deze bepaling worden uitgeleverd aan een deelgenoot onderscheidenlijk een aangesloten instelling, met inachtneming van het op het tijdstip voorafgaande aan de inwerkingtreding van deze wet met betrekking tot uitlevering bepaalde.
+In afwijking van [artikel 26](https://wetten.overheid.nl/jci1.3:c:BWBR0003109&hoofdstuk=2&titeldeel=3&artikel=26&z=2016-04-01&g=2016-04-01) of [45](https://wetten.overheid.nl/jci1.3:c:BWBR0003109&hoofdstuk=3&titeldeel=3&artikel=45&z=2016-04-01&g=2016-04-01) kunnen effecten tot uiterlijk zes maanden na het tijdstip van inwerkingtreding van deze bepaling worden uitgeleverd aan een deelgenoot onderscheidenlijk een aangesloten instelling, met inachtneming van het op het tijdstip voorafgaande aan de inwerkingtreding van deze wet met betrekking tot uitlevering bepaalde.
 
 ##### Artikel 50d
 
-1. Indien effecten aan toonder behoren tot een verzameldepot of een girodepot, maar niet zijn belichaamd in een verzamelbewijs, kunnen de met deze effecten corresponderende aandelen in een verzameldepot of girodepot vanaf 1 januari 2013 niet meer worden geleverd op grond van [artikel 17](https://wetten.overheid.nl/jci1.3:c:BWBR0003109&hoofdstuk=2&titeldeel=2&artikel=17&z=2014-01-01&g=2014-01-01) of [artikel 41](https://wetten.overheid.nl/jci1.3:c:BWBR0003109&hoofdstuk=3&titeldeel=2&artikel=41&z=2014-01-01&g=2014-01-01).
+1. Indien effecten aan toonder behoren tot een verzameldepot of een girodepot, maar niet zijn belichaamd in een verzamelbewijs, kunnen de met deze effecten corresponderende aandelen in een verzameldepot of girodepot vanaf 1 januari 2013 niet meer worden geleverd op grond van [artikel 17](https://wetten.overheid.nl/jci1.3:c:BWBR0003109&hoofdstuk=2&titeldeel=2&artikel=17&z=2016-04-01&g=2016-04-01) of [artikel 41](https://wetten.overheid.nl/jci1.3:c:BWBR0003109&hoofdstuk=3&titeldeel=2&artikel=41&z=2016-04-01&g=2016-04-01).
 
 2. Een instelling die effecten aan toonder heeft uitgegeven die zijnopgenomen in een verzameldepot of een girodepot zet deze effecten voor 1 januari 2013 om in een verzamelbewijs of in effecten op naam.
 
 3. Indien de voorwaarden waaronder effecten aan toonder zijn uitgegeven niet voorzien in de mogelijkheid die effecten om te zetten in verzamelbewijzen of een procedure om de voorwaarden aan te passen, kan de uitgevende instelling van die effecten eenzijdig de voorwaarden wijzigen om een omzetting als bedoeld in het tweede lid mogelijk te maken.
 
-4. Indien een buitenlands recht dat op effecten van toepassing is niet voorziet in de mogelijkheid van omzetting, zullen de effecten in afwijking van het eerste lid wel geleverd kunnen worden op grond van [artikel 17](https://wetten.overheid.nl/jci1.3:c:BWBR0003109&hoofdstuk=2&titeldeel=2&artikel=17&z=2014-01-01&g=2014-01-01) of [artikel 41](https://wetten.overheid.nl/jci1.3:c:BWBR0003109&hoofdstuk=3&titeldeel=2&artikel=41&z=2014-01-01&g=2014-01-01).
+4. Indien een buitenlands recht dat op effecten van toepassing is niet voorziet in de mogelijkheid van omzetting, zullen de effecten in afwijking van het eerste lid wel geleverd kunnen worden op grond van [artikel 17](https://wetten.overheid.nl/jci1.3:c:BWBR0003109&hoofdstuk=2&titeldeel=2&artikel=17&z=2016-04-01&g=2016-04-01) of [artikel 41](https://wetten.overheid.nl/jci1.3:c:BWBR0003109&hoofdstuk=3&titeldeel=2&artikel=41&z=2016-04-01&g=2016-04-01).
 
 Lasten en bevelen dat deze in het **Staatsblad** zal worden geplaatst, en dat alle ministeriële departementen, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
 
@@ -514,13 +518,13 @@ Voor de toepassing van het ingevolge dit hoofdstuk bepaalde wordt verstaan onder
 
 1. Een uitgevende instelling kan:
 
-- a. het centraal instituut schriftelijk verzoeken tot verstrekking van de naam, het adres, en, indien aanwezig, het emailadres van iedere aangesloten instelling of intermediair ten name van wie in het girodepot door de uitgevende instelling of met haar medewerking uitgegeven effecten met een aandelenkarakter worden bewaard, alsmede van het tegoed van iedere aangesloten instelling of intermediair luidend in zodanige effecten in dat girodepot;
+- a. een centraal instituut schriftelijk verzoeken tot verstrekking van de naam, het adres, en, indien aanwezig, het e-mailadres van iedere aangesloten instelling die als deelgenoot in het girodepot gerechtigd is tot door de uitgevende instelling of met haar medewerking uitgegeven effecten met een aandelenkarakter, alsmede van het tegoed van iedere aangesloten instelling luidend in zodanige effecten in dat girodepot;
 
-- b. een aangesloten instelling of intermediair van wie de uitgevende instelling weet of redelijkerwijs mag aannemen dat deze een verzameldepot aanhoudt van door de uitgevende instelling of met haar medewerking uitgegeven effecten met een aandelenkarakter, schriftelijk verzoeken tot verstrekking van de naam, het adres en, indien aanwezig, het emailadres van iedere deelgenoot in dat verzameldepot alsmede van het tegoed van iedere deelgenoot luidend in zodanige effecten in dat verzameldepot;
+- b. een intermediair van wie de uitgevende instelling weet of redelijkerwijs mag aannemen dat deze een verzameldepot houdt van door de uitgevende instelling of met haar medewerking uitgegeven effecten met een aandelenkarakter, schriftelijk verzoeken tot verstrekking van de naam, het adres en, indien aanwezig, het e-mailadres van iedere deelgenoot in dat verzameldepot alsmede van het tegoed van iedere deelgenoot luidend in zodanige effecten in dat verzameldepot;
 
-- c. een instelling in het buitenland van wie de uitgevende instelling weet of redelijkerwijs mag aannemen dat zij, beroepsmatig en anders dan als aandeelhouder, door de uitgevende instelling of met haar medewerking uitgegeven effecten met een aandelenkarakter administreert of aanhoudt, schriftelijk verzoeken tot verstrekking van de naam, het adres, het tegoed luidend in zodanige effecten en, indien aanwezig, het emailadres van iedere cliënt voor wie zij een tegoed luidend in effecten met een aandelenkarakter administreert of aanhoudt alsmede van het tegoed van iedere cliënt luidend in zodanige effecten dat bij de instelling wordt aangehouden; of
+- c. een instelling in het buitenland van wie de uitgevende instelling weet of redelijkerwijs mag aannemen dat zij, beroepsmatig en anders dan als aandeelhouder, door de uitgevende instelling of met haar medewerking uitgegeven effecten met een aandelenkarakter bewaart, administreert of aanhoudt, schriftelijk verzoeken tot verstrekking van de naam, het adres, het tegoed luidend in zodanige effecten en, indien aanwezig, het e-mailadres van iedere cliënt voor wie zij een tegoed luidend in effecten met een aandelenkarakter bewaart, administreert of aanhoudt alsmede van het tegoed van iedere cliënt luidend in zodanige effecten dat bij de instelling wordt aangehouden; of
 
-- d. een bewaarder van een beleggingsinstelling als bedoeld in [artikel 1:1 van de Wet op het financieel toezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=1:1) van wie de uitgevende instelling weet of redelijkerwijs mag aannemen dat hij door de uitgevende instelling of met haar medewerking uitgegeven effecten met een aandelenkarakter administreert of aanhoudt, schriftelijk verzoeken tot verstrekking van de naam, het adres en, indien aanwezig, het emailadres van de beheerder van die beleggingsinstelling alsmede van het tegoed van de beheerder luidend in zodanige effecten dat door de bewaarder wordt bewaard.
+- d. een bewaarder van een beleggingsinstelling als bedoeld in [artikel 1:1 van de Wet op het financieel toezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=1:1) van wie de uitgevende instelling weet of redelijkerwijs mag aannemen dat hij door de uitgevende instelling of met haar medewerking uitgegeven effecten met een aandelenkarakter bewaart, administreert of aanhoudt, schriftelijk verzoeken tot verstrekking van de naam, het adres en, indien aanwezig, het e-mailadres van de beheerder van die beleggingsinstelling alsmede van het tegoed van de beheerder luidend in zodanige effecten dat bij de bewaarder wordt aangehouden.
 
 2. Degene tot wie het verzoek als bedoeld in het eerste lid zich richt, verstrekt geen informatie over aandeelhouders die elk minder dan een tweehonderdste deel van het geplaatste kapitaal van een uitgevende instelling vertegenwoordigen.
 
@@ -530,13 +534,13 @@ Voor de toepassing van het ingevolge dit hoofdstuk bepaalde wordt verstaan onder
 
 5. Op schriftelijk verzoek, gedaan in een periode vanaf zestig dagen tot de tweeënveertigste dag voor die van de algemene vergadering, van een aandeelhouder die op het moment van het verzoek alleen of gezamenlijk met andere aandeelhouders tenminste een tiende gedeelte van het geplaatste kapitaal van een uitgevende instelling vertegenwoordigt, identificeert de uitgevende instelling aandeelhouders van door haar of met haar medewerking uitgegeven effecten met een aandelenkarakter door middel van het doen van verzoeken als bedoeld in het eerste lid.
 
-6. Uiterlijk op het moment van het eerste verzoek als bedoeld in het eerste lid doet de uitgevende instelling hierover een mededeling op haar website, onder vermelding van de mogelijkheid van verzending van informatie overeenkomstig [artikel 49c](https://wetten.overheid.nl/jci1.3:c:BWBR0003109&hoofdstuk=3a&artikel=49c&z=2014-01-01&g=2014-01-01), de mogelijke data van die verzending en de uiterlijke data voor terbeschikkingstelling van informatie door aandeelhouders.
+6. Uiterlijk op het moment van het eerste verzoek als bedoeld in het eerste lid doet de uitgevende instelling hierover een mededeling op haar website, onder vermelding van de mogelijkheid van verzending van informatie overeenkomstig [artikel 49c](https://wetten.overheid.nl/jci1.3:c:BWBR0003109&hoofdstuk=3a&artikel=49c&z=2016-04-01&g=2016-04-01), de mogelijke data van die verzending en de uiterlijke data voor terbeschikkingstelling van informatie door aandeelhouders.
 
 7. Bij ministeriële regeling kunnen regels worden gesteld met betrekking tot de wijze waarop een verzoek op grond van het eerste of vijfde lid wordt gedaan en beantwoord.
 
 ##### Artikel 49c
 
-1. Op schriftelijk verzoek van een aandeelhouder die alleen of gezamenlijk met andere aandeelhouders tenminste een honderdste gedeelte van het geplaatste kapitaal van een uitgevende instelling vertegenwoordigt of rechthebbende is op een bedrag van aandelen of certificaten daarvan met een gezamenlijke waarde van tenminste € 250 000, verzendt de uitgevende instelling, indien deze beschikt over op grond van [artikel 49b, eerste lid, onder b, c of d](https://wetten.overheid.nl/jci1.3:c:BWBR0003109&hoofdstuk=3a&artikel=49b&z=2014-01-01&g=2014-01-01), verkregen gegevens, door de aandeelhouder ter beschikking gestelde informatie welke verband houdt met een onderwerp dat is geagendeerd voor de algemene vergadering aan de aandeelhouders van de uitgevende instelling. De uitgevende instelling verzendt de informatie met de meeste spoed, in elk geval binnen drie werkdagen na ontvangst van het verzoek of plaatst deze informatie met de meeste spoed, in elk geval binnen drie werkdagen, op haar website, waar deze informatie tenminste tot en met de dag van de algemene vergadering beschikbaar wordt gehouden.
+1. Op schriftelijk verzoek van een aandeelhouder die alleen of gezamenlijk met andere aandeelhouders tenminste een honderdste gedeelte van het geplaatste kapitaal van een uitgevende instelling vertegenwoordigt of rechthebbende is op een bedrag van aandelen of certificaten daarvan met een gezamenlijke waarde van tenminste € 250 000, verzendt de uitgevende instelling, indien deze beschikt over op grond van [artikel 49b, eerste lid, onder b, c of d](https://wetten.overheid.nl/jci1.3:c:BWBR0003109&hoofdstuk=3a&artikel=49b&z=2016-04-01&g=2016-04-01), verkregen gegevens, door de aandeelhouder ter beschikking gestelde informatie welke verband houdt met een onderwerp dat is geagendeerd voor de algemene vergadering aan de aandeelhouders van de uitgevende instelling. De uitgevende instelling verzendt de informatie met de meeste spoed, in elk geval binnen drie werkdagen na ontvangst van het verzoek of plaatst deze informatie met de meeste spoed, in elk geval binnen drie werkdagen, op haar website, waar deze informatie tenminste tot en met de dag van de algemene vergadering beschikbaar wordt gehouden.
 
 2. In afwijking van het eerste lid is de uitgevende instelling niet verplicht tot verzending van informatie die minder dan zeven werkdagen voor de algemene vergadering door haar wordt ontvangen.
 
@@ -550,7 +554,7 @@ Voor de toepassing van het ingevolge dit hoofdstuk bepaalde wordt verstaan onder
 
 5. De uitgevende instelling plaatst informatie die zij uit eigen beweging of op schriftelijk verzoek van een aandeelhouder heeft verzonden onverwijld na verzending op haar website. De uitgevende instelling houdt de informatie gedurende tenminste een jaar op de website toegankelijk.
 
-6. Voor de toepassing van dit artikel wordt als aandeelhouder beschouwd degene die aandeelhouder is op de peildatum die is vermeld in het laatst gedane verzoek, bedoeld in [artikel 49b, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003109&hoofdstuk=3a&artikel=49b&z=2014-01-01&g=2014-01-01).
+6. Voor de toepassing van dit artikel wordt als aandeelhouder beschouwd degene die aandeelhouder is op de peildatum die is vermeld in het laatst gedane verzoek, bedoeld in [artikel 49b, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003109&hoofdstuk=3a&artikel=49b&z=2016-04-01&g=2016-04-01).
 
 7. Indien door de aandeelhouder, bedoeld in het zesde lid, een overeenkomst is gesloten met een derde op grond waarvan deze derde naar eigen goeddunken stemmen kan uitbrengen en de aandeelhouder informatie van de uitgevende instelling ontvangt, verstrekt hij de naam, het adres en het emailadres van de derde aan de uitgevende instelling en stuurt hij de informatie die van de uitgevende instelling is ontvangen onverwijld door aan de derde.
 
@@ -560,19 +564,79 @@ Voor de toepassing van het ingevolge dit hoofdstuk bepaalde wordt verstaan onder
 
 ##### Artikel 49d
 
-1. De uitgevende instelling is verplicht tot geheimhouding van de in [artikel 49b, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003109&hoofdstuk=3a&artikel=49b&z=2014-01-01&g=2014-01-01) en [artikel 49c, zevende en achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003109&hoofdstuk=3a&artikel=49c&z=2014-01-01&g=2014-01-01) bedoelde gegevens, waarvan zij kennis neemt en verwerkt deze gegevens op een behoorlijke en zorgvuldige wijze.
+1. De uitgevende instelling is verplicht tot geheimhouding van de in [artikel 49b, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003109&hoofdstuk=3a&artikel=49b&z=2016-04-01&g=2016-04-01) en [artikel 49c, zevende en achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003109&hoofdstuk=3a&artikel=49c&z=2016-04-01&g=2016-04-01) bedoelde gegevens, waarvan zij kennis neemt en verwerkt deze gegevens op een behoorlijke en zorgvuldige wijze.
 
-2. Indien een uitgevende instelling aan een derde volmacht heeft verleend om namens haar een verzoek als bedoeld in [artikel 49b, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003109&hoofdstuk=3a&artikel=49b&z=2014-01-01&g=2014-01-01), te doen en de verzochte gegevens te ontvangen, is deze derde verplicht tot geheimhouding van de in artikel 49b, eerste lid en [artikel 49c, zevende en achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003109&hoofdstuk=3a&artikel=49c&z=2014-01-01&g=2014-01-01), bedoelde gegevens waarvan hij kennis neemt en verwerkt deze gegevens op een behoorlijke en zorgvuldige wijze.
+2. Indien een uitgevende instelling aan een derde volmacht heeft verleend om namens haar een verzoek als bedoeld in [artikel 49b, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003109&hoofdstuk=3a&artikel=49b&z=2016-04-01&g=2016-04-01), te doen en de verzochte gegevens te ontvangen, is deze derde verplicht tot geheimhouding van de in artikel 49b, eerste lid en [artikel 49c, zevende en achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003109&hoofdstuk=3a&artikel=49c&z=2016-04-01&g=2016-04-01), bedoelde gegevens waarvan hij kennis neemt en verwerkt deze gegevens op een behoorlijke en zorgvuldige wijze.
 
-3. De uitgevende instelling of, indien van toepassing, de derde aan wie de uitgevende instelling een volmacht heeft verleend om namens haar een verzoek als bedoeld in [artikel 49b, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003109&hoofdstuk=3a&artikel=49b&z=2014-01-01&g=2014-01-01), te doen, verwerkt de in artikel 49b, eerste lid en [artikel 49c, zevende en achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003109&hoofdstuk=3a&artikel=49c&z=2014-01-01&g=2014-01-01), bedoelde gegevens niet verder op een wijze die onverenigbaar is met de doeleinden waarvoor ze zijn verkregen.
+3. De uitgevende instelling of, indien van toepassing, de derde aan wie de uitgevende instelling een volmacht heeft verleend om namens haar een verzoek als bedoeld in [artikel 49b, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003109&hoofdstuk=3a&artikel=49b&z=2016-04-01&g=2016-04-01), te doen, verwerkt de in artikel 49b, eerste lid en [artikel 49c, zevende en achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003109&hoofdstuk=3a&artikel=49c&z=2016-04-01&g=2016-04-01), bedoelde gegevens niet verder op een wijze die onverenigbaar is met de doeleinden waarvoor ze zijn verkregen.
 
-4. De uitgevende instelling of, indien van toepassing, de derde aan wie de uitgevende instelling een volmacht heeft verleend om namens haar een verzoek als bedoeld in [artikel 49b, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003109&hoofdstuk=3a&artikel=49b&z=2014-01-01&g=2014-01-01), te doen, legt passende technische en organisatorische maatregelen ten uitvoer om de in de in artikel 49b, eerste lid en [artikel 49c, zevende en achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003109&hoofdstuk=3a&artikel=49c&z=2014-01-01&g=2014-01-01), bedoelde gegevens te beveiligen tegen verlies of enige vorm van onrechtmatige verwerking.
+4. De uitgevende instelling of, indien van toepassing, de derde aan wie de uitgevende instelling een volmacht heeft verleend om namens haar een verzoek als bedoeld in [artikel 49b, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003109&hoofdstuk=3a&artikel=49b&z=2016-04-01&g=2016-04-01), te doen, legt passende technische en organisatorische maatregelen ten uitvoer om de in de in artikel 49b, eerste lid en [artikel 49c, zevende en achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003109&hoofdstuk=3a&artikel=49c&z=2016-04-01&g=2016-04-01), bedoelde gegevens te beveiligen tegen verlies of enige vorm van onrechtmatige verwerking.
 
 ##### Artikel 49e
 
-1. Indien een verzoek als bedoeld in [artikel 49b, eerste lid, onderdeel a, b of d](https://wetten.overheid.nl/jci1.3:c:BWBR0003109&hoofdstuk=3a&artikel=49b&z=2014-01-01&g=2014-01-01), geheel of gedeeltelijk niet wordt beantwoord, kan de rechtbank binnen wiens arrondissement de uitgevende instelling die het verzoek heeft gedaan is gevestigd, op vordering van die uitgevende instelling of een derde aan wie de uitgevende instelling een volmacht heeft verleend degene tot wie het verzoek is gericht bevelen het gedane verzoek na te komen.
+1. Indien een verzoek als bedoeld in [artikel 49b, eerste lid, onderdeel a, b of d](https://wetten.overheid.nl/jci1.3:c:BWBR0003109&hoofdstuk=3a&artikel=49b&z=2016-04-01&g=2016-04-01), geheel of gedeeltelijk niet wordt beantwoord, kan de rechtbank binnen wiens arrondissement de uitgevende instelling die het verzoek heeft gedaan is gevestigd, op vordering van die uitgevende instelling of een derde aan wie de uitgevende instelling een volmacht heeft verleend degene tot wie het verzoek is gericht bevelen het gedane verzoek na te komen.
 
 2. De bevoegdheid om de vordering in te stellen vervalt door verloop van drie maanden vanaf de dag waarop de uitgevende instelling van de niet-beantwoording kennis heeft genomen of heeft kunnen nemen.
+
+### Hoofdstuk 3b. Derivatenvermogen
+
+Lasten en bevelen dat deze in het **Staatsblad** zal worden geplaatst, en dat alle ministeriële departementen, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
+
+##### Artikel 49f
+
+Voor de toepassing van dit hoofdstuk wordt verstaan onder:
+
+- a. **centrale tegenpartij:** centrale tegenpartij als bedoeld in artikel 2 van verordening (EU) nr. 648/2012 (EMIR);
+
+- b. **cliënt:** degene voor wie een tussenpersoon een derivatenpositie aangaat of beheert;
+
+- c. **cliëntpositie:** derivatenpositie die een tussenpersoon houdt voor een cliënt;
+
+- d. **corresponderende positie:** de derivatenpositie die een tussenpersoon met een derde is aangegaan in verband met het aangaan van een cliëntpositie, en die overeenkomt met de betreffende cliëntpositie;
+
+- e. **derivatenpositie:** de rechten en verplichtingen die voortvloeien uit een financieel instrument als bedoeld in onderdeel d tot en met j van de definitie van financieel instrument in [artikel 1:1 van de Wet op het financieel toezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=1:1), voor zover die rechten en verplichtingen betrekking hebben op de bedingen die de kern van de prestaties aangeven;
+
+- f. **derivatenvermogen:** afgescheiden deel van het vermogen van een tussenpersoon waartoe alle corresponderende posities behoren alsmede alle rechten en verplichtingen met betrekking tot het stellen van zekerheid ten behoeve van corresponderende posities;
+
+- g. **tussenpersoon:** beleggingsonderneming, bank of clearinginstelling als bedoeld in [artikel 1:1 van de Wet op het financieel toezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=1:1), met zetel in Nederland waaraan het op grond van die wet is toegestaan beleggingsdiensten te verlenen onderscheidenlijk het bedrijf van bank of clearinginstelling uit te oefenen, die voor rekening en risico van haar cliënten corresponderende posities aangaat;
+
+- h. **verordening (EU) nr. 648/2012 (EMIR):** verordening (EU) nr. 648/2012 van het Europees parlement en de Raad van 4 juli 2012 inzake otc-derivaten, centrale tegenpartijen en transactieregisters (PbEU 2012, L 201);
+
+- i. **zekerheid:** goederen die strekken tot waarborg van de verplichtingen voortvloeiend uit derivatenposities, of de goederen die daarvoor in de plaats moeten worden geacht te zijn getreden.
+
+##### Artikel 49g
+
+1. In afwijking van [artikel 276 van boek 3 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005291&artikel=276) dient het derivatenvermogen uitsluitend tot voldoening van vorderingen die voortvloeien uit de met de corresponderende posities samenhangende cliëntposities, en vorderingen met betrekking tot de in verband met die cliëntposities gestelde zekerheden.
+
+2. Een tussenpersoon legt in zijn administratie vast welke corresponderende posities behoren tot het derivatenvermogen. De tussenpersoon legt voor iedere cliëntpositie vast welke corresponderende positie is aangegaan.
+
+3. Indien zowel een cliëntpositie als de daarmee corresponderende positie gelijktijdig worden beëindigd, wordt een eventuele restvordering die de cliënt na de beëindiging heeft op de tussenpersoon voor zover mogelijk voldaan uit de restvordering die de tussenpersoon heeft uit hoofde van het beëindigen van de corresponderende positie en de in verband daarmee gestelde zekerheden. Voor het niet-voldane gedeelte heeft de cliënt een vordering op de tussenpersoon.
+
+4. Indien een cliëntpositie wordt beëindigd zonder dat de daarmee corresponderende positie wordt beëindigd, maakt de corresponderende positie geen deel meer uit van het derivatenvermogen en is een eventuele restvordering van de cliënt na beëindiging van de cliëntpositie een vordering op de tussenpersoon, waarbij de cliënt een voorrecht heeft op de derivatenpositie die correspondeerde met de beëindigde cliëntpositie en de in verband daarmee gestelde zekerheden.
+
+5. Indien een corresponderende positie wordt beëindigd voordat de daarmee samenhangende cliëntpositie wordt beëindigd, blijven eventuele restvorderingen uit hoofde van die corresponderende positie en de in verband daarmee gestelde zekerheden beschikbaar voor het voldoen van de vorderingen uit hoofde van de daarmee samenhangende cliëntpositie. Indien de vorderingen van de cliënt daarmee niet volledig kunnen worden voldaan, heeft hij voor het niet-voldane gedeelte een vordering op de tussenpersoon.
+
+6. Beslag onder een tussenpersoon op het derivatenvermogen is niet toegelaten. Beslag onder een centrale tegenpartij of een tussenpersoon op cliëntposities die worden aangehouden voor een tussenpersoon onderscheidenlijk een andere tussenpersoon is niet toegelaten, voor zover die cliëntposities samenhangen met posities die behoren tot het derivatenvermogen van laatstbedoelde tussenpersoon.
+
+7. Indien het een tussenpersoon op grond van de [Wet op het financieel toezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0020368) niet langer is toegestaan zijn beroep of bedrijf uit te oefenen, blijft het derivatenvermogen bestaan voor zover het reeds bestaande derivatenposities betreft.
+
+##### Artikel 49h
+
+1. In geval van het faillissement van een tussenpersoon wijst de curator een deskundige aan die onder verantwoordelijkheid van de curator is belast met het beheer van de corresponderende posities, de daarmee samenhangende cliëntposities en de in verband met deze posities gestelde zekerheden. Indien het faillissement een beleggingsonderneming betreft vindt de aanwijzing plaats met instemming van de Stichting Autoriteit Financiële Markten. Indien het faillissement een bank of clearinginstelling betreft vindt de aanwijzing plaats met instemming van De Nederlandsche Bank N.V.
+
+2. De curator verleent zijn medewerking aan de overdracht, bedoeld in artikel 48, vijfde of zesde lid, van verordening (EU) nr. 648/2012 (EMIR), alsmede de overdracht van de daarmee samenhangende cliëntposities en, met inachtneming van het vierde lid, de in verband daarmee gestelde zekerheden.
+
+3. Indien de in het tweede lid bedoelde overdracht niet slaagt, kan de curator het derivatenvermogen en de daarmee samenhangende cliëntposities en, met inachtneming van het vierde lid, de in verband daarmee gestelde zekerheden, geheel of gedeeltelijk overdragen aan een andere tussenpersoon, of een met een tussenpersoon vergelijkbare instelling in het buitenland waaraan het op grond van het op die instelling van toepassing zijnde recht is toegestaan beleggingsdiensten te verlenen, onverminderd het recht van cliënten of de centrale tegenpartijen op voortijdige beëindiging van hun posities.
+
+4. Indien de tussenpersoon in verband met de corresponderende posities bij de centrale tegenpartijen zekerheid heeft gesteld en de waarde daarvan op het tijdstip van faillietverklaring onvoldoende is om de vorderingen tot teruggave van gestelde zekerheden te voldoen uit hoofde van de daarmee samenhangende cliëntposities, worden de rechten van de tussenpersoon jegens de centrale tegenpartijen inzake de terug te geven zekerheden over de betreffende cliënten verdeeld naar rato van de waarde van de door hen gestelde zekerheden, onverminderd het voorrecht bedoeld in [artikel 53 lid 3 van boek 7 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=53).
+
+5. In afwijking van het vorige lid behouden cliënten die vermogensscheiding per individuele cliënt als bedoeld in artikel 39, derde lid, van verordening (EU) nr. 648/2012 (EMIR) hebben bedongen, het recht op volledige teruggave van de zekerheden die zij bij de tussenpersoon hebben gesteld, en die de tussenpersoon in verband met de betreffende corresponderende derivatenposities heeft gesteld bij de centrale tegenpartij.
+
+6. Het tweede tot en met vijfde lid is van overeenkomstige toepassing indien niet een centrale tegenpartij wederpartij is bij de corresponderende posities, maar een andere tussenpersoon.
+
+7. Indien de vordering van een wederpartij bij een derivatenpositie niet of niet volledig kan worden voldaan uit het derivatenvermogen, kan die wederpartij voor het niet-voldane gedeelte een vordering ter verificatie aanmelden bij de curator.
+
+8. De curator zorgt ervoor dat, uiterlijk op het tijdstip waarop het faillissement van de tussenpersoon is geëindigd, alle derivatenposities die deel uitmaken van het derivatenvermogen en de daarmee samenhangende cliëntposities zijn beëindigd of overgedragen aan een andere tussenpersoon, tenzij het bedrijf van de gefailleerde instelling overeenkomstig [artikel 98 van de Faillissementswet](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&artikel=98) wordt voortgezet.
 
 ### Hoofdstuk 4. Overgangs- en slotbepalingen
 
