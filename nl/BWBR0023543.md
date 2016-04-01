@@ -4,7 +4,7 @@ identifier: "BWBR0023543"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-03-18"
-last_updated: "2015-04-15"
+last_updated: "2016-04-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0023543"
 soort: "ministeriele-regeling"
@@ -174,7 +174,7 @@ Voor de toepassing van dit besluit en de daarop berustende bepalingen wordt met 
 
 - b. een subsidie lager vast te stellen, te wijzigen, of gedeeltelijk in te trekken of terug te vorderen op grond van de [afdelingen 4.2.5 tot en met 4.2.7 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&afdeling=4.2.5),
 
-- c. bij of krachtens de [Wet op het primair onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0003420), de [Wet primair onderwijs BES](https://wetten.overheid.nl/jci1.3:c:BWBR0030280), de [Wet op de expertisecentra](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&wetgeving), de [Wet op het voortgezet onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&wetgeving), de [Wet voortgezet onderwijs BES](https://wetten.overheid.nl/jci1.3:c:BWBR0030284), de [Wet educatie en beroepsonderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0007625), de [Wet educatie en beroepsonderwijs BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028395) of de [Wet op het hoger onderwijs en wetenschappelijk onderzoek](https://wetten.overheid.nl/jci1.3:c:BWBR0005682) correcties aan te brengen of bedragen in mindering te brengen op de bekostiging;
+- c. bij of krachtens de [Wet op het primair onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0003420), de [Wet primair onderwijs BES](https://wetten.overheid.nl/jci1.3:c:BWBR0030280), de [Wet op de expertisecentra](https://wetten.overheid.nl/jci1.3:c:BWBR0003549), de [Wet op het voortgezet onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0003549), de [Wet voortgezet onderwijs BES](https://wetten.overheid.nl/jci1.3:c:BWBR0030284), de [Wet educatie en beroepsonderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0007625), de [Wet educatie en beroepsonderwijs BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028395) of de [Wet op het hoger onderwijs en wetenschappelijk onderzoek](https://wetten.overheid.nl/jci1.3:c:BWBR0005682) correcties aan te brengen of bedragen in mindering te brengen op de bekostiging;
 
 - d. voor zover het niet de enige opleiding in zijn soort betreft, een waarschuwing als bedoeld in de [artikelen 6.1.5](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=6.1.5), [6.1.5b](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=6.1.5b), [6.2.3](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=6.2.3), [6.2.3b](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=6.2.3b) en [6.3.2 van de Wet educatie en beroepsonderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=6.3.2) en de [artikelen 6.2.3](https://wetten.overheid.nl/jci1.3:c:BWBR0028395&artikel=6.2.3), [6.2.4](https://wetten.overheid.nl/jci1.3:c:BWBR0028395&artikel=6.2.4) en [6.3.1 van de Wet educatie en beroepsonderwijs BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028395&artikel=6.3.1) te geven, of een besluit als bedoeld in de [artikelen 6.1.4](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=6.1.4), 6.1.5b, [6.2.2](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=6.2.2), 6.2.3b en 6.3.2 van de Wet educatie en beroepsonderwijs en de [artikelen 6.2.1](https://wetten.overheid.nl/jci1.3:c:BWBR0028395&artikel=6.2.1), 6.2.4 en 6.3.1 van de Wet educatie en beroepsonderwijs BES te nemen;
 
@@ -184,7 +184,7 @@ Voor de toepassing van dit besluit en de daarop berustende bepalingen wordt met 
 
 ##### Artikel 8. Mandaat aan het hoofd van de baten-lastendienst Nationaal Archief
 
-1. Het hoofd van het Nationaal Archief heeft, onverminderd [artikel 4, eerste lid, onderdeel l](https://wetten.overheid.nl/jci1.3:c:BWBR0023543&artikel=4&z=2015-04-15&g=2015-04-15), en de mandaatverlening aan de secretaris-generaal en de directeur-generaal, binnen het kader van de managementafspraak mandaat ten aanzien van alle aangelegenheden die verband houden met de taken en verantwoordelijkheden op zijn werkterrein.
+1. Het hoofd van het Nationaal Archief heeft, onverminderd [artikel 4, eerste lid, onderdeel l](https://wetten.overheid.nl/jci1.3:c:BWBR0023543&artikel=4&z=2015-04-15&g=2016-04-01), en de mandaatverlening aan de secretaris-generaal en de directeur-generaal, binnen het kader van de managementafspraak mandaat ten aanzien van alle aangelegenheden die verband houden met de taken en verantwoordelijkheden op zijn werkterrein.
 
 2. Het hoofd van het Nationaal Archief is budgethouder voor de hem door de secretaris-generaal toegewezen budgetten.
 
@@ -222,7 +222,7 @@ Voor de toepassing van dit besluit en de daarop berustende bepalingen wordt met 
 
 - c. stukken gericht aan de Nationale ombudsman,
 
-- d. het verlenen van mandaat inzake een bevoegdheid, bedoeld in [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0023543&artikel=13&z=2015-04-15&g=2015-04-15),
+- d. het verlenen van mandaat inzake een bevoegdheid, bedoeld in [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0023543&artikel=13&z=2015-04-15&g=2016-04-01),
 
 - e. de afwikkeling van een gemeld vermoeden van een misstand,
 
@@ -244,7 +244,7 @@ Voor de toepassing van dit besluit en de daarop berustende bepalingen wordt met 
 
 - c. de voorlopige buiteninvorderingstelling van vorderingen op derden, het kwijtschelden van vorderingen op derden, het deelnemen in een NV of BV met een financieel belang en het sluiten van huur-, huurkoop- en leaseovereenkomsten, een en ander voor een bedrag tot € 500.000 voor de duur van de overeenkomst.
 
-2. De directeur-generaal DUO is gemandateerd met betrekking tot het nemen van beslissingen op bezwaar- en beroepschriften onverminderd [artikel 7, vierde lid, onderdeel f](https://wetten.overheid.nl/jci1.3:c:BWBR0023543&artikel=7&z=2015-04-15&g=2015-04-15), en [artikel 14, eerste lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0023543&artikel=14&z=2015-04-15&g=2015-04-15).
+2. De directeur-generaal DUO is gemandateerd met betrekking tot het nemen van beslissingen op bezwaar- en beroepschriften onverminderd [artikel 7, vierde lid, onderdeel f](https://wetten.overheid.nl/jci1.3:c:BWBR0023543&artikel=7&z=2015-04-15&g=2016-04-01), en [artikel 14, eerste lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0023543&artikel=14&z=2015-04-15&g=2016-04-01).
 
 3. De directeur-generaal Hoger Onderwijs, Beroepsonderwijs, Wetenschap en Emancipatie, de directeur-generaal Primair en Voortgezet Onderwijs en de directeur-generaal Cultuur en Media zijn met uitsluiting van anderen, met uitzondering van de secretaris-generaal, gemandateerd met betrekking tot het geven van toestemming voor schatkistbankieren.
 
@@ -300,7 +300,7 @@ handtekening van de gemandateerde,
 
 naam van de gemandateerde.
 
-2. De gemandateerde is gehouden in de ondertekening van stukken als bedoeld in [artikel 14a](https://wetten.overheid.nl/jci1.3:c:BWBR0023543&artikel=14a&z=2015-04-15&g=2015-04-15) zijn vertegenwoordigingsbevoegdheid tot uitdrukking te brengen door opneming van de formule:
+2. De gemandateerde is gehouden in de ondertekening van stukken als bedoeld in [artikel 14a](https://wetten.overheid.nl/jci1.3:c:BWBR0023543&artikel=14a&z=2015-04-15&g=2016-04-01) zijn vertegenwoordigingsbevoegdheid tot uitdrukking te brengen door opneming van de formule:
 
 **De minister van Onderwijs, Cultuur en Wetenschap en de minister van Infrastructuur en Milieu,**
 
