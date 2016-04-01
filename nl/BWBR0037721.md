@@ -4,7 +4,7 @@ identifier: "BWBR0037721"
 country: "nl"
 rank: "amvb"
 publication_date: "2016-04-01"
-last_updated: "2016-03-17"
+last_updated: "2016-04-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0037721"
 soort: "AMvB"
@@ -42,35 +42,35 @@ Wijzigt het Besluit Gedragstoezicht financiële ondernemingen Wft.
 
 ##### Artikel II
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt het Besluit bestuurlijke boetes financiële sector.
 
 ##### Artikel III
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt het Besluit prudentiële regels Wft.
 
 ##### Artikel IV
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt het Besluit Markttoegang financiële ondernemingen Wft.
 
 ##### Artikel V
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt het Besluit reikwijdtebepalingen Wft.
 
 ##### Artikel VI
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt het Besluit financiële markten BES.
 
 ##### Artikel VII
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt het Besluit bijzondere prudentiële maatregelen, beleggerscompensatie en depositogarantie Wft.
 
 ##### Artikel VIII
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt het Besluit uitvoering EU-verordeningen financiële markten.
 
 ##### Artikel IX
 
-Dit besluit treedt in werking met ingang van 1 april 2016, met uitzondering van [artikel I, onderdeel S](https://wetten.overheid.nl/jci1.3:c:BWBR0037721&artikel=I&z=2016-03-17&g=2016-03-17), dat in werking treedt met ingang van de dag na de datum van uitgifte van het Staatsblad waarin dit besluit wordt geplaatst en terugwerkt tot en met 1 januari 2016.
+Dit besluit treedt in werking met ingang van 1 april 2016, met uitzondering van [artikel I, onderdeel S](https://wetten.overheid.nl/jci1.3:c:BWBR0037721&artikel=I&z=2016-04-01&g=2016-04-01), dat in werking treedt met ingang van de dag na de datum van uitgifte van het Staatsblad waarin dit besluit wordt geplaatst en terugwerkt tot en met 1 januari 2016.
 
 ##### Artikel X
 
