@@ -4,7 +4,7 @@ identifier: "BWBR0005544"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2022-01-01"
-last_updated: "2008-09-01"
+last_updated: "2016-04-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0005544"
 soort: "ministeriele-regeling"
@@ -43,107 +43,155 @@ Besluit:
 
 In deze beschikking wordt verstaan onder:
 
+- a. **de wet:** de [Wet op de kansspelen](https://wetten.overheid.nl/jci1.3:c:BWBR0002469) (Stb. 1964, 483);
+
+- b. **de raad van bestuur:** de raad van bestuur van de kansspelautoriteit, bedoeld in [artikel 33a van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&artikel=33a);
+
+- c. **de vergunninghouder:** Staatsloterij B.V., gevestigd te 's-Gravenhage;
+
+- d. **incidenten:** situaties die het vertrouwen van de consument in de vergunde kansspelen kunnen schaden.
+
 ##### Artikel 2
 
 Aan de Stichting Exploitatie Nederlandse Staatsloterij wordt voor onbepaalde duur vergunning verleend tot het organiseren van de staatsloterij.
 
 ##### Artikel 3
 
-1. De staatsloterij wordt georganiseerd met inachtneming van de statuten en reglementen van de stichting.
-
-2. De stichting stelt reglementen op, die in ieder geval bepalingen behelzen inzake de deelnamevoorwaarden, de prijzenschema's, de prijzenreserves en de voorschriften en vergoedingen voor de verkooppunten.
-
-3. De reglementen van de stichting, alsmede de wijziging daarvan, behoeven de voorafgaande goedkeuring van de minister, gehoord het college.
+De vergunninghouder is verantwoordelijk voor de naleving van de aan deze vergunning verbonden voorschriften, zowel door hemzelf als door degenen die hij bij het organiseren van de kansspelen inschakelt, hetzij direct, hetzij indirect.
 
 ##### Artikel 4
 
-De stichting houdt ten minste tien maal de staatsloterij per jaar, waarbij de perioden tussen de loterijen zodanig gekozen worden dat de loterijen redelijk verspreid over het jaar plaatsvinden.
+De vergunninghouder is verplicht de raad van bestuur onmiddellijk te informeren wanneer niet langer wordt voldaan aan een of meerdere van de volgende voorwaarden:
+
+- a. de vergunninghouder ontplooit zijn activiteiten met inachtneming van de statuten d.d. 30 maart 2016;
+
+- b. Nederlandse Loterij B.V. (hierna: de holding), gevestigd te te ’s-Gravenhage met KvK-nummer 65687949, is enig aandeelhouder van de vergunninghouder;
+
+- c. de holding staat in voor de nakoming van alle uit deze vergunning voortvloeiende verplichtingen.
 
 ##### Artikel 5
 
-Er kunnen deelloten worden uitgegeven die recht geven op deelname aan een staatsloterij, elk aanspraak gevend op een evenredig deel van de daarop gevallen prijs.
+1. De vergunninghouder is verplicht het onder deze vergunning vergunde kansspel aan te bieden met inachtneming van het deelnemersreglement versie geldend per 29 januari 2016.
+
+2. Het gebruik van andere reglementen of een andere trekkingsprocedure is uitsluitend toegestaan na voorafgaande schriftelijke toestemming van de raad van bestuur.
 
 ##### Artikel 6
 
-De prijs van een geheel lot bedraagt ten hoogste € 30,–. De prijs van deelloten wordt naar evenredigheid berekend.
+De raad van bestuur kan in uitzonderlijke gevallen en na voorafgaand overleg met de vergunninghouder, de vergunninghouder aanwijzingen geven met betrekking tot de reglementen en de trekkingsprocedure. De vergunninghouder is verplicht deze aanwijzingen op te volgen.
 
 ##### Artikel 7
 
-De staatsloterij is ingericht overeenkomstig het bepaalde in [artikel 8, tweede lid, van de Wet op de kansspelen](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&artikel=8). Een staatsloterij mag worden uitgetrokken in meerdere trekkingen echter slechts onder die voorwaarde dat het aangekochte staatslot voor de deelnemers aan de staatsloterij recht geeft op deelname in alle trekkingen.
+De vergunninghouder mag onder deze vergunning uitsluitend staatsloterijen in de zin van [artikel 8, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&artikel=8) organiseren.
 
 ##### Artikel 8
 
-De trekking van de winnende getallen geschiedt per staatsloterij na afloop van de verkoopperiode van de desbetreffende loterij. De trekking van de getallen geschiedt bij elke staatsloterij in het openbaar onder toezicht en verantwoordelijkheid van een notaris. De notaris constateert telkens bij procesverbaal het verloop van de trekking.
+De vergunninghouder mag onder deze vergunning ten hoogste aanbieden:
+
+- a. twaalf maandelijkse loterijen per jaar, waarbij per maand één trekkingssessie mag plaatsvinden;
+
+- b. vier bijzondere loterijen per jaar, waarbij per loterij één trekkingssessie mag plaatsvinden;
+
+- c. drieënvijftig wekelijkse loterijen per jaar, waarbij per loterij één trekkingssessie mag plaatsvinden.
 
 ##### Artikel 9
 
-De stichting draagt zorg voor de bewaking van de kwaliteit van haar organisatie en produkt met name met het oog op voorkoming van fraude, diefstal en vervreemding. De stichting is gehouden in verband hiermee in haar overeenkomst met de lotenverkopers daartoe strekkende bepalingen op te nemen. De stichting is verplicht om op eerste verzoek van de minister mee te werken aan een in opdracht van de minister door een daartoe geëigende organisatie te houden onderzoek. De stichting is verplicht mee te werken aan een onderzoek door de Algemene Rekenkamer of door het college.
+De vergunninghouder mag deelloten uitgeven. Een deellot geeft aanspraak op een evenredig deel van de prijs die op een heel lot is gevallen.
 
 ##### Artikel 10
 
-1. De stichting zorgt voor een doelmatige en doeltreffende administratie en exploitatie van de staatsloterij echter met dien verstande dat geen afbreuk wordt gedaan aan het goede imago van het produkt ‘staatsloterij’.
+1. De vergunninghouder mag de loten uitsluitend verkopen tegen de in het deelnemersreglement vermelde nominale waarde. Deze mag niet hoger mag zijn dan 30 euro per heel lot.
 
-2. De stichting doet binnen één maand na het einde van elk kwartaal aan de minister en aan het college schriftelijk verslag van de exploitatie van de staatsloterij betreffende dat kwartaal.
+2. De vergunninghouder mag de loten zowel door middel van losse verkoop als via abonnementen verkopen. Dit kan zowel via fysieke verkooppunten als langs de direct elektronische weg.
 
 ##### Artikel 11
 
-De stichting is verantwoordelijk voor de naleving van de in deze beschikking gegeven voorschriften. Zij is eveneens verantwoordelijk voor de naleving van deze voorschriften door de organisaties en personen die op enigerlei wijze bij de administratie en exploitatie van de staatsloterij zijn betrokken. Zij neemt daartoe de nodige maatregelen.
+De vergunninghouder mag geen minderjarigen als deelnemer toelaten. Wanneer een minderjarige een prijs wint, mag de vergunninghouder deze prijs niet uitkeren.
 
 ##### Artikel 12
 
-Aan personen beneden de leeftijd van achttien jaar mogen geen loten worden verkocht. Indien als winnaar van een prijs wordt aangewezen een persoon die ingevolge de vorige zin niet als deelnemer mocht worden toegelaten, wordt deze deelneming buiten aanmerking gelaten.
+1. Gerekend over een kalenderjaar bedraagt de afdracht zoals beschreven in [artikel 9 lid 2 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&artikel=9) tenminste 15% van de nominale waarde van alle verkochte loten.
+
+2. De vergunninghouder is verplicht de afdracht uiterlijk drie maanden na afloop van elk kalenderjaar te doen plaatsvinden.
 
 ##### Artikel 13
 
-1. De mechanische, elektrische en elektronische processen die gebezigd worden bij de deelneming, prijsbepaling en vaststelling van de winnaars van de krachtens deze vergunning georganiseerde kansspelen, zijn onderworpen aan een voorafgaande goedkeuring en periodieke controle door één of meer door de minister aangewezen onafhankelijke deskundigen of keuringsinstellingen.
+1. De vergunninghouder is verplicht deze vergunning en zijn statuten en reglementen via zijn website openbaar te maken en deze desgevraagd ter beschikking van de deelnemers te stellen.
 
-2. Van de bevindingen van de in het eerste lid bedoelde onafhankelijke deskundigen en keuringsinstellingen wordt uiterlijk binnen drie maanden na afloop van een kalenderjaar verslag gedaan aan de minister en het college.
+2. De vergunninghouder is verplicht de deelnemers duidelijk, volledig, en op niet tot misvatting aanleiding gevende wijze te informeren over de rechten en plichten die samenhangen met deelname aan de kansspelen waarvoor deze vergunning is verleend.
 
-3. De aan de in het eerste lid genoemde goedkeuring en controle verbonden kosten zijn voor rekening van de stichting.
+3. De vergunninghouder is verplicht aan de uitslag van de trekkingen een zodanige bekendheid te geven, dat de deelnemers op eenvoudige wijze kennis kunnen nemen van deze uitslag.
 
 ##### Artikel 14
 
-1. De stichting draagt zorg voor een goed regionaal verspreid verkoopnet dat voor zover het gaat om het verkoopgebied in Nederland toegankelijk moet zijn voor groepen uit alle lagen van de bevolking.
+1. De vergunninghouder is verplicht om het volledige prijzenschema van een trekking op duidelijke, begrijpelijke en ondubbelzinnige wijze bekend te maken vanaf het moment dat de loten voor deze trekking verkocht worden.
 
-2. De stichting draagt er zorg voor dat aan wervings- en reclame-activiteiten op zorgvuldige en evenwichtige wijze vorm wordt gegeven, waarbij in het bijzonder wordt gewaakt tegen het aanzetten tot onmatige deelneming aan de door de stichting georganiseerde kansspelen.
+2. Wanneer niet alle prijzen uit het betreffende prijzenschema gegarandeerd vallen, dan gelden er strengere eisen ten aanzien van de bovenstaande verplichting. De vergunninghouder is dan verplicht om vanaf het moment dat de loten voor deze trekking verkocht worden op duidelijke, begrijpelijke en ondubbelzinnige wijze aan te geven:
 
-3. De stichting neemt bij haar wervings- en reclame-activiteiten de haar door de minister gegeven aanwijzingen, gehoord het college, in acht.
+- a. welke prijzen uit dit prijzenschema niet gegarandeerd zullen vallen bij deze trekking;
+
+- b. wat er met deze niet-gegarandeerde prijzen gebeurt wanneer deze niet vallen.
+
+3. Indien er sprake is van de situatie zoals bedoeld in lid 2 en de trekking plaatsvindt uit een bestand dat ook niet-verkochte loten bevat, dan is de vergunninghouder verplicht om vanaf het moment dat de loten voor deze trekking verkocht worden op duidelijke, begrijpelijke en ondubbelzinnige wijze aan te geven:
+
+- a. dat er bij de betreffende trekking uit een groter universum wordt getrokken dan het totaal van de verkochte, gewonnen en gratis verstrekte loten en dat het bestand dus ook niet verkochte loten bevat;
+
+- b. wat de verhouding is tussen de verkochte, gewonnen en gratis verstrekte loten enerzijds en het universum anderzijds.
 
 ##### Artikel 15
 
-De verkoopperioden en de tijdstippen van de trekkingen worden gepubliceerd.
+1. De vergunninghouder is verplicht prijzen zo spoedig mogelijk aan de winnaars uit te keren en hiervoor voldoende financiële middelen ter beschikking te houden.
+
+2. Het recht op uitbetaling van een prijs vervalt na verloop van één jaar, aan te vangen na de dag waarop de trekkingsuitslag bekend is gemaakt.
 
 ##### Artikel 16
 
-De uitslag van de trekking wordt direct na de laatste trekking van die loterij bekendgemaakt en wel tenminste in één landelijk dagblad en zo mogelijk door middel van een telecommunicatiesysteem.
+1. De vergunninghouder is verplicht de kwaliteit van de vergunde kansspelen zowel qua product, als proces, als organisatie te handhaven en te waarborgen. Dit met name met het oog op het voorkomen van incidenten.
+
+2. De vergunninghouder is in ieder geval verplicht:
+
+- a. te beschikken over procedures en maatregelen met betrekking tot de omgang met, en de vaststelling van, incidenten;
+
+- b. de raad van bestuur onmiddellijk te informeren wanneer zich een incident voordoet;
+
+- c. naar aanleiding van een incident maatregelen te nemen die zijn gericht op het beheersen van de opgetreden risico’s en het voorkomen van herhaling.
 
 ##### Artikel 17
 
-De prijzen zijn op afgifte van het lot of deellot betaalbaar gedurende een jaar na de trekking waarbij het lot als winnend lot of deellot is aangewezen:
-
-- a. ten kantore van de officiële verkooppunten voor zover het gaat om een prijs tot en met een bedrag van € 600,– per deelnamebewijs;
-
-- b. ten kantore van daartoe door de stichting aangewezen verkooppunten voor zover het gaat om een prijs tot en met een bedrag van € 10.100,– per deelnamebewijs;
-
-- c. ten kantore van de stichting voor prijzen boven een bedrag van € 10.100,– per deelnamebewijs.
+De vergunninghouder zorgt voor een doelmatige en doeltreffende exploitatie van de onder deze vergunning georganiseerde loterijen.
 
 ##### Artikel 18
 
-De stichting is gehouden zodanig maatregelen te treffen dat de uitbetaling van de prijzen aan de winnaars in de staatsloterij te allen tijde is gewaarborgd.
+De vergunninghouder is verplicht een afzonderlijke, overzichtelijke en doelmatige administratie te voeren van de afzonderlijke onder deze vergunning georganiseerde loterijen. De raad van bestuur kan aanwijzingen geven met betrekking tot de inrichting van deze administratie.
 
 ##### Artikel 19
 
-Jaarlijks stelt de Minister van Financiën het afdrachtpercentage voor de Staatsloterij vast, welk percentage ten minste 15% van de nominale waarde van de verkochte loten bedraagt.
+1. De vergunninghouder is verplicht alle trekkingen in het openbaar te laten plaatsvinden in aanwezigheid van een notaris die het verloop van de trekkingen bij proces-verbaal constateert. Hiervan kan alleen worden afgeweken in geval van een trekking in het buitenland en uitsluitend na voorafgaande schriftelijke toestemming van de raad van bestuur.
+
+2. Wanneer de notaris enige onregelmatigheid constateert en de trekking ongeldig verklaart, is de vergunninghouder verplicht onverwijld een vervangende trekking te laten plaatsvinden.
 
 ##### Artikel 20
 
-1. De Minister van Financiën benoemt de voorzitter en de leden van de raad van commissarissen van de stichting. Alvorens de Minister van Financiën tot benoeming overgaat, voert hij daarover overleg met de minister.
+1. De vergunninghouder is verplicht om de mechanische, elektrische en elektronische processen die gebruikt worden bij de deelneming, prijsbepaling en vaststelling van de winnaars te onderwerpen aan:
 
-2. De raad van commissarissen van de stichting benoemt het bestuur. Deze benoeming behoeft de voorafgaande goedkeuring van de Minister van Financiën. Alvorens de Minister van Financiën zijn goedkeuring verleent, voert hij overleg over de voorgenomen benoeming met de minister.
+- a. voorafgaande goedkeuring door een keuringsinstelling;
+
+- b. periodieke controle door een keuringsinstelling en een EDP-auditor.
+
+2. De keuze voor een bepaalde keuringsinstelling of EDP-auditor behoeft voorafgaande schriftelijke goedkeuring door de raad van bestuur.
+
+3. De vergunninghouder is verplicht binnen vier maanden na afloop van elk kalenderjaar de rapportages met betrekking tot de bovengenoemde goedkeuring en periodieke controle aan de raad van bestuur te zenden.
 
 ##### Artikel 21
 
-De stichting stelt na afloop van elk boekjaar een jaarrekening en een jaarverslag op welke voldoen aan de eisen gesteld in [Boek 2, Titel 9, van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&titeldeel=9). Binnen twee weken na vaststelling, zendt het bestuur van de stichting kopieën van de jaarrekening, het jaarverslag, het accountantsverslag en de accountantsverklaring aan de minister en aan het college.
+1. De vergunninghouder is verplicht binnen een maand na afloop van elk kwartaal een verslag aan de raad van bestuur te zenden betreffende het financiële verloop en andere door de raad van bestuur noodzakelijk geachte gegevens.
+
+2. De vergunninghouder is verplicht een jaarrekening en een jaarverslag op te stellen. Deze moeten voldoen aan de eisen gesteld in [Boek 2, Titel 9, van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&titeldeel=9).
+
+3. De kwartaalrapportages, de jaarrekening en het jaarverslag moeten voldoen aan het ‘Rapportagevoorschrift inzake kwartaalrapportages, jaarverslag en jaarrekening versie 1’.
+
+4. De vergunninghouder is verplicht de jaarrekening en het jaarverslag vergezeld te doen gaan van een onderzoeksverslag omtrent de naleving van de vergunningsvoorschriften en een verklaring zoals bedoeld in [artikel 393, vierde en vijfde lid, boek 2 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=393), omtrent de getrouwheid van de jaarrekening en het jaarverslag, opgesteld door een accountant die op basis van [artikel 36 van de Wet op het accountantsberoep](https://wetten.overheid.nl/jci1.3:c:BWBR0032573&artikel=36) is ingeschreven in het accountantsregister.
+
+5. De vergunninghouder is verplicht binnen vier maanden na afloop van elk kalenderjaar het jaarverslag, de jaarrekening, de door een accountant opgestelde verklaring, alsmede het accountantsverslag waarin wordt gerapporteerd over de naleving van de vergunningsvoorschriften, aan de raad van bestuur te zenden.
 
 ##### Artikel 22
 
