@@ -4,7 +4,7 @@ identifier: "BWBV0001154"
 country: "nl"
 rank: "verdrag"
 publication_date: "2016-04-01"
-last_updated: "1998-08-02"
+last_updated: "2016-04-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBV0001154"
 soort: "verdrag"
@@ -40,17 +40,15 @@ Zijn het volgende overeengekomen:
 
 ##### Artikel 1
 
-De Internationale Opsporingsdienst te Arolsen bezit rechtsbevoegdheid en kan overeenkomstig het Duitse recht de rechtshandelingen verrichten die nodig zijn voor de vervulling van zijn taken, met name het sluiten van arbeidsovereenkomsten en huur- en koopovereenkomsten, en kan in rechte optreden. Hiertoe wordt de Internationale Opsporingsdienst te Arolsen vertegenwoordigd door zijn Directeur.
-
-Arbeidsovereenkomsten met de Internationale Opsporingsdienst te Arolsen zijn onderworpen aan het op de plaats van de werkzaamheden toepasselijke arbeidsrecht en sociaal recht.
+Vervallen
 
 ##### Artikel 2
 
-Dit Verdrag blijft voor ondertekening door de Verdragsluitende Regeringen openstaan bij het Bondsministerie van Buitenlandse Zaken van de Bondsrepubliek Duitsland in Bonn van 15 juli 1993 tot en met 15 oktober 1993.
+Vervallen
 
 ##### Artikel 3
 
-Dit Verdrag treedt in werking 30 dagen na de datum waarop alle ondertekenaars de Regering van de Bondsrepubliek Duitsland hebben medegedeeld dat aan hun onderscheiden nationale vereisten voor de inwerkingtreding van dit Verdrag is voldaan.
+Vervallen
 
 IN WITNESS WHEREOF the undersigned plenipotentiaries have appended their signatures to this Agreement.
 
