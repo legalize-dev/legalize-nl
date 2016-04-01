@@ -4,7 +4,7 @@ identifier: "BWBR0035433"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-12-31"
-last_updated: "2016-01-01"
+last_updated: "2016-04-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0035433"
 soort: "ministeriele-regeling"
@@ -56,9 +56,9 @@ Besluit:
 
 - e. **tweede trimesterbehandeling:** zwangerschapsafbreking na een periode van 12 weken amenorroe;
 
-- f. **consult:** consult, bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0035433&paragraaf=1&artikel=4&z=2016-01-01&g=2016-01-01);
+- f. **consult:** consult, bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0035433&paragraaf=1&artikel=4&z=2016-04-01&g=2016-04-01);
 
-- g. **behandeling:** behandeling, bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0035433&paragraaf=1&artikel=4&z=2016-01-01&g=2016-01-01);
+- g. **behandeling:** behandeling, bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0035433&paragraaf=1&artikel=4&z=2016-04-01&g=2016-04-01);
 
 - h. **jaarrekening:** jaarrekening als bedoeld in [artikel 361 van Boek 2 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=361);
 
@@ -182,7 +182,7 @@ De minister bepaalt bij het besluit tot verlening van de subsidie:
 
 1. De minister verleent bij het besluit tot verlening van een subsidie ambtshalve tevens de volgende voorschotten: in januari 8%, februari 8%, maart 8%, april 7%, mei 16%, juni 7%, juli 8%, augustus 8%, september 7%, oktober 8%, november 8% en december 7% van het bedrag van de verleende subsidie.
 
-2. Op verzoek van de subsidieontvanger of indien een aanvraag van een subsidie later is ingediend dan in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0035433&paragraaf=2&artikel=6&z=2016-01-01&g=2016-01-01) is bepaald, kan de minister van het eerste lid afwijken.
+2. Op verzoek van de subsidieontvanger of indien een aanvraag van een subsidie later is ingediend dan in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0035433&paragraaf=2&artikel=6&z=2016-04-01&g=2016-04-01) is bepaald, kan de minister van het eerste lid afwijken.
 
 ##### Artikel 11
 
@@ -302,7 +302,7 @@ De minister kan bij de verlening van de subsidie verplichtingen opleggen als bed
 
 4. Indien de aanvraag tot vaststellen een subsidie van € 125.000 of meer bedraagt gaat de aanvraag tot vaststelling van de subsidie voorts vergezeld van:
 
-- a. een assurancerapport van een accountant dat is opgesteld overeenkomstig een door de minister vastgesteld model met inachtneming van een door de minister vastgesteld protocol en, indien toepassing wordt gegeven aan [artikel 26](https://wetten.overheid.nl/jci1.3:c:BWBR0035433&paragraaf=7&artikel=26&z=2016-01-01&g=2016-01-01), een controleverklaring van een accountant;
+- a. een assurancerapport van een accountant dat is opgesteld overeenkomstig een door de minister vastgesteld model met inachtneming van een door de minister vastgesteld protocol en, indien toepassing wordt gegeven aan [artikel 26](https://wetten.overheid.nl/jci1.3:c:BWBR0035433&paragraaf=7&artikel=26&z=2016-04-01&g=2016-04-01), een controleverklaring van een accountant;
 
 - b. een rapport van feitelijke bevindingen omtrent de naleving van de aan de subsidie verbonden verplichtingen door de subsidieontvanger, opgesteld door een accountant overeenkomstig een door de minister vastgesteld model met inachtneming van een door de minister vastgesteld protocol.
 
@@ -338,9 +338,9 @@ De minister kan bij de verlening van de subsidie verplichtingen opleggen als bed
 
 ##### Artikel 27
 
-1. In afwijking van [artikel 6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035433&paragraaf=2&artikel=6&z=2016-01-01&g=2016-01-01), wordt de aanvraag tot verlening van de subsidie voor het jaar 2015 uiterlijk 31 december 2014 ingediend. [Artikel 10, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035433&paragraaf=3&artikel=10&z=2016-01-01&g=2016-01-01), is van overeenkomstige toepassing.
+1. In afwijking van [artikel 6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035433&paragraaf=2&artikel=6&z=2016-04-01&g=2016-04-01), wordt de aanvraag tot verlening van de subsidie voor het jaar 2015 uiterlijk 31 december 2014 ingediend. [Artikel 10, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035433&paragraaf=3&artikel=10&z=2016-04-01&g=2016-04-01), is van overeenkomstige toepassing.
 
-2. In afwijking van [artikel 10, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035433&paragraaf=3&artikel=10&z=2016-01-01&g=2016-01-01), kan de minister na ontvangst van de aanvraag tot verlening van de subsidie voor het jaar 2015 ambtshalve voorschotten verlenen ten behoeve van de maanden januari, februari en maart 2015.
+2. In afwijking van [artikel 10, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035433&paragraaf=3&artikel=10&z=2016-04-01&g=2016-04-01), kan de minister na ontvangst van de aanvraag tot verlening van de subsidie voor het jaar 2015 ambtshalve voorschotten verlenen ten behoeve van de maanden januari, februari en maart 2015.
 
 ##### Artikel 28
 
@@ -349,5 +349,23 @@ Deze regeling treedt in werking met ingang van 1 januari 2015 en vervalt met ing
 ##### Artikel 29
 
 Deze regeling wordt aangehaald als: Subsidieregeling abortusklinieken.
+
+Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
+
+##### Artikel 1a
+
+Op deze regeling is de [Kaderregeling subsidies OCW, SZW en VWS](https://wetten.overheid.nl/jci1.3:c:BWBR0037603&wetgeving) niet van toepassing.
+
+#### Paragraaf 2. Aanvraag tot verlening
+
+#### Paragraaf 3. Verlening en bevoorschotting
+
+#### Paragraaf 4. Verplichtingen
+
+#### Paragraaf 5. Aanvraag tot vaststelling
+
+#### Paragraaf 6. Vaststelling
+
+#### Paragraaf 7. Slotbepalingen
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
