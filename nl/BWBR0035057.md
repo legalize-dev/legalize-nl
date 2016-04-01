@@ -4,7 +4,7 @@ identifier: "BWBR0035057"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2016-04-01"
-last_updated: "2014-04-25"
+last_updated: "2016-04-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0035057"
 soort: "ministeriele-regeling"
@@ -56,7 +56,7 @@ In deze regeling wordt verstaan onder:
 
 1. De minister kan, in het kader van de pilot tweetalig primair onderwijs, een subsidie verstrekken aan een bevoegd gezag.
 
-2. De subsidie wordt verstrekt, ten behoeve van scholen die van 1 augustus 2014 tot en met 31 juli 2019 of van 1 augustus 2015 tot en met 31 juli 2019 deelnemen aan de pilot tweetalig primair onderwijs, met inachtneming van de [artikelen 3 tot en met 11](https://wetten.overheid.nl/jci1.3:c:BWBR0035057&artikel=3&z=2014-04-25&g=2014-04-25).
+2. De subsidie wordt verstrekt, ten behoeve van scholen die van 1 augustus 2014 tot en met 31 juli 2019 of van 1 augustus 2015 tot en met 31 juli 2019 deelnemen aan de pilot tweetalig primair onderwijs, met inachtneming van de [artikelen 3 tot en met 11](https://wetten.overheid.nl/jci1.3:c:BWBR0035057&artikel=3&z=2016-04-01&g=2016-04-01).
 
 ##### Artikel 3. Subsidieaanvrager
 
@@ -76,9 +76,9 @@ In deze regeling wordt verstaan onder:
 
 1. Het aanmeldingsformulier deelname pilot tweetalig primair onderwijs, wordt beschouwd als aanvraag voor subsidie.
 
-2. Het aanmeldingsformulier deelname pilot tweetalig primair onderwijs diende voor de eerste groep scholen, zoals bedoeld in [artikel 6, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035057&artikel=6&z=2014-04-25&g=2014-04-25), uiterlijk op 28 oktober 2013 te zijn ingediend bij het Europees Platform.
+2. Het aanmeldingsformulier deelname pilot tweetalig primair onderwijs diende voor de eerste groep scholen, zoals bedoeld in [artikel 6, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035057&artikel=6&z=2016-04-01&g=2016-04-01), uiterlijk op 28 oktober 2013 te zijn ingediend bij het Europees Platform.
 
-3. Het aanmeldingsformulier deelname pilot tweetalig primair onderwijs dient voor de tweede groep scholen, zoals bedoeld in [artikel 6, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035057&artikel=6&z=2014-04-25&g=2014-04-25), uiterlijk op 19 juli 2014 te zijn ingediend bij het Europees Platform.
+3. Het aanmeldingsformulier deelname pilot tweetalig primair onderwijs dient voor de tweede groep scholen, zoals bedoeld in [artikel 6, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035057&artikel=6&z=2016-04-01&g=2016-04-01), uiterlijk op 19 juli 2014 te zijn ingediend bij het Europees Platform.
 
 4. Het aanmeldingsformulier deelname pilot tweetalig primair onderwijs is digitaal beschikbaar op de website van het Europees Platform via www.europeesplatform.nl/tpo en wordt bij het Europees Platform digitaal ingediend.
 
@@ -96,9 +96,9 @@ Aan een bevoegd gezag wordt subsidie verstrekt voor de activiteiten zoals vermel
 
 ##### Artikel 7. Subsidiebedrag
 
-1. De subsidie bedraagt € 10.000 per jaar voor de eerste groep scholen, zoals bedoeld in [artikel 6, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035057&artikel=6&z=2014-04-25&g=2014-04-25), in de jaren 2014, 2015, 2016, 2017 en 2018 met een maximum van € 50.000 per school voor het gehele subsidietijdvak.
+1. De subsidie bedraagt € 10.000 per jaar voor de eerste groep scholen, zoals bedoeld in [artikel 6, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035057&artikel=6&z=2016-04-01&g=2016-04-01), in de jaren 2014, 2015, 2016, 2017 en 2018 met een maximum van € 50.000 per school voor het gehele subsidietijdvak.
 
-2. De subsidie bedraagt € 10.000 per jaar voor de tweede groep scholen, zoals bedoeld in [artikel 6, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035057&artikel=6&z=2014-04-25&g=2014-04-25), in de jaren 2015, 2016, 2017 en 2018 met een maximum van € 40.000 per school voor het gehele subsidietijdvak.
+2. De subsidie bedraagt € 10.000 per jaar voor de tweede groep scholen, zoals bedoeld in [artikel 6, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035057&artikel=6&z=2016-04-01&g=2016-04-01), in de jaren 2015, 2016, 2017 en 2018 met een maximum van € 40.000 per school voor het gehele subsidietijdvak.
 
 ##### Artikel 8. Begrotingsvoorbehoud
 
@@ -124,7 +124,7 @@ Subsidie ten laste van een begroting die nog niet is vastgesteld, wordt verstrek
 
 ##### Artikel 10. Steekproefsgewijze controle
 
-1. Gedurende een jaar na afloop van de in [artikel 6, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035057&artikel=6&z=2014-04-25&g=2014-04-25), genoemde datum kan de minister steekproeven uitvoeren naar de uitvoering van gesubsidieerde activiteiten en kan de minister het bevoegd gezag verzoeken om aan te tonen dat de gesubsidieerde activiteiten zijn uitgevoerd, en dat aan de aan de subsidie verbonden verplichtingen is voldaan.
+1. Gedurende een jaar na afloop van de in [artikel 6, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035057&artikel=6&z=2016-04-01&g=2016-04-01), genoemde datum kan de minister steekproeven uitvoeren naar de uitvoering van gesubsidieerde activiteiten en kan de minister het bevoegd gezag verzoeken om aan te tonen dat de gesubsidieerde activiteiten zijn uitgevoerd, en dat aan de aan de subsidie verbonden verplichtingen is voldaan.
 
 2. Het bevoegd gezag toont in dat geval op verzoek aan de hand van bijvoorbeeld een prestatiedocument zoals de voortgangsrapportage, een lesrooster, factuur, congresprogramma, rapport, folder, foto’s, etc. aan dat de gesubsidieerde activiteiten zijn uitgevoerd en dat aan de aan de subsidie verbonden verplichtingen is voldaan.
 
@@ -134,13 +134,13 @@ De betaling van het subsidiebedrag vindt jaarlijks plaats uiterlijk op 1 septemb
 
 ##### Artikel 12. Subsidievaststelling en terugvordering
 
-1. De subsidie wordt jaarlijks direct vastgesteld op het in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0035057&artikel=7&z=2014-04-25&g=2014-04-25) genoemde subsidiebedrag.
+1. De subsidie wordt jaarlijks direct vastgesteld op het in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0035057&artikel=7&z=2016-04-01&g=2016-04-01) genoemde subsidiebedrag.
 
 2. Het niet voldoen aan de aan de subsidie verbonden verplichtingen kan tot gevolg hebben dat de subsidie wordt beëindigd en vervolgbetalingen worden stopgezet en reeds betaalde subsidie geheel of gedeeltelijk wordt teruggevorderd.
 
 ##### Artikel 13. Toepasselijke regelgeving
 
-Deze subsidie wordt verstrekt op grond van de [artikelen 116](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=116) en [123 van de Wet op het primair onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=123) en [artikel 2 eerste lid van de Regeling OCW-subsidies](https://wetten.overheid.nl/jci1.3:c:BWBR0028820&artikel=2). Deze wet en regeling, alsmede de navolgende regelgeving is van toepassing op de subsidieverstrekking:
+Deze subsidie wordt verstrekt op grond van de [artikelen 116](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=116) en [123 van de Wet op het primair onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=123). Deze wet en regeling, alsmede de navolgende regelgeving is van toepassing op de subsidieverstrekking:
 
 - –. [Wet overige OCW-subsidies](https://wetten.overheid.nl/jci1.3:c:BWBR0009458);
 
