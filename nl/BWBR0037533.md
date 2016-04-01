@@ -4,7 +4,7 @@ identifier: "BWBR0037533"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-10-01"
-last_updated: "2016-02-08"
+last_updated: "2016-04-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0037533"
 soort: "ministeriele-regeling"
@@ -46,31 +46,21 @@ entry_into_force: "2016-01-15"
 
 ##### Artikel 4.1. [Subsidieregeling instandhouding monumenten](https://wetten.overheid.nl/jci1.3:c:BWBR0032075)
 
-Wijzigt de Subsidieregeling instandhouding monumenten.
-
 Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel 4.2. [Subsidieregeling stimulering herbestemming monumenten](https://wetten.overheid.nl/jci1.3:c:BWBR0030544)
 
-Wijzigt de Subsidieregeling stimulering herbestemming monumenten.
+Dit onderdeel is nog niet inwerking getreden
+
+##### Artikel 4.3. [Organisatie- en mandaatbesluit OCW 2008](https://wetten.overheid.nl/jci1.3:c:BWBR0023543&wetgeving)
 
 Dit onderdeel is nog niet inwerking getreden
 
-##### Artikel 4.3. [Organisatie- en mandaatbesluit OCW 2008](https://wetten.overheid.nl/jci1.3:c:BWBR0023543)
-
-Wijzigt het Organisatie- en mandaatbesluit OCW 2008.
-
-Dit onderdeel is nog niet inwerking getreden
-
-##### Artikel 4.4. [Beleidsregel erkenning tot het Nederlands cultureel erfgoed behorende monument en gelegen buiten Nederland](https://wetten.overheid.nl/jci1.3:c:BWBR0036824)
-
-Wijzigt de Beleidsregel erkenning tot het Nederlands cultureel erfgoed behorende monumenten gelegen buiten Nederland.
+##### Artikel 4.4. [Beleidsregel erkenning tot het Nederlands cultureel erfgoed behorende monument en gelegen buiten Nederland](https://wetten.overheid.nl/jci1.3:c:BWBR0036824&wetgeving)
 
 Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel 4.5. [Regeling omgevingsrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0027471)
-
-Wijzigt de Regeling omgevingsrecht.
 
 Dit onderdeel is nog niet inwerking getreden
 
@@ -94,11 +84,11 @@ Besluit:
 
 ##### Artikel 5.1. Inwerkingtreding
 
-1. De [hoofdstukken 1](https://wetten.overheid.nl/jci1.3:c:BWBR0037533&hoofdstuk=1&z=2016-02-08&g=2016-02-08), [3](https://wetten.overheid.nl/jci1.3:c:BWBR0037533&hoofdstuk=3&z=2016-02-08&g=2016-02-08) en [5](https://wetten.overheid.nl/jci1.3:c:BWBR0037533&hoofdstuk=5&z=2016-02-08&g=2016-02-08) treden in werking met ingang van 8 februari 2016.
+1. De [hoofdstukken 1](https://wetten.overheid.nl/jci1.3:c:BWBR0037533&hoofdstuk=1&z=2016-04-01&g=2016-04-01), [3](https://wetten.overheid.nl/jci1.3:c:BWBR0037533&hoofdstuk=3&z=2016-04-01&g=2016-04-01) en [5](https://wetten.overheid.nl/jci1.3:c:BWBR0037533&hoofdstuk=5&z=2016-04-01&g=2016-04-01) treden in werking met ingang van 8 februari 2016.
 
-2. [Hoofdstuk 2](https://wetten.overheid.nl/jci1.3:c:BWBR0037533&hoofdstuk=2&z=2016-02-08&g=2016-02-08) en de [artikelen 4.1 tot en met 4.5](https://wetten.overheid.nl/jci1.3:c:BWBR0037533&hoofdstuk=4&artikel=4.1&z=2016-02-08&g=2016-02-08) treden in werking op 1 juli 2016.
+2. [Hoofdstuk 2](https://wetten.overheid.nl/jci1.3:c:BWBR0037533&hoofdstuk=2&z=2016-04-01&g=2016-04-01) en de [artikelen 4.1 tot en met 4.5](https://wetten.overheid.nl/jci1.3:c:BWBR0037533&hoofdstuk=4&artikel=4.1&z=2016-04-01&g=2016-04-01) treden in werking op 1 juli 2016.
 
-3. De [artikelen 4.6](https://wetten.overheid.nl/jci1.3:c:BWBR0037533&hoofdstuk=4&artikel=4.6&z=2016-02-08&g=2016-02-08) en [4.7](https://wetten.overheid.nl/jci1.3:c:BWBR0037533&hoofdstuk=4&artikel=4.7&z=2016-02-08&g=2016-02-08) treden in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin deze regeling wordt geplaatst en werken terug tot en met 4 november 2015.
+3. De [artikelen 4.6](https://wetten.overheid.nl/jci1.3:c:BWBR0037533&hoofdstuk=4&artikel=4.6&z=2016-04-01&g=2016-04-01) en [4.7](https://wetten.overheid.nl/jci1.3:c:BWBR0037533&hoofdstuk=4&artikel=4.7&z=2016-04-01&g=2016-04-01) treden in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin deze regeling wordt geplaatst en werken terug tot en met 4 november 2015.
 
 ##### Artikel 5.2. Citeertitel
 
@@ -122,7 +112,7 @@ Een instelling met een wettelijke taak dient jaarlijks uiterlijk op 30 juni een 
 
 ##### Artikel 3.2. In te dienen documenten
 
-1. Een aanvraag voor subsidie gaat vergezeld van een begroting en voor zover van toepassing een onderhouds- en investeringsplan als bedoeld in [artikel 3.9](https://wetten.overheid.nl/jci1.3:c:BWBR0037533&hoofdstuk=3&artikel=3.9&z=2016-02-08&g=2016-02-08).
+1. Een aanvraag voor subsidie gaat vergezeld van een begroting en voor zover van toepassing een onderhouds- en investeringsplan als bedoeld in [artikel 3.9](https://wetten.overheid.nl/jci1.3:c:BWBR0037533&hoofdstuk=3&artikel=3.9&z=2016-04-01&g=2016-04-01).
 
 2. De begroting behelst een overzicht van de voor het kalenderjaar geraamde baten en lasten van de aanvrager, voor zover deze betrekking hebben op de wettelijke taak waarmee de instelling is belast.
 
@@ -140,7 +130,39 @@ Een instelling met een wettelijke taak dient jaarlijks uiterlijk op 30 juni een 
 
 ##### Artikel 3.4. Subsidieplafonds
 
-**Gereserveerd**
+Voor de volgende instellingen met een wettelijke taak is voor subsidieverlening jaarlijks ten hoogste het volgende bedrag beschikbaar:
+
+| Instelling | Subsidieplafond |
+| --- | --- |
+| Stichting Film Instituut Nederland | € 3.200.000,– |
+| Stichting Haags Historisch Museum | € 240.770,– |
+| Stichting het Nederlands Openluchtmuseum, Nationaal Museum voor Nederlandse Volkskunde | € 6.523.713,– |
+| Stichting het Nederlands Persmuseum | € 100.000,– |
+| Stichting Het Nieuwe Instituut | € 2.965.520,– |
+| Stichting Het Rijksmuseum | € 27.142.365,– |
+| Stichting Joods Historisch Museum | € 1.000.000,– |
+| Stichting Keramiekmuseum Het Princessehof | € 100.000,– |
+| Stichting Koninklijk Kabinet van Schilderijen Mauritshuis | € 2.353.993,– |
+| Stichting Kröller-Müller Museum | € 6.100.330,– |
+| Stichting Museum Catharijneconvent | € 2.710.528,– |
+| Stichting Museum Slot Loevestein | € 702.497,– |
+| Stichting Nationaal Glasmuseum Leerdam | € 152.000,– |
+| Stichting Nationaal Museum van Wereldculturen | € 6.315.431,– |
+| Stichting Naturalis Biodiversity Centre | € 12.005.981,– |
+| Stichting Nederlands Fotomuseum | € 400.000,– |
+| Stichting Nederlands Letterkundig Museum en Documentatiecentrum | € 1.379.676,– |
+| Stichting Nederlands Scheepvaartmuseum Amsterdam | € 5.643.221,– |
+| Stichting Paleis Het Loo, Nationaal Museum | € 13.678.655,– |
+| Stichting Rijksmuseum Muiderslot | € 429.928,– |
+| Stichting Rijksmuseum Twenthe | € 1.884.752,– |
+| Stichting Rijksmuseum van Oudheden | € 3.014.902,– |
+| Stichting tot Beheer en Instandhouding van Teylers Museum | € 1.700.888,– |
+| Stichting tot beheer van het Museum Boerhaave, Rijksmuseum voor de geschiedenis van de natuurwetenschappen en van de geneeskunde | € 2.377.787,– |
+| Stichting tot Beheer van het Museum van het Boek / Museum Meermanno-Westreenianum | € 412.119,– |
+| Stichting tot Beheer van Huis Doorn | € 663.177,– |
+| Stichting tot Exploitatie van het Rijksbureau voor Kunsthistorische Documentatie | € 3.491.695,– |
+| Stichting Van Gogh Museum voorheen Rijksmuseum Vincent van Gogh / Rijksmuseum H.W. Mesdag | € 6.849.427,– |
+| Stichting Zuiderzeemuseum | € 4.437.899,– |
 
 ##### Artikel 3.5. Beslistermijn
 
