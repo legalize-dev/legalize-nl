@@ -4,7 +4,7 @@ identifier: "BWBR0036012"
 country: "nl"
 rank: "wet"
 publication_date: "2016-04-01"
-last_updated: "2015-07-01"
+last_updated: "2016-04-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0036012"
 soort: "wet"
@@ -57,7 +57,7 @@ Wijzigt de Arbeidstijdenwet.
 
 ##### Artikel IV
 
-De [Invoeringswet arbeid en zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0013009&wetgeving) wordt ingetrokken.
+De [Invoeringswet arbeid en zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0013009) wordt ingetrokken.
 
 ##### Artikel V
 
@@ -73,7 +73,7 @@ Wijzigt de Wet financiering sociale verzekeringen.
 
 ##### Artikel VIIA
 
-Onze Minister van Sociale Zaken en Werkgelegenheid zendt binnen drie jaar na de inwerkingtreding van [artikel I, onderdeel C](https://wetten.overheid.nl/jci1.3:c:BWBR0036012&artikel=I&z=2015-07-01&g=2015-07-01), van deze wet een verslag over de doeltreffendheid en de effecten van [artikel 3:1, zesde, zevende, achtste en negende lid, van de Wet arbeid en zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0013008&artikel=3:1) in de praktijk.
+Onze Minister van Sociale Zaken en Werkgelegenheid zendt binnen drie jaar na de inwerkingtreding van [artikel I, onderdeel C](https://wetten.overheid.nl/jci1.3:c:BWBR0036012&artikel=I&z=2016-04-01&g=2016-04-01), van deze wet een verslag over de doeltreffendheid en de effecten van [artikel 3:1, zesde, zevende, achtste en negende lid, van de Wet arbeid en zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0013008&artikel=3:1) in de praktijk.
 
 ##### Artikel VIII
 
