@@ -4,7 +4,7 @@ identifier: "BWBR0020517"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2023-09-01"
-last_updated: "2014-06-06"
+last_updated: "2016-04-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0020517"
 soort: "ministeriele-regeling"
@@ -80,7 +80,7 @@ In deze regeling wordt verstaan onder:
 
 1. Voor het cohort studenten waarvoor in jaar ‘t’ subsidie is verleend dient het bevoegd gezag voor 1 juli van het jaar ‘t+3’ een aanvraag in voor de subsidievaststelling.
 
-2. De aanvraag voor de subsidievaststelling bestaat uit een opgave waarin het totaal aantal maanden dat een student is opgeleid vermeld wordt. Tevens zal hierin melding worden gemaakt van het totaal aantal afgegeven diploma’s ten behoeve van de zorgmasteropleidingen tot advanced nurse practitioner of tot physician assistant. De vorengemelde opgave gaat vergezeld van een verklaring van een accountant als bedoeld in [artikel 393, eerste lid, van Boek 2 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=393), waaruit blijkt dat de gegevens van de opgave juist zijnen de verplichting, genoemd in [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020517&artikel=2&z=2014-06-06&g=2014-06-06), is nageleefd.
+2. De aanvraag voor de subsidievaststelling bestaat uit een opgave waarin het totaal aantal maanden dat een student is opgeleid vermeld wordt. Tevens zal hierin melding worden gemaakt van het totaal aantal afgegeven diploma’s ten behoeve van de zorgmasteropleidingen tot advanced nurse practitioner of tot physician assistant. De vorengemelde opgave gaat vergezeld van een verklaring van een accountant als bedoeld in [artikel 393, eerste lid, van Boek 2 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=393), waaruit blijkt dat de gegevens van de opgave juist zijnen de verplichting, genoemd in [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020517&artikel=2&z=2016-04-01&g=2016-04-01), is nageleefd.
 
 ##### Artikel 6
 
@@ -115,5 +115,11 @@ Deze regeling zal in de Staatscourant worden geplaatst.
 ##### Artikel 5a
 
 Binnen tweeëntwintig weken na ontvangst van de aanvraag tot vaststelling van de subsidie neemt de minister een besluit op de aanvraag.
+
+Deze regeling zal in de Staatscourant worden geplaatst.
+
+##### Artikel 1a
+
+Op deze regeling is de [Kaderregeling subsidies OCW, SZW en VWS](https://wetten.overheid.nl/jci1.3:c:BWBR0037603) niet van toepassing.
 
 Deze regeling zal in de Staatscourant worden geplaatst.
