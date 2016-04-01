@@ -4,7 +4,7 @@ identifier: "BWBR0030326"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-10-01"
-last_updated: "2016-01-01"
+last_updated: "2016-04-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0030326"
 soort: "ministeriele-regeling"
@@ -60,13 +60,13 @@ In deze regeling wordt verstaan onder:
 
 - c. **zorgopleiding:**
 
-- 1°. beroepsopleidende leerweg als bedoeld in [artikel 7.2.2, tweede lid, van de Wet educatie en beroepsonderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=7.2.2) van een beroepsopleiding als bedoeld in [artikel 1.1.1, onderdeel i, van de Wet educatie en beroepsonderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=1.1.1) die met een in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0030326&bijlage=1&z=2016-01-01&g=2016-01-01) van deze regeling genoemde code wordt vermeld in het Centraal register beroepsopleidingen, bedoeld in [artikel 6.4.1, eerste lid, van de Wet educatie en beroepsonderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=6.4.1);
+- 1°. beroepsopleidende leerweg als bedoeld in [artikel 7.2.2, tweede lid, van de Wet educatie en beroepsonderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=7.2.2) van een beroepsopleiding als bedoeld in [artikel 1.1.1, onderdeel i, van de Wet educatie en beroepsonderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=1.1.1) die met een in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0030326&bijlage=1&z=2016-04-01&g=2016-04-01) van deze regeling genoemde code wordt vermeld in het Centraal register beroepsopleidingen, bedoeld in [artikel 6.4.1, eerste lid, van de Wet educatie en beroepsonderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=6.4.1);
 
-- 2°. beroepsbegeleidende leerweg als bedoeld in [artikel 7.2.2, tweede lid, van de Wet educatie en beroepsonderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=7.2.2) van een beroepsopleiding als bedoeld in [artikel 1.1.1, onderdeel i, van de Wet educatie en beroepsonderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=1.1.1) die met een in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0030326&bijlage=2&z=2016-01-01&g=2016-01-01) van deze regeling genoemde code wordt vermeld in het Centraal register beroepsopleidingen, bedoeld in [artikel 6.4.1, eerste lid, van de Wet educatie en beroepsonderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=6.4.1);
+- 2°. beroepsbegeleidende leerweg als bedoeld in [artikel 7.2.2, tweede lid, van de Wet educatie en beroepsonderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=7.2.2) van een beroepsopleiding als bedoeld in [artikel 1.1.1, onderdeel i, van de Wet educatie en beroepsonderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=1.1.1) die met een in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0030326&bijlage=2&z=2016-04-01&g=2016-04-01) van deze regeling genoemde code wordt vermeld in het Centraal register beroepsopleidingen, bedoeld in [artikel 6.4.1, eerste lid, van de Wet educatie en beroepsonderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=6.4.1);
 
-- 3°. voltijds of deeltijds opleiding als bedoeld in [artikel 7.7, eerste lid, van de Wet op het hoger onderwijs en wetenschappelijk onderzoek](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=7.7) die met een in [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0030326&bijlage=3&z=2016-01-01&g=2016-01-01) van deze regeling genoemde code wordt vermeld in het Centraal register opleidingen hoger onderwijs, bedoeld in [artikel 6.13 van de Wet op het hoger onderwijs en wetenschappelijk onderzoek](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=6.13);
+- 3°. voltijds of deeltijds opleiding als bedoeld in [artikel 7.7, eerste lid, van de Wet op het hoger onderwijs en wetenschappelijk onderzoek](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=7.7) die met een in [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0030326&bijlage=3&z=2016-04-01&g=2016-04-01) van deze regeling genoemde code wordt vermeld in het Centraal register opleidingen hoger onderwijs, bedoeld in [artikel 6.13 van de Wet op het hoger onderwijs en wetenschappelijk onderzoek](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=6.13);
 
-- 4°. duale opleiding als bedoeld in [artikel 7.7, eerste lid, van de Wet op het hoger onderwijs en wetenschappelijk onderzoek](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=7.7) die met een in [bijlage 4](https://wetten.overheid.nl/jci1.3:c:BWBR0030326&bijlage=4&z=2016-01-01&g=2016-01-01) van deze regeling genoemde code wordt vermeld in het Centraal register opleidingen hoger onderwijs, bedoeld in [artikel 6.13 van de Wet op het hoger onderwijs en wetenschappelijk onderzoek](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=6.13);
+- 4°. duale opleiding als bedoeld in [artikel 7.7, eerste lid, van de Wet op het hoger onderwijs en wetenschappelijk onderzoek](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=7.7) die met een in [bijlage 4](https://wetten.overheid.nl/jci1.3:c:BWBR0030326&bijlage=4&z=2016-04-01&g=2016-04-01) van deze regeling genoemde code wordt vermeld in het Centraal register opleidingen hoger onderwijs, bedoeld in [artikel 6.13 van de Wet op het hoger onderwijs en wetenschappelijk onderzoek](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=6.13);
 
 - d. **stageplaats:**
 
@@ -96,7 +96,7 @@ In deze regeling wordt verstaan onder:
 
 ##### Artikel 2
 
-1. De minister kan aan een stageaanbieder jaarlijks op aanvraag een subsidie verstrekken voor het realiseren van stageplaatsen. De subsidie voor een zorgopleiding als bedoeld in [artikel 1, onderdeel c, onder 1° en 3°](https://wetten.overheid.nl/jci1.3:c:BWBR0030326&artikel=1&z=2016-01-01&g=2016-01-01), bestaat uit een tegemoetkoming in de begeleidingskosten en voor een zorgopleiding als bedoeld in artikel 1, onderdeel c, onder 2° en 4°, uit een tegemoetkoming in de loonkosten.
+1. De minister kan aan een stageaanbieder jaarlijks op aanvraag een subsidie verstrekken voor het realiseren van stageplaatsen. De subsidie voor een zorgopleiding als bedoeld in [artikel 1, onderdeel c, onder 1° en 3°](https://wetten.overheid.nl/jci1.3:c:BWBR0030326&artikel=1&z=2016-04-01&g=2016-04-01), bestaat uit een tegemoetkoming in de begeleidingskosten en voor een zorgopleiding als bedoeld in artikel 1, onderdeel c, onder 2° en 4°, uit een tegemoetkoming in de loonkosten.
 
 2. De subsidie wordt per studiejaar verstrekt.
 
@@ -104,21 +104,21 @@ In deze regeling wordt verstaan onder:
 
 4. Het subsidieplafond voor het verstrekken van subsidies bedraagt per studiejaar € 112.000.000, waarvan:
 
-- a. 40% gelijkelijk wordt verdeeld over het aantal gerealiseerde stageplaatsen voor zorgopleidingen die blijkens de [bijlagen 1 tot en met 4](https://wetten.overheid.nl/jci1.3:c:BWBR0030326&bijlage=1&z=2016-01-01&g=2016-01-01) behoren tot categorie A, tot ten hoogste € 2.700 per gerealiseerde stageplaats;
+- a. 40% gelijkelijk wordt verdeeld over het aantal gerealiseerde stageplaatsen voor zorgopleidingen die blijkens de [bijlagen 1 tot en met 4](https://wetten.overheid.nl/jci1.3:c:BWBR0030326&bijlage=1&z=2016-04-01&g=2016-04-01) behoren tot categorie A, tot ten hoogste € 2.700 per gerealiseerde stageplaats;
 
-- b. 33% gelijkelijk wordt verdeeld over het aantal gerealiseerde stageplaatsen voor zorgopleidingen die blijkens de [bijlagen 1 tot en met 4](https://wetten.overheid.nl/jci1.3:c:BWBR0030326&bijlage=1&z=2016-01-01&g=2016-01-01) behoren tot categorie B, C of D, tot ten hoogste € 1.800 per gerealiseerde stageplaats;
+- b. 33% gelijkelijk wordt verdeeld over het aantal gerealiseerde stageplaatsen voor zorgopleidingen die blijkens de [bijlagen 1 tot en met 4](https://wetten.overheid.nl/jci1.3:c:BWBR0030326&bijlage=1&z=2016-04-01&g=2016-04-01) behoren tot categorie B, C of D, tot ten hoogste € 1.800 per gerealiseerde stageplaats;
 
-- c. 26% gelijkelijk wordt verdeeld over het aantal gerealiseerde stageplaatsen voor zorgopleidingen die blijkens de [bijlagen 1 tot en met 4](https://wetten.overheid.nl/jci1.3:c:BWBR0030326&bijlage=1&z=2016-01-01&g=2016-01-01) behoren tot categorie C, tot ten hoogste € 3.000 per gerealiseerde stageplaats.
+- c. 26% gelijkelijk wordt verdeeld over het aantal gerealiseerde stageplaatsen voor zorgopleidingen die blijkens de [bijlagen 1 tot en met 4](https://wetten.overheid.nl/jci1.3:c:BWBR0030326&bijlage=1&z=2016-04-01&g=2016-04-01) behoren tot categorie C, tot ten hoogste € 3.000 per gerealiseerde stageplaats.
 
-- d. 1% gelijkelijk wordt verdeeld over het aantal gerealiseerde stageplaatsen voor zorgopleidingen die blijkens de [bijlagen 1 tot en met 4](https://wetten.overheid.nl/jci1.3:c:BWBR0030326&bijlage=1&z=2016-01-01&g=2016-01-01) behoren tot categorie D, tot ten hoogste € 1.400 per gerealiseerde stageplaats.
+- d. 1% gelijkelijk wordt verdeeld over het aantal gerealiseerde stageplaatsen voor zorgopleidingen die blijkens de [bijlagen 1 tot en met 4](https://wetten.overheid.nl/jci1.3:c:BWBR0030326&bijlage=1&z=2016-04-01&g=2016-04-01) behoren tot categorie D, tot ten hoogste € 1.400 per gerealiseerde stageplaats.
 
 5. Tenzij de stageaanbieder bij de aanvraag een ander aantal gerealiseerde stageplaatsen opgeeft, ontleent de minister, door tussenkomst van Stichting Beroepsonderwijs en Bedrijfsleven, het aantal gerealiseerde stageplaatsen, bedoeld in het vorige lid:
 
-- a. voor een zorgopleiding bij een onderwijsinstelling als bedoeld in [artikel 1, onderdeel b, onder 1°](https://wetten.overheid.nl/jci1.3:c:BWBR0030326&artikel=1&z=2016-01-01&g=2016-01-01), aan het basisregister onderwijs, bedoeld in artikel 24b van de Wet op het onderwijstoezicht;
+- a. voor een zorgopleiding bij een onderwijsinstelling als bedoeld in [artikel 1, onderdeel b, onder 1°](https://wetten.overheid.nl/jci1.3:c:BWBR0030326&artikel=1&z=2016-04-01&g=2016-04-01), aan het basisregister onderwijs, bedoeld in artikel 24b van de Wet op het onderwijstoezicht;
 
-- b. voor een zorgopleiding bij een onderwijsinstelling als bedoeld in [artikel 1, onderdeel b, onder 2°, 3° of 4°](https://wetten.overheid.nl/jci1.3:c:BWBR0030326&artikel=1&z=2016-01-01&g=2016-01-01), aan gegevens die de minister zijn verstrekt door de onderwijsinstelling.
+- b. voor een zorgopleiding bij een onderwijsinstelling als bedoeld in [artikel 1, onderdeel b, onder 2°, 3° of 4°](https://wetten.overheid.nl/jci1.3:c:BWBR0030326&artikel=1&z=2016-04-01&g=2016-04-01), aan gegevens die de minister zijn verstrekt door de onderwijsinstelling.
 
-6. Indien de stageaanbieder bij de aanvraag een hoger aantal gerealiseerde stageplaatsen opgeeft en de aanvraag uitgaande van de maximumbedragen per gerealiseerde stageplaats een subsidie betreft van meer dan € 150.000 voor stageplaatsen als bedoeld in [artikel 1, onder d, onderdeel 1e](https://wetten.overheid.nl/jci1.3:c:BWBR0030326&artikel=1&z=2016-01-01&g=2016-01-01), of van meer dan € 150.000 voor stageplaatsen als bedoeld in artikel 1, onder d, onderdeel 2e, is de aanvraag voorzien van een assurancerapport van een accountant als bedoeld in [artikel 393, eerste lid, van Boek 2 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=393), overeenkomstig een door de minister vastgesteld controleprotocol en modelassurancerapport.
+6. Indien de stageaanbieder bij de aanvraag een hoger aantal gerealiseerde stageplaatsen opgeeft en de aanvraag uitgaande van de maximumbedragen per gerealiseerde stageplaats een subsidie betreft van meer dan € 150.000 voor stageplaatsen als bedoeld in [artikel 1, onder d, onderdeel 1e](https://wetten.overheid.nl/jci1.3:c:BWBR0030326&artikel=1&z=2016-04-01&g=2016-04-01), of van meer dan € 150.000 voor stageplaatsen als bedoeld in artikel 1, onder d, onderdeel 2e, is de aanvraag voorzien van een assurancerapport van een accountant als bedoeld in [artikel 393, eerste lid, van Boek 2 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=393), overeenkomstig een door de minister vastgesteld controleprotocol en modelassurancerapport.
 
 7. Indien de stageaanbieder bij de aanvraag een hoger aantal gerealiseerde stageplaatsen opgeeft en de aanvraag uitgaande van de maximumbedragen per gerealiseerde stageplaats een subsidie betreft van niet meer dan € 150.000, is de aanvraag voorzien van een overzicht, overeenkomstig een door de minister vastgesteld model, van alle gerealiseerde stageplaatsen waarvoor de subsidie wordt aangevraagd alsmede afschriften van de overeenkomsten tussen de deelnemers, de stageaanbieder en de onderwijsinstellingen. De stageaanbieder kan in plaats van het overzicht en de afschriften een assurancerapport als bedoeld in het zesde lid overleggen.
 
@@ -126,11 +126,11 @@ In deze regeling wordt verstaan onder:
 
 9. Het assurancerapport heeft of het overzicht en de afschriften hebben betrekking op:
 
-- a. alle gerealiseerde stageplaatsen als bedoeld in [artikel 1, onder d, onderdeel 1e](https://wetten.overheid.nl/jci1.3:c:BWBR0030326&artikel=1&z=2016-01-01&g=2016-01-01), waarvoor de subsidie wordt aangevraagd, indien het hoger aantal gerealiseerde stageplaatsen dat bij de aanvraag is opgegeven uitsluitend stageplaatsen als bedoeld in artikel 1, onder d, onderdeel 1e, betreft;
+- a. alle gerealiseerde stageplaatsen als bedoeld in [artikel 1, onder d, onderdeel 1e](https://wetten.overheid.nl/jci1.3:c:BWBR0030326&artikel=1&z=2016-04-01&g=2016-04-01), waarvoor de subsidie wordt aangevraagd, indien het hoger aantal gerealiseerde stageplaatsen dat bij de aanvraag is opgegeven uitsluitend stageplaatsen als bedoeld in artikel 1, onder d, onderdeel 1e, betreft;
 
-- b. alle gerealiseerde stageplaatsen als bedoeld in [artikel 1, onder d, onderdeel 2e](https://wetten.overheid.nl/jci1.3:c:BWBR0030326&artikel=1&z=2016-01-01&g=2016-01-01), waarvoor de subsidie wordt aangevraagd, indien het hoger aantal gerealiseerde stageplaatsen dat bij de aanvraag is opgegeven uitsluitend stageplaatsen als bedoeld in artikel 1, onder d, onderdeel 2e, betreft;
+- b. alle gerealiseerde stageplaatsen als bedoeld in [artikel 1, onder d, onderdeel 2e](https://wetten.overheid.nl/jci1.3:c:BWBR0030326&artikel=1&z=2016-04-01&g=2016-04-01), waarvoor de subsidie wordt aangevraagd, indien het hoger aantal gerealiseerde stageplaatsen dat bij de aanvraag is opgegeven uitsluitend stageplaatsen als bedoeld in artikel 1, onder d, onderdeel 2e, betreft;
 
-- c. alle gerealiseerde stageplaatsen waarvoor de subsidie wordt aangevraagd, indien het hoger aantal gerealiseerde stageplaatsen dat bij de aanvraag is opgegeven zowel stageplaatsen als bedoeld in [artikel 1, onder d, onderdeel 1e](https://wetten.overheid.nl/jci1.3:c:BWBR0030326&artikel=1&z=2016-01-01&g=2016-01-01), betreft, als stageplaatsen als bedoeld in artikel 1, onder d, onderdeel 2e.
+- c. alle gerealiseerde stageplaatsen waarvoor de subsidie wordt aangevraagd, indien het hoger aantal gerealiseerde stageplaatsen dat bij de aanvraag is opgegeven zowel stageplaatsen als bedoeld in [artikel 1, onder d, onderdeel 1e](https://wetten.overheid.nl/jci1.3:c:BWBR0030326&artikel=1&z=2016-04-01&g=2016-04-01), betreft, als stageplaatsen als bedoeld in artikel 1, onder d, onderdeel 2e.
 
 ##### Artikel 3
 
@@ -173,6 +173,62 @@ Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte v
 ##### Artikel 8
 
 Deze regeling wordt aangehaald als: Subsidieregeling stageplaatsen zorg II.
+
+## Bijlage 1. Codes beroepsopleidende leerweg Centraal register beroepsopleidingen (BOL)
+
+| Code | Naam | Categorie |
+| --- | --- | --- |
+| 10426 | Verpleegkundige niveau 4 | A |
+| 93510 | Verpleegkundige niveau 4 | A |
+| 95520 | Verpleegkundige niveau 4 | A |
+| 10427 | Verzorgende niveau 3 | A |
+| 93260 | Verzorgende niveau 3 | A |
+| 94830 | Verzorgende niveau 3 | A |
+| 95530 | Verzorgende niveau 3 | A |
+| 10428 | Helpende Zorg niveau 2 | A |
+| 25498 | Helpende zorg en welzijn 2 | A |
+| 91420 | Zorghulp niveau 1 | A |
+| 92660 | Maatschappelijke zorg niveau 4 | A |
+| 92661 | Maatschappelijke zorg niveau 4 | A |
+| 92650 | Maatschappelijke zorg niveau 3 | A |
+| 92640 | Helpende Zorg en Welzijn niveau 2 | A |
+| 92630 | Pedagogisch medewerker niveau 4 | A |
+| 92631 | Pedagogisch medewerker niveau 4 | A |
+| 92662 | Maatschappelijke zorg niveau 4 | A |
+| 22191 | Verpleegkundige niveau 4 | A |
+| 22190 | Verzorgende niveau 3 | A |
+| 22189 | Helpende Zorg niveau 2 | A |
+| 22188 | Zorghulp niveau 1 | A |
+| 22195 | Maatschappelijke Zorg niveau 4 | A |
+| 22197 | Pedagogisch medewerker niveau 4 | A |
+| 22193 | Doktersassistenten niveau 4 | A |
+| 91310 | Doktersassistenten niveau 4 | A |
+| 10776 | Doktersassistenten niveau 4 | A |
+| 95769 | Assistent Dienstverlening en Zorg niveau 1 | A |
+| 23186 | Tandartsassistent niveau 4 | A |
+| 25490 | Tandartsassistent niveau 4 | A |
+| 91410 | Tandartsassistent niveau 4 | A |
+| 22194 | Tandartsassistent niveau 4 | A |
+| 23178 | Apothekersassistent niveau 4 | A |
+| 25471 | Apothekersassistent niveau 4 | A |
+| 91300 | Apothekersassistent niveau 4 | A |
+| 22192 | Apothekersassistent niveau 4 | A |
+| 23180 | Doktersassistent niveau 4 | A |
+| 25473 | Doktersassistent niveau 4 | A |
+| 25498 | Helpende zorg en welzijn niveau 2 | A |
+| 23181 | Maatschappelijke zorg niveau 3 | A |
+| 23181 | Maatschappelijke zorg niveau 4 | A |
+| 25474 | Agogisch medewerker GGZ niveau 4 | A |
+| 25477 | Persoonlijk begeleider gehandicaptenzorg niveau 4 | A |
+| 25478 | Persoonlijk begeleider specifieke doelgroepen niveau 4 | A |
+| 25479 | Thuisbegeleider niveau 4 | A |
+| 25475 | Begeleider gehandicaptenzorg niveau 3 | A |
+| 25476 | Begeleider specifieke doelgroepen niveau 3 | A |
+| 23182 | Mbo-Verpleegkundige niveau 4 | A |
+| 25480 | Mbo-Verpleegkundige niveau 4 | A |
+| 25484 | Gespecialiseerd pedagogisch medewerker niveau 4 | A |
+| 23187 | Verzorgende IG niveau 3 | A |
+| 25491 | Verzorgende IG niveau 3 | A |
 
 ## Bijlage 1. Codes beroepsopleidende leerweg Centraal register beroepsopleidingen (BOL)
 
@@ -296,6 +352,12 @@ Deze regeling wordt aangehaald als: Subsidieregeling stageplaatsen zorg II.
 | 34116 | B Social Work niveau 5 | A |
 | 35158 | Pedagogiek niveau 5 | A |
 | 30023 B | Medische Hulpverlening niveau 5 | A |
+
+Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
+
+##### Artikel 1a
+
+Op deze regeling is de [Kaderregeling subsidies OCW, SZW en VWS](https://wetten.overheid.nl/jci1.3:c:BWBR0037603&wetgeving) niet van toepassing.
 
 ## Bijlage 4. Codes opleidingen Centraal register opleidingen hoger onderwijs (duaal)
 
