@@ -4,7 +4,7 @@ identifier: "BWBR0037319"
 country: "nl"
 rank: "wet"
 publication_date: "2016-07-01"
-last_updated: "2016-01-01"
+last_updated: "2016-04-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0037319"
 soort: "wet"
@@ -183,7 +183,7 @@ Wijzigt de Ziektewet.
 
 ##### Artikel XXXV. Eenmalige aanpassing bedragen
 
-1. Onze Minister van Sociale Zaken en Werkgelegenheid kan de bedragen, genoemd in de [artikelen VIII, onderdeel I](https://wetten.overheid.nl/jci1.3:c:BWBR0037319&artikel=VIII&z=2016-01-01&g=2016-01-01), [XIX, onderdeel Aa](https://wetten.overheid.nl/jci1.3:c:BWBR0037319&artikel=XIX&z=2016-01-01&g=2016-01-01), en [XX, onderdeel Aa](https://wetten.overheid.nl/jci1.3:c:BWBR0037319&artikel=XX&z=2016-01-01&g=2016-01-01), van deze wet eenmalig aanpassen na de datum van inwerkingtreding van dat artikelonderdeel.
+1. Onze Minister van Sociale Zaken en Werkgelegenheid kan de bedragen, genoemd in de [artikelen VIII, onderdeel I](https://wetten.overheid.nl/jci1.3:c:BWBR0037319&artikel=VIII&z=2016-04-01&g=2016-04-01), [XIX, onderdeel Aa](https://wetten.overheid.nl/jci1.3:c:BWBR0037319&artikel=XIX&z=2016-04-01&g=2016-04-01), en [XX, onderdeel Aa](https://wetten.overheid.nl/jci1.3:c:BWBR0037319&artikel=XX&z=2016-04-01&g=2016-04-01), van deze wet eenmalig aanpassen na de datum van inwerkingtreding van dat artikelonderdeel.
 
 2. Dit artikel vervalt zes maanden na de inwerkingtreding van het artikelonderdeel, genoemd in het eerste lid.
 
