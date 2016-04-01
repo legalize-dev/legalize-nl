@@ -4,7 +4,7 @@ identifier: "BWBR0032718"
 country: "nl"
 rank: "ministeriele_regeling_bes"
 publication_date: "2026-01-01"
-last_updated: "2013-09-17"
+last_updated: "2016-04-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0032718"
 soort: "ministeriele-regeling-BES"
@@ -56,9 +56,13 @@ Met het toezicht op de naleving van de [hoofdstukken 1](https://wetten.overheid.
 
 ##### Artikel 3
 
-1. De door de landelijk directeur van de Belastingdienst/Grote ondernemingen daartoe aangewezen medewerkers van de Belastingdienst/Grote ondernemingen, Bureau Toezicht Wwft zijn bevoegd om namens de Minister van Financiën besluiten te nemen ter uitvoering van de [artikelen 5.9](https://wetten.overheid.nl/jci1.3:c:BWBR0030824&artikel=5.9), [5.10](https://wetten.overheid.nl/jci1.3:c:BWBR0030824&artikel=5.10), [5.11](https://wetten.overheid.nl/jci1.3:c:BWBR0030824&artikel=5.11) en [5.12 van de Wet ter voorkoming van witwassen en financieren van terrorisme BES](https://wetten.overheid.nl/jci1.3:c:BWBR0030824&artikel=5.12), met uitzondering van het beslissen op bezwaarschriften.
+1. De door de landelijk directeur van de Belastingdienst/Grote ondernemingen daartoe aangewezen medewerkers van de Belastingdienst/Grote ondernemingen, Bureau Toezicht Wwft zijn bevoegd om namens de Minister van Financiën besluiten te nemen ter uitvoering van de [artikelen 5.9](https://wetten.overheid.nl/jci1.3:c:BWBR0030824&artikel=5.9), [5.10](https://wetten.overheid.nl/jci1.3:c:BWBR0030824&artikel=5.10), [5.11](https://wetten.overheid.nl/jci1.3:c:BWBR0030824&artikel=5.11) en [5.12 van de Wet ter voorkoming van witwassen en financieren van terrorisme BES](https://wetten.overheid.nl/jci1.3:c:BWBR0030824&artikel=5.12), met uitzondering van besluiten die betrekking hebben op overtreding van de [artikelen 4.2](https://wetten.overheid.nl/jci1.3:c:BWBR0030824&artikel=4.2) en [4.3 van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0030824&artikel=4.3), en met uitzondering van het beslissen op bezwaarschriften.
 
 2. De landelijk directeur van de Belastingdienst/Grote ondernemingen is belast met het beslissen op bezwaarschriften tegen besluiten van de Minister van Financiën die ingevolge het eerste lid in mandaat zijn genomen.
+
+3. De door de directeur van de Belastingdienst/Caribisch Nederland daartoe aangewezen medewerkers van de Belastingdienst/Caribisch Nederland zijn bevoegd om namens de Minister van Financiën besluiten te nemen ter uitvoering van de [artikelen 5.10](https://wetten.overheid.nl/jci1.3:c:BWBR0030824&artikel=5.10), [5.11](https://wetten.overheid.nl/jci1.3:c:BWBR0030824&artikel=5.11) en [5.12 van de Wet ter voorkoming van witwassen en financieren van terrorisme BES](https://wetten.overheid.nl/jci1.3:c:BWBR0030824&artikel=5.12), voor zover deze besluiten betrekking hebben op overtreding van de [artikelen 4.2](https://wetten.overheid.nl/jci1.3:c:BWBR0030824&artikel=4.2) en [4.3 van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0030824&artikel=4.3), en met uitzondering van het beslissen op bezwaarschriften.
+
+4. De directeur van de Belastingdienst/Caribisch Nederland is belast met het beslissen op bezwaarschriften tegen besluiten van de Minister van Financiën die ingevolge het derde lid in mandaat zijn genomen.
 
 ##### Artikel 4
 
