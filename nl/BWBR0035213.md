@@ -4,7 +4,7 @@ identifier: "BWBR0035213"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2020-04-01"
-last_updated: "2016-03-25"
+last_updated: "2016-04-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0035213"
 soort: "ministeriele-regeling"
@@ -52,7 +52,7 @@ In dit besluit wordt verstaan onder:
 
 - **centrale examenbank:** centrale examenbank, bedoeld in [artikel 11e van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&artikel=11e);
 
-- **College:** College Deskundigheid Financiële Dienstverlening, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0035213&paragraaf=2&artikel=2&z=2016-03-25&g=2016-03-25);
+- **College:** College Deskundigheid Financiële Dienstverlening, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0035213&paragraaf=2&artikel=2&z=2016-04-01&g=2016-04-01);
 
 - **exameninstituut:** exameninstituut als bedoeld in [artikel 4:9, derde lid, van de Wft](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=4:9);
 
@@ -84,17 +84,19 @@ Er is een College Deskundigheid Financiële Dienstverlening.
 
 - f. de regels, bedoeld in [artikel 11b, derde lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&artikel=11b), met betrekking tot examenreglementen als bedoeld in [artikel 11b, tweede lid van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&artikel=11b);
 
-- g. de regels, bedoeld in [artikel 11ca, zesde lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&artikel=11ca), met betrekking tot de afgifte van certificaten en diploma’s of de verstrekking van duplicaten daarvan;
+- g. de regels, bedoeld in [artikel 11ca, vierde lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&artikel=11ca), met betrekking tot de afgifte van certificaten en diploma’s of de verstrekking van duplicaten daarvan;
 
 - h. het toezicht op de naleving van de van toepassing zijnde voorschriften door erkende exameninstituten;
 
 - i. het inhoudelijk beheer van de centrale examenbank;
 
-- j. de regels, bedoeld in [artikel 11e, derde lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&artikel=11e), met betrekking tot de inrichting en beheer van de centrale examenbank;
+- j. de regels, bedoeld in [artikel 11e, vierde lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&artikel=11e), met betrekking tot de inrichting en beheer van de centrale examenbank;
 
 - k. een gelijkstelling als bedoeld in [artikel 171, vierde lid van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&artikel=171) van reeds bestaande diploma’s met diploma’s als bedoeld in [artikel 7 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&artikel=7);
 
-- l. het verlenen van een erkenning van beroepskwalificaties als bedoeld in [artikel 5 van de Algemene wet erkenning EU-beroepskwalificaties](https://wetten.overheid.nl/jci1.3:c:BWBR0023066&artikel=5), aan houders van een diploma voor financiële dienstverlening van een andere lidstaat of Zwitserland waarmee de vakbekwaamheid, bedoeld in [artikel 6, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&artikel=6), kan worden aangetoond.
+- l. het verlenen van een certificaat als bedoeld in [artikel 11, tweede lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&artikel=11) aan houders van een diploma of erkenning die gedurende een bepaalde periode vakinhoudelijk betrokken zijn geweest bij de ontwikkeling van examens met betrekking tot de voor hun beroepskwalificaties relevante eindtermen en toetstermen;
+
+- m. het verlenen van een erkenning van beroepskwalificaties als bedoeld in [artikel 5 van de Algemene wet erkenning EU-beroepskwalificaties](https://wetten.overheid.nl/jci1.3:c:BWBR0023066&artikel=5), aan houders van een diploma voor financiële dienstverlening van een andere lidstaat of Zwitserland waarmee de vakbekwaamheid, bedoeld in [artikel 6, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&artikel=6), kan worden aangetoond.
 
 2. Op verzoek van de Minister of de Autoriteit Financiële Markten adviseert het College over in dat verzoek nader te specificeren onderwerpen met betrekking tot de in het eerste lid genoemde onderwerpen.
 
@@ -154,7 +156,7 @@ Aan de voorzitter wordt mandaat verleend om namens de Minister:
 
 ##### Artikel 9
 
-Indien uitvoering wordt gegeven aan de [artikelen 7](https://wetten.overheid.nl/jci1.3:c:BWBR0035213&paragraaf=3&artikel=7&z=2016-03-25&g=2016-03-25) of [8](https://wetten.overheid.nl/jci1.3:c:BWBR0035213&paragraaf=3&artikel=8&z=2016-03-25&g=2016-03-25) luidt de ondertekening:
+Indien uitvoering wordt gegeven aan de [artikelen 7](https://wetten.overheid.nl/jci1.3:c:BWBR0035213&paragraaf=3&artikel=7&z=2016-04-01&g=2016-04-01) of [8](https://wetten.overheid.nl/jci1.3:c:BWBR0035213&paragraaf=3&artikel=8&z=2016-04-01&g=2016-04-01) luidt de ondertekening:
 
 De Minister van Financiën,
 
@@ -166,7 +168,7 @@ gevolgd door de handtekening en de naam van de voorzitter.
 
 ##### Artikel 10
 
-Het College verschaft de Minister desgevraagd schriftelijk informatie over de wijze waarop de bevoegdheden, bedoeld in de [artikelen 7](https://wetten.overheid.nl/jci1.3:c:BWBR0035213&paragraaf=3&artikel=7&z=2016-03-25&g=2016-03-25) en [8](https://wetten.overheid.nl/jci1.3:c:BWBR0035213&paragraaf=3&artikel=8&z=2016-03-25&g=2016-03-25), worden uitgeoefend.
+Het College verschaft de Minister desgevraagd schriftelijk informatie over de wijze waarop de bevoegdheden, bedoeld in de [artikelen 7](https://wetten.overheid.nl/jci1.3:c:BWBR0035213&paragraaf=3&artikel=7&z=2016-04-01&g=2016-04-01) en [8](https://wetten.overheid.nl/jci1.3:c:BWBR0035213&paragraaf=3&artikel=8&z=2016-04-01&g=2016-04-01), worden uitgeoefend.
 
 ##### Artikel 11
 
