@@ -4,7 +4,7 @@ identifier: "BWBR0026965"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-01-01"
-last_updated: "2016-01-01"
+last_updated: "2016-04-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0026965"
 soort: "ministeriele-regeling"
@@ -70,13 +70,13 @@ Besluit:
 
 - –. binnenschipper, kermisexploitant of circusartiest waarvan het kind een internaat of pleeggezin wordt gehuisvest, verzorgd en opgevoed;
 
-- k. **instellingssubsidie:** instellingssubsidie als bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0026965&paragraaf=2&artikel=4&z=2016-01-01&g=2016-01-01).
+- k. **instellingssubsidie:** instellingssubsidie als bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0026965&paragraaf=2&artikel=4&z=2016-04-01&g=2016-04-01).
 
 2. De minister kan voor de toepassing van deze regeling een persoon die in vergelijkbare omstandigheden verkeert, gelijk stellen met een binnenschipper, kermisexploitant of circusexploitant.
 
 ##### Artikel 2
 
-De [Kaderregeling VWS-subsidies](https://wetten.overheid.nl/jci1.3:c:BWBR0029947), met uitzondering van [artikel 17](https://wetten.overheid.nl/jci1.3:c:BWBR0029947&artikel=17) en [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029947&artikel=2), is van toepassing op een instellingssubsidie.
+De [artikelen 8.2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037603&artikel=8.2), en [10.1, eerste lid, van de Kaderregeling subsidies OCW, SZW en VWS](https://wetten.overheid.nl/jci1.3:c:BWBR0037603&artikel=10.1) zijn niet van toepassing op een instellingssubsidie.
 
 ##### Artikel 3
 
@@ -138,7 +138,7 @@ De minister kan aan een exploitant een instellingssubsidie verstrekken:
 
 - E:. een bedrag van € 6.014;
 
-- F:. een door de minister goed te keuren raming van het totale bedrag aan ouderbijdragen, bedoeld in de [artikelen 9](https://wetten.overheid.nl/jci1.3:c:BWBR0026965&paragraaf=4&artikel=9&z=2016-01-01&g=2016-01-01) en [10](https://wetten.overheid.nl/jci1.3:c:BWBR0026965&paragraaf=4&artikel=10&z=2016-01-01&g=2016-01-01).
+- F:. een door de minister goed te keuren raming van het totale bedrag aan ouderbijdragen, bedoeld in de [artikelen 9](https://wetten.overheid.nl/jci1.3:c:BWBR0026965&paragraaf=4&artikel=9&z=2016-04-01&g=2016-04-01) en [10](https://wetten.overheid.nl/jci1.3:c:BWBR0026965&paragraaf=4&artikel=10&z=2016-04-01&g=2016-04-01).
 
 2. Indien een internaat bestaat uit een samenstel van gebouwen en deze gebouwen onder meer dan één categorie vallen, zoals omschreven in het eerste lid, letter B, wordt voor de toepassing van dit artikel uitgegaan van het gebouw waarin het kind overnacht.
 
@@ -152,13 +152,13 @@ Voor de aanvraag van een instellingssubsidie wordt een door de minister vastgest
 
 ##### Artikel 7
 
-De aanvraag van een instellingssubsidie bevat een opgave van het aantal kinderen, genoemd in [artikel 5, eerste lid onder de letters A en D](https://wetten.overheid.nl/jci1.3:c:BWBR0026965&paragraaf=2&artikel=5&z=2016-01-01&g=2016-01-01). Deze opgave gaat vergezeld van een assurancerapport van een accountant als bedoeld in [artikel 393, eerste lid, van Boek 2 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=393) overeenkomstig een door de minister vastgesteld modelassurancerapport met inachtneming van een door de minister vastgesteld accountantsprotocol.
+De aanvraag van een instellingssubsidie bevat een opgave van het aantal kinderen, genoemd in [artikel 5, eerste lid onder de letters A en D](https://wetten.overheid.nl/jci1.3:c:BWBR0026965&paragraaf=2&artikel=5&z=2016-04-01&g=2016-04-01). Deze opgave gaat vergezeld van een assurancerapport van een accountant als bedoeld in [artikel 393, eerste lid, van Boek 2 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=393) overeenkomstig een door de minister vastgesteld modelassurancerapport met inachtneming van een door de minister vastgesteld accountantsprotocol.
 
 ##### Artikel 8
 
 1. De aanvraag van een instellingssubsidie wordt ingediend voor 1 november van het kalenderjaar voorafgaand aan het boekjaar waarvoor de instellingssubsidie wordt aangevraagd.
 
-2. Indien een exploitant voor de eerste maal een aanvraag om instellingssubsidie indient, wordt de aanvraag ingediend vóór 1 juli van enig kalenderjaar. Bij de aanvraag wordt opgave gedaan van het aantal kinderen dat hij voornemens is in een internaat dan wel pleeggezin te huisvesten, verzorgen en opvoeden. [Artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0026965&paragraaf=3&artikel=7&z=2016-01-01&g=2016-01-01) is op een dergelijke aanvraag niet van toepassing.
+2. Indien een exploitant voor de eerste maal een aanvraag om instellingssubsidie indient, wordt de aanvraag ingediend vóór 1 juli van enig kalenderjaar. Bij de aanvraag wordt opgave gedaan van het aantal kinderen dat hij voornemens is in een internaat dan wel pleeggezin te huisvesten, verzorgen en opvoeden. [Artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0026965&paragraaf=3&artikel=7&z=2016-04-01&g=2016-04-01) is op een dergelijke aanvraag niet van toepassing.
 
 #### Paragraaf 4. Subsidieverplichtingen
 
@@ -184,15 +184,15 @@ De aanvraag van een instellingssubsidie bevat een opgave van het aantal kinderen
 
 ##### Artikel 11
 
-Het belastbare inkomen, bedoeld in de [artikelen 9, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0026965&paragraaf=4&artikel=9&z=2016-01-01&g=2016-01-01), en [10, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0026965&paragraaf=4&artikel=10&z=2016-01-01&g=2016-01-01), is het belastbare inkomen dat is vermeld op de belastingaanslag over het tweede jaar voorafgaande aan het jaar waarvoor de instellingssubsidie wordt verstrekt.
+Het belastbare inkomen, bedoeld in de [artikelen 9, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0026965&paragraaf=4&artikel=9&z=2016-04-01&g=2016-04-01), en [10, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0026965&paragraaf=4&artikel=10&z=2016-04-01&g=2016-04-01), is het belastbare inkomen dat is vermeld op de belastingaanslag over het tweede jaar voorafgaande aan het jaar waarvoor de instellingssubsidie wordt verstrekt.
 
 ##### Artikel 12
 
-De ouderbijdrage, bedoeld in de [artikelen 9](https://wetten.overheid.nl/jci1.3:c:BWBR0026965&paragraaf=4&artikel=9&z=2016-01-01&g=2016-01-01) en [10](https://wetten.overheid.nl/jci1.3:c:BWBR0026965&paragraaf=4&artikel=10&z=2016-01-01&g=2016-01-01), is verschuldigd naar evenredigheid van het aantal schoolweken van het jaar dat het kind is geplaatst in een internaat of een pleeggezin.
+De ouderbijdrage, bedoeld in de [artikelen 9](https://wetten.overheid.nl/jci1.3:c:BWBR0026965&paragraaf=4&artikel=9&z=2016-04-01&g=2016-04-01) en [10](https://wetten.overheid.nl/jci1.3:c:BWBR0026965&paragraaf=4&artikel=10&z=2016-04-01&g=2016-04-01), is verschuldigd naar evenredigheid van het aantal schoolweken van het jaar dat het kind is geplaatst in een internaat of een pleeggezin.
 
 ##### Artikel 13
 
-De exploitant int de ouderbijdrage, bedoeld in de [artikelen 9](https://wetten.overheid.nl/jci1.3:c:BWBR0026965&paragraaf=4&artikel=9&z=2016-01-01&g=2016-01-01) en [10](https://wetten.overheid.nl/jci1.3:c:BWBR0026965&paragraaf=4&artikel=10&z=2016-01-01&g=2016-01-01).
+De exploitant int de ouderbijdrage, bedoeld in de [artikelen 9](https://wetten.overheid.nl/jci1.3:c:BWBR0026965&paragraaf=4&artikel=9&z=2016-04-01&g=2016-04-01) en [10](https://wetten.overheid.nl/jci1.3:c:BWBR0026965&paragraaf=4&artikel=10&z=2016-04-01&g=2016-04-01).
 
 ##### Artikel 14
 
@@ -202,7 +202,7 @@ De exploitant int de ouderbijdrage, bedoeld in de [artikelen 9](https://wetten.o
 
 ##### Artikel 15
 
-1. De exploitant doet binnen dertien weken na afloop van het boekjaar verslag over de wijze waarop uitvoering is gegeven aan de verplichtingen die zijn opgenomen in [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0026965&paragraaf=4&artikel=14&z=2016-01-01&g=2016-01-01).
+1. De exploitant doet binnen dertien weken na afloop van het boekjaar verslag over de wijze waarop uitvoering is gegeven aan de verplichtingen die zijn opgenomen in [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0026965&paragraaf=4&artikel=14&z=2016-04-01&g=2016-04-01).
 
 2. Het verslag, bedoeld in het eerste lid, wordt gedaan overeenkomstig een door de minister vastgesteld model.
 
@@ -210,7 +210,7 @@ De exploitant int de ouderbijdrage, bedoeld in de [artikelen 9](https://wetten.o
 
 ##### Artikel 16
 
-Met het toezicht op de naleving van de [artikelen 14](https://wetten.overheid.nl/jci1.3:c:BWBR0026965&paragraaf=4&artikel=14&z=2016-01-01&g=2016-01-01) en [15](https://wetten.overheid.nl/jci1.3:c:BWBR0026965&paragraaf=4&artikel=15&z=2016-01-01&g=2016-01-01) zijn belast de ambtenaren van de inspectie jeugdzorg, bedoeld in [artikel 9.1 van de Jeugdwet](https://wetten.overheid.nl/jci1.3:c:BWBR0034925&artikel=9.1).
+Met het toezicht op de naleving van de [artikelen 14](https://wetten.overheid.nl/jci1.3:c:BWBR0026965&paragraaf=4&artikel=14&z=2016-04-01&g=2016-04-01) en [15](https://wetten.overheid.nl/jci1.3:c:BWBR0026965&paragraaf=4&artikel=15&z=2016-04-01&g=2016-04-01) zijn belast de ambtenaren van de inspectie jeugdzorg, bedoeld in [artikel 9.1 van de Jeugdwet](https://wetten.overheid.nl/jci1.3:c:BWBR0034925&artikel=9.1).
 
 ##### Artikel 17
 
@@ -226,7 +226,7 @@ Vervallen
 
 ##### Artikel 19
 
-Indien bij de minister het vermoeden is gerezen dat [artikel 18](https://wetten.overheid.nl/jci1.3:c:BWBR0026965&paragraaf=4&artikel=18&z=2016-01-01&g=2016-01-01) niet is nageleefd, spant de subsidieontvanger zich desgevraagd in de jaarrekening van de desbetreffende organisatie over te leggen.
+Indien bij de minister het vermoeden is gerezen dat [artikel 18](https://wetten.overheid.nl/jci1.3:c:BWBR0026965&paragraaf=4&artikel=18&z=2016-04-01&g=2016-04-01) niet is nageleefd, spant de subsidieontvanger zich desgevraagd in de jaarrekening van de desbetreffende organisatie over te leggen.
 
 ##### Artikel 20
 
