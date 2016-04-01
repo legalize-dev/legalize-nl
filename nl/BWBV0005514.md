@@ -4,7 +4,7 @@ identifier: "BWBV0005514"
 country: "nl"
 rank: "verdrag"
 publication_date: "2016-04-01"
-last_updated: "2011-12-01"
+last_updated: "2016-04-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBV0005514"
 soort: "verdrag"
@@ -66,7 +66,7 @@ De bevoegde autoriteit geeft de attestatie de vita af overeenkomstig de bepaling
 
 ##### Artikel 5
 
-1. De attestatie wordt opgemaakt overeenkomstig het model zoals weergegeven in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBV0005514&bijlage=1&z=2011-12-01&g=2011-12-01) bij deze Overeenkomst. De attestatie wordt opgesteld in de taal van de autoriteit die deze afgeeft en in de Franse taal.
+1. De attestatie wordt opgemaakt overeenkomstig het model zoals weergegeven in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBV0005514&bijlage=1&z=2016-04-01&g=2016-04-01) bij deze Overeenkomst. De attestatie wordt opgesteld in de taal van de autoriteit die deze afgeeft en in de Franse taal.
 
 2. Alle op de attestatie aan te brengen vermeldingen worden geschreven in Latijnse drukletters; zij kunnen bovendien geschreven worden in de lettertekens van de taal van de autoriteit die de attestatie afgeeft.
 
@@ -80,21 +80,21 @@ Op de achterzijde van elke attestatie dient het volgende te worden vermeld:
 
 - a. Een verwijzing naar de Overeenkomst, ten minste gesteld in de taal of een van de officiële talen van elke Staat die, op het tijdstip van ondertekening van deze Overeenkomst, lid is van de Internationale Commissie voor de Burgerlijke Stand.
 
-- b. Een samenvatting van de [artikelen 1](https://wetten.overheid.nl/jci1.3:c:BWBV0005514&artikel=1&z=2011-12-01&g=2011-12-01), [2](https://wetten.overheid.nl/jci1.3:c:BWBV0005514&artikel=2&z=2011-12-01&g=2011-12-01), [4](https://wetten.overheid.nl/jci1.3:c:BWBV0005514&artikel=4&z=2011-12-01&g=2011-12-01), [5](https://wetten.overheid.nl/jci1.3:c:BWBV0005514&artikel=5&z=2011-12-01&g=2011-12-01) en [10](https://wetten.overheid.nl/jci1.3:c:BWBV0005514&artikel=10&z=2011-12-01&g=2011-12-01) van de Overeenkomst, ten minste gesteld in de taal van de autoriteit die de attestatie afgeeft.
+- b. Een samenvatting van de [artikelen 1](https://wetten.overheid.nl/jci1.3:c:BWBV0005514&artikel=1&z=2016-04-01&g=2016-04-01), [2](https://wetten.overheid.nl/jci1.3:c:BWBV0005514&artikel=2&z=2016-04-01&g=2016-04-01), [4](https://wetten.overheid.nl/jci1.3:c:BWBV0005514&artikel=4&z=2016-04-01&g=2016-04-01), [5](https://wetten.overheid.nl/jci1.3:c:BWBV0005514&artikel=5&z=2016-04-01&g=2016-04-01) en [10](https://wetten.overheid.nl/jci1.3:c:BWBV0005514&artikel=10&z=2016-04-01&g=2016-04-01) van de Overeenkomst, ten minste gesteld in de taal van de autoriteit die de attestatie afgeeft.
 
 ##### Artikel 7
 
-De vaste vermeldingen op de achterzijde van de attestatie worden voorzien van nummercoderingen, waarvan een lijst voorzien is in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBV0005514&bijlage=2&z=2011-12-01&g=2011-12-01) bij deze Overeenkomst.
+De vaste vermeldingen op de achterzijde van de attestatie worden voorzien van nummercoderingen, waarvan een lijst voorzien is in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBV0005514&bijlage=2&z=2016-04-01&g=2016-04-01) bij deze Overeenkomst.
 
 ##### Artikel 8
 
-1. Bij de bekrachtiging, aanvaarding of goedkeuring van deze Overeenkomst of de toetreding ertoe zal elke Overeenkomstsluitende Staat bij het Secretariaat-Generaal van de Internationale Commissie voor de Burgerlijke Stand de vertaling in zijn officiële taal of in zijn officiële talen nederleggen van de aanduidingen die zijn opgenomen in de lijst in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBV0005514&bijlage=2&z=2011-12-01&g=2011-12-01) bij deze Overeenkomst. Deze vertaling dient te worden goedgekeurd door het Bureau van de Internationale Commissie voor de Burgerlijke Stand.
+1. Bij de bekrachtiging, aanvaarding of goedkeuring van deze Overeenkomst of de toetreding ertoe zal elke Overeenkomstsluitende Staat bij het Secretariaat-Generaal van de Internationale Commissie voor de Burgerlijke Stand de vertaling in zijn officiële taal of in zijn officiële talen nederleggen van de aanduidingen die zijn opgenomen in de lijst in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBV0005514&bijlage=2&z=2016-04-01&g=2016-04-01) bij deze Overeenkomst. Deze vertaling dient te worden goedgekeurd door het Bureau van de Internationale Commissie voor de Burgerlijke Stand.
 
 2. Elke wijziging die in deze vertaling wordt aangebracht, dient te worden nedergelegd bij het Secretariaat-Generaal van de Internationale Commissie voor de Burgerlijke Stand en te worden goedgekeurd door het Bureau van de Internationale Commissie voor de Burgerlijke Stand.
 
 ##### Artikel 9
 
-1. De codering van de vermeldingen op de attestatie zoals weergeven in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBV0005514&bijlage=1&z=2011-12-01&g=2011-12-01) en de lijst met coderingen zoals vermeld in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBV0005514&bijlage=2&z=2011-12-01&g=2011-12-01) kunnen worden gewijzigd door een besluit dat bij gewone meerderheid van stemmen wordt genomen door de vertegenwoordigers van de lidstaten van de Internationale Commissie voor de Burgerlijke Stand en vertegenwoordigers van de Overeenkomstsluitende Staten die geen lid zijn. Bij elke wijziging dient rekening te worden gehouden met de coderingen die gebruikt worden in andere Overeenkomsten van de Internationale Commissie voor de Burgerlijke Stand.
+1. De codering van de vermeldingen op de attestatie zoals weergeven in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBV0005514&bijlage=1&z=2016-04-01&g=2016-04-01) en de lijst met coderingen zoals vermeld in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBV0005514&bijlage=2&z=2016-04-01&g=2016-04-01) kunnen worden gewijzigd door een besluit dat bij gewone meerderheid van stemmen wordt genomen door de vertegenwoordigers van de lidstaten van de Internationale Commissie voor de Burgerlijke Stand en vertegenwoordigers van de Overeenkomstsluitende Staten die geen lid zijn. Bij elke wijziging dient rekening te worden gehouden met de coderingen die gebruikt worden in andere Overeenkomsten van de Internationale Commissie voor de Burgerlijke Stand.
 
 2. Het in het eerste lid bedoelde besluit wordt nedergelegd bij de Zwitserse Bondsraad.
 
@@ -126,7 +126,7 @@ Elke lidstaat van de Internationale Commissie voor de Burgerlijke Stand, van de 
 
 2. Ten aanzien van de Staat die deze Overeenkomst na haar inwerkingtreding bekrachtigt, aanvaardt of goedkeurt of tot haar toetreedt, treedt de Overeenkomst in werking op de eerste dag van de vierde maand volgend op de maand waarin die Staat de akte van bekrachtiging, aanvaarding, goedkeuring of toetreding heeft nedergelegd.
 
-3. Het in [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBV0005514&artikel=9&z=2011-12-01&g=2011-12-01) bedoelde besluit treedt in werking, in de betrekkingen tussen de Staten die Partij zijn bij de Overeenkomst, te rekenen vanaf de eerste dag van de vierde maand na de nederlegging ervan.
+3. Het in [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBV0005514&artikel=9&z=2016-04-01&g=2016-04-01) bedoelde besluit treedt in werking, in de betrekkingen tussen de Staten die Partij zijn bij de Overeenkomst, te rekenen vanaf de eerste dag van de vierde maand na de nederlegging ervan.
 
 ##### Artikel 15
 
@@ -158,9 +158,9 @@ Geen enkel voorbehoud ten aanzien van deze Overeenkomst is toegestaan.
 
 - d. iedere opzegging van de Overeenkomst en de datum waarop deze van kracht wordt;
 
-- e. iedere verklaring op grond van de [artikelen 4](https://wetten.overheid.nl/jci1.3:c:BWBV0005514&artikel=4&z=2011-12-01&g=2011-12-01) en [10](https://wetten.overheid.nl/jci1.3:c:BWBV0005514&artikel=10&z=2011-12-01&g=2011-12-01);
+- e. iedere verklaring op grond van de [artikelen 4](https://wetten.overheid.nl/jci1.3:c:BWBV0005514&artikel=4&z=2016-04-01&g=2016-04-01) en [10](https://wetten.overheid.nl/jci1.3:c:BWBV0005514&artikel=10&z=2016-04-01&g=2016-04-01);
 
-- f. ieder besluit dat krachtens [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBV0005514&artikel=9&z=2011-12-01&g=2011-12-01) is genomen en de datum waarop dit van kracht wordt.
+- f. ieder besluit dat krachtens [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBV0005514&artikel=9&z=2016-04-01&g=2016-04-01) is genomen en de datum waarop dit van kracht wordt.
 
 2. De Zwitserse Bondsraad doet de Secretaris-Generaal van de Internationale Commissie voor de Burgerlijke Stand mededeling van elke overeenkomstig het eerste lid gedane kennisgeving.
 
