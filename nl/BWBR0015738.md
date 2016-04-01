@@ -4,7 +4,7 @@ identifier: "BWBR0015738"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-04-02"
-last_updated: "2016-01-01"
+last_updated: "2016-04-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0015738"
 soort: "ministeriele-regeling"
@@ -142,7 +142,7 @@ Niet tot de middelen, bedoeld in [artikel 31 van de wet](https://wetten.overheid
 
 - n. de eenmalige bijzondere uitkering, bedoeld in [artikel 21a, eerste lid, van het Besluit aanvullende arbeidsongeschiktheids- en invaliditeitsvoorzieningen militairen](https://wetten.overheid.nl/jci1.3:c:BWBR0012223&artikel=21a), dan wel artikel [21a, eerste lid, van het Besluit bijzondere militaire pensioenen](https://wetten.overheid.nl/jci1.3:c:BWBR0012222&artikel=21a).
 
-#### § 4. Uit- en aanbesteding
+#### § 4. Toetsing lijfrenten
 
 ##### Artikel 8. Definities
 
@@ -162,7 +162,7 @@ Deze paragraaf is van toepassing op de vaststelling van de aanspraak op vakantie
 
 ##### Artikel 10. In aanmerking te nemen vakantietoeslag
 
-Indien over het inkomen van de belanghebbende aanspraak op vakantietoeslag bestaat neemt het college bij de vaststelling van de hoogte van de algemene bijstand mede op grond van de [artikelen 11](https://wetten.overheid.nl/jci1.3:c:BWBR0015738&paragraaf=6&artikel=11&z=2016-01-01&g=2016-01-01), [12](https://wetten.overheid.nl/jci1.3:c:BWBR0015738&paragraaf=6&artikel=12&z=2016-01-01&g=2016-01-01), [13](https://wetten.overheid.nl/jci1.3:c:BWBR0015738&paragraaf=6&artikel=13&z=2016-01-01&g=2016-01-01) of [14](https://wetten.overheid.nl/jci1.3:c:BWBR0015738&paragraaf=6&artikel=14&z=2016-01-01&g=2016-01-01) berekende aanspraak op vakantietoeslag in aanmerking.
+Indien over het inkomen van de belanghebbende aanspraak op vakantietoeslag bestaat neemt het college bij de vaststelling van de hoogte van de algemene bijstand mede op grond van de [artikelen 11](https://wetten.overheid.nl/jci1.3:c:BWBR0015738&paragraaf=6&artikel=11&z=2016-04-01&g=2016-04-01), [12](https://wetten.overheid.nl/jci1.3:c:BWBR0015738&paragraaf=6&artikel=12&z=2016-04-01&g=2016-04-01), [13](https://wetten.overheid.nl/jci1.3:c:BWBR0015738&paragraaf=6&artikel=13&z=2016-04-01&g=2016-04-01) of [14](https://wetten.overheid.nl/jci1.3:c:BWBR0015738&paragraaf=6&artikel=14&z=2016-04-01&g=2016-04-01) berekende aanspraak op vakantietoeslag in aanmerking.
 
 ##### Artikel 11. Aanspraak op vakantietoeslag voor personen jonger dan de pensioengerechtigde leeftijd, bedoeld in [artikel 7a, eerste lid, van de Algemene Ouderdomswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002221&artikel=7a) met inkomen uit tegenwoordige arbeid
 
@@ -285,7 +285,7 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst met ui
 
 ##### Artikel 7a. Indexering
 
-1. Met ingang van de dag waarop de bedragen, genoemd in [artikel 2, zesde lid, van de Wet op de loonbelasting 1964](https://wetten.overheid.nl/jci1.3:c:BWBR0002471&artikel=2) wijzigen, worden de bedragen, genoemd in [artikel 7, onderdeel h](https://wetten.overheid.nl/jci1.3:c:BWBR0015738&paragraaf=5&artikel=7&z=2016-01-01&g=2016-01-01), gewijzigd met het percentage van deze wijziging.
+1. Met ingang van de dag waarop de bedragen, genoemd in [artikel 2, zesde lid, van de Wet op de loonbelasting 1964](https://wetten.overheid.nl/jci1.3:c:BWBR0002471&artikel=2) wijzigen, worden de bedragen, genoemd in [artikel 7, onderdeel h](https://wetten.overheid.nl/jci1.3:c:BWBR0015738&paragraaf=5&artikel=7&z=2016-04-01&g=2016-04-01), gewijzigd met het percentage van deze wijziging.
 
 2. De gewijzigde bedragen, bedoeld in het eerste lid, en de dag waarop de wijzigingen plaatsvinden, worden door of namens de minister bekendgemaakt in de Staatscourant.
 
@@ -311,9 +311,9 @@ De minister stelt, van een toegewezen verzoek tot een meerjarige aanvullende uit
 
 De correctiefactor, bedoeld in [artikel 8a, tweede lid, van het Besluit Participatiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0020183&artikel=8a), bedraagt 5%.
 
-#### § 6. Vakantietoeslag
+#### § 5. Vrijlating uitkeringen en vergoedingen
 
-#### § 7a. Verrekening IOAW en IOAZ
+#### § 7. Verzoeken vangnetuitkering
 
 ##### Artikel 5a. Opschorting betaling bij vaststelling ernstige tekortkomingen
 
@@ -502,98 +502,103 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst met ui
 
 7. Indien de minister aan een verzoek als bedoeld in het zesde lid voldoet, bepaalt hij daarbij het aantal adviezen dat later kan worden vastgesteld en de datum waarop deze adviezen uiterlijk door de minister worden ontvangen.
 
-#### § 8. Slotbepalingen
+#### § 7a. Verrekening IOAW en IOAZ
 
 #### § 8. Slotbepalingen
 
-## Bijlage. behorende bij [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0015738&paragraaf=3&artikel=6&z=2015-02-01&g=2015-02-01) van de Regeling WWB, IOAW en IOAZ
-
-Voor de variabelen en kenmerken, bedoeld in de bijlage bij het Besluit Participatiewet, gelden de in de tabellen 1, 2 en 3 genoemde gewichten, peiljaren en peildata:
+## Bijlage. behorende bij [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0015738&paragraaf=3&artikel=6&z=2016-04-01&g=2016-04-01) van de Regeling Participatiewet, IOAW en IOAZ
 
 | Variabelen verklaringsmodel | gewichten |
 | --- | --- |
 | **Huishoudenskenmerken** |   |
-| Eenoudergezin met een vrouw aan het hoofd | 0,9929893 |
-| Eenoudergezin met een man aan het hoofd | 0,1954754 |
-| Paar zonder kinderen | – 1,855849 |
-| Paar met kinderen | – 0,912608 |
-| Aanwezigheid van een persoon in de leeftijd van 15-24 jaar | – 0,7454493 |
-| Aanwezigheid van een persoon in de leeftijd van 55-65 jaar | 0,3685052 |
-| Wonend in een koopwoning | – 2,237492 |
-| Hebben van een niet-westerse achtergrond | 0,7389134 |
-| Aanwezigheid van een persoon met als hoogst voltooide opleiding maximaal MBO-2 | 0,6825488 |
-| Aanwezigheid van een persoon met als hoogst voltooide opleiding minimaal HBO | – 0,3606156 |
-| Aanwezigheid van een persoon met een arbeidsbeperking | 1,386715 |
-| Aanwezigheid van een persoon met een arbeidsongeschiktheidsuitkering | – 1,51222 |
-|   |   |
+| Eenoudergezin met een vrouw aan het hoofd | 0,7983488687886 |
+| Eenoudergezin met een man aan het hoofd | 0,5989044919778 |
+| Paar zonder kinderen | –1,6231649400000 |
+| Paar met kinderen | –0,4830537072534 |
+| Aanwezigheid van een persoon in de leeftijd van 15-24 jaar | –0,6900182998626 |
+| Aanwezigheid van een persoon in de leeftijd van 55 jaar – AOW | 0,7922649885444 |
+| Wonend in een sociale huurwoning | 2,5707676926795 |
+| Wonend in een koopwoning | –0,7869853269291 |
+| Hebben van een niet-westerse achtergrond | 0,8621983685457 |
+| Aanwezigheid van een persoon met als hoogst voltooide opleiding maximaal MBO-2 | 0,5326591753365 |
+| Aanwezigheid van een persoon met als hoogst voltooide opleiding minimaal HBO | –0,2747634469067 |
+| Aanwezigheid van een persoon met een arbeidsbeperking | 1,1128501813985 |
+| Aanwezigheid van een persoon met een arbeidsongeschiktheidsuitkering | –1,8063102300000 |
 | **Omgevingskenmerken** |   |
-| Gemiddelde WOZ-waarde (logaritmisch, buurt) | – 0,9823706 |
-| Matige leefbaarheid (buurt; score leefbaarheid ‘matig positief’ of lager) | 0,1115834 |
-| Arbeidsmarktkansen voor hoogopgeleiden (met correcties voor grensoverschrijdende pendel) | – 5,157323 |
-| Aantal werkzame personen gedeeld door het aantal personen behorend tot de potentiële beroepsbevolking (COROP) | – 0,0336733 |
-| Constante | 9,27598783115645 |
+| Gemiddelde WOZ-waarde (logaritmisch, buurt) | –0,6309484488883 |
+| Aandeel WW-ontvangers in de gemeente | 0,1207220891655 |
+| Bevolkingsgroei in de gemeente | –0,0606406189290 |
+| Arbeidsmarktkansen voor hoogopgeleiden (met correcties voor grensoverschrijdende pendel) | –4,519828780 |
+| Constante | 2,62140326192004 |
 
-| Coropnummer | Corop-gebied | Gewichten |
+| Coropeffecten | Corop-naam | Gewichten |
 | --- | --- | --- |
-| 1 | Oost-Groningen | 0,0287366 |
-| 2 | Delfzijl en omgeving | 0,0041691 |
-| 3 | Overig Groningen | – 0,0020034 |
-| 4 | Noord-Friesland | 0,0511672 |
-| 5 | Zuidwest-Friesland | 0,0131981 |
-| 6 | Zuidoost-Friesland | 0,0305847 |
-| 7 | Noord-Drenthe | – 0,0156851 |
-| 8 | Zuidoost-Drenthe | 0,0341706 |
-| 9 | Zuidwest-Drenthe | – 0,0054661 |
-| 10 | Noord-Overijssel | 0,0175785 |
-| 11 | Zuidwest-Overijssel | – 0,0103792 |
-| 12 | Twente | – 0,0059694 |
-| 13 | Veluwe | – 0,0013673 |
-| 14 | Achterhoek | 0,0177850 |
-| 15 | Arnhem/Nijmegen | 0,0144432 |
-| 16 | Zuidwest-Gelderland | 0,0042343 |
-| 17 | Utrecht | 0,0138466 |
-| 18 | Kop van Noord-Holland | – 0,0349887 |
-| 19 | Alkmaar en omgeving | 0,0109207 |
-| 20 | IJmond | – 0,0309076 |
-| 21 | Agglomeratie Haarlem | – 0,0137986 |
-| 22 | Zaanstreek | – 0,0893619 |
-| 23 | Groot-Amsterdam | 0,0064124 |
-| 24 | Het Gooi en Vechtstreek | 0,0240646 |
-| 25 | Agglomeratie Leiden en Bollenstreek | – 0,0599105 |
-| 26 | Agglomeratie 's-Gravenhage | – 0,0206919 |
-| 27 | Delft en Westland | – 0,0143820 |
-| 28 | Oost-Zuid-Holland | – 0,0306929 |
-| 29 | Groot-Rijnmond | 0,0203106 |
-| 30 | Zuidoost-Zuid-Holland | – 0,0276734 |
-| 31 | Zeeuwsch-Vlaanderen | 0,0074094 |
-| 32 | Overig Zeeland | – 0,0058358 |
-| 33 | West-Noord-Brabant | 0,0015704 |
-| 34 | Midden-Noord-Brabant | 0,0491554 |
-| 35 | Noordoost-Noord-Brabant | 0,0091813 |
-| 36 | Zuidoost-Noord-Brabant | 0,1024445 |
-| 37 | Noord-Limburg | 0,0164543 |
-| 38 | Midden-Limburg | 0,0100414 |
-| 39 | Zuid-Limburg | – 0,0575708 |
-| 40 | Flevoland | 0,0196012 |
+| 1 | Oost-Groningen | 0,020031293854117 |
+| 2 | Delfzijl en omgeving | 0,000090624562290 |
+| 3 | Overig Groningen | –0,004678334575146 |
+| 4 | Noord-Friesland | 0,042008861899376 |
+| 5 | Zuidwest-Friesland | –0,004811749327928 |
+| 6 | Zuidoost-Friesland | 0,017048263922334 |
+| 7 | Noord-Drenthe | –0,018757496029139 |
+| 8 | Zuidoost-Drenthe | 0,022187158465385 |
+| 9 | Zuidwest-Drenthe | –0,000832926074509 |
+| 10 | Noord-Overijssel | 0,002841680776328 |
+| 11 | Zuidwest-Overijssel | 0,000361461745342 |
+| 12 | Twente | –0,000556806742679 |
+| 13 | Veluwe | –0,003169294213876 |
+| 14 | Achterhoek | 0,008193082176149 |
+| 15 | Arnhem/Nijmegen | 0,001078610075638 |
+| 16 | Zuidwest-Gelderland | 0,015083132311702 |
+| 17 | Utrecht | –0,014715664088726 |
+| 18 | Kop van Noord-Holland | –0,004993678536266 |
+| 19 | Alkmaar en omgeving | –0,016918405890465 |
+| 20 | IJmond | –0,004382993094623 |
+| 21 | Agglomeratie Haarlem | –0,015219894237816 |
+| 22 | Zaanstreek | –0,019182583317161 |
+| 23 | Groot-Amsterdam | –0,006831527221948 |
+| 24 | Het Gooi en Vechtstreek | –0,021779308095574 |
+| 25 | Agglomeratie Leiden en Bollenstreek | –0,011792577803135 |
+| 26 | Agglomeratie 's-Gravenhage | –0,011592638678849 |
+| 27 | Delft en Westland | 0,004898649174720 |
+| 28 | Oost-Zuid-Holland | –0,013327240943909 |
+| 29 | Groot-Rijnmond | 0,033970035612583 |
+| 30 | Zuidoost-Zuid-Holland | 0,006911210715771 |
+| 31 | Zeeuwsch-Vlaanderen | 0,011179431341588 |
+| 32 | Overig Zeeland | –0,010120078921318 |
+| 33 | West-Noord-Brabant | –0,017210764810443 |
+| 34 | Midden-Noord-Brabant | –0,006283510942012 |
+| 35 | Noordoost-Noord-Brabant | –0,013312390074134 |
+| 36 | Zuidoost-Noord-Brabant | 0,045055709779263 |
+| 37 | Noord-Limburg | 0,015967810526490 |
+| 38 | Midden-Limburg | –0,014818706549704 |
+| 39 | Zuid-Limburg | 0,027807798236609 |
+| 40 | Flevoland | –0,009348195977509 |
 
-| Kenmerken van gemeenten | Peiljaren | Peildata |
+| Gemeentelijke kenmerken | peiljaren | peildata |
 | --- | --- | --- |
-| Aantal huishoudens van 15–64 jaar | 2014 | 1-1-2014 |
-| Totaal aantal huishoudens van 15–64 jaar, uitgesplitst naar alleenstaanden, eenoudergezinnen man, eenoudergezinnen vrouw, paren zonder kinderen en paren met kinderen | 2014 | 1-1-2014 |
-| Aantal huishoudens van 15–64 jaar met een persoon in het huishouden van 15–64 jaar en van een niet-westerse herkomst | 2014 | 1-1-2014 |
-| Aantal huishoudens van 15–64 jaar met een persoon in het huishouden in de leeftijd van 15–24 jaar | 2014 | 1-1-2014 |
-| Aantal huishoudens van 15–64 jaar met een persoon in het huishouden in de leeftijd van 55–64 jaar | 2014 | 1-1-2014 |
-| Percentage inwoners van 15–64 jaar met een arbeidsongeschiktheidsuitkering | 2013 | Ultimo 2013 |
-| Percentage inwoners van 15–64 jaar met een lage opleiding | 2011–2013 | – |
-| Percentage inwoners van 15–64 jaar met een hoge opleiding | 2011–2013 | – |
-| Percentage inwoners van 15–64 jaar met een arbeidsbeperking | 2009–2013 | – |
-| Percentage koopwoningen | 2012 | 1-1-2012 |
-| Percentage inwoners wonend in een buurt met een matige leefbaarheid | 2012 | – |
-| **Overige omgevingskenmerken** |   |   |
-| Gemiddelde WOZ-waarde (logaritmisch, buurt) | 2012 | 1-1-2012 (waardepeildatum 1-1-2011) |
-| Arbeidsmarktkansen voor hoogopgeleiden (met correcties voor grensoverschrijdende pendel) – gemeente | 2012 | – |
-| Aantal werkzame personen gedeeld door het aantal personen behorend tot de potentiële beroepsbevolking (COROP) = Netto participatie op COROP-niveau | 2013 | – |
-| COROP-indeling | 2014 | 1-1-2014 |
+| **Huishoudenskenmerken** |   |   |
+| Aantal huishoudens van 15 tot de AOW-leeftijd | 2015 | 1-1-2015 |
+| Totaal aantal huishoudens van 15 tot de AOW-leeftijd, uitgesplitst naar alleenstaanden, eenoudergezinnen man, eenoudergezinnen vrouw, paren zonder kinderen en paren met kinderen | 2015 | 1-1-2015 |
+| Aantal huishoudens van 15 tot de AOW-leeftijd met een persoon in het huishouden van 15 tot de AOW-leeftijd en van een niet-westerse herkomst | 2015 | 1-1-2015 |
+| Aantal huishoudens van 15 tot de AOW-leeftijd met een persoon in het huishouden in de leeftijd van 15-24 jaar | 2015 | 1-1-2015 |
+| Aantal huishoudens van 15 tot de AOW-leeftijd met een persoon in het huishouden in de leeftijd van 55 tot de AOW-leeftijd | 2015 | 1-1-2015 |
+| Aantal personen van 15 tot de AOW-leeftijd met een arbeidsongeschiktheidsuitkering | 2014 | Ultimo 2014 |
+| Percentage inwoners van 15 tot 65 jaar met een lage opleiding | 2012–2014 | 3-jaars gemiddelde |
+| Percentage inwoners van 15 tot 65 jaar met een hoge opleiding | 2012–2014 | 3-jaars gemiddelde |
+| Percentage inwoners van 15 tot 65 jaar met een arbeidsbeperking | 2010–2014 | 5-jaars gemiddelde |
+| Percentage huishoudens van 15 tot 65 jaar dat woont in een koopwoning | 2012 | Ultimo 2012 |
+| Percentage huishoudens van 15 tot 65 jaar dat woont in een sociale huurwoning | 2012 | Ultimo 2012 |
+|   |   |   |
+| **Omgevingskenmerken** |   |   |
+| Gemiddelde WOZ-waarde (logaritmisch, buurt) | 2014 (2012)1 | 1-1-2014 (–) |
+| Aandeel WW-ontvangers in de gemeente | 2014 | Gemiddelde 1e – 4e kwartaal |
+| Bevolkingsgroei in de gemeente (inwoners 15 tot 65 jaar) | 2010 en 2015 | 1-1-2010 en 1-1-2015 |
+| Arbeidsmarktkansen voor hoogopgeleiden (met correcties voor grensoverschrijdende pendel) | 2013 | – |
+| COROP-indeling | 2015 | 1-1-2015 |
+
+1 Samengestelde indicator o.b.v. cijfers CBS (Atlas voor gemeenten)
+
+De huishoudenskenmerken uit tabel 3 zijn gebaseerd op cijfers van het CBS. Het CBS heeft de afgeronde cijfers gepubliceerd op hun website. Het SCP heeft de percentages voor opleiding, arbeidsbeperking en woonsituatie zelf berekend. Voor deze berekening is gebruik gemaakt van de onafgeronde cijfers van het CBS. De berekende percentages zijn afgerond op 1 cijfer achter de komma.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst met uitzondering van de bijlagen, die met ingang van 23 oktober 2003 ter inzage worden gelegd in de bibliotheek van het Ministerie van Sociale Zaken en Werkgelegenheid te ’s-Gravenhage.
 
@@ -602,3 +607,19 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst met ui
 Vervallen
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst met uitzondering van de bijlagen, die met ingang van 23 oktober 2003 ter inzage worden gelegd in de bibliotheek van het Ministerie van Sociale Zaken en Werkgelegenheid te ’s-Gravenhage.
+
+##### Artikel 6b. Toetsing inleg lijfrente
+
+1. Voor de toepassing van [artikel 15, tweede lid, onderdeel b, onder 3°, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&artikel=15) wordt de inleg in het jaar van aanvraag van bijstand en de daaraan voorafgaande vier kalenderjaren in beschouwing genomen.
+
+2. Voor de beoordeling of de inleg ten hoogste het in [artikel 15, tweede lid, onderdeel b, onder 3°, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&artikel=15) genoemde bedrag heeft bedragen, wordt:
+
+- a. voor de inleg gedaan in het jaar van aanvraag van bijstand: het genoemde bedrag naar evenredigheid van de tussen 1 januari en de dag van aanvraag van bijstand gelegen periode in aanmerking genomen;
+
+- b. voor de inleg gedaan in de aan de aanvraag voorafgaande vier kalenderjaren: het genoemde bedrag in aanmerking genomen dat geldt op de dag van aanvraag van bijstand.
+
+##### Artikel 6c. Toetsing waarde lijfrente en hoogte inleg
+
+Het bedrag waarmee bij toepassing van [artikel 15, tweede lid, onderdeel b, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&artikel=15) de inleg het in subonderdeel 3° van dat onderdeel genoemde bedrag overschrijdt, wordt in mindering gebracht op de waarde van de lijfrente of lijfrenten.
+
+#### § 6. Vakantietoeslag
