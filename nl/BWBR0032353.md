@@ -4,7 +4,7 @@ identifier: "BWBR0032353"
 country: "nl"
 rank: "beleidsregel"
 publication_date: "2022-01-01"
-last_updated: "2013-01-01"
+last_updated: "2016-04-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0032353"
 soort: "beleidsregel"
@@ -42,19 +42,19 @@ Besluit:
 
 ##### Artikel 1. Berekening van de bestuurlijke boete
 
-1. Bij de berekening van een bestuurlijke boete als bedoeld in [artikel 10:5 van de Arbeidstijdenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0007671&artikel=10:5) wordt voor alle overtredingen waarvoor een bestuurlijke boete kan worden opgelegd als uitgangspunt gehanteerd de normbedragen die gelden voor de onderscheiden onderwerpen in de 'Tarieflijst boetenormbedragen bestuurlijke boete [Arbeidstijdenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0007671)' die als [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0032353&bijlage=1&z=2013-01-01&g=2013-01-01)bij deze beleidsregel is gevoegd.
+1. Bij de berekening van een bestuurlijke boete als bedoeld in [artikel 10:5 van de Arbeidstijdenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0007671&artikel=10:5) wordt voor alle overtredingen waarvoor een bestuurlijke boete kan worden opgelegd als uitgangspunt gehanteerd de normbedragen die gelden voor de onderscheiden onderwerpen in de 'Tarieflijst boetenormbedragen bestuurlijke boete [Arbeidstijdenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0007671)' die als [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0032353&bijlage=1&z=2016-04-01&g=2016-04-01)bij deze beleidsregel is gevoegd.
 
 2. Bij de toepassing hiervan wordt onderscheid gemaakt tussen:
 
 - a. overtredingen waarvoor eerst een waarschuwing wordt gegeven of een eis wordt gesteld en pas in tweede instantie, nadat nogmaals is geconstateerd dat dezelfde of een soortgelijke wettelijke verplichting niet is nageleefd of dat de desbetreffende tekortkoming niet is opgeheven, wordt overgegaan tot het opleggen van een bestuurlijke boete;
 
-- b. overtredingen waarvoor direct een bestuurlijke boete wordt opgelegd, die zijn opgenomen in de ‘Lijst overtredingen waarvoor direct een boete wordt opgelegd’, die als [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0032353&bijlage=2&z=2013-01-01&g=2013-01-01)bij deze beleidsregel is gevoegd.
+- b. overtredingen waarvoor direct een bestuurlijke boete wordt opgelegd, die zijn opgenomen in de ‘Lijst overtredingen waarvoor direct een boete wordt opgelegd’, die als [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0032353&bijlage=2&z=2016-04-01&g=2016-04-01)bij deze beleidsregel is gevoegd.
 
 3. Van deze beleidsregel zijn uitgezonderd alle overtredingen die als zodanig in de [Arbeidstijdenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0007671) zijn aangemerkt en die betrekking hebben op arbeid verricht door personen als bedoeld in [artikel 5:12, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007671&artikel=5:12), en arbeid in bedrijven of inrichtingen die rechtstreeks betrekking heeft op arbeid verricht in of op motorrijtuigen als bedoeld in artikel 5:12, tweede lid, onderdeel a, van de Arbeidstijdenwet.
 
 ##### Artikel 2. Correctie aantal werknemers
 
-1. De in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0032353&bijlage=1&z=2013-01-01&g=2013-01-01) genoemde boetenormbedragen zijn uitgangspunt voor de berekening van op te leggen bestuurlijke boetes voor een werkgever die 50 of meer, maar minder dan 100 werknemers in dienst heeft (middelgroot bedrijf).
+1. De in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0032353&bijlage=1&z=2016-04-01&g=2016-04-01) genoemde boetenormbedragen zijn uitgangspunt voor de berekening van op te leggen bestuurlijke boetes voor een werkgever die 50 of meer, maar minder dan 100 werknemers in dienst heeft (middelgroot bedrijf).
 
 2. Voor de werkgever die een van het eerste lid afwijkend aantal werknemers in dienst heeft, worden de volgende uitgangspunten gehanteerd voor de berekening van op te leggen bestuurlijke boetes:
 
@@ -68,7 +68,7 @@ Besluit:
 
 ##### Artikel 3. Zelfstandigen
 
-Voor overtredingen die zijn begaan door een persoon als bedoeld in [artikel 2:7 van de Arbeidstijdenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0007671&artikel=2:7) geldt als uitgangspunt voor de berekening van de op te leggen bestuurlijke boete de correctiefactor uit [artikel 2, tweede lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0032353&artikel=2&z=2013-01-01&g=2013-01-01).
+Voor overtredingen die zijn begaan door een persoon als bedoeld in [artikel 2:7 van de Arbeidstijdenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0007671&artikel=2:7) geldt als uitgangspunt voor de berekening van de op te leggen bestuurlijke boete de correctiefactor uit [artikel 2, tweede lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0032353&artikel=2&z=2016-04-01&g=2016-04-01).
 
 ##### Artikel 4. Verantwoordelijke persoon
 
@@ -90,7 +90,7 @@ Voor een verantwoordelijk persoon als bedoeld in [artikel 3:1, onderdeel b, van 
 
 ##### Artikel 6. Correctie overtreding waarvoor direct een bestuurlijke boete wordt opgelegd
 
-Het op grond van voorgaande artikelen bepaalde boetebedrag wordt met anderhalf vermenigvuldigd, indien er sprake is van een overtreding waarvoor direct een bestuurlijke boete wordt opgelegd zoals genoemd in de lijst die is opgenomen als [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0032353&bijlage=2&z=2013-01-01&g=2013-01-01) bij deze beleidsregel.
+Het op grond van voorgaande artikelen bepaalde boetebedrag wordt met anderhalf vermenigvuldigd, indien er sprake is van een overtreding waarvoor direct een bestuurlijke boete wordt opgelegd zoals genoemd in de lijst die is opgenomen als [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0032353&bijlage=2&z=2016-04-01&g=2016-04-01) bij deze beleidsregel.
 
 ##### Artikel 7. Cumulatie bestuurlijke boetes
 
@@ -130,7 +130,7 @@ Onder bepaalde voorwaarden kan een ontheffing van het verbod van kinderarbeid wo
 
 ### Sector mijnbouw
 
-In de tarieflijst boetenormbedragen bestuurlijke boete wordt een onderscheid gemaakt tussen werknemers van 18 jaar of ouder waarop [paragraaf 5.14 Arbeidstijdenbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0007687&paragraaf=5.14), die betrekking heeft op de sector mijnbouw, van toepassing is. Voor deze mijnbouwsector geldt als gevolg van de eigen en zeer specifieke aard van deze sector een eigen, ruimere regeling wat betreft de arbeids- en rusttijden in vergelijking met de in de [Arbeidstijdenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0007671) zelf neergelegde normering op dit terrein. Voor de overtredingen in de mijnbouwsector zijn hogere boetebedragen vastgesteld. Overtreding van deze eigen en zeer specifieke arbeids- en rusttijdennormering is een overtreding waarvoor direct een bestuurlijke boete wordt opgelegd als dit op grond van het interventiebeleid van het Staatstoezicht op de Mijnen, waarvan in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0032353&bijlage=2&z=2013-01-01&g=2013-01-01) sprake is, als zodanig is gekwalificeerd.
+In de tarieflijst boetenormbedragen bestuurlijke boete wordt een onderscheid gemaakt tussen werknemers van 18 jaar of ouder waarop [paragraaf 5.14 Arbeidstijdenbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0007687&paragraaf=5.14), die betrekking heeft op de sector mijnbouw, van toepassing is. Voor deze mijnbouwsector geldt als gevolg van de eigen en zeer specifieke aard van deze sector een eigen, ruimere regeling wat betreft de arbeids- en rusttijden in vergelijking met de in de [Arbeidstijdenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0007671) zelf neergelegde normering op dit terrein. Voor de overtredingen in de mijnbouwsector zijn hogere boetebedragen vastgesteld. Overtreding van deze eigen en zeer specifieke arbeids- en rusttijdennormering is een overtreding waarvoor direct een bestuurlijke boete wordt opgelegd als dit op grond van het interventiebeleid van het Staatstoezicht op de Mijnen, waarvan in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0032353&bijlage=2&z=2016-04-01&g=2016-04-01) sprake is, als zodanig is gekwalificeerd.
 
 ### Samenloop en vervoerswerkzaamheden
 
