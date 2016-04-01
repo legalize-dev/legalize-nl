@@ -4,7 +4,7 @@ identifier: "BWBR0024188"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-03-01"
-last_updated: "2015-07-01"
+last_updated: "2016-04-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0024188"
 soort: "ministeriele-regeling"
@@ -52,15 +52,15 @@ In deze regeling wordt verstaan onder:
 
 - c. zorgopleiding:
 
-- 1°. beroepsopleidende leerweg als bedoeld in [artikel 7.2.2, tweede lid, onderdeel a, van de Wet educatie en beroepsonderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=7.2.2) van een beroepsopleiding als bedoeld in [artikel 1.1.1, onderdeel i, van de Wet educatie en beroepsonderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=1.1.1) die ingevolge [artikel 2.1.1, eerste lid, van de Wet educatie en beroepsonderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=2.1.1) voor bekostiging in aanmerking komt en die voor het desbetreffende studiejaar met een in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0024188&bijlage=1&z=2015-07-01&g=2015-07-01) van deze regeling genoemde code wordt vermeld in het Centraal register beroepsopleidingen, bedoeld in [artikel 6.4.1, eerste lid, van de Wet educatie en beroepsonderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=6.4.1);
+- 1°. beroepsopleidende leerweg als bedoeld in [artikel 7.2.2, tweede lid, onderdeel a, van de Wet educatie en beroepsonderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=7.2.2) van een beroepsopleiding als bedoeld in [artikel 1.1.1, onderdeel i, van de Wet educatie en beroepsonderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=1.1.1) die ingevolge [artikel 2.1.1, eerste lid, van de Wet educatie en beroepsonderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=2.1.1) voor bekostiging in aanmerking komt en die voor het desbetreffende studiejaar met een in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0024188&bijlage=1&z=2016-04-01&g=2016-04-01) van deze regeling genoemde code wordt vermeld in het Centraal register beroepsopleidingen, bedoeld in [artikel 6.4.1, eerste lid, van de Wet educatie en beroepsonderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=6.4.1);
 
-- 2°. voltijds of deeltijds opleiding als bedoeld in [artikel 7.7, eerste lid, van de Wet op het hoger onderwijs en wetenschappelijk onderzoek](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=7.7) ten behoeve van de verzorging waarvan ingevolge [artikel 1.9 van de Wet op het hoger onderwijs en wetenschappelijk onderzoek](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=1.9) aanspraak op bekostiging uit ’s Rijks kas bestaat en die voor het desbetreffende studiejaar met een in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0024188&bijlage=2&z=2015-07-01&g=2015-07-01) van deze regeling genoemde code wordt vermeld in het Centraal register opleidingen hoger onderwijs, bedoeld in [artikel 6.13 van de Wet op het hoger onderwijs en wetenschappelijk onderzoek](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=6.13);
+- 2°. voltijds of deeltijds opleiding als bedoeld in [artikel 7.7, eerste lid, van de Wet op het hoger onderwijs en wetenschappelijk onderzoek](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=7.7) ten behoeve van de verzorging waarvan ingevolge [artikel 1.9 van de Wet op het hoger onderwijs en wetenschappelijk onderzoek](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=1.9) aanspraak op bekostiging uit ’s Rijks kas bestaat en die voor het desbetreffende studiejaar met een in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0024188&bijlage=2&z=2016-04-01&g=2016-04-01) van deze regeling genoemde code wordt vermeld in het Centraal register opleidingen hoger onderwijs, bedoeld in [artikel 6.13 van de Wet op het hoger onderwijs en wetenschappelijk onderzoek](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=6.13);
 
 - d. opleiding:
 
-- 1°. beroepsopleidende of beroepsbegeleidende leerweg als bedoeld in [artikel 7.2.2, tweede lid, van de Wet educatie en beroepsonderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=7.2.2) van een beroepsopleiding als bedoeld in [artikel 1.1.1, onderdeel i, van de Wet educatie en beroepsonderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=1.1.1) die ingevolge [artikel 2.1.1, eerste lid, van de Wet educatie en beroepsonderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=2.1.1) voor bekostiging in aanmerking komt en die voor het desbetreffende studiejaar met een in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0024188&bijlage=1&z=2015-07-01&g=2015-07-01) van deze regeling genoemde code wordt vermeld in het Centraal register beroepsopleidingen, bedoeld in [artikel 6.4.1, eerste lid, van de Wet educatie en beroepsonderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=6.4.1);
+- 1°. beroepsopleidende of beroepsbegeleidende leerweg als bedoeld in [artikel 7.2.2, tweede lid, van de Wet educatie en beroepsonderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=7.2.2) van een beroepsopleiding als bedoeld in [artikel 1.1.1, onderdeel i, van de Wet educatie en beroepsonderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=1.1.1) die ingevolge [artikel 2.1.1, eerste lid, van de Wet educatie en beroepsonderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=2.1.1) voor bekostiging in aanmerking komt en die voor het desbetreffende studiejaar met een in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0024188&bijlage=1&z=2016-04-01&g=2016-04-01) van deze regeling genoemde code wordt vermeld in het Centraal register beroepsopleidingen, bedoeld in [artikel 6.4.1, eerste lid, van de Wet educatie en beroepsonderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=6.4.1);
 
-- 2°. voltijds, deeltijds of duale opleiding als bedoeld in [artikel 7.7, eerste lid, van de Wet op het hoger onderwijs en wetenschappelijk](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=7.7) onderzoek ten behoeve van de verzorging waarvan ingevolge [artikel 1.9 van de Wet op het hoger onderwijs en wetenschappelijk onderzoek](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=1.9) aanspraak op bekostiging uit ’s Rijks kas bestaat en die voor het desbetreffende studiejaar met een in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0024188&bijlage=2&z=2015-07-01&g=2015-07-01) van deze regeling genoemde code wordt vermeld in het Centraal register opleidingen hoger onderwijs, bedoeld in [artikel 6.13 van de Wet op het hoger onderwijs en wetenschappelijk onderzoek](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=6.13);
+- 2°. voltijds, deeltijds of duale opleiding als bedoeld in [artikel 7.7, eerste lid, van de Wet op het hoger onderwijs en wetenschappelijk](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=7.7) onderzoek ten behoeve van de verzorging waarvan ingevolge [artikel 1.9 van de Wet op het hoger onderwijs en wetenschappelijk onderzoek](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=1.9) aanspraak op bekostiging uit ’s Rijks kas bestaat en die voor het desbetreffende studiejaar met een in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0024188&bijlage=2&z=2016-04-01&g=2016-04-01) van deze regeling genoemde code wordt vermeld in het Centraal register opleidingen hoger onderwijs, bedoeld in [artikel 6.13 van de Wet op het hoger onderwijs en wetenschappelijk onderzoek](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=6.13);
 
 - e. studiejaar: tijdvak dat aanvangt op 1 augustus en eindigt op 31 juli van het daarop volgende jaar voor zover het betreft een zorgopleiding, bedoeld in onderdeel c, onder 1°, of tijdvak dat aanvangt op 1 september en eindigt op 31 augustus van het daarop volgende jaar voor zover het betreft een zorgopleiding, bedoeld in onderdeel c, onder 2°;
 
@@ -106,11 +106,11 @@ De subsidie bestaat uit het bedrag dat wordt berekend met de formule A × B, waa
 
 ##### Artikel 6
 
-1. Het aantal personen, bedoeld in [artikel 5, onder A](https://wetten.overheid.nl/jci1.3:c:BWBR0024188&artikel=5&z=2015-07-01&g=2015-07-01), wordt ontleend aan:
+1. Het aantal personen, bedoeld in [artikel 5, onder A](https://wetten.overheid.nl/jci1.3:c:BWBR0024188&artikel=5&z=2016-04-01&g=2016-04-01), wordt ontleend aan:
 
-- a. het basisregister onderwijs, bedoeld in [artikel 24b van de Wet op het onderwijstoezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0013800&artikel=24b) voor een zorgopleiding als bedoeld in [artikel 1, onderdeel c, onder 1°](https://wetten.overheid.nl/jci1.3:c:BWBR0024188&artikel=1&z=2015-07-01&g=2015-07-01), en voor een opleiding als bedoeld in [artikel 1, onderdeel d, onder 1°](https://wetten.overheid.nl/jci1.3:c:BWBR0024188&artikel=1&z=2015-07-01&g=2015-07-01);
+- a. het basisregister onderwijs, bedoeld in [artikel 24b van de Wet op het onderwijstoezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0013800&artikel=24b) voor een zorgopleiding als bedoeld in [artikel 1, onderdeel c, onder 1°](https://wetten.overheid.nl/jci1.3:c:BWBR0024188&artikel=1&z=2016-04-01&g=2016-04-01), en voor een opleiding als bedoeld in [artikel 1, onderdeel d, onder 1°](https://wetten.overheid.nl/jci1.3:c:BWBR0024188&artikel=1&z=2016-04-01&g=2016-04-01);
 
-- b. het Centraal register inschrijving hoger onderwijs, bedoeld in [artikel 7.52 van de Wet op het hoger onderwijs en wetenschappelijk onderzoek](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=7.52) voor een zorgopleiding als bedoeld in [artikel 1, onderdeel c, onder 2°](https://wetten.overheid.nl/jci1.3:c:BWBR0024188&artikel=1&z=2015-07-01&g=2015-07-01), en voor een opleiding als bedoeld in [artikel 1, onderdeel d, onder 2°](https://wetten.overheid.nl/jci1.3:c:BWBR0024188&artikel=1&z=2015-07-01&g=2015-07-01).
+- b. het Centraal register inschrijving hoger onderwijs, bedoeld in [artikel 7.52 van de Wet op het hoger onderwijs en wetenschappelijk onderzoek](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=7.52) voor een zorgopleiding als bedoeld in [artikel 1, onderdeel c, onder 2°](https://wetten.overheid.nl/jci1.3:c:BWBR0024188&artikel=1&z=2016-04-01&g=2016-04-01), en voor een opleiding als bedoeld in [artikel 1, onderdeel d, onder 2°](https://wetten.overheid.nl/jci1.3:c:BWBR0024188&artikel=1&z=2016-04-01&g=2016-04-01).
 
 2. Indien een persoon voor meerdere opleidingen is ingeschreven, telt uitsluitend de hoofdinschrijving.
 
@@ -251,28 +251,125 @@ Deze regeling wordt aangehaald als: Subsidieregeling vaccinatie stageplaatsen zo
 | Vanaf 2015/2016 | 25053 | Medewerker Steriele Medische Hulpmiddelen (vakopleiding) |
 | Vanaf 2015/2016 | 95010 | Medewerker Steriele Medische Hulpmiddelen (vakopleiding) |
 
+## Bijlage 1. Codes Centraal register beroepsopleidingen
+
+| Studiejaar | Code | Naam |
+| --- | --- | --- |
+| vanaf 2015/2016 | 25474 | Agogisch medewerker GGZ |
+| vanaf 2008/2009 | 93710 | Analist |
+| vanaf 2008/2009 | 93711 | Analist (Analist klinische chemie) |
+| vanaf 2008/2009 | 93712 | Analist (Analist pathologie) |
+| vanaf 2008/2009 | 93713 | Analist (Biotechnologisch analist) |
+| vanaf 2008/2009 | 93715 | Analist (Microbiologisch analist) |
+| vanaf 2008/2009 | 91700 | Biomedisch analist |
+| vanaf 2008/2009 | 91701 | Biomedisch analist (Biologie) |
+| vanaf 2008/2009 | 91702 | Biomedisch analist (Klinische chemie) |
+| vanaf 2008/2009 | 91703 | Biomedisch analist (Microbiologie) |
+| vanaf 2008/2009 | 91704 | Biomedisch analist (Pathologie) |
+| vanaf 2015/2016 | 25045 | Biologisch medisch analist |
+| vanaf 2008/2009 | 10776 | Doktersassistent |
+| vanaf 2008/2009 | 91310 | Doktersassistent |
+| vanaf 2015/2016 | 25473 | Doktersassistent |
+| Vanaf 2016/2017 | 22193 | Doktersassistent |
+| Vanaf 2016/2017 | 23180 | Doktersassistent |
+| vanaf 2010/2011 | 80030 | Experimentele leergang vmbo-mbo niveau 2 in de sector zorg en welzijn |
+| vanaf 2009/2010 | 10428 | Helpende |
+| vanaf 2009/2010 | 91350 | Helpende |
+| vanaf 2009/2010 | 91351 | Helpende (Zorg) |
+| vanaf 2009/2010 | 91340 | Helpende breed |
+| vanaf 2009/2010 | 92640 | Helpende Zorg & Welzijn |
+| vanaf 2015/2016 | 25498 | Helpende Zorg en Welzijn |
+| Vanaf 2016/2017 | 22189 | Helpende zorg & welzijn |
+| vanaf 2008/2009 | 10702 | Vakfunctionaris Laboratoriumtechniek |
+| vanaf 2008/2009 | 10703 | Vakfunctionaris Medische Laboratoriumtechniek |
+| vanaf 2008/2009 | 10704 | Middenkaderfunctionaris Biologische Laboratoriumtechniek |
+| vanaf 2008/2009 | 10705 | Middenkaderfunctionaris Medische Laboratoriumtechniek |
+| vanaf 2008/2009 | 10706 | Middenkaderfunctionaris Chemische Laboratoriumtechniek |
+| vanaf 2008/2009 | 91730 | Laboratoriummedewerker (Allround laborant) |
+| vanaf 2010/2011 | 91720 | Laboratoriummedewerker (Laborant) |
+| vanaf 2015/2016 | 25044 | Allround laborant |
+| Vanaf 2016/2017 | 22081 | Laboratoriummedewerker |
+| vanaf 2015/2016 | 25475 | Begeleider gehandicaptenzorg |
+| vanaf 2015/2016 | 25476 | Begeleider specifieke doelgroepen |
+| vanaf 2008/2009 | 92661 | Persoonlijk begeleider gehandicapten zorg |
+| vanaf 2015/2016 | 25477 | Persoonlijk begeleider gehandicaptenzorg |
+| vanaf 2008/2009 | 92662 | Persoonlijk begeleider specifieke doelgroepen |
+| vanaf 2015/2016 | 25478 | Persoonlijk begeleider specifieke doelgroepen |
+| vanaf 2015/2016 | 25479 | Thuisbegeleider |
+| vanaf 2008/2009 | 91430 | Medewerker gehandicaptenzorg niveau 4 |
+| vanaf 2008/2009 | 92650 | Maatschappelijke Zorg (Medewerker Maatschappelijke Zorg) 3 |
+| vanaf 2008/2009 | 92660 | Maatschappelijke Zorg 4 |
+| Vanaf 2016/2017 | 22195 | Maatschappelijke Zorg |
+| Vanaf 2016/2017 | 23181 | Maatschappelijke Zorg |
+| vanaf 2008/2009 | 10426 | Verpleegkundige |
+| vanaf 2008/2009 | 92600 | MBO-Verpleegkundige |
+| vanaf 2008/2009 | 93510 | MBO-verpleegkundige |
+| vanaf 2011/2012 | 95520 | MBO-verpleegkundige |
+| vanaf 2015/2016 | 25480 | Mbo-Verpleegkundige |
+| Vanaf 2016/2017 | 22191 | Mbo-verpleegkundige |
+| Vanaf 2016/2017 | 23182 | Mbo-verpleegkundige |
+| vanaf 2008/2009 | 92601 | MBO-verpleegkundige (Geestelijke Gezondheidszorg) |
+| vanaf 2008/2009 | 92602 | MBO-verpleegkundige (Gehandicaptenzorg) |
+| vanaf 2008/2009 | 92603 | MBO-verpleegkundige (Verpleeg- en verzorgingshuiszorg en thuiszorg) |
+| vanaf 2008/2009 | 92604 | MBO-verpleegkundige (Ziekenhuiszorg) |
+| vanaf 2015/2016 | 25053 | Medewerker Steriele Medische Hulpmiddelen (vakopleiding) |
+| vanaf 2015/2016 | 95010 | Medewerker Steriele Medische Hulpmiddelen (vakopleiding) |
+| Vanaf 2016/2017 | 23034 | Medewerker steriele medische hulpmiddelen |
+| vanaf 2011/2012 | 92860 | Orthopedisch technisch medewerker |
+| vanaf 2008/2009 | 94430 | Pedicure |
+| vanaf 2015/2016 | 25406 | Pedicure |
+| Vanaf 2016/2017 | 22174 | Pedicure |
+| Vanaf 2016/2017 | 95744 | Pedicure |
+| vanaf 2008/2009 | 94440 | Pedicure (Medisch Pedicure) |
+| vanaf 2015/2016 | 25405 | Medisch Pedicure |
+| Vanaf 2016/2017 | 95743 | Pedicure (Medisch Pedicure) |
+| vanaf 2008/2009 | 10505 | Voetverzorger |
+| Vanaf 2016/2017 | 23160 | Voetzorg |
+| vanaf 2008/2009 | 10775 | Tandartsassistent |
+| vanaf 2008/2009 | 91410 | Tandartsassistent |
+| vanaf 2015/2016 | 25490 | Tandartsassistent |
+| Vanaf 2016/2017 | 22194 | Tandartsassistent |
+| Vanaf 2016/2017 | 23186 | Tandartsassistent |
+| vanaf 2008/2009 | 10427 | Verzorgende |
+| vanaf 2008/2009 | 92610 | Verzorgende |
+| vanaf 2008/2009 | 93260 | Verzorgende |
+| vanaf 2008/2009 | 92611 | Verzorgende (Geestelijke Gezondheidszorg) |
+| vanaf 2008/2009 | 92612 | Verzorgende (Gehandicaptenzorg) |
+| vanaf 2008/2009 | 92613 | Verzorgende (Kraamzorg) |
+| vanaf 2008/2009 | 92614 | Verzorgende (Verpleeg- en verzorgingshuiszorg en thuiszorg) |
+| vanaf 2008/2009 | 94830 | Verzorgende IG |
+| vanaf 2011/2012 | 95530 | Verzorgende-IG |
+| vanaf 2015/2016 | 25491 | Verzorgende IG |
+| Vanaf 2016/2017 | 23187 | Verzorgende IG |
+| Vanaf 2016/2017 | 22190 | Verzorgende-IG |
+
+Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
+
+##### Artikel 1a
+
+Op deze regeling is de [Kaderregeling subsidies OCW, SZW en VWS](https://wetten.overheid.nl/jci1.3:c:BWBR0037603&wetgeving) niet van toepassing.
+
 ## Bijlage 2. Codes Centraal register opleidingen hoger onderwijs
 
 | Studiejaar | Code | Naam |
 | --- | --- | --- |
-| vanaf 2008/2009 | 34397 | Biologie en medisch laboratorium onderzoek |
-| vanaf 2008/2009 | 34560 | Opleiding tot verpleegkundige |
-| vanaf 2008/2009 | 34576 | Mondzorgkunde |
-| vanaf 2008/2009 | 34091 | Huidtherapie |
-| vanaf 2008/2009 | 34570 | Opleiding tot fysiotherapeut |
-| vanaf 2008/2009 | 34581 | Opleiding Podotherapie |
-| vanaf 2008/2009 | 34331 | Biotechnologie |
-| vanaf 2008/2009 | 34561 | Medisch Beeldvormende en Radiotherapeutische Techniek |
+| vanaf 2011/2012 | 80084 | Ad Medische Laboratoriumdiagnostiek. |
 | vanaf 2008/2009 | 30008 | Applied Science |
-| vanaf 2009/2010 | 39217 | Biometrie |
-| vanaf 2009/2010 | 34549 | B Optometrie |
-| vanaf 2009/2010 | 34577 | B Orthoptie |
-| vanaf 2010/2011 | 34953 | B Orthopedische technologie |
 | vanaf 2011/2012 | 30023 | B Medische Hulpverlening |
 | vanaf 2011/2012 | 34571 | B Oefentherapie Cesar |
 | vanaf 2011/2012 | 34572 | B Opleiding tot Oefentherapeut-Mensendieck |
-| vanaf 2011/2012 | 80084 | Ad Medische Laboratoriumdiagnostiek. |
-| Vanaf 2015/2016 | 34134 | B Verloskunde |
-| Vanaf 2015/2016 | 30109 | B Toegepaste Gerontologie |
+| vanaf 2009/2010 | 34549 | B Optometrie |
+| vanaf 2009/2010 | 34577 | B Orthoptie |
+| vanaf 2010/2011 | 34953 | B Orthopedische technologie |
+| vanaf 2015/2016 | 34134 | B Verloskunde |
+| vanaf 2008/2009 | 34397 | Biologie en medisch laboratorium onderzoek |
+| vanaf 2009/2010 | 39217 | Biometrie |
+| vanaf 2008/2009 | 34331 | Biotechnologie |
+| vanaf 2008/2009 | 34091 | Huidtherapie |
+| vanaf 2008/2009 | 34561 | Medisch Beeldvormende en Radiotherapeutische Techniek |
+| vanaf 2008/2009 | 34576 | Mondzorgkunde |
+| vanaf 2008/2009 | 34581 | Opleiding Podotherapie |
+| vanaf 2008/2009 | 34570 | Opleiding tot fysiotherapeut |
+| vanaf 2008/2009 | 34560 | Opleiding tot verpleegkundige |
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
