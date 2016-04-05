@@ -4,7 +4,7 @@ identifier: "BWBR0024932"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2016-04-05"
-last_updated: "2016-01-18"
+last_updated: "2016-04-05"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0024932"
 soort: "ministeriele-regeling"
@@ -44,7 +44,7 @@ Besluit:
 
 ##### Artikel 1. Definities
 
-- a. **wet:** de [Algemene wet erkenning EG-beroepskwalificaties](https://wetten.overheid.nl/jci1.3:c:BWBR0023066);
+- a. **wet:** de [Algemene wet erkenning EU-beroepskwalificaties](https://wetten.overheid.nl/jci1.3:c:BWBR0023066);
 
 - b. **bestuur:** het bestuur van de raad voor rechtsbijstand;
 
@@ -62,11 +62,11 @@ Besluit:
 
 ##### Artikel 2. Mandaat en machtiging
 
-1. Het bestuur wordt mandaat en machtiging verleend ten aanzien van de bevoegdheden en handelingen, bedoeld in de [artikelen 5](https://wetten.overheid.nl/jci1.3:c:BWBR0023066&artikel=5), [6](https://wetten.overheid.nl/jci1.3:c:BWBR0023066&artikel=6), [8](https://wetten.overheid.nl/jci1.3:c:BWBR0023066&artikel=8), [11](https://wetten.overheid.nl/jci1.3:c:BWBR0023066&artikel=11), [12](https://wetten.overheid.nl/jci1.3:c:BWBR0023066&artikel=12), [13](https://wetten.overheid.nl/jci1.3:c:BWBR0023066&artikel=13), [17](https://wetten.overheid.nl/jci1.3:c:BWBR0023066&artikel=17), [19](https://wetten.overheid.nl/jci1.3:c:BWBR0023066&artikel=19), [23](https://wetten.overheid.nl/jci1.3:c:BWBR0023066&artikel=23), [27](https://wetten.overheid.nl/jci1.3:c:BWBR0023066&artikel=27), [29](https://wetten.overheid.nl/jci1.3:c:BWBR0023066&artikel=29), [30](https://wetten.overheid.nl/jci1.3:c:BWBR0023066&artikel=30), [32](https://wetten.overheid.nl/jci1.3:c:BWBR0023066&artikel=32), [34, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023066&artikel=34), en [35, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0023066&artikel=35), met inbegrip van de behandeling van klachten, het beslissen op bezwaar en op verzoeken in het kader van de [Wet openbaarheid van bestuur](https://wetten.overheid.nl/jci1.3:c:BWBR0005252) en het terzake voeren van gerechtelijke procedures.
+1. Het bestuur wordt mandaat en machtiging verleend ten aanzien van de bevoegdheden en handelingen, bedoeld in de [artikelen 5](https://wetten.overheid.nl/jci1.3:c:BWBR0023066&artikel=5), [6](https://wetten.overheid.nl/jci1.3:c:BWBR0023066&artikel=6), [8](https://wetten.overheid.nl/jci1.3:c:BWBR0023066&artikel=8), [11](https://wetten.overheid.nl/jci1.3:c:BWBR0023066&artikel=11), [12](https://wetten.overheid.nl/jci1.3:c:BWBR0023066&artikel=12), [13](https://wetten.overheid.nl/jci1.3:c:BWBR0023066&artikel=13), [17](https://wetten.overheid.nl/jci1.3:c:BWBR0023066&artikel=17), [18](https://wetten.overheid.nl/jci1.3:c:BWBR0023066&artikel=18), [19](https://wetten.overheid.nl/jci1.3:c:BWBR0023066&artikel=19), [22](https://wetten.overheid.nl/jci1.3:c:BWBR0023066&artikel=22), [23](https://wetten.overheid.nl/jci1.3:c:BWBR0023066&artikel=23), [25, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023066&artikel=25), [27](https://wetten.overheid.nl/jci1.3:c:BWBR0023066&artikel=27), [28](https://wetten.overheid.nl/jci1.3:c:BWBR0023066&artikel=28), [29](https://wetten.overheid.nl/jci1.3:c:BWBR0023066&artikel=29), [30](https://wetten.overheid.nl/jci1.3:c:BWBR0023066&artikel=30), [30a](https://wetten.overheid.nl/jci1.3:c:BWBR0023066&artikel=30a), [31](https://wetten.overheid.nl/jci1.3:c:BWBR0023066&artikel=31), [31b](https://wetten.overheid.nl/jci1.3:c:BWBR0023066&artikel=31b), [31c](https://wetten.overheid.nl/jci1.3:c:BWBR0023066&artikel=31c), [32](https://wetten.overheid.nl/jci1.3:c:BWBR0023066&artikel=32), [34, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023066&artikel=34), [34c](https://wetten.overheid.nl/jci1.3:c:BWBR0023066&artikel=34c), en [35, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0023066&artikel=35), met inbegrip van de behandeling van klachten, het beslissen op bezwaar en op verzoeken in het kader van de [Wet openbaarheid van bestuur](https://wetten.overheid.nl/jci1.3:c:BWBR0005252) en het terzake voeren van gerechtelijke procedures.
 
 2. Het bestuur wordt toegestaan het in het eerste lid verleende mandaat en machtiging geheel of gedeeltelijk door te geven aan een of meer onder hem ressorterende functionarissen, de commissie beëdigde tolken en vertaler of de klachtencommissie.
 
-### Hoofdstuk 2. Erkenning van EG-beroepskwalificaties
+### Hoofdstuk 2. Erkenning van EU-beroepskwalificaties
 
 ##### Artikel 3. Documenten bij aanvraag
 
@@ -88,11 +88,11 @@ Besluit:
 
 - e. een verklaring omtrent gedrag afgegeven door het bevoegd gezag van de betrokken staat van oorsprong of herkomst, of een met die verklaring overeenkomend document bedoeld in [artikel 14, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0023066&artikel=14), met dien verstande dat de verklaring of het document ten tijde van de indiening van de aanvraag niet ouder is dan drie maanden.
 
-3. Indien het bestuur een eerdere aanvraag heeft afgewezen en hierbij een mededeling, bedoeld in [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024932&hoofdstuk=2&artikel=4&z=2016-04-05&g=2016-01-18), heeft gedaan, doet de aanvrager de aanvraag tevens vergezeld gaan van:
+3. Indien het bestuur een eerdere aanvraag heeft afgewezen en hierbij een mededeling, bedoeld in [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024932&hoofdstuk=2&artikel=4&z=2016-04-05&g=2016-04-05), heeft gedaan, doet de aanvrager de aanvraag tevens vergezeld gaan van:
 
-- a. een verklaring, bedoeld in [artikel 5, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024932&hoofdstuk=2&artikel=5&z=2016-04-05&g=2016-01-18); of
+- a. een verklaring, bedoeld in [artikel 5, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024932&hoofdstuk=2&artikel=5&z=2016-04-05&g=2016-04-05); of
 
-- b. een verklaring, bedoeld in [artikel 6, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024932&hoofdstuk=2&artikel=6&z=2016-04-05&g=2016-01-18).
+- b. een verklaring, bedoeld in [artikel 6, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024932&hoofdstuk=2&artikel=6&z=2016-04-05&g=2016-04-05).
 
 4. Het bestuur kan verlangen dat de aanvrager nadere informatie verstrekt over:
 
@@ -154,7 +154,7 @@ Besluit:
 
 1. Het bestuur kan voorafgaand aan de eerste dienstverrichting de beroepskwalificaties van de dienstverrichter controleren in verband met de openbare veiligheid, bedoeld in [artikel 27 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0023066&artikel=27).
 
-2. In geval van [artikel 27, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0023066&artikel=27), biedt het bestuur de dienstverrichter de mogelijkheid om door middel van een met goed gevolg afgelegde proeve van bekwaamheid, bedoeld in de [artikelen 4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024932&hoofdstuk=2&artikel=4&z=2016-04-05&g=2016-01-18), en [6](https://wetten.overheid.nl/jci1.3:c:BWBR0024932&hoofdstuk=2&artikel=6&z=2016-04-05&g=2016-01-18), aan te tonen dat hij de ontbrekende kennis en vaardigheden heeft verworven.
+2. In geval van [artikel 27, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0023066&artikel=27), biedt het bestuur de dienstverrichter de mogelijkheid om door middel van een met goed gevolg afgelegde proeve van bekwaamheid, bedoeld in de [artikelen 4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024932&hoofdstuk=2&artikel=4&z=2016-04-05&g=2016-04-05), en [6](https://wetten.overheid.nl/jci1.3:c:BWBR0024932&hoofdstuk=2&artikel=6&z=2016-04-05&g=2016-04-05), aan te tonen dat hij de ontbrekende kennis en vaardigheden heeft verworven.
 
 ##### Artikel 9. Gegevens voor afnemers van de dienst
 
@@ -168,6 +168,6 @@ Deze regeling treedt in werking op 1 januari 2009.
 
 ##### Artikel 11. Citeertitel
 
-Deze regeling wordt aangehaald als: Regeling erkenning EG-beroepskwalificaties beëdigde tolken en vertalers.
+Deze regeling wordt aangehaald als: Regeling erkenning EU-beroepskwalificaties beëdigde tolken en vertalers.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
