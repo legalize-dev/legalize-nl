@@ -4,7 +4,7 @@ identifier: "BWBR0024977"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2016-04-05"
-last_updated: "2013-01-01"
+last_updated: "2016-04-05"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0024977"
 soort: "ministeriele-regeling"
@@ -44,11 +44,11 @@ Besluit:
 
 In deze regeling wordt verstaan onder:
 
-- a. **kandidaat-notaris:** de kandidaat-notaris, bedoeld in [artikel 1, onder b, van de Wet op het notarisambt](https://wetten.overheid.nl/jci1.3:c:BWBR0010388&artikel=1);
+- a. **kandidaat-notaris:** de kandidaat-notaris, bedoeld in [artikel 1, onder c, van de Wet op het notarisambt](https://wetten.overheid.nl/jci1.3:c:BWBR0010388&artikel=1);
 
-- b. **wet:** de [Algemene wet erkenning EG-beroepskwalificaties](https://wetten.overheid.nl/jci1.3:c:BWBR0023066);
+- b. **wet:** de [Algemene wet erkenning EU-beroepskwalificaties](https://wetten.overheid.nl/jci1.3:c:BWBR0023066);
 
-- c. **KNB:** de Koninklijke Notariële Beroepsorganisatie, bedoeld in [artikel 1, onderdeel h, van de Wet op het notarisambt](https://wetten.overheid.nl/jci1.3:c:BWBR0010388&artikel=1).
+- c. **KNB:** de Koninklijke Notariële Beroepsorganisatie, bedoeld in [artikel 1, onderdeel i, van de Wet op het notarisambt](https://wetten.overheid.nl/jci1.3:c:BWBR0010388&artikel=1).
 
 ##### Artikel 2. KNB
 
@@ -82,7 +82,7 @@ De taken en bevoegdheden van de Minister van Veiligheid en Justitie, bedoeld in 
 
 2. De KNB informeert de aanvrager schriftelijk over:
 
-- a. op welke in het [Besluit beroepsvereisten kandidaat-notaris](https://wetten.overheid.nl/jci1.3:c:BWBR0010487) genoemde onderdelen van het Nederlands recht de proeve van bekwaamheid betrekking heeft;
+- a. op welke onderdelen van het Nederlands recht de proeve van bekwaamheid betrekking heeft;
 
 - b. de wijze waarop de proeve van bekwaamheid wordt afgenomen;
 
@@ -114,6 +114,6 @@ Deze regeling treedt in werking met ingang van de tweede dag na de dagtekening v
 
 ##### Artikel 6. Citeertitel
 
-Deze regeling wordt aangehaald als: Regeling erkenning EG-beroepskwalificaties kandidaat-notaris.
+Deze regeling wordt aangehaald als: Regeling erkenning EU-beroepskwalificaties kandidaat-notaris.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
