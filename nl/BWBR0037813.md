@@ -4,7 +4,7 @@ identifier: "BWBR0037813"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2022-01-01"
-last_updated: "2015-09-01"
+last_updated: "2016-04-12"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0037813"
 soort: "ministeriele-regeling"
@@ -82,7 +82,7 @@ In deze regeling wordt verstaan onder:
 
 - e. in samenwerking met de overige stuurgroepleden een inhoudelijke bijdrage leveren aan de kennisuitwisseling met en door de stuurgroep over actuele kennisrelevante onderwerpen.
 
-2. De voorzitter heeft eveneens tot taak de organisatie van een 2-jaarlijks congres door de leden van het KWI te coördineren. De voorzitter draagt daarbij in samenwerking met de overige organisaties, genoemd in [artikel 1, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0037813&artikel=1&z=2016-04-12&g=2015-09-01), zorg voor het bepalen van de doelgroep, de vaststelling van het onderwerp en nodigt hiertoe sprekers uit. Het secretariaat, genoemd in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0037813&artikel=4&z=2016-04-12&g=2015-09-01), draagt zorg voor de organisatie en het budgetbeheer van het congres. De voorzitter stemt de inhoud en budget vooraf af met de stuurgroep.
+2. De voorzitter heeft eveneens tot taak de organisatie van een 2-jaarlijks congres door de leden van het KWI te coördineren. De voorzitter draagt daarbij in samenwerking met de overige organisaties, genoemd in [artikel 1, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0037813&artikel=1&z=2016-04-12&g=2016-04-12), zorg voor het bepalen van de doelgroep, de vaststelling van het onderwerp en nodigt hiertoe sprekers uit. Het secretariaat, genoemd in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0037813&artikel=4&z=2016-04-12&g=2016-04-12), draagt zorg voor de organisatie en het budgetbeheer van het congres. De voorzitter stemt de inhoud en budget vooraf af met de stuurgroep.
 
 3. De voorzitter neemt deel aan de adviesraad van het kennisprogramma ‘Vakkundig aan het werk’ voor de uitvoeringpraktijk van gemeenten.
 
