@@ -4,7 +4,7 @@ identifier: "BWBR0037674"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-01-23"
-last_updated: "2016-03-01"
+last_updated: "2016-04-12"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0037674"
 soort: "ministeriele-regeling"
@@ -54,9 +54,9 @@ Besluit:
 
 ##### Artikel 2.1. Keuzedelen
 
-1. De keuzedelen en de studielast daarvan worden vastgesteld op de wijze bedoeld in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0037674&bijlage=1&z=2016-03-01&g=2016-03-01) behorende bij deze regeling.
+1. De keuzedelen en de studielast daarvan worden vastgesteld op de wijze bedoeld in de [bijlagen 1](https://wetten.overheid.nl/jci1.3:c:BWBR0037674&bijlage=1&z=2016-04-12&g=2016-04-12) en [3](https://wetten.overheid.nl/jci1.3:c:BWBR0037674&bijlage=3&z=2016-04-12&g=2016-04-12) behorende bij deze regeling.
 
-2. De koppeling van keuzedelen aan kwalificaties, bedoeld in het eerste lid, wordt vastgesteld op de wijze bedoeld in [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0037674&bijlage=3&z=2016-03-01&g=2016-03-01) behorende bij deze regeling.
+2. De koppeling van keuzedelen aan kwalificaties, bedoeld in het eerste lid, wordt vastgesteld op de wijze bedoeld in de [bijlagen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0037674&bijlage=2&z=2016-04-12&g=2016-04-12) en [4](https://wetten.overheid.nl/jci1.3:c:BWBR0037674&bijlage=4&z=2016-04-12&g=2016-04-12) behorende bij deze regeling.
 
 #### Paragraaf 3. Slotbepalingen
 
@@ -81,3 +81,9 @@ Gepubliceerd op www.s-bb.nl/keuzedelen.
 Gepubliceerd op www.s-bb.nl/keuzedelen.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst. De [bijlagen](https://wetten.overheid.nl/jci1.3:c:BWBR0037674&bijlage=1&z=2016-03-01&g=2016-03-01) worden gepubliceerd op de website www.s-bb.nl/keuzedelen.
+
+## Bijlage 4
+
+Gepubliceerd op www.s-bb.nl/keuzedelen.
+
+Deze regeling zal met de toelichting in de Staatscourant worden geplaatst. De [bijlagen](https://wetten.overheid.nl/jci1.3:c:BWBR0037674&bijlage=1&z=2016-04-12&g=2016-04-12) worden gepubliceerd op de website www.s-bb.nl/keuzedelen.
