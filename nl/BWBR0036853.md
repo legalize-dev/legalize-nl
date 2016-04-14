@@ -4,7 +4,7 @@ identifier: "BWBR0036853"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2019-04-01"
-last_updated: "2015-11-05"
+last_updated: "2016-04-14"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0036853"
 soort: "ministeriele-regeling"
@@ -44,15 +44,15 @@ Besluit:
 
 De kengetallen bedoeld in [artikel 11, tweede lid, onderdeel d, van het Besluit begroting en verantwoording provincies en gemeenten](https://wetten.overheid.nl/jci1.3:c:BWBR0014606&artikel=11) worden:
 
-- a. vastgesteld met behulp van de tabellen die in de bij deze regeling gevoegde [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0036853&bijlage=1&z=2015-11-05&g=2015-11-05) zijn opgenomen;
+- a. vastgesteld met behulp van de tabellen die in de bij deze regeling gevoegde [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0036853&bijlage=1&z=2016-04-14&g=2016-04-14) zijn opgenomen;
 
-- b. opgenomen in de begroting en het jaarverslag met behulp van de tabellen die in de bij deze regeling bijgevoegde [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0036853&bijlage=2&z=2015-11-05&g=2015-11-05) zijn opgenomen.
+- b. opgenomen in de begroting en het jaarverslag met behulp van de tabellen die in de bij deze regeling bijgevoegde [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0036853&bijlage=2&z=2016-04-14&g=2016-04-14) zijn opgenomen.
 
 ##### Artikel 2
 
 Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst.
 
-## Bijlage 1. behorende bij [artikel 1, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0036853&artikel=1&z=2015-11-05&g=2015-11-05), van de Regeling van de Minister van Binnenlandse Zaken en Koninkrijksrelaties van 9 juli 2015, nr. 2015-0000387198, tot vaststelling van de wijze waarop kengetallen worden vastgesteld en opgenomen in de begroting en het jaarverslag van provincies en gemeenten
+## Bijlage 1. behorende bij [artikel 1, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0036853&artikel=1&z=2016-04-14&g=2016-04-14), van de Regeling van de Minister van Binnenlandse Zaken en Koninkrijksrelaties van 9 juli 2015, nr. 2015-0000387198, tot vaststelling van de wijze waarop kengetallen worden vastgesteld en opgenomen in de begroting en het jaarverslag van provincies en gemeenten
 
 Tabel 1. Het kengetal netto schuldquote en het kengetal netto schuldquote gecorrigeerd voor alle leningen worden vastgesteld als volgt:
 
@@ -114,7 +114,7 @@ Tabel 5. Het kengetal belastingcapaciteit wordt voor de provincie respectievelij
 | **A** | Het geraamde respectievelijke vastgestelde aantal opcenten op de motorrijtuigenbelasting |
 | **B** | Het landelijk gemiddelde aantal opcenten het voorgaande begrotingsjaar. |
 
-## Bijlage 2. behorende bij [artikel 1, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0036853&artikel=1&z=2015-11-05&g=2015-11-05), van de Regeling van de Minister van Binnenlandse Zaken en Koninkrijksrelaties van 9 juli 2015, nr. 2015-0000387198, tot vaststelling van de wijze waarop kengetallen worden vastgesteld en opgenomen in de begroting en het jaarverslag van provincies en gemeenten
+## Bijlage 2. behorende bij [artikel 1, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0036853&artikel=1&z=2016-04-14&g=2016-04-14), van de Regeling van de Minister van Binnenlandse Zaken en Koninkrijksrelaties van 9 juli 2015, nr. 2015-0000387198, tot vaststelling van de wijze waarop kengetallen worden vastgesteld en opgenomen in de begroting en het jaarverslag van provincies en gemeenten
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
