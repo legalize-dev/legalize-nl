@@ -4,7 +4,7 @@ identifier: "BWBR0005544"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2022-01-01"
-last_updated: "2016-04-01"
+last_updated: "2016-04-14"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0005544"
 soort: "ministeriele-regeling"
@@ -71,7 +71,7 @@ De vergunninghouder is verplicht de raad van bestuur onmiddellijk te informeren 
 
 ##### Artikel 5
 
-1. De vergunninghouder is verplicht het onder deze vergunning vergunde kansspel aan te bieden met inachtneming van het deelnemersreglement versie geldend per 29 januari 2016.
+1. De vergunninghouder is verplicht het onder deze vergunning vergunde kansspel aan te bieden met inachtneming van het Deelnemersreglement Staatsloterij bv, d.d. 1 april 2016.
 
 2. Het gebruik van andere reglementen of een andere trekkingsprocedure is uitsluitend toegestaan na voorafgaande schriftelijke toestemming van de raad van bestuur.
 
