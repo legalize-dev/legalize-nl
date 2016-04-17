@@ -4,7 +4,7 @@ identifier: "BWBR0016434"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2016-04-17"
-last_updated: "2012-02-10"
+last_updated: "2016-04-17"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0016434"
 soort: "ministeriele-regeling"
@@ -57,23 +57,7 @@ De Commissie bestaat uit acht leden, onder wie de voorzitter.
 
 1. De Minister van Infrastructuur en Milieu benoemt en ontslaat de leden van de Commissie.
 
-2. Met ingang van 10 februari 2004 wordt voor een periode van vier jaar tot voorzitter van de Commissie benoemd: Z.K.H. Willem-Alexander Claus George Ferdinand Prins van Oranje.
-
-3. Met ingang van 10 februari 2004 wordt voor een periode van vier jaar tot lid van de Commissie benoemd:
-
-- a. mevr. M. de Boer te Zeijen;
-
-- b. mr. P.J. Biesheuvel te Den Haag;
-
-- c. mr. J.E. Jansen te Wassenaar;
-
-- d. F. Tielrooij te Muiderberg;
-
-- e. E. Togtema te Drachten;
-
-- f. prof. dr. Th. Toonen te Oude Wetering.
-
-4. De leden van de Commissie kunnen voor een tijdvak van vier jaar worden herbenoemd.
+2. De leden van de Commissie kunnen voor een tijdvak van vier jaar worden herbenoemd.
 
 ##### Artikel 6
 
