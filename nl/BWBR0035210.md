@@ -4,7 +4,7 @@ identifier: "BWBR0035210"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2024-08-03"
-last_updated: "2015-05-01"
+last_updated: "2016-04-20"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0035210"
 soort: "ministeriele-regeling"
@@ -276,8 +276,6 @@ Landen met de aanduiding ‘F’ gelden voor de toepassing van deze beleidsregel
 
 Afghanistan (F)
 
-Albanië
-
 Algerije
 
 Angola
@@ -291,8 +289,6 @@ Benin
 Bhutan
 
 Bolivia
-
-Bosnië Herzegovina (F)
 
 Burkina Faso
 
@@ -314,7 +310,7 @@ Ethiopië
 
 Filipijnen
 
-Gambia
+Gambia (F)
 
 Georgië
 
@@ -324,9 +320,13 @@ Guatemala
 
 Guinee
 
+Haïti (F)
+
 India
 
 Indonesië
+
+Ivoorkust (F)
 
 Jemen (F)
 
@@ -340,17 +340,15 @@ Kosovo (F)
 
 Laos
 
-Liberia
+Libanon (F)
+
+Liberia (F)
 
 Libië (F)
 
-Macedonië
-
 Madagaskar (F)
 
-Malawi (F)
-
-Maldiven
+Malawi
 
 Mali (F)
 
@@ -364,7 +362,7 @@ Mozambique
 
 Myanmar (F)
 
-Nepal (F)
+Nepal
 
 Nicaragua
 
@@ -394,7 +392,9 @@ Suriname
 
 Tanzania
 
-Thailand
+Togo (F)
+
+Tsjaad (F)
 
 ### Annex 2. Artikel 21 van de Algemene groepsvrijstellingverordening
 
