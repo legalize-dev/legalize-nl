@@ -4,7 +4,7 @@ identifier: "BWBR0019517"
 country: "nl"
 rank: "wet"
 publication_date: "2023-04-19"
-last_updated: "2016-01-01"
+last_updated: "2016-04-20"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0019517"
 soort: "wet"
@@ -39,7 +39,7 @@ entry_into_force: "2006-11-29"
 
 Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
 
-Alzo Wij in overweging genomen hebben, dat het wenselijk is de regels met betrekking tot meeteenheden en het in de handel brengen en het gebruik van meetinstrumenten op een aan de eisen van deze tijd aangepaste en overzichtelijke wijze vast te stellen, daarbij onder meer rekening houdend met de implementatie van EG-regelgeving op het terrein van de metrologie en in het bijzonder van [richtlijn 2004/22/EG](onbekend) van het Europees Parlement en de Raad van 31 maart 2004 betreffende meetinstrumenten (PbEU L 135);
+Alzo Wij in overweging genomen hebben, dat het wenselijk is de regels met betrekking tot meeteenheden en het in de handel brengen en het gebruik van meetinstrumenten op een aan de eisen van deze tijd aangepaste en overzichtelijke wijze vast te stellen, daarbij onder meer rekening houdend met de implementatie van EG-regelgeving op het terrein van de metrologie en in het bijzonder van [richtlijn 2004/22/EG](32004L0022) van het Europees Parlement en de Raad van 31 maart 2004 betreffende meetinstrumenten (PbEU L 135);
 
 Zo is het, dat Wij, de Raad van State gehoord en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
 
@@ -51,25 +51,37 @@ In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
 - a. Onze Minister: Onze Minister van Economische Zaken;
 
-- b. EG-besluit: bindend besluit van de Raad van de Europese Unie, van het Europese Parlement en de Raad gezamenlijk of van de Commissie van de Europese Gemeenschappen;
+- b. EU-besluit: bindend besluit van de Raad van de Europese Unie, van het Europese Parlement en de Raad gezamenlijk of van de Europese Commissie;
 
 - c. meetinstrument: apparaat of systeem met een meetfunctie;
 
 - d. onderdeel: apparaat dat onafhankelijk functioneert en dat samen met andere compatibele onderdelen of een compatibel meetinstrument, een meetinstrument vormt;
 
-- e. geregelde meettaak: meettaak ten behoeve van een specifieke toepassing, bedoeld in [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019517&hoofdstuk=3&artikel=5&z=2016-01-01&g=2016-01-01);
+- e. geregelde meettaak: meettaak ten behoeve van een specifieke toepassing, bedoeld in [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019517&hoofdstuk=3&artikel=5&z=2016-04-20&g=2016-04-20);
 
-- f. geregeld meetinstrument: meetinstrument bestemd voor een geregelde meettaak ten aanzien waarvan krachtens [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019517&hoofdstuk=3&artikel=5&z=2016-01-01&g=2016-01-01), regels zijn gesteld;
+- f. geregeld meetinstrument: meetinstrument bestemd voor een geregelde meettaak ten aanzien waarvan krachtens [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019517&hoofdstuk=3&artikel=5&z=2016-04-20&g=2016-04-20), regels zijn gesteld;
 
-- g. overeenstemmingsbeoordeling: beoordeling van de overeenstemming van een meetinstrument of van een onderdeel, met de gestelde eisen;
+- g. conformiteitsbeoordeling: beoordeling van de overeenstemming van een meetinstrument of van een onderdeel, met de gestelde eisen;
 
-- h. in de handel brengen: voor het eerst al dan niet tegen betaling beschikbaar stellen van een voor een eindgebruiker bestemd meetinstrument;
+- h. in de handel brengen: het voor het eerst in de Europese Unie op de markt aanbieden van een meetinstrument;
 
-- i. in gebruik nemen: eerste gebruik van een voor een eindgebruiker bestemd meetinstrument voor het doel waarvoor het was bestemd;
+- i. op de markt aanbieden: het al dan niet tegen betaling in het kader van een handelsactiviteit verstrekken van een meetinstrument met het oog op distributie of gebruik op de markt van de Europese Unie;
 
-- j. aangewezen instantie: ingevolge [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0019517&hoofdstuk=4&paragraaf=1&artikel=12&z=2016-01-01&g=2016-01-01) aangewezen instantie;
+- j. in gebruik nemen: eerste gebruik van een voor een eindgebruiker bestemd meetinstrument voor het doel waarvoor het was bestemd;
 
-- k. toezichthoudende instantie: op grond van [artikel 27, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019517&hoofdstuk=6&paragraaf=1&artikel=27&z=2016-01-01&g=2016-01-01), aangewezen rechtspersoon.
+- k. aangewezen instantie: ingevolge [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0019517&hoofdstuk=4&paragraaf=1&artikel=12&z=2016-04-20&g=2016-04-20) aangewezen instantie;
+
+- l. marktdeelnemer: fabrikant, gemachtigde, importeur of distributeur;
+
+- m. fabrikant: een natuurlijke persoon of rechtspersoon die een meetinstrument vervaardigt of laat ontwerpen of vervaardigen, en het onder zijn naam of merknaam in de handel brengt of het voor eigen doeleinden in gebruik neemt;
+
+- n. gemachtigde: een in de Europese Unie gevestigde natuurlijke persoon of rechtspersoon die schriftelijk door een fabrikant is gemachtigd om namens hem specifieke taken te vervullen;
+
+- o. importeur: een in de Europese Unie gevestigde natuurlijke persoon of rechtspersoon die een meetinstrument uit een derde land in de Unie in de handel brengt;
+
+- p. distributeur: een natuurlijke persoon of rechtspersoon in de toeleveringsketen, verschillend van de fabrikant of de importeur, die een meetinstrument op de markt aanbiedt;
+
+- q. interne instantie: een afzonderlijk en te onderscheiden onderdeel binnen de onderneming van de fabrikant dat niet is betrokken bij het ontwerp, de productie, de levering, de installatie, het gebruik of het onderhoud van de meetinstrumenten, dat zij moet beoordelen.
 
 ### Hoofdstuk 2. Meeteenheden en standaarden
 
@@ -83,23 +95,23 @@ In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
 - b. de omstandigheden waaronder een meetinstrument wordt gebruikt;
 
-- c. de aanwijzing van normen die overeenkomen met geharmoniseerde Europese normen voor een meetinstrument of met normatieve documenten en lijsten waarvan de referenties binnen de Europese Unie op de daarvoor geldende wijze zijn bekendgemaakt;
+- c. de EU-conformiteitsverklaring waarin wordt vermeld dat aangetoond is dat aan de gestelde eisen is voldaan;
 
-- d. de merktekens waaruit blijkt dat een meetinstrument voldoet aan de gestelde eisen, alsmede andere merktekens en opschriften.
+- d. de merktekens waaruit blijkt dat een meetinstrument voldoet aan de gestelde eisen, alsmede andere merktekens.
 
-2. Bij of krachtens algemene maatregel van bestuur kunnen regels worden gesteld omtrent de overeenstemmingsbeoordelingen van meetinstrumenten, alsmede omtrent het aanbrengen van de merktekens en opschriften en de aanwijzing van degenen die daartoe bevoegd zijn.
+2. Bij of krachtens algemene maatregel van bestuur kunnen regels worden gesteld met betrekking tot de conformiteitsbeoordelingen van meetinstrumenten, alsmede met betrekking tot het aanbrengen van de merktekens, de aanwijzing van degenen die daartoe bevoegd zijn, en de verplichtingen van marktdeelnemers ten aanzien van de uitvoering van de in het eerste lid juncto het derde lid bedoelde regels.
 
-3. In de in het eerste en tweede lid bedoelde regels kan onderscheid worden gemaakt tussen het in de handel brengen, in gebruik nemen, verhandelen en het gebruik van meetinstrumenten.
+3. In de in het eerste en tweede lid bedoelde regels kan onderscheid worden gemaakt tussen het in de handel brengen, in gebruik nemen, op de markt aanbieden en het gebruik van meetinstrumenten.
 
 ##### Artikel 6
 
-1. Een geregeld meetinstrument ondergaat een voor dat meetinstrument op grond van [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0019517&hoofdstuk=3&artikel=5&z=2016-01-01&g=2016-01-01) voorgeschreven overeenstemmingsbeoordeling voordat het in de handel wordt gebracht of in gebruik wordt genomen.
+1. Een geregeld meetinstrument ondergaat een voor dat meetinstrument op grond van [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0019517&hoofdstuk=3&artikel=5&z=2016-04-20&g=2016-04-20) voorgeschreven conformiteitsbeoordeling voordat het in de handel wordt gebracht of in gebruik wordt genomen.
 
-2. Met meetinstrumenten die een in het eerste lid bedoelde overeenstemmingsbeoordeling hebben ondergaan, worden gelijkgesteld meetinstrumenten die in een andere lidstaat van de Europese Unie dan wel in een staat niet zijnde een lidstaat van de Europese Unie, die partij is bij een daartoe strekkend of mede daartoe strekkend verdrag dat Nederland bindt, rechtmatig zijn geproduceerd of in de handel zijn gebracht en die door een gelijkwaardige, door die staat erkende instantie op hun overeenstemming met de gestelde eisen zijn beoordeeld, mits bij die beoordeling aan gelijkwaardige eisen is voldaan.
+2. Met meetinstrumenten die een in het eerste lid bedoelde conformiteitsbeoordeling hebben ondergaan, worden gelijkgesteld meetinstrumenten die in een andere lidstaat van de Europese Unie dan wel in een staat niet zijnde een lidstaat van de Europese Unie, die partij is bij een daartoe strekkend of mede daartoe strekkend verdrag dat Nederland bindt, rechtmatig zijn geproduceerd of in de handel zijn gebracht en die door een gelijkwaardige, door die staat erkende instantie op hun overeenstemming met de gestelde eisen zijn beoordeeld, mits bij die beoordeling aan gelijkwaardige eisen is voldaan.
 
 ##### Artikel 7
 
-Een in gebruik genomen geregeld meetinstrument ondergaat een op grond van [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0019517&hoofdstuk=3&artikel=5&z=2016-01-01&g=2016-01-01) voor dat meetinstrument voorgeschreven overeenstemmingsbeoordeling:
+Een in gebruik genomen geregeld meetinstrument ondergaat een op grond van [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0019517&hoofdstuk=3&artikel=5&z=2016-04-20&g=2016-04-20) voor dat meetinstrument voorgeschreven conformiteitsbeoordeling:
 
 - a. voordat het meetinstrument weer wordt gebruikt na een reparatie of een verandering die van invloed kan zijn op de meetfunctie;
 
@@ -111,11 +123,11 @@ Een in gebruik genomen geregeld meetinstrument ondergaat een op grond van [artik
 
 ##### Artikel 8
 
-Een meetinstrument dat bij de overeenstemmingsbeoordeling voldoet aan de aan dat meetinstrument gestelde eisen, wordt overeenkomstig de krachtens [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0019517&hoofdstuk=3&artikel=5&z=2016-01-01&g=2016-01-01) gestelde regels voorzien van de voor dat meetinstrument vastgestelde merktekens en opschriften.
+Een meetinstrument dat bij de conformiteitsbeoordeling voldoet aan de aan dat meetinstrument gestelde eisen, wordt overeenkomstig de krachtens [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0019517&hoofdstuk=3&artikel=5&z=2016-04-20&g=2016-04-20) gestelde regels voorzien van de voor dat meetinstrument vastgestelde merktekens.
 
 ##### Artikel 9
 
-Bij of krachtens algemene maatregel van bestuur kunnen ten aanzien van het in de handel brengen, verhandelen of in gebruik nemen van andere meetinstrumenten dan geregelde meetinstrumenten, in verband met de uitvoering van een EG-besluit, regels als bedoeld in [artikel 5, eerste lid, onderdelen a tot en met d, en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019517&hoofdstuk=3&artikel=5&z=2016-01-01&g=2016-01-01), worden vastgesteld.
+Bij of krachtens algemene maatregel van bestuur kunnen ten aanzien van het in de handel brengen, op de markt aanbieden of in gebruik nemen van andere meetinstrumenten dan geregelde meetinstrumenten, in verband met de uitvoering van een EU-besluit, regels als bedoeld in [artikel 5, eerste lid, onderdelen a tot en met d, en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019517&hoofdstuk=3&artikel=5&z=2016-04-20&g=2016-04-20), worden vastgesteld.
 
 ### Hoofdstuk 4. Toetsende instanties bij overeenstemmingsbeoordelingen
 
@@ -123,45 +135,47 @@ Bij of krachtens algemene maatregel van bestuur kunnen ten aanzien van het in de
 
 ##### Artikel 10
 
-Bij of krachtens algemene maatregel van bestuur worden de eisen vastgesteld waaraan instanties moeten voldoen die een toetsende taak in het kader van een overeenstemmingsbeoordeling uitvoeren.
+Bij of krachtens algemene maatregel van bestuur worden de eisen vastgesteld waaraan instanties moeten voldoen die een toetsende taak in het kader van een conformiteitsbeoordeling uitvoeren.
 
 ##### Artikel 11
 
-1. Bij ministeriële regeling kan worden bepaald dat een aangewezen instantie volgens bij die regeling vastgestelde regels een natuurlijke persoon of een rechtspersoon een erkenning kan verlenen om bepaalde werkzaamheden uit te voeren in het kader van een overeenstemmingsbeoordeling van in gebruik genomen meetinstrumenten.
+1. Bij ministeriële regeling kan worden bepaald dat een aangewezen instantie volgens bij die regeling vastgestelde regels een natuurlijke persoon of een rechtspersoon een erkenning kan verlenen om bepaalde werkzaamheden uit te voeren in het kader van een conformiteitsbeoordeling van in gebruik genomen meetinstrumenten.
 
 2. In de in het eerste lid bedoelde regels wordt bepaald op welke wijze bekendheid wordt gegeven aan een verleende of ingetrokken erkenning.
 
 ##### Artikel 12
 
-1. Onze Minister wijst de instanties aan die bevoegd zijn tot het uitvoeren van een toetsende taak in het kader van een overeenstemmingsbeoordeling van een meetinstrument. Hij kan daarbij bepalen dat de instantie een bevoegdheid heeft een erkenning als bedoeld in [artikel 11, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019517&hoofdstuk=4&paragraaf=1&artikel=11&z=2016-01-01&g=2016-01-01), te verlenen.
+1. Onze Minister wijst de instanties aan die bevoegd zijn tot het uitvoeren van een toetsende taak in het kader van een conformiteitsbeoordeling van een meetinstrument. Hij kan daarbij bepalen dat de instantie een bevoegdheid heeft een erkenning als bedoeld in [artikel 11, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019517&hoofdstuk=4&paragraaf=1&artikel=11&z=2016-04-20&g=2016-04-20), te verlenen.
 
-2. Voor aanwijzing komt in aanmerking een instantie die een daartoe strekkende aanvraag doet en die voldoet aan de krachtens [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0019517&hoofdstuk=4&paragraaf=1&artikel=10&z=2016-01-01&g=2016-01-01) gestelde eisen.
+2. Voor aanwijzing komt in aanmerking een instantie die een daartoe strekkende aanvraag doet en die voldoet aan de krachtens [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0019517&hoofdstuk=4&paragraaf=1&artikel=10&z=2016-04-20&g=2016-04-20) gestelde eisen.
 
 3. Aan een aanwijzing kunnen voorschriften worden verbonden.
 
 4. Indien door de Europese Commissie een kenmerk of identificatienummer voor de aangewezen instantie is vastgesteld, wordt dit opgenomen in de aanwijzing. Voorts kan in de aanwijzing een vastgesteld nationaal kenmerk of identificatienummer voor de aangewezen instantie worden opgenomen.
 
-5. Onze Minister trekt een aanwijzing in indien:
+5. Onze Minister trekt een aanwijzing al dan niet tijdelijk in indien:
 
 - a. de aangewezen instantie daarom verzoekt;
 
-- b. de aangewezen instantie niet langer voldoet aan de krachtens [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0019517&hoofdstuk=4&paragraaf=1&artikel=10&z=2016-01-01&g=2016-01-01) gestelde eisen;
+- b. de aangewezen instantie niet langer voldoet aan de krachtens [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0019517&hoofdstuk=4&paragraaf=1&artikel=10&z=2016-04-20&g=2016-04-20) gestelde eisen;
 
 - c. de aangewezen instantie de haar op grond van deze wet toegekende taken verwaarloost.
 
+6. Onze Minister kan regels stellen met betrekking tot de overdracht van dossiers van een aangewezen instantie wier aanwijzing wordt ingetrokken.
+
 ##### Artikel 13
 
-1. Onze Minister doet van de aanwijzing van een instantie mededeling in de Staatscourant onder vermelding van de procedures van overeenstemmingsbeoordeling, het meetinstrument waarvoor de bevoegdheid is verleend en in voorkomend geval van de bevoegdheid een erkenning als bedoeld in [artikel 11, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019517&hoofdstuk=4&paragraaf=1&artikel=11&z=2016-01-01&g=2016-01-01), te verlenen.
+1. Onze Minister doet van de aanwijzing van een instantie mededeling in de Staatscourant onder vermelding van de procedures van conformiteitsbeoordeling, het meetinstrument waarvoor de bevoegdheid is verleend en in voorkomend geval van de bevoegdheid een erkenning als bedoeld in [artikel 11, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019517&hoofdstuk=4&paragraaf=1&artikel=11&z=2016-04-20&g=2016-04-20), te verlenen.
 
 2. Het eerste lid is van overeenkomstige toepassing op de intrekking van een aanwijzing.
 
 ##### Artikel 14
 
-Onze Minister kan regels stellen met betrekking tot de taakuitoefening en de werkwijze van aangewezen instanties en van personen aan wie een erkenning als bedoeld in [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0019517&hoofdstuk=4&paragraaf=1&artikel=11&z=2016-01-01&g=2016-01-01) is verleend.
+Onze Minister kan regels stellen met betrekking tot de taakuitoefening en de werkwijze van aangewezen instanties en van personen aan wie een erkenning als bedoeld in [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0019517&hoofdstuk=4&paragraaf=1&artikel=11&z=2016-04-20&g=2016-04-20) is verleend.
 
 ##### Artikel 15
 
-Onze Minister kan ook na de aanwijzing van een instantie voorschriften verbinden aan de aanwijzing of de daaraan verbonden voorschriften wijzigen, indien dat als gevolg van een EG-besluit of de technische ontwikkeling noodzakelijk is.
+Onze Minister kan ook na de aanwijzing van een instantie voorschriften verbinden aan de aanwijzing of de daaraan verbonden voorschriften wijzigen, indien dat als gevolg van een EU-besluit of de technische ontwikkeling noodzakelijk is.
 
 ##### Artikel 16
 
@@ -171,13 +185,13 @@ Onze Minister kan ook na de aanwijzing van een instantie voorschriften verbinden
 
 ##### Artikel 17
 
-Met een aangewezen instantie als bedoeld in [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0019517&hoofdstuk=4&paragraaf=1&artikel=12&z=2016-01-01&g=2016-01-01) wordt gelijkgesteld een door een andere lidstaat van de Europese Unie of een andere staat die partij is bij de Overeenkomst inzake de Europese Economische Ruimte bij de Europese Commissie aangemelde instantie die bevoegd is tot het uitvoeren van toetsende werkzaamheden in het kader van dezelfde procedures van overeenstemmingsbeoordeling van het desbetreffende meetinstrument.
+Met een aangewezen instantie als bedoeld in [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0019517&hoofdstuk=4&paragraaf=1&artikel=12&z=2016-04-20&g=2016-04-20) wordt gelijkgesteld een door een andere lidstaat van de Europese Unie of een andere staat die partij is bij de Overeenkomst inzake de Europese Economische Ruimte bij de Europese Commissie aangemelde instantie die bevoegd is tot het uitvoeren van toetsende werkzaamheden in het kader van dezelfde procedures van conformiteitsbeoordeling van het desbetreffende meetinstrument.
 
 #### Paragraaf 2. Aanwijzing ingevolge wederzijdse erkenningsovereenkomst
 
 ##### Artikel 18
 
-1. Bij of krachtens algemene maatregel van bestuur kunnen regels worden gesteld omtrent het aanwijzen van instanties in verband met de uitvoering van een overeenkomst tussen de Europese Gemeenschap en een derde land betreffende de wederzijdse erkenning van overeenstemmingsbeoordelingen van meetinstrumenten.
+1. Bij of krachtens algemene maatregel van bestuur kunnen regels worden gesteld omtrent het aanwijzen van instanties in verband met de uitvoering van een overeenkomst tussen de Europese Unie en een derde land betreffende de wederzijdse erkenning van conformiteitsbeoordelingen van meetinstrumenten.
 
 2. De in het eerste lid bedoelde regels kunnen onder meer betreffen:
 
@@ -195,13 +209,13 @@ Met een aangewezen instantie als bedoeld in [artikel 12](https://wetten.overheid
 
 ##### Artikel 19
 
-Bij ministeriële regeling kunnen regels worden gesteld inzake de vergoeding door de aangewezen instantie van de kosten voor de werkzaamheden voortvloeiende uit de toepassing van de [artikelen 12](https://wetten.overheid.nl/jci1.3:c:BWBR0019517&hoofdstuk=4&paragraaf=1&artikel=12&z=2016-01-01&g=2016-01-01) en [16, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019517&hoofdstuk=4&paragraaf=1&artikel=16&z=2016-01-01&g=2016-01-01).
+Vervallen
 
 ##### Artikel 20
 
-1. Onze Minister kan tarieven vaststellen die de aangewezen instanties ten hoogste mogen berekenen voor de door hen verrichte werkzaamheden in het kader van de overeenstemmingsbeoordeling van een meetinstrument. Daarbij kunnen voor verschillende werkzaamheden verschillende tarieven worden vastgesteld.
+1. Onze Minister kan tarieven vaststellen die de aangewezen instanties ten hoogste mogen berekenen voor de door hen verrichte werkzaamheden in het kader van de conformiteitsbeoordeling van een meetinstrument. Daarbij kunnen voor verschillende werkzaamheden verschillende tarieven worden vastgesteld.
 
-2. Onze Minister kan tarieven vaststellen die de aangewezen instanties ten hoogste mogen berekenen voor hun werkzaamheden in verband met het verlenen van een erkenning als bedoeld in [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0019517&hoofdstuk=4&paragraaf=1&artikel=11&z=2016-01-01&g=2016-01-01).
+2. Onze Minister kan tarieven vaststellen die de aangewezen instanties ten hoogste mogen berekenen voor hun werkzaamheden in verband met het verlenen van een erkenning als bedoeld in [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0019517&hoofdstuk=4&paragraaf=1&artikel=11&z=2016-04-20&g=2016-04-20).
 
 ##### Artikel 21
 
@@ -215,19 +229,19 @@ Bij ministeriële regeling kunnen regels worden gesteld inzake de vergoeding doo
 
 ##### Artikel 22
 
-1. Het is verboden:
+1. Het is een ieder verboden:
 
-- a. een grootheid uit te drukken in een andere meeteenheid dan de meeteenheid die krachtens [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0019517&hoofdstuk=2&artikel=2&z=2016-01-01&g=2016-01-01) voor die grootheid is vastgesteld;
+- a. een grootheid uit te drukken in een andere meeteenheid dan de meeteenheid die krachtens [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0019517&hoofdstuk=2&artikel=2&z=2016-04-20&g=2016-04-20) voor die grootheid is vastgesteld;
 
-- b. voor een grootheid een benaming te bezigen in strijd met de krachtens [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0019517&hoofdstuk=2&artikel=2&z=2016-01-01&g=2016-01-01) gestelde regels.
+- b. voor een grootheid een benaming te bezigen in strijd met de krachtens [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0019517&hoofdstuk=2&artikel=2&z=2016-04-20&g=2016-04-20) gestelde regels.
 
 2. Bij ministeriële regeling kunnen gevallen of omstandigheden worden bepaald waarin het in het eerste lid bedoelde verbod niet geldt.
 
 ##### Artikel 23
 
-1. Het is verboden een geregeld meetinstrument in de handel te brengen, in gebruik te nemen of voordat het in gebruik is genomen verder te verhandelen, indien het niet overeenstemt met de eisen die terzake aan dat instrument krachtens [artikel 5, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0019517&hoofdstuk=3&artikel=5&z=2016-01-01&g=2016-01-01), zijn gesteld.
+1. Het is een marktdeelnemer en een eindgebruiker verboden een geregeld meetinstrument in de handel te brengen, in gebruik te nemen of voordat het in gebruik is genomen op de markt aan te bieden, indien het niet overeenstemt met de eisen die terzake aan dat instrument krachtens [artikel 5, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0019517&hoofdstuk=3&artikel=5&z=2016-04-20&g=2016-04-20), zijn gesteld.
 
-2. Het is verboden een geregeld meetinstrument in de handel te brengen, in gebruik te nemen of voordat het in gebruik is genomen, verder te verhandelen indien dat niet is voorzien van de merktekens waaruit de overeenstemming met de aan dat instrument krachtens [artikel 5, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0019517&hoofdstuk=3&artikel=5&z=2016-01-01&g=2016-01-01), terzake gestelde eisen blijkt.
+2. Het is een marktdeelnemer en een eindgebruiker verboden een geregeld meetinstrument in de handel te brengen, in gebruik te nemen of voordat het in gebruik is genomen, op de markt aan te bieden indien dat niet is voorzien van de merktekens waaruit de overeenstemming met de aan dat instrument krachtens [artikel 5, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0019517&hoofdstuk=3&artikel=5&z=2016-04-20&g=2016-04-20), terzake gestelde eisen blijkt.
 
 3. Bij ministeriële regeling kan worden bepaald dat in daarbij aangegeven gevallen of omstandigheden een vrijstelling geldt van het in het eerste, onderscheidenlijk het tweede lid, opgenomen verbod.
 
@@ -239,19 +253,19 @@ Bij ministeriële regeling kunnen regels worden gesteld inzake de vergoeding doo
 
 ##### Artikel 24
 
-1. Het is verboden een meetinstrument te gebruiken, te bezitten of voorhanden te hebben voor een geregelde meettaak indien dat meetinstrument:
+1. Het is een ieder verboden een meetinstrument te gebruiken, te bezitten of voorhanden te hebben voor een geregelde meettaak indien dat meetinstrument:
 
-- a. niet een geregeld meetinstrument is dat overeenstemt met de eisen die terzake krachtens [artikel 5, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0019517&hoofdstuk=3&artikel=5&z=2016-01-01&g=2016-01-01), aan dat meetinstrument zijn gesteld of
+- a. niet een geregeld meetinstrument is dat overeenstemt met de eisen die terzake krachtens [artikel 5, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0019517&hoofdstuk=3&artikel=5&z=2016-04-20&g=2016-04-20), aan dat meetinstrument zijn gesteld of
 
 - b. niet is voorzien van de vereiste merktekens.
 
-2. Het is verboden een meetinstrument te gebruiken voor een geregelde meettaak indien dat meetinstrument
+2. Het is een ieder verboden een meetinstrument te gebruiken voor een geregelde meettaak indien dat meetinstrument
 
-- a. is voorzien van een afkeurmerkteken als bedoeld in [artikel 34](https://wetten.overheid.nl/jci1.3:c:BWBR0019517&hoofdstuk=6&paragraaf=2&artikel=34&z=2016-01-01&g=2016-01-01) of
+- a. is voorzien van een afkeurmerkteken als bedoeld in [artikel 34](https://wetten.overheid.nl/jci1.3:c:BWBR0019517&hoofdstuk=6&paragraaf=2&artikel=34&z=2016-04-20&g=2016-04-20) of
 
-- b. ingevolge [artikel 7, onderdelen a of b](https://wetten.overheid.nl/jci1.3:c:BWBR0019517&hoofdstuk=3&artikel=7&z=2016-01-01&g=2016-01-01), een overeenstemmingsbeoordeling moet ondergaan.
+- b. ingevolge [artikel 7, onderdelen a of b](https://wetten.overheid.nl/jci1.3:c:BWBR0019517&hoofdstuk=3&artikel=7&z=2016-04-20&g=2016-04-20), een conformiteitsbeoordeling moet ondergaan.
 
-3. Het is verboden anders dan overeenkomstig de krachtens [artikel 5, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0019517&hoofdstuk=3&artikel=5&z=2016-01-01&g=2016-01-01), gestelde regels gebruik te maken van een geregeld meetinstrument voor de geregelde meettaak waarvoor het is bestemd.
+3. Het is een ieder verboden anders dan overeenkomstig de krachtens [artikel 5, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0019517&hoofdstuk=3&artikel=5&z=2016-04-20&g=2016-04-20), gestelde regels gebruik te maken van een geregeld meetinstrument voor de geregelde meettaak waarvoor het is bestemd.
 
 4. Bij ministeriële regeling kan worden bepaald dat voor een meetinstrument, al dan niet in daarbij aangegeven gevallen of omstandigheden, zonodig onder beperkingen, een vrijstelling geldt of een ontheffing kan worden verleend van het in het eerste, tweede, of derde lid, opgenomen verbod. Aan een vrijstelling of een ontheffing kunnen voorschriften worden verbonden.
 
@@ -259,13 +273,13 @@ Bij ministeriële regeling kunnen regels worden gesteld inzake de vergoeding doo
 
 ##### Artikel 25
 
-1. Het is verboden een meetinstrument van een merkteken te voorzien in strijd met [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0019517&hoofdstuk=3&artikel=8&z=2016-01-01&g=2016-01-01) en de krachtens [artikel 5, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019517&hoofdstuk=3&artikel=5&z=2016-01-01&g=2016-01-01), of, in voorkomend geval krachtens [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0019517&hoofdstuk=3&artikel=9&z=2016-01-01&g=2016-01-01), ten aanzien van dat instrument gestelde regels.
+1. Het is een ieder verboden een meetinstrument van een merkteken te voorzien in strijd met [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0019517&hoofdstuk=3&artikel=8&z=2016-04-20&g=2016-04-20) en de krachtens [artikel 5, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019517&hoofdstuk=3&artikel=5&z=2016-04-20&g=2016-04-20), of, in voorkomend geval krachtens [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0019517&hoofdstuk=3&artikel=9&z=2016-04-20&g=2016-04-20), ten aanzien van dat instrument gestelde regels.
 
-2. Het is verboden een meetinstrument te voorzien van een merkteken of opschrift dat kan leiden tot verwarring met krachtens de [artikelen 5, eerste lid, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0019517&hoofdstuk=3&artikel=5&z=2016-01-01&g=2016-01-01), of [9](https://wetten.overheid.nl/jci1.3:c:BWBR0019517&hoofdstuk=3&artikel=9&z=2016-01-01&g=2016-01-01) voorgeschreven merktekens en opschriften.
+2. Het is een ieder verboden een meetinstrument te voorzien van een merkteken dat kan leiden tot verwarring met krachtens de [artikelen 5, eerste lid, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0019517&hoofdstuk=3&artikel=5&z=2016-04-20&g=2016-04-20), of [9](https://wetten.overheid.nl/jci1.3:c:BWBR0019517&hoofdstuk=3&artikel=9&z=2016-04-20&g=2016-04-20) voorgeschreven merktekens.
 
 ##### Artikel 26
 
-De in [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0019517&hoofdstuk=3&artikel=9&z=2016-01-01&g=2016-01-01) bedoelde regels kunnen een verbod inhouden om meetinstrumenten die niet aan de daarin gestelde eisen voldoen, in de handel te brengen, in gebruik te nemen of te verhandelen.
+De in [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0019517&hoofdstuk=3&artikel=9&z=2016-04-20&g=2016-04-20) bedoelde regels kunnen een verbod inhouden om meetinstrumenten die niet aan de daarin gestelde eisen voldoen, in de handel te brengen, in gebruik te nemen of te op de markt aanbieden.
 
 ### Hoofdstuk 6. Toezicht en maatregelen
 
@@ -273,7 +287,7 @@ De in [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0019517&hoofdstuk=3&ar
 
 ##### Artikel 27
 
-1. Met het toezicht op de naleving van het bepaalde bij of krachtens [hoofdstuk 5](https://wetten.overheid.nl/jci1.3:c:BWBR0019517&hoofdstuk=5&z=2016-01-01&g=2016-01-01) en [artikel 39](https://wetten.overheid.nl/jci1.3:c:BWBR0019517&hoofdstuk=8&artikel=39&z=2016-01-01&g=2016-01-01) van deze wet zijn belast de bij besluit van Onze Minister aangewezen ambtenaren.
+1. Met het toezicht op de naleving van het bepaalde bij of krachtens [hoofdstuk 5](https://wetten.overheid.nl/jci1.3:c:BWBR0019517&hoofdstuk=5&z=2016-04-20&g=2016-04-20) en [artikel 39](https://wetten.overheid.nl/jci1.3:c:BWBR0019517&hoofdstuk=8&artikel=39&z=2016-04-20&g=2016-04-20) van deze wet zijn belast de bij besluit van Onze Minister aangewezen ambtenaren.
 
 2. Indien ambtenaren worden aangewezen die ressorteren onder een andere Minister, wordt het besluit tot aanwijzing van die ambtenaren genomen door Onze Minister in overeenstemming met die andere Minister.
 
@@ -281,13 +295,13 @@ De in [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0019517&hoofdstuk=3&ar
 
 ##### Artikel 28
 
-1. De ambtenaren, bedoeld in [artikel 27](https://wetten.overheid.nl/jci1.3:c:BWBR0019517&hoofdstuk=6&paragraaf=1&artikel=27&z=2016-01-01&g=2016-01-01) oefenen de hun in [artikel 5:18 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:18) toegekende bevoegdheid zo nodig uit met behulp van de sterke arm.
+1. De ambtenaren, bedoeld in [artikel 27](https://wetten.overheid.nl/jci1.3:c:BWBR0019517&hoofdstuk=6&paragraaf=1&artikel=27&z=2016-04-20&g=2016-04-20) oefenen de hun in [artikel 5:18 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:18) toegekende bevoegdheid zo nodig uit met behulp van de sterke arm.
 
-2. De ambtenaren, bedoeld in [artikel 27](https://wetten.overheid.nl/jci1.3:c:BWBR0019517&hoofdstuk=6&paragraaf=1&artikel=27&z=2016-01-01&g=2016-01-01) mogen bij het toezicht in hun oordeel betrekken de bevindingen van personen, die in de uitoefening van een beroep of bedrijf meetinstrumenten controleren of onderhouden, indien de ambtenaren zich er van hebben verzekerd dat die personen over de vereiste deskundigheid beschikken en de onafhankelijkheid van het toezicht niet in het geding is.
+2. De ambtenaren, bedoeld in [artikel 27](https://wetten.overheid.nl/jci1.3:c:BWBR0019517&hoofdstuk=6&paragraaf=1&artikel=27&z=2016-04-20&g=2016-04-20) mogen bij het toezicht in hun oordeel betrekken de bevindingen van personen, die in de uitoefening van een beroep of bedrijf meetinstrumenten controleren of onderhouden, indien de ambtenaren zich er van hebben verzekerd dat die personen over de vereiste deskundigheid beschikken en de onafhankelijkheid van het toezicht niet in het geding is.
 
 ##### Artikel 29
 
-Volgens bij of krachtens algemene maatregel van bestuur vast te stellen regels kunnen voor werkzaamheden ter uitvoering van het toezicht op de naleving van het bepaalde bij of krachtens [hoofdstuk 5](https://wetten.overheid.nl/jci1.3:c:BWBR0019517&hoofdstuk=5&z=2016-01-01&g=2016-01-01) en [artikel 39](https://wetten.overheid.nl/jci1.3:c:BWBR0019517&hoofdstuk=8&artikel=39&z=2016-01-01&g=2016-01-01) van deze wet, kosten ten laste worden gebracht van degene ten behoeve van wie deze werkzaamheden worden verricht.
+Volgens bij of krachtens algemene maatregel van bestuur vast te stellen regels kunnen voor werkzaamheden ter uitvoering van het toezicht op de naleving van het bepaalde bij of krachtens [hoofdstuk 5](https://wetten.overheid.nl/jci1.3:c:BWBR0019517&hoofdstuk=5&z=2016-04-20&g=2016-04-20) en [artikel 39](https://wetten.overheid.nl/jci1.3:c:BWBR0019517&hoofdstuk=8&artikel=39&z=2016-04-20&g=2016-04-20) van deze wet, kosten ten laste worden gebracht van degene ten behoeve van wie deze werkzaamheden worden verricht.
 
 ##### Artikel 30
 
@@ -309,13 +323,13 @@ Vervallen
 
 ##### Artikel 34
 
-1. De op grond van [artikel 27](https://wetten.overheid.nl/jci1.3:c:BWBR0019517&hoofdstuk=6&paragraaf=1&artikel=27&z=2016-01-01&g=2016-01-01), eerste lid, aangewezen ambtenaren zijn bevoegd geregelde meetinstrumenten die bij het onderzoek bedoeld in [artikel 5:18 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:18), niet aan de krachtens [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019517&hoofdstuk=3&artikel=5&z=2016-01-01&g=2016-01-01), gestelde eisen voldoen, te voorzien van een afkeurmerkteken.
+1. De op grond van [artikel 27](https://wetten.overheid.nl/jci1.3:c:BWBR0019517&hoofdstuk=6&paragraaf=1&artikel=27&z=2016-04-20&g=2016-04-20), eerste lid, aangewezen ambtenaren zijn bevoegd geregelde meetinstrumenten die bij het onderzoek bedoeld in [artikel 5:18 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:18), niet aan de krachtens [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019517&hoofdstuk=3&artikel=5&z=2016-04-20&g=2016-04-20), gestelde eisen voldoen, te voorzien van een afkeurmerkteken.
 
 2. Het model van het in het eerste lid bedoelde afkeurmerkteken wordt bij ministeriële regeling vastgesteld.
 
 ##### Artikel 35
 
-1. Onze Minister is bevoegd tot oplegging van een last onder bestuursdwang ter handhaving van de [artikelen 22 tot en met 25](https://wetten.overheid.nl/jci1.3:c:BWBR0019517&hoofdstuk=5&paragraaf=1&artikel=22&z=2016-01-01&g=2016-01-01) en de krachtens [artikel 26](https://wetten.overheid.nl/jci1.3:c:BWBR0019517&hoofdstuk=5&paragraaf=1&artikel=26&z=2016-01-01&g=2016-01-01) gestelde regels.
+1. Onze Minister is bevoegd tot oplegging van een last onder bestuursdwang ter handhaving van de [artikelen 9a](https://wetten.overheid.nl/jci1.3:c:BWBR0019517&hoofdstuk=3&artikel=9a&z=2016-04-20&g=2016-04-20), [22 tot en met 25a](https://wetten.overheid.nl/jci1.3:c:BWBR0019517&hoofdstuk=5&paragraaf=1&artikel=22&z=2016-04-20&g=2016-04-20) en de krachtens [artikel 26](https://wetten.overheid.nl/jci1.3:c:BWBR0019517&hoofdstuk=5&paragraaf=1&artikel=26&z=2016-04-20&g=2016-04-20) gestelde regels.
 
 2. De te betalen geldsom van een verbeurde dwangsom komt toe aan de Staat.
 
@@ -323,13 +337,13 @@ Vervallen
 
 ##### Artikel 36
 
-Bij of krachtens algemene maatregel van bestuur kunnen regels worden gesteld ten aanzien van te nemen maatregelen en te volgen procedures ingeval sprake is van overtreding van de [artikelen 23](https://wetten.overheid.nl/jci1.3:c:BWBR0019517&hoofdstuk=5&paragraaf=1&artikel=23&z=2016-01-01&g=2016-01-01) of [24](https://wetten.overheid.nl/jci1.3:c:BWBR0019517&hoofdstuk=5&paragraaf=1&artikel=24&z=2016-01-01&g=2016-01-01) of van een krachtens [artikel 26](https://wetten.overheid.nl/jci1.3:c:BWBR0019517&hoofdstuk=5&paragraaf=1&artikel=26&z=2016-01-01&g=2016-01-01) vastgesteld verbod bij alle of een deel van de meetinstrumenten van een specifiek model, waarvoor ingevolge een EG-besluit regels krachtens [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0019517&hoofdstuk=3&artikel=5&z=2016-01-01&g=2016-01-01) of [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0019517&hoofdstuk=3&artikel=9&z=2016-01-01&g=2016-01-01) zijn gesteld.
+Bij of krachtens algemene maatregel van bestuur kunnen regels worden gesteld ten aanzien van te nemen maatregelen en te volgen procedures ingeval sprake is van overtreding van de [artikelen 23](https://wetten.overheid.nl/jci1.3:c:BWBR0019517&hoofdstuk=5&paragraaf=1&artikel=23&z=2016-04-20&g=2016-04-20) of [24](https://wetten.overheid.nl/jci1.3:c:BWBR0019517&hoofdstuk=5&paragraaf=1&artikel=24&z=2016-04-20&g=2016-04-20) of van een krachtens [artikel 26](https://wetten.overheid.nl/jci1.3:c:BWBR0019517&hoofdstuk=5&paragraaf=1&artikel=26&z=2016-04-20&g=2016-04-20) vastgesteld verbod bij alle of een deel van de meetinstrumenten van een specifiek model, waarvoor ingevolge een EU-besluit regels krachtens [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0019517&hoofdstuk=3&artikel=5&z=2016-04-20&g=2016-04-20) of [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0019517&hoofdstuk=3&artikel=9&z=2016-04-20&g=2016-04-20) zijn gesteld.
 
 ### Hoofdstuk 7. Rechtsbescherming
 
 ##### Artikel 37
 
-Beslissingen van een aangewezen instantie of van een natuurlijke persoon of een rechtspersoon aan wie op grond van [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0019517&hoofdstuk=4&paragraaf=1&artikel=11&z=2016-01-01&g=2016-01-01) een erkenning is verleend, bij de uitvoering van toetsende werkzaamheden in het kader van een overeenstemmingsbeoordeling van een meetinstrument, die als gevolg of als strekking hebben dat het instrument niet voldoet aan de gestelde eisen, worden aan de betrokkenen schriftelijk en onder opgave van redenen medegedeeld.
+Beslissingen van een aangewezen instantie of van een natuurlijke persoon of een rechtspersoon aan wie op grond van [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0019517&hoofdstuk=4&paragraaf=1&artikel=11&z=2016-04-20&g=2016-04-20) een erkenning is verleend, bij de uitvoering van toetsende werkzaamheden in het kader van een conformiteitsbeoordeling van een meetinstrument, die als gevolg of als strekking hebben dat het instrument niet voldoet aan de gestelde eisen, worden aan de betrokkenen schriftelijk en onder opgave van redenen medegedeeld.
 
 ##### Artikel 38
 
@@ -339,7 +353,7 @@ Vervallen
 
 ##### Artikel 39
 
-Indien krachtens [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0019517&hoofdstuk=3&artikel=5&z=2016-01-01&g=2016-01-01) regels zijn gesteld ten aanzien van een onderdeel van een meetinstrument, zijn de [hoofdstukken 3](https://wetten.overheid.nl/jci1.3:c:BWBR0019517&hoofdstuk=3&z=2016-01-01&g=2016-01-01), [4](https://wetten.overheid.nl/jci1.3:c:BWBR0019517&hoofdstuk=4&z=2016-01-01&g=2016-01-01), [5](https://wetten.overheid.nl/jci1.3:c:BWBR0019517&hoofdstuk=5&z=2016-01-01&g=2016-01-01) en [6](https://wetten.overheid.nl/jci1.3:c:BWBR0019517&hoofdstuk=6&z=2016-01-01&g=2016-01-01) van overeenkomstige toepassing op dat onderdeel.
+Indien krachtens [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0019517&hoofdstuk=3&artikel=5&z=2016-04-20&g=2016-04-20) regels zijn gesteld ten aanzien van een onderdeel van een meetinstrument, zijn de [hoofdstukken 3](https://wetten.overheid.nl/jci1.3:c:BWBR0019517&hoofdstuk=3&z=2016-04-20&g=2016-04-20), [4](https://wetten.overheid.nl/jci1.3:c:BWBR0019517&hoofdstuk=4&z=2016-04-20&g=2016-04-20), [5](https://wetten.overheid.nl/jci1.3:c:BWBR0019517&hoofdstuk=5&z=2016-04-20&g=2016-04-20) en [6](https://wetten.overheid.nl/jci1.3:c:BWBR0019517&hoofdstuk=6&z=2016-04-20&g=2016-04-20) van overeenkomstige toepassing op dat onderdeel.
 
 ##### Artikel 40
 
@@ -351,19 +365,19 @@ Indien krachtens [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0019517&hoo
 
 ##### Artikel 41
 
-Wijzigt de Wet op de economische delicten.
+Vervallen
 
 ##### Artikel 42
 
-Wijzigt de Wegenverkeerswet 1994.
+Vervallen
 
 ##### Artikel 43
 
-Wijzigt het Wetboek van Strafrecht.
+Vervallen
 
 ##### Artikel 44
 
-De [IJkwet](https://wetten.overheid.nl/jci1.3:c:BWBR0009082) wordt ingetrokken.
+Vervallen
 
 ### Hoofdstuk 10. Overgangs- en slotbepalingen
 
@@ -371,7 +385,7 @@ De [IJkwet](https://wetten.overheid.nl/jci1.3:c:BWBR0009082) wordt ingetrokken.
 
 ##### Artikel 45
 
-1. In afwijking van [artikel 23](https://wetten.overheid.nl/jci1.3:c:BWBR0019517&hoofdstuk=5&paragraaf=1&artikel=23&z=2016-01-01&g=2016-01-01) mogen geregelde meetinstrumenten waarop [richtlijn 2004/22/EG](onbekend) van het Europees Parlement en de Raad van 31 maart 2004 betreffende meetinstrumenten van toepassing is, in de handel worden gebracht, in gebruik worden genomen of voor ingebruikneming verder worden verhandeld, indien uiterlijk 29 oktober 2006 overeenkomstig [artikel 11a van de IJkwet](https://wetten.overheid.nl/jci1.3:c:BWBR0009082&artikel=11a) een model van die instrumenten is toegelaten en zij voldoen aan de regels die op die datum bij of krachtens de [IJkwet](https://wetten.overheid.nl/jci1.3:c:BWBR0009082) ten behoeve van het in de handel brengen of in gebruik nemen van toepassing waren op die instrumenten.
+1. In afwijking van [artikel 23](https://wetten.overheid.nl/jci1.3:c:BWBR0019517&hoofdstuk=5&paragraaf=1&artikel=23&z=2016-04-20&g=2016-04-20) mogen geregelde meetinstrumenten waarop [richtlijn 2004/22/EG](32004L0022) van het Europees Parlement en de Raad van 31 maart 2004 betreffende meetinstrumenten van toepassing is, in de handel worden gebracht, in gebruik worden genomen of voor ingebruikneming verder worden verhandeld, indien uiterlijk 29 oktober 2006 overeenkomstig [artikel 11a van de IJkwet](https://wetten.overheid.nl/jci1.3:c:BWBR0009082&artikel=11a) een model van die instrumenten is toegelaten en zij voldoen aan de regels die op die datum bij of krachtens de [IJkwet](https://wetten.overheid.nl/jci1.3:c:BWBR0009082) ten behoeve van het in de handel brengen of in gebruik nemen van toepassing waren op die instrumenten.
 
 2. Het eerste lid is van toepassing tot de datum waarop de geldigheidsduur van de op grond van [artikel 11a van de IJkwet](https://wetten.overheid.nl/jci1.3:c:BWBR0009082&artikel=11a) afgegeven verklaring inzake de toelating van het model van het meetinstrument is verstreken, dan wel bij gebreke daaraan, tot 1 november 2016 of een door Onze Minister te bepalen eerdere datum.
 
@@ -379,51 +393,45 @@ De [IJkwet](https://wetten.overheid.nl/jci1.3:c:BWBR0009082) wordt ingetrokken.
 
 ##### Artikel 46
 
-1. In afwijking van [artikel 23](https://wetten.overheid.nl/jci1.3:c:BWBR0019517&hoofdstuk=5&paragraaf=1&artikel=23&z=2016-01-01&g=2016-01-01) mogen andere geregelde meetinstrumenten dan bedoeld in [artikel 45](https://wetten.overheid.nl/jci1.3:c:BWBR0019517&hoofdstuk=10&paragraaf=1&artikel=45&z=2016-01-01&g=2016-01-01) in de handel worden gebracht, in gebruik worden genomen of voor ingebruikneming verder worden verhandeld indien uiterlijk 29 oktober 2006 overeenkomstig [artikel 11a van de IJkwet](https://wetten.overheid.nl/jci1.3:c:BWBR0009082&artikel=11a) een model van die instrumenten is toegelaten en zij voldoen aan de regels die op die datum bij of krachtens de [IJkwet](https://wetten.overheid.nl/jci1.3:c:BWBR0009082) ten behoeve van het in de handel brengen of in gebruik nemen van toepassing waren op die instrumenten.
+1. In afwijking van [artikel 23](https://wetten.overheid.nl/jci1.3:c:BWBR0019517&hoofdstuk=5&paragraaf=1&artikel=23&z=2016-04-20&g=2016-04-20) mogen andere geregelde meetinstrumenten dan bedoeld in [artikel 45](https://wetten.overheid.nl/jci1.3:c:BWBR0019517&hoofdstuk=10&paragraaf=1&artikel=45&z=2016-04-20&g=2016-04-20) in de handel worden gebracht, in gebruik worden genomen of voor ingebruikneming verder worden verhandeld indien uiterlijk 29 oktober 2006 overeenkomstig [artikel 11a van de IJkwet](https://wetten.overheid.nl/jci1.3:c:BWBR0009082&artikel=11a) een model van die instrumenten is toegelaten en zij voldoen aan de regels die op die datum bij of krachtens de [IJkwet](https://wetten.overheid.nl/jci1.3:c:BWBR0009082) ten behoeve van het in de handel brengen of in gebruik nemen van toepassing waren op die instrumenten.
 
-2. Indien voor een ander geregeld meetinstrument dan bedoeld in [artikel 45, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019517&hoofdstuk=10&paragraaf=1&artikel=45&z=2016-01-01&g=2016-01-01), regels worden gesteld, worden daarbij de verkregen rechten uit een op grond van [artikel 21b](https://wetten.overheid.nl/jci1.3:c:BWBR0009082&artikel=21b) of [21c, van de IJkwet](https://wetten.overheid.nl/jci1.3:c:BWBR0009082&artikel=21c) verleende ontheffing voor het desbetreffende meetinstrument die onmiddellijk voorafgaand aan de inwerkingtreding van [artikel 44](https://wetten.overheid.nl/jci1.3:c:BWBR0019517&hoofdstuk=9&artikel=44&z=2016-01-01&g=2016-01-01) geldig was, geëerbiedigd.
+2. Indien voor een ander geregeld meetinstrument dan bedoeld in [artikel 45, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019517&hoofdstuk=10&paragraaf=1&artikel=45&z=2016-04-20&g=2016-04-20), regels worden gesteld, worden daarbij de verkregen rechten uit een op grond van [artikel 21b](https://wetten.overheid.nl/jci1.3:c:BWBR0009082&artikel=21b) of [21c, van de IJkwet](https://wetten.overheid.nl/jci1.3:c:BWBR0009082&artikel=21c) verleende ontheffing voor het desbetreffende meetinstrument die onmiddellijk voorafgaand aan de inwerkingtreding van [artikel 44](https://wetten.overheid.nl/jci1.3:c:BWBR0019517&hoofdstuk=9&artikel=44&z=2016-04-20&g=2016-04-20) geldig was, geëerbiedigd.
 
 ##### Artikel 47
 
-1. Indien krachtens [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0019517&hoofdstuk=3&artikel=5&z=2016-01-01&g=2016-01-01) regels gelden inzake het gebruik van een meetinstrument wordt bij de toepassing van [artikel 24, eerste lid, onderdelen a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0019517&hoofdstuk=5&paragraaf=1&artikel=24&z=2016-01-01&g=2016-01-01), een voor de desbetreffende meettaak bestemd meetinstrument, dat onmiddellijk voorafgaande aan de inwerkingtreding van [artikel 44](https://wetten.overheid.nl/jci1.3:c:BWBR0019517&hoofdstuk=9&artikel=44&z=2016-01-01&g=2016-01-01) voldeed aan de bij of krachtens de [IJkwet](https://wetten.overheid.nl/jci1.3:c:BWBR0009082) gestelde regels betreffende het gebruik, beschouwd als een geregeld meetinstrument dat voldoet aan de krachtens [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0019517&hoofdstuk=3&artikel=5&z=2016-01-01&g=2016-01-01) gestelde regels.
+1. Indien krachtens [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0019517&hoofdstuk=3&artikel=5&z=2016-04-20&g=2016-04-20) regels gelden inzake het gebruik van een meetinstrument wordt bij de toepassing van [artikel 24, eerste lid, onderdelen a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0019517&hoofdstuk=5&paragraaf=1&artikel=24&z=2016-04-20&g=2016-04-20), een voor de desbetreffende meettaak bestemd meetinstrument, dat onmiddellijk voorafgaande aan de inwerkingtreding van [artikel 44](https://wetten.overheid.nl/jci1.3:c:BWBR0019517&hoofdstuk=9&artikel=44&z=2016-04-20&g=2016-04-20) voldeed aan de bij of krachtens de [IJkwet](https://wetten.overheid.nl/jci1.3:c:BWBR0009082) gestelde regels betreffende het gebruik, beschouwd als een geregeld meetinstrument dat voldoet aan de krachtens [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0019517&hoofdstuk=3&artikel=5&z=2016-04-20&g=2016-04-20) gestelde regels.
 
-2. Het eerste lid geldt tenzij bij een overeenstemmingsbeoordeling op grond van [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0019517&hoofdstuk=3&artikel=7&z=2016-01-01&g=2016-01-01) of anderszins blijkt dat het instrument niet aan de bij of krachtens de [IJkwet](https://wetten.overheid.nl/jci1.3:c:BWBR0009082) gestelde regels voldoet.
+2. Het eerste lid geldt tenzij bij een conformiteitsbeoordeling op grond van [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0019517&hoofdstuk=3&artikel=7&z=2016-04-20&g=2016-04-20) of anderszins blijkt dat het instrument niet aan de bij of krachtens de [IJkwet](https://wetten.overheid.nl/jci1.3:c:BWBR0009082) gestelde regels voldoet.
 
 3. Bij ministeriële regeling kan voor een meetinstrument worden bepaald dat het eerste lid na een daarbij te bepalen termijn niet meer geldt.
 
 ##### Artikel 48
 
-1. Bij de toepassing van de [artikelen 45](https://wetten.overheid.nl/jci1.3:c:BWBR0019517&hoofdstuk=10&paragraaf=1&artikel=45&z=2016-01-01&g=2016-01-01), [46](https://wetten.overheid.nl/jci1.3:c:BWBR0019517&hoofdstuk=10&paragraaf=1&artikel=46&z=2016-01-01&g=2016-01-01) en [47](https://wetten.overheid.nl/jci1.3:c:BWBR0019517&hoofdstuk=10&paragraaf=1&artikel=47&z=2016-01-01&g=2016-01-01) worden de in [artikel 22, eerste lid, onderdeel a, van de IJkwet](https://wetten.overheid.nl/jci1.3:c:BWBR0009082&artikel=22) bedoelde taken en bevoegdheden van de ijkinstelling uitgevoerd door een aangewezen instantie als bedoeld in [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0019517&hoofdstuk=4&paragraaf=1&artikel=12&z=2016-01-01&g=2016-01-01), die bevoegd is tot het verrichten van toetsende werkzaamheden ten aanzien van het desbetreffende meetinstrument, tenzij krachtens [artikel 51](https://wetten.overheid.nl/jci1.3:c:BWBR0019517&hoofdstuk=10&paragraaf=1&artikel=51&z=2016-01-01&g=2016-01-01) anders is bepaald.
-
-2. De op grond van [artikel 27](https://wetten.overheid.nl/jci1.3:c:BWBR0019517&hoofdstuk=6&paragraaf=1&artikel=27&z=2016-01-01&g=2016-01-01) aangewezen rechtspersoon draagt zorg voor het toezicht op de naleving van de [artikelen 45](https://wetten.overheid.nl/jci1.3:c:BWBR0019517&hoofdstuk=10&paragraaf=1&artikel=45&z=2016-01-01&g=2016-01-01), [46](https://wetten.overheid.nl/jci1.3:c:BWBR0019517&hoofdstuk=10&paragraaf=1&artikel=46&z=2016-01-01&g=2016-01-01) en [47](https://wetten.overheid.nl/jci1.3:c:BWBR0019517&hoofdstuk=10&paragraaf=1&artikel=47&z=2016-01-01&g=2016-01-01).
+Vervallen
 
 ##### Artikel 49
 
-1. Een erkenning als bedoeld in [artikel 26 van de IJkwet](https://wetten.overheid.nl/jci1.3:c:BWBR0009082&artikel=26) van een bevoegdheid tot het verrichten van werkzaamheden met betrekking tot een meetinstrument blijft geldig tot uiterlijk een jaar na inwerkingtreding van [artikel 44](https://wetten.overheid.nl/jci1.3:c:BWBR0019517&hoofdstuk=9&artikel=44&z=2016-01-01&g=2016-01-01).
+1. Een erkenning als bedoeld in [artikel 26 van de IJkwet](https://wetten.overheid.nl/jci1.3:c:BWBR0009082&artikel=26) van een bevoegdheid tot het verrichten van werkzaamheden met betrekking tot een meetinstrument blijft geldig tot uiterlijk een jaar na inwerkingtreding van [artikel 44](https://wetten.overheid.nl/jci1.3:c:BWBR0019517&hoofdstuk=9&artikel=44&z=2016-04-20&g=2016-04-20).
 
 2. De [artikelen 26c tot en met 26g van de IJkwet](https://wetten.overheid.nl/jci1.3:c:BWBR0009082&artikel=26c) en de daaruit voortvloeiende voorschriften en beperkingen blijven gedurende de periode bedoeld in het eerste lid van toepassing en Onze Minister wijst één aangewezen instantie aan die de in die artikelen bedoelde taken en bevoegdheden van de ijkinstelling uitoefent.
 
-3. De ijkbevoegde, die beschikt over een erkenning als bedoeld in [artikel 26 van de IJkwet](https://wetten.overheid.nl/jci1.3:c:BWBR0009082&artikel=26) is gedurende de in het eerste lid bedoelde periode bevoegd de werkzaamheden die ingevolge de [IJkwet](https://wetten.overheid.nl/jci1.3:c:BWBR0009082) tot zijn bevoegdheid behoorden, ten aanzien van de in [artikel 45, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019517&hoofdstuk=10&paragraaf=1&artikel=45&z=2016-01-01&g=2016-01-01), bedoelde meetinstrumenten voordat deze in de handel worden gebracht of in gebruik worden genomen, slechts uit te oefenen voorzover deze volgens de regels en voorschriften van de IJkwet worden beoordeeld.
+3. De ijkbevoegde, die beschikt over een erkenning als bedoeld in [artikel 26 van de IJkwet](https://wetten.overheid.nl/jci1.3:c:BWBR0009082&artikel=26) is gedurende de in het eerste lid bedoelde periode bevoegd de werkzaamheden die ingevolge de [IJkwet](https://wetten.overheid.nl/jci1.3:c:BWBR0009082) tot zijn bevoegdheid behoorden, ten aanzien van de in [artikel 45, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019517&hoofdstuk=10&paragraaf=1&artikel=45&z=2016-04-20&g=2016-04-20), bedoelde meetinstrumenten voordat deze in de handel worden gebracht of in gebruik worden genomen, slechts uit te oefenen voorzover deze volgens de regels en voorschriften van de IJkwet worden beoordeeld.
 
-4. De in het derde lid bedoelde ijkbevoegde die beschikt over een krachtens [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0019517&hoofdstuk=4&paragraaf=1&artikel=11&z=2016-01-01&g=2016-01-01) verleende erkenning, is bevoegd:
+4. De in het derde lid bedoelde ijkbevoegde die beschikt over een krachtens [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0019517&hoofdstuk=4&paragraaf=1&artikel=11&z=2016-04-20&g=2016-04-20) verleende erkenning, is bevoegd:
 
 - a. de in het derde lid bedoelde werkzaamheden tot 1 november 2016 te verrichten;
 
-- b. de werkzaamheden die ingevolge de [IJkwet](https://wetten.overheid.nl/jci1.3:c:BWBR0009082) tot zijn bevoegdheid behoorden ten aanzien van de in [artikel 47](https://wetten.overheid.nl/jci1.3:c:BWBR0019517&hoofdstuk=10&paragraaf=1&artikel=47&z=2016-01-01&g=2016-01-01) bedoelde meetinstrumenten te verrichten.
+- b. de werkzaamheden die ingevolge de [IJkwet](https://wetten.overheid.nl/jci1.3:c:BWBR0009082) tot zijn bevoegdheid behoorden ten aanzien van de in [artikel 47](https://wetten.overheid.nl/jci1.3:c:BWBR0019517&hoofdstuk=10&paragraaf=1&artikel=47&z=2016-04-20&g=2016-04-20) bedoelde meetinstrumenten te verrichten.
 
-5. De rechtspersoon die op grond van [artikel 22 van de IJkwet](https://wetten.overheid.nl/jci1.3:c:BWBR0009082&artikel=22) was aangewezen als ijkinstelling draagt ten behoeve van de uitvoering van dit artikel of op verzoek van de ijkbevoegde, de archiefbescheiden inzake een erkenning op grond van [artikel 26 van de IJkwet](https://wetten.overheid.nl/jci1.3:c:BWBR0009082&artikel=26) over aan de aangewezen instantie, bedoeld in het tweede lid, of aan de aangewezen instantie bij wie degene die over de erkenning beschikte een aanvraag tot erkenning als bedoeld in [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0019517&hoofdstuk=4&paragraaf=1&artikel=11&z=2016-01-01&g=2016-01-01) doet.
+5. De rechtspersoon die op grond van [artikel 22 van de IJkwet](https://wetten.overheid.nl/jci1.3:c:BWBR0009082&artikel=22) was aangewezen als ijkinstelling draagt ten behoeve van de uitvoering van dit artikel of op verzoek van de ijkbevoegde, de archiefbescheiden inzake een erkenning op grond van [artikel 26 van de IJkwet](https://wetten.overheid.nl/jci1.3:c:BWBR0009082&artikel=26) over aan de aangewezen instantie, bedoeld in het tweede lid, of aan de aangewezen instantie bij wie degene die over de erkenning beschikte een aanvraag tot erkenning als bedoeld in [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0019517&hoofdstuk=4&paragraaf=1&artikel=11&z=2016-04-20&g=2016-04-20) doet.
 
 ##### Artikel 50
 
-1. Op aanvragen om een toelating van een model als bedoeld in [artikel 11a, van de IJkwet](https://wetten.overheid.nl/jci1.3:c:BWBR0009082&artikel=11a), verzoeken om ontheffing als bedoeld in de [artikelen 21b](https://wetten.overheid.nl/jci1.3:c:BWBR0009082&artikel=21b) en [21c van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0009082&artikel=21c) en aanvragen om erkenning van ijkbevoegdheid als bedoeld in [artikel 26 van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0009082&artikel=26), waarop nog geen besluit is genomen op het tijdstip van inwerkingtreding van [artikel 44](https://wetten.overheid.nl/jci1.3:c:BWBR0019517&hoofdstuk=9&artikel=44&z=2016-01-01&g=2016-01-01), wordt beslist met toepassing van het recht zoals dat gold onmiddellijk voorafgaand aan dat tijdstip.
-
-2. Ten aanzien van bezwaarschriftprocedures, beroepsprocedures en andere gerechtelijke procedures waarin op het tijdstip van inwerkingtreding van [artikel 44](https://wetten.overheid.nl/jci1.3:c:BWBR0019517&hoofdstuk=9&artikel=44&z=2016-01-01&g=2016-01-01) nog geen definitief bindende beslissing is genomen, blijft het recht zoals dat gold onmiddellijk voorafgaand aan dat tijdstip van toepassing.
-
-3. De op grond van [artikel 22 van de IJkwet](https://wetten.overheid.nl/jci1.3:c:BWBR0009082&artikel=22) aangewezen rechtspersoon blijft voor de toepassing van dit artikel fungeren als ijkinstelling.
+Vervallen
 
 ##### Artikel 51
 
-Indien een of meer van de [artikelen 1 tot en met 42](https://wetten.overheid.nl/jci1.3:c:BWBR0019517&hoofdstuk=1&artikel=1&z=2016-01-01&g=2016-01-01) eerder in werking treden dan [artikel 44](https://wetten.overheid.nl/jci1.3:c:BWBR0019517&hoofdstuk=9&artikel=44&z=2016-01-01&g=2016-01-01), kunnen bij of krachtens algemene maatregel van bestuur regels worden gesteld met het oog op de afstemming van uit de [IJkwet](https://wetten.overheid.nl/jci1.3:c:BWBR0009082) en uit deze wet voortvloeiende taken, rechten en verplichtingen.
+Vervallen
 
 #### Paragraaf 2. Slotbepalingen
 
@@ -447,11 +455,11 @@ Bij algemene maatregel van bestuur kunnen voor grootheden meeteenheden worden va
 
 ##### Artikel 3
 
-1. Indien krachtens [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0019517&hoofdstuk=2&artikel=2&z=2016-01-01&g=2016-01-01) een nationale meetstandaard van een grootheid wordt verwezenlijkt of beheerd, wijst Onze Minister één in Nederland gevestigde instelling aan die tot taak heeft zorg te dragen voor het verwezenlijken en beheren van die nationale meetstandaard.
+1. Indien krachtens [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0019517&hoofdstuk=2&artikel=2&z=2016-04-20&g=2016-04-20) een nationale meetstandaard van een grootheid wordt verwezenlijkt of beheerd, wijst Onze Minister één in Nederland gevestigde instelling aan die tot taak heeft zorg te dragen voor het verwezenlijken en beheren van die nationale meetstandaard.
 
 2. Voor een aanwijzing komt in aanmerking een instelling die
 
-- a. wat betreft organisatie, personeel en materieel zodanig is ingericht dat de verwezenlijking of het beheer van de nationale meetstandaard van de betrokken grootheid kan worden verricht met inachtneming van hetgeen terzake door de bevoegde organen van het op 20 mei 1875 te Parijs gesloten verdrag ter verzekering van de internationale eenheid en de volmaking van het metrieke stelsel (Stb. 1929, 219) in het kader van dat verdrag is bepaald of in overeenstemming met het terzake bepaalde in een EG-besluit en
+- a. wat betreft organisatie, personeel en materieel zodanig is ingericht dat de verwezenlijking of het beheer van de nationale meetstandaard van de betrokken grootheid kan worden verricht met inachtneming van hetgeen terzake door de bevoegde organen van het op 20 mei 1875 te Parijs gesloten verdrag ter verzekering van de internationale eenheid en de volmaking van het metrieke stelsel (Stb. 1929, 219) in het kader van dat verdrag is bepaald of in overeenstemming met het terzake bepaalde in een EU-besluit en
 
 - b. de in het eerste lid bedoelde taak onafhankelijk kan vervullen.
 
@@ -477,7 +485,7 @@ Bij algemene maatregel van bestuur kunnen voor grootheden meeteenheden worden va
 
 - b. advies uit te brengen over aangelegenheden in verband met de meetstandaarden van grootheden.
 
-2. De raad wordt door Onze Minister in de gelegenheid gesteld zijn zienswijze te geven over het voornemen tot een aanwijzing of tot een intrekking van een aanwijzing op grond van [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0019517&hoofdstuk=2&artikel=3&z=2016-01-01&g=2016-01-01).
+2. De raad wordt door Onze Minister in de gelegenheid gesteld zijn zienswijze te geven over het voornemen tot een aanwijzing of tot een intrekking van een aanwijzing op grond van [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0019517&hoofdstuk=2&artikel=3&z=2016-04-20&g=2016-04-20).
 
 3. De raad bestaat uit ten hoogste negen leden.
 
@@ -513,9 +521,17 @@ Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle mi
 
 ##### Artikel 9a
 
-Dit onderdeel is nog niet inwerking getreden
+1. Indien Onze Minister vaststelt dat een meetinstrument dat aan de gestelde eisen voldoet een risico vormt voor de bescherming van een algemeen belang, kan hij de marktdeelnemer die het meetinstrument op de markt aanbiedt ertoe verplichten maatregelen te nemen.
 
-### Hoofdstuk 4. Toetsende instanties bij overeenstemmingsbeoordelingen
+2. De in het eerste lid bedoelde maatregelen kunnen, afhankelijk van het vastgestelde risico, bestaan uit:
+
+- a. aanpassing van het meetinstrument waardoor het risico wordt weggenomen;
+
+- b. het niet langer op de markt aanbieden van een meetinstrument;
+
+- c. het uit de handel nemen van het meetinstrument of het terughalen bij gebruikers.
+
+### Hoofdstuk 4. Toetsende instanties bij conformiteitsbeoordelingen
 
 #### Paragraaf 1. Aangewezen instanties en erkenningen
 
@@ -529,13 +545,41 @@ Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel 25a
 
-Dit onderdeel is nog niet inwerking getreden
+Het is de marktdeelnemer verboden te handelen in strijd met de krachtens [artikel 5, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019517&hoofdstuk=3&artikel=5&z=2016-04-20&g=2016-04-20), of [artikel 9a](https://wetten.overheid.nl/jci1.3:c:BWBR0019517&hoofdstuk=3&artikel=9a&z=2016-04-20&g=2016-04-20) gestelde verplichtingen.
 
 ### Hoofdstuk 6. Toezicht en maatregelen
 
 #### Paragraaf 1. Toezicht
 
 #### Paragraaf 2. Maatregelen
+
+### Hoofdstuk 9. Wijziging andere wetten
+
+### Hoofdstuk 10. Overgangs- en slotbepalingen
+
+#### Paragraaf 1. Overgangsbepalingen
+
+#### Paragraaf 2. Slotbepalingen
+
+Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
+
+##### Artikel 21a
+
+Bij of krachtens algemene maatregel van bestuur worden eisen vastgesteld waaraan een interne instantie die werkzaamheden uitvoert in het kader van een conformiteitsbeoordeling moet voldoen en waaraan de fabrikant waar de interne instantie onderdeel van uitmaakt moet voldoen inzake het verstrekken van inlichtingen aan Onze Minister over deze instantie.
+
+### Hoofdstuk 5. Verboden
+
+#### Paragraaf 1. Verboden
+
+### Hoofdstuk 6. Toezicht en maatregelen
+
+#### Paragraaf 1. Toezicht
+
+#### Paragraaf 2. Maatregelen
+
+### Hoofdstuk 7. Rechtsbescherming
+
+### Hoofdstuk 8. Overige bepalingen
 
 ### Hoofdstuk 9. Wijziging andere wetten
 
