@@ -4,7 +4,7 @@ identifier: "BWBR0037326"
 country: "nl"
 rank: "amvb"
 publication_date: "2016-04-20"
-last_updated: "2016-01-01"
+last_updated: "2016-04-20"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0037326"
 soort: "AMvB"
@@ -104,13 +104,13 @@ Een aangewezen instantie beschikt over een passende verzekering tegen wettelijke
 
 ##### Artikel 7
 
-Een aangewezen instantie beschikt over een accreditatie waarmee wordt aangetoond dat de aangewezen instantie voldoet aan de criteria uit de relevante geharmoniseerde normen waarvan de referentienummers in het Publicatieblad van de Europese Unie zijn bekend gemaakt en die de eisen van de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0037326&paragraaf=2&artikel=2&z=2016-01-01&g=2016-01-01), [3](https://wetten.overheid.nl/jci1.3:c:BWBR0037326&paragraaf=2&artikel=3&z=2016-01-01&g=2016-01-01), [4](https://wetten.overheid.nl/jci1.3:c:BWBR0037326&paragraaf=2&artikel=4&z=2016-01-01&g=2016-01-01), [5](https://wetten.overheid.nl/jci1.3:c:BWBR0037326&paragraaf=2&artikel=5&z=2016-01-01&g=2016-01-01) en [6](https://wetten.overheid.nl/jci1.3:c:BWBR0037326&paragraaf=2&artikel=6&z=2016-01-01&g=2016-01-01) omvatten.
+Een aangewezen instantie beschikt over een accreditatie waarmee wordt aangetoond dat de aangewezen instantie voldoet aan de criteria uit de relevante geharmoniseerde normen waarvan de referentienummers in het Publicatieblad van de Europese Unie zijn bekend gemaakt en die de eisen van de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0037326&paragraaf=2&artikel=2&z=2016-04-20&g=2016-04-20), [3](https://wetten.overheid.nl/jci1.3:c:BWBR0037326&paragraaf=2&artikel=3&z=2016-04-20&g=2016-04-20), [4](https://wetten.overheid.nl/jci1.3:c:BWBR0037326&paragraaf=2&artikel=4&z=2016-04-20&g=2016-04-20), [5](https://wetten.overheid.nl/jci1.3:c:BWBR0037326&paragraaf=2&artikel=5&z=2016-04-20&g=2016-04-20) en [6](https://wetten.overheid.nl/jci1.3:c:BWBR0037326&paragraaf=2&artikel=6&z=2016-04-20&g=2016-04-20) omvatten.
 
 #### Paragraaf 3. Uitbesteding of uitvoering door dochteronderneming
 
 ##### Artikel 8
 
-1. Voordat een aangewezen instantie bepaalde taken uitbesteedt aan een onderaannemer of door een dochteronderneming laat uitvoeren, waarborgt zij dat deze onderaannemer of dochteronderneming aan de eisen van de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0037326&paragraaf=2&artikel=2&z=2016-01-01&g=2016-01-01), [3](https://wetten.overheid.nl/jci1.3:c:BWBR0037326&paragraaf=2&artikel=3&z=2016-01-01&g=2016-01-01), [4, tweede tot en met zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037326&paragraaf=2&artikel=4&z=2016-01-01&g=2016-01-01), [5](https://wetten.overheid.nl/jci1.3:c:BWBR0037326&paragraaf=2&artikel=5&z=2016-01-01&g=2016-01-01) en [6](https://wetten.overheid.nl/jci1.3:c:BWBR0037326&paragraaf=2&artikel=6&z=2016-01-01&g=2016-01-01) voldoet.
+1. Voordat een aangewezen instantie bepaalde taken uitbesteedt aan een onderaannemer of door een dochteronderneming laat uitvoeren, waarborgt zij dat deze onderaannemer of dochteronderneming aan de eisen van de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0037326&paragraaf=2&artikel=2&z=2016-04-20&g=2016-04-20), [3](https://wetten.overheid.nl/jci1.3:c:BWBR0037326&paragraaf=2&artikel=3&z=2016-04-20&g=2016-04-20), [4, tweede tot en met zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037326&paragraaf=2&artikel=4&z=2016-04-20&g=2016-04-20), [5](https://wetten.overheid.nl/jci1.3:c:BWBR0037326&paragraaf=2&artikel=5&z=2016-04-20&g=2016-04-20) en [6](https://wetten.overheid.nl/jci1.3:c:BWBR0037326&paragraaf=2&artikel=6&z=2016-04-20&g=2016-04-20) voldoet.
 
 2. Een aangewezen instantie is verantwoordelijk voor de taken die zij door een dochteronderneming laat verrichten of uitbesteedt.
 
@@ -134,7 +134,17 @@ Een aangewezen instantie beschikt over een accreditatie waarmee wordt aangetoond
 
 ##### Artikel 10
 
-Dit onderdeel is nog niet inwerking getreden
+1. Een interne instantie:
+
+- a. is geaccrediteerd aan de hand van de relevante geharmoniseerde normen waarvan de referentienummers in het Publicatieblad van de Europese Unie zijn bekendgemaakt;
+
+- b. beschikt binnen de onderneming waar zij deel van uitmaakt over rapportagemethoden die haar onpartijdigheid waarborgen en aantonen aan de Raad voor Accreditatie;
+
+- c. is met haar personeel niet verantwoordelijk voor het ontwerp, de productie, de levering, de installatie, het gebruik of het onderhoud van de meetinstrumenten die zij moet beoordelen en oefent geen activiteiten uit die haar onafhankelijke oordeel of haar integriteit met betrekking tot haar toetsende taak in het kader van de conformiteitsbeoordeling in het gedrang kunnen brengen en
+
+- d. verleent haar diensten uitsluitend aan de onderneming waar zij deel van uitmaakt.
+
+2. De ondernemer die gebruik maakt van een interne instantie en de Raad voor Accreditatie zorgen ervoor dat informatie over de accreditatie aan Onze Minister wordt verstrekt, indien deze hierom verzoekt.
 
 ##### Artikel 11
 
@@ -142,13 +152,13 @@ Het [Besluit aangewezen instanties Metrologiewet](https://wetten.overheid.nl/jci
 
 ##### Artikel 12
 
-Het [Besluit aangewezen instanties Metrologiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0019898) blijft van toepassing op instanties die zijn aangewezen voor de datum van inwerkingtreding van dit besluit en die nog niet zijn aangewezen met inachtneming van dit besluit.
+Vervallen
 
 ##### Artikel 13
 
-1. Dit besluit treedt in werking met ingang van 1 januari 2016, met uitzondering van [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0037326&paragraaf=4&artikel=10&z=2016-01-01&g=2016-01-01) dat in werking treedt met ingang van 20 april 2016.
+1. Dit besluit treedt in werking met ingang van 1 januari 2016, met uitzondering van [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0037326&paragraaf=4&artikel=10&z=2016-04-20&g=2016-04-20) dat in werking treedt met ingang van 20 april 2016.
 
-2. [Artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0037326&paragraaf=4&artikel=12&z=2016-01-01&g=2016-01-01) vervalt met ingang van 20 april 2016.
+2. [Artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0037326&paragraaf=4&artikel=12&z=2016-04-20&g=2016-04-20) vervalt met ingang van 20 april 2016.
 
 ##### Artikel 14
 
