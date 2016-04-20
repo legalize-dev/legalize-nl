@@ -4,7 +4,7 @@ identifier: "BWBR0022278"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2016-04-20"
-last_updated: "2007-07-26"
+last_updated: "2016-04-20"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0022278"
 soort: "ministeriele-regeling"
@@ -46,7 +46,7 @@ In deze regeling wordt verstaan onder:
 
 - a. wet: de [Metrologiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0019517);
 
-- b. keuring: overeenstemmingsbeoordeling van in gebruik genomen meetinstrumenten als bedoeld in [artikel 14 van het Meetinstrumentenbesluit I](https://wetten.overheid.nl/jci1.3:c:BWBR0019897&artikel=14) en [artikel 11 van het Meetinstrumentenbesluit II](https://wetten.overheid.nl/jci1.3:c:BWBR0020554&artikel=11);
+- b. keuring: conformiteitsbeoordeling van in gebruik genomen meetinstrumenten als bedoeld in [artikel 14, eerste lid, van het Besluit meetinstrumenten en marktdeelnemers](https://wetten.overheid.nl/jci1.3:c:BWBR0037835&artikel=14);
 
 - c. erkenning: erkenning als bedoeld in [artikel 11, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0019517&artikel=11);
 
@@ -64,7 +64,7 @@ In deze regeling wordt verstaan onder:
 
 - a. de kwaliteitsdoelstellingen, de organisatie van de onderneming van de aanvrager en de verantwoordelijkheden en bevoegdheden van het personeel met betrekking tot de keuring;
 
-- b. de uit te voeren onderzoeken en proeven om na te gaan of het meetinstrument in overeenstemming is met de desbetreffende eisen die op grond van [artikel 9 van het Meetinstrumentenbesluit I](https://wetten.overheid.nl/jci1.3:c:BWBR0019897&artikel=9) of [artikel 8 van het Meetinstrumentenbesluit II](https://wetten.overheid.nl/jci1.3:c:BWBR0020554&artikel=8) zijn gesteld;
+- b. de uit te voeren onderzoeken en proeven om na te gaan of het meetinstrument in overeenstemming is met de desbetreffende eisen die op grond van [artikel 11 van het Besluit meetinstrumenten en marktdeelnemers](https://wetten.overheid.nl/jci1.3:c:BWBR0037835&artikel=11) zijn gesteld;
 
 - c. de kwaliteitsrapporten van de keuringen, zoals controleverslagen, onderzoeks- en beproevingsgegevens,
 
@@ -82,11 +82,11 @@ De aangewezen instantie die erkenningen wil verlenen, heeft ervaring met het beo
 
 ##### Artikel 4
 
-1. De aangewezen instantie beoordeelt het kwaliteitssysteem teneinde na te gaan of dit voldoet aan de in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0022278&artikel=2&z=2007-07-26&g=2007-07-26) bedoelde eisen.
+1. De aangewezen instantie beoordeelt het kwaliteitssysteem teneinde na te gaan of dit voldoet aan de in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0022278&artikel=2&z=2016-04-20&g=2016-04-20) bedoelde eisen.
 
 2. De aangewezen instantie voert, voordat zij op de aanvraag beslist, een onderzoek naar de technische competentie uit bij de aanvrager.
 
-3. De aangewezen instantie verleent de erkenning indien is gebleken dat de aanvrager voldoet aan de in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0022278&artikel=2&z=2007-07-26&g=2007-07-26) bedoelde eisen.
+3. De aangewezen instantie verleent de erkenning indien is gebleken dat de aanvrager voldoet aan de in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0022278&artikel=2&z=2016-04-20&g=2016-04-20) bedoelde eisen.
 
 4. Een erkenning kan onder beperkingen worden verleend.
 
@@ -106,7 +106,7 @@ De aangewezen instantie verbindt aan de erkenning voorschriften, ook na de verle
 
 ##### Artikel 8
 
-1. De aangewezen instantie controleert tenminste eenmaal per jaar of de erkende keurder nog voldoet aan de in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0022278&artikel=2&z=2007-07-26&g=2007-07-26) bedoelde eisen.
+1. De aangewezen instantie controleert tenminste eenmaal per jaar of de erkende keurder nog voldoet aan de in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0022278&artikel=2&z=2016-04-20&g=2016-04-20) bedoelde eisen.
 
 2. De erkende keurder verleent de aangewezen instantie voor controledoeleinden toegang tot de controle- en beproevingsfaciliteiten en verstrekt haar alle nodige informatie.
 
@@ -136,7 +136,7 @@ De aangewezen instantie vermeldt in het in [artikel 21, eerste lid, van de wet](
 
 - a. de erkenningen die zij heeft verleend;
 
-- b. het aantal door haar uitgevoerde controles als bedoeld in [artikel 8, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022278&artikel=8&z=2007-07-26&g=2007-07-26);
+- b. het aantal door haar uitgevoerde controles als bedoeld in [artikel 8, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022278&artikel=8&z=2016-04-20&g=2016-04-20);
 
 - c. de erkenningen die zij heeft ingetrokken.
 
