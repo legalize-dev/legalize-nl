@@ -4,7 +4,7 @@ identifier: "BWBR0020422"
 country: "nl"
 rank: "amvb"
 publication_date: "2020-06-13"
-last_updated: "2010-10-10"
+last_updated: "2016-04-20"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0020422"
 soort: "AMvB"
@@ -56,9 +56,9 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
 - b. SI: het Internationale stelsel van meeteenheden (Système International);
 
-- c. SI-grondeenheden: de eenheden, genoemd in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020422&paragraaf=2&artikel=3&z=2010-10-10&g=2010-10-10);
+- c. SI-grondeenheden: de eenheden, genoemd in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020422&paragraaf=2&artikel=3&z=2016-04-20&g=2016-04-20);
 
-- d. afgeleide SI-eenheden: de eenheden, bedoeld in [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020422&paragraaf=2&artikel=5&z=2010-10-10&g=2010-10-10).
+- d. afgeleide SI-eenheden: de eenheden, bedoeld in [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020422&paragraaf=2&artikel=5&z=2016-04-20&g=2016-04-20).
 
 #### § 2. Erkende meeteenheden
 
@@ -211,19 +211,11 @@ De decibel A, waarvan het symbool dB(A) is, is de eenheid van geluidniveau van e
 
 ##### Artikel 10
 
-1. De benaming «EEG-natuurgewicht» mag uitsluitend worden gebruikt ter aanduiding van het natuurgewicht van granen, uitgedrukt in kilogram per hectoliter, bedoeld in artikel 2, tweede lid, van [richtlijn (EEG) nr. 71/347](31971L0347) van de Raad van de Europese Gemeenschappen van 12 oktober 1971 (PbEG L 239) betreffende de onderlinge aanpassing van de wetgevingen der Lid-Staten inzake de meting van het natuurgewicht van granen.
-
-2. Bij of in verband met de handel in granen tussen, in verschillende Lid-Staten van de Europese Unie, andere Staten die partij zijn bij de Overeenkomst betreffende de Europese Economische Ruimte of Turkije gevestigde kopers en verkopers, mogen ter aanduiding van het natuurgewicht van graan slechts benamingen worden gebezigd, welke een gelijke betekenis hebben als de benaming «EEG-natuurgewicht».
+Vervallen
 
 ##### Artikel 11
 
-De benaming «alcoholgehalte» mag met betrekking tot een mengsel van water en alcohol voor geen andere grootheid worden gebezigd dan voor het alcoholvolumegehalte of het alcoholmassagehalte als weergegeven in de navolgende tabel:
-
-| grootheid uitsluitend voor | eenheid | eenheid | eenheid |
-| --- | --- | --- | --- |
-| naam | symbool | waarde |   |
-| alcoholvolumegehalte van een mengsel van water en alcohol bij 20 °C | volumeprocent | % vol | 1% vol = 0,01 m3 · m–3 |
-| alcoholmassagehalte van een mengsel van water en alcohol | massaprocent | % mas | 1% mas = 0,01 kg · kg–1 |
+Vervallen
 
 ##### Artikel 12
 
@@ -244,9 +236,9 @@ De benaming «alcoholgehalte» mag met betrekking tot een mengsel van water en a
 
 2. Het gebruik van de in het eerste lid genoemde voorvoegsels is van toepassing op:
 
-- a. de SI-grondeenheden, genoemd in [art. 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020422&paragraaf=2&artikel=3&z=2010-10-10&g=2010-10-10);
+- a. de SI-grondeenheden, genoemd in [art. 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020422&paragraaf=2&artikel=3&z=2016-04-20&g=2016-04-20);
 
-- b. de afgeleide SI-eenheden, genoemd in [artikel 5, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020422&paragraaf=2&artikel=5&z=2010-10-10&g=2010-10-10);
+- b. de afgeleide SI-eenheden, genoemd in [artikel 5, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020422&paragraaf=2&artikel=5&z=2016-04-20&g=2016-04-20);
 
 - c. de eenheden: liter, ton, bar, decimale graad of gon, atomaire massaeenheid, elektronvolt, dioptrie, are, barn, metriekkaraat, tex, voltampère en voltampère reactief.
 
@@ -316,7 +308,7 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 ##### Artikel 20a
 
-Dit besluit, met uitzondering van de [artikelen 9](https://wetten.overheid.nl/jci1.3:c:BWBR0020422&paragraaf=2&artikel=9&z=2010-10-10&g=2010-10-10), [10](https://wetten.overheid.nl/jci1.3:c:BWBR0020422&paragraaf=2&artikel=10&z=2010-10-10&g=2010-10-10) en [11](https://wetten.overheid.nl/jci1.3:c:BWBR0020422&paragraaf=2&artikel=11&z=2010-10-10&g=2010-10-10) alsmede [paragraaf 3](https://wetten.overheid.nl/jci1.3:c:BWBR0020422&paragraaf=3&z=2010-10-10&g=2010-10-10), is mede van toepassing in de openbare lichamen Bonaire, Sint Eustatius en Saba en berust voor de toepassing in die openbare lichamen op [artikel 2 van de IJkwet BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028247&artikel=2).
+Dit besluit, met uitzondering van de [artikelen 9](https://wetten.overheid.nl/jci1.3:c:BWBR0020422&paragraaf=2&artikel=9&z=2016-04-20&g=2016-04-20), [10](https://wetten.overheid.nl/jci1.3:c:BWBR0020422&paragraaf=2&artikel=10&z=2016-04-20&g=2016-04-20) en [11](https://wetten.overheid.nl/jci1.3:c:BWBR0020422&paragraaf=2&artikel=11&z=2016-04-20&g=2016-04-20) alsmede [paragraaf 3](https://wetten.overheid.nl/jci1.3:c:BWBR0020422&paragraaf=3&z=2016-04-20&g=2016-04-20), is mede van toepassing in de openbare lichamen Bonaire, Sint Eustatius en Saba en berust voor de toepassing in die openbare lichamen op [artikel 2 van de IJkwet BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028247&artikel=2).
 
 #### § 4. Slotbepalingen
 
