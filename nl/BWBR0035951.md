@@ -4,7 +4,7 @@ identifier: "BWBR0035951"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-01-01"
-last_updated: "2016-01-01"
+last_updated: "2016-04-20"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0035951"
 soort: "ministeriele-regeling"
@@ -52,7 +52,7 @@ In deze regeling wordt verstaan onder:
 
 - –. **ADL-assistentie:** gedurende het gehele etmaal direct oproepbare assistentie bij algemene dagelijkse levensverrichtingen in en om de ADL-woning, waaronder alarmopvolging bij een noodoproep;
 
-- –. **ADL-cluster:** cluster als bedoeld in [artikel 1.3, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0035951&hoofdstuk=1&artikel=1.3&z=2016-01-01&g=2016-01-01);
+- –. **ADL-cluster:** cluster als bedoeld in [artikel 1.3, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0035951&hoofdstuk=1&artikel=1.3&z=2016-04-20&g=2016-04-20);
 
 - –. **ADL-eenheid:** ruimte in de omgeving van de ADL-woningen van waaruit de ADL-assistent wordt opgeroepen;
 
@@ -126,7 +126,7 @@ waarbij wordt verstaan onder:
 
 A: de som van:
 
-- 1°. het totaal aantal uren ADL-assistentie vermeld in de beschikking tot verlening van de subsidie op grond van deze regeling voor het jaar 2015 en
+- 1°. het totaal aantal uren ADL-assistentie vermeld in de beschikking tot verlening van de subsidie op grond van deze regeling voor het jaar 2015 vermenigvuldigd met 1.022 en
 
 - 2°. een raming van het aantal in 2016 te verlenen uren ADL-assistentie in en om een ADL-woning waarop de beschikking, bedoeld onder 1°, niet van toepassing is en waarmee het aantal ADL-woningen waar de subsidieontvanger ADL-assistentie aanbiedt is toegenomen;
 
@@ -134,7 +134,7 @@ B: de som van A voor alle subsidieontvangers.
 
 3. De raming, bedoeld in het tweede lid, onderdeel A, onder 2°, wordt gebaseerd op het aantal ADL-woningen en een berekening van de behoefte aan ADL-assistentie in en om die woningen.
 
-4. De subsidie die aan een subsidieontvanger voor het jaar 2016 ten hoogste wordt verleend bedraagt niet meer dan het aantal uren ADL-assistentie, bedoeld in het tweede lid, onderdeel A, vermenigvuldigd met het uurtarief, bedoeld in [artikel 5.5](https://wetten.overheid.nl/jci1.3:c:BWBR0035951&hoofdstuk=5&artikel=5.5&z=2016-01-01&g=2016-01-01).
+4. De subsidie die aan een subsidieontvanger voor het jaar 2016 ten hoogste wordt verleend bedraagt niet meer dan het aantal uren ADL-assistentie, bedoeld in het tweede lid, onderdeel A, vermenigvuldigd met het uurtarief, bedoeld in [artikel 5.5](https://wetten.overheid.nl/jci1.3:c:BWBR0035951&hoofdstuk=5&artikel=5.5&z=2016-04-20&g=2016-04-20).
 
 ### Hoofdstuk 2. Aanvraag
 
@@ -150,9 +150,9 @@ B: de som van A voor alle subsidieontvangers.
 
 De aanvrager doet in de aanvraag tot verlening van de subsidie opgave van:
 
-- a. het totaal aantal uren ADL-assistentie bedoeld in [artikel 1.6, tweede lid, onderdeel A, onder 1°](https://wetten.overheid.nl/jci1.3:c:BWBR0035951&hoofdstuk=1&artikel=1.6&z=2016-01-01&g=2016-01-01), en
+- a. het totaal aantal uren ADL-assistentie bedoeld in [artikel 1.6, tweede lid, onderdeel A, onder 1°](https://wetten.overheid.nl/jci1.3:c:BWBR0035951&hoofdstuk=1&artikel=1.6&z=2016-04-20&g=2016-04-20), en
 
-- b. de raming bedoeld in [artikel 1.6, tweede lid, onderdeel A, onder 2°](https://wetten.overheid.nl/jci1.3:c:BWBR0035951&hoofdstuk=1&artikel=1.6&z=2016-01-01&g=2016-01-01).
+- b. de raming bedoeld in [artikel 1.6, tweede lid, onderdeel A, onder 2°](https://wetten.overheid.nl/jci1.3:c:BWBR0035951&hoofdstuk=1&artikel=1.6&z=2016-04-20&g=2016-04-20).
 
 ##### Artikel 2.3
 
@@ -164,9 +164,9 @@ De aanvrager doet in de aanvraag tot verlening van de subsidie opgave van:
 
 1. De aanvraag tot verlening van de subsidie gaat vergezeld van:
 
-- a. afschriften van de beschikking en de bijbehorende rekenstaat, bedoeld in [artikel 1.6, tweede lid, onderdeel A, onder 1°](https://wetten.overheid.nl/jci1.3:c:BWBR0035951&hoofdstuk=1&artikel=1.6&z=2016-01-01&g=2016-01-01);
+- a. afschriften van de beschikking en de bijbehorende rekenstaat, bedoeld in [artikel 1.6, tweede lid, onderdeel A, onder 1°](https://wetten.overheid.nl/jci1.3:c:BWBR0035951&hoofdstuk=1&artikel=1.6&z=2016-04-20&g=2016-04-20);
 
-- b. stukken ter onderbouwing van de raming bedoeld in [artikel 1.6, tweede lid, onderdeel A, onder 2°](https://wetten.overheid.nl/jci1.3:c:BWBR0035951&hoofdstuk=1&artikel=1.6&z=2016-01-01&g=2016-01-01).
+- b. stukken ter onderbouwing van de raming bedoeld in [artikel 1.6, tweede lid, onderdeel A, onder 2°](https://wetten.overheid.nl/jci1.3:c:BWBR0035951&hoofdstuk=1&artikel=1.6&z=2016-04-20&g=2016-04-20).
 
 - c. een afschrift van de oprichtingsakte van de rechtspersoon dan wel van de statuten zoals deze laatstelijk zijn gewijzigd;
 
@@ -306,7 +306,7 @@ Het Zorginstituut kan bij de verlening van de subsidie verplichtingen opleggen a
 
 ##### Artikel 5.5
 
-De subsidie ten behoeve van het jaar 2016 wordt vastgesteld op het totaal aantal in dat jaar door de subsidieontvanger verleende uren ADL-assistentie vermenigvuldigd met € 60,10 tot ten hoogste het maximum bedrag van de verleende subsidie.
+De subsidie ten behoeve van het jaar 2016 wordt vastgesteld op het totaal aantal in dat jaar door de subsidieontvanger verleende uren ADL-assistentie vermenigvuldigd met € 60,78 tot ten hoogste het maximum bedrag van de verleende subsidie.
 
 ##### Artikel 5.6
 
