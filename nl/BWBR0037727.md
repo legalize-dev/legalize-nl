@@ -107,11 +107,3 @@ Dit besluit treedt in werking met ingang van 22 april 2016 en vervalt met ingang
 Dit besluit wordt aangehaald als: Besluit buitengewoon opsporingsambtenaar gemeente Heerlen 2016.
 
 Dit besluit zal in de Staatscourant worden geplaatst.
-
-##### Artikel 6
-
-1. De buitengewoon opsporingsambtenaar kan de in [artikel 7, eerste en derde lid, van de Politiewet 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&artikel=7) omschreven bevoegdheden uitoefenen.
-
-2. De buitengewoon opsporingsambtenaar mag gebruik maken van handboeien voor de periode van één jaar en vervalt uiterlijk op 7 maart 2018.
-
-Dit besluit zal in de Staatscourant worden geplaatst.
