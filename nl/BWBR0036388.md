@@ -4,7 +4,7 @@ identifier: "BWBR0036388"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2016-04-22"
-last_updated: "2016-02-01"
+last_updated: "2016-04-22"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0036388"
 soort: "ministeriele-regeling"
@@ -44,29 +44,31 @@ Besluit:
 
 1. Van het ingevolge [artikel 1 van de Mandaatregeling hoofden clusters Ministerie van Veiligheid en Justitie 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0032164&artikel=1) aan de directeur-generaal Vreemdelingenzaken verleende ondermandaat wordt ten aanzien van de aangelegenheden die hun directie, dienst, bureau of secretariaat betreffen ondermandaat verleend aan:
 
-- a. de directeur van de directie Migratiebeleid;
+- a. de directeur Migratiebeleid;
 
-- b. de directeur van de directie Regie;
+- b. de directeur Regie Vreemdelingenketen;
 
 - c. de algemeen directeur van de dienst Terugkeer en Vertrek;
 
 - d. de hoofddirecteur van de baten-lastendienst Immigratie- en Naturalisatiedienst;
 
-- e. het hoofd van het secretariaat van de Adviescommissie voor Vreemdelingenzaken.
+- e. het hoofd van het secretariaat van de Adviescommissie voor Vreemdelingenzaken;
+
+- f. de projectdirecteur Migratie.
 
 2. Van het ingevolge [artikel 1 van de Mandaatregeling hoofden clusters Ministerie van Veiligheid en Justitie 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0032164&artikel=1) aan de directeur-generaal Vreemdelingenzaken verleende ondermandaat wordt ten aanzien van de aangelegenheden bedoeld in [artikel 5, tweede lid, onderdeel a, van de Organisatieregeling Ministerie van Veiligheid en Justitie 2011](https://wetten.overheid.nl/jci1.3:c:BWBR0030837&artikel=5), ondermandaat verleend aan de directeur Wetgeving en Juridische Zaken.
 
 ##### Artikel 2
 
-Als bevoegd gezag als bedoeld in het [Algemeen Rijksambtenarenreglement](https://wetten.overheid.nl/jci1.3:c:BWBR0001950), worden aangewezen de ambtenaren, genoemd in kolom 1 van [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0036388&bijlage=1&z=2016-04-22&g=2016-02-01) bij dit besluit, voor zover het betreft de uitoefening van de bevoegdheden, vermeld in kolom 2 van die bijlage.
+Als bevoegd gezag als bedoeld in het [Algemeen Rijksambtenarenreglement](https://wetten.overheid.nl/jci1.3:c:BWBR0001950), worden aangewezen de ambtenaren, genoemd in kolom 1 van [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0036388&bijlage=1&z=2016-04-22&g=2016-04-22) bij dit besluit, voor zover het betreft de uitoefening van de bevoegdheden, vermeld in kolom 2 van die bijlage.
 
 ##### Artikel 3
 
-Als bevoegd om te beschikken over bedragen voor het aangaan van verplichtingen en voor het verrichten van uitgaven, worden aangewezen de ambtenaren, genoemd in kolom 1 van [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0036388&bijlage=2&z=2016-04-22&g=2016-02-01) bij dit besluit voor zover het betreft de bedragen, genoemd in kolom 2 van die bijlage.
+Als bevoegd om te beschikken over bedragen voor het aangaan van verplichtingen en voor het verrichten van uitgaven, worden aangewezen de ambtenaren, genoemd in kolom 1 van [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0036388&bijlage=2&z=2016-04-22&g=2016-04-22) bij dit besluit voor zover het betreft de bedragen, genoemd in kolom 2 van die bijlage.
 
 ##### Artikel 4
 
-Als bevoegd om besluiten te nemen op het terrein van de vreemdelingenwetgeving en van de [Rijkswet op het Nederlanderschap](https://wetten.overheid.nl/jci1.3:c:BWBR0003738), alsmede daaraan gerelateerde besluiten op grond van de [Wet openbaarheid van bestuur](https://wetten.overheid.nl/jci1.3:c:BWBR0005252), de [Wet bescherming persoonsgegevens](https://wetten.overheid.nl/jci1.3:c:BWBR0011468), verzoeken om schadevergoeding, en de behandeling van klachten, worden aangewezen de ambtenaren genoemd in kolom 1 van [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0036388&bijlage=3&z=2016-04-22&g=2016-02-01) bij dit besluit voor zover het betreft de rechtshandelingen, genoemd in de overige kolommen van die bijlage.
+Als bevoegd om besluiten te nemen op het terrein van de vreemdelingenwetgeving en van de [Rijkswet op het Nederlanderschap](https://wetten.overheid.nl/jci1.3:c:BWBR0003738), alsmede daaraan gerelateerde besluiten op grond van de [Wet openbaarheid van bestuur](https://wetten.overheid.nl/jci1.3:c:BWBR0005252), de [Wet bescherming persoonsgegevens](https://wetten.overheid.nl/jci1.3:c:BWBR0011468), verzoeken om schadevergoeding, en de behandeling van klachten, worden aangewezen de ambtenaren genoemd in kolom 1 van [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0036388&bijlage=3&z=2016-04-22&g=2016-04-22) bij dit besluit voor zover het betreft de rechtshandelingen, genoemd in de overige kolommen van die bijlage.
 
 ##### Artikel 5
 
@@ -74,15 +76,15 @@ Aan de directeur-generaal blijft voorbehouden:
 
 - a. de bevoegdheid om beslissingen te nemen inzake aanstelling, bevordering en ontslag van alsmede treffen van disciplinaire maatregelen jegens ambtenaren op managementfuncties van schaal 14 en hoger direct onder het niveau van het hoofd van de directie of dienst;
 
-- b. voor zover het de verlening van ondermandaat aan de in [artikel 1, eerste lid, onderdelen a, b, en e](https://wetten.overheid.nl/jci1.3:c:BWBR0036388&artikel=1&z=2016-04-22&g=2016-02-01) genoemde ambtenaren betreft, de bevoegdheid tot inhuur van interim-management, organisatie- en formatieadvies, communicatieadvies en beleidsadvies.
+- b. voor zover het de verlening van ondermandaat aan de in [artikel 1, eerste lid, onderdelen a, b, en e](https://wetten.overheid.nl/jci1.3:c:BWBR0036388&artikel=1&z=2016-04-22&g=2016-04-22) genoemde ambtenaren betreft, de bevoegdheid tot inhuur van interim-management, organisatie- en formatieadvies, communicatieadvies en beleidsadvies.
 
 ##### Artikel 6
 
-De in [artikel 1, eerste lid, onderdelen c en d](https://wetten.overheid.nl/jci1.3:c:BWBR0036388&artikel=1&z=2016-04-22&g=2016-02-01), genoemde ambtenaren kunnen geen ondermandaat verlenen van de in [artikel 5 onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0036388&artikel=5&z=2016-04-22&g=2016-02-01), genoemde bevoegdheid.
+De in [artikel 1, eerste lid, onderdelen c en d](https://wetten.overheid.nl/jci1.3:c:BWBR0036388&artikel=1&z=2016-04-22&g=2016-04-22), genoemde ambtenaren kunnen geen ondermandaat verlenen van de in [artikel 5 onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0036388&artikel=5&z=2016-04-22&g=2016-04-22), genoemde bevoegdheid.
 
 ##### Artikel 7
 
-De in [artikel 1, eerste lid, onderdelen c en d](https://wetten.overheid.nl/jci1.3:c:BWBR0036388&artikel=1&z=2016-04-22&g=2016-02-01), genoemde ambtenaren worden aangewezen om de bevoegdheid tot het nemen van besluiten inzake financieel beheer en het nemen van rechtspositionele besluiten alsmede besluiten op het terrein van de vreemdelingenwetgeving en van de [Rijkswet op het Nederlanderschap](https://wetten.overheid.nl/jci1.3:c:BWBR0003738) verder dan één hiërarchisch niveau door te geven.
+De in [artikel 1, eerste lid, onderdelen c en d](https://wetten.overheid.nl/jci1.3:c:BWBR0036388&artikel=1&z=2016-04-22&g=2016-04-22), genoemde ambtenaren worden aangewezen om de bevoegdheid tot het nemen van besluiten inzake financieel beheer en het nemen van rechtspositionele besluiten alsmede besluiten op het terrein van de vreemdelingenwetgeving en van de [Rijkswet op het Nederlanderschap](https://wetten.overheid.nl/jci1.3:c:BWBR0003738) verder dan één hiërarchisch niveau door te geven.
 
 ##### Artikel 8
 
@@ -114,4 +116,4 @@ De uit dit besluit voortvloeiende bevoegdheden gaan in geval van afwezigheid van
 
 Ligt ter inzage bij het ministerie.
 
-Dit besluit zal met de toelichting in de Staatscourant worden geplaatst. [Bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0036388&bijlage=1&z=2016-04-22&g=2016-02-01), [2](https://wetten.overheid.nl/jci1.3:c:BWBR0036388&bijlage=2&z=2016-04-22&g=2016-02-01) en [3](https://wetten.overheid.nl/jci1.3:c:BWBR0036388&bijlage=3&z=2016-04-22&g=2016-02-01) bij dit besluit liggen bij het ministerie ter inzage.
+Dit besluit zal met de toelichting in de Staatscourant worden geplaatst. [Bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0036388&bijlage=1&z=2016-04-22&g=2016-04-22), [2](https://wetten.overheid.nl/jci1.3:c:BWBR0036388&bijlage=2&z=2016-04-22&g=2016-04-22) en [3](https://wetten.overheid.nl/jci1.3:c:BWBR0036388&bijlage=3&z=2016-04-22&g=2016-04-22) bij dit besluit liggen bij het ministerie ter inzage.
