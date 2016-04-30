@@ -4,7 +4,7 @@ identifier: "BWBR0034579"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2016-04-30"
-last_updated: "2016-01-01"
+last_updated: "2016-04-30"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0034579"
 soort: "ministeriele-regeling"
@@ -148,19 +148,19 @@ Wijzigt de Uitvoeringsregeling Douane- en Accijnswet BES.
 
 1. Deze regeling treedt in werking met ingang van 1 januari 2014, met dien verstande dat:
 
-- a. [artikel XIX, onderdeel B](https://wetten.overheid.nl/jci1.3:c:BWBR0034579&artikel=XIX&z=2015-01-01&g=2016-01-01), terugwerkt tot en met 30 december 2009;
+- a. [artikel XIX, onderdeel B](https://wetten.overheid.nl/jci1.3:c:BWBR0034579&artikel=XIX&z=2016-04-30&g=2016-04-30), terugwerkt tot en met 30 december 2009;
 
-- b. [artikel XIX, onderdeel C](https://wetten.overheid.nl/jci1.3:c:BWBR0034579&artikel=XIX&z=2015-01-01&g=2016-01-01), en [artikel XXV](https://wetten.overheid.nl/jci1.3:c:BWBR0034579&artikel=XXV&z=2015-01-01&g=2016-01-01) terugwerken tot en met 1 januari 2011;
+- b. [artikel XIX, onderdeel C](https://wetten.overheid.nl/jci1.3:c:BWBR0034579&artikel=XIX&z=2016-04-30&g=2016-04-30), en [artikel XXV](https://wetten.overheid.nl/jci1.3:c:BWBR0034579&artikel=XXV&z=2016-04-30&g=2016-04-30) terugwerken tot en met 1 januari 2011;
 
-- c. [artikel I, onderdelen A, eerste volzin, E, N en O](https://wetten.overheid.nl/jci1.3:c:BWBR0034579&artikel=I&z=2015-01-01&g=2016-01-01), en [artikel XXII, onderdelen A, tweede volzin, B en F](https://wetten.overheid.nl/jci1.3:c:BWBR0034579&artikel=XXII&z=2015-01-01&g=2016-01-01), terugwerken tot en met 1 januari 2013; en
+- c. [artikel I, onderdelen A, eerste volzin, E, N en O](https://wetten.overheid.nl/jci1.3:c:BWBR0034579&artikel=I&z=2016-04-30&g=2016-04-30), en [artikel XXII, onderdelen A, tweede volzin, B en F](https://wetten.overheid.nl/jci1.3:c:BWBR0034579&artikel=XXII&z=2016-04-30&g=2016-04-30), terugwerken tot en met 1 januari 2013; en
 
-- d. [artikel XXII, onderdelen A, eerste volzin, D en E](https://wetten.overheid.nl/jci1.3:c:BWBR0034579&artikel=XXII&z=2015-01-01&g=2016-01-01), en [artikel XXIII, onderdeel B, onder 2](https://wetten.overheid.nl/jci1.3:c:BWBR0034579&artikel=XXIII&z=2015-01-01&g=2016-01-01), terugwerkt tot en met 1 december 2013.
+- d. [artikel XXII, onderdelen A, eerste volzin, D en E](https://wetten.overheid.nl/jci1.3:c:BWBR0034579&artikel=XXII&z=2016-04-30&g=2016-04-30), en [artikel XXIII, onderdeel B, onder 2](https://wetten.overheid.nl/jci1.3:c:BWBR0034579&artikel=XXIII&z=2016-04-30&g=2016-04-30), terugwerkt tot en met 1 december 2013.
 
-2. In afwijking van het eerste lid treedt [artikel XIII, onderdeel B](https://wetten.overheid.nl/jci1.3:c:BWBR0034579&artikel=XIII&z=2015-01-01&g=2016-01-01), in werking met ingang van 13 december 2014.
+2. In afwijking van het eerste lid treedt [artikel XIII, onderdeel B](https://wetten.overheid.nl/jci1.3:c:BWBR0034579&artikel=XIII&z=2016-04-30&g=2016-04-30), in werking met ingang van 13 december 2014.
 
-3. In afwijking van het eerste lid treden [artikel I, onderdelen F, J, K en L](https://wetten.overheid.nl/jci1.3:c:BWBR0034579&artikel=I&z=2015-01-01&g=2016-01-01), [artikel IV, onderdelen D, E, F, H, J, L en M](https://wetten.overheid.nl/jci1.3:c:BWBR0034579&artikel=IV&z=2015-01-01&g=2016-01-01), [artikel VI](https://wetten.overheid.nl/jci1.3:c:BWBR0034579&artikel=VI&z=2015-01-01&g=2016-01-01), [artikel XIX, onderdeel D](https://wetten.overheid.nl/jci1.3:c:BWBR0034579&artikel=XIX&z=2015-01-01&g=2016-01-01), [artikel XXI](https://wetten.overheid.nl/jci1.3:c:BWBR0034579&artikel=XXI&z=2015-01-01&g=2016-01-01), [artikel XXIII, onderdelen A en B, onder 1](https://wetten.overheid.nl/jci1.3:c:BWBR0034579&artikel=XXIII&z=2015-01-01&g=2016-01-01), en [artikel XXIV](https://wetten.overheid.nl/jci1.3:c:BWBR0034579&artikel=XXIV&z=2015-01-01&g=2016-01-01) in werking op het tijdstip waarop de [Aanpassingswet basisregistratie personen](https://wetten.overheid.nl/jci1.3:c:BWBR0033721) in werking treedt.
+3. In afwijking van het eerste lid treden [artikel I, onderdelen F, J, K en L](https://wetten.overheid.nl/jci1.3:c:BWBR0034579&artikel=I&z=2016-04-30&g=2016-04-30), [artikel IV, onderdelen D, E, F, H, J, L en M](https://wetten.overheid.nl/jci1.3:c:BWBR0034579&artikel=IV&z=2016-04-30&g=2016-04-30), [artikel VI](https://wetten.overheid.nl/jci1.3:c:BWBR0034579&artikel=VI&z=2016-04-30&g=2016-04-30), [artikel XIX, onderdeel D](https://wetten.overheid.nl/jci1.3:c:BWBR0034579&artikel=XIX&z=2016-04-30&g=2016-04-30), [artikel XXI](https://wetten.overheid.nl/jci1.3:c:BWBR0034579&artikel=XXI&z=2016-04-30&g=2016-04-30), [artikel XXIII, onderdelen A en B, onder 1](https://wetten.overheid.nl/jci1.3:c:BWBR0034579&artikel=XXIII&z=2016-04-30&g=2016-04-30), en [artikel XXIV](https://wetten.overheid.nl/jci1.3:c:BWBR0034579&artikel=XXIV&z=2016-04-30&g=2016-04-30) in werking op het tijdstip waarop de [Aanpassingswet basisregistratie personen](https://wetten.overheid.nl/jci1.3:c:BWBR0033721) in werking treedt.
 
-4. In afwijking van het eerste lid treedt [artikel I, onderdeel M](https://wetten.overheid.nl/jci1.3:c:BWBR0034579&artikel=I&z=2015-01-01&g=2016-01-01), in werking op het tijdstip waarop [artikel I, onderdeel G, van Overige fiscale maatregelen 2014](https://wetten.overheid.nl/jci1.3:c:BWBR0034526&artikel=I) in werking treedt.
+4. In afwijking van het eerste lid treedt [artikel I, onderdeel M](https://wetten.overheid.nl/jci1.3:c:BWBR0034579&artikel=I&z=2016-04-30&g=2016-04-30), in werking op het tijdstip waarop [artikel I, onderdeel G, van Overige fiscale maatregelen 2014](https://wetten.overheid.nl/jci1.3:c:BWBR0034526&artikel=I) in werking treedt.
 
 Handelende wat [artikel 3.22 van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.22) betreft, in overeenstemming met de Minister van Infrastructuur en Milieu;
 
