@@ -4,7 +4,7 @@ identifier: "BWBR0012031"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-01-17"
-last_updated: "2016-04-01"
+last_updated: "2016-04-30"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0012031"
 soort: "ministeriele-regeling"
@@ -600,13 +600,15 @@ Voor de toepassing van [artikel 8.14a, eerste lid, onderdeel b, van de wet](http
 
 2. Indien binnen de in het eerste lid bedoelde termijn een uitnodiging tot het doen van aangifte is uitgereikt of toegezonden, hetzij de inspecteur is verzocht om een uitnodiging tot het doen van aangifte, wordt die termijn verlengd tot het einde van de door de inspecteur ingevolge [artikel 9, eerste tot en met derde lid, van de Algemene wet inzake rijksbelastingen](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=9) gestelde of verleende termijn.
 
-##### Artikel 45a. Voorheffingen; vaststelling hoogte van bedrag aan te verrekenen loonbelasting ingevolge compensatieregeling uit het Verdrag met België
+##### Artikel 45a. Voorheffingen; vaststelling hoogte van bedrag aan te verrekenen loonbelasting ingevolge compensatieregeling uit verdragen met België en Duitsland
 
-1. Indien de belastingplichtige een partner heeft ten aanzien van wie in het kalenderjaar de in [artikel 8.8 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=8.8) bedoelde maximering van de gecombineerde heffingskorting toepassing vindt, wordt bij de berekening van hetgeen ingevolge artikel 27, paragraaf 1, van het in artikel [9.2 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=9.2) genoemde verdrag wordt aangemerkt als ingehouden Nederlandse loonbelasting, het bedrag aan Nederlandse inkomstenbelasting en premie voor de volksverzekeringen als bedoeld in de [Wet financiering sociale verzekeringen](https://wetten.overheid.nl/jci1.3:c:BWBR0017745) dat de belastingplichtige verschuldigd zou zijn geweest indien hij de in artikel 27, paragraaf 1, van dat verdrag bedoelde beloningen uit Nederland zou hebben verkregen, verminderd met de verhoging, bedoeld in artikel [8.9 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=8.9), van de gecombineerde heffingskorting waarop zijn partner recht zou hebben gehad, indien hij bedoelde beloningen daadwerkelijk uit Nederland zou hebben verkregen en Nederland daarover belasting en premie zou hebben geheven.
+1. Indien de belastingplichtige een partner heeft ten aanzien van wie in het kalenderjaar de in [artikel 8.8 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=8.8) bedoelde maximering van de gecombineerde heffingskorting toepassing vindt, wordt bij de berekening van hetgeen ingevolge artikel 27, paragraaf 1, van het in [artikel 9.2, negende lid, onderdeel a, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=9.2) genoemde verdrag wordt aangemerkt als ingehouden Nederlandse loonbelasting, het bedrag aan Nederlandse inkomstenbelasting en premie voor de volksverzekeringen als bedoeld in de [Wet financiering sociale verzekeringen](https://wetten.overheid.nl/jci1.3:c:BWBR0017745) dat de belastingplichtige verschuldigd zou zijn geweest indien hij de in artikel 27, paragraaf 1, van dat verdrag bedoelde beloningen uit Nederland zou hebben verkregen, verminderd met de verhoging, bedoeld in artikel [8.9 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=8.9), van de gecombineerde heffingskorting waarop zijn partner recht zou hebben gehad, indien hij bedoelde beloningen daadwerkelijk uit Nederland zou hebben verkregen en Nederland daarover belasting en premie zou hebben geheven.
 
-2. Indien de belastingplichtige een partner heeft ten aanzien van wie in het kalenderjaar de in [artikel 8.8 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=8.8) bedoelde maximering van de gecombineerde heffingskorting toepassing vindt, wordt bij de berekening van hetgeen ingevolge artikel 27, paragraaf 2, van het in het eerste lid bedoelde verdrag wordt aangemerkt als ingehouden Nederlandse loonbelasting, het bedrag aan Nederlandse inkomstenbelasting dat de belastingplichtige verschuldigd zou zijn geweest indien de in artikel 27, paragraaf 2, van dat verdrag bedoelde beloningen uitsluitend in Nederland zouden zijn belast, verminderd met de verhoging, bedoeld in [artikel 8.9 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=8.9), van de gecombineerde heffingskorting, waarop zijn partner recht zou hebben gehad indien uitsluitend in Nederland over de bedoelde beloningen belasting zou zijn geheven.
+2. Indien de belastingplichtige een partner heeft ten aanzien van wie in het kalenderjaar de in [artikel 8.8 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=8.8) bedoelde maximering van de gecombineerde heffingskorting toepassing vindt, wordt bij de berekening van hetgeen ingevolge artikel XII van het protocol bij het in [artikel 9.2, negende lid, onderdeel b, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=9.2) genoemde verdrag wordt aangemerkt als ingehouden Nederlandse loonbelasting, het bedrag aan Nederlandse inkomstenbelasting en premie voor de volksverzekeringen als bedoeld in de [Wet financiering sociale verzekeringen](https://wetten.overheid.nl/jci1.3:c:BWBR0017745) dat de belastingplichtige verschuldigd zou zijn geweest indien hij de in artikel XII van dat protocol bedoelde beloningen uit Nederland zou hebben verkregen, verminderd met de verhoging, bedoeld in [artikel 8.9 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=8.9), van de gecombineerde heffingskorting waarop zijn partner recht zou hebben gehad, indien hij bedoelde beloningen daadwerkelijk uit Nederland zou hebben verkregen en Nederland daarover belasting en premie zou hebben geheven.
 
-3. De in het eerste en het tweede lid bedoelde verminderingen zijn niet van toepassing voorzover de partner van de belastingplichtige:
+3. Indien de belastingplichtige een partner heeft ten aanzien van wie in het kalenderjaar de in [artikel 8.8 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=8.8) bedoelde maximering van de gecombineerde heffingskorting toepassing vindt, wordt bij de berekening van hetgeen ingevolge artikel 27, paragraaf 2, van het in het eerste lid bedoelde verdrag wordt aangemerkt als ingehouden Nederlandse loonbelasting, het bedrag aan Nederlandse inkomstenbelasting dat de belastingplichtige verschuldigd zou zijn geweest indien de in artikel 27, paragraaf 2, van dat verdrag bedoelde beloningen uitsluitend in Nederland zouden zijn belast, verminderd met de verhoging, bedoeld in [artikel 8.9 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=8.9), van de gecombineerde heffingskorting, waarop zijn partner recht zou hebben gehad indien uitsluitend in Nederland over de bedoelde beloningen belasting zou zijn geheven.
+
+4. De in het eerste, tweede en derde lid bedoelde verminderingen zijn niet van toepassing voorzover de partner van de belastingplichtige:
 
 - a. uit hoofde van [hoofdstuk 8 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&hoofdstuk=8) recht heeft op verhoging van de gecombineerde heffingskorting; of
 
@@ -684,11 +686,11 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst
 
 Vóór 1 januari 2005 vastgestelde lijfrenten die niet in geldeenheden luiden:
 
-- 1. Op een lijfrente waarvan vóór 1 januari 2005 de hoogte van de termijnen in beleggingseenheden (units) met de verzekeraar is overeengekomen, blijft [artikel 2a](https://wetten.overheid.nl/jci1.3:c:BWBR0012031&hoofdstuk=1&artikel=2a&z=2018-01-01&g=2016-04-01) buiten toepassing en kan de lijfrente-overeenkomst worden tenuitvoergelegd zoals is overeengekomen.
+- 1. Op een lijfrente waarvan vóór 1 januari 2005 de hoogte van de termijnen in beleggingseenheden (units) met de verzekeraar is overeengekomen, blijft [artikel 2a](https://wetten.overheid.nl/jci1.3:c:BWBR0012031&hoofdstuk=1&artikel=2a&z=2018-01-01&g=2016-04-30) buiten toepassing en kan de lijfrente-overeenkomst worden tenuitvoergelegd zoals is overeengekomen.
 
-- 2. Indien ter zake van een lijfrente als bedoeld in het eerste lid op of na 1 januari 2005 met de verzekeraar een wijziging van methode van berekening van de termijnen in units of in euro’s wordt overeengekomen, is met ingang van de datum van die wijziging [art. 2a](https://wetten.overheid.nl/jci1.3:c:BWBR0012031&hoofdstuk=1&artikel=2a&z=2018-01-01&g=2016-04-01) wel van toepassing.
+- 2. Indien ter zake van een lijfrente als bedoeld in het eerste lid op of na 1 januari 2005 met de verzekeraar een wijziging van methode van berekening van de termijnen in units of in euro’s wordt overeengekomen, is met ingang van de datum van die wijziging [art. 2a](https://wetten.overheid.nl/jci1.3:c:BWBR0012031&hoofdstuk=1&artikel=2a&z=2018-01-01&g=2016-04-30) wel van toepassing.
 
-- 3. Indien een lijfrente als bedoeld in het eerste lid op of na 1 januari 2005 wordt omgezet in een andere lijfrente, is [artikel 2a](https://wetten.overheid.nl/jci1.3:c:BWBR0012031&hoofdstuk=1&artikel=2a&z=2018-01-01&g=2016-04-01) van toepassing op de laatstgenoemde lijfrente.
+- 3. Indien een lijfrente als bedoeld in het eerste lid op of na 1 januari 2005 wordt omgezet in een andere lijfrente, is [artikel 2a](https://wetten.overheid.nl/jci1.3:c:BWBR0012031&hoofdstuk=1&artikel=2a&z=2018-01-01&g=2016-04-30) van toepassing op de laatstgenoemde lijfrente.
 
 ### Hoofdstuk 11. Overgangs- en slotbepalingen ([hoofdstuk 11 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&hoofdstuk=11))
 
@@ -828,9 +830,9 @@ Vervallen
 
 5. Ingeval het fonds is aangewezen met een ingroeiperiode en na afloop van die periode niet wordt voldaan aan het hoofdzakelijkheidscriterium, heeft de intrekking terugwerkende kracht tot en met de eerste dag na het aflopen van die periode.
 
-6. Indien het fonds de in [artikel 29a, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012031&hoofdstuk=5&artikel=29a&z=2018-01-01&g=2016-04-01), bedoelde mededeling onverwijld heeft gedaan, heeft de intrekking geen terugwerkende kracht.
+6. Indien het fonds de in [artikel 29a, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012031&hoofdstuk=5&artikel=29a&z=2018-01-01&g=2016-04-30), bedoelde mededeling onverwijld heeft gedaan, heeft de intrekking geen terugwerkende kracht.
 
-7. Indien het fonds de in [artikel 29a, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012031&hoofdstuk=5&artikel=29a&z=2018-01-01&g=2016-04-01), bedoelde mededeling onverwijld heeft gedaan en voorts aannemelijk maakt dat het niet meer voldoen aan de voorwaarden niet langer dan drie maanden zal voortduren, een incidenteel karakter heeft en niet in strijd is met doel en strekking van de regeling, trekt de inspecteur de aanwijzing niet in. Het besluit de aanwijzing niet in te trekken, neemt de inspecteur bij voor bezwaar vatbare beschikking; daarbij kan hij nadere voorwaarden stellen.
+7. Indien het fonds de in [artikel 29a, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012031&hoofdstuk=5&artikel=29a&z=2018-01-01&g=2016-04-30), bedoelde mededeling onverwijld heeft gedaan en voorts aannemelijk maakt dat het niet meer voldoen aan de voorwaarden niet langer dan drie maanden zal voortduren, een incidenteel karakter heeft en niet in strijd is met doel en strekking van de regeling, trekt de inspecteur de aanwijzing niet in. Het besluit de aanwijzing niet in te trekken, neemt de inspecteur bij voor bezwaar vatbare beschikking; daarbij kan hij nadere voorwaarden stellen.
 
 8. Indien de inspecteur een aanwijzing intrekt, maakt hij die intrekking op een daartoe geschikte wijze publiek bekend.
 
@@ -998,7 +1000,7 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst
 
 ##### Artikel 45e. Overgangsrecht verliezen op geldleningen aan beginnende ondernemers; verliezen op beleggingen in durfkapitaal
 
-[Artikel 34](https://wetten.overheid.nl/jci1.3:c:BWBR0012031&hoofdstuk=6&artikel=34&z=2018-01-01&g=2016-04-01), zoals dat artikel op 31 december 2010 luidde, blijft van toepassing op verliezen op vóór 1 januari 2011 verstrekte geldleningen als bedoeld in [artikel 6.8, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=6.8), van de wet, zoals dat lid op 31 december 2010 luidde.
+[Artikel 34](https://wetten.overheid.nl/jci1.3:c:BWBR0012031&hoofdstuk=6&artikel=34&z=2018-01-01&g=2016-04-30), zoals dat artikel op 31 december 2010 luidde, blijft van toepassing op verliezen op vóór 1 januari 2011 verstrekte geldleningen als bedoeld in [artikel 6.8, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=6.8), van de wet, zoals dat lid op 31 december 2010 luidde.
 
 ### Hoofdstuk 11. Overgangs- en slotbepalingen ([hoofdstuk 11 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&hoofdstuk=11))
 
