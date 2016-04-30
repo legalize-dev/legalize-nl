@@ -4,7 +4,7 @@ identifier: "BWBR0016698"
 country: "nl"
 rank: "amvb"
 publication_date: "2022-04-09"
-last_updated: "2015-02-26"
+last_updated: "2016-04-30"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0016698"
 soort: "AMvB"
@@ -38,13 +38,15 @@ entry_into_force: "2016-10-27"
 
 Op de voordracht van Onze Minister van Economische Zaken van 10 juli 2003, nrs. WJZ 3025210 en WJZ 3025247;
 
-Gelet op [richtlijn nr. 2002/22/EG](32002L0022) van het Europees Parlement en de Raad van de Europese Unie van 7 maart 2002 inzake de universele dienst en gebruikersrechten met betrekking tot elektronische communicatienetwerken en -diensten (Universeledienstrichtlijn) (PbEG L 108), [richtlijn nr. 2002/58/EG](32002L0058) van het Europees Parlement en de Raad van de Europese Unie van 12 juli 2002 betreffende de verwerking van persoonsgegevens en de bescherming van de persoonlijke levenssfeer in de sector elektronische communicatie (PbEG L 201), en de [artikelen 7.4, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&artikel=7.4), [7.5](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&artikel=7.5), [7.6, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&artikel=7.6), [7.8](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&artikel=7.8), [9.1, tweede en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&artikel=9.1), [9.2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&artikel=9.2), [9.4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&artikel=9.4), [12.1](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&artikel=12.1), [18.2](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&artikel=18.2) en [18.12 van de Telecommunicatiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&artikel=18.12);
+Gelet op [richtlijn nr. 2002/22/EG](onbekend) van het Europees Parlement en de Raad van de Europese Unie van 7 maart 2002 inzake de universele dienst en gebruikersrechten met betrekking tot elektronische communicatienetwerken en -diensten (Universeledienstrichtlijn) (PbEG L 108), [richtlijn nr. 2002/58/EG](onbekend) van het Europees Parlement en de Raad van de Europese Unie van 12 juli 2002 betreffende de verwerking van persoonsgegevens en de bescherming van de persoonlijke levenssfeer in de sector elektronische communicatie (PbEG L 201), en de [artikelen 7.4, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&artikel=7.4), [7.5](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&artikel=7.5), [7.6, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&artikel=7.6), [7.8](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&artikel=7.8), [9.1, tweede en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&artikel=9.1), [9.2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&artikel=9.2), [9.4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&artikel=9.4), [12.1](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&artikel=12.1), [18.2](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&artikel=18.2) en [18.12 van de Telecommunicatiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&artikel=18.12);
 
 De Raad van State gehoord (adviezen van 14 augustus 2003, nr. W10.03.0310/II en 25 september 2003, nr. W10.03.0309/II);
 
 Gezien het nader rapport van Onze Minister van Economische Zaken van 3 mei 2004, nr. WJZ 4028408;
 
 Hebben goedgevonden en verstaan:
+
+Treedt in werking op het tijdstip waarop de Wet implementatie Europees regelgevingskader voor de elektronische communicatiesector 2002 in werking treedt.
 
 ### Hoofdstuk 1. Definities
 
@@ -156,7 +158,7 @@ De aanbieder van telefoongidsen of de abonnee-informatiedienst die krachtens [ar
 
 ##### Artikel 2.11
 
-1. Teneinde abonnees in staat te stellen hun uitgaven te beheersen en te controleren en een ongegronde onderbreking van de levering van de dienst te voorkomen, worden bij ministeriële regeling aanbieders die krachtens [artikel 9.2 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&artikel=9.2) zijn aangewezen verplicht om diensten of faciliteiten als bedoeld in bijlage I, deel A, van [richtlijn nr. 2002/22/EG](32002L0022) te leveren. De verplichtingen die strekken tot uitvoering van bijlage I, Deel A, onderdeel e, van richtlijn nr. 2002/22/EG zijn van overeenkomstige toepassing op aanbieders van openbare elektronische communicatiediensten die de eindgebruiker toegang verschaffen tot nummers uit het Nummerplan telefoon- en ISDN-diensten of internationale nummers, met uitzondering van aanbieders van carrierdiensten.
+1. Teneinde abonnees in staat te stellen hun uitgaven te beheersen en te controleren en een ongegronde onderbreking van de levering van de dienst te voorkomen, worden bij ministeriële regeling aanbieders die krachtens [artikel 9.2 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&artikel=9.2) zijn aangewezen verplicht om diensten of faciliteiten als bedoeld in bijlage I, deel A, van [richtlijn nr. 2002/22/EG](onbekend) te leveren. De verplichtingen die strekken tot uitvoering van bijlage I, Deel A, onderdeel e, van richtlijn nr. 2002/22/EG zijn van overeenkomstige toepassing op aanbieders van openbare elektronische communicatiediensten die de eindgebruiker toegang verschaffen tot nummers uit het Nummerplan telefoon- en ISDN-diensten of internationale nummers, met uitzondering van aanbieders van carrierdiensten.
 
 2. Bij ministeriële regeling kunnen regels worden gesteld over het door een aanbieder van openbare elektronische communicatiediensten opschorten of beëindigen van de levering van zijn openbare elektronische communicatiedienst. De regels kunnen betrekking hebben op verplichtingen waaraan de aanbieder moet voldoen voordat hij de dienstverlening mag opschorten of beëindigen. Zij kunnen tevens inhouden dat de dienstverlening in bij de regeling omschreven gevallen geheel of gedeeltelijk in stand moet blijven.
 
@@ -170,7 +172,7 @@ In deze paragraaf en de daarop berustende bepalingen wordt verstaan onder:
 
 - –. **aanbieder:** onderneming die openbare elektronische communicatiediensten, openbare elektronische communicatiewerken of bijbehorende faciliteiten aanbiedt;
 
-- –. **omzet:** omzet als bedoeld in [artikel 12, eerste lid, van het Besluit doorberekening kosten ACM](515599).
+- –. **omzet:** omzet als bedoeld in [artikel 12, eerste lid, van het Besluit doorberekening kosten ACM](onbekend).
 
 ##### Artikel 2.13
 
@@ -178,7 +180,7 @@ In deze paragraaf en de daarop berustende bepalingen wordt verstaan onder:
 
 2. Bij ministeriële regeling wordt bepaald beneden welke omzet aan een aanbieder geen bedrag in rekening wordt gebracht.
 
-3. Bij de toepassing van het eerste en tweede lid wordt uitgegaan van de omzetgegevens die op grond van [artikel 12a van het Besluit doorberekening kosten ACM](515599) zijn verstrekt.
+3. Bij de toepassing van het eerste en tweede lid wordt uitgegaan van de omzetgegevens die op grond van [artikel 12a van het Besluit doorberekening kosten ACM](onbekend) zijn verstrekt.
 
 4. De aanbieder betaalt de bijdrage binnen 30 dagen na ontvangst van de beschikking waarin de hoogte van de bijdrage wordt vastgesteld.
 
@@ -194,13 +196,13 @@ Een aanbieder die telefoonnummers in gebruik geeft, voldoet aan alle redelijke v
 
 1. Een aanbieder van de openbare telefoondienst die voor of bij het sluiten van een overeenkomst met een gebruiker diens naam, adres en huisnummer, postcode en woonplaats vraagt, vraagt tevens toestemming voor opname van deze soorten persoonsgegevens en door hem in gebruik gegeven telefoonnummers in elke standaard telefoongids en elk abonneebestand dat voor een standaard abonnee-informatiedienst wordt gebruikt. De in de vorige volzin bedoelde toestemming wordt per soort persoonsgegeven afzonderlijk gevraagd.
 
-2. De gegeven toestemming is relevante informatie als bedoeld in [artikel 3.1](https://wetten.overheid.nl/jci1.3:c:BWBR0016698&hoofdstuk=3&paragraaf=3.1&artikel=3.1&z=2015-02-26&g=2015-02-26).
+2. De gegeven toestemming is relevante informatie als bedoeld in [artikel 3.1](https://wetten.overheid.nl/jci1.3:c:BWBR0016698&hoofdstuk=3&paragraaf=3.1&artikel=3.1&z=2016-11-03&g=2016-04-30).
 
 3. Een aanbieder van de openbare telefoondienst die tevens toestemming vraagt voor opname in een andere telefoongids dan de standaard telefoongids of een abonneebestand dat niet uitsluitend wordt gebruikt voor de standaard abonnee-informatiedienst, zorgt ervoor dat de wijze waarop en de vorm waarin de in het eerste lid bedoelde toestemming wordt gevraagd ten minste gelijk is aan de wijze waarop en de vorm waarin de in dit lid eerstgenoemde toestemming wordt gevraagd.
 
 ##### Artikel 3.3
 
-De abonnee-informatiedienst, bedoeld in [artikel 7.6 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&artikel=7.6), voldoet aan de voorschriften, bedoeld in [artikel 2.3](https://wetten.overheid.nl/jci1.3:c:BWBR0016698&hoofdstuk=2&paragraaf=2.1&artikel=2.3&z=2015-02-26&g=2015-02-26).
+De abonnee-informatiedienst, bedoeld in [artikel 7.6 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&artikel=7.6), voldoet aan de voorschriften, bedoeld in [artikel 2.3](https://wetten.overheid.nl/jci1.3:c:BWBR0016698&hoofdstuk=2&paragraaf=2.1&artikel=2.3&z=2016-11-03&g=2016-04-30).
 
 #### § 3.2. Geschillenbeslechting door geschillencommissie
 
@@ -332,11 +334,11 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 ##### Artikel 2.9a
 
-De aanbieder van openbare telefoondiensten op een vaste locatie die krachtens [artikel 9.2 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&artikel=9.2) is aangewezen, kan, waar deze de openbare telefoondienst via een mobiel netwerk levert, een andere tariefstructuur dan de in [artikel 2.5, derde lid, onderdelen a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0016698&hoofdstuk=2&paragraaf=2.2&artikel=2.5&z=2015-02-26&g=2015-02-26), beschreven tariefstructuur hanteren, mits consumenten in dat geval kunnen kiezen uit één van de volgende abonnementsvormen:
+De aanbieder van openbare telefoondiensten op een vaste locatie die krachtens [artikel 9.2 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&artikel=9.2) is aangewezen, kan, waar deze de openbare telefoondienst via een mobiel netwerk levert, een andere tariefstructuur dan de in [artikel 2.5, derde lid, onderdelen a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0016698&hoofdstuk=2&paragraaf=2.2&artikel=2.5&z=2016-11-03&g=2016-04-30), beschreven tariefstructuur hanteren, mits consumenten in dat geval kunnen kiezen uit één van de volgende abonnementsvormen:
 
-- a. een belabonnement, waarbij de consument per jaar geen hoger bedrag in rekening wordt gebracht dan op grond van [artikel 2.5, derde lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0016698&hoofdstuk=2&paragraaf=2.2&artikel=2.5&z=2015-02-26&g=2015-02-26), zou zijn toegestaan;
+- a. een belabonnement, waarbij de consument per jaar geen hoger bedrag in rekening wordt gebracht dan op grond van [artikel 2.5, derde lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0016698&hoofdstuk=2&paragraaf=2.2&artikel=2.5&z=2016-11-03&g=2016-04-30), zou zijn toegestaan;
 
-- b. een bereikbaarheidsabonnement, waarbij de consument per jaar geen hoger bedrag in rekening wordt gebracht dan op grond van [artikel 2.5, derde lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0016698&hoofdstuk=2&paragraaf=2.2&artikel=2.5&z=2015-02-26&g=2015-02-26), zou zijn toegestaan.
+- b. een bereikbaarheidsabonnement, waarbij de consument per jaar geen hoger bedrag in rekening wordt gebracht dan op grond van [artikel 2.5, derde lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0016698&hoofdstuk=2&paragraaf=2.2&artikel=2.5&z=2016-11-03&g=2016-04-30), zou zijn toegestaan.
 
 #### § 2.3. Bijdrage in de kosten van de universele dienst
 
@@ -408,7 +410,7 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 ##### Artikel 2.3c
 
-Bij ministeriële regeling kunnen andere dan de in de [artikelen 2.1 tot en met 2.3b](https://wetten.overheid.nl/jci1.3:c:BWBR0016698&hoofdstuk=2&paragraaf=2.1&artikel=2.1&z=2015-02-26&g=2015-02-26) bedoelde regels worden gesteld met betrekking tot de kwaliteit van de in [artikel 9.1, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&artikel=9.1) genoemde diensten.
+Bij ministeriële regeling kunnen andere dan de in de [artikelen 2.1 tot en met 2.3b](https://wetten.overheid.nl/jci1.3:c:BWBR0016698&hoofdstuk=2&paragraaf=2.1&artikel=2.1&z=2016-11-03&g=2016-04-30) bedoelde regels worden gesteld met betrekking tot de kwaliteit van de in [artikel 9.1, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&artikel=9.1) genoemde diensten.
 
 #### § 2.2. Betaalbaarheid
 
@@ -427,6 +429,20 @@ De aanbieder van de bemiddelingsdienst die krachtens [artikel 9.2, eerste lid, v
 #### § 3.3. Transparantie van diensten, tarieven, contractvoorwaarden, nummers en kwaliteit, gebruiksbegrenzing en wanbetaling
 
 ### Hoofdstuk 4. Bescherming van persoonsgegevens en de persoonlijke levenssfeer
+
+### Hoofdstuk 4a. Toezicht op de netneutraliteitsverordening
+
+Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
+
+##### Artikel 4a.1
+
+De Autoriteit Consument en Markt is belast met het toezicht op de naleving van de netneutraliteitsverordening.
+
+##### Artikel 4a.2
+
+1. De Autoriteit Consument en Markt is bevoegd tot oplegging van een last onder bestuursdwang ter handhaving van de netneutraliteitsverordening.
+
+2. Voor de toepassing van het eerste lid, is van een spoedeisend geval als bedoeld in artikel 5:31, eerste lid, van de Algemene wet bestuursrecht in elk geval sprake indien het niet naleven van de in het eerste lid bedoelde bepalingen ernstige economische of bedrijfstechnische problemen tot gevolg zal hebben voor andere aanbieders van een openbaar elektronisch communicatienetwerk, een openbare elektronische communicatiedienst of bijbehorende faciliteiten of voor gebruikers van een openbaar elektronisch communicatienetwerk, of een openbare elektronische communicatiedienst.
 
 ### Hoofdstuk 5. Slotbepalingen
 
