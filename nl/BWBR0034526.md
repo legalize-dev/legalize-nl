@@ -4,7 +4,7 @@ identifier: "BWBR0034526"
 country: "nl"
 rank: "wet"
 publication_date: "2016-04-30"
-last_updated: "2016-01-01"
+last_updated: "2016-04-30"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0034526"
 soort: "wet"
@@ -126,17 +126,17 @@ Wijzigt het Belastingplan 2012.
 
 ##### Artikel XIX
 
-1. Deze wet treedt in werking met ingang van 1 januari 2014, met dien verstande dat [artikel XVI](https://wetten.overheid.nl/jci1.3:c:BWBR0034526&artikel=XVI&z=2014-01-01&g=2016-01-01) toepassing vindt voordat de [artikelen IIIA](https://wetten.overheid.nl/jci1.3:c:BWBR0026981&artikel=IIIa) en [Vbis van de Fiscale vereenvoudigingswet 2010](https://wetten.overheid.nl/jci1.3:c:BWBR0026981&artikel=Vbis) worden toegepast.
+1. Deze wet treedt in werking met ingang van 1 januari 2014, met dien verstande dat [artikel XVI](https://wetten.overheid.nl/jci1.3:c:BWBR0034526&artikel=XVI&z=2016-04-30&g=2016-04-30) toepassing vindt voordat de [artikelen IIIA](https://wetten.overheid.nl/jci1.3:c:BWBR0026981&artikel=IIIa) en [Vbis van de Fiscale vereenvoudigingswet 2010](https://wetten.overheid.nl/jci1.3:c:BWBR0026981&artikel=Vbis) worden toegepast.
 
-2. [Artikel I, onderdeel A](https://wetten.overheid.nl/jci1.3:c:BWBR0034526&artikel=I&z=2014-01-01&g=2016-01-01), en [artikel XV](https://wetten.overheid.nl/jci1.3:c:BWBR0034526&artikel=XV&z=2014-01-01&g=2016-01-01) werken terug tot en met 1 januari 2012.
+2. [Artikel I, onderdeel A](https://wetten.overheid.nl/jci1.3:c:BWBR0034526&artikel=I&z=2016-04-30&g=2016-04-30), en [artikel XV](https://wetten.overheid.nl/jci1.3:c:BWBR0034526&artikel=XV&z=2016-04-30&g=2016-04-30) werken terug tot en met 1 januari 2012.
 
-3. [Artikel II](https://wetten.overheid.nl/jci1.3:c:BWBR0034526&artikel=II&z=2014-01-01&g=2016-01-01), [artikel VI](https://wetten.overheid.nl/jci1.3:c:BWBR0034526&artikel=VI&z=2014-01-01&g=2016-01-01), [artikel XII, onderdelen C, D en F](https://wetten.overheid.nl/jci1.3:c:BWBR0034526&artikel=XII&z=2014-01-01&g=2016-01-01), [artikel XIII, onderdeel B](https://wetten.overheid.nl/jci1.3:c:BWBR0034526&artikel=XIII&z=2014-01-01&g=2016-01-01), [artikel XIV, onderdeel A](https://wetten.overheid.nl/jci1.3:c:BWBR0034526&artikel=XIV&z=2014-01-01&g=2016-01-01), en [artikel XVII](https://wetten.overheid.nl/jci1.3:c:BWBR0034526&artikel=XVII&z=2014-01-01&g=2016-01-01) werken terug tot en met 1 januari 2013.
+3. [Artikel II](https://wetten.overheid.nl/jci1.3:c:BWBR0034526&artikel=II&z=2016-04-30&g=2016-04-30), [artikel VI](https://wetten.overheid.nl/jci1.3:c:BWBR0034526&artikel=VI&z=2016-04-30&g=2016-04-30), [artikel XII, onderdelen C, D en F](https://wetten.overheid.nl/jci1.3:c:BWBR0034526&artikel=XII&z=2016-04-30&g=2016-04-30), [artikel XIII, onderdeel B](https://wetten.overheid.nl/jci1.3:c:BWBR0034526&artikel=XIII&z=2016-04-30&g=2016-04-30), [artikel XIV, onderdeel A](https://wetten.overheid.nl/jci1.3:c:BWBR0034526&artikel=XIV&z=2016-04-30&g=2016-04-30), en [artikel XVII](https://wetten.overheid.nl/jci1.3:c:BWBR0034526&artikel=XVII&z=2016-04-30&g=2016-04-30) werken terug tot en met 1 januari 2013.
 
-4. [Artikel III, onderdeel A en onderdeel C, onder 1](https://wetten.overheid.nl/jci1.3:c:BWBR0034526&artikel=III&z=2014-01-01&g=2016-01-01), werkt terug tot en met 22 juli 2013.
+4. [Artikel III, onderdeel A en onderdeel C, onder 1](https://wetten.overheid.nl/jci1.3:c:BWBR0034526&artikel=III&z=2016-04-30&g=2016-04-30), werkt terug tot en met 22 juli 2013.
 
-5. [Artikel VIA](https://wetten.overheid.nl/jci1.3:c:BWBR0034526&artikel=VIA&z=2014-01-01&g=2016-01-01) werkt terug tot en met 10 oktober 2013.
+5. [Artikel VIA](https://wetten.overheid.nl/jci1.3:c:BWBR0034526&artikel=VIA&z=2016-04-30&g=2016-04-30) werkt terug tot en met 10 oktober 2013.
 
-6. In afwijking van het eerste lid treedt [artikel I, onderdeel G](https://wetten.overheid.nl/jci1.3:c:BWBR0034526&artikel=I&z=2014-01-01&g=2016-01-01), in werking op een bij koninklijk besluit te bepalen tijdstip.
+6. In afwijking van het eerste lid treedt [artikel I, onderdeel G](https://wetten.overheid.nl/jci1.3:c:BWBR0034526&artikel=I&z=2016-04-30&g=2016-04-30), in werking op een bij koninklijk besluit te bepalen tijdstip.
 
 ##### Artikel XX
 
