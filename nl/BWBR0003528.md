@@ -4,7 +4,7 @@ identifier: "BWBR0003528"
 country: "nl"
 rank: "wet"
 publication_date: "2016-05-01"
-last_updated: "2013-07-01"
+last_updated: "2016-05-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0003528"
 soort: "wet"
@@ -73,7 +73,7 @@ lijnvervoer: het vervoer tegen vaste vervoertarieven door scheepvaartonderneming
 
 ##### Artikel 4
 
-1. Een ieder die lijnvervoerdiensten per schip over zee van Nederlandse havens aanbiedt kan tijdelijke toeslagen op de in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003528&hoofdstuk=II&artikel=2&z=2013-07-01&g=2013-07-01), bedoelde vervoertarieven berekenen ingeval van onvoorziene of buitengewone kostenstijgingen of een daling van de opbrengsten. Zulke toeslagen of wijzigingen daarvan mogen alleen worden berekend indien zij ten minste vijftien dagen voor de datum van ingang aan de in Nederland gevestigde door Onze Minister aan te wijzen representatieve verladersorganisaties, schriftelijk zijn meegedeeld en indien zij binnen dezelfde termijn in door Onze Minister aan te wijzen dagbladen zijn bekendgemaakt. De hiervoor genoemde termijn van 15 dagen behoeft niet in acht te worden genomen, indien uitzonderlijke omstandigheden een onmiddellijke invoering van de toeslag noodzakelijk maken, mits hiervan onverwijld melding wordt gemaakt aan Onze Minister.
+1. Een ieder die lijnvervoerdiensten per schip over zee van Nederlandse havens aanbiedt kan tijdelijke toeslagen op de in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003528&hoofdstuk=II&artikel=2&z=2016-05-01&g=2016-05-01), bedoelde vervoertarieven berekenen ingeval van onvoorziene of buitengewone kostenstijgingen of een daling van de opbrengsten. Zulke toeslagen of wijzigingen daarvan mogen alleen worden berekend indien zij ten minste vijftien dagen voor de datum van ingang aan de in Nederland gevestigde door Onze Minister aan te wijzen representatieve verladersorganisaties, schriftelijk zijn meegedeeld en indien zij binnen dezelfde termijn in door Onze Minister aan te wijzen dagbladen zijn bekendgemaakt. De hiervoor genoemde termijn van 15 dagen behoeft niet in acht te worden genomen, indien uitzonderlijke omstandigheden een onmiddellijke invoering van de toeslag noodzakelijk maken, mits hiervan onverwijld melding wordt gemaakt aan Onze Minister.
 
 2. Onze Minister kan bepalen, dat de verplichting als bedoeld in het eerste lid ook geldt voor een ieder die lijnvervoerdiensten per schip over zee naar Nederlandse havens aanbiedt.
 
@@ -83,15 +83,15 @@ lijnvervoer: het vervoer tegen vaste vervoertarieven door scheepvaartonderneming
 
 ##### Artikel 5
 
-Onze Minister kan bepalingen van een lijnvervoerovereenkomst, die in strijd met de in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0003528&hoofdstuk=II&artikel=3&z=2013-07-01&g=2013-07-01) en [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0003528&hoofdstuk=II&artikel=4&z=2013-07-01&g=2013-07-01) omschreven verplichtingen tot stand zijn gekomen, onverbindend verklaren.
+Onze Minister kan bepalingen van een lijnvervoerovereenkomst, die in strijd met de in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0003528&hoofdstuk=II&artikel=3&z=2016-05-01&g=2016-05-01) en [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0003528&hoofdstuk=II&artikel=4&z=2016-05-01&g=2016-05-01) omschreven verplichtingen tot stand zijn gekomen, onverbindend verklaren.
 
 ##### Artikel 6
 
-Ingeval krachtens [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0003528&hoofdstuk=II&artikel=5&z=2013-07-01&g=2013-07-01), bepalingen van een overeenkomst onverbindend zijn verklaard gelden voor die overeenkomst de vervoertarieven en overige vervoercondities, zoals die van kracht waren voordat een verhoging in strijd met [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0003528&hoofdstuk=II&artikel=3&z=2013-07-01&g=2013-07-01), of een toeslag of wijziging in strijd met [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0003528&hoofdstuk=II&artikel=4&z=2013-07-01&g=2013-07-01), werd toegepast.
+Ingeval krachtens [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0003528&hoofdstuk=II&artikel=5&z=2016-05-01&g=2016-05-01), bepalingen van een overeenkomst onverbindend zijn verklaard gelden voor die overeenkomst de vervoertarieven en overige vervoercondities, zoals die van kracht waren voordat een verhoging in strijd met [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0003528&hoofdstuk=II&artikel=3&z=2016-05-01&g=2016-05-01), of een toeslag of wijziging in strijd met [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0003528&hoofdstuk=II&artikel=4&z=2016-05-01&g=2016-05-01), werd toegepast.
 
 ##### Artikel 7
 
-Gedragingen van personen, die partij zijn bij een overeenkomst, waarvan bepalingen krachtens [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0003528&hoofdstuk=II&artikel=5&z=2013-07-01&g=2013-07-01), onverbindend zijn verklaard en die strekken tot het naleven of doen naleven van die bepalingen, zijn verboden.
+Gedragingen van personen, die partij zijn bij een overeenkomst, waarvan bepalingen krachtens [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0003528&hoofdstuk=II&artikel=5&z=2016-05-01&g=2016-05-01), onverbindend zijn verklaard en die strekken tot het naleven of doen naleven van die bepalingen, zijn verboden.
 
 ##### Artikel 8
 
@@ -145,17 +145,17 @@ Vervallen
 
 ##### Artikel 14
 
-1. Een maatregel als bedoeld in [artikel 12, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003528&hoofdstuk=V&artikel=12&z=2013-07-01&g=2013-07-01), treedt niet eerder in werking dan twee maanden na de datum van uitgifte van het **Staatsblad** waarin hij is geplaatst.
+1. Een maatregel als bedoeld in [artikel 12, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003528&hoofdstuk=V&artikel=12&z=2016-05-01&g=2016-05-01), treedt niet eerder in werking dan twee maanden na de datum van uitgifte van het **Staatsblad** waarin hij is geplaatst.
 
 2. Hij vervalt, behoudens eerdere intrekking, drie jaren na zijn inwerkingtreding, tenzij bij wet anders wordt bepaald.
 
 ##### Artikel 15
 
-De vergunning als bedoeld in [artikel 12, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003528&hoofdstuk=V&artikel=12&z=2013-07-01&g=2013-07-01), kan onder beperkingen worden verleend. Aan een vergunning kunnen voorschriften worden verbonden. Voorschriften en beperkingen kunnen met name betrekking hebben op een minimum of maximum aantal afvaarten per jaar, een minimum of een maximum vervoercapaciteit per schip, het in te zetten scheepstype of de minimaal of maximaal te berekenen vervoertarieven.
+De vergunning als bedoeld in [artikel 12, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003528&hoofdstuk=V&artikel=12&z=2016-05-01&g=2016-05-01), kan onder beperkingen worden verleend. Aan een vergunning kunnen voorschriften worden verbonden. Voorschriften en beperkingen kunnen met name betrekking hebben op een minimum of maximum aantal afvaarten per jaar, een minimum of een maximum vervoercapaciteit per schip, het in te zetten scheepstype of de minimaal of maximaal te berekenen vervoertarieven.
 
 ##### Artikel 16
 
-1. Onze Minister verleent een vergunning als bedoeld in [artikel 12, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003528&hoofdstuk=V&artikel=12&z=2013-07-01&g=2013-07-01), indien naar zijn oordeel:
+1. Onze Minister verleent een vergunning als bedoeld in [artikel 12, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003528&hoofdstuk=V&artikel=12&z=2016-05-01&g=2016-05-01), indien naar zijn oordeel:
 
 - a. het vervoer waarvoor de vergunning wordt aangevraagd niet zal leiden tot overcapaciteit op de betreffende zeevervoermarkt en
 
@@ -163,11 +163,11 @@ De vergunning als bedoeld in [artikel 12, eerste lid](https://wetten.overheid.nl
 
 - c. het vervoer waarvoor de vergunning wordt aangevraagd, niet zal worden uitgevoerd tegen zodanig hoge vervoertarieven of overige vervoercondities, dat daardoor de belangen van de verladers ernstig in gevaar kunnen worden gebracht en
 
-- d. andere, bij een maatregel als bedoeld in [artikel 12, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003528&hoofdstuk=V&artikel=12&z=2013-07-01&g=2013-07-01), bepaalde omstandigheden afwezig zijn.
+- d. andere, bij een maatregel als bedoeld in [artikel 12, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003528&hoofdstuk=V&artikel=12&z=2016-05-01&g=2016-05-01), bepaalde omstandigheden afwezig zijn.
 
-2. Bij of krachtens een maatregel als bedoeld in [artikel 12, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003528&hoofdstuk=V&artikel=12&z=2013-07-01&g=2013-07-01), kan worden bepaald, welke gegevens bij het aanvragen van een vergunning dienen te worden verstrekt. Onder gegevens, waarvan de verstrekking wordt voorgeschreven, kunnen over te leggen bewijsstukken zijn begrepen.
+2. Bij of krachtens een maatregel als bedoeld in [artikel 12, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003528&hoofdstuk=V&artikel=12&z=2016-05-01&g=2016-05-01), kan worden bepaald, welke gegevens bij het aanvragen van een vergunning dienen te worden verstrekt. Onder gegevens, waarvan de verstrekking wordt voorgeschreven, kunnen over te leggen bewijsstukken zijn begrepen.
 
-3. Vergunningen als bedoeld in [artikel 12, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003528&hoofdstuk=V&artikel=12&z=2013-07-01&g=2013-07-01), worden verleend voor een bepaalde, daarin genoemde, termijn van ten hoogste drie jaren. Zij kunnen worden verlengd.
+3. Vergunningen als bedoeld in [artikel 12, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003528&hoofdstuk=V&artikel=12&z=2016-05-01&g=2016-05-01), worden verleend voor een bepaalde, daarin genoemde, termijn van ten hoogste drie jaren. Zij kunnen worden verlengd.
 
 4. Onze Minister kan een vergunning intrekken of wijzigen:
 
@@ -191,13 +191,13 @@ Het is verboden terzake van een aanvraag voor een vergunning onjuiste of onvolle
 
 ##### Artikel 18
 
-1. Onze Minister kan, wanneer hij overweegt een voordracht tot vaststelling, wijziging of intrekking van een algemene maatregel van bestuur als bedoeld in [artikel 12, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003528&hoofdstuk=V&artikel=12&z=2013-07-01&g=2013-07-01), te doen en naar zijn oordeel een gewichtige reden een onmiddellijke voorziening eist, in overeenstemming met Onze Ministers van Buitenlandse Zaken en van Economische Zaken, bij besluit regels overeenkomstig de in overweging zijnde maatregel vaststellen alsmede in een bestaande maatregel vervatte regels buiten werking stellen of wijzigen.
+1. Onze Minister kan, wanneer hij overweegt een voordracht tot vaststelling, wijziging of intrekking van een algemene maatregel van bestuur als bedoeld in [artikel 12, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003528&hoofdstuk=V&artikel=12&z=2016-05-01&g=2016-05-01), te doen en naar zijn oordeel een gewichtige reden een onmiddellijke voorziening eist, in overeenstemming met Onze Ministers van Buitenlandse Zaken en van Economische Zaken, bij besluit regels overeenkomstig de in overweging zijnde maatregel vaststellen alsmede in een bestaande maatregel vervatte regels buiten werking stellen of wijzigen.
 
-2. De [artikelen 12, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003528&hoofdstuk=V&artikel=12&z=2013-07-01&g=2013-07-01), [15](https://wetten.overheid.nl/jci1.3:c:BWBR0003528&hoofdstuk=V&artikel=15&z=2013-07-01&g=2013-07-01) en [16](https://wetten.overheid.nl/jci1.3:c:BWBR0003528&hoofdstuk=V&artikel=16&z=2013-07-01&g=2013-07-01) zijn van overeenkomstige toepassing.
+2. De [artikelen 12, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003528&hoofdstuk=V&artikel=12&z=2016-05-01&g=2016-05-01), [15](https://wetten.overheid.nl/jci1.3:c:BWBR0003528&hoofdstuk=V&artikel=15&z=2016-05-01&g=2016-05-01) en [16](https://wetten.overheid.nl/jci1.3:c:BWBR0003528&hoofdstuk=V&artikel=16&z=2016-05-01&g=2016-05-01) zijn van overeenkomstige toepassing.
 
 ##### Artikel 19
 
-Een besluit als bedoeld in [artikel 18, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003528&hoofdstuk=V&artikel=18&z=2013-07-01&g=2013-07-01), blijft, behoudens eerdere intrekking, van kracht totdat een algemene maatregel van bestuur als bedoeld in [artikel 12, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003528&hoofdstuk=V&artikel=12&z=2013-07-01&g=2013-07-01), die hetzelfde onderwerp betreft, in werking treedt, doch uiterlijk tot tien maanden na het in werking treden van het besluit.
+Een besluit als bedoeld in [artikel 18, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003528&hoofdstuk=V&artikel=18&z=2016-05-01&g=2016-05-01), blijft, behoudens eerdere intrekking, van kracht totdat een algemene maatregel van bestuur als bedoeld in [artikel 12, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003528&hoofdstuk=V&artikel=12&z=2016-05-01&g=2016-05-01), die hetzelfde onderwerp betreft, in werking treedt, doch uiterlijk tot tien maanden na het in werking treden van het besluit.
 
 ### Hoofdstuk Va. Compenserende rechten
 
@@ -209,9 +209,9 @@ Indien ter zake van het vervoer van goederen bij een verordening van de Raad van
 
 1. De inning en terugbetaling van compenserende rechten geschiedt door de ontvanger, bedoeld in [artikel 1:3, eerste lid, onderdeel c, van de Algemene douanewet](https://wetten.overheid.nl/jci1.3:c:BWBR0023746&artikel=1:3), ware het een recht bij invoer.
 
-2. Met betrekking tot de heffing en de invordering van compenserende rechten als bedoeld in [artikel 19a](https://wetten.overheid.nl/jci1.3:c:BWBR0003528&hoofdstuk=Va&artikel=19a&z=2013-07-01&g=2013-07-01) zijn de artikelen 189 tot en met 200 van de [verordening (EEG) nr. 2913/92](31992R2913) van de Raad van de Europese Gemeenschappen van 12 oktober 1992 tot vaststelling van het Communautair douanewetboek (PbEG L 302) en de [Invorderingswet 1990](https://wetten.overheid.nl/jci1.3:c:BWBR0004770) van overeenkomstige toepassing.
+2. Met betrekking tot de heffing en de invordering van compenserende rechten als bedoeld in [artikel 19a](https://wetten.overheid.nl/jci1.3:c:BWBR0003528&hoofdstuk=Va&artikel=19a&z=2016-05-01&g=2016-05-01) zijn de artikelen 89 tot en met 100 van Verordening (EU) nr. 952/2013 van het Europees Parlement en van de Raad van 9 oktober 2013 tot vaststelling van het douanewetboek van de Unie (PbEU 2013, L 269) en de [Invorderingswet 1990](https://wetten.overheid.nl/jci1.3:c:BWBR0004770) van overeenkomstige toepassing.
 
-3. Bij algemene maatregel van bestuur kunnen regelen worden gesteld met betrekking tot de aangifte van een voorgenomen vervoer als bedoeld in [artikel 19a](https://wetten.overheid.nl/jci1.3:c:BWBR0003528&hoofdstuk=Va&artikel=19a&z=2013-07-01&g=2013-07-01) en met betrekking tot daarmee samenhangende onderwerpen.
+3. Bij algemene maatregel van bestuur kunnen regelen worden gesteld met betrekking tot de aangifte van een voorgenomen vervoer als bedoeld in [artikel 19a](https://wetten.overheid.nl/jci1.3:c:BWBR0003528&hoofdstuk=Va&artikel=19a&z=2016-05-01&g=2016-05-01) en met betrekking tot daarmee samenhangende onderwerpen.
 
 ##### Artikel 19c
 
@@ -253,11 +253,11 @@ Onze Minister kan vrijstelling verlenen van:
 
 - a. een verbod krachtens artikel 9
 
-- b. de regels als bedoeld in [artikel 10, eerste lid, onder a)](https://wetten.overheid.nl/jci1.3:c:BWBR0003528&hoofdstuk=IV&artikel=10&z=2013-07-01&g=2013-07-01)
+- b. de regels als bedoeld in [artikel 10, eerste lid, onder a)](https://wetten.overheid.nl/jci1.3:c:BWBR0003528&hoofdstuk=IV&artikel=10&z=2016-05-01&g=2016-05-01)
 
-- c. een verbod krachtens [artikel 12, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003528&hoofdstuk=V&artikel=12&z=2013-07-01&g=2013-07-01)
+- c. een verbod krachtens [artikel 12, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003528&hoofdstuk=V&artikel=12&z=2016-05-01&g=2016-05-01)
 
-- d. een verbod krachtens [artikel 18, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003528&hoofdstuk=V&artikel=18&z=2013-07-01&g=2013-07-01).
+- d. een verbod krachtens [artikel 18, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003528&hoofdstuk=V&artikel=18&z=2016-05-01&g=2016-05-01).
 
 ##### Artikel 22
 
@@ -265,7 +265,7 @@ Onze Minister kan, op aanvraag, ontheffing verlenen van:
 
 - a. een verbod krachtens artikel 9
 
-- b. de regels als bedoeld in [artikel 10, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003528&hoofdstuk=IV&artikel=10&z=2013-07-01&g=2013-07-01).
+- b. de regels als bedoeld in [artikel 10, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003528&hoofdstuk=IV&artikel=10&z=2016-05-01&g=2016-05-01).
 
 ##### Artikel 23
 
@@ -283,9 +283,9 @@ Het is verboden terzake van een aanvraag voor een ontheffing onjuiste of onvolle
 
 ##### Artikel 26
 
-1. Bij of krachtens besluiten als bedoeld in [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0003528&hoofdstuk=III&artikel=9&z=2013-07-01&g=2013-07-01), of [artikel 10, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003528&hoofdstuk=IV&artikel=10&z=2013-07-01&g=2013-07-01), kan worden bepaald welke gegevens voor het aanvragen van een ontheffing als bedoeld in [artikel 22](https://wetten.overheid.nl/jci1.3:c:BWBR0003528&hoofdstuk=VII&artikel=22&z=2013-07-01&g=2013-07-01), dienen te worden verstrekt.
+1. Bij of krachtens besluiten als bedoeld in [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0003528&hoofdstuk=III&artikel=9&z=2016-05-01&g=2016-05-01), of [artikel 10, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003528&hoofdstuk=IV&artikel=10&z=2016-05-01&g=2016-05-01), kan worden bepaald welke gegevens voor het aanvragen van een ontheffing als bedoeld in [artikel 22](https://wetten.overheid.nl/jci1.3:c:BWBR0003528&hoofdstuk=VII&artikel=22&z=2016-05-01&g=2016-05-01), dienen te worden verstrekt.
 
-2. Onze Minister kan bepalen welke gegevens voor het aanvragen van een ontheffing als bedoeld in [artikel 20, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003528&hoofdstuk=VI&artikel=20&z=2013-07-01&g=2013-07-01), dienen te worden verstrekt.
+2. Onze Minister kan bepalen welke gegevens voor het aanvragen van een ontheffing als bedoeld in [artikel 20, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003528&hoofdstuk=VI&artikel=20&z=2016-05-01&g=2016-05-01), dienen te worden verstrekt.
 
 3. Onder gegevens, waarvan de verstrekking wordt voorgeschreven, kunnen over te leggen bewijsstukken zijn begrepen.
 
@@ -299,7 +299,7 @@ Vervallen
 
 ##### Artikel 28
 
-1. Onze Minister kan van een ieder die bij het vervoer op een door hem te omschrijven zeevervoermarkt is betrokken de inlichtingen verlangen, die hij nodig acht om te kunnen beoordelen, of aanleiding bestaat tot toepassing van [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0003528&hoofdstuk=II&artikel=5&z=2013-07-01&g=2013-07-01), [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0003528&hoofdstuk=III&artikel=9&z=2013-07-01&g=2013-07-01), [artikel 10, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003528&hoofdstuk=IV&artikel=10&z=2013-07-01&g=2013-07-01), [artikel 12, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003528&hoofdstuk=V&artikel=12&z=2013-07-01&g=2013-07-01), [artikel 18, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003528&hoofdstuk=V&artikel=18&z=2013-07-01&g=2013-07-01), [artikel 20, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003528&hoofdstuk=VI&artikel=20&z=2013-07-01&g=2013-07-01), of [artikel 21](https://wetten.overheid.nl/jci1.3:c:BWBR0003528&hoofdstuk=VII&artikel=21&z=2013-07-01&g=2013-07-01).
+1. Onze Minister kan van een ieder die bij het vervoer op een door hem te omschrijven zeevervoermarkt is betrokken de inlichtingen verlangen, die hij nodig acht om te kunnen beoordelen, of aanleiding bestaat tot toepassing van [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0003528&hoofdstuk=II&artikel=5&z=2016-05-01&g=2016-05-01), [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0003528&hoofdstuk=III&artikel=9&z=2016-05-01&g=2016-05-01), [artikel 10, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003528&hoofdstuk=IV&artikel=10&z=2016-05-01&g=2016-05-01), [artikel 12, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003528&hoofdstuk=V&artikel=12&z=2016-05-01&g=2016-05-01), [artikel 18, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003528&hoofdstuk=V&artikel=18&z=2016-05-01&g=2016-05-01), [artikel 20, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003528&hoofdstuk=VI&artikel=20&z=2016-05-01&g=2016-05-01), of [artikel 21](https://wetten.overheid.nl/jci1.3:c:BWBR0003528&hoofdstuk=VII&artikel=21&z=2016-05-01&g=2016-05-01).
 
 2. Onze Minister kan, indien een internationale afspraak of een besluit van een volkenrechtelijke organisatie, betrekking hebbend op enig in deze wet geregeld onderwerp, dit vereist, van een ieder, die bij het vervoer op een door hem te omschrijven zeevervoermarkt is betrokken, de inlichtingen verlangen die hij nodig acht om te kunnen voldoen aan de in die afspraak of dat besluit neergelegde verplichtingen.
 
@@ -315,11 +315,11 @@ Vervallen
 
 ##### Artikel 30
 
-1. Een ieder van wie op grond van [artikel 28](https://wetten.overheid.nl/jci1.3:c:BWBR0003528&hoofdstuk=IX&artikel=28&z=2013-07-01&g=2013-07-01) inlichtingen zijn verlangd, is verplicht deze inlichtingen volledig en naar waarheid te verstrekken op de wijze en binnen de termijn, door Onze Minister te bepalen.
+1. Een ieder van wie op grond van [artikel 28](https://wetten.overheid.nl/jci1.3:c:BWBR0003528&hoofdstuk=IX&artikel=28&z=2016-05-01&g=2016-05-01) inlichtingen zijn verlangd, is verplicht deze inlichtingen volledig en naar waarheid te verstrekken op de wijze en binnen de termijn, door Onze Minister te bepalen.
 
-2. Een ieder van wie op grond van [artikel 29, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003528&hoofdstuk=IX&artikel=29&z=2013-07-01&g=2013-07-01), inzage in boeken en bescheiden is verlangd, is verplicht deze te verlenen met inachtneming van de door Onze Minister gegeven aanwijzingen.
+2. Een ieder van wie op grond van [artikel 29, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003528&hoofdstuk=IX&artikel=29&z=2016-05-01&g=2016-05-01), inzage in boeken en bescheiden is verlangd, is verplicht deze te verlenen met inachtneming van de door Onze Minister gegeven aanwijzingen.
 
-3. Zij, die uit hoofde van hun stand, beroep of ambt tot geheimhouding verplicht zijn, kunnen zich verschonen van het geven van inlichtingen, doch uitsluitend voor zover betreft hetgeen hun in hun hoedanigheid is toevertrouwd. Zij kunnen voorts inzage van de in [artikel 29, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003528&hoofdstuk=IX&artikel=29&z=2013-07-01&g=2013-07-01), bedoelde boeken en bescheiden weigeren, voor zover hun plicht tot geheimhouding hen daartoe noopt.
+3. Zij, die uit hoofde van hun stand, beroep of ambt tot geheimhouding verplicht zijn, kunnen zich verschonen van het geven van inlichtingen, doch uitsluitend voor zover betreft hetgeen hun in hun hoedanigheid is toevertrouwd. Zij kunnen voorts inzage van de in [artikel 29, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003528&hoofdstuk=IX&artikel=29&z=2016-05-01&g=2016-05-01), bedoelde boeken en bescheiden weigeren, voor zover hun plicht tot geheimhouding hen daartoe noopt.
 
 ##### Artikel 31
 
