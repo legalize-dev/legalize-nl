@@ -4,7 +4,7 @@ identifier: "BWBR0030609"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2021-07-31"
-last_updated: "2012-06-30"
+last_updated: "2016-05-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0030609"
 soort: "ministeriele-regeling"
@@ -48,7 +48,7 @@ In deze regeling wordt verstaan onder:
 
 - –. **besluit:** het [Besluit strategische goederen](https://wetten.overheid.nl/jci1.3:c:BWBR0024139);
 
-- –. **EORI-nummer:** het nummer, bedoeld in artikel 1, onderdeel 16, van de toepassingsverordening Communautair douanewetboek;
+- –. **EORI-nummer:** het nummer, bedoeld in artikel 1, onderdeel 18, van de Gedelegeerde Verordening Douanewetboek van de Unie Communautair douanewetboek;
 
 - –. **gemeenschappelijke EU-lijst van militaire goederen:** de lijst van goederen waarop het Gemeenschappelijk standpunt 2008/944/GBVB van de Raad van 8 december 2008 tot vaststelling van gemeenschappelijke voorschriften voor de controle op de uitvoer van militaire goederen en technologie van toepassing is;
 
@@ -58,9 +58,9 @@ In deze regeling wordt verstaan onder:
 
 ##### Artikel 2
 
-1. De Minister van Economische Zaken, Landbouw en Innovatie verleent een algemene overdrachtsvergunning voor de in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0030609&paragraaf=2&artikel=3&z=2012-06-30&g=2012-06-30) genoemde categorieën van militaire goederen indien aan de in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0030609&paragraaf=3&artikel=4&z=2012-06-30&g=2012-06-30) en [5](https://wetten.overheid.nl/jci1.3:c:BWBR0030609&paragraaf=3&artikel=5&z=2012-06-30&g=2012-06-30) genoemde voorwaarden is voldaan.
+1. De Minister van Economische Zaken, Landbouw en Innovatie verleent een algemene overdrachtsvergunning voor de in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0030609&paragraaf=2&artikel=3&z=2016-05-01&g=2016-05-01) genoemde categorieën van militaire goederen indien aan de in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0030609&paragraaf=3&artikel=4&z=2016-05-01&g=2016-05-01) en [5](https://wetten.overheid.nl/jci1.3:c:BWBR0030609&paragraaf=3&artikel=5&z=2016-05-01&g=2016-05-01) genoemde voorwaarden is voldaan.
 
-2. Aan de algemene overdrachtsvergunning zijn de in [artikelen 6](https://wetten.overheid.nl/jci1.3:c:BWBR0030609&paragraaf=4&artikel=6&z=2012-06-30&g=2012-06-30) genoemde voorschriften verbonden.
+2. Aan de algemene overdrachtsvergunning zijn de in [artikelen 6](https://wetten.overheid.nl/jci1.3:c:BWBR0030609&paragraaf=4&artikel=6&z=2016-05-01&g=2016-05-01) genoemde voorschriften verbonden.
 
 ##### Artikel 3
 
