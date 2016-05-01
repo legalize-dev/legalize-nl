@@ -4,7 +4,7 @@ identifier: "BWBR0030610"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2021-09-09"
-last_updated: "2012-07-01"
+last_updated: "2016-05-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0030610"
 soort: "ministeriele-regeling"
@@ -50,17 +50,19 @@ In deze regeling wordt verstaan onder:
 
 - –. **ERA:** het Europees Ruimte Agentschap in Noordwijk, opgericht bij het Verdrag tot oprichting van het Europees Ruimte Agentschap (Trb. 1990, 43);
 
-- –. **gemeenschappelijke EU-lijst van militaire goederen:** de lijst van goederen waarop het Gemeenschappelijk standpunt 2008/944/GBVB van de Raad van 8 december 2008 tot vaststelling van gemeenschappelijke voorschriften voor de controle op de uitvoer van militaire goederen en technologie van toepassing is;
+- –. **gemeenschappelijke EU-lijst van militaire goederen:** de lijst van goederen waarop het Gemeenschappelijk standpunt 2008/944/GBVB van de Raad van 8 december 2008 tot vaststelling van gemeenschappelijke voorschriften voor de controle op de uitvoer van militaire goederen en technologie (PbEU 2008, L 335) van toepassing is;
 
 - –. **inspecteur:** de Algemeen Directeur Belastingdienst/Douane;
 
 - –. **Joint Force Command Brunssum:** het te Brunssum gevestigde hoofdkwartier, bedoeld in de Overeenkomst tussen het Koninkrijk der Nederlanden en het Algemeen Hoofdkwartier van de Geallieerde Mogendheden in Europa inzake de bijzondere voorwaarden die toepasselijk zijn op de vestiging en het functioneren van internationale militaire hoofdkwartieren binnen het Europese grondgebied van het Koninkrijk der Nederlanden (Trb. 1964, 131);
 
-- –. **minister:** de Minister van Economische Zaken, Landbouw en Innovatie;
+- –. **Minister:** de Minister voor Buitenlandse Handel en Ontwikkelingssamenwerking;
 
 - –. **NAVO-strijdkrachten:** de strijdkrachten van een vreemde mogendheid, die partij is bij het Noord-Atlantisch Verdrag (Stb. J 335);
 
-- –. **vergunning:** een doorvoervergunning, een individuele of globale uitvoervergunning of een individuele of globale overdrachtsvergunning.
+- –. **vergunning:** een doorvoervergunning, een individuele of globale uitvoervergunning of een individuele of globale overdrachtsvergunning;
+
+- –. **verordening 952/2013:** verordening (EU) nr. 952/2013 van het Europees Parlement en van de Raad van 9 oktober 2013 tot vaststelling van het douanewetboek van de Unie (PbEU 2013, L 269);
 
 ##### Artikel 2
 
@@ -126,11 +128,7 @@ De inspecteur kan bij de vergunningaanvraag in ieder geval verzoeken om:
 
 - a. een aanvraag ter verkrijging van een consent tot binnenkomen als bedoeld in [artikel 14 van de Wet wapens en munitie](https://wetten.overheid.nl/jci1.3:c:BWBR0008805&artikel=14)
 
-- b. een summiere aangifte bij binnenkomst als bedoeld in artikel 36bis van het Communautair douanewetboek;
-
-- c. een summiere aangifte voor tijdelijke opslag als bedoeld in artikel 186 van de toepassingsverordening Communautair douanewetboek
-
-- d. een douaneaangifte als bedoeld in artikel 182bis van het Communautair douanewetboek.
+- b. een summiere aangifte bij binnenkomst als bedoeld in artikel 127 van verordening 952/2013;
 
 6. Een consent tot binnenkomen en uitgaan als bedoeld in [artikel 14, eerste lid, van de Wet wapens en munitie](https://wetten.overheid.nl/jci1.3:c:BWBR0008804&artikel=14) geldt als een individuele doorvoervergunning als bedoeld in [artikel 5, eerste lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0024139&artikel=5), indien de doorvoerzending niet is bestemd voor commerciële doeleinden.
 
@@ -140,7 +138,7 @@ Geen melding is vereist voor:
 
 - a. de doorvoer van militaire goederen die zonder aanlanding worden vervoerd door de territoriale wateren, of door het luchtruim van Nederland;
 
-- b. de doorvoer, uitvoer of overdracht van militaire goederen, bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0030610&paragraaf=3&artikel=5&z=2012-07-01&g=2012-07-01);
+- b. de doorvoer, uitvoer of overdracht van militaire goederen, bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0030610&paragraaf=3&artikel=5&z=2016-05-01&g=2016-05-01);
 
 - c. de overdracht uit Nederland van militaire goederen naar België en Luxemburg.
 
@@ -230,7 +228,7 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 ##### Artikel 5a
 
-Voorwaarde voor gebruik van een vergunning als bedoeld in artikel 9, eerste lid, van verordening 428/2009, is dat ten minste twee weken voorafgaand aan het gebruik ervan een schriftelijk verzoek om registratie wordt ingediend bij de Centrale dienst voor in- en uitvoer (CDIU), Postbus 30003, 9700 RD Groningen. Het verzoek tot registratie bevat in ieder geval de naam- en adresgegevens van de exporteur en indien de exporteur daarover beschikt, het nummer, bedoeld in artikel 1, onderdeel 16 van de toepassingsverordening Communautair douanewetboek (EORI-nummer).
+Voorwaarde voor gebruik van een vergunning als bedoeld in artikel 9, eerste lid, van verordening 428/2009, is dat ten minste twee weken voorafgaand aan het gebruik ervan een schriftelijk verzoek om registratie wordt ingediend bij de Centrale dienst voor in- en uitvoer (CDIU), Postbus 30003, 9700 RD Groningen. Het verzoek tot registratie bevat in ieder geval de naam- en adresgegevens van de exporteur en indien de exporteur daarover beschikt, het nummer, bedoeld in artikel 1, onderdeel 18 van de gedelegeerde verordening (EU) nr. 2015/2446 van de Commissie van 28 juli 2015 tot aanvulling van verordening 952/2013 (PbEU 2015, L 343) (EORI-nummer).
 
 #### § 4. Melding
 
