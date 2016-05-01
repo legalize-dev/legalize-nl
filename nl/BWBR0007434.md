@@ -4,7 +4,7 @@ identifier: "BWBR0007434"
 country: "nl"
 rank: "wet"
 publication_date: "2024-01-01"
-last_updated: "2014-01-25"
+last_updated: "2016-05-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0007434"
 soort: "wet"
@@ -75,7 +75,7 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 - j. verbruiken van stoffen: omzetten in andere stoffen door middel van een chemische reactie;
 
-- k. Communautair douanewetboek: verordening (EEG) nr. 2913/92 van de Raad van de Europese Gemeenschappen van 12 oktober 1992 tot vaststelling van het communautair douanewetboek (PbEG L 302);
+- k. **Douanewetboek van de Unie:** Verordening (EU) nr. 952/2013 van het Europees Parlement en van de Raad van 9 oktober 2013 tot vaststelling van het douanewetboek van de Unie (PbEU 2013, L 269);
 
 - l. invoer: het binnenbrengen van goederen in Nederland, anders dan voor doorvoer;
 
@@ -93,7 +93,7 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 - s. doorvoer: het vervoer van goederen die uitsluitend Nederland worden binnengebracht om via Nederland te worden vervoerd naar een bestemming buiten Nederland.
 
-2. Voor de toepassing van de bij of krachtens deze wet ter zake van invoer gestelde regelen worden goederen als bedoeld in de artikelen 202, eerste lid, en 203, eerste lid, alsmede goederen met betrekking tot welke niet is voldaan aan enige verplichting of voorwaarde als bedoeld in artikel 204, eerste lid, van het Communautair douanewetboek, geacht te zijn geplaatst onder de douaneregeling, bedoeld in artikel 4, onderdeel 16, onder a, van dat wetboek.
+2. Voor de toepassing van de bij of krachtens deze wet ter zake van invoer vastgestelde bepalingen worden goederen als bedoeld in artikel 79, eerste lid, van het Douanewetboek van de Unie geacht te zijn geplaatst onder de douaneregeling, bedoeld in artikel 5, onderdeel 16, onder a, van dat wetboek.
 
 ### Hoofdstuk 2. Chemische stoffen en inrichtingen voor het produceren daarvan
 
@@ -125,13 +125,13 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 ##### Artikel 4
 
-1. Degene die een inrichting als bedoeld in [artikel 3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007434&hoofdstuk=2&paragraaf=1&artikel=3&z=2014-01-25&g=2014-01-25), in bedrijf houdt, verstrekt aan Onze Minister de gegevens die zijn aangewezen bij algemene maatregel van bestuur. Tot de aan te wijzen gegevens behoren de gegevens, bedoeld in de Verificatiebijlage, afdeling VI (D), paragrafen 13 tot en met 16, van het verdrag. De eerste volzin is niet van toepassing indien de inrichting een ziekenhuis betreft.
+1. Degene die een inrichting als bedoeld in [artikel 3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007434&hoofdstuk=2&paragraaf=1&artikel=3&z=2016-05-01&g=2016-05-01), in bedrijf houdt, verstrekt aan Onze Minister de gegevens die zijn aangewezen bij algemene maatregel van bestuur. Tot de aan te wijzen gegevens behoren de gegevens, bedoeld in de Verificatiebijlage, afdeling VI (D), paragrafen 13 tot en met 16, van het verdrag. De eerste volzin is niet van toepassing indien de inrichting een ziekenhuis betreft.
 
-2. Degene die een inrichting als bedoeld in [artikel 3, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007434&hoofdstuk=2&paragraaf=1&artikel=3&z=2014-01-25&g=2014-01-25), in bedrijf houdt, verstrekt aan Onze Minister de gegevens die zijn aangewezen bij algemene maatregel van bestuur. Tot de aan te wijzen gegevens behoren de gegevens, bedoeld in de Verificatiebijlage, afdeling VI (D), paragrafen 13 tot en met 16, van het verdrag.
+2. Degene die een inrichting als bedoeld in [artikel 3, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007434&hoofdstuk=2&paragraaf=1&artikel=3&z=2016-05-01&g=2016-05-01), in bedrijf houdt, verstrekt aan Onze Minister de gegevens die zijn aangewezen bij algemene maatregel van bestuur. Tot de aan te wijzen gegevens behoren de gegevens, bedoeld in de Verificatiebijlage, afdeling VI (D), paragrafen 13 tot en met 16, van het verdrag.
 
-3. Degene die een ontheffing als bedoeld in [artikel 3, vierde lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0007434&hoofdstuk=2&paragraaf=1&artikel=3&z=2014-01-25&g=2014-01-25), heeft verkregen, verstrekt aan Onze Minister de gegevens die zijn aangewezen bij algemene maatregel van bestuur. Tot de aan te wijzen gegevens behoren de gegevens, bedoeld in de Verificatiebijlage, afdeling VI (D), paragrafen 17 tot en met 20, van het verdrag.
+3. Degene die een ontheffing als bedoeld in [artikel 3, vierde lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0007434&hoofdstuk=2&paragraaf=1&artikel=3&z=2016-05-01&g=2016-05-01), heeft verkregen, verstrekt aan Onze Minister de gegevens die zijn aangewezen bij algemene maatregel van bestuur. Tot de aan te wijzen gegevens behoren de gegevens, bedoeld in de Verificatiebijlage, afdeling VI (D), paragrafen 17 tot en met 20, van het verdrag.
 
-4. Degene die een ontheffing als bedoeld in [artikel 3, vierde lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0007434&hoofdstuk=2&paragraaf=1&artikel=3&z=2014-01-25&g=2014-01-25), heeft verkregen, verstrekt aan Onze Minister de gegevens, die zijn aangewezen bij algemene maatregel van bestuur. Tot de aan te wijzen gegevens behoren de gegevens, bedoeld in de Verificatiebijlage, afdeling VI (B), paragrafen 5 en 6, van het verdrag.
+4. Degene die een ontheffing als bedoeld in [artikel 3, vierde lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0007434&hoofdstuk=2&paragraaf=1&artikel=3&z=2016-05-01&g=2016-05-01), heeft verkregen, verstrekt aan Onze Minister de gegevens, die zijn aangewezen bij algemene maatregel van bestuur. Tot de aan te wijzen gegevens behoren de gegevens, bedoeld in de Verificatiebijlage, afdeling VI (B), paragrafen 5 en 6, van het verdrag.
 
 ##### Artikel 5
 
@@ -147,11 +147,11 @@ Degene die een inrichting als bedoeld in artikel VI, paragraaf 6, van het verdra
 
 ##### Artikel 7
 
-Degene die overeenkomstig de [artikelen 4 tot en met 6](https://wetten.overheid.nl/jci1.3:c:BWBR0007434&hoofdstuk=2&paragraaf=2&artikel=4&z=2014-01-25&g=2014-01-25) een kennisgeving heeft gedaan, bewaart de in die artikelen bedoelde gegevens ten minste tot vijf jaar na de indiening van de kennisgeving.
+Degene die overeenkomstig de [artikelen 4 tot en met 6](https://wetten.overheid.nl/jci1.3:c:BWBR0007434&hoofdstuk=2&paragraaf=2&artikel=4&z=2016-05-01&g=2016-05-01) een kennisgeving heeft gedaan, bewaart de in die artikelen bedoelde gegevens ten minste tot vijf jaar na de indiening van de kennisgeving.
 
 ##### Artikel 8
 
-Bij of krachtens algemene maatregel van bestuur worden nadere regels gesteld ter uitvoering van het bepaalde in de [artikelen 3 tot en met 6](https://wetten.overheid.nl/jci1.3:c:BWBR0007434&hoofdstuk=2&paragraaf=1&artikel=3&z=2014-01-25&g=2014-01-25).
+Bij of krachtens algemene maatregel van bestuur worden nadere regels gesteld ter uitvoering van het bepaalde in de [artikelen 3 tot en met 6](https://wetten.overheid.nl/jci1.3:c:BWBR0007434&hoofdstuk=2&paragraaf=1&artikel=3&z=2016-05-01&g=2016-05-01).
 
 ### Hoofdstuk 3. Toezicht
 
@@ -167,7 +167,7 @@ Vervallen
 
 ##### Artikel 11
 
-[Artikel 5:20, tweede lid, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:20) is jegens de krachtens [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0007434&hoofdstuk=3&artikel=9&z=2014-01-25&g=2014-01-25) aangewezen ambtenaren, alsmede jegens de ambtenaren die zijn belast met de opsporing van overtredingen van het bij of krachtens [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0007434&hoofdstuk=2&paragraaf=1&artikel=2&z=2014-01-25&g=2014-01-25), [3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007434&hoofdstuk=2&paragraaf=1&artikel=3&z=2014-01-25&g=2014-01-25), [4](https://wetten.overheid.nl/jci1.3:c:BWBR0007434&hoofdstuk=2&paragraaf=2&artikel=4&z=2014-01-25&g=2014-01-25), [5](https://wetten.overheid.nl/jci1.3:c:BWBR0007434&hoofdstuk=2&paragraaf=2&artikel=5&z=2014-01-25&g=2014-01-25), [6](https://wetten.overheid.nl/jci1.3:c:BWBR0007434&hoofdstuk=2&paragraaf=2&artikel=6&z=2014-01-25&g=2014-01-25), [7](https://wetten.overheid.nl/jci1.3:c:BWBR0007434&hoofdstuk=2&paragraaf=2&artikel=7&z=2014-01-25&g=2014-01-25) of [8](https://wetten.overheid.nl/jci1.3:c:BWBR0007434&hoofdstuk=2&paragraaf=2&artikel=8&z=2014-01-25&g=2014-01-25) bepaalde, niet van toepassing op de ambtenaren, bedoeld in artikel 32 van de Arbeidsomstandighedenwet en [artikel 5.10 van de Wet algemene bepalingen omgevingsrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0024779&artikel=5.10).
+[Artikel 5:20, tweede lid, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:20) is jegens de krachtens [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0007434&hoofdstuk=3&artikel=9&z=2016-05-01&g=2016-05-01) aangewezen ambtenaren, alsmede jegens de ambtenaren die zijn belast met de opsporing van overtredingen van het bij of krachtens [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0007434&hoofdstuk=2&paragraaf=1&artikel=2&z=2016-05-01&g=2016-05-01), [3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007434&hoofdstuk=2&paragraaf=1&artikel=3&z=2016-05-01&g=2016-05-01), [4](https://wetten.overheid.nl/jci1.3:c:BWBR0007434&hoofdstuk=2&paragraaf=2&artikel=4&z=2016-05-01&g=2016-05-01), [5](https://wetten.overheid.nl/jci1.3:c:BWBR0007434&hoofdstuk=2&paragraaf=2&artikel=5&z=2016-05-01&g=2016-05-01), [6](https://wetten.overheid.nl/jci1.3:c:BWBR0007434&hoofdstuk=2&paragraaf=2&artikel=6&z=2016-05-01&g=2016-05-01), [7](https://wetten.overheid.nl/jci1.3:c:BWBR0007434&hoofdstuk=2&paragraaf=2&artikel=7&z=2016-05-01&g=2016-05-01) of [8](https://wetten.overheid.nl/jci1.3:c:BWBR0007434&hoofdstuk=2&paragraaf=2&artikel=8&z=2016-05-01&g=2016-05-01) bepaalde, niet van toepassing op de ambtenaren, bedoeld in artikel 32 van de Arbeidsomstandighedenwet en [artikel 5.10 van de Wet algemene bepalingen omgevingsrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0024779&artikel=5.10).
 
 ### Hoofdstuk 4. Internationale routine- en uitdagingsinspecties
 
@@ -193,7 +193,7 @@ Vervallen
 
 ##### Artikel 14
 
-De Nederlandse strafwet is van toepassing op de Nederlander die zich buiten Nederland schuldig maakt aan handelen in strijd met het bepaalde bij of krachtens [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0007434&hoofdstuk=2&paragraaf=1&artikel=2&z=2014-01-25&g=2014-01-25) en [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007434&hoofdstuk=2&paragraaf=1&artikel=3&z=2014-01-25&g=2014-01-25).
+De Nederlandse strafwet is van toepassing op de Nederlander die zich buiten Nederland schuldig maakt aan handelen in strijd met het bepaalde bij of krachtens [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0007434&hoofdstuk=2&paragraaf=1&artikel=2&z=2016-05-01&g=2016-05-01) en [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007434&hoofdstuk=2&paragraaf=1&artikel=3&z=2016-05-01&g=2016-05-01).
 
 ##### Artikel 15
 
