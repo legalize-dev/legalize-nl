@@ -4,7 +4,7 @@ identifier: "BWBV0005195"
 country: "nl"
 rank: "verdrag"
 publication_date: "2016-05-01"
-last_updated: "2011-02-04"
+last_updated: "2016-05-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBV0005195"
 soort: "verdrag"
@@ -68,7 +68,7 @@ Voor de toepassing van dit Verdrag:
 
 - a. wordt onder de uitdrukking „douaneadministratie” verstaan:
 
-- –. wat het Koninkrijk der Nederlanden betreft: de centrale administratie die verantwoordelijk is voor de uitvoering van de douanewetgeving in alle delen van het Koninkrijk der Nederlanden genoemd in [artikel 21, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBV0005195&hoofdstuk=XIII&artikel=21&z=2011-02-04&g=2011-02-04);
+- –. wat het Koninkrijk der Nederlanden betreft: de centrale administratie die verantwoordelijk is voor de uitvoering van de douanewetgeving in alle delen van het Koninkrijk der Nederlanden genoemd in [artikel 21, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBV0005195&hoofdstuk=XIII&artikel=21&z=2016-05-01&g=2016-05-01);
 
 - –. wat de Republiek der Filipijnen betreft: het Douanebureau;
 
@@ -174,13 +174,13 @@ De aangezochte administratie verstrekt op verzoek de verzoekende administratie m
 
 ##### Artikel 9
 
-De douaneadministraties kunnen elkaar, door middel van een wederzijdse regeling automatisch alle informatie die onder dit Verdrag valt verstrekken. Deze uitwisseling geschiedt in overeenstemming met [artikel 20, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBV0005195&hoofdstuk=XII&artikel=20&z=2011-02-04&g=2011-02-04), van dit Verdrag.
+De douaneadministraties kunnen elkaar, door middel van een wederzijdse regeling automatisch alle informatie die onder dit Verdrag valt verstrekken. Deze uitwisseling geschiedt in overeenstemming met [artikel 20, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBV0005195&hoofdstuk=XII&artikel=20&z=2016-05-01&g=2016-05-01), van dit Verdrag.
 
 ##### Artikel 10
 
 1. De douaneadministraties verlenen elkaar bijstand met het oog op de invordering van douanevorderingen in overeenstemming met hun respectieve nationale wettelijke en administratieve bepalingen voor de invordering van hun eigen vorderingen betreffende rechten en belastingen.
 
-2. De douaneadministraties schrijven in onderlinge overeenstemming regels voor met betrekking tot de toepassing van dit artikel, in overeenstemming met [artikel 20, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBV0005195&hoofdstuk=XII&artikel=20&z=2011-02-04&g=2011-02-04), van dit Verdrag. Mogelijk is hiervoor de instemming van de andere nationale overheidsinstanties vereist.
+2. De douaneadministraties schrijven in onderlinge overeenstemming regels voor met betrekking tot de toepassing van dit artikel, in overeenstemming met [artikel 20, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBV0005195&hoofdstuk=XII&artikel=20&z=2016-05-01&g=2016-05-01), van dit Verdrag. Mogelijk is hiervoor de instemming van de andere nationale overheidsinstanties vereist.
 
 ### HOOFDSTUK V. INFORMATIE
 
@@ -214,7 +214,7 @@ De aangezochte administratie kan, op verzoek, haar functionarissen machtigen ter
 
 3. Een verzoek van een van de douaneadministraties een bepaalde procedure te volgen wordt ingewilligd, met inachtneming van de wettelijke en administratieve bepalingen van de aangezochte verdragsluitende partij.
 
-4. De in dit Verdrag bedoelde informatie wordt alleen aan functionarissen medegedeeld die hiertoe door de douaneadministraties zijn aangewezen. Een lijst van aldus aangewezen functionarissen wordt aan de douaneadministratie van de andere verdragsluitende partij verstrekt in overeenstemming met [artikel 20, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBV0005195&hoofdstuk=XII&artikel=20&z=2011-02-04&g=2011-02-04), van dit Verdrag.
+4. De in dit Verdrag bedoelde informatie wordt alleen aan functionarissen medegedeeld die hiertoe door de douaneadministraties zijn aangewezen. Een lijst van aldus aangewezen functionarissen wordt aan de douaneadministratie van de andere verdragsluitende partij verstrekt in overeenstemming met [artikel 20, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBV0005195&hoofdstuk=XII&artikel=20&z=2016-05-01&g=2016-05-01), van dit Verdrag.
 
 ### HOOFDSTUK VIII. UITVOERING VAN VERZOEKEN
 
@@ -250,7 +250,7 @@ Indien de aangezochte administratie niet over de gevraagde informatie beschikt, 
 
 2. De verdragsluitende partijen verschaffen elkaar alle wetgeving inzake de bescherming van persoonsgegevens in hun respectieve staten welke van belang is voor dit artikel.
 
-3. Persoonsgegevens worden niet uitgewisseld voordat de verdragsluitende partijen overeenkomstig [artikel 20, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBV0005195&hoofdstuk=XII&artikel=20&z=2011-02-04&g=2011-02-04), van dit Verdrag zijn overeengekomen dat het beschermingsniveau in beide verdragsluitende partijen gelijk is.
+3. Persoonsgegevens worden niet uitgewisseld voordat de verdragsluitende partijen overeenkomstig [artikel 20, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBV0005195&hoofdstuk=XII&artikel=20&z=2016-05-01&g=2016-05-01), van dit Verdrag zijn overeengekomen dat het beschermingsniveau in beide verdragsluitende partijen gelijk is.
 
 ### HOOFDSTUK X. ONTHEFFING
 
