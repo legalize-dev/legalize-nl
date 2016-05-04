@@ -4,7 +4,7 @@ identifier: "BWBR0035791"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-12-24"
-last_updated: "2015-11-03"
+last_updated: "2016-05-04"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0035791"
 soort: "ministeriele-regeling"
@@ -1360,6 +1360,8 @@ Kerktelefonie – Systeem bestemd voor het integraal lokaal audio uitzenden van 
 
 **STM-1** – **Synchronous Transport Module, level 1** / Vaste verbindingen, die een onderdeel vormen van een infrasructuurnetwerk hebben veelal een transportcapaciteit van 155 Mbit/sec volgens STM-1 formaat.
 
+**Supplemental downlink oftewel SDL**: een ongepaarde frequentieband die gecombineerd is met een gepaarde frequentieband in een mobiel communicatienetwerk met als functie de downlink capaciteit te verhogen. Hiermee kan een mobiele operator zijn netwerkcapaciteit beter laten aansluiten op het meest voorkomende, doorgaans asymmetrische mobiele verkeerspatroon, dat wil zeggen meer downlink verkeer dan uplink verkeer.
+
 **TACAN** – **Tactical air navigation aid**. / Militair systeem voor de navigatie van vliegtuigen.
 
 **T-DAB** – **Terrestrial Digital Audio Broadcasting / Systeem voor digitale radio**. Zie ook DAB.
@@ -1370,9 +1372,9 @@ Vaste verbindingen worden ook wel straalverbindingen genoemd. Hierbij wordt gebr
 
 **VoA** – Verdeling op Afroep. Zie par. 5.6.
 
-**VOR** – **VHF Omnidirectional Radio range** / Navigatiesysteem voor de luchtvaart.
-
 ### Annex 5, Summary of this Dutch Frequency Plan
+
+**WRC –** **World Radio Conference**
 
 This Dutch frequency plan, edition 2014 (NFP2014) is a fully revised decree document of the last National Frequency Plan, edition 2005 (NFP2005). More limited changes of the frequency table have been published, on an average half-yearly basis, as interim changes since the NFP2005.
 
@@ -1438,11 +1440,15 @@ Postbus 20401
 
 Telefoon (070) 379 89 11
 
+Tegen dit besluit kan degene wiens belang rechtstreeks bij dit besluit is betrokken binnen 6 weken na de dag van dagtekening van deze Staatscourant een gemotiveerd beroepschrift indienen bij de rechtbank Rotterdam, Postbus 50950, 3007 BL, Rotterdam.
+
+**VOR** – **VHF Omnidirectional Radio range** / Navigatiesysteem voor de luchtvaart.
+
+### Annex 5, Summary of this Dutch Frequency Plan
+
 Internet http://www.rijksoverheid.nl/frequentiebeleid
 
 Tegen dit besluit kan degene wiens belang rechtstreeks bij dit besluit is betrokken binnen 6 weken na de dag van dagtekening van deze Staatscourant een gemotiveerd beroepschrift indienen bij de rechtbank Rotterdam, Postbus 50950, 3007 BL, Rotterdam.
-
-**WRC –** **World Radio Conference**
 
 ### Annex 5, Summary of this Dutch Frequency Plan
 
