@@ -4,7 +4,7 @@ identifier: "BWBR0035035"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-08-16"
-last_updated: "2014-04-10"
+last_updated: "2016-05-07"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0035035"
 soort: "ministeriele-regeling"
@@ -60,7 +60,7 @@ Besluit:
 
 - b. beschermende kledij, waaronder kogelwerende vesten en militaire helmen, die door VN-personeel, personeel van de Europese Unie of haar lidstaten, vertegenwoordigers van de media, medewerkers van humanitaire organisaties, ontwikkelingswerkers en aanverwant personeel voor hun eigen bescherming tijdelijk naar de Centraal-Afrikaanse Republiek wordt uitgevoerd;
 
-- c. handvuurwapens en aanverwant materieel die uitsluitend bedoeld zijn voor gebruik in internationale patrouilles die de Sangha River Tri-national Protected Area beveiligen tegen stropen, de smokkel van ivoor of wapens, en andere activiteiten die in strijd zijn met de nationale wetten van de Centraal-Afrikaanse Republiek dan wel internationale wettelijke verplichtingen van de Centraal-Afrikaanse Republiek.
+- c. handvuurwapens en aanverwant materieel die uitsluitend bedoeld zijn voor gebruik in internationale patrouilles die de Sangha River Tri-national Protected Area beveiligen tegen stropen, de smokkel van ivoor of wapens, en andere activiteiten die in strijd zijn met de nationale wetten van de Centraal-Afrikaanse Republiek of internationale wettelijke verplichtingen van de Centraal-Afrikaanse Republiek, na kennisgeving aan het Comité, bedoeld in paragraaf 57 van Resolutie 2127 (2013) van de Veiligheidsraad van de Verenigde Naties.
 
 3. Het eerste lid is niet van toepassing in geval door het Comité, bedoeld in paragraaf 57 van Resolutie 2127 (2013) van de Veiligheidsraad van de Verenigde Naties, vooraf goedkeuring is verleend aan een levering, verkoop of overdracht van:
 
