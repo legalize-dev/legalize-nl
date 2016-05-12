@@ -4,7 +4,7 @@ identifier: "BWBR0022061"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-02-12"
-last_updated: "2016-04-22"
+last_updated: "2016-05-12"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0022061"
 soort: "ministeriele-regeling"
@@ -44,7 +44,7 @@ Besluit:
 
 ##### Artikel 1. Vaststelling examenprogramma’s v.w.o en h.a.v.o.
 
-De examenprogramma’s v.w.o. en h.a.v.o. worden vastgesteld zoals aangegeven in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0022061&bijlage=1&z=2016-04-22&g=2016-04-22) bij deze regeling.
+De examenprogramma’s v.w.o. en h.a.v.o. worden vastgesteld zoals aangegeven in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0022061&bijlage=1&z=2016-05-12&g=2016-05-12) bij deze regeling.
 
 ##### Artikel 2. Vaststelling examenprogramma’s vmbo
 
@@ -146,7 +146,7 @@ De volgende regelingen worden ingetrokken:
 
 ##### Artikel 5. De periode 1 augustus 2007 tot en met 31 juli 2008
 
-De bepalingen in de regelingen, genoemd in [artikel 4, onder g tot en met w](https://wetten.overheid.nl/jci1.3:c:BWBR0022061&artikel=4&z=2016-04-22&g=2016-04-22), blijven voor wat betreft de gemengde leerweg voor de periode 1 augustus 2007 tot en met 31 juli 2008 van toepassing voor de leerlingen die in het schooljaar 2007–2008 beginnen met het vierde leerjaar en kunnen, door het bevoegd gezag van de school te bepalen, in de plaats treden van de examenprogramma’s genoemd in bijlage 2 bij artikel 2.
+De bepalingen in de regelingen, genoemd in [artikel 4, onder g tot en met w](https://wetten.overheid.nl/jci1.3:c:BWBR0022061&artikel=4&z=2016-05-12&g=2016-05-12), blijven voor wat betreft de gemengde leerweg voor de periode 1 augustus 2007 tot en met 31 juli 2008 van toepassing voor de leerlingen die in het schooljaar 2007–2008 beginnen met het vierde leerjaar en kunnen, door het bevoegd gezag van de school te bepalen, in de plaats treden van de examenprogramma’s genoemd in bijlage 2 bij artikel 2.
 
 ##### Artikel 6. Inwerkingtreding
 
@@ -160,7 +160,7 @@ Deze regeling wordt aangehaald als: Regeling examenprogramma’s voortgezet onde
 
 Ligt ter inzage in de bibliotheek van het Ministerie van Onderwijs, Cultuur en Wetenschap.
 
-## Bijlage 1. behorende bij [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0022061&artikel=1&z=2016-04-22&g=2016-04-22) van de Regeling examenprogramma’s voortgezet onderwijs
+## Bijlage 1. behorende bij [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0022061&artikel=1&z=2016-05-12&g=2016-05-12) van de Regeling examenprogramma’s voortgezet onderwijs
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst, met uitzondering van de bijlagen, die ter inzage worden gelegd in de bibliotheek van het Ministerie van Onderwijs, Cultuur en Wetenschap.
 
@@ -168,7 +168,7 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst, met u
 
 De examenprogramma’s 2.47 techniek-breed, 2.48 ICT-route, 2.49 technologie in de gemengde leerweg, 2.50 intersectoraal, 2.51 sport, dienstverlening en veiligheid en 2.52 lichamelijke opvoeding 2 als genoemd in bijlage 2 zijn voor het eerst van toepassing op leerlingen die in het schooljaar 2008-2009 beginnen met opleidingen in het derde jaar vmbo. Voor de scholen die op basis van de [Beleidsregel Scholenplanning voortgezet onderwijs 2007 en 2008](https://wetten.overheid.nl/jci1.3:c:BWBR0020469), danwel op basis van de [Beleidsregel LO2 in het vmbo](https://wetten.overheid.nl/jci1.3:c:BWBR0020139), reeds zijn gestart met deze examenprogramma’s, zijn deze programma’s ook van toepassing op leerlingen die in het schooljaar 2008–2009 beginnen met opleidingen in het vierde jaar vmbo.
 
-## Bijlage 1. behorende bij [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0022061&artikel=1&z=2016-09-27&g=2016-04-22) van de Regeling examenprogramma’s voortgezet onderwijs
+## Bijlage 1. behorende bij [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0022061&artikel=1&z=2016-09-27&g=2016-05-12) van de Regeling examenprogramma’s voortgezet onderwijs
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst, met uitzondering van de bijlagen, die ter inzage worden gelegd in de bibliotheek van het Ministerie van Onderwijs, Cultuur en Wetenschap.
 
@@ -724,7 +724,7 @@ Het schoolexamen heeft betrekking op de domeinen A tot en met D, en indien het b
 
 ### Examenprogramma culturele en kunstzinnige vorming havo/vwo
 
-### Examenprogramma culturele en kunstzinnige vorming havo/vwo
+### Het eindexamen
 
 ### Het eindexamen
 
@@ -1482,7 +1482,7 @@ Het schoolexamen
 
 ### Domein E: Reproductie
 
-### Domein E: Reproductie
+### Domein F: Evolutie
 
 ### Examenprogramma Biologie Havo
 
@@ -2086,7 +2086,7 @@ Het eindexamen bestaat uit het centraal examen en het schoolexamen.
 
 Het eindexamen bestaat uit het centraal examen en het schoolexamen.
 
-Het eindexamen bestaat uit het centraal examen en het schoolexamen.
+Het examenprogramma bestaat uit de volgende domeinen:
 
 ### Het centraal examen
 
@@ -2260,7 +2260,7 @@ Het schoolexamen heeft betrekking op domein A en:
 
 ### Domein A:. Vaardigheden
 
-### De examenstof
+### Domein A:. Vaardigheden
 
 ### Subdomein A1:. Argumentatieve vaardigheden
 
@@ -3256,9 +3256,9 @@ Administratie, handel en administratie, handel en verkoop, mode en commercie (me
 
 ### 2.51. Sport, dienstverlening en veiligheid
 
-### 2.51. Sport, dienstverlening en veiligheid
+### 2.52. lichamelijke opvoeding 2
 
-### 2.17. Aardrijkskunde
+### 2.52. lichamelijke opvoeding 2
 
 In de centrale examens voor BB, KB en GL/TL worden de volgende eindtermen getoetst: 3, 5, 6, 11, 12, 17 en 18. In het centraal examen (CE) voor GL/TL worden bovendien de eindtermen 22, 24 en 26 getoetst.
 
@@ -3744,7 +3744,7 @@ Keuzeonderwerpen
 
 ### Domein E:
 
-Het eindexamen
+Het eindexamen bestaat uit het centraal examen en het schoolexamen.
 
 Het centraal examen
 
@@ -4750,7 +4750,7 @@ Het examenprogramma bestaat uit dat van het vak kunst (algemeen) en de volgende 
 
 Het centraal examen is dat van het vak kunst (algemeen).
 
-Het schoolexamen heeft betrekking op de domeinen A, B en C, en indien het bevoegd gezag daarvoor kiest: andere vakonderdelen, die per kandidaat kunnen verschillen.
+Indien de kandidaat met het profiel cultuur en maatschappij het eindexamen aflegt in een van de vakken kunst (beeldende vormgeving, muziek, drama of dans) in het vrije deel om te voldoen aan de verplichting dat in dat vrije deel het eindexamen tenminste één vak omvat met een normatieve studielast van tenminste 320 studielasturen, en hij ook als onderdeel van het profieldeel reeds eindexamen aflegt in een van de vakken kunst (een andere variant), wordt het onderdeel kunst (algemeen) in het examen (en dus het centraal examen) vervangen door aanvullende verdiepende en/of verbredende onderdelen op het gebied van kunst in het schoolexamen met een normatieve studielast van ten minste 120 studielasturen, door het bevoegd gezag te bepalen. Er is dan dus geen centraal examen.
 
 Het centraal examen heeft betrekking op domein A.
 
@@ -4770,7 +4770,7 @@ Het eindexamen bestaat uit het centraal examen en het schoolexamen.
 
 Het eindexamen bestaat uit het centraal examen en het schoolexamen.
 
-Het eindexamen bestaat uit het centraal examen en het schoolexamen.
+Het examenprogramma bestaat uit de volgende domeinen:
 
 Het centraal examen heeft betrekking op domein A.
 
@@ -5342,7 +5342,7 @@ Het CvE stelt het aantal en de tijdsduur van de zittingen van het centraal exame
 
 17. De kandidaat kan natuurwetenschappelijke en wiskundige concepten toepassen op interdisciplinaire vraagstukken met betrekking tot bescherming, diagnose, genezing, verzorging of revalidatie van mensen.
 
-Het eindexamen bestaat uit het centraal examen en het schoolexamen.
+Het examenprogramma bestaat uit de volgende domeinen:
 
 Het schoolexamen
 
@@ -5648,9 +5648,9 @@ Het eindexamen
 
 Het eindexamen bestaat uit het centraal examen en het schoolexamen.
 
-Het CvE stelt het aantal en de tijdsduur van de zittingen van het centraal examen vast.
-
 Het CvE maakt indien nodig een specificatie bekend van de examenstof van het centraal examen.
+
+Het schoolexamen
 
 Het centraal examen
 
@@ -5802,7 +5802,7 @@ Het examenprogramma bestaat uit de volgende domeinen:
 
 Het schoolexamen heeft betrekking op de domeinen A tot en met E, (met dien verstande dat de eindtermen uit de domeinen A en C, D en E slechts in samenhang met domein B aan de orde komen), en indien het bevoegd gezag daarvoor kiest: andere vakonderdelen, die per kandidaat kunnen verschillen.
 
-Het eindexamen bestaat uit het schoolexamen.
+Het examenprogramma bestaat uit de volgende domeinen:
 
 Het schoolexamen heeft betrekking op de domeinen A tot en met D, en indien het bevoegd gezag daarvoor kiest: andere vakonderdelen, die per kandidaat kunnen verschillen.
 
@@ -5840,7 +5840,7 @@ Subdomein A2: Profielspecifieke vaardigheden
 
 Subdomein C1: Discrete dynamische systemen
 
-Het schoolexamen
+Het schoolexamen heeft betrekking op domein A en:
 
 Het centraal examen heeft betrekking op de subdomeinen B2, B3, B4, B5, B7, B8, C1, D4, E4, F1 en F2, in combinatie met de vaardigheden uit domein A.
 
@@ -6286,7 +6286,7 @@ Het examenprogramma bestaat uit de volgende domeinen:
 
 Domein B Kijk- en luistervaardigheid
 
-## Bijlage 2. , behorende bij [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0022061&artikel=2&z=2016-04-22&g=2016-04-22) van de Regeling examenprogramma’s voortgezet onderwijs
+## Bijlage 2. , behorende bij [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0022061&artikel=2&z=2016-05-12&g=2016-05-12) van de Regeling examenprogramma’s voortgezet onderwijs
 
 indien het bevoegd gezag daarvoor kiest een of meer exameneenheden waarop het centraal examen betrekking heeft;
 
@@ -6358,8 +6358,20 @@ Het examenprogramma bestaat uit de volgende domeinen:
 
 Het examenprogramma bestaat uit de volgende domeinen:
 
-## Bijlage 2. , behorende bij [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0022061&artikel=2&z=2016-09-27&g=2016-04-22) van de Regeling examenprogramma’s voortgezet onderwijs
+## Bijlage 2. , behorende bij [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0022061&artikel=2&z=2016-09-27&g=2016-05-12) van de Regeling examenprogramma’s voortgezet onderwijs
 
 Administratie, handel en administratie, handel en verkoop, mode en commercie (met als codering voor het gezamenlijke CE: HAV).
+
+Deze regeling zal met de toelichting in de Staatscourant worden geplaatst, met uitzondering van de bijlagen, die ter inzage worden gelegd in de bibliotheek van het Ministerie van Onderwijs, Cultuur en Wetenschap.
+
+## Bijlage 3. Loopbaanoriëntatie en -ontwikkeling in de theoretische leerweg van het vmbo
+
+Dit onderdeel is nog niet inwerking getreden
+
+Deze regeling zal met de toelichting in de Staatscourant worden geplaatst, met uitzondering van de bijlagen, die ter inzage worden gelegd in de bibliotheek van het Ministerie van Onderwijs, Cultuur en Wetenschap.
+
+## Bijlage 3. Loopbaanoriëntatie en -ontwikkeling in de theoretische leerweg van het vmbo
+
+Dit onderdeel is nog niet inwerking getreden
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst, met uitzondering van de bijlagen, die ter inzage worden gelegd in de bibliotheek van het Ministerie van Onderwijs, Cultuur en Wetenschap.
