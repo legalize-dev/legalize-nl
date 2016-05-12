@@ -4,7 +4,7 @@ identifier: "BWBR0036487"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2022-07-21"
-last_updated: "2015-10-15"
+last_updated: "2016-05-12"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0036487"
 soort: "ministeriele-regeling"
@@ -44,7 +44,7 @@ Besluit:
 
 In deze regeling wordt verstaan onder:
 
-- •. **actie:** een door of onder verantwoordelijkheid van de voor het betrokken nationale programma verantwoordelijke instantie gekozen project of groep projecten, bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0036487&artikel=4&z=2015-10-15&g=2015-10-15), die bijdragen aan de verwezenlijking van de algemene of specifieke doelstellingen van de specifieke verordeningen;
+- •. **actie:** een door of onder verantwoordelijkheid van de voor het betrokken nationale programma verantwoordelijke instantie gekozen project of groep projecten, bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0036487&artikel=4&z=2016-05-12&g=2016-05-12), die bijdragen aan de verwezenlijking van de algemene of specifieke doelstellingen van de specifieke verordeningen;
 
 - •. **brutoloon:** bruto salaris, inclusief eindejaarsuitkering of een beloning in de vorm van een dertiende maand, zijnde een vast bedrag of vastgesteld percentage van het salaris, dat werknemers als extra loon ontvangen, voor zover dit is geregeld in de geldende collectieve arbeidsovereenkomst of arbeidsovereenkomst, exclusief vakantiegeld, exclusief vergoedingen, bijzondere beloningen, winst- of prestatieafhankelijke uitkeringen en aanvullende werkgeverslasten;
 
@@ -52,11 +52,13 @@ In deze regeling wordt verstaan onder:
 
 - •. **deelnemers:** personen uit de doelgroep die deelnemen aan de activiteiten uit het project van de subsidieaanvrager;
 
-- •. **directe loonkosten:** loonkosten van personeel, waarbij sprake is van direct aan deelnemers van het project bestede uren, dan wel loonkosten welke direct te relateren zijn aan de uitvoering van subsidiabele activiteiten als bedoeld in [bijlagen A tot en met H](https://wetten.overheid.nl/jci1.3:c:BWBR0036487&bijlage=A&z=2015-10-15&g=2015-10-15);
+- •. **directe loonkosten:** loonkosten van personeel, waarbij sprake is van direct aan deelnemers van het project bestede uren, dan wel loonkosten welke direct te relateren zijn aan de uitvoering van subsidiabele activiteiten als bedoeld in [bijlagen A tot en met H](https://wetten.overheid.nl/jci1.3:c:BWBR0036487&bijlage=A&z=2016-05-12&g=2016-05-12);
 
 - •. **Horizontale verordening:** Verordening (EU) nr. 514/2014 van het Europees Parlement en de Raad van 16 april 2014 tot vaststelling van de algemene bepalingen inzake het Fonds voor asiel, migratie en integratie en inzake het instrument voor financiële steun voor politiële samenwerking, voorkoming en bestrijding van criminaliteit en crisisbeheersing (PbEU L 150/112);
 
 - •. **indirecte kosten:** kosten die, met inachtneming van de subsidiabiliteitsvereisten, bedoeld in artikel 17 van de Horizontale verordening, niet kunnen worden aangewezen als specifieke kosten van het project, en niet rechtstreeks verband houden met de uitvoering ervan;
+
+- •. **internationale organisatie:** een organisatie als bedoeld in artikel 43, eerste lid, van de Gedelegeerde Verordening (EU) Nr. 1268/2012 van de Commissie van 29 oktober 2012, houdende uitvoeringsvoorschriften voor Verordening (EU, Euratom) nr. 966/2012 van het Europees Parlement en de Raad tot vaststelling van de financiële regels van toepassing op de algemene begroting van de Unie;
 
 - •. **minister:** De Minister van Sociale Zaken en Werkgelegenheid voor zover het betreft subsidiëring van projecten inzake integratie en de Minister van Veiligheid en Justitie voor zover het overige te subsidiëren projecten betreft;
 
@@ -90,7 +92,7 @@ In deze regeling wordt verstaan onder:
 
 1. De minister kan, overeenkomstig deze regeling, subsidie verstrekken aan de nader krachtens deze regeling aangewezen rechtspersonen die een bijdrage leveren aan de uitvoering van het nationale programma AMIF 2014–2020 en de uitvoering van het nationale programma ISF 2014–2020. De minister neemt daarbij de Horizontale verordening, de Verordening AMIF, de Verordening ISF Politie en de Verordening ISF Grenzen in acht.
 
-2. De [Algemene Regeling SZW-subsidies](https://wetten.overheid.nl/jci1.3:c:BWBR0009211) is niet van toepassing op de subsidieverlening bij subsidies met betrekking tot een actie als bedoeld in [artikel 4, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0036487&artikel=4&z=2015-10-15&g=2015-10-15).
+2. De [Algemene Regeling SZW-subsidies](https://wetten.overheid.nl/jci1.3:c:BWBR0009211) is niet van toepassing op de subsidieverlening bij subsidies met betrekking tot een actie als bedoeld in [artikel 4, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0036487&artikel=4&z=2016-05-12&g=2016-05-12).
 
 3. Indien de Europese Commissie op het tijdstip van subsidieverlening nog niet heeft ingestemd met het desbetreffende nationale programma, wordt de subsidie, bedoeld in het eerste lid, verleend onder de voorwaarde dat de Europese Commissie instemt met dat nationale programma.
 
@@ -100,7 +102,7 @@ In deze regeling wordt verstaan onder:
 
 ##### Artikel 3. Aanwijzing instanties
 
-1. Als verantwoordelijke instantie als bedoeld in artikel 25, eerste lid, onderdeel a, van de Horizontale verordening, wordt aangewezen de Directie Regie van het Ministerie van Veiligheid en Justitie.
+1. Als verantwoordelijke instantie als bedoeld in artikel 25, eerste lid, onderdeel a, van de Horizontale verordening, wordt aangewezen de Directie Regie Vreemdelingenketen van het Ministerie van Veiligheid en Justitie.
 
 2. Als auditinstantie als bedoeld in artikel 25, eerste lid, onderdeel b, van de Horizontale verordening wordt aangewezen de Auditdienst Rijk van het Ministerie van Financiën.
 
@@ -110,23 +112,23 @@ In deze regeling wordt verstaan onder:
 
 De minister kan met inachtneming van deze regeling en onder het voorbehoud, bedoeld in artikel 17, eerste lid, van de Horizontale Verordening, subsidie verlenen ten behoeve van projecten zonder winstoogmerk op het gebied van:
 
-- a. het behouden en verbeteren van de kwaliteit van het opvang- en asielstelsel, nader uitgewerkt in [bijlage A](https://wetten.overheid.nl/jci1.3:c:BWBR0036487&bijlage=A&z=2015-10-15&g=2015-10-15), behorende bij deze regeling;
+- a. het behouden en verbeteren van de kwaliteit van het opvang- en asielstelsel, nader uitgewerkt in [bijlage A](https://wetten.overheid.nl/jci1.3:c:BWBR0036487&bijlage=A&z=2016-05-12&g=2016-05-12), behorende bij deze regeling;
 
-- b. de bevordering van de participatie in de samenleving van onderdanen van een niet-westers derde land en hun naaste verwanten, nader uitgewerkt in [bijlage B](https://wetten.overheid.nl/jci1.3:c:BWBR0036487&bijlage=B&z=2015-10-15&g=2015-10-15), behorende bij deze regeling;
+- b. de bevordering van de participatie in de samenleving van onderdanen van een niet-westers derde land en hun naaste verwanten, nader uitgewerkt in [bijlage B](https://wetten.overheid.nl/jci1.3:c:BWBR0036487&bijlage=B&z=2016-05-12&g=2016-05-12), behorende bij deze regeling;
 
-- c. de bevordering van terugkeer van vreemdelingen die geen recht op verblijf in Nederland hebben, dan wel van vreemdelingen die nog in afwachting zijn van een beslissing op hun verzoek tot verblijf, dan wel van vreemdelingen met een tijdelijk verblijfsrecht, nader uitgewerkt in [bijlage C](https://wetten.overheid.nl/jci1.3:c:BWBR0036487&bijlage=C&z=2015-10-15&g=2015-10-15), behorende bij deze regeling;
+- c. de bevordering van terugkeer van vreemdelingen die geen recht op verblijf in Nederland hebben, dan wel van vreemdelingen die nog in afwachting zijn van een beslissing op hun verzoek tot verblijf, dan wel van vreemdelingen met een tijdelijk verblijfsrecht, nader uitgewerkt in [bijlage C](https://wetten.overheid.nl/jci1.3:c:BWBR0036487&bijlage=C&z=2016-05-12&g=2016-05-12), behorende bij deze regeling;
 
-- d. financieel rechercheren, nader uitgewerkt in [bijlage D](https://wetten.overheid.nl/jci1.3:c:BWBR0036487&bijlage=D&z=2015-10-15&g=2015-10-15), behorende bij deze regeling;
+- d. financieel rechercheren, nader uitgewerkt in [bijlage D](https://wetten.overheid.nl/jci1.3:c:BWBR0036487&bijlage=D&z=2016-05-12&g=2016-05-12), behorende bij deze regeling;
 
-- e. het Europees opleidingsprogramma voor Rechtshandhaving, nader uitgewerkt in [bijlage E](https://wetten.overheid.nl/jci1.3:c:BWBR0036487&bijlage=E&z=2015-10-15&g=2015-10-15), behorende bij deze regeling;
+- e. het Europees opleidingsprogramma voor Rechtshandhaving, nader uitgewerkt in [bijlage E](https://wetten.overheid.nl/jci1.3:c:BWBR0036487&bijlage=E&z=2016-05-12&g=2016-05-12), behorende bij deze regeling;
 
-- f. het verbeteren van slachtofferzorg, nader uitgewerkt in [bijlage F](https://wetten.overheid.nl/jci1.3:c:BWBR0036487&bijlage=F&z=2015-10-15&g=2015-10-15), behorende bij deze regeling;
+- f. het verbeteren van slachtofferzorg, nader uitgewerkt in [bijlage F](https://wetten.overheid.nl/jci1.3:c:BWBR0036487&bijlage=F&z=2016-05-12&g=2016-05-12), behorende bij deze regeling;
 
-- g. risico- en crisisbeheersing, nader uitgewerkt in [bijlage G](https://wetten.overheid.nl/jci1.3:c:BWBR0036487&bijlage=G&z=2015-10-15&g=2015-10-15), behorende bij deze regeling;
+- g. risico- en crisisbeheersing, nader uitgewerkt in [bijlage G](https://wetten.overheid.nl/jci1.3:c:BWBR0036487&bijlage=G&z=2016-05-12&g=2016-05-12), behorende bij deze regeling;
 
-- h. management van de externe EU-grenzen, zowel op visa als op grenzen, nader uitgewerkt in [bijlage H](https://wetten.overheid.nl/jci1.3:c:BWBR0036487&bijlage=H&z=2015-10-15&g=2015-10-15), behorende bij deze regeling;
+- h. management van de externe EU-grenzen, zowel op visa als op grenzen, nader uitgewerkt in [bijlage H](https://wetten.overheid.nl/jci1.3:c:BWBR0036487&bijlage=H&z=2016-05-12&g=2016-05-12), behorende bij deze regeling;
 
-- i. twee of drie van de acties, bedoeld in de onderdelen a, b of c, met één centrale doelstelling gericht op de betreffende doelgroepen, bedoeld in [bijlagen A](https://wetten.overheid.nl/jci1.3:c:BWBR0036487&bijlage=A&z=2015-10-15&g=2015-10-15), [B](https://wetten.overheid.nl/jci1.3:c:BWBR0036487&bijlage=B&z=2015-10-15&g=2015-10-15) of [C](https://wetten.overheid.nl/jci1.3:c:BWBR0036487&bijlage=C&z=2015-10-15&g=2015-10-15).
+- i. twee of drie van de acties, bedoeld in de onderdelen a, b of c, met één centrale doelstelling gericht op de betreffende doelgroepen, bedoeld in [bijlagen A](https://wetten.overheid.nl/jci1.3:c:BWBR0036487&bijlage=A&z=2016-05-12&g=2016-05-12), [B](https://wetten.overheid.nl/jci1.3:c:BWBR0036487&bijlage=B&z=2016-05-12&g=2016-05-12) of [C](https://wetten.overheid.nl/jci1.3:c:BWBR0036487&bijlage=C&z=2016-05-12&g=2016-05-12).
 
 ##### Artikel 5. Aanvraagtijdvakken en subsidieplafond
 
@@ -134,11 +136,11 @@ De mogelijkheid tot het indienen van aanvragen om subsidie bestaat slechts gedur
 
 ##### Artikel 6. Subsidieaanvrager
 
-1. De subsidie met betrekking tot een project op het gebied van een actie als bedoeld in [artikel 4, onderdelen a, b, c en i](https://wetten.overheid.nl/jci1.3:c:BWBR0036487&artikel=4&z=2015-10-15&g=2015-10-15), wordt aangevraagd door de als zodanig geregistreerde subsidieaanvrager, die per actie is aangewezen in de [bijlagen A tot en met C](https://wetten.overheid.nl/jci1.3:c:BWBR0036487&bijlage=A&z=2015-10-15&g=2015-10-15) bij deze regeling.
+1. De subsidie met betrekking tot een project op het gebied van een actie als bedoeld in [artikel 4, onderdelen a, b, c en i](https://wetten.overheid.nl/jci1.3:c:BWBR0036487&artikel=4&z=2016-05-12&g=2016-05-12), wordt aangevraagd door de als zodanig geregistreerde subsidieaanvrager, die per actie is aangewezen in de [bijlagen A tot en met C](https://wetten.overheid.nl/jci1.3:c:BWBR0036487&bijlage=A&z=2016-05-12&g=2016-05-12) bij deze regeling.
 
-2. De registratie als subsidieaanvrager, bedoeld in het eerste lid, vindt plaats bij de gedelegeerde instantie, bedoeld in [artikel 3, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036487&artikel=3&z=2015-10-15&g=2015-10-15), onder gebruikmaking van een daartoe door de minister elektronisch beschikbaar gesteld formulier.
+2. De registratie als subsidieaanvrager, bedoeld in het eerste lid, vindt plaats bij de gedelegeerde instantie, bedoeld in [artikel 3, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036487&artikel=3&z=2016-05-12&g=2016-05-12), onder gebruikmaking van een daartoe door de minister elektronisch beschikbaar gesteld formulier.
 
-3. De subsidie met betrekking tot een project op het gebied van een actie als bedoeld in [artikel 4, onderdelen d tot en met h](https://wetten.overheid.nl/jci1.3:c:BWBR0036487&artikel=4&z=2015-10-15&g=2015-10-15), wordt aangevraagd door de subsidieaanvrager, die per actie is aangewezen in de [bijlagen D tot en met H](https://wetten.overheid.nl/jci1.3:c:BWBR0036487&bijlage=D&z=2015-10-15&g=2015-10-15) bij deze regeling.
+3. De subsidie met betrekking tot een project op het gebied van een actie als bedoeld in [artikel 4, onderdelen d tot en met h](https://wetten.overheid.nl/jci1.3:c:BWBR0036487&artikel=4&z=2016-05-12&g=2016-05-12), wordt aangevraagd door de subsidieaanvrager, die per actie is aangewezen in de [bijlagen D tot en met H](https://wetten.overheid.nl/jci1.3:c:BWBR0036487&bijlage=D&z=2016-05-12&g=2016-05-12) bij deze regeling.
 
 ##### Artikel 7. De subsidieaanvraag
 
@@ -148,7 +150,7 @@ De mogelijkheid tot het indienen van aanvragen om subsidie bestaat slechts gedur
 
 3. De subsidieaanvraag bevat in ieder geval een projectbeschrijving met bijbehorende begroting en financieringsplan.
 
-4. De subsidieaanvraag met betrekking tot een project op het gebied van een actie als bedoeld in [artikel 4, onderdelen a tot en met c](https://wetten.overheid.nl/jci1.3:c:BWBR0036487&artikel=4&z=2015-10-15&g=2015-10-15), wordt ingediend onder gebruikmaking van een daartoe door de minister elektronisch beschikbaar gesteld formulier. De overige aanvragen worden ingediend onder gebruikmaking van een daartoe door de minister niet-elektronisch beschikbaar gesteld formulier.
+4. De subsidieaanvraag met betrekking tot een project op het gebied van een actie als bedoeld in [artikel 4, onderdelen a tot en met c](https://wetten.overheid.nl/jci1.3:c:BWBR0036487&artikel=4&z=2016-05-12&g=2016-05-12), wordt ingediend onder gebruikmaking van een daartoe door de minister elektronisch beschikbaar gesteld formulier. De overige aanvragen worden ingediend onder gebruikmaking van een daartoe door de minister niet-elektronisch beschikbaar gesteld formulier.
 
 5. De subsidieaanvraag bevat in ieder geval:
 
@@ -170,7 +172,7 @@ De mogelijkheid tot het indienen van aanvragen om subsidie bestaat slechts gedur
 
 7. Op de aanvraag wordt uiterlijk achttien weken na afloop van het aanvraagtijdvak beschikt.
 
-8. In afwijking van het vorige lid wordt op een aanvraag met betrekking tot een project op het gebied van een actie als bedoeld in [artikel 4, onderdelen d tot en met h](https://wetten.overheid.nl/jci1.3:c:BWBR0036487&artikel=4&z=2015-10-15&g=2015-10-15) uiterlijk achttien weken na ontvangst van de volledige aanvraag beschikt.
+8. In afwijking van het vorige lid wordt op een aanvraag met betrekking tot een project op het gebied van een actie als bedoeld in [artikel 4, onderdelen d tot en met h](https://wetten.overheid.nl/jci1.3:c:BWBR0036487&artikel=4&z=2016-05-12&g=2016-05-12) uiterlijk achttien weken na ontvangst van de volledige aanvraag beschikt.
 
 9. Een aanvraag is volledig wanneer het formulier en de bijbehorende bijlagen volledig en juist zijn ingevuld en zijn ontvangen door de gedelegeerde instantie, zodat op basis van de verstrekte informatie de aanvraag kan worden beoordeeld.
 
@@ -178,7 +180,7 @@ De mogelijkheid tot het indienen van aanvragen om subsidie bestaat slechts gedur
 
 ##### Artikel 8. Rangschikking
 
-1. Subsidieaanvragen met betrekking tot een actie als bedoeld in [artikel 4, onderdelen a tot en met c](https://wetten.overheid.nl/jci1.3:c:BWBR0036487&artikel=4&z=2015-10-15&g=2015-10-15), worden getoetst en gerangschikt aan de hand van het in [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBR0036487&bijlage=I&z=2015-10-15&g=2015-10-15) opgenomen puntenstelsel. Projecten die in hogere mate voldoen aan de criteria van het puntenstelsel hebben voorrang op de projecten die in mindere mate aan deze criteria voldoen.
+1. Subsidieaanvragen met betrekking tot een actie als bedoeld in [artikel 4, onderdelen a tot en met c](https://wetten.overheid.nl/jci1.3:c:BWBR0036487&artikel=4&z=2016-05-12&g=2016-05-12), worden getoetst en gerangschikt aan de hand van het in [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBR0036487&bijlage=I&z=2016-05-12&g=2016-05-12) opgenomen puntenstelsel. Projecten die in hogere mate voldoen aan de criteria van het puntenstelsel hebben voorrang op de projecten die in mindere mate aan deze criteria voldoen.
 
 2. Bij gelijke waardering bepaalt het tijdstip van ontvangst van de volledige aanvraag de volgorde, waarbij de volledige subsidieaanvraag die op een eerder tijdstip door de minister is ontvangen een hogere rangorde heeft dan een volledige subsidieaanvraag die op een later tijdstip is ontvangen.
 
@@ -194,7 +196,7 @@ De mogelijkheid tot het indienen van aanvragen om subsidie bestaat slechts gedur
 
 2. De minister verleent de subsidie voor het verrichten van het project, zoals vastgelegd in de bij de subsidieaanvraag gevoegde projectbeschrijving.
 
-3. De beschikking vermeldt in ieder geval de periode, de totale subsidiabele kosten, het maximumbedrag van de subsidie, alsmede – indien van toepassing – de doelgroep van het project. Bij de bepaling van het maximumbedrag van de subsidie wordt uitgegaan van het totaal van de in [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0036487&artikel=12&z=2015-10-15&g=2015-10-15) genoemde kosten van het project, zoals door de subsidieaanvrager geraamd in zijn subsidieaanvraag, met dien verstande dat bepaalde, in de beschikking te vermelden kostenposten buiten beschouwing kunnen worden gelaten dan wel op een lager bedrag kunnen worden bepaald.
+3. De beschikking vermeldt in ieder geval de periode, de totale subsidiabele kosten, het maximumbedrag van de subsidie, alsmede – indien van toepassing – de doelgroep van het project. Bij de bepaling van het maximumbedrag van de subsidie wordt uitgegaan van het totaal van de in [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0036487&artikel=12&z=2016-05-12&g=2016-05-12) genoemde kosten van het project, zoals door de subsidieaanvrager geraamd in zijn subsidieaanvraag, met dien verstande dat bepaalde, in de beschikking te vermelden kostenposten buiten beschouwing kunnen worden gelaten dan wel op een lager bedrag kunnen worden bepaald.
 
 ##### Artikel 10. Weigering van de subsidie
 
@@ -224,13 +226,11 @@ Een aanvraag tot verlening van subsidie kan in ieder geval door de minister gehe
 
 - l. de subsidiabele kosten minder dan € 400.000 bedragen;
 
-- m. voor een subsidieaanvraag met betrekking tot een actie als bedoeld in [artikel 4, onderdelen a tot en met c](https://wetten.overheid.nl/jci1.3:c:BWBR0036487&artikel=4&z=2015-10-15&g=2015-10-15), op grond van [artikel 8, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036487&artikel=8&z=2015-10-15&g=2015-10-15), minder dan 60 punten worden toegekend.
+- m. voor een subsidieaanvraag met betrekking tot een actie als bedoeld in [artikel 4, onderdelen a tot en met c](https://wetten.overheid.nl/jci1.3:c:BWBR0036487&artikel=4&z=2016-05-12&g=2016-05-12), op grond van [artikel 8, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036487&artikel=8&z=2016-05-12&g=2016-05-12), minder dan 60 punten worden toegekend.
 
 ##### Artikel 11. Hoogte van de subsidie
 
-1. De subsidie ten behoeve van projecten als bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0036487&artikel=4&z=2015-10-15&g=2015-10-15) bedraagt maximaal 75% van de subsidiabele kosten, doch ten hoogste het in de beschikking tot subsidieverlening vermelde maximumbedrag.
-
-2. Indien de subsidieaanvrager bij zijn subsidieaanvraag een schriftelijke toezegging heeft gedaan dan wel uit de einddeclaratie blijkt dat hij meer dan 25% van de subsidiabele kosten voor eigen rekening neemt, dan wel meer dan 25% van de subsidiabele kosten uit een andere financieringsbron wordt bekostigd, wordt het bedrag van de subsidie verlaagd met het meerdere.
+De subsidie ten behoeve van projecten als bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0036487&artikel=4&z=2016-05-12&g=2016-05-12) bedraagt maximaal 75% van de subsidiabele kosten, doch ten hoogste het in de beschikking tot subsidieverlening vermelde maximumbedrag.
 
 ##### Artikel 12. Subsidiabele kosten
 
@@ -256,7 +256,7 @@ Een aanvraag tot verlening van subsidie kan in ieder geval door de minister gehe
 
 4. De kosten van vrijwilligers worden berekend volgens de regels die zijn opgenomen in het Handboek Loonheffingen van de Belastingdienst.
 
-5. Om voor subsidie in aanmerking te komen dient voor opdrachten met een financieel belang van hoger dan € 20.000 de marktconformiteit aangetoond te worden. Voor opdrachten tot € 50.000 kan worden volstaan met een benchmarkprocedure. Voor opdrachten hoger of gelijk aan € 50.000 dient martkconformiteit te worden aangetoond door middel van een vergelijk van drie offertes, een niet-openbare aanbestedingsprocedure of een openbare aanbestedingsprocedure.
+5. Om voor subsidie in aanmerking te komen dient voor opdrachten met een financieel belang van hoger dan € 20.000 de marktconformiteit aangetoond te worden. Voor opdrachten tot € 50.000 kan worden volstaan met een benchmarkprocedure. Voor opdrachten hoger of gelijk aan € 50.000 dient marktconformiteit te worden aangetoond door middel van een vergelijk van drie offertes, een niet-openbare aanbestedingsprocedure of een openbare aanbestedingsprocedure.
 
 6. In afwijking van het eerste lid zijn kosten gemaakt door verbonden organisaties slechts subsidiabel op basis van directe loonkosten als bedoeld in het eerste lid, onderdeel a.
 
@@ -278,6 +278,18 @@ Een aanvraag tot verlening van subsidie kan in ieder geval door de minister gehe
 
 9. De kosten, bedoeld in het eerste lid, zijn daadwerkelijk gemaakt en betaald, waarbij de kosten ten laste van het project zijn gebleven en rechtstreeks aan de uitvoering of het beheer van het project zijn toe te rekenen.
 
+10. Voor internationale organisaties is het eerste lid, onderdeel a, niet van toepassing. Voor internationale organisaties bestaan de directe loonkosten uit:
+
+- a. de eigenlijke salarissen, mits deze kosten het gebruikelijke loonbeleid van de subsidieontvanger weerspiegelen;
+
+- b. sociale zekerheidsbijdragen mits deze kosten het gebruikelijke loonbeleid van de subsidieontvanger weerspiegelen;
+
+- c. andere statutaire kosten, mits deze kosten het gebruikelijke loonbeleid van de subsidieontvanger weerspiegelen, en
+
+- d. voorzieningen ter dekking van statutaire verplichtingen en rechten in verband met de bezoldiging.
+
+11. Voor internationale organisaties is het tweede lid niet van toepassing. Voor internationale organisaties worden de directe projectkosten, bedoeld in het eerste en tiende lid, verhoogd met een opslag van 7% ter dekking van de indirecte kosten.
+
 ##### Artikel 13. Niet subsidiabele kosten
 
 Niet voor subsidiëring komen in aanmerking:
@@ -292,7 +304,7 @@ Niet voor subsidiëring komen in aanmerking:
 
 - e. belasting over de toegevoegde waarde, behalve indien deze krachtens het nationale recht inzake belasting over de toegevoegde waarde niet terug vorderbaar is;
 
-- f. binnenlandse reiskosten en verblijfskosten;
+- f. binnenlandse reiskosten en verblijfskosten met uitzondering van binnenlandse verblijfskosten van uit het buitenland afkomstige deelnemers van voor het project noodzakelijke bijeenkomsten die in Nederland plaatsvinden;
 
 - g. fooien en geschenken;
 
@@ -302,11 +314,11 @@ Niet voor subsidiëring komen in aanmerking:
 
 - j. kapitaalopbrengsten, schulden en kosten van schulden, rente op schulden, commissies voor het wisselen van geld en wisselkoersverliezen, voorzieningen voor eventuele toekomstige verliezen of schulden, verschuldigde rente, dubieuze vorderingen, boetes, financiële sancties, gerechtskosten en buitensporige of roekeloze uitgaven;
 
-- k. verbruiksgoederen, benodigdheden en algemene diensten inclusief kosten voor telefoon en internet;
+- k. verbruiksgoederen, benodigdheden en algemene diensten inclusief kosten voor telefoon en internet ten behoeve van de uitvoering van het project;
 
 - l. kosten gemaakt buiten de projectperiode, die benoemd is in de beschikking tot subsidieverlening, met uitzondering van de kosten voor de directe loonkosten projectcoördinatie en -administratie en de externe kosten projectcoördinatie en -administratie ten behoeve van het opstellen van de einddeclaratie tot aan het moment van indienen van het verzoek tot vaststelling;
 
-- m. bijdragen in natura, met uitzondering van de kosten, bedoeld in [artikel 12, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036487&artikel=12&z=2015-10-15&g=2015-10-15);
+- m. bijdragen in natura ten behoeve van de cofinanciering van het project, met uitzondering van de kosten, bedoeld in [artikel 12, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036487&artikel=12&z=2016-05-12&g=2016-05-12);
 
 - n. kosten die reeds uit anderen hoofde worden gefinancierd ten laste van Europese subsidieprogramma’s;
 
@@ -332,7 +344,7 @@ Niet voor subsidiëring komen in aanmerking:
 
 5. Indien er in het project sprake is van deelnemers geeft de deelnemersadministratie inzicht in de subsidiabiliteit van de individuele deelnemer zelf en de verrichte activiteiten en behaalde resultaten per individuele deelnemer.
 
-6. Ter zake van de directe loonkosten en de kosten, bedoeld in [artikel 12, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036487&artikel=12&z=2015-10-15&g=2015-10-15), dient een door middel van een inzichtelijk tijdschrijfsysteem controleerbare urenverantwoording per werknemer aanwezig te zijn of een krachtens naar behoren gemotiveerd besluit van de organisatie waaruit blijkt dat de werknemer wordt ingezet voor taken die specifiek verband houden met de uitvoering van het project.
+6. Ter zake van de directe loonkosten en de kosten, bedoeld in [artikel 12, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036487&artikel=12&z=2016-05-12&g=2016-05-12), dient een door middel van een inzichtelijk tijdschrijfsysteem controleerbare urenverantwoording per werknemer aanwezig te zijn of een krachtens naar behoren gemotiveerd besluit van de organisatie waaruit blijkt dat de werknemer wordt ingezet voor taken die specifiek verband houden met de uitvoering van het project.
 
 7. De subsidieontvanger verstrekt desgevraagd aan door de minister dan wel door de Europese Commissie daartoe aangewezen instanties inzage in of informatie uit de administratie. Tevens verstrekt hij de voornoemde instanties desgevraagd informatie over de projecten die voor monitoring en evaluatiedoeleinden gebruikt kunnen worden.
 
@@ -340,7 +352,7 @@ Niet voor subsidiëring komen in aanmerking:
 
 1. De subsidieontvanger bewaart alle administratieve bescheiden die betrekking hebben op het gesubsidieerde project tot tenminste 31 december 2027 dan wel tot een nader door de minister aan de subsidieontvanger schriftelijk bekend te maken termijn. Indien de Europese Commissie, vanwege een gerechtelijke procedure of een met redenen omkleed verzoek de bewaartermijn schorst, maakt de minister de gevolgen voor de bewaartermijn, in de Staatscourant bekend.
 
-2. Van alle administratieve bescheiden wordt het origineel bewaard. Hiervan kan worden afgeweken, indien het origineel conform de procedure in [bijlage J](https://wetten.overheid.nl/jci1.3:c:BWBR0036487&bijlage=J&z=2015-10-15&g=2015-10-15) behorende bij deze regeling, wordt overgezet en bewaard op een andere gegevensdrager. Het overbrengen op een andere gegevensdrager geschiedt met juiste en volledige weergave van de gegevens en deze is de volledige bewaartermijn beschikbaar en kan binnen een redelijke tijd leesbaar worden gemaakt.
+2. Van alle administratieve bescheiden wordt het origineel bewaard. Hiervan kan worden afgeweken, indien het origineel conform de procedure in [bijlage J](https://wetten.overheid.nl/jci1.3:c:BWBR0036487&bijlage=J&z=2016-05-12&g=2016-05-12) behorende bij deze regeling, wordt overgezet en bewaard op een andere gegevensdrager. Het overbrengen op een andere gegevensdrager geschiedt met juiste en volledige weergave van de gegevens en deze is de volledige bewaartermijn beschikbaar en kan binnen een redelijke tijd leesbaar worden gemaakt.
 
 3. De administratie is zodanig ingericht en wordt zodanig gevoerd en bewaard, dat controle daarvan binnen een redelijke termijn mogelijk is. Daartoe verleent de subsidieontvanger de benodigde medewerking met inbegrip van het verschaffen van het benodigde inzicht in de opzet en de werking van de administratie.
 
@@ -350,19 +362,23 @@ Niet voor subsidiëring komen in aanmerking:
 
 ##### Artikel 17. Rapportageverplichtingen
 
-1. Indien de projectduur langer is dan 12 maanden, wordt binnen 4 weken na afloop van een periode van 12 maanden na de datum van de subsidieverlening onder gebruikmaking van het daartoe door de minister ten behoeve van een project op het gebied van een actie als bedoeld in [artikel 4, onderdelen a tot en met c](https://wetten.overheid.nl/jci1.3:c:BWBR0036487&artikel=4&z=2015-10-15&g=2015-10-15), elektronisch beschikbaar gestelde formulier een voortgangsrapportage ingediend, waarin rekening en verantwoording wordt afgelegd over de voortgang van het project waarvoor subsidie is verleend in die periode. Voor de overige projecten wordt een voortgangsrapportage ingediend onder gebruikmaking van een daartoe door de minister niet-elektronisch beschikbaar gesteld formulier.
+1. Indien de projectduur langer is dan 12 maanden wordt jaarlijks op 15 november onder gebruikmaking van het daartoe door de minister ten behoeve van een project op het gebied van een actie als bedoeld in [artikel 4, onderdelen a tot en met c](https://wetten.overheid.nl/jci1.3:c:BWBR0036487&artikel=4&z=2016-05-12&g=2016-05-12), elektronisch beschikbaar gestelde formulier een voortgangsrapportage ingediend, waarin rekening en verantwoording wordt afgelegd over de voortgang van het project waarover subsidie is verleend. Voor de overige projecten wordt een voortgangsrapportage ingediend onder gebruikmaking van een daartoe door de minister niet-elektronisch beschikbaar gesteld formulier
 
-2. Indien er omstandigheden optreden, die de voortgang, inhoud of de administratieve organisatie van het project substantieel wijzigen of die anderszins belangrijke gevolgen kunnen hebben voor het recht op subsidie, doet de subsidieontvanger hiervan onverwijld mededeling aan de minister.
+2. De voortgangsrapportage, bedoeld in het eerste lid, ziet op de periode vanaf de startdatum van het project tot en met 15 oktober. Vervolgens wordt steeds gerapporteerd over de aansluitende periode vanaf 16 oktober tot en met 15 oktober, of zoveel korter tot de einddatum van het project.
 
-3. De subsidieontvanger verleent aan door de minister dan wel door de Europese Commissie daartoe aangewezen instanties medewerking aan het opstellen van evaluatierapporten met betrekking tot deze regeling, en draagt, indien het gesubsidieerde project niet in eigen beheer wordt uitgevoerd, er zorg voor dat de feitelijke uitvoerder van het project deze medewerking verleent.
+3. De subsidieontvanger verstrekt naast de voortgangsrapportage op verzoek aan de minister informatie over de voortgang.
 
-4. Indien binnen drie jaar na afloop van het project sprake is van faillissement of overgang van eigendom van een door het project gefinancierde onderneming, meldt de subsidieontvanger dit aan de minister.
+4. Indien er omstandigheden optreden, die de voortgang, inhoud of de administratieve organisatie van het project substantieel wijzigen of die anderszins belangrijke gevolgen kunnen hebben voor het recht op subsidie, doet de subsidieontvanger hiervan onverwijld mededeling aan de minister.
+
+5. De subsidieontvanger verleent aan door de minister dan wel door de Europese Commissie daartoe aangewezen instanties medewerking aan het opstellen van evaluatierapporten met betrekking tot deze regeling, en draagt, indien het gesubsidieerde project niet in eigen beheer wordt uitgevoerd, er zorg voor dat de feitelijke uitvoerder van het project deze medewerking verleent.
+
+6. Indien binnen drie jaar na afloop van het project sprake is van faillissement of overgang van eigendom van een door het project gefinancierde onderneming, meldt de subsidieontvanger dit aan de minister.
 
 ##### Artikel 18. Einddeclaratie en subsidievaststelling
 
 1. De subsidieontvanger dient binnen dertien weken na beëindiging van het project een verzoek tot vaststelling van de subsidie in bij de minister. Bij het verzoek tot vaststelling van de subsidie wordt een verantwoording en een einddeclaratie gevoegd.
 
-2. Het verzoek tot vaststelling met betrekking tot een project op het gebied van een actie als bedoeld in [artikel 4, onderdelen a tot en met c](https://wetten.overheid.nl/jci1.3:c:BWBR0036487&artikel=4&z=2015-10-15&g=2015-10-15), wordt ingediend onder gebruikmaking van een daartoe door de minister elektronisch beschikbaar gesteld formulier, voorzien van de vereiste bijlagen. De overige verzoeken tot vaststelling worden ingediend onder gebruikmaking van een daartoe door de minister niet-elektronisch beschikbaar gesteld formulier.
+2. Het verzoek tot vaststelling met betrekking tot een project op het gebied van een actie als bedoeld in [artikel 4, onderdelen a tot en met c](https://wetten.overheid.nl/jci1.3:c:BWBR0036487&artikel=4&z=2016-05-12&g=2016-05-12), wordt ingediend onder gebruikmaking van een daartoe door de minister elektronisch beschikbaar gesteld formulier, voorzien van de vereiste bijlagen. De overige verzoeken tot vaststelling worden ingediend onder gebruikmaking van een daartoe door de minister niet-elektronisch beschikbaar gesteld formulier.
 
 3. De minister stelt binnen 12 maanden na ontvangst van het verzoek tot vaststelling van de subsidie de subsidie vast.
 
@@ -420,7 +436,7 @@ Deze regeling wordt aangehaald als: Subsidieregeling AMIF en ISF 2014–2020.
 
 ##### Artikel 23. Inwerkingtreding
 
-Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst, met dien verstande dat voor subsidieaanvragen met betrekking tot een project op het gebied van een actie als bedoeld in [artikel 4, onderdelen d tot en met h](https://wetten.overheid.nl/jci1.3:c:BWBR0036487&artikel=4&z=2015-10-15&g=2015-10-15), deze regeling terugwerkt tot en met 1 januari 2015.
+Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst, met dien verstande dat voor subsidieaanvragen met betrekking tot een project op het gebied van een actie als bedoeld in [artikel 4, onderdelen d tot en met h](https://wetten.overheid.nl/jci1.3:c:BWBR0036487&artikel=4&z=2016-05-12&g=2016-05-12), deze regeling terugwerkt tot en met 1 januari 2015.
 
 ## Bijlage A. , behorende bij [artikel 4, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0036487&artikel=4&z=2015-10-15&g=2015-10-15)
 
@@ -436,13 +452,13 @@ Subsidieaanvragen met betrekking tot een project in het kader van deze bijlage w
 
 ### Artikel A3. Subsidieplafond
 
+### Artikel A3. Subsidieplafond
+
 ### Artikel A4. Doel en doelgroepen
 
 ### Artikel A5. Subsidiabele activiteiten
 
 ### Artikel A6. Aanvullende eisen aanvraag
-
-### Artikel A7. Specifieke eisen aan het project
 
 ## Bijlage B. , behorende bij [artikel 4, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0036487&artikel=4&z=2015-10-15&g=2015-10-15)
 
@@ -462,9 +478,9 @@ Het maximaal beschikbare bedrag voor het verlenen van subsidie bedraagt voor het
 
 ### Artikel B4. Doel en doelgroep
 
-### Artikel B5. Subsidiabele activiteiten:
+### Artikel B4. Doel en doelgroep
 
-### Artikel B6. Aanvullende eisen aanvraag
+### Artikel B5. Subsidiabele activiteiten:
 
 In aanvulling op [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0036487&artikel=7&z=2015-10-15&g=2015-10-15) bevat de projectbeschrijving:
 
@@ -484,21 +500,25 @@ Subsidieaanvragen met betrekking tot een project in het kader van deze bijlage w
 
 ### Artikel C3. Subsidieplafond
 
+### Artikel C3. Subsidieplafond
+
 ### Artikel C4. Doel en doelgroepen
 
 ### Artikel C5. Subsidiabele activiteiten
-
-### Artikel C6. Aanvullende eisen aanvraag
 
 1. Projecten worden altijd uitgevoerd in samenwerking met of na afstemming met de Dienst Terugkeer en Vertrek. Over de voortgang van de ondersteuningstrajecten wordt op zaaks niveau informatie uitgewisseld met de Dienst Terugkeer en Vertrek. Een bewijs van de afspraken met de Dienst Terugkeer en Vertrek wordt bijgevoegd bij de aanvraag.
 
 ### Artikel C7. Specifieke eisen aan het project
 
-### Artikel C8. Hoogte van de subsidie
+### Artikel C7. Specifieke eisen aan het project
 
 ## Bijlage D. , behorende bij [artikel 4, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0036487&artikel=4&z=2015-10-15&g=2015-10-15)
 
-Specifieke bepalingen met betrekking tot subsidieaanvragen voor actie D als bedoeld in [artikel 4, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0036487&artikel=4&z=2015-10-15&g=2015-10-15): financieel rechercheren.
+Voor projecten of samengestelde projecten die zich richten op de activiteiten, bedoeld in artikel C5, eerste lid, onder a, b en c, kan maximaal 50% financiering worden aangevraagd. Indien projecten zich richten op een van deze activiteiten geldt dit percentage voor de gehele aanvraag.
+
+### Artikel D1. Subsidieaanvrager
+
+Specifieke bepalingen met betrekking tot subsidieaanvragen voor actie D als bedoeld in [artikel 4, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0036487&artikel=4&z=2016-05-12&g=2016-05-12): financieel rechercheren.
 
 ### Artikel D1. Subsidieaanvrager
 
@@ -513,10 +533,6 @@ Subsidieaanvragen met betrekking tot een project in het kader van deze bijlage w
 Het maximaal beschikbare bedrag voor het verlenen van subsidie voor het aanvraagtijdvak, bedoeld in artikel D2, bedraagt € 9.921.161,50.
 
 ### Artikel D4. Subsidiabele activiteiten
-
-Projecten zijn uitsluitend gericht op activiteiten die zien op:
-
-### Artikel D5. Specifieke eisen aan het project
 
 ### Artikel D6. Hoogte van de subsidie
 
@@ -548,9 +564,9 @@ Een project is uitsluitend gericht op het implementeren van niveau 1 of 2 van he
 
 ## Bijlage F. , behorende bij [artikel 4, onderdeel f](https://wetten.overheid.nl/jci1.3:c:BWBR0036487&artikel=4&z=2015-10-15&g=2015-10-15)
 
-Specifieke bepalingen met betrekking tot aanvragen in het kader van actie F, als bedoeld in [artikel 4, onderdeel f](https://wetten.overheid.nl/jci1.3:c:BWBR0036487&artikel=4&z=2015-10-15&g=2015-10-15): verbeteren van slachtofferzorg.
+Een project is uitsluitend gericht op het implementeren van niveau 1 of 2 van het Europees opleidingsprogramma voor Rechtshandhaving, waaronder het ontwikkelen en onderhouden van een e-learning module ter implementatie van niveau 1 van het Europees opleidingsprogramma voor Rechtshandhaving, het opzetten van de inhoudelijke kant van de training voor niveau 1 en 2 en het ontwikkelen van trainingen om met de e-learning module te kunnen werken.
 
-### Artikel F1. Subsidieaanvrager
+### Artikel E6. specifieke eisen aan het project
 
 De subsidie wordt aangevraagd door de politie, als bedoeld in [artikel 25, eerste lid, van de Politiewet 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&artikel=25).
 
@@ -568,9 +584,9 @@ Voor subsidie komen uitsluitend activiteiten die de Richtlijn tot vaststelling v
 
 ### Artikel F5. Specifieke eisen aan het project
 
-### Artikel F6. Verantwoording
+### Artikel F4. Subsidiabele activiteiten
 
-Na verlening van de subsidie wordt het verleende subsidiebedrag in de begroting van de politie opgenomen en worden de uitgaven verantwoord in de jaarrekening.
+Voor subsidie komen uitsluitend activiteiten die de Richtlijn tot vaststelling van minimumnormen voor de rechten, de ondersteuning en de bescherming van slachtoffers van strafbare feiten ([richtlijn 2012/29](32012L0029)/EU) bij de politie implementeren in aanmerking, waaronder:
 
 ## Bijlage G. , behorend bij [artikel 4, onderdeel g](https://wetten.overheid.nl/jci1.3:c:BWBR0036487&artikel=4&z=2015-10-15&g=2015-10-15)
 
@@ -594,11 +610,19 @@ Projecten zijn uitsluitend gericht op een of meer van de volgende activiteiten:
 
 ### Artikel G5. Specifieke eisen aan het project
 
-### Artikel G6. Hoogte van de subsidie
+### Artikel G4. Subsidiabele activiteiten
 
 ## Bijlage H. , behorende bij [artikel 4, onderdeel h](https://wetten.overheid.nl/jci1.3:c:BWBR0036487&artikel=4&z=2015-10-15&g=2015-10-15)
 
 Specifieke bepalingen met betrekking tot de actie, genoemd in [artikel 4, onderdeel h](https://wetten.overheid.nl/jci1.3:c:BWBR0036487&artikel=4&z=2015-10-15&g=2015-10-15): management van de externe EU-grenzen, zowel op visa als op grenzen.
+
+### Artikel G6. Hoogte van de subsidie
+
+In afwijking van [artikel 11, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036487&artikel=11&z=2016-05-12&g=2016-05-12), bedraagt de subsidie maximaal 90% van de subsidiabele kosten doch ten hoogste het in de beschikking tot subsidieverlening vermelde maximumbedrag.
+
+### Artikel H2. Aanvraagtijdvak
+
+Specifieke bepalingen met betrekking tot de actie, genoemd in [artikel 4, onderdeel h](https://wetten.overheid.nl/jci1.3:c:BWBR0036487&artikel=4&z=2016-05-12&g=2016-05-12): management van de externe EU-grenzen, zowel op visa als op grenzen.
 
 ### Artikel H1. Subsidieaanvrager
 
@@ -606,21 +630,13 @@ De subsidie wordt aangevraagd door het Ministerie van Buitenlandse Zaken, de Imm
 
 ### Artikel H2. Aanvraagtijdvak
 
-Subsidieaanvragen met betrekking tot een project in het kader van deze bijlage worden door de minister ontvangen in het aanvraagtijdvak van 12 mei 2015, 09.00 uur, tot en met 12 juni 2015, 17.00 uur.
+Subsidieaanvragen met betrekking tot een project in het kader van deze bijlage worden door de minister ontvangen in het aanvraagtijdvak van 1 februari 2016, 09.00 uur, tot en met 31 december 2018, 17.00 uur.
 
 ### Artikel H3. Subsidieplafond
 
 Het maximaal beschikbare bedrag voor het verlenen van subsidie bedraagt voor het aanvraagtijdvak genoemd in artikel H2 € 28.579.066.
 
-### Artikel H4. Doelgroep
-
-Een project is gericht op personen die de buitengrenzen van de Europese Unie overschrijden.
-
-### Artikel H5. Subsidiabele activiteiten
-
-Voor subsidie komen uitsluitend activiteiten die het management van de buitengrenzen van de Europese Unie ondersteunen in aanmerking, en zien op:
-
-### Artikel H6. Specifieke eisen aan het project
+### Artikel H4
 
 ### Artikel H7. Aanvullende eisen aanvraag
 
@@ -671,6 +687,14 @@ De projectbeschrijving bevat een beschrijving van de partijen met wie wordt same
 
 ## Bijlage J. behorende bij [artikel 16, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036487&artikel=16&z=2015-10-15&g=2015-10-15)
 
+### Artikel H7. Aanvullende eisen aanvraag
+
+De projectbeschrijving bevat een beschrijving van de partijen met wie wordt samengewerkt om het project te realiseren.
+
+De volgende documenten worden als bewijsstukken geaccepteerd:
+
+Specifieke bepalingen met betrekking tot de actie, genoemd in [artikel 4, onderdeel i](https://wetten.overheid.nl/jci1.3:c:BWBR0036487&artikel=4&z=2017-02-18&g=2016-05-12): specifieke maatregelen.
+
 ### Procedure betreffende gebruik geconverteerde documenten of gegevensdragers en digitale bewijsstukken
 
 In het kader van de verantwoording op de einddeclaratie onderbouwt de subsidieontvanger de kosten met originele bewijsstukken. Artikel 31 van de Horizontale verordening maakt het mogelijk kopieën of volledig digitale documenten te accepteren als bewijsstuk. Hiertoe moet door de lidstaat een procedure voor de vaststelling van de authenticiteit worden opgesteld. In deze bijlage worden de door Nederland vastgestelde procedures weergegeven.
@@ -679,21 +703,13 @@ De volgende documenten worden als bewijsstukken geaccepteerd:
 
 Hieronder staan de procedures om deze stukken te kunnen gebruiken als geaccepteerde bewijsstukken in het kader van de AMIF- en ISF-administratie.
 
-### Procedure voor het gebruik van de documenten, genoemd in de onderdelen a, b en c.
-
-De hierboven genoemde bewijsstukken a, b en c zijn geconverteerde documenten of gegevensdragers. Bij conversie van het origineel naar het geconverteerde document of gegevensdrager wordt aan de hieronder vermelde voorwaarden voldaan:
-
-Het in samenhang bezien van de verschillende bewijsstukken strekt er mede toe de authenticiteit van het geconverteerde document of de gegevensdrager te waarborgen en dat hierop voor controledoeleinden kan worden vertrouwd.
-
-Als de conversie op de juiste wijze gebeurt, is het in het kader van de AMIF/ISF-verantwoording, niet meer noodzakelijk de bewijsstukken op de originele gegevensdrager te bewaren. Het geconverteerde bewijsstuk mag na conversie niet meer gewijzigd kunnen worden.
-
 De subsidieaanvrager verklaart door middel van het aanvraag-, tussendeclaratie- en einddeclaratieformulier dat de geconverteerde documenten of de nieuwe gegevensdragers die onderdeel zijn van de AMIF/ISF-administratie, voldoen aan de vereisten uit [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBR0036487&artikel=16&z=2015-10-15&g=2015-10-15) van de Subsidieregeling AMIF en ISF 2014–2020 en daarmee aan deze bijlage.
 
 ### Procedure voor het bewaren van stukken die uitsluitend in elektronische versie bestaan (onderdeel d)
 
-Indien een subsidieontvanger gebruik maakt van elektronische documenten waarbij uitsluitend een elektronische versie bestaat, worden de geautomatiseerde systemen voorzien van beheers- en beveiligingsmaatregelen die de betrouwbaarheid, authenticiteit en integriteit van de elektronische gegevens gedurende de gehele vereiste bewaartermijn waarborgen. Het is aan de subsidieontvanger om dit aan te tonen. Voor een tweetal veel voorkomende situaties zijn de voorschriften hieronder uitgewerkt.
+Het in samenhang bezien van de verschillende bewijsstukken strekt er mede toe de authenticiteit van het geconverteerde document of de gegevensdrager te waarborgen en dat hierop voor controledoeleinden kan worden vertrouwd.
 
-De in deze bijlage omschreven procedures gelden voor alle bewijsstukken die getoond moeten worden in het kader van de AMIF/ISF-verantwoording. [Artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBR0036487&artikel=16&z=2015-10-15&g=2015-10-15) is onverminderd van toepassing.
+Als de conversie op de juiste wijze gebeurt, is het in het kader van de AMIF/ISF-verantwoording, niet meer noodzakelijk de bewijsstukken op de originele gegevensdrager te bewaren. Het geconverteerde bewijsstuk mag na conversie niet meer gewijzigd kunnen worden.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
@@ -701,9 +717,9 @@ Specifieke bepalingen met betrekking tot de actie, genoemd in [artikel 4, onderd
 
 ### Artikel Ha2. Aanvraagtijdvak
 
-### Artikel Ha4. Subsidiabele activiteiten
+### Artikel Ha2. Aanvraagtijdvak
 
-### Artikel Ha5. Specifieke eisen aan het project
+### Procedure voor het gebruik van de documenten, genoemd in de onderdelen a, b en c.
 
 ## Bijlage I. , behorende bij [artikel 8, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036487&artikel=8&z=2017-02-18&g=2015-10-15)
 
@@ -750,6 +766,14 @@ Specifieke bepalingen met betrekking tot de actie, genoemd in [artikel 4, onderd
 
 ## Bijlage J. behorende bij [artikel 16, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036487&artikel=16&z=2017-02-18&g=2015-10-15)
 
+### Procedure voor het bewaren van stukken die uitsluitend in elektronische versie bestaan (onderdeel d)
+
+Indien een subsidieontvanger gebruik maakt van elektronische documenten waarbij uitsluitend een elektronische versie bestaat, worden de geautomatiseerde systemen voorzien van beheers- en beveiligingsmaatregelen die de betrouwbaarheid, authenticiteit en integriteit van de elektronische gegevens gedurende de gehele vereiste bewaartermijn waarborgen. Het is aan de subsidieontvanger om dit aan te tonen. Voor een tweetal veel voorkomende situaties zijn de voorschriften hieronder uitgewerkt.
+
+De in deze bijlage omschreven procedures gelden voor alle bewijsstukken die getoond moeten worden in het kader van de AMIF/ISF-verantwoording. [Artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBR0036487&artikel=16&z=2016-05-12&g=2016-05-12) is onverminderd van toepassing.
+
+Hieronder staan de procedures om deze stukken te kunnen gebruiken als geaccepteerde bewijsstukken in het kader van de AMIF- en ISF-administratie.
+
 ### Procedure betreffende gebruik geconverteerde documenten of gegevensdragers en digitale bewijsstukken
 
 In het kader van de verantwoording op de einddeclaratie onderbouwt de subsidieontvanger de kosten met originele bewijsstukken. Artikel 31 van de Horizontale verordening maakt het mogelijk kopieën of volledig digitale documenten te accepteren als bewijsstuk. Hiertoe moet door de lidstaat een procedure voor de vaststelling van de authenticiteit worden opgesteld. In deze bijlage worden de door Nederland vastgestelde procedures weergegeven.
@@ -758,20 +782,268 @@ De volgende documenten worden als bewijsstukken geaccepteerd:
 
 Hieronder staan de procedures om deze stukken te kunnen gebruiken als geaccepteerde bewijsstukken in het kader van de AMIF- en ISF-administratie.
 
-### Procedure voor het gebruik van de documenten, genoemd in de onderdelen a, b en c.
+De subsidieaanvrager verklaart door middel van het aanvraag-, tussendeclaratie- en einddeclaratieformulier dat de geconverteerde documenten of de nieuwe gegevensdragers die onderdeel zijn van de AMIF/ISF-administratie, voldoen aan de vereisten uit [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBR0036487&artikel=16&z=2017-02-18&g=2015-10-15) van de Subsidieregeling AMIF en ISF 2014–2020 en daarmee aan deze bijlage.
 
-De hierboven genoemde bewijsstukken a, b en c zijn geconverteerde documenten of gegevensdragers. Bij conversie van het origineel naar het geconverteerde document of gegevensdrager wordt aan de hieronder vermelde voorwaarden voldaan:
+### Procedure voor het bewaren van stukken die uitsluitend in elektronische versie bestaan (onderdeel d)
 
 Het in samenhang bezien van de verschillende bewijsstukken strekt er mede toe de authenticiteit van het geconverteerde document of de gegevensdrager te waarborgen en dat hierop voor controledoeleinden kan worden vertrouwd.
 
 Als de conversie op de juiste wijze gebeurt, is het in het kader van de AMIF/ISF-verantwoording, niet meer noodzakelijk de bewijsstukken op de originele gegevensdrager te bewaren. Het geconverteerde bewijsstuk mag na conversie niet meer gewijzigd kunnen worden.
 
-De subsidieaanvrager verklaart door middel van het aanvraag-, tussendeclaratie- en einddeclaratieformulier dat de geconverteerde documenten of de nieuwe gegevensdragers die onderdeel zijn van de AMIF/ISF-administratie, voldoen aan de vereisten uit [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBR0036487&artikel=16&z=2017-02-18&g=2015-10-15) van de Subsidieregeling AMIF en ISF 2014–2020 en daarmee aan deze bijlage.
+Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
+
+##### Artikel 21a
+
+Deze regeling berust mede op [artikel 48a, vierde lid, van de Wet Justitie-subsidies](https://wetten.overheid.nl/jci1.3:c:BWBR0008121&artikel=48a).
+
+## Bijlage A. , behorende bij [artikel 4, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0036487&artikel=4&z=2016-05-12&g=2016-05-12)
+
+Specifieke bepalingen met betrekking tot de actie, genoemd in [artikel 4, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0036487&artikel=4&z=2016-05-12&g=2016-05-12): het behoud en verbeteren van de kwaliteit van het opvang- en asielstelsel.
+
+### Artikel A1. Subsidieaanvrager
+
+De subsidie wordt aangevraagd door:
+
+### Artikel A2. Aanvraagtijdvak
+
+Subsidieaanvragen met betrekking tot een project in het kader van deze bijlage worden door de minister ontvangen in het aanvraagtijdvak van 12 mei 2015, 09.00 uur, tot en met 12 juni 2015, 17.00 uur.
+
+### Artikel A7. Specifieke eisen aan het project
+
+## Bijlage B. , behorende bij [artikel 4, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0036487&artikel=4&z=2016-05-12&g=2016-05-12)
+
+Specifieke bepalingen met betrekking tot de actie, genoemd in [artikel 4, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0036487&artikel=4&z=2016-05-12&g=2016-05-12): de bevordering van de participatie in de samenleving van onderdanen van een niet-westers derde land en hun naaste verwanten.
+
+### Artikel B1. Subsidieaanvrager
+
+De subsidie wordt aangevraagd door:
+
+### Artikel B2. Aanvraagtijdvak
+
+Subsidieaanvragen met betrekking tot een project in het kader van deze bijlage worden door de minister ontvangen in het aanvraagtijdvak van 12 mei 2015, 09.00 uur, tot en met 12 juni 2015, 17.00 uur.
+
+### Artikel B3. Subsidieplafond
+
+Het maximaal beschikbare bedrag voor het verlenen van subsidie bedraagt voor het aanvraagtijdvak, bedoeld in artikel B2, € 9.290.133.
+
+### Artikel B6. Aanvullende eisen aanvraag
+
+In aanvulling op [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0036487&artikel=7&z=2016-05-12&g=2016-05-12) bevat de projectbeschrijving:
+
+### Artikel B7. Specifieke eisen aan het project
+
+## Bijlage C. , behorende bij [artikel 4, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0036487&artikel=4&z=2016-05-12&g=2016-05-12)
+
+Specifieke bepalingen met betrekking tot de actie, genoemd in [artikel 4, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0036487&artikel=4&z=2016-05-12&g=2016-05-12): de bevordering van terugkeer van vreemdelingen die geen recht op verblijf in Nederland hebben dan wel van vreemdelingen die nog in afwachting zijn van een beslissing op hun verzoek tot verblijf, dan wel van vreemdelingen met een tijdelijk verblijfsrecht.
+
+### Artikel C1. Subsidieaanvrager
+
+De subsidie wordt aangevraagd door:
+
+### Artikel C2. Aanvraagtijdvak
+
+Subsidieaanvragen met betrekking tot een project in het kader van deze bijlage worden door de minister ontvangen in het aanvraagtijdvak van 12 mei 2015, 09.00 uur, tot en met 12 juni 2015, 17.00 uur.
+
+### Artikel C6. Aanvullende eisen aanvraag
+
+Projecten worden altijd uitgevoerd in samenwerking met of na afstemming met de Dienst Terugkeer en Vertrek. Over de voortgang van de ondersteuningstrajecten wordt op zaaks niveau informatie uitgewisseld met de Dienst Terugkeer en Vertrek. Een bewijs van de afspraken met de Dienst Terugkeer en Vertrek wordt bijgevoegd bij de aanvraag.
+
+### Artikel C8. Hoogte van de subsidie
+
+## Bijlage D. , behorende bij [artikel 4, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0036487&artikel=4&z=2016-05-12&g=2016-05-12)
+
+Projecten zijn uitsluitend gericht op activiteiten die zien op:
+
+### Artikel D5. Specifieke eisen aan het project
+
+### Artikel D6. Hoogte van de subsidie
+
+In afwijking van [artikel 11, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036487&artikel=11&z=2016-05-12&g=2016-05-12), bedraagt de subsidie maximaal 90% van de subsidiabele kosten, doch ten hoogste het in de beschikking tot subsidieverlening vermelde maximumbedrag.
+
+## Bijlage E. , behorende bij [artikel 4, onderdeel e](https://wetten.overheid.nl/jci1.3:c:BWBR0036487&artikel=4&z=2016-05-12&g=2016-05-12)
+
+Specifieke bepalingen met betrekking tot subsidieaanvragen in het kader van actie E, als bedoeld in [artikel 4, onderdeel e](https://wetten.overheid.nl/jci1.3:c:BWBR0036487&artikel=4&z=2016-05-12&g=2016-05-12): het Europees opleidingsprogramma voor Rechtshandhaving.
+
+### Artikel E1. Subsidieaanvrager
+
+De subsidie wordt aangevraagd door het Landelijk selectie- en opleidingsinstituut politie, als bedoeld in [artikel 1, onder a, van de Wet op het LSOP](https://wetten.overheid.nl/jci1.3:c:BWBR0014623&artikel=1) en het politieonderwijs.
+
+### Artikel E2. Aanvraagtijdvak
+
+Subsidieaanvragen met betrekking tot een project in het kader van deze bijlage worden door de minister ontvangen in het aanvraagtijdvak van 12 mei 2015, 09.00 uur, tot en met 29 december 2017, 17.00 uur.
+
+### Artikel E3. Subsidieplafond
+
+Het maximaal beschikbare bedrag voor het verlenen van subsidie voor het aanvraagtijdvak, bedoeld in artikel E2 bedraagt € 1.984.161,50.
+
+### Artikel E4. Doelgroepen
+
+Een project is gericht op de volgende doelgroepen:
+
+### Artikel E5. Subsidiabele activiteiten
+
+## Bijlage F. behorende bij [artikel 4, onderdeel f](https://wetten.overheid.nl/jci1.3:c:BWBR0036487&artikel=4&z=2016-05-12&g=2016-05-12)
+
+Specifieke bepalingen met betrekking tot aanvragen in het kader van actie F, als bedoeld in [artikel 4, onderdeel f](https://wetten.overheid.nl/jci1.3:c:BWBR0036487&artikel=4&z=2016-05-12&g=2016-05-12): verbeteren van slachtofferzorg.
+
+### Artikel F1. Subsidieaanvrager
+
+De subsidie wordt aangevraagd door de politie, als bedoeld in [artikel 25, eerste lid, van de Politiewet 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&artikel=25).
+
+### Artikel F2. Aanvraagtijdvak
+
+Subsidieaanvragen met betrekking tot een project in het kader van deze bijlage worden door de minister ontvangen in het aanvraagtijdvak van 12 mei 2015, 09.00 uur tot en met 29 december 2017, 17.00 uur.
+
+### Artikel F3. subsidieplafond
+
+Het maximaal beschikbare bedrag voor het verlenen van subsidie voor het aanvraagtijdvak, bedoeld in artikel F2, bedraagt € 7.937.000.
+
+### Artikel F5. Specifieke eisen aan het project
+
+### Artikel F6. Verantwoording
+
+Na verlening van de subsidie wordt het verleende subsidiebedrag in de begroting van de politie opgenomen en worden de uitgaven verantwoord in de jaarrekening.
+
+## Bijlage G. , behorend bij [artikel 4, onderdeel g](https://wetten.overheid.nl/jci1.3:c:BWBR0036487&artikel=4&z=2016-05-12&g=2016-05-12)
+
+Specifieke bepalingen met betrekking tot de actie, genoemd in [artikel 4, onderdeel g](https://wetten.overheid.nl/jci1.3:c:BWBR0036487&artikel=4&z=2016-05-12&g=2016-05-12): risico- en crisisbeheersing.
+
+### Artikel G1. Subsidieaanvrager
+
+De subsidie wordt aangevraagd door de Nationaal Coördinator Terrorismebestrijding en Veiligheid.
+
+### Artikel G2. Aanvraagtijdvak
+
+Subsidieaanvragen met betrekking tot een project in het kader van deze bijlage worden door de minister ontvangen in het aanvraagtijdvak van 12 mei 2015, 09.00 uur, tot en met 31 december 2018, 17.00 uur.
+
+### Artikel G3. Subsidieplafond
+
+Het maximaal beschikbare bedrag voor het verlenen van subsidie bedraagt voor het aanvraagtijdvak, bedoeld in artikel G2, € 9.921.161,50.
+
+Projecten zijn uitsluitend gericht op een of meer van de volgende activiteiten:
+
+### Artikel G5. Specifieke eisen aan het project
+
+## Bijlage H. , behorende bij [artikel 4, onderdeel h](https://wetten.overheid.nl/jci1.3:c:BWBR0036487&artikel=4&z=2016-05-12&g=2016-05-12)
+
+Vervallen.
+
+### Artikel H5. Subsidiabele activiteiten
+
+Voor subsidie komen uitsluitend activiteiten die het management van de buitengrenzen van de Europese Unie ondersteunen in aanmerking, en zien op:
+
+### Artikel H6. Specifieke eisen aan het project
+
+## Bijlage I. , behorende bij [artikel 8, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036487&artikel=8&z=2016-05-12&g=2016-05-12)
+
+| Algemene criteria (1 tot en met 7, maximaal 90 punten) | Algemene criteria (1 tot en met 7, maximaal 90 punten) | Algemene criteria (1 tot en met 7, maximaal 90 punten) |
+| --- | --- | --- |
+| Subcriteria | Bijbehorende vragen | Punten |
+| 1. Relevantie (maximaal 10 punten) | a. Is duidelijk aangegeven wat de uitdaging/het probleem is waar het projectvoorstel zich op richt (context van uitdaging/probleem, omvang van uitdaging/probleem in kwalitatieve en/of kwantitatieve termen)? | 3 |
+| 1. Relevantie (maximaal 10 punten) | b. Dragen de verwachte resultaten bij aan de oplossing? | 3 |
+| 1. Relevantie (maximaal 10 punten) | c. Richt het project zich op 1 of meer dan 1 subsidiabele activiteit(en)? | 4 |
+| 2. Kwaliteit van het projectvoorstel (maximaal 20 punten) | a. Is het projectplan op alle onderdelen duidelijk en concreet? | 3 |
+| 2. Kwaliteit van het projectvoorstel (maximaal 20 punten) | b. Zijn de voorziene activiteiten en de te behalen resultaten kwantificeerbaar en meetbaar? | 3 |
+| 2. Kwaliteit van het projectvoorstel (maximaal 20 punten) | c. Is er sprake van een realistische tijdsplanning met duidelijke en concrete mijlpalen en eventueel tussenproducten? | 3 |
+| 2. Kwaliteit van het projectvoorstel (maximaal 20 punten) | d. Voorziet het projectvoorstel in duidelijke procedures voor bijsturing en risicobeheersing? | 2 |
+| 2. Kwaliteit van het projectvoorstel (maximaal 20 punten) | e. Wordt er adequaat gebruik gemaakt van de kennis, capaciteiten en ervaringen van de doelgroep van het projectvoorstel (wordt de doelgroep zelf bijv. als ervaringsdeskundige bij het project betrokken)? | 3 |
+| 2. Kwaliteit van het projectvoorstel (maximaal 20 punten) | f. Is er sprake van de ontwikkeling van een nieuwe, creatieve of onconventionele aanpak? | 3 |
+| 2. Kwaliteit van het projectvoorstel (maximaal 20 punten) | g. Worden de projectresultaten lokaal, nationaal en in Europees of ander internationaal verband gedeeld met het brede publiek aan de hand van een gedegen communicatie- en publiciteitsstrategie? | 3 |
+| 3. Kosteneffectiviteit (maximaal 15 punten) | a. Zijn de begrote kosten duidelijk omschreven en onderbouwd? | 3 |
+| 3. Kosteneffectiviteit (maximaal 15 punten) | b. Lijken de begrote kosten noodzakelijk voor het project? | 4 |
+| 3. Kosteneffectiviteit (maximaal 15 punten) | c. Lijkt de prijs/prestatieverhouding redelijk? | 4 |
+| 3. Kosteneffectiviteit (maximaal 15 punten) | d. Wat zijn de gemiddelde kosten per deelnemer? Uitgangspunt is dat hoe lager de kosten voor eenzelfde bereik, hoe meer punten een project scoort. De middelen moeten immers zo efficiënt mogelijk worden besteed. Hierbij is uiteraard van belang dat een realistisch voorstel wordt gedaan. | 4 |
+| 4. Is de aanvragende organisatie in staat het projectvoorstel uit te voeren? (maximaal 15 punten) | a. Heeft de aanvragende organisatie voldoende capaciteit, ervaring, expertise en financiële armslag om het project uit te voeren? | 4 |
+| 4. Is de aanvragende organisatie in staat het projectvoorstel uit te voeren? (maximaal 15 punten) | b. Heeft de aanvragende organisatie voldoende duidelijk aangegeven dat zij in staat is te voldoen aan de vereisten die aan de projectadministratie worden gesteld? | 2 |
+| 4. Is de aanvragende organisatie in staat het projectvoorstel uit te voeren? (maximaal 15 punten) | c. Is aannemelijk op grond van diens eerdere subsidieverleningen voor vergelijkbare activiteiten dat de subsidieaanvrager de activiteiten goed zal uitvoeren en aan de aan subsidieverlening verbonden verplichtingen zal voldoen? | 4 |
+| 4. Is de aanvragende organisatie in staat het projectvoorstel uit te voeren? (maximaal 15 punten) | d. Heeft de aanvragende organisatie ervaring met EU subsidieregels? | 2 |
+| 4. Is de aanvragende organisatie in staat het projectvoorstel uit te voeren? (maximaal 15 punten) | e. Heeft de aanvragende organisatie kennis van het beleidsterrein migratie en/of integratie? | 3 |
+| 5. Monitoring en evaluatie (maximaal 10 punten) | a. Is duidelijk aangegeven op welke wijze en door wie de uitvoering van het projectvoorstel wordt gemonitord? | 5 |
+| 5. Monitoring en evaluatie (maximaal 10 punten) | b. Is er in het projectvoorstel duidelijk aangegeven welke criteria worden gebruikt om aan te tonen dat er sprake is van succes of falen? | 5 |
+| 6. Structurele inbedding (maximaal 10 punten) | a. Is duidelijk aangegeven op welke wijze positieve resultaten duurzaam worden verankerd na afloop van de subsidieperiode? | 5 |
+| 6. Structurele inbedding (maximaal 10 punten) | b. Is beargumenteerd in welke mate er kans is op een structurele inbedding na afloop van de projectperiode? Belangrijke indicatoren zijn daarbij de wijze waarop de aanvrager de structurele inbedding financieel en organisatorisch wil vormgeven en de beschikbaarheid van monitordata na afloop van het project. | 5 |
+| 7. Mogelijkheden van verspreiding (maximaal 10 punten) | a. Kan de aanpak van het project bij succes op grotere schaal worden toegepast en is dat duidelijk beschreven? | 4 |
+| 7. Mogelijkheden van verspreiding (maximaal 10 punten) | b. Is er sprake van actieve kennisdeling gedurende de looptijd (bijv. door aansluiting op bestaande netwerken)? | 2 |
+| 7. Mogelijkheden van verspreiding (maximaal 10 punten) | c. Wordt er in het projectvoorstel overtuigend beargumenteerd dat met de aanpak structuurverandering en/of blijvende samenwerking wordt beoogd? | 4 |
+
+| Specifieke criteria (8 of 9 of 10, maximaal 10 punten) | Specifieke criteria (8 of 9 of 10, maximaal 10 punten) | Specifieke criteria (8 of 9 of 10, maximaal 10 punten) |
+| --- | --- | --- |
+| Subcriteria | Bijbehorende vragen | Punten |
+| 8. Asiel en opvang (maximaal 10 punten) | a. In welke mate bestaat de doelgroep van een opvangproject uit kwetsbare groepen (kwetsbare groepen in de opvang zijn alleenstaande minderjarige vreemdelingen, vreemdelingen met medische problematiek, alleenstaande vrouwen en kinderen)? | 6 |
+| 8. Asiel en opvang (maximaal 10 punten) | b. In welke mate wordt in het project gezorgd voor draagvlak bij omwonenden voor asielopvang (communicatie richting omwonenden, betrekken omwonenden bij het project)? | 2 |
+| 8. Asiel en opvang (maximaal 10 punten) | c. In welke mate wordt in het project gezorgd voor draagvlak bij de bredere gemeenschap, zoals andere gemeenten, Provincie, Nederlandse bevolking voor asielopvang (bijvoorbeeld in de vorm van brede communicatie)? | 2 |
+| 9. Integratie (maximaal 10 punten) | a. In hoeverre wordt met het projectvoorstel de doelgroep, bedoeld in artikel B4 geactiveerd, zodat de participatie van onderdanen van een niet-westers derde land in de Nederlandse samenleving wordt bevorderd? | 5 |
+| 9. Integratie (maximaal 10 punten) | b. Is in het projectvoorstel voorzien in samenwerking met relevante partijen? Is duidelijk beargumenteerd welke partijen participeren en waarom? Is er sprake van een voor deze problematiek en context unieke combinatie van samenwerkende partijen? Zijn er getekende samenwerkingsverklaringen overgelegd waarmee het commitment is vastgelegd? | 5 |
+| 10. Terugkeer Maximtaal 10 punten) | a. In welke mate richt het projectvoorstel zich op de prioriteitslanden voor terugkeer? De prioriteitslanden voor terugkeer staan vermeld in de bijlage die hoort bij het subsidiebesluit Migratie en Ontwikkeling. Dit subsidiekader is te vinden op de website van de Dienst Terugkeer en Vertrek (http://www.dienstterugkeerenvertrek.nl/projectsubsidies/Vrijwillige_Terugkeer). | 5 |
+| 10. Terugkeer Maximtaal 10 punten) | b. Wat is de hoogte van het beoogde aantal terugkeerders? Een project met een hoger (realistisch) terugkeerresultaat heeft daarbij de voorkeur. | 5 |
+
+## Bijlage J. behorende bij [artikel 16, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036487&artikel=16&z=2016-05-12&g=2016-05-12)
+
+De hierboven genoemde bewijsstukken a, b en c zijn geconverteerde documenten of gegevensdragers. Bij conversie van het origineel naar het geconverteerde document of gegevensdrager wordt aan de hieronder vermelde voorwaarden voldaan:
+
+De subsidieaanvrager verklaart door middel van het aanvraag-, tussendeclaratie- en einddeclaratieformulier dat de geconverteerde documenten of de nieuwe gegevensdragers die onderdeel zijn van de AMIF/ISF-administratie, voldoen aan de vereisten uit [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBR0036487&artikel=16&z=2016-05-12&g=2016-05-12) van de Subsidieregeling AMIF en ISF 2014–2020 en daarmee aan deze bijlage.
+
+Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
+
+### Artikel Ha4. Subsidiabele activiteiten
+
+### Artikel Ha5. Specifieke eisen aan het project
+
+## Bijlage I. , behorende bij [artikel 8, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036487&artikel=8&z=2017-02-18&g=2016-05-12)
+
+| Algemene criteria (1 tot en met 7, maximaal 90 punten) | Algemene criteria (1 tot en met 7, maximaal 90 punten) | Algemene criteria (1 tot en met 7, maximaal 90 punten) |
+| --- | --- | --- |
+| Subcriteria | Bijbehorende vragen | Punten |
+| 1. Relevantie (maximaal 10 punten) | a. Is duidelijk aangegeven wat de uitdaging/het probleem is waar het projectvoorstel zich op richt (context van uitdaging/probleem, omvang van uitdaging/probleem in kwalitatieve en/of kwantitatieve termen)? | 3 |
+| 1. Relevantie (maximaal 10 punten) | b. Dragen de verwachte resultaten bij aan de oplossing? | 3 |
+| 1. Relevantie (maximaal 10 punten) | c. Richt het project zich op 1 of meer dan 1 subsidiabele activiteit(en)? | 4 |
+| 2. Kwaliteit van het projectvoorstel (maximaal 20 punten) | a. Is het projectplan op alle onderdelen duidelijk en concreet? | 3 |
+| 2. Kwaliteit van het projectvoorstel (maximaal 20 punten) | b. Zijn de voorziene activiteiten en de te behalen resultaten kwantificeerbaar en meetbaar? | 3 |
+| 2. Kwaliteit van het projectvoorstel (maximaal 20 punten) | c. Is er sprake van een realistische tijdsplanning met duidelijke en concrete mijlpalen en eventueel tussenproducten? | 3 |
+| 2. Kwaliteit van het projectvoorstel (maximaal 20 punten) | d. Voorziet het projectvoorstel in duidelijke procedures voor bijsturing en risicobeheersing? | 2 |
+| 2. Kwaliteit van het projectvoorstel (maximaal 20 punten) | e. Wordt er adequaat gebruik gemaakt van de kennis, capaciteiten en ervaringen van de doelgroep van het projectvoorstel (wordt de doelgroep zelf bijv. als ervaringsdeskundige bij het project betrokken)? | 3 |
+| 2. Kwaliteit van het projectvoorstel (maximaal 20 punten) | f. Is er sprake van de ontwikkeling van een nieuwe, creatieve of onconventionele aanpak? | 3 |
+| 2. Kwaliteit van het projectvoorstel (maximaal 20 punten) | g. Worden de projectresultaten lokaal, nationaal en in Europees of ander internationaal verband gedeeld met het brede publiek aan de hand van een gedegen communicatie- en publiciteitsstrategie? | 3 |
+| 3. Kosteneffectiviteit (maximaal 15 punten) | a. Zijn de begrote kosten duidelijk omschreven en onderbouwd? | 3 |
+| 3. Kosteneffectiviteit (maximaal 15 punten) | b. Lijken de begrote kosten noodzakelijk voor het project? | 4 |
+| 3. Kosteneffectiviteit (maximaal 15 punten) | c. Lijkt de prijs/prestatieverhouding redelijk? | 4 |
+| 3. Kosteneffectiviteit (maximaal 15 punten) | d. Wat zijn de gemiddelde kosten per deelnemer? Uitgangspunt is dat hoe lager de kosten voor eenzelfde bereik, hoe meer punten een project scoort. De middelen moeten immers zo efficiënt mogelijk worden besteed. Hierbij is uiteraard van belang dat een realistisch voorstel wordt gedaan. | 4 |
+| 4. Is de aanvragende organisatie in staat het projectvoorstel uit te voeren? (maximaal 15 punten) | a. Heeft de aanvragende organisatie voldoende capaciteit, ervaring, expertise en financiële armslag om het project uit te voeren? | 4 |
+| 4. Is de aanvragende organisatie in staat het projectvoorstel uit te voeren? (maximaal 15 punten) | b. Heeft de aanvragende organisatie voldoende duidelijk aangegeven dat zij in staat is te voldoen aan de vereisten die aan de projectadministratie worden gesteld? | 2 |
+| 4. Is de aanvragende organisatie in staat het projectvoorstel uit te voeren? (maximaal 15 punten) | c. Is aannemelijk op grond van diens eerdere subsidieverleningen voor vergelijkbare activiteiten dat de subsidieaanvrager de activiteiten goed zal uitvoeren en aan de aan subsidieverlening verbonden verplichtingen zal voldoen? | 4 |
+| 4. Is de aanvragende organisatie in staat het projectvoorstel uit te voeren? (maximaal 15 punten) | d. Heeft de aanvragende organisatie ervaring met EU subsidieregels? | 2 |
+| 4. Is de aanvragende organisatie in staat het projectvoorstel uit te voeren? (maximaal 15 punten) | e. Heeft de aanvragende organisatie kennis van het beleidsterrein migratie en/of integratie? | 3 |
+| 5. Monitoring en evaluatie (maximaal 10 punten) | a. Is duidelijk aangegeven op welke wijze en door wie de uitvoering van het projectvoorstel wordt gemonitord? | 5 |
+| 5. Monitoring en evaluatie (maximaal 10 punten) | b. Is er in het projectvoorstel duidelijk aangegeven welke criteria worden gebruikt om aan te tonen dat er sprake is van succes of falen? | 5 |
+| 6. Structurele inbedding (maximaal 10 punten) | a. Is duidelijk aangegeven op welke wijze positieve resultaten duurzaam worden verankerd na afloop van de subsidieperiode? | 5 |
+| 6. Structurele inbedding (maximaal 10 punten) | b. Is beargumenteerd in welke mate er kans is op een structurele inbedding na afloop van de projectperiode? Belangrijke indicatoren zijn daarbij de wijze waarop de aanvrager de structurele inbedding financieel en organisatorisch wil vormgeven en de beschikbaarheid van monitordata na afloop van het project. | 5 |
+| 7. Mogelijkheden van verspreiding (maximaal 10 punten) | a. Kan de aanpak van het project bij succes op grotere schaal worden toegepast en is dat duidelijk beschreven? | 4 |
+| 7. Mogelijkheden van verspreiding (maximaal 10 punten) | b. Is er sprake van actieve kennisdeling gedurende de looptijd (bijv. door aansluiting op bestaande netwerken)? | 2 |
+| 7. Mogelijkheden van verspreiding (maximaal 10 punten) | c. Wordt er in het projectvoorstel overtuigend beargumenteerd dat met de aanpak structuurverandering en/of blijvende samenwerking wordt beoogd? | 4 |
+
+| Specifieke criteria (8 of 9 of 10, maximaal 10 punten) | Specifieke criteria (8 of 9 of 10, maximaal 10 punten) | Specifieke criteria (8 of 9 of 10, maximaal 10 punten) |
+| --- | --- | --- |
+| Subcriteria | Bijbehorende vragen | Punten |
+| 8. Asiel en opvang (maximaal 10 punten) | a. In welke mate bestaat de doelgroep van een opvangproject uit kwetsbare groepen (kwetsbare groepen in de opvang zijn alleenstaande minderjarige vreemdelingen, vreemdelingen met medische problematiek, alleenstaande vrouwen en kinderen)? | 6 |
+| 8. Asiel en opvang (maximaal 10 punten) | b. In welke mate wordt in het project gezorgd voor draagvlak bij omwonenden voor asielopvang (communicatie richting omwonenden, betrekken omwonenden bij het project)? | 2 |
+| 8. Asiel en opvang (maximaal 10 punten) | c. In welke mate wordt in het project gezorgd voor draagvlak bij de bredere gemeenschap, zoals andere gemeenten, Provincie, Nederlandse bevolking voor asielopvang (bijvoorbeeld in de vorm van brede communicatie)? | 2 |
+| 9. Integratie (maximaal 10 punten) | a. In hoeverre wordt met het projectvoorstel de doelgroep, bedoeld in artikel B4 geactiveerd, zodat de participatie van onderdanen van een niet-westers derde land in de Nederlandse samenleving wordt bevorderd? | 5 |
+| 9. Integratie (maximaal 10 punten) | b. Is in het projectvoorstel voorzien in samenwerking met relevante partijen? Is duidelijk beargumenteerd welke partijen participeren en waarom? Is er sprake van een voor deze problematiek en context unieke combinatie van samenwerkende partijen? Zijn er getekende samenwerkingsverklaringen overgelegd waarmee het commitment is vastgelegd? | 5 |
+| 10. Terugkeer Maximtaal 10 punten) | a. In welke mate richt het projectvoorstel zich op de prioriteitslanden voor terugkeer? De prioriteitslanden voor terugkeer staan vermeld in de bijlage die hoort bij het subsidiebesluit Migratie en Ontwikkeling. Dit subsidiekader is te vinden op de website van de Dienst Terugkeer en Vertrek (http://www.dienstterugkeerenvertrek.nl/projectsubsidies/Vrijwillige_Terugkeer). | 5 |
+| 10. Terugkeer Maximtaal 10 punten) | b. Wat is de hoogte van het beoogde aantal terugkeerders? Een project met een hoger (realistisch) terugkeerresultaat heeft daarbij de voorkeur. | 5 |
+
+## Bijlage J. behorende bij [artikel 16, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036487&artikel=16&z=2017-02-18&g=2016-05-12)
+
+### Procedure voor het gebruik van de documenten, genoemd in de onderdelen a, b en c.
+
+De hierboven genoemde bewijsstukken a, b en c zijn geconverteerde documenten of gegevensdragers. Bij conversie van het origineel naar het geconverteerde document of gegevensdrager wordt aan de hieronder vermelde voorwaarden voldaan:
+
+De subsidieaanvrager verklaart door middel van het aanvraag-, tussendeclaratie- en einddeclaratieformulier dat de geconverteerde documenten of de nieuwe gegevensdragers die onderdeel zijn van de AMIF/ISF-administratie, voldoen aan de vereisten uit [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBR0036487&artikel=16&z=2017-02-18&g=2016-05-12) van de Subsidieregeling AMIF en ISF 2014–2020 en daarmee aan deze bijlage.
 
 ### Procedure voor het bewaren van stukken die uitsluitend in elektronische versie bestaan (onderdeel d)
 
 Indien een subsidieontvanger gebruik maakt van elektronische documenten waarbij uitsluitend een elektronische versie bestaat, worden de geautomatiseerde systemen voorzien van beheers- en beveiligingsmaatregelen die de betrouwbaarheid, authenticiteit en integriteit van de elektronische gegevens gedurende de gehele vereiste bewaartermijn waarborgen. Het is aan de subsidieontvanger om dit aan te tonen. Voor een tweetal veel voorkomende situaties zijn de voorschriften hieronder uitgewerkt.
 
-De in deze bijlage omschreven procedures gelden voor alle bewijsstukken die getoond moeten worden in het kader van de AMIF/ISF-verantwoording. [Artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBR0036487&artikel=16&z=2017-02-18&g=2015-10-15) is onverminderd van toepassing.
+De in deze bijlage omschreven procedures gelden voor alle bewijsstukken die getoond moeten worden in het kader van de AMIF/ISF-verantwoording. [Artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBR0036487&artikel=16&z=2017-02-18&g=2016-05-12) is onverminderd van toepassing.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
