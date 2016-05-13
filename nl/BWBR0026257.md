@@ -4,7 +4,7 @@ identifier: "BWBR0026257"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2016-05-13"
-last_updated: "2009-09-01"
+last_updated: "2016-05-13"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0026257"
 soort: "ministeriele-regeling"
@@ -55,9 +55,9 @@ In deze regeling wordt verstaan onder:
 
 - f. **verwerker:** een ieder die persoonsgegevens verwerkt in de zin van onderdeel e van dit artikel;
 
-- g. **meldingsformulier:** het meldingsformulier als bedoeld in [artikel 2.2](https://wetten.overheid.nl/jci1.3:c:BWBR0026257&paragraaf=2&artikel=2.2&z=2009-09-01&g=2009-09-01) van deze regeling;
+- g. **meldingsformulier:** het meldingsformulier als bedoeld in [artikel 2.2](https://wetten.overheid.nl/jci1.3:c:BWBR0026257&paragraaf=2&artikel=2.2&z=2016-05-13&g=2016-05-13) van deze regeling;
 
-- h. **register:** register als bedoeld in [artikel 2.4](https://wetten.overheid.nl/jci1.3:c:BWBR0026257&paragraaf=2&artikel=2.4&z=2009-09-01&g=2009-09-01) van deze regeling;
+- h. **register:** register als bedoeld in [artikel 2.4](https://wetten.overheid.nl/jci1.3:c:BWBR0026257&paragraaf=2&artikel=2.4&z=2016-05-13&g=2016-05-13) van deze regeling;
 
 - i. **verantwoordelijke:** Minister van Defensie;
 
@@ -77,7 +77,7 @@ In deze regeling wordt verstaan onder:
 
 - q. **functionaris gegevensbescherming:** de functionaris als bedoeld in [artikel 62 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011468&artikel=62);
 
-- r. **melding:** melding bij de functionaris gegevensbescherming van een verwerking van persoonsgegevens die voor de verwezenlijking van een doeleinde of van verscheidene samenhangende doeleinden bestemd is als bedoeld in [artikel 28 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011468&artikel=28) en in [artikel 2.2, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0026257&paragraaf=2&artikel=2.2&z=2009-09-01&g=2009-09-01), van deze regeling;
+- r. **melding:** melding bij de functionaris gegevensbescherming van een verwerking van persoonsgegevens die voor de verwezenlijking van een doeleinde of van verscheidene samenhangende doeleinden bestemd is als bedoeld in [artikel 28 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011468&artikel=28) en in [artikel 2.2, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0026257&paragraaf=2&artikel=2.2&z=2016-05-13&g=2016-05-13), van deze regeling;
 
 - s. **verstrekken van gegevens:** het bekend maken of ter beschikking stellen van persoonsgegevens, voor zover zulks geheel of grotendeels steunt op gegevens die verwerkt zijn, of die door verwerking daarvan, al dan niet in verband met andere gegevens, zijn verkregen;
 
@@ -91,7 +91,7 @@ Deze regeling is van toepassing op alle verwerkingen van persoonsgegevens waarvo
 
 1. Als Wbp-beheerder worden aangewezen:
 
-- a. de plaatsvervangend Secretaris-Generaal voor verwerkingen binnen de bestuursstaf;
+- a. de plaatsvervangend Secretaris-Generaal voor verwerkingen binnen de bestuursstaf alsmede defensiebrede verwerkingen;
 
 - b. de Commandant Koninklijke marechaussee voor verwerkingen binnen de Koninklijke marechaussee;
 
@@ -111,7 +111,7 @@ Deze regeling is van toepassing op alle verwerkingen van persoonsgegevens waarvo
 
 4. De Wbp-beheerder rapporteert jaarlijks vóór 1 augustus aan de functionaris voor de gegevensbescherming over de naleving van de [wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011468) binnen zijn dienstonderdeel.
 
-5. De Wbp-beheerder,dan wel de Wbp-onderbeheerder, meldt alle verwerkingen van persoonsgegevens bij de functionaris voor de gegevensbescherming conform het gestelde in [artikel 2.2](https://wetten.overheid.nl/jci1.3:c:BWBR0026257&paragraaf=2&artikel=2.2&z=2009-09-01&g=2009-09-01) van deze regeling.
+5. De Wbp-beheerder,dan wel de Wbp-onderbeheerder, meldt alle verwerkingen van persoonsgegevens bij de functionaris voor de gegevensbescherming conform het gestelde in [artikel 2.2](https://wetten.overheid.nl/jci1.3:c:BWBR0026257&paragraaf=2&artikel=2.2&z=2016-05-13&g=2016-05-13) van deze regeling.
 
 6. De Wbp-beheerder, dan wel de Wbp-onderbeheerder, draagt er zorg voor dat contacten met het College geschieden door tussenkomst van de functionaris voor de gegevensbescherming.
 
@@ -199,9 +199,11 @@ Persoonsgegevens worden voor welbepaalde, uitdrukkelijk omschreven en gerechtvaa
 
 2. De meldingen worden in ieder geval op het defensie intranet geplaatst.
 
-##### Artikel 2.5. Verwijderen van persoonsgegevens
+##### Artikel 2.5. Privacy Impact Assessment (PIA)
 
-De persoonsgegevens worden verwijderd wanneer deze voor het doel van de verwerking niet meer noodzakelijk zijn.
+1. Voorafgaand aan de ontwikkeling van Defensie-wetgeving of Defensie-beleid waarmee de bouw van nieuwe ICT-systemen of de aanleg van grote databestanden wordt voorzien, wordt door de Wbp-beheerder dan wel de Wbp-onderbeheerder een privacy impact assessment uitgevoerd conform het toetsmodel Privacy Impact Assessment Rijksdienst.
+
+2. Een afschrift van de resultaten van de privacy impact assessment wordt gezonden aan de functionaris voor de gegevensbescherming en de hoofddirecteur bedrijfsvoering.
 
 #### Paragraaf 3. Rechten van betrokkene
 
@@ -223,9 +225,9 @@ De Wbp-beheerder, dan wel de Wbp-onderbeheerder, deelt de betrokkene de informat
 
 ##### Artikel 3.3. Bezwaar
 
-1. Het besluit als bedoeld in [artikel 3.2, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0026257&paragraaf=3&artikel=3.2&z=2009-09-01&g=2009-09-01), bevat de mededeling dat bezwaar gemaakt kan worden en aan wie het bezwaar gericht dient te zijn.
+1. Het besluit als bedoeld in [artikel 3.2, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0026257&paragraaf=3&artikel=3.2&z=2016-05-13&g=2016-05-13), bevat de mededeling dat bezwaar gemaakt kan worden en aan wie het bezwaar gericht dient te zijn.
 
-2. Binnen zes weken na de dag van verzending van een besluit als bedoeld in [artikel 3.2, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0026257&paragraaf=3&artikel=3.2&z=2009-09-01&g=2009-09-01), kan een ieder wiens belang rechtstreeks bij dit besluit is betrokken, bezwaar maken.
+2. Binnen zes weken na de dag van verzending van een besluit als bedoeld in [artikel 3.2, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0026257&paragraaf=3&artikel=3.2&z=2016-05-13&g=2016-05-13), kan een ieder wiens belang rechtstreeks bij dit besluit is betrokken, bezwaar maken.
 
 #### Paragraaf 4. Beveiliging en beheer
 
@@ -237,9 +239,9 @@ De te treffen technische en organisatorische maatregelen dienen te zorgen voor e
 
 ##### Artikel 5
 
-1. De Audit Dienst Defensie voert, al dan niet op verzoek van de functionaris voor de gegevensbescherming, periodiek een audit uit naar de naleving van de wet en deze regeling.
+1. De Audit Dienst Rijk/Defensie voert, al dan niet op verzoek van de functionaris voor de gegevensbescherming, periodiek een audit uit naar de naleving van de wet en deze regeling.
 
-2. De Audit Dienst Defensie rapporteert periodiek haar bevindingen aan de minister en de functionaris gegevensbescherming.
+2. De Audit Dienst Rijk/Defensie rapporteert periodiek haar bevindingen aan de minister en de functionaris gegevensbescherming.
 
 #### Paragraaf 6. Aanwijzing
 
@@ -251,7 +253,7 @@ De Secretaris-Generaal kan nadere aanwijzingen geven ter uitvoering van het bepa
 
 ##### Artikel 7.1. Overgangsrecht
 
-1. De meldingen aan de functionaris gegevensbescherming van op de datum van inwerkingtreding van deze regeling al bestaande verwerkingen als bedoeld in [artikel 2.2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0026257&paragraaf=2&artikel=2.2&z=2009-09-01&g=2009-09-01), worden gedaan uiterlijk 6 maanden na inwerkingtreding van deze regeling.
+1. De meldingen aan de functionaris gegevensbescherming van op de datum van inwerkingtreding van deze regeling al bestaande verwerkingen als bedoeld in [artikel 2.2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0026257&paragraaf=2&artikel=2.2&z=2016-05-13&g=2016-05-13), worden gedaan uiterlijk 6 maanden na inwerkingtreding van deze regeling.
 
 2. De functionaris voor de gegevensbescherming draagt zorg voor intrekking van de bestaande meldingen bij het college zodra vervangende meldingen ontvangen zijn.
 
@@ -269,7 +271,29 @@ Deze regeling wordt aangehaald als: Regeling Wet bescherming persoonsgegevens mi
 
 [ ] Eerste melding
 
+[ ] Eerste melding
+
 [ ] Doorgeven wijziging eerdere melding (nr. MvD/Wbp/.....)
+
+Deze regeling zal worden geplaatst in de Staatscourant en in de serie Ministeriële publicaties.
+
+##### Artikel 2.6. Verwijderen van persoonsgegevens
+
+De persoonsgegevens worden verwijderd wanneer deze voor het doel van de verwerking niet meer noodzakelijk zijn.
+
+#### Paragraaf 3. Rechten van betrokkene
+
+#### Paragraaf 4. Beveiliging en beheer
+
+#### Paragraaf 5. Audit
+
+#### Paragraaf 6. Aanwijzing
+
+#### Paragraaf 7. Slotbepalingen
+
+## Bijlage
+
+### Meldingenformulier als bedoeld in [artikel 2.2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0026257&paragraaf=2&artikel=2.2&z=2016-05-13&g=2016-05-13), van de Regeling bescherming persoonsgegevens ministerie van Defensie
 
 Datum:
 
