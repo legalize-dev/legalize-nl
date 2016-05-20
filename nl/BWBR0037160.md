@@ -4,7 +4,7 @@ identifier: "BWBR0037160"
 country: "nl"
 rank: "amvb"
 publication_date: "2025-07-01"
-last_updated: "2016-01-01"
+last_updated: "2016-05-20"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0037160"
 soort: "AMvB"
@@ -52,43 +52,73 @@ Hebben goedgevonden en verstaan:
 
 ##### Artikel 1.1
 
-In dit besluit en de daarop berustende bepalingen wordt verstaan onder
+In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
-- **richtlijn:** [richtlijn 2001/37/EG](32001L0037) van het Europees Parlement en de Raad van de Europese Unie van 5 juni 2001 betreffende de onderlinge aanpassing van de wettelijke en bestuursrechtelijke bepalingen van de lidstaten inzake de productie, de presentatie en de verkoop van tabaksproducten (PbEG 2001, L 194).
+- **cigarillo:** een type kleine sigaar die per stuk niet meer dan drie gram weegt;
+
+- **gecombineerde gezondheidswaarschuwing:** een gezondheidswaarschuwing die bestaat uit een combinatie van een waarschuwende tekst en een corresponderende foto of illustratie, als bepaald bij of krachtens dit besluit;
+
+- **gezondheidswaarschuwing:** een waarschuwing betreffende de negatieve effecten op de menselijke gezondheid van een product of betreffende andere ongewenste gevolgen van de consumptie ervan, met inbegrip van waarschuwende teksten, gecombineerde gezondheidswaarschuwingen, algemene waarschuwingen en informatieve boodschappen, als bepaald bij of krachtens dit besluit;
+
+- **leeftijdsverificatiesysteem:** een informatieverwerkend systeem dat overeenkomstig het bepaalde bij of krachtens dit besluit op elektronische wijze de leeftijd van de consument bevestigt;
+
+- **nieuwsoortig tabaksproduct:** een tabaksproduct dat:
+
+- a. niet onder een van de volgende categorieën valt: sigaret, shagtabak, pijptabak, waterpijptabak, sigaar, cigarillo, pruimtabak, snuiftabak, of tabak voor oraal gebruik, en
+
+- b. na 19 mei 2014 in de handel wordt gebracht;
+
+- **rookloos tabaksproduct:** een tabaksproduct dat niet via een proces van verbranding wordt geconsumeerd, waaronder pruimtabak, snuiftabak en tabak voor oraal gebruik;
+
+- **shagtabak:** tabak die door consumenten of detaillisten kan worden gebruikt voor het maken van sigaretten;
+
+- **sigaret:** een tabaksrolletje dat geconsumeerd kan worden via een proces van verbranding en:
+
+- a. dat geschikt is om als zodanig te worden gerookt en die geen sigaar of cigarillo is, alsmede
+
+- b. dat door middel van een eenvoudige niet-industriële handeling in een huls van sigarettenpapier wordt geschoven of met sigarettenpapier wordt omhuld;
+
+- **snuiftabak:** een rookloos tabaksproduct dat via de neus geconsumeerd kan worden;
+
+- **voor roken bestemd tabaksproduct:** een ander tabaksproduct dan een rookloos tabaksproduct;
+
+- **waterpijptabak:** een voor roken bestemd tabaksproduct dat geconsumeerd kan worden door middel van een waterpijp, niet zijnde shagtabak.
 
 #### § 2. Producteisen
 
 ##### Artikel 2.1
 
-1. De gehaltes aan teer, nicotine en koolmonoxide van een sigaret bedragen niet meer dan:
+1. De maximumemissieniveaus van een in de handel gebrachte of geproduceerde sigaret voldoen aan artikel 3, eerste lid, van de Tabaksproductenrichtlijn.
 
-- a. 10 milligram teer;
+2. De maximumemissieniveaus van shagtabak zijn zodanig dat het niveau in een sjekkie van 750 mg niet meer bedraagt dan:
 
-- b. 1 milligram nicotine;
+- a. 12 mg teer;
 
-- c. 10 milligram koolmonoxide.
+- b. 1,2 mg nicotine; en
 
-2. Het teergehalte van shag is zodanig dat het gehalte in een sjekkie van 750 milligram niet meer dan 12 milligram bedraagt.
+- c. 12 mg koolmonoxide.
+
+3. Bij ministeriële regeling worden methoden van onderzoek aangewezen die bij uitsluiting beslissend zijn voor de vaststelling of met betrekking tot shagtabak of een sigaret aan de in het eerste en tweede lid gestelde eisen is voldaan.
+
+4. Bij ministeriële regeling kunnen andere maximumemissieniveaus voor tabaksproducten worden vastgesteld ter uitvoering van het bepaalde bij of krachtens de Tabaksproductenrichtlijn.
 
 ##### Artikel 2.2
 
-Bij regeling van Onze Minister worden methoden van onderzoek aangewezen, die bij uitsluiting beslissend zijn voor de vaststelling of met betrekking tot een sigaret of een sjekkie aan de in dit besluit gestelde eisen ter zake van de gehaltes aan teer, nicotine of koolmonoxide is voldaan.
+1. Tot het verrichten van metingen en onderzoekingen als bedoeld in [artikel 3c, eerste en tweede lid, van de Tabaks- en rookwarenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0004302&artikel=3c) zijn uitsluitend bevoegd de laboratoria die als zodanig zijn aangewezen of erkend door Onze Minister.
+
+2. Bij ministeriële regeling worden regels gesteld omtrent de erkenning van laboratoria als bedoeld in [artikel 3c, tweede lid, van de Tabaks- en rookwarenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0004302&artikel=3c).
+
+3. Onze Minister deelt de lijst van erkende laboratoria met de Europese Commissie. De Europese Commissie maakt deze lijst openbaar.
+
+4. Laboratoria die door de bevoegde autoriteiten van een andere staat van de Europese Economische Ruimte zijn erkend om verificatie van metingen, als bedoeld in artikel 4 van de Tabaksproductenrichtlijn te verrichten, worden gelijkgesteld met laboratoria die krachtens dit artikel zijn aangewezen of erkend.
 
 ##### Artikel 2.3
 
-1. Tot het verrichten van metingen en onderzoekingen als bedoeld in [artikel 3c, eerste en tweede lid, van de Tabakswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004302&artikel=3c) zijn uitsluitend bevoegd de laboratoria die als zodanig zijn aangewezen of erkend door Onze Minister.
-
-2. Voor aanwijzing of erkenning komen in aanmerking laboratoria waaraan accreditatie krachtens NEN-EN-ISO/IEC 17025 is verleend.
-
-3. Aanwijzing als laboratorium dat bevoegd is tot het verrichten van metingen en onderzoekingen als bedoeld in [artikel 3c, tweede lid, van de Tabakswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004302&artikel=3c) is voorbehouden aan laboratoria die deel uitmaken van het Rijk.
-
-4. Onze Minister verleent een erkenning op aanvraag. Aan de erkenning kunnen voorschriften worden verbonden, die gericht zijn op het waarborgen van de kwaliteit en de onafhankelijkheid van de metingen en onderzoekingen.
-
-5. Een erkenning kan worden ingetrokken als niet langer aan de eisen, bedoeld in het vierde lid, wordt voldaan.
+Bij ministeriële regeling worden ter uitvoering van de Tabaksproductenrichtlijn eisen gesteld met betrekking tot de ingrediënten en de presentatie van tabaksproducten. Daarbij kan onderscheid worden gemaakt tussen verschillende soorten tabaksproducten.
 
 ##### Artikel 2.4
 
-Laboratoria die door de bevoegde autoriteiten van een andere lidstaat van de Europese Unie zijn erkend om metingen en onderzoekingen als bedoeld in artikel 4 van de richtlijn te verrichten, worden gelijkgesteld met laboratoria die krachtens [artikel 2.3](https://wetten.overheid.nl/jci1.3:c:BWBR0037160&paragraaf=2&artikel=2.3&z=2016-01-01&g=2016-01-01) van dit besluit zijn aangewezen of erkend.
+Bij ministeriële regeling worden ter uitvoering van de Tabaksproductenrichtlijn eisen gesteld aan het ontwerp van een elektronische sigaret en een navulverpakking en de ingrediënten van nicotinehoudende vloeistof.
 
 ##### Artikel 2.5
 
@@ -100,105 +130,25 @@ Laboratoria die door de bevoegde autoriteiten van een andere lidstaat van de Eur
 
 ##### Artikel 3.1
 
-1. Op alle verpakkingseenheden van tabaksproducten worden, met uitzondering van tabak voor oraal gebruik en andere niet voor roken bestemde tabaksproducten, de volgende waarschuwingen aangebracht:
-
-- a. één van de volgende algemene waarschuwingen:
-
-- Roken is dodelijk;
-
-- Roken brengt u en anderen rondom u ernstige schade toe.
-
-- b. één van de volgende bijkomende waarschuwingen:
-
-- Roken veroorzaakt 9 van de 10 gevallen van longkanker;
-
-- Roken veroorzaakt mond- en keelkanker;
-
-- Roken beschadigt uw longen;
-
-- Roken veroorzaakt hartaanvallen;
-
-- Roken veroorzaakt beroertes en ernstige handicaps;
-
-- Roken verstopt uw slagaderen;
-
-- Roken vergroot de kans op blindheid;
-
-- Roken beschadigt uw gebit en tandvlees;
-
-- Roken kan uw ongeboren kind noodlottig worden;
-
-- Uw rook is schadelijk voor uw kinderen, familie en vrienden;
-
-- Kinderen van rokers gaan zelf vaak roken;
-
-- Stop nu – blijf leven voor je naaste familie en vrienden: www.stoppen-met-roken.nl
-
-- Roken vermindert de vruchtbaarheid;
-
-- Roken vergroot de kans op impotentie.
-
-2. Op alle verpakkingseenheden van niet voor roken bestemde tabaksproducten wordt de volgende waarschuwing aangebracht:
-
-- Dit tabaksproduct kan uw gezondheid schaden en is verslavend.
-
-3. Op alle sigarettenpakjes worden voorts vermeld:
-
-- a. het nicotinegehalte, aangeduid met het woord nicotine, in tienden van een milligram per sigaret;
-
-- b. het teergehalte, aangeduid met het woord teer, in milligrammen per sigaret;
-
-- c. het koolmonoxidegehalte, aangeduid met het woord koolmonoxide, in milligrammen per sigaret.
-
-4. Op alle verpakkingseenheden van shag worden voorts vermeld:
-
-- a. het nicotinegehalte, aangeduid met het woord «nicotine», in tienden van een milligram per sjekkie van 750 milligram;
-
-- b. het teergehalte, aangeduid met het woord «teer», in milligrammen per sjekkie van 750 milligram.
+Bij ministeriële regeling worden ter uitvoering van de Tabaksproductenrichtlijn eisen gesteld met betrekking tot de presentatie, verschijningsvorm en inhoud van een verpakkingseenheid en een buitenverpakking van tabaksproducten. Daarbij kan onderscheid gemaakt worden tussen verschillende tabaksproducten.
 
 ##### Artikel 3.2
 
-1. De in [artikel 3.1, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0037160&paragraaf=3&artikel=3.1&z=2016-01-01&g=2016-01-01), bedoelde waarschuwingen wisselen elkaar op zodanige wijze af dat zij regelmatig voorkomen.
+1. Een verpakkingseenheid en een buitenverpakking van voor roken bestemde tabaksproducten bevatten een algemene waarschuwing, een informatieve boodschap en een gecombineerde gezondheidswaarschuwing.
 
-2. De in [artikel 3.1, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0037160&paragraaf=3&artikel=3.1&z=2016-01-01&g=2016-01-01), bedoelde waarschuwingen wisselen elkaar eveneens op zodanige wijze af dat zij regelmatig voorkomen.
+2. Het eerste lid geldt niet voor een verpakkingseenheid en een buitenverpakking van een sigaar niet zijnde een cigarillo, indien deze onmiddellijk vóór 20 mei 2016 in de handel was, dit product vóór 20 mei 2016 bij Onze Minister is aangemeld en de buitenverpakking en verpakkingseenheid daarvan een algemene waarschuwing en de waarschuwende tekst en een verwijzing naar de informatie over het stoppen met roken van een gecombineerde gezondheidswaarschuwing bevatten.
 
-3. De in [artikel 3.1, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0037160&paragraaf=3&artikel=3.1&z=2016-01-01&g=2016-01-01), bedoelde waarschuwingen worden aangebracht op de voorkant van de verpakkingseenheid en op elke in de detailverkoop gebruikte buitenverpakking, behalve op cellofaanverpakkingen.
+3. Bij ministeriële regeling worden ter uitvoering van de Tabaksproductenrichtlijn nadere regels gesteld over de aanduidingen op een verpakkingseenheid en een buitenverpakking van voor roken bestemde tabaksproducten, waarbij voor verschillende voor roken bestemde tabaksproducten verschillende eisen kunnen worden gesteld met betrekking tot de aanduidingen, de grootte en de positie van de gezondheidswaarschuwing.
 
-4. De in [artikel 3.1, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0037160&paragraaf=3&artikel=3.1&z=2016-01-01&g=2016-01-01), bedoelde waarschuwingen worden aangebracht op de achterkant van de verpakkingseenheid en op elke in de detailverkoop gebruikte buitenverpakking, behalve op cellofaanverpakkingen.
+4. Bij ministeriële regeling worden eisen gesteld aan een verpakkingseenheid en een buitenverpakking van shagtabak en een sigaret met betrekking tot geur, smaak en de intensiteit van de rook. Ter uitvoering van het bij of krachtens de Tabaksproductenrichtlijn bepaalde kunnen deze eisen bij ministeriële regeling van toepassing worden verklaard op andere tabaksproducten dan sigaretten en shagtabak.
 
 ##### Artikel 3.3
 
-1. De waarschuwingen, bedoeld in [artikel 3.1, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0037160&paragraaf=3&artikel=3.1&z=2016-01-01&g=2016-01-01), en in artikel 3.1, tweede lid, beslaan minstens 30% van de buitenvoorkant van het betreffende oppervlak van de verpakkingseenheid waarop zij worden aangebracht.
-
-2. De waarschuwingen, bedoeld in [artikel 3.1, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0037160&paragraaf=3&artikel=3.1&z=2016-01-01&g=2016-01-01), beslaan minstens 40% van de buitenachterkant van het betreffende oppervlak van de verpakkingseenheid waarop zij worden aangebracht.
-
-3. Op verpakkingseenheden die bestemd zijn voor andere producten dan sigaretten en waarvan de buitenvoorkant groter is dan 75 cm2 beslaan de in [artikel 3.1, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037160&paragraaf=3&artikel=3.1&z=2016-01-01&g=2016-01-01), bedoelde waarschuwingen ten minste 22,5 cm2 van de voorkant en van de achterkant.
-
-4. De vermeldingen, bedoeld in [artikel 3.1, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037160&paragraaf=3&artikel=3.1&z=2016-01-01&g=2016-01-01), worden in het Nederlands gedrukt op één zijkant van het sigarettenpakje en beslaan minstens 10% van het betreffende oppervlak.
-
-5. De vermeldingen, bedoeld in [artikel 3.1, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037160&paragraaf=3&artikel=3.1&z=2016-01-01&g=2016-01-01), worden in het Nederlands gedrukt op dezelfde kant van de verpakkingseenheid als de in artikel 3.1, eerste lid, onderdeel b, bedoelde waarschuwingen en beslaan minstens 2½% van het betreffende oppervlak.
-
-6. De krachtens [artikel 3.1](https://wetten.overheid.nl/jci1.3:c:BWBR0037160&paragraaf=3&artikel=3.1&z=2016-01-01&g=2016-01-01) vereiste waarschuwingen en vermeldingen van de gehaltes aan teer, nicotine en koolmonoxide worden aangebracht:
-
-- a. in zwarte vetgedrukte Helvetica-letters op een witte achtergrond, met een zodanige puntgrootte dat de tekst een zo groot mogelijk deel van de daarvoor bestemde ruimte beslaat, zonder aan leesbaarheid in te boeten;
-
-- b. in kleine letters, behalve de eerste letter van de boodschap;
-
-- c. gecentreerd op het voor de tekst bestemde oppervlak en evenwijdig met de bovenrand van het pakje;
-
-- d. voor andere dan de in [artikel 3.1, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037160&paragraaf=3&artikel=3.1&z=2016-01-01&g=2016-01-01), bedoelde producten, omgeven door een ministens 3 mm en hoogstens 4 mm brede zwarte rand die geen belemmering vormt voor de leesbaarheid van de waarschuwingen of vermeldingen;
-
-- e. in het Nederlands.
-
-7. Bij regeling van Onze Minister kunnen omtrent de voorschriften, bedoeld in het vijfde en zesde lid, nadere technische specificaties worden gesteld.
-
-8. De in dit artikel voorgeschreven opschriften worden niet op de fiscale zegels van de verpakkingseenheden aangebracht. Zij zijn niet verwijderbaar of uitwisbaar en zijn in geen geval door andere aanduidingen of afbeeldingen bedekt of onderbroken, dan wel bij het openen van het pakje onduidelijk gemaakt of onderbroken. Bij andere tabaksproducten dan sigaretten mogen de teksten met behulp van stickers worden aangebracht, mits deze niet kunnen worden verwijderd.
-
-9. Ter wille van de identificatie en traceerbaarheid wordt het tabaksproduct op passende wijze gemerkt door vermelding van het partijnummer of een gelijkwaardige vermelding op de verpakkingseenheid, zodat plaats en tijd van productie kunnen worden vastgesteld.
+Bij ministeriële regeling worden ter uitvoering van de Tabaksproductenrichtlijn eisen gesteld met betrekking tot aanduidingen op een verpakkingseenheid en een buitenverpakking van een rookloos tabaksproduct, een elektronische sigaret, een navulverpakking en een voor roken bestemd kruidenproduct.
 
 #### § 4. Rapportageverplichtingen
 
-#### § 5. Verkoopbeperkingen
+#### § 4. Rapportageverplichtingen
 
 ##### Artikel 5.1
 
@@ -268,7 +218,7 @@ Degene die – anders dan in een hoedanigheid als bedoeld in [artikel 10, eerste
 
 ##### Artikel 6.2
 
-1. De verplichting, bedoeld in [artikel 10, eerste lid, van de Tabakswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004302&artikel=10) en in [artikel 6.1](https://wetten.overheid.nl/jci1.3:c:BWBR0037160&paragraaf=6&artikel=6.1&z=2016-01-01&g=2016-01-01) van dit besluit, geldt niet:
+1. De verplichting, bedoeld in [artikel 10, eerste lid, van de Tabakswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004302&artikel=10) en in [artikel 6.1](https://wetten.overheid.nl/jci1.3:c:BWBR0037160&paragraaf=6&artikel=6.1&z=2016-05-20&g=2016-05-20) van dit besluit, geldt niet:
 
 - a. in ruimten waar geen inbreuk mag worden gemaakt op de persoonlijke levenssfeer;
 
@@ -286,25 +236,11 @@ Indien in een instelling voor geestelijke gezondheidszorg, ouderenzorg, gehandic
 
 ##### Artikel 7.1
 
-Na de inwerkingtreding van dit besluit berust de [Regeling methoden van onderzoek ten aanzien van teer-, nicotine- en koolmonoxidegehaltes in sigaretten en shag](https://wetten.overheid.nl/jci1.3:c:BWBR0013626) op [artikel 2.2](https://wetten.overheid.nl/jci1.3:c:BWBR0037160&paragraaf=2&artikel=2.2&z=2016-01-01&g=2016-01-01) van dit besluit.
+Voor tabaksproducten, elektronische sigaretten en navulverpakkingen en voor roken bestemde kruidenproducten die vóór 20 november 2016 in de handel zijn of worden gebracht, worden de in de [artikelen 4.1](https://wetten.overheid.nl/jci1.3:c:BWBR0037160&paragraaf=4&artikel=4.1&z=2016-05-20&g=2016-05-20), [4.5](https://wetten.overheid.nl/jci1.3:c:BWBR0037160&paragraaf=4&artikel=4.5&z=2016-05-20&g=2016-05-20), [4.6](https://wetten.overheid.nl/jci1.3:c:BWBR0037160&paragraaf=4&artikel=4.6&z=2016-05-20&g=2016-05-20) en [4.8](https://wetten.overheid.nl/jci1.3:c:BWBR0037160&paragraaf=4&artikel=4.8&z=2016-05-20&g=2016-05-20) bedoelde gegevens en bescheiden uiterlijk 20 november 2016 verstrekt aan Onze Minister.
 
 ##### Artikel 7.2
 
-De volgende besluiten worden ingetrokken:
-
-- –. [Aanduidingenbesluit tabaksproducten](https://wetten.overheid.nl/jci1.3:c:BWBR0006920&wetgeving);
-
-- –. [Besluit maximumgehaltes aan teer, nicotine en koolmonoxide in sigaretten en shag](https://wetten.overheid.nl/jci1.3:c:BWBR0006531&wetgeving);
-
-- –. [Besluit rookverbod](https://wetten.overheid.nl/jci1.3:c:BWBR0023770&wetgeving);
-
-- –. [Besluit beperking verkoop en gebruik tabaksproducten](https://wetten.overheid.nl/jci1.3:c:BWBR0004685&wetgeving);
-
-- –. [Besluit tabaksverkoop in justitiële inrichtingen](https://wetten.overheid.nl/jci1.3:c:BWBR0015678&wetgeving);
-
-- –. [Besluit tabaksautomaten](https://wetten.overheid.nl/jci1.3:c:BWBR0016331&wetgeving);
-
-- –. [Besluit criteria laboratoria Tabakswet](https://wetten.overheid.nl/jci1.3:c:BWBR0016745&wetgeving).
+Een wijziging van de Tabaksproductenrichtlijn en besluiten vastgesteld ter uitvoering van de Tabaksproductenrichtlijn gaan voor de toepassing van dit besluit gelden met ingang van de dag waarop aan de betrokken wijziging van de Tabaksproductenrichtlijn of besluiten vastgesteld ter uitvoering van de Tabaksproductenrichtlijn uitvoering moet zijn gegeven, tenzij bij ministerieel besluit, dat in de Staatscourant wordt bekendgemaakt, een ander tijdstip wordt vastgesteld.
 
 ##### Artikel 7.3
 
@@ -312,10 +248,126 @@ Tabaksproducten die zijn geproduceerd voor 20 mei 2016 en die voldoen aan het [A
 
 ##### Artikel 7.4
 
-Dit besluit wordt aangehaald als: Besluit uitvoering Tabakswet.
+Dit besluit wordt aangehaald als: Tabaks- en rookwarenbesluit.
 
 ##### Artikel 7.5
 
 Dit besluit treedt in werking op een bij koninklijk besluit te bepalen tijdstip.
+
+Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
+
+#### § 3. Verpakkingseisen
+
+#### § 3a. Merkgebruik
+
+##### Artikel 3a.1
+
+1. Het is verboden voor een tabaksproduct een naam, merk, symbool of enig ander onderscheidend teken van een elektronische sigaret of navulverpakking te gebruiken.
+
+2. Het is verboden voor een elektronische sigaret of navulverpakking een naam, merk, symbool of enige ander onderscheidend teken van een tabaksproduct te gebruiken.
+
+##### Artikel 4.1
+
+1. Producenten en importeurs van tabaksproducten stellen Onze Minister een redelijke termijn vóór de beoogde datum van het in Nederland in de handel brengen van een nieuw of gewijzigd tabaksproduct, hiervan in kennis.
+
+2. Bij ministeriële regeling worden ter uitvoering van de Tabaksproductenrichtlijn eisen gesteld aan de bij te voegen gegevens en bescheiden en de wijze waarop de gegevens en bescheiden worden verstrekt.
+
+##### Artikel 4.2
+
+1. Producenten en importeurs van tabaksproducten verstrekken aan Onze Minister jaarlijks gegevens en bescheiden met betrekking tot de markt voor hun producten en eventueel op de markt te brengen nieuwe producten.
+
+2. Bij ministeriële regeling worden ter uitvoering van de Tabaksproductenrichtlijn eisen gesteld aan de gegevens en bescheiden die worden verstrekt en het tijdstip en de wijze waarop dit gebeurt.
+
+##### Artikel 4.3
+
+1. Producenten en importeurs van sigaretten en shagtabak die een additief bevatten dat is aangewezen krachtens artikel 6, eerste lid, van de Tabaksproductenrichtlijn, voeren met betrekking tot die additieven diepgaande studies uit en verstrekken het verslag daarvan aan de Europese Commissie en Onze Minister.
+
+2. Bij ministeriële regeling worden ter uitvoering van de Tabaksproductenrichtlijn eisen gesteld aan de diepgaande studies, het verslag en de wijze en het moment waarop het verslag aan Onze Minister en de Europese Commissie wordt verstrekt.
+
+3. Het verslag wordt beoordeeld door een bij ministeriële regeling aan te wijzen instantie of instanties, met name wat betreft begrijpelijkheid, methodiek en conclusies.
+
+4. Kleine en middelgrote ondernemingen als bedoeld in de Aanbeveling van de Commissie van 6 mei 2003 betreffende de definitie van kleine, middelgrote en micro-ondernemingen (PbEU 2003, L 124) worden vrijgesteld van de eisen gesteld bij of krachtens dit artikel indien een andere producent of importeur de studie heeft uitgevoerd en daarover een verslag heeft opgesteld en dit aan de Europese Commissie en Onze Minister is verstrekt.
+
+##### Artikel 4.4
+
+1. Bij ministeriële regeling wordt een sjabloon vastgesteld waarin de gegevens en bescheiden bedoeld in de [artikelen 4.1](https://wetten.overheid.nl/jci1.3:c:BWBR0037160&paragraaf=4&artikel=4.1&z=2016-05-20&g=2016-05-20), [4.2](https://wetten.overheid.nl/jci1.3:c:BWBR0037160&paragraaf=4&artikel=4.2&z=2016-05-20&g=2016-05-20) en [4.3](https://wetten.overheid.nl/jci1.3:c:BWBR0037160&paragraaf=4&artikel=4.3&z=2016-05-20&g=2016-05-20) worden verstrekt.
+
+2. Onze Minister geeft de Europese Commissie en de andere staten van de Europese Economische Ruimte toegang tot de gegevens en bescheiden bedoeld in de [artikelen 4.1](https://wetten.overheid.nl/jci1.3:c:BWBR0037160&paragraaf=4&artikel=4.1&z=2016-05-20&g=2016-05-20), [4.2](https://wetten.overheid.nl/jci1.3:c:BWBR0037160&paragraaf=4&artikel=4.2&z=2016-05-20&g=2016-05-20) en [4.3](https://wetten.overheid.nl/jci1.3:c:BWBR0037160&paragraaf=4&artikel=4.3&z=2016-05-20&g=2016-05-20).
+
+##### Artikel 4.5
+
+1. Producenten en importeurs van een nieuwsoortig tabaksproduct stellen Onze Minister zes maanden voor de beoogde datum van het in Nederland in de handel brengen van een nieuwsoortig tabaksproduct, hiervan in kennis.
+
+2. Bij ministeriële regeling worden ter uitvoering van de Tabaksproductenrichtlijn eisen gesteld met betrekking tot de gegevens en bescheiden die bij deze kennisgeving worden verstrekt, het verstrekken van nieuwe of bijgewerkte informatie en de wijze waarop dit gebeurt.
+
+3. Onze Minister kan in het belang van de volksgezondheid eisen dat producenten en importeurs van nieuwsoortige tabaksproducten proeven verrichten en gegevens en bescheiden verstrekken in aanvulling op de in het tweede lid bedoelde gegevens en bescheiden.
+
+4. Onze Minister geeft de Europese Commissie toegang tot de gegevens en bescheiden die bij of krachtens dit artikel worden verstrekt.
+
+##### Artikel 4.6
+
+1. Producenten en importeurs van een elektronische sigaret of navulverpakking stellen Onze Minister zes maanden voor de beoogde datum van het in Nederland in de handel brengen van een nieuwe of substantieel gewijzigde elektronische sigaret of navulverpakking, hiervan in kennis.
+
+2. Bij ministeriële regeling worden ter uitvoering van de Tabaksproductenrichtlijn eisen gesteld aan de gegevens en bescheiden die bij deze kennisgeving worden verstrekt en de wijze waarop dit gebeurt. Bij ministeriële regeling wordt hiertoe een sjabloon vastgesteld.
+
+##### Artikel 4.7
+
+1. Producenten en importeurs van een elektronische sigaret of navulverpakking verstrekken Onze Minister jaarlijks gegevens en bescheiden met betrekking tot de markt voor hun producten.
+
+2. Bij ministeriële regeling worden ter uitvoering van de Tabaksproductenrichtlijn eisen gesteld aan de gegevens en bescheiden die worden verstrekt en de wijze en het tijdstip waarop dit gebeurt.
+
+3. Onze Minister deelt de bij of krachtens dit artikel en [artikel 4.6](https://wetten.overheid.nl/jci1.3:c:BWBR0037160&paragraaf=4&artikel=4.6&z=2016-05-20&g=2016-05-20) ontvangen gegevens en bescheiden op verzoek met de Europese Commissie en de andere staten van de Europese Economische Ruimte.
+
+##### Artikel 4.8
+
+1. Producenten en importeurs van een voor roken bestemd kruidenproduct stellen Onze Minister een redelijke termijn voor de beoogde datum van het in Nederland in de handel brengen van een nieuw of gewijzigd voor roken bestemd kruidenproduct, hiervan in kennis.
+
+2. Bij ministeriële regeling worden ter uitvoering van de Tabaksproductenrichtlijn eisen gesteld aan de gegevens en bescheiden die bij deze kennisgeving worden verstrekt en de wijze waarop dit gebeurt.
+
+##### Artikel 4.9
+
+1. Onze Minister draagt op een door hem te bepalen wijze zorg voor de openbaarmaking van de gegevens en bescheiden die worden verstrekt bij of krachtens de [artikelen 4.1](https://wetten.overheid.nl/jci1.3:c:BWBR0037160&paragraaf=4&artikel=4.1&z=2016-05-20&g=2016-05-20), [4.3](https://wetten.overheid.nl/jci1.3:c:BWBR0037160&paragraaf=4&artikel=4.3&z=2016-05-20&g=2016-05-20), [4.4](https://wetten.overheid.nl/jci1.3:c:BWBR0037160&paragraaf=4&artikel=4.4&z=2016-05-20&g=2016-05-20), [4.6](https://wetten.overheid.nl/jci1.3:c:BWBR0037160&paragraaf=4&artikel=4.6&z=2016-05-20&g=2016-05-20) en [4.8](https://wetten.overheid.nl/jci1.3:c:BWBR0037160&paragraaf=4&artikel=4.8&z=2016-05-20&g=2016-05-20). Producenten en importeurs verstrekken deze gegevens en bescheiden in de Nederlandse taal.
+
+2. Producenten en importeurs van tabaksproducten en aanverwante producten geven bij het verstrekken van de gegevens en bescheiden, bedoeld in het eerste lid, nauwkeurig aan welke informatie zij als bedrijfsgeheim beschouwen.
+
+3. Onze Minister kan met inachtneming van [artikel 3b, derde lid, tweede volzin, van de Tabaks- en rookwarenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0004302&artikel=3b), besluiten gegevens en bescheiden waarvan producenten of importeurs hebben aangeven dat zij die als bedrijfsgeheim beschouwen, alsnog openbaar te maken.
+
+#### § 5. Verkoopbeperkingen
+
+##### Artikel 5.5
+
+1. Een detaillist biedt een tabaksproduct, elektronische sigaret of navulverpakking niet aan voor grensoverschrijdende verkoop op afstand aan een consument in een staat van de Europese Economische Ruimte, tenzij de detaillist zich bij Onze Minister heeft geregistreerd en van deze registratie bevestiging heeft ontvangen.
+
+2. Bij ministeriële regeling worden regels gesteld met betrekking tot de wijze van registreren en de gegevens en bescheiden die daarbij verstrekt worden.
+
+3. Onze Minister maakt de lijst met geregistreerde detaillisten openbaar.
+
+##### Artikel 5.6
+
+1. Een detaillist die op grond van [artikel 5.5](https://wetten.overheid.nl/jci1.3:c:BWBR0037160&paragraaf=5&artikel=5.5&z=2016-05-20&g=2016-05-20) geregistreerd is en grensoverschrijdende verkoop op afstand van een tabaksproduct, elektronische sigaret of navulverpakking naar een staat van de Europese Economische Ruimte verricht, hanteert een leeftijdsverificatiesysteem dat op het tijdstip van de verkoop vaststelt dat de consument voldoet aan de voorgeschreven minimumleeftijdsvereisten van de staat waarin de consument zich bevindt.
+
+2. Een detaillist die een tabaksproduct, elektronische sigaret of navulverpakking aanbiedt voor binnenlandse verkoop op afstand hanteert een leeftijdsverificatiesysteem dat op het tijdstip van de verkoop vaststelt dat de consument de leeftijd van 18 jaar heeft bereikt.
+
+3. Bij ministeriële regeling worden nadere regels gesteld met betrekking tot het leeftijdsverificatiesysteem.
+
+##### Artikel 5.7
+
+1. In aanvulling op [artikel 8 van de Wet bescherming persoonsgegevens](https://wetten.overheid.nl/jci1.3:c:BWBR0011468&artikel=8) verwerkt een detaillist die op grond van [artikel 5.5](https://wetten.overheid.nl/jci1.3:c:BWBR0037160&paragraaf=5&artikel=5.5&z=2016-05-20&g=2016-05-20) geregistreerd is de persoonsgegevens van een consument die bij hem een tabaksproduct, elektronische sigaret of navulverpakking koopt, slechts ten behoeve van de daadwerkelijke verkoop.
+
+2. In aanvulling op [artikel 8 van de Wet bescherming persoonsgegevens](https://wetten.overheid.nl/jci1.3:c:BWBR0011468&artikel=8) maakt een detaillist die op grond van [artikel 5.5](https://wetten.overheid.nl/jci1.3:c:BWBR0037160&paragraaf=5&artikel=5.5&z=2016-05-20&g=2016-05-20) geregistreerd is de persoonsgegevens van een consument die bij hem een tabaksproduct, elektronische sigaret of navulverpakking koopt, niet bekend aan de producent van het product, aan ondernemingen die deel uitmaken van dezelfde groep ondernemingen als de producent of aan andere derden.
+
+3. Het tweede lid is ook van toepassing indien de detaillist deel uitmaakt van een producent van een tabaksproduct, elektronische sigaret of navulverpakking.
+
+##### Artikel 5.8
+
+Een detaillist die op grond van [artikel 5.5](https://wetten.overheid.nl/jci1.3:c:BWBR0037160&paragraaf=5&artikel=5.5&z=2016-05-20&g=2016-05-20) geregistreerd is en grensoverschrijdende verkoop op afstand van een tabaksproduct, elektronische sigaret of navulverpakking verricht naar een staat van de Europese Economische Ruimte waar een natuurlijk verantwoordelijk persoon verplicht is die verifieert of het tabaksproduct, de elektronische sigaret of de navulverpakking voldoet aan de eisen die in de lidstaat van bestemming gelden, is verplicht met dit doel een natuurlijk verantwoordelijk persoon aan te stellen.
+
+#### § 6. Rookverbod en uitzondering op het rookverbod
+
+#### § 7. Slotbepalingen
+
+##### Artikel 7.1a
+
+Bij ministeriële regeling worden met betrekking tot voor roken bestemde tabaksproducten tot 20 mei 2019 andere regels gesteld over de positie van de gecombineerde gezondheidswaarschuwing en merknamen en logo’s in verband met de positie van de accijnszegel, bedoeld in de [Wet op de accijns](https://wetten.overheid.nl/jci1.3:c:BWBR0005251), waarbij voor verschillende voor roken bestemde tabaksproducten verschillende regels kunnen worden gesteld.
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
