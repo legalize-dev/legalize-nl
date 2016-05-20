@@ -4,7 +4,7 @@ identifier: "BWBR0037971"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2019-07-30"
-last_updated: "2016-01-01"
+last_updated: "2016-05-20"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0037971"
 soort: "ministeriele-regeling"
@@ -110,7 +110,7 @@ De Minister beslist over subsidieverlening binnen dertien weken na ontvangst van
 
 1. De Minister stelt binnen dertien weken na afloop van het kalenderjaar waarvoor subsidie is aangevraagd, de subsidie ambtshalve vast.
 
-2. Bij de vaststelling van de subsidie wordt getoetst aan de voorwaarden, bedoeld in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0037971&artikel=8&z=2016-05-20&g=2016-01-01).
+2. Bij de vaststelling van de subsidie wordt getoetst aan de voorwaarden, bedoeld in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0037971&artikel=8&z=2016-05-20&g=2016-05-20).
 
 3. Voor de vaststelling van de subsidie wordt gebruik gemaakt van de gegevens van de beheerder.
 
@@ -132,11 +132,11 @@ De Minister beslist over subsidieverlening binnen dertien weken na ontvangst van
 
 1. De subsidie bedraagt ten hoogste voor iedere extra gereden kilometer de optelsom van € 3,29 en het door de spoorwegonderneming voor de extra kilometers betaalde of te betalen tarief per kilometer voor het gebruik van het treinpad.
 
-2. Indien het eerste lid tot gevolg heeft dat het subsidieplafond voor een kalenderjaar, bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0037971&artikel=4&z=2016-05-20&g=2016-01-01), wordt overschreden, worden alle subsidies met een gelijk percentage verminderd zodat het totaal van de subsidies gelijk is aan het subsidieplafond.
+2. Indien het eerste lid tot gevolg heeft dat het subsidieplafond voor een kalenderjaar, bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0037971&artikel=4&z=2016-05-20&g=2016-05-20), wordt overschreden, worden alle subsidies met een gelijk percentage verminderd zodat het totaal van de subsidies gelijk is aan het subsidieplafond.
 
 ##### Artikel 10. Voorschot
 
-De Minister kan per maand aan de spoorwegonderneming een voorschot verstrekken, ter hoogte van ten hoogste 90% van het aantal in de laatste maand daarvoor extra gereden kilometers maal het bedrag per kilometer met toepassing van [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0037971&artikel=9&z=2016-05-20&g=2016-01-01).
+De Minister kan per maand aan de spoorwegonderneming een voorschot verstrekken, ter hoogte van ten hoogste 90% van het aantal in de laatste maand daarvoor extra gereden kilometers maal het bedrag per kilometer met toepassing van [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0037971&artikel=9&z=2016-05-20&g=2016-05-20).
 
 ##### Artikel 11. Bijkomende verplichtingen
 
