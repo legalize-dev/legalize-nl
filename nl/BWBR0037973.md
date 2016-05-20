@@ -4,7 +4,7 @@ identifier: "BWBR0037973"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2016-05-20"
-last_updated: "2016-01-01"
+last_updated: "2016-05-20"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0037973"
 soort: "ministeriele-regeling"
@@ -58,23 +58,23 @@ Aan de Chief Executive Officer van ProRail B.V. wordt mandaat verleend tot:
 
 Aan de Chief Executive Officer van ProRail B.V. wordt machtiging verleend tot:
 
-- a. het verrichten van alle benodigde werkzaamheden ter voorbereiding van de in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0037973&artikel=1&z=2016-05-20&g=2016-01-01) bedoelde besluiten;
+- a. het verrichten van alle benodigde werkzaamheden ter voorbereiding van de in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0037973&artikel=1&z=2016-05-20&g=2016-05-20) bedoelde besluiten;
 
-- b. het voeren van procedures bij de rechter over de in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0037973&artikel=1&z=2016-05-20&g=2016-01-01) bedoelde besluiten.
+- b. het voeren van procedures bij de rechter over de in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0037973&artikel=1&z=2016-05-20&g=2016-05-20) bedoelde besluiten.
 
 ##### Artikel 3
 
-De Chief Executive Officer van ProRail B.V. kan met betrekking tot de bevoegdheden, bedoeld in de [artikelen 1](https://wetten.overheid.nl/jci1.3:c:BWBR0037973&artikel=1&z=2016-05-20&g=2016-01-01) en [2](https://wetten.overheid.nl/jci1.3:c:BWBR0037973&artikel=2&z=2016-05-20&g=2016-01-01), ondermandaat en machtiging verlenen aan één of meer onder hem ressorterende functionarissen.
+De Chief Executive Officer van ProRail B.V. kan met betrekking tot de bevoegdheden, bedoeld in de [artikelen 1](https://wetten.overheid.nl/jci1.3:c:BWBR0037973&artikel=1&z=2016-05-20&g=2016-05-20) en [2](https://wetten.overheid.nl/jci1.3:c:BWBR0037973&artikel=2&z=2016-05-20&g=2016-05-20), ondermandaat en machtiging verlenen aan één of meer onder hem ressorterende functionarissen.
 
 ##### Artikel 4
 
-Bij de uitoefening van het mandaat en de machtiging neemt de Chief Executive Officer van ProRail B.V. of degene die ondermandaat of machtiging als bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0037973&artikel=3&z=2016-05-20&g=2016-01-01) is verleend, de in de bijlage bij dit besluit opgenomen instructie in acht.
+Bij de uitoefening van het mandaat en de machtiging neemt de Chief Executive Officer van ProRail B.V. of degene die ondermandaat of machtiging als bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0037973&artikel=3&z=2016-05-20&g=2016-05-20) is verleend, de in de bijlage bij dit besluit opgenomen instructie in acht.
 
 ##### Artikel 5
 
-Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin de [Tijdelijke subsidieregeling spoorgoederenvervoer voor bijzondere omleidingskosten](https://wetten.overheid.nl/jci1.3:c:BWBR0037971&wetgeving) wordt geplaatst en werkt terug tot en met 1 januari 2016.
+Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin de [Tijdelijke subsidieregeling spoorgoederenvervoer voor bijzondere omleidingskosten](https://wetten.overheid.nl/jci1.3:c:BWBR0037971) wordt geplaatst en werkt terug tot en met 1 januari 2016.
 
-## Bijlage. Instructie uitoefening mandaat en machtiging Tijdelijke subsidieregeling spoorgoederenvervoer voor bijzondere omleidingskosten als bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0037973&artikel=4&z=2016-05-20&g=2016-01-01)
+## Bijlage. Instructie uitoefening mandaat en machtiging Tijdelijke subsidieregeling spoorgoederenvervoer voor bijzondere omleidingskosten als bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0037973&artikel=4&z=2016-05-20&g=2016-05-20)
 
 - 1. De Chief Executive Officer van ProRail B.V. voert bij de uitoefening van het mandaat een ordentelijke en transparante administratie, die desgevraagd met de Minister wordt gedeeld.
 
@@ -94,9 +94,9 @@ Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van
 
 - 6. Van de verlening van ondermandaat en van het doorgeven van de machtiging doet de Chief Executive Officer van ProRail B.V. schriftelijk mededeling aan de Minister.
 
-- 7. Een document waarin een besluit als bedoeld in [artikel 1, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0037973&artikel=1&z=2016-05-20&g=2016-01-01), of handeling als bedoeld in [artikel 2, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0037973&artikel=2&z=2016-05-20&g=2016-01-01), wordt vastgelegd of bevestigd, bevat in ieder geval een verwijzing naar de Tijdelijke subsidieregeling spoorgoederenvervoer voor bijzondere omleidingskosten.
+- 7. Een document waarin een besluit als bedoeld in [artikel 1, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0037973&artikel=1&z=2016-05-20&g=2016-05-20), of handeling als bedoeld in [artikel 2, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0037973&artikel=2&z=2016-05-20&g=2016-05-20), wordt vastgelegd of bevestigd, bevat in ieder geval een verwijzing naar de Tijdelijke subsidieregeling spoorgoederenvervoer voor bijzondere omleidingskosten.
 
-- 8. Een document waarin een besluit als bedoeld in [artikel 1, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0037973&artikel=1&z=2016-05-20&g=2016-01-01), of handeling als bedoeld in [artikel 2, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0037973&artikel=2&z=2016-05-20&g=2016-01-01), wordt vastgelegd of bevestigd, vermeldt aan het slot:
+- 8. Een document waarin een besluit als bedoeld in [artikel 1, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0037973&artikel=1&z=2016-05-20&g=2016-05-20), of handeling als bedoeld in [artikel 2, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0037973&artikel=2&z=2016-05-20&g=2016-05-20), wordt vastgelegd of bevestigd, vermeldt aan het slot:
 
 ‘DE STAATSSECRETARIS VAN INFRASTRUCTUUR EN MILIEU,
 
