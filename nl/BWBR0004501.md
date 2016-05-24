@@ -4,7 +4,7 @@ identifier: "BWBR0004501"
 country: "nl"
 rank: "amvb"
 publication_date: "2024-01-01"
-last_updated: "2016-05-01"
+last_updated: "2016-05-24"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0004501"
 soort: "AMvB"
@@ -74,19 +74,19 @@ In dit besluit wordt verstaan onder:
 
 ##### Artikel 3
 
-1. De in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0004501&artikel=2&z=2016-05-24&g=2016-05-01) gestelde verboden gelden niet voor zover het betreft:
+1. De in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0004501&artikel=2&z=2016-05-24&g=2016-05-24) gestelde verboden gelden niet voor zover het betreft:
 
 - a. de toepassing, het bewaren of het voorhanden hebben in of het zich ontdoen door afgifte vanuit particuliere huishoudens;
 
-- b. het invoeren, voorhanden hebben of bewaren van organische halogeenverbindingen of preparaten welke direct na invoer in Nederland zijn of worden opgeslagen in een inrichting voor douane-opslag of een douane-entrepot en waarvan uit begeleidende documenten blijkt dat zij zonder enigerlei vorm van bewerking zullen worden doorgevoerd naar een bestemming buiten Nederland, en waarvan tevens aangetoond wordt dat zij tijdens het vervoer naar die bestemming niet als brandstof ingezet zullen worden;
+- b. het invoeren, voorhanden hebben of bewaren van organische halogeenverbindingen of preparaten welke direct na invoer in Nederland zijn of worden opgeslagen in een ruimte dan wel plaats voor tijdelijke opslag of in een douane-entrepot als bedoeld in artikel 147, eerste lid, onderscheidenlijk artikel 210, van Verordening (EU) nr. 952/2013 van het Europees Parlement en van de Raad van 9 oktober 2013 tot vaststelling van het douanewetboek van de Unie (PbEU 2013, L 269) en waarvan uit begeleidende documenten blijkt dat zij zonder enigerlei vorm van bewerking zullen worden doorgevoerd naar een bestemming buiten Nederland, en waarvan tevens aangetoond wordt dat zij tijdens het vervoer naar die bestemming niet als brandstof ingezet zullen worden;
 
 - c. preparaten op basis van tetraethyllood of tetramethyllood, bestemd voor de aanwending als anti-klopmiddel en als zodanig aanwezig in lichte olie als bedoeld in de [Wet op de accijns](https://wetten.overheid.nl/jci1.3:c:BWBR0005251) van minerale oliën (**Stb.** 1964, 207);
 
 - d. brandstoffen, aanwezig in de brandstoffentank van een vaartuig, voertuig of luchtvaartuig dat binnen Nederlands grondgebied wordt gebracht.
 
-2. De in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0004501&artikel=2&z=2016-05-24&g=2016-05-01) gestelde verboden gelden voorts niet voor zover:
+2. De in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0004501&artikel=2&z=2016-05-24&g=2016-05-24) gestelde verboden gelden voorts niet voor zover:
 
-- a. de in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0004501&artikel=2&z=2016-05-24&g=2016-05-01) genoemde handelingen worden verricht in overeenstemming met een vergunning of ontheffing, verleend krachtens de [artikel 2.1, eerste lid, aanhef en onder e, van de Wet algemene bepalingen omgevingsrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0024779&artikel=2.1), de [artikelen 10.54](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=10.54) juncto [10.63, tweede lid, van de Wet milieubeheer](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=10.63) of [artikel 3, eerste lid, van de Wet verontreiniging zeewater](https://wetten.overheid.nl/jci1.3:c:BWBR0002975&artikel=3), waarbij uitdrukkelijk de bevoegdheid is verleend handelingen te verrichten ten aanzien van gevaarlijke afvalstoffen, waarin zich polychloorbifenylen of andere organische halogeenverbindingen bevinden;
+- a. de in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0004501&artikel=2&z=2016-05-24&g=2016-05-24) genoemde handelingen worden verricht in overeenstemming met een vergunning of ontheffing, verleend krachtens de [artikel 2.1, eerste lid, aanhef en onder e, van de Wet algemene bepalingen omgevingsrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0024779&artikel=2.1), de [artikelen 10.54](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=10.54) juncto [10.63, tweede lid, van de Wet milieubeheer](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=10.63) of [artikel 3, eerste lid, van de Wet verontreiniging zeewater](https://wetten.overheid.nl/jci1.3:c:BWBR0002975&artikel=3), waarbij uitdrukkelijk de bevoegdheid is verleend handelingen te verrichten ten aanzien van gevaarlijke afvalstoffen, waarin zich polychloorbifenylen of andere organische halogeenverbindingen bevinden;
 
 - b. het betreft het zich ontdoen door afgifte aan of het bewaren of voorhanden hebben met het oog op het zich ontdoen door afgifte aan een persoon als bedoeld onder **a**. Dit moet blijken uit een schriftelijke overeenkomst met deze persoon;
 
