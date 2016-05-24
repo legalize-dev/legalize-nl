@@ -4,7 +4,7 @@ identifier: "BWBR0024235"
 country: "nl"
 rank: "amvb"
 publication_date: "2025-05-10"
-last_updated: "2016-05-01"
+last_updated: "2016-05-24"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0024235"
 soort: "AMvB"
@@ -82,11 +82,11 @@ Kosten zijn verschuldigd:
 
 - 2°. op andere plaatsen dan die aangewezen zijn voor het onderzoek van goederen; of
 
-- 3°. waarbij speciale kosten als bedoeld in artikel 11, tweede lid, van het Communautair douanewetboek, zijn gemaakt;
+- 3°. voor analyses of deskundigenverslagen van goederen en portokosten voor het retourneren van de goederen aan de aanvrager bij het verstrekken van inlichtingen als bedoeld in artikel 14, eerste lid, van het Douanewetboek van de Unie;
 
-- b. voor het doen vernietigen van goederen, bedoeld in artikel 56 van het Communautair douanewetboek;
+- b. voor het doen vernietigen van goederen, bedoeld in artikel 197 van het Douanewetboek van de Unie;
 
-- c. voor het ambtshalve onderzoek van de goederen, bedoeld in artikel 241, tweede lid, van de toepassingsverordening Communautair douanewetboek;
+- c. voor het ambtshalve onderzoek van de goederen, bedoeld in de artikelen 239, tweede lid, en 240, tweede lid, van de Uitvoeringsverordening Douanewetboek van de Unie;
 
 - d. inzake het aanvullend onderzoek van goederen, ingeval de verschillen tussen de uitkomst van het gedeeltelijk onderzoek en de uitkomst van het aanvullend onderzoek, blijven binnen de spelingen, bedoeld in [artikel 1:35 van de Algemene douanewet](https://wetten.overheid.nl/jci1.3:c:BWBR0023746&artikel=1:35).
 
@@ -196,7 +196,7 @@ De ambtenaar mag in verband met zijn eigen veiligheid of die van anderen slechts
 
 - b. het aanbrengen bij de douane;
 
-- c. het geven van een douanebestemming; of
+- c. het plaatsen onder een douaneregeling; of
 
 - d. het verlaten van het douanegebied.
 
@@ -272,43 +272,35 @@ De vergunninghouder aan wie een vergunning is verleend ingevolge de douanewetgev
 
 ##### Artikel 5:1
 
-1. De aanvraag, bedoeld in artikel 800 van de Toepassingsverordening Communautair douanewetboek, wordt ingediend bij de inspecteur en dient te geschieden door de beoogd beheerder van de vrije zone of het vrij entrepot.
-
-2. De instelling van een vrije zone of de plaats waar een vrij entrepot kan worden opgericht, geschiedt bij ministeriële regeling van Onze minister van Financiën, in voorkomend geval op voordracht van de inspecteur bij wie de in het eerste lid bedoelde aanvraag is gedaan.
-
-3. De vergunning tot beheer van een vrije zone of een vrij entrepot wordt door de inspecteur afgegeven aan de beheerder, bedoeld in het eerste lid.
-
-4. Bij ministeriële regeling kunnen nadere regels worden gesteld ter zake van de werking van de vrije zone of het vrij entrepot.
-
-5. Om werkzaam te kunnen zijn in een vrije zone of in een vrij entrepot dient de belanghebbende, bedoeld in artikel 799, onderdeel c, van de Toepassingsverordening Communautair douanewetboek, te beschikken over een vergunning voor gebruik die de inspecteur op aanvraag verstrekt. Deze aanvraag wordt mede ondertekend door de beheerder, bedoeld in het eerste lid.
+Vervallen
 
 ### Hoofdstuk 6. Bestuurlijke boeten
 
 ##### Artikel 6:1
 
-Indien de belanghebbende, bedoeld in artikel 799 van de Toepassingsverordening Communautair douanewetboek, niet de inspecteur vooraf van de uitoefening van de activiteiten, bedoeld in artikel 172, eerste lid, van het Communautair douanewetboek, in kennis heeft gesteld, vormt dit een verzuim ter zake waarvan door de inspecteur een bestuurlijke boete kan worden opgelegd van ten hoogste € 321.
+Vervallen
 
 ##### Artikel 6:2
 
-Indien niet aan de bij [artikel 4:1](https://wetten.overheid.nl/jci1.3:c:BWBR0024235&hoofdstuk=4&artikel=4:1&z=2016-05-24&g=2016-05-01) opgelegde verplichting is voldaan, vormt dit een verzuim ter zake waarvan door de inspecteur een bestuurlijke boete kan worden opgelegd van ten hoogste € 321.
+Indien niet aan de bij [artikel 4:1](https://wetten.overheid.nl/jci1.3:c:BWBR0024235&hoofdstuk=4&artikel=4:1&z=2016-05-24&g=2016-05-24) opgelegde verplichting is voldaan, vormt dit een verzuim ter zake waarvan door de inspecteur een bestuurlijke boete kan worden opgelegd van ten hoogste € 321.
 
 ##### Artikel 6:3
 
-Overtreding van het verbod, bedoeld in [artikel 3:2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024235&hoofdstuk=3&artikel=3:2&z=2016-05-24&g=2016-05-01), vormt een verzuim ter zake waarvan door de inspecteur een bestuurlijke boete kan worden opgelegd van ten hoogste € 321.
+Overtreding van het verbod, bedoeld in [artikel 3:2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024235&hoofdstuk=3&artikel=3:2&z=2016-05-24&g=2016-05-24), vormt een verzuim ter zake waarvan door de inspecteur een bestuurlijke boete kan worden opgelegd van ten hoogste € 321.
 
 ### Hoofdstuk 7. Strafrechtelijke bepalingen
 
 ##### Artikel 7:1
 
-De belanghebbende, bedoeld in artikel 799 van de Toepassingsverordening Communautair douanewetboek, die niet de inspecteur vooraf van de uitoefening van de activiteiten, bedoeld in artikel 172, eerste lid, van het Communautair douanewetboek, in kennis heeft gesteld, maakt zich schuldig aan het plegen van een strafbaar feit.
+Vervallen
 
 ##### Artikel 7:2
 
-Degene die de bij [artikel 4:1](https://wetten.overheid.nl/jci1.3:c:BWBR0024235&hoofdstuk=4&artikel=4:1&z=2016-05-24&g=2016-05-01) opgelegde verplichting schendt, maakt zich schuldig aan het plegen van een strafbaar feit.
+Degene die de bij [artikel 4:1](https://wetten.overheid.nl/jci1.3:c:BWBR0024235&hoofdstuk=4&artikel=4:1&z=2016-05-24&g=2016-05-24) opgelegde verplichting schendt, maakt zich schuldig aan het plegen van een strafbaar feit.
 
 ##### Artikel 7:3
 
-Degene die het verbod, bedoeld in [artikel 3:2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024235&hoofdstuk=3&artikel=3:2&z=2016-05-24&g=2016-05-01), of [3:5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024235&hoofdstuk=3&artikel=3:5&z=2016-05-24&g=2016-05-01), overtreedt, maakt zich schuldig aan het plegen van een strafbaar feit.
+Degene die het verbod, bedoeld in [artikel 3:2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024235&hoofdstuk=3&artikel=3:2&z=2016-05-24&g=2016-05-24), of [3:5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024235&hoofdstuk=3&artikel=3:5&z=2016-05-24&g=2016-05-24), overtreedt, maakt zich schuldig aan het plegen van een strafbaar feit.
 
 ### Hoofdstuk 8. Slotbepalingen
 
@@ -324,7 +316,7 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 ##### Artikel 6:4
 
-De in de [artikelen 6:1](https://wetten.overheid.nl/jci1.3:c:BWBR0024235&hoofdstuk=6&artikel=6:1&z=2016-05-24&g=2016-05-01), [6:2](https://wetten.overheid.nl/jci1.3:c:BWBR0024235&hoofdstuk=6&artikel=6:2&z=2016-05-24&g=2016-05-01) en [6:3](https://wetten.overheid.nl/jci1.3:c:BWBR0024235&hoofdstuk=6&artikel=6:3&z=2016-05-24&g=2016-05-01) genoemde bedragen worden elke vijf jaar, met ingang van 1 januari 2015, overeenkomstig [artikel 9:6a van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0023746&artikel=9:6a), bij ministeriële regeling gewijzigd.
+De in de [artikelen 6:2](https://wetten.overheid.nl/jci1.3:c:BWBR0024235&hoofdstuk=6&artikel=6:2&z=2016-05-24&g=2016-05-24) en [6:3](https://wetten.overheid.nl/jci1.3:c:BWBR0024235&hoofdstuk=6&artikel=6:3&z=2016-05-24&g=2016-05-24) genoemde bedragen worden elke vijf jaar, met ingang van 1 januari 2015, overeenkomstig [artikel 9:6a van de Algemene douanewet](https://wetten.overheid.nl/jci1.3:c:BWBR0023746&artikel=9:6a), bij ministeriële regeling gewijzigd.
 
 ### Hoofdstuk 7. Strafrechtelijke bepalingen
 
