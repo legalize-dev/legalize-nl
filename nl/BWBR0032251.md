@@ -4,7 +4,7 @@ identifier: "BWBR0032251"
 country: "nl"
 rank: "amvb"
 publication_date: "2016-05-24"
-last_updated: "2013-01-01"
+last_updated: "2016-05-24"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0032251"
 soort: "AMvB"
@@ -48,7 +48,7 @@ Hebben goedgevonden en verstaan:
 
 ##### Artikel 1
 
-De wijkagent verricht in elk geval de door Onze Minister vastgestelde werkzaamheden.
+De wijkagent verricht in elk geval de werkzaamheden die op grond van [artikel 6, tweede lid, van het Besluit bezoldiging politie](https://wetten.overheid.nl/jci1.3:c:BWBR0006517&artikel=6) in het Landelijk Functiegebouw Nederlandse Politie aan het werkterrein «wijkagent» zijn verbonden.
 
 ##### Artikel 2
 
