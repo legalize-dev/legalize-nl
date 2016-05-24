@@ -4,7 +4,7 @@ identifier: "BWBR0037969"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2016-05-24"
-last_updated: "2016-01-01"
+last_updated: "2016-05-24"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0037969"
 soort: "ministeriele-regeling"
@@ -50,7 +50,7 @@ Wijzigt het Besluit vaststelling beleidsregels subsidieverlening (financiering o
 
 ##### Artikel II
 
-Tot en met 31 december 2016 kunnen in het kader van het [Besluit van de Minister voor Buitenlandse Handel en Ontwikkelingssamenwerking van 3 juni 2015, nr. MINBUZA-2015.284090, tot vaststelling van beleidsregels voor subsidieverlening met het oog op de financiering van ontwikkelingsrelevante infrastructuurprojecten in ontwikkelingslanden (DRIVE)](https://wetten.overheid.nl/jci1.3:c:BWBR0036675&wetgeving) aanvragen worden ingediend met betrekking tot Albanië, Bosnië-Herzegovina, Macedonië, de Maldiven en Thailand.
+Tot en met 31 december 2016 kunnen in het kader van het [Besluit van de Minister voor Buitenlandse Handel en Ontwikkelingssamenwerking van 3 juni 2015, nr. MINBUZA-2015.284090, tot vaststelling van beleidsregels voor subsidieverlening met het oog op de financiering van ontwikkelingsrelevante infrastructuurprojecten in ontwikkelingslanden (DRIVE)](https://wetten.overheid.nl/jci1.3:c:BWBR0036675) aanvragen worden ingediend met betrekking tot Albanië, Bosnië-Herzegovina, Macedonië, de Maldiven en Thailand.
 
 ##### Artikel III
 
