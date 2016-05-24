@@ -4,7 +4,7 @@ identifier: "BWBR0009890"
 country: "nl"
 rank: "amvb"
 publication_date: "2023-04-19"
-last_updated: "2016-05-01"
+last_updated: "2016-05-24"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0009890"
 soort: "AMvB"
@@ -76,7 +76,7 @@ Hebben goedgevonden en verstaan:
 
 2. Het verbod geldt niet met betrekking tot een kwikhoudend product dat:
 
-- 1°. valt onder een douaneregeling en bestemd is voor douanevervoer, plaatsing in douane-entrepot of voor tijdelijke invoer als bedoeld in artikel 4, onderdeel 16, van [verordening (EEG) nr. 2913/92](31992R2913) van de Raad van de Europese Gemeenschappen van 12 oktober 1992, tot vaststelling van het communautair douanewetboek (PbEG L 302);
+- 1°. zich bevindt in tijdelijke opslag als bedoeld in artikel 5, zeventiende lid, van Verordening (EU) nr. 952/2013 van het Europees Parlement en van de Raad van 9 oktober 2013 tot vaststelling van het douanewetboek van de Unie (PbEU 2013, L 269) of dat is geplaatst onder een douaneregeling inhoudende de bijzondere regeling douanevervoer, douane-entrepot of tijdelijke invoer, bedoeld in artikel 210 van die verordening;
 
 - 2°. ten minste 100 jaar oud is, of
 
@@ -100,7 +100,7 @@ Vervallen
 
 ##### Artikel 2.4
 
-De verboden, bedoeld in de [artikelen 2.1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009890&paragraaf=2&artikel=2.1&z=2016-05-24&g=2016-05-01), en [2.3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009890&paragraaf=2&artikel=2.3&z=2016-05-24&g=2016-05-01), gelden niet met betrekking tot de volgende kwikhoudende producten:
+De verboden, bedoeld in de [artikelen 2.1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009890&paragraaf=2&artikel=2.1&z=2016-05-24&g=2016-05-24), en [2.3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009890&paragraaf=2&artikel=2.3&z=2016-05-24&g=2016-05-24), gelden niet met betrekking tot de volgende kwikhoudende producten:
 
 - a. een pycno- of porosimeter ter bepaling van het poriënvolume van grond of andere poreuze vaste stoffen;
 
@@ -134,7 +134,7 @@ De verboden, bedoeld in de [artikelen 2.1, eerste lid](https://wetten.overheid.n
 
 ##### Artikel 2.5
 
-De verboden, bedoeld in de [artikelen 2.1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009890&paragraaf=2&artikel=2.1&z=2016-05-24&g=2016-05-01), en [2.3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009890&paragraaf=2&artikel=2.3&z=2016-05-24&g=2016-05-01), gelden niet met betrekking tot elektrotechnische componenten die dienen als reserve-onderdelen voor apparatuur waarvan degene die deze apparatuur bezit, kan aantonen dat die apparatuur voor 1 januari 2003 voor het eerst voor gebruik ter beschikking is gesteld.
+De verboden, bedoeld in de [artikelen 2.1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009890&paragraaf=2&artikel=2.1&z=2016-05-24&g=2016-05-24), en [2.3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009890&paragraaf=2&artikel=2.3&z=2016-05-24&g=2016-05-24), gelden niet met betrekking tot elektrotechnische componenten die dienen als reserve-onderdelen voor apparatuur waarvan degene die deze apparatuur bezit, kan aantonen dat die apparatuur voor 1 januari 2003 voor het eerst voor gebruik ter beschikking is gesteld.
 
 #### § 2a. Handelingen met kwik en kwikverbindingen
 
@@ -174,7 +174,7 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 ##### Artikel 1.1a
 
-[Artikel 2.6](https://wetten.overheid.nl/jci1.3:c:BWBR0009890&paragraaf=2a&artikel=2.6&z=2016-05-24&g=2016-05-01) is mede van toepassing op handelingen verricht binnen de exclusieve economische zone.
+[Artikel 2.6](https://wetten.overheid.nl/jci1.3:c:BWBR0009890&paragraaf=2a&artikel=2.6&z=2016-05-24&g=2016-05-24) is mede van toepassing op handelingen verricht binnen de exclusieve economische zone.
 
 #### § 2. Handelingen met kwikhoudende producten
 
