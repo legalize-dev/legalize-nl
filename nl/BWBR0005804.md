@@ -4,7 +4,7 @@ identifier: "BWBR0005804"
 country: "nl"
 rank: "amvb"
 publication_date: "2023-02-16"
-last_updated: "2016-05-01"
+last_updated: "2016-05-24"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0005804"
 soort: "AMvB"
@@ -104,7 +104,7 @@ Hebben goedgevonden en verstaan:
 
 12. Indien de maandverklaring niet wordt terugontvangen voorzien van de in het elfde lid bedoelde verklaring, stelt de vergunninghouder van de inrichting van waaruit de goederen zijn overgebracht, de inspecteur daarvan onverwijld in kennis, maar uiterlijk binnen één week na afloop van de maand waarin de maandverklaring door hem moet zijn terugontvangen.
 
-13. Bij toepassing van het zesde lid is [artikel 27](https://wetten.overheid.nl/jci1.3:c:BWBR0005804&hoofdstuk=IV&afdeling=1&artikel=27&z=2016-05-24&g=2016-05-01) van overeenkomstige toepassing.
+13. Bij toepassing van het zesde lid is [artikel 27](https://wetten.overheid.nl/jci1.3:c:BWBR0005804&hoofdstuk=IV&afdeling=1&artikel=27&z=2016-05-24&g=2016-05-24) van overeenkomstige toepassing.
 
 ##### Artikel 3
 
@@ -164,7 +164,7 @@ Het brengen, bedoeld in [artikel 5, derde lid, onderdeel a, van de wet](https://
 
 ##### Artikel 10
 
-1. In de vervoersopdracht, bedoeld in de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0005804&hoofdstuk=I&afdeling=2&artikel=2&z=2016-05-24&g=2016-05-01) en [8](https://wetten.overheid.nl/jci1.3:c:BWBR0005804&hoofdstuk=I&afdeling=2&artikel=8&z=2016-05-24&g=2016-05-01), worden vermeld:
+1. In de vervoersopdracht, bedoeld in de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0005804&hoofdstuk=I&afdeling=2&artikel=2&z=2016-05-24&g=2016-05-24) en [8](https://wetten.overheid.nl/jci1.3:c:BWBR0005804&hoofdstuk=I&afdeling=2&artikel=8&z=2016-05-24&g=2016-05-24), worden vermeld:
 
 - a. de naam en het adres van degene die de vervoersopdracht opmaakt dan wel van degene in wiens opdracht zij wordt opgemaakt;
 
@@ -196,7 +196,7 @@ Het brengen, bedoeld in [artikel 5, derde lid, onderdeel a, van de wet](https://
 
 - a. de uitgeslagen alcoholvrije dranken en de daarvoor uitgereikte facturen;
 
-- b. de vervoersopdrachten of, indien [artikel 2, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005804&hoofdstuk=I&afdeling=2&artikel=2&z=2016-05-24&g=2016-05-01), toepassing vindt, de overgebrachte alcoholvrije dranken met de daarbij behorende gegevens en de daarvoor uitgereikte facturen;
+- b. de vervoersopdrachten of, indien [artikel 2, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005804&hoofdstuk=I&afdeling=2&artikel=2&z=2016-05-24&g=2016-05-24), toepassing vindt, de overgebrachte alcoholvrije dranken met de daarbij behorende gegevens en de daarvoor uitgereikte facturen;
 
 - c. de uit Nederland betrokken alcoholvrije dranken;
 
@@ -208,7 +208,7 @@ Het brengen, bedoeld in [artikel 5, derde lid, onderdeel a, van de wet](https://
 
 ##### Artikel 12
 
-1. Indien degene die om een vergunning voor een inrichting verzoekt naar het oordeel van de inspecteur niet volledig kan voldoen aan het bepaalde in [artikel 11, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005804&hoofdstuk=II&artikel=11&z=2016-05-24&g=2016-05-01), stelt de inspecteur voorwaarden met betrekking tot de locatie en de inrichting van de inrichting, alsmede met betrekking tot het stelsel van toezicht.
+1. Indien degene die om een vergunning voor een inrichting verzoekt naar het oordeel van de inspecteur niet volledig kan voldoen aan het bepaalde in [artikel 11, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005804&hoofdstuk=II&artikel=11&z=2016-05-24&g=2016-05-24), stelt de inspecteur voorwaarden met betrekking tot de locatie en de inrichting van de inrichting, alsmede met betrekking tot het stelsel van toezicht.
 
 2. De in het eerste lid bedoelde inrichting van een inrichting heeft mede betrekking op de daar aanwezige productie-, transport- en opslaginstallaties.
 
@@ -228,7 +228,7 @@ Vervallen
 
 3. Degene die de alcoholvrije dranken met vrijstelling betrekt dient zekerheid te stellen voor de belasting die hij verschuldigd kan worden. De [artikelen 56, vijfde tot en met achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005251&artikel=56), en [57 tot en met 60 van de Wet op de accijns](https://wetten.overheid.nl/jci1.3:c:BWBR0005251&artikel=57) zijn van overeenkomstige toepassing.
 
-4. Met betrekking tot het brengen van alcoholvrije dranken vanuit een inrichting, een derde land, een andere lidstaat, een entrepot of een plaats voor tijdelijke opslag naar degene die de goederen met vrijstelling betrekt, zijn de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0005804&hoofdstuk=I&afdeling=2&artikel=2&z=2016-05-24&g=2016-05-01), [5](https://wetten.overheid.nl/jci1.3:c:BWBR0005804&hoofdstuk=I&afdeling=2&artikel=5&z=2016-05-24&g=2016-05-01), [8](https://wetten.overheid.nl/jci1.3:c:BWBR0005804&hoofdstuk=I&afdeling=2&artikel=8&z=2016-05-24&g=2016-05-01) en [10](https://wetten.overheid.nl/jci1.3:c:BWBR0005804&hoofdstuk=I&afdeling=2&artikel=10&z=2016-05-24&g=2016-05-01) van overeenkomstige toepassing, met dien verstande dat het nummer van de vergunning van degene die de alcoholvrije dranken met vrijstelling mag betrekken dient te worden vermeld op de vervoersopdracht of het bescheid, dan wel dient te worden opgenomen in de administratie van de inrichting van waaruit de alcoholvrije dranken worden overgebracht met overeenkomstige toepassing van artikel 2, zesde lid.
+4. Met betrekking tot het brengen van alcoholvrije dranken vanuit een inrichting, een derde land, een andere lidstaat, een douane-entrepot of een plaats voor tijdelijke opslag naar degene die de goederen met vrijstelling betrekt, zijn de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0005804&hoofdstuk=I&afdeling=2&artikel=2&z=2016-05-24&g=2016-05-24), [5](https://wetten.overheid.nl/jci1.3:c:BWBR0005804&hoofdstuk=I&afdeling=2&artikel=5&z=2016-05-24&g=2016-05-24), [8](https://wetten.overheid.nl/jci1.3:c:BWBR0005804&hoofdstuk=I&afdeling=2&artikel=8&z=2016-05-24&g=2016-05-24) en [10](https://wetten.overheid.nl/jci1.3:c:BWBR0005804&hoofdstuk=I&afdeling=2&artikel=10&z=2016-05-24&g=2016-05-24) van overeenkomstige toepassing, met dien verstande dat het nummer van de vergunning van degene die de alcoholvrije dranken met vrijstelling mag betrekken dient te worden vermeld op de vervoersopdracht of het bescheid, dan wel dient te worden opgenomen in de administratie van de inrichting van waaruit de alcoholvrije dranken worden overgebracht met overeenkomstige toepassing van artikel 2, zesde lid.
 
 ##### Artikel 15
 
@@ -278,7 +278,7 @@ Vrijstelling van belasting ter zake van de uitslag of de invoer van alcoholvrije
 
 ##### Artikel 18
 
-Voor de toepassing van de teruggaaf van belasting voor alcoholvrije dranken in gevallen waarin deze goederen op de voet van [artikel 29 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005802&artikel=29) zouden kunnen worden betrokken met vrijstelling, is [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0005804&hoofdstuk=III&afdeling=1&artikel=14&z=2016-05-24&g=2016-05-01) van overeenkomstige toepassing met uitzondering van het bepaalde in het derde en het vierde lid van dat artikel.
+Voor de toepassing van de teruggaaf van belasting voor alcoholvrije dranken in gevallen waarin deze goederen op de voet van [artikel 29 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005802&artikel=29) zouden kunnen worden betrokken met vrijstelling, is [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0005804&hoofdstuk=III&afdeling=1&artikel=14&z=2016-05-24&g=2016-05-24) van overeenkomstige toepassing met uitzondering van het bepaalde in het derde en het vierde lid van dat artikel.
 
 ##### Artikel 19
 
@@ -302,7 +302,7 @@ Teruggaaf van belasting waarvoor op de voet van [artikel 30 van de wet](https://
 
 ##### Artikel 21
 
-Voor de toepassing van teruggaaf van belasting voor onder ambtelijk toezicht vernietigde alcoholvrije dranken is [artikel 20, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005804&hoofdstuk=III&afdeling=2&artikel=20&z=2016-05-24&g=2016-05-01), van overeenkomstige toepassing.
+Voor de toepassing van teruggaaf van belasting voor onder ambtelijk toezicht vernietigde alcoholvrije dranken is [artikel 20, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005804&hoofdstuk=III&afdeling=2&artikel=20&z=2016-05-24&g=2016-05-24), van overeenkomstige toepassing.
 
 ##### Artikel 22
 
@@ -340,7 +340,7 @@ Bij een verzoek om teruggaaf binnen drie maanden na een tariefwijziging van de b
 
 ##### Artikel 27
 
-1. Van alcoholvrije dranken die worden vervoerd dan wel voorhanden zijn buiten een inrichting of een entrepot, moet aan de hand van bescheiden de herkomst kunnen worden aangetoond.
+1. Van alcoholvrije dranken die worden vervoerd dan wel voorhanden zijn buiten een inrichting of een douane-entrepot, moet aan de hand van bescheiden de herkomst kunnen worden aangetoond.
 
 2. Het bescheid dat wordt gebruikt om de herkomst aan te tonen van alcoholvrije dranken die worden vervoerd, mag niet ouder zijn dan zes dagen, tenzij wordt aangetoond dat het vervoer langer dan zes dagen geleden is aangevangen.
 
@@ -354,11 +354,11 @@ Met betrekking tot het verlenen, het aanpassen en het intrekken van op grond van
 
 ##### Artikel 29
 
-In een douane-entrepot van het type B of van het type C als bedoeld in artikel 525 van de toepassingsverordening Communautair douanewetboek mogen voorhanden zijn EU-alcoholvrije dranken als bedoeld in artikel 4, zevende lid, van het Communautair douanewetboek die voor uitvoer zijn vrijgegeven en die in afwachting van het verlaten van de Unie worden opgeslagen in een douane-entrepot van het type B of van het type C, met toepassing van artikel 106, eerste lid, onderdeel a, van het Communautair douanewetboek in samenhang met artikel 534 van de toepassingsverordening Communautair douanewetboek.
+In een publiek douane-entrepot type II als bedoeld in artikel 1, drieëndertigste lid, van de Gedelegeerde Verordening Douanewetboek van de Unie, of een particulier douane-entrepot als bedoeld in artikel 240, tweede lid, van het Douanewetboek van de Unie mogen alcoholvrije dranken met de douanestatus van Uniegoederen als bedoeld in artikel 5, drieëntwintigste lid, van het Douanewetboek van de Unie voorhanden zijn die voor uitvoer zijn vrijgegeven en die in afwachting van het verlaten van de Unie worden opgeslagen in een douane-entrepot, met toepassing van artikel 237, derde lid, van het Douanewetboek van de Unie, in samenhang met artikel 177 van de Gedelegeerde Verordening Douanewetboek van de Unie.
 
 ##### Artikel 30
 
-1. De voor opslag bestemde inrichtingen van de vergunninghouder van een douane-entrepot van het type E of van het type C, bedoeld in artikel 525, tweede lid, onderdeel b, onderscheidenlijk onderdeel c, van de toepassingsverordening Communautair douanewetboek, kunnen voor de opslag van alcoholvrije dranken als inrichting worden aangewezen.
+1. De opslagruimte van een particulier douane-entrepot als bedoeld in artikel 240, tweede lid, van het Douanewetboek van de Unie kan voor de opslag van alcoholvrije dranken als inrichting worden aangewezen.
 
 2. Uit de administratie van de vergunninghouder voor de inrichting en voor een douane-entrepot als bedoeld in het eerste lid, blijkt op overzichtelijke wijze welke goederen in de inrichting zijn opgeslagen en welke in het douane-entrepot.
 
@@ -366,7 +366,7 @@ In een douane-entrepot van het type B of van het type C als bedoeld in artikel 5
 
 4. Voor de in het derde lid bedoelde overbrengingen is geen vervoersopdracht vereist.
 
-5. Op verzoek kunnen alcoholvrije dranken worden aangemerkt als voorhanden te zijn in plaatsen waarvoor een in het eerste lid bedoelde vergunning is verleend indien zij in de administratie van de inrichting dan wel van het douane-entrepot zijn opgenomen. In afwijking in zoverre van [artikel 2, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005804&hoofdstuk=I&afdeling=2&artikel=2&z=2016-05-24&g=2016-05-01), worden de vervoersopdrachten alsdan voorzien van de verklaring dat de goederen in de administratie zijn opgenomen.
+5. Op verzoek kunnen alcoholvrije dranken worden aangemerkt als voorhanden te zijn in plaatsen waarvoor een in het eerste lid bedoelde vergunning is verleend indien zij in de administratie van de inrichting dan wel van het douane-entrepot zijn opgenomen. In afwijking in zoverre van [artikel 2, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005804&hoofdstuk=I&afdeling=2&artikel=2&z=2016-05-24&g=2016-05-24), worden de vervoersopdrachten alsdan voorzien van de verklaring dat de goederen in de administratie zijn opgenomen.
 
 ### Hoofdstuk V. Ontheffing verbodsbepalingen
 
@@ -382,7 +382,7 @@ Vervallen
 
 Strafbare feiten zijn:
 
-- a. het nalaten te voldoen aan een in de [artikelen 2, vierde, vijfde, zesde, achtste, negende, tiende en twaalfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005804&hoofdstuk=I&afdeling=2&artikel=2&z=2016-05-24&g=2016-05-01), [3, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005804&hoofdstuk=I&afdeling=2&artikel=3&z=2016-05-24&g=2016-05-01), [7](https://wetten.overheid.nl/jci1.3:c:BWBR0005804&hoofdstuk=I&afdeling=2&artikel=7&z=2016-05-24&g=2016-05-01), [11](https://wetten.overheid.nl/jci1.3:c:BWBR0005804&hoofdstuk=II&artikel=11&z=2016-05-24&g=2016-05-01), [15](https://wetten.overheid.nl/jci1.3:c:BWBR0005804&hoofdstuk=III&afdeling=1&artikel=15&z=2016-05-24&g=2016-05-01), [16](https://wetten.overheid.nl/jci1.3:c:BWBR0005804&hoofdstuk=III&afdeling=1&artikel=16&z=2016-05-24&g=2016-05-01) en [27](https://wetten.overheid.nl/jci1.3:c:BWBR0005804&hoofdstuk=IV&afdeling=1&artikel=27&z=2016-05-24&g=2016-05-01) opgenomen verplichting en een op grond van [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0005804&hoofdstuk=II&artikel=12&z=2016-05-24&g=2016-05-01) opgelegde verplichting; en
+- a. het nalaten te voldoen aan een in de [artikelen 2, vierde, vijfde, zesde, achtste, negende, tiende en twaalfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005804&hoofdstuk=I&afdeling=2&artikel=2&z=2016-05-24&g=2016-05-24), [3, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005804&hoofdstuk=I&afdeling=2&artikel=3&z=2016-05-24&g=2016-05-24), [7](https://wetten.overheid.nl/jci1.3:c:BWBR0005804&hoofdstuk=I&afdeling=2&artikel=7&z=2016-05-24&g=2016-05-24), [11](https://wetten.overheid.nl/jci1.3:c:BWBR0005804&hoofdstuk=II&artikel=11&z=2016-05-24&g=2016-05-24), [15](https://wetten.overheid.nl/jci1.3:c:BWBR0005804&hoofdstuk=III&afdeling=1&artikel=15&z=2016-05-24&g=2016-05-24), [16](https://wetten.overheid.nl/jci1.3:c:BWBR0005804&hoofdstuk=III&afdeling=1&artikel=16&z=2016-05-24&g=2016-05-24) en [27](https://wetten.overheid.nl/jci1.3:c:BWBR0005804&hoofdstuk=IV&afdeling=1&artikel=27&z=2016-05-24&g=2016-05-24) opgenomen verplichting en een op grond van [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0005804&hoofdstuk=II&artikel=12&z=2016-05-24&g=2016-05-24) opgelegde verplichting; en
 
 - b. het overigens in strijd met dit besluit vervoeren of voorhanden hebben van alcoholvrije dranken.
 
