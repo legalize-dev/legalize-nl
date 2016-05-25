@@ -4,7 +4,7 @@ identifier: "BWBR0024841"
 country: "nl"
 rank: "amvb"
 publication_date: "2023-03-01"
-last_updated: "2012-01-01"
+last_updated: "2016-05-25"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0024841"
 soort: "AMvB"
@@ -46,6 +46,8 @@ Gezien het nader rapport van Onze Minister van Volksgezondheid, Welzijn en Sport
 
 Hebben goedgevonden en verstaan:
 
+Treedt in werking op het tijdstip waarop artikel 8 van de Wet op de beroepen in de individuele gezondheidszorg en de artikelen I, onderdelen A en B en IA van de Wijzigingswet Wet op de beroepen in de individuele gezondheidszorg (periodieke registratie) (Stb. 2007/237) in werking treden.
+
 ##### Artikel 1
 
 In dit besluit wordt verstaan onder:
@@ -82,7 +84,7 @@ In dit besluit wordt verstaan onder:
 
 ##### Artikel 3
 
-1. De in [artikel 8, tweede lid, onderdeel c, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&artikel=8) bedoelde werkzaamheden worden in de in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0024841&artikel=2&z=2012-01-01&g=2012-01-01) bedoelde periode verricht gedurende minimaal 2080 uren, waarbij de werkzaamheden maximaal voor een periode van twee aaneengesloten jaren kunnen worden onderbroken. In afwijking van de eerste volzin, geldt voor de ingeschrevenen in een register als bedoeld in artikel 2, eerste lid, onder g of h, een periode van minimaal 3120 uren. Indien de werkzaamheden langer dan twee jaren worden onderbroken, worden de werkzaamheden die zijn verricht voor de onderbreking niet meegeteld bij de vaststelling van het aantal gewerkte uren.
+1. De in [artikel 8, tweede lid, onderdeel c, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&artikel=8) bedoelde werkzaamheden worden in de in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0024841&artikel=2&z=2016-05-25&g=2016-05-25) bedoelde periode verricht gedurende minimaal 2080 uren, waarbij de werkzaamheden maximaal voor een periode van twee aaneengesloten jaren kunnen worden onderbroken. In afwijking van de eerste volzin, geldt voor de ingeschrevenen in een register als bedoeld in artikel 2, eerste lid, onder g of h, een periode van minimaal 3120 uren. Indien de werkzaamheden langer dan twee jaren worden onderbroken, worden de werkzaamheden die zijn verricht voor de onderbreking niet meegeteld bij de vaststelling van het aantal gewerkte uren.
 
 2. Bij ministeriële regeling worden nadere regels gesteld inzake de werkzaamheden die meetellen bij de berekening van het aantal uren waarbinnen werkzaamheden zijn verricht op het terrein van het desbetreffende beroep.
 
@@ -156,7 +158,15 @@ gaat het formulier vergezeld van bewijsstukken van aard, omvang, duur, en spreid
 
 ##### Artikel 7
 
-Wijzigt het Besluit buitenslands gediplomeerden volksgezondheid.
+1. In afwijking van [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024841&artikel=2&z=2016-05-25&g=2016-05-25), geldt voor artsen van wie de aangetekende datum, bedoeld in [artikel 8, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&artikel=8) is gelegen voor 1 januari 2013, dat de periode, bedoeld in artikel 8, eerste lid van de wet, duurt van de aangetekende datum tot 1 januari 2018.
+
+2. Voor artsen voor wie een periode is vastgesteld in het eerste lid, wordt bij de toepassing van [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0024841&artikel=3&z=2016-05-25&g=2016-05-25) uitgegaan van een periode van vijf aansluitende jaren, die aanvangt op:
+
+- a. de aangetekende datum, of
+
+- b. 1 januari 2013.
+
+3. Voor de toepassing van [artikel 6, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024841&artikel=6&z=2016-05-25&g=2016-05-25), wordt de periode, bedoeld in het eerste lid, gelijkgesteld met een periode van vijf jaar.
 
 ##### Artikel 8
 
