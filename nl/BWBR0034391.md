@@ -4,7 +4,7 @@ identifier: "BWBR0034391"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2019-04-01"
-last_updated: "2014-01-01"
+last_updated: "2016-05-26"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0034391"
 soort: "ministeriele-regeling"
@@ -62,31 +62,49 @@ In dit besluit wordt verstaan onder:
 
 Aan de Directeur-Generaal wordt mandaat, volmacht en machtiging verleend om namens de Minister:
 
-- a. het functionele en technische beheer over de centrale examenbank en het informatiesysteem te voeren;
+- a. het functionele en technische beheer te voeren over de centrale examenbank;
 
-- b. gegevens uit het informatiesysteem te verwerken;
+- b. het functionele en technische beheer te voeren over het informatiesysteem inzake beroepskwalificaties;
 
-- c. examens via de centrale examenbank af te nemen;
+- c. gegevens in en uit het informatiesysteem te verwerken;
 
-- d. diplomarechten vast te stellen;
+- d. examens via de centrale examenbank af te nemen;
 
-- e. diploma’s en certificaten uit te geven;
+- e. rapportages en beleidsinformatie te verzorgen;
 
-- f. examenuitslagen te bepalen;
+- f. het inzagerecht van examinandi te organiseren;
 
-- g. examenleges te beheren.
+- g. diplomarechten vast te stellen;
+
+- h. diploma's en certificaten uit te geven;
+
+- i. omwisselingen te registreren;
+
+- j. examenuitslagen te bepalen, registreren en communiceren;
+
+- k. examenleges te innen en beheren;
+
+- l. verklaringen van ordentelijk verloop te verwerken;
+
+- m. EVC procedures te registreren;
+
+- n. klachten af te handelen die betrekking hebben op deze uitvoeringstaken;
+
+- o. het servicedesk voor exameninstituten in te richten en uit te voeren;
+
+- p. de afstemming met en informatieoverdracht aan gebruikers vorm te geven.
 
 ##### Artikel 3
 
-Aan de Directeur-Generaal wordt mandaat, volmacht en machtiging verleend om gerechtelijke procedures te voeren en klachten te behandelen, voor zover deze verband houden met de uitoefening van de bevoegdheden, genoemd in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0034391&artikel=2&z=2014-01-01&g=2014-01-01).
+Aan de Directeur-Generaal wordt mandaat, volmacht en machtiging verleend om gerechtelijke procedures te voeren en klachten te behandelen, voor zover deze verband houden met de uitoefening van de bevoegdheden, genoemd in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0034391&artikel=2&z=2016-05-26&g=2016-05-26).
 
 ##### Artikel 4
 
-De Directeur-Generaal kan met betrekking tot zijn bevoegdheden, genoemd in de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0034391&artikel=2&z=2014-01-01&g=2014-01-01) en [3](https://wetten.overheid.nl/jci1.3:c:BWBR0034391&artikel=3&z=2014-01-01&g=2014-01-01), ondermandaat, volmacht en machtiging verlenen in een door hem te bepalen omvang, aan onder hem ressorterende functionarissen.
+De Directeur-Generaal kan met betrekking tot zijn bevoegdheden, genoemd in de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0034391&artikel=2&z=2016-05-26&g=2016-05-26) en [3](https://wetten.overheid.nl/jci1.3:c:BWBR0034391&artikel=3&z=2016-05-26&g=2016-05-26), ondermandaat, volmacht en machtiging verlenen in een door hem te bepalen omvang, aan onder hem ressorterende functionarissen.
 
 ##### Artikel 5
 
-Indien uitvoering wordt gegeven aan de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0034391&artikel=2&z=2014-01-01&g=2014-01-01) en [3](https://wetten.overheid.nl/jci1.3:c:BWBR0034391&artikel=3&z=2014-01-01&g=2014-01-01) van dit besluit, luidt de ondertekening:
+Indien uitvoering wordt gegeven aan de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0034391&artikel=2&z=2016-05-26&g=2016-05-26) en [3](https://wetten.overheid.nl/jci1.3:c:BWBR0034391&artikel=3&z=2016-05-26&g=2016-05-26) van dit besluit, luidt de ondertekening:
 
 De Minister van Financiën,
 
