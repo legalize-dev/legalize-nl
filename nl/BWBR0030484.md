@@ -4,7 +4,7 @@ identifier: "BWBR0030484"
 country: "nl"
 rank: "pbo"
 publication_date: "2020-01-18"
-last_updated: "2015-07-31"
+last_updated: "2016-05-30"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0030484"
 soort: "pbo"
@@ -171,11 +171,11 @@ De notaris dient ervoor zorg te dragen dat de inrichting en organisatie van zijn
 
 1. De notaris kan een samenwerkingsverband aangaan met een andere notaris of met een kandidaat-notaris.
 
-2. De notaris kan een samenwerkingsverband aangaan met een medewerker van zijn kantoor die geen notaris of kandidaat-notaris is, mits de notaris de volledige zeggenschap over de praktijkuitoefening behoudt.
+2. Vervallen.
 
 ##### Artikel 17. Praktijkvennootschap
 
-Gereserveerd.
+Vervallen
 
 ##### Artikelen 18. Partijadviseur
 
