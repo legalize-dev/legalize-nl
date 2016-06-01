@@ -4,7 +4,7 @@ identifier: "BWBR0038853"
 country: "nl"
 rank: "amvb"
 publication_date: "2017-01-01"
-last_updated: "2016-01-01"
+last_updated: "2016-06-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0038853"
 soort: "AMvB"
@@ -40,8 +40,6 @@ entry_into_force: "2017-01-01"
 
 Wijzigt het Besluit algemene rechtspositie politie.
 
-Dit onderdeel is nog niet inwerking getreden
-
 ##### Artikel II
 
 Wijzigt het Besluit bezoldiging politie.
@@ -69,15 +67,3 @@ Dit onderdeel is nog niet inwerking getreden
 ##### Artikel VII. Overgangs- en slotbepaling
 
 Dit onderdeel is nog niet inwerking getreden
-
-Op de voordracht van Onze Minister van Veiligheid en Justitie van 31 augustus 2016, 796178;
-
-Gelet op [artikel 47, eerste lid, van de Politiewet 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&artikel=47);
-
-De Afdeling advisering van de Raad van State gehoord (advies van 21 september 2016, W03.0264/II);
-
-Gezien het nader rapport van Onze Minister van Veiligheid en Justitie, Directie Wetgeving en Juridische Zaken van 29 november 2016, nr. 2001221;
-
-Hebben goedgevonden en verstaan:
-
-Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
