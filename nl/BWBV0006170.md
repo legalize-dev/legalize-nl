@@ -4,7 +4,7 @@ identifier: "BWBV0006170"
 country: "nl"
 rank: "verdrag"
 publication_date: "2016-06-01"
-last_updated: "2013-04-25"
+last_updated: "2016-06-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBV0006170"
 soort: "verdrag"
@@ -52,7 +52,7 @@ Zijn het volgende overeengekomen:
 
 ##### Artikel 1. Doel en toepassingsgebied
 
-1. Dit Verdrag beoogt de grensoverschrijdende uitwisseling van de in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBV0006170&artikel=3&z=2013-04-25&g=2013-04-25), benoemde gegevens te vergemakkelijken door middel van de geautomatiseerde bevraging van kentekengegevens wanneer met een voertuig dat is ingeschreven in een andere Verdragsluitende Partij een inbreuk wordt begaan in het kader van het gebruik van de weg.
+1. Dit Verdrag beoogt de grensoverschrijdende uitwisseling van de in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBV0006170&artikel=3&z=2016-06-01&g=2016-06-01), benoemde gegevens te vergemakkelijken door middel van de geautomatiseerde bevraging van kentekengegevens wanneer met een voertuig dat is ingeschreven in een andere Verdragsluitende Partij een inbreuk wordt begaan in het kader van het gebruik van de weg.
 
 2. Dit Verdrag is van toepassing op gegevens betreffende inbreuken begaan in het kader van het gebruik van de weg die niet onder de Richtlijn vallen en op inbreuken begaan in het kader van het gebruik van de weg die onder de Richtlijn vallen, zolang deze niet is geïmplementeerd door de Verdragsluitende Partijen.
 
@@ -68,7 +68,7 @@ Voor de toepassing van dit Verdrag wordt verstaan onder:
 
 - d. „voertuig”: een door motorkracht aangedreven voertuig, dat normaal wordt gebruikt voor het vervoer van personen of goederen over de weg, of een aanhangwagen;
 
-- e. „nationaal contactpunt”: de in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBV0006170&artikel=4&z=2013-04-25&g=2013-04-25) omschreven en in de bijlage bij dit Verdrag aangewezen bevoegde autoriteit voor de uitwisseling van gegevens uit kentekenregisters;
+- e. „nationaal contactpunt”: de in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBV0006170&artikel=4&z=2016-06-01&g=2016-06-01) omschreven en in de bijlage bij dit Verdrag aangewezen bevoegde autoriteit voor de uitwisseling van gegevens uit kentekenregisters;
 
 - f. „geautomatiseerde bevraging”: een online toegangsprocedure voor het raadplegen van de gegevens uit kentekenregisters van de Verdragsluitende Partijen;
 
