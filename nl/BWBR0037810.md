@@ -101,9 +101,3 @@ Dit besluit treedt in werking met ingang van 1 juni 2016 en vervalt met ingang v
 Dit besluit wordt aangehaald als: Besluit buitengewoon opsporingsambtenaar Functioneel Parket 2016.
 
 Dit besluit zal in de Staatscourant worden geplaatst.
-
-##### Artikel 10
-
-Dit besluit wordt aangehaald als: Besluit buitengewoon opsporingsambtenaar Functioneel Parket 2016.
-
-Dit besluit zal in de Staatscourant worden geplaatst.
