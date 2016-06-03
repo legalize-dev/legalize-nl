@@ -4,7 +4,7 @@ identifier: "BWBV0006554"
 country: "nl"
 rank: "verdrag"
 publication_date: "2016-06-03"
-last_updated: "2015-10-26"
+last_updated: "2016-06-03"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBV0006554"
 soort: "verdrag"
@@ -52,9 +52,9 @@ Zijn het volgende overeengekomen:
 
 1.1. Voor de toepassing van dit Verdrag:
 
-- a. betekent „coproducent” filmproductiebedrijven of producenten uit China of filmproductiebedrijven of producenten uit Nederland die betrokken zijn bij het maken van een gecoproduceerde film, of omvat, met betrekking tot met derden gecoproduceerde films ingevolge [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBV0006554&artikel=6&z=2015-10-26&g=2015-10-26), coproducenten die geen onderdanen van China of Nederland zijn;
+- a. betekent „coproducent” filmproductiebedrijven of producenten uit China of filmproductiebedrijven of producenten uit Nederland die betrokken zijn bij het maken van een gecoproduceerde film, of omvat, met betrekking tot met derden gecoproduceerde films ingevolge [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBV0006554&artikel=6&z=2016-06-03&g=2016-06-03), coproducenten die geen onderdanen van China of Nederland zijn;
 
-- b. is een „gecoproduceerde film” een film die door één of meer producenten uit China („de Chinese coproducent”) in samenwerking met één of meer producenten uit Nederland („de Nederlandse coproducent”) is gemaakt door middel van een gezamenlijke investering en gezamenlijk copyright, en omvat een film waarop [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBV0006554&artikel=6&z=2015-10-26&g=2015-10-26) van toepassing is. Een gecoproduceerde film bevat een minimale creatieve en financiële bijdrage van elke coproducent, zoals vervat in de Bijlage;
+- b. is een „gecoproduceerde film” een film die door één of meer producenten uit China („de Chinese coproducent”) in samenwerking met één of meer producenten uit Nederland („de Nederlandse coproducent”) is gemaakt door middel van een gezamenlijke investering en gezamenlijk copyright, en omvat een film waarop [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBV0006554&artikel=6&z=2016-06-03&g=2016-06-03) van toepassing is. Een gecoproduceerde film bevat een minimale creatieve en financiële bijdrage van elke coproducent, zoals vervat in de Bijlage;
 
 - c. betekent „film” een samenstelling van beelden of van beelden en geluiden, die op een drager zijn vastgelegd, met inbegrip van, maar niet beperkt tot, speelfilms, documentaires en animatiefilms, en die voornamelijk bedoeld zijn voor theatrale vertoning en op televisie, mobiele telefoons en online platforms. Onder „film” wordt mede verstaan een met een speelfilm gelijk te stellen film die voor televisie is gemaakt („televisiefilms”);
 
@@ -82,11 +82,11 @@ Zijn het volgende overeengekomen:
 
 - b. toegang tot bijzondere invoerregelingen die overeengekomen zijn tussen een partij en een derde land dat invoerquotabeperkingen hanteert voor de invoer van nationale films van die partij.
 
-2.3. Niettegenstaande de bepalingen van [artikel 2, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBV0006554&artikel=2&z=2015-10-26&g=2015-10-26), vloeit aanspraak op fiscale voordelen (mits de film voldoet aan de criteria waaraan nationale films voor deze voordelen dienen te voldoen) uitsluitend voort uit de wet- en/of regelgeving die op enig moment in elk land van kracht is, zulks met zorgvuldige inachtneming van de bepalingen van het [Verdrag tussen de Regering van het Koninkrijk der Nederlanden en de Regering van de Volksrepubliek China tot het vermijden van dubbele belasting en het voorkomen van het ontgaan van belasting met betrekking tot belastingen naar het inkomen](onbekend), ondertekend op 31 mei 2013 te Beijing.
+2.3. Niettegenstaande de bepalingen van [artikel 2, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBV0006554&artikel=2&z=2016-06-03&g=2016-06-03), vloeit aanspraak op fiscale voordelen (mits de film voldoet aan de criteria waaraan nationale films voor deze voordelen dienen te voldoen) uitsluitend voort uit de wet- en/of regelgeving die op enig moment in elk land van kracht is, zulks met zorgvuldige inachtneming van de bepalingen van het [Verdrag tussen de Regering van het Koninkrijk der Nederlanden en de Regering van de Volksrepubliek China tot het vermijden van dubbele belasting en het voorkomen van het ontgaan van belasting met betrekking tot belastingen naar het inkomen](onbekend), ondertekend op 31 mei 2013 te Beijing.
 
 ##### Artikel 3. Bevoegde autoriteiten
 
-3.1. De bevoegde autoriteit van elke verdragsluitende partij wordt vermeld in de Bijlage bij dit Verdrag. Wanneer een verdragsluitende partij een andere autoriteit wenst aan te wijzen als haar bevoegde autoriteit, dient zij, niettegenstaande [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBV0006554&artikel=14&z=2015-10-26&g=2015-10-26), de andere partij langs diplomatieke weg vooraf schriftelijk in kennis te stellen van deze wijziging.
+3.1. De bevoegde autoriteit van elke verdragsluitende partij wordt vermeld in de Bijlage bij dit Verdrag. Wanneer een verdragsluitende partij een andere autoriteit wenst aan te wijzen als haar bevoegde autoriteit, dient zij, niettegenstaande [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBV0006554&artikel=14&z=2016-06-03&g=2016-06-03), de andere partij langs diplomatieke weg vooraf schriftelijk in kennis te stellen van deze wijziging.
 
 ##### Artikel 4. Goedkeuring van projecten
 
@@ -94,7 +94,7 @@ Zijn het volgende overeengekomen:
 
 4.2. Gecoproduceerde films dienen te worden gemaakt overeenkomstig de voorwaarden van de voorlopige goedkeuring die door de bevoegde autoriteiten is verleend.
 
-4.3. Na voltooiing van de productie is het de verantwoordelijkheid van de coproducenten de voltooide gecoproduceerde film (en alle door de bevoegde autoriteiten vereiste documentatie) te overleggen aan de bevoegde autoriteiten om hen in staat te stellen hun procedures voor definitieve goedkeuring af te ronden alvorens voor de gecoproduceerde film de voordelen verbonden aan definitieve goedkeuring worden verkregen, ingevolge [artikel 2.1](https://wetten.overheid.nl/jci1.3:c:BWBV0006554&artikel=2&z=2015-10-26&g=2015-10-26).
+4.3. Na voltooiing van de productie is het de verantwoordelijkheid van de coproducenten de voltooide gecoproduceerde film (en alle door de bevoegde autoriteiten vereiste documentatie) te overleggen aan de bevoegde autoriteiten om hen in staat te stellen hun procedures voor definitieve goedkeuring af te ronden alvorens voor de gecoproduceerde film de voordelen verbonden aan definitieve goedkeuring worden verkregen, ingevolge [artikel 2.1](https://wetten.overheid.nl/jci1.3:c:BWBV0006554&artikel=2&z=2016-06-03&g=2016-06-03).
 
 4.4. Bij het vaststellen van de voorlopige en definitieve goedkeuring passen de bevoegde autoriteiten de Bijlage bij dit Verdrag toe op gecoproduceerde films.
 
@@ -130,7 +130,7 @@ Zijn het volgende overeengekomen:
 
 ##### Artikel 9. Faciliteren van immigratie
 
-9.1. Elk van de verdragsluitende partijen verleent toestemming aan het personeel van het andere land dat voldoet aan [artikel 1, eerste lid, onderdelen d en e](https://wetten.overheid.nl/jci1.3:c:BWBV0006554&artikel=1&z=2015-10-26&g=2015-10-26), en aan burgers van het grondgebied van een derde coproducent om China of Nederland, naargelang van het geval, binnen te komen en er te verblijven ten behoeve van het maken of exploiteren van een gecoproduceerde film, op voorwaarde dat zij zich houden aan de relevante wetten van de onderscheiden grondgebieden met betrekking tot binnenkomst en verblijf, met inbegrip van terugkeer.
+9.1. Elk van de verdragsluitende partijen verleent toestemming aan het personeel van het andere land dat voldoet aan [artikel 1, eerste lid, onderdelen d en e](https://wetten.overheid.nl/jci1.3:c:BWBV0006554&artikel=1&z=2016-06-03&g=2016-06-03), en aan burgers van het grondgebied van een derde coproducent om China of Nederland, naargelang van het geval, binnen te komen en er te verblijven ten behoeve van het maken of exploiteren van een gecoproduceerde film, op voorwaarde dat zij zich houden aan de relevante wetten van de onderscheiden grondgebieden met betrekking tot binnenkomst en verblijf, met inbegrip van terugkeer.
 
 ##### Artikel 10. Eerbiediging van wetten en culturele gebruiken
 
@@ -152,7 +152,7 @@ Zijn het volgende overeengekomen:
 
 14.1. De Bijlage bij dit Verdrag maakt integraal onderdeel uit van dit Verdrag en strekt tot uitvoering ervan.
 
-14.2. Met inachtneming van [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBV0006554&artikel=3&z=2015-10-26&g=2015-10-26), en niettegenstaande [artikel 15, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBV0006554&artikel=15&z=2015-10-26&g=2015-10-26), dienen de bevoegde autoriteiten gezamenlijk wijzigingen van de Bijlage overeen te komen. Geen enkele wijziging van de Bijlage mag in strijd zijn met de bepalingen van dit Verdrag.
+14.2. Met inachtneming van [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBV0006554&artikel=3&z=2016-06-03&g=2016-06-03), en niettegenstaande [artikel 15, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBV0006554&artikel=15&z=2016-06-03&g=2016-06-03), dienen de bevoegde autoriteiten gezamenlijk wijzigingen van de Bijlage overeen te komen. Geen enkele wijziging van de Bijlage mag in strijd zijn met de bepalingen van dit Verdrag.
 
 14.3. Wijzigingen van de Bijlage worden bevestigd door middel van een diplomatieke nota en treden in werking op de datum vermeld in de diplomatieke nota.
 
@@ -160,7 +160,7 @@ Zijn het volgende overeengekomen:
 
 15.1. De bevoegde autoriteiten van beide verdragsluitende partijen houden toezicht op en toetsen de werking van dit Verdrag, streven ernaar problemen bij de uitvoering ervan op te lossen en doen de voorstellen die nodig worden geacht voor wijziging van dit Verdrag.
 
-15.2. Dit Verdrag kan met wederzijdse instemming van de verdragsluitende partijen worden gewijzigd. Deze wijzigingen worden van kracht in overeenstemming met de voorwaarden vervat in [artikel 16, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBV0006554&artikel=16&z=2015-10-26&g=2015-10-26).
+15.2. Dit Verdrag kan met wederzijdse instemming van de verdragsluitende partijen worden gewijzigd. Deze wijzigingen worden van kracht in overeenstemming met de voorwaarden vervat in [artikel 16, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBV0006554&artikel=16&z=2016-06-03&g=2016-06-03).
 
 ##### Artikel 16. Inwerkingtreding
 
