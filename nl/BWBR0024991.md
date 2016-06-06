@@ -4,7 +4,7 @@ identifier: "BWBR0024991"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-11-11"
-last_updated: "2015-12-30"
+last_updated: "2016-06-06"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0024991"
 soort: "ministeriele-regeling"
@@ -46,7 +46,7 @@ Besluit:
 
 In deze regeling en de daarop berustende bepalingen wordt verstaan onder:
 
-- a. **directie:** een van de organisatieonderdelen, genoemd in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0024991&paragraaf=2&artikel=2&z=2015-12-30&g=2015-12-30);
+- a. **directie:** een van de organisatieonderdelen, genoemd in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0024991&paragraaf=2&artikel=2&z=2015-12-30&g=2016-06-06);
 
 - b. **directeur:** een functionaris die leiding geeft aan een directie;
 
@@ -152,11 +152,11 @@ De directie Financieel Economische Zaken is verantwoordelijk voor:
 
 ##### Artikel 9
 
-1. Elk van de directeuren is bevoegd om namens een bewindspersoon besluiten te nemen, overeenkomsten aan te gaan en handelingen te verrichten die noch een besluit, noch een privaatrechtelijke rechtshandeling zijn, voor zover zij verband houden met de taken en verantwoordelijkheden van zijn directie, tenzij deze zijn voorbehouden aan een bewindspersoon, de secretaris-generaal of de plaatsvervangend secretaris-generaal, dan wel ingevolge [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0024991&paragraaf=4&artikel=10&z=2015-12-30&g=2015-12-30) onder de bevoegdheid van een andere directeur vallen.
+1. Elk van de directeuren is bevoegd om namens een bewindspersoon besluiten te nemen, overeenkomsten aan te gaan en handelingen te verrichten die noch een besluit, noch een privaatrechtelijke rechtshandeling zijn, voor zover zij verband houden met de taken en verantwoordelijkheden van zijn directie, tenzij deze zijn voorbehouden aan een bewindspersoon, de secretaris-generaal of de plaatsvervangend secretaris-generaal, dan wel ingevolge [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0024991&paragraaf=4&artikel=10&z=2015-12-30&g=2016-06-06) onder de bevoegdheid van een andere directeur vallen.
 
 2. Aan elke directeur wordt mandaat en machtiging verleend tot het nemen van besluiten over en het vaststellen en ondertekenen van stukken die betrekking hebben op:
 
-- a. de in [artikel 3, eerste lid, onderdeel e](https://wetten.overheid.nl/jci1.3:c:BWBR0024991&paragraaf=3&artikel=3&z=2015-12-30&g=2015-12-30), genoemde personeelsaangelegenheden;
+- a. de in [artikel 3, eerste lid, onderdeel e](https://wetten.overheid.nl/jci1.3:c:BWBR0024991&paragraaf=3&artikel=3&z=2015-12-30&g=2016-06-06), genoemde personeelsaangelegenheden;
 
 - b. de behandeling van klachten als bedoeld in [artikel 9:1 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=9:1), voor zover deze klachten betrekking hebben op gedragingen van de onder elk van hen ressorterende functionarissen.
 
@@ -198,7 +198,7 @@ De directie Financieel Economische Zaken is verantwoordelijk voor:
 
 6. De directeur Wetgeving, Bestuurlijke en Juridische Aangelegenheden is voorts bevoegd tot het nemen van dwangsombesluiten die verband houden met het niet tijdig afdoen van een bezwaarschrift.
 
-7. De directeur Wetgeving, Bestuurlijke en Juridische Aangelegenheden is voorts bevoegd tot het ondertekenen van de beslissing op een bezwaarschrift, met uitzondering van de in [artikel 8, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024991&paragraaf=3&artikel=8&z=2015-12-30&g=2015-12-30), bedoelde gevallen.
+7. De directeur Wetgeving, Bestuurlijke en Juridische Aangelegenheden is voorts bevoegd tot het ondertekenen van de beslissing op een bezwaarschrift, met uitzondering van de in [artikel 8, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024991&paragraaf=3&artikel=8&z=2015-12-30&g=2016-06-06), bedoelde gevallen.
 
 8. De directeur Wetgeving, Bestuurlijke en Juridische Aangelegenheden is voorts bevoegd om:
 
@@ -208,7 +208,7 @@ De directie Financieel Economische Zaken is verantwoordelijk voor:
 
 - c. het onder a en b bedoelde oordeel ter kennis te brengen van de Minister van Binnenlandse Zaken en Koninkrijksrelaties en de Minister van Buitenlandse Zaken.
 
-#### § 5. Slotbepalingen
+#### § 4a. Bevoegdheden plaatsvervangend secretaris-generaal en plaatsvervanging
 
 ##### Artikel 11
 
@@ -230,7 +230,7 @@ De directie Financieel Economische Zaken is verantwoordelijk voor:
 
 ##### Artikel 12
 
-Na de inwerkingtreding van deze regeling berusten de volgende regelingen die genomen zijn krachtens de [artikelen 3, aanhef en onderdeel k](https://wetten.overheid.nl/jci1.3:c:BWBR0016199&artikel=3), en [11 van het Organisatie-, mandaat- en volmachtbesluit SZW 2004](https://wetten.overheid.nl/jci1.3:c:BWBR0016199&artikel=11) op de [artikelen 3, eerste lid, aanhef en onderdeel k](https://wetten.overheid.nl/jci1.3:c:BWBR0024991&paragraaf=3&artikel=3&z=2015-12-30&g=2015-12-30), en [11 van deze regeling](https://wetten.overheid.nl/jci1.3:c:BWBR0024991&paragraaf=5&artikel=11&z=2015-12-30&g=2015-12-30):
+Na de inwerkingtreding van deze regeling berusten de volgende regelingen die genomen zijn krachtens de [artikelen 3, aanhef en onderdeel k](https://wetten.overheid.nl/jci1.3:c:BWBR0016199&artikel=3), en [11 van het Organisatie-, mandaat- en volmachtbesluit SZW 2004](https://wetten.overheid.nl/jci1.3:c:BWBR0016199&artikel=11) op de [artikelen 3, eerste lid, aanhef en onderdeel k](https://wetten.overheid.nl/jci1.3:c:BWBR0024991&paragraaf=3&artikel=3&z=2015-12-30&g=2016-06-06), en [11 van deze regeling](https://wetten.overheid.nl/jci1.3:c:BWBR0024991&paragraaf=5&artikel=11&z=2015-12-30&g=2016-06-06):
 
 - a. het [Organisatie-, mandaat- en volmachtbesluit BSG SZW 2004](https://wetten.overheid.nl/jci1.3:c:BWBR0016367);
 
@@ -241,5 +241,17 @@ Na de inwerkingtreding van deze regeling berusten de volgende regelingen die gen
 1. Deze regeling treedt in werking met ingang van 1 januari 2009.
 
 2. Deze regeling wordt aangehaald als: Organisatie-, mandaat- en volmachtbesluit secretaris-generaal SZW 2009.
+
+Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
+
+##### Artikel 10a
+
+1. De plaatsvervangend secretaris-generaal is bevoegd om op te treden als bestuurder in de zin van de [Wet op de ondernemingsraden](https://wetten.overheid.nl/jci1.3:c:BWBR0002747) in het overleg met de departementale ondernemingsraad en de ondernemingsraad Kerndepartement.
+
+2. Bij afwezigheid of verhindering van de plaatsvervangend secretaris-generaal treedt de secretaris-generaal op als bestuurder in de zin van de [Wet op de ondernemingsraden](https://wetten.overheid.nl/jci1.3:c:BWBR0002747) in het overleg met de departementale ondernemingsraad en de ondernemingsraad Kerndepartement.
+
+3. Bij afwezigheid of verhindering van de plaatsvervangend secretaris-generaal en de secretaris-generaal treedt een van de functionarissen, genoemd in [artikel 3, onderdelen c tot en met e, van het Organisatie-, mandaat- en volmachtbesluit SZW 2009](https://wetten.overheid.nl/jci1.3:c:BWBR0024956&artikel=3) op als bestuurder in de zin van de [Wet op de ondernemingsraden](https://wetten.overheid.nl/jci1.3:c:BWBR0002747) in het overleg met de departementale ondernemingsraad en de ondernemingsraad Kerndepartement.
+
+#### § 5. Slotbepalingen
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
