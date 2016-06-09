@@ -4,7 +4,7 @@ identifier: "BWBR0006022"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-01-01"
-last_updated: "2015-01-01"
+last_updated: "2016-06-09"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0006022"
 soort: "ministeriele-regeling"
@@ -36,7 +36,7 @@ entry_into_force: "2012-11-02"
 ---
 # Regeling houdende nadere regels ten aanzien van machines
 
-Gelet op de [artikelen 4, vijfde en zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006022&artikel=4&z=2015-01-01&g=2015-01-01), [5, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006022&artikel=5&z=2015-01-01&g=2015-01-01), 12, eerste lid, eerste zin, en 16, tweede lid, van de Wet op de gevaarlijke werktuigen, de artikelen 3 en 12, derde lid, van het Besluit machines, [artikel 25, eerste lid, onderdeel a, van de Warenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0001969&artikel=25) en [artikel 1, tweede lid, onderdeel 3°, van het Warenwetbesluit machines](https://wetten.overheid.nl/jci1.3:c:BWBR0005577&artikel=1);
+Gelet op de [artikelen 4, vijfde en zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006022&artikel=4&z=2016-06-09&g=2016-06-09), [5, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006022&artikel=5&z=2016-06-09&g=2016-06-09), 12, eerste lid, eerste zin, en 16, tweede lid, van de Wet op de gevaarlijke werktuigen, de artikelen 3 en 12, derde lid, van het Besluit machines, [artikel 25, eerste lid, onderdeel a, van de Warenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0001969&artikel=25) en [artikel 1, tweede lid, onderdeel 3°, van het Warenwetbesluit machines](https://wetten.overheid.nl/jci1.3:c:BWBR0005577&artikel=1);
 
 Besluiten:
 
@@ -64,7 +64,7 @@ Vervallen
 
 ##### Artikel 4
 
-De dossiers en de briefwisseling die betrekking hebben op de certificeringsprocedures, bedoeld in [het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0005577), worden gesteld in de Nederlandse taal, of in een andere door de aangewezen instelling of aangewezen aangemelde instelling aanvaarde taal.
+Vervallen
 
 ##### Artikel 5. Citeertitel
 
@@ -84,43 +84,17 @@ Vervallen
 
 ##### Artikel 2a. Eisen voor aanwijzing en (blijven) functioneren als aangewezen instelling en aangewezen aangemelde instelling
 
-1. Een aanwijzing als aangewezen instelling en aangewezen aangemelde instelling kan geschieden indien in geval van de overeenstemmingsbeoordeling van een machine of de beoordeling van een kwaliteitsborgingsysteem als bedoeld in [artikel 5 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0005577&artikel=5), dan wel de beoordeling van een voorgenomen wijziging in een machine of model machine als bedoeld in [artikel 5a van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0005577&artikel=5a), de aanvragende instelling voldoet aan de criteria, vastgelegd in het Schema voor Aanwijzing en Toezicht op de instellingen voor overeenstemmingsbeoordelingsprocedures voor het Warenwetbesluit Machines, zoals opgenomen in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0006022&bijlage=1&z=2015-01-01&g=2015-01-01) bij de regeling.
-
-2. Een aanwijzing al aangewezen instelling en aangewezen aangemelde instelling kan tevens geschieden indien in geval van keuring van een mobiele en torenkraan, als bedoeld in [artikel 6d van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0005577&artikel=6d), de aanvragende instelling voldoet aan de criteria, vastgelegd in het Werkveldspecifiek document voor aanwijzing en toezicht op de certificatie- en keuringsinstellingen die mobiele kranen, torenkranen en/of hijs- en hefwerktuigen voor beroepsmatig personenvervoer en/of tijdelijke personen(bouw)liften periodiek keuren in het kader van verticaal transport, documentcode: WDAT-VT-Producten, zoals opgenomen in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0006022&bijlage=2&z=2015-01-01&g=2015-01-01) bij de regeling.
+Vervallen
 
 ##### Artikel 2b
 
-1. Een certificaat van goedkeuring, bedoeld in [artikel 6e, eerste lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0005577&artikel=6e) wordt voor een aangewezen instelling afgegeven aan de aanvrager indien tijdens de keuring, bedoeld in [artikel 6d, eerste lid, tweede zin, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0005577&artikel=6d), is gebleken dat de mobiele kraan of torenkraan voldoet aan de eisen, vastgelegd in het Werkveldspecifiek certificatieschema Periodieke Keuring Hijskranen, documentcode WSCS-VT Periodieke Keuring Hijskranen: 2012, versie 01, opgenomen in [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0006022&bijlage=3&z=2015-01-01&g=2015-01-01) bij de regeling.
-
-2. Een certificaat van goedkeuring, bedoeld in [artikel 6fa, derde lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0005577&artikel=6fa) wordt voor een aangewezen instelling afgegeven aan de aanvrager indien tijdens de keuringen, bedoeld in artikel 6fa, eerste en tweede lid, van het besluit, is gebleken dat het hijs- of hefwerktuig voor beroepsmatig personenvervoer voldoet aan de eisen, vastgelegd in het Werkveldspecifiek certificatieschema opstellings- en periodieke keuring hijs- en hefwerktuigen voor beroepsmatig personenvervoer en tijdelijke personen(bouw)liften voor bewoners: document: TCVT/W8-01/11-017: 2012, versie 01, opgenomen in [bijlage 4](https://wetten.overheid.nl/jci1.3:c:BWBR0006022&bijlage=4&z=2015-01-01&g=2015-01-01) bij de regeling.
+Vervallen
 
 ##### Artikel 2c
 
-In het jaarverslag, bedoeld in [artikel 7c, tweede lid, van de Warenwet](onbekend), worden door de aangewezen instelling en de aangewezen aangemelde instelling ten minste de volgende onderwerpen behandeld:
+Vervallen
 
-- a. de door de instelling afgegeven, ingetrokken dan wel geweigerde certificaten;
-
-- b. wijzigingen in de op het werkveld van de instelling betrekking hebbende accreditaties, reglementen en procedures;
-
-- c. wijzigingen in de op het werkveld van de instelling betrekking hebbende taakverdeling;
-
-- d. wijzigingen in de bestuurssamenstelling;
-
-- e. wijzigingen in de statuten of het huishoudelijk reglement;
-
-- f. aan derden uitbestede werkzaamheden;
-
-- g. structurele knelpunten op het werkveld van de instelling die zich in de uitvoeringspraktijk hebben voorgedaan;
-
-- h. het gevoerde overleg en de samenwerking op het werkveld met andere instellingen;
-
-- i. door de instelling ontvangen klachten en de wijze van afhandeling daarvan;
-
-- j. tegen de besluiten van de instelling ingediende bezwaren en ingestelde beroepen en de wijze van afhandeling daarvan;
-
-- k. een financieel verslag betreffende de activiteiten waarvoor de instelling is aangewezen.
-
-## Bijlage 1. behorend bij [Artikel 2a](https://wetten.overheid.nl/jci1.3:c:BWBR0006022&artikel=2a&z=2015-01-01&g=2015-01-01)
+## Bijlage 1. behorend bij [Artikel 2a](https://wetten.overheid.nl/jci1.3:c:BWBR0006022&artikel=2a&z=2016-06-09&g=2016-06-09)
 
 ### Schema voor Aanwijzing en Toezicht op de instellingen voor overeenstemmings- beoordelingsprocedures voor het Warenwetbesluit Machines
 
@@ -196,7 +170,7 @@ De aangewezen (aangemelde) keuringsinstelling wordt in het kader van haar aanwij
 
 ### 5. Toezicht
 
-In verband met de verplichtingen in het kader van toezicht zijn de volgende artikelen van toepassing; [artikelen 6g](https://wetten.overheid.nl/jci1.3:c:BWBR0005577&artikel=6g) en [6i Warenwetbesluit machines](https://wetten.overheid.nl/jci1.3:c:BWBR0005577&artikel=6i) en [artikel 2c Warenwetregeling machines](https://wetten.overheid.nl/jci1.3:c:BWBR0006022&artikel=2c&z=2015-01-01&g=2015-01-01), alsmede de [artikelen 1.5b](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=1.5b) en [1.5c Arbeidsomstandighedenbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=1.5c) en [artikel 1.1a Arbeidsomstandighedenregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&artikel=1.1a). De CKI dient ten behoeve van de informatieverzameling kosteloos de navolgende zaken te realiseren:
+In verband met de verplichtingen in het kader van toezicht zijn de volgende artikelen van toepassing; [artikelen 6g](https://wetten.overheid.nl/jci1.3:c:BWBR0005577&artikel=6g) en [6i Warenwetbesluit machines](https://wetten.overheid.nl/jci1.3:c:BWBR0005577&artikel=6i) en [artikel 2c Warenwetregeling machines](https://wetten.overheid.nl/jci1.3:c:BWBR0006022&artikel=2c&z=2016-06-09&g=2016-06-09), alsmede de [artikelen 1.5b](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=1.5b) en [1.5c Arbeidsomstandighedenbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=1.5c) en [artikel 1.1a Arbeidsomstandighedenregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&artikel=1.1a). De CKI dient ten behoeve van de informatieverzameling kosteloos de navolgende zaken te realiseren:
 
 In aanvulling hierop wordt ten behoeve van het toezicht op de aangewezen aangemelde keuringsinstelling geëist:
 
@@ -976,7 +950,7 @@ Het TCVT-Certificaat van Vakbekwaamheid betreft de vakbekwaamheid van kraanmachi
 
 Het TCVT-Beeldmerk mag niet worden gebruikt op een wijze die zou kunnen suggereren dat de Stichting TCVT verantwoordelijk is voor de uitkomst van het onderzoek of het onderzoek zou goedkeuren.
 
-## Bijlage 3. behorend bij [artikel 2b](https://wetten.overheid.nl/jci1.3:c:BWBR0006022&artikel=2b&z=2015-01-01&g=2015-01-01), Warenwetregeling Machines
+## Bijlage 3. behorend bij [artikel 2b](https://wetten.overheid.nl/jci1.3:c:BWBR0006022&artikel=2b&z=2016-06-09&g=2016-06-09), Warenwetregeling Machines
 
 ### Werkveldspecifiek certificatieschema voor het productcertificaat Periodieke keuring hijskranen
 
@@ -1118,7 +1092,7 @@ De proeflast is gelijk aan de hijslast (evt. de bedrijfslast). Beproevingen met 
 
 De eigenaar c.q. opdrachtgever dient toe te staan dat de CKI op de kraan op een voor derden duidelijk zichtbare plaats de TCVT Goedkeuringssticker conform het Reglement TCVT-Beeldmerk aanbrengt.
 
-## Bijlage 4. behorend bij artikel van de Warenwetregeling Machines behorend bij [artikel 2b, 2e lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006022&artikel=2b&z=2015-01-01&g=2015-01-01)
+## Bijlage 4. behorend bij artikel van de Warenwetregeling Machines behorend bij [artikel 2b, 2e lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006022&artikel=2b&z=2016-06-09&g=2016-06-09)
 
 ### Werkveldspecifiek certificatieschema opstellings- en periodieke keuring hijs en –hefwerktuigen voor beroepsmatig personenvervoer en tijdelijke personen (bouw) liften voor bewoners
 
