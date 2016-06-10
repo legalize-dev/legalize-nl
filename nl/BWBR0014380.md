@@ -4,7 +4,7 @@ identifier: "BWBR0014380"
 country: "nl"
 rank: "kb"
 publication_date: "2021-04-22"
-last_updated: "2011-07-01"
+last_updated: "2016-06-10"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0014380"
 soort: "KB"
@@ -52,11 +52,11 @@ In dit besluit wordt verstaan onder:
 
 ##### Artikel 2
 
-De voorzitter van de raad van advies ontvangt voor zijn werkzaamheden en onkosten een vaste maandelijkse vergoeding van € 674,75.
+De voorzitter van de raad van advies ontvangt voor zijn werkzaamheden en onkosten een vaste maandelijkse vergoeding welke is gebaseerd op een arbeidsduurfactor van 0,079, berekend over het maximum van schaal 18 van het [Bezoldigingsbesluit Burgerlijke Rijksambtenaren 1984](https://wetten.overheid.nl/jci1.3:c:BWBR0003630).
 
 ##### Artikel 3
 
-De overige leden van de raad van advies ontvangen per vergadering van de raad van advies een vergoeding van € 185. Met een vergadering van de raad van advies wordt gelijkgesteld een bijeenkomst waaraan een lid van de raad van advies uit hoofde van dit lidmaatschap deelneemt.
+De overige leden van de raad van advies ontvangen per vergadering van de raad van advies een vergoeding van 3% van het maximum van schaal 17 van het [Bezoldigingsbesluit Burgerlijke Rijksambtenaren 1984](https://wetten.overheid.nl/jci1.3:c:BWBR0003630). Met een vergadering van de raad van advies wordt gelijkgesteld een bijeenkomst waaraan een lid van de raad van advies uit hoofde van dit lidmaatschap deelneemt.
 
 ##### Artikel 4
 
