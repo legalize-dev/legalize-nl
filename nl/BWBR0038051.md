@@ -4,7 +4,7 @@ identifier: "BWBR0038051"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2016-06-11"
-last_updated: "2016-01-01"
+last_updated: "2016-06-11"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0038051"
 soort: "ministeriele-regeling"
@@ -46,7 +46,7 @@ Met ingang van 1 juni 2015 worden de taken van de minister van Financiën ten aa
 
 ##### Artikel 2
 
-De originele papieren financiële archiefbescheiden die volgens de vastgestelde selectielijst Financiën 2015 voor vernietiging dan wel voor permanente bewaring in aanmerking komen in het SAP 3F systeem, worden overeenkomstig de [artikelen 3 tot en met 5](https://wetten.overheid.nl/jci1.3:c:BWBR0038051&artikel=3&z=2016-06-11&g=2016-01-01) van deze regeling digitaal vervangen.
+De originele papieren financiële archiefbescheiden die volgens de vastgestelde selectielijst Financiën 2015 voor vernietiging dan wel voor permanente bewaring in aanmerking komen in het SAP 3F systeem, worden overeenkomstig de [artikelen 3 tot en met 5](https://wetten.overheid.nl/jci1.3:c:BWBR0038051&artikel=3&z=2016-06-11&g=2016-06-11) van deze regeling digitaal vervangen.
 
 ##### Artikel 3
 
