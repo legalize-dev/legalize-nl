@@ -4,7 +4,7 @@ identifier: "BWBR0008859"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2022-10-20"
-last_updated: "1999-01-01"
+last_updated: "2016-06-17"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0008859"
 soort: "ministeriele-regeling"
@@ -38,15 +38,15 @@ Gelet op het op 18 april 1961 te Wenen tot stand gekomen Verdrag van Wenen inzak
 
 Gelet op het op 24 april 1963 te Wenen tot stand gekomen Verdrag van Wenen inzake consulaire betrekkingen (Trb. 1981, 143);
 
-Gelet op de zetelovereenkomsten met in Nederland gevestigde internationale organisaties opgesomd in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0008859&bijlage=1&z=1999-01-01&g=1999-01-01);
+Gelet op de zetelovereenkomsten met in Nederland gevestigde internationale organisaties opgesomd in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0008859&bijlage=1&z=2016-06-17&g=2016-06-17);
 
-Gelet op overige in Nederland gevestigde internationale organisaties zonder zetelovereenkomst opgesomd in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0008859&bijlage=1&z=1999-01-01&g=1999-01-01);
+Gelet op overige in Nederland gevestigde internationale organisaties zonder zetelovereenkomst opgesomd in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0008859&bijlage=1&z=2016-06-17&g=2016-06-17);
 
 Besluit:
 
 ##### Artikel 1
 
-1. De Minister van Buitenlandse Zaken verstrekt identiteitsbewijzen aan geprivilegieerden, welke groep omvat de personeels- en gezinsleden van het Corps Diplomatique, het Corps Consulaire en de Internationale Organisaties.
+1. De Minister van Buitenlandse Zaken verstrekt identiteitsbewijzen aan geprivilegieerden, welke groep omvat de personeels- en gezinsleden van het Corps Diplomatique en het Corps Consulaire, de personeels- en gezinsleden van de in Nederland gevestigde Internationale Organisaties die ingevolge een zetelovereenkomst aanspraak maken op een dergelijke status alsmede de personeels- en gezinsleden van de in Nederland gevestigde organisaties, genoemd in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0008859&bijlage=1&z=2016-06-17&g=2016-06-17) bij deze regeling.
 
 2. In de bijlage bij dit besluit is opgenomen een lijst van internationale organisaties, aan de familieleden en het personeel waarvan een identiteitsbewijs geprivilegieerden kan worden verstrekt.
 
@@ -78,7 +78,17 @@ Deze regeling treedt in werking op 11 augustus 1997.
 
 Deze regeling wordt aangehaald als [Regeling identiteitsbewijs geprivilegieerden](https://wetten.overheid.nl/jci1.3:c:BWBR0008858).
 
-## Bijlage 1. Regeling identiteitsbewijzen geprivilegieerden
+## Bijlage 1. Organisaties zonder zetelovereenkomst en/of internationale rechtspersoonlijkheid
+
+Organisaties zonder zetelovereenkomst doch met internationale rechtspersoonlijkheid:
+
+- –. Het Bureau van de Hoge Commissaris van de Verenigde Naties voor vluchtelingen, UNHCR, opgericht bij Resolutie 428 van de Algemene Vergadering van de Verenigde Naties van 14 december 1950.
+
+Organisaties zonder zetelovereenkomst:
+
+- –. Iran-United States Claims Tribunal, opgericht ingevolge artikel II van de Verklaring van de Regering van de Demokratische Volksrepubliek Algerije van 19 januari 1981 (Trb. 1981, 155, p. 11 e.v.);
+
+- –. De Hoge Commissaris inzake Nationale Minderheden, HCNM, van de Organisatie voor Veiligheid en Samenwerking in Europa (Stb. 2002, 580).
 
 ##### I. Internationale organisaties met zetelovereenkomsten
 
@@ -404,6 +414,58 @@ Het model van het identiteitsbewijs geprivilegieerden ziet er als volgt uit:
 
 **Voorzijde**
 
-**Achterzijde**
+Visuele kenmerken voorzijde kaart:
+
+Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
+
+## Bijlage 2. Kenmerken identiteitsbewijs geprivilegieerden
+
+### Beschrijving kenmerken
+
+Formaat:
+
+Overeenkomstig ISO 7810 (formaat ID 1, 85,6 mm x 53,98 mm). De dikte van de kaart is 0,90 mm.
+
+Materiaal:
+
+De identiteitskaart is gemaakt van 5 lagen wit en transparant polycarbonaat niet fluorescerend.
+
+De voorzijde wordt aflopend gedrukt met vijf drukvormen in waterloos offset. De Iriskleur loopt over van blauw PMS 3005 aan de linkerzijde naar groenblauw PMS 3242 in het midden naar licht groen PMS 331 aan de rechterzijde van de kaart.
+
+Aan de linkerzijde wordt verticaal de tekst in blauw PMS 3005 ‘Geprivilegieerdendocument’ weergegeven. Aan de bovenzijde, horizontaal, wordt de tekst in blauw PMS 3005 ‘identiteitsbewijs’ en ‘Ministerie van Buitenlandse Zaken’ weergegeven.
+
+Rechts onderin is een leeuw afgebeeld kijkend naar links met kroon, zwaard en pijlen.
+
+Visuele kenmerken achterzijde kaart:
+
+Aan de bovenzijde van de kaart wordt de tekst in blauw PMS 3005 ‘Property of the state of the Netherlands’ en ‘reproduction prohibited’ weergegeven.
+
+Aan de linkerkant wordt in zeefdruk een bedrukking met OVI aangebracht, gold to green, 9Z 1050 A’.
+
+Reliëf voor- en achterzijde:
+
+Aan de voorzijde van de kaart, linksonder, is een voelbaar reliëf aanwezig. Dit reliëf is opgebouwd uit microteksten bestaande uit de letters ‘NLD’.
+
+Aan de achterzijde is een voelbaar reliëf aanwezig van de pasfoto.
+
+Batchnummer
+
+Aan de voorzijde van de kaart, in de linkerhoek onder de letter ‘G’ is het batchnummer ‘757’ weergegeven.
+
+Kinegram:
+
+Het identiteitsbewijs is uitgevoerd met een gepositioneerd transparant kinegram met de letters ‘NLD’ aan de voorzijde. Het hart van het kinegram staat op 26 mm vanaf de linkerzijde en op 32 mm vanaf de onderzijde van de identiteitskaart.
+
+Op de identiteitskaart worden de volgende persoonsgegevens aangebracht:
+
+### Coderingen
+
+Ter onderscheiding van de status van de houder wordt één van de volgende coderingen op het bewijs aangebracht:
+
+### Toevoeging
+
+Nederlanders in dienst van genoemde instellingen, met uitzondering van Nederlanders in dienst van de Europeesrechtelijke instellingen, worden onderscheiden door achter de bovengenoemde codering de aanduiding ‘/NL’ te plaatsen. Duurzaam in Nederland verblijvende vreemdelingen krijgen, met uitzondering van duurzaam in Nederland verblijvende vreemdelingen in dienst van de Europeesrechtelijke instellingen, als toevoeging ‘/DV’. Experts op bijzondere missie, in dienst van bepaalde internationale organisaties, krijgen de toevoeging ‘/EM’. Personeel dat geen privileges geniet krijgt de toevoeging ‘/NP’.
+
+### Het model van het identiteitsbewijs geprivilegieerden
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
