@@ -4,7 +4,7 @@ identifier: "BWBR0030643"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2023-06-01"
-last_updated: "2015-06-27"
+last_updated: "2016-06-18"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0030643"
 soort: "ministeriele-regeling"
@@ -52,11 +52,13 @@ Het Hoofd van de afdeling Boete, Dwangsom en Inning van de directie Informatiehu
 
 - d. de [artikelen 18c, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002638&artikel=18c), en [18n, eerste lid, van de Wet minimumloon en minimum-vakantiebijslag](https://wetten.overheid.nl/jci1.3:c:BWBR0002638&artikel=18n);
 
-- e. [artikel 18, eerste lid, van de Wet allocatie arbeidskrachten door intermediairs](https://wetten.overheid.nl/jci1.3:c:BWBR0009616&artikel=18).
+- e. [artikel 18, eerste lid, van de Wet allocatie arbeidskrachten door intermediairs](https://wetten.overheid.nl/jci1.3:c:BWBR0009616&artikel=18);
+
+- f. [artikel 14, eerste lid, van de Wet arbeidsvoorwaarden gedetacheerde werknemers in de Europese Unie](https://wetten.overheid.nl/jci1.3:c:BWBR0038054&artikel=14).
 
 ##### Artikel 2
 
-Het Hoofd van de afdeling Boete, Dwangsom en Inning, en de door het Hoofd aangewezen, onder hem ressorterende plaatsvervangers, genoemd in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0030643&artikel=1&z=2015-06-27&g=2015-06-27), zijn ten behoeve van de door hem opgelegde boeten bevoegd tot het nemen van de besluiten, genoemd in de [artikelen 4:94](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:94), [4:96](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:96), [4:99](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:99), [4:112](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:112), [4:113](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:113) en [5:10](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:10) juncto [paragraaf 4.4.4.2. van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&paragraaf=4.4.4.2).
+Het Hoofd van de afdeling Boete, Dwangsom en Inning, en de door het Hoofd aangewezen, onder hem ressorterende plaatsvervangers, genoemd in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0030643&artikel=1&z=2016-06-18&g=2016-06-18), zijn ten behoeve van de door hem opgelegde boeten bevoegd tot het nemen van de besluiten, genoemd in de [artikelen 4:94](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:94), [4:96](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:96), [4:99](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:99), [4:112](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:112), [4:113](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:113) en [5:10](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:10) juncto [paragraaf 4.4.4.2. van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&paragraaf=4.4.4.2).
 
 ##### Artikel 3
 
@@ -69,5 +71,13 @@ Deze regeling treedt in werking met ingang van 1 januari 2012.
 ##### Artikel 5
 
 Deze regeling wordt aangehaald als: Aanwijzingsregeling boeteoplegger SZW-wetgeving 2012.
+
+Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
+
+##### Artikel 2a
+
+1. Het Hoofd van de afdeling Boete, Dwangsom en Inning, en de door het Hoofd aangewezen, onder hem ressorterende plaatsvervangers, genoemd in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0030643&artikel=1&z=2016-06-18&g=2016-06-18), worden aangewezen als de ambtenaren, bedoeld in [artikel 4 van de Wet arbeidsvoorwaarden gedetacheerde werknemers in de Europese Unie](https://wetten.overheid.nl/jci1.3:c:BWBR0038054&artikel=4), voor zover het betreft de verwerking van gegevens met het oog op de wederzijdse bijstand bij de handhaving, bedoeld in artikel 10 van die wet.
+
+2. Het Hoofd van de afdeling Boete, Dwangsom en Inning, en de door het Hoofd aangewezen, onder hem ressorterende plaatsvervangers, genoemd in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0030643&artikel=1&z=2016-06-18&g=2016-06-18), zijn bevoegd voor de wederzijdse bijstand, bedoeld in [artikel 10, eerste lid, van de Wet arbeidsvoorwaarden gedetacheerde werknemers in de Europese Unie](https://wetten.overheid.nl/jci1.3:c:BWBR0038054&artikel=10) en verplicht tot het doen van invorderingen en kennisgevingen op grond van het tweede lid van dat artikel.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
