@@ -4,7 +4,7 @@ identifier: "BWBR0033813"
 country: "nl"
 rank: "pbo"
 publication_date: "2022-01-01"
-last_updated: "2014-01-08"
+last_updated: "2016-06-18"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0033813"
 soort: "pbo"
@@ -39,6 +39,8 @@ Stelt de volgende verordening vast:
 ### Hoofdstuk 1. Algemene bepalingen
 
 ##### Artikel 1
+
+Voor de toepassing van deze verordening wordt verstaan onder:
 
 - –. **aan assurance verwante opdrachten:** omvatten professionele diensten tot het verrichten van overeengekomen specifieke werkzaamheden en samenstellingsopdrachten;
 
@@ -168,7 +170,7 @@ Stelt de volgende verordening vast:
 
 2. Een ledengroepbestuur kan werk- en overleggroepen instellen.
 
-3. Het bestuur raadpleegt een ledengroepbestuur over de kandidaten die aan het bestuur worden voorgedragen door een commissie die is belast met de voorselectie van kandidaten die door het bestuur aan de ledenvergadering worden aanbevolen. Het bestuur betrekt de reactie van een ledengroepbestuur bij een raadpleging bij de besluitvorming over de aanbeveling van een kandidaat aan de ledenvergadering.
+3. Het bestuur raadpleegt een ledengroepbestuur over de kandidaten die aan het bestuur worden voorgedragen door een commissie die is belast met de voorselectie van kandidaten die door het bestuur aan de ledenvergadering worden aanbevolen. Het bestuur betrekt de reactie van een ledengroepbestuur bij de besluitvorming over de aanbeveling van een kandidaat aan de ledenvergadering.
 
 ##### Artikel 10
 
@@ -256,7 +258,7 @@ Stelt de volgende verordening vast:
 
 2. De afgevaardigde is lid van de ledengroep.
 
-3. In het geval bij het bestuur, gelet op de antecedenten van de door het ledengroepbestuur benoemde afgevaardigde, gegronde vrees bestaat dat de afgevaardigde zal handelen of nalaten in strijd met wettelijke voorschriften, de accountant betreffende, of dat zijn benoeming op andere wijze de eer van de stand van accountants zal schaden, spreekt het bestuur zich uit tegen de benoeming van de afgevaardigde zijn instemming.
+3. In het geval bij het bestuur, gelet op de antecedenten van de door het ledengroepbestuur benoemde afgevaardigde, gegronde vrees bestaat dat de afgevaardigde zal handelen of nalaten in strijd met wettelijke voorschriften, de accountant betreffende, of dat zijn benoeming op andere wijze de eer van de stand van accountants zal schaden, spreekt het bestuur zich uit tegen de benoeming van de afgevaardigde.
 
 4. In het geval het bestuur zich uitspreekt tegen de benoeming van een afgevaardigde, wordt de benoeming geacht niet te hebben plaatsgevonden.
 
@@ -288,7 +290,7 @@ Stelt de volgende verordening vast:
 
 1. Binnen zes maanden na de inwerkingtreding van deze verordening belegt een ledengroepbestuur een bijeenkomst van de ledengroepvergadering waarin in ieder geval wordt besloten over het benoemen van de leden van het ledengroepbestuur.
 
-2. Bij een benoeming op grond van het eerste lid, kunnen de door de ledengroepvergadering te benoemen leden van het ledengroepbestuur voor een kortere periode dan vier jaar worden benoemd, in verband met het op stellen rooster bedoeld in [artikel 10, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0033813&hoofdstuk=3&artikel=10&z=2014-01-08&g=2014-01-08).
+2. Bij een benoeming op grond van het eerste lid, kunnen de door de ledengroepvergadering te benoemen leden van het ledengroepbestuur voor een kortere periode dan vier jaar worden benoemd, in verband met het op stellen rooster bedoeld in [artikel 10, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0033813&hoofdstuk=3&artikel=10&z=2016-06-18&g=2016-06-18).
 
 3. Tot de benoeming van het ledengroepbestuur, bedoeld in het eerste lid, wordt het ledengroepbestuur gevormd door de leden van het ledengroepbestuur zoals deze door de gezamenlijke besturen van het NIVRA en de NOvAA zijn benoemd tot leden van het ledengroepbestuur van de door het NIVRA en de NOvAA ingestelde ledengroepen.
 
