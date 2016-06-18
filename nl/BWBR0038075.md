@@ -4,7 +4,7 @@ identifier: "BWBR0038075"
 country: "nl"
 rank: "beleidsregel"
 publication_date: "2016-06-18"
-last_updated: "2016-06-09"
+last_updated: "2016-06-18"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0038075"
 soort: "beleidsregel"
@@ -87,7 +87,7 @@ Ter voorkoming van misverstanden merk ik op dat op aandelen ingekocht ter dekkin
 
 ### 3. Ingetrokken regeling
 
-Het [besluit van 18 oktober 2005](https://wetten.overheid.nl/jci1.3:c:BWBR0018899&wetgeving), nr. CPP2005/1689 is ingetrokken met ingang van de inwerkingtreding van dit besluit.
+Het [besluit van 18 oktober 2005](https://wetten.overheid.nl/jci1.3:c:BWBR0018899), nr. CPP2005/1689 is ingetrokken met ingang van de inwerkingtreding van dit besluit.
 
 ### 4. Inwerkingtreding
 
