@@ -4,7 +4,7 @@ identifier: "BWBR0001987"
 country: "nl"
 rank: "wet"
 publication_date: "2023-06-01"
-last_updated: "2015-07-01"
+last_updated: "2016-06-18"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0001987"
 soort: "wet"
@@ -47,9 +47,9 @@ Deze wet verstaat onder:
 
 - a. "Onze Minister": Onze Minister van Sociale Zaken;
 
-- b. "verbindendverklaring": de in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0001987&artikel=2&z=2015-07-01&g=2015-07-01) bedoelde algemeen verbindendverklaring;
+- b. "verbindendverklaring": de in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0001987&artikel=2&z=2016-06-18&g=2016-06-18) bedoelde algemeen verbindendverklaring;
 
-- c. "verbindend verklaarde bepalingen": bepalingen eener collectieve arbeidsovereenkomst, welke ingevolge [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0001987&artikel=2&z=2015-07-01&g=2015-07-01) algemeen verbindend zijn verklaard.
+- c. "verbindend verklaarde bepalingen": bepalingen eener collectieve arbeidsovereenkomst, welke ingevolge [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0001987&artikel=2&z=2016-06-18&g=2016-06-18) algemeen verbindend zijn verklaard.
 
 ##### Artikel 2
 
@@ -71,13 +71,29 @@ Deze wet verstaat onder:
 
 - d. de werknemers te betrekken bij de handhaving van regelingen betreffende de prijzen, die voor goederen of diensten door de werkgevers van derden gevorderd zullen worden, en betreffende de voorwaarden, waaronder door de werkgevers aan derden zal worden geleverd.
 
-6. Verbindend verklaarde bepalingen gelden ook ten aanzien van werknemers, die tijdelijk in Nederland arbeid verrichten en wier arbeidsovereenkomst wordt beheerst door een ander recht dan het Nederlandse recht, indien deze bepalingen betrekking hebben op:
+6. Verbindend verklaarde bepalingen gelden ook ten aanzien van werknemers, die in het kader van transnationale dienstverrichting als bedoeld in [artikel 1, eerste lid, van de Wet arbeidvoorwaarden gedetacheerde werknemers in de Europese Unie](onbekend), tijdelijk in Nederland arbeid verrichten en wier arbeidsovereenkomst wordt beheerst door een ander recht dan het Nederlandse recht, indien deze bepalingen betrekking hebben op:
 
 - a. maximale werktijden en minimale rusttijden;
 
-- b. het minimum aantal vakantiedagen, gedurende welke de verplichting van de werkgever om loon te betalen bestaat;
+- b. het minimum aantal vakantiedagen, gedurende welke de verplichting van de werkgever om loon te betalen bestaat, en extra vergoedingen in verband met vakantie;
 
-- c. minimumloon, daaronder begrepen vergoedingen voor overwerk, en daaronder niet begrepen aanvullende bedrijfspensioenregelingen;
+- c. minimumloon, waarbij tot dit minimumloon in ieder geval behoren: en waarbij niet tot dit minimumloon behoren: aanspraken op aanvullende bedrijfspensioenregelingen en op bovenwettelijke sociale zekerheidsaanspraken en vergoedingen boven het loon voor door de werknemer in verband met de detachering te maken onkosten voor reizen, huisvesting of voeding;
+
+- 1. het geldende periodeloon in de schaal;
+
+- 2. de van toepassing zijnde arbeidsduurverkorting per week/maand/jaar/periode;
+
+- 3. toeslagen voor overwerk, verschoven uren, onregelmatigheid, waaronder feestdagentoeslag en ploegentoeslag;
+
+- 4. tussentijdse loonsverhoging;
+
+- 5. kostenvergoeding: reiskosten en reistijdvergoeding, pensionkosten en andere kosten noodzakelijk vanwege de uitoefening van de functie;
+
+- 6. periodieken;
+
+- 7. eindejaarsuitkeringen;
+
+- 8. extra vergoedingen in verband met vakantie,
 
 - d. voorwaarden voor het ter beschikking stellen van werknemers;
 
@@ -87,11 +103,13 @@ Deze wet verstaat onder:
 
 - g. gelijke behandeling van mannen en vrouwen, alsmede andere bepalingen inzake niet-discriminatie.
 
+7. Bij algemene maatregel van bestuur kunnen nadere regels worden gesteld met betrekking tot het zesde lid.
+
 ##### Artikel 2a
 
-1. Door de overgang van een onderneming, als bedoeld in artikel 662 van Boek 7 van het Burgerlijk Wetboek, gaan de rechten en verplichtingen welke op dat tijdstip voor de werkgever in die onderneming ten aanzien van daar werkzame werknemers voortvloeien uit bepalingen omtrent arbeidsvoorwaarden welke hij krachtens een besluit tot verbindendverklaring op grond van [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0001987&artikel=2&z=2015-07-01&g=2015-07-01) van deze wet verplicht is na te komen, van rechtswege over op de verkrijger van de onderneming.
+1. Door de overgang van een onderneming, als bedoeld in artikel 662 van Boek 7 van het Burgerlijk Wetboek, gaan de rechten en verplichtingen welke op dat tijdstip voor de werkgever in die onderneming ten aanzien van daar werkzame werknemers voortvloeien uit bepalingen omtrent arbeidsvoorwaarden welke hij krachtens een besluit tot verbindendverklaring op grond van [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0001987&artikel=2&z=2016-06-18&g=2016-06-18) van deze wet verplicht is na te komen, van rechtswege over op de verkrijger van de onderneming.
 
-2. De rechten en verplichtingen die ingevolge het eerste lid overgaan, eindigen op het tijdstip waarop de verkrijger ten aanzien van de arbeid, verricht door de in het eerste lid bedoelde werknemers, gebonden wordt aan een na de overgang van de onderneming tot stand gekomen collectieve arbeidsovereenkomst dan wel op het tijdstip waarop de verkrijger ten aanzien van die arbeid krachtens een na de overgang genomen besluit tot verbindendverklaring op grond van [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0001987&artikel=2&z=2015-07-01&g=2015-07-01) van deze wet, verplicht wordt bepalingen van een collectieve arbeidsovereenkomst na te komen. De rechten en verplichtingen eindigen voorts zodra de werking der verbindendverklaring eindigt.
+2. De rechten en verplichtingen die ingevolge het eerste lid overgaan, eindigen op het tijdstip waarop de verkrijger ten aanzien van de arbeid, verricht door de in het eerste lid bedoelde werknemers, gebonden wordt aan een na de overgang van de onderneming tot stand gekomen collectieve arbeidsovereenkomst dan wel op het tijdstip waarop de verkrijger ten aanzien van die arbeid krachtens een na de overgang genomen besluit tot verbindendverklaring op grond van [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0001987&artikel=2&z=2016-06-18&g=2016-06-18) van deze wet, verplicht wordt bepalingen van een collectieve arbeidsovereenkomst na te komen. De rechten en verplichtingen eindigen voorts zodra de werking der verbindendverklaring eindigt.
 
 ##### Artikel 3
 
@@ -139,11 +157,11 @@ Deze wet verstaat onder:
 
 3. Intrekking van de verbindendverklaring heeft geen terugwerkende kracht.
 
-4. Van de intrekking wordt aanteekening gehouden in het register, bedoeld in [artikel 5, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001987&artikel=5&z=2015-07-01&g=2015-07-01).
+4. Van de intrekking wordt aanteekening gehouden in het register, bedoeld in [artikel 5, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001987&artikel=5&z=2016-06-18&g=2016-06-18).
 
 ##### Artikel 7
 
-Het bepaalde in de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0001987&artikel=2&z=2015-07-01&g=2015-07-01) tot en met [6](https://wetten.overheid.nl/jci1.3:c:BWBR0001987&artikel=6&z=2015-07-01&g=2015-07-01) vindt overeenkomstige toepassing, indien de verbindendverklaring betreft wijzigingen in de bepalingen van collectieve arbeidsovereenkomsten, die ingevolge [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0001987&artikel=2&z=2015-07-01&g=2015-07-01) algemeen verbindend zijn verklaard.
+Het bepaalde in de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0001987&artikel=2&z=2016-06-18&g=2016-06-18) tot en met [6](https://wetten.overheid.nl/jci1.3:c:BWBR0001987&artikel=6&z=2016-06-18&g=2016-06-18) vindt overeenkomstige toepassing, indien de verbindendverklaring betreft wijzigingen in de bepalingen van collectieve arbeidsovereenkomsten, die ingevolge [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0001987&artikel=2&z=2016-06-18&g=2016-06-18) algemeen verbindend zijn verklaard.
 
 ##### Artikel 8
 
@@ -153,7 +171,7 @@ Het bepaalde in de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0001987
 
 3. Onverbindendverklaring heeft geen terugwerkende kracht.
 
-4. Van het besluit, waarbij de onverbindendverklaring wordt uitgesproken, wordt mededeling gedaan door plaatsing in de **Staatscourant**. Van de onverbindendverklaring wordt aantekening gehouden in het register, bedoeld in [artikel 5, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001987&artikel=5&z=2015-07-01&g=2015-07-01).
+4. Van het besluit, waarbij de onverbindendverklaring wordt uitgesproken, wordt mededeling gedaan door plaatsing in de **Staatscourant**. Van de onverbindendverklaring wordt aantekening gehouden in het register, bedoeld in [artikel 5, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001987&artikel=5&z=2016-06-18&g=2016-06-18).
 
 ##### Artikel 9
 
@@ -163,7 +181,7 @@ Het bepaalde in de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0001987
 
 ##### Artikel 10
 
-1. Indien een of meer verenigingen van werkgevers of van werknemers, op wier verzoek een verbindendverklaring is uitgesproken, het vermoeden gegrond achten, dat in een onderneming een of meer der verbindend verklaarde bepalingen niet worden nageleefd, kunnen zij met het oog op het instellen van een rechtsvordering, als bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0001987&artikel=3&z=2015-07-01&g=2015-07-01), Onze Minister verzoeken een onderzoek daarnaar te doen instellen. Onze Minister draagt het onderzoek op aan daartoe door hem aangewezen onder hem ressorterende ambtenaren. Onze Minister licht de vereniging of de verenigingen, die om het onderzoek hebben gevraagd, in over hetgeen bij het onderzoek gebleken is. Daarbij kunnen gegevens worden verstrekt betreffende het in die onderneming naleven van de [Wet minimumloon en minimumvakantiebijslag](https://wetten.overheid.nl/jci1.3:c:BWBR0002638), de [Wet allocatie arbeidskrachten door intermediairs](https://wetten.overheid.nl/jci1.3:c:BWBR0009616), de [Arbeidstijdenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0007671) en de daarop berustende bepalingen, of de [Arbeidsomstandighedenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0010346) en de daarop berustende bepalingen.
+1. Indien een of meer verenigingen van werkgevers of van werknemers, op wier verzoek een verbindendverklaring is uitgesproken, het vermoeden gegrond achten, dat in een onderneming een of meer der verbindend verklaarde bepalingen niet worden nageleefd, kunnen zij met het oog op het instellen van een rechtsvordering, als bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0001987&artikel=3&z=2016-06-18&g=2016-06-18), Onze Minister verzoeken een onderzoek daarnaar te doen instellen. Onze Minister draagt het onderzoek op aan daartoe door hem aangewezen onder hem ressorterende ambtenaren. Onze Minister licht de vereniging of de verenigingen, die om het onderzoek hebben gevraagd, in over hetgeen bij het onderzoek gebleken is. Daarbij kunnen gegevens worden verstrekt betreffende het in die onderneming naleven van de [Wet minimumloon en minimumvakantiebijslag](https://wetten.overheid.nl/jci1.3:c:BWBR0002638), de [Wet allocatie arbeidskrachten door intermediairs](https://wetten.overheid.nl/jci1.3:c:BWBR0009616), de [Arbeidstijdenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0007671) en de daarop berustende bepalingen, of de [Arbeidsomstandighedenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0010346) en de daarop berustende bepalingen.
 
 2. Indien een naar het oordeel van Onze Minister in aanmerking komende rechtspersoon met volledige rechtsbevoegdheid die door een of meer verenigingen van werkgevers of van werknemers is belast of mede is belast met het toezicht op de naleving van algemeen verbindend verklaarde bepalingen van een collectieve arbeidsovereenkomst, het vermoeden gegrond acht, dat in een onderneming een of meer van die verbindend verklaarde bepalingen niet worden nageleefd, kan hij met het oog op dat toezicht op de naleving Onze Minister verzoeken een onderzoek daarnaar te doen instellen. Onze Minister draagt het onderzoek op aan daartoe door hem aangewezen onder hem ressorterende ambtenaren. Onze Minister licht de rechtspersoon, die om het onderzoek heeft gevraagd, in over hetgeen bij het onderzoek gebleken is. Daarbij kunnen gegevens worden verstrekt betreffende het in die onderneming naleven van de [Wet minimumloon en minimumvakantiebijslag](https://wetten.overheid.nl/jci1.3:c:BWBR0002638), de [Wet allocatie arbeidskrachten door intermediairs](https://wetten.overheid.nl/jci1.3:c:BWBR0009616), de [Arbeidstijdenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0007671) en de daarop berustende bepalingen, of de [Arbeidsomstandighedenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0010346) en de daarop berustende bepalingen.
 
@@ -171,11 +189,17 @@ Het bepaalde in de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0001987
 
 ##### Artikel 10a
 
-Indien Onze Minister heeft vastgesteld dat de Stichting van de Arbeid heeft opgehouden te bestaan of de haar krachtens deze wet toekomende taak te vervullen, treden voor de toepassing van de [artikelen 4, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001987&artikel=4&z=2015-07-01&g=2015-07-01), en [6, tweede lid, tweede volzin](https://wetten.overheid.nl/jci1.3:c:BWBR0001987&artikel=6&z=2015-07-01&g=2015-07-01), in haar plaats de krachtens [artikel 17, eerste lid, van de Wet op de loonvorming](https://wetten.overheid.nl/jci1.3:c:BWBR0002698&artikel=17) door Ons aangewezen centrale organisaties van werkgevers en van werknemers.
+1. Dit lid is nog niet in werking getreden.
+
+2. Dit lid is nog niet in werking getreden.
+
+3. Onze Minister is bevoegd om op verzoek van een of meer verenigingen van werkgevers of van werknemers bij algemene maatregel van bestuur aangewezen gegevens over dienstverrichters, bedoeld in de [Wet arbeidsvoorwaarden gedetacheerde werknemers in de Europese Unie](https://wetten.overheid.nl/jci1.3:c:BWBR0038054), die in het kader van de administratieve samenwerking, bedoeld in [artikel 4 van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0038054&artikel=4), verkregen zijn van andere lidstaten te verstrekken om na te gaan of algemeen verbindend verklaarde bepalingen van collectieve arbeidsovereenkomsten die gelden voor gedetacheerde werknemers, worden nageleefd.
+
+4. Onze Minister is bevoegd om op verzoek van een rechtspersoon met volledige rechtsbevoegdheid, die door de organisaties van werkgevers en werknemers is belast of mede is belast met het toezicht op de naleving van collectieve arbeidsovereenkomsten bij algemene maatregel van bestuur aangewezen gegevens over dienstverrichters, bedoeld in de [Wet arbeidsvoorwaarden gedetacheerde werknemers in de Europee Unie](https://wetten.overheid.nl/jci1.3:c:BWBR0038054), die in het kader van de administratieve samenwerking, bedoeld in [artikel 4 van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0038054&artikel=4) verkregen zijn van andere lidstaten, te verstrekken ten behoeve van de uitvoering van het toezicht op de naleving van collectieve arbeidsovereenkomsten, die gelden voor gedetacheerde werknemers.
 
 ##### Artikel 10b
 
-Onze Minister kan een onder hem ressorterende ambtenaar mandaat verlenen tot het uitoefenen van de bevoegdheden, bedoeld in de [artikelen 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001987&artikel=2&z=2015-07-01&g=2015-07-01), en [6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001987&artikel=6&z=2015-07-01&g=2015-07-01).
+Indien Onze Minister heeft vastgesteld dat de Stichting van de Arbeid heeft opgehouden te bestaan of de haar krachtens deze wet toekomende taak te vervullen, treden voor de toepassing van de [artikelen 4, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001987&artikel=4&z=2016-06-18&g=2016-06-18), en [6, tweede lid, tweede volzin](https://wetten.overheid.nl/jci1.3:c:BWBR0001987&artikel=6&z=2016-06-18&g=2016-06-18), in haar plaats de krachtens [artikel 17, eerste lid, van de Wet op de loonvorming](https://wetten.overheid.nl/jci1.3:c:BWBR0002698&artikel=17) door Ons aangewezen centrale organisaties van werkgevers en van werknemers.
 
 ##### Artikel 11
 
@@ -213,10 +237,16 @@ Lasten en bevelen, dat deze in het **Staatsblad** zal worden geplaatst, en dat a
 
 ##### Artikel 4a
 
-1. De verlenging van de verbindendverklaring, bedoeld in [artikel 2, tweede lid, eerste zin](https://wetten.overheid.nl/jci1.3:c:BWBR0001987&artikel=2&z=2015-07-01&g=2015-07-01), kan alleen geschieden op verzoek van alle werkgevers of verenigingen van werkgevers en werknemers, die partij zijn bij de collectieve arbeidsovereenkomst.
+1. De verlenging van de verbindendverklaring, bedoeld in [artikel 2, tweede lid, eerste zin](https://wetten.overheid.nl/jci1.3:c:BWBR0001987&artikel=2&z=2016-06-18&g=2016-06-18), kan alleen geschieden op verzoek van alle werkgevers of verenigingen van werkgevers en werknemers, die partij zijn bij de collectieve arbeidsovereenkomst.
 
 2. De verlenging van de verbindendverklaring geschiedt voor ten hoogste een jaar.
 
-3. De [artikelen 4, tweede lid en derde lid, eerste zin](https://wetten.overheid.nl/jci1.3:c:BWBR0001987&artikel=4&z=2015-07-01&g=2015-07-01), en [5, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001987&artikel=5&z=2015-07-01&g=2015-07-01), zijn van overeenkomstige toepassing.
+3. De [artikelen 4, tweede lid en derde lid, eerste zin](https://wetten.overheid.nl/jci1.3:c:BWBR0001987&artikel=4&z=2016-06-18&g=2016-06-18), en [5, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001987&artikel=5&z=2016-06-18&g=2016-06-18), zijn van overeenkomstige toepassing.
+
+Lasten en bevelen, dat deze in het **Staatsblad** zal worden geplaatst, en dat alle Ministerieele Departementen, Autoriteiten, Colleges en Ambtenaren, wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
+
+##### Artikel 10c
+
+Onze Minister kan een onder hem ressorterende ambtenaar mandaat verlenen tot het uitoefenen van de bevoegdheden, bedoeld in de [artikelen 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001987&artikel=2&z=2016-06-18&g=2016-06-18), en [6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001987&artikel=6&z=2016-06-18&g=2016-06-18).
 
 Lasten en bevelen, dat deze in het **Staatsblad** zal worden geplaatst, en dat alle Ministerieele Departementen, Autoriteiten, Colleges en Ambtenaren, wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
