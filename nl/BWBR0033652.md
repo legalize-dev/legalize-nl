@@ -4,7 +4,7 @@ identifier: "BWBR0033652"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2016-06-23"
-last_updated: "2013-06-01"
+last_updated: "2016-06-23"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0033652"
 soort: "ministeriele-regeling"
@@ -50,13 +50,13 @@ De commissie heeft tot taak de directeur-generaal voor de Algemene Bestuursdiens
 
 ##### Artikel 3
 
-1. De commissie bestaat uit een voorzitter en vijf vaste leden. Aan de commissie kan een extra lid worden toegevoegd.
+1. De commissie bestaat uit vijf leden.
 
 2. De voorzitter van de commissie, tevens lid, is niet werkzaam bij een van de ministeries en wordt voor een periode van drie jaar benoemd door de minister voor Wonen en Rijksdienst. Herbenoeming is eenmaal aansluitend mogelijk.
 
-3. De drie vaste leden van de commissie worden op voordracht van het Overleg van Secretarissen-Generaal (SG-overleg) uit hun midden benoemd door de Minister van W&R voor een periode van in beginsel drie jaar. Herbenoeming is aansluitend mogelijk.
+3. De overige leden van de commissie worden benoemd door de minister voor Wonen en Rijksdienst voor een periode van in beginsel drie jaar. Herbenoeming is aansluitend mogelijk.
 
-4. Als extra lid kan aan de commissie worden toegevoegd de secretaris-generaal van het ministerie waar de vacante functie zich voordoet. Betreft het de vacature van secretaris-generaal, dan kan door de betrokken minister een directeur-generaal van het vacaturehoudende departement als extra lid worden aangewezen. In het geval een vacature zich voordoet, niet zijnde de vacature van secretaris-generaal, bij een ministerie waarbij een van de vaste leden werkzaam is, wordt geen extra lid aan de commissie toegevoegd.
+4. De secretaris-generaal van het ministerie waar de vacante functie zich voordoet wordt als informant door de commissie gehoord. Betreft het de vacature van secretaris-generaal, dan kan door de betrokken minister een directeur-generaal van het vacaturehoudende departement als informant worden aangewezen. In het geval een vacature zich voordoet, niet zijnde de vacature van secretaris-generaal, bij een ministerie waarbij een van de vaste leden werkzaam is, dan wordt dat lid als informant door de commissie gehoord.
 
 ##### Artikel 4
 
