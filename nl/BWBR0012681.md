@@ -4,7 +4,7 @@ identifier: "BWBR0012681"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-10-08"
-last_updated: "2015-06-11"
+last_updated: "2016-06-23"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0012681"
 soort: "ministeriele-regeling"
@@ -118,7 +118,7 @@ Als gespen behorende bij de Herinneringsmedaille Vredesoperaties worden ingestel
 
 - 3°. de United Nations World Food Program Mission ‘UNWFP’, voor zover deze deelname heeft plaatsgehad op het grondgebied van en in het luchtruim boven Irak, op en vanaf de luchthaven van Amman in Jordanië alsmede bij de zeetransporten naar en in de wateren van Somalië;
 
-- 4°. de Mission de l'Organisation des Nations Unies en République démocratique du Congo ‘MONUC’, voor zover deze deelname heeft plaatsgehad op het grondgebied van en in het luchtruim boven de volksrepubliek Congo;
+- 4°. de Mission de l'Organisation des Nations Unies en République démocratique du Congo ‘MONUC’ en de Mission de l'Organisation des Nations Unies pour la stabilisation en République démocratique du Congo ‘MONUSCO’, voor zover deze deelname heeft plaatsgehad op het grondgebied van en in het luchtruim boven de volksrepubliek Congo;
 
 - 5°. de United Nations Mission in Sudan ‘UNMIS’, voor zover deze deelname heeft plaatsgehad op het grondgebied van en in het luchtruim boven de republiek Soedan;
 
@@ -136,7 +136,7 @@ Als gespen behorende bij de Herinneringsmedaille Vredesoperaties worden ingestel
 
 - 12°. de United Nations Disengagement Observers Force ‘UNDOF’, voor zover deze deelname heeft plaatsgevonden op en rondom Camp Faouar in Syrië en op en rondom Camp Ziouani in Libanon, vanaf 25 september 2013;
 
-- 13°. de Multidimensional Integrated Stabilization Mission ‘MINUSMA’, voor zover deze deelname heeft plaatsgehad in Mali vanaf 23 september 2013 en ‘MINUSMA Nationaal’ vanaf 1 november 2013: VN OPERATIES;
+- 13°. de Multidimensional Integrated Stabilization Mission ‘MINUSMA’, voor zover deze deelname heeft plaatsgehad in Mali vanaf 1 juli 2013 en ‘MINUSMA Nationaal’ vanaf 1 november 2013: VN OPERATIES;
 
 - dd. voor deelname aan operaties van de Noord Atlantische Verdrags Organisatie:
 
@@ -162,7 +162,7 @@ Als gespen behorende bij de Herinneringsmedaille Vredesoperaties worden ingestel
 
 - 2°. de Aceh Monitoring Mission, ‘AMM’, voor zover deze deelname heeft plaatsgehad op het grondgebied van en in het luchtruim boven Indonesië vanaf september 2005;
 
-- 3°. de Border Assistance Mission, ‘EUBAM’, voor zover deelname heeft plaatsgehad op Israëlisch-Palestijns grondgebied en luchtruim daarboven vanaf februari 2006;
+- 3°. de Border Assistance Mission, ‘EUBAM’, voor zover deelname heeft plaatsgehad op Israëlisch-Palestijns grondgebied en luchtruim daarboven vanaf februari 2006 en in Libië vanaf mei 2013;
 
 - 4°. de EU Security missie ‘EUSEC’ en de EU Security-Financial missie ‘EUSEC-FIN’, voor zover deze deelname heeft plaatsgehad op het grondgebied van en in het luchtruim boven de Democratische Republiek Congo vanaf mei 2006;
 
@@ -174,7 +174,7 @@ Als gespen behorende bij de Herinneringsmedaille Vredesoperaties worden ingestel
 
 - 8°. de EU-operatie ‘EUFOR Tchad/RCA’, voor zover deze deelname heeft plaatsgehad in de regio Oost Tsjaad, grenzend aan Darfur en het noorden van de Centraal Afrikaanse Republiek vanaf mei 2008;
 
-- 9°. de maritieme EVDB-operatie Atalanta in de wateren van en in de nabijheid van Somalië vanaf 8 december 2008;
+- 9°. de EU operatie ‘EUNAVFOR Atalanta’ in de wateren van en in de nabijheid van Somalië en in Kenia vanaf 8 december 2008;
 
 - 10°. de EU trainingsmissie in Mali ‘EUTM Mali’, voor zover deze deelname heeft plaatsgehad in Mali vanaf 10 juli 2013;
 
@@ -182,13 +182,25 @@ Als gespen behorende bij de Herinneringsmedaille Vredesoperaties worden ingestel
 
 - 12°. de EU missie in Zuid-Sudan ‘EUAVSEC South Sudan’, voor zover deze deelname heeft plaatsgehad in Zuid-Sudan vanaf 3 juni 2013;
 
-- 13°. de EU missie in de Hoorn van Afrika ‘EUCAP Nestor’, voor zover deze deelname heeft plaatsgehad in Djibouti, Somalië, Kenia en de Seychellen vanaf 16 juli 2012: EU-OPERATIES;
+- 13°. de EU missie in de Hoorn van Afrika ‘EUCAP Nestor’, voor zover deze deelname heeft plaatsgehad in Djibouti, Somalië, Kenia, Tanzania en de Seychellen vanaf 16 juli 2012;
+
+- 14°. de EU missie ‘EUAM Ukraine’, voor zover deze deelname heeft plaatsgehad in Oekraïne vanaf 8 maart 2015;
+
+- 15°. de EU missie ‘EUPOL COPPS’ voor zover deze deelname heeft plaatsgehad in Palestijnse gebieden vanaf 1 januari 2006: EU-OPERATIES;
+
+- 16°. de EU missie ‘EUNAV FORMED’ voor zover deze deelname heeft plaatsgehad in het Middellandse Zeegebied vanaf 18 mei 2015;
+
+- 17°. de EU missie ‘EUMAM RCA’ voor zover deze deelname heeft plaatsgehad in Bangui in de Centraal Afrikaanse Republiek vanaf 31 maart 2015;
+
+- 18°. de EU missie ‘EUCAP SAHEL’ voor zover deze deelname heeft plaatsgehad in Mali vanaf 2015;
 
 - ff. voor deelname aan operaties van de Organisatie voor Veiligheid en Samenwerking in Europa:
 
 - 1°. de OVSE missie Kosovo Police Service School vanaf september 2001;
 
-- 2°. de OVSE opleidingsmissie in Servië en Montenegro vanaf 2003: OVSE OPERATIES;
+- 2°. de OVSE opleidingsmissie in Servië en Montenegro vanaf 2003;
+
+- 3°. de OVSE monitoringsmissie in Oekraïne vanaf 21 maart 2014: OVSE-OPERATIES;
 
 - gg. voor deelname aan operaties in Multinationaal verband:
 
