@@ -4,7 +4,7 @@ identifier: "BWBR0037650"
 country: "nl"
 rank: "amvb"
 publication_date: "2020-02-01"
-last_updated: "2016-04-20"
+last_updated: "2016-06-23"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0037650"
 soort: "AMvB"
@@ -76,7 +76,7 @@ Hebben goedgevonden en verstaan:
 
 - l. **installateur:** hetgeen artikel 2 van de richtlijn daaronder verstaat;
 
-- m. **NL-conformiteitsbeoordelingsinstantie:** NL-conformiteitsbeoordelingsinstantie, genoemd in [artikel 26](https://wetten.overheid.nl/jci1.3:c:BWBR0037650&hoofdstuk=3&artikel=26&z=2016-04-20&g=2016-04-20);
+- m. **NL-conformiteitsbeoordelingsinstantie:** NL-conformiteitsbeoordelingsinstantie, genoemd in [artikel 26](https://wetten.overheid.nl/jci1.3:c:BWBR0037650&hoofdstuk=3&artikel=26&z=2016-06-23&g=2016-06-23);
 
 - n. **liften:** hetgeen de artikelen 1, eerste lid, en 2 van de richtlijn daaronder verstaan;
 
@@ -90,7 +90,7 @@ Hebben goedgevonden en verstaan:
 
 - s. **veiligheidscomponenten voor liften:** hetgeen artikel 1, eerste lid, van de richtlijn daaronder verstaat; en
 
-- t. **wet:** [Warenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0001969&wetgeving).
+- t. **wet:** [Warenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0001969).
 
 2. Dit besluit is niet van toepassing op liften en veiligheidscomponenten voor liften als bedoeld in artikel 1, tweede en derde lid, van de richtlijn.
 
@@ -226,11 +226,11 @@ Hebben goedgevonden en verstaan:
 
 1. De beoordeling van de conformiteit van liften en veiligheidscomponenten voor liften, de afgifte van verklaringen en de verlening van goedkeuringen ter zake vinden plaats met inachtneming van de artikelen 15 en 16 van de richtlijn.
 
-2. Fabrikanten vragen de beoordeling van de conformiteit van veiligheidscomponenten voor liften, bedoeld in artikel 15 van de richtlijn, aan bij de EU-conformiteitsbeoordelingsinstantie, bedoeld in [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0037650&hoofdstuk=2&artikel=12&z=2016-04-20&g=2016-04-20).
+2. Fabrikanten vragen de beoordeling van de conformiteit van veiligheidscomponenten voor liften, bedoeld in artikel 15 van de richtlijn, aan bij de EU-conformiteitsbeoordelingsinstantie, bedoeld in [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0037650&hoofdstuk=2&artikel=12&z=2016-06-23&g=2016-06-23).
 
-3. Installateurs vragen de beoordeling van de conformiteit van een lift, bedoeld in artikel 16, eerste lid, van de richtlijn aan bij de EU-conformiteitsbeoordelingsinstantie, bedoeld in [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0037650&hoofdstuk=2&artikel=12&z=2016-04-20&g=2016-04-20).
+3. Installateurs vragen de beoordeling van de conformiteit van een lift, bedoeld in artikel 16, eerste lid, van de richtlijn aan bij de EU-conformiteitsbeoordelingsinstantie, bedoeld in [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0037650&hoofdstuk=2&artikel=12&z=2016-06-23&g=2016-06-23).
 
-4. De bescheiden en briefwisseling betreffende de in de artikelen 15 en 16 van de richtlijn bedoelde conformiteitbeoordelingsprocedures zijn in ieder geval gesteld in de Nederlandse taal of in een door de EU-conformiteitsbeoordelingsinstantie, bedoeld in [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0037650&hoofdstuk=2&artikel=12&z=2016-04-20&g=2016-04-20), aanvaarde andere taal.
+4. De bescheiden en briefwisseling betreffende de in de artikelen 15 en 16 van de richtlijn bedoelde conformiteitbeoordelingsprocedures zijn in ieder geval gesteld in de Nederlandse taal of in een door de EU-conformiteitsbeoordelingsinstantie, bedoeld in [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0037650&hoofdstuk=2&artikel=12&z=2016-06-23&g=2016-06-23), aanvaarde andere taal.
 
 ##### Artikel 11. Intrekking verklaringen en goedkeuringen
 
@@ -256,13 +256,13 @@ De EU-conformiteitsbeoordelingsinstantie trekt een door haar afgegeven verklarin
 
 ##### Artikel 13. Weigering, schorsing, wijziging of intrekking aanwijzing
 
-1. Onze Minister weigert een aanwijzing als EU-conformiteitsbeoordelingsinstantie indien de aanvrager niet heeft voldaan aan het bepaalde bij of krachtens [artikel 12, eerste tot en met vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037650&hoofdstuk=2&artikel=12&z=2016-04-20&g=2016-04-20).
+1. Onze Minister weigert een aanwijzing als EU-conformiteitsbeoordelingsinstantie indien de aanvrager niet heeft voldaan aan het bepaalde bij of krachtens [artikel 12, eerste tot en met vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037650&hoofdstuk=2&artikel=12&z=2016-06-23&g=2016-06-23).
 
 2. Een aanwijzing kan worden geschorst, ten nadele van de EU-conformiteitsbeoordelingsinstantie worden gewijzigd of ingetrokken:
 
 - a. op grond van door de EU-conformiteitsbeoordelingsinstantie verstrekte onjuiste inlichtingen over feiten of omstandigheden, mits de onjuistheid daarvan aan deze instantie bekend was of kon zijn;
 
-- b. indien de EU-conformiteitsbeoordelingsinstantie niet meer voldoet aan het bepaalde bij of krachtens [artikel 12, eerste tot en met vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037650&hoofdstuk=2&artikel=12&z=2016-04-20&g=2016-04-20); of
+- b. indien de EU-conformiteitsbeoordelingsinstantie niet meer voldoet aan het bepaalde bij of krachtens [artikel 12, eerste tot en met vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037650&hoofdstuk=2&artikel=12&z=2016-06-23&g=2016-06-23); of
 
 - c. indien de EU-conformiteitsbeoordelingsinstantie haar wettelijke verplichtingen niet meer naar behoren nakomt of de taken waarvoor zij is aangewezen, niet meer naar behoren uitvoert.
 
@@ -280,11 +280,11 @@ De EU-conformiteitsbeoordelingsinstantie trekt een door haar afgegeven verklarin
 
 1. Tijdens de looptijd van de aanwijzing stelt Onze Minister periodiek vast of de EU-conformiteitsbeoordelingsinstantie:
 
-- a. nog voldoet aan het bepaalde bij of krachtens [artikel 12, eerste tot en met vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037650&hoofdstuk=2&artikel=12&z=2016-04-20&g=2016-04-20); en
+- a. nog voldoet aan het bepaalde bij of krachtens [artikel 12, eerste tot en met vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037650&hoofdstuk=2&artikel=12&z=2016-06-23&g=2016-06-23); en
 
 - b. haar wettelijke verplichtingen naar behoren nakomt en de taken waarvoor zij is aangewezen, naar behoren uitvoert.
 
-2. Bij ministeriële regeling worden nadere regels gesteld betreffende het kosteloos gegevens en inlichtingen verstrekken door de EU-conformiteitsbeoordelingsinstantie aan Onze Minister of de nationale accreditatie-instantie dan wel door Onze Minister of de nationale accreditatie-instantie aan de EU-conformiteitsbeoordelingsinstantie, die zijn verkregen door de uitvoering of het toezicht op de naleving van het bepaalde bij of krachtens de [wet](https://wetten.overheid.nl/jci1.3:c:BWBR0001969&wetgeving), die noodzakelijk zijn voor de uitvoering van hun wettelijke taken.
+2. Bij ministeriële regeling worden nadere regels gesteld betreffende het kosteloos gegevens en inlichtingen verstrekken door de EU-conformiteitsbeoordelingsinstantie aan Onze Minister of de nationale accreditatie-instantie dan wel door Onze Minister of de nationale accreditatie-instantie aan de EU-conformiteitsbeoordelingsinstantie, die zijn verkregen door de uitvoering of het toezicht op de naleving van het bepaalde bij of krachtens de [wet](https://wetten.overheid.nl/jci1.3:c:BWBR0001969), die noodzakelijk zijn voor de uitvoering van hun wettelijke taken.
 
 3. Een EU-conformiteitsbeoordelingsinstantie die haar taken waarvoor zij is aangewezen, beëindigt, of waarvan de aanwijzing door Onze Minister wordt ingetrokken, is verplicht tijdig voorafgaand aan de beëindiging van de werkzaamheden respectievelijk de datum, waarop de aanwijzing eindigt, haar dossiers over te dragen aan een andere EU-conformiteitsbeoordelingsinstantie waarmee de marktdeelnemer een overeenkomst is aangegaan. Indien er geen andere EU-conformiteitsbeoordelingsinstantie is, draagt de EU-conformiteitsbeoordelingsinstantie de dossiers over aan Onze Minister.
 
@@ -306,7 +306,7 @@ Een wijziging van de richtlijn gaat voor de toepassing van dit besluit gelden me
 
 3. Liften worden vóór de ingebruikneming na elke reparatie of wijziging door een NL-conformiteitsbeoordelingsinstantie gekeurd.
 
-4. Bij de keuring vóór de eerste ingebruikneming, bedoeld in het tweede lid, wordt gecontroleerd of de documenten van de conformiteitsprocedures, bedoeld in [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0037650&hoofdstuk=2&artikel=10&z=2016-04-20&g=2016-04-20), aanwezig en juist zijn. Bij de keuring voor de ingebruikneming na reparatie of wijziging, bedoeld in het derde lid, wordt getoetst of ten minste is voldaan aan de voor de desbetreffende lift geldende vervaardigingvoorschriften, bedoeld in artikel 16 van de richtlijn.
+4. Bij de keuring vóór de eerste ingebruikneming, bedoeld in het tweede lid, wordt gecontroleerd of de documenten van de conformiteitsprocedures, bedoeld in [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0037650&hoofdstuk=2&artikel=10&z=2016-06-23&g=2016-06-23), aanwezig en juist zijn. Bij de keuring voor de ingebruikneming na reparatie of wijziging, bedoeld in het derde lid, wordt getoetst of ten minste is voldaan aan de voor de desbetreffende lift geldende vervaardigingvoorschriften, bedoeld in artikel 16 van de richtlijn.
 
 5. Bij de keuringen, bedoeld in het eerste en tweede lid, wordt getoetst of nog ten minste is voldaan aan de voor de desbetreffende lift geldende vervaardigingsvoorschriften van artikel 16 van de richtlijn en, wat betreft de liften, bedoeld in het eerste lid, aan [artikel 7.21, eerste lid, van het Arbeidsomstandighedenbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=7.21).
 
@@ -318,11 +318,11 @@ Een wijziging van de richtlijn gaat voor de toepassing van dit besluit gelden me
 
 ##### Artikel 19. Certificaat van goedkeuring
 
-Onze Minister of, indien Onze Minister een NL-conformiteitsbeoordelingsinstantie heeft aangewezen, deze instantie, geeft op verzoek een certificaat van goedkeuring af wanneer hij respectievelijk zij heeft vastgesteld dat is voldaan aan de bij of krachtens [artikel 18, vierde en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037650&hoofdstuk=3&artikel=18&z=2016-04-20&g=2016-04-20), gestelde keuringseisen.
+Onze Minister of, indien Onze Minister een NL-conformiteitsbeoordelingsinstantie heeft aangewezen, deze instantie, geeft op verzoek een certificaat van goedkeuring af wanneer hij respectievelijk zij heeft vastgesteld dat is voldaan aan de bij of krachtens [artikel 18, vierde en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037650&hoofdstuk=3&artikel=18&z=2016-06-23&g=2016-06-23), gestelde keuringseisen.
 
 ##### Artikel 20. Weigering, schorsing, wijziging of intrekking certificaat van goedkeuring
 
-1. De afgifte van een certificaat van goedkeuring als bedoeld in [artikel 19](https://wetten.overheid.nl/jci1.3:c:BWBR0037650&hoofdstuk=3&artikel=19&z=2016-04-20&g=2016-04-20), wordt geweigerd indien de verzoeker niet heeft voldaan aan het bij of krachtens dit besluit met betrekking tot het certificaat gestelde eisen.
+1. De afgifte van een certificaat van goedkeuring als bedoeld in [artikel 19](https://wetten.overheid.nl/jci1.3:c:BWBR0037650&hoofdstuk=3&artikel=19&z=2016-06-23&g=2016-06-23), wordt geweigerd indien de verzoeker niet heeft voldaan aan het bij of krachtens dit besluit met betrekking tot het certificaat gestelde eisen.
 
 2. Een certificaat van goedkeuring kan worden geschorst, ten nadele van de certificaathouder worden gewijzigd of ingetrokken:
 
@@ -340,7 +340,7 @@ Onze Minister of, indien Onze Minister een NL-conformiteitsbeoordelingsinstantie
 
 2. Een veiligheidscomponent voor liften gaat vergezeld van de instructies, bedoeld in punt 6.1 van bijlage I, van de richtlijn. Deze zijn in ieder geval gesteld in de Nederlandse taal.
 
-3. Het certificaat van goedkeuring, bedoeld in [artikel 19](https://wetten.overheid.nl/jci1.3:c:BWBR0037650&hoofdstuk=3&artikel=19&z=2016-04-20&g=2016-04-20), en het liftboek, bedoeld in het eerste lid, of een afschrift daarvan worden desgevraagd getoond aan de functionaris, bedoeld in [artikel 25 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0001969&artikel=25).
+3. Het certificaat van goedkeuring, bedoeld in [artikel 19](https://wetten.overheid.nl/jci1.3:c:BWBR0037650&hoofdstuk=3&artikel=19&z=2016-06-23&g=2016-06-23), en het liftboek, bedoeld in het eerste lid, of een afschrift daarvan worden desgevraagd getoond aan de functionaris, bedoeld in [artikel 25 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0001969&artikel=25).
 
 ##### Artikel 22. Staat van onderhoud lift
 
@@ -386,7 +386,7 @@ Degene die een lift bedient, bestuurt of belaadt, zorg ervoor dat:
 
 1. Als NL-conformiteitsbeoordelingsinstantie kunnen worden aangewezen de instellingen die voldoen aan de volgende eisen:
 
-- a. artikel 25, tweede, derde, vierde, vijfde, zevende, achtste en negende lid, van de richtlijn;
+- a. artikel 24, tweede, derde, vierde, vijfde, zevende, achtste en negende lid, van de richtlijn;
 
 - b. zij zijn in staat alle conformiteitsbeoordelingstaken te verrichten waarvoor zij aangewezen zijn, ongeacht of deze taken door henzelf of namens hen en onder hun verantwoordelijkheid worden verricht;
 
@@ -422,7 +422,7 @@ Degene die een lift bedient, bestuurt of belaadt, zorg ervoor dat:
 
 ##### Artikel 27. Uitbesteden taken
 
-1. Indien NL-conformiteitsbeoordelingsinstanties conformiteitsbeoordelingstaken uitbesteden of door een dochteronderneming laten uitvoeren, waarborgen zij dat de onderaannemer of dochteronderneming aan de eisen, bedoeld in [artikel 26, eerste, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037650&hoofdstuk=3&artikel=26&z=2016-04-20&g=2016-04-20), voldoet en brengen zij Onze Minister hiervan op de hoogte.
+1. Indien NL-conformiteitsbeoordelingsinstanties conformiteitsbeoordelingstaken uitbesteden of door een dochteronderneming laten uitvoeren, waarborgen zij dat de onderaannemer of dochteronderneming aan de eisen, bedoeld in [artikel 26, eerste, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037650&hoofdstuk=3&artikel=26&z=2016-06-23&g=2016-06-23), voldoet en brengen zij Onze Minister hiervan op de hoogte.
 
 2. NL-conformiteitsbeoordelingsinstanties nemen de volledige verantwoordelijkheid op zich voor de conformiteitsbeoordelingstaken die worden verricht door een onderaannemer of dochteronderneming.
 
@@ -434,9 +434,9 @@ Degene die een lift bedient, bestuurt of belaadt, zorg ervoor dat:
 
 ##### Artikel 28. Aanwijzingsprocedure
 
-1. De instelling, bedoeld in [artikel 26](https://wetten.overheid.nl/jci1.3:c:BWBR0037650&hoofdstuk=3&artikel=26&z=2016-04-20&g=2016-04-20), dient de aanvraag tot aanwijzing in bij Onze Minister.
+1. De instelling, bedoeld in [artikel 26](https://wetten.overheid.nl/jci1.3:c:BWBR0037650&hoofdstuk=3&artikel=26&z=2016-06-23&g=2016-06-23), dient de aanvraag tot aanwijzing in bij Onze Minister.
 
-2. Een NL-conformiteitsbeoordelingsinstantie toont aan dat zij voldoet aan de criteria, genoemd in de [artikelen 26, eerste, tweede, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037650&hoofdstuk=3&artikel=26&z=2016-04-20&g=2016-04-20), en [27](https://wetten.overheid.nl/jci1.3:c:BWBR0037650&hoofdstuk=3&artikel=27&z=2016-04-20&g=2016-04-20) door middel van een accreditatie tegen de van toepassing zijnde geharmoniseerde normen of delen daarvan, mits die normen de eerdergenoemde eisen dekken en de referentienummers van die normen in het Publicatieblad van de Europese Unie zijn bekendgemaakt.
+2. Een NL-conformiteitsbeoordelingsinstantie toont aan dat zij voldoet aan de criteria, genoemd in de [artikelen 26, eerste, tweede, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037650&hoofdstuk=3&artikel=26&z=2016-06-23&g=2016-06-23), en [27](https://wetten.overheid.nl/jci1.3:c:BWBR0037650&hoofdstuk=3&artikel=27&z=2016-06-23&g=2016-06-23) door middel van een accreditatie tegen de van toepassing zijnde geharmoniseerde normen of delen daarvan, mits die normen de eerdergenoemde eisen dekken en de referentienummers van die normen in het Publicatieblad van de Europese Unie zijn bekendgemaakt.
 
 3. Indien de NL-conformiteitsbeoordelingsinstantie geen bewijs van accreditatie kan overleggen, verschaft zij Onze Minister alle bewijsstukken die nodig zijn om aan te tonen dat zij voldoet aan de criteria, genoemd in het tweede lid.
 
@@ -444,13 +444,13 @@ Degene die een lift bedient, bestuurt of belaadt, zorg ervoor dat:
 
 ##### Artikel 29. Weigering, schorsing, wijziging of intrekking van een aanwijzing
 
-1. Onze Minister weigert een aanwijzing als NL-conformiteitsbeoordelingsinstantie indien de aanvragende instelling niet heeft voldaan aan het bepaalde bij of krachtens de [artikelen 26, eerste, tweede, derde, vierde en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037650&hoofdstuk=3&artikel=26&z=2016-04-20&g=2016-04-20), en [27](https://wetten.overheid.nl/jci1.3:c:BWBR0037650&hoofdstuk=3&artikel=27&z=2016-04-20&g=2016-04-20).
+1. Onze Minister weigert een aanwijzing als NL-conformiteitsbeoordelingsinstantie indien de aanvragende instelling niet heeft voldaan aan het bepaalde bij of krachtens de [artikelen 26, eerste, tweede, derde, vierde en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037650&hoofdstuk=3&artikel=26&z=2016-06-23&g=2016-06-23), en [27](https://wetten.overheid.nl/jci1.3:c:BWBR0037650&hoofdstuk=3&artikel=27&z=2016-06-23&g=2016-06-23).
 
 2. Een aanwijzing kan worden geschorst, ten nadele van de NL-conformiteitsbeoordelingsinstantie worden gewijzigd of ingetrokken:
 
 - a. op grond van door de NL-conformiteitsbeoordelingsinstantie verstrekte onjuiste inlichtingen over feiten of omstandigheden, mits de onjuistheid daarvan aan de instelling bekend was of kon zijn;
 
-- b. indien de NL-conformiteitsbeoordelingsinstantie niet voldoet aan het bepaalde bij of krachtens de [artikelen 26, eerste, tweede, derde, vierde en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037650&hoofdstuk=3&artikel=26&z=2016-04-20&g=2016-04-20), en [27](https://wetten.overheid.nl/jci1.3:c:BWBR0037650&hoofdstuk=3&artikel=27&z=2016-04-20&g=2016-04-20); of
+- b. indien de NL-conformiteitsbeoordelingsinstantie niet voldoet aan het bepaalde bij of krachtens de [artikelen 26, eerste, tweede, derde, vierde en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037650&hoofdstuk=3&artikel=26&z=2016-06-23&g=2016-06-23), en [27](https://wetten.overheid.nl/jci1.3:c:BWBR0037650&hoofdstuk=3&artikel=27&z=2016-06-23&g=2016-06-23); of
 
 - c. indien de NL-conformiteitsbeoordelingsinstantie haar wettelijke verplichtingen niet naar behoren nakomt of de taken waarvoor zij is aangewezen, niet naar behoren uitvoert.
 
@@ -458,11 +458,11 @@ Degene die een lift bedient, bestuurt of belaadt, zorg ervoor dat:
 
 1. Tijdens de looptijd van de aanwijzing stelt Onze Minister periodiek vast of de instelling:
 
-- a. nog voldoet aan het bepaalde bij of krachtens [artikelen 26, eerste, tweede, derde, vierde en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037650&hoofdstuk=3&artikel=26&z=2016-04-20&g=2016-04-20), en [27](https://wetten.overheid.nl/jci1.3:c:BWBR0037650&hoofdstuk=3&artikel=27&z=2016-04-20&g=2016-04-20); en
+- a. nog voldoet aan het bepaalde bij of krachtens [artikelen 26, eerste, tweede, derde, vierde en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037650&hoofdstuk=3&artikel=26&z=2016-06-23&g=2016-06-23), en [27](https://wetten.overheid.nl/jci1.3:c:BWBR0037650&hoofdstuk=3&artikel=27&z=2016-06-23&g=2016-06-23); en
 
 - b. haar wettelijke verplichtingen naar behoren nakomt en de taken waarvoor zij is aangewezen, naar behoren uitvoert.
 
-2. Bij ministeriële regeling worden nadere regels gesteld betreffende het kosteloos gegevens en inlichtingen verstrekken door de NL-conformiteitsbeoordelingsinstantie aan Onze Minister of de nationale accreditatie-instantie dan wel door Onze Minister of de nationale accreditatie-instantie aan de NL-conformiteitsbeoordelingsinstantie, die zijn verkregen door de uitvoering of het toezicht op de naleving van het bepaalde bij of krachtens de [wet](https://wetten.overheid.nl/jci1.3:c:BWBR0001969&wetgeving), welke noodzakelijk zijn voor de uitvoering van hun wettelijke taken.
+2. Bij ministeriële regeling worden nadere regels gesteld betreffende het kosteloos gegevens en inlichtingen verstrekken door de NL-conformiteitsbeoordelingsinstantie aan Onze Minister of de nationale accreditatie-instantie dan wel door Onze Minister of de nationale accreditatie-instantie aan de NL-conformiteitsbeoordelingsinstantie, die zijn verkregen door de uitvoering of het toezicht op de naleving van het bepaalde bij of krachtens de [wet](https://wetten.overheid.nl/jci1.3:c:BWBR0001969), welke noodzakelijk zijn voor de uitvoering van hun wettelijke taken.
 
 3. Een NL-conformiteitsbeoordelingsinstantie die haar taken waarvoor zij is aangewezen, beëindigt, of waarvan de aanwijzing door Onze Minister wordt ingetrokken, is verplicht tijdig voorafgaand aan de beëindiging van de werkzaamheden respectievelijk de datum, waarop de aanwijzing eindigt, haar dossiers over te dragen aan een andere NL-conformiteitsbeoordelingsinstantie waarmee de marktdeelnemer een overeenkomst is aangegaan. Indien er geen andere NL-conformiteitsbeoordelingsinstantie is, draagt de NL-conformiteitsbeoordelingsinstantie de dossiers over aan Onze Minister.
 
@@ -474,11 +474,11 @@ Degene die een lift bedient, bestuurt of belaadt, zorg ervoor dat:
 
 1. Liften en veiligheidscomponenten die voldoen aan het [Warenwetbesluit liften](https://wetten.overheid.nl/jci1.3:c:BWBR0008212), zoals dat onmiddellijk vóór 20 april 2016 luidde, en vóór dat tijdstip in de handel zijn gebracht, mogen ook na dat tijdstip op de markt worden aangeboden of in bedrijf worden gesteld.
 
-2. Een certificaat van goedkeuring afgegeven op grond van de [wet](https://wetten.overheid.nl/jci1.3:c:BWBR0001969&wetgeving), en geldend op dag, voorafgaand aan de datum van inwerkingtreding, genoemd in [artikel 42, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037650&hoofdstuk=5&artikel=42&z=2016-04-20&g=2016-04-20), van dit besluit, wordt geacht te zijn afgegeven met inachtneming van de bij of krachtens dit besluit gestelde bepalingen, onverminderd het bepaalde bij of krachtens de [artikelen 1](https://wetten.overheid.nl/jci1.3:c:BWBR0037650&hoofdstuk=1&artikel=1&z=2016-04-20&g=2016-04-20), [11](https://wetten.overheid.nl/jci1.3:c:BWBR0037650&hoofdstuk=2&artikel=11&z=2016-04-20&g=2016-04-20), [18](https://wetten.overheid.nl/jci1.3:c:BWBR0037650&hoofdstuk=3&artikel=18&z=2016-04-20&g=2016-04-20) en [20](https://wetten.overheid.nl/jci1.3:c:BWBR0037650&hoofdstuk=3&artikel=20&z=2016-04-20&g=2016-04-20).
+2. Een certificaat van goedkeuring afgegeven op grond van de [wet](https://wetten.overheid.nl/jci1.3:c:BWBR0001969), en geldend op dag, voorafgaand aan de datum van inwerkingtreding, genoemd in [artikel 42, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037650&hoofdstuk=5&artikel=42&z=2016-06-23&g=2016-06-23), van dit besluit, wordt geacht te zijn afgegeven met inachtneming van de bij of krachtens dit besluit gestelde bepalingen, onverminderd het bepaalde bij of krachtens de [artikelen 1](https://wetten.overheid.nl/jci1.3:c:BWBR0037650&hoofdstuk=1&artikel=1&z=2016-06-23&g=2016-06-23), [11](https://wetten.overheid.nl/jci1.3:c:BWBR0037650&hoofdstuk=2&artikel=11&z=2016-06-23&g=2016-06-23), [18](https://wetten.overheid.nl/jci1.3:c:BWBR0037650&hoofdstuk=3&artikel=18&z=2016-06-23&g=2016-06-23) en [20](https://wetten.overheid.nl/jci1.3:c:BWBR0037650&hoofdstuk=3&artikel=20&z=2016-06-23&g=2016-06-23).
 
 ##### Artikel 35. Overgangsbepaling liften die vóór 16 augustus 1991 in bedrijf zijn gesteld
 
-1. De eisen, bedoeld in artikel 3 van de richtlijn, en de [artikelen 9](https://wetten.overheid.nl/jci1.3:c:BWBR0037650&hoofdstuk=2&artikel=9&z=2016-04-20&g=2016-04-20) en [10](https://wetten.overheid.nl/jci1.3:c:BWBR0037650&hoofdstuk=2&artikel=10&z=2016-04-20&g=2016-04-20) zijn niet van toepassing ten aanzien van liften die vóór 16 augustus 1991 in bedrijf zijn gesteld en die:
+1. De eisen, bedoeld in artikel 3 van de richtlijn, en de [artikelen 9](https://wetten.overheid.nl/jci1.3:c:BWBR0037650&hoofdstuk=2&artikel=9&z=2016-06-23&g=2016-06-23) en [10](https://wetten.overheid.nl/jci1.3:c:BWBR0037650&hoofdstuk=2&artikel=10&z=2016-06-23&g=2016-06-23) zijn niet van toepassing ten aanzien van liften die vóór 16 augustus 1991 in bedrijf zijn gesteld en die:
 
 - a. geheel voldoen aan de hoofdstukken II tot en met X en XII van N 1081, uitgegeven in december 1950;
 
@@ -492,19 +492,19 @@ Degene die een lift bedient, bestuurt of belaadt, zorg ervoor dat:
 
 ##### Artikel 36. Overgangsbepaling liften tussen 16 augustus 1991 en 1 juli 1997 in bedrijf gesteld
 
-De eisen, bedoeld in artikel 3 van de richtlijn, en de [artikelen 9](https://wetten.overheid.nl/jci1.3:c:BWBR0037650&hoofdstuk=2&artikel=9&z=2016-04-20&g=2016-04-20) en [10](https://wetten.overheid.nl/jci1.3:c:BWBR0037650&hoofdstuk=2&artikel=10&z=2016-04-20&g=2016-04-20) zijn niet van toepassing op liften die tussen 16 augustus 1991 en 1 juli 1997 in bedrijf zijn gesteld, indien voor de levering daarvan opdracht is gegeven vóór 16 augustus 1991, mits zij voldoen aan [artikel 35, eerste lid, onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0037650&hoofdstuk=5&artikel=35&z=2016-04-20&g=2016-04-20), en tevens aan het tweede lid van dat artikel, dan wel in het geval van een lift met elektrische aandrijving aan artikel 35, eerste lid, onder d.
+De eisen, bedoeld in artikel 3 van de richtlijn, en de [artikelen 9](https://wetten.overheid.nl/jci1.3:c:BWBR0037650&hoofdstuk=2&artikel=9&z=2016-06-23&g=2016-06-23) en [10](https://wetten.overheid.nl/jci1.3:c:BWBR0037650&hoofdstuk=2&artikel=10&z=2016-06-23&g=2016-06-23) zijn niet van toepassing op liften die tussen 16 augustus 1991 en 1 juli 1997 in bedrijf zijn gesteld, indien voor de levering daarvan opdracht is gegeven vóór 16 augustus 1991, mits zij voldoen aan [artikel 35, eerste lid, onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0037650&hoofdstuk=5&artikel=35&z=2016-06-23&g=2016-06-23), en tevens aan het tweede lid van dat artikel, dan wel in het geval van een lift met elektrische aandrijving aan artikel 35, eerste lid, onder d.
 
 ##### Artikel 37. Overgangsbepaling liften tussen 16 augustus 1991 en 1 juli 1999 in bedrijf gesteld
 
-De eisen, bedoeld in artikel 3 van de richtlijn, en de [artikelen 9](https://wetten.overheid.nl/jci1.3:c:BWBR0037650&hoofdstuk=2&artikel=9&z=2016-04-20&g=2016-04-20) en [10](https://wetten.overheid.nl/jci1.3:c:BWBR0037650&hoofdstuk=2&artikel=10&z=2016-04-20&g=2016-04-20) zijn niet van toepassing op liften die tussen 16 augustus 1991 en 1 juli 1999 in bedrijf zijn gesteld en die geheel voldoen aan hetgeen ten aanzien van de vervaardiging is bepaald in de hoofdstukken 0 tot en met 16 en bijlage Z van NEN-EN 81-1, tweede druk, uitgegeven in september 1986, zoals gewijzigd in december 1989, in onderscheidenlijk NEN-EN 81-2, eerste druk, uitgegeven in mei 1989, met dien verstande dat in plaats van punt 13.1.1.4 van die normen het volgende geldt:
+De eisen, bedoeld in artikel 3 van de richtlijn, en de [artikelen 9](https://wetten.overheid.nl/jci1.3:c:BWBR0037650&hoofdstuk=2&artikel=9&z=2016-06-23&g=2016-06-23) en [10](https://wetten.overheid.nl/jci1.3:c:BWBR0037650&hoofdstuk=2&artikel=10&z=2016-06-23&g=2016-06-23) zijn niet van toepassing op liften die tussen 16 augustus 1991 en 1 juli 1999 in bedrijf zijn gesteld en die geheel voldoen aan hetgeen ten aanzien van de vervaardiging is bepaald in de hoofdstukken 0 tot en met 16 en bijlage Z van NEN-EN 81-1, tweede druk, uitgegeven in september 1986, zoals gewijzigd in december 1989, in onderscheidenlijk NEN-EN 81-2, eerste druk, uitgegeven in mei 1989, met dien verstande dat in plaats van punt 13.1.1.4 van die normen het volgende geldt:
 
 «De elektrische installatie van liften dient te voldoen aan de eisen vermeld in de geharmoniseerde documenten van het Europees Comité voor elektrotechnische normalisatie (CENELEC) welke zijn goedgekeurd door de nationale comités voor de elektrotechniek van de landen van de Europese Economische Gemeenschap».
 
 ##### Artikel 38. Overgangsbepaling liften voor 1 juli 1999 in de handel gebracht en in bedrijf gesteld
 
-1. De eisen, bedoeld in artikel 3 van de richtlijn, en de [artikelen 9](https://wetten.overheid.nl/jci1.3:c:BWBR0037650&hoofdstuk=2&artikel=9&z=2016-04-20&g=2016-04-20) en [10](https://wetten.overheid.nl/jci1.3:c:BWBR0037650&hoofdstuk=2&artikel=10&z=2016-04-20&g=2016-04-20) van dit besluit zijn niet van toepassing op liften die zijn vervaardigd in overeenstemming met de vervaardigingsvoorschriften, bedoeld in [artikel 37](https://wetten.overheid.nl/jci1.3:c:BWBR0037650&hoofdstuk=5&artikel=37&z=2016-04-20&g=2016-04-20), en die voor 1 juli 1999 in de handel zijn gebracht en in bedrijf zijn gesteld, voor zover zij niet alsnog in overeenstemming zijn gebracht met de eisen, bedoeld in artikel 3 van de richtlijn.
+1. De eisen, bedoeld in artikel 3 van de richtlijn, en de [artikelen 9](https://wetten.overheid.nl/jci1.3:c:BWBR0037650&hoofdstuk=2&artikel=9&z=2016-06-23&g=2016-06-23) en [10](https://wetten.overheid.nl/jci1.3:c:BWBR0037650&hoofdstuk=2&artikel=10&z=2016-06-23&g=2016-06-23) van dit besluit zijn niet van toepassing op liften die zijn vervaardigd in overeenstemming met de vervaardigingsvoorschriften, bedoeld in [artikel 37](https://wetten.overheid.nl/jci1.3:c:BWBR0037650&hoofdstuk=5&artikel=37&z=2016-06-23&g=2016-06-23), en die voor 1 juli 1999 in de handel zijn gebracht en in bedrijf zijn gesteld, voor zover zij niet alsnog in overeenstemming zijn gebracht met de eisen, bedoeld in artikel 3 van de richtlijn.
 
-2. Met betrekking tot de liften, bedoeld in het eerste lid, waarop de eisen, bedoeld in artikel 3 van de richtlijn, en de [artikelen 9](https://wetten.overheid.nl/jci1.3:c:BWBR0037650&hoofdstuk=2&artikel=9&z=2016-04-20&g=2016-04-20) en [10](https://wetten.overheid.nl/jci1.3:c:BWBR0037650&hoofdstuk=2&artikel=10&z=2016-04-20&g=2016-04-20) niet worden toegepast en waarop krachtens een of meer andere wettelijke regelingen de CE-markering wordt aangebracht, worden op de bij die liften gevoegde documenten, handleidingen of gebruiksaanwijzingen de in het Publicatieblad van de Europese Gemeenschappen bekendgemaakte referenties van de aan die wettelijke regelingen ten grondslag liggende richtlijnen vermeld.
+2. Met betrekking tot de liften, bedoeld in het eerste lid, waarop de eisen, bedoeld in artikel 3 van de richtlijn, en de [artikelen 9](https://wetten.overheid.nl/jci1.3:c:BWBR0037650&hoofdstuk=2&artikel=9&z=2016-06-23&g=2016-06-23) en [10](https://wetten.overheid.nl/jci1.3:c:BWBR0037650&hoofdstuk=2&artikel=10&z=2016-06-23&g=2016-06-23) niet worden toegepast en waarop krachtens een of meer andere wettelijke regelingen de CE-markering wordt aangebracht, worden op de bij die liften gevoegde documenten, handleidingen of gebruiksaanwijzingen de in het Publicatieblad van de Europese Gemeenschappen bekendgemaakte referenties van de aan die wettelijke regelingen ten grondslag liggende richtlijnen vermeld.
 
 ##### Artikel 39. Overgangsbepaling veiligheidscomponenten voor 1 juli 1999 in de handel gebracht en in bedrijf gesteld
 
@@ -514,7 +514,7 @@ De eisen, bedoeld in artikel 3 van de richtlijn, en de [artikelen 9](https://wet
 
 ##### Artikel 40. Overgangsbepaling aangewezen instellingen
 
-De aanwijzing als aangewezen instelling op verzoek als bedoeld in [artikel 23 van het Warenwetbesluit liften](https://wetten.overheid.nl/jci1.3:c:BWBR0008212&artikel=23), afgegeven op grond van de [wet](https://wetten.overheid.nl/jci1.3:c:BWBR0001969&wetgeving) en geldend op de dag voorafgaand aan de datum van inwerkingtreding, genoemd in [artikel 42, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037650&hoofdstuk=5&artikel=42&z=2016-04-20&g=2016-04-20), van dit besluit, wordt geacht te zijn afgegeven met inachtneming van de bij of krachtens dit besluit gestelde bepalingen, onverminderd het bepaalde bij of krachtens de [artikelen 28](https://wetten.overheid.nl/jci1.3:c:BWBR0037650&hoofdstuk=3&artikel=28&z=2016-04-20&g=2016-04-20), [29](https://wetten.overheid.nl/jci1.3:c:BWBR0037650&hoofdstuk=3&artikel=29&z=2016-04-20&g=2016-04-20) en [30](https://wetten.overheid.nl/jci1.3:c:BWBR0037650&hoofdstuk=3&artikel=30&z=2016-04-20&g=2016-04-20).
+De aanwijzing als aangewezen instelling op verzoek als bedoeld in [artikel 23 van het Warenwetbesluit liften](https://wetten.overheid.nl/jci1.3:c:BWBR0008212&artikel=23), afgegeven op grond van de [wet](https://wetten.overheid.nl/jci1.3:c:BWBR0001969) en geldend op de dag voorafgaand aan de datum van inwerkingtreding, genoemd in [artikel 42, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037650&hoofdstuk=5&artikel=42&z=2016-06-23&g=2016-06-23), van dit besluit, wordt geacht te zijn afgegeven met inachtneming van de bij of krachtens dit besluit gestelde bepalingen, onverminderd het bepaalde bij of krachtens de [artikelen 28](https://wetten.overheid.nl/jci1.3:c:BWBR0037650&hoofdstuk=3&artikel=28&z=2016-06-23&g=2016-06-23), [29](https://wetten.overheid.nl/jci1.3:c:BWBR0037650&hoofdstuk=3&artikel=29&z=2016-06-23&g=2016-06-23) en [30](https://wetten.overheid.nl/jci1.3:c:BWBR0037650&hoofdstuk=3&artikel=30&z=2016-06-23&g=2016-06-23).
 
 ##### Artikel 41. Intrekking [Warenwetbesluit liften](https://wetten.overheid.nl/jci1.3:c:BWBR0008212)
 
@@ -522,9 +522,9 @@ Het [Warenwetbesluit liften](https://wetten.overheid.nl/jci1.3:c:BWBR0008212) wo
 
 ##### Artikel 42. Inwerkingtreding
 
-1. De [artikelen 1](https://wetten.overheid.nl/jci1.3:c:BWBR0037650&hoofdstuk=1&artikel=1&z=2016-04-20&g=2016-04-20), [12](https://wetten.overheid.nl/jci1.3:c:BWBR0037650&hoofdstuk=2&artikel=12&z=2016-04-20&g=2016-04-20), [13](https://wetten.overheid.nl/jci1.3:c:BWBR0037650&hoofdstuk=2&artikel=13&z=2016-04-20&g=2016-04-20), [14](https://wetten.overheid.nl/jci1.3:c:BWBR0037650&hoofdstuk=2&artikel=14&z=2016-04-20&g=2016-04-20), [15](https://wetten.overheid.nl/jci1.3:c:BWBR0037650&hoofdstuk=2&artikel=15&z=2016-04-20&g=2016-04-20), [26](https://wetten.overheid.nl/jci1.3:c:BWBR0037650&hoofdstuk=3&artikel=26&z=2016-04-20&g=2016-04-20), [27](https://wetten.overheid.nl/jci1.3:c:BWBR0037650&hoofdstuk=3&artikel=27&z=2016-04-20&g=2016-04-20), [28](https://wetten.overheid.nl/jci1.3:c:BWBR0037650&hoofdstuk=3&artikel=28&z=2016-04-20&g=2016-04-20), [29](https://wetten.overheid.nl/jci1.3:c:BWBR0037650&hoofdstuk=3&artikel=29&z=2016-04-20&g=2016-04-20), [30](https://wetten.overheid.nl/jci1.3:c:BWBR0037650&hoofdstuk=3&artikel=30&z=2016-04-20&g=2016-04-20) en [40](https://wetten.overheid.nl/jci1.3:c:BWBR0037650&hoofdstuk=5&artikel=40&z=2016-04-20&g=2016-04-20) van dit besluit treden in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin het wordt geplaatst.
+1. De [artikelen 1](https://wetten.overheid.nl/jci1.3:c:BWBR0037650&hoofdstuk=1&artikel=1&z=2016-06-23&g=2016-06-23), [12](https://wetten.overheid.nl/jci1.3:c:BWBR0037650&hoofdstuk=2&artikel=12&z=2016-06-23&g=2016-06-23), [13](https://wetten.overheid.nl/jci1.3:c:BWBR0037650&hoofdstuk=2&artikel=13&z=2016-06-23&g=2016-06-23), [14](https://wetten.overheid.nl/jci1.3:c:BWBR0037650&hoofdstuk=2&artikel=14&z=2016-06-23&g=2016-06-23), [15](https://wetten.overheid.nl/jci1.3:c:BWBR0037650&hoofdstuk=2&artikel=15&z=2016-06-23&g=2016-06-23), [26](https://wetten.overheid.nl/jci1.3:c:BWBR0037650&hoofdstuk=3&artikel=26&z=2016-06-23&g=2016-06-23), [27](https://wetten.overheid.nl/jci1.3:c:BWBR0037650&hoofdstuk=3&artikel=27&z=2016-06-23&g=2016-06-23), [28](https://wetten.overheid.nl/jci1.3:c:BWBR0037650&hoofdstuk=3&artikel=28&z=2016-06-23&g=2016-06-23), [29](https://wetten.overheid.nl/jci1.3:c:BWBR0037650&hoofdstuk=3&artikel=29&z=2016-06-23&g=2016-06-23), [30](https://wetten.overheid.nl/jci1.3:c:BWBR0037650&hoofdstuk=3&artikel=30&z=2016-06-23&g=2016-06-23) en [40](https://wetten.overheid.nl/jci1.3:c:BWBR0037650&hoofdstuk=5&artikel=40&z=2016-06-23&g=2016-06-23) van dit besluit treden in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin het wordt geplaatst.
 
-2. De [artikelen 2 tot en met 11](https://wetten.overheid.nl/jci1.3:c:BWBR0037650&hoofdstuk=1&artikel=2&z=2016-04-20&g=2016-04-20), [16 tot en met 25](https://wetten.overheid.nl/jci1.3:c:BWBR0037650&hoofdstuk=2&artikel=16&z=2016-04-20&g=2016-04-20), [31 tot en met 39](https://wetten.overheid.nl/jci1.3:c:BWBR0037650&hoofdstuk=4&artikel=31&z=2016-04-20&g=2016-04-20) en [41](https://wetten.overheid.nl/jci1.3:c:BWBR0037650&hoofdstuk=5&artikel=41&z=2016-04-20&g=2016-04-20) van dit besluit treden in werking met ingang van 20 april 2016.
+2. De [artikelen 2 tot en met 11](https://wetten.overheid.nl/jci1.3:c:BWBR0037650&hoofdstuk=1&artikel=2&z=2016-06-23&g=2016-06-23), [16 tot en met 25](https://wetten.overheid.nl/jci1.3:c:BWBR0037650&hoofdstuk=2&artikel=16&z=2016-06-23&g=2016-06-23), [31 tot en met 39](https://wetten.overheid.nl/jci1.3:c:BWBR0037650&hoofdstuk=4&artikel=31&z=2016-06-23&g=2016-06-23) en [41](https://wetten.overheid.nl/jci1.3:c:BWBR0037650&hoofdstuk=5&artikel=41&z=2016-06-23&g=2016-06-23) van dit besluit treden in werking met ingang van 20 april 2016.
 
 ##### Artikel 43. Citeertitel
 
