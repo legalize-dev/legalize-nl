@@ -4,7 +4,7 @@ identifier: "BWBR0012538"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-01-01"
-last_updated: "2015-11-07"
+last_updated: "2016-06-23"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0012538"
 soort: "ministeriele-regeling"
@@ -220,7 +220,7 @@ Vervallen
 
 ##### Artikel 14
 
-Handelen in strijd met de [artikelen 8 tot en met 10](https://wetten.overheid.nl/jci1.3:c:BWBR0012538&artikel=8&z=2015-11-07&g=2015-11-07) van deze regeling is een strafbaar feit.
+Handelen in strijd met de [artikelen 8 tot en met 10](https://wetten.overheid.nl/jci1.3:c:BWBR0012538&artikel=8&z=2016-06-23&g=2016-06-23) van deze regeling is een strafbaar feit.
 
 #### Strafbepaling
 
@@ -309,7 +309,7 @@ Deze regeling berust op de [artikelen 6](https://wetten.overheid.nl/jci1.3:c:BWB
 
 ##### Artikel 13b
 
-Het KNMI stelt elk uur het overgangsniveau, bedoeld in [artikel 13a, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012538&artikel=13a&z=2015-11-07&g=2015-11-07), vast en meldt dit zo snel mogelijk aan de desbetreffende verlener van luchtverkeersdiensten.
+Het KNMI stelt elk uur het overgangsniveau, bedoeld in [artikel 13a, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012538&artikel=13a&z=2016-06-23&g=2016-06-23), vast en meldt dit zo snel mogelijk aan de desbetreffende verlener van luchtverkeersdiensten.
 
 ##### Artikel 13c
 
@@ -349,7 +349,11 @@ Tijdens een vlucht op een kruishoogte op of beneden de overgangshoogte wordt ten
 
 1. Tijdens de daalvlucht wordt bij het passeren van het overgangsniveau ten minste één drukhoogtemeter ingesteld op de QNH van de luchthaven.
 
-2. De in het eerste lid bedoelde instelling op de QNH kan reeds vóór het passeren van het overgangsniveau plaatsvinden, indien de betrokken luchtverkeersleidingsdienst – na het verstrekken van de naderingsklaring – toestaat om de vlieghoogte uit te drukken in hoogte boven gemiddeld zeeniveau, nadat de einddaling is ingezet en wordt voorzien dat boven de overgangshoogte geen horizontale vlucht meer zal plaatsvinden.
+2. De in het eerste lid bedoelde instelling op QNH kan reeds vóór het passeren van het overgangsniveau plaatsvinden, indien de betrokken luchtverkeersleidingsdienst, na het verstrekken van de naderingsklaring, toestaat om de vlieghoogte uit te drukken in hoogte boven gemiddeld zeeniveau nadat de einddaling is ingezet, indien:
+
+- a. wordt voorzien dat boven de overgangshoogte geen horizontale vlucht meer zal plaatsvinden, of
+
+- b. de vlucht wordt uitgevoerd volgens de door de Minister vastgestelde en in de luchtvaartgids gepubliceerde naderingsprocedure waarbij de hoogte waarop de eindnadering wordt aangevangen is gelegen op of beneden het overgangsniveau.
 
 ##### Artikel 13g
 
@@ -361,7 +365,7 @@ Tijdens een vlucht op een kruishoogte op of beneden de overgangshoogte wordt ten
 
 ##### Artikel 13h
 
-1. In afwijking van [artikel 13g](https://wetten.overheid.nl/jci1.3:c:BWBR0012538&artikel=13g&z=2015-11-07&g=2015-11-07) gelden binnen het vluchtinformatiegebied Amsterdam en de daarbuiten gelegen luchtruimte boven het Nederlandse deel van het continentaal plat de door de minister vastgestelde en in hoofdstuk ENR 3 van de luchtvaartgids gepubliceerde kruishoogtes.
+1. In afwijking van [artikel 13g](https://wetten.overheid.nl/jci1.3:c:BWBR0012538&artikel=13g&z=2016-06-23&g=2016-06-23) gelden binnen het vluchtinformatiegebied Amsterdam en de daarbuiten gelegen luchtruimte boven het Nederlandse deel van het continentaal plat de door de minister vastgestelde en in hoofdstuk ENR 3 van de luchtvaartgids gepubliceerde kruishoogtes.
 
 2. Voor de toepassing van de in het eerste lid genoemde kruishoogtes is voor IFR-vluchten op of beneden 915 m (3000 ft) de grondkoers van het belangrijkste deel van de vlucht van toepassing.
 
