@@ -4,7 +4,7 @@ identifier: "BWBR0037927"
 country: "nl"
 rank: "zbo"
 publication_date: "2023-12-13"
-last_updated: "2016-05-12"
+last_updated: "2016-06-23"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0037927"
 soort: "zbo"
@@ -72,7 +72,7 @@ Het landelijk gastransportnet wordt beheerd door: Gasunie Transport Services B.V
 
 ##### 2.2.1
 
-Het gebied van de in [2.1.1](https://wetten.overheid.nl/jci1.3:c:BWBR0037927&hoofdstuk=2&paragraaf=2.1&artikel=2.1.1&z=2016-05-12&g=2016-05-12) genoemde netbeheerder omvat heel Nederland, doch uitsluitend voor aansluitpunten zoals bedoeld in [artikel 10, zesde lid, onderdeel b, van de Gaswet](https://wetten.overheid.nl/jci1.3:c:BWBR0011440&artikel=10).
+Het gebied van de in [2.1.1](https://wetten.overheid.nl/jci1.3:c:BWBR0037927&hoofdstuk=2&paragraaf=2.1&artikel=2.1.1&z=2016-06-23&g=2016-06-23) genoemde netbeheerder omvat heel Nederland, doch uitsluitend voor aansluitpunten zoals bedoeld in [artikel 10, zesde lid, onderdeel b, van de Gaswet](https://wetten.overheid.nl/jci1.3:c:BWBR0011440&artikel=10).
 
 ### 3. De regionale gastransportnetten
 
@@ -82,13 +82,13 @@ Het gebied van de in [2.1.1](https://wetten.overheid.nl/jci1.3:c:BWBR0037927&hoo
 
 De regionale gastransportnetten worden beheerd door de volgende netbeheerders:
 
-Cogas Infra en Beheer B.V. (Cogas), gevestigd te Almelo,
+Cogas Infra en Beheer B.V. (Cogas), gevestigd te Almelo
 
-DELTA Netwerkbedrijf B.V. (DNWB), gevestigd te Middelburg,
+Enduris B.V. (Enduris), gevestigd te Goes,
 
-Endinet B.V. (Endinet), gevestigd te Eindhoven,
+Endinet B.V., gevestigd te Eindhoven,
 
-Enexis B.V. (Enexis), gevestigd te Rosmalen,
+Enexis B.V. (Enexis), gevestigd te ’s-Hertogenbosch,
 
 Liander N.V. (Liander), gevestigd te Arnhem,
 
@@ -102,18 +102,18 @@ Westland Infra Netbeheer B.V. (Westland), gevestigd te Poeldijk.
 
 ##### 3.2.1
 
-De gebieden van de in [3.1.1](https://wetten.overheid.nl/jci1.3:c:BWBR0037927&hoofdstuk=3&paragraaf=3.1&artikel=3.1.1&z=2016-05-12&g=2016-05-12) genoemde netbeheerders kunnen worden aangeduid met in de onderstaande tabel genoemde grenzen:
+De gebieden van de in [3.1.1](https://wetten.overheid.nl/jci1.3:c:BWBR0037927&hoofdstuk=3&paragraaf=3.1&artikel=3.1.1&z=2016-06-23&g=2016-06-23) genoemde netbeheerders kunnen worden aangeduid met in de onderstaande tabel genoemde grenzen:
 
 | Netbeheerder | Gebiedsomschrijving |
 | --- | --- |
-| Cogas | In de provincie Overijssel, uitsluitend de gemeenten Almelo, Borne, Dinkelland, Hardenberg, Hengelo ten noorden van rijksweg A1, Hof van Twente, Oldenzaal, Tubbergen, Twenterand en Wierden. In de provincie Gelderland, uitsluitend de gemeente Lochem. |
-| DNWB | De provincie Zeeland |
-| Endinet | In de provincie Noord-Brabant, uitsluitend: de gemeenten Asten, Best, Bladel, Boekel, Boxmeer, Cranendonck, Cuijk, Deurne, Eersel, Eindhoven, Gemert-Bakel, Grave, Heeze-Leende, Helmond, Laarbeek, Landerd, Mill en Sint Hubert, Nuenen, Oirschot, Reusel-De Mierden, Schijndel, Sint-Anthonis, Sint-Oedenrode, Someren, Son en Breugel, Uden, Veghel, Veldhoven, Vught, Waalre, alsmede de van de gemeente Bergeijk deel uitmakende voormalige gemeenten Luijksgestel, Riethoven en Westerhoven; de van de gemeente Bernheze deel uitmakende voormalige gemeenten Heeswijk-Dinther, Nistelrode en Vorstenbosch; de van de gemeente Geldrop-Mierlo deel uitmakende voormalige gemeente Mierlo. |
-| Enexis | De provincies Groningen, Friesland, Drenthe, Overijssel met uitzondering van de gebieden genoemd bij Cogas, Liander, Rendo en Stedin. In de provincie Flevoland de Noordoostpolder. In de provincie Gelderland, de kern Rietmolen in de gemeente Berkelland, de kernen Oosterwolde (gedeeltelijk) en Noordeinde (gedeeltelijk) in de gemeente Oldebroek. De provincie Noord-Brabant met uitzondering van het gebied zoals genoemd bij Endinet. De provincie Limburg met uitzondering van de gemeente Weert maar met inbegrip van het gebied van de voormalige gemeente Stramproy. |
-| Liander | In de provincie Friesland, uitsluitend de gemeenten Heerenveen en Smallingerland. De provincie Flevoland met uitzondering van de Noordoostpolder. De provincie Gelderland, met uitzondering van de gebieden genoemd bij Cogas en Enexis. In de provincie Utrecht, uitsluitend in de gemeente Amersfoort de wijken Vinkenhoef en Palestina en in de gemeente Veenendaal de wijken Veenendaal-Oost en De Batterijen (in het verleden behorend tot de provincie Gelderland). De provincie Noord-Holland met uitzondering van het gebied zoals genoemd bij Stedin. In de provincie Zuid-Holland, uitsluitend de gemeenten Alphen a/d Rijn, Boskoop, Hillegom, Kaag en Braassem, Katwijk, Leiden, Leiderdorp, Lisse, Nieuwkoop, Noordwijk, Noordwijkerhout, Oegstgeest, Rijnwoude, Teijlingen, Voorschoten, Wassenaar, de voormalige gemeente Zevenhuizen-Moerkapelle en de gemeente Zoeterwoude. |
-| RENDO | In de provincie Drenthe, uitsluitend de gemeente Coevorden (m.u.v. de kernen Aalden, Meppen, Schoonoord, Sleen en Zweeloo), De Wolden, Hoogeveen (grotendeels), Meppel en Westerveld In de provincie Overijssel uitsluitend de gemeenten Hardenberg (voormalig gemeente Avereest, de kernen Balkbrug en Dedemsvaart en hun omgeving), Staphorst, Zwartewaterland (de kern Zwartsluis) en Steenwijkerland (m.u.v. de kernen Heetveld, St. Jansklooster en Vollenhove). |
-| Stedin | In de provincie Friesland, uitsluitend de gemeenten Achtkarspelen, Ameland, Dantumadeel, Dongeradeel, Ferwerderadiel, Kollumerland en Nieuwkruisland, Schiermonnikoog, Tietjerksteradeel. De provincie Utrecht, met uitzondering van de gebieden genoemd bij Liander. In de provincie Noord-Holland, uitsluitend de gemeenten Aalsmeer, Amstelveen, Beverwijk, Bloemendaal, Castricum, Haarlemmerliede en Spaarnwoude, Heemskerk, Heemstede, Ouder-Amstel, Uitgeest, Uithoorn, Zandvoort. De provincie Zuid-Holland, met uitzondering van de gebieden genoemd bij Liander en Westland. In de provincie Limburg, uitsluitend de gemeente Weert met uitzondering van het gebied van de voormalige gemeente Stramproy. |
-| Westland | In de provincie Zuid-Holland, uitsluitend de gemeenten Midden-Delfland en Westland en in de gemeente Rotterdam, uitsluitend Distripark Botlek Zuid. |
+| Cogas | In de provincie Overijssel, uitsluitend de gemeenten Almelo, Borne, Dinkelland, Hardenberg (met uitzondering van de voormalige gemeente Avereest), Hengelo ten noorden van rijksweg A1, Hof van Twente, Oldenzaal, Tubbergen, Twenterand en Wierden. In de provincie Gelderland, uitsluitend Larense broek in de gemeente Lochem. |
+| Enduris | De provincie Zeeland |
+| Endinet | In de provincie Noord-Brabant, uitsluitend de gemeenten Asten, Best, Bladel, Boekel, Boxmeer, Cranendonck, Cuijk, Deurne, Eersel, Eindhoven, Gemert-Bakel, Grave, Heeze-Leende, Helmond, Laarbeek, Landerd, Mill en Sint Hubert, Nuenen, Oirschot, Reusel-De Mierden, Schijndel, Sint-Anthonis, Sint-Oedenrode, Someren, Son en Breugel, Uden, Veghel, Veldhoven, Vught, Waalre, en de van de gemeente Bergeijk deel uitmakende voormalige gemeenten Luijksgestel, Riethoven en Westhoven, de van de gemeente Bernheze deel uitmakende voormalige gemeenten Heeswijk-Dinther, Nistelrode en Vorstenbosch, en de van de gemeente Geldrop-Mierlo deel uitmakende voormalige gemeente Mierlo. |
+| Enexis | De provincies Groningen, Drenthe, Overijssel met uitzondering van de gebieden genoemd bij Cogas, en RENDO. In de provincie Gelderland, de kern Rietmolen in de gemeente Berkelland, de kernen Oosterwolde (gedeeltelijk) en Noordeinde (gedeeltelijk in de gemeente Oldenbroek). De provincie Noord-Brabant met uitzondering van het gebied zoals genoemd bij Endinet. De provincie Limburg met uitzondering van de gemeente Weert maar met inbegrip van het gebied van de voormalige gemeente Stramproy. |
+| Liander | De provincie Fryslân, met uitzondering van het gebied genoemd bij Stedin. De provincie Flevoland. In de provincie Overijssel, uitsluitende inde gemeente Deventer het gebied ten zuiden van de snelweg A1 ten westen van de spoorlijn Deventer-Zutphen en ten noorden van de provinciegrens met Gelderland zoals die tot 21 december 1999 van toepassing was. De provincie Gelderland met uitzondering van de gebieden genoemd bij Cogas en Stedin. In de provincie Utrecht, uitsluitend in de gemeente Amersfoort de wijken Vinkenhoef en Palestina en in de gemeente Veenendaal de wijken Veenendaal-Oosten de Batterijen (in het verleden behorend tot de provincie Gelderland). De provincie Noord-Holland met uitzondering van het gebied genoemd bij Stedin. In de provincie Zuid-Holland, uitsluitend de gemeenten Alphen a/d Rijn, Hillegom, Kaag en Braassem, Katwijk, Leiden, Leiderdorp, Lisse, Nieuwkoop, Noordwijk, Noordwijkerhout, Oegstgeest, Teijlingen, Voorschoten, Wassenaar, de voormalige gemeente Zevenhuizen-Moerkapelle en de gemeente Zoeterwoude. |
+| RENDO | In de provincie Drenthe, uitsluitend de gemeenten Coevorden (m.u.v. de kernen Aalden, Meppen, Schoonoord, Sleen en Zweeloo), De Wolden, Hogenveen (grotendeels) Meppel en Westerveld. In de provincie Overijssel, uitsluitend de gemeenten Harderberg (voormalig gemeente Avereest, de kernen Balkbrug en Dedemsvaart en hun omgeving), Staphorst, Zwartewaterland (de kern Zwartsluis) en Steenwijkerland (m.u.v. de kernen Heetveld, St. Jansklooster en Vollenhove). |
+| Stedin | In de provincie Fryslân, uitsluitend de gemeenten Achtkaspelen, Ameland Dantumadeel, Dongeradeel. Ferwerderadiel, Kollumerland en Nieuwkruisland, Schiermonnikoog, Tietjerksteradeel. In de provincie Gelderland, in de gemeente Lingewaal de kernen Heukelum, Spijk en Asperen. De provincie Utrecht, met uitzondering van de gebieden genoemd bij Liander. In de provincie Noord-Holland, uitsluitend de gemeenten Aalsmeer, Amstelveen, Beverwijk, Bloemendaal, Castricum, Haarlemmerlied en Spaarnwoude, Heemskerk, Heemstede, Ouder-Amstel, Uitgeest, Uithoorn, Zandvoort. De provincie Zuid-Holland met uitzondering van de gebieden genoemd bij Liander en Westland. In de provincie Limburg, uitsluitend de gemeente Weert met uitzondering van het gebied van de voormalige gemeente Stramproy. |
+| Westland | In de provincie Zuid-Holland, uitsluitend de gemeenten Middel-Delfland en Westland en in de gemeente Rotterdam Distripark Botlek Zuid en in de gemeente Delft, uitsluitend de wijken Molenbuurt, Noord-Westelijke rand Voordijkshoorn en de straat Kerkpolderweg, in de gemeente Den Haag, uitsluitend de straten Beresteinlaan, Kwaklaan, Madepolderweg, Uilenlaan, in de gemeente Maassluis, uitsluitend de straten Maasdijk, Wevershof, Weverskade en in de gemeente Vlaardingen, uitsluitend de straat Trekkade. |
 
 ### 4. Het recht op aansluiting op een regionaal gastransportnet
 
@@ -131,21 +131,21 @@ In afwijking van 4.1 heeft een kleinverbruiker geen recht op een aansluiting ind
 
 - –. conform [artikel 9.2.10 van het Bouwbesluit 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0030461&artikel=9.2), of
 
-- –. conform de tabel in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0037927&bijlage=1&z=2016-05-12&g=2016-05-12) van deze code,
+- –. conform de tabel in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0037927&bijlage=1&z=2016-06-23&g=2016-06-23) van deze code,
 
 - b. buiten de bebouwde kom, indien de equivalente netlengte van het nieuw aan te leggen gastransportnet groter is dan de acceptabele netlengte daarvan, waarbij onder ‘bebouwde kom’ wordt verstaan de door de gemeenteraad vastgestelde bebouwde kom op basis van de [Wegenverkeerswet](https://wetten.overheid.nl/jci1.3:c:BWBR0006622).
 
 ##### 4.3
 
-De acceptabele netlengte van het nieuw aan te leggen net, zoals bedoeld in [4.2, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0037927&hoofdstuk=4&artikel=4.2&z=2016-05-12&g=2016-05-12), wordt bepaald door voor alle potentiële aansluitingen de rekencapaciteit zoals bedoeld in [2.3.6.1 van de Tarievencode gas](https://wetten.overheid.nl/jci1.3:c:BWBR0037948&artikel=2.3.6.1) op te tellen en te vermenigvuldigen met 15. Daarbij wordt het gebied ter bepaling van ‘alle potentiële aangeslotenen’ door de netbeheerder zo gekozen dat dit leidt tot de voor de aangeslotene meest gunstige uitkomst.
+De acceptabele netlengte van het nieuw aan te leggen net, zoals bedoeld in [4.2, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0037927&hoofdstuk=4&artikel=4.2&z=2016-06-23&g=2016-06-23), wordt bepaald door voor alle potentiële aansluitingen de rekencapaciteit zoals bedoeld in [2.3.6.1 van de Tarievencode gas](https://wetten.overheid.nl/jci1.3:c:BWBR0037948&artikel=2.3.6.1) op te tellen en te vermenigvuldigen met 15. Daarbij wordt het gebied ter bepaling van ‘alle potentiële aangeslotenen’ door de netbeheerder zo gekozen dat dit leidt tot de voor de aangeslotene meest gunstige uitkomst.
 
 ##### 4.4
 
-De equivalente netlengte, zoals bedoeld in [4.2, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0037927&hoofdstuk=4&artikel=4.2&z=2016-05-12&g=2016-05-12), wordt bepaald door de kortst mogelijke route van het bestaande net tot de nieuw te realiseren aansluitingen, gemeten langs bestaande of geplande wegen, exclusief de lengte van de aansluitleidingen, gecorrigeerd voor de aard van het te doorkruisen terrein en zo nodig voor (een) benodigd(e) reduceerstation(s).
+De equivalente netlengte, zoals bedoeld in [4.2, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0037927&hoofdstuk=4&artikel=4.2&z=2016-06-23&g=2016-06-23), wordt bepaald door de kortst mogelijke route van het bestaande net tot de nieuw te realiseren aansluitingen, gemeten langs bestaande of geplande wegen, exclusief de lengte van de aansluitleidingen, gecorrigeerd voor de aard van het te doorkruisen terrein en zo nodig voor (een) benodigd(e) reduceerstation(s).
 
 ##### 4.5
 
-De correctie voor de aard van het terrein, zoals bedoeld in [4.4](https://wetten.overheid.nl/jci1.3:c:BWBR0037927&hoofdstuk=4&artikel=4.4&z=2016-05-12&g=2016-05-12), vindt voor dat deel van de leidinglengte waarop het van toepassing is, plaats met behulp van onderstaande correctiefactoren:
+De correctie voor de aard van het terrein, zoals bedoeld in [4.4](https://wetten.overheid.nl/jci1.3:c:BWBR0037927&hoofdstuk=4&artikel=4.4&z=2016-06-23&g=2016-06-23), vindt voor dat deel van de leidinglengte waarop het van toepassing is, plaats met behulp van onderstaande correctiefactoren:
 
 - a. 1 maal het deel van de leidinglengte dat door open terrein gaat;
 
@@ -181,7 +181,7 @@ Dit besluit wordt aangehaald als: Gebiedsindelingscode gas.
 
 ## Bijlage 1
 
-**Amsterdam**
+**Amsterdam/Amstelveen**
 
 1011 LZ
 
@@ -249,6 +249,8 @@ Dit besluit wordt aangehaald als: Gebiedsindelingscode gas.
 
 1014 ZG
 
+1017 HL
+
 1019 AX
 
 1019 AZ
@@ -284,6 +286,8 @@ Dit besluit wordt aangehaald als: Gebiedsindelingscode gas.
 1019 EW
 
 1019 GD
+
+1019 GM
 
 1019 HW
 
@@ -1811,6 +1815,20 @@ Dit besluit wordt aangehaald als: Gebiedsindelingscode gas.
 
 1087 SL
 
+1091 GS
+
+1091 TJ
+
+1093 KP
+
+1093 KS
+
+1093 NB
+
+1093 NE
+
+1093 NG
+
 1095 MA
 
 1095 MD
@@ -2459,15 +2477,57 @@ Dit besluit wordt aangehaald als: Gebiedsindelingscode gas.
 
 1183 WX
 
+1186 AM
+
+1186 DT
+
 1186 RN
 
 1186 RS
 
 1186 RV
 
+1187 DA
+
+1187 DB
+
+1187 DC
+
+1187 DD
+
+1187 DE
+
+1187 DK
+
+1187 DL
+
+1187 DM
+
+1187 DN
+
+1187 DP
+
+1187 DR
+
+1187 DS
+
+1187 DT
+
+1187 DV
+
+1187 DW
+
+1187 DX
+
 **Hilversum**
 
+1211 MV
+
+1214 EH
+
 1217 GP
+
+1221 CN
 
 1223 BA
 
@@ -2506,6 +2566,34 @@ Dit besluit wordt aangehaald als: Gebiedsindelingscode gas.
 1223 DS
 
 1223 DT
+
+**Blaricum**
+
+1261 ZE
+
+1261 ZG
+
+1261 ZH
+
+1261 ZJ
+
+1261 ZK
+
+1261 ZL
+
+1261 ZP
+
+1261 ZS
+
+1261 ZT
+
+1261 ZV
+
+1261 ZW
+
+1261 ZX
+
+1261 ZZ
 
 **Almere**
 
@@ -8579,6 +8667,20 @@ Dit besluit wordt aangehaald als: Gebiedsindelingscode gas.
 
 1329 BP
 
+1334 DR
+
+1334 DS
+
+1334 DT
+
+1339 SJ
+
+1361 AE
+
+1361 AG
+
+1361 AH
+
 1361 BA
 
 1362 AA
@@ -11317,6 +11419,32 @@ Dit besluit wordt aangehaald als: Gebiedsindelingscode gas.
 
 1448 XZ
 
+**Westzaan**
+
+1551 NA
+
+1551 NC
+
+1551 ND
+
+1552 NA
+
+1553 NA
+
+1554 NA
+
+1555 NA
+
+1556 NA
+
+1557 NA
+
+1558 NA
+
+1559 NA
+
+1560 NA
+
 **Assendelft**
 
 1566 HR
@@ -11609,6 +11737,8 @@ Dit besluit wordt aangehaald als: Gebiedsindelingscode gas.
 
 1705 LX
 
+1705 SK
+
 **Broek op Langedijk**
 
 1721 HA
@@ -11864,6 +11994,10 @@ Dit besluit wordt aangehaald als: Gebiedsindelingscode gas.
 **Rijswijk**
 
 2288 GK
+
+**Wateringen**
+
+2292 JE
 
 **Leiden**
 
@@ -12811,9 +12945,33 @@ Dit besluit wordt aangehaald als: Gebiedsindelingscode gas.
 
 2352 VR
 
+**Alphen aan den Rijn**
+
+2404 HR
+
+2404 HS
+
+2404 HT
+
+2404 HV
+
+2404 HW
+
+2404 HX
+
+2404 HZ
+
 **Bodegraven**
 
 2411 XD
+
+**Nieuwveen**
+
+2441 HB
+
+2441 HC
+
+2441 HD
 
 **Den Haag**
 
@@ -13157,9 +13315,31 @@ Dit besluit wordt aangehaald als: Gebiedsindelingscode gas.
 
 2496 XD
 
+2496 XW
+
+2496 XX
+
+2496 XZ
+
 2496 ZA
 
+2496 ZC
+
+2496 ZD
+
+2496 ZH
+
+2496 ZJ
+
 2496 ZL
+
+2496 ZN
+
+2496 ZR
+
+2496 ZS
+
+2496 ZT
 
 2497 AA
 
@@ -13559,6 +13739,8 @@ Dit besluit wordt aangehaald als: Gebiedsindelingscode gas.
 
 2498 EX
 
+2502 EN
+
 2511 AA
 
 2511 AC
@@ -13742,6 +13924,8 @@ Dit besluit wordt aangehaald als: Gebiedsindelingscode gas.
 2512 HE
 
 2512 HH
+
+2512 JV
 
 2512 KE
 
@@ -14145,6 +14329,8 @@ Dit besluit wordt aangehaald als: Gebiedsindelingscode gas.
 
 2526 KH
 
+2531 GR
+
 2531 HL
 
 2531 HR
@@ -14152,6 +14338,18 @@ Dit besluit wordt aangehaald als: Gebiedsindelingscode gas.
 2531 JE
 
 2531 JK
+
+2531 PD
+
+2531 PE
+
+2531 PG
+
+2532 CS
+
+2532 CT
+
+2532 CV
 
 2533 EC
 
@@ -14451,11 +14649,23 @@ Dit besluit wordt aangehaald als: Gebiedsindelingscode gas.
 
 2548 NZ
 
+2551 JA
+
+2551 JD
+
+2551 JE
+
+2551 JG
+
 2552 ES
 
 2552 HK
 
 2552 HL
+
+2552 JB
+
+2552 JD
 
 2552 KS
 
@@ -14467,13 +14677,43 @@ Dit besluit wordt aangehaald als: Gebiedsindelingscode gas.
 
 2552 ZX
 
+2553 JB
+
+2553 JD
+
 2553 RJ
 
+2554 JB
+
+2554 JD
+
 2555 HA
+
+2555 JB
+
+2555 JD
 
 2555 XX
 
 2555 XZ
+
+2556 JB
+
+2556 JD
+
+2557 JB
+
+2557 JD
+
+2558 JB
+
+2558 JD
+
+2559 JD
+
+2560 JD
+
+2561 JD
 
 2564 BZ
 
@@ -14496,6 +14736,76 @@ Dit besluit wordt aangehaald als: Gebiedsindelingscode gas.
 2582 CH
 
 2583 AA
+
+2583 EV
+
+2583 EW
+
+2583 EX
+
+2583 EZ
+
+2583 EZ
+
+2583 GC
+
+2583 GG
+
+2583 HW
+
+2583 JB
+
+2583 JX
+
+2583 JX
+
+2583 NA
+
+2583 NE
+
+2583 NJ
+
+2583 NK
+
+2583 NL
+
+2583 NM
+
+2583 PG
+
+2583 PH
+
+2583 PJ
+
+2583 PK
+
+2583 PL
+
+2583 PV
+
+2583 PW
+
+2583 PX
+
+2583 RG
+
+2583 RH
+
+2583 RJ
+
+2583 SE
+
+2583 ST
+
+2583 VE
+
+2583 VG
+
+2583 VH
+
+2583 VK
+
+2583 VL
 
 2586 JR
 
@@ -14660,6 +14970,22 @@ Dit besluit wordt aangehaald als: Gebiedsindelingscode gas.
 2611 DJ
 
 2611 WG
+
+2612 PA
+
+2612 TX
+
+2612 VH
+
+2612 VJ
+
+2612 VM
+
+2612 VT
+
+2612 VW
+
+2612 VX
 
 2614 KH
 
@@ -15053,6 +15379,16 @@ Dit besluit wordt aangehaald als: Gebiedsindelingscode gas.
 
 2652 HA
 
+2652 JB
+
+2652 JC
+
+2652 JD
+
+2652 JE
+
+2652 JM
+
 **Bergschenhoek**
 
 2661 AC
@@ -15245,11 +15581,83 @@ Dit besluit wordt aangehaald als: Gebiedsindelingscode gas.
 
 2665 ND
 
+**Naaldwijk**
+
+2671 SH
+
+2672 HD
+
+2672 HE
+
+2672 HG
+
+2672 HJ
+
+2672 HK
+
+2672 HL
+
+2672 HN
+
+2672 HP
+
 **Zoetermeer**
+
+2712 CX
+
+2712 RP
+
+2712 RR
 
 2712 XZ
 
+2719 NH
+
+2721 AJ
+
+2721 AK
+
+2721 AL
+
+2721 AM
+
+2721 AN
+
+2721 AP
+
+2721 AR
+
 2721 DD
+
+2721 EN
+
+2721 EP
+
+2721 ER
+
+2721 ES
+
+2721 HG
+
+2721 HH
+
+2721 HJ
+
+2721 HK
+
+2721 KE
+
+2721 NB
+
+2721 NC
+
+2722 EJ
+
+2722 EK
+
+2722 EZ
+
+2723 PB
 
 2724 GE
 
@@ -15525,6 +15933,42 @@ Dit besluit wordt aangehaald als: Gebiedsindelingscode gas.
 
 2729 JE
 
+2729 KA
+
+2729 LK
+
+2729 LN
+
+2729 LP
+
+2729 LR
+
+2729 LS
+
+2729 LT
+
+2729 LV
+
+2729 LW
+
+2729 ND
+
+2729 NE
+
+2729 NH
+
+2729 NJ
+
+2729 NK
+
+2729 PD
+
+2729 PK
+
+2729 PM
+
+2729 PS
+
 2742 KN
 
 **Gouda**
@@ -15535,7 +15979,13 @@ Dit besluit wordt aangehaald als: Gebiedsindelingscode gas.
 
 2807 GV
 
+**Bergambacht**
+
+2861 DR
+
 **Capelle aan den IJssel**
+
+2900 AE
 
 2901 TB
 
@@ -16044,6 +16494,10 @@ Dit besluit wordt aangehaald als: Gebiedsindelingscode gas.
 2912 PB
 
 2913 LN
+
+**Krimpen aan den IJssel**
+
+2922 VG
 
 **Alblasserdam**
 
@@ -18997,6 +19451,8 @@ Dit besluit wordt aangehaald als: Gebiedsindelingscode gas.
 
 3086 WJ
 
+3089 JH
+
 3089 TE
 
 **Vlaardingen**
@@ -19183,7 +19639,13 @@ Dit besluit wordt aangehaald als: Gebiedsindelingscode gas.
 
 **Spijkenisse**
 
+3200 AA
+
 3201 AS
+
+3201 LW
+
+3201 WR
 
 3202 ST
 
@@ -21082,6 +21544,12 @@ Dit besluit wordt aangehaald als: Gebiedsindelingscode gas.
 3451 VA
 
 **De Meern**
+
+3453 NP
+
+3453 NV
+
+3453 NZ
 
 3453 PC
 
@@ -26003,7 +26471,7 @@ Dit besluit wordt aangehaald als: Gebiedsindelingscode gas.
 
 3584 ZZ
 
-**Maarsen**
+Maarsen
 
 3605 JJ
 
@@ -26015,7 +26483,7 @@ Dit besluit wordt aangehaald als: Gebiedsindelingscode gas.
 
 3608 TA
 
-**Westbroek**
+Westbroek
 
 3615 CE
 
@@ -26040,6 +26508,14 @@ Dit besluit wordt aangehaald als: Gebiedsindelingscode gas.
 **Amersfoort**
 
 3811 MV
+
+3812 EG
+
+3812 EH
+
+3812 GP
+
+3812 RS
 
 3812 XV
 
@@ -26123,7 +26599,35 @@ Dit besluit wordt aangehaald als: Gebiedsindelingscode gas.
 
 3824 LZ
 
+3825 BA
+
+3825 BB
+
+3825 BC
+
+3825 BD
+
+3825 BE
+
 3825 CP
+
+3825 DA
+
+3825 DB
+
+3825 DC
+
+3825 DD
+
+3825 DE
+
+3825 GA
+
+3825 GC
+
+3825 GD
+
+3825 GL
 
 3825 JA
 
@@ -26277,7 +26781,45 @@ Dit besluit wordt aangehaald als: Gebiedsindelingscode gas.
 
 3831 CV
 
+**Harderwijk**
+
+3845 CH
+
+3845 CT
+
+3845 DB
+
+3845 DC
+
+3845 DG
+
+3845 DH
+
+3845 GA
+
+3845 GB
+
+3845 GC
+
+3845 GD
+
+**Nijkerk**
+
+3861 GE
+
+3861 GJ
+
+**Putten**
+
+3882 AV
+
 **Zeewolde**
+
+3893 JH
+
+3893 JN
+
+3893 JP
 
 3894 AB
 
@@ -26409,7 +26951,7 @@ Dit besluit wordt aangehaald als: Gebiedsindelingscode gas.
 
 3925 BZ
 
-**Amerongen**
+Amerongen
 
 3958 HM
 
@@ -26971,6 +27513,16 @@ Dit besluit wordt aangehaald als: Gebiedsindelingscode gas.
 
 **Vlissingen**
 
+4381 ER
+
+4381 EV
+
+4381 GA
+
+4381 HR
+
+4381 HS
+
 4386 GA
 
 4386 GB
@@ -27030,6 +27582,42 @@ Dit besluit wordt aangehaald als: Gebiedsindelingscode gas.
 4386 HL
 
 4386 ND
+
+**Goes**
+
+4462 LB
+
+4462 LC
+
+4462 LD
+
+4462 LE
+
+4462 LG
+
+4462 LH
+
+4462 LJ
+
+4462 LK
+
+4462 LL
+
+4462 LM
+
+4462 LN
+
+4462 LP
+
+4462 LR
+
+4462 LS
+
+4462 LT
+
+4462 LV
+
+4462 LZ
 
 **Hulst**
 
@@ -27178,6 +27766,8 @@ Dit besluit wordt aangehaald als: Gebiedsindelingscode gas.
 4811 HL
 
 4811 HP
+
+4812 XT
 
 4815 HJ
 
@@ -28417,6 +29007,10 @@ Dit besluit wordt aangehaald als: Gebiedsindelingscode gas.
 
 4827 PA
 
+4834 CP
+
+4834 EA
+
 4834 GH
 
 4834 HE
@@ -28538,6 +29132,16 @@ Dit besluit wordt aangehaald als: Gebiedsindelingscode gas.
 4854 EV
 
 4854 EW
+
+**Etten-Leur**
+
+4874 MR
+
+4874 MS
+
+4874 MT
+
+4874 NV
 
 **Oosterhout**
 
@@ -29492,6 +30096,10 @@ Dit besluit wordt aangehaald als: Gebiedsindelingscode gas.
 5038 NE
 
 5038 NP
+
+5041 SH
+
+5041 SJ
 
 5042 AD
 
@@ -31081,7 +31689,17 @@ Dit besluit wordt aangehaald als: Gebiedsindelingscode gas.
 
 5106 RC
 
-**Sprang-Capelle**
+**Drunen**
+
+5152 HT
+
+5152 HV
+
+5152 HW
+
+**Sprang-**
+
+**Capelle**
 
 5161 ZA
 
@@ -31170,6 +31788,16 @@ Dit besluit wordt aangehaald als: Gebiedsindelingscode gas.
 5223 MX
 
 5223 MZ
+
+**Vught**
+
+5263 DK
+
+**Veghel**
+
+5464 PT
+
+5464 PW
 
 **Eindhoven**
 
@@ -32085,7 +32713,17 @@ Dit besluit wordt aangehaald als: Gebiedsindelingscode gas.
 
 **Venlo**
 
+5914 VK
+
 5923 AA
+
+**Reuver**
+
+5953 BW
+
+5953 DM
+
+5953 DN
 
 **Sevenum**
 
@@ -32475,6 +33113,14 @@ Dit besluit wordt aangehaald als: Gebiedsindelingscode gas.
 
 6419 XZ
 
+6422 PW 1)
+
+6422 RM 1)
+
+6422 PJ 1)
+
+) voor zover deel uit makend van industrieterrein Avantis
+
 **Nijmegen**
 
 6511 PS
@@ -32626,6 +33272,34 @@ Dit besluit wordt aangehaald als: Gebiedsindelingscode gas.
 6515 JN
 
 6515 JP
+
+6523 RJ
+
+6523 RK
+
+6523 RL
+
+6523 RM
+
+6523 RN
+
+6523 RP
+
+6523 RR
+
+6523 RS
+
+6523 RT
+
+6523 RV
+
+6523 RW
+
+**Groesbeek**
+
+6561 BZ
+
+6561 LA
 
 **Lent**
 
@@ -34463,6 +35137,66 @@ Dit besluit wordt aangehaald als: Gebiedsindelingscode gas.
 
 6932 PK
 
+**Doesburg**
+
+6981 BW
+
+6981 BX
+
+6981 LA
+
+6981 LB
+
+6981 LC
+
+6981 LD
+
+6981 LE
+
+6981 LG
+
+6981 LH
+
+**Doetinchem**
+
+7001 JE
+
+7007 LA
+
+7007 LB
+
+7007 LC
+
+7007 LD
+
+7007 LE
+
+7007 LG
+
+7007 LH
+
+**Zelhem**
+
+7021 BC
+
+7021 NT
+
+7021 NV
+
+7021 NX
+
+**Wehl**
+
+7031 LB
+
+**Ulft**
+
+7071 DX
+
+7071 DZ
+
+7071 NA
+
 **Winterswijk**
 
 7101 GX
@@ -34868,6 +35602,10 @@ Dit besluit wordt aangehaald als: Gebiedsindelingscode gas.
 **Colmschate**
 
 7429 AL
+
+**Lettele**
+
+7434 PL
 
 **Enschede**
 
@@ -35749,7 +36487,7 @@ Dit besluit wordt aangehaald als: Gebiedsindelingscode gas.
 
 7547 TN
 
-**Hengelo (OV)**
+**Hengelo** (OV)
 
 7551 KK
 
@@ -35759,7 +36497,113 @@ Dit besluit wordt aangehaald als: Gebiedsindelingscode gas.
 
 7553 PA
 
+7556 BP
+
 7559 NM
+
+**Almelo**
+
+7603 CH
+
+7603 XG
+
+7606 SB
+
+7609 BM
+
+7609 BN
+
+7609 BS
+
+7609 DA
+
+7609 DB
+
+7609 DE
+
+7609 DG
+
+7609 DH
+
+7609 DS
+
+7609 DX
+
+7609 EA
+
+7609 EB
+
+7609 EE
+
+7609 EG
+
+7609 EH
+
+7609 EN
+
+7609 EP
+
+7609 ER
+
+7609 ES
+
+7609 ET
+
+7609 EV
+
+7609 EW
+
+7609 GC
+
+7609 GD
+
+7609 GE
+
+7609 GG
+
+7609 GH
+
+7609 GJ
+
+7609 GK
+
+7609 GN
+
+7609 GP
+
+7609 GR
+
+7609 GR
+
+7609 GS
+
+7609 GT
+
+7609 GT
+
+7609 GV
+
+7609 GW
+
+7609 GX
+
+7609 GZ
+
+7609 KB
+
+7609 KC
+
+7609 KD
+
+7609 SE
+
+7609 SG
+
+7609 SJ
+
+**Borne**
+
+7623 AJ
 
 **Ommen**
 
@@ -35793,6 +36637,26 @@ Dit besluit wordt aangehaald als: Gebiedsindelingscode gas.
 
 **Zwolle**
 
+8014 VA
+
+8014 VB
+
+8014 VC
+
+8014 VS
+
+8014 VW
+
+8014 VX
+
+8014 VZ
+
+8014 VZ
+
+8014 XC
+
+8014 XP
+
 8017 JJ
 
 8017 JN
@@ -35802,6 +36666,28 @@ Dit besluit wordt aangehaald als: Gebiedsindelingscode gas.
 8017 JW
 
 8017 JZ
+
+8031 EP
+
+8031 GK
+
+8031 GM
+
+8031 PA
+
+8031 PB
+
+8031 PD
+
+8031 PJ
+
+8031 PK
+
+8031 PM
+
+8031 PN
+
+8031 PR
 
 8032 HS
 
@@ -35822,6 +36708,18 @@ Dit besluit wordt aangehaald als: Gebiedsindelingscode gas.
 8043 LW
 
 8043 LX
+
+**Raalte**
+
+8103 PH
+
+8103 RA
+
+8103 RB
+
+**Wijhe**
+
+8131 NA
 
 **Vaassen**
 
@@ -36311,6 +37209,38 @@ Dit besluit wordt aangehaald als: Gebiedsindelingscode gas.
 
 8245 LG
 
+**Kampen**
+
+8265 DC
+
+8265 DG
+
+8265 DN
+
+**Urk**
+
+8321 ED
+
+8321 EE
+
+8321 EG
+
+8321 MA
+
+8321 MB
+
+8321 MC
+
+8321 MD
+
+8321 ME
+
+8321 MH
+
+8321 WB
+
+8321 WC
+
 **Gorredijk**
 
 8401 DP
@@ -36477,6 +37407,18 @@ Dit besluit wordt aangehaald als: Gebiedsindelingscode gas.
 
 9123 JZ
 
+**Drachten**
+
+9203 CZ
+
+9203 DV
+
+9203 DW
+
+9203 EA
+
+9203 ED
+
 **Feanwalden**
 
 9269 VS
@@ -36488,6 +37430,14 @@ Dit besluit wordt aangehaald als: Gebiedsindelingscode gas.
 9401 TA
 
 9401 TB
+
+**Stadskanaal**
+
+9501 AP
+
+9501 EE
+
+9501 EH
 
 **Harkstede**
 
@@ -36542,6 +37492,16 @@ Dit besluit wordt aangehaald als: Gebiedsindelingscode gas.
 9727 GZ
 
 9728 EJ
+
+9731 NA
+
+9731 NB
+
+9731 NC
+
+9731 ND
+
+9731 NE
 
 9741 JB
 
