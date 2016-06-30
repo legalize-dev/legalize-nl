@@ -4,7 +4,7 @@ identifier: "BWBR0038125"
 country: "nl"
 rank: "beleidsregel"
 publication_date: "2016-06-30"
-last_updated: "2016-02-08"
+last_updated: "2016-06-30"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0038125"
 soort: "beleidsregel"
@@ -170,13 +170,13 @@ het archeologisch monument naar verwachting niet in aanmerking komt voor bescher
 
 ##### Artikel 13. Overgangsrecht
 
-1. De [Beleidsregel aanwijzing beschermde monumenten 2013](https://wetten.overheid.nl/jci1.3:c:BWBR0032937&wetgeving) is van toepassing op aanwijzingsprocedures die zijn gestart voor inwerkingtreding van deze beleidsregel.
+1. De [Beleidsregel aanwijzing beschermde monumenten 2013](https://wetten.overheid.nl/jci1.3:c:BWBR0032937) is van toepassing op aanwijzingsprocedures die zijn gestart voor inwerkingtreding van deze beleidsregel.
 
-2. Bij de procedure tot aanwijzing als rijksmonument van monumenten of archeologische monumenten die met toepassing van de [Beleidsregel aanwijzing beschermde monumenten 2013](https://wetten.overheid.nl/jci1.3:c:BWBR0032937&wetgeving) zijn opgenomen in een aanwijzingsprogramma en waarvan de aanwijzingsprocedure nog niet is gestart voor inwerkingtreding van deze beleidsregel, wordt die beleidsregel in acht genomen.
+2. Bij de procedure tot aanwijzing als rijksmonument van monumenten of archeologische monumenten die met toepassing van de [Beleidsregel aanwijzing beschermde monumenten 2013](https://wetten.overheid.nl/jci1.3:c:BWBR0032937) zijn opgenomen in een aanwijzingsprogramma en waarvan de aanwijzingsprocedure nog niet is gestart voor inwerkingtreding van deze beleidsregel, wordt die beleidsregel in acht genomen.
 
 ##### Artikel 14. Inwerkingtreding
 
-Deze beleidsregel treedt in werking op het moment dat de [Erfgoedwet](https://wetten.overheid.nl/jci1.3:c:BWBR0037521&wetgeving) in werking treedt. Indien deze beleidsregel is opgenomen in een Staatscourant waarvan de datum ligt na de datum van inwerkingtreding van de Erfgoedwet, werkt deze beleidsregel terug tot en met de datum van inwerkingtreding van de Erfgoedwet.
+Deze beleidsregel treedt in werking op het moment dat de [Erfgoedwet](https://wetten.overheid.nl/jci1.3:c:BWBR0037521) in werking treedt. Indien deze beleidsregel is opgenomen in een Staatscourant waarvan de datum ligt na de datum van inwerkingtreding van de Erfgoedwet, werkt deze beleidsregel terug tot en met de datum van inwerkingtreding van de Erfgoedwet.
 
 ##### Artikel 15. Citeertitel
 
