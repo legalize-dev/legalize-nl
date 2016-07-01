@@ -4,7 +4,7 @@ identifier: "BWBR0037319"
 country: "nl"
 rank: "wet"
 publication_date: "2016-07-01"
-last_updated: "2016-04-01"
+last_updated: "2016-07-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0037319"
 soort: "wet"
@@ -101,11 +101,11 @@ Wijzigt de Wet arbeid en zorg.
 
 Wijzigt de Wet arbeid vreemdelingen.
 
-##### Artikel XV. [Wet arbeidsongeschiktheidsverzekering zelfstandigen](https://wetten.overheid.nl/jci1.3:c:BWBR0008656&wetgeving)
+##### Artikel XV. [Wet arbeidsongeschiktheidsverzekering zelfstandigen](https://wetten.overheid.nl/jci1.3:c:BWBR0008656)
 
 Wijzigt de Wet arbeidsongeschiktheidsverzekering zelfstandigen.
 
-##### Artikel XVI. [Wet arbeidsongeschiktheidsvoorziening jonggehandicapten](https://wetten.overheid.nl/jci1.3:c:BWBR0008657&wetgeving)
+##### Artikel XVI. [Wet arbeidsongeschiktheidsvoorziening jonggehandicapten](https://wetten.overheid.nl/jci1.3:c:BWBR0008657)
 
 Wijzigt de Wet arbeidsongeschiktheidsvoorziening jonggehandicapten.
 
@@ -113,7 +113,7 @@ Wijzigt de Wet arbeidsongeschiktheidsvoorziening jonggehandicapten.
 
 Wijzigt de Wet financiering sociale verzekeringen.
 
-##### Artikel XVIII. [Wet flexibel werken](https://wetten.overheid.nl/jci1.3:c:BWBR0011173&wetgeving)
+##### Artikel XVIII. [Wet flexibel werken](https://wetten.overheid.nl/jci1.3:c:BWBR0011173)
 
 Wijzigt de Wet flexibel werken.
 
@@ -125,7 +125,7 @@ Wijzigt de Wet inkomensvoorziening oudere en gedeeltelijk arbeidsongeschikte wer
 
 Wijzigt de Wet inkomensvoorziening oudere en gedeeltelijk arbeidsongeschikte gewezen zelfstandigen.
 
-##### Artikel XXI. [Wet inkomensvoorziening oudere werklozen](https://wetten.overheid.nl/jci1.3:c:BWBR0024394&wetgeving)
+##### Artikel XXI. [Wet inkomensvoorziening oudere werklozen](https://wetten.overheid.nl/jci1.3:c:BWBR0024394)
 
 Wijzigt de Wet inkomensvoorziening oudere werklozen.
 
@@ -133,7 +133,7 @@ Wijzigt de Wet inkomensvoorziening oudere werklozen.
 
 Wijzigt de Wet kinderopvang en kwaliteitseisen peuterspeelzalen.
 
-##### Artikel XXIII. [Wet maatregelen Wet werk en bijstand en enkele andere wetten](https://wetten.overheid.nl/jci1.3:c:BWBR0035385&wetgeving)
+##### Artikel XXIII. [Wet maatregelen Wet werk en bijstand en enkele andere wetten](https://wetten.overheid.nl/jci1.3:c:BWBR0035385)
 
 Wijzigt de Wet maatregelen Wet werk en bijstand en enkele andere wetten.
 
@@ -145,7 +145,7 @@ Wijzigt de Wet minimumloon en minimumvakantiebijslag.
 
 Wijzigt de Wet ongevallenverzekering BES.
 
-##### Artikel XXVI. [Wet op de arbeidsongeschiktheidsverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0002524&wetgeving)
+##### Artikel XXVI. [Wet op de arbeidsongeschiktheidsverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0002524)
 
 Wijzigt de Wet op de arbeidsongeschiktheidsverzekering.
 
@@ -153,11 +153,11 @@ Wijzigt de Wet op de arbeidsongeschiktheidsverzekering.
 
 Wijzigt de Wet op het kindgebonden budget.
 
-##### Artikel XXVIII. [Wet structuur uitvoeringsorganisatie werk en inkomen](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&wetgeving)
+##### Artikel XXVIII. [Wet structuur uitvoeringsorganisatie werk en inkomen](https://wetten.overheid.nl/jci1.3:c:BWBR0013060)
 
 Wijzigt de Wet structuur uitvoeringsorganisatie werk en inkomen.
 
-##### Artikel XXIX. [Wet studievoorschot hoger onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0036261&wetgeving)
+##### Artikel XXIX. [Wet studievoorschot hoger onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0036261)
 
 Wijzigt de Wet studievoorschot hoger onderwijs.
 
@@ -169,7 +169,7 @@ Wijzigt de Wet uitvoering wetten voor verzetsdeelnemers en oorlogsgetroffenen.
 
 Wijzigt de Wet vereenvoudiging regelingen UWV.
 
-##### Artikel XXXII. [Wet werk en inkomen naar arbeidsvermogen](https://wetten.overheid.nl/jci1.3:c:BWBR0019057&wetgeving)
+##### Artikel XXXII. [Wet werk en inkomen naar arbeidsvermogen](https://wetten.overheid.nl/jci1.3:c:BWBR0019057)
 
 Wijzigt de Wet werk en inkomen naar arbeidsvermogen.
 
@@ -183,9 +183,7 @@ Wijzigt de Ziektewet.
 
 ##### Artikel XXXV. Eenmalige aanpassing bedragen
 
-1. Onze Minister van Sociale Zaken en Werkgelegenheid kan de bedragen, genoemd in de [artikelen VIII, onderdeel I](https://wetten.overheid.nl/jci1.3:c:BWBR0037319&artikel=VIII&z=2016-04-01&g=2016-04-01), [XIX, onderdeel Aa](https://wetten.overheid.nl/jci1.3:c:BWBR0037319&artikel=XIX&z=2016-04-01&g=2016-04-01), en [XX, onderdeel Aa](https://wetten.overheid.nl/jci1.3:c:BWBR0037319&artikel=XX&z=2016-04-01&g=2016-04-01), van deze wet eenmalig aanpassen na de datum van inwerkingtreding van dat artikelonderdeel.
-
-2. Dit artikel vervalt zes maanden na de inwerkingtreding van het artikelonderdeel, genoemd in het eerste lid.
+Vervallen
 
 ##### Artikel XXXVI. Inwerkingtreding
 
