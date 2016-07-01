@@ -4,7 +4,7 @@ identifier: "BWBR0024733"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-11-01"
-last_updated: "2016-01-01"
+last_updated: "2016-07-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0024733"
 soort: "ministeriele-regeling"
@@ -46,7 +46,11 @@ Besluit:
 
 ##### Artikel 1
 
-Voor de toepassing van deze regeling wordt verstaan onder ‘vergunninghouder’: de vreemdeling bedoeld in [artikel 3, derde lid, onder c, Rva 2005](https://wetten.overheid.nl/jci1.3:c:BWBR0017959&artikel=3).
+1. Voor de toepassing van deze regeling wordt verstaan onder ‘Rva 2005’: de [Regeling verstrekkingen asielzoekers en andere categorie vreemdelingen 2005](https://wetten.overheid.nl/jci1.3:c:BWBR0017959).
+
+2. Voor de toepassing van deze regeling wordt verstaan onder ‘vergunninghouder’: de vreemdeling bedoeld in [artikel 3, derde lid, onderdeel c, van de Rva 2005](https://wetten.overheid.nl/jci1.3:c:BWBR0017959&artikel=3).
+
+3. Voor de toepassing van deze regeling wordt verstaan onder ‘Gemeentelijk Versnellingsarrangement’: [besluit van de Staatssecretaris van Veiligheid en Justitie van 23 december 2015, nummer 718939, houdende intrekking van het Besluit van de Staatssecretaris van Veiligheid en Justitie van 12 oktober 2015](https://wetten.overheid.nl/jci1.3:c:BWBR0037086) (Stcrt 2015, 35582), en [tijdelijke uitbreiding van de bevoegdheid van het Centraal Orgaan opvang asielzoekers om bepaalde categorieën vreemdelingen uit te sluiten van verstrekkingen op grond van de Regeling verstrekkingen asielzoekers en andere categorieën vreemdelingen 2005](https://wetten.overheid.nl/jci1.3:c:BWBR0037439) (Stcrt. 2015, 48827).
 
 #### Paragraaf 2. Feitelijk geboden verstrekkingen
 
@@ -56,7 +60,7 @@ Tot de aan de asielzoeker feitelijk geboden verstrekkingen, bedoeld in [artikel 
 
 - a. de aan of ten behoeve van de asielzoeker en zijn gezinsleden verstrekte financiële toelage ten behoeve van voedsel, kleding en andere persoonlijke uitgaven en de in natura verstrekte maaltijden;
 
-- b. het onderdak in een opvangcentrum of de financiële toelage ten behoeve van de huisvesting buiten een opvangcentrum.
+- b. het onderdak in een opvangcentrum of de financiële toelage ten behoeve van de huisvesting buiten een opvangcentrum, daaronder begrepen huisvesting op grond van het besluit [Gemeentelijk Versnellingsarrangement](https://wetten.overheid.nl/jci1.3:c:BWBR0037439) (Stcrt. 2015, nr. 48827) en de daarbij behorende verstrekkingen bedoeld in dat besluit.
 
 #### Paragraaf 3. De economische waarde
 
@@ -64,9 +68,9 @@ Tot de aan de asielzoeker feitelijk geboden verstrekkingen, bedoeld in [artikel 
 
 De economische waarde per maand, bedoeld in [artikel 20, tweede lid, van de Rva 2005](https://wetten.overheid.nl/jci1.3:c:BWBR0017959&artikel=20), bedraagt:
 
-- a. van de verstrekkingen bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0024733&hoofdstuk=1&paragraaf=2&artikel=2&z=2016-07-01&g=2016-01-01), onder a: de toelage bedoeld in [artikel 14, tweede lid, van de Rva 2005](https://wetten.overheid.nl/jci1.3:c:BWBR0017959&artikel=14), die aan of ten behoeve van de asielzoeker wordt of zou worden verstrekt voor het volledig zelf verzorgen van maaltijden, vermenigvuldigd met de factor 4,33;
+- a. van de verstrekkingen bedoeld in artikel 2, onderdeel a: de toelage bedoeld in [artikel 14, tweede lid, van de Rva 2005](https://wetten.overheid.nl/jci1.3:c:BWBR0017959&artikel=14), die aan of ten behoeve van de asielzoeker of vergunninghouder wordt of zou worden verstrekt voor het volledig zelf verzorgen van maaltijden, vermenigvuldigd met de factor 4,33;
 
-- b. van de verstrekkingen bedoeld in [artikel 2, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0024733&hoofdstuk=1&paragraaf=2&artikel=2&z=2016-07-01&g=2016-01-01): € 45,38 voor een alleenstaande asielzoeker of eerste gezinslid, € 22,69, voor het tweede gezinslid en € 11,34 per volgend gezinslid, vermenigvuldigd met de factor 4,33, tot een maximum van € 393,43.
+- b. van de verstrekkingen bedoeld in artikel 2, onderdeel b: € 50,00 voor een alleenstaande asielzoeker of vergunninghouder of eerste gezinslid, € 25,00, voor het tweede gezinslid en € 12,50 per volgend gezinslid, vermenigvuldigd met de factor 4,33, tot een maximum van € 433,00.
 
 ### Hoofdstuk 2. De eigen bijdrage
 
@@ -74,13 +78,13 @@ De economische waarde per maand, bedoeld in [artikel 20, tweede lid, van de Rva 
 
 ##### Artikel 4
 
-De vergoeding, bedoeld in [artikel 20, tweede lid, van de Rva 2005](https://wetten.overheid.nl/jci1.3:c:BWBR0017959&artikel=20), per maand is gelijk aan de in aanmerking te nemen middelen van de asielzoeker en zijn gezinsleden tot een maximum van de economische waarde van de verstrekkingen bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0024733&hoofdstuk=1&paragraaf=3&artikel=3&z=2016-07-01&g=2016-01-01).
+De vergoeding, bedoeld in [artikel 20, tweede lid, van de Rva 2005](https://wetten.overheid.nl/jci1.3:c:BWBR0017959&artikel=20), per maand is gelijk aan de in aanmerking te nemen middelen van de asielzoeker en zijn gezinsleden tot een maximum van de economische waarde van de verstrekkingen bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0024733&hoofdstuk=1&paragraaf=3&artikel=3&z=2016-07-01&g=2016-07-01).
 
 #### Paragraaf 2. De middelen
 
 ##### Artikel 5
 
-1. Tot de middelen bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0024733&hoofdstuk=2&paragraaf=1&artikel=4&z=2016-07-01&g=2016-01-01) worden alle vermogens- en inkomensbestanddelen gerekend waarover de asielzoeker beschikt of redelijkerwijs kan beschikken.
+1. Tot de middelen bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0024733&hoofdstuk=2&paragraaf=1&artikel=4&z=2016-07-01&g=2016-07-01) worden alle vermogens- en inkomensbestanddelen gerekend waarover de asielzoeker beschikt of redelijkerwijs kan beschikken.
 
 2. Niet tot de middelen van de asielzoeker worden gerekend:
 
@@ -88,15 +92,15 @@ De vergoeding, bedoeld in [artikel 20, tweede lid, van de Rva 2005](https://wett
 
 - b. vergoedingen en tegemoetkomingen, waaronder begrepen de tegemoetkoming ontvangen op grond van het [Tijdelijk besluit tegemoetkoming buitengewone uitgaven](https://wetten.overheid.nl/jci1.3:c:BWBR0016555), voor, alsmede de vermindering of teruggave van loonbelasting of inkomensbelasting en van premies volksverzekeringen op grond van kosten die niet tot de algemeen noodzakelijke bestaanskosten behoren;
 
-- c. rente ontvangen over op grond van [artikel 7, tweede lid, onder b, c, en d](https://wetten.overheid.nl/jci1.3:c:BWBR0024733&hoofdstuk=2&paragraaf=4&artikel=7&z=2016-07-01&g=2016-01-01), niet in aanmerking genomen vermogen;
+- c. rente ontvangen over op grond van [artikel 7, tweede lid, onder b, c, en d](https://wetten.overheid.nl/jci1.3:c:BWBR0024733&hoofdstuk=2&paragraaf=4&artikel=7&z=2016-07-01&g=2016-07-01), niet in aanmerking genomen vermogen;
 
 - d. een uitkering in verband met geleden immateriële schade voor zover dit, gelet op de aard en de hoogte van de uitkering, uit een oogpunt van het verlenen van verstrekkingen als bedoeld in [artikel 9 van de Rva 2005](https://wetten.overheid.nl/jci1.3:c:BWBR0017959&artikel=9), verantwoord is;
 
 - e. giften van instellingen en particulieren voor zover deze, gezien de bestemming en de hoogte van de giften, uit een oogpunt van het verlenen van verstrekkingen als bedoeld in [artikel 9 van de Rva 2005](https://wetten.overheid.nl/jci1.3:c:BWBR0017959&artikel=9), verantwoord zijn.
 
-3. Onverminderd het bepaalde in het tweede lid worden niet tot de middelen van een asielzoeker, niet zijnde een vergunninghouder, gerekend inkomsten uit arbeid gedurende ten hoogste 24 weken binnen een periode van 52 weken tot 25 procent van deze inkomsten, met een maximum van € 183,00 per maand.
+3. Onverminderd het bepaalde in het tweede lid worden niet tot de middelen van een asielzoeker, niet zijnde een vergunninghouder, gerekend inkomsten uit arbeid gedurende ten hoogste 24 weken binnen een periode van 52 weken tot 25 procent van deze inkomsten, met een maximum van € 196,00 per maand.
 
-4. Onverminderd het bepaalde in het tweede lid worden tot de middelen van een vergunninghouder niet gerekend inkomsten uit arbeid tot 25 procent van deze inkomsten, met een maximum van € 183,00 per maand.
+4. Onverminderd het bepaalde in het tweede lid worden tot de middelen van een vergunninghouder niet gerekend inkomsten uit arbeid tot 25 procent van deze inkomsten, met een maximum van € 196,00 per maand.
 
 5. De middelen worden in aanmerking genomen tot het bedrag dat resteert na aftrek van:
 
@@ -114,7 +118,7 @@ De vergoeding, bedoeld in [artikel 20, tweede lid, van de Rva 2005](https://wett
 
 1. Onder inkomen wordt verstaan de middelen voor zover deze:
 
-- a. betreffen inkomsten uit of in verband met arbeid, inkomsten uit vermogen, sociale zekerheidsuitkeringen, uitkeringen tot levensonderhoud op grond van [Boek 1 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0002656), voorlopige teruggave of teruggave van inkomstenbelasting, loonbelasting, premies volksverzekeringen dan wel naar hun aard met deze inkomsten of uitkeringen overeenkomen;
+- a. betreffen inkomsten uit of in verband met arbeid, inkomsten uit vermogen, sociale zekerheidsuitkeringen, uitkeringen tot levensonderhoud op grond van [Boek 1 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0002656), voorlopige teruggave of teruggave van inkomstenbelasting, loonbelasting, premies volksverzekeringen, zorgtoeslag, studiefinanciering, dan wel naar hun aard met deze inkomsten of uitkeringen overeenkomen;
 
 - b. betrekking hebben op een periode waarover beroep op opvang wordt gedaan.
 
@@ -128,7 +132,7 @@ De vergoeding, bedoeld in [artikel 20, tweede lid, van de Rva 2005](https://wett
 
 - a. de waarde van de bezittingen waarover de asielzoeker bij de aanvang van de opvang beschikt of redelijkerwijs kan beschikken, verminderd met de op dat tijdstip aanwezige schulden. De waarde van de bezittingen wordt vastgesteld op de waarde in het economische verkeer bij vrije oplevering;
 
-- b. middelen die worden ontvangen tijdens de periode waarover beroep op opvang wordt gedaan, voor zover deze geen inkomen zijn als bedoeld in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0024733&hoofdstuk=2&paragraaf=3&artikel=6&z=2016-07-01&g=2016-01-01).
+- b. middelen die worden ontvangen tijdens de periode waarover beroep op opvang wordt gedaan, voor zover deze geen inkomen zijn als bedoeld in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0024733&hoofdstuk=2&paragraaf=3&artikel=6&z=2016-07-01&g=2016-07-01).
 
 2. Niet als vermogen wordt in aanmerking genomen:
 
