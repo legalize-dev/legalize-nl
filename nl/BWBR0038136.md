@@ -1,0 +1,41 @@
+---
+title: "Mededeling van de Staatssecretaris van Sociale Zaken en Werkgelegenheid van 24 juni 2016, 2016-0000149442, betreffende de herziening van de hoogte van de uitkering op grond van de Algemene nabestaandenwet met ingang van 1 juli 2016"
+identifier: "BWBR0038136"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2016-07-01"
+last_updated: "2016-07-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0038136"
+soort: "ministeriele-regeling"
+stam_id: "13669093"
+version_id: "23409382"
+internal_id: "C33734381"
+label_id: "13635644"
+dtd_version: "2.0"
+original_entry_into_force: "2016-07-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0038136/2016-07-01/0"
+intitule_bron: "Stcrt.2016-34205"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2016-06-24"
+intitule_published: "2016-06-30"
+intitule_in_force: "2016-06-30"
+intitule_status: "goed"
+original_publication: "Stcrt.2016-34205"
+original_signed_date: "2016-06-24"
+original_published_date: "2016-06-30"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2016-34205"
+entry_into_force_date: "2016-07-01"
+jci_1_3: "jci1.3:c:BWBR0038136&z=2016-07-01&g=2016-07-01"
+jci_1_0: "1.0:c:BWBR0038136&g=2016-07-01"
+citeertitel_status: "redactioneel"
+short_title: "Mededeling herziening hoogte uitkering op grond van Algemene nabestaandenwet met ingang van 1 juli 2016"
+signed_date: "2016-06-24"
+entry_into_force: "2016-07-01"
+---
+# Mededeling van de Staatssecretaris van Sociale Zaken en Werkgelegenheid van 24 juni 2016, 2016-0000149442, betreffende de herziening van de hoogte van de uitkering op grond van de Algemene nabestaandenwet met ingang van 1 juli 2016
+
+deelt op grond van [artikel 2, tweede lid, van de Algemene nabestaandenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0007795&artikel=2) mee dat met ingang van 1 juli 2016:
+
+Deze mededeling zal met de toelichting in de Staatscourant worden geplaatst.
