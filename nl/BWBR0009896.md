@@ -4,7 +4,7 @@ identifier: "BWBR0009896"
 country: "nl"
 rank: "amvb"
 publication_date: "2022-05-01"
-last_updated: "2013-10-23"
+last_updated: "2016-07-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0009896"
 soort: "AMvB"
@@ -74,7 +74,7 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 ##### Artikel 1a
 
-Als bestuursorgaan als bedoeld in [artikel 1a, eerste lid, onderdeel d, van de Wet openbaarheid van bestuur](https://wetten.overheid.nl/jci1.3:c:BWBR0005252&artikel=1a) is uitgezonderd: de Commissie advies- en verwijspunt klokkenluiden.
+Vervallen
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
 
