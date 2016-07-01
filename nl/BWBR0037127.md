@@ -4,7 +4,7 @@ identifier: "BWBR0037127"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-04-01"
-last_updated: "2016-01-01"
+last_updated: "2016-07-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0037127"
 soort: "ministeriele-regeling"
@@ -139,7 +139,8 @@ Deze regeling wordt aangehaald als: Regeling elektronisch berichtenverkeer Belas
 | [Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353) |   | alle verzoeken voor zover niet gedaan bij de aangifte, en de afgegeven voor bezwaar vatbare beschikkingen | x |   |   |   |
 |   |   | alle voor bezwaar vatbare beschikkingen houdende vaststellingen, voor zover geen onderdeel van de aanslag | x |   |   |   |
 |   |   | alle voor bezwaar vatbare beschikkingen houdende herziening en beslissingen tot algehele toewijzing van verzoeken om herziening | x |   |   |   |
-| [Wet op de vennootschapsbelasting 1969](https://wetten.overheid.nl/jci1.3:c:BWBR0002672) |   | alle verzoeken voor zover niet gedaan bij de aangifte, en de op grond daarvan in voorkomend geval afgegeven voor bezwaar vatbare beschikkingen | x |   |   |   |
+| [Wet op de vennootschapsbelasting 1969](https://wetten.overheid.nl/jci1.3:c:BWBR0002672) | [artikelen 29c](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&artikel=29c) en [29d](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&artikel=29d) | landenrapport groepsentiteit en bericht inzake status groepsentiteit, onderscheidenlijk rapporterende entiteit |   | x | XML/Digipoort | PKI Overheid services certificaat |
+|   |   | alle verzoeken voor zover niet gedaan bij de aangifte, en de op grond daarvan in voorkomend geval afgegeven voor bezwaar vatbare beschikkingen | x |   |   |   |
 |   |   | alle voor bezwaar vatbare beschikkingen houdende vaststellingen, voor zover geen onderdeel van de aanslag, alsmede de intrekking daarvan | x |   |   |   |
 |   |   | alle herzieningen van voor bezwaar vatbare beschikkingen en vaststellingen | x |   |   |   |
 | [Wet op de loonbelasting 1964](https://wetten.overheid.nl/jci1.3:c:BWBR0002471) | [Artikel 28](https://wetten.overheid.nl/jci1.3:c:BWBR0002471&artikel=28) | eerstedagsmelding |   | x | SBR/Digipoort BAPI FOS MijnBelastingdienst Ondernemers | PKI Overheid services certificaat BAPI-certificaat PKI Overheid services certificaat Door Belastingdienst verstrekte gebruikersnaam en wachtwoord |
