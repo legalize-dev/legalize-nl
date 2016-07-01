@@ -4,7 +4,7 @@ identifier: "BWBR0002979"
 country: "nl"
 rank: "wet"
 publication_date: "2024-07-01"
-last_updated: "2012-01-01"
+last_updated: "2016-07-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0002979"
 soort: "wet"
@@ -45,11 +45,11 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 Voor de toepassing van het bij of krachtens deze wet bepaalde wordt verstaan onder:
 
-het fonds: het schadefonds geweldsmisdrijven, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0002979&artikel=2&z=2012-01-01&g=2012-01-01);
+het fonds: het schadefonds geweldsmisdrijven, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0002979&artikel=2&z=2016-07-01&g=2016-07-01);
 
 Onze Minister: Onze Minister van Justitie;
 
-de commissie: de commissie, bedoeld in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0002979&artikel=8&z=2012-01-01&g=2012-01-01), die met het beheer van het fonds is belast;
+de commissie: de commissie, bedoeld in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0002979&artikel=8&z=2016-07-01&g=2016-07-01), die met het beheer van het fonds is belast;
 
 de benadeelde: het slachtoffer, onderscheidenlijk de nabestaande, door of namens wie een aanvraag voor een uitkering bij het fonds is ingediend.
 
@@ -69,7 +69,7 @@ de benadeelde: het slachtoffer, onderscheidenlijk de nabestaande, door of namens
 
 - b. aan een ieder die ten gevolge van een aan boord van een Nederlands vaartuig of luchtvaartuig buiten Nederland opzettelijk gepleegd geweldsmisdrijf ernstig lichamelijk of geestelijk letsel heeft bekomen;
 
-- c. aan nabestaanden van een onder a of b bedoeld persoon, indien deze ten gevolge van het misdrijf is overleden;
+- c. aan nabestaanden van een onder a of b bedoeld persoon, indien deze ten gevolge van het misdrijf is overleden, of aan nabestaanden van een persoon die als gevolg van overtreding van [artikel 6 van de Wegenverkeerswet 1994](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=6) of van [artikel 307 van het Wetboek van Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=307) is overleden;
 
 - d. aan anderen dan de onder c bedoelde personen, die de kosten van lijkbezorging hebben voldaan van een onder a of b bedoeld persoon, indien deze ten gevolge van het misdrijf is overleden.
 
@@ -109,7 +109,7 @@ Een uitkering kan achterwege blijven of op een geringer bedrag worden bepaald, i
 
 ##### Artikel 7
 
-Een aanvraag voor een uitkering moet bij het fonds worden ingediend binnen drie jaar na de dag waarop het misdrijf is gepleegd. Wordt de aanvraag door een nabestaande gedaan, dan begint die termijn te lopen van de dag van het overlijden. Een na afloop van de termijn ingediende aanvraag wordt niettemin behandeld, indien blijkt dat de aanvraag zo spoedig is ingediend als redelijkerwijs kon worden verlangd.
+Een aanvraag voor een uitkering moet bij het fonds worden ingediend binnen tien jaar na de dag waarop het misdrijf is gepleegd. Wordt de aanvraag door een nabestaande gedaan, dan begint die termijn te lopen van de dag van het overlijden. Een na afloop van de termijn ingediende aanvraag wordt niettemin behandeld, indien blijkt dat de aanvraag zo spoedig is ingediend als redelijkerwijs kon worden verlangd.
 
 ##### Artikel 8
 
@@ -139,7 +139,7 @@ De leden van de commissie leggen, alvorens aan de werkzaamheden van de commissie
 
 ##### Artikel 11
 
-Vergoeding voor reis- en verblijfkosten, alsmede voor tijdverzuim, wordt toegekend aan de in [artikel 9, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002979&artikel=9&z=2012-01-01&g=2012-01-01), bedoelde getuigen en deskundigen, en aan de benadeelde indien hij op verzoek van de commissie in persoon is verschenen. Bij algemene maatregel van bestuur worden nadere regels gesteld.
+Vergoeding voor reis- en verblijfkosten, alsmede voor tijdverzuim, wordt toegekend aan de in [artikel 9, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002979&artikel=9&z=2016-07-01&g=2016-07-01), bedoelde getuigen en deskundigen, en aan de benadeelde indien hij op verzoek van de commissie in persoon is verschenen. Bij algemene maatregel van bestuur worden nadere regels gesteld.
 
 ##### Artikel 12
 
@@ -191,7 +191,7 @@ Bij algemene maatregel van bestuur kunnen nadere regels worden gesteld ter uitvo
 
 1. Deze wet treedt in werking op een door Ons te bepalen tijdstip.
 
-2. Geen uitkering wordt toegekend ter zake van enig misdrijf dat vóór 1 januari 1973 is voorgevallen. Tenzij op grond van [artikel 7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002979&artikel=7&z=2012-01-01&g=2012-01-01), een langere termijn van toepassing is, kan ten aanzien van een misdrijf dat op of na 1 januari 1973, doch vóór het tijdstip van inwerkingtreding van deze wet is voorgevallen, een aanvraag, als in dat artikel bedoeld, uiterlijk twee maanden na dat tijdstip worden ingediend.
+2. Geen uitkering wordt toegekend ter zake van enig misdrijf dat vóór 1 januari 1973 is voorgevallen. Tenzij op grond van [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0002979&artikel=7&z=2016-07-01&g=2016-07-01) een langere termijn van toepassing is, kan ten aanzien van een misdrijf dat op of na 1 januari 1973, doch vóór het tijdstip van inwerkingtreding van deze wet is voorgevallen, een aanvraag, als in dat artikel bedoeld, uiterlijk twee maanden na dat tijdstip worden ingediend.
 
 ##### Artikel 24
 
