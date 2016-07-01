@@ -4,7 +4,7 @@ identifier: "BWBR0021609"
 country: "nl"
 rank: "amvb"
 publication_date: "2024-01-01"
-last_updated: "2015-05-02"
+last_updated: "2016-07-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0021609"
 soort: "AMvB"
@@ -72,7 +72,7 @@ Dit besluit treedt in werking op een bij koninklijk besluit te bepalen tijdstip,
 
 Dit besluit wordt aangehaald als: Aanwijzingsbesluit Wet kenbaarheid publiekrechtelijke beperkingen onroerende zaken.
 
-## Bijlage. behorende bij [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0021609&artikel=2&z=2015-05-02&g=2015-05-02), van het Aanwijzingsbesluit Wet kenbaarheid publiekrechtelijke beperkingen onroerende zaken (aangewezen categorieën van beperkingenbesluiten)
+## Bijlage. behorende bij [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0021609&artikel=2&z=2016-07-01&g=2016-07-01), van het Aanwijzingsbesluit Wet kenbaarheid publiekrechtelijke beperkingen onroerende zaken (aangewezen categorieën van beperkingenbesluiten)
 
 ### Hoofdstuk I. Categorieën van beperkingenbesluiten krachtens wetten op het gebied van binnenlandse zaken en koninkrijksrelaties
 
@@ -90,19 +90,19 @@ Dit besluit wordt aangehaald als: Aanwijzingsbesluit Wet kenbaarheid publiekrech
 
 ### Hoofdstuk III. Categorieën van beperkingenbesluiten krachtens wetten op het gebied van landbouw, natuur en voedselkwaliteit
 
-### [Boswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002357)
+### [Boswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002357&wetgeving)
 
 – ([artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0002357&artikel=13)) bij besluit van de Ministers van Onderwijs, Cultuur en Wetenschap en van Landbouw, Natuur en Voedselkwaliteit opgelegd kapverbod in een daarbij aangewezen gebied.
 
-### [Flora- en faunawet](https://wetten.overheid.nl/jci1.3:c:BWBR0009640)
+### [Flora- en faunawet](https://wetten.overheid.nl/jci1.3:c:BWBR0009640&wetgeving)
 
-### [Natuurbeschermingswet 1998](https://wetten.overheid.nl/jci1.3:c:BWBR0009641)
+### [Natuurbeschermingswet 1998](https://wetten.overheid.nl/jci1.3:c:BWBR0009641&wetgeving)
 
 ### [Wet agrarisch grondverkeer](https://wetten.overheid.nl/jci1.3:c:BWBR0003386)
 
-### Hoofdstuk IV. Categorieën van beperkingenbesluiten krachtens wetten op het gebied van onderwijs, cultuur en wetenschap
+### Hoofdstuk IV. Categorieën beperkingenbesluiten krachtens wetten op het gebied van onderwijs, cultuur en wetenschap
 
-### [Monumentenwet 1988](https://wetten.overheid.nl/jci1.3:c:BWBR0004471)
+### [Erfgoedwet](https://wetten.overheid.nl/jci1.3:c:BWBR0037521&wetgeving)
 
 ### Hoofdstuk V. Categorieën van beperkingenbesluiten krachtens wetten op het gebied van verkeer en waterstaat
 
