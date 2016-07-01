@@ -4,7 +4,7 @@ identifier: "BWBR0037377"
 country: "nl"
 rank: "wet"
 publication_date: "2016-07-01"
-last_updated: "2016-01-01"
+last_updated: "2016-07-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0037377"
 soort: "wet"
@@ -45,7 +45,7 @@ Zo is het, dat Wij, de Afdeling advisering van de Raad van State gehoord, en met
 
 ##### Artikel I
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Zorgverzekeringswet.
 
 ##### Artikel Ia
 
@@ -53,11 +53,11 @@ Wijzigt de Invoerings- en aanpassingswet Zorgverzekeringswet.
 
 ##### Artikel Ib
 
-Dit onderdeel is nog niet inwerking getreden
+Onze Minister zendt binnen drie jaar na de inwerkingtreding van deze wet aan de Staten-Generaal een verslag over de doeltreffendheid en de effecten van deze wet in de praktijk.
 
 ##### Artikel II
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Wet forensische zorg (kst. 32398).
 
 ##### Artikel III
 
@@ -65,7 +65,7 @@ Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel IV
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt deze wet.
 
 ##### Artikel V
 
