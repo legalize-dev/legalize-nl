@@ -4,7 +4,7 @@ identifier: "BWBR0028590"
 country: "nl"
 rank: "ministeriele_regeling_bes"
 publication_date: "2023-03-15"
-last_updated: "2014-06-27"
+last_updated: "2016-07-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0028590"
 soort: "ministeriele-regeling-BES"
@@ -58,7 +58,7 @@ Als de wetenschappelijke autoriteit, bedoeld in [artikel 6, eerste lid, van de w
 
 ##### Artikel 4
 
-Aanvragen voor een vergunning of een certificaat als bedoeld artikel III, IV, V en VI van het CITES-verdrag in samenhang met [artikel 7A, eerste en tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0028434&artikel=7a), worden ingediend bij het Rijks Service Centrum op de openbare lichamen Bonaire, Sint Eustatius of Saba.
+Aanvragen voor een vergunning of een certificaat als bedoeld artikel III, IV, V en VI van het CITES-verdrag in samenhang met [artikel 7A, eerste en tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0028434&artikel=7a), worden ingediend bij de Rijksdienst Caribisch Nederland op de openbare lichamen Bonaire, Sint Eustatius of Saba.
 
 ##### Artikel 5
 
@@ -71,6 +71,20 @@ Deze regeling treedt in werking met ingang van 10 oktober 2010.
 ##### Artikel 7
 
 De regeling wordt aangehaald als: Regeling uitvoering CITES-verdrag BES
+
+## Bijlage
+
+Niet opgenomen.
+
+Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
+
+##### Artikel 1a
+
+Deze regeling is mede gebaseerd op [artikel 16 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0028434&artikel=16).
+
+##### Artikel 5a
+
+Als toezichthouder als bedoeld in [artikel 16, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0028434&artikel=16) wordt, wat betreft het toezicht op de naleving van het bij of krachtens [artikel 7a](https://wetten.overheid.nl/jci1.3:c:BWBR0028434&artikel=7a) en [7b van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0028434&artikel=7b) bepaalde, aangewezen de inspecteur, bedoeld in [artikel 1.1, onderdeel h, van de Douane en Accijnswet BES](https://wetten.overheid.nl/jci1.3:c:BWBR0029236&artikel=1.1).
 
 ## Bijlage
 
