@@ -4,7 +4,7 @@ identifier: "BWBR0023563"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-04-04"
-last_updated: "2016-02-27"
+last_updated: "2016-07-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0023563"
 soort: "ministeriele-regeling"
@@ -64,6 +64,8 @@ Treedt in werking op het tijdstip waarop het Besluit stimulering duurzame energi
 
 - –. **meetrapport:** rapport dat alle meetgegevens van de desbetreffende kalendermaand bevat;
 
+- –. **milieu- en energiesteunkader:** Richtsnoeren staatssteun ten behoeve van milieubescherming en energie 2014-2020 (PbEU 2014, C 200);
+
 - –. **minister:** Minister van Economische Zaken;
 
 - –. **NTA 8003:2008:** Nederlandse Technische Afspraak 8003, Classificatie van biomassa voor energietoepassing, uitgegeven door het Nederlands Normalisatie-instituut, zoals deze luidde op 31 december 2008;
@@ -112,7 +114,7 @@ Treedt in werking op het tijdstip waarop het Besluit stimulering duurzame energi
 
 - d. indien de aanvraag wordt ingediend voor een productie-installatie voor de productie van hernieuwbare elektriciteit, hernieuwbare warmte of hernieuwbare elektriciteit en hernieuwbare warmte, door middel van geothermie, een geologisch rapport dat voldoet aan:
 
-- 1°. het Model Geologisch Onderzoek SDE+, dat wordt opgesteld met gebruikmaking van het formulier dat is opgenomen in de bij deze regeling behorende [bijlage 7](https://wetten.overheid.nl/jci1.3:c:BWBR0023563&bijlage=7&z=2016-02-27&g=2016-02-27),
+- 1°. het Model Geologisch Onderzoek SDE+, dat wordt opgesteld met gebruikmaking van het formulier dat is opgenomen in de bij deze regeling behorende [bijlage 7](https://wetten.overheid.nl/jci1.3:c:BWBR0023563&bijlage=7&z=2016-07-01&g=2016-07-01),
 
 - 2°. het Model Geologisch Onderzoek, dat wordt opgesteld met gebruikmaking van het formulier dat is opgenomen in bijlage D, behorende bij het Aanvraagformulier Subsidieregeling Energie en Innovatie Risico’s dekken voor aardwarmte, opgenomen in [bijlage 3.4.1. van de Subsidieregeling energie en innovatie](https://wetten.overheid.nl/jci1.3:c:BWBR0026952&bijlage=3.4.1), zoals deze luidde voor 2 oktober 2014, of
 
@@ -164,11 +166,11 @@ Treedt in werking op het tijdstip waarop het Besluit stimulering duurzame energi
 
 ##### Artikel 3
 
-1. De subsidie-ontvanger verstrekt de opdrachten, bedoeld in [artikel 2, eerste lid, onderdeel a, onderdeel 1°](https://wetten.overheid.nl/jci1.3:c:BWBR0023563&paragraaf=2&artikel=2&z=2016-02-27&g=2016-02-27), binnen een jaar na de datum van inwerkingtreding van de beschikking tot subsidieverlening en zendt een afschrift aan de Minister.
+1. De subsidie-ontvanger verstrekt de opdrachten, bedoeld in [artikel 2, eerste lid, onderdeel a, onderdeel 1°](https://wetten.overheid.nl/jci1.3:c:BWBR0023563&paragraaf=2&artikel=2&z=2016-07-01&g=2016-07-01), binnen een jaar na de datum van inwerkingtreding van de beschikking tot subsidieverlening en zendt een afschrift aan de Minister.
 
 2. De subsidie-ontvanger rapporteert na de datum van de beschikking tot subsidieverlening tot het moment van ingebruikname jaarlijks over de voortgang van de realisatie van de in het plan als bedoeld in [artikel 56, tweede lid, onderdeel d, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0022735&artikel=56) opgenomen ijkmomenten.
 
-3. De subsidie-ontvanger zendt de Minister binnen een jaar na de datum van ingebruikname van de productie-installatie een overzicht van de daadwerkelijke investeringskosten, van de reeds ontvangen subsidies en overige steun en van de nog te ontvangen subsidies en overige steun. Indien de verleende subsidie als bedoeld in de [artikelen 16](https://wetten.overheid.nl/jci1.3:c:BWBR0022735&artikel=16), [24](https://wetten.overheid.nl/jci1.3:c:BWBR0022735&artikel=24), [33](https://wetten.overheid.nl/jci1.3:c:BWBR0022735&artikel=33), [41](https://wetten.overheid.nl/jci1.3:c:BWBR0022735&artikel=41), [49](https://wetten.overheid.nl/jci1.3:c:BWBR0022735&artikel=49) en [55a van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0022735&artikel=55a) meer bedraagt dan € 125.000, gaat het overzicht vergezeld van een accountantsverklaring. De accountantsverklaring wordt opgesteld conform het model en het controleprotocol die zijn opgenomen in de bij deze regeling behorende [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0023563&bijlage=1&z=2016-02-27&g=2016-02-27).
+3. De subsidie-ontvanger zendt de Minister binnen een jaar na de datum van ingebruikname van de productie-installatie een overzicht van de daadwerkelijke investeringskosten, van de reeds ontvangen subsidies en overige steun en van de nog te ontvangen subsidies en overige steun. Indien de verleende subsidie als bedoeld in de [artikelen 16](https://wetten.overheid.nl/jci1.3:c:BWBR0022735&artikel=16), [24](https://wetten.overheid.nl/jci1.3:c:BWBR0022735&artikel=24), [33](https://wetten.overheid.nl/jci1.3:c:BWBR0022735&artikel=33), [41](https://wetten.overheid.nl/jci1.3:c:BWBR0022735&artikel=41), [49](https://wetten.overheid.nl/jci1.3:c:BWBR0022735&artikel=49) en [55a van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0022735&artikel=55a) meer bedraagt dan € 125.000, gaat het overzicht vergezeld van een accountantsverklaring. De accountantsverklaring wordt opgesteld conform het model en het controleprotocol die zijn opgenomen in de bij deze regeling behorende [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0023563&bijlage=1&z=2016-07-01&g=2016-07-01).
 
 4. Het eerste lid is niet van toepassing op de ontvanger van subsidie voor een productie-installatie voor de productie van hernieuwbare elektriciteit door middel van windenergie op zee.
 
@@ -190,7 +192,7 @@ Vervallen
 
 ##### Artikel 7
 
-Een subsidieontvanger die een productie-installatie bedrijft voor de productie van stoom door middel van verbranding van houtpellets in een ketel met een vermogen groter dan of gelijk aan 10 MW, of die een productie-installatie bedrijft waarin vaste of gasvormige biomassa wordt omgezet in hernieuwbare elektriciteit, of hernieuwbare elektriciteit en hernieuwbare warmte geproduceerd door een productie-installatie voor de productie van elektriciteit door middel van kolen waarin biomassa wordt meegestookt, maakt gebruik van biomassa die aantoonbaar per levering voldoet aan de duurzaamheidseisen, bedoeld in [bijlage 4](https://wetten.overheid.nl/jci1.3:c:BWBR0023563&bijlage=4&z=2016-02-27&g=2016-02-27).
+Een subsidieontvanger die een productie-installatie bedrijft voor de productie van stoom door middel van verbranding van houtpellets in een ketel met een vermogen groter dan of gelijk aan 10 MW, of die een productie-installatie bedrijft waarin vaste of gasvormige biomassa wordt omgezet in hernieuwbare elektriciteit, of hernieuwbare elektriciteit en hernieuwbare warmte geproduceerd door een productie-installatie voor de productie van elektriciteit door middel van kolen waarin biomassa wordt meegestookt, maakt gebruik van biomassa die aantoonbaar per levering voldoet aan de duurzaamheidseisen, bedoeld in [bijlage 4](https://wetten.overheid.nl/jci1.3:c:BWBR0023563&bijlage=4&z=2016-07-01&g=2016-07-01).
 
 #### § 4. Voorschotten
 
@@ -254,7 +256,7 @@ Een subsidieontvanger die een productie-installatie bedrijft voor de productie v
 
 ##### Artikel 10
 
-Een aanvraag om subsidievaststelling wordt ingediend met gebruikmaking van het origineel van een ondertekend formulier, dat is opgenomen in de bij deze regeling behorende [bijlage 5](https://wetten.overheid.nl/jci1.3:c:BWBR0023563&bijlage=5&z=2016-02-27&g=2016-02-27).
+Een aanvraag om subsidievaststelling wordt ingediend met gebruikmaking van het origineel van een ondertekend formulier, dat is opgenomen in de bij deze regeling behorende [bijlage 5](https://wetten.overheid.nl/jci1.3:c:BWBR0023563&bijlage=5&z=2016-07-01&g=2016-07-01).
 
 #### § 5. Subsidievaststelling
 
@@ -406,21 +408,25 @@ De accountantsverklaring moet worden opgestuurd naar Rijksdienst voor Ondernemen
 
 De accountantsverklaring moet worden opgestuurd naar Rijksdienst voor Ondernemend Nederland binnen een jaar na ingebruikname van de productie-installatie voor hernieuwbare energie.
 
-In dit document is ook het controleprotocol opgenomen.
+Met dit formulier kan de accountant een verklaring afgeven zoals bedoeld in [artikel 3, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023563&paragraaf=3&sub-paragraaf=3.1&artikel=3&z=2016-07-01&g=2016-07-01), van de Algemene uitvoeringsregeling stimulering duurzame energieproductie. Dit betreft een overzicht van de investeringskosten en de overige subsidies en steunsituatie. Dit laatste is noodzakelijk in verband met de EU-steunregels ten behoeve van het milieu (EU-Milieu Steun Kader). Deze accountantsverklaring is nodig wanneer aan de subsidie-ontvanger op grond van het Besluit stimulering duurzame energieproductie een subsidie is verstrekt van meer dan € 125.000,–.
 
-Waar u schrijfruimte tekort komt, mag u een bijlage toevoegen.
+De accountantsverklaring moet worden opgestuurd naar Rijksdienst voor Ondernemend Nederland binnen een jaar na ingebruikname van de productie-installatie voor hernieuwbare energie.
 
 ### MODEL ACCOUNTANTSVERKLARING
 
-Wij hebben het bijgevoegde overzicht van investeringskosten en de steunsituatie van [.....naam aanvrager.....] te [.....statutaire vestigingsplaats.....] gewaarmerkt en gecontroleerd.
+Waar u schrijfruimte tekort komt, mag u een bijlage toevoegen.
 
 Voor de gesubsidieerde activiteiten is met aanvraagnummer [.....nr.....] bij brief van [.....datum.....] met kenmerk [.....kenmerk.....] door de Minister van Economische Zaken een subsidie verleend. Deze subsidie is verleend in het kader van de SDE.
 
-### Toelichtende paragraaf
+### ten behoeve van het Ministerie van Economische Zaken
 
 Voor de gesubsidieerde activiteiten is met aanvraagnummer [.....nr.....] bij brief van [.....datum.....] met kenmerk [.....kenmerk.....] door de Minister van Economische Zaken een subsidie verleend. Deze subsidie is verleend in het kader van de SDE.
 
 ### Toelichting
+
+Voor de gesubsidieerde activiteiten is met aanvraagnummer [.....nr.....] bij brief van [.....datum.....] met kenmerk [.....kenmerk.....] door de Minister van Economische Zaken een subsidie verleend. Deze subsidie is verleend in het kader van de SDE.
+
+Het overzicht van de investeringskosten en steunsituatie is opgesteld onder verantwoordelijkheid van de leiding van [.....naam huishouding.....]
 
 Een controle omvat onder meer een onderzoek (eventueel door middel van deelwaarnemingen) naar de gegevens in de aanvraag met betrekking tot de steunsituatie van het project en het bijgevoegde overzicht van investeringskosten. De controle is uitgevoerd met inachtneming van het bij deze verklaring behorende controleprotocol. Tevens omvat de controle de beoordeling dat de investeringskosten voldoen aan de eisen zoals opgenomen in artikel 36 van Communautaire kaderregeling inzake staatssteun ten behoeve van het milieu (PbEG 2001 C37).
 
@@ -432,25 +438,25 @@ Wij zijn van mening dat onze controle een deugdelijke grondslag vormt voor ons o
 
 Ondergetekende, [naam, titel], verklaart dat de investeringskosten van de gesubsidieerde activiteiten gevestigd te [.....], locatiegegevens van de installatie [....], in totaal EUR [.....]. hebben bedragen.
 
-Wij zijn van oordeel dat de verstrekte informatie voldoet aan de daaraan te stellen eisen. [.....c.q. andere oordelen.....].
-
-Ondergetekende, [naam, titel], verklaart dat de investeringskosten van de gesubsidieerde activiteiten gevestigd te [.....], locatiegegevens van de installatie [....], in totaal EUR [.....]. hebben bedragen.
-
 ### Toelichtende paragraaf
 
 ### 1. Doelstelling
 
 Naam accountantskantoor:
 
+[.....indien van toepassing toelichting op de verklaring en eventuele specifieke bevindingen.....]
+
+### Ondertekening door accountant
+
 Plaats en datum:
 
-### 2. Toleranties en gewenste zekerheid
+Naam accountantskantoor:
 
-Vestigingsplaats:
+### Oordeel
 
 Telefoonnummer:
 
-### Oordeel
+### 1. Doelstelling
 
 Inschrijfnummer NOVAA of NIVRA:
 
@@ -458,33 +464,29 @@ Inschrijfnummer NOVAA of NIVRA:
 
 Dit controleprotocol heeft als doel het geven van aanwijzingen aan de accountant, die is belast met de controle van de door de subsidieontvanger aan de Minister van Economische Zaken (EZ) te verstrekken onderbouwing van de investeringskosten en de steunsituatie ingevolge de algemene uitvoeringsregels voor de subsidieverstrekking op grond van het Besluit stimulering duurzame energieproductie (SDE).
 
-### 1. Doelstelling
+De controle kan worden uitgevoerd door een registeraccountant (RA) of een accountant-administratieconsulent (AA). De gevraagde verklaring kan ook worden verstrekt door een niet als openbaar accountant optredende intern accountant.
 
 Dit controleprotocol heeft als doel het geven van aanwijzingen aan de accountant, die is belast met de controle van de door de subsidieontvanger aan de Minister van Economische Zaken (EZ) te verstrekken onderbouwing van de investeringskosten en de steunsituatie ingevolge de algemene uitvoeringsregels voor de subsidieverstrekking op grond van het Besluit stimulering duurzame energieproductie (SDE).
 
-De controle kan worden uitgevoerd door een registeraccountant (RA) of een accountant-administratieconsulent (AA). De gevraagde verklaring kan ook worden verstrekt door een niet als openbaar accountant optredende intern accountant.
-
-Deze toleranties zijn gebaseerd op percentages die gelden voor de financiële verantwoording van departementen, op grond van de richtlijnen van het Interdepartementaal Overleg Departementale Accountantsdiensten.
-
 ### 3. Reikwijdte en intensiteit van de accountantscontrole
 
 Deze toleranties zijn gebaseerd op percentages die gelden voor de financiële verantwoording van departementen, op grond van de richtlijnen van het Interdepartementaal Overleg Departementale Accountantsdiensten.
 
 ### 3. Reikwijdte en intensiteit van de accountantscontrole
 
-Inzake het omgaan met geconstateerde fouten geldt de gedragslijn, dat geconstateerde fouten, die invloed hebben op de omvang van de subsidie van EZ en die herstelbaar zijn, moeten worden gecorrigeerd. Dat geldt ook voor fouten waarbij de tolerantiegrens niet wordt overschreden. De niet herstelde fouten wegen mee in de oordeelsvorming over de aanvraag.
+Deze toleranties zijn gebaseerd op percentages die gelden voor de financiële verantwoording van departementen, op grond van de richtlijnen van het Interdepartementaal Overleg Departementale Accountantsdiensten.
 
-Bij de controle wordt vastgesteld, dat de vermelde investeringskosten juist zijn. Er wordt nagegaan of er ook andere subsidies (steunsituatie) zijn verkregen. Hieronder zijn nadere aanwijzingen voor de controle verstrekt.
+De accountantscontrole verschafteen redelijke mate van zekerheid aan de gebruiker van de verklaring. Volgens de richtlijnen voor de accountantscontrole betekent dit dat de accountant een (relatief) hoge, maar geen absolute mate van zekerheid verschaft. Indien dit begrip ten behoeve van het gebruik van statistische technieken moet worden gekwantificeerd, dan dient een betrouwbaarheid van 95% te worden gehanteerd.
 
 ### CONTROLE-PROTOCOL
 
 Bij de controle wordt vastgesteld, dat de vermelde investeringskosten juist zijn. Er wordt nagegaan of er ook andere subsidies (steunsituatie) zijn verkregen. Hieronder zijn nadere aanwijzingen voor de controle verstrekt.
 
+Dit controleprotocol dient om de reikwijdte en het object van de accountantscontrole nader aan te geven. Niet beoogd wordt een aanpak van de accountantscontrole voor te schrijven. Veelal zal de accountant zich immers bij zijn controle baseren op een (risico)analyse van de administratieve organisatie en interne controle bij de te controleren subsidie-ontvanger en op basis daarvan komen tot een optimale afweging van de in te zetten controlemiddelen.
+
+Bij de controle wordt vastgesteld, dat de vermelde investeringskosten juist zijn. Er wordt nagegaan of er ook andere subsidies (steunsituatie) zijn verkregen. Hieronder zijn nadere aanwijzingen voor de controle verstrekt.
+
 De accountant controleert of de aanvraag voldoet aan de volgende eisen:
-
-De controle kan worden uitgevoerd door een registeraccountant (RA) of een accountant-administratieconsulent (AA). De gevraagde verklaring kan ook worden verstrekt door een niet als openbaar accountant optredende intern accountant.
-
-De auditdienst van het Ministerie van Economische Zaken kan een review uitvoeren op de uitgevoerde accountantscontrole inzake deze subsidie. De accountant, die de controle uitvoert, verstrekt de auditdienst desgevraagd alle inlichtingen en bescheiden op een wijze zoals deze dienst dat gewenst acht. De eventuele extra kosten van de externe accountant van de subsidieontvanger in verband met de review zijn voor rekening van de subsidieontvanger.
 
 ## Bijlage 2. behorende bij [artikel 6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023563&paragraaf=3&artikel=6&z=2011-07-01&g=2011-07-01), van de Algemene uitvoeringsregeling stimulering duurzame energieproductie
 
@@ -492,11 +494,11 @@ De auditdienst van het Ministerie van Economische Zaken kan een review uitvoeren
 
 Vervallen
 
-### Stimuleringsregeling duurzame energieproductie (SDE)
+### 5. Verslaglegging
 
 ### Stimuleringsregeling duurzame energieproductie (SDE)
 
-Dit formulier is verstrekt door en moet worden ingediend bij:
+Naast zijn oordeel over de financiële verantwoording vermeldt de accountant in een toelichtende paragraaf eventuele specifieke bevindingen, die naar het oordeel van de accountant van belang (kunnen) zijn voor de Minister van Economische Zaken.
 
 Bijlage 2 behorende bij [artikel 6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023563&paragraaf=3&sub-paragraaf=3.1&artikel=6&z=2015-05-08&g=2015-05-08), van de Algemene uitvoeringsregeling stimulering duurzame energieproductie
 
@@ -506,33 +508,37 @@ De duurzaamheidseisen behorende bij de categorieën **bestaande capaciteit voor 
 
 De biomassaverklaring moet per productie-installatie ingevuld worden. De verklaring wordt gebruikt om te controleren of de gebruikte biomassastromen overeenkomen met de voorwaarden van de SDE.
 
+De duurzaamheidseisen behorende bij de categorieën **bestaande capaciteit voor bij- en meestook**, **nieuwe capaciteit voor meestook** en **ketel industriële stoom uit houtpellets** bestaan uit principes die zijn uitgewerkt in onderliggende criteria. Waar nodig worden principes of criteria verduidelijkt met een toelichting. De duurzaamheidseisen zijn van toepassing op de eindgebruiker en categorieën biomassa die worden onderscheiden. De duurzaamheidseisen kennen de volgende opbouw.
+
+P1 Het gebruik van biomassa moet leiden tot een substantiële reductie van de uitstoot van broeikasgassen, berekend over de gehele keten, in vergelijking met het gebruik van fossiele brandstof.
+
 Uitsluitend biomassa categorieën die onderscheiden worden in tabel 1 en die voldoen aan de daarin gestelde eisen worden toegepast. De eindgebruiker voldoet aan de relevante eisen voor de chain of custody in hoofdstuk 6. Voor de eindgebruiker geldt de volgende eis ten aanzien van de broeikasgasbalans:
 
 P1 Het gebruik van biomassa moet leiden tot een substantiële reductie van de uitstoot van broeikasgassen, berekend over de gehele keten, in vergelijking met het gebruik van fossiele brandstof.
 
-C1.1 De berekende reductie van CO2eq uitstoot is gemiddeld over een jaar minimaal 70% ten opzichte van de EU referentiewaarde. De gemiddelde uitstoot van CO2eq bedraagt maximaal 56 g CO2eq/MJ voor elektriciteit en 24 g CO2eq/MJ voor warmte. Geen enkele levering van biomassa heeft een uitstoot boven de waarde van 74 g CO2eq/MJ voor elektriciteit en 32 g CO2eq/MJ warmte.
+### 3. Dossiergegevens
 
 Toelichting:
 
-### 3. Dossiergegevens
+De berekende maximale CO2eq-uitstoot dient gebaseerd te zijn op de meest recente publicatie van de Europese Commissie betreffende duurzaamheidscriteria voor vaste biomassa en verstrekte referentiewaarden voor fossiele brandstoffen. Het Staff Working Document: State of play on the sustainability of solid and gaseous biomass used for electricity, heating and cooling in the EU (SWD (2014) 259) vermeldt de volgende referentiewaarden voor fossiele brandstoffen: 186 gCO2eq/MJ voor elektriciteit en 80 gCO2eq /MJ voor warmte.
 
-2 Dit dient dezelfde code te zijn als de code waarop garanties van oorsprong of certificaten worden geregistreerd of het hernieuwbare gas of de hernieuwbare warmte wordt gemeten.
+Aan elk van de categorieën worden eisen gesteld betreffende duurzaamheid en de handelsketen (Chain of Custody) in de vorm van principes en/of criteria waaraan voldaan moet worden. De duurzaamheidsprincipes en criteria hebben betrekking op koolstof, verandering in landgebruik, naleving van de wetgeving en duurzaam beheer. In tabel 1 staat weergegeven welke principes van toepassing zijn op de onderscheiden categorieën biomassa.
 
 Er worden 5 categorieën biomassa onderscheiden.
 
 Aan elk van de categorieën worden eisen gesteld betreffende duurzaamheid en de handelsketen (Chain of Custody) in de vorm van principes en/of criteria waaraan voldaan moet worden. De duurzaamheidsprincipes en criteria hebben betrekking op koolstof, verandering in landgebruik, naleving van de wetgeving en duurzaam beheer. In tabel 1 staat weergegeven welke principes van toepassing zijn op de onderscheiden categorieën biomassa.
 
-Indien ‘nee’, ga door met onderdeel 4 van deze rapportage.
-
-De principes P6-12 zijn van toepassing op houtige biomassa uit bossen, ongeacht de grootte van de beheereenheid. Bij biomassa uit kleine bosbeheereenheden (< 500 ha, categorie 2) kan de duurzaamheid tijdelijk worden aangetoond op het niveau van een grotere samenhangende regio waarin het bos met een kleine beheereenheid ligt. In dat geval is het de eerste schakel in de keten – het eerste inzamelpunt – die gecertificeerd wordt. Meestal is dit de pellet mill. Aan de pellet mill worden eisen gesteld zoals het informeren van de beheerders in het aanvoergebied over de duurzaamheidseisen en het verifiëren van de naleving daarvan. Voor de te volgen procedure wordt verwezen naar het verificatieprotocol dat apart beschikbaar wordt gesteld.
-
-### 3. Eisen voor reststromen uit natuur- en landschapsbeheer en agrarische reststromen
+### Tijdelijke uitzondering definiëring eerste schakel CoC voor categorie 2
 
 ### 1. Gegevens aanvrager
 
-### 4. Dossiergegevens
+### 3. Eisen voor reststromen uit natuur- en landschapsbeheer en agrarische reststromen
 
 ### 4. Eisen voor koolstof en verandering in landgebruik
+
+C2.1 Best practices worden toegepast voor de instandhouding of verbetering van de bodem en de bodemkwaliteit met het oog op de productie of de beheerdoelstellingen zoals deze zijn vastgelegd in een beheerplan.
+
+C3.1 Biomassa is niet afkomstig van structureel gedraineerd land dat op 1 januari 2008 veengebied was, tenzij kan worden aangetoond dat de teelt en het oogsten van deze grondstoffen geen ontwatering van een voorheen niet-ontwaterde bodem met zich meebrengt.
 
 P3 Productie van ruwe biomassa mag niet leiden tot de vernietiging van koolstofreservoirs.
 
@@ -576,41 +582,41 @@ Toelichting:
 
 Kleine bosbeheereenheden uit categorie 2 zijn vrijgesteld van deze eis.
 
-ILUC-risico's moeten worden vastgesteld aan de hand van de methodologie en eisen van de LIIB-methodologie (LIIB = Low Indirect Impact Biofuels) of een gelijkwaardige methode. De methodologie wordt, indien daar aanleiding voor is, om de drie jaar geëvalueerd en aangepast als er een verbeterde methodologie beschikbaar komt.
-
-13000 assurance-opdrachten anders dan opdrachten tot controle of beoordeling van historische financiële informatie.
-
 ### Toelichting op format biomassaverklaring
 
 C6.1 De bosbeheerder heeft het juridische gebruiksrecht op het bos.
 
-C6.2 De bosbeheerder voldoet aan alle verplichtingen tot het betalen van belastingen en royalty’s.
+P6 Relevante internationale, nationale en regionale/lokale wet- en regelgeving dient te worden nageleefd.
 
-Toelichting: De betalingsverplichtingen betreffen niet alleen de houtkap maar ook andere betalingsverplichtingen verband houdend met het bosbeheer.
+C6.1 De bosbeheerder heeft het juridische gebruiksrecht op het bos.
 
 ### 5. Ondertekening
 
+Toelichting: De betalingsverplichtingen betreffen niet alleen de houtkap maar ook andere betalingsverplichtingen verband houdend met het bosbeheer.
+
+C6.3 Anticorruptie wetgeving, waar deze bestaat, wordt nageleefd. Bij gebrek aan anticorruptie wetgeving dient de (bos)beheerder andere anticorruptie maatregelen te treffen die in verhouding staan tot de schaal en intensiteit van de beheeractiviteiten en het risico op corruptie.
+
 P7 Biodiversiteit moet in stand worden gehouden en waar mogelijk versterkt.
 
-C7.1 Terreinen met een hoge beschermingswaarde en representatieve gebieden van bostypen die binnen de bosbeheereenheid voorkomen, zijn in kaart gebracht, geïnventariseerd, en worden beschermd en zo mogelijk versterkt.
+### Agentschap NL
 
 Toelichting: Terreinen met hoge beschermingswaarde zijn bijvoorbeeld terreinen met een bijzondere ecologische, archeologische of culturele waarde.
 
-### Agentschap NL
+C7.2. Er zijn maatregelen getroffen voor de bescherming van beschermde en bedreigde planten- en diersoorten en indien van toepassing versterking van de populatie en hun habitat.
 
 Toelichting:
 
 Plantensoorten omvatten tevens boomsoorten.
-
-Bij versterking van een habitat kan bijvoorbeeld gedacht worden aan nest gelegenheden in dode bomen.
-
-Beschermde en bedreigde planten- en diersoorten worden niet voor commerciële doeleinden geëxploiteerd.
 
 ## Bijlage 3. behorende bij [artikel 7, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023563&paragraaf=3&artikel=7&z=2010-01-23&g=2010-01-23), van de Algemene uitvoeringsregeling stimulering duurzame energieproductie
 
 ### Werkzaamheden
 
 ### Jaarlijkse biomassaverklaring bij de productie van hernieuwbaar gas
+
+C7.4 In het geval van houtplantages bestaat een voorkeur voor inheemse soorten, en een relevant gedeelte van het areaal van de houtplantage moet zich opnieuw kunnen ontwikkelen tot natuurlijk bos.
+
+Toelichting: 5% van het totale areaal wordt als een relevant gedeelte beschouwd.
 
 C7.5. De exploitatie van andere bosproducten dan hout, inclusief de producten van jacht en visserij, wordt gereguleerd, gemonitord en gecontroleerd onder andere om de instandhouding van de biodiversiteit binnen de bossen te waarborgen.
 
@@ -626,19 +632,15 @@ Toelichting: De instandhouding en zo nodig verbetering van grond- en oppervlakte
 
 C8.3 Belangrijke ecologische cycli, inclusief koolstof- en nutriëntenkringlopen, die in de bosbeheereenheid voorkomen, blijven behouden.
 
-Toelichting: bijvoorbeeld geen verlaging van het grondwaterpeil op veengronden; voorkoming van vertroebeling van stromen; maatregelen ter voorkoming van grootschalig weglekken van voedingsstoffen na houtkap.
+### Toelichting
 
 C8.4 Onnodige schade aan het ecosysteem wordt voorkomen door toepassing van voor de omstandigheden meest geschikte methoden en technieken voor houtkap (reduced impact logging) en wegenbouw.
 
-### Toelichting
+C8.5 Indien branden worden gebruikt voor het bereiken van beheerdoelstellingen zoals regeneratie van specifieke boomsoorten zijn er adequate veiligheidsmaatregelen getroffen.
 
 C8.6 Het bosbeheer is gericht op het voorkomen en beheersen van ziekten en plagen voor zover deze een bedreiging vormen voor het natuurlijk kapitaal.
 
 C8.7 Het gebruik van chemicaliën is slechts toegestaan indien maximaal gebruik van ecologische processen en duurzame alternatieven ontoereikend blijkt. Het gebruik van pesticiden die door de Wereldgezondheidsorganisatie geclassificeerd zijn als type 1A en 1B en van gechloreerde koolwaterstoffen is niet toegestaan.
-
-C8.8 Anorganisch afval en zwerfvuil wordt voorkomen, verzameld, op de aangegeven plaatsen opgeslagen en op een milieuverantwoorde wijze afgevoerd.
-
-P9 De productiecapaciteit van hout en relevante andere bosproducten dan hout moet in stand worden gehouden om de toekomst van de bossen te waarborgen.
 
 ### Stimuleringsregeling duurzame energieproductie (SDE)
 
@@ -648,31 +650,35 @@ P9 De productiecapaciteit van hout en relevante andere bosproducten dan hout moe
 
 ### Toelichting
 
-C10.1 Het bosbeheer biedt een redelijk perspectief op werkgelegenheid aan de plaatselijke bevolking, inclusief inheemse volken, evenals op het lokaal verwerken van hout en andere bosproducten dan hout.
+C9.2 De bosbeheereenheid wordt adequaat beschermd tegen illegale exploitatie van hout en niet-hout bosproducten, inclusief de producten van jacht en visserij, illegale vestiging van nederzettingen, illegaal landgebruik, illegaal gestichte branden en overige illegale activiteiten.
 
 ### 1. Definities
 
+C10.1 Het bosbeheer biedt een redelijk perspectief op werkgelegenheid aan de plaatselijke bevolking, inclusief inheemse volken, evenals op het lokaal verwerken van hout en andere bosproducten dan hout.
+
+Toelichting: De werkgelegenheid voor de plaatselijke bevolking, inclusief inheemse volken, kan gestimuleerd te worden, bijvoorbeeld door middel van opleidingsactiviteiten.
+
 P11 Duurzaam bosbeheer moet worden gerealiseerd op basis van een beheersysteem.
 
-C11.1 Het bosbeheer is gericht op realisatie van de doelstellingen die in een plan voor het bosbeheer zijn vastgelegd en omvat de cyclus van inventarisatie en analyse, planning, uitvoering, monitoring, evaluatie en bijstelling.
+### Houtige biomassa afkomstig uit (productie)bossen
 
 Toelichting: Met het toepassen van de management cyclus wordt een continue verbetering van het beheer beoogd teneinde de langdurige instandhouding van de bossen te waarborgen. Onderdeel van de planning is de uitvoering van een Environmental Impact Assessment (EIA).
 
-### Houtige biomassa afkomstig uit (productie)bossen
+C11.2 Er is een plan voor bosbeheer dat minimaal bestaat uit:
 
 Toelichting:
 
 Het bosbeheer plan dient duidelijke beschrijvingen (ecosystemen, soorten) en doelstellingen te bevatten, met in acht name van de economische, sociale en ecologische functies en aspecten. Dit betekent onder meer het in kaart brengen en adresseren van ecologisch waardevolle gebieden.
-
-Een realistische begroting moet de uitvoering van het plan mogelijk maken.
-
-C11.3 Essentiële elementen voor het bosbeheer zijn op kaarten aangegeven.
 
 ## Bijlage 4. behorend bij [artikel 8, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023563&paragraaf=4&artikel=8&z=2010-01-23&g=2010-01-23), van de Algemene uitvoeringsregeling stimulering duurzame energieproductie
 
 ### 2. Tabel duurzaamheidscriteria
 
 ### Jaarlijks voorschotformulier
+
+Het gaat hier in ieder geval om terreinen met hoge beschermingswaarden en gebieden waar houtoogst plaatsvindt.
+
+C11.4 De uitvoering van het plan voor het bosbeheer en de ecologische en economische effecten daarvan worden periodiek op basis van adequate gegevens gemonitord.
 
 Toelichting:
 
@@ -688,15 +694,15 @@ Toelichting: de entiteit dient voor de vastlegging van de verantwoordelijkheid v
 
 C12.2 Een groep of regioverband voldoet aan de eisen voor duurzaam bosbeheer. Bovendien voldoet het bosbeheer van ieder lid van een groep of regioverband aan deze eisen voor zover deze van toepassing zijn op het beheer van dat bos.
 
-Toelichting: een beschrijving van de status van het bos in de betreffende regio dient te worden gegeven en te worden aangetoond dat op lange termijn de koolstofvoorraden in stand blijven of groeien.
-
-Dit formulier is bedoeld om een verzoek in te dienen tot vaststelling van de subsidie op grond van de regeling Stimulering Duurzame Energieproductie (SDE) aan het eind van de subsidieperiode.
-
 ### Toelichting
 
 Toelichting:
 
 ### 2. Gegevens contactpersoon (indien afwijkend van onder 1 ingevulde gegevens)
+
+Toelichting:
+
+Er worden 5 biomassa categorieën onderscheiden (zie SDE+ bijlage 4 tabel 1) Deze hebben elk hun eigen bron (zie tabel hier onder)
 
 1 Voor kleine bosbeheereenheden geldt een tijdelijke uitzondering voor de bron en de eerste schakel. Zie voor een toelichting hoofdstuk 2 met overzicht eisen aan de onderscheiden categorieën biomassa.
 
@@ -706,11 +712,11 @@ C13.1 Iedere afzonderlijke organisatie in de Chain of Custody beschikt over een 
 
 C13.2 Iedere afzonderlijke organisatie in de Chain of Custody beschikt over de voor haar organisatie relevante broeikasgasuitstootgegevens die verkregen zijn volgens een methodiek, gebaseerd op de meest recente publicatie van de Europese Commissie betreffende duurzaamheidscriteria voor vaste biomassa en verstrekte referentiewaarden voor fossiele brandstoffen.
 
-Toelichting: Op dit moment is dat het Staff Working Document, SWD (2014) 259. (**Zie voor een nadere toelichting P1)**
+### 5. Wijzigingen
 
 C13.3 Het managementsysteem van iedere organisatie in de CoC waarborgt dat aan de eisen van deze CoC-standaard wordt voldaan.
 
-### 5. Wijzigingen
+Toelichting: Indien een organisatie het certificaat ook op uitbesteding van toepassing wil laten zijn, dient de organisatie erop toe te zien dat de (onder)aannemer labels van het systeem uitsluitend gebruikt voor producten die onder de uitbestedingsovereenkomst vallen.
 
 C13.4 Iedere afzonderlijke organisatie in de Chain of Custody registreert de **hoeveelheden** en de **namen en certificaatnummers** van de organisaties waarvan zij biomassa koopt en waaraan zij biomassa verkoopt.
 
@@ -719,10 +725,6 @@ C13.5 Ondernemers bewaren alle bewijsstukken gedurende **minimaal 5 jaar**.
 C13.6 Vermenging van materiaal met verschillende duurzaamheidseigenschappen afkomstig uit de categorieën 1 en 2 is toegestaan wanneer bij de eindgebruiker minimaal 70% van het mengsel aan alle relevante principes uit tabel 1 en de daaronder liggende criteria voldoet en het overige materiaal voldoet aan de volgende eisen:
 
 C13.7 Indien materialen met verschillende (duurzaamheids)kenmerken in de keten gemengd worden, wordt één of meer van de volgende benaderingen gevolgd:
-
-**Volume-credit methode:**
-
-De geregistreerde kenmerken en hoeveelheid van een onderscheiden outputstroom zijn gelijk aan de kenmerken en de hoeveelheid van de betreffende input stroom met in acht name van de conversie factor.
 
 ### 8. Ondertekening
 
@@ -736,6 +738,10 @@ De geregistreerde kenmerken en hoeveelheid van een onderscheiden outputstroom zi
 
 ### Model Geothermisch Onderzoek SDE+
 
+De duurzaamheidskenmerken hebben niet alleen betrekking op het duurzaam beheer van de bron maar ook op relevante broeikasuitstootgegevens die verkregen zijn volgens een methodiek gebaseerd op de meest recente publicatie van de Europese Commissie betreffende duurzaamheidseisen voor vaste biomassa en verstrekte referentiewaarden voor fossiele brandstoffen.
+
+De **percentage-based methode** mag uitsluitend worden gebruikt voor uit de bossen afkomstige biomassa.
+
 P14 Bij een groepsmanagementsysteem voor de chain of custody moet de groep als geheel aan dezelfde eisen voldoen als aan afzonderlijke bedrijven gesteld worden. In dit kader stelt het systeem de volgende eisen.
 
 C14.1 Een groep staat onder leiding van een juridische entiteit die verantwoordelijk is voor de groep als geheel. De entiteit beschikt over een management systeem waarmee effectief het aantal deelnemende locaties binnen de scope van het certificaat wordt aangestuurd.
@@ -744,11 +750,11 @@ Toelichting:
 
 De entiteit beschikt over een effectief managementsysteem, alsmede over technische en menselijke hulpmiddelen.
 
-De entiteit voert jaarlijks een audit uit bij een deel van de aangesloten groepsleden (op basis van een vastgestelde steekproefmethode).
+### 7. Algemene informatie
 
 C14.2 De groep werkt volgens P13 en de daartoe behorende criteria; daarnaast voldoet ieder groepslid aan deze eisen voor zover deze op de werkzaamheden van dat lid van toepassing zijn.
 
-### 7. Algemene informatie
+C14.3 De groepsleiding beschikt over een registratiesysteem waarin worden opgenomen:
 
 P15 Logo’s en labels die behoren tot een certificeringssysteem en voorkomen op producten en documenten moeten een ondubbelzinnige betekenis hebben en moeten toegepast worden in overeenstemming met de regels die vastgesteld zijn door het certificeringssysteem. In dit kader gelden de volgende eisen voor het certificatie systeem.
 
@@ -756,13 +762,9 @@ C15.1 De systeemmanager hanteert regels voor het gebruik van logo’s en labels 
 
 omschrijving van logo's en labels;
 
-C15.2 Het logo is auteursrechtelijk beschermd en als handelsmerk geregistreerd.
-
-C15.3 Er is een duidelijk beschreven mechanisme voor de controle van alle claims die gedaan worden over het gecertificeerde kenmerk van producten, dat ervoor zorgt dat claims duidelijk en accuraat zijn en dat actie ondernomen wordt om onjuiste of misleidende claims te voorkomen.
-
 ### 7. Definities
 
-Hier geeft u aan voor welk vermogen u aanspraak wilt maken op ondersteuning uit de SDE+ 2014 (het P50 vermogen).
+C15.3 Er is een duidelijk beschreven mechanisme voor de controle van alle claims die gedaan worden over het gecertificeerde kenmerk van producten, dat ervoor zorgt dat claims duidelijk en accuraat zijn en dat actie ondernomen wordt om onjuiste of misleidende claims te voorkomen.
 
 U presenteert:
 
@@ -772,29 +774,29 @@ Bijlage 5 behorende bij [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR002
 
 Waar u schrijfruimte tekort komt, mag u een bijlage toevoegen.
 
-Dit formulier is bedoeld om een verzoek in te dienen tot vaststelling van de subsidie op grond van de regeling Stimulering Duurzame Energieproductie (SDE) aan het eind van de subsidieperiode.
+Bijlage 5 behorende bij [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0023563&paragraaf=5&artikel=10&z=2016-07-01&g=2016-07-01) van de Algemene uitvoeringsregeling stimulering duurzame energieproductie
 
 Waar u schrijfruimte tekort komt, mag u een bijlage toevoegen.
 
-U presenteert:
+Dit formulier is bedoeld om een verzoek in te dienen tot vaststelling van de subsidie op grond van de regeling Stimulering Duurzame Energieproductie (SDE) aan het eind van de subsidieperiode.
 
 ### 2. Gegevens contactpersoon (indien afwijkend van onder 1 ingevulde gegevens)
 
 2 Naamloze vennootschap, maatschap, besloten vennootschap, commanditaire vennootschap, coöperatieve vereniging, onderlinge waarborgmaatschappij, vereniging, stichting, Europees economisch samenwerkingsverband, eenmanszaak.
 
-3 Dit dient dezelfde code te zijn als de code waarop garanties van oorsprong of certificaten worden geregistreerd of het hernieuwbare gas of de hernieuwbare warmte wordt gemeten.
+1 Indien u een particulier bent vult u hier uw volledige naam in. Vraag 1b t/m 1d slaat u dan over.
 
-Bij dit voorschotformulier moet u de volgende bijlagen meesturen:
+2 Naamloze vennootschap, maatschap, besloten vennootschap, commanditaire vennootschap, coöperatieve vereniging, onderlinge waarborgmaatschappij, vereniging, stichting, Europees economisch samenwerkingsverband, eenmanszaak.
 
 3 Dit dient dezelfde code te zijn als de code waarop garanties van oorsprong of certificaten worden geregistreerd of het hernieuwbare gas of de hernieuwbare warmte wordt gemeten.
 
 Agentschap NL is een agentschap van het Ministerie van Economische Zaken. Agentschap NL voert beleid uit voor diverse ministeries als het gaat om duurzaamheid, innovatie en internationaal. Agentschap NL is hèt aanspreekpunt voor bedrijven, kennisinstellingen en overheden. Voor informatie en advies, financiering, netwerken en wet- en regelgeving.
 
-**Vanaf 1 november 2009 worden alle bank- en betaalrekeningen vervangen door de zogenoemde IBAN (International Bank Account Number) en BIC (Bank Identifier Code). De IBAN en BIC bij uw bankrekening staan op uw bankafschrift of zijn te vinden op www.ibanbicservice.nl.**
+3 Dit dient dezelfde code te zijn als de code waarop garanties van oorsprong of certificaten worden geregistreerd of het hernieuwbare gas of de hernieuwbare warmte wordt gemeten.
 
 **U dient er hier echter rekening mee te houden dat u in uw aanvraagformulier hebt verklaard, door deze te ondertekenen, dat u Agentschap NL onverwijld schriftelijk melding zal doen van essentiële wijzigingen: gewijzigde datum van ingebruikname, gewijzigde aanvangsdatum van subsidieperiode, uitbedrijfname, renovatie en uitbreiding, langdurige stilstand, indien van toepassing ingrijpende wijzigingen van de brandstofmix, wijzigingen van de technische specificatie van de installatie, et cetera en daarnaast van wijzigingen in de gegevens van de aanvrager en de steunsituatie.**
 
-Zijn er ten opzichte van de bij Rijksdienst voor Ondernemend Nederland opgegeven gegevens wijzigingen opgetreden op de volgende punten?:
+**Vanaf 1 november 2009 worden alle bank- en betaalrekeningen vervangen door de zogenoemde IBAN (International Bank Account Number) en BIC (Bank Identifier Code). De IBAN en BIC bij uw bankrekening staan op uw bankafschrift of zijn te vinden op www.ibanbicservice.nl.**
 
 ## Bijlage 5. behorende bij [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0023563&paragraaf=5&artikel=10&z=2010-01-23&g=2010-01-23) van de Algemene uitvoeringsregeling stimulering duurzame energieproductie
 
@@ -803,6 +805,10 @@ Zijn er ten opzichte van de bij Rijksdienst voor Ondernemend Nederland opgegeven
 ### Vaststellingsformulier
 
 Dit formulier is te vinden op www.agentschapnl.nl/sde
+
+**U dient er hier echter rekening mee te houden dat u in uw aanvraagformulier hebt verklaard, door deze te ondertekenen, dat u Rijksdienst voor Ondernemend Nederland onverwijld schriftelijk melding zal doen van de indiening bij de rechtbank van een verzoek tot verlening van surséance van betaling of tot verzoek faillietverklaring of wanneer een verzoek is ingediend voor de schuldsaneringregeling natuurlijke personen of andere zaken die van invloed zijn op de subsidieverstrekking.**
+
+Aldus naar waarheid ingevuld,
 
 Zijn er nog andere gegevens, die voor de aanvraag om vaststelling van belang kunnen zijn?
 
@@ -816,10 +822,6 @@ Bij dit formulier voor aanvraag om vaststelling moet u de volgende bijlagen mees
 
 Controleer voordat u de aanvraag verstuurt of:
 
-Verzoek tot vaststelling van de geschiktheid van een productie-installatie voor de opwekking van hernieuwbare warmte en mededeling van meetgegevens van hernieuwbare warmte
-
-Bijlage 6 behorende bij [artikel 7e, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023563&paragraaf=3&sub-paragraaf=3.3&artikel=7e&z=2013-04-04&g=2013-04-04), van de Algemene uitvoeringsregeling stimulering duurzame energieproductie
-
 ### Model Geothermisch Onderzoek SDE+
 
 Bijlage 7 behorende bij [artikel 2, tweede lid, onder d](https://wetten.overheid.nl/jci1.3:c:BWBR0023563&paragraaf=2&artikel=2&z=2016-02-27&g=2016-02-27), van de Algemene uitvoeringsregeling stimulering duurzame energieproductie.
@@ -830,31 +832,31 @@ Dit model is te vinden op www.rvo.nl/sde
 
 ### 2. Gegevens contactpersoon (indien afwijkend van onder 1 ingevulde gegevens)
 
-### 3. Dossiergegevens
+### Toelichting
 
 ### 4. Rekeninggegevens
 
 ### 5. Wijzigingen
 
+Het geologisch onderzoek concentreert zich uiteraard op het inschatten van de geologische parameters. Met deze parameters en met de niet-geologische parameters (doublet, put- en pompspecificatie) berekent u de P50 waarde. Het resultaat presenteert u eveneens in het geologisch onderzoek.
+
+Voor het geologisch onderzoek geldt een verplichte hoofdstukindeling. Belangrijk is dat u telkens motiveert waarom u een bepaalde keuze gemaakt heeft. Als het onderwerp van een bepaalde paragraaf niet relevant is voor uw situatie, dan moet u dit met een korte motivatie noemen.
+
 TNO faciliteert het samenstellen van het geologisch onderzoek door via www.nlog.nl de volgende hulpmiddelen beschikbaar te stellen:
 
 Een uitgebreide toelichting op de verplichte hoofdstukindeling voor de SDE+ projecten vindt u via www.rvo.nl/sde.
-
-8017 JK Zwolle
-
-T. (088) 602 30 00 (receptie)
 
 Overige essentiële wijzigingen
 
 Met dit formulier verklaart u duurzame warmte te produceren en verzoekt u het toegelaten meetbedrijf vast te stellen of uw productie-installatie geschikt is voor de opwekking van duurzame warmte en of uw meetinrichting geschikt is voor de meting van duurzame warmte en verzoekt u het toegelaten meetbedrijf de meetgegevens met betrekking tot de door u geproduceerde duurzame warmte als zodanig mede te delen aan de Minister van Economische Zaken, Landbouw en Innovatie.
 
-### 6.. Algemene informatie
+### 1.1. Gepland doublet en gebruikte parameters
 
 U presenteert:
 
-Is voor de aanvrager faillissement aangevraagd?
+Hier geeft u aan voor welk vermogen u aanspraak wilt maken op ondersteuning uit de SDE+ 2014 (het P50 vermogen).
 
-Is voor de aanvrager een verzoek ingediend voor de schuldsaneringregeling natuurlijke personen?
+U presenteert:
 
 Zijn er andere subsidies of fiscale faciliteiten voor het project verstrekt die u nog niet heeft opgegeven in het aanvraagformulier of eerdere voorschotaanvraag?
 
@@ -914,7 +916,7 @@ Vervallen
 
 ##### Artikel 7b
 
-1. De subsidie-ontvanger die een productie-installatie bedrijft waarin vaste of gasvormige biomassa wordt omgezet in hernieuwbare elektriciteit, of hernieuwbare elektriciteit en hernieuwbare warmte geproduceerd door een productie-installatie voor de productie van elektriciteit door middel van kolen waarin biomassa wordt meegestookt of een productie-installatie bedrijft waarin vaste biomassa wordt omgezet in hernieuwbare warmte door middel van verbranding van houtpellets geproduceerd uit vaste biomassa in een ketel met een vermogen groter dan of gelijk aan 10 MW, zendt binnen vier maanden na afloop van ieder kalenderjaar waarover een voorschot wordt verstrekt aan de minister een verklaring waaruit blijkt dat de gebruikte biomassa aan de duurzaamheidscriteria, bedoeld in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0023563&paragraaf=3&sub-paragraaf=3.2&artikel=7&z=2016-02-27&g=2016-02-27), voldoet, met gebruikmaking van een middel dat door de minister beschikbaar wordt gesteld.
+1. De subsidie-ontvanger die een productie-installatie bedrijft waarin vaste of gasvormige biomassa wordt omgezet in hernieuwbare elektriciteit, of hernieuwbare elektriciteit en hernieuwbare warmte geproduceerd door een productie-installatie voor de productie van elektriciteit door middel van kolen waarin biomassa wordt meegestookt of een productie-installatie bedrijft waarin vaste biomassa wordt omgezet in hernieuwbare warmte door middel van verbranding van houtpellets geproduceerd uit vaste biomassa in een ketel met een vermogen groter dan of gelijk aan 10 MW, zendt binnen vier maanden na afloop van ieder kalenderjaar waarover een voorschot wordt verstrekt aan de minister een verklaring waaruit blijkt dat de gebruikte biomassa aan de duurzaamheidscriteria, bedoeld in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0023563&paragraaf=3&sub-paragraaf=3.2&artikel=7&z=2016-07-01&g=2016-07-01), voldoet, met gebruikmaking van een middel dat door de minister beschikbaar wordt gesteld.
 
 2. De subsidie-ontvanger toont voor het deel van de rapportage betreffende houtige biomassa afkomstig uit een bosbeheereenheid die kleiner is dan 500 hectare dat betrekking heeft op het duurzaam bosbeheer op regionaal niveau of op het niveau van de bosbeheereenheid aan dat aan de duurzaamheidscriteria is voldaan, met uitzondering van:
 
@@ -942,17 +944,17 @@ Bezoekadres
 
 Bijlage 1 behorende bij [artikel 3, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023563&paragraaf=3&sub-paragraaf=3.1&artikel=3&z=2015-05-08&g=2015-05-08), van de Algemene uitvoeringsregeling stimulering duurzame energieproductie
 
-### TEN BEHOEVE VAN HET MINISTERIE VAN ECONOMISCHE ZAKEN, LANDBOUW EN INNOVATIE
+### Toelichting
 
 ### MODEL ACCOUNTANTSVERKLARING
 
-Bezoekadres
+In dit document is ook het controleprotocol opgenomen.
 
-### Opdracht
+### MODEL ACCOUNTANTSVERKLARING
 
 Wij hebben het bijgevoegde overzicht van investeringskosten en de steunsituatie van [.....naam aanvrager.....] te [.....statutaire vestigingsplaats.....] gewaarmerkt en gecontroleerd.
 
-Het overzicht van de investeringskosten en steunsituatie is opgesteld onder verantwoordelijkheid van de leiding van [.....naam huishouding.....]
+Wij hebben het bijgevoegde overzicht van investeringskosten en de steunsituatie van [.....naam aanvrager.....] te [.....statutaire vestigingsplaats.....] gewaarmerkt en gecontroleerd.
 
 ### Werkzaamheden
 
@@ -960,27 +962,27 @@ Het overzicht van de investeringskosten en steunsituatie is opgesteld onder vera
 
 ### Toelichtende paragraaf
 
-Wij hebben het bijgevoegde overzicht van investeringskosten en de steunsituatie van [.....naam aanvrager.....] te [.....statutaire vestigingsplaats.....] gewaarmerkt en gecontroleerd.
+Wij zijn van oordeel dat de verstrekte informatie voldoet aan de daaraan te stellen eisen. [.....c.q. andere oordelen.....].
 
-[.....indien van toepassing toelichting op de verklaring en eventuele specifieke bevindingen.....]
+Ondergetekende, [naam, titel], verklaart dat de investeringskosten van de gesubsidieerde activiteiten gevestigd te [.....], locatiegegevens van de installatie [....], in totaal EUR [.....]. hebben bedragen.
 
 Naam accountantskantoor:
 
 ### CONTROLE-PROTOCOL
 
-Ondertekening:
+Naam accountant (RA/AA):
 
 ### CONTROLE-PROTOCOL
 
-De controle kan worden uitgevoerd door een registeraccountant (RA) of een accountant-administratieconsulent (AA). De gevraagde verklaring kan ook worden verstrekt door een niet als openbaar accountant optredende intern accountant.
+Ondertekening:
 
-De accountantscontrole verschafteen redelijke mate van zekerheid aan de gebruiker van de verklaring. Volgens de richtlijnen voor de accountantscontrole betekent dit dat de accountant een (relatief) hoge, maar geen absolute mate van zekerheid verschaft. Indien dit begrip ten behoeve van het gebruik van statistische technieken moet worden gekwantificeerd, dan dient een betrouwbaarheid van 95% te worden gehanteerd.
+Voor de strekking van de accountantsverklaring, goedkeurend, met beperking, afkeurend of oordeelonthouding, zijn de volgende toleranties bepalend:
 
 ### 3. Reikwijdte en intensiteit van de accountantscontrole
 
-Dit controleprotocol dient om de reikwijdte en het object van de accountantscontrole nader aan te geven. Niet beoogd wordt een aanpak van de accountantscontrole voor te schrijven. Veelal zal de accountant zich immers bij zijn controle baseren op een (risico)analyse van de administratieve organisatie en interne controle bij de te controleren subsidie-ontvanger en op basis daarvan komen tot een optimale afweging van de in te zetten controlemiddelen.
+Inzake het omgaan met geconstateerde fouten geldt de gedragslijn, dat geconstateerde fouten, die invloed hebben op de omvang van de subsidie van EZ en die herstelbaar zijn, moeten worden gecorrigeerd. Dat geldt ook voor fouten waarbij de tolerantiegrens niet wordt overschreden. De niet herstelde fouten wegen mee in de oordeelsvorming over de aanvraag.
 
-### 4. Review van de accountantscontrole
+### 3. Reikwijdte en intensiteit van de accountantscontrole
 
 ## Bijlage 1a
 
@@ -990,9 +992,9 @@ Ligt ter inzage bij SenterNovem te Zwolle.
 
 Naast zijn oordeel over de financiële verantwoording vermeldt de accountant in een toelichtende paragraaf eventuele specifieke bevindingen, die naar het oordeel van de accountant van belang (kunnen) zijn voor de Minister van Economische Zaken.
 
-Inzake het omgaan met geconstateerde fouten geldt de gedragslijn, dat geconstateerde fouten, die invloed hebben op de omvang van de subsidie van EL&I en die herstelbaar zijn, moeten worden gecorrigeerd. Dat geldt ook voor fouten waarbij de tolerantiegrens niet wordt overschreden. De niet herstelde fouten wegen mee in de oordeelsvorming over de aanvraag.
+De accountant legt de uitkomsten van de controle vast in een accountantsverklaring. Voor deze verklaring dient de tekst te worden gehanteerd conform de model verklaring.
 
-De berekende maximale CO2eq-uitstoot dient gebaseerd te zijn op de meest recente publicatie van de Europese Commissie betreffende duurzaamheidscriteria voor vaste biomassa en verstrekte referentiewaarden voor fossiele brandstoffen. Het Staff Working Document: State of play on the sustainability of solid and gaseous biomass used for electricity, heating and cooling in the EU (SWD (2014) 259) vermeldt de volgende referentiewaarden voor fossiele brandstoffen: 186 gCO2eq/MJ voor elektriciteit en 80 gCO2eq /MJ voor warmte.
+C1.1 De berekende reductie van CO2eq uitstoot is gemiddeld over een jaar minimaal 70% ten opzichte van de EU referentiewaarde. De gemiddelde uitstoot van CO2eq bedraagt maximaal 56 g CO2eq/MJ voor elektriciteit en 24 g CO2eq/MJ voor warmte. Geen enkele levering van biomassa heeft een uitstoot boven de waarde van 74 g CO2eq/MJ voor elektriciteit en 32 g CO2eq/MJ warmte.
 
 ### 3. Dossiergegevens
 
@@ -1010,19 +1012,19 @@ C2.1 Best practices worden toegepast voor de instandhouding of verbetering van d
 
 ### 4. Dossiergegevens
 
-P6 Relevante internationale, nationale en regionale/lokale wet- en regelgeving dient te worden nageleefd.
+ILUC-risico's moeten worden vastgesteld aan de hand van de methodologie en eisen van de LIIB-methodologie (LIIB = Low Indirect Impact Biofuels) of een gelijkwaardige methode. De methodologie wordt, indien daar aanleiding voor is, om de drie jaar geëvalueerd en aangepast als er een verbeterde methodologie beschikbaar komt.
 
-C6.3 Anticorruptie wetgeving, waar deze bestaat, wordt nageleefd. Bij gebrek aan anticorruptie wetgeving dient de (bos)beheerder andere anticorruptie maatregelen te treffen die in verhouding staan tot de schaal en intensiteit van de beheeractiviteiten en het risico op corruptie.
+C6.2 De bosbeheerder voldoet aan alle verplichtingen tot het betalen van belastingen en royalty’s.
 
-C7.2. Er zijn maatregelen getroffen voor de bescherming van beschermde en bedreigde planten- en diersoorten en indien van toepassing versterking van de populatie en hun habitat.
+C7.1 Terreinen met een hoge beschermingswaarde en representatieve gebieden van bostypen die binnen de bosbeheereenheid voorkomen, zijn in kaart gebracht, geïnventariseerd, en worden beschermd en zo mogelijk versterkt.
 
 ### Assurance rapport
 
+Bij versterking van een habitat kan bijvoorbeeld gedacht worden aan nest gelegenheden in dode bomen.
+
+Beschermde en bedreigde planten- en diersoorten worden niet voor commerciële doeleinden geëxploiteerd.
+
 C7.3 Conversie van bossen binnen de bosbeheereenheid naar andere vormen van grondgebruik, met inbegrip van houtplantages, is niet toegestaan tenzij deze:
-
-C7.4 In het geval van houtplantages bestaat een voorkeur voor inheemse soorten, en een relevant gedeelte van het areaal van de houtplantage moet zich opnieuw kunnen ontwikkelen tot natuurlijk bos.
-
-Toelichting: 5% van het totale areaal wordt als een relevant gedeelte beschouwd.
 
 ### Werkzaamheden
 
@@ -1034,7 +1036,7 @@ Toelichting: 5% van het totale areaal wordt als een relevant gedeelte beschouwd.
 
 ### 5. Ondertekening
 
-C8.5 Indien branden worden gebruikt voor het bereiken van beheerdoelstellingen zoals regeneratie van specifieke boomsoorten zijn er adequate veiligheidsmaatregelen getroffen.
+Toelichting: bijvoorbeeld geen verlaging van het grondwaterpeil op veengronden; voorkoming van vertroebeling van stromen; maatregelen ter voorkoming van grootschalig weglekken van voedingsstoffen na houtkap.
 
 ## Bijlage 4. behorend bij artikel 8, eerste lid, van de Algemene uitvoeringsregeling stimulering duurzame energieproductie
 
@@ -1044,21 +1046,21 @@ Vervallen
 
 ### 1. Classificatie soorten biomassa en toepassing criteria
 
-Toelichting: Overexploitatie van afzonderlijke commerciële boomsoorten dient voorkomen te worden.
+P9 De productiecapaciteit van hout en relevante andere bosproducten dan hout moet in stand worden gehouden om de toekomst van de bossen te waarborgen.
 
-C9.2 De bosbeheereenheid wordt adequaat beschermd tegen illegale exploitatie van hout en niet-hout bosproducten, inclusief de producten van jacht en visserij, illegale vestiging van nederzettingen, illegaal landgebruik, illegaal gestichte branden en overige illegale activiteiten.
+C9.1 De productiecapaciteit van ieder bostype binnen de bosbeheereenheid wordt in stand gehouden.
+
+Toelichting: Overexploitatie van afzonderlijke commerciële boomsoorten dient voorkomen te worden.
 
 P10 Het bosbeheer moet bijdragen aan de lokale economie en werkgelegenheid.
 
-Toelichting: De werkgelegenheid voor de plaatselijke bevolking, inclusief inheemse volken, kan gestimuleerd te worden, bijvoorbeeld door middel van opleidingsactiviteiten.
-
-C11.2 Er is een plan voor bosbeheer dat minimaal bestaat uit:
+C11.1 Het bosbeheer is gericht op realisatie van de doelstellingen die in een plan voor het bosbeheer zijn vastgelegd en omvat de cyclus van inventarisatie en analyse, planning, uitvoering, monitoring, evaluatie en bijstelling.
 
 ### 5. Wijzigingen
 
-Het gaat hier in ieder geval om terreinen met hoge beschermingswaarden en gebieden waar houtoogst plaatsvindt.
+C11.3 Essentiële elementen voor het bosbeheer zijn op kaarten aangegeven.
 
-C11.4 De uitvoering van het plan voor het bosbeheer en de ecologische en economische effecten daarvan worden periodiek op basis van adequate gegevens gemonitord.
+Toelichting:
 
 ### 3. Beoordelingstabel voor biomassa vanuit het oogpunt van koolstofschuld
 
@@ -1070,13 +1072,13 @@ C11.4 De uitvoering van het plan voor het bosbeheer en de ecologische en economi
 
 ### 6. Eisen voor de chain of custody
 
-P13 Er dient een Chain of Custody (CoC) te bestaan voor de biomassa van de eerste schakel in de keten, tot aan de bio-energieproducent, die voorziet in een koppeling tussen de bron en het materiaal in het product of de productlijn, en waarvan de broeikasgasuitstootgegevens van iedere afzonderlijke schakel (operator) bekend zijn.
+Toelichting: een beschrijving van de status van het bos in de betreffende regio dient te worden gegeven en te worden aangetoond dat op lange termijn de koolstofvoorraden in stand blijven of groeien.
 
 ### 2. Gegevens contactpersoon (indien afwijkend van onder 1 ingevulde gegevens)
 
 ### 8. Ondertekening
 
-Toelichting: Indien een organisatie het certificaat ook op uitbesteding van toepassing wil laten zijn, dient de organisatie erop toe te zien dat de (onder)aannemer labels van het systeem uitsluitend gebruikt voor producten die onder de uitbestedingsovereenkomst vallen.
+Toelichting: Op dit moment is dat het Staff Working Document, SWD (2014) 259. (**Zie voor een nadere toelichting P1)**
 
 ## Bijlage 6
 
@@ -1150,29 +1152,29 @@ Productie-installaties, met uitzondering van productie-installaties voor de prod
 
 ## Bijlage 1. behorende bij [artikel 3, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023563&paragraaf=3&sub-paragraaf=3.1&artikel=3&z=2015-05-08&g=2015-05-08), van de Algemene uitvoeringsregeling stimulering duurzame energieproductie
 
-Met dit formulier kan de accountant een verklaring afgeven zoals bedoeld in [artikel 3, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023563&paragraaf=3&sub-paragraaf=3.1&artikel=3&z=2016-02-27&g=2016-02-27), van de Algemene uitvoeringsregeling stimulering duurzame energieproductie. Dit betreft een overzicht van de investeringskosten en de overige subsidies en steunsituatie. Dit laatste is noodzakelijk in verband met de EU-steunregels ten behoeve van het milieu (EU-Milieu Steun Kader). Deze accountantsverklaring is nodig wanneer aan de subsidie-ontvanger op grond van het Besluit stimulering duurzame energieproductie een subsidie is verstrekt van meer dan € 125.000,–.
+Bijlage 1 behorende bij [artikel 3, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023563&paragraaf=3&sub-paragraaf=3.1&artikel=3&z=2016-07-01&g=2016-07-01), van de Algemene uitvoeringsregeling stimulering duurzame energieproductie
 
 ### Oordeel
 
-### Opdracht
+### Oordeel
 
 ### Werkzaamheden
 
-### 2. Toleranties en gewenste zekerheid
+### CONTROLE-PROTOCOL
 
-Voor de strekking van de accountantsverklaring, goedkeurend, met beperking, afkeurend of oordeelonthouding, zijn de volgende toleranties bepalend:
+De controle kan worden uitgevoerd door een registeraccountant (RA) of een accountant-administratieconsulent (AA). De gevraagde verklaring kan ook worden verstrekt door een niet als openbaar accountant optredende intern accountant.
 
 ### 2. Toleranties en gewenste zekerheid
 
 Naast zijn oordeel over de financiële verantwoording vermeldt de accountant in een toelichtende paragraaf eventuele specifieke bevindingen, die naar het oordeel van de accountant van belang (kunnen) zijn voor de Minister van Economische Zaken.
 
-De accountant legt de uitkomsten van de controle vast in een accountantsverklaring. Voor deze verklaring dient de tekst te worden gehanteerd conform de model verklaring.
+De auditdienst van het Ministerie van Economische Zaken kan een review uitvoeren op de uitgevoerde accountantscontrole inzake deze subsidie. De accountant, die de controle uitvoert, verstrekt de auditdienst desgevraagd alle inlichtingen en bescheiden op een wijze zoals deze dienst dat gewenst acht. De eventuele extra kosten van de externe accountant van de subsidieontvanger in verband met de review zijn voor rekening van de subsidieontvanger.
 
 ### Biomassaverklaring hernieuwbare warmte en hernieuwbaar gas
 
 ### 1. Eisen aan de eindgebruiker
 
-### 1. Gegevens aanvrager
+### 1. Eisen aan de eindgebruiker
 
 ## Bijlage 1a
 
@@ -1180,11 +1182,11 @@ Ligt ter inzage bij SenterNovem te Zwolle.
 
 ## Bijlage 2. behorende bij [artikel 6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023563&paragraaf=3&sub-paragraaf=3.1&artikel=6&z=2013-04-04&g=2013-04-04), van de Algemene uitvoeringsregeling stimulering duurzame energieproductie
 
-### Biomassaverklaring hernieuwbare warmte en hernieuwbaar gas
+### 2. Onderscheiden categorieën biomassa
+
+De principes P6-12 zijn van toepassing op houtige biomassa uit bossen, ongeacht de grootte van de beheereenheid. Bij biomassa uit kleine bosbeheereenheden (< 500 ha, categorie 2) kan de duurzaamheid tijdelijk worden aangetoond op het niveau van een grotere samenhangende regio waarin het bos met een kleine beheereenheid ligt. In dat geval is het de eerste schakel in de keten – het eerste inzamelpunt – die gecertificeerd wordt. Meestal is dit de pellet mill. Aan de pellet mill worden eisen gesteld zoals het informeren van de beheerders in het aanvoergebied over de duurzaamheidseisen en het verifiëren van de naleving daarvan. Voor de te volgen procedure wordt verwezen naar het verificatieprotocol dat apart beschikbaar wordt gesteld.
 
 P2 De kwaliteit van de bodem moet in stand worden gehouden en waar mogelijk versterkt.
-
-Administratieve batches van grondstoffen (hoeveelheid product met identieke eigenschappen qua grondstof) mogen in één regel worden samengevoegd. Er mogen meerdere fysieke ladingen van dezelfde grondstof bij elkaar opgeteld worden.
 
 ### Toelichting
 
@@ -1194,7 +1196,7 @@ Administratieve batches van grondstoffen (hoeveelheid product met identieke eige
 
 ### Assurance rapport productie hernieuwbare warmte of hernieuwbaar gas uit biomassa
 
-### Ondertekening
+### 5. Eisen voor duurzaam bosbeheer
 
 ## Bijlage 3. behorende bij [artikel 7, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023563&paragraaf=3&sub-paragraaf=3.2&artikel=7&z=2013-04-04&g=2013-04-04), van de Algemene uitvoeringsregeling stimulering duurzame energieproductie
 
@@ -1202,13 +1204,13 @@ Administratieve batches van grondstoffen (hoeveelheid product met identieke eige
 
 ### Overige informatie
 
-C9.1 De productiecapaciteit van ieder bostype binnen de bosbeheereenheid wordt in stand gehouden.
+C8.8 Anorganisch afval en zwerfvuil wordt voorkomen, verzameld, op de aangegeven plaatsen opgeslagen en op een milieuverantwoorde wijze afgevoerd.
 
 ### Houtige biomassa afkomstig uit (productie)bossen
 
 ### Opdracht
 
-Er worden 5 biomassa categorieën onderscheiden (zie SDE+ bijlage 4 tabel 1) Deze hebben elk hun eigen bron (zie tabel hier onder)
+P13 Er dient een Chain of Custody (CoC) te bestaan voor de biomassa van de eerste schakel in de keten, tot aan de bio-energieproducent, die voorziet in een koppeling tussen de bron en het materiaal in het product of de productlijn, en waarvan de broeikasgasuitstootgegevens van iedere afzonderlijke schakel (operator) bekend zijn.
 
 ### 3. Dossiergegevens
 
@@ -1226,27 +1228,27 @@ Vervallen
 
 ### Model Geothermisch Onderzoek SDE+
 
-C14.3 De groepsleiding beschikt over een registratiesysteem waarin worden opgenomen:
+De entiteit voert jaarlijks een audit uit bij een deel van de aangesloten groepsleden (op basis van een vastgestelde steekproefmethode).
 
-Voor het geologisch onderzoek geldt een verplichte hoofdstukindeling. Belangrijk is dat u telkens motiveert waarom u een bepaalde keuze gemaakt heeft. Als het onderwerp van een bepaalde paragraaf niet relevant is voor uw situatie, dan moet u dit met een korte motivatie noemen.
+C15.2 Het logo is auteursrechtelijk beschermd en als handelsmerk geregistreerd.
 
 ### Vaststellingsformulier
 
 ### 1.2. Verwacht vermogen en overschrijdingskansgrafiek
 
-### 3. Dossiergegevens
+### 1. Gegevens aanvrager
 
 ### 3. Dossiergegevens
 
-### 4. Rekeninggegevens
+### 3. Dossiergegevens
 
 ### 6. Algemene informatie
 
 **U dient er hier echter rekening mee te houden dat u in uw aanvraagformulier hebt verklaard, door deze te ondertekenen, dat u Rijksdienst voor Ondernemend Nederland onverwijld schriftelijk melding zal doen van essentiële wijzigingen: gewijzigde datum van ingebruikname, gewijzigde aanvangsdatum van subsidieperiode, uitbedrijfname, renovatie en uitbreiding, langdurige stilstand, indien van toepassing ingrijpende wijzigingen van de brandstofmix, wijzigingen van de technische specificatie van de installatie, et cetera en daarnaast van wijzigingen in de gegevens van de aanvrager en de steunsituatie.**
 
-**U dient er hier echter rekening mee te houden dat u in uw aanvraagformulier hebt verklaard, door deze te ondertekenen, dat u Rijksdienst voor Ondernemend Nederland onverwijld schriftelijk melding zal doen van de indiening bij de rechtbank van een verzoek tot verlening van surséance van betaling of tot verzoek faillietverklaring of wanneer een verzoek is ingediend voor de schuldsaneringregeling natuurlijke personen of andere zaken die van invloed zijn op de subsidieverstrekking.**
+**U dient er hier echter rekening mee te houden dat u in uw aanvraagformulier hebt verklaard, door deze te ondertekenen, dat u Rijksdienst voor Ondernemend Nederland onverwijld schriftelijk melding zal doen van essentiële wijzigingen: gewijzigde datum van ingebruikname, gewijzigde aanvangsdatum van subsidieperiode, uitbedrijfname, renovatie en uitbreiding, langdurige stilstand, indien van toepassing ingrijpende wijzigingen van de brandstofmix, wijzigingen van de technische specificatie van de installatie, et cetera en daarnaast van wijzigingen in de gegevens van de aanvrager en de steunsituatie.**
 
-### 7. Opmerkingen
+### 6. Algemene informatie
 
 ## Bijlage 6. behorende bij [artikel 7e, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023563&paragraaf=3&sub-paragraaf=3.3&artikel=7e&z=2013-04-04&g=2013-04-04) van de Algemene uitvoeringsregeling stimulering duurzame energieproductie
 
@@ -1254,17 +1256,17 @@ Voor het geologisch onderzoek geldt een verplichte hoofdstukindeling. Belangrijk
 
 Dit formulier is te vinden op www.agentschapnl.nl/sde
 
-NL Energie en Klimaat
+Bijlage 7 behorende bij [artikel 2, tweede lid, onder d](https://wetten.overheid.nl/jci1.3:c:BWBR0023563&paragraaf=2&artikel=2&z=2016-07-01&g=2016-07-01), van de Algemene uitvoeringsregeling stimulering duurzame energieproductie.
+
+Dit model is te vinden op www.rvo.nl/sde
+
+In dit Model Geologisch Onderzoek SDE+ staat aangegeven welke aspecten u daarin dient te behandelen.
 
 Bij uw SDE+ subsidieaanvraag in de categorieën Geothermie moet u als bijlage bij het aanvraagformulier een geologisch onderzoek toevoegen.
 
 In dit Model Geologisch Onderzoek SDE+ staat aangegeven welke aspecten u daarin dient te behandelen.
 
-Het geologisch onderzoek concentreert zich uiteraard op het inschatten van de geologische parameters. Met deze parameters en met de niet-geologische parameters (doublet, put- en pompspecificatie) berekent u de P50 waarde. Het resultaat presenteert u eveneens in het geologisch onderzoek.
-
-Voor het geologisch onderzoek geldt een verplichte hoofdstukindeling. Belangrijk is dat u telkens motiveert waarom u een bepaalde keuze gemaakt heeft. Als het onderwerp van een bepaalde paragraaf niet relevant is voor uw situatie, dan moet u dit met een korte motivatie noemen.
-
-### 1.1. Gepland doublet en gebruikte parameters
+### Verplichte inhoudsopgave ‘Geologisch Onderzoek’
 
 Hier geeft u aan voor welk vermogen u aanspraak wilt maken op ondersteuning uit de SDE+ 2014 (het P50 vermogen).
 
@@ -1286,11 +1288,11 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst met ui
 
 ### ten behoeve van het Ministerie van Economische Zaken
 
+### Opdracht
+
 ### Werkzaamheden
 
-### Oordeel
-
-Naam accountant (RA/AA):
+Vestigingsplaats:
 
 ### CONTROLE-PROTOCOL
 
@@ -1334,11 +1336,11 @@ Naam accountant (RA/AA):
 
 ### 1.2. Verwacht vermogen en overschrijdingskansgrafiek
 
+**Volume-credit methode:**
+
+De geregistreerde kenmerken en hoeveelheid van een onderscheiden outputstroom zijn gelijk aan de kenmerken en de hoeveelheid van de betreffende input stroom met in acht name van de conversie factor.
+
 **Percentage-based methode:**
-
-Het percentage materiaal in een product of productlijn dat aan de relevante principes uit tabel 1 en de daaronder liggende criteria voldoet wordt vermeld.
-
-**Voor beide methoden** geldt:
 
 ### 5. Ondertekening
 
@@ -1348,9 +1350,9 @@ Het percentage materiaal in een product of productlijn dat aan de relevante prin
 
 ### Toelichting
 
-### Verplichte onderdelen samenvatting ‘geologisch onderzoek’
+### Stimuleringsregeling duurzame energieproductie (SDE)
 
-### Toelichting
+### Vaststellingsformulier
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst met uitzondering van de bijlagen, die ter inzage worden gelegd bij SenterNovem, Dokter van Deenweg 108, 8025 BK Zwolle.
 
@@ -1372,7 +1374,7 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst met ui
 
 ### Biogeen afval en restproducten uit de categorieën 4-7
 
-Toelichting:
+Een realistische begroting moet de uitvoering van het plan mogelijk maken.
 
 ## Bijlage 5. behorende bij [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0023563&paragraaf=5&artikel=10&z=2015-05-08&g=2015-05-08) van de Algemene uitvoeringsregeling stimulering duurzame energieproductie
 
@@ -1400,7 +1402,7 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst met ui
 
 ##### Artikel 8a
 
-1. De productie, bedoeld in [artikel 8, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0023563&paragraaf=4&artikel=8&z=2016-02-27&g=2016-02-27), in verband met een beschikking op een aanvraag die op of na 1 december 2015 is ingediend, wordt verminderd met het aantal kWh dat is ingevoed op een elektriciteitsnet gedurende elke periode waarin de prijs van elektriciteit negatief is, tenzij desbetreffende periode korter dan zes uur duurt.
+1. De productie, bedoeld in [artikel 8, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0023563&paragraaf=4&artikel=8&z=2016-07-01&g=2016-07-01), in verband met een beschikking op een aanvraag die op of na 1 december 2015 is ingediend, wordt verminderd met het aantal kWh dat is ingevoed op een elektriciteitsnet gedurende elke periode waarin de prijs van elektriciteit negatief is, tenzij desbetreffende periode korter dan zes uur duurt.
 
 2. Het eerste lid is niet van toepassing ten aanzien van een subsidieontvanger van wie het nominaal geïnstalleerd vermogen voor elektriciteitsproductie per aansluiting op het elektriciteitsnet minder dan 500 kW bedraagt of, indien het de productie van elektriciteit uit windenergie betreft, minder dan 3 MW bedraagt.
 
@@ -1410,21 +1412,21 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst met ui
 
 ##### Artikel 14c
 
-De vermindering van de productie die op grond van [artikel 8a](https://wetten.overheid.nl/jci1.3:c:BWBR0023563&paragraaf=4&artikel=8a&z=2016-02-27&g=2016-02-27) wordt toegepast, wordt tevens toegepast op het aantal kWh dat jaarlijks voor subsidie in aanmerking komt, bedoeld in [artikel 15, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022735&artikel=15), en [artikel 23, eerste lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0022735&artikel=23).
+De vermindering van de productie die op grond van [artikel 8a](https://wetten.overheid.nl/jci1.3:c:BWBR0023563&paragraaf=4&artikel=8a&z=2016-07-01&g=2016-07-01) wordt toegepast, wordt tevens toegepast op het aantal kWh dat jaarlijks voor subsidie in aanmerking komt, bedoeld in [artikel 15, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022735&artikel=15), en [artikel 23, eerste lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0022735&artikel=23).
 
 #### § 7. Slotbepalingen
 
 ## Bijlage 1. behorende bij [artikel 3, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023563&paragraaf=3&sub-paragraaf=3.1&artikel=3&z=2016-02-27&g=2016-02-27), van de Algemene uitvoeringsregeling stimulering duurzame energieproductie
 
-### Toelichting
+### Stimuleringsregeling duurzame energieproductie (SDE)
 
 ### ten behoeve van het Ministerie van Economische Zaken
 
-### Ondertekening door accountant
+### Toelichtende paragraaf
 
 ### 2. Toleranties en gewenste zekerheid
 
-### 5. Verslaglegging
+### 4. Review van de accountantscontrole
 
 ## Bijlage 1a
 
@@ -1440,7 +1442,7 @@ Vervallen
 
 ### Tijdelijke uitzondering definiëring eerste schakel CoC voor categorie 2
 
-### Ondertekening
+### 4. Eisen voor koolstof en verandering in landgebruik
 
 ## Bijlage 3. behorende bij [artikel 7, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023563&paragraaf=3&sub-paragraaf=3.2&artikel=7&z=2015-12-02&g=2015-12-02), van de Algemene uitvoeringsregeling stimulering duurzame energieproductie
 
@@ -1460,11 +1462,11 @@ Vervallen
 
 ### Toelichting
 
-### 1. Gegevens aanvrager
+### 6. Eisen voor de chain of custody
 
-Toelichting:
+Het percentage materiaal in een product of productlijn dat aan de relevante principes uit tabel 1 en de daaronder liggende criteria voldoet wordt vermeld.
 
-De duurzaamheidskenmerken hebben niet alleen betrekking op het duurzaam beheer van de bron maar ook op relevante broeikasuitstootgegevens die verkregen zijn volgens een methodiek gebaseerd op de meest recente publicatie van de Europese Commissie betreffende duurzaamheidseisen voor vaste biomassa en verstrekte referentiewaarden voor fossiele brandstoffen.
+**Voor beide methoden** geldt:
 
 ## Bijlage 7. behorende bij [artikel 2, tweede lid, onder d](https://wetten.overheid.nl/jci1.3:c:BWBR0023563&paragraaf=2&artikel=2&z=2015-12-02&g=2015-12-02), van de Algemene uitvoeringsregeling stimulering duurzame energieproductie
 
@@ -1472,31 +1474,33 @@ De duurzaamheidskenmerken hebben niet alleen betrekking op het duurzaam beheer v
 
 ### 1.1. Gepland doublet en gebruikte parameters
 
-### Stimuleringsregeling duurzame energieproductie (SDE)
+### 7. Definities
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst met uitzondering van de bijlagen, die ter inzage worden gelegd bij SenterNovem, Dokter van Deenweg 108, 8025 BK Zwolle.
 
-## Bijlage 3. behorende bij [artikel 7, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023563&paragraaf=3&sub-paragraaf=3.2&artikel=7&z=2016-02-27&g=2016-02-27), van de Algemene uitvoeringsregeling stimulering duurzame energieproductie
+## Bijlage 1a
 
 Vervallen
 
-## Bijlage 4. , behorende bij [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0023563&paragraaf=3&sub-paragraaf=3.2&artikel=7&z=2016-02-27&g=2016-02-27) van de Algemene uitvoeringsregeling stimulering duurzame energieproductie
+## Bijlage 2. behorende bij [artikel 6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023563&paragraaf=3&sub-paragraaf=3.1&artikel=6&z=2016-07-01&g=2016-07-01), van de Algemene uitvoeringsregeling stimulering duurzame energieproductie
+
+Vervallen
 
 ### 5. Eisen voor duurzaam bosbeheer
 
-De **percentage-based methode** mag uitsluitend worden gebruikt voor uit de bossen afkomstige biomassa.
+Toelichting:
 
 ## Bijlage 5. behorende bij [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0023563&paragraaf=5&artikel=10&z=2016-02-27&g=2016-02-27) van de Algemene uitvoeringsregeling stimulering duurzame energieproductie
 
 ### 1. Gegevens aanvrager
 
-1 Indien u een particulier bent vult u hier uw volledige naam in. Vraag 1b t/m 1d slaat u dan over.
+Waar u schrijfruimte tekort komt, mag u een bijlage toevoegen.
 
 ### 2. Gegevens contactpersoon (indien afwijkend van onder 1 ingevulde gegevens)
 
-### 5. Wijzigingen
+### 4. Rekeninggegevens
 
-### 8. Ondertekening
+### 7. Opmerkingen
 
 ## Bijlage 6. behorende bij [artikel 7e, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023563&paragraaf=3&sub-paragraaf=3.3&artikel=7e&z=2016-02-27&g=2016-02-27) van de Algemene uitvoeringsregeling stimulering duurzame energieproductie
 
@@ -1507,6 +1511,54 @@ Vervallen
 ### Verplichte inhoudsopgave ‘Geologisch Onderzoek’
 
 ### Verplichte onderdelen samenvatting ‘geologisch onderzoek’
+
+### Verplichte onderdelen samenvatting ‘geologisch onderzoek’
+
+Deze regeling zal met de toelichting in de Staatscourant worden geplaatst met uitzondering van de bijlagen, die ter inzage worden gelegd bij SenterNovem, Dokter van Deenweg 108, 8025 BK Zwolle.
+
+##### Artikel 14d*
+
+Dit onderdeel is nog niet inwerking getreden
+
+##### Artikel 14d
+
+1. Indien een subsidie die op grond van het besluit wordt verleend, staatssteun bevat die door het milieu – en energiesteunkader wordt gerechtvaardigd, maakt de minister binnen zes maanden na de datum van subsidieverlening de gegevens, bedoeld in paragraaf 5.2.7, onderdeel 104, van het milieu- en energiesteunkader, bekend.
+
+2. De gegevens, bedoeld in het eerste lid, blijven voor ten minste tien jaar openbaar beschikbaar.
+
+#### § 7. Slotbepalingen
+
+## Bijlage 1. behorende bij [artikel 3, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023563&paragraaf=3&sub-paragraaf=3.1&artikel=3&z=2016-07-01&g=2016-07-01), van de Algemene uitvoeringsregeling stimulering duurzame energieproductie
+
+### 1. Doelstelling
+
+### 2. Toleranties en gewenste zekerheid
+
+## Bijlage 3. behorende bij [artikel 7, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023563&paragraaf=3&sub-paragraaf=3.2&artikel=7&z=2016-07-01&g=2016-07-01), van de Algemene uitvoeringsregeling stimulering duurzame energieproductie
+
+Vervallen
+
+## Bijlage 4. , behorende bij [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0023563&paragraaf=3&sub-paragraaf=3.2&artikel=7&z=2016-07-01&g=2016-07-01) van de Algemene uitvoeringsregeling stimulering duurzame energieproductie
+
+## Bijlage 5. behorende bij [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0023563&paragraaf=5&artikel=10&z=2016-07-01&g=2016-07-01) van de Algemene uitvoeringsregeling stimulering duurzame energieproductie
+
+### Toelichting
+
+### 2. Gegevens contactpersoon (indien afwijkend van onder 1 ingevulde gegevens)
+
+### 5. Wijzigingen
+
+Zijn er ten opzichte van de bij Rijksdienst voor Ondernemend Nederland opgegeven gegevens wijzigingen opgetreden op de volgende punten?:
+
+### 8. Ondertekening
+
+## Bijlage 6. behorende bij [artikel 7e, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023563&paragraaf=3&sub-paragraaf=3.3&artikel=7e&z=2016-07-01&g=2016-07-01) van de Algemene uitvoeringsregeling stimulering duurzame energieproductie
+
+Vervallen
+
+## Bijlage 7. behorende bij [artikel 2, tweede lid, onder d](https://wetten.overheid.nl/jci1.3:c:BWBR0023563&paragraaf=2&artikel=2&z=2016-07-01&g=2016-07-01), van de Algemene uitvoeringsregeling stimulering duurzame energieproductie
+
+### Model Geothermisch Onderzoek SDE+
 
 ### 1.2. Verwacht vermogen en overschrijdingskansgrafiek
 
