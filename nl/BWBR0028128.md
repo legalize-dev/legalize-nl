@@ -4,7 +4,7 @@ identifier: "BWBR0028128"
 country: "nl"
 rank: "rijkswet"
 publication_date: "2016-07-01"
-last_updated: "2010-10-10"
+last_updated: "2016-07-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0028128"
 soort: "rijkswet"
@@ -42,6 +42,8 @@ Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
 Alzo Wij in overweging genomen hebben, dat het noodzakelijk is, verschillende rijkswetten te wijzigen in verband met de verkrijging van de hoedanigheid van land binnen het Koninkrijk door Curaçao en Sint Maarten en de toetreding van Bonaire, Sint Eustatius en Saba tot het Nederlandse staatsbestel;
 
 Zo is het, dat Wij, de Raad van State van het Koninkrijk gehoord, en met gemeen overleg der Staten-Generaal, de bepalingen van het Statuut voor het Koninkrijk in acht genomen zijnde, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
+
+Treedt in werking om 00:00 uur in Aruba, Curaçao, Sint Maarten, Bonaire, Sint Eustatius en Saba en om 06.00 uur in het Europese deel van het Koninkrijk.
 
 ### Hoofdstuk 1. Ministerie van Binnenlandse Zaken en Koninkrijksrelaties
 
