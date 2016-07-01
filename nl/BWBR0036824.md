@@ -4,7 +4,7 @@ identifier: "BWBR0036824"
 country: "nl"
 rank: "beleidsregel"
 publication_date: "2016-07-01"
-last_updated: "2015-07-14"
+last_updated: "2016-07-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0036824"
 soort: "beleidsregel"
@@ -44,11 +44,11 @@ Besluit:
 
 In deze beleidsregel wordt verstaan onder:
 
-- **beschermd monument:** beschermd monument als bedoeld in [artikel 1 van de Monumentenwet 1988](https://wetten.overheid.nl/jci1.3:c:BWBR0004471&artikel=1);
-
 - **minister:** Minister van Onderwijs, Cultuur en Wetenschap;
 
-- **monument:** monument als bedoeld in [artikel 1 van de Monumentenwet 1988](https://wetten.overheid.nl/jci1.3:c:BWBR0004471&artikel=1).
+- **monument:** monument als bedoeld in [artikel 1.1 van de Erfgoedwet](https://wetten.overheid.nl/jci1.3:c:BWBR0037521&artikel=1.1);
+
+- **rijksmonument:** rijksmonument als bedoeld in [artikel 1.1 van de Erfgoedwet](https://wetten.overheid.nl/jci1.3:c:BWBR0037521&artikel=1.1).
 
 ##### Artikel 2. Reikwijdte
 
@@ -56,11 +56,11 @@ De minister kan op aanvraag van een eigenaar van een onroerend monument dat gele
 
 - a. dit monument verband houdt met het Nederlands cultureel erfgoed; en
 
-- b. het in aanmerking zou komen voor aanwijzing als beschermd monument als het monument op het grondgebied van Nederland had gelegen.
+- b. het in aanmerking zou komen voor aanwijzing als rijksmonument als het monument op het grondgebied van Nederland had gelegen.
 
 ##### Artikel 3. Voorwaarden
 
-De minister verstrekt een erkenning alleen indien de aanvrager aantoont dat het monument voldoet aan de criteria, bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0036824&artikel=4&z=2015-07-14&g=2015-07-14).
+De minister verstrekt een erkenning alleen indien de aanvrager aantoont dat het monument voldoet aan de criteria, bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0036824&artikel=4&z=2016-07-01&g=2016-07-01).
 
 ##### Artikel 4. Beoordelingscriteria
 
@@ -74,7 +74,7 @@ De minister verstrekt een erkenning alleen indien de aanvrager aantoont dat het 
 
 - 2°. een essentieel toonbeeld van een voor Nederland belangrijke cultuurhistorische of sociaalhistorische ontwikkeling;
 
-- c. als het in Nederland had gelegen een wezenlijke aanvulling zou vormen op het bestand aan beschermde monumenten;
+- c. als het in Nederland had gelegen een wezenlijke aanvulling zou vormen op het bestand aan rijksmonumenten;
 
 - d. zowel technisch als functioneel een positief behoudsperspectief heeft op zijn oorspronkelijke buitenlandse locatie; en
 
@@ -166,7 +166,7 @@ De minister verstrekt een erkenning alleen indien de aanvrager aantoont dat het 
 
 - g. recente kleurenfoto’s van exterieur en interieur, die een duidelijk overzicht geven van het monument en inzicht geven in de waardevolle details;
 
-- h. een onderbouwing waarmee wordt aangetoond dat voldaan wordt aan de criteria in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0036824&artikel=4&z=2015-07-14&g=2015-07-14), met kopieën van de daarvoor gebruikte literatuur en documenten.
+- h. een onderbouwing waarmee wordt aangetoond dat voldaan wordt aan de criteria in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0036824&artikel=4&z=2016-07-01&g=2016-07-01), met kopieën van de daarvoor gebruikte literatuur en documenten.
 
 3. De aanvrager verstrekt de minister op diens verzoek een door een beëdigde vertaler gemaakte vertaling van de ingediende documenten.
 
