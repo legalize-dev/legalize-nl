@@ -4,7 +4,7 @@ identifier: "BWBR0012356"
 country: "nl"
 rank: "kb"
 publication_date: "2019-07-01"
-last_updated: "2013-07-19"
+last_updated: "2016-07-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0012356"
 soort: "KB"
@@ -46,23 +46,23 @@ Hebben goedgevonden en verstaan:
 
 - a. Onze Minister: Onze Minister van Defensie;
 
-- b. vredesoperatie: inzet of ter beschikking stellen van de krijgsmacht als bedoeld in [artikel 100, eerste lid, van de Grondwet](https://wetten.overheid.nl/jci1.3:c:BWBR0001840&artikel=100), ter handhaving of bevordering van de vrede;
+- b. internationale missie: inzet of ter beschikking stellen van de krijgsmacht als bedoeld in [artikel 100, eerste lid, van de Grondwet](https://wetten.overheid.nl/jci1.3:c:BWBR0001840&artikel=100), ter handhaving of bevordering van de internationale rechtsorde;
 
-- c. herinneringsmedaille: medaille, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0012356&artikel=2&z=2013-07-19&g=2013-07-19);
+- c. herinneringsmedaille: medaille, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0012356&artikel=2&z=2016-07-01&g=2016-07-01);
 
-- d. gesp: gesp, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0012356&artikel=2&z=2013-07-19&g=2013-07-19);
+- d. gesp: gesp, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0012356&artikel=2&z=2016-07-01&g=2016-07-01);
 
 - e. versierselen: herinneringsmedaille dan wel gesp.
 
-2. Met een vredesoperatie als bedoeld in het eerste lid, onder b, wordt gelijkgesteld de uitzending van politie, in overeenstemming met Onze Minister, ter handhaving of bevordering van de vrede.
+2. Met een internationale missie als bedoeld in het eerste lid, onder b, wordt gelijkgesteld de uitzending van politie, in overeenstemming met Onze Minister, ter handhaving of bevordering van de internationale rechtsorde.
 
-3. Onze Minister kan operaties, niet zijnde een vredesoperatie als bedoeld in het eerste lid onder b, waarbij niet tot de krijgsmacht behorende personen die vanwege de Staat zijn uitgezonden ter handhaving of bevordering van de vrede, gelijkstellen met een vredesoperatie.
+3. Onze Minister kan missies, niet zijnde een internationale missie als bedoeld in het eerste lid onder b, waarbij niet tot de krijgsmacht behorende personen die vanwege de Staat zijn uitgezonden ter handhaving of bevordering van de internationale rechtsorde, gelijkstellen met een internationale missie.
 
-4. Onze Minister kan operaties waarbij inzet of ter beschikking stellen van de krijgsmacht ten behoeve van de verdediging en ter bescherming van de belangen van het Koninkrijk heeft plaatsgevonden, gelijkstellen met een vredesoperatie.
+4. Onze Minister kan operaties waarbij inzet of ter beschikking stellen van de krijgsmacht ten behoeve van de verdediging en ter bescherming van de belangen van het Koninkrijk heeft plaatsgevonden, gelijkstellen met een internationale missie.
 
 ##### Artikel 2
 
-Er wordt ingesteld een Herinneringsmedaille Vredesoperaties, waaraan een of meer gespen worden verbonden.
+Er wordt ingesteld een Herinneringsmedaille Internationale Missies, waaraan een of meer gespen worden verbonden.
 
 ##### Artikel 3
 
@@ -74,17 +74,17 @@ Er wordt ingesteld een Herinneringsmedaille Vredesoperaties, waaraan een of meer
 
 1. Onze Minister kan, in overeenstemming met Onze Ministers van Buitenlandse Zaken en van Veiligheid en Justitie, gespen instellen die worden verbonden aan de herinneringsmedaille.
 
-2. De gesp is vervaardigd van bronskleurig metaal en wordt op het lint bevestigd. Op de gesp is in kapitale letters een aanduiding van de vredesoperatie vermeld, eventueel gevolgd door een jaartal.
+2. De gesp is vervaardigd van bronskleurig metaal en wordt op het lint bevestigd. Op de gesp is in kapitale letters een aanduiding van de internationale missie vermeld, eventueel gevolgd door een jaartal.
 
 ##### Artikel 5
 
 1. De versierselen worden toegekend aan degene die:
 
-- a. gedurende ten minste dertig dagen aaneengesloten heeft deelgenomen aan een vredesoperatie; en
+- a. gedurende ten minste dertig dagen aaneengesloten heeft deelgenomen aan een internationale missie; en
 
 - b. bij zijn deelname in alle opzichten een goede plichtsbetrachting en een goed gedrag heeft betoond.
 
-2. Voor de berekening van de diensttijd, bedoeld in het eerste lid, wordt uitsluitend in aanmerking genomen het verblijf binnen een door Onze Minister aan te wijzen operatiegebied voorzover dit verblijf heeft plaatsgevonden op of na 9 oktober 2000.
+2. Voor de berekening van de diensttijd, bedoeld in het eerste lid, wordt uitsluitend in aanmerking genomen het verblijf binnen een door Onze Minister aan te wijzen missiegebied voorzover dit verblijf heeft plaatsgevonden op of na 9 oktober 2000.
 
 3. Onze Minister kan:
 
@@ -98,13 +98,11 @@ Er wordt ingesteld een Herinneringsmedaille Vredesoperaties, waaraan een of meer
 
 1. De herinneringsmedaille wordt toegekend met een gesp.
 
-2. Aan degene die reeds is onderscheiden met de herinneringsmedaille wordt, indien hij opnieuw voor toekenning in aanmerking komt, in plaats van de versierselen, bedoeld in het eerste lid, uitsluitend een gesp toegekend.
+2. Aan degene die reeds is onderscheiden met de herinneringsmedaille of met een Herinneringsmedaille Vredesoperaties wordt, indien hij opnieuw voor toekenning in aanmerking komt, in plaats van de versierselen, bedoeld in het eerste lid, uitsluitend een gesp toegekend.
 
-3. Indien meer gespen zijn toegekend, worden deze boven elkaar geplaatst; de eerst verkregen gesp direct boven de herinneringsmedaille.
+3. Indien meer gespen zijn toegekend, worden deze boven elkaar geplaatst; de eerst verkregen gesp direct boven de herinneringsmedaille of boven de Herinneringsmedaille Vredesoperaties.
 
-4. Bij herhaalde deelname aan een vredesoperatie waarvoor een gesp is ingesteld, wordt, indien de betrokkene ter zake van deze herhaalde deelname voor toekenning in aanmerking komt, een gesp toegekend waarop door middel van een Arabisch cijfer het aantal toegekende gespen voor de desbetreffende vredesoperatie wordt vermeld. Deze gesp wordt in plaats van de laatstelijk voor de desbetreffende vredesoperatie toegekende gesp aan de herinneringsmedaille verbonden.
-
-5. Indien aan de herinneringsmedaille vier gespen zijn verbonden wordt, indien de betrokkene opnieuw voor toekenning in aanmerking komt, anders dan op grond van herhaalde deelname als bedoeld in het vierde lid, een tweede of volgende herinneringsmedaille toegekend, waaraan een gesp is verbonden.
+4. Bij herhaalde deelname aan een internationale missie waarvoor een gesp is ingesteld, wordt, indien de betrokkene ter zake van deze herhaalde deelname voor toekenning in aanmerking komt, een gesp toegekend waarop door middel van een Arabisch cijfer het aantal toegekende gespen voor de desbetreffende internationale missie wordt vermeld. Deze gesp wordt in plaats van de laatstelijk voor de desbetreffende internationale missie toegekende gesp aan de herinneringsmedaille of de Herinneringsmedaille Vredesoperaties verbonden.
 
 ##### Artikel 7
 
@@ -154,6 +152,12 @@ Dit besluit treedt in werking met ingang van 1 juni 2001.
 
 ##### Artikel 15
 
-Dit besluit wordt aangehaald als: Besluit Herinneringsmedaille Vredesoperaties.
+Dit besluit wordt aangehaald als: Besluit Herinneringsmedaille Internationale Missies.
+
+Onze Minister van Defensie is belast met de uitvoering van dit besluit dat met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst en waarvan afschrift zal worden gezonden aan de Kanselier der Nederlandse Orden.
+
+##### Artikel 13a
+
+Per 1 juli 2016 berust het [Besluit gespen Herinneringsmedaille Vredesoperaties](https://wetten.overheid.nl/jci1.3:c:BWBR0012681) op het Besluit Herinneringsmedaille Internationale Missies.
 
 Onze Minister van Defensie is belast met de uitvoering van dit besluit dat met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst en waarvan afschrift zal worden gezonden aan de Kanselier der Nederlandse Orden.
