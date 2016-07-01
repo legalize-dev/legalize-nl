@@ -4,7 +4,7 @@ identifier: "BWBR0036561"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2021-07-01"
-last_updated: "2015-07-01"
+last_updated: "2016-07-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0036561"
 soort: "ministeriele-regeling"
@@ -40,6 +40,8 @@ Gelet op [artikel 111, vierde lid, van de Wegenverkeerswet 1994](https://wetten.
 
 BESLUIT:
 
+Treedt in werking op het tijdstip waarop artikel I van de Wijzigingswet Wegenverkeerswet 1994, enz. (invoering rijbewijsplicht landbouw- en bosbouwtrekkers en motorrijtuigen met beperkte snelheid (T-rijbewijs)) in werking treedt.
+
 ##### Artikel 1
 
 De eisen waaraan de aanvrager van het theorie-examen voor de rijbewijscategorie T moet voldoen, zijn nader uitgewerkt in de bij deze regeling behorende bijlage Toetsmatrijs theorie-examen rijbewijscategorie T.
@@ -52,8 +54,28 @@ Deze regeling treedt in werking op het tijdstip waarop [artikel I van de wet van
 
 Deze regeling wordt aangehaald als: Regeling eisen theorie-examen rijbewijscategorie T.
 
-## Bijlage. bij [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0036561&artikel=1&z=2015-07-01&g=2015-07-01) van de Regeling eisen theorie-examen rijbewijscategorie T
+## Bijlage. bij [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0036561&artikel=1&z=2016-07-01&g=2016-07-01) van de Regeling eisen theorie-examen rijbewijscategorie T
 
 ### Eind- en toetstermen voor het theorie-examen voor de rijbewijscategorie T
+
+Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
+
+### Toelichting
+
+Eindtermen: Dit zijn de hoofdonderwerpen die in het examen voorkomen. Hierin staat 'ruim' omschreven wat er in het examen terug kan komen.
+
+Toetstermen: Dit zijn onderdelen van een eindterm. Hierin staat meer uitgebreid omschreven wat er in het examen terug kan komen.
+
+Afbakening: Dit zijn onderdelen van een toetsterm. Hier staat over welke onderwerpen vragen gesteld mogen worden in het examen. Als er geen afbakening is opgenomen, mag over die toetsterm in principe alles gevraagd worden.
+
+Tax: Dit is de taxonomiecode van Romiszowski. Deze code geeft aan op welk niveau de vragen over een toetsterm gesteld worden.
+
+F = Feitelijke kennis. De kandidaat kan feiten reproduceren (herkennen of herinneren).
+
+B = Begripsmatige kennis. De kandidaat kan begrippen of principes omschrijven.
+
+R = Reproductieve vaardigheden. De kandidaat kan acties uitvoeren die volgens een vastgelegde procedure verlopen.
+
+P = Productieve vaardigheden. De kandidaat kan acties uitvoeren waarbij hij zijn eigen creativiteit en inzicht nodig heeft.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
