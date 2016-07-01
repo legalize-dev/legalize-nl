@@ -4,7 +4,7 @@ identifier: "BWBR0028581"
 country: "nl"
 rank: "amvb_bes"
 publication_date: "2016-07-01"
-last_updated: "2010-10-10"
+last_updated: "2016-07-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0028581"
 soort: "AMvB-BES"
@@ -46,6 +46,8 @@ Gezien het nader rapport van de Staatssecretaris van Binnenlandse Zaken en Konin
 
 Hebben goedgevonden en verstaan:
 
+Treedt in werking op het tijdstip waarop de Veiligheidswet BES in werking treedt.
+
 ### Hoofdstuk 1. Algemene bepalingen
 
 ### Hoofdstuk 2. Brandweerpersoneel
@@ -54,17 +56,17 @@ Hebben goedgevonden en verstaan:
 
 ##### Artikel 2
 
-Dit onderdeel is nog niet inwerking getreden
+Bij ministeriële regeling worden voor het personeel van het brandweerkorps regels gesteld over de functies, genoemd in de [bijlagen 1](https://wetten.overheid.nl/jci1.3:c:BWBR0028581&bijlage=1&z=2016-07-01&g=2016-07-01) en [1A](https://wetten.overheid.nl/jci1.3:c:BWBR0028581&bijlage=1a&z=2016-07-01&g=2016-07-01), en de daarbij behorende eisen over opleiden, examineren, bijscholen en oefenen.
 
 ##### Artikel 3
 
-1. Dit lid is nog niet in werking getreden.
+1. Bij de functies, genoemd in de [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0028581&bijlage=1&z=2016-07-01&g=2016-07-01), behoren functiegerichte opleidingen die worden afgesloten met een Caribisch examen, voor zover daarbij uitsluitend de aanduiding «CN» is vermeld. Voor zover bij de functies uitsluitend de aanduiding «EN» is vermeld, behoren daarbij functiegerichte opleidingen die worden afgesloten met een Europees examen, gevolgd door een op de lokale praktijk in Caribisch Nederland gerichte, beperkte bijscholing. Voor zover bij de functies de aanduiding «CN/EN» is vermeld behoren daarbij functiegerichte opleidingen die worden afgesloten met een Caribisch examen, waarvoor als alternatief gelden functiegerichte opleidingen die worden afgesloten met een Europees examen.
 
-2. Voor de functies, genoemd in de bijlage, gelden van laag naar hoog de volgende rangen: brandwacht, hoofdbrandwacht, hoofdbrandwacht, brandmeester, adjunct-hoofdbrandmeester, hoofdbrandmeester, commandeur en adjunct-hoofdcommandeur.
+2. Voor de functies, genoemd in de [bijlagen 1](https://wetten.overheid.nl/jci1.3:c:BWBR0028581&bijlage=1&z=2016-07-01&g=2016-07-01) en [1A](https://wetten.overheid.nl/jci1.3:c:BWBR0028581&bijlage=1a&z=2016-07-01&g=2016-07-01), gelden van laag naar hoog de volgende rangen: brandwacht, hoofdbrandwacht, brandmeester, hoofdbrandmeester, commandeur en adjunct-hoofdcommandeur.
 
 #### § 2.2. Aanstelling en bevordering
 
-#### § 2.3. Kleding en uitrusting
+#### § 2.2. Aanstelling en bevordering
 
 ##### Artikel 8
 
@@ -130,15 +132,15 @@ Ten behoeve van de uitvoering van de taken, genoemd in [artikel 27, tweede en de
 
 3. De eenheid beschikt over een hulpverleningsvoertuig met uitrusting.
 
-### Hoofdstuk 4. Overgangs- en slotbepalingen
+### Hoofdstuk 3. Organisatie brandweerkorps
 
 ##### Artikel 13
 
-Dit onderdeel is nog niet inwerking getreden
+Bij ministeriële regeling kunnen regels worden gegeven over de gelijkstelling van diploma’s van het personeel van de brandweer die zijn verstrekt tot de dag voorafgaand aan de inwerkingtreding van dit artikel, met het diploma dan wel deel van het diploma van de bij de desbetreffende functie behorende opleiding.
 
 ##### Artikel 14
 
-1. Indien het bij koninklijk besluit van 9 november 2009 ingediende voorstel van wet houdende bepalingen over de politie en over de brandweerzorg, de rampenbestrijding en de crisisbeheersing op Bonaire, Sint Eustatius en Saba ([Veiligheidswet BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028586)) tot wet is verheven en die wet in werking treedt, treden de [artikelen 3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028581&hoofdstuk=2&paragraaf=2.1&artikel=3&z=2010-10-10&g=2010-10-10), en [8 tot en met 12](https://wetten.overheid.nl/jci1.3:c:BWBR0028581&hoofdstuk=2&paragraaf=2.3&artikel=8&z=2010-10-10&g=2010-10-10) van dit besluit op hetzelfde tijdstip in werking.
+1. Indien het bij koninklijk besluit van 9 november 2009 ingediende voorstel van wet houdende bepalingen over de politie en over de brandweerzorg, de rampenbestrijding en de crisisbeheersing op Bonaire, Sint Eustatius en Saba ([Veiligheidswet BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028586)) tot wet is verheven en die wet in werking treedt, treden de [artikelen 3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028581&hoofdstuk=2&paragraaf=2.1&artikel=3&z=2016-07-01&g=2016-07-01), en [8 tot en met 12](https://wetten.overheid.nl/jci1.3:c:BWBR0028581&hoofdstuk=2&paragraaf=2.3&artikel=8&z=2016-07-01&g=2016-07-01) van dit besluit op hetzelfde tijdstip in werking.
 
 2. De andere artikelen treden in werking op een bij koninklijk besluit te bepalen tijdstip, dat voor de verschillende artikelen of onderdelen daarvan verschillend kan worden vastgesteld.
 
@@ -171,5 +173,109 @@ Dit besluit wordt aangehaald als: Besluit brandweer BES.
 | specialist opleiden en oefenen | maximaal hoofdbrandmeester | nee |
 | vakofficier van dienst | adjunct-hoofdbrandmeester | ja |
 | voertuigbediener | brandwacht of hoofdbrandwacht | ja |
+
+Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
+
+##### Artikel 1
+
+In dit besluit wordt verstaan onder:
+
+- a. **functie:** samenstel van te verrichten werkzaamheden;
+
+- b. **geneeskundig onderzoek:** geneeskundig onderzoek als bedoeld in [artikel 3, eerste lid, onderdeel c, van het Rechtspositiebesluit ambtenaren BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028693&artikel=3).
+
+### Hoofdstuk 2. Brandweerpersoneel
+
+#### § 2.1. Functies
+
+##### Artikel 4
+
+1. Onze Minister kan een persoon slechts aanstellen of bevorderen tot een of meer functies, genoemd in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0028581&bijlage=1&z=2016-07-01&g=2016-07-01), indien deze
+
+- a. in het bezit is van het diploma van de bij de desbetreffende functie behorende opleiding; en
+
+- b. voor zover het betreft de aanstelling of bevordering tot de functie bevelvoerder, bevelvoerder vliegtuigbrandbestrijding, chauffeur/voertuigbediener, hoofdofficier van dienst, instructeur A, instructeur B, manschap A, manschap A vliegtuigbrandbestrijding, manschap B, officier van dienst, on scene commander of vakofficier van dienst, op basis van een geneeskundig onderzoek geschikt is geoordeeld voor het verrichten van die functie.
+
+2. Onze Minister kan ontheffing verlenen voor het in het bezit zijn van het diploma van de bij de desbetreffende functie behorende opleiding, bedoeld in het eerste lid, onder a.
+
+3. In afwijking van het eerste lid, onder a, kan degene die een opleiding volgt tot een van de functies, genoemd in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0028581&bijlage=1&z=2016-07-01&g=2016-07-01), als aspirant tot de desbetreffende functie worden aangesteld of bevorderd.
+
+4. De [artikelen 3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028693&artikel=3), [5](https://wetten.overheid.nl/jci1.3:c:BWBR0028693&artikel=5), en [6, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028693&artikel=6), voor zover dit artikel 5 van overeenkomstige toepassing verklaart, van het [Rechtspositiebesluit ambtenaren BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028693) zijn niet van toepassing op het geneeskundig onderzoek, bedoeld in het eerste lid, onderdeel b.
+
+##### Artikel 5
+
+Onverminderd [artikel 7 van het Rechtspositiebesluit ambtenaren BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028693&artikel=7), wordt het personeelslid, aangesteld of bevorderd tot een functie als bedoeld in [artikel 4, eerste lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0028581&hoofdstuk=2&paragraaf=2.2&artikel=4&z=2016-07-01&g=2016-07-01), periodiek onderworpen aan een geneeskundig onderzoek ter beoordeling of hij in staat is de opgedragen werkzaamheden naar behoren te verrichten. [Artikel 4 van het Rechtspositiebesluit ambtenaren BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028693&artikel=4) is van overeenkomstige toepassing.
+
+##### Artikel 6
+
+1. Het geneeskundig onderzoek, bedoeld in de [artikelen 4, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0028581&hoofdstuk=2&paragraaf=2.2&artikel=4&z=2016-07-01&g=2016-07-01), en [5](https://wetten.overheid.nl/jci1.3:c:BWBR0028581&hoofdstuk=2&paragraaf=2.2&artikel=5&z=2016-07-01&g=2016-07-01), en de beoordeling van de resultaten daarvan geschieden door een door Onze Minister aangewezen arts. Bij ministeriële regeling worden regels gegeven over het geneeskundig onderzoek.
+
+2. De uitslag van het geneeskundig onderzoek wordt de betrokkene zo spoedig mogelijk medegedeeld.
+
+3. De kosten van het geneeskundig onderzoek komen ten laste van Onze Minister.
+
+4. Het geneeskundig onderzoek, bedoeld in [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028581&hoofdstuk=2&paragraaf=2.2&artikel=4&z=2016-07-01&g=2016-07-01), vindt eerst plaats nadat alle overige beoordelingen van de geschiktheid van desbetreffende persoon hebben plaats gevonden en Onze Minister op grond daarvan voornemens is de betrokkene aan te stellen.
+
+##### Artikel 7
+
+1. Indien aan het geneeskundig onderzoek een negatieve gevolgtrekking dan wel een positieve gevolgtrekking onder bepaalde beperkingen wordt verbonden, heeft de betrokkene het recht op herkeuring. Hij maakt zijn wens daartoe met redenen omkleed kenbaar binnen een week nadat de genoemde gevolgtrekking aan hem is medegedeeld. Onze Minister treft een regeling voor herkeuring door een onafhankelijk geneeskundige.
+
+2. De door Onze Minister te nemen beslissing wordt uitgesteld totdat de uitslag van de herkeuring hem is medegedeeld.
+
+3. De kosten van de herkeuring worden gedragen door Onze Minister. Deze mag echter een redelijke bijdrage van betrokkene verlangen.
+
+#### § 2.3. Kleding en uitrusting
+
+### Hoofdstuk 4. Overgangs- en slotbepalingen
+
+##### Artikel 13a
+
+1. Het personeelslid dat op het tijdstip van inwerkingtreding van dit artikel is aangesteld in een functie als bedoeld in [artikel 4, eerste lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0028581&hoofdstuk=2&paragraaf=2.2&artikel=4&z=2016-07-01&g=2016-07-01), wordt uiterlijk een jaar na dat tijdstip voor het eerst onderworpen aan een periodiek geneeskundig onderzoek als bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0028581&hoofdstuk=2&paragraaf=2.2&artikel=5&z=2016-07-01&g=2016-07-01).
+
+2. Het personeelslid dat op grond van het geneeskundig onderzoek, bedoeld in het eerste lid, niet of slechts onder beperkingen in staat wordt geacht de opgedragen werkzaamheden naar behoren te verrichten, wordt uiterlijk twee jaren na het tijdstip van inwerkingtreding voor een tweede maal onderworpen aan een periodiek geneeskundig onderzoek, teneinde te beoordelen of hij alsnog respectievelijk zonder beperkingen in staat wordt geacht de opgedragen werkzaamheden naar behoren te verrichten.
+
+3. Indien het personeelslid op grond van het tweede periodiek geneeskundig onderzoek niet alsnog en zonder beperkingen in staat wordt geacht de opgedragen werkzaamheden naar behoren te verrichten, maar grond bestaat aan te nemen dat het personeelslid binnen uiterlijk een jaar na het tweede periodiek geneeskundig onderzoek daartoe wel in staat zal zijn, kan de korpsbeheerder brandweer op voordracht van de algemeen commandant besluiten het personeelslid uiterlijk een jaar na het tweede periodiek geneeskundig onderzoek een derde maal aan een zodanig onderzoek te onderwerpen. De korpsbeheerder brandweer stelt zowel de algemeen commandant als het Instituut Fysieke Veiligheid schriftelijk in kennis van een zodanig besluit.
+
+## Bijlage 1. behorende bij de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0028581&hoofdstuk=2&paragraaf=2.1&artikel=2&z=2016-07-01&g=2016-07-01) en [3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028581&hoofdstuk=2&paragraaf=2.1&artikel=3&z=2016-07-01&g=2016-07-01) (functies met functioneel examenvereiste, met rangen en opleidings- en examenstelsel)
+
+| **Functies:** | **Rang:** | **Stelsel:** |
+| --- | --- | --- |
+| bevelvoerder | maximaal brandmeester | CN/EN |
+| bevelvoerder vliegtuigbrandbestrijding | maximaal brandmeester | CN |
+| chauffeur/voertuigbediener | brandwacht of hoofdbrandwacht | CN/EN |
+| controleur brandpreventie | maximaal hoofbrandwacht | CN/EN |
+| docent | maximaal brandmeester | EN |
+| hoofdofficier van dienst | commandeur | EN |
+| instructeur a | maximaal hoofdbrandwacht | CN |
+| instructeur b | maximaal brandmeester | EN |
+| manschap a | brandwacht of hoofdbrandwacht | CN |
+| manschap a vliegtuigbrandbestrijding | brandwacht of hoofdbrandwacht | CN |
+| manschap b | hoofdbrandwacht | CN |
+| medewerker brandpreventie | maximaal brandmeester | CN/EN |
+| officier van dienst | hoofdbrandmeester | EN |
+| specialist brandpreventie | maximaal hoofdbrandmeester | EN |
+| vakofficier van dienst | hoofdbrandmeester | CN |
+
+**Betekenis van de stelselafkortingen:**
+
+**CN: Caribisch Nederlands**
+
+**EN: Europees Nederlands, gevolgd door beperkte bijscholing gericht op de lokale praktijk in Caribisch Nederland**
+
+**CN/EN: Europees Nederlands geldt als alternatief voor Caribisch Nederlands**
+
+## Bijlage 1a. behorende bij de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0028581&hoofdstuk=2&paragraaf=2.1&artikel=2&z=2016-07-01&g=2016-07-01) en [3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028581&hoofdstuk=2&paragraaf=2.1&artikel=3&z=2016-07-01&g=2016-07-01) (functies zonder functioneel examenvereiste, met rangen)
+
+| **Functies:** | **Rang:** |
+| --- | --- |
+| algemeen commandant | adjunct-hoofdcommandeur |
+| lokaal commandant | maximaal commandeur |
+| medewerker operationele voorbereiding | maximaal brandmeester |
+| medewerker opleiden en oefenen | maximaal brandmeester |
+| oefencoördinator | maximaal hoofdbrandwacht |
+| on scene commander | maximaal hoofdbrandmeester |
+| ploegchef | maximaal brandmeester |
+| specialist operationele voorbereiding | maximaal hoofdbrandmeester |
+| specialist opleiden en oefenen | maximaal hoofdbrandmeester |
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
