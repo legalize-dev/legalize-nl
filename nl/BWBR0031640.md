@@ -4,7 +4,7 @@ identifier: "BWBR0031640"
 country: "nl"
 rank: "wet"
 publication_date: "2016-07-01"
-last_updated: "2015-01-01"
+last_updated: "2016-07-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0031640"
 soort: "wet"
@@ -48,33 +48,31 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 In deze wet wordt, tenzij anders bepaald, verstaan onder:
 
-- a. **nutsrichtlijn:** [richtlijn nr. 2004/17/EG](32004L0017) van het Europees Parlement en de Raad van de Europese Unie van 31 maart 2004 houdende coördinatie van de procedures voor het plaatsen van opdrachten in de sectoren water- en energievoorziening, vervoer en postdiensten (PbEG L 134);
+- a. **nutsrichtlijn:** richtlijn 2014/25/EU van het Europees Parlement en de Raad van 26 februari 2014 betreffende het plaatsen van opdrachten in de sectoren water- en energievoorziening, vervoer en postdiensten en houdende intrekking van Richtlijn 2004/17/EG (PbEU 2014, L 94);
 
-- b. **aanbestedingsrichtlijn:** [richtlijn nr. 2004/18/EG](32004L0018) van het Europees Parlement en de Raad van de Europese Unie van 31 maart 2004 betreffende de coördinatie van de procedures voor het plaatsen van overheidsopdrachten voor werken, leveringen en diensten (PbEG L 134);
+- b. **aanbestedingsrichtlijn:** richtlijn 2014/24/EU van het Europees Parlement en de Raad van 26 februari 2014 betreffende het plaatsen van overheidsopdrachten en tot intrekking van Richtlijn 2004/18/EG (PbEU 2014, L 94);
 
-- c. **publieke entiteit:**
+- c. **concessierichtlijn:** richtlijn 2014/23/EU van het Europees Parlement en de Raad van 26 februari 2014 betreffende het plaatsen van concessieovereenkomsten (PbEU 2014, L 94);
+
+- d. **publieke entiteit:**
 
 - 1°. een bestuursorgaan als bedoeld in [artikel 1:1, eerste lid, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=1:1), niet zijnde een van Onze Ministers;
 
-- 2°. een overige aanbestedende dienst als bedoeld in artikel 1, negende lid, van de aanbestedingsrichtlijn en artikel 2, eerste lid, onderdeel a, van de nutsrichtlijn, niet zijnde de staat;
+- 2°. een overige aanbestedende dienst als bedoeld in artikel 2, eerste lid, van de aanbestedingsrichtlijn, niet zijnde de staat;
 
-- 3°. een overheidsbedrijf als bedoeld in artikel 2, eerste lid, onderdeel b, van de nutsrichtlijn;
+- 3°. een overige aanbestedende instantie als bedoeld in artikel 4, eerste lid, van de nutsrichtlijn en artikel 7, eerste lid, van de concessierichtlijn, niet zijnde de staat;
 
-- 4°. een bedrijf of instelling waaraan een bijzonder of uitsluitend recht verleend is als bedoeld in artikel 2, tweede lid, onderdeel b, van de nutsrichtlijn;
+- 4°. een instantie die een opdracht als bedoeld in artikel 13 van de aanbestedingsrichtlijn plaatst;
 
-- 5°. een instantie die een opdracht als bedoeld in artikel 8 van de aanbestedingsrichtlijn plaatst;
+- e. **Onze Minister:** Onze Minister wie het aangaat;
 
-- 6°. een overige houder van een concessie als bedoeld in artikel 63, eerste lid, van de aanbestedingsrichtlijn;
+- f. **Europese verdragen:** het Verdrag betreffende de werking van de Europese Unie, het Verdrag tot oprichting van de Europese Gemeenschap voor Atoomenergie of het Verdrag betreffende de Europese Unie;
 
-- d. **Onze Minister:** Onze Minister wie het aangaat;
-
-- e. **Europese verdragen:** het Verdrag betreffende de werking van de Europese Unie, het Verdrag tot oprichting van de Europese Gemeenschap voor Atoomenergie of het Verdrag betreffende de Europese Unie;
-
-- f. **Europese subsidie:** een aanspraak op financiële middelen van de Raad van de Europese Unie, het Europees Parlement en de Raad gezamenlijk of de Europese Commissie die rechtstreeks of middellijk bestaat op grond van een vastgesteld programma, een verordening, een richtlijn, een beschikking of een besluit, voor zover uit deze aanspraak verplichtingen voortvloeien welke bij of krachtens de Europese verdragen op Nederland rusten.
+- g. **Europese subsidie:** een aanspraak op financiële middelen van de Raad van de Europese Unie, het Europees Parlement en de Raad gezamenlijk of de Europese Commissie die rechtstreeks of middellijk bestaat op grond van een vastgesteld programma, een verordening, een richtlijn, een beschikking of een besluit, voor zover uit deze aanspraak verplichtingen voortvloeien welke bij of krachtens de Europese verdragen op Nederland rusten.
 
 ##### Artikel 2
 
-1. Indien een publieke entiteit niet of niet naar behoren voldoet aan een voor haar geldende rechtsplicht die voortvloeit uit een bij of krachtens de Europese verdragen op Nederland rustende verplichting, niet zijnde een rechtsplicht die behoort tot de in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0031640&artikel=3&z=2015-01-01&g=2015-01-01) bedoelde verplichtingen, dan kan Onze Minister de publieke entiteit een aanwijzing geven om, binnen een in die aanwijzing te vermelden termijn, alsnog aan die rechtsplicht te voldoen.
+1. Indien een publieke entiteit niet of niet naar behoren voldoet aan een voor haar geldende rechtsplicht die voortvloeit uit een bij of krachtens de Europese verdragen op Nederland rustende verplichting, niet zijnde een rechtsplicht die behoort tot de in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0031640&artikel=3&z=2016-07-01&g=2016-07-01) bedoelde verplichtingen, dan kan Onze Minister de publieke entiteit een aanwijzing geven om, binnen een in die aanwijzing te vermelden termijn, alsnog aan die rechtsplicht te voldoen.
 
 2. Een aanwijzing wordt gegeven:
 
@@ -94,7 +92,7 @@ Indien een publieke entiteit verzuimt te voldoen aan een voor haar geldende rech
 
 1. Een aanwijzing wordt niet gegeven dan nadat aan de publieke entiteit gelegenheid tot overleg is geboden.
 
-2. Een aanwijzing wordt, behoudens in spoedeisende gevallen, niet eerder gegeven dan nadat de publieke entiteit in de gelegenheid is gesteld om binnen een door Onze Minister in overeenstemming met Onze andere betrokken Minister gestelde termijn de verplichting, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0031640&artikel=2&z=2015-01-01&g=2015-01-01) of [3](https://wetten.overheid.nl/jci1.3:c:BWBR0031640&artikel=3&z=2015-01-01&g=2015-01-01), alsnog na te komen.
+2. Een aanwijzing wordt, behoudens in spoedeisende gevallen, niet eerder gegeven dan nadat de publieke entiteit in de gelegenheid is gesteld om binnen een door Onze Minister in overeenstemming met Onze andere betrokken Minister gestelde termijn de verplichting, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0031640&artikel=2&z=2016-07-01&g=2016-07-01) of [3](https://wetten.overheid.nl/jci1.3:c:BWBR0031640&artikel=3&z=2016-07-01&g=2016-07-01), alsnog na te komen.
 
 3. De motivering van de aanwijzing verwijst naar hetgeen in het overleg aan de orde is gekomen.
 
@@ -102,7 +100,7 @@ Indien een publieke entiteit verzuimt te voldoen aan een voor haar geldende rech
 
 ##### Artikel 5
 
-Indien de in de aanwijzing vermelde termijn verstrijkt zonder dat de aanwijzing is opgevolgd, kan Onze Minister die de aanwijzing heeft gegeven er, namens en op kosten van de publieke entiteit, zowel door het verrichten van publiekrechtelijke of privaatrechtelijke rechtshandelingen als door het verrichten van feitelijke handelingen in voorzien dat alsnog wordt voldaan aan de rechtsplicht in verband waarmee de aanwijzing, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0031640&artikel=2&z=2015-01-01&g=2015-01-01), is gegeven of dat alsnog het verzuim, bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0031640&artikel=3&z=2015-01-01&g=2015-01-01), wordt hersteld of voorkomen.
+Indien de in de aanwijzing vermelde termijn verstrijkt zonder dat de aanwijzing is opgevolgd, kan Onze Minister die de aanwijzing heeft gegeven er, namens en op kosten van de publieke entiteit, zowel door het verrichten van publiekrechtelijke of privaatrechtelijke rechtshandelingen als door het verrichten van feitelijke handelingen in voorzien dat alsnog wordt voldaan aan de rechtsplicht in verband waarmee de aanwijzing, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0031640&artikel=2&z=2016-07-01&g=2016-07-01), is gegeven of dat alsnog het verzuim, bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0031640&artikel=3&z=2016-07-01&g=2016-07-01), wordt hersteld of voorkomen.
 
 ##### Artikel 6
 
@@ -126,7 +124,7 @@ Vervallen
 
 ##### Artikel 8
 
-Een wijziging van de nutsrichtlijn of de aanbestedingsrichtlijn gaat voor de toepassing van deze wet gelden met ingang van de dag waarop aan de betrokken wijzigingsrichtlijn uitvoering moet zijn gegeven, tenzij bij ministerieel besluit, dat in de Staatscourant wordt bekendgemaakt, een ander tijdstip wordt vastgesteld.
+Een wijziging van de nutsrichtlijn, de aanbestedingsrichtlijn of de concessierichtlijn gaat voor de toepassing van deze wet gelden met ingang van de dag waarop aan de betrokken wijzigingsrichtlijn uitvoering moet zijn gegeven, tenzij bij ministerieel besluit, dat in de Staatscourant wordt bekendgemaakt, een ander tijdstip wordt vastgesteld.
 
 ##### Artikel 9
 
