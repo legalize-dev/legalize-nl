@@ -4,7 +4,7 @@ identifier: "BWBR0012681"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-10-08"
-last_updated: "2016-06-23"
+last_updated: "2016-07-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0012681"
 soort: "ministeriele-regeling"
@@ -44,7 +44,7 @@ Besluit:
 
 ##### Artikel 1
 
-Als gespen behorende bij de Herinneringsmedaille Vredesoperaties worden ingesteld:
+Als gespen behorende bij de Herinneringsmedaille Internationale Missies worden ingesteld:
 
 - a. voor deelname aan de United Nations Mission in Ethiopia and Eritrea en aan operaties ter directe ondersteuning hiervan, voor zover deze deelname heeft plaatsgehad op het grondgebied van en in het luchtruim boven Ethiopië, Eritrea en Djibouti, alsmede op de rede en in de haven van Massawa: UNMEE-DJIBOUTI;
 
@@ -234,6 +234,6 @@ Dit besluit treedt in werking met ingang van de tweede dag na de dagtekening van
 
 ##### Artikel 3
 
-Dit besluit wordt aangehaald als: Besluit gespen Herinneringsmedaille Vredesoperaties.
+Dit besluit wordt aangehaald als: Besluit gespen Herinneringsmedaille Internationale Missies.
 
 Dit besluit zal met de toelichting in de Staatscourant worden geplaatst.
