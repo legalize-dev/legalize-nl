@@ -4,7 +4,7 @@ identifier: "BWBR0038831"
 country: "nl"
 rank: "wet"
 publication_date: "2020-03-01"
-last_updated: "2016-01-01"
+last_updated: "2016-07-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0038831"
 soort: "wet"
@@ -92,8 +92,6 @@ Dit onderdeel is nog niet inwerking getreden
 ##### Artikel XI. [Toeslagenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0004043)
 
 Wijzigt de Toeslagenwet.
-
-Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel XII. [Verzamelwet SZW 2015](https://wetten.overheid.nl/jci1.3:c:BWBR0036013)
 
