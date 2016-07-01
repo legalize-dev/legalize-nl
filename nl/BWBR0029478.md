@@ -4,7 +4,7 @@ identifier: "BWBR0029478"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2016-07-01"
-last_updated: "2013-01-01"
+last_updated: "2016-07-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0029478"
 soort: "ministeriele-regeling"
@@ -67,10 +67,10 @@ Dit besluit zal met de toelichting in de Staatscourant worden geplaatst.
 
 ##### Artikel 1a
 
-Dit besluit berust mede op [artikel 24, eerste lid, van de Wet drinkwater BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028180&artikel=24).
+Dit besluit berust mede op [artikel 6.2, tweede lid, van de Wet elektriciteit en drinkwater BES](https://wetten.overheid.nl/jci1.3:c:BWBR0037861&artikel=6.2).
 
 ##### Artikel 4a
 
-Met het toezicht op de naleving van de [Wet drinkwater BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028180) zijn belast en met de functie van inspecteur als bedoeld in [artikel 1, eerste lid, onderdeel d, van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0028180&artikel=1), zijn bekleed de ambtenaren van de Inspectie Leefomgeving en Transport.
+Met het toezicht op de naleving van de [Wet elektriciteit en drinkwater BES](https://wetten.overheid.nl/jci1.3:c:BWBR0037861), bedoeld in [artikel 6.2, eerste lid, van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0037861&artikel=6.2) zijn belast de ambtenaren van de Inspectie Leefomgeving en Transport.
 
 Dit besluit zal met de toelichting in de Staatscourant worden geplaatst.
