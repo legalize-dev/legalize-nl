@@ -4,7 +4,7 @@ identifier: "BWBR0037099"
 country: "nl"
 rank: "wet"
 publication_date: "2023-01-01"
-last_updated: "2016-01-01"
+last_updated: "2016-07-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0037099"
 soort: "wet"
@@ -47,7 +47,7 @@ Zo is het dat Wij, de Afdeling advisering van de Raad van State gehoord, en met 
 
 Wijzigt het Burgerlijk Wetboek Boek 7.
 
-##### Artikel II. Wijzigingen van de [Ambtenarenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0001947&wetgeving)
+##### Artikel II. Wijzigingen van de [Ambtenarenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0001947)
 
 Wijzigt de Ambtenarenwet.
 
@@ -57,13 +57,15 @@ Wijzigt de Ziektewet.
 
 ##### Artikel IV. Wijziging van de [Wet minimumloon en minimumvakantiebijslag](https://wetten.overheid.nl/jci1.3:c:BWBR0002638)
 
+Wijzigt de Wet minimumloon en minimumvakantiebijslag.
+
 Dit onderdeel is nog niet inwerking getreden
 
-##### Artikel V. Wijziging van de [Wet flexibel werken](https://wetten.overheid.nl/jci1.3:c:BWBR0011173&wetgeving)
+##### Artikel V. Wijziging van de [Wet flexibel werken](https://wetten.overheid.nl/jci1.3:c:BWBR0011173)
 
 Wijzigt de Wet flexibel werken.
 
-##### Artikel VI. Wijziging van de [Wet werk en inkomen naar arbeidsvermogen](https://wetten.overheid.nl/jci1.3:c:BWBR0019057&wetgeving)
+##### Artikel VI. Wijziging van de [Wet werk en inkomen naar arbeidsvermogen](https://wetten.overheid.nl/jci1.3:c:BWBR0019057)
 
 Wijzigt de Wet werk en inkomen naar arbeidsvermogen.
 
@@ -97,25 +99,25 @@ Wijzigt de Toeslagenwet.
 
 ##### Artikel IX. Overgangsrecht Burgerlijk Wetboek
 
-1. Het in [artikel 629, lid 1, van Boek 7 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=629) genoemde tijdvak van 104 weken alsmede [artikel 670, lid 1, onder a, van Boek 7 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=670), zoals deze bepaling luidde voor het tijdstip van inwerkingtreding van [artikel I, onderdeel F](https://wetten.overheid.nl/jci1.3:c:BWBR0037099&artikel=I&z=2016-01-01&g=2016-01-01) van de Wet werken na de AOW-gerechtigde leeftijd, blijven gedurende zes maanden na dat tijdstip van toepassing op de werknemer:
+1. Het in [artikel 629, lid 1, van Boek 7 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=629) genoemde tijdvak van 104 weken alsmede [artikel 670, lid 1, onder a, van Boek 7 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=670), zoals deze bepaling luidde voor het tijdstip van inwerkingtreding van [artikel I, onderdeel F](https://wetten.overheid.nl/jci1.3:c:BWBR0037099&artikel=I&z=2016-07-01&g=2016-07-01) van de Wet werken na de AOW-gerechtigde leeftijd, blijven gedurende zes maanden na dat tijdstip van toepassing op de werknemer:
 
-- a. die op de dag voor het tijdstip van inwerkingtreding van [artikel I, onderdeel F](https://wetten.overheid.nl/jci1.3:c:BWBR0037099&artikel=I&z=2016-01-01&g=2016-01-01), van de Wet werken na de AOW-gerechtigde leeftijd ten minste de in [artikel 7, onderdeel a, van de Algemene Ouderdomswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002221&artikel=7) bedoelde leeftijd heeft, dan wel binnen zes maanden na dat tijdstip deze leeftijd bereikt, en
+- a. die op de dag voor het tijdstip van inwerkingtreding van [artikel I, onderdeel F](https://wetten.overheid.nl/jci1.3:c:BWBR0037099&artikel=I&z=2016-07-01&g=2016-07-01), van de Wet werken na de AOW-gerechtigde leeftijd ten minste de in [artikel 7, onderdeel a, van de Algemene Ouderdomswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002221&artikel=7) bedoelde leeftijd heeft, dan wel binnen zes maanden na dat tijdstip deze leeftijd bereikt, en
 
 - b. die voor het in onderdeel a bedoelde tijdstip en tevens, al dan niet na een onderbreking gedurende minder dan vier weken, na die dag verhinderd is de bedongen arbeid te verrichten in verband met ongeschiktheid ten gevolge van ziekte, en
 
 - c. op wie op die dag het in [artikel 629, lid 1, van Boek 7 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=629) genoemde tijdvak van 104 weken van toepassing is.
 
-2. Na afloop van de in lid 1 genoemde termijn van zes maanden, geldt de in [artikel VIIIA](https://wetten.overheid.nl/jci1.3:c:BWBR0037099&artikel=VIIIa&z=2016-01-01&g=2016-01-01) genoemde termijn van dertien weken, voor zover het totale tijdvak niet meer bedraagt dan 104 weken.
+2. Na afloop van de in lid 1 genoemde termijn van zes maanden, geldt de in [artikel VIIIA](https://wetten.overheid.nl/jci1.3:c:BWBR0037099&artikel=VIIIa&z=2016-07-01&g=2016-07-01) genoemde termijn van dertien weken, voor zover het totale tijdvak niet meer bedraagt dan 104 weken.
 
 ##### Artikel X. Samenloop met het initiatiefwetsvoorstel tot wijziging van de Wet aanpassing arbeidsduur ten einde flexibel werken te bevorderen
 
 Wijzigt deze wet.
 
-##### Artikel Xa. Wijziging van de [Wet maatregelen Wet werk en bijstand en enkele andere wetten](https://wetten.overheid.nl/jci1.3:c:BWBR0035385&wetgeving)
+##### Artikel Xa. Wijziging van de [Wet maatregelen Wet werk en bijstand en enkele andere wetten](https://wetten.overheid.nl/jci1.3:c:BWBR0035385)
 
 Wijzigt de Wet maatregelen Wet werk en bijstand en enkele andere wetten enkele andere wetten.
 
-##### Artikel Xb. Wijziging van de [Verzamelwet SZW 2015](https://wetten.overheid.nl/jci1.3:c:BWBR0036013&wetgeving)
+##### Artikel Xb. Wijziging van de [Verzamelwet SZW 2015](https://wetten.overheid.nl/jci1.3:c:BWBR0036013)
 
 Wijzigt de Verzamelwet SZW 2015.
 
@@ -131,6 +133,6 @@ Deze wet wordt aangehaald als: Wet werken na de AOW-gerechtigde leeftijd.
 
 1. Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip, dat voor de verschillende artikelen of onderdelen daarvan verschillend kan worden vastgesteld.
 
-2. Indien het bij geleidende brief van 16 november 2005 ingediende voorstel van wet van de leden Dubbelboer, Duyvendak en Van der Ham, houdende regels inzake het raadgevend referendum ([Wet raadgevend referendum](https://wetten.overheid.nl/jci1.3:c:BWBR0036443&wetgeving)) (Kamerstukken 30 372) tot wet is verheven en deze wet is bekrachtigd op of na de datum waarop de Wet raadgevend referendum in werking is getreden, wordt in het in het eerste lid bedoelde besluit zo nodig toepassing gegeven aan [artikel 12 van de Wet raadgevend referendum](https://wetten.overheid.nl/jci1.3:c:BWBR0036443&artikel=12).
+2. Indien het bij geleidende brief van 16 november 2005 ingediende voorstel van wet van de leden Dubbelboer, Duyvendak en Van der Ham, houdende regels inzake het raadgevend referendum ([Wet raadgevend referendum](https://wetten.overheid.nl/jci1.3:c:BWBR0036443)) (Kamerstukken 30 372) tot wet is verheven en deze wet is bekrachtigd op of na de datum waarop de Wet raadgevend referendum in werking is getreden, wordt in het in het eerste lid bedoelde besluit zo nodig toepassing gegeven aan [artikel 12 van de Wet raadgevend referendum](https://wetten.overheid.nl/jci1.3:c:BWBR0036443&artikel=12).
 
 Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren die zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
