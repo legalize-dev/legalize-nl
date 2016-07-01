@@ -311,37 +311,3 @@ For the purpose of Section 4(a)(i) and 4(a)(ii) of the Agreement, each party agr
 IN WITNESS WHEREOF the parties have executed this document on the respective dates specified below with effect from the date specified on the first page of this document.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
-
-##### Artikel 13a. Omhang
-
-Deze regeling berust mede [op artikel 115, zevende lid, van de Wet op het primair onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=115), [artikel 113, zevende lid, van de Wet op de expertisecentra](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=113) en [artikel 5.43 van de Wet voortgezet onderwijs 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=5.43) en [artikel 2.2.7 van de Wet educatie en beroepsonderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=2.2.7).
-
-## Bijlage I. behorende bij [artikel 5, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0038059&paragraaf=2&artikel=5&z=2022-08-01&g=2022-08-01), van de Regeling beleggen, lenen en derivaten OCW 2016
-
-### Raamovereenkomst INTEREST RATE Swaps
-
-TEN BLIJKE WAARVAN partijen aan dit document uitvoering hebben gegeven op de onderstaande datum welke in werking treedt op de datum genoemd op de eerste pagina van dit document.
-
-## Bijlage II. behorende bij [artikel 5, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0038059&paragraaf=2&artikel=5&z=2022-08-01&g=2022-08-01), van de Regeling beleggen, lenen en derivaten OCW 2016
-
-### Schedule to the 2002 master agreement
-
-[**(semi-) publieke instelling**] **(‘Party B’),**
-
-### Scope of Agreement
-
-In respect of this Agreement, Party B shall be considered as a non-professional investor, in accordance with the Dutch Wet op het financieel toezicht. Regarding these Transactions, Party A shall act as an advisor for Party B. All of the above is incorporated in the independent agreement governed by Dutch law, as referred to in article 5, section 4 of the Dutch Regeling beleggen, lenen en derivaten OCW 2016.
-
-### Part 1. Termination Provisions
-
-In this Agreement:
-
-### Part 3. Documents to be Delivered
-
-For the purpose of Section 4(a)(i) and 4(a)(ii) of the Agreement, each party agrees to deliver the following documents, covered by Section 3(d) of this Agreement, as applicable:
-
-### Part 5. Other Provisions
-
-IN WITNESS WHEREOF the parties have executed this document on the respective dates specified below with effect from the date specified on the first page of this document.
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
