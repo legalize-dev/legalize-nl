@@ -4,7 +4,7 @@ identifier: "BWBR0002309"
 country: "nl"
 rank: "amvb"
 publication_date: "2016-07-01"
-last_updated: "2014-12-12"
+last_updated: "2016-07-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0002309"
 soort: "AMvB"
@@ -833,7 +833,7 @@ Vervallen
 
 ### Hoofdstuk IX. Luchtvaartvertoningen en luchtvaartwedstrijden
 
-##### Artikel 158. Aanvraag ontheffingen ex [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&artikel=14), [31](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&artikel=31) en [33 van de Luchtvaartwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&artikel=33) en toestemming luchtvaartvertoningen en luchtvaartwedstrijden
+##### Artikel 158. Aanvraag ontheffing ex [artikel 8a.51 Wet luchtvaart](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&artikel=8a.51) en toestemming luchtvaartvertoningen en luchtvaartwedstrijden
 
 1. Voor het verkrijgen van toestemming tot het houden van een luchtvaartvertoning of luchtvaartwedstrijd, als bedoeld in [artikel 17 van de Luchtvaartwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&artikel=17), moet ten minste drie weken voor de dag van de vertoning of van de wedstrijd een daartoe strekkend verzoekschrift worden ingediend bij Onze Minister.
 
@@ -841,49 +841,15 @@ Hierbij moet zijn gevoegd:
 
 - a. een omschrijving van de vertoning of van de wedstrijd met aanduiding van het (de) te gebruiken terrein(en) en van de te volgen route, alsmede met vermelding in hoeverre kunstvluchten zullen plaatshebben;
 
-- b. een verzoek om ontheffing van de verbodsbepaling van [artikel 14, lid 1, van de Luchtvaartwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&artikel=14), indien een terrein, niet zijnde luchtvaartterrein, zal worden gebruikt.
+- b. een verzoek om een ontheffing van de verbodsbepaling van [artikel 8.1a, eerste lid, Wet luchtvaart](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&artikel=8.1a), indien een terrein, niet zijnde een luchthaven, zal worden gebruikt;
 
-- c. een schriftelijke verklaring of verklaringen, dat tegen de te houden vertoning of wedstrijd geen bezwaar bestaat, welke in het geval van een vertoning dient(en) te worden afgegeven door de burgemeester(s) van de gemeente(n) waar deze zal worden gehouden en, in geval van een wedstrijd, door de burgemeester(s) van de gemeente(n) waar deze eindigt.
+- c. een schriftelijke verklaring van de burgemeester van elke gemeente waar de vertoning of de wedstrijd zal worden gehouden, dat daartegen geen bezwaar bestaat.
 
 2. Door Onze Minister kunnen nadere regelen worden gegeven, waaraan voldaan moet worden ter verkrijging en gebruik van een toestemming als bedoeld in [artikel 17 eerste lid van de Luchtvaartwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&artikel=17).
 
 ##### Artikel 158a. Aanvraag ontheffingen
 
-1. Voor het aanvragen van een ontheffing van het in [artikel 14, eerste lid, van de Luchtvaartwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&artikel=14) vervatte verbod, moet tenminste 21 dagen voor de eerste dag waarop het terrein zal worden gebruikt een daartoe strekkend verzoekschrift worden ingediend bij Onze Minister.
-
-2. Bij het verzoekschrift moeten worden overlegd:
-
-- 1. een verzoek tot ontheffing;
-
-- 2. fabrikaat en type van het te gebruiken luchtvaartuig;
-
-- 3. datum/data waarop het terrein zal worden gebruikt;
-
-- 4. de reden/redenen waarom dit terrein zal worden gebruikt;
-
-- 5. de gemeente en de plaats waarin het betrokken terrein is gelegen;
-
-- 6. de afmetingen van het terrein;
-
-- 7. een duidelijke kaart waaruit de geografische ligging en de aard van de omgeving van het betrokken terrein duidelijk blijkt;
-
-- 8. een verklaring van geen bezwaar afgegeven door de burgemeester van de gemeente waarin het betrokken terrein is gelegen;
-
-- 9. een verklaring van geen bezwaar van de eigenaar danwel de zakelijk gerechtigde van het betrokken terrein;
-
-- 10. een schriftelijke verklaring van de aanvrager dat het beoogde terrein aan de gestelde criteria voor een veilig gebruik voldoet.
-
-3. Indien de ontheffing voor drie dagen of minder wordt aangevraagd, is het gestelde in het tweede lid van dit artikel van toepassing met dien verstande dat de verklaringen als bedoeld onder 8 en 9 tijdens het daadwerkelijke gebruik van het terrein ter inzage aanwezig moeten zijn.
-
-4. Voor het aanvragen van een ontheffing van het in [artikel 14, eerste lid, van de Luchtvaartwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&artikel=14) vervatte verbod ten behoeve van het opstijgen met een vrije bemande ballon geldt in afwijking van het gestelde in het eerste lid, een termijn van 14 dagen.
-
-5. De betaling van de krachtens artikel 159 vastgestelde vergoeding dient op de in artikel 160 aangegeven wijze te geschieden tenminste 21 dagen voor de eerste datum waarvoor de ontheffing wordt aangevraagd, met uitzondering van een aanvraag als bedoeld in het vierde lid, ten aanzien waarvan voor de betaling de termijn op 14 dagen is gesteld.
-
-6. Voor het aanvragen van een ontheffing van het in [artikel 31, eerste lid onder **a** en **b** van de Luchtvaartwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&artikel=31) vervatte verbod, moet tenminste 21 dagen voor het begin van de periode waarvoor de aanvrage geldt een daartoe strekkend verzoekschrift worden ingediend bij Onze Minister. Het gestelde in het vijfde lid is van overeenkomstige toepassing.
-
-7. Voor het aanvragen van een ontheffing van het in [artikel 33, eerste lid onder **a, b** en c van de Luchtvaartwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&artikel=33) vervatte verbod, moet tenminste 21 dagen voor het begin van de periode waarvoor de aanvrage geldt, een daartoe strekkend verzoekschrift worden ingediend bij Onze Minister. Het gestelde in het vijfde lid is van overeenkomstige toepassing.
-
-8. Artikel 158, derde lid, is van overeenkomstige toepassing.
+Vervallen
 
 ### Hoofdstuk X. Vergoedingen
 
@@ -927,7 +893,7 @@ Vervallen
 
 ##### Artikel 166
 
-Overtreding van [artikel 96, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002309&hoofdstuk=V&afdeling=I&artikel=96&z=2014-12-12&g=2014-12-12), is een strafbaar feit als bedoeld in [artikel 62, derde lid, van de Luchtvaartwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&artikel=62).
+Overtreding van [artikel 96, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002309&hoofdstuk=V&afdeling=I&artikel=96&z=2016-07-01&g=2016-07-01), is een strafbaar feit als bedoeld in [artikel 62, derde lid, van de Luchtvaartwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&artikel=62).
 
 ##### Artikel 167. Overgangsbepalingen
 
