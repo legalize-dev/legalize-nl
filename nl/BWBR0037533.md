@@ -4,7 +4,7 @@ identifier: "BWBR0037533"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-10-01"
-last_updated: "2016-04-01"
+last_updated: "2016-07-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0037533"
 soort: "ministeriele-regeling"
@@ -46,23 +46,23 @@ entry_into_force: "2016-01-15"
 
 ##### Artikel 4.1. [Subsidieregeling instandhouding monumenten](https://wetten.overheid.nl/jci1.3:c:BWBR0032075)
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Subsidieregeling instandhouding monumenten.
 
 ##### Artikel 4.2. [Subsidieregeling stimulering herbestemming monumenten](https://wetten.overheid.nl/jci1.3:c:BWBR0030544)
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Subsidieregeling stimulering herbestemming monumenten.
 
 ##### Artikel 4.3. [Organisatie- en mandaatbesluit OCW 2008](https://wetten.overheid.nl/jci1.3:c:BWBR0023543&wetgeving)
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt het Organisatie- en mandaatbesluit OCW 2008.
 
 ##### Artikel 4.4. [Beleidsregel erkenning tot het Nederlands cultureel erfgoed behorende monument en gelegen buiten Nederland](https://wetten.overheid.nl/jci1.3:c:BWBR0036824&wetgeving)
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Beleidsregel erkenning tot het Nederlands cultureel erfgoed behorende monumenten gelegen buiten Nederland.
 
 ##### Artikel 4.5. [Regeling omgevingsrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0027471)
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Regeling omgevingsrecht.
 
 ##### Artikel 4.6. Wijziging Subsidieregeling culturele basisinfrastructuur 2017–2020
 
@@ -84,11 +84,11 @@ Besluit:
 
 ##### Artikel 5.1. Inwerkingtreding
 
-1. De [hoofdstukken 1](https://wetten.overheid.nl/jci1.3:c:BWBR0037533&hoofdstuk=1&z=2016-04-01&g=2016-04-01), [3](https://wetten.overheid.nl/jci1.3:c:BWBR0037533&hoofdstuk=3&z=2016-04-01&g=2016-04-01) en [5](https://wetten.overheid.nl/jci1.3:c:BWBR0037533&hoofdstuk=5&z=2016-04-01&g=2016-04-01) treden in werking met ingang van 8 februari 2016.
+1. De [hoofdstukken 1](https://wetten.overheid.nl/jci1.3:c:BWBR0037533&hoofdstuk=1&z=2016-07-01&g=2016-07-01), [3](https://wetten.overheid.nl/jci1.3:c:BWBR0037533&hoofdstuk=3&z=2016-07-01&g=2016-07-01) en [5](https://wetten.overheid.nl/jci1.3:c:BWBR0037533&hoofdstuk=5&z=2016-07-01&g=2016-07-01) treden in werking met ingang van 8 februari 2016.
 
-2. [Hoofdstuk 2](https://wetten.overheid.nl/jci1.3:c:BWBR0037533&hoofdstuk=2&z=2016-04-01&g=2016-04-01) en de [artikelen 4.1 tot en met 4.5](https://wetten.overheid.nl/jci1.3:c:BWBR0037533&hoofdstuk=4&artikel=4.1&z=2016-04-01&g=2016-04-01) treden in werking op 1 juli 2016.
+2. [Hoofdstuk 2](https://wetten.overheid.nl/jci1.3:c:BWBR0037533&hoofdstuk=2&z=2016-07-01&g=2016-07-01) en de [artikelen 4.1 tot en met 4.5](https://wetten.overheid.nl/jci1.3:c:BWBR0037533&hoofdstuk=4&artikel=4.1&z=2016-07-01&g=2016-07-01) treden in werking op 1 juli 2016.
 
-3. De [artikelen 4.6](https://wetten.overheid.nl/jci1.3:c:BWBR0037533&hoofdstuk=4&artikel=4.6&z=2016-04-01&g=2016-04-01) en [4.7](https://wetten.overheid.nl/jci1.3:c:BWBR0037533&hoofdstuk=4&artikel=4.7&z=2016-04-01&g=2016-04-01) treden in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin deze regeling wordt geplaatst en werken terug tot en met 4 november 2015.
+3. De [artikelen 4.6](https://wetten.overheid.nl/jci1.3:c:BWBR0037533&hoofdstuk=4&artikel=4.6&z=2016-07-01&g=2016-07-01) en [4.7](https://wetten.overheid.nl/jci1.3:c:BWBR0037533&hoofdstuk=4&artikel=4.7&z=2016-07-01&g=2016-07-01) treden in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin deze regeling wordt geplaatst en werken terug tot en met 4 november 2015.
 
 ##### Artikel 5.2. Citeertitel
 
@@ -112,7 +112,7 @@ Een instelling met een wettelijke taak dient jaarlijks uiterlijk op 30 juni een 
 
 ##### Artikel 3.2. In te dienen documenten
 
-1. Een aanvraag voor subsidie gaat vergezeld van een begroting en voor zover van toepassing een onderhouds- en investeringsplan als bedoeld in [artikel 3.9](https://wetten.overheid.nl/jci1.3:c:BWBR0037533&hoofdstuk=3&artikel=3.9&z=2016-04-01&g=2016-04-01).
+1. Een aanvraag voor subsidie gaat vergezeld van een begroting en voor zover van toepassing een onderhouds- en investeringsplan als bedoeld in [artikel 3.9](https://wetten.overheid.nl/jci1.3:c:BWBR0037533&hoofdstuk=3&artikel=3.9&z=2016-07-01&g=2016-07-01).
 
 2. De begroting behelst een overzicht van de voor het kalenderjaar geraamde baten en lasten van de aanvrager, voor zover deze betrekking hebben op de wettelijke taak waarmee de instelling is belast.
 
@@ -227,6 +227,72 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 ##### Artikel 3.14. Hardheidsclausule
 
 [Artikel 6.1 van de Regeling op het specifiek cultuurbeleid](https://wetten.overheid.nl/jci1.3:c:BWBR0027597&artikel=6.1) is van overeenkomstige toepassing.
+
+### Hoofdstuk 4. Wijziging andere regelingen
+
+### Hoofdstuk 5. Slotbepalingen
+
+Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
+
+##### Artikel 2.1. Bewaaromstandigheden
+
+Een beheerder zorgt dat museale cultuurgoederen van de Staat zich bevinden in voor de desbetreffende cultuurgoederen passende bewaaromstandigheden.
+
+##### Artikel 2.2. Registratie en administratie
+
+1. Een beheerder registreert museale cultuurgoederen van de Staat op zodanige wijze dat uit de registratie van de beheerder de actuele juridische status, standplaats en staat van de cultuurgoederen blijkt en dat de cultuurgoederen kunnen worden geïdentificeerd.
+
+2. Een beheerder registreert museale cultuurgoederen van de Staat op zodanige wijze dat de registraties aangesloten zijn op het geautomatiseerde systeem van de minister voor registraties van museale cultuurgoederen van de Staat.
+
+3. Voor zover een beheerder nog niet alle registraties heeft geautomatiseerd, zorgt de beheerder dat:
+
+- a. mutaties in de registratie overeenkomstig het tweede lid plaatsvinden; en
+
+- b. op planmatige wijze volledige automatisering en aansluiting op het systeem van de minister wordt gerealiseerd.
+
+4. Een beheerder bewaart de administratie van de museale cultuurgoederen van de Staat op zodanige wijze dat de administratie duurzaam toegankelijk is.
+
+##### Artikel 2.3. Schade en restauratie
+
+1. Een beheerder houdt de schade aan een museaal cultuurgoed van de Staat in zijn administratie bij en meldt schade onverwijld aan de inspecteur.
+
+2. De minister wie het aangaat of een college van staat doet een museaal cultuurgoed van de Staat alleen restaureren na overleg met de minister.
+
+3. De minister kan een beheerder aanwijzingen geven over de restauratie van een museaal cultuurgoed van de Staat.
+
+##### Artikel 2.4. De Minister van OCW; waardering en advies
+
+1. De minister stelt desgevraagd of uit eigen beweging vast of een roerende zaak waarvan de Staat eigenaar is of waarvan het beheer door een derde aan de Staat is toevertrouwd een museaal cultuurgoed van de Staat is.
+
+2. De minister adviseert desgevraagd of uit eigen beweging over het beheer van museale cultuurgoederen van de Staat, zowel in algemene zin als ten aanzien van een specifiek museaal cultuurgoed.
+
+##### Artikel 2.5. Schade aan derden en aansprakelijkstelling
+
+1. De minister wie het aangaat of een college van staat beheert de museale cultuurgoederen van de Staat op zodanige wijze dat het risico van schade aan derden of van aansprakelijkstelling van de Staat door derden zo klein mogelijk wordt gehouden.
+
+2. De minister wie het aangaat of een college van staat inventariseert het risico dat met de museale cultuurgoederen van de Staat aanzienlijke schade aan derden kan worden toegebracht of dat het beheer van die cultuurgoederen aanleiding kan zijn tot aansprakelijkstelling van de Staat door derden met aanzienlijke financiële gevolgen.
+
+3. Aan de hand van de schatting van de kans dat de risico’s, bedoeld in het eerste en tweede lid, zich zullen voordoen, besluit de minister wie het aangaat of het college van staat over maatregelen ter voorkoming of beperking van deze risico’s, dan wel tot herstel van de schade of de opvang van de gevolgen van aansprakelijkstelling.
+
+4. De minister wie het aangaat of een college van staat zorgt voor het administreren van gegevens over gevallen van schade of aansprakelijkstelling die verband houden met het beheer van museale cultuurgoederen van de Staat.
+
+5. De gegevens, bedoeld in het vierde lid, worden desgevraagd aan de minister overgelegd.
+
+##### Artikel 2.6. Verzekering
+
+1. De minister wie het aangaat of een college van staat verzekert de risico’s van schade voor of aansprakelijkheid van de Staat, bedoeld in [artikel 2.5, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037533&hoofdstuk=2&artikel=2.5&z=2016-07-01&g=2016-07-01), om redenen van doelmatigheid in het algemeen niet.
+
+2. Een besluit tot verzekeren van risico als bedoeld in het eerste lid, wordt genomen in overeenstemming met de Minister van Financiën.
+
+3. Na overleg tussen de minister wie het aangaat of een college van staat en de Minister van Financiën kan worden besloten dat de afwikkeling van een schade of een aansprakelijkheid namens de Staat gebeurt door de Minister van Financiën.
+
+### Hoofdstuk 3. Subsidiëring instellingen met een wettelijke taak
+
+### Hoofdstuk 4. Wijziging andere regelingen
+
+### Hoofdstuk 5. Slotbepalingen
+
+Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 ### Hoofdstuk 4. Wijziging andere regelingen
 
