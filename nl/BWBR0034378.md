@@ -4,7 +4,7 @@ identifier: "BWBR0034378"
 country: "nl"
 rank: "kb"
 publication_date: "2016-07-01"
-last_updated: "2013-11-01"
+last_updated: "2016-07-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0034378"
 soort: "KB"
@@ -52,7 +52,7 @@ Aan De Nederlandsche Bank N.V. wordt toestemming verleend tot:
 
 - b. het verrichten van werkzaamheden ten behoeve van het beheer, de instandhouding en het ontsluiten van de in onderdeel a bedoelde numismatische collecties in samenhang met de eigen numismatische collectie van De Nederlandsche Bank N.V.;
 
-- c. het in stand houden van een openbaar informatiesysteem en het daarin bijhouden van de meldingen zoals bedoeld in de [artikelen 46, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004471&artikel=46), [53, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004471&artikel=53) en [54 van de Monumentenwet 1988](https://wetten.overheid.nl/jci1.3:c:BWBR0004471&artikel=54), voor zover het betreft numismatische objecten.
+- c. het in stand houden van een openbaar informatiesysteem en het daarin bijhouden van de meldingen zoals bedoeld in de [artikelen 5.6, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037521&artikel=5.6), [5.10, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037521&artikel=5.10), en [5.11 van de Erfgoedwet](https://wetten.overheid.nl/jci1.3:c:BWBR0037521&artikel=5.11), voor zover het betreft numismatische objecten.
 
 ##### Artikel 2
 
