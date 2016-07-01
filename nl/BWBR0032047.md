@@ -4,7 +4,7 @@ identifier: "BWBR0032047"
 country: "nl"
 rank: "ministeriele_regeling_bes"
 publication_date: "2016-07-01"
-last_updated: "2012-10-10"
+last_updated: "2016-07-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0032047"
 soort: "ministeriele-regeling-BES"
@@ -46,25 +46,25 @@ In deze regeling wordt verstaan onder de wet: de [Wet verklaringen van overlijde
 
 ##### Artikel 2
 
-1. Bij het doen van de mededeling, bedoeld in [artikel 1, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0028199&artikel=1), door de behandelende geneeskundige, aan de op grond van [artikel 4 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0028199&artikel=4) door het bestuurscollege aangewezen geneeskundige, betreffende overlijden als gevolg van de toepassing van levensbeëindiging op verzoek en hulp bij zelfdoding, wordt één van de modelformulieren uit [Bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0032047&bijlage=1&z=2012-10-10&g=2012-10-10) gebruikt.
+1. Bij het doen van de mededeling, bedoeld in [artikel 1, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0028199&artikel=1), door de behandelende geneeskundige, aan de op grond van [artikel 4 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0028199&artikel=4) door het bestuurscollege aangewezen geneeskundige, betreffende overlijden als gevolg van de toepassing van levensbeëindiging op verzoek en hulp bij zelfdoding, wordt één van de modelformulieren uit [Bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0032047&bijlage=1&z=2016-07-01&g=2016-07-01) gebruikt.
 
 2. De behandelende geneeskundige, bedoeld in het eerste lid, gebruikt naar keuze het modelformulier in het Engels, Nederlands of Papiamentu.
 
 ##### Artikel 3
 
-1. Voor een beredeneerd verslag inzake de inachtneming van de zorgvuldigheidseisen, bedoeld in [artikel 2 van de Wet toetsing levensbeëindiging op verzoek en hulp bij zelfdoding](https://wetten.overheid.nl/jci1.3:c:BWBR0012410&artikel=2), wordt één van de modellen uit [Bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0032047&bijlage=2&z=2012-10-10&g=2012-10-10) gebruikt.
+1. Voor een beredeneerd verslag inzake de inachtneming van de zorgvuldigheidseisen, bedoeld in [artikel 2 van de Wet toetsing levensbeëindiging op verzoek en hulp bij zelfdoding](https://wetten.overheid.nl/jci1.3:c:BWBR0012410&artikel=2), wordt één van de modellen uit [Bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0032047&bijlage=2&z=2016-07-01&g=2016-07-01) gebruikt.
 
 2. Degene die het verslag, bedoeld in het eerste lid, uitbrengt, gebruikt naar keuze het model in het Engels, Nederlands of Papiamentu.
 
 ##### Artikel 4
 
-1. Bij het uitbrengen van het verslag, bedoeld in [artikel 5 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0028199&artikel=5), van de op grond van [artikel 4 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0028199&artikel=4) door het bestuurscollege aangewezen geneeskundige, aan de officier van justitie en de regionale toetsingcommissie, betreffende overlijden als gevolg van de toepassing van levensbeëindiging op verzoek en hulp bij zelfdoding, wordt één van de modelformulieren uit [Bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0032047&bijlage=3&z=2012-10-10&g=2012-10-10) gebruikt.
+1. Bij het uitbrengen van het verslag, bedoeld in [artikel 5 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0028199&artikel=5), van de op grond van [artikel 4 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0028199&artikel=4) door het bestuurscollege aangewezen geneeskundige, aan de officier van justitie en de regionale toetsingcommissie, betreffende overlijden als gevolg van de toepassing van levensbeëindiging op verzoek en hulp bij zelfdoding, wordt één van de modelformulieren uit [Bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0032047&bijlage=3&z=2016-07-01&g=2016-07-01) gebruikt.
 
 2. De geneeskundige, bedoeld in het eerste lid, gebruikt naar keuze het modelformulier in het Engels, Nederlands of Papiamentu.
 
 ##### Artikel 5
 
-1. Bij het uitbrengen van het verslag, bedoeld in [artikel 5 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0028199&artikel=5), van de op grond van [artikel 4 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0028199&artikel=4) door het bestuurscollege aangewezen geneeskundige, aan de ambtenaar van de burgerlijke stand, betreffende overlijden als gevolg van de toepassing van levensbeëindiging op verzoek en hulp bij zelfdoding, wordt één van de modelformulieren uit [Bijlage 4](https://wetten.overheid.nl/jci1.3:c:BWBR0032047&bijlage=4&z=2012-10-10&g=2012-10-10) gebruikt.
+1. Bij het uitbrengen van het verslag, bedoeld in [artikel 5 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0028199&artikel=5), van de op grond van [artikel 4 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0028199&artikel=4) door het bestuurscollege aangewezen geneeskundige, aan de ambtenaar van de burgerlijke stand, betreffende overlijden als gevolg van de toepassing van levensbeëindiging op verzoek en hulp bij zelfdoding, wordt één van de modelformulieren uit [Bijlage 4](https://wetten.overheid.nl/jci1.3:c:BWBR0032047&bijlage=4&z=2016-07-01&g=2016-07-01) gebruikt.
 
 2. De geneeskundige, bedoeld in het eerste lid, gebruikt naar keuze het modelformulier in het Engels, Nederlands of Papiamentu.
 
@@ -78,7 +78,7 @@ Deze regeling wordt aangehaald als: Regeling modelformulieren levensbeëindiging
 
 ## Bijlage 1
 
-### Behoort bij [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0032047&artikel=2&z=2012-10-10&g=2012-10-10) van de Regeling modelformulieren levensbeëindiging op verzoek en hulp bij zelfdoding BES
+### Behoort bij [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0032047&artikel=2&z=2016-07-01&g=2016-07-01) van de Regeling modelformulieren levensbeëindiging op verzoek en hulp bij zelfdoding BES
 
 ### A. Engels
 
@@ -180,7 +180,7 @@ ta deklará , den kaso ku a risibí, di a presentá e deklarashon di boluntat pr
 
 ## Bijlage 2
 
-### Behoort bij [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0032047&artikel=3&z=2012-10-10&g=2012-10-10) van de Regeling modelformulieren levensbeëindiging op verzoek en hulp bij zelfdoding BES
+### Behoort bij [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0032047&artikel=3&z=2016-07-01&g=2016-07-01) van de Regeling modelformulieren levensbeëindiging op verzoek en hulp bij zelfdoding BES
 
 ### A. Engels
 
@@ -200,7 +200,9 @@ This model document uses the term ‘termination of life on request’ to refer 
 
 ### B. Nederlands
 
-### Model voor een verslag van de behandelend arts
+### B. Nederlands
+
+In verband met een melding aan de op grond van [artikel 4 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0028199&artikel=4) door het bestuurscollege aangewezen geneeskundige van het overlijden als gevolg van de toepassing van levensbeëindiging op verzoek of hulp bij zelfdoding.
 
 In verband met een melding aan de op grond van [artikel 4 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0028199&artikel=4) door het bestuurscollege aangewezen geneeskundige van het overlijden als gevolg van de toepassing van levensbeëindiging op verzoek of hulp bij zelfdoding.
 
@@ -214,11 +216,13 @@ een waardevolle bijdrage leveren. Indien de ruimte voor beantwoording van een vr
 
 In dit model wordt alleen de term ‘levensbeëindiging op verzoek’ gebruikt. Hiermee wordt zowel euthanasie als hulp bij zelfdoding bedoeld. Bij euthanasie dient de arts de dodelijke middelen aan de patiënt toe. Bij hulp bij zelfdoding ontvangt de patiënt van de arts de middelen die de patiënt zelf inneemt.
 
-Met de term ‘patiënt’ wordt in dit model zowel man als vrouw bedoeld.
-
 ### C. Papiamentu
 
 ### Modelo di un relato di e dokter ku a trata e persona
+
+Den kuadro di un anunsio a base di artíkulo 4 di e lei, kaminda Bestuurscollege ta apuntá e dòkter ku ta trata e kaso relashoná ku fayesimentu komo konsekuensia di aplikashon di terminashon di bida riba petishon òf ayudo pa terminashon di bida propio.
+
+E anunsio a base di artíkulo 4 di e lei kaminda Bestuurscollege ta apuntá e dòkter den kaso di un morto no natural komo konsekuensia di aplikashon di terminashon di bida riba petishon òf ayudo pa terminashon di bida propio, e dòkter ku ta trata e pashènt den e kaso aki ta duna un relato enkuanto e opservashonnan ku ta trahá segun e modelo mas abou. Ku e dòkter ku a trata e kaso nos ta referí na e dòkter ku a ehekutá e terminashon di bida riba petishon (eutanasia) òf esun ku a duna ayudo pa terminashon di bida propio. E modelo aki ta traha a base di e eksigensianan kuidadoso, referí den artíkulo 2 di e Lei di prueba di terminashon di bida riba petishon i di ayudo pa terminashon di bida propio.
 
 Den kuadro di un anunsio a base di artíkulo 4 di e lei, kaminda Bestuurscollege ta apuntá e dòkter ku ta trata e kaso relashoná ku fayesimentu komo konsekuensia di aplikashon di terminashon di bida riba petishon òf ayudo pa terminashon di bida propio.
 
@@ -228,15 +232,17 @@ Pa brinda e komishon ku ta husga e petishon e posibilidat pa por duna un huisio 
 
 ku por duna un kontribushon balioso. Den kaso ku e espasio pa kontestá un pregunta ta chikitu, bo por hasi uso di un suplemento. No lubidá di pone di un forma kla riba e suplemento na kua pregunta òf preguntanan e kontesta tin relashon kuné.
 
-Den e modelo aki ta usa solamente e terminologia di ‘terminashon di bida riba petishon’. Ku esaki tambe ta referí na tantu eutanasia komo ayudo pa terminashon di bida propio. Na eutanasia e dòkter ta duna e pashènt e remedinan mortal. Ora di ayudo pa terminashon di bida propio e ‘pashènt’ ta risibí e remedinan serka e dòkter ku e mes ta tuma.
-
-Ta referí ku e terminologia ‘pashènt’ tantu na hende hòmber komo hende muhé den e modelo aki .
-
 ## Bijlage 3
 
 ### Behoort bij [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0032047&bijlage=4&z=2012-10-10&g=2012-10-10) van de Regeling modelformulieren levensbeëindiging op verzoek en hulp bij zelfdoding BES
 
 ### A. Engels
+
+To the person or committee referred to in section 5 of the Death Certificates (Bonaire, St Eustatius and Saba) Act;
+
+I the undersigned,
+
+as the physician appointed by the island executive pursuant to section 4 of the Death Certificates (Bonaire, St Eustatius and Saba) Act
 
 To the person or committee referred to in section 5 of the Death Certificates (Bonaire, St Eustatius and Saba) Act;
 
@@ -270,13 +276,13 @@ I have enclosed with this form a report on compliance with the due care criteria
 
 I am not convinced that the death was due to natural causes and have therefore notified the registrar of births, deaths, marriages and registered partnerships of the public body where the deceased person was resident.
 
-Remarks:
+### B. Nederlands
 
 (date) (signature)
 
 * delete as appropriate
 
-### B. Nederlands
+op grond van [artikel 4 van de Wet verklaringen van overlijden BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028199&artikel=4) door het bestuurscollege aangewezen geneeskundige;
 
 Aan de in [artikel 5 van de Wet verklaringen van overlijden BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028199&artikel=5) bedoelde persoon of commissie ;
 
@@ -310,13 +316,13 @@ verklaart bij dit formulier te hebben overgelegd een verslag inzake de inachtnem
 
 verklaart er niet van overtuigd te zijn dat de dood ten gevolge van een natuurlijke oorzaak is ingetreden; in verband waarmee hij de ambtenaar van de burgerlijke stand van het openbaar lichaam waar de overledene heeft gewoond, heeft gewaarschuwd.
 
-Bijzonderheden:
+### C. Papiamentu
 
 (datum) (ondertekening)
 
 * doorhalen wat niet van toepassing is
 
-### C. Papiamentu
+Dòkter apuntá a base di artíkulo 4 di e Lei di deklarashonnan di fayesimentu BES dor di Bestuurscollege;
 
 Na e artíkulo 5 di e Lei di deklarashonnan di fayesimentu BES persona òf komishon ;
 
@@ -348,17 +354,17 @@ ta deklará relashoná ku e fayesimentu aki di a/no a risibí di e dòkter ku a 
 
 ta deklará di a pone na e formulario aki un relato enkuanto e opservashonnan di e eksigensianan di kuido, referí den artíkulo 2 di e Lei di prueba di terminashon di bida riba petishon i di ayudo pa terminashon di bida propio, i den kaso ku a risibí, a pone tambe e deklarashon di boluntat propio por eskrito di e defunto i e deklarashon por eskrito di e dòkter ku a konsultá;
 
-ta deklará ku no ta konvensí ku e fayesimentu a tuma lugá di forma natural; den e kaso aki a pone e ámtenar di e registro sivil na altura kaminda e defunto tabata biba. Partikularidatnan:
-
-(fecha) (firma)
-
-* skrap loke ku no ta aplikabel
-
 ## Bijlage 4
 
 ### Behoort bij [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0032047&artikel=5&z=2012-10-10&g=2012-10-10) van de Regeling modelformulieren levensbeëindiging op verzoek en hulp bij zelfdoding BES
 
 ### A. Engels
+
+To the person or committee referred to in section 5 of the Death Certificates (Bonaire, St Eustatius and Saba) Act;
+
+I the undersigned,
+
+as the physician appointed by the island executive pursuant to section 4 of the Death Certificates (Bonaire, St Eustatius and Saba) Act
 
 To the person or committee referred to in section 5 of the Death Certificates (Bonaire, St Eustatius and Saba) Act;
 
@@ -392,13 +398,13 @@ I have enclosed with this form a report on compliance with the due care criteria
 
 I am not convinced that the death was due to natural causes.
 
-Remarks:
+### B. Nederlands
 
 (date) (signature)
 
 * delete as appropriate
 
-### B. Nederlands
+op grond van [artikel 4 van de Wet verklaringen van overlijden BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028199&artikel=4) door het bestuurscollege aangewezen geneeskundige;
 
 Aan de in [artikel 5 van de Wet verklaringen van overlijden BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028199&artikel=5) bedoelde persoon of commissie ;
 
@@ -432,13 +438,13 @@ verklaart bij dit formulier te hebben overgelegd een verslag inzake de inachtnem
 
 verklaart er niet van overtuigd te zijn dat de dood ten gevolge van een natuurlijke oorzaak is ingetreden;
 
-Bijzonderheden:
+### C. Papiamentu
 
 (datum) (ondertekening)
 
 * doorhalen wat niet van toepassing is
 
-### C. Papiamentu
+A base di artíkulo 4 di e Lei di deklarashonnan di fayesimentu BES di e dòkter apuntá dor di Bestuurscollege ;
 
 Na e artíkulo 5 di e Lei di deklarashonnan di fayesimentu BES persona of komishon indiká;
 
@@ -471,6 +477,60 @@ ta deklará relashoná ku e fayesimentu aki si/no a risibí un deklarashon por e
 ta deklará di a pone na e formulario aki un relato enkuanto e opservashonnan di e eksigensianan di kuido, referí den artíkulo 2 di e Lei di prueba di terminashon di bida riba petishon i di ayudo pa terminashon di bida propio, i, den kaso ku a risibí, a pone tambe e deklarashon di boluntat propio por eskrito di e defunto i e deklarashon por eskrito di e dòkter ku a konsultá;
 
 ta deklará ku no ta konvensí ku e fayesimentu a tuma lugá komo konsekuensia di motibunan natural;
+
+Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
+
+Performance of termination of life on request
+
+### Model voor een verslag van de behandelend arts
+
+Met de term ‘patiënt’ wordt in dit model zowel man als vrouw bedoeld.
+
+Uitvoering van de levensbeëindiging op verzoek
+
+### C. Papiamentu
+
+### Modelo di un relato di e dokter ku a trata e persona
+
+Den e modelo aki ta usa solamente e terminologia di ‘terminashon di bida riba petishon’. Ku esaki tambe ta referí na tantu eutanasia komo ayudo pa terminashon di bida propio. Na eutanasia e dòkter ta duna e pashènt e remedinan mortal. Ora di ayudo pa terminashon di bida propio e ‘pashènt’ ta risibí e remedinan serka e dòkter ku e mes ta tuma.
+
+Ta referí ku e terminologia ‘pashènt’ tantu na hende hòmber komo hende muhé den e modelo aki .
+
+Ehekushon di terminashon di bida riba petishon
+
+## Bijlage 3
+
+### Behoort bij [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0032047&bijlage=4&z=2016-07-01&g=2016-07-01) van de Regeling modelformulieren levensbeëindiging op verzoek en hulp bij zelfdoding BES
+
+### A. Engels
+
+Remarks:
+
+### B. Nederlands
+
+Bijzonderheden:
+
+### C. Papiamentu
+
+ta deklará ku no ta konvensí ku e fayesimentu a tuma lugá di forma natural; den e kaso aki a pone e ámtenar di e registro sivil na altura kaminda e defunto tabata biba. Partikularidatnan:
+
+(fecha) (firma)
+
+* skrap loke ku no ta aplikabel
+
+## Bijlage 4
+
+### Behoort bij [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0032047&artikel=5&z=2016-07-01&g=2016-07-01) van de Regeling modelformulieren levensbeëindiging op verzoek en hulp bij zelfdoding BES
+
+### A. Engels
+
+Remarks:
+
+### B. Nederlands
+
+Bijzonderheden:
+
+### C. Papiamentu
 
 partikularidatnan:
 
