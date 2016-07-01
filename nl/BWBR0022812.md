@@ -4,7 +4,7 @@ identifier: "BWBR0022812"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-01-01"
-last_updated: "2008-01-01"
+last_updated: "2016-07-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0022812"
 soort: "ministeriele-regeling"
@@ -56,7 +56,7 @@ vergunninghouder: houder van een vergunning als bedoeld in [artikel 15, onder b,
 
 1. Het in [artikel 21, eerste lid, van het Besluit kerninstallaties, splijtstoffen en ertsen](https://wetten.overheid.nl/jci1.3:c:BWBR0002667&artikel=21) gestelde verbod geldt mede voor gebruik in een inrichting als bedoeld in [artikel 15, onder b, van de Kernenergiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0002402&artikel=15), van door de Minister, na overleg met de Minister van Sociale Zaken en Werkgelegenheid, aangewezen niet speciaal voor nucleair gebruik in een dergelijke inrichting ontworpen drukapparatuur die bij defecten de verspreiding van radioactiviteit kan veroorzaken.
 
-2. Ten aanzien van de in het eerste lid bedoelde drukapparatuur zijn de [artikelen 3 tot en met 16](https://wetten.overheid.nl/jci1.3:c:BWBR0022812&hoofdstuk=1&artikel=3&z=2008-01-01&g=2008-01-01), met uitzondering van de [artikelen, 4, eerste lid, onderdelen a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0022812&hoofdstuk=2&artikel=4&z=2008-01-01&g=2008-01-01), en [9, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022812&hoofdstuk=2&artikel=9&z=2008-01-01&g=2008-01-01), van overeenkomstige toepassing.
+2. Ten aanzien van de in het eerste lid bedoelde drukapparatuur zijn de [artikelen 3 tot en met 16](https://wetten.overheid.nl/jci1.3:c:BWBR0022812&hoofdstuk=1&artikel=3&z=2016-07-01&g=2016-07-01), met uitzondering van de [artikelen, 4, eerste lid, onderdelen a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0022812&hoofdstuk=2&artikel=4&z=2016-07-01&g=2016-07-01), en [9, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022812&hoofdstuk=2&artikel=9&z=2016-07-01&g=2016-07-01), van overeenkomstige toepassing.
 
 3. Deze regeling is niet van toepassing op drukapparatuur waarop de [Regeling vervoerbare drukapparatuur](https://wetten.overheid.nl/jci1.3:c:BWBR0011832) van toepassing is.
 
@@ -94,11 +94,11 @@ vergunninghouder: houder van een vergunning als bedoeld in [artikel 15, onder b,
 
 - c. een keuring voor de ingebruikneming van de nucleaire drukapparatuur.
 
-2. De vergunninghouder laat nucleaire drukapparatuur gedurende het gebruik keuren overeenkomstig het in [artikel 3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022812&hoofdstuk=1&artikel=3&z=2008-01-01&g=2008-01-01), bedoelde keuringsprogramma waarmee de Minister heeft ingestemd.
+2. De vergunninghouder laat nucleaire drukapparatuur gedurende het gebruik keuren overeenkomstig het in [artikel 3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022812&hoofdstuk=1&artikel=3&z=2016-07-01&g=2016-07-01), bedoelde keuringsprogramma waarmee de Minister heeft ingestemd.
 
 ##### Artikel 5
 
-1. De vergunninghouder vermeldt in de aanvraag om een beoordeling of keuring als bedoeld in [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022812&hoofdstuk=2&artikel=4&z=2008-01-01&g=2008-01-01):
+1. De vergunninghouder vermeldt in de aanvraag om een beoordeling of keuring als bedoeld in [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022812&hoofdstuk=2&artikel=4&z=2016-07-01&g=2016-07-01):
 
 - a. zijn naam en adres;
 
@@ -110,7 +110,7 @@ vergunninghouder: houder van een vergunning als bedoeld in [artikel 15, onder b,
 
 - e. de van toepassing zijnde ontwerpcode, onderscheidenlijk inspectiecode.
 
-2. De vergunninghouder vermeldt in de aanvraag om een keuring als bedoeld in [artikel 4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022812&hoofdstuk=2&artikel=4&z=2008-01-01&g=2008-01-01), de gegevens, bedoeld in het eerste lid.
+2. De vergunninghouder vermeldt in de aanvraag om een keuring als bedoeld in [artikel 4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022812&hoofdstuk=2&artikel=4&z=2016-07-01&g=2016-07-01), de gegevens, bedoeld in het eerste lid.
 
 ##### Artikel 6
 
@@ -118,7 +118,7 @@ De beoordelingen en keuringen worden verricht overeenkomstig de door de Minister
 
 ##### Artikel 7
 
-De kosten van beoordelingen als bedoeld in de [artikelen 3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022812&hoofdstuk=1&artikel=3&z=2008-01-01&g=2008-01-01), en [4, eerste lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0022812&hoofdstuk=2&artikel=4&z=2008-01-01&g=2008-01-01), en van de keuringen komen voor rekening van de gebruiker van de nucleaire drukapparatuur.
+De kosten van beoordelingen als bedoeld in de [artikelen 3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022812&hoofdstuk=1&artikel=3&z=2016-07-01&g=2016-07-01), en [4, eerste lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0022812&hoofdstuk=2&artikel=4&z=2016-07-01&g=2016-07-01), en van de keuringen komen voor rekening van de gebruiker van de nucleaire drukapparatuur.
 
 ##### Artikel 8
 
@@ -126,25 +126,25 @@ De keuringsinstelling maakt van elke beoordeling en keuring een rapport op, waar
 
 ##### Artikel 9
 
-1. De keuringsinstelling geeft een verklaring van goedkeuring van het ontwerp af, indien bij een beoordeling als bedoeld in [artikel 4, eerste lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0022812&hoofdstuk=2&artikel=4&z=2008-01-01&g=2008-01-01), is gebleken dat het ontwerp van de nucleaire drukapparatuur voldoet aan de in de betrokken ontwerpcode gestelde eisen.
+1. De keuringsinstelling geeft een verklaring van goedkeuring van het ontwerp af, indien bij een beoordeling als bedoeld in [artikel 4, eerste lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0022812&hoofdstuk=2&artikel=4&z=2016-07-01&g=2016-07-01), is gebleken dat het ontwerp van de nucleaire drukapparatuur voldoet aan de in de betrokken ontwerpcode gestelde eisen.
 
-2. De keuringsinstelling geeft een verklaring van goedkeuring van fabricage af, indien bij de keuring, bedoeld in [artikel 4, eerste lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0022812&hoofdstuk=2&artikel=4&z=2008-01-01&g=2008-01-01), is gebleken dat de nucleaire drukapparatuur voldoet aan de in de betrokken ontwerpcode gestelde eisen.
+2. De keuringsinstelling geeft een verklaring van goedkeuring van fabricage af, indien bij de keuring, bedoeld in [artikel 4, eerste lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0022812&hoofdstuk=2&artikel=4&z=2016-07-01&g=2016-07-01), is gebleken dat de nucleaire drukapparatuur voldoet aan de in de betrokken ontwerpcode gestelde eisen.
 
-3. De keuringsinstelling geeft een verklaring van ingebruikneming af, indien bij een keuring als bedoeld in [artikel 4, eerste lid, onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0022812&hoofdstuk=2&artikel=4&z=2008-01-01&g=2008-01-01), is gebleken dat de nucleaire drukapparatuur voldoet aan de in de betrokken ontwerpcode gestelde eisen.
+3. De keuringsinstelling geeft een verklaring van ingebruikneming af, indien bij een keuring als bedoeld in [artikel 4, eerste lid, onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0022812&hoofdstuk=2&artikel=4&z=2016-07-01&g=2016-07-01), is gebleken dat de nucleaire drukapparatuur voldoet aan de in de betrokken ontwerpcode gestelde eisen.
 
-4. De keuringsinstelling geeft een verklaring van herkeuring af, indien bij een keuring als bedoeld in [artikel 4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022812&hoofdstuk=2&artikel=4&z=2008-01-01&g=2008-01-01), is gebleken dat de nucleaire drukapparatuur voldoet aan de in de betrokken inspectiecode gestelde eisen.
+4. De keuringsinstelling geeft een verklaring van herkeuring af, indien bij een keuring als bedoeld in [artikel 4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022812&hoofdstuk=2&artikel=4&z=2016-07-01&g=2016-07-01), is gebleken dat de nucleaire drukapparatuur voldoet aan de in de betrokken inspectiecode gestelde eisen.
 
 ##### Artikel 10
 
-De beoordelingen en keuringen worden verricht door of onder toezicht van de in de [artikelen 14 tot en met 16](https://wetten.overheid.nl/jci1.3:c:BWBR0022812&hoofdstuk=3&artikel=14&z=2008-01-01&g=2008-01-01) bedoelde medewerkers van de keuringsinstelling.
+De beoordelingen en keuringen worden verricht door of onder toezicht van de in de [artikelen 14 tot en met 16](https://wetten.overheid.nl/jci1.3:c:BWBR0022812&hoofdstuk=3&artikel=14&z=2016-07-01&g=2016-07-01) bedoelde medewerkers van de keuringsinstelling.
 
 ### Hoofdstuk 3. Keuringsinstellingen
 
 ##### Artikel 11
 
-1. Voor een aanwijzing als keuringsinstelling van het ontwerp, de fabricage en de ingebruikneming van nucleaire drukapparatuur komen in aanmerking instellingen die ten minste voldoen aan de voorwaarden, vermeld in het Richtlijn Specifieke Accreditatie Schema voor het Warenwetbesluit drukapparatuur (versie 01 Stcrt. 2001, nr. 15), en aan de voorwaarden, bedoeld in [artikel 13, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022812&hoofdstuk=3&artikel=13&z=2008-01-01&g=2008-01-01).
+1. Voor een aanwijzing als keuringsinstelling van het ontwerp, de fabricage en de ingebruikneming van nucleaire drukapparatuur komen in aanmerking instellingen die ten minste voldoen aan de voorwaarden, vermeld in het Schema voor Aanwijzing en Toezicht op de certificerings- en keuringsinstellingen voor Drukapparatuur (versie Stcrt. 2011, nr. 18269), als bedoeld in [bijlage 2 van de Warenwetregeling drukapparatuur](https://wetten.overheid.nl/jci1.3:c:BWBR0010889&bijlage=2), en aan de voorwaarden, bedoeld in [artikel 13, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022812&hoofdstuk=3&artikel=13&z=2016-07-01&g=2016-07-01).
 
-2. Voor een aanwijzing als keuringsinstelling in de gebruiksfase van nucleaire drukapparatuur komen in aanmerking instellingen die ten minste voldoen aan de voorwaarden, vermeld in het Wet Specifieke Accreditatie Schema voor het Warenwetbesluit drukapparatuur (versie 02 Stcrt. 2006, nr. 132), en aan de voorwaarden, bedoeld in [artikel 13, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022812&hoofdstuk=3&artikel=13&z=2008-01-01&g=2008-01-01).
+2. Voor een aanwijzing als keuringsinstelling in de gebruiksfase van nucleaire drukapparatuur komen in aanmerking instellingen die ten minste voldoen aan de voorwaarden, vermeld in het Schema voor Aanwijzing en Toezicht op de certificerings- en keuringsinstellingen voor Drukapparatuur (versie Stcrt. 2011, nr. 18269), als bedoeld in [bijlage 2 van de Warenwetregeling drukapparatuur](https://wetten.overheid.nl/jci1.3:c:BWBR0010889&bijlage=2), en aan de voorwaarden, bedoeld in [artikel 13, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022812&hoofdstuk=3&artikel=13&z=2016-07-01&g=2016-07-01).
 
 3. Voor een aanwijzing als keuringsinstelling komen tevens in aanmerking instellingen in een andere lidstaat van de Europese Unie, een staat, niet zijnde een lidstaat van de Europese Unie, die partij is bij een daartoe strekkend of mede daartoe strekkend verdrag dat Nederland bindt dan wel een andere staat waarmee de Europese Unie een wederzijdse erkenningsovereenkomst met betrekking tot de keuring van nucleaire drukapparatuur heeft afgesloten, die een beroepsniveau waarborgen dat ten minste gelijkwaardig is aan het niveau dat met de nationale voorwaarden, bedoeld in het eerste, onderscheidenlijk het tweede lid, wordt nagestreefd.
 
@@ -154,17 +154,17 @@ De beoordelingen en keuringen worden verricht door of onder toezicht van de in d
 
 2. Aan een aanwijzing als keuringsinstelling kunnen voorschriften worden verbonden.
 
-3. Een aanwijzing als keuringsinstelling wordt ingetrokken indien de instelling niet meer voldoet aan de in [artikel 11, eerste, onderscheidenlijk tweede of derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022812&hoofdstuk=3&artikel=11&z=2008-01-01&g=2008-01-01), bedoelde voorwaarden. Zij kan worden ingetrokken indien de keuringsinstelling de keuringen niet op een juiste wijze verricht of indien de keuringsinstelling de krachtens het tweede lid aan de aanwijzing verbonden voorschriften niet naleeft.
+3. Een aanwijzing als keuringsinstelling wordt ingetrokken indien de instelling niet meer voldoet aan de in [artikel 11, eerste, onderscheidenlijk tweede of derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022812&hoofdstuk=3&artikel=11&z=2016-07-01&g=2016-07-01), bedoelde voorwaarden. Zij kan worden ingetrokken indien de keuringsinstelling de keuringen niet op een juiste wijze verricht of indien de keuringsinstelling de krachtens het tweede lid aan de aanwijzing verbonden voorschriften niet naleeft.
 
 ##### Artikel 13
 
-1. Een keuringsinstelling, die wordt belast met de beoordeling van het ontwerp, de keuring van de fabricage en de keuring voor de ingebruikneming van nucleaire drukapparatuur, heeft ten minste een beoordelaar, een seniorbeoordelaar, een specialist materiaalkunde, een specialist niet-destructief onderzoek, een inspecteur en een senior-inspecteur in dienst, die voldoen aan de in het in [artikel 11, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022812&hoofdstuk=3&artikel=11&z=2008-01-01&g=2008-01-01), bedoelde schema gestelde eisen en aan de in de [artikelen 14, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022812&hoofdstuk=3&artikel=14&z=2008-01-01&g=2008-01-01), onderscheidenlijk [14, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022812&hoofdstuk=3&artikel=14&z=2008-01-01&g=2008-01-01), [15, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022812&hoofdstuk=3&artikel=15&z=2008-01-01&g=2008-01-01), [15, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022812&hoofdstuk=3&artikel=15&z=2008-01-01&g=2008-01-01), en [16](https://wetten.overheid.nl/jci1.3:c:BWBR0022812&hoofdstuk=3&artikel=16&z=2008-01-01&g=2008-01-01) gestelde eisen.
+1. Een keuringsinstelling, die wordt belast met de beoordeling van het ontwerp, de keuring van de fabricage en de keuring voor de ingebruikneming van nucleaire drukapparatuur, heeft ten minste een beoordelaar, een seniorbeoordelaar, een specialist materiaalkunde, een specialist niet-destructief onderzoek, een inspecteur en een senior-inspecteur in dienst, die voldoen aan de in het in [artikel 11, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022812&hoofdstuk=3&artikel=11&z=2016-07-01&g=2016-07-01), bedoelde schema gestelde eisen en aan de in de [artikelen 14, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022812&hoofdstuk=3&artikel=14&z=2016-07-01&g=2016-07-01), onderscheidenlijk [14, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022812&hoofdstuk=3&artikel=14&z=2016-07-01&g=2016-07-01), [15, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022812&hoofdstuk=3&artikel=15&z=2016-07-01&g=2016-07-01), [15, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022812&hoofdstuk=3&artikel=15&z=2016-07-01&g=2016-07-01), en [16](https://wetten.overheid.nl/jci1.3:c:BWBR0022812&hoofdstuk=3&artikel=16&z=2016-07-01&g=2016-07-01) gestelde eisen.
 
-2. Onverminderd het eerste lid, heeft een keuringsinstelling, die wordt belast met de keuring in de gebruiksfase van nucleaire drukapparatuur, ten minste een specialist niet-destructief onderzoek, een inspecteur en een senior-inspecteur in dienst, die voldoen aan de in het in [artikel 11, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022812&hoofdstuk=3&artikel=11&z=2008-01-01&g=2008-01-01), bedoelde schema gestelde eisen en aan de in [artikel 15, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022812&hoofdstuk=3&artikel=15&z=2008-01-01&g=2008-01-01), onderscheidenlijk [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBR0022812&hoofdstuk=3&artikel=16&z=2008-01-01&g=2008-01-01) gestelde eisen.
+2. Onverminderd het eerste lid, heeft een keuringsinstelling, die wordt belast met de keuring in de gebruiksfase van nucleaire drukapparatuur, ten minste een specialist niet-destructief onderzoek, een inspecteur en een senior-inspecteur in dienst, die voldoen aan de in het in [artikel 11, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022812&hoofdstuk=3&artikel=11&z=2016-07-01&g=2016-07-01), bedoelde schema gestelde eisen en aan de in [artikel 15, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022812&hoofdstuk=3&artikel=15&z=2016-07-01&g=2016-07-01), onderscheidenlijk [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBR0022812&hoofdstuk=3&artikel=16&z=2016-07-01&g=2016-07-01) gestelde eisen.
 
 ##### Artikel 14
 
-1. Een beoordelaar als bedoeld in [artikel 13, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022812&hoofdstuk=3&artikel=13&z=2008-01-01&g=2008-01-01), voldoet aan de volgende eisen:
+1. Een beoordelaar als bedoeld in [artikel 13, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022812&hoofdstuk=3&artikel=13&z=2016-07-01&g=2016-07-01), voldoet aan de volgende eisen:
 
 - a. aantoonbare opleiding met betrekking tot de toe te passen nucleaire ontwerpcode,
 
@@ -172,7 +172,7 @@ De beoordelingen en keuringen worden verricht door of onder toezicht van de in d
 
 - c. ten minste stralingsdeskundigheid op niveau 5 of een gelijkwaardig niveau.
 
-2. Een seniorbeoordelaar als bedoeld in [artikel 13, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022812&hoofdstuk=3&artikel=13&z=2008-01-01&g=2008-01-01), voldoet aan de volgende eisen:
+2. Een seniorbeoordelaar als bedoeld in [artikel 13, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022812&hoofdstuk=3&artikel=13&z=2016-07-01&g=2016-07-01), voldoet aan de volgende eisen:
 
 - a. aantoonbare opleiding met betrekking tot de toe te passen nucleaire ontwerpcode,
 
@@ -182,13 +182,13 @@ De beoordelingen en keuringen worden verricht door of onder toezicht van de in d
 
 ##### Artikel 15
 
-1. Een specialist materiaalkunde als bedoeld in [artikel 13, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022812&hoofdstuk=3&artikel=13&z=2008-01-01&g=2008-01-01), heeft aantoonbare kennis van en ten minste een jaar ervaring met de relevante delen van de toe te passen ontwerpcodes en nucleaire vormen van materiaaldegradatie.
+1. Een specialist materiaalkunde als bedoeld in [artikel 13, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022812&hoofdstuk=3&artikel=13&z=2016-07-01&g=2016-07-01), heeft aantoonbare kennis van en ten minste een jaar ervaring met de relevante delen van de toe te passen ontwerpcodes en nucleaire vormen van materiaaldegradatie.
 
-2. Een specialist niet-destructief onderzoek als bedoeld in [artikel 13, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022812&hoofdstuk=3&artikel=13&z=2008-01-01&g=2008-01-01), heeft aantoonbare kennis van en ten minste een jaar ervaring met de relevante delen van de toe te passen ontwerpcodes en bijzonderheden van niet-destructief onderzoek van nucleaire drukapparatuur.
+2. Een specialist niet-destructief onderzoek als bedoeld in [artikel 13, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022812&hoofdstuk=3&artikel=13&z=2016-07-01&g=2016-07-01), heeft aantoonbare kennis van en ten minste een jaar ervaring met de relevante delen van de toe te passen ontwerpcodes en bijzonderheden van niet-destructief onderzoek van nucleaire drukapparatuur.
 
 ##### Artikel 16
 
-1. Een inspecteur als bedoeld in [artikel 13, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022812&hoofdstuk=3&artikel=13&z=2008-01-01&g=2008-01-01), voldoet aan de volgende eisen:
+1. Een inspecteur als bedoeld in [artikel 13, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022812&hoofdstuk=3&artikel=13&z=2016-07-01&g=2016-07-01), voldoet aan de volgende eisen:
 
 - a. ten minste één jaar ervaring in relevante functies op nucleair gebied,
 
@@ -196,7 +196,7 @@ De beoordelingen en keuringen worden verricht door of onder toezicht van de in d
 
 - c. ten minste stralingsdeskundigheid op niveau 5 of een gelijkwaardig niveau.
 
-2. Een senior-inspecteur als bedoeld in [artikel 13, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022812&hoofdstuk=3&artikel=13&z=2008-01-01&g=2008-01-01), voldoet aan de volgende eisen:
+2. Een senior-inspecteur als bedoeld in [artikel 13, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022812&hoofdstuk=3&artikel=13&z=2016-07-01&g=2016-07-01), voldoet aan de volgende eisen:
 
 - a. in staat zijn om de geldigheid en kwaliteit te beoordelen van het niet-destructief onderzoek en andere kwaliteitseisen in het kader van de toe te passen nucleaire ontwerpcode,
 
