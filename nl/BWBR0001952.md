@@ -4,7 +4,7 @@ identifier: "BWBR0001952"
 country: "nl"
 rank: "wet"
 publication_date: "2026-01-01"
-last_updated: "2014-06-28"
+last_updated: "2016-07-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0001952"
 soort: "wet"
@@ -323,7 +323,7 @@ Het bevoegd gezag en de militaire ambtenaar zijn verplicht zich als een goed wer
 
 - f. een procedure voor het omgaan met bij een militaire ambtenaar levende vermoedens van misstanden binnen de organisatie waar hij werkzaam is.
 
-2. De militaire ambtenaar die te goeder trouw de bij hem levende vermoedens van misstanden meldt volgens de procedure, bedoeld in het eerste lid onder f, zal als gevolg van het melden van die vermoedens geen nadelige gevolgen voor zijn rechtspositie ondervinden tijdens en na het volgen van die procedure.
+2. De militaire ambtenaar die te goeder trouw en naar behoren een vermoeden van een misstand als bedoeld in [artikel 1, onderdeel d, van de Wet Huis voor klokkenluiders](https://wetten.overheid.nl/jci1.3:c:BWBR0037852&artikel=1) meldt, zal als gevolg daarvan geen nadelige gevolgen voor zijn rechtspositie ondervinden tijdens en na de behandeling van deze melding bij het bevoegd gezag of de daartoe bevoegde instantie.
 
 ## Titel V. Overgangs- en slotbepalingen
 
