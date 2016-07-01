@@ -4,7 +4,7 @@ identifier: "BWBR0032334"
 country: "nl"
 rank: "amvb"
 publication_date: "2023-10-07"
-last_updated: "2013-01-01"
+last_updated: "2016-07-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0032334"
 soort: "AMvB"
@@ -78,27 +78,29 @@ In dit hoofdstuk en de daarop berustende bepalingen wordt verstaan onder:
 
 - d. categorie 4: € 5000;
 
-- e. categorie 5: € 10.000.
+- e. categorie 5: € 10.000 of, indien dat meer is, 10% van de jaaromzet.
 
-2. Bij ministeriële regeling worden de bepalingen waarvoor in geval van overtreding een bestuurlijke boete kan worden opgelegd, ingedeeld overeenkomstig de daarbij aangewezen boetecategorie.
+2. Indien de hoogte van de krachtens het derde lid aangewezen boetecategorie door het met de overtreding te behalen economische voordeel aanmerkelijk wordt overschreden, kan Onze Minister een bestuurlijke boete opleggen van ten hoogste categorie 5, bedoeld in het eerste lid.
 
-3. In de regeling, bedoeld in het tweede lid, kan worden bepaald dat de hoogte van de bestuurlijke boete voor een overtreding wordt vastgesteld op het bedrag behorende bij de naasthogere boetecategorie ten opzichte van de categorie, bedoeld in het tweede lid, indien bij de betreffende gedraging een in die regeling vastgesteld percentage dieren van het totaal aantal betrokken dieren was betrokken op een in die regeling aangewezen wijze.
+3. Bij ministeriële regeling worden de bepalingen waarvoor in geval van overtreding een bestuurlijke boete kan worden opgelegd, ingedeeld overeenkomstig de daarbij aangewezen boetecategorie.
+
+4. In de regeling, bedoeld in het derde lid, kan worden bepaald dat de hoogte van de bestuurlijke boete voor een overtreding wordt vastgesteld op het bedrag behorende bij de naasthogere boetecategorie ten opzichte van de categorie, bedoeld in het derde lid, indien bij de betreffende gedraging een in die regeling vastgesteld percentage dieren van het totaal aantal betrokken dieren was betrokken op een in die regeling aangewezen wijze.
 
 ##### Artikel 2.3. Gevolgen volksgezondheid, diergezondheid en dierenwelzijn
 
 Indien de risico’s of de gevolgen van een overtreding voor de volksgezondheid, diergezondheid, dierenwelzijn of milieu:
 
-- a. gering zijn of ontbreken, wordt het bedrag, bedoeld in [artikel 2.2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032334&hoofdstuk=2&artikel=2.2&z=2013-01-01&g=2013-01-01), gehalveerd;
+- a. gering zijn of ontbreken, wordt het bedrag, bedoeld in [artikel 2.2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032334&hoofdstuk=2&artikel=2.2&z=2016-07-01&g=2016-07-01), gehalveerd;
 
-- b. ernstig zijn, wordt het bedrag, bedoeld in [artikel 2.2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032334&hoofdstuk=2&artikel=2.2&z=2013-01-01&g=2013-01-01), verdubbeld.
+- b. ernstig zijn, wordt het bedrag, bedoeld in [artikel 2.2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032334&hoofdstuk=2&artikel=2.2&z=2016-07-01&g=2016-07-01), verdubbeld.
 
 ##### Artikel 2.4. Overtreding door particulier
 
-Indien een overtreding is begaan anders dan in de uitoefening van een beroep of bedrijf, wordt het voor die overtreding op grond van de [artikelen 2.2](https://wetten.overheid.nl/jci1.3:c:BWBR0032334&hoofdstuk=2&artikel=2.2&z=2013-01-01&g=2013-01-01) en [2.3](https://wetten.overheid.nl/jci1.3:c:BWBR0032334&hoofdstuk=2&artikel=2.3&z=2013-01-01&g=2013-01-01) op te leggen boetebedrag gehalveerd.
+Indien een overtreding is begaan anders dan in de uitoefening van een beroep of bedrijf, wordt het voor die overtreding op grond van de [artikelen 2.2](https://wetten.overheid.nl/jci1.3:c:BWBR0032334&hoofdstuk=2&artikel=2.2&z=2016-07-01&g=2016-07-01) en [2.3](https://wetten.overheid.nl/jci1.3:c:BWBR0032334&hoofdstuk=2&artikel=2.3&z=2016-07-01&g=2016-07-01) op te leggen boetebedrag gehalveerd.
 
 ##### Artikel 2.5. Recidive
 
-1. Indien ten tijde van het begaan van een overtreding nog geen vijf jaren zijn verstreken sinds een eerder aan de overtreder opgelegde bestuurlijke boete voor eenzelfde overtreding onherroepelijk is geworden, is de bestuurlijke boete gelijk aan de som van de op grond van de [artikelen 2.2](https://wetten.overheid.nl/jci1.3:c:BWBR0032334&hoofdstuk=2&artikel=2.2&z=2013-01-01&g=2013-01-01), [2.3](https://wetten.overheid.nl/jci1.3:c:BWBR0032334&hoofdstuk=2&artikel=2.3&z=2013-01-01&g=2013-01-01) en [2.4](https://wetten.overheid.nl/jci1.3:c:BWBR0032334&hoofdstuk=2&artikel=2.4&z=2013-01-01&g=2013-01-01) voor de overtreding op te leggen bestuurlijke boete en de voor die eerdere overtreding opgelegde bestuurlijke boete.
+1. Indien ten tijde van het begaan van een overtreding nog geen vijf jaren zijn verstreken sinds een eerder aan de overtreder opgelegde bestuurlijke boete voor eenzelfde overtreding onherroepelijk is geworden, is de bestuurlijke boete gelijk aan de som van de op grond van de [artikelen 2.2](https://wetten.overheid.nl/jci1.3:c:BWBR0032334&hoofdstuk=2&artikel=2.2&z=2016-07-01&g=2016-07-01), [2.3](https://wetten.overheid.nl/jci1.3:c:BWBR0032334&hoofdstuk=2&artikel=2.3&z=2016-07-01&g=2016-07-01) en [2.4](https://wetten.overheid.nl/jci1.3:c:BWBR0032334&hoofdstuk=2&artikel=2.4&z=2016-07-01&g=2016-07-01) voor de overtreding op te leggen bestuurlijke boete en de voor die eerdere overtreding opgelegde bestuurlijke boete.
 
 2. Bij ministeriële regeling kunnen overtredingen worden aangewezen die soortgelijk zijn aan daarbij aangewezen andere overtredingen.
 
@@ -168,7 +170,7 @@ De Raad doet jaarlijks voor 1 april schriftelijk verslag van zijn werkzaamheden 
 
 ##### Artikel 4.1. Evaluatie bestuurlijke boete
 
-Onze Minister zendt binnen drie jaar na de inwerkingtreding van dit besluit een verslag aan de Staten-Generaal over de doeltreffendheid en de effecten van [hoofdstuk 2](https://wetten.overheid.nl/jci1.3:c:BWBR0032334&hoofdstuk=2&z=2013-01-01&g=2013-01-01) in de praktijk.
+Onze Minister zendt binnen drie jaar na de inwerkingtreding van dit besluit een verslag aan de Staten-Generaal over de doeltreffendheid en de effecten van [hoofdstuk 2](https://wetten.overheid.nl/jci1.3:c:BWBR0032334&hoofdstuk=2&z=2016-07-01&g=2016-07-01) in de praktijk.
 
 ##### Artikel 4.2. Evaluatie Raad voor dierenaangelegenheden
 
