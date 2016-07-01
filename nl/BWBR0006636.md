@@ -4,7 +4,7 @@ identifier: "BWBR0006636"
 country: "nl"
 rank: "wet"
 publication_date: "2016-07-01"
-last_updated: "1996-01-01"
+last_updated: "2016-07-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0006636"
 soort: "wet"
@@ -71,19 +71,19 @@ In deze wet wordt verstaan onder:
 
 ##### Artikel 3
 
-1. Alle vermogensbestanddelen van de Staat die aan 's Rijks Munt kunnen worden toegerekend, gaan op de overgangsdatum onder algemene titel over op De Nederlands Munt N.V. tegen de waarde te bepalen met inachtneming van het bepaalde in artikel 94**a**, boek 2 van het Burgerlijk Wetboek en zonder dat daarvoor een nadere akte of betekening wordt gevorderd.
+1. Alle vermogensbestanddelen van de Staat die aan 's Rijks Munt kunnen worden toegerekend, gaan op de overgangsdatum onder algemene titel over op De Nederlands Munt N.V. tegen de waarde te bepalen met inachtneming van het bepaalde in [artikel 94a, boek 2 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=94a) en zonder dat daarvoor een nadere akte of betekening wordt gevorderd.
 
-2. Van de in het eerste lid bedoelde overgang zijn uitgezonderd de voor overdracht vatbare auteursrechten op de beeldenaars van munten, de stempels en de ontwerpen van stempels voor de munten, de museale verzamelingen en voorwerpen die deel uitmaken van de collecties van het in [artikel 2, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006636&hoofdstuk=2&artikel=2&z=1996-01-01&g=1996-01-01), bedoelde muntmuseum. Onze Minister kan andere vermogensbestanddelen van de in het eerste lid bedoelde overgang uitzonderen.
+2. Van de in het eerste lid bedoelde overgang zijn uitgezonderd de voor overdracht vatbare auteursrechten op de beeldenaars van munten, de stempels en de ontwerpen van stempels voor de munten, de museale verzamelingen en voorwerpen die deel uitmaken van de collecties van het in [artikel 2, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006636&hoofdstuk=2&artikel=2&z=2016-07-01&g=2016-07-01), bedoelde muntmuseum. Onze Minister kan andere vermogensbestanddelen van de in het eerste lid bedoelde overgang uitzonderen.
 
-3. [Artikel 4 van de Wet verzelfstandiging rijksmuseale diensten](https://wetten.overheid.nl/jci1.3:c:BWBR0006030&artikel=4) is ten aanzien van de in het tweede lid genoemde museale verzamelingen en voorwerpen niet van toepassing.
+3. [Artikel 2.6, eerste lid, van de Erfgoedwet](https://wetten.overheid.nl/jci1.3:c:BWBR0037521&artikel=2.6) is ten aanzien van de in het tweede lid genoemde museale verzamelingen en voorwerpen niet van toepassing.
 
 ##### Artikel 4
 
-De overgang van de vermogensbestanddelen, bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0006636&hoofdstuk=2&artikel=3&z=1996-01-01&g=1996-01-01), wordt tot het beloop van het nominale bedrag van de bij oprichting geplaatste aandelen of tot een door Onze Minister te bepalen hoger bedrag aangemerkt als storting door de Staat op aandelen. Een dan nog resterend verschil wordt aangemerkt als storting door de Staat op een of meer leningen aan De Nederlandse Munt N.V., waarvan de voorwaarden door Onze Minister worden vastgesteld.
+De overgang van de vermogensbestanddelen, bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0006636&hoofdstuk=2&artikel=3&z=2016-07-01&g=2016-07-01), wordt tot het beloop van het nominale bedrag van de bij oprichting geplaatste aandelen of tot een door Onze Minister te bepalen hoger bedrag aangemerkt als storting door de Staat op aandelen. Een dan nog resterend verschil wordt aangemerkt als storting door de Staat op een of meer leningen aan De Nederlandse Munt N.V., waarvan de voorwaarden door Onze Minister worden vastgesteld.
 
 ##### Artikel 5
 
-Met betrekking tot de in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006636&hoofdstuk=2&artikel=3&z=1996-01-01&g=1996-01-01), bedoelde vermogensbestanddelen die in openbare registers te boek zijn gesteld, zal verandering van de tenaamstelling in die registers plaatsvinden door de bewaarders van die registers. De daartoe nodige opgaven worden door de zorg van Onze Minister aan de bewaarders van de desbetreffende registers gedaan.
+Met betrekking tot de in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006636&hoofdstuk=2&artikel=3&z=2016-07-01&g=2016-07-01), bedoelde vermogensbestanddelen die in openbare registers te boek zijn gesteld, zal verandering van de tenaamstelling in die registers plaatsvinden door de bewaarders van die registers. De daartoe nodige opgaven worden door de zorg van Onze Minister aan de bewaarders van de desbetreffende registers gedaan.
 
 ### Hoofdstuk 3. Personeel
 
@@ -113,7 +113,7 @@ Met betrekking tot de in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1
 
 ##### Artikel 7
 
-1. Met ingang van de datum waarop het personeel overgaat krijgt een personeelslid met wie een arbeidsovereenkomst als bedoeld in [artikel 6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006636&hoofdstuk=3&artikel=6&z=1996-01-01&g=1996-01-01), is gesloten, ter zake van de ouderdoms- en nabestaandenpensioenvoorziening aanspraken jegens een door De Nederlandse Munt N.V. aan te wijzen instelling als bedoeld in [artikel 1, eerste lid, onder **b**](https://wetten.overheid.nl/jci1.3:c:BWBR0006636&hoofdstuk=1&artikel=1&z=1996-01-01&g=1996-01-01), dan wel onder **c**, van de [Pensioen- en spaarfondsenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002089), die in totaliteit gelijkwaardig zijn aan die welke het personeelslid op de laatste dag van de kalendermaand voorafgaand aan de overgangsdatum heeft jegens het Algemeen burgerlijk pensioenfonds krachtens de Algemene burgerlijke pensioenwet en neemt de aangewezen instelling daarmee verband houdende verplichtingen op zich.
+1. Met ingang van de datum waarop het personeel overgaat krijgt een personeelslid met wie een arbeidsovereenkomst als bedoeld in [artikel 6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006636&hoofdstuk=3&artikel=6&z=2016-07-01&g=2016-07-01), is gesloten, ter zake van de ouderdoms- en nabestaandenpensioenvoorziening aanspraken jegens een door De Nederlandse Munt N.V. aan te wijzen instelling als bedoeld in [artikel 1, eerste lid, onder **b**](https://wetten.overheid.nl/jci1.3:c:BWBR0006636&hoofdstuk=1&artikel=1&z=2016-07-01&g=2016-07-01), dan wel onder **c**, van de [Pensioen- en spaarfondsenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002089), die in totaliteit gelijkwaardig zijn aan die welke het personeelslid op de laatste dag van de kalendermaand voorafgaand aan de overgangsdatum heeft jegens het Algemeen burgerlijk pensioenfonds krachtens de Algemene burgerlijke pensioenwet en neemt de aangewezen instelling daarmee verband houdende verplichtingen op zich.
 
 2. De in het eerste lid bedoelde instelling wordt door De Nederlandse Munt N.V. op de overgangsdatum aangewezen.
 
@@ -125,7 +125,7 @@ Met betrekking tot de in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1
 
 - b. die betrekking hebben op het recht op invaliditeitspensioen en het recht op de aanvulling daarvan, als bedoeld in artikel F9 van de Algemene burgerlijke pensioenwet, van een personeelslid dat op de dag voorafgaande aan de overgangsdatum, blijkens een geneeskundig onderzoek als bedoeld in hoofdstuk P van de Algemene burgerlijke pensioenwet, wegens ziekte of gebreken blijvend ongeschikt is zijn functie te vervullen, doch waarover nog geen beslissing door het bestuur van het Algemeen burgerlijk pensioenfonds is genomen.
 
-5. Het eerste, derde en vierde lid is van overeenkomstige toepassing op het personeelslid dat op grond van [artikel 6, negende tot en met het elfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006636&hoofdstuk=3&artikel=6&z=1996-01-01&g=1996-01-01), na de overgangsdatum overgaat in dienst bij De Nederlandse Munt N.V. met dien verstande dat de bedoelde aanspraken ontstaan onderscheidenlijk vervallen met ingang van de dag waarop dit personeelslid in dienst treedt bij De Nederlandse Munt N.V.
+5. Het eerste, derde en vierde lid is van overeenkomstige toepassing op het personeelslid dat op grond van [artikel 6, negende tot en met het elfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006636&hoofdstuk=3&artikel=6&z=2016-07-01&g=2016-07-01), na de overgangsdatum overgaat in dienst bij De Nederlandse Munt N.V. met dien verstande dat de bedoelde aanspraken ontstaan onderscheidenlijk vervallen met ingang van de dag waarop dit personeelslid in dienst treedt bij De Nederlandse Munt N.V.
 
 6. Het bestuur van het Algemeen burgerlijk pensioenfonds draagt aan de in het eerste en tweede lid bedoelde instelling een deel van het vermogen van het Algemeen burgerlijk pensioenfonds over. Een deel van de overdrachtssom is gelijk aan de aanspraken op ouderdoms- en nabestaandenpensioen die krachtens de Algemene burgerlijke pensioenwet ten behoeve van de uittredende personeelsleden zijn opgebouwd tot en met de dag voorafgaande aan de datum van een indiensttreding bij De Nederlandse Munt N.V. In de totale overdrachtssom is een aan bedoelde aanspraken evenredig aandeel in de algemene reserve begrepen, een en ander volgens een door het Algemeen burgerlijk pensioenfonds op te stellen opgebouwde-aansprakenbalans. Het over te dragen vermogen heeft eenzelfde rendementspotentieel als het bij het Algemeen burgerlijk pensioenfonds achterblijvende vermogen.
 
@@ -141,13 +141,13 @@ Met betrekking tot de in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1
 
 1. Bevat wijzigingen in andere regelgeving.
 
-2. Voor de heffing van vennootschapsbelasting wordt op de openingsbalans van De Nederlandse Munt N.V. geen goodwill opgevoerd met betrekking tot de in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0006636&hoofdstuk=2&artikel=3&z=1996-01-01&g=1996-01-01) bedoelde vermogensbestanddelen.
+2. Voor de heffing van vennootschapsbelasting wordt op de openingsbalans van De Nederlandse Munt N.V. geen goodwill opgevoerd met betrekking tot de in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0006636&hoofdstuk=2&artikel=3&z=2016-07-01&g=2016-07-01) bedoelde vermogensbestanddelen.
 
-3. Met betrekking tot de overgang van de in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0006636&hoofdstuk=2&artikel=3&z=1996-01-01&g=1996-01-01) bedoelde vermogensbestanddelen van de Staat op de Nederlandse Munt N.V. vinden, in afwijking van [artikel 8, eerste lid, van de Wet op de vennootschapsbelasting 1969](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&artikel=8), artikel 10, derde lid, en artikel 11 van de Wet op de inkomstenbelasting 1964 geen toepassing.
+3. Met betrekking tot de overgang van de in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0006636&hoofdstuk=2&artikel=3&z=2016-07-01&g=2016-07-01) bedoelde vermogensbestanddelen van de Staat op de Nederlandse Munt N.V. vinden, in afwijking van [artikel 8, eerste lid, van de Wet op de vennootschapsbelasting 1969](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&artikel=8), artikel 10, derde lid, en artikel 11 van de Wet op de inkomstenbelasting 1964 geen toepassing.
 
 ##### Artikel 9
 
-Ter zake van de verkrijging ingevolge [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0006636&hoofdstuk=2&artikel=3&z=1996-01-01&g=1996-01-01) door De Nederlandse Munt N.V. van vermogensbestanddelen van de Staat blijft de heffing van overdrachtsbelasting achterwege.
+Ter zake van de verkrijging ingevolge [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0006636&hoofdstuk=2&artikel=3&z=2016-07-01&g=2016-07-01) door De Nederlandse Munt N.V. van vermogensbestanddelen van de Staat blijft de heffing van overdrachtsbelasting achterwege.
 
 ### Hoofdstuk 5. Archiefbescheiden
 
