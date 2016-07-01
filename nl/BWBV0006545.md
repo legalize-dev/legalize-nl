@@ -4,7 +4,7 @@ identifier: "BWBV0006545"
 country: "nl"
 rank: "verdrag"
 publication_date: "2016-07-01"
-last_updated: "2006-09-09"
+last_updated: "2016-07-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBV0006545"
 soort: "verdrag"
@@ -144,7 +144,7 @@ De partijen komen overeen de volgende beginselen toe te passen op onder deze ove
 
 - 4. tijdige uitwisseling van informatie die van invloed kan zijn op samenwerkingsactiviteiten;
 
-- 5. passende bescherming van intellectuele eigendomsrechten zoals bedoeld in [artikel 8, lid 3](https://wetten.overheid.nl/jci1.3:c:BWBV0006545&artikel=8&z=2006-09-09&g=2006-09-09), van deze overeenkomst;
+- 5. passende bescherming van intellectuele eigendomsrechten zoals bedoeld in [artikel 8, lid 3](https://wetten.overheid.nl/jci1.3:c:BWBV0006545&artikel=8&z=2016-07-01&g=2016-07-01), van deze overeenkomst;
 
 - 6. vrijheid om satellietnavigatiediensten te verlenen op de grondgebieden van de partijen;
 
@@ -152,7 +152,7 @@ De partijen komen overeen de volgende beginselen toe te passen op onder deze ove
 
 ##### Artikel 4. Toepassingsgebied van de samenwerkingsactiviteiten
 
-1. De sectoren voor samenwerkingsactiviteiten op het gebied van satellietnavigatie en -tijdsynchronisatie zijn: radiospectrum, wetenschappelijk onderzoek en opleiding, industriële samenwerking, handels- en marktontwikkeling, normen, certificering en regulerende maatregelen, augmentaties, veiligheid, aansprakelijkheid en kostendekking. De partijen kunnen de lijst in lid 1 aanpassen bij beslissing van het op grond van [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBV0006545&artikel=14&z=2006-09-09&g=2006-09-09) van deze overeenkomst opgerichte GNSS-Stuurcomité.
+1. De sectoren voor samenwerkingsactiviteiten op het gebied van satellietnavigatie en -tijdsynchronisatie zijn: radiospectrum, wetenschappelijk onderzoek en opleiding, industriële samenwerking, handels- en marktontwikkeling, normen, certificering en regulerende maatregelen, augmentaties, veiligheid, aansprakelijkheid en kostendekking. De partijen kunnen de lijst in lid 1 aanpassen bij beslissing van het op grond van [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBV0006545&artikel=14&z=2016-07-01&g=2016-07-01) van deze overeenkomst opgerichte GNSS-Stuurcomité.
 
 2. Deze overeenkomst heeft geen betrekking op samenwerking tussen de partijen op de onderstaande gebieden. Indien de partijen het erover eens zijn dat wederzijdse voordelen zullen voortvloeien uit de uitbreiding van de samenwerking tot een van de onderstaande gebieden, zal deze het onderhandelen over en sluiten van passende overeenkomsten tussen de partijen vereisen:
 
@@ -172,7 +172,7 @@ De partijen komen overeen de volgende beginselen toe te passen op onder deze ove
 
 ##### Artikel 5. Vormen van samenwerking
 
-1. Behoudens hun toepasselijke regulerende maatregelen bevorderen de partijen zoveel mogelijk de samenwerkingsactiviteiten op grond van deze overeenkomst met het oog op het bieden van vergelijkbare kansen voor deelname aan hun activiteiten in de onder [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBV0006545&artikel=4&z=2006-09-09&g=2006-09-09) bedoelde sectoren.
+1. Behoudens hun toepasselijke regulerende maatregelen bevorderen de partijen zoveel mogelijk de samenwerkingsactiviteiten op grond van deze overeenkomst met het oog op het bieden van vergelijkbare kansen voor deelname aan hun activiteiten in de onder [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBV0006545&artikel=4&z=2016-07-01&g=2016-07-01) bedoelde sectoren.
 
 2. De partijen komen overeen samenwerkingsactiviteiten uit te voeren zoals bedoeld in de artikelen 6 tot en met 13 van deze overeenkomst.
 
@@ -184,7 +184,7 @@ De partijen komen overeen de volgende beginselen toe te passen op onder deze ove
 
 3. De partijen erkennen dat het belangrijk is om het radionavigatiespectrum te beschermen tegen verstoring en interferentie. Met het oog hierop sporen zij bronnen van interferentie op en streven zij wederzijds aanvaardbare oplossingen na om interferentie te bestrijden.
 
-4. De partijen komen overeen het comité in het kader van [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBV0006545&artikel=14&z=2006-09-09&g=2006-09-09) met de taak te belasten de passende mechanismen te definiëren om effectieve contacten en samenwerking in deze sector te verzekeren.
+4. De partijen komen overeen het comité in het kader van [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBV0006545&artikel=14&z=2016-07-01&g=2016-07-01) met de taak te belasten de passende mechanismen te definiëren om effectieve contacten en samenwerking in deze sector te verzekeren.
 
 5. Niets in deze overeenkomst mag aldus worden geïnterpreteerd dat afbreuk wordt gedaan aan de toepasselijke bepalingen van de Internationale Telecommunicatie-unie, inclusief de ITU-radioreglementen.
 
@@ -194,17 +194,17 @@ De partijen bevorderen gezamenlijke onderzoeksactiviteiten op het gebied van GNS
 
 De gezamenlijke onderzoeksactiviteiten moeten bijdragen tot het plannen van toekomstige ontwikkelingen van een GNSS voor civiel gebruik.
 
-De partijen komen overeen het comité uit hoofde van [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBV0006545&artikel=14&z=2006-09-09&g=2006-09-09) met de taak te belasten het passende mechanisme te definiëren om voor effectieve contacten en samenwerking in deze sector te zorgen.
+De partijen komen overeen het comité uit hoofde van [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBV0006545&artikel=14&z=2016-07-01&g=2016-07-01) met de taak te belasten het passende mechanisme te definiëren om voor effectieve contacten en samenwerking in deze sector te zorgen.
 
 ##### Artikel 8. Industriële samenwerking
 
 1. De partijen stimuleren en steunen de samenwerking tussen de bedrijven van de twee partijen, via middelen zoals joint ventures en Koreaanse deelname aan relevante Europese industriële verenigingen alsmede Europese deelname aan relevante Koreaanse industriële verenigingen, met het doel het opzetten van het GALILEO-systeem en het bevorderen van het gebruik en de ontwikkeling van GALILEO-toepassingen en -diensten.
 
-2. De partijen richten in het kader van het op grond van [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBV0006545&artikel=14&z=2006-09-09&g=2006-09-09) opgerichte Stuurcomité een gezamenlijke adviesgroep inzake industriële samenwerking op om de samenwerking inzake satellietontwikkeling en -productie, lanceerdiensten, grondstationfaciliteiten en toepassingsproducten te onderzoeken en sturen.
+2. De partijen richten in het kader van het op grond van [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBV0006545&artikel=14&z=2016-07-01&g=2016-07-01) opgerichte Stuurcomité een gezamenlijke adviesgroep inzake industriële samenwerking op om de samenwerking inzake satellietontwikkeling en -productie, lanceerdiensten, grondstationfaciliteiten en toepassingsproducten te onderzoeken en sturen.
 
 3. Ter vergemakkelijking van industriële samenwerking verlenen en verzekeren de partijen, in overeenstemming met de relevante internationale normen die zijn vastgesteld in het kader van de TRIPS-Overeenkomst en internationale verdragen waarvan beide partijen ondertekenaar zijn, adequate en effectieve bescherming van intellectuele eigendomsrechten betreffende de gebieden en sectoren die relevant zijn voor de ontwikkeling en exploitatie van Galileo/EGNOS, inclusief effectieve middelen om dergelijke normen te handhaven.
 
-4. Uitvoer door Korea naar derde landen van gevoelige producten en technologieën die specifiek ontwikkeld en gefinancierd worden in het kader van het GALILEO-programma en door de bevoegde beveiligingsinstantie van GALILEO aan exportcontrole onderworpen zijn verklaard, moet door Korea ter voorafgaande goedkeuring aan de bevoegde beveiligingsinstantie van GALILEO worden voorgelegd. In elke afzonderlijke overeenkomst als bedoeld in [artikel 4, lid 2](https://wetten.overheid.nl/jci1.3:c:BWBV0006545&artikel=4&z=2006-09-09&g=2006-09-09), van de overeenkomst wordt eveneens in een passend mechanisme voorzien waarmee partijen kunnen aanbevelen de uitvoer van bepaalde producten vergunningsplichtig te maken.
+4. Uitvoer door Korea naar derde landen van gevoelige producten en technologieën die specifiek ontwikkeld en gefinancierd worden in het kader van het GALILEO-programma en door de bevoegde beveiligingsinstantie van GALILEO aan exportcontrole onderworpen zijn verklaard, moet door Korea ter voorafgaande goedkeuring aan de bevoegde beveiligingsinstantie van GALILEO worden voorgelegd. In elke afzonderlijke overeenkomst als bedoeld in [artikel 4, lid 2](https://wetten.overheid.nl/jci1.3:c:BWBV0006545&artikel=4&z=2016-07-01&g=2016-07-01), van de overeenkomst wordt eveneens in een passend mechanisme voorzien waarmee partijen kunnen aanbevelen de uitvoer van bepaalde producten vergunningsplichtig te maken.
 
 5. Om bij te dragen tot het realiseren van de doelstellingen van de overeenkomst stimuleren de partijen het aanhalen van de banden tussen het Europees Ruimte-Agentschap en de GNSS-gerelateerde ministeries en agentschappen van Korea.
 
@@ -260,7 +260,7 @@ De partijen werken samen om een aansprakelijkheidsregeling en kostendekkingsrege
 
 1. De samenwerkingsactiviteiten krachtens deze overeenkomst worden namens Korea door de Regering van de Republiek Korea en namens de Gemeenschap en haar lidstaten door de Europese Commissie gecoördineerd en bevorderd.
 
-2. In overeenstemming met de doelstelling van [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBV0006545&artikel=1&z=2006-09-09&g=2006-09-09) richten deze twee entiteiten een GNSS-Stuurcomité op, hierna het „comité”, voor het beheer van deze overeenkomst. Dit comité bestaat uit officiële vertegenwoordigers van elke partij en stelt op basis van wederzijdse consensus zijn eigen reglement van orde vast.
+2. In overeenstemming met de doelstelling van [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBV0006545&artikel=1&z=2016-07-01&g=2016-07-01) richten deze twee entiteiten een GNSS-Stuurcomité op, hierna het „comité”, voor het beheer van deze overeenkomst. Dit comité bestaat uit officiële vertegenwoordigers van elke partij en stelt op basis van wederzijdse consensus zijn eigen reglement van orde vast.
 
 Het comité heeft onder meer de volgende taken:
 
@@ -270,7 +270,7 @@ Het comité heeft onder meer de volgende taken:
 
 - c. evalueren van de efficiënte werking en uitvoering van deze overeenkomst;
 
-- d. bespreken van de mogelijkheid tot uitbreiding van de samenwerking tot de in [lid 2 van artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBV0006545&artikel=4&z=2006-09-09&g=2006-09-09) bedoelde gebieden.
+- d. bespreken van de mogelijkheid tot uitbreiding van de samenwerking tot de in [lid 2 van artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBV0006545&artikel=4&z=2016-07-01&g=2016-07-01) bedoelde gebieden.
 
 3. Het comité vergadert in principe jaarlijks. De vergaderingen vinden afwisselend in de Gemeenschap en in Korea plaats. Op verzoek van één van beide partijen kunnen buitengewone vergaderingen worden georganiseerd.
 
@@ -280,7 +280,7 @@ De door of namens het comité gemaakte kosten worden gedragen door de partij die
 
 ##### Artikel 15. Financiering
 
-1. Elke partij draagt, tenzij door de partijen anders overeengekomen, de kosten van het vervullen van haar respectieve verantwoordelijkheden krachtens deze overeenkomst. De uitvoeringsbepalingen en procedures als bedoeld in [artikel 14, lid 4](https://wetten.overheid.nl/jci1.3:c:BWBV0006545&artikel=14&z=2006-09-09&g=2006-09-09), behelzen een passende financiële bijdrage aan het GALILEO-programma van het niet-EU-land dat besluit om deelneming in de Toezichtautoriteit aan te vragen.
+1. Elke partij draagt, tenzij door de partijen anders overeengekomen, de kosten van het vervullen van haar respectieve verantwoordelijkheden krachtens deze overeenkomst. De uitvoeringsbepalingen en procedures als bedoeld in [artikel 14, lid 4](https://wetten.overheid.nl/jci1.3:c:BWBV0006545&artikel=14&z=2016-07-01&g=2016-07-01), behelzen een passende financiële bijdrage aan het GALILEO-programma van het niet-EU-land dat besluit om deelneming in de Toezichtautoriteit aan te vragen.
 
 2. De partijen ondernemen in overeenstemming met hun wet- en regelgeving alle redelijke stappen om het binnenkomen van, aanwezig blijven op en verlaten van hun grondgebied te vergemakkelijken voor bij de samenwerkingsactiviteiten krachtens deze overeenkomst betrokken of gebruikte personen, kapitaal, materieel, gegevens en apparatuur.
 
