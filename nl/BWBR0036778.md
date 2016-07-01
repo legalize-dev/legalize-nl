@@ -4,7 +4,7 @@ identifier: "BWBR0036778"
 country: "nl"
 rank: "amvb"
 publication_date: "2024-01-01"
-last_updated: "2015-12-01"
+last_updated: "2016-07-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0036778"
 soort: "AMvB"
@@ -60,7 +60,7 @@ Hebben goedgevonden en verstaan:
 
 ##### Artikel 20
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt het Besluit bedrijfsvergunning en veiligheidscertificaat hoofdspoorwegen.
 
 ##### Artikel 21
 
@@ -88,9 +88,9 @@ Wijzigt het Vrijstellingenbesluit Winkeltijdenwet.
 
 ##### Artikel 28
 
-1. De artikelen van dit besluit, met uitzondering van de [artikelen 21](https://wetten.overheid.nl/jci1.3:c:BWBR0036778&hoofdstuk=6&artikel=21&z=2015-12-01&g=2015-12-01) en [23 tot en met 25](https://wetten.overheid.nl/jci1.3:c:BWBR0036778&hoofdstuk=6&artikel=23&z=2015-12-01&g=2015-12-01), treden in werking op een bij koninklijk besluit te bepalen tijdstip, dat voor de verschillende artikelen of onderdelen daarvan verschillend kan worden vastgesteld.
+1. De artikelen van dit besluit, met uitzondering van de [artikelen 21](https://wetten.overheid.nl/jci1.3:c:BWBR0036778&hoofdstuk=6&artikel=21&z=2016-07-01&g=2016-07-01) en [23 tot en met 25](https://wetten.overheid.nl/jci1.3:c:BWBR0036778&hoofdstuk=6&artikel=23&z=2016-07-01&g=2016-07-01), treden in werking op een bij koninklijk besluit te bepalen tijdstip, dat voor de verschillende artikelen of onderdelen daarvan verschillend kan worden vastgesteld.
 
-2. De [artikelen 21](https://wetten.overheid.nl/jci1.3:c:BWBR0036778&hoofdstuk=6&artikel=21&z=2015-12-01&g=2015-12-01) en [23 tot en met 25](https://wetten.overheid.nl/jci1.3:c:BWBR0036778&hoofdstuk=6&artikel=23&z=2015-12-01&g=2015-12-01) van dit besluit treden in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin dit besluit wordt geplaatst.
+2. De [artikelen 21](https://wetten.overheid.nl/jci1.3:c:BWBR0036778&hoofdstuk=6&artikel=21&z=2016-07-01&g=2016-07-01) en [23 tot en met 25](https://wetten.overheid.nl/jci1.3:c:BWBR0036778&hoofdstuk=6&artikel=23&z=2016-07-01&g=2016-07-01) van dit besluit treden in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin dit besluit wordt geplaatst.
 
 ##### Artikel 29
 
@@ -124,15 +124,15 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
 ##### Artikel 2
 
-1. De [artikelen 1 tot en met 4](https://wetten.overheid.nl/jci1.3:c:BWBR0015007&artikel=1), [69](https://wetten.overheid.nl/jci1.3:c:BWBR0015007&artikel=69), [76, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0015007&artikel=76), [77](https://wetten.overheid.nl/jci1.3:c:BWBR0015007&artikel=77), [80](https://wetten.overheid.nl/jci1.3:c:BWBR0015007&artikel=80), [86 tot en met 91](https://wetten.overheid.nl/jci1.3:c:BWBR0015007&artikel=86) en [97 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0015007&artikel=97), en de [artikelen 1 tot en met 19](https://wetten.overheid.nl/jci1.3:c:BWBR0036778&hoofdstuk=1&artikel=1&z=2015-12-01&g=2015-12-01), [26](https://wetten.overheid.nl/jci1.3:c:BWBR0036778&hoofdstuk=7&artikel=26&z=2015-12-01&g=2015-12-01) en [27](https://wetten.overheid.nl/jci1.3:c:BWBR0036778&hoofdstuk=7&artikel=27&z=2015-12-01&g=2015-12-01) van dit besluit, zijn niet van toepassing op bijzondere spoorwegen:
+1. De [artikelen 1 tot en met 4](https://wetten.overheid.nl/jci1.3:c:BWBR0015007&artikel=1), [69](https://wetten.overheid.nl/jci1.3:c:BWBR0015007&artikel=69), [76, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0015007&artikel=76), [77](https://wetten.overheid.nl/jci1.3:c:BWBR0015007&artikel=77), [80](https://wetten.overheid.nl/jci1.3:c:BWBR0015007&artikel=80), [86 tot en met 91](https://wetten.overheid.nl/jci1.3:c:BWBR0015007&artikel=86) en [97 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0015007&artikel=97), en de [artikelen 1 tot en met 19](https://wetten.overheid.nl/jci1.3:c:BWBR0036778&hoofdstuk=1&artikel=1&z=2016-07-01&g=2016-07-01), [26](https://wetten.overheid.nl/jci1.3:c:BWBR0036778&hoofdstuk=7&artikel=26&z=2016-07-01&g=2016-07-01) en [27](https://wetten.overheid.nl/jci1.3:c:BWBR0036778&hoofdstuk=7&artikel=27&z=2016-07-01&g=2016-07-01) van dit besluit, zijn niet van toepassing op bijzondere spoorwegen:
 
 - a. met een nominale spoorwijdte van minder dan 500 millimeter; of
 
 - b. die zijn aan te merken als een attractie of speeltoestel als bedoeld in het Warenwetbesluit attractie- en speeltoestellen.
 
-2. De [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0015007&artikel=3), [4](https://wetten.overheid.nl/jci1.3:c:BWBR0015007&artikel=4), [69](https://wetten.overheid.nl/jci1.3:c:BWBR0015007&artikel=69), [76, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0015007&artikel=76), [77](https://wetten.overheid.nl/jci1.3:c:BWBR0015007&artikel=77), [80](https://wetten.overheid.nl/jci1.3:c:BWBR0015007&artikel=80), [86 tot en met 91](https://wetten.overheid.nl/jci1.3:c:BWBR0015007&artikel=86) en [97 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0015007&artikel=97) en de [artikelen 3 tot en met 16](https://wetten.overheid.nl/jci1.3:c:BWBR0036778&hoofdstuk=2&artikel=3&z=2015-12-01&g=2015-12-01), [18 tot en met 19](https://wetten.overheid.nl/jci1.3:c:BWBR0036778&hoofdstuk=5&artikel=18&z=2015-12-01&g=2015-12-01), [26](https://wetten.overheid.nl/jci1.3:c:BWBR0036778&hoofdstuk=7&artikel=26&z=2015-12-01&g=2015-12-01) en [27](https://wetten.overheid.nl/jci1.3:c:BWBR0036778&hoofdstuk=7&artikel=27&z=2015-12-01&g=2015-12-01) van dit besluit zijn niet van toepassing op bijzondere spoorwegen die gelegen zijn binnen een niet vrij voor het publiek toegankelijk terrein van een bedrijf.
+2. De [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0015007&artikel=3), [4](https://wetten.overheid.nl/jci1.3:c:BWBR0015007&artikel=4), [69](https://wetten.overheid.nl/jci1.3:c:BWBR0015007&artikel=69), [76, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0015007&artikel=76), [77](https://wetten.overheid.nl/jci1.3:c:BWBR0015007&artikel=77), [80](https://wetten.overheid.nl/jci1.3:c:BWBR0015007&artikel=80), [86 tot en met 91](https://wetten.overheid.nl/jci1.3:c:BWBR0015007&artikel=86) en [97 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0015007&artikel=97) en de [artikelen 3 tot en met 16](https://wetten.overheid.nl/jci1.3:c:BWBR0036778&hoofdstuk=2&artikel=3&z=2016-07-01&g=2016-07-01), [18 tot en met 19](https://wetten.overheid.nl/jci1.3:c:BWBR0036778&hoofdstuk=5&artikel=18&z=2016-07-01&g=2016-07-01), [26](https://wetten.overheid.nl/jci1.3:c:BWBR0036778&hoofdstuk=7&artikel=26&z=2016-07-01&g=2016-07-01) en [27](https://wetten.overheid.nl/jci1.3:c:BWBR0036778&hoofdstuk=7&artikel=27&z=2016-07-01&g=2016-07-01) van dit besluit zijn niet van toepassing op bijzondere spoorwegen die gelegen zijn binnen een niet vrij voor het publiek toegankelijk terrein van een bedrijf.
 
-3. De [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0015007&artikel=3), [4](https://wetten.overheid.nl/jci1.3:c:BWBR0015007&artikel=4), [69](https://wetten.overheid.nl/jci1.3:c:BWBR0015007&artikel=69), [88 tot en met 91](https://wetten.overheid.nl/jci1.3:c:BWBR0015007&artikel=88) en [97 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0015007&artikel=97) en de [artikelen 3 tot en met 9](https://wetten.overheid.nl/jci1.3:c:BWBR0036778&hoofdstuk=2&artikel=3&z=2015-12-01&g=2015-12-01), [12 tot en met 17](https://wetten.overheid.nl/jci1.3:c:BWBR0036778&hoofdstuk=4&artikel=12&z=2015-12-01&g=2015-12-01) en [26](https://wetten.overheid.nl/jci1.3:c:BWBR0036778&hoofdstuk=7&artikel=26&z=2015-12-01&g=2015-12-01) van dit besluit zijn niet van toepassing op bijzondere spoorwegen of gedeelten daarvan waarvan de bijzondere spoorweginfrastructuur of een deel daarvan is verwijderd of die op een andere wijze voor gebruik ontoegankelijk zijn gemaakt.
+3. De [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0015007&artikel=3), [4](https://wetten.overheid.nl/jci1.3:c:BWBR0015007&artikel=4), [69](https://wetten.overheid.nl/jci1.3:c:BWBR0015007&artikel=69), [88 tot en met 91](https://wetten.overheid.nl/jci1.3:c:BWBR0015007&artikel=88) en [97 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0015007&artikel=97) en de [artikelen 3 tot en met 9](https://wetten.overheid.nl/jci1.3:c:BWBR0036778&hoofdstuk=2&artikel=3&z=2016-07-01&g=2016-07-01), [12 tot en met 17](https://wetten.overheid.nl/jci1.3:c:BWBR0036778&hoofdstuk=4&artikel=12&z=2016-07-01&g=2016-07-01) en [26](https://wetten.overheid.nl/jci1.3:c:BWBR0036778&hoofdstuk=7&artikel=26&z=2016-07-01&g=2016-07-01) van dit besluit zijn niet van toepassing op bijzondere spoorwegen of gedeelten daarvan waarvan de bijzondere spoorweginfrastructuur of een deel daarvan is verwijderd of die op een andere wijze voor gebruik ontoegankelijk zijn gemaakt.
 
 ##### Artikel 3
 
@@ -226,7 +226,7 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
 ##### Artikel 9
 
-Onverminderd [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0036778&hoofdstuk=2&artikel=8&z=2015-12-01&g=2015-12-01) is het verboden gebruik te maken van een bijzondere spoorweg met een snelheid die niet in overeenstemming is met het remvermogen van de trein, of met de eigenschappen van de bijzondere spoorweginfrastructuur.
+Onverminderd [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0036778&hoofdstuk=2&artikel=8&z=2016-07-01&g=2016-07-01) is het verboden gebruik te maken van een bijzondere spoorweg met een snelheid die niet in overeenstemming is met het remvermogen van de trein, of met de eigenschappen van de bijzondere spoorweginfrastructuur.
 
 ### Hoofdstuk 3. Bescherming van bijzondere spoorwegen
 
@@ -240,13 +240,13 @@ Onverminderd [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0036778&hoofdst
 
 - c. dieren te drijven of te laten lopen dan wel zich te bevinden op of langs delen van een bijzondere spoorweg die niet zijn gelegen in een spoorwegovergang of samenlopen met een voor het openbaar verkeer openstaande weg, tenzij de spoorwegbeheerder toestemming heeft gegeven.
 
-2. Het eerste lid is niet van toepassing voor zover de handelingen worden verricht ten behoeve van de rechtmatige uitoefening van beheerstaken als bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0036778&hoofdstuk=2&artikel=3&z=2015-12-01&g=2015-12-01), vervoer als bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0036778&hoofdstuk=2&artikel=4&z=2015-12-01&g=2015-12-01), of toezicht als bedoeld in de wet.
+2. Het eerste lid is niet van toepassing voor zover de handelingen worden verricht ten behoeve van de rechtmatige uitoefening van beheerstaken als bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0036778&hoofdstuk=2&artikel=3&z=2016-07-01&g=2016-07-01), vervoer als bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0036778&hoofdstuk=2&artikel=4&z=2016-07-01&g=2016-07-01), of toezicht als bedoeld in de wet.
 
 ##### Artikel 11
 
 1. Het is verboden binnen een bij ministeriële regeling te bepalen afstand van een bijzondere spoorweg op, in, naast, boven of onder de bijzondere spoorweg leidingen, werken, andere inrichtingen of beplantingen aan te brengen, te doen aanbrengen, of te hebben, te graven, bouwwerken op te richten, dan wel daarmee verband houdende werkzaamheden uit te voeren of te doen uitvoeren.
 
-2. Het eerste lid is niet van toepassing voor zover de handelingen worden verricht ten behoeve van de rechtmatige uitoefening van beheerstaken als bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0036778&hoofdstuk=2&artikel=3&z=2015-12-01&g=2015-12-01), vervoer als bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0036778&hoofdstuk=2&artikel=4&z=2015-12-01&g=2015-12-01), of toezicht als bedoeld in de [wet](https://wetten.overheid.nl/jci1.3:c:BWBR0015007).
+2. Het eerste lid is niet van toepassing voor zover de handelingen worden verricht ten behoeve van de rechtmatige uitoefening van beheerstaken als bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0036778&hoofdstuk=2&artikel=3&z=2016-07-01&g=2016-07-01), vervoer als bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0036778&hoofdstuk=2&artikel=4&z=2016-07-01&g=2016-07-01), of toezicht als bedoeld in de [wet](https://wetten.overheid.nl/jci1.3:c:BWBR0015007).
 
 3. De afstand, bedoeld in het eerste lid, kan voor verschillende activiteiten en voor verschillende categorieën van bijzondere spoorwegen verschillend worden vastgesteld.
 
@@ -292,7 +292,7 @@ Onverminderd [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0036778&hoofdst
 
 - b. door de treinbestuurder of de begeleider van de trein een stopteken als bedoeld in [artikel 82, vierde lid, van het RVV 1990](https://wetten.overheid.nl/jci1.3:c:BWBR0004825&artikel=82) wordt getoond.
 
-3. [Artikel 14, eerste lid, onderdeel d, en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036778&hoofdstuk=4&artikel=14&z=2015-12-01&g=2015-12-01), zijn van overeenkomstige toepassing.
+3. [Artikel 14, eerste lid, onderdeel d, en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036778&hoofdstuk=4&artikel=14&z=2016-07-01&g=2016-07-01), zijn van overeenkomstige toepassing.
 
 ##### Artikel 16
 
@@ -310,13 +310,13 @@ Op een beweegbare brug die uitsluitend bestemd is voor het gebruik door spoorvoe
 
 ##### Artikel 18
 
-Overtreding van het gestelde in de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0036778&hoofdstuk=2&artikel=3&z=2015-12-01&g=2015-12-01), [4](https://wetten.overheid.nl/jci1.3:c:BWBR0036778&hoofdstuk=2&artikel=4&z=2015-12-01&g=2015-12-01), [6, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036778&hoofdstuk=2&artikel=6&z=2015-12-01&g=2015-12-01), [7, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036778&hoofdstuk=2&artikel=7&z=2015-12-01&g=2015-12-01), [8, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036778&hoofdstuk=2&artikel=8&z=2015-12-01&g=2015-12-01), [11, eerste en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036778&hoofdstuk=3&artikel=11&z=2015-12-01&g=2015-12-01), of [14, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036778&hoofdstuk=4&artikel=14&z=2015-12-01&g=2015-12-01), is een overtreding waarvoor een bestuurlijke boete kan worden opgelegd als bedoeld in [artikel 77, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0015007&artikel=77).
+Overtreding van het gestelde in de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0036778&hoofdstuk=2&artikel=3&z=2016-07-01&g=2016-07-01), [4](https://wetten.overheid.nl/jci1.3:c:BWBR0036778&hoofdstuk=2&artikel=4&z=2016-07-01&g=2016-07-01), [6, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036778&hoofdstuk=2&artikel=6&z=2016-07-01&g=2016-07-01), [7, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036778&hoofdstuk=2&artikel=7&z=2016-07-01&g=2016-07-01), [8, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036778&hoofdstuk=2&artikel=8&z=2016-07-01&g=2016-07-01), [11, eerste en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036778&hoofdstuk=3&artikel=11&z=2016-07-01&g=2016-07-01), of [14, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036778&hoofdstuk=4&artikel=14&z=2016-07-01&g=2016-07-01), is een overtreding waarvoor een bestuurlijke boete kan worden opgelegd als bedoeld in [artikel 77, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0015007&artikel=77).
 
 ##### Artikel 19
 
-1. Overtreding van het gestelde in de [artikelen 10, eerste lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0036778&hoofdstuk=3&artikel=10&z=2015-12-01&g=2015-12-01), of [15](https://wetten.overheid.nl/jci1.3:c:BWBR0036778&hoofdstuk=4&artikel=15&z=2015-12-01&g=2015-12-01) vormt een strafbaar feit in de zin van [artikel 87, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0015007&artikel=87).
+1. Overtreding van het gestelde in de [artikelen 10, eerste lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0036778&hoofdstuk=3&artikel=10&z=2016-07-01&g=2016-07-01), of [15](https://wetten.overheid.nl/jci1.3:c:BWBR0036778&hoofdstuk=4&artikel=15&z=2016-07-01&g=2016-07-01) vormt een strafbaar feit in de zin van [artikel 87, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0015007&artikel=87).
 
-2. Overtreding van het gestelde in [artikel 10, eerste lid, onderdelen a of b](https://wetten.overheid.nl/jci1.3:c:BWBR0036778&hoofdstuk=3&artikel=10&z=2015-12-01&g=2015-12-01), vormt een strafbaar feit in de zin van [artikel 87, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0015007&artikel=87).
+2. Overtreding van het gestelde in [artikel 10, eerste lid, onderdelen a of b](https://wetten.overheid.nl/jci1.3:c:BWBR0036778&hoofdstuk=3&artikel=10&z=2016-07-01&g=2016-07-01), vormt een strafbaar feit in de zin van [artikel 87, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0015007&artikel=87).
 
 ### Hoofdstuk 6. Wijziging van andere besluiten
 
@@ -324,13 +324,13 @@ Overtreding van het gestelde in de [artikelen 3](https://wetten.overheid.nl/jci1
 
 ##### Artikel 26
 
-1. Beschikkingen op grond van de [artikelen 4, eerste of tweede lid, van het Reglement op de raccordementen](https://wetten.overheid.nl/jci1.3:c:BWBR0002526&artikel=4), [artikel 54, eerste lid, van het Reglement dienst hoofd- en lokaalspoorwegen](https://wetten.overheid.nl/jci1.3:c:BWBR0003083&artikel=54), dan wel concessies afgegeven op grond van [artikel 2 van de Locaalspoor- en tramwegwet](https://wetten.overheid.nl/jci1.3:c:BWBR0001866&artikel=2) voor zover deze op een toegestane snelheid van meer dan 30 kilometer per uur zien en geldend op het tijdstip van inwerkingtreding van [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0036778&hoofdstuk=2&artikel=8&z=2015-12-01&g=2015-12-01) van dit besluit, worden geacht ontheffingen te zijn, afgegeven op grond van artikel 8, tweede lid.
+1. Beschikkingen op grond van de [artikelen 4, eerste of tweede lid, van het Reglement op de raccordementen](https://wetten.overheid.nl/jci1.3:c:BWBR0002526&artikel=4), [artikel 54, eerste lid, van het Reglement dienst hoofd- en lokaalspoorwegen](https://wetten.overheid.nl/jci1.3:c:BWBR0003083&artikel=54), dan wel concessies afgegeven op grond van [artikel 2 van de Locaalspoor- en tramwegwet](https://wetten.overheid.nl/jci1.3:c:BWBR0001866&artikel=2) voor zover deze op een toegestane snelheid van meer dan 30 kilometer per uur zien en geldend op het tijdstip van inwerkingtreding van [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0036778&hoofdstuk=2&artikel=8&z=2016-07-01&g=2016-07-01) van dit besluit, worden geacht ontheffingen te zijn, afgegeven op grond van artikel 8, tweede lid.
 
-2. Beschikkingen afgegeven op grond van een [artikel 4, tweede lid, van het Reglement op de raccordementen](https://wetten.overheid.nl/jci1.3:c:BWBR0002526&artikel=4), voor zover deze op een maximaal toegestane snelheid van minder dan 30 kilometer per uur zien en geldend op het tijdstip van inwerkingtreding van [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0036778&hoofdstuk=2&artikel=8&z=2015-12-01&g=2015-12-01) van dit besluit, worden geacht beschikkingen te zijn, afgegeven op grond van artikel 8, derde lid.
+2. Beschikkingen afgegeven op grond van een [artikel 4, tweede lid, van het Reglement op de raccordementen](https://wetten.overheid.nl/jci1.3:c:BWBR0002526&artikel=4), voor zover deze op een maximaal toegestane snelheid van minder dan 30 kilometer per uur zien en geldend op het tijdstip van inwerkingtreding van [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0036778&hoofdstuk=2&artikel=8&z=2016-07-01&g=2016-07-01) van dit besluit, worden geacht beschikkingen te zijn, afgegeven op grond van artikel 8, derde lid.
 
 ##### Artikel 27
 
-Ontheffingen en vergunningen afgegeven op grond van de [artikelen 14, derde lid, van het Tramwegreglement](https://wetten.overheid.nl/jci1.3:c:BWBR0001898&artikel=14) of [artikel 15 van het Reglement dienst hoofd- en lokaalspoorwege](https://wetten.overheid.nl/jci1.3:c:BWBR0003083&artikel=15)n, geldend op het tijdstip van inwerkingtreding van [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0036778&hoofdstuk=3&artikel=11&z=2015-12-01&g=2015-12-01) van dit besluit, worden geacht ontheffingen te zijn, afgegeven op grond van artikel 11, vierde lid.
+Ontheffingen en vergunningen afgegeven op grond van de [artikelen 14, derde lid, van het Tramwegreglement](https://wetten.overheid.nl/jci1.3:c:BWBR0001898&artikel=14) of [artikel 15 van het Reglement dienst hoofd- en lokaalspoorwege](https://wetten.overheid.nl/jci1.3:c:BWBR0003083&artikel=15)n, geldend op het tijdstip van inwerkingtreding van [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0036778&hoofdstuk=3&artikel=11&z=2016-07-01&g=2016-07-01) van dit besluit, worden geacht ontheffingen te zijn, afgegeven op grond van artikel 11, vierde lid.
 
 ### Hoofdstuk 8. Slotbepalingen
 
