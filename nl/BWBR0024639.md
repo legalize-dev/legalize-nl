@@ -4,7 +4,7 @@ identifier: "BWBR0024639"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2020-01-01"
-last_updated: "2014-03-15"
+last_updated: "2016-07-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0024639"
 soort: "ministeriele-regeling"
@@ -48,19 +48,21 @@ In deze regeling wordt verstaan onder:
 
 - **minister:** Minister van Infrastructuur en Milieu;
 
-- **typebevoegdheid:** bevoegdheid tot het uitvoeren van onderhoudswerkzaamheden aan een bepaald type vliegtuig met een maximum startmassa van 5700 kg of minder.
+- **typebevoegdheid:** bevoegdheid tot het uitvoeren van onderhoudswerkzaamheden aan een bepaald type vliegtuig met een maximum startmassa van 5700 kg of minder;
+
+- **verordening (EU) nr. 1321/2014:** verordening (EU) nr. 1321/2014 van de Commissie van 26 november 2014 betreffende de permanente luchtwaardigheid van luchtvaartuigen en luchtvaartproducten, -onderdelen en -uitrustingsstukken, en betreffende de goedkeuring van bij voornoemde taken betrokken organisaties en personen (PbEU 2014, L 362).
 
 ### Hoofdstuk 2. Geregistreerde opleidingsinstellingen
 
 ##### Artikel 2
 
-Deze regeling berust op Verordening (EG) nr. 2042/2003 en de [artikelen 13, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010629&artikel=13), [14, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010629&artikel=14), [15](https://wetten.overheid.nl/jci1.3:c:BWBR0010629&artikel=15) en [16 van het Besluit bewijzen van bevoegdheid voor de luchtvaart](https://wetten.overheid.nl/jci1.3:c:BWBR0010629&artikel=16).
+Deze regeling berust op verordening (EU) nr. 1321/2014 en de [artikelen 13, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010629&artikel=13), [14, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010629&artikel=14), [15](https://wetten.overheid.nl/jci1.3:c:BWBR0010629&artikel=15) en [16 van het Besluit bewijzen van bevoegdheid voor de luchtvaart](https://wetten.overheid.nl/jci1.3:c:BWBR0010629&artikel=16).
 
 ### Hoofdstuk 3. Examinatoren
 
 ##### Artikel 3
 
-De ingevolge [artikel 15, tweede lid, van het Besluit bewijzen van bevoedheid voor de luchtvaart](https://wetten.overheid.nl/jci1.3:c:BWBR0010629&artikel=15) benoemde examinatoren en examinatoren in dienst van erkende opleidingsinstellingen zijn bevoegd tot het afnemen van het examen waarmee wordt aangetoond dat wordt voldaan aan de eisen inzake basiskennis of typekennis voor de afgifte van de bijzondere bevoegdverklaringen die kunnen worden vermeld op een AML of een Part-66 AML conform respectievelijk de [Regeling bijzondere bevoegdverklaringen AML en Part-66 AML](https://wetten.overheid.nl/jci1.3:c:BWBR0024644) en bijlage II bij verordening (EG) nr. 2042/2003.
+De ingevolge [artikel 15, tweede lid, van het Besluit bewijzen van bevoedheid voor de luchtvaart](https://wetten.overheid.nl/jci1.3:c:BWBR0010629&artikel=15) benoemde examinatoren en examinatoren in dienst van erkende opleidingsinstellingen zijn bevoegd tot het afnemen van het examen waarmee wordt aangetoond dat wordt voldaan aan de eisen inzake basiskennis of typekennis voor de afgifte van de bijzondere bevoegdverklaringen die kunnen worden vermeld op een AML of een Part-66 AML conform respectievelijk de [Regeling bijzondere bevoegdverklaringen AML en Part-66 AML](https://wetten.overheid.nl/jci1.3:c:BWBR0024644) en bijlage II bij verordening (EU) nr. 1321/2014.
 
 ##### Artikel 4
 
@@ -88,9 +90,9 @@ De examinator is verplicht tot geheimhouding met betrekking tot de examenopgaven
 
 ##### Artikel 7
 
-1. De benoeming tot examinator kan worden geschorst wanneer een ernstig vermoeden bestaat dat de examinator in strijd heeft gehandeld met het bepaalde in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0024639&hoofdstuk=3&artikel=6&z=2014-03-15&g=2014-03-15), of het examenreglement.
+1. De benoeming tot examinator kan worden geschorst wanneer een ernstig vermoeden bestaat dat de examinator in strijd heeft gehandeld met het bepaalde in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0024639&hoofdstuk=3&artikel=6&z=2016-07-01&g=2016-07-01), of het examenreglement.
 
-2. De benoeming tot examinator kan worden ingetrokken wanneer de examinator in strijd heeft gehandeld met het bepaalde in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0024639&hoofdstuk=3&artikel=6&z=2014-03-15&g=2014-03-15), of het examenreglement.
+2. De benoeming tot examinator kan worden ingetrokken wanneer de examinator in strijd heeft gehandeld met het bepaalde in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0024639&hoofdstuk=3&artikel=6&z=2016-07-01&g=2016-07-01), of het examenreglement.
 
 ### Hoofdstuk 4. Examenreglement
 
@@ -100,13 +102,13 @@ Vervallen
 
 ##### Artikel 9
 
-1. De basiskennismodules die deel uitmaken van het examen voor de in tabel 1 genoemde bevoegdverklaringen op een AML zijn vastgelegd in tabel 2 en nader gespecificeerd in de bij deze regeling behorende [bijlagen 1 tot en met 3](https://wetten.overheid.nl/jci1.3:c:BWBR0024639&bijlage=1&z=2014-03-15&g=2014-03-15).
+1. De basiskennismodules die deel uitmaken van het examen voor de in tabel 1 genoemde bevoegdverklaringen op een AML zijn vastgelegd in tabel 2 en nader gespecificeerd in de bij deze regeling behorende [bijlagen 1 tot en met 3](https://wetten.overheid.nl/jci1.3:c:BWBR0024639&bijlage=1&z=2016-07-01&g=2016-07-01).
 
 | Bevoegdverklaring | Basiskennis | Examen duur |
 | --- | --- | --- |
-| A | [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0024639&bijlage=1&z=2014-03-15&g=2014-03-15) | tabel 2 |
-| B | [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0024639&bijlage=2&z=2014-03-15&g=2014-03-15) | tabel 2 |
-| C | [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0024639&bijlage=3&z=2014-03-15&g=2014-03-15) | tabel 2 |
+| A | [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0024639&bijlage=1&z=2016-07-01&g=2016-07-01) | tabel 2 |
+| B | [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0024639&bijlage=2&z=2016-07-01&g=2016-07-01) | tabel 2 |
+| C | [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0024639&bijlage=3&z=2016-07-01&g=2016-07-01) | tabel 2 |
 
 |   | Examen (schriftelijk) in minuten | Examen (schriftelijk) in minuten | Examen (schriftelijk) in minuten |
 | --- | --- | --- | --- |
@@ -145,21 +147,13 @@ Vervallen
 
 6. Het examen typebevoegdheid wordt afgelegd op basis van de onderhoudsdocumentatie van het vliegtuigtype, waarvoor examen wordt afgelegd. De examinandus biedt daartoe de bijgewerkte onderhoudsdocumentatie aan de examencommissie ter inzage.
 
-7. Het examen voor typebevoegdverklaring wordt afgenomen op basis van Bijlage III bij verordening (EG) nr. 2042/2003 en betreft vliegtuigtypen bedoeld in Bijlage III van verordening (EG) nr. 2042/2003.
+7. Het examen voor typebevoegdverklaring wordt afgenomen op basis van Bijlage III bij verordening (EU) nr. 1321/2014 en betreft vliegtuigtypen bedoeld in Bijlage III van verordening (EG) nr. 2042/2003.
 
 8. Het examen, bedoeld in het zesde lid, bestaat uit een theorie- en een praktijkgedeelte en duurt ten hoogste 120 minuten. Het examen typebevoegdheid is met goed gevolg afgelegd wanneer de examinandus het cijfer 6,0 of hoger heeft behaald.
 
 ##### Artikel 10
 
-1. Het examen voor de bevoegdverklaringen op een Part-66 AML, waarmee wordt aangetoond dat wordt voldaan aan de eisen inzake basiskennis en typekennis voor afgifte van die bevoegdverklaringen, is vastgelegd in Part-66, inzake kwalificaties van onderhoudspersoneel, Bijlage III bij verordening (EG) nr. 2042/2003 van de Commissie van de Europese Gemeenschappen van 20 november 2003 (PbEG L 315).
-
-2. Wanneer de examenkandidaat houder is van een Part-66 AML omvat het examen, bedoeld in het eerste lid, de modules opgenomen in de bij deze regeling behorende tabel 4.
-
-Tabel 4. Examen voor deelnemers die houder zijn van een Part-66 AML.
-
-• = examenmodule die deel uitmaakt van het examen.
-
-3. Het examen, bedoeld in het eerste lid is met goed gevolg afgelegd indien wordt voldaan aan de hiertoe gestelde eisen in bijlage III bij verordening (EG) nr. 2042/2003.
+Vervallen
 
 ##### Artikel 11
 
@@ -177,7 +171,7 @@ Tabel 4. Examen voor deelnemers die houder zijn van een Part-66 AML.
 
 ##### Artikel 13
 
-1. De examinandus kan door de examinator van verdere deelname aan het examen worden uitgesloten indien deze in strijd handelt met het reglement, bedoeld in [hoofdstuk 4](https://wetten.overheid.nl/jci1.3:c:BWBR0024639&hoofdstuk=4&z=2014-03-15&g=2014-03-15) van deze regeling.
+1. De examinandus kan door de examinator van verdere deelname aan het examen worden uitgesloten indien deze in strijd handelt met het reglement, bedoeld in [hoofdstuk 4](https://wetten.overheid.nl/jci1.3:c:BWBR0024639&hoofdstuk=4&z=2016-07-01&g=2016-07-01) van deze regeling.
 
 2. De minister wordt door de examinator over een uitsluiting, bedoeld in het eerste lid, geïnformeerd.
 
@@ -185,7 +179,7 @@ Tabel 4. Examen voor deelnemers die houder zijn van een Part-66 AML.
 
 1. Het examenresultaat wordt als regel beoordeeld door de examinator die het examen heeft afgenomen. De minister kan een andere examinator voor de beoordeling van het examenresultaat aanwijzen.
 
-2. De uitslag van het examen wordt namens de minister vastgesteld door de beoordelende examinator. Bij een uitsluiting bedoeld in [artikel 13, het eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024639&hoofdstuk=4&artikel=13&z=2014-03-15&g=2014-03-15), wordt als uitslag van het examen het cijfer 1,0 of 0% vastgesteld.
+2. De uitslag van het examen wordt namens de minister vastgesteld door de beoordelende examinator. Bij een uitsluiting bedoeld in [artikel 13, het eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024639&hoofdstuk=4&artikel=13&z=2016-07-01&g=2016-07-01), wordt als uitslag van het examen het cijfer 1,0 of 0% vastgesteld.
 
 3. De uitslag van het examen wordt uiterlijk zes weken nadat het examen is afgelegd schriftelijk aan de examinandus bekend gemaakt.
 
