@@ -99,13 +99,3 @@ Dit besluit treedt in werking op een bij koninklijk besluit te bepalen tijdstip.
 Dit besluit wordt aangehaald als: Besluit elektronische deponering handelsregister.
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
-
-##### Artikel 1a
-
-SBR ondersteunt het formaat, genoemd in artikel 3 van de Gedelegeerde [verordening (EU) 2019/815](32019R0815) van de commissie van 17 december 2018 tot aanvulling van [Richtlijn 2004/109/EG](32004L0109) van het Europees Parlement en de Raad met technische reguleringsnormen voor de specificatie van een uniform elektronisch verslagleggingsformaat.
-
-##### Artikel 3a
-
-De bescheiden, bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0037858&artikel=3&z=2026-01-01&g=2026-01-01), worden in hetzelfde formaat gedeponeerd.
-
-Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
