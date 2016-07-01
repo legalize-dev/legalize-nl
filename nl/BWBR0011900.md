@@ -4,7 +4,7 @@ identifier: "BWBR0011900"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2016-07-01"
-last_updated: "2002-01-01"
+last_updated: "2016-07-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0011900"
 soort: "ministeriele-regeling"
@@ -42,9 +42,9 @@ Besluit:
 
 Het bedrag, bedoeld in [artikel 3, tweede lid, van het Besluit personenvervoer 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011982&artikel=3) bedraagt over een periode van een jaar:
 
-- a. € 1.134,45 per vrijwilligersorganisatie vermeerderd met € 181,51 per bij die organisatie werkzame vrijwilliger tot een maximum van € 8.621,82, of
+- a. een niet gemaximeerd bedrag per vrijwilligersorganisatie, en
 
-- b. € 181,51 per vrijwilliger die niet wordt meegerekend bij onderdeel a.
+- b. € 1.500,– per vrijwilliger.
 
 ##### Artikel 2
 
