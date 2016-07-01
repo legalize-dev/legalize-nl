@@ -4,7 +4,7 @@ identifier: "BWBR0035385"
 country: "nl"
 rank: "wet"
 publication_date: "2018-01-01"
-last_updated: "2016-01-01"
+last_updated: "2016-07-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0035385"
 soort: "wet"
@@ -109,7 +109,7 @@ Wijzigt het Wetboek van Burgerlijke Rechtsvordering.
 
 ##### Artikel XVII. Eenmalige aanpassing bedragen
 
-1. Onze Minister van Sociale Zaken en Werkgelegenheid kan de bedragen, genoemd in de [artikelen I, onderdeel I](https://wetten.overheid.nl/jci1.3:c:BWBR0035385&artikel=I&z=2016-01-01&g=2016-01-01), [II, onderdelen C en I](https://wetten.overheid.nl/jci1.3:c:BWBR0035385&artikel=II&z=2016-01-01&g=2016-01-01), [III, onderdelen A en E](https://wetten.overheid.nl/jci1.3:c:BWBR0035385&artikel=III&z=2016-01-01&g=2016-01-01), [IX, onderdelen A en H](https://wetten.overheid.nl/jci1.3:c:BWBR0035385&artikel=IX&z=2016-01-01&g=2016-01-01), en [XVIII](https://wetten.overheid.nl/jci1.3:c:BWBR0035385&artikel=XVIII&z=2016-01-01&g=2016-01-01) van deze wet eenmalig aanpassen na de datum van inwerkingtreding van die artikelen.
+1. Onze Minister van Sociale Zaken en Werkgelegenheid kan de bedragen, genoemd in de [artikelen I, onderdeel I](https://wetten.overheid.nl/jci1.3:c:BWBR0035385&artikel=I&z=2016-07-01&g=2016-07-01), [II, onderdelen C en I](https://wetten.overheid.nl/jci1.3:c:BWBR0035385&artikel=II&z=2016-07-01&g=2016-07-01), [III, onderdelen A en E](https://wetten.overheid.nl/jci1.3:c:BWBR0035385&artikel=III&z=2016-07-01&g=2016-07-01), [IX, onderdelen A en H](https://wetten.overheid.nl/jci1.3:c:BWBR0035385&artikel=IX&z=2016-07-01&g=2016-07-01), en [XVIII](https://wetten.overheid.nl/jci1.3:c:BWBR0035385&artikel=XVIII&z=2016-07-01&g=2016-07-01) van deze wet eenmalig aanpassen na de datum van inwerkingtreding van die artikelen.
 
 2. Dit artikel vervalt zes maanden na de inwerkingtreding van de artikelen, genoemd in het eerste lid.
 
@@ -119,7 +119,7 @@ Vervallen
 
 ##### Artikel XIX. Overgangsrecht [Wetboek van Burgerlijke Rechtsvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001827)
 
-Op de schuldenaar op wie op de dag voorafgaand aan de datum van inwerkingtreding van [artikel XVI](https://wetten.overheid.nl/jci1.3:c:BWBR0035385&artikel=XVI&z=2016-01-01&g=2016-01-01) de schuldsaneringsregeling natuurlijke personen van toepassing is, is gedurende de periode dat uitvoering wordt gegeven aan die regeling artikel XVI niet van toepassing.
+Op de schuldenaar op wie op de dag voorafgaand aan de datum van inwerkingtreding van [artikel XVI](https://wetten.overheid.nl/jci1.3:c:BWBR0035385&artikel=XVI&z=2016-07-01&g=2016-07-01) de schuldsaneringsregeling natuurlijke personen van toepassing is, is gedurende de periode dat uitvoering wordt gegeven aan die regeling artikel XVI niet van toepassing.
 
 ##### Artikel XX. Inwerkingtreding
 
