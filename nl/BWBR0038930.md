@@ -4,7 +4,7 @@ identifier: "BWBR0038930"
 country: "nl"
 rank: "wet"
 publication_date: "2017-04-01"
-last_updated: "2016-01-01"
+last_updated: "2016-07-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0038930"
 soort: "wet"
@@ -105,8 +105,6 @@ alsmede lichamen waarin deze rechtspersonen een belang hebben en de lichamen waa
 ##### Artikel VII
 
 Wijzigt de Successiewet 1956.
-
-Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel VIII
 
