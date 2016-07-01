@@ -4,7 +4,7 @@ identifier: "BWBR0036595"
 country: "nl"
 rank: "amvb"
 publication_date: "2020-01-01"
-last_updated: "2015-07-01"
+last_updated: "2016-07-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0036595"
 soort: "AMvB"
@@ -56,17 +56,7 @@ In dit besluit wordt verstaan onder:
 
 ##### Artikel 2. Geen transitievergoeding bij lopende collectieve afspraken met verenigingen van werknemers
 
-1. Indien de werknemer op grond van tussen de werkgever of verenigingen van werkgevers en verenigingen van werknemers gemaakte afspraken recht heeft op vergoedingen of voorzieningen als bedoeld in [artikel XXII, zevende lid, van de Wet werk en zekerheid](https://wetten.overheid.nl/jci1.3:c:BWBR0035254&artikel=XXII), is de transitievergoeding niet verschuldigd, tenzij overeengekomen is dat de werknemer recht heeft op die vergoeding of voorziening, in aanvulling op de transitievergoeding.
-
-2. Dit artikel is niet van toepassing op de werknemer wiens arbeidsovereenkomst voor bepaalde tijd eindigt of niet wordt voorgezet, indien de werknemer op grond van de afspraken, bedoeld in het eerste lid, recht zou hebben op een hogere vergoeding of voorziening, indien het een arbeidsovereenkomst voor onbepaalde tijd zou betreffen.
-
-3. Dit artikel is niet van toepassing op de werknemer die op grond van de afspraken, bedoeld in het eerste lid, uitsluitend recht heeft op vergoedingen of voorzieningen nadat de voor hem op grond van de [Werkloosheidswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004045) geldende uitkeringsduur is verstreken, omdat de periode waarin de werknemer recht heeft op een uitkering op grond van de Werkloosheidswet is verkort als gevolg van de inwerkingtreding van [artikel XXVI, onderdeel N, van de Wet werk en zekerheid](https://wetten.overheid.nl/jci1.3:c:BWBR0035254&artikel=XXVI).
-
-4. Dit artikel is niet van toepassing, indien de afspraken, bedoeld in het eerste lid, of onderdelen daarvan, na de inwerkingtreding van dit besluit zijn verlengd, gewijzigd of vervallen.
-
-5. Indien de werkgever of verenigingen van werkgevers en verenigingen van werknemers dat overeenkomen, blijft dit artikel, in afwijking van het vierde lid, van toepassing op de onderdelen van de afspraken, bedoeld in het eerste lid, die na de inwerkingtreding van dit besluit niet zijn verlengd, gewijzigd of vervallen.
-
-6. Dit artikel vervalt met ingang van 1 juli 2016.
+Vervallen
 
 ##### Artikel 3. Keuze voor transitievergoeding of overige lopende afspraken
 
@@ -78,11 +68,11 @@ In dit besluit wordt verstaan onder:
 
 4. Dit artikel is niet van toepassing, indien de afspraken, bedoeld in het eerste lid, of onderdelen daarvan, zijn verlengd, gewijzigd of vervallen.
 
-##### Artikel 4. Overgangsbepaling in verband met het vervallen van [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0036595&artikel=2&z=2015-07-01&g=2015-07-01)
+##### Artikel 4. Overgangsbepaling in verband met het vervallen van [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0036595&artikel=2&z=2016-07-01&g=2016-07-01)
 
-[Artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0036595&artikel=2&z=2015-07-01&g=2015-07-01), zoals dat luidde op 30 juni 2016, blijft van toepassing, indien de arbeidsovereenkomst eindigt na die dag, en het verzoek om toestemming, bedoeld in [artikel 671a, eerste lid, van Boek 7 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=671a), of het verzoek om ontbinding, bedoeld in [artikel 671b van Boek 7 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=671b), is gedaan voor 1 mei 2016.
+[Artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0036595&artikel=2&z=2016-07-01&g=2016-07-01), zoals dat luidde op 30 juni 2016, blijft van toepassing, indien de arbeidsovereenkomst eindigt na die dag, en het verzoek om toestemming, bedoeld in [artikel 671a, eerste lid, van Boek 7 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=671a), of het verzoek om ontbinding, bedoeld in [artikel 671b van Boek 7 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=671b), is gedaan voor 1 mei 2016.
 
-##### Artikel 5. Wijziging [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0036595&artikel=1&z=2015-07-01&g=2015-07-01)
+##### Artikel 5. Wijziging [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0036595&artikel=1&z=2016-07-01&g=2016-07-01)
 
 Wijzigt dit besluit.
 
