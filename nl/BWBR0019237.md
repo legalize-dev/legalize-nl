@@ -4,7 +4,7 @@ identifier: "BWBR0019237"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-01-01"
-last_updated: "2016-01-01"
+last_updated: "2016-07-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0019237"
 soort: "ministeriele-regeling"
@@ -79,11 +79,13 @@ Vervallen
 
 2. De wijzigingen, bedoeld in het eerste lid, zijn:
 
-- a. het aangaan of het beëindigen van het partnerschap;
+- a. het ontstaan van partnerschap op grond van [artikel 5a, eerste lid, aanhef en onderdeel b, van de Algemene wet inzake rijksbelastingen](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=5a) of [artikel 3, tweede lid, aanhef en onderdelen b, c en d, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0018472&artikel=3);
 
-- b. een verhoging van het geschatte toetsingsinkomen die leidt tot een verlaging van de tegemoetkoming over het berekeningsjaar van meer dan € 100;
+- b. het eindigen van partnerschap op grond van [artikel 5a, vierde lid, aanhef en onderdeel a, van de Algemene wet inzake rijksbelastingen](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=5a);
 
-- c. een verhuizing van de belanghebbende, diens partner of een medebewoner naar of vanaf een buiten Nederland gelegen woonadres dan wel tussen twee buiten Nederland gelegen woonadressen.
+- c. een verhoging van een geschat toetsingsinkomen die leidt tot een verlaging van de tegemoetkoming over het berekeningsjaar met meer dan € 100;
+
+- d. een verhoging van een geschat vermogen waardoor over het berekeningsjaar geen aanspraak op een tegemoetkoming bestaat.
 
 3. Indien er een voorschot huurtoeslag is verleend, wordt als een omstandigheid als bedoeld in het eerste lid tevens aangemerkt:
 
@@ -91,11 +93,7 @@ Vervallen
 
 - b. het aangaan van of het beëindigen van een huurcontract, waaronder begrepen een schriftelijke overeenkomst als bedoeld in [artikel 2, eerste lid, onderdeel e, onder 2°, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0018472&artikel=2);
 
-- c. een verandering van verhuurder;
-
-- d. een verhoging van het geschatte vermogen van de belanghebbende, diens partner of een medebewoner waardoor over het berekeningsjaar vermoedelijk voordeel uit sparen en beleggen als bedoeld in [artikel 5.2 van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=5.2) in aanmerking zal worden genomen;
-
-- e. de komst of het vertrek van een medebewoner.
+- c. een verandering van verhuurder.
 
 4. Indien er een voorschot zorgtoeslag is verleend, wordt als een omstandigheid als bedoeld in het eerste lid tevens aangemerkt de beëindiging van de zorgverzekering of een opschorting van die verzekering als bedoeld in [artikel 24 van de Zorgverzekeringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&artikel=24).
 
@@ -109,7 +107,7 @@ Vervallen
 
 - d. een wijziging in de uurprijs;
 
-- e. een wijziging van de tegemoetkoming van de gemeente of het Uitvoeringsinstituut werknemersverzekeringen, bedoeld in [artikel 1.22](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&artikel=1.22) onderscheidenlijk [artikel 1.29 van de Wet kinderopvang en kwaliteitseisen peuterspeelzalen](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&artikel=1.29).
+- e. een wijziging van het geschatte aantal gewerkte uren of van de geschatte duur van een voorziening als bedoeld in [artikel 8a, eerste lid, van het Besluit kinderopvangtoeslag](https://wetten.overheid.nl/jci1.3:c:BWBR0017321&artikel=8a).
 
 6. In afwijking in zoverre van het eerste lid kan van een wijziging als bedoeld in het tweede lid, onderdeel b, alsmede van wijzigingen die leiden tot een beëindiging van het voorschot op de tegemoetkoming ook telefonisch dan wel anderszins mondeling mededeling worden gedaan aan de Belastingdienst/Toeslagen.
 
@@ -241,7 +239,7 @@ Indien de Belastingdienst/Toeslagen overeenkomstig artikel 6 van Verordening (EG
 
 - b. worden de in [artikel 19 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0018472&artikel=19) genoemde beslissingstermijnen voor toekenning van de tegemoetkoming verlengd met de tijd gedurende welke een orgaan in een andere lidstaat aangewezen is geweest als voorlopig bevoegd orgaan;
 
-- c. worden de in de [artikelen 21, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018472&artikel=21), en [27, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0018472&artikel=27) genoemde termijnen en de in [artikel 5a, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0019237&artikel=5a&z=2016-01-01&g=2016-01-01), genoemde termijn verlengd met de tijd gedurende welk een orgaan in een andere lidstaat aangewezen is geweest als voorlopig bevoegd orgaan.
+- c. worden de in de [artikelen 21, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018472&artikel=21), en [27, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0018472&artikel=27) genoemde termijnen en de in [artikel 5a, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0019237&artikel=5a&z=2016-07-01&g=2016-07-01), genoemde termijn verlengd met de tijd gedurende welk een orgaan in een andere lidstaat aangewezen is geweest als voorlopig bevoegd orgaan.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
@@ -269,7 +267,7 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 - b. waarvan de hoogte is vastgelegd in een overeenkomst of rechterlijke uitspraak die is gedateerd voor 11 oktober 2010, dan wel, indien de uitkering op andere grond tot stand is gekomen, de hoogte is vastgesteld voor 11 oktober 2010.
 
-2. [Artikel 9, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019237&artikel=9&z=2016-01-01&g=2016-01-01), is van overeenkomstige toepassing op het verzoek, bedoeld in het eerste lid.
+2. [Artikel 9, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019237&artikel=9&z=2016-07-01&g=2016-07-01), is van overeenkomstige toepassing op het verzoek, bedoeld in het eerste lid.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
