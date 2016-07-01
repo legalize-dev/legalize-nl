@@ -4,7 +4,7 @@ identifier: "BWBR0037605"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2016-07-15"
-last_updated: "2016-02-11"
+last_updated: "2016-07-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0037605"
 soort: "ministeriele-regeling"
@@ -48,7 +48,7 @@ Aan de kwartiermaker van de Dienst Uitvoering Subsidies aan Instellingen van het
 
 ##### Artikel 2
 
-Aan de kwartiermaker van DUS-I wordt toegestaan om met betrekking tot het mandaat, bedoeld in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0037605&artikel=1&z=2016-02-11&g=2016-02-11), zelf ondermandaat te verlenen. Het vierde lid van [artikel 11 van het Organisatie- en mandaatbesluit OCW 2008](https://wetten.overheid.nl/jci1.3:c:BWBR0023543&artikel=11) is hierbij van overeenkomstige toepassing.
+Aan de kwartiermaker van DUS-I wordt toegestaan om met betrekking tot het mandaat, bedoeld in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0037605&artikel=1&z=2016-07-15&g=2016-07-01), zelf ondermandaat te verlenen. Het vierde lid van [artikel 11 van het Organisatie- en mandaatbesluit OCW 2008](https://wetten.overheid.nl/jci1.3:c:BWBR0023543&artikel=11) is hierbij van overeenkomstige toepassing.
 
 ##### Artikel 3
 
@@ -58,7 +58,7 @@ Aan de kwartiermaker van DUS-I wordt toegestaan om met betrekking tot het mandaa
 
 ##### Artikel 4
 
-Besluiten als bedoeld in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0037605&artikel=1&z=2016-02-11&g=2016-02-11), genomen door of namens de kwartiermaker van DUS-I in de periode van 1 februari 2016 tot het moment van inwerkingtreding van dit besluit, gelden als besluiten genomen namens de minister.
+Besluiten als bedoeld in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0037605&artikel=1&z=2016-07-15&g=2016-07-01), genomen door of namens de kwartiermaker van DUS-I in de periode van 1 februari 2016 tot het moment van inwerkingtreding van dit besluit, gelden als besluiten genomen namens de minister.
 
 ##### Artikel 5
 
