@@ -4,7 +4,7 @@ identifier: "BWBR0038109"
 country: "nl"
 rank: "amvb"
 publication_date: "2020-01-01"
-last_updated: "2013-01-01"
+last_updated: "2016-07-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0038109"
 soort: "AMvB"
@@ -38,7 +38,7 @@ entry_into_force: "2016-07-01"
 
 ##### Artikel I
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt het Besluit algemene rechtspositie politie.
 
 ##### Artikel II
 
@@ -46,19 +46,29 @@ Wijzigt het Besluit bezoldiging politie.
 
 ##### Artikel III
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt het Besluit bovenwettelijke werkloosheidsuitkering politie.
 
 ##### Artikel IV
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt het Besluit reis-, verblijf-, en verhuiskosten politie.
 
 ##### Artikel V
 
-Dit onderdeel is nog niet inwerking getreden
+1. De [artikelen 2, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012022&artikel=2), en [8, vierde lid, van het Besluit bovenwettelijke werkloosheidsuitkering politie](https://wetten.overheid.nl/jci1.3:c:BWBR0012022&artikel=8) blijven van toepassing zoals die luidden de dag voorafgaande aan de datum van inwerkingtreding van dit besluit, ingeval de betrokkene:
+
+- a. op de datum van die inwerkingtreding gebruikt maakt van de regelingen vervat in die artikelonderdelen, of
+
+- b. in de periode op of na 1 januari 2013 tot de dag voorafgaand aan de datum van die inwerkingtreding gebruik heeft gemaakt van die regelingen, tot uiterlijk de datum van die inwerkingtreding.
+
+2. In de gevallen, bedoeld in het eerste lid, vindt een financiële compensatie plaats die wordt berekend door het aantal maanden dat de AOW-gerechtigde leeftijd van de betrokkene later ligt dan de datum waarop deze de leeftijd van 65 jaar heeft bereikt te vermenigvuldigen met 70% van het bedrag van het minimumloon, bedoeld in [artikel 8, eerste lid, onderdeel a, van de Wet minimumloon en minimumvakantiebijslag](https://wetten.overheid.nl/jci1.3:c:BWBR0002638&artikel=8).
 
 ##### Artikel VI
 
-Dit onderdeel is nog niet inwerking getreden
+1. Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin het wordt geplaatst.
+
+2. In afwijking van het eerste lid werkt [artikel II, onderdeel A](https://wetten.overheid.nl/jci1.3:c:BWBR0038109&artikel=II&z=2016-07-01&g=2016-07-01), terug tot en met 1 januari 2013.
+
+3. In afwijking van het eerste lid werkt [artikel II, onderdeel B](https://wetten.overheid.nl/jci1.3:c:BWBR0038109&artikel=II&z=2016-07-01&g=2016-07-01), terug tot en met 1 januari 2015.
 
 Op de voordracht van Onze Minister van Veiligheid en Justitie van 7 april 2016, Nr. 751765;
 
