@@ -4,7 +4,7 @@ identifier: "BWBR0002356"
 country: "nl"
 rank: "rijkswet"
 publication_date: "2017-03-01"
-last_updated: "2010-10-10"
+last_updated: "2016-07-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0002356"
 soort: "rijkswet"
@@ -160,13 +160,31 @@ Lasten en bevelen, dat deze rijkswet in het **Staatsblad**, het **Gouvernementsb
 
 ##### Artikel 1a
 
-Dit onderdeel is nog niet inwerking getreden
+De Hoge Raad neemt in belastingzaken met betrekking tot Aruba, Curaçao, Sint Maarten en de openbare lichamen Bonaire, Sint Eustatius en Saba kennis van een beroep in cassatie, ingesteld hetzij door de belanghebbende of door Onze Minister van Financiën van onderscheidenlijk Aruba, Curaçao, Sint Maarten of Nederland, hetzij «in het belang der wet» door de procureur-generaal bij de Hoge Raad.
 
 #### § 2. Cassatie in burgerlijke zaken ingesteld door partijen
 
 #### § 3. Cassatie in strafzaken ingesteld door partijen
 
 #### § 3a. Cassatie in belastingzaken ingesteld door de belanghebbende of de minister
+
+#### § 5. Overgangs- en slotbepalingen
+
+Lasten en bevelen, dat deze rijkswet in het **Staatsblad**, het **Gouvernementsblad van Suriname** en het **Publicatieblad van de Nederlandse Antillen** zal worden geplaatst, en dat alle Ministeriële Departementen, Autoriteiten, Colleges en Ambtenaren, wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
+
+##### Artikel 15a
+
+1. De belanghebbende die bevoegd was in belastingzaken hoger beroep in te stellen bij het Gemeenschappelijk Hof van Justitie van Aruba, Curaçao, Sint Maarten en van Bonaire, Sint Eustatius en Saba en Onze Minister van Financiën van Aruba, Curaçao, Sint Maarten of Nederland kunnen bij de Hoge Raad beroep in cassatie instellen tegen uitspraken in belastingzaken van het Gemeenschappelijk Hof. Tegen andere beslissingen van het Gemeenschappelijk Hof kan slechts tegelijkertijd met het beroep in cassatie tegen de uitspraak beroep in cassatie worden ingesteld.
+
+2. Het beroep kan worden ingesteld binnen twee maanden na dagtekening van het afschrift van de uitspraak van het Gemeenschappelijk Hof.
+
+3. [Afdeling 4 van hoofdstuk V](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&afdeling=4), met uitzondering van [artikel 28, van de Algemene wet inzake rijksbelastingen](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=28) is van overeenkomstige toepassing.
+
+4. Indien verwijzing naar een andere rechter moet plaats hebben, geschiedt deze steeds naar het Gemeenschappelijk Hof.
+
+5. Het Gemeenschappelijk Hof is in het geval, bedoeld in het vierde lid, zoveel mogelijk samengesteld uit rechters die nog niet over de zaak hebben geoordeeld.
+
+#### § 4. Cassatie in het belang der wet
 
 #### § 5. Overgangs- en slotbepalingen
 
