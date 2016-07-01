@@ -4,7 +4,7 @@ identifier: "BWBR0032075"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-11-19"
-last_updated: "2016-02-18"
+last_updated: "2016-07-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0032075"
 soort: "ministeriele-regeling"
@@ -46,23 +46,35 @@ Besluit:
 
 In deze regeling wordt verstaan onder:
 
-- a. **groen monument:** beschermd monument of zelfstandig onderdeel zijnde een aanleg die geheel of gedeeltelijk bestaat uit beplanting, zoals een park- of tuinaanleg,
+- a. **eigenaar:** natuurlijke persoon of rechtspersoon die het recht van eigendom of een ander zakelijk recht heeft op een beschermd monument,
 
-- b. **herbouwwaarde:** kosten om een beschermd monument of zelfstandig onderdeel in zijn geheel opnieuw te vervaardigen, met dezelfde constructie, materiaalsoorten en detaillering,
+- b. **groen monument:** rijksmonument of zelfstandig onderdeel zijnde een aanleg die geheel of gedeeltelijk bestaat uit beplanting, zoals een park- of tuinaanleg,
 
-- c. **inspectierapport:** rapport dat de technische of fysieke staat van een beschermd monument of zelfstandig onderdeel beschrijft, en dat is opgesteld door een ter zake deskundige persoon of instantie,
+- c. **herbouwwaarde:** kosten om een rijksmonument of zelfstandig onderdeel in zijn geheel opnieuw te vervaardigen, met dezelfde constructie, materiaalsoorten en detaillering,
 
-- d. **instandhoudingsplan:** plan als bedoeld in [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0032075&hoofdstuk=2&paragraaf=2.2&artikel=10&z=2016-02-18&g=2016-02-18),
+- d. **inspectierapport:** rapport dat de technische of fysieke staat van een rijksmonument of zelfstandig onderdeel beschrijft, en dat is opgesteld door een ter zake deskundige persoon of instantie,
 
-- e. **kerkgebouw:** beschermd monument of zelfstandig onderdeel, dat in oorsprong uitsluitend of voor een overwegend deel is vervaardigd voor het gezamenlijk belijden van de godsdienst of levensovertuiging,
+- e. **instandhoudingsplan:** plan als bedoeld in [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0032075&hoofdstuk=2&paragraaf=2.2&artikel=10&z=2016-07-01&g=2016-07-01),
 
-- f. **minister:** Minister van Onderwijs, Cultuur en Wetenschap,
+- f. **kerkgebouw:** rijksmonument of zelfstandig onderdeel, dat in oorsprong uitsluitend of voor een overwegend deel is vervaardigd voor het gezamenlijk belijden van de godsdienst of levensovertuiging,
 
-- g. **professionele organisatie voor monumentenbehoud:** aangewezen organisatie als bedoeld in [artikel 30](https://wetten.overheid.nl/jci1.3:c:BWBR0032075&hoofdstuk=3&artikel=30&z=2016-02-18&g=2016-02-18),
+- g. **minister:** Minister van Onderwijs, Cultuur en Wetenschap,
 
-- h. **werelderfgoed:** gebied dat door UNESCO is aangewezen als werelderfgoed op grond van de Overeenkomst inzake de bescherming van het cultureel en natuurlijk erfgoed van de wereld (Parijs, 16 november 1972),
+- h. **professionele organisatie voor monumentenbehoud:** aangewezen organisatie als bedoeld in [artikel 30](https://wetten.overheid.nl/jci1.3:c:BWBR0032075&hoofdstuk=3&artikel=30&z=2016-07-01&g=2016-07-01),
 
-- i. **woonhuis:** beschermd monument of zelfstandig onderdeel dat in oorsprong is vervaardigd voor bewoning of dat thans voor meer dan de helft van de oppervlakte voor bewoning in gebruik is, met dien verstande dat niet als woonhuizen worden aangemerkt: gebouwen die deel uitmaken van een geregistreerd museum, kerkgebouwen, kastelen, paleizen, het hoofdhuis van buitenplaatsen, landhuizen, gebouwen van liefdadigheid, molens, gemalen, agrarische gebouwen en watertorens.
+- i. **werelderfgoed:** gebied dat door UNESCO is aangewezen als werelderfgoed op grond van de Overeenkomst inzake de bescherming van het cultureel en natuurlijk erfgoed van de wereld (Parijs, 16 november 1972),
+
+- j. **woonhuis:** rijksmonument of zelfstandig onderdeel dat in oorsprong is vervaardigd voor bewoning of dat voor meer dan de helft van de oppervlakte voor bewoning in gebruik is, met dien verstande dat niet als woonhuis wordt aangemerkt een gebouw dat deel uitmaakt van een geregistreerd museum, een kerkgebouw, kasteel, paleis, hoofdhuis van een buitenplaats, landhuis, gebouw van liefdadigheid, molen, gemaal, agrarisch gebouw of watertoren,
+
+- k. **zelfstandig onderdeel:**
+
+- 1°. deel van een rijksmonument dat is aan te merken als een zelfstandige bouwkundige eenheid,
+
+- 2°. deel van een rijksmonument dat is aan te merken als een toren van een kerkgebouw,
+
+- 3°. alle delen gezamenlijk van een rijksmonument, zijnde een aanleg zoals een park- of tuinaanleg, die aan één eigenaar behoren, en niet het gehele rijksmonument omvatten, of
+
+- 4°. alle delen gezamenlijk van een archeologisch rijksmonument, die aan één eigenaar behoren, en niet het gehele rijksmonument omvatten.
 
 ### Hoofdstuk 2. Subsidieverstrekking voor onderhoud
 
@@ -70,17 +82,17 @@ In deze regeling wordt verstaan onder:
 
 ##### Artikel 2. Reikwijdte
 
-De minister kan jaarlijks aan de eigenaar van een beschermd monument of zelfstandig onderdeel op aanvraag voor een periode van zes kalenderjaren subsidie voor het normale onderhoud van dat monument verstrekken.
+De minister kan jaarlijks aan de eigenaar van een rijksmonument of zelfstandig onderdeel op aanvraag voor een periode van zes kalenderjaren subsidie voor het normale onderhoud van dat monument verstrekken.
 
 ##### Artikel 3. Subsidieplafonds
 
 1. Voor subsidieverlening zijn jaarlijks ten hoogste de volgende bedragen beschikbaar voor:
 
-- a. beschermde archeologische monumenten: € 800.000,
+- a. archeologische rijksmonumenten: € 800.000,
 
 - b. groene monumenten: € 5 miljoen,
 
-- c. overige beschermde monumenten: € 45,02 miljoen.
+- c. overige rijksmonumenten: € 45,02 miljoen.
 
 2. Indien in enig jaar een beschikbaar bedrag niet geheel wordt verleend, wordt het resterende bedrag aan het desbetreffende subsidieplafond voor het volgende jaar toegevoegd.
 
@@ -94,7 +106,7 @@ Subsidiabel zijn de kosten van werkzaamheden, maatregelen en voorzieningen die a
 
 2. In afwijking van het eerste lid zijn de subsidiabele kosten op grond waarvan het subsidiebedrag wordt bepaald ten hoogste € 60.000 voor een molen.
 
-3. Het eerste lid is niet van toepassing op groene monumenten en beschermde archeologische monumenten.
+3. Het eerste lid is niet van toepassing op groene monumenten en archeologische rijksmonumenten.
 
 #### § 2.2. **Aanvraag**
 
@@ -108,15 +120,15 @@ Een aanvraag kan elektronisch of op papier worden ingediend. Elektronische aanvr
 
 ##### Artikel 8. In te dienen bescheiden
 
-1. Bij een aanvraag om subsidie wordt gebruik gemaakt van een hiervoor door de minister vastgestelde aanvraagformulier. De minister stelt een afzonderlijk formulier vast waarmee een eigenaar aanvragen ten behoeve van 20 of meer beschermde monumenten gezamenlijk kan indienen.
+1. Bij een aanvraag om subsidie wordt gebruik gemaakt van een hiervoor door de minister vastgesteld aanvraagformulier. De minister stelt een afzonderlijk formulier vast waarmee een eigenaar aanvragen ten behoeve van 20 of meer rijksmonumenten gezamenlijk kan indienen.
 
 2. In een aanvraagformulier kunnen de volgende bescheiden worden gevraagd:
 
-- a. een instandhoudingsplan of een meerjarenbegroting als bedoeld in [artikel 10, eerste lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0032075&hoofdstuk=2&paragraaf=2.2&artikel=10&z=2016-02-18&g=2016-02-18),
+- a. een instandhoudingsplan of een meerjarenbegroting als bedoeld in [artikel 10, eerste lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0032075&hoofdstuk=2&paragraaf=2.2&artikel=10&z=2016-07-01&g=2016-07-01),
 
-- b. een actueel inspectierapport en, indien niet in het inspectierapport opgenomen, een of meer actuele overzichts- en detailfoto’s die een duidelijke indruk geven van het beschermd monument of zelfstandig onderdeel en zijn gebreken,
+- b. een actueel inspectierapport en, indien niet in het inspectierapport opgenomen, een of meer actuele overzichts- en detailfoto’s die een duidelijke indruk geven van het rijksmonument of zelfstandig onderdeel en zijn gebreken,
 
-- c. met uitzondering van molens, beschermde archeologische monumenten en groene monumenten, een verzekeringspolis waaruit de herbouwwaarde blijkt, of voor zover geen verzekering is afgesloten of de herbouwwaarde niet uit de verzekeringspolis blijkt, een door een verzekeraar geaccepteerde taxatie van de herbouwwaarde,
+- c. met uitzondering van molens, archeologische rijksmonumenten en groene monumenten, een verzekeringspolis waaruit de herbouwwaarde blijkt, of voor zover geen verzekering is afgesloten of de herbouwwaarde niet uit de verzekeringspolis blijkt, een door een verzekeraar geaccepteerde taxatie van de herbouwwaarde,
 
 - d. voor zover het een zelfstandig onderdeel betreft dat is aan te merken als een zelfstandige bouwkundige eenheid of als een toren van een kerkgebouw, een tekening waarop het zelfstandig onderdeel duidelijk is weergegeven ten opzichte van aangrenzende zelfstandige onderdelen,
 
@@ -130,17 +142,17 @@ Een aanvraag kan elektronisch of op papier worden ingediend. Elektronische aanvr
 
 ##### Artikel 9. In te dienen bescheiden door professionele organisaties voor monumentenbehoud
 
-1. In afwijking van [artikel 8, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032075&hoofdstuk=2&paragraaf=2.2&artikel=8&z=2016-02-18&g=2016-02-18), gaat een aanvraag van een professionele organisatie voor monumentenbehoud slechts vergezeld van een overzicht van de beschermde monumenten of zelfstandige onderdelen waarvoor subsidie wordt gevraagd.
+1. In afwijking van [artikel 8, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032075&hoofdstuk=2&paragraaf=2.2&artikel=8&z=2016-07-01&g=2016-07-01), gaat een aanvraag van een professionele organisatie voor monumentenbehoud slechts vergezeld van een overzicht van de rijksmonumenten of zelfstandige onderdelen waarvoor subsidie wordt gevraagd.
 
-2. Het overzicht bevat per beschermd monument of zelfstandig onderdeel:
+2. Het overzicht bevat per rijksmonument of zelfstandig onderdeel:
 
 - a. het monumentnummer,
 
-- b. de totale begrote subsidiabele kosten als bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0032075&hoofdstuk=2&paragraaf=2.1&artikel=4&z=2016-02-18&g=2016-02-18),
+- b. de totale begrote subsidiabele kosten als bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0032075&hoofdstuk=2&paragraaf=2.1&artikel=4&z=2016-07-01&g=2016-07-01),
 
-- c. voor zover het een zelfstandig onderdeel betreft, een omschrijving van dat onderdeel waarbij het te onderscheiden is van andere zelfstandige onderdelen van het desbetreffende beschermde monument, en
+- c. voor zover het een zelfstandig onderdeel betreft, een omschrijving van dat onderdeel waarbij het te onderscheiden is van andere zelfstandige onderdelen van het desbetreffende rijksmonument, en
 
-- d. voor zover het geen molen, beschermd archeologisch monument of groen monument betreft, de herbouwwaarde.
+- d. voor zover het geen molen, archeologisch rijksmonument of groen monument betreft, de herbouwwaarde.
 
 ##### Artikel 10. Instandhoudingsplan
 
@@ -160,13 +172,13 @@ De minister beslist jaarlijks voor 1 september gelijktijdig op de in het desbetr
 
 ##### Artikel 12. Weigeringsgronden
 
-1. Onverminderd [artikel 7 van het Besluit rijkssubsidiëring instandhouding monumenten 2013](https://wetten.overheid.nl/jci1.3:c:BWBR0032036&artikel=7) wordt een aanvraag om subsidie in ieder geval geweigerd:
+1. Onverminderd [artikel 7.6 van de Erfgoedwet](https://wetten.overheid.nl/jci1.3:c:BWBR0037521&artikel=7.6) wordt een aanvraag om subsidie in ieder geval geweigerd:
 
 - a. voor zover de aanvraag betrekking heeft op een woonhuis,
 
-- b. voor zover de aanvraag betrekking heeft op een kerkgebouw en een verklaring als bedoeld in [artikel 8, tweede lid, onder h](https://wetten.overheid.nl/jci1.3:c:BWBR0032075&hoofdstuk=2&paragraaf=2.2&artikel=8&z=2016-02-18&g=2016-02-18), ontbreekt,
+- b. voor zover de aanvraag betrekking heeft op een kerkgebouw en een verklaring als bedoeld in [artikel 8, tweede lid, onder h](https://wetten.overheid.nl/jci1.3:c:BWBR0032075&hoofdstuk=2&paragraaf=2.2&artikel=8&z=2016-07-01&g=2016-07-01), ontbreekt,
 
-- c. voor zover de subsidie naar het oordeel van de minister niet noodzakelijk is voor het normaal onderhoud van het beschermd monument of zelfstandig onderdeel,
+- c. voor zover de subsidie naar het oordeel van de minister niet noodzakelijk is voor het normaal onderhoud van het rijksmonument of zelfstandig onderdeel,
 
 - d. voor zover de werkzaamheden waarvoor subsidie wordt gevraagd naar het oordeel van de minister niet sober en doelmatig zijn,
 
@@ -176,11 +188,11 @@ De minister beslist jaarlijks voor 1 september gelijktijdig op de in het desbetr
 
 - g. voor zover de kosten waarvoor subsidie wordt gevraagd op grond van de [Wet op de omzetbelasting](https://wetten.overheid.nl/jci1.3:c:BWBR0002629) op verschuldigde belasting in aftrek kunnen worden gebracht of op grond van de [Wet op het BTW-compensatiefonds](https://wetten.overheid.nl/jci1.3:c:BWBR0013817) kunnen worden teruggevorderd,
 
-- h. voor zover aan de aanvrager voor het beschermd monument of zelfstandig onderdeel waarvoor subsidie wordt gevraagd, in de vijf kalenderjaren voorafgaand aan het jaar van de aanvraag subsidie is verleend op grond van deze regeling, [artikel 3 van het Besluit rijkssubsidiëring instandhouding monumenten 2011](https://wetten.overheid.nl/jci1.3:c:BWBR0028785&artikel=3) of [artikel 3 van het Besluit rijkssubsidiëring instandhouding monumenten](https://wetten.overheid.nl/jci1.3:c:BWBR0019439&artikel=3),
+- h. voor zover aan de aanvrager voor het rijksmonument of zelfstandig onderdeel waarvoor subsidie wordt gevraagd, in de vijf kalenderjaren voorafgaand aan het jaar van de aanvraag subsidie is verleend op grond van deze regeling, [artikel 3 van het Besluit rijkssubsidiëring instandhouding monumenten 2011](https://wetten.overheid.nl/jci1.3:c:BWBR0028785&artikel=3) of [artikel 3 van het Besluit rijkssubsidiëring instandhouding monumenten](https://wetten.overheid.nl/jci1.3:c:BWBR0019439&artikel=3),
 
-- i. indien de aanvraag wordt ingediend buiten de termijn, bedoeld in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0032075&hoofdstuk=2&paragraaf=2.2&artikel=6&z=2016-02-18&g=2016-02-18), of
+- i. indien de aanvraag wordt ingediend buiten de termijn, bedoeld in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0032075&hoofdstuk=2&paragraaf=2.2&artikel=6&z=2016-07-01&g=2016-07-01), of
 
-- j. indien de subsidiabele kosten van een aanvraag die betrekking heeft op een beschermd archeologisch monument minder dan € 3000 bedragen of minder dan € 6000 bedragen indien de aanvraag betrekking heeft op een ander beschermd monument.
+- j. indien de subsidiabele kosten van een aanvraag die betrekking heeft op een archeologisch rijksmonument minder dan € 3000 bedragen of minder dan € 6000 bedragen indien de aanvraag betrekking heeft op een ander rijksmonument.
 
 2. Het eerste lid, onder a, is niet van toepassing op een aanvraag van een:
 
@@ -190,13 +202,13 @@ De minister beslist jaarlijks voor 1 september gelijktijdig op de in het desbetr
 
 ##### Artikel 13. Subsidiebedrag
 
-Het subsidiebedrag dat wordt verleend, bedraagt 50 procent van de subsidiabele kosten met toepassing van [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0032075&hoofdstuk=2&paragraaf=2.1&artikel=5&z=2016-02-18&g=2016-02-18).
+Het subsidiebedrag dat wordt verleend, bedraagt 50 procent van de subsidiabele kosten met toepassing van [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0032075&hoofdstuk=2&paragraaf=2.1&artikel=5&z=2016-07-01&g=2016-07-01).
 
 ##### Artikel 14. Verdeelcriteria
 
-1. Indien in enig jaar een subsidieplafond als bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0032075&hoofdstuk=2&paragraaf=2.1&artikel=3&z=2016-02-18&g=2016-02-18) niet hoog genoeg is om alle aanvragen ten laste van het desbetreffende beschikbare bedrag te honoreren, wordt op die aanvragen in de volgende volgorde beslist:
+1. Indien in enig jaar een subsidieplafond als bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0032075&hoofdstuk=2&paragraaf=2.1&artikel=3&z=2016-07-01&g=2016-07-01) niet hoog genoeg is om alle aanvragen ten laste van het desbetreffende beschikbare bedrag te honoreren, wordt op die aanvragen in de volgende volgorde beslist:
 
-- a. aanvragen, voor zover die beschermde monumenten of zelfstandige onderdelen omvatten die deel uit maken van een werelderfgoed,
+- a. aanvragen, voor zover die rijksmonumenten of zelfstandige onderdelen omvatten die deel uit maken van een werelderfgoed,
 
 - b. aanvragen van professionele organisaties voor monumentenbehoud,
 
@@ -204,11 +216,11 @@ Het subsidiebedrag dat wordt verleend, bedraagt 50 procent van de subsidiabele k
 
 2. Indien na toepassing van het eerste lid, onder a en b, nog middelen beschikbaar zijn, wordt het resterende budget als volgt verdeeld:
 
-- a. 75 procent van het budget voor aanvragen, voor zover die beschermde monumenten of zelfstandige onderdelen betreffen met een herbouwwaarde van minder dan € 8,3 miljoen, voor zover die groene monumenten of beschermde archeologische monumenten betreffen met minder dan € 250.000 aan subsidiabele kosten of voor zover die molens betreffen, en
+- a. 75 procent van het budget voor aanvragen, voor zover die rijksmonumenten of zelfstandige onderdelen betreffen met een herbouwwaarde van minder dan € 8,3 miljoen, voor zover die groene monumenten of archeologische rijksmonumenten betreffen met minder dan € 250.000 aan subsidiabele kosten of voor zover die molens betreffen, en
 
-- b. 25 procent van het budget voor aanvragen, voor zover deze beschermde monumenten of zelfstandige onderdelen betreffen met een hogere herbouwwaarde onderscheidenlijk meer subsidiabele kosten dan in onderdeel a.
+- b. 25 procent van het budget voor aanvragen, voor zover deze rijksmonumenten of zelfstandige onderdelen betreffen met een hogere herbouwwaarde onderscheidenlijk meer subsidiabele kosten dan in onderdeel a.
 
-3. Indien bij toepassing van het eerste lid het subsidieplafond wordt overschreden door subsidieverlening aan alle aanvragen in het eerste lid, onderdeel a, b of c, wordt op de aanvragen in het desbetreffende onderdeel beslist in volgorde van totale begrote kosten uit de aanvraag, waarbij een aanvraag met lagere totale begrote kosten voorrang krijgt. Bij aanvragen van professionele organisaties voor monumentenbehoud worden de beschermde monumenten en zelfstandige onderdelen uit de ingediende overzichten, bedoeld in [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0032075&hoofdstuk=2&paragraaf=2.2&artikel=9&z=2016-02-18&g=2016-02-18), in volgorde van begrote kosten gezet en voor de toepassing van dit lid elk afzonderlijk als aanvraag beschouwd.
+3. Indien bij toepassing van het eerste lid het subsidieplafond wordt overschreden door subsidieverlening aan alle aanvragen in het eerste lid, onderdeel a, b of c, wordt op de aanvragen in het desbetreffende onderdeel beslist in volgorde van totale begrote kosten uit de aanvraag, waarbij een aanvraag met lagere totale begrote kosten voorrang krijgt. Bij aanvragen van professionele organisaties voor monumentenbehoud worden de rijksmonumenten en zelfstandige onderdelen uit de ingediende overzichten, bedoeld in [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0032075&hoofdstuk=2&paragraaf=2.2&artikel=9&z=2016-07-01&g=2016-07-01), in volgorde van begrote kosten gezet en voor de toepassing van dit lid elk afzonderlijk als aanvraag beschouwd.
 
 ##### Artikel 15. Bevoorschotting
 
@@ -224,9 +236,9 @@ Het subsidiebedrag dat wordt verleend, bedraagt 50 procent van de subsidiabele k
 
 ##### Artikel 16. Bijzondere bepalingen voor professionele organisaties voor monumentenbehoud
 
-1. Een professionele organisatie voor monumentenbehoud kan de subsidie aanwenden voor uitvoering van subsidiabele werkzaamheden aan alle beschermde monumenten en zelfstandige onderdelen uit het overzicht, bedoeld in [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0032075&hoofdstuk=2&paragraaf=2.2&artikel=9&z=2016-02-18&g=2016-02-18), waarvoor subsidie is verleend.
+1. Een professionele organisatie voor monumentenbehoud kan de subsidie aanwenden voor uitvoering van subsidiabele werkzaamheden aan alle rijksmonumenten en zelfstandige onderdelen uit het overzicht, bedoeld in [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0032075&hoofdstuk=2&paragraaf=2.2&artikel=9&z=2016-07-01&g=2016-07-01), waarvoor subsidie is verleend.
 
-2. Na een aanvraag als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0032075&hoofdstuk=2&paragraaf=2.1&artikel=2&z=2016-02-18&g=2016-02-18) en onverminderd [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0032075&hoofdstuk=2&paragraaf=2.3&artikel=14&z=2016-02-18&g=2016-02-18) kan de minister er mee instemmen dat een professionele organisatie voor monumentenbehoud een overzicht als bedoeld in [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0032075&hoofdstuk=2&paragraaf=2.2&artikel=9&z=2016-02-18&g=2016-02-18) ten behoeve waarvan subsidie is verleend met ingang van het opvolgende kalenderjaar uitbreidt met andere beschermde monumenten of zelfstandige onderdelen die geen onderdeel uitmaken van dat overzicht. In dat geval wijzigt de minister de beschikking tot subsidieverlening en verhoogt hij de verleende subsidie naar rato van het aantal resterende kalenderjaren van het overzicht. De verhoging bedraagt voor de gehele resterende periode:
+2. Na een aanvraag als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0032075&hoofdstuk=2&paragraaf=2.1&artikel=2&z=2016-07-01&g=2016-07-01) en onverminderd [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0032075&hoofdstuk=2&paragraaf=2.3&artikel=14&z=2016-07-01&g=2016-07-01) kan de minister er mee instemmen dat een professionele organisatie voor monumentenbehoud een overzicht als bedoeld in [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0032075&hoofdstuk=2&paragraaf=2.2&artikel=9&z=2016-07-01&g=2016-07-01) ten behoeve waarvan subsidie is verleend met ingang van het opvolgende kalenderjaar uitbreidt met andere rijksmonumenten of zelfstandige onderdelen die geen onderdeel uitmaken van dat overzicht. In dat geval wijzigt de minister de beschikking tot subsidieverlening en verhoogt hij de verleende subsidie naar rato van het aantal resterende kalenderjaren van het overzicht. De verhoging bedraagt voor de gehele resterende periode:
 
 - a. voor toegevoegde beschermde archeologische monumenten of zelfstandige onderdelen daarvan en voor groene monumenten: 50 procent van de subsidiabele kosten;
 
@@ -246,17 +258,17 @@ Indien de minister ernstige twijfel heeft over de juistheid van de opgegeven her
 
 ##### Artikel 19. Onderhoudsplicht
 
-De minister kan de subsidieontvanger verplichten na afloop van de werkzaamheden waarvoor subsidie is verleend, het beschermd monument of het zelfstandig onderdeel te bewaren en te onderhouden in de staat waarin het door de werkzaamheden waarvoor subsidie is verleend, is gebracht.
+De minister kan de subsidieontvanger verplichten na afloop van de werkzaamheden waarvoor subsidie is verleend, het rijksmonument of het zelfstandig onderdeel te bewaren en te onderhouden in de staat waarin het door de werkzaamheden waarvoor subsidie is verleend, is gebracht.
 
 ##### Artikel 20. Gebruik kerkgebouw
 
-Een kerkgebouw waarvoor subsidie is verleend, wordt gedurende de subsidieperiode overeenkomstig de verklaring, bedoeld in [artikel 8, tweede lid, onder h](https://wetten.overheid.nl/jci1.3:c:BWBR0032075&hoofdstuk=2&paragraaf=2.2&artikel=8&z=2016-02-18&g=2016-02-18), bestendig gebruikt.
+Een kerkgebouw waarvoor subsidie is verleend, wordt gedurende de subsidieperiode overeenkomstig de verklaring, bedoeld in [artikel 8, tweede lid, onder h](https://wetten.overheid.nl/jci1.3:c:BWBR0032075&hoofdstuk=2&paragraaf=2.2&artikel=8&z=2016-07-01&g=2016-07-01), bestendig gebruikt.
 
 ##### Artikel 21. Verplichtingen bij de uitvoering van werkzaamheden
 
 De minister kan de subsidieontvanger verplichten:
 
-- a. mee te werken aan een onderzoek naar de bouw- of ontstaansgeschiedenis van het beschermd monument of zelfstandig onderdeel,
+- a. mee te werken aan een onderzoek naar de bouw- of ontstaansgeschiedenis van het rijksmonument of zelfstandig onderdeel,
 
 - b. de aanbesteding en de gunning van de werkzaamheden waarvoor subsidie is verleend, op een door de minister te bepalen wijze te doen plaatsvinden,
 
@@ -266,9 +278,9 @@ De minister kan de subsidieontvanger verplichten:
 
 - e. werkzaamheden uit te voeren volgens in de beroepsgroep geldende normen,
 
-- f. het beschermd monument of het zelfstandig onderdeel te voorzien van een of meer installaties ter beperking van schade als gevolg van brand of blikseminslag, ter bescherming van de monumentale waarde van het beschermd monument of het zelfstandig onderdeel,
+- f. het rijksmonument of het zelfstandig onderdeel te voorzien van een of meer installaties ter beperking van schade als gevolg van brand of blikseminslag, ter bescherming van de monumentale waarde van het rijksmonument of het zelfstandig onderdeel,
 
-- g. advies te vragen aan de Rijksdienst voor het Cultureel Erfgoed alvorens met de voorgenomen werkzaamheden wordt gestart voor zover de monumentale waarde van het beschermd monument of het zelfstandig onderdeel of de werkzaamheden daartoe aanleiding vormen, of
+- g. advies te vragen aan de Rijksdienst voor het Cultureel Erfgoed alvorens met de voorgenomen werkzaamheden wordt gestart voor zover de monumentale waarde van het rijksmonument of het zelfstandig onderdeel of de werkzaamheden daartoe aanleiding vormen, of
 
 - h. werkzaamheden onder nader door hem te stellen voorwaarden te doen begeleiden indien voor de uitvoering daarvan specifieke kennis is vereist.
 
@@ -278,7 +290,7 @@ De minister kan de subsidieontvanger verplichten:
 
 - a. voor de duur van de werkzaamheden waarvoor subsidie is verleend, een Casco-All-Risks verzekering af te sluiten, of
 
-- b. vanaf de aanvang van de werkzaamheden waarvoor subsidie is verleend, op eigen kosten het beschermd monument of het zelfstandig onderdeel te verzekeren dan wel verzekerd te houden tegen brand-, storm- en bliksemschade en na afloop van de werkzaamheden daartegen verzekerd te houden.
+- b. vanaf de aanvang van de werkzaamheden waarvoor subsidie is verleend, op eigen kosten het rijksmonument of het zelfstandig onderdeel te verzekeren dan wel verzekerd te houden tegen brand-, storm- en bliksemschade en na afloop van de werkzaamheden daartegen verzekerd te houden.
 
 #### § 2.5. **Verantwoording en vaststelling**
 
@@ -292,7 +304,7 @@ Indien de subsidie minder dan € 25.000 bedraagt, toont de subsidieontvanger op
 
 2. De minister kan voor de prestatieverklaring een model vaststellen.
 
-3. De prestatieverklaring gaat vergezeld van een inspectierapport per beschermd monument of per zelfstandig onderdeel, dat is opgesteld na afloop van het verrichten van de werkzaamheden waarvoor subsidie is verleend.
+3. De prestatieverklaring gaat vergezeld van een inspectierapport per rijksmonument of per zelfstandig onderdeel, dat is opgesteld na afloop van het verrichten van de werkzaamheden waarvoor subsidie is verleend.
 
 4. Het derde lid is niet van toepassing op professionele organisaties voor monumentenbehoud.
 
@@ -332,9 +344,9 @@ Onverminderd [artikel 4:46 van de Algemene wet bestuursrecht](https://wetten.ove
 
 ##### Artikel 28. Eigendomsoverdracht
 
-1. Indien de subsidieontvanger de eigendom of een ander zakelijk recht van een beschermd monument of een zelfstandig onderdeel overdraagt aan een derde, dient de subsidieontvanger binnen drie maanden na de overdracht een aanvraag tot vaststelling van de subsidie in bij de minister. De [artikelen 23 tot en met 27](https://wetten.overheid.nl/jci1.3:c:BWBR0032075&hoofdstuk=2&paragraaf=2.5&artikel=23&z=2016-02-18&g=2016-02-18) zijn van overeenkomstige toepassing.
+1. Indien de subsidieontvanger de eigendom of een ander zakelijk recht van een rijksmonument of een zelfstandig onderdeel overdraagt aan een derde, dient de subsidieontvanger binnen drie maanden na de overdracht een aanvraag tot vaststelling van de subsidie in bij de minister. De [artikelen 23 tot en met 27](https://wetten.overheid.nl/jci1.3:c:BWBR0032075&hoofdstuk=2&paragraaf=2.5&artikel=23&z=2016-07-01&g=2016-07-01) zijn van overeenkomstige toepassing.
 
-2. Na de vaststelling, bedoeld in het eerste lid, kan de minister op verzoek van de eigenaar aan wie de eigendom of het zakelijk recht is overgedragen, aan die eigenaar subsidie verstrekken ten behoeve van de afronding van het instandhoudingsplan. [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0032075&hoofdstuk=2&paragraaf=2.3&artikel=14&z=2016-02-18&g=2016-02-18) is niet van toepassing.
+2. Na de vaststelling, bedoeld in het eerste lid, kan de minister op verzoek van de eigenaar aan wie de eigendom of het zakelijk recht is overgedragen, aan die eigenaar subsidie verstrekken ten behoeve van de afronding van het instandhoudingsplan. [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0032075&hoofdstuk=2&paragraaf=2.3&artikel=14&z=2016-07-01&g=2016-07-01) is niet van toepassing.
 
 ##### Artikel 29. Terugvordering
 
@@ -350,7 +362,7 @@ Onverminderd [artikel 4:46 van de Algemene wet bestuursrecht](https://wetten.ove
 
 1. De minister kan op aanvraag een privaatrechtelijke rechtspersoon of kerkgenootschap aanwijzen als professionele organisatie voor monumentenbehoud.
 
-2. De minister wijst een organisatie slechts aan indien zij eigenaar is van ten minste twintig beschermde monumenten en zij op professionele wijze de monumentale waarden van die monumenten in stand houdt.
+2. De minister wijst een organisatie slechts aan indien zij eigenaar is van ten minste twintig rijksmonumenten en zij op professionele wijze de monumentale waarden van die monumenten in stand houdt.
 
 3. Indien een aanvrager bij de aanvraag heeft aangetoond dat het in stand houden van monumenten een hoofdactiviteit van de organisatie is, vermeldt de minister dit in het aanwijzingsbesluit.
 
@@ -360,15 +372,15 @@ Onverminderd [artikel 4:46 van de Algemene wet bestuursrecht](https://wetten.ove
 
 - a. de organisatie een statutaire doelstelling tot instandhouding van cultureel erfgoed heeft,
 
-- b. de kwaliteit van de uitvoering van werkzaamheden aan beschermde monumenten is geborgd,
+- b. de kwaliteit van de uitvoering van werkzaamheden aan rijksmonumenten is geborgd,
 
-- c. de professionele omgang met beschermde monumenten in de vijf jaar voorafgaand aan de aanvraag een structureel en consistent karakter heeft,
+- c. de professionele omgang met rijksmonumenten in de vijf jaar voorafgaand aan de aanvraag een structureel en consistent karakter heeft,
 
 - d. de organisatie financieel stabiel is, en
 
-- e. ten minste de helft van het aantal beschermde monumenten waarvan de organisatie eigenaar is in goede staat is.
+- e. ten minste de helft van het aantal rijksmonumenten waarvan de organisatie eigenaar is in goede staat is.
 
-2. Indien een aanvrager een vermelding als bedoeld in [artikel 30, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032075&hoofdstuk=3&artikel=30&z=2016-02-18&g=2016-02-18), wenst, toont deze aan dat het in stand houden van monumenten een hoofdactiviteit van de organisatie is, hetgeen onder meer kan blijken uit de feitelijke activiteiten van de organisatie.
+2. Indien een aanvrager een vermelding als bedoeld in [artikel 30, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032075&hoofdstuk=3&artikel=30&z=2016-07-01&g=2016-07-01), wenst, toont deze aan dat het in stand houden van monumenten een hoofdactiviteit van de organisatie is, hetgeen onder meer kan blijken uit de feitelijke activiteiten van de organisatie.
 
 ##### Artikel 32. Aanvraag
 
@@ -378,17 +390,17 @@ Onverminderd [artikel 4:46 van de Algemene wet bestuursrecht](https://wetten.ove
 
 - b. een beleid- of visiedocument waarin de kwaliteit van de werkzaamheden bij cultureel erfgoed is geborgd en waarin ten minste wordt ingegaan op de volgende aspecten:
 
-- 1°. de toepassing van in de beroepsgroep geldende normen voor werkzaamheden aan beschermde monumenten,
+- 1°. de toepassing van in de beroepsgroep geldende normen voor werkzaamheden aan rijksmonumenten,
 
-- 2°. het planmatige onderhoud van beschermde monumenten,
+- 2°. het planmatige onderhoud van rijksmonumenten,
 
 - 3°. het verrichten van cultuurhistorisch onderzoek bij restauratiewerkzaamheden, en
 
-- 4°. de beschikking over en organisatie van structurele deskundigheid bij de uitvoering van werkzaamheden aan beschermde monumenten,
+- 4°. de beschikking over en organisatie van structurele deskundigheid bij de uitvoering van werkzaamheden aan rijksmonumenten,
 
 - c. de beschikbare jaarverslagen en jaarrekeningen of financiële verslagen van de vijf jaren voorafgaand aan het jaar van de aanvraag,
 
-- d. een overzicht waaruit de staat van de beschermde monumenten waarvan zij eigenaar is blijkt.
+- d. een overzicht waaruit de staat van de rijksmonumenten waarvan zij eigenaar is blijkt.
 
 2. De stukken, bedoeld in het eerste lid, gaan niet bij de aanvraag voor zover de aanvrager er redelijkerwijs van uit kan gaan dat deze al in het bezit van de minister zijn.
 
@@ -456,7 +468,7 @@ Deze regeling wordt aangehaald als: Subsidieregeling instandhouding monumenten.
 
 ### Hoofdstuk 1.1. Algemene bepalingen subsidiabele kosten
 
-### Hoofdstuk 1.1. Algemene bepalingen subsidiabele kosten
+### Leidraad subsidiabele instandhoudingskosten
 
 Subsidiabel zijn de kosten van werkzaamheden, maatregelen en voorzieningen ten behoeve van de instandhouding van beschermde monumenten of zelfstandige onderdelen, voor zover dat is bepaald in deze bijlage, met dien verstande dat:
 
@@ -468,19 +480,19 @@ Met deze bijlage ‘Leidraad subsidiabele instandhoudingskosten 2013’ (hierna:
 
 In hoofdstuk 1.1 staan algemene bepalingen ten aanzien van subsidiabele kosten. Deze bepalingen gelden voor alle subsidiabele kosten, genoemd in deze bijlage.
 
-Met deze bijlage ‘Leidraad subsidiabele instandhoudingskosten 2013’ (hierna: Leidraad) wordt gestreefd naar een efficiënte afhandeling van subsidieaanvragen en subsidievaststellingen. Daartoe is aangesloten bij de indeling van werkzaamheden bij de reeds bestaande ‘STABU-hoofdcodering’. STABU staat voor Standaardbestek voor de Burger- en Utiliteitsbouw. De Leidraad is gebaseerd op dezelfde codering als STABU. Voor specifieke werkzaamheden, die niet of onvoldoende in de STABU-hoofdcodering voorkomen, is een nieuwe codering toegevoegd. Dit is bijvoorbeeld gebeurd voor werktuigbouwkundige installaties, ‘klinkende’ onderdelen van monumenten (zoals orgels) en ‘groene’ monumenten (zoals parken en tuinen) en beplanting op archeologische monumenten.
+Met deze bijlage ‘Leidraad subsidiabele instandhoudingskosten’ (hierna: Leidraad) wordt gestreefd naar een efficiënte afhandeling van subsidieaanvragen en subsidievaststellingen. Daartoe is aangesloten bij de indeling van werkzaamheden bij de reeds bestaande ‘STABU-hoofdcodering’. STABU staat voor Standaardbestek voor de Burger- en Utiliteitsbouw. De Leidraad is gebaseerd op dezelfde codering als STABU. Voor specifieke werkzaamheden, die niet of onvoldoende in de STABU-hoofdcodering voorkomen, is een nieuwe codering toegevoegd. Dit is bijvoorbeeld gebeurd voor werktuigbouwkundige installaties, ‘klinkende’ onderdelen van monumenten (zoals orgels) en ‘groene’ monumenten (zoals parken en tuinen) en beplanting op archeologische monumenten.
 
 In het instandhoudingsplan, met name in de werkomschrijving of het bestek en in de begroting, moeten de onderdelen zoals genoemd in deze Leidraad terug te vinden zijn.
 
 Kosten van werkzaamheden die niet zijn opgenomen in de Leidraad komen niet voor subsidieverlening in aanmerking. In een aantal gevallen is aangegeven welke kosten niet subsidiabel zijn. Deze niet-subsidiabele kostenposten zijn telkens bedoeld ter verduidelijking en als afbakening om aan te geven waar de grens tussen subsidiabel en niet-subsidiabel ligt, maar zijn niet limitatief. Indien is aangegeven dat kosten niet-subsidiabel zijn in het kader van de Subsidieregeling instandhouding monumenten (hierna: Sim), kunnen deze kosten wel subsidiabel zijn op grond van een andere subsidieregeling. Met name bij groene monumenten is deze beperking toegevoegd, om budgettaire redenen. In deze gevallen kunnen de werkzaamheden op zich dus wel belangrijk zijn voor de instandhouding van monumentale waarden.
 
-Vanwege de brede opzet van de Leidraad kan deze ook van (overeenkomstige) toepassing worden verklaard in andere subsidieregelingen van het Rijk of van een provincie.
+Waar in de Leidraad wordt gesproken over ‘instandhouding’, wordt gelet op [artikel 7.3 van de Erfgoedwet](https://wetten.overheid.nl/jci1.3:c:BWBR0037521&artikel=7.3) zowel op normaal onderhoud als op restauratie gedoeld. De Sim richt zich op onderhoud en klein herstel waarmee verval van rijksmonumenten kan worden voorkomen. Door het op sober onderhoud afgestemde maximumbedrag aan subsidiabele kosten zal subsidiëring van (deel)restauraties of grote ingrepen in de praktijk niet mogelijk zijn. Toch is in de Leidraad – behalve bij groene monumenten – geen onderscheid gemaakt in onderhoud en restauratie. Voor gebouwde monumenten zou ten aanzien van veel werkzaamheden met percentages moeten worden gewerkt, wat in veel gevallen een arbitraire grens zou opleveren. Dat levert onwenselijke situaties op. In de praktijk zal het maximumbedrag aan subsidiabele kosten de indiening van restauratieplannen belemmeren. Voor archeologische monumenten geldt weliswaar geen maximumbedrag aan subsidiabele kosten, maar de kosten van grotere ingrepen zijn daar relatief laag in vergelijking met die bij gebouwde monumenten.
 
 ### Technisch noodzakelijk, sober en doelmatig
 
 Bij (materiaal)technisch noodzakelijk gebleken vervanging dienen de nieuwe onderdelen in materiaal, vorm, detaillering, uitvoering, afwerking én kwaliteit zoveel mogelijk overeen te komen met de afkomende, te vervangen onderdelen. Van geval tot geval zal een gedegen afweging moeten plaatsvinden of onderdelen of elementen gereconstrueerd mogen en kunnen worden en zo ja op welke manier.
 
-De werkzaamheden moeten strekken tot instandhouding van het beschermd monument of het zelfstandig onderdeel daarvan, ze moeten sober, doelmatig en technisch noodzakelijk zijn en gericht op maximaal behoud van monumentale waarden. Sober en doelmatig houdt in dit verband in dat de werkzaamheden gericht moeten zijn op maximaal behoud van monumentale waarden, dat ze op een vakkundige wijze worden uitgevoerd en dat met de werkzaamheden verval en vervolgschade worden voorkomen. Behoud gaat hierbij vóór herstel, herstel vóór vervanging en vervanging vóór reconstructie. Het reconstrueren van monumenten is in beginsel niet subsidiabel.
+De werkzaamheden moeten strekken tot instandhouding van het rijksmonument of het zelfstandig onderdeel daarvan, ze moeten sober, doelmatig en technisch noodzakelijk zijn en gericht op maximaal behoud van monumentale waarden. Sober en doelmatig houdt in dit verband in dat de werkzaamheden gericht moeten zijn op maximaal behoud van monumentale waarden, dat ze op een vakkundige wijze worden uitgevoerd en dat met de werkzaamheden verval en vervolgschade worden voorkomen. Behoud gaat hierbij vóór herstel, herstel vóór vervanging en vervanging vóór reconstructie. Het reconstrueren van monumenten is in beginsel niet subsidiabel.
 
 Het is uiteindelijk ter beoordeling van de minister of aan voornoemde uitgangspunten wordt voldaan. Een instandhoudingsplan wordt op deze punten getoetst aan de hand van de bevindingen in het inspectierapport en detailfoto’s van de gebreken enerzijds en de in het plan opgenomen werkzaamheden anderzijds. De blijkens het inspectierapport meest urgente werkzaamheden zullen normaal gesproken in het plan moeten zijn opgenomen. Is dat niet het geval en wordt subsidie gevraagd voor andere werkzaamheden, dan zal dit in de aanvraag moeten worden onderbouwd. Om het plan als doelmatig te kunnen aanmerken, zal de eigenaar moeten verklaren dat de niet opgenomen urgente werkzaamheden wel worden uitgevoerd en wanneer ze zijn gepland. Als voorbeeld kan dienen een aanvraag in het kader van de Sim, een onderhoudsregeling. Indien het plan betrekking heeft op andere dan de meest noodzakelijke onderhoudswerkzaamheden of op restauratie, zal de aanvrager moeten verklaren dat ook het noodzakelijke onderhoud in de desbetreffende planperiode zal worden uitgevoerd.
 
@@ -500,9 +512,9 @@ Of interieuronderdelen daadwerkelijk monumentale waarden bezitten, dient, voor z
 
 Voor zover het werkzaamheden aan het interieur van het monument betreft, wordt het volgende opgemerkt. In de Leidraad is bij de subsidiabele kosten niet telkens onderscheid gemaakt tussen kosten van werkzaamheden aan de buitenkant van een monument en van werkzaamheden aan de binnenkant van een monument. Uitgangspunt is dat kosten die betrekking hebben op werkzaamheden aan de binnenkant van een monument, slechts subsidiabel zijn indien die werkzaamheden strekken tot behoud van de monumentale waarde van het monument of bijvoorbeeld om constructieve reden noodzakelijk zijn. Zo zal het ‘witten’ van binnenmuren in de meeste gevallen niet subsidiabel zijn omdat dit niet noodzakelijk is voor de bescherming van de monumentale waarde of een constructieve noodzaak heeft. Dit schilderwerk is wel subsidiabel indien pleisterwerk om constructieve of technische redenen vervangen moet worden.
 
-Of interieuronderdelen daadwerkelijk monumentale waarden bezitten, dient, voor zover mogelijk, beoordeeld te worden aan de hand van hetgeen vermeld is in de omschrijving van het beschermd monument in het monumentenregister. Daarnaast kan ook het oordeel van de minister ertoe leiden dat in het kader van de vaststelling van de subsidiabele kosten aan bepaalde onderdelen monumentale waarde wordt toegekend.
+Of interieuronderdelen daadwerkelijk monumentale waarden bezitten, dient in eerste instantie, voor zover mogelijk, beoordeeld te worden aan de hand van hetgeen vermeld is in het besluit tot aanwijzing van het rijksmonument. Biedt dit onvoldoende uitsluitsel, dan zullen de monumentale waarden nader bepaald kunnen worden aan de hand van een cultuurhistorisch of bouwhistorisch rapport of een andere publicatie die op de monumentale waarden ingaat. Daarnaast kan ook het oordeel van de minister ertoe leiden dat in het kader van de vaststelling van de subsidiabele kosten aan bepaalde onderdelen monumentale waarde wordt toegekend.
 
-Het interieur van een beschermd monument bestaat uit vaste en losse onderdelen.
+Het interieur van een rijksmonument bestaat uit vaste en losse onderdelen.
 
 Het [Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005291) ([art. 3:4](https://wetten.overheid.nl/jci1.3:c:BWBR0005291&artikel=4)) is bepalend voor de vraag of iets kan worden aangemerkt als vast interieuronderdeel van een gebouw. De vuistregels zijn in dit verband grofweg: is iets hecht verbonden met het gebouw of maakt iets het gebouw als gebouw compleet.
 
@@ -510,7 +522,7 @@ Ten aanzien van de fysieke hechtheid van de verbinding werd in het verleden ook 
 
 Voor de vraag of een gebouw incompleet is, moet worden gekeken of het gebouw zonder het interieuronderdeel als gebouw incompleet – onaf – is. Voorbeelden van dit soort interieuronderdelen zijn deuren (die betrekkelijk eenvoudig uit hun hengsels zijn te lichten) en wandafwerkingen, aangebracht op of voor onafgewerkte muurvlakken, die zonder beschadiging zijn te verwijderen. Het gaat hierbij overigens om het gebouw en niet zozeer om de functie die het heeft. Het ontbreken van een object dat van belang is voor de functie, bijvoorbeeld voor de eredienst in een kerkgebouw, maakt dit gebouw niet incompleet.
 
-Voor zover vaste interieuronderdelen van belang zijn voor de monumentale waarde van het beschermd monument, zijn de kosten van werkzaamheden aan deze onderdelen in beginsel subsidiabel.
+Voor zover vaste interieuronderdelen van belang zijn voor de monumentale waarde van het rijksmonument, zijn de kosten van werkzaamheden aan deze onderdelen in beginsel subsidiabel.
 
 Hiermee is uiteraard niet gezegd dat losse voorwerpen en objecten niet van waarde kunnen zijn in relatie tot het beschermd monument. Hiervan is namelijk in veel gevallen sprake, zoals ook blijkt uit veel omschrijvingen van beschermde monumenten in het monumentenregister. De [Monumentenwet 1988](https://wetten.overheid.nl/jci1.3:c:BWBR0004471) maakt subsidiëring van dergelijke – ‘roerende’ – zaken echter niet mogelijk.
 
@@ -518,7 +530,7 @@ Hiermee is uiteraard niet gezegd dat losse voorwerpen en objecten niet van waard
 
 De tijdelijke bouwplaatsvoorzieningen zijn uitsluitend nodig, indien ingrijpende werkzaamheden moeten worden uitgevoerd. In de regel wordt hiervoor een (hoofd)aannemer ingeschakeld. Het treffen van de benodigde tijdelijke voorzieningen valt onder de verantwoordelijkheid van de aannemer (zie hoofdstuk 1.3, paragrafen 01.04 en 01.05).
 
-De [Arbeidsomstandighedenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0010346) stelt eisen met betrekking tot veiligheid, gezondheid en welzijn van degenen die met de uitvoering van werk belast zijn. Deze wet is ook van toepassing op restauratiewerkzaamheden. Er moeten zogenoemde Arbo-voorzieningen worden getroffen om risico’s zo veel mogelijk te beperken. Met betrekking tot de instandhouding van monumenten wordt onderscheid gemaakt tussen tijdelijke bouwplaatsvoorzieningen (steigers, dakrandbeveiliging, en dergelijke) en voorzieningen van meer permanente aard (zoals ladder- en veiligheidshaken, loopbruggen, luiken en verlichting).
+De [Arbeidsomstandighedenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0010346) stelt eisen met betrekking tot veiligheid, gezondheid en welzijn van degenen die met de uitvoering van werk belast zijn. Deze wet is ook van toepassing op instandhoudingswerkzaamheden. Er moeten zogenoemde Arbo-voorzieningen worden getroffen om risico’s zo veel mogelijk te beperken. Met betrekking tot de instandhouding van rijksmonumenten wordt onderscheid gemaakt tussen tijdelijke bouwplaatsvoorzieningen (steigers, dakrandbeveiliging, en dergelijke) en voorzieningen van meer permanente aard (zoals ladder- en veiligheidshaken, loopbruggen, luiken en verlichting).
 
 Het komt vaak voor dat delen van monumenten zeer moeilijk of niet bereikbaar zijn zonder een hoogwerker, kraan of steiger. Om reguliere inspecties en werkzaamheden goed en veilig te kunnen uitvoeren is het in zo’n situatie noodzakelijk voorzieningen van meer permanente aard aan te brengen om die gedeelten steeds gemakkelijk te kunnen bereiken. Voorbeelden van dergelijke voorzieningen zijn loopbruggen in ruimten boven gewelven in kerken, ladder- en veiligheidshaken, klimhaken (voldoende en op de juiste plaats) en dak- en torenspitsluiken. Hoewel zelden een verfraaiing, zijn dergelijke Arbo-voorzieningen noodzakelijk om monumenten in stand te kunnen blijven houden. Het aanbrengen, mits tot een minimum beperkt en deskundig uitgevoerd, is dan ook subsidiabel (zie hoofdstuk 1.3, paragrafen 32, 33 en 70).
 
@@ -614,19 +626,19 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 ##### Artikel 42a. Overgangsperiode Aangewezen organisaties voor monumentenbehoud
 
-1. Een organisatie die op grond van [artikel 33 van het Besluit rijkssubsidiëring instandhouding monumenten 2011](https://wetten.overheid.nl/jci1.3:c:BWBR0028785&artikel=33), zoals dat luidde voor inwerkingtreding van het [Besluit rijkssubsidiëring instandhouding monumenten 2013](https://wetten.overheid.nl/jci1.3:c:BWBR0032036), door de minister was aangewezen als organisatie voor monumentenbehoud kan in de jaren 2013 en 2014 een aanvraag om subsidie indienen overeenkomstig [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0032075&hoofdstuk=2&paragraaf=2.2&artikel=9&z=2016-02-18&g=2016-02-18).
+1. Een organisatie die op grond van [artikel 33 van het Besluit rijkssubsidiëring instandhouding monumenten 2011](https://wetten.overheid.nl/jci1.3:c:BWBR0028785&artikel=33), zoals dat luidde voor inwerkingtreding van het [Besluit rijkssubsidiëring instandhouding monumenten 2013](https://wetten.overheid.nl/jci1.3:c:BWBR0032036), door de minister was aangewezen als organisatie voor monumentenbehoud kan in de jaren 2013 en 2014 een aanvraag om subsidie indienen overeenkomstig [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0032075&hoofdstuk=2&paragraaf=2.2&artikel=9&z=2016-07-01&g=2016-07-01).
 
-2. Een aanvraag om subsidie van een organisatie als bedoeld in het eerste lid, gedaan in het jaar 2013 of 2014, wordt niet geweigerd op de grond, bedoeld in [artikel 12, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0032075&hoofdstuk=2&paragraaf=2.3&artikel=12&z=2016-02-18&g=2016-02-18).
+2. Een aanvraag om subsidie van een organisatie als bedoeld in het eerste lid, gedaan in het jaar 2013 of 2014, wordt niet geweigerd op de grond, bedoeld in [artikel 12, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0032075&hoofdstuk=2&paragraaf=2.3&artikel=12&z=2016-07-01&g=2016-07-01).
 
-3. De laatste volzin van [artikel 14, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032075&hoofdstuk=2&paragraaf=2.3&artikel=14&z=2016-02-18&g=2016-02-18), is van overeenkomstige toepassing bij een aanvraag als bedoeld in dit artikel, met dien verstande dat de aanvragen van organisaties als bedoeld in het eerste lid niet worden aangemerkt als aanvragen als bedoeld in artikel 14, eerste lid, onder b.
+3. De laatste volzin van [artikel 14, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032075&hoofdstuk=2&paragraaf=2.3&artikel=14&z=2016-07-01&g=2016-07-01), is van overeenkomstige toepassing bij een aanvraag als bedoeld in dit artikel, met dien verstande dat de aanvragen van organisaties als bedoeld in het eerste lid niet worden aangemerkt als aanvragen als bedoeld in artikel 14, eerste lid, onder b.
 
-4. De [artikelen 16, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032075&hoofdstuk=2&paragraaf=2.3&artikel=16&z=2016-02-18&g=2016-02-18), en [24, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032075&hoofdstuk=2&paragraaf=2.5&artikel=24&z=2016-02-18&g=2016-02-18), zijn van overeenkomstige toepassing op een organisatie als bedoeld in het eerste lid voor de subsidie verleend op een aanvraag als bedoeld in dit artikel.
+4. De [artikelen 16, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032075&hoofdstuk=2&paragraaf=2.3&artikel=16&z=2016-07-01&g=2016-07-01), en [24, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032075&hoofdstuk=2&paragraaf=2.5&artikel=24&z=2016-07-01&g=2016-07-01), zijn van overeenkomstige toepassing op een organisatie als bedoeld in het eerste lid voor de subsidie verleend op een aanvraag als bedoeld in dit artikel.
 
-## Bijlage. als bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0032075&hoofdstuk=2&paragraaf=2.1&artikel=4&z=2016-02-18&g=2016-02-18) van de Subsidieregeling instandhouding monumenten
+## Bijlage. als bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0032075&hoofdstuk=2&paragraaf=2.1&artikel=4&z=2016-07-01&g=2016-07-01) van de Subsidieregeling instandhouding monumenten
 
 ### Hoofdstuk 1.1. Algemene bepalingen subsidiabele kosten
 
-Subsidiabel zijn de kosten van werkzaamheden, maatregelen en voorzieningen ten behoeve van de instandhouding van beschermde monumenten of zelfstandige onderdelen, voor zover dat is bepaald in deze bijlage, met dien verstande dat:
+Subsidiabel zijn de kosten van werkzaamheden, maatregelen en voorzieningen ten behoeve van de instandhouding van rijksmonumenten of zelfstandige onderdelen, voor zover dat is bepaald in deze bijlage, met dien verstande dat:
 
 ### Algemeen
 
@@ -646,11 +658,11 @@ Paragraaf 92 voor groene monumenten heeft een specifieke indeling. Deze hangt sa
 
 ### Interieur
 
-Hiermee is uiteraard niet gezegd dat losse voorwerpen en objecten niet van waarde kunnen zijn in relatie tot het beschermd monument. Hiervan is namelijk in veel gevallen sprake, zoals ook blijkt uit veel omschrijvingen van beschermde monumenten in het monumentenregister. De [Monumentenwet 1988](https://wetten.overheid.nl/jci1.3:c:BWBR0004471&wetgeving) maakt subsidiëring van dergelijke – ‘roerende’ – zaken echter niet mogelijk.
+Hiermee is uiteraard niet gezegd dat losse voorwerpen en objecten niet van waarde kunnen zijn in relatie tot het rijksmonument. Hiervan is namelijk in veel gevallen sprake. De Sim maakt subsidiëring van dergelijke – ‘roerende’ – zaken echter niet mogelijk.
 
 ### Veiligheid
 
-Het komt vaak voor dat delen van monumenten zeer moeilijk of niet bereikbaar zijn zonder een hoogwerker, kraan of steiger. Om reguliere inspecties en werkzaamheden goed en veilig te kunnen uitvoeren is het in zo’n situatie noodzakelijk voorzieningen van meer permanente aard aan te brengen om die gedeelten steeds gemakkelijk te kunnen bereiken. Voorbeelden van dergelijke voorzieningen zijn loopbruggen in ruimten boven gewelven in kerken, ladder- en veiligheidshaken, klimhaken (voldoende en op de juiste plaats) en dak- en torenspitsluiken. Hoewel zelden een verfraaiing, zijn dergelijke Arbo-voorzieningen noodzakelijk om monumenten in stand te kunnen blijven houden. Het aanbrengen, mits tot een minimum beperkt en deskundig uitgevoerd, is dan ook subsidiabel (zie hoofdstuk 1.3, paragrafen 32, 33 en 70).
+Het komt vaak voor dat delen van rijksmonumenten zeer moeilijk of niet bereikbaar zijn zonder een hoogwerker, kraan of steiger. Om reguliere inspecties en werkzaamheden goed en veilig te kunnen uitvoeren is het in zo’n situatie noodzakelijk voorzieningen van meer permanente aard aan te brengen om die gedeelten steeds gemakkelijk te kunnen bereiken. Voorbeelden van dergelijke voorzieningen zijn loopbruggen in ruimten boven gewelven in kerken, ladder- en veiligheidshaken, klimhaken (voldoende en op de juiste plaats) en dak- en torenspitsluiken. Hoewel zelden een verfraaiing, zijn dergelijke Arbo-voorzieningen noodzakelijk om rijksmonumenten in stand te kunnen blijven houden. Het aanbrengen, mits tot een minimum beperkt en deskundig uitgevoerd, is dan ook subsidiabel (zie hoofdstuk 1.3, paragrafen 32, 33 en 70).
 
 ### Indieningsvereisten bij grotere ingrepen
 
@@ -666,11 +678,11 @@ In het algemeen geldt dat de kosten van ‘zelfwerkzaamheid’ alleen dan subsid
 
 ### Meerwerk
 
-Tijdens de uitvoering van het instandhoudingsplan kunnen onverwacht gebreken aan het licht komen, waardoor extra werkzaamheden noodzakelijk zijn om het beschermd monument in stand te kunnen houden. Mits het subsidiabele instandhoudingswerkzaamheden betreft, kan de begrotingspost ‘onvoorzien’ voor de dekking hiervan gebruikt worden. De systematiek van de Sim laat het tussentijds verhogen van de subsidie voor dergelijk meerwerk niet toe.
+Tijdens de uitvoering van het instandhoudingsplan kunnen onverwacht gebreken aan het licht komen, waardoor extra werkzaamheden noodzakelijk zijn om het rijksmonument in stand te kunnen houden. Mits het subsidiabele instandhoudingswerkzaamheden betreft, kan de begrotingspost ‘onvoorzien’ voor de dekking hiervan gebruikt worden. De systematiek van de Sim laat het tussentijds verhogen van de subsidie voor dergelijk meerwerk niet toe.
 
 ### Informatie en toegang voor publiek
 
-Kosten die verband houden met het geven van informatie aan bezoekers, zoals het aanbrengen of vernieuwen van richting- en informatieborden, zijn niet subsidiabel. Ook kosten die verband houden met het toegankelijk maken of ontsluiten van een monument voor het publiek zijn niet subsidiabel. Het betreft kosten, gerelateerd aan het vergroten van het draagvlak voor beschermde monumenten, die niet direct noodzakelijk zijn voor de instandhouding ervan.
+Kosten die verband houden met het geven van informatie aan bezoekers, zoals het aanbrengen of vernieuwen van richting- en informatieborden, zijn niet subsidiabel. Ook kosten die verband houden met het toegankelijk maken of ontsluiten van een rijksmonument voor het publiek zijn niet subsidiabel. Het betreft kosten, gerelateerd aan het vergroten van het draagvlak voor rijksmonumenten, die niet direct noodzakelijk zijn voor de instandhouding ervan.
 
 ### 1. Tabel voor de berekening van het honorarium inzake het opstellen van een instandhoudingsplan
 
@@ -734,7 +746,7 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 ##### Artikel 1a. Grondslag
 
-Dit onderdeel is nog niet inwerking getreden
+Deze regeling berust op [artikel 7.7, eerste lid, van de Erfgoedwet](https://wetten.overheid.nl/jci1.3:c:BWBR0037521&artikel=7.7).
 
 ### Hoofdstuk 2. Subsidieverstrekking voor onderhoud
 
@@ -754,6 +766,6 @@ Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel 42b. Verhoging subsidieplafond 2016 monumenten met hoge herbouwwaarde
 
-1. In 2016 wordt na toepassing van [artikel 14, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032075&hoofdstuk=2&paragraaf=2.3&artikel=14&z=2016-02-18&g=2016-02-18), aan het budget voor overige beschermde monumenten, bedoeld in [artikel 3, eerste lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0032075&hoofdstuk=2&paragraaf=2.1&artikel=3&z=2016-02-18&g=2016-02-18), met een herbouwwaarde van € 8,3 miljoen of meer, een bedrag van ten hoogste € 20 miljoen toegevoegd.
+1. In 2016 wordt na toepassing van [artikel 14, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032075&hoofdstuk=2&paragraaf=2.3&artikel=14&z=2016-07-01&g=2016-07-01), aan het budget voor overige beschermde monumenten, bedoeld in [artikel 3, eerste lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0032075&hoofdstuk=2&paragraaf=2.1&artikel=3&z=2016-07-01&g=2016-07-01), met een herbouwwaarde van € 8,3 miljoen of meer, een bedrag van ten hoogste € 20 miljoen toegevoegd.
 
 2. Indien in 2016 het beschikbare bedrag, bedoeld in het eerste lid, niet geheel wordt verleend, wordt het resterende bedrag in 2017 op gelijke wijze als bedoeld in het eerste lid toegevoegd aan het bedrag voor overige beschermde monumenten met een herbouwwaarde van € 8,3 miljoen of meer.
