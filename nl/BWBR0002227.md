@@ -4,7 +4,7 @@ identifier: "BWBR0002227"
 country: "nl"
 rank: "amvb"
 publication_date: "2026-01-01"
-last_updated: "2016-01-01"
+last_updated: "2016-07-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0002227"
 soort: "AMvB"
@@ -122,39 +122,39 @@ Het percentage, bedoeld in [artikel 21, veertiende lid, van de Successiewet 1956
 
 ##### Artikel 13
 
-1. Er is een Adviescommissie beoordeling aangeboden cultuurbezit uit nalatenschappen, verder te noemen: de commissie, die tot taak heeft Onze Minister op zijn verzoek te adviseren omtrent verzoeken op grond van dit Besluit ter zake van de beoordeling of een voorwerp op grond van de cultuurhistorische of kunsthistorische voorwaarden die zijn opgenomen in [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBR0002227&hoofdstuk=2&artikel=15&z=2016-01-01&g=2016-01-01), in aanmerking komt voor de toepassing van [artikel 67, derde lid, van de Successiewet 1956](https://wetten.overheid.nl/jci1.3:c:BWBR0002226&artikel=67).
+1. Er is een Adviescommissie beoordeling aangeboden cultuurbezit uit nalatenschappen, verder te noemen: de commissie, die tot taak heeft Onze Minister op zijn verzoek te adviseren omtrent verzoeken op grond van dit Besluit ter zake van de beoordeling of een cultuurgoed op grond van de cultuurhistorische of kunsthistorische voorwaarden die zijn opgenomen in [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBR0002227&hoofdstuk=2&artikel=15&z=2016-07-01&g=2016-07-01), in aanmerking komt voor de toepassing van [artikel 67, derde lid, van de Successiewet 1956](https://wetten.overheid.nl/jci1.3:c:BWBR0002226&artikel=67).
 
 2. De commissie bestaat uit een voorzitter, tevens lid, en twee andere leden.
 
-3. De voorzitter wordt benoemd bij koninklijk besluit, op gezamenlijke voordracht van Onze Minister en Onze Minister van Onderwijs, Cultuur en Wetenschappen, één gewoon lid wordt benoemd op voordracht van Onze Minister en één gewoon lid op voordracht van Onze Minister van Onderwijs, Cultuur en Wetenschappen. Zij worden benoemd voor een termijn van vier jaar. Zij zijn te allen tijde herbenoembaar.
+3. De voorzitter wordt benoemd bij koninklijk besluit, op gezamenlijke voordracht van Onze Minister en Onze Minister van Onderwijs, Cultuur en Wetenschap, één gewoon lid wordt benoemd op voordracht van Onze Minister en één gewoon lid op voordracht van Onze Minister van Onderwijs, Cultuur en Wetenschap. Zij worden benoemd voor een termijn van vier jaar. Zij zijn te allen tijde herbenoembaar.
 
 4. De commissie stelt haar eigen werkwijze vast.
 
-5. De algemeen directeur van het Instituut Collectie Nederland kan de vergaderingen van de commissie bijwonen en heeft daarin een raadgevende stem.
+5. De algemeen directeur van de Rijksdienst voor het Cultureel Erfgoed kan de vergaderingen van de commissie bijwonen en heeft daarin een raadgevende stem.
 
 6. In het secretariaat van de commissie wordt door Onze Minister voorzien.
 
-7. De kosten van de commissie komen ten laste van Onze Minister van Onderwijs, Cultuur en Wetenschappen.
+7. De kosten van de commissie komen ten laste van Onze Minister van Onderwijs, Cultuur en Wetenschap.
 
 ### Hoofdstuk 2. Kwijtschelding van Successierecht
 
 ##### Artikel 11
 
-1. Voor het verkrijgen van kwijtschelding van erfbelasting als bedoeld in [artikel 67, derde lid, van de Successiewet 1956](https://wetten.overheid.nl/jci1.3:c:BWBR0002226&artikel=67), wordt door alle verkrijgers van het voorwerp gezamenlijk, door tussenkomst van de inspecteur, een verzoek gedaan bij Onze Minister.
+1. Voor het verkrijgen van kwijtschelding van erfbelasting als bedoeld in [artikel 67, derde lid, van de Successiewet 1956](https://wetten.overheid.nl/jci1.3:c:BWBR0002226&artikel=67), wordt door alle verkrijgers van het cultuurgoed gezamenlijk, door tussenkomst van de inspecteur, een verzoek gedaan bij Onze Minister.
 
 2. Het verzoek kan worden gedaan tot uiterlijk acht weken na de dag waarop de belastingaanslagen van de in het eerste lid bedoelde verkrijgers onherroepelijk zijn komen vast te staan.
 
-3. Het verzoek omvat mede een omschrijving van het voorwerp en een opgave van de waarde in het economische verkeer.
+3. Het verzoek omvat mede een omschrijving van het cultuurgoed en een opgave van de waarde in het economische verkeer.
 
 ##### Artikel 12
 
-1. Voor de beslissing op het in [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0002227&hoofdstuk=2&artikel=11&z=2016-01-01&g=2016-01-01) bedoelde verzoek laat Onze Minister zich adviseren door de in [artikel 13, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002227&hoofdstuk=2&artikel=13&z=2016-01-01&g=2016-01-01), bedoelde commissie, behalve indien het verzoek kennelijk ongegrond of niet-ontvankelijk is.
+1. Voor de beslissing op het in [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0002227&hoofdstuk=2&artikel=11&z=2016-07-01&g=2016-07-01) bedoelde verzoek laat Onze Minister zich adviseren door de in [artikel 13, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002227&hoofdstuk=2&artikel=13&z=2016-07-01&g=2016-07-01), bedoelde commissie, behalve indien het verzoek kennelijk ongegrond of niet-ontvankelijk is.
 
-2. Onze Minister wijst het verzoek af indien het voorwerp niet voldoet aan de in [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBR0002227&hoofdstuk=2&artikel=15&z=2016-01-01&g=2016-01-01) opgenomen voorwaarden.
+2. Onze Minister wijst het verzoek af indien het cultuurgoed niet voldoet aan de in [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBR0002227&hoofdstuk=2&artikel=15&z=2016-07-01&g=2016-07-01) opgenomen voorwaarden.
 
-3. Indien Onze Minister besluit ter zake van de overdracht van het voorwerp aan de Staat kwijtschelding van erfbelasting te verlenen, vermeldt het besluit tevens de waarde in het economische verkeer die voor de berekening van de kwijtschelding aan het voorwerp zal worden toegekend.
+3. Indien Onze Minister besluit ter zake van de overdracht van het cultuurgoed aan de Staat kwijtschelding van erfbelasting te verlenen, vermeldt het besluit tevens de waarde in het economische verkeer die voor de berekening van de kwijtschelding aan het cultuurgoed zal worden toegekend.
 
-4. Indien Onze Minister een besluit heeft genomen als bedoeld in het derde lid, stelt hij binnen vier weken na de dagtekening van die beschikking, of, indien dat later is, binnen vier weken nadat voor alle verzoekers de belastingaanslag onherroepelijk is komen vast te staan, het bedrag van de kwijtschelding en de termijn waarbinnen het voorwerp in eigendom moet worden overgedragen aan de Staat vast.
+4. Indien Onze Minister een besluit heeft genomen als bedoeld in het derde lid, stelt hij binnen vier weken na de dagtekening van die beschikking, of, indien dat later is, binnen vier weken nadat voor alle verzoekers de belastingaanslag onherroepelijk is komen vast te staan, het bedrag van de kwijtschelding en de termijn waarbinnen het cultuurgoed in eigendom moet worden overgedragen aan de Staat vast.
 
 ##### Artikel 13
 
@@ -174,17 +174,17 @@ Het percentage, bedoeld in [artikel 21, veertiende lid, van de Successiewet 1956
 
 ##### Artikel 14
 
-1. Een ieder die een voorwerp in eigendom heeft waarvan hij vermoedt dat het voldoet aan de voorwaarden die zijn opgenomen in [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBR0002227&hoofdstuk=2&artikel=15&z=2016-01-01&g=2016-01-01), kan Onze Minister verzoeken te verklaren dat met betrekking tot dit voorwerp [artikel 67, derde lid, van de Successiewet 1956](https://wetten.overheid.nl/jci1.3:c:BWBR0002226&artikel=67) toepassing kan vinden indien daarom na zijn overlijden door degene die dit voorwerp krachtens erfrecht uit zijn nalatenschap heeft verkregen zal worden verzocht.
+1. Een ieder die een cultuurgoed in eigendom heeft waarvan hij vermoedt dat het voldoet aan de voorwaarden die zijn opgenomen in [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBR0002227&hoofdstuk=2&artikel=15&z=2016-07-01&g=2016-07-01), kan Onze Minister verzoeken te verklaren dat met betrekking tot dit cultuurgoed [artikel 67, derde lid, van de Successiewet 1956](https://wetten.overheid.nl/jci1.3:c:BWBR0002226&artikel=67) toepassing kan vinden indien daarom na zijn overlijden door degene die dit cultuurgoed krachtens erfrecht uit zijn nalatenschap heeft verkregen zal worden verzocht.
 
-2. Het in het eerste lid bedoelde verzoek omvat mede een omschrijving van het voorwerp en voorts zijn de bepalingen van [artikel 12, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002227&hoofdstuk=2&artikel=12&z=2016-01-01&g=2016-01-01), van overeenkomstige toepassing, met dien verstande dat aan de verklaring voorwaarden kunnen worden verbonden.
+2. Het in het eerste lid bedoelde verzoek omvat mede een omschrijving van het cultuurgoed en voorts zijn de bepalingen van [artikel 12, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002227&hoofdstuk=2&artikel=12&z=2016-07-01&g=2016-07-01), van overeenkomstige toepassing, met dien verstande dat aan de verklaring voorwaarden kunnen worden verbonden.
 
 ##### Artikel 15
 
-Kwijtschelding van erfbelasting kan slechts worden verleend ter zake van de overdracht van roerende voorwerpen of verzamelingen van roerende voorwerpen aan de Staat die:
+Kwijtschelding van erfbelasting kan slechts worden verleend ter zake van de overdracht van cultuurgoederen of verzamelingen van cultuurgoederen aan de Staat die:
 
-- a. voorkomen op de Lijst van beschermde voorwerpen behorende bij de [Wet tot behoud van cultuurbezit](https://wetten.overheid.nl/jci1.3:c:BWBR0003659),
+- a. zijn opgenomen in het register van de beschermde cultuurgoederen en beschermde verzamelingen, bedoeld in [artikel 3.11, eerste lid, van de Erfgoedwet](https://wetten.overheid.nl/jci1.3:c:BWBR0037521&artikel=3.11);
 
-- b. niet voorkomen op de lijst bedoeld in onderdeel a, maar wel als onvervangbaar en onmisbaar kunnen worden aangemerkt in de zin van [artikel 2 van de Wet tot behoud van cultuurbezit](https://wetten.overheid.nl/jci1.3:c:BWBR0003659&artikel=2), of,
+- b. niet voorkomen op het register bedoeld in onderdeel a, maar wel als onvervangbaar en onmisbaar kunnen worden aangemerkt in de zin van [artikel 3.7 van de Erfgoedwet](https://wetten.overheid.nl/jci1.3:c:BWBR0037521&artikel=3.7), of,
 
 - c. op grond van één of meer van de volgende criteria van groot nationaal cultuurhistorisch of kunsthistorisch belang zijn:
 
@@ -233,7 +233,7 @@ Onze Minister van Financiën is belast met de uitvoering van dit besluit, hetwel
 
 ##### Artikel 10b
 
-De waarde van een erfpachtcanon als bedoeld in [artikel 21, negende lid, van de Successiewet 1956](https://wetten.overheid.nl/jci1.3:c:BWBR0002226&artikel=21) wordt gesteld op het zeventienvoud van het jaarlijkse bedrag. In afwijking van de eerste volzin wordt het deel van een erfpachtcanon dat kan worden toegerekend aan een verhuurde woning als bedoeld in [artikel 10a, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002227&hoofdstuk=1&artikel=10a&z=2016-01-01&g=2016-01-01), gesteld op het twintigvoud van het jaarlijkse bedrag. De toerekening van de erfpachtcanon, bedoeld in de vorige volzin, geschiedt naar rato van de, met inachtneming van artikel 10a, vierde lid, berekende, WOZ-waarden van de onderscheiden zelfstandige onderdelen van het gebouwd eigendom waarop de erfpachtcanon betrekking heeft.
+De waarde van een erfpachtcanon als bedoeld in [artikel 21, negende lid, van de Successiewet 1956](https://wetten.overheid.nl/jci1.3:c:BWBR0002226&artikel=21) wordt gesteld op het zeventienvoud van het jaarlijkse bedrag. In afwijking van de eerste volzin wordt het deel van een erfpachtcanon dat kan worden toegerekend aan een verhuurde woning als bedoeld in [artikel 10a, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002227&hoofdstuk=1&artikel=10a&z=2016-07-01&g=2016-07-01), gesteld op het twintigvoud van het jaarlijkse bedrag. De toerekening van de erfpachtcanon, bedoeld in de vorige volzin, geschiedt naar rato van de, met inachtneming van artikel 10a, vierde lid, berekende, WOZ-waarden van de onderscheiden zelfstandige onderdelen van het gebouwd eigendom waarop de erfpachtcanon betrekking heeft.
 
 ### Hoofdstuk 1a. Informatieverplichtingen
 
@@ -441,10 +441,10 @@ Onze Minister van Financiën is belast met de uitvoering van dit besluit, hetwel
 
 ##### Artikel 15a
 
-1. [Artikel 10e](https://wetten.overheid.nl/jci1.3:c:BWBR0002227&hoofdstuk=1a&artikel=10e&z=2016-01-01&g=2016-01-01) is niet van toepassing op instellingen die met ingang van een vóór 1 januari 2013 gelegen datum ingevolge [artikel 5b, zevende of achtste lid, van de Algemene wet inzake rijksbelastingen](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=5b) niet meer als algemeen nut beogende instelling zijn aangemerkt.
+1. [Artikel 10e](https://wetten.overheid.nl/jci1.3:c:BWBR0002227&hoofdstuk=1a&artikel=10e&z=2016-07-01&g=2016-07-01) is niet van toepassing op instellingen die met ingang van een vóór 1 januari 2013 gelegen datum ingevolge [artikel 5b, zevende of achtste lid, van de Algemene wet inzake rijksbelastingen](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=5b) niet meer als algemeen nut beogende instelling zijn aangemerkt.
 
-2. [Artikel 10e](https://wetten.overheid.nl/jci1.3:c:BWBR0002227&hoofdstuk=1a&artikel=10e&z=2016-01-01&g=2016-01-01) is voor het eerst van toepassing met betrekking tot kalenderjaren na 31 december 2012.
+2. [Artikel 10e](https://wetten.overheid.nl/jci1.3:c:BWBR0002227&hoofdstuk=1a&artikel=10e&z=2016-07-01&g=2016-07-01) is voor het eerst van toepassing met betrekking tot kalenderjaren na 31 december 2012.
 
-3. De gegevens en inlichtingen over het kalenderjaar 2013 worden, in afwijking in zoverre van [artikel 10e, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002227&hoofdstuk=1a&artikel=10e&z=2016-01-01&g=2016-01-01), tussen 1 februari 2015 en 1 mei 2015 verstrekt.
+3. De gegevens en inlichtingen over het kalenderjaar 2013 worden, in afwijking in zoverre van [artikel 10e, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002227&hoofdstuk=1a&artikel=10e&z=2016-07-01&g=2016-07-01), tussen 1 februari 2015 en 1 mei 2015 verstrekt.
 
 Onze Minister van Financiën is belast met de uitvoering van dit besluit, hetwelk in het **Staatsblad** zal worden geplaatst en waarvan afschrift zal worden gezonden aan de Raad van State.
