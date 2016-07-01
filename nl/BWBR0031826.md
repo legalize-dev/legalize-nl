@@ -4,7 +4,7 @@ identifier: "BWBR0031826"
 country: "nl"
 rank: "amvb"
 publication_date: "2016-07-01"
-last_updated: "2012-07-25"
+last_updated: "2016-07-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0031826"
 soort: "AMvB"
@@ -56,13 +56,13 @@ Wijzigt de Crisis- en herstelwet.
 
 ##### Artikel III
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt het Stortbesluit bodembescherming.
 
 ##### Artikel IV
 
-1. Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin het wordt geplaatst, met uitzondering van [artikel III](https://wetten.overheid.nl/jci1.3:c:BWBR0031826&artikel=III&z=2012-07-25&g=2012-07-25).
+1. Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin het wordt geplaatst, met uitzondering van [artikel III](https://wetten.overheid.nl/jci1.3:c:BWBR0031826&artikel=III&z=2016-07-01&g=2016-07-01).
 
-2. [Artikel III](https://wetten.overheid.nl/jci1.3:c:BWBR0031826&artikel=III&z=2012-07-25&g=2012-07-25) treedt in werking op een bij koninklijk besluit te bepalen tijdstip.
+2. [Artikel III](https://wetten.overheid.nl/jci1.3:c:BWBR0031826&artikel=III&z=2016-07-01&g=2016-07-01) treedt in werking op een bij koninklijk besluit te bepalen tijdstip.
 
 ##### Artikel V
 
