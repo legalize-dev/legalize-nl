@@ -4,7 +4,7 @@ identifier: "BWBR0012538"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-01-01"
-last_updated: "2016-06-23"
+last_updated: "2016-07-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0012538"
 soort: "ministeriele-regeling"
@@ -66,15 +66,17 @@ In deze regeling wordt verstaan onder:
 
 - a. een VHF-zend/ontvangstinstallatie die voldoet aan de eisen, bedoeld in artikel 5, eerste, tweede en vierde lid, van Verordening (EU) nr. 1079/2012;
 
-- b. navigatieboordapparatuur waarmee de vlucht kan worden uitgevoerd volgens het operationeel vliegplan waarbij gebruik gemaakt wordt van luchtverkeersroutes en -procedures vastgesteld door de Minister, die voldoet aan de eisen gesteld in bijlage 10, boek I (Radio Navigation Aids), van het Verdrag inzake de internationale burgerluchtvaart;
+- b. radioapparatuur met 8,33 kHz-kanaalafstand, indien de vlucht wordt uitgevoerd in gebieden waar een omzetting naar 8,33 kHz-kanaalafstand heeft plaatsgevonden;
 
-- c. een SSR-transponder met mode S/ELS, die voldoet aan de eisen, bedoeld in bijlage 10, boek IV (Surveillance Radar and Collision Avoidance Systems) van het Verdrag inzake de internationale burgerluchtvaart, en
+- c. navigatieboordapparatuur waarmee de vlucht kan worden uitgevoerd volgens het operationeel vliegplan waarbij gebruik gemaakt wordt van luchtverkeersroutes en -procedures vastgesteld door de Minister, die voldoet aan de eisen gesteld in bijlage 10, boek I (Radio Navigation Aids), van het Verdrag inzake de internationale burgerluchtvaart;
 
-- d. een SSR transponder met Mode S/EHS, die voldoet aan de eisen, bedoeld in bijlage 10, boek IV (Surveillance Radar and Collision Avoidance Systems) van het Verdrag inzake de internationale burgerluchtvaart, voor het uitvoeren van vluchten als GAT op vliegniveau 245 of hoger, met een luchtvaartuig met een maximum toegelaten startmassa boven 5700 kg, of een maximum ware luchtsnelheid tijdens de kruisvlucht van meer dan 250 knopen.
+- d. een SSR-transponder met mode S/ELS, die voldoet aan de eisen, bedoeld in bijlage 10, boek IV (Surveillance Radar and Collision Avoidance Systems) van het Verdrag inzake de internationale burgerluchtvaart, en
+
+- e. een SSR transponder met Mode S/EHS, die voldoet aan de eisen, bedoeld in bijlage 10, boek IV (Surveillance Radar and Collision Avoidance Systems) van het Verdrag inzake de internationale burgerluchtvaart, voor het uitvoeren van vluchten als GAT op vliegniveau 245 of hoger, met een luchtvaartuig met een maximum toegelaten startmassa boven 5700 kg, of een maximum ware luchtsnelheid tijdens de kruisvlucht van meer dan 250 knopen.
 
 2. Onverminderd het bepaalde in het eerste lid, onderdeel a, is artikel 9, eerste tot en met het elfde lid, van de Verordening (EU) nr. 1079/2012, van toepassing op staatsluchtvaartuigen.
 
-3. Het eerste lid, onderdelen b, c en d, zijn niet van toepassing op staatsluchtvaartuigen, indien deze beschikken over een systeem met een gelijkwaardig veiligheidsniveau als de in die onderdelen genoemde systemen.
+3. Het eerste lid, onderdelen c, d en e, zijn niet van toepassing op staatsluchtvaartuigen, indien deze beschikken over een systeem met een gelijkwaardig veiligheidsniveau als de in die onderdelen genoemde systemen.
 
 4. Voor het volgen van een luchtverkeersroute op vliegniveau 100 en hoger is een luchtvaartuig niet zijnde een staatsluchtvaartuig uitgerust met een installatie die het mogelijk maakt om met RNAV luchtverkeersroutes te vliegen met een afwijking van ten hoogste 5 zeemijlen tijdens ten minste 95% van de vliegtijd en die is toegelaten op basis van JAA Advisory Circular Joint 20X4 ‘Airworthiness Approval and Operational Criteria for the use of Navigation Systems in European Airspace Designated for Basic RNAV Operations’.
 
@@ -220,13 +222,13 @@ Vervallen
 
 ##### Artikel 14
 
-Handelen in strijd met de [artikelen 8 tot en met 10](https://wetten.overheid.nl/jci1.3:c:BWBR0012538&artikel=8&z=2016-06-23&g=2016-06-23) van deze regeling is een strafbaar feit.
+Handelen in strijd met de [artikelen 8 tot en met 10](https://wetten.overheid.nl/jci1.3:c:BWBR0012538&artikel=8&z=2016-07-01&g=2016-07-01) van deze regeling is een strafbaar feit.
 
 #### Strafbepaling
 
 ##### Artikel 15
 
-De Minister draagt zorg voor een vertaling van bijlage 10, boek I, deel 1, en boek IV van het Verdrag inzake de internationale burgerluchtvaart en van ICAO Doc 7030 Regional Supplementary Procedures. Hij doet van de wijze van bekendmaking mededeling in de Staatscourant.
+Vervallen
 
 ##### Artikel 16
 
@@ -299,6 +301,8 @@ Deze regeling berust op de [artikelen 6](https://wetten.overheid.nl/jci1.3:c:BWB
 
 - b. gebruikmaking, voor zover van toepassing, van het standaardradiotelefonie 'woordgebruik' vermeld in ICAO-Document 4444 (Procedures for Air Navigation Services – Air Traffic Management), hoofdstuk 12.
 
+3. Onverminderd het tweede lid, onderdeel b, wordt in het vluchtinformatiegebied Amsterdam boven vliegniveau 245 bij de verandering van vliegniveaus in de Engelse taal het woord ‘TO’ niet gebruikt.
+
 #### Gebruik van transponders
 
 ##### Artikel 13a
@@ -309,7 +313,7 @@ Deze regeling berust op de [artikelen 6](https://wetten.overheid.nl/jci1.3:c:BWB
 
 ##### Artikel 13b
 
-Het KNMI stelt elk uur het overgangsniveau, bedoeld in [artikel 13a, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012538&artikel=13a&z=2016-06-23&g=2016-06-23), vast en meldt dit zo snel mogelijk aan de desbetreffende verlener van luchtverkeersdiensten.
+Het KNMI stelt elk uur het overgangsniveau, bedoeld in [artikel 13a, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012538&artikel=13a&z=2016-07-01&g=2016-07-01), vast en meldt dit zo snel mogelijk aan de desbetreffende verlener van luchtverkeersdiensten.
 
 ##### Artikel 13c
 
@@ -365,7 +369,7 @@ Tijdens een vlucht op een kruishoogte op of beneden de overgangshoogte wordt ten
 
 ##### Artikel 13h
 
-1. In afwijking van [artikel 13g](https://wetten.overheid.nl/jci1.3:c:BWBR0012538&artikel=13g&z=2016-06-23&g=2016-06-23) gelden binnen het vluchtinformatiegebied Amsterdam en de daarbuiten gelegen luchtruimte boven het Nederlandse deel van het continentaal plat de door de minister vastgestelde en in hoofdstuk ENR 3 van de luchtvaartgids gepubliceerde kruishoogtes.
+1. In afwijking van [artikel 13g](https://wetten.overheid.nl/jci1.3:c:BWBR0012538&artikel=13g&z=2016-07-01&g=2016-07-01) gelden binnen het vluchtinformatiegebied Amsterdam en de daarbuiten gelegen luchtruimte boven het Nederlandse deel van het continentaal plat de door de minister vastgestelde en in hoofdstuk ENR 3 van de luchtvaartgids gepubliceerde kruishoogtes.
 
 2. Voor de toepassing van de in het eerste lid genoemde kruishoogtes is voor IFR-vluchten op of beneden 915 m (3000 ft) de grondkoers van het belangrijkste deel van de vlucht van toepassing.
 
