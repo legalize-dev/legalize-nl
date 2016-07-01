@@ -4,7 +4,7 @@ identifier: "BWBR0033051"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2016-07-01"
-last_updated: "2013-04-01"
+last_updated: "2016-07-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0033051"
 soort: "ministeriele-regeling"
@@ -42,13 +42,15 @@ Besluit:
 
 ##### Artikel 1
 
-Als modellen van de eigen verklaring, bedoeld in [artikel 2.84, van de Aanbestedingswet 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&artikel=2.84) worden vastgesteld de modellen die als [bijlagen 1](https://wetten.overheid.nl/jci1.3:c:BWBR0033051&bijlage=1&z=2013-04-01&g=2013-04-01) en [2](https://wetten.overheid.nl/jci1.3:c:BWBR0033051&bijlage=2&z=2013-04-01&g=2013-04-01) bij deze regeling zijn gevoegd.
+Als model voor de eigen verklaring, bedoeld in [artikel 2.84 van de Aanbestedingswet 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&artikel=2.84), wordt aangewezen het standaardformulier, bedoeld in bijlage 2, van de Uitvoeringsverordening (EU), nr. 2016/7 van de Commissie van 5 januari 2016 houdende een standaardformulier voor het Uniform Europees Aanbestedingsdocument (PbEU 2016, L3), met uitzondering van deel IV, onderdelen A tot en met D, van dat formulier.
 
 ##### Artikel 2
 
 Deze regeling treedt in werking met ingang van 1 april 2013.
 
-## Bijlage 1. , behorende bij [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0033051&artikel=1&z=2013-04-01&g=2013-04-01) van de Regeling modellen eigen verklaring
+## Bijlage 1. , behorende bij [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0033051&artikel=1&z=2016-07-01&g=2016-07-01) van de Regeling modellen eigen verklaring
+
+Vervallen
 
 ### Eigen verklaring voor aanbestedingsprocedures van aanbestedende diensten
 
@@ -205,5 +207,11 @@ Wanneer in het handelsregister is opgenomen dat twee of meer personen slechts ge
 Bij een niet-openbare procedure en onderhandelingsprocedure met aankondiging kan een speciale-sectorbedrijf selectiecriteria gebruiken om het aantal gegadigden dat het speciale-sectorbedrijf zal uitnodigen tot inschrijvingen te beperken.
 
 Wanneer een speciale-sectorbedrijf bij de niet-openbare procedure of de onderhandelingsprocedure met aankondiging het aantal gegadigden terugbrengt, dient hij dit op grond van de in de aankondiging vermelde selectiecriteria te doen. Het speciale-sectorbedrijf zal bij de vraag of en welke selectiecriteria hij stelt, moeten afwegen of het criterium proportioneel is in het licht van de opdracht. Indien het speciale-sectorbedrijf selectiecriteria stelt, dient het speciale-sectorbedrijf de selectiecriteria in bijlage 1 van de Eigen verklaring weer te geven. De ondernemer dient vervolgens in bijlage 1 van de Eigen verklaring aan te geven hoe hij aan de selectiecriteria voldoet.
+
+Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
+
+## Bijlage 2. , behorende bij [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0033051&artikel=1&z=2016-07-01&g=2016-07-01) van de Regeling modellen eigen verklaring
+
+Vervallen
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
