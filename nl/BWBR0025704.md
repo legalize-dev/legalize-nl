@@ -4,7 +4,7 @@ identifier: "BWBR0025704"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2024-01-01"
-last_updated: "2015-01-01"
+last_updated: "2016-07-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0025704"
 soort: "ministeriele-regeling"
@@ -106,7 +106,7 @@ Aan de eis van vakbekwaamheid wordt voldaan door degene die een getuigschrift ov
 
 - c. een belastingadviseur die is ingeschreven in het Register Belastingadviseurs; ofd. een accountant of belastingdeskundige, aangesloten bij een door de NIWO na goedkeuring van de Minister daartoe aangewezen instelling.
 
-7. Omtrent het voldoen aan de eis van financiële draagkracht stelt de NIWO een onderzoek in als bedoeld in [artikel 3, derde lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0025704&hoofdstuk=2&artikel=3&z=2015-01-01&g=2015-01-01) van de beroepsrichtlijn voor het wegvervoer.
+7. Omtrent het voldoen aan de eis van financiële draagkracht stelt de NIWO een onderzoek in als bedoeld in [artikel 3, derde lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0025704&hoofdstuk=2&artikel=3&z=2016-07-01&g=2016-07-01) van de beroepsrichtlijn voor het wegvervoer.
 
 8. De NIWO kan de vervoerder een uitstel van ten hoogste zes maanden verlenen om te voldoen aan de eis van financiële draagkracht indien hij heeft aangetoond dat het op grond van de algemene economische situatie van zijn vervoeronderneming waarschijnlijk is dat hij voor afloop van het verleende uitstel zal voldoen aan de eis van financiële draagkracht.
 
@@ -166,13 +166,13 @@ Het model voor een verklaring als bedoeld in [artikel 2.11, tweede lid, van de w
 
 2. Van [artikel 2.11, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0024800&artikel=2.11), wordt ontheffing verleend indien gebruik wordt gemaakt van:
 
-- a. een werknemer die voor beperkte tijd bij wijze van hulpbetoon zonder winstoogmerk aan een vergunninghouder ter beschikking is gesteld door een andere vergunninghouder bij wie die werknemer in dienstbetrekking is en die ten bewijze daarvan een verklaring van dienstbetrekking kan tonen; of
+- a. een werknemer die gedurende een periode van ten hoogste zes weken bij wijze van hulpbetoon zonder winstoogmerk aan een vergunninghouder ter beschikking is gesteld door een andere vergunninghouder bij wie die werknemer in dienstbetrekking is en die ten bewijze daarvan een verklaring van dienstbetrekking kan tonen; of
 
 - b. een werknemer die door een instelling aan een vergunninghouder ter beschikking is gesteld en die ten bewijze daarvan een door deze instelling afgegeven verklaring kan tonen.
 
 ##### Artikel 14
 
-1. Een instelling die een werknemer aan een vergunninghouder ter beschikking wil stellen, verkrijgt daartoe op aanvraag een aanwijzing van de Minister van Verkeer en Waterstaat.
+1. Een instelling die een werknemer aan een vergunninghouder ter beschikking wil stellen, verkrijgt daartoe op aanvraag een aanwijzing van de Minister van Infrastructuur en Milieu.
 
 2. Een aanwijzing, die op het tijdstip van inwerkingtreding van de [wet](https://wetten.overheid.nl/jci1.3:c:BWBR0024800) reeds was verleend, wordt aangemerkt als aanwijzing als bedoeld in het eerste lid.
 
@@ -242,7 +242,7 @@ De NIWO is mede belast met de afgifte van uitnodigingen als bedoeld in artikel 4
 
 ##### Artikel 18
 
-1. Overtreding van de [artikelen 8, eerste en derde tot en met vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025704&hoofdstuk=4&artikel=8&z=2015-01-01&g=2015-01-01) en [10](https://wetten.overheid.nl/jci1.3:c:BWBR0025704&hoofdstuk=4&artikel=10&z=2015-01-01&g=2015-01-01) vormt een strafbaar feit.
+1. Overtreding van de [artikelen 8, eerste en derde tot en met vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025704&hoofdstuk=4&artikel=8&z=2016-07-01&g=2016-07-01) en [10](https://wetten.overheid.nl/jci1.3:c:BWBR0025704&hoofdstuk=4&artikel=10&z=2016-07-01&g=2016-07-01) vormt een strafbaar feit.
 
 2. Als bepalingen, bedoeld in artikel 2.6, eerste lid, van de wet, worden aangewezen:
 
