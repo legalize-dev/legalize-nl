@@ -4,7 +4,7 @@ identifier: "BWBR0036897"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2016-07-01"
-last_updated: "2015-09-01"
+last_updated: "2016-07-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0036897"
 soort: "ministeriele-regeling"
@@ -48,35 +48,29 @@ Wijzigt de Stimuleringsregeling energieprestatie huursector.
 
 Wijzigt de Regeling fonds energiebesparing huursector.
 
-##### Artikel III. Overgangsrecht [STEP](https://wetten.overheid.nl/jci1.3:c:BWBR0035224&wetgeving)
+##### Artikel III. Overgangsrecht [STEP](https://wetten.overheid.nl/jci1.3:c:BWBR0035224)
 
-1. In dit artikel wordt verstaan onder **STEP**: de [Stimuleringsregeling energieprestatie huursector](https://wetten.overheid.nl/jci1.3:c:BWBR0035224&wetgeving).
+1. In dit artikel wordt verstaan onder **STEP**: de [Stimuleringsregeling energieprestatie huursector](https://wetten.overheid.nl/jci1.3:c:BWBR0035224).
 
-2. Op een aanvraag tot subsidieverlening op grond van de [STEP](https://wetten.overheid.nl/jci1.3:c:BWBR0035224&wetgeving) die is ingediend voor 1 september 2015 zijn de bepalingen van de STEP van toepassing, zoals die tot die datum luidden.
+2. Op een aanvraag tot subsidieverlening op grond van de [STEP](https://wetten.overheid.nl/jci1.3:c:BWBR0035224) die is ingediend voor 1 september 2015 zijn de bepalingen van de STEP van toepassing, zoals die tot die datum luidden.
 
-3. In afwijking van [artikel 5, vierde lid, van de STEP](https://wetten.overheid.nl/jci1.3:c:BWBR0035224&artikel=5) kan voor een woning nog eenmaal subsidie op grond van de STEP worden aangevraagd indien de eerste aanvraag voor die woning voor 1 september 2015 is ingediend en:
-
-- a. die aanvraag uiterlijk op 2 november 2015 schriftelijk is ingetrokken;
-
-- b. de minister met betrekking tot die woning afwijzend op die aanvraag heeft beslist; of
-
-- c. voor die woning subsidie is verleend, maar de subsidieontvanger uiterlijk op 2 november 2015 schriftelijk aan de minister heeft verzocht om de beschikking tot subsidieverlening in te trekken.
+3. Vervallen.
 
 4. Bij toepassing van het derde lid bevat de aanvraag tot subsidieverlening in plaats van de verklaring, bedoeld in [artikel 5, tweede lid, onder e, van de STEP](https://wetten.overheid.nl/jci1.3:c:BWBR0035224&artikel=5), een verklaring waaruit blijkt dat:
 
-- a. voor zover ten behoeve van woningen voor de tweede maal op grond van de [STEP](https://wetten.overheid.nl/jci1.3:c:BWBR0035224&wetgeving) subsidie wordt aangevraagd, dit uitsluitend gevallen betreft als bedoeld in het derde lid, en
+- a. voor zover ten behoeve van woningen voor de tweede maal op grond van de [STEP](https://wetten.overheid.nl/jci1.3:c:BWBR0035224) subsidie wordt aangevraagd, dit uitsluitend gevallen betreft als bedoeld in het derde lid, en
 
-- b. voor geen van de overige woningen ten behoeve waarvan subsidie wordt aangevraagd reeds subsidie is aangevraagd op grond van de [STEP](https://wetten.overheid.nl/jci1.3:c:BWBR0035224&wetgeving).
+- b. voor geen van de overige woningen ten behoeve waarvan subsidie wordt aangevraagd reeds subsidie is aangevraagd op grond van de [STEP](https://wetten.overheid.nl/jci1.3:c:BWBR0035224).
 
-##### Artikel IV. Overgangsrecht [FEH](https://wetten.overheid.nl/jci1.3:c:BWBR0035608&wetgeving)
+##### Artikel IV. Overgangsrecht [FEH](https://wetten.overheid.nl/jci1.3:c:BWBR0035608)
 
 1. In dit artikel wordt verstaan onder:
 
-- a. **FEH:** de [Regeling fonds energiebesparing huursector](https://wetten.overheid.nl/jci1.3:c:BWBR0035608&wetgeving);
+- a. **FEH:** de [Regeling fonds energiebesparing huursector](https://wetten.overheid.nl/jci1.3:c:BWBR0035608);
 
 - b. **project:** een project als bedoel in [artikel 1, onder e, van de FEH](https://wetten.overheid.nl/jci1.3:c:BWBR0035608&artikel=1).
 
-2. Op een aanvraag tot subsidieverlening op grond van de [FEH](https://wetten.overheid.nl/jci1.3:c:BWBR0035608&wetgeving) die is ingediend voor 1 september 2015 zijn de bepalingen van de FEH van toepassing, zoals die tot die datum luidden.
+2. Op een aanvraag tot subsidieverlening op grond van de [FEH](https://wetten.overheid.nl/jci1.3:c:BWBR0035608) die is ingediend voor 1 september 2015 zijn de bepalingen van de FEH van toepassing, zoals die tot die datum luidden.
 
 3. In afwijking van [artikel 7, derde lid, van de FEH](https://wetten.overheid.nl/jci1.3:c:BWBR0035608&artikel=7) kan een woning die deel uitmaakt van een project waarvoor eerder op grond van de FEH subsidie is aangevraagd tevens deel uitmaken van een ander project waarvoor subsidie op grond van de FEH wordt aangevraagd, indien de subsidieaanvraag met betrekking tot dat andere project voor 1 september 2015 is ingediend en:
 
@@ -90,13 +84,13 @@ Wijzigt de Regeling fonds energiebesparing huursector.
 
 4. Bij toepassing van het derde lid bevat de aanvraag, bedoeld in het vierde lid van de FEH, in plaats van de verklaring, bedoeld in [artikel 7, vierde lid, onder j, van de FEH](https://wetten.overheid.nl/jci1.3:c:BWBR0035608&artikel=7), een verklaring dat:
 
-- a. voor zover het project woningen omvat die tevens deel uitmaken van een ander project waarvoor reeds subsidie op grond van de [FEH](https://wetten.overheid.nl/jci1.3:c:BWBR0035608&wetgeving) is aangevraagd, dit uitsluitend gevallen betreft als bedoeld in het derde lid, en
+- a. voor zover het project woningen omvat die tevens deel uitmaken van een ander project waarvoor reeds subsidie op grond van de [FEH](https://wetten.overheid.nl/jci1.3:c:BWBR0035608) is aangevraagd, dit uitsluitend gevallen betreft als bedoeld in het derde lid, en
 
-- b. voor geen van de overige woningen die deel uitmaken van het project reeds deel uitmaken van een ander project waarvoor subsidie is aangevraagd op grond van de [FEH](https://wetten.overheid.nl/jci1.3:c:BWBR0035608&wetgeving).
+- b. voor geen van de overige woningen die deel uitmaken van het project reeds deel uitmaken van een ander project waarvoor subsidie is aangevraagd op grond van de [FEH](https://wetten.overheid.nl/jci1.3:c:BWBR0035608).
 
 ##### Artikel V
 
-De uitvoering van de [Stimuleringsregeling energieprestatie huursector](https://wetten.overheid.nl/jci1.3:c:BWBR0035224&wetgeving) en de [Regeling fonds energiebesparing huursector](https://wetten.overheid.nl/jci1.3:c:BWBR0035608&wetgeving) wordt binnen zes maanden na de inwerkingtreding van deze regeling geëvalueerd.
+De uitvoering van de [Stimuleringsregeling energieprestatie huursector](https://wetten.overheid.nl/jci1.3:c:BWBR0035224) en de [Regeling fonds energiebesparing huursector](https://wetten.overheid.nl/jci1.3:c:BWBR0035608) wordt binnen zes maanden na de inwerkingtreding van deze regeling geëvalueerd.
 
 ##### Artikel VI
 
