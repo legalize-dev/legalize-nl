@@ -4,7 +4,7 @@ identifier: "BWBR0036258"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2016-07-02"
-last_updated: "2016-06-01"
+last_updated: "2016-07-02"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0036258"
 soort: "ministeriele-regeling"
@@ -48,7 +48,7 @@ In dit besluit wordt verstaan onder:
 
 - b. **directeur:** de directeur Autoriteit Nucleaire Veiligheid en Stralingsbescherming, genoemd in [artikel 20a, tweede lid, van het Organisatie- en mandaatbesluit Infrastructuur en Milieu 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0030951&artikel=20a);
 
-- c. **sectorhoofd:** een van de sectorhoofden als bedoeld in [artikel 20a, derde lid, van het Organisatie- en mandaatbesluit Infrastructuur en Milieu 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0030951&artikel=20a);
+- c. **afdelingshoofd:** een van de afdelingshoofden als bedoeld in [artikel 20a, derde lid, van het Organisatie- en mandaatbesluit Infrastructuur en Milieu 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0030951&artikel=20a);
 
 - d. **inspecteur:** een ambtenaar van de directie Autoriteit Nucleaire Veiligheid en Stralingsbescherming die is aangewezen krachtens [artikel 58, eerste lid, van de Kernenergiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0002402&artikel=58);
 
@@ -58,7 +58,7 @@ In dit besluit wordt verstaan onder:
 
 ##### Artikel 2. : Verlening ondermandaat
 
-Aan de directeur en de sectorhoofden worden de aan de algemeen directeur verleende bevoegdheden, voor zover die behoren bij hun taken, in ondermandaat verleend.
+Aan de directeur en de afdelingshoofden worden de aan de algemeen directeur verleende bevoegdheden, voor zover die behoren bij hun taken, in ondermandaat verleend.
 
 ##### Artikel 3. : Ondermandaat inspecteurs
 
@@ -68,11 +68,11 @@ Aan de directeur en de sectorhoofden worden de aan de algemeen directeur verleen
 
 ##### Artikel 4. : Omvang ondermandaat
 
-Het in de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0036258&artikel=2&z=2016-07-02&g=2016-06-01) en [3](https://wetten.overheid.nl/jci1.3:c:BWBR0036258&artikel=3&z=2016-07-02&g=2016-06-01) verleende ondermandaat omvat niet de bevoegdheid tot het beslissen op bezwaar.
+Het in de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0036258&artikel=2&z=2016-07-02&g=2016-07-02) en [3](https://wetten.overheid.nl/jci1.3:c:BWBR0036258&artikel=3&z=2016-07-02&g=2016-07-02) verleende ondermandaat omvat niet de bevoegdheid tot het beslissen op bezwaar.
 
 ##### Artikel 5. : Volmacht en machtiging
 
-Het in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0036258&artikel=2&z=2016-07-02&g=2016-06-01) en [3](https://wetten.overheid.nl/jci1.3:c:BWBR0036258&artikel=3&z=2016-07-02&g=2016-06-01) verleende ondermandaat omvat overeenkomstig [artikel 30 van het Organisatie- en mandaatbesluit Infrastructuur en Milieu 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0030951&artikel=30) mede de doorverlening van volmacht en machtiging.
+Het in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0036258&artikel=2&z=2016-07-02&g=2016-07-02) en [3](https://wetten.overheid.nl/jci1.3:c:BWBR0036258&artikel=3&z=2016-07-02&g=2016-07-02) verleende ondermandaat omvat overeenkomstig [artikel 30 van het Organisatie- en mandaatbesluit Infrastructuur en Milieu 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0030951&artikel=30) mede de doorverlening van volmacht en machtiging.
 
 ##### Artikel 6. : Uitoefening ondermandaat, volmacht en machtiging
 
