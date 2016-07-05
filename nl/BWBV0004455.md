@@ -4,7 +4,7 @@ identifier: "BWBV0004455"
 country: "nl"
 rank: "verdrag"
 publication_date: "2022-04-23"
-last_updated: "2010-09-20"
+last_updated: "2016-07-05"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBV0004455"
 soort: "verdrag"
@@ -78,7 +78,7 @@ In deze Overeenkomst betekent:
 
 - o). „Dagelijkse rusttijd”: het dagelijkse tijdvak gedurende hetwelk een bestuurder vrijelijk over zijn tijd kan beschikken, bestaande uit een “normale dagelijkse rusttijd” en een „verkorte dagelijkse rusttijd”: „Normale dagelijkse rusttijd”: een rustperiode van ten minste 11 uren. Als alternatief mag deze normale dagelijkse rust worden genoten in twee tijdvakken; het eerste moet een ononderbroken tijdvak van ten minste 3 uren zijn en het tweede een ononderbroken tijdvak van ten minste 9 uren; „Verkorte dagelijkse rusttijd”: een rustperiode van ten minste 9 uren, doch minder dan 11 uren;
 
-- p). „Wekelijkse rusttijd”: het wekelijkse tijdvak gedurende hetwelk een bestuurder vrijelijk over zijn tijd kan beschikken, bestaande uit een “normale wekelijkse rusttijd” en een „verkorte wekelijkse rusttijd”: „Normale wekelijkse rusttijd”: een rustperiode van ten minste 45 uren; „Verkorte wekelijkse rusttijd”: een rustperiode van ten minste 45 uren die, onder de voorwaarden van [artikel 8, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0004455&artikel=8&z=2010-09-20&g=2010-09-20), van de Overeenkomst kan worden bekort tot een minimum van 24 achtereenvolgende uren;
+- p). „Wekelijkse rusttijd”: het wekelijkse tijdvak gedurende hetwelk een bestuurder vrijelijk over zijn tijd kan beschikken, bestaande uit een “normale wekelijkse rusttijd” en een „verkorte wekelijkse rusttijd”: „Normale wekelijkse rusttijd”: een rustperiode van ten minste 45 uren; „Verkorte wekelijkse rusttijd”: een rustperiode van ten minste 45 uren die, onder de voorwaarden van [artikel 8, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0004455&artikel=8&z=2016-07-05&g=2016-07-05), van de Overeenkomst kan worden bekort tot een minimum van 24 achtereenvolgende uren;
 
 - q). „Andere werkzaamheden”: alle werkzaamheden behoudens rijden, met inbegrip van werkzaamheden voor dezelfde of een andere werkgever, binnen of buiten de vervoerssector. Dit omvat niet de wachttijd en tijd waarin niet wordt gereden in een bewegend voertuig, op een veerboot of op een trein;
 
@@ -124,11 +124,11 @@ In deze Overeenkomst betekent:
 
 ##### Artikel 3. Toepassing van een aantal bepalingen van deze Overeenkomst op wegvervoer verricht door voertuigen ingeschreven in de landen die geen Partij zijn bij deze Overeenkomst
 
-1. Elke Overeenkomstsluitende Partij past ten aanzien van internationaal wegvervoer, verricht door een voertuig dat is ingeschreven op het grondgebied van een land dat geen Partij is bij deze Overeenkomst, op haar grondgebied bepalingen toe die ten minste even streng zijn als die welke zijn neergelegd in de [artikelen 5](https://wetten.overheid.nl/jci1.3:c:BWBV0004455&artikel=5&z=2010-09-20&g=2010-09-20), [6](https://wetten.overheid.nl/jci1.3:c:BWBV0004455&artikel=6&z=2010-09-20&g=2010-09-20), [7](https://wetten.overheid.nl/jci1.3:c:BWBV0004455&artikel=7&z=2010-09-20&g=2010-09-20), [8](https://wetten.overheid.nl/jci1.3:c:BWBV0004455&artikel=8&z=2010-09-20&g=2010-09-20), [9](https://wetten.overheid.nl/jci1.3:c:BWBV0004455&artikel=9&z=2010-09-20&g=2010-09-20) en [10](https://wetten.overheid.nl/jci1.3:c:BWBV0004455&artikel=10&z=2010-09-20&g=2010-09-20) van deze Overeenkomst.
+1. Elke Overeenkomstsluitende Partij past ten aanzien van internationaal wegvervoer, verricht door een voertuig dat is ingeschreven op het grondgebied van een land dat geen Partij is bij deze Overeenkomst, op haar grondgebied bepalingen toe die ten minste even streng zijn als die welke zijn neergelegd in de [artikelen 5](https://wetten.overheid.nl/jci1.3:c:BWBV0004455&artikel=5&z=2016-07-05&g=2016-07-05), [6](https://wetten.overheid.nl/jci1.3:c:BWBV0004455&artikel=6&z=2016-07-05&g=2016-07-05), [7](https://wetten.overheid.nl/jci1.3:c:BWBV0004455&artikel=7&z=2016-07-05&g=2016-07-05), [8](https://wetten.overheid.nl/jci1.3:c:BWBV0004455&artikel=8&z=2016-07-05&g=2016-07-05), [9](https://wetten.overheid.nl/jci1.3:c:BWBV0004455&artikel=9&z=2016-07-05&g=2016-07-05) en [10](https://wetten.overheid.nl/jci1.3:c:BWBV0004455&artikel=10&z=2016-07-05&g=2016-07-05) van deze Overeenkomst.
 
 - a. Elke Overeenkomstsluitende Partij heeft echter de bevoegdheid, bij voertuigen die zijn geregistreerd in een land dat geen Partij is bij deze Overeenkomst, in plaats van het controle apparaat overeenkomstig de bepalingen van de Bijlage bij deze Overeenkomst, slechts handmatig door ieder bemanningslid ingevulde dagelijkse registratiebladen te eisen voor het tijdvak vanaf het tijdstip van binnenkomst op het grondgebied van de eerste Overeenkomstsluitende Partij.
 
-- b. Hiertoe noteert elk bemanningslid op zijn registratieblad de informatie met betrekking tot zijn beroepsactiviteiten en rusttijden, met gebruikmaking van de juiste grafische symbolen als omschreven in [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBV0004455&hoofdstuk=III&artikel=12&z=2010-09-20&g=2010-09-20) van de Bijlage bij deze Overeenkomst.
+- b. Hiertoe noteert elk bemanningslid op zijn registratieblad de informatie met betrekking tot zijn beroepsactiviteiten en rusttijden, met gebruikmaking van de juiste grafische symbolen als omschreven in [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBV0004455&hoofdstuk=III&artikel=12&z=2016-07-05&g=2016-07-05) van de Bijlage bij deze Overeenkomst.
 
 ##### Artikel 4. Algemene beginselen
 
@@ -154,29 +154,29 @@ Bestuurders die tewerkgesteld zijn bij het vervoer van personen op trajecten bui
 
 ##### Artikel 6. Rijtijden
 
-1. De dagelijkse rijtijd, als omschreven in [artikel 1, onderdeel s](https://wetten.overheid.nl/jci1.3:c:BWBV0004455&artikel=1&z=2010-09-20&g=2010-09-20), van deze Overeenkomst, mag ten hoogste 9 uren bedragen. Ten hoogste twee maal per week mag de rijtijd worden uitgebreid tot 10 uren.
+1. De dagelijkse rijtijd, als omschreven in [artikel 1, onderdeel s](https://wetten.overheid.nl/jci1.3:c:BWBV0004455&artikel=1&z=2016-07-05&g=2016-07-05), van deze Overeenkomst, mag ten hoogste 9 uren bedragen. Ten hoogste twee maal per week mag de rijtijd worden uitgebreid tot 10 uren.
 
-2. De wekelijkse rijtijd, als omschreven in [artikel 1, onderdeel t](https://wetten.overheid.nl/jci1.3:c:BWBV0004455&artikel=1&z=2010-09-20&g=2010-09-20), van deze Overeenkomst, mag ten hoogste 56 uren bedragen.
+2. De wekelijkse rijtijd, als omschreven in [artikel 1, onderdeel t](https://wetten.overheid.nl/jci1.3:c:BWBV0004455&artikel=1&z=2016-07-05&g=2016-07-05), van deze Overeenkomst, mag ten hoogste 56 uren bedragen.
 
 3. De totale opgetelde rijtijd gedurende twee opeenvolgende weken mag ten hoogste 90 uren bedragen.
 
 4. Rijtijden omvatten alle rijwerkzaamheden op het grondgebied van Overeenkomstsluitende en niet-Overeenkomstsluitende Partijen.
 
-5. Een bestuurder dient de tijd doorgebracht als omschreven in [artikel 1, onderdeel q](https://wetten.overheid.nl/jci1.3:c:BWBV0004455&artikel=1&z=2010-09-20&g=2010-09-20), alsmede de tijd gedurende welke een voertuig wordt bestuurd voor commerciële activiteiten die niet onder het toepassingsgebied van deze Overeenkomst vallen, als andere werkzaamheden te registreren en dient alle tijdvakken van beschikbaarheid te registreren, als vermeld in [artikel 12, paragraaf 3, onderdeel c, van de Bijlage](https://wetten.overheid.nl/jci1.3:c:BWBV0004455&hoofdstuk=III&artikel=12&z=2010-09-20&g=2010-09-20) bij deze Overeenkomst. Deze registratie geschiedt handmatig op een registratieblad of afdruk of door gebruikmaking van de functies voor handmatige invoer van het controle apparaat.
+5. Een bestuurder dient de tijd doorgebracht als omschreven in [artikel 1, onderdeel q](https://wetten.overheid.nl/jci1.3:c:BWBV0004455&artikel=1&z=2016-07-05&g=2016-07-05), alsmede de tijd gedurende welke een voertuig wordt bestuurd voor commerciële activiteiten die niet onder het toepassingsgebied van deze Overeenkomst vallen, als andere werkzaamheden te registreren en dient alle tijdvakken van beschikbaarheid te registreren, als vermeld in [artikel 12, paragraaf 3, onderdeel c, van de Bijlage](https://wetten.overheid.nl/jci1.3:c:BWBV0004455&hoofdstuk=III&artikel=12&z=2016-07-05&g=2016-07-05) bij deze Overeenkomst. Deze registratie geschiedt handmatig op een registratieblad of afdruk of door gebruikmaking van de functies voor handmatige invoer van het controle apparaat.
 
 ##### Artikel 7. Onderbrekingen
 
 1. Na een rijperiode van vier en een half uur neemt een bestuurder een aaneengesloten onderbreking van ten minste vijfenveertig minuten, tenzij hij een rusttijd neemt.
 
-2. Deze onderbreking, als omschreven in [artikel 1, onderdeel n](https://wetten.overheid.nl/jci1.3:c:BWBV0004455&artikel=1&z=2010-09-20&g=2010-09-20), van deze Overeenkomst, mag worden vervangen door een onderbreking van ten minste 15 minuten, gevolgd door een onderbreking van ten minste 30 minuten die zodanig over de rijperiode of onmiddellijk na deze periode worden verdeeld dat aan de vereisten van het eerste lid wordt voldaan.
+2. Deze onderbreking, als omschreven in [artikel 1, onderdeel n](https://wetten.overheid.nl/jci1.3:c:BWBV0004455&artikel=1&z=2016-07-05&g=2016-07-05), van deze Overeenkomst, mag worden vervangen door een onderbreking van ten minste 15 minuten, gevolgd door een onderbreking van ten minste 30 minuten die zodanig over de rijperiode of onmiddellijk na deze periode worden verdeeld dat aan de vereisten van het eerste lid wordt voldaan.
 
-3. Voor de toepassing van dit artikel worden de wachttijd en de tijd die niet aan rijden wordt besteed in een bewegend voertuig, op een veerboot of op een trein niet aangemerkt als „andere werkzaamheden” als omschreven in [artikel 1, onderdeel q](https://wetten.overheid.nl/jci1.3:c:BWBV0004455&artikel=1&z=2010-09-20&g=2010-09-20), van deze Overeenkomst; deze tijd mag als „onderbreking” worden aangemerkt.
+3. Voor de toepassing van dit artikel worden de wachttijd en de tijd die niet aan rijden wordt besteed in een bewegend voertuig, op een veerboot of op een trein niet aangemerkt als „andere werkzaamheden” als omschreven in [artikel 1, onderdeel q](https://wetten.overheid.nl/jci1.3:c:BWBV0004455&artikel=1&z=2016-07-05&g=2016-07-05), van deze Overeenkomst; deze tijd mag als „onderbreking” worden aangemerkt.
 
 4. De in dit artikel in acht genomen onderbrekingen mogen niet worden aangemerkt als dagelijkse rusttijd.
 
 ##### Artikel 8. Rusttijden
 
-1. Een bestuurder dient dagelijkse en wekelijkse rusttijden te nemen als omschreven in [artikel 1, onderdelen o en p](https://wetten.overheid.nl/jci1.3:c:BWBV0004455&artikel=1&z=2010-09-20&g=2010-09-20).
+1. Een bestuurder dient dagelijkse en wekelijkse rusttijden te nemen als omschreven in [artikel 1, onderdelen o en p](https://wetten.overheid.nl/jci1.3:c:BWBV0004455&artikel=1&z=2016-07-05&g=2016-07-05).
 
 2. Binnen elke periode van 24 uur na het einde van de voorafgaande dagelijkse of wekelijkse rusttijd dient een bestuurder een nieuwe dagelijkse rusttijd genomen te hebben.
 
@@ -204,9 +204,9 @@ Indien het gedeelte van de dagelijkse rusttijd dat binnen die periode van 24 uur
 
 - b. of één normale wekelijkse rusttijd en één verkorte wekelijkse rusttijd van ten minste 24 uur neemt. Verkortingen worden evenwel gecompenseerd met een daarmee overeenkomende rusttijd die aaneengesloten wordt genoten vóór het einde van de derde week volgend op het einde van de uitzonderingsperiode,
 
-- iii. het voertuig, vier jaren nadat het land van registratie de digitale tachograaf heeft ingevoerd, is uitgerust met registratieapparatuur in overeenstemming met de vereisten van [Aanhangsel 1B van de Bijlage](https://wetten.overheid.nl/jci1.3:c:BWBV0004455&bijlage=1B&z=2010-09-20&g=2010-09-20), en
+- iii. het voertuig, vier jaren nadat het land van registratie de digitale tachograaf heeft ingevoerd, is uitgerust met registratieapparatuur in overeenstemming met de vereisten van [Aanhangsel 1B van de Bijlage](https://wetten.overheid.nl/jci1.3:c:BWBV0004455&bijlage=1B&z=2016-07-05&g=2016-07-05), en
 
-- iv. het voertuig, na 1 januari 2014, indien wordt gereden gedurende het tijdvak van 22:00 tot 06:00 uur, een meervoudige bemanning heeft of de in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBV0004455&artikel=7&z=2010-09-20&g=2010-09-20) bedoelde rijtijd wordt verkort tot drie uren.
+- iv. het voertuig, na 1 januari 2014, indien wordt gereden gedurende het tijdvak van 22:00 tot 06:00 uur, een meervoudige bemanning heeft of de in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBV0004455&artikel=7&z=2016-07-05&g=2016-07-05) bedoelde rijtijd wordt verkort tot drie uren.
 
 - c. In afwijking van het zesde lid, onderdeel a, dienen bestuurders die deel uitmaken van een meervoudige bemanning elke week een normale wekelijkse rusttijd van ten minste 45 uur te nemen. Deze tijd kan worden verkort tot een minimum van 24 uren (verkorte wekelijkse rusttijd). Elke verkorting wordt evenwel gecompenseerd met een daarmee overeenkomende rusttijd die aaneengesloten wordt genoten vóór het einde van de derde week volgend op de desbetreffende week.
 
@@ -262,13 +262,13 @@ Onverminderd het recht van de Overeenkomstsluitende Partijen om vervoersondernem
 
 - iii. de correcte werking van het controle apparaat.
 
-- c. De onderdelen van controles bij de vestigingen van ondernemingen betreffen, naast de onderdelen van de controles langs de weg en naleving van de bepalingen van [artikel 11, paragraaf 2, van de Bijlage](https://wetten.overheid.nl/jci1.3:c:BWBV0004455&hoofdstuk=III&artikel=11&z=2010-09-20&g=2010-09-20):
+- c. De onderdelen van controles bij de vestigingen van ondernemingen betreffen, naast de onderdelen van de controles langs de weg en naleving van de bepalingen van [artikel 11, paragraaf 2, van de Bijlage](https://wetten.overheid.nl/jci1.3:c:BWBV0004455&hoofdstuk=III&artikel=11&z=2016-07-05&g=2016-07-05):
 
 - i. wekelijkse rusttijden en rijtijden tussen deze rusttijden;
 
 - ii. tweewekelijkse limieten van de rijtijden;
 
-- iii. compensatie voor in overeenstemming met [artikel 8, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0004455&artikel=8&z=2010-09-20&g=2010-09-20), verkorte wekelijkse rusttijden;
+- iii. compensatie voor in overeenstemming met [artikel 8, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0004455&artikel=8&z=2016-07-05&g=2016-07-05), verkorte wekelijkse rusttijden;
 
 - iv. gebruik van registratiebladen en/of de voertuigunit en bestuurderskaart en afdrukken en/of de organisatie van de werktijden van de bestuurder.
 
@@ -300,11 +300,11 @@ Vanaf 2011 zullen de Overeenkomstsluitende Partijen de mogelijkheid bestuderen d
 
 ##### Artikel 13. Overgangsbepalingen
 
-1. Alle nieuwe bepalingen van deze Overeenkomst, met inbegrip van zijn bijlage en de [aanhangsels 1B](https://wetten.overheid.nl/jci1.3:c:BWBV0004455&bijlage=1B&z=2010-09-20&g=2010-09-20) en 2, die betrekking hebben op de invoering van een digitaal controleapparaat, worden verbindend voor landen die Overeenkomstsluitende Partij zijn bij deze Overeenkomst uiterlijk vier jaar na de datum van inwerkingtreding van de desbetreffende wijzigingen die voortvloeien uit de in [artikel 21](https://wetten.overheid.nl/jci1.3:c:BWBV0004455&artikel=21&z=2010-09-20&g=2010-09-20) omschreven procedure. Bijgevolg dienen alle voertuigen waarop deze Overeenkomst van toepassing is en die na het verstrijken van deze termijn voor het eerst in bedrijf zijn genomen, te zijn uitgerust met een controleapparaat dat voldoet aan deze nieuwe voorwaarden. Gedurende deze termijn van vier jaar laten de Overeenkomstsluitende Partijen die deze wijzigingen nog niet in hun landen hebben geïmplementeerd in een andere Overeenkomstsluitende Partij bij deze Overeenkomst ingeschreven voortuigen die reeds zijn uitgerust met een dergelijk digitaal controleapparaat tot hun grondgebied toe en controleren deze.
+1. Alle nieuwe bepalingen van deze Overeenkomst, met inbegrip van zijn bijlage en de [aanhangsels 1B](https://wetten.overheid.nl/jci1.3:c:BWBV0004455&bijlage=1B&z=2016-07-05&g=2016-07-05) en 2, die betrekking hebben op de invoering van een digitaal controleapparaat, worden verbindend voor landen die Overeenkomstsluitende Partij zijn bij deze Overeenkomst uiterlijk vier jaar na de datum van inwerkingtreding van de desbetreffende wijzigingen die voortvloeien uit de in [artikel 21](https://wetten.overheid.nl/jci1.3:c:BWBV0004455&artikel=21&z=2016-07-05&g=2016-07-05) omschreven procedure. Bijgevolg dienen alle voertuigen waarop deze Overeenkomst van toepassing is en die na het verstrijken van deze termijn voor het eerst in bedrijf zijn genomen, te zijn uitgerust met een controleapparaat dat voldoet aan deze nieuwe voorwaarden. Gedurende deze termijn van vier jaar laten de Overeenkomstsluitende Partijen die deze wijzigingen nog niet in hun landen hebben geïmplementeerd in een andere Overeenkomstsluitende Partij bij deze Overeenkomst ingeschreven voortuigen die reeds zijn uitgerust met een dergelijk digitaal controleapparaat tot hun grondgebied toe en controleren deze.
 
-- a. De Overeenkomstsluitende Partijen nemen de nodige maatregelen om de in de bijlage bij deze Overeenkomst bedoelde bestuurderskaarten, zoals gewijzigd, uiterlijk drie maanden voor het verstrijken van de in het eerste lid bedoelde termijn van vier jaar af te geven. Aan deze minimumtermijn van drie maanden dient eveneens te worden voldaan indien een Overeenkomstsluitende Partij de bepalingen die betrekking hebben op het digitale controleapparaat in overeenstemming met [aanhangsel 1B bij deze bijlage](https://wetten.overheid.nl/jci1.3:c:BWBV0004455&bijlage=1B&z=2010-09-20&g=2010-09-20) implementeert voordat de termijn van vier jaar verstreken is. Deze Overeenkomstsluitende Partijen houden het secretariaat van de Subcommissie voor het wegvervoer van de Economische Commissie voor Europa op de hoogte van de voortgang bij de invoering van het digitale controleapparaat overeenkomstig aanhangsel 1B bij deze bijlage binnen hun grondgebied.
+- a. De Overeenkomstsluitende Partijen nemen de nodige maatregelen om de in de bijlage bij deze Overeenkomst bedoelde bestuurderskaarten, zoals gewijzigd, uiterlijk drie maanden voor het verstrijken van de in het eerste lid bedoelde termijn van vier jaar af te geven. Aan deze minimumtermijn van drie maanden dient eveneens te worden voldaan indien een Overeenkomstsluitende Partij de bepalingen die betrekking hebben op het digitale controleapparaat in overeenstemming met [aanhangsel 1B bij deze bijlage](https://wetten.overheid.nl/jci1.3:c:BWBV0004455&bijlage=1B&z=2016-07-05&g=2016-07-05) implementeert voordat de termijn van vier jaar verstreken is. Deze Overeenkomstsluitende Partijen houden het secretariaat van de Subcommissie voor het wegvervoer van de Economische Commissie voor Europa op de hoogte van de voortgang bij de invoering van het digitale controleapparaat overeenkomstig aanhangsel 1B bij deze bijlage binnen hun grondgebied.
 
-- b. In afwachting van de afgifte door de Overeenkomstsluitende Partij van de kaarten bedoeld in onderdeel a, zijn de bepalingen van [artikel 14 van de bijlage](https://wetten.overheid.nl/jci1.3:c:BWBV0004455&hoofdstuk=III&artikel=14&z=2010-09-20&g=2010-09-20) bij deze Overeenkomst van toepassing op bestuurders die mogelijk voertuigen dienen te besturen die uitgerust zijn met een digitaal controleapparaat in overeenstemming met [aanhangsel 1B bij deze bijlage](https://wetten.overheid.nl/jci1.3:c:BWBV0004455&bijlage=1B&z=2010-09-20&g=2010-09-20).”
+- b. In afwachting van de afgifte door de Overeenkomstsluitende Partij van de kaarten bedoeld in onderdeel a, zijn de bepalingen van [artikel 14 van de bijlage](https://wetten.overheid.nl/jci1.3:c:BWBV0004455&hoofdstuk=III&artikel=14&z=2016-07-05&g=2016-07-05) bij deze Overeenkomst van toepassing op bestuurders die mogelijk voertuigen dienen te besturen die uitgerust zijn met een digitaal controleapparaat in overeenstemming met [aanhangsel 1B bij deze bijlage](https://wetten.overheid.nl/jci1.3:c:BWBV0004455&bijlage=1B&z=2016-07-05&g=2016-07-05).”
 
 3. Elke akte van bekrachtiging of toetreding nedergelegd door een Staat na het van kracht worden van de in het eerste lid bedoelde wijzigingen wordt geacht van toepassing te zijn op de Overeenkomst zoals gewijzigd, met inbegrip van de termijn voor de implementatie omschreven in het eerste lid.
 
@@ -314,7 +314,7 @@ De bepalingen van het voorgaande lid zijn eveneens van toepassing bij toetreding
 
 ##### Artikel 14. Slotbepalingen
 
-1. Deze Overeenkomst staat tot 31 maart 1971 open voor ondertekening en, na deze datum, voor toetreding door de Lid-Staten van de Economische Commissie voor Europa, alsmede door de Staten die overeenkomstig paragraaf 8 van het mandaat van deze Commissie met adviserende bevoegdheid tot haar werkzaamheden zijn toegelaten.
+1. Deze Overeenkomst staat tot 31 maart 1971 open voor ondertekening en, na deze datum, voor toetreding door de Lid-Staten van de Economische Commissie voor Europa, alsmede door de Staten die overeenkomstig paragraaf 8 of 11 van het mandaat van deze Commissie met adviserende bevoegdheid tot haar werkzaamheden zijn toegelaten. Toetredingen overeenkomstig paragraaf 11 van het mandaat van deze Commissie zijn beperkt tot de volgende Staten: Algerije, Jordanië, Marokko en Tunesië.
 
 2. Deze Overeenkomst moet worden bekrachtigd.
 
@@ -338,7 +338,7 @@ Deze Overeenkomst zal ophouden van kracht te zijn indien na haar inwerkingtredin
 
 1. Elke Staat kan, bij de ondertekening van deze Overeenkomst bij de nederlegging van zijn akte van bekrachtiging of toetreding of te eniger tijd daarna, door middel van een aan de Secretaris-Generaal van de Verenigde Naties gerichte kennisgeving verklaren, dat de toepasselijkheid van deze Overeenkomst wordt uitgebreid tot alle of enkele van de gebieden voor welker internationale betrekkingen hij verantwoordelijk is. Deze Overeenkomst is ten aanzien van het gebied of de gebieden in de kennisgeving vermeld van toepassing met ingang van de honderdtachtigste dag na ontvangst van die kennisgeving door de Secretaris-Generaal of wel, indien deze Overeenkomst op die dag nog niet in werking is getreden, met ingang van de datum van haar inwerkingtreding.
 
-2. Elke Staat die overeenkomstig het voorgaande lid een verklaring heeft afgelegd waardoor deze Overeenkomst van toepassing wordt op een gebied voor welker internationale betrekkingen hij verantwoordelijk is, kan deze Overeenkomst met betrekking tot dit gebied afzonderlijk opzeggen overeenkomstig de bepalingen van [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBV0004455&artikel=15&z=2010-09-20&g=2010-09-20).
+2. Elke Staat die overeenkomstig het voorgaande lid een verklaring heeft afgelegd waardoor deze Overeenkomst van toepassing wordt op een gebied voor welker internationale betrekkingen hij verantwoordelijk is, kan deze Overeenkomst met betrekking tot dit gebied afzonderlijk opzeggen overeenkomstig de bepalingen van [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBV0004455&artikel=15&z=2016-07-05&g=2016-07-05).
 
 ##### Artikel 18
 
@@ -350,7 +350,7 @@ Deze Overeenkomst zal ophouden van kracht te zijn indien na haar inwerkingtredin
 
 ##### Artikel 19
 
-1. Elke Staat kan, op het tijdstip waarop hij deze Overeenkomst ondertekent of bekrachtigt of ertoe toetreedt, verklaren dat hij zich niet gebonden acht aan het tweede en het [derde lid van artikel 18](https://wetten.overheid.nl/jci1.3:c:BWBV0004455&artikel=18&z=2010-09-20&g=2010-09-20). De andere Overeenkomstsluitende Partijen zijn niet gebonden door deze leden tegenover elke Overeenkomstsluitende Partij die een zodanig voorbehoud heeft gemaakt.
+1. Elke Staat kan, op het tijdstip waarop hij deze Overeenkomst ondertekent of bekrachtigt of ertoe toetreedt, verklaren dat hij zich niet gebonden acht aan het tweede en het [derde lid van artikel 18](https://wetten.overheid.nl/jci1.3:c:BWBV0004455&artikel=18&z=2016-07-05&g=2016-07-05). De andere Overeenkomstsluitende Partijen zijn niet gebonden door deze leden tegenover elke Overeenkomstsluitende Partij die een zodanig voorbehoud heeft gemaakt.
 
 2. Indien een Staat bij de nederlegging van zijn akte van bekrachtiging of toetreding een ander voorbehoud formuleert dan dat bedoeld in het eerste lid van dit artikel, deelt de Secretaris-Generaal der Verenigde Naties dit voorbehoud mede aan de Staten die hun akte van bekrachtiging of toetreding reeds hebben nedergelegd en deze Overeenkomst daarna niet hebben opgezegd. Het voorbehoud wordt geacht te zijn aanvaard, indien binnen zes maanden na de datum van deze mededeling geen van deze Staten zich tegen de aanvaarding ervan heeft verzet. In het tegenovergestelde geval wordt het voorbehoud niet toegelaten, en indien de Staat die het voorbehoud heeft geformuleerd dit niet intrekt, zal zijn nederlegging van de akte van bekrachtiging of toetreding geen gevolg hebben. Voor de toepassing van dit lid zal geen rekening worden gehouden met het verzet van de Staten waarvan toetreding of bekrachtiging krachtens dit lid geen effect heeft ten gevolge van het voorbehoud dat zij hebben geformuleerd.
 
@@ -362,11 +362,11 @@ Deze Overeenkomst zal ophouden van kracht te zijn indien na haar inwerkingtredin
 
 2. Indien overeenkomstig het vorige lid een conferentie wordt bijeengeroepen, zal de Secretaris-Generaal alle Overeenkomstsluitende Partijen daarvan in kennis stellen en hen uitnodigen, binnen drie maanden voorstellen in te dienen waarvan zij behandeling door de conferentie wensen. De Secretaris-Generaal doet niet korter dan drie maanden vóór de aanvang van de conferentie alle Overeenkomstsluitende Partijen mededeling van de voorlopige agenda voor de conferentie, alsmede van de tekst van de ingediende voorstellen.
 
-3. De Secretaris-Generaal nodigt alle in het [eerste lid van artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBV0004455&artikel=14&z=2010-09-20&g=2010-09-20) van deze Overeenkomst bedoelde Staten uit tot bijwoning van elke conferentie die overeenkomstig dit artikel wordt bijeengeroepen.
+3. De Secretaris-Generaal nodigt alle in het [eerste lid van artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBV0004455&artikel=14&z=2016-07-05&g=2016-07-05) van deze Overeenkomst bedoelde Staten uit tot bijwoning van elke conferentie die overeenkomstig dit artikel wordt bijeengeroepen.
 
 ##### Artikel 21
 
-1. Elke Overeenkomstsluitende Partij kan één of meer wijzigingen van deze Overeenkomst voorstellen. De tekst van elke voorgestelde wijziging wordt medegedeeld aan de Secretaris-Generaal van de Verenigde Naties, die deze tekst zal mededelen aan alle Overeenkomstsluitende Partijen en ter kennis brengen van de overige Staten, bedoeld in het [eerste lid van artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBV0004455&artikel=14&z=2010-09-20&g=2010-09-20) van deze Overeenkomst.
+1. Elke Overeenkomstsluitende Partij kan één of meer wijzigingen van deze Overeenkomst voorstellen. De tekst van elke voorgestelde wijziging wordt medegedeeld aan de Secretaris-Generaal van de Verenigde Naties, die deze tekst zal mededelen aan alle Overeenkomstsluitende Partijen en ter kennis brengen van de overige Staten, bedoeld in het [eerste lid van artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBV0004455&artikel=14&z=2016-07-05&g=2016-07-05) van deze Overeenkomst.
 
 2. Binnen zes maanden na de datum waarop de Secretaris-Generaal mededeling heeft gedaan van het wijzigingsvoorstel, kan iedere Overeenkomstsluitende Partij aan de Secretaris-Generaal mededelen:
 
@@ -412,21 +412,21 @@ Deze Overeenkomst zal ophouden van kracht te zijn indien na haar inwerkingtredin
 
 ##### Artikel 23
 
-Naast de in de [artikelen 20](https://wetten.overheid.nl/jci1.3:c:BWBV0004455&artikel=20&z=2010-09-20&g=2010-09-20) en [21](https://wetten.overheid.nl/jci1.3:c:BWBV0004455&artikel=21&z=2010-09-20&g=2010-09-20) van deze Overeenkomst bedoelde kennisgevingen doet de Secretaris-Generaal van de Verenigde Naties aan de in het eerste lid van [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBV0004455&artikel=14&z=2010-09-20&g=2010-09-20) van deze Overeenkomst bedoelde Staten mededeling van:
+Naast de in de [artikelen 20](https://wetten.overheid.nl/jci1.3:c:BWBV0004455&artikel=20&z=2016-07-05&g=2016-07-05) en [21](https://wetten.overheid.nl/jci1.3:c:BWBV0004455&artikel=21&z=2016-07-05&g=2016-07-05) van deze Overeenkomst bedoelde kennisgevingen doet de Secretaris-Generaal van de Verenigde Naties aan de in het eerste lid van [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBV0004455&artikel=14&z=2016-07-05&g=2016-07-05) van deze Overeenkomst bedoelde Staten mededeling van:
 
-- a). bekrachtigingen en toetredingen krachtens [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBV0004455&artikel=14&z=2010-09-20&g=2010-09-20) van deze Overeenkomst;
+- a). bekrachtigingen en toetredingen krachtens [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBV0004455&artikel=14&z=2016-07-05&g=2016-07-05) van deze Overeenkomst;
 
-- b). de data waarop krachtens [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBV0004455&artikel=14&z=2010-09-20&g=2010-09-20) deze Overeenkomst in werking treedt;
+- b). de data waarop krachtens [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBV0004455&artikel=14&z=2016-07-05&g=2016-07-05) deze Overeenkomst in werking treedt;
 
-- c). opzeggingen krachtens [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBV0004455&artikel=15&z=2010-09-20&g=2010-09-20) van deze Overeenkomst;
+- c). opzeggingen krachtens [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBV0004455&artikel=15&z=2016-07-05&g=2016-07-05) van deze Overeenkomst;
 
-- d). het krachtens [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBV0004455&artikel=16&z=2010-09-20&g=2010-09-20) buiten werking treden van deze Overeenkomst;
+- d). het krachtens [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBV0004455&artikel=16&z=2016-07-05&g=2016-07-05) buiten werking treden van deze Overeenkomst;
 
-- e). kennisgevingen ontvangen krachtens [artikel 17](https://wetten.overheid.nl/jci1.3:c:BWBV0004455&artikel=17&z=2010-09-20&g=2010-09-20) van deze Overeenkomst;
+- e). kennisgevingen ontvangen krachtens [artikel 17](https://wetten.overheid.nl/jci1.3:c:BWBV0004455&artikel=17&z=2016-07-05&g=2016-07-05) van deze Overeenkomst;
 
-- f). verklaringen en kennisgevingen ontvangen krachtens [artikel 19](https://wetten.overheid.nl/jci1.3:c:BWBV0004455&artikel=19&z=2010-09-20&g=2010-09-20) van deze Overeenkomst;
+- f). verklaringen en kennisgevingen ontvangen krachtens [artikel 19](https://wetten.overheid.nl/jci1.3:c:BWBV0004455&artikel=19&z=2016-07-05&g=2016-07-05) van deze Overeenkomst;
 
-- g). de inwerkingtreding van elke wijziging krachtens [artikel 21](https://wetten.overheid.nl/jci1.3:c:BWBV0004455&artikel=21&z=2010-09-20&g=2010-09-20) van deze Overeenkomst.
+- g). de inwerkingtreding van elke wijziging krachtens [artikel 21](https://wetten.overheid.nl/jci1.3:c:BWBV0004455&artikel=21&z=2016-07-05&g=2016-07-05) van deze Overeenkomst.
 
 ##### Artikel 24
 
@@ -434,7 +434,7 @@ Het Protocol van ondertekening bij deze Overeenkomst heeft dezelfde kracht, geld
 
 ##### Artikel 25
 
-Na 31 maart 1971 wordt het origineel van deze Overeenkomst nedergelegd bij de Secretaris-Generaal van de Verenigde Naties, die aan alle landen, bedoeld in het [eerste lid van artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBV0004455&artikel=14&z=2010-09-20&g=2010-09-20) van deze Overeenkomst, gewaarmerkte afschriften zal doen toekomen.
+Na 31 maart 1971 wordt het origineel van deze Overeenkomst nedergelegd bij de Secretaris-Generaal van de Verenigde Naties, die aan alle landen, bedoeld in het [eerste lid van artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBV0004455&artikel=14&z=2016-07-05&g=2016-07-05) van deze Overeenkomst, gewaarmerkte afschriften zal doen toekomen.
 
 ## I. GOEDKEURING
 
@@ -524,19 +524,19 @@ IN WITNESS WHEREOF the undersigned, being duly authorized thereto, have signed t
 
 DONE at Geneva, this first day of July nineteen hundred and seventy, in a single copy, in the English and French languages, the two texts being equally authentic.
 
-##### Artikel 22 bis. Procedure voor het wijzigen van [aanhangsel 1B](https://wetten.overheid.nl/jci1.3:c:BWBV0004455&bijlage=1B&z=2010-09-20&g=2010-09-20)
+##### Artikel 22 bis. Procedure voor het wijzigen van [aanhangsel 1B](https://wetten.overheid.nl/jci1.3:c:BWBV0004455&bijlage=1B&z=2016-07-05&g=2016-07-05)
 
-1. [Aanhangsel 1B](https://wetten.overheid.nl/jci1.3:c:BWBV0004455&bijlage=1B&z=2010-09-20&g=2010-09-20) van de bijlage bij deze Overeenkomst wordt gewijzigd overeenkomstig de in dit artikel omschreven procedure.
+1. [Aanhangsel 1B](https://wetten.overheid.nl/jci1.3:c:BWBV0004455&bijlage=1B&z=2016-07-05&g=2016-07-05) van de bijlage bij deze Overeenkomst wordt gewijzigd overeenkomstig de in dit artikel omschreven procedure.
 
-2. Elk voorstel tot wijziging van de inleidende artikelen van [aanhangsel 1B](https://wetten.overheid.nl/jci1.3:c:BWBV0004455&bijlage=1B&z=2010-09-20&g=2010-09-20) wordt aangenomen door de Subcommissie voor het wegvervoer van de Economische Commissie voor Europa met een meerderheid van de aanwezige Overeenkomstsluitende Partijen die hun stem uitbrengen. Elke aldus aangenomen wijziging wordt door het secretariaat van de Subcommissie voor het wegvervoer toegezonden aan de Secretaris-Generaal voor kennisgeving aan alle Overeenkomstsluitende Partijen. De wijziging treedt in werking drie maanden na de datum van de kennisgeving aan de Overeenkomstsluitende Partijen.
+2. Elk voorstel tot wijziging van de inleidende artikelen van [aanhangsel 1B](https://wetten.overheid.nl/jci1.3:c:BWBV0004455&bijlage=1B&z=2016-07-05&g=2016-07-05) wordt aangenomen door de Subcommissie voor het wegvervoer van de Economische Commissie voor Europa met een meerderheid van de aanwezige Overeenkomstsluitende Partijen die hun stem uitbrengen. Elke aldus aangenomen wijziging wordt door het secretariaat van de Subcommissie voor het wegvervoer toegezonden aan de Secretaris-Generaal voor kennisgeving aan alle Overeenkomstsluitende Partijen. De wijziging treedt in werking drie maanden na de datum van de kennisgeving aan de Overeenkomstsluitende Partijen.
 
-3. [Aanhangsel 1B](https://wetten.overheid.nl/jci1.3:c:BWBV0004455&bijlage=1B&z=2010-09-20&g=2010-09-20) is een aanpassing ten behoeve van deze Overeenkomst van bijlage IB1)Zoals laatstelijk gewijzigd bij de Verordeningen van de Commissie (EG) Nr. 1360/2002 van 13 juni 2002 (PB L 207 van 5 augustus 2002 (Rectificatie PB L 77 van 13 maart 2004)) en nr. 432/2004 van 5 maart 2004 (PB L 71 van 10 maart 2004).van [Verordening (EEG) 3821/85](31985R3821) zoals aangehaald in [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBV0004455&artikel=10&z=2010-09-20&g=2010-09-20) van deze Overeenkomst en rechtstreeks afhankelijk van de door de Europese Unie in deze bijlage geïntroduceerde ontwikkelingen; bijgevolg is elke wijziging van deze bijlage onder de volgende voorwaarden van toepassing op aanhangsel 1B:
+3. [Aanhangsel 1B](https://wetten.overheid.nl/jci1.3:c:BWBV0004455&bijlage=1B&z=2016-07-05&g=2016-07-05) is een aanpassing ten behoeve van deze Overeenkomst van bijlage IB1)Zoals laatstelijk gewijzigd bij de Verordeningen van de Commissie (EG) Nr. 1360/2002 van 13 juni 2002 (PB L 207 van 5 augustus 2002 (Rectificatie PB L 77 van 13 maart 2004)) en nr. 432/2004 van 5 maart 2004 (PB L 71 van 10 maart 2004).van [Verordening (EEG) 3821/85](31985R3821) zoals aangehaald in [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBV0004455&artikel=10&z=2016-07-05&g=2016-07-05) van deze Overeenkomst en rechtstreeks afhankelijk van de door de Europese Unie in deze bijlage geïntroduceerde ontwikkelingen; bijgevolg is elke wijziging van deze bijlage onder de volgende voorwaarden van toepassing op aanhangsel 1B:
 
 - –. het secretariaat van de Subcommissie voor het wegvervoer van de Economische Commissie voor Europa zal de bevoegde autoriteiten van alle Overeenkomstsluitende Partijen officieel in kennis stellen van de publicatie in het Publicatieblad van de Europese Gemeenschap van de in bijlage IB geïntroduceerde wijzigingen van de EG-verordening en deze informatie tezelfdertijd doen toekomen aan de Secretaris-Generaal tezamen met een afschrift van de desbetreffende teksten.
 
-- –. deze wijzigingen worden drie maanden na de datum van toezending van de informatie aan de Overeenkomstsluitende Partijen van kracht voor [aanhangsel 1B](https://wetten.overheid.nl/jci1.3:c:BWBV0004455&bijlage=1B&z=2010-09-20&g=2010-09-20).
+- –. deze wijzigingen worden drie maanden na de datum van toezending van de informatie aan de Overeenkomstsluitende Partijen van kracht voor [aanhangsel 1B](https://wetten.overheid.nl/jci1.3:c:BWBV0004455&bijlage=1B&z=2016-07-05&g=2016-07-05).
 
-4. Indien een voorstel tot wijziging van de bijlage bij deze Overeenkomst tevens wijziging van [aanhangsel 1B](https://wetten.overheid.nl/jci1.3:c:BWBV0004455&bijlage=1B&z=2010-09-20&g=2010-09-20) inhoudt, mogen de wijzigingen betreffende het aanhangsel niet eerder van kracht worden dan de wijzigingen die de bijlage betreffen. Indien in dit kader tegelijkertijd met wijzigingen van de bijlage wijzigingen van aanhangsel 1B worden gepresenteerd, wordt de datum waarop zij van kracht worden bepaald door de datum die voortvloeit uit de toepassing van de procedures omschreven in [artikel 21](https://wetten.overheid.nl/jci1.3:c:BWBV0004455&artikel=21&z=2010-09-20&g=2010-09-20).
+4. Indien een voorstel tot wijziging van de bijlage bij deze Overeenkomst tevens wijziging van [aanhangsel 1B](https://wetten.overheid.nl/jci1.3:c:BWBV0004455&bijlage=1B&z=2016-07-05&g=2016-07-05) inhoudt, mogen de wijzigingen betreffende het aanhangsel niet eerder van kracht worden dan de wijzigingen die de bijlage betreffen. Indien in dit kader tegelijkertijd met wijzigingen van de bijlage wijzigingen van aanhangsel 1B worden gepresenteerd, wordt de datum waarop zij van kracht worden bepaald door de datum die voortvloeit uit de toepassing van de procedures omschreven in [artikel 21](https://wetten.overheid.nl/jci1.3:c:BWBV0004455&artikel=21&z=2016-07-05&g=2016-07-05).
 
 ## HOOFDSTUK I. TYPEGOEDKEURING
 
@@ -832,9 +832,9 @@ IN WITNESS WHEREOF the undersigned, being duly authorized thereto, have signed t
 
 DONE at Geneva, this first day of July nineteen hundred and seventy, in a single copy, in the English and French languages, the two texts being equally authentic.
 
-##### Artikel 8bis. Afwijkingen van [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBV0004455&artikel=8&z=2010-09-20&g=2010-09-20)
+##### Artikel 8bis. Afwijkingen van [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBV0004455&artikel=8&z=2016-07-05&g=2016-07-05)
 
-1. In afwijking van [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBV0004455&artikel=8&z=2010-09-20&g=2010-09-20) mag, wanneer een bestuurder een voertuig begeleidt dat per veerboot of trein wordt vervoerd, en op voorwaarde dat hij een normale dagelijkse rusttijd neemt, die tijd hooguit tweemaal worden onderbroken door andere activiteiten, mits aan de volgende voorwaarden wordt voldaan:
+1. In afwijking van [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBV0004455&artikel=8&z=2016-07-05&g=2016-07-05) mag, wanneer een bestuurder een voertuig begeleidt dat per veerboot of trein wordt vervoerd, en op voorwaarde dat hij een normale dagelijkse rusttijd neemt, die tijd hooguit tweemaal worden onderbroken door andere activiteiten, mits aan de volgende voorwaarden wordt voldaan:
 
 - a. het gedeelte van de dagelijkse rusttijd dat op het land wordt genoten dient te kunnen worden genomen vóór of na het gedeelte van de dagelijkse rusttijd dat aan boord van de veerboot of in de trein wordt genoten;
 
@@ -848,7 +848,7 @@ Tijdens alle gedeelten van de dagelijkse rusttijd dient de bestuurder te kunnen 
 
 ##### Artikel 12bis. Gestandaardiseerde modelformulieren
 
-1. Ter vergemakkelijking van internationale controles langs de weg worden gestandaardiseerde modelformulieren ingevoerd in de Bijlage bij deze Overeenkomst, die dienovereenkomstig wordt aangevuld met een nieuw Aanhangsel 3; deze formulieren dienen indien nodig te worden gebruikt. Deze formuleren worden ingevoerd of gewijzigd in overeenstemming met de in [artikel 22ter](https://wetten.overheid.nl/jci1.3:c:BWBV0004455&artikel=22ter&z=2010-09-20&g=2010-09-20) vermelde procedure.
+1. Ter vergemakkelijking van internationale controles langs de weg worden gestandaardiseerde modelformulieren ingevoerd in de Bijlage bij deze Overeenkomst, die dienovereenkomstig wordt aangevuld met een nieuw Aanhangsel 3; deze formulieren dienen indien nodig te worden gebruikt. Deze formuleren worden ingevoerd of gewijzigd in overeenstemming met de in [artikel 22ter](https://wetten.overheid.nl/jci1.3:c:BWBV0004455&artikel=22ter&z=2016-07-05&g=2016-07-05) vermelde procedure.
 
 2. De in Aanhangsel 3 getoonde modelformulieren zijn op geen enkele wijze bindend. Indien zij worden gebruikt, dient de inhoud echter te worden gehandhaafd, in het bijzonder de nummering, volgorde en titels van de onderdelen.
 
@@ -858,13 +858,13 @@ Tijdens alle gedeelten van de dagelijkse rusttijd dient de bestuurder te kunnen 
 
 ##### Artikel 13bis. Overgangsbepalingen
 
-De bepalingen bedoeld aan het einde van [artikel 12, paragraaf 7, onderdelen a en b, van de Bijlage](https://wetten.overheid.nl/jci1.3:c:BWBV0004455&hoofdstuk=III&artikel=12&z=2010-09-20&g=2010-09-20) bij deze Overeenkomst zijn van toepassing drie maanden nadat de onderhavige wijziging in werking is getreden.
+De bepalingen bedoeld aan het einde van [artikel 12, paragraaf 7, onderdelen a en b, van de Bijlage](https://wetten.overheid.nl/jci1.3:c:BWBV0004455&hoofdstuk=III&artikel=12&z=2016-07-05&g=2016-07-05) bij deze Overeenkomst zijn van toepassing drie maanden nadat de onderhavige wijziging in werking is getreden.
 
 ##### Artikel 22ter. Procedure voor de wijziging van Aanhangsel 3
 
 1. Aanhangsel 3 bij de Bijlage bij deze Overeenkomst wordt gewijzigd in overeenstemming met de volgende procedure.
 
-2. Elk voorstel tot opneming in Aanhangsel 3 van modelformulieren overeenkomstig [artikel 12bis](https://wetten.overheid.nl/jci1.3:c:BWBV0004455&artikel=12bis&z=2010-09-20&g=2010-09-20) van deze Overeenkomst of tot wijziging van bestaande formulieren wordt, ter aanneming, voorgelegd aan de Subcommissie voor het wegvervoer van de Economische Commissie voor Europa. Het voorstel wordt geacht te zijn aanvaard indien het wordt aangenomen door een meerderheid van de aanwezige Overeenkomstsluitende Partijen die hun stem uitbrengen.
+2. Elk voorstel tot opneming in Aanhangsel 3 van modelformulieren overeenkomstig [artikel 12bis](https://wetten.overheid.nl/jci1.3:c:BWBV0004455&artikel=12bis&z=2016-07-05&g=2016-07-05) van deze Overeenkomst of tot wijziging van bestaande formulieren wordt, ter aanneming, voorgelegd aan de Subcommissie voor het wegvervoer van de Economische Commissie voor Europa. Het voorstel wordt geacht te zijn aanvaard indien het wordt aangenomen door een meerderheid van de aanwezige Overeenkomstsluitende Partijen die hun stem uitbrengen.
 
 Het secretariaat van de Economische Commissie voor Europa stelt de bevoegde autoriteiten van alle Partijen bij deze Overeenkomst officieel op de hoogte van elke aldus aangenomen wijziging en deelt deze informatie tegelijkertijd mede aan de Secretaris-Generaal, vergezeld van een afschrift van de desbetreffende tekst.
 
@@ -880,15 +880,15 @@ Aanvragen voor de goedkeuring van een type controleapparaat of een model van een
 
 ##### Artikel 2
 
-Een Overeenkomstsluitende Partij verleent haar typegoedkeuring aan elk type controleapparaat, aan elk registratieblad- of elk geheugenkaartmodel dat voldoet aan de in aanhangsel 1 of [1B](https://wetten.overheid.nl/jci1.3:c:BWBV0004455&bijlage=1B&z=2010-09-20&g=2010-09-20) bij deze bijlage neergelegde voorschriften, mits de Overeenkomstsluitende Partij in staat is te controleren of de productiemodellen voldoen aan het goedgekeurde prototype.
+Een Overeenkomstsluitende Partij verleent haar typegoedkeuring aan elk type controleapparaat, aan elk registratieblad- of elk geheugenkaartmodel dat voldoet aan de in aanhangsel 1 of [1B](https://wetten.overheid.nl/jci1.3:c:BWBV0004455&bijlage=1B&z=2016-07-05&g=2016-07-05) bij deze bijlage neergelegde voorschriften, mits de Overeenkomstsluitende Partij in staat is te controleren of de productiemodellen voldoen aan het goedgekeurde prototype.
 
-Voor het in [aanhangsel 1B](https://wetten.overheid.nl/jci1.3:c:BWBV0004455&bijlage=1B&z=2010-09-20&g=2010-09-20) bedoelde controleapparaat mag geen typegoedkeuring worden verleend voordat aangetoond is dat het gehele systeem (het controleapparaat zelf, de bestuurderskaart en de elektrische verbindingen met de versnellingsbak) bestand is tegen pogingen tot manipulatie of wijziging van de gegevens omtrent de rijtijden. De benodigde beproevingen om dit vast te stellen worden uitgevoerd door deskundigen die vertrouwd zijn met de nieuwste manipulatietechnieken.
+Voor het in [aanhangsel 1B](https://wetten.overheid.nl/jci1.3:c:BWBV0004455&bijlage=1B&z=2016-07-05&g=2016-07-05) bedoelde controleapparaat mag geen typegoedkeuring worden verleend voordat aangetoond is dat het gehele systeem (het controleapparaat zelf, de bestuurderskaart en de elektrische verbindingen met de versnellingsbak) bestand is tegen pogingen tot manipulatie of wijziging van de gegevens omtrent de rijtijden. De benodigde beproevingen om dit vast te stellen worden uitgevoerd door deskundigen die vertrouwd zijn met de nieuwste manipulatietechnieken.
 
 Voor wijzigingen van of toevoegingen aan een goedgekeurd model is een aanvullende typegoedkeuring vereist van de Overeenkomstsluitende Partij die de oorspronkelijke typegoedkeuring heeft verleend.
 
 ##### Artikel 3
 
-De Overeenkomstsluitende Partijen verlenen de aanvrager een goedkeuringsmerk, dat voldoet aan het model vervat in aanhangsel 2, voor elk type controleapparaat of registratieblad- of geheugenkaartmodel dat zij ingevolge [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBV0004455&hoofdstuk=I&artikel=2&z=2010-09-20&g=2010-09-20) goedkeuren.
+De Overeenkomstsluitende Partijen verlenen de aanvrager een goedkeuringsmerk, dat voldoet aan het model vervat in aanhangsel 2, voor elk type controleapparaat of registratieblad- of geheugenkaartmodel dat zij ingevolge [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBV0004455&hoofdstuk=I&artikel=2&z=2016-07-05&g=2016-07-05) goedkeuren.
 
 ##### Artikel 4
 
@@ -896,7 +896,7 @@ De bevoegde autoriteiten van de Overeenkomstsluitende Partij waarbij een aanvraa
 
 ##### Artikel 5
 
-1. Indien een Overeenkomstsluitende Partij die een typegoedkeuring als voorzien in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBV0004455&hoofdstuk=I&artikel=2&z=2010-09-20&g=2010-09-20) heeft verleend, vaststelt dat een bepaald controleapparaat, registratieblad- of geheugenkaartmodel voorzien van een goedkeuringsmerk dat zij heeft afgegeven niet voldoet aan het door haar goedgekeurde prototype, neemt zij de nodige stappen om te waarborgen dat de productiemodellen voldoen aan het goedgekeurde prototype. De genomen maatregelen kunnen zo nodig leiden tot intrekking van de typegoedkeuring.
+1. Indien een Overeenkomstsluitende Partij die een typegoedkeuring als voorzien in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBV0004455&hoofdstuk=I&artikel=2&z=2016-07-05&g=2016-07-05) heeft verleend, vaststelt dat een bepaald controleapparaat, registratieblad- of geheugenkaartmodel voorzien van een goedkeuringsmerk dat zij heeft afgegeven niet voldoet aan het door haar goedgekeurde prototype, neemt zij de nodige stappen om te waarborgen dat de productiemodellen voldoen aan het goedgekeurde prototype. De genomen maatregelen kunnen zo nodig leiden tot intrekking van de typegoedkeuring.
 
 2. Een Overeenkomstsluitende Partij die een typegoedkeuring heeft verleend, trekt een dergelijke goedkeuring in, indien het goedgekeurde controleapparaat, het registratieblad- of geheugenkaartmodel niet voldoet aan deze bijlage of de aanhangsels daarbij of bij het gebruik ervan algemene defecten vertoont die het ongeschikt maken voor het doel waarvoor het beoogd is.
 
@@ -916,7 +916,7 @@ De bevoegde autoriteiten van de Overeenkomstsluitende Partijen stellen elkaar in
 
 ##### Artikel 7
 
-Een Overeenkomstsluitende Partij kan niet weigeren een voertuig uitgerust met een controleapparaat in te schrijven of het in het verkeer brengen of het gebruik van een dergelijk voertuig verbieden om redenen die verband houden met het feit dat het voertuig met een dergelijk apparaat is uitgerust, indien het controleapparaat is voorzien van het goedkeuringsmerk bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBV0004455&hoofdstuk=I&artikel=3&z=2010-09-20&g=2010-09-20) en het installatieplaatje bedoeld in [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBV0004455&hoofdstuk=II&artikel=9&z=2010-09-20&g=2010-09-20).
+Een Overeenkomstsluitende Partij kan niet weigeren een voertuig uitgerust met een controleapparaat in te schrijven of het in het verkeer brengen of het gebruik van een dergelijk voertuig verbieden om redenen die verband houden met het feit dat het voertuig met een dergelijk apparaat is uitgerust, indien het controleapparaat is voorzien van het goedkeuringsmerk bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBV0004455&hoofdstuk=I&artikel=3&z=2016-07-05&g=2016-07-05) en het installatieplaatje bedoeld in [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBV0004455&hoofdstuk=II&artikel=9&z=2016-07-05&g=2016-07-05).
 
 ##### Artikel 8
 
@@ -936,37 +936,37 @@ Indien een nieuwe kaart wordt afgegeven ter vervanging van een oude, wordt de ni
 
 De Overeenkomstsluitende Partijen nemen alle maatregelen die nodig zijn om te voorkomen dat de kaarten voor erkende installateurs en werkplaatsen worden vervalst.
 
-2. De erkende installateur of werkplaats brengt een bijzonder merk aan op de door hem aangebrachte verzegelingen en vult voor een controleapparaat in overeenstemming met [aanhangsel 1B](https://wetten.overheid.nl/jci1.3:c:BWBV0004455&bijlage=1B&z=2010-09-20&g=2010-09-20) de elektronische beveiligingsgegevens in ten behoeve van het uitvoeren van de authenticatiecontroles. De bevoegde autoriteiten van elke Overeenkomstsluitende Partij houden een register bij van de gebruikte merken en elektronische beveiligingsgegevens en van de kaarten afgegeven aan erkende werkplaatsen en installateurs.
+2. De erkende installateur of werkplaats brengt een bijzonder merk aan op de door hem aangebrachte verzegelingen en vult voor een controleapparaat in overeenstemming met [aanhangsel 1B](https://wetten.overheid.nl/jci1.3:c:BWBV0004455&bijlage=1B&z=2016-07-05&g=2016-07-05) de elektronische beveiligingsgegevens in ten behoeve van het uitvoeren van de authenticatiecontroles. De bevoegde autoriteiten van elke Overeenkomstsluitende Partij houden een register bij van de gebruikte merken en elektronische beveiligingsgegevens en van de kaarten afgegeven aan erkende werkplaatsen en installateurs.
 
 3. De bevoegde autoriteiten van de Overeenkomstsluitende Partijen zenden elkaar hun lijsten toe van de erkende installateurs en werkplaatsen en van de aan hen afgegeven kaarten alsmede kopieën van de merken en van de nodige informatie die betrekking heeft op de gebruikte elektronische beveiligingsgegevens.
 
-4. Teneinde te certificeren dat het controleapparaat is geïnstalleerd in overeenstemming met de voorschriften van deze bijlage, wordt een installatieplaatje aangebracht zoals voorzien in aanhangsel 1 of [1B](https://wetten.overheid.nl/jci1.3:c:BWBV0004455&bijlage=1B&z=2010-09-20&g=2010-09-20).
+4. Teneinde te certificeren dat het controleapparaat is geïnstalleerd in overeenstemming met de voorschriften van deze bijlage, wordt een installatieplaatje aangebracht zoals voorzien in aanhangsel 1 of [1B](https://wetten.overheid.nl/jci1.3:c:BWBV0004455&bijlage=1B&z=2016-07-05&g=2016-07-05).
 
-5. Verzegelingen kunnen door de bevoegde autoriteiten in overeenstemming met het bepaalde in het eerste lid van dit artikel erkende installateurs of werkplaatsen of in de omstandigheden omschreven in aanhangsel 1 of [1B](https://wetten.overheid.nl/jci1.3:c:BWBV0004455&bijlage=1B&z=2010-09-20&g=2010-09-20) van deze bijlage worden verwijderd.
+5. Verzegelingen kunnen door de bevoegde autoriteiten in overeenstemming met het bepaalde in het eerste lid van dit artikel erkende installateurs of werkplaatsen of in de omstandigheden omschreven in aanhangsel 1 of [1B](https://wetten.overheid.nl/jci1.3:c:BWBV0004455&bijlage=1B&z=2016-07-05&g=2016-07-05) van deze bijlage worden verwijderd.
 
 ## HOOFDSTUK III. GEBRUIK VAN APPARATUUR
 
 ##### Artikel 10
 
-De werkgever en de bestuurders zorgen voor het correct functioneren en juiste gebruik van enerzijds het controleapparaat en anderzijds de bestuurderskaart indien een bestuurder een met een controleapparaat in overeenstemming met [aanhangsel 1B](https://wetten.overheid.nl/jci1.3:c:BWBV0004455&bijlage=1B&z=2010-09-20&g=2010-09-20) uitgerust voertuig dient te besturen.
+De werkgever en de bestuurders zorgen voor het correct functioneren en juiste gebruik van enerzijds het controleapparaat en anderzijds de bestuurderskaart indien een bestuurder een met een controleapparaat in overeenstemming met [aanhangsel 1B](https://wetten.overheid.nl/jci1.3:c:BWBV0004455&bijlage=1B&z=2016-07-05&g=2016-07-05) uitgerust voertuig dient te besturen.
 
 ##### Artikel 11
 
 1. De werkgever geeft een voldoende aantal registratiebladen af aan de bestuurders van voertuigen die uitgerust zijn met het controleapparaat in overeenstemming met aanhangsel 1, daarbij rekening houdend met het feit dat deze bladen persoonsgebonden zijn, de duur van het gebruik alsmede met de mogelijkheid dat bladen beschadigd raken of worden ingenomen door een inspecteur en dat deze moeten worden vervangen. De werkgever geeft aan de bestuurders alleen bladen van een goedgekeurd model af die geschikt zijn voor gebruik in het in het voertuig geïnstalleerde controleapparaat.
 
-Indien het voertuig uitgerust is met een controleapparaat overeenkomstig [aanhangsel 1B](https://wetten.overheid.nl/jci1.3:c:BWBV0004455&bijlage=1B&z=2010-09-20&g=2010-09-20), zorgen de werkgever en de bestuurder ervoor dat, rekening houdend met de duur van het gebruik, het afdrukken op verzoek bedoeld in aanhangsel 1B correct kan geschieden bij een inspectie.
+Indien het voertuig uitgerust is met een controleapparaat overeenkomstig [aanhangsel 1B](https://wetten.overheid.nl/jci1.3:c:BWBV0004455&bijlage=1B&z=2016-07-05&g=2016-07-05), zorgen de werkgever en de bestuurder ervoor dat, rekening houdend met de duur van het gebruik, het afdrukken op verzoek bedoeld in aanhangsel 1B correct kan geschieden bij een inspectie.
 
-- a. De onderneming bewaart de registratiebladen en afdrukken, wanneer afdrukken zijn gemaakt ter naleving van [artikel 12, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBV0004455&hoofdstuk=III&artikel=12&z=2010-09-20&g=2010-09-20), in chronologische volgorde en in leesbare vorm gedurende ten minste een jaar nadat zij zijn gebruikt en overhandigt afschriften ervan aan de betrokken bestuurders die daarom verzoeken. De onderneming overhandigt tevens afschriften van overgebrachte gegevens van de bestuurderskaarten aan de betrokken bestuurders die daarom verzoeken alsmede de afgedrukte papieren van deze afschriften. De registratiebladen, afdrukken en overgebrachte gegevens worden getoond of overgelegd op verzoek van een bevoegde functionaris die belast is met de controle.
+- a. De onderneming bewaart de registratiebladen en afdrukken, wanneer afdrukken zijn gemaakt ter naleving van [artikel 12, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBV0004455&hoofdstuk=III&artikel=12&z=2016-07-05&g=2016-07-05), in chronologische volgorde en in leesbare vorm gedurende ten minste een jaar nadat zij zijn gebruikt en overhandigt afschriften ervan aan de betrokken bestuurders die daarom verzoeken. De onderneming overhandigt tevens afschriften van overgebrachte gegevens van de bestuurderskaarten aan de betrokken bestuurders die daarom verzoeken alsmede de afgedrukte papieren van deze afschriften. De registratiebladen, afdrukken en overgebrachte gegevens worden getoond of overgelegd op verzoek van een bevoegde functionaris die belast is met de controle.
 
-- b. Een onderneming die gebruik maakt van voertuigen die zijn uitgerust met een controle apparaat dat voldoet aan [Aanhangsel 1B](https://wetten.overheid.nl/jci1.3:c:BWBV0004455&bijlage=1B&z=2010-09-20&g=2010-09-20) van deze Bijlage en die binnen het toepassingsgebied van deze Overeenkomst vallen:
+- b. Een onderneming die gebruik maakt van voertuigen die zijn uitgerust met een controle apparaat dat voldoet aan [Aanhangsel 1B](https://wetten.overheid.nl/jci1.3:c:BWBV0004455&bijlage=1B&z=2016-07-05&g=2016-07-05) van deze Bijlage en die binnen het toepassingsgebied van deze Overeenkomst vallen:
 
 - i. waarborgt dat alle relevante gegevens zo vaak als door de Overeenkomstsluitende Partij is voorgeschreven, van de voertuigunit en de bestuurderskaart worden overgebracht en dat de relevante gegevens frequenter over worden gebracht om te waarborgen dat alle door of voor die onderneming verrichte activiteiten worden overgebracht;
 
 - ii. waarborgt dat alle gegevens die van de voertuigunit en de bestuurderskaart worden overgebracht gedurende ten minste twaalf maanden na de vastlegging ervan worden bewaard en op verzoek van een met de controle belaste functionaris bij de vestigingen van de onderneming rechtstreeks of op afstand toegankelijk zijn.
 
-2. Voor de toepassing van deze subparagraaf wordt „overgebracht” uitgelegd in overeenstemming met de definitie vervat in [Aanhangsel 1B](https://wetten.overheid.nl/jci1.3:c:BWBV0004455&bijlage=1B&z=2010-09-20&g=2010-09-20), Hoofdstuk I, onderdeel s.
+2. Voor de toepassing van deze subparagraaf wordt „overgebracht” uitgelegd in overeenstemming met de definitie vervat in [Aanhangsel 1B](https://wetten.overheid.nl/jci1.3:c:BWBV0004455&bijlage=1B&z=2016-07-05&g=2016-07-05), Hoofdstuk I, onderdeel s.
 
-3. De bestuurderskaart zoals omschreven in [aanhangsel 1B](https://wetten.overheid.nl/jci1.3:c:BWBV0004455&bijlage=1B&z=2010-09-20&g=2010-09-20) wordt, op verzoek van de bestuurder, afgegeven door de bevoegde autoriteit van de Overeenkomstsluitende Partij waar de bestuurder zijn normale woonplaats heeft.
+3. De bestuurderskaart zoals omschreven in [aanhangsel 1B](https://wetten.overheid.nl/jci1.3:c:BWBV0004455&bijlage=1B&z=2016-07-05&g=2016-07-05) wordt, op verzoek van de bestuurder, afgegeven door de bevoegde autoriteit van de Overeenkomstsluitende Partij waar de bestuurder zijn normale woonplaats heeft.
 
 Een Overeenkomstsluitende Partij kan van elke bestuurder op wie de bepalingen van de Overeenkomst van toepassing zijn en die zijn normale woonplaats op haar grondgebied heeft verlangen dat hij een bestuurderskaart bezit.
 
@@ -978,7 +978,7 @@ Een Overeenkomstsluitende Partij kan van elke bestuurder op wie de bepalingen va
 
 - d. De bevoegde autoriteit van een Overeenkomstsluitende Partij die een kaart afgeeft, gaat, voorzover dit mogelijk is, na of de aanvrager niet reeds beschikt over een geldige bestuurderskaart.
 
-- a. De bevoegde autoriteit van de Overeenkomstsluitende Partij voorziet de bestuurderskaart in overeenstemming met de bepalingen van [aanhangsel 1B](https://wetten.overheid.nl/jci1.3:c:BWBV0004455&bijlage=1B&z=2010-09-20&g=2010-09-20) van de persoonsgegevens. De duur van de administratieve geldigheid van de bestuurderskaart mag niet langer zijn dan vijf jaar. De bestuurder mag slechts één geldige bestuurderskaart bezitten. De bestuurder is alleen bevoegd tot het gebruik van zijn eigen, van zijn persoonsgegevens voorziene bestuurderskaart. De bestuurder mag geen defecte of verlopen bestuurderskaart gebruiken. Indien een nieuwe bestuurderskaart wordt verstrekt ter vervanging van een oude, wordt de nieuwe kaart voorzien van hetzelfde bestuurderskaartnummer, maar het indexnummer wordt met één verhoogd. De autoriteit die de kaarten afgeeft, houdt een register bij van afgegeven, gestolen, verloren of defecte bestuurderskaarten voor een termijn die ten minste gelijk is aan hun termijn van geldigheid. Indien de bestuurderskaart beschadigd is, slecht functioneert of verloren of ontvreemd is, verstrekt de autoriteit binnen vijf werkdagen na de ontvangst van een gedetailleerd verzoek daartoe een vervangende kaart. Bij een verzoek om verlenging van een kaart waarvan de einddatum van de termijn van geldigheid nadert, verstrekt de autoriteit voor die datum een nieuwe kaart, mits zij het verzoek binnen de in [artikel 12, eerste lid, vierde alinea](https://wetten.overheid.nl/jci1.3:c:BWBV0004455&hoofdstuk=III&artikel=12&z=2010-09-20&g=2010-09-20) neergelegde termijn heeft ontvangen.
+- a. De bevoegde autoriteit van de Overeenkomstsluitende Partij voorziet de bestuurderskaart in overeenstemming met de bepalingen van [aanhangsel 1B](https://wetten.overheid.nl/jci1.3:c:BWBV0004455&bijlage=1B&z=2016-07-05&g=2016-07-05) van de persoonsgegevens. De duur van de administratieve geldigheid van de bestuurderskaart mag niet langer zijn dan vijf jaar. De bestuurder mag slechts één geldige bestuurderskaart bezitten. De bestuurder is alleen bevoegd tot het gebruik van zijn eigen, van zijn persoonsgegevens voorziene bestuurderskaart. De bestuurder mag geen defecte of verlopen bestuurderskaart gebruiken. Indien een nieuwe bestuurderskaart wordt verstrekt ter vervanging van een oude, wordt de nieuwe kaart voorzien van hetzelfde bestuurderskaartnummer, maar het indexnummer wordt met één verhoogd. De autoriteit die de kaarten afgeeft, houdt een register bij van afgegeven, gestolen, verloren of defecte bestuurderskaarten voor een termijn die ten minste gelijk is aan hun termijn van geldigheid. Indien de bestuurderskaart beschadigd is, slecht functioneert of verloren of ontvreemd is, verstrekt de autoriteit binnen vijf werkdagen na de ontvangst van een gedetailleerd verzoek daartoe een vervangende kaart. Bij een verzoek om verlenging van een kaart waarvan de einddatum van de termijn van geldigheid nadert, verstrekt de autoriteit voor die datum een nieuwe kaart, mits zij het verzoek binnen de in [artikel 12, eerste lid, vierde alinea](https://wetten.overheid.nl/jci1.3:c:BWBV0004455&hoofdstuk=III&artikel=12&z=2016-07-05&g=2016-07-05) neergelegde termijn heeft ontvangen.
 
 - b. Bestuurderskaarten worden uitsluitend verstrekt aan aanvragers op wie de bepalingen van de Overeenkomst van toepassing zijn.
 
@@ -990,7 +990,7 @@ Een Overeenkomstsluitende Partij kan van elke bestuurder op wie de bepalingen va
 
 - f. De Overeenkomstsluitende Partijen nemen alle maatregelen die nodig zijn om te voorkomen dat bestuurderskaarten worden vervalst.
 
-5. De Overeenkomstsluitende Partijen waarborgen dat de gegevens die nodig zijn om de naleving van deze Overeenkomst te volgen en die vastgelegd en opgeslagen kunnen worden door het controleapparaat in overeenstemming met [aanhangsel 1B](https://wetten.overheid.nl/jci1.3:c:BWBV0004455&bijlage=1B&z=2010-09-20&g=2010-09-20) bij deze bijlage gedurende 365 dagen na de datum van vastlegging kunnen worden opgeslagen en toegankelijk gemaakt kunnen worden onder voorwaarden die de veiligheid en juistheid van de gegevens waarborgen.
+5. De Overeenkomstsluitende Partijen waarborgen dat de gegevens die nodig zijn om de naleving van deze Overeenkomst te volgen en die vastgelegd en opgeslagen kunnen worden door het controleapparaat in overeenstemming met [aanhangsel 1B](https://wetten.overheid.nl/jci1.3:c:BWBV0004455&bijlage=1B&z=2016-07-05&g=2016-07-05) bij deze bijlage gedurende 365 dagen na de datum van vastlegging kunnen worden opgeslagen en toegankelijk gemaakt kunnen worden onder voorwaarden die de veiligheid en juistheid van de gegevens waarborgen.
 
 De Overeenkomstsluitende Partijen nemen alle maatregelen die nodig zijn om te waarborgen dat het doorverkopen of uitschakelen van een controleapparaat niet ten koste kan gaan van de correcte toepassing van dit lid.
 
@@ -1004,13 +1004,13 @@ Indien de bestuurderskaart beschadigd is, slecht functioneert of verloren of ont
 
 Indien een bestuurder zijn bestuurderskaart wenst te verlengen, dient hij uiterlijk 15 werkdagen voor het verstrijken van de geldigheid van de kaart een verzoek in bij de bevoegde autoriteiten van de Overeenkomstsluitende Partij waarin hij zijn normale woonplaats heeft.
 
-- a. De bestuurders dienen voor elke dag waarop zij rijden de registratiebladen of bestuurderskaart te gebruiken vanaf het tijdstip waarop zij het voertuig overnemen. Het registratieblad of de bestuurderskaart wordt niet uit het apparaat genomen vóór het einde van de dagelijkse werktijd, tenzij dit anderszins is toegestaan. Een registratieblad of bestuurderskaart mag niet worden gebruikt voor een langere periode dan waarvoor deze is bedoeld. Wanneer zich aan boord van een voertuig dat is uitgerust met een controle apparaat in overeenstemming met [Aanhangsel 1B](https://wetten.overheid.nl/jci1.3:c:BWBV0004455&bijlage=1B&z=2010-09-20&g=2010-09-20) meer dan één bestuurder bevindt, dient elke bestuurder ervoor te zorgen dat zijn bestuurderskaart in de juiste sleuf in de tachograaf wordt geplaatst.
+- a. De bestuurders dienen voor elke dag waarop zij rijden de registratiebladen of bestuurderskaart te gebruiken vanaf het tijdstip waarop zij het voertuig overnemen. Het registratieblad of de bestuurderskaart wordt niet uit het apparaat genomen vóór het einde van de dagelijkse werktijd, tenzij dit anderszins is toegestaan. Een registratieblad of bestuurderskaart mag niet worden gebruikt voor een langere periode dan waarvoor deze is bedoeld. Wanneer zich aan boord van een voertuig dat is uitgerust met een controle apparaat in overeenstemming met [Aanhangsel 1B](https://wetten.overheid.nl/jci1.3:c:BWBV0004455&bijlage=1B&z=2016-07-05&g=2016-07-05) meer dan één bestuurder bevindt, dient elke bestuurder ervoor te zorgen dat zijn bestuurderskaart in de juiste sleuf in de tachograaf wordt geplaatst.
 
 - b. Wanneer een bestuurder na afwezigheid uit het voertuig niet in staat is het in het voertuig geïnstalleerde controle apparaat te gebruiken, dienen de tijdvakken vermeld in paragraaf 3, tweede inspringing, b, c en d hieronder:
 
 - i. indien het voertuig is uitgerust met een controle apparaat in overeenstemming met Aanhangsel 1, leesbaar en zonder bevuiling van het blad, hetzij handmatig, via automatische opname of andere middelen op het registratieblad te worden aangetekend; of
 
-- ii. indien het voertuig is uitgerust met een controle apparaat in overeenstemming met [Aanhangsel 1B](https://wetten.overheid.nl/jci1.3:c:BWBV0004455&bijlage=1B&z=2010-09-20&g=2010-09-20), met gebruikmaking van de in controle apparaat aanwezige handmatige invoervoorziening op de bestuurderskaart te worden aangetekend.
+- ii. indien het voertuig is uitgerust met een controle apparaat in overeenstemming met [Aanhangsel 1B](https://wetten.overheid.nl/jci1.3:c:BWBV0004455&bijlage=1B&z=2016-07-05&g=2016-07-05), met gebruikmaking van de in controle apparaat aanwezige handmatige invoervoorziening op de bestuurderskaart te worden aangetekend.
 
 - c. De bestuurders brengen op de registratiebladen de noodzakelijke wijzigingen aan indien er aan boord van het voertuig meer dan één bestuurder is en wel zodanig dat de in paragraaf 3, tweede inspringing, onderdelen b, c en d hieronder, bedoelde informatie wordt geregistreerd op het registratieblad van de bestuurder die daadwerkelijk rijdt.
 
@@ -1056,7 +1056,7 @@ worden geregistreerd.
 
 - e. indien relevant, het tijdstip waarop van voertuig werd gewisseld.
 
-5 bis. De bestuurder voert in het controleapparaat in overeenstemming met [aanhangsel 1B](https://wetten.overheid.nl/jci1.3:c:BWBV0004455&bijlage=1B&z=2010-09-20&g=2010-09-20) de symbolen in van de landen waarin hij zijn dagelijkse werktijd begint en eindigt.
+5 bis. De bestuurder voert in het controleapparaat in overeenstemming met [aanhangsel 1B](https://wetten.overheid.nl/jci1.3:c:BWBV0004455&bijlage=1B&z=2016-07-05&g=2016-07-05) de symbolen in van de landen waarin hij zijn dagelijkse werktijd begint en eindigt.
 
 Het invoeren van de bovengenoemde gegevens wordt geactiveerd door de bestuurder en kan geheel handmatig of automatisch geschieden, indien het controleapparaat gekoppeld is aan een satellietvolgsysteem.
 
@@ -1064,7 +1064,7 @@ Het invoeren van de bovengenoemde gegevens wordt geactiveerd door de bestuurder 
 
 Het apparaat is voorts zodanig vormgegeven dat het zonder de behuizing te openen mogelijk is te controleren of er registratie plaatsvindt.
 
-- a. Een bestuurder die een voertuig bestuurt dat is uitgerust met een controle apparaat in overeenstemming met Aanhangsel 1, dient te allen tijde op verzoek van een functionaris die belast is met de controle het volgende te tonen: Vanaf de in [artikel 13bis](https://wetten.overheid.nl/jci1.3:c:BWBV0004455&artikel=13bis&z=2010-09-20&g=2010-09-20) van deze Overeenkomst vermelde toepassingsdatum dienen de onder i en iii vermelde tijdvakken betrekking te hebben op de huidige dag en de 28 voorgaande kalenderdagen.
+- a. Een bestuurder die een voertuig bestuurt dat is uitgerust met een controle apparaat in overeenstemming met Aanhangsel 1, dient te allen tijde op verzoek van een functionaris die belast is met de controle het volgende te tonen: Vanaf de in [artikel 13bis](https://wetten.overheid.nl/jci1.3:c:BWBV0004455&artikel=13bis&z=2016-07-05&g=2016-07-05) van deze Overeenkomst vermelde toepassingsdatum dienen de onder i en iii vermelde tijdvakken betrekking te hebben op de huidige dag en de 28 voorgaande kalenderdagen.
 
 - i. de registratiebladen van de lopende week en die welke de bestuurder de 15 voorgaande kalenderdagen heeft gebruikt;
 
@@ -1072,7 +1072,7 @@ Het apparaat is voorts zodanig vormgegeven dat het zonder de behuizing te openen
 
 - iii. elke handmatige registratie en afdruk gemaakt tijdens de lopende week en de 15 voorgaande kalenderdagen, als vereist ingevolge deze Overeenkomst.
 
-- b. Een bestuurder die een voertuig bestuurt dat is uitgerust met een controle apparaat in overeenstemming met [Aanhangsel 1B](https://wetten.overheid.nl/jci1.3:c:BWBV0004455&bijlage=1B&z=2010-09-20&g=2010-09-20), dient te allen tijde op verzoek van een functionaris die belast is met de controle het volgende te tonen: Vanaf de in [artikel 13bis](https://wetten.overheid.nl/jci1.3:c:BWBV0004455&artikel=13bis&z=2010-09-20&g=2010-09-20) van deze Overeenkomst vermelde toepassingsdatum dienen de onder ii vermelde tijdvakken betrekking te hebben op de huidige dag en de 28 voorgaande kalenderdagen.
+- b. Een bestuurder die een voertuig bestuurt dat is uitgerust met een controle apparaat in overeenstemming met [Aanhangsel 1B](https://wetten.overheid.nl/jci1.3:c:BWBV0004455&bijlage=1B&z=2016-07-05&g=2016-07-05), dient te allen tijde op verzoek van een functionaris die belast is met de controle het volgende te tonen: Vanaf de in [artikel 13bis](https://wetten.overheid.nl/jci1.3:c:BWBV0004455&artikel=13bis&z=2016-07-05&g=2016-07-05) van deze Overeenkomst vermelde toepassingsdatum dienen de onder ii vermelde tijdvakken betrekking te hebben op de huidige dag en de 28 voorgaande kalenderdagen.
 
 - i. de bestuurderskaart waarvan hij de houder is;
 
@@ -1080,9 +1080,9 @@ Het apparaat is voorts zodanig vormgegeven dat het zonder de behuizing te openen
 
 - iii. de registratiebladen die op hetzelfde tijdvak betrekking hebben als het blad bedoeld in de voorgaande subparagraaf, gedurende hetwelk hij een voertuig bestuurde dat is uitgerust met een controle apparaat in overeenstemming met Aanhangsel 1.
 
-- c. Een bevoegd functionaris die belast is met de inspectie kan de naleving van de Overeenkomst controleren door middel van een onderzoek van de registratiebladen, van de getoonde of afgedrukte gegevens die door het controleapparaat zijn geregistreerd of via de bestuurderskaart of bij ontbreken daarvan door een onderzoek van andere ondersteunende documenten, die het niet-naleven van een bepaling zoals die welke zijn neergelegd in [artikel 13, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0004455&hoofdstuk=III&artikel=13&z=2010-09-20&g=2010-09-20), rechtvaardigen.
+- c. Een bevoegd functionaris die belast is met de inspectie kan de naleving van de Overeenkomst controleren door middel van een onderzoek van de registratiebladen, van de getoonde of afgedrukte gegevens die door het controleapparaat zijn geregistreerd of via de bestuurderskaart of bij ontbreken daarvan door een onderzoek van andere ondersteunende documenten, die het niet-naleven van een bepaling zoals die welke zijn neergelegd in [artikel 13, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0004455&hoofdstuk=III&artikel=13&z=2016-07-05&g=2016-07-05), rechtvaardigen.
 
-8. Het is verboden gegevens te vervalsen, uit te wissen of te vernietigen, die zijn vastgelegd op het registratieblad, opgeslagen in het controleapparaat of op de bestuurderskaart of op afdrukken van het controleapparaat zoals omschreven in [aanhangsel 1B](https://wetten.overheid.nl/jci1.3:c:BWBV0004455&bijlage=1B&z=2010-09-20&g=2010-09-20). Hetzelfde geldt voor elke manipulatie met het controleapparaat, het registratieblad of de bestuurderskaart die kan leiden tot vervalsing, achterwege laten of vernietiging van gegevens en/of afgedrukte informatie. Er mag geen enkel apparaat in het voertuig aanwezig zijn dat gebruikt zou kunnen worden voor de genoemde vormen van manipulatie.
+8. Het is verboden gegevens te vervalsen, uit te wissen of te vernietigen, die zijn vastgelegd op het registratieblad, opgeslagen in het controleapparaat of op de bestuurderskaart of op afdrukken van het controleapparaat zoals omschreven in [aanhangsel 1B](https://wetten.overheid.nl/jci1.3:c:BWBV0004455&bijlage=1B&z=2016-07-05&g=2016-07-05). Hetzelfde geldt voor elke manipulatie met het controleapparaat, het registratieblad of de bestuurderskaart die kan leiden tot vervalsing, achterwege laten of vernietiging van gegevens en/of afgedrukte informatie. Er mag geen enkel apparaat in het voertuig aanwezig zijn dat gebruikt zou kunnen worden voor de genoemde vormen van manipulatie.
 
 ##### Artikel 13
 
@@ -1100,7 +1100,7 @@ Op basis van door de Overeenkomstsluitende Partijen genomen maatregelen kunnen d
 
 - –. gegevens waarmee de bestuurder kan worden geïdentificeerd (naam en nummer van zijn rijbewijs of naam en nummer van zijn bestuurderskaart), alsmede zijn handtekening;
 
-- –. de in [artikel 12, paragraaf 3, tweede inspringing, onderdelen b, c en d](https://wetten.overheid.nl/jci1.3:c:BWBV0004455&hoofdstuk=III&artikel=12&z=2010-09-20&g=2010-09-20) bedoelde tijdvakken;
+- –. de in [artikel 12, paragraaf 3, tweede inspringing, onderdelen b, c en d](https://wetten.overheid.nl/jci1.3:c:BWBV0004455&hoofdstuk=III&artikel=12&z=2016-07-05&g=2016-07-05) bedoelde tijdvakken;
 
 - ii. hij drukt na beëindiging van zijn reis de informatie af die betrekking heeft op de tijdvakken die door het controle apparaat zijn geregistreerd, registreert alle tijdvakken van andere werkzaamheden, beschikbaarheid en de rust genomen sedert de bij de aanvang van de reis gemaakte afdruk, wanneer deze niet door de tachograaf zijn geregistreerd, en noteert in dat document de gegevens waarmee de bestuurder kan worden geïdentificeerd (naam en nummer van zijn rijbewijs of naam en nummer van zijn bestuurderskaart), alsmede zijn handtekening.
 
@@ -1114,7 +1114,7 @@ Indien de autoriteiten van de Overeenkomstsluitende Partij waar de bestuurder zi
 
 ##### Artikel 14
 
-1. Ingevolge [artikel 13, tweede lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBV0004455&artikel=13&z=2010-09-20&g=2010-09-20), van de Overeenkomst, dienen bestuurders die een in een Overeenkomstsluitende Partij ingeschreven voertuig besturen en aan wie de bevoegde autoriteiten nog geen bestuurderskaart hebben kunnen afgeven en die gedurende de overgangsperiode bedoeld in het eerste lid van dit artikel deelnemen aan het internationaal verkeer met een voertuig dat is uitgerust met een digitaal controleapparaat overeenkomstig [aanhangsel 1B](https://wetten.overheid.nl/jci1.3:c:BWBV0004455&bijlage=1B&z=2010-09-20&g=2010-09-20) bij de bijlage, te allen tijde wanneer een functionaris belast met de inspectie daarom verzoekt in staat te zijn de afdrukken en/of registratiebladen te tonen van de lopende week en in elk geval de afdruk en/of het registratieblad van de laatste dag waarop zij reden in de voorafgaande week.
+1. Ingevolge [artikel 13, tweede lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBV0004455&artikel=13&z=2016-07-05&g=2016-07-05), van de Overeenkomst, dienen bestuurders die een in een Overeenkomstsluitende Partij ingeschreven voertuig besturen en aan wie de bevoegde autoriteiten nog geen bestuurderskaart hebben kunnen afgeven en die gedurende de overgangsperiode bedoeld in het eerste lid van dit artikel deelnemen aan het internationaal verkeer met een voertuig dat is uitgerust met een digitaal controleapparaat overeenkomstig [aanhangsel 1B](https://wetten.overheid.nl/jci1.3:c:BWBV0004455&bijlage=1B&z=2016-07-05&g=2016-07-05) bij de bijlage, te allen tijde wanneer een functionaris belast met de inspectie daarom verzoekt in staat te zijn de afdrukken en/of registratiebladen te tonen van de lopende week en in elk geval de afdruk en/of het registratieblad van de laatste dag waarop zij reden in de voorafgaande week.
 
 2. Het eerste lid is niet van toepassing op bestuurders van voertuigen die ingeschreven zijn in een land waar een bestuurderskaart verplicht is. De bestuurders tonen evenwel te allen tijde afdrukken indien een functionaris belast met de inspectie daarom verzoekt.
 
@@ -1124,13 +1124,13 @@ Indien de autoriteiten van de Overeenkomstsluitende Partij waar de bestuurder zi
 
 1. Aangezien dit aanhangsel een aanpassing vormt van aanhangsel IB van [Verordening (EEG) nr. 3821/85](31985R3821) van 20 december 1985 betreffende het controleapparaat in het wegvervoer1)Zoals laatstelijk gewijzigd bij de Verordening van de Raad (EG) nr. 2135/98 van 24 september 1998 (PB L 274 van 9 oktober 1998 alsmede bij de Verordeningen van de Commissie (EG) nr. 1360/2002 van 13 juni 2002 (PB L 207 van 5 augustus 2002 (Rectificatie PB L 77 van 13 maart 2004)) en nr. 432/2004 van 5 maart 2004 (PB L 71 van 10 maart 2004)., wordt de inhoud van deze bijlage vanwege de omvang en het zeer technische karakter niet opnieuw weergegeven in de AETR. Voor de complete officiële tekst en de achtereenvolgende wijzigingen worden de Overeenkomstsluitende Partijen verwezen naar het Publicatieblad van de Europese Unie.
 
-De inhoud van dit[aanhangsel 1B](https://wetten.overheid.nl/jci1.3:c:BWBV0004455&bijlage=1B&z=2010-09-20&g=2010-09-20) is daarom beperkt tot een inleiding waarin de verwijzingen naar de relevante teksten van de Europese Unie en uit de Publicatiebladen waarin zij zijn gepubliceerd geciteerd, waarbij door middel van kruisverwijzingen de nadruk wordt gelegd op de specifieke punten waarop de bijlage moest worden aangepast aan de context van de AETR.
+De inhoud van dit[aanhangsel 1B](https://wetten.overheid.nl/jci1.3:c:BWBV0004455&bijlage=1B&z=2016-07-05&g=2016-07-05) is daarom beperkt tot een inleiding waarin de verwijzingen naar de relevante teksten van de Europese Unie en uit de Publicatiebladen waarin zij zijn gepubliceerd geciteerd, waarbij door middel van kruisverwijzingen de nadruk wordt gelegd op de specifieke punten waarop de bijlage moest worden aangepast aan de context van de AETR.
 
 2. Teneinde overleg over die bijlage en de ter wille van de AETR doorgevoerde aanpassingen alsmede een algemeen overzicht van de tekst mogelijk te maken zal het secretariaat van de Economische Commissie voor Europa van de Verenigde Naties een geconsolideerde versie opstellen. Deze versie zal evenwel geen rechtskracht hebben. Deze versie, die is opgesteld in de officiële talen van de VN-ECE, zal wanneer nodig worden geactualiseerd.
 
 ##### Artikel 2. Inleidende bepalingen tot aanhangsel 1B
 
-1. In overeenstemming met het eerste lid van [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBV0004455&bijlage=1B&artikel=1&z=2010-09-20&g=2010-09-20) hierboven, worden de Overeenkomstsluitende Partijen uitgenodigd, ten behoeve van overleg over aanhangsel IB, nota te nemen van de Verordeningen van de Commissie, nr. 1360/2002 van 13 juni 2002 en van nr. 432/2004 van 5 maart 2004 (zie de voetnoot hieronder voor de data van publicatie in het Publicatieblad van de Europese Unie), waarbij Verordening van de Raad (EEG) nr. 3821/85 betreffende het controleapparaat in het wegvervoer respectievelijk voor de zevende en achtste keer wordt aangepast aan de vooruitgang van de techniek.
+1. In overeenstemming met het eerste lid van [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBV0004455&bijlage=1B&artikel=1&z=2016-07-05&g=2016-07-05) hierboven, worden de Overeenkomstsluitende Partijen uitgenodigd, ten behoeve van overleg over aanhangsel IB, nota te nemen van de Verordeningen van de Commissie, nr. 1360/2002 van 13 juni 2002 en van nr. 432/2004 van 5 maart 2004 (zie de voetnoot hieronder voor de data van publicatie in het Publicatieblad van de Europese Unie), waarbij Verordening van de Raad (EEG) nr. 3821/85 betreffende het controleapparaat in het wegvervoer respectievelijk voor de zevende en achtste keer wordt aangepast aan de vooruitgang van de techniek.
 
 2. Voor de toepassing van aanhangsel 1B:
 
