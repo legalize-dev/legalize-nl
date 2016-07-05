@@ -4,7 +4,7 @@ identifier: "BWBR0015828"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-02-07"
-last_updated: "2016-01-01"
+last_updated: "2016-07-05"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0015828"
 soort: "ministeriele-regeling"
@@ -102,9 +102,9 @@ Alle bedragen genoemd in deze regeling zijn onderworpen aan de verschuldigde loo
 
 ##### Artikel 3. Toelage bedrijfshulpverlening en functietoeslag
 
-1. Aan de militair of ambtenaar die in de periode waarvoor hij als bedrijfshulpverlener was aangewezen, aan ten minste 80% van de geplande bedrijfshulpverleningslessen en -oefeningen heeft deelgenomen, wordt door de commandant eenmaal per kalenderjaar een toelage bedrijfshulpverlening zoals bepaald in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0015828&artikel=4&z=2007-01-01&g=2016-01-01) toegekend.
+1. Aan de militair of ambtenaar die in de periode waarvoor hij als bedrijfshulpverlener was aangewezen, aan ten minste 80% van de geplande bedrijfshulpverleningslessen en -oefeningen heeft deelgenomen, wordt door de commandant eenmaal per kalenderjaar een toelage bedrijfshulpverlening zoals bepaald in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0015828&artikel=4&z=2016-07-05&g=2016-07-05) toegekend.
 
-2. Indien aan de bedrijfshulpverlener met specialisatie, de ploegleider en het hoofd bedrijfshulpverlening de toelage bedrijfshulpverlening, bedoeld in het eerste lid, is toegekend, wordt hen door de commandant tevens eenmaal per kalenderjaar een functietoeslag zoals bepaald in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0015828&artikel=5&z=2007-01-01&g=2016-01-01) toegekend.
+2. Indien aan de bedrijfshulpverlener met specialisatie, de ploegleider en het hoofd bedrijfshulpverlening de toelage bedrijfshulpverlening, bedoeld in het eerste lid, is toegekend, wordt hen door de commandant tevens eenmaal per kalenderjaar een functietoeslag zoals bepaald in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0015828&artikel=5&z=2016-07-05&g=2016-07-05) toegekend.
 
 3. De toekenning van de toelage bedrijfshulpverlening en de functietoeslag geschiedt jaarlijks in de maand december met betrekking tot het lopende kalenderjaar, tenzij de periode waarvoor de militair of ambtenaar als bedrijfshulpverlener was aangewezen eerder eindigt.
 
@@ -118,19 +118,19 @@ Per kalenderjaar bedraagt de toelage bedrijfshulpverlening voor de bedrijfshulpv
 
 - a. minder dan 190 werkdagen daadwerkelijk inzetbaar is geweest: € 160;
 
-- b. ten minste 190 werkdagen daadwerkelijk inzetbaar is geweest: € 250.
+- b. ten minste 190 werkdagen daadwerkelijk inzetbaar is geweest: € 268,09.
 
 ##### Artikel 5. Bedrag functietoeslag
 
 Per kalenderjaar bedraagt de functietoeslag
 
-- a. voor de bedrijfshulpverlener met specialisatie: € 125;
+- a. voor de bedrijfshulpverlener met specialisatie: € 134,04;
 
-- b. voor de bedrijfshulpverlener die tevens als ploegleider is aangewezen: € 140;
+- b. voor de bedrijfshulpverlener die tevens als ploegleider is aangewezen: € 150,12;
 
-- c. voor de bedrijfshulpverlener met specialisatie die tevens als ploegleider is aangewezen: € 265;
+- c. voor de bedrijfshulpverlener met specialisatie die tevens als ploegleider is aangewezen: € 284,18;
 
-- d. voor het hoofd bedrijfshulpverlening: € 275.
+- d. voor het hoofd bedrijfshulpverlening: € 294,89.
 
 ##### Artikel 6. Toelage eerste medische bijstand
 
@@ -146,15 +146,15 @@ Per kalenderjaar bedraagt de functietoeslag
 
 Aan de bedrijfshulpverlener en de EHBO-er die gedurende een bepaald aantal achtereenvolgende jaren aanspraak heeft gehad op de toelage bedrijfshulpverlening of de toelage eerste medische bijstand, wordt door de commandant een jubileumgratificatie toegekend volgens onderstaand schema:
 
-| na 5 jaar: | € 250; |
+| na 5 jaar: | € 268,09; |
 | --- | --- |
-| na 10 jaar: | € 300; |
-| na 15 jaar: | € 350; |
-| na 20 jaar: | € 400; |
-| na 25 jaar: | € 450; |
-| na 30 jaar: | € 450; |
-| na 35 jaar: | € 450; |
-| na 40 jaar: | € 450. |
+| na 10 jaar: | € 321,71; |
+| na 15 jaar: | € 375,33; |
+| na 20 jaar: | € 428,93; |
+| na 25 jaar: | € 482,56; |
+| na 30 jaar: | € 482,56; |
+| na 35 jaar: | € 482,56; |
+| na 40 jaar: | € 482,56. |
 
 ##### Artikel 8. Gratificatie wegens een bijzondere prestatie
 
@@ -170,13 +170,13 @@ Aan de bedrijfshulpverlener en de EHBO-er die gedurende een bepaald aantal achte
 
 - d. een hoofd bedrijfshulpverlening waarbij het leidinggeven aan alle andere bedrijfshulpverleners deel uitmaakt van zijn normale werkzaamheden.
 
-3. Deze gratificatie bedraagt € 230 netto.
+3. Deze gratificatie bedraagt € 246,64 netto.
 
-4. In afwijking van [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0015828&artikel=2&z=2007-01-01&g=2016-01-01) komen de verschuldigde loonheffing en inhoudingen over deze gratificatie voor rekening van Defensie.
+4. In afwijking van [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0015828&artikel=2&z=2016-07-05&g=2016-07-05) komen de verschuldigde loonheffing en inhoudingen over deze gratificatie voor rekening van Defensie.
 
 ##### Artikel 9. Overgangsbepaling EHBO-toelage
 
-Voor de ambtenaar waaraan een toelage bedrijfshulpverlening dan wel een toelage eerste medische bijstand als bedoeld in de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0015828&artikel=3&z=2007-01-01&g=2016-01-01) of [6](https://wetten.overheid.nl/jci1.3:c:BWBR0015828&artikel=6&z=2007-01-01&g=2016-01-01) is toegekend, vervalt de aanspraak op een EHBO-toelage op basis van [artikel 13, derde lid, van de Overgangsregeling BBRA 1984](https://wetten.overheid.nl/jci1.3:c:BWBR0003631&artikel=13).
+Voor de ambtenaar waaraan een toelage bedrijfshulpverlening dan wel een toelage eerste medische bijstand als bedoeld in de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0015828&artikel=3&z=2016-07-05&g=2016-07-05) of [6](https://wetten.overheid.nl/jci1.3:c:BWBR0015828&artikel=6&z=2016-07-05&g=2016-07-05) is toegekend, vervalt de aanspraak op een EHBO-toelage op basis van [artikel 13, derde lid, van de Overgangsregeling BBRA 1984](https://wetten.overheid.nl/jci1.3:c:BWBR0003631&artikel=13).
 
 ##### Artikel 10. Intrekking
 
