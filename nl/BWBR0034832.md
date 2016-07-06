@@ -4,7 +4,7 @@ identifier: "BWBR0034832"
 country: "nl"
 rank: "zbo"
 publication_date: "2016-07-06"
-last_updated: "2016-02-19"
+last_updated: "2016-07-06"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0034832"
 soort: "zbo"
@@ -43,7 +43,7 @@ heeft in zijn vergadering van 20 januari 2014 besloten:
 
 Dit besluit verstaat onder:
 
-- a. **regio:** regio zoals genoemd in de [Beschikking van de Staatssecretaris van Volksgezondheid, Welzijn en Sport van 22 oktober 2013](https://wetten.overheid.nl/jci1.3:c:BWBR0034132&wetgeving), kenmerk 152108-110428-Z houdende de aanwijzing van administratie-instellingen bijzondere ziektekosten, Staatscourant nr. 30391, 1 november 2013;
+- a. **regio:** regio zoals genoemd in de [Beschikking van de Staatssecretaris van Volksgezondheid, Welzijn en Sport van 22 oktober 2013](https://wetten.overheid.nl/jci1.3:c:BWBR0034132), kenmerk 152108-110428-Z houdende de aanwijzing van administratie-instellingen bijzondere ziektekosten, Staatscourant nr. 30391, 1 november 2013;
 
 - b. **budgethouder:** verzekerde aan wie een persoonsgebonden budget is verleend krachtens [paragraaf 2.6 van de Regeling subsidies AWBZ](https://wetten.overheid.nl/jci1.3:c:BWBR0019161&paragraaf=2.6);
 
@@ -51,7 +51,7 @@ Dit besluit verstaat onder:
 
 - d. **verbindingskantoor:** een verbindingskantoor als bedoeld in [artikel 1, onderdeel c, van het Administratiebesluit Bijzondere Ziektekostenverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0003585&artikel=1)
 
-- e. **zorgkantoor:** een zorgkantoor als bedoeld in het [Besluit van de Staatssecretaris van VWS van 10 december 2014](https://wetten.overheid.nl/jci1.3:c:BWBR0035987&wetgeving), houdende de aanwijzing van zorgkantoren;
+- e. **zorgkantoor:** een zorgkantoor als bedoeld in het [Besluit van de Staatssecretaris van VWS van 10 december 2014](https://wetten.overheid.nl/jci1.3:c:BWBR0035987), houdende de aanwijzing van zorgkantoren;
 
 - f. **bewuste-keuze-gesprek:** gesprek dat het zorgkantoor voert met iedereen die een PGB aanvraagt om vast te stellen of deze in aanmerking komt voor een PGB.
 
@@ -71,7 +71,7 @@ Het college stelt in januari 2014 voor ieder verbindingskantoor een voorlopig be
 
 ##### Artikel 4
 
-Zorginstituut Nederland verdeelt het in de [Aanwijzing](https://wetten.overheid.nl/jci1.3:c:BWBR0035987&wetgeving) voor de zorgkantoren bedoelde totaalbedrag ad 169,665 miljoen euro:
+Zorginstituut Nederland verdeelt het in de [Aanwijzing](https://wetten.overheid.nl/jci1.3:c:BWBR0035987) voor de zorgkantoren bedoelde totaalbedrag ad 169,665 miljoen euro:
 
 - a. een bedrag van 24,327 miljoen euro op basis van een bedrag van € 193,30 per budgethouder uitgaande van 125.850 budgethouders op grond van het aantal budgethouders per verbindingskantoor;
 
@@ -91,15 +91,15 @@ Zorginstituut Nederland verdeelt het in de [Aanwijzing](https://wetten.overheid.
 
 ##### Artikel 5
 
-Het college verdeelt het na toepassing van [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0034832&paragraaf=2&artikel=4&z=2016-02-19&g=2016-02-19) resterende bedrag als volgt:
+Het college verdeelt het na toepassing van [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0034832&paragraaf=2&artikel=4&z=2016-07-06&g=2016-07-06) resterende bedrag als volgt:
 
-- a. 15% op basis van een vast bedrag per verbindingskantoor, vermeerderd met een zelfde bedrag per regio waarvoor het verbindingskantoor is aangewezen in de in [artikel 1, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0034832&paragraaf=1&artikel=1&z=2016-02-19&g=2016-02-19) genoemde [Beschikking](https://wetten.overheid.nl/jci1.3:c:BWBR0034132);
+- a. 15% op basis van een vast bedrag per verbindingskantoor, vermeerderd met een zelfde bedrag per regio waarvoor het verbindingskantoor is aangewezen in de in [artikel 1, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0034832&paragraaf=1&artikel=1&z=2016-07-06&g=2016-07-06) genoemde [Beschikking](https://wetten.overheid.nl/jci1.3:c:BWBR0034132);
 
 - b. 85% op basis van het aantal inwoners per 1 januari 2013 in de regio’s, waarvoor het verbindingskantoor als zodanig is aangewezen, waarbij inwoners die op die datum vijfenzestig jaar of ouder zijn, dubbel tellen. Voor de bepaling van het aantal inwoners, waaronder die van vijfenzestig jaar en ouder, gebruikt het college de gegevens van het Centraal Bureau voor de Statistiek.
 
 ##### Artikel 6
 
-1. De resultaten van de berekeningen volgens de [artikelen 4](https://wetten.overheid.nl/jci1.3:c:BWBR0034832&paragraaf=2&artikel=4&z=2016-02-19&g=2016-02-19) en [5](https://wetten.overheid.nl/jci1.3:c:BWBR0034832&paragraaf=2&artikel=5&z=2016-02-19&g=2016-02-19) herberekent het college per regio.
+1. De resultaten van de berekeningen volgens de [artikelen 4](https://wetten.overheid.nl/jci1.3:c:BWBR0034832&paragraaf=2&artikel=4&z=2016-07-06&g=2016-07-06) en [5](https://wetten.overheid.nl/jci1.3:c:BWBR0034832&paragraaf=2&artikel=5&z=2016-07-06&g=2016-07-06) herberekent het college per regio.
 
 2. Ter verkrijging van het voorlopige beheerskostenbudget AWBZ per verbindingskantoor sommeert het college het herberekende bedrag per regio voor de regio’s waarvoor het verbindingskantoor is aangewezen.
 
@@ -109,9 +109,9 @@ Het college verdeelt het na toepassing van [artikel 4](https://wetten.overheid.n
 
 ##### Artikel 7
 
-1. Uiterlijk in 2018 stelt Zorginstituut Nederland op basis van de Nadere vaststelling beheerskostenbudget AWBZ 2014 en met inachtneming van de [artikelen 7a tot en met 7d](https://wetten.overheid.nl/jci1.3:c:BWBR0034832&paragraaf=4&artikel=7a&z=2016-02-19&g=2016-02-19) het beheerskostenbudget over het jaar 2014 definitief vast met inachtneming van de beoordeling en correcties van de Nederlandse Zorgautoriteit.
+1. Uiterlijk in 2018 stelt Zorginstituut Nederland op basis van de Nadere vaststelling beheerskostenbudget AWBZ 2014 en met inachtneming van de [artikelen 7a tot en met 7d](https://wetten.overheid.nl/jci1.3:c:BWBR0034832&paragraaf=4&artikel=7a&z=2016-07-06&g=2016-07-06) het beheerskostenbudget over het jaar 2014 definitief vast met inachtneming van de beoordeling en correcties van de Nederlandse Zorgautoriteit.
 
-2. Zorginstituut Nederland voert een herverdeling van het in [artikel 6b, lid i](https://wetten.overheid.nl/jci1.3:c:BWBR0034832&paragraaf=3&artikel=6b&z=2016-02-19&g=2016-02-19) genoemde bedrag uit op basis van het aantal PGB-budgethouders per 31 oktober 2014 met een intramurale indicatie.
+2. Zorginstituut Nederland voert een herverdeling van het in [artikel 6b, lid i](https://wetten.overheid.nl/jci1.3:c:BWBR0034832&paragraaf=3&artikel=6b&z=2016-07-06&g=2016-07-06) genoemde bedrag uit op basis van het aantal PGB-budgethouders per 31 oktober 2014 met een intramurale indicatie.
 
 #### § 4. Slot
 
@@ -135,13 +135,13 @@ Dit besluit zal met de toelichting in de Staatscourant worden geplaatst.
 
 - c. de werkelijke aantallen nieuwe budgethouders per 31 december 2014.
 
-2. De nadere vaststelling, bedoeld in het eerste lid, geschiedt met inachtneming van de [Nadere aanwijzing](https://wetten.overheid.nl/jci1.3:c:BWBR0036030&wetgeving) die de staatssecretaris voor Volksgezondheid, Welzijn en Sport over het jaar 2014 heeft gegeven.
+2. De nadere vaststelling, bedoeld in het eerste lid, geschiedt met inachtneming van de [Nadere aanwijzing](https://wetten.overheid.nl/jci1.3:c:BWBR0036030) die de staatssecretaris voor Volksgezondheid, Welzijn en Sport over het jaar 2014 heeft gegeven.
 
 3. Zorginstituut betaalt het verschil tussen het bedrag van het nader vastgestelde beheerskostenbudget en het voorlopig vastgestelde budget ingeval van een positief saldo voor het zorgkantoor uit. Indien het verschil tot een negatief saldo voor het zorgkantoor leidt, vordert Zorginstituut Nederland het verschil in.
 
 ##### Artikel 6b
 
-Op 1 april 2015 stelt Zorginstituut Nederland het in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0034832&paragraaf=1&artikel=2&z=2016-02-19&g=2016-02-19) genoemde totaalbedrag, verminderd met 28,400 miljoen euro, als volgt voor de zorgkantoren beschikbaar:
+Op 1 april 2015 stelt Zorginstituut Nederland het in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0034832&paragraaf=1&artikel=2&z=2016-07-06&g=2016-07-06) genoemde totaalbedrag, verminderd met 28,400 miljoen euro, als volgt voor de zorgkantoren beschikbaar:
 
 - a. een bedrag van 23,121 miljoen euro op basis van een bedrag van € 193,30 per budgethouder en 119.614 budgethouders op 30 juni 2014;
 
@@ -163,7 +163,7 @@ Op 1 april 2015 stelt Zorginstituut Nederland het in [artikel 2](https://wetten.
 
 ##### Artikel 6c
 
-Het Zorginstituut verdeelt het na toepassing van [artikel 6b](https://wetten.overheid.nl/jci1.3:c:BWBR0034832&paragraaf=3&artikel=6b&z=2016-02-19&g=2016-02-19) resterende bedrag als volgt:
+Het Zorginstituut verdeelt het na toepassing van [artikel 6b](https://wetten.overheid.nl/jci1.3:c:BWBR0034832&paragraaf=3&artikel=6b&z=2016-07-06&g=2016-07-06) resterende bedrag als volgt:
 
 - a. 15% op basis van een vast bedrag per zorgkantoor, vermeerderd met een zelfde bedrag per regio waarvoor het zorgkantoor is aangewezen in de in [artikel 1, onderdeel d genoemde Besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0035987&artikel=1);
 
@@ -189,43 +189,39 @@ Dit besluit zal met de toelichting in de Staatscourant worden geplaatst.
 
 ##### Artikel 7a
 
-Zorginstituut Nederland stelt het bedrag van 28,400 miljoen euro beschikbaar met inachtneming van de [artikelen 7b tot en met 7d](https://wetten.overheid.nl/jci1.3:c:BWBR0034832&paragraaf=4&artikel=7b&z=2016-02-19&g=2016-02-19).
+Zorginstituut Nederland stelt het bedrag van 28,400 miljoen euro beschikbaar met inachtneming van de [artikelen 7b tot en met 7d](https://wetten.overheid.nl/jci1.3:c:BWBR0034832&paragraaf=4&artikel=7b&z=2016-07-06&g=2016-07-06).
 
 ##### Artikel 7b
 
-1. Zorginstituut Nederland vergoedt de kosten die de zorgkantoren op grond van een sociaal plan maken voor medewerkers van wie als gevolg van de invoering van de [Wet langdurige zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0035917&wetgeving) (Wlz) het vaste dienstverband uiterlijk per 31 december 2016 wordt beëindigd.
+1. Zorginstituut Nederland vergoedt de kosten die de zorgkantoren op grond van een sociaal plan maken voor medewerkers van wie als gevolg van de invoering van de [Wet langdurige zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0035917) (Wlz) het vaste dienstverband uiterlijk per 31 december 2016 wordt beëindigd.
 
-2. Zorginstituut Nederland vergoedt de in het eerste lid genoemde kosten indien de zorgkantoren uiterlijk 31 december 2017 een door een accountant gecontroleerde en goedgekeurde opgave van de kosten van het sociaal plan bij Zorginstituut Nederland hebben ingediend.
-
-3. Zorginstituut Nederland vergoedt de in het eerste lid genoemde kosten naar werkelijke kosten met inachtneming van de correcties van de Nederlandse Zorgautoriteit.
+2. Zorginstituut Nederland vergoedt de in het eerste lid genoemde kosten naar werkelijke kosten met inachtneming van de correcties van de Nederlandse Zorgautoriteit.
 
 ##### Artikel 7c
 
-1. Zorginstituut Nederland vergoedt de in 2015 door de zorgkantoren gemaakte kosten voor de afwikkeling van de [AWBZ](https://wetten.overheid.nl/jci1.3:c:BWBR0002614&wetgeving).
+1. Zorginstituut Nederland vergoedt de in 2015 door de zorgkantoren gemaakte kosten voor de afwikkeling van de [AWBZ](https://wetten.overheid.nl/jci1.3:c:BWBR0002614).
 
-2. De zorgkantoren dienen uiterlijk 31 december 2017 een door een accountant gecontroleerde en goedgekeurde opgave van de kosten voor de afwikkeling van de [AWBZ](https://wetten.overheid.nl/jci1.3:c:BWBR0002614&wetgeving) hebben ingediend bij Zorginstituut Nederland.
-
-3. Zorginstituut Nederland vergoedt de in het eerste lid genoemde kosten naar werkelijke kosten en na goedkeuring door de Nederlandse Zorgautoriteit.
+2. Zorginstituut Nederland vergoedt de in het eerste lid genoemde kosten naar werkelijke kosten en na goedkeuring door de Nederlandse Zorgautoriteit.
 
 ##### Artikel 7d
 
-1. Indien de in totaal door de zorgkantoren op grond van [artikel 7b, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034832&paragraaf=4&artikel=7b&z=2016-02-19&g=2016-02-19) bedoelde kosten lager zijn dan 14,000 miljoen euro, en de in totaal door hen ingediende kosten op basis [artikel 7c, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034832&paragraaf=4&artikel=7c&z=2016-02-19&g=2016-02-19) hoger zijn dan 14,400 miljoen euro, dan wordt het verschil aan het op grond van het eerste lid van artikel 7c beschikbaar gestelde bedrag toegevoegd.
+1. Indien de in totaal door de zorgkantoren op grond van [artikel 7b, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034832&paragraaf=4&artikel=7b&z=2016-07-06&g=2016-07-06) bedoelde kosten lager zijn dan 14,000 miljoen euro, en de in totaal door hen ingediende kosten op basis [artikel 7c, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034832&paragraaf=4&artikel=7c&z=2016-07-06&g=2016-07-06) hoger zijn dan 14,400 miljoen euro, dan wordt het verschil aan het op grond van het eerste lid van artikel 7c beschikbaar gestelde bedrag toegevoegd.
 
-2. Indien de som van de ingediende kosten, bedoeld in [artikel 7b, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034832&paragraaf=4&artikel=7b&z=2016-02-19&g=2016-02-19) en [artikel 7c, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034832&paragraaf=4&artikel=7c&z=2016-02-19&g=2016-02-19), in totaal hoger is dan 28,400 miljoen euro, vergoedt Zorginstituut Nederland het verschil tussen die som en 28,400 miljoen euro door het totaal van de overschrijdingen van het in [artikel 4.6, vierde lid, van het Besluit Wfsv](https://wetten.overheid.nl/jci1.3:c:BWBR0019070&artikel=4.6) gestelde maximum voor reserve uitvoering AWBZ 2014 geheel of gedeeltelijk aan te wenden voor de nog niet vergoede kosten.
+2. Indien de som van de ingediende kosten, bedoeld in [artikel 7b, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034832&paragraaf=4&artikel=7b&z=2016-07-06&g=2016-07-06) en [artikel 7c, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034832&paragraaf=4&artikel=7c&z=2016-07-06&g=2016-07-06), in totaal hoger is dan 28,400 miljoen euro, vergoedt Zorginstituut Nederland het verschil tussen die som en 28,400 miljoen euro door het totaal van de overschrijdingen van het in [artikel 4.6, vierde lid, van het Besluit Wfsv](https://wetten.overheid.nl/jci1.3:c:BWBR0019070&artikel=4.6) gestelde maximum voor reserve uitvoering AWBZ 2014 geheel of gedeeltelijk aan te wenden voor de nog niet vergoede kosten.
 
-3. Indien de ingediende kosten, bedoeld in [artikel 7b, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034832&paragraaf=4&artikel=7b&z=2016-02-19&g=2016-02-19) en [artikel 7c, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034832&paragraaf=4&artikel=7c&z=2016-02-19&g=2016-02-19), na toepassing van het vorige lid niet volledig kunnen worden vergoed, zullen de nog niet vergoede kosten naar evenredigheid van de in aanmerking komende en goedgekeurde kosten aan de zorgkantoren worden vergoed.
+3. Indien de ingediende kosten, bedoeld in [artikel 7b, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034832&paragraaf=4&artikel=7b&z=2016-07-06&g=2016-07-06) en [artikel 7c, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034832&paragraaf=4&artikel=7c&z=2016-07-06&g=2016-07-06), na toepassing van het vorige lid niet volledig kunnen worden vergoed, zullen de nog niet vergoede kosten naar evenredigheid van de in aanmerking komende en goedgekeurde kosten aan de zorgkantoren worden vergoed.
 
 ##### Artikel 7e
 
-1. De resultaten van de berekeningen volgens de [artikelen 6a](https://wetten.overheid.nl/jci1.3:c:BWBR0034832&paragraaf=3&artikel=6a&z=2016-02-19&g=2016-02-19) en [6b](https://wetten.overheid.nl/jci1.3:c:BWBR0034832&paragraaf=3&artikel=6b&z=2016-02-19&g=2016-02-19) herberekent Zorginstituut Nederland per regio.
+1. De resultaten van de berekeningen volgens de [artikelen 6a](https://wetten.overheid.nl/jci1.3:c:BWBR0034832&paragraaf=3&artikel=6a&z=2016-07-06&g=2016-07-06) en [6b](https://wetten.overheid.nl/jci1.3:c:BWBR0034832&paragraaf=3&artikel=6b&z=2016-07-06&g=2016-07-06) herberekent Zorginstituut Nederland per regio.
 
-2. Ter verkrijging van het definitieve beheerskostenbudget AWBZ 2014 per zorgkantoor sommeert Zorginstituut Nederland het herberekende bedrag per regio voor de regio’s waarvoor het zorgkantoor is aangewezen, vermeerderd met de vergoedingen na toepassing van de [artikelen 7a tot en met 7d](https://wetten.overheid.nl/jci1.3:c:BWBR0034832&paragraaf=4&artikel=7a&z=2016-02-19&g=2016-02-19).
+2. Ter verkrijging van het definitieve beheerskostenbudget AWBZ 2014 per zorgkantoor sommeert Zorginstituut Nederland het herberekende bedrag per regio voor de regio’s waarvoor het zorgkantoor is aangewezen, vermeerderd met de vergoedingen na toepassing van de [artikelen 7a tot en met 7d](https://wetten.overheid.nl/jci1.3:c:BWBR0034832&paragraaf=4&artikel=7a&z=2016-07-06&g=2016-07-06).
 
 3. Zorginstituut Nederland rondt het definitief vastgestelde beheerskostenbudget af op hele euro’s, waarbij bedragen van een halve euro en hoger naar boven worden afgerond en overige bedragen naar beneden.
 
 ##### Artikel 8
 
-1. De vaststelling van het beheerskostenbudget, bedoeld in [artikel 7e](https://wetten.overheid.nl/jci1.3:c:BWBR0034832&paragraaf=4&artikel=7e&z=2016-02-19&g=2016-02-19), geschiedt met inachtneming van de Nadere aanwijzing besteedbare middelen beheerskosten AWBZ 2014 en de Tweede nadere aanwijzing besteedbare middelen beheerkosten AWBZ 2014.
+1. De vaststelling van het beheerskostenbudget, bedoeld in [artikel 7e](https://wetten.overheid.nl/jci1.3:c:BWBR0034832&paragraaf=4&artikel=7e&z=2016-07-06&g=2016-07-06), geschiedt met inachtneming van de Nadere aanwijzing besteedbare middelen beheerskosten AWBZ 2014 en de Tweede nadere aanwijzing besteedbare middelen beheerkosten AWBZ 2014.
 
 2. Zorginstituut Nederland betaalt het verschil tussen het bedrag van het definitief vastgestelde beheerskostenbudget en het nader vastgestelde beheerskostenbudget ingeval van een positief saldo voor het zorgkantoor uit. Indien het verschil tot een negatief saldo voor het zorgkantoor leidt, vordert Zorginstituut Nederland het verschil in.
 
