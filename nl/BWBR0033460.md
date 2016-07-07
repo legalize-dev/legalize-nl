@@ -4,7 +4,7 @@ identifier: "BWBR0033460"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-10-21"
-last_updated: "2013-05-31"
+last_updated: "2016-07-07"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0033460"
 soort: "ministeriele-regeling"
@@ -62,19 +62,19 @@ Het bevoegd gezag kan de Minister een voorstel doen tot wijziging van de bij de 
 
 ##### Artikel 3
 
-1. De aanduiding van de functies, onderverdeeld naar domeinen en vakgebieden, met de daaraan gekoppelde barema’s zijn opgenomen in de bij deze regeling behorende [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0033460&bijlage=1&z=2013-05-31&g=2013-05-31).
+1. De aanduiding van de functies, onderverdeeld naar domeinen en vakgebieden, met de daaraan gekoppelde barema’s zijn opgenomen in de bij deze regeling behorende [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0033460&bijlage=1&z=2017-04-25&g=2016-07-07).
 
-2. De koppeling van de functies, van punten naar barema’s, aan de salarisschalen is opgenomen in de bij deze regeling behorende [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0033460&bijlage=2&z=2013-05-31&g=2013-05-31).
+2. De koppeling van de functies, van punten naar barema’s, aan de salarisschalen is opgenomen in de bij deze regeling behorende [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0033460&bijlage=2&z=2017-04-25&g=2016-07-07).
 
-3. De bij de functies behorende functiebeschrijvingen zijn opgenomen in de bij deze regeling behorende [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0033460&bijlage=3&z=2013-05-31&g=2013-05-31).
+3. De bij de functies behorende functiebeschrijvingen zijn opgenomen in de bij deze regeling behorende [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0033460&bijlage=3&z=2017-04-25&g=2016-07-07).
 
-4. De aan de functiebeschrijvingen te koppelen werkterreinen, aandachtsgebieden en specifieke functionaliteiten zijn opgenomen in de bij deze regeling behorende [bijlage 4](https://wetten.overheid.nl/jci1.3:c:BWBR0033460&bijlage=4&z=2013-05-31&g=2013-05-31).
+4. De aan de functiebeschrijvingen te koppelen werkterreinen, aandachtsgebieden en specifieke functionaliteiten zijn opgenomen in de bij deze regeling behorende [bijlage 4](https://wetten.overheid.nl/jci1.3:c:BWBR0033460&bijlage=4&z=2017-04-25&g=2016-07-07).
 
 ##### Artikel 4
 
-1. In het kader van het vaststellen van passende arbeid als bedoeld in [artikel 49b, eerste lid, van het Besluit algemene rechtspositie politie](https://wetten.overheid.nl/jci1.3:c:BWBR0006516&artikel=49b), stelt het bevoegd gezag zo nodig een functie samen uit een of meerdere functies opgenomen in de bij deze regeling behorende [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0033460&bijlage=3&z=2013-05-31&g=2013-05-31). Bij het samenstellen van deze functie wordt rekening gehouden met de resterende verdiencapaciteit van de desbetreffende ambtenaar.
+1. In het kader van het vaststellen van passende arbeid als bedoeld in [artikel 49b, eerste lid, van het Besluit algemene rechtspositie politie](https://wetten.overheid.nl/jci1.3:c:BWBR0006516&artikel=49b), stelt het bevoegd gezag zo nodig een functie samen uit een of meerdere functies opgenomen in de bij deze regeling behorende [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0033460&bijlage=3&z=2017-04-25&g=2016-07-07). Bij het samenstellen van deze functie wordt rekening gehouden met de resterende verdiencapaciteit van de desbetreffende ambtenaar.
 
-2. Aan deze samengestelde functie wordt door het bevoegd gezag met inachtneming van [artikel 2, tweede volzin](https://wetten.overheid.nl/jci1.3:c:BWBR0033460&artikel=2&z=2013-05-31&g=2013-05-31), een salaris gekoppeld.
+2. Aan deze samengestelde functie wordt door het bevoegd gezag met inachtneming van [artikel 2, tweede volzin](https://wetten.overheid.nl/jci1.3:c:BWBR0033460&artikel=2&z=2017-04-25&g=2016-07-07), een salaris gekoppeld.
 
 ##### Artikel 5
 
@@ -84,7 +84,7 @@ Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte v
 
 Deze regeling wordt aangehaald als: Regeling vaststelling LFNP.
 
-## Bijlage 1. , horende bij [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0033460&artikel=3&z=2013-05-31&g=2013-05-31).
+## Bijlage 1. , horende bij [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0033460&artikel=3&z=2017-04-25&g=2016-07-07).
 
 | Barema | Leiding | Uitvoering | Uitvoering | Uitvoering | Uitvoering | Uitvoering | Uitvoering | Uitvoering | Uitvoering | Uitvoering | Uitvoering | Uitvoering |   | Ondersteuning | Ondersteuning | Ondersteuning | Ondersteuning | Ondersteuning | Ondersteuning |   |   |   |   |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -107,7 +107,7 @@ Deze regeling wordt aangehaald als: Regeling vaststelling LFNP.
 | 2 |   | Assistent Beveiliging A | Assistent GGP A |   |   |   |   |   |   |   |   | Assistent Intake & Service A |   |   |   | Administratief Secretarieel Medewerker A |   |   |   | Chauffeur (HSM) | Medewerker Huisvesting, Services en Middelen B |   |   |
 | 1 |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   | Medewerker Huisvesting, Services en Middelen A |   |   |
 
-## Bijlage 2. , horende bij [artikel 3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0033460&artikel=3&z=2013-05-31&g=2013-05-31).
+## Bijlage 2. , horende bij [artikel 3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0033460&artikel=3&z=2017-04-25&g=2016-07-07).
 
 |   | Fuwa plotting LFNP 1.0 d.d. 15 april 2013 | Pt.totaal | Barema | Bbp Schaal |
 | --- | --- | --- | --- | --- |
@@ -204,7 +204,7 @@ Deze regeling wordt aangehaald als: Regeling vaststelling LFNP.
 | 91 | Directeur | 1012 | 14 | 16 |
 | 92 | Korpschef | 1173 | 16 | 18 |
 
-## Bijlage 3. , horende bij [artikel 3, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0033460&artikel=3&z=2013-05-31&g=2013-05-31).
+## Bijlage 3. , horende bij [artikel 3, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0033460&artikel=3&z=2017-04-25&g=2016-07-07).
 
 ### Medewerker Huisvesting, Services en Middelen A
 
@@ -4172,7 +4172,7 @@ Aan de functie kleeft de Hoge Omschakelfrequentie met interne exposure.
 
 ### RolaanduidingKan, mits daarvoor gecertificeerd en aangewezen, optreden als:
 
-## Bijlage 4. , horende bij [artikel 3, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0033460&artikel=3&z=2013-05-31&g=2013-05-31).
+## Bijlage 4. , horende bij [artikel 3, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0033460&artikel=3&z=2017-04-25&g=2016-07-07).
 
 | Vakgebied | Werkterrein | Aandachtsgebied | Specifieke functionaliteit |
 | --- | --- | --- | --- |
