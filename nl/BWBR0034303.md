@@ -4,7 +4,7 @@ identifier: "BWBR0034303"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2021-10-01"
-last_updated: "2015-11-26"
+last_updated: "2016-07-12"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0034303"
 soort: "ministeriele-regeling"
@@ -64,11 +64,13 @@ In deze regeling wordt verstaan onder:
 
 - **Verordening 1308/2013:** Verordening (EU) nr. 1308/2013 van het Europees Parlement en de Raad van 17 december 2013 tot vaststelling van een gemeenschappelijke ordening van de markten voor landbouwproducten en tot intrekking van de Verordeningen (EEG) nr. 922/72, (EEG) nr. 234/79, (EG) nr. 1037/2001 en (EG) nr. 1234/2007 van de Raad (PbEU 2013, L 347).
 
-### Hoofdstuk 2. Erkenning producentenorganisaties
+### Hoofdstuk 2. Verplichte melding hoeveelheden rauwe melk
 
 ##### Artikel 2:1
 
-Vervallen
+1. De minister is de bevoegde nationale autoriteit, bedoeld in artikel 151 van Verordening 1308/2013.
+
+2. De eerste koper, bedoeld in artikel 151, tweede alinea en onderdelen a en b, van Verordening 1308/2013 verricht de melding van de hoeveelheid geleverde rauwe melk, bedoeld in dat artikel, uitgedrukt in kilogrammen en op basis van het reële vetgehalte van de melk, met gebruikmaking van een middel dat door de minister ter beschikking wordt gesteld, uiterlijk op de tiende dag na de maand waarop de melding betrekking heeft.
 
 ##### Artikel 2:2
 
@@ -100,11 +102,19 @@ Vervallen
 
 3. Overeenkomstig de artikelen 6 tot met 9 van [Verordening 657/2008](32008R0657) kan de minister op verzoek een erkenning verlenen aan een onderwijsinstelling of een leverancier als bedoeld in artikel 6 van die verordening.
 
-4. Met inachtneming van artikel 26 van Verordening 1308/2013 en [Verordening 657/2008](32008R0657) kent de minister steun toe aan een erkende onderwijsinstelling of een leverancier over de hoeveelheden zuivelproducten, genoemd in de categorieën I en II van de lijst van producten opgenomen in bijlage I van [Verordening 657/2008](32008R0657), bestemd voor leerlingen van een onderwijsinstelling.
+4. Met inachtneming van artikel 26 van Verordening 1308/2013 en Verordening 657/2008 kent de minister steun toe aan een erkende onderwijsinstelling of een leverancier voor de volgende zuivelproducten van de categorie I en II van de lijst van producten opgenomen in bijlage I van Verordening 657/2008, bestemd voor leerlingen van een onderwijsinstelling:
+
+- a. Tot 31 december 2016:
+
+- 1°. halfvolle melk, GN-code 0401 20 11, van de categorie I van de lijst van producten opgenomen in bijlage I van Verordening 657/2008, bestemd voor leerlingen van een onderwijsinstelling, en
+
+- 2°. Yoghurt met vruchten, zonder toegevoegde suikers en vetten, en
+
+- b. Vanaf 1 januari 2017 halfvolle melk, GN-code 0401 20 11, van de categorie I van de lijst van producten opgenomen in bijlage I van Verordening 657/2008, bestemd voor leerlingen van een onderwijsinstelling.
 
 ##### Artikel 3:2
 
-1. Desgevraagd kent de minister overeenkomstig artikel 13, eerste en tweede lid, van [Verordening 657/2008](32008R0657) een voorschot toe op de in [Artikel 3:1, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034303&hoofdstuk=3&artikel=3:1&z=2015-11-26&g=2015-11-26), bedoelde steun.
+1. Desgevraagd kent de minister overeenkomstig artikel 13, eerste en tweede lid, van [Verordening 657/2008](32008R0657) een voorschot toe op de in [Artikel 3:1, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034303&hoofdstuk=3&artikel=3:1&z=2016-07-12&g=2016-07-12), bedoelde steun.
 
 2. De steun kan worden aangevraagd per periode van vier maanden te rekenen vanaf 1 augustus, 1 december en 1 april.
 
@@ -112,7 +122,7 @@ Vervallen
 
 ##### Artikel 3:3
 
-De steun, bedoeld in [Artikel 3:1, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034303&hoofdstuk=3&artikel=3:1&z=2015-11-26&g=2015-11-26), wordt slechts toegekend indien een aanvrager aan de hand van calculaties van de prijzen van de zuivelproducten die in rekening worden gebracht aan de leerlingen van de onderwijsinstellingen, ten genoegen van de minister aantoont dat de steun is verrekend in de door de leerlingen betaalde prijzen.
+De steun, bedoeld in [Artikel 3:1, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034303&hoofdstuk=3&artikel=3:1&z=2016-07-12&g=2016-07-12), wordt slechts toegekend indien een aanvrager aan de hand van calculaties van de prijzen van de zuivelproducten die in rekening worden gebracht aan de leerlingen van de onderwijsinstellingen, ten genoegen van de minister aantoont dat de steun is verrekend in de door de leerlingen betaalde prijzen.
 
 ### Hoofdstuk 4. Overgangsrecht
 
@@ -139,5 +149,11 @@ Deze regeling wordt aangehaald als: Regeling marktordening zuivel.
 ##### Artikel 4:4
 
 Deze regeling treedt in werking op 1 januari 2014.
+
+Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
+
+### Hoofdstuk 3. Schoolmelk
+
+### Hoofdstuk 4. Overgangsrecht
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
