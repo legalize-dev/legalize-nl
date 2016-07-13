@@ -87,9 +87,3 @@ De bestuurder van stichting EP-Nuffic doet als het gaat om een niet in Nederland
 Dit besluit wordt aangehaald als: OCW-mandaatbesluit Europese beroepskaartprocedure voor niet in Nederland gereglementeerde beroepen.
 
 Dit besluit zal met de toelichting in de Staatscourant worden geplaatst.
-
-##### Artikel 6a. Uitbreiding grondslag
-
-Dit besluit berust mede op artikel 28, derde lid, van de Algemene verordening gegevensbescherming.
-
-Dit besluit zal met de toelichting in de Staatscourant worden geplaatst.
