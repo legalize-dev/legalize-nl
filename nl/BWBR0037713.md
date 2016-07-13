@@ -4,7 +4,7 @@ identifier: "BWBR0037713"
 country: "nl"
 rank: "zbo"
 publication_date: "2016-09-21"
-last_updated: "2016-04-07"
+last_updated: "2016-07-13"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0037713"
 soort: "zbo"
@@ -51,7 +51,15 @@ In dit reglement wordt verstaan onder:
 
 - d. **lid:** de voorzitter of een ander lid van de Commissie;
 
-- e. **secretaris:** de secretaris en plaatsvervangend secretaris.
+- e. **secretaris:** de secretaris en plaatsvervangend secretaris;
+
+- f. **uitvoeringsorganisatie:** de organisatie die de subsidieregeling van de Commissie uitvoert;
+
+- g. **handhavingskader:** het door de commissie vastgestelde kader aan de hand waarvan:
+
+- 1°. bij rechtspersonen aan wie subsidie is verleend de subsidie wordt vastgesteld;
+
+- 2°. bij via een steekproef geselecteerde natuurlijke personen aan wie subsidie is verleend, indien van toepassing, de subsidievaststelling wordt ingetrokken of gewijzigd.
 
 ### Hoofdstuk 2. Inrichting en besluitvorming
 
@@ -81,7 +89,7 @@ In dit reglement wordt verstaan onder:
 
 6. De vergaderingen zijn niet openbaar. De Commissie kan bepaalde personen uitnodigen tot deelname aan een vergadering of een onderdeel daarvan.
 
-7. De secretaris onderhoudt de contacten met de organisatie die de subsidieregeling van de Commissie uitvoert, in voorkomende gevallen overlegt de Commissie rechtstreeks met deze organisatie.
+7. De secretaris onderhoudt de contacten met de uitvoeringsorganisatie. In voorkomende gevallen overlegt de Commissie rechtstreeks met deze organisatie.
 
 ##### Artikel 5
 
@@ -155,7 +163,7 @@ Dit reglement treedt in werking op de dag na zijn bekendmaking en werkt terug to
 
 ##### Artikel 8a
 
-In afwijking van het [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0037713&hoofdstuk=2&artikel=8&z=2016-07-13&g=2016-04-07) kan de voorzitter, respectievelijk eerste plaatsvervangend voorzitter of de tweede plaatsvervangend voorzitter, besluiten nemen en stukken ondertekenen met betrekking tot:
+In afwijking van het [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0037713&hoofdstuk=2&artikel=8&z=2016-07-13&g=2016-07-13) kan de voorzitter, respectievelijk eerste plaatsvervangend voorzitter of de tweede plaatsvervangend voorzitter, besluiten nemen en stukken ondertekenen met betrekking tot:
 
 - a. besluiten als bedoeld in de [artikelen 4:42](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:42), [4:46](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:46) en [4:95 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:95) ten aanzien van rechtspersonen, indien de uitvoeringsorganisatie adviseert dat de subsidie kan worden vastgesteld op basis van het handhavingskader;
 
