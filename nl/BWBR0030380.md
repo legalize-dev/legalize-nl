@@ -4,7 +4,7 @@ identifier: "BWBR0030380"
 country: "nl"
 rank: "ministeriele_regeling_bes"
 publication_date: "2023-03-16"
-last_updated: "2012-01-01"
+last_updated: "2016-07-13"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0030380"
 soort: "ministeriele-regeling-BES"
@@ -46,75 +46,73 @@ In deze regeling wordt verstaan onder:
 
 - a. **wet:** [Wet voortgezet onderwijs BES](https://wetten.overheid.nl/jci1.3:c:BWBR0030284);
 
-- b. **Eindexamenbesluit:** [Eindexamenbesluit VO BES](https://wetten.overheid.nl/jci1.3:c:BWBR0029990);
+- b. **vmbo:** voorbereidend middelbaar beroepsonderwijs als bedoeld in de [artikelen 15](https://wetten.overheid.nl/jci1.3:c:BWBR0030284&artikel=15) en [17 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0030284&artikel=17);
 
-- c. **Staatsexamenbesluit:** [Staatsexamenbesluit VO BES](https://wetten.overheid.nl/jci1.3:c:BWBR0029981&artikel=29);
+- c. **vwo:** voorbereidend wetenschappelijk onderwijs als bedoeld in [13 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0030284&artikel=13);
 
-- d. **vmbo:** voorbereidend middelbaar beroepsonderwijs als bedoeld in de [artikelen 15](https://wetten.overheid.nl/jci1.3:c:BWBR0030284&artikel=15) en [17 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0030284&artikel=17);
+- d. **havo:** hoger algemeen voortgezet onderwijs als bedoeld in [artikel 14 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0030284&artikel=14);
 
-- e. **vwo:** voorbereidend wetenschappelijk onderwijs als bedoeld in [13 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0030284&artikel=13);
+- e. **instelling voor educatie en beroepsonderwijs:** een instelling als bedoeld in [artikel 1.1.1, onderdeel b van de Wet educatie en beroepsonderwijs BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028395&artikel=1.1.1) voor zover het betreft door die instelling verzorgde opleidingen vavo;
 
-- f. **havo:** hoger algemeen voortgezet onderwijs als bedoeld in [artikel 14 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0030284&artikel=14);
+- f. **vavo:** voortgezet algemeen volwassenenonderwijs als bedoeld in [artikel 7.3.1., eerste lid, onderdeel a van de Wet educatie en beroepsonderwijs BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028395&artikel=7.3.1);
 
-- g. **instelling voor educatie en beroepsonderwijs:** een instelling als bedoeld in [artikel 1.1.1, onderdeel b van de Wet educatie en beroepsonderwijs BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028395&artikel=1.1.1) voor zover het betreft door die instelling verzorgde opleidingen vavo;
+- g. **waardepapier:** beveiligde papiersoort die wordt gebruikt voor de in deze regeling genoemde waardedocumenten;
 
-- h. **vavo:** voortgezet algemeen volwassenenonderwijs als bedoeld in [artikel 7.3.1., eerste lid, onderdeel a van de Wet educatie en beroepsonderwijs BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028395&artikel=7.3.1);
-
-- i. **waardepapier:** beveiligde papiersoort die wordt gebruikt voor de in deze regeling genoemde waardedocumenten;
-
-- j. **waardedocumenten:** de volgende examendocumenten: diploma’s, (deel)cijferlijsten, voorlopige cijferlijsten, certificaten, getuigschriften en bewijs van ontheffing met bijbehorende verklaring.
+- h. **waardedocumenten:** de volgende examendocumenten: diploma’s, (deel)cijferlijsten, voorlopige cijferlijsten, certificaten, getuigschriften en bewijs van ontheffing met bijbehorende verklaring.
 
 ##### Artikel 2. Richtlijnen voor het invullen van de modellen en beveiligen waardepapier
 
-Het invullen van de modellen, opgenomen in de bij deze regeling behorende bijlagen en het beveiligen van het waardepapier geschiedt overeenkomstig de richtlijnen, opgenomen in de bij deze regeling behorende [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0030380&bijlage=1&z=2012-01-01&g=2012-01-01).
+Het invullen van de modellen, opgenomen in de bij deze regeling behorende bijlagen en het beveiligen van het waardepapier geschiedt overeenkomstig de richtlijnen, opgenomen in de bij deze regeling behorende [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0030380&bijlage=1&z=2016-07-13&g=2016-07-13).
 
 ##### Artikel 3. Modellen diploma’s vwo, havo en vmbo
 
-De modellen voor de diploma’s eindexamen vwo, havo en vmbo zijn opgenomen in onderscheidenlijk de bij deze regeling behorende [bijlagen 2a](https://wetten.overheid.nl/jci1.3:c:BWBR0030380&bijlage=2a&z=2012-01-01&g=2012-01-01), [2b](https://wetten.overheid.nl/jci1.3:c:BWBR0030380&bijlage=2b&z=2012-01-01&g=2012-01-01) en [2c](https://wetten.overheid.nl/jci1.3:c:BWBR0030380&bijlage=2c&z=2012-01-01&g=2012-01-01).
+1. Als modellen voor de diploma’s eindexamen vwo, havo en vmbo worden gehanteerd de [bijlagen 2a](https://wetten.overheid.nl/jci1.3:c:BWBR0030380&bijlage=2a&z=2016-07-13&g=2016-07-13), [2b](https://wetten.overheid.nl/jci1.3:c:BWBR0030380&bijlage=2b&z=2016-07-13&g=2016-07-13) respectievelijk [2c](https://wetten.overheid.nl/jci1.3:c:BWBR0030380&bijlage=2c&z=2016-07-13&g=2016-07-13).
+
+2. Indien op grond van de [artikelen 39a van het Eindexamenbesluit VO BES](https://wetten.overheid.nl/jci1.3:c:BWBR0029990&artikel=39a) recht bestaat op vermelding van het judicium cum laude op het diploma, worden in afwijking van het eerste lid voor de diploma’s eindexamen vwo, havo en vmbo de [bijlagen 2a1](https://wetten.overheid.nl/jci1.3:c:BWBR0030380&bijlage=2a1&z=2016-07-13&g=2016-07-13), [2b1](https://wetten.overheid.nl/jci1.3:c:BWBR0030380&bijlage=2b1&z=2016-07-13&g=2016-07-13) respectievelijk [2c1](https://wetten.overheid.nl/jci1.3:c:BWBR0030380&bijlage=2c1&z=2016-07-13&g=2016-07-13) gehanteerd.
 
 ##### Artikel 4. Modellen cijferlijsten vwo, havo en vmbo
 
-De modellen voor de cijferlijsten eindexamen vwo, havo en vmbo zijn opgenomen in onderscheidenlijk de bij deze regeling behorende [bijlagen 3a](https://wetten.overheid.nl/jci1.3:c:BWBR0030380&bijlage=3a&z=2012-01-01&g=2012-01-01), [3b](https://wetten.overheid.nl/jci1.3:c:BWBR0030380&bijlage=3b&z=2012-01-01&g=2012-01-01), en [3c](https://wetten.overheid.nl/jci1.3:c:BWBR0030380&bijlage=3c&z=2012-01-01&g=2012-01-01).
+De modellen voor de cijferlijsten eindexamen vwo, havo en vmbo zijn opgenomen in onderscheidenlijk de bij deze regeling behorende [bijlagen 3a](https://wetten.overheid.nl/jci1.3:c:BWBR0030380&bijlage=3a&z=2016-07-13&g=2016-07-13), [3b](https://wetten.overheid.nl/jci1.3:c:BWBR0030380&bijlage=3b&z=2016-07-13&g=2016-07-13), en [3c](https://wetten.overheid.nl/jci1.3:c:BWBR0030380&bijlage=3c&z=2016-07-13&g=2016-07-13).
 
 ##### Artikel 5. Modellen voorlopige cijferlijsten vwo, havo en vmbo
 
-De modellen voor de voorlopige cijferlijsten eindexamen vwo, havo en vmbo zijn opgenomen in onderscheidenlijk de bij deze regeling behorende [bijlagen 4a](https://wetten.overheid.nl/jci1.3:c:BWBR0030380&bijlage=4a&z=2012-01-01&g=2012-01-01), [4b](https://wetten.overheid.nl/jci1.3:c:BWBR0030380&bijlage=4b&z=2012-01-01&g=2012-01-01), en [4c](https://wetten.overheid.nl/jci1.3:c:BWBR0030380&bijlage=4c&z=2012-01-01&g=2012-01-01).
+De modellen voor de voorlopige cijferlijsten eindexamen vwo, havo en vmbo zijn opgenomen in onderscheidenlijk de bij deze regeling behorende [bijlagen 4a](https://wetten.overheid.nl/jci1.3:c:BWBR0030380&bijlage=4a&z=2016-07-13&g=2016-07-13), [4b](https://wetten.overheid.nl/jci1.3:c:BWBR0030380&bijlage=4b&z=2016-07-13&g=2016-07-13), en [4c](https://wetten.overheid.nl/jci1.3:c:BWBR0030380&bijlage=4c&z=2016-07-13&g=2016-07-13).
 
 ##### Artikel 6. Model certificaat vmbo
 
-Het model voor het certificaat vmbo is opgenomen in de bij deze regeling behorende [bijlage 5](https://wetten.overheid.nl/jci1.3:c:BWBR0030380&bijlage=5&z=2012-01-01&g=2012-01-01).
+Het model voor het certificaat vmbo is opgenomen in de bij deze regeling behorende [bijlage 5](https://wetten.overheid.nl/jci1.3:c:BWBR0030380&bijlage=5&z=2016-07-13&g=2016-07-13).
 
 ##### Artikel 7. Model getuigschrift basisberoepsgerichte leerweg vmbo
 
-Het model voor het getuigschrift basisberoepsgerichte leerweg van het vmbo is opgenomen in de bij deze regeling behorende [bijlage 6](https://wetten.overheid.nl/jci1.3:c:BWBR0030380&bijlage=6&z=2012-01-01&g=2012-01-01).
+Het model voor het getuigschrift basisberoepsgerichte leerweg van het vmbo is opgenomen in de bij deze regeling behorende [bijlage 6](https://wetten.overheid.nl/jci1.3:c:BWBR0030380&bijlage=6&z=2016-07-13&g=2016-07-13).
 
 ##### Artikel 8. Model getuigschrift praktijkonderwijs vmbo
 
-Het model voor het getuigschrift praktijkonderwijs van het vmbo is opgenomen in de bij deze regeling behorende [bijlage 7](https://wetten.overheid.nl/jci1.3:c:BWBR0030380&bijlage=7&z=2012-01-01&g=2012-01-01).
+Het model voor het getuigschrift praktijkonderwijs van het vmbo is opgenomen in de bij deze regeling behorende [bijlage 7](https://wetten.overheid.nl/jci1.3:c:BWBR0030380&bijlage=7&z=2016-07-13&g=2016-07-13).
 
 ##### Artikel 9. Modellen vavo cijferlijsten deeleindexamen en certificaten vwo, havo en theoretische leerweg vmbo
 
 De modellen voor:
 
-- a. de cijferlijsten deeleindexamen vwo, havo en theoretische leerweg vmbo zijn opgenomen in onderscheidenlijk de bij deze regeling behorende [bijlagen 8a](https://wetten.overheid.nl/jci1.3:c:BWBR0030380&bijlage=8a&z=2012-01-01&g=2012-01-01), [8b](https://wetten.overheid.nl/jci1.3:c:BWBR0030380&bijlage=8b&z=2012-01-01&g=2012-01-01) en [8c](https://wetten.overheid.nl/jci1.3:c:BWBR0030380&bijlage=8c&z=2012-01-01&g=2012-01-01);
+- a. de cijferlijsten deeleindexamen vwo, havo en theoretische leerweg vmbo zijn opgenomen in onderscheidenlijk de bij deze regeling behorende [bijlagen 8a](https://wetten.overheid.nl/jci1.3:c:BWBR0030380&bijlage=8a&z=2016-07-13&g=2016-07-13), [8b](https://wetten.overheid.nl/jci1.3:c:BWBR0030380&bijlage=8b&z=2016-07-13&g=2016-07-13) en [8c](https://wetten.overheid.nl/jci1.3:c:BWBR0030380&bijlage=8c&z=2016-07-13&g=2016-07-13);
 
-- b. de certificaten vwo, havo en theoretische leerweg vmbo zijn opgenomen in onderscheidenlijk de bij deze regeling behorende [bijlagen 9a](https://wetten.overheid.nl/jci1.3:c:BWBR0030380&bijlage=9a&z=2012-01-01&g=2012-01-01), [9b](https://wetten.overheid.nl/jci1.3:c:BWBR0030380&bijlage=9b&z=2012-01-01&g=2012-01-01) en[9c](https://wetten.overheid.nl/jci1.3:c:BWBR0030380&bijlage=9c&z=2012-01-01&g=2012-01-01).
+- b. de certificaten vwo, havo en theoretische leerweg vmbo zijn opgenomen in onderscheidenlijk de bij deze regeling behorende [bijlagen 9a](https://wetten.overheid.nl/jci1.3:c:BWBR0030380&bijlage=9a&z=2016-07-13&g=2016-07-13), [9b](https://wetten.overheid.nl/jci1.3:c:BWBR0030380&bijlage=9b&z=2016-07-13&g=2016-07-13) en[9c](https://wetten.overheid.nl/jci1.3:c:BWBR0030380&bijlage=9c&z=2016-07-13&g=2016-07-13).
 
 ##### Artikel 10. Modellen staatsexamen diploma’s, certificaten en cijferlijsten vwo, havo en vmbo
 
-De modellen voor:
+Als modellen voor:
 
-- a. de diploma’s staatsexamen vwo, havo en vmbo zijn opgenomen in onderscheidenlijk de bij deze regeling behorende [bijlagen 10a](https://wetten.overheid.nl/jci1.3:c:BWBR0030380&bijlage=10a&z=2012-01-01&g=2012-01-01), [10b](https://wetten.overheid.nl/jci1.3:c:BWBR0030380&bijlage=10b&z=2012-01-01&g=2012-01-01) en [10c](https://wetten.overheid.nl/jci1.3:c:BWBR0030380&bijlage=10c&z=2012-01-01&g=2012-01-01);
+- a. de diploma’s staatsexamen vwo, havo en vmbo worden gehanteerd de [bijlagen 10a](https://wetten.overheid.nl/jci1.3:c:BWBR0030380&bijlage=10a&z=2016-07-13&g=2016-07-13), [10b](https://wetten.overheid.nl/jci1.3:c:BWBR0030380&bijlage=10b&z=2016-07-13&g=2016-07-13) respectievelijk [10c](https://wetten.overheid.nl/jci1.3:c:BWBR0030380&bijlage=10c&z=2016-07-13&g=2016-07-13) of, indien op grond van artikel 28a van het Staatsexamenbesluit VO BES recht bestaat op vermelding van het judicium cum laude op het diploma, de [bijlagen 10a1](https://wetten.overheid.nl/jci1.3:c:BWBR0030380&bijlage=10a1&z=2016-07-13&g=2016-07-13) voor vwo, [10b1](https://wetten.overheid.nl/jci1.3:c:BWBR0030380&bijlage=10b1&z=2016-07-13&g=2016-07-13) voor havo respectievelijk [10c1](https://wetten.overheid.nl/jci1.3:c:BWBR0030380&bijlage=10c1&z=2016-07-13&g=2016-07-13) voor vmbo;
 
-- b. de cijferlijsten staatsexamen vwo, havo en vmbo zijn opgenomen in onderscheidenlijk de bij deze regeling behorende [bijlagen 11a](https://wetten.overheid.nl/jci1.3:c:BWBR0030380&bijlage=11a&z=2012-01-01&g=2012-01-01), [11b](https://wetten.overheid.nl/jci1.3:c:BWBR0030380&bijlage=11b&z=2012-01-01&g=2012-01-01) en [11c](https://wetten.overheid.nl/jci1.3:c:BWBR0030380&bijlage=11c&z=2012-01-01&g=2012-01-01);
+- b. de cijferlijsten staatsexamen vwo, havo en vmbo worden gehanteerd de [bijlagen 11a](https://wetten.overheid.nl/jci1.3:c:BWBR0030380&bijlage=11a&z=2016-07-13&g=2016-07-13), [11b](https://wetten.overheid.nl/jci1.3:c:BWBR0030380&bijlage=11b&z=2016-07-13&g=2016-07-13) respectievelijk [11c](https://wetten.overheid.nl/jci1.3:c:BWBR0030380&bijlage=11c&z=2016-07-13&g=2016-07-13);
 
-- c. de cijferlijsten deelstaatsexamen vwo, havo en vmbo zijn opgenomen in onderscheidenlijk de bij deze regeling behorende [bijlagen 12a](https://wetten.overheid.nl/jci1.3:c:BWBR0030380&bijlage=12a&z=2012-01-01&g=2012-01-01), [12b](https://wetten.overheid.nl/jci1.3:c:BWBR0030380&bijlage=12b&z=2012-01-01&g=2012-01-01) en [12c](https://wetten.overheid.nl/jci1.3:c:BWBR0030380&bijlage=12c&z=2012-01-01&g=2012-01-01);
+- c. de cijferlijsten deelstaatsexamen vwo, havo en vmbo worden gehanteerd de [bijlagen 12a](https://wetten.overheid.nl/jci1.3:c:BWBR0030380&bijlage=12a&z=2016-07-13&g=2016-07-13), [12b](https://wetten.overheid.nl/jci1.3:c:BWBR0030380&bijlage=12b&z=2016-07-13&g=2016-07-13) respectievelijk [12c](https://wetten.overheid.nl/jci1.3:c:BWBR0030380&bijlage=12c&z=2016-07-13&g=2016-07-13);
 
-- d. de certificaten staatsexamen vwo, havo en vmbo zijn opgenomen in onderscheidenlijk de bij deze regeling behorende [bijlagen 13a](https://wetten.overheid.nl/jci1.3:c:BWBR0030380&bijlage=13a&z=2012-01-01&g=2012-01-01), [13b](https://wetten.overheid.nl/jci1.3:c:BWBR0030380&bijlage=13b&z=2012-01-01&g=2012-01-01) en [13c](https://wetten.overheid.nl/jci1.3:c:BWBR0030380&bijlage=13c&z=2012-01-01&g=2012-01-01).
+- d. de certificaten staatsexamen vwo, havo en vmbo worden gehanteerd de [bijlagen 13a](https://wetten.overheid.nl/jci1.3:c:BWBR0030380&bijlage=13a&z=2016-07-13&g=2016-07-13), [13b](https://wetten.overheid.nl/jci1.3:c:BWBR0030380&bijlage=13b&z=2016-07-13&g=2016-07-13) respectievelijk [13c](https://wetten.overheid.nl/jci1.3:c:BWBR0030380&bijlage=13c&z=2016-07-13&g=2016-07-13).
 
 ##### Artikel 11. Bewijs van ontheffing
 
-Het model voor het bewijs van ontheffing ten behoeve van het vwo, havo en vmbo en de bijbehorende verklaring zijn opgenomen in onderscheidenlijk de bij deze regeling behorende [bijlagen 14a](https://wetten.overheid.nl/jci1.3:c:BWBR0030380&bijlage=14a&z=2012-01-01&g=2012-01-01) en [14b](https://wetten.overheid.nl/jci1.3:c:BWBR0030380&bijlage=14b&z=2012-01-01&g=2012-01-01).
+Het model voor het bewijs van ontheffing ten behoeve van het vwo, havo en vmbo en de bijbehorende verklaring zijn opgenomen in onderscheidenlijk de bij deze regeling behorende [bijlagen 14a](https://wetten.overheid.nl/jci1.3:c:BWBR0030380&bijlage=14a&z=2016-07-13&g=2016-07-13) en [14b](https://wetten.overheid.nl/jci1.3:c:BWBR0030380&bijlage=14b&z=2016-07-13&g=2016-07-13).
 
 ##### Artikel 12. Overgangsbepaling
 
@@ -134,7 +132,7 @@ Deze regeling treedt in werking met ingang van 1 januari 2012.
 
 Deze regeling wordt aangehaald als: Regeling modellen diploma’s VO BES.
 
-## Bijlage 1. behorend bij de Regeling modellen diploma’s VO BES
+## Bijlage 1. behorend bij [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0030380&artikel=2&z=2016-07-13&g=2016-07-13)
 
 ### Richtlijnen voor het invullen van de modellen en beveiligen waardepapier
 
@@ -142,25 +140,25 @@ Deze regeling wordt aangehaald als: Regeling modellen diploma’s VO BES.
 
 ### Veiligheidseisen papier waardedocumenten
 
-Het is noodzakelijk dat de waardedocumenten gedrukt worden op papier dat namaak en vervalsing tegengaat. Het papier dient daarom te zijn voorzien van: een uniek watermerk, een blinddruk, UV-vezels, een vloeiend kleurverloop, microtekst en een beschermlaag die verkleurt bij mechanische of chemische aantasting. Dit papier moet zorgvuldig uit handen van onbevoegden worden gehouden. Afhankelijk van het aantal vakken worden de regels voor de vermelding van de vakken op de cijferlijst:
+Het is noodzakelijk dat de waardedocumenten gedrukt worden op papier dat namaak en vervalsing tegengaat. Het papier dient daarom te zijn voorzien van: een uniek watermerk, UV-vezels, een vloeiend kleurverloop, microtekst en een beschermlaag die verkleurt bij mechanische of chemische aantasting. Dit papier moet zorgvuldig uit handen van onbevoegden worden gehouden. Afhankelijk van het aantal vakken worden de regels voor de vermelding van de vakken op de cijferlijst:
 
 ### Naamvermelding van de school
 
-Op de examendocumenten wordt steeds voor zover van toepassing achter het woord ‘aan’ vermeld de naam van de school voor voortgezet onderwijs of instelling voor educatie en beroepsonderwijs. Betreft het zo’n instelling, dan komt er na ‘aan’ te staan: de opleiding vavo van ..... De naam van de school of de instelling is de naam zoals geregistreerd in de basisregistratie instellingen (BRIN). Een ‘andere’ locatienaam mag hieraan worden toegevoegd, mits deze als zodanig is geregistreerd in BRIN. Na de naam van de school/instelling volgt in dat geval een komma en het woord ‘locatie’ gevolgd door de naam van de locatie.
+Op de examendocumenten wordt steeds voor zover van toepassing achter het woord ‘aan’ vermeld de naam van de school voor voortgezet onderwijs of instelling voor educatie en beroepsonderwijs. Betreft het zo'n instelling, dan komt er na ‘aan’ te staan: de opleiding vavo van ... De naam van de school of de instelling is de naam zoals geregistreerd in de basisregistratie instellingen (BRIN). Een ‘andere’ locatienaam mag hieraan worden toegevoegd, mits deze als zodanig is geregistreerd in BRIN. Na de naam van de school/instelling volgt in dat geval een komma en het woord ‘locatie’ gevolgd door de naam van de locatie.
 
 ### Ondertekening
 
-Ingevolge [artikel 39, zesde lid, van het Eindexamenbesluit VO BES](https://wetten.overheid.nl/jci1.3:c:BWBR0029990&artikel=39) tekenen de directeur en de secretaris van het eindexamen de diploma’s en de cijferlijsten. De functionarissen die de examendocumenten moeten tekenen zijn en blijven onder alle omstandigheden verantwoordelijk voor de ondertekening. Tenzij anders bepaald door het bevoegd gezag, mogen zij, mits het bevoegd gezag hen die bevoegdheid heeft gegeven, een andere functionaris, die door hen daartoe schriftelijk gemandateerd is, laten tekenen, doch slechts met vermelding van ‘namens deze’ gevolgd door de handtekening, de naam en de functie van de ondertekenaar. De handtekening moet feitelijk (met pen) geschreven worden. Een gescande of gekopieerde handtekening is niet toegestaan.
+Ingevolge [artikel 39, zesde lid, van het Eindexamenbesluit VO BES](https://wetten.overheid.nl/jci1.3:c:BWBR0029990&artikel=39) tekenen de directeur en de secretaris van het eindexamen de diploma's en de cijferlijsten. De functionarissen die de examendocumenten moeten tekenen zijn en blijven onder alle omstandigheden verantwoordelijk voor de ondertekening. Tenzij anders bepaald door het bevoegd gezag, mogen zij, mits het bevoegd gezag hen die bevoegdheid heeft gegeven, een andere functionaris, die door hen daartoe schriftelijk gemandateerd is, laten tekenen, doch slechts met vermelding van 'namens deze' gevolgd door de handtekening, de naam en de functie van de ondertekenaar. De handtekening moet feitelijk (met pen) geschreven worden. Een gescande of gekopieerde handtekening is niet toegestaan.
 
-Bovenstaande geldt ook in het geval een school geen directeur kent maar een centrale directie. Op het diploma dient dan voor directeur te worden gelezen de centrale directie. De centrale directie is in dat geval verantwoordelijk voor het ondertekenen van de diploma’s. Het is echter ook mogelijk dat de centrale directie de tekenbevoegdheid overdraagt.
+Bovenstaande geldt ook in het geval een school geen directeur kent maar een centrale directie. Op het diploma dient dan voor directeur te worden gelezen de centrale directie. De centrale directie is in dat geval verantwoordelijk voor het ondertekenen van de diploma's. Het is echter ook mogelijk dat de centrale directie de tekenbevoegdheid overdraagt.
 
 Het is vanzelfsprekend dat de mandatering in het examenreglement van de school wordt vermeld om kandidaten en ouders hiervan op de hoogte te stellen.
 
 ### Cijferlijsten algemeen
 
-De afgifte van cijferlijsten is voor scholen voor voortgezet onderwijs en instellingen voor educatie en beroepsonderwijs, voor zover het betreft door die instellingen verzorgde opleidingen vavo, geregeld in [artikel 41, eerste lid, van het Eindexamenbesluit VO BES](https://wetten.overheid.nl/jci1.3:c:BWBR0029990&artikel=41) en voor staatsexamens in [artikel 28, eerste en tweede lid van het Staatsexamenbesluit.VO BES](https://wetten.overheid.nl/jci1.3:c:BWBR0029981&artikel=28)
+De afgifte van cijferlijsten is voor scholen voor voortgezet onderwijs en instellingen voor educatie en beroepsonderwijs, voor zover het betreft door die instellingen verzorgde opleidingen vavo, geregeld in [artikel 41, eerste lid, van het Eindexamenbesluit VO BES](https://wetten.overheid.nl/jci1.3:c:BWBR0029990&artikel=41) en voor staatsexamens in [artikel 28, eerste en tweede lid van het Staatsexamenbesluit VO BES](https://wetten.overheid.nl/jci1.3:c:BWBR0029981&artikel=28)
 
-Op een cijferlijst voor het eindexamen/staatsexamen wordt/worden in de cijfer-/beoordelingstabel voor zover van toepassing vermeld:
+Op een cijferlijst voor het eindexamen/staatsexamen wordt/worden in de cijfer/beoordelingstabel voor zover van toepassing vermeld:
 
 ### Extra vakken
 
@@ -168,7 +166,7 @@ Indien in meer examenvakken examen is afgelegd dan in de vakken die ten minste s
 
 ### Afronding onderdelen na aanvang van het eerste tijdvak van het centraal examen in het laatste leerjaar
 
-[Artikel 19, derde en vierde lid, van het Eindexamenbesluit VO BES](https://wetten.overheid.nl/jci1.3:c:BWBR0029990&artikel=19) noemt uitzonderingen op de hoofdregel dat het schoolexamen wordt afgesloten voor de aanvang van het eerste tijdvak van het centraal examen. Het kan voorkomen dat een kandidaat uit het laatste leerjaar in alle vakken die met een eindcijfer worden beoordeeld examen heeft afgelegd op grond waarvan de uitslag kan worden vastgesteld, maar niet voldoet aan de aanvullende bepalingen. Het betreft hier de aanvullende bepalingen ten aanzien van de vakken of het sectorwerkstuk waarvoor geen cijfer wordt vastgesteld, maar die ‘voldoende’ of ‘goed’ afgesloten moeten zijn. Deze kandidaat kan in dit geval niet slagen, maar ontvangt wel een cijferlijst. De uitslag luidt: afgewezen. Voor de onderdelen die niet naar behoren zijn afgerond wordt de vermelding gegeven: ‘n.a.’ (niet afgerond). Betreft dit een vmbo-kandidaat, die de school verlaat, dan ontvangt hij tevens een certificaat.
+[Artikel 19, derde en vierde lid, van het Eindexamenbesluit VO BES](https://wetten.overheid.nl/jci1.3:c:BWBR0029990&artikel=19) noemt uitzonderingen op de hoofdregel dat het schoolexamen wordt afgesloten voor de aanvang van het eerste tijdvak van het centraal examen. Het kan voorkomen dat een kandidaat uit het laatste leerjaar in alle vakken die met een eindcijfer worden beoordeeld examen heeft afgelegd op grond waarvan de uitslag kan worden vastgesteld, maar niet voldoet aan de aanvullende bepalingen. Het betreft hier de aanvullende bepalingen ten aanzien van de vakken of het sectorwerkstuk waarvoor geen cijfer wordt vastgesteld, maar die ‘voldoende’ of ‘goed’ afgesloten moeten zijn. Deze kandidaat kan in dit geval niet slagen, maar ontvangt wel een cijferlijst. De uitslag luidt: afgewezen. Voor de onderdelen die niet naar behoren zijn afgerond wordt de vermelding gegeven: 'n.a.' (niet afgerond). Betreft dit een vmbo-kandidaat, die de school verlaat, dan ontvangt hij tevens een certificaat.
 
 ### Vak aan andere school
 
@@ -188,7 +186,7 @@ Vakken waarin het examen op een hoger niveau is afgelegd, worden op de cijferlij
 
 ### Uitslag
 
-Bij ‘uitslag’ voor het eindexamen of staatsexamen wordt het volgende ingevuld (zie [artikel 36, tweede lid, van het Eindexamenbesluit VO BES](https://wetten.overheid.nl/jci1.3:c:BWBR0029990&artikel=36) en [artikel 23, vijfde lid, Staatsexamenbesluit VO BES](https://wetten.overheid.nl/jci1.3:c:BWBR0029981&artikel=23)):
+Bij 'uitslag' voor het eindexamen of staatsexamen wordt het volgende ingevuld (zie [artikel 36, tweede lid, van het Eindexamenbesluit VO BES](https://wetten.overheid.nl/jci1.3:c:BWBR0029990&artikel=36) en [artikel 23, vijfde lid, Staatsexamenbesluit VO BES](https://wetten.overheid.nl/jci1.3:c:BWBR0029981&artikel=23)):
 
 ### Voorlopige cijferlijst
 
@@ -218,7 +216,7 @@ Op het getuigschrift basisberoepsgerichte leerweg wordt het met goed gevolg afge
 
 ### Bewijs van ontheffing
 
-Op het bewijs van ontheffing dient achter de regel: ‘recht heeft op ontheffing bij het verwerven van het diploma’, de schoolsoort voluit te worden vermeld met indien van toepassing: de leerweg.
+Op het bewijs van ontheffing dient achter de regel: 'recht heeft op ontheffing bij het verwerven van het diploma, de schoolsoort voluit te worden vermeld met indien van toepassing: de leerweg.
 
 **Afwijkende/bijzondere vermeldingen**
 
@@ -228,23 +226,25 @@ Op het bewijs van ontheffing dient achter de regel: ‘recht heeft op ontheffing
 
 Als de examenresultaten voor twee of meer profielen leiden tot de uitslag ‘geslaagd’, dan wordt de naam van de betreffende profielen vermeld op het diploma (zie [artikel 39, tweede lid, van het Eindexamenbesluit VO BES](https://wetten.overheid.nl/jci1.3:c:BWBR0029990&artikel=39) en [artikel 28, derde lid, van het Staatsexamenbesluit VO BES](https://wetten.overheid.nl/jci1.3:c:BWBR0029981&artikel=28)).
 
-Op het diploma eindexamen vwo wordt achter eindexamen vermeld: gymnasium of atheneum
+Op het diploma eindexamen vwo wordt achter eindexamen vermeld: gymnasium of atheneum.
 
 ### Cijferlijsten vwo en havo
 
 Voor:
 
-Alle andere vermeldingen dan de vermeldingen genoemd in bovenstaande artikelen maken de cijferlijst ongeldig.
+Voor:
 
 ### Profielvermelding
 
 Op de cijferlijst voor het eindexamen wordt in het tekstgedeelte boven de cijfer-/beoordelingstabel achter de regel ‘heeft deelgenomen aan het eindexamen voorbereidend wetenschappelijk onderwijs of hoger algemeen voortgezet onderwijs conform het profiel’, de officiële benaming van het profiel vermeld zoals genoemd in [artikel 38, derde lid van de Wet voortgezet onderwijs BES](https://wetten.overheid.nl/jci1.3:c:BWBR0030284&artikel=38) (WVO BES).
 
-In het geval een kandidaat kan slagen voor twee of meer profielen, wordt voor elk profiel afzonderlijk een cijferlijst afgegeven. Om te kunnen slagen voor twee of meer profielen is het overigens voldoende om voor één profiel een profielwerkstuk te maken. Als dat profielwerkstuk ‘past’ in de overige profielen, wordt het op elk van de cijferlijsten vermeld. Als het in één profiel niet past, wordt in de desbetreffende ruimte vermeld: n.v.t.
+Op de cijferlijst voor het eindexamen wordt in het tekstgedeelte boven de cijfer-/beoordelingstabel achter de regel ‘heeft deelgenomen aan het eindexamen voorbereidend wetenschappelijk onderwijs of hoger algemeen voortgezet onderwijs conform het profiel’, de officiële benaming van het profiel vermeld zoals genoemd in [artikel 38, derde lid van de Wet voortgezet onderwijs BES](https://wetten.overheid.nl/jci1.3:c:BWBR0030284&artikel=38) (WVO BES).
 
 ### Combinatiecijfer
 
 Onder het gemeenschappelijk deel wordt achter ‘combinatiecijfer’ het rekenkundig gemiddelde van de afgeronde eindcijfers van de betreffende vakken/onderdelen, afgerond vermeld op de cijferlijst (in een cijfer en in letters). Deze afronding gebeurt overeenkomstig de vaststelling van het eindcijfer per vak, door het eerste cijfer achter de komma naar beneden af te ronden indien dat een 4 of lager is en naar boven, indien dat cijfer een 5 of hoger is (een 5,5 wordt dus een 6 en 5,45 een 5): [artikel 37, achtste lid, van het Eindexamenbesluit VO BES](https://wetten.overheid.nl/jci1.3:c:BWBR0029990&artikel=37). Achter het ‘combinatiecijfer’ (tot slot van het gemeenschappelijk deel) is een asterisk *) opgenomen die verwijst naar de vakken/onderdelen die deel uitmaken van het combinatiecijfer (zie artikel 37, zesde lid, van het Eindexamenbesluit VO BES, welke onder aan de cijferlijst worden genoemd. Onder ‘*) onderdelen van het combinatiecijfer’ worden de betreffende vakken/onderdelen opgenomen met vermelding van het afgeronde cijfer en het(zelfde) afgeronde eindcijfer (in een cijfer en in letters).
+
+Onder het gemeenschappelijk deel wordt achter ‘combinatiecijfer’ het rekenkundig gemiddelde van de afgeronde eindcijfers van de betreffende vakken/onderdelen, afgerond vermeld op de cijferlijst (in een cijfer en in letters). Deze afronding gebeurt overeenkomstig de vaststelling van het eindcijfer per vak, door het eerste cijfer achter de komma naar beneden af te ronden indien dat een 4 of lager is en naar boven, indien dat cijfer een 5 of hoger is (een 5,5 wordt dus een 6 en 5,45 een 5): [artikel 37, achtste lid, van het Eindexamenbesluit VO BES](https://wetten.overheid.nl/jci1.3:c:BWBR0029990&artikel=37). Achter het ‘combinatiecijfer’ (tot slot van het gemeenschappelijk deel) is een asterisk *) opgenomen die verwijst naar de vakken/onderdelen die deel uitmaken van het combinatiecijfer (zie [artikel 37, zesde lid, van het Eindexamenbesluit VO BES](https://wetten.overheid.nl/jci1.3:c:BWBR0029990&artikel=37), welke onder aan de cijferlijst worden genoemd. Onder ‘*) onderdelen van het combinatiecijfer’ worden de betreffende vakken/onderdelen opgenomen met vermelding van het afgeronde cijfer en het(zelfde) afgeronde eindcijfer (in een cijfer en in letters).
 
 Het profielwerkstuk wordt vermeld onderaan de cijferlijst in de daarvoor bestemde kolom onder vermelding van de titel of het onderwerp en het vak of de vakken waarop het betrekking heeft.
 
@@ -254,11 +254,9 @@ De cijfers van de onderdelen en vakken waaruit het combinatiecijfer is samengest
 
 Vakken die in ieder geval tot het combinatiecijfer behoren zijn:
 
-Daarnaast kan het bevoegd gezag de volgende vakken toevoegen aan het combinatiecijfer (zie hiervoor de voorwaarde uit [artikel 37, zevende lid, van het Eindexamenbesluit VO BES](https://wetten.overheid.nl/jci1.3:c:BWBR0029990&artikel=37)):
-
 ### Vrijstelling of ontheffing
 
-### Ontheffing van een taal
+### Vrijstelling of ontheffing
 
 Indien in het atheneum op grond van [artikel 23, vierde lid, van het Inrichtingsbesluit VO BES](https://wetten.overheid.nl/jci1.3:c:BWBR0029589&artikel=23) ontheffing is verleend voor het volgen van een taal, waarbij de taal moet worden vervangen door een ander examenvak, dan wordt dat examenvak vermeld op de cijferlijst in plaats van de vervangen taal (dus in het gemeenschappelijke deel).
 
@@ -266,7 +264,7 @@ Indien in het atheneum op grond van [artikel 23, vierde lid, van het Inrichtings
 
 Een kandidaat kan worden vrijgesteld van een profielwerkstuk indien hij reeds eerder een profielwerkstuk heeft gemaakt dat betrekking heeft op een of meer vakken van dezelfde schoolsoort en dat behoort tot het profiel van de kandidaat, mits hij daarvoor een eindcijfer 6 of hoger of een daarmee overeenkomende waardering heeft behaald,. (zie [artikel 8 van het Eindexamenbesluit VO BES](https://wetten.overheid.nl/jci1.3:c:BWBR0029990&artikel=8) en [artikel 9 van het Staatsexamenbesluit BES](https://wetten.overheid.nl/jci1.3:c:BWBR0029981&artikel=9)).
 
-Vakken waarvoor de kandidaat is vrijgesteld op grond van deze artikelen worden op de cijferlijst opgenomen met vermelding van het eerder behaalde cijfer (zie [artikel 39, vijfde lid, van het Eindexamenbesluit VO BES](https://wetten.overheid.nl/jci1.3:c:BWBR0029990&artikel=39)[artikel 28, zesde lid, van het Staatsexamenbesluit VO BES](https://wetten.overheid.nl/jci1.3:c:BWBR0029981&artikel=28)). Hierop bestaat een uitzondering indien de kandidaat zijn profielwerkstuk volgens de ‘oude profielen’ heeft gemaakt, dat is beoordeeld als ‘voldoende’ of ‘goed’ en vervolgens het diploma volgens de ‘nieuwe profielen’ aan het vavo of met het staatsexamen wil behalen. Het volgende is dan mogelijk:
+Een kandidaat kan worden vrijgesteld van een profielwerkstuk indien hij reeds eerder een profielwerkstuk heeft gemaakt dat betrekking heeft op een of meer vakken van dezelfde schoolsoort en dat behoort tot het profiel van de kandidaat, mits hij daarvoor een eindcijfer 6 of hoger of een daarmee overeenkomende waardering heeft behaald,. (zie [artikel 8 van het Eindexamenbesluit VO BES](https://wetten.overheid.nl/jci1.3:c:BWBR0029990&artikel=8) en [artikel 9 van het Staatsexamenbesluit BES](https://wetten.overheid.nl/jci1.3:c:BWBR0029981&artikel=9)).
 
 ### Combinatiecijfer aan het vavo/staatsexamen
 
@@ -282,17 +280,21 @@ Indien de kandidaat met het profiel cultuur en maatschappij het eindexamen afleg
 
 ### Leerwegen vmbo
 
-### Diploma
+### Leerwegen vmbo
+
+Op het diploma wordt/worden naast de leerweg ook de sector(en) vermeld. Dit houdt in dat op de regel die volgt na ‘aan het eindexamen’ de officiële naam van de betreffende leerweg wordt ingevuld met daar achter ‘conform de sector’ de vermelding van de officiële naam van de gevolgde sector, zoals genoemd in:
 
 Op het diploma wordt/worden naast de leerweg ook de sector(en) vermeld. Dit houdt in dat op de regel die volgt na ‘aan het eindexamen’ de officiële naam van de betreffende leerweg wordt ingevuld met daar achter ‘conform de sector’ de vermelding van de officiële naam van de gevolgde sector, zoals genoemd in:
 
 Indien de kandidaat kan slagen voor meer dan één sector, dan wordt ook de naam van die sector(en) vermeld.
 
-De kandidaat die de gemengde leerweg met een extra algemeen vak heeft afgerond ontvangt op zijn verzoek een diploma vmbo theoretische leerweg en een bijbehorende cijferlijst; zie [artikel 39, achtste lid, van het Eindexamenbesluit VO BES](https://wetten.overheid.nl/jci1.3:c:BWBR0029990&artikel=39).
-
 ### Cijferlijsten
 
-Voor:
+Op het diploma van een kandidaat die is geslaagd wordt – indien van toepassing – ingevolge [artikel 39a van het Eindexamenbesluit VO BES](https://wetten.overheid.nl/jci1.3:c:BWBR0029990&artikel=39a) en [artikel 28a van het Staatsexamenbesluit VO BES](https://wetten.overheid.nl/jci1.3:c:BWBR0029981&artikel=28a), het judicium cum laude vermeld.
+
+Alle andere vermeldingen dan de vermeldingen genoemd in bovenstaande artikelen, maken de cijferlijst ongeldig.
+
+### Vermelding leerweg én sector(en)
 
 Alle andere vermeldingen dan de vermeldingen genoemd in bovenstaande artikelen, maken de cijferlijst ongeldig.
 
@@ -304,21 +306,27 @@ Ook op de cijferlijst wordt nu in het tekstgedeelte boven de cijfer-/beoordeling
 
 De vermelding van ‘thema of titel van sectorwerkstuk’ is alleen voor de theoretische en de gemengde leerweg van toepassing en dient bij de basis- en kaderberoepsgerichte leerweg weggelaten te worden.
 
-### Vak op hoger niveau
-
-Indien toepassing is gegeven aan de mogelijkheid één of meer vakken op een hoger niveau af te sluiten, dan wordt achter de desbetreffende vaknaam (uit dat niveau) tussen haakjes de leerweg (KB, GL of TL) of schoolsoort (vwo of havo), afgekort vermeld op de cijferlijst.
-
 De vakken waarvoor de kandidaat met een diploma basis- of kaderberoepsgerichte leerweg in de theoretische leerweg is vrijgesteld op grond van een eerder afgelegd examen in vakken van de theoretische leerweg of vwo/havo, worden op de cijferlijst vermeld met overname van de eerder behaalde resultaten ([artikel 39, vijfde lid, van het Eindexamenbesluit VO BES](https://wetten.overheid.nl/jci1.3:c:BWBR0029990&artikel=39)).
 
 ### Leer-werktraject
 
-Indien het een leer-werktraject-basisberoepsgerichte leerweg betreft, worden minimaal de cijfers van het vak Nederlandse taal (gemeenschappelijk deel) en het beroepsgerichte programma (vrije deel) vermeld (zie [artikel 19 van de WVO BES](https://wetten.overheid.nl/jci1.3:c:BWBR0030284&artikel=19)).
+De vakken waarvoor de kandidaat met een diploma basis- of kaderberoepsgerichte leerweg in de theoretische leerweg is vrijgesteld op grond van een eerder afgelegd examen in vakken van de theoretische leerweg of vwo/havo, worden op de cijferlijst vermeld met overname van de eerder behaalde resultaten ([artikel 39, vijfde lid, van het Eindexamenbesluit VO BES](https://wetten.overheid.nl/jci1.3:c:BWBR0029990&artikel=39)).
 
 ## Bijlage 2a. behorend bij de Regeling modellen diploma’s VO BES
 
 ## Bijlage 2b. behorend bij de Regeling modellen diploma’s VO BES
 
+## Bijlage 2a. behorend bij de Regeling modellen diploma’s VO BES
+
+## Bijlage 2a1
+
+## Bijlage 2b. behorend bij de Regeling modellen diploma’s VO BES
+
+## Bijlage 2b1
+
 ## Bijlage 2c. behorend bij de Regeling modellen diploma’s VO BES
+
+## Bijlage 2c1
 
 ## Bijlage 3a. behorend bij de Regeling modellen diploma’s VO BES
 
@@ -352,15 +360,75 @@ Indien het een leer-werktraject-basisberoepsgerichte leerweg betreft, worden min
 
 ## Bijlage 10a. behorend bij de Regeling modellen diploma’s VO BES
 
+## Bijlage 10a1
+
 ## Bijlage 10b. behorend bij de Regeling modellen diploma’s VO BES
 
+## Bijlage 10b1
+
 ## Bijlage 10c. behorend bij de Regeling modellen diploma’s VO BES
+
+## Bijlage 10c1
 
 ## Bijlage 11a. behorend bij de Regeling modellen diploma’s VO BES
 
 ## Bijlage 11b. behorend bij de Regeling modellen diploma’s VO BES
 
 ## Bijlage 11c. behorend bij de Regeling modellen diploma’s VO BES
+
+Deze regeling zal met toelichting in de Staatscourant worden geplaatst.
+
+### Afwijkende/bijzondere vermeldingen
+
+Op het diploma van een kandidaat die is geslaagd wordt – indien van toepassing – ingevolge [artikel 39a van het Eindexamenbesluit VO BES](https://wetten.overheid.nl/jci1.3:c:BWBR0029990&artikel=39a) en [artikel 28a van het Staatsexamenbesluit VO BES](https://wetten.overheid.nl/jci1.3:c:BWBR0029981&artikel=28a), het judicium cum laude vermeld.
+
+### Cijferlijsten vwo en havo
+
+Alle andere vermeldingen dan de vermeldingen genoemd in bovenstaande artikelen maken de cijferlijst ongeldig.
+
+### Profielvermelding
+
+In het geval een kandidaat kan slagen voor twee of meer profielen, wordt voor elk profiel afzonderlijk een cijferlijst afgegeven. Om te kunnen slagen voor twee of meer profielen is het overigens voldoende om voor één profiel een profielwerkstuk te maken. Als dat profielwerkstuk 'past' in de overige profielen, wordt het op elk van de cijferlijsten vermeld. Als het in één profiel niet past, wordt in de desbetreffende ruimte vermeld: n.v.t.
+
+### Combinatiecijfer
+
+Daarnaast kan het bevoegd gezag de volgende vakken toevoegen aan het combinatiecijfer (zie hiervoor de voorwaarde uit [artikel 37, zevende lid, van het Eindexamenbesluit VO BES](https://wetten.overheid.nl/jci1.3:c:BWBR0029990&artikel=37)):
+
+### Ontheffing van een taal
+
+Indien in het atheneum op grond van artikel 23, vierde lid, van het Inrichtingsbesluit VO BES ontheffing is verleend voor het volgen van een taal, waarbij de taal moet worden vervangen door een ander examenvak, dan wordt dat examenvak vermeld op de cijferlijst in plaats van de vervangen taal (dus in het gemeenschappelijke deel).
+
+### Vermelding van vrijstelling aan vavo/staatsexamen voor profielwerkstuk oud naar nieuw
+
+Vakken waarvoor de kandidaat is vrijgesteld op grond van deze artikelen worden op de cijferlijst opgenomen met vermelding van het eerder behaalde cijfer (zie [artikel 39, vijfde lid, van het Eindexamenbesluit VO BES](https://wetten.overheid.nl/jci1.3:c:BWBR0029990&artikel=39)[artikel 28, zesde lid, van het Staatsexamenbesluit VO BES](https://wetten.overheid.nl/jci1.3:c:BWBR0029981&artikel=28)). Hierop bestaat een uitzondering indien de kandidaat zijn profielwerkstuk volgens de ‘oude profielen’ heeft gemaakt, dat is beoordeeld als ‘voldoende'’ of ‘goed’ en vervolgens het diploma volgens de ‘nieuwe profielen’ aan het vavo of met het staatsexamen wil behalen. Het volgende is dan mogelijk:
+
+### Combinatiecijfer aan het vavo/staatsexamen
+
+Indien achter het profielwerkstuk ‘vr’ wordt vermeld en de vakken anw en maatschappijleer hoeven geen deel uit te maken van het eindexamen en er zijn geen andere onderdelen die deel uitmaken van het combinatiecijfer, dan wordt ook achter ‘het combinatiecijfer’: ‘vr’ vermeld.
+
+### Vermelding van vwo-vak in plaats van havo-vak
+
+Op het havo kunnen één of meer vakken worden vervangen door de overeenkomstige vakken op vwo-niveau. Bij toepassing van deze mogelijkheid wordt achter het afgesloten overeenkomstige vwo-vak op de havo-cijferlijst tussen haakjes opgenomen: (vwo). [Artikel 39, vijfde lid, van het Eindexamenbesluit VO BES](https://wetten.overheid.nl/jci1.3:c:BWBR0029990&artikel=39), regelt dat de vakken waarvoor de kandidaat (met diploma) in het havo of vwo is vrijgesteld op grond van eerder afgelegd examen worden vermeld op de cijferlijst met overname van de eerder behaalde resultaten.
+
+### Vermelding bij twee kunstvakken (die naast elkaar gekozen mogen worden)
+
+Indien de kandidaat met het profiel cultuur en maatschappij het eindexamen aflegt in een van de vakken kunst (beeldende vormgeving, muziek, drama of dans) in het vrije deel – dit teneinde te voldoen aan de verplichting dat in dat vrije deel het eindexamen tenminste één vak omvat met een normatieve studielast van tenminste 320 (havo, of 440 bij vwo) studielasturen – en hij ook als onderdeel van het profieldeel reeds eindexamen aflegt in een van de vakken kunst (een andere variant), wordt het onderdeel kunst (algemeen) in het examen (en dus het centraal examen) vervangen door aanvullende verdiepende en/of verbredende onderdelen op het gebied van kunst in het schoolexamen met een normatieve studielast van tenminste 120 (havo, of 160 in vwo) studielasten, door het bevoegd gezag te bepalen. Er is dan dus geen centraal examen. Op de cijferlijst wordt dan ook alleen het cijfer voor het schoolexamen vermeld.
+
+### Diploma
+
+De kandidaat die de gemengde leerweg met een extra algemeen vak heeft afgerond ontvangt op zijn verzoek een diploma vmbo theoretische leerweg en een bijbehorende cijferlijst; zie [artikel 39, achtste lid, van het Eindexamenbesluit VO BES](https://wetten.overheid.nl/jci1.3:c:BWBR0029990&artikel=39).
+
+### Cijferlijsten
+
+Voor:
+
+### Vak op hoger niveau
+
+Indien toepassing is gegeven aan de mogelijkheid één of meer vakken op een hoger niveau af te sluiten, dan wordt achter de desbetreffende vaknaam (uit dat niveau) tussen haakjes de leerweg (KB, GL of TL) of schoolsoort (vwo of havo), afgekort vermeld op de cijferlijst.
+
+### Leer-werktraject
+
+Indien het een leer-werktraject de basisberoepsgerichte leerweg betreft, worden minimaal de cijfers van het vak Nederlandse taal (gemeenschappelijk deel) en het beroepsgerichte programma (vrije deel) vermeld (zie [artikel 19 van de WVO BES](https://wetten.overheid.nl/jci1.3:c:BWBR0030284&artikel=19)).
 
 ## Bijlage 12a. behorend bij de Regeling modellen diploma’s VO BES
 
