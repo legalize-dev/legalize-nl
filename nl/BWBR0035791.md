@@ -4,7 +4,7 @@ identifier: "BWBR0035791"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-12-24"
-last_updated: "2016-05-04"
+last_updated: "2016-07-14"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0035791"
 soort: "ministeriele-regeling"
@@ -1178,6 +1178,8 @@ Vanaf 1 september 2011 tot 1 september 2017 is deze frequentieband, voor zover z
 
 Niettegenstaande de hiervoor bedoelde koppeling is het desbetreffende deel van deze frequentieband tevens bestemd voor niet-landelijke commerciële radio-omroepen die op basis van een schriftelijke overeenkomst met de betrokken (al dan niet toekomstige) vergunninghouder verzekerd hebben dat zij ten behoeve van de verspreiding van radioprogramma’s toegang hebben tot een netwerk dat wordt geëxploiteerd met een vergunning die betrekking heeft op de frequentieband 174 – 230 MHz.
 
+Vanaf 1 september 2017 tot 1 september 2022 is de frequentieruimte behorend bij één FM-vergunning voor landelijke commerciële radio-omroep gekoppeld met 1/9 deel van de capaciteit van de frequentieruimte van het frequentieblok 11C, bedoeld in nationale voetnoot HOL007A ten behoeve van in elk geval het ongewijzigd en gelijktijdig digitaal uitzenden van de radioprogramma’s die op grond van de landelijke commerciële FM-vergunningen worden uitgezonden. Daarbij is de in de vorige volzin bedoelde frequentieruimte in de FM-band bestemd voor landelijke commerciële omroepen die zowel een FM-vergunning voor landelijke commerciële radio-omroep als een vergunning voor 1/9 deel van de capaciteit van het frequentieblok 11C houden of gaan houden.
+
 Aangewezen voor Defensie ten behoeve van militaire omroep voor in Nederland gelegerde buitenlandse strijdkrachten.
 
 Tot 1 september 2017 zijn de frequentiebanden 182.792 – 184.504 MHz; 188 – 189.784 MHz; 195 – 196.792 MHz; 207.208 – 209MHz, voor zover betrekking hebbend op de allotments 6B, 7A, 8A en 9D, gekoppeld met de frequentiebanden 87.5 MHz tot 104.9 MHz en 526.5 kHz tot en met 1606.5 kHz en zijn deze banden bestemd voor:
@@ -1192,6 +1194,8 @@ Tot 1 september 2017 is de frequentieband 219.496 – 221.208 MHz gekoppeld met 
 
 Onverminderd de vorige alinea, is deze band in elk geval bestemd voor het uitzenden van achttien programmakanalen als bedoeld in [artikel 1.1 van de Mediawet](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&artikel=1.1) 2008 volledig bestaande uit digitale radioprogramma’s als bedoeld in artikel 1.1 van de Mediawet 2008, waarbij negen programmakanalen bestemd zijn voor het ongewijzigd en gelijktijdig uitzenden van de radioprogramma’s van landelijke commerciële radio-omroepen die door middel van de frequentieband 87.5 MHz tot 104.9 MHz worden uitgezonden.
 
+Vanaf 1 september 2017 tot 1 september 2022 is 1/9 deel van de capaciteit van de frequentieruimte van het frequentieblok 11C, bedoeld in nationale voetnoot HOL007A, gekoppeld met de frequentieruimte behorend bij één FM-vergunning voor landelijke commerciële radio-omroep ten behoeve van in elk geval het ongewijzigd en gelijktijdig digitaal uitzenden van de radioprogramma’s die op grond van de landelijke commerciële FM-vergunningen worden uitgezonden. Daarbij is de in de vorige volzin bedoelde frequentieruimte van het frequentieblok 11C bestemd voor landelijke commerciële omroepen die zowel een vergunning voor 1/9 deel van de capaciteit van het frequentieblok 11C als een FM-vergunning voor landelijke commerciële radio-omroep houden of gaan houden.
+
 Voor de volgende frequentieband geldt vergunningverlening aan landelijke commerciële omroep op volgorde van binnenkomst van de aanvraag:
 
 Volgens overeengekomen afspraken en voorwaarden kan het ministerie van Defensie
@@ -1202,11 +1206,11 @@ voetnoot geldt tot 1 januari 2017.
 
 Bestemming voor GNSS-repeaters voor de hoofdcategorie zakelijk gebruik is ingeperkt
 
-tot bedrijven die GNSS toepassingen ontwerpen, testen, inbouwen of onderhouden.
+### Annex 4, Gebruikte afkortingen en begrippen / Abbreviations and terms
 
 CGC’s dienen integraal onderdeel uit te maken van een satellietsysteem en dienen onder controle te staan van het satellietcapaciteits- en netwerkbeheersmechanisme.
 
-### Annex 4, Gebruikte afkortingen en begrippen / Abbreviations and terms
+**AIS –**Automatic Identification System
 
 Verklaring van in de Nationale Frequentietabel gebruikte afkortingen en begrippen, anders dan ITU diensten25Uitleg over de begrippen kan ook worden gevonden op www.telecomabc.nl en tevens in het Nationaal Frequentieregister (NFR), zie http://www.agentschaptelecom.nl/onderwerpen/frequentiemanagement/nationaal-frequentieregister. / **Explanation of abbreviations and notions as used in the frequency table, other than ITU radio services.**
 
@@ -1368,15 +1372,15 @@ Kerktelefonie – Systeem bestemd voor het integraal lokaal audio uitzenden van 
 
 **Vaste verbindingen / Fixed links**
 
-Vaste verbindingen worden ook wel straalverbindingen genoemd. Hierbij wordt gebruik gemaakt van twee vaste opstelpunten en richtantennes.
+### Annex 5, Summary of this Dutch Frequency Plan
 
 **VoA** – Verdeling op Afroep. Zie par. 5.6.
 
-### Annex 5, Summary of this Dutch Frequency Plan
+**VOR** – **VHF Omnidirectional Radio range** / Navigatiesysteem voor de luchtvaart.
 
 **WRC –** **World Radio Conference**
 
-This Dutch frequency plan, edition 2014 (NFP2014) is a fully revised decree document of the last National Frequency Plan, edition 2005 (NFP2005). More limited changes of the frequency table have been published, on an average half-yearly basis, as interim changes since the NFP2005.
+The main part of this decree is the frequency table (chapter 10). It contains an overview of present allocations, assignments and designations in the Netherlands. The chapters preceding the table provide an introduction, an explanation and background.
 
 This Dutch frequency plan, edition 2014 (NFP2014) is a fully revised decree document of the last National Frequency Plan, edition 2005 (NFP2005). More limited changes of the frequency table have been published, on an average half-yearly basis, as interim changes since the NFP2005.
 
@@ -1436,21 +1440,29 @@ Bezuidenhoutseweg 73
 
 Postbus 20401
 
+Tegen dit besluit kan degene wiens belang rechtstreeks bij dit besluit is betrokken binnen 6 weken na de dag van dagtekening van deze Staatscourant een gemotiveerd beroepschrift indienen bij de rechtbank Rotterdam, Postbus 50950, 3007 BL, Rotterdam.
+
+Vaste verbindingen worden ook wel straalverbindingen genoemd. Hierbij wordt gebruik gemaakt van twee vaste opstelpunten en richtantennes.
+
+### Annex 5, Summary of this Dutch Frequency Plan
+
 2500 EK Den Haag
+
+Tegen dit besluit kan degene wiens belang rechtstreeks bij dit besluit is betrokken binnen 6 weken na de dag van dagtekening van deze Staatscourant een gemotiveerd beroepschrift indienen bij de rechtbank Rotterdam, Postbus 50950, 3007 BL, Rotterdam.
+
+### Annex 5, Summary of this Dutch Frequency Plan
 
 Telefoon (070) 379 89 11
 
 Tegen dit besluit kan degene wiens belang rechtstreeks bij dit besluit is betrokken binnen 6 weken na de dag van dagtekening van deze Staatscourant een gemotiveerd beroepschrift indienen bij de rechtbank Rotterdam, Postbus 50950, 3007 BL, Rotterdam.
 
-**VOR** – **VHF Omnidirectional Radio range** / Navigatiesysteem voor de luchtvaart.
+tot bedrijven die GNSS toepassingen ontwerpen, testen, inbouwen of onderhouden.
+
+### Annex 4, Gebruikte afkortingen en begrippen / Abbreviations and terms
 
 ### Annex 5, Summary of this Dutch Frequency Plan
 
 Internet http://www.rijksoverheid.nl/frequentiebeleid
-
-Tegen dit besluit kan degene wiens belang rechtstreeks bij dit besluit is betrokken binnen 6 weken na de dag van dagtekening van deze Staatscourant een gemotiveerd beroepschrift indienen bij de rechtbank Rotterdam, Postbus 50950, 3007 BL, Rotterdam.
-
-### Annex 5, Summary of this Dutch Frequency Plan
 
 Email: frequenties@minez.nl
 
