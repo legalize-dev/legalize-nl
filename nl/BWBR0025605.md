@@ -4,7 +4,7 @@ identifier: "BWBR0025605"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2024-10-01"
-last_updated: "2013-07-27"
+last_updated: "2016-07-14"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0025605"
 soort: "ministeriele-regeling"
@@ -54,15 +54,15 @@ In deze regeling wordt verstaan onder:
 
 ##### Artikel 2
 
-1. Voor de opname van een aantekening in een van de registers op basis van [artikel 8, tweede lid, onderdeel b, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&artikel=8) is een periodiek registratie certificaat vereist waaruit blijkt dat betrokkene beschikt over de voor het betrokken beroep benodigde kerncompetenties, genoemd in de [artikelen 4](https://wetten.overheid.nl/jci1.3:c:BWBR0025605&artikel=4&z=2013-07-27&g=2013-07-27), [5](https://wetten.overheid.nl/jci1.3:c:BWBR0025605&artikel=5&z=2013-07-27&g=2013-07-27), [6a tot en met 6e](https://wetten.overheid.nl/jci1.3:c:BWBR0025605&artikel=6a&z=2013-07-27&g=2013-07-27). Het periodiek registratie certificaat is op het moment van het indienen van de aanvrage voor opname van een aantekening in een van de registers op basis van artikel 8, tweede lid, onderdeel b, van de wet, niet ouder dan twee jaar.
+1. Voor de opname van een aantekening in een van de registers op basis van [artikel 8, tweede lid, onderdeel b, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&artikel=8) is een periodiek registratie certificaat vereist waaruit blijkt dat betrokkene beschikt over de voor het betrokken beroep benodigde kerncompetenties, genoemd in de [artikelen 4](https://wetten.overheid.nl/jci1.3:c:BWBR0025605&artikel=4&z=2016-07-14&g=2016-07-14), [5](https://wetten.overheid.nl/jci1.3:c:BWBR0025605&artikel=5&z=2016-07-14&g=2016-07-14), [6a tot en met 6e](https://wetten.overheid.nl/jci1.3:c:BWBR0025605&artikel=6a&z=2016-07-14&g=2016-07-14). Het periodiek registratie certificaat is op het moment van het indienen van de aanvrage voor opname van een aantekening in een van de registers op basis van artikel 8, tweede lid, onderdeel b, van de wet, niet ouder dan twee jaar.
 
-2. Het periodiek registratie certificaat wordt verstrekt door een onderwijsinstelling die opleidingen verzorgt die leiden tot een getuigschrift dat recht geeft op inschrijving in het register van fysiotherapeut, verloskundige, verpleegkundige, arts, tandarts, apotheker, gezondheidszorgpsycholoog of psychotherapeut. Het periodiek registratie certificaat wordt verstrekt indien blijkt dat de beroepsbeoefenaar beschikt over alle voor het betrokken beroep benodigde kerncompetenties, genoemd in de [artikelen 4](https://wetten.overheid.nl/jci1.3:c:BWBR0025605&artikel=4&z=2013-07-27&g=2013-07-27), [5](https://wetten.overheid.nl/jci1.3:c:BWBR0025605&artikel=5&z=2013-07-27&g=2013-07-27), [6a tot en met 6e](https://wetten.overheid.nl/jci1.3:c:BWBR0025605&artikel=6a&z=2013-07-27&g=2013-07-27), op het niveau van de initiële opleiding die recht geeft op inschrijving in een van de hiervoor genoemde registers.
+2. Het periodiek registratie certificaat wordt verstrekt door een onderwijsinstelling die opleidingen verzorgt die leiden tot een getuigschrift dat recht geeft op inschrijving in het register van fysiotherapeut, verloskundige, verpleegkundige, arts, tandarts, apotheker, gezondheidszorgpsycholoog of psychotherapeut. Het periodiek registratie certificaat wordt verstrekt indien blijkt dat de beroepsbeoefenaar beschikt over alle voor het betrokken beroep benodigde kerncompetenties, genoemd in de [artikelen 4](https://wetten.overheid.nl/jci1.3:c:BWBR0025605&artikel=4&z=2016-07-14&g=2016-07-14), [5](https://wetten.overheid.nl/jci1.3:c:BWBR0025605&artikel=5&z=2016-07-14&g=2016-07-14), [6a tot en met 6e](https://wetten.overheid.nl/jci1.3:c:BWBR0025605&artikel=6a&z=2016-07-14&g=2016-07-14), op het niveau van de initiële opleiding die recht geeft op inschrijving in een van de hiervoor genoemde registers.
 
-3. De te volgen scholing houdt verband met het beroep waarvoor een aantekening in het register wordt aangevraagd en is gericht op het verwerven van kennis, inzicht en vaardigheden in de kerncompetenties, genoemd in de [artikelen 4](https://wetten.overheid.nl/jci1.3:c:BWBR0025605&artikel=4&z=2013-07-27&g=2013-07-27), [5](https://wetten.overheid.nl/jci1.3:c:BWBR0025605&artikel=5&z=2013-07-27&g=2013-07-27), [6a tot en met 6e](https://wetten.overheid.nl/jci1.3:c:BWBR0025605&artikel=6a&z=2013-07-27&g=2013-07-27).
+3. De te volgen scholing houdt verband met het beroep waarvoor een aantekening in het register wordt aangevraagd en is gericht op het verwerven van kennis, inzicht en vaardigheden in de kerncompetenties, genoemd in de [artikelen 4](https://wetten.overheid.nl/jci1.3:c:BWBR0025605&artikel=4&z=2016-07-14&g=2016-07-14), [5](https://wetten.overheid.nl/jci1.3:c:BWBR0025605&artikel=5&z=2016-07-14&g=2016-07-14), [6a tot en met 6e](https://wetten.overheid.nl/jci1.3:c:BWBR0025605&artikel=6a&z=2016-07-14&g=2016-07-14).
 
 4. Bij de aanvraag tot opneming in het register van een aantekening van de datum bedoeld in [artikel 8, tweede lid, onderdeel b, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&artikel=8) overlegt betrokkene het periodiek registratie certificaat, dat tenminste gegevens bevat met betrekking tot:
 
-- a. de naam, de geboortedatum en het BIG-registratienummer van de betrokkene;
+- a. de naam, de geboortedatum en indien aanwezig het BIG-registratienummer van de betrokkene;
 
 - b. een verklaring dat de betrokkene beschikt over alle voor het betrokken beroep benodigde kerncompetenties op het niveau van de initiële opleiding, die leidt tot een getuigschrift dat recht geeft op inschrijving in het register;
 
@@ -72,7 +72,7 @@ In deze regeling wordt verstaan onder:
 
 - a. een bewijs van inschrijving in het register van een specialistenopleiding ingeval het een opleiding betreft die leidt tot een wettelijk erkende specialistentitel als bedoeld in [artikel 14, eerste lid van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&artikel=14), dan wel
 
-- b. een getuigschrift waaruit blijkt dat de betrokkene met goed gevolg het examen ter afsluiting van een opleiding tot verpleegkundige heeft afgelegd die is opgenomen in het Centrale register voor opleidingen hoger onderwijs, genoemd in [artikel 6.13 van de Wet op het hoger onderwijs en wetenschappelijk onderzoek](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=6.13). Het hiervoor vermelde getuigschrift is op het moment van het indienen van de aanvrage voor opname van een aantekening in het register van verpleegkundigen op basis van artikel 8, tweede lid, onderdeel b, van de wet, niet ouder dan twee jaar.
+- b. een getuigschrift waaruit blijkt dat de betrokkene met goed gevolg het examen ter afsluiting van een opleiding tot verpleegkundige heeft afgelegd die is opgenomen in het Centrale register voor opleidingen hoger onderwijs, genoemd in [artikel 6.13 van de Wet op het hoger onderwijs en wetenschappelijk onderzoek](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=6.13). Het hiervoor vermelde getuigschrift is op het moment van het indienen van de aanvrage voor opname van een aantekening in het register van verpleegkundigen op basis van [artikel 8, tweede lid, onderdeel b, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&artikel=8), niet ouder dan twee jaar.
 
 ##### Artikel 3
 
@@ -192,11 +192,23 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 - e. het evalueren en vastleggen van geneeskundige zorg.
 
-2. De in het eerste lid, onderdeel a, b en c, genoemde aspecten zijn zodanig ingericht dat de arts in staat is een probleemanalyse te maken, een differentiaal diagnose op te stellen, een diagnostisch plan op te stellen en uit te voeren en op basis van de verkregen gegevens een diagnose te stellen.
+2. De in het eerste lid, onderdeel a, b en c, genoemde kerncompetenties en kernvaardigheden worden zo uitgevoerd dat de arts in staat is een probleemanalyse te maken, een differentiaal diagnose op te stellen, een diagnostisch plan op te stellen en uit te voeren en op basis van de verkregen gegevens een diagnose te stellen.
 
-3. De in het eerste lid, onderdeel c en d, genoemde aspecten zijn zodanig ingericht dat de arts in staat is een plan voor begeleiding en behandeling op te stellen, dit plan te bespreken met de cliënt en relevante derden en het uit te voeren.
+3. De in het eerste lid, onderdeel c en d, genoemde kerncompetenties en kernvaardigheden worden zo uitgevoerd dat de arts in staat is een plan voor begeleiding en behandeling op te stellen, dit plan te bespreken met de cliënt en relevante derden en het uit te voeren.
 
-4. De in het eerste lid, onderdeel e, genoemde aspecten zijn zodanig ingericht dat de arts in staat is periodiek de effecten van zorginterventies op de gezondheidstoestand van de cliënt te evalueren en het plan voor begeleiding en behandeling zodanig bij te stellen dat optimale resultaten bereikt kunnen worden.
+4. De in het eerste lid, onderdeel e, genoemde kerncompetenties en kernvaardigheden worden zo uitgevoerd dat de arts in staat is periodiek de effecten van zorginterventies op de gezondheidstoestand van de cliënt te evalueren en het plan voor begeleiding en behandeling zodanig bij te stellen dat optimale resultaten bereikt kunnen worden.
+
+5. De kerncompetenties en kernvaardigheden, genoemd in het eerste lid, richten zich op vraagstukken rondom gezondheid en ziekte, bedoeld in [artikel 3 van het Besluit opleidingseisen arts](https://wetten.overheid.nl/jci1.3:c:BWBR0008846&artikel=3).
+
+6. Bij de uitvoering van de in het eerste lid genoemde kerncompetenties en kernvaardigheden:
+
+- a. integreert de arts in zijn rol als medisch deskundige competenties op het gebied van communicatie, samenwerken, organiseren en preventieve gezondheidszorg;
+
+- b. betrekt de arts in zijn rol als medisch deskundige waar mogelijk het beschikbare wetenschappelijke bewijs;
+
+- c. handelt de arts conform de geldende Nederlandse en Europese medische en ethische standaarden, conform de standaarden van het vakgebied en binnen de grenzen van de eigen deskundigheid; en
+
+- d. betrekt de arts de persoonlijke omstandigheden en voorkeuren van de cliënt en houdt de arts rekening met de fysieke en emotionele belastbaarheid van de cliënt.
 
 ##### Artikel 6b
 
@@ -285,5 +297,11 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 5. Het in het eerste lid, onderdeel d, genoemde aspect wordt zodanig ingericht dat de psychotherapeut in staat is om psychotherapeutische methoden systematisch toe te passen en door middel van psychotherapeutische interventies, de stemming, cognities of gedragingen van de cliënt te beïnvloeden.
 
 6. Het in het eerste lid, onderdeel e, genoemde aspect wordt zodanig ingericht dat de psychotherapeut in staat is om periodiek de effecten van de psychotherapeutische behandelingen op de psychische gezondheidstoestand van de cliënt te evalueren en het behandelplan zodanig bij te stellen dat optimale resultaten bereikt kunnen worden.
+
+Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
+
+##### Artikel 7a
+
+1. Als werkzaamheden die worden gelijkgesteld met werkzaamheden op het gebied van de beroepsuitoefening van een van de in [artikel 3 van de Wet op de beroepen in de individuele gezondheidszorg](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&artikel=3) genoemde beroepen, worden aangewezen de werkzaamheden die worden verricht ten behoeve van een beroepsgerelateerde promotie ter verkrijging van de graad Doctor.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
