@@ -4,7 +4,7 @@ identifier: "BWBR0038257"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2016-07-14"
-last_updated: "2016-06-01"
+last_updated: "2016-07-14"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0038257"
 soort: "ministeriele-regeling"
@@ -56,23 +56,23 @@ Aan de inspecteur-generaal wordt mandaat en machtiging verleend voor het nemen v
 
 ##### Artikel 3
 
-Aan de inspecteur-generaal wordt volmacht verleend voor het verrichten van rechtshandelingen die verband houden met de invordering van verbeurde dwangsommen en van gemaakte kosten voor bestuursdwang als bedoeld in [artikel 11 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0037995&artikel=11), voor zover deze verband houden met de bevoegdheden, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0038257&paragraaf=2&artikel=2&z=2016-07-14&g=2016-06-01), van dit besluit.
+Aan de inspecteur-generaal wordt volmacht verleend voor het verrichten van rechtshandelingen die verband houden met de invordering van verbeurde dwangsommen en van gemaakte kosten voor bestuursdwang als bedoeld in [artikel 11 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0037995&artikel=11), voor zover deze verband houden met de bevoegdheden, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0038257&paragraaf=2&artikel=2&z=2016-07-14&g=2016-07-14), van dit besluit.
 
 ##### Artikel 4
 
-Het op grond van dit besluit verleende mandaat omvat mede de bevoegdheid tot het vaststellen, wijzigen of intrekken van beleidsregels met betrekking tot de uitoefening van de bevoegdheden, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0038257&paragraaf=2&artikel=2&z=2016-07-14&g=2016-06-01), van dit besluit.
+Het op grond van dit besluit verleende mandaat omvat mede de bevoegdheid tot het vaststellen, wijzigen of intrekken van beleidsregels met betrekking tot de uitoefening van de bevoegdheden, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0038257&paragraaf=2&artikel=2&z=2016-07-14&g=2016-07-14), van dit besluit.
 
 ##### Artikel 5
 
-1. Aan de inspecteur-generaal wordt mandaat en machtiging verleend voor het behandelen van bezwaarschriften tegen besluiten als bedoeld in [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0038257&paragraaf=2&artikel=2&z=2016-07-14&g=2016-06-01) en [3](https://wetten.overheid.nl/jci1.3:c:BWBR0038257&paragraaf=2&artikel=3&z=2016-07-14&g=2016-06-01).
+1. Aan de inspecteur-generaal wordt mandaat en machtiging verleend voor het behandelen van bezwaarschriften tegen besluiten als bedoeld in [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0038257&paragraaf=2&artikel=2&z=2016-07-14&g=2016-07-14) en [3](https://wetten.overheid.nl/jci1.3:c:BWBR0038257&paragraaf=2&artikel=3&z=2016-07-14&g=2016-07-14).
 
 2. Aan de inspecteur-generaal wordt tevens machtiging verleend voor het behandelen van gerechtelijke procedures, waaronder het voeren van verweer, het instellen van beroep, hoger beroep alsmede het indienen van verzoeken om voorlopige voorziening met betrekking tot een besluit als bedoeld in het eerste lid.
 
 ##### Artikel 6
 
-1. De inspecteur-generaal kan voor de aangelegenheden, bedoeld in de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0038257&paragraaf=2&artikel=2&z=2016-07-14&g=2016-06-01) en [5](https://wetten.overheid.nl/jci1.3:c:BWBR0038257&paragraaf=2&artikel=5&z=2016-07-14&g=2016-06-01), ondermandaat en machtiging verlenen aan onder hem ressorterende functionarissen.
+1. De inspecteur-generaal kan voor de aangelegenheden, bedoeld in de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0038257&paragraaf=2&artikel=2&z=2016-07-14&g=2016-07-14) en [5](https://wetten.overheid.nl/jci1.3:c:BWBR0038257&paragraaf=2&artikel=5&z=2016-07-14&g=2016-07-14), ondermandaat en machtiging verlenen aan onder hem ressorterende functionarissen.
 
-2. De inspecteur-generaal kan de volmacht, bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0038257&paragraaf=2&artikel=3&z=2016-07-14&g=2016-06-01), verlenen aan onder hem ressorterende functionarissen.
+2. De inspecteur-generaal kan de volmacht, bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0038257&paragraaf=2&artikel=3&z=2016-07-14&g=2016-07-14), verlenen aan onder hem ressorterende functionarissen.
 
 3. Het verlenen van ondermandaat, machtiging of volmacht, alsmede wijziging daarvan, geschiedt schriftelijk en wordt in de Staatscourant gepubliceerd.
 
