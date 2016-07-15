@@ -97,13 +97,3 @@ Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van
 Dit besluit wordt aangehaald als: Aanwijzings- en mandaatbesluit Wet op het accountantsberoep 2016.
 
 Dit besluit zal in de Staatscourant worden geplaatst.
-
-##### Artikel 3a
-
-1. Aan de algemeen directeur van het CJIB wordt machtiging verleend voor het verrichten van feitelijke handelingen die verband houden met de invordering van verbeurde dwangsommen of opgelegde boetes die voortvloeien uit de uitoefening van de bevoegdheden van de Minister van Financiën, genoemd in [artikel 56 van de Wet op het accountantsberoep](https://wetten.overheid.nl/jci1.3:c:BWBR0032573&artikel=56).
-
-2. In het kader van de invordering van verbeurde dwangsommen of opgelegde boetes die voortvloeien uit de uitoefening van de bevoegdheden van de Minister van Financiën, genoemd in [artikel 56 van de Wet op het accountantsberoep](https://wetten.overheid.nl/jci1.3:c:BWBR0032573&artikel=56), wordt aan de algemeen directeur van het CJIB mandaat verleend voor het in rekening brengen van een vergoeding voor een aanmaning als bedoeld in [artikel 4:113 van de Awb](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:113), alsmede voor het treffen van betalingsregelingen en het verlenen van uitstel van betaling als bedoeld in [artikel 4:94 van de Awb](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:94).
-
-3. De algemeen directeur van het CJIB kan voor de in het eerste en tweede lid bedoelde aangelegenheden ondermachtiging respectievelijk ondermandaat verlenen aan medewerkers van het CJIB.
-
-Dit besluit zal in de Staatscourant worden geplaatst.
