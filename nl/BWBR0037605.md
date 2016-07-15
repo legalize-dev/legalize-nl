@@ -4,7 +4,7 @@ identifier: "BWBR0037605"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2016-07-15"
-last_updated: "2016-07-01"
+last_updated: "2016-07-15"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0037605"
 soort: "ministeriele-regeling"
@@ -44,21 +44,21 @@ Besluit:
 
 ##### Artikel 1
 
-Aan de kwartiermaker van de Dienst Uitvoering Subsidies aan Instellingen van het Ministerie van Volksgezondheid, Welzijn en Sport (verder DUS-I) wordt mandaat, volmacht en machtiging verleend om alle noodzakelijke besluiten te nemen en alle noodzakelijke handelingen te verrichten voor zover deze betrekking hebben op het werkterrein van DUS-I.
+Aan de directeur van de Dienst Uitvoering Subsidies aan Instellingen van het Ministerie van Volksgezondheid, Welzijn en Sport (verder DUS-I) wordt mandaat, volmacht en machtiging verleend om alle noodzakelijke besluiten te nemen en alle noodzakelijke handelingen te verrichten voor zover deze betrekking hebben op het werkterrein van DUS-I.
 
 ##### Artikel 2
 
-Aan de kwartiermaker van DUS-I wordt toegestaan om met betrekking tot het mandaat, bedoeld in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0037605&artikel=1&z=2016-07-15&g=2016-07-01), zelf ondermandaat te verlenen. Het vierde lid van [artikel 11 van het Organisatie- en mandaatbesluit OCW 2008](https://wetten.overheid.nl/jci1.3:c:BWBR0023543&artikel=11) is hierbij van overeenkomstige toepassing.
+Aan de directeur van DUS-I wordt toegestaan om met betrekking tot het mandaat, bedoeld in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0037605&artikel=1&z=2016-07-15&g=2016-07-15), zelf ondermandaat te verlenen. Het vierde lid van [artikel 11 van het Organisatie- en mandaatbesluit OCW 2008](https://wetten.overheid.nl/jci1.3:c:BWBR0023543&artikel=11) is hierbij van overeenkomstige toepassing.
 
 ##### Artikel 3
 
-1. De behandeling van bezwaarschriften, gericht tegen besluiten door of namens de kwartiermaker van DUS-I genomen, geschiedt, onder toepassing van de [Regeling behandeling bezwaarschriften OCW](https://wetten.overheid.nl/jci1.3:c:BWBR0023195), bij de Dienst Uitvoering Onderwijs.
+1. De behandeling van bezwaarschriften, gericht tegen besluiten door of namens de directeur van DUS-I genomen, geschiedt, onder toepassing van de [Regeling behandeling bezwaarschriften OCW](https://wetten.overheid.nl/jci1.3:c:BWBR0023195), bij de Dienst Uitvoering Onderwijs.
 
-2. De Dienst Uitvoering Onderwijs draagt eveneens zorg voor de noodzakelijke procesvertegenwoordiging bij de behandeling van verzoeken om een voorlopige voorziening, beroepschriften en beroepschriften in hoger beroep, gericht tegen besluiten door of namens de kwartiermaker van DUS-I genomen.
+2. De Dienst Uitvoering Onderwijs draagt eveneens zorg voor de noodzakelijke procesvertegenwoordiging bij de behandeling van verzoeken om een voorlopige voorziening, beroepschriften en beroepschriften in hoger beroep, gericht tegen besluiten door of namens de directeur van DUS-I genomen.
 
 ##### Artikel 4
 
-Besluiten als bedoeld in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0037605&artikel=1&z=2016-07-15&g=2016-07-01), genomen door of namens de kwartiermaker van DUS-I in de periode van 1 februari 2016 tot het moment van inwerkingtreding van dit besluit, gelden als besluiten genomen namens de minister.
+Besluiten als bedoeld in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0037605&artikel=1&z=2016-07-15&g=2016-07-15), genomen door of namens de kwartiermaker van DUS-I in de periode van 1 februari 2016 tot het moment van inwerkingtreding van dit besluit, gelden als besluiten genomen namens de minister.
 
 ##### Artikel 5
 
