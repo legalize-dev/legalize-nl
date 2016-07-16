@@ -4,7 +4,7 @@ identifier: "BWBR0038279"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2024-01-01"
-last_updated: "2016-01-01"
+last_updated: "2016-07-16"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0038279"
 soort: "ministeriele-regeling"
@@ -42,7 +42,7 @@ Besluit:
 
 ##### Artikel 1
 
-[Bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBR0038279&bijlage=I&z=2016-07-16&g=2016-01-01), bij dit besluit, wordt vastgesteld als kader ter bevordering van de eenheid, de kwaliteit en de efficiëntie van huisvesting door de ministeries.
+[Bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBR0038279&bijlage=I&z=2016-07-16&g=2016-07-16), bij dit besluit, wordt vastgesteld als kader ter bevordering van de eenheid, de kwaliteit en de efficiëntie van huisvesting door de ministeries.
 
 ##### Artikel 2
 
@@ -424,7 +424,7 @@ De Secretaris Generaal BZK is aangesteld als eigenaar van het Rijksvastgoedbedri
 
 ### Mandaten DGOO en directeur IFHR
 
-In het [mandaatbesluit BZK 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0031837&wetgeving)62Gewijzigd instellingsbesluit ICBR: Staatscourant 2012, nummer 15354, 25 juli 2012. staat dat het mandaat van de minister van BZK (lees: W&R) is doorgemandateerd naar dg en directeur voor zover dit specifiek betrekking heeft op diens taakvelden.
+In het [mandaatbesluit BZK 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0031837)62Gewijzigd instellingsbesluit ICBR: Staatscourant 2012, nummer 15354, 25 juli 2012. staat dat het mandaat van de minister van BZK (lees: W&R) is doorgemandateerd naar dg en directeur voor zover dit specifiek betrekking heeft op diens taakvelden.
 
 ### Mandaat Gemandateerd Opdrachtgever
 
