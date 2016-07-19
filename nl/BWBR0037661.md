@@ -4,7 +4,7 @@ identifier: "BWBR0037661"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2022-08-01"
-last_updated: "2016-03-01"
+last_updated: "2016-07-19"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0037661"
 soort: "ministeriele-regeling"
@@ -44,13 +44,13 @@ Besluit:
 
 ##### Artikel 1. Vaststelling van modellen, instructies en toetsingskader
 
-1. Het model voor een kwalificatiedossier wordt vastgesteld op de wijze bedoeld in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0037661&bijlage=1&z=2016-03-01&g=2016-03-01) behorende bij deze regeling.
+1. Het model voor een kwalificatiedossier wordt vastgesteld op de wijze bedoeld in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0037661&bijlage=1&z=2016-07-19&g=2016-07-19) behorende bij deze regeling.
 
-2. Het model voor een keuzedeel wordt vastgesteld op de wijze bedoeld in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0037661&bijlage=2&z=2016-03-01&g=2016-03-01) behorende bij deze regeling.
+2. Het model voor een keuzedeel wordt vastgesteld op de wijze bedoeld in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0037661&bijlage=2&z=2016-07-19&g=2016-07-19) behorende bij deze regeling.
 
-3. De instructies behorende bij de modellen, bedoeld in het eerste en tweede lid, worden vastgesteld op de wijze bedoeld in [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0037661&bijlage=3&z=2016-03-01&g=2016-03-01) behorende bij deze regeling.
+3. De instructies behorende bij de modellen, bedoeld in het eerste en tweede lid, worden vastgesteld op de wijze bedoeld in [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0037661&bijlage=3&z=2016-07-19&g=2016-07-19) behorende bij deze regeling.
 
-4. Het toetsingskader voor de kwalificatiestructuur wordt vastgesteld op de wijze bedoeld in [bijlage 4](https://wetten.overheid.nl/jci1.3:c:BWBR0037661&bijlage=4&z=2016-03-01&g=2016-03-01) behorende bij deze regeling.
+4. Het toetsingskader voor de kwalificatiestructuur wordt vastgesteld op de wijze bedoeld in [bijlage 4](https://wetten.overheid.nl/jci1.3:c:BWBR0037661&bijlage=4&z=2016-07-19&g=2016-07-19) behorende bij deze regeling.
 
 ##### Artikel 2. Inwerkingtreding
 
@@ -266,31 +266,29 @@ Geef aan of er sprake is van (wettelijke) beroepsvereisten. En zo ja, licht die 
 
 Onder (wettelijke) beroepsvereisten verstaan we volgens [artikel 7.2.6 van de WEB](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=7.2.6) (geparafraseerd) het volgende:
 
-In het afwegingskader heeft OCW nader geduid waarop beroepsvereisten betrekking hebben2Beroepsvereisten en branche vereisten in de kwalificatiestructuur, OCW, september 2015:
+Er is sprake van beroepsvereisten wanneer is voldaan aan het volgende:
 
-Met name criterium c) vormt een belangrijke aanvulling op het voorafgaande: beroepsvereisten die niet door een WEBse beroepsopleiding verworven kunnen worden (zoals een rijbewijs) dienen niet opgenomen te worden in het kwalificatiedossier.
+Met name criterium c en d behoeven enige toelichting: voor het uitoefenen van bepaalde beroepen of handelingen is door het betreffende vakdepartement in de wet- of regelgeving vastgelegd dat het behalen van een extern certificaat, examen en/of diploma de enige manier is om aan te tonen dat aan de eisen hiervoor is voldaan. Als bepaald is dat het externe certificaat, het externe examen of externe diploma een wettelijke beroepsvereiste is zoals bedoeld in de [WEB](https://wetten.overheid.nl/jci1.3:c:BWBR0007625), dan is het externe certificaat, examen of diploma daarmee onderdeel van het kwalificatiedossier en daarmee van de mbo-opleiding. Het betreffende vakdepartement heeft een eigen vorm van kwaliteitsborging op deze examens. De onderwijsinstelling is dan ook niet verantwoordelijk voor de kwaliteit van een extern af te leggen examen of extern te behalen diploma of certificaat. De kosten van een extern certificaat, examen en/of diploma zoals hiervoor bedoeld, maken op voorhand geen deel uit van de bekostiging zoals die door het ministerie van OCW aan de onderwijsinstellingen wordt verstrekt. In voorkomende gevallen zijn partijen (onderwijs, bedrijfsleven, student en vakdepartement) aan zet om hierover afspraken te maken. In een dergelijke constructie kan de onderwijsinstelling een deel van de kosten dragen. Dit vanuit de aanname dat zij anders ook examenkosten zou hebben.
 
 Voor de toelichting op de (wettelijke) beroepsvereisten gelden de volgende instructies:
 
-Van belang in de toelichting is dat voor de makers van opleidingen het heel duidelijk is wat de consequenties zijn van de (wettelijke) beroepsvereisten voor de opleiding, waarvoor de ‘Webse’ beroepsopleiding verantwoordelijk is maar ook waar die eindigt.
+Regelingen die betrekking hebben op de persoon als geformuleerd bij criterium e of die door branches zijn geformuleerd, komen aan de orde in de verantwoordingsinformatie onder het kopje ‘Bijzondere vereisten’ (6.5).
 
-Regelingen die betrekking hebben op de persoon als geformuleerd bij e) of die door branches zijn geformuleerd komen aan de orde in de verantwoordingsinformatie onder het kopje ‘Bijzondere vereisten’ (6.5).
+De [WEB](https://wetten.overheid.nl/jci1.3:c:BWBR0007625) vereist bij wettelijke beroepsvereisten een goedkeurende verklaring van het betrokken vakdepartement. Zonder goedkeurende verklaring kan een dossier de eindtoets niet passeren. Zie hiervoor paragraaf 6.4 bij de verantwoordingsinformatie.
 
 De [WEB](https://wetten.overheid.nl/jci1.3:c:BWBR0007625) vereist bij wettelijke beroepsvereisten een goedkeurende verklaring van het betrokken vakdepartement. Zonder goedkeurende verklaring kan een dossier de eindtoets niet passeren. Zie hiervoor paragraaf 6.4 bij de verantwoordingsinformatie.3Een aantal dossiers is tijdelijk uitgezonderd van de bepalingen als geformuleerd in het afwegingskader. Voor deze zgn. ‘Status quo’ dossiers geldt dat de huidige situatie gecontinueerd wordt totdat er in 2016 een oplossing gevonden wordt voor positie en consequenties van de beroepsvereisten in de betreffende dossiers.
 
 ### 4.5.1. Verbijzondering beroepsvereisten
 
-Sommige beroepsvereisten gelden niet voor iedereen die wordt opgeleid tot een beroep, maar zijn afhankelijk van de beroepscontext. Het is in dat geval toegestaan om beroepsvereisten met een keuzemogelijkheid in een kwalificatie te verwerken.
-
 Er zijn twee varianten mogelijk, waarvoor de onderstaande specifieke instructies gelden.
 
-In aanvulling hierop kunnen de specifieke invullingen ook worden opgenomen in afzonderlijke keuzedelen. Voorwaarde is dat er voldoende studieomvang (240 sbu) geprogrammeerd moet worden om aan de vereisten te voldoen.
+In **aanvulling** hierop kunnen de specifieke invullingen ook worden opgenomen in afzonderlijke keuzedelen. Voorwaarde is dat er voldoende studieomvang (240 studiebelastingsuren) geprogrammeerd moet worden om aan de vereisten te voldoen.
+
+Als deze beroepsvereisten van voldoende studieomvang zijn en niet voorwaardelijk voor de diplomering zijn, dan kunnen deze beroepsvereisten worden verwerkt in een keuzedeel.
 
 Als deze beroepsvereisten van voldoende studieomvang zijn en niet voorwaardelijk voor de diplomering dan kunnen deze beroepsvereisten ook worden verwerkt in een keuzedeel.
 
 ### 4.6. Onderdeel waaraan een certificaat is verbonden
-
-Krachtens algemene maatregel van bestuur (op basis van [artikel 7.2.3. van de WEB](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=7.2.3)) kan in het kwalificatiedossier zijn vermeld dat er sprake is van een onderdeel van een kwalificatie waarvoor een certificaat wordt uitgereikt.
 
 Geef indien van toepassing aan om welke onderdelen en certificaten het gaat. Werk uit:
 
@@ -300,13 +298,13 @@ Het gaat hierbij **niet** om andere erkenningen, die niet krachtens de [WEB](htt
 
 Aan het onderdeel van de kwalificatie waaraan een certificaat is verbonden is ook een identificatiecode verbonden.
 
+Aan het onderdeel van de kwalificatie waaraan een certificaat is verbonden is ook een identificatiecode verbonden.
+
 ### 4.7. Profiel specifieke kerntaken en werkprocessen
 
 In het profieldeel worden per kwalificatie de kerntaken en werkprocessen uitgewerkt. Volg hierbij de desbetreffende instructie uit de basis (paragraaf 3.2). Als stelregel geldt: ‘gelijke en vergelijkbare beroepsuitoefening is in de kwalificatiestructuur gelijk en vergelijkbaar beschreven'. Dat meetpunt is ook van toepassing wanneer identieke werkprocessen c.q. kerntaken voorkomen in verschillende profielen.
 
 ### 4.8. Beroepsgerichte taal- en rekeneisen
-
-In deze paragraaf wordt ingegaan op de wijze waarop eventuele beroepsgerichte taal- en rekeneisen opgenomen worden in de beroepsgerichte taken van basis- én profieldeel.
 
 Wanneer het voor het beroep noodzakelijk is om bepaalde talige of rekenkundige elementen te beheersen zijn deze eisen altijd direct gerelateerd aan het beroep. In dat geval moet er niet worden verwezen naar de eisen van het referentiekader Nederlandse taal en rekenen, maar moet worden geëxpliciteerd wat de eisen zijn. Gebruik hiervoor de volgende instructies:
 
@@ -318,27 +316,27 @@ Wanneer het voor het beroep noodzakelijk is om bepaalde talige of rekenkundige e
 
 Geef geen hoger referentieniveau-aanduiding aan. Dit voorkomt dat het onderwijs de volle bandbreedte van het referentieniveau toetst, terwijl het alleen maar gaat om een specifieke beroepshandeling.
 
-### 4.9. Beroepsgerichte moderne vreemde talen (mvt)
+Geef geen hoger referentieniveau-aanduiding aan. Dit voorkomt dat het onderwijs de volle bandbreedte van het referentieniveau toetst, terwijl het alleen maar gaat om een specifieke beroepshandeling.
 
-Wat geldt voor Nederlandse taal en rekenen geldt ook voor beroepsgerichte mvt-eisen, namelijk:
+### 4.9. Beroepsgerichte moderne vreemde talen (mvt)
 
 **Controlevragen:**
 
 Neem de mvt-eisen op in de kwalificatie:
 
-### Deel II:. Het keuzedeel
+Neem de mvt-eisen op in de kwalificatie:
 
 ### 5. Instructie ontwikkeling keuzedeel
 
 ### 5.1. Inleiding
 
-In dit hoofdstuk wordt beschreven waaraan keuzedelen moeten voldoen gegeven de regelgeving in de [WEB](https://wetten.overheid.nl/jci1.3:c:BWBR0007625) en het Toetsingskader. In de eerste paragraaf worden de karakteristieken van het keuzedeel beschreven. In de tweede paragraaf wordt beschreven hoe de onderdelen van het model keuzedeel uitgewerkt moeten worden en welke criteria de Toetsingskamer hanteert bij het beoordelen van het keuzedeel.
+### 5.1. Inleiding
+
+Niet alle onderdelen van het keuzedeel worden in deze paragraaf benoemd. In dat geval gelden de aanwijzingen zoals beschreven in de instructie voor het basis- en profieldeel.
 
 Niet alle onderdelen van het keuzedeel worden in deze paragraaf benoemd. In dat geval gelden de aanwijzingen zoals beschreven in de instructie voor het basis- en profieldeel.
 
 ### 5.2. Karakteristieken van het keuzedeel
-
-Een keuzedeel levert voor de deelnemer een verrijking ten opzichte van de kwalificatie. Het kan verbreden of verdiepen of gericht zijn op doorstroom naar de vervolgopleiding.
 
 Uitsluitend voor de entreeopleidingen kan behalve bovengenoemde drie soorten ook sprake zijn van remediërende keuzedelen, die gericht zijn op het wegwerken van achterstanden voor het behalen van de beoogde kwalificatie.
 
@@ -362,31 +360,29 @@ De stappen in deze procedure zijn beschreven in handreikingen en meldformulieren
 
 Voor overige karakteristieken van het keuzedeel wordt verwezen naar de volgende publicaties van Herziening MBO die te vinden zijn op de site www.herzieningmbo.nl.
 
-### 5.3. Inhoud keuzedeel
+Voor overige karakteristieken van het keuzedeel wordt verwezen naar de volgende publicaties van Herziening MBO die te vinden zijn op de site www.herzieningmbo.nl.
 
-Het model voor de keuzedelen is afgeleid van het model van het kwalificatiedossier, keuzedelen zijn dus ook ingedeeld in kerntaken en werkprocessen. De instructie die geldt voor de uitwerking van kerntaken en werkprocessen (inclusief complexiteit, zelfstandigheid en verantwoordelijkheid, vakkennis en vaardigheden en resultaat) geldt ook voor de uitwerking van keuzedelen. Een keuzedeel bestaat uit één of meerdere kerntaken.
+### 5.3. Inhoud keuzedeel
 
 Afwijkend aan het model van het kwalificatiedossier geldt voor keuzedelen:
 
 In alle gevallen wordt in het keuzedeel de onderdelen verantwoordelijkheid & zelfstandigheid en complexiteit uitgewerkt.
 
-### 5.4. Voorblad
+In alle gevallen wordt in het keuzedeel de onderdelen verantwoordelijkheid & zelfstandigheid en complexiteit uitgewerkt.
 
-Geef het keuzedeel een korte en weloverwogen naam, passend bij en dekkend voor de inhoud van het keuzedeel.
+### 5.4. Voorblad
 
 In het geval er een variant van een keuzedeel per niveau is dan moet dat duidelijk worden in de naamgeving. De formulering die dan gebruikt wordt is de volgende: ‘**Gladheidsbestrijding geschikt voor niveau 2**’ of ‘**Gladheidsbestrijding geschikt voor niveau 3 en 4**’ (zie ook koppeling van keuzedeel aan kwalificatie).
 
-### 5.5. Algemene informatie
+In het geval er een variant van een keuzedeel per niveau is dan moet dat duidelijk worden in de naamgeving. De formulering die dan gebruikt wordt is de volgende: ‘**Gladheidsbestrijding geschikt voor niveau 2**’ of ‘**Gladheidsbestrijding geschikt voor niveau 3 en 4**’ (zie ook koppeling van keuzedeel aan kwalificatie).
 
 ### 1. Verantwoording
 
-Geef aan welke sectorkamer penvoerder is voor het keuzedeel en vervolgens welk marksegment hoort bij het keuzedeel.
+### 1. Verantwoording
 
 Geef aan of het keuzedeel (wettelijke) beroepsvereisten bevat (Conform criteria beschreven in paragraaf 4.5.). En zo ja licht die toe.
 
-Voor alle duidelijkheid: een keuzedeel mag geen (wettelijke) beroepsvereisten bevatten die voorwaardelijk zijn voor de beroepsuitoefening. Het betreft hier dus altijd wettelijke beroepsvereisten die gelden voor een ander beroep.
-
-Voorbeeld: Het dossier Financiële Dienstverlening bevat beroepsvereisten geformuleerd door het ministerie van Financiën. Bijvoorbeeld richtlijnen voor advisering over schadeverzekeringen of vermogen. Het is denkbaar dat er een keuzedeel ‘Adviseren over schadeverzekeringen’ ontwikkeld wordt, dat gekoppeld wordt aan een andere kwalificatie dan Financiële Dienstverlening. Zo’n keuzedeel bevat dan wettelijke beroepsvereisten.
+Voor alle duidelijkheid: een keuzedeel mag geen (wettelijke) beroepsvereisten bevatten die voorwaardelijk zijn voor de beroepsuitoefening. Het betreft hier dus altijd wettelijke beroepsvereisten die gelden voor een ander beroep. De enige uitzondering is de eerste variant beschreven in paragraaf 4.5.1.
 
 Waar bij of krachtens AMvB een certificaat is verbonden aan het keuzedeel wordt dit hier vermeld. Geef hier aan welke AMvB de grondslag vormt voor het certificaat.
 
@@ -408,7 +404,7 @@ Vink aan wat de aard van het keuzedeel is. Kies minimaal één optie uit de volg
 
 Er kunnen ook meerdere categorieën aangevinkt worden. Een keuzedeel kan zowel ontwikkeld zijn voor doorstroming als voor de arbeidsmarkt. En eenzelfde keuzedeel kan bij de ene koppeling verdiepend zijn en bij de andere verbredend. Evenwel een remediërend keuzedeel kan niet tegelijkertijd ook verdiepend of verbredend zijn.
 
-### 2. Sbu
+Vink aan wat de aard van het keuzedeel is. Kies minimaal één optie uit de volgende categorieën:
 
 Kies de omvang in studielast voor het keuzedeel. Minimaal 240 uur, maximaal 960 uur (in eenheden van 240 uur). De omvang van het keuzedeel moet passen binnen de keuzedeelverplichting (zie schema bij omvang). Voorbeeld: een keuzedeel van 720 uur kan niet gekoppeld worden aan een 2-jarige kwalificatie met een keuzedeelverplichting van 480 uur.
 
@@ -416,13 +412,13 @@ Kies de omvang in studielast voor het keuzedeel. Minimaal 240 uur, maximaal 960 
 
 De Toetsingskamer koppelt de keuzedelen aan de relevante kwalificaties.
 
-DigiK genereert een bijlage met een overzicht van de koppelingen van het keuzedeel.
+### 3. Keuze hoort bij
 
-### 5.6. Richtlijnen voor het koppelen van het keuzedeel aan de kwalificatie
+De Toetsingskamer koppelt de keuzedelen aan de relevante kwalificaties.
 
 De sectorkamer geeft aan aan welke kwalificatie(s) het keuzedeel gekoppeld dient te worden.
 
-De Toetsingskamer koppelt vervolgens een keuzedeel aan een kwalificatie.
+### 5.6. Richtlijnen voor het koppelen van het keuzedeel aan de kwalificatie
 
 Hou daarbij wel het volgende in de gaten:
 
@@ -438,11 +434,11 @@ Bij de beoordeling van een sectoroverstijgend koppelingsverzoek gelden uiteraard
 
 Hantering van dit principe kan leiden tot een lijst van kwalificaties waaraan het sectoroverstijgende keuzedeel **niet** gekoppeld kan worden en / of beperking van de niveaus waaraan het keuzedeel gekoppeld kan worden.
 
+Bij de beoordeling van een sectoroverstijgend koppelingsverzoek gelden uiteraard ook de hierboven genoemde criteria. Toetsing aan de hand van die criteria leidt in dit geval tot ‘mits’ bepalingen: de koppeling wordt gehonoreerd ‘mits’:
+
+Hantering van dit principe kan leiden tot een lijst van kwalificaties waaraan het sectoroverstijgende keuzedeel **niet** gekoppeld kan worden en / of beperking van de niveaus waaraan het keuzedeel gekoppeld kan worden.
+
 ### Deel III:. De verantwoordingsinformatie bij het kwalificatiedossier
-
-### 6. Instructie uitwerking verantwoordingsinformatie
-
-Het kwalificatiedossier moet een verwijzing bevatten naar verantwoordingsinformatie. Deze is geen onderdeel van het dossier. De verantwoordingsinformatie dient jaarlijks geactualiseerd te worden. Sectorkamers wordt gevraagd jaarlijks de actualiteit van de informatie te controleren en aan te passen waar relevant. Dat geldt in ieder geval voor de arbeidsmarktinformatie.
 
 ### 6.1. Beroepscompetentieprofielen (bcp)
 
@@ -452,27 +448,27 @@ Bij bron- en referentiedocumenten moeten de gebruikte bcp's en andere gebruikte 
 
 In de verantwoordingsinformatie wordt standaard een link opgenomen naar de servicepagina waar alle kwantitatieve arbeidsmarktgegevens opgenomen zijn.
 
-Wel wordt gevraagd een tekst in te voegen met een toelichting op ontwikkelingen op de arbeidsmarkt, de opleidingenmarkt en de stagemarkt. Hier kan zo nodig specifieke informatie over de bedrijfstak/branche worden opgenomen.
+### 6.2. Arbeidsmarktinformatie
+
+In de verantwoordingsinformatie wordt standaard een link opgenomen naar de servicepagina waar alle kwantitatieve arbeidsmarktgegevens opgenomen zijn.
+
+Wetgeving en regelgeving: bevat een beschrijving van (veranderingen in) wet- en regelgeving die van invloed is op de uitoefening van het beroep. Vereist is dus een beschrijving van toekomstige ontwikkelingen, waaruit de relevantie en gevolgen voor het kwalificatiedossier duidelijk blijken. Het gaat dus niet om een beschrijving van de huidige situatie en algemene zaken die voor elk beroep gelden (bijvoorbeeld ARBO).
 
 ### 6.3. Trends en ontwikkelingen
 
 Wetgeving en regelgeving: bevat een beschrijving van (veranderingen in) wet- en regelgeving die van invloed is op de uitoefening van het beroep. Vereist is dus een beschrijving van toekomstige ontwikkelingen, waaruit de relevantie en gevolgen voor het kwalificatiedossier duidelijk blijken. Het gaat dus niet om een beschrijving van de huidige situatie en algemene zaken die voor elk beroep gelden (bijvoorbeeld ARBO).
 
-Ontwikkelingen in de beroepsuitoefening: bevat technologische, bedrijfsorganisatorische, internationale veranderingen en/of marktontwikkelingen die gevolgen hebben voor de beroepsuitoefening in de toekomst. Vereist is dus een beschrijving van toekomstige (niet huidige) ontwikkelingen waaruit de relevantie en de gevolgen voor dit kwalificatiedossier duidelijk blijkt.
+In de verantwoordingsinformatie wordt een toelichting gegeven op de (wettelijke) beroepsvereisten indien die van toepassing zijn op de kwalificatie.
 
 ### 6.4. Beroepsvereisten
 
-In de verantwoordingsinformatie wordt een toelichting gegeven op de (wettelijke) beroepsvereisten indien die van toepassing zijn op de kwalificatie.
-
-Zoals beschreven in paragraaf 4.5. spreken we van beroepsvereisten wanneer die voldoen aan de volgende criteria:
-
 In de verantwoording wordt aangeven in welke kerntaken en werkprocessen de wettelijke vereisten zijn verwerkt. Immers wettelijke beroepsvereisten – indien van toepassing – moeten volledig zijn geëxamineerd met examens die qua inhoud en toetsvorm passend zijn. Als de wettelijke vereisten wél eisen aan de kwaliteiten op het gebied van kennis, inzicht, vaardigheden of beroepshoudingen van de beroepsbeoefenaar betreffen, maar niet in kerntaken en/of werkprocessen verwerkt zijn, dient aangegeven te worden hoe en waar de eisen dan wel in het kwalificatiedossier tot uiting komen.
 
+In de regeling is aangegeven dat, als er sprake is van wettelijke beroepsvereisten, er een goedkeurende verklaring van het betrokken vakdepartement aangeleverd moet worden. Het vakdepartement toetst of en verklaart dat de beroepsvereisten correct in het kwalificatiedossier zijn verwerkt. Deze verklaring moet **voor** indiening van het kwalificatiedossier naar de Toetsingskamer worden gestuurd.
+
+Sectorkamers die al een goedkeurende verklaring van het vakdepartement in hun bezit hebben die betrekking heeft op een oudere versie van het kwalificatiedossier én die geen inhoudelijke wijzigingen in het kwalificatiedossier hebben doorgevoerd, hebben slechts een verklaring van het vakdepartement nodig dat er geen relevante wijzigingen zijn geweest in de wetgeving.
+
 In de regeling is aangegeven dat, als er sprake is van wettelijke beroepsvereisten, er een goedkeurende verklaring van het betrokken vakdepartement aangeleverd moet worden. Het moet zich positief uitspreken over de wijze waarop de wettelijke beroepsvereisten in het kwalificatiedossier zijn verwerkt. Deze verklaring moet **voor** indiening van het kwalificatiedossier naar de Toetsingskamer worden gestuurd.
-
-Sectorkamers die al een goedkeurende verklaring van het vakdepartement in hun bezit hebben die betrekking heeft op een oudere versie van het kwalificatiedossier èn die geen inhoudelijke wijzigingen in het kwalificatiedossier hebben doorgevoerd, hebben slechts een verklaring van het vakdepartement nodig dat er geen relevante wijzigingen zijn geweest in de wetgeving.
-
-### 6.5. Bijzondere vereisten
 
 Indien op het dossier andere regelingen en vereisten van toepassing zijn dan worden die in dit onderdeel toegelicht. Het kan hier gaan om zaken als:
 
@@ -480,7 +476,7 @@ Indien op het dossier andere regelingen en vereisten van toepassing zijn dan wor
 
 Geef aan de hand van de ERK-descriptoren een indicatie voor het ERK-niveau van de beheersing van de beroepsgerichte MVT in het dossier. Hanteer daarbij onderstaand schema. Geef in het schema met 'nvt' aan wanneer voor een kwalificatie geen MVT-eisen gelden. Geef bij het schema een nadere toelichting waarin toegelicht wordt wat de relevantie is van de MVT-eisen bij de kwalificaties in het dossier.
 
-Het indicatieve niveau voor de beheersing van beroepsspecifieke moderne vreemde talen in dit dossier is:
+### 6.6. Beroepsspecifieke moderne vreemde talen
 
 MVT: <naam MVT>
 
@@ -490,13 +486,13 @@ Controleer goed op consistentie tussen het schema en de kwalificatie. Zorg er vo
 
 Ook wanneer de generieke eisen Engels bij niveau 4 kwalificaties overlappen met de beroepsgerichte eisen Engels worden deze toegelicht en verantwoord in de verantwoordingsinformatie.
 
-### 6.7. Ontwikkelmogelijkheden van de beroepsbeoefenaar in het onderwijs
+Controleer goed op consistentie tussen het schema en de kwalificatie. Zorg er voor dat alle vaardigheden die in de tabel opgenomen zijn ook feitelijk te herleiden zijn naar de kwalificatie en omgekeerd dat MVT-eisen die in de kwalificatie ook verantwoord zijn in deze paragraaf.
 
 Bij loopbaanperspectief is aangegeven welke specifieke loopbaanmogelijkheden en doorstroommogelijkheden de gediplomeerde binnen het onderwijs heeft. Dit geldt voor **alle** in het kwalificatiedossier beschreven kwalificaties.
 
-Niveau 4: De doorstroom naar een andere kwalificatie binnen en/of na het mbo en/of het hbo moet globaal aangeduid zijn met één of meerdere concrete voorbeelden. Doorstroming naar hbo kan alleen worden beschreven bij niveau 4.
+### 6.7. Ontwikkelmogelijkheden van de beroepsbeoefenaar in het onderwijs
 
-### 6.8. Onderhoudsagenda
+Bij loopbaanperspectief is aangegeven welke specifieke loopbaanmogelijkheden en doorstroommogelijkheden de gediplomeerde binnen het onderwijs heeft. Dit geldt voor **alle** in het kwalificatiedossier beschreven kwalificaties.
 
 Het kwalificatiedossier bevat een onderhouds- en ontwikkelagenda voor ten minste zes jaar, waarop relevante aandachtspunten zijn vermeld. In de Onderhouds- en ontwikkelagenda wordt vermeld op welke termijn het kwalificatiedossier opnieuw wordt bekeken, en welke agenda afgesproken is voor het onderhoud van het kwalificatiedossier (acties, wie verantwoordelijk, wanneer klaar?).
 
@@ -504,7 +500,7 @@ Het kwalificatiedossier bevat een onderhouds- en ontwikkelagenda voor ten minste
 
 Kies uit één van de volgende categorieën en geef in de ruimte onder de categorieën aan wat er in het huidige kwalificatiedossier is gewijzigd ten opzichte van het kwalificatiedossier uit het vorige cohort.
 
-Categorie 1: nieuw dossier
+### 6.9. Wijzigingen ten opzichte van voorgaande versie
 
 Dit kwalificatiedossier zat voorheen niet in de kwalificatiestructuur. Een toelichting is niet nodig.
 
@@ -522,13 +518,13 @@ Het kwalificatiedossier is volledig ongewijzigd. Een samenvatting of toelichting
 
 Geef niet alleen aan in welke categorie de wijzigingen vallen. Geef voor wijzigingen in categorie 2 of 3 onder de tabel aan om welke wijzigingen het gaat, op zo'n manier dat een gebruiker snel kan zien wat waar gewijzigd is.
 
-### 6.10. Betrokkenen
+Het kwalificatiedossier is volledig ongewijzigd. Een samenvatting of toelichting is niet nodig.
 
 De betrokkenen bij het overleg en besluitvorming over het kwalificatiedossier zijn beschreven.
 
-Genoemd moeten worden:
+### 6.10. Betrokkenen
 
-### 6.11. Middenkaderopleidingen van meer dan 3 jaar
+De betrokkenen bij het overleg en besluitvorming over het kwalificatiedossier zijn beschreven.
 
 De studieduur van middenkaderopleidingen is per 1 augustus 2014 vastgesteld op drie jaar. De minister kan enkele kwalificaties uitzonderen die een verblijfsduur hebben van meer dan drie jaar tot maximaal vier jaar. Indien dit aan de orde is wordt dit hier toegelicht. Jaarlijks dient deze lijst herijkt te worden op basis van gegevens over verblijfsduur in het mbo.
 
@@ -536,9 +532,9 @@ De studieduur van middenkaderopleidingen is per 1 augustus 2014 vastgesteld op d
 
 Met een algemene maatregel van bestuur kan de minister bepalen dat aan onderdelen van een kwalificatie een certificaat is verbonden ([artikel 7.2.3 van de WEB](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=7.2.3)). Geef indien van toepassing aan om welke onderdelen en certificaten het gaat.
 
-Daarnaast kunnen onderdelen van een kwalificatie betiteld worden als branche-vereiste. Geef indien van toepassing aan welke dat betreft. Het gaat daarbij **niet** om verklaringen krachtens de [WEB](https://wetten.overheid.nl/jci1.3:c:BWBR0007625), zoals hierboven beschreven. Vul in het sjabloon de volgende gegevens in:
+### 6.12. Certificaten
 
-### 6.13. Sectorale examenafspraken
+Met een algemene maatregel van bestuur kan de minister bepalen dat aan onderdelen van een kwalificatie een certificaat is verbonden ([artikel 7.2.3 van de WEB](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=7.2.3)). Geef indien van toepassing aan om welke onderdelen en certificaten het gaat.
 
 In de toelichting wordt standaard een verwijzing opgenomen naar de sectorale examenafspraken die van toepassing zijn op het kwalificatiedossier.
 
@@ -552,15 +548,15 @@ Vetgedrukt en gearceerd zijn elementen waarin het onderscheid met het voorgaande
 
 ### Bijlage 2:. Europees referentiekader mvt
 
-## Bijlage 4. Behorende bij de Regeling vaststelling modellen kwalificatiedossier en keuzedeel en toetsingskader kwalificatiestructuur mbo 2016
+Vetgedrukt en gearceerd zijn elementen waarin het onderscheid met het voorgaande niveau tot uitdrukking komt. Het NLQF is de Nederlandse uitwerking van het EQF: European Qualification Framework.
 
 ### Toetsingskader kwalificatiestructuur mbo
 
-### 1. Inleiding
+## Bijlage 4. Behorende bij de Regeling vaststelling modellen kwalificatiedossier en keuzedeel en toetsingskader kwalificatiestructuur mbo 2016
 
 ### 1.1. Formele kaders
 
-In de [WEB](https://wetten.overheid.nl/jci1.3:c:BWBR0007625) zijn bepalingen opgenomen over de ontwikkeling en toetsing van kwalificatiedossiers voor het middelbaar beroepsonderwijs, in de [artikelen 7.2.3.](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=7.2.3), [7.2.4](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=7.2.4), [7.2.5](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=7.2.5), [7.2.6](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=7.2.6) en [9.2.1 derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=9.2.1).
+### 1. Inleiding
 
 ### 1.2. Inhoud Toetsingskader
 
@@ -568,11 +564,11 @@ Dit Toetsingskader beschrijft in een tweetal hoofdstukken de wijze waarop uitvoe
 
 ### 2. Toetsingscriteria voor de kwalificatiestructuur, -dossiers en keuzedelen
 
+Dit Toetsingskader beschrijft in een tweetal hoofdstukken de wijze waarop uitvoering gegeven wordt aan deze artikelen. De hoofdstukken beschrijven achtereenvolgens:
+
+### 2. Toetsingscriteria voor de kwalificatiestructuur, -dossiers en keuzedelen
+
 ### 2.1. Inleiding
-
-De kwalificatiestructuur omvat het samenvattend geheel van kwalificatiedossiers en keuzedelen voor het middelbaar beroepsonderwijs, de tabel 'opleidingsdomeinen – kwalificatiedossiers – kwalificaties' en de koppeling 'kwalificaties – keuzedelen – kwalificaties'.
-
-Een kwalificatiedossier bevat de kwalificatie-eisen voor een beroep of groep van beroepen op het niveau van de beginnend beroepsbeoefenaar. Ook bevat het een verwijzing naar de kwalificatie-eisen voor de generieke examenonderdelen Nederlandse taal, rekenen, Engels (voor mbo niveau 4), loopbaan en burgerschap.
 
 De kwalificatie-eisen voor een keuzedeel zijn beschreven in een apart document keuzedeel, dat gekoppeld is aan één of meer kwalificaties. Aan iedere kwalificatie zijn meerdere keuzedelen gekoppeld.
 
@@ -582,11 +578,11 @@ De toetsingscriteria in het Toetsingskader beschrijven kwaliteitsstandaarden waa
 
 Kwalificatiedossiers en keuzedelen moeten worden ontwikkeld volgens het door OCW en EZ vastgestelde model kwalificatiedossier en model keuzedeel en conform de daarbij behorende instructie en ze moeten voldoen aan de desbetreffende toetsingscriteria uit dit Toetsingskader.
 
-### 2.2. De kwaliteit van de kwalificatiestructuur, de kwalificatiedossiers en keuzedelen
+De toetsingscriteria in het Toetsingskader beschrijven kwaliteitsstandaarden waaraan de kwalificatiestructuur als geheel, de afzonderlijke kwalificatiedossiers, de afzonderlijke keuzedelen en de koppeling tussen keuzedeel en kwalificatie moeten voldoen.
 
 De kwaliteit van de kwalificatiestructuur, de afzonderlijke kwalificatiedossiers en de keuzedelen worden getoetst aan de hand van de volgende criteria:
 
-**De kwalificatiestructuur is **doelmatig**; relevant voor de arbeidsmarkt, de samenleving en vervolgonderwijs.**
+### 2.2. De kwaliteit van de kwalificatiestructuur, de kwalificatiedossiers en keuzedelen
 
 **De kwalificatiestructuur is **uitvoerbaar** voor onderwijs, bpv en examinering.**
 
@@ -600,11 +596,11 @@ De kwaliteit van de kwalificatiestructuur, de afzonderlijke kwalificatiedossiers
 
 De bovenstaande kwaliteitscriteria dienen in onderlinge samenhang te worden bezien. De kwaliteitscriteria zijn te onderscheiden, maar niet strikt te scheiden. Ze vullen elkaar aan, vloeien in elkaar over en er bestaat een spanningsrelatie tussen een aantal kwaliteitscriteria.
 
-### 3. Het proces van toetsing
+**De kwalificatiestructuur is **duurzaam** voor onderwijs, beroepspraktijkvorming en examinering.**
 
 De Toetsingskamer toetst de kwaliteit van de kwalificatiedossiers, de keuzedelen en de kwalificatiestructuur als geheel aan de hand van de toetsingscriteria uit het Toetsingskader en brengt daarover een onafhankelijk advies uit aan het Bestuur SBB.
 
-Het toetsproces van de Toetsingskamer kent twee formele toetsmomenten: de Ingangstoets en de Eindtoets. Deze twee toetsmomenten zijn van toepassing op de afzonderlijke kwalificatiedossiers, de keuzedelen en de kwalificatiestructuur.
+### 3. Het proces van toetsing
 
 De Ingangstoets is van toepassing in de volgende gevallen:
 
@@ -622,9 +618,127 @@ Er is twee keer per jaar de mogelijkheid tot het vaststellen van een nieuw of ve
 
 Jaarlijks rapporteert de Toetsingskamer in een review over trends en ontwikkelingen in de kwalificatiestructuur en doet daarin voorstellen tot (onderzoek naar) kwaliteitsverbetering van de kwalificatiestructuur.
 
+Er is twee keer per jaar de mogelijkheid tot het vaststellen van een nieuw of vernieuwd kwalificatiedossier door de minister van OCW of EZ. Voor keuzedelen kan dat vier keer per jaar gebeuren. Het toetsproces van de Toetsingskamer is afgestemd op de data van vaststelling.
+
+Jaarlijks rapporteert de Toetsingskamer in een review over trends en ontwikkelingen in de kwalificatiestructuur en doet daarin voorstellen tot (onderzoek naar) kwaliteitsverbetering van de kwalificatiestructuur.
+
 Deze regeling wordt met toelichting en [bijlagen](https://wetten.overheid.nl/jci1.3:c:BWBR0037661&bijlage=1&z=2016-03-01&g=2016-03-01) in de Staatscourant geplaatst.
 
 De [bijlagen](https://wetten.overheid.nl/jci1.3:c:BWBR0037661&bijlage=1&z=2016-03-01&g=2016-03-01) worden eveneens geplaatst op de websites:
+
+• www.s-bb.nl/kwalificatiedossiers; en
+
+• www.s-bb.nl/keuzedelen.
+
+### 4.5.1. Verbijzondering beroepsvereisten
+
+Sommige beroepsvereisten gelden niet voor iedereen die wordt opgeleid tot een beroep, maar zijn afhankelijk van de invulling binnen de beroepscontext. Het is in dat geval toegestaan om beroepsvereisten met een keuzemogelijkheid in een kwalificatie te verwerken.
+
+### 4.6. Onderdeel waaraan een certificaat is verbonden
+
+Krachtens algemene maatregel van bestuur (op basis van [artikel 7.2.3. van de WEB](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=7.2.3)) kan in het kwalificatiedossier zijn vermeld dat er sprake is van een onderdeel van een kwalificatie waarvoor een certificaat wordt uitgereikt.
+
+### 4.7. Profiel specifieke kerntaken en werkprocessen
+
+In het profieldeel worden per kwalificatie de kerntaken en werkprocessen uitgewerkt. Volg hierbij de desbetreffende instructie uit de basis (paragraaf 3.2). Als stelregel geldt: ‘gelijke en vergelijkbare beroepsuitoefening is in de kwalificatiestructuur gelijk en vergelijkbaar beschreven'. Dat meetpunt is ook van toepassing wanneer identieke werkprocessen c.q. kerntaken voorkomen in verschillende profielen.
+
+### 4.8. Beroepsgerichte taal- en rekeneisen
+
+In deze paragraaf wordt ingegaan op de wijze waarop eventuele beroepsgerichte taal- en rekeneisen opgenomen worden in de beroepsgerichte taken van basis- én profieldeel.
+
+### 4.9. Beroepsgerichte moderne vreemde talen (mvt)
+
+Wat geldt voor Nederlandse taal en rekenen geldt ook voor beroepsgerichte mvt-eisen, namelijk:
+
+### Deel II:. Het keuzedeel
+
+In dit hoofdstuk wordt beschreven waaraan keuzedelen moeten voldoen gegeven de regelgeving in de [WEB](https://wetten.overheid.nl/jci1.3:c:BWBR0007625) en het Toetsingskader. In de eerste paragraaf worden de karakteristieken van het keuzedeel beschreven. In de tweede paragraaf wordt beschreven hoe de onderdelen van het model keuzedeel uitgewerkt moeten worden en welke criteria de Toetsingskamer hanteert bij het beoordelen van het keuzedeel.
+
+### 5.2. Karakteristieken van het keuzedeel
+
+Een keuzedeel levert voor de deelnemer een verrijking ten opzichte van de kwalificatie. Het kan verbreden of verdiepen of gericht zijn op doorstroom naar de vervolgopleiding.
+
+### 5.3. Inhoud keuzedeel
+
+Het model voor de keuzedelen is afgeleid van het model van het kwalificatiedossier, keuzedelen zijn dus ook ingedeeld in kerntaken en werkprocessen. De instructie die geldt voor de uitwerking van kerntaken en werkprocessen (inclusief complexiteit, zelfstandigheid en verantwoordelijkheid, vakkennis en vaardigheden en resultaat) geldt ook voor de uitwerking van keuzedelen. Een keuzedeel bestaat uit één of meerdere kerntaken.
+
+### 5.4. Voorblad
+
+Geef het keuzedeel een korte en weloverwogen naam, passend bij en dekkend voor de inhoud van het keuzedeel.
+
+### 5.5. Algemene informatie
+
+Geef aan welke sectorkamer penvoerder is voor het keuzedeel en vervolgens welk marksegment hoort bij het keuzedeel.
+
+### 2. Sbu
+
+DigiK genereert een bijlage met een overzicht van de koppelingen van het keuzedeel.
+
+### 5.6. Richtlijnen voor het koppelen van het keuzedeel aan de kwalificatie
+
+De Toetsingskamer koppelt vervolgens een keuzedeel aan een kwalificatie.
+
+### Deel III:. De verantwoordingsinformatie bij het kwalificatiedossier
+
+### 6. Instructie uitwerking verantwoordingsinformatie
+
+Het kwalificatiedossier moet een verwijzing bevatten naar verantwoordingsinformatie. Deze is geen onderdeel van het dossier. De verantwoordingsinformatie dient jaarlijks geactualiseerd te worden. Sectorkamers wordt gevraagd jaarlijks de actualiteit van de informatie te controleren en aan te passen waar relevant. Dat geldt in ieder geval voor de arbeidsmarktinformatie.
+
+Wel wordt gevraagd een tekst in te voegen met een toelichting op ontwikkelingen op de arbeidsmarkt, de opleidingenmarkt en de stagemarkt. Hier kan zo nodig specifieke informatie over de bedrijfstak/branche worden opgenomen.
+
+### 6.3. Trends en ontwikkelingen
+
+Ontwikkelingen in de beroepsuitoefening: bevat technologische, bedrijfsorganisatorische, internationale veranderingen en/of marktontwikkelingen die gevolgen hebben voor de beroepsuitoefening in de toekomst. Vereist is dus een beschrijving van toekomstige (niet huidige) ontwikkelingen waaruit de relevantie en de gevolgen voor dit kwalificatiedossier duidelijk blijkt.
+
+### 6.4. Beroepsvereisten
+
+Zoals beschreven in paragraaf 4.5. spreken we van beroepsvereisten wanneer die voldoen aan de volgende criteria:
+
+### 6.5. Bijzondere vereisten
+
+Het indicatieve niveau voor de beheersing van beroepsspecifieke moderne vreemde talen in dit dossier is:
+
+### 6.7. Ontwikkelmogelijkheden van de beroepsbeoefenaar in het onderwijs
+
+Niveau 4: De doorstroom naar een andere kwalificatie binnen en/of na het mbo en/of het hbo moet globaal aangeduid zijn met één of meerdere concrete voorbeelden. Doorstroming naar hbo kan alleen worden beschreven bij niveau 4.
+
+### 6.8. Onderhoudsagenda
+
+Categorie 1: nieuw dossier
+
+### 6.10. Betrokkenen
+
+Genoemd moeten worden:
+
+### 6.11. Middenkaderopleidingen van meer dan 3 jaar
+
+Daarnaast kunnen onderdelen van een kwalificatie betiteld worden als branche-vereiste. Geef indien van toepassing aan welke dat betreft. Het gaat daarbij **niet** om verklaringen krachtens de [WEB](https://wetten.overheid.nl/jci1.3:c:BWBR0007625), zoals hierboven beschreven. Vul in het sjabloon de volgende gegevens in:
+
+### 6.13. Sectorale examenafspraken
+
+## Bijlage 4. Behorende bij de Regeling vaststelling modellen kwalificatiedossier en keuzedeel en toetsingskader kwalificatiestructuur mbo 2016
+
+### 1. Inleiding
+
+In de [WEB](https://wetten.overheid.nl/jci1.3:c:BWBR0007625) zijn bepalingen opgenomen over de ontwikkeling en toetsing van kwalificatiedossiers voor het middelbaar beroepsonderwijs, in de [artikelen 7.2.3.](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=7.2.3), [7.2.4](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=7.2.4), [7.2.5](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=7.2.5), [7.2.6](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=7.2.6) en [9.2.1 derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=9.2.1).
+
+### 2.1. Inleiding
+
+De kwalificatiestructuur omvat het samenvattend geheel van kwalificatiedossiers en keuzedelen voor het middelbaar beroepsonderwijs, de tabel 'opleidingsdomeinen – kwalificatiedossiers – kwalificaties' en de koppeling 'kwalificaties – keuzedelen – kwalificaties'.
+
+Een kwalificatiedossier bevat de kwalificatie-eisen voor een beroep of groep van beroepen op het niveau van de beginnend beroepsbeoefenaar. Ook bevat het een verwijzing naar de kwalificatie-eisen voor de generieke examenonderdelen Nederlandse taal, rekenen, Engels (voor mbo niveau 4), loopbaan en burgerschap.
+
+### 2.2. De kwaliteit van de kwalificatiestructuur, de kwalificatiedossiers en keuzedelen
+
+**De kwalificatiestructuur is **doelmatig**; relevant voor de arbeidsmarkt, de samenleving en vervolgonderwijs.**
+
+### 3. Het proces van toetsing
+
+Het toetsproces van de Toetsingskamer kent twee formele toetsmomenten: de Ingangstoets en de Eindtoets. Deze twee toetsmomenten zijn van toepassing op de afzonderlijke kwalificatiedossiers, de keuzedelen en de kwalificatiestructuur.
+
+Deze regeling wordt met toelichting en [bijlagen](https://wetten.overheid.nl/jci1.3:c:BWBR0037661&bijlage=1&z=2016-07-19&g=2016-07-19) in de Staatscourant geplaatst.
+
+De [bijlagen](https://wetten.overheid.nl/jci1.3:c:BWBR0037661&bijlage=1&z=2016-07-19&g=2016-07-19) worden eveneens geplaatst op de websites:
 
 • www.s-bb.nl/kwalificatiedossiers; en
 
