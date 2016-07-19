@@ -4,7 +4,7 @@ identifier: "BWBR0038031"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2018-05-04"
-last_updated: "2016-06-09"
+last_updated: "2016-07-19"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0038031"
 soort: "ministeriele-regeling"
@@ -105,5 +105,11 @@ Deze regeling wordt aangehaald als: Warenwetregeling informatie- en rapportagebe
 ##### Artikel 11. Inwerkingtreding
 
 Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst.
+
+Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
+
+##### Artikel 1a. Reikwijdte regeling
+
+Deze regeling is mede gebaseerd op de [artikelen 16, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0038083&artikel=16), en [35, tweede lid, van het Warenwetbesluit drukapparatuur 2016](https://wetten.overheid.nl/jci1.3:c:BWBR0038083&artikel=35).
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
