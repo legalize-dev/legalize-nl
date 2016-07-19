@@ -4,7 +4,7 @@ identifier: "BWBR0037678"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-01-01"
-last_updated: "2016-03-01"
+last_updated: "2016-07-19"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0037678"
 soort: "ministeriele-regeling"
@@ -104,7 +104,7 @@ De volgende opleidingsdomeinen worden vastgesteld:
 
 ##### Artikel 3. Vaststelling kwalificatiedossiers
 
-1. In [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0037678&bijlage=1&z=2016-03-01&g=2016-03-01) behorende bij deze regeling wordt voor ieder kwalificatiedossier het volgende vastgesteld:
+1. In [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0037678&bijlage=1&z=2016-07-19&g=2016-07-19) behorende bij deze regeling wordt voor ieder kwalificatiedossier het volgende vastgesteld:
 
 - a. tot welk van de opleidingsdomeinen het kwalificatiedossier behoort, met uitzondering van de kwalificatiedossiers Entree; en
 
@@ -124,19 +124,19 @@ De volgende opleidingsdomeinen worden vastgesteld:
 
 ##### Artikel 4. Vaststelling kwalificatiedossiers/kwalificaties OCW
 
-De kwalificatiedossiers en de daarbij behorende kwalificaties, met uitzondering van de kwalificatiedossiers en de daarbij behorende kwalificaties bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0037678&paragraaf=2&artikel=5&z=2016-03-01&g=2016-03-01), worden vastgesteld op de wijze bedoeld in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0037678&bijlage=2&z=2016-03-01&g=2016-03-01) behorende bij deze regeling.
+De kwalificatiedossiers en de daarbij behorende kwalificaties, met uitzondering van de kwalificatiedossiers en de daarbij behorende kwalificaties bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0037678&paragraaf=2&artikel=5&z=2016-07-19&g=2016-07-19), worden vastgesteld op de wijze bedoeld in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0037678&bijlage=2&z=2016-07-19&g=2016-07-19) behorende bij deze regeling.
 
 ##### Artikel 5. Vaststelling kwalificatiedossiers/kwalificaties EZ
 
-De kwalificatiedossiers en de daarbij behorende kwalificaties voor zover het betreft beroepsonderwijs op het gebied van landbouw, natuurlijke omgeving en voedsel, worden vastgesteld op de wijze bedoeld in [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0037678&bijlage=3&z=2016-03-01&g=2016-03-01) behorende bij deze regeling.
+De kwalificatiedossiers en de daarbij behorende kwalificaties voor zover het betreft beroepsonderwijs op het gebied van landbouw, natuurlijke omgeving en voedsel, worden vastgesteld op de wijze bedoeld in [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0037678&bijlage=3&z=2016-07-19&g=2016-07-19) behorende bij deze regeling.
 
 ##### Artikel 6. Middenkaderopleidingen
 
-Voor de middenkaderopleidingen, opgenomen in [bijlage 4](https://wetten.overheid.nl/jci1.3:c:BWBR0037678&bijlage=4&z=2016-03-01&g=2016-03-01) bij deze regeling, kan door het bevoegd gezag een studieduur worden vastgesteld van vier studiejaren.
+Voor de middenkaderopleidingen, opgenomen in [bijlage 4](https://wetten.overheid.nl/jci1.3:c:BWBR0037678&bijlage=4&z=2016-07-19&g=2016-07-19) bij deze regeling, kan door het bevoegd gezag een studieduur worden vastgesteld van vier studiejaren.
 
 ##### Artikel 7. Opleidingsaanbod vakinstellingen en agrarische opleidingscentra
 
-In [bijlage 5](https://wetten.overheid.nl/jci1.3:c:BWBR0037678&bijlage=5&z=2016-03-01&g=2016-03-01) bij deze regeling wordt vastgesteld door welke vakinstelling en/of agrarische opleidingscentrum een beroepsopleiding mag worden verzorgd die is gericht op de kwalificatie.
+In [bijlage 5](https://wetten.overheid.nl/jci1.3:c:BWBR0037678&bijlage=5&z=2016-07-19&g=2016-07-19) bij deze regeling wordt vastgesteld door welke vakinstelling en/of agrarische opleidingscentrum een beroepsopleiding mag worden verzorgd die is gericht op de kwalificatie.
 
 #### Paragraaf 3. Slotbepalingen
 
@@ -146,9 +146,9 @@ Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel 9. Inwerkingtreding
 
-1. Deze regeling treedt, met uitzondering van [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0037678&paragraaf=3&artikel=8&z=2016-03-01&g=2016-03-01), in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst en werkt, met uitzondering van artikel 8, terug tot en met 1 februari 2016.
+1. Deze regeling treedt, met uitzondering van [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0037678&paragraaf=3&artikel=8&z=2016-07-19&g=2016-07-19), in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst en werkt, met uitzondering van artikel 8, terug tot en met 1 februari 2016.
 
-2. [Artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0037678&paragraaf=3&artikel=8&z=2016-03-01&g=2016-03-01) treedt in werking met ingang van 1 augustus 2016.
+2. [Artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0037678&paragraaf=3&artikel=8&z=2016-07-19&g=2016-07-19) treedt in werking met ingang van 1 augustus 2016.
 
 ##### Artikel 10. Citeertitel
 
@@ -169,11 +169,8 @@ Deze regeling wordt aangehaald als: Regeling vaststelling kwalificatiedossiers e
 |   |   | Betonstaalverwerken | 25084 | Betonstaalvlechter | 2 | 1,30 | basisberoepsopleiding |   | BOL/BBL |
 | 23048 | 1,30 | Betontimmeren | 25085 | Allround betontimmerman | 3 | 1,30 | vakopleiding |   | BOL/BBL |
 |   |   | Betontimmeren | 25125 | Betontimmerman | 2 | 1,30 | basisberoepsopleiding |   | BOL/BBL |
-| 23049 | 1,30 | Dakdekken | 25086 | Allround dakdekker bitumen en kunststof | 3 | 1,30 | vakopleiding |   | BOL/BBL |
-|   |   | Dakdekken | 25087 | Allround dakdekker pannen/leien | 3 | 1,30 | vakopleiding |   | BOL/BBL |
-|   |   | Dakdekken | 25088 | Dakdekker bitumen en kunststof | 2 | 1,30 | basisberoepsopleiding |   | BOL/BBL |
-|   |   | Dakdekken | 25089 | Dakdekker pannen/leien | 2 | 1,30 | basisberoepsopleiding |   | BOL/BBL |
-|   |   | Dakdekken | 25090 | Dakdekker riet | 2 | 1,30 | basisberoepsopleiding |   | BOL/BBL |
+| 23215 | 1,30 | Dakdekken | 25542 | Allround dakdekker metaal | 3 | 1,30 | vakopleiding |   |   |
+|   |   | Dakdekken | 25543 | Monteur metalen daken en gevels | 2 | 1,30 | basisberoepsopleiding |   | BOL/BBL |
 | 23050 | 1,30 | Grond-, water- en wegenbouw | 25091 | Allround vakman gww | 3 | 1,30 | vakopleiding |   | BOL/BBL |
 |   |   | Grond-, water- en wegenbouw | 25092 | Allround waterbouwer | 3 | 1,30 | vakopleiding |   | BOL/BBL |
 |   |   | Grond-, water- en wegenbouw | 25094 | Balkman | 3 | 1,30 | vakopleiding |   | BOL/BBL |
@@ -317,7 +314,7 @@ Deze regeling wordt aangehaald als: Regeling vaststelling kwalificatiedossiers e
 |   |   | Precisietechniek | 25299 | Gereedschapsmaker | 3 | 1,30 | vakopleiding |   | BOL/BBL |
 |   |   | Precisietechniek | 25300 | Instrumentmaker | 3 | 1,30 | vakopleiding |   | BOL/BBL |
 |   |   | Precisietechniek | 25302 | Verspaner | 2 | 1,30 | basisberoepsopleiding |   | BOL/BBL |
-|   |   | Precisietechniek | 25507 | Verspaningstechnoloog | 3 | 1,30 | vakopleiding |   | BOL/BBL |
+|   |   | Precisietechniek | 25507 | Verspaningstechnoloog | 4 | 1,30 | vakopleiding |   | BOL/BBL |
 | 23121 | 1,60 | Procestechniek | 25303 | Operator C | 4 | 1,60 | middenkaderopleiding |   | BOL/BBL |
 | 23122 | 1,30 | Service- en onderhoudstechniek | 25304 | Eerste monteur service en onderhoud elektrotechniek en instrumentatie | 3 | 1,30 | vakopleiding |   | BOL/BBL |
 |   |   | Service- en onderhoudstechniek | 25309 | Technicus service en onderhoud elektrotechniek en instrumentatie | 4 | 1,30 | middenkaderopleiding |   | BOL/BBL |
@@ -522,10 +519,10 @@ Deze regeling wordt aangehaald als: Regeling vaststelling kwalificatiedossiers e
 | 23065 | 1,00 | Financieel administratieve beroepen | 25138 | Bedrijfsadministrateur | 4 | 1,00 | middenkaderopleiding |   | BOL/BBL |
 |   |   | Financieel administratieve beroepen | 25140 | Junior assistent-accountant | 4 | 1,00 | middenkaderopleiding |   | BOL/BBL |
 |   |   | Financieel administratieve beroepen | 25139 | Financieel administratief medewerker | 3 | 1,00 | vakopleiding |   | BOL/BBL |
-| 23190 | 1,00 | Financiële dienstverlening | 25141 | Adviseur Bancaire Diensten | 4 | 1,00 | middenkaderopleiding |   | BOL/BBL |
-|   |   | Financiële dienstverlening | 25142 | Adviseur Inkomensverzekeringen | 4 | 1,00 | middenkaderopleiding |   | BOL/BBL |
-|   |   | Financiële dienstverlening | 25143 | Adviseur Schadeverzekeringen | 4 | 1,00 | middenkaderopleiding | Financiën | BOL/BBL |
-|   |   | Financiële dienstverlening | 25144 | Adviseur Vermogen | 4 | 1,00 | middenkaderopleiding | Financiën | BOL/BBL |
+| 23216 | 1,00 | Financiële dienstverlening | 25544 | Klantmedewerker Bancaire Diensten | 4 | 1,00 | middenkaderopleiding |   | BOL/BBL |
+|   |   | Financiële dienstverlening | 25545 | Klantmedewerker Inkomensverzekeringen | 4 | 1,00 | middenkaderopleiding |   | BOL/BBL |
+|   |   | Financiële dienstverlening | 25546 | Klantmedewerker Schadeverzekeringen | 4 | 1,00 | middenkaderopleiding |   | BOL/BBL |
+|   |   | Financiële dienstverlening | 25547 | Klantmedewerker Vermogen | 4 | 1,00 | middenkaderopleiding |   | BOL/BBL |
 | 23066 | 1,00 | Juridisch-administratieve beroepen | 25145 | Juridisch-administratief dienstverlener | 4 | 1,00 | middenkaderopleiding |   | BOL/BBL |
 |   |   | Juridisch-administratieve beroepen | 25146 | Medewerker human resource management (HRM) | 4 | 1,00 | middenkaderopleiding |   | BOL/BBL |
 | 23067 | 1,00 | Marketing, communicatie en evenementen | 25147 | Medewerker evenementenorganisatie | 4 | 1,00 | middenkaderopleiding |   | BOL/BBL |
@@ -914,6 +911,6 @@ Vormenmaker (25508) Stichting Christelijk Instituut Bescherming Afwerking en Pre
 
 Verspaningstechnoloog (25507) Leidse Instrumentenmakers School
 
-Deze regeling zal met de [bijlagen 1](https://wetten.overheid.nl/jci1.3:c:BWBR0037678&bijlage=1&z=2016-03-01&g=2016-03-01), [4](https://wetten.overheid.nl/jci1.3:c:BWBR0037678&bijlage=4&z=2016-03-01&g=2016-03-01) en [5](https://wetten.overheid.nl/jci1.3:c:BWBR0037678&bijlage=5&z=2016-03-01&g=2016-03-01) alsmede de toelichting in de Staatscourant worden geplaatst.
+Deze regeling zal met de [bijlagen 1](https://wetten.overheid.nl/jci1.3:c:BWBR0037678&bijlage=1&z=2016-07-19&g=2016-07-19), [4](https://wetten.overheid.nl/jci1.3:c:BWBR0037678&bijlage=4&z=2016-07-19&g=2016-07-19) en [5](https://wetten.overheid.nl/jci1.3:c:BWBR0037678&bijlage=5&z=2016-07-19&g=2016-07-19) alsmede de toelichting in de Staatscourant worden geplaatst.
 
-De [bijlagen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0037678&bijlage=2&z=2016-03-01&g=2016-03-01) en [3](https://wetten.overheid.nl/jci1.3:c:BWBR0037678&bijlage=3&z=2016-03-01&g=2016-03-01) worden gepubliceerd op www.s-bb.nl/kwalificatiedossiers.
+De [bijlagen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0037678&bijlage=2&z=2016-07-19&g=2016-07-19) en [3](https://wetten.overheid.nl/jci1.3:c:BWBR0037678&bijlage=3&z=2016-07-19&g=2016-07-19) worden gepubliceerd op www.s-bb.nl/kwalificatiedossiers.
