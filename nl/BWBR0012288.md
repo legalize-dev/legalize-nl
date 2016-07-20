@@ -4,7 +4,7 @@ identifier: "BWBR0012288"
 country: "nl"
 rank: "circulaire"
 publication_date: "2026-04-04"
-last_updated: "2016-07-01"
+last_updated: "2016-07-20"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0012288"
 soort: "circulaire"
@@ -1985,7 +1985,7 @@ Geen bijzonderheden.
 
 Geen bijzonderheden.
 
-### 7.4. Ernstige schade in de zin van artikel 29, eerste lid, onder b, Vw
+### 7.4. Ernstige schade in de zin van [artikel 29, eerste lid, onder b, Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=29)
 
 Geen bijzonderheden.
 
@@ -2011,7 +2011,7 @@ Geen bijzonderheden.
 
 ### 7.6. Adequate opvang alleenstaande minderjarige vreemdelingen
 
-De IND beoordeelt of adequate opvang voor amv’s aanwezig is aan de hand van [paragraaf B8/6](onbekend) Vc.
+De IND beoordeelt of adequate opvang voor amv’s aanwezig is aan de hand van [paragraaf B8/6 Vc](onbekend).
 
 ### 8. Het asielbeleid ten aanzien van China
 
@@ -4347,7 +4347,7 @@ Voor Burundi geldt in ieder geval dat:
 
 ### 7.7. Vertrekmoratorium
 
-Geen bijzonderheden.
+Ten aanzien van Burundi geldt een besluit in de zin van [artikel 45, vierde lid, Vw.](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=45)
 
 Ten aanzien van Oeigoeren afkomstig uit China geldt een besluit in de zin van [artikel 43, eerste lid, Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=43).
 
@@ -5231,7 +5231,7 @@ Geen bijzonderheden.
 
 Geen bijzonderheden.
 
-Geen bijzonderheden.
+Ten aanzien van Burundi geldt een besluit in de zin van [artikel 43, eerste lid, Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=43).
 
 Geen bijzonderheden.
 
