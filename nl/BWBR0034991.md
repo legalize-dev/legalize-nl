@@ -4,7 +4,7 @@ identifier: "BWBR0034991"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-11-27"
-last_updated: "2014-04-01"
+last_updated: "2016-07-20"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0034991"
 soort: "ministeriele-regeling"
@@ -76,7 +76,7 @@ Als materialen als bedoeld in [artikel 3, eerste lid, onder a](https://wetten.ov
 
 ##### Artikel 3
 
-Een materiaal, genoemd in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0034991&artikel=2&z=2014-04-01&g=2014-04-01), is vervaardigd uit de voor dat materiaal in de bij deze regeling behorende bijlage aangegeven stoffen, welke voldoen aan de daarin voor die stoffen gestelde regels.
+Een materiaal, genoemd in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0034991&artikel=2&z=2016-07-20&g=2016-07-20), is vervaardigd uit de voor dat materiaal in de bij deze regeling behorende bijlage aangegeven stoffen, welke voldoen aan de daarin voor die stoffen gestelde regels.
 
 ##### Artikel 4
 
@@ -84,11 +84,11 @@ Bij de vervaardiging van verpakkingen en gebruiksartikelen mogen grond- en hulps
 
 ##### Artikel 5
 
-Verpakkingen en gebruiksartikelen, vervaardigd uit materiaal als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0034991&artikel=2&z=2014-04-01&g=2014-04-01), mogen aan eet- en drinkwaren geen grotere hoeveelheden stoffen afgeven dan voor die stoffen is aangegeven in de bij deze regeling behorende bijlage.
+Verpakkingen en gebruiksartikelen, vervaardigd uit materiaal als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0034991&artikel=2&z=2016-07-20&g=2016-07-20), mogen aan eet- en drinkwaren geen grotere hoeveelheden stoffen afgeven dan voor die stoffen is aangegeven in de bij deze regeling behorende bijlage.
 
 ##### Artikel 6
 
-Ten aanzien van verpakkingen en gebruiksartikelen, bestaande uit materialen als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0034991&artikel=2&z=2014-04-01&g=2014-04-01), gelden de onderzoekingsmethoden zoals opgenomen in de bij deze regeling behorende bijlage.
+Ten aanzien van verpakkingen en gebruiksartikelen, bestaande uit materialen als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0034991&artikel=2&z=2016-07-20&g=2016-07-20), gelden de onderzoekingsmethoden zoals opgenomen in de bij deze regeling behorende bijlage.
 
 ##### Artikel 7
 
@@ -198,7 +198,7 @@ NA Niet aantoonbaar met een methode met een detectiegrens van 0,05 mg/kg.
 
 (2) Aantonen van overeenstemming met de beperking middels het bepalen van het gehalte per oppervlak. Gehalte wordt uitgedrukt in mg/6 dm2 eindproduct (als NCO). QMA(T) mg/kg is de som van alle stoffen gemarkeerd met (2) en de isocyanaten opgenomen in Verordening (EU) nr. 10/2011, bijlage I, tabel 2, groep 17.
 
-(3) De som van de migratie van alle stoffen gemarkeerd met (3) mag niet aantoonbaar zijn met een methode met een detectiegrens van 0,05 mg/kg. De som van de migratie van volledige zuigelingenvoeding en opvolgzuigelingenvoeding als omschreven in [Richtlijn 2006/141/EG](onbekend)18[Richtlijn 2006/141/EG](onbekend) van de Commissie van 22 december 2006 inzake volledige zuigelingenvoeding en opvolgzuigelingenvoeding en tot wijziging van [Richtlijn 1999/21/EG](onbekend) (PbEU 2006, L401). en bewerkte voedingsmiddelen op basis van granen en babyvoeding voor zuigelingen en peuters als omschreven in [Richtlijn 2006/125/EG](onbekend)19[Richtlijn 2006/125/EG](onbekend) van de Commissie van 5 december 2006 inzake bewerkte voedingsmiddelen op basis van granen en babyvoeding voor zuigelingen en peuters (PbEU 2006, L339). mag niet hoger zijn dan 0,01 mg/kg voedsel zoals geconsumeerd.
+(3) De som van de migratie van alle stoffen gemarkeerd met (3) mag niet aantoonbaar zijn met een methode met een detectiegrens van 0,05 mg/kg. De som van de migratie van volledige zuigelingenvoeding en opvolgzuigelingenvoeding en bewerkte levensmiddelen op basis van granen en babyvoeding als omschreven in verordening (EU) 609/2013 mag niet hoger zijn dan 0,01 mg/kg voedsel zoals geconsumeerd.
 
 (4) Dit is een afbraakproduct en geen toegelaten uitgangsstof.
 
