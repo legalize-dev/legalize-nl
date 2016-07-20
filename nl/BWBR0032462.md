@@ -4,7 +4,7 @@ identifier: "BWBR0032462"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-11-27"
-last_updated: "2016-01-01"
+last_updated: "2016-07-20"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0032462"
 soort: "ministeriele-regeling"
@@ -82,7 +82,7 @@ In deze paragraaf wordt verstaan onder:
 
 1. Deze paragraaf is van toepassing op exploitanten van levensmiddelenbedrijven als bedoeld in sectie I tot en met IV van bijlage III bij verordening (EG) nr. 853/2004.
 
-2. [Artikel 2.4, eerste lid, onderdelen b tot en met e](https://wetten.overheid.nl/jci1.3:c:BWBR0032462&hoofdstuk=2&paragraaf=1&artikel=2.4&z=2016-01-01&g=2016-01-01), zijn eveneens van toepassing op primaire bedrijven.
+2. [Artikel 2.4, eerste lid, onderdelen b tot en met e](https://wetten.overheid.nl/jci1.3:c:BWBR0032462&hoofdstuk=2&paragraaf=1&artikel=2.4&z=2016-07-20&g=2016-07-20), zijn eveneens van toepassing op primaire bedrijven.
 
 ##### Artikel 2.3. NVWA
 
@@ -194,10 +194,6 @@ In hoofdstuk 2, paragraaf 2, wordt verstaan onder:
 
 - –. **melkcontrolestation:**laboratorium dat onderzoek naar de kwaliteit of de samenstelling van boerderijmelk uitvoert;
 
-- –. **richtlijn 2000/13/EG:** richtlijn 2000/13/EG van het Europees Parlement en de Raad van maart 2000 betreffende de onderlinge aanpassing van de wetgeving der lidstaten inzake de etikettering en presentatie van levensmiddelen alsmede inzake de daarvoor gemaakte reclame (PbEU 2000 L 109);
-
-- –. **richtlijn 92/52/EEG:** [richtlijn 92/52/EEG](31992L0052) van de Raad van de Europese Gemeenschappen van 18 juni 1992 inzake volledige zuigelingenvoeding en opvolgzuigelingenvoeding die voor de uitvoer naar derde landen is bestemd (PbEG 1992 L 179);
-
 - –. **rijdende melkontvangst:** mobiele installatie met vloeistofmeetinstallatie voor melk die wordt gebruikt voor het ophalen van boerderijmelk;
 
 - –. **traaggroeiend pluimveeras:** pluimveeras waarvan de daartoe behorende dieren gemiddeld met ten hoogste 40 gram per dag groeien;
@@ -219,6 +215,8 @@ In hoofdstuk 2, paragraaf 2, wordt verstaan onder:
 - –. **verordening (EG) nr. 889/2008:** [verordening (EG) nr. 889/2008](32008R0889) van de Commissie van 5 september 2008 tot vaststelling van bepalingen ter uitvoering van [Verordening (EG) 834/2007](32007R0834) van de Raad inzake de biologische productie en de etikettering van biologische producten, wat de biologische productie, de etikettering en de controle betreft (PbEU 2008 L 250);
 
 - –. **verordening (EG) nr. 1235/2008:** [verordening (EG) nr. 1235/2008](32008R1235) van de Commissie van 8 december 2008 houdende bepalingen ter uitvoering van [Verordening (EG) nr. 834/2007](32007R0834) van de Raad wat de regeling voor de invoer van biologische producten uit derde landen betreft (PbEU 2008 L 334);
+
+- –. **verordening (EU) nr. 1169/2011:** Verordening (EU) nr. 1169/2011 van het Europees Parlement en de Raad van 25 oktober 2011 betreffende de verstrekking van voedselinformatie aan consumenten, tot wijziging van Verordeningen (EG) nr. 1924/2006 en (EG) nr. 1925/2006 van het Europees Parlement en de Raad en tot intrekking van Richtlijn 87/250/EEG van de Commissie, Richtlijn 90/496/EEG van de Raad, Richtlijn 1999/10/EG van de Commissie, Richtlijn 2000/13/EG van het Europees Parlement en de Raad, Richtlijnen 2002/67/EG en 2008/5/EG van de Commissie, en Verordening (EG) nr. 608/2004 van de Commissie (Pb EU 2011 L 304);
 
 - –. **verordening (EU) nr. 1308/2013:** verordening (EU) nr. 1308/2013 van het Europees Parlement en de Raad van 17 december 2013 tot vaststelling van een gemeenschappelijke ordening van de markten voor landbouwproducten en tot intrekking van de Verordeningen (EEG) nr. 922/72, (EEG) nr. 234/79, (EG) nr. 1037/2001 en (EG) nr. 1234/2007 van de Raad (PbEU 2013, L 347);
 
@@ -264,7 +262,7 @@ Vervallen
 
 ##### Artikel 2.17. Veebezetting
 
-De maximale omvang van de mestproductie per hectare landbouwgrond, bedoeld in artikel 15 van [verordening (EG) nr. 889/2008](32008R0889), bedraagt de hoeveelheid stikstof zoals opgenomen in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0032462&bijlage=1&z=2016-01-01&g=2016-01-01) bij deze regeling, of, indien de betreffende diercategorie daarin ontbreekt, in [bijlage D van de Uitvoeringsregeling Meststoffenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&bijlage=D).
+De maximale omvang van de mestproductie per hectare landbouwgrond, bedoeld in artikel 15 van [verordening (EG) nr. 889/2008](32008R0889), bedraagt de hoeveelheid stikstof zoals opgenomen in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0032462&bijlage=1&z=2016-07-20&g=2016-07-20) bij deze regeling, of, indien de betreffende diercategorie daarin ontbreekt, in [bijlage D van de Uitvoeringsregeling Meststoffenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&bijlage=D).
 
 ##### Artikel 2.18. Uitlopen pluimvee
 
@@ -336,13 +334,11 @@ Indien nodig voor het snijden en behandelen van vers vlees van pluimvee mag, in 
 
 ##### Artikel 2.26. Zuigelingenvoeding
 
-Het is verboden volledige zuigelingenvoeding en opvolgzuigelingenvoeding uit Nederland uit te voeren naar een staat die geen lid van de Europese Unie is en geen partij is bij de Overeenkomst betreffende de Europese Economische Ruimte, tenzij is voldaan aan:
+Bij de uitvoer van volledige zuigelingenvoeding en opvolgzuigelingenvoeding uit Nederland naar een staat die geen lid is van de Europese Unie en geen partij is bij de Overeenkomst betreffende de Europese Economische Ruimte, wordt, voor zover van toepassing, voldaan aan:
 
-- a. de [Warenwetregeling zuigelingenvoeding 2007](https://wetten.overheid.nl/jci1.3:c:BWBR0021907);
+- a. het [Warenwetbesluit bijzondere voeding 2016](https://wetten.overheid.nl/jci1.3:c:BWBR0037883); en
 
-- b. de Codex Alimentarius, voor zover deze betrekking heeft op volledige zuigelingenvoeding of opvolgzuigelingenvoeding, of
-
-- c. de regels van het land van bestemming.
+- b. het [Warenwetbesluit uitvoer van waren](https://wetten.overheid.nl/jci1.3:c:BWBR0006007).
 
 #### § 2.6. Nationale kwaliteitsvoorschriften voor kaas
 
@@ -460,7 +456,7 @@ In deze paragraaf wordt onder bereiden mede verstaan: het ter rijping in opslag 
 
 In dit hoofdstuk wordt verstaan onder:
 
-- –. **aangewezen dierlijke bijproducten:** dierlijke bijproducten als bedoeld in [artikel 3.20](https://wetten.overheid.nl/jci1.3:c:BWBR0032462&hoofdstuk=3&paragraaf=3&artikel=3.20&z=2016-01-01&g=2016-01-01);
+- –. **aangewezen dierlijke bijproducten:** dierlijke bijproducten als bedoeld in [artikel 3.20](https://wetten.overheid.nl/jci1.3:c:BWBR0032462&hoofdstuk=3&paragraaf=3&artikel=3.20&z=2016-07-20&g=2016-07-20);
 
 - –. **ondernemer:** de ondernemer, bedoeld in [artikel 3.3, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&artikel=3.3);
 
@@ -640,7 +636,7 @@ Dierlijke bijproducten als bedoeld in [artikel 3.3, eerste lid, van de wet](http
 
 - d. kadavers of delen daarvan die worden gebruikt voor activiteiten, bedoeld in artikel 17, eerste lid, en artikel 18, eerste en tweede lid, van [verordening (EG) nr. 1069/2009](32009R1069), waarvan het gebruik is toegestaan;
 
-- e. producten van bijen en bijenteelt die overeenkomstig [artikel 3.10, aanhef en onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0032462&hoofdstuk=3&paragraaf=2&artikel=3.10&z=2016-01-01&g=2016-01-01) worden verwijderd;
+- e. producten van bijen en bijenteelt die overeenkomstig [artikel 3.10, aanhef en onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0032462&hoofdstuk=3&paragraaf=2&artikel=3.10&z=2016-07-20&g=2016-07-20) worden verwijderd;
 
 - f. Op een broederij in de schaal gestorven pluimvee en kadavers van pluimvee die zijn ontstaan op een broederij.
 
@@ -686,15 +682,15 @@ Dierlijke bijproducten als bedoeld in [artikel 3.3, eerste lid, van de wet](http
 
 ##### Artikel 3.24. Nadere bewaarvoorschriften bij vaste ophaaldag
 
-1. De houder van aangewezen dierlijke bijproducten zorgt ervoor dat dierlijke bijproducten als bedoeld in [artikel 3.22, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032462&hoofdstuk=3&paragraaf=3&artikel=3.22&z=2016-01-01&g=2016-01-01), worden aangeboden in vaten of containers die passen in de laadinrichting van het vervoermiddel waarmee die bijproducten worden opgehaald en waarop de categorie van het materiaal is aangegeven dat zij bevatten.
+1. De houder van aangewezen dierlijke bijproducten zorgt ervoor dat dierlijke bijproducten als bedoeld in [artikel 3.22, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032462&hoofdstuk=3&paragraaf=3&artikel=3.22&z=2016-07-20&g=2016-07-20), worden aangeboden in vaten of containers die passen in de laadinrichting van het vervoermiddel waarmee die bijproducten worden opgehaald en waarop de categorie van het materiaal is aangegeven dat zij bevatten.
 
-2. Dierlijke bijproducten die overeenkomstig [artikel 3.22, derde lid, aanhef en onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0032462&hoofdstuk=3&paragraaf=3&artikel=3.22&z=2016-01-01&g=2016-01-01), ten minste een keer in de twee weken worden opgehaald, worden tot ze worden opgehaald bewaard bij een omgevingstemperatuur van ten hoogste 10 °C, indien het kadavers van landbouwhuisdieren als bedoeld in artikel 3, onderdeel 6, van [verordening (EG) nr. 1069/2009](32009R1069) betreft.
+2. Dierlijke bijproducten die overeenkomstig [artikel 3.22, derde lid, aanhef en onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0032462&hoofdstuk=3&paragraaf=3&artikel=3.22&z=2016-07-20&g=2016-07-20), ten minste een keer in de twee weken worden opgehaald, worden tot ze worden opgehaald bewaard bij een omgevingstemperatuur van ten hoogste 10 °C, indien het kadavers van landbouwhuisdieren als bedoeld in artikel 3, onderdeel 6, van [verordening (EG) nr. 1069/2009](32009R1069) betreft.
 
-3. Dierlijke bijproducten die overeenkomstig [artikel 3.22, derde lid, aanhef en onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0032462&hoofdstuk=3&paragraaf=3&artikel=3.22&z=2016-01-01&g=2016-01-01), ten minste een keer in de vier weken worden opgehaald, worden tot ze worden opgehaald bewaard bij een omgevingstemperatuur van ten hoogste 5 °C.
+3. Dierlijke bijproducten die overeenkomstig [artikel 3.22, derde lid, aanhef en onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0032462&hoofdstuk=3&paragraaf=3&artikel=3.22&z=2016-07-20&g=2016-07-20), ten minste een keer in de vier weken worden opgehaald, worden tot ze worden opgehaald bewaard bij een omgevingstemperatuur van ten hoogste 5 °C.
 
 ##### Artikel 3.25. Plaats van aanbieden
 
-1. De houder van dierlijke bijproducten die bij de ondernemer zijn aangegeven op grond van [artikel 3.22](https://wetten.overheid.nl/jci1.3:c:BWBR0032462&hoofdstuk=3&paragraaf=3&artikel=3.22&z=2016-01-01&g=2016-01-01) zorgt ervoor dat deze bijproducten op de dag dat ze worden opgehaald worden aangeboden op een plaats die vanaf een wagenlengte van de openbare weg binnen het bereik van de laadkraan van het vervoermiddel ligt waarmee die bijproducten worden opgehaald.
+1. De houder van dierlijke bijproducten die bij de ondernemer zijn aangegeven op grond van [artikel 3.22](https://wetten.overheid.nl/jci1.3:c:BWBR0032462&hoofdstuk=3&paragraaf=3&artikel=3.22&z=2016-07-20&g=2016-07-20) zorgt ervoor dat deze bijproducten op de dag dat ze worden opgehaald worden aangeboden op een plaats die vanaf een wagenlengte van de openbare weg binnen het bereik van de laadkraan van het vervoermiddel ligt waarmee die bijproducten worden opgehaald.
 
 2. In afwijking van het eerste lid kunnen de houder en de ondernemer overeenkomen dat de dierlijke bijproducten op een andere plaats worden aangeboden.
 
@@ -718,7 +714,7 @@ Artikel 3 van verordening (EG) nr. 1523/2007 is een voorschrift als bedoeld in [
 
 ##### Artikel 4.1. Overeenkomstige toepassing nadere regels over tarieven
 
-[Hoofdstuk 8 van de Landbouwkwaliteitsregeling 2007](https://wetten.overheid.nl/jci1.3:c:BWBR0022543&hoofdstuk=8) is van overeenkomstige toepassing op de vaststelling van tarieven door de Stichting COKZ en de Stichting Skal voor de onderwerpen, bedoeld in [artikel 2.11](https://wetten.overheid.nl/jci1.3:c:BWBR0032462&hoofdstuk=2&paragraaf=2&sub-paragraaf=2.1&artikel=2.11&z=2016-01-01&g=2016-01-01).
+[Hoofdstuk 8 van de Landbouwkwaliteitsregeling 2007](https://wetten.overheid.nl/jci1.3:c:BWBR0022543&hoofdstuk=8) is van overeenkomstige toepassing op de vaststelling van tarieven door de Stichting COKZ en de Stichting Skal voor de onderwerpen, bedoeld in [artikel 2.11](https://wetten.overheid.nl/jci1.3:c:BWBR0032462&hoofdstuk=2&paragraaf=2&sub-paragraaf=2.1&artikel=2.11&z=2016-07-20&g=2016-07-20).
 
 ##### Artikel 4.2. Overgangsrecht biologische productiemethode
 
@@ -730,7 +726,7 @@ Wijzigt de Landbouwkwaliteitsregeling 2007.
 
 ##### Artikel 4.4. Inwerkingtreding
 
-Deze regeling treedt in werking met ingang van 1 januari 2013, met uitzondering van de [artikelen 2.11, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0032462&hoofdstuk=2&paragraaf=2&sub-paragraaf=2.1&artikel=2.11&z=2016-01-01&g=2016-01-01), en [2.12 tot en met 2.18](https://wetten.overheid.nl/jci1.3:c:BWBR0032462&hoofdstuk=2&paragraaf=2&sub-paragraaf=2.2&artikel=2.12&z=2016-01-01&g=2016-01-01), [4.2](https://wetten.overheid.nl/jci1.3:c:BWBR0032462&hoofdstuk=4&artikel=4.2&z=2016-01-01&g=2016-01-01) en [4.3, eerste en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032462&hoofdstuk=4&artikel=4.3&z=2016-01-01&g=2016-01-01), die inwerking treden op het tijdstip dat [artikel 2.6, onderdeel a, van het Besluit dierlijke producten](https://wetten.overheid.nl/jci1.3:c:BWBR0032335&artikel=2.6) in werking treedt.
+Deze regeling treedt in werking met ingang van 1 januari 2013, met uitzondering van de [artikelen 2.11, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0032462&hoofdstuk=2&paragraaf=2&sub-paragraaf=2.1&artikel=2.11&z=2016-07-20&g=2016-07-20), en [2.12 tot en met 2.18](https://wetten.overheid.nl/jci1.3:c:BWBR0032462&hoofdstuk=2&paragraaf=2&sub-paragraaf=2.2&artikel=2.12&z=2016-07-20&g=2016-07-20), [4.2](https://wetten.overheid.nl/jci1.3:c:BWBR0032462&hoofdstuk=4&artikel=4.2&z=2016-07-20&g=2016-07-20) en [4.3, eerste en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032462&hoofdstuk=4&artikel=4.3&z=2016-07-20&g=2016-07-20), die inwerking treden op het tijdstip dat [artikel 2.6, onderdeel a, van het Besluit dierlijke producten](https://wetten.overheid.nl/jci1.3:c:BWBR0032335&artikel=2.6) in werking treedt.
 
 ##### Artikel 4.5. Citeertitel
 
@@ -950,7 +946,7 @@ Deze regeling zal met toelichting in de Staatscourant worden geplaatst.
 
 ##### Artikel 2.31. Vermeldingen van houderijsystemen
 
-1. Onverminderd verordening (EG) nr. 543/2008 worden ter aanduiding van het houderijsysteem bij de etikettering als bedoeld in artikel 1, derde lid, onderdeel a, van richtlijn 2000/13/EG van geslachte kippen de vermeldingen:
+1. Onverminderd verordening (EG) nr. 543/2008 worden ter aanduiding van het houderijsysteem bij de etikettering als bedoeld in artikel 2, tweede lid, onderdeel j, van Verordening (EU) nr. 1169/2011 van geslachte kippen de vermeldingen:
 
 - a. ‘Scharrel ... binnengehouden’;
 
@@ -986,7 +982,7 @@ Gedurende de mestperiode wordt voeder verstrekt waarin het minimumgehalte aan gr
 
 ##### Artikel 2.35. Uitloop
 
-1. Bij gebruik van de vermeldingen, genoemd in [artikel 2.31, onderdelen b, c en d](https://wetten.overheid.nl/jci1.3:c:BWBR0032462&hoofdstuk=3&paragraaf=3&artikel=3.21&z=2016-01-01&g=2016-01-01):
+1. Bij gebruik van de vermeldingen, genoemd in [artikel 2.31, onderdelen b, c en d](https://wetten.overheid.nl/jci1.3:c:BWBR0032462&hoofdstuk=3&paragraaf=3&artikel=3.21&z=2016-07-20&g=2016-07-20):
 
 - a. hebben de kippen ten minste van het einde van de ochtendschemering tot het begin van de avondschemering of ten minste tien uur per dag toegang tot een uitloopruimte in de vrije lucht;
 
@@ -994,7 +990,7 @@ Gedurende de mestperiode wordt voeder verstrekt waarin het minimumgehalte aan gr
 
 - c. hebben de kippen toegang tot de uitloop vanaf uiterlijk de 28e levensdag.
 
-2. Bij gebruik van de vermelding, genoemd in [artikel 2.31, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0032462&hoofdstuk=2&paragraaf=2&sub-paragraaf=2.7&artikel=2.31&z=2016-01-01&g=2016-01-01), mag de bezettingsdichtheid in de stal worden verhoogd tot dertien kippen per vierkante meter.
+2. Bij gebruik van de vermelding, genoemd in [artikel 2.31, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0032462&hoofdstuk=2&paragraaf=2&sub-paragraaf=2.7&artikel=2.31&z=2016-07-20&g=2016-07-20), mag de bezettingsdichtheid in de stal worden verhoogd tot dertien kippen per vierkante meter.
 
 ##### Artikel 2.36. Verkoop aan particulieren
 
@@ -1056,7 +1052,7 @@ Een ontvanger van boerderijmelk stelt van iedere leverantie van boerderijmelk de
 
 1. Indien een ontvanger van boerderijmelk een melkveehouder uitbetaalt op basis van het vetgehalte of het eiwitgehalte, wordt dit gehalte per leverantie bepaald.
 
-2. Monsters boerderijmelk die bestemd zijn voor de bepaling van vetgehalte of eiwitgehalte worden, in afwijking van [artikel 2.39, onderdelen h en j](https://wetten.overheid.nl/jci1.3:c:BWBR0032462&hoofdstuk=2&paragraaf=2&sub-paragraaf=2.8&artikel=2.39&z=2016-01-01&g=2016-01-01), bewaard bij ten minste 0,0 °C en ten hoogste 8,0 °C en worden binnen 96 uur na de monsterneming in onderzoek genomen.
+2. Monsters boerderijmelk die bestemd zijn voor de bepaling van vetgehalte of eiwitgehalte worden, in afwijking van [artikel 2.39, onderdelen h en j](https://wetten.overheid.nl/jci1.3:c:BWBR0032462&hoofdstuk=2&paragraaf=2&sub-paragraaf=2.8&artikel=2.39&z=2016-07-20&g=2016-07-20), bewaard bij ten minste 0,0 °C en ten hoogste 8,0 °C en worden binnen 96 uur na de monsterneming in onderzoek genomen.
 
 3. De bepaling van het vetgehalte geschiedt overeenkomstig referentiemethode NEN-EN-ISO 1211:2010 of een andere gevalideerde methode waarmee geen wezenlijke afwijkingen worden verkregen van de uitslagen overeenkomstig die referentiemethode.
 
@@ -1074,11 +1070,11 @@ Een ontvanger van boerderijmelk stelt van iedere leverantie van boerderijmelk de
 
 1. Een ontvanger van boerderijmelk onderzoekt iedere leverantie van boerderijmelk op de aanwezigheid van melkvreemde bacteriegroeiremmende stoffen.
 
-2. Monsters boerderijmelk die bestemd zijn voor onderzoek op melkvreemde bacteriegroeiremmende stoffen worden, in afwijking van [artikel 2.39, onderdelen h en j](https://wetten.overheid.nl/jci1.3:c:BWBR0032462&hoofdstuk=2&paragraaf=2&sub-paragraaf=2.8&artikel=2.39&z=2016-01-01&g=2016-01-01), bewaard bij een temperatuur van ten hoogste 8,0 °C en worden binnen 96 uur na de monsterneming in onderzoek genomen. Gedurende een periode van ten hoogste 24 uur kan de temperatuur ten hoogste 20 °C bedragen.
+2. Monsters boerderijmelk die bestemd zijn voor onderzoek op melkvreemde bacteriegroeiremmende stoffen worden, in afwijking van [artikel 2.39, onderdelen h en j](https://wetten.overheid.nl/jci1.3:c:BWBR0032462&hoofdstuk=2&paragraaf=2&sub-paragraaf=2.8&artikel=2.39&z=2016-07-20&g=2016-07-20), bewaard bij een temperatuur van ten hoogste 8,0 °C en worden binnen 96 uur na de monsterneming in onderzoek genomen. Gedurende een periode van ten hoogste 24 uur kan de temperatuur ten hoogste 20 °C bedragen.
 
 3. Het onderzoek op melkvreemde bacteriegroeiremmende stoffen geschiedt volgens een onderzoekschema dat bestaat uit een screeningsmethode, een bevestigingsmethode en een test ter nadere kwalificering van de groeiremming. Met de screeningsmethode worden monsters rauwe melk opgespoord die aantoonbaar bacteriegroeiremmende stoffen kunnen bevatten. Met de bevestigingsproef wordt nagegaan of na verhitting van de met de screeningsmethode opgespoorde monsters de bacteriegroeiremming in deze monsters wordt bevestigd.
 
-4. De gebruikte screeningsmethode en bevestigingsmethode kunnen tenminste de in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0032462&bijlage=2&z=2016-01-01&g=2016-01-01) genoemde concentraties van bacteriegroeiremmende stoffen aantonen.
+4. De gebruikte screeningsmethode en bevestigingsmethode kunnen tenminste de in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0032462&bijlage=2&z=2016-07-20&g=2016-07-20) genoemde concentraties van bacteriegroeiremmende stoffen aantonen.
 
 5. Indien ook in de bevestigingsproef sprake is van groeiremming, wordt een test uitgevoerd ter nadere kwalificering van de aard en mate van de groeiremming.
 
@@ -1160,7 +1156,7 @@ Een ontvanger van boerderijmelk stelt van iedere leverantie van boerderijmelk de
 
 ##### Artikel 2.50. Bepaling van het chloroformgehalte
 
-1. De bepaling van het chloroformgehalte van een leverantie boerderijmelk door de ontvanger van boerderijmelk geschiedt met een methode die berust op het verwarmen van een hoeveelheid monster in een afgesloten flesje met een septum. Aansluitend wordt een deel van de bovenstaande gasfase in een gaschromatograaf geïnjecteerd. Na scheiding van de gehalogeneerde koolwaterstoffen vindt detectie plaats middels een EC-detector en wordt het chloroformgehalte met behulp van een kalibratiecurve gekwantificeerd. Het gemeten gehalte wordt vervolgens gecombineerd met het overeenkomstig [artikel 2.35](https://wetten.overheid.nl/jci1.3:c:BWBR0032462&hoofdstuk=2&paragraaf=2&sub-paragraaf=2.7&artikel=2.35&z=2016-01-01&g=2016-01-01) vastgestelde vetgehalte van het monster.
+1. De bepaling van het chloroformgehalte van een leverantie boerderijmelk door de ontvanger van boerderijmelk geschiedt met een methode die berust op het verwarmen van een hoeveelheid monster in een afgesloten flesje met een septum. Aansluitend wordt een deel van de bovenstaande gasfase in een gaschromatograaf geïnjecteerd. Na scheiding van de gehalogeneerde koolwaterstoffen vindt detectie plaats middels een EC-detector en wordt het chloroformgehalte met behulp van een kalibratiecurve gekwantificeerd. Het gemeten gehalte wordt vervolgens gecombineerd met het overeenkomstig [artikel 2.35](https://wetten.overheid.nl/jci1.3:c:BWBR0032462&hoofdstuk=2&paragraaf=2&sub-paragraaf=2.7&artikel=2.35&z=2016-07-20&g=2016-07-20) vastgestelde vetgehalte van het monster.
 
 2. Het chloroformgehalte wordt uitgedrukt in milligram chloroform per kilogram vet.
 
@@ -1168,7 +1164,7 @@ Een ontvanger van boerderijmelk stelt van iedere leverantie van boerderijmelk de
 
 ##### Artikel 2.51. Bewaartemperatuur
 
-Monsters boerderijmelk bestemd voor de onderzoeken, bedoeld in de [artikelen 2.44 tot en met 2.50](https://wetten.overheid.nl/jci1.3:c:BWBR0032462&hoofdstuk=2&paragraaf=2&sub-paragraaf=2.8&artikel=2.44&z=2016-01-01&g=2016-01-01), worden in afwijking van het bepaalde in [artikel 2.39, onderdelen h en j](https://wetten.overheid.nl/jci1.3:c:BWBR0032462&hoofdstuk=2&paragraaf=2&sub-paragraaf=2.8&artikel=2.39&z=2016-01-01&g=2016-01-01):
+Monsters boerderijmelk bestemd voor de onderzoeken, bedoeld in de [artikelen 2.44 tot en met 2.50](https://wetten.overheid.nl/jci1.3:c:BWBR0032462&hoofdstuk=2&paragraaf=2&sub-paragraaf=2.8&artikel=2.44&z=2016-07-20&g=2016-07-20), worden in afwijking van het bepaalde in [artikel 2.39, onderdelen h en j](https://wetten.overheid.nl/jci1.3:c:BWBR0032462&hoofdstuk=2&paragraaf=2&sub-paragraaf=2.8&artikel=2.39&z=2016-07-20&g=2016-07-20):
 
 - a. bewaard bij ten minste 0,0 °C en ten hoogste 8,0 °C en binnen 36 uur na monsterneming in onderzoek genomen of
 
@@ -1176,7 +1172,7 @@ Monsters boerderijmelk bestemd voor de onderzoeken, bedoeld in de [artikelen 2.4
 
 ##### Artikel 2.52. Melkcontrolestation
 
-1. Een ontvanger van boerderijmelk draagt er zorg voor dat de onderzoeken, bedoeld in de [artikelen 2.41 tot en met 2.50](https://wetten.overheid.nl/jci1.3:c:BWBR0032462&hoofdstuk=2&paragraaf=2&sub-paragraaf=2.8&artikel=2.41&z=2016-01-01&g=2016-01-01), worden verricht door een melkcontrolestation dat beschikt over een ter zake deskundige leiding en over een voor het te verrichten onderzoek voldoende outillage en dat voor alle in dit kader relevante onderzoekmethoden geaccrediteerd is volgens NEN-EN-ISO/IEC 17025:2005.
+1. Een ontvanger van boerderijmelk draagt er zorg voor dat de onderzoeken, bedoeld in de [artikelen 2.41 tot en met 2.50](https://wetten.overheid.nl/jci1.3:c:BWBR0032462&hoofdstuk=2&paragraaf=2&sub-paragraaf=2.8&artikel=2.41&z=2016-07-20&g=2016-07-20), worden verricht door een melkcontrolestation dat beschikt over een ter zake deskundige leiding en over een voor het te verrichten onderzoek voldoende outillage en dat voor alle in dit kader relevante onderzoekmethoden geaccrediteerd is volgens NEN-EN-ISO/IEC 17025:2005.
 
 2. Een melkcontrolestation beschikt over een gedocumenteerd en adequaat functionerend systeem waarmee de kwaliteit van de werkzaamheden wordt geborgd en over een gedetailleerde en actuele beschrijving van de methoden die worden toegepast voor het onderzoek van de samenstelling en kwaliteit van boerderijmelk.
 
@@ -1184,9 +1180,9 @@ Monsters boerderijmelk bestemd voor de onderzoeken, bedoeld in de [artikelen 2.4
 
 ##### Artikel 2.53. Kwaliteitsborging
 
-1. De ontvanger van boerderijmelk beschikt over een door Stichting COKZ goedgekeurd handboek waarin wordt beschreven op welke wijze het gestelde in de [artikelen 2.39](https://wetten.overheid.nl/jci1.3:c:BWBR0032462&hoofdstuk=2&paragraaf=2&sub-paragraaf=2.8&artikel=2.39&z=2016-01-01&g=2016-01-01) en [2.40](https://wetten.overheid.nl/jci1.3:c:BWBR0032462&hoofdstuk=2&paragraaf=2&sub-paragraaf=2.8&artikel=2.40&z=2016-01-01&g=2016-01-01) wordt gerealiseerd, beheerst en geborgd.
+1. De ontvanger van boerderijmelk beschikt over een door Stichting COKZ goedgekeurd handboek waarin wordt beschreven op welke wijze het gestelde in de [artikelen 2.39](https://wetten.overheid.nl/jci1.3:c:BWBR0032462&hoofdstuk=2&paragraaf=2&sub-paragraaf=2.8&artikel=2.39&z=2016-07-20&g=2016-07-20) en [2.40](https://wetten.overheid.nl/jci1.3:c:BWBR0032462&hoofdstuk=2&paragraaf=2&sub-paragraaf=2.8&artikel=2.40&z=2016-07-20&g=2016-07-20) wordt gerealiseerd, beheerst en geborgd.
 
-2. De ontvanger van boerderijmelk legt het systeem van de uitvoering en beoordeling van de resultaten van de onderzoeken, bedoeld in de [artikelen 2.41 tot en met 2.50](https://wetten.overheid.nl/jci1.3:c:BWBR0032462&hoofdstuk=2&paragraaf=2&sub-paragraaf=2.8&artikel=2.41&z=2016-01-01&g=2016-01-01), vast. Dit systeem wordt aan de betrokken melkveehouders bekendgemaakt.
+2. De ontvanger van boerderijmelk legt het systeem van de uitvoering en beoordeling van de resultaten van de onderzoeken, bedoeld in de [artikelen 2.41 tot en met 2.50](https://wetten.overheid.nl/jci1.3:c:BWBR0032462&hoofdstuk=2&paragraaf=2&sub-paragraaf=2.8&artikel=2.41&z=2016-07-20&g=2016-07-20), vast. Dit systeem wordt aan de betrokken melkveehouders bekendgemaakt.
 
 ##### Artikel 2.54. Administratie
 
@@ -1200,9 +1196,9 @@ Monsters boerderijmelk bestemd voor de onderzoeken, bedoeld in de [artikelen 2.4
 
 ##### Artikel 2.55. Gebruik van rijdende melkontvangsten
 
-1. De ontvanger van boerderijmelk die bij de bepaling van de geleverde hoeveelheid boerderijmelk, bedoeld in [artikel 2.40](https://wetten.overheid.nl/jci1.3:c:BWBR0032462&hoofdstuk=2&paragraaf=2&sub-paragraaf=2.8&artikel=2.40&z=2016-01-01&g=2016-01-01), gebruik maakt van een rijdende melkontvangst neemt het bepaalde in de [artikelen 2.56 tot en met 2.59](https://wetten.overheid.nl/jci1.3:c:BWBR0032462&hoofdstuk=2&paragraaf=2&sub-paragraaf=2.8&artikel=2.56&z=2016-01-01&g=2016-01-01) in acht.
+1. De ontvanger van boerderijmelk die bij de bepaling van de geleverde hoeveelheid boerderijmelk, bedoeld in [artikel 2.40](https://wetten.overheid.nl/jci1.3:c:BWBR0032462&hoofdstuk=2&paragraaf=2&sub-paragraaf=2.8&artikel=2.40&z=2016-07-20&g=2016-07-20), gebruik maakt van een rijdende melkontvangst neemt het bepaalde in de [artikelen 2.56 tot en met 2.59](https://wetten.overheid.nl/jci1.3:c:BWBR0032462&hoofdstuk=2&paragraaf=2&sub-paragraaf=2.8&artikel=2.56&z=2016-07-20&g=2016-07-20) in acht.
 
-2. De ontvanger van boerderijmelk, bedoeld in het eerste lid, beschikt over een handboek waarin wordt beschreven op welke wijze het gestelde in de [artikelen 2.56 tot en met 2.59](https://wetten.overheid.nl/jci1.3:c:BWBR0032462&hoofdstuk=2&paragraaf=2&sub-paragraaf=2.8&artikel=2.56&z=2016-01-01&g=2016-01-01) wordt gerealiseerd, beheerst en geborgd.
+2. De ontvanger van boerderijmelk, bedoeld in het eerste lid, beschikt over een handboek waarin wordt beschreven op welke wijze het gestelde in de [artikelen 2.56 tot en met 2.59](https://wetten.overheid.nl/jci1.3:c:BWBR0032462&hoofdstuk=2&paragraaf=2&sub-paragraaf=2.8&artikel=2.56&z=2016-07-20&g=2016-07-20) wordt gerealiseerd, beheerst en geborgd.
 
 ##### Artikel 2.56. Eisen aan rijdende melkontvangsten
 
@@ -1230,13 +1226,13 @@ Monsters boerderijmelk bestemd voor de onderzoeken, bedoeld in de [artikelen 2.4
 
 2. In de data-apparatuur op een rijdende melkontvangst kan het volume van de geleverde boerderijmelk worden omgerekend van liters naar kilogrammen melk, mits op de plaats van inname van de melk het geregistreerde aantal liters en de omrekeningsfactor inzichtelijk zijn.
 
-3. Indien het volume van de geleverde boerderijmelk wordt omgerekend van liters naar kilogrammen melk geschiedt dit door het aantal liters overeenkomstig een door de ontvanger van boerderijmelk overeenkomstig [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0032462&bijlage=3&z=2016-01-01&g=2016-01-01) vast te stellen omrekeningsfactor om te rekenen in kilogrammen, waarbij hoeveelheden tot een halve kg worden afgerond naar beneden en hoeveelheden van een halve tot één kg worden afgerond naar boven. De omrekeningsfactor wordt éénmaal per kalendermaand bepaald en is van toepassing op de daaropvolgende kalendermaand. De ontvanger van boerderijmelk legt vast op welke wijze de objectieve vaststelling van de omrekeningsfactor wordt geborgd.
+3. Indien het volume van de geleverde boerderijmelk wordt omgerekend van liters naar kilogrammen melk geschiedt dit door het aantal liters overeenkomstig een door de ontvanger van boerderijmelk overeenkomstig [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0032462&bijlage=3&z=2016-07-20&g=2016-07-20) vast te stellen omrekeningsfactor om te rekenen in kilogrammen, waarbij hoeveelheden tot een halve kg worden afgerond naar beneden en hoeveelheden van een halve tot één kg worden afgerond naar boven. De omrekeningsfactor wordt éénmaal per kalendermaand bepaald en is van toepassing op de daaropvolgende kalendermaand. De ontvanger van boerderijmelk legt vast op welke wijze de objectieve vaststelling van de omrekeningsfactor wordt geborgd.
 
-4. De gegevens waaruit de omrekeningsfactor wordt afgeleid, worden gedurende ten minste één jaar op het bedrijf van een ontvanger van boerderijmelk bewaard onder vermelding van de datum van bepaling van de omrekeningsfactor en de gemiddelde temperatuur van de melk bij aankomst op de zuivelfabriek. In geval van een uniforme omrekeningsfactor als bedoeld in [bijlage 3, onderdeel B](https://wetten.overheid.nl/jci1.3:c:BWBR0032462&bijlage=3&z=2016-01-01&g=2016-01-01), omvatten deze gegevens de datum, het aantal liters en kilogrammen en de gevonden omrekeningsfactor voor iedere in gebruik zijnde rijdende melkontvangst.
+4. De gegevens waaruit de omrekeningsfactor wordt afgeleid, worden gedurende ten minste één jaar op het bedrijf van een ontvanger van boerderijmelk bewaard onder vermelding van de datum van bepaling van de omrekeningsfactor en de gemiddelde temperatuur van de melk bij aankomst op de zuivelfabriek. In geval van een uniforme omrekeningsfactor als bedoeld in [bijlage 3, onderdeel B](https://wetten.overheid.nl/jci1.3:c:BWBR0032462&bijlage=3&z=2016-07-20&g=2016-07-20), omvatten deze gegevens de datum, het aantal liters en kilogrammen en de gevonden omrekeningsfactor voor iedere in gebruik zijnde rijdende melkontvangst.
 
 5. Indien de omrekeningsfactor voor een rijdende melkontvangst kleiner is dan 1,028 of groter is dan 1,035, wordt binnen één week na vaststelling van deze omrekeningsfactor opnieuw de omrekeningsfactor van deze rijdende melkontvangst vastgesteld. Indien de omrekeningsfactor wederom kleiner is dan 1,028 of groter is dan 1,035, wordt de rijdende melkontvangst binnen 10 werkdagen na de tweede weegcontrole voor een keuring bij de erkende keurder aangeboden en wordt hiervan binnen één week na aanbieding melding gemaakt aan Stichting COKZ.
 
-6. Een gewijzigde rijdende melkontvangst wordt door de ontvanger van boerderijmelk direct aan een weegcontrole onderworpen. Deze weegcontrole wordt uitgevoerd overeenkomstig de in [bijlage 3, onderdeel A](https://wetten.overheid.nl/jci1.3:c:BWBR0032462&bijlage=3&z=2016-01-01&g=2016-01-01), beschreven werkwijze. Het derde, vierde en vijfde lid zijn van overeenkomstige toepassing.
+6. Een gewijzigde rijdende melkontvangst wordt door de ontvanger van boerderijmelk direct aan een weegcontrole onderworpen. Deze weegcontrole wordt uitgevoerd overeenkomstig de in [bijlage 3, onderdeel A](https://wetten.overheid.nl/jci1.3:c:BWBR0032462&bijlage=3&z=2016-07-20&g=2016-07-20), beschreven werkwijze. Het derde, vierde en vijfde lid zijn van overeenkomstige toepassing.
 
 ##### Artikel 2.59. Deskundigheid
 
@@ -1262,7 +1258,7 @@ Vrijstellingen en ontheffingen verleend door het Productschap Pluimvee en Eieren
 
 2. Meldingen, gedaan ter voldoening aan verplichtingen bij of krachtens de in het eerste lid genoemde verordeningen worden geacht te zijn gedaan op grond van deze regeling.
 
-## Bijlage 1. behorende bij [artikel 2.17](https://wetten.overheid.nl/jci1.3:c:BWBR0032462&hoofdstuk=2&paragraaf=2&sub-paragraaf=2.2&artikel=2.17&z=2016-01-01&g=2016-01-01)
+## Bijlage 1. behorende bij [artikel 2.17](https://wetten.overheid.nl/jci1.3:c:BWBR0032462&hoofdstuk=2&paragraaf=2&sub-paragraaf=2.2&artikel=2.17&z=2016-07-20&g=2016-07-20)
 
 In deze bijlage wordt verstaan onder:
 
@@ -1300,7 +1296,7 @@ In deze bijlage wordt verstaan onder:
 
 - –. **weide- en zoogkoeien:** koeien die niet meer worden gemolken, maar worden vetgeweid.
 
-| Omvang van de mestproductie voor de onderscheiden diercategorieën, uitgedrukt in kilogrammen stikstof per dier per jaar als bedoeld in [artikel 2.17](https://wetten.overheid.nl/jci1.3:c:BWBR0032462&hoofdstuk=2&paragraaf=2&sub-paragraaf=2.2&artikel=2.17&z=2016-01-01&g=2016-01-01) | Omvang van de mestproductie voor de onderscheiden diercategorieën, uitgedrukt in kilogrammen stikstof per dier per jaar als bedoeld in [artikel 2.17](https://wetten.overheid.nl/jci1.3:c:BWBR0032462&hoofdstuk=2&paragraaf=2&sub-paragraaf=2.2&artikel=2.17&z=2016-01-01&g=2016-01-01) | Omvang van de mestproductie voor de onderscheiden diercategorieën, uitgedrukt in kilogrammen stikstof per dier per jaar als bedoeld in [artikel 2.17](https://wetten.overheid.nl/jci1.3:c:BWBR0032462&hoofdstuk=2&paragraaf=2&sub-paragraaf=2.2&artikel=2.17&z=2016-01-01&g=2016-01-01) |
+| Omvang van de mestproductie voor de onderscheiden diercategorieën, uitgedrukt in kilogrammen stikstof per dier per jaar als bedoeld in [artikel 2.17](https://wetten.overheid.nl/jci1.3:c:BWBR0032462&hoofdstuk=2&paragraaf=2&sub-paragraaf=2.2&artikel=2.17&z=2016-07-20&g=2016-07-20) | Omvang van de mestproductie voor de onderscheiden diercategorieën, uitgedrukt in kilogrammen stikstof per dier per jaar als bedoeld in [artikel 2.17](https://wetten.overheid.nl/jci1.3:c:BWBR0032462&hoofdstuk=2&paragraaf=2&sub-paragraaf=2.2&artikel=2.17&z=2016-07-20&g=2016-07-20) | Omvang van de mestproductie voor de onderscheiden diercategorieën, uitgedrukt in kilogrammen stikstof per dier per jaar als bedoeld in [artikel 2.17](https://wetten.overheid.nl/jci1.3:c:BWBR0032462&hoofdstuk=2&paragraaf=2&sub-paragraaf=2.2&artikel=2.17&z=2016-07-20&g=2016-07-20) |
 | --- | --- | --- |
 | Diersoorten | Onderscheiden categorieën binnen de diersoorten | Omvang mestproductie per dier van de onderscheiden diercategorieën per jaar, uitgedrukt in kilogrammen stikstof |
 | **Rundvee** | **Fok- en gebruiksvee** |   |
@@ -1355,7 +1351,7 @@ In deze bijlage wordt verstaan onder:
 |   | Vleeskonijnen vanaf het spenen tot ca. 80 dagen oud en opfokkonijnen tot 80 dagen oud | 0,4 |
 | **Parelhoenders** | Vleesparelhoenders | 0,437 |
 
-## Bijlage 2. behorende bij [artikel 2.42, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032462&hoofdstuk=2&paragraaf=2&sub-paragraaf=2.8&artikel=2.42&z=2016-01-01&g=2016-01-01), concentraties van bacteriegroeiremmende stoffen
+## Bijlage 2. behorende bij [artikel 2.42, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032462&hoofdstuk=2&paragraaf=2&sub-paragraaf=2.8&artikel=2.42&z=2016-07-20&g=2016-07-20), concentraties van bacteriegroeiremmende stoffen
 
 | Stof | Aantoonbare concentraties |
 | --- | --- |
@@ -1372,7 +1368,7 @@ In deze bijlage wordt verstaan onder:
 | neomycine | 0,5 µg/ml |
 | tylosine | 0,05 µg/ml |
 
-## Bijlage 3. behorende bij [artikel 2.58, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032462&hoofdstuk=2&paragraaf=2&sub-paragraaf=2.8&artikel=2.58&z=2016-01-01&g=2016-01-01), berekening van de omrekeningsfactor
+## Bijlage 3. behorende bij [artikel 2.58, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032462&hoofdstuk=2&paragraaf=2&sub-paragraaf=2.8&artikel=2.58&z=2016-07-20&g=2016-07-20), berekening van de omrekeningsfactor
 
 ### A. Gebruik van één rijdende melkontvangst
 
