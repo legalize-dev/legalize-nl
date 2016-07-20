@@ -4,7 +4,7 @@ identifier: "BWBR0033323"
 country: "nl"
 rank: "amvb"
 publication_date: "2024-01-01"
-last_updated: "2016-02-19"
+last_updated: "2016-07-20"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0033323"
 soort: "AMvB"
@@ -86,7 +86,7 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
 - –. **verordening (EG) 110/2008:** Verordening (EG) nr. 110/2008 van het Europees Parlement en de Raad van 15 januari 2008 betreffende de definitie, de aanduiding, de presentatie, de etikettering en de bescherming van de geografische aanduidingen van gedistilleerde dranken en tot intrekking van Verordening (EG) nr. 1576/89 van de Raad (PbEU 2008, L 39);
 
-- –. **verordening (EG) 41/2009:** Verordening (EG) nr. 41/2009 van de Commissie van 20 januari 2009 betreffende de samenstelling en de etikettering van levensmiddelen die geschikt zijn voor personen met een glutenintolerantie (PbEU 2009, L 16);
+- –. **verordening (EU) 609/2013:** Verordening (EU) nr. 609/2013 van het Europees Parlement en de Raad van 12 juni 2013 inzake voor zuigelingen en peuters bedoelde levensmiddelen, voeding voor medisch gebruik en de dagelijkse voeding volledig vervangende producten voor gewichtsbeheersing, en tot intrekking van Richtlijn 92/52/EEG van de Raad, Richtlijnen 96/8/EG, 1999/21/EG, 2006/125/EG en 2006/141/EG van de Commissie, Richtlijn 2009/39/EG van het Europees Parlement en de Raad en de Verordeningen (EG) nr. 41/2009 en (EG) nr. 953/2009 van de Commissie (PbEU 2013, L 181);
 
 - –. **verordening (EU) 1169/2011:** Verordening (EU) nr. 1169/2011 van het Europees Parlement en de Raad van 25 oktober 2011 betreffende de verstrekking van voedselinformatie aan consumenten, tot wijziging van Verordeningen (EG) nr. 1924/2006 en (EG) nr. 1925/2006 van het Europees Parlement en de Raad en tot intrekking van [Richtlijn 87/250/EEG](31987L0250) van de Commissie, [Richtlijn 90/496/EEG](31990L0496) van de Raad, [Richtlijn 1999/10/EG](31999L0010) van de Commissie, [Richtlijn 2000/13/EG](32000L0013) van het Europees Parlement en de Raad, [Richtlijnen 2002/67/EG](32002L0067) en [2008/5/EG](32008L0005) van de Commissie, en Verordening (EG) nr. [608/2004](32508L2004) van de Commissie (PbEU 2011, L 304);
 
@@ -98,9 +98,9 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
 ##### Artikel 2
 
-1. Het is verboden te handelen in strijd met de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0033323&artikel=3&z=2016-02-19&g=2016-02-19), [4](https://wetten.overheid.nl/jci1.3:c:BWBR0033323&artikel=4&z=2016-02-19&g=2016-02-19), [6](https://wetten.overheid.nl/jci1.3:c:BWBR0033323&artikel=6&z=2016-02-19&g=2016-02-19), [7](https://wetten.overheid.nl/jci1.3:c:BWBR0033323&artikel=7&z=2016-02-19&g=2016-02-19), [8](https://wetten.overheid.nl/jci1.3:c:BWBR0033323&artikel=8&z=2016-02-19&g=2016-02-19) en [9](https://wetten.overheid.nl/jci1.3:c:BWBR0033323&artikel=9&z=2016-02-19&g=2016-02-19).
+1. Het is verboden te handelen in strijd met de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0033323&artikel=3&z=2016-07-20&g=2016-07-20), [4](https://wetten.overheid.nl/jci1.3:c:BWBR0033323&artikel=4&z=2016-07-20&g=2016-07-20), [6](https://wetten.overheid.nl/jci1.3:c:BWBR0033323&artikel=6&z=2016-07-20&g=2016-07-20), [7](https://wetten.overheid.nl/jci1.3:c:BWBR0033323&artikel=7&z=2016-07-20&g=2016-07-20), [8](https://wetten.overheid.nl/jci1.3:c:BWBR0033323&artikel=8&z=2016-07-20&g=2016-07-20) en [9](https://wetten.overheid.nl/jci1.3:c:BWBR0033323&artikel=9&z=2016-07-20&g=2016-07-20).
 
-2. Het is verboden te handelen in strijd met de bij of krachtens de [artikelen 10](https://wetten.overheid.nl/jci1.3:c:BWBR0033323&artikel=10&z=2016-02-19&g=2016-02-19), [11, eerste en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0033323&artikel=11&z=2016-02-19&g=2016-02-19), en [14](https://wetten.overheid.nl/jci1.3:c:BWBR0033323&artikel=14&z=2016-02-19&g=2016-02-19) gestelde voorschriften.
+2. Het is verboden te handelen in strijd met de bij of krachtens de [artikelen 10](https://wetten.overheid.nl/jci1.3:c:BWBR0033323&artikel=10&z=2016-07-20&g=2016-07-20), [11, eerste en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0033323&artikel=11&z=2016-07-20&g=2016-07-20), en [14](https://wetten.overheid.nl/jci1.3:c:BWBR0033323&artikel=14&z=2016-07-20&g=2016-07-20) gestelde voorschriften.
 
 3. Het is verboden ten aanzien van levensmiddelen te handelen in strijd met artikel 16 van [verordening (EG) 178/2002](32002R0178).
 
@@ -108,9 +108,7 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
 5. Het is verboden te handelen in strijd met de bij of krachtens de artikelen 3, 5, eerste lid, 9, eerste, tweede, vierde, zesde, zevende, en achtste lid, 10, eerste en tweede lid, 11, eerste, tweede, vierde en vijfde lid, 12, 13, 14, eerste en tweede lid, 15, vierde lid, 16, 27, en 28, tweede lid, van [verordening (EG) 110/2008](32008R0110), gestelde voorschriften.
 
-6. Het is verboden te handelen in strijd met artikel 4 van [verordening (EG) 41/2009](32009R0041).
-
-7. Het is verboden te handelen in strijd met de bij of krachtens de artikelen 6, 7, 8, tweede tot en met achtste lid, 9, 10, eerste lid, 12, 13, eerste tot en met vijfde lid, 14, eerste en tweede lid, 15, eerste lid, 16, eerste en tweede lid, 17, 18, eerste tot en met vierde lid, 21, eerste lid, 22, 23, eerste en tweede lid, 24, 25, 26, eerste, tweede, derde en achtste lid, 27, 28, tweede lid, 30, eerste tot en met derde lid, 32, 33, eerste, tweede, vierde en vijfde lid, 34, 35, eerste en zesde lid, 36, 37, 44, eerste lid, onder a, en 54, tweede lid, van verordening (EU) 1169/2011, gestelde voorschriften.
+6. Het is verboden te handelen in strijd met de bij of krachtens de artikelen 6, 7, 8, tweede tot en met achtste lid, 9, 10, eerste lid, 12, 13, eerste tot en met vijfde lid, 14, eerste en tweede lid, 15, eerste lid, 16, eerste en tweede lid, 17, 18, eerste tot en met vierde lid, 21, eerste lid, 22, 23, eerste en tweede lid, 24, 25, 26, eerste, tweede, derde en achtste lid, 27, 28, tweede lid, 30, eerste tot en met derde lid, 32, 33, eerste, tweede, vierde en vijfde lid, 34, 35, eerste en zesde lid, 36, 37, 44, eerste lid, onder a, en 54, tweede lid, van verordening (EU) 1169/2011, gestelde voorschriften.
 
 ##### Artikel 3
 
@@ -142,7 +140,7 @@ van het betrokken levensmiddel.
 
 ##### Artikel 5
 
-[Artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0033323&artikel=4&z=2016-02-19&g=2016-02-19) is niet van toepassing:
+[Artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0033323&artikel=4&z=2016-07-20&g=2016-07-20) is niet van toepassing:
 
 - a. indien de datum van minimale houdbaarheid of de uiterste consumptiedatum in de etikettering voorkomt, op voorwaarde dat de vermelding van deze datum duidelijk en in de juiste volgorde ten minste de dag en de maand omvat;
 
@@ -180,7 +178,7 @@ van het betrokken levensmiddel.
 
 - a. de benaming, bedoeld in artikel 9, eerste lid, onder a, van verordening (EU) 1169/2011; en
 
-- b. de vermelding, bedoeld in [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0033323&artikel=4&z=2016-02-19&g=2016-02-19), inzake de vermelding die het mogelijk maakt de partij te identificeren waartoe een levensmiddel behoort.
+- b. de vermelding, bedoeld in [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0033323&artikel=4&z=2016-07-20&g=2016-07-20), inzake de vermelding die het mogelijk maakt de partij te identificeren waartoe een levensmiddel behoort.
 
 2. De in het eerste lid bedoelde vermeldingen zijn aangebracht:
 
@@ -242,13 +240,9 @@ Bij regeling van Onze Minister kunnen worden vastgesteld:
 
 - 1°. alcoholhoudende dranken;
 
-- 2°. zuigelingenvoeding en opvolgzuigelingenvoeding als bedoeld in de [Warenwetregeling zuigelingenvoeding 2007](https://wetten.overheid.nl/jci1.3:c:BWBR0021907);
+- 2°. volledige zuigelingenvoeding, opvolgzuigelingenvoeding, bewerkte levensmiddelen op basis van granen, babyvoeding, voeding voor medisch gebruik en de dagelijkse voeding volledig vervangende producten voor gewichtsbeheersing als bedoeld in verordening (EU) 609/2013; en
 
-- 3°. bewerkte eet- of drinkwaren op basis van granen en babyvoeding als bedoeld in de [Warenwetregeling Babyvoeding](https://wetten.overheid.nl/jci1.3:c:BWBR0008503);
-
-- 4°. dieetvoeding voor medisch gebruik als bedoeld in de [Warenwetregeling Dieetvoeding voor medisch gebruik](https://wetten.overheid.nl/jci1.3:c:BWBR0010600); en
-
-- 5°. voedingssupplementen als bedoeld in het [Warenwetbesluit voedingssupplementen](https://wetten.overheid.nl/jci1.3:c:BWBR0014814);
+- 3°. voedingssupplementen als bedoeld in het [Warenwetbesluit voedingssupplementen](https://wetten.overheid.nl/jci1.3:c:BWBR0014814);
 
 - b. het logo is begrijpelijk voor de consument;
 
@@ -274,7 +268,7 @@ Bij regeling van Onze Minister kunnen worden vastgesteld:
 
 ##### Artikel 12
 
-[Artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0033323&artikel=11&z=2016-02-19&g=2016-02-19) is niet van toepassing op het verhandelen van een levensmiddel ten aanzien waarvan een voedselkeuzelogo is gebezigd dat niet door toedoen van Nederland overeenkomstig [verordening (EG) 1924/2006](32006R1924) is toegelaten, en dat rechtmatig is bereid of in de handel is gebracht in een andere lidstaat van de Europese Unie.
+[Artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0033323&artikel=11&z=2016-07-20&g=2016-07-20) is niet van toepassing op het verhandelen van een levensmiddel ten aanzien waarvan een voedselkeuzelogo is gebezigd dat niet door toedoen van Nederland overeenkomstig [verordening (EG) 1924/2006](32006R1924) is toegelaten, en dat rechtmatig is bereid of in de handel is gebracht in een andere lidstaat van de Europese Unie.
 
 ##### Artikel 13
 
@@ -288,11 +282,11 @@ De Nederlandse Voedsel- en Warenautoriteit is de bevoegde autoriteit, bedoeld in
 
 Bij regeling van Onze Minister kunnen nadere regels worden vastgesteld:
 
-- a. inzake [artikel 2, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0033323&artikel=2&z=2016-02-19&g=2016-02-19), voor zover die noodzakelijk zijn voor de goede uitvoering van de bij of krachtens [verordening (EG) 1924/2006](32006R1924) gestelde voorschriften;
+- a. inzake [artikel 2, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0033323&artikel=2&z=2016-07-20&g=2016-07-20), voor zover die noodzakelijk zijn voor de goede uitvoering van de bij of krachtens [verordening (EG) 1924/2006](32006R1924) gestelde voorschriften;
 
-- b. inzake [artikel 2, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0033323&artikel=2&z=2016-02-19&g=2016-02-19), voor zover die noodzakelijk zijn voor de goede uitvoering van de bij of krachtens [verordening (EG) 110/2008](32008R0110) gestelde voorschriften;
+- b. inzake [artikel 2, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0033323&artikel=2&z=2016-07-20&g=2016-07-20), voor zover die noodzakelijk zijn voor de goede uitvoering van de bij of krachtens [verordening (EG) 110/2008](32008R0110) gestelde voorschriften;
 
-- c. inzake [artikel 2, zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0033323&artikel=2&z=2016-02-19&g=2016-02-19), voor zover die noodzakelijk zijn voor de goede uitvoering van de bij of krachtens verordening (EU) 1169/2011 gestelde voorschriften.
+- c. inzake [artikel 2, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0033323&artikel=2&z=2016-07-20&g=2016-07-20), voor zover die noodzakelijk zijn voor de goede uitvoering van de bij of krachtens verordening (EU) 1169/2011 gestelde voorschriften.
 
 ##### Artikel 15
 
@@ -370,7 +364,7 @@ De volgende besluiten worden ingetrokken:
 
 1. Dit besluit treedt in werking met ingang van 13 december 2014.
 
-2. In afwijking van het eerste lid treden de [artikelen 2, zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0033323&artikel=2&z=2016-02-19&g=2016-02-19), en [18](https://wetten.overheid.nl/jci1.3:c:BWBR0033323&artikel=18&z=2016-02-19&g=2016-02-19):
+2. In afwijking van het eerste lid treden de [artikelen 2, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0033323&artikel=2&z=2016-07-20&g=2016-07-20), en [18](https://wetten.overheid.nl/jci1.3:c:BWBR0033323&artikel=18&z=2016-07-20&g=2016-07-20):
 
 - a. in werking met ingang van 1 januari 2014, voor zover die artikelen betrekking hebben op bijlage VI, deel B, van verordening (EU) 1169/2011;
 
