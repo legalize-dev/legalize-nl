@@ -77,9 +77,3 @@ Dit besluit treedt in werking met ingang van 20 juli 2016.
 Dit besluit wordt aangehaald als: Warenwetbesluit bijzondere voeding 2016.
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
-
-##### Artikel 2a
-
-Onze Minister kan nadere regels stellen ter uitvoering van bindende onderdelen van [verordening (EU) 609/2013](32013R0609) en daarop gebaseerde bindende EU-rechtshandelingen.
-
-Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
