@@ -4,7 +4,7 @@ identifier: "BWBR0038354"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2020-06-11"
-last_updated: "2016-06-01"
+last_updated: "2016-07-23"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0038354"
 soort: "ministeriele-regeling"
@@ -44,11 +44,11 @@ Besluit:
 
 In dit besluit wordt verstaan onder:
 
-- **directeur:** directeur van het domein Water, Producten en Stoffen, genoemd in de bij het [Organisatie- en mandaatbesluit Inspectie Leefomgeving en Transport 2015](https://wetten.overheid.nl/jci1.3:c:BWBR0036115&wetgeving) behorende [bijlage](519629);
+- **directeur:** directeur van het domein Water, Producten en Stoffen, genoemd in de bij het [Organisatie- en mandaatbesluit Inspectie Leefomgeving en Transport 2015](https://wetten.overheid.nl/jci1.3:c:BWBR0036115) behorende [bijlage](onbekend);
 
-- b. **afdelingshoofden:** afdelingshoofden van de Afdeling Handhaving Explosiegevaarlijke Stoffen en de Afdeling Vergunningen, Analyse en Ontwikkeling, genoemd in de bij het [Organisatie- en mandaatbesluit Inspectie Leefomgeving en Transport 2015](https://wetten.overheid.nl/jci1.3:c:BWBR0036115&wetgeving) behorende [bijlage](519629);
+- b. **afdelingshoofden:** afdelingshoofden van de Afdeling Handhaving Explosiegevaarlijke Stoffen en de Afdeling Vergunningen, Analyse en Ontwikkeling, genoemd in de bij het [Organisatie- en mandaatbesluit Inspectie Leefomgeving en Transport 2015](https://wetten.overheid.nl/jci1.3:c:BWBR0036115) behorende [bijlage](onbekend);
 
-- c. **inspecteur:** inspecteur van de Afdeling Handhaving Explosiegevaarlijke Stoffen en de Afdeling Vergunningen, Analyse en Ontwikkeling, genoemd in de bij het [Organisatie- en mandaatbesluit Inspectie Leefomgeving en Transport 2015](https://wetten.overheid.nl/jci1.3:c:BWBR0036115&wetgeving) behorende [bijlage](519629), en
+- c. **inspecteur:** inspecteur van de Afdeling Handhaving Explosiegevaarlijke Stoffen en de Afdeling Vergunningen, Analyse en Ontwikkeling, genoemd in de bij het [Organisatie- en mandaatbesluit Inspectie Leefomgeving en Transport 2015](https://wetten.overheid.nl/jci1.3:c:BWBR0036115) behorende [bijlage](onbekend), en
 
 - d. **aan de inspecteur-generaal verleende bevoegdheden:** door de minister van Veiligheid en Justitie aan de inspecteur-generaal verleende bevoegdheden, bedoeld in de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0038257&artikel=2), [3](https://wetten.overheid.nl/jci1.3:c:BWBR0038257&artikel=3) en [5 van het Besluit mandaat inspecteur-generaal Leefomgeving en Transport en aanwijzing toezichthouders Wet precursoren voor explosieven](https://wetten.overheid.nl/jci1.3:c:BWBR0038257&artikel=5).
 
@@ -68,7 +68,7 @@ In dit besluit wordt verstaan onder:
 
 - b. in hiërarchische verhoudingen ressorteert onder degene die het besluit waartegen het bezwaar zich richt, heeft genomen.
 
-3. Aan de daartoe door de inspecteur-generaal aangewezen functionarissen van het team Juridische Zaken, genoemd in de bij het [Organisatie- en mandaatbesluit Inspectie Leefomgeving en Transport 2015](https://wetten.overheid.nl/jci1.3:c:BWBR0036115&wetgeving) behorende [bijlage](519629), wordt ondermandaat verleend voor het behandelen van beroepschriften en het voeren van procedures bij de rechter over de in artikel 1, eerste lid, genoemde besluiten.
+3. Aan de daartoe door de inspecteur-generaal aangewezen functionarissen van het team Juridische Zaken, genoemd in de bij het [Organisatie- en mandaatbesluit Inspectie Leefomgeving en Transport 2015](https://wetten.overheid.nl/jci1.3:c:BWBR0036115) behorende [bijlage](onbekend), wordt ondermandaat verleend voor het behandelen van beroepschriften en het voeren van procedures bij de rechter over de in artikel 1, eerste lid, genoemde besluiten.
 
 ##### Artikel 4
 
