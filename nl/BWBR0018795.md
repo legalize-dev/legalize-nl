@@ -4,7 +4,7 @@ identifier: "BWBR0018795"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-01-01"
-last_updated: "2015-07-01"
+last_updated: "2016-07-23"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0018795"
 soort: "ministeriele-regeling"
@@ -46,7 +46,7 @@ In deze regeling wordt verstaan onder:
 
 - a. de minister: de Minister van Sociale Zaken en Werkgelegenheid;
 
-- b. persoon met ernstige scholingsbelemmeringen: persoon als bedoeld in de [artikelen 2:3](https://wetten.overheid.nl/jci1.3:c:BWBR0008657&artikel=2:3) of [3:2 van de Wet arbeidsongeschiktheidsvoorziening jonggehandicapten](https://wetten.overheid.nl/jci1.3:c:BWBR0008657&artikel=3:2) of [artikel 7, eerste lid, onderdeel a, van de Participatiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&artikel=7), die nog geen diploma van een opleiding als bedoeld in [artikel 7.2.2, eerste lid, onderdelen b tot en met e, van de Wet educatie en beroepsonderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=7.2.2) heeft verworven, die de leeftijd van 18 jaar heeft bereikt en kenmerken heeft zoals opgenomen in de bij deze regeling behorende [bijlage](https://wetten.overheid.nl/jci1.3:c:BWBR0018795&bijlage=1&z=2015-07-01&g=2015-07-01) die:
+- b. persoon met ernstige scholingsbelemmeringen: persoon als bedoeld in de [artikelen 2:3](https://wetten.overheid.nl/jci1.3:c:BWBR0008657&artikel=2:3) of [3:2 van de Wet arbeidsongeschiktheidsvoorziening jonggehandicapten](https://wetten.overheid.nl/jci1.3:c:BWBR0008657&artikel=3:2) of [artikel 7, eerste lid, onderdeel a, van de Participatiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&artikel=7), die nog geen diploma van een opleiding als bedoeld in [artikel 7.2.2, eerste lid, onderdelen b tot en met e, van de Wet educatie en beroepsonderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=7.2.2) heeft verworven, die de leeftijd van 18 jaar heeft bereikt en kenmerken heeft zoals opgenomen in de bij deze regeling behorende [bijlage](https://wetten.overheid.nl/jci1.3:c:BWBR0018795&bijlage=1&z=2016-07-23&g=2016-07-23) die:
 
 - 1°. na scholing of opleiding, die strekt tot behoud, herstel of bevordering van de mogelijkheid tot het verrichten van arbeid, in staat is om algemeen geaccepteerde arbeid te verrichten als bedoeld in de [artikelen 2:5](https://wetten.overheid.nl/jci1.3:c:BWBR0008657&artikel=2:5) en [3:1 van de Wet arbeidsongeschiktheidsvoorziening jonggehandicapten](https://wetten.overheid.nl/jci1.3:c:BWBR0008657&artikel=3:1) en [6, eerste lid, onderdeel b, van de Participatiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&artikel=6), en
 
@@ -58,7 +58,7 @@ In deze regeling wordt verstaan onder:
 
 - e. cohortperiode: periode van drie jaar en zeven maanden waarin een cohort een opleiding volgt aan een scholingsinstelling;
 
-- f. trajectprijs: omvang van de subsidie als bedoeld in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0018795&artikel=8&z=2015-07-01&g=2015-07-01) gedeeld door het begrote opleidingsresultaat of de aangegane dienstbetrekking, bedoeld in [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0018795&artikel=13&z=2015-07-01&g=2015-07-01);
+- f. trajectprijs: omvang van de subsidie als bedoeld in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0018795&artikel=8&z=2016-07-23&g=2016-07-23) gedeeld door het begrote opleidingsresultaat of de aangegane dienstbetrekking, bedoeld in [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0018795&artikel=13&z=2016-07-23&g=2016-07-23);
 
 - g. het college: het college van burgemeester en wethouders.
 
@@ -68,17 +68,19 @@ In deze regeling wordt verstaan onder:
 
 2. De beschikking tot verlening van subsidie als bedoeld in het eerste lid vermeldt de verhouding tussen het bedrag van de subsidie en de door de subsidieontvanger te verrichten activiteiten.
 
+3. In afwijking van het eerste lid verstrekt het Uitvoeringsinstituut werknemersverzekeringen voor het jaar 2017 subsidie voor de duur van drie kalenderjaren en zeven maanden.
+
 ##### Artikel 3. Subsidieplafond
 
 De minister stelt één keer per vier jaar, telkens voor de duur van vijf kalenderjaren en zeven maanden, het subsidieplafond per cohort vast en doet hiervan mededeling in de Staatscourant.
 
 ##### Artikel 4. Verdeling beschikbare subsidie over aanvragers
 
-1. Na het verstrijken van de periode van indiening, bedoeld in [artikel 6, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018795&artikel=6&z=2015-07-01&g=2015-07-01), worden de aanvragen per cohort ingedeeld naar de ernst van de handicap of de behoefte aan scholing van de cursisten op wie de aanvraag betrekking heeft.
+1. Na het verstrijken van de periode van indiening, bedoeld in [artikel 6, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018795&artikel=6&z=2016-07-23&g=2016-07-23), worden de aanvragen per cohort ingedeeld naar de ernst van de handicap of de behoefte aan scholing van de cursisten op wie de aanvraag betrekking heeft.
 
 2. Per cohort worden de aanvragen in een rangorde geplaatst. Daarbij worden de aanvragen beoordeeld naar de verhouding tussen de kosten van de opleiding en het percentage personen dat na afronding van de door de scholingsinstelling verzorgde scholing een dienstbetrekking aangaat, waarbij de aanvraag met de gunstigste verhouding als eerste in de rangorde wordt geplaatst.
 
-3. Indien het subsidiebedrag dat verleend kan worden aan de subsidieaanvrager wiens aanvraag als eerste in de rangorde is geplaatst, lager is dan het subsidieplafond per cohort, bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0018795&artikel=3&z=2015-07-01&g=2015-07-01), verleent het Uitvoeringsinstituut werknemersverzekeringen dat subsidiebedrag. Indien aan de aanvrager van de volgende aanvraag een subsidiebedrag kan worden verleend dat lager is dan het bedrag dat na beslissing op de eerste aanvraag resteert, verleent het Uitvoeringsinstituut werknemersverzekeringen ook aan die aanvrager dat subsidiebedrag, en zo vervolgens.
+3. Indien het subsidiebedrag dat verleend kan worden aan de subsidieaanvrager wiens aanvraag als eerste in de rangorde is geplaatst, lager is dan het subsidieplafond per cohort, bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0018795&artikel=3&z=2016-07-23&g=2016-07-23), verleent het Uitvoeringsinstituut werknemersverzekeringen dat subsidiebedrag. Indien aan de aanvrager van de volgende aanvraag een subsidiebedrag kan worden verleend dat lager is dan het bedrag dat na beslissing op de eerste aanvraag resteert, verleent het Uitvoeringsinstituut werknemersverzekeringen ook aan die aanvrager dat subsidiebedrag, en zo vervolgens.
 
 4. Indien in de rangorde een aanvraag aan de orde is waarop een hoger bedrag kan worden verleend dan het bedrag dat van het subsidieplafond per cohort resteert wordt het subsidiebedrag bepaald gelijk aan het van het subsidieplafond per cohort resterende bedrag.
 
@@ -110,7 +112,7 @@ De minister stelt één keer per vier jaar, telkens voor de duur van vijf kalend
 
 - f. gegevens waaruit blijkt in welke mate de scholingsinstelling samenwerkt met partijen die in de regio zijn aangesloten bij samenwerkingsverbanden voor onderwijs of passend onderwijs, arbeidsmarkt en zorg.
 
-4. Indien de subsidieaanvrager voor de kosten, bedoeld in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0018795&artikel=7&z=2015-07-01&g=2015-07-01), subsidie van een ander bestuursorgaan heeft aangevraagd of ontvangt, dan wel in verband daarmee van anderen inkomsten verwerft, doet hij daarvan mededeling in de aanvraag.
+4. Indien de subsidieaanvrager voor de kosten, bedoeld in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0018795&artikel=7&z=2016-07-23&g=2016-07-23), subsidie van een ander bestuursorgaan heeft aangevraagd of ontvangt, dan wel in verband daarmee van anderen inkomsten verwerft, doet hij daarvan mededeling in de aanvraag.
 
 5. Een aanvraag om subsidie wordt een zodanig tijdstip verzonden dat het Uitvoeringsinstituut werknemersverzekeringen deze ontvangt voor 1 november van het jaar voorafgaand aan het eerste kalenderjaar waarop de aanvraag betrekking heeft. Het Uitvoeringsinstituut werknemersverzekeringen geeft een beschikking binnen acht weken na ontvangst van de aanvraag.
 
@@ -118,7 +120,7 @@ De minister stelt één keer per vier jaar, telkens voor de duur van vijf kalend
 
 ##### Artikel 7. Subsidiabele kosten
 
-Voor subsidie kunnen slechts in aanmerking worden gebracht de volgende noodzakelijke, rechtstreeks aan de voorbereiding en de feitelijke uitvoering van de scholing of opleiding van personen met ernstige scholingsbelemmeringen toe te rekenen, werkelijk gemaakte en ten laste van de scholingsinstelling ten behoeve waarvan de subsidie is aangevraagd, gebleken kosten van:
+Voor subsidie kunnen slechts in aanmerking worden gebracht de volgende noodzakelijke, rechtstreeks aan de voorbereiding en de feitelijke uitvoering van de scholing of opleiding van personen met ernstige scholingsbelemmeringen toe te rekenen en ten laste van de scholingsinstelling ten behoeve waarvan de subsidie is aangevraagd, begrote kosten van:
 
 - a. personeel;
 
@@ -128,13 +130,13 @@ Voor subsidie kunnen slechts in aanmerking worden gebracht de volgende noodzakel
 
 - d. de woonfunctie van de persoon met ernstige scholingsbelemmeringen;
 
-- e. vervoer als bedoeld in [artikel 9, onderdeel e](https://wetten.overheid.nl/jci1.3:c:BWBR0018795&artikel=9&z=2015-07-01&g=2015-07-01);
+- e. vervoer als bedoeld in [artikel 9, onderdeel e](https://wetten.overheid.nl/jci1.3:c:BWBR0018795&artikel=9&z=2016-07-23&g=2016-07-23);
 
 - f. inschakeling in de arbeid.
 
 ##### Artikel 8. Omvang subsidie
 
-1. De subsidie voor de kosten, bedoeld in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0018795&artikel=7&z=2015-07-01&g=2015-07-01), bedraagt maximaal het in de beschikking tot subsidieverlening overeenkomstig [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0018795&artikel=4&z=2015-07-01&g=2015-07-01) vastgestelde bedrag.
+1. De subsidie voor de kosten, bedoeld in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0018795&artikel=7&z=2016-07-23&g=2016-07-23), bedraagt maximaal het in de beschikking tot subsidieverlening overeenkomstig [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0018795&artikel=4&z=2016-07-23&g=2016-07-23) vastgestelde bedrag.
 
 2. Indien voor de kosten uit anderen hoofde subsidie of anderszins inkomsten worden verworven, wordt de omvang van de subsidie zodanig vastgesteld dat het totaal van alle subsidies en inkomsten ten hoogste 100% van de subsidiabele kosten bedraagt.
 
@@ -144,7 +146,7 @@ Subsidie wordt geweigerd, indien:
 
 - a. de voor subsidie in aanmerking te brengen kosten niet in een redelijke verhouding staan tot de daarvan te verwachten resultaten of de eerder behaalde resultaten;
 
-- b. de administratieve organisatie niet voldoet aan de eisen, genoemd in [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0018795&artikel=11&z=2015-07-01&g=2015-07-01);
+- b. de administratieve organisatie niet voldoet aan de eisen, genoemd in [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0018795&artikel=11&z=2016-07-23&g=2016-07-23);
 
 - c. de scholingsinstelling niet meer dan één opleiding aanbiedt als bedoeld in [artikel 7.2.2, eerste lid, van de Wet educatie en beroepsonderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=7.2.2);
 
@@ -158,7 +160,7 @@ Subsidie wordt geweigerd, indien:
 
 - h. de personen met ernstige scholingsbelemmeringen op de scholingsinstelling afkomstig zijn uit minder dan drie regio’s als bedoeld in [artikel 10, eerste lid, van de Wet structuur uitvoeringsorganisatie werk en inkomen](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&artikel=10);
 
-- i. niet wordt voldaan aan [artikel 6, derde lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0018795&artikel=6&z=2015-07-01&g=2015-07-01).
+- i. niet wordt voldaan aan [artikel 6, derde lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0018795&artikel=6&z=2016-07-23&g=2016-07-23).
 
 ##### Artikel 10. Beschikking subsidieverlening/voorschot
 
@@ -172,15 +174,15 @@ Subsidie wordt geweigerd, indien:
 
 2. De administratie biedt voldoende mogelijkheden voor een goede accountantscontrole.
 
-3. De subsidieaanvrager draagt er zorg voor dat voor de subsidieverlening en de subsidievaststelling noodzakelijke bescheiden bewaard blijven tot en met vijf jaren na het jaar waarin de subsidie is vastgesteld.
+3. De subsidieaanvrager draagt er zorg voor dat voor de subsidieverlening en de subsidievaststelling noodzakelijke bescheiden bewaard blijven tot en met zeven jaren na het jaar waarin de subsidie is vastgesteld.
 
 ##### Artikel 12. Verantwoording en subsidievaststelling
 
 1. De subsidieaanvrager dient na afloop van de activiteiten waarvoor subsidie is verleend een aanvraag tot subsidievaststelling in. Het verzoek tot subsidievaststelling wordt door het Uitvoeringsinstituut werknemersverzekeringen ontvangen uiterlijk dertien weken na afloop van de cohortperiode waarvoor subsidie is verleend. Het Uitvoeringsinstituut werknemersverzekeringen geeft een beschikking binnen acht weken na ontvangst van de aanvraag.
 
-2. De aanvraag, bedoeld in het eerste lid, wordt ingediend onder gebruikmaking van het door het Uitvoeringsinstituut werknemersverzekeringen verstrekte formulier, dat is ingericht overeenkomstig een door het Uitvoeringsinstituut werknemersverzekeringen vast te stellen model, vergezeld van een declaratie van de gemaakte subsidiabele kosten, bedoeld in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0018795&artikel=7&z=2015-07-01&g=2015-07-01), die is ingericht overeenkomstig een door het Uitvoeringsinstituut werknemersverzekeringen vast te stellen model.
+2. De aanvraag, bedoeld in het eerste lid, wordt ingediend onder gebruikmaking van het door het Uitvoeringsinstituut werknemersverzekeringen verstrekte formulier, dat is ingericht overeenkomstig een door het Uitvoeringsinstituut werknemersverzekeringen vast te stellen model, vergezeld van een opgave van werkelijk opgeleide en geplaatste personen met ernstige scholingsbelemmeringen.
 
-3. De declaratie is voorzien van een verklaring van een accountant als bedoeld in [artikel 393, eerste lid, van Boek 2 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=393). De verklaring van de accountant is gebaseerd op een controle die is uitgevoerd overeenkomstig het door het Uitvoeringsinstituut werknemersverzekeringen voorgeschreven controle- en rapportageprotocol.
+3. De opgave van werkelijk opgeleide en geplaatste personen met ernstige scholingsbelemmeringen is voorzien van een verklaring van een accountant als bedoeld in [artikel 393, eerste lid, van Boek 2 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=393). De verklaring van de accountant is gebaseerd op een controle die is uitgevoerd overeenkomstig het door het Uitvoeringsinstituut werknemersverzekeringen voorgeschreven controle- en rapportageprotocol.
 
 4. Op aanvraag kan de termijn, bedoeld in het eerste lid, worden verlengd met ten hoogste dertien weken.
 
@@ -190,9 +192,9 @@ Subsidie wordt geweigerd, indien:
 
 1. De subsidie wordt als volgt vastgesteld:
 
-- a. de subsidie wordt vastgesteld op 20% van het op grond van [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0018795&artikel=4&z=2015-07-01&g=2015-07-01) vastgestelde bedrag;
+- a. de subsidie wordt vastgesteld op 20% van het op grond van [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0018795&artikel=4&z=2016-07-23&g=2016-07-23) vastgestelde bedrag;
 
-- b. in aanvulling op de vaststelling, bedoeld in onderdeel a, wordt de subsidie op basis van het aantal in de afrekening genoemde trajecten vastgesteld op 80% indien het opleidingsresultaat, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0018795&artikel=2&z=2015-07-01&g=2015-07-01), is behaald en het in de aanvraag genoemde aantal of een hoger aantal personen, nadat zij het opleidingsresultaat hebben behaald, een dienstbetrekking is aangegaan.
+- b. in aanvulling op de vaststelling, bedoeld in onderdeel a, wordt de subsidie op basis van het aantal in de afrekening genoemde trajecten vastgesteld op 80% indien het opleidingsresultaat, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0018795&artikel=2&z=2016-07-23&g=2016-07-23), is behaald en het in de aanvraag genoemde aantal of een hoger aantal personen, nadat zij het opleidingsresultaat hebben behaald, een dienstbetrekking is aangegaan.
 
 2. Indien niet is voldaan aan het eerste lid, onderdeel b, wordt in aanvulling op de vaststelling, bedoeld in het eerste lid, onderdeel a, de subsidie vastgesteld op 40% van de trajectprijs per behaald onderwijsresultaat en 40% van de trajectprijs per aangegane dienstbetrekking.
 
@@ -317,9 +319,9 @@ Deze regeling zal met de toelichting en [bijlage 1](https://wetten.overheid.nl/j
 
 ##### Artikel 1a. Vaststelling persoon met ernstige scholingsbelemmeringen
 
-1. Het Uitvoeringsinstituut werknemersverzekeringen oordeelt of een persoon waarvoor het college verantwoordelijk is een persoon met ernstige scholingsbelemmeringen is als bedoeld in [artikel 1, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0018795&artikel=1&z=2015-07-01&g=2015-07-01), met dien verstande dat het Uitvoeringsinstituut werknemersverzekeringen de persoon alleen beoordeelt op de sociaal-medische criteria van de bij deze regeling behorende [bijlage](https://wetten.overheid.nl/jci1.3:c:BWBR0018795&bijlage=1&z=2015-07-01&g=2015-07-01).
+1. Het Uitvoeringsinstituut werknemersverzekeringen oordeelt of een persoon waarvoor het college verantwoordelijk is een persoon met ernstige scholingsbelemmeringen is als bedoeld in [artikel 1, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0018795&artikel=1&z=2016-07-23&g=2016-07-23), met dien verstande dat het Uitvoeringsinstituut werknemersverzekeringen de persoon alleen beoordeelt op de sociaal-medische criteria van de bij deze regeling behorende [bijlage](https://wetten.overheid.nl/jci1.3:c:BWBR0018795&bijlage=1&z=2016-07-23&g=2016-07-23).
 
-2. Voor de beoordeling van een persoon waarvoor het college verantwoordelijk is, maakt de persoon gebruik van een daartoe door het Uitvoeringsinstituut werknemersverzekeringen te verstrekken formulier. Bij de aanvraag overlegt de persoon op verzoek van het Uitvoeringsinstituut werknemersverzekeringen alle gegevens die nodig zijn om vast te stellen of hij een persoon met ernstige scholingsbelemmeringen is als bedoeld in [artikel 1, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0018795&artikel=1&z=2015-07-01&g=2015-07-01).
+2. Voor de beoordeling van een persoon waarvoor het college verantwoordelijk is, maakt de persoon gebruik van een daartoe door het Uitvoeringsinstituut werknemersverzekeringen te verstrekken formulier. Bij de aanvraag overlegt de persoon op verzoek van het Uitvoeringsinstituut werknemersverzekeringen alle gegevens die nodig zijn om vast te stellen of hij een persoon met ernstige scholingsbelemmeringen is als bedoeld in [artikel 1, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0018795&artikel=1&z=2016-07-23&g=2016-07-23).
 
 3. Indien het college verantwoordelijk is voor de re-integratie van een persoon, neemt het Uitvoeringsinstituut werknemersverzekeringen de aanvraag, bedoeld in het tweede lid, niet in behandeling, dan nadat deze persoon schriftelijk instemming heeft verkregen van het college.
 
@@ -344,4 +346,4 @@ Deze regeling berust op de [artikelen 2:29, eerste lid](https://wetten.overheid.
 | Indicatie studiebelasting | 4.000 uur studiebelasting |
 | Dagelijks reizen veelal bezwaarlijk: Verblijfs- of vervoersvoorziening | In de meerderheid van de gevallen |
 
-Deze regeling zal met de toelichting en [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0018795&bijlage=1&z=2015-07-01&g=2015-07-01) in de Staatscourant worden geplaatst.
+Deze regeling zal met de toelichting en [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0018795&bijlage=1&z=2016-07-23&g=2016-07-23) in de Staatscourant worden geplaatst.
