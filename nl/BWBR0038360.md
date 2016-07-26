@@ -119,17 +119,3 @@ Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte v
 Deze regeling wordt aangehaald als: Regeling aanvraag plaatsing op een andere dan de ambtenaar opgedragen functie.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
-
-##### Artikel 1a
-
-1. De werkzaamheden van een ambtenaar wijken wezenlijk af van de huidige functie, indien die werkzaamheden:
-
-- a. in overwegende mate voldoen aan de niveaubepalende elementen van een andere functie als omschreven in het onderdeel ‘kern van de functie’ van de betreffende functie, dan wel
-
-- b. overeenkomen met de omschrijving van het werkterrein, het aandachtsgebied of de specifieke functionaliteit behorende bij de huidige functie, zoals opgenomen in [bijlage 4 van de Regeling vaststelling LFNP](https://wetten.overheid.nl/jci1.3:c:BWBR0033460&bijlage=4).
-
-2. In het geval niet aan alle in de kern van de functie opgenomen niveaubepalende elementen wordt voldaan, vindt een weging plaats van de in totaliteit verrichte overige functiebestanddelen van de andere functie of het ontbreken van het niveaubepalende element. Daarbij wordt gekeken naar de verrichte werkzaamheden in de context van het werk in de betreffende organisatorische eenheid.
-
-3. Voor de toepassing van het eerste lid, onderdeel a, wordt, indien op grond van bedrijfsvoering argumenten een bepaald functiebestanddeel niet is opgedragen, dit niet in het nadeel van een ambtenaar uitgelegd bij de vaststelling of in overwegende mate aan de niveaubepalende elementen is voldaan. Voor een succesvolle aanvraag geldt de ondergrens dat de kern van de functie in overwegende mate tot uitdrukking is gekomen.
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
