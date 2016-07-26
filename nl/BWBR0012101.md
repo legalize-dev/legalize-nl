@@ -4,7 +4,7 @@ identifier: "BWBR0012101"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2023-11-08"
-last_updated: "2013-01-01"
+last_updated: "2016-07-26"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0012101"
 soort: "ministeriele-regeling"
@@ -44,6 +44,32 @@ Besluit:
 
 In deze regeling wordt verstaan onder:
 
+- a. bevoegd gezag: de korpschef;
+
+- b. ontslag: een ontslag als bedoeld in [artikel 88a van het Besluit algemene rechtspositie politie](https://wetten.overheid.nl/jci1.3:c:BWBR0006516&artikel=88a);
+
+- c. betrokkene: de gewezen ambtenaar als bedoeld in [artikel 88a, eerste lid, van het Besluit algemene rechtspositie politie](https://wetten.overheid.nl/jci1.3:c:BWBR0006516&artikel=88a), aan wie ontslag is verleend;
+
+- d. Stichting Pensioenfonds ABP: de Stichting Pensioenfonds ABP, bedoeld in [artikel 6 van de Wet privatisering ABP](https://wetten.overheid.nl/jci1.3:c:BWBR0007791&artikel=6);
+
+- e. pensioenreglement: het pensioenreglement Stichting Pensioenfonds ABP;
+
+- f. ABP arbeidsongeschiktheidspensioen: een arbeidsongeschiktheidspensioen als bedoeld in hoofdstuk 11 van het pensioenreglement;
+
+- g. arbeidsongeschiktheid: arbeidsongeschiktheid in de zin van [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0019057&artikel=4) of [artikel 5 van de Wet werk en inkomen naar arbeidsvermogen](https://wetten.overheid.nl/jci1.3:c:BWBR0019057&artikel=5);
+
+- h. bezoldiging: de bezoldiging, bedoeld in [artikel 1 van het Besluit bezoldiging politie](https://wetten.overheid.nl/jci1.3:c:BWBR0006517&artikel=1);
+
+- i. eindejaarsuitkering: de eindejaarsuitkering, bedoeld in [artikel 25b van het Besluit bezoldiging politie](https://wetten.overheid.nl/jci1.3:c:BWBR0006517&artikel=25b);
+
+- j. uitkering: de uitkering, bedoeld in [artikel 88a, vijfde lid, Besluit algemene rechtspositie politie](https://wetten.overheid.nl/jci1.3:c:BWBR0006516&artikel=88a);
+
+- k. vakantie-uitkering: de vakantie-uitkering, bedoeld in [artikel 23 van het Besluit bezoldiging politie](https://wetten.overheid.nl/jci1.3:c:BWBR0006517&artikel=23);
+
+- l. WIA-uitkering: een uitkering op grond van [artikel 47](https://wetten.overheid.nl/jci1.3:c:BWBR0019057&artikel=47) of [artikel 54 van de Wet werk en inkomen naar arbeidsvermogen](https://wetten.overheid.nl/jci1.3:c:BWBR0019057&artikel=54);
+
+- m. AOW-gerechtigde leeftijd: de leeftijd, bedoeld in artikel 7a van de Algemene ouderdomswet waarop recht op ouderdomspensioen ontstaat.
+
 ##### Artikel 2
 
 1. De betrokkene heeft recht op de uitkering met ingang van de dag van ingang van zijn ontslag.
@@ -52,63 +78,31 @@ In deze regeling wordt verstaan onder:
 
 ##### Artikel 3
 
-1. De hoogte van de uitkering is voor de deelnemer
-
-- a. geboren na 31 december 1963 gedurende de eerste zestig maanden 87% en vervolgens 76% van het gemiddelde inkomen;
-
-- b. geboren na 31 december 1953 en voor 1 januari 1964 gedurende de eerste zestig maanden 82% en vervolgens 72% van het gemiddelde inkomen;
-
-- c. geboren voor 1 januari 1954 gedurende de eerste zestig maanden 80% en vervolgens 70% van het gemiddelde inkomen.
-
-2. De in het eerste lid genoemde uitkering bestaat uit de volgende onderdelen:
-
-- a. een flexibel pensioen krachtens het pensioenreglement,
-
-- b. de basisuitkering en de aanvullende uitkering krachtens het FPU-reglement,
-
-- c. een AFUP-pensioen krachtens het AFUP-opbouwreglement,
-
-- d. een AFUP-uitkering krachtens het AFUP-garantiereglement en
-
-- e. een aanvulling op de bovengenoemde onderdelen tot de in het eerste lid omschreven hoogte van de uitkering.
-
-3. Indien de betrokkene gedurende een termijn van tien jaren direct voorafgaande aan het ontslag een deeltijdbetrekking heeft vervuld, wordt het bedrag van de aanvulling vermenigvuldigd met de gemiddelde deeltijdfactor over die termijn.
-
-4. In geval van ontslag in deeltijd wordt de met toepassing van de voorgaande leden vastgestelde aanvulling vermenigvuldigd met een factor.
-
-5. De factor, bedoeld in het vierde lid, is gelijk aan de verhouding tussen de omvang van het ontslag in deeltijd en de omvang van de betrekking van de werknemer voorafgaand aan het eerste ontslag. Bij het bepalen van de factor, bedoeld in de vorige volzin wordt een toename van de betrekkingsomvang na het ontslag buiten beschouwing gelaten.
-
-6. Indien het bedrag van de basisuitkering FPU dan wel de uitkering krachtens het AFUP-garantiereglement is verminderd in verband met samenloop met andere inkomsten, wordt voor het vaststellen van de aanvulling niettemin uitgegaan van de onverminderde bedragen.
-
-7. Indien de betrokkene niet of niet tijdig de in het tweede lid, onderdelen a tot en met d, genoemde uitkeringen aanvraagt, en hem dit redelijkerwijs kan worden verweten, wordt, voor de periode waarin hij dientengevolge geen of niet alle voornoemde uitkeringen ontvangt, voor de toepassing van dit artikel rekening gehouden met de uitkeringen die hij vanaf de ontslagdatum zou hebben genoten indien hij de voornoemde uitkeringen wel tijdig zou hebben aangevraagd.
-
-8. Indien als gevolg van handelingen of nalaten van handelingen door de betrokkene de in het tweede lid, onderdelen a tot en met d, genoemde uitkeringen geheel of ten dele vervallen worden verklaard dat wel geheel of gedeeltelijk worden geweigerd, worden deze uitkeringen voor de toepassing van dit artikel steeds aangemerkt als uitkeringen die onverminderd zijn genoten.
+De hoogte van de uitkering is gedurende de eerste zestig maanden 80% van de berekeningsgrondslag en vervolgens 70% van de berekeningsgrondslag.
 
 ##### Artikel 4
 
-1. Het bedrag van de aanvulling wordt verminderd indien de deelnemer inkomsten geniet of gaat genieten als genoemd in [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012101&artikel=5&z=2013-01-01&g=2013-01-01).
+1. Het bedrag van de uitkering wordt verminderd indien de betrokkene inkomsten geniet of gaat genieten als genoemd in [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012101&artikel=5&z=2016-07-26&g=2016-07-26).
 
-2. Vermindering van de aanvulling vindt plaats voor zover het totaalbedrag van de inkomsten bedoeld in [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012101&artikel=5&z=2013-01-01&g=2013-01-01), en de onverminderde uitkering bedoeld in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012101&artikel=3&z=2013-01-01&g=2013-01-01), tezamen de berekeningsbasis waarnaar de uitkering wordt berekend te boven gaat.
-
-3. Bij de vaststelling van de vermindering van de aanvulling, bedoeld in het tweede lid, worden inkomsten die sinds het ontslag reeds in mindering zijn gebracht op de uitkering krachtens het FPU-reglement en op de uitkering krachtens het AFUP-garantiereglement buiten beschouwing gelaten.
+2. Vermindering van de uitkering vindt plaats voor zover het totale bedrag van de inkomsten, bedoeld in [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012101&artikel=5&z=2016-07-26&g=2016-07-26), en de onverminderde uitkering, bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0012101&artikel=3&z=2016-07-26&g=2016-07-26), tezamen de berekeningsgrondslag waarnaar de uitkering wordt berekend te boven gaat.
 
 ##### Artikel 5
 
-1. De inkomsten, die de betrokkene geniet of gaat genieten uit of in verband met arbeid of bedrijf, aangevangen met ingang van of na de dag van het ontslag, ter zake waarvan de uitkering is toegekend, worden in mindering gebracht op het bedrag van de aanvulling volgens het gestelde in [artikel 4, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012101&artikel=4&z=2013-01-01&g=2013-01-01), tenzij de betrokkene aannemelijk maakt dat die inkomsten, dan wel een gedeelte daarvan geen verband houden met verhoogde werkzaamheid en geen verband houden met het ontslag.
+1. De inkomsten, die de betrokkene geniet of gaat genieten uit of in verband met arbeid of bedrijf, aangevangen met ingang van of na de dag van het ontslag, ter zake waarvan de uitkering is toegekend, worden in mindering gebracht op het bedrag van de uitkering, tenzij de betrokkene aannemelijk maakt dat die inkomsten, dan wel een gedeelte daarvan geen verband houden met verhoogde werkzaamheid en geen verband houden met het ontslag.
 
 2. Het eerste lid is van overeenkomstige toepassing ten aanzien van inkomsten uit of in verband met arbeid of bedrijf aangevangen gedurende de vakantie, het verlof of de non-activiteit onmiddellijk voorafgaande aan het ontslag ter zake waarvan de uitkering is toegekend.
 
-3. Inkomsten uit arbeid of bedrijf als bedoeld in het eerste lid die geacht worden op één maand betrekking te hebben of daarop geacht kunnen worden te hebben, worden in mindering gebracht op de aanvulling over die maand.
+3. Inkomsten uit arbeid of bedrijf als bedoeld in het eerste lid die geacht worden op één maand betrekking te hebben of daarop geacht kunnen worden te hebben, worden in mindering gebracht op de uitkering over die maand.
 
 4. In bijzondere gevallen kan het bevoegd gezag van het eerste tot en met het derde lid ten gunste van de betrokkene afwijken.
 
 ##### Artikel 6
 
-1. De betrokkene is verplicht vanaf het moment waarop het ontslag is ingegaan, opgave te doen van de inkomsten, bedoeld in [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012101&artikel=5&z=2013-01-01&g=2013-01-01).
+1. De betrokkene is verplicht vanaf het moment waarop het ontslag is ingegaan, opgave te doen van de inkomsten, bedoeld in [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012101&artikel=5&z=2016-07-26&g=2016-07-26).
 
 2. Indien de inkomsten niet vooraf kunnen worden vastgesteld, doet de betrokkene maandelijks, voorafgaand aan de salarisbetaling, opgave van de inkomsten die hij sinds de vorige opgave heeft genoten.
 
-3. Indien de inkomsten slechts over een langere termijn kunnen worden vastgesteld, doet de betrokkene dienovereenkomstig opgave en wordt de aanvulling met een voorlopig vastgesteld bedrag verminderd. Na afloop van de desbetreffende termijn zullen de daadwerkelijke inkomsten worden verrekend met inachtneming van [artikel 4, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012101&artikel=4&z=2013-01-01&g=2013-01-01).
+3. Indien de inkomsten slechts over een langere termijn kunnen worden vastgesteld, doet de betrokkene dienovereenkomstig opgave en wordt de uitkering met een voorlopig vastgesteld bedrag verminderd. Na afloop van de desbetreffende termijn zullen de daadwerkelijke inkomsten worden verrekend.
 
 4. Het bevoegd gezag kan nadere voorschriften geven met betrekking tot de wijze van opgave van de inkomsten door de betrokkene.
 
@@ -116,17 +110,17 @@ In deze regeling wordt verstaan onder:
 
 ##### Artikel 7
 
-1. Indien de betrokkene ongeschikt is tot het verrichten van arbeid wegens ziekte, is hij de eerste maand na het ontslag verplicht daarvan terstond mededeling te doen aan het bevoegd gezag. De betrokkene is eveneens verplicht zijn herstel terstond te melden indien de ongeschiktheid tot het verrichten van arbeid wegens ziekte is ontstaan voorafgaand aan zijn ontslag dan wel binnen een maand na zijn ontslag.
+1. Indien de betrokkene ongeschikt is tot het verrichten van arbeid wegens ziekte binnen vier weken na het ontslag, is hij verplicht daarvan terstond mededeling te doen aan het bevoegd gezag. De betrokkene is eveneens verplicht zijn herstel terstond te melden indien de ongeschiktheid tot het verrichten van arbeid wegens ziekte is ontstaan voorafgaand aan zijn ontslag dan wel binnen vier weken na zijn ontslag.
 
-2. De aanvulling wordt niet uitbetaald voor de duur dat de betrokkene de in het eerste lid bedoelde verplichting niet nakomt.
+2. De uitkering wordt niet uitbetaald voor de duur dat de betrokkene de in het eerste lid bedoelde verplichting niet nakomt.
 
 ##### Artikel 8
 
-Indien de betrokkene ongeschikt is tot het verrichten van arbeid wegens ziekte, en de ziekte is ontstaan voorafgaand aan zijn ontslag dan wel binnen een maand na zijn ontslag, kan hij door het bevoegd gezag worden verplicht zich geneeskundig te laten onderzoeken.
+Indien de betrokkene ongeschikt is tot het verrichten van arbeid wegens ziekte, en de ziekte is ontstaan voorafgaand aan zijn ontslag dan wel binnen vier weken na zijn ontslag, kan hij door het bevoegd gezag worden verplicht zich geneeskundig te laten onderzoeken.
 
 ##### Artikel 9
 
-Ten aanzien van de betrokkene die na zijn ontslag uit hoofde van ziekte of arbeidsongeschiktheid nog aanspraken in verband met de betrekking waaruit hij is ontslagen, heeft of krijgt, wordt de aanvulling dan wel de toelage, bedoeld in [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0012101&artikel=12&z=2013-01-01&g=2013-01-01), tot het einde van de periode waarover die aanspraken bestaan, verminderd met het bedrag daarvan.
+Ten aanzien van de betrokkene die na zijn ontslag uit hoofde van ziekte of arbeidsongeschiktheid nog aanspraken in verband met de betrekking waaruit hij is ontslagen, heeft of krijgt, wordt de uitkering dan wel de toelage, bedoeld in [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0012101&artikel=12&z=2016-07-26&g=2016-07-26), tot het einde van de periode waarover die aanspraken bestaan, verminderd met het bedrag daarvan.
 
 ##### Artikel 10
 
@@ -134,31 +128,31 @@ Indien de betrokkene de gegevens die noodzakelijk zijn voor de vaststelling of d
 
 ##### Artikel 11
 
-1. Het recht op de aanvulling eindigt:
+1. Het recht op de uitkering eindigt:
 
-- a. met ingang van de dag waarop betrokkene recht verkrijgt op een WAO-uitkering;
+- a. met ingang van de dag waarop betrokkene recht verkrijgt op een WIA-uitkering;
 
 - b. met ingang van de dag volgende op die waarop de betrokkene is overleden;
 
-- c. met ingang van de eerste dag van de maand volgende op die waarin de betrokkene de leeftijd van 65 jaar heeft bereikt.
+- c. met ingang van de dag waarop betrokkene de AOW-gerechtigde leeftijd heeft bereikt.
 
-2. Het recht op de aanvulling kan geheel of ten dele vervallen worden verklaard indien de betrokkene:
+2. Het recht op de uitkering kan geheel of ten dele vervallen worden verklaard indien de betrokkene:
 
 - a. zich zodanig gedraagt dat hij, ware hij in dienst gebleven, zou zijn ontslagen;
 
-- b. weigert mee te werken aan een onderzoek tot vaststelling van zijn arbeidsongeschiktheid ter verkrijging van een WAO-uitkering.
+- b. weigert mee te werken aan een onderzoek tot vaststelling van zijn arbeidsongeschiktheid ter verkrijging van een WIA-uitkering.
 
 ##### Artikel 12
 
-1. Voor zover de aan betrokkene toegekende WAO-uitkering, eventueel vermeerderd met een invaliditeitspensioen, lager is dan de uitkering waarop hij aanspraak zou hebben gehad, indien geen sprake zou zijn van arbeidsongeschiktheid, wordt hem het verschil bij wijze van toelage uitgekeerd.
+1. Voor zover de aan betrokkene toegekende WIA-uitkering, eventueel vermeerderd met een ABP arbeidsongeschiktheidspensioen, lager is dan de uitkering waarop hij aanspraak zou hebben gehad, indien geen sprake zou zijn van arbeidsongeschiktheid, wordt hem het verschil bij wijze van toelage uitgekeerd.
 
-2. De betrokkene die na afloop van de periode van 52 weken, bedoeld in [artikel 19 van de Wet op de arbeidsongeschiktheidsverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0002524&artikel=19), geen WAO-uitkering aanvraagt, wordt voor de toepassing van dit besluit behandeld alsof hem een WAO-uitkering is toegekend berekend naar een mate van arbeidsongeschiktheid van 80% of meer.
+2. De betrokkene die na afloop van de periode van 104 weken, bedoeld in [artikel 23 van de Wet werk en inkomen naar arbeidsvermogen](https://wetten.overheid.nl/jci1.3:c:BWBR0019057&artikel=23), geen WIA-uitkering aanvraagt, wordt voor de toepassing van dit besluit behandeld alsof hem een WIA-uitkering is toegekend berekend naar een mate van arbeidsongeschiktheid van 80% of meer.
 
-3. Indien de WAO-uitkering van de betrokkene die ter zake van dezelfde dienstverhouding aanspraak heeft op een uitkering en een WAO-uitkering, als gevolg van een handelen of nalaten een vermindering ondergaat, of het recht daarop geheel of gedeeltelijk wordt geweigerd, wordt bedoelde WAO-uitkering voor de toepassing van dit besluit geacht onverminderd te zijn genoten.
+3. Indien de WIA-uitkering van de betrokkene die ter zake van dezelfde dienstverhouding aanspraak heeft op een uitkering en een WIA-uitkering, als gevolg van een handelen of nalaten een vermindering ondergaat, of het recht daarop geheel of gedeeltelijk wordt geweigerd, wordt bedoelde WIA-uitkering voor de toepassing van dit besluit geacht onverminderd te zijn genoten.
 
 ##### Artikel 13
 
-De uitkering over een maand berekend, wordt in maandelijkse termijnen betaald.
+De uitkering wordt in maandelijkse termijnen betaald.
 
 ##### Artikel 14
 
@@ -189,5 +183,13 @@ Deze regeling zal in de Staatscourant worden geplaatst.
 2. De voor de pensioenopbouw verschuldigde premie wordt, overeenkomstig het bepaalde in artikel 4 van de pensioenovereenkomst, verhaald op de betrokkene.
 
 3. Het eerste en tweede lid zijn van overeenkomstige toepassing indien de betrokkene na het bereiken van de leeftijd van 62 jaar gebruik maakt van de mogelijkheid tot vrijwillige aanvullende voortzetting van zijn deelneming als bedoeld in hoofdstuk 2 van het pensioenreglement.
+
+Deze regeling zal in de Staatscourant worden geplaatst.
+
+##### Artikel 13a
+
+1. In afwijking van [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0012101&artikel=11&z=2016-07-26&g=2016-07-26) heeft de betrokkene, die op enig tijdstip in de periode van 1 januari 2013 tot de datum van inwerkingtreding van dit artikel recht heeft op een uitkering op grond van deze regeling, recht op een compensatie als bedoeld in het tweede lid.
+
+2. De compensatie wordt berekend door het aantal maanden dat de AOW-gerechtigde leeftijd van de betrokkene later ligt dan de datum waarop deze de leeftijd van 65 jaar heeft bereikt te vermenigvuldigen met 70% van het bedrag van het minimumloon, bedoeld in [artikel 8, eerste lid, onderdeel a, van de Wet minimumloon en minimumvakantiebijslag](https://wetten.overheid.nl/jci1.3:c:BWBR0002638&artikel=8).
 
 Deze regeling zal in de Staatscourant worden geplaatst.
