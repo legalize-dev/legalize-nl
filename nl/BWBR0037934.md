@@ -4,7 +4,7 @@ identifier: "BWBR0037934"
 country: "nl"
 rank: "zbo"
 publication_date: "2025-01-01"
-last_updated: "2016-05-12"
+last_updated: "2016-07-27"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0037934"
 soort: "zbo"
@@ -62,11 +62,11 @@ Tenzij anders vermeld, worden de in deze code beschreven processen toegepast per
 
 ##### 1.1.5
 
-Voor de beheerder van het landelijk gastransportnet zijn van deze code uitsluitend de volgende bepalingen van toepassing: [1.1.1 tot en met 1.1.5](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=1&paragraaf=1.1&artikel=1.1.1&z=2016-05-12&g=2016-05-12), [1.1.11](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=1&paragraaf=1.1&artikel=1.1.11&z=2016-05-12&g=2016-05-12) en de [paragrafen 2.13](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=2&paragraaf=2.13&z=2016-05-12&g=2016-05-12), [4.14](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=4&paragraaf=4.14&z=2016-05-12&g=2016-05-12), [4.15](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=4&paragraaf=4.15&z=2016-05-12&g=2016-05-12), [10.1.1.6](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=10&paragraaf=10.1&sub-paragraaf=10.1.1&artikel=10.1.1.6&z=2016-05-12&g=2016-05-12) en [10.1.1.7](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=10&paragraaf=10.1&sub-paragraaf=10.1.1&artikel=10.1.1.7&z=2016-05-12&g=2016-05-12).
+Voor de beheerder van het landelijk gastransportnet zijn van deze code uitsluitend de volgende bepalingen van toepassing: [1.1.1 tot en met 1.1.5](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=1&paragraaf=1.1&artikel=1.1.1&z=2016-07-27&g=2016-07-27), [1.1.11](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=1&paragraaf=1.1&artikel=1.1.11&z=2016-07-27&g=2016-07-27) en de [paragrafen 2.13](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=2&paragraaf=2.13&z=2016-07-27&g=2016-07-27), [4.14](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=4&paragraaf=4.14&z=2016-07-27&g=2016-07-27), [4.15](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=4&paragraaf=4.15&z=2016-07-27&g=2016-07-27), [10.1.1.6](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=10&paragraaf=10.1&sub-paragraaf=10.1.1&artikel=10.1.1.6&z=2016-07-27&g=2016-07-27) en [10.1.1.7](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=10&paragraaf=10.1&sub-paragraaf=10.1.1&artikel=10.1.1.7&z=2016-07-27&g=2016-07-27).
 
 ##### 1.1.6
 
-In deze code wordt met uitzondering van [hoofdstuk 3](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=3&z=2016-05-12&g=2016-05-12), [5](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=5&z=2016-05-12&g=2016-05-12) en [8](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=8&z=2016-05-12&g=2016-05-12), en [artikelen 2.1.2](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=2&paragraaf=2.1&artikel=2.1.2&z=2016-05-12&g=2016-05-12) en [9.1.1](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=9&paragraaf=9.1&artikel=9.1.1&z=2016-05-12&g=2016-05-12) onder regionale netbeheerder of netbeheerder tevens de beheerder van een gesloten distributiesysteem verstaan, indien deze beheerder van het gesloten distributiesysteem gebruik maakt van het elektronisch berichtenverkeer.
+In deze code wordt met uitzondering van [hoofdstuk 3](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=3&z=2016-07-27&g=2016-07-27), [5](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=5&z=2016-07-27&g=2016-07-27) en [8](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=8&z=2016-07-27&g=2016-07-27), en [artikelen 2.1.2](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=2&paragraaf=2.1&artikel=2.1.2&z=2016-07-27&g=2016-07-27) en [9.1.1](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=9&paragraaf=9.1&artikel=9.1.1&z=2016-07-27&g=2016-07-27) onder regionale netbeheerder of netbeheerder tevens de beheerder van een gesloten distributiesysteem verstaan, indien deze beheerder van het gesloten distributiesysteem gebruik maakt van het elektronisch berichtenverkeer.
 
 ##### 1.1.7
 
@@ -74,11 +74,11 @@ Een leverancier is voor alle kleinverbruikaansluitingen waarvoor hij in het aans
 
 ##### 1.1.8
 
-Waar in [paragrafen 5.1.2](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=5&paragraaf=5.1&sub-paragraaf=5.1.2&z=2016-05-12&g=2016-05-12) en [5.1.3](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=5&paragraaf=5.1&sub-paragraaf=5.1.3&z=2016-05-12&g=2016-05-12) is gesteld dat de leverancier verantwoordelijk is voor het collecteren, valideren en vaststellen van meterstanden, schakelt de leverancier een meetbedrijf in, als bedoeld in [artikel 95ca, eerste lid, van de Elektriciteitswet 1998](https://wetten.overheid.nl/jci1.3:c:BWBR0009755&artikel=95ca) en [artikel 44a, eerste lid, van de Gaswet](https://wetten.overheid.nl/jci1.3:c:BWBR0011440&artikel=44a).
+Waar in [paragrafen 5.1.2](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=5&paragraaf=5.1&sub-paragraaf=5.1.2&z=2016-07-27&g=2016-07-27) en [5.1.3](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=5&paragraaf=5.1&sub-paragraaf=5.1.3&z=2016-07-27&g=2016-07-27) is gesteld dat de leverancier verantwoordelijk is voor het collecteren, valideren en vaststellen van meterstanden, schakelt de leverancier een meetbedrijf in, als bedoeld in [artikel 95ca, eerste lid, van de Elektriciteitswet 1998](https://wetten.overheid.nl/jci1.3:c:BWBR0009755&artikel=95ca) en [artikel 44a, eerste lid, van de Gaswet](https://wetten.overheid.nl/jci1.3:c:BWBR0011440&artikel=44a).
 
 ##### 1.1.9
 
-Het meetbedrijf, bedoeld in [1.1.8](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=1&paragraaf=1.1&artikel=1.1.8&z=2016-05-12&g=2016-05-12), zal fouten in de meetgegevens die worden geconstateerd door de leverancier onverwijld corrigeren.
+Het meetbedrijf, bedoeld in [1.1.8](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=1&paragraaf=1.1&artikel=1.1.8&z=2016-07-27&g=2016-07-27), zal fouten in de meetgegevens die worden geconstateerd door de leverancier onverwijld corrigeren.
 
 ##### 1.1.10
 
@@ -102,11 +102,11 @@ De netbeheerder identificeert de aansluitingen en geplande aansluitingen op het 
 
 ##### 2.1.2
 
-De netbeheerders hebben gezamenlijk een centraal register, hierna te noemen het centraal aansluitingenregister, waarin elke netbeheerder zijn register, bedoeld in [2.1.3](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=2&paragraaf=2.1&artikel=2.1.3&z=2016-05-12&g=2016-05-12), beheert.
+De netbeheerders hebben gezamenlijk een centraal register, hierna te noemen het centraal aansluitingenregister, waarin elke netbeheerder zijn register, bedoeld in [2.1.3](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=2&paragraaf=2.1&artikel=2.1.3&z=2016-07-27&g=2016-07-27), beheert.
 
 ##### 2.1.3
 
-De netbeheerder beheert voor het eigen net een register, hierna te noemen het aansluitingenregister, waarin per aansluiting of geplande aansluiting geïdentificeerd door de EAN-code van de aansluiting, bedoeld in [2.1.1](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=2&paragraaf=2.1&artikel=2.1.1&z=2016-05-12&g=2016-05-12), voor zover beschikbaar voor geplande aansluitingen, de volgende gegevens zijn vastgelegd:
+De netbeheerder beheert voor het eigen net een register, hierna te noemen het aansluitingenregister, waarin per aansluiting of geplande aansluiting geïdentificeerd door de EAN-code van de aansluiting, bedoeld in [2.1.1](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=2&paragraaf=2.1&artikel=2.1.1&z=2016-07-27&g=2016-07-27), voor zover beschikbaar voor geplande aansluitingen, de volgende gegevens zijn vastgelegd:
 
 - a. de naam van de aangeslotene met wie de aansluit- en transportovereenkomst is gesloten;
 
@@ -146,7 +146,7 @@ De netbeheerder beheert voor het eigen net een register, hierna te noemen het aa
 
 ##### 2.1.4
 
-In aanvulling op [2.1.3](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=2&paragraaf=2.1&artikel=2.1.3&z=2016-05-12&g=2016-05-12) neemt de netbeheerder in het aansluitingenregister ten aanzien van kleinverbruikaansluitingen de volgende gegevens op:
+In aanvulling op [2.1.3](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=2&paragraaf=2.1&artikel=2.1.3&z=2016-07-27&g=2016-07-27) neemt de netbeheerder in het aansluitingenregister ten aanzien van kleinverbruikaansluitingen de volgende gegevens op:
 
 - a. de capaciteitstariefcode;
 
@@ -174,9 +174,9 @@ In aanvulling op [2.1.3](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdst
 
 ##### 2.1.5
 
-In aanvulling op [2.1.3](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=2&paragraaf=2.1&artikel=2.1.3&z=2016-05-12&g=2016-05-12) neemt de netbeheerder in het aansluitingenregister ten aanzien van grootverbruikaansluitingen met inbegrip van de aansluitingen bedoeld in [artikel 1, tweede en derde lid van de Elektriciteitswet 1998](https://wetten.overheid.nl/jci1.3:c:BWBR0009755&artikel=1), de volgende gegevens op:
+In aanvulling op [2.1.3](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=2&paragraaf=2.1&artikel=2.1.3&z=2016-07-27&g=2016-07-27) neemt de netbeheerder in het aansluitingenregister ten aanzien van grootverbruikaansluitingen met inbegrip van de aansluitingen bedoeld in [artikel 1, tweede en derde lid van de Elektriciteitswet 1998](https://wetten.overheid.nl/jci1.3:c:BWBR0009755&artikel=1), de volgende gegevens op:
 
-- a. de bedrijfs-EAN-code van de meetverantwoordelijke dan wel, indien sprake is van een aansluiting waarbij op grond van [2.1.3.5 van de Netcode elektriciteit](https://wetten.overheid.nl/jci1.3:c:BWBR0037940&artikel=2.1.3.5) geen comptabele meetinrichting aanwezig is of indien sprake is van een aansluiting zoals bedoeld in [B3.4.7](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&bijlage=3&z=2016-05-12&g=2016-05-12), de bedrijfs-EAN-code van de netbeheerder;
+- a. de bedrijfs-EAN-code van de meetverantwoordelijke dan wel, indien sprake is van een aansluiting waarbij op grond van [2.1.3.5 van de Netcode elektriciteit](https://wetten.overheid.nl/jci1.3:c:BWBR0037940&artikel=2.1.3.5) geen comptabele meetinrichting aanwezig is of indien sprake is van een aansluiting zoals bedoeld in [B3.4.7](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&bijlage=3&z=2016-07-27&g=2016-07-27), de bedrijfs-EAN-code van de netbeheerder;
 
 - b. in geval van aansluitingen waarbij eenmaal per jaar het verbruik wordt bepaald: de maand waarin de verbruiksbepaling plaatsvindt;
 
@@ -188,11 +188,11 @@ In aanvulling op [2.1.3](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdst
 
 ##### 2.1.6
 
-De velden, bedoeld in [2.1.3 onderdeel f en g](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=2&paragraaf=2.1&artikel=2.1.3&z=2016-05-12&g=2016-05-12), kunnen door de netbeheerder alleen worden gemuteerd in opdracht van een leverancier op de door de leverancier aangegeven datum.
+De velden, bedoeld in [2.1.3 onderdeel f en g](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=2&paragraaf=2.1&artikel=2.1.3&z=2016-07-27&g=2016-07-27), kunnen door de netbeheerder alleen worden gemuteerd in opdracht van een leverancier op de door de leverancier aangegeven datum.
 
 ##### 2.1.7
 
-In uitzondering op [2.1.6](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=2&paragraaf=2.1&artikel=2.1.6&z=2016-05-12&g=2016-05-12) kan een netbeheerder de velden, bedoeld in [2.1.3 onderdeel f en g](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=2&paragraaf=2.1&artikel=2.1.3&z=2016-05-12&g=2016-05-12), muteren zonder opdracht van een leverancier ter uitvoering van het besluit, bedoeld in [artikelen 16, achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009755&artikel=16), en [95f, tweede lid, van de Elektriciteitswet 1998](https://wetten.overheid.nl/jci1.3:c:BWBR0009755&artikel=95f) en [artikelen 10a, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011440&artikel=10a) en [47, tweede lid, van de Gaswet](https://wetten.overheid.nl/jci1.3:c:BWBR0011440&artikel=47).
+In uitzondering op [2.1.6](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=2&paragraaf=2.1&artikel=2.1.6&z=2016-07-27&g=2016-07-27) kan een netbeheerder de velden, bedoeld in [2.1.3 onderdeel f en g](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=2&paragraaf=2.1&artikel=2.1.3&z=2016-07-27&g=2016-07-27), muteren zonder opdracht van een leverancier ter uitvoering van het besluit, bedoeld in [artikelen 16, achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009755&artikel=16), en [95f, tweede lid, van de Elektriciteitswet 1998](https://wetten.overheid.nl/jci1.3:c:BWBR0009755&artikel=95f) en [artikelen 10a, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011440&artikel=10a) en [47, tweede lid, van de Gaswet](https://wetten.overheid.nl/jci1.3:c:BWBR0011440&artikel=47).
 
 ##### 2.1.8
 
@@ -222,29 +222,29 @@ De netbeheerder verzendt uiterlijk de werkdag volgend op de dag dat één of mee
 
 - c. de datum waarop het aansluitingenregister door de netbeheerder is gemuteerd;
 
-- d. de gegevens, bedoeld in [2.1.3](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=2&paragraaf=2.1&artikel=2.1.3&z=2016-05-12&g=2016-05-12), met uitzondering van onderdeel a;
+- d. de gegevens, bedoeld in [2.1.3](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=2&paragraaf=2.1&artikel=2.1.3&z=2016-07-27&g=2016-07-27), met uitzondering van onderdeel a;
 
 - e. het referentienummer van de leverancier in het geval dat de stamgegevens worden verzonden bij een mutatieproces, waarbij de leverancier een referentienummer heeft opgegeven in de betreffende melding.
 
 ##### 2.2.2
 
-De netbeheerder vermeldt in de stamgegevens in aanvulling op [2.2.1](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=2&paragraaf=2.2&artikel=2.2.1&z=2016-05-12&g=2016-05-12) de gegevens, bedoeld in [2.1.4](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=2&paragraaf=2.1&artikel=2.1.4&z=2016-05-12&g=2016-05-12), ingeval van een wijziging van het aansluitingenregister die betrekking heeft op een kleinverbruikaansluiting.
+De netbeheerder vermeldt in de stamgegevens in aanvulling op [2.2.1](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=2&paragraaf=2.2&artikel=2.2.1&z=2016-07-27&g=2016-07-27) de gegevens, bedoeld in [2.1.4](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=2&paragraaf=2.1&artikel=2.1.4&z=2016-07-27&g=2016-07-27), ingeval van een wijziging van het aansluitingenregister die betrekking heeft op een kleinverbruikaansluiting.
 
 ##### 2.2.3
 
-De netbeheerder vermeldt in de stamgegevens in aanvulling op [2.2.1](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=2&paragraaf=2.2&artikel=2.2.1&z=2016-05-12&g=2016-05-12) de gegevens, bedoeld in [2.1.5](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=2&paragraaf=2.1&artikel=2.1.5&z=2016-05-12&g=2016-05-12), ingeval van een wijziging van het aansluitingenregister die betrekking heeft op een grootverbruikaansluiting.
+De netbeheerder vermeldt in de stamgegevens in aanvulling op [2.2.1](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=2&paragraaf=2.2&artikel=2.2.1&z=2016-07-27&g=2016-07-27) de gegevens, bedoeld in [2.1.5](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=2&paragraaf=2.1&artikel=2.1.5&z=2016-07-27&g=2016-07-27), ingeval van een wijziging van het aansluitingenregister die betrekking heeft op een grootverbruikaansluiting.
 
 ##### 2.2.4
 
-De netbeheerder verzendt de stamgegevens, bedoeld in [2.2.3](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=2&paragraaf=2.2&artikel=2.2.3&z=2016-05-12&g=2016-05-12), tevens aan de meetverantwoordelijke.
+De netbeheerder verzendt de stamgegevens, bedoeld in [2.2.3](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=2&paragraaf=2.2&artikel=2.2.3&z=2016-07-27&g=2016-07-27), tevens aan de meetverantwoordelijke.
 
 ##### 2.2.5
 
-In het bericht, bedoeld in [2.2.3](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=2&paragraaf=2.2&artikel=2.2.3&z=2016-05-12&g=2016-05-12), dient in plaats van het in [2.2.1, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=2&paragraaf=2.2&artikel=2.2.1&z=2016-05-12&g=2016-05-12), genoemde te worden gelezen: indien het een wijziging van leverancier of programmaverantwoordelijke of meetverantwoordelijke ten gevolge van een leverancierswitch, een inhuizing, een uithuizing, een eindelevering, een switch van programmaverantwoordelijke of een meetverantwoordelijkeswitch of een wisseling of wijziging van meetinrichting betreft, de identificatie van het desbetreffende mutatieproces.
+In het bericht, bedoeld in [2.2.3](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=2&paragraaf=2.2&artikel=2.2.3&z=2016-07-27&g=2016-07-27), dient in plaats van het in [2.2.1, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=2&paragraaf=2.2&artikel=2.2.1&z=2016-07-27&g=2016-07-27), genoemde te worden gelezen: indien het een wijziging van leverancier of programmaverantwoordelijke of meetverantwoordelijke ten gevolge van een leverancierswitch, een inhuizing, een uithuizing, een eindelevering, een switch van programmaverantwoordelijke of een meetverantwoordelijkeswitch of een wisseling of wijziging van meetinrichting betreft, de identificatie van het desbetreffende mutatieproces.
 
 ##### 2.2.6
 
-In afwijking van [2.2.1](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=2&paragraaf=2.2&artikel=2.2.1&z=2016-05-12&g=2016-05-12) verzendt de netbeheerder geen stamgegevens indien als gevolg van het proces 3.12 uitsluitend de gegevens, genoemd in [2.1.3, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=2&paragraaf=2.1&artikel=2.1.3&z=2016-05-12&g=2016-05-12), wijzigen.
+In afwijking van [2.2.1](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=2&paragraaf=2.2&artikel=2.2.1&z=2016-07-27&g=2016-07-27) verzendt de netbeheerder geen stamgegevens indien als gevolg van het proces 3.12 uitsluitend de gegevens, genoemd in [2.1.3, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=2&paragraaf=2.1&artikel=2.1.3&z=2016-07-27&g=2016-07-27), wijzigen.
 
 ##### 2.2.7
 
@@ -270,7 +270,7 @@ Naar aanleiding van de opvraag stamgegevens controleert de netbeheerder of:
 
 ##### 2.2.9
 
-De netbeheerder voert de opvraag stamgegevens niet uit en bericht het besluit de opvraag stamgegevens niet uit te voeren uiterlijk de werkdag na ontvangst van de opvraag stamgegevens aan de opvragende leverancier, programmaverantwoordelijke of meetverantwoordelijke, indien één of meer van de controles, genoemd in [2.2.8](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=2&paragraaf=2.2&artikel=2.2.8&z=2016-05-12&g=2016-05-12), een negatief resultaat opleveren. In het bericht wordt vermeld:
+De netbeheerder voert de opvraag stamgegevens niet uit en bericht het besluit de opvraag stamgegevens niet uit te voeren uiterlijk de werkdag na ontvangst van de opvraag stamgegevens aan de opvragende leverancier, programmaverantwoordelijke of meetverantwoordelijke, indien één of meer van de controles, genoemd in [2.2.8](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=2&paragraaf=2.2&artikel=2.2.8&z=2016-07-27&g=2016-07-27), een negatief resultaat opleveren. In het bericht wordt vermeld:
 
 - a. de bedrijfs-EAN-code van de opvragende partij;
 
@@ -290,13 +290,13 @@ De netbeheerder voert de opvraag stamgegevens niet uit en bericht het besluit de
 
 ##### 2.2.10
 
-Het antwoord op de opvraag stamgegevens, bedoeld in [2.2.7](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=2&paragraaf=2.2&artikel=2.2.7&z=2016-05-12&g=2016-05-12), bevat de volgende onderdelen:
+Het antwoord op de opvraag stamgegevens, bedoeld in [2.2.7](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=2&paragraaf=2.2&artikel=2.2.7&z=2016-07-27&g=2016-07-27), bevat de volgende onderdelen:
 
-- a. de gegevens, bedoeld in [2.1.3](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=2&paragraaf=2.1&artikel=2.1.3&z=2016-05-12&g=2016-05-12), met uitzondering van onderdeel a;
+- a. de gegevens, bedoeld in [2.1.3](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=2&paragraaf=2.1&artikel=2.1.3&z=2016-07-27&g=2016-07-27), met uitzondering van onderdeel a;
 
-- b. indien de opvraag van stamgegevens betrekking heeft op een kleinverbruikaansluiting: de gegevens, bedoeld in [2.1.4](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=2&paragraaf=2.1&artikel=2.1.4&z=2016-05-12&g=2016-05-12);
+- b. indien de opvraag van stamgegevens betrekking heeft op een kleinverbruikaansluiting: de gegevens, bedoeld in [2.1.4](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=2&paragraaf=2.1&artikel=2.1.4&z=2016-07-27&g=2016-07-27);
 
-- c. indien de opvraag van stamgegevens betrekking heeft op een grootverbruikaansluiting: de gegevens, bedoeld in [2.1.5](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=2&paragraaf=2.1&artikel=2.1.5&z=2016-05-12&g=2016-05-12);
+- c. indien de opvraag van stamgegevens betrekking heeft op een grootverbruikaansluiting: de gegevens, bedoeld in [2.1.5](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=2&paragraaf=2.1&artikel=2.1.5&z=2016-07-27&g=2016-07-27);
 
 - d. reden van verzending van stamgegevens, te weten: opvraag stamgegevens;
 
@@ -306,7 +306,7 @@ Het antwoord op de opvraag stamgegevens, bedoeld in [2.2.7](https://wetten.overh
 
 ##### 2.2.11
 
-De netbeheerder verstuurt de in [2.2.10](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=2&paragraaf=2.2&artikel=2.2.10&z=2016-05-12&g=2016-05-12) bedoelde stamgegevens, die betrekking hebben op de dag voorafgaand aan de dag van ontvangst van de opvraag, zo snel mogelijk doch uiterlijk de werkdag na ontvangst van de opvraag stamgegevens aan de opvragende leverancier, programmaverantwoordelijke of meetverantwoordelijke, indien alle controles, bedoeld in [2.2.8](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=2&paragraaf=2.2&artikel=2.2.8&z=2016-05-12&g=2016-05-12), een positief resultaat opleveren.
+De netbeheerder verstuurt de in [2.2.10](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=2&paragraaf=2.2&artikel=2.2.10&z=2016-07-27&g=2016-07-27) bedoelde stamgegevens, die betrekking hebben op de dag voorafgaand aan de dag van ontvangst van de opvraag, zo snel mogelijk doch uiterlijk de werkdag na ontvangst van de opvraag stamgegevens aan de opvragende leverancier, programmaverantwoordelijke of meetverantwoordelijke, indien alle controles, bedoeld in [2.2.8](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=2&paragraaf=2.2&artikel=2.2.8&z=2016-07-27&g=2016-07-27), een positief resultaat opleveren.
 
 #### 2.3. Het EAN-codeboek
 
@@ -320,25 +320,25 @@ De regionale netbeheerders zijn gezamenlijk verantwoordelijk voor de inrichting 
 
 ##### 2.3.2
 
-De regionale netbeheerders stellen in het openbare gedeelte van het EAN-codeboek, bedoeld in [2.3.1 onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=2&paragraaf=2.3&artikel=2.3.1&z=2016-05-12&g=2016-05-12), per aansluiting de volgende gegevens beschikbaar:
+De regionale netbeheerders stellen in het openbare gedeelte van het EAN-codeboek, bedoeld in [2.3.1 onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=2&paragraaf=2.3&artikel=2.3.1&z=2016-07-27&g=2016-07-27), per aansluiting de volgende gegevens beschikbaar:
 
 - a. de aanduiding of het een elektriciteits- of een gasaansluiting betreft;
 
-- b. de gegevens, bedoeld in [2.1.3, onderdelen b, d en e](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=2&paragraaf=2.1&artikel=2.1.3&z=2016-05-12&g=2016-05-12).
+- b. de gegevens, bedoeld in [2.1.3, onderdelen b, d en e](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=2&paragraaf=2.1&artikel=2.1.3&z=2016-07-27&g=2016-07-27).
 
 ##### 2.3.3
 
-De regionale netbeheerders stellen in het gesloten gedeelte van het EAN-codeboek, bedoeld in [2.3.1 onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=2&paragraaf=2.3&artikel=2.3.1&z=2016-05-12&g=2016-05-12), per aansluiting in aanvulling op de gegevens, bedoeld in [2.3.2](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=2&paragraaf=2.3&artikel=2.3.2&z=2016-05-12&g=2016-05-12), de volgende gegevens beschikbaar:
+De regionale netbeheerders stellen in het gesloten gedeelte van het EAN-codeboek, bedoeld in [2.3.1 onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=2&paragraaf=2.3&artikel=2.3.1&z=2016-07-27&g=2016-07-27), per aansluiting in aanvulling op de gegevens, bedoeld in [2.3.2](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=2&paragraaf=2.3&artikel=2.3.2&z=2016-07-27&g=2016-07-27), de volgende gegevens beschikbaar:
 
 - a. de datum van de laatste update van de gegevens omtrent de aansluiting;
 
-- b. de gegevens, bedoeld in [2.1.3, onderdelen c, j, l, m, p en q](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=2&paragraaf=2.1&artikel=2.1.3&z=2016-05-12&g=2016-05-12).
+- b. de gegevens, bedoeld in [2.1.3, onderdelen c, j, l, m, p en q](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=2&paragraaf=2.1&artikel=2.1.3&z=2016-07-27&g=2016-07-27).
 
-- c. in geval van een kleinverbruikaansluiting: de capaciteitstariefcode, bedoeld in [2.1.4 onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=2&paragraaf=2.1&artikel=2.1.4&z=2016-05-12&g=2016-05-12).
+- c. in geval van een kleinverbruikaansluiting: de capaciteitstariefcode, bedoeld in [2.1.4 onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=2&paragraaf=2.1&artikel=2.1.4&z=2016-07-27&g=2016-07-27).
 
 ##### 2.3.4
 
-De gegevens, bedoeld in [2.3.2](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=2&paragraaf=2.3&artikel=2.3.2&z=2016-05-12&g=2016-05-12) en [2.3.3](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=2&paragraaf=2.3&artikel=2.3.3&z=2016-05-12&g=2016-05-12), worden door de regionale netbeheerders online beschikbaar gesteld.
+De gegevens, bedoeld in [2.3.2](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=2&paragraaf=2.3&artikel=2.3.2&z=2016-07-27&g=2016-07-27) en [2.3.3](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=2&paragraaf=2.3&artikel=2.3.3&z=2016-07-27&g=2016-07-27), worden door de regionale netbeheerders online beschikbaar gesteld.
 
 #### 2.4. Het CalGos-boek
 
@@ -348,7 +348,7 @@ De regionale netbeheerders zijn gezamenlijk verantwoordelijk voor de inrichting 
 
 ##### 2.4.2
 
-De regionale netbeheerders stellen uiterlijk de achttiende werkdag van de maand per netgebied aan de leveranciers de maandgemiddelde calorische omrekenfactor van het naar dat netgebied getransporteerde gas van tenminste de maand voorafgaand aan de huidige maand online in het CalGos-boek, bedoeld in [2.4.1](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=2&paragraaf=2.4&artikel=2.4.1&z=2016-05-12&g=2016-05-12), beschikbaar.
+De regionale netbeheerders stellen uiterlijk de achttiende werkdag van de maand per netgebied aan de leveranciers de maandgemiddelde calorische omrekenfactor van het naar dat netgebied getransporteerde gas van tenminste de maand voorafgaand aan de huidige maand online in het CalGos-boek, bedoeld in [2.4.1](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=2&paragraaf=2.4&artikel=2.4.1&z=2016-07-27&g=2016-07-27), beschikbaar.
 
 #### 2.5. Het contracteindegegevensregister
 
@@ -362,11 +362,11 @@ De regionale netbeheerders zijn gezamenlijk verantwoordelijk voor de inrichting 
 
 ##### 2.5.2
 
-De leverancier vraagt bij de kleinverbruiker een machtiging om de gegevens omtrent de leveringsovereenkomst, bedoeld in [2.5.3](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=2&paragraaf=2.5&artikel=2.5.3&z=2016-05-12&g=2016-05-12), in het contracteindegegevensregister, bedoeld in [2.5.1](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=2&paragraaf=2.5&artikel=2.5.1&z=2016-05-12&g=2016-05-12), op te nemen.
+De leverancier vraagt bij de kleinverbruiker een machtiging om de gegevens omtrent de leveringsovereenkomst, bedoeld in [2.5.3](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=2&paragraaf=2.5&artikel=2.5.3&z=2016-07-27&g=2016-07-27), in het contracteindegegevensregister, bedoeld in [2.5.1](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=2&paragraaf=2.5&artikel=2.5.1&z=2016-07-27&g=2016-07-27), op te nemen.
 
 ##### 2.5.3
 
-Een leverancier, die levert aan kleinverbruikers, stelt per actuele en toekomstige leveringsovereenkomst met een kleinverbruiker die hiervoor een machtiging, bedoeld in [2.5.2](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=2&paragraaf=2.5&artikel=2.5.2&z=2016-05-12&g=2016-05-12), heeft afgegeven, de volgende contractgegevens ter beschikking voor opname in het in [2.5.1](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=2&paragraaf=2.5&artikel=2.5.1&z=2016-05-12&g=2016-05-12) bedoelde register:
+Een leverancier, die levert aan kleinverbruikers, stelt per actuele en toekomstige leveringsovereenkomst met een kleinverbruiker die hiervoor een machtiging, bedoeld in [2.5.2](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=2&paragraaf=2.5&artikel=2.5.2&z=2016-07-27&g=2016-07-27), heeft afgegeven, de volgende contractgegevens ter beschikking voor opname in het in [2.5.1](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=2&paragraaf=2.5&artikel=2.5.1&z=2016-07-27&g=2016-07-27) bedoelde register:
 
 - a. de EAN-code van de aansluiting;
 
@@ -378,11 +378,11 @@ Een leverancier, die levert aan kleinverbruikers, stelt per actuele en toekomsti
 
 ##### 2.5.4
 
-De gegevens in het in [2.5.1](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=2&paragraaf=2.5&artikel=2.5.1&z=2016-05-12&g=2016-05-12) bedoelde register worden tenminste eenmaal per vijf werkdagen geactualiseerd.
+De gegevens in het in [2.5.1](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=2&paragraaf=2.5&artikel=2.5.1&z=2016-07-27&g=2016-07-27) bedoelde register worden tenminste eenmaal per vijf werkdagen geactualiseerd.
 
 ##### 2.5.5
 
-De contracteindegegevens van een bepaalde kleinverbruiker, bedoeld in [2.5.3](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=2&paragraaf=2.5&artikel=2.5.3&z=2016-05-12&g=2016-05-12), zijn uitsluitend opvraagbaar door een leverancier die beschikt over een machtiging daartoe van de desbetreffende kleinverbruiker.
+De contracteindegegevens van een bepaalde kleinverbruiker, bedoeld in [2.5.3](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=2&paragraaf=2.5&artikel=2.5.3&z=2016-07-27&g=2016-07-27), zijn uitsluitend opvraagbaar door een leverancier die beschikt over een machtiging daartoe van de desbetreffende kleinverbruiker.
 
 #### 2.6. Het toegankelijk meetregister
 
@@ -392,23 +392,23 @@ De regionale netbeheerders zijn gezamenlijk verantwoordelijk voor de inrichting 
 
 ##### 2.6.2
 
-De regionale netbeheerders stellen, per EAN-code van een kleinverbruikaansluiting, in het toegankelijk meetregister, bedoeld in [2.6.1](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=2&paragraaf=2.6&artikel=2.6.1&z=2016-05-12&g=2016-05-12), de volgende gegevens beschikbaar:
+De regionale netbeheerders stellen, per EAN-code van een kleinverbruikaansluiting, in het toegankelijk meetregister, bedoeld in [2.6.1](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=2&paragraaf=2.6&artikel=2.6.1&z=2016-07-27&g=2016-07-27), de volgende gegevens beschikbaar:
 
 - a. de EAN-code van de aansluiting;
 
-- b. de meterstanden bedoeld in [5.1.4.1](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=5&paragraaf=5.1&sub-paragraaf=5.1.4&artikel=5.1.4.1&z=2016-05-12&g=2016-05-12), [5.2.2.3](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=5&paragraaf=5.2&sub-paragraaf=5.2.2&artikel=5.2.2.3&z=2016-05-12&g=2016-05-12) en [5.3.4.3](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=5&paragraaf=5.3&sub-paragraaf=5.3.4&artikel=5.3.4.3&z=2016-05-12&g=2016-05-12);
+- b. de meterstanden bedoeld in [5.1.4.1](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=5&paragraaf=5.1&sub-paragraaf=5.1.4&artikel=5.1.4.1&z=2016-07-27&g=2016-07-27), [5.2.2.3](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=5&paragraaf=5.2&sub-paragraaf=5.2.2&artikel=5.2.2.3&z=2016-07-27&g=2016-07-27) en [5.3.4.3](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=5&paragraaf=5.3&sub-paragraaf=5.3.4&artikel=5.3.4.3&z=2016-07-27&g=2016-07-27);
 
-- c. indien bepaald op basis van de meterstanden, bedoeld in [2.6.2, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=2&paragraaf=2.6&artikel=2.6.2&z=2016-05-12&g=2016-05-12): de verbruiken, bedoeld in [5.3.4.4](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=5&paragraaf=5.3&sub-paragraaf=5.3.4&artikel=5.3.4.4&z=2016-05-12&g=2016-05-12).
+- c. indien bepaald op basis van de meterstanden, bedoeld in [2.6.2, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=2&paragraaf=2.6&artikel=2.6.2&z=2016-07-27&g=2016-07-27): de verbruiken, bedoeld in [5.3.4.4](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=5&paragraaf=5.3&sub-paragraaf=5.3.4&artikel=5.3.4.4&z=2016-07-27&g=2016-07-27).
 
 ##### 2.6.3
 
-De gegevens van een bepaalde kleinverbruiker in het toegankelijk meetregister, bedoeld in [2.6.2](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=2&paragraaf=2.6&artikel=2.6.2&z=2016-05-12&g=2016-05-12), zijn uitsluitend opvraagbaar door:
+De gegevens van een bepaalde kleinverbruiker in het toegankelijk meetregister, bedoeld in [2.6.2](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=2&paragraaf=2.6&artikel=2.6.2&z=2016-07-27&g=2016-07-27), zijn uitsluitend opvraagbaar door:
 
 - a. de leverancier die op dat moment een leveringsovereenkomst heeft met de desbetreffende kleinverbruiker;
 
 - b. de leverancier van de desbetreffende kleinverbruiker, waarvan de leveringsovereenkomst is beëindigd, tot het moment waarop de eindfactuur of een dispuut over de eindstand is afgehandeld;
 
-- c. een andere dan de in onderdeel a of b bedoelde leverancier indien deze beschikt over de in [3.1.1.1](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=3&paragraaf=3.1&sub-paragraaf=3.1.1&artikel=3.1.1.1&z=2016-05-12&g=2016-05-12) of [3.3.1.1](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=3&paragraaf=3.3&sub-paragraaf=3.3.1&artikel=3.3.1.1&z=2016-05-12&g=2016-05-12) bedoelde machtiging van de desbetreffende kleinverbruiker.
+- c. een andere dan de in onderdeel a of b bedoelde leverancier indien deze beschikt over de in [3.1.1.1](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=3&paragraaf=3.1&sub-paragraaf=3.1.1&artikel=3.1.1.1&z=2016-07-27&g=2016-07-27) of [3.3.1.1](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=3&paragraaf=3.3&sub-paragraaf=3.3.1&artikel=3.3.1.1&z=2016-07-27&g=2016-07-27) bedoelde machtiging van de desbetreffende kleinverbruiker.
 
 #### 2.7. Het netbeheerdersregister
 
@@ -418,7 +418,7 @@ De regionale netbeheerders zijn gezamenlijk verantwoordelijk voor de inrichting 
 
 ##### 2.7.2
 
-De regionale netbeheerders stellen in het netbeheerdersregister, bedoeld in [2.7.1](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=2&paragraaf=2.7&artikel=2.7.1&z=2016-05-12&g=2016-05-12), aan leveranciers, programmaverantwoordelijken en meetverantwoordelijken de volgende gegevens online beschikbaar:
+De regionale netbeheerders stellen in het netbeheerdersregister, bedoeld in [2.7.1](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=2&paragraaf=2.7&artikel=2.7.1&z=2016-07-27&g=2016-07-27), aan leveranciers, programmaverantwoordelijken en meetverantwoordelijken de volgende gegevens online beschikbaar:
 
 - a. de bedrijfsnaam;
 
@@ -440,23 +440,23 @@ De regionale netbeheerders stellen in het netbeheerdersregister, bedoeld in [2.7
 
 ##### 2.7.3
 
-In het netbeheerdersregister, bedoeld in [2.7.1](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=2&paragraaf=2.7&artikel=2.7.1&z=2016-05-12&g=2016-05-12), wordt van de gegevens, bedoeld in [2.7.2](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=2&paragraaf=2.7&artikel=2.7.2&z=2016-05-12&g=2016-05-12), tevens de begindatum en, indien bekend, de einddatum van de geldigheid van de gegevens per gegeven vastgelegd.
+In het netbeheerdersregister, bedoeld in [2.7.1](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=2&paragraaf=2.7&artikel=2.7.1&z=2016-07-27&g=2016-07-27), wordt van de gegevens, bedoeld in [2.7.2](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=2&paragraaf=2.7&artikel=2.7.2&z=2016-07-27&g=2016-07-27), tevens de begindatum en, indien bekend, de einddatum van de geldigheid van de gegevens per gegeven vastgelegd.
 
 ##### 2.7.4
 
-Bij een nieuwe registratie in het netbeheerdersregister, bedoeld in [2.7.1](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=2&paragraaf=2.7&artikel=2.7.1&z=2016-05-12&g=2016-05-12), stelt de netbeheerder de gegevens, bedoeld in [2.7.2, onderdelen a tot en met h](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=2&paragraaf=2.7&artikel=2.7.2&z=2016-05-12&g=2016-05-12) tenminste één maand en de gegevens, bedoeld in 2.7.2 onderdeel i tenminste vijf werkdagen voor de beoogde ingangsdatum beschikbaar in netbeheerdersregister onder vermelding van de eerste geldigheidsdatum van de gegevens.
+Bij een nieuwe registratie in het netbeheerdersregister, bedoeld in [2.7.1](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=2&paragraaf=2.7&artikel=2.7.1&z=2016-07-27&g=2016-07-27), stelt de netbeheerder de gegevens, bedoeld in [2.7.2, onderdelen a tot en met h](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=2&paragraaf=2.7&artikel=2.7.2&z=2016-07-27&g=2016-07-27) tenminste één maand en de gegevens, bedoeld in 2.7.2 onderdeel i tenminste vijf werkdagen voor de beoogde ingangsdatum beschikbaar in netbeheerdersregister onder vermelding van de eerste geldigheidsdatum van de gegevens.
 
 ##### 2.7.5
 
-Bij de wijziging van een bestaande registratie in het netbeheerdersregister, bedoeld in [2.7.1](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=2&paragraaf=2.7&artikel=2.7.1&z=2016-05-12&g=2016-05-12), stelt de netbeheerder wijzigingen in de gegevens, bedoeld in [2.7.2, onderdelen a tot en met h](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=2&paragraaf=2.7&artikel=2.7.2&z=2016-05-12&g=2016-05-12) tenminste één maand en wijzigingen in de gegevens, bedoeld in 2.7.2 onderdeel i tenminste vijf werkdagen voor de beoogde wijzigingsdatum beschikbaar in het netbeheerdersregister onder vermelding van de ingangsdatum van de wijzigingen.
+Bij de wijziging van een bestaande registratie in het netbeheerdersregister, bedoeld in [2.7.1](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=2&paragraaf=2.7&artikel=2.7.1&z=2016-07-27&g=2016-07-27), stelt de netbeheerder wijzigingen in de gegevens, bedoeld in [2.7.2, onderdelen a tot en met h](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=2&paragraaf=2.7&artikel=2.7.2&z=2016-07-27&g=2016-07-27) tenminste één maand en wijzigingen in de gegevens, bedoeld in 2.7.2 onderdeel i tenminste vijf werkdagen voor de beoogde wijzigingsdatum beschikbaar in het netbeheerdersregister onder vermelding van de ingangsdatum van de wijzigingen.
 
 ##### 2.7.6
 
-In aanvulling op het beschikbaar stellen van de gegevens, bedoeld in [2.7.4](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=2&paragraaf=2.7&artikel=2.7.4&z=2016-05-12&g=2016-05-12) en [2.7.5](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=2&paragraaf=2.7&artikel=2.7.5&z=2016-05-12&g=2016-05-12), communiceert de netbeheerder de gegevens overeenkomstig de termijnen, bedoeld in 2.7.4 en 2.7.5, rechtstreeks aan de leveranciers, geregistreerd in het leveranciersregister, bedoeld in [2.8.1](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=2&paragraaf=2.8&artikel=2.8.1&z=2016-05-12&g=2016-05-12).
+In aanvulling op het beschikbaar stellen van de gegevens, bedoeld in [2.7.4](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=2&paragraaf=2.7&artikel=2.7.4&z=2016-07-27&g=2016-07-27) en [2.7.5](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=2&paragraaf=2.7&artikel=2.7.5&z=2016-07-27&g=2016-07-27), communiceert de netbeheerder de gegevens overeenkomstig de termijnen, bedoeld in 2.7.4 en 2.7.5, rechtstreeks aan de leveranciers, geregistreerd in het leveranciersregister, bedoeld in [2.8.1](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=2&paragraaf=2.8&artikel=2.8.1&z=2016-07-27&g=2016-07-27).
 
 ##### 2.7.7
 
-De gegevens, bedoeld in [2.7.2](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=2&paragraaf=2.7&artikel=2.7.2&z=2016-05-12&g=2016-05-12) en [2.7.3](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=2&paragraaf=2.7&artikel=2.7.3&z=2016-05-12&g=2016-05-12), worden bewaard voor een termijn van minstens zeven jaar, ingaande vanaf de datum van beëindiging van de geldigheid van de gegevens.
+De gegevens, bedoeld in [2.7.2](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=2&paragraaf=2.7&artikel=2.7.2&z=2016-07-27&g=2016-07-27) en [2.7.3](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=2&paragraaf=2.7&artikel=2.7.3&z=2016-07-27&g=2016-07-27), worden bewaard voor een termijn van minstens zeven jaar, ingaande vanaf de datum van beëindiging van de geldigheid van de gegevens.
 
 ##### 2.7.8
 
@@ -464,7 +464,7 @@ Een regionale netbeheerder kan de geldigheid van zijn gegevens in het netbeheerd
 
 - a. er in het aansluitingenregister geen actieve aansluitingen zijn opgenomen met verwijzingen naar de bedrijfs-EAN-code van de betreffende netbeheerder, en;
 
-- b. er geen verplichtingen op gebied van facturering en afdracht, als bedoeld in [paragraaf 8.2](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=8&paragraaf=8.2&z=2016-05-12&g=2016-05-12), meer bestaan tussen de netbeheerder en enig leverancier.
+- b. er geen verplichtingen op gebied van facturering en afdracht, als bedoeld in [paragraaf 8.2](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=8&paragraaf=8.2&z=2016-07-27&g=2016-07-27), meer bestaan tussen de netbeheerder en enig leverancier.
 
 #### 2.8. Het leveranciersregister
 
@@ -474,7 +474,7 @@ De regionale netbeheerders zijn gezamenlijk verantwoordelijk voor de inrichting 
 
 ##### 2.8.2
 
-De leveranciers stellen in het leveranciersregister, bedoeld in [2.8.1](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=2&paragraaf=2.8&artikel=2.8.1&z=2016-05-12&g=2016-05-12), aan de netbeheerders, programmaverantwoordelijken en meetverantwoordelijken, voor zover van toepassing voor elektriciteit en gas afzonderlijk per bedrijfs-EAN-code, de volgende gegevens online beschikbaar:
+De leveranciers stellen in het leveranciersregister, bedoeld in [2.8.1](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=2&paragraaf=2.8&artikel=2.8.1&z=2016-07-27&g=2016-07-27), aan de netbeheerders, programmaverantwoordelijken en meetverantwoordelijken, voor zover van toepassing voor elektriciteit en gas afzonderlijk per bedrijfs-EAN-code, de volgende gegevens online beschikbaar:
 
 - a. de bedrijfs-EAN-code waarmee de leverancier zich in het berichtenverkeer identificeert;
 
@@ -502,23 +502,23 @@ De leveranciers stellen in het leveranciersregister, bedoeld in [2.8.1](https://
 
 ##### 2.8.3
 
-In het leveranciersregister, bedoeld in [2.8.1](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=2&paragraaf=2.8&artikel=2.8.1&z=2016-05-12&g=2016-05-12), wordt van de gegevens, bedoeld in [2.8.2](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=2&paragraaf=2.8&artikel=2.8.2&z=2016-05-12&g=2016-05-12), tevens de begindatum en, indien bekend, de einddatum van de geldigheid van de gegevens per gegeven vastgelegd.
+In het leveranciersregister, bedoeld in [2.8.1](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=2&paragraaf=2.8&artikel=2.8.1&z=2016-07-27&g=2016-07-27), wordt van de gegevens, bedoeld in [2.8.2](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=2&paragraaf=2.8&artikel=2.8.2&z=2016-07-27&g=2016-07-27), tevens de begindatum en, indien bekend, de einddatum van de geldigheid van de gegevens per gegeven vastgelegd.
 
 ##### 2.8.4
 
-Bij een nieuwe registratie in het leveranciersregister, bedoeld in [2.8.1](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=2&paragraaf=2.8&artikel=2.8.1&z=2016-05-12&g=2016-05-12), stelt de leverancier de gegevens, bedoeld in [2.8.2, onderdelen a tot en met j en l](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=2&paragraaf=2.8&artikel=2.8.2&z=2016-05-12&g=2016-05-12) tenminste één maand en de gegevens, bedoeld in 2.8.2 onderdeel k tenminste vijf werkdagen voor de beoogde ingangsdatum beschikbaar in het leveranciersregister onder vermelding van de eerste geldigheidsdatum van de gegevens.
+Bij een nieuwe registratie in het leveranciersregister, bedoeld in [2.8.1](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=2&paragraaf=2.8&artikel=2.8.1&z=2016-07-27&g=2016-07-27), stelt de leverancier de gegevens, bedoeld in [2.8.2, onderdelen a tot en met j en l](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=2&paragraaf=2.8&artikel=2.8.2&z=2016-07-27&g=2016-07-27) tenminste één maand en de gegevens, bedoeld in 2.8.2 onderdeel k tenminste vijf werkdagen voor de beoogde ingangsdatum beschikbaar in het leveranciersregister onder vermelding van de eerste geldigheidsdatum van de gegevens.
 
 ##### 2.8.5
 
-Bij de wijziging van een bestaande registratie in het leveranciersregister, bedoeld in [2.8.1](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=2&paragraaf=2.8&artikel=2.8.1&z=2016-05-12&g=2016-05-12), stelt de leverancier wijzigingen in de gegevens, bedoeld in [2.8.2, onderdelen a tot en met j en l](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=2&paragraaf=2.8&artikel=2.8.2&z=2016-05-12&g=2016-05-12) tenminste één maand en wijzigingen in de gegevens, bedoeld in 2.8.2 onderdeel k tenminste vijf werkdagen voor de beoogde wijzigingsdatum beschikbaar in het leveranciersregister onder vermelding van de ingangsdatum van de wijzigingen. De leveranciers geven opnieuw een verklaring als bedoeld in 2.8.2, onderdeel l, af indien de wijzigingen daartoe aanleiding geven.
+Bij de wijziging van een bestaande registratie in het leveranciersregister, bedoeld in [2.8.1](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=2&paragraaf=2.8&artikel=2.8.1&z=2016-07-27&g=2016-07-27), stelt de leverancier wijzigingen in de gegevens, bedoeld in [2.8.2, onderdelen a tot en met j en l](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=2&paragraaf=2.8&artikel=2.8.2&z=2016-07-27&g=2016-07-27) tenminste één maand en wijzigingen in de gegevens, bedoeld in 2.8.2 onderdeel k tenminste vijf werkdagen voor de beoogde wijzigingsdatum beschikbaar in het leveranciersregister onder vermelding van de ingangsdatum van de wijzigingen. De leveranciers geven opnieuw een verklaring als bedoeld in 2.8.2, onderdeel l, af indien de wijzigingen daartoe aanleiding geven.
 
 ##### 2.8.6
 
-In aanvulling op het beschikbaar stellen van de gegevens, bedoeld in [2.8.4](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=2&paragraaf=2.8&artikel=2.8.4&z=2016-05-12&g=2016-05-12) en [2.8.5](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=2&paragraaf=2.8&artikel=2.8.5&z=2016-05-12&g=2016-05-12), communiceert de leverancier de gegevens overeenkomstig de termijnen, bedoeld in 2.8.4 en 2.8.5, rechtstreeks aan de netbeheerders, geregistreerd in het netbeheerdersregister, bedoeld in [2.7.1](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=2&paragraaf=2.7&artikel=2.7.1&z=2016-05-12&g=2016-05-12).
+In aanvulling op het beschikbaar stellen van de gegevens, bedoeld in [2.8.4](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=2&paragraaf=2.8&artikel=2.8.4&z=2016-07-27&g=2016-07-27) en [2.8.5](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=2&paragraaf=2.8&artikel=2.8.5&z=2016-07-27&g=2016-07-27), communiceert de leverancier de gegevens overeenkomstig de termijnen, bedoeld in 2.8.4 en 2.8.5, rechtstreeks aan de netbeheerders, geregistreerd in het netbeheerdersregister, bedoeld in [2.7.1](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=2&paragraaf=2.7&artikel=2.7.1&z=2016-07-27&g=2016-07-27).
 
 ##### 2.8.7
 
-De gegevens, bedoeld in [2.8.2](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=2&paragraaf=2.8&artikel=2.8.2&z=2016-05-12&g=2016-05-12) en [2.8.3](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=2&paragraaf=2.8&artikel=2.8.3&z=2016-05-12&g=2016-05-12), worden bewaard voor een termijn van minstens zeven jaar, ingaande vanaf de datum van beëindiging van de geldigheid van de gegevens.
+De gegevens, bedoeld in [2.8.2](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=2&paragraaf=2.8&artikel=2.8.2&z=2016-07-27&g=2016-07-27) en [2.8.3](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=2&paragraaf=2.8&artikel=2.8.3&z=2016-07-27&g=2016-07-27), worden bewaard voor een termijn van minstens zeven jaar, ingaande vanaf de datum van beëindiging van de geldigheid van de gegevens.
 
 ##### 2.8.8
 
@@ -526,7 +526,7 @@ Een leverancier kan de geldigheid van zijn gegevens in het leveranciersregister 
 
 - a. er in het aansluitingenregister geen actieve aansluitingen zijn opgenomen met verwijzingen naar de bedrijfs-EAN-code van de betreffende leverancier, en;
 
-- b. de leverancier aan alle verplichtingen op gebied van facturering en afdracht, als bedoeld in [paragraaf 8.2](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=8&paragraaf=8.2&z=2016-05-12&g=2016-05-12), heeft voldaan.
+- b. de leverancier aan alle verplichtingen op gebied van facturering en afdracht, als bedoeld in [paragraaf 8.2](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=8&paragraaf=8.2&z=2016-07-27&g=2016-07-27), heeft voldaan.
 
 #### 2.9. Opvragen gegevens ten behoeve van compensatievergoedingen kleinverbruikaansluitingen
 
@@ -538,7 +538,7 @@ De netbeheerder kan ten behoeve van de uitbetaling van compensatievergoedingen, 
 
 ##### 2.9.1.2
 
-De netbeheerder stuurt per leverancier, voor de aansluitingen waarop de leverancier op het moment van het optreden van de storing, bedoeld in [2.9.1.1](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=2&paragraaf=2.9&sub-paragraaf=2.9.1&artikel=2.9.1.1&z=2016-05-12&g=2016-05-12), in het aansluitingenregister geregistreerd is, een verzoek om gegevens ten behoeve van compensatievergoeding voor de in 2.9.1.1 bedoelde aansluitingen. In dit bericht worden de volgende gegevens vermeld:
+De netbeheerder stuurt per leverancier, voor de aansluitingen waarop de leverancier op het moment van het optreden van de storing, bedoeld in [2.9.1.1](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=2&paragraaf=2.9&sub-paragraaf=2.9.1&artikel=2.9.1.1&z=2016-07-27&g=2016-07-27), in het aansluitingenregister geregistreerd is, een verzoek om gegevens ten behoeve van compensatievergoeding voor de in 2.9.1.1 bedoelde aansluitingen. In dit bericht worden de volgende gegevens vermeld:
 
 - a. de bedrijfs-EAN-code van de netbeheerder;
 
@@ -554,7 +554,7 @@ De netbeheerder stuurt per leverancier, voor de aansluitingen waarop de leveranc
 
 ##### 2.9.2.1
 
-De leverancier stuurt de netbeheerder uiterlijk tien werkdagen na ontvangst van de opvraag, bedoeld in [2.9.1.2](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=2&paragraaf=2.9&sub-paragraaf=2.9.1&artikel=2.9.1.2&z=2016-05-12&g=2016-05-12), de gegevens ten behoeve van compensatievergoedingen. In dit bericht worden de volgende gegevens vermeld:
+De leverancier stuurt de netbeheerder uiterlijk tien werkdagen na ontvangst van de opvraag, bedoeld in [2.9.1.2](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=2&paragraaf=2.9&sub-paragraaf=2.9.1&artikel=2.9.1.2&z=2016-07-27&g=2016-07-27), de gegevens ten behoeve van compensatievergoedingen. In dit bericht worden de volgende gegevens vermeld:
 
 - a. de bedrijfs-EAN-code van de netbeheerder;
 
@@ -562,7 +562,7 @@ De leverancier stuurt de netbeheerder uiterlijk tien werkdagen na ontvangst van 
 
 - c. indien aangeleverd in de opvraag: het referentienummer van de netbeheerder.
 
-Per aansluiting waarvoor de opvraag, bedoeld in [2.9.1.2](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=2&paragraaf=2.9&sub-paragraaf=2.9.1&artikel=2.9.1.2&z=2016-05-12&g=2016-05-12), is ingediend:
+Per aansluiting waarvoor de opvraag, bedoeld in [2.9.1.2](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=2&paragraaf=2.9&sub-paragraaf=2.9.1&artikel=2.9.1.2&z=2016-07-27&g=2016-07-27), is ingediend:
 
 - d. de EAN-code van de aansluiting;
 
@@ -586,11 +586,11 @@ Per aansluiting waarvoor de opvraag, bedoeld in [2.9.1.2](https://wetten.overhei
 
 ##### 2.10.1
 
-De netbeheerder is gerechtigd om maximaal twee keer per jaar een controle van de naamsgegevens van de aangeslotene, bedoeld in [2.1.3 onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=2&paragraaf=2.1&artikel=2.1.3&z=2016-05-12&g=2016-05-12), uit te voeren.
+De netbeheerder is gerechtigd om maximaal twee keer per jaar een controle van de naamsgegevens van de aangeslotene, bedoeld in [2.1.3 onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=2&paragraaf=2.1&artikel=2.1.3&z=2016-07-27&g=2016-07-27), uit te voeren.
 
 ##### 2.10.2
 
-De netbeheerder vraagt voor de uitvoering van de controle, bedoeld in [2.10.1](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=2&paragraaf=2.10&artikel=2.10.1&z=2016-05-12&g=2016-05-12), per leverancier de naamsgegevens van de aangeslotenen op voor alle kleinverbruikaansluitingen waarvoor de leverancier in het aansluitingenregister verantwoordelijk is. In afwijking van [paragraaf 9.1](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=9&paragraaf=9.1&z=2016-05-12&g=2016-05-12) vindt deze informatie-uitwisseling niet plaats via het geautomatiseerde berichtenverkeer.
+De netbeheerder vraagt voor de uitvoering van de controle, bedoeld in [2.10.1](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=2&paragraaf=2.10&artikel=2.10.1&z=2016-07-27&g=2016-07-27), per leverancier de naamsgegevens van de aangeslotenen op voor alle kleinverbruikaansluitingen waarvoor de leverancier in het aansluitingenregister verantwoordelijk is. In afwijking van [paragraaf 9.1](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=9&paragraaf=9.1&z=2016-07-27&g=2016-07-27) vindt deze informatie-uitwisseling niet plaats via het geautomatiseerde berichtenverkeer.
 
 ##### 2.10.3
 
@@ -602,11 +602,11 @@ De netbeheerder controleert de ontvangen naamsgegevens van de leverancier ten op
 
 ##### 2.10.5
 
-De leverancier stuurt voor de aansluitingen waarbij de netbeheerder een verschil in naam heeft geconstateerd een wijziging naam of verblijfsfunctie of complexbepaling overeenkomstig [paragraaf 3.12](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=3&paragraaf=3.12&z=2016-05-12&g=2016-05-12) aan de netbeheerder.
+De leverancier stuurt voor de aansluitingen waarbij de netbeheerder een verschil in naam heeft geconstateerd een wijziging naam of verblijfsfunctie of complexbepaling overeenkomstig [paragraaf 3.12](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=3&paragraaf=3.12&z=2016-07-27&g=2016-07-27) aan de netbeheerder.
 
 ##### 2.10.6
 
-Voor elke controle, waarbij het percentage geconstateerde verschillen in naam groter is dan één procent van het totaal aantal kleinverbruikaansluitingen in de controle, is de netbeheerder voor de leverancier waarbij dit is geconstateerd gerechtigd een extra controle uit te voeren in aanvulling op het maximale aantal controles in de periode, bedoeld in [2.10.1](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=2&paragraaf=2.10&artikel=2.10.1&z=2016-05-12&g=2016-05-12).
+Voor elke controle, waarbij het percentage geconstateerde verschillen in naam groter is dan één procent van het totaal aantal kleinverbruikaansluitingen in de controle, is de netbeheerder voor de leverancier waarbij dit is geconstateerd gerechtigd een extra controle uit te voeren in aanvulling op het maximale aantal controles in de periode, bedoeld in [2.10.1](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=2&paragraaf=2.10&artikel=2.10.1&z=2016-07-27&g=2016-07-27).
 
 #### 2.11. Wijzigen en opvraag van gegevens van het primaire deel van de meetinrichting
 
@@ -634,7 +634,7 @@ Naar aanleiding van de ontvangen opvraag gegevens van het primaire deel van de m
 
 ##### 2.11.3
 
-De opvraag gegevens van het primaire deel van de meetinrichting wordt niet uitgevoerd als één of meer van de controles, bedoeld in [2.11.2](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=2&paragraaf=2.11&artikel=2.11.2&z=2016-05-12&g=2016-05-12), een negatief resultaat opleveren. De netbeheerder bericht dit uiterlijk de werkdag na ontvangst van de opvraag gegevens van het primaire deel van de meetinrichting aan de opvragende meetverantwoordelijke en vermeldt daarbij:
+De opvraag gegevens van het primaire deel van de meetinrichting wordt niet uitgevoerd als één of meer van de controles, bedoeld in [2.11.2](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=2&paragraaf=2.11&artikel=2.11.2&z=2016-07-27&g=2016-07-27), een negatief resultaat opleveren. De netbeheerder bericht dit uiterlijk de werkdag na ontvangst van de opvraag gegevens van het primaire deel van de meetinrichting aan de opvragende meetverantwoordelijke en vermeldt daarbij:
 
 - a. de EAN-code van de aansluiting;
 
@@ -654,7 +654,7 @@ De opvraag gegevens van het primaire deel van de meetinrichting wordt niet uitge
 
 ##### 2.11.4
 
-De netbeheerder stuurt de volgende gegevens uiterlijk vijf werkdagen na ontvangst van de opvraag, bedoeld in [2.11.1](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=2&paragraaf=2.11&artikel=2.11.1&z=2016-05-12&g=2016-05-12), aan de opvragende meetverantwoordelijke indien alle controles, bedoeld in [2.11.2](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=2&paragraaf=2.11&artikel=2.11.2&z=2016-05-12&g=2016-05-12), een positief resultaat opleveren en de opvraag betrekking heeft op een elektriciteitsaansluiting:
+De netbeheerder stuurt de volgende gegevens uiterlijk vijf werkdagen na ontvangst van de opvraag, bedoeld in [2.11.1](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=2&paragraaf=2.11&artikel=2.11.1&z=2016-07-27&g=2016-07-27), aan de opvragende meetverantwoordelijke indien alle controles, bedoeld in [2.11.2](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=2&paragraaf=2.11&artikel=2.11.2&z=2016-07-27&g=2016-07-27), een positief resultaat opleveren en de opvraag betrekking heeft op een elektriciteitsaansluiting:
 
 - a. de EAN-code van de aansluiting;
 
@@ -672,7 +672,7 @@ De netbeheerder stuurt de volgende gegevens uiterlijk vijf werkdagen na ontvangs
 
 ##### 2.11.5
 
-De netbeheerder stuurt de volgende gegevens uiterlijk vijf werkdagen na ontvangst van de opvraag, bedoeld in [2.11.1](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=2&paragraaf=2.11&artikel=2.11.1&z=2016-05-12&g=2016-05-12), aan de opvragende meetverantwoordelijke indien alle controles, bedoeld in [2.11.2](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=2&paragraaf=2.11&artikel=2.11.2&z=2016-05-12&g=2016-05-12), een positief resultaat opleveren en de opvraag betrekking heeft op een gasaansluiting:
+De netbeheerder stuurt de volgende gegevens uiterlijk vijf werkdagen na ontvangst van de opvraag, bedoeld in [2.11.1](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=2&paragraaf=2.11&artikel=2.11.1&z=2016-07-27&g=2016-07-27), aan de opvragende meetverantwoordelijke indien alle controles, bedoeld in [2.11.2](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=2&paragraaf=2.11&artikel=2.11.2&z=2016-07-27&g=2016-07-27), een positief resultaat opleveren en de opvraag betrekking heeft op een gasaansluiting:
 
 - a. de EAN-code van de aansluiting;
 
@@ -694,9 +694,9 @@ De netbeheerder verzendt uiterlijk de werkdag volgend op de dag dat één of mee
 
 - a. de reden van verzending van de gegevens, te weten ‘wijziging gegevens’;
 
-- b. indien het een elektriciteitsaansluiting betreft: de gegevens bedoeld in [2.11.4](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=2&paragraaf=2.11&artikel=2.11.4&z=2016-05-12&g=2016-05-12), met uitzondering van onderdeel g;
+- b. indien het een elektriciteitsaansluiting betreft: de gegevens bedoeld in [2.11.4](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=2&paragraaf=2.11&artikel=2.11.4&z=2016-07-27&g=2016-07-27), met uitzondering van onderdeel g;
 
-- c. indien het een gasaansluiting betreft: de gegevens bedoeld in [2.11.5](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=2&paragraaf=2.11&artikel=2.11.5&z=2016-05-12&g=2016-05-12), met uitzondering van onderdeel g.
+- c. indien het een gasaansluiting betreft: de gegevens bedoeld in [2.11.5](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=2&paragraaf=2.11&artikel=2.11.5&z=2016-07-27&g=2016-07-27), met uitzondering van onderdeel g.
 
 #### 2.12. Blokkeren van automatische mutaties op grootverbruikaansluitingen
 
@@ -706,15 +706,15 @@ Een aangeslotene met een grootverbruikaansluiting elektriciteit met een aansluit
 
 ##### 2.12.2
 
-Een aangeslotene mandateert een leverancier om de blokkade op automatische verwerking, bedoeld in [2.12.1](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=2&paragraaf=2.12&artikel=2.12.1&z=2016-05-12&g=2016-05-12), tijdelijk op te laten heffen.
+Een aangeslotene mandateert een leverancier om de blokkade op automatische verwerking, bedoeld in [2.12.1](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=2&paragraaf=2.12&artikel=2.12.1&z=2016-07-27&g=2016-07-27), tijdelijk op te laten heffen.
 
 ##### 2.12.3
 
-Een leverancier, die beschikt over een mandaat van een aangeslotene bedoeld in [2.12.2](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=2&paragraaf=2.12&artikel=2.12.2&z=2016-05-12&g=2016-05-12) om een mutatie bedoeld in hoofdstuk vier door te voeren, verzoekt de netbeheerder om de blokkade voor automatische mutaties voorafgaand aan het indienen van een melding van een mutatie tijdelijk op te heffen. In afwijking van [paragraaf 9.1](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=9&paragraaf=9.1&z=2016-05-12&g=2016-05-12) vindt deze informatie-uitwisseling niet plaats via het geautomatiseerde berichtenverkeer.
+Een leverancier, die beschikt over een mandaat van een aangeslotene bedoeld in [2.12.2](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=2&paragraaf=2.12&artikel=2.12.2&z=2016-07-27&g=2016-07-27) om een mutatie bedoeld in hoofdstuk vier door te voeren, verzoekt de netbeheerder om de blokkade voor automatische mutaties voorafgaand aan het indienen van een melding van een mutatie tijdelijk op te heffen. In afwijking van [paragraaf 9.1](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=9&paragraaf=9.1&z=2016-07-27&g=2016-07-27) vindt deze informatie-uitwisseling niet plaats via het geautomatiseerde berichtenverkeer.
 
 ##### 2.12.4
 
-Na het uitvoeren van de mutatie, bedoeld in [2.12.3](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=2&paragraaf=2.12&artikel=2.12.3&z=2016-05-12&g=2016-05-12), wordt de aansluiting door de netbeheerder opnieuw geblokkeerd voor automatische mutaties.
+Na het uitvoeren van de mutatie, bedoeld in [2.12.3](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=2&paragraaf=2.12&artikel=2.12.3&z=2016-07-27&g=2016-07-27), wordt de aansluiting door de netbeheerder opnieuw geblokkeerd voor automatische mutaties.
 
 #### 2.13. Aansluitingenregister landelijk gastransportnet
 
@@ -740,7 +740,7 @@ De netbeheerder van het landelijk gastransportnet beheert voor aansluitingen van
 
 ##### 2.13.2
 
-De netbeheerder van het landelijk gastransportnet informeert de leverancier en de programmaverantwoordelijke ten minste eenmaal per jaar schriftelijk over de voor de leverancier respectievelijk programmaverantwoordelijke relevante stamgegevens van de hen betreffende aansluitingen als bedoeld in [2.13.1](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=2&paragraaf=2.13&artikel=2.13.1&z=2016-05-12&g=2016-05-12).
+De netbeheerder van het landelijk gastransportnet informeert de leverancier en de programmaverantwoordelijke ten minste eenmaal per jaar schriftelijk over de voor de leverancier respectievelijk programmaverantwoordelijke relevante stamgegevens van de hen betreffende aansluitingen als bedoeld in [2.13.1](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=2&paragraaf=2.13&artikel=2.13.1&z=2016-07-27&g=2016-07-27).
 
 ### 3. Mutatieprocessen voor kleinverbruikaansluitingen
 
@@ -770,7 +770,7 @@ De aangeslotene machtigt de nieuwe leverancier om namens hem de switch van lever
 
 ##### 3.1.1.2
 
-In afwijking van [3.1.1.1](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=3&paragraaf=3.1&sub-paragraaf=3.1.1&artikel=3.1.1.1&z=2016-05-12&g=2016-05-12) stuurt de nieuwe leverancier de switchmelding, bedoeld in 3.1.1.1, tenminste één werkdag en ten hoogste twintig werkdagen voor de switchdatum naar de regionale netbeheerder, indien de aansluiting een kleinverbruikaansluiting is die deel uit maakt van een groep aansluitingen, behorend bij een afnemer bedoeld in [artikel 95n](https://wetten.overheid.nl/jci1.3:c:BWBR0009755&artikel=95n) of [95ca tweede lid van de Elektriciteitswet 1998](https://wetten.overheid.nl/jci1.3:c:BWBR0009755&artikel=95ca) of [artikel 52c](https://wetten.overheid.nl/jci1.3:c:BWBR0011440&artikel=52c) of [44a tweede lid van de Gaswet](https://wetten.overheid.nl/jci1.3:c:BWBR0011440&artikel=44a).
+In afwijking van [3.1.1.1](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=3&paragraaf=3.1&sub-paragraaf=3.1.1&artikel=3.1.1.1&z=2016-07-27&g=2016-07-27) stuurt de nieuwe leverancier de switchmelding, bedoeld in 3.1.1.1, tenminste één werkdag en ten hoogste twintig werkdagen voor de switchdatum naar de regionale netbeheerder, indien de aansluiting een kleinverbruikaansluiting is die deel uit maakt van een groep aansluitingen, behorend bij een afnemer bedoeld in [artikel 95n](https://wetten.overheid.nl/jci1.3:c:BWBR0009755&artikel=95n) of [95ca tweede lid van de Elektriciteitswet 1998](https://wetten.overheid.nl/jci1.3:c:BWBR0009755&artikel=95ca) of [artikel 52c](https://wetten.overheid.nl/jci1.3:c:BWBR0011440&artikel=52c) of [44a tweede lid van de Gaswet](https://wetten.overheid.nl/jci1.3:c:BWBR0011440&artikel=44a).
 
 #### 3.1.2. De regionale netbeheerder controleert de switchmelding
 
@@ -792,15 +792,15 @@ Naar aanleiding van de switchmelding controleert de regionale netbeheerder of:
 
 ##### 3.1.2.2
 
-In aanvulling op [3.1.2.1](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=3&paragraaf=3.1&sub-paragraaf=3.1.2&artikel=3.1.2.1&z=2016-05-12&g=2016-05-12) controleert de regionale netbeheerder of de naam van de aangeslotene, bedoeld in [3.1.1.1 onderdeel g](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=3&paragraaf=3.1&sub-paragraaf=3.1.1&artikel=3.1.1.1&z=2016-05-12&g=2016-05-12), is ingevuld in de switchmelding, indien op de aansluiting in het aansluitingenregister geen leverancier is geregistreerd op de switchdatum.
+In aanvulling op [3.1.2.1](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=3&paragraaf=3.1&sub-paragraaf=3.1.2&artikel=3.1.2.1&z=2016-07-27&g=2016-07-27) controleert de regionale netbeheerder of de naam van de aangeslotene, bedoeld in [3.1.1.1 onderdeel g](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=3&paragraaf=3.1&sub-paragraaf=3.1.1&artikel=3.1.1.1&z=2016-07-27&g=2016-07-27), is ingevuld in de switchmelding, indien op de aansluiting in het aansluitingenregister geen leverancier is geregistreerd op de switchdatum.
 
 ##### 3.1.2.3
 
-Als alle controles uit [3.1.2.1](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=3&paragraaf=3.1&sub-paragraaf=3.1.2&artikel=3.1.2.1&z=2016-05-12&g=2016-05-12) en [3.1.2.2](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=3&paragraaf=3.1&sub-paragraaf=3.1.2&artikel=3.1.2.2&z=2016-05-12&g=2016-05-12) een positief resultaat geven, wordt de procedure vervolgd vanaf [3.1.2.5](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=3&paragraaf=3.1&sub-paragraaf=3.1.2&artikel=3.1.2.5&z=2016-05-12&g=2016-05-12). Als dat niet het geval is, wordt de switch niet uitgevoerd en wordt de procedure na [3.1.2.4](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=3&paragraaf=3.1&sub-paragraaf=3.1.2&artikel=3.1.2.4&z=2016-05-12&g=2016-05-12) beëindigd.
+Als alle controles uit [3.1.2.1](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=3&paragraaf=3.1&sub-paragraaf=3.1.2&artikel=3.1.2.1&z=2016-07-27&g=2016-07-27) en [3.1.2.2](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=3&paragraaf=3.1&sub-paragraaf=3.1.2&artikel=3.1.2.2&z=2016-07-27&g=2016-07-27) een positief resultaat geven, wordt de procedure vervolgd vanaf [3.1.2.5](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=3&paragraaf=3.1&sub-paragraaf=3.1.2&artikel=3.1.2.5&z=2016-07-27&g=2016-07-27). Als dat niet het geval is, wordt de switch niet uitgevoerd en wordt de procedure na [3.1.2.4](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=3&paragraaf=3.1&sub-paragraaf=3.1.2&artikel=3.1.2.4&z=2016-07-27&g=2016-07-27) beëindigd.
 
 ##### 3.1.2.4
 
-De regionale netbeheerder bericht het niet uitvoeren van de switch naar aanleiding van [3.1.2.3](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=3&paragraaf=3.1&sub-paragraaf=3.1.2&artikel=3.1.2.3&z=2016-05-12&g=2016-05-12) uiterlijk de werkdag na ontvangst van de switchmelding aan de leverancier die de switchmelding heeft ingediend en vermeldt daarbij:
+De regionale netbeheerder bericht het niet uitvoeren van de switch naar aanleiding van [3.1.2.3](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=3&paragraaf=3.1&sub-paragraaf=3.1.2&artikel=3.1.2.3&z=2016-07-27&g=2016-07-27) uiterlijk de werkdag na ontvangst van de switchmelding aan de leverancier die de switchmelding heeft ingediend en vermeldt daarbij:
 
 - a. de EAN-code van de aansluiting;
 
@@ -898,27 +898,27 @@ De regionale netbeheerder verstuurt een verliesbericht uiterlijk de werkdag na o
 
 ##### 3.1.2.9
 
-De regionale netbeheerder beëindigt de procedure van een reeds bevestigd, maar nog niet geëffectueerd mutatieproces uithuizing, eindelevering, PV-switch of wijzigen naam of verblijfsfunctie of complexbepaling, indien de leverancierswitch, bedoeld in [3.1.1.1](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=3&paragraaf=3.1&sub-paragraaf=3.1.1&artikel=3.1.1.1&z=2016-05-12&g=2016-05-12), het desbetreffende mutatieproces annuleert.
+De regionale netbeheerder beëindigt de procedure van een reeds bevestigd, maar nog niet geëffectueerd mutatieproces uithuizing, eindelevering, PV-switch of wijzigen naam of verblijfsfunctie of complexbepaling, indien de leverancierswitch, bedoeld in [3.1.1.1](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=3&paragraaf=3.1&sub-paragraaf=3.1.1&artikel=3.1.1.1&z=2016-07-27&g=2016-07-27), het desbetreffende mutatieproces annuleert.
 
 #### 3.1.3. De regionale netbeheerder voert de switch uit en communiceert dit
 
 ##### 3.1.3.1
 
-De regionale netbeheerder muteert het aansluitingenregister met de door de nieuwe leverancier aangeleverde gegevens overeenkomstig [2.1.8](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=2&paragraaf=2.1&artikel=2.1.8&z=2016-05-12&g=2016-05-12).
+De regionale netbeheerder muteert het aansluitingenregister met de door de nieuwe leverancier aangeleverde gegevens overeenkomstig [2.1.8](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=2&paragraaf=2.1&artikel=2.1.8&z=2016-07-27&g=2016-07-27).
 
 ##### 3.1.3.2
 
-De regionale netbeheerder informeert de nieuwe leverancier en de nieuwe programmaverantwoordelijke overeenkomstig [paragraaf 2.2](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=2&paragraaf=2.2&z=2016-05-12&g=2016-05-12) omtrent de mutaties, bedoeld in [3.1.3.1](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=3&paragraaf=3.1&sub-paragraaf=3.1.3&artikel=3.1.3.1&z=2016-05-12&g=2016-05-12).
+De regionale netbeheerder informeert de nieuwe leverancier en de nieuwe programmaverantwoordelijke overeenkomstig [paragraaf 2.2](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=2&paragraaf=2.2&z=2016-07-27&g=2016-07-27) omtrent de mutaties, bedoeld in [3.1.3.1](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=3&paragraaf=3.1&sub-paragraaf=3.1.3&artikel=3.1.3.1&z=2016-07-27&g=2016-07-27).
 
 #### 3.1.4. Collecteren, vaststellen en distribueren van de meterstand
 
 ##### 3.1.4.1
 
-De nieuwe leverancier collecteert de meterstand behorende bij het switchproces, stelt deze vast en distribueert deze overeenkomstig [hoofdstuk 5](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=5&z=2016-05-12&g=2016-05-12) indien de fysieke status van de aansluiting, bedoeld in [2.1.3 onderdeel h](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=2&paragraaf=2.1&artikel=2.1.3&z=2016-05-12&g=2016-05-12), de waarde "in bedrijf" heeft.
+De nieuwe leverancier collecteert de meterstand behorende bij het switchproces, stelt deze vast en distribueert deze overeenkomstig [hoofdstuk 5](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=5&z=2016-07-27&g=2016-07-27) indien de fysieke status van de aansluiting, bedoeld in [2.1.3 onderdeel h](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=2&paragraaf=2.1&artikel=2.1.3&z=2016-07-27&g=2016-07-27), de waarde "in bedrijf" heeft.
 
 ##### 3.1.4.2
 
-De nieuwe leverancier stelt geen meterstand vast indien de fysieke status van de aansluiting, bedoeld in [2.1.3 onderdeel h](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=2&paragraaf=2.1&artikel=2.1.3&z=2016-05-12&g=2016-05-12), niet de waarde "in bedrijf" heeft.
+De nieuwe leverancier stelt geen meterstand vast indien de fysieke status van de aansluiting, bedoeld in [2.1.3 onderdeel h](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=2&paragraaf=2.1&artikel=2.1.3&z=2016-07-27&g=2016-07-27), niet de waarde "in bedrijf" heeft.
 
 #### 3.2. Uithuizing op een kleinverbruikaansluiting
 
@@ -940,7 +940,7 @@ De aangeslotene machtigt zijn actuele leverancier om namens hem de uithuizing af
 
 ##### 3.2.1.2
 
-In afwijking van [3.2.1.1](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=3&paragraaf=3.2&sub-paragraaf=3.2.1&artikel=3.2.1.1&z=2016-05-12&g=2016-05-12) stuurt de actuele leverancier de uithuizingsmelding, bedoeld in 3.2.1.1, tenminste één werkdag en ten hoogste twintig werkdagen voor de uithuizingsdatum naar de regionale netbeheerder, indien de aansluiting een kleinverbruikaansluiting is die deel uit maakt van een groep aansluitingen, behorend bij een afnemer bedoeld in [artikel 95n](https://wetten.overheid.nl/jci1.3:c:BWBR0009755&artikel=95n) of [95ca tweede lid van de Elektriciteitswet 1998](https://wetten.overheid.nl/jci1.3:c:BWBR0009755&artikel=95ca) of [artikel 52c](https://wetten.overheid.nl/jci1.3:c:BWBR0011440&artikel=52c) of [44a tweede lid van de Gaswet](https://wetten.overheid.nl/jci1.3:c:BWBR0011440&artikel=44a).
+In afwijking van [3.2.1.1](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=3&paragraaf=3.2&sub-paragraaf=3.2.1&artikel=3.2.1.1&z=2016-07-27&g=2016-07-27) stuurt de actuele leverancier de uithuizingsmelding, bedoeld in 3.2.1.1, tenminste één werkdag en ten hoogste twintig werkdagen voor de uithuizingsdatum naar de regionale netbeheerder, indien de aansluiting een kleinverbruikaansluiting is die deel uit maakt van een groep aansluitingen, behorend bij een afnemer bedoeld in [artikel 95n](https://wetten.overheid.nl/jci1.3:c:BWBR0009755&artikel=95n) of [95ca tweede lid van de Elektriciteitswet 1998](https://wetten.overheid.nl/jci1.3:c:BWBR0009755&artikel=95ca) of [artikel 52c](https://wetten.overheid.nl/jci1.3:c:BWBR0011440&artikel=52c) of [44a tweede lid van de Gaswet](https://wetten.overheid.nl/jci1.3:c:BWBR0011440&artikel=44a).
 
 #### 3.2.2. De regionale netbeheerder controleert de uithuizingsmelding
 
@@ -960,11 +960,11 @@ Naar aanleiding van de uithuizingsmelding controleert de regionale netbeheerder 
 
 ##### 3.2.2.2
 
-Als alle controles uit [3.2.2.1](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=3&paragraaf=3.2&sub-paragraaf=3.2.2&artikel=3.2.2.1&z=2016-05-12&g=2016-05-12) een positief resultaat geven, wordt de procedure vervolgd vanaf [3.2.2.4](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=3&paragraaf=3.2&sub-paragraaf=3.2.2&artikel=3.2.2.4&z=2016-05-12&g=2016-05-12). Als dat niet het geval is, wordt de uithuizing niet uitgevoerd en wordt de procedure na [3.2.2.3](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=3&paragraaf=3.2&sub-paragraaf=3.2.2&artikel=3.2.2.3&z=2016-05-12&g=2016-05-12) beëindigd.
+Als alle controles uit [3.2.2.1](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=3&paragraaf=3.2&sub-paragraaf=3.2.2&artikel=3.2.2.1&z=2016-07-27&g=2016-07-27) een positief resultaat geven, wordt de procedure vervolgd vanaf [3.2.2.4](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=3&paragraaf=3.2&sub-paragraaf=3.2.2&artikel=3.2.2.4&z=2016-07-27&g=2016-07-27). Als dat niet het geval is, wordt de uithuizing niet uitgevoerd en wordt de procedure na [3.2.2.3](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=3&paragraaf=3.2&sub-paragraaf=3.2.2&artikel=3.2.2.3&z=2016-07-27&g=2016-07-27) beëindigd.
 
 ##### 3.2.2.3
 
-De regionale netbeheerder bericht het niet uitvoeren van de uithuizing naar aanleiding van [3.2.2.2](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=3&paragraaf=3.2&sub-paragraaf=3.2.2&artikel=3.2.2.2&z=2016-05-12&g=2016-05-12) uiterlijk de werkdag na ontvangst van de uithuizingsmelding aan de leverancier die de uithuizingsmelding heeft ingediend en vermeldt daarbij:
+De regionale netbeheerder bericht het niet uitvoeren van de uithuizing naar aanleiding van [3.2.2.2](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=3&paragraaf=3.2&sub-paragraaf=3.2.2&artikel=3.2.2.2&z=2016-07-27&g=2016-07-27) uiterlijk de werkdag na ontvangst van de uithuizingsmelding aan de leverancier die de uithuizingsmelding heeft ingediend en vermeldt daarbij:
 
 - a. de EAN-code van de aansluiting;
 
@@ -1020,27 +1020,27 @@ De regionale netbeheerder verstuurt een verliesbericht uiterlijk de werkdag na o
 
 ##### 3.2.2.6
 
-De regionale netbeheerder beëindigt de procedure van een reeds bevestigd, maar nog niet geëffectueerd mutatieproces eindelevering, PV-switch of wijzigen naam of verblijfsfunctie of complexbepaling, indien de uithuizing, bedoeld in [3.2.1.1](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=3&paragraaf=3.2&sub-paragraaf=3.2.1&artikel=3.2.1.1&z=2016-05-12&g=2016-05-12), het desbetreffende mutatieproces annuleert.
+De regionale netbeheerder beëindigt de procedure van een reeds bevestigd, maar nog niet geëffectueerd mutatieproces eindelevering, PV-switch of wijzigen naam of verblijfsfunctie of complexbepaling, indien de uithuizing, bedoeld in [3.2.1.1](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=3&paragraaf=3.2&sub-paragraaf=3.2.1&artikel=3.2.1.1&z=2016-07-27&g=2016-07-27), het desbetreffende mutatieproces annuleert.
 
 #### 3.2.3. De regionale netbeheerder voert de uithuizing uit
 
 ##### 3.2.3.1
 
-De regionale netbeheerder muteert het aansluitingenregister met de door de actuele leverancier aangeleverde gegevens overeenkomstig [2.1.8](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=2&paragraaf=2.1&artikel=2.1.8&z=2016-05-12&g=2016-05-12), tenzij een later ingediende leverancierswitchmelding, inhuizingsmelding of uithuizingsmelding voor dezelfde aansluiting is ontvangen voor een eerdere of dezelfde mutatiedatum.
+De regionale netbeheerder muteert het aansluitingenregister met de door de actuele leverancier aangeleverde gegevens overeenkomstig [2.1.8](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=2&paragraaf=2.1&artikel=2.1.8&z=2016-07-27&g=2016-07-27), tenzij een later ingediende leverancierswitchmelding, inhuizingsmelding of uithuizingsmelding voor dezelfde aansluiting is ontvangen voor een eerdere of dezelfde mutatiedatum.
 
 ##### 3.2.3.2
 
-De regionale netbeheerder zet, indien de aansluiting is voorzien van een meetinrichting die op afstand uitleesbaar is, de administratieve status van de meetinrichting, bedoeld in [2.1.4 onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=2&paragraaf=2.1&artikel=2.1.4&z=2016-05-12&g=2016-05-12), op "aan" indien deze op "uit" staat.
+De regionale netbeheerder zet, indien de aansluiting is voorzien van een meetinrichting die op afstand uitleesbaar is, de administratieve status van de meetinrichting, bedoeld in [2.1.4 onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=2&paragraaf=2.1&artikel=2.1.4&z=2016-07-27&g=2016-07-27), op "aan" indien deze op "uit" staat.
 
 #### 3.2.4. Collecteren, vaststellen en distribueren van de meterstand
 
 ##### 3.2.4.1
 
-De actuele leverancier collecteert de meterstand behorende bij het uithuizingsproces, stelt deze vast en distribueert deze overeenkomstig [hoofdstuk 5](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=5&z=2016-05-12&g=2016-05-12) indien de fysieke status van de aansluiting, bedoeld in [2.1.3 onderdeel h](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=2&paragraaf=2.1&artikel=2.1.3&z=2016-05-12&g=2016-05-12), de waarde "in bedrijf" heeft.
+De actuele leverancier collecteert de meterstand behorende bij het uithuizingsproces, stelt deze vast en distribueert deze overeenkomstig [hoofdstuk 5](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=5&z=2016-07-27&g=2016-07-27) indien de fysieke status van de aansluiting, bedoeld in [2.1.3 onderdeel h](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=2&paragraaf=2.1&artikel=2.1.3&z=2016-07-27&g=2016-07-27), de waarde "in bedrijf" heeft.
 
 ##### 3.2.4.2
 
-De actuele leverancier stelt geen meterstand vast indien de fysieke status van de aansluiting, bedoeld in [2.1.3 onderdeel h](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=2&paragraaf=2.1&artikel=2.1.3&z=2016-05-12&g=2016-05-12), niet de waarde "in bedrijf" heeft.
+De actuele leverancier stelt geen meterstand vast indien de fysieke status van de aansluiting, bedoeld in [2.1.3 onderdeel h](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=2&paragraaf=2.1&artikel=2.1.3&z=2016-07-27&g=2016-07-27), niet de waarde "in bedrijf" heeft.
 
 #### 3.3. Inhuizing op een kleinverbruikaansluiting
 
@@ -1048,7 +1048,7 @@ De actuele leverancier stelt geen meterstand vast indien de fysieke status van d
 
 ##### 3.3.1.1
 
-De aangeslotene machtigt zijn actuele dan wel de nieuwe leverancier, in [paragraaf 3.3](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=3&paragraaf=3.3&z=2016-05-12&g=2016-05-12) te noemen de nieuwe leverancier, om namens hem de inhuizing af te wikkelen. Op grond van deze machtiging stuurt de nieuwe leverancier tenminste op de inhuizingsdatum en ten hoogste twee werkdagen voor de inhuizingsdatum namens deze aangeslotene een inhuizingsmelding naar de regionale netbeheerder. De inhuizingsmelding bevat:
+De aangeslotene machtigt zijn actuele dan wel de nieuwe leverancier, in [paragraaf 3.3](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=3&paragraaf=3.3&z=2016-07-27&g=2016-07-27) te noemen de nieuwe leverancier, om namens hem de inhuizing af te wikkelen. Op grond van deze machtiging stuurt de nieuwe leverancier tenminste op de inhuizingsdatum en ten hoogste twee werkdagen voor de inhuizingsdatum namens deze aangeslotene een inhuizingsmelding naar de regionale netbeheerder. De inhuizingsmelding bevat:
 
 - a. de EAN-code van de aansluiting;
 
@@ -1070,7 +1070,7 @@ De aangeslotene machtigt zijn actuele dan wel de nieuwe leverancier, in [paragra
 
 ##### 3.3.1.2
 
-In afwijking van [3.3.1.1](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=3&paragraaf=3.3&sub-paragraaf=3.3.1&artikel=3.3.1.1&z=2016-05-12&g=2016-05-12) stuurt de nieuwe leverancier de in 3.3.1.1 bedoelde inhuizingsmelding tenminste op de inhuizingsdatum en ten hoogste twintig werkdagen voor de inhuizingsdatum naar de regionale netbeheerder, indien de aansluiting een kleinverbruikaansluiting is die deel uit maakt van een groep aansluitingen, behorend bij een afnemer bedoeld in [artikel 95n](https://wetten.overheid.nl/jci1.3:c:BWBR0009755&artikel=95n) of [95ca tweede lid van de Elektriciteitswet 1998](https://wetten.overheid.nl/jci1.3:c:BWBR0009755&artikel=95ca) of [artikel 52c](https://wetten.overheid.nl/jci1.3:c:BWBR0011440&artikel=52c) of [44a tweede lid van de Gaswet](https://wetten.overheid.nl/jci1.3:c:BWBR0011440&artikel=44a).
+In afwijking van [3.3.1.1](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=3&paragraaf=3.3&sub-paragraaf=3.3.1&artikel=3.3.1.1&z=2016-07-27&g=2016-07-27) stuurt de nieuwe leverancier de in 3.3.1.1 bedoelde inhuizingsmelding tenminste op de inhuizingsdatum en ten hoogste twintig werkdagen voor de inhuizingsdatum naar de regionale netbeheerder, indien de aansluiting een kleinverbruikaansluiting is die deel uit maakt van een groep aansluitingen, behorend bij een afnemer bedoeld in [artikel 95n](https://wetten.overheid.nl/jci1.3:c:BWBR0009755&artikel=95n) of [95ca tweede lid van de Elektriciteitswet 1998](https://wetten.overheid.nl/jci1.3:c:BWBR0009755&artikel=95ca) of [artikel 52c](https://wetten.overheid.nl/jci1.3:c:BWBR0011440&artikel=52c) of [44a tweede lid van de Gaswet](https://wetten.overheid.nl/jci1.3:c:BWBR0011440&artikel=44a).
 
 #### 3.3.2. De regionale netbeheerder controleert de inhuizingsmelding
 
@@ -1092,11 +1092,11 @@ Naar aanleiding van de inhuizingsmelding controleert de regionale netbeheerder o
 
 ##### 3.3.2.2
 
-Als alle controles uit [3.3.2.1](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=3&paragraaf=3.3&sub-paragraaf=3.3.2&artikel=3.3.2.1&z=2016-05-12&g=2016-05-12) een positief resultaat geven, wordt de procedure vervolgd vanaf [3.3.2.4](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=3&paragraaf=3.3&sub-paragraaf=3.3.2&artikel=3.3.2.4&z=2016-05-12&g=2016-05-12). Als dat niet het geval is, wordt de inhuizing niet uitgevoerd en wordt de procedure na [3.3.2.3](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=3&paragraaf=3.3&sub-paragraaf=3.3.2&artikel=3.3.2.3&z=2016-05-12&g=2016-05-12) beëindigd.
+Als alle controles uit [3.3.2.1](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=3&paragraaf=3.3&sub-paragraaf=3.3.2&artikel=3.3.2.1&z=2016-07-27&g=2016-07-27) een positief resultaat geven, wordt de procedure vervolgd vanaf [3.3.2.4](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=3&paragraaf=3.3&sub-paragraaf=3.3.2&artikel=3.3.2.4&z=2016-07-27&g=2016-07-27). Als dat niet het geval is, wordt de inhuizing niet uitgevoerd en wordt de procedure na [3.3.2.3](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=3&paragraaf=3.3&sub-paragraaf=3.3.2&artikel=3.3.2.3&z=2016-07-27&g=2016-07-27) beëindigd.
 
 ##### 3.3.2.3
 
-De regionale netbeheerder bericht het niet uitvoeren van de inhuizing naar aanleiding van [3.3.2.2](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=3&paragraaf=3.3&sub-paragraaf=3.3.2&artikel=3.3.2.2&z=2016-05-12&g=2016-05-12) uiterlijk de werkdag na ontvangst van de inhuizingsmelding aan de leverancier die de inhuizingsmelding heeft ingediend en vermeldt daarbij:
+De regionale netbeheerder bericht het niet uitvoeren van de inhuizing naar aanleiding van [3.3.2.2](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=3&paragraaf=3.3&sub-paragraaf=3.3.2&artikel=3.3.2.2&z=2016-07-27&g=2016-07-27) uiterlijk de werkdag na ontvangst van de inhuizingsmelding aan de leverancier die de inhuizingsmelding heeft ingediend en vermeldt daarbij:
 
 - a. de EAN-code van de aansluiting;
 
@@ -1192,31 +1192,31 @@ De regionale netbeheerder verstuurt een verliesbericht als gevolg van de inhuizi
 
 ##### 3.3.2.8
 
-De regionale netbeheerder beëindigt de procedure van een reeds bevestigd, maar nog niet geëffectueerd mutatieproces uithuizing, eindelevering, PV-switch of wijzigen naam of verblijfsfunctie of complexbepaling, indien de inhuizing, bedoeld in [3.3.1.1](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=3&paragraaf=3.3&sub-paragraaf=3.3.1&artikel=3.3.1.1&z=2016-05-12&g=2016-05-12), het desbetreffende mutatieproces annuleert.
+De regionale netbeheerder beëindigt de procedure van een reeds bevestigd, maar nog niet geëffectueerd mutatieproces uithuizing, eindelevering, PV-switch of wijzigen naam of verblijfsfunctie of complexbepaling, indien de inhuizing, bedoeld in [3.3.1.1](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=3&paragraaf=3.3&sub-paragraaf=3.3.1&artikel=3.3.1.1&z=2016-07-27&g=2016-07-27), het desbetreffende mutatieproces annuleert.
 
 #### 3.3.3. De regionale netbeheerder voert de inhuizing uit en communiceert dit
 
 ##### 3.3.3.1
 
-De regionale netbeheerder muteert het aansluitingenregister met de door de nieuwe leverancier aangeleverde gegevens overeenkomstig [2.1.8](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=2&paragraaf=2.1&artikel=2.1.8&z=2016-05-12&g=2016-05-12).
+De regionale netbeheerder muteert het aansluitingenregister met de door de nieuwe leverancier aangeleverde gegevens overeenkomstig [2.1.8](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=2&paragraaf=2.1&artikel=2.1.8&z=2016-07-27&g=2016-07-27).
 
 ##### 3.3.3.2
 
-De regionale netbeheerder informeert de nieuwe leverancier en nieuwe programmaverantwoordelijke overeenkomstig [paragraaf 2.2](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=2&paragraaf=2.2&z=2016-05-12&g=2016-05-12) omtrent de mutaties, bedoeld in [3.3.3.1](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=3&paragraaf=3.3&sub-paragraaf=3.3.3&artikel=3.3.3.1&z=2016-05-12&g=2016-05-12).
+De regionale netbeheerder informeert de nieuwe leverancier en nieuwe programmaverantwoordelijke overeenkomstig [paragraaf 2.2](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=2&paragraaf=2.2&z=2016-07-27&g=2016-07-27) omtrent de mutaties, bedoeld in [3.3.3.1](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=3&paragraaf=3.3&sub-paragraaf=3.3.3&artikel=3.3.3.1&z=2016-07-27&g=2016-07-27).
 
 ##### 3.3.3.3
 
-De regionale netbeheerder zet, indien de aansluiting is voorzien van een meetinrichting die op afstand uitleesbaar is, de administratieve status van de meetinrichting, bedoeld in [2.1.4 onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=2&paragraaf=2.1&artikel=2.1.4&z=2016-05-12&g=2016-05-12), op "aan" tenzij de aangeslotene voorafgaand aan de inhuizing heeft aangegeven dat de administratieve status van de meetinrichting, bedoeld in 2.1.4 onderdeel b, op "uit" moet staan.
+De regionale netbeheerder zet, indien de aansluiting is voorzien van een meetinrichting die op afstand uitleesbaar is, de administratieve status van de meetinrichting, bedoeld in [2.1.4 onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=2&paragraaf=2.1&artikel=2.1.4&z=2016-07-27&g=2016-07-27), op "aan" tenzij de aangeslotene voorafgaand aan de inhuizing heeft aangegeven dat de administratieve status van de meetinrichting, bedoeld in 2.1.4 onderdeel b, op "uit" moet staan.
 
 #### 3.3.4. Collecteren, vaststellen en distribueren van de meterstand
 
 ##### 3.3.4.1
 
-De nieuwe leverancier collecteert de meterstand behorende bij het inhuizingsproces, stelt deze vast en distribueert deze overeenkomstig [hoofdstuk 5](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=5&z=2016-05-12&g=2016-05-12) indien de fysieke status van de aansluiting, bedoeld in [2.1.3 onderdeel h](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=2&paragraaf=2.1&artikel=2.1.3&z=2016-05-12&g=2016-05-12), de waarde "in bedrijf" heeft.
+De nieuwe leverancier collecteert de meterstand behorende bij het inhuizingsproces, stelt deze vast en distribueert deze overeenkomstig [hoofdstuk 5](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=5&z=2016-07-27&g=2016-07-27) indien de fysieke status van de aansluiting, bedoeld in [2.1.3 onderdeel h](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=2&paragraaf=2.1&artikel=2.1.3&z=2016-07-27&g=2016-07-27), de waarde "in bedrijf" heeft.
 
 ##### 3.3.4.2
 
-De nieuwe leverancier stelt geen meterstand vast indien de fysieke status van de aansluiting, bedoeld in [2.1.3 onderdeel h](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=2&paragraaf=2.1&artikel=2.1.3&z=2016-05-12&g=2016-05-12), niet de waarde "in bedrijf" heeft.
+De nieuwe leverancier stelt geen meterstand vast indien de fysieke status van de aansluiting, bedoeld in [2.1.3 onderdeel h](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=2&paragraaf=2.1&artikel=2.1.3&z=2016-07-27&g=2016-07-27), niet de waarde "in bedrijf" heeft.
 
 #### 3.4. Beëindiging van de levering op een kleinverbruikaansluiting
 
@@ -1264,7 +1264,7 @@ De actuele leverancier stuurt een eindeleveringsmelding één werkdag voor de ei
 
 ##### 3.4.2.3
 
-In afwijking van [3.4.2.2](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=3&paragraaf=3.4&sub-paragraaf=3.4.2&artikel=3.4.2.2&z=2016-05-12&g=2016-05-12) stuurt de actuele leverancier de in 3.4.2.2 bedoelde eindeleveringsmelding tenminste één werkdag en ten hoogste twintig werkdagen voor de eindeleveringsdatum naar de regionale netbeheerder, indien de aansluiting een kleinverbruikaansluiting is die deel uit maakt van een groep aansluitingen, behorend bij een afnemer bedoeld in [artikel 95n](https://wetten.overheid.nl/jci1.3:c:BWBR0009755&artikel=95n) of [95ca tweede lid van de Elektriciteitswet 1998](https://wetten.overheid.nl/jci1.3:c:BWBR0009755&artikel=95ca) of [artikel 52 c](https://wetten.overheid.nl/jci1.3:c:BWBR0011440&artikel=52c) of [44a tweede lid van de Gaswet](https://wetten.overheid.nl/jci1.3:c:BWBR0011440&artikel=44a).
+In afwijking van [3.4.2.2](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=3&paragraaf=3.4&sub-paragraaf=3.4.2&artikel=3.4.2.2&z=2016-07-27&g=2016-07-27) stuurt de actuele leverancier de in 3.4.2.2 bedoelde eindeleveringsmelding tenminste één werkdag en ten hoogste twintig werkdagen voor de eindeleveringsdatum naar de regionale netbeheerder, indien de aansluiting een kleinverbruikaansluiting is die deel uit maakt van een groep aansluitingen, behorend bij een afnemer bedoeld in [artikel 95n](https://wetten.overheid.nl/jci1.3:c:BWBR0009755&artikel=95n) of [95ca tweede lid van de Elektriciteitswet 1998](https://wetten.overheid.nl/jci1.3:c:BWBR0009755&artikel=95ca) of [artikel 52 c](https://wetten.overheid.nl/jci1.3:c:BWBR0011440&artikel=52c) of [44a tweede lid van de Gaswet](https://wetten.overheid.nl/jci1.3:c:BWBR0011440&artikel=44a).
 
 #### 3.4.3. De regionale netbeheerder controleert de eindeleveringsmelding
 
@@ -1286,11 +1286,11 @@ Naar aanleiding van de eindeleveringsmelding controleert de regionale netbeheerd
 
 ##### 3.4.3.2
 
-Als alle controles uit [3.4.3.1](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=3&paragraaf=3.4&sub-paragraaf=3.4.3&artikel=3.4.3.1&z=2016-05-12&g=2016-05-12) een positief resultaat geven, wordt de procedure vervolgd vanaf [3.4.3.4](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=3&paragraaf=3.4&sub-paragraaf=3.4.3&artikel=3.4.3.4&z=2016-05-12&g=2016-05-12). Als dat niet het geval is, wordt de eindelevering niet uitgevoerd en wordt de procedure na [3.4.3.3](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=3&paragraaf=3.4&sub-paragraaf=3.4.3&artikel=3.4.3.3&z=2016-05-12&g=2016-05-12) beëindigd.
+Als alle controles uit [3.4.3.1](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=3&paragraaf=3.4&sub-paragraaf=3.4.3&artikel=3.4.3.1&z=2016-07-27&g=2016-07-27) een positief resultaat geven, wordt de procedure vervolgd vanaf [3.4.3.4](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=3&paragraaf=3.4&sub-paragraaf=3.4.3&artikel=3.4.3.4&z=2016-07-27&g=2016-07-27). Als dat niet het geval is, wordt de eindelevering niet uitgevoerd en wordt de procedure na [3.4.3.3](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=3&paragraaf=3.4&sub-paragraaf=3.4.3&artikel=3.4.3.3&z=2016-07-27&g=2016-07-27) beëindigd.
 
 ##### 3.4.3.3
 
-De regionale netbeheerder bericht het niet uitvoeren van de eindelevering naar aanleiding van [3.4.3.2](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=3&paragraaf=3.4&sub-paragraaf=3.4.3&artikel=3.4.3.2&z=2016-05-12&g=2016-05-12) uiterlijk de werkdag na ontvangst van de eindeleveringsmelding aan de leverancier die de eindeleveringsmelding heeft ingediend en vermeldt daarbij:
+De regionale netbeheerder bericht het niet uitvoeren van de eindelevering naar aanleiding van [3.4.3.2](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=3&paragraaf=3.4&sub-paragraaf=3.4.3&artikel=3.4.3.2&z=2016-07-27&g=2016-07-27) uiterlijk de werkdag na ontvangst van de eindeleveringsmelding aan de leverancier die de eindeleveringsmelding heeft ingediend en vermeldt daarbij:
 
 - a. de EAN-code van de aansluiting;
 
@@ -1350,29 +1350,29 @@ De regionale netbeheerder stuurt een verliesbericht uiterlijk de werkdag na ontv
 
 Ingeval de aangeslotene voorafgaand aan de eindeleveringsdatum tijdig alsnog recht op levering verkrijgt, meldt de leverancier dit aan de regionale netbeheerder:
 
-- a. door middel van een inhuizingsmelding, bedoeld in [3.3.1.1](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=3&paragraaf=3.3&sub-paragraaf=3.3.1&artikel=3.3.1.1&z=2016-05-12&g=2016-05-12), indien hij de actuele leverancier van de aangeslotene is. De procedure wordt vervolgd vanaf [3.3.2.1](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=3&paragraaf=3.3&sub-paragraaf=3.3.2&artikel=3.3.2.1&z=2016-05-12&g=2016-05-12);
+- a. door middel van een inhuizingsmelding, bedoeld in [3.3.1.1](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=3&paragraaf=3.3&sub-paragraaf=3.3.1&artikel=3.3.1.1&z=2016-07-27&g=2016-07-27), indien hij de actuele leverancier van de aangeslotene is. De procedure wordt vervolgd vanaf [3.3.2.1](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=3&paragraaf=3.3&sub-paragraaf=3.3.2&artikel=3.3.2.1&z=2016-07-27&g=2016-07-27);
 
-- b. door middel van een switchmelding, bedoeld in [3.1.1.1](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=3&paragraaf=3.1&sub-paragraaf=3.1.1&artikel=3.1.1.1&z=2016-05-12&g=2016-05-12), indien hij een nieuwe leverancier van de aangeslotene is. De procedure wordt vervolgd vanaf [3.1.2.1](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=3&paragraaf=3.1&sub-paragraaf=3.1.2&artikel=3.1.2.1&z=2016-05-12&g=2016-05-12).
+- b. door middel van een switchmelding, bedoeld in [3.1.1.1](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=3&paragraaf=3.1&sub-paragraaf=3.1.1&artikel=3.1.1.1&z=2016-07-27&g=2016-07-27), indien hij een nieuwe leverancier van de aangeslotene is. De procedure wordt vervolgd vanaf [3.1.2.1](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=3&paragraaf=3.1&sub-paragraaf=3.1.2&artikel=3.1.2.1&z=2016-07-27&g=2016-07-27).
 
 ##### 3.4.3.7
 
-De regionale netbeheerder beëindigt de procedure van een reeds bevestigd, maar nog niet geëffectueerd mutatieproces eindelevering, PV-switch of wijzigen naam of verblijfsfunctie of complexbepaling, indien de eindelevering, bedoeld in [3.4.2.2](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=3&paragraaf=3.4&sub-paragraaf=3.4.2&artikel=3.4.2.2&z=2016-05-12&g=2016-05-12), het desbetreffende mutatieproces annuleert.
+De regionale netbeheerder beëindigt de procedure van een reeds bevestigd, maar nog niet geëffectueerd mutatieproces eindelevering, PV-switch of wijzigen naam of verblijfsfunctie of complexbepaling, indien de eindelevering, bedoeld in [3.4.2.2](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=3&paragraaf=3.4&sub-paragraaf=3.4.2&artikel=3.4.2.2&z=2016-07-27&g=2016-07-27), het desbetreffende mutatieproces annuleert.
 
 #### 3.4.4. De regionale netbeheerder voert de eindelevering uit
 
 ##### 3.4.4.1
 
-De regionale netbeheerder muteert het aansluitingenregister met de door de actuele leverancier aangeleverde gegevens overeenkomstig [2.1.8](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=2&paragraaf=2.1&artikel=2.1.8&z=2016-05-12&g=2016-05-12), tenzij een later ingediende leverancierswitchmelding, inhuizingsmelding of uithuizingsmelding voor dezelfde aansluiting is ontvangen voor een eerdere of dezelfde mutatiedatum.
+De regionale netbeheerder muteert het aansluitingenregister met de door de actuele leverancier aangeleverde gegevens overeenkomstig [2.1.8](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=2&paragraaf=2.1&artikel=2.1.8&z=2016-07-27&g=2016-07-27), tenzij een later ingediende leverancierswitchmelding, inhuizingsmelding of uithuizingsmelding voor dezelfde aansluiting is ontvangen voor een eerdere of dezelfde mutatiedatum.
 
 #### 3.4.5. Collecteren, vaststellen en distribueren van de meterstand
 
 ##### 3.4.5.1
 
-De actuele leverancier collecteert de meterstand behorende bij het eindeleveringsproces, stelt deze vast en distribueert deze overeenkomstig [hoofdstuk 5](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=5&z=2016-05-12&g=2016-05-12) indien de fysieke status van de aansluiting, bedoeld in [2.1.3 onderdeel h](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=2&paragraaf=2.1&artikel=2.1.3&z=2016-05-12&g=2016-05-12), de waarde "in bedrijf" heeft.
+De actuele leverancier collecteert de meterstand behorende bij het eindeleveringsproces, stelt deze vast en distribueert deze overeenkomstig [hoofdstuk 5](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=5&z=2016-07-27&g=2016-07-27) indien de fysieke status van de aansluiting, bedoeld in [2.1.3 onderdeel h](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=2&paragraaf=2.1&artikel=2.1.3&z=2016-07-27&g=2016-07-27), de waarde "in bedrijf" heeft.
 
 ##### 3.4.5.2
 
-De actuele leverancier stelt geen meterstand vast indien de fysieke status van de aansluiting, bedoeld in [2.1.3 onderdeel h](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=2&paragraaf=2.1&artikel=2.1.3&z=2016-05-12&g=2016-05-12), niet de waarde "in bedrijf" heeft.
+De actuele leverancier stelt geen meterstand vast indien de fysieke status van de aansluiting, bedoeld in [2.1.3 onderdeel h](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=2&paragraaf=2.1&artikel=2.1.3&z=2016-07-27&g=2016-07-27), niet de waarde "in bedrijf" heeft.
 
 #### 3.5. Individuele switch van programmaverantwoordelijke op een kleinverbruikaansluiting
 
@@ -1396,7 +1396,7 @@ De leverancier stuurt één werkdag voor de switchdatum een programmaverantwoord
 
 ##### 3.5.1.2
 
-In afwijking van [3.5.1.1](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=3&paragraaf=3.5&sub-paragraaf=3.5.1&artikel=3.5.1.1&z=2016-05-12&g=2016-05-12) stuurt de leverancier de in 3.5.1.1 bedoelde switchmelding tenminste één werkdag en ten hoogste twintig werkdagen voor de switchdatum naar de regionale netbeheerder, indien de aansluiting een kleinverbruikaansluiting is die deel uit maakt van een groep aansluitingen, behorend bij een afnemer bedoeld in [artikel 95n](https://wetten.overheid.nl/jci1.3:c:BWBR0009755&artikel=95n) of [95ca tweede lid van de Elektriciteitswet 1998](https://wetten.overheid.nl/jci1.3:c:BWBR0009755&artikel=95ca) of [artikel 52c](https://wetten.overheid.nl/jci1.3:c:BWBR0011440&artikel=52c) of [44a tweede lid van de Gaswet](https://wetten.overheid.nl/jci1.3:c:BWBR0011440&artikel=44a).
+In afwijking van [3.5.1.1](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=3&paragraaf=3.5&sub-paragraaf=3.5.1&artikel=3.5.1.1&z=2016-07-27&g=2016-07-27) stuurt de leverancier de in 3.5.1.1 bedoelde switchmelding tenminste één werkdag en ten hoogste twintig werkdagen voor de switchdatum naar de regionale netbeheerder, indien de aansluiting een kleinverbruikaansluiting is die deel uit maakt van een groep aansluitingen, behorend bij een afnemer bedoeld in [artikel 95n](https://wetten.overheid.nl/jci1.3:c:BWBR0009755&artikel=95n) of [95ca tweede lid van de Elektriciteitswet 1998](https://wetten.overheid.nl/jci1.3:c:BWBR0009755&artikel=95ca) of [artikel 52c](https://wetten.overheid.nl/jci1.3:c:BWBR0011440&artikel=52c) of [44a tweede lid van de Gaswet](https://wetten.overheid.nl/jci1.3:c:BWBR0011440&artikel=44a).
 
 #### 3.5.2. De regionale netbeheerder controleert de PV-switchmelding
 
@@ -1418,11 +1418,11 @@ Naar aanleiding van de switchmelding controleert de regionale netbeheerder of:
 
 ##### 3.5.2.2
 
-Als alle controles uit [3.5.2.1](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=3&paragraaf=3.5&sub-paragraaf=3.5.2&artikel=3.5.2.1&z=2016-05-12&g=2016-05-12) een positief resultaat geven, wordt de procedure vervolgd vanaf [3.5.2.4](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=3&paragraaf=3.5&sub-paragraaf=3.5.2&artikel=3.5.2.4&z=2016-05-12&g=2016-05-12). Als dat niet het geval is, wordt de PV-switch niet uitgevoerd en wordt de procedure na [3.5.2.3](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=3&paragraaf=3.5&sub-paragraaf=3.5.2&artikel=3.5.2.3&z=2016-05-12&g=2016-05-12) beëindigd.
+Als alle controles uit [3.5.2.1](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=3&paragraaf=3.5&sub-paragraaf=3.5.2&artikel=3.5.2.1&z=2016-07-27&g=2016-07-27) een positief resultaat geven, wordt de procedure vervolgd vanaf [3.5.2.4](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=3&paragraaf=3.5&sub-paragraaf=3.5.2&artikel=3.5.2.4&z=2016-07-27&g=2016-07-27). Als dat niet het geval is, wordt de PV-switch niet uitgevoerd en wordt de procedure na [3.5.2.3](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=3&paragraaf=3.5&sub-paragraaf=3.5.2&artikel=3.5.2.3&z=2016-07-27&g=2016-07-27) beëindigd.
 
 ##### 3.5.2.3
 
-De regionale netbeheerder bericht het niet uitvoeren van de PV-switch naar aanleiding van [3.5.2.2](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=3&paragraaf=3.5&sub-paragraaf=3.5.2&artikel=3.5.2.2&z=2016-05-12&g=2016-05-12) uiterlijk de werkdag na ontvangst van de PV-switchmelding aan de leverancier die de PV-switchmelding heeft ingediend en vermeldt daarbij:
+De regionale netbeheerder bericht het niet uitvoeren van de PV-switch naar aanleiding van [3.5.2.2](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=3&paragraaf=3.5&sub-paragraaf=3.5.2&artikel=3.5.2.2&z=2016-07-27&g=2016-07-27) uiterlijk de werkdag na ontvangst van de PV-switchmelding aan de leverancier die de PV-switchmelding heeft ingediend en vermeldt daarbij:
 
 - a. de EAN-code van de aansluiting;
 
@@ -1502,11 +1502,11 @@ De regionale netbeheerder verstuurt een verwervingsbericht uiterlijk de werkdag 
 
 ##### 3.5.3.1
 
-De regionale netbeheerder muteert het aansluitingenregister met de door de leverancier aangeleverde gegevens overeenkomstig [2.1.8](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=2&paragraaf=2.1&artikel=2.1.8&z=2016-05-12&g=2016-05-12).
+De regionale netbeheerder muteert het aansluitingenregister met de door de leverancier aangeleverde gegevens overeenkomstig [2.1.8](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=2&paragraaf=2.1&artikel=2.1.8&z=2016-07-27&g=2016-07-27).
 
 ##### 3.5.3.2
 
-De regionale netbeheerder informeert de leverancier en nieuwe programmaverantwoordelijke overeenkomstig [paragraaf 2.2](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=2&paragraaf=2.2&z=2016-05-12&g=2016-05-12) over de mutaties, bedoeld in [3.5.3.1](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=3&paragraaf=3.5&sub-paragraaf=3.5.3&artikel=3.5.3.1&z=2016-05-12&g=2016-05-12).
+De regionale netbeheerder informeert de leverancier en nieuwe programmaverantwoordelijke overeenkomstig [paragraaf 2.2](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=2&paragraaf=2.2&z=2016-07-27&g=2016-07-27) over de mutaties, bedoeld in [3.5.3.1](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=3&paragraaf=3.5&sub-paragraaf=3.5.3&artikel=3.5.3.1&z=2016-07-27&g=2016-07-27).
 
 #### 3.6. Bulk PV-switch op kleinverbruikaansluitingen
 
@@ -1526,13 +1526,13 @@ De leverancier informeert de regionale netbeheerder tenminste vijfentwintig werk
 
 ##### 3.6.1.2
 
-In afwijking van [paragraaf 9.1](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=9&paragraaf=9.1&z=2016-05-12&g=2016-05-12) vindt deze informatie-uitwisseling niet plaats via het geautomatiseerde berichtenverkeer.
+In afwijking van [paragraaf 9.1](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=9&paragraaf=9.1&z=2016-07-27&g=2016-07-27) vindt deze informatie-uitwisseling niet plaats via het geautomatiseerde berichtenverkeer.
 
 #### 3.6.2. De leverancier dient de melding bulk PV-switch in bij de regionale netbeheerder
 
 ##### 3.6.2.1
 
-De leverancier stuurt tenminste vijf werkdagen en ten hoogste twintig werkdagen voor de switchdatum een melding bulk PV-switch naar de regionale netbeheerder. In afwijking van [1.1.4](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=1&paragraaf=1.1&artikel=1.1.4&z=2016-05-12&g=2016-05-12) wordt in het bericht vermeld:
+De leverancier stuurt tenminste vijf werkdagen en ten hoogste twintig werkdagen voor de switchdatum een melding bulk PV-switch naar de regionale netbeheerder. In afwijking van [1.1.4](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=1&paragraaf=1.1&artikel=1.1.4&z=2016-07-27&g=2016-07-27) wordt in het bericht vermeld:
 
 - a. de EAN-codes van de aansluitingen;
 
@@ -1572,7 +1572,7 @@ Per individuele aansluiting in de melding bulk PV-switch controleert de regional
 
 ##### 3.6.3.2
 
-De regionale netbeheerder beëindigt de bulk PV-switchprocedure en bericht dit uiterlijk de werkdag na ontvangst van de melding bullk PV-switch aan de leverancier, indien één of meerdere van de controles, bedoeld in [3.6.3.1, onderdeel a tot en met c](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=3&paragraaf=3.6&sub-paragraaf=3.6.3&artikel=3.6.3.1&z=2016-05-12&g=2016-05-12), een negatief resultaat opleveren, en vermeldt daarbij:
+De regionale netbeheerder beëindigt de bulk PV-switchprocedure en bericht dit uiterlijk de werkdag na ontvangst van de melding bullk PV-switch aan de leverancier, indien één of meerdere van de controles, bedoeld in [3.6.3.1, onderdeel a tot en met c](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=3&paragraaf=3.6&sub-paragraaf=3.6.3&artikel=3.6.3.1&z=2016-07-27&g=2016-07-27), een negatief resultaat opleveren, en vermeldt daarbij:
 
 - a. de bedrijfs-EAN-code van de regionale netbeheerder;
 
@@ -1590,7 +1590,7 @@ De regionale netbeheerder beëindigt de bulk PV-switchprocedure en bericht dit u
 
 ##### 3.6.3.3
 
-De regionale netbeheerder beëindigt de PV-switchprocedure voor de desbetreffende aansluiting en bericht dit uiterlijk de werkdag na ontvangst van de melding bulk PV-switch aan de leverancier, indien één of meerdere van de controles, bedoeld in [3.6.3.1, onderdeel d tot en met g](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=3&paragraaf=3.6&sub-paragraaf=3.6.3&artikel=3.6.3.1&z=2016-05-12&g=2016-05-12), een negatief resultaat opleveren, en vermeldt daarbij:
+De regionale netbeheerder beëindigt de PV-switchprocedure voor de desbetreffende aansluiting en bericht dit uiterlijk de werkdag na ontvangst van de melding bulk PV-switch aan de leverancier, indien één of meerdere van de controles, bedoeld in [3.6.3.1, onderdeel d tot en met g](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=3&paragraaf=3.6&sub-paragraaf=3.6.3&artikel=3.6.3.1&z=2016-07-27&g=2016-07-27), een negatief resultaat opleveren, en vermeldt daarbij:
 
 - a. de bedrijfs-EAN-code van de regionale netbeheerder;
 
@@ -1614,7 +1614,7 @@ Per aansluiting waarvoor de melding wordt afgewezen wordt vermeld:
 
 ##### 3.6.3.4
 
-De regionale netbeheerder verstuurt uiterlijk de werkdag na ontvangst van de melding bulk PV-switch aan de oude programmaverantwoordelijke een verliesbericht voor de aansluitingen waarbij alle controles, bedoeld in [3.6.3.1](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=3&paragraaf=3.6&sub-paragraaf=3.6.3&artikel=3.6.3.1&z=2016-05-12&g=2016-05-12), een positief resultaat opleveren en vermeldt daarbij:
+De regionale netbeheerder verstuurt uiterlijk de werkdag na ontvangst van de melding bulk PV-switch aan de oude programmaverantwoordelijke een verliesbericht voor de aansluitingen waarbij alle controles, bedoeld in [3.6.3.1](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=3&paragraaf=3.6&sub-paragraaf=3.6.3&artikel=3.6.3.1&z=2016-07-27&g=2016-07-27), een positief resultaat opleveren en vermeldt daarbij:
 
 - a. de EAN-code(s) van de aansluiting(en);
 
@@ -1628,7 +1628,7 @@ De regionale netbeheerder verstuurt uiterlijk de werkdag na ontvangst van de mel
 
 ##### 3.6.3.5
 
-De regionale netbeheerder verstuurt uiterlijk de werkdag na ontvangst van de melding bulk PV-switch aan de leverancier een verwervingsbericht voor de aansluitingen waarbij alle controles, bedoeld in [3.6.3.1](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=3&paragraaf=3.6&sub-paragraaf=3.6.3&artikel=3.6.3.1&z=2016-05-12&g=2016-05-12), een positief resultaat opleveren en vermeldt daarbij:
+De regionale netbeheerder verstuurt uiterlijk de werkdag na ontvangst van de melding bulk PV-switch aan de leverancier een verwervingsbericht voor de aansluitingen waarbij alle controles, bedoeld in [3.6.3.1](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=3&paragraaf=3.6&sub-paragraaf=3.6.3&artikel=3.6.3.1&z=2016-07-27&g=2016-07-27), een positief resultaat opleveren en vermeldt daarbij:
 
 - a. de EAN-code(s) van de aansluiting(en);
 
@@ -1646,7 +1646,7 @@ De regionale netbeheerder verstuurt uiterlijk de werkdag na ontvangst van de mel
 
 ##### 3.6.3.6
 
-De regionale netbeheerder verstuurt uiterlijk de werkdag na ontvangst van de melding bulk PV-switch aan de nieuwe programmaverantwoordelijke een verwervingsbericht voor de aansluitingen waarbij alle controles, bedoeld in [3.6.3.1](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=3&paragraaf=3.6&sub-paragraaf=3.6.3&artikel=3.6.3.1&z=2016-05-12&g=2016-05-12), een positief resultaat opleveren en vermeldt daarbij:
+De regionale netbeheerder verstuurt uiterlijk de werkdag na ontvangst van de melding bulk PV-switch aan de nieuwe programmaverantwoordelijke een verwervingsbericht voor de aansluitingen waarbij alle controles, bedoeld in [3.6.3.1](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=3&paragraaf=3.6&sub-paragraaf=3.6.3&artikel=3.6.3.1&z=2016-07-27&g=2016-07-27), een positief resultaat opleveren en vermeldt daarbij:
 
 - a. de EAN-code(s) van de aansluiting(en);
 
@@ -1664,11 +1664,11 @@ De regionale netbeheerder verstuurt uiterlijk de werkdag na ontvangst van de mel
 
 ##### 3.6.4.1
 
-De regionale netbeheerder muteert het aansluitingenregister met de door de leverancier aangeleverde gegevens overeenkomstig [2.1.8](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=2&paragraaf=2.1&artikel=2.1.8&z=2016-05-12&g=2016-05-12).
+De regionale netbeheerder muteert het aansluitingenregister met de door de leverancier aangeleverde gegevens overeenkomstig [2.1.8](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=2&paragraaf=2.1&artikel=2.1.8&z=2016-07-27&g=2016-07-27).
 
 ##### 3.6.4.2
 
-De regionale netbeheerder informeert de leverancier en de nieuwe programmaverantwoordelijke conform [2.2](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=2&paragraaf=2.2&z=2016-05-12&g=2016-05-12) omtrent de in [3.6.4.1](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=3&paragraaf=3.6&sub-paragraaf=3.6.4&artikel=3.6.4.1&z=2016-05-12&g=2016-05-12) bedoelde mutaties. In afwijking van [1.1.4](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=1&paragraaf=1.1&artikel=1.1.4&z=2016-05-12&g=2016-05-12) worden de stamgegevensberichten van alle gemuteerde aansluitingen in de bulk PV-switch per ontvangende partij gebundeld in een bericht.
+De regionale netbeheerder informeert de leverancier en de nieuwe programmaverantwoordelijke conform [2.2](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=2&paragraaf=2.2&z=2016-07-27&g=2016-07-27) omtrent de in [3.6.4.1](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=3&paragraaf=3.6&sub-paragraaf=3.6.4&artikel=3.6.4.1&z=2016-07-27&g=2016-07-27) bedoelde mutaties. In afwijking van [1.1.4](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=1&paragraaf=1.1&artikel=1.1.4&z=2016-07-27&g=2016-07-27) worden de stamgegevensberichten van alle gemuteerde aansluitingen in de bulk PV-switch per ontvangende partij gebundeld in een bericht.
 
 #### 3.7. Aanleggen van een kleinverbruikaansluiting
 
@@ -1680,9 +1680,9 @@ De regionale netbeheerder registreert de aanleg van de aansluiting in het aanslu
 
 - b. de bedrijfs-EAN-code van de regionale netbeheerder;
 
-- c. de fysieke status van de aansluiting, bedoeld in [2.1.3 onderdeel h](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=2&paragraaf=2.1&artikel=2.1.3&z=2016-05-12&g=2016-05-12), die van toepassing is, te weten: "in aanleg";
+- c. de fysieke status van de aansluiting, bedoeld in [2.1.3 onderdeel h](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=2&paragraaf=2.1&artikel=2.1.3&z=2016-07-27&g=2016-07-27), die van toepassing is, te weten: "in aanleg";
 
-- d. ingeval van een elektriciteitsaansluiting: de verblijfsfunctie of complexbepaling van de aansluiting, bedoeld in [2.1.3 onderdeel m](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=2&paragraaf=2.1&artikel=2.1.3&z=2016-05-12&g=2016-05-12), te weten: "geen verblijfsfunctie, geen complex".
+- d. ingeval van een elektriciteitsaansluiting: de verblijfsfunctie of complexbepaling van de aansluiting, bedoeld in [2.1.3 onderdeel m](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=2&paragraaf=2.1&artikel=2.1.3&z=2016-07-27&g=2016-07-27), te weten: "geen verblijfsfunctie, geen complex".
 
 #### 3.8. In bedrijf nemen van een kleinverbruikaansluiting
 
@@ -1690,17 +1690,17 @@ De regionale netbeheerder registreert de aanleg van de aansluiting in het aanslu
 
 ##### 3.8.1.1
 
-Uiterlijk vijf werkdagen na de datum waarop de aansluiting fysiek in bedrijf is genomen effectueert de regionale netbeheerder de fysieke status van de aansluiting, bedoeld in [2.1.3, onderdeel h](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=2&paragraaf=2.1&artikel=2.1.3&z=2016-05-12&g=2016-05-12), die van toepassing is, te weten: "in bedrijf" in het aansluitingenregister overeenkomstig [2.1.8](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=2&paragraaf=2.1&artikel=2.1.8&z=2016-05-12&g=2016-05-12).
+Uiterlijk vijf werkdagen na de datum waarop de aansluiting fysiek in bedrijf is genomen effectueert de regionale netbeheerder de fysieke status van de aansluiting, bedoeld in [2.1.3, onderdeel h](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=2&paragraaf=2.1&artikel=2.1.3&z=2016-07-27&g=2016-07-27), die van toepassing is, te weten: "in bedrijf" in het aansluitingenregister overeenkomstig [2.1.8](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=2&paragraaf=2.1&artikel=2.1.8&z=2016-07-27&g=2016-07-27).
 
 ##### 3.8.1.2
 
-De regionale netbeheerder informeert de leverancier en de programmaverantwoordelijke die voor de aansluiting in het aansluitingenregister vermeld staan, overeenkomstig [paragraaf 2.2](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=2&paragraaf=2.2&z=2016-05-12&g=2016-05-12), over de mutatie, bedoeld in [3.8.1.1](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=3&paragraaf=3.8&sub-paragraaf=3.8.1&artikel=3.8.1.1&z=2016-05-12&g=2016-05-12).
+De regionale netbeheerder informeert de leverancier en de programmaverantwoordelijke die voor de aansluiting in het aansluitingenregister vermeld staan, overeenkomstig [paragraaf 2.2](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=2&paragraaf=2.2&z=2016-07-27&g=2016-07-27), over de mutatie, bedoeld in [3.8.1.1](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=3&paragraaf=3.8&sub-paragraaf=3.8.1&artikel=3.8.1.1&z=2016-07-27&g=2016-07-27).
 
 #### 3.8.2. De regionale netbeheerder voert een fysieke meteropname uit en distribueert de meterstand
 
 ##### 3.8.2.1
 
-De regionale netbeheerder voert bij het fysiek in bedrijf nemen van de aansluiting een fysieke meteropname uit overeenkomstig [paragraaf 5.2](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=5&paragraaf=5.2&z=2016-05-12&g=2016-05-12).
+De regionale netbeheerder voert bij het fysiek in bedrijf nemen van de aansluiting een fysieke meteropname uit overeenkomstig [paragraaf 5.2](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=5&paragraaf=5.2&z=2016-07-27&g=2016-07-27).
 
 #### 3.9. Uit bedrijf nemen van een kleinverbruikaansluiting
 
@@ -1708,17 +1708,17 @@ De regionale netbeheerder voert bij het fysiek in bedrijf nemen van de aansluiti
 
 ##### 3.9.1.1
 
-Uiterlijk vijf werkdagen na de datum waarop de aansluiting fysiek uit bedrijf is genomen effectueert de regionale netbeheerder de waarde, bedoeld in [2.1.3, onderdeel h](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=2&paragraaf=2.1&artikel=2.1.3&z=2016-05-12&g=2016-05-12), die van toepassing is, te weten: "uit bedrijf" in het aansluitingenregister overeenkomstig [2.1.8](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=2&paragraaf=2.1&artikel=2.1.8&z=2016-05-12&g=2016-05-12).
+Uiterlijk vijf werkdagen na de datum waarop de aansluiting fysiek uit bedrijf is genomen effectueert de regionale netbeheerder de waarde, bedoeld in [2.1.3, onderdeel h](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=2&paragraaf=2.1&artikel=2.1.3&z=2016-07-27&g=2016-07-27), die van toepassing is, te weten: "uit bedrijf" in het aansluitingenregister overeenkomstig [2.1.8](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=2&paragraaf=2.1&artikel=2.1.8&z=2016-07-27&g=2016-07-27).
 
 ##### 3.9.1.2
 
-De regionale netbeheerder informeert de leverancier en de programmaverantwoordelijke die voor de aansluiting in het aansluitingenregister vermeld staan, overeenkomstig [paragraaf 2.2](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=2&paragraaf=2.2&z=2016-05-12&g=2016-05-12) over de mutatie, bedoeld in [3.9.1.1](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=3&paragraaf=3.9&sub-paragraaf=3.9.1&artikel=3.9.1.1&z=2016-05-12&g=2016-05-12).
+De regionale netbeheerder informeert de leverancier en de programmaverantwoordelijke die voor de aansluiting in het aansluitingenregister vermeld staan, overeenkomstig [paragraaf 2.2](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=2&paragraaf=2.2&z=2016-07-27&g=2016-07-27) over de mutatie, bedoeld in [3.9.1.1](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=3&paragraaf=3.9&sub-paragraaf=3.9.1&artikel=3.9.1.1&z=2016-07-27&g=2016-07-27).
 
 #### 3.9.2. De regionale netbeheerder voert een fysieke meteropname uit en distribueert de meterstand
 
 ##### 3.9.2.1
 
-De regionale netbeheerder voert bij het fysiek uit bedrijf nemen van de aansluiting een fysieke meteropname uit overeenkomstig [paragraaf 5.2](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=5&paragraaf=5.2&z=2016-05-12&g=2016-05-12).
+De regionale netbeheerder voert bij het fysiek uit bedrijf nemen van de aansluiting een fysieke meteropname uit overeenkomstig [paragraaf 5.2](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=5&paragraaf=5.2&z=2016-07-27&g=2016-07-27).
 
 #### 3.10. Verwijderen van een kleinverbruikaansluiting
 
@@ -1726,29 +1726,29 @@ De regionale netbeheerder voert bij het fysiek uit bedrijf nemen van de aansluit
 
 ##### 3.10.1.1
 
-De regionale netbeheerder controleert, voorafgaand aan de effectuering in het aansluitingenregister, bedoeld in [3.10.1.4](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=3&paragraaf=3.10&sub-paragraaf=3.10.1&artikel=3.10.1.4&z=2016-05-12&g=2016-05-12), of er voor de desbetreffende aansluiting nog eerder bevestigde, doch nog niet geëffectueerde leverancierswitchmeldingen, inhuizingsmeldingen, uithuizingsmeldingen, eindeleveringsmeldingen of PV-switchmeldingen zijn.
+De regionale netbeheerder controleert, voorafgaand aan de effectuering in het aansluitingenregister, bedoeld in [3.10.1.4](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=3&paragraaf=3.10&sub-paragraaf=3.10.1&artikel=3.10.1.4&z=2016-07-27&g=2016-07-27), of er voor de desbetreffende aansluiting nog eerder bevestigde, doch nog niet geëffectueerde leverancierswitchmeldingen, inhuizingsmeldingen, uithuizingsmeldingen, eindeleveringsmeldingen of PV-switchmeldingen zijn.
 
 ##### 3.10.1.2
 
-De regionale netbeheerder verwijdert eerder bevestigde, doch nog niet geëffectueerde meldingen, bedoeld in [3.10.1.1](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=3&paragraaf=3.10&sub-paragraaf=3.10.1&artikel=3.10.1.1&z=2016-05-12&g=2016-05-12), indien deze aanwezig zijn, beëindigt de procedure(s) en informeert de leverancier hierover. In afwijking van [paragraaf 8.1.1](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=8&paragraaf=8.1&artikel=8.1.1&z=2016-05-12&g=2016-05-12) vindt deze informatie niet plaats via het geautomatiseerde berichtenverkeer.
+De regionale netbeheerder verwijdert eerder bevestigde, doch nog niet geëffectueerde meldingen, bedoeld in [3.10.1.1](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=3&paragraaf=3.10&sub-paragraaf=3.10.1&artikel=3.10.1.1&z=2016-07-27&g=2016-07-27), indien deze aanwezig zijn, beëindigt de procedure(s) en informeert de leverancier hierover. In afwijking van [paragraaf 8.1.1](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=8&paragraaf=8.1&artikel=8.1.1&z=2016-07-27&g=2016-07-27) vindt deze informatie niet plaats via het geautomatiseerde berichtenverkeer.
 
 ##### 3.10.1.3
 
-De leverancier informeert de programmaverantwoordelijke over de verwijdering van eerder ingediende, doch nog niet geëffectueerde meldingen, bedoeld in [3.10.1.2](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=3&paragraaf=3.10&sub-paragraaf=3.10.1&artikel=3.10.1.2&z=2016-05-12&g=2016-05-12).
+De leverancier informeert de programmaverantwoordelijke over de verwijdering van eerder ingediende, doch nog niet geëffectueerde meldingen, bedoeld in [3.10.1.2](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=3&paragraaf=3.10&sub-paragraaf=3.10.1&artikel=3.10.1.2&z=2016-07-27&g=2016-07-27).
 
 ##### 3.10.1.4
 
-De regionale netbeheerder effectueert uiterlijk vijf werkdagen na de datum waarop de aansluiting fysiek is verwijderd de waarde, genoemd in [2.1.3, onderdeel h](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=2&paragraaf=2.1&artikel=2.1.3&z=2016-05-12&g=2016-05-12), die van toepassing is, te weten: "gesloopt" in het aansluitingenregister overeenkomstig [2.1.8](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=2&paragraaf=2.1&artikel=2.1.8&z=2016-05-12&g=2016-05-12).
+De regionale netbeheerder effectueert uiterlijk vijf werkdagen na de datum waarop de aansluiting fysiek is verwijderd de waarde, genoemd in [2.1.3, onderdeel h](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=2&paragraaf=2.1&artikel=2.1.3&z=2016-07-27&g=2016-07-27), die van toepassing is, te weten: "gesloopt" in het aansluitingenregister overeenkomstig [2.1.8](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=2&paragraaf=2.1&artikel=2.1.8&z=2016-07-27&g=2016-07-27).
 
 ##### 3.10.1.5
 
-De regionale netbeheerder informeert de leverancier en de programmaverantwoordelijke die voor de aansluiting in het aansluitingenregister vermeld staan, overeenkomstig [paragraaf 2.2](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=2&paragraaf=2.2&z=2016-05-12&g=2016-05-12) over de mutatie, bedoeld in [3.10.1.4](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=3&paragraaf=3.10&sub-paragraaf=3.10.1&artikel=3.10.1.4&z=2016-05-12&g=2016-05-12).
+De regionale netbeheerder informeert de leverancier en de programmaverantwoordelijke die voor de aansluiting in het aansluitingenregister vermeld staan, overeenkomstig [paragraaf 2.2](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=2&paragraaf=2.2&z=2016-07-27&g=2016-07-27) over de mutatie, bedoeld in [3.10.1.4](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=3&paragraaf=3.10&sub-paragraaf=3.10.1&artikel=3.10.1.4&z=2016-07-27&g=2016-07-27).
 
 #### 3.10.2. De regionale netbeheerder voert een fysieke meteropname uit en distribueert de meterstand
 
 ##### 3.10.2.1
 
-De regionale netbeheerder voert bij het verwijderen van de aansluiting een fysieke meteropname uit overeenkomstig [paragraaf 5.2](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=5&paragraaf=5.2&z=2016-05-12&g=2016-05-12) indien de fysieke status van de aansluiting, genoemd in [2.1.3 onderdeel h](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=2&paragraaf=2.1&artikel=2.1.3&z=2016-05-12&g=2016-05-12), voorafgaand aan de verwijdering van de aansluiting de waarde "in bedrijf" had.
+De regionale netbeheerder voert bij het verwijderen van de aansluiting een fysieke meteropname uit overeenkomstig [paragraaf 5.2](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=5&paragraaf=5.2&z=2016-07-27&g=2016-07-27) indien de fysieke status van de aansluiting, genoemd in [2.1.3 onderdeel h](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=2&paragraaf=2.1&artikel=2.1.3&z=2016-07-27&g=2016-07-27), voorafgaand aan de verwijdering van de aansluiting de waarde "in bedrijf" had.
 
 #### 3.11. Wisseling of wijziging van meetinrichting op een kleinverbruikaansluiting
 
@@ -1756,17 +1756,17 @@ De regionale netbeheerder voert bij het verwijderen van de aansluiting een fysie
 
 ##### 3.11.1.1
 
-Uiterlijk vijf werkdagen na de datum waarop de kleinverbruikmeetinrichting is gewisseld of gewijzigd effectueert de regionale netbeheerder dit in het aansluitingenregister overeenkomstig [2.1.8](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=2&paragraaf=2.1&artikel=2.1.8&z=2016-05-12&g=2016-05-12).
+Uiterlijk vijf werkdagen na de datum waarop de kleinverbruikmeetinrichting is gewisseld of gewijzigd effectueert de regionale netbeheerder dit in het aansluitingenregister overeenkomstig [2.1.8](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=2&paragraaf=2.1&artikel=2.1.8&z=2016-07-27&g=2016-07-27).
 
 ##### 3.11.1.2
 
-De regionale netbeheerder informeert de leverancier en de programmaverantwoordelijke die voor de aansluiting in het aansluitingenregister vermeld staan overeenkomstig [paragraaf 2.2](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=2&paragraaf=2.2&z=2016-05-12&g=2016-05-12) over de mutatie, bedoeld in [3.11.1.1](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=3&paragraaf=3.11&sub-paragraaf=3.11.1&artikel=3.11.1.1&z=2016-05-12&g=2016-05-12).
+De regionale netbeheerder informeert de leverancier en de programmaverantwoordelijke die voor de aansluiting in het aansluitingenregister vermeld staan overeenkomstig [paragraaf 2.2](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=2&paragraaf=2.2&z=2016-07-27&g=2016-07-27) over de mutatie, bedoeld in [3.11.1.1](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=3&paragraaf=3.11&sub-paragraaf=3.11.1&artikel=3.11.1.1&z=2016-07-27&g=2016-07-27).
 
 #### 3.11.2. De regionale netbeheerder voert een fysieke meteropname uit en distribueert de meterstand
 
 ##### 3.11.2.1
 
-De regionale netbeheerder voert bij een wisseling of wijziging van een kleinverbruikmeetinrichting een fysieke meteropname uit overeenkomstig [paragraaf 5.2](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=5&paragraaf=5.2&z=2016-05-12&g=2016-05-12).
+De regionale netbeheerder voert bij een wisseling of wijziging van een kleinverbruikmeetinrichting een fysieke meteropname uit overeenkomstig [paragraaf 5.2](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=5&paragraaf=5.2&z=2016-07-27&g=2016-07-27).
 
 #### 3.12. Wijzigen van naam of verblijfsfunctie of complexbepaling op een kleinverbruikaansluiting
 
@@ -1788,7 +1788,7 @@ De leverancier stuurt een melding wijzigen naam of verblijfsfunctie of complexbe
 
 - 3°. wijzigen van zowel de naam als de verblijfsfunctie of complexbepaling;
 
-- d. de gewijzigde gegevens, bedoeld in [3.12.1.1 onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=3&paragraaf=3.12&sub-paragraaf=3.12.1&artikel=3.12.1.1&z=2016-05-12&g=2016-05-12);
+- d. de gewijzigde gegevens, bedoeld in [3.12.1.1 onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=3&paragraaf=3.12&sub-paragraaf=3.12.1&artikel=3.12.1.1&z=2016-07-27&g=2016-07-27);
 
 - e. indien de leverancier dat wenst op te geven: het referentienummer van de leverancier.
 
@@ -1808,11 +1808,11 @@ Naar aanleiding van de melding wijzigen naam of verblijfsfunctie of complexbepal
 
 ##### 3.12.2.2
 
-Als alle controles uit [3.12.2.1](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=3&paragraaf=3.12&sub-paragraaf=3.12.2&artikel=3.12.2.1&z=2016-05-12&g=2016-05-12) een positief resultaat geven, wordt de procedure vervolgd vanaf [3.12.2.4](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=3&paragraaf=3.12&sub-paragraaf=3.12.2&artikel=3.12.2.4&z=2016-05-12&g=2016-05-12). Als dat niet het geval is, wordt de wijziging naam of verblijfsfunctie of complexbepaling niet uitgevoerd en wordt de procedure na [3.12.2.3](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=3&paragraaf=3.12&sub-paragraaf=3.12.2&artikel=3.12.2.3&z=2016-05-12&g=2016-05-12) beëindigd.
+Als alle controles uit [3.12.2.1](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=3&paragraaf=3.12&sub-paragraaf=3.12.2&artikel=3.12.2.1&z=2016-07-27&g=2016-07-27) een positief resultaat geven, wordt de procedure vervolgd vanaf [3.12.2.4](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=3&paragraaf=3.12&sub-paragraaf=3.12.2&artikel=3.12.2.4&z=2016-07-27&g=2016-07-27). Als dat niet het geval is, wordt de wijziging naam of verblijfsfunctie of complexbepaling niet uitgevoerd en wordt de procedure na [3.12.2.3](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=3&paragraaf=3.12&sub-paragraaf=3.12.2&artikel=3.12.2.3&z=2016-07-27&g=2016-07-27) beëindigd.
 
 ##### 3.12.2.3
 
-De regionale netbeheerder bericht het niet uitvoeren van de wijziging naam of verblijfsfunctie of complexbepaling naar aanleiding van [3.12.2.2](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=3&paragraaf=3.12&sub-paragraaf=3.12.2&artikel=3.12.2.2&z=2016-05-12&g=2016-05-12) uiterlijk de werkdag na ontvangst van de melding wijzigen naam of verblijfsfunctie of complexbepaling aan de leverancier die de melding heeft ingediend en vermeldt daarbij:
+De regionale netbeheerder bericht het niet uitvoeren van de wijziging naam of verblijfsfunctie of complexbepaling naar aanleiding van [3.12.2.2](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=3&paragraaf=3.12&sub-paragraaf=3.12.2&artikel=3.12.2.2&z=2016-07-27&g=2016-07-27) uiterlijk de werkdag na ontvangst van de melding wijzigen naam of verblijfsfunctie of complexbepaling aan de leverancier die de melding heeft ingediend en vermeldt daarbij:
 
 - a. de EAN-code van de aansluiting;
 
@@ -1844,11 +1844,11 @@ De regionale netbeheerder bevestigt de geplande uitvoering van de melding wijzig
 
 ##### 3.12.3.1
 
-De regionale netbeheerder muteert het aansluitingenregister met de door de leverancier aangeleverde gegevens overeenkomstig [2.1.8](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=2&paragraaf=2.1&artikel=2.1.8&z=2016-05-12&g=2016-05-12), tenzij een later ingediende leverancierswitchmelding, inhuizingsmelding, uithuizingsmelding of eindeleveringsmelding voor dezelfde aansluiting is ontvangen voor een eerdere of dezelfde mutatiedatum.
+De regionale netbeheerder muteert het aansluitingenregister met de door de leverancier aangeleverde gegevens overeenkomstig [2.1.8](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=2&paragraaf=2.1&artikel=2.1.8&z=2016-07-27&g=2016-07-27), tenzij een later ingediende leverancierswitchmelding, inhuizingsmelding, uithuizingsmelding of eindeleveringsmelding voor dezelfde aansluiting is ontvangen voor een eerdere of dezelfde mutatiedatum.
 
 ##### 3.12.3.2
 
-De regionale netbeheerder informeert de leverancier en programmaverantwoordelijke overeenkomstig [paragraaf 2.2](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=2&paragraaf=2.2&z=2016-05-12&g=2016-05-12), indien de mutaties, bedoeld in [3.12.3.1](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=3&paragraaf=3.12&sub-paragraaf=3.12.3&artikel=3.12.3.1&z=2016-05-12&g=2016-05-12), een wijziging van de verblijfsfunctie of complexbepaling betreffen.
+De regionale netbeheerder informeert de leverancier en programmaverantwoordelijke overeenkomstig [paragraaf 2.2](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=2&paragraaf=2.2&z=2016-07-27&g=2016-07-27), indien de mutaties, bedoeld in [3.12.3.1](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=3&paragraaf=3.12&sub-paragraaf=3.12.3&artikel=3.12.3.1&z=2016-07-27&g=2016-07-27), een wijziging van de verblijfsfunctie of complexbepaling betreffen.
 
 #### 3.13. Op verzoek van de aangeslotene administratief aan- en uitzetten van kleinverbruikmeetinrichting die op afstand uitleesbaar is
 
@@ -1856,11 +1856,11 @@ De regionale netbeheerder informeert de leverancier en programmaverantwoordelijk
 
 ##### 3.13.1.1
 
-Op verzoek van de aangeslotene wijzigt de regionale netbeheerder de administratieve status van de kleinverbruikmeetinrichting, bedoeld in [2.1.4 onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=2&paragraaf=2.1&artikel=2.1.4&z=2016-05-12&g=2016-05-12), van de kleinverbruikmeetinrichting die op afstand uitleesbaar is in het aansluitingenregister overeenkomstig [2.1.8](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=2&paragraaf=2.1&artikel=2.1.8&z=2016-05-12&g=2016-05-12).
+Op verzoek van de aangeslotene wijzigt de regionale netbeheerder de administratieve status van de kleinverbruikmeetinrichting, bedoeld in [2.1.4 onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=2&paragraaf=2.1&artikel=2.1.4&z=2016-07-27&g=2016-07-27), van de kleinverbruikmeetinrichting die op afstand uitleesbaar is in het aansluitingenregister overeenkomstig [2.1.8](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=2&paragraaf=2.1&artikel=2.1.8&z=2016-07-27&g=2016-07-27).
 
 ##### 3.13.1.2
 
-De regionale netbeheerder informeert de leverancier en de programmaverantwoordelijke die voor de aansluiting in het aansluitingenregister vermeld staan overeenkomstig [paragraaf 2.2](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=2&paragraaf=2.2&z=2016-05-12&g=2016-05-12) over de mutatie, bedoeld in [3.13.1.1](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=3&paragraaf=3.13&sub-paragraaf=3.13.1&artikel=3.13.1.1&z=2016-05-12&g=2016-05-12).
+De regionale netbeheerder informeert de leverancier en de programmaverantwoordelijke die voor de aansluiting in het aansluitingenregister vermeld staan overeenkomstig [paragraaf 2.2](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=2&paragraaf=2.2&z=2016-07-27&g=2016-07-27) over de mutatie, bedoeld in [3.13.1.1](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=3&paragraaf=3.13&sub-paragraaf=3.13.1&artikel=3.13.1.1&z=2016-07-27&g=2016-07-27).
 
 ##### 3.13.1.3
 
@@ -1872,37 +1872,37 @@ De meetinrichting waarvan de administratieve status op ”uit” is gezet wordt 
 
 ##### 3.14.1.1
 
-Onder een onterechte leverancierswitch wordt verstaan de uitvoering van de leverancierswitch, bedoeld in [3.1](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=3&paragraaf=3.1&z=2016-05-12&g=2016-05-12), op een aansluiting waarvoor geen leveringsovereenkomst voor de desbetreffende periode tot stand is gekomen tussen de aangeslotene en de leverancier die de leverancierswitchmelding heeft ingediend.
+Onder een onterechte leverancierswitch wordt verstaan de uitvoering van de leverancierswitch, bedoeld in [3.1](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=3&paragraaf=3.1&z=2016-07-27&g=2016-07-27), op een aansluiting waarvoor geen leveringsovereenkomst voor de desbetreffende periode tot stand is gekomen tussen de aangeslotene en de leverancier die de leverancierswitchmelding heeft ingediend.
 
 ##### 3.14.1.2
 
-De leverancier, die constateert dat er sprake is van een onterechte leverancierswitch, neemt hierover binnen vijf werkdagen contact op met de andere betrokken leverancier. In afwijking van [paragraaf 9.1](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=9&paragraaf=9.1&z=2016-05-12&g=2016-05-12) vindt deze informatie-uitwisseling niet plaats via het geautomatiseerde berichtenverkeer.
+De leverancier, die constateert dat er sprake is van een onterechte leverancierswitch, neemt hierover binnen vijf werkdagen contact op met de andere betrokken leverancier. In afwijking van [paragraaf 9.1](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=9&paragraaf=9.1&z=2016-07-27&g=2016-07-27) vindt deze informatie-uitwisseling niet plaats via het geautomatiseerde berichtenverkeer.
 
 ##### 3.14.1.3
 
-De leverancier, die voor de desbetreffende aansluiting uit het aansluitingenregister is verwijderd, dient terstond een leverancierswitch in ter correctie van de onterechte leverancierswitch, bedoeld in [3.14.1.1](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=3&paragraaf=3.14&sub-paragraaf=3.14.1&artikel=3.14.1.1&z=2016-05-12&g=2016-05-12), voor deze aangeslotene overeenkomstig [paragraaf 3.1](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=3&paragraaf=3.1&z=2016-05-12&g=2016-05-12), indien de leveranciers constateren dat er sprake is van een onterechte leverancierswitch met dien verstande dat voor de leverancierswitch ter correctie geen nieuwe machtiging van de aangeslotene benodigd is.
+De leverancier, die voor de desbetreffende aansluiting uit het aansluitingenregister is verwijderd, dient terstond een leverancierswitch in ter correctie van de onterechte leverancierswitch, bedoeld in [3.14.1.1](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=3&paragraaf=3.14&sub-paragraaf=3.14.1&artikel=3.14.1.1&z=2016-07-27&g=2016-07-27), voor deze aangeslotene overeenkomstig [paragraaf 3.1](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=3&paragraaf=3.1&z=2016-07-27&g=2016-07-27), indien de leveranciers constateren dat er sprake is van een onterechte leverancierswitch met dien verstande dat voor de leverancierswitch ter correctie geen nieuwe machtiging van de aangeslotene benodigd is.
 
 ##### 3.14.1.4
 
-In de leverancierswitch die ter correctie is ingediend, bedoeld in [3.14.1.3](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=3&paragraaf=3.14&sub-paragraaf=3.14.1&artikel=3.14.1.3&z=2016-05-12&g=2016-05-12), wordt de laatst vastgestelde meterstand op de aansluiting gebruikt voor de mutatiedatum van de leverancierswitch die als correctie is ingediend.
+In de leverancierswitch die ter correctie is ingediend, bedoeld in [3.14.1.3](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=3&paragraaf=3.14&sub-paragraaf=3.14.1&artikel=3.14.1.3&z=2016-07-27&g=2016-07-27), wordt de laatst vastgestelde meterstand op de aansluiting gebruikt voor de mutatiedatum van de leverancierswitch die als correctie is ingediend.
 
 ##### 3.14.1.5
 
-De leveranciers verrekenen de inkoopkosten onderling, indien de switch die ter correctie is ingediend, bedoeld in [3.14.1.3](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=3&paragraaf=3.14&sub-paragraaf=3.14.1&artikel=3.14.1.3&z=2016-05-12&g=2016-05-12), op een later tijdstip dan dertien maanden na de onterechte leverancierswitch plaatsvindt en één van de leveranciers dit verlangt.
+De leveranciers verrekenen de inkoopkosten onderling, indien de switch die ter correctie is ingediend, bedoeld in [3.14.1.3](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=3&paragraaf=3.14&sub-paragraaf=3.14.1&artikel=3.14.1.3&z=2016-07-27&g=2016-07-27), op een later tijdstip dan dertien maanden na de onterechte leverancierswitch plaatsvindt en één van de leveranciers dit verlangt.
 
 #### 3.14.2. Correctieproces onterechte uithuizing
 
 ##### 3.14.2.1
 
-Onder een onterechte uithuizing wordt verstaan de uitvoering van de uithuizing, bedoeld in [3.2](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=3&paragraaf=3.2&z=2016-05-12&g=2016-05-12), op een aansluiting waarbij de aangeslotene niet daadwerkelijk de aansluiting heeft verlaten.
+Onder een onterechte uithuizing wordt verstaan de uitvoering van de uithuizing, bedoeld in [3.2](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=3&paragraaf=3.2&z=2016-07-27&g=2016-07-27), op een aansluiting waarbij de aangeslotene niet daadwerkelijk de aansluiting heeft verlaten.
 
 ##### 3.14.2.2
 
-De leverancier, die constateert dat er sprake is van een onterechte uithuizing op een aansluiting, dient terstond een inhuizing ter correctie in overeenkomstig [paragraaf 3.3](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=3&paragraaf=3.3&z=2016-05-12&g=2016-05-12), met dien verstande dat geen nieuwe machtiging van de aangeslotene benodigd is.
+De leverancier, die constateert dat er sprake is van een onterechte uithuizing op een aansluiting, dient terstond een inhuizing ter correctie in overeenkomstig [paragraaf 3.3](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=3&paragraaf=3.3&z=2016-07-27&g=2016-07-27), met dien verstande dat geen nieuwe machtiging van de aangeslotene benodigd is.
 
 ##### 3.14.2.3
 
-In de inhuizing ter correctie, bedoeld in [3.14.2.2](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=3&paragraaf=3.14&sub-paragraaf=3.14.2&artikel=3.14.2.2&z=2016-05-12&g=2016-05-12), wordt de meterstand die voor de aansluiting op de mutatiedatum van de onterechte uithuizing is gebruikt, vastgesteld voor de datum van de inhuizing die ter correctie is ingediend.
+In de inhuizing ter correctie, bedoeld in [3.14.2.2](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=3&paragraaf=3.14&sub-paragraaf=3.14.2&artikel=3.14.2.2&z=2016-07-27&g=2016-07-27), wordt de meterstand die voor de aansluiting op de mutatiedatum van de onterechte uithuizing is gebruikt, vastgesteld voor de datum van de inhuizing die ter correctie is ingediend.
 
 ##### 3.14.2.4
 
@@ -1912,63 +1912,63 @@ De leverancier vergoedt de kosten als gevolg van de onterechte uithuizing aan de
 
 ##### 3.14.3.1
 
-Onder een onterechte inhuizing wordt verstaan de uitvoering van de inhuizing, bedoeld in [paragraaf 3.3](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=3&paragraaf=3.3&z=2016-05-12&g=2016-05-12), op een aansluiting waarbij de veronderstelde aangeslotene niet daadwerkelijk op de aansluiting is ingehuisd dan wel dat er geen leveringsovereenkomst voor de desbetreffende aansluiting tussen de aangeslotene en de leverancier bestaat.
+Onder een onterechte inhuizing wordt verstaan de uitvoering van de inhuizing, bedoeld in [paragraaf 3.3](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=3&paragraaf=3.3&z=2016-07-27&g=2016-07-27), op een aansluiting waarbij de veronderstelde aangeslotene niet daadwerkelijk op de aansluiting is ingehuisd dan wel dat er geen leveringsovereenkomst voor de desbetreffende aansluiting tussen de aangeslotene en de leverancier bestaat.
 
 ##### 3.14.3.2
 
-De leverancier die constateert dat het een onterechte inhuizing betreft op een aansluiting, waarbij op het moment van inhuizen geen leverancier in het aansluitingenregister geregistreerd staat, zal terstond een uithuizing ter correctie indienen overeenkomstig [paragraaf 3.2](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=3&paragraaf=3.2&z=2016-05-12&g=2016-05-12), met dien verstande dat geen nieuwe machtiging van de aangeslotene benodigd is.
+De leverancier die constateert dat het een onterechte inhuizing betreft op een aansluiting, waarbij op het moment van inhuizen geen leverancier in het aansluitingenregister geregistreerd staat, zal terstond een uithuizing ter correctie indienen overeenkomstig [paragraaf 3.2](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=3&paragraaf=3.2&z=2016-07-27&g=2016-07-27), met dien verstande dat geen nieuwe machtiging van de aangeslotene benodigd is.
 
 ##### 3.14.3.3
 
-In de uithuizing ter correctie, bedoeld in [3.14.3.2](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=3&paragraaf=3.14&sub-paragraaf=3.14.3&artikel=3.14.3.2&z=2016-05-12&g=2016-05-12), wordt de laatst vastgestelde meterstand op de aansluiting gebruikt voor de mutatiedatum van de uithuizing die als correctie is ingediend.
+In de uithuizing ter correctie, bedoeld in [3.14.3.2](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=3&paragraaf=3.14&sub-paragraaf=3.14.3&artikel=3.14.3.2&z=2016-07-27&g=2016-07-27), wordt de laatst vastgestelde meterstand op de aansluiting gebruikt voor de mutatiedatum van de uithuizing die als correctie is ingediend.
 
 ##### 3.14.3.4
 
-De leverancier die constateert dat het een onterechte inhuizing betreft op een aansluiting, waarbij op het moment van inhuizen een leverancier in het aansluitingenregister geregistreerd staat, neemt hierover binnen vijf werkdagen contact op met de andere betrokken leverancier. In afwijking van [paragraaf 9.1](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=9&paragraaf=9.1&z=2016-05-12&g=2016-05-12) vindt deze informatie-uitwisseling niet plaats via het geautomatiseerde berichtenverkeer.
+De leverancier die constateert dat het een onterechte inhuizing betreft op een aansluiting, waarbij op het moment van inhuizen een leverancier in het aansluitingenregister geregistreerd staat, neemt hierover binnen vijf werkdagen contact op met de andere betrokken leverancier. In afwijking van [paragraaf 9.1](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=9&paragraaf=9.1&z=2016-07-27&g=2016-07-27) vindt deze informatie-uitwisseling niet plaats via het geautomatiseerde berichtenverkeer.
 
 ##### 3.14.3.5
 
-De leverancier die door de onterechte inhuizing uit het aansluitingenregister is verwijderd, dient terstond een inhuizing ter correctie in voor deze aangeslotene overeenkomstig [paragraaf 3.3](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=3&paragraaf=3.3&z=2016-05-12&g=2016-05-12), indien de leveranciers, bedoeld in [3.14.3.4](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=3&paragraaf=3.14&sub-paragraaf=3.14.3&artikel=3.14.3.4&z=2016-05-12&g=2016-05-12), constateren dat er sprake is van een onterechte inhuizing. Met dien verstande dat voor de inhuizing ter correctie geen nieuwe machtiging van de aangeslotene benodigd is.
+De leverancier die door de onterechte inhuizing uit het aansluitingenregister is verwijderd, dient terstond een inhuizing ter correctie in voor deze aangeslotene overeenkomstig [paragraaf 3.3](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=3&paragraaf=3.3&z=2016-07-27&g=2016-07-27), indien de leveranciers, bedoeld in [3.14.3.4](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=3&paragraaf=3.14&sub-paragraaf=3.14.3&artikel=3.14.3.4&z=2016-07-27&g=2016-07-27), constateren dat er sprake is van een onterechte inhuizing. Met dien verstande dat voor de inhuizing ter correctie geen nieuwe machtiging van de aangeslotene benodigd is.
 
 ##### 3.14.3.6
 
-In de inhuizing ter correctie, bedoeld in [3.14.3.5](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=3&paragraaf=3.14&sub-paragraaf=3.14.3&artikel=3.14.3.5&z=2016-05-12&g=2016-05-12), wordt de laatst vastgestelde meterstand op de aansluiting gebruikt voor de mutatiedatum van de inhuizing die als correctie is ingediend.
+In de inhuizing ter correctie, bedoeld in [3.14.3.5](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=3&paragraaf=3.14&sub-paragraaf=3.14.3&artikel=3.14.3.5&z=2016-07-27&g=2016-07-27), wordt de laatst vastgestelde meterstand op de aansluiting gebruikt voor de mutatiedatum van de inhuizing die als correctie is ingediend.
 
 ##### 3.14.3.7
 
-De leveranciers verrekenen de inkoopkosten onderling, indien de inhuizing ter correctie, bedoeld in [3.14.3.6](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=3&paragraaf=3.14&sub-paragraaf=3.14.3&artikel=3.14.3.6&z=2016-05-12&g=2016-05-12), op een later tijdstip dan dertien maanden na de onterechte inhuizing plaatsvindt en één van de leveranciers dit verlangt.
+De leveranciers verrekenen de inkoopkosten onderling, indien de inhuizing ter correctie, bedoeld in [3.14.3.6](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=3&paragraaf=3.14&sub-paragraaf=3.14.3&artikel=3.14.3.6&z=2016-07-27&g=2016-07-27), op een later tijdstip dan dertien maanden na de onterechte inhuizing plaatsvindt en één van de leveranciers dit verlangt.
 
 #### 3.14.4. Correctieproces onterechte eindelevering
 
 ##### 3.14.4.1
 
-Onder een onterechte eindelevering wordt verstaan de onbedoelde uitvoering van het proces eindelevering op een aansluiting, bedoeld in [paragraaf 3.4](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=3&paragraaf=3.4&z=2016-05-12&g=2016-05-12).
+Onder een onterechte eindelevering wordt verstaan de onbedoelde uitvoering van het proces eindelevering op een aansluiting, bedoeld in [paragraaf 3.4](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=3&paragraaf=3.4&z=2016-07-27&g=2016-07-27).
 
 ##### 3.14.4.2
 
-De leverancier die constateert dat er sprake is van een onterechte eindelevering, dient terstond een inhuizing ter correctie in overeenkomstig [3.3](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=3&paragraaf=3.3&z=2016-05-12&g=2016-05-12), met dien verstande dat geen nieuwe machtiging van de aangeslotene benodigd is.
+De leverancier die constateert dat er sprake is van een onterechte eindelevering, dient terstond een inhuizing ter correctie in overeenkomstig [3.3](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=3&paragraaf=3.3&z=2016-07-27&g=2016-07-27), met dien verstande dat geen nieuwe machtiging van de aangeslotene benodigd is.
 
 ##### 3.14.4.3
 
-In de inhuizing ter correctie, bedoeld in [3.14.4.2](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=3&paragraaf=3.14&sub-paragraaf=3.14.4&artikel=3.14.4.2&z=2016-05-12&g=2016-05-12), wordt de meterstand, die op de mutatiedatum van de onterechte eindelevering is vastgesteld, gebruikt voor de mutatiedatum van de inhuizing die als correctie is ingediend.
+In de inhuizing ter correctie, bedoeld in [3.14.4.2](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=3&paragraaf=3.14&sub-paragraaf=3.14.4&artikel=3.14.4.2&z=2016-07-27&g=2016-07-27), wordt de meterstand, die op de mutatiedatum van de onterechte eindelevering is vastgesteld, gebruikt voor de mutatiedatum van de inhuizing die als correctie is ingediend.
 
 #### 3.14.5. Correctieproces onterechte PV-switch
 
 ##### 3.14.5.1
 
-Onder een onterechte PV-switch wordt verstaan de onbedoelde uitvoering van het proces PV-switch op een aansluiting, bedoeld in [paragraaf 3.5](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=3&paragraaf=3.5&z=2016-05-12&g=2016-05-12) of [paragraaf 3.6](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=3&paragraaf=3.6&z=2016-05-12&g=2016-05-12).
+Onder een onterechte PV-switch wordt verstaan de onbedoelde uitvoering van het proces PV-switch op een aansluiting, bedoeld in [paragraaf 3.5](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=3&paragraaf=3.5&z=2016-07-27&g=2016-07-27) of [paragraaf 3.6](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=3&paragraaf=3.6&z=2016-07-27&g=2016-07-27).
 
 ##### 3.14.5.2
 
-De leverancier, die constateert dat er sprake is van een onterechte PV-switch, neemt hierover binnen vijf werkdagen contact op met de betrokken programmaverantwoordelijken. In afwijking van [paragraaf 9.1](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=9&paragraaf=9.1&z=2016-05-12&g=2016-05-12) vindt deze informatie-uitwisseling niet plaats via het geautomatiseerde berichtenverkeer.
+De leverancier, die constateert dat er sprake is van een onterechte PV-switch, neemt hierover binnen vijf werkdagen contact op met de betrokken programmaverantwoordelijken. In afwijking van [paragraaf 9.1](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=9&paragraaf=9.1&z=2016-07-27&g=2016-07-27) vindt deze informatie-uitwisseling niet plaats via het geautomatiseerde berichtenverkeer.
 
 ##### 3.14.5.3
 
-De leverancier die constateert dat er sprake is van een onterechte PV-switch, dient terstond een PV-switch ter correctie in overeenkomstig [3.5](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=3&paragraaf=3.5&z=2016-05-12&g=2016-05-12).
+De leverancier die constateert dat er sprake is van een onterechte PV-switch, dient terstond een PV-switch ter correctie in overeenkomstig [3.5](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=3&paragraaf=3.5&z=2016-07-27&g=2016-07-27).
 
 ##### 3.14.5.4
 
-De programmaverantwoordelijke die naar aanleiding van de onterechte PV-switch, bedoeld in [3.14.5.1](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=3&paragraaf=3.14&sub-paragraaf=3.14.5&artikel=3.14.5.1&z=2016-05-12&g=2016-05-12), onterecht in het aansluitingenregister is geregistreerd, verrekent de volumes en eventuele kosten met de leverancier wanneer dit noodzakelijk wordt geacht.
+De programmaverantwoordelijke die naar aanleiding van de onterechte PV-switch, bedoeld in [3.14.5.1](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=3&paragraaf=3.14&sub-paragraaf=3.14.5&artikel=3.14.5.1&z=2016-07-27&g=2016-07-27), onterecht in het aansluitingenregister is geregistreerd, verrekent de volumes en eventuele kosten met de leverancier wanneer dit noodzakelijk wordt geacht.
 
 ### 4. Mutatieprocessen voor grootverbruikaansluitingen
 
@@ -2016,15 +2016,15 @@ Naar aanleiding van de switchmelding controleert de netbeheerder of:
 
 ##### 4.1.2.2
 
-In aanvulling op [4.1.2.1](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=4&paragraaf=4.1&sub-paragraaf=4.1.2&artikel=4.1.2.1&z=2016-05-12&g=2016-05-12) controleert de netbeheerder of de naam van de aangeslotene is ingevuld in de switchmelding, indien op de aansluiting in het aansluitingenregister geen leverancier is geregistreerd op de switchdatum.
+In aanvulling op [4.1.2.1](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=4&paragraaf=4.1&sub-paragraaf=4.1.2&artikel=4.1.2.1&z=2016-07-27&g=2016-07-27) controleert de netbeheerder of de naam van de aangeslotene is ingevuld in de switchmelding, indien op de aansluiting in het aansluitingenregister geen leverancier is geregistreerd op de switchdatum.
 
 ##### 4.1.2.3
 
-Als alle controles uit [4.1.2.1](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=4&paragraaf=4.1&sub-paragraaf=4.1.2&artikel=4.1.2.1&z=2016-05-12&g=2016-05-12) en [4.1.2.2](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=4&paragraaf=4.1&sub-paragraaf=4.1.2&artikel=4.1.2.2&z=2016-05-12&g=2016-05-12) een positief resultaat geven, wordt de procedure vervolgd vanaf [4.1.2.5](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=4&paragraaf=4.1&sub-paragraaf=4.1.2&artikel=4.1.2.5&z=2016-05-12&g=2016-05-12). Als dat niet het geval is, wordt de switch niet uitgevoerd en wordt de procedure na [4.1.2.4](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=4&paragraaf=4.1&sub-paragraaf=4.1.2&artikel=4.1.2.4&z=2016-05-12&g=2016-05-12) beëindigd.
+Als alle controles uit [4.1.2.1](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=4&paragraaf=4.1&sub-paragraaf=4.1.2&artikel=4.1.2.1&z=2016-07-27&g=2016-07-27) en [4.1.2.2](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=4&paragraaf=4.1&sub-paragraaf=4.1.2&artikel=4.1.2.2&z=2016-07-27&g=2016-07-27) een positief resultaat geven, wordt de procedure vervolgd vanaf [4.1.2.5](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=4&paragraaf=4.1&sub-paragraaf=4.1.2&artikel=4.1.2.5&z=2016-07-27&g=2016-07-27). Als dat niet het geval is, wordt de switch niet uitgevoerd en wordt de procedure na [4.1.2.4](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=4&paragraaf=4.1&sub-paragraaf=4.1.2&artikel=4.1.2.4&z=2016-07-27&g=2016-07-27) beëindigd.
 
 ##### 4.1.2.4
 
-De netbeheerder bericht het niet uitvoeren van de switch naar aanleiding van [4.1.2.3](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=4&paragraaf=4.1&sub-paragraaf=4.1.2&artikel=4.1.2.3&z=2016-05-12&g=2016-05-12) uiterlijk de werkdag na ontvangst van de switchmelding aan de leverancier die de switchmelding heeft ingediend en vermeldt daarbij:
+De netbeheerder bericht het niet uitvoeren van de switch naar aanleiding van [4.1.2.3](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=4&paragraaf=4.1&sub-paragraaf=4.1.2&artikel=4.1.2.3&z=2016-07-27&g=2016-07-27) uiterlijk de werkdag na ontvangst van de switchmelding aan de leverancier die de switchmelding heeft ingediend en vermeldt daarbij:
 
 - a. de EAN-code van de aansluiting;
 
@@ -2144,23 +2144,23 @@ De netbeheerder verstuurt een verliesbericht uiterlijk de werkdag na ontvangst v
 
 ##### 4.1.2.10
 
-De netbeheerder beëindigt de procedure van een reeds bevestigd, maar nog niet geëffectueerd mutatieproces uithuizing, eindelevering, PV-switch of wijzigen verblijfsfunctie of complexbepaling, indien de leverancierswitch, bedoeld in [4.1.1.1](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=4&paragraaf=4.1&sub-paragraaf=4.1.1&artikel=4.1.1.1&z=2016-05-12&g=2016-05-12), het desbetreffende mutatieproces annuleert.
+De netbeheerder beëindigt de procedure van een reeds bevestigd, maar nog niet geëffectueerd mutatieproces uithuizing, eindelevering, PV-switch of wijzigen verblijfsfunctie of complexbepaling, indien de leverancierswitch, bedoeld in [4.1.1.1](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=4&paragraaf=4.1&sub-paragraaf=4.1.1&artikel=4.1.1.1&z=2016-07-27&g=2016-07-27), het desbetreffende mutatieproces annuleert.
 
 #### 4.1.3. De netbeheerder voert de switch uit en communiceert dit
 
 ##### 4.1.3.1
 
-De netbeheerder muteert het aansluitingenregister met de door de nieuwe leverancier aangeleverde gegevens overeenkomstig [2.1.8](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=2&paragraaf=2.1&artikel=2.1.8&z=2016-05-12&g=2016-05-12).
+De netbeheerder muteert het aansluitingenregister met de door de nieuwe leverancier aangeleverde gegevens overeenkomstig [2.1.8](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=2&paragraaf=2.1&artikel=2.1.8&z=2016-07-27&g=2016-07-27).
 
 ##### 4.1.3.2
 
-De netbeheerder informeert de nieuwe leverancier, nieuwe programmaverantwoordelijke en meetverantwoordelijke overeenkomstig [paragraaf 2.2](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=2&paragraaf=2.2&z=2016-05-12&g=2016-05-12) omtrent de mutaties, bedoeld in [4.1.3.1](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=4&paragraaf=4.1&sub-paragraaf=4.1.3&artikel=4.1.3.1&z=2016-05-12&g=2016-05-12).
+De netbeheerder informeert de nieuwe leverancier, nieuwe programmaverantwoordelijke en meetverantwoordelijke overeenkomstig [paragraaf 2.2](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=2&paragraaf=2.2&z=2016-07-27&g=2016-07-27) omtrent de mutaties, bedoeld in [4.1.3.1](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=4&paragraaf=4.1&sub-paragraaf=4.1.3&artikel=4.1.3.1&z=2016-07-27&g=2016-07-27).
 
 #### 4.1.4. Collecteren, vaststellen en distribueren van de meterstand
 
 ##### 4.1.4.1
 
-Het collecteren, vaststellen en distribueren van de meterstand en het verbruik behorend bij het switchproces wordt overeenkomstig [hoofdstuk 6](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=6&z=2016-05-12&g=2016-05-12) uitgevoerd.
+Het collecteren, vaststellen en distribueren van de meterstand en het verbruik behorend bij het switchproces wordt overeenkomstig [hoofdstuk 6](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=6&z=2016-07-27&g=2016-07-27) uitgevoerd.
 
 #### 4.2. Uithuizing op een grootverbruikaansluiting
 
@@ -2200,11 +2200,11 @@ Naar aanleiding van de uithuizingsmelding controleert de netbeheerder of:
 
 ##### 4.2.2.2
 
-Als alle controles uit [4.2.2.1](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=4&paragraaf=4.2&sub-paragraaf=4.2.2&artikel=4.2.2.1&z=2016-05-12&g=2016-05-12) een positief resultaat geven, wordt de procedure vervolgd vanaf [4.2.2.4](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=4&paragraaf=4.2&sub-paragraaf=4.2.2&artikel=4.2.2.4&z=2016-05-12&g=2016-05-12). Als dat niet het geval is, wordt de uithuizing niet uitgevoerd en wordt de procedure na [4.2.2.3](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=4&paragraaf=4.2&sub-paragraaf=4.2.2&artikel=4.2.2.3&z=2016-05-12&g=2016-05-12) beëindigd.
+Als alle controles uit [4.2.2.1](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=4&paragraaf=4.2&sub-paragraaf=4.2.2&artikel=4.2.2.1&z=2016-07-27&g=2016-07-27) een positief resultaat geven, wordt de procedure vervolgd vanaf [4.2.2.4](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=4&paragraaf=4.2&sub-paragraaf=4.2.2&artikel=4.2.2.4&z=2016-07-27&g=2016-07-27). Als dat niet het geval is, wordt de uithuizing niet uitgevoerd en wordt de procedure na [4.2.2.3](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=4&paragraaf=4.2&sub-paragraaf=4.2.2&artikel=4.2.2.3&z=2016-07-27&g=2016-07-27) beëindigd.
 
 ##### 4.2.2.3
 
-De netbeheerder bericht het niet uitvoeren van de uithuizing naar aanleiding van [4.2.2.2](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=4&paragraaf=4.2&sub-paragraaf=4.2.2&artikel=4.2.2.2&z=2016-05-12&g=2016-05-12) uiterlijk de werkdag na ontvangst van de uithuizingsmelding aan de leverancier die de uithuizingsmelding heeft ingediend en vermeldt daarbij:
+De netbeheerder bericht het niet uitvoeren van de uithuizing naar aanleiding van [4.2.2.2](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=4&paragraaf=4.2&sub-paragraaf=4.2.2&artikel=4.2.2.2&z=2016-07-27&g=2016-07-27) uiterlijk de werkdag na ontvangst van de uithuizingsmelding aan de leverancier die de uithuizingsmelding heeft ingediend en vermeldt daarbij:
 
 - a. de EAN-code van de aansluiting;
 
@@ -2274,7 +2274,7 @@ De netbeheerder verstuurt een verliesbericht uiterlijk de werkdag na ontvangst v
 
 - d. de bedrijfs-EAN-code van de actuele leverancier;
 
-- e. indien de uithuizing het gevolg is van een inhuizing, bedoeld in [4.3](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=4&paragraaf=4.3&z=2016-05-12&g=2016-05-12), bevat de melding tevens de bedrijfs-EAN-code van de nieuwe leverancier op de aansluiting.
+- e. indien de uithuizing het gevolg is van een inhuizing, bedoeld in [4.3](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=4&paragraaf=4.3&z=2016-07-27&g=2016-07-27), bevat de melding tevens de bedrijfs-EAN-code van de nieuwe leverancier op de aansluiting.
 
 - f. de procesidentificatie die van toepassing is, te weten: uithuizing;
 
@@ -2282,23 +2282,23 @@ De netbeheerder verstuurt een verliesbericht uiterlijk de werkdag na ontvangst v
 
 ##### 4.2.2.7
 
-De netbeheerder beëindigt de procedure van een reeds bevestigd, maar nog niet geëffectueerd mutatieproces uithuizing, eindelevering, PV-switch of wijzigen verblijfsfunctie of complexbepaling, indien de uithuizing, bedoeld in [4.2.1.1](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=4&paragraaf=4.2&sub-paragraaf=4.2.1&artikel=4.2.1.1&z=2016-05-12&g=2016-05-12), het desbetreffende mutatieproces annuleert.
+De netbeheerder beëindigt de procedure van een reeds bevestigd, maar nog niet geëffectueerd mutatieproces uithuizing, eindelevering, PV-switch of wijzigen verblijfsfunctie of complexbepaling, indien de uithuizing, bedoeld in [4.2.1.1](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=4&paragraaf=4.2&sub-paragraaf=4.2.1&artikel=4.2.1.1&z=2016-07-27&g=2016-07-27), het desbetreffende mutatieproces annuleert.
 
 #### 4.2.3. De netbeheerder voert de uithuizing uit en communiceert dit
 
 ##### 4.2.3.1
 
-De netbeheerder muteert het aansluitingenregister met de door de actuele leverancier aangeleverde gegevens overeenkomstig [2.1.8](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=2&paragraaf=2.1&artikel=2.1.8&z=2016-05-12&g=2016-05-12), tenzij een later ingediende leverancierswitchmelding, inhuizingsmelding, uithuizingsmelding of eindeleveringsmelding is ontvangen voor een eerdere of dezelfde mutatiedatum.
+De netbeheerder muteert het aansluitingenregister met de door de actuele leverancier aangeleverde gegevens overeenkomstig [2.1.8](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=2&paragraaf=2.1&artikel=2.1.8&z=2016-07-27&g=2016-07-27), tenzij een later ingediende leverancierswitchmelding, inhuizingsmelding, uithuizingsmelding of eindeleveringsmelding is ontvangen voor een eerdere of dezelfde mutatiedatum.
 
 ##### 4.2.3.2
 
-De netbeheerder informeert de meetverantwoordelijke overeenkomstig [paragraaf 2.2](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=2&paragraaf=2.2&z=2016-05-12&g=2016-05-12) omtrent de mutaties, bedoeld in [4.2.3.1](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=4&paragraaf=4.2&sub-paragraaf=4.2.3&artikel=4.2.3.1&z=2016-05-12&g=2016-05-12).
+De netbeheerder informeert de meetverantwoordelijke overeenkomstig [paragraaf 2.2](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=2&paragraaf=2.2&z=2016-07-27&g=2016-07-27) omtrent de mutaties, bedoeld in [4.2.3.1](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=4&paragraaf=4.2&sub-paragraaf=4.2.3&artikel=4.2.3.1&z=2016-07-27&g=2016-07-27).
 
 #### 4.2.4. Collecteren, vaststellen en distribueren van de meterstand
 
 ##### 4.2.4.1
 
-Het collecteren, vaststellen en distribueren van de meterstand en verbruik bij het uithuizingsproces wordt overeenkomstig [hoofdstuk 6](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=6&z=2016-05-12&g=2016-05-12) uitgevoerd.
+Het collecteren, vaststellen en distribueren van de meterstand en verbruik bij het uithuizingsproces wordt overeenkomstig [hoofdstuk 6](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=6&z=2016-07-27&g=2016-07-27) uitgevoerd.
 
 #### 4.3. Inhuizing op een grootverbruikaansluiting
 
@@ -2328,7 +2328,7 @@ De aangeslotene machtigt zijn actuele dan wel de nieuwe leverancier, in het inhu
 
 ##### 4.3.1.2
 
-In afwijking van [4.3.1.1](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=4&paragraaf=4.3&sub-paragraaf=4.3.1&artikel=4.3.1.1&z=2016-05-12&g=2016-05-12) stuurt de nieuwe leverancier de inhuizingsmelding tenminste op de inhuizingsdatum en ten hoogste twintig werkdagen voor de inhuizingsdatum naar de netbeheerder indien het een inhuizingsmelding betreft voor een aansluiting, waarop op het moment van inhuizen geen leverancier is geregistreerd in het aansluitingenregister.
+In afwijking van [4.3.1.1](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=4&paragraaf=4.3&sub-paragraaf=4.3.1&artikel=4.3.1.1&z=2016-07-27&g=2016-07-27) stuurt de nieuwe leverancier de inhuizingsmelding tenminste op de inhuizingsdatum en ten hoogste twintig werkdagen voor de inhuizingsdatum naar de netbeheerder indien het een inhuizingsmelding betreft voor een aansluiting, waarop op het moment van inhuizen geen leverancier is geregistreerd in het aansluitingenregister.
 
 #### 4.3.2. De netbeheerder controleert de inhuizingsmelding
 
@@ -2354,11 +2354,11 @@ Naar aanleiding van de inhuizingsmelding controleert de netbeheerder of:
 
 ##### 4.3.2.2
 
-Als alle controles uit [4.3.2.1](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=4&paragraaf=4.3&sub-paragraaf=4.3.2&artikel=4.3.2.1&z=2016-05-12&g=2016-05-12) een positief resultaat geven, wordt de procedure vervolgd vanaf [4.3.2.4](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=4&paragraaf=4.3&sub-paragraaf=4.3.2&artikel=4.3.2.4&z=2016-05-12&g=2016-05-12). Als dat niet het geval is, wordt de inhuizing niet uitgevoerd en wordt de procedure na [4.3.2.3](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=4&paragraaf=4.3&sub-paragraaf=4.3.2&artikel=4.3.2.3&z=2016-05-12&g=2016-05-12) beëindigd.
+Als alle controles uit [4.3.2.1](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=4&paragraaf=4.3&sub-paragraaf=4.3.2&artikel=4.3.2.1&z=2016-07-27&g=2016-07-27) een positief resultaat geven, wordt de procedure vervolgd vanaf [4.3.2.4](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=4&paragraaf=4.3&sub-paragraaf=4.3.2&artikel=4.3.2.4&z=2016-07-27&g=2016-07-27). Als dat niet het geval is, wordt de inhuizing niet uitgevoerd en wordt de procedure na [4.3.2.3](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=4&paragraaf=4.3&sub-paragraaf=4.3.2&artikel=4.3.2.3&z=2016-07-27&g=2016-07-27) beëindigd.
 
 ##### 4.3.2.3
 
-De netbeheerder bericht het niet uitvoeren van de inhuizing naar aanleiding van [4.3.2.2](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=4&paragraaf=4.3&sub-paragraaf=4.3.2&artikel=4.3.2.2&z=2016-05-12&g=2016-05-12) uiterlijk de werkdag na ontvangst van de inhuizingsmelding aan de leverancier die de inhuizingsmelding heeft ingediend en vermeldt daarbij:
+De netbeheerder bericht het niet uitvoeren van de inhuizing naar aanleiding van [4.3.2.2](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=4&paragraaf=4.3&sub-paragraaf=4.3.2&artikel=4.3.2.2&z=2016-07-27&g=2016-07-27) uiterlijk de werkdag na ontvangst van de inhuizingsmelding aan de leverancier die de inhuizingsmelding heeft ingediend en vermeldt daarbij:
 
 - a. de EAN-code van de aansluiting;
 
@@ -2474,23 +2474,23 @@ De netbeheerder verstuurt een verliesbericht uiterlijk de werkdag na ontvangst v
 
 ##### 4.3.2.9
 
-De netbeheerder beëindigt de procedure van een reeds bevestigd, maar nog niet geëffectueerd mutatieproces inhuizing, uithuizing, eindelevering, PV-switch of wijzigen verblijfsfunctie of complexbepaling, indien de inhuizing, bedoeld in [4.3.1.1](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=4&paragraaf=4.3&sub-paragraaf=4.3.1&artikel=4.3.1.1&z=2016-05-12&g=2016-05-12), het desbetreffende mutatieproces annuleert.
+De netbeheerder beëindigt de procedure van een reeds bevestigd, maar nog niet geëffectueerd mutatieproces inhuizing, uithuizing, eindelevering, PV-switch of wijzigen verblijfsfunctie of complexbepaling, indien de inhuizing, bedoeld in [4.3.1.1](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=4&paragraaf=4.3&sub-paragraaf=4.3.1&artikel=4.3.1.1&z=2016-07-27&g=2016-07-27), het desbetreffende mutatieproces annuleert.
 
 #### 4.3.3. De netbeheerder voert de inhuizing uit en communiceert dit
 
 ##### 4.3.3.1
 
-De netbeheerder muteert het aansluitingenregister met de door de nieuwe leverancier aangeleverde gegevens overeenkomstig [2.1.8](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=2&paragraaf=2.1&artikel=2.1.8&z=2016-05-12&g=2016-05-12).
+De netbeheerder muteert het aansluitingenregister met de door de nieuwe leverancier aangeleverde gegevens overeenkomstig [2.1.8](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=2&paragraaf=2.1&artikel=2.1.8&z=2016-07-27&g=2016-07-27).
 
 ##### 4.3.3.2
 
-De netbeheerder informeert de nieuwe leverancier en nieuwe programmaverantwoordelijke en, indien aanwezig, meetverantwoordelijke overeenkomstig [paragraaf 2.2](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=2&paragraaf=2.2&z=2016-05-12&g=2016-05-12) omtrent de mutaties, bedoeld in [4.3.3.1](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=4&paragraaf=4.3&sub-paragraaf=4.3.3&artikel=4.3.3.1&z=2016-05-12&g=2016-05-12).
+De netbeheerder informeert de nieuwe leverancier en nieuwe programmaverantwoordelijke en, indien aanwezig, meetverantwoordelijke overeenkomstig [paragraaf 2.2](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=2&paragraaf=2.2&z=2016-07-27&g=2016-07-27) omtrent de mutaties, bedoeld in [4.3.3.1](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=4&paragraaf=4.3&sub-paragraaf=4.3.3&artikel=4.3.3.1&z=2016-07-27&g=2016-07-27).
 
 #### 4.3.4. Collecteren, vaststellen en distribueren van de meterstand
 
 ##### 4.3.4.1
 
-Het collecteren, vaststellen en distribueren van de meterstand en het verbruik bij het inhuizingsproces wordt overeenkomstig [hoofdstuk 6](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=6&z=2016-05-12&g=2016-05-12) uitgevoerd.
+Het collecteren, vaststellen en distribueren van de meterstand en het verbruik bij het inhuizingsproces wordt overeenkomstig [hoofdstuk 6](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=6&z=2016-07-27&g=2016-07-27) uitgevoerd.
 
 #### 4.4. Beëindiging van de levering op een grootverbruikaansluiting
 
@@ -2536,11 +2536,11 @@ Naar aanleiding van de eindeleveringsmelding controleert de netbeheerder of:
 
 ##### 4.4.3.2
 
-Als alle controles uit [4.4.3.1](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=4&paragraaf=4.4&sub-paragraaf=4.4.3&artikel=4.4.3.1&z=2016-05-12&g=2016-05-12) een positief resultaat geven, wordt de procedure vervolgd vanaf [4.4.3.4](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=4&paragraaf=4.4&sub-paragraaf=4.4.3&artikel=4.4.3.4&z=2016-05-12&g=2016-05-12). Als dat niet het geval is, wordt de eindelevering niet uitgevoerd en wordt de procedure na [4.4.3.3](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=4&paragraaf=4.4&sub-paragraaf=4.4.3&artikel=4.4.3.3&z=2016-05-12&g=2016-05-12) beëindigd.
+Als alle controles uit [4.4.3.1](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=4&paragraaf=4.4&sub-paragraaf=4.4.3&artikel=4.4.3.1&z=2016-07-27&g=2016-07-27) een positief resultaat geven, wordt de procedure vervolgd vanaf [4.4.3.4](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=4&paragraaf=4.4&sub-paragraaf=4.4.3&artikel=4.4.3.4&z=2016-07-27&g=2016-07-27). Als dat niet het geval is, wordt de eindelevering niet uitgevoerd en wordt de procedure na [4.4.3.3](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=4&paragraaf=4.4&sub-paragraaf=4.4.3&artikel=4.4.3.3&z=2016-07-27&g=2016-07-27) beëindigd.
 
 ##### 4.4.3.3
 
-De netbeheerder bericht het niet uitvoeren van de eindelevering naar aanleiding van [4.4.3.2](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=4&paragraaf=4.4&sub-paragraaf=4.4.3&artikel=4.4.3.2&z=2016-05-12&g=2016-05-12) uiterlijk de werkdag na ontvangst van de eindeleveringsmelding aan de leverancier die de eindeleveringsmelding heeft ingediend en vermeldt daarbij:
+De netbeheerder bericht het niet uitvoeren van de eindelevering naar aanleiding van [4.4.3.2](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=4&paragraaf=4.4&sub-paragraaf=4.4.3&artikel=4.4.3.2&z=2016-07-27&g=2016-07-27) uiterlijk de werkdag na ontvangst van de eindeleveringsmelding aan de leverancier die de eindeleveringsmelding heeft ingediend en vermeldt daarbij:
 
 - a. de EAN-code van de aansluiting;
 
@@ -2616,29 +2616,29 @@ De netbeheerder stuurt een verliesbericht uiterlijk de werkdag na ontvangst van 
 
 Ingeval de aangeslotene voorafgaand aan de eindeleveringsdatum tijdig alsnog recht op levering verkrijgt, meldt de leverancier dit aan de netbeheerder:
 
-- a. door middel van een inhuizingsmelding, bedoeld in [4.3.1.1](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=4&paragraaf=4.3&sub-paragraaf=4.3.1&artikel=4.3.1.1&z=2016-05-12&g=2016-05-12), indien hij de actuele leverancier van de aangeslotene is. De procedure wordt vervolgd vanaf [4.3.2.1](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=4&paragraaf=4.3&sub-paragraaf=4.3.2&artikel=4.3.2.1&z=2016-05-12&g=2016-05-12);
+- a. door middel van een inhuizingsmelding, bedoeld in [4.3.1.1](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=4&paragraaf=4.3&sub-paragraaf=4.3.1&artikel=4.3.1.1&z=2016-07-27&g=2016-07-27), indien hij de actuele leverancier van de aangeslotene is. De procedure wordt vervolgd vanaf [4.3.2.1](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=4&paragraaf=4.3&sub-paragraaf=4.3.2&artikel=4.3.2.1&z=2016-07-27&g=2016-07-27);
 
-- b. door middel van een switchmelding, bedoeld in [4.1.1.1](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=4&paragraaf=4.1&sub-paragraaf=4.1.1&artikel=4.1.1.1&z=2016-05-12&g=2016-05-12), indien hij een nieuwe leverancier van de aangeslotene is. De procedure wordt vervolgd vanaf [4.1.2.1](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=4&paragraaf=4.1&sub-paragraaf=4.1.2&artikel=4.1.2.1&z=2016-05-12&g=2016-05-12).
+- b. door middel van een switchmelding, bedoeld in [4.1.1.1](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=4&paragraaf=4.1&sub-paragraaf=4.1.1&artikel=4.1.1.1&z=2016-07-27&g=2016-07-27), indien hij een nieuwe leverancier van de aangeslotene is. De procedure wordt vervolgd vanaf [4.1.2.1](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=4&paragraaf=4.1&sub-paragraaf=4.1.2&artikel=4.1.2.1&z=2016-07-27&g=2016-07-27).
 
 ##### 4.4.3.8
 
-De netbeheerder beëindigt de procedure van een reeds bevestigd, maar nog niet geëffectueerd mutatieproces PV-switch of wijzigen verblijfsfunctie of complexbepaling, indien de eindelevering, bedoeld in [4.4.2.1](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=4&paragraaf=4.4&sub-paragraaf=4.4.2&artikel=4.4.2.1&z=2016-05-12&g=2016-05-12), het desbetreffende mutatieproces annuleert.
+De netbeheerder beëindigt de procedure van een reeds bevestigd, maar nog niet geëffectueerd mutatieproces PV-switch of wijzigen verblijfsfunctie of complexbepaling, indien de eindelevering, bedoeld in [4.4.2.1](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=4&paragraaf=4.4&sub-paragraaf=4.4.2&artikel=4.4.2.1&z=2016-07-27&g=2016-07-27), het desbetreffende mutatieproces annuleert.
 
 #### 4.4.4. De netbeheerder voert de eindelevering uit en communiceert dit
 
 ##### 4.4.4.1
 
-De netbeheerder muteert het aansluitingenregister met de door de leverancier aangeleverde gegevens overeenkomstig [2.1.8](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=2&paragraaf=2.1&artikel=2.1.8&z=2016-05-12&g=2016-05-12), tenzij een later ingediende leverancierswitchmelding, inhuizingsmelding of uithuizingsmelding is ontvangen voor een eerdere of dezelfde mutatiedatum.
+De netbeheerder muteert het aansluitingenregister met de door de leverancier aangeleverde gegevens overeenkomstig [2.1.8](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=2&paragraaf=2.1&artikel=2.1.8&z=2016-07-27&g=2016-07-27), tenzij een later ingediende leverancierswitchmelding, inhuizingsmelding of uithuizingsmelding is ontvangen voor een eerdere of dezelfde mutatiedatum.
 
 ##### 4.4.4.2
 
-De netbeheerder informeert de meetverantwoordelijke overeenkomstig [paragraaf 2.2](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=2&paragraaf=2.2&z=2016-05-12&g=2016-05-12) omtrent de mutaties, bedoeld in [4.4.4.1](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=4&paragraaf=4.4&sub-paragraaf=4.4.4&artikel=4.4.4.1&z=2016-05-12&g=2016-05-12).
+De netbeheerder informeert de meetverantwoordelijke overeenkomstig [paragraaf 2.2](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=2&paragraaf=2.2&z=2016-07-27&g=2016-07-27) omtrent de mutaties, bedoeld in [4.4.4.1](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=4&paragraaf=4.4&sub-paragraaf=4.4.4&artikel=4.4.4.1&z=2016-07-27&g=2016-07-27).
 
 #### 4.4.5. Collecteren, vaststellen en distribueren van de meterstand
 
 ##### 4.4.5.1
 
-Het collecteren, vaststellen en distribueren van de meterstand en het verbruik bij het eindeleveringsproces wordt overeenkomstig [hoofdstuk 6](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=6&z=2016-05-12&g=2016-05-12) uitgevoerd.
+Het collecteren, vaststellen en distribueren van de meterstand en het verbruik bij het eindeleveringsproces wordt overeenkomstig [hoofdstuk 6](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=6&z=2016-07-27&g=2016-07-27) uitgevoerd.
 
 #### 4.5. Individuele switch van programmaverantwoordelijke op een grootverbruikaansluiting
 
@@ -2682,11 +2682,11 @@ Naar aanleiding van de switchmelding controleert de netbeheerder of:
 
 ##### 4.5.2.2
 
-Als alle controles uit [4.5.2.1](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=4&paragraaf=4.5&sub-paragraaf=4.5.2&artikel=4.5.2.1&z=2016-05-12&g=2016-05-12) een positief resultaat geven, wordt de procedure vervolgd vanaf [4.5.2.4](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=4&paragraaf=4.5&sub-paragraaf=4.5.2&artikel=4.5.2.4&z=2016-05-12&g=2016-05-12). Als dat niet het geval is, wordt de PV-switch niet uitgevoerd en wordt de procedure na [4.5.2.3](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=4&paragraaf=4.5&sub-paragraaf=4.5.2&artikel=4.5.2.3&z=2016-05-12&g=2016-05-12) beëindigd.
+Als alle controles uit [4.5.2.1](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=4&paragraaf=4.5&sub-paragraaf=4.5.2&artikel=4.5.2.1&z=2016-07-27&g=2016-07-27) een positief resultaat geven, wordt de procedure vervolgd vanaf [4.5.2.4](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=4&paragraaf=4.5&sub-paragraaf=4.5.2&artikel=4.5.2.4&z=2016-07-27&g=2016-07-27). Als dat niet het geval is, wordt de PV-switch niet uitgevoerd en wordt de procedure na [4.5.2.3](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=4&paragraaf=4.5&sub-paragraaf=4.5.2&artikel=4.5.2.3&z=2016-07-27&g=2016-07-27) beëindigd.
 
 ##### 4.5.2.3
 
-De netbeheerder bericht het niet uitvoeren van de PV-switch naar aanleiding van [4.5.2.2](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=4&paragraaf=4.5&sub-paragraaf=4.5.2&artikel=4.5.2.2&z=2016-05-12&g=2016-05-12) uiterlijk de werkdag na ontvangst van de PV-switchmelding aan de leverancier die de PV-switchmelding heeft ingediend en vermeldt daarbij:
+De netbeheerder bericht het niet uitvoeren van de PV-switch naar aanleiding van [4.5.2.2](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=4&paragraaf=4.5&sub-paragraaf=4.5.2&artikel=4.5.2.2&z=2016-07-27&g=2016-07-27) uiterlijk de werkdag na ontvangst van de PV-switchmelding aan de leverancier die de PV-switchmelding heeft ingediend en vermeldt daarbij:
 
 - a. de EAN-code van de aansluiting;
 
@@ -2786,11 +2786,11 @@ De netbeheerder verstuurt een verwervingsbericht uiterlijk de werkdag na ontvang
 
 ##### 4.5.3.1
 
-De netbeheerder muteert het aansluitingenregister met de door de leverancier aangeleverde gegevens overeenkomstig [2.1.8](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=2&paragraaf=2.1&artikel=2.1.8&z=2016-05-12&g=2016-05-12).
+De netbeheerder muteert het aansluitingenregister met de door de leverancier aangeleverde gegevens overeenkomstig [2.1.8](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=2&paragraaf=2.1&artikel=2.1.8&z=2016-07-27&g=2016-07-27).
 
 ##### 4.5.3.2
 
-De netbeheerder informeert de leverancier, nieuwe programmaverantwoordelijke en meetverantwoordelijke overeenkomstig [paragraaf 2.2](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=2&paragraaf=2.2&z=2016-05-12&g=2016-05-12) omtrent de mutaties, bedoeld in [4.5.3.1](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=4&paragraaf=4.5&sub-paragraaf=4.5.3&artikel=4.5.3.1&z=2016-05-12&g=2016-05-12).
+De netbeheerder informeert de leverancier, nieuwe programmaverantwoordelijke en meetverantwoordelijke overeenkomstig [paragraaf 2.2](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=2&paragraaf=2.2&z=2016-07-27&g=2016-07-27) omtrent de mutaties, bedoeld in [4.5.3.1](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=4&paragraaf=4.5&sub-paragraaf=4.5.3&artikel=4.5.3.1&z=2016-07-27&g=2016-07-27).
 
 #### 4.6. Switch van meetverantwoordelijke op een grootverbruikaansluiting
 
@@ -2814,7 +2814,7 @@ De nieuwe meetverantwoordelijke spreekt met de oude meetverantwoordelijke af wan
 
 ##### 4.6.2.1
 
-Op grond van de in [4.6.1.1](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=4&paragraaf=4.6&sub-paragraaf=4.6.1&artikel=4.6.1.1&z=2016-05-12&g=2016-05-12) bedoelde machtiging stuurt de nieuwe meetverantwoordelijke op de mutatiedatum en ten hoogste twintig werkdagen voor de beoogde mutatiedatum een melding MV-switch naar de netbeheerder. In de melding MV-switch is opgenomen:
+Op grond van de in [4.6.1.1](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=4&paragraaf=4.6&sub-paragraaf=4.6.1&artikel=4.6.1.1&z=2016-07-27&g=2016-07-27) bedoelde machtiging stuurt de nieuwe meetverantwoordelijke op de mutatiedatum en ten hoogste twintig werkdagen voor de beoogde mutatiedatum een melding MV-switch naar de netbeheerder. In de melding MV-switch is opgenomen:
 
 - a. de switchdatum;
 
@@ -2830,7 +2830,7 @@ Op grond van de in [4.6.1.1](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoo
 
 ##### 4.6.2.2
 
-Naar aanleiding van de in [4.6.2.1](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=4&paragraaf=4.6&sub-paragraaf=4.6.2&artikel=4.6.2.1&z=2016-05-12&g=2016-05-12) bedoelde melding controleert de netbeheerder of:
+Naar aanleiding van de in [4.6.2.1](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=4&paragraaf=4.6&sub-paragraaf=4.6.2&artikel=4.6.2.1&z=2016-07-27&g=2016-07-27) bedoelde melding controleert de netbeheerder of:
 
 - a. de melding volledig en syntactisch correct is;
 
@@ -2846,7 +2846,7 @@ Naar aanleiding van de in [4.6.2.1](https://wetten.overheid.nl/jci1.3:c:BWBR0037
 
 ##### 4.6.2.3
 
-Als de in [4.6.2.2](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=4&paragraaf=4.6&sub-paragraaf=4.6.2&artikel=4.6.2.2&z=2016-05-12&g=2016-05-12) genoemde controles een negatief resultaat geven, wordt de procedure gestopt en wordt de nieuwe meetverantwoordelijke uiterlijk de werkdag na ontvangst van de melding MV-switch op de hoogte gesteld van de reden waarom de procedure is gestopt. In het bericht wordt vermeld:
+Als de in [4.6.2.2](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=4&paragraaf=4.6&sub-paragraaf=4.6.2&artikel=4.6.2.2&z=2016-07-27&g=2016-07-27) genoemde controles een negatief resultaat geven, wordt de procedure gestopt en wordt de nieuwe meetverantwoordelijke uiterlijk de werkdag na ontvangst van de melding MV-switch op de hoogte gesteld van de reden waarom de procedure is gestopt. In het bericht wordt vermeld:
 
 - a. de EAN-code van de aansluiting;
 
@@ -2874,7 +2874,7 @@ Als de in [4.6.2.2](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=4&
 
 ##### 4.6.2.4
 
-De netbeheerder verstuurt uiterlijk de werkdag na ontvangst van de melding MV-switch een verliesbericht aan de oude meetverantwoordelijke als alle controles, bedoeld in [4.6.2.2](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=4&paragraaf=4.6&sub-paragraaf=4.6.2&artikel=4.6.2.2&z=2016-05-12&g=2016-05-12), een positief resultaat opleveren en vermeldt daarbij:
+De netbeheerder verstuurt uiterlijk de werkdag na ontvangst van de melding MV-switch een verliesbericht aan de oude meetverantwoordelijke als alle controles, bedoeld in [4.6.2.2](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=4&paragraaf=4.6&sub-paragraaf=4.6.2&artikel=4.6.2.2&z=2016-07-27&g=2016-07-27), een positief resultaat opleveren en vermeldt daarbij:
 
 - a. de EAN-code van de aansluiting;
 
@@ -2890,7 +2890,7 @@ De netbeheerder verstuurt uiterlijk de werkdag na ontvangst van de melding MV-sw
 
 ##### 4.6.2.5
 
-De netbeheerder verstuurt uiterlijk de werkdag na ontvangst van de melding MV-switch een verwervingsbericht aan de nieuwe meetverantwoordelijke als alle controles, bedoeld in [4.6.2.2](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=4&paragraaf=4.6&sub-paragraaf=4.6.2&artikel=4.6.2.2&z=2016-05-12&g=2016-05-12), een positief resultaat opleveren en vermeldt daarbij:
+De netbeheerder verstuurt uiterlijk de werkdag na ontvangst van de melding MV-switch een verwervingsbericht aan de nieuwe meetverantwoordelijke als alle controles, bedoeld in [4.6.2.2](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=4&paragraaf=4.6&sub-paragraaf=4.6.2&artikel=4.6.2.2&z=2016-07-27&g=2016-07-27), een positief resultaat opleveren en vermeldt daarbij:
 
 - a. de EAN-code van de aansluiting;
 
@@ -2910,11 +2910,11 @@ De netbeheerder verstuurt uiterlijk de werkdag na ontvangst van de melding MV-sw
 
 ##### 4.6.3.1
 
-De netbeheerder muteert het aansluitingenregister met de door de nieuwe meetverantwoordelijke aangeleverde gegevens overeenkomstig [2.1.8](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=2&paragraaf=2.1&artikel=2.1.8&z=2016-05-12&g=2016-05-12).
+De netbeheerder muteert het aansluitingenregister met de door de nieuwe meetverantwoordelijke aangeleverde gegevens overeenkomstig [2.1.8](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=2&paragraaf=2.1&artikel=2.1.8&z=2016-07-27&g=2016-07-27).
 
 ##### 4.6.3.2
 
-De netbeheerder informeert de leverancier, de programmaverantwoordelijke en de nieuwe meetverantwoordelijke overeenkomstig [paragraaf 2.2](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=2&paragraaf=2.2&z=2016-05-12&g=2016-05-12) omtrent de mutaties, bedoeld in [4.6.3.1](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=4&paragraaf=4.6&sub-paragraaf=4.6.3&artikel=4.6.3.1&z=2016-05-12&g=2016-05-12).
+De netbeheerder informeert de leverancier, de programmaverantwoordelijke en de nieuwe meetverantwoordelijke overeenkomstig [paragraaf 2.2](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=2&paragraaf=2.2&z=2016-07-27&g=2016-07-27) omtrent de mutaties, bedoeld in [4.6.3.1](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=4&paragraaf=4.6&sub-paragraaf=4.6.3&artikel=4.6.3.1&z=2016-07-27&g=2016-07-27).
 
 #### 4.7. Plaatsing, wijziging of wegname van (het secundaire deel van) de meetinrichting
 
@@ -2928,11 +2928,11 @@ Bij een plaatsing, wijziging of wegname van het secundaire deel van de meetinric
 
 ##### 4.7.2.1
 
-Indien de plaatsing, wijziging of wegname van het secundaire deel van de meetinrichting voor een elektriciteitsaansluiting of de plaatsing, wijziging of wegname van de meetinrichting voor een gasaansluiting in combinatie met een MV-switch wordt uitgevoerd, meldt de nieuwe meetverantwoordelijke het moment van de aanvang van de werkzaamheden bij de oude meetverantwoordelijke, zodat deze de laatste uitlezing van de weg te nemen meetinrichting kan verrichten. In afwijking van [paragraaf 9.1](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=9&paragraaf=9.1&z=2016-05-12&g=2016-05-12) vindt deze informatie-uitwisseling niet plaats via het geautomatiseerde berichtenverkeer.
+Indien de plaatsing, wijziging of wegname van het secundaire deel van de meetinrichting voor een elektriciteitsaansluiting of de plaatsing, wijziging of wegname van de meetinrichting voor een gasaansluiting in combinatie met een MV-switch wordt uitgevoerd, meldt de nieuwe meetverantwoordelijke het moment van de aanvang van de werkzaamheden bij de oude meetverantwoordelijke, zodat deze de laatste uitlezing van de weg te nemen meetinrichting kan verrichten. In afwijking van [paragraaf 9.1](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=9&paragraaf=9.1&z=2016-07-27&g=2016-07-27) vindt deze informatie-uitwisseling niet plaats via het geautomatiseerde berichtenverkeer.
 
 ##### 4.7.2.2
 
-De nieuwe meetverantwoordelijke registreert de meterstand van de weg te nemen meetinrichting bij de wegname en de meterstand van de te plaatsen meetinrichting bij de plaatsing en bericht de meterstand bij wegname aan de oude meetverantwoordelijke. In afwijking van [paragraaf 9.1](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=9&paragraaf=9.1&z=2016-05-12&g=2016-05-12) vindt deze informatie-uitwisseling niet plaats via het geautomatiseerde berichtenverkeer.
+De nieuwe meetverantwoordelijke registreert de meterstand van de weg te nemen meetinrichting bij de wegname en de meterstand van de te plaatsen meetinrichting bij de plaatsing en bericht de meterstand bij wegname aan de oude meetverantwoordelijke. In afwijking van [paragraaf 9.1](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=9&paragraaf=9.1&z=2016-07-27&g=2016-07-27) vindt deze informatie-uitwisseling niet plaats via het geautomatiseerde berichtenverkeer.
 
 ##### 4.7.2.3
 
@@ -3042,7 +3042,7 @@ De nieuwe meetverantwoordelijke bericht de plaatsing of wijziging van de meetinr
 
 ##### 4.8.1.1
 
-De meetverantwoordelijke stelt de leverancier uiterlijk twee werkdagen na beëindiging van de beheerovereenkomst, als bedoeld in [paragraaf 1.2.4 van de Meetcode elektriciteit](https://wetten.overheid.nl/jci1.3:c:BWBR0037946&sub-paragraaf=1.2.4) en [paragraaf 1.2.4 van de Meetcode gas RNB](https://wetten.overheid.nl/jci1.3:c:BWBR0037925&sub-paragraaf=1.2.4), hiervan op de hoogte indien de beheerovereenkomst tussen de meetverantwoordelijke en de afnemer die beschikt over een grootverbruikaansluiting wordt beëindigd. In afwijking van [paragraaf 9.1](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=9&paragraaf=9.1&z=2016-05-12&g=2016-05-12) vindt deze informatie-uitwisseling niet plaats via het geautomatiseerde berichtenverkeer.
+De meetverantwoordelijke stelt de leverancier uiterlijk twee werkdagen na beëindiging van de beheerovereenkomst, als bedoeld in [paragraaf 1.2.4 van de Meetcode elektriciteit](https://wetten.overheid.nl/jci1.3:c:BWBR0037946&sub-paragraaf=1.2.4) en [paragraaf 1.2.4 van de Meetcode gas RNB](https://wetten.overheid.nl/jci1.3:c:BWBR0037925&sub-paragraaf=1.2.4), hiervan op de hoogte indien de beheerovereenkomst tussen de meetverantwoordelijke en de afnemer die beschikt over een grootverbruikaansluiting wordt beëindigd. In afwijking van [paragraaf 9.1](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=9&paragraaf=9.1&z=2016-07-27&g=2016-07-27) vindt deze informatie-uitwisseling niet plaats via het geautomatiseerde berichtenverkeer.
 
 #### 4.8.2. Beëindiging van de meetverantwoordelijkheid
 
@@ -3076,11 +3076,11 @@ Naar aanleiding van de melding beëindiging meetverantwoordelijkheid controleert
 
 ##### 4.8.2.3
 
-Als alle controles uit [4.8.2.2](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=4&paragraaf=4.8&sub-paragraaf=4.8.2&artikel=4.8.2.2&z=2016-05-12&g=2016-05-12) een positief resultaat geven, wordt de procedure vervolgd vanaf [4.8.2.5](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=4&paragraaf=4.8&sub-paragraaf=4.8.2&artikel=4.8.2.5&z=2016-05-12&g=2016-05-12). Als dat niet het geval is, wordt de melding beëindiging meetverantwoordelijkheid niet uitgevoerd en wordt de procedure na [4.8.2.4](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=4&paragraaf=4.8&sub-paragraaf=4.8.2&artikel=4.8.2.4&z=2016-05-12&g=2016-05-12) beëindigd.
+Als alle controles uit [4.8.2.2](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=4&paragraaf=4.8&sub-paragraaf=4.8.2&artikel=4.8.2.2&z=2016-07-27&g=2016-07-27) een positief resultaat geven, wordt de procedure vervolgd vanaf [4.8.2.5](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=4&paragraaf=4.8&sub-paragraaf=4.8.2&artikel=4.8.2.5&z=2016-07-27&g=2016-07-27). Als dat niet het geval is, wordt de melding beëindiging meetverantwoordelijkheid niet uitgevoerd en wordt de procedure na [4.8.2.4](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=4&paragraaf=4.8&sub-paragraaf=4.8.2&artikel=4.8.2.4&z=2016-07-27&g=2016-07-27) beëindigd.
 
 ##### 4.8.2.4
 
-De netbeheerder bericht het niet uitvoeren van de beëindiging meetverantwoordelijkheid naar aanleiding van [4.8.2.3](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=4&paragraaf=4.8&sub-paragraaf=4.8.2&artikel=4.8.2.3&z=2016-05-12&g=2016-05-12) uiterlijk de werkdag na ontvangst van de melding beëindiging meetverantwoordelijkheid aan de meetverantwoordelijke die de melding heeft ingediend en vermeldt daarbij:
+De netbeheerder bericht het niet uitvoeren van de beëindiging meetverantwoordelijkheid naar aanleiding van [4.8.2.3](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=4&paragraaf=4.8&sub-paragraaf=4.8.2&artikel=4.8.2.3&z=2016-07-27&g=2016-07-27) uiterlijk de werkdag na ontvangst van de melding beëindiging meetverantwoordelijkheid aan de meetverantwoordelijke die de melding heeft ingediend en vermeldt daarbij:
 
 - a. de EAN-code van de aansluiting;
 
@@ -3126,17 +3126,17 @@ De netbeheerder wijst uiterlijk drie werkdagen na ontvangst van de melding beëi
 
 ##### 4.8.2.7
 
-De netbeheerder voert de beëindiging meetverantwoordelijkheid uit, bedoeld in [paragraaf 4.8.3](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=4&paragraaf=4.8&sub-paragraaf=4.8.3&z=2016-05-12&g=2016-05-12), indien geen nieuwe meetverantwoordelijke zich meldt binnen tien werkdagen na de einddatum van de beheerovereenkomst.
+De netbeheerder voert de beëindiging meetverantwoordelijkheid uit, bedoeld in [paragraaf 4.8.3](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=4&paragraaf=4.8&sub-paragraaf=4.8.3&z=2016-07-27&g=2016-07-27), indien geen nieuwe meetverantwoordelijke zich meldt binnen tien werkdagen na de einddatum van de beheerovereenkomst.
 
 #### 4.8.3. De netbeheerder voert de beëindiging meetverantwoordelijkheid uit en communiceert dit
 
 ##### 4.8.3.1
 
-De netbeheerder muteert het aansluitingenregister met de door de meetverantwoordelijke aangeleverde gegevens overeenkomstig [2.1.8](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=2&paragraaf=2.1&artikel=2.1.8&z=2016-05-12&g=2016-05-12).
+De netbeheerder muteert het aansluitingenregister met de door de meetverantwoordelijke aangeleverde gegevens overeenkomstig [2.1.8](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=2&paragraaf=2.1&artikel=2.1.8&z=2016-07-27&g=2016-07-27).
 
 ##### 4.8.3.2
 
-De netbeheerder informeert de leverancier en programmaverantwoordelijke overeenkomstig [paragraaf 2.2](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=2&paragraaf=2.2&z=2016-05-12&g=2016-05-12) omtrent de mutaties, bedoeld in [4.8.3.1](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=4&paragraaf=4.8&sub-paragraaf=4.8.3&artikel=4.8.3.1&z=2016-05-12&g=2016-05-12).
+De netbeheerder informeert de leverancier en programmaverantwoordelijke overeenkomstig [paragraaf 2.2](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=2&paragraaf=2.2&z=2016-07-27&g=2016-07-27) omtrent de mutaties, bedoeld in [4.8.3.1](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=4&paragraaf=4.8&sub-paragraaf=4.8.3&artikel=4.8.3.1&z=2016-07-27&g=2016-07-27).
 
 #### 4.9. Aanleggen van een grootverbruikaansluiting
 
@@ -3148,9 +3148,9 @@ De netbeheerder registreert de aanleg van de aansluiting in het aansluitingenreg
 
 - b. de bedrijfs-EAN-code van de netbeheerder;
 
-- c. de fysieke status van de aansluiting, bedoeld in [2.1.3, onderdeel h](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=2&paragraaf=2.1&artikel=2.1.3&z=2016-05-12&g=2016-05-12), die van toepassing is, te weten: "in aanleg";
+- c. de fysieke status van de aansluiting, bedoeld in [2.1.3, onderdeel h](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=2&paragraaf=2.1&artikel=2.1.3&z=2016-07-27&g=2016-07-27), die van toepassing is, te weten: "in aanleg";
 
-- d. ingeval van een elektriciteitsaansluiting: de verblijfsfunctie of complexbepaling van de aansluiting, bedoeld in [2.1.3, onderdeel m](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=2&paragraaf=2.1&artikel=2.1.3&z=2016-05-12&g=2016-05-12), te weten: "geen verblijfsfunctie, geen complex".
+- d. ingeval van een elektriciteitsaansluiting: de verblijfsfunctie of complexbepaling van de aansluiting, bedoeld in [2.1.3, onderdeel m](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=2&paragraaf=2.1&artikel=2.1.3&z=2016-07-27&g=2016-07-27), te weten: "geen verblijfsfunctie, geen complex".
 
 #### 4.10. In bedrijf nemen van een grootverbruikaansluiting
 
@@ -3158,21 +3158,21 @@ De netbeheerder registreert de aanleg van de aansluiting in het aansluitingenreg
 
 ##### 4.10.1.1
 
-De netbeheerder informeert, tenzij anders overeengekomen, de meetverantwoordelijke tenminste tien werkdagen voorafgaand aan de datum waarop de aansluiting in bedrijf wordt genomen over de geplande inbedrijfname. In afwijking van [paragraaf 9.1](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=9&paragraaf=9.1&z=2016-05-12&g=2016-05-12) vindt deze informatie-uitwisseling niet plaats via het geautomatiseerde berichtenverkeer.
+De netbeheerder informeert, tenzij anders overeengekomen, de meetverantwoordelijke tenminste tien werkdagen voorafgaand aan de datum waarop de aansluiting in bedrijf wordt genomen over de geplande inbedrijfname. In afwijking van [paragraaf 9.1](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=9&paragraaf=9.1&z=2016-07-27&g=2016-07-27) vindt deze informatie-uitwisseling niet plaats via het geautomatiseerde berichtenverkeer.
 
 #### 4.10.2. Inbedrijfname van de aansluiting en communicatie hierover door de netbeheerder
 
 ##### 4.10.2.1
 
-De netbeheerder informeert de meetverantwoordelijke op de datum waarop de aansluiting fysiek in bedrijf wordt genomen over de inbedrijfname van de aansluiting. In afwijking van [paragraaf 9.1](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=9&paragraaf=9.1&z=2016-05-12&g=2016-05-12) vindt deze informatie-uitwisseling niet plaats via het geautomatiseerde berichtenverkeer.
+De netbeheerder informeert de meetverantwoordelijke op de datum waarop de aansluiting fysiek in bedrijf wordt genomen over de inbedrijfname van de aansluiting. In afwijking van [paragraaf 9.1](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=9&paragraaf=9.1&z=2016-07-27&g=2016-07-27) vindt deze informatie-uitwisseling niet plaats via het geautomatiseerde berichtenverkeer.
 
 ##### 4.10.2.2
 
-Uiterlijk vijf werkdagen na de datum waarop de aansluiting fysiek in bedrijf is genomen effectueert de netbeheerder de fysieke status van de aansluiting, bedoeld in [2.1.3 onderdeel h](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=2&paragraaf=2.1&artikel=2.1.3&z=2016-05-12&g=2016-05-12), die van toepassing is, te weten: "in bedrijf" in het aansluitingenregister overeenkomstig [2.1.8](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=2&paragraaf=2.1&artikel=2.1.8&z=2016-05-12&g=2016-05-12).
+Uiterlijk vijf werkdagen na de datum waarop de aansluiting fysiek in bedrijf is genomen effectueert de netbeheerder de fysieke status van de aansluiting, bedoeld in [2.1.3 onderdeel h](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=2&paragraaf=2.1&artikel=2.1.3&z=2016-07-27&g=2016-07-27), die van toepassing is, te weten: "in bedrijf" in het aansluitingenregister overeenkomstig [2.1.8](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=2&paragraaf=2.1&artikel=2.1.8&z=2016-07-27&g=2016-07-27).
 
 ##### 4.10.2.3
 
-De netbeheerder informeert de leverancier, de programmaverantwoordelijke en de meetverantwoordelijke die voor de desbetreffende aansluiting in het aansluitingenregister vermeld staan, overeenkomstig [paragraaf 2.2](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=2&paragraaf=2.2&z=2016-05-12&g=2016-05-12) omtrent de mutatie, bedoeld in [4.10.2.2](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=4&paragraaf=4.10&sub-paragraaf=4.10.2&artikel=4.10.2.2&z=2016-05-12&g=2016-05-12).
+De netbeheerder informeert de leverancier, de programmaverantwoordelijke en de meetverantwoordelijke die voor de desbetreffende aansluiting in het aansluitingenregister vermeld staan, overeenkomstig [paragraaf 2.2](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=2&paragraaf=2.2&z=2016-07-27&g=2016-07-27) omtrent de mutatie, bedoeld in [4.10.2.2](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=4&paragraaf=4.10&sub-paragraaf=4.10.2&artikel=4.10.2.2&z=2016-07-27&g=2016-07-27).
 
 #### 4.11. Uit bedrijf nemen van een grootverbruikaansluiting
 
@@ -3180,21 +3180,21 @@ De netbeheerder informeert de leverancier, de programmaverantwoordelijke en de m
 
 ##### 4.11.1.1
 
-De netbeheerder informeert de meetverantwoordelijke tenminste tien werkdagen voorafgaand aan de datum waarop de aansluiting uit bedrijf wordt genomen over de geplande uitbedrijfname. In afwijking van [paragraaf 9.1](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=9&paragraaf=9.1&z=2016-05-12&g=2016-05-12) vindt deze informatie-uitwisseling niet plaats via het geautomatiseerde berichtenverkeer.
+De netbeheerder informeert de meetverantwoordelijke tenminste tien werkdagen voorafgaand aan de datum waarop de aansluiting uit bedrijf wordt genomen over de geplande uitbedrijfname. In afwijking van [paragraaf 9.1](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=9&paragraaf=9.1&z=2016-07-27&g=2016-07-27) vindt deze informatie-uitwisseling niet plaats via het geautomatiseerde berichtenverkeer.
 
 #### 4.11.2. Uitbedrijfname van de aansluiting en communicatie hierover door de netbeheerder
 
 ##### 4.11.2.1
 
-De netbeheerder informeert de meetverantwoordelijke op de datum waarop de aansluiting fysiek uit bedrijf wordt genomen over de uitbedrijfname van de aansluiting. In afwijking van [paragraaf 9.1](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=9&paragraaf=9.1&z=2016-05-12&g=2016-05-12) vindt deze informatie-uitwisseling niet plaats via het geautomatiseerde berichtenverkeer.
+De netbeheerder informeert de meetverantwoordelijke op de datum waarop de aansluiting fysiek uit bedrijf wordt genomen over de uitbedrijfname van de aansluiting. In afwijking van [paragraaf 9.1](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=9&paragraaf=9.1&z=2016-07-27&g=2016-07-27) vindt deze informatie-uitwisseling niet plaats via het geautomatiseerde berichtenverkeer.
 
 ##### 4.11.2.2
 
-Uiterlijk vijf werkdagen na de datum waarop de aansluiting fysiek uit bedrijf is genomen effectueert de netbeheerder de fysieke status van de aansluiting, bedoeld in [2.1.3, onderdeel h](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=2&paragraaf=2.1&artikel=2.1.3&z=2016-05-12&g=2016-05-12), die van toepassing is, te weten: "uit bedrijf" in het aansluitingenregister overeenkomstig [2.1.8](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=2&paragraaf=2.1&artikel=2.1.8&z=2016-05-12&g=2016-05-12).
+Uiterlijk vijf werkdagen na de datum waarop de aansluiting fysiek uit bedrijf is genomen effectueert de netbeheerder de fysieke status van de aansluiting, bedoeld in [2.1.3, onderdeel h](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=2&paragraaf=2.1&artikel=2.1.3&z=2016-07-27&g=2016-07-27), die van toepassing is, te weten: "uit bedrijf" in het aansluitingenregister overeenkomstig [2.1.8](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=2&paragraaf=2.1&artikel=2.1.8&z=2016-07-27&g=2016-07-27).
 
 ##### 4.11.2.3
 
-De netbeheerder informeert de leverancier, de programmaverantwoordelijke en de meetverantwoordelijke die voor de desbetreffende aansluiting in het aansluitingenregister vermeld staan, overeenkomstig [paragraaf 2.2](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=2&paragraaf=2.2&z=2016-05-12&g=2016-05-12) omtrent de mutatie, bedoeld in [4.11.2.2](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=4&paragraaf=4.11&sub-paragraaf=4.11.2&artikel=4.11.2.2&z=2016-05-12&g=2016-05-12).
+De netbeheerder informeert de leverancier, de programmaverantwoordelijke en de meetverantwoordelijke die voor de desbetreffende aansluiting in het aansluitingenregister vermeld staan, overeenkomstig [paragraaf 2.2](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=2&paragraaf=2.2&z=2016-07-27&g=2016-07-27) omtrent de mutatie, bedoeld in [4.11.2.2](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=4&paragraaf=4.11&sub-paragraaf=4.11.2&artikel=4.11.2.2&z=2016-07-27&g=2016-07-27).
 
 #### 4.12. Verwijderen van een grootverbruikaansluiting
 
@@ -3202,29 +3202,29 @@ De netbeheerder informeert de leverancier, de programmaverantwoordelijke en de m
 
 ##### 4.12.1.1
 
-De netbeheerder informeert de meetverantwoordelijke, indien mogelijk tenminste vijf werkdagen voorafgaand aan de datum waarop de aansluiting wordt verwijderd, over de geplande verwijdering van de aansluiting. In afwijking van [paragraaf 9.1](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=9&paragraaf=9.1&z=2016-05-12&g=2016-05-12) vindt deze informatie-uitwisseling niet plaats via het geautomatiseerde berichtenverkeer.
+De netbeheerder informeert de meetverantwoordelijke, indien mogelijk tenminste vijf werkdagen voorafgaand aan de datum waarop de aansluiting wordt verwijderd, over de geplande verwijdering van de aansluiting. In afwijking van [paragraaf 9.1](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=9&paragraaf=9.1&z=2016-07-27&g=2016-07-27) vindt deze informatie-uitwisseling niet plaats via het geautomatiseerde berichtenverkeer.
 
 #### 4.12.2. Verwijdering van de aansluiting en communicatie hierover door de netbeheerder
 
 ##### 4.12.2.1
 
-De netbeheerder controleert, voorafgaand aan de effectuering in het aansluitingenregister, bedoeld in [4.12.2.4](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=4&paragraaf=4.12&sub-paragraaf=4.12.2&artikel=4.12.2.4&z=2016-05-12&g=2016-05-12), of er voor de desbetreffende aansluiting nog eerder bevestigde, doch nog niet geëffectueerde leverancierswitchmeldingen, inhuizingsmeldingen, uithuizingsmeldingen, eindeleveringsmeldingen of PV-switchmeldingen zijn.
+De netbeheerder controleert, voorafgaand aan de effectuering in het aansluitingenregister, bedoeld in [4.12.2.4](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=4&paragraaf=4.12&sub-paragraaf=4.12.2&artikel=4.12.2.4&z=2016-07-27&g=2016-07-27), of er voor de desbetreffende aansluiting nog eerder bevestigde, doch nog niet geëffectueerde leverancierswitchmeldingen, inhuizingsmeldingen, uithuizingsmeldingen, eindeleveringsmeldingen of PV-switchmeldingen zijn.
 
 ##### 4.12.2.2
 
-Indien een of meerdere reeds bevestigde, doch nog niet geëffectueerde meldingen, bedoeld in [4.12.2.1](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=4&paragraaf=4.12&sub-paragraaf=4.12.2&artikel=4.12.2.1&z=2016-05-12&g=2016-05-12), aanwezig zijn, verwijdert de netbeheerder deze meldingen, beëindigt de netbeheerder de procedure(s) en informeert de netbeheerder de leverancier hierover. In afwijking van [paragraaf 9.1](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=9&paragraaf=9.1&z=2016-05-12&g=2016-05-12) vindt deze informatie-uitwisseling niet plaats via het geautomatiseerde berichtenverkeer.
+Indien een of meerdere reeds bevestigde, doch nog niet geëffectueerde meldingen, bedoeld in [4.12.2.1](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=4&paragraaf=4.12&sub-paragraaf=4.12.2&artikel=4.12.2.1&z=2016-07-27&g=2016-07-27), aanwezig zijn, verwijdert de netbeheerder deze meldingen, beëindigt de netbeheerder de procedure(s) en informeert de netbeheerder de leverancier hierover. In afwijking van [paragraaf 9.1](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=9&paragraaf=9.1&z=2016-07-27&g=2016-07-27) vindt deze informatie-uitwisseling niet plaats via het geautomatiseerde berichtenverkeer.
 
 ##### 4.12.2.3
 
-De leverancier informeert de programmaverantwoordelijke over de verwijdering van eerder ingediende, doch nog niet geëffectueerde meldingen, zoals genoemd in [4.12.2.2](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=4&paragraaf=4.12&sub-paragraaf=4.12.2&artikel=4.12.2.2&z=2016-05-12&g=2016-05-12).
+De leverancier informeert de programmaverantwoordelijke over de verwijdering van eerder ingediende, doch nog niet geëffectueerde meldingen, zoals genoemd in [4.12.2.2](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=4&paragraaf=4.12&sub-paragraaf=4.12.2&artikel=4.12.2.2&z=2016-07-27&g=2016-07-27).
 
 ##### 4.12.2.4
 
-Uiterlijk vijf werkdagen na de datum waarop de aansluiting fysiek is verwijderd effectueert de netbeheerder de fysieke status van de aansluiting, bedoeld in [2.1.3, onderdeel h](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=2&paragraaf=2.1&artikel=2.1.3&z=2016-05-12&g=2016-05-12), die van toepassing is, te weten: "gesloopt" in het aansluitingenregister overeenkomstig [2.1.8](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=2&paragraaf=2.1&artikel=2.1.8&z=2016-05-12&g=2016-05-12).
+Uiterlijk vijf werkdagen na de datum waarop de aansluiting fysiek is verwijderd effectueert de netbeheerder de fysieke status van de aansluiting, bedoeld in [2.1.3, onderdeel h](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=2&paragraaf=2.1&artikel=2.1.3&z=2016-07-27&g=2016-07-27), die van toepassing is, te weten: "gesloopt" in het aansluitingenregister overeenkomstig [2.1.8](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=2&paragraaf=2.1&artikel=2.1.8&z=2016-07-27&g=2016-07-27).
 
 ##### 4.12.2.5
 
-De netbeheerder informeert de leverancier, de programmaverantwoordelijke en de meetverantwoordelijke die voor de aansluiting in het aansluitingenregister vermeld staan, overeenkomstig [paragraaf 2.2](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=2&paragraaf=2.2&z=2016-05-12&g=2016-05-12) omtrent de mutatie, bedoeld in [4.12.2.4](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=4&paragraaf=4.12&sub-paragraaf=4.12.2&artikel=4.12.2.4&z=2016-05-12&g=2016-05-12).
+De netbeheerder informeert de leverancier, de programmaverantwoordelijke en de meetverantwoordelijke die voor de aansluiting in het aansluitingenregister vermeld staan, overeenkomstig [paragraaf 2.2](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=2&paragraaf=2.2&z=2016-07-27&g=2016-07-27) omtrent de mutatie, bedoeld in [4.12.2.4](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=4&paragraaf=4.12&sub-paragraaf=4.12.2&artikel=4.12.2.4&z=2016-07-27&g=2016-07-27).
 
 #### 4.13. Wijzigen van verblijfsfunctie of complexbepaling op een grootverbruikaansluiting
 
@@ -3258,11 +3258,11 @@ Naar aanleiding van de melding wijzigen verblijfsfunctie of complexbepaling cont
 
 ##### 4.13.2.2
 
-Als alle controles uit [4.13.2.1](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=4&paragraaf=4.13&sub-paragraaf=4.13.2&artikel=4.13.2.1&z=2016-05-12&g=2016-05-12) een positief resultaat geven, wordt de wijziging verblijfsfunctie of complexbepaling uitgevoerd en wordt de procedure vervolgd vanaf [4.13.2.4](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=4&paragraaf=4.13&sub-paragraaf=4.13.2&artikel=4.13.2.4&z=2016-05-12&g=2016-05-12). Als dat niet het geval is, wordt de wijziging verblijfsfunctie of complexbepaling niet uitgevoerd en wordt de procedure na [4.13.2.3](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=4&paragraaf=4.13&sub-paragraaf=4.13.2&artikel=4.13.2.3&z=2016-05-12&g=2016-05-12) beëindigd.
+Als alle controles uit [4.13.2.1](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=4&paragraaf=4.13&sub-paragraaf=4.13.2&artikel=4.13.2.1&z=2016-07-27&g=2016-07-27) een positief resultaat geven, wordt de wijziging verblijfsfunctie of complexbepaling uitgevoerd en wordt de procedure vervolgd vanaf [4.13.2.4](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=4&paragraaf=4.13&sub-paragraaf=4.13.2&artikel=4.13.2.4&z=2016-07-27&g=2016-07-27). Als dat niet het geval is, wordt de wijziging verblijfsfunctie of complexbepaling niet uitgevoerd en wordt de procedure na [4.13.2.3](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=4&paragraaf=4.13&sub-paragraaf=4.13.2&artikel=4.13.2.3&z=2016-07-27&g=2016-07-27) beëindigd.
 
 ##### 4.13.2.3
 
-Indien naar aanleiding van [4.13.2.2](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=4&paragraaf=4.13&sub-paragraaf=4.13.2&artikel=4.13.2.2&z=2016-05-12&g=2016-05-12) de wijziging verblijfsfunctie of complexbepaling niet uitgevoerd wordt, bericht de netbeheerder dit uiterlijk de werkdag na ontvangst van de melding wijzigen verblijfsfunctie of complexbepaling aan de leverancier die de melding heeft ingediend, waarbij wordt vermeld:
+Indien naar aanleiding van [4.13.2.2](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=4&paragraaf=4.13&sub-paragraaf=4.13.2&artikel=4.13.2.2&z=2016-07-27&g=2016-07-27) de wijziging verblijfsfunctie of complexbepaling niet uitgevoerd wordt, bericht de netbeheerder dit uiterlijk de werkdag na ontvangst van de melding wijzigen verblijfsfunctie of complexbepaling aan de leverancier die de melding heeft ingediend, waarbij wordt vermeld:
 
 - a. de EAN-code van de aansluiting;
 
@@ -3294,11 +3294,11 @@ De netbeheerder bevestigt de geplande uitvoering van de melding wijzigen verblij
 
 ##### 4.13.3.1
 
-De netbeheerder muteert het aansluitingenregister met de door de leverancier aangeleverde gegevens overeenkomstig [2.1.8](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=2&paragraaf=2.1&artikel=2.1.8&z=2016-05-12&g=2016-05-12).
+De netbeheerder muteert het aansluitingenregister met de door de leverancier aangeleverde gegevens overeenkomstig [2.1.8](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=2&paragraaf=2.1&artikel=2.1.8&z=2016-07-27&g=2016-07-27).
 
 ##### 4.13.3.2
 
-De netbeheerder informeert de leverancier, programmaverantwoordelijke en meetverantwoordelijke overeenkomstig [paragraaf 2.2](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=2&paragraaf=2.2&z=2016-05-12&g=2016-05-12).
+De netbeheerder informeert de leverancier, programmaverantwoordelijke en meetverantwoordelijke overeenkomstig [paragraaf 2.2](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=2&paragraaf=2.2&z=2016-07-27&g=2016-07-27).
 
 #### 4.14. Switch van de leverancier of de programmaverantwoordelijke bij de direct aangeslotene op het landelijk gastransportnet
 
@@ -3340,13 +3340,13 @@ Naar aanleiding van de switchmelding controleert de netbeheerder van het landeli
 
 - a. de switchmelding volledig en syntactisch correct is;
 
-- b. de EAN-code behoort bij een aansluiting als bedoeld in [2.13.1](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=2&paragraaf=2.13&artikel=2.13.1&z=2016-05-12&g=2016-05-12);
+- b. de EAN-code behoort bij een aansluiting als bedoeld in [2.13.1](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=2&paragraaf=2.13&artikel=2.13.1&z=2016-07-27&g=2016-07-27);
 
 - c. de switchdatum ten opzichte van de datum van de switchmelding ten minste vijf werkdagen in de toekomst ligt;
 
-- d. de nieuwe leverancier als juridische entiteit bekend is als bedoeld in [4.14.1.1](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=4&paragraaf=4.14&sub-paragraaf=4.14.1&artikel=4.14.1.1&z=2016-05-12&g=2016-05-12);
+- d. de nieuwe leverancier als juridische entiteit bekend is als bedoeld in [4.14.1.1](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=4&paragraaf=4.14&sub-paragraaf=4.14.1&artikel=4.14.1.1&z=2016-07-27&g=2016-07-27);
 
-- e. de opgegeven programmaverantwoordelijke een transportovereenkomst heeft afgesloten met de netbeheerder van het landelijke gastransportnet voor het desbetreffende entry/exitpunt met een transportcapaciteit groter dan 0 op de ingangsdatum zoals genoemd in het in [4.14.1.2](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=4&paragraaf=4.14&sub-paragraaf=4.14.1&artikel=4.14.1.2&z=2016-05-12&g=2016-05-12) bedoelde formulier.
+- e. de opgegeven programmaverantwoordelijke een transportovereenkomst heeft afgesloten met de netbeheerder van het landelijke gastransportnet voor het desbetreffende entry/exitpunt met een transportcapaciteit groter dan 0 op de ingangsdatum zoals genoemd in het in [4.14.1.2](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=4&paragraaf=4.14&sub-paragraaf=4.14.1&artikel=4.14.1.2&z=2016-07-27&g=2016-07-27) bedoelde formulier.
 
 ##### 4.14.2.2
 
@@ -3356,7 +3356,7 @@ De netbeheerder van het landelijk gastransportnet wijst de switchmelding af die 
 
 ##### 4.14.3.1
 
-De netbeheerder van het landelijk gastransportnet muteert het aansluitingenregister naar aanleiding van de switchmelding die al dan niet na inhoudelijke aanpassing, voldoet aan de vereisten [a, b, d en e van 4.14.2.1](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=4&paragraaf=4.14&sub-paragraaf=4.14.2&artikel=4.14.2.1&z=2016-05-12&g=2016-05-12), dan wel ingeval van een niet-tijdige melding of een niet-tijdige inhoudelijke aanpassing, uiterlijk 5 werkdagen na ontvangst van de switchmelding die hier (uiteindelijk) aan voldoet.
+De netbeheerder van het landelijk gastransportnet muteert het aansluitingenregister naar aanleiding van de switchmelding die al dan niet na inhoudelijke aanpassing, voldoet aan de vereisten [a, b, d en e van 4.14.2.1](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=4&paragraaf=4.14&sub-paragraaf=4.14.2&artikel=4.14.2.1&z=2016-07-27&g=2016-07-27), dan wel ingeval van een niet-tijdige melding of een niet-tijdige inhoudelijke aanpassing, uiterlijk 5 werkdagen na ontvangst van de switchmelding die hier (uiteindelijk) aan voldoet.
 
 ##### 4.14.3.2
 
@@ -3412,7 +3412,7 @@ De netbeheerder van het landelijk gastransportnet wijst de eindeleveringsmelding
 
 ##### 4.15.3.1
 
-De netbeheerder van het landelijk gastransportnet muteert het aansluitingenregister overeenkomstig [2.13.1](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=2&paragraaf=2.13&artikel=2.13.1&z=2016-05-12&g=2016-05-12) naar aanleiding van de eindeleveringsmelding die voldoet aan de vereisten [a, c en d van 4.15.2.1](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=4&paragraaf=4.15&sub-paragraaf=4.15.2&artikel=4.15.2.1&z=2016-05-12&g=2016-05-12), uiterlijk één maand nadat deze is ontvangen dan wel afdoende aan de genoemde vereisten is aangepast.
+De netbeheerder van het landelijk gastransportnet muteert het aansluitingenregister overeenkomstig [2.13.1](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=2&paragraaf=2.13&artikel=2.13.1&z=2016-07-27&g=2016-07-27) naar aanleiding van de eindeleveringsmelding die voldoet aan de vereisten [a, c en d van 4.15.2.1](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=4&paragraaf=4.15&sub-paragraaf=4.15.2&artikel=4.15.2.1&z=2016-07-27&g=2016-07-27), uiterlijk één maand nadat deze is ontvangen dan wel afdoende aan de genoemde vereisten is aangepast.
 
 ##### 4.15.3.2
 
@@ -3424,7 +3424,7 @@ De netbeheerder van het landelijk gastransportnet informeert de direct aangeslot
 
 ##### 5.1.1
 
-[Paragraaf 5.1](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=5&paragraaf=5.1&z=2016-05-12&g=2016-05-12) is niet van toepassing op onbemeten kleinverbruikaansluitingen.
+[Paragraaf 5.1](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=5&paragraaf=5.1&z=2016-07-27&g=2016-07-27) is niet van toepassing op onbemeten kleinverbruikaansluitingen.
 
 #### 5.1.2. De leverancier collecteert meterstanden
 
@@ -3434,17 +3434,17 @@ De leverancier collecteert voor een kleinverbruikaansluiting ten minste eenmaal 
 
 ##### 5.1.2.2
 
-De leverancier collecteert in het kader van een mutatieproces een meterstand die betrekking heeft op de mutatiedatum, zoals bedoeld in [paragrafen 3.1 tot en met 3.4](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=3&paragraaf=3.1&z=2016-05-12&g=2016-05-12).
+De leverancier collecteert in het kader van een mutatieproces een meterstand die betrekking heeft op de mutatiedatum, zoals bedoeld in [paragrafen 3.1 tot en met 3.4](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=3&paragraaf=3.1&z=2016-07-27&g=2016-07-27).
 
 ##### 5.1.2.3
 
-De leverancier meldt bij de opvraag, bedoeld in [5.1.2.1](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=5&paragraaf=5.1&sub-paragraaf=5.1.2&artikel=5.1.2.1&z=2016-05-12&g=2016-05-12) of [5.1.2.2](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=5&paragraaf=5.1&sub-paragraaf=5.1.2&artikel=5.1.2.2&z=2016-05-12&g=2016-05-12), aan de aangeslotene dat het niet (tijdig) verstrekken van de bedoelde meterstand leidt tot berekening of schatting van de meterstand.
+De leverancier meldt bij de opvraag, bedoeld in [5.1.2.1](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=5&paragraaf=5.1&sub-paragraaf=5.1.2&artikel=5.1.2.1&z=2016-07-27&g=2016-07-27) of [5.1.2.2](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=5&paragraaf=5.1&sub-paragraaf=5.1.2&artikel=5.1.2.2&z=2016-07-27&g=2016-07-27), aan de aangeslotene dat het niet (tijdig) verstrekken van de bedoelde meterstand leidt tot berekening of schatting van de meterstand.
 
 #### 5.1.3. De leverancier valideert meterstanden en stelt deze vast
 
 ##### 5.1.3.1
 
-De leverancier valideert de meterstand, bedoeld in [5.1.2](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=5&paragraaf=5.1&sub-paragraaf=5.1.2&z=2016-05-12&g=2016-05-12), met behulp van de in het toegankelijk meetregister vermelde historische meterstanden en het uit het aansluitingenregister verkregen standaardjaarverbruik en controleert of de meterstand, indien van toepassing voor zowel het normaaltelwerk als het laagtelwerk, tussen de volgende validatiegrenzen ligt:
+De leverancier valideert de meterstand, bedoeld in [5.1.2](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=5&paragraaf=5.1&sub-paragraaf=5.1.2&z=2016-07-27&g=2016-07-27), met behulp van de in het toegankelijk meetregister vermelde historische meterstanden en het uit het aansluitingenregister verkregen standaardjaarverbruik en controleert of de meterstand, indien van toepassing voor zowel het normaaltelwerk als het laagtelwerk, tussen de volgende validatiegrenzen ligt:
 
 - a. Bovengrens = Vorige meterstand + 200% * [SOM fractie (Datumvorige meterstand : Datumte valideren meterstand)] * SJV / vermenigvuldigingsfactor
 
@@ -3456,15 +3456,15 @@ De leverancier valideert de meterstand, bedoeld in [5.1.2](https://wetten.overhe
 
 ##### 5.1.3.2
 
-De leverancier treedt in overleg met de aangeslotene indien de gecollecteerde meterstanden buiten de grenzen, bedoeld in [5.1.3.1](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=5&paragraaf=5.1&sub-paragraaf=5.1.3&artikel=5.1.3.1&z=2016-05-12&g=2016-05-12), vallen, met als doel om:
+De leverancier treedt in overleg met de aangeslotene indien de gecollecteerde meterstanden buiten de grenzen, bedoeld in [5.1.3.1](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=5&paragraaf=5.1&sub-paragraaf=5.1.3&artikel=5.1.3.1&z=2016-07-27&g=2016-07-27), vallen, met als doel om:
 
 - a. een nieuwe door de aangeslotene aangeleverde meterstand te verkrijgen, of;
 
-- b. te constateren dat de op grond van [artikel 5.1.2](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=5&paragraaf=5.1&sub-paragraaf=5.1.2&z=2016-05-12&g=2016-05-12) gecollecteerde meterstand wel gebruikt kan worden en als gevalideerd wordt beschouwd.
+- b. te constateren dat de op grond van [artikel 5.1.2](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=5&paragraaf=5.1&sub-paragraaf=5.1.2&z=2016-07-27&g=2016-07-27) gecollecteerde meterstand wel gebruikt kan worden en als gevalideerd wordt beschouwd.
 
 ##### 5.1.3.3
 
-De leverancier berekent de meterstand indien geen collectie op grond van [paragraaf 5.1.2](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=5&paragraaf=5.1&sub-paragraaf=5.1.2&z=2016-05-12&g=2016-05-12) heeft kunnen plaatsvinden of wanneer in overleg met de aangeslotene, bedoeld in [5.1.3.2](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=5&paragraaf=5.1&sub-paragraaf=5.1.3&artikel=5.1.3.2&z=2016-05-12&g=2016-05-12), geen duidelijkheid is verkregen over de bruikbaarheid van de meterstand die buiten de validatiegrenzen, bedoeld in [5.1.3.1](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=5&paragraaf=5.1&sub-paragraaf=5.1.3&artikel=5.1.3.1&z=2016-05-12&g=2016-05-12), valt. Voor deze berekening wordt gebruik gemaakt van de volgende algoritmen:
+De leverancier berekent de meterstand indien geen collectie op grond van [paragraaf 5.1.2](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=5&paragraaf=5.1&sub-paragraaf=5.1.2&z=2016-07-27&g=2016-07-27) heeft kunnen plaatsvinden of wanneer in overleg met de aangeslotene, bedoeld in [5.1.3.2](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=5&paragraaf=5.1&sub-paragraaf=5.1.3&artikel=5.1.3.2&z=2016-07-27&g=2016-07-27), geen duidelijkheid is verkregen over de bruikbaarheid van de meterstand die buiten de validatiegrenzen, bedoeld in [5.1.3.1](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=5&paragraaf=5.1&sub-paragraaf=5.1.3&artikel=5.1.3.1&z=2016-07-27&g=2016-07-27), valt. Voor deze berekening wordt gebruik gemaakt van de volgende algoritmen:
 
 - a. Berekende meterstand (elektriciteit normaal) = Vorige meterstand (normaal)+ [SOM fractie (Datumvorige meterstand : Datumte berekenen meterstand)] * SJVnormaaluren / vermenigvuldigingsfactor;
 
@@ -3472,7 +3472,7 @@ De leverancier berekent de meterstand indien geen collectie op grond van [paragr
 
 - c. Berekende meterstand (elektriciteit totaal) = Vorige meterstand (totaal) + [SOM fractie (Datumvorige meterstand : Datumte berekenen meterstand)] * SJV(normaal- + laaguren) / vermenigvuldigingsfactor;
 
-- d. Berekende meterstand (gas) = Vorige meterstand+ [SOM fractie (Datumvorige meterstand : Datumte berekenen meterstand)] * SJV / (vermenigvuldigingsfactor * volumeherleidingsfactor), met inachtneming van [5.1.3.5](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=5&paragraaf=5.1&sub-paragraaf=5.1.3&artikel=5.1.3.5&z=2016-05-12&g=2016-05-12);
+- d. Berekende meterstand (gas) = Vorige meterstand+ [SOM fractie (Datumvorige meterstand : Datumte berekenen meterstand)] * SJV / (vermenigvuldigingsfactor * volumeherleidingsfactor), met inachtneming van [5.1.3.5](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=5&paragraaf=5.1&sub-paragraaf=5.1.3&artikel=5.1.3.5&z=2016-07-27&g=2016-07-27);
 
 - e. Berekende meterstand (teruglevering elektriciteit normaal) = vorige meterstand (teruglevering elektriciteit normaal);
 
@@ -3480,7 +3480,7 @@ De leverancier berekent de meterstand indien geen collectie op grond van [paragr
 
 ##### 5.1.3.4
 
-De leverancier stelt de gevalideerde meterstand, bedoeld in [5.1.3.1](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=5&paragraaf=5.1&sub-paragraaf=5.1.3&artikel=5.1.3.1&z=2016-05-12&g=2016-05-12) of [5.1.3.2 onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=5&paragraaf=5.1&sub-paragraaf=5.1.3&artikel=5.1.3.2&z=2016-05-12&g=2016-05-12), of de berekende meterstand, bedoeld in [5.1.3.3](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=5&paragraaf=5.1&sub-paragraaf=5.1.3&artikel=5.1.3.3&z=2016-05-12&g=2016-05-12), vast voor de opnamedatum bij een periodieke meterstand of voor de mutatiedatum bij een mutatieproces.
+De leverancier stelt de gevalideerde meterstand, bedoeld in [5.1.3.1](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=5&paragraaf=5.1&sub-paragraaf=5.1.3&artikel=5.1.3.1&z=2016-07-27&g=2016-07-27) of [5.1.3.2 onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=5&paragraaf=5.1&sub-paragraaf=5.1.3&artikel=5.1.3.2&z=2016-07-27&g=2016-07-27), of de berekende meterstand, bedoeld in [5.1.3.3](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=5&paragraaf=5.1&sub-paragraaf=5.1.3&artikel=5.1.3.3&z=2016-07-27&g=2016-07-27), vast voor de opnamedatum bij een periodieke meterstand of voor de mutatiedatum bij een mutatieproces.
 
 ##### 5.1.3.5
 
@@ -3490,7 +3490,7 @@ Gedurende de periode van 1 januari 2015 tot en met 31 december 2016 wordt in pla
 
 ##### 5.1.4.1
 
-De leverancier verstuurt de vastgestelde meterstand, bedoeld in [5.1.3.4](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=5&paragraaf=5.1&sub-paragraaf=5.1.3&artikel=5.1.3.4&z=2016-05-12&g=2016-05-12), de werkdag na vaststelling, doch uiterlijk binnen de termijnen, bedoeld in [5.3.4.3](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=5&paragraaf=5.3&sub-paragraaf=5.3.4&artikel=5.3.4.3&z=2016-05-12&g=2016-05-12), naar de regionale netbeheerder en vermeldt daarbij:
+De leverancier verstuurt de vastgestelde meterstand, bedoeld in [5.1.3.4](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=5&paragraaf=5.1&sub-paragraaf=5.1.3&artikel=5.1.3.4&z=2016-07-27&g=2016-07-27), de werkdag na vaststelling, doch uiterlijk binnen de termijnen, bedoeld in [5.3.4.3](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=5&paragraaf=5.3&sub-paragraaf=5.3.4&artikel=5.3.4.3&z=2016-07-27&g=2016-07-27), naar de regionale netbeheerder en vermeldt daarbij:
 
 - a. de EAN-code van de aansluiting;
 
@@ -3516,7 +3516,7 @@ De leverancier verstuurt de vastgestelde meterstand, bedoeld in [5.1.3.4](https:
 
 ##### 5.2.1
 
-[Paragraaf 5.2](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=5&paragraaf=5.2&z=2016-05-12&g=2016-05-12) is niet van toepassing op onbemeten kleinverbruikaansluitingen.
+[Paragraaf 5.2](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=5&paragraaf=5.2&z=2016-07-27&g=2016-07-27) is niet van toepassing op onbemeten kleinverbruikaansluitingen.
 
 #### 5.2.2. De regionale netbeheerder neemt de meterstand fysiek op en stelt de meterstand voor de leverancier vast
 
@@ -3526,11 +3526,11 @@ De regionale netbeheerder voert fysieke meteropnames uit op kleinverbruikaanslui
 
 - a. ten minste eenmaal in de 36 maanden bij kleinverbruikmeetinrichtingen die niet op afstand uitleesbaar zijn, met inbegrip van kleinverbruikmeetinrichtingen die administratief uit staan, door middel van aflezing op de meetinrichting bij de aangeslotene;
 
-- b. in geval van de processen, bedoeld in [paragrafen 3.8 tot en met 3.11](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=3&paragraaf=3.8&z=2016-05-12&g=2016-05-12) voor alle kleinverbruikmeetinrichtingen.
+- b. in geval van de processen, bedoeld in [paragrafen 3.8 tot en met 3.11](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=3&paragraaf=3.8&z=2016-07-27&g=2016-07-27) voor alle kleinverbruikmeetinrichtingen.
 
 ##### 5.2.2.2
 
-De regionale netbeheerder valideert voor de leverancier of de fysiek opgenomen meterstand binnen de validatiegrenzen, bedoeld in [5.1.3.1](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=5&paragraaf=5.1&sub-paragraaf=5.1.3&artikel=5.1.3.1&z=2016-05-12&g=2016-05-12), valt. Indien de fysiek opgenomen meterstand buiten de validatiegrenzen valt, verifieert de regionale netbeheerder of de fysiek opgenomen meterstand op de kleinverbruikmeetinrichting weergegeven is.
+De regionale netbeheerder valideert voor de leverancier of de fysiek opgenomen meterstand binnen de validatiegrenzen, bedoeld in [5.1.3.1](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=5&paragraaf=5.1&sub-paragraaf=5.1.3&artikel=5.1.3.1&z=2016-07-27&g=2016-07-27), valt. Indien de fysiek opgenomen meterstand buiten de validatiegrenzen valt, verifieert de regionale netbeheerder of de fysiek opgenomen meterstand op de kleinverbruikmeetinrichting weergegeven is.
 
 ##### 5.2.2.3
 
@@ -3542,15 +3542,15 @@ De regionale netbeheerder stelt de fysiek opgenomen meterstand vast voor de leve
 
 ##### 5.3.1.1
 
-De leverancier bepaalt het verbruik voor de facturatie, overeenkomstig [paragrafen 5.3.2](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=5&paragraaf=5.3&sub-paragraaf=5.3.2&z=2016-05-12&g=2016-05-12) en [5.3.3](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=5&paragraaf=5.3&sub-paragraaf=5.3.3&z=2016-05-12&g=2016-05-12), op basis van vastgestelde meterstanden.
+De leverancier bepaalt het verbruik voor de facturatie, overeenkomstig [paragrafen 5.3.2](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=5&paragraaf=5.3&sub-paragraaf=5.3.2&z=2016-07-27&g=2016-07-27) en [5.3.3](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=5&paragraaf=5.3&sub-paragraaf=5.3.3&z=2016-07-27&g=2016-07-27), op basis van vastgestelde meterstanden.
 
 ##### 5.3.1.2
 
-In afwijking van [5.3.1.1](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=5&paragraaf=5.3&sub-paragraaf=5.3.1&artikel=5.3.1.1&z=2016-05-12&g=2016-05-12) zal de leverancier in geval van een schakelstoring in de meetinrichting, in overleg met de aangeslotene, het gemeten verbruik, op basis van de in het toegankelijk meetregister aanwezige meetreeks, en ten behoeve van de facturatie, verdelen naar normaal en laag tarief.
+In afwijking van [5.3.1.1](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=5&paragraaf=5.3&sub-paragraaf=5.3.1&artikel=5.3.1.1&z=2016-07-27&g=2016-07-27) zal de leverancier in geval van een schakelstoring in de meetinrichting, in overleg met de aangeslotene, het gemeten verbruik, op basis van de in het toegankelijk meetregister aanwezige meetreeks, en ten behoeve van de facturatie, verdelen naar normaal en laag tarief.
 
 ##### 5.3.1.3
 
-In afwijking van [5.3.1.1](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=5&paragraaf=5.3&sub-paragraaf=5.3.1&artikel=5.3.1.1&z=2016-05-12&g=2016-05-12) zal de leverancier het door de netbeheerder op grond van [5.3.4](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=5&paragraaf=5.3&sub-paragraaf=5.3.4&z=2016-05-12&g=2016-05-12) berekende en gecommuniceerde verbruik overnemen in zijn facturatie indien hij hiervoor niet zelf een verbruik kan bepalen door storing van de meetinrichting, niet zijnde een schakelstoring.
+In afwijking van [5.3.1.1](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=5&paragraaf=5.3&sub-paragraaf=5.3.1&artikel=5.3.1.1&z=2016-07-27&g=2016-07-27) zal de leverancier het door de netbeheerder op grond van [5.3.4](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=5&paragraaf=5.3&sub-paragraaf=5.3.4&z=2016-07-27&g=2016-07-27) berekende en gecommuniceerde verbruik overnemen in zijn facturatie indien hij hiervoor niet zelf een verbruik kan bepalen door storing van de meetinrichting, niet zijnde een schakelstoring.
 
 #### 5.3.2. Verbruiksbepaling elektriciteit
 
@@ -3564,23 +3564,23 @@ Het verbruik voor de laaguren wordt bepaald door het verschil te bepalen tussen 
 
 ##### 5.3.2.3
 
-In afwijking van [5.3.2.1](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=5&paragraaf=5.3&sub-paragraaf=5.3.2&artikel=5.3.2.1&z=2016-05-12&g=2016-05-12) wordt in het geval dat een meetinrichting beschikt over een totaaltelwerk en een laagtelwerk, het verbruik voor de normaaluren bepaald door het verschil te bepalen tussen de vastgestelde meterstand en de voorlaatste vastgestelde meterstand van het totaaltelwerk en dit verschil te vermenigvuldigen met de vermenigvuldigingsfactor van het telwerk en dit verbruik te verminderen met het verbruik voor het laagtelwerk.
+In afwijking van [5.3.2.1](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=5&paragraaf=5.3&sub-paragraaf=5.3.2&artikel=5.3.2.1&z=2016-07-27&g=2016-07-27) wordt in het geval dat een meetinrichting beschikt over een totaaltelwerk en een laagtelwerk, het verbruik voor de normaaluren bepaald door het verschil te bepalen tussen de vastgestelde meterstand en de voorlaatste vastgestelde meterstand van het totaaltelwerk en dit verschil te vermenigvuldigen met de vermenigvuldigingsfactor van het telwerk en dit verbruik te verminderen met het verbruik voor het laagtelwerk.
 
 ##### 5.3.2.4
 
-In afwijking van [5.3.2.2](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=5&paragraaf=5.3&sub-paragraaf=5.3.2&artikel=5.3.2.2&z=2016-05-12&g=2016-05-12) wordt in het geval dat een meetinrichting beschikt over een totaaltelwerk en een hoog- of normaaltelwerk, het verbruik voor de laaguren bepaald door het verschil te bepalen tussen de vastgestelde meterstand en de voorlaatste vastgestelde meterstand van het totaaltelwerk en dit verschil te vermenigvuldigen met de vermenigvuldigingsfactor van het telwerk en dit verbruik te verminderen met het verbruik voor het normaaltelwerk.
+In afwijking van [5.3.2.2](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=5&paragraaf=5.3&sub-paragraaf=5.3.2&artikel=5.3.2.2&z=2016-07-27&g=2016-07-27) wordt in het geval dat een meetinrichting beschikt over een totaaltelwerk en een hoog- of normaaltelwerk, het verbruik voor de laaguren bepaald door het verschil te bepalen tussen de vastgestelde meterstand en de voorlaatste vastgestelde meterstand van het totaaltelwerk en dit verschil te vermenigvuldigen met de vermenigvuldigingsfactor van het telwerk en dit verbruik te verminderen met het verbruik voor het normaaltelwerk.
 
 ##### 5.3.2.5
 
 Het verbruik voor een kleinverbruikaansluiting zonder meetinrichting wordt door de regionale netbeheerder bepaald op basis van:
 
-- a. het belastingprofiel dat overeenkomstig de systematiek beschreven in [bijlage B2](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&bijlage=2&z=2016-05-12&g=2016-05-12) wordt bepaald voor zover het een installatie voor openbare verlichting of een verkeersregelinstallatie betreft;
+- a. het belastingprofiel dat overeenkomstig de systematiek beschreven in [bijlage B2](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&bijlage=2&z=2016-07-27&g=2016-07-27) wordt bepaald voor zover het een installatie voor openbare verlichting of een verkeersregelinstallatie betreft;
 
-- b. het verbruiksprofiel dat overeenkomstig de systematiek beschreven in [bijlage B1.3](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&bijlage=1&z=2016-05-12&g=2016-05-12) wordt bepaald voor zover het een andere installatie dan een installatie voor openbare verlichting of een verkeersregelinstallatie betreft met dien ten verstande dat de regionale netbeheerder het standaardjaarverbruik bepaalt op basis van de gegevens genoemd in [2.1.3.6 van de Netcode elektriciteit](https://wetten.overheid.nl/jci1.3:c:BWBR0037940&artikel=2.1.3.6).
+- b. het verbruiksprofiel dat overeenkomstig de systematiek beschreven in [bijlage B1.3](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&bijlage=1&z=2016-07-27&g=2016-07-27) wordt bepaald voor zover het een andere installatie dan een installatie voor openbare verlichting of een verkeersregelinstallatie betreft met dien ten verstande dat de regionale netbeheerder het standaardjaarverbruik bepaalt op basis van de gegevens genoemd in [2.1.3.6 van de Netcode elektriciteit](https://wetten.overheid.nl/jci1.3:c:BWBR0037940&artikel=2.1.3.6).
 
 ##### 5.3.2.6
 
-Indien de meterbeheerder een defect heeft vastgesteld in de meetinrichting, niet zijnde een schakelstoring, of fraude met de meetinrichting heeft geconstateerd, zal de netbeheerder, in afwijking van [5.3.2.1 tot en met 5.3.2.4](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=5&paragraaf=5.3&sub-paragraaf=5.3.2&artikel=5.3.2.1&z=2016-05-12&g=2016-05-12), het te veel of te weinig geregistreerde verbruik bepalen voor de periode dat de meetinrichting niet correct heeft gefunctioneerd op basis van één of meerdere van de volgende gegevens:
+Indien de meterbeheerder een defect heeft vastgesteld in de meetinrichting, niet zijnde een schakelstoring, of fraude met de meetinrichting heeft geconstateerd, zal de netbeheerder, in afwijking van [5.3.2.1 tot en met 5.3.2.4](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=5&paragraaf=5.3&sub-paragraaf=5.3.2&artikel=5.3.2.1&z=2016-07-27&g=2016-07-27), het te veel of te weinig geregistreerde verbruik bepalen voor de periode dat de meetinrichting niet correct heeft gefunctioneerd op basis van één of meerdere van de volgende gegevens:
 
 - (i). de in het toegankelijk meetregister aanwezige betrouwbare meetreeks;
 
@@ -3590,7 +3590,7 @@ Indien de meterbeheerder een defect heeft vastgesteld in de meetinrichting, niet
 
 - (iv). indien door de desbetreffende klant aan de netbeheerder verstrekt, de productie-installatiegegevens.
 
-Het aldus te veel of te weinig geregistreerde verbruik wordt gesaldeerd met het op basis van de [artikelen 5.3.2.1 tot en met 5.3.2.4](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=5&paragraaf=5.3&sub-paragraaf=5.3.2&artikel=5.3.2.1&z=2016-05-12&g=2016-05-12) te bepalen verbruik behorende bij de periode van de vastgestelde stand die als eerstvolgende op grond van [paragraaf 5.5](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=5&paragraaf=5.5&z=2016-05-12&g=2016-05-12) niet meer te corrigeren zal zijn.
+Het aldus te veel of te weinig geregistreerde verbruik wordt gesaldeerd met het op basis van de [artikelen 5.3.2.1 tot en met 5.3.2.4](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=5&paragraaf=5.3&sub-paragraaf=5.3.2&artikel=5.3.2.1&z=2016-07-27&g=2016-07-27) te bepalen verbruik behorende bij de periode van de vastgestelde stand die als eerstvolgende op grond van [paragraaf 5.5](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=5&paragraaf=5.5&z=2016-07-27&g=2016-07-27) niet meer te corrigeren zal zijn.
 
 #### 5.3.3. Verbruiksbepaling gas
 
@@ -3608,15 +3608,15 @@ Het verbruik wordt bepaald door het verschil te bepalen tussen de vastgestelde m
 
 - e. indien TAC kleiner dan of gelijk aan TSTPC is dan geldt: TAPPC = RERPC x (TSTPC – TAC) Waarin: RERPC = regressiecoëfficient
 
-- f. TOP, RER en TST worden beschikbaar gesteld door het platform bedoeld in [B3.1.2](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&bijlage=3&z=2016-05-12&g=2016-05-12).
+- f. TOP, RER en TST worden beschikbaar gesteld door het platform bedoeld in [B3.1.2](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&bijlage=3&z=2016-07-27&g=2016-07-27).
 
-- g. voor niet temperatuur gecorrigeerde meetinrichtingen is de volumeherleidingsfactor op grond van de 7-gradenmethode bepaald op 1 voor de verbruiksperiode tot 1 januari 2015 en op grond van de 15-gradenmethode bepaald op 0,97624 voor de verbruiksperiode vanaf 1 januari 2015, met inachtneming van [5.1.3.5](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=5&paragraaf=5.1&sub-paragraaf=5.1.3&artikel=5.1.3.5&z=2016-05-12&g=2016-05-12).
+- g. voor niet temperatuur gecorrigeerde meetinrichtingen is de volumeherleidingsfactor op grond van de 7-gradenmethode bepaald op 1 voor de verbruiksperiode tot 1 januari 2015 en op grond van de 15-gradenmethode bepaald op 0,97624 voor de verbruiksperiode vanaf 1 januari 2015, met inachtneming van [5.1.3.5](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=5&paragraaf=5.1&sub-paragraaf=5.1.3&artikel=5.1.3.5&z=2016-07-27&g=2016-07-27).
 
 - h. voor temperatuur gecorrigeerde meetinrichtingen wordt geen volumeherleidingsfactor toegepast.
 
 ##### 5.3.3.2
 
-Het verbruik voor kleinverbruikaansluitingen zonder meetinrichting wordt bepaald overeenkomstig [B3.4.7](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&bijlage=3&z=2016-05-12&g=2016-05-12).
+Het verbruik voor kleinverbruikaansluitingen zonder meetinrichting wordt bepaald overeenkomstig [B3.4.7](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&bijlage=3&z=2016-07-27&g=2016-07-27).
 
 ##### 5.3.3.3
 
@@ -3628,13 +3628,13 @@ Indien de meterbeheerder een defect heeft vastgesteld in de meetinrichting, of f
 
 - (iii). een ijkrapport.
 
-Het aldus te veel of te weinig geregistreerde verbruik wordt gesaldeerd met het op basis van [artikel 5.3.3.1](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=5&paragraaf=5.3&sub-paragraaf=5.3.3&artikel=5.3.3.1&z=2016-05-12&g=2016-05-12) te bepalen verbruik behorende bij de periode van de vastgestelde stand die als eerstvolgende op grond van [paragraaf 5.5](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=5&paragraaf=5.5&z=2016-05-12&g=2016-05-12) niet meer te corrigeren zal zijn.
+Het aldus te veel of te weinig geregistreerde verbruik wordt gesaldeerd met het op basis van [artikel 5.3.3.1](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=5&paragraaf=5.3&sub-paragraaf=5.3.3&artikel=5.3.3.1&z=2016-07-27&g=2016-07-27) te bepalen verbruik behorende bij de periode van de vastgestelde stand die als eerstvolgende op grond van [paragraaf 5.5](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=5&paragraaf=5.5&z=2016-07-27&g=2016-07-27) niet meer te corrigeren zal zijn.
 
 #### 5.3.4. De regionale netbeheerder ontvangt de vastgestelde meterstanden van de leverancier en bepaalt het verbruik voor reconciliatie
 
 ##### 5.3.4.1
 
-Naar aanleiding van de ontvangen vastgestelde meterstand van de leverancier, bedoeld in [5.1.4.1](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=5&paragraaf=5.1&sub-paragraaf=5.1.4&artikel=5.1.4.1&z=2016-05-12&g=2016-05-12), controleert de regionale netbeheerder of:
+Naar aanleiding van de ontvangen vastgestelde meterstand van de leverancier, bedoeld in [5.1.4.1](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=5&paragraaf=5.1&sub-paragraaf=5.1.4&artikel=5.1.4.1&z=2016-07-27&g=2016-07-27), controleert de regionale netbeheerder of:
 
 - a. het bericht met de vastgestelde meterstand volledig en syntactisch correct is;
 
@@ -3642,9 +3642,9 @@ Naar aanleiding van de ontvangen vastgestelde meterstand van de leverancier, bed
 
 - c. de aansluiting op de opnamedatum van de meterstand is voorzien van een meetinrichting;
 
-- d. de leverancier die de vastgestelde meterstand heeft verstuurd op grond van de collectie van een periodieke meterstand, bedoeld in [5.1.2.1](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=5&paragraaf=5.1&sub-paragraaf=5.1.2&artikel=5.1.2.1&z=2016-05-12&g=2016-05-12), als de leverancier op de aansluiting in het aansluitingenregister vermeld staat voor de opnamedatum, waarop de meterstand betrekking heeft;
+- d. de leverancier die de vastgestelde meterstand heeft verstuurd op grond van de collectie van een periodieke meterstand, bedoeld in [5.1.2.1](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=5&paragraaf=5.1&sub-paragraaf=5.1.2&artikel=5.1.2.1&z=2016-07-27&g=2016-07-27), als de leverancier op de aansluiting in het aansluitingenregister vermeld staat voor de opnamedatum, waarop de meterstand betrekking heeft;
 
-- e. de leverancier die de vastgestelde meterstand heeft verstuurd op grond van de collectie van een meterstand bij een mutatieproces, bedoeld in [5.1.2.2](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=5&paragraaf=5.1&sub-paragraaf=5.1.2&artikel=5.1.2.2&z=2016-05-12&g=2016-05-12), de leverancier is die het betreffende mutatieproces heeft geïnitieerd;
+- e. de leverancier die de vastgestelde meterstand heeft verstuurd op grond van de collectie van een meterstand bij een mutatieproces, bedoeld in [5.1.2.2](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=5&paragraaf=5.1&sub-paragraaf=5.1.2&artikel=5.1.2.2&z=2016-07-27&g=2016-07-27), de leverancier is die het betreffende mutatieproces heeft geïnitieerd;
 
 - f. het aantal vastgestelde meterstanden overeen komt met het aantal actieve telwerken van de meetinrichting;
 
@@ -3652,13 +3652,13 @@ Naar aanleiding van de ontvangen vastgestelde meterstand van de leverancier, bed
 
 - h. de ontvangen vastgestelde periodieke meterstand, de meest recent vastgestelde meterstand is;
 
-- i. de vastgestelde meterstand tijdig is ingediend, gelet op de mogelijkheid van de in [5.5.1.3](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=5&paragraaf=5.5&sub-paragraaf=5.5.1&artikel=5.5.1.3&z=2016-05-12&g=2016-05-12) bedoelde wederpartij om hierover in dispuut te treden;
+- i. de vastgestelde meterstand tijdig is ingediend, gelet op de mogelijkheid van de in [5.5.1.3](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=5&paragraaf=5.5&sub-paragraaf=5.5.1&artikel=5.5.1.3&z=2016-07-27&g=2016-07-27) bedoelde wederpartij om hierover in dispuut te treden;
 
 - j. de aansluiting een kleinverbruikaansluiting is.
 
 ##### 5.3.4.2
 
-Indien naar aanleiding van [5.3.4.1](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=5&paragraaf=5.3&sub-paragraaf=5.3.4&artikel=5.3.4.1&z=2016-05-12&g=2016-05-12) de ontvangen meterstand niet verwerkt kan worden, bericht de regionale netbeheerder dit uiterlijk de werkdag na ontvangst van de vastgestelde meterstand aan de leverancier en vermeldt daarbij:
+Indien naar aanleiding van [5.3.4.1](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=5&paragraaf=5.3&sub-paragraaf=5.3.4&artikel=5.3.4.1&z=2016-07-27&g=2016-07-27) de ontvangen meterstand niet verwerkt kan worden, bericht de regionale netbeheerder dit uiterlijk de werkdag na ontvangst van de vastgestelde meterstand aan de leverancier en vermeldt daarbij:
 
 - a. de EAN-code van de aansluiting;
 
@@ -3680,7 +3680,7 @@ Indien naar aanleiding van [5.3.4.1](https://wetten.overheid.nl/jci1.3:c:BWBR003
 
 - 8°. de ontvangen vastgestelde periodieke meterstand is niet de meest recent vastgestelde meterstand;
 
-- 9°. de vastgestelde meterstand is te laat ingediend waardoor de wederpartij als bedoeld in [5.5.1.3](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=5&paragraaf=5.5&sub-paragraaf=5.5.1&artikel=5.5.1.3&z=2016-05-12&g=2016-05-12), hierover niet meer in dispuut kan treden;
+- 9°. de vastgestelde meterstand is te laat ingediend waardoor de wederpartij als bedoeld in [5.5.1.3](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=5&paragraaf=5.5&sub-paragraaf=5.5.1&artikel=5.5.1.3&z=2016-07-27&g=2016-07-27), hierover niet meer in dispuut kan treden;
 
 - 10°. de aansluiting is geen kleinverbruikaansluiting;
 
@@ -3688,35 +3688,35 @@ Indien naar aanleiding van [5.3.4.1](https://wetten.overheid.nl/jci1.3:c:BWBR003
 
 ##### 5.3.4.3
 
-De regionale netbeheerder berekent een meterstand namens de leverancier overeenkomstig [5.1.3.3](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=5&paragraaf=5.1&sub-paragraaf=5.1.3&artikel=5.1.3.3&z=2016-05-12&g=2016-05-12), indien de leverancier in gebreke blijft en de regionale netbeheerder geen tijdig vastgestelde meterstand van de leverancier, bedoeld in [5.1.4.1](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=5&paragraaf=5.1&sub-paragraaf=5.1.4&artikel=5.1.4.1&z=2016-05-12&g=2016-05-12), heeft ontvangen:
+De regionale netbeheerder berekent een meterstand namens de leverancier overeenkomstig [5.1.3.3](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=5&paragraaf=5.1&sub-paragraaf=5.1.3&artikel=5.1.3.3&z=2016-07-27&g=2016-07-27), indien de leverancier in gebreke blijft en de regionale netbeheerder geen tijdig vastgestelde meterstand van de leverancier, bedoeld in [5.1.4.1](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=5&paragraaf=5.1&sub-paragraaf=5.1.4&artikel=5.1.4.1&z=2016-07-27&g=2016-07-27), heeft ontvangen:
 
-- a. binnen vijftien werkdagen na de mutatiedatum van het betreffende mutatieproces, bedoeld in [3.1 tot en met 3.4](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=3&paragraaf=3.1&z=2016-05-12&g=2016-05-12), of;
+- a. binnen vijftien werkdagen na de mutatiedatum van het betreffende mutatieproces, bedoeld in [3.1 tot en met 3.4](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=3&paragraaf=3.1&z=2016-07-27&g=2016-07-27), of;
 
 - b. binnen veertien maanden na de laatst vastgestelde meterstand, waarbij een meterstand wordt berekend en vastgesteld voor de datum van één jaar na de opnamedatum van de laatst vastgestelde meterstand.
 
 ##### 5.3.4.3a
 
-Ter uitvoering van het bepaalde in [5.3.2.6, onder (ii)](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=5&paragraaf=5.3&sub-paragraaf=5.3.2&artikel=5.3.2.6&z=2016-05-12&g=2016-05-12) en [5.3.3.3, onder (ii)](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=5&paragraaf=5.3&sub-paragraaf=5.3.3&artikel=5.3.3.3&z=2016-05-12&g=2016-05-12), stelt de regionale netbeheerder namens de leverancier een stand vast.
+Ter uitvoering van het bepaalde in [5.3.2.6, onder (ii)](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=5&paragraaf=5.3&sub-paragraaf=5.3.2&artikel=5.3.2.6&z=2016-07-27&g=2016-07-27) en [5.3.3.3, onder (ii)](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=5&paragraaf=5.3&sub-paragraaf=5.3.3&artikel=5.3.3.3&z=2016-07-27&g=2016-07-27), stelt de regionale netbeheerder namens de leverancier een stand vast.
 
 ##### 5.3.4.4
 
-De regionale netbeheerder bepaalt het verbruik voor de reconciliatie, overeenkomstig [5.3.2](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=5&paragraaf=5.3&sub-paragraaf=5.3.2&z=2016-05-12&g=2016-05-12) en [5.3.3](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=5&paragraaf=5.3&sub-paragraaf=5.3.3&z=2016-05-12&g=2016-05-12), op basis van alle ontvangen vastgestelde meterstanden en namens de leverancier door de regionale netbeheerder vastgestelde meterstanden.
+De regionale netbeheerder bepaalt het verbruik voor de reconciliatie, overeenkomstig [5.3.2](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=5&paragraaf=5.3&sub-paragraaf=5.3.2&z=2016-07-27&g=2016-07-27) en [5.3.3](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=5&paragraaf=5.3&sub-paragraaf=5.3.3&z=2016-07-27&g=2016-07-27), op basis van alle ontvangen vastgestelde meterstanden en namens de leverancier door de regionale netbeheerder vastgestelde meterstanden.
 
 #### 5.3.5. De regionale netbeheerder distribueert de vastgestelde meterstand en verbruik voor reconciliatie
 
 ##### 5.3.5.1
 
-De regionale netbeheerder verstuurt uiterlijk vijf werkdagen na ontvangst van de vastgestelde meterstand, bedoeld in [5.3.4.1](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=5&paragraaf=5.3&sub-paragraaf=5.3.4&artikel=5.3.4.1&z=2016-05-12&g=2016-05-12), of uiterlijk vijf werkdagen nadat de regionale netbeheerder namens de leverancier een meterstand heeft vastgesteld, bedoeld in [5.3.4.3](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=5&paragraaf=5.3&sub-paragraaf=5.3.4&artikel=5.3.4.3&z=2016-05-12&g=2016-05-12), aan:
+De regionale netbeheerder verstuurt uiterlijk vijf werkdagen na ontvangst van de vastgestelde meterstand, bedoeld in [5.3.4.1](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=5&paragraaf=5.3&sub-paragraaf=5.3.4&artikel=5.3.4.1&z=2016-07-27&g=2016-07-27), of uiterlijk vijf werkdagen nadat de regionale netbeheerder namens de leverancier een meterstand heeft vastgesteld, bedoeld in [5.3.4.3](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=5&paragraaf=5.3&sub-paragraaf=5.3.4&artikel=5.3.4.3&z=2016-07-27&g=2016-07-27), aan:
 
-- a. de actuele leverancier de vastgestelde meterstand en het verbruik, bepaald in [5.3.4.4](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=5&paragraaf=5.3&sub-paragraaf=5.3.4&artikel=5.3.4.4&z=2016-05-12&g=2016-05-12), in geval van een periodieke, tussentijdse of fysieke meteropname;
+- a. de actuele leverancier de vastgestelde meterstand en het verbruik, bepaald in [5.3.4.4](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=5&paragraaf=5.3&sub-paragraaf=5.3.4&artikel=5.3.4.4&z=2016-07-27&g=2016-07-27), in geval van een periodieke, tussentijdse of fysieke meteropname;
 
-- b. de oude leverancier de vastgestelde meterstand en het verbruik, bepaald in [5.3.4.4](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=5&paragraaf=5.3&sub-paragraaf=5.3.4&artikel=5.3.4.4&z=2016-05-12&g=2016-05-12), in geval van een leverancierswitch, uithuizing, eindelevering of inhuizing waarmee een uithuizing is uitgevoerd;
+- b. de oude leverancier de vastgestelde meterstand en het verbruik, bepaald in [5.3.4.4](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=5&paragraaf=5.3&sub-paragraaf=5.3.4&artikel=5.3.4.4&z=2016-07-27&g=2016-07-27), in geval van een leverancierswitch, uithuizing, eindelevering of inhuizing waarmee een uithuizing is uitgevoerd;
 
 - c. de nieuwe leverancier de vastgestelde meterstand in geval van een leverancierswitch of inhuizing.
 
 ##### 5.3.5.2
 
-De regionale netbeheerder verstuurt de gegevens, bedoeld in [5.3.5.1](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=5&paragraaf=5.3&sub-paragraaf=5.3.5&artikel=5.3.5.1&z=2016-05-12&g=2016-05-12), naar de leverancier(s), waarbij wordt vermeld:
+De regionale netbeheerder verstuurt de gegevens, bedoeld in [5.3.5.1](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=5&paragraaf=5.3&sub-paragraaf=5.3.5&artikel=5.3.5.1&z=2016-07-27&g=2016-07-27), naar de leverancier(s), waarbij wordt vermeld:
 
 - a. de EAN-code van de aansluiting;
 
@@ -3748,23 +3748,23 @@ De regionale netbeheerder stelt de vastgestelde meterstand en verbruik uiterlijk
 
 ##### 5.4.1.1
 
-De regionale netbeheerder bepaalt het standaardjaarverbruik overeenkomstig [bijlage B1.3](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&bijlage=1&z=2016-05-12&g=2016-05-12) voor elektriciteitsaansluitingen en [bijlage B3.4](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&bijlage=3&z=2016-05-12&g=2016-05-12) voor gasaansluitingen.
+De regionale netbeheerder bepaalt het standaardjaarverbruik overeenkomstig [bijlage B1.3](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&bijlage=1&z=2016-07-27&g=2016-07-27) voor elektriciteitsaansluitingen en [bijlage B3.4](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&bijlage=3&z=2016-07-27&g=2016-07-27) voor gasaansluitingen.
 
 ##### 5.4.1.2
 
-Behoudens het bepaalde in [B3.4.7](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&bijlage=3&z=2016-05-12&g=2016-05-12) past de netbeheerder op 1 januari 2015 eenmalig het standaardjaarverbruik aan voor alle gasaansluitingen van de profielcategorieën G1A en G2A, door het bestaande standaardjaarverbruik te vermenigvuldigen met 0,98408.
+Behoudens het bepaalde in [B3.4.7](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&bijlage=3&z=2016-07-27&g=2016-07-27) past de netbeheerder op 1 januari 2015 eenmalig het standaardjaarverbruik aan voor alle gasaansluitingen van de profielcategorieën G1A en G2A, door het bestaande standaardjaarverbruik te vermenigvuldigen met 0,98408.
 
 ##### 5.4.1.3
 
-De netbeheerder bepaalt het verbruik voor het bepalen van het standaardjaarverbruik gas overeenkomstig [5.3.3.1](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=5&paragraaf=5.3&sub-paragraaf=5.3.3&artikel=5.3.3.1&z=2016-05-12&g=2016-05-12) waarbij voor letter g wordt gelezen: ‘voor niet temperatuur gecorrigeerde meetinrichtingen is de volumeherleidingsfactor op grond van de 15-graden methode bepaald op 0,97624’, met inachtneming van [5.1.3.5](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=5&paragraaf=5.1&sub-paragraaf=5.1.3&artikel=5.1.3.5&z=2016-05-12&g=2016-05-12).
+De netbeheerder bepaalt het verbruik voor het bepalen van het standaardjaarverbruik gas overeenkomstig [5.3.3.1](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=5&paragraaf=5.3&sub-paragraaf=5.3.3&artikel=5.3.3.1&z=2016-07-27&g=2016-07-27) waarbij voor letter g wordt gelezen: ‘voor niet temperatuur gecorrigeerde meetinrichtingen is de volumeherleidingsfactor op grond van de 15-graden methode bepaald op 0,97624’, met inachtneming van [5.1.3.5](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=5&paragraaf=5.1&sub-paragraaf=5.1.3&artikel=5.1.3.5&z=2016-07-27&g=2016-07-27).
 
 ##### 5.4.1.4
 
-Indien er sprake is van een niet correct geregistreerd verbruik als gevolg van een defect in de meetinrichting, niet zijnde een schakelstoring, zal de netbeheerder in afwijking van [5.4.1.1](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=5&paragraaf=5.4&sub-paragraaf=5.4.1&artikel=5.4.1.1&z=2016-05-12&g=2016-05-12) het standaard jaarverbruik vaststellen op het gemiddelde van het profiel.
+Indien er sprake is van een niet correct geregistreerd verbruik als gevolg van een defect in de meetinrichting, niet zijnde een schakelstoring, zal de netbeheerder in afwijking van [5.4.1.1](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=5&paragraaf=5.4&sub-paragraaf=5.4.1&artikel=5.4.1.1&z=2016-07-27&g=2016-07-27) het standaard jaarverbruik vaststellen op het gemiddelde van het profiel.
 
 ##### 5.4.1.5
 
-Indien er sprake is van een niet correct geregistreerd verbruik als gevolg van een schakelstoring in de meetinrichting, zal de netbeheerder in afwijking van [5.4.1.1](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=5&paragraaf=5.4&sub-paragraaf=5.4.1&artikel=5.4.1.1&z=2016-05-12&g=2016-05-12) een standaard jaarverbruik bepalen door de verhouding 40% normaal en 60% laag toe te passen op het vastgestelde totale standaard jaarverbruik.
+Indien er sprake is van een niet correct geregistreerd verbruik als gevolg van een schakelstoring in de meetinrichting, zal de netbeheerder in afwijking van [5.4.1.1](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=5&paragraaf=5.4&sub-paragraaf=5.4.1&artikel=5.4.1.1&z=2016-07-27&g=2016-07-27) een standaard jaarverbruik bepalen door de verhouding 40% normaal en 60% laag toe te passen op het vastgestelde totale standaard jaarverbruik.
 
 #### 5.5. Dispuutproces
 
@@ -3772,7 +3772,7 @@ Indien er sprake is van een niet correct geregistreerd verbruik als gevolg van e
 
 ##### 5.5.1.1
 
-Het dispuutproces wordt gebruikt om geschillen op te lossen tussen leveranciers en regionale netbeheerders over alle vastgestelde meterstanden, bedoeld in [5.1.3.4](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=5&paragraaf=5.1&sub-paragraaf=5.1.3&artikel=5.1.3.4&z=2016-05-12&g=2016-05-12), [5.2.2.3](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=5&paragraaf=5.2&sub-paragraaf=5.2.2&artikel=5.2.2.3&z=2016-05-12&g=2016-05-12) en [5.3.4.3](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=5&paragraaf=5.3&sub-paragraaf=5.3.4&artikel=5.3.4.3&z=2016-05-12&g=2016-05-12), en, indien noodzakelijk, meterstanden te corrigeren.
+Het dispuutproces wordt gebruikt om geschillen op te lossen tussen leveranciers en regionale netbeheerders over alle vastgestelde meterstanden, bedoeld in [5.1.3.4](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=5&paragraaf=5.1&sub-paragraaf=5.1.3&artikel=5.1.3.4&z=2016-07-27&g=2016-07-27), [5.2.2.3](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=5&paragraaf=5.2&sub-paragraaf=5.2.2&artikel=5.2.2.3&z=2016-07-27&g=2016-07-27) en [5.3.4.3](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=5&paragraaf=5.3&sub-paragraaf=5.3.4&artikel=5.3.4.3&z=2016-07-27&g=2016-07-27), en, indien noodzakelijk, meterstanden te corrigeren.
 
 ##### 5.5.1.2
 
@@ -3780,11 +3780,11 @@ De dispuuttermijn eindigt op de laatste kalenderdag van de derde maand na de maa
 
 ##### 5.5.1.3
 
-De regionale netbeheerder of leverancier die het dispuutproces start (hierna te noemen: de wederpartij) heeft tot twintig werkdagen, voordat de dispuuttermijn verstrijkt, de tijd om een vastgestelde meterstand te beoordelen en op basis van de tabel in [bijlage 5](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&bijlage=5&z=2016-05-12&g=2016-05-12) te besluiten om in dispuut te treden.
+De regionale netbeheerder of leverancier die het dispuutproces start (hierna te noemen: de wederpartij) heeft tot twintig werkdagen, voordat de dispuuttermijn verstrijkt, de tijd om een vastgestelde meterstand te beoordelen en op basis van de tabel in [bijlage 5](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&bijlage=5&z=2016-07-27&g=2016-07-27) te besluiten om in dispuut te treden.
 
 ##### 5.5.1.4
 
-De wederpartij stuurt uiterlijk twintig werkdagen, voordat de dispuuttermijn verstrijkt, een dispuutmelding met een alternatieve meterstand naar de leverancier die de meterstand, bedoeld in [5.1.3.4](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=5&paragraaf=5.1&sub-paragraaf=5.1.3&artikel=5.1.3.4&z=2016-05-12&g=2016-05-12) of [5.3.4.3](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=5&paragraaf=5.3&sub-paragraaf=5.3.4&artikel=5.3.4.3&z=2016-05-12&g=2016-05-12), of naar de regionale netbeheerder die de meterstand, bedoeld in [5.2.2.3](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=5&paragraaf=5.2&sub-paragraaf=5.2.2&artikel=5.2.2.3&z=2016-05-12&g=2016-05-12), heeft vastgesteld waartegen in dispuut wordt getreden (hierna te noemen: de initiërende partij). De meegestuurde alternatieve meterstand geldt voor de mutatiedatum waarop het dispuut betrekking heeft. In dit bericht worden vermeld:
+De wederpartij stuurt uiterlijk twintig werkdagen, voordat de dispuuttermijn verstrijkt, een dispuutmelding met een alternatieve meterstand naar de leverancier die de meterstand, bedoeld in [5.1.3.4](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=5&paragraaf=5.1&sub-paragraaf=5.1.3&artikel=5.1.3.4&z=2016-07-27&g=2016-07-27) of [5.3.4.3](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=5&paragraaf=5.3&sub-paragraaf=5.3.4&artikel=5.3.4.3&z=2016-07-27&g=2016-07-27), of naar de regionale netbeheerder die de meterstand, bedoeld in [5.2.2.3](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=5&paragraaf=5.2&sub-paragraaf=5.2.2&artikel=5.2.2.3&z=2016-07-27&g=2016-07-27), heeft vastgesteld waartegen in dispuut wordt getreden (hierna te noemen: de initiërende partij). De meegestuurde alternatieve meterstand geldt voor de mutatiedatum waarop het dispuut betrekking heeft. In dit bericht worden vermeld:
 
 - a. EAN-code van de aansluiting;
 
@@ -3816,37 +3816,37 @@ De wederpartij stuurt uiterlijk twintig werkdagen, voordat de dispuuttermijn ver
 
 ##### 5.5.2.1
 
-De initiërende partij beoordeelt uiterlijk vijf werkdagen na ontvangst van de dispuutmelding op basis van de tabel in [bijlage 5](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&bijlage=5&z=2016-05-12&g=2016-05-12) de ontvangen alternatieve meterstand van de wederpartij en besluit tot:
+De initiërende partij beoordeelt uiterlijk vijf werkdagen na ontvangst van de dispuutmelding op basis van de tabel in [bijlage 5](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&bijlage=5&z=2016-07-27&g=2016-07-27) de ontvangen alternatieve meterstand van de wederpartij en besluit tot:
 
-- a. het accepteren van de alternatieve meterstand en het proces wordt vervolgd vanaf [5.5.4.1](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=5&paragraaf=5.5&sub-paragraaf=5.5.4&artikel=5.5.4.1&z=2016-05-12&g=2016-05-12);
+- a. het accepteren van de alternatieve meterstand en het proces wordt vervolgd vanaf [5.5.4.1](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=5&paragraaf=5.5&sub-paragraaf=5.5.4&artikel=5.5.4.1&z=2016-07-27&g=2016-07-27);
 
-- b. het niet accepteren van de alternatieve meterstand, zodat een overleg, zoals bedoeld in [5.5.2.2](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=5&paragraaf=5.5&sub-paragraaf=5.5.2&artikel=5.5.2.2&z=2016-05-12&g=2016-05-12), noodzakelijk is.
+- b. het niet accepteren van de alternatieve meterstand, zodat een overleg, zoals bedoeld in [5.5.2.2](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=5&paragraaf=5.5&sub-paragraaf=5.5.2&artikel=5.5.2.2&z=2016-07-27&g=2016-07-27), noodzakelijk is.
 
 ##### 5.5.2.2
 
 Het overleg tussen de initiërende partij en wederpartij vindt plaats binnen vijf werkdagen na ontvangst van de alternatieve meterstand. Dit overleg kan leiden tot:
 
-- a. overeenstemming over de vast te stellen meterstand en het proces wordt vervolgd vanaf [5.5.4.1](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=5&paragraaf=5.5&sub-paragraaf=5.5.4&artikel=5.5.4.1&z=2016-05-12&g=2016-05-12);
+- a. overeenstemming over de vast te stellen meterstand en het proces wordt vervolgd vanaf [5.5.4.1](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=5&paragraaf=5.5&sub-paragraaf=5.5.4&artikel=5.5.4.1&z=2016-07-27&g=2016-07-27);
 
-- b. geen overeenstemming over de vast te stellen meterstand en een fysieke opname op basis van kosten ongelijk, bedoeld in [5.5.3.1](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=5&paragraaf=5.5&sub-paragraaf=5.5.3&artikel=5.5.3.1&z=2016-05-12&g=2016-05-12), wordt ingepland.
+- b. geen overeenstemming over de vast te stellen meterstand en een fysieke opname op basis van kosten ongelijk, bedoeld in [5.5.3.1](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=5&paragraaf=5.5&sub-paragraaf=5.5.3&artikel=5.5.3.1&z=2016-07-27&g=2016-07-27), wordt ingepland.
 
 ##### 5.5.2.3
 
-De alternatieve meterstand is geaccepteerd door de initiërende partij, indien de initiërende partij niet tijdig heeft gereageerd op de ontvangst van de dispuutmelding van de wederpartij, als bedoeld in [5.5.2.1](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=5&paragraaf=5.5&sub-paragraaf=5.5.2&artikel=5.5.2.1&z=2016-05-12&g=2016-05-12).
+De alternatieve meterstand is geaccepteerd door de initiërende partij, indien de initiërende partij niet tijdig heeft gereageerd op de ontvangst van de dispuutmelding van de wederpartij, als bedoeld in [5.5.2.1](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=5&paragraaf=5.5&sub-paragraaf=5.5.2&artikel=5.5.2.1&z=2016-07-27&g=2016-07-27).
 
 ##### 5.5.2.4
 
-Indien de opnamedatum van de alternatieve stand die op basis van de in [bijlage 5](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&bijlage=5&z=2016-05-12&g=2016-05-12) opgenomen beslistabel wint, ligt buiten een periode van drie maanden voor de mutatiedatum van de vastgestelde stand waarop het dispuut betrekking heeft, dan kan de initiërende partij de dispuutmelding afwijzen, zodat een overleg, zoals bedoeld in [5.5.2.2](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=5&paragraaf=5.5&sub-paragraaf=5.5.2&artikel=5.5.2.2&z=2016-05-12&g=2016-05-12), noodzakelijk is.
+Indien de opnamedatum van de alternatieve stand die op basis van de in [bijlage 5](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&bijlage=5&z=2016-07-27&g=2016-07-27) opgenomen beslistabel wint, ligt buiten een periode van drie maanden voor de mutatiedatum van de vastgestelde stand waarop het dispuut betrekking heeft, dan kan de initiërende partij de dispuutmelding afwijzen, zodat een overleg, zoals bedoeld in [5.5.2.2](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=5&paragraaf=5.5&sub-paragraaf=5.5.2&artikel=5.5.2.2&z=2016-07-27&g=2016-07-27), noodzakelijk is.
 
 #### 5.5.3. Fysieke opname op basis van kosten ongelijk
 
 ##### 5.5.3.1
 
-Na instemming van de initiërende partij en de wederpartij over de kosten van de fysieke opname op basis kosten ongelijk, laat de initiërende partij de fysieke opname naar aanleiding van [5.5.2.2, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=5&paragraaf=5.5&sub-paragraaf=5.5.2&artikel=5.5.2.2&z=2016-05-12&g=2016-05-12), uiterlijk vijf werkdagen voor het verstrijken van de dispuuttermijn uitvoeren.
+Na instemming van de initiërende partij en de wederpartij over de kosten van de fysieke opname op basis kosten ongelijk, laat de initiërende partij de fysieke opname naar aanleiding van [5.5.2.2, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=5&paragraaf=5.5&sub-paragraaf=5.5.2&artikel=5.5.2.2&z=2016-07-27&g=2016-07-27), uiterlijk vijf werkdagen voor het verstrijken van de dispuuttermijn uitvoeren.
 
 ##### 5.5.3.2
 
-De alternatieve meterstand van de wederpartij, bedoeld in [5.5.1.4](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=5&paragraaf=5.5&sub-paragraaf=5.5.1&artikel=5.5.1.4&z=2016-05-12&g=2016-05-12), wordt geaccepteerd door de initiërende partij indien niet tijdig een fysieke opname op basis van kosten ongelijk heeft kunnen plaatsvinden, bedoeld in [5.5.3.1](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=5&paragraaf=5.5&sub-paragraaf=5.5.3&artikel=5.5.3.1&z=2016-05-12&g=2016-05-12).
+De alternatieve meterstand van de wederpartij, bedoeld in [5.5.1.4](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=5&paragraaf=5.5&sub-paragraaf=5.5.1&artikel=5.5.1.4&z=2016-07-27&g=2016-07-27), wordt geaccepteerd door de initiërende partij indien niet tijdig een fysieke opname op basis van kosten ongelijk heeft kunnen plaatsvinden, bedoeld in [5.5.3.1](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=5&paragraaf=5.5&sub-paragraaf=5.5.3&artikel=5.5.3.1&z=2016-07-27&g=2016-07-27).
 
 ##### 5.5.3.3
 
@@ -3858,11 +3858,11 @@ De initiërende partij accepteert:
 
 - (ii). een teruglevertelwerk (elektriciteit), indien deze ligt tussen de op basis van interpolatie van de fysieke opname op basis kosten ongelijk afgeleide meterstand + 15% * 5000 kWh / vermenigvuldigingsfactor en de op basis van interpolatie van de fysieke opname op basis kosten ongelijk afgeleide meterstand – 15% * 5000 kWh / vermenigvuldigingsfactor.
 
-- b. de op basis van interpolatie van de fysieke opname op basis kosten ongelijk afgeleide meterstand op de betreffende mutatiedatum, indien de oorspronkelijke meterstand buiten de grenzen, gesteld in [5.5.3.3, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=5&paragraaf=5.5&sub-paragraaf=5.5.3&artikel=5.5.3.3&z=2016-05-12&g=2016-05-12), valt.
+- b. de op basis van interpolatie van de fysieke opname op basis kosten ongelijk afgeleide meterstand op de betreffende mutatiedatum, indien de oorspronkelijke meterstand buiten de grenzen, gesteld in [5.5.3.3, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=5&paragraaf=5.5&sub-paragraaf=5.5.3&artikel=5.5.3.3&z=2016-07-27&g=2016-07-27), valt.
 
 ##### 5.5.3.4
 
-De initiërende partij meldt het resultaat van de beoordeling uit [5.5.3.3](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=5&paragraaf=5.5&sub-paragraaf=5.5.3&artikel=5.5.3.3&z=2016-05-12&g=2016-05-12) uiterlijk vijf werkdagen voor het verstrijken van de dispuuttermijn aan de wederpartij en het proces wordt vervolgd vanaf [5.5.4.1](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=5&paragraaf=5.5&sub-paragraaf=5.5.4&artikel=5.5.4.1&z=2016-05-12&g=2016-05-12).
+De initiërende partij meldt het resultaat van de beoordeling uit [5.5.3.3](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=5&paragraaf=5.5&sub-paragraaf=5.5.3&artikel=5.5.3.3&z=2016-07-27&g=2016-07-27) uiterlijk vijf werkdagen voor het verstrijken van de dispuuttermijn aan de wederpartij en het proces wordt vervolgd vanaf [5.5.4.1](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=5&paragraaf=5.5&sub-paragraaf=5.5.4&artikel=5.5.4.1&z=2016-07-27&g=2016-07-27).
 
 #### 5.5.4. Vaststellen meterstand na dispuut
 
@@ -3872,7 +3872,7 @@ De initiërende partij stelt zo snel mogelijk doch uiterlijk vijf werkdagen voor
 
 ##### 5.5.4.2
 
-De initiërende partij, indien deze een leverancier is, verstuurt de in [5.5.4.1](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=5&paragraaf=5.5&sub-paragraaf=5.5.4&artikel=5.5.4.1&z=2016-05-12&g=2016-05-12) vastgestelde meterstand binnen één werkdag na de vaststelling doch uiterlijk vijf werkdagen voor het verstrijken van de dispuuttermijn naar de regionale netbeheerder overeenkomstig [paragraaf 5.1.4](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=5&paragraaf=5.1&sub-paragraaf=5.1.4&z=2016-05-12&g=2016-05-12).
+De initiërende partij, indien deze een leverancier is, verstuurt de in [5.5.4.1](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=5&paragraaf=5.5&sub-paragraaf=5.5.4&artikel=5.5.4.1&z=2016-07-27&g=2016-07-27) vastgestelde meterstand binnen één werkdag na de vaststelling doch uiterlijk vijf werkdagen voor het verstrijken van de dispuuttermijn naar de regionale netbeheerder overeenkomstig [paragraaf 5.1.4](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=5&paragraaf=5.1&sub-paragraaf=5.1.4&z=2016-07-27&g=2016-07-27).
 
 ### 6. Meetgegevensprocessen ten behoeve van grootverbruikaansluitingen
 
@@ -3882,33 +3882,33 @@ De initiërende partij, indien deze een leverancier is, verstuurt de in [5.5.4.1
 
 ##### 6.1.1.1
 
-De meetverantwoordelijke stelt voor mutatieprocessen en voor de plaatsing, wijziging of wegname van grootverbruikmeetinrichtingen, zoals bedoeld in [paragrafen 4.1 tot en met 4.4](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=4&paragraaf=4.1&z=2016-05-12&g=2016-05-12), [4.6 tot en met 4.8](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=4&paragraaf=4.6&z=2016-05-12&g=2016-05-12) en [4.10 tot en met 4.12](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=4&paragraaf=4.10&z=2016-05-12&g=2016-05-12), overeenkomstig [6.2](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=6&paragraaf=6.2&z=2016-05-12&g=2016-05-12) voor elektriciteitsaansluitingen en [6.4](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=6&paragraaf=6.4&z=2016-05-12&g=2016-05-12) voor gasaansluitingen, gevalideerde meterstand vast voor grootverbruikaansluitingen, die niet behoren tot de categorieën zoals genoemd in [6.1.1.2](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=6&paragraaf=6.1&sub-paragraaf=6.1.1&artikel=6.1.1.2&z=2016-05-12&g=2016-05-12).
+De meetverantwoordelijke stelt voor mutatieprocessen en voor de plaatsing, wijziging of wegname van grootverbruikmeetinrichtingen, zoals bedoeld in [paragrafen 4.1 tot en met 4.4](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=4&paragraaf=4.1&z=2016-07-27&g=2016-07-27), [4.6 tot en met 4.8](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=4&paragraaf=4.6&z=2016-07-27&g=2016-07-27) en [4.10 tot en met 4.12](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=4&paragraaf=4.10&z=2016-07-27&g=2016-07-27), overeenkomstig [6.2](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=6&paragraaf=6.2&z=2016-07-27&g=2016-07-27) voor elektriciteitsaansluitingen en [6.4](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=6&paragraaf=6.4&z=2016-07-27&g=2016-07-27) voor gasaansluitingen, gevalideerde meterstand vast voor grootverbruikaansluitingen, die niet behoren tot de categorieën zoals genoemd in [6.1.1.2](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=6&paragraaf=6.1&sub-paragraaf=6.1.1&artikel=6.1.1.2&z=2016-07-27&g=2016-07-27).
 
 ##### 6.1.1.2
 
-De meetverantwoordelijke stelt voor mutatieprocessen, zoals bedoeld in [6.1.1.1](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=6&paragraaf=6.1&sub-paragraaf=6.1.1&artikel=6.1.1.1&z=2016-05-12&g=2016-05-12), geen meterstand vast voor gasaansluitingen behorend tot de afnamecategorie GGV, GXX, GIS of GIN, bedoeld in [paragraaf 4.3.1 van de Allocatiecode gas](https://wetten.overheid.nl/jci1.3:c:BWBR0037931&artikel=4.3.1), of voor elektriciteitsaansluitingen die onbemeten zijn op grond van [2.1.3.5 van de Netcode elektriciteit](https://wetten.overheid.nl/jci1.3:c:BWBR0037940&artikel=2.1.3.5).
+De meetverantwoordelijke stelt voor mutatieprocessen, zoals bedoeld in [6.1.1.1](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=6&paragraaf=6.1&sub-paragraaf=6.1.1&artikel=6.1.1.1&z=2016-07-27&g=2016-07-27), geen meterstand vast voor gasaansluitingen behorend tot de afnamecategorie GGV, GXX, GIS of GIN, bedoeld in [paragraaf 4.3.1 van de Allocatiecode gas](https://wetten.overheid.nl/jci1.3:c:BWBR0037931&artikel=4.3.1), of voor elektriciteitsaansluitingen die onbemeten zijn op grond van [2.1.3.5 van de Netcode elektriciteit](https://wetten.overheid.nl/jci1.3:c:BWBR0037940&artikel=2.1.3.5).
 
 ##### 6.1.1.3
 
-De meetverantwoordelijke stuurt de vastgestelde meterstand en indien geen sprake is van een proces volgens [paragraaf 4.3](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=4&paragraaf=4.3&z=2016-05-12&g=2016-05-12) of [4.10](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=4&paragraaf=4.10&z=2016-05-12&g=2016-05-12), het berekende verbruik, zoals bedoeld in [6.1.1.1](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=6&paragraaf=6.1&sub-paragraaf=6.1.1&artikel=6.1.1.1&z=2016-05-12&g=2016-05-12), uiterlijk de tiende werkdag van de maand volgend op de mutatiedatum aan de netbeheerder.
+De meetverantwoordelijke stuurt de vastgestelde meterstand en indien geen sprake is van een proces volgens [paragraaf 4.3](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=4&paragraaf=4.3&z=2016-07-27&g=2016-07-27) of [4.10](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=4&paragraaf=4.10&z=2016-07-27&g=2016-07-27), het berekende verbruik, zoals bedoeld in [6.1.1.1](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=6&paragraaf=6.1&sub-paragraaf=6.1.1&artikel=6.1.1.1&z=2016-07-27&g=2016-07-27), uiterlijk de tiende werkdag van de maand volgend op de mutatiedatum aan de netbeheerder.
 
 ##### 6.1.1.4
 
-De netbeheerder stelt namens de meetverantwoordelijke een verbruik vast, indien de netbeheerder voor de mutatieprocessen als bedoeld in de [paragrafen 4.1](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=4&paragraaf=4.1&z=2016-05-12&g=2016-05-12), [4.2](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=4&paragraaf=4.2&z=2016-05-12&g=2016-05-12), [4.4](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=4&paragraaf=4.4&z=2016-05-12&g=2016-05-12), [4.11](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=4&paragraaf=4.11&z=2016-05-12&g=2016-05-12) en [4.12](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=4&paragraaf=4.12&z=2016-05-12&g=2016-05-12) de tiende werkdag van de maand volgend op de mutatiedatum geen vastgestelde meterstand en verbruik heeft ontvangen.
+De netbeheerder stelt namens de meetverantwoordelijke een verbruik vast, indien de netbeheerder voor de mutatieprocessen als bedoeld in de [paragrafen 4.1](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=4&paragraaf=4.1&z=2016-07-27&g=2016-07-27), [4.2](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=4&paragraaf=4.2&z=2016-07-27&g=2016-07-27), [4.4](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=4&paragraaf=4.4&z=2016-07-27&g=2016-07-27), [4.11](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=4&paragraaf=4.11&z=2016-07-27&g=2016-07-27) en [4.12](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=4&paragraaf=4.12&z=2016-07-27&g=2016-07-27) de tiende werkdag van de maand volgend op de mutatiedatum geen vastgestelde meterstand en verbruik heeft ontvangen.
 
 ##### 6.1.1.5
 
-De netbeheerder stuurt uiterlijk de vijftiende werkdag van de maand volgende op de mutatiedatum de meetgegevens, bedoeld in [6.1.1.4](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=6&paragraaf=6.1&sub-paragraaf=6.1.1&artikel=6.1.1.4&z=2016-05-12&g=2016-05-12), naar de meetverantwoordelijke. In afwijking van [paragraaf 9.1](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=9&paragraaf=9.1&z=2016-05-12&g=2016-05-12) vindt deze informatie-uitwisseling niet plaats via het geautomatiseerde berichtenverkeer.
+De netbeheerder stuurt uiterlijk de vijftiende werkdag van de maand volgende op de mutatiedatum de meetgegevens, bedoeld in [6.1.1.4](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=6&paragraaf=6.1&sub-paragraaf=6.1.1&artikel=6.1.1.4&z=2016-07-27&g=2016-07-27), naar de meetverantwoordelijke. In afwijking van [paragraaf 9.1](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=9&paragraaf=9.1&z=2016-07-27&g=2016-07-27) vindt deze informatie-uitwisseling niet plaats via het geautomatiseerde berichtenverkeer.
 
 ##### 6.1.1.6
 
-De meetverantwoordelijke verwerkt de meetgegevens, bedoeld in [6.1.1.5](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=6&paragraaf=6.1&sub-paragraaf=6.1.1&artikel=6.1.1.5&z=2016-05-12&g=2016-05-12).
+De meetverantwoordelijke verwerkt de meetgegevens, bedoeld in [6.1.1.5](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=6&paragraaf=6.1&sub-paragraaf=6.1.1&artikel=6.1.1.5&z=2016-07-27&g=2016-07-27).
 
 #### 6.1.2. De netbeheerder distribueert de meetgegevens
 
 ##### 6.1.2.1
 
-De netbeheerder verstuurt uiterlijk de vijftiende werkdag van de maand volgend op de mutatiedatum de meetgegevens, zoals bedoeld in [6.1.1.3](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=6&paragraaf=6.1&sub-paragraaf=6.1.1&artikel=6.1.1.3&z=2016-05-12&g=2016-05-12) of [6.1.1.4](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=6&paragraaf=6.1&sub-paragraaf=6.1.1&artikel=6.1.1.4&z=2016-05-12&g=2016-05-12), naar de leverancier, waarbij wordt vermeld:
+De netbeheerder verstuurt uiterlijk de vijftiende werkdag van de maand volgend op de mutatiedatum de meetgegevens, zoals bedoeld in [6.1.1.3](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=6&paragraaf=6.1&sub-paragraaf=6.1.1&artikel=6.1.1.3&z=2016-07-27&g=2016-07-27) of [6.1.1.4](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=6&paragraaf=6.1&sub-paragraaf=6.1.1&artikel=6.1.1.4&z=2016-07-27&g=2016-07-27), naar de leverancier, waarbij wordt vermeld:
 
 - a. de EAN-code van de aansluiting;
 
@@ -3920,7 +3920,7 @@ De netbeheerder verstuurt uiterlijk de vijftiende werkdag van de maand volgend o
 
 - e. de einddatum van de verbruiksperiode;
 
-- f. het verbruik, bedoeld onder [6.1.1.3](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=6&paragraaf=6.1&sub-paragraaf=6.1.1&artikel=6.1.1.3&z=2016-05-12&g=2016-05-12) of [6.1.1.4](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=6&paragraaf=6.1&sub-paragraaf=6.1.1&artikel=6.1.1.4&z=2016-05-12&g=2016-05-12);
+- f. het verbruik, bedoeld onder [6.1.1.3](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=6&paragraaf=6.1&sub-paragraaf=6.1.1&artikel=6.1.1.3&z=2016-07-27&g=2016-07-27) of [6.1.1.4](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=6&paragraaf=6.1&sub-paragraaf=6.1.1&artikel=6.1.1.4&z=2016-07-27&g=2016-07-27);
 
 - g. de meterstand behorend bij de mutatiedatum.
 
@@ -3952,7 +3952,7 @@ In geval van een telemetriegrootverbruikmeetinrichting worden de gecollecteerde 
 
 ##### 6.2.1.3
 
-De op grond van [6.2.1.1](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=6&paragraaf=6.2&sub-paragraaf=6.2.1&artikel=6.2.1.1&z=2016-05-12&g=2016-05-12) of [6.2.1.2](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=6&paragraaf=6.2&sub-paragraaf=6.2.1&artikel=6.2.1.2&z=2016-05-12&g=2016-05-12) afgekeurde meetgegevens worden, voor zover mogelijk, automatisch gerepareerd overeenkomstig [5.4.3 van de Meetcode elektriciteit](https://wetten.overheid.nl/jci1.3:c:BWBR0037946&sub-paragraaf=5.4.3) opdat ze alsnog aan [6.2.1.1](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=6&paragraaf=6.2&sub-paragraaf=6.2.1&artikel=6.2.1.1&z=2016-05-12&g=2016-05-12) en [6.2.1.2](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=6&paragraaf=6.2&sub-paragraaf=6.2.1&artikel=6.2.1.2&z=2016-05-12&g=2016-05-12) voldoen.
+De op grond van [6.2.1.1](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=6&paragraaf=6.2&sub-paragraaf=6.2.1&artikel=6.2.1.1&z=2016-07-27&g=2016-07-27) of [6.2.1.2](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=6&paragraaf=6.2&sub-paragraaf=6.2.1&artikel=6.2.1.2&z=2016-07-27&g=2016-07-27) afgekeurde meetgegevens worden, voor zover mogelijk, automatisch gerepareerd overeenkomstig [5.4.3 van de Meetcode elektriciteit](https://wetten.overheid.nl/jci1.3:c:BWBR0037946&sub-paragraaf=5.4.3) opdat ze alsnog aan [6.2.1.1](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=6&paragraaf=6.2&sub-paragraaf=6.2.1&artikel=6.2.1.1&z=2016-07-27&g=2016-07-27) en [6.2.1.2](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=6&paragraaf=6.2&sub-paragraaf=6.2.1&artikel=6.2.1.2&z=2016-07-27&g=2016-07-27) voldoen.
 
 ##### 6.2.1.4
 
@@ -3966,15 +3966,15 @@ In geval van een profielgrootverbruikmeetinrichting en een productiemeetinrichti
 
 ##### 6.2.1.5
 
-Indien de meetgegevens bedoeld in [6.2.1.4](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=6&paragraaf=6.2&sub-paragraaf=6.2.1&artikel=6.2.1.4&z=2016-05-12&g=2016-05-12) niet voldoen aan de in 6.2.1.4 genoemde validatiecriteria, worden de meetgegevens door de meetverantwoordelijke (opnieuw) af- of uitgelezen of wordt in overleg met de aangeslotene vastgesteld of de gemeten hoeveelheid overeenkomt met de hoeveelheid die zou mogen worden verwacht.
+Indien de meetgegevens bedoeld in [6.2.1.4](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=6&paragraaf=6.2&sub-paragraaf=6.2.1&artikel=6.2.1.4&z=2016-07-27&g=2016-07-27) niet voldoen aan de in 6.2.1.4 genoemde validatiecriteria, worden de meetgegevens door de meetverantwoordelijke (opnieuw) af- of uitgelezen of wordt in overleg met de aangeslotene vastgesteld of de gemeten hoeveelheid overeenkomt met de hoeveelheid die zou mogen worden verwacht.
 
 ##### 6.2.1.6
 
-Indien de meetgegevens bedoeld in [6.2.1.4](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=6&paragraaf=6.2&sub-paragraaf=6.2.1&artikel=6.2.1.4&z=2016-05-12&g=2016-05-12) wel voldoen aan de in 6.2.1.4 genoemde validatiecriteria, worden de meetgegevens door de meetverantwoordelijke vastgesteld.
+Indien de meetgegevens bedoeld in [6.2.1.4](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=6&paragraaf=6.2&sub-paragraaf=6.2.1&artikel=6.2.1.4&z=2016-07-27&g=2016-07-27) wel voldoen aan de in 6.2.1.4 genoemde validatiecriteria, worden de meetgegevens door de meetverantwoordelijke vastgesteld.
 
 ##### 6.2.1.7
 
-De validatie en vaststelling zoals bedoeld in [6.2.1.4](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=6&paragraaf=6.2&sub-paragraaf=6.2.1&artikel=6.2.1.4&z=2016-05-12&g=2016-05-12) en [6.2.1.6](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=6&paragraaf=6.2&sub-paragraaf=6.2.1&artikel=6.2.1.6&z=2016-05-12&g=2016-05-12) vindt plaats uiterlijk de werkdag na de dag van verzameling van meetgegevens zoals bedoeld in [5.2 van de Meetcode elektriciteit](https://wetten.overheid.nl/jci1.3:c:BWBR0037946&paragraaf=5.2).
+De validatie en vaststelling zoals bedoeld in [6.2.1.4](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=6&paragraaf=6.2&sub-paragraaf=6.2.1&artikel=6.2.1.4&z=2016-07-27&g=2016-07-27) en [6.2.1.6](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=6&paragraaf=6.2&sub-paragraaf=6.2.1&artikel=6.2.1.6&z=2016-07-27&g=2016-07-27) vindt plaats uiterlijk de werkdag na de dag van verzameling van meetgegevens zoals bedoeld in [5.2 van de Meetcode elektriciteit](https://wetten.overheid.nl/jci1.3:c:BWBR0037946&paragraaf=5.2).
 
 #### 6.2.2. Overdracht van meetgegevens aan de netbeheerder
 
@@ -3984,23 +3984,23 @@ In geval van een telemetriegrootverbruikmeetinrichting past de meetverantwoordel
 
 ##### 6.2.2.2
 
-De op grond van [6.2.2.1](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=6&paragraaf=6.2&sub-paragraaf=6.2.2&artikel=6.2.2.1&z=2016-05-12&g=2016-05-12) tot stand gekomen meetgegevens inzake alle aansluitingen waarvoor hij meetverantwoordelijkheid draagt, worden tezamen met de op basis van 3.3.3.4 van de [Meetcode elektriciteit](https://wetten.overheid.nl/jci1.3:c:BWBR0037946) bepaalde meetgegevens, op de eerstvolgende werkdag vóór 10:00 uur door de meetverantwoordelijke verzonden aan de netbeheerder.
+De op grond van [6.2.2.1](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=6&paragraaf=6.2&sub-paragraaf=6.2.2&artikel=6.2.2.1&z=2016-07-27&g=2016-07-27) tot stand gekomen meetgegevens inzake alle aansluitingen waarvoor hij meetverantwoordelijkheid draagt, worden tezamen met de op basis van 3.3.3.4 van de [Meetcode elektriciteit](https://wetten.overheid.nl/jci1.3:c:BWBR0037946) bepaalde meetgegevens, op de eerstvolgende werkdag vóór 10:00 uur door de meetverantwoordelijke verzonden aan de netbeheerder.
 
 ##### 6.2.2.3
 
-Eventuele niet-automatisch gerepareerde meetgegevens, bedoeld in [6.2.2.1](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=6&paragraaf=6.2&sub-paragraaf=6.2.2&artikel=6.2.2.1&z=2016-05-12&g=2016-05-12), van een bepaalde dag worden, samen met de naar aanleiding van [5.5.1 van de Meetcode elektriciteit](https://wetten.overheid.nl/jci1.3:c:BWBR0037946&artikel=5.5.1) gecorrigeerde meetgegevens, vóór 10:00 uur op de vijfde werkdag na de desbetreffende dag door de meetverantwoordelijke als zodanig gekenmerkt verzonden aan de netbeheerder.
+Eventuele niet-automatisch gerepareerde meetgegevens, bedoeld in [6.2.2.1](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=6&paragraaf=6.2&sub-paragraaf=6.2.2&artikel=6.2.2.1&z=2016-07-27&g=2016-07-27), van een bepaalde dag worden, samen met de naar aanleiding van [5.5.1 van de Meetcode elektriciteit](https://wetten.overheid.nl/jci1.3:c:BWBR0037946&artikel=5.5.1) gecorrigeerde meetgegevens, vóór 10:00 uur op de vijfde werkdag na de desbetreffende dag door de meetverantwoordelijke als zodanig gekenmerkt verzonden aan de netbeheerder.
 
 ##### 6.2.2.4
 
-De mede naar aanleiding van [5.5.1 van de Meetcode elektriciteit](https://wetten.overheid.nl/jci1.3:c:BWBR0037946&artikel=5.5.1) vastgestelde definitieve meetgegevens, zoals bedoeld in [6.2.2.1](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=6&paragraaf=6.2&sub-paragraaf=6.2.2&artikel=6.2.2.1&z=2016-05-12&g=2016-05-12), van een bepaalde dag worden vóór 24:00 uur van de negende werkdag na de desbetreffende dag door de meetverantwoordelijke verzonden aan de netbeheerder.
+De mede naar aanleiding van [5.5.1 van de Meetcode elektriciteit](https://wetten.overheid.nl/jci1.3:c:BWBR0037946&artikel=5.5.1) vastgestelde definitieve meetgegevens, zoals bedoeld in [6.2.2.1](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=6&paragraaf=6.2&sub-paragraaf=6.2.2&artikel=6.2.2.1&z=2016-07-27&g=2016-07-27), van een bepaalde dag worden vóór 24:00 uur van de negende werkdag na de desbetreffende dag door de meetverantwoordelijke verzonden aan de netbeheerder.
 
 ##### 6.2.2.5
 
-Alle meetgegevens, zoals bedoeld in [6.2.2.1](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=6&paragraaf=6.2&sub-paragraaf=6.2.2&artikel=6.2.2.1&z=2016-05-12&g=2016-05-12), die zijn afgekeurd in het validatieproces worden in het bericht waarmee ze worden verzonden aangemerkt als voorlopige meetgegevens. Wanneer meetgegevens binnen de in [6.2.2.4](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=6&paragraaf=6.2&sub-paragraaf=6.2.2&artikel=6.2.2.4&z=2016-05-12&g=2016-05-12) genoemde termijn niet opnieuw worden aangeleverd, dan worden deze na tien werkdagen definitief.
+Alle meetgegevens, zoals bedoeld in [6.2.2.1](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=6&paragraaf=6.2&sub-paragraaf=6.2.2&artikel=6.2.2.1&z=2016-07-27&g=2016-07-27), die zijn afgekeurd in het validatieproces worden in het bericht waarmee ze worden verzonden aangemerkt als voorlopige meetgegevens. Wanneer meetgegevens binnen de in [6.2.2.4](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=6&paragraaf=6.2&sub-paragraaf=6.2.2&artikel=6.2.2.4&z=2016-07-27&g=2016-07-27) genoemde termijn niet opnieuw worden aangeleverd, dan worden deze na tien werkdagen definitief.
 
 ##### 6.2.2.6
 
-Maandelijks, uiterlijk de tiende werkdag van de maand na de maand waarop de meetgegevens, zoals bedoeld in [6.2.2.1](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=6&paragraaf=6.2&sub-paragraaf=6.2.2&artikel=6.2.2.1&z=2016-05-12&g=2016-05-12) betrekking hebben, verstrekt de meetverantwoordelijke aan de netbeheerder:
+Maandelijks, uiterlijk de tiende werkdag van de maand na de maand waarop de meetgegevens, zoals bedoeld in [6.2.2.1](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=6&paragraaf=6.2&sub-paragraaf=6.2.2&artikel=6.2.2.1&z=2016-07-27&g=2016-07-27) betrekking hebben, verstrekt de meetverantwoordelijke aan de netbeheerder:
 
 - a. de werkelijke (gecorrigeerde) hoeveelheid met het net uitgewisselde energie, onderscheiden naar normaaluren en laaguren, in het overdrachtspunt van de aansluiting, waarbij in geval van een meetinrichting met één telwerk deze beide hoeveelheden worden bepaald op basis van de 15-minutenwaarden;
 
@@ -4014,31 +4014,31 @@ Deze overdracht van meetgegevens vindt plaats uiterlijk de tiende werkdag van de
 
 ##### 6.2.2.7
 
-In geval van een profielgrootverbruikmeetinrichting op een aansluiting groter dan 3x80A en een productiemeetinrichting, worden de meetgegevens bedoeld in [6.2.1.4](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=6&paragraaf=6.2&sub-paragraaf=6.2.1&artikel=6.2.1.4&z=2016-05-12&g=2016-05-12) maandelijks, uiterlijk op de tiende werkdag na de dag van vaststelling zoals bedoeld in [6.2.1.6](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=6&paragraaf=6.2&sub-paragraaf=6.2.1&artikel=6.2.1.6&z=2016-05-12&g=2016-05-12) aan de netbeheerder verstrekt.
+In geval van een profielgrootverbruikmeetinrichting op een aansluiting groter dan 3x80A en een productiemeetinrichting, worden de meetgegevens bedoeld in [6.2.1.4](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=6&paragraaf=6.2&sub-paragraaf=6.2.1&artikel=6.2.1.4&z=2016-07-27&g=2016-07-27) maandelijks, uiterlijk op de tiende werkdag na de dag van vaststelling zoals bedoeld in [6.2.1.6](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=6&paragraaf=6.2&sub-paragraaf=6.2.1&artikel=6.2.1.6&z=2016-07-27&g=2016-07-27) aan de netbeheerder verstrekt.
 
 ##### 6.2.2.8
 
-In geval van een profielgrootverbruikmeetinrichting op een aansluiting kleiner dan of gelijk aan 3x80A, worden de meetgegevens bedoeld in [6.2.1.4](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=6&paragraaf=6.2&sub-paragraaf=6.2.1&artikel=6.2.1.4&z=2016-05-12&g=2016-05-12) jaarlijks, uiterlijk op de tiende werkdag na de dag van vaststelling zoals bedoeld in [6.2.1.6](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=6&paragraaf=6.2&sub-paragraaf=6.2.1&artikel=6.2.1.6&z=2016-05-12&g=2016-05-12) aan de netbeheerder verstrekt.
+In geval van een profielgrootverbruikmeetinrichting op een aansluiting kleiner dan of gelijk aan 3x80A, worden de meetgegevens bedoeld in [6.2.1.4](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=6&paragraaf=6.2&sub-paragraaf=6.2.1&artikel=6.2.1.4&z=2016-07-27&g=2016-07-27) jaarlijks, uiterlijk op de tiende werkdag na de dag van vaststelling zoals bedoeld in [6.2.1.6](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=6&paragraaf=6.2&sub-paragraaf=6.2.1&artikel=6.2.1.6&z=2016-07-27&g=2016-07-27) aan de netbeheerder verstrekt.
 
 ##### 6.2.2.9
 
-Alle op grond van [5.4.3.1](https://wetten.overheid.nl/jci1.3:c:BWBR0037946&artikel=5.4.3.1) of [5.4.3.2 van de Meetcode elektriciteit](https://wetten.overheid.nl/jci1.3:c:BWBR0037946&artikel=5.4.3.2) automatisch gerepareerde meetgegevens worden overeenkomstig [6.2.1.1](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=6&paragraaf=6.2&sub-paragraaf=6.2.1&artikel=6.2.1.1&z=2016-05-12&g=2016-05-12) en [6.2.1.2](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=6&paragraaf=6.2&sub-paragraaf=6.2.1&artikel=6.2.1.2&z=2016-05-12&g=2016-05-12) gevalideerd alvorens als definitief te kunnen worden vastgesteld.
+Alle op grond van [5.4.3.1](https://wetten.overheid.nl/jci1.3:c:BWBR0037946&artikel=5.4.3.1) of [5.4.3.2 van de Meetcode elektriciteit](https://wetten.overheid.nl/jci1.3:c:BWBR0037946&artikel=5.4.3.2) automatisch gerepareerde meetgegevens worden overeenkomstig [6.2.1.1](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=6&paragraaf=6.2&sub-paragraaf=6.2.1&artikel=6.2.1.1&z=2016-07-27&g=2016-07-27) en [6.2.1.2](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=6&paragraaf=6.2&sub-paragraaf=6.2.1&artikel=6.2.1.2&z=2016-07-27&g=2016-07-27) gevalideerd alvorens als definitief te kunnen worden vastgesteld.
 
 ##### 6.2.2.10
 
-Indien onvolledige of onjuiste meetgegevens niet automatisch kunnen worden gerepareerd, vervangt de meetverantwoordelijke handmatig de meetgegevens door nullen dan wel voorlopige waarden. De definitieve meetgegevens worden binnen de daarvoor in [6.2.2.3](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=6&paragraaf=6.2&sub-paragraaf=6.2.2&artikel=6.2.2.3&z=2016-05-12&g=2016-05-12) vastgestelde periode gerepareerd.
+Indien onvolledige of onjuiste meetgegevens niet automatisch kunnen worden gerepareerd, vervangt de meetverantwoordelijke handmatig de meetgegevens door nullen dan wel voorlopige waarden. De definitieve meetgegevens worden binnen de daarvoor in [6.2.2.3](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=6&paragraaf=6.2&sub-paragraaf=6.2.2&artikel=6.2.2.3&z=2016-07-27&g=2016-07-27) vastgestelde periode gerepareerd.
 
 ##### 6.2.2.11
 
-Voor reparaties die niet op een van de in [6.2.2.9](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=6&paragraaf=6.2&sub-paragraaf=6.2.2&artikel=6.2.2.9&z=2016-05-12&g=2016-05-12) of [6.2.2.10](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=6&paragraaf=6.2&sub-paragraaf=6.2.2&artikel=6.2.2.10&z=2016-05-12&g=2016-05-12) bedoelde wijzen kunnen worden uitgevoerd, moet in overleg met de aangeslotene, de netbeheerder, de leverancier en de desbetreffende programmaverantwoordelijke een afspraak worden gemaakt over het repareren van de meetgegevens. Indien een meetverantwoordelijke niet de mogelijkheid heeft om meetgegevens te collecteren en te valideren voor de vijfde werkdag na de dag waarop de meetgegevens betrekking hebben, dient de meetverantwoordelijke een schatting te maken die overeenkomstig [6.2.2.3](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=6&paragraaf=6.2&sub-paragraaf=6.2.2&artikel=6.2.2.3&z=2016-05-12&g=2016-05-12) aan de netbeheerder wordt overgedragen. De meetverantwoordelijke legt de gemaakte schatting voor aan de aangeslotene, netbeheerder, programmaverantwoordelijke en leverancier zodat hij voor de overeenkomstig [6.2.2.4](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=6&paragraaf=6.2&sub-paragraaf=6.2.2&artikel=6.2.2.4&z=2016-05-12&g=2016-05-12) uit te voeren acties instemming kan hebben ontvangen van betrokken partijen.
+Voor reparaties die niet op een van de in [6.2.2.9](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=6&paragraaf=6.2&sub-paragraaf=6.2.2&artikel=6.2.2.9&z=2016-07-27&g=2016-07-27) of [6.2.2.10](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=6&paragraaf=6.2&sub-paragraaf=6.2.2&artikel=6.2.2.10&z=2016-07-27&g=2016-07-27) bedoelde wijzen kunnen worden uitgevoerd, moet in overleg met de aangeslotene, de netbeheerder, de leverancier en de desbetreffende programmaverantwoordelijke een afspraak worden gemaakt over het repareren van de meetgegevens. Indien een meetverantwoordelijke niet de mogelijkheid heeft om meetgegevens te collecteren en te valideren voor de vijfde werkdag na de dag waarop de meetgegevens betrekking hebben, dient de meetverantwoordelijke een schatting te maken die overeenkomstig [6.2.2.3](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=6&paragraaf=6.2&sub-paragraaf=6.2.2&artikel=6.2.2.3&z=2016-07-27&g=2016-07-27) aan de netbeheerder wordt overgedragen. De meetverantwoordelijke legt de gemaakte schatting voor aan de aangeslotene, netbeheerder, programmaverantwoordelijke en leverancier zodat hij voor de overeenkomstig [6.2.2.4](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=6&paragraaf=6.2&sub-paragraaf=6.2.2&artikel=6.2.2.4&z=2016-07-27&g=2016-07-27) uit te voeren acties instemming kan hebben ontvangen van betrokken partijen.
 
 ##### 6.2.2.12
 
-De meetverantwoordelijke registreert alle reparaties die overeenkomstig [6.2.2.9 tot en met 6.2.2.11](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=6&paragraaf=6.2&sub-paragraaf=6.2.2&artikel=6.2.2.9&z=2016-05-12&g=2016-05-12) zijn uitgevoerd en verstrekt de aangeslotene en de netbeheerder desgevraagd een rapportage over deze reparaties.
+De meetverantwoordelijke registreert alle reparaties die overeenkomstig [6.2.2.9 tot en met 6.2.2.11](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=6&paragraaf=6.2&sub-paragraaf=6.2.2&artikel=6.2.2.9&z=2016-07-27&g=2016-07-27) zijn uitgevoerd en verstrekt de aangeslotene en de netbeheerder desgevraagd een rapportage over deze reparaties.
 
 ##### 6.2.2.13
 
-Desgevraagd geeft de meetverantwoordelijke aan de netbeheerder van het landelijk hoogspanningsnet inzage in de registratie met betrekking tot de onder [6.2.2.12](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=6&paragraaf=6.2&sub-paragraaf=6.2.2&artikel=6.2.2.12&z=2016-05-12&g=2016-05-12) genoemde reparaties.
+Desgevraagd geeft de meetverantwoordelijke aan de netbeheerder van het landelijk hoogspanningsnet inzage in de registratie met betrekking tot de onder [6.2.2.12](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=6&paragraaf=6.2&sub-paragraaf=6.2.2&artikel=6.2.2.12&z=2016-07-27&g=2016-07-27) genoemde reparaties.
 
 ##### 6.2.2.14
 
@@ -4050,7 +4050,7 @@ Indien na het verstrijken van de tiende werkdag na de maand waarop de meetgegeve
 
 ##### 6.2.2.16
 
-Indien na het verstrijken van de tiende werkdag na de maand, waarop de meetgegevens betrekking hebben, wordt geconstateerd dat er, als gevolg van een onvolkomenheid in de meetinrichting, sprake is van onjuiste meetgegevens in het allocatieproces, wordt door de meetverantwoordelijke binnen een maand een overleg geïnitieerd met aangeslotene, netbeheerder, programmaverantwoordelijke en leverancier met als doel overeenstemming te bereiken over een schatting van het werkelijke met het net uitgewisselde energie. Indien binnen een periode van drie maanden na informeren van de onvolkomenheid in de meetinrichting geen overeenstemming is bereikt tussen partijen beslist de netbeheerder over het door de meetverantwoordelijke te communiceren volume. De meetverantwoordelijke communiceert het overeengekomen volume overeenkomstig [6.2.2.15](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=6&paragraaf=6.2&sub-paragraaf=6.2.2&artikel=6.2.2.15&z=2016-05-12&g=2016-05-12).
+Indien na het verstrijken van de tiende werkdag na de maand, waarop de meetgegevens betrekking hebben, wordt geconstateerd dat er, als gevolg van een onvolkomenheid in de meetinrichting, sprake is van onjuiste meetgegevens in het allocatieproces, wordt door de meetverantwoordelijke binnen een maand een overleg geïnitieerd met aangeslotene, netbeheerder, programmaverantwoordelijke en leverancier met als doel overeenstemming te bereiken over een schatting van het werkelijke met het net uitgewisselde energie. Indien binnen een periode van drie maanden na informeren van de onvolkomenheid in de meetinrichting geen overeenstemming is bereikt tussen partijen beslist de netbeheerder over het door de meetverantwoordelijke te communiceren volume. De meetverantwoordelijke communiceert het overeengekomen volume overeenkomstig [6.2.2.15](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=6&paragraaf=6.2&sub-paragraaf=6.2.2&artikel=6.2.2.15&z=2016-07-27&g=2016-07-27).
 
 #### 6.2.3. Uitwisselen van meetgegevens tussen meetverantwoordelijke en de netbeheerder van het landelijk hoogspanningsnet
 
@@ -4060,7 +4060,7 @@ Een meetverantwoordelijke rapporteert, uiterlijk 20 werkdagen na het einde van d
 
 - a. Het aantal aansluitingen dat op enig moment in de desbetreffende maand telemetriegrootverbruikaansluiting is geweest;
 
-- b. De met het net uitgewisselde hoeveelheid energie, die is verwerkt in de dagelijkse berichten met meetgegevens overeenkomstig [6.2.2.4](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=6&paragraaf=6.2&sub-paragraaf=6.2.2&artikel=6.2.2.4&z=2016-05-12&g=2016-05-12);
+- b. De met het net uitgewisselde hoeveelheid energie, die is verwerkt in de dagelijkse berichten met meetgegevens overeenkomstig [6.2.2.4](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=6&paragraaf=6.2&sub-paragraaf=6.2.2&artikel=6.2.2.4&z=2016-07-27&g=2016-07-27);
 
 - c. De met het net uitgewisselde hoeveelheid energie, die is verwerkt in de maandelijkse berichten met meetgegevens;
 
@@ -4068,23 +4068,23 @@ Een meetverantwoordelijke rapporteert, uiterlijk 20 werkdagen na het einde van d
 
 - 1°. Het aantal aansluitingen
 
-- 2°. De met het net uitgewisselde hoeveelheid energie, die is verwerkt in de dagelijkse berichten met meetgegevens overeenkomstig [6.2.2.3](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=6&paragraaf=6.2&sub-paragraaf=6.2.2&artikel=6.2.2.3&z=2016-05-12&g=2016-05-12);
+- 2°. De met het net uitgewisselde hoeveelheid energie, die is verwerkt in de dagelijkse berichten met meetgegevens overeenkomstig [6.2.2.3](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=6&paragraaf=6.2&sub-paragraaf=6.2.2&artikel=6.2.2.3&z=2016-07-27&g=2016-07-27);
 
-- 3°. De met het net uitgewisselde hoeveelheid energie, die is verwerkt in de maandelijkse berichten met meetgegevens overeenkomstig [6.2.2.6](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=6&paragraaf=6.2&sub-paragraaf=6.2.2&artikel=6.2.2.6&z=2016-05-12&g=2016-05-12);
+- 3°. De met het net uitgewisselde hoeveelheid energie, die is verwerkt in de maandelijkse berichten met meetgegevens overeenkomstig [6.2.2.6](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=6&paragraaf=6.2&sub-paragraaf=6.2.2&artikel=6.2.2.6&z=2016-07-27&g=2016-07-27);
 
-- 4°. Het aantal aansluitingen met een aansluitcapaciteit groter dan 1 MVA waarvoor aan de meetgegevens op grond van [6.2.2.3](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=6&paragraaf=6.2&sub-paragraaf=6.2.2&artikel=6.2.2.3&z=2016-05-12&g=2016-05-12) in de dagelijkse berichten met meetgegevens een andere status is gegeven dan “gemeten en gevalideerd”;
+- 4°. Het aantal aansluitingen met een aansluitcapaciteit groter dan 1 MVA waarvoor aan de meetgegevens op grond van [6.2.2.3](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=6&paragraaf=6.2&sub-paragraaf=6.2.2&artikel=6.2.2.3&z=2016-07-27&g=2016-07-27) in de dagelijkse berichten met meetgegevens een andere status is gegeven dan “gemeten en gevalideerd”;
 
-- e. Het aantal gebeurtenissen, dat een meetverantwoordelijke aan de aangeslotene, netbeheerder, programmaverantwoordelijke of leverancier kenbaar heeft gemaakt, overeenkomstig [6.2.2.15](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=6&paragraaf=6.2&sub-paragraaf=6.2.2&artikel=6.2.2.15&z=2016-05-12&g=2016-05-12);
+- e. Het aantal gebeurtenissen, dat een meetverantwoordelijke aan de aangeslotene, netbeheerder, programmaverantwoordelijke of leverancier kenbaar heeft gemaakt, overeenkomstig [6.2.2.15](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=6&paragraaf=6.2&sub-paragraaf=6.2.2&artikel=6.2.2.15&z=2016-07-27&g=2016-07-27);
 
-- f. Het aantal gebeurtenissen, dat een meetverantwoordelijke aan de aangeslotene, netbeheerder, programmaverantwoordelijke of leverancier kenbaar heeft gemaakt, overeenkomstig [6.2.2.16](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=6&paragraaf=6.2&sub-paragraaf=6.2.2&artikel=6.2.2.16&z=2016-05-12&g=2016-05-12).
+- f. Het aantal gebeurtenissen, dat een meetverantwoordelijke aan de aangeslotene, netbeheerder, programmaverantwoordelijke of leverancier kenbaar heeft gemaakt, overeenkomstig [6.2.2.16](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=6&paragraaf=6.2&sub-paragraaf=6.2.2&artikel=6.2.2.16&z=2016-07-27&g=2016-07-27).
 
 ##### 6.2.3.2
 
-De beheerder van het landelijk hoogspanningsnet publiceert maandelijks de gecumuleerde landelijke gegevens zoals deze op basis van [6.2.3.1](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=6&paragraaf=6.2&sub-paragraaf=6.2.3&artikel=6.2.3.1&z=2016-05-12&g=2016-05-12) gerapporteerd zijn.
+De beheerder van het landelijk hoogspanningsnet publiceert maandelijks de gecumuleerde landelijke gegevens zoals deze op basis van [6.2.3.1](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=6&paragraaf=6.2&sub-paragraaf=6.2.3&artikel=6.2.3.1&z=2016-07-27&g=2016-07-27) gerapporteerd zijn.
 
 ##### 6.2.3.3
 
-Voor de in [6.2.3.1](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=6&paragraaf=6.2&sub-paragraaf=6.2.3&artikel=6.2.3.1&z=2016-05-12&g=2016-05-12) beschreven rapportage gebruikt de meetverantwoordelijke het format dat door de netbeheerder van het landelijk hoogspanningsnet, na overleg met de meetverantwoordelijke, is verstrekt.
+Voor de in [6.2.3.1](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=6&paragraaf=6.2&sub-paragraaf=6.2.3&artikel=6.2.3.1&z=2016-07-27&g=2016-07-27) beschreven rapportage gebruikt de meetverantwoordelijke het format dat door de netbeheerder van het landelijk hoogspanningsnet, na overleg met de meetverantwoordelijke, is verstrekt.
 
 #### 6.3. Verwerken en distribueren van meetgegevens van elektriciteitsaansluitingen door de netbeheerder
 
@@ -4092,25 +4092,25 @@ Voor de in [6.2.3.1](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=6
 
 ##### 6.3.1.1
 
-De netbeheerder maakt bij het samenstellen van de meetgegevens die volgens deze paragraaf worden doorgegeven, gebruik van meetgegevens, geregistreerd door meetinrichtingen op aansluitingen, die hij op grond van [paragraaf 6.2 van deze code](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=6&paragraaf=6.2&z=2016-05-12&g=2016-05-12) van de desbetreffende meetverantwoordelijken ontvangt en van de meetgegevens geregistreerd door de meetinrichtingen in het (de) overdrachtspunt(en) van de aansluitingen van zijn net met andere netten.
+De netbeheerder maakt bij het samenstellen van de meetgegevens die volgens deze paragraaf worden doorgegeven, gebruik van meetgegevens, geregistreerd door meetinrichtingen op aansluitingen, die hij op grond van [paragraaf 6.2 van deze code](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=6&paragraaf=6.2&z=2016-07-27&g=2016-07-27) van de desbetreffende meetverantwoordelijken ontvangt en van de meetgegevens geregistreerd door de meetinrichtingen in het (de) overdrachtspunt(en) van de aansluitingen van zijn net met andere netten.
 
 ##### 6.3.1.2
 
-De netbeheerder bewaakt, mede op basis van zijn aansluitingenregister, de ontvangst van meetgegevens van aangeslotenen, die hij op grond van [paragraaf 6.2 van deze code](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=6&paragraaf=6.2&z=2016-05-12&g=2016-05-12) van de desbetreffende meetverantwoordelijken moet ontvangen op volledigheid. Bij geconstateerde tekortkomingen informeert de netbeheerder de meetverantwoordelijke en stelt hij de desbetreffende meetverantwoordelijke zonodig in gebreke. Indien de meetverantwoordelijke de eventueel geconstateerde tekortkomingen zoals bedoeld in 4.1a.1 van de [Meetcode elektriciteit](https://wetten.overheid.nl/jci1.3:c:BWBR0037946) niet opheft, meldt de netbeheerder dit aan de aangeslotene, aan de Autoriteit Consument en Markt en aan de netbeheerder van het landelijk hoogspanningsnet. Indien dit noodzakelijk is voor de voortgang van de in deze paragraaf beschreven processen, worden de desbetreffende meetgegevens overeenkomstig de in [6.3.5.10](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=6&paragraaf=6.3&sub-paragraaf=6.3.5&artikel=6.3.5.10&z=2016-05-12&g=2016-05-12) vastgesteld en geeft de netbeheerder daarbij aan dat er sprake is van overeenkomstig 6.3.5.10 vastgestelde meetgegevens.
+De netbeheerder bewaakt, mede op basis van zijn aansluitingenregister, de ontvangst van meetgegevens van aangeslotenen, die hij op grond van [paragraaf 6.2 van deze code](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=6&paragraaf=6.2&z=2016-07-27&g=2016-07-27) van de desbetreffende meetverantwoordelijken moet ontvangen op volledigheid. Bij geconstateerde tekortkomingen informeert de netbeheerder de meetverantwoordelijke en stelt hij de desbetreffende meetverantwoordelijke zonodig in gebreke. Indien de meetverantwoordelijke de eventueel geconstateerde tekortkomingen zoals bedoeld in 4.1a.1 van de [Meetcode elektriciteit](https://wetten.overheid.nl/jci1.3:c:BWBR0037946) niet opheft, meldt de netbeheerder dit aan de aangeslotene, aan de Autoriteit Consument en Markt en aan de netbeheerder van het landelijk hoogspanningsnet. Indien dit noodzakelijk is voor de voortgang van de in deze paragraaf beschreven processen, worden de desbetreffende meetgegevens overeenkomstig de in [6.3.5.10](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=6&paragraaf=6.3&sub-paragraaf=6.3.5&artikel=6.3.5.10&z=2016-07-27&g=2016-07-27) vastgesteld en geeft de netbeheerder daarbij aan dat er sprake is van overeenkomstig 6.3.5.10 vastgestelde meetgegevens.
 
 ##### 6.3.1.3
 
-De netbeheerder geeft de meetgegevens van aangeslotenen, die hij op grond van [paragraaf 6.2 van deze code](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=6&paragraaf=6.2&z=2016-05-12&g=2016-05-12) van de desbetreffende meetverantwoordelijken ontvangt, door.
+De netbeheerder geeft de meetgegevens van aangeslotenen, die hij op grond van [paragraaf 6.2 van deze code](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=6&paragraaf=6.2&z=2016-07-27&g=2016-07-27) van de desbetreffende meetverantwoordelijken ontvangt, door.
 
 ##### 6.3.1.4
 
-De in [6.3.5 tot en met 6.3.12](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=6&paragraaf=6.3&sub-paragraaf=6.3.5&z=2016-05-12&g=2016-05-12) bedoelde overdracht van meetgegevens en indiening van verzoeken vindt plaats overeenkomstig het elektronische berichtenverkeer, bedoeld in [hoofdstuk 9](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=9&z=2016-05-12&g=2016-05-12).
+De in [6.3.5 tot en met 6.3.12](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=6&paragraaf=6.3&sub-paragraaf=6.3.5&z=2016-07-27&g=2016-07-27) bedoelde overdracht van meetgegevens en indiening van verzoeken vindt plaats overeenkomstig het elektronische berichtenverkeer, bedoeld in [hoofdstuk 9](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=9&z=2016-07-27&g=2016-07-27).
 
 #### 6.3.2. Beoordelen volledigheid ontvangen van meetgegevens
 
 ##### 6.3.2.1
 
-De netbeheerder controleert telkens onmiddellijk na afloop van de in [6.2.2.2](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=6&paragraaf=6.2&sub-paragraaf=6.2.2&artikel=6.2.2.2&z=2016-05-12&g=2016-05-12) en [6.2.2.3](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=6&paragraaf=6.2&sub-paragraaf=6.2.2&artikel=6.2.2.3&z=2016-05-12&g=2016-05-12) genoemde termijnen en op basis van zijn aansluitingenregister de ontvangst van meetgegevens van aangeslotenen, die hij van de desbetreffende meetverantwoordelijken heeft ontvangen, op volledigheid aan de hand van de volgende criteria:
+De netbeheerder controleert telkens onmiddellijk na afloop van de in [6.2.2.2](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=6&paragraaf=6.2&sub-paragraaf=6.2.2&artikel=6.2.2.2&z=2016-07-27&g=2016-07-27) en [6.2.2.3](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=6&paragraaf=6.2&sub-paragraaf=6.2.2&artikel=6.2.2.3&z=2016-07-27&g=2016-07-27) genoemde termijnen en op basis van zijn aansluitingenregister de ontvangst van meetgegevens van aangeslotenen, die hij van de desbetreffende meetverantwoordelijken heeft ontvangen, op volledigheid aan de hand van de volgende criteria:
 
 - a. Voor een aansluiting uit het aansluitingenregister zijn van de daar vermelde meetverantwoordelijke geen meetgegevens ontvangen;
 
@@ -4122,53 +4122,53 @@ De netbeheerder controleert telkens onmiddellijk na afloop van de in [6.2.2.2](h
 
 ##### 6.3.2.2
 
-Indien voor een aansluiting een van de criteria uit [6.3.2.1](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=6&paragraaf=6.3&sub-paragraaf=6.3.2&artikel=6.3.2.1&z=2016-05-12&g=2016-05-12) van toepassing is, dan richt de netbeheerder een herzieningsverzoek aan de desbetreffende meetverantwoordelijke om nieuwe of aanvullende meetgegevens aan te leveren.
+Indien voor een aansluiting een van de criteria uit [6.3.2.1](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=6&paragraaf=6.3&sub-paragraaf=6.3.2&artikel=6.3.2.1&z=2016-07-27&g=2016-07-27) van toepassing is, dan richt de netbeheerder een herzieningsverzoek aan de desbetreffende meetverantwoordelijke om nieuwe of aanvullende meetgegevens aan te leveren.
 
 #### 6.3.3. Afhandeling verzoeken tot hernieuwd vaststellen van meetgegevens
 
 ##### 6.3.3.1
 
-De door de netbeheerder, op basis van [3.7.10 van de Systeemcode elektriciteit](https://wetten.overheid.nl/jci1.3:c:BWBR0037947&artikel=3.7.10), van een programmaverantwoordelijke ontvangen verzoeken tot aanpassing van de hem eerder op basis van [6.3.6.4](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=6&paragraaf=6.3&sub-paragraaf=6.3.6&artikel=6.3.6.4&z=2016-05-12&g=2016-05-12) en [6.3.7.3](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=6&paragraaf=6.3&sub-paragraaf=6.3.7&artikel=6.3.7.3&z=2016-05-12&g=2016-05-12) toegezonden meetgegevens zullen door de netbeheerder worden afgehandeld voor de termijn waarop [6.3.7](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=6&paragraaf=6.3&sub-paragraaf=6.3.7&z=2016-05-12&g=2016-05-12) respectievelijk [6.3.8](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=6&paragraaf=6.3&sub-paragraaf=6.3.8&z=2016-05-12&g=2016-05-12) van toepassing is.
+De door de netbeheerder, op basis van [3.7.10 van de Systeemcode elektriciteit](https://wetten.overheid.nl/jci1.3:c:BWBR0037947&artikel=3.7.10), van een programmaverantwoordelijke ontvangen verzoeken tot aanpassing van de hem eerder op basis van [6.3.6.4](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=6&paragraaf=6.3&sub-paragraaf=6.3.6&artikel=6.3.6.4&z=2016-07-27&g=2016-07-27) en [6.3.7.3](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=6&paragraaf=6.3&sub-paragraaf=6.3.7&artikel=6.3.7.3&z=2016-07-27&g=2016-07-27) toegezonden meetgegevens zullen door de netbeheerder worden afgehandeld voor de termijn waarop [6.3.7](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=6&paragraaf=6.3&sub-paragraaf=6.3.7&z=2016-07-27&g=2016-07-27) respectievelijk [6.3.8](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=6&paragraaf=6.3&sub-paragraaf=6.3.8&z=2016-07-27&g=2016-07-27) van toepassing is.
 
 ##### 6.3.3.2
 
-Verzoeken op basis van [3.7.10 van de Systeemcode elektriciteit](https://wetten.overheid.nl/jci1.3:c:BWBR0037947&artikel=3.7.10) neemt de netbeheerder aan wie het verzoek is gericht niet in behandeling wanneer meer dan vijf werkdagen zijn verstreken na de dag waarop hij overeenkomstig [6.3.6.4](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=6&paragraaf=6.3&sub-paragraaf=6.3.6&artikel=6.3.6.4&z=2016-05-12&g=2016-05-12) of [6.3.7.3](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=6&paragraaf=6.3&sub-paragraaf=6.3.7&artikel=6.3.7.3&z=2016-05-12&g=2016-05-12) de meetgegevens aan die programmaverantwoordelijke heeft verzonden, tenzij de programmaverantwoordelijke de fout waarvan hij correctie verzoekt redelijkerwijs niet binnen die termijn heeft kunnen opmerken.
+Verzoeken op basis van [3.7.10 van de Systeemcode elektriciteit](https://wetten.overheid.nl/jci1.3:c:BWBR0037947&artikel=3.7.10) neemt de netbeheerder aan wie het verzoek is gericht niet in behandeling wanneer meer dan vijf werkdagen zijn verstreken na de dag waarop hij overeenkomstig [6.3.6.4](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=6&paragraaf=6.3&sub-paragraaf=6.3.6&artikel=6.3.6.4&z=2016-07-27&g=2016-07-27) of [6.3.7.3](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=6&paragraaf=6.3&sub-paragraaf=6.3.7&artikel=6.3.7.3&z=2016-07-27&g=2016-07-27) de meetgegevens aan die programmaverantwoordelijke heeft verzonden, tenzij de programmaverantwoordelijke de fout waarvan hij correctie verzoekt redelijkerwijs niet binnen die termijn heeft kunnen opmerken.
 
 ##### 6.3.3.3
 
-Voor zover het in [6.3.3.1](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=6&paragraaf=6.3&sub-paragraaf=6.3.3&artikel=6.3.3.1&z=2016-05-12&g=2016-05-12) genoemde verzoek geen betrekking heeft op onjuiste toerekening van meetgegevens aan de desbetreffende programmaverantwoordelijke, stelt de netbeheerder de desbetreffende meetverantwoordelijke vóór 10:00 uur van de eerstvolgende werkdag na de dag van ontvangst van het verzoek, op de hoogte van het verzoek van de programmaverantwoordelijke. Daarbij worden de door de programmaverantwoordelijke voorgestelde meetgegevens meegezonden.
+Voor zover het in [6.3.3.1](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=6&paragraaf=6.3&sub-paragraaf=6.3.3&artikel=6.3.3.1&z=2016-07-27&g=2016-07-27) genoemde verzoek geen betrekking heeft op onjuiste toerekening van meetgegevens aan de desbetreffende programmaverantwoordelijke, stelt de netbeheerder de desbetreffende meetverantwoordelijke vóór 10:00 uur van de eerstvolgende werkdag na de dag van ontvangst van het verzoek, op de hoogte van het verzoek van de programmaverantwoordelijke. Daarbij worden de door de programmaverantwoordelijke voorgestelde meetgegevens meegezonden.
 
 #### 6.3.4. Afhandeling verzoeken tot hernieuwd toerekenen definitieve volumes
 
 ##### 6.3.4.1
 
-Indien de netbeheerder van een programmaverantwoordelijke een verzoek op basis van [3.7.11 van de Systeemcode elektriciteit](https://wetten.overheid.nl/jci1.3:c:BWBR0037947&artikel=3.7.11) heeft ontvangen dan voert hij [6.3.9](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=6&paragraaf=6.3&sub-paragraaf=6.3.9&z=2016-05-12&g=2016-05-12) onverwijld uit.
+Indien de netbeheerder van een programmaverantwoordelijke een verzoek op basis van [3.7.11 van de Systeemcode elektriciteit](https://wetten.overheid.nl/jci1.3:c:BWBR0037947&artikel=3.7.11) heeft ontvangen dan voert hij [6.3.9](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=6&paragraaf=6.3&sub-paragraaf=6.3.9&z=2016-07-27&g=2016-07-27) onverwijld uit.
 
 #### 6.3.5. Overdracht van meetgegevens in het kader van programmaverantwoordelijkheid
 
 ##### 6.3.5.1
 
-In afwijking van [6.3.1.1](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=6&paragraaf=6.3&sub-paragraaf=6.3.1&artikel=6.3.1.1&z=2016-05-12&g=2016-05-12) gaat de netbeheerder voor het samenstellen van de meetgegevens ten behoeve van programmaverantwoordelijkheid van grootverbruikers die beschikken over een profielgrootverbruikmeetinrichting, uit van het verbruiksprofiel dat overeenkomstig de systematiek beschreven in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&bijlage=1&z=2016-05-12&g=2016-05-12) bij deze code is vastgesteld.
+In afwijking van [6.3.1.1](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=6&paragraaf=6.3&sub-paragraaf=6.3.1&artikel=6.3.1.1&z=2016-07-27&g=2016-07-27) gaat de netbeheerder voor het samenstellen van de meetgegevens ten behoeve van programmaverantwoordelijkheid van grootverbruikers die beschikken over een profielgrootverbruikmeetinrichting, uit van het verbruiksprofiel dat overeenkomstig de systematiek beschreven in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&bijlage=1&z=2016-07-27&g=2016-07-27) bij deze code is vastgesteld.
 
 ##### 6.3.5.2
 
-In afwijking van [6.3.1.1](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=6&paragraaf=6.3&sub-paragraaf=6.3.1&artikel=6.3.1.1&z=2016-05-12&g=2016-05-12) gaat de netbeheerder voor het samenstellen van de meetgegevens ten behoeve van programmaverantwoordelijkheid van grootverbruikers die op grond van [2.1.3.5 en volgende van de Netcode elektriciteit](https://wetten.overheid.nl/jci1.3:c:BWBR0037940&artikel=2.1.3.5) niet beschikken over een meetinrichting, uit van:
+In afwijking van [6.3.1.1](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=6&paragraaf=6.3&sub-paragraaf=6.3.1&artikel=6.3.1.1&z=2016-07-27&g=2016-07-27) gaat de netbeheerder voor het samenstellen van de meetgegevens ten behoeve van programmaverantwoordelijkheid van grootverbruikers die op grond van [2.1.3.5 en volgende van de Netcode elektriciteit](https://wetten.overheid.nl/jci1.3:c:BWBR0037940&artikel=2.1.3.5) niet beschikken over een meetinrichting, uit van:
 
-- a. het belastingprofiel dat overeenkomstig de systematiek beschreven in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&bijlage=2&z=2016-05-12&g=2016-05-12) bij deze code is vastgesteld voor zover het een installatie voor openbare verlichting of een verkeersregelinstallatie betreft;
+- a. het belastingprofiel dat overeenkomstig de systematiek beschreven in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&bijlage=2&z=2016-07-27&g=2016-07-27) bij deze code is vastgesteld voor zover het een installatie voor openbare verlichting of een verkeersregelinstallatie betreft;
 
-- b. het verbruiksprofiel dat overeenkomstig de systematiek beschreven in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&bijlage=1&z=2016-05-12&g=2016-05-12) bij deze code is vastgesteld voor zover het een andere installatie dan een installatie voor openbare verlichting of een verkeersregelinstallatie betreft.
+- b. het verbruiksprofiel dat overeenkomstig de systematiek beschreven in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&bijlage=1&z=2016-07-27&g=2016-07-27) bij deze code is vastgesteld voor zover het een andere installatie dan een installatie voor openbare verlichting of een verkeersregelinstallatie betreft.
 
 ##### 6.3.5.3
 
-Op de in [6.3.5.1](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=6&paragraaf=6.3&sub-paragraaf=6.3.5&artikel=6.3.5.1&z=2016-05-12&g=2016-05-12) en [6.3.5.2](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=6&paragraaf=6.3&sub-paragraaf=6.3.5&artikel=6.3.5.2&z=2016-05-12&g=2016-05-12) bedoelde meetgegevens zijn, voor zover van toepassing, de bepalingen [6.3.1.1 tot en met 6.3.1.4](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=6&paragraaf=6.3&sub-paragraaf=6.3.1&artikel=6.3.1.1&z=2016-05-12&g=2016-05-12) van toepassing, met dien verstande dat in [6.3.1.1](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=6&paragraaf=6.3&sub-paragraaf=6.3.1&artikel=6.3.1.1&z=2016-05-12&g=2016-05-12) in plaats van “geregistreerd door meetinrichtingen op aansluitingen” moet worden gelezen “bepaald op grond van 6.3.5.1 en 6.3.5.2 voor de gezamenlijke aansluitingen per profielcategorie met elk een gecontracteerd transportvermogen kleiner dan 0,1 MW”.
+Op de in [6.3.5.1](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=6&paragraaf=6.3&sub-paragraaf=6.3.5&artikel=6.3.5.1&z=2016-07-27&g=2016-07-27) en [6.3.5.2](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=6&paragraaf=6.3&sub-paragraaf=6.3.5&artikel=6.3.5.2&z=2016-07-27&g=2016-07-27) bedoelde meetgegevens zijn, voor zover van toepassing, de bepalingen [6.3.1.1 tot en met 6.3.1.4](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=6&paragraaf=6.3&sub-paragraaf=6.3.1&artikel=6.3.1.1&z=2016-07-27&g=2016-07-27) van toepassing, met dien verstande dat in [6.3.1.1](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=6&paragraaf=6.3&sub-paragraaf=6.3.1&artikel=6.3.1.1&z=2016-07-27&g=2016-07-27) in plaats van “geregistreerd door meetinrichtingen op aansluitingen” moet worden gelezen “bepaald op grond van 6.3.5.1 en 6.3.5.2 voor de gezamenlijke aansluitingen per profielcategorie met elk een gecontracteerd transportvermogen kleiner dan 0,1 MW”.
 
 ##### 6.3.5.4
 
-De netbeheerder van het landelijk hoogspanningsnet en de andere netbeheerders leggen de in [6.3.1.1](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=6&paragraaf=6.3&sub-paragraaf=6.3.1&artikel=6.3.1.1&z=2016-05-12&g=2016-05-12) en [6.3.5.1](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=6&paragraaf=6.3&sub-paragraaf=6.3.5&artikel=6.3.5.1&z=2016-05-12&g=2016-05-12) bedoelde meetgegevens met betrekking tot de aansluitingen op hun netten per programmaverantwoordelijke, per leverancier en per profielcategorie per programmatijdseenheid vast in dagrapporten.
+De netbeheerder van het landelijk hoogspanningsnet en de andere netbeheerders leggen de in [6.3.1.1](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=6&paragraaf=6.3&sub-paragraaf=6.3.1&artikel=6.3.1.1&z=2016-07-27&g=2016-07-27) en [6.3.5.1](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=6&paragraaf=6.3&sub-paragraaf=6.3.5&artikel=6.3.5.1&z=2016-07-27&g=2016-07-27) bedoelde meetgegevens met betrekking tot de aansluitingen op hun netten per programmaverantwoordelijke, per leverancier en per profielcategorie per programmatijdseenheid vast in dagrapporten.
 
 ##### 6.3.5.5
 
-De netbeheerder van het landelijk hoogspanningsnet en de andere netbeheerders, ieder voor het eigen net, leggen de in [6.3.1.1](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=6&paragraaf=6.3&sub-paragraaf=6.3.1&artikel=6.3.1.1&z=2016-05-12&g=2016-05-12) bedoelde meetgegevens met betrekking tot de aansluitingen als bedoeld in [5.1.2.3 van de Netcode elektriciteit](https://wetten.overheid.nl/jci1.3:c:BWBR0037940&artikel=5.1.2.3) per programmatijdseenheid vast in separate dagrapporten.
+De netbeheerder van het landelijk hoogspanningsnet en de andere netbeheerders, ieder voor het eigen net, leggen de in [6.3.1.1](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=6&paragraaf=6.3&sub-paragraaf=6.3.1&artikel=6.3.1.1&z=2016-07-27&g=2016-07-27) bedoelde meetgegevens met betrekking tot de aansluitingen als bedoeld in [5.1.2.3 van de Netcode elektriciteit](https://wetten.overheid.nl/jci1.3:c:BWBR0037940&artikel=5.1.2.3) per programmatijdseenheid vast in separate dagrapporten.
 
 ##### 6.3.5.6
 
@@ -4184,15 +4184,15 @@ De netbeheerder verzamelt ten behoeve van iedere programmaverantwoordelijke de h
 
 ##### 6.3.5.8
 
-Waar in de [artikelen 6.3.5.9 tot en met 6.3.5.11](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=6&paragraaf=6.3&sub-paragraaf=6.3.5&artikel=6.3.5.9&z=2016-05-12&g=2016-05-12) programmaverantwoordelijke staat moet, ten behoeve van congestiemanagement zoals bedoeld in [paragraaf 5.1.2 van de Netcode elektriciteit](https://wetten.overheid.nl/jci1.3:c:BWBR0037940&sub-paragraaf=5.1.2), ook CG-aangeslotene worden gelezen.
+Waar in de [artikelen 6.3.5.9 tot en met 6.3.5.11](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=6&paragraaf=6.3&sub-paragraaf=6.3.5&artikel=6.3.5.9&z=2016-07-27&g=2016-07-27) programmaverantwoordelijke staat moet, ten behoeve van congestiemanagement zoals bedoeld in [paragraaf 5.1.2 van de Netcode elektriciteit](https://wetten.overheid.nl/jci1.3:c:BWBR0037940&sub-paragraaf=5.1.2), ook CG-aangeslotene worden gelezen.
 
 ##### 6.3.5.9
 
-Wanneer de in [6.3.5.6](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=6&paragraaf=6.3&sub-paragraaf=6.3.5&artikel=6.3.5.6&z=2016-05-12&g=2016-05-12) en [6.3.5.7](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=6&paragraaf=6.3&sub-paragraaf=6.3.5&artikel=6.3.5.7&z=2016-05-12&g=2016-05-12) bedoelde meetgegevens een voorlopig karakter hebben, wordt daarvan bij de verstrekking melding gemaakt. In dat geval worden de definitieve meetgegevens overeenkomstig [6.3.8](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=6&paragraaf=6.3&sub-paragraaf=6.3.8&z=2016-05-12&g=2016-05-12) verwerkt.
+Wanneer de in [6.3.5.6](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=6&paragraaf=6.3&sub-paragraaf=6.3.5&artikel=6.3.5.6&z=2016-07-27&g=2016-07-27) en [6.3.5.7](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=6&paragraaf=6.3&sub-paragraaf=6.3.5&artikel=6.3.5.7&z=2016-07-27&g=2016-07-27) bedoelde meetgegevens een voorlopig karakter hebben, wordt daarvan bij de verstrekking melding gemaakt. In dat geval worden de definitieve meetgegevens overeenkomstig [6.3.8](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=6&paragraaf=6.3&sub-paragraaf=6.3.8&z=2016-07-27&g=2016-07-27) verwerkt.
 
 ##### 6.3.5.10
 
-Wanneer in het geval, bedoeld in [6.3.5.6](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=6&paragraaf=6.3&sub-paragraaf=6.3.5&artikel=6.3.5.6&z=2016-05-12&g=2016-05-12) en [6.3.5.7](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=6&paragraaf=6.3&sub-paragraaf=6.3.5&artikel=6.3.5.7&z=2016-05-12&g=2016-05-12), een netbeheerder niet in staat is definitieve gegevens aan de netbeheerder van het landelijk hoogspanningsnet en de programmaverantwoordelijke te verstrekken, treft hij met de desbetreffende meetverantwoordelijke en de programmaverantwoordelijke die het aangaat een regeling omtrent de te gebruiken meetgegevens.
+Wanneer in het geval, bedoeld in [6.3.5.6](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=6&paragraaf=6.3&sub-paragraaf=6.3.5&artikel=6.3.5.6&z=2016-07-27&g=2016-07-27) en [6.3.5.7](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=6&paragraaf=6.3&sub-paragraaf=6.3.5&artikel=6.3.5.7&z=2016-07-27&g=2016-07-27), een netbeheerder niet in staat is definitieve gegevens aan de netbeheerder van het landelijk hoogspanningsnet en de programmaverantwoordelijke te verstrekken, treft hij met de desbetreffende meetverantwoordelijke en de programmaverantwoordelijke die het aangaat een regeling omtrent de te gebruiken meetgegevens.
 
 Onverminderd hetgeen uit de aansluit- en transportovereenkomst voortvloeit, worden deze meetgegevens geacht definitief te zijn en worden deze aan de desbetreffende programmaverantwoordelijke en aan de netbeheerder van het landelijk hoogspanningsnet verstrekt.
 
@@ -4204,11 +4204,11 @@ De netbeheerder geeft aan iedere programmaverantwoordelijke per grootverbruikaan
 
 ##### 6.3.6.1
 
-De netbeheerder stuurt de op grond van [6.3.5.6](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=6&paragraaf=6.3&sub-paragraaf=6.3.5&artikel=6.3.5.6&z=2016-05-12&g=2016-05-12) verzamelde meetgegevens inzake alle aansluitingen op zijn net aan de netbeheerder van het landelijk hoogspanningsnet voor 16:00 uur van de eerste werkdag na afloop van het desbetreffende etmaal.
+De netbeheerder stuurt de op grond van [6.3.5.6](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=6&paragraaf=6.3&sub-paragraaf=6.3.5&artikel=6.3.5.6&z=2016-07-27&g=2016-07-27) verzamelde meetgegevens inzake alle aansluitingen op zijn net aan de netbeheerder van het landelijk hoogspanningsnet voor 16:00 uur van de eerste werkdag na afloop van het desbetreffende etmaal.
 
 ##### 6.3.6.2
 
-In de op grond van [6.3.6.1](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=6&paragraaf=6.3&sub-paragraaf=6.3.6&artikel=6.3.6.1&z=2016-05-12&g=2016-05-12) aan de netbeheerder van het landelijk hoogspanningsnet toe te zenden meetgegevens zijn tevens de meetcorrectiefactoren opgenomen.
+In de op grond van [6.3.6.1](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=6&paragraaf=6.3&sub-paragraaf=6.3.6&artikel=6.3.6.1&z=2016-07-27&g=2016-07-27) aan de netbeheerder van het landelijk hoogspanningsnet toe te zenden meetgegevens zijn tevens de meetcorrectiefactoren opgenomen.
 
 ##### 6.3.6.3
 
@@ -4216,7 +4216,7 @@ Netbeheerders van netten met een spanningsniveau gelijk aan of hoger dan 110 kV 
 
 ##### 6.3.6.4
 
-De netbeheerder stuurt de op grond van [6.3.5.7](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=6&paragraaf=6.3&sub-paragraaf=6.3.5&artikel=6.3.5.7&z=2016-05-12&g=2016-05-12) verzamelde meetgegevens aan de desbetreffende programmaverantwoordelijke voor 16:00 uur van de eerste werkdag na afloop desbetreffende etmaal.
+De netbeheerder stuurt de op grond van [6.3.5.7](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=6&paragraaf=6.3&sub-paragraaf=6.3.5&artikel=6.3.5.7&z=2016-07-27&g=2016-07-27) verzamelde meetgegevens aan de desbetreffende programmaverantwoordelijke voor 16:00 uur van de eerste werkdag na afloop desbetreffende etmaal.
 
 ##### 6.3.6.5
 
@@ -4230,51 +4230,51 @@ De netbeheerder die aansluitingen in een congestiegebied beheert, stuurt aan ied
 
 ##### 6.3.7.1
 
-De netbeheerder vervangt indien van toepassing voor de desbetreffende aansluitingen de op basis van [6.2.2.2](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=6&paragraaf=6.2&sub-paragraaf=6.2.2&artikel=6.2.2.2&z=2016-05-12&g=2016-05-12) van de meetverantwoordelijke ontvangen meetgegevens door de herziene meetgegevens die hem op basis van [6.2.2.3](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=6&paragraaf=6.2&sub-paragraaf=6.2.2&artikel=6.2.2.3&z=2016-05-12&g=2016-05-12) door de desbetreffende meetverantwoordelijke voor 10:00 uur van de vijfde werkdag na afloop desbetreffende etmaal zijn toegestuurd
+De netbeheerder vervangt indien van toepassing voor de desbetreffende aansluitingen de op basis van [6.2.2.2](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=6&paragraaf=6.2&sub-paragraaf=6.2.2&artikel=6.2.2.2&z=2016-07-27&g=2016-07-27) van de meetverantwoordelijke ontvangen meetgegevens door de herziene meetgegevens die hem op basis van [6.2.2.3](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=6&paragraaf=6.2&sub-paragraaf=6.2.2&artikel=6.2.2.3&z=2016-07-27&g=2016-07-27) door de desbetreffende meetverantwoordelijke voor 10:00 uur van de vijfde werkdag na afloop desbetreffende etmaal zijn toegestuurd
 
 ##### 6.3.7.2
 
-De netbeheerder voert opnieuw de in [6.3.5.6](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=6&paragraaf=6.3&sub-paragraaf=6.3.5&artikel=6.3.5.6&z=2016-05-12&g=2016-05-12) en [6.3.5.7](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=6&paragraaf=6.3&sub-paragraaf=6.3.5&artikel=6.3.5.7&z=2016-05-12&g=2016-05-12) beschreven acties uit.
+De netbeheerder voert opnieuw de in [6.3.5.6](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=6&paragraaf=6.3&sub-paragraaf=6.3.5&artikel=6.3.5.6&z=2016-07-27&g=2016-07-27) en [6.3.5.7](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=6&paragraaf=6.3&sub-paragraaf=6.3.5&artikel=6.3.5.7&z=2016-07-27&g=2016-07-27) beschreven acties uit.
 
 ##### 6.3.7.3
 
-De netbeheerder stuurt de op grond van [6.3.5.6](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=6&paragraaf=6.3&sub-paragraaf=6.3.5&artikel=6.3.5.6&z=2016-05-12&g=2016-05-12) jo [6.3.7.2](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=6&paragraaf=6.3&sub-paragraaf=6.3.7&artikel=6.3.7.2&z=2016-05-12&g=2016-05-12) opnieuw verzamelde meetgegevens inzake al zijn aansluitingen aan de netbeheerder van het landelijk hoogspanningsnet voor 16:00 uur van de vijfde werkdag na afloop desbetreffende etmaal.
+De netbeheerder stuurt de op grond van [6.3.5.6](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=6&paragraaf=6.3&sub-paragraaf=6.3.5&artikel=6.3.5.6&z=2016-07-27&g=2016-07-27) jo [6.3.7.2](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=6&paragraaf=6.3&sub-paragraaf=6.3.7&artikel=6.3.7.2&z=2016-07-27&g=2016-07-27) opnieuw verzamelde meetgegevens inzake al zijn aansluitingen aan de netbeheerder van het landelijk hoogspanningsnet voor 16:00 uur van de vijfde werkdag na afloop desbetreffende etmaal.
 
 ##### 6.3.7.4
 
-De netbeheerder stuurt de op grond van [6.3.5.7](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=6&paragraaf=6.3&sub-paragraaf=6.3.5&artikel=6.3.5.7&z=2016-05-12&g=2016-05-12) jo [6.3.7.2](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=6&paragraaf=6.3&sub-paragraaf=6.3.7&artikel=6.3.7.2&z=2016-05-12&g=2016-05-12) opnieuw verzamelde meetgegevens aan de desbetreffende programmaverantwoordelijken voor 16:00 uur van de vijfde werkdag na afloop desbetreffende etmaal.
+De netbeheerder stuurt de op grond van [6.3.5.7](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=6&paragraaf=6.3&sub-paragraaf=6.3.5&artikel=6.3.5.7&z=2016-07-27&g=2016-07-27) jo [6.3.7.2](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=6&paragraaf=6.3&sub-paragraaf=6.3.7&artikel=6.3.7.2&z=2016-07-27&g=2016-07-27) opnieuw verzamelde meetgegevens aan de desbetreffende programmaverantwoordelijken voor 16:00 uur van de vijfde werkdag na afloop desbetreffende etmaal.
 
 #### 6.3.8. Verwerking en overdracht van meetgegevens op de tiende werkdag na afloop van het etmaal
 
 ##### 6.3.8.1
 
-De netbeheerder voert de in [6.3.5.6](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=6&paragraaf=6.3&sub-paragraaf=6.3.5&artikel=6.3.5.6&z=2016-05-12&g=2016-05-12) en [6.3.5.7](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=6&paragraaf=6.3&sub-paragraaf=6.3.5&artikel=6.3.5.7&z=2016-05-12&g=2016-05-12) beschreven acties uit op de op grond van [6.2.2.4](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=6&paragraaf=6.2&sub-paragraaf=6.2.2&artikel=6.2.2.4&z=2016-05-12&g=2016-05-12) van de meetverantwoordelijken ontvangen definitieve meetgegevens.
+De netbeheerder voert de in [6.3.5.6](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=6&paragraaf=6.3&sub-paragraaf=6.3.5&artikel=6.3.5.6&z=2016-07-27&g=2016-07-27) en [6.3.5.7](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=6&paragraaf=6.3&sub-paragraaf=6.3.5&artikel=6.3.5.7&z=2016-07-27&g=2016-07-27) beschreven acties uit op de op grond van [6.2.2.4](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=6&paragraaf=6.2&sub-paragraaf=6.2.2&artikel=6.2.2.4&z=2016-07-27&g=2016-07-27) van de meetverantwoordelijken ontvangen definitieve meetgegevens.
 
 ##### 6.3.8.2
 
-De netbeheerder stuurt de op grond van [6.3.5.6](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=6&paragraaf=6.3&sub-paragraaf=6.3.5&artikel=6.3.5.6&z=2016-05-12&g=2016-05-12) jo. [6.3.8.1](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=6&paragraaf=6.3&sub-paragraaf=6.3.8&artikel=6.3.8.1&z=2016-05-12&g=2016-05-12) opnieuw verzamelde meetgegevens inzake al zijn aansluitingen aan de netbeheerder van het landelijk hoogspanningsnet voor 12:00 uur van de tiende werkdag na afloop van het desbetreffende etmaal.
+De netbeheerder stuurt de op grond van [6.3.5.6](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=6&paragraaf=6.3&sub-paragraaf=6.3.5&artikel=6.3.5.6&z=2016-07-27&g=2016-07-27) jo. [6.3.8.1](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=6&paragraaf=6.3&sub-paragraaf=6.3.8&artikel=6.3.8.1&z=2016-07-27&g=2016-07-27) opnieuw verzamelde meetgegevens inzake al zijn aansluitingen aan de netbeheerder van het landelijk hoogspanningsnet voor 12:00 uur van de tiende werkdag na afloop van het desbetreffende etmaal.
 
 ##### 6.3.8.3
 
-De netbeheerder stuurt de op grond van [6.3.5.7](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=6&paragraaf=6.3&sub-paragraaf=6.3.5&artikel=6.3.5.7&z=2016-05-12&g=2016-05-12) jo. [6.3.8.2](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=6&paragraaf=6.3&sub-paragraaf=6.3.8&artikel=6.3.8.2&z=2016-05-12&g=2016-05-12) opnieuw verzamelde meetgegevens aan de desbetreffende programmaverantwoordelijken voor 12:00 uur van de tiende werkdag na afloop van het desbetreffende etmaal.
+De netbeheerder stuurt de op grond van [6.3.5.7](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=6&paragraaf=6.3&sub-paragraaf=6.3.5&artikel=6.3.5.7&z=2016-07-27&g=2016-07-27) jo. [6.3.8.2](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=6&paragraaf=6.3&sub-paragraaf=6.3.8&artikel=6.3.8.2&z=2016-07-27&g=2016-07-27) opnieuw verzamelde meetgegevens aan de desbetreffende programmaverantwoordelijken voor 12:00 uur van de tiende werkdag na afloop van het desbetreffende etmaal.
 
 ##### 6.3.8.4
 
-Indien de netbeheerder tussen 12:00 en 16:00 uur van de tiende werkdag na de dag van collectie van de meetgegevens van de programmaverantwoordelijke een verzoek zoals bedoeld in [3.7.11 van de Systeemcode elektriciteit](https://wetten.overheid.nl/jci1.3:c:BWBR0037947&artikel=3.7.11) heeft ontvangen, zal de netbeheerder zo mogelijk en nodig de op grond van [6.3.5.6](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=6&paragraaf=6.3&sub-paragraaf=6.3.5&artikel=6.3.5.6&z=2016-05-12&g=2016-05-12) en [6.3.5.7](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=6&paragraaf=6.3&sub-paragraaf=6.3.5&artikel=6.3.5.7&z=2016-05-12&g=2016-05-12) verzamelde meetgegevens aanpassen. Vervolgens worden deze meetgegevens als definitieve meetgegevens diezelfde dag voor 24:00 uur verzonden aan de netbeheerder van het landelijk hoogspanningsnet en aan de desbetreffende programmaverantwoordelijke.
+Indien de netbeheerder tussen 12:00 en 16:00 uur van de tiende werkdag na de dag van collectie van de meetgegevens van de programmaverantwoordelijke een verzoek zoals bedoeld in [3.7.11 van de Systeemcode elektriciteit](https://wetten.overheid.nl/jci1.3:c:BWBR0037947&artikel=3.7.11) heeft ontvangen, zal de netbeheerder zo mogelijk en nodig de op grond van [6.3.5.6](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=6&paragraaf=6.3&sub-paragraaf=6.3.5&artikel=6.3.5.6&z=2016-07-27&g=2016-07-27) en [6.3.5.7](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=6&paragraaf=6.3&sub-paragraaf=6.3.5&artikel=6.3.5.7&z=2016-07-27&g=2016-07-27) verzamelde meetgegevens aanpassen. Vervolgens worden deze meetgegevens als definitieve meetgegevens diezelfde dag voor 24:00 uur verzonden aan de netbeheerder van het landelijk hoogspanningsnet en aan de desbetreffende programmaverantwoordelijke.
 
 #### 6.3.9. Verwerking en overdracht van meetgegevens na reclamatie op de tiende werkdag na afloop van het etmaal
 
 ##### 6.3.9.1
 
-De netbeheerder voert de in [6.3.5.6](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=6&paragraaf=6.3&sub-paragraaf=6.3.5&artikel=6.3.5.6&z=2016-05-12&g=2016-05-12) en [6.3.5.7](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=6&paragraaf=6.3&sub-paragraaf=6.3.5&artikel=6.3.5.7&z=2016-05-12&g=2016-05-12) beschreven acties uit op de opnieuw vastgestelde definitieve meetgegevens.
+De netbeheerder voert de in [6.3.5.6](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=6&paragraaf=6.3&sub-paragraaf=6.3.5&artikel=6.3.5.6&z=2016-07-27&g=2016-07-27) en [6.3.5.7](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=6&paragraaf=6.3&sub-paragraaf=6.3.5&artikel=6.3.5.7&z=2016-07-27&g=2016-07-27) beschreven acties uit op de opnieuw vastgestelde definitieve meetgegevens.
 
 ##### 6.3.9.2
 
-De netbeheerder stuurt onverwijld de naar aanleiding van [6.3.9.1](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=6&paragraaf=6.3&sub-paragraaf=6.3.9&artikel=6.3.9.1&z=2016-05-12&g=2016-05-12) jo. [6.3.5.6](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=6&paragraaf=6.3&sub-paragraaf=6.3.5&artikel=6.3.5.6&z=2016-05-12&g=2016-05-12) verzamelde gegevens inzake al zijn aansluitingen aan de netbeheerder van het landelijk hoogspanningsnet.
+De netbeheerder stuurt onverwijld de naar aanleiding van [6.3.9.1](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=6&paragraaf=6.3&sub-paragraaf=6.3.9&artikel=6.3.9.1&z=2016-07-27&g=2016-07-27) jo. [6.3.5.6](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=6&paragraaf=6.3&sub-paragraaf=6.3.5&artikel=6.3.5.6&z=2016-07-27&g=2016-07-27) verzamelde gegevens inzake al zijn aansluitingen aan de netbeheerder van het landelijk hoogspanningsnet.
 
 ##### 6.3.9.3
 
-De netbeheerder stuurt onverwijld de naar aanleiding van [6.3.9.1](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=6&paragraaf=6.3&sub-paragraaf=6.3.9&artikel=6.3.9.1&z=2016-05-12&g=2016-05-12) jo. [6.3.5.7](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=6&paragraaf=6.3&sub-paragraaf=6.3.5&artikel=6.3.5.7&z=2016-05-12&g=2016-05-12) verzamelde meetgegevens aan de desbetreffende programmaverantwoordelijke.
+De netbeheerder stuurt onverwijld de naar aanleiding van [6.3.9.1](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=6&paragraaf=6.3&sub-paragraaf=6.3.9&artikel=6.3.9.1&z=2016-07-27&g=2016-07-27) jo. [6.3.5.7](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=6&paragraaf=6.3&sub-paragraaf=6.3.5&artikel=6.3.5.7&z=2016-07-27&g=2016-07-27) verzamelde meetgegevens aan de desbetreffende programmaverantwoordelijke.
 
 #### 6.3.10. Overdracht van gegevens in het kader van transport- en systeemdiensten
 
@@ -4314,15 +4314,15 @@ De netbeheerder geeft aan de groen- of wkk-producent de hoeveelheid op het net i
 
 ##### 6.3.11.3
 
-De in [6.3.11.1](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=6&paragraaf=6.3&sub-paragraaf=6.3.11&artikel=6.3.11.1&z=2016-05-12&g=2016-05-12) en [6.3.11.2](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=6&paragraaf=6.3&sub-paragraaf=6.3.11&artikel=6.3.11.2&z=2016-05-12&g=2016-05-12) bedoelde informatieoverdracht vindt voor aansluitingen groter dan 3x80A op laagspanningsniveau steeds plaats op uiterlijk de vijftiende werkdag van de maand na de maand waarop de data betrekking heeft of zoveel vaker als met de aangeslotene is overeengekomen.
+De in [6.3.11.1](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=6&paragraaf=6.3&sub-paragraaf=6.3.11&artikel=6.3.11.1&z=2016-07-27&g=2016-07-27) en [6.3.11.2](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=6&paragraaf=6.3&sub-paragraaf=6.3.11&artikel=6.3.11.2&z=2016-07-27&g=2016-07-27) bedoelde informatieoverdracht vindt voor aansluitingen groter dan 3x80A op laagspanningsniveau steeds plaats op uiterlijk de vijftiende werkdag van de maand na de maand waarop de data betrekking heeft of zoveel vaker als met de aangeslotene is overeengekomen.
 
 ##### 6.3.11.4
 
-De in [6.3.11.1](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=6&paragraaf=6.3&sub-paragraaf=6.3.11&artikel=6.3.11.1&z=2016-05-12&g=2016-05-12) en [6.3.11.2](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=6&paragraaf=6.3&sub-paragraaf=6.3.11&artikel=6.3.11.2&z=2016-05-12&g=2016-05-12) bedoelde informatieoverdracht vindt voor aansluitingen kleiner of gelijk aan 3x80A op laagspanningsniveau éénmaal per jaar op een door de netbeheerder te bepalen tijdstip plaats of zoveel vaker als met de aangeslotene overeengekomen. In dat geval worden de in 6.3.11.1 en 6.3.11.2 bedoelde hoeveelheden verdeeld in twaalf gelijke delen, tenzij betere gegevens over de maandelijkse hoeveelheden beschikbaar zijn.
+De in [6.3.11.1](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=6&paragraaf=6.3&sub-paragraaf=6.3.11&artikel=6.3.11.1&z=2016-07-27&g=2016-07-27) en [6.3.11.2](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=6&paragraaf=6.3&sub-paragraaf=6.3.11&artikel=6.3.11.2&z=2016-07-27&g=2016-07-27) bedoelde informatieoverdracht vindt voor aansluitingen kleiner of gelijk aan 3x80A op laagspanningsniveau éénmaal per jaar op een door de netbeheerder te bepalen tijdstip plaats of zoveel vaker als met de aangeslotene overeengekomen. In dat geval worden de in 6.3.11.1 en 6.3.11.2 bedoelde hoeveelheden verdeeld in twaalf gelijke delen, tenzij betere gegevens over de maandelijkse hoeveelheden beschikbaar zijn.
 
 ##### 6.3.11.5
 
-Indien een aangeslotene met een productie-installatie voor duurzame of wkk-elektriciteit in aanmerking wenst te komen voor garanties van oorsprong respectievelijk wkk-certificaten voor niet-netlevering, zijn de bepalingen [6.3.11.1 tot en met 6.3.11.4](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=6&paragraaf=6.3&sub-paragraaf=6.3.11&artikel=6.3.11.1&z=2016-05-12&g=2016-05-12) van overeenkomstige toepassing op de meetdata die wordt gegenereerd door de meetinrichting bedoeld in [2.1.1, onderdeel c van de Meetcode elektriciteit](https://wetten.overheid.nl/jci1.3:c:BWBR0037946&artikel=2.1.1).
+Indien een aangeslotene met een productie-installatie voor duurzame of wkk-elektriciteit in aanmerking wenst te komen voor garanties van oorsprong respectievelijk wkk-certificaten voor niet-netlevering, zijn de bepalingen [6.3.11.1 tot en met 6.3.11.4](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=6&paragraaf=6.3&sub-paragraaf=6.3.11&artikel=6.3.11.1&z=2016-07-27&g=2016-07-27) van overeenkomstige toepassing op de meetdata die wordt gegenereerd door de meetinrichting bedoeld in [2.1.1, onderdeel c van de Meetcode elektriciteit](https://wetten.overheid.nl/jci1.3:c:BWBR0037946&artikel=2.1.1).
 
 #### 6.3.12. Overdracht van gegevens in het kader van marktfacilitering
 
@@ -4344,7 +4344,7 @@ De netbeheerder geeft per aansluiting met een gecontracteerd transportvermogen g
 
 ##### 6.3.12.5
 
-De netbeheerder dient de meetgegevens als bedoeld in [6.3.12.1 tot en met 6.3.12.3](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=6&paragraaf=6.3&sub-paragraaf=6.3.12&artikel=6.3.12.1&z=2016-05-12&g=2016-05-12), alsmede de meetgegevens die hij ontvangt op grond van [6.2.2](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=6&paragraaf=6.2&sub-paragraaf=6.2.2&z=2016-05-12&g=2016-05-12), gedurende een termijn van tenminste drie jaren beschikbaar te houden. De netbeheerder verstrekt de aangeslotene of diens gemachtigde op verzoek de meetgegevens van de desbetreffende aangeslotene.
+De netbeheerder dient de meetgegevens als bedoeld in [6.3.12.1 tot en met 6.3.12.3](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=6&paragraaf=6.3&sub-paragraaf=6.3.12&artikel=6.3.12.1&z=2016-07-27&g=2016-07-27), alsmede de meetgegevens die hij ontvangt op grond van [6.2.2](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=6&paragraaf=6.2&sub-paragraaf=6.2.2&z=2016-07-27&g=2016-07-27), gedurende een termijn van tenminste drie jaren beschikbaar te houden. De netbeheerder verstrekt de aangeslotene of diens gemachtigde op verzoek de meetgegevens van de desbetreffende aangeslotene.
 
 #### 6.3.13. Bekendmaking van gegevens
 
@@ -4354,19 +4354,19 @@ Iedere werkdag publiceert de netbeheerder van het landelijk hoogspanningsnet op 
 
 ##### 6.3.13.2
 
-Iedere werkdag geven de netbeheerders ten behoeve van de publicatie op grond van [6.3.13.1](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=6&paragraaf=6.3&sub-paragraaf=6.3.13&artikel=6.3.13.1&z=2016-05-12&g=2016-05-12) de meetgegevens per aangeslotene met een opgesteld vermogen van 10 MW of meer per programmatijdseenheid door aan de netbeheerder van het landelijk hoogspanningsnet.
+Iedere werkdag geven de netbeheerders ten behoeve van de publicatie op grond van [6.3.13.1](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=6&paragraaf=6.3&sub-paragraaf=6.3.13&artikel=6.3.13.1&z=2016-07-27&g=2016-07-27) de meetgegevens per aangeslotene met een opgesteld vermogen van 10 MW of meer per programmatijdseenheid door aan de netbeheerder van het landelijk hoogspanningsnet.
 
 ##### 6.3.13.3
 
-De bepalingen [6.3.5.8](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=6&paragraaf=6.3&sub-paragraaf=6.3.5&artikel=6.3.5.8&z=2016-05-12&g=2016-05-12) en [6.3.5.9](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=6&paragraaf=6.3&sub-paragraaf=6.3.5&artikel=6.3.5.9&z=2016-05-12&g=2016-05-12) zijn op overeenkomstige wijze van toepassing op [6.3.12.2](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=6&paragraaf=6.3&sub-paragraaf=6.3.12&artikel=6.3.12.2&z=2016-05-12&g=2016-05-12).
+De bepalingen [6.3.5.8](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=6&paragraaf=6.3&sub-paragraaf=6.3.5&artikel=6.3.5.8&z=2016-07-27&g=2016-07-27) en [6.3.5.9](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=6&paragraaf=6.3&sub-paragraaf=6.3.5&artikel=6.3.5.9&z=2016-07-27&g=2016-07-27) zijn op overeenkomstige wijze van toepassing op [6.3.12.2](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=6&paragraaf=6.3&sub-paragraaf=6.3.12&artikel=6.3.12.2&z=2016-07-27&g=2016-07-27).
 
 ##### 6.3.13.4
 
-De netbeheerder van het landelijk hoogspanningsnet geeft bij de op grond van [6.3.13.1](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=6&paragraaf=6.3&sub-paragraaf=6.3.13&artikel=6.3.13.1&z=2016-05-12&g=2016-05-12) gepubliceerde gegevens aan wat de sommatie is van de geprogrammeerde importen respectievelijk de geprogrammeerde exporten.
+De netbeheerder van het landelijk hoogspanningsnet geeft bij de op grond van [6.3.13.1](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=6&paragraaf=6.3&sub-paragraaf=6.3.13&artikel=6.3.13.1&z=2016-07-27&g=2016-07-27) gepubliceerde gegevens aan wat de sommatie is van de geprogrammeerde importen respectievelijk de geprogrammeerde exporten.
 
 ##### 6.3.13.5
 
-Binnen elf werkdagen na de eerste publicatie maakt de netbeheerder van het landelijk hoogspanningsnet de in [6.3.13.1](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=6&paragraaf=6.3&sub-paragraaf=6.3.13&artikel=6.3.13.1&z=2016-05-12&g=2016-05-12) en [6.3.13.4](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=6&paragraaf=6.3&sub-paragraaf=6.3.13&artikel=6.3.13.4&z=2016-05-12&g=2016-05-12) genoemde data definitief.
+Binnen elf werkdagen na de eerste publicatie maakt de netbeheerder van het landelijk hoogspanningsnet de in [6.3.13.1](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=6&paragraaf=6.3&sub-paragraaf=6.3.13&artikel=6.3.13.1&z=2016-07-27&g=2016-07-27) en [6.3.13.4](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=6&paragraaf=6.3&sub-paragraaf=6.3.13&artikel=6.3.13.4&z=2016-07-27&g=2016-07-27) genoemde data definitief.
 
 #### 6.4. Valideren en vaststellen van meetgegevens gas door de meetverantwoordelijke
 
@@ -4396,15 +4396,15 @@ In geval van een telemetriegrootverbruiker worden de gecollecteerde meetgegevens
 
 ##### 6.4.1.3
 
-Als de meetgegevens niet voldoen aan het in [6.4.1.2, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=6&paragraaf=6.4&sub-paragraaf=6.4.1&artikel=6.4.1.2&z=2016-05-12&g=2016-05-12), genoemde validatiecriterium wordt met de aangeslotene overlegd of het gemeten verbruik overeenkomt met het verbruik dat zou mogen worden verwacht. Indien het gemeten verbruik overeenkomt met het gebruik dat zou mogen worden verwacht, wordt voldaan aan het gestelde in 6.4.1.2, onderdeel d.
+Als de meetgegevens niet voldoen aan het in [6.4.1.2, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=6&paragraaf=6.4&sub-paragraaf=6.4.1&artikel=6.4.1.2&z=2016-07-27&g=2016-07-27), genoemde validatiecriterium wordt met de aangeslotene overlegd of het gemeten verbruik overeenkomt met het verbruik dat zou mogen worden verwacht. Indien het gemeten verbruik overeenkomt met het gebruik dat zou mogen worden verwacht, wordt voldaan aan het gestelde in 6.4.1.2, onderdeel d.
 
 ##### 6.4.1.4
 
-De verzamelde meetgegevens van uurlijks op afstand uitleesbare meetinrichtingen worden direct na het verstrijken van het betreffende klokuur door de meetverantwoordelijke op juistheid gevalideerd aan de hand van de criteria als gesteld in [6.4.1.2, onderdelen b en c](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=6&paragraaf=6.4&sub-paragraaf=6.4.1&artikel=6.4.1.2&z=2016-05-12&g=2016-05-12).
+De verzamelde meetgegevens van uurlijks op afstand uitleesbare meetinrichtingen worden direct na het verstrijken van het betreffende klokuur door de meetverantwoordelijke op juistheid gevalideerd aan de hand van de criteria als gesteld in [6.4.1.2, onderdelen b en c](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=6&paragraaf=6.4&sub-paragraaf=6.4.1&artikel=6.4.1.2&z=2016-07-27&g=2016-07-27).
 
 ##### 6.4.1.5
 
-Indien de gecollecteerde meetgegevens van uurlijks op afstand uitleesbare meetinrichtingen niet voldoen aan de criteria volgens [6.4.1.4](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=6&paragraaf=6.4&sub-paragraaf=6.4.1&artikel=6.4.1.4&z=2016-05-12&g=2016-05-12) worden deze meetgegevens niet verzonden aan het Centraal Systeem Stuursignaal van de netbeheerder van het landelijk gastransportnet.
+Indien de gecollecteerde meetgegevens van uurlijks op afstand uitleesbare meetinrichtingen niet voldoen aan de criteria volgens [6.4.1.4](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=6&paragraaf=6.4&sub-paragraaf=6.4.1&artikel=6.4.1.4&z=2016-07-27&g=2016-07-27) worden deze meetgegevens niet verzonden aan het Centraal Systeem Stuursignaal van de netbeheerder van het landelijk gastransportnet.
 
 ##### 6.4.1.6
 
@@ -4418,15 +4418,15 @@ In geval van een profielgrootverbruiker worden de verzamelde meetgegevens gevali
 
 ##### 6.4.1.7
 
-Indien de meetgegevens genoemd in [6.4.1.6](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=6&paragraaf=6.4&sub-paragraaf=6.4.1&artikel=6.4.1.6&z=2016-05-12&g=2016-05-12) niet voldoen aan de in 6.4.1.6 genoemde validatiecriteria worden de meetgegevens door de meetverantwoordelijke (opnieuw) afgelezen of worden in overleg met de aangeslotene vastgesteld dat het gemeten verbruik overeenkomt met het verbruik dat zou mogen worden verwacht.
+Indien de meetgegevens genoemd in [6.4.1.6](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=6&paragraaf=6.4&sub-paragraaf=6.4.1&artikel=6.4.1.6&z=2016-07-27&g=2016-07-27) niet voldoen aan de in 6.4.1.6 genoemde validatiecriteria worden de meetgegevens door de meetverantwoordelijke (opnieuw) afgelezen of worden in overleg met de aangeslotene vastgesteld dat het gemeten verbruik overeenkomt met het verbruik dat zou mogen worden verwacht.
 
 ##### 6.4.1.8
 
-Indien de meetgegevens bedoeld in [6.4.1.6](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=6&paragraaf=6.4&sub-paragraaf=6.4.1&artikel=6.4.1.6&z=2016-05-12&g=2016-05-12) wel voldoen aan de in 6.4.1.6 genoemde validatiecriteria, worden de meetgegevens door de meetverantwoordelijke vastgesteld.
+Indien de meetgegevens bedoeld in [6.4.1.6](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=6&paragraaf=6.4&sub-paragraaf=6.4.1&artikel=6.4.1.6&z=2016-07-27&g=2016-07-27) wel voldoen aan de in 6.4.1.6 genoemde validatiecriteria, worden de meetgegevens door de meetverantwoordelijke vastgesteld.
 
 ##### 6.4.1.9
 
-De validatie en vaststelling zoals bedoeld in [6.4.1.6](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=6&paragraaf=6.4&sub-paragraaf=6.4.1&artikel=6.4.1.6&z=2016-05-12&g=2016-05-12) en [6.4.1.8](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=6&paragraaf=6.4&sub-paragraaf=6.4.1&artikel=6.4.1.8&z=2016-05-12&g=2016-05-12) vindt plaats uiterlijk de werkdag na de dag van dataverzameling zoals bedoeld in [5.2 van de Meetcode gas RNB](https://wetten.overheid.nl/jci1.3:c:BWBR0037925&paragraaf=5.2).
+De validatie en vaststelling zoals bedoeld in [6.4.1.6](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=6&paragraaf=6.4&sub-paragraaf=6.4.1&artikel=6.4.1.6&z=2016-07-27&g=2016-07-27) en [6.4.1.8](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=6&paragraaf=6.4&sub-paragraaf=6.4.1&artikel=6.4.1.8&z=2016-07-27&g=2016-07-27) vindt plaats uiterlijk de werkdag na de dag van dataverzameling zoals bedoeld in [5.2 van de Meetcode gas RNB](https://wetten.overheid.nl/jci1.3:c:BWBR0037925&paragraaf=5.2).
 
 #### 6.4.2. Overdracht van meetgegevens aan de regionale netbeheerder en het Centraal Systeem Stuursignaal
 
@@ -4436,11 +4436,11 @@ In geval van een telemetriegrootverbruiker bewerkt de meetverantwoordelijke op d
 
 ##### 6.4.2.2
 
-De meetverantwoordelijke verzendt de in [6.4.2.1](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=6&paragraaf=6.4&sub-paragraaf=6.4.2&artikel=6.4.2.1&z=2016-05-12&g=2016-05-12) genoemde meetgegevens aan de regionale netbeheerder overeenkomstig hetgeen daaromtrent in [hoofdstuk 9](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=9&z=2016-05-12&g=2016-05-12) is bepaald.
+De meetverantwoordelijke verzendt de in [6.4.2.1](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=6&paragraaf=6.4&sub-paragraaf=6.4.2&artikel=6.4.2.1&z=2016-07-27&g=2016-07-27) genoemde meetgegevens aan de regionale netbeheerder overeenkomstig hetgeen daaromtrent in [hoofdstuk 9](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=9&z=2016-07-27&g=2016-07-27) is bepaald.
 
 ##### 6.4.2.3
 
-De op grond van [6.4.2.1](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=6&paragraaf=6.4&sub-paragraaf=6.4.2&artikel=6.4.2.1&z=2016-05-12&g=2016-05-12) vastgestelde meetgegevens van een bepaalde gasdag wordt uiterlijk op de vierde werkdag na de gasdag vóór 07:00 uur door de meetverantwoordelijke verzonden aan de regionale netbeheerder.
+De op grond van [6.4.2.1](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=6&paragraaf=6.4&sub-paragraaf=6.4.2&artikel=6.4.2.1&z=2016-07-27&g=2016-07-27) vastgestelde meetgegevens van een bepaalde gasdag wordt uiterlijk op de vierde werkdag na de gasdag vóór 07:00 uur door de meetverantwoordelijke verzonden aan de regionale netbeheerder.
 
 ##### 6.4.2.4
 
@@ -4456,15 +4456,15 @@ Gewijzigde meetgegevens van een telemetriegrootverbruiker van een bepaalde gasma
 
 ##### 6.4.2.7
 
-De meetverantwoordelijke gaat na of de overeenkomstig [6.4.2.5](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=6&paragraaf=6.4&sub-paragraaf=6.4.2&artikel=6.4.2.5&z=2016-05-12&g=2016-05-12) terug ontvangen meetgegevens moet worden gecorrigeerd en zendt de al dan niet gecorrigeerde definitieve meetgegevens uiterlijk op de vijftiende werkdag, van de maand na de maand waarin de desbetreffende gasdag valt, voor 12:00 uur opnieuw aan de regionale netbeheerder.
+De meetverantwoordelijke gaat na of de overeenkomstig [6.4.2.5](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=6&paragraaf=6.4&sub-paragraaf=6.4.2&artikel=6.4.2.5&z=2016-07-27&g=2016-07-27) terug ontvangen meetgegevens moet worden gecorrigeerd en zendt de al dan niet gecorrigeerde definitieve meetgegevens uiterlijk op de vijftiende werkdag, van de maand na de maand waarin de desbetreffende gasdag valt, voor 12:00 uur opnieuw aan de regionale netbeheerder.
 
 ##### 6.4.2.8
 
-Wanneer de in [6.4.2.7](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=6&paragraaf=6.4&sub-paragraaf=6.4.2&artikel=6.4.2.7&z=2016-05-12&g=2016-05-12) bedoelde meetgegevens binnen de in [6.4.2.6](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=6&paragraaf=6.4&sub-paragraaf=6.4.2&artikel=6.4.2.6&z=2016-05-12&g=2016-05-12) genoemde termijn niet opnieuw worden aangeleverd, dan worden deze na de vijftiende werkdag van de maand na de maand waarin de desbetreffende gasdag valt, gebruikt voor de allocatie.
+Wanneer de in [6.4.2.7](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=6&paragraaf=6.4&sub-paragraaf=6.4.2&artikel=6.4.2.7&z=2016-07-27&g=2016-07-27) bedoelde meetgegevens binnen de in [6.4.2.6](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=6&paragraaf=6.4&sub-paragraaf=6.4.2&artikel=6.4.2.6&z=2016-07-27&g=2016-07-27) genoemde termijn niet opnieuw worden aangeleverd, dan worden deze na de vijftiende werkdag van de maand na de maand waarin de desbetreffende gasdag valt, gebruikt voor de allocatie.
 
 ##### 6.4.2.9
 
-De meetverantwoordelijke voert de in [6.4.1](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=6&paragraaf=6.4&sub-paragraaf=6.4.1&z=2016-05-12&g=2016-05-12) bedoelde werkzaamheden voor een uurlijks op afstand uitleesbare meetinrichting uit direct na het verstrijken van een klokuur alvorens de meetgegevens te verzenden aan het Centraal Systeem Stuursignaal van de netbeheerder van het landelijk gastransportnet. De herleide volumes worden hierbij bepaald in normaal kubieke meters [m3(n)] en afgerond op hele waarden.
+De meetverantwoordelijke voert de in [6.4.1](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=6&paragraaf=6.4&sub-paragraaf=6.4.1&z=2016-07-27&g=2016-07-27) bedoelde werkzaamheden voor een uurlijks op afstand uitleesbare meetinrichting uit direct na het verstrijken van een klokuur alvorens de meetgegevens te verzenden aan het Centraal Systeem Stuursignaal van de netbeheerder van het landelijk gastransportnet. De herleide volumes worden hierbij bepaald in normaal kubieke meters [m3(n)] en afgerond op hele waarden.
 
 ##### 6.4.2.10
 
@@ -4472,23 +4472,23 @@ De meetgegevens van uurlijks op afstand uitleesbare meetinrichtingen van een bep
 
 ##### 6.4.2.11
 
-In geval van een profielgrootverbruiker worden de meetgegevens genoemd in [6.4.1.6](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=6&paragraaf=6.4&sub-paragraaf=6.4.1&artikel=6.4.1.6&z=2016-05-12&g=2016-05-12) uiterlijk op de tiende werkdag na de dag van vaststelling zoals bedoeld in [6.4.1.8](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=6&paragraaf=6.4&sub-paragraaf=6.4.1&artikel=6.4.1.8&z=2016-05-12&g=2016-05-12) aan de regionale netbeheerder verstrekt.
+In geval van een profielgrootverbruiker worden de meetgegevens genoemd in [6.4.1.6](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=6&paragraaf=6.4&sub-paragraaf=6.4.1&artikel=6.4.1.6&z=2016-07-27&g=2016-07-27) uiterlijk op de tiende werkdag na de dag van vaststelling zoals bedoeld in [6.4.1.8](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=6&paragraaf=6.4&sub-paragraaf=6.4.1&artikel=6.4.1.8&z=2016-07-27&g=2016-07-27) aan de regionale netbeheerder verstrekt.
 
 ##### 6.4.2.12
 
-Alle op grond van [5.4.3.1](https://wetten.overheid.nl/jci1.3:c:BWBR0037925&artikel=5.4.3.1) of [5.4.3.2 van de Meetcode gas RNB](https://wetten.overheid.nl/jci1.3:c:BWBR0037925&artikel=5.4.3.2) automatisch gerepareerde meetgegevens worden overeenkomstig [6.4.1](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=6&paragraaf=6.4&sub-paragraaf=6.4.1&z=2016-05-12&g=2016-05-12) gevalideerd alvorens als definitief te kunnen worden vastgesteld.
+Alle op grond van [5.4.3.1](https://wetten.overheid.nl/jci1.3:c:BWBR0037925&artikel=5.4.3.1) of [5.4.3.2 van de Meetcode gas RNB](https://wetten.overheid.nl/jci1.3:c:BWBR0037925&artikel=5.4.3.2) automatisch gerepareerde meetgegevens worden overeenkomstig [6.4.1](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=6&paragraaf=6.4&sub-paragraaf=6.4.1&z=2016-07-27&g=2016-07-27) gevalideerd alvorens als definitief te kunnen worden vastgesteld.
 
 ##### 6.4.2.13
 
-Indien onvolledige of onjuiste meetgegevens niet automatisch kunnen worden gerepareerd, verzendt de meetverantwoordelijke nullen dan wel voorlopige waarden aan de regionale netbeheerder en geeft daarbij aan dat er sprake is van niet betrouwbare meetgegevens. De meetgegevens worden binnen de daarvoor in [6.4.2.4](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=6&paragraaf=6.4&sub-paragraaf=6.4.2&artikel=6.4.2.4&z=2016-05-12&g=2016-05-12) vastgestelde periode gerepareerd en als definitieve data verzonden overeenkomstig [6.4.2.2](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=6&paragraaf=6.4&sub-paragraaf=6.4.2&artikel=6.4.2.2&z=2016-05-12&g=2016-05-12).
+Indien onvolledige of onjuiste meetgegevens niet automatisch kunnen worden gerepareerd, verzendt de meetverantwoordelijke nullen dan wel voorlopige waarden aan de regionale netbeheerder en geeft daarbij aan dat er sprake is van niet betrouwbare meetgegevens. De meetgegevens worden binnen de daarvoor in [6.4.2.4](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=6&paragraaf=6.4&sub-paragraaf=6.4.2&artikel=6.4.2.4&z=2016-07-27&g=2016-07-27) vastgestelde periode gerepareerd en als definitieve data verzonden overeenkomstig [6.4.2.2](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=6&paragraaf=6.4&sub-paragraaf=6.4.2&artikel=6.4.2.2&z=2016-07-27&g=2016-07-27).
 
 ##### 6.4.2.14
 
-Voor reparaties welke niet op een van de in [6.4.2.12](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=6&paragraaf=6.4&sub-paragraaf=6.4.2&artikel=6.4.2.12&z=2016-05-12&g=2016-05-12) of [6.4.2.13](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=6&paragraaf=6.4&sub-paragraaf=6.4.2&artikel=6.4.2.13&z=2016-05-12&g=2016-05-12) bedoelde wijzen kunnen worden uitgevoerd, moet in overleg met de aangeslotene, de regionale netbeheerder en de desbetreffende programmaverantwoordelijke een afspraak worden gemaakt over het repareren van de meetgegevens.
+Voor reparaties welke niet op een van de in [6.4.2.12](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=6&paragraaf=6.4&sub-paragraaf=6.4.2&artikel=6.4.2.12&z=2016-07-27&g=2016-07-27) of [6.4.2.13](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=6&paragraaf=6.4&sub-paragraaf=6.4.2&artikel=6.4.2.13&z=2016-07-27&g=2016-07-27) bedoelde wijzen kunnen worden uitgevoerd, moet in overleg met de aangeslotene, de regionale netbeheerder en de desbetreffende programmaverantwoordelijke een afspraak worden gemaakt over het repareren van de meetgegevens.
 
 ##### 6.4.2.15
 
-Alle op grond van [6.4.2.12 tot en met 6.4.2.14](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=6&paragraaf=6.4&sub-paragraaf=6.4.2&artikel=6.4.2.12&z=2016-05-12&g=2016-05-12) gerepareerde meetgegevens worden overeenkomstig [6.4.1](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=6&paragraaf=6.4&sub-paragraaf=6.4.1&z=2016-05-12&g=2016-05-12) gevalideerd alvorens door de meetverantwoordelijke als definitief te kunnen worden vastgesteld.
+Alle op grond van [6.4.2.12 tot en met 6.4.2.14](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=6&paragraaf=6.4&sub-paragraaf=6.4.2&artikel=6.4.2.12&z=2016-07-27&g=2016-07-27) gerepareerde meetgegevens worden overeenkomstig [6.4.1](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=6&paragraaf=6.4&sub-paragraaf=6.4.1&z=2016-07-27&g=2016-07-27) gevalideerd alvorens door de meetverantwoordelijke als definitief te kunnen worden vastgesteld.
 
 ##### 6.4.2.16
 
@@ -4504,7 +4504,7 @@ Indien gedurende de periode tussen de achtste werkdag van de vierde maand na de 
 
 ##### 6.4.2.19
 
-De in [6.4.2.18](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=6&paragraaf=6.4&sub-paragraaf=6.4.2&artikel=6.4.2.18&z=2016-05-12&g=2016-05-12) genoemde correctie wordt binnen vijftien werkdagen na constatering van de onvolkomenheid door de meetverantwoordelijke schriftelijk gemeld aan de aangeslotene, de regionale netbeheerder, de programmaverantwoordelijke en de leverancier. Bij deze melding worden de aard van de onvolkomenheid alsmede de genomen maatregelen vermeld en worden over de (vermoedelijke) periode waarin sprake was van een onvolkomenheid de volgende gegevens verstrekt:
+De in [6.4.2.18](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=6&paragraaf=6.4&sub-paragraaf=6.4.2&artikel=6.4.2.18&z=2016-07-27&g=2016-07-27) genoemde correctie wordt binnen vijftien werkdagen na constatering van de onvolkomenheid door de meetverantwoordelijke schriftelijk gemeld aan de aangeslotene, de regionale netbeheerder, de programmaverantwoordelijke en de leverancier. Bij deze melding worden de aard van de onvolkomenheid alsmede de genomen maatregelen vermeld en worden over de (vermoedelijke) periode waarin sprake was van een onvolkomenheid de volgende gegevens verstrekt:
 
 - a. de oude en nieuwe (geschatte) volumes (per maand);
 
@@ -4514,7 +4514,7 @@ De in [6.4.2.18](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=6&par
 
 ##### 6.4.2.20
 
-Indien ten gevolge van de in [6.4.2.17](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=6&paragraaf=6.4&sub-paragraaf=6.4.2&artikel=6.4.2.17&z=2016-05-12&g=2016-05-12) of [6.4.2.18](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=6&paragraaf=6.4&sub-paragraaf=6.4.2&artikel=6.4.2.18&z=2016-05-12&g=2016-05-12) bedoelde onvolkomenheid de herleidingsfactor afwijkt van de voor deze aansluiting kenmerkende herleidingsfactor, wordt, na het opheffen van de oorzaak, de omrekening van het niet herleide naar het herleide volume gedaan met de historische voor deze aansluiting kenmerkende herleidingsfactor. De herleide verschillen worden door de meetverantwoordelijke aan zowel de aangeslotene als aan de regionale netbeheerder gemeld. Het gecorrigeerd volume wordt door de regionale netbeheerder, met inachtneming van 6.4.2.17 of 6.4.2.18, verwerkt in de reconciliatie.
+Indien ten gevolge van de in [6.4.2.17](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=6&paragraaf=6.4&sub-paragraaf=6.4.2&artikel=6.4.2.17&z=2016-07-27&g=2016-07-27) of [6.4.2.18](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=6&paragraaf=6.4&sub-paragraaf=6.4.2&artikel=6.4.2.18&z=2016-07-27&g=2016-07-27) bedoelde onvolkomenheid de herleidingsfactor afwijkt van de voor deze aansluiting kenmerkende herleidingsfactor, wordt, na het opheffen van de oorzaak, de omrekening van het niet herleide naar het herleide volume gedaan met de historische voor deze aansluiting kenmerkende herleidingsfactor. De herleide verschillen worden door de meetverantwoordelijke aan zowel de aangeslotene als aan de regionale netbeheerder gemeld. Het gecorrigeerd volume wordt door de regionale netbeheerder, met inachtneming van 6.4.2.17 of 6.4.2.18, verwerkt in de reconciliatie.
 
 #### 6.5. Verwerken en distribueren van (meet)gegevens van gasaansluitingen door de regionale netbeheerder
 
@@ -4522,19 +4522,19 @@ Indien ten gevolge van de in [6.4.2.17](https://wetten.overheid.nl/jci1.3:c:BWBR
 
 ##### 6.5.1.1
 
-De regionale netbeheerder maakt bij het vaststellen van de (meet)gegevens die volgens deze paragraaf worden doorgegeven, gebruik van meetgegevens geregistreerd door meetinrichtingen op aansluitingen, die hij op grond van [paragraaf 6.4](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=6&paragraaf=6.4&z=2016-05-12&g=2016-05-12) van deze van de desbetreffende meetverantwoordelijken ontvangt en van de meetgegevens geregistreerd door de meetinrichtingen op de aansluitingen van zijn net met andere netten.
+De regionale netbeheerder maakt bij het vaststellen van de (meet)gegevens die volgens deze paragraaf worden doorgegeven, gebruik van meetgegevens geregistreerd door meetinrichtingen op aansluitingen, die hij op grond van [paragraaf 6.4](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=6&paragraaf=6.4&z=2016-07-27&g=2016-07-27) van deze van de desbetreffende meetverantwoordelijken ontvangt en van de meetgegevens geregistreerd door de meetinrichtingen op de aansluitingen van zijn net met andere netten.
 
 ##### 6.5.1.2
 
-De regionale netbeheerder bewaakt de ontvangst van meetgegevens van aangeslotenen, die hij op grond van [paragraaf 6.4](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=6&paragraaf=6.4&z=2016-05-12&g=2016-05-12) van de desbetreffende meetverantwoordelijken moet ontvangen. Bij geconstateerde tekortkomingen informeert de regionale netbeheerder de meetverantwoordelijke en stelt de meetverantwoordelijke zonodig in gebreke. Indien de meetverantwoordelijke de geconstateerde tekortkomingen niet alsnog opheft, meldt de regionale netbeheerder dit aan de aangeslotene en aan de netbeheerder van het landelijk hoogspanningsnet. Indien dit noodzakelijk is voor de voortgang van de in de [Allocatiecode gas](https://wetten.overheid.nl/jci1.3:c:BWBR0037931) beschreven processen, worden de desbetreffende meetgegevens overeenkomstig [6.5.1.3](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=6&paragraaf=6.5&sub-paragraaf=6.5.1&artikel=6.5.1.3&z=2016-05-12&g=2016-05-12) vastgesteld en geeft de regionale netbeheerder daarbij aan dat er sprake is van overeenkomstig 6.5.1.3 vastgestelde meetgegevens.
+De regionale netbeheerder bewaakt de ontvangst van meetgegevens van aangeslotenen, die hij op grond van [paragraaf 6.4](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=6&paragraaf=6.4&z=2016-07-27&g=2016-07-27) van de desbetreffende meetverantwoordelijken moet ontvangen. Bij geconstateerde tekortkomingen informeert de regionale netbeheerder de meetverantwoordelijke en stelt de meetverantwoordelijke zonodig in gebreke. Indien de meetverantwoordelijke de geconstateerde tekortkomingen niet alsnog opheft, meldt de regionale netbeheerder dit aan de aangeslotene en aan de netbeheerder van het landelijk hoogspanningsnet. Indien dit noodzakelijk is voor de voortgang van de in de [Allocatiecode gas](https://wetten.overheid.nl/jci1.3:c:BWBR0037931) beschreven processen, worden de desbetreffende meetgegevens overeenkomstig [6.5.1.3](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=6&paragraaf=6.5&sub-paragraaf=6.5.1&artikel=6.5.1.3&z=2016-07-27&g=2016-07-27) vastgesteld en geeft de regionale netbeheerder daarbij aan dat er sprake is van overeenkomstig 6.5.1.3 vastgestelde meetgegevens.
 
 ##### 6.5.1.3
 
-De regionale netbeheerder treft, wanneer hij in het geval, bedoeld in [6.5.1.2](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=6&paragraaf=6.5&sub-paragraaf=6.5.1&artikel=6.5.1.2&z=2016-05-12&g=2016-05-12), niet in staat is definitieve meetgegevens aan de beheerder van het landelijk gastransportnet te verstrekken, met de desbetreffende meetverantwoordelijke en de programmaverantwoordelijke die het aangaat een regeling omtrent de te gebruiken meetgegevens. Deze meetgegevens worden geacht definitief te zijn en worden aan de desbetreffende programmaverantwoordelijke en aan de beheerder van het landelijk gastransportnet verstrekt.
+De regionale netbeheerder treft, wanneer hij in het geval, bedoeld in [6.5.1.2](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=6&paragraaf=6.5&sub-paragraaf=6.5.1&artikel=6.5.1.2&z=2016-07-27&g=2016-07-27), niet in staat is definitieve meetgegevens aan de beheerder van het landelijk gastransportnet te verstrekken, met de desbetreffende meetverantwoordelijke en de programmaverantwoordelijke die het aangaat een regeling omtrent de te gebruiken meetgegevens. Deze meetgegevens worden geacht definitief te zijn en worden aan de desbetreffende programmaverantwoordelijke en aan de beheerder van het landelijk gastransportnet verstrekt.
 
 ##### 6.5.1.4
 
-De regionale netbeheerder bepaalt de hoeveelheid energie uit het aantal normaal kubieke meters [m3(n)] volume) dat hij op grond van [paragraaf 6.4](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=6&paragraaf=6.4&z=2016-05-12&g=2016-05-12) van deze van de desbetreffende meetverantwoordelijken ontvangt en de calorische bovenwaarde van het gas die:
+De regionale netbeheerder bepaalt de hoeveelheid energie uit het aantal normaal kubieke meters [m3(n)] volume) dat hij op grond van [paragraaf 6.4](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=6&paragraaf=6.4&z=2016-07-27&g=2016-07-27) van deze van de desbetreffende meetverantwoordelijken ontvangt en de calorische bovenwaarde van het gas die:
 
 - a. door de beheerder van het landelijk gastransportnet aan de regionale netbeheerder wordt aangeleverd of
 
@@ -4552,7 +4552,7 @@ De regionale netbeheerder geeft per telemetriegrootverbruikaansluiting maandelij
 
 ##### 6.5.2.3
 
-De regionale netbeheerder houdt de gegevens als bedoeld in [6.5.2.1](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=6&paragraaf=6.5&sub-paragraaf=6.5.2&artikel=6.5.2.1&z=2016-05-12&g=2016-05-12) en [6.5.2.2](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=6&paragraaf=6.5&sub-paragraaf=6.5.2&artikel=6.5.2.2&z=2016-05-12&g=2016-05-12), alsmede de gegevens die hij ontvangt op grond van [6.4.2](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=6&paragraaf=6.4&sub-paragraaf=6.4.2&z=2016-05-12&g=2016-05-12) gedurende een termijn van ten minste drie jaar beschikbaar. De regionale netbeheerder verstrekt de aangeslotene of diens gemachtigde op verzoek de gegevens van de desbetreffende aangeslotene.
+De regionale netbeheerder houdt de gegevens als bedoeld in [6.5.2.1](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=6&paragraaf=6.5&sub-paragraaf=6.5.2&artikel=6.5.2.1&z=2016-07-27&g=2016-07-27) en [6.5.2.2](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=6&paragraaf=6.5&sub-paragraaf=6.5.2&artikel=6.5.2.2&z=2016-07-27&g=2016-07-27), alsmede de gegevens die hij ontvangt op grond van [6.4.2](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=6&paragraaf=6.4&sub-paragraaf=6.4.2&z=2016-07-27&g=2016-07-27) gedurende een termijn van ten minste drie jaar beschikbaar. De regionale netbeheerder verstrekt de aangeslotene of diens gemachtigde op verzoek de gegevens van de desbetreffende aangeslotene.
 
 #### 6.6. Bepalen standaardjaarverbruik van profielgrootverbruikaansluitingen
 
@@ -4560,9 +4560,9 @@ De regionale netbeheerder houdt de gegevens als bedoeld in [6.5.2.1](https://wet
 
 De netbeheerder berekent een standaardjaarverbruik voor de profielgrootverbruikaansluitingen binnen zijn netgebied overeenkomstig de methode beschreven in:
 
-- a. [Bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&bijlage=1&z=2016-05-12&g=2016-05-12) voor de grootverbruikaansluitingen elektriciteit;
+- a. [Bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&bijlage=1&z=2016-07-27&g=2016-07-27) voor de grootverbruikaansluitingen elektriciteit;
 
-- b. [Bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&bijlage=3&z=2016-05-12&g=2016-05-12) voor de grootverbruikaansluitingen gas.
+- b. [Bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&bijlage=3&z=2016-07-27&g=2016-07-27) voor de grootverbruikaansluitingen gas.
 
 ##### 6.6.2
 
@@ -4570,7 +4570,7 @@ De netbeheerder muteert het aansluitingenregister met het nieuw bepaalde standaa
 
 ##### 6.6.3
 
-De marktpartijen worden overeenkomstig [2.2](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=2&paragraaf=2.2&z=2016-05-12&g=2016-05-12) geïnformeerd over wijzigingen in het aansluitingenregister.
+De marktpartijen worden overeenkomstig [2.2](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=2&paragraaf=2.2&z=2016-07-27&g=2016-07-27) geïnformeerd over wijzigingen in het aansluitingenregister.
 
 #### 6.7. Opvragen historische meetgegevens
 
@@ -4608,7 +4608,7 @@ Naar aanleiding van de ontvangen opvraag historische meetgegevens controleert de
 
 ##### 6.7.3
 
-De netbeheerder bericht dat de opvraag historische meetgegevens niet wordt uitgevoerd uiterlijk vijf werkdagen na ontvangst van de opvraag historische meetgegevens aan de opvragende leverancier of programmaverantwoordelijke, indien één of meer van de controles, bedoeld in [6.7.2](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=6&paragraaf=6.7&artikel=6.7.2&z=2016-05-12&g=2016-05-12), een negatief resultaat opleveren, en vermeldt daarbij:
+De netbeheerder bericht dat de opvraag historische meetgegevens niet wordt uitgevoerd uiterlijk vijf werkdagen na ontvangst van de opvraag historische meetgegevens aan de opvragende leverancier of programmaverantwoordelijke, indien één of meer van de controles, bedoeld in [6.7.2](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=6&paragraaf=6.7&artikel=6.7.2&z=2016-07-27&g=2016-07-27), een negatief resultaat opleveren, en vermeldt daarbij:
 
 - a. de EAN-code van de aansluiting;
 
@@ -4632,7 +4632,7 @@ De netbeheerder bericht dat de opvraag historische meetgegevens niet wordt uitge
 
 ##### 6.7.4
 
-De netbeheerder verstuurt de opgevraagde historische meetgegevens zo snel mogelijk doch uiterlijk vijf werkdagen na ontvangst van de opvraag historische meetgegevens aan de opvragende leverancier of programmaverantwoordelijke als alle controles, bedoeld in [6.7.2](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=6&paragraaf=6.7&artikel=6.7.2&z=2016-05-12&g=2016-05-12), een positief resultaat opleveren en vermeldt daarbij:
+De netbeheerder verstuurt de opgevraagde historische meetgegevens zo snel mogelijk doch uiterlijk vijf werkdagen na ontvangst van de opvraag historische meetgegevens aan de opvragende leverancier of programmaverantwoordelijke als alle controles, bedoeld in [6.7.2](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=6&paragraaf=6.7&artikel=6.7.2&z=2016-07-27&g=2016-07-27), een positief resultaat opleveren en vermeldt daarbij:
 
 - a. de EAN-code van de aansluiting;
 
@@ -4656,15 +4656,15 @@ De netbeheerder berekent een jaarverbruik voor de telemetriegrootverbruikaanslui
 
 ##### 6.8.2
 
-Voor het berekenen van het jaarverbruik gebruikt de netbeheerder als grondslag de gegevens als bedoeld [6.5.2.2](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=6&paragraaf=6.5&sub-paragraaf=6.5.2&artikel=6.5.2.2&z=2016-05-12&g=2016-05-12), uitgedrukt in [m3(n;35,17)]; hij gebruikt hiervoor de meest recente gegevens van de voorbije maanden met dien verstande dat de totale verbruiksperiode minstens 300 dagen beslaat, en de maanden januari en februari insluit.
+Voor het berekenen van het jaarverbruik gebruikt de netbeheerder als grondslag de gegevens als bedoeld [6.5.2.2](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=6&paragraaf=6.5&sub-paragraaf=6.5.2&artikel=6.5.2.2&z=2016-07-27&g=2016-07-27), uitgedrukt in [m3(n;35,17)]; hij gebruikt hiervoor de meest recente gegevens van de voorbije maanden met dien verstande dat de totale verbruiksperiode minstens 300 dagen beslaat, en de maanden januari en februari insluit.
 
 ##### 6.8.3
 
-De netbeheerder muteert het aansluitingenregister met het nieuw bepaalde jaarverbruik uiterlijk vijf werkdagen na overdracht van de meetgegevens bedoeld in [6.5.2.2](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=6&paragraaf=6.5&sub-paragraaf=6.5.2&artikel=6.5.2.2&z=2016-05-12&g=2016-05-12).
+De netbeheerder muteert het aansluitingenregister met het nieuw bepaalde jaarverbruik uiterlijk vijf werkdagen na overdracht van de meetgegevens bedoeld in [6.5.2.2](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=6&paragraaf=6.5&sub-paragraaf=6.5.2&artikel=6.5.2.2&z=2016-07-27&g=2016-07-27).
 
 ##### 6.8.4
 
-De marktpartijen worden overeenkomstig [2.2](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=2&paragraaf=2.2&z=2016-05-12&g=2016-05-12) geïnformeerd over wijzigingen in het aansluitingenregister.
+De marktpartijen worden overeenkomstig [2.2](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=2&paragraaf=2.2&z=2016-07-27&g=2016-07-27) geïnformeerd over wijzigingen in het aansluitingenregister.
 
 ### 7. Allocatie en reconciliatie
 
@@ -4704,19 +4704,19 @@ De regionale netbeheerder stelt de leverancier in staat om, indien de aangeslote
 
 ##### 8.1.3
 
-De leverancier toont tot twee jaar na beëindiging van de leveringsovereenkomst op een gemotiveerd verzoek van de regionale netbeheerder op welke wijze aan de informatieverplichting, bedoeld in [8.1.1](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=8&paragraaf=8.1&artikel=8.1.1&z=2016-05-12&g=2016-05-12) en [8.1.2](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=8&paragraaf=8.1&artikel=8.1.2&z=2016-05-12&g=2016-05-12) is voldaan.
+De leverancier toont tot twee jaar na beëindiging van de leveringsovereenkomst op een gemotiveerd verzoek van de regionale netbeheerder op welke wijze aan de informatieverplichting, bedoeld in [8.1.1](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=8&paragraaf=8.1&artikel=8.1.1&z=2016-07-27&g=2016-07-27) en [8.1.2](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=8&paragraaf=8.1&artikel=8.1.2&z=2016-07-27&g=2016-07-27) is voldaan.
 
 ##### 8.1.4
 
-De regionale netbeheerder stuurt wijzigingen in zijn aansluit- en transportovereenkomst, de algemene voorwaarden voor de aansluiting en transport gas voor aangeslotenen of de algemene voorwaarden voor de aansluiting en transport elektriciteit voor aangeslotenen met een toelichting ten minste één maand vóór inwerkingtreding hiervan aan de leverancier. In afwijking van [paragraaf 9.1](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=9&paragraaf=9.1&z=2016-05-12&g=2016-05-12) vindt deze informatie-uitwisseling niet plaats via het geautomatiseerde berichtenverkeer.
+De regionale netbeheerder stuurt wijzigingen in zijn aansluit- en transportovereenkomst, de algemene voorwaarden voor de aansluiting en transport gas voor aangeslotenen of de algemene voorwaarden voor de aansluiting en transport elektriciteit voor aangeslotenen met een toelichting ten minste één maand vóór inwerkingtreding hiervan aan de leverancier. In afwijking van [paragraaf 9.1](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=9&paragraaf=9.1&z=2016-07-27&g=2016-07-27) vindt deze informatie-uitwisseling niet plaats via het geautomatiseerde berichtenverkeer.
 
 ##### 8.1.5
 
-De leverancier bevestigt de ontvangst van wijzigingen in de aansluit- en transportovereenkomst, de algemene voorwaarden voor de aansluiting en transport gas voor aangeslotenen of de algemene voorwaarden voor de aansluiting en transport elektriciteit voor aangeslotenen uiterlijk de werkdag na ontvangst van de wijziging aan de regionale netbeheerder. In afwijking van [paragraaf 9.1](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=9&paragraaf=9.1&z=2016-05-12&g=2016-05-12) vindt deze informatie-uitwisseling niet plaats via het geautomatiseerde berichtenverkeer.
+De leverancier bevestigt de ontvangst van wijzigingen in de aansluit- en transportovereenkomst, de algemene voorwaarden voor de aansluiting en transport gas voor aangeslotenen of de algemene voorwaarden voor de aansluiting en transport elektriciteit voor aangeslotenen uiterlijk de werkdag na ontvangst van de wijziging aan de regionale netbeheerder. In afwijking van [paragraaf 9.1](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=9&paragraaf=9.1&z=2016-07-27&g=2016-07-27) vindt deze informatie-uitwisseling niet plaats via het geautomatiseerde berichtenverkeer.
 
 ##### 8.1.6
 
-De regionale netbeheerder bepaalt het tarief per dag met vier decimalen achter de komma voor de nettarieven, bedoeld in [B4.1](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&bijlage=4&z=2016-05-12&g=2016-05-12).
+De regionale netbeheerder bepaalt het tarief per dag met vier decimalen achter de komma voor de nettarieven, bedoeld in [B4.1](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&bijlage=4&z=2016-07-27&g=2016-07-27).
 
 ##### 8.1.7
 
@@ -4742,19 +4742,19 @@ De regionale netbeheerder stuurt voor elk van zijn fiscale entiteiten uiterlijk 
 
 - c. de bedrijfs-EAN-code van de leverancier waarop de specificatie van de verplichting betrekking heeft;
 
-- d. het totale bedrag (exclusief BTW) dat de betreffende leverancier volgens het aansluitingenregister over de maand, bedoeld in [8.2.1 onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=8&paragraaf=8.2&artikel=8.2.1&z=2016-05-12&g=2016-05-12), geacht wordt te factureren en moet afdragen;
+- d. het totale bedrag (exclusief BTW) dat de betreffende leverancier volgens het aansluitingenregister over de maand, bedoeld in [8.2.1 onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=8&paragraaf=8.2&artikel=8.2.1&z=2016-07-27&g=2016-07-27), geacht wordt te factureren en moet afdragen;
 
-- e. per aansluiting waarvoor de betreffende leverancier in de maand, bedoeld in [8.2.1 onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=8&paragraaf=8.2&artikel=8.2.1&z=2016-05-12&g=2016-05-12), in het aansluitingenregister staat per capaciteitstariefcode:
+- e. per aansluiting waarvoor de betreffende leverancier in de maand, bedoeld in [8.2.1 onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=8&paragraaf=8.2&artikel=8.2.1&z=2016-07-27&g=2016-07-27), in het aansluitingenregister staat per capaciteitstariefcode:
 
 - 1°. de EAN-code van de aansluiting;
 
 - 2°. de capaciteitstariefcode;
 
-- 3°. het aantal dagen dat de betreffende leverancier in de maand, bedoeld in [8.2.1 onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=8&paragraaf=8.2&artikel=8.2.1&z=2016-05-12&g=2016-05-12), op de betreffende aansluiting met de betreffende capaciteitstariefcode en met de fysieke status actief in het aansluitingenregister stond;
+- 3°. het aantal dagen dat de betreffende leverancier in de maand, bedoeld in [8.2.1 onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=8&paragraaf=8.2&artikel=8.2.1&z=2016-07-27&g=2016-07-27), op de betreffende aansluiting met de betreffende capaciteitstariefcode en met de fysieke status actief in het aansluitingenregister stond;
 
 - 4°. het bijbehorende nettarief per dag (exclusief BTW);
 
-- 5°. het bijbehorende totaalbedrag voor de maand, bedoeld in [8.2.1 onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=8&paragraaf=8.2&artikel=8.2.1&z=2016-05-12&g=2016-05-12), (exclusief BTW).
+- 5°. het bijbehorende totaalbedrag voor de maand, bedoeld in [8.2.1 onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=8&paragraaf=8.2&artikel=8.2.1&z=2016-07-27&g=2016-07-27), (exclusief BTW).
 
 ##### 8.2.2
 
@@ -4778,7 +4778,7 @@ De regionale netbeheerder stuurt voor elk van zijn fiscale entiteiten uiterlijk 
 
 ##### 8.2.7
 
-De regionale netbeheerders en een representatief deel van de leveranciers stellen jaarlijks gezamenlijk een kalender op om te voldoen aan de termijn, bedoeld in [8.2.1](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=8&paragraaf=8.2&artikel=8.2.1&z=2016-05-12&g=2016-05-12).
+De regionale netbeheerders en een representatief deel van de leveranciers stellen jaarlijks gezamenlijk een kalender op om te voldoen aan de termijn, bedoeld in [8.2.1](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=8&paragraaf=8.2&artikel=8.2.1&z=2016-07-27&g=2016-07-27).
 
 #### 8.3. Administratieve bepalingen
 
@@ -4788,7 +4788,7 @@ De leverancier houdt voor de regionale netbeheerder een factuur- en BTW-administ
 
 ##### 8.3.2
 
-De leverancier verstrekt de factuur- en BTW-administratie, bedoeld in [8.3.1](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=8&paragraaf=8.3&artikel=8.3.1&z=2016-05-12&g=2016-05-12), onverwijld aan de regionale netbeheerder indien de Belastingdienst de regionale netbeheerder hierom verzoekt.
+De leverancier verstrekt de factuur- en BTW-administratie, bedoeld in [8.3.1](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=8&paragraaf=8.3&artikel=8.3.1&z=2016-07-27&g=2016-07-27), onverwijld aan de regionale netbeheerder indien de Belastingdienst de regionale netbeheerder hierom verzoekt.
 
 ##### 8.3.3
 
@@ -4796,7 +4796,7 @@ Ingeval de leverancier ten aanzien van de betreffende nettarieven een bijzonder 
 
 ##### 8.3.4
 
-Het verzoek als bedoeld in [8.3.3](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=8&paragraaf=8.3&artikel=8.3.3&z=2016-05-12&g=2016-05-12). verzendt de leverancier uiterlijk in de maand februari, volgend op het kalenderjaar waarop het verzoek betrekking heeft, en bevat de volgende gegevens:
+Het verzoek als bedoeld in [8.3.3](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=8&paragraaf=8.3&artikel=8.3.3&z=2016-07-27&g=2016-07-27). verzendt de leverancier uiterlijk in de maand februari, volgend op het kalenderjaar waarop het verzoek betrekking heeft, en bevat de volgende gegevens:
 
 - a. de EAN-code van de betreffende aansluiting;
 
@@ -4818,11 +4818,11 @@ Het verzoek als bedoeld in [8.3.3](https://wetten.overheid.nl/jci1.3:c:BWBR00379
 
 ##### 8.3.5
 
-Naar aanleiding van het in [8.3.3](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=8&paragraaf=8.3&artikel=8.3.3&z=2016-05-12&g=2016-05-12) bedoelde verzoek zal de netbeheerder het te verrekenen BTW-bedrag uiterlijk 28 maart van het desbetreffende kalenderjaar overboeken.
+Naar aanleiding van het in [8.3.3](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=8&paragraaf=8.3&artikel=8.3.3&z=2016-07-27&g=2016-07-27) bedoelde verzoek zal de netbeheerder het te verrekenen BTW-bedrag uiterlijk 28 maart van het desbetreffende kalenderjaar overboeken.
 
 ##### 8.3.6
 
-In afwijking van het bepaalde in [paragraaf 9.1](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=9&paragraaf=9.1&z=2016-05-12&g=2016-05-12) vindt de gegevensuitwisseling als bedoeld in [8.3.3](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=8&paragraaf=8.3&artikel=8.3.3&z=2016-05-12&g=2016-05-12) en [8.3.4](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=8&paragraaf=8.3&artikel=8.3.4&z=2016-05-12&g=2016-05-12) niet plaats via het geautomatiseerde berichtenverkeer.
+In afwijking van het bepaalde in [paragraaf 9.1](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=9&paragraaf=9.1&z=2016-07-27&g=2016-07-27) vindt de gegevensuitwisseling als bedoeld in [8.3.3](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=8&paragraaf=8.3&artikel=8.3.3&z=2016-07-27&g=2016-07-27) en [8.3.4](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=8&paragraaf=8.3&artikel=8.3.4&z=2016-07-27&g=2016-07-27) niet plaats via het geautomatiseerde berichtenverkeer.
 
 ### 9. Berichtenverkeer
 
@@ -4830,11 +4830,11 @@ In afwijking van het bepaalde in [paragraaf 9.1](https://wetten.overheid.nl/jci1
 
 ##### 9.1.1
 
-De netbeheerders en een representatief deel van de leveranciers, de programmaverantwoordelijken en de meetverantwoordelijken organiseren gezamenlijk een overlegplatform, waarin regels worden vastgesteld met betrekking tot de elektronische uitwisseling van gegevens, bedoeld in artikel 6 van de regeling, bedoeld in [artikelen 53](https://wetten.overheid.nl/jci1.3:c:BWBR0009755&artikel=53) en [95cb, zesde lid, van de Elektriciteitswet 1998](https://wetten.overheid.nl/jci1.3:c:BWBR0009755&artikel=95cb) en [artikelen 21](https://wetten.overheid.nl/jci1.3:c:BWBR0011440&artikel=21) en [44b, zesde lid, van de Gaswet](https://wetten.overheid.nl/jci1.3:c:BWBR0011440&artikel=44b) met uitzondering van [hoofdstuk 7](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=7&z=2016-05-12&g=2016-05-12) van deze regeling.
+De netbeheerders en een representatief deel van de leveranciers, de programmaverantwoordelijken en de meetverantwoordelijken organiseren gezamenlijk een overlegplatform, waarin regels worden vastgesteld met betrekking tot de elektronische uitwisseling van gegevens, bedoeld in artikel 6 van de regeling, bedoeld in [artikelen 53](https://wetten.overheid.nl/jci1.3:c:BWBR0009755&artikel=53) en [95cb, zesde lid, van de Elektriciteitswet 1998](https://wetten.overheid.nl/jci1.3:c:BWBR0009755&artikel=95cb) en [artikelen 21](https://wetten.overheid.nl/jci1.3:c:BWBR0011440&artikel=21) en [44b, zesde lid, van de Gaswet](https://wetten.overheid.nl/jci1.3:c:BWBR0011440&artikel=44b) met uitzondering van [hoofdstuk 7](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=7&z=2016-07-27&g=2016-07-27) van deze regeling.
 
 ##### 9.1.2
 
-Het overlegplatform, bedoeld in [9.1.1](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=9&paragraaf=9.1&artikel=9.1.1&z=2016-05-12&g=2016-05-12), stelt regels omtrent:
+Het overlegplatform, bedoeld in [9.1.1](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=9&paragraaf=9.1&artikel=9.1.1&z=2016-07-27&g=2016-07-27), stelt regels omtrent:
 
 - a. procedures en specificaties van de te gebruiken centrale communicatiesystemen voor de geautomatiseerde berichtenuitwisseling;
 
@@ -4852,41 +4852,41 @@ Het in [paragraaf 3.8](https://wetten.overheid.nl/jci1.3:c:BWBR0037947&paragraaf
 
 ##### 9.1.5
 
-De uitvoeringsorganisatie, bedoeld in [9.1.3](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=9&paragraaf=9.1&artikel=9.1.3&z=2016-05-12&g=2016-05-12), organiseert bij wijziging van de procedures, specificaties, berichtspecificaties of communicatieprotocollen, bedoeld in [9.1.2](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=9&paragraaf=9.1&artikel=9.1.2&z=2016-05-12&g=2016-05-12), een test waarbij partijen die aantoonbaar voldoen aan de betreffende procedures, specificaties, berichtspecificaties of communicatieprotocollen een verklaring ontvangen dat de test succesvol is doorlopen.
+De uitvoeringsorganisatie, bedoeld in [9.1.3](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=9&paragraaf=9.1&artikel=9.1.3&z=2016-07-27&g=2016-07-27), organiseert bij wijziging van de procedures, specificaties, berichtspecificaties of communicatieprotocollen, bedoeld in [9.1.2](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=9&paragraaf=9.1&artikel=9.1.2&z=2016-07-27&g=2016-07-27), een test waarbij partijen die aantoonbaar voldoen aan de betreffende procedures, specificaties, berichtspecificaties of communicatieprotocollen een verklaring ontvangen dat de test succesvol is doorlopen.
 
 ##### 9.1.6
 
-Het is een gebruiker van de centrale communicatiesystemen slechts toegestaan een bericht uit te wisselen, als die gebruiker voor het betreffende bericht in bezit is van de verklaring, bedoeld in [9.1.5](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=9&paragraaf=9.1&artikel=9.1.5&z=2016-05-12&g=2016-05-12).
+Het is een gebruiker van de centrale communicatiesystemen slechts toegestaan een bericht uit te wisselen, als die gebruiker voor het betreffende bericht in bezit is van de verklaring, bedoeld in [9.1.5](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=9&paragraaf=9.1&artikel=9.1.5&z=2016-07-27&g=2016-07-27).
 
 ##### 9.1.7
 
-De uitvoeringsorganisatie, bedoeld in [9.1.3](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=9&paragraaf=9.1&artikel=9.1.3&z=2016-05-12&g=2016-05-12), zal de toegang van een gebruiker tot de centrale systemen weigeren indien:
+De uitvoeringsorganisatie, bedoeld in [9.1.3](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=9&paragraaf=9.1&artikel=9.1.3&z=2016-07-27&g=2016-07-27), zal de toegang van een gebruiker tot de centrale systemen weigeren indien:
 
-- a. een gebruiker van de centrale communicatiesystemen niet beschikt over de verklaring, bedoeld in [9.1.5](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=9&paragraaf=9.1&artikel=9.1.5&z=2016-05-12&g=2016-05-12);
+- a. een gebruiker van de centrale communicatiesystemen niet beschikt over de verklaring, bedoeld in [9.1.5](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=9&paragraaf=9.1&artikel=9.1.5&z=2016-07-27&g=2016-07-27);
 
-- b. een gebruiker van de centrale communicatiesystemen, na daartoe uitgenodigd door de uitvoeringsorganisatie, bedoeld in [9.1.3](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=9&paragraaf=9.1&artikel=9.1.3&z=2016-05-12&g=2016-05-12), niet onverwijld een test aanvraagt;
+- b. een gebruiker van de centrale communicatiesystemen, na daartoe uitgenodigd door de uitvoeringsorganisatie, bedoeld in [9.1.3](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=9&paragraaf=9.1&artikel=9.1.3&z=2016-07-27&g=2016-07-27), niet onverwijld een test aanvraagt;
 
-- c. een gebruiker binnen twee weken na de uitnodiging, bedoeld in [9.1.7 onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=9&paragraaf=9.1&artikel=9.1.7&z=2016-05-12&g=2016-05-12), nog niet de in [9.1.5](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=9&paragraaf=9.1&artikel=9.1.5&z=2016-05-12&g=2016-05-12) bedoelde verklaring in het bezit heeft;
+- c. een gebruiker binnen twee weken na de uitnodiging, bedoeld in [9.1.7 onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=9&paragraaf=9.1&artikel=9.1.7&z=2016-07-27&g=2016-07-27), nog niet de in [9.1.5](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=9&paragraaf=9.1&artikel=9.1.5&z=2016-07-27&g=2016-07-27) bedoelde verklaring in het bezit heeft;
 
-- d. een gebruiker uit eigen beweging de verklaring, bedoeld in [9.1.5](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=9&paragraaf=9.1&artikel=9.1.5&z=2016-05-12&g=2016-05-12), inlevert bij de uitvoeringsorganisatie, bedoeld in [9.1.3](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=9&paragraaf=9.1&artikel=9.1.3&z=2016-05-12&g=2016-05-12);
+- d. een gebruiker uit eigen beweging de verklaring, bedoeld in [9.1.5](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=9&paragraaf=9.1&artikel=9.1.5&z=2016-07-27&g=2016-07-27), inlevert bij de uitvoeringsorganisatie, bedoeld in [9.1.3](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=9&paragraaf=9.1&artikel=9.1.3&z=2016-07-27&g=2016-07-27);
 
-- e. de verklaring, bedoeld in [9.1.5](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=9&paragraaf=9.1&artikel=9.1.5&z=2016-05-12&g=2016-05-12), vanuit beveiligingsoverwegingen wordt ingetrokken.
+- e. de verklaring, bedoeld in [9.1.5](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=9&paragraaf=9.1&artikel=9.1.5&z=2016-07-27&g=2016-07-27), vanuit beveiligingsoverwegingen wordt ingetrokken.
 
 ##### 9.1.8
 
-Onverminderd het bepaalde in [artikel 9.1.1](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=9&paragraaf=9.1&artikel=9.1.1&z=2016-05-12&g=2016-05-12) stelt de uitvoeringsorganisatie, bedoeld in [9.1.3](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=9&paragraaf=9.1&artikel=9.1.3&z=2016-05-12&g=2016-05-12), het elektronische berichtenverkeer, bedoeld in [9.1.2](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=9&paragraaf=9.1&artikel=9.1.2&z=2016-05-12&g=2016-05-12), open voor berichtenverkeer ten behoeve van gesloten distributiesystemen die voldoen aan de voorwaarden genoemd in [artikel 2.7.5 van de Netcode elektriciteit](https://wetten.overheid.nl/jci1.3:c:BWBR0037940&artikel=2.7.5). Daarbij stelt de uitvoeringsorganisatie de beheerder van het desbetreffende gesloten distributiesysteem op de hoogte van de in artikel 9.1.2 bedoelde regels door toezending daarvan.
+Onverminderd het bepaalde in [artikel 9.1.1](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=9&paragraaf=9.1&artikel=9.1.1&z=2016-07-27&g=2016-07-27) stelt de uitvoeringsorganisatie, bedoeld in [9.1.3](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=9&paragraaf=9.1&artikel=9.1.3&z=2016-07-27&g=2016-07-27), het elektronische berichtenverkeer, bedoeld in [9.1.2](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=9&paragraaf=9.1&artikel=9.1.2&z=2016-07-27&g=2016-07-27), open voor berichtenverkeer ten behoeve van gesloten distributiesystemen die voldoen aan de voorwaarden genoemd in [artikel 2.7.5 van de Netcode elektriciteit](https://wetten.overheid.nl/jci1.3:c:BWBR0037940&artikel=2.7.5). Daarbij stelt de uitvoeringsorganisatie de beheerder van het desbetreffende gesloten distributiesysteem op de hoogte van de in artikel 9.1.2 bedoelde regels door toezending daarvan.
 
 ##### 9.1.9
 
-Alvorens de uitvoeringsorganisatie, bedoeld in [artikel 9.1.3](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=9&paragraaf=9.1&artikel=9.1.3&z=2016-05-12&g=2016-05-12), het elektronische berichtenverkeer, bedoeld in [9.1.2](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=9&paragraaf=9.1&artikel=9.1.2&z=2016-05-12&g=2016-05-12), open stelt voor de beheerder van een gesloten distributiesysteem, verstrekt de beheerder van het gesloten distributiesysteem een afschrift van de aan hem krachtens artikel 15, tweede lid, van de Wet verleende ontheffing aan de uitvoeringsorganisatie.
+Alvorens de uitvoeringsorganisatie, bedoeld in [artikel 9.1.3](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=9&paragraaf=9.1&artikel=9.1.3&z=2016-07-27&g=2016-07-27), het elektronische berichtenverkeer, bedoeld in [9.1.2](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=9&paragraaf=9.1&artikel=9.1.2&z=2016-07-27&g=2016-07-27), open stelt voor de beheerder van een gesloten distributiesysteem, verstrekt de beheerder van het gesloten distributiesysteem een afschrift van de aan hem krachtens artikel 15, tweede lid, van de Wet verleende ontheffing aan de uitvoeringsorganisatie.
 
 ##### 9.1.10
 
-Indien een ontheffing op grond van artikel 15, tweede lid, van de Wet vervalt, dan wel ingetrokken wordt, stelt de Autoriteit Consument en Markt de uitvoeringsorganisatie, bedoeld in [9.1.3](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=9&paragraaf=9.1&artikel=9.1.3&z=2016-05-12&g=2016-05-12), daarvan op de hoogte. De uitvoeringsorganisatie stelt daarop het elektronische berichtenverkeer niet langer open voor het desbetreffende gesloten distributiesysteem.
+Indien een ontheffing op grond van artikel 15, tweede lid, van de Wet vervalt, dan wel ingetrokken wordt, stelt de Autoriteit Consument en Markt de uitvoeringsorganisatie, bedoeld in [9.1.3](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=9&paragraaf=9.1&artikel=9.1.3&z=2016-07-27&g=2016-07-27), daarvan op de hoogte. De uitvoeringsorganisatie stelt daarop het elektronische berichtenverkeer niet langer open voor het desbetreffende gesloten distributiesysteem.
 
 ##### 9.1.11
 
-De uitvoeringsorganisatie, bedoeld in [9.1.3](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=9&paragraaf=9.1&artikel=9.1.3&z=2016-05-12&g=2016-05-12), stelt iedere netbeheerder, leverancier, programmaverantwoordelijke en meetverantwoordelijke op de hoogte van de in [9.1.2](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=9&paragraaf=9.1&artikel=9.1.2&z=2016-05-12&g=2016-05-12) bedoelde procedures, specificaties, berichtspecificaties en communicatieprotocollen door publicatie daarvan.
+De uitvoeringsorganisatie, bedoeld in [9.1.3](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=9&paragraaf=9.1&artikel=9.1.3&z=2016-07-27&g=2016-07-27), stelt iedere netbeheerder, leverancier, programmaverantwoordelijke en meetverantwoordelijke op de hoogte van de in [9.1.2](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=9&paragraaf=9.1&artikel=9.1.2&z=2016-07-27&g=2016-07-27) bedoelde procedures, specificaties, berichtspecificaties en communicatieprotocollen door publicatie daarvan.
 
 ##### 9.1.12
 
@@ -4894,7 +4894,7 @@ Gebruikers van centrale communicatiesystemen zijn gehouden tot de uitvoering en 
 
 ##### 9.1.13
 
-Indien beveiligingsprocedures of -maatregelen leiden tot de afwijzing van een bericht of een fout in het bericht aan het licht brengen, stelt de ontvanger de verzender hiervan in overeenstemming met de het daaromtrent bepaalde in de regels bedoeld in [9.1.2](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=9&paragraaf=9.1&artikel=9.1.2&z=2016-05-12&g=2016-05-12) op de hoogte. De ontvanger geeft aan het bericht geen gevolg totdat hij door de verzender is geïnstrueerd. Ingeval de verzender het bericht opnieuw verzendt, is daarbij ondubbelzinnig aangegeven dat het een gecorrigeerd bericht betreft.
+Indien beveiligingsprocedures of -maatregelen leiden tot de afwijzing van een bericht of een fout in het bericht aan het licht brengen, stelt de ontvanger de verzender hiervan in overeenstemming met de het daaromtrent bepaalde in de regels bedoeld in [9.1.2](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=9&paragraaf=9.1&artikel=9.1.2&z=2016-07-27&g=2016-07-27) op de hoogte. De ontvanger geeft aan het bericht geen gevolg totdat hij door de verzender is geïnstrueerd. Ingeval de verzender het bericht opnieuw verzendt, is daarbij ondubbelzinnig aangegeven dat het een gecorrigeerd bericht betreft.
 
 #### 9.2. Elektronische gegevensuitwisseling
 
@@ -4904,7 +4904,7 @@ Registraties van berichten die overeenkomstig het bepaalde in deze code zijn ver
 
 ##### 9.2.2
 
-In plaats van de termijn van één werkdag, genoemd in [hoofdstukken 2](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=2&z=2016-05-12&g=2016-05-12), [3](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=3&z=2016-05-12&g=2016-05-12) en [4](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=4&z=2016-05-12&g=2016-05-12), verzendt de netbeheerder gewoonlijk ook buiten werkdagen aan de betreffende leverancier(s), programmaverantwoordelijke(n) en meetverantwoordelijke(n) indien het centraal aansluitingenregister, bedoeld in [2.1.2](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=2&paragraaf=2.1&artikel=2.1.2&z=2016-05-12&g=2016-05-12), beschikbaar is en het mutatieproces storingsvrij volledig geautomatiseerd en zonder menselijke interventie kan worden afgerond
+In plaats van de termijn van één werkdag, genoemd in [hoofdstukken 2](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=2&z=2016-07-27&g=2016-07-27), [3](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=3&z=2016-07-27&g=2016-07-27) en [4](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=4&z=2016-07-27&g=2016-07-27), verzendt de netbeheerder gewoonlijk ook buiten werkdagen aan de betreffende leverancier(s), programmaverantwoordelijke(n) en meetverantwoordelijke(n) indien het centraal aansluitingenregister, bedoeld in [2.1.2](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=2&paragraaf=2.1&artikel=2.1.2&z=2016-07-27&g=2016-07-27), beschikbaar is en het mutatieproces storingsvrij volledig geautomatiseerd en zonder menselijke interventie kan worden afgerond
 
 - a. het antwoord op een ontvangen melding van een mutatie uiterlijk de volgende kalenderdag na ontvangst van de melding; en
 
@@ -4918,7 +4918,7 @@ In plaats van de termijn van één werkdag, genoemd in [hoofdstukken 2](https://
 
 ##### 10.1.1.1
 
-De gegevens, bedoeld in [paragraaf 2.1](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=2&paragraaf=2.1&z=2016-05-12&g=2016-05-12), worden vastgelegd, uitgewisseld, gebruikt of bewaard voor het faciliteren van de marktprocessen voor de elektriciteitsmarkt en de gasmarkt.
+De gegevens, bedoeld in [paragraaf 2.1](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=2&paragraaf=2.1&z=2016-07-27&g=2016-07-27), worden vastgelegd, uitgewisseld, gebruikt of bewaard voor het faciliteren van de marktprocessen voor de elektriciteitsmarkt en de gasmarkt.
 
 ##### 10.1.1.2
 
@@ -4930,25 +4930,25 @@ Een aangeslotene of op grond van een machtiging van de aangeslotene een leveranc
 
 ##### 10.1.1.4
 
-Correctie van gegevens uit het aansluitingenregister worden doorgevoerd overeenkomstig de processen, bedoeld in [paragrafen 3.1 tot en met 3.5](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=3&paragraaf=3.1&z=2016-05-12&g=2016-05-12) en [3.12](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=3&paragraaf=3.12&z=2016-05-12&g=2016-05-12) voor kleinverbruikaansluitingen of de processen, bedoeld in [paragrafen 4.1 tot en met 4.8](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=4&paragraaf=4.1&z=2016-05-12&g=2016-05-12) voor grootverbruikaansluitingen.
+Correctie van gegevens uit het aansluitingenregister worden doorgevoerd overeenkomstig de processen, bedoeld in [paragrafen 3.1 tot en met 3.5](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=3&paragraaf=3.1&z=2016-07-27&g=2016-07-27) en [3.12](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=3&paragraaf=3.12&z=2016-07-27&g=2016-07-27) voor kleinverbruikaansluitingen of de processen, bedoeld in [paragrafen 4.1 tot en met 4.8](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=4&paragraaf=4.1&z=2016-07-27&g=2016-07-27) voor grootverbruikaansluitingen.
 
 ##### 10.1.1.5
 
-Voor de onjuistheden, bedoeld in [10.1.1.3](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=10&paragraaf=10.1&sub-paragraaf=10.1.1&artikel=10.1.1.3&z=2016-05-12&g=2016-05-12), die niet kunnen worden gecorrigeerd via de correctieprocessen, bedoeld in [10.1.1.4](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=10&paragraaf=10.1&sub-paragraaf=10.1.1&artikel=10.1.1.4&z=2016-05-12&g=2016-05-12), controleert de netbeheerder de melding en corrigeert de onjuistheden uiterlijk twintig werkdagen na ontvangst van de melding in het aansluitingenregister.
+Voor de onjuistheden, bedoeld in [10.1.1.3](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=10&paragraaf=10.1&sub-paragraaf=10.1.1&artikel=10.1.1.3&z=2016-07-27&g=2016-07-27), die niet kunnen worden gecorrigeerd via de correctieprocessen, bedoeld in [10.1.1.4](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=10&paragraaf=10.1&sub-paragraaf=10.1.1&artikel=10.1.1.4&z=2016-07-27&g=2016-07-27), controleert de netbeheerder de melding en corrigeert de onjuistheden uiterlijk twintig werkdagen na ontvangst van de melding in het aansluitingenregister.
 
 ##### 10.1.1.6
 
-De direct aangeslotene, de leverancier en de programmaverantwoordelijke hebben het recht om het aansluitingenregister landelijk gastransport in te zien voor hen betreffende aansluitingen. Desgevraagd verstrekt de netbeheerder van het landelijk gastransportnet de voor hen relevante stamgegevens als bedoeld in [2.13.1](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=2&paragraaf=2.13&artikel=2.13.1&z=2016-05-12&g=2016-05-12).
+De direct aangeslotene, de leverancier en de programmaverantwoordelijke hebben het recht om het aansluitingenregister landelijk gastransport in te zien voor hen betreffende aansluitingen. Desgevraagd verstrekt de netbeheerder van het landelijk gastransportnet de voor hen relevante stamgegevens als bedoeld in [2.13.1](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=2&paragraaf=2.13&artikel=2.13.1&z=2016-07-27&g=2016-07-27).
 
 ##### 10.1.1.7
 
-De direct aangeslotene, de leverancier en de programmaverantwoordelijke hebben het recht om onjuistheden in het aansluitingenregister landelijk gastransportnet met betrekking tot hen betreffende aansluitingen te doen corrigeren. Indien de direct aangeslotene of de programmaverantwoordelijke verzoekt de gegevens te wijzigen, stemt de netbeheerder van het landelijk gastransportnet dit af met de betrokken leverancier. Indien de leverancier akkoord is met de voorgestelde wijziging, stuurt deze de wijziging in door middel van een daartoe bestemd switch mutatieformulier. Vervolgens effectueert de netbeheerder van het landelijk gastransportnet deze wijziging in het aansluitingenregister landelijk gastransportnet overeenkomstig [2.13.1](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=2&paragraaf=2.13&artikel=2.13.1&z=2016-05-12&g=2016-05-12).
+De direct aangeslotene, de leverancier en de programmaverantwoordelijke hebben het recht om onjuistheden in het aansluitingenregister landelijk gastransportnet met betrekking tot hen betreffende aansluitingen te doen corrigeren. Indien de direct aangeslotene of de programmaverantwoordelijke verzoekt de gegevens te wijzigen, stemt de netbeheerder van het landelijk gastransportnet dit af met de betrokken leverancier. Indien de leverancier akkoord is met de voorgestelde wijziging, stuurt deze de wijziging in door middel van een daartoe bestemd switch mutatieformulier. Vervolgens effectueert de netbeheerder van het landelijk gastransportnet deze wijziging in het aansluitingenregister landelijk gastransportnet overeenkomstig [2.13.1](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=2&paragraaf=2.13&artikel=2.13.1&z=2016-07-27&g=2016-07-27).
 
 #### 10.1.2. Het EAN-codeboek
 
 ##### 10.1.2.1
 
-De gegevens in het EAN-codeboek, bedoeld in [paragraaf 2.3](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=2&paragraaf=2.3&z=2016-05-12&g=2016-05-12), worden vastgelegd, uitgewisseld, gebruikt of bewaard voor de uitvoering van de processen, bedoeld in [hoofdstuk 3](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=3&z=2016-05-12&g=2016-05-12) en [5](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=5&z=2016-05-12&g=2016-05-12).
+De gegevens in het EAN-codeboek, bedoeld in [paragraaf 2.3](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=2&paragraaf=2.3&z=2016-07-27&g=2016-07-27), worden vastgelegd, uitgewisseld, gebruikt of bewaard voor de uitvoering van de processen, bedoeld in [hoofdstuk 3](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=3&z=2016-07-27&g=2016-07-27) en [5](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=5&z=2016-07-27&g=2016-07-27).
 
 ##### 10.1.2.2
 
@@ -4962,7 +4962,7 @@ De leverancier bewaart de gegevens die hij uit het EAN-codeboek heeft ontvangen 
 
 ##### 10.1.3.1
 
-De contracteindegegevens, bedoeld in [paragraaf 2.5](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=2&paragraaf=2.5&z=2016-05-12&g=2016-05-12), worden vastgelegd, uitgewisseld, gebruikt of bewaard voor de uitvoering van processen, bedoeld in [hoofdstuk 3](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=3&z=2016-05-12&g=2016-05-12).
+De contracteindegegevens, bedoeld in [paragraaf 2.5](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=2&paragraaf=2.5&z=2016-07-27&g=2016-07-27), worden vastgelegd, uitgewisseld, gebruikt of bewaard voor de uitvoering van processen, bedoeld in [hoofdstuk 3](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=3&z=2016-07-27&g=2016-07-27).
 
 ##### 10.1.3.2
 
@@ -4980,7 +4980,7 @@ Een aangeslotene heeft het recht om de contracteindegegevens, die zijn eigen aan
 
 ##### 10.1.4.1
 
-De gegevens in het toegankelijk meetregister, bedoeld in [paragraaf 2.6](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=2&paragraaf=2.6&z=2016-05-12&g=2016-05-12), worden vastgelegd, uitgewisseld, gebruikt of bewaard voor de uitvoering van processen, genoemd in [hoofdstuk 5](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=5&z=2016-05-12&g=2016-05-12).
+De gegevens in het toegankelijk meetregister, bedoeld in [paragraaf 2.6](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=2&paragraaf=2.6&z=2016-07-27&g=2016-07-27), worden vastgelegd, uitgewisseld, gebruikt of bewaard voor de uitvoering van processen, genoemd in [hoofdstuk 5](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=5&z=2016-07-27&g=2016-07-27).
 
 ##### 10.1.4.2
 
@@ -4994,7 +4994,7 @@ Leveranciers bewaren de door hen opgevraagde gegevens uit het toegankelijk meetr
 
 ##### 10.1.5.1
 
-Een onderneming, als bedoeld in [artikel 54 van de Elektriciteitswet 1998](https://wetten.overheid.nl/jci1.3:c:BWBR0009755&artikel=54) en [artikel 22 van de Gaswet](https://wetten.overheid.nl/jci1.3:c:BWBR0011440&artikel=22), die de gegevens genoemd in deze code voor een ander doel dan genoemd in [paragraaf 10.1](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=10&paragraaf=10.1&z=2016-05-12&g=2016-05-12) vastlegt, uitwisselt, gebruikt of bewaart legt hiervoor het doel en de bewaartermijnen vast in een gedragscode of vraagt hiervoor ondubbelzinnige toestemming van de betrokkene als bedoeld in de wet Bescherming persoonsgegevens.
+Een onderneming, als bedoeld in [artikel 54 van de Elektriciteitswet 1998](https://wetten.overheid.nl/jci1.3:c:BWBR0009755&artikel=54) en [artikel 22 van de Gaswet](https://wetten.overheid.nl/jci1.3:c:BWBR0011440&artikel=22), die de gegevens genoemd in deze code voor een ander doel dan genoemd in [paragraaf 10.1](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=10&paragraaf=10.1&z=2016-07-27&g=2016-07-27) vastlegt, uitwisselt, gebruikt of bewaart legt hiervoor het doel en de bewaartermijnen vast in een gedragscode of vraagt hiervoor ondubbelzinnige toestemming van de betrokkene als bedoeld in de wet Bescherming persoonsgegevens.
 
 #### 10.2. Gedragscode regionale netbeheerders aangaande gegevens uit kleinverbruikmeetinrichtingen die op afstand uitleesbaar zijn
 
@@ -5004,19 +5004,19 @@ Netbeheerders stellen een gedragscode op ten aanzien van gebruik, vastleggen, ui
 
 ##### 10.2.2
 
-De gedragscode, bedoeld in [10.2.1](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=10&paragraaf=10.2&artikel=10.2.1&z=2016-05-12&g=2016-05-12), bevat tenminste de onderwerpen waarover de netbeheerders verantwoording afleggen.
+De gedragscode, bedoeld in [10.2.1](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=10&paragraaf=10.2&artikel=10.2.1&z=2016-07-27&g=2016-07-27), bevat tenminste de onderwerpen waarover de netbeheerders verantwoording afleggen.
 
 ##### 10.2.3
 
-Netbeheerders melden de gedragscode, bedoeld in [10.2.1](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=10&paragraaf=10.2&artikel=10.2.1&z=2016-05-12&g=2016-05-12), in overeenstemming met de [Wet bescherming persoonsgegevens](https://wetten.overheid.nl/jci1.3:c:BWBR0011468) aan bij het College bescherming persoonsgegevens.
+Netbeheerders melden de gedragscode, bedoeld in [10.2.1](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=10&paragraaf=10.2&artikel=10.2.1&z=2016-07-27&g=2016-07-27), in overeenstemming met de [Wet bescherming persoonsgegevens](https://wetten.overheid.nl/jci1.3:c:BWBR0011468) aan bij het College bescherming persoonsgegevens.
 
 ##### 10.2.4
 
-Netbeheerders leggen jaarlijks verantwoording af door middel van een uniforme toelichting op de jaarrekening, bedoeld in [B6.1](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&bijlage=6&z=2016-05-12&g=2016-05-12).
+Netbeheerders leggen jaarlijks verantwoording af door middel van een uniforme toelichting op de jaarrekening, bedoeld in [B6.1](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&bijlage=6&z=2016-07-27&g=2016-07-27).
 
 ##### 10.2.5
 
-In aanvulling op [10.2.4](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=10&paragraaf=10.2&artikel=10.2.4&z=2016-05-12&g=2016-05-12) publiceren de netbeheerders de verantwoording, bedoeld in [10.2.2](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=10&paragraaf=10.2&artikel=10.2.2&z=2016-05-12&g=2016-05-12), op hun publieke websites.
+In aanvulling op [10.2.4](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=10&paragraaf=10.2&artikel=10.2.4&z=2016-07-27&g=2016-07-27) publiceren de netbeheerders de verantwoording, bedoeld in [10.2.2](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=10&paragraaf=10.2&artikel=10.2.2&z=2016-07-27&g=2016-07-27), op hun publieke websites.
 
 #### 10.3. Gedragscode leveranciers en onder hun verantwoordelijkheid handelende meetbedrijven aangaande gegevens uit kleinverbruikmeetinrichtingen die op afstand uitleesbaar zijn
 
@@ -5026,7 +5026,7 @@ Leveranciers stellen een gedragscode op ten aanzien van gebruik, vastleggen, uit
 
 ##### 10.3.2
 
-De gedragscode, bedoeld in [10.3.1](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=10&paragraaf=10.3&artikel=10.3.1&z=2016-05-12&g=2016-05-12), bevat tenminste:
+De gedragscode, bedoeld in [10.3.1](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=10&paragraaf=10.3&artikel=10.3.1&z=2016-07-27&g=2016-07-27), bevat tenminste:
 
 - a. de wijze waarop kleinverbruikers de leverancier machtigen voor het opvragen van meer gegevens dan is toegestaan op grond van [artikel 26ab eerste lid van de Elektriciteitswet 1998](https://wetten.overheid.nl/jci1.3:c:BWBR0009755&artikel=26ab) of [artikel 13b eerste lid van de Gaswet](https://wetten.overheid.nl/jci1.3:c:BWBR0011440&artikel=13b).
 
@@ -5038,15 +5038,15 @@ De gedragscode, bedoeld in [10.3.1](https://wetten.overheid.nl/jci1.3:c:BWBR0037
 
 ##### 10.3.3
 
-Leveranciers melden de gedragscode, bedoeld in [10.3.1](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=10&paragraaf=10.3&artikel=10.3.1&z=2016-05-12&g=2016-05-12), in overeenstemming met de [Wet bescherming persoonsgegevens](https://wetten.overheid.nl/jci1.3:c:BWBR0011468) aan bij het College bescherming persoonsgegevens.
+Leveranciers melden de gedragscode, bedoeld in [10.3.1](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=10&paragraaf=10.3&artikel=10.3.1&z=2016-07-27&g=2016-07-27), in overeenstemming met de [Wet bescherming persoonsgegevens](https://wetten.overheid.nl/jci1.3:c:BWBR0011468) aan bij het College bescherming persoonsgegevens.
 
 ##### 10.3.4
 
-De leverancier legt jaarlijks verantwoording, bedoeld in [10.3.2 onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=10&paragraaf=10.3&artikel=10.3.2&z=2016-05-12&g=2016-05-12), af door middel van een toelichting op de jaarrekening, bedoeld in [B6.2](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&bijlage=6&z=2016-05-12&g=2016-05-12).
+De leverancier legt jaarlijks verantwoording, bedoeld in [10.3.2 onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=10&paragraaf=10.3&artikel=10.3.2&z=2016-07-27&g=2016-07-27), af door middel van een toelichting op de jaarrekening, bedoeld in [B6.2](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&bijlage=6&z=2016-07-27&g=2016-07-27).
 
 ##### 10.3.5
 
-In aanvulling op [10.3.4](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=10&paragraaf=10.3&artikel=10.3.4&z=2016-05-12&g=2016-05-12) publiceert de leverancier de verantwoording, bedoeld in [10.3.2 onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=10&paragraaf=10.3&artikel=10.3.2&z=2016-05-12&g=2016-05-12), op zijn publieke website.
+In aanvulling op [10.3.4](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=10&paragraaf=10.3&artikel=10.3.4&z=2016-07-27&g=2016-07-27) publiceert de leverancier de verantwoording, bedoeld in [10.3.2 onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=10&paragraaf=10.3&artikel=10.3.2&z=2016-07-27&g=2016-07-27), op zijn publieke website.
 
 ### 11. Bijzondere bepalingen
 
@@ -5062,7 +5062,7 @@ In aanvulling op [10.3.4](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofds
 
 ##### 11.1.3
 
-De verplichting, bedoeld in [8.1.3](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=8&paragraaf=8.1&artikel=8.1.3&z=2016-05-12&g=2016-05-12), geldt voor alle leveringsovereenkomsten die zijn aangegaan na 1 april 2013.
+De verplichting, bedoeld in [8.1.3](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=8&paragraaf=8.1&artikel=8.1.3&z=2016-07-27&g=2016-07-27), geldt voor alle leveringsovereenkomsten die zijn aangegaan na 1 april 2013.
 
 ##### Artikel 11.1.4
 
@@ -5078,13 +5078,15 @@ Dit besluit wordt aangehaald als: Informatiecode elektriciteit en gas.
 
 ## Bijlagen
 
-## Bijlage 1. Verbruiksprofielen elektriciteit
+## Bijlagen
 
 ### B1.0. Vaststelling en beheer van verbruiksprofielen
 
 B1.0.1
 
-Ten behoeve van de vaststelling en het beheer van de verbruiksprofielen, zoals bedoeld in [5.3.2.5](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=5&paragraaf=5.3&sub-paragraaf=5.3.2&artikel=5.3.2.5&z=2016-05-12&g=2016-05-12) en [6.3.2.1](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=6&paragraaf=6.3&sub-paragraaf=6.3.2&artikel=6.3.2.1&z=2016-05-12&g=2016-05-12), organiseert een representatief deel van de ondernemingen die zich bezighouden met het transporteren, leveren of meten van elektriciteit een overlegplatform, waarin naast een delegatie van het representatief deel van de ondernemingen die zich bezighouden met het transporteren, leveren of meten van elektriciteit tevens zitting hebben alle programmaverantwoordelijken die programmaverantwoordelijkheid dragen voor aangeslotenen met een gecontracteerd transportvermogen kleiner dan 100 kW.
+B1.0.1
+
+Ten behoeve van de vaststelling en het beheer van de verbruiksprofielen, zoals bedoeld in [5.3.2.5](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=5&paragraaf=5.3&sub-paragraaf=5.3.2&artikel=5.3.2.5&z=2016-07-27&g=2016-07-27) en [6.3.2.1](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=6&paragraaf=6.3&sub-paragraaf=6.3.2&artikel=6.3.2.1&z=2016-07-27&g=2016-07-27), organiseert een representatief deel van de ondernemingen die zich bezighouden met het transporteren, leveren of meten van elektriciteit een overlegplatform, waarin naast een delegatie van het representatief deel van de ondernemingen die zich bezighouden met het transporteren, leveren of meten van elektriciteit tevens zitting hebben alle programmaverantwoordelijken die programmaverantwoordelijkheid dragen voor aangeslotenen met een gecontracteerd transportvermogen kleiner dan 100 kW.
 
 B1.0.2
 
@@ -5092,9 +5094,9 @@ De door het in B1.0.1 bedoelde platform vastgestelde rekenregels voor de verbrui
 
 B1.0.3
 
-De op grond van B1.0.1 vastgestelde verbruiksprofielen worden door een door een representatief deel van de ondernemingen die zich bezighouden met het transporteren, leveren of meten van elektriciteit aangewezen uitvoeringsorganisatie op een geschikte wijze openbaar gemaakt.
-
 ### B1.1. Standaardprofielen elektriciteit
+
+B1.1.1
 
 B1.1.1
 
@@ -5110,9 +5112,9 @@ Uiterlijk 1 week nadat het voorstel, bedoeld in B1.1.2 is gedaan, besluit het ov
 
 B1.1.4
 
-De aldus vastgestelde profielen worden toegepast vanaf de eerste kalenderdag van het volgende kwartaal.
-
 ### B1.2. Indeling van aangeslotenen in profielcategorieën
+
+B1.2.1
 
 B1.2.1
 
@@ -5156,9 +5158,9 @@ In afwijking van B1.2.1 tot en met B1.2.3 worden aansluitingen ten behoeve van o
 
 B1.2.11
 
-Indien de lampen (inclusief voorschakelapparatuur) voor openbare verlichting zich niet direct achter de aansluiting bevinden, maar deel uitmaken van een OV-installatie, verstrekt de aangeslotene de netbeheerder desgevraagd een bestuurdersverklaring waarin door de bestuurder van de beheerder van de desbetreffende OV-installatie of een door hem daartoe gemachtigd persoon, wordt verklaard dat op de desbetreffende OV-installatie uitsluitend lampen (inclusief voorschakelapparatuur) zijn aangesloten ten behoeve van openbare verlichting en daarmee gelijk te stellen verlichting, zoals ten behoeve van reclame- of feestverlichting, abri’s, verkeersbordverlichting etc., mits deze op dezelfde wijze geschakeld worden.
-
 ### B1.3. Het standaardjaarverbruik elektriciteit
+
+B1.3.1
 
 B1.3.1
 
@@ -5194,9 +5196,9 @@ De netbeheerder bepaalt het standaardjaarverbruik volgens de methode, bedoeld in
 
 B1.3.9
 
-De netbeheerder muteert het aansluitingenregister met het standaardjaarverbruik, bedoeld in B1.3.8, uiterlijk vijf werkdagen na het bepalen van het standaardjaarverbruik overeenkomstig [2.1.8](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=2&paragraaf=2.1&artikel=2.1.8&z=2016-05-12&g=2016-05-12).
-
 ### B1.4. Tariefcorrectiefactoren elektriciteit
+
+B1.4.1
 
 B1.4.1
 
@@ -5222,15 +5224,15 @@ TCFPV,PC,TC,TP = TFPV,PC,TC,TP / TFPC,TC,TP
 
 B1.4.5
 
-De in B1.4.2, B1.4.3 en B1.4.4 bepaalde tarieffactoren respectievelijk tariefcorrectiefactoren worden afgerond op 3 cijfers achter de komma.
-
 ### B1.5. De klimaatcorrectiefactor
 
 B1.5.1
 
-De klimaatcorrectiefactor wordt vooralsnog vastgesteld op 1.
+B1.5.1
 
 ### B1.6. De bepaling van de gegevens
+
+B1.6.1
 
 B1.6.1
 
@@ -5278,11 +5280,11 @@ MCF = de overeenkomstig B1.6.4 bepaalde meetcorrectiefactor voor de desbetreffen
 
 B1.6.6
 
-De netbeheerder stelt de overeenkomstig B1.6.4 bepaalde meetcorrectiefactoren de volgende werkdag ter beschikking aan de programmaverantwoordelijken die het aangaan.
-
 ## Bijlage 2. Gedimensioneerde profielen voor openbare verlichting en verkeersregelinstallaties
 
 ### B2.1. Openbare verlichting
+
+B2.1.1
 
 B2.1.1
 
@@ -5312,7 +5314,7 @@ De aangeslotene houdt de in B2.1.5 bedoelde administratie actueel.
 
 B2.1.7
 
-Op het belastingprofiel bedoeld in B2.1.2, B2.1.3 respectievelijk B2.1.4 zijn, voor zover van toepassing, de bepalingen [6.3.5](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=6&paragraaf=6.3&sub-paragraaf=6.3.5&z=2016-05-12&g=2016-05-12) en [6.3.10](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=6&paragraaf=6.3&sub-paragraaf=6.3.10&z=2016-05-12&g=2016-05-12) van deze code van kracht.
+Op het belastingprofiel bedoeld in B2.1.2, B2.1.3 respectievelijk B2.1.4 zijn, voor zover van toepassing, de bepalingen [6.3.5](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=6&paragraaf=6.3&sub-paragraaf=6.3.5&z=2016-07-27&g=2016-07-27) en [6.3.10](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=6&paragraaf=6.3&sub-paragraaf=6.3.10&z=2016-07-27&g=2016-07-27) van deze code van kracht.
 
 B2.1.8
 
@@ -5324,9 +5326,9 @@ Indien de lampen (inclusief voorschakelapparatuur) voor openbare verlichting zic
 
 B2.1.10
 
-Indien naar het oordeel van de netbeheerder redelijke twijfel bestaat over de juistheid en de volledigheid van de in B2.1.1, onderdelen a tot en met d, en B2.1.5 bedoelde informatie en van de in B2.1.8 bedoelde bestuurdersverklaring, overlegt de aangeslotene desgevraagd een extern audit-rapport aangaande de juistheid en de volledigheid van de in B2.1.1, onderdelen a tot en met d en B2.1.5 bedoelde informatie
-
 ### B2.2. Verkeersregelinstallaties
+
+B2.2.1
 
 B2.2.1
 
@@ -5350,11 +5352,11 @@ De aangeslotene houdt de in B2.2.4 bedoelde administratie actueel.
 
 B2.2.6
 
-Op het belastingprofiel bedoeld in B2.2.2 respectievelijk B2.2.3 zijn – voor zover van toepassing – [6.3.5](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=6&paragraaf=6.3&sub-paragraaf=6.3.5&z=2016-05-12&g=2016-05-12) en [6.3.10](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=6&paragraaf=6.3&sub-paragraaf=6.3.10&z=2016-05-12&g=2016-05-12) van kracht.
-
 ## Bijlage 3. Verbruiksprofielen gas
 
 ### B3.1. Vaststelling en beheer van verbruiksprofielen
+
+B3.1.1
 
 B3.1.1
 
@@ -5362,9 +5364,9 @@ Deze bijlage is alleen van toepassing op profielafnemers
 
 B3.1.2
 
-Ten behoeve van de vaststelling en het beheer van de verbruiksprofielen organiseert een representatief deel van de ondernemingen die zich bezighouden met het transporteren, leveren of meten van gas een overlegplatform, waarin naast een delegatie van een representatief deel van de ondernemingen die zich bezighouden met het transporteren, leveren of meten van gas tevens zitting hebben alle erkende programmaverantwoordelijken die transporteren voor profielafnemers.
-
 ### B3.2. Standaardprofielen gas
+
+B3.2.1
 
 B3.2.1
 
@@ -5426,9 +5428,9 @@ B3.2.10
 
 B3.2.11
 
-Alle berekeningen in het kader van de verbruiksprofielen worden uitgevoerd met variabelen met zoveel mogelijk cijfers achter de komma ('single precision floating point').
-
 ### B3.3. Indeling van verbruikers in profielcategorieën gas
+
+B3.3.1
 
 B3.3.1
 
@@ -5454,9 +5456,9 @@ B3.3.5
 
 Indien een kleinverbruiker ten gevolge van de jaarlijks overeenkomstig B3.3.2 op te stellen indeling van profielcategorieën, verandert van profielcategorie, zal het standaardjaarverbruik van die kleinverbruiker overeenkomstig B3.4 opnieuw moeten worden berekend met behulp van de profielfracties van de nieuw toegewezen profielcategorie.
 
-De herberekening van het standaardjaarverbruik leidt niet tot herziening van de toegewezen profielcategorie.
-
 ### B3.4. Het standaardjaarverbruik gas
+
+B3.4.1
 
 B3.4.1
 
@@ -5506,13 +5508,13 @@ De netbeheerder bepaalt het standaardjaarverbruik volgens de methode, bedoeld in
 
 B3.4.10
 
-De netbeheerder muteert het aansluitingenregister met het standaardjaarverbruik, bedoeld in B3.4.9, uiterlijk vijf werkdagen na het bepalen van het standaardjaarverbruik overeenkomstig [2.1.8](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=2&paragraaf=2.1&artikel=2.1.8&z=2016-05-12&g=2016-05-12).
-
 ### B3.5. De bepaling van de gegevens
 
 Het standaardjaarverbruik van een profielafnemer vormt de basis van de door de RNB uit te voeren profielberekeningen.
 
 ### B3.5.1. Berekening ten behoeve van de allocatie
+
+B3.5.1.1
 
 B3.5.1.1
 
@@ -5556,9 +5558,9 @@ VPPC = de profielfractie van het verondersteld profiel voor de desbetreffende pr
 
 VGVPV;LE,PC,netgebied = het veronderstelde geprofileerde verbruik voor de desbetreffende erkende programmaverantwoordelijke / leverancier combinatie, profielcategorie en overdrachtspunt (netgebied), uitgedrukt in MJ.
 
-Het aldus berekende veronderstelde geprofileerde verbruik is de basis voor de allocatie op grond van de ‘profielklanten’.
-
 ### B3.6. Wijziging profielenmethodiek
+
+B3.6.1
 
 B3.6.1
 
@@ -5574,7 +5576,49 @@ Onder de regels met betrekking tot de profielenmethodiek worden in elk geval ger
 
 B3.6.4
 
-De op grond van B3.6.1 vastgestelde verbruiksprofielen worden door een door een representatief deel van de ondernemingen die zich bezighouden met het transporteren, leveren of meten van gas aangewezen uitvoeringsorganisatie op een geschikte wijze openbaar gemaakt.
+## Bijlage 4. Capaciteitstariefcodes Kleinverbruik
+
+B4.1
+
+De tariefcodes in onderstaande tabel worden geacht de laatste vijf cijfers te zijn van de capaciteitstariefcodes, waaraan de netbeheerder zijn 5-cijferige bedrijfscode laat voorafgaan.
+
+| Product | Omschrijving van de aansluiting | Tariefcode |
+| --- | --- | --- |
+| Elektriciteit | nultarief | 10000 |
+| Elektriciteit | doorlaatwaarde ≤ 1*6A geschakeld net, onbemeten | 10101 |
+| Elektriciteit | doorlaatwaarde ≤ 1*6A geschakeld net | 10111 |
+| Elektriciteit | doorlaatwaarde ≤ 3*25A en ≤ 1*80A, onbemeten | 10201 |
+| Elektriciteit | doorlaatwaarde ≤ 3*25A en ≤ 1*80A | 10211 |
+| Elektriciteit | 3*25A < doorlaatwaarde ≤ 3*35A | 10311 |
+| Elektriciteit | 3*35A < doorlaatwaarde ≤ 3*50A | 10411 |
+| Elektriciteit | 3*50A < doorlaatwaarde ≤ 3*63A | 10511 |
+| Elektriciteit | 3*63A < doorlaatwaarde ≤ 3*80A | 10611 |
+| Gas | nultarief | 20000 |
+| Gas | onbemeten | 20101 |
+| Gas | capaciteit ≤ 10m3(n)/uur en standaard jaarverbruik < 500m3 (n;35,17) | 20111 |
+| Gas | capaciteit ≤ 10m3(n)/uur en 500m3 (n;35,17) ≤ standaard jaarverbruik < 4.000m3 (n;35,17) | 20211 |
+| Gas | capaciteit ≤ 10m3(n)/uur en standaard jaarverbruik ≥ 4.000m3 (n;35;17) | 20311 |
+| Gas | 10 m3(n)/uur < capaciteit ≤ 16 m3(n)/uur | 20411 |
+| Gas | 16 m3(n)/uur < capaciteit ≤ 25 m3(n)/uur | 20511 |
+| Gas | 25 m3(n)/uur < capaciteit ≤ 40 m3(n)/uur | 20611 |
+| Gas | 25 m3(n)/uur < capaciteit ≤ 40 m3(n)/uur, voorzien van een EVHI-meetinrichting | 20621 |
+
+B4.2
+
+In afwijking van B.4.1 is de onderstaande tabel van toepassing op aansluitingen waarachter zich uitsluitend één of meer productie-installaties bevinden.
+
+| Product | Omschrijving van de aansluiting | Tariefcode |
+| --- | --- | --- |
+| Elektriciteit | Nultarief |   |
+| Elektriciteit | doorlaatwaarde ≤ 1*6A geschakeld net, onbemeten | n.v.t |
+| Elektriciteit | doorlaatwaarde ≤ 1*6A geschakeld net | 10001 |
+| Elektriciteit | doorlaatwaarde ≤ 3*25A en ≤ 1*80A, onbemeten | n.v.t. |
+| Elektriciteit | doorlaatwaarde ≤ 3*25A en ≤ 1*80A | 10002 |
+| Elektriciteit | 3*25A < doorlaatwaarde ≤ 3*35A | 10003 |
+| Elektriciteit | 3*35A < doorlaatwaarde ≤ 3*50A | 10004 |
+| Elektriciteit | 3*50A < doorlaatwaarde ≤ 3*63A | 10005 |
+| Elektriciteit | 3*63A < doorlaatwaarde ≤ 3*80A | 10006 |
+| Gas | n.v.t. | n.v.t. |
 
 ## Bijlage 4. Capaciteitstariefcodes Kleinverbruik
 
@@ -5632,11 +5676,197 @@ Op basis van de beslistabel uit B5.1 beslist de wederpartij of een dispuut over 
 
 - b. dispuut mogelijk indien buiten validatiegrens: dispuut kan worden aangegaan als kan worden aangetoond dat de oorspronkelijke meterstand buiten de validatiegrenzen valt;
 
-- c. dispuut mogelijk: dispuut kan worden aangegaan als de herkomst van de alternatieve stand van dezelfde of een hogere waarde is, of – in het geval van fysieke opname, als bedoeld in [5.2.2.3](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=5&paragraaf=5.2&sub-paragraaf=5.2.2&artikel=5.2.2.3&z=2016-05-12&g=2016-05-12) – de alternatieve stand een klantstand is;
+- c. dispuut mogelijk: dispuut kan worden aangegaan als de herkomst van de alternatieve stand van dezelfde of een hogere waarde is, of – in het geval van fysieke opname, als bedoeld in [5.2.2.3](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=5&paragraaf=5.2&sub-paragraaf=5.2.2&artikel=5.2.2.3&z=2016-07-27&g=2016-07-27) – de alternatieve stand een klantstand is;
 
-- d. stand wint: onverminderd het bepaalde in [5.5.2.4](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=5&paragraaf=5.5&sub-paragraaf=5.5.2&artikel=5.5.2.4&z=2016-05-12&g=2016-05-12), een dispuut waarbij de alternatieve stand van deze herkomst wordt gebruikt, wordt door de initiërende partij direct geaccepteerd en overgenomen als definitieve stand;
+- d. stand wint: onverminderd het bepaalde in [5.5.2.4](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=5&paragraaf=5.5&sub-paragraaf=5.5.2&artikel=5.5.2.4&z=2016-07-27&g=2016-07-27), een dispuut waarbij de alternatieve stand van deze herkomst wordt gebruikt, wordt door de initiërende partij direct geaccepteerd en overgenomen als definitieve stand;
 
 - e. geen dispuut mogelijk: dispuut kan niet worden aangegaan, aangezien de herkomst van de alternatieve stand van een lagere waarde is dan de herkomst van de oorspronkelijke stand.
+
+Dit besluit zal met de toelichting in de Staatscourant worden geplaatst.
+
+##### 5.4.1.2a
+
+Behoudens het bepaalde in [B3.4.7](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&bijlage=3&z=2016-07-27&g=2016-07-27) past de netbeheerder op 1 januari 2017 eenmalig het standaardjaarverbruik aan voor alle gasaansluitingen van de profielcategorieën G1A en G2A, door het bestaande standaardjaarverbruik te delen door 1,008027.
+
+#### 5.5. Dispuutproces
+
+#### 5.5.1. Controleren meterstand en melding dispuut
+
+#### 5.5.2. Beoordelen alternatieve meterstand
+
+#### 5.5.3. Fysieke opname op basis van kosten ongelijk
+
+#### 5.5.4. Vaststellen meterstand na dispuut
+
+### 6. Meetgegevensprocessen ten behoeve van grootverbruikaansluitingen
+
+#### 6.1. Behandelen en verwerken van meetgegevens voor mutatieprocessen
+
+#### 6.1.1. De meetverantwoordelijke stelt de meterstand vast, berekent het verbruik en stuurt deze naar de netbeheerder
+
+#### 6.1.2. De netbeheerder distribueert de meetgegevens
+
+#### 6.2. Valideren en vaststellen van meetgegevens elektriciteit door de meetverantwoordelijke
+
+#### 6.2.1. Validatie van meetgegevens
+
+#### 6.2.2. Overdracht van meetgegevens aan de netbeheerder
+
+#### 6.2.3. Uitwisselen van meetgegevens tussen meetverantwoordelijke en de netbeheerder van het landelijk hoogspanningsnet
+
+#### 6.3. Verwerken en distribueren van meetgegevens van elektriciteitsaansluitingen door de netbeheerder
+
+#### 6.3.1. Algemeen
+
+#### 6.3.2. Beoordelen volledigheid ontvangen van meetgegevens
+
+#### 6.3.3. Afhandeling verzoeken tot hernieuwd vaststellen van meetgegevens
+
+#### 6.3.4. Afhandeling verzoeken tot hernieuwd toerekenen definitieve volumes
+
+#### 6.3.5. Overdracht van meetgegevens in het kader van programmaverantwoordelijkheid
+
+#### 6.3.6. Overdracht van meetgegevens op de eerste werkdag na afloop van het etmaal
+
+#### 6.3.7. Verwerking en overdracht van meetgegevens op de vijfde werkdag na afloop van het etmaal
+
+#### 6.3.8. Verwerking en overdracht van meetgegevens op de tiende werkdag na afloop van het etmaal
+
+#### 6.3.9. Verwerking en overdracht van meetgegevens na reclamatie op de tiende werkdag na afloop van het etmaal
+
+#### 6.3.10. Overdracht van gegevens in het kader van transport- en systeemdiensten
+
+#### 6.3.11. Dataoverdracht in het kader van [artikel 16, lid 1, sub i, van de Wet](https://wetten.overheid.nl/jci1.3:c:BWBR0009755&artikel=16)
+
+#### 6.3.12. Overdracht van gegevens in het kader van marktfacilitering
+
+#### 6.3.13. Bekendmaking van gegevens
+
+#### 6.4. Valideren en vaststellen van meetgegevens gas door de meetverantwoordelijke
+
+#### 6.4.1. Validatie van meetgegevens
+
+#### 6.4.2. Overdracht van meetgegevens aan de regionale netbeheerder en het Centraal Systeem Stuursignaal
+
+#### 6.5. Verwerken en distribueren van (meet)gegevens van gasaansluitingen door de regionale netbeheerder
+
+#### 6.5.1. Algemeen
+
+#### 6.5.2. Overdracht van gegevens in het kader van marktfacilitering
+
+#### 6.6. Bepalen standaardjaarverbruik van profielgrootverbruikaansluitingen
+
+#### 6.7. Opvragen historische meetgegevens
+
+#### 6.8. Bepalen jaarverbruik gas voor telemetriegrootverbruikaansluitingen
+
+### 7. Allocatie en reconciliatie
+
+### 8. Informatie-uitwisseling t.b.v. van het leveranciersmodel bij een kleinverbruiker
+
+#### 8.1. De aansluit- en transportovereenkomst met een kleinverbruiker
+
+#### 8.2. Informatie-uitwisseling ten behoeve van de uitvoering van de betalingsverplichting als bedoeld in artikel 9 van de regeling, bedoeld in [artikelen 53](https://wetten.overheid.nl/jci1.3:c:BWBR0009755&artikel=53) en [95cb, zesde lid, van de Elektriciteitswet 1998](https://wetten.overheid.nl/jci1.3:c:BWBR0009755&artikel=95cb) en [artikelen 21](https://wetten.overheid.nl/jci1.3:c:BWBR0011440&artikel=21) en [44b, zesde lid, van de Gaswet](https://wetten.overheid.nl/jci1.3:c:BWBR0011440&artikel=44b)
+
+#### 8.3. Administratieve bepalingen
+
+### 9. Berichtenverkeer
+
+#### 9.1. Uitvoeringsregels
+
+#### 9.2. Elektronische gegevensuitwisseling
+
+### 10. Gegevensbescherming en bewaartermijnen van gegevens
+
+#### 10.1. Registers
+
+#### 10.1.1. Aansluitingenregister
+
+#### 10.1.2. Het EAN-codeboek
+
+#### 10.1.3. Het contracteindegegevens
+
+#### 10.1.4. Het toegankelijk meetregister
+
+#### 10.1.5. Andere doelen
+
+#### 10.2. Gedragscode regionale netbeheerders aangaande gegevens uit kleinverbruikmeetinrichtingen die op afstand uitleesbaar zijn
+
+#### 10.3. Gedragscode leveranciers en onder hun verantwoordelijkheid handelende meetbedrijven aangaande gegevens uit kleinverbruikmeetinrichtingen die op afstand uitleesbaar zijn
+
+### 11. Bijzondere bepalingen
+
+#### 11.1. Overgangs- en slotbepalingen
+
+## Bijlage 1. Verbruiksprofielen elektriciteit
+
+### B1.0. Vaststelling en beheer van verbruiksprofielen
+
+De op grond van B1.0.1 vastgestelde verbruiksprofielen worden door een door een representatief deel van de ondernemingen die zich bezighouden met het transporteren, leveren of meten van elektriciteit aangewezen uitvoeringsorganisatie op een geschikte wijze openbaar gemaakt.
+
+### B1.1. Standaardprofielen elektriciteit
+
+De aldus vastgestelde profielen worden toegepast vanaf de eerste kalenderdag van het volgende kwartaal.
+
+### B1.2. Indeling van aangeslotenen in profielcategorieën
+
+Indien de lampen (inclusief voorschakelapparatuur) voor openbare verlichting zich niet direct achter de aansluiting bevinden, maar deel uitmaken van een OV-installatie, verstrekt de aangeslotene de netbeheerder desgevraagd een bestuurdersverklaring waarin door de bestuurder van de beheerder van de desbetreffende OV-installatie of een door hem daartoe gemachtigd persoon, wordt verklaard dat op de desbetreffende OV-installatie uitsluitend lampen (inclusief voorschakelapparatuur) zijn aangesloten ten behoeve van openbare verlichting en daarmee gelijk te stellen verlichting, zoals ten behoeve van reclame- of feestverlichting, abri’s, verkeersbordverlichting etc., mits deze op dezelfde wijze geschakeld worden.
+
+### B1.3. Het standaardjaarverbruik elektriciteit
+
+De netbeheerder muteert het aansluitingenregister met het standaardjaarverbruik, bedoeld in B1.3.8, uiterlijk vijf werkdagen na het bepalen van het standaardjaarverbruik overeenkomstig [2.1.8](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=2&paragraaf=2.1&artikel=2.1.8&z=2016-07-27&g=2016-07-27).
+
+### B1.4. Tariefcorrectiefactoren elektriciteit
+
+De in B1.4.2, B1.4.3 en B1.4.4 bepaalde tarieffactoren respectievelijk tariefcorrectiefactoren worden afgerond op 3 cijfers achter de komma.
+
+### B1.5. De klimaatcorrectiefactor
+
+De klimaatcorrectiefactor wordt vooralsnog vastgesteld op 1.
+
+### B1.6. De bepaling van de gegevens
+
+De netbeheerder stelt de overeenkomstig B1.6.4 bepaalde meetcorrectiefactoren de volgende werkdag ter beschikking aan de programmaverantwoordelijken die het aangaan.
+
+## Bijlage 2. Gedimensioneerde profielen voor openbare verlichting en verkeersregelinstallaties
+
+### B2.1. Openbare verlichting
+
+Indien naar het oordeel van de netbeheerder redelijke twijfel bestaat over de juistheid en de volledigheid van de in B2.1.1, onderdelen a tot en met d, en B2.1.5 bedoelde informatie en van de in B2.1.8 bedoelde bestuurdersverklaring, overlegt de aangeslotene desgevraagd een extern audit-rapport aangaande de juistheid en de volledigheid van de in B2.1.1, onderdelen a tot en met d en B2.1.5 bedoelde informatie
+
+### B2.2. Verkeersregelinstallaties
+
+Op het belastingprofiel bedoeld in B2.2.2 respectievelijk B2.2.3 zijn – voor zover van toepassing – [6.3.5](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=6&paragraaf=6.3&sub-paragraaf=6.3.5&z=2016-07-27&g=2016-07-27) en [6.3.10](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=6&paragraaf=6.3&sub-paragraaf=6.3.10&z=2016-07-27&g=2016-07-27) van kracht.
+
+## Bijlage 3. Verbruiksprofielen gas
+
+### B3.1. Vaststelling en beheer van verbruiksprofielen
+
+Ten behoeve van de vaststelling en het beheer van de verbruiksprofielen organiseert een representatief deel van de ondernemingen die zich bezighouden met het transporteren, leveren of meten van gas een overlegplatform, waarin naast een delegatie van een representatief deel van de ondernemingen die zich bezighouden met het transporteren, leveren of meten van gas tevens zitting hebben alle erkende programmaverantwoordelijken die transporteren voor profielafnemers.
+
+### B3.2. Standaardprofielen gas
+
+Alle berekeningen in het kader van de verbruiksprofielen worden uitgevoerd met variabelen met zoveel mogelijk cijfers achter de komma ('single precision floating point').
+
+### B3.3. Indeling van verbruikers in profielcategorieën gas
+
+De herberekening van het standaardjaarverbruik leidt niet tot herziening van de toegewezen profielcategorie.
+
+### B3.4. Het standaardjaarverbruik gas
+
+De netbeheerder muteert het aansluitingenregister met het standaardjaarverbruik, bedoeld in B3.4.9, uiterlijk vijf werkdagen na het bepalen van het standaardjaarverbruik overeenkomstig [2.1.8](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&hoofdstuk=2&paragraaf=2.1&artikel=2.1.8&z=2016-07-27&g=2016-07-27).
+
+### B3.5. De bepaling van de gegevens
+
+Het standaardjaarverbruik van een profielafnemer vormt de basis van de door de RNB uit te voeren profielberekeningen.
+
+### B3.5.1. Berekening ten behoeve van de allocatie
+
+Het aldus berekende veronderstelde geprofileerde verbruik is de basis voor de allocatie op grond van de ‘profielklanten’.
+
+### B3.6. Wijziging profielenmethodiek
+
+De op grond van B3.6.1 vastgestelde verbruiksprofielen worden door een door een representatief deel van de ondernemingen die zich bezighouden met het transporteren, leveren of meten van gas aangewezen uitvoeringsorganisatie op een geschikte wijze openbaar gemaakt.
 
 ## Bijlage 6. Modelverklaringen Naleving Gedragscodes
 
