@@ -4,7 +4,7 @@ identifier: "BWBV0006533"
 country: "nl"
 rank: "verdrag"
 publication_date: "2016-08-01"
-last_updated: "2015-06-29"
+last_updated: "2016-08-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBV0006533"
 soort: "verdrag"
@@ -44,7 +44,7 @@ Zijn het volgende overeengekomen:
 
 ##### Artikel 1. Doelstelling en reikwijdte van het Verdrag
 
-1. De bevoegde autoriteiten van de verdragsluitende partijen verlenen elkaar bijstand door middel van de uitwisseling van informatie die naar verwachting van belang zal zijn voor de toepassing en handhaving van de nationale wetten van de verdragsluitende partijen die betrekking hebben op de belastingen waarop dit Verdrag van toepassing is. Deze informatie omvat informatie die naar verwachting van belang zal zijn voor de bepaling, vaststelling en inning van deze belastingen, de invordering en tenuitvoerlegging van belastingvorderingen of het onderzoek naar of de vervolging van belastingzaken. Informatie wordt uitgewisseld in overeenstemming met de bepalingen van dit Verdrag en wordt vertrouwelijk behandeld op de wijze voorzien in [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBV0006533&artikel=9&z=2015-06-29&g=2015-06-29). De uit hoofde van de wetgeving of de bestuursrechtelijke praktijk van de aangezochte partij aan personen toegekende rechten en waarborgen blijven van toepassing voor zover zij de doeltreffende uitwisseling van informatie niet onnodig verhinderen of vertragen.
+1. De bevoegde autoriteiten van de verdragsluitende partijen verlenen elkaar bijstand door middel van de uitwisseling van informatie die naar verwachting van belang zal zijn voor de toepassing en handhaving van de nationale wetten van de verdragsluitende partijen die betrekking hebben op de belastingen waarop dit Verdrag van toepassing is. Deze informatie omvat informatie die naar verwachting van belang zal zijn voor de bepaling, vaststelling en inning van deze belastingen, de invordering en tenuitvoerlegging van belastingvorderingen of het onderzoek naar of de vervolging van belastingzaken. Informatie wordt uitgewisseld in overeenstemming met de bepalingen van dit Verdrag en wordt vertrouwelijk behandeld op de wijze voorzien in [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBV0006533&artikel=9&z=2016-08-01&g=2016-08-01). De uit hoofde van de wetgeving of de bestuursrechtelijke praktijk van de aangezochte partij aan personen toegekende rechten en waarborgen blijven van toepassing voor zover zij de doeltreffende uitwisseling van informatie niet onnodig verhinderen of vertragen.
 
 2. Wat het Koninkrijk der Nederlanden betreft is dit Verdrag uitsluitend van toepassing op Aruba.
 
@@ -106,17 +106,17 @@ Een aangezochte partij is niet verplicht informatie te verstrekken die noch in h
 
 ##### Artikel 5. Uitwisseling van informatie op verzoek
 
-1. De bevoegde autoriteit van de aangezochte partij verstrekt op verzoek informatie ten behoeve van de in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBV0006533&artikel=1&z=2015-06-29&g=2015-06-29) bedoelde doelstellingen. Dergelijke informatie wordt uitgewisseld ongeacht of de onderzochte gedragingen, indien deze in de aangezochte partij zouden plaatsvinden, uit hoofde van de wetgeving van de aangezochte partij als een strafbaar feit zouden worden aangemerkt.
+1. De bevoegde autoriteit van de aangezochte partij verstrekt op verzoek informatie ten behoeve van de in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBV0006533&artikel=1&z=2016-08-01&g=2016-08-01) bedoelde doelstellingen. Dergelijke informatie wordt uitgewisseld ongeacht of de onderzochte gedragingen, indien deze in de aangezochte partij zouden plaatsvinden, uit hoofde van de wetgeving van de aangezochte partij als een strafbaar feit zouden worden aangemerkt.
 
 2. Indien de informatie in het bezit van de bevoegde autoriteit van de aangezochte partij niet toereikend is om aan het verzoek om informatie te voldoen, treft die partij alle toepasselijke maatregelen ten behoeve van het verzamelen van informatie teneinde de verzoekende partij de verzochte informatie te verstrekken, ongeacht het feit dat de aangezochte partij ten behoeve van haar eigen belastingheffing niet over dergelijke informatie hoeft te beschikken.
 
 3. Indien de bevoegde autoriteit van de verzoekende partij daar specifiek om verzoekt, is de bevoegde autoriteit van de aangezochte partij gehouden uit hoofde van dit artikel informatie te verstrekken, voor zover zulks is toegestaan in overeenstemming met haar nationale wetgeving, in de vorm van getuigenverklaringen en gewaarmerkte afschriften van originele stukken.
 
-4. Elke verdragsluitende partij waarborgt dat haar bevoegde autoriteiten ten behoeve van de in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBV0006533&artikel=1&z=2015-06-29&g=2015-06-29) van dit Verdrag omschreven doelstellingen over de bevoegdheid beschikken op verzoek het navolgende te verkrijgen en te verstrekken:
+4. Elke verdragsluitende partij waarborgt dat haar bevoegde autoriteiten ten behoeve van de in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBV0006533&artikel=1&z=2016-08-01&g=2016-08-01) van dit Verdrag omschreven doelstellingen over de bevoegdheid beschikken op verzoek het navolgende te verkrijgen en te verstrekken:
 
 - a. informatie die berust bij banken, overige financiële instellingen en personen die bij wijze van vertegenwoordiging of als vertrouwenspersoon optreden, met inbegrip van gevolmachtigden en trustees;
 
-- b. informatie met betrekking tot de eigendom van lichamen, samenwerkingsverbanden, trusts, stichtingen, „Anstalten” en andere personen, met inbegrip van, binnen de beperkingen van [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBV0006533&artikel=2&z=2015-06-29&g=2015-06-29), informatie inzake de eigendom met betrekking tot al deze personen binnen een eigendomsketen; in het geval van trusts, informatie met betrekking tot instellers, trustees en begunstigden; en in het geval van stichtingen, informatie met betrekking tot stichters, leden van het bestuur en begunstigden. Dit Verdrag schept daarnaast geen verplichting voor de verdragsluitende partijen informatie inzake de eigendom te verkrijgen of te verstrekken met betrekking tot beursgenoteerde lichamen of openbare collectieve beleggingsfondsen of openbare collectieve beleggingsregelingen, tenzij deze informatie kan worden verkregen zonder tot onevenredige moeilijkheden te leiden.
+- b. informatie met betrekking tot de eigendom van lichamen, samenwerkingsverbanden, trusts, stichtingen, „Anstalten” en andere personen, met inbegrip van, binnen de beperkingen van [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBV0006533&artikel=2&z=2016-08-01&g=2016-08-01), informatie inzake de eigendom met betrekking tot al deze personen binnen een eigendomsketen; in het geval van trusts, informatie met betrekking tot instellers, trustees en begunstigden; en in het geval van stichtingen, informatie met betrekking tot stichters, leden van het bestuur en begunstigden. Dit Verdrag schept daarnaast geen verplichting voor de verdragsluitende partijen informatie inzake de eigendom te verkrijgen of te verstrekken met betrekking tot beursgenoteerde lichamen of openbare collectieve beleggingsfondsen of openbare collectieve beleggingsregelingen, tenzij deze informatie kan worden verkregen zonder tot onevenredige moeilijkheden te leiden.
 
 5. De bevoegde autoriteit van de verzoekende partij verstrekt de volgende informatie aan de bevoegde autoriteit van de aangezochte partij teneinde aan te tonen dat deze naar verwachting van belang zal zijn voor het verzoek:
 
@@ -142,7 +142,7 @@ Een aangezochte partij is niet verplicht informatie te verstrekken die noch in h
 
 ##### Artikel 6. Spontane uitwisseling van informatie
 
-De verdragsluitende partijen kunnen elkaar zonder voorafgaand verzoek de informatie verstrekken waarvan zij op de hoogte zijn en die naar verwachting van belang kan zijn in overeenstemming met [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBV0006533&artikel=1&z=2015-06-29&g=2015-06-29).
+De verdragsluitende partijen kunnen elkaar zonder voorafgaand verzoek de informatie verstrekken waarvan zij op de hoogte zijn en die naar verwachting van belang kan zijn in overeenstemming met [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBV0006533&artikel=1&z=2016-08-01&g=2016-08-01).
 
 ##### Artikel 7. Belastingcontrole in het buitenland
 
@@ -156,7 +156,7 @@ De verdragsluitende partijen kunnen elkaar zonder voorafgaand verzoek de informa
 
 1. Van de aangezochte partij kan niet worden verlangd dat zij informatie verkrijgt of verstrekt die de verzoekende partij krachtens haar eigen wetgeving niet zou kunnen verkrijgen ten behoeve van de toepassing of handhaving van haar eigen belastingwetten. De bevoegde autoriteit van de aangezochte partij kan weigeren bijstand te verlenen indien het verzoek niet in overeenstemming met dit Verdrag is gedaan.
 
-2. De bepalingen van dit Verdrag mogen een verdragsluitende partij niet verplichten informatie te verstrekken waardoor een handelsgeheim, zakelijk geheim, industrieel, commercieel of beroepsgeheim of handelsproces zou worden onthuld. Niettegenstaande het voorgaande zal de informatie bedoeld in [artikel 5, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0006533&artikel=5&z=2015-06-29&g=2015-06-29), niet als geheim of handelsproces worden behandeld uitsluitend op grond van het feit dat zij aan de in dat lid gestelde criteria voldoet.
+2. De bepalingen van dit Verdrag mogen een verdragsluitende partij niet verplichten informatie te verstrekken waardoor een handelsgeheim, zakelijk geheim, industrieel, commercieel of beroepsgeheim of handelsproces zou worden onthuld. Niettegenstaande het voorgaande zal de informatie bedoeld in [artikel 5, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0006533&artikel=5&z=2016-08-01&g=2016-08-01), niet als geheim of handelsproces worden behandeld uitsluitend op grond van het feit dat zij aan de in dat lid gestelde criteria voldoet.
 
 3. De bepalingen van dit Verdrag mogen een verdragsluitende partij niet verplichten informatie te verkrijgen of te verstrekken waardoor vertrouwelijke communicatie tussen een cliënt en een advocaat of een andere erkende juridische vertegenwoordiger zou worden onthuld indien dergelijke communicatie:
 
@@ -186,7 +186,7 @@ De verdragsluitende partijen stellen alle wetgeving vast die noodzakelijk is om 
 
 1. De bevoegde autoriteiten trachten moeilijkheden of twijfelpunten die mochten rijzen tussen de verdragsluitende partijen met betrekking tot de uitvoering of de uitlegging van dit Verdrag in onderling overleg op te lossen.
 
-2. Naast de in het eerste lid van dit artikel bedoelde afspraken kunnen de bevoegde autoriteiten van de verdragsluitende partijen in onderling overleg de krachtens de [artikelen 5](https://wetten.overheid.nl/jci1.3:c:BWBV0006533&artikel=5&z=2015-06-29&g=2015-06-29) en [7](https://wetten.overheid.nl/jci1.3:c:BWBV0006533&artikel=7&z=2015-06-29&g=2015-06-29) te hanteren procedures vaststellen.
+2. Naast de in het eerste lid van dit artikel bedoelde afspraken kunnen de bevoegde autoriteiten van de verdragsluitende partijen in onderling overleg de krachtens de [artikelen 5](https://wetten.overheid.nl/jci1.3:c:BWBV0006533&artikel=5&z=2016-08-01&g=2016-08-01) en [7](https://wetten.overheid.nl/jci1.3:c:BWBV0006533&artikel=7&z=2016-08-01&g=2016-08-01) te hanteren procedures vaststellen.
 
 3. De bevoegde autoriteiten van de verdragsluitende partijen kunnen zich rechtstreeks met elkaar in verbinding stellen teneinde overeenstemming als bedoeld in dit artikel te bereiken.
 
@@ -204,7 +204,7 @@ De aangehechte bijlage maakt een integrerend onderdeel uit van dit Verdrag.
 
 - a. op strafrechtelijke belastingzaken op die datum; en
 
-- b. op alle overige aangelegenheden op die datum waarop [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBV0006533&artikel=1&z=2015-06-29&g=2015-06-29) van toepassing is, zij het uitsluitend met betrekking tot belastingtijdvakken beginnend op of na die datum, of bij ontbreken van een belastingtijdvak, alle belastingvorderingen ontstaan op of na die datum.
+- b. op alle overige aangelegenheden op die datum waarop [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBV0006533&artikel=1&z=2016-08-01&g=2016-08-01) van toepassing is, zij het uitsluitend met betrekking tot belastingtijdvakken beginnend op of na die datum, of bij ontbreken van een belastingtijdvak, alle belastingvorderingen ontstaan op of na die datum.
 
 ##### Artikel 15. Beëindiging
 
@@ -212,13 +212,13 @@ De aangehechte bijlage maakt een integrerend onderdeel uit van dit Verdrag.
 
 2. Deze beëindiging wordt van kracht op de eerste dag van de maand die volgt op het verstrijken van een tijdvak van zes maanden na de datum van ontvangst van de kennisgeving van beëindiging door de andere verdragsluitende partij.
 
-3. Na de beëindiging van dit Verdrag blijven de verdragsluitende partijen gebonden door de voorwaarden van [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBV0006533&artikel=9&z=2015-06-29&g=2015-06-29) van dit Verdrag ten aanzien van alle uit hoofde van het Verdrag verkregen informatie.
+3. Na de beëindiging van dit Verdrag blijven de verdragsluitende partijen gebonden door de voorwaarden van [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBV0006533&artikel=9&z=2016-08-01&g=2016-08-01) van dit Verdrag ten aanzien van alle uit hoofde van het Verdrag verkregen informatie.
 
 In deze bijlage zijn de intenties vervat van de verdragsluitende partijen inzake de kwesties die hierin aan de orde komen.
 
-##### Ad [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBV0006533&artikel=10&z=2015-06-29&g=2015-06-29)
+##### Ad [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBV0006533&artikel=10&z=2016-08-01&g=2016-08-01)
 
-1. Ingevolge [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBV0006533&artikel=10&z=2015-06-29&g=2015-06-29) van het Verdrag worden gewone kosten die ontstaan bij de normale gang van zaken bij de tenuitvoerlegging van de nationale belastingwetgeving van de aangezochte partij gedragen door de aangezochte partij indien deze kosten worden gemaakt ten behoeve van het antwoord op een verzoek om informatie. Gewone kosten omvatten interne administratiekosten, beperkte externe kosten en uitgaven voor de overhead die de aangezochte partij heeft gemaakt voor het toetsen en reageren op door de verzoekende partij ingediende verzoeken.
+1. Ingevolge [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBV0006533&artikel=10&z=2016-08-01&g=2016-08-01) van het Verdrag worden gewone kosten die ontstaan bij de normale gang van zaken bij de tenuitvoerlegging van de nationale belastingwetgeving van de aangezochte partij gedragen door de aangezochte partij indien deze kosten worden gemaakt ten behoeve van het antwoord op een verzoek om informatie. Gewone kosten omvatten interne administratiekosten, beperkte externe kosten en uitgaven voor de overhead die de aangezochte partij heeft gemaakt voor het toetsen en reageren op door de verzoekende partij ingediende verzoeken.
 
 2. Directe buitengewone kosten gemaakt bij het verlenen van bijstand worden gedragen door de verzoekende partij. Voorbeelden van deze kosten omvatten, maar zijn niet beperkt tot:
 
