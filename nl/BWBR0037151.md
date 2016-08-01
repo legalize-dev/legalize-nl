@@ -4,7 +4,7 @@ identifier: "BWBR0037151"
 country: "nl"
 rank: "wet"
 publication_date: "2018-08-01"
-last_updated: "2016-02-01"
+last_updated: "2016-08-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0037151"
 soort: "wet"
@@ -49,19 +49,27 @@ Wijzigt de Wet educatie en beroepsonderwijs.
 
 ##### Artikel II. Wijziging [Wet op het onderwijstoezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0013800)
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Wet op het onderwijstoezicht.
 
 ##### Artikel III. Wijziging [Wet educatie en beroepsonderwijs BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028395)
+
+Wijzigt de Wet educatie en beroepsonderwijs BES.
 
 Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel IV. Invoeringsbepalingen
 
-Dit onderdeel is nog niet inwerking getreden
+1. Op het moment van inwerkingtreding van deze wet strekt de beschikking afgegeven op grond van [artikel 1.4.1 van de Wet educatie en beroepsonderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=1.4.1) zich mede uit over keuzedelen.
+
+2. Tot een bij koninklijk besluit te bepalen tijdstip geldt invoering van keuzedelen op grond van deze wet niet voor de beroepsbegeleidende leerweg, bedoeld in [artikel 7.2.2, tweede lid, van de Wet educatie en beroepsonderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=7.2.2).
+
+3. Tot een bij koninklijk besluit te bepalen tijdstip geldt invoering van keuzedelen op grond van deze wet niet voor de entreeopleiding, bedoeld in [artikel 7.2.2, eerste lid, onderdeel a, van de Wet educatie en beroepsonderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=7.2.2).
+
+4. Tot een bij koninklijk besluit te bepalen tijdstip geldt invoering van keuzedelen op grond van deze wet niet voor de specialistenopleiding, bedoeld in [artikel 7.2.2, eerste lid, onderdeel e, van de Wet educatie en beroepsonderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=7.2.2).
 
 ##### Artikel V. Overgangsbepalingen
 
-Dit onderdeel is nog niet inwerking getreden
+Deelnemers die op grond van de [Wet educatie en beroepsonderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0007625), zoals deze luidde op het moment voor inwerkingtreding van deze wet een beroepsopleiding volgen, worden door het bevoegd gezag in de gelegenheid gesteld deze beroepsopleiding te voltooien, gedurende een periode van de desbetreffende studieduur vermeerderd met twee jaar.
 
 ##### Artikel VI. Inwerkingtreding
 
