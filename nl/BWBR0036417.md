@@ -4,7 +4,7 @@ identifier: "BWBR0036417"
 country: "nl"
 rank: "zbo"
 publication_date: "2019-08-01"
-last_updated: "2015-08-01"
+last_updated: "2016-08-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0036417"
 soort: "zbo"
@@ -50,7 +50,7 @@ De syllabus, bedoeld in [artikel 6, eerste lid, onderdeel a, van het Examen- en 
 
 1. Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
-2. De onder [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0036417&artikel=1&z=2015-08-01&g=2015-08-01) genoemde syllabus wordt gepubliceerd op Examenbladmbo.nl.
+2. De onder [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0036417&artikel=1&z=2016-08-01&g=2016-08-01) genoemde syllabus wordt gepubliceerd op Examenbladmbo.nl.
 
 ##### Artikel 3. inwerkingtreding
 
