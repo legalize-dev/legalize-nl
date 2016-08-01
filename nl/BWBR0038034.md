@@ -4,7 +4,7 @@ identifier: "BWBR0038034"
 country: "nl"
 rank: "wet"
 publication_date: "2016-10-01"
-last_updated: "2016-01-01"
+last_updated: "2016-08-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0038034"
 soort: "wet"
@@ -41,7 +41,7 @@ entry_into_force: "2016-08-01"
 
 ##### Artikel I
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Geneesmiddelenwet.
 
 ##### Artikel II
 
@@ -57,19 +57,19 @@ Wijzigt de Kaderwet VWS-subsidies.
 
 ##### Artikel V
 
-Dit onderdeel is nog niet inwerking getreden
+(vervallen)
 
 ##### Artikel VI
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Opiumwet.
 
 ##### Artikel VII
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Wet donorgegevens kunstmatige bevruchting.
 
 ##### Artikel VIII
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Wet inzake bloedvoorziening.
 
 ##### Artikel IX
 
@@ -85,7 +85,7 @@ Wijzigt de Wet marktordening gezondheidszorg.
 
 ##### Artikel XII
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Wet medisch-wetenschappelijk onderzoek met mensen.
 
 ##### Artikel XIII
 
@@ -93,11 +93,11 @@ Wijzigt de Wet op de beroepen in de individuele gezondheidszorg.
 
 ##### Artikel XIV
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Wet op de medische hulpmiddelen.
 
 ##### Artikel XV
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Wet op de orgaandonatie.
 
 ##### Artikel XVI
 
@@ -105,7 +105,7 @@ Wijzigt de Wet toelating zorginstellingen.
 
 ##### Artikel XVII
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Wet veiligheid en kwaliteit lichaamsmateriaal.
 
 ##### Artikel XVIII
 
@@ -131,7 +131,7 @@ Wijzigt de Ambtenarenwet.
 
 ##### Artikel XXIII
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt het Burgerlijk Wetboek Boek 1 en Boek 7.
 
 ##### Artikel XXIV
 
@@ -173,11 +173,11 @@ Wijzigt de Wet structuur uitvoeringsorganisatie werk en inkomen.
 
 ##### Artikel XXXIII
 
-Dit onderdeel is nog niet inwerking getreden
+Uiterlijk zes maanden na de inwerkingtreding van deze wet worden de archiefbescheiden van het College bouw zorginstellingen, bedoeld in de [Wet toelating zorginstellingen](https://wetten.overheid.nl/jci1.3:c:BWBR0018906), zoals die wet luidde onmiddellijk voor het tijdstip van inwerkingtreding van deze wet, behoudens voor zover die, nadat is voldaan aan de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0007376&artikel=3) en [5 van de Archiefwet 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007376&artikel=5), worden overgebracht naar de algemene rijksarchiefbewaarplaats, overgedragen aan Onze Minister van Volksgezondheid, Welzijn en Sport.
 
 ##### Artikel XXXIV
 
-Dit onderdeel is nog niet inwerking getreden
+De professionele standaard die voor het tijdstip van inwerkingtreding van deze wet is ingeschreven in het openbaar register, bedoeld in [artikel 66b in de Zorgverzekeringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&artikel=66b), zoals dat artikel tot dat tijdstip luidde, wordt aangemerkt als kwaliteitsstandaard in de zin van artikel 66b van de Zorgverzekeringswet zoals dat luidt door de inwerkingtreding van deze wet.
 
 ##### Artikel XXXV
 
@@ -187,11 +187,11 @@ Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel XXXVI
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt deze wet.
 
 ##### Artikel XXXVII
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Wijzigingswet Wet cliëntenrechten zorg, enz. (cliëntenrechten bij elektronische verwerking van gegevens)(KST 33509).
 
 ##### Artikel XXXVIII
 
@@ -199,7 +199,7 @@ Wijzigt de Wet kwaliteit, klachten en geschillen zorg.
 
 ##### Artikel XXXVIIIa
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Warenwet.
 
 ##### Artikel XXXVIIIb
 
@@ -207,8 +207,26 @@ Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel XXXIX
 
-Dit onderdeel is nog niet inwerking getreden
+1. De artikelen van deze wet treden in werking op een bij koninklijk besluit te bepalen tijdstip, dat voor de verschillende artikelen of onderdelen daarvan verschillend kan worden vastgesteld.
+
+2. De [artikelen II tot en met IV](https://wetten.overheid.nl/jci1.3:c:BWBR0038034&paragraaf=1&artikel=II&z=2016-08-01&g=2016-08-01), [IX](https://wetten.overheid.nl/jci1.3:c:BWBR0038034&paragraaf=1&artikel=IX&z=2016-08-01&g=2016-08-01), met uitzondering van onderdeel Da, [X](https://wetten.overheid.nl/jci1.3:c:BWBR0038034&paragraaf=1&artikel=X&z=2016-08-01&g=2016-08-01), [XI, onderdeel E](https://wetten.overheid.nl/jci1.3:c:BWBR0038034&paragraaf=1&artikel=XI&z=2016-08-01&g=2016-08-01), [XIII](https://wetten.overheid.nl/jci1.3:c:BWBR0038034&paragraaf=1&artikel=XIII&z=2016-08-01&g=2016-08-01), [XVI, onderdeel F, 2, en onderdeel I](https://wetten.overheid.nl/jci1.3:c:BWBR0038034&paragraaf=1&artikel=XVI&z=2016-08-01&g=2016-08-01), [XVIII, onderdelen B en G](https://wetten.overheid.nl/jci1.3:c:BWBR0038034&paragraaf=1&artikel=XVIII&z=2016-08-01&g=2016-08-01), [XX](https://wetten.overheid.nl/jci1.3:c:BWBR0038034&paragraaf=2&artikel=XX&z=2016-08-01&g=2016-08-01), [XXI](https://wetten.overheid.nl/jci1.3:c:BWBR0038034&paragraaf=2&artikel=XXI&z=2016-08-01&g=2016-08-01), [XXIV tot en met XXXII](https://wetten.overheid.nl/jci1.3:c:BWBR0038034&paragraaf=2&artikel=XXIV&z=2016-08-01&g=2016-08-01), [XXXV](https://wetten.overheid.nl/jci1.3:c:BWBR0038034&paragraaf=3&artikel=XXXV&z=2016-08-01&g=2016-08-01) en [XXXVIII, onderdeel A, 2](https://wetten.overheid.nl/jci1.3:c:BWBR0038034&paragraaf=3&artikel=XXXVIII&z=2016-08-01&g=2016-08-01), werken terug tot en met 1 januari 2015.
+
+3. De [artikelen XI, onderdelen A tot en met D](https://wetten.overheid.nl/jci1.3:c:BWBR0038034&paragraaf=1&artikel=XI&z=2016-08-01&g=2016-08-01), [XVI](https://wetten.overheid.nl/jci1.3:c:BWBR0038034&paragraaf=1&artikel=XVI&z=2016-08-01&g=2016-08-01), met uitzondering van onderdeel F, 2, en onderdeel I, [XVIII, onderdelen AA en F](https://wetten.overheid.nl/jci1.3:c:BWBR0038034&paragraaf=1&artikel=XVIII&z=2016-08-01&g=2016-08-01), [XIX](https://wetten.overheid.nl/jci1.3:c:BWBR0038034&paragraaf=1&artikel=XIX&z=2016-08-01&g=2016-08-01) en [XXII](https://wetten.overheid.nl/jci1.3:c:BWBR0038034&paragraaf=2&artikel=XXII&z=2016-08-01&g=2016-08-01) werken terug tot en met 1 januari 2016.
 
 ##### Artikel XXXX
 
-Dit onderdeel is nog niet inwerking getreden
+Deze wet wordt aangehaald als: Verzamelwet VWS 2016.
+
+Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
+
+Alzo Wij in overweging genomen hebben, dat het wenselijk is om enige wetten op het terrein van het ministerie van Volksgezondheid, Welzijn en Sport te wijzigen teneinde daarin misslagen te verbeteren en omissies weg te nemen, enige andere wetten technisch te wijzigen teneinde de broninhouding van eigen bijdragen voor beschermd wonen ingevolge de [Wet maatschappelijke ondersteuning 2015](https://wetten.overheid.nl/jci1.3:c:BWBR0035362&wetgeving) te kunnen voortzetten, zoals dat ook mogelijk was toen beschermd wonen nog onder de aanspraken ingevolge de [Algemene Wet Bijzondere Ziektekosten](https://wetten.overheid.nl/jci1.3:c:BWBR0002614&wetgeving) viel, de [Geneesmiddelenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0021505) te wijzigen teneinde ook personen met een tijdelijke voorschrijfbevoegdheid onder de regels over geneesmiddelenreclame te brengen, de [Wet donorgegevens kunstmatige bevruchting](https://wetten.overheid.nl/jci1.3:c:BWBR0013642) te wijzigen teneinde een wettelijke grondslag op te nemen voor het gebruik van het burgerservicenummer en de [Wet toelating zorginstellingen](https://wetten.overheid.nl/jci1.3:c:BWBR0018906) te wijzigen teneinde het College bouw zorginstellingen, dat geen wettelijke taken meer heeft, op te heffen;
+
+Zo is het, dat Wij, de Afdeling advisering van de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
+
+#### § 1. Wetten van het ministerie van Volksgezondheid, Welzijn en Sport
+
+#### § 2. **Wetten van andere ministeries**
+
+#### § 3. **Slot- en overgangsbepalingen**
+
+Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren die zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
