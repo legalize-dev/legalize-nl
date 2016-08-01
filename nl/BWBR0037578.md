@@ -4,7 +4,7 @@ identifier: "BWBR0037578"
 country: "nl"
 rank: "pbo"
 publication_date: "2021-01-01"
-last_updated: "2016-02-01"
+last_updated: "2016-08-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0037578"
 soort: "pbo"
@@ -56,7 +56,7 @@ stelt de navolgende beleidsregel vast:
 
 - c. de bekwaamheid is opgedaan vanuit een partijdige invalshoek.
 
-4. De stagiaire doet de aanvraag door middel van het ‘formulier aanvraag vrijstelling onderwijs’ in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0037578&bijlage=1&z=2016-02-01&g=2016-02-01).
+4. De stagiaire doet de aanvraag door middel van het ‘formulier aanvraag vrijstelling onderwijs’ in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0037578&bijlage=1&z=2016-08-01&g=2016-08-01).
 
 ##### Artikel 2. vrijstelling van het examen
 
@@ -66,29 +66,25 @@ stelt de navolgende beleidsregel vast:
 
 - a. het voor de stagiaire de eerste toetsgelegenheid van het onderdeel is;
 
-- b. de stagiaire ten minste voldoet aan de vereisten voor vrijstelling deelname onderwijs, bedoeld in [artikel 1, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037578&artikel=1&z=2016-02-01&g=2016-02-01); en
+- b. de stagiaire ten minste voldoet aan de vereisten voor vrijstelling deelname onderwijs, bedoeld in [artikel 1, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037578&artikel=1&z=2016-08-01&g=2016-08-01); en
 
 - c. de stagiaire door middel van in wetenschappelijke tijdschriften gepubliceerde artikelen of behaalde diploma’s een diepgaande theoretische bekwaamheid heeft verworven.
 
-3. De stagiaire doet de aanvraag door middel van het ‘formulier aanvraag vrijstelling toets’ in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0037578&artikel=2&z=2016-02-01&g=2016-02-01).
+3. De stagiaire doet de aanvraag door middel van het ‘formulier aanvraag vrijstelling toets’ in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0037578&artikel=2&z=2016-08-01&g=2016-08-01).
 
-##### Artikel 3. vrijstelling deelname onderwijs en van het examen voor RAIO, RIO en IDR
+##### Artikel 3. vrijstelling deelname onderwijs en van het examen voor RIO en OIO
 
-1. De algemene raad verleent aan de stagiaire die is ingeschreven op het tableau vanwege de hoedanigheid van rechterlijk ambtenaar in opleiding (RAIO) of rechter in opleiding (RIO) vrijstelling van deelname aan het onderwijs en van het examen, met uitzondering van het introductieblok van het vak beroepsattitude & beroepsethiek.
+1. De algemene raad verleent aan de stagiaire die is ingeschreven op het tableau vanwege de hoedanigheid van rechter in opleiding (RIO) of officier van justitie in opleiding (OIO) vrijstelling van deelname aan het onderwijs en vrijstelling van het examen, met uitzondering van het introductieblok van het vak beroepsattitude & beroepsethiek.
 
-2. De algemene raad verleent aan de stagiaire die is ingeschreven op het tableau vanwege de hoedanigheid van kandidaat Interne Doorstroom Rechterlijke macht (IDR) vrijstelling van deelname aan het onderwijs en van het examen, met uitzondering van het introductieblok van het vak beroepsattitude & beroepsethiek en de major.
+2. De stagiaire die de hoedanigheid heeft van rechter in opleiding of officier van justitie in opleiding , doet de aanvraag door middel van het formulier ‘aanmeldformulier beroepsopleiding advocaten RIO/ OIO ’.
 
-3. De stagiaire die rechterlijk ambtenaar in opleiding of rechter in opleiding is, doet de aanvraag door middel van het formulier ‘aanmeldformulier beroepsopleiding advocaten RAIO/RIO’.
-
-4. De stagiaire die kandidaat Interne Doorstroom Rechterlijke macht is, doet de aanvraag door middel van het formulier ‘aanmeldformulier beroepsopleiding advocaten IDR’.
-
-5. Aan de vrijstelling deelname onderwijs en van het examen voor RAIO, RIO en IDR verbindt de algemene raad in ieder geval de voorwaarde dat de stagiaire verzoekt om schrapping van het tableau na afloop van de periode voor het opdoen van werkervaring in het kader van de rechterlijke opleiding en uiterlijk met ingang van een door de algemene raad in ieder geval te bepalen datum.
+3. Aan de vrijstelling deelname onderwijs en vrijstelling van het examen voor RIO en OIO verbindt de algemene raad in ieder geval de voorwaarde dat de stagiaire verzoekt om schrapping van het tableau na afloop van de periode voor het opdoen van werkervaring in het kader van de rechterlijke opleiding en uiterlijk met ingang van een door de algemene raad in ieder geval te bepalen datum.
 
 ##### Artikel 4. toepassing hardheidsclausule deelname onderwijs en examinering
 
 1. De algemene raad wijkt niet af van [artikel 3.17, tweede of derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035981&artikel=3.17), of van [artikel 3.19, derde, vierde, vijfde, zevende of achtste lid, van de Verordening op de advocatuur](https://wetten.overheid.nl/jci1.3:c:BWBR0035981&artikel=3.19), indien het verzoek wordt ingediend bij de algemene raad meer dan vier weken na aanvang van het onderwijs of na de betreffende toetsgelegenheid.
 
-2. De stagiaire doet het verzoek tot toepassing van de hardheidsclausule door middel van het ‘formulier verzoek toepassing hardheidsclausule BA’ in [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0037578&bijlage=3&z=2016-02-01&g=2016-02-01).
+2. De stagiaire doet het verzoek tot toepassing van de hardheidsclausule door middel van het ‘formulier verzoek toepassing hardheidsclausule BA’ in [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0037578&bijlage=3&z=2016-08-01&g=2016-08-01).
 
 ##### Artikel 5. intrekking
 
