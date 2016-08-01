@@ -4,7 +4,7 @@ identifier: "BWBR0037464"
 country: "nl"
 rank: "amvb"
 publication_date: "2016-08-01"
-last_updated: "2016-01-01"
+last_updated: "2016-08-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0037464"
 soort: "AMvB"
@@ -110,19 +110,19 @@ Wijzigt het Uitvoeringsbesluit internationale bijstandsverlening bij de heffing 
 
 1. Dit besluit treedt in werking met ingang van 1 januari 2016, met dien verstande dat:
 
-- a. [artikel XIII, onderdeel A](https://wetten.overheid.nl/jci1.3:c:BWBR0037464&artikel=XIII&z=2016-01-01&g=2016-01-01), terugwerkt tot en met 1 januari 2013;
+- a. [artikel XIII, onderdeel A](https://wetten.overheid.nl/jci1.3:c:BWBR0037464&artikel=XIII&z=2016-08-01&g=2016-08-01), terugwerkt tot en met 1 januari 2013;
 
-- b. [artikel V, onderdeel E, onder 4 en 6](https://wetten.overheid.nl/jci1.3:c:BWBR0037464&artikel=V&z=2016-01-01&g=2016-01-01), terugwerkt tot en met 1 januari 2015;
+- b. [artikel V, onderdeel E, onder 4 en 6](https://wetten.overheid.nl/jci1.3:c:BWBR0037464&artikel=V&z=2016-08-01&g=2016-08-01), terugwerkt tot en met 1 januari 2015;
 
-- c. [artikel I, onderdelen C, D, onder 1, 3, 4, 5, 6, 7, 8 en 10, F en H](https://wetten.overheid.nl/jci1.3:c:BWBR0037464&artikel=I&z=2016-01-01&g=2016-01-01), terugwerkt tot en met 15 september 2015, 15.15 uur;
+- c. [artikel I, onderdelen C, D, onder 1, 3, 4, 5, 6, 7, 8 en 10, F en H](https://wetten.overheid.nl/jci1.3:c:BWBR0037464&artikel=I&z=2016-08-01&g=2016-08-01), terugwerkt tot en met 15 september 2015, 15.15 uur;
 
-- d. de [artikelen III](https://wetten.overheid.nl/jci1.3:c:BWBR0037464&artikel=III&z=2016-01-01&g=2016-01-01) en [XV](https://wetten.overheid.nl/jci1.3:c:BWBR0037464&artikel=XV&z=2016-01-01&g=2016-01-01) terugwerken tot en met 1 november 2015;
+- d. de [artikelen III](https://wetten.overheid.nl/jci1.3:c:BWBR0037464&artikel=III&z=2016-08-01&g=2016-08-01) en [XV](https://wetten.overheid.nl/jci1.3:c:BWBR0037464&artikel=XV&z=2016-08-01&g=2016-08-01) terugwerken tot en met 1 november 2015;
 
-- e. [artikel XVI](https://wetten.overheid.nl/jci1.3:c:BWBR0037464&artikel=XVI&z=2016-01-01&g=2016-01-01) voor het eerst toepassing vindt met betrekking tot beboetbare feiten die zijn begaan op of na 1 januari 2016.
+- e. [artikel XVI](https://wetten.overheid.nl/jci1.3:c:BWBR0037464&artikel=XVI&z=2016-08-01&g=2016-08-01) voor het eerst toepassing vindt met betrekking tot beboetbare feiten die zijn begaan op of na 1 januari 2016.
 
-2. In afwijking van het eerste lid treedt [artikel V, onderdeel E, onder 1 en 2](https://wetten.overheid.nl/jci1.3:c:BWBR0037464&artikel=V&z=2016-01-01&g=2016-01-01), in werking met ingang van 1 augustus 2016.
+2. In afwijking van het eerste lid treedt [artikel V, onderdeel E, onder 1 en 2](https://wetten.overheid.nl/jci1.3:c:BWBR0037464&artikel=V&z=2016-08-01&g=2016-08-01), in werking met ingang van 1 augustus 2016.
 
-3. In afwijking van het eerste lid treedt [artikel XI](https://wetten.overheid.nl/jci1.3:c:BWBR0037464&artikel=XI&z=2016-01-01&g=2016-01-01) in werking met ingang van het van toepassing worden van de [artikelen XLII](https://wetten.overheid.nl/jci1.3:c:BWBR0037444&artikel=XLII) en [L van het Belastingplan 2016](https://wetten.overheid.nl/jci1.3:c:BWBR0037444&artikel=L).
+3. In afwijking van het eerste lid treedt [artikel XI](https://wetten.overheid.nl/jci1.3:c:BWBR0037464&artikel=XI&z=2016-08-01&g=2016-08-01) in werking met ingang van het van toepassing worden van de [artikelen XLII](https://wetten.overheid.nl/jci1.3:c:BWBR0037444&artikel=XLII) en [L van het Belastingplan 2016](https://wetten.overheid.nl/jci1.3:c:BWBR0037444&artikel=L).
 
 Op de voordracht van de Staatssecretaris van Financiën van 23 november 2015, nr. IZV/2015/984;
 
