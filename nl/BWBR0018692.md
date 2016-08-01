@@ -4,7 +4,7 @@ identifier: "BWBR0018692"
 country: "nl"
 rank: "amvb"
 publication_date: "2022-08-01"
-last_updated: "2013-12-19"
+last_updated: "2016-08-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0018692"
 soort: "AMvB"
@@ -704,51 +704,11 @@ In deze titel wordt verstaan onder:
 
 ##### Artikel 4.1. Aanwijzing onderwijsactiviteiten vakleerkrachten basisonderwijs
 
-De op grond van [artikel 3, eerste lid onder b.1°, van de Wet op het primair onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=3) aan te wijzen onderwijsactiviteiten, bedoeld in [artikel 9 van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=9), zijn:
-
-- a. tekenen;
-
-- b. muziek;
-
-- c. handvaardigheid;
-
-- d. spel en beweging;
-
-- e. bevordering van het taalgebruik;
-
-- f. Engelse taal;
-
-- g. Friese taal;
-
-- h. zintuiglijke en lichamelijke oefening;
-
-- i. Duitse taal;
-
-- j. Franse taal.
+De op grond van [artikel 3, eerste lid, onder b.1°, van de Wet op het primair onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=3) aan te wijzen onderwijsactiviteiten, bedoeld in [artikel 9 van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=9), zijn alle in die bepaling genoemde en bedoelde onderwijsactiviteiten.
 
 ##### Artikel 4.2. Aanwijzing onderwijsactiviteiten vakleerkrachten speciaal onderwijs
 
-De op grond van [artikel 3, eerste lid onder b.1°, van de Wet op de expertisecentra](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=3) aan te wijzen onderdelen en vakken als bedoeld in [artikel 13, eerste, tweede, vijfde en zesde lid, van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=13), zijn:
-
-- a. tekenen;
-
-- b. muziek;
-
-- c. handvaardigheid;
-
-- d. spel en beweging;
-
-- e. bevordering van het taalgebruik;
-
-- f. Engelse taal;
-
-- g. Friese taal;
-
-- h. zintuiglijke oefening;
-
-- i. lichamelijke oefening;
-
-- j. huishoudelijke activiteiten.
+De op grond van [artikel 3, eerste lid, onder b.1°, van de Wet op de expertisecentra](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=3) aan te wijzen onderdelen en vakken als bedoeld in [artikel 13, eerste, tweede, vijfde en zesde lid, van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=13) zijn alle in dat artikel genoemde en bedoelde onderdelen en vakken.
 
 ##### Artikel 4.3. Aanwijzing onderwijsactiviteiten vakleerkrachten voortgezet speciaal onderwijs
 
@@ -760,7 +720,7 @@ De op grond van [artikel 3, eerste lid, onder b.1°, van de Wet op de expertisec
 
 De verklaring omtrent het gedrag, bedoeld in [artikel 32, negende lid, van de Wet op het primair onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=32) en [artikel 32, negende lid, van de Wet op de expertisecentra](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=32), is bij overlegging aan het bevoegd gezag niet ouder dan zes maanden.
 
-### Hoofdstuk 6. Slotbepalingen
+### Hoofdstuk 5. Overige bepalingen
 
 ##### Artikel 6.1. Inwerkingtreding, citeertitel
 
@@ -797,6 +757,26 @@ De op grond van [artikel 33, lid 1b, van de Wet op het voortgezet onderwijs](htt
 - k. praktijkoriënterende vakken.
 
 ### Hoofdstuk 5. Overige bepalingen
+
+### Hoofdstuk 6. Slotbepalingen
+
+Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
+
+##### Artikel 3.2. Tijdelijke afwijking bekwaamheidseisen leraren beroepsgerichte vakken vmbo
+
+1. Voor de toepassing van dit artikel wordt verstaan onder:
+
+- **afdelingsvak, intrasectoraal programma of intersectoraal programma:** een afdelingsvak, intrasectoraal programma of intersectoraal programma als bedoeld in [artikel 10b, zevende lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0002399&artikel=10b), of [10d, zevende lid, onderdeel b, van de Wet op het voortgezet onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0002399&artikel=10d), zoals die wet luidde op 31 juli 2016;
+
+- **beroepsgericht vak:** een profielvak als bedoeld in [artikel 10b, zesde lid, aanhef](https://wetten.overheid.nl/jci1.3:c:BWBR0002399&artikel=10b), of [10d, zesde lid, aanhef, van de Wet op het voortgezet onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0002399&artikel=10d), of een beroepsgericht keuzevak als bedoeld in artikel 10b, zevende lid, onderdeel a, of 10d, zevende lid, onderdeel b, van die wet, behorende tot een profiel als bedoeld in artikel 10b, derde lid, of 10d, derde lid, van die wet.
+
+2. Ten aanzien van een leraar die in vaste dienst verbonden is aan een school voor voorbereidend beroepsonderwijs en aan die school een beroepsgericht vak verzorgt, maar niet in het bezit is van een getuigschrift, afgegeven krachtens de [Wet op het hoger onderwijs en wetenschappelijk onderzoek](https://wetten.overheid.nl/jci1.3:c:BWBR0005682), waaruit blijkt dat hij ten aanzien van het onderwijs in dat vak voldoet aan de bekwaamheidseisen die zijn vastgesteld in [hoofdstuk 2](https://wetten.overheid.nl/jci1.3:c:BWBR0018692&hoofdstuk=2&z=2017-03-29&g=2016-08-01) van dit besluit, is [artikel 33, eerste lid, onderdeel b, van de Wet op het voortgezet onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0002399&artikel=33) tot en met 31 juli 2021 niet van toepassing indien de leraar al voor 1 augustus 2016 aan een school belast was met werkzaamheden als leraar in een afdelingsvak, intrasectoraal programma of intersectoraal programma dat verwant is aan het door de leraar verzorgde beroepsgerichte vak.
+
+3. Een beroepsgericht vak en een afdelingsvak, intrasectoraal programma of intersectoraal programma zijn aan elkaar verwant indien het profiel waartoe dat beroepsgerichte vak behoort in de ministeriële regeling bedoeld in [artikel 118bb van de Wet op het voortgezet onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0002399&artikel=118bb) genoemd is bij het betreffende afdelingsvak, intrasectoraal programma of intersectoraal programma.
+
+4. Dit artikel vervalt met ingang van 1 augustus 2022.
+
+### Hoofdstuk 4. Aanwijzing onderwijsactiviteiten vakleerkrachten in het primair onderwijs en leerkrachten basisonderwijs in het praktijkonderwijs
 
 ### Hoofdstuk 6. Slotbepalingen
 
