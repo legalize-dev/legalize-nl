@@ -4,7 +4,7 @@ identifier: "BWBR0034659"
 country: "nl"
 rank: "wet"
 publication_date: "2016-08-01"
-last_updated: "2016-01-01"
+last_updated: "2016-08-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0034659"
 soort: "wet"
@@ -211,23 +211,23 @@ Wijzigt de Wijzigingswet Burgerlijk Wetboek Boek 1, enz. (herziening maatregelen
 
 ##### Artikel XXXXI
 
-Onze Minister van Volksgezondheid, Welzijn en sport zendt binnen vijf jaar na de inwerkingtreding van [artikel II, onderdeel D](https://wetten.overheid.nl/jci1.3:c:BWBR0034659&artikel=II&z=2014-04-01&g=2016-01-01), van deze wet, en vervolgens telkens na vijf jaar, aan de Staten-Generaal een verslag over de doeltreffendheid en de effecten van artikel II, onderdeel D, in de praktijk.
+Onze Minister van Volksgezondheid, Welzijn en sport zendt binnen vijf jaar na de inwerkingtreding van [artikel II, onderdeel D](https://wetten.overheid.nl/jci1.3:c:BWBR0034659&artikel=II&z=2016-08-01&g=2016-08-01), van deze wet, en vervolgens telkens na vijf jaar, aan de Staten-Generaal een verslag over de doeltreffendheid en de effecten van artikel II, onderdeel D, in de praktijk.
 
 ##### Artikel XXXXII
 
-In afwijking van de [artikelen 22](https://wetten.overheid.nl/jci1.3:c:BWBR0018906&artikel=22) juncto [32 van de Wet toelating zorginstellingen](https://wetten.overheid.nl/jci1.3:c:BWBR0018906&artikel=32) zijn op de rechtspositie van het personeel van het College bouw zorginstellingen en het College sanering zorginstellingen de regels die gelden voor ambtenaren die zijn aangesteld bij ministeries, niet van toepassing tot 1 januari 2017.
+In afwijking van [artikel 22](https://wetten.overheid.nl/jci1.3:c:BWBR0018906&artikel=22) zijn op de rechtspositie van het personeel van het College sanering zorginstellingen de regels die gelden voor ambtenaren die zijn aangesteld bij ministeries, niet van toepassing tot 1 januari 2017.
 
 ##### Artikel XXXXIII
 
 1. De artikelen van deze wet treden in werking op een bij koninklijk besluit te bepalen tijdstip, dat voor de verschillende artikelen of onderdelen daarvan verschillend kan worden vastgesteld.
 
-2. [Artikel I, onderdeel H, eerste subonderdeel](https://wetten.overheid.nl/jci1.3:c:BWBR0034659&artikel=I&z=2014-04-01&g=2016-01-01), en [artikel II, onderdeel L, eerste subonderdeel](https://wetten.overheid.nl/jci1.3:c:BWBR0034659&artikel=II&z=2014-04-01&g=2016-01-01), werken terug tot en met 1 januari 2008.
+2. [Artikel I, onderdeel H, eerste subonderdeel](https://wetten.overheid.nl/jci1.3:c:BWBR0034659&artikel=I&z=2016-08-01&g=2016-08-01), en [artikel II, onderdeel L, eerste subonderdeel](https://wetten.overheid.nl/jci1.3:c:BWBR0034659&artikel=II&z=2016-08-01&g=2016-08-01), werken terug tot en met 1 januari 2008.
 
-3. [Artikel II, onderdeel E, eerste subonderdeel](https://wetten.overheid.nl/jci1.3:c:BWBR0034659&artikel=II&z=2014-04-01&g=2016-01-01), werkt terug tot en met 1 januari 2006.
+3. [Artikel II, onderdeel E, eerste subonderdeel](https://wetten.overheid.nl/jci1.3:c:BWBR0034659&artikel=II&z=2016-08-01&g=2016-08-01), werkt terug tot en met 1 januari 2006.
 
-4. [Artikel XXIX, onderdeel A](https://wetten.overheid.nl/jci1.3:c:BWBR0034659&artikel=XXIX&z=2014-04-01&g=2016-01-01), werkt terug tot en met 1 januari 2012.
+4. [Artikel XXIX, onderdeel A](https://wetten.overheid.nl/jci1.3:c:BWBR0034659&artikel=XXIX&z=2016-08-01&g=2016-08-01), werkt terug tot en met 1 januari 2012.
 
-5. [Artikel I, onderdelen D, E, F, J en K](https://wetten.overheid.nl/jci1.3:c:BWBR0034659&artikel=I&z=2014-04-01&g=2016-01-01), [artikel II, onderdelen I en O](https://wetten.overheid.nl/jci1.3:c:BWBR0034659&artikel=II&z=2014-04-01&g=2016-01-01), de in [artikel III](https://wetten.overheid.nl/jci1.3:c:BWBR0034659&artikel=III&z=2014-04-01&g=2016-01-01) opgenomen [artikelen 2.1.7b](https://wetten.overheid.nl/jci1.3:c:BWBR0018830&artikel=2.1.7b) en [2.2.2b van de Invoerings- en aanpassingswet Zorgverzekeringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0018830&artikel=2.2.2b), [artikel VII](https://wetten.overheid.nl/jci1.3:c:BWBR0034659&artikel=VII&z=2014-04-01&g=2016-01-01) en [artikel XXXXII](https://wetten.overheid.nl/jci1.3:c:BWBR0034659&artikel=XXXXII&z=2014-04-01&g=2016-01-01) werken terug tot en met 1 januari 2013.
+5. [Artikel I, onderdelen D, E, F, J en K](https://wetten.overheid.nl/jci1.3:c:BWBR0034659&artikel=I&z=2016-08-01&g=2016-08-01), [artikel II, onderdelen I en O](https://wetten.overheid.nl/jci1.3:c:BWBR0034659&artikel=II&z=2016-08-01&g=2016-08-01), de in [artikel III](https://wetten.overheid.nl/jci1.3:c:BWBR0034659&artikel=III&z=2016-08-01&g=2016-08-01) opgenomen [artikelen 2.1.7b](https://wetten.overheid.nl/jci1.3:c:BWBR0018830&artikel=2.1.7b) en [2.2.2b van de Invoerings- en aanpassingswet Zorgverzekeringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0018830&artikel=2.2.2b), [artikel VII](https://wetten.overheid.nl/jci1.3:c:BWBR0034659&artikel=VII&z=2016-08-01&g=2016-08-01) en [artikel XXXXII](https://wetten.overheid.nl/jci1.3:c:BWBR0034659&artikel=XXXXII&z=2016-08-01&g=2016-08-01) werken terug tot en met 1 januari 2013.
 
 ##### Artikel XXXXIV
 
