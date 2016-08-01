@@ -4,7 +4,7 @@ identifier: "BWBR0024390"
 country: "nl"
 rank: "amvb"
 publication_date: "2022-08-01"
-last_updated: "2014-01-01"
+last_updated: "2016-08-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0024390"
 soort: "AMvB"
@@ -68,17 +68,13 @@ In dit besluit wordt verstaan onder:
 
 De beroepsgerichte vakken, bedoeld in de [artikelen 162f, derde lid, onderdeel b, van de Wet op de expertisecentra](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=162f) en [118l, derde lid, onderdeel b, van de Wet op het voortgezet onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0002399&artikel=118l), zijn de volgende van de in [artikel 26h van het Inrichtingsbesluit WVO](https://wetten.overheid.nl/jci1.3:c:BWBR0005946&artikel=26h) genoemde vakken:
 
-- a. bouwtechniek,
+- a. bouwen, wonen en interieur;
 
-- b. metaaltechniek,
+- b. produceren, installeren en energie;
 
-- c. elektrotechniek,
+- c. mobiliteit en transport; en
 
-- d. voertuigentechniek,
-
-- e. installatietechniek, en
-
-- f. consumptief.
+- d. horeca, bakkerij en recreatie.
 
 #### Paragraaf 2. Geschiktheidsonderzoek
 
@@ -146,7 +142,7 @@ Het assessment berust op bevindingen uit praktijkopdrachten, waaronder opdrachte
 
 - b. optimale aansluiting van het onderzoek op de door de betrokkene ingebrachte bewijzen van elders verworven competenties,
 
-- c. expliciete voorafgaande vaststelling van de criteria waarop de beoordeling, bedoeld in [artikel 4, eerste lid, aanhef](https://wetten.overheid.nl/jci1.3:c:BWBR0024390&paragraaf=2&artikel=4&z=2014-01-01&g=2014-01-01), geschiedt en op basis waarvan de betrokkene al of niet geschikt wordt bevonden, en
+- c. expliciete voorafgaande vaststelling van de criteria waarop de beoordeling, bedoeld in [artikel 4, eerste lid, aanhef](https://wetten.overheid.nl/jci1.3:c:BWBR0024390&paragraaf=2&artikel=4&z=2016-08-01&g=2016-08-01), geschiedt en op basis waarvan de betrokkene al of niet geschikt wordt bevonden, en
 
 - d. op grond van het geschiktheidsonderzoek op de betrokkene afgestemd advies over de te volgen scholing of anderszins te verwerven competenties alsmede, met instemming van het desbetreffende bevoegd gezag, de mate en vorm van benodigde begeleiding.
 
@@ -158,9 +154,9 @@ Het assessment berust op bevindingen uit praktijkopdrachten, waaronder opdrachte
 
 ##### Artikel 8. Waarborgen kwaliteit scholing en begeleiding
 
-1. De noodzakelijk geoordeelde scholing, bedoeld in [artikel 5, zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024390&paragraaf=2&artikel=5&z=2014-01-01&g=2014-01-01), geschiedt uitsluitend door of onder verantwoordelijkheid van personen die bevoegd zijn tot het verzorgen van onderwijs aan initiële lerarenopleidingen in het hoger onderwijs. Bij het verzorgen van de scholing wordt deze inhoudelijk steeds afgestemd op de vorderingen bij de werkzaamheden van de betrokkene aan de school.
+1. De noodzakelijk geoordeelde scholing, bedoeld in [artikel 5, zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024390&paragraaf=2&artikel=5&z=2016-08-01&g=2016-08-01), geschiedt uitsluitend door of onder verantwoordelijkheid van personen die bevoegd zijn tot het verzorgen van onderwijs aan initiële lerarenopleidingen in het hoger onderwijs. Bij het verzorgen van de scholing wordt deze inhoudelijk steeds afgestemd op de vorderingen bij de werkzaamheden van de betrokkene aan de school.
 
-2. Bij de noodzakelijk geoordeelde begeleiding, bedoeld in [artikel 5, zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024390&paragraaf=2&artikel=5&z=2014-01-01&g=2014-01-01), is in elk geval betrokken een leraar die bevoegd is tot het verzorgen van de werkzaamheden die de betrokkene aan de school verricht, met dien verstande dat bij begeleiding in het voortgezet onderwijs, de leraar bevoegd dient te zijn voor het vak dat de betrokkene aan de school verzorgt.
+2. Bij de noodzakelijk geoordeelde begeleiding, bedoeld in [artikel 5, zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024390&paragraaf=2&artikel=5&z=2016-08-01&g=2016-08-01), is in elk geval betrokken een leraar die bevoegd is tot het verzorgen van de werkzaamheden die de betrokkene aan de school verricht, met dien verstande dat bij begeleiding in het voortgezet onderwijs, de leraar bevoegd dient te zijn voor het vak dat de betrokkene aan de school verzorgt.
 
 #### Paragraaf 4. Bekwaamheidsonderzoek
 
@@ -182,7 +178,7 @@ Ter waarborging van de kwaliteit van het bekwaamheidsonderzoek:
 
 - b. stelt het instellingsbestuur de inrichting van het bekwaamheidsonderzoek vast,
 
-- c. legt het instellingsbestuur de criteria vast waarom de beoordelingen, bedoeld in [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0024390&paragraaf=4&artikel=9&z=2014-01-01&g=2014-01-01), geschieden,
+- c. legt het instellingsbestuur de criteria vast waarom de beoordelingen, bedoeld in [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0024390&paragraaf=4&artikel=9&z=2016-08-01&g=2016-08-01), geschieden,
 
 - d. draagt het instellingsbestuur zorg voor een duidelijke positie van de betrokkene in het bekwaamheidsonderzoek, en
 
