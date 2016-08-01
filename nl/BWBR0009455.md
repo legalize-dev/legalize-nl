@@ -4,7 +4,7 @@ identifier: "BWBR0009455"
 country: "nl"
 rank: "wet"
 publication_date: "2025-01-01"
-last_updated: "2015-01-01"
+last_updated: "2016-08-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0009455"
 soort: "wet"
@@ -57,7 +57,7 @@ Onze Minister kan subsidies verstrekken voor activiteiten op het terrein van:
 
 - c. de gezondheidszorg;
 
-- d. de maatschappelijke zorg, voor zover van landelijke betekenis;
+- d. de maatschappelijke zorg, waaronder de jeugdhulp, voor zover van landelijke betekenis;
 
 - e. de sport, voor zover van landelijke betekenis.
 
@@ -87,7 +87,7 @@ Onze Minister kan subsidies verstrekken voor activiteiten op het terrein van:
 
 ##### Artikel 4
 
-Onze Minister verstrekt slechts subsidie op grond van een algemene maatregel van bestuur of een ministeriële regeling als bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0009455&artikel=3&z=2016-08-01&g=2015-01-01), tenzij het een subsidie betreft:
+Onze Minister verstrekt slechts subsidie op grond van een algemene maatregel van bestuur of een ministeriële regeling als bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0009455&artikel=3&z=2016-08-01&g=2016-08-01), tenzij het een subsidie betreft:
 
 - a. als bedoeld in [artikel 4:23, derde lid, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:23) of
 
@@ -95,7 +95,7 @@ Onze Minister verstrekt slechts subsidie op grond van een algemene maatregel van
 
 ##### Artikel 5
 
-Bij of krachtens algemene maatregel van bestuur of bij ministeriële regeling als bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0009455&artikel=3&z=2016-08-01&g=2015-01-01) kan worden voorzien in de vaststelling van een subsidieplafond en de regeling van de wijze van verdeling.
+Bij of krachtens algemene maatregel van bestuur of bij ministeriële regeling als bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0009455&artikel=3&z=2016-08-01&g=2016-08-01) kan worden voorzien in de vaststelling van een subsidieplafond en de regeling van de wijze van verdeling.
 
 ##### Artikel 6
 
