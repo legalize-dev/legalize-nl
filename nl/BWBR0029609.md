@@ -4,7 +4,7 @@ identifier: "BWBR0029609"
 country: "nl"
 rank: "amvb_bes"
 publication_date: "2022-08-01"
-last_updated: "2012-08-01"
+last_updated: "2016-08-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0029609"
 soort: "AMvB-BES"
@@ -698,29 +698,7 @@ In deze titel wordt verstaan onder:
 
 ##### Artikel 4.1. Aanwijzing onderwijsactiviteiten vakleerkrachten basisonderwijs
 
-De op grond van [artikel 3, eerste lid onder b.1°, van de Wet primair onderwijs BES](https://wetten.overheid.nl/jci1.3:c:BWBR0030280&artikel=3) aan te wijzen onderwijsactiviteiten, bedoeld in de [artikelen 11](https://wetten.overheid.nl/jci1.3:c:BWBR0030280&artikel=11) of [12 van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0030280&artikel=12), zijn:
-
-- a. tekenen;
-
-- b. muziek;
-
-- c. handvaardigheid;
-
-- d. spel en beweging;
-
-- e. bevordering van het taalgebruik;
-
-- f. Engelse taal;
-
-- g. Papiaments;
-
-- h. zintuiglijke en lichamelijke oefening;
-
-- i. Duitse taal;
-
-- j. Franse taal;
-
-- k. Spaanse taal.
+De op grond van [artikel 3, eerste lid, onder b.1°, van de Wet primair onderwijs BES](https://wetten.overheid.nl/jci1.3:c:BWBR0030280&artikel=3) aan te wijzen onderwijsactiviteiten, bedoeld in de [artikelen 11](https://wetten.overheid.nl/jci1.3:c:BWBR0030280&artikel=11) of [12 van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0030280&artikel=12), zijn alle in die artikelen genoemde en bedoelde onderwijsactiviteiten.
 
 ### Hoofdstuk 5. Slotbepalingen
 
@@ -759,6 +737,26 @@ De op grond van [artikel 80, derde lid, van de Wet voortgezet onderwijs BES](htt
 - j. verzorging; en
 
 - k. praktijkoriënterende vakken.
+
+### Hoofdstuk 5. Slotbepalingen
+
+Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
+
+##### Artikel 3.2. Tijdelijke afwijking bekwaamheidseisen leraren beroepsgerichte vakken vmbo
+
+1. Voor de toepassing van dit artikel wordt verstaan onder:
+
+- **afdelingsvak, intrasectoraal programma of intersectoraal programma:** een afdelingsvak, intrasectoraal programma of intersectoraal programma als bedoeld in [artikel 18, zevende lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0030284&artikel=18), of [29, zevende lid, onderdeel b, van de Wet voortgezet onderwijs BES](https://wetten.overheid.nl/jci1.3:c:BWBR0030284&artikel=29), zoals die wet luidde op 31 juli 2016;
+
+- **beroepsgericht vak:** een profielvak als bedoeld in [artikel 18, zesde lid, aanhef](https://wetten.overheid.nl/jci1.3:c:BWBR0030284&artikel=18), of [29, zesde lid, aanhef, van de Wet voortgezet onderwijs BES](https://wetten.overheid.nl/jci1.3:c:BWBR0030284&artikel=29), of een beroepsgericht keuzevak als bedoeld in artikel 18, zevende lid, onderdeel a, of 29, zevende lid, onderdeel b, van die wet, behorende tot een profiel als bedoeld in artikel 18, derde lid, of 29, derde lid, van die wet.
+
+2. Ten aanzien van een leraar die in vaste dienst verbonden is aan een school voor voorbereidend beroepsonderwijs en aan die school een beroepsgericht vak verzorgt, maar niet in het bezit is van een getuigschrift, afgegeven krachtens de [Wet op het hoger onderwijs en wetenschappelijk onderzoek](https://wetten.overheid.nl/jci1.3:c:BWBR0005682), waaruit blijkt dat hij ten aanzien van het onderwijs in dat vak voldoet aan de bekwaamheidseisen die zijn vastgesteld in [hoofdstuk 2](https://wetten.overheid.nl/jci1.3:c:BWBR0029609&hoofdstuk=2&z=2017-03-29&g=2016-08-01) van dit besluit, is [artikel 80, eerste lid, onderdeel b, van de Wet voortgezet onderwijs BES](https://wetten.overheid.nl/jci1.3:c:BWBR0030284&artikel=80) tot en met 31 juli 2021 niet van toepassing indien de leraar al voor 1 augustus 2016 aan die school belast was met werkzaamheden als leraar in een afdelingsvak, intrasectoraal programma of intersectoraal programma dat verwant is aan het door de leraar verzorgde beroepsgerichte vak.
+
+3. Een beroepsgericht vak en een afdelingsvak, intrasectoraal programma of intersectoraal programma zijn aan elkaar verwant indien het profiel waartoe dat beroepsgerichte vak behoort in de ministeriële regeling bedoeld in [artikel 214e van de Wet voortgezet onderwijs BES](https://wetten.overheid.nl/jci1.3:c:BWBR0030284&artikel=214e) genoemd is bij het betreffende afdelingsvak, intrasectoraal programma of intersectoraal programma.
+
+4. Dit artikel vervalt met ingang van 1 augustus 2022.
+
+### Hoofdstuk 4. Aanwijzing onderwijsactiviteiten vakleerkrachten in het primair onderwijs en leerkrachten basisonderwijs in het praktijkonderwijs
 
 ### Hoofdstuk 5. Slotbepalingen
 
