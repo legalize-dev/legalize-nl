@@ -4,7 +4,7 @@ identifier: "BWBR0037830"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2016-08-03"
-last_updated: "2016-01-01"
+last_updated: "2016-08-03"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0037830"
 soort: "ministeriele-regeling"
@@ -48,7 +48,7 @@ Wijzigt het Besluit vaststelling beleidsregels verstrekken subsidie Dutch Good G
 
 ##### Artikel II
 
-Tot en met 31 december 2016 kunnen in het kader van het [Besluit van de Minister voor Buitenlandse Handel en Ontwikkelingssamenwerking van 10 juni 2014 (Dutch Good Growth Fund)](https://wetten.overheid.nl/jci1.3:c:BWBR0035210&wetgeving) aanvragen en quickscans worden ingediend met betrekking tot Albanië, Bosnië-Herzegovina, Macedonië, de Maldiven en Thailand. Op deze aanvragen en quickscans zijn de bepalingen die golden voor inwerkingtreding van dit besluit van toepassing.
+Vervallen
 
 ##### Artikel III
 
