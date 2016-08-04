@@ -4,7 +4,7 @@ identifier: "BWBR0038386"
 country: "nl"
 rank: "zbo"
 publication_date: "2016-08-04"
-last_updated: "2016-01-01"
+last_updated: "2016-08-04"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0038386"
 soort: "zbo"
@@ -56,7 +56,7 @@ Uiterlijk 1 oktober 2016 moet door het zorgkantoor bij de NZa worden ingediend:
 
 ### 1.2. Doel en reikwijdte van het protocol
 
-Dit controleprotocol stelt eisen aan het door de accountant uit te voeren onderzoek naar de pgb-beschikkingen over 2015 op basis van de [Wet langdurige zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0035917&wetgeving) (Wlz).
+Dit controleprotocol stelt eisen aan het door de accountant uit te voeren onderzoek naar de pgb-beschikkingen over 2015 op basis van de [Wet langdurige zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0035917) (Wlz).
 
 De accountant hanteert dit controleprotocol als kader voor zijn werkzaamheden. Daarnaast voert de accountant zijn controle uit in overeenstemming met het Nederlands recht, waaronder de geldende beroepsvoorschriften van de Nederlandse Beroepsorganisatie van Accountants (NBA) en dit controleprotocol. De controle van de pgb-opgave is aan te merken als een controleopdracht volgens NBA Standaard 800.
 
@@ -90,7 +90,7 @@ Het doel is niet om aan te geven welke werkzaamheden de accountant dient uit te 
 
 ### 3.3. Beleidskader
 
-Het beleidskader voor de controle van de pgb-opgave wordt gevormd door de in tabel 1 genoemde wetgeving uit de [Wlz](https://wetten.overheid.nl/jci1.3:c:BWBR0035917&wetgeving) en [Wmg](https://wetten.overheid.nl/jci1.3:c:BWBR0020078), NZa-beleidsregels en NZa-nadere regels.
+Het beleidskader voor de controle van de pgb-opgave wordt gevormd door de in tabel 1 genoemde wetgeving uit de [Wlz](https://wetten.overheid.nl/jci1.3:c:BWBR0035917) en [Wmg](https://wetten.overheid.nl/jci1.3:c:BWBR0020078), NZa-beleidsregels en NZa-nadere regels.
 
 ### 3.4. Toetsingscriteria
 
