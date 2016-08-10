@@ -4,7 +4,7 @@ identifier: "BWBR0018936"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2023-05-02"
-last_updated: "2015-06-02"
+last_updated: "2016-08-10"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0018936"
 soort: "ministeriele-regeling"
@@ -70,7 +70,9 @@ Vervallen
 
 - c. niet-dodelijke militaire uitrusting die uitsluitend voor humanitaire of beschermende doeleinden bestemd is;
 
-- d. militaire goederen of militaire technologie uitsluitend bestemd ter ondersteuning van of voor gebruik door de regionale taskforce van de Afrikaanse Unie.
+- d. militaire goederen of militaire technologie uitsluitend bestemd ter ondersteuning van of voor gebruik door de regionale taskforce van de Afrikaanse Unie;
+
+- e. een andere verkoop, levering, overdracht of uitvoer van wapens en aanverwant materieel, mits de verkoop, levering, overdracht of uitvoer vooraf door het krachtens UNSCR 1533 (2004) ingestelde Sanctiecomité is goedgekeurd.
 
 3. Het verkopen, leveren, overdragen of uitvoeren van militaire goederen, militaire technologie of onderdelen daarvan op grond van het tweede lid is onderworpen aan een door de bevoegde autoriteiten vooraf te verlenen vergunning.
 
