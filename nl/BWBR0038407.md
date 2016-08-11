@@ -4,7 +4,7 @@ identifier: "BWBR0038407"
 country: "nl"
 rank: "wet"
 publication_date: "2016-08-11"
-last_updated: "2016-07-03"
+last_updated: "2016-08-11"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0038407"
 soort: "wet"
@@ -40,7 +40,7 @@ entry_into_force: "2016-08-11"
 
 ##### Artikel I
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Wet op het financieel toezicht.
 
 ##### Artikel Ia
 
@@ -48,31 +48,35 @@ Wijzigt de Wet bekostiging financieel toezicht.
 
 ##### Artikel II
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Wet handhaving consumentenbescherming.
 
 ##### Artikel III
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Wet op de economische delicten.
 
 ##### Artikel IV
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Wet ter voorkoming van witwassen en financieren van terrorisme.
 
 ##### Artikel V
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt het Wetboek van Strafvordering.
 
 ##### Artikel VI
 
-Dit onderdeel is nog niet inwerking getreden
+1. Op overtredingen van de bij of krachtens de [Wet op het financieel toezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0020368) gestelde regels, die plaatsvonden voor het tijdstip van inwerkingtreding van [artikel I, onderdeel E](https://wetten.overheid.nl/jci1.3:c:BWBR0038407&artikel=I&z=2016-08-11&g=2016-08-11), zijn de [artikelen 1:81 tot en met 1:83](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=1:81) niet van toepassing. Op die overtredingen blijft artikel 1:81 van de Wet op het financieel toezicht van toepassing zoals dat artikel luidde voor dat tijdstip.
+
+2. Op besluiten tot het opleggen van een bestuurlijke sanctie wegens overtreding van bij of krachtens de [Wet op het financieel toezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0020368) gestelde regels, die zijn genomen voor het tijdstip van inwerkingtreding van [artikel I, onderdeel J](https://wetten.overheid.nl/jci1.3:c:BWBR0038407&artikel=I&z=2016-08-11&g=2016-08-11), blijven de [artikelen 1:97 tot en met 1:101 van de Wet op het financieel toezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=1:100) zoals die artikelen voor dat tijdstip luidden van toepassing.
+
+3. [Artikel 1:88 van de Wet op het financieel toezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=1:88) is niet van toepassing op overtredingen die plaatsvonden voor het tijdstip van inwerkingtreding van [artikel I, onderdeel H](https://wetten.overheid.nl/jci1.3:c:BWBR0038407&artikel=I&z=2016-08-11&g=2016-08-11).
 
 ##### Artikel VII
 
-Dit onderdeel is nog niet inwerking getreden
+Deze wet treedt in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin zij wordt geplaatst, en werkt ten aanzien van [artikel Ia](https://wetten.overheid.nl/jci1.3:c:BWBR0038407&artikel=Ia&z=2016-08-11&g=2016-08-11) terug tot en met 3 juli 2016.
 
 ##### Artikel VIII
 
-Dit onderdeel is nog niet inwerking getreden
+Deze wet wordt aangehaald als: Wet implementatie verordening en richtlijn marktmisbruik.
 
 Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
 
