@@ -4,7 +4,7 @@ identifier: "BWBR0029360"
 country: "nl"
 rank: "zbo"
 publication_date: "2025-10-08"
-last_updated: "2016-08-01"
+last_updated: "2016-08-12"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0029360"
 soort: "zbo"
@@ -54,21 +54,19 @@ In deze regeling wordt verstaan onder:
 
 ##### Artikel 1.2. Subsidievormen
 
-Het bestuur kan subsidie verstrekken in de volgende vormen:
+Het bestuur kan subsidie verstrekken in een of meer van de volgende vormen:
 
-- a. programmeringssubsidie reguliere programmering in theater- en concertzalen;
+- a). programmeringssubsidie reguliere programmering in theater- en concertzalen;
 
-- b. programmeringssubsidie kleinschalige of incidentele programmering;
+- b). programmeringssubsidie kleinschalige of incidentele programmering;
 
-- c. programmeringssubsidie bestaande festivals;
+- c). programmeringssubsidie festivals;
 
-- d. programmeringssubsidie nieuwe festivals;
+- d). programmeringssubsidie podia popmuziek;
 
-- e. programmeringssubsidie podia popmuziek;
+- e). programmeringssubsidie incidentele concerten popmuziek;
 
-- f. programmeringssubsidie incidentele concerten popmuziek;
-
-- g. programmeringssubsidie festivals popmuziek.
+- f). programmeringssubsidie festivals popmuziek.
 
 ##### Artikel 1.3. Beperking
 
@@ -114,7 +112,7 @@ Het bestuur kan een aanvraag geheel of gedeeltelijk weigeren als op enig moment 
 
 4. Indien het bestuur een subsidieplafond verhoogt, wordt eerst het subsidiebedrag van een aanvraag die wegens ontoereikendheid van het budget gedeeltelijk was gehonoreerd alsnog verhoogd tot het geadviseerde subsidiebedrag.
 
-5. Het bepaalde in de voorgaande leden geldt niet voor subsidievormen als bedoeld in de [paragrafen 7](https://wetten.overheid.nl/jci1.3:c:BWBR0029360&paragraaf=7&z=2014-12-22&g=2016-08-01) en [8](https://wetten.overheid.nl/jci1.3:c:BWBR0029360&paragraaf=8&z=2014-12-22&g=2016-08-01), waarvoor geldt dat het subsidie in dat geval wordt verdeeld op volgorde van ontvangst van de complete aanvraag, en voor de subsidievormen als bedoeld in de [paragrafen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0029360&paragraaf=3&z=2014-12-22&g=2016-08-01) en [6](https://wetten.overheid.nl/jci1.3:c:BWBR0029360&paragraaf=6&z=2014-12-22&g=2016-08-01), waarvoor geldt dat alle aanvragers eenzelfde percentage van het subsidiebedrag ontvangen waarop zij recht zouden hebben als het budget wel toereikend zou zijn.
+5. Het bepaalde in de voorgaande leden geldt niet voor subsidievormen als bedoeld in de [paragrafen 7](https://wetten.overheid.nl/jci1.3:c:BWBR0029360&paragraaf=7&z=2016-08-12&g=2016-08-12) en [8](https://wetten.overheid.nl/jci1.3:c:BWBR0029360&paragraaf=8&z=2016-08-12&g=2016-08-12), waarvoor geldt dat het subsidie in dat geval wordt verdeeld op volgorde van ontvangst van de complete aanvraag, en voor de subsidievormen als bedoeld in de [paragrafen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0029360&paragraaf=3&z=2016-08-12&g=2016-08-12) en [6](https://wetten.overheid.nl/jci1.3:c:BWBR0029360&paragraaf=6&z=2016-08-12&g=2016-08-12), waarvoor geldt dat alle aanvragers eenzelfde percentage van het subsidiebedrag ontvangen waarop zij recht zouden hebben als het budget wel toereikend zou zijn.
 
 ##### Artikel 1.8. Algemene weigeringsgronden
 
@@ -260,13 +258,13 @@ Het bestuur verstrekt programmeringssubsidies als bijdrage in de programmeringsk
 
 ##### Artikel 4.2. Aanvrager
 
-Een aanvraag kan worden gedaan door een rechtspersoon zonder winstoogmerk die primair gericht is op het organiseren van een festival waarbij een substantieel aandeel podiumkunsten wordt geprogrammeerd.
+Een aanvraag kan worden gedaan door een rechtspersoon zonder winstoogmerk die primair gericht is op het vanuit een artistiek-inhoudelijk uitgangspunt organiseren van een festival met een substantieel aandeel professionele podiumkunsten.
 
 ##### Artikel 4.3. Subsidieaanvraag
 
-1. Een aanvraag moet betrekking hebben op de programmering van een of twee edities van een reeds langer bestaand festival.
+1. Een aanvraag moet betrekking hebben op de programmering van twee edities van een festival.
 
-2. Op het moment van indiening van de aanvraag moeten minimaal 2 edities van het festival waarvoor subsidie wordt aangevraagd hebben plaatsgevonden.
+2. Op het moment van indiening van de aanvraag moet minimaal al een keer eerder een editie hebben plaatsgevonden van het festival waarvoor subsidie wordt aangevraagd.
 
 3. Aanvragen worden in één gezamenlijke ronde behandeld die eens per twee jaar plaatsvindt en betrekking heeft op twee kalenderjaren.
 
@@ -280,49 +278,57 @@ Aanvragen worden ten opzichte van elkaar afgewogen aan de hand van de volgende c
 
 - c). ondernemerschap;
 
-- d). bijdrage aan diversiteit;
+- d). bijdrage aan pluriformiteit;
 
 - e). bijdrage aan geografische spreiding.
 
 ##### Artikel 4.5. Hoogte subsidie
 
-1. Het subsidie bedraagt minimaal € 12.500 en maximaal € 50.000 per festivaleditie en wordt verstrekt voor 24 maanden.
+1. De subsidie bedraagt € 12.500, € 25.000, € 37.500 of € 50.000 per festivaleditie, maar nooit meer dan de kosten die direct samenhangen met de programmering die het festival verzorgt.
 
-2. De hoogte van het subsidie wordt vastgesteld op basis van de aard en omvang van de activiteiten op het terrein van de professionele podiumkunsten.
+2. De hoogte van het subsidie wordt gebaseerd op de gegevens uit de aanvraag en wordt als volgt vastgesteld:
+
+| a. Bij festivals die 7 dagen of korter duren waar minder dan 100 uitvoeringen plaatsvinden: |   |
+| --- | --- |
+| – Programmeringskosten tot € 100.000 | € 12.500 |
+| – Programmeringskosten € 100.000 en hoger | € 25.000 |
+| b. Bij festivals die 7 dagen of korter duren waar 100 of meer uitvoeringen plaatsvinden: |   |
+| – Programmeringskosten tot € 100.000 | € 12.500 |
+| – Programmeringskosten € 100.000 tot € 300.000 | € 25.000 |
+| – Programmeringskosten € 300.000 en hoger | € 37.500 |
+| c. Bij festivals die 8 dagen of langer duren waar minder dan 100 uitvoeringen plaatsvinden: |   |
+| – Programmeringskosten tot € 100.000 | € 25.000 |
+| – Programmeringskosten € 100.000 en hoger | € 37.500 |
+| d. Bij festivals die 8 dagen of langer duren waar 100 of meer uitvoeringen plaatsvinden: |   |
+| – Programmeringskosten tot € 100.000 | € 25.000 |
+| – Programmeringskosten € 100.000 tot € 300.000 | € 37.500 |
+| – Programmeringskosten € 300.000 en hoger | € 50.000 |
+
+3. Het bestuur kan een lager subsidiebedrag toekennen als gegevens over de recente edities daartoe aanleiding geven.
+
+4. De subsidie wordt verstrekt voor 24 maanden.
 
 #### Paragraaf 5. : Programmeringssubsidie nieuwe festivals
 
 ##### Artikel 5.1. Doel
 
-Het bestuur verstrekt programmeringssubsidies voor nieuwe festivals om bij te dragen aan de diversiteit binnen en vernieuwing van het podiumkunstenaanbod in Nederland.
+Vervallen
 
 ##### Artikel 5.2. Aanvrager
 
-1. Een aanvraag kan worden gedaan door een rechtspersoon zonder winstoogmerk die een festival wil organiseren waarbij een substantieel aandeel podiumkunsten wordt geprogrammeerd.
-
-2. Een instelling die verantwoordelijk is voor de programmering of exploitatie van een of meer theater- of concertzalen komt niet voor subsidiering in aanmerking.
+Vervallen
 
 ##### Artikel 5.3. Subsidieaanvraag
 
-1. Een aanvraag moet betrekking hebben op de programmering van één editie van een festival dat maximaal viermaal eerder heeft plaatsgevonden en waarvoor niet reeds driemaal eerder subsidie is verstrekt door het Fonds Podiumkunsten.
-
-2. Aanvragen worden in twee rondes per jaar behandeld.
+Vervallen
 
 ##### Artikel 5.4. Beoordeling
 
-Aanvragen worden ten opzichte van elkaar afgewogen aan de hand van de volgende criteria:
-
-- a). innovatieve waarde;
-
-- b). kwaliteit van het programmeringsprofiel;
-
-- c). ondernemerschap.
+Vervallen
 
 ##### Artikel 5.5. Hoogte subsidie
 
-1. Het subsidie wordt toegekend voor één festivaleditie en bedraagt maximaal € 25.000.
-
-2. De hoogte van het subsidie wordt vastgesteld op basis van de aard en omvang van de activiteiten op het terrein van de professionele podiumkunsten.
+Vervallen
 
 #### Paragraaf 6. : Programmeringssubsidie podia popmuziek
 
@@ -506,15 +512,11 @@ Het bestuur verstrekt programmeringssubsidies voor festivals op het gebied van p
 
 ##### Artikel 9.2. Verantwoording subsidies nieuwe festivals
 
-1. Voor subsidies die zijn verstrekt op basis van [paragraaf 5](https://wetten.overheid.nl/jci1.3:c:BWBR0029360&paragraaf=5&z=2014-12-22&g=2016-08-01), kan het bestuur na het verstrijken van de in de beschikking opgenomen einddatum de ontvanger van het subsidie verzoeken bewijsstukken te overleggen waarmee kan worden aangetoond dat de gesubsidieerde activiteiten volgens plan hebben plaatsgevonden.
+Vervallen
 
-2. Als de ontvanger van het subsidie niet kan aantonen dat de activiteiten waarvoor subsidie is verstrekt hebben plaatsgevonden, kan het bestuur het subsidie lager vaststellen of intrekken.
+##### Artikel 9.3. Verantwoording subsidies reguliere programmering en programmeringssubsidie festivals
 
-3. Binnen 22 weken na het verstrijken van de in de aanvraag opgenomen afrondingsdatum stelt het bestuur van het fonds het subsidie ambtshalve vast, tenzij dit niet mogelijk is omdat het bestuur de ontvanger van het subsidie heeft verzocht bewijsstukken als bedoeld in het eerste lid in te sturen.
-
-##### Artikel 9.3. Verantwoording subsidies reguliere programmering en bestaande festivals
-
-Voor subsidies die zijn verstrekt op basis van de [paragrafen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0029360&paragraaf=2&z=2014-12-22&g=2016-08-01) en [4](https://wetten.overheid.nl/jci1.3:c:BWBR0029360&paragraaf=4&z=2014-12-22&g=2016-08-01) stuurt de ontvanger van het subsidie binnen 3 maanden na het verstrijken van de in de beschikking opgenomen einddatum een korte verantwoording in over de verrichte activiteiten waarmee kan worden aangetoond dat de gesubsidieerde activiteiten volgens plan hebben plaatsgevonden.
+Voor subsidies die zijn verstrekt op basis van de [paragrafen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0029360&paragraaf=2&z=2016-08-12&g=2016-08-12) en [4](https://wetten.overheid.nl/jci1.3:c:BWBR0029360&paragraaf=4&z=2016-08-12&g=2016-08-12) stuurt de ontvanger van het subsidie binnen 3 maanden na het verstrijken van de in de beschikking opgenomen einddatum een korte verantwoording in over de verrichte activiteiten waarmee kan worden aangetoond dat de gesubsidieerde activiteiten volgens plan hebben plaatsgevonden.
 
 ##### Artikel 9.4. Intrekking van het subsidie of de aanwijzing
 
@@ -532,9 +534,9 @@ Subsidie wordt verleend onder voorbehoud van verstrekking van de bijbehorende mi
 
 1. Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst.
 
-2. Het bestuur kan aanvragers wiens aanvraag om subsidie op basis van [paragraaf 3](https://wetten.overheid.nl/jci1.3:c:BWBR0029360&paragraaf=3&z=2014-12-22&g=2016-08-01) voor de periode 2011–2012 wordt geweigerd terwijl zij wel subsidie ontvingen in de periode 2009–2010 op basis van de Deelregeling Kleinschalige Podia van het Nederlands Fonds voor Podiumkunsten+ 2009–2010 een subsidie verstrekken voor een periode van maximaal 6 maanden om hen in de gelegenheid te stellen reeds geplande voorstellingen en concerten te realiseren.
+2. Het bestuur kan aanvragers wiens aanvraag om subsidie op basis van [paragraaf 3](https://wetten.overheid.nl/jci1.3:c:BWBR0029360&paragraaf=3&z=2016-08-12&g=2016-08-12) voor de periode 2011–2012 wordt geweigerd terwijl zij wel subsidie ontvingen in de periode 2009–2010 op basis van de Deelregeling Kleinschalige Podia van het Nederlands Fonds voor Podiumkunsten+ 2009–2010 een subsidie verstrekken voor een periode van maximaal 6 maanden om hen in de gelegenheid te stellen reeds geplande voorstellingen en concerten te realiseren.
 
-3. In afwijking op het bepaalde in [paragraaf 6](https://wetten.overheid.nl/jci1.3:c:BWBR0029360&paragraaf=6&z=2014-12-22&g=2016-08-01) geldt voor podia die voor 2010 door het bestuur waren aangemerkt als groot podium of kernpodium in het kader van de Deelregeling Nederlands Popmuziek Plan dat zij door het bestuur ambtshalve aangewezen kunnen worden als Kernpodium A, B of C in het kader van deze regeling met ingang van 1 januari 2011.
+3. In afwijking op het bepaalde in [paragraaf 6](https://wetten.overheid.nl/jci1.3:c:BWBR0029360&paragraaf=6&z=2016-08-12&g=2016-08-12) geldt voor podia die voor 2010 door het bestuur waren aangemerkt als groot podium of kernpodium in het kader van de Deelregeling Nederlands Popmuziek Plan dat zij door het bestuur ambtshalve aangewezen kunnen worden als Kernpodium A, B of C in het kader van deze regeling met ingang van 1 januari 2011.
 
 ##### Artikel 9.7. Intrekking
 
@@ -548,31 +550,31 @@ Dit besluit zal in de Staatscourant worden geplaatst.
 
 ##### Artikel 2.6. Samenloop
 
-Een subsidieaanvraag op grond van [artikel 2.2](https://wetten.overheid.nl/jci1.3:c:BWBR0029360&paragraaf=2&artikel=2.2&z=2014-12-22&g=2016-08-01) kan geen betrekking hebben op een zaal die al is aangewezen als kernpodium in het kader van [paragraaf 6](https://wetten.overheid.nl/jci1.3:c:BWBR0029360&paragraaf=6&z=2014-12-22&g=2016-08-01).
+Een subsidieaanvraag op grond van [artikel 2.2](https://wetten.overheid.nl/jci1.3:c:BWBR0029360&paragraaf=2&artikel=2.2&z=2016-08-12&g=2016-08-12) kan geen betrekking hebben op een zaal die al is aangewezen als kernpodium in het kader van [paragraaf 6](https://wetten.overheid.nl/jci1.3:c:BWBR0029360&paragraaf=6&z=2016-08-12&g=2016-08-12).
 
 #### Paragraaf 3. : Programmeringssubsidie kleinschalige of incidentele programmering
 
 ##### Artikel 3.7. Samenloop
 
-Een aanvrager kan niet op grond van [artikel 3.2](https://wetten.overheid.nl/jci1.3:c:BWBR0029360&paragraaf=3&artikel=3.2&z=2014-12-22&g=2016-08-01) worden aangewezen als deze reeds een andere subsidie op basis van deze regeling ontvangt voor het betreffende tijdvak.
+Een aanvrager kan niet op grond van [artikel 3.2](https://wetten.overheid.nl/jci1.3:c:BWBR0029360&paragraaf=3&artikel=3.2&z=2016-08-12&g=2016-08-12) worden aangewezen als deze reeds een andere subsidie op basis van deze regeling ontvangt voor het betreffende tijdvak.
 
-#### Paragraaf 4. : Programmeringssubsidie bestaande festivals
+#### Paragraaf 4. : Programmeringssubsidie festivals
 
 ##### Artikel 4.6. Samenloop
 
-Een programmeringssubsidie bestaande festivals kan alleen worden verstrekt aan aanvragers die in het betreffende jaar geen andere subsidie op basis van deze regeling ontvangen.
+Een programmeringssubsidie festivals kan alleen worden verstrekt aan aanvragers die in het betreffende jaar geen andere subsidie op basis van deze regeling ontvangen.
 
 #### Paragraaf 5. : Programmeringssubsidie nieuwe festivals
 
 ##### Artikel 5.6. Samenloop
 
-Een programmeringssubsidie nieuwe festivals kan alleen worden verstrekt aan aanvragers die in het betreffende jaar geen andere subsidie op basis van deze regeling ontvangen.
+Vervallen
 
 #### Paragraaf 6. : Programmeringssubsidie podia popmuziek
 
 ##### Artikel 6.8. Tijdelijke uitbreiding
 
-1. Instellingen die zijn aangewezen in het kader van deze paragraaf kunnen aanvullend subsidie ontvangen voor concerten die voldoen aan de voorwaarden uit [artikel 6.5, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029360&paragraaf=6&artikel=6.5&z=2014-12-22&g=2016-08-01), maar die niet plaatsvinden op het podium maar buiten de eigen locatie en daar herkenbaar zijn als onderdeel van de programmering van de betreffende instelling.
+1. Instellingen die zijn aangewezen in het kader van deze paragraaf kunnen aanvullend subsidie ontvangen voor concerten die voldoen aan de voorwaarden uit [artikel 6.5, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029360&paragraaf=6&artikel=6.5&z=2016-08-12&g=2016-08-12), maar die niet plaatsvinden op het podium maar buiten de eigen locatie en daar herkenbaar zijn als onderdeel van de programmering van de betreffende instelling.
 
 2. De subsidie per concert bedraagt nooit meer dan 50% van het totaal van de betaalde uitkoopsommen of brutogages voor Nederlandse bands na verhoging met € 400,–, tenzij dit meer dan € 1.000 is, in welk geval de subsidie maximaal € 1.000,– per concert bedraagt.
 
@@ -584,7 +586,7 @@ Een programmeringssubsidie nieuwe festivals kan alleen worden verstrekt aan aanv
 
 ##### Artikel 6.9. Samenloop
 
-Een verzoek tot aanwijzing op grond van [artikel 6.2](https://wetten.overheid.nl/jci1.3:c:BWBR0029360&paragraaf=6&artikel=6.2&z=2014-12-22&g=2016-08-01) kan geen betrekking hebben op een zaal voor de activiteiten waarvan reeds een subsidie is toegekend in het kader van [paragraaf 2](https://wetten.overheid.nl/jci1.3:c:BWBR0029360&paragraaf=2&z=2014-12-22&g=2016-08-01) of [3](https://wetten.overheid.nl/jci1.3:c:BWBR0029360&paragraaf=3&z=2014-12-22&g=2016-08-01).
+Een verzoek tot aanwijzing op grond van [artikel 6.2](https://wetten.overheid.nl/jci1.3:c:BWBR0029360&paragraaf=6&artikel=6.2&z=2016-08-12&g=2016-08-12) kan geen betrekking hebben op een zaal voor de activiteiten waarvan reeds een subsidie is toegekend in het kader van [paragraaf 2](https://wetten.overheid.nl/jci1.3:c:BWBR0029360&paragraaf=2&z=2016-08-12&g=2016-08-12) of [3](https://wetten.overheid.nl/jci1.3:c:BWBR0029360&paragraaf=3&z=2016-08-12&g=2016-08-12).
 
 ##### Artikel 7.6. Samenloop
 
