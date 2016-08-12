@@ -4,7 +4,7 @@ identifier: "BWBR0030540"
 country: "nl"
 rank: "zbo"
 publication_date: "2026-01-20"
-last_updated: "2016-08-01"
+last_updated: "2016-08-12"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0030540"
 soort: "zbo"
@@ -125,7 +125,7 @@ Het bestuur kan, onverminderd het bepaalde in [artikel 4:35 van de Algemene wet 
 
 - b. als reeds tweemaal eerder voor dezelfde activiteit subsidie is aangevraagd;
 
-- c. als de aanvrager geen rechtspersoon met volledige rechtsbevoegdheid is (met uitzondering van aanvragers voor subsidie volgens [artikel 5.2 lid 2](https://wetten.overheid.nl/jci1.3:c:BWBR0030540&paragraaf=5&artikel=5.2&z=2016-08-01&g=2016-08-01));
+- c. als de aanvrager geen rechtspersoon met volledige rechtsbevoegdheid is (met uitzondering van aanvragers voor subsidie volgens [artikel 5.2 lid 2](https://wetten.overheid.nl/jci1.3:c:BWBR0030540&paragraaf=5&artikel=5.2&z=2016-08-12&g=2016-08-12));
 
 - d. als de aanvrager in de voorgaande twee jaar niet heeft voldaan aan een of meer aan een subsidie verbonden voorwaarden of verplichtingen, waaronder in elk geval ook vallen het juist en tijdig afronden van de gesubsidieerde activiteiten, het tijdig melden van relevante veranderingen in de uitvoering en het juist en tijdig verantwoorden van de activiteiten;
 
@@ -215,89 +215,121 @@ Aanvragen worden beoordeeld aan de hand van de volgende criteria:
 
 2. Het bestuur kan bepalen dat een subsidie nooit meer bedraagt dan een bepaald bedrag.
 
-#### Paragraaf 4. : Programmeringssubsidie festivals
+#### Paragraaf 4. : subsidie voor uitwisselingsprojecten
 
 ##### Artikel 4.1. Doel
 
-Het bestuur verstrekt programmeringssubsidies als bijdrage in de programmeringskosten van festivals om bij te dragen aan het bereiken van een zo groot mogelijk publiek met podiumkunstuitingen met voldoende artistiek-inhoudelijke kwaliteit in Nederland.
+Het bestuur verstrekt subsidies voor projecten die bijdragen aan de internationalisering van de podiumkunsten in Nederland door het bewerkstelligen van kennisopbouw, -overdracht of -uitwisseling.
 
 ##### Artikel 4.2. Aanvrager
 
-Een aanvraag kan worden gedaan door een rechtspersoon zonder winstoogmerk die primair gericht is op het vanuit een artistiek-inhoudelijk uitgangspunt organiseren van een festival met een substantieel aandeel professionele podiumkunsten.
+Een aanvraag kan uitsluitend worden gedaan door een instelling met een artistiek-inhoudelijke doelstelling.
 
 ##### Artikel 4.3. Subsidieaanvraag
 
-1. Een aanvraag moet betrekking hebben op de programmering van twee edities van een festival.
+1. Een aanvraag heeft betrekking op een project waarbij sprake is van research buiten Nederland, kennisuitwisseling op internationaal niveau of samenwerking tussen Nederlandse en buitenlandse podiumkunstenaars die leidt tot een productie.
 
-2. Op het moment van indiening van de aanvraag moet minimaal al een keer eerder een editie hebben plaatsgevonden van het festival waarvoor subsidie wordt aangevraagd.
+2. In afwijking van het bepaalde in het Algemeen Reglement van het Fonds Podiumkunsten kan een aanvraag betrekking hebben op een project waarin geen sprake is van openbare activiteiten.
 
-3. Aanvragen worden in één gezamenlijke ronde behandeld die eens per twee jaar plaatsvindt en betrekking heeft op twee kalenderjaren.
+##### Artikel 4.4. Vereisten
 
-##### Artikel 4.4. Beoordeling
+1. Als subsidie wordt aangevraagd ten behoeve van de activiteiten van een of meer groepen of performers, dan dienen die minimaal twee jaar actief zijn en meerdere producties te hebben voortgebracht.
 
-1. Aanvragen worden ten opzichte van elkaar afgewogen aan de hand van de volgende criteria:
+2. Subsidie is alleen mogelijk voor zover de resultaten daarvan direct of indirect ten goede komen aan de podiumkunstpraktijk in Nederland. Daarvan is geen sprake als het gaat om het in opdracht van een buitenlandse partner verrichten van artistieke werkzaamheden in het buitenland.
 
-- a). kwaliteit van het programmeringsprofiel op het gebied van podiumkunsten;
+3. Subsidie wordt niet verstrekt als de eerste openbare activiteit waarvoor het subsidie (mede) is bestemd plaatsvindt binnen 4 maanden na de uiterste indiendatum.
 
-- b). positionering en inbedding in de omgeving;
+4. Subsidie wordt niet verstrekt als het gevraagde subsidie niet in een redelijke verhouding staat tot het aantal te realiseren activiteiten of de te behalen eigen inkomsten. Hiervan is in elk geval sprake als niet minimaal 20% van de subsidiabele kosten worden gedekt door eigen inkomsten.
 
-- c). ondernemerschap;
+##### Artikel 4.5. Beoordeling
 
-- d). bijdrage aan pluriformiteit;
+Aanvragen worden beoordeeld aan de hand van de volgende criteria:
 
-- e). bijdrage aan geografische spreiding.
+- a. artistieke kwaliteit;
 
-##### Artikel 4.5. Hoogte subsidie
+- b. ondernemerschap;
 
-1. De subsidie bedraagt € 12.500, € 25.000, € 37.500 of € 50.000 per festivaleditie, maar nooit meer dan de kosten die direct samenhangen met de programmering die het festival verzorgt.
+- c. bijdrage aan het Internationaal Cultuurbeleid;
 
-2. De hoogte van het subsidie wordt gebaseerd op de gegevens uit de aanvraag en wordt als volgt vastgesteld:
+- d. relevantie voor de podiumkunstpraktijk in Nederland.
 
-| a. Bij festivals die 7 dagen of korter duren waar minder dan 100 uitvoeringen plaatsvinden: |   |
-| --- | --- |
-| – Programmeringskosten tot € 100.000 | € 12.500 |
-| – Programmeringskosten € 100.000 en hoger: | € 25.000 |
-| b. Bij festivals die 7 dagen of korter duren waar 100 of meer uitvoeringen plaatsvinden: |   |
-| – Programmeringskosten tot € 100.000 | € 12.500 |
-| – Programmeringskosten € 100.000 tot € 300.000 | € 25.000 |
-| – Programmeringskosten € 300.000 en hoger: | € 37.500 |
-| c. Bij festivals die 8 dagen of langer duren waar minder dan 100 uitvoeringen plaatsvinden: |   |
-| – Programmeringskosten tot € 100.000 | € 25.000 |
-| – Programmeringskosten € 100.000 en hoger: | € 37.500 |
-| d. Bij festivals die 8 dagen of langer duren waar 100 of meer uitvoeringen plaatsvinden: |   |
-| – Programmeringskosten tot € 100.000 | € 25.000 |
-| – Programmeringskosten € 100.000 tot € 300.000 | € 37.500 |
-| – Programmeringskosten € 300.000 en hoger: | € 50.000 |
+##### Artikel 4.6. Hoogte subsidie
 
-3. Het bestuur kan een lager subsidiebedrag toekennen als gegevens over de recente edities daartoe aanleiding geven.
+1. Voor subsidiering komen uitsluitend de volgende kosten in aanmerking:
 
-4. De subsidie wordt verstrekt voor 24 maanden.
+- a. personeelskosten;
 
-##### Artikel 4.6. Samenloop
+- b. voorbereiding en uitvoeringskosten;
 
-Een programmeringssubsidie festivals kan alleen worden verstrekt aan aanvragers die in het betreffende jaar geen andere subsidie op basis van deze regeling ontvangen.
+- c. kosten voor marketing en publiciteit;
 
-#### Paragraaf 5. : Subsidie reiskosten buitenlandse voorstellingen of concerten (via snelloket)
+- d. bureau en huisvestingskosten.
+
+2. Niet voor subsidiëring in aanmerking komen:
+
+- a. kosten voor activiteiten die op het moment van indiening van de aanvraag reeds zijn gerealiseerd;
+
+- b. structurele investeringen, zoals kosten die betrekking hebben op exploitatie, investeringen in accommodaties en de aanschaf van instrumenten;
+
+- c. kosten die redelijkerwijs niet voor subsidie in aanmerking komen.
+
+3. Het bestuur kan bepalen dat een subsidie nooit meer bedraagt dan een bepaald bedrag.
+
+#### Paragraaf 5. : subsidie reiskosten buitenlandse voorstellingen of concerten (via snelloket)
 
 ##### Artikel 5.1. Doel
 
-Vervallen
+Het bestuur verstrekt subsidies ter dekking van de reis- en transportkosten die samenhangen met het geven of bijwonen van voorstellingen of concerten buiten Nederland om bij te dragen aan het opbouwen en bereiken van publiek in het buitenland.
 
 ##### Artikel 5.2. Aanvrager
 
-Vervallen
+1. Subsidie voor het geven van voorstellingen of concerten kan worden aangevraagd door een groep of performer die voorstellingen of concerten wil geven in het buitenland en in een periode van 18 maanden voorafgaand aan de aanvraag minimaal 10 voorstellingen of concerten hebben gegeven op podia of festivals in Nederland die in de disciplines of genres waarbinnen zij opereren een relevante programmering verzorgen.
+
+2. Subsidie voor het bijwonen van een of meer voorstellingen of concerten kan worden aangevraagd door een componist, toneelschrijver, librettist of choreograaf die artistiek-inhoudelijk actief is in de podiumkunsten en in die hoedanigheid aantoonbaar geïntegreerd is in de professionele podiumkunstpraktijk in Nederland. Het bepaalde in artikel 1:8 sub c is in dit geval niet van toepassing.
+
+3. Subsidie kan eveneens worden aangevraagd door een instelling die op grond van de statuten of de feitelijke activiteiten kan worden aangemerkt als vertegenwoordiger van een groep of performer als bedoeld in het eerste lid.
 
 ##### Artikel 5.3. Subsidieaanvraag
 
-Vervallen
+1. Een aanvraag kan niet eerder dan vier maanden en niet later dan een maand voor de eerste voorstelling of het eerste concert worden ingediend.
+
+2. Een aanvraag die te vroeg is ingediend wordt niet in behandeling genomen. Een aanvraag die te laat is ingediend wordt afgewezen.
+
+3. Subsidieverzoeken worden afgehandeld op volgorde van indiening. Als moment van indiening geldt de datum waarop de aanvraag compleet is.
 
 ##### Artikel 5.4. Vereisten
 
-Vervallen
+1. Subsidie voor het geven van voorstellingen of concerten kan worden verstrekt als er sprake is een serie van minimaal 3 voorstellingen of concerten die:
+
+aaneengesloten plaatsvinden;
+
+zijn bevestigd door de betreffende buitenlandse podia of festivals; en
+
+plaatsvinden op podia of festivals die een relevante programmering verzorgen gezien de context waarbinnen zij functioneren.
+
+2. Subsidie voor het bijwonen van een of meer voorstellingen of concerten kan worden verstrekt als de componist, toneelschrijver, librettist of choreograaf waarop de aanvraag betrekking heeft:
+
+door een buitenlandse organisatie is uitgenodigd een uitvoering bij te wonen van een of meer werken die door hem zijn geschapen op een moment dat voor het moment van de aanvraag ligt; en
+
+een lezing of workshop zal geven dan wel er anderszins sprake is van aanvullende activiteiten waarvoor zijn aanwezigheid vereist is.
+
+3. Het bestuur kan subsidie weigeren:
+
+- a. als de aanvrager desgevraagd niet aannemelijk kan maken dat er sprake is van een tekort;
+
+- b. als voor de groep, performer of het individu waarop de aanvraag betrekking heeft reeds tweemaal eerder in een kalenderjaar een subsidie als bedoeld in deze paragraaf is verstrekt;
+
+- c. als reeds eerder voor de betreffende activiteit subsidie is aangevraagd in het kader van een van de andere paragrafen van deze regeling;
+
+- d. als er onvoldoende sprake is van een reeks logisch samenhangende voorstellingen of concerten;
+
+- e. als er onvoldoende ontwikkeling is ten opzichte van een eerder door het fonds ondersteunde aanvraag.
 
 ##### Artikel 5.5. Hoogte subsidie
 
-Vervallen
+1. Een subsidie voor het geven van voorstellingen of concerten bedraagt nooit meer dan het totaal van de redelijkerwijs noodzakelijke reis- en transportkosten voor de voor subsidie in aanmerking komende voorstellingen of concerten met een maximum van € 5.000 voor voorstellingen of concerten binnen Europa en € 7.500 voor voorstellingen of concerten buiten Europa.
+
+2. Een subsidie voor het bijwonen van een of meer voorstellingen of concerten bedraagt nooit meer dan het totaal van de redelijkerwijs noodzakelijke reis- en transportkosten van de betreffende componist, toneelschrijver, librettist of choreograaf met een maximum van € 2.500.
 
 #### Paragraaf 6. : Overige bepalingen
 
