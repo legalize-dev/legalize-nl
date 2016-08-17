@@ -4,7 +4,7 @@ identifier: "BWBR0038357"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2016-08-17"
-last_updated: "2016-07-01"
+last_updated: "2016-08-17"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0038357"
 soort: "ministeriele-regeling"
@@ -42,13 +42,11 @@ Besluit:
 
 ##### Artikel 1
 
-De hoofden van de organisatie-eenheden van de Dienst Uitvoering Subsidies aan Instellingen in oprichting hebben de bevoegdheid om in naam van de Minister van Onderwijs, Cultuur en Wetenschap en de Minister van Sociale Zaken en Werkgelegenheid besluiten te nemen en handelingen te verrichten voor zover deze betrekking hebben op het terrein van de Dienst Uitvoering Subsidies aan Instellingen in oprichting.
+De directeur en de hoofden van de direct onder de directeur ressorterende organisatie-eenheden van de Dienst Uitvoering Subsidies aan Instellingen hebben de bevoegdheid om in naam van de minister besluiten te nemen voor zover deze betrekking hebben op het werkterrein van de Dienst Uitvoering Subsidies aan Instellingen.
 
 ##### Artikel 2
 
-1. Het [besluit van de kwartiermaker van de Dienst Uitvoering Subsidies aan Instellingen van 4 februari 2016](https://wetten.overheid.nl/jci1.3:c:BWBR0037604&wetgeving), nr. WJZ/888609, houdende vaststelling van de Ondermandaatregeling OCW-DUS-I wordt ingetrokken.
-
-2. Het [besluit van de kwartiermaker van de Dienst Uitvoering Subsidies aan Instellingen van 20 april 2016](https://wetten.overheid.nl/jci1.3:c:BWBR0037903&wetgeving), houdende de verlening van ondermandaat en machtiging SZW wordt ingetrokken.
+De directeur en het hoofd van het tijdelijk programmabureau van de Dienst Uitvoering Subsidies aan Instellingen hebben de bevoegdheid om in naam van de minister privaatrechtelijke rechtshandelingen te verrichten voor zover deze betrekking hebben op het werkterrein van de Dienst Uitvoering Subsidies aan Instellingen.
 
 ##### Artikel 3
 
