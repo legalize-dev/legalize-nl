@@ -4,7 +4,7 @@ identifier: "BWBR0038427"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2016-08-17"
-last_updated: "2016-02-13"
+last_updated: "2016-08-17"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0038427"
 soort: "ministeriele-regeling"
@@ -36,7 +36,7 @@ entry_into_force: "2016-08-17"
 ---
 # Besluit van de Minister van Binnenlandse Zaken en Koninkrijksrelaties van 12 augustus 2016, nr. 2016-0000471252, houdende vergoeding van de voorzitter en leden van de bezwaaradviescommissie Referendumcommissie
 
-Gezien het [besluit van de Referendumcommissie van 5 februari 2016 tot instelling van een bezwaaradviescommissie](https://wetten.overheid.nl/jci1.3:c:BWBR0037663&wetgeving) (**Stcrt.** 2016, 7176);
+Gezien het [besluit van de Referendumcommissie van 5 februari 2016 tot instelling van een bezwaaradviescommissie](https://wetten.overheid.nl/jci1.3:c:BWBR0037663) (**Stcrt.** 2016, 7176);
 
 Besluit:
 
