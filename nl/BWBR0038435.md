@@ -146,13 +146,3 @@ B.
 In het laatste artikel wordt de zinsnede ‘31 augustus 2017’ vervangen door: 31 augustus 2022.
 
 Dit besluit zal met toelichting in de Staatscourant worden geplaatst.
-
-### Artikel III
-
-### Artikel IV
-
-### Artikel V
-
-### Artikel VI
-
-Dit besluit zal met toelichting in de Staatscourant worden geplaatst.
