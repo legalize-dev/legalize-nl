@@ -4,7 +4,7 @@ identifier: "BWBR0038430"
 country: "nl"
 rank: "ministeriele_regeling_bes"
 publication_date: "2016-08-25"
-last_updated: "2016-06-01"
+last_updated: "2016-08-25"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0038430"
 soort: "ministeriele-regeling-BES"
@@ -44,9 +44,9 @@ Besluit:
 
 In deze regeling wordt verstaan onder:
 
-- a. **bijzondere uitkering kinderrechten:** eenmalige bijzondere uitkering als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0038430&artikel=2&z=2016-08-25&g=2016-06-01);
+- a. **bijzondere uitkering kinderrechten:** eenmalige bijzondere uitkering als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0038430&artikel=2&z=2016-08-25&g=2016-08-25);
 
-- b. **project:** project als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0038430&artikel=2&z=2016-08-25&g=2016-06-01).
+- b. **project:** project als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0038430&artikel=2&z=2016-08-25&g=2016-08-25).
 
 ##### Artikel 2. Doel bijzondere uitkering kinderrechten
 
@@ -72,7 +72,7 @@ De minister kan aan de openbare lichamen een bijzondere uitkering kinderrechten 
 
 - a. een beschrijving van het project of projecten, waarvoor de bijzondere uitkering kinderrechten wordt aangevraagd;
 
-- b. de wijze waarop het project of de projecten bijdraagt of bijdragen aan de doelstelling, genoemd in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0038430&artikel=2&z=2016-08-25&g=2016-06-01);
+- b. de wijze waarop het project of de projecten bijdraagt of bijdragen aan de doelstelling, genoemd in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0038430&artikel=2&z=2016-08-25&g=2016-08-25);
 
 - c. een sluitende begroting voor het project, en
 
@@ -86,21 +86,21 @@ De minister kan aan de openbare lichamen een bijzondere uitkering kinderrechten 
 
 2. De minister besluit uitsluitend tot verlening van een bijzondere uitkering kinderrechten, indien:
 
-- a. het project voldoet aan het doel, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0038430&artikel=2&z=2016-08-25&g=2016-06-01);
+- a. het project voldoet aan het doel, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0038430&artikel=2&z=2016-08-25&g=2016-08-25);
 
 - b. het naar het oordeel van de minister aannemelijk is dat het project uiterlijk 31 december 2019 kan worden uitgevoerd;
 
 - c. het project doelmatig en doeltreffend is;
 
-- d. het project redelijkerwijs uitvoerbaar is gezien de middelen en de kosten die in het projectplan, bedoeld in [artikel 4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0038430&artikel=4&z=2016-08-25&g=2016-06-01), zijn begroot, en
+- d. het project redelijkerwijs uitvoerbaar is gezien de middelen en de kosten die in het projectplan, bedoeld in [artikel 4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0038430&artikel=4&z=2016-08-25&g=2016-08-25), zijn begroot, en
 
-- e. het in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0038430&artikel=3&z=2016-08-25&g=2016-06-01), genoemde beschikbare bedrag niet wordt overschreden als gevolg van het verlenen van de bijzondere uitkering kinderrechten.
+- e. het in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0038430&artikel=3&z=2016-08-25&g=2016-08-25), genoemde beschikbare bedrag niet wordt overschreden als gevolg van het verlenen van de bijzondere uitkering kinderrechten.
 
 ##### Artikel 6. Verplichtingen
 
 1. Indien een openbaar lichaam een bijzondere uitkering kinderrechten ontvangt:
 
-- a. bewaakt het bestuurscollege van dat openbaar lichaam de tijdige uitvoering van het project volgens het projectplan, bedoeld in [artikel 4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0038430&artikel=4&z=2016-08-25&g=2016-06-01), en
+- a. bewaakt het bestuurscollege van dat openbaar lichaam de tijdige uitvoering van het project volgens het projectplan, bedoeld in [artikel 4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0038430&artikel=4&z=2016-08-25&g=2016-08-25), en
 
 - b. verzamelt en bewaart het bestuurscollege van dat openbare lichaam gegevens omtrent de voortgang en kosten van de uitvoering van het project.
 
@@ -112,27 +112,27 @@ De minister kan aan de openbare lichamen een bijzondere uitkering kinderrechten 
 
 1. De minister verstrekt een voorschot op de verleende bijzondere uitkering kinderrechten.
 
-2. De hoogte van het voorschot wordt per project vastgesteld op basis van een bevoorschottingsregime dat is vastgesteld bij het besluit, bedoeld in [artikel 5, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0038430&artikel=5&z=2016-08-25&g=2016-06-01).
+2. De hoogte van het voorschot wordt per project vastgesteld op basis van een bevoorschottingsregime dat is vastgesteld bij het besluit, bedoeld in [artikel 5, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0038430&artikel=5&z=2016-08-25&g=2016-08-25).
 
 3. De minister kan op verzoek van het bestuurscollege van het openbaar lichaam besluiten om de hoogte van een voorschot hoger of lager vast te stellen.
 
 4. De minister kan de verstrekking van voorschotten opschorten, indien:
 
-- a. een project wordt uitgevoerd op een wijze die niet langer voldoet aan het doel, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0038430&artikel=2&z=2016-08-25&g=2016-06-01), of
+- a. een project wordt uitgevoerd op een wijze die niet langer voldoet aan het doel, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0038430&artikel=2&z=2016-08-25&g=2016-08-25), of
 
 - b. verleende voorschotten zijn besteed aan een ander doel dan waarvoor de bijzondere uitkering kinderrechten is verstrekt.
 
 ##### Artikel 8. Intrekken besluit tot verstrekken bijzondere uitkering kinderrechten
 
-1. Zolang de bijzondere uitkering kinderrechten nog niet overeenkomstig [artikel 9, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0038430&artikel=9&z=2016-08-25&g=2016-06-01), is vastgesteld, kan de minister het besluit, bedoeld in [artikel 5, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0038430&artikel=5&z=2016-08-25&g=2016-06-01), wijzigen of intrekken, indien:
+1. Zolang de bijzondere uitkering kinderrechten nog niet overeenkomstig [artikel 9, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0038430&artikel=9&z=2016-08-25&g=2016-08-25), is vastgesteld, kan de minister het besluit, bedoeld in [artikel 5, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0038430&artikel=5&z=2016-08-25&g=2016-08-25), wijzigen of intrekken, indien:
 
-- a. het openbare lichaam een melding heeft gedaan als bedoeld in [artikel 6, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0038430&artikel=6&z=2016-08-25&g=2016-06-01);
+- a. het openbare lichaam een melding heeft gedaan als bedoeld in [artikel 6, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0038430&artikel=6&z=2016-08-25&g=2016-08-25);
 
 - b. het openbare lichaam onjuiste of onvolledige gegevens heeft verstrekt en verstrekking van juiste of volledige gegevens tot een ander besluit omtrent de verlening van de uitkering zou hebben geleid;
 
 - c. het besluit tot verlening van de uitkering onjuist was en het openbaar lichaam dit wist of behoorde te weten;
 
-- d. een project wordt uitgevoerd op een wijze die niet langer voldoet langer voldoet aan het doel, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0038430&artikel=2&z=2016-08-25&g=2016-06-01), of
+- d. een project wordt uitgevoerd op een wijze die niet langer voldoet langer voldoet aan het doel, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0038430&artikel=2&z=2016-08-25&g=2016-08-25), of
 
 - e. verleende voorschotten zijn besteed aan een ander doel dan waarvoor de uitkering is verstrekt.
 
@@ -140,7 +140,7 @@ De minister kan aan de openbare lichamen een bijzondere uitkering kinderrechten 
 
 1. De minister stelt de bijzondere uitkering kinderrechten vast uiterlijk vier maanden na indiening van de jaarrekening over het laatste uitvoeringsjaar.
 
-2. Voor zover de bijzondere uitkering kinderrechten niet op de wijze, bedoeld in [artikel 6, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0038430&artikel=6&z=2016-08-25&g=2016-06-01), is besteed kan de minister het reeds betaalde bedrag terugvorderen.
+2. Voor zover de bijzondere uitkering kinderrechten niet op de wijze, bedoeld in [artikel 6, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0038430&artikel=6&z=2016-08-25&g=2016-08-25), is besteed kan de minister het reeds betaalde bedrag terugvorderen.
 
 ##### Artikel 10. Inwerkingtreding
 
