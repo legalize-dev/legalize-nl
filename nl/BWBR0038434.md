@@ -4,7 +4,7 @@ identifier: "BWBR0038434"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2016-08-25"
-last_updated: "2015-01-01"
+last_updated: "2016-08-25"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0038434"
 soort: "ministeriele-regeling"
@@ -70,6 +70,6 @@ Een jeugdhulpaanbieder die andere jeugdhulp dan geestelijke gezondheidszorg of e
 
 3. In afwijking van het eerste lid is [artikel 6a.8](https://wetten.overheid.nl/jci1.3:c:BWBR0036007&artikel=6a.8) met terugwerkende kracht tot en met 1 januari 2015 van overeenkomstige toepassing voor zover vanaf die datum op basis van tussen een gemeente en een aanbieder van gespecialiseerde geestelijke gezondheidszorg een met de inhoud van [artikel 6a.2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036007&artikel=6a.2), overeenkomende afspraak is gemaakt en door de jeugdige of degene die het gezag over hem uitvoert en de aanbieder gebruik is gemaakt van de mogelijkheid die die afspraak biedt.
 
-4. In afwijking van het eerste lid werkt het in [artikel I, onderdeel B](https://wetten.overheid.nl/jci1.3:c:BWBR0038434&artikel=I&z=2016-08-25&g=2015-01-01), opgenomen artikel 6a.3 terug tot en met 1 januari 2016.
+4. In afwijking van het eerste lid werkt het in [artikel I, onderdeel B](https://wetten.overheid.nl/jci1.3:c:BWBR0038434&artikel=I&z=2016-08-25&g=2016-08-25), opgenomen artikel 6a.3 terug tot en met 1 januari 2016.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
