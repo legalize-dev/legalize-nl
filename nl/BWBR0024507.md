@@ -4,7 +4,7 @@ identifier: "BWBR0024507"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2016-08-26"
-last_updated: "2013-01-01"
+last_updated: "2016-08-26"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0024507"
 soort: "ministeriele-regeling"
@@ -46,7 +46,7 @@ Besluit:
 
 In deze regeling en de daarop berustende bepalingen wordt verstaan onder:
 
-- a. wet: [Algemene wet erkenning EG-beroepskwalificaties](https://wetten.overheid.nl/jci1.3:c:BWBR0023066);
+- a. wet: [Algemene wet erkenning EU-beroepskwalificaties](https://wetten.overheid.nl/jci1.3:c:BWBR0023066);
 
 - b. aanvrager: de migrerende beroepsbeoefenaar die een aanvraag doet om erkenning van de beroepskwalificaties voor advocaat;
 
@@ -54,7 +54,7 @@ In deze regeling en de daarop berustende bepalingen wordt verstaan onder:
 
 ##### Artikel 2
 
-De taken en bevoegdheden van de Minister van Veiligheid en Justitie, bedoeld in de [artikelen 1](https://wetten.overheid.nl/jci1.3:c:BWBR0023066&artikel=1), [5](https://wetten.overheid.nl/jci1.3:c:BWBR0023066&artikel=5), [6](https://wetten.overheid.nl/jci1.3:c:BWBR0023066&artikel=6), [8](https://wetten.overheid.nl/jci1.3:c:BWBR0023066&artikel=8), [11](https://wetten.overheid.nl/jci1.3:c:BWBR0023066&artikel=11), [12](https://wetten.overheid.nl/jci1.3:c:BWBR0023066&artikel=12), [13](https://wetten.overheid.nl/jci1.3:c:BWBR0023066&artikel=13), [17](https://wetten.overheid.nl/jci1.3:c:BWBR0023066&artikel=17), [19](https://wetten.overheid.nl/jci1.3:c:BWBR0023066&artikel=19), [32](https://wetten.overheid.nl/jci1.3:c:BWBR0023066&artikel=32), [34, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023066&artikel=34), en [35 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0023066&artikel=35) worden uitgevoerd door de algemene raad voor zover het de advocatuur betreft.
+De taken en bevoegdheden van de Minister van Veiligheid en Justitie, bedoeld in de artikelen [5](https://wetten.overheid.nl/jci1.3:c:BWBR0023066&artikel=5), [6](https://wetten.overheid.nl/jci1.3:c:BWBR0023066&artikel=6), [8](https://wetten.overheid.nl/jci1.3:c:BWBR0023066&artikel=8), [11](https://wetten.overheid.nl/jci1.3:c:BWBR0023066&artikel=11), [12](https://wetten.overheid.nl/jci1.3:c:BWBR0023066&artikel=12), [13](https://wetten.overheid.nl/jci1.3:c:BWBR0023066&artikel=13), [17](https://wetten.overheid.nl/jci1.3:c:BWBR0023066&artikel=17), [18](https://wetten.overheid.nl/jci1.3:c:BWBR0023066&artikel=18), [19](https://wetten.overheid.nl/jci1.3:c:BWBR0023066&artikel=19), [31](https://wetten.overheid.nl/jci1.3:c:BWBR0023066&artikel=31), [31b](https://wetten.overheid.nl/jci1.3:c:BWBR0023066&artikel=31b), [31c](https://wetten.overheid.nl/jci1.3:c:BWBR0023066&artikel=31c), [32](https://wetten.overheid.nl/jci1.3:c:BWBR0023066&artikel=32), [32a, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023066&artikel=32a), [33, eerste en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023066&artikel=33), [34, eerste, vijfde en zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023066&artikel=34), [34c](https://wetten.overheid.nl/jci1.3:c:BWBR0023066&artikel=34c), en [35 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0023066&artikel=35) worden uitgevoerd door de algemene raad voor zover het de advocatuur betreft.
 
 ### Hoofdstuk 2. Erkenning van beroepskwalificaties
 
@@ -64,19 +64,19 @@ De taken en bevoegdheden van de Minister van Veiligheid en Justitie, bedoeld in 
 
 2. Bij zijn aanvraag legt hij de volgende bescheiden over:
 
-- a. een bewijs van de nationaliteit van de aanvrager alsmede, indien de definitie van migrerende beroepsbeoefenaar als bedoeld in [artikel 1, onder 2°, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0023066&artikel=1) van toepassing is, een door Nederland afgegeven EG-verblijfsvergunning voor langdurig ingezetenen als bedoeld in artikel 8 van richtlijn nr. 2003/109/EG van de Raad van de Europese Unie van 25 november 2003 betreffende de status van langdurig ingezeten onderdanen van derde landen (PbEU L 016), of een door een andere betrokken staat dan Nederland afgegeven zodanige EG-verblijfsvergunning en een verblijfsvergunning als bedoeld in [artikel 14 van de Vreemdelingenwet 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=14), of, indien de definitie van migrerende beroepsbeoefenaar als bedoeld in [artikel 1, onder 3°, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0023066&artikel=1) van toepassing is, een verblijfskaart van een familielid van een burger van de Unie of een duurzame verblijfskaart of een ander bewijsmiddel waaruit blijkt dat de aanvrager het verblijfsrecht of het duurzaam verblijfsrecht heeft verkregen als bedoeld in hoofdstuk III, respectievelijk hoofdstuk IV van richtlijn nr. 2004/38/EG van het Europees Parlement en de Raad van de Europese Unie van 29 april 2004 betreffende het recht van vrij verkeer en verblijf op het grondgebied van de lidstaten voor de burgers van de Unie en hun familieleden (PbEU L 158 en L 229);
+- a. een bewijs van de nationaliteit van de aanvrager alsmede, indien de definitie van migrerende beroepsbeoefenaar als bedoeld in [artikel 1, onder 2°, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0023066&artikel=1) van toepassing is, een door Nederland afgegeven EU-verblijfsvergunning voor langdurig ingezetenen als bedoeld in artikel 8 van richtlijn nr. 2003/109/EG van de Raad van de Europese Unie van 25 november 2003 betreffende de status van langdurig ingezeten onderdanen van derde landen (PbEU L 016), of een door een andere betrokken staat dan Nederland afgegeven zodanige EU-verblijfsvergunning en een verblijfsvergunning als bedoeld in [artikel 14 van de Vreemdelingenwet 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=14), of, indien de definitie van migrerende beroepsbeoefenaar als bedoeld in [artikel 1, onder 3°, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0023066&artikel=1) van toepassing is, een verblijfskaart van een familielid van een burger van de Unie of een duurzame verblijfskaart of een ander bewijsmiddel waaruit blijkt dat de aanvrager het verblijfsrecht of het duurzaam verblijfsrecht heeft verkregen als bedoeld in hoofdstuk III, respectievelijk hoofdstuk IV van richtlijn nr. 2004/38/EG van het Europees Parlement en de Raad van de Europese Unie van 29 april 2004 betreffende het recht van vrij verkeer en verblijf op het grondgebied van de lidstaten voor de burgers van de Unie en hun familieleden (PbEU L 158 en L 229);
 
 - b. een kopie van de opleidingstitels:
 
 - i. gewaarmerkt door het bevoegde gezag in de betrokken staat van oorsprong of herkomst op grond waarvan de aanvrager in die betrokken staat recht heeft op toegang tot en uitoefening van het beroep advocaat en waaruit tevens de duur van de opleiding blijkt, of
 
-- ii. die door het in een derde land bevoegde gezag is afgegeven, gewaarmerkt door dat bevoegde gezag en een bewijsstuk, gewaarmerkt door het bevoegde gezag in de betrokken staat van oorsprong of herkomst waaruit blijkt dat dit bevoegde gezag de opleidingstitel heeft erkend alsmede dat de aanvrager ten minste drie jaar beroepservaring in de advocatuur heeft opgedaan op het grondgebied van die betrokken staat en waaruit tevens de duur van de opleiding blijkt;
+- ii. die door het in een derde land bevoegde gezag is afgegeven, gewaarmerkt door dat bevoegde gezag en een bewijsstuk, gewaarmerkt door het bevoegde gezag in de betrokken staat van oorsprong of herkomst waaruit blijkt dat dit bevoegde gezag de opleidingstitel heeft erkend alsmede dat de aanvrager ten minste één jaar beroepservaring in de advocatuur heeft opgedaan op het grondgebied van die betrokken staat en waaruit tevens de duur van de opleiding blijkt;
 
 - c. een overzicht van vakken die onderdeel hebben uitgemaakt van de opleidingen die ten grondslag liggen aan de opleidingstitels, bedoeld in onderdeel b, en waarin de aanvrager met goed gevolg examen heeft afgelegd alsmede een leerstofomschrijving van deze vakken en de daarbij behorende studietijd;
 
 - d. een bewijs van de met goed gevolg afgelegde afsluiting van de beroepsopleiding alsmede een overzicht van vakken die onderdeel hebben uitgemaakt van deze beroepsopleiding alsmede een leerstofomschrijving van de vakken en de daarbij behorende studietijd;
 
-- e. in voorkomend geval een bewijs van zijn beroepservaring, waarbij in ieder geval inzicht wordt verschaft in de duur van deze beroepservaring en de onderdelen en inhoud waaruit de beroepswerkzaamheden hebben bestaan;
+- e. in voorkomend geval een bewijs van zijn beroepservaring of in een leven lang leren, waarbij in ieder geval inzicht wordt verschaft in de duur van deze beroepservaring of in een leven lang leren en de onderdelen en inhoud waaruit de beroepswerkzaamheden hebben bestaan dan wel inzicht wordt verschaft in de verworven competenties;
 
 - f. een verklaring omtrent het gedrag als bedoeld in de [Wet justitiële en strafvorderlijke gegevens](https://wetten.overheid.nl/jci1.3:c:BWBR0014194) of een met die verklaring overeenkomend document als bedoeld in [artikel 14, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0023066&artikel=14), of een attest waaruit blijkt van een verklaring onder ede of plechtige verklaring als bedoeld in [artikel 14, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0023066&artikel=14);
 
@@ -90,7 +90,7 @@ De taken en bevoegdheden van de Minister van Veiligheid en Justitie, bedoeld in 
 
 ##### Artikel 4
 
-1. Met inachtneming van [artikel 11 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0023066&artikel=11) stelt de algemene raad de aanvrager op de hoogte van de eis tot het met goed gevolg afleggen van een proeve van bekwaamheid.
+1. Met inachtneming van [artikel 11 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0023066&artikel=11) stelt de algemene raad de aanvrager op de hoogte van de eis tot het met goed gevolg afleggen van een proeve van bekwaamheid of een aanpassingsstage.
 
 2. De algemene raad informeert de aanvrager schriftelijk over:
 
@@ -100,7 +100,7 @@ De taken en bevoegdheden van de Minister van Veiligheid en Justitie, bedoeld in 
 
 - c. de termijn waarbinnen de proeve van bekwaamheid dient te geschieden, en
 
-- d. de kosten die aan het afleggen van de proeve van bekwaamheid of een examen zijn verbonden.
+- d. de kosten die samenhangen met de aanvraag, de afgifte van besluiten en het organiseren van een proeve van bekwaamheid en van een aanpassingsstage.
 
 ##### Artikel 5
 
@@ -110,7 +110,7 @@ De taken en bevoegdheden van de Minister van Veiligheid en Justitie, bedoeld in 
 
 3. De algemene raad draagt ervoor zorg dat de aanvrager:
 
-- a. eenmaal per jaar de gelegenheid wordt geboden tot het afleggen van de proeve van bekwaamheid;
+- a. binnen zes maanden na het nemen van het besluit bedoeld in artikel 4, eerste lid de gelegenheid wordt geboden tot het afleggen van de proeve van bekwaamheid;
 
 - b. inzicht verkrijgt in de normen die worden gehanteerd bij de beoordeling van de proeve van bekwaamheid;
 
@@ -118,7 +118,7 @@ De taken en bevoegdheden van de Minister van Veiligheid en Justitie, bedoeld in 
 
 - d. wordt geïnformeerd over degene aan wie de kosten van de proeve van bekwaamheid of van het examen moeten worden voldaan, en
 
-- e. binnen vier weken schriftelijk wordt meegedeeld wat het resultaat van het afleggen van de proeve van bekwaamheid is.
+- e. vervallen.
 
 ##### Artikel 6
 
@@ -138,6 +138,6 @@ Deze regeling treedt in werking met ingang van de tweede dag na de dagtekening v
 
 ##### Artikel 9
 
-Deze regeling wordt aangehaald als: Regeling erkenning EG-beroepskwalificaties advocatuur.
+Deze regeling wordt aangehaald als: Regeling erkenning EU-beroepskwalificaties advocatuur.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
