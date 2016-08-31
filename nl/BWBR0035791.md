@@ -4,7 +4,7 @@ identifier: "BWBR0035791"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-12-24"
-last_updated: "2016-07-14"
+last_updated: "2016-08-31"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0035791"
 soort: "ministeriele-regeling"
@@ -1166,7 +1166,7 @@ Is vervallen m.i.v. NFP2014.
 
 De volgende frequentiebanden vormen onderwerp van studie:
 
-*De frequentieblokken 7C, 8C en 9C vormen onderwerp van studie voor zover de dekkingsgebieden van deze frequentieblokken niet grotendeels samenvallen met respectievelijk de provincies Drenthe en Groningen, de provincie Limburg dan wel met de provincie Brabant.
+* Het frequentieblok 9C vormt onderwerp van studie voor zover het dekkingsgebied van dit frequentieblok niet grotendeels samenvalt met de provincie Limburg dan wel met de provincie Brabant.
 
 Omroep als bedoeld in [artikel 6.9 van de Mediawet 2008](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&artikel=6.9) ten behoeve van een evenement of bedrijfsondersteunende dienst met een zendbereik dat beperkt is tot de locatie waarop het evenement plaatsvindt dan wel de locatie waarop het bedrijf zijn activiteiten uitoefent.
 
@@ -1174,11 +1174,17 @@ Vanaf 1 september 2011 tot 1 september 2017 is deze frequentieband, voor zover z
 
 Niettegenstaande de hiervoor bedoelde koppeling is het desbetreffende deel van deze frequentieband tevens bestemd voor commerciële omroepen:
 
+Vanaf 1 september 2017 tot 1 september 2022 is de frequentieruimte behorend bij een commerciële middengolfvergunning telkens gekoppeld met 1/18 deel van de capaciteit van een bijbehorend digitaal frequentieblok overeenkomstig de onderstaande tabel ten behoeve van in elk geval het ongewijzigd en gelijktijdig digitaal uitzenden van de radioprogramma’s die op grond van de commerciële middengolfvergunningen worden uitgezonden. Daarbij is de in de vorige volzin bedoelde frequentieruimte in de middengolfband bestemd voor commerciële omroepen die voor elke commerciële middengolfvergunning tevens een ingevolge de rechterkolom van de onderstaande tabel daarbij behorende vergunning voor 1/18 deel van het gekoppelde frequentieblok houden of gaan houden.
+
+De frequentieruimte die behoort bij de vergunning voor kavel C06 is bestemd voor commerciële omroepen die een vergunning voor landelijke commerciële radio-omroep in de frequentieband 87.5 MHz tot 104.9 MHz en tevens een vergunning voor 1/9 deel van de capaciteit van het frequentieblok 11C, bedoeld in nationale voetnoot HOL007A, houden of gaan houden.
+
 Vanaf 1 september 2011 tot 1 september 2017 is deze frequentieband, voor zover zij nader is bestemd voor commerciële radio-omroep, gekoppeld met de frequentiebanden 182.792 – 184.504 MHz; 188 – 189.784 MHz; 195 – 196.792 MHz; 207.208 – 209MHz; 219.496 – 221.208 MHz. Ingevolge deze nadere bestemming en koppeling is het desbetreffende deel van deze frequentieband alleen bestemd voor:
 
 Niettegenstaande de hiervoor bedoelde koppeling is het desbetreffende deel van deze frequentieband tevens bestemd voor niet-landelijke commerciële radio-omroepen die op basis van een schriftelijke overeenkomst met de betrokken (al dan niet toekomstige) vergunninghouder verzekerd hebben dat zij ten behoeve van de verspreiding van radioprogramma’s toegang hebben tot een netwerk dat wordt geëxploiteerd met een vergunning die betrekking heeft op de frequentieband 174 – 230 MHz.
 
 Vanaf 1 september 2017 tot 1 september 2022 is de frequentieruimte behorend bij één FM-vergunning voor landelijke commerciële radio-omroep gekoppeld met 1/9 deel van de capaciteit van de frequentieruimte van het frequentieblok 11C, bedoeld in nationale voetnoot HOL007A ten behoeve van in elk geval het ongewijzigd en gelijktijdig digitaal uitzenden van de radioprogramma’s die op grond van de landelijke commerciële FM-vergunningen worden uitgezonden. Daarbij is de in de vorige volzin bedoelde frequentieruimte in de FM-band bestemd voor landelijke commerciële omroepen die zowel een FM-vergunning voor landelijke commerciële radio-omroep als een vergunning voor 1/9 deel van de capaciteit van het frequentieblok 11C houden of gaan houden.
+
+Vanaf 1 september 2017 tot 1 september 20221Voor vergunningen voor niet-landelijke commerciële radio-omroepen die vóór 1 september 2017 verdeeld worden gaat deze bestemming niet per 1 september 2017 in, maar op de dag waarop het besluit als bedoeld in artikel 3.10, derde lid, van de Telecommunicatiewet houdende de keuze van de verdelingsprocedure van de betreffende vergunning voor niet-landelijke commerciële radio-omroep in werking treedt. Voor de periode vanaf de inwerkingtreding van dat besluit geldt voor die te verdelen vergunningen niet de bestemming die met het besluit van 18 februari 2011 tot wijziging van het NFP 2005 is bepaald (Stcrt. 2011, nr. 2948). is de frequentieruimte behorend bij een FM-vergunning voor niet-landelijke commerciële radio-omroep overeenkomstig de onderstaande tabel telkens gekoppeld met 1/18 deel van de capaciteit van een bijbehorend digitaal frequentieblok ten behoeve van in elk geval het ongewijzigd en gelijktijdig digitaal uitzenden van de radioprogramma’s die op grond van niet-landelijke commerciële FM-vergunningen worden uitgezonden. Daarbij is de in de vorige volzin bedoelde frequentieruimte in de FM-band bestemd voor commerciële omroepen die voor elke vergunning voor niet-landelijke commerciële radio-omroep tevens een ingevolge de rechterkolom van de onderstaande tabel daarbij behorende vergunning voor 1/18 deel van het gekoppelde frequentieblok houden of gaan houden.
 
 Aangewezen voor Defensie ten behoeve van militaire omroep voor in Nederland gelegerde buitenlandse strijdkrachten.
 
@@ -1188,7 +1194,9 @@ De in de eerste alinea bedoelde allotments hebben de volgende geografische beper
 
 Onverminderd de eerste alinea, zijn deze allotments in elk geval bestemd voor het ongewijzigd en gelijktijdig uitzenden van krachtens [artikel 17 van het Frequentiebesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0032895&artikel=17) aangewezen radioprogramma’s van de in de eerste alinea van deze voetnoot bedoelde radio-omroepen.
 
-Voor de volgende frequentiebanden geldt vergunningverlening aan regionale publieke media-instellingen op aanvraag en aan commerciële omroep op volgorde van binnenkomst van de aanvraag:
+Vanaf 1 september 2017 tot 1 september 2022 is 1/18 deel van de capaciteit van de frequentieruimte van een frequentieblok als bedoeld in de rechterkolom van de tabellen in de nationale voetnoten HOL004 en HOL005, gekoppeld met de frequentieruimte behorend bij de analoge commerciële vergunningen, bedoeld in de bij die rechterkolom behorende linkerkolom van de tabellen in de nationale voetnoten HOL004 en HOL005, ten behoeve van in elk geval het ongewijzigd en gelijktijdig digitaal uitzenden van de radioprogramma’s die op grond van de analoge commerciële vergunningen worden uitgezonden. Daarbij is de in de vorige volzin bedoelde frequentieruimte in de allotments 8A, 6B, 6C, 7A, 9D-N en 9D-Z bestemd voor commerciële middengolfomroepen of niet-landelijke commerciële radio-omroepen die voor elke vergunning voor 1/18 deel van de capaciteit van een frequentieblok als bedoeld in de rechterkolom van de tabellen in de nationale voetnoten HOL004 en HOL005, tevens een vergunning voor commerciële middengolfomroep onderscheidenlijk niet-landelijke commerciële radio-omroep houden of gaan houden.
+
+Het deel van de frequentieruimte, bedoeld in de rechterkolom van de tabellen in nationale voetnoten HOL004 en HOL005, dat gekoppeld is aan vergunningen voor commerciële middengolfomroep onderscheidenlijk commerciële niet-landelijke FM-omroep, wordt in afwijking van de kolom Verdeelmechanisme van de in hoofdstuk 10 opgenomen Frequentietabel op volgorde van binnenkomst verleend.
 
 Tot 1 september 2017 is de frequentieband 219.496 – 221.208 MHz gekoppeld met de frequentiebanden 87.5 MHz tot 104.9 MHz, voor zover die frequentiebanden nader zijn bestemd voor landelijke commerciële radio-omroep, en is deze band bestemd voor landelijke commerciële radio-omroepen die houder zijn of worden van een vergunning in deze band en tevens houder zijn of worden van een vergunning voor landelijke commerciële radio-omroep in de frequentieband 87.5 MHz tot 104.9 MHz.
 
@@ -1198,7 +1206,7 @@ Vanaf 1 september 2017 tot 1 september 2022 is 1/9 deel van de capaciteit van de
 
 Voor de volgende frequentieband geldt vergunningverlening aan landelijke commerciële omroep op volgorde van binnenkomst van de aanvraag:
 
-Volgens overeengekomen afspraken en voorwaarden kan het ministerie van Defensie
+### Annex 4, Gebruikte afkortingen en begrippen / Abbreviations and terms
 
 medegebruik toestaan aan het ministerie van Veiligheid en Justitie. Deze nationale
 
@@ -1206,11 +1214,11 @@ voetnoot geldt tot 1 januari 2017.
 
 Bestemming voor GNSS-repeaters voor de hoofdcategorie zakelijk gebruik is ingeperkt
 
-### Annex 4, Gebruikte afkortingen en begrippen / Abbreviations and terms
+tot bedrijven die GNSS toepassingen ontwerpen, testen, inbouwen of onderhouden.
 
 CGC’s dienen integraal onderdeel uit te maken van een satellietsysteem en dienen onder controle te staan van het satellietcapaciteits- en netwerkbeheersmechanisme.
 
-**AIS –**Automatic Identification System
+**ECA-tabel** – The European Table of Frequency Allocations and Applications in the frequency range 8.3 kHz to 3000 GHz (ECA Table)
 
 Verklaring van in de Nationale Frequentietabel gebruikte afkortingen en begrippen, anders dan ITU diensten25Uitleg over de begrippen kan ook worden gevonden op www.telecomabc.nl en tevens in het Nationaal Frequentieregister (NFR), zie http://www.agentschaptelecom.nl/onderwerpen/frequentiemanagement/nationaal-frequentieregister. / **Explanation of abbreviations and notions as used in the frequency table, other than ITU radio services.**
 
@@ -1336,7 +1344,7 @@ Kerktelefonie – Systeem bestemd voor het integraal lokaal audio uitzenden van 
 
 **Omroepdienst:** mediadienst die betrekking heeft op het verzorgen van media-aanbod dat op basis van een chronologisch schema dat is vastgesteld door de instelling die verantwoordelijk is voor het media-aanbod, al dan niet gecodeerd door middel van een omroepzender of een omroepnetwerk wordt verspreid voor gelijktijdige ontvangst door het algemene publiek of een deel daarvan ([Artikel 1.1. Mediawet 2008](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&artikel=1.1)).
 
-**Op afstand bestuurd luchtvaartuig** – luchtvaartuig als bedoeld in de [Wet luchtvaart](https://wetten.overheid.nl/jci1.3:c:BWBR0005555) voor zover deze onbemand is en met een radiocommunicatieverbinding wordt bestuurd en/of voor de communicatie van apparaten aan boord daarvan radiofrequenties worden gebruikt. Een dergelijk luchtvaartuig wordt ook wel ‘drone’ genoemd of RPAS (remotely piloted aircraft system).
+**Op afstand bestuurd luchtvaartuig** – luchtvaartuig als bedoeld in de [Wet luchtvaart](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&wetgeving) voor zover deze onbemand is en met een radiocommunicatieverbinding wordt bestuurd en/of voor de communicatie van apparaten aan boord daarvan radiofrequenties worden gebruikt. Een dergelijk luchtvaartuig wordt ook wel ‘drone’ genoemd of RPAS (remotely piloted aircraft system).
 
 **Paging** – Een éénrichtingradiocommunicatiesysteem tussen een basisstation en mobiele of vast opgestelde ontvangers voor het overbrengen van informatie of signalering.
 
@@ -1364,7 +1372,7 @@ Kerktelefonie – Systeem bestemd voor het integraal lokaal audio uitzenden van 
 
 **STM-1** – **Synchronous Transport Module, level 1** / Vaste verbindingen, die een onderdeel vormen van een infrasructuurnetwerk hebben veelal een transportcapaciteit van 155 Mbit/sec volgens STM-1 formaat.
 
-**Supplemental downlink oftewel SDL**: een ongepaarde frequentieband die gecombineerd is met een gepaarde frequentieband in een mobiel communicatienetwerk met als functie de downlink capaciteit te verhogen. Hiermee kan een mobiele operator zijn netwerkcapaciteit beter laten aansluiten op het meest voorkomende, doorgaans asymmetrische mobiele verkeerspatroon, dat wil zeggen meer downlink verkeer dan uplink verkeer.
+### Annex 5, Summary of this Dutch Frequency Plan
 
 **TACAN** – **Tactical air navigation aid**. / Militair systeem voor de navigatie van vliegtuigen.
 
@@ -1372,7 +1380,7 @@ Kerktelefonie – Systeem bestemd voor het integraal lokaal audio uitzenden van 
 
 **Vaste verbindingen / Fixed links**
 
-### Annex 5, Summary of this Dutch Frequency Plan
+Vaste verbindingen worden ook wel straalverbindingen genoemd. Hierbij wordt gebruik gemaakt van twee vaste opstelpunten en richtantennes.
 
 **VoA** – Verdeling op Afroep. Zie par. 5.6.
 
@@ -1380,7 +1388,7 @@ Kerktelefonie – Systeem bestemd voor het integraal lokaal audio uitzenden van 
 
 **WRC –** **World Radio Conference**
 
-The main part of this decree is the frequency table (chapter 10). It contains an overview of present allocations, assignments and designations in the Netherlands. The chapters preceding the table provide an introduction, an explanation and background.
+This frequency decree 2014 implements several parts of the Dutch frequency policy as published in the radio spectrum policy memorandum 2005.
 
 This Dutch frequency plan, edition 2014 (NFP2014) is a fully revised decree document of the last National Frequency Plan, edition 2005 (NFP2005). More limited changes of the frequency table have been published, on an average half-yearly basis, as interim changes since the NFP2005.
 
@@ -1432,9 +1440,27 @@ Internet: www.agentschaptelecom.nl
 
 Email:info@agentschaptelecom.nl
 
+Tegen dit besluit kan degene wiens belang rechtstreeks bij dit besluit is betrokken binnen 6 weken na de dag van dagtekening van deze Staatscourant een gemotiveerd beroepschrift indienen bij de rechtbank Rotterdam, Postbus 50950, 3007 BL, Rotterdam.
+
+**Supplemental downlink oftewel SDL**: een ongepaarde frequentieband die gecombineerd is met een gepaarde frequentieband in een mobiel communicatienetwerk met als functie de downlink capaciteit te verhogen. Hiermee kan een mobiele operator zijn netwerkcapaciteit beter laten aansluiten op het meest voorkomende, doorgaans asymmetrische mobiele verkeerspatroon, dat wil zeggen meer downlink verkeer dan uplink verkeer.
+
+### Annex 5, Summary of this Dutch Frequency Plan
+
 Directoraat-Generaal Energie, Telecom en Mededinging
 
+Tegen dit besluit kan degene wiens belang rechtstreeks bij dit besluit is betrokken binnen 6 weken na de dag van dagtekening van deze Staatscourant een gemotiveerd beroepschrift indienen bij de rechtbank Rotterdam, Postbus 50950, 3007 BL, Rotterdam.
+
+### Annex 5, Summary of this Dutch Frequency Plan
+
 Bezuidenhoutseweg 73
+
+Tegen dit besluit kan degene wiens belang rechtstreeks bij dit besluit is betrokken binnen 6 weken na de dag van dagtekening van deze Staatscourant een gemotiveerd beroepschrift indienen bij de rechtbank Rotterdam, Postbus 50950, 3007 BL, Rotterdam.
+
+Volgens overeengekomen afspraken en voorwaarden kan het ministerie van Defensie
+
+### Annex 4, Gebruikte afkortingen en begrippen / Abbreviations and terms
+
+### Annex 5, Summary of this Dutch Frequency Plan
 
 2594 AV Den Haag,
 
@@ -1442,25 +1468,13 @@ Postbus 20401
 
 Tegen dit besluit kan degene wiens belang rechtstreeks bij dit besluit is betrokken binnen 6 weken na de dag van dagtekening van deze Staatscourant een gemotiveerd beroepschrift indienen bij de rechtbank Rotterdam, Postbus 50950, 3007 BL, Rotterdam.
 
-Vaste verbindingen worden ook wel straalverbindingen genoemd. Hierbij wordt gebruik gemaakt van twee vaste opstelpunten en richtantennes.
+### Annex 4, Gebruikte afkortingen en begrippen / Abbreviations and terms
 
 ### Annex 5, Summary of this Dutch Frequency Plan
 
 2500 EK Den Haag
 
-Tegen dit besluit kan degene wiens belang rechtstreeks bij dit besluit is betrokken binnen 6 weken na de dag van dagtekening van deze Staatscourant een gemotiveerd beroepschrift indienen bij de rechtbank Rotterdam, Postbus 50950, 3007 BL, Rotterdam.
-
-### Annex 5, Summary of this Dutch Frequency Plan
-
 Telefoon (070) 379 89 11
-
-Tegen dit besluit kan degene wiens belang rechtstreeks bij dit besluit is betrokken binnen 6 weken na de dag van dagtekening van deze Staatscourant een gemotiveerd beroepschrift indienen bij de rechtbank Rotterdam, Postbus 50950, 3007 BL, Rotterdam.
-
-tot bedrijven die GNSS toepassingen ontwerpen, testen, inbouwen of onderhouden.
-
-### Annex 4, Gebruikte afkortingen en begrippen / Abbreviations and terms
-
-### Annex 5, Summary of this Dutch Frequency Plan
 
 Internet http://www.rijksoverheid.nl/frequentiebeleid
 
