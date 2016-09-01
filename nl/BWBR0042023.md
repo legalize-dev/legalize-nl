@@ -443,5 +443,3 @@ De partijen brengen in totaal € 184.079 aan vermogensbestanddelen in. Dit bedr
 ### BTW aspecten
 
 Het Brabants Historisch Centrum neemt contact op met de belastinginspecteur ter verkrijging van een nieuwe BTW beschikking voor het hele instituut. Over de inhoud van die beschikking en de mogelijke consequenties voor de begroting is nog geen 100% zekerheid.
-
-Vervallen
