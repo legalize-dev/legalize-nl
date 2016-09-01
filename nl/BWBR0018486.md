@@ -4,7 +4,7 @@ identifier: "BWBR0018486"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2018-12-04"
-last_updated: "2015-08-30"
+last_updated: "2016-09-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0018486"
 soort: "ministeriele-regeling"
@@ -41,7 +41,7 @@ Als toevoeging aan de graden Bachelor en Master, verleend na het met goed gevolg
 
 ##### Artikel 1a. Afkorting andere toevoeging wetenschappelijk onderwijs
 
-De graden met toevoeging, als bedoeld in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0018486&artikel=1&z=2015-08-30&g=2015-08-30), worden als volgt afgekort:
+De graden met toevoeging, als bedoeld in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0018486&artikel=1&z=2016-09-01&g=2016-09-01), worden als volgt afgekort:
 
 - a. Bachelor met de toevoeging ‘of Laws’: LLB;
 
@@ -100,6 +100,12 @@ Als het instellingsbestuur kan motiveren dat in een specifiek geval deze lijst n
 Op verzoek van degene die in enig studiejaar een bachelor- of masteropleiding met succes heeft afgerond en op grond daarvan een getuigschrift heeft ontvangen met daarop vermeld een graad met een toevoeging en indien de toevoeging van deze graad van deze opleiding gedurende datzelfde studiejaar wordt gewijzigd, verstrekt het instellingsbestuur binnen het studiejaar na afstuderen tegen inlevering van het desbetreffende getuigschrift een getuigschrift waarop de graad met de gewijzigde toevoeging is vermeld.
 
 ### Overgangsbepalingen in verband met wijzigingen in het referentiekader
+
+### Overgangsbepalingen in verband met wijzigingen in het referentiekader
+
+De in deze bijlage genoemde toevoegingen aan graden blijven gelden als de opleiding van naam verandert.
+
+Op verzoek van degene die tussen 1 januari 2014 en 31 augustus 2014 met succes een opleiding heeft afgerond en op grond daarvan een getuigschrift heeft ontvangen en voor wiens opleiding geldt dat de graadtoevoeging tussen 1 januari 2014 en 31 augustus 2014 is gewijzigd, verstrekt het instellingsbestuur tegen inlevering van het desbetreffende getuigschrift een getuigschrift waarop de graad met de gewijzigde toevoeging is vermeld. Een dergelijk verzoek kan tot uiterlijk 1 januari 2017 worden ingediend.
 
 ### Naamswijziging opleiding
 
