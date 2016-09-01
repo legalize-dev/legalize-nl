@@ -4,7 +4,7 @@ identifier: "BWBR0035939"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-01-01"
-last_updated: "2016-01-01"
+last_updated: "2016-09-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0035939"
 soort: "ministeriele-regeling"
@@ -76,9 +76,9 @@ In deze regeling wordt verstaan onder:
 
 Vervallen
 
-##### Artikel 5. Vrije voet veronderstelde ouderlijke bijdrage
+##### Artikel 5. Vrije voet veronderstelde ouderlijke bijdrage beroepsonderwijs
 
-Met ingang van 1 januari 2016 worden de bedragen, genoemd in [artikel 3.9, derde lid, van de WSF 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&artikel=3.9), vastgesteld op € 17.052,77 respectievelijk € 21.604,95.
+Met ingang van 1 januari 2016 worden de bedragen, genoemd in [artikel 3.9, tweede lid, van de WSF 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&artikel=3.9), vastgesteld op € 17.052,77 respectievelijk € 21.604,95.
 
 ##### Artikel 6. Vordering wegens eigen inkomsten studerende
 
@@ -261,7 +261,9 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 ##### Artikel 5a. Vrije voet veronderstelde ouderlijke bijdrage hoger onderwijs
 
-Dit onderdeel is nog niet inwerking getreden
+1. Naar de maatstaf van 1 januari 2016 wordt het bedrag, genoemd in [artikel 3.9a, onder a, van de WSF 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&artikel=3.9a), vastgesteld op € 15.283,32.
+
+2. Naar de maatstaf van 1 januari 2016 wordt het bedrag, genoemd in [artikel 3.9a, onder b, van de WSF 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&artikel=3.9a), vastgesteld op € 19.362,96.
 
 ### Hoofdstuk 3. Normen [WTOS](https://wetten.overheid.nl/jci1.3:c:BWBR0012438)
 
