@@ -4,7 +4,7 @@ identifier: "BWBR0031613"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-01-01"
-last_updated: "2015-07-01"
+last_updated: "2016-09-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0031613"
 soort: "ministeriele-regeling"
@@ -78,9 +78,11 @@ Vervallen
 
 ##### Artikel 4. Beroepskwalificatie personeel
 
-1. De beroepskwalificatie-eisen en bewijsstukken genoemd in de collectieve arbeidsovereenkomst kinderopvang 2012–2014 worden aangemerkt als passende beroepskwalificaties als bedoeld in [artikel 3, eerste lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0031621&artikel=3).
+1. De beroepskwalificatie-eisen en bewijsstukken genoemd in de meest recent aangevangen collectieve arbeidsovereenkomst kinderopvang worden aangemerkt als passende beroepskwalificaties als bedoeld in [artikel 3, eerste lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0031621&artikel=3) en als beroepskwalificaties voor een passende opleiding als bedoeld in [artikel 3a, eerste lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0031621&artikel=3a).
 
-2. De inzet van beroepskrachten in opleiding als bedoeld in [artikel 3, tweede lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0031621&artikel=3) geschiedt overeenkomstig de voorwaarden zoals opgenomen in de collectieve arbeidsovereenkomst kinderopvang 2012–2014.
+2. De inzet van beroepskrachten in opleiding als bedoeld in [artikel 3, tweede lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0031621&artikel=3) geschiedt overeenkomstig de voorwaarden zoals opgenomen in de meest recent aangevangen collectieve arbeidsovereenkomst kinderopvang.
+
+3. Een beroepskracht meertalige buitenschoolse opvang beschikt over een certificaat of een diploma waaruit blijkt dat hij de Duitse, Engelse of Franse taal voor de deelvaardigheden gesprekken voeren, lezen, luisteren en spreken beheerst op ten minste niveau B2 van het Europees Referentiekader voor Talen.
 
 ##### Artikel 5. Aantal beroepskrachten en groepsgrootte in de dagopvang
 
@@ -96,7 +98,7 @@ Vervallen
 
 4. Een kind maakt gedurende de week gebruik van ten hoogste twee verschillende stamgroepruimtes.
 
-5. Het vierde lid is niet van toepassing bij speciale activiteiten, beschreven in het pedagogisch beleidsplan, bedoeld in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0031613&paragraaf=2&artikel=7&z=2015-07-01&g=2015-07-01).
+5. Het vierde lid is niet van toepassing bij speciale activiteiten, beschreven in het pedagogisch beleidsplan, bedoeld in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0031613&paragraaf=2&artikel=7&z=2016-09-01&g=2016-09-01).
 
 6. Het tweede, derde en vierde lid zijn niet van toepassing op een kind dat blijkens de overeenkomst tussen de houder van een kindercentrum en de ouders van het kind gebruik maakt van opvang op dagen die per week verschillen.
 
@@ -128,9 +130,9 @@ Vervallen
 
 6. Indien kinderen bij (spel)activiteiten de basisgroep verlaten, is het eerste of tweede lid niet van toepassing.
 
-7. Bij activiteiten in groepen groter dan dertig kinderen, besteedt de houder in het pedagogisch beleidsplan, bedoeld in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0031613&paragraaf=2&artikel=7&z=2015-07-01&g=2015-07-01), aantoonbaar extra aandacht aan de omgang met de basisgroep.
+7. Bij activiteiten in groepen groter dan dertig kinderen, besteedt de houder in het pedagogisch beleidsplan, bedoeld in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0031613&paragraaf=2&artikel=7&z=2016-09-01&g=2016-09-01), aantoonbaar extra aandacht aan de omgang met de basisgroep.
 
-8. In afwijking van het derde of vierde lid kunnen voor en na de dagelijkse schooltijd alsmede gedurende vrije middagen voor ten hoogste een half uur per dag minder beroepskrachten worden ingezet, met dien verstande dat ten minste de helft van het aantal beroepskrachten wordt ingezet. Op vrije dagen of tijdens de schoolvakanties kan, indien per dag ten minste tien aaneengesloten uren buitenschoolse opvang wordt geboden, de in de vorige volzin bedoelde afwijkende inzet van beroepskrachten ten hoogste drie uur bedragen, met dien verstande dat ten minste de helft van het aantal op grond van het derde of vierde lid vereiste beroepskrachten wordt ingezet en de afwijkende inzet niet plaatsvindt tussen 9.30 uur en 12.30 uur en 15.00 uur en 16.30 uur. [Artikel 5, tiende lid, tweede volzin](https://wetten.overheid.nl/jci1.3:c:BWBR0031613&paragraaf=2&artikel=5&z=2015-07-01&g=2015-07-01), is van overeenkomstige toepassing.
+8. In afwijking van het derde of vierde lid kunnen voor en na de dagelijkse schooltijd alsmede gedurende vrije middagen voor ten hoogste een half uur per dag minder beroepskrachten worden ingezet, met dien verstande dat ten minste de helft van het aantal beroepskrachten wordt ingezet. Op vrije dagen of tijdens de schoolvakanties kan, indien per dag ten minste tien aaneengesloten uren buitenschoolse opvang wordt geboden, de in de vorige volzin bedoelde afwijkende inzet van beroepskrachten ten hoogste drie uur bedragen, met dien verstande dat ten minste de helft van het aantal op grond van het derde of vierde lid vereiste beroepskrachten wordt ingezet en de afwijkende inzet niet plaatsvindt tussen 9.30 uur en 12.30 uur en 15.00 uur en 16.30 uur. [Artikel 5, tiende lid, tweede volzin](https://wetten.overheid.nl/jci1.3:c:BWBR0031613&paragraaf=2&artikel=5&z=2016-09-01&g=2016-09-01), is van overeenkomstige toepassing.
 
 9. Indien op grond van het achtste lid slechts één beroepskracht in het kindercentrum wordt ingezet, is ter ondersteuning van deze beroepskracht ten minste één andere volwassene in het kindercentrum aanwezig.
 
@@ -154,13 +156,15 @@ Vervallen
 
 - f. het beleid ten aanzien van het gebruik maken van kinderopvang gedurende extra dagdelen;
 
-- g. de wijze waarop de ondersteuning overeenkomstig de [artikelen 5, elfde en twaalfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031613&paragraaf=2&artikel=5&z=2015-07-01&g=2015-07-01), en [6, negende en tiende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031613&paragraaf=2&artikel=6&z=2015-07-01&g=2015-07-01), is vormgegeven;
+- g. de wijze waarop de ondersteuning overeenkomstig de [artikelen 5, elfde en twaalfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031613&paragraaf=2&artikel=5&z=2016-09-01&g=2016-09-01), en [6, negende en tiende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031613&paragraaf=2&artikel=6&z=2016-09-01&g=2016-09-01), is vormgegeven;
 
-- h. de wijze waarop het vierogenprincipe van [artikel 5a](https://wetten.overheid.nl/jci1.3:c:BWBR0031613&paragraaf=2&artikel=5a&z=2015-07-01&g=2015-07-01) is vormgegeven, indien sprake is van dagopvang;
+- h. de wijze waarop het vierogenprincipe van [artikel 5a](https://wetten.overheid.nl/jci1.3:c:BWBR0031613&paragraaf=2&artikel=5a&z=2016-09-01&g=2016-09-01) is vormgegeven, indien sprake is van dagopvang;
 
 - i. de wijze waarop beroepskrachten in de dagopvang bijzonderheden in de ontwikkeling van kinderen of andere problemen signaleren en ouders doorverwijzen naar passende instanties die hierbij verdere ondersteuning kunnen bieden;
 
-- j. de wijze waarop beroepskrachten in de dagopvang worden toegerust voor deze taak en op welke wijze zij daarbij worden ondersteund.
+- j. de wijze waarop beroepskrachten in de dagopvang worden toegerust voor deze taak en op welke wijze zij daarbij worden ondersteund;
+
+- k. indien van toepassing, de wijze waarop meertalige buitenschoolse opvang in het kindercentrum wordt vormgegeven.
 
 2. Waar nodig wordt in een pedagogisch beleidsplan onderscheid gemaakt tussen dagopvang en buitenschoolse opvang.
 
@@ -244,7 +248,7 @@ Vervallen
 
 ##### Artikel 17. Beroepskwalificatie personeel
 
-1. De beroepskwalificatie-eisen en bewijsstukken genoemd in de collectieve arbeidsovereenkomst Welzijn en Maatschappelijke Dienstverlening 2014-2016 worden aangemerkt als een passende beroepskwalificatie, als bedoeld in [artikel 18, eerste lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0031621&artikel=18).
+1. De beroepskwalificatie-eisen en bewijsstukken genoemd in de meest recent aangevangen collectieve arbeidsovereenkomst Welzijn en Maatschappelijke Dienstverlening worden aangemerkt als een passende beroepskwalificatie, als bedoeld in [artikel 18, eerste lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0031621&artikel=18).
 
 2. De houder van een peuterspeelzaal informeert ouders over het aantal, de inzet en de opleiding van het personeel voor zover de ouder dat nodig heeft om een goede keuze te kunnen maken voor een peuterspeelzaal.
 
@@ -284,7 +288,7 @@ Een pedagogisch beleidsplan, bedoeld in [artikel 20 van het besluit](https://wet
 
 - h. de wijze waarop beroepskrachten in een peuterspeelzaal worden toegerust voor deze taak en op welke wijze zij daarbij worden ondersteund;
 
-- i. de wijze waarop het vierogenprincipe van [artikel 18a](https://wetten.overheid.nl/jci1.3:c:BWBR0031613&paragraaf=4&artikel=18a&z=2015-07-01&g=2015-07-01) is vormgegeven.
+- i. de wijze waarop het vierogenprincipe van [artikel 18a](https://wetten.overheid.nl/jci1.3:c:BWBR0031613&paragraaf=4&artikel=18a&z=2016-09-01&g=2016-09-01) is vormgegeven.
 
 ##### Artikel 21. Vrijwilligersbeleid
 
@@ -356,11 +360,11 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 2. De houder van een gastouderbureau draagt er zorg voor dat per gastouder op jaarbasis tenminste 16 uur wordt besteed aan begeleiding en bemiddeling. Hieronder wordt in ieder geval verstaan:
 
-- a. het intakegesprek, bedoeld in [artikel 11a, eerste lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0031613&paragraaf=3&artikel=11&z=2015-07-01&g=2015-07-01);
+- a. het intakegesprek, bedoeld in [artikel 11a, eerste lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0031613&paragraaf=3&artikel=11&z=2016-09-01&g=2016-09-01);
 
 - b. werving van de gastouder;
 
-- c. het intakegesprek, bedoeld in [artikel 11a, eerste lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0031613&paragraaf=3&artikel=11&z=2015-07-01&g=2015-07-01);
+- c. het intakegesprek, bedoeld in [artikel 11a, eerste lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0031613&paragraaf=3&artikel=11&z=2016-09-01&g=2016-09-01);
 
 - d. scholing en begeleiding van de gastouder;
 
@@ -368,13 +372,13 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 - f. de koppeling van de gastouder en de vraagouder;
 
-- g. het koppelingsgesprek, bedoeld in [artikel 11a, eerste lid, onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0031613&paragraaf=3&artikel=11&z=2015-07-01&g=2015-07-01);
+- g. het koppelingsgesprek, bedoeld in [artikel 11a, eerste lid, onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0031613&paragraaf=3&artikel=11&z=2016-09-01&g=2016-09-01);
 
-- h. het evaluatiegesprek, bedoeld in [artikel 11a, eerste lid, onder e](https://wetten.overheid.nl/jci1.3:c:BWBR0031613&paragraaf=3&artikel=11&z=2015-07-01&g=2015-07-01);
+- h. het evaluatiegesprek, bedoeld in [artikel 11a, eerste lid, onder e](https://wetten.overheid.nl/jci1.3:c:BWBR0031613&paragraaf=3&artikel=11&z=2016-09-01&g=2016-09-01);
 
 - i. het beantwoorden van vragen van de gastouder;
 
-- j. de bezoeken, bedoeld in [artikel 11a, eerste lid, onder f](https://wetten.overheid.nl/jci1.3:c:BWBR0031613&paragraaf=3&artikel=11&z=2015-07-01&g=2015-07-01);
+- j. de bezoeken, bedoeld in [artikel 11a, eerste lid, onder f](https://wetten.overheid.nl/jci1.3:c:BWBR0031613&paragraaf=3&artikel=11&z=2016-09-01&g=2016-09-01);
 
 - k. opleiding of training; en
 
@@ -416,7 +420,7 @@ De houder van een peuterspeelzaal organiseert de opvang op zodanige wijze, dat d
 
 #### Paragraaf 5. Slotbepalingen
 
-## Bijlage. als bedoeld in de [artikelen 5, zevende en achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031613&paragraaf=2&artikel=5&z=2015-07-01&g=2015-07-01), en [6, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031613&paragraaf=2&artikel=6&z=2015-07-01&g=2015-07-01), van deze regeling
+## Bijlage. als bedoeld in de [artikelen 5, zevende en achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031613&paragraaf=2&artikel=5&z=2016-09-01&g=2016-09-01), en [6, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031613&paragraaf=2&artikel=6&z=2016-09-01&g=2016-09-01), van deze regeling
 
 In deze bijlage zijn de rekenregels van de rekentool opgenomen.
 
