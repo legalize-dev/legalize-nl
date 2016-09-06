@@ -4,7 +4,7 @@ identifier: "BWBR0035033"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-09-16"
-last_updated: "2016-07-09"
+last_updated: "2016-09-06"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0035033"
 soort: "ministeriele-regeling"
@@ -58,13 +58,13 @@ In deze regeling wordt verstaan onder:
 
 - •. **centrumgemeente:** Alkmaar, Almere, Amersfoort, Amsterdam, Apeldoorn, Arnhem, Breda, Den Bosch, Den Haag, Doetinchem, Dordrecht, Ede, Eindhoven, Emmen, Enschede, Goes, Gorinchem, Gouda, Groningen, Haarlem, Heerlen, Helmond, Hilversum, Leeuwarden, Leiden, Nijmegen, Roermond, Rotterdam, Tiel, Tilburg, Utrecht, Venlo, Zaanstad, Zoetermeer en Zwolle;
 
-- •. **directe loonkosten:** loonkosten van personeel, waarbij sprake is van direct aan deelnemers van het project bestede uren, dan wel loonkosten welke direct te relateren zijn aan de uitvoering van subsidiabele activiteiten als bedoeld in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0035033&bijlage=1&z=2016-07-09&g=2016-07-09);
+- •. **directe loonkosten:** loonkosten van personeel, waarbij sprake is van direct aan deelnemers van het project bestede uren, dan wel loonkosten welke direct te relateren zijn aan de uitvoering van subsidiabele activiteiten als bedoeld in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0035033&bijlage=1&z=2016-09-06&g=2016-09-06);
 
-- •. **directe loonkosten projectcoördinatie en -administratie:** loonkosten van personeel welke direct zijn te relateren aan coördinatie en administratie van een project en waarbij het desbetreffende personeelslid voor 50% of meer van diens contractuele werktijd werkzaam is voor een of meer projecten in het kader van [bijlage 1, hoofdstukken I, II, en III](https://wetten.overheid.nl/jci1.3:c:BWBR0035033&bijlage=1&z=2016-07-09&g=2016-07-09);
+- •. **directe loonkosten projectcoördinatie en -administratie:** loonkosten van personeel welke direct zijn te relateren aan coördinatie en administratie van een project en waarbij het desbetreffende personeelslid voor 50% of meer van diens contractuele werktijd werkzaam is voor een of meer projecten in het kader van [bijlage 1, hoofdstukken I, II, en III](https://wetten.overheid.nl/jci1.3:c:BWBR0035033&bijlage=1&z=2016-09-06&g=2016-09-06);
 
 - •. **duurzame inzetbaarheid:** het gemotiveerd, gezond en productief houden van werkenden om hen in staat te stellen tot aan pensionering binnen of buiten de organisatie te blijven werken;
 
-- •. **externe kosten:** kosten die in rekening gebracht worden door derden voor het uitvoeren van direct aan deelnemers gerelateerde activiteiten, dan wel voor het uitvoeren van subsidiabele activiteiten als bedoeld in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0035033&bijlage=1&z=2016-07-09&g=2016-07-09);
+- •. **externe kosten:** kosten die in rekening gebracht worden door derden voor het uitvoeren van direct aan deelnemers gerelateerde activiteiten, dan wel voor het uitvoeren van subsidiabele activiteiten als bedoeld in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0035033&bijlage=1&z=2016-09-06&g=2016-09-06);
 
 - •. **externe kosten projectcoördinatie en -administratie:** kosten die in rekening gebracht worden door derden en direct te relateren zijn aan het beheer van het project;
 
@@ -82,7 +82,7 @@ In deze regeling wordt verstaan onder:
 
 - •. **niet-uitkeringsontvanger:** de persoon jonger dan de pensioengerechtigde leeftijd, bedoeld in [artikel 7a, eerste lid van de Algemene Ouderdomswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002221&artikel=7a), die als werkloze werkzoekende staat geregistreerd bij het Uitvoeringsinstituut werknemersverzekeringen en die geen uitkering ontvangt of arbeidsondersteuning op grond van enige sociale zekerheidswet;
 
-- •. **O&O-fonds:** een organisatie als bedoeld in [artikel 1a](https://wetten.overheid.nl/jci1.3:c:BWBR0035033&artikel=1a&z=2016-07-09&g=2016-07-09);
+- •. **O&O-fonds:** een organisatie als bedoeld in [artikel 1a](https://wetten.overheid.nl/jci1.3:c:BWBR0035033&artikel=1a&z=2016-09-06&g=2016-09-06);
 
 - •. **Operationeel Programma:** het Operationeel Programma ESF 2014–2020;
 
@@ -90,7 +90,7 @@ In deze regeling wordt verstaan onder:
 
 - •. **praktijkonderwijs:** het onderwijs, bedoeld in [artikel 10f, eerste lid, van de Wet op het voortgezet onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0002399&artikel=10f);
 
-- •. **project:** een samenhangend geheel van activiteiten met betrekking tot een onderwerp als bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0035033&artikel=4&z=2016-07-09&g=2016-07-09);
+- •. **project:** een samenhangend geheel van activiteiten met betrekking tot een onderwerp als bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0035033&artikel=4&z=2016-09-06&g=2016-09-06);
 
 - •. **projectperiode:** periode tussen het tijdstip waarop activiteiten starten en worden beëindigd;
 
@@ -162,13 +162,13 @@ In deze regeling wordt verstaan onder:
 
 1. De minister verleent met inachtneming van deze regeling en onder het voorbehoud, bedoeld in artikel 65, eerste lid, van de Verordening subsidie ten behoeve van projecten op het gebied van:
 
-- a. bevordering van sociale inclusie en bestrijding van armoede en discriminatie, nader uitgewerkt in de hoofdstukken I tot en met III in het kader van investeringsprioriteit A in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0035033&bijlage=1&z=2016-07-09&g=2016-07-09), behorende bij deze regeling;
+- a. bevordering van sociale inclusie en bestrijding van armoede en discriminatie, nader uitgewerkt in de hoofdstukken I tot en met III in het kader van investeringsprioriteit A in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0035033&bijlage=1&z=2016-09-06&g=2016-09-06), behorende bij deze regeling;
 
-- b. bevordering van sociale innovatie en transnationale samenwerking, nader uitgewerkt in hoofdstuk IV in het kader van investeringsprioriteit A in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0035033&bijlage=1&z=2016-07-09&g=2016-07-09), behorende bij deze regeling;
+- b. bevordering van sociale innovatie en transnationale samenwerking, nader uitgewerkt in hoofdstuk IV in het kader van investeringsprioriteit A in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0035033&bijlage=1&z=2016-09-06&g=2016-09-06), behorende bij deze regeling;
 
-- c. bevordering van duurzame en kwalitatief hoogstaande werkgelegenheid en ondersteuning van arbeidsmobiliteit, nader uitgewerkt in de hoofdstukken V en Va in het kader van investeringsprioriteit B in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0035033&bijlage=1&z=2016-07-09&g=2016-07-09), behorende bij deze regeling;
+- c. bevordering van duurzame en kwalitatief hoogstaande werkgelegenheid en ondersteuning van arbeidsmobiliteit, nader uitgewerkt in de hoofdstukken V en Va in het kader van investeringsprioriteit B in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0035033&bijlage=1&z=2016-09-06&g=2016-09-06), behorende bij deze regeling;
 
-- d. bevordering van duurzame en kwalitatief hoogstaande werkgelegenheid en ondersteuning van arbeidsmobiliteit, nader uitgewerkt in hoofdstuk VI in het kader van investeringsprioriteit C in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0035033&bijlage=1&z=2016-07-09&g=2016-07-09), behorende bij deze regeling.
+- d. bevordering van duurzame en kwalitatief hoogstaande werkgelegenheid en ondersteuning van arbeidsmobiliteit, nader uitgewerkt in hoofdstuk VI in het kader van investeringsprioriteit C in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0035033&bijlage=1&z=2016-09-06&g=2016-09-06), behorende bij deze regeling.
 
 2. De hoofdstukken, bedoeld in het eerste lid, onderdelen a, b, c, voor zover dit hoofdstuk Va betreft, en d, bevatten nadere regels in het verlengde van en met inachtneming van Verordening (EU) nr. 1303/2013 en Verordening (EU) nr. 1304/2013.
 
@@ -180,7 +180,7 @@ De mogelijkheid tot het indienen van aanvragen om subsidie bestaat slechts gedur
 
 ##### Artikel 6. Subsidieaanvrager
 
-1. De subsidie met betrekking tot een project als bedoeld in deze regeling wordt aangevraagd door de als zodanig geregistreerde subsidieaanvrager, die per investeringsprioriteit is aangewezen in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0035033&bijlage=1&z=2016-07-09&g=2016-07-09) bij deze regeling.
+1. De subsidie met betrekking tot een project als bedoeld in deze regeling wordt aangevraagd door de als zodanig geregistreerde subsidieaanvrager, die per investeringsprioriteit is aangewezen in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0035033&bijlage=1&z=2016-09-06&g=2016-09-06) bij deze regeling.
 
 2. De registratie als subsidieaanvrager, als bedoeld in het eerste lid, vindt plaats bij het Agentschap SZW, onder gebruikmaking van een daartoe door de minister elektronisch beschikbaar gesteld formulier.
 
@@ -224,7 +224,7 @@ De mogelijkheid tot het indienen van aanvragen om subsidie bestaat slechts gedur
 
 2. De minister verleent de subsidie voor het verrichten van het project, zoals vastgelegd in de bij de subsidieaanvraag gevoegde projectbeschrijving.
 
-3. De beschikking vermeldt de periode, de totale subsidiabele kosten alsmede het maximumbedrag van de subsidie. Bij de bepaling van het maximumbedrag van de subsidie wordt uitgegaan van het totaal van de in [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0035033&artikel=12&z=2016-07-09&g=2016-07-09) genoemde kosten van het project, zoals door de subsidieaanvrager geraamd in zijn subsidieaanvraag, met dien verstande dat bepaalde, in de beschikking te vermelden, kostenposten buiten beschouwing kunnen worden gelaten dan wel op een lager bedrag kunnen worden bepaald.
+3. De beschikking vermeldt de periode, de totale subsidiabele kosten alsmede het maximumbedrag van de subsidie. Bij de bepaling van het maximumbedrag van de subsidie wordt uitgegaan van het totaal van de in [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0035033&artikel=12&z=2016-09-06&g=2016-09-06) genoemde kosten van het project, zoals door de subsidieaanvrager geraamd in zijn subsidieaanvraag, met dien verstande dat bepaalde, in de beschikking te vermelden, kostenposten buiten beschouwing kunnen worden gelaten dan wel op een lager bedrag kunnen worden bepaald.
 
 4. Onverminderd [artikel 4:37 Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:37) kunnen aan de beschikking tot verlening van subsidie verplichtingen worden verbonden.
 
@@ -264,7 +264,7 @@ Een aanvraag tot verlening van subsidie wordt door de minister geheel of gedeelt
 
 ##### Artikel 12. Subsidiabele kosten
 
-1. Ter uitvoering van de subsidiabele activiteiten van het project, vermeld in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0035033&bijlage=1&z=2016-07-09&g=2016-07-09), komen voor subsidiëring uitsluitend de volgende kostensoorten in aanmerking:
+1. Ter uitvoering van de subsidiabele activiteiten van het project, vermeld in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0035033&bijlage=1&z=2016-09-06&g=2016-09-06), komen voor subsidiëring uitsluitend de volgende kostensoorten in aanmerking:
 
 - a. externe kosten;
 
@@ -328,9 +328,7 @@ Niet voor subsidiering komen in aanmerking:
 
 ##### Artikel 14. Bevoorschotting
 
-1. De minister kan uitsluitend na ontvangst van het verzoek tot vaststelling van de subsidie een voorschot verstrekken tot maximaal 100% van het in de beschikking tot subsidieverlening opgenomen maximum subsidiebedrag.
-
-2. Aan de subsidieontvanger kan een nadere financiële en inhoudelijke onderbouwing, inclusief specificatie van reeds gemaakte kosten alsmede zekerheid worden gevraagd ten behoeve van het verlenen van een voorschot.
+De minister kan uitsluitend na ontvangst van het verzoek tot vaststelling van de subsidie een voorschot verlenen tot maximaal de op de datum van ontvangst van dit verzoek bekende, verschuldigde subsidie.
 
 ##### Artikel 15. Administratievoorschriften
 
@@ -350,7 +348,7 @@ Niet voor subsidiering komen in aanmerking:
 
 1. Onverminderd de voorschriften voor staatssteun bewaart de subsidieontvanger alle administratieve bescheiden die betrekking hebben op het gesubsidieerde project tot tenminste 31 december 2027 dan wel tot een nader door de minister aan de subsidieontvanger schriftelijk bekend te maken termijn. Indien de Europese Commissie, vanwege een gerechtelijke vervolging of een met redenen omkleed verzoek de bewaartermijn schorst, maakt de minister de gevolgen voor de bewaartermijn, bedoeld in dit lid, in de Staatscourant bekend.
 
-2. Van alle administratieve bescheiden wordt het origineel bewaard. Hiervan kan worden afgeweken, indien het origineel conform de procedure in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0035033&bijlage=2&z=2016-07-09&g=2016-07-09) behorende bij deze regeling, wordt overgezet en bewaard op een andere gegevensdrager. Het overbrengen op een andere gegevensdrager geschiedt met juiste en volledige weergave van de gegevens en deze is de volledige bewaartermijn beschikbaar en kan binnen een redelijke tijd leesbaar worden gemaakt.
+2. Van alle administratieve bescheiden wordt het origineel bewaard. Hiervan kan worden afgeweken, indien het origineel conform de procedure in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0035033&bijlage=2&z=2016-09-06&g=2016-09-06) behorende bij deze regeling, wordt overgezet en bewaard op een andere gegevensdrager. Het overbrengen op een andere gegevensdrager geschiedt met juiste en volledige weergave van de gegevens en deze is de volledige bewaartermijn beschikbaar en kan binnen een redelijke tijd leesbaar worden gemaakt.
 
 3. De administratie is zodanig ingericht en wordt zodanig gevoerd en bewaard, dat controle daarvan binnen een redelijke termijn mogelijk is. Daartoe verleent de subsidieontvanger de benodigde medewerking met inbegrip van het verschaffen van het benodigde inzicht in de opzet en de werking van de administratie.
 
@@ -374,7 +372,7 @@ Niet voor subsidiering komen in aanmerking:
 
 2. Het verzoek tot vaststelling wordt ingediend onder gebruikmaking van een daartoe door de minister elektronisch beschikbaar gesteld formulier, voorzien van de vereiste bijlagen en een door hem erkende elektronische handtekening.
 
-3. Indien bij het indienen, dan wel na het controleren van de einddeclaratie respectievelijk na overig onderzoek door daartoe bevoegde instanties, blijkt dat minder dan 60% van het maximumbedrag van de subsidie, genoemd in de laatst afgegeven beschikking tot subsidieverlening, daadwerkelijk is gerealiseerd, wordt het maximale subsidiepercentage, bedoeld in [artikel 11, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035033&artikel=11&z=2016-07-09&g=2016-07-09), vastgesteld op 40%.
+3. Indien bij het indienen, dan wel na het controleren van de einddeclaratie respectievelijk na overig onderzoek door daartoe bevoegde instanties, blijkt dat minder dan 60% van het maximumbedrag van de subsidie, genoemd in de laatst afgegeven beschikking tot subsidieverlening, daadwerkelijk is gerealiseerd, wordt het maximale subsidiepercentage, bedoeld in [artikel 11, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035033&artikel=11&z=2016-09-06&g=2016-09-06), vastgesteld op 40%.
 
 4. De minister betaalt binnen negentig dagen nadat het verzoek tot vaststelling van de subsidie is ontvangen, de op dat moment bekende verschuldigde subsidie.
 
@@ -448,7 +446,7 @@ Subsidieaanvragen met betrekking tot een project in het kader van dit hoofdstuk 
 
 ### Artikel A1a. Subsidieaanvrager
 
-De subsidie met betrekking tot een project in het kader van dit hoofdstuk wordt aangevraagd door het college van burgemeester en wethouders van een centrumgemeente als bedoeld in artikel 1.
+De subsidie met betrekking tot een project in het kader van dit hoofdstuk wordt aangevraagd door het college van burgemeester en wethouders van een centrumgemeente als bedoeld in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0035033&artikel=1&z=2016-09-06&g=2016-09-06).
 
 ### Artikel A2. Aanvraagtijdvak
 
@@ -466,7 +464,7 @@ In aanvulling op [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0035033&ar
 
 ### Artikel A8. Voortgangsrapportage
 
-### Artikel A9. Voorschot
+### Artikel A9. Bevoorschotting
 
 ### Artikel A10. Maximum subsidie per subsidieaanvrager
 
@@ -476,7 +474,7 @@ Subsidieaanvragen met betrekking tot een project in het kader van dit hoofdstuk 
 
 In afwijking van de artikelen 17, eerste lid, en 18, eerste lid, verstrekt de subsidieontvanger voor een persoon die behoort tot de doelgroep, genoemd in artikel A4, eerste lid, onderdeel f, in plaats van een burgerservicenummer een onderwijsnummer als bedoeld in [artikel 1, onderdeel g, van de Les- en cursusgeldwet](https://wetten.overheid.nl/jci1.3:c:BWBR0004188&artikel=1), indien deze persoon niet beschikt over een burgerservicenummer.
 
-### Hoofdstuk II. UWV
+### Artikel A10a. Subsidieaanvrager
 
 ### Artikel A10a. Subsidieaanvrager
 
@@ -484,25 +482,25 @@ De subsidie met betrekking tot een project in het kader van dit hoofdstuk wordt 
 
 ### Artikel A11. Aanvraagtijdvak
 
-### Artikel A13. Doel en doelgroepen
+### Artikel A12. Subsidieplafond
 
 ### Artikel A12. Subsidieplafond
 
-### Artikel A14
+### Artikel A13. Doel en doelgroepen
 
 Vervallen.
 
 ### Artikel A14
 
-### Artikel A16. Subsidiabele activiteiten
+### Artikel A15. Specifieke eisen
 
 Subsidieaanvragen met betrekking tot een project in het kader van dit hoofdstuk worden door de minister ontvangen in het aanvraagtijdvak van 1 oktober 2014, 09.00 uur, tot en met 31 oktober 2014, 17.00 uur.
 
-### Artikel A16. Subsidiabele activiteiten
+### Artikel A17
 
-In afwijking van artikel 14, eerste lid, verstrekt de minister, indien de subsidieontvanger dit in zijn subsidieaanvraag heeft aangegeven, na ontvangst en beoordeling van de voortgangsrapportage, bedoeld in artikel A17, eerste lid, een voorschot tot maximaal 50% van het in de beschikking tot subsidieverlening opgenomen maximum subsidiebedrag, mits uit de beoordeling van de voortgangsrapportage blijkt dat de gerapporteerde kosten zijn gespecificeerd en financieel en inhoudelijk voldoende zijn onderbouwd.
+Vervallen.
 
-### Artikel A18. Voorschot
+### Artikel A18
 
 ### Artikel A18a. Subsidieaanvrager
 
@@ -597,31 +595,29 @@ De subsidie met betrekking tot een project in het kader van dit hoofdstuk wordt 
 
 ##### Artikel B2. Aanvraagtijdvak
 
-Subsidieaanvragen met betrekking tot een project in het kader van dit hoofdstuk worden door de minister ontvangen in het aanvraagtijdvak van 19 oktober 2015, 9.00 uur, tot en met 13 november 2015, 17.00 uur.
+Subsidieaanvragen met betrekking tot een project in het kader van dit hoofdstuk worden door de minister ontvangen in het aanvraagtijdvak van 14 november 2016, 9.00 uur, tot en met 25 november 2016, 17.00 uur.
 
 ##### Artikel B3. Subsidieplafond
 
-Het maximaal beschikbare bedrag voor het verlenen van subsidie bedraagt voor het aanvraagtijdvak, bedoeld in artikel B2, € 30.000.000,–.
+Het maximaal beschikbare bedrag voor het verlenen van subsidie bedraagt voor het aanvraagtijdvak, bedoeld in artikel B2, € 13.000.000,–.
 
 ##### Artikel B4. Doel
 
-Een project heeft tot doel het verkrijgen van advies met een implementatieplan, dan wel het begeleiden van de implementatie van een advies, op het terrein van duurzame inzetbaarheid en is in dit kader gericht op:
+- 1. Een project in het kader van dit hoofdstuk heeft tot doel de bevordering van duurzame inzetbaarheid van werkenden door:
 
-- –. het maken van een bedrijfs- of organisatiescan;
+- a. het verkrijgen van advies met een implementatieplan; of
 
-- –. het uitvoeren van (periodiek) onderzoek;
+- b. het verkrijgen van begeleiding bij de implementatie van een advies, waaronder het in dialoog met de werkenden aanpassen van de organisatie van het werk.
 
-- –. het bevorderen van gezond en veilig werken;
+- 2. Een project als bedoeld in het eerste lid is gericht op:
 
-- –. het bevorderen van een leercultuur voor werknemers;
+- a. het bevorderen van gezond en veilig werken, waaronder een gezondere leefstijl, het terugdringen van werkstress en ongewenst gedrag in de werksfeer;
 
-- –. het in dialoog met medewerkers aanpassen van de organisatie van het werk, gericht op het verhogen van de betrokkenheid;
+- b. het bevorderen van een leercultuur voor werkenden, waaronder het erkennen van niet-bedrijfsspecifieke kennis en vaardigheden;
 
-- –. het stimuleren van interne en externe mobiliteit van werknemers, waaronder het begeleiden van werknemers naar ondernemerschap;
+- c. het stimuleren van interne mobiliteit van werkenden, het anticiperen op individuele ambities en ontwikkelmogelijkheden en het begeleiden van werknemers naar ondernemerschap; of
 
-- –. het bevorderen van een flexibele werkcultuur met het oog op het beter kunnen combineren van arbeid en zorg; of
-
-- –. het invoeren van arbeidstijdenmanagement.
+- d. het bevorderen van een flexibele werkcultuur, waaronder het invoeren van flexibel arbeidstijdenmanagement.
 
 ##### Artikel B5. De aanvraag
 
@@ -633,13 +629,17 @@ Een project komt slechts voor subsidie in aanmerking indien:
 
 - a. Het project past binnen het in artikel B4 omschreven doel, een toelichting bevat op de relevantie voor de aanvrager en een advies met implementatieplan oplevert of een verslag van de implementatie van een advies gericht op een van de thema’s of activiteiten uit artikel B4;
 
-- b. Bij de aanvraag tevens wordt aangetoond dat de aanvrager tenminste twee werknemers in dienst heeft;
+- b. Bij de aanvraag en het verzoek tot vaststelling van de subsidie tevens wordt aangetoond dat de aanvrager tenminste twee werknemers in dienst heeft;
 
 - c. De subsidiabele kosten worden gemaakt in een door de minister aangewezen periode. Deze periode start de dag na dagtekening van het besluit tot verlening van de subsidie en eindigt ten hoogste twaalf maanden daarna;
 
-- d. In het advies met implementatieplan dan wel in het verslag van de begeleiding bij de implementatie van een advies wordt aangegeven op welke wijze de werknemers zijn betrokken bij het project;
+- d. De aanvraag wordt voorzien van een projectbeschrijving, die bestaat uit een probleemanalyse, de concretisering van activiteiten die worden opgevoerd, het beoogde resultaat en de wijze waarop medewerkers worden betrokken bij het project;
 
-- e. Per adviseur investeringsprioriteit B drie referenties worden ingediend, afkomstig van drie verschillende opdrachtgevers. Deze hebben betrekking op de kennis en ervaring van de beoogde adviseur investeringsprioriteit B op het terrein van duurzame inzetbaarheid. Ter vervanging van bovengenoemde drie referenties per adviseur investeringsprioriteit B, kan er ook één referentie van een O&O-fonds worden ingediend. Geen referentie hoeft te worden ingediend wanneer wordt aangetoond dat de beoogde adviseur investeringsprioriteit B in dienst is bij een O&O-fonds, dan wel een deskundige persoon is als bedoeld in [artikel 14, eerste lid, van de Arbeidsomstandighedenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0010346&artikel=14).
+- e. De werkenden actief worden geïnformeerd over en betrokken bij de planvorming, implementatie en evaluatie van het project, en de wijze waarop dit is gebeurd wordt weergegeven in het advies met implementatieplan dan wel in het verslag van de begeleiding bij de implementatie van een advies;
+
+- f. Per adviseur investeringsprioriteit B drie referenties worden ingediend, afkomstig van drie verschillende opdrachtgevers. Deze hebben betrekking op de relevante kennis en ervaring van de beoogde adviseur investeringsprioriteit B op het terrein van duurzame inzetbaarheid. Ter vervanging van bovengenoemde drie referenties per adviseur investeringsprioriteit B, kan er ook één referentie van een O&O-fonds worden ingediend. Geen referentie hoeft te worden ingediend wanneer wordt aangetoond dat de beoogde adviseur investeringsprioriteit B in dienst is bij een O&O-fonds, dan wel een deskundige is als bedoeld in [artikel 2.7, tweede lid, van het Arbeidsomstandighedenbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=2.7) of als bedrijfsarts is ingeschreven in een erkend specialistenregister als bedoeld in [artikel 14 van de Wet op de beroepen in de individuele gezondheidszorg](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&artikel=14);
+
+- g. voor het project ten minste € 12.000,– aan subsidiabele kosten zijn begroot.
 
 ##### Artikel B7. Weigering van de subsidie
 
@@ -647,7 +647,7 @@ Er wordt geen subsidie verleend aan subsidieaanvragers aan wie op grond van enig
 
 ##### Artikel B8. Subsidiabele kosten
 
-In afwijking van artikel 12 komen slechts voor subsidie in aanmerking de kosten van de door de adviseur investeringsprioriteit B werkelijk gerealiseerde uren voor ten minste een van onderstaande activiteiten, aantoonbaar gericht op een of meer thema’s of activiteiten uit artikel B4:
+In afwijking van [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0035033&artikel=12&z=2016-09-06&g=2016-09-06) komen slechts voor subsidie in aanmerking de kosten van de door de adviseur investeringsprioriteit B werkelijk gerealiseerde uren voor ten minste een van onderstaande activiteiten, aantoonbaar gericht op een of meer thema’s of activiteiten uit artikel B4:
 
 - a. het opstellen van een advies met implementatieplan;
 
@@ -661,13 +661,21 @@ In afwijking van artikel 12 komen slechts voor subsidie in aanmerking de kosten 
 
 ##### Artikel B10. Einddeclaratie en subsidievaststelling
 
-1. In afwijking van artikel 18, eerste lid, dient de subsidieontvanger binnen zes weken na beëindiging van het project, een verzoek tot vaststelling in bij de minister.
+1. In afwijking van [artikel 18, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035033&artikel=18&z=2016-09-06&g=2016-09-06), dient de subsidieontvanger binnen zes weken na beëindiging van het project, een verzoek tot vaststelling in bij de minister.
 
-2. In afwijking van artikel 18, derde lid, wordt het maximale subsidiepercentage bedoeld in artikel 11, eerste lid, vastgesteld op 0% indien bij het indienen, dan wel na het controleren van de einddeclaratie respectievelijk na overig onderzoek door daartoe bevoegde instanties, blijkt dat minder dan € 12.000,– aan subsidiabele kosten is gerealiseerd.
+2. In afwijking van [artikel 18, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035033&artikel=18&z=2016-09-06&g=2016-09-06), wordt het maximale subsidiepercentage bedoeld in [artikel 11, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035033&artikel=11&z=2016-09-06&g=2016-09-06), vastgesteld op 0% indien bij het indienen, dan wel na het controleren van de einddeclaratie respectievelijk na overig onderzoek door daartoe bevoegde instanties, blijkt dat minder dan € 12.000,– aan subsidiabele kosten is gerealiseerd.
 
-3. Bij het verzoek tot vaststelling van de subsidie wordt het door de adviseur investeringsprioriteit B opgestelde advies met implementatieplan of een verslag van de begeleiding van de implementatie van een advies gevoegd en de factuur of facturen van de adviseur investeringsprioriteit B en de bijbehorende algemeen aanvaarde betalingsbewijzen.
+3. Bij het verzoek tot vaststelling van de subsidie wordt opgenomen:
 
-4. In het advies of het verslag, bedoeld in het derde lid, wordt vermeld:
+- a. een vermelding van het aantal actief betrokken werknemers en zelfstandigen zonder personeel;
+
+- b. een vermelding van de contactgegevens van twee werknemers die actief betrokken zijn bij het project, en bereid zijn informatie te verstrekken aan door de Minister dan wel door de Europese Commissie daartoe aangewezen instanties voor controle en evaluatiedoeleinden;
+
+- c. het door de adviseur investeringsprioriteit B opgestelde advies met implementatieplan of een verslag van de begeleiding van de implementatie van een advies;
+
+- d. de factuur of facturen van de adviseur investeringsprioriteit B en de bijbehorende algemeen aanvaarde betalingsbewijzen.
+
+4. In het advies of het verslag, bedoeld in het derde lid, onderdeel c, wordt vermeld:
 
 - a. het projectnummer, de naam van het bedrijf en het bedrijfslogo;
 
@@ -679,19 +687,21 @@ In afwijking van artikel 12 komen slechts voor subsidie in aanmerking de kosten 
 
 - e. welke activiteiten in het kader van het project zijn uitgevoerd en voor welke doelgroep;
 
-- f. de uitkomsten of opbrengsten van het project en in hoeverre de beoogde doelstellingen zijn bereikt;
+- f. op welke wijze de activiteiten hebben plaatsgevonden voor welke doelgroep en welke instrumenten zijn ingezet;
 
-- g. op welke wijze werknemers betrokken zijn geweest bij het project;
+- g. de inhoudelijke opbrengsten en conclusies van het project en in hoeverre de beoogde doelstellingen zijn bereikt op het gebied van duurzame inzetbaarheid van de betrokken werkenden;
 
-- h. op welke wijze de organisatie het advies kan implementeren, dan wel vorm is gegeven aan de begeleiding bij de implementatie;
+- h. op welke wijze werkenden geïnformeerd en betrokken zijn geweest bij de planvorming, implementatie en evaluatie van het project;
 
-- i. met welke partijen binnen of buiten de organisatie is samengewerkt.
+- i. op welke wijze de organisatie het advies ter bevordering van de duurzame inzetbaarheid van werkenden kan implementeren, dan wel vorm is gegeven aan de begeleiding bij de implementatie, en een toelichting op de relevantie voor de aanvrager;
 
-5. De minister beslist, in afwijking van artikel 18, zesde lid, binnen dertien weken na ontvangst van het verzoek tot vaststelling.
+- j. met welke partijen binnen of buiten de organisatie is samengewerkt.
+
+5. De minister beslist, in afwijking van [artikel 18, zesde li](https://wetten.overheid.nl/jci1.3:c:BWBR0035033&artikel=18&z=2016-09-06&g=2016-09-06)d, binnen dertien weken na ontvangst van het verzoek tot vaststelling.
 
 ##### Artikel B11. Uitzonderingen op algemeen deel
 
-De artikelen 7, eerste lid, 14 en 17, eerste lid, zijn niet van toepassing op subsidieaanvragen in het kader van dit hoofdstuk.
+De [artikelen 7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035033&artikel=7&z=2016-09-06&g=2016-09-06), en [17, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035033&artikel=17&z=2016-09-06&g=2016-09-06), zijn niet van toepassing op subsidieaanvragen in het kader van dit hoofdstuk.
 
 ### Artikel A28. Aard van de projecten
 
@@ -703,7 +713,7 @@ De artikelen 7, eerste lid, 14 en 17, eerste lid, zijn niet van toepassing op su
 
 2. Een subsidieaanvraag wordt niet in behandeling genomen, indien op het moment van deze aanvraag aan de subsidieaanvrager reeds voor twee projecten in het kader van dit hoofdstuk subsidie is verleend. Indien met betrekking tot een subsidieverlening als bedoeld in de vorige zin een verzoek tot vaststelling is ingediend, kan een subsidieaanvraag voor een nieuw project in behandeling worden genomen.
 
-1. In afwijking van [artikel 7, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035033&artikel=7&z=2016-07-09&g=2016-07-09), wordt op de aanvraag uiterlijk achttien weken na ontvangst van de volledige aanvraag beschikt.
+1. In afwijking van [artikel 7, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035033&artikel=7&z=2016-09-06&g=2016-09-06), wordt op de aanvraag uiterlijk achttien weken na ontvangst van de volledige aanvraag beschikt.
 
 ### Artikel A30. Specifieke eisen
 
@@ -719,7 +729,7 @@ De artikelen 7, eerste lid, 14 en 17, eerste lid, zijn niet van toepassing op su
 
 2. De kosten, bedoeld in het eerste lid, worden voor zover het directe loonkosten van medewerkers in dienst van een in Nederland gevestigde organisatie betreft berekend op basis van het aantal werkelijk gerealiseerde uren tegen een individueel berekend uurtarief op basis van het brutoloon, vermeerderd met een opslag van 32%. Bij het aantal werkbare uren per jaar wordt uitgegaan van 1.720 uren bij een voltijds dienstverband.
 
-1. Ter uitvoering van de subsidiabele activiteiten van een project in het kader van dit hoofdstuk komen in afwijking van [artikel 12, eerste tot en met derde lid, vijfde tot en met zevende lid, en elfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035033&artikel=12&z=2016-07-09&g=2016-07-09), voor subsidiëring uitsluitend redelijke en noodzakelijke kosten in aanmerking.
+1. Ter uitvoering van de subsidiabele activiteiten van een project in het kader van dit hoofdstuk komen in afwijking van [artikel 12, eerste tot en met derde lid, vijfde tot en met zevende lid, en elfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035033&artikel=12&z=2016-09-06&g=2016-09-06), voor subsidiëring uitsluitend redelijke en noodzakelijke kosten in aanmerking.
 
 ## Bijlage 3. Subsidieplafonds centrumgemeenten
 
@@ -780,21 +790,21 @@ Het maximaal beschikbare bedrag voor het verlenen van subsidie bedraagt:
 
 In afwijking van artikel 14, eerste lid, verstrekt de minister, indien de subsidieontvanger dit in zijn subsidieaanvraag heeft aangegeven, na ontvangst en beoordeling van de voortgangsrapportage, bedoeld in artikel A8, eerste lid, een voorschot tot maximaal 50% van het in de beschikking tot subsidieverlening opgenomen maximum subsidiebedrag, mits uit de beoordeling van de voortgangsrapportage blijkt dat de gerapporteerde kosten zijn gespecificeerd en financieel en inhoudelijk voldoende zijn onderbouwd.
 
-### Artikel A10. Maximum subsidie per subsidieaanvrager
+### Artikel A10aa. Onderwijsnummer
 
-### Artikel A10a. Subsidieaanvrager
+### Hoofdstuk II. UWV
 
 De subsidie met betrekking tot een project in het kader van dit hoofdstuk wordt aangevraagd door het UWV.
 
 Subsidieaanvragen met betrekking tot een project in het kader van dit hoofdstuk worden door de minister ontvangen in het aanvraagtijdvak van 2 februari 2015, 09.00 uur, tot en met 27 februari 2015, 17.00 uur.
 
-### Artikel A15. Specifieke eisen
+### Artikel A16. Subsidiabele activiteiten
 
 De subsidie met betrekking tot een project in het kader van dit hoofdstuk wordt aangevraagd door de Minister van Veiligheid en Justitie.
 
 ### Artikel A19. Aanvraagtijdvak
 
-Subsidieaanvragen met betrekking tot een project in het kader van dit hoofdstuk worden door de minister ontvangen in het aanvraagtijdvak van 1 oktober 2015, 09.00 uur, tot en met 30 oktober 2015, 17.00 uur.
+Subsidieaanvragen met betrekking tot een project in het kader van dit hoofdstuk worden door de minister ontvangen in het aanvraagtijdvak van 3 oktober 2016, 9.00 uur, tot en met 31 oktober 2016, 17.00 uur.
 
 Vervallen.
 
@@ -828,7 +838,7 @@ Vervallen.
 
 2. De kosten, bedoeld in het eerste lid, onderdeel a, worden berekend op basis van het aantal werkelijk gerealiseerde uren tegen een individueel berekend uurtarief op basis van het brutoloon, vermeerderd met een opslag van 32%. Bij het aantal werkbare uren per jaar wordt uitgegaan van 1.720 uren bij een voltijds dienstverband.
 
-1. Ten behoeve van het beheer van een project in het kader van dit hoofdstuk komen in afwijking van [artikel 12, eerste tot en met derde lid, vijfde tot en met zevende lid, en elfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035033&artikel=12&z=2016-07-09&g=2016-07-09), voor subsidiëring uitsluitend in aanmerking:
+1. Ten behoeve van het beheer van een project in het kader van dit hoofdstuk komen in afwijking van [artikel 12, eerste tot en met derde lid, vijfde tot en met zevende lid, en elfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035033&artikel=12&z=2016-09-06&g=2016-09-06), voor subsidiëring uitsluitend in aanmerking:
 
 ### Artikel A34. Niet-subsidiabele kosten
 
@@ -840,15 +850,15 @@ Niet voor subsidiering komen in aanmerking:
 
 ### Artikel A35. Administratievoorschriften
 
-In afwijking van [artikel 15, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035033&artikel=15&z=2016-07-09&g=2016-07-09), is de projectadministratie van de subsidieontvanger in het kader van transnationale samenwerking voor controle beschikbaar op één locatie in Nederland.
+In afwijking van [artikel 15, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035033&artikel=15&z=2016-09-06&g=2016-09-06), is de projectadministratie van de subsidieontvanger in het kader van transnationale samenwerking voor controle beschikbaar op één locatie in Nederland.
 
 ### Artikel A36. Bevoorschotting
 
-In afwijking van artikel 14, eerste lid, verstrekt de minister, in het kader van dit hoofdstuk, een voorschot tot maximaal 50% van het in de beschikking tot subsidieverlening opgenomen maximum subsidiebedrag, indien:
+In afwijking van [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0035033&artikel=14&z=2016-09-06&g=2016-09-06) verleent de minister, in het kader van dit hoofdstuk, een voorschot tot maximaal 50% van het in de beschikking tot subsidieverlening opgenomen maximum subsidiebedrag, indien:
 
 ### Artikel A37. Uitzonderingen op algemeen deel
 
-De [artikelen 7, eerste en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035033&artikel=7&z=2016-07-09&g=2016-07-09), [17, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035033&artikel=17&z=2016-07-09&g=2016-07-09), en [18, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035033&artikel=18&z=2016-07-09&g=2016-07-09), zijn niet van toepassing op subsidieaanvragen in het kader van dit hoofdstuk.
+De [artikelen 7, eerste en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035033&artikel=7&z=2016-09-06&g=2016-09-06), [17, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035033&artikel=17&z=2016-09-06&g=2016-09-06), en [18, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035033&artikel=18&z=2016-09-06&g=2016-09-06), zijn niet van toepassing op subsidieaanvragen in het kader van dit hoofdstuk.
 
 ### Investeringsprioriteit B. Actief en gezond ouder worden
 
@@ -858,19 +868,19 @@ De [artikelen 7, eerste en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0
 
 ### Hoofdstuk V. Duurzame inzetbaarheid bedrijven/instellingen
 
-### Hoofdstuk VI. Geïntegreerde territoriale investeringen
+### Artikel B12. Subsidieaanvrager
 
 ### Artikel B13. Aanvraagtijdvak
 
 ## Bijlage 2. Procedure betreffende gebruik geconverteerde documenten of gegevensdragers en digitale bewijsstukken
 
-De volgende documenten worden als bewijsstukken geaccepteerd:
+Subsidieaanvragen met betrekking tot een project in het kader van dit hoofdstuk worden door de minister ontvangen in het aanvraagtijdvak van 19 september 2016, 09.00 uur, tot en met 28 oktober 2016, 17.00 uur.
 
 Het maximaal beschikbare bedrag voor het verlenen van subsidie bedraagt voor het aanvraagtijdvak, bedoeld in artikel B13, € 12.500.000,–.
 
-Hieronder staan de procedures om deze stukken te kunnen gebruiken als geaccepteerde bewijsstukken in het kader van de ESF-administratie.
+Het maximaal beschikbare bedrag voor het verlenen van subsidie bedraagt voor het aanvraagtijdvak, bedoeld in artikel B13, € 12.500.000,–.
 
-### Artikel B16. De subsidieaanvraag
+### Artikel B15. Doel
 
 Het in samenhang bezien van de verschillende bewijsstukken strekt er mede toe de authenticiteit van het geconverteerde document of de gegevensdrager te waarborgen en dat hierop voor controledoeleinden kan worden vertrouwd.
 
@@ -880,11 +890,11 @@ Voor subsidie komen slechts in aanmerking activiteiten gericht op het vergroten 
 
 Niet voor subsidiëring komen in aanmerking:
 
-### Artikel B21. Niet-subsidiabele kosten
+### Artikel B20. Subsidiabele kosten
 
 Niet voor subsidiëring komen in aanmerking:
 
-De minister verleent, indien de subsidieontvanger dit in zijn subsidieaanvraag heeft aangegeven, na ontvangst en beoordeling van de voortgangsrapportage, bedoeld in artikel C8, eerste lid, een voorschot tot maximaal 50% van het in de beschikking tot subsidieverlening opgenomen maximum subsidiebedrag, mits uit de beoordeling van de voortgangsrapportage blijkt dat de gerapporteerde kosten zijn gespecificeerd en financieel en inhoudelijk voldoende zijn onderbouwd.
+Niet voor subsidiëring komen in aanmerking:
 
 ## Bijlage 2. Procedure betreffende gebruik geconverteerde documenten of gegevensdragers en digitale bewijsstukken
 
@@ -979,7 +989,7 @@ De [artikelen 7, eerste en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0
 
 ### Hoofdstuk V. Duurzame inzetbaarheid bedrijven/instellingen
 
-### Artikel B12. Subsidieaanvrager
+### Hoofdstuk Va. Duurzame inzetbaarheid regio’s en sectoren
 
 ## Bijlage 2. Procedure betreffende gebruik geconverteerde documenten of gegevensdragers en digitale bewijsstukken
 
@@ -989,7 +999,7 @@ Subsidieaanvragen met betrekking tot een project in het kader van dit hoofdstuk 
 
 In afwijking van artikel 7, eerste lid, kan een aanvraag betrekking hebben op een project dat niet bestaat uit één of meer subprojecten. In de situatie, bedoeld in de eerste zin, is artikel 12, derde, vijfde en zesde lid, niet van toepassing.
 
-### Artikel B20. Subsidiabele kosten
+### Artikel B19. Hoogte subsidie
 
 De subsidieontvanger dient binnen vier weken na afloop van de eerste twaalf maanden van het project, een voortgangsrapportage in over de eerste twaalf maanden. De voortgangsrapportage wordt ingediend onder gebruikmaking van een daartoe door de minister elektronisch beschikbaar gesteld formulier, voorzien van de vereiste bijlagen en een door hem erkende elektronische handtekening.
 
@@ -1038,19 +1048,19 @@ Deze regeling zal met de toelichting en de bijlagen in de Staatscourant worden g
 
 ### Artikel B14. Subsidieplafond
 
-### Artikel B17. Specifieke eisen
+### Artikel B16. De subsidieaanvraag
 
-### Artikel B19. Hoogte subsidie
+### Artikel B18. Subsidiabele activiteiten
 
-### Artikel B23. Einddeclaratie en subsidievaststelling
+### Artikel B21. Niet-subsidiabele kosten
 
-### Artikel B23. Einddeclaratie en subsidievaststelling
+### Artikel B22. Kwalitatieve beoordeling en prioritering
 
 In het kader van de verantwoording op de einddeclaratie onderbouwt de subsidieontvanger de kosten met originele bewijsstukken. De Verordening maakt het mogelijk kopieën of volledig digitale documenten te accepteren als bewijsstuk. Hiertoe moet door de lidstaat een procedure voor de vaststelling van de authenticiteit worden opgesteld. In deze bijlage worden de door Nederland vastgestelde procedures weergegeven.
 
-### Hoofdstuk VI. Geïntegreerde territoriale investeringen
+### Artikel B24. Uitzonderingen op algemeen deel
 
-Hieronder staan de procedures om deze stukken te kunnen gebruiken als geaccepteerde bewijsstukken in het kader van de ESF-administratie.
+De [artikelen 7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035033&artikel=7&z=2016-09-06&g=2016-09-06), en [17, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035033&artikel=17&z=2016-09-06&g=2016-09-06), zijn niet van toepassing op subsidieaanvragen in het kader van dit hoofdstuk.
 
 ## Bijlage 2. Procedure betreffende gebruik geconverteerde documenten of gegevensdragers en digitale bewijsstukken
 
@@ -1058,15 +1068,15 @@ De hierboven genoemde bewijsstukken a, b en c zijn geconverteerde documenten of 
 
 Subsidieaanvragen met betrekking tot een project in het kader van dit hoofdstuk worden door de minister ontvangen in het aanvraagtijdvak van 16 november 2015, 09.00 uur, tot en met 12 februari 2016, 17.00 uur.
 
-Als de conversie op de juiste wijze gebeurt, is het in het kader van de ESF-verantwoording, niet meer noodzakelijk de bewijsstukken op de originele gegevensdrager te bewaren. Het geconverteerde bewijsstuk mag na conversie niet meer gewijzigd kunnen worden.
+De subsidie met betrekking tot een project in het kader van dit hoofdstuk wordt aangevraagd door het college van burgemeester en wethouders van de gemeente Amsterdam, Den Haag, Rotterdam of Utrecht.
 
-### Procedure voor het gebruik van de documenten, genoemd in de onderdelen a, b en c
+### Artikel C2. Aanvraagtijdvak
 
-De hierboven genoemde bewijsstukken a, b en c zijn geconverteerde documenten of gegevensdragers. Bij conversie van het origineel naar het geconverteerde document of gegevensdrager wordt aan de hieronder vermelde voorwaarden voldaan:
+Subsidieaanvragen met betrekking tot een project in het kader van dit hoofdstuk worden door de minister ontvangen in het aanvraagtijdvak van 16 november 2015, 09.00 uur, tot en met 12 februari 2016, 17.00 uur.
 
 Een project in het kader van dit hoofdstuk heeft tot doel het bevorderen van de toegang tot werkgelegenheid en ondersteuning van de arbeidsmobiliteit, als onderdeel van een uitvoeringsplan van de subsidieaanvrager.
 
-De in deze bijlage omschreven procedures gelden voor alle bewijsstukken die getoond moeten worden in het kader van de ESF-verantwoording. Artikel 16 is onverminderd van toepassing.
+Het maximaal beschikbare bedrag voor het verlenen van subsidie bedraagt voor het aanvraagtijdvak, bedoeld in artikel C2, voor de gemeente:
 
 In afwijking van artikel 7, eerste lid, kan een aanvraag betrekking hebben op een project dat niet bestaat uit één of meer subprojecten. In de situatie, bedoeld in de eerste zin, is artikel 12, derde, vijfde en zesde lid, niet van toepassing.
 
@@ -1074,7 +1084,7 @@ In afwijking van artikel 7, eerste lid, kan een aanvraag betrekking hebben op ee
 
 Indien een subsidieontvanger gebruik maakt van elektronische documenten waarbij uitsluitend een elektronische versie bestaat, worden de geautomatiseerde systemen voorzien van beheers- en beveiligingsmaatregelen die de betrouwbaarheid, authenticiteit en integriteit van de elektronische gegevens gedurende de gehele vereiste bewaartermijn waarborgen. Het is aan de subsidieontvanger om dit aan te tonen. Voor een tweetal veel voorkomende situaties zijn de voorschriften hieronder uitgewerkt:
 
-Voor subsidie komen slechts in aanmerking activiteiten gericht op het vergroten van de toegang tot werkgelegenheid en de ondersteuning van de arbeidsmobiliteit, voor zover zij het in artikel C4 omschreven doel ondersteunen.
+In afwijking van [artikel 7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035033&artikel=7&z=2016-09-06&g=2016-09-06), kan een aanvraag betrekking hebben op een project dat niet bestaat uit één of meer subprojecten. In de situatie, bedoeld in de eerste zin, is [artikel 12, derde, vijfde en zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035033&artikel=12&z=2016-09-06&g=2016-09-06), niet van toepassing.
 
 ## Bijlage 3. Subsidieplafonds centrumgemeenten
 
@@ -1170,21 +1180,21 @@ Het maximaal beschikbare bedrag voor het verlenen van subsidie bedraagt:
 
 De minister verleent, indien de subsidieontvanger dit in zijn subsidieaanvraag heeft aangegeven, na ontvangst en beoordeling van de voortgangsrapportage, bedoeld in artikel A8, eerste lid, een voorschot tot maximaal 50% van het in de beschikking tot subsidieverlening opgenomen maximum subsidiebedrag, mits uit de beoordeling van de voortgangsrapportage blijkt dat de gerapporteerde kosten zijn gespecificeerd en financieel en inhoudelijk voldoende zijn onderbouwd.
 
-Subsidieaanvragen met betrekking tot een project in het kader van dit hoofdstuk worden door de minister ontvangen in het aanvraagtijdvak van 2 februari 2015, 09.00 uur, tot en met 27 februari 2015, 17.00 uur.
+De subsidie met betrekking tot een project in het kader van dit hoofdstuk wordt aangevraagd door het UWV.
 
-### Artikel A12. Subsidieplafond
+### Artikel A11. Aanvraagtijdvak
+
+Subsidieaanvragen met betrekking tot een project in het kader van dit hoofdstuk worden door de minister ontvangen in het aanvraagtijdvak van 5 december 2016, 09.00 uur, tot en met 27 januari 2017, 17.00 uur.
 
 Het maximaal beschikbare bedrag voor het verlenen van subsidie bedraagt voor het aanvraagtijdvak, bedoeld in artikel A11, € 15.000.000,–.
 
-Het maximaal beschikbare bedrag voor het verlenen van subsidie bedraagt voor het aanvraagtijdvak, bedoeld in artikel A11, € 15.000.000,–.
-
-### Artikel A13. Doel en doelgroepen
+### Artikel A14
 
 De minister verleent, indien de subsidieontvanger dit in zijn subsidieaanvraag heeft aangegeven, na ontvangst en beoordeling van de voortgangsrapportage, bedoeld in artikel A17, eerste lid, een voorschot tot maximaal 50% van het in de beschikking tot subsidieverlening opgenomen maximum subsidiebedrag, mits uit de beoordeling van de voortgangsrapportage blijkt dat de gerapporteerde kosten zijn gespecificeerd en financieel en inhoudelijk voldoende zijn onderbouwd.
 
 ### Artikel A17. Voortgangsrapportage
 
-In afwijking van artikel 14, eerste lid, verstrekt de minister, indien de subsidieontvanger dit in zijn subsidieaanvraag heeft aangegeven, na ontvangst en beoordeling van de voortgangsrapportage, bedoeld in artikel A17, eerste lid, een voorschot tot maximaal 50% van het in de beschikking tot subsidieverlening opgenomen maximum subsidiebedrag, mits uit de beoordeling van de voortgangsrapportage blijkt dat de gerapporteerde kosten zijn gespecificeerd en financieel en inhoudelijk voldoende zijn onderbouwd.
+Vervallen.
 
 ### Hoofdstuk III. De Minister van Veiligheid en Justitie
 
@@ -1212,11 +1222,11 @@ De subsidie met betrekking tot een project in het kader van dit hoofdstuk wordt 
 
 De subsidie met betrekking tot een project in het kader van dit hoofdstuk wordt aangevraagd door:
 
-### Artikel B18. Subsidiabele activiteiten
+### Artikel B17. Specifieke eisen
 
 De subsidie met betrekking tot een project in het kader van dit hoofdstuk wordt aangevraagd door het college van burgemeester en wethouders van de gemeente Amsterdam, Den Haag, Rotterdam of Utrecht.
 
-### Procedure voor het gebruik van de documenten, genoemd in de onderdelen a, b en c
+### Investeringprioriteiten C. Toegang tot werkgelegenheid voor werkzoekenden en niet-actieven, met inbegrip van langdurig werklozen en personen die ver van de arbeidsmarkt af staan, mede door middel van plaatselijke werkgelegenheidsinitiatieven en ondersteuning van de arbeidsmobiliteit
 
 Het maximaal beschikbare bedrag voor het verlenen van subsidie bedraagt voor het aanvraagtijdvak, bedoeld in artikel C2, voor de gemeente:
 
@@ -1424,29 +1434,29 @@ Vervallen.
 
 ### Artikel A34. Niet-subsidiabele kosten
 
-### Artikel B16. De subsidieaanvraag
+### Artikel B14. Subsidieplafond
 
 ### Artikel B22. Kwalitatieve beoordeling en prioritering
 
-### Investeringprioriteiten C. Toegang tot werkgelegenheid voor werkzoekenden en niet-actieven, met inbegrip van langdurig werklozen en personen die ver van de arbeidsmarkt af staan, mede door middel van plaatselijke werkgelegenheidsinitiatieven en ondersteuning van de arbeidsmobiliteit
+### Artikel B23. Einddeclaratie en subsidievaststelling
 
 ### Artikel C1. Subsidieaanvrager
 
 De subsidie met betrekking tot een project in het kader van dit hoofdstuk wordt aangevraagd door het college van burgemeester en wethouders van de gemeente Amsterdam, Den Haag, Rotterdam of Utrecht.
 
-### Artikel C2. Aanvraagtijdvak
+### Hoofdstuk VI. Geïntegreerde territoriale investeringen
 
 ### Artikel C3. Subsidieplafond
 
 ### Artikel C5. De aanvraag
 
-### Artikel C7. Subsidiabele activiteiten
+### Artikel C4. Doel
 
-Voor subsidie komen slechts in aanmerking activiteiten gericht op het vergroten van de toegang tot werkgelegenheid en de ondersteuning van de arbeidsmobiliteit, voor zover zij het in artikel C4 omschreven doel ondersteunen.
+Een project in het kader van dit hoofdstuk heeft tot doel het bevorderen van de toegang tot werkgelegenheid en ondersteuning van de arbeidsmobiliteit, als onderdeel van een uitvoeringsplan van de subsidieaanvrager.
 
-### Artikel C7. Subsidiabele activiteiten
+### Artikel C5. De aanvraag
 
-### Artikel C8. Voortgangsrapportage
+### Artikel C6. Specifieke eisen
 
 De subsidieontvanger dient binnen vier weken na afloop van de eerste twaalf maanden van het project, een voortgangsrapportage in over de eerste twaalf maanden. De voortgangsrapportage wordt ingediend onder gebruikmaking van een daartoe door de minister elektronisch beschikbaar gesteld formulier, voorzien van de vereiste bijlagen en een door hem erkende elektronische handtekening.
 
@@ -1454,7 +1464,7 @@ De subsidieontvanger dient binnen vier weken na afloop van de eerste twaalf maan
 
 In afwijking van artikel 14, eerste lid, verstrekt de minister, indien de subsidieontvanger dit in zijn subsidieaanvraag heeft aangegeven, na ontvangst en beoordeling van de voortgangsrapportage, bedoeld in artikel C8, eerste lid, een voorschot tot maximaal 50% van het in de beschikking tot subsidieverlening opgenomen maximum subsidiebedrag, mits uit de beoordeling van de voortgangsrapportage blijkt dat de gerapporteerde kosten zijn gespecificeerd en financieel en inhoudelijk voldoende zijn onderbouwd.
 
-De volgende documenten worden als bewijsstukken geaccepteerd:
+De subsidieontvanger dient binnen vier weken na afloop van de eerste twaalf maanden van het project, een voortgangsrapportage in over de eerste twaalf maanden. De voortgangsrapportage wordt ingediend onder gebruikmaking van een daartoe door de minister elektronisch beschikbaar gesteld formulier, voorzien van de vereiste bijlagen en een door hem erkende elektronische handtekening.
 
 In het kader van de verantwoording op de einddeclaratie onderbouwt de subsidieontvanger de kosten met originele bewijsstukken. De Verordening maakt het mogelijk kopieën of volledig digitale documenten te accepteren als bewijsstuk. Hiertoe moet door de lidstaat een procedure voor de vaststelling van de authenticiteit worden opgesteld. In deze bijlage worden de door Nederland vastgestelde procedures weergegeven.
 
@@ -1462,17 +1472,17 @@ In het kader van de verantwoording op de einddeclaratie onderbouwt de subsidieon
 
 Hieronder staan de procedures om deze stukken te kunnen gebruiken als geaccepteerde bewijsstukken in het kader van de ESF-administratie.
 
-Het in samenhang bezien van de verschillende bewijsstukken strekt er mede toe de authenticiteit van het geconverteerde document of de gegevensdrager te waarborgen en dat hierop voor controledoeleinden kan worden vertrouwd.
+In het kader van de verantwoording op de einddeclaratie onderbouwt de subsidieontvanger de kosten met originele bewijsstukken. De Verordening maakt het mogelijk kopieën of volledig digitale documenten te accepteren als bewijsstuk. Hiertoe moet door de lidstaat een procedure voor de vaststelling van de authenticiteit worden opgesteld. In deze bijlage worden de door Nederland vastgestelde procedures weergegeven.
+
+De volgende documenten worden als bewijsstukken geaccepteerd:
+
+Hieronder staan de procedures om deze stukken te kunnen gebruiken als geaccepteerde bewijsstukken in het kader van de ESF-administratie.
+
+### Procedure voor het gebruik van de documenten, genoemd in de onderdelen a, b en c
 
 De hierboven genoemde bewijsstukken a, b en c zijn geconverteerde documenten of gegevensdragers. Bij conversie van het origineel naar het geconverteerde document of gegevensdrager wordt aan de hieronder vermelde voorwaarden voldaan:
 
 Het in samenhang bezien van de verschillende bewijsstukken strekt er mede toe de authenticiteit van het geconverteerde document of de gegevensdrager te waarborgen en dat hierop voor controledoeleinden kan worden vertrouwd.
-
-### Procedure voor het bewaren van stukken die uitsluitend in elektronische versie bestaan (onderdeel d)
-
-De subsidieaanvrager verklaart door middel van het aanvraag-, tussendeclaratie- en einddeclaratieformulier dat de geconverteerde documenten of de nieuwe gegevensdragers die onderdeel zijn van de ESF-administratie, voldoen aan de vereisten uit artikel 16 van de ESF subsidieregeling 2014–2020 en daarmee aan deze bijlage.
-
-De in deze bijlage omschreven procedures gelden voor alle bewijsstukken die getoond moeten worden in het kader van de ESF-verantwoording. Artikel 16 is onverminderd van toepassing.
 
 ## Bijlage 3. Subsidieplafonds centrumgemeenten
 
@@ -1656,7 +1666,7 @@ Vervallen.
 
 ## Bijlage 2. Procedure betreffende gebruik geconverteerde documenten of gegevensdragers en digitale bewijsstukken
 
-De volgende documenten worden als bewijsstukken geaccepteerd:
+In afwijking van [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0035033&artikel=14&z=2016-09-06&g=2016-09-06) verleent de minister op verzoek van de subsidieontvanger, na ontvangst en beoordeling van de voortgangsrapportage, bedoeld in artikel C8, eerste lid, een voorschot tot maximaal 50% van het in de beschikking tot subsidieverlening opgenomen maximum subsidiebedrag, mits uit de beoordeling van de voortgangsrapportage blijkt dat de gerapporteerde kosten zijn gespecificeerd en financieel en inhoudelijk voldoende zijn onderbouwd.
 
 ### Procedure voor het gebruik van de documenten, genoemd in de onderdelen a, b en c
 
@@ -1664,9 +1674,174 @@ Als de conversie op de juiste wijze gebeurt, is het in het kader van de ESF-vera
 
 ### Procedure voor het bewaren van stukken die uitsluitend in elektronische versie bestaan (onderdeel d)
 
+Als de conversie op de juiste wijze gebeurt, is het in het kader van de ESF-verantwoording, niet meer noodzakelijk de bewijsstukken op de originele gegevensdrager te bewaren. Het geconverteerde bewijsstuk mag na conversie niet meer gewijzigd kunnen worden.
+
+De subsidieaanvrager verklaart door middel van het aanvraag-, tussendeclaratie- en einddeclaratieformulier dat de geconverteerde documenten of de nieuwe gegevensdragers die onderdeel zijn van de ESF-administratie, voldoen aan de vereisten uit artikel 16 van de ESF subsidieregeling 2014–2020 en daarmee aan deze bijlage.
+
+## Bijlage 3b. Subsidieplafonds centrumgemeenten ten behoeve van regio-aanvragen leerlingen voortgezet speciaal onderwijs en praktijkonderwijs
+
+| Centrumgemeente | Arbeidsmarktregio | Subsidieplafond |
+| --- | --- | --- |
+| Groningen | Groningen | € 1.669.600 |
+| Leeuwarden | Friesland | € 1.173.400 |
+| Alkmaar | Noord-Holland Noord | € 538.000 |
+| Emmen | Drenthe | € 492.300 |
+| Zwolle | Regio Zwolle | € 454.800 |
+| Almere | Flevoland | € 606.900 |
+| Zaanstad | Zaanstreek/Waterland | € 325.100 |
+| Haarlem | Zuid-Kennemerland | € 399.100 |
+| Enschede | Twente | € 1.012.600 |
+| Amsterdam | Groot Amsterdam | € 2.878.100 |
+| Apeldoorn | Stedendriehoek en Noordwest Veluwe | € 628.500 |
+| Hilversum | Gooi- en Vechtstreek | € 191.600 |
+| Leiden | Holland Rijnland | € 360.100 |
+| Utrecht | Midden-Utrecht | € 771.400 |
+| Amersfoort | Amersfoort | € 224.600 |
+| Ede | Food Valley | € 268.900 |
+| Doetinchem | Achterhoek | € 239.600 |
+| Zoetermeer | Zuid-Holland Centraal | € 345.500 |
+| Gouda | Midden-Holland | € 147.500 |
+| Den Haag | Haaglanden | € 1.931.400 |
+| Arnhem | Midden-Gelderland | € 702.100 |
+| Rotterdam | Rijnmond | € 3.626.400 |
+| Tiel | Rivierenland | € 169.100 |
+| Gorinchem | Gorinchem | € 80.700 |
+| Nijmegen | Rijk van Nijmegen | € 589.000 |
+| Dordrecht | Drechtsteden | € 384.900 |
+| Den Bosch | Noordoost-Brabant | € 503.400 |
+| Breda | West-Brabant | € 683.500 |
+| Goes | Zeeland | € 404.800 |
+| Tilburg | Midden-Brabant | € 565.400 |
+| Venlo | Noord-Limburg | € 298.100 |
+| Helmond | Helmond-De Peel | € 274.100 |
+| Eindhoven | Zuidoost-Brabant | € 530.600 |
+| Roermond | Midden-Limburg | € 253.400 |
+| Heerlen | Zuid-Limburg | € 1.275.500 |
+| **Totaal** |   | **€ 25.000.000** |
+
+## Bijlage 3. Subsidieplafonds centrumgemeenten
+
+| Centrumgemeente | Arbeidsmarktregio | Subsidieplafond 2014–2016 |
+| --- | --- | --- |
+| Groningen | Groningen | € 7.335.000 |
+| Leeuwarden | Friesland | € 4.982.500 |
+| Alkmaar | Noord-Holland Noord | € 2.281.000 |
+| Emmen | Drenthe | € 2.063.000 |
+| Zwolle | IJsselvechtstreek | € 2.031.500 |
+| Almere | Flevoland | € 2.906.500 |
+| Zaanstad | Zaanstreek/Waterland | € 1.448.000 |
+| Haarlem | Zuid-Kennemerland | € 1.880.500 |
+| Enschede | Twente | € 4.309.500 |
+| Amsterdam | Groot Amsterdam | € 13.666.000 |
+| Apeldoorn | Stedendriehoek en Noordwest Veluwe | € 2.746.500 |
+| Hilversum | Gooi- en Vechtstreek | € 969.000 |
+| Leiden | Holland Rijnland | € 1.696.500 |
+| Utrecht | Midden-Utrecht | € 3.601.000 |
+| Amersfoort | Amersfoort | € 1.176.500 |
+| Ede | Food Valley | € 1.105.000 |
+| Doetinchem | Achterhoek | € 1.007.000 |
+| Zoetermeer | Zuid-Holland Centraal | € 1.713.500 |
+| Gouda | Midden-Holland | € 792.000 |
+| Den Haag | Haaglanden | € 8.956.000 |
+| Arnhem | Midden-Gelderland | € 3.081.500 |
+| Rotterdam | Rijnmond | € 17.226.000 |
+| Tiel | Rivierenland | € 716.500 |
+| Gorinchem | Gorinchem | € 406.500 |
+| Nijmegen | Rijk van Nijmegen | € 2.569.500 |
+| Dordrecht | Drechtsteden | € 1.821.000 |
+| Den Bosch | Noordoost-Brabant | € 2.077.500 |
+| Breda | West-Brabant | € 3.007.000 |
+| Goes | Zeeland | € 1.871.000 |
+| Tilburg | Midden-Brabant | € 2.570.000 |
+| Venlo | Noord-Limburg | € 1.293.000 |
+| Helmond | Helmond-De Peel | € 1.262.000 |
+| Eindhoven | Zuidoost-Brabant | € 2.534.500 |
+| Roermond | Midden-Limburg | € 1.160.000 |
+| Heerlen | Zuid-Limburg | € 5.737.000 |
+| Totaal |   | € 113.999.500 |
+
+Deze regeling zal met de toelichting en de bijlagen in de Staatscourant worden geplaatst.
+
+In afwijking van de [artikelen 17, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035033&artikel=17&z=2016-09-06&g=2016-09-06), en [18, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035033&artikel=18&z=2016-09-06&g=2016-09-06), verstrekt de subsidieontvanger voor een persoon die behoort tot de doelgroep, genoemd in artikel A4, eerste lid, onderdeel f, in plaats van een burgerservicenummer een onderwijsnummer als bedoeld in [artikel 1, onderdeel g, van de Les- en cursusgeldwet](https://wetten.overheid.nl/jci1.3:c:BWBR0004188&artikel=1), indien deze persoon niet beschikt over een burgerservicenummer.
+
+Het maximaal beschikbare bedrag voor het verlenen van subsidie bedraagt voor het aanvraagtijdvak, bedoeld in artikel A11, € 7.000.000,–.
+
+Vervallen.
+
+##### Artikel B8a. Niet-subsidiabele kosten
+
+Niet voor subsidiëring komen in aanmerking:
+
+- a. procesverbetering, met uitzondering van de activiteiten, bedoeld in artikel B4, tweede lid;
+
+- b. scholing;
+
+- c. technische innovatie.
+
+De subsidie met betrekking tot een project in het kader van dit hoofdstuk wordt aangevraagd door:
+
+### Artikel B13. Aanvraagtijdvak
+
+### Artikel C1. Subsidieaanvrager
+
+### Artikel C3. Subsidieplafond
+
+### Artikel C7. Subsidiabele activiteiten
+
+Voor subsidie komen slechts in aanmerking activiteiten gericht op het vergroten van de toegang tot werkgelegenheid en de ondersteuning van de arbeidsmobiliteit, voor zover zij het in artikel C4 omschreven doel ondersteunen.
+
+### Artikel C8. Voortgangsrapportage
+
+### Artikel C9. Voorschot
+
+## Bijlage 2. Procedure betreffende gebruik geconverteerde documenten of gegevensdragers en digitale bewijsstukken
+
+### Procedure voor het bewaren van stukken die uitsluitend in elektronische versie bestaan (onderdeel d)
+
 Indien een subsidieontvanger gebruik maakt van elektronische documenten waarbij uitsluitend een elektronische versie bestaat, worden de geautomatiseerde systemen voorzien van beheers- en beveiligingsmaatregelen die de betrouwbaarheid, authenticiteit en integriteit van de elektronische gegevens gedurende de gehele vereiste bewaartermijn waarborgen. Het is aan de subsidieontvanger om dit aan te tonen. Voor een tweetal veel voorkomende situaties zijn de voorschriften hieronder uitgewerkt:
 
 De in deze bijlage omschreven procedures gelden voor alle bewijsstukken die getoond moeten worden in het kader van de ESF-verantwoording. Artikel 16 is onverminderd van toepassing.
+
+## Bijlage 3a. Subsidieplafonds centrumgemeenten ten behoeve van regio-aanvragen gemeenten
+
+| Centrumgemeente | Arbeidsmarktregio | Subsidieplafond |
+| --- | --- | --- |
+| Groningen | Groningen | € 7.747.000 |
+| Leeuwarden | Friesland | € 5.444.800 |
+| Alkmaar | Noord-Holland Noord | € 2.496.200 |
+| Emmen | Drenthe | € 2.284.100 |
+| Zwolle | Regio Zwolle | € 2.110.000 |
+| Almere | Flevoland | € 2.816.000 |
+| Zaanstad | Zaanstreek/Waterland | € 1.508.500 |
+| Haarlem | Zuid-Kennemerland | € 1.851.600 |
+| Enschede | Twente | € 4.698.600 |
+| Amsterdam | Groot Amsterdam | € 13.354.400 |
+| Apeldoorn | Stedendriehoek en Noordwest Veluwe | € 2.916.400 |
+| Hilversum | Gooi- en Vechtstreek | € 889.000 |
+| Leiden | Holland Rijnland | € 1.670.800 |
+| Utrecht | Midden-Utrecht | € 3.579.400 |
+| Amersfoort | Amersfoort | € 1.042.100 |
+| Ede | Food Valley | € 1.247.600 |
+| Doetinchem | Achterhoek | € 1.111.500 |
+| Zoetermeer | Zuid-Holland Centraal | € 1.603.200 |
+| Gouda | Midden-Holland | € 684.600 |
+| Den Haag | Haaglanden | € 8.961.500 |
+| Arnhem | Midden-Gelderland | € 3.257.800 |
+| Rotterdam | Rijnmond | € 16.826.600 |
+| Tiel | Rivierenland | € 784.800 |
+| Gorinchem | Gorinchem | € 374.700 |
+| Nijmegen | Rijk van Nijmegen | € 2.732.800 |
+| Dordrecht | Drechtsteden | € 1.786.100 |
+| Den Bosch | Noordoost-Brabant | € 2.335.800 |
+| Breda | West-Brabant | € 3.171.400 |
+| Goes | Zeeland | € 1.878.100 |
+| Tilburg | Midden-Brabant | € 2.623.600 |
+| Venlo | Noord-Limburg | € 1.383.200 |
+| Helmond | Helmond-De Peel | € 1.271.700 |
+| Eindhoven | Zuidoost-Brabant | € 2.462.100 |
+| Roermond | Midden-Limburg | € 1.175.600 |
+| Heerlen | Zuid-Limburg | € 5.918.300 |
+| **Totaal** |   | **€ 115.999.900** |
 
 ## Bijlage 3b. Subsidieplafonds centrumgemeenten ten behoeve van regio-aanvragen leerlingen voortgezet speciaal onderwijs en praktijkonderwijs
 
