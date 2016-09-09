@@ -4,7 +4,7 @@ identifier: "BWBR0023396"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2021-01-01"
-last_updated: "2016-01-23"
+last_updated: "2016-09-09"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0023396"
 soort: "ministeriele-regeling"
@@ -42,7 +42,7 @@ Besluit:
 
 ##### Artikel 1. Vaststelling lijst
 
-De lijst van gereglementeerde beroepen, bedoeld in [artikel 27, eerste lid, van de Algemene wet erkenning EG-beroepskwalificaties](https://wetten.overheid.nl/jci1.3:c:BWBR0023066&artikel=27), wordt vastgesteld conform de bijlage bij deze regeling.
+De lijst van gereglementeerde beroepen, bedoeld in [artikel 27, eerste lid, van de Algemene wet erkenning EU-beroepskwalificaties](https://wetten.overheid.nl/jci1.3:c:BWBR0023066&artikel=27), wordt vastgesteld conform de bijlage bij deze regeling.
 
 ##### Artikel 2. Inwerkingtreding
 
@@ -52,46 +52,59 @@ Deze regeling treedt in werking met ingang van de tweede dag na de dagtekening v
 
 Deze regeling wordt aangehaald als: Regeling vaststelling lijst gereglementeerde beroepen.
 
-## Bijlage. behorende bij [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0023396&artikel=1&z=2016-01-23&g=2016-01-23)
+## Bijlage. behorende bij [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0023396&artikel=1&z=2016-09-09&g=2016-09-09)
 
 | Minister met de beleidsverantwoordelijkheid voor de reglementering van het desbetreffende beroep | Gereglementeerd beroep |
 | --- | --- |
-| Binnenlandse Zaken en Koninkrijksrelaties | • politiekundige/politiemedewerker |
-| Economische zaken, Landbouw en Innovatie | • bedrijfsvoerder gewasbescherming |
-|   | • beheerder van een inrichting |
-|   | • distributeur van gewasbeschermingsmiddelen |
-|   | • preparateur van dieren |
-|   | • toepasser van gewasbeschermingsmiddelen |
-|   | • toepasser van gewasbeschermingsmiddelen voor de bestrijding van mollen en woelratten |
-| Infrastructuur en Milieu | • bestrijder houtrotverwekkende schimmels |
-|   | • bootman |
-|   | • noordzeeloods |
-|   | • distributeur van gasvormige en gasvormende gewasbeschermingsmiddelen en biociden |
-|   | • gasmeetdeskundige |
-|   | • gassingsleider |
-|   | • matroos (binnenvaart) |
-|   | • matroos-motordrijver |
-|   | • registerloods |
-|   | • stuurman (binnenvaart) |
-|   | • toepasser van biociden voor het afweren of bestrijden van een dierplaag |
-|   | • VTS-operator |
-|   | • volmatroos |
-| Sociale Zaken en Werkgelegenheid | • deskundig asbestverwijderaar |
-|   | • duiker |
-|   | • duikploegleider |
-|   | • gasdeskundige tankschepen |
-|   | • kraanmachinist |
-|   | • springmeester |
-|   | • toezichthouder asbestverwijdering |
-|   | • vuurwerkdeskundige |
-| Volksgezondheid, Welzijn en Sport | • artsen met een basisopleiding, medisch specialisten, verpleegkundigen, tandartsen, gespecialiseerde tandartsen, verloskundigen en apothekers, die niet op grond van titel III, hoofdstuk III, van richtlijn 2005/36/EG in aanmerking komen voor erkenning op basis van de coördinatie van de minimumopleidingseisen |
-|   | • arts voor verstandelijk gehandicapten |
-|   | • fysiotherapeut |
-|   | • gezondheidszorg psycholoog |
-|   | • klinisch psycholoog |
-|   | • orale en maxillo-faciale chirurg |
-|   | • psychotherapeut |
-|   | • verpleeghuisarts |
-|   | • ziekenhuisfarmaceut |
+| Economische Zaken | bedrijfsvoerder gewasbescherming |
+| Economische Zaken | beheerder van een inrichting |
+| Economische Zaken | distributeur van gewasbeschermingsmiddelen |
+| Economische Zaken | preparateur van dieren |
+| Economische Zaken | toepasser van gewasbeschermingsmiddelen |
+| Economische Zaken | toepasser van gewasbeschermingsmiddelen voor de bestrijding van mollen en woelratten |
+| Infrastructuur en Milieu | bestrijder houtrotverwekkende schimmels |
+| Infrastructuur en Milieu | bootman |
+| Infrastructuur en Milieu | noordzeeloods |
+| Infrastructuur en Milieu | distributeur van gasvormige en gasvormende gewasbeschermingsmiddelen en biociden |
+| Infrastructuur en Milieu | gasmeetdeskundige |
+| Infrastructuur en Milieu | gassingsleider |
+| Infrastructuur en Milieu | matroos (binnenvaart) |
+| Infrastructuur en Milieu | matroos-motordrijver |
+| Infrastructuur en Milieu | registerloods |
+| Infrastructuur en Milieu | stuurman (binnenvaart) |
+| Infrastructuur en Milieu | toepasser van biociden voor het afweren of bestrijden van een dierplaag |
+| Infrastructuur en Milieu | VTS-operator |
+| Infrastructuur en Milieu | volmatroos |
+| Sociale Zaken en Werkgelegenheid | deskundig asbestverwijderaar |
+| Sociale Zaken en Werkgelegenheid | deskundig toezichthouder asbestverwijdering |
+| Sociale Zaken en Werkgelegenheid | duiker |
+| Sociale Zaken en Werkgelegenheid | duikerploegleider |
+| Sociale Zaken en Werkgelegenheid | gasdeskundige tankschepen |
+| Sociale Zaken en Werkgelegenheid | kraanmachinist |
+| Sociale Zaken en Werkgelegenheid | schietmeester |
+| Sociale Zaken en Werkgelegenheid | springmeester |
+| Sociale Zaken en Werkgelegenheid | vuurwerkdeskundige |
+| Veiligheid en Justitie | beëdigde tolk |
+| Veiligheid en Justitie | beëdigde vertaler |
+| Volksgezondheid, Welzijn en Sport | arts, apotheker, tandarts, verpleegkundige en verloskundige voor zover de opleiding niet op grond van titel III, hoofdstuk III van richtlijn 2005/36/EG in aanmerking komt voor erkenning op basis van de coördinatie van de minimumopleidingseisen |
+| Volksgezondheid, Welzijn en Sport | arts voor verstandelijk gehandicapten |
+| Volksgezondheid, Welzijn en Sport | fysiotherapeut |
+| Volksgezondheid, Welzijn en Sport | geneeskundig specialisten, vermeld in bijlage 5.1.3 van richtlijn 2005/36/EG, voor zover de opleiding niet op grond van titel III hoofdstuk III van richtlijn 2005/36/EG in aanmerking komt voor erkenning op basis van de coördinatie van de minimumopleidingseisen |
+| Volksgezondheid, Welzijn en Sport | gezondheidszorgpsycholoog |
+| Volksgezondheid, Welzijn en Sport | klinisch neuropsycholoog |
+| Volksgezondheid, Welzijn en Sport | klinisch psycholoog |
+| Volksgezondheid, Welzijn en Sport | klinisch technoloog |
+| Volksgezondheid, Welzijn en Sport | openbaar apotheker |
+| Volksgezondheid, Welzijn en Sport | physician assistant |
+| Volksgezondheid, Welzijn en Sport | psychotherapeut |
+| Volksgezondheid, Welzijn en Sport | specialist ouderengeneeskunde |
+| Volksgezondheid, Welzijn en Sport | sportarts |
+| Volksgezondheid, Welzijn en Sport | tandheelkundig specialisten vermeld in bijlage 5.3.4 van richtlijn 2005/36/EG, voor zover de opleiding niet op grond van titel III, hoofdstuk III van richtlijn 2005/36/EG in aanmerking komt voor erkenning op basis van de coördinatie van de minimumopleidingseisen (orthodontist en mond-, kaak- en aangezichtchirurg) |
+| Volksgezondheid, Welzijn en Sport | verpleegkundig specialist acute zorg bij somatische aandoeningen |
+| Volksgezondheid, Welzijn en Sport | verpleegkundig specialist chronische zorg bij somatische aandoeningen |
+| Volksgezondheid, Welzijn en Sport | verpleegkundig specialist geestelijke gezondheidszorg |
+| Volksgezondheid, Welzijn en Sport | verpleegkundig specialist intensieve zorg bij somatische aandoeningen |
+| Volksgezondheid, Welzijn en Sport | verpleegkundig specialist preventieve zorg bij somatische aandoeningen |
+| Volksgezondheid, Welzijn en Sport | ziekenhuisapotheker |
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
