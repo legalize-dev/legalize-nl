@@ -4,7 +4,7 @@ identifier: "BWBR0023393"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2022-08-01"
-last_updated: "2010-01-01"
+last_updated: "2016-09-09"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0023393"
 soort: "ministeriele-regeling"
@@ -46,7 +46,7 @@ Besluit:
 
 In deze regeling wordt verstaan onder:
 
-- a. wet: [Algemene wet erkenning EG-beroepskwalificaties](https://wetten.overheid.nl/jci1.3:c:BWBR0023066);
+- a. wet: [Algemene wet erkenning EU-beroepskwalificaties](https://wetten.overheid.nl/jci1.3:c:BWBR0023066);
 
 - b. Minister: Minister van Onderwijs, Cultuur en Wetenschap;
 
@@ -76,7 +76,7 @@ Vervallen
 
 ##### Artikel 4. Aanvraag erkenning beroepskwalificaties
 
-De aanvrager verstrekt aan de Minister bij de aanvraag de volgende documenten, bedoeld in [artikel 13 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0023066&artikel=13):
+1. De aanvrager verstrekt aan de Minister bij de aanvraag de volgende documenten, bedoeld in [artikel 13 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0023066&artikel=13):
 
 - a. een bewijs van de nationaliteit alsmede, indien de definitie van migrerende beroepsbeoefenaar als bedoeld in de [wet](https://wetten.overheid.nl/jci1.3:c:BWBR0003549) onder 2° van toepassing is, een door Nederland afgegeven EG-verblijfsvergunning voor langdurig ingezetenen als bedoeld in artikel 8 van [richtlijn nr. 2003/109/EG](32003L0109) van de Raad van de Europese Unie van 25 november 2003 betreffende de status van langdurig ingezeten onderdanen van derde landen (PbEU L 016), of een door een andere betrokken staat dan Nederland afgegeven zodanige EG-verblijfsvergunning en een verblijfsvergunning als bedoeld in [artikel 14 van de Vreemdelingenwet 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=14) of, indien de definitie van migrerende beroepsbeoefenaar als bedoeld in de [wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002399) onder 3° van toepassing is, een verblijfskaart van een familielid van een burger van de Unie of een duurzame verblijfskaart of een ander bewijsmiddel waaruit blijkt dat de aanvrager het verblijfsrecht of het duurzaam verblijfsrecht heeft verkregen als bedoeld in hoofdstuk III, respectievelijk hoofdstuk IV van [richtlijn nr. 2004/38/EG](32004L0038) van het Europees Parlement en de Raad van de Europese Unie van 29 april 2004 betreffende het recht van vrij verkeer en verblijf op het grondgebied van de lidstaten voor de burgers van de Unie en hun familieleden (PbEU L 158 en L 229);
 
@@ -91,6 +91,8 @@ De aanvrager verstrekt aan de Minister bij de aanvraag de volgende documenten, b
 - e. een verklaring omtrent het gedrag als bedoeld in de [Wet justitiële en strafvorderlijke gegevens](https://wetten.overheid.nl/jci1.3:c:BWBR0014194) of een met die verklaring overeenkomend document als bedoeld in [artikel 14, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0023066&artikel=14), of een attest waaruit blijkt van een verklaring onder ede of plechtige verklaring als bedoeld in [artikel 14, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0023066&artikel=14);
 
 - f. indien de aanvraag en de onder b tot en met e bedoelde stukken in een andere dan de Nederlandse, Duitse of Engelse taal zijn gesteld, een door een beëdigd tolk/vertaler opgestelde vertaling daarvan in één van deze talen.
+
+2. Bij toepassing van [artikel 11, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0023066&artikel=11) verstrekt de aanvrager de Minister bij de aanvraag in voorkomend geval een bewijs van kennis, vaardigheden en competenties in het kader van een leven lang leren als bedoeld in artikel 11, derde lid, van de wet.
 
 ##### Artikel 5. Proeve van bekwaamheid
 
@@ -156,6 +158,6 @@ Deze regeling treedt in werking met ingang van de tweede dag na de dagtekening v
 
 ##### Artikel 11. Citeertitel
 
-Deze regeling wordt aangehaald als: Regeling erkenning EG-beroepskwalificaties onderwijspersoneel.
+Deze regeling wordt aangehaald als: Regeling erkenning EU-beroepskwalificaties onderwijspersoneel.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
