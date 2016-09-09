@@ -4,7 +4,7 @@ identifier: "BWBR0034087"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2016-09-09"
-last_updated: "2013-10-29"
+last_updated: "2016-09-09"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0034087"
 soort: "ministeriele-regeling"
@@ -48,11 +48,19 @@ Deze regeling is van toepassing op het burgermedegebruik door tussenkomst van ee
 
 ##### Artikel 2
 
-De burgerexploitant draagt er zorg voor, behoudens ontheffing op basis van [artikel 8a.1, tweede lid, van de Wet luchtvaart](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&artikel=8a.1) vanwege het militaire karakter van de luchthaven, dat het burgermedegebruik plaatsvindt overeenkomstig de eisen ten aanzien van de aanleg, de inrichting, de uitrusting en het gebruik zoals die gelden voor burgerluchthavens op basis van [hoofdstuk 2, afdelingen 3 en 4, van de Regeling veilig gebruik luchthavens en andere terreinen](https://wetten.overheid.nl/jci1.3:c:BWBR0026570&afdeling=3).
+1. De burgerexploitant draagt er zorg voor dat het burgermedegebruik plaatsvindt overeenkomstig de eisen ten aanzien van de aanleg, de inrichting, de uitrusting en het gebruik zoals die gelden op basis van [hoofdstuk 2, afdeling 3, van de Regeling veilig gebruik luchthavens en andere terreinen](https://wetten.overheid.nl/jci1.3:c:BWBR0026570&afdeling=3), met dien verstande dat:
+
+- a. een aanbeveling als bedoeld in de [artikelen 10](https://wetten.overheid.nl/jci1.3:c:BWBR0026570&artikel=10) en [11 van de Regeling veilig gebruik luchthavens en andere terreinen](https://wetten.overheid.nl/jci1.3:c:BWBR0026570&artikel=11) niet van toepassing is, indien vanwege van kracht zijnde militaire veiligheidseisen naleving van een dergelijke aanbeveling door de burgerexploitant niet mogelijk is.
+
+- b. de voorschriften 3.4.7, 9.9.1 en 9.9.2 als bedoeld in [artikel 10 van de Regeling veilig gebruik luchthavens en andere terreinen](https://wetten.overheid.nl/jci1.3:c:BWBR0026570&artikel=10) niet van toepassing zijn op een verkleind geleideblok van een vliegtuigafreminstallatie voor militair gebruik;
+
+2. Van de eisen, bedoeld in de aanhef van het eerste lid kan, met uitzondering van de onder a en b genoemde punten, ontheffing worden verleend.
+
+3. Aan een ontheffing als bedoeld in het tweede lid kunnen beperkingen of voorwaarden worden verbonden.
 
 ##### Artikel 3
 
-Ten aanzien van de certificering van de burgerexploitant zijn de [artikelen 4 tot en met 8 van de Regeling veilig gebruik luchthavens en andere terreinen](https://wetten.overheid.nl/jci1.3:c:BWBR0026570&artikel=4) van overeenkomstige toepassing.
+Ten aanzien van de certificering van de burgerexploitant is [hoofdstuk 2, afdeling 2 van de Regeling veilig gebruik luchthavens en andere terreinen](https://wetten.overheid.nl/jci1.3:c:BWBR0026570&afdeling=2) van overeenkomstige toepassing.
 
 ##### Artikel 4
 
