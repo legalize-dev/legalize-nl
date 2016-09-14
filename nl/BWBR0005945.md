@@ -4,7 +4,7 @@ identifier: "BWBR0005945"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2024-07-01"
-last_updated: "2011-01-01"
+last_updated: "2016-09-14"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0005945"
 soort: "ministeriele-regeling"
@@ -51,7 +51,7 @@ In deze regeling wordt verstaan onder:
 
 1. Bij de bereiding van eet- en drinkwaren worden uitsluitend de volgende oplosmiddelen als extractiemiddel gebruikt:
 
-- a. water, als bedoeld in [artikel 5, eerste lid, van het Warenwetbesluit Bereiding en behandeling van levensmiddelen](https://wetten.overheid.nl/jci1.3:c:BWBR0005758&artikel=5), waaraan ter regeling van de aciditeit of de alkaliciteit stoffen mogen zijn toegevoegd;
+- a. water, waaraan ter regeling van de aciditeit of de alkaliciteit stoffen mogen zijn toegevoegd;
 
 - b. voedingsstoffen;
 
@@ -65,7 +65,7 @@ Extractiemiddelen bevatten per kg niet meer dan 1 mg arseen of 1 mg lood.
 
 ##### Artikel 4
 
-1. Bij het verhandelen van de in [artikel 2, eerste lid, onder c en d](https://wetten.overheid.nl/jci1.3:c:BWBR0005945&artikel=2&z=2011-01-01&g=2011-01-01), bedoelde extractiemiddelen, worden op de verpakking, de recipiënt of het etiket duidelijk leesbaar en onuitwisbaar de volgende aanduidingen, onderscheidenlijk vermeldingen gebezigd:
+1. Bij het verhandelen van de in [artikel 2, eerste lid, onder c en d](https://wetten.overheid.nl/jci1.3:c:BWBR0005945&artikel=2&z=2016-09-14&g=2016-09-14), bedoelde extractiemiddelen, worden op de verpakking, de recipiënt of het etiket duidelijk leesbaar en onuitwisbaar de volgende aanduidingen, onderscheidenlijk vermeldingen gebezigd:
 
 - a. de desbetreffende aanduiding, bedoeld in de bijlage;
 
@@ -95,7 +95,7 @@ Deze regeling wordt aangehaald als: Warenwetregeling Extractiemiddelen.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
-## Bijlage. Extractiemiddelen die mogen worden gebruikt bij de bereiding van grondstoffen, eet- of drinkwaren, of bestanddelen daarvan, zoals bedoeld in [artikel 2, eerste lid, onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0005945&artikel=2&z=2011-01-01&g=2011-01-01)
+## Bijlage. Extractiemiddelen die mogen worden gebruikt bij de bereiding van grondstoffen, eet- of drinkwaren, of bestanddelen daarvan, zoals bedoeld in [artikel 2, eerste lid, onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0005945&artikel=2&z=2016-09-14&g=2016-09-14)
 
 | Deel I |
 | --- |
