@@ -4,7 +4,7 @@ identifier: "BWBR0019228"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2021-05-01"
-last_updated: "2012-07-01"
+last_updated: "2016-09-14"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0019228"
 soort: "ministeriele-regeling"
@@ -42,6 +42,8 @@ Gelet op [artikel 25, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001969
 
 Besluit:
 
+De datum van inwerkingtreding ligt voor de datum van uitgifte.
+
 ##### Artikel 1
 
 In deze regeling wordt verstaan onder:
@@ -54,15 +56,13 @@ In deze regeling wordt verstaan onder:
 
 - d. **het COKZ**: de stichting Centraal Orgaan voor Kwaliteitsaangelegenheden in de Zuivel;
 
-- e. vervallen door vernummering;
+- e. **primaire bedrijven**: inrichtingen waarop bijlage I van [verordening (EG) 852/2004](32004R0852) van toepassing is en waar geen eieren, eiproducten, rauwe melk of zuivelproducten worden geproduceerd, bereid, verpakt of geëtiketteerd;
 
-- f. **primaire bedrijven**: inrichtingen waarop bijlage I van [verordening (EG) 852/2004](32004R0852) van toepassing is en waar geen eieren, eiproducten, rauwe melk of zuivelproducten worden geproduceerd, bereid, verpakt of geëtiketteerd;
+- f. **zuivelinrichtingen**: inrichtingen waar rauwe melk of zuivelproducten worden geproduceerd, bereid, verpakt of geëtiketteerd, bedoeld in bijlage III, sectie IX, van [verordening (EG) 853/2004](32004R0853);
 
-- g. **zuivelinrichtingen**: inrichtingen waar rauwe melk of zuivelproducten worden geproduceerd, bereid, verpakt of geëtiketteerd, bedoeld in bijlage III, sectie IX, van [verordening (EG) 853/2004](32004R0853);
+- g. **ei- en eiproducteninrichtingen**: inrichtingen waar eieren of eiproducten worden geproduceerd, bereid, verpakt of geëtiketteerd, bedoeld in bijlage III, sectie X, van [verordening (EG) 853/2004](32004R0853);
 
-- h. **ei- en eiproducteninrichtingen**: inrichtingen waar eieren of eiproducten worden geproduceerd, bereid, verpakt of geëtiketteerd, bedoeld in bijlage III, sectie X, van [verordening (EG) 853/2004](32004R0853);
-
-- i. **gemengde bedrijven**: een combinatie van onder g, h, of i bedoelde bedrijven.
+- h. **gemengde bedrijven**: een combinatie van onder e, f of g bedoelde bedrijven.
 
 ##### Artikel 2
 
