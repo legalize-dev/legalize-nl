@@ -4,7 +4,7 @@ identifier: "BWBR0034180"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-02-16"
-last_updated: "2015-11-18"
+last_updated: "2016-09-17"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0034180"
 soort: "ministeriele-regeling"
@@ -106,7 +106,7 @@ Deze regeling wordt aangehaald als: Kies- en referendumregeling.
 
 ### Model I 10. Ferbining kandidatelisten ta listkombinaasje
 
-### Model Model J 7 (Wrr 59). Stempas
+### Model Model J 7. ([Wrr 59](https://wetten.overheid.nl/jci1.3:c:BWBR0036443&artikel=59)) Stempas
 
 ### Model J 7
 
@@ -144,7 +144,7 @@ enz.6De lijsten dienen om en om in te springen. Tussen de lijsten dient ruimte t
 
 Stembiljet (kleur wit)
 
-### Model L 11 (Wrr 61). Schriftelijk volmachtbewijs
+### Model L 11. ([Wrr 61](https://wetten.overheid.nl/jci1.3:c:BWBR0036443&artikel=61)) Schriftelijk volmachtbewijs
 
 ### Model N 10-1. ([Wrr 66](https://wetten.overheid.nl/jci1.3:c:BWBR0036443&artikel=66)) Bijlage: aantal stemmen per lijst en kandidaat (bij verkiezingen)
 
@@ -196,7 +196,7 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 ##### Artikel 2a
 
-De programmatuur, bedoeld in [artikel P 1, eerste lid, van het Kiesbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0004632&artikel=P_1), ten behoeve van de berekening van de uitslag van de verkiezingen of de berekening van de zetelverdeling, voldoet aan de in de [bijlage](https://wetten.overheid.nl/jci1.3:c:BWBR0034180&bijlage=2&z=2015-11-18&g=2015-11-18) bij artikel 2a van deze regeling opgenomen eisen.
+De programmatuur, bedoeld in [artikel P 1, eerste lid, van het Kiesbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0004632&artikel=P_1), ten behoeve van de berekening van de uitslag van de verkiezingen of de berekening van de zetelverdeling, voldoet aan de in de [bijlage](https://wetten.overheid.nl/jci1.3:c:BWBR0034180&bijlage=2&z=2016-09-17&g=2016-09-17) bij artikel 2a van deze regeling opgenomen eisen.
 
 ## Bijlage
 
@@ -228,7 +228,7 @@ STEMBILJET voor de verkiezing van de leden van de Tweede Kamer der Staten-Genera
 
 ¹ Indien de retourenveloppe bestemd is voor een kiezer die woont op Aruba, Curaçao of Sint Maarten, dan wel verblijft in een land waar een briefstembureau is gevestigd, wordt de enveloppe geadresseerd aan de Nederlandse Vertegenwoordiging, dan wel de voorzitter van het desbetreffende briefstembureau.
 
-1. Het schriftelijk volmachtbewijs voor de herindelingsverkiezingen van de leden van de gemeenteraden van de gemeenten Edam-Volendam en Gooise Meren op woensdag 18 november 2015 luidt als volgt:
+1. Het model voor het schriftelijk volmachtbewijs voor de herindelingsverkiezingen van de leden van de gemeenteraad van de gemeente Meierijstad op woensdag 23 november 2016 luidt als volgt:
 
 ### Model W 1-2. Benoemingsbesluit in verband met niet toelaten kandidaat als lid
 
@@ -240,11 +240,11 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 ##### Artikel 2b
 
-De programmatuur, bedoeld in [artikel 16 van het Besluit raadgevend referendum](https://wetten.overheid.nl/jci1.3:c:BWBR0036521&artikel=16), ten behoeve van de berekening van de uitslag van het referendum, voldoet aan de in de [bijlage bij artikel 2b](https://wetten.overheid.nl/jci1.3:c:BWBR0034180&bijlage=3&z=2015-11-18&g=2015-11-18) van deze regeling opgenomen eisen.
+De programmatuur, bedoeld in [artikel 16 van het Besluit raadgevend referendum](https://wetten.overheid.nl/jci1.3:c:BWBR0036521&artikel=16), ten behoeve van de berekening van de uitslag van het referendum, voldoet aan de in de [bijlage bij artikel 2b](https://wetten.overheid.nl/jci1.3:c:BWBR0034180&bijlage=3&z=2016-09-17&g=2016-09-17) van deze regeling opgenomen eisen.
 
-## Bijlage. bij [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0034180&artikel=1&z=2015-11-18&g=2015-11-18) van de Kies- en referendumregeling
+## Bijlage. bij [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0034180&artikel=1&z=2016-09-17&g=2016-09-17) van de Kies- en referendumregeling
 
-1. De stempas voor de herindelingsverkiezingen van de leden van de gemeenteraden van de gemeenten Edam-Volendam en Gooise Meren op woensdag 18 november 2015 luidt als volgt:
+1. Het model voor de stempas voor de herindelingsverkiezingen van de leden van de gemeenteraad van de gemeente Meierijstad op woensdag 23 november 2016 luidt als volgt:
 
 ### Model W 1-3. Benoemingsbesluit in verband met openvallen plaats
 
@@ -326,13 +326,13 @@ U stemt door het rood maken van één wit stipje, geplaatst vóór de kandidaat 
 
 ### Model Wrr 118. Vaststelling van het aantal in een openbaar lichaam ingediende ondersteuningsverklaringen (definitief verzoek)
 
-## Bijlage 2. bij [artikel 2a](https://wetten.overheid.nl/jci1.3:c:BWBR0034180&artikel=2a&z=2015-11-18&g=2015-11-18) van de Kies- en referendumregeling
+## Bijlage 2. bij [artikel 2a](https://wetten.overheid.nl/jci1.3:c:BWBR0034180&artikel=2a&z=2016-09-17&g=2016-09-17) van de Kies- en referendumregeling
 
 ### Eisen aan de programmatuur die door de centrale stembureaus wordt gebruikt ten behoeve van de vaststelling van de uitslag van verkiezingen of de berekening van de zetelverdeling
 
 De programmatuur, bedoeld in [artikel P 1, eerste lid, van het Kiesbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0004632&artikel=P_1), ten behoeve van de berekening van de uitslag van de verkiezingen of de berekening van de zetelverdeling, voldoet aan de volgende eisen:
 
-## Bijlage 3. bij [artikel 2b](https://wetten.overheid.nl/jci1.3:c:BWBR0034180&artikel=2b&z=2015-11-18&g=2015-11-18) van de Kies- en referendumregeling
+## Bijlage 3. bij [artikel 2b](https://wetten.overheid.nl/jci1.3:c:BWBR0034180&artikel=2b&z=2016-09-17&g=2016-09-17) van de Kies- en referendumregeling
 
 ### Eisen aan de programmatuur die door het centraal stembureau wordt gebruikt ten behoeve van de berekening van de uitslag van het referendum
 
