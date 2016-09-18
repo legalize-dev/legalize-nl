@@ -4,7 +4,7 @@ identifier: "BWBR0009890"
 country: "nl"
 rank: "amvb"
 publication_date: "2023-04-19"
-last_updated: "2016-05-24"
+last_updated: "2016-09-18"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0009890"
 soort: "AMvB"
@@ -100,7 +100,7 @@ Vervallen
 
 ##### Artikel 2.4
 
-De verboden, bedoeld in de [artikelen 2.1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009890&paragraaf=2&artikel=2.1&z=2016-05-24&g=2016-05-24), en [2.3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009890&paragraaf=2&artikel=2.3&z=2016-05-24&g=2016-05-24), gelden niet met betrekking tot de volgende kwikhoudende producten:
+De verboden, bedoeld in de [artikelen 2.1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009890&paragraaf=2&artikel=2.1&z=2016-09-18&g=2016-09-18), en [2.3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009890&paragraaf=2&artikel=2.3&z=2016-09-18&g=2016-09-18), gelden niet met betrekking tot de volgende kwikhoudende producten:
 
 - a. een pycno- of porosimeter ter bepaling van het poriënvolume van grond of andere poreuze vaste stoffen;
 
@@ -124,7 +124,7 @@ De verboden, bedoeld in de [artikelen 2.1, eerste lid](https://wetten.overheid.n
 
 - k. een apparaat om platina-weerstandsthermometers te kalibreren met behulp van het tripelpunt van kwik;
 
-- l. een product voor gebruik in de scheepvaart waarin de toepassing van kwik bij of krachtens wettelijk voorschrift is voorgeschreven, rechtstreeks met de scheepvaart verband houdende apparatuur waarin de toepassing van kwik naar het oordeel van Onze Minister van Verkeer en Waterstaat noodzakelijk is en scheepsuitrusting waarop [richtlijn nr. 96/98/EG](31996L0098) van de Raad van de Europese Unie van 20 december 1996 inzake uitrusting van zeeschepen (PbEG 1997 L 46) van toepassing is;
+- l. een product voor gebruik in de scheepvaart waarin de toepassing van kwik bij of krachtens wettelijk voorschrift is voorgeschreven, rechtstreeks met de scheepvaart verband houdende apparatuur waarin de toepassing van kwik naar het oordeel van Onze Minister van Infrastructuur en Milieu noodzakelijk is en scheepsuitrusting waarop richtlijn nr. 2014/90/EU van het Europese Parlement en de Raad van 23 juli 2014 inzake uitrusting van zeeschepen en tot intrekking van richtlijn 96/98/EG van de Raad (PbEU L 257) van toepassing is;
 
 - m. een product voor gebruik in de luchtvaart waarin de toepassing van kwik bij of krachtens wettelijk voorschrift is voorgeschreven, alsmede rechtstreeks met de luchtvaart verband houdende apparatuur waarin de toepassing van kwik naar het oordeel van Onze Minister van Verkeer en Waterstaat noodzakelijk is;
 
@@ -134,7 +134,7 @@ De verboden, bedoeld in de [artikelen 2.1, eerste lid](https://wetten.overheid.n
 
 ##### Artikel 2.5
 
-De verboden, bedoeld in de [artikelen 2.1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009890&paragraaf=2&artikel=2.1&z=2016-05-24&g=2016-05-24), en [2.3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009890&paragraaf=2&artikel=2.3&z=2016-05-24&g=2016-05-24), gelden niet met betrekking tot elektrotechnische componenten die dienen als reserve-onderdelen voor apparatuur waarvan degene die deze apparatuur bezit, kan aantonen dat die apparatuur voor 1 januari 2003 voor het eerst voor gebruik ter beschikking is gesteld.
+De verboden, bedoeld in de [artikelen 2.1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009890&paragraaf=2&artikel=2.1&z=2016-09-18&g=2016-09-18), en [2.3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009890&paragraaf=2&artikel=2.3&z=2016-09-18&g=2016-09-18), gelden niet met betrekking tot elektrotechnische componenten die dienen als reserve-onderdelen voor apparatuur waarvan degene die deze apparatuur bezit, kan aantonen dat die apparatuur voor 1 januari 2003 voor het eerst voor gebruik ter beschikking is gesteld.
 
 #### § 2a. Handelingen met kwik en kwikverbindingen
 
@@ -174,7 +174,7 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 ##### Artikel 1.1a
 
-[Artikel 2.6](https://wetten.overheid.nl/jci1.3:c:BWBR0009890&paragraaf=2a&artikel=2.6&z=2016-05-24&g=2016-05-24) is mede van toepassing op handelingen verricht binnen de exclusieve economische zone.
+[Artikel 2.6](https://wetten.overheid.nl/jci1.3:c:BWBR0009890&paragraaf=2a&artikel=2.6&z=2016-09-18&g=2016-09-18) is mede van toepassing op handelingen verricht binnen de exclusieve economische zone.
 
 #### § 2. Handelingen met kwikhoudende producten
 
