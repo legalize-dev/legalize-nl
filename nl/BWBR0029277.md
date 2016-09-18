@@ -4,7 +4,7 @@ identifier: "BWBR0029277"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-07-01"
-last_updated: "2016-02-03"
+last_updated: "2016-09-18"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0029277"
 soort: "ministeriele-regeling"
@@ -56,7 +56,7 @@ Als ambtenaar van de Inspectie Leefomgeving en Transport als bedoeld in de hiern
 
 - –. [artikel 13, eerste lid, van de Wet pleziervaartuigen 2016](https://wetten.overheid.nl/jci1.3:c:BWBR0037546&artikel=13);
 
-- –. [artikel 27, eerste lid, van de Wet scheepsuitrusting](https://wetten.overheid.nl/jci1.3:c:BWBR0011301&artikel=27);
+- –. [artikel 18 van de Regeling scheepsuitrusting 2016](https://wetten.overheid.nl/jci1.3:c:BWBR0038499&artikel=18);
 
 - –. de [artikelen 8, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003642&artikel=8), [8b, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003642&artikel=8b), [14, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003642&artikel=14), [20, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003642&artikel=20), [21](https://wetten.overheid.nl/jci1.3:c:BWBR0003642&artikel=21), [22, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003642&artikel=22), [23, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003642&artikel=23), [24](https://wetten.overheid.nl/jci1.3:c:BWBR0003642&artikel=24) en [25, eerste lid, van de Wet voorkoming verontreiniging door schepen](https://wetten.overheid.nl/jci1.3:c:BWBR0003642&artikel=25);
 
@@ -99,5 +99,11 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 ##### Artikel 2a
 
 Deze regeling – voor zover die berustte op de [Zeevaartbemanningswet](https://wetten.overheid.nl/jci1.3:c:BWBR0009124) – berust op [artikel 49, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009124&artikel=49), en [artikel 55, onderdeel b, van de Wet zeevarenden](https://wetten.overheid.nl/jci1.3:c:BWBR0009124&artikel=55). Voorts berust deze regeling op [artikel 36, eerste lid, van de Wet bestrijding maritieme ongevallen](https://wetten.overheid.nl/jci1.3:c:BWBR0037162&artikel=36).
+
+Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
+
+##### Artikel 2b
+
+Deze regeling – voor zover die berustte op de [Wet scheepsuitrusting](https://wetten.overheid.nl/jci1.3:c:BWBR0011301) – berust mede op [artikel 16 van de Wet scheepsuitrusting 2016](543459).
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
