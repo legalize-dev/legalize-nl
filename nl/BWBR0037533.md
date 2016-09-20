@@ -4,7 +4,7 @@ identifier: "BWBR0037533"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-10-01"
-last_updated: "2016-07-01"
+last_updated: "2016-09-20"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0037533"
 soort: "ministeriele-regeling"
@@ -84,11 +84,11 @@ Besluit:
 
 ##### Artikel 5.1. Inwerkingtreding
 
-1. De [hoofdstukken 1](https://wetten.overheid.nl/jci1.3:c:BWBR0037533&hoofdstuk=1&z=2016-07-01&g=2016-07-01), [3](https://wetten.overheid.nl/jci1.3:c:BWBR0037533&hoofdstuk=3&z=2016-07-01&g=2016-07-01) en [5](https://wetten.overheid.nl/jci1.3:c:BWBR0037533&hoofdstuk=5&z=2016-07-01&g=2016-07-01) treden in werking met ingang van 8 februari 2016.
+1. De [hoofdstukken 1](https://wetten.overheid.nl/jci1.3:c:BWBR0037533&hoofdstuk=1&z=2016-09-20&g=2016-09-20), [3](https://wetten.overheid.nl/jci1.3:c:BWBR0037533&hoofdstuk=3&z=2016-09-20&g=2016-09-20) en [5](https://wetten.overheid.nl/jci1.3:c:BWBR0037533&hoofdstuk=5&z=2016-09-20&g=2016-09-20) treden in werking met ingang van 8 februari 2016.
 
-2. [Hoofdstuk 2](https://wetten.overheid.nl/jci1.3:c:BWBR0037533&hoofdstuk=2&z=2016-07-01&g=2016-07-01) en de [artikelen 4.1 tot en met 4.5](https://wetten.overheid.nl/jci1.3:c:BWBR0037533&hoofdstuk=4&artikel=4.1&z=2016-07-01&g=2016-07-01) treden in werking op 1 juli 2016.
+2. [Hoofdstuk 2](https://wetten.overheid.nl/jci1.3:c:BWBR0037533&hoofdstuk=2&z=2016-09-20&g=2016-09-20) en de [artikelen 4.1 tot en met 4.5](https://wetten.overheid.nl/jci1.3:c:BWBR0037533&hoofdstuk=4&artikel=4.1&z=2016-09-20&g=2016-09-20) treden in werking op 1 juli 2016.
 
-3. De [artikelen 4.6](https://wetten.overheid.nl/jci1.3:c:BWBR0037533&hoofdstuk=4&artikel=4.6&z=2016-07-01&g=2016-07-01) en [4.7](https://wetten.overheid.nl/jci1.3:c:BWBR0037533&hoofdstuk=4&artikel=4.7&z=2016-07-01&g=2016-07-01) treden in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin deze regeling wordt geplaatst en werken terug tot en met 4 november 2015.
+3. De [artikelen 4.6](https://wetten.overheid.nl/jci1.3:c:BWBR0037533&hoofdstuk=4&artikel=4.6&z=2016-09-20&g=2016-09-20) en [4.7](https://wetten.overheid.nl/jci1.3:c:BWBR0037533&hoofdstuk=4&artikel=4.7&z=2016-09-20&g=2016-09-20) treden in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin deze regeling wordt geplaatst en werken terug tot en met 4 november 2015.
 
 ##### Artikel 5.2. Citeertitel
 
@@ -112,7 +112,7 @@ Een instelling met een wettelijke taak dient jaarlijks uiterlijk op 30 juni een 
 
 ##### Artikel 3.2. In te dienen documenten
 
-1. Een aanvraag voor subsidie gaat vergezeld van een begroting en voor zover van toepassing een onderhouds- en investeringsplan als bedoeld in [artikel 3.9](https://wetten.overheid.nl/jci1.3:c:BWBR0037533&hoofdstuk=3&artikel=3.9&z=2016-07-01&g=2016-07-01).
+1. Een aanvraag voor subsidie gaat vergezeld van een begroting en voor zover van toepassing een onderhouds- en investeringsplan als bedoeld in [artikel 3.9](https://wetten.overheid.nl/jci1.3:c:BWBR0037533&hoofdstuk=3&artikel=3.9&z=2016-09-20&g=2016-09-20).
 
 2. De begroting behelst een overzicht van de voor het kalenderjaar geraamde baten en lasten van de aanvrager, voor zover deze betrekking hebben op de wettelijke taak waarmee de instelling is belast.
 
@@ -220,7 +220,7 @@ Indien na uitvoering van de taak, bedoeld in [artikel 2.8 van de Erfgoedwet](htt
 
 ### Hoofdstuk 4. Wijziging andere regelingen
 
-### Hoofdstuk 5. Slotbepalingen
+### Hoofdstuk 4. Wijziging andere regelingen
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
@@ -280,7 +280,7 @@ Een beheerder zorgt dat museale cultuurgoederen van de Staat zich bevinden in vo
 
 ##### Artikel 2.6. Verzekering
 
-1. De minister wie het aangaat of een college van staat verzekert de risico’s van schade voor of aansprakelijkheid van de Staat, bedoeld in [artikel 2.5, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037533&hoofdstuk=2&artikel=2.5&z=2016-07-01&g=2016-07-01), om redenen van doelmatigheid in het algemeen niet.
+1. De minister wie het aangaat of een college van staat verzekert de risico’s van schade voor of aansprakelijkheid van de Staat, bedoeld in [artikel 2.5, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037533&hoofdstuk=2&artikel=2.5&z=2016-09-20&g=2016-09-20), om redenen van doelmatigheid in het algemeen niet.
 
 2. Een besluit tot verzekeren van risico als bedoeld in het eerste lid, wordt genomen in overeenstemming met de Minister van Financiën.
 
@@ -295,6 +295,16 @@ Een beheerder zorgt dat museale cultuurgoederen van de Staat zich bevinden in vo
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 ### Hoofdstuk 4. Wijziging andere regelingen
+
+### Hoofdstuk 5. Slotbepalingen
+
+Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
+
+##### Artikel 3.4a. Aanvullend bedrag loon-/prijspeil
+
+1. Aan de bedragen van de subsidies die worden verleend op grond van dit hoofdstuk kan, al dan niet in afwijking van de desbetreffende subsidieplafonds, een bedrag worden toegevoegd, rekening houdend met de ontwikkeling van het prijspeil en met de ontwikkeling van de kosten in de arbeidsvoorwaarden voorafgaand aan en tijdens het jaar waarop de subsidieverlening betrekking heeft.
+
+2. Bij toepassing van het eerste lid bepaalt de minister welk deel van de subsidie hij in aanmerking neemt voor bijstelling in verband met de ontwikkeling van de kosten in de arbeidsvoorwaarden en welk deel van de subsidie hij in aanmerking neemt voor bijstelling in verband met de ontwikkeling van het prijspeil.
 
 ### Hoofdstuk 5. Slotbepalingen
 
