@@ -4,7 +4,7 @@ identifier: "BWBR0038948"
 country: "nl"
 rank: "wet"
 publication_date: "2018-01-01"
-last_updated: "2015-07-01"
+last_updated: "2016-09-20"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0038948"
 soort: "wet"
@@ -41,8 +41,6 @@ entry_into_force: "2017-01-01"
 ##### Artikel I
 
 Wijzigt de Wet inkomstenbelasting 2001.
-
-Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel II
 
@@ -148,7 +146,11 @@ Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel XIV
 
-Dit onderdeel is nog niet inwerking getreden
+[Artikel 4.16, eerste lid, aanhef en onderdeel k, van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=4.16) is niet van toepassing indien de toepassing van [artikel 4.13, eerste lid, onderdeel a, van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=4.13) het gevolg is van:
+
+- a. een vóór 20 september 2016, 15.15 uur, ingediend verzoek als bedoeld in [artikel 6a, eerste lid, van de Wet op de vennootschapsbelasting 1969](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&artikel=6a); of
+
+- b. het met terugwerkende kracht tot en met 20 september 2016, 15.15 uur, aan de belastingplichtige toerekenen van de betreffende aandelen of winstbewijzen waarop tot dat tijdstip [artikel 2.14a, zevende lid, van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=2.14a), zoals dat tot dat tijdstip luidde, van toepassing was.
 
 ##### Artikel XIVa
 
@@ -167,11 +169,3 @@ Dit onderdeel is nog niet inwerking getreden
 ##### Artikel XVII
 
 Dit onderdeel is nog niet inwerking getreden
-
-Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
-
-Alzo Wij in overweging genomen hebben, dat het voor het jaar 2017 wenselijk is een aantal fiscale maatregelen te treffen die voortvloeien uit de koopkrachtbesluitvorming en dat het in het kader van het fiscale beleid voor het jaar 2017 wenselijk is in een aantal belastingwetten en enige andere wetten wijzigingen, bijstellingen of technische reparaties aan te brengen die uiterlijk 1 januari 2017 in werking moeten treden;
-
-Zo is het, dat Wij, de Afdeling advisering van de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
-
-Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren die zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
