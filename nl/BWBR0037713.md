@@ -4,7 +4,7 @@ identifier: "BWBR0037713"
 country: "nl"
 rank: "zbo"
 publication_date: "2016-09-21"
-last_updated: "2016-07-13"
+last_updated: "2016-09-21"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0037713"
 soort: "zbo"
@@ -43,7 +43,7 @@ Heeft besloten het volgende bestuursreglement vast te stellen:
 
 In dit reglement wordt verstaan onder:
 
-- a. **de wet:** de [Wet raadgevend referendum](https://wetten.overheid.nl/jci1.3:c:BWBR0036443&wetgeving);
+- a. **de wet:** de [Wet raadgevend referendum](https://wetten.overheid.nl/jci1.3:c:BWBR0036443);
 
 - b. **Commissie:** de Referendumcommissie;
 
@@ -55,7 +55,7 @@ In dit reglement wordt verstaan onder:
 
 - f. **uitvoeringsorganisatie:** de organisatie die de subsidieregeling van de Commissie uitvoert;
 
-- g. **handhavingskader:** het door de commissie vastgestelde kader aan de hand waarvan:
+- g. **vaststellingskader:** het door de commissie vastgestelde kader aan de hand waarvan:
 
 - 1°. bij rechtspersonen aan wie subsidie is verleend de subsidie wordt vastgesteld;
 
@@ -65,7 +65,7 @@ In dit reglement wordt verstaan onder:
 
 ##### Artikel 2
 
-1. De Commissie vervult de taken die haar bij [wet](https://wetten.overheid.nl/jci1.3:c:BWBR0036443&wetgeving) zijn toegekend.
+1. De Commissie vervult de taken die haar bij [wet](https://wetten.overheid.nl/jci1.3:c:BWBR0036443) zijn toegekend.
 
 2. De Commissie verricht de werkzaamheden die noodzakelijk zijn om de in het eerste lid bedoelde taken naar behoren te kunnen vervullen.
 
@@ -163,11 +163,11 @@ Dit reglement treedt in werking op de dag na zijn bekendmaking en werkt terug to
 
 ##### Artikel 8a
 
-In afwijking van het [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0037713&hoofdstuk=2&artikel=8&z=2016-07-13&g=2016-07-13) kan de voorzitter, respectievelijk eerste plaatsvervangend voorzitter of de tweede plaatsvervangend voorzitter, besluiten nemen en stukken ondertekenen met betrekking tot:
+In afwijking van het [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0037713&hoofdstuk=2&artikel=8&z=2016-09-21&g=2016-09-21) kan de voorzitter, respectievelijk eerste plaatsvervangend voorzitter of de tweede plaatsvervangend voorzitter, besluiten nemen en stukken ondertekenen met betrekking tot:
 
-- a. besluiten als bedoeld in de [artikelen 4:42](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:42), [4:46](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:46) en [4:95 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:95) ten aanzien van rechtspersonen, indien de uitvoeringsorganisatie adviseert dat de subsidie kan worden vastgesteld op basis van het handhavingskader;
+- a. besluiten als bedoeld in de [artikelen 4:42](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:42), [4:46](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:46) en [4:95 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:95) ten aanzien van rechtspersonen, indien de uitvoeringsorganisatie adviseert dat de subsidie kan worden vastgesteld op basis van het vaststellingskader;
 
-- b. besluiten als bedoeld in de [artikelen 4:49](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:49) en [4:57 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:57) ten aanzien van natuurlijke personen, indien de uitvoeringsorganisatie adviseert dat de subsidie kan worden ingetrokken of gewijzigd op basis van het handhavingskader.
+- b. besluiten als bedoeld in de [artikelen 4:49](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:49) en [4:57 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:57) ten aanzien van natuurlijke personen, indien de uitvoeringsorganisatie adviseert dat de subsidie kan worden ingetrokken of gewijzigd op basis van het vaststellingskader.
 
 ### Hoofdstuk 3. Werkwijzen en procedures
 
