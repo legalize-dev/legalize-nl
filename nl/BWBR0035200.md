@@ -4,7 +4,7 @@ identifier: "BWBR0035200"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2016-09-23"
-last_updated: "2014-06-17"
+last_updated: "2016-09-23"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0035200"
 soort: "ministeriele-regeling"
@@ -42,15 +42,15 @@ Besluit:
 
 ##### Artikel 1
 
-Van het ingevolge artikel 1 van de Mandaatregeling DGJS Ministerie van Veiligheid en Justitie 2012 aan de hoofddirecteur Dienst Justitiële Inrichtingen verleende ondermandaat wordt aan de ambtenaren, bedoeld in kolom 1 van bijlage 1 bij deze regeling ondermandaat verleend inzake het nemen van rechtspositionele besluiten ten aanzien van ambtenaren die administratief zijn ondergebracht in de Administratieve Organisatie VWNW, voor zover het betreft de uitoefening van de bevoegdheden, vermeld in kolom 2 van die bijlage.
+Van het ingevolge [artikel 1 van het Mandaatbesluit DGSenB Ministerie van Veiligheid en Justitie 2015](https://wetten.overheid.nl/jci1.3:c:BWBR0036844&artikel=1) aan de hoofddirecteur Dienst Justitiële Inrichtingen verleende ondermandaat wordt aan de ambtenaren, bedoeld in kolom 1 van [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0035200&bijlage=1&z=2016-09-23&g=2016-09-23) bij deze regeling ondermandaat verleend inzake het nemen van rechtspositionele besluiten ten aanzien van ambtenaren die administratief zijn ondergebracht in de Administratieve Organisatie VWNW, voor zover het betreft de uitoefening van de bevoegdheden, vermeld in kolom 2 van die bijlage.
 
 ##### Artikel 2
 
-Van het ingevolge artikel 1 van de Mandaatregeling DGJS Ministerie van Veiligheid en Justitie 2012 aan de hoofddirecteur Dienst Justitiële Inrichtingen verleende ondermandaat worden aangewezen de ambtenaren, genoemd in kolom 1 van bijlage 2 bij deze regeling als bevoegd om te beschikken over bedragen voor het aangaan van verplichtingen en voor het verrichten van uitgaven voor zover het betreft de bedragen, genoemd in kolom 2 van die bijlage.
+Van het ingevolge [artikel 1 van het Mandaatbesluit DGSenB Ministerie van Veiligheid en Justitie 2015](https://wetten.overheid.nl/jci1.3:c:BWBR0036844&artikel=1) aan de hoofddirecteur Dienst Justitiële Inrichtingen verleende ondermandaat worden aangewezen de ambtenaren, genoemd in kolom 1 van [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0035200&bijlage=2&z=2016-09-23&g=2016-09-23) bij deze regeling als bevoegd om te beschikken over bedragen voor het aangaan van verplichtingen en voor het verrichten van uitgaven voor zover het betreft de bedragen, genoemd in kolom 2 van die bijlage.
 
 ##### Artikel 3
 
-Deze regeling treedt in werking met ingang van de dag na dagtekening van de Staatscourant waarin zij wordt geplaatst en vervalt met ingang van 1 januari 2020. [Bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0035200&bijlage=1&z=2014-06-17&g=2014-06-17) en [2](https://wetten.overheid.nl/jci1.3:c:BWBR0035200&bijlage=2&z=2014-06-17&g=2014-06-17) bij dit besluit liggen bij de vestigingen van de Dienst Justitiële Inrichtingen ter inzage.
+Deze regeling treedt in werking met ingang van de dag na dagtekening van de Staatscourant waarin zij wordt geplaatst en vervalt met ingang van 1 januari 2020. [Bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0035200&bijlage=1&z=2016-09-23&g=2016-09-23) en [2](https://wetten.overheid.nl/jci1.3:c:BWBR0035200&bijlage=2&z=2016-09-23&g=2016-09-23) bij dit besluit liggen bij de vestigingen van de Dienst Justitiële Inrichtingen ter inzage.
 
 ##### Artikel 4
 
