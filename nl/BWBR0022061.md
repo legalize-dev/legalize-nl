@@ -4,7 +4,7 @@ identifier: "BWBR0022061"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-02-12"
-last_updated: "2016-08-01"
+last_updated: "2016-09-27"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0022061"
 soort: "ministeriele-regeling"
@@ -44,7 +44,7 @@ Besluit:
 
 ##### Artikel 1. Vaststelling examenprogramma’s v.w.o en h.a.v.o.
 
-De examenprogramma’s v.w.o. en h.a.v.o. worden vastgesteld zoals aangegeven in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0022061&bijlage=1&z=2016-08-01&g=2016-08-01) bij deze regeling.
+De examenprogramma’s v.w.o. en h.a.v.o. worden vastgesteld zoals aangegeven in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0022061&bijlage=1&z=2016-09-27&g=2016-09-27) bij deze regeling.
 
 ##### Artikel 2. Vaststelling examenprogramma’s vmbo
 
@@ -168,7 +168,7 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst, met u
 
 Vervallen
 
-## Bijlage 1. behorende bij [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0022061&artikel=1&z=2016-09-27&g=2016-08-01) van de Regeling examenprogramma’s voortgezet onderwijs
+## Bijlage 1. behorende bij [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0022061&artikel=1&z=2016-09-27&g=2016-09-27) van de Regeling examenprogramma’s voortgezet onderwijs
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst, met uitzondering van de bijlagen, die ter inzage worden gelegd in de bibliotheek van het Ministerie van Onderwijs, Cultuur en Wetenschap.
 
@@ -6358,7 +6358,7 @@ Het examenprogramma bestaat uit de volgende domeinen:
 
 Het examenprogramma bestaat uit de volgende domeinen:
 
-## Bijlage 2. , behorende bij [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0022061&artikel=2&z=2016-09-27&g=2016-08-01) van de Regeling examenprogramma’s voortgezet onderwijs
+## Bijlage 2. , behorende bij [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0022061&artikel=2&z=2016-09-27&g=2016-09-27) van de Regeling examenprogramma’s voortgezet onderwijs
 
 Administratie, handel en administratie, handel en verkoop, mode en commercie (met als codering voor het gezamenlijke CE: HAV).
 
