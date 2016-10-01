@@ -4,7 +4,7 @@ identifier: "BWBR0013030"
 country: "nl"
 rank: "amvb"
 publication_date: "2017-07-01"
-last_updated: "2012-10-01"
+last_updated: "2016-10-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0013030"
 soort: "AMvB"
@@ -58,11 +58,11 @@ In dit besluit wordt verstaan onder:
 
 - b. klacht: een uiting van onvrede over de toepassing van de wet of de daarop berustende bepalingen door een klager;
 
-- c. klager: degene als bedoeld in [artikel 9, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013030&paragraaf=3&artikel=9&z=2012-10-01&g=2012-10-01), die de klacht indient;
+- c. klager: degene als bedoeld in [artikel 9, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013030&paragraaf=3&artikel=9&z=2017-06-20&g=2016-10-01), die de klacht indient;
 
 - d. verweerder: degene tegen wie de klacht is gericht;
 
-- e. commissie: de commissie, bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0013030&paragraaf=2&artikel=3&z=2012-10-01&g=2012-10-01);
+- e. commissie: de commissie, bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0013030&paragraaf=2&artikel=3&z=2017-06-20&g=2016-10-01);
 
 - f. Onze Minister: Onze Minister van Sociale Zaken en Werkgelegenheid;
 
@@ -126,7 +126,7 @@ Dit besluit is van toepassing op een keuring als bedoeld in [artikel 1, onderdee
 
 1. De commissie heeft ter uitvoering van haar taak de volgende bevoegdheden:
 
-- a. het inwinnen van informatie en het raadplegen en inzien van stukken, voor zover dit voor de vervulling van haar taak, bedoeld in [artikel 5, eerste lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0013030&paragraaf=2&artikel=5&z=2012-10-01&g=2012-10-01), redelijkerwijs nodig is;
+- a. het inwinnen van informatie en het raadplegen en inzien van stukken, voor zover dit voor de vervulling van haar taak, bedoeld in [artikel 5, eerste lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0013030&paragraaf=2&artikel=5&z=2017-06-20&g=2016-10-01), redelijkerwijs nodig is;
 
 - b. personen die direct bij de ingediende klacht zijn betrokken en getuigen te verzoeken te verschijnen en hen te horen;
 
@@ -182,7 +182,7 @@ Indien klager hetzij voorafgaand aan de indiening van een klacht bij de commissi
 
 ##### Artikel 12
 
-De commissie doet binnen een week na de ontvangst van de klacht dan wel, bij toepassing van [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0013030&paragraaf=4&artikel=11&z=2012-10-01&g=2012-10-01), binnen een week na ontvangst van de aanvullende informatie, mededeling van de inhoud van de klacht aan de verweerder, met het verzoek daarop binnen twee weken schriftelijk te reageren. De commissie kan zo nodig deze laatste termijn verlengen.
+De commissie doet binnen een week na de ontvangst van de klacht dan wel, bij toepassing van [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0013030&paragraaf=4&artikel=11&z=2017-06-20&g=2016-10-01), binnen een week na ontvangst van de aanvullende informatie, mededeling van de inhoud van de klacht aan de verweerder, met het verzoek daarop binnen twee weken schriftelijk te reageren. De commissie kan zo nodig deze laatste termijn verlengen.
 
 ##### Artikel 13
 
