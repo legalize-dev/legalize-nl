@@ -4,7 +4,7 @@ identifier: "BWBR0035606"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2016-10-01"
-last_updated: "2014-10-01"
+last_updated: "2016-10-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0035606"
 soort: "ministeriele-regeling"
@@ -70,9 +70,9 @@ In dit besluit wordt verstaan onder:
 
 ##### Artikel 3
 
-1. De commissie bestaat uit een voorzitter en ten minste drie en ten hoogste vijf andere leden.
+1. De commissie bestaat uit een voorzitter en ten minste drie en ten hoogste zeven andere leden.
 
-2. De voorzitter en de andere leden worden door de Minister benoemd voor een termijn van twee jaar. De voorzitter en de andere leden zijn herbenoembaar.
+2. De voorzitter en de andere leden worden door de Minister benoemd. De voorzitter en de andere leden zijn herbenoembaar.
 
 3. De voorzitter en de andere leden kunnen door de Minister worden geschorst en ontslagen.
 
@@ -98,7 +98,7 @@ In dit besluit wordt verstaan onder:
 
 ##### Artikel 6
 
-Ter gelegenheid van de instelling van de commissie worden voor de periode van 1 oktober 2014 tot en met 30 september 2016 tot lid van de commissie benoemd:
+Voor de periode van 1 oktober 2016 tot en met 31 december 2019 worden tot lid van de commissie benoemd:
 
 - a. de heer dr. R. Penning de Vries, te Nijmegen, tevens voorzitter;
 
@@ -106,9 +106,13 @@ Ter gelegenheid van de instelling van de commissie worden voor de periode van 1 
 
 - c. de heer. G. Edelijn Msc, te Zwolle;
 
-- d. de heer prof. dr. R.L. Lagendijk, te Voorhout;
+- d. de heer prof. dr. ir. E. Fledderus, te Woerden;
 
-- e. de heer B. Woldring, te Groningen.
+- e. de heer prof. dr. R.L. Lagendijk, te Voorhout;
+
+- f. mevrouw ir. J. Peek, te Zeist;
+
+- g. de heer B. Woldring (afkomstig uit het Midden- en Klein Bedrijf), te Groningen.
 
 ##### Artikel 7
 
@@ -117,5 +121,11 @@ Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van
 ##### Artikel 8
 
 Dit besluit wordt aangehaald als: Instellingsbesluit bevorderen ICT-innovatie.
+
+Dit besluit zal met de toelichting in de Staatscourant worden geplaatst en in afschrift worden gezonden aan betrokkenen.
+
+##### Artikel 7a
+
+Dit besluit vervalt met ingang van 1 januari 2020.
 
 Dit besluit zal met de toelichting in de Staatscourant worden geplaatst en in afschrift worden gezonden aan betrokkenen.
