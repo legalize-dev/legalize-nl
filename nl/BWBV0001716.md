@@ -4,7 +4,7 @@ identifier: "BWBV0001716"
 country: "nl"
 rank: "verdrag"
 publication_date: "2021-09-02"
-last_updated: "2013-10-01"
+last_updated: "2016-10-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBV0001716"
 soort: "verdrag"
@@ -211,7 +211,7 @@ Het gezag van rechterlijke beslissingen die in een van de drie staten met toepas
 
 ##### Artikel 1.15. Benelux-Gerechtshof
 
-Het Benelux-Gerechtshof als bedoeld in [artikel 1 van het Verdrag betreffende de instelling en het statuut van een Benelux-Gerechtshof](https://wetten.overheid.nl/jci1.3:c:BWBV0004117&artikel=1), neemt kennis van de vragen van uitlegging van dit verdrag en het uitvoeringsreglement, met uitzondering van vragen van uitlegging betreffende het in [artikel 1.6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=I&artikel=1.6&z=2013-10-01&g=2013-10-01), bedoelde protocol inzake voorrechten en immuniteiten.
+Het Benelux-Gerechtshof als bedoeld in [artikel 1 van het Verdrag betreffende de instelling en het statuut van een Benelux-Gerechtshof](https://wetten.overheid.nl/jci1.3:c:BWBV0004117&artikel=1), neemt kennis van de vragen van uitlegging van dit verdrag en het uitvoeringsreglement, met uitzondering van vragen van uitlegging betreffende het in [artikel 1.6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=I&artikel=1.6&z=2016-10-01&g=2016-10-01), bedoelde protocol inzake voorrechten en immuniteiten.
 
 ##### Artikel 1.16. Toepassing
 
@@ -751,7 +751,7 @@ Indien voor een Gemeenschapsmerk de anciënniteit van een ouder merkrecht wordt 
 
 - b. de uiterlijke kenmerken van een voortbrengsel die noodzakelijkerwijs in precies dezelfde vorm en afmetingen gereproduceerd moeten worden om het voortbrengsel waarin de tekening of het model verwerkt is of waarop het toegepast is, mechanisch met een ander voortbrengsel te kunnen verbinden of om het in, rond of tegen een ander voortbrengsel te kunnen plaatsen, zodat elk van beide voortbrengselen zijn functie kan vervullen.
 
-2. In afwijking van lid 1, sub b, worden de uiterlijke kenmerken van een voortbrengsel die tot doel hebben binnen een modulair systeem de meervoudige samenvoeging of verbinding van onderling verwisselbare voortbrengselen mogelijk te maken, beschermd door een modelrecht onder de in [artikel 3.1, lid 1](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=III&hoofdstuk=1&artikel=3.1&z=2013-10-01&g=2013-10-01), gestelde voorwaarden.
+2. In afwijking van lid 1, sub b, worden de uiterlijke kenmerken van een voortbrengsel die tot doel hebben binnen een modulair systeem de meervoudige samenvoeging of verbinding van onderling verwisselbare voortbrengselen mogelijk te maken, beschermd door een modelrecht onder de in [artikel 3.1, lid 1](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=III&hoofdstuk=1&artikel=3.1&z=2016-10-01&g=2016-10-01), gestelde voorwaarden.
 
 ##### Artikel 3.3. Nieuwheid en eigen karakter
 
@@ -785,11 +785,11 @@ Indien voor een Gemeenschapsmerk de anciënniteit van een ouder merkrecht wordt 
 
 1. Onverminderd het recht van voorrang wordt het uitsluitend recht op een tekening of model verkregen door de inschrijving van het depot, verricht binnen het Benelux-gebied bij het Bureau (Benelux-depot), of verricht bij het Internationaal Bureau (internationaal depot).
 
-2. Indien bij samenloop van depots het eerste depot niet wordt gevolgd door de publicatie als bedoeld in [artikel 3.11, lid 2](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=III&hoofdstuk=2&artikel=3.11&z=2013-10-01&g=2013-10-01), van dit verdrag of in [artikel 6, onder 3 van de Overeenkomst van 's-Gravenhage](https://wetten.overheid.nl/jci1.3:c:BWBV0002034&artikel=6), verkrijgt het latere depot de rang van eerste depot.
+2. Indien bij samenloop van depots het eerste depot niet wordt gevolgd door de publicatie als bedoeld in [artikel 3.11, lid 2](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=III&hoofdstuk=2&artikel=3.11&z=2016-10-01&g=2016-10-01), van dit verdrag of in [artikel 6, onder 3 van de Overeenkomst van 's-Gravenhage](https://wetten.overheid.nl/jci1.3:c:BWBV0002034&artikel=6), verkrijgt het latere depot de rang van eerste depot.
 
 ##### Artikel 3.6. Restricties
 
-Binnen de in [artikelen 3.23](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=III&hoofdstuk=4&artikel=3.23&z=2013-10-01&g=2013-10-01) en [3.24, lid 2](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=III&hoofdstuk=4&artikel=3.24&z=2013-10-01&g=2013-10-01), gestelde grenzen wordt geen recht op een tekening of model verkregen door de inschrijving indien:
+Binnen de in [artikelen 3.23](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=III&hoofdstuk=4&artikel=3.23&z=2016-10-01&g=2016-10-01) en [3.24, lid 2](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=III&hoofdstuk=4&artikel=3.24&z=2016-10-01&g=2016-10-01), gestelde grenzen wordt geen recht op een tekening of model verkregen door de inschrijving indien:
 
 - a. de tekening of het model in strijd is met een oudere tekening die of ouder model dat na de datum van depot of na de datum van voorrang voor het publiek beschikbaar is gesteld en vanaf een aan deze datum voorafgaand tijdstip beschermd wordt door een uitsluitend recht dat voortvloeit uit een Gemeenschapsmodel, de inschrijving van een Benelux-depot dan wel door een internationaal depot;
 
@@ -841,7 +841,7 @@ Binnen de in [artikelen 3.23](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&ti
 
 1. Het Bureau schrijft onverwijld de Benelux-depots in, evenals de internationale depots die gepubliceerd zijn in het „Bulletin International des dessins ou modèles – International Design Gazette" ten aanzien waarvan de deposanten verzocht hebben dat zij hun werking zullen uitstrekken over het Benelux-gebied.
 
-2. Onverminderd het bepaalde in [artikelen 3.12](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=III&hoofdstuk=2&artikel=3.12&z=2013-10-01&g=2013-10-01) en [3.13](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=III&hoofdstuk=2&artikel=3.13&z=2013-10-01&g=2013-10-01), publiceert het Bureau overeenkomstig het uitvoeringsreglement zo spoedig mogelijk de inschrijvingen van Benelux-depots.
+2. Onverminderd het bepaalde in [artikelen 3.12](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=III&hoofdstuk=2&artikel=3.12&z=2016-10-01&g=2016-10-01) en [3.13](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=III&hoofdstuk=2&artikel=3.13&z=2016-10-01&g=2016-10-01), publiceert het Bureau overeenkomstig het uitvoeringsreglement zo spoedig mogelijk de inschrijvingen van Benelux-depots.
 
 3. Indien de kenmerkende eigenschappen van de tekening of het model in de publicatie niet voldoende tot hun recht komen, kan de deposant, binnen de daartoe vastgestelde termijn, het Bureau verzoeken kosteloos een tweede publicatie te verrichten.
 
@@ -893,7 +893,7 @@ De internationale depots geschieden volgens de bepalingen van de [Overeenkomst v
 
 ##### Artikel 3.17. Schadevergoeding en andere vorderingen
 
-1. De houder kan op grond van het uitsluitend recht slechts schadevergoeding vorderen voor de in [artikel 3.16](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=III&hoofdstuk=3&artikel=3.16&z=2013-10-01&g=2013-10-01) opgesomde handelingen, indien deze hebben plaatsgevonden na de in [artikel 3.11](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=III&hoofdstuk=2&artikel=3.11&z=2013-10-01&g=2013-10-01) bedoelde publicatie, waarin de kenmerkende eigenschappen van de tekening of het model op voldoende wijze werden weergegeven.
+1. De houder kan op grond van het uitsluitend recht slechts schadevergoeding vorderen voor de in [artikel 3.16](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=III&hoofdstuk=3&artikel=3.16&z=2016-10-01&g=2016-10-01) opgesomde handelingen, indien deze hebben plaatsgevonden na de in [artikel 3.11](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=III&hoofdstuk=2&artikel=3.11&z=2016-10-01&g=2016-10-01) bedoelde publicatie, waarin de kenmerkende eigenschappen van de tekening of het model op voldoende wijze werden weergegeven.
 
 2. De rechter die de schadevergoeding vaststelt:
 
@@ -903,11 +903,11 @@ De internationale depots geschieden volgens de bepalingen van de [Overeenkomst v
 
 3. De rechter kan bij wijze van schadevergoeding op vordering van de houder van het uitsluitend recht op een tekening of model bevelen tot de afgifte aan deze houder, van de goederen die een inbreuk maken op een tekening- of modelrecht, alsmede, in passende gevallen, van de materialen en werktuigen die voornamelijk bij de productie van die goederen zijn gebruikt. De rechter kan gelasten dat de afgifte niet plaatsvindt dan tegen een door hem vast te stellen, door de eiser te betalen vergoeding.
 
-4. Naast of in plaats van een vordering tot schadevergoeding, kan de houder van een uitsluitend recht op een tekening of model een vordering instellen tot het afdragen van ten gevolge van het in [artikel 3.16](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=III&hoofdstuk=3&artikel=3.16&z=2013-10-01&g=2013-10-01), bedoelde gebruik genoten winst alsmede tot het afleggen van rekening en verantwoording dienaangaande. Indien de rechter van oordeel is dat dit gebruik niet te kwader trouw is of dat de omstandigheden van het geval tot zulk een veroordeling geen aanleiding geven, wijst hij de vordering af.
+4. Naast of in plaats van een vordering tot schadevergoeding, kan de houder van een uitsluitend recht op een tekening of model een vordering instellen tot het afdragen van ten gevolge van het in [artikel 3.16](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=III&hoofdstuk=3&artikel=3.16&z=2016-10-01&g=2016-10-01), bedoelde gebruik genoten winst alsmede tot het afleggen van rekening en verantwoording dienaangaande. Indien de rechter van oordeel is dat dit gebruik niet te kwader trouw is of dat de omstandigheden van het geval tot zulk een veroordeling geen aanleiding geven, wijst hij de vordering af.
 
-5. De houder van het uitsluitend recht op een tekening of model kan de vordering tot schadevergoeding of het afdragen van winst namens de licentiehouder instellen, onverminderd de aan deze laatste in [artikel 3.26, lid 4](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=III&hoofdstuk=5&artikel=3.26&z=2013-10-01&g=2013-10-01), toegekende bevoegdheid.
+5. De houder van het uitsluitend recht op een tekening of model kan de vordering tot schadevergoeding of het afdragen van winst namens de licentiehouder instellen, onverminderd de aan deze laatste in [artikel 3.26, lid 4](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=III&hoofdstuk=5&artikel=3.26&z=2016-10-01&g=2016-10-01), toegekende bevoegdheid.
 
-6. Vanaf de datum van depot kan een redelijke vergoeding gevorderd worden van degene die met wetenschap van het depot handelingen heeft verricht als bedoeld in [artikel 3.16](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=III&hoofdstuk=3&artikel=3.16&z=2013-10-01&g=2013-10-01), voor zover de houder daarvoor uitsluitende rechten heeft gekregen.
+6. Vanaf de datum van depot kan een redelijke vergoeding gevorderd worden van degene die met wetenschap van het depot handelingen heeft verricht als bedoeld in [artikel 3.16](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=III&hoofdstuk=3&artikel=3.16&z=2016-10-01&g=2016-10-01), voor zover de houder daarvoor uitsluitende rechten heeft gekregen.
 
 ##### Artikel 3.18. Nevenvorderingen
 
@@ -951,7 +951,7 @@ De internationale depots geschieden volgens de bepalingen van de [Overeenkomst v
 
 3. Het uitsluitend recht op een tekening of model dat een onderdeel vormt van een samengesteld voortbrengsel houdt niet het recht in zich te verzetten tegen het gebruik van de tekening of het model voor reparatie van dit samengestelde voortbrengsel met de bedoeling het zijn oorspronkelijke uiterlijk terug te geven.
 
-4. Het uitsluitend recht op een tekening of model houdt niet in het recht zich te verzetten tegen de in [artikel 3.16](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=III&hoofdstuk=3&artikel=3.16&z=2013-10-01&g=2013-10-01) bedoelde handelingen die betrekking hebben op voortbrengselen die in één der lidstaten van de Europese Gemeenschap of van de Europese Economische Ruimte in het verkeer zijn gebracht door de houder of met diens toestemming, of tegen handelingen als bedoeld in [artikel 3.20](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=III&hoofdstuk=3&artikel=3.20&z=2013-10-01&g=2013-10-01).
+4. Het uitsluitend recht op een tekening of model houdt niet in het recht zich te verzetten tegen de in [artikel 3.16](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=III&hoofdstuk=3&artikel=3.16&z=2016-10-01&g=2016-10-01) bedoelde handelingen die betrekking hebben op voortbrengselen die in één der lidstaten van de Europese Gemeenschap of van de Europese Economische Ruimte in het verkeer zijn gebracht door de houder of met diens toestemming, of tegen handelingen als bedoeld in [artikel 3.20](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=III&hoofdstuk=3&artikel=3.20&z=2016-10-01&g=2016-10-01).
 
 5. De vorderingen kunnen geen betrekking hebben op voortbrengselen die vóór de datum van het depot in het Benelux-gebied in het verkeer werden gebracht.
 
@@ -963,7 +963,7 @@ De internationale depots geschieden volgens de bepalingen van de [Overeenkomst v
 
 3. Dit recht wordt echter niet toegekend aan de derde, die de tekening of het model zonder toestemming van de ontwerper heeft nagemaakt.
 
-4. Op grond van het recht van voorgebruik kan de houder daarvan de vervaardiging van bedoelde voortbrengselen voortzetten of, in het geval bedoeld in lid 2, een aanvang maken met deze vervaardiging en, niettegenstaande het uit de inschrijving voortvloeiende recht, alle andere in [artikel 3.16](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=III&hoofdstuk=3&artikel=3.16&z=2013-10-01&g=2013-10-01) bedoelde handelingen verrichten, met uitzondering van invoer.
+4. Op grond van het recht van voorgebruik kan de houder daarvan de vervaardiging van bedoelde voortbrengselen voortzetten of, in het geval bedoeld in lid 2, een aanvang maken met deze vervaardiging en, niettegenstaande het uit de inschrijving voortvloeiende recht, alle andere in [artikel 3.16](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=III&hoofdstuk=3&artikel=3.16&z=2016-10-01&g=2016-10-01) bedoelde handelingen verrichten, met uitzondering van invoer.
 
 5. Het recht van voorgebruik kan slechts overgaan tezamen met het bedrijf waarin de handelingen, die hebben geleid tot het ontstaan van dat recht, hebben plaatsgevonden.
 
@@ -983,7 +983,7 @@ De internationale depots geschieden volgens de bepalingen van de [Overeenkomst v
 
 ##### Artikel 3.22. Verval van het recht
 
-Behoudens het bepaalde in [artikel 3.7, lid 2](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=III&hoofdstuk=1&artikel=3.7&z=2013-10-01&g=2013-10-01), vervalt het uitsluitend recht op een tekening of model:
+Behoudens het bepaalde in [artikel 3.7, lid 2](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=III&hoofdstuk=1&artikel=3.7&z=2016-10-01&g=2016-10-01), vervalt het uitsluitend recht op een tekening of model:
 
 - a. door vrijwillige doorhaling of door het verstrijken van de geldigheidsduur van de inschrijving van het Benelux-depot;
 
@@ -993,21 +993,21 @@ Behoudens het bepaalde in [artikel 3.7, lid 2](https://wetten.overheid.nl/jci1.3
 
 1. Iedere belanghebbende met inbegrip van het Openbaar Ministerie kan de nietigheid inroepen van de inschrijving van een tekening of model indien:
 
-- a. de tekening of het model geen tekening of model is in de zin van [artikel 3.1, lid 2 en 3](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=III&hoofdstuk=1&artikel=3.1&z=2013-10-01&g=2013-10-01);
+- a. de tekening of het model geen tekening of model is in de zin van [artikel 3.1, lid 2 en 3](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=III&hoofdstuk=1&artikel=3.1&z=2016-10-01&g=2016-10-01);
 
-- b. de tekening of het model niet voldoet aan de voorwaarden gesteld in [artikel 3.1, lid 1](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=III&hoofdstuk=1&artikel=3.1&z=2013-10-01&g=2013-10-01), en de [artikelen 3.3](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=III&hoofdstuk=1&artikel=3.3&z=2013-10-01&g=2013-10-01) en [3.4](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=III&hoofdstuk=1&artikel=3.4&z=2013-10-01&g=2013-10-01);
+- b. de tekening of het model niet voldoet aan de voorwaarden gesteld in [artikel 3.1, lid 1](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=III&hoofdstuk=1&artikel=3.1&z=2016-10-01&g=2016-10-01), en de [artikelen 3.3](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=III&hoofdstuk=1&artikel=3.3&z=2016-10-01&g=2016-10-01) en [3.4](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=III&hoofdstuk=1&artikel=3.4&z=2016-10-01&g=2016-10-01);
 
-- c. de tekening of het model onder de toepassing van [artikel 3.2](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=III&hoofdstuk=1&artikel=3.2&z=2013-10-01&g=2013-10-01) valt;
+- c. de tekening of het model onder de toepassing van [artikel 3.2](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=III&hoofdstuk=1&artikel=3.2&z=2016-10-01&g=2016-10-01) valt;
 
-- d. door die inschrijving krachtens [artikel 3.6, sub e of f](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=III&hoofdstuk=1&artikel=3.6&z=2013-10-01&g=2013-10-01), geen recht op een tekening of model wordt verkregen.
+- d. door die inschrijving krachtens [artikel 3.6, sub e of f](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=III&hoofdstuk=1&artikel=3.6&z=2016-10-01&g=2016-10-01), geen recht op een tekening of model wordt verkregen.
 
-2. Enkel de deposant of houder van een uitsluitend recht op een tekening of model dat voortvloeit uit een inschrijving van een Gemeenschapsmodel, een Benelux-inschrijving, of een internationaal depot, kan de nietigheid inroepen van de inschrijving van een met zijn recht strijdig jonger depot van een tekening of model, indien krachtens [artikel 3.6, sub a](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=III&hoofdstuk=1&artikel=3.6&z=2013-10-01&g=2013-10-01), door de inschrijving geen recht op de tekening of het model wordt verkregen.
+2. Enkel de deposant of houder van een uitsluitend recht op een tekening of model dat voortvloeit uit een inschrijving van een Gemeenschapsmodel, een Benelux-inschrijving, of een internationaal depot, kan de nietigheid inroepen van de inschrijving van een met zijn recht strijdig jonger depot van een tekening of model, indien krachtens [artikel 3.6, sub a](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=III&hoofdstuk=1&artikel=3.6&z=2016-10-01&g=2016-10-01), door de inschrijving geen recht op de tekening of het model wordt verkregen.
 
-3. Enkel de houder van een ouder merkrecht of de houder van een ouder auteursrecht kan de nietigheid van de inschrijving van het Benelux-depot of de voor het Benelux-gebied uit het internationaal depot van die tekening of dat model voortvloeiende rechten inroepen, indien krachtens [artikel 3.6, sub b, respectievelijk sub c](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=III&hoofdstuk=1&artikel=3.6&z=2013-10-01&g=2013-10-01), geen recht op de tekening of het model wordt verkregen.
+3. Enkel de houder van een ouder merkrecht of de houder van een ouder auteursrecht kan de nietigheid van de inschrijving van het Benelux-depot of de voor het Benelux-gebied uit het internationaal depot van die tekening of dat model voortvloeiende rechten inroepen, indien krachtens [artikel 3.6, sub b, respectievelijk sub c](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=III&hoofdstuk=1&artikel=3.6&z=2016-10-01&g=2016-10-01), geen recht op de tekening of het model wordt verkregen.
 
-4. Enkel de belanghebbende kan de nietigheid van de inschrijving van de tekening of het model inroepen, indien krachtens [artikel 3.6, sub d](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=III&hoofdstuk=1&artikel=3.6&z=2013-10-01&g=2013-10-01), geen recht op de tekening of het model wordt verkregen.
+4. Enkel de belanghebbende kan de nietigheid van de inschrijving van de tekening of het model inroepen, indien krachtens [artikel 3.6, sub d](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=III&hoofdstuk=1&artikel=3.6&z=2016-10-01&g=2016-10-01), geen recht op de tekening of het model wordt verkregen.
 
-5. Enkel de ontwerper van een tekening of model als bedoeld in [artikel 3.7, lid 1](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=III&hoofdstuk=1&artikel=3.7&z=2013-10-01&g=2013-10-01), kan onder de voorwaarden genoemd in dat artikel de nietigheid inroepen van de inschrijving van een depot van de tekening of het model, dat zonder zijn toestemming is verricht door een derde.
+5. Enkel de ontwerper van een tekening of model als bedoeld in [artikel 3.7, lid 1](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=III&hoofdstuk=1&artikel=3.7&z=2016-10-01&g=2016-10-01), kan onder de voorwaarden genoemd in dat artikel de nietigheid inroepen van de inschrijving van een depot van de tekening of het model, dat zonder zijn toestemming is verricht door een derde.
 
 6. De inschrijving van het depot van een tekening of model kan ook na verval of afstand nietig worden verklaard.
 
@@ -1017,7 +1017,7 @@ Behoudens het bepaalde in [artikel 3.7, lid 2](https://wetten.overheid.nl/jci1.3
 
 1. Behoudens het bepaalde in lid 2, hebben de nietigverklaring, de vrijwillige doorhaling en de afstand steeds betrekking op de gehele tekening of het gehele model.
 
-2. Wanneer de inschrijving van het depot van een tekening of model op grond van [artikel 3.6, sub b, c, d of e](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=III&hoofdstuk=1&artikel=3.6&z=2013-10-01&g=2013-10-01), en [artikel 3.23, lid 1, sub b en c](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=III&hoofdstuk=4&artikel=3.23&z=2013-10-01&g=2013-10-01), nietig kan worden verklaard, kan het depot worden gehandhaafd in gewijzigde vorm, indien de tekening of het model in die vorm aan de beschermingsvoorwaarden voldoet en de identiteit ervan behouden blijft.
+2. Wanneer de inschrijving van het depot van een tekening of model op grond van [artikel 3.6, sub b, c, d of e](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=III&hoofdstuk=1&artikel=3.6&z=2016-10-01&g=2016-10-01), en [artikel 3.23, lid 1, sub b en c](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=III&hoofdstuk=4&artikel=3.23&z=2016-10-01&g=2016-10-01), nietig kan worden verklaard, kan het depot worden gehandhaafd in gewijzigde vorm, indien de tekening of het model in die vorm aan de beschermingsvoorwaarden voldoet en de identiteit ervan behouden blijft.
 
 3. De handhaving bedoeld in lid 2, kan erin bestaan dat een verklaring van de houder dat hij gedeeltelijk afziet van aanspraken op het recht, of een rechterlijke beslissing waarbij het recht gedeeltelijk nietig is verklaard en die niet meer vatbaar is voor verzet noch voor hoger beroep noch voor voorziening in cassatie, wordt ingeschreven.
 
@@ -1041,9 +1041,9 @@ Behoudens het bepaalde in [artikel 3.7, lid 2](https://wetten.overheid.nl/jci1.3
 
 3. De doorhaling van de inschrijving van de licentie in het register vindt slechts plaats op gezamenlijk verzoek van de houder van de tekening of het model en de licentiehouder.
 
-4. De licentiehouder is bevoegd in een door de houder van het uitsluitend recht op een tekening of model ingestelde vordering als bedoeld in [artikel 3.17, lid 1 tot en met 4](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=III&hoofdstuk=3&artikel=3.17&z=2013-10-01&g=2013-10-01), tussen te komen om rechtstreeks de door hem geleden schade vergoed te krijgen of zich een evenredig deel van de door de gedaagde genoten winst te doen toewijzen. Een zelfstandige vordering als bedoeld in artikel 3.17, lid 1 tot en met 4, kan de licentiehouder slechts instellen indien hij de bevoegdheid daartoe van de houder van het uitsluitend recht heeft bedongen.
+4. De licentiehouder is bevoegd in een door de houder van het uitsluitend recht op een tekening of model ingestelde vordering als bedoeld in [artikel 3.17, lid 1 tot en met 4](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=III&hoofdstuk=3&artikel=3.17&z=2016-10-01&g=2016-10-01), tussen te komen om rechtstreeks de door hem geleden schade vergoed te krijgen of zich een evenredig deel van de door de gedaagde genoten winst te doen toewijzen. Een zelfstandige vordering als bedoeld in artikel 3.17, lid 1 tot en met 4, kan de licentiehouder slechts instellen indien hij de bevoegdheid daartoe van de houder van het uitsluitend recht heeft bedongen.
 
-5. De licentiehouder heeft het recht de in [artikel 3.18, lid 1](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=III&hoofdstuk=3&artikel=3.18&z=2013-10-01&g=2013-10-01), bedoelde bevoegdheden uit te oefenen voor zover deze strekken tot bescherming van de rechten waarvan hem de uitoefening is toegestaan, indien hij daartoe toestemming van de houder van het uitsluitend recht op een tekening of model heeft verkregen.
+5. De licentiehouder heeft het recht de in [artikel 3.18, lid 1](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=III&hoofdstuk=3&artikel=3.18&z=2016-10-01&g=2016-10-01), bedoelde bevoegdheden uit te oefenen voor zover deze strekken tot bescherming van de rechten waarvan hem de uitoefening is toegestaan, indien hij daartoe toestemming van de houder van het uitsluitend recht op een tekening of model heeft verkregen.
 
 ##### Artikel 3.27. Derdenwerking
 
@@ -1057,11 +1057,11 @@ De overdracht of andere overgang of de licentie kan niet aan derden worden tegen
 
 2. De deposant van een tekening of model wordt vermoed tevens de houder te zijn van het desbetreffende auteursrecht; dit vermoeden geldt echter niet ten aanzien van de werkelijke ontwerper of zijn rechtverkrijgende.
 
-3. Onverminderd de toepassing van [artikel 3.25](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=III&hoofdstuk=5&artikel=3.25&z=2013-10-01&g=2013-10-01) houdt overdracht van het auteursrecht inzake een tekening of model tevens overdracht in van het recht op de tekening of het model en omgekeerd.
+3. Onverminderd de toepassing van [artikel 3.25](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=III&hoofdstuk=5&artikel=3.25&z=2016-10-01&g=2016-10-01) houdt overdracht van het auteursrecht inzake een tekening of model tevens overdracht in van het recht op de tekening of het model en omgekeerd.
 
 ##### Artikel 3.29. Auteursrecht van werk- en opdrachtgevers
 
-Wanneer een tekening of model onder de omstandigheden als bedoeld in [artikel 3.8](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=III&hoofdstuk=1&artikel=3.8&z=2013-10-01&g=2013-10-01) werd ontworpen, komt het auteursrecht inzake bedoelde tekening of model toe aan degene die overeenkomstig het in dat artikel bepaalde als de ontwerper wordt beschouwd.
+Wanneer een tekening of model onder de omstandigheden als bedoeld in [artikel 3.8](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=III&hoofdstuk=1&artikel=3.8&z=2016-10-01&g=2016-10-01) werd ontworpen, komt het auteursrecht inzake bedoelde tekening of model toe aan degene die overeenkomstig het in dat artikel bepaalde als de ontwerper wordt beschouwd.
 
 ## TITEL IV. OVERIGE BEPALINGEN
 
@@ -1151,7 +1151,7 @@ Artikel III van het protocol van 11 december 2001 houdende wijziging van de eenv
 
 ##### Artikel 5.5. Eerste uitvoeringsreglement
 
-In afwijking van het bepaalde in [artikel 1.9, lid 2](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=I&artikel=1.9&z=2013-10-01&g=2013-10-01), zijn de Raad van Bestuur van het Benelux-Merkenbureau en de Raad van Bestuur van het Benelux-Bureau voor Tekeningen of Modellen bevoegd het eerste uitvoeringsreglement gezamenlijk vast te stellen.
+In afwijking van het bepaalde in [artikel 1.9, lid 2](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=I&artikel=1.9&z=2016-10-01&g=2016-10-01), zijn de Raad van Bestuur van het Benelux-Merkenbureau en de Raad van Bestuur van het Benelux-Bureau voor Tekeningen of Modellen bevoegd het eerste uitvoeringsreglement gezamenlijk vast te stellen.
 
 ## TITEL VI. SLOTBEPALINGEN
 
@@ -1165,7 +1165,7 @@ Dit verdrag zal worden bekrachtigd. De akten van bekrachtiging zullen worden ned
 
 2. Vervallen.
 
-3. [Artikel 5.5](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=V&artikel=5.5&z=2013-10-01&g=2013-10-01) wordt voorlopig toegepast.
+3. [Artikel 5.5](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=V&artikel=5.5&z=2016-10-01&g=2016-10-01) wordt voorlopig toegepast.
 
 ##### Artikel 6.3. Duur van het verdrag
 
@@ -1195,7 +1195,7 @@ Zijn het volgende overeengekomen:
 
 ##### Artikel 1
 
-1. In de zin van dit Protocol wordt onder officiële werkzaamheden van de Organisatie die werkzaamheden verstaan welke strikt noodzakelijk zijn voor de uitvoering van haar taak zoals die is vastgesteld in [artikel 1.3](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=I&artikel=1.3&z=2013-10-01&g=2013-10-01) van het Verdrag.
+1. In de zin van dit Protocol wordt onder officiële werkzaamheden van de Organisatie die werkzaamheden verstaan welke strikt noodzakelijk zijn voor de uitvoering van haar taak zoals die is vastgesteld in [artikel 1.3](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=I&artikel=1.3&z=2016-10-01&g=2016-10-01) van het Verdrag.
 
 2. De in dit Protocol aan vertegenwoordigers van de Hoge Verdragsluitende Partijen, aan hun plaatsvervangers, hun raadgevers of deskundigen, aan de Directeur-generaal, de personeelsleden van de Organisatie en aan de deskundigen die namens de Organisatie een functie uitoefenen of voor haar een zending uitvoeren, toegekende voorrechten en immuniteiten zijn niet bedoeld om de betrokkenen tot persoonlijk voordeel te strekken. Zij beogen uitsluitend het onbelemmerd functioneren van de Organisatie onder alle omstandigheden, alsmede de volledige onafhankelijkheid van de betrokkenen.
 
@@ -1275,7 +1275,7 @@ De Directeur-generaal en de personeelsleden van de Organisatie:
 
 ##### Artikel 8
 
-1. Naast de in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&artikel=7&z=2013-10-01&g=2013-10-01) vastgelegde voorrechten en immuniteiten geniet de Directeur-generaal de voorrechten en immuniteiten die zijn toegekend aan een diplomatiek ambtenaar ingevolge het [Verdrag van Wenen van 18 april 1961 inzake diplomatiek verkeer](https://wetten.overheid.nl/jci1.3:c:BWBV0004345).
+1. Naast de in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&artikel=7&z=2016-10-01&g=2016-10-01) vastgelegde voorrechten en immuniteiten geniet de Directeur-generaal de voorrechten en immuniteiten die zijn toegekend aan een diplomatiek ambtenaar ingevolge het [Verdrag van Wenen van 18 april 1961 inzake diplomatiek verkeer](https://wetten.overheid.nl/jci1.3:c:BWBV0004345).
 
 2. De immuniteit van rechtsmacht geldt niet met betrekking tot civiele vorderingen die voortvloeien uit door de Directeur-generaal in de privé-sfeer veroorzaakte schade dan wel uit door hem in de privé-sfeer afgesloten contracten.
 
@@ -1291,7 +1291,7 @@ Deskundigen die namens de Organisatie een functie uitoefenen of voor haar een ze
 
 ##### Artikel 10
 
-1. De Hoge Verdragsluitende Partijen zijn niet verplicht de in [artikelen 6](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&artikel=6&z=2013-10-01&g=2013-10-01), 7b en [8](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&artikel=8&z=2013-10-01&g=2013-10-01) bedoelde voorrechten en immuniteiten toe te kennen aan:
+1. De Hoge Verdragsluitende Partijen zijn niet verplicht de in [artikelen 6](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&artikel=6&z=2016-10-01&g=2016-10-01), 7b en [8](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&artikel=8&z=2016-10-01&g=2016-10-01) bedoelde voorrechten en immuniteiten toe te kennen aan:
 
 - a. hun eigen onderdanen;
 
@@ -1301,11 +1301,11 @@ Deskundigen die namens de Organisatie een functie uitoefenen of voor haar een ze
 
 ##### Artikel 11
 
-1. De Directeur-generaal heeft de plicht de immuniteit van de personeelsleden bedoeld in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&artikel=7&z=2013-10-01&g=2013-10-01) evenals van de deskundigen bedoeld in [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&artikel=9&z=2013-10-01&g=2013-10-01) op te heffen indien hij van oordeel is dat deze immuniteit aan de loop van het recht in de weg staat en indien het mogelijk is van deze immuniteit afstand te doen zonder de belangen van de Organisatie in gevaar te brengen.
+1. De Directeur-generaal heeft de plicht de immuniteit van de personeelsleden bedoeld in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&artikel=7&z=2016-10-01&g=2016-10-01) evenals van de deskundigen bedoeld in [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&artikel=9&z=2016-10-01&g=2016-10-01) op te heffen indien hij van oordeel is dat deze immuniteit aan de loop van het recht in de weg staat en indien het mogelijk is van deze immuniteit afstand te doen zonder de belangen van de Organisatie in gevaar te brengen.
 
-2. De Raad van Bestuur kan op dezelfde gronden de aan de Directeur-generaal toegekende immuniteiten, bedoeld in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&artikel=8&z=2013-10-01&g=2013-10-01), opheffen.
+2. De Raad van Bestuur kan op dezelfde gronden de aan de Directeur-generaal toegekende immuniteiten, bedoeld in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&artikel=8&z=2016-10-01&g=2016-10-01), opheffen.
 
-3. Elke Hoge Verdragsluitende Partij heeft de plicht de immuniteit op te heffen van haar vertegenwoordigers alsmede van haar plaatsvervangers, raadgevers of deskundigen, bedoeld in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&artikel=6&z=2013-10-01&g=2013-10-01), telkens wanneer, naar het oordeel van de betreffende Staat, de immuniteit aan de loop van het recht in de weg zou staan, en er afstand van kan worden gedaan zonder de doeleinden waarvoor zij was toegekend in gevaar te brengen.
+3. Elke Hoge Verdragsluitende Partij heeft de plicht de immuniteit op te heffen van haar vertegenwoordigers alsmede van haar plaatsvervangers, raadgevers of deskundigen, bedoeld in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&artikel=6&z=2016-10-01&g=2016-10-01), telkens wanneer, naar het oordeel van de betreffende Staat, de immuniteit aan de loop van het recht in de weg zou staan, en er afstand van kan worden gedaan zonder de doeleinden waarvoor zij was toegekend in gevaar te brengen.
 
 ##### Artikel 12
 
@@ -1545,7 +1545,7 @@ De aanvraag om inschrijving zoals bedoeld in [artikel 9quinquies van het Protoco
 
 1. De oppositie wordt volgens de volgende procedure behandeld:
 
-- a. het Bureau beslist overeenkomstig [regel 1.18](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=I&hoofdstuk=3&artikel=1.18&z=2013-10-01&g=2013-10-01) of de oppositie ontvankelijk is en stelt partijen of, in het in [artikel 2.18](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=II&hoofdstuk=4&artikel=2.18&z=2013-10-01&g=2013-10-01) van het Verdrag bedoelde geval, de opposant en het Internationaal Bureau hiervan in kennis;
+- a. het Bureau beslist overeenkomstig [regel 1.18](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=I&hoofdstuk=3&artikel=1.18&z=2016-10-01&g=2016-10-01) of de oppositie ontvankelijk is en stelt partijen of, in het in [artikel 2.18](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=II&hoofdstuk=4&artikel=2.18&z=2016-10-01&g=2016-10-01) van het Verdrag bedoelde geval, de opposant en het Internationaal Bureau hiervan in kennis;
 
 - b. de procedure vangt twee maanden na de kennisgeving van ontvankelijkheid aan op voorwaarde dat de voor de oppositie verschuldigde rechten volledig zijn betaald. Het Bureau stuurt partijen een mededeling van aanvang van de procedure;
 
@@ -1559,23 +1559,23 @@ De aanvraag om inschrijving zoals bedoeld in [artikel 9quinquies van het Protoco
 
 - g. indien het Bureau daartoe gronden aanwezig acht kan het een of meer partijen verzoeken om binnen een daartoe gestelde termijn aanvullende argumenten of stukken in te dienen;
 
-- h. er kan een mondelinge behandeling worden gehouden overeenkomstig [regel 1.27](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=I&hoofdstuk=3&artikel=1.27&z=2013-10-01&g=2013-10-01); .
+- h. er kan een mondelinge behandeling worden gehouden overeenkomstig [regel 1.27](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=I&hoofdstuk=3&artikel=1.27&z=2016-10-01&g=2016-10-01); .
 
 - i. het Bureau neemt een beslissing. Indien een oppositie die op verscheidene oudere merken berust op basis van één van deze merken wordt toegewezen, neemt het Bureau over de overige ingeroepen merken geen beslissing.
 
-2. Indien verweerder geen domicilie binnen de Europese Unie of de Europese Economische Ruimte heeft, dient binnen de in lid 1, sub d genoemde termijn alsnog aan dit vereiste van [regel 3.6](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=III&hoofdstuk=3&artikel=3.6&z=2013-10-01&g=2013-10-01) te worden voldaan.
+2. Indien verweerder geen domicilie binnen de Europese Unie of de Europese Economische Ruimte heeft, dient binnen de in lid 1, sub d genoemde termijn alsnog aan dit vereiste van [regel 3.6](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=III&hoofdstuk=3&artikel=3.6&z=2016-10-01&g=2016-10-01) te worden voldaan.
 
 ##### Regel 1.18. Ontvankelijkheidsvereisten
 
-1. De oppositie is ontvankelijk wanneer zij is ingediend binnen de in [artikel 2.14, lid 1](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=II&hoofdstuk=4&artikel=2.14&z=2013-10-01&g=2013-10-01), of [2.18, lid 1](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=II&hoofdstuk=4&artikel=2.18&z=2013-10-01&g=2013-10-01), van het Verdrag genoemde termijn, voldoet aan de voorwaarden bedoeld in [regel 1.16, lid 1, sub a tot en met f](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=I&hoofdstuk=3&artikel=1.16&z=2013-10-01&g=2013-10-01), van dit reglement, en artikel 2.14, lid 4, van het Verdrag.
+1. De oppositie is ontvankelijk wanneer zij is ingediend binnen de in [artikel 2.14, lid 1](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=II&hoofdstuk=4&artikel=2.14&z=2016-10-01&g=2016-10-01), of [2.18, lid 1](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=II&hoofdstuk=4&artikel=2.18&z=2016-10-01&g=2016-10-01), van het Verdrag genoemde termijn, voldoet aan de voorwaarden bedoeld in [regel 1.16, lid 1, sub a tot en met f](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=I&hoofdstuk=3&artikel=1.16&z=2016-10-01&g=2016-10-01), van dit reglement, en artikel 2.14, lid 4, van het Verdrag.
 
-2. Voor het vaststellen van de ontvankelijkheid van de oppositie is aan het vereiste van [artikel 2.14, lid 4](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=II&hoofdstuk=4&artikel=2.14&z=2013-10-01&g=2013-10-01), van het Verdrag voldaan indien 40% van de verschuldigde rechten is voldaan.
+2. Voor het vaststellen van de ontvankelijkheid van de oppositie is aan het vereiste van [artikel 2.14, lid 4](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=II&hoofdstuk=4&artikel=2.14&z=2016-10-01&g=2016-10-01), van het Verdrag voldaan indien 40% van de verschuldigde rechten is voldaan.
 
-3. Onverminderd het bepaalde in het vorige lid kan bij indiening het totale verschuldigde recht voor het indienen van de oppositie worden betaald. Het vorige lid laat onverlet dat het totale verschuldigde recht voor het einde van de termijn bepaald in [regel 1.17, lid 1, sub b](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=I&hoofdstuk=3&artikel=1.17&z=2013-10-01&g=2013-10-01), dient te zijn voldaan.
+3. Onverminderd het bepaalde in het vorige lid kan bij indiening het totale verschuldigde recht voor het indienen van de oppositie worden betaald. Het vorige lid laat onverlet dat het totale verschuldigde recht voor het einde van de termijn bepaald in [regel 1.17, lid 1, sub b](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=I&hoofdstuk=3&artikel=1.17&z=2016-10-01&g=2016-10-01), dient te zijn voldaan.
 
 4. Indien de oppositie is gebaseerd op meer merken dan waarvoor de rechten zijn betaald, wordt de oppositie in behandeling genomen maar worden alleen de merken in aanmerking genomen waarvoor de rechten betaald zijn, volgens de volgorde zoals bij indiening van de oppositie vermeld.
 
-5. Indien de ingevolge [regel 1.16, lid 1, sub a en b](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=I&hoofdstuk=3&artikel=1.16&z=2013-10-01&g=2013-10-01), verstrekte gegevens niet overeenstemmen met de geregistreerde gegevens van een ingevolge regel 1.16, lid 1, sub c, ingeroepen Beneluxmerk, wordt de ingediende oppositie door het Bureau tevens opgevat als een verzoek tot aantekening van een wijziging in het register. Het bepaalde in regel 3.1 is van overeenkomstige toepassing met dien verstande dat de termijn bepaald in regel 3.1, lid 5, maximaal twee weken bedraagt. Wanneer het in regel 1.16, lid 1, sub c, bedoelde oudere merk een gemeenschapsmerk of een internationaal merk betreft, stelt het Bureau opposant een termijn van twee weken om aan te tonen dat hij het nodige heeft gedaan om het betreffende register in overeenstemming te brengen met de door hem bij indiening van de oppositie verstrekte gegevens.
+5. Indien de ingevolge [regel 1.16, lid 1, sub a en b](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=I&hoofdstuk=3&artikel=1.16&z=2016-10-01&g=2016-10-01), verstrekte gegevens niet overeenstemmen met de geregistreerde gegevens van een ingevolge regel 1.16, lid 1, sub c, ingeroepen Beneluxmerk, wordt de ingediende oppositie door het Bureau tevens opgevat als een verzoek tot aantekening van een wijziging in het register. Het bepaalde in regel 3.1 is van overeenkomstige toepassing met dien verstande dat de termijn bepaald in regel 3.1, lid 5, maximaal twee weken bedraagt. Wanneer het in regel 1.16, lid 1, sub c, bedoelde oudere merk een gemeenschapsmerk of een internationaal merk betreft, stelt het Bureau opposant een termijn van twee weken om aan te tonen dat hij het nodige heeft gedaan om het betreffende register in overeenstemming te brengen met de door hem bij indiening van de oppositie verstrekte gegevens.
 
 6. Indien de geldigheid van een ingeroepen ouder merk verstrijkt voor het einde van de termijn voor het instellen van oppositie en dit merk ingevolge de toepasselijke wettelijke bepalingen nog kan worden vernieuwd, stelt het Bureau opposant een termijn van twee weken om dit merk alsnog te vernieuwen. Indien het betreffende oudere merk een gemeenschapsmerk of een internationaal merk is, stelt het Bureau een termijn van twee weken om aan te tonen dat het nodige is gedaan om het merk te vernieuwen.
 
@@ -1619,7 +1619,7 @@ De aanvraag om inschrijving zoals bedoeld in [artikel 9quinquies van het Protoco
 
 4. Op verzoek van een partij vertaalt het Bureau de oppositiebeslissing in de andere werktaal van het Bureau.
 
-5. Vertaling kan worden verzocht bij indiening van de akte van oppositie of bij de mededeling van verweerder als bedoeld in [regel 1.20, lid 4, sub b](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=I&hoofdstuk=3&artikel=1.20&z=2013-10-01&g=2013-10-01).
+5. Vertaling kan worden verzocht bij indiening van de akte van oppositie of bij de mededeling van verweerder als bedoeld in [regel 1.20, lid 4, sub b](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=I&hoofdstuk=3&artikel=1.20&z=2016-10-01&g=2016-10-01).
 
 6. Argumenten die niet in een van de werktalen van het Bureau zijn ingediend, worden als niet-ingediend beschouwd.
 
@@ -1631,9 +1631,9 @@ Vervallen
 
 ##### Regel 1.23. Wijziging taalkeuze
 
-1. Tot de aanvang van de procedure kunnen de ingevolge [regel 1.20](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=I&hoofdstuk=3&artikel=1.20&z=2013-10-01&g=2013-10-01) gemaakte keuzen op gezamenlijk verzoek van partijen worden gewijzigd.
+1. Tot de aanvang van de procedure kunnen de ingevolge [regel 1.20](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=I&hoofdstuk=3&artikel=1.20&z=2016-10-01&g=2016-10-01) gemaakte keuzen op gezamenlijk verzoek van partijen worden gewijzigd.
 
-2. Gedurende de oppositieprocedure kan elke partij schriftelijk te kennen geven niet langer prijs te stellen op vertaling door het Bureau bedoeld in [regel 1.21](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=I&hoofdstuk=3&artikel=1.21&z=2013-10-01&g=2013-10-01).
+2. Gedurende de oppositieprocedure kan elke partij schriftelijk te kennen geven niet langer prijs te stellen op vertaling door het Bureau bedoeld in [regel 1.21](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=I&hoofdstuk=3&artikel=1.21&z=2016-10-01&g=2016-10-01).
 
 ##### Regel 1.24. Taal stukken ter ondersteuning argumenten of gebruik
 
@@ -1657,17 +1657,17 @@ De inachtneming van het beginsel van hoor en wederhoor als bedoeld in artikel 2.
 
 ##### Regel 1.26. Opschorting
 
-1. Indien de procedure ingevolge [artikel 2.16, lid 2](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=II&hoofdstuk=4&artikel=2.16&z=2013-10-01&g=2013-10-01), van het Verdrag wordt opgeschort doet het Bureau hiervan mededeling aan partijen, onder vermelding van de grond van opschorting.
+1. Indien de procedure ingevolge [artikel 2.16, lid 2](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=II&hoofdstuk=4&artikel=2.16&z=2016-10-01&g=2016-10-01), van het Verdrag wordt opgeschort doet het Bureau hiervan mededeling aan partijen, onder vermelding van de grond van opschorting.
 
 2. Indien de grond voor opschorting is opgeheven wordt de procedure voortgezet. Het Bureau deelt dit mede aan partijen, vermeldt hierbij welke handelingen op het betreffende moment in de procedure dienen te worden verricht en stelt hiervoor in voorkomend geval een aanvullende termijn.
 
 3. Opschorting op gezamenlijk verzoek geschiedt voor een periode van vier maanden, en kan met telkens eenzelfde periode worden verlengd. Elke partij kan gedurende een opschorting op gezamenlijk verzoek op ieder moment verzoeken de opschorting op te heffen.
 
-4. Indien de procedure is aangevangen, wordt deze opgeschort op het moment dat het Bureau het gezamenlijk verzoek heeft ontvangen. Het Bureau deelt dit mede aan partijen en vermeldt hierbij de nieuwe termijn. Indien de procedure nog niet is aangevangen, wordt het gezamenlijk verzoek tot opschorting opgevat als een verlenging van de in [regel 1.17, lid 1, sub b](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=I&hoofdstuk=3&artikel=1.17&z=2013-10-01&g=2013-10-01) bedoelde termijn.
+4. Indien de procedure is aangevangen, wordt deze opgeschort op het moment dat het Bureau het gezamenlijk verzoek heeft ontvangen. Het Bureau deelt dit mede aan partijen en vermeldt hierbij de nieuwe termijn. Indien de procedure nog niet is aangevangen, wordt het gezamenlijk verzoek tot opschorting opgevat als een verlenging van de in [regel 1.17, lid 1, sub b](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=I&hoofdstuk=3&artikel=1.17&z=2016-10-01&g=2016-10-01) bedoelde termijn.
 
 5. Voordat de procedure is aangevangen is opschorting op gezamenlijk verzoek gedurende de eerste twaalf maanden gratis. Voor verdere verlenging van de opschorting voor aanvang van de procedure, voor opschorting gedurende de procedure en de verlenging daarvan is een recht verschuldigd. Indien niet wordt betaald bij het verzoek tot opschorting stelt het Bureau daarvoor een termijn van een maand. Indien niet of te laat wordt betaald wordt de procedure overeenkomstig lid 2 voortgezet.
 
-6. Opschorting van de oppositieprocedure ontheft partijen niet van de verplichtingen die zij hebben ingevolge [regel 1.19](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=I&hoofdstuk=3&artikel=1.19&z=2013-10-01&g=2013-10-01).
+6. Opschorting van de oppositieprocedure ontheft partijen niet van de verplichtingen die zij hebben ingevolge [regel 1.19](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=I&hoofdstuk=3&artikel=1.19&z=2016-10-01&g=2016-10-01).
 
 ##### Regel 1.27. Mondelinge behandeling
 
@@ -1999,7 +1999,7 @@ De in [regel 3.4](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=III&
 
 ##### Regel 4.1. Soorten i-DEPOT
 
-Het in [artikel 4.4bis van het Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=IV&hoofdstuk=2&artikel=4.4bis&z=2013-10-01&g=2013-10-01) genoemde i-DEPOT bestaat in een fysieke variant („i-DEPOT enveloppe”) en in een elektronische variant („online i-DEPOT”).
+Het in [artikel 4.4bis van het Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=IV&hoofdstuk=2&artikel=4.4bis&z=2016-10-01&g=2016-10-01) genoemde i-DEPOT bestaat in een fysieke variant („i-DEPOT enveloppe”) en in een elektronische variant („online i-DEPOT”).
 
 ##### Regel 4.2. Indiening i-DEPOT enveloppe
 
@@ -2180,17 +2180,35 @@ Vertaling van een openbaar depot of inschrijving vanuit het Engels naar een offi
 
 0,20/ woord
 
-##### Regel 4.10. Wijzigingen internationale modellen
+##### Regel 4.10. Openbaar i-DEPOT
 
-| a. eerste tekening of model | 24 |
-| --- | --- |
-| b. elke volgende tekening of model | 12 |
+1. Bij indiening of op elk moment gedurende de bewaartermijn kan de indiener van een online i-DEPOT dit i- DEPOT, of een door hem bepaald deel van de inhoud daarvan, openbaar maken op de website van het Bureau of op een andere door de Directeur-Generaal te bepalen wijze. De indiener kan te allen tijde besluiten deze publicatie te beëindigen.
 
-##### Regel 4.11. Doorzending gemeenschapsmodel
+2. Ten tijde van de openbaarmaking verklaart de indiener nadrukkelijk dat deze voor zijn rekening verantwoording wordt gedaan. Het Bureau oefent geen controle uit op de inhoud van de publicatie en is hiervoor in geen geval aansprakelijk.
 
-| a. indiening aanvraag (artikel 35 lid 2 Gemeenschapsmodellenverordening) | 71 |
-| --- | --- |
-| b. indien de verzendkosten meer dan € 25,– bedragen | verzendkosten |
+3. Bij beëindiging van de bewaring van een i-DEPOT wordt de publicatie eveneens beëindigd.
+
+4. De gegevens met betrekking tot de publicatie, waaronder de data van begin en einde daarvan en het nummer van het i-DEPOT worden vermeld op de website van het Bureau of op een andere door de Directeur- Generaal te bepalen wijze.
+
+5. De openbaarmaking en de beëindiging van de publicatie vinden uitsluitend plaats door gebruikmaking van het door de Directeur-Generaal aangeduide en door het Bureau beschikbaar gestelde middel.
+
+##### Regel 4.11. Bezwaar tegen een openbaar i-DEPOT
+
+1. Onder voorbehoud van het bepaalde in lid 3 kan iedereen het Bureau verzoeken de publicatie van een i-DEPOT te beëindigen door het instellen van een notice-and-takedown procedure openbaar i-DEPOT („NTD-procedure”) op basis van de hiertoe door de Directeur-Generaal opgestelde regels, op de volgende gronden:
+
+- a. dat de publicatie een strafbaar feit oplevert, of
+
+- b. dat de publicatie inbreuk maakt op zijn rechten. In dit geval wordt de NTD-procedure pas geacht te zijn ingesteld nadat de daarvoor verschuldigde vergoeding is betaald.
+
+2. Bij het instellen van een NTD-procedure verklaart de klager nadrukkelijk dat dit en de opschorting of beëindiging van de publicatie die daarvan het gevolg is, voor zijn rekening en verantwoording zijn. Het Bureau is hiervoor in geen geval aansprakelijk.
+
+3. Iemand die reeds eerder een NTD-procedure heeft ingesteld tegen de publicatie van een specifiek i-DEPOT kan dit niet nogmaals doen.
+
+4. Een i-DEPOT waarvan de openbaarmaking na het instellen van een NTD-procedure werd beëindigd kan niet meer openbaar worden gemaakt, behoudens in geval van:
+
+- a. een beslissing die die publicatie toestaat en die niet langer vatbaar is voor enig rechtsmiddel, of
+
+- b. instemming van de klager indien de NTD-procedure gebaseerd was op lid 1, sub b.
 
 ### HOOFDSTUK 4. OVERIGE DIENSTEN
 
@@ -2280,7 +2298,7 @@ GEDAAN te Den Haag op 25 februari 2005, in drievoud, in de Nederlandse en in de 
 
 ## TITEL VI. SLOTBEPALINGEN
 
-De Hoge Verdragsluitende Partijen, wensende uitvoering te geven aan [artikel 1.6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=I&artikel=1.6&z=2013-10-01&g=2013-10-01), van het Benelux Verdrag inzake de intellectuele eigendom (merken en tekeningen of modellen) dat bepaalt dat de Hoge Verdragsluitende Partijen een protocol zullen sluiten waarin de voorrechten en immuniteiten worden vastgelegd welke nodig zijn voor de uitoefening van de taken en het bereiken van de doelstellingen van de Organisatie;
+De Hoge Verdragsluitende Partijen, wensende uitvoering te geven aan [artikel 1.6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=I&artikel=1.6&z=2016-10-01&g=2016-10-01), van het Benelux Verdrag inzake de intellectuele eigendom (merken en tekeningen of modellen) dat bepaalt dat de Hoge Verdragsluitende Partijen een protocol zullen sluiten waarin de voorrechten en immuniteiten worden vastgelegd welke nodig zijn voor de uitoefening van de taken en het bereiken van de doelstellingen van de Organisatie;
 
 Zijn het volgende overeengekomen:
 
@@ -2512,7 +2530,7 @@ De aanvraag om inschrijving zoals bedoeld in [artikel 9quinquies van het Protoco
 
 ##### Regel 2.2. Meervoudig depot
 
-Een Beneluxdepot kan verscheidene tekeningen of modellen bevatten tot ten hoogste vijftig. In zodanig geval is het bepaalde in [regel 2.1, lid 1, sub b, c en d, lid 2 en 4](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=II&artikel=2.1&z=2013-10-01&g=2013-10-01), ten aanzien van iedere tekening of model van toepassing. Iedere tekening of model dient aangeduid te worden met een verschillend nummer.
+Een Beneluxdepot kan verscheidene tekeningen of modellen bevatten tot ten hoogste vijftig. In zodanig geval is het bepaalde in [regel 2.1, lid 1, sub b, c en d, lid 2 en 4](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=II&artikel=2.1&z=2016-10-01&g=2016-10-01), ten aanzien van iedere tekening of model van toepassing. Iedere tekening of model dient aangeduid te worden met een verschillend nummer.
 
 ##### Regel 2.3. Vaststellen depotdatum en termijn regularisatie
 
@@ -2628,7 +2646,7 @@ De vernieuwing van de inschrijving geschiedt door betaling aan het Bureau van he
 
 1. De officiële talen van het Bureau zijn het Nederlands en het Frans. De werktalen van het Bureau zijn het Nederlands, Frans en Engels.
 
-2. Alle stukken die aan het Bureau worden overgelegd dienen in een van de werktalen te zijn gesteld. Het bepaalde in [regel 1.24](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=I&hoofdstuk=3&artikel=1.24&z=2013-10-01&g=2013-10-01) vormt hierop een uitzondering.
+2. Alle stukken die aan het Bureau worden overgelegd dienen in een van de werktalen te zijn gesteld. Het bepaalde in [regel 1.24](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=I&hoofdstuk=3&artikel=1.24&z=2016-10-01&g=2016-10-01) vormt hierop een uitzondering.
 
 3. Bewijzen van een recht van voorrang, van naamswijziging, uittreksels van akten waaruit een overdracht, een andere overgang, een licentie of een pandrecht blijkt, de daarop betrekking hebbende verklaringen, de reglementen op het gebruik en het toezicht en de wijzigingen daarvan, worden eveneens aanvaard indien zij in het Duits zijn gesteld.
 
@@ -2680,7 +2698,7 @@ Indien enig stuk, overgelegd ter inschrijving in het Benelux-register of in het 
 
 3. Indien de dienst van de bevoegde instantie gesloten is op de laatste dag van een ingevolge het Verdrag of dit reglement in acht te nemen termijn, wordt die termijn verlengd tot het einde van de eerstvolgende dag, waarop deze dienst geopend is.
 
-4. In geval van verstoring van de normale postbedeling in een van de Beneluxlanden gedurende minstens één van de vijf werkdagen, voorafgaand aan het einde van de termijn bedoeld in de [regels 1.3, lid 1 en 2](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=I&hoofdstuk=1&artikel=1.3&z=2013-10-01&g=2013-10-01), [1.4, lid 4](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=I&hoofdstuk=1&artikel=1.4&z=2013-10-01&g=2013-10-01), [2.3, lid 1 en 2](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=II&artikel=2.3&z=2013-10-01&g=2013-10-01), [2.4, lid 4](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=II&artikel=2.4&z=2013-10-01&g=2013-10-01), en 3.1, lid 5, en de in [hoofdstuk 3 van titel I](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=I&hoofdstuk=3&z=2013-10-01&g=2013-10-01) bedoelde termijnen, zullen stukken, binnengekomen bij de terzake bevoegde instantie na afloop van de in voornoemde regels bepaalde termijnen, in behandeling genomen worden alsof ze tijdig waren ingediend bij deze instantie, mits redelijkerwijs kan aangenomen worden dat de verstoring van de normale postbedeling de oorzaak is van het na afloop van genoemde termijnen binnenkomen van die stukken.
+4. In geval van verstoring van de normale postbedeling in een van de Beneluxlanden gedurende minstens één van de vijf werkdagen, voorafgaand aan het einde van de termijn bedoeld in de [regels 1.3, lid 1 en 2](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=I&hoofdstuk=1&artikel=1.3&z=2016-10-01&g=2016-10-01), [1.4, lid 4](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=I&hoofdstuk=1&artikel=1.4&z=2016-10-01&g=2016-10-01), [2.3, lid 1 en 2](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=II&artikel=2.3&z=2016-10-01&g=2016-10-01), [2.4, lid 4](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=II&artikel=2.4&z=2016-10-01&g=2016-10-01), en 3.1, lid 5, en de in [hoofdstuk 3 van titel I](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=I&hoofdstuk=3&z=2016-10-01&g=2016-10-01) bedoelde termijnen, zullen stukken, binnengekomen bij de terzake bevoegde instantie na afloop van de in voornoemde regels bepaalde termijnen, in behandeling genomen worden alsof ze tijdig waren ingediend bij deze instantie, mits redelijkerwijs kan aangenomen worden dat de verstoring van de normale postbedeling de oorzaak is van het na afloop van genoemde termijnen binnenkomen van die stukken.
 
 ##### Regel 3.10. Inlichtingen en afschriften
 
@@ -2708,27 +2726,27 @@ Het Bureau en de nationale diensten stellen formulieren beschikbaar voor het ver
 
 ##### Regel 3.13. Publicatie
 
-Het Bureau publiceert, conform het bepaalde in [artikel 4.4, sub b](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=IV&artikel=4.4&z=2013-10-01&g=2013-10-01), van het Verdrag uitsluitend in de taal waarin de inschrijving plaatsgevonden heeft:
+Het Bureau publiceert, conform het bepaalde in [artikel 4.4, sub b](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=IV&artikel=4.4&z=2016-10-01&g=2016-10-01), van het Verdrag uitsluitend in de taal waarin de inschrijving plaatsgevonden heeft:
 
-- a. alle ingeschreven gegevens betreffende Beneluxdepots, bedoeld in de [regels 1.5](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=I&hoofdstuk=1&artikel=1.5&z=2013-10-01&g=2013-10-01), [1.6](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=I&hoofdstuk=1&artikel=1.6&z=2013-10-01&g=2013-10-01), [1.7](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=I&hoofdstuk=1&artikel=1.7&z=2013-10-01&g=2013-10-01), [1.9](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=I&hoofdstuk=1&artikel=1.9&z=2013-10-01&g=2013-10-01), [2.7](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=II&artikel=2.7&z=2013-10-01&g=2013-10-01), [2.12](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=II&artikel=2.12&z=2013-10-01&g=2013-10-01) en 3.1. Bij een beperkte vernieuwing van de inschrijving van een meervoudig depot van een tekening of model zal de publicatie van de vernieuwing de nummers van de gehandhaafde tekeningen of modellen vermelden;
+- a. alle ingeschreven gegevens betreffende Beneluxdepots, bedoeld in de [regels 1.5](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=I&hoofdstuk=1&artikel=1.5&z=2016-10-01&g=2016-10-01), [1.6](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=I&hoofdstuk=1&artikel=1.6&z=2016-10-01&g=2016-10-01), [1.7](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=I&hoofdstuk=1&artikel=1.7&z=2016-10-01&g=2016-10-01), [1.9](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=I&hoofdstuk=1&artikel=1.9&z=2016-10-01&g=2016-10-01), [2.7](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=II&artikel=2.7&z=2016-10-01&g=2016-10-01), [2.12](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=II&artikel=2.12&z=2016-10-01&g=2016-10-01) en 3.1. Bij een beperkte vernieuwing van de inschrijving van een meervoudig depot van een tekening of model zal de publicatie van de vernieuwing de nummers van de gehandhaafde tekeningen of modellen vermelden;
 
-- b. alle ingeschreven gegevens betreffende internationale merkdepots, bedoeld in [regel 1.8 lid 2](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=I&hoofdstuk=1&artikel=1.8&z=2013-10-01&g=2013-10-01);
+- b. alle ingeschreven gegevens betreffende internationale merkdepots, bedoeld in [regel 1.8 lid 2](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=I&hoofdstuk=1&artikel=1.8&z=2016-10-01&g=2016-10-01);
 
-- c. alle ingeschreven gegevens betreffende internationale depots van tekeningen of modellen bedoeld in [regel 3.2 lid 3](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=III&hoofdstuk=2&artikel=3.2&z=2013-10-01&g=2013-10-01);
+- c. alle ingeschreven gegevens betreffende internationale depots van tekeningen of modellen bedoeld in [regel 3.2 lid 3](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=III&hoofdstuk=2&artikel=3.2&z=2016-10-01&g=2016-10-01);
 
-- d. de inschrijving van de verklaring of de rechterlijke beslissing bedoeld in [regel 2.9](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=II&artikel=2.9&z=2013-10-01&g=2013-10-01);
+- d. de inschrijving van de verklaring of de rechterlijke beslissing bedoeld in [regel 2.9](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=II&artikel=2.9&z=2016-10-01&g=2016-10-01);
 
-- e. het feit van de inschrijving van de vordering tot opeising bedoeld in [regel 2.10](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=II&artikel=2.10&z=2013-10-01&g=2013-10-01).
+- e. het feit van de inschrijving van de vordering tot opeising bedoeld in [regel 2.10](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=II&artikel=2.10&z=2016-10-01&g=2016-10-01).
 
 ##### Regel 3.14. Nadere regels
 
-De in [regel 3.4](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=III&hoofdstuk=3&artikel=3.4&z=2013-10-01&g=2013-10-01) bedoelde nadere regels van de Directeur-Generaal voor het indienen van stukken worden op de website van het Bureau gepubliceerd.
+De in [regel 3.4](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=III&hoofdstuk=3&artikel=3.4&z=2016-10-01&g=2016-10-01) bedoelde nadere regels van de Directeur-Generaal voor het indienen van stukken worden op de website van het Bureau gepubliceerd.
 
 ## TITEL IV. : I-DEPOT
 
 ##### Regel 4.4. i-DEPOT enveloppe bewijs
 
-Zowel het door het Bureau retour gezonden compartiment van de i-DEPOT enveloppe als het door het Bureau bewaarde compartiment van de i-DEPOT enveloppe vormen bewijs in de zin van [artikel 4.4bis van het Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=IV&hoofdstuk=2&artikel=4.4bis&z=2013-10-01&g=2013-10-01).
+Zowel het door het Bureau retour gezonden compartiment van de i-DEPOT enveloppe als het door het Bureau bewaarde compartiment van de i-DEPOT enveloppe vormen bewijs in de zin van [artikel 4.4bis van het Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=IV&hoofdstuk=2&artikel=4.4bis&z=2016-10-01&g=2016-10-01).
 
 ##### Regel 4.5. Indiening online i-DEPOT
 
@@ -2744,15 +2762,15 @@ Zowel het door het Bureau retour gezonden compartiment van de i-DEPOT enveloppe 
 
 - c. een combinatie van het onder a en b genoemde.
 
-4. Het Bureau kent het online i-DEPOT een nummer toe, stelt overeenkomstig [regel 3.8](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=III&hoofdstuk=3&artikel=3.8&z=2013-10-01&g=2013-10-01) het moment van ontvangst van het online i-DEPOT vast en stuurt de indiener het in lid 1 bedoelde elektronische bestand toe. Dit bestand bevat de bestanddelen genoemd in de leden 2 en 3, het nummer van het online i-DEPOT alsmede datum en tijdstip van ontvangst door het Bureau.
+4. Het Bureau kent het online i-DEPOT een nummer toe, stelt overeenkomstig [regel 3.8](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=III&hoofdstuk=3&artikel=3.8&z=2016-10-01&g=2016-10-01) het moment van ontvangst van het online i-DEPOT vast en stelt het in lid 1 bedoelde elektronische bestand op elektronische wijze beschikbaar aan indiener. Dit bestand bevat de bestanddelen genoemd in de leden 2 en 3, het nummer van het online i-DEPOT alsmede datum en tijdstip van ontvangst door het Bureau.
 
 ##### Regel 4.6. Online i-DEPOT bewijs
 
-Het elektronisch bestand bedoeld in regel 4.5 vormt bewijs in de zin van [artikel 4.4bis van het Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=IV&hoofdstuk=2&artikel=4.4bis&z=2013-10-01&g=2013-10-01).
+Het elektronisch bestand bedoeld in regel 4.5 vormt bewijs in de zin van [artikel 4.4bis van het Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=IV&hoofdstuk=2&artikel=4.4bis&z=2016-10-01&g=2016-10-01).
 
 ##### Regel 4.7. Bewaring online i-DEPOT
 
-1. Het Bureau bewaart een online i-DEPOT gedurende een periode van vijf jaar die telkens met eenzelfde periode kan worden verlengd.
+1. Het Bureau bewaart een online i-DEPOT gedurende een periode van vijf of tien jaar, afhankelijk van de terzake door indiener gemaakte keuze.
 
 2. Twee maanden voor het verstrijken van de bewaartermijn stuurt het Bureau de indiener een herinnering en informeert over de mogelijkheid de bewaring te verlengen.
 
@@ -2760,7 +2778,7 @@ Het elektronisch bestand bedoeld in regel 4.5 vormt bewijs in de zin van [artike
 
 4. Het Bureau vernietigt het online i-DEPOT waarvan de bewaartermijn niet tijdig werd verlengd.
 
-5. Gedurende de bewaarneming kan indiener het Bureau verzoeken om de toezending van het online i-DEPOT bewijsstuk op een gegevensdrager tegen betaling van het daarvoor verschuldigde recht. Met dit verzoek geeft indiener het Bureau toestemming om de inhoud van het online i-DEPOT in te zien.
+5. Vervallen.
 
 6. Indiener kan het Bureau te allen tijde verzoeken de bewaring van een online i-DEPOT te beëindigen en het te vernietigen.
 
@@ -2770,7 +2788,7 @@ De handelingen betrekking hebbende op een online i-DEPOT kunnen uitsluitend word
 
 ##### Regel 4.9. Termijnen
 
-Op de in de [regels 4.3](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=IV&artikel=4.3&z=2013-10-01&g=2013-10-01) en [4.7](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=IV&artikel=4.7&z=2013-10-01&g=2013-10-01) bedoelde termijnen is [regel 3.9](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=III&hoofdstuk=3&artikel=3.9&z=2013-10-01&g=2013-10-01) van overeenkomstige toepassing.
+Op de in de [regels 4.3](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=IV&artikel=4.3&z=2016-10-01&g=2016-10-01) en [4.7](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=IV&artikel=4.7&z=2016-10-01&g=2016-10-01) bedoelde termijnen is [regel 3.9](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=III&hoofdstuk=3&artikel=3.9&z=2016-10-01&g=2016-10-01) van overeenkomstige toepassing.
 
 ## TITEL V. Rechten en vergoedingen
 
@@ -2909,13 +2927,13 @@ Het bedrag van de individuele rechten zoals bedoeld in [artikel 8, 7), a) van he
 | e. publicatie per afbeelding | 10 |
 | f. publicatie beschrijving kenmerkende eigenschappen, per tekening of model | 40 |
 
-| 3. Opschorting publicatie ([regel 2.5](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=II&artikel=2.5&z=2013-10-01&g=2013-10-01)) | 39 |
+| 3. Opschorting publicatie ([regel 2.5](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=II&artikel=2.5&z=2016-10-01&g=2016-10-01)) | 39 |
 | --- | --- |
 
-| 4. Inschrijving verklaring recht van voorrang ([regel 2.4 lid 2](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=II&artikel=2.4&z=2013-10-01&g=2013-10-01)) | 12 |
+| 4. Inschrijving verklaring recht van voorrang ([regel 2.4 lid 2](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=II&artikel=2.4&z=2016-10-01&g=2016-10-01)) | 12 |
 | --- | --- |
 
-| 5. Vernieuwing enkelvoudige inschrijving ([regel 2.11](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=II&artikel=2.11&z=2013-10-01&g=2013-10-01)) | 95 |
+| 5. Vernieuwing enkelvoudige inschrijving ([regel 2.11](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=II&artikel=2.11&z=2016-10-01&g=2016-10-01)) | 95 |
 | --- | --- |
 
 | a. vernieuwing eerste tekening of model | 95 |
@@ -2924,7 +2942,7 @@ Het bedrag van de individuele rechten zoals bedoeld in [artikel 8, 7), a) van he
 | c. elfde t/m twintigste tekening of model, per tekening of model | 24 |
 | d. eenentwintigste t/m vijftigste tekening of model, per tekening of model | 20 |
 
-| 7. Extra-recht voor vernieuwing binnen zes maanden na vervaldatum ([artikel 3.14 lid 3 Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=III&hoofdstuk=2&artikel=3.14&z=2013-10-01&g=2013-10-01)) | 12 |
+| 7. Extra-recht voor vernieuwing binnen zes maanden na vervaldatum ([artikel 3.14 lid 3 Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=III&hoofdstuk=2&artikel=3.14&z=2016-10-01&g=2016-10-01)) | 12 |
 | --- | --- |
 
 | a. overdracht of overgang, licentie, pandrecht of beslag |   |
@@ -2977,57 +2995,141 @@ Het bedrag van de individuele rechten zoals bedoeld in [artikel 8, 7), a) van he
 
 ##### Regel 5.12. i-DEPOT
 
-1. i-DEPOT enveloppe:
+1. i-DEPOT enveloppe
 
-- a. vijf jaar bewaartermijn: € 45;
+| a. vijf jaar bewaartermijn | 45 |
+| --- | --- |
+| b. tien jaar bewaartermijn | 65 |
+| c. vijf jaar verlenging bewaartermijn | 45 |
 
-- b. tien jaar bewaartermijn: € 65;
+2. online i-DEPOT
 
-- c. vijf jaar verlenging bewaartermijn: € 45.
+| a. indiening en bewaartermijn van vijf jaar | 35 |
+| --- | --- |
+| b. indiening en bewaartermijn van tien jaar | 50 |
+| c. vijf jaar verlenging bewaartermijn | 25 |
+| d. openbaarmaking | 20 |
+| e. instellen NTD procedure op basis van [regel 4.11, lid 1, sub b](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=IV&artikel=4.11&z=2016-10-01&g=2016-10-01) | 75 |
 
-2. Online i-DEPOT
+3. i-DEPOT creditaccount
 
-- a. indiening en bewaartermijn van vijf jaar: € 35;
+| a. activeren creditaccount | 200 |
+| --- | --- |
+| b. 20 credits | 250 |
+| c. 50 credits | 500 |
 
-- b. vijf jaar verlenging bewaartermijn: € 25;
+4. online i-DEPOT in credits (enkel voor creditaccounts)
 
-- c. reproductie: € 15.
+| a. indiening en bewaartermijn van vijf jaar | 1 credit |
+| --- | --- |
+| b. indiening en bewaartermijn van tien jaar | 2 credits |
+| c. vijf jaar verlenging bewaartermijn | 1 credit |
+| d. openbaarmaking | 1 credit |
 
-3. i-DEPOT account
+TEN BLIJKE WAARVAN de Gevolmachtigden dit verdrag hebben ondertekend en voorzien van hun zegel.
 
-- a. activeren account: € 350;
+GEDAAN te Den Haag op 25 februari 2005, in drievoud, in de Nederlandse en in de Franse taal, zijnde beide teksten gelijkelijk authentiek.
 
-- b. 20 credits: € 100;
+## TITEL V. Rechten en vergoedingen
 
-- c. 50 credits: € 225;
+### HOOFDSTUK 1. ALGEMEEN
 
-- d. 100 credits: € 400;
+##### Regel 5.1. Vaststelling tarieven
 
-- e. 250 credits: € 875;
+1. Ter uitvoering van het bepaalde in [artikel 1.13, lid 1 van het Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=I&artikel=1.13&z=2016-10-01&g=2016-10-01) keert het Bureau aan de nationale diensten 20 % uit van het bedrag van de rechten, die zijn geïnd ter zake van de door hun bemiddeling verrichte handelingen.
 
-- f. 500 credits: € 1.250.
+2. De Raad van Bestuur stelt de tarieven vast. De Raad kan de vastgestelde tarieven slechts eenmaal per jaar aanpassen.
 
-4. Tarieven online i-DEPOT in credits (enkel voor accounts)
+3. [Artikel 6.5 van het Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=VI&artikel=6.5&z=2016-10-01&g=2016-10-01) is van overeenkomstige toepassing op de bekendmaking van nieuwe tarieven.
 
-- a.
+##### Regel 5.2. Betaling
 
-- 1. Indienen en bewaring gedurende vijf jaar i-DEPOT tussen 0 – 10 Mb: 1 credit
+1. Betaling van de verschuldigde rechten en vergoedingen dient vooraf te gaan aan handelingen door het Bureau. Betaalde verschuldigde rechten en vergoedingen, worden in geen geval gerestitueerd.
 
-- 2. Indienen en bewaring gedurende vijf jaar i-DEPOT tussen 10 – 50 Mb: 2 credits
+2. Het Bureau verzendt na ontvangst van een verzoek waaraan rechten verbonden zijn een overzicht van de verschuldigde rechten. Aan het niet-verzenden of niet-ontvangen van dit overzicht kunnen geen rechten worden ontleend.
 
-- 3. Indienen en bewaring gedurende vijf jaar i-DEPOT tussen 50 – 100 Mb: 3 credits
+3. Indien voor een handeling overeenkomstig [regel 3.4](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=III&hoofdstuk=3&artikel=3.4&z=2016-10-01&g=2016-10-01) zowel elektronische als niet-elektronische indiening mogelijk is en de indiener ervoor kiest om een ander middel dan een door de Directeur-Generaal voor die specifieke handeling aangeduid elektronisch middel te gebruiken, is een vergoeding voor administratiekosten verschuldigd ter hoogte van 15%, naar beneden afgerond op hele euro’s, van het recht of de rechten verschuldigd voor de desbetreffende handeling. Deze vergoeding is niet eerder verschuldigd dan nadat hierover overeenkomstig [regel 3.14](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=III&hoofdstuk=3&artikel=3.14&z=2016-10-01&g=2016-10-01) een mededeling van de Directeur-Generaal is gepubliceerd.
 
-- b. vijf jaar verlenging bewaartermijn: 1 credit
+##### Regel 5.3. Vergoedingen incidentele handelingen
 
-- c. reproductie: 3 credits
+1. De rechten voor de in het Verdrag en dit reglement opgenomen handelingen bij en door het Bureau zijn die opgesomd in deze titel.
 
-5. Tarieven voor i-DEPOTs ingediend door tussenkomst van tussenpersonen
+2. De vergoedingen voor handelingen bij en door het Bureau die niet zijn opgenomen in deze titel, zogenaamde incidentele handelingen, worden vastgesteld door de Directeur-Generaal.
 
-| a. | aanmelding als tussenpersoon | 350 |
-| --- | --- | --- |
-| b. | i-DEPOT envelop, vijf jaar bewaartermijn | 35 |
-| c. | i-DEPOT envelop, tien jaar bewaartermijn | 50 |
-| d. | online i-DEPOT | 25 |
+3. De Directeur-Generaal informeert de Raad van Bestuur over de vergoedingen vastgesteld voor meer structurele handelingen. De Raad van Bestuur kan besluiten deze vergoedingen op te nemen in deze titel.
+
+### HOOFDSTUK 2. MERKEN
+
+##### Regel 5.4. Rechten depot, oppositie, vernieuwing, wijzigingen
+
+| a.basisrecht individueel merk, tot drie klassen ([regel 1.1](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=I&hoofdstuk=1&artikel=1.1&z=2016-10-01&g=2016-10-01)) | 240 |
+| --- | --- |
+| b. basisrecht collectief merk, tot drie klassen ([regel 1.2](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=I&hoofdstuk=1&artikel=1.2&z=2016-10-01&g=2016-10-01)) | 373 |
+| c. aanvullend recht voor iedere klasse boven de derde | 37 |
+| d. aanvullend recht voor spoedinschrijving, tot drie klassen ([regel 1.7](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=I&hoofdstuk=1&artikel=1.7&z=2016-10-01&g=2016-10-01)) | 193 |
+| e. aanvullend recht voor spoedinschrijving per klasse boven de derde | 30 |
+| f. aanvullend recht voor de beschrijving van onderscheidende elementen ([regel 1.1, lid 2](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=I&hoofdstuk=1&artikel=1.7&z=2016-10-01&g=2016-10-01)) | 39 |
+| g. inschrijving verklaring van een recht van voorrang ([regel 1.4, lid 2](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=I&hoofdstuk=1&artikel=1.4&z=2016-10-01&g=2016-10-01)) | 15 |
+
+| a. basisrecht oppositie | 1.000 |
+| --- | --- |
+| b. aanvullend recht per ingeroepen recht boven het derde | 100 |
+| c. opschorting op verzoek en verlenging daarvan voor aanvang procedure (maximaal drie maal) ([regel 1.26](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=I&hoofdstuk=3&artikel=1.26&z=2016-10-01&g=2016-10-01)) | gratis |
+| d. opschorting op verzoek en verlenging daarvan in overige gevallen, per vier maanden ([regel 1.26](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=I&hoofdstuk=3&artikel=1.26&z=2016-10-01&g=2016-10-01)) | 150 |
+| e. vertaling van argumenten ([regel 1.21](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=I&hoofdstuk=3&artikel=1.21&z=2016-10-01&g=2016-10-01)) eerste vier pagina’s* iedere pagina* of deel daarvan, boven de vierde | gratis 55 |
+| f. vertaling van beslissing, per pagina* of deel daarvan ([regel 1.21](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=I&hoofdstuk=3&artikel=1.21&z=2016-10-01&g=2016-10-01)) | 45 |
+
+* pagina: maximaal 30 regels met maximaal 80 karakters.
+
+| a. basisrecht individueel merk, tot drie klassen | 260 |
+| --- | --- |
+| b. basisrecht collectief merk, tot drie klassen | 474 |
+| c. aanvullend recht voor iedere klasse boven de derde | 46 |
+| d. extra-recht voor vernieuwing binnen zes maanden na vervaldatum ([artikel 2.9 lid 4 Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0001716&titeldeel=II&hoofdstuk=2&artikel=2.9&z=2016-10-01&g=2016-10-01)) | 129 |
+
+| a. overdracht of overgang, licentie, pandrecht of beslag |   |
+| --- | --- |
+| eerste merk | 54 |
+| tweede tot en met vijfde merk | 27 |
+| elk volgend merk | gratis |
+| b. aantekening waren- en dienstenbeperking | 44 |
+| c. wijziging van gemachtigde, inbegrepen diens aanwijzing na inschrijving van het depot |   |
+| eerste merk | 22 |
+| tweede tot en met vijfde merk van dezelfde houder | 11 |
+| elk volgend merk van dezelfde houder | gratis |
+| tweede tot en met vijfde merk van verschillende houders | 11 |
+| elk volgend merk van verschillende houders | 2 |
+| d. wijziging naam en/of adres van een merkhouder, gemachtigde of licentiehouder | gratis |
+| e. herstel van aan de houder te wijten schrijffouten na inschrijving |   |
+| eerste merk | 18 |
+| elk volgend merk | 9 |
+
+##### Regel 5.5. Overige vergoedingen (merken)
+
+| a. basisvergoeding onderzoek, tot drie klassen | 150 |
+| --- | --- |
+| b. aanvullende vergoeding voor iedere klasse boven de derde | 20 |
+
+| a. basisvergoeding abonnement, tot drie klassen | 50 |
+| --- | --- |
+| b. aanvullende vergoeding voor iedere klasse boven de derde | 8 |
+
+| a. niet gewaarmerkt, per inschrijving | 4 |
+| --- | --- |
+| b. niet gewaarmerkt, overige per bladzijde | 5 |
+| c. gewaarmerkt, per inschrijving | 15 |
+| d. gewaarmerkt, overige per bladzijde | 17 |
+| e. bewijzen van voorrang (regel 3.10) | 15 |
+
+| a. minder dan een uur | 23 |
+| --- | --- |
+| b. langer dan een uur, per uur | 55 |
+
+0,20/ woord
+
+### HOOFDSTUK 3. TEKENINGEN OF MODELLEN
+
+### HOOFDSTUK 4. OVERIGE DIENSTEN
 
 TEN BLIJKE WAARVAN de Gevolmachtigden dit verdrag hebben ondertekend en voorzien van hun zegel.
 
