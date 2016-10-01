@@ -4,7 +4,7 @@ identifier: "BWBR0036795"
 country: "nl"
 rank: "wet"
 publication_date: "2025-11-21"
-last_updated: "2015-07-18"
+last_updated: "2016-10-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0036795"
 soort: "wet"
@@ -93,13 +93,13 @@ In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
 4. Indien een verzoek te algemeen geformuleerd is, verzoekt de met een publieke taak belaste instelling de verzoeker dit zo spoedig mogelijk te preciseren en is zij hem daarbij behulpzaam.
 
-5. De met een publieke taak belaste instelling kan een verzoek om hergebruik slechts afwijzen, indien het verzoek informatie, bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036795&hoofdstuk=I&artikel=2&z=2015-07-18&g=2015-07-18), betreft.
+5. De met een publieke taak belaste instelling kan een verzoek om hergebruik slechts afwijzen, indien het verzoek informatie, bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036795&hoofdstuk=I&artikel=2&z=2016-10-01&g=2016-10-01), betreft.
 
 6. Onverminderd hetgeen bepaald in het vijfde lid, kan een museum of bibliotheek een verzoek om hergebruik afwijzen, indien het museum of de bibliotheek de rechthebbende van de informatie is in de zin van de [Auteurswet](https://wetten.overheid.nl/jci1.3:c:BWBR0001886), de [Wet op de naburige rechten](https://wetten.overheid.nl/jci1.3:c:BWBR0005921) of de [Databankenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0010591).
 
-7. Een met een publieke taak belaste instelling die een verzoek om hergebruik afwijst omdat het verzoek informatie betreft als bedoeld in [artikel 2, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0036795&hoofdstuk=I&artikel=2&z=2015-07-18&g=2015-07-18), deelt aan de verzoeker de identiteit mee van de rechthebbende of de licentiegever van de gevraagde informatie.
+7. Een met een publieke taak belaste instelling die een verzoek om hergebruik afwijst omdat het verzoek informatie betreft als bedoeld in [artikel 2, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0036795&hoofdstuk=I&artikel=2&z=2016-10-01&g=2016-10-01), deelt aan de verzoeker de identiteit mee van de rechthebbende of de licentiegever van de gevraagde informatie.
 
-8. Indien een museum of bibliotheek een verzoek om hergebruik afwijst omdat het verzoek informatie betreft als bedoeld in [artikel 2, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0036795&hoofdstuk=I&artikel=2&z=2015-07-18&g=2015-07-18), hoeft de identiteit van de rechthebbende of de licentiegever van de gevraagde informatie niet te worden medegedeeld.
+8. Indien een museum of bibliotheek een verzoek om hergebruik afwijst omdat het verzoek informatie betreft als bedoeld in [artikel 2, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0036795&hoofdstuk=I&artikel=2&z=2016-10-01&g=2016-10-01), hoeft de identiteit van de rechthebbende of de licentiegever van de gevraagde informatie niet te worden medegedeeld.
 
 ##### Artikel 4. Behandeling van verzoeken
 
@@ -111,7 +111,7 @@ In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
 4. De met een publieke taak belaste instelling beslist op het verzoek om hergebruik zo spoedig mogelijk, doch uiterlijk binnen vier weken gerekend vanaf de dag na die waarop het verzoek is ontvangen.
 
-5. De met een publieke taak belaste instelling kan de beslissing voor ten hoogste vier weken verdagen. Van de verdaging wordt voor de afloop van de eerste termijn schriftelijk gemotiveerd mededeling gedaan aan de verzoeker.
+5. De met een publieke taak belaste instelling kan de beslissing voor ten hoogste twee weken verdagen. Van de verdaging wordt voor de afloop van de eerste termijn schriftelijk gemotiveerd mededeling gedaan aan de verzoeker.
 
 6. Onverminderd [artikel 4:15 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:15) wordt de termijn voor het geven van een beschikking opgeschort gerekend vanaf de dag na die waarop de met een publieke taak belaste instelling de verzoeker meedeelt dat toepassing is gegeven aan [artikel 4:8 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:8), tot de dag waarop door de belanghebbende of belanghebbenden een zienswijze naar voren is gebracht of de daarvoor gestelde termijn ongebruikt is verstreken.
 
@@ -212,5 +212,33 @@ Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip.
 ##### Artikel 16. Citeertitel
 
 Deze wet wordt aangehaald als: Wet hergebruik van overheidsinformatie.
+
+Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges, en ambtenaren die zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
+
+##### Artikel 4a. Uitzondering dwangsom bij niet tijdig beslissen
+
+[Paragraaf 4.1.3.2 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&paragraaf=4.1.3.2) is niet van toepassing op besluiten op grond van deze wet en op beslissingen op bezwaar tegen deze besluiten.
+
+##### Artikel 4b. Bijzondere regeling bestuursrechter
+
+1. In geval van een gegrond beroep tegen het niet tijdig nemen van een besluit op grond van deze wet of een beslissing op bezwaar tegen een dergelijk besluit waarbij nog geen besluit is bekendgemaakt, bepaalt de bestuursrechter, indien de omvang van het verzoek hiertoe aanleiding geeft, in afwijking van [artikel 8:55d, eerste lid, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=8:55d) de termijn waarbinnen het bestuursorgaan alsnog een besluit bekendmaakt.
+
+2. Indien de bestuursrechter oordeelt dat het niet tijdig nemen van een besluit kennelijk het gevolg is van de wijze van indiening van het verzoek en nog geen besluit is bekendgemaakt, bepaalt de bestuursrechter, indien het verzoek hiertoe aanleiding geeft, in afwijking van [artikel 8:55d, eerste lid, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=8:55d) een langere termijn waarbinnen het bestuursorgaan alsnog een besluit bekendmaakt.
+
+3. De bestuursrechter kan [artikel 8:74, eerste lid, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=8:74) buiten toepassing laten en een proceskostenveroordeling op grond van [artikel 8:75, eerste lid, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=8:75) achterwege laten, indien de indiener van het beroepschrift, gelet op de omvang van het verzoek, onvoldoende heeft meegewerkt aan het bereiken van overeenstemming over:
+
+- a. een opschorting van de beslistermijn als bedoeld in [artikel 4:15, tweede lid, onderdeel a, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:15), of
+
+- b. verder uitstel van de beslistermijn als bedoeld in [artikel 7:10, vierde lid, onderdeel a of b, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=7:10).
+
+4. De bestuursrechter kan eveneens [artikel 8:74, eerste lid, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=8:74) buiten toepassing laten en een proceskostenveroordeling op grond van [artikel 8:75, eerste lid, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=8:75) achterwege laten, indien hij oordeelt dat het niet tijdig nemen van een besluit kennelijk het gevolg is van de wijze van indiening van het verzoek.
+
+### Hoofdstuk III. Ter beschikking stellen van informatie voor hergebruik
+
+### Hoofdstuk IV. Wijziging van enige wetten
+
+### Hoofdstuk IV-A. Samenloopbepalingen
+
+### Hoofdstuk V. Slotbepalingen
 
 Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges, en ambtenaren die zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
