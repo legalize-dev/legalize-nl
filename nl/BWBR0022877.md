@@ -4,7 +4,7 @@ identifier: "BWBR0022877"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2023-12-02"
-last_updated: "2007-11-23"
+last_updated: "2016-10-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0022877"
 soort: "ministeriele-regeling"
@@ -43,17 +43,17 @@ In deze regeling wordt verstaan onder:
 
 - a. beheerder: de Minister van Defensie;
 
-- b. commissie: de commissie van toezicht, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0022877&artikel=2&z=2007-11-23&g=2007-11-23);
+- b. commissie: de commissie van toezicht, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0022877&artikel=2&z=2016-10-01&g=2016-10-01);
 
 - c. ingeslotene: de persoon die rechtens van zijn vrijheid is beroofd, alsmede de persoon die ten behoeve van de hulpverlening aan hem op een brigade van de Koninklijke Marechaussee is ondergebracht;
 
-- d. detentieplaats: elke bij de Koninklijke Marechaussee in gebruik en beheer zijnde ruimte die wordt of kan worden gebruikt voor het insluiten van personen.
+- d. detentieplaats: elke bij de Koninklijke Marechaussee in gebruik en beheer zijnde ruimte die wordt of kan worden gebruikt voor het insluiten van personen, waaronder de detentieplaatsen die worden gebruikt voor kortdurend verblijf en de voertuigen waarmee ingeslotenen worden vervoerd.
 
 ##### Artikel 2
 
 1. Er is een commissie van toezicht voor de detentieplaatsen in gebruik en beheer bij de Koninklijke Marechaussee.
 
-2. De commissie bestaat uit tenminste drie en ten hoogste vijf leden, die door de beheerder voor een periode van drie jaar worden benoemd. Zij kunnen tweemaal worden herbenoemd. Uit de leden wijst de beheerder een voorzitter aan.
+2. De commissie bestaat uit tenminste drie en ten hoogste vijf leden, die door de beheerder op basis van een open sollicitatieprocedure voor een periode van drie jaar worden benoemd. Zij kunnen tweemaal worden herbenoemd. Uit de leden wijst de beheerder een voorzitter aan.
 
 3. Bij de samenstelling van de commissie wordt rekening gehouden met diversiteit in maatschappelijke achtergrond, kennis, deskundigheid en ervaring van de leden.
 
@@ -91,7 +91,7 @@ Voor de benoeming als lid komen niet in aanmerking:
 
 De commissie heeft tot taak:
 
-- a. toezicht te houden op de wijze van de tenuitvoerlegging van de vrijheidsbeneming in detentieplaatsen in gebruik en beheer bij de Koninklijke Marechaussee, alsmede op de naleving van de daarop betrekking hebbende voorschriften;
+- a. toezicht te houden op de wijze van de tenuitvoerlegging van de vrijheidsbeneming in alle detentieplaatsen in gebruik en beheer bij de Koninklijke Marechaussee, alsmede op de naleving van de daarop betrekking hebbende voorschriften;
 
 - b. gevraagd en ongevraagd aanbevelingen tot verbeteringen en inlichtingen te verstrekken aan de beheerder omtrent het onder a gestelde.
 
@@ -109,7 +109,7 @@ De commissie heeft tot taak:
 
 6. De leden van de commissie worden geïnformeerd over de veiligheidsvoorschriften en dienen de op grond daarvan gegeven aanwijzingen door ambtenaren van de Koninklijke Marechaussee terstond op te volgen.
 
-7. De commissie kan zich over alle aangelegenheden die verband houden met de vervulling van haar taken rechtstreeks wenden tot de Commandant Koninklijke Marechaussee en de betreffende districtscommandant van de Koninklijke Marechaussee.
+7. De commissie kan zich over alle aangelegenheden die verband houden met de vervulling van haar taken rechtstreeks wenden tot de Commandant Koninklijke Marechaussee en de betreffende brigadecommandant van de Koninklijke Marechaussee.
 
 8. De commissie is bevoegd ambtenaren werkzaam bij het Ministerie van Defensie uit te nodigen voor haar vergaderingen.
 
