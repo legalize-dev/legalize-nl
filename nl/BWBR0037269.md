@@ -4,7 +4,7 @@ identifier: "BWBR0037269"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-01-01"
-last_updated: "2016-07-01"
+last_updated: "2016-10-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0037269"
 soort: "ministeriele-regeling"
@@ -54,17 +54,17 @@ Aan de algemeen directeur Rijksdienst voor Ondernemend Nederland van het Ministe
 
 Aan de algemeen directeur Rijksdienst voor Ondernemend Nederland van het Ministerie van Economische Zaken wordt machtiging verleend tot:
 
-- a. het verrichten van alle handelingen ter voorbereiding en ter uitvoering van de in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0037269&artikel=1&z=2016-07-01&g=2016-07-01) bedoelde besluiten en overeenkomsten; en
+- a. het verrichten van alle handelingen ter voorbereiding en ter uitvoering van de in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0037269&artikel=1&z=2016-10-01&g=2016-10-01) bedoelde besluiten en overeenkomsten; en
 
-- b. het voeren van procedures bij de rechter over de in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0037269&artikel=1&z=2016-07-01&g=2016-07-01) bedoelde besluiten en overeenkomsten.
+- b. het voeren van procedures bij de rechter over de in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0037269&artikel=1&z=2016-10-01&g=2016-10-01) bedoelde besluiten en overeenkomsten.
 
 ##### Artikel 3
 
-De algemeen directeur Rijksdienst voor Ondernemend Nederland van het Ministerie van Economische Zaken kan met betrekking tot zijn bevoegdheden, bedoeld in de [artikelen 1](https://wetten.overheid.nl/jci1.3:c:BWBR0037269&artikel=1&z=2016-07-01&g=2016-07-01) en [2](https://wetten.overheid.nl/jci1.3:c:BWBR0037269&artikel=2&z=2016-07-01&g=2016-07-01), ondermandaat, volmacht en machtiging verlenen aan een of meer onder hem ressorterende functionarissen.
+De algemeen directeur Rijksdienst voor Ondernemend Nederland van het Ministerie van Economische Zaken kan met betrekking tot zijn bevoegdheden, bedoeld in de [artikelen 1](https://wetten.overheid.nl/jci1.3:c:BWBR0037269&artikel=1&z=2016-10-01&g=2016-10-01) en [2](https://wetten.overheid.nl/jci1.3:c:BWBR0037269&artikel=2&z=2016-10-01&g=2016-10-01), ondermandaat, volmacht en machtiging verlenen aan een of meer onder hem ressorterende functionarissen.
 
 ##### Artikel 4
 
-1. Een document waarin een besluit of overeenkomst als bedoeld in [artikel 1, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0037269&artikel=1&z=2016-07-01&g=2016-07-01), of handeling als bedoeld in [artikel 2, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0037269&artikel=2&z=2016-07-01&g=2016-07-01), wordt vastgelegd of bevestigd, bevat in ieder geval een verwijzing naar het subsidieprogramma, de subsidieregeling of de andere regeling waarop het besluit, de overeenkomst of de handeling betrekking heeft.
+1. Een document waarin een besluit of overeenkomst als bedoeld in [artikel 1, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0037269&artikel=1&z=2016-10-01&g=2016-10-01), of handeling als bedoeld in [artikel 2, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0037269&artikel=2&z=2016-10-01&g=2016-10-01), wordt vastgelegd of bevestigd, bevat in ieder geval een verwijzing naar het subsidieprogramma, de subsidieregeling of de andere regeling waarop het besluit, de overeenkomst of de handeling betrekking heeft.
 
 2. Een document als bedoeld in het eerste lid vermeldt, indien het subsidieprogramma, de subsidieregeling of de andere regeling tot de verantwoordelijkheid van de Minister van Infrastructuur en Milieu behoort, aan het slot:
 
@@ -104,7 +104,7 @@ Het [Besluit mandaat, volmacht en machtiging directeur-generaal Rijksdienst voor
 
 Dit besluit wordt aangehaald als: Besluit mandaat, volmacht en machtiging algemeen directeur Rijksdienst voor Ondernemend Nederland op het terrein van het Ministerie van Infrastructuur en Milieu 2015.
 
-## Bijlage. bij [artikel 1, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0037269&artikel=1&z=2016-07-01&g=2016-07-01), van het Besluit mandaat, volmacht en machtiging algemeen directeur Rijksdienst voor Ondernemend Nederland op het terrein van het Ministerie van Infrastructuur en Milieu 2015
+## Bijlage. bij [artikel 1, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0037269&artikel=1&z=2016-10-01&g=2016-10-01), van het Besluit mandaat, volmacht en machtiging algemeen directeur Rijksdienst voor Ondernemend Nederland op het terrein van het Ministerie van Infrastructuur en Milieu 2015
 
 ### Onderdeel A – spoor en weg
 
