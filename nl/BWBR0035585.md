@@ -4,7 +4,7 @@ identifier: "BWBR0035585"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2016-10-01"
-last_updated: "2014-10-01"
+last_updated: "2016-10-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0035585"
 soort: "ministeriele-regeling"
@@ -36,7 +36,7 @@ entry_into_force: "2014-10-01"
 ---
 # Tijdelijke regeling van de Minister van Sociale Zaken en Werkgelegenheid van 25 september 2014, tot wijziging van de Regeling uitvoering Wet arbeid vreemdelingen 2014 in verband met het vervallen van de toets op aanwezig prioriteitgenietend aanbod voor aanvragen van de Aziatische horeca
 
-Gelet op de [artikelen 8, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007149&artikel=8), [9](https://wetten.overheid.nl/jci1.3:c:BWBR0007149&artikel=9) en [22 van de Wet arbeid vreemdelingen](W0585:ART_22);
+Gelet op de [artikelen 8, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007149&artikel=8), [9](https://wetten.overheid.nl/jci1.3:c:BWBR0007149&artikel=9) en [22 van de Wet arbeid vreemdelingen](onbekend);
 
 Besluit:
 
@@ -50,6 +50,6 @@ Een tewerkstellingsvergunning of een gecombineerde vergunning als bedoeld in [ar
 
 ##### Artikel III
 
-Deze regeling treedt, met uitzondering van [artikel I, onderdeel B](https://wetten.overheid.nl/jci1.3:c:BWBR0035585&artikel=I&z=2014-10-01&g=2014-10-01), in werking met ingang van 1 oktober 2014. Artikel I, onderdeel B, treedt in werking met ingang van 1 oktober 2016.
+Deze regeling treedt, met uitzondering van [artikel I, onderdeel B](https://wetten.overheid.nl/jci1.3:c:BWBR0035585&artikel=I&z=2016-10-01&g=2016-10-01), in werking met ingang van 1 oktober 2014. Artikel I, onderdeel B, treedt in werking met ingang van 1 oktober 2016.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst
