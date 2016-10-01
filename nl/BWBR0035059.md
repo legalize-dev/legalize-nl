@@ -4,7 +4,7 @@ identifier: "BWBR0035059"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-09-01"
-last_updated: "2015-09-01"
+last_updated: "2016-10-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0035059"
 soort: "ministeriele-regeling"
@@ -44,91 +44,85 @@ Besluit:
 
 ##### Artikel 1. Begripsbepalingen
 
-- a. **de minister:** Onze Minister van Onderwijs, Cultuur en Wetenschap en, voor zover het betreft het onderwijs en onderzoek op het gebied van landbouw en natuurlijke omgeving, Onze Minister van Economische Zaken;
+- **aanvullende eisen:** eisen als bedoeld in [artikel 7.26, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=7.26), en [7.26a, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=7.26a);
 
-- b. **wet:** [Wet op het hoger onderwijs en wetenschappelijk onderzoek](https://wetten.overheid.nl/jci1.3:c:BWBR0005682);
+- **accreditatieorgaan:** Nederlands-Vlaamse accreditatieorganisatie, bedoeld in [artikel 5.a.2 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=5a.2);
 
-- c. **WVO:** [Wet op het voortgezet onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0002399);
+- **bewijs van toelating:** op naam gesteld document, afgegeven door de instelling, dat aantoont dat een kandidaat de selectie heeft doorlopen en geplaatst is binnen de door het instellingsbestuur vastgestelde onderwijscapaciteit.
 
-- d. **WVO-BES:** [Wet op het voortgezet onderwijs BES](https://wetten.overheid.nl/jci1.3:c:BWBR0030284);
+- **bijzondere nadere vooropleidingseisen opleiding tot leraar basisonderwijs:** eisen als bedoeld in [artikel 7.25a van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=7.25a);
 
-- e. **WEB:** [Wet educatie en beroepsonderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0007625);
+- **diploma:**
 
-- f. **instelling:** een instelling voor hoger onderwijs als bedoeld in [artikel 1.8, eerste en tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=1.8) of een rechtspersoon voor hoger onderwijs;
+- 1. diploma als bedoeld in [artikel 7.24, eerste en tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=7.24), dan wel een daarmee overeenkomend diploma, behaald in Bonaire, Saba, Sint Eustatius, Curaçao, Sint Maarten, Aruba of Suriname danwel het diploma van het Europees baccalaureaat van de Europese school, bedoeld in het Statuut van de Europese school (Tractatenblad 1957, nr. 246), voor zover dat baccalaureaat het vak Nederlands als eerste of tweede taal omvat;
 
-- g. **universiteit:**
+- 2. diploma van een niet in [artikel 7.24 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=7.24) bedoelde vooropleiding of een niet in [artikel 7.28, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=7.28) bedoelde opleiding dat op grond van een voor Nederland in werking getreden internationale overeenkomst toegangsrecht tot het Nederlandse hoger onderwijs met zich meebrengt;
 
-- 1°. een universiteit als bedoeld in de [onderdelen a en b van de bijlage bij de wet](77499),
+- 3. gewaarmerkte verklaring van het bestuur van een instelling, inhoudende dat de kandidaat met toepassing van de [artikelen 7.25, derde lid of vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=7.25), 28, lid 1a, tweede lid, of[7.29, eerste, derde of vierde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=7.29), onverminderd [artikel 7.28, vierde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=7.28), tot de opleiding van zijn keuze kan worden toegelaten;
 
-- 2°. de Open Universiteit, bedoeld in [onderdeel h van de bijlage bij de wet](77499), en
+- **domein:** opleidingsdomein als bedoeld in[artikel 6.4.1, eerste lid, van de WEB](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=6.4.1);
 
-- 3°. een levensbeschouwelijke universiteit als bedoeld in [onderdeel i, van de bijlage bij de wet](77499);
+- **fixusopleiding:** opleiding waarvoor op grond van de [artikelen 7.53](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=7.53) of [56 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=7.56) een beperkt aantal studenten kan worden ingeschreven;
 
-- h. **hogeschool:** een hogeschool als bedoeld in [onderdelen c en g van de bijlage bij de wet](77499);
+- **getuigschrift:** getuigschrift als bedoeld in [artikel 7.11, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=7.11);
 
-- i. **rechtspersoon voor hoger onderwijs:** een rechtspersoon als bedoeld in [artikel 1.1, onderdeel aa, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=1.1);
+- **hogeschool:** hogeschool als bedoeld in onderdelen c en g van de [bijlage bij de wet](onbekend);
 
-- j. **instellingsbestuur:** een instellingsbestuur als bedoeld in [artikel 1.1, onderdeel j, eerste gedachtestreep van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=1.1);
+- **instelling:** instelling voor hoger onderwijs als bedoeld in [artikel 1.8, eerste en tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=1.8) of een rechtspersoon voor hoger onderwijs;
 
-- k. **opleiding:** een opleiding als bedoeld in [artikel 7.3a, eerste lid, onderdeel a en tweede lid, onderdeel a, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=7.3a);
+- **instellingsbestuur:** instellingsbestuur als bedoeld in [artikel 1.1, onderdeel j, eerste gedachtestreep van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=1.1);
 
-- l. **opleiding op het gebied van de kunst:** een opleiding als bedoeld in [7.26a van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=7.26a);
+- **kandidaat:** degene die zich voor de propedeutische fase van een bepaalde opleiding wil aanmelden of laten inschrijven;
 
-- m. **lerarenopleiding op het gebied van de kunst:** een lerarenopleiding als bedoeld in [artikel 7.26a, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=7.26a);
+- **lerarenopleiding op het gebied van kunst:** lerarenopleiding als bedoeld in [artikel 7.26a, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=7.26a);
 
-- n. **studiejaar:** het tijdvak dat aanvangt op 1 september en eindigt op 31 augustus van het daarop volgende jaar;
+- **minister:** de Minister van Onderwijs, Cultuur en Wetenschap en, voor zover het betreft het onderwijs en onderzoek op het gebied van landbouw en natuurlijke omgeving, de Minister van Economische Zaken;
 
-- o. **vooropleidingseisen:** eisen als bedoeld in [artikel 7.24 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=7.24);
+- **nadere vooropleidingseisen vo-ho:** eisen als bedoeld in [artikel 7.25, eerste en tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=7.25);
 
-- p. **nadere vooropleidingseisen vo-ho:** eisen als bedoeld in [artikel 7.25, eerste en tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=7.25);
+- **nadere vooropleidingseisen mbo-hbo:** eisen als bedoeld in [artikel 7.25, derde lid van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=7.25);
 
-- q. **nadere vooropleidingseisen mbo-hbo:** eisen als bedoeld in [artikel 7.25, derde lid van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=7.25);
+- **opleiding:** opleiding als bedoeld in [artikel 7.3a, eerste lid, onderdeel a en tweede lid, onderdeel a, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=7.3a); opleiding op het gebied van de kunst: opleiding als bedoeld in [7.26a van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=7.26a);
 
-- r. **aanvullende eisen:** eisen als bedoeld in [artikel 7.26, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=7.26), en [7.26a, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=7.26a);
+- **plaats:** plaats als opgenomen in de mededeling bedoeld in [artikel 7.53, zesde lid van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=7.23);
 
-- s. **profiel:** een profiel als bedoeld in [artikel 12, tweede lid, van de WVO](https://wetten.overheid.nl/jci1.3:c:BWBR0002399&artikel=12) of [artikel 38, tweede lid, van de WVO BES](https://wetten.overheid.nl/jci1.3:c:BWBR0030284&artikel=38);
+- **profiel:** profiel als bedoeld in [artikel 12, tweede lid, van de WVO](https://wetten.overheid.nl/jci1.3:c:BWBR0002399&artikel=12) of [artikel 38, tweede lid, van de WVO BES](https://wetten.overheid.nl/jci1.3:c:BWBR0030284&artikel=38);
 
-- t. **domein:** een opleidingsdomein als bedoeld in [artikel 6.4.1, eerste lid, van de WEB](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=6.4.1);
+- **rankingnummer:** uniek nummer dat door de instelling toegekend wordt aan een kandidaat die de selectie heeft doorlopen, waaruit blijkt hoe hij ten opzichte van de andere deelnemers aan de selectie is beoordeeld;
 
-- u. **Studielink:** de gemeenschappelijke aanmeld- en inschrijfapplicatie van de hogescholen, de universiteiten en de minister;
+- **rechtspersoon voor hoger onderwijs:** rechtspersoon als bedoeld in [artikel 1.1, onderdeel aa, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=1.1);
 
-- v. **DUO:** Dienst Uitvoering Onderwijs van het ministerie van OCW;
+- **selectie:** selectieprocedure als bedoeld in [artikel 7.53 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=7.53);
 
-- w. **het accreditatieorgaan:** de Nederlands-Vlaamse accreditatieorganisatie, bedoeld in [artikel 5.a.2 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=5a.2);
+- **studiejaar:** tijdvak dat aanvangt op 1 september en eindigt op 31 augustus van het daarop volgende jaar;
 
-- x. **fixusopleiding:** een opleiding waarvoor op grond van [artikelen 7.53](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=7.53) of [56 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=7.56) een beperkt aantal studenten kan worden ingeschreven;
+- **Studielink:** gemeenschappelijke aanmeld- en inschrijfapplicatie van de hogescholen en de universiteiten;
 
-- ij. **kandidaat:** degene die zich voor de propedeutische fase van een bepaalde opleiding wil aanmelden of laten inschrijven;
+- **universiteit:**
 
-- z. **selectieprocedure:** selectieprocedure als bedoeld in [artikel 7.57a, derde lid, onderdeel a, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=7.57a);
+- 1. universiteit als bedoeld in de onderdelen a en b van de [bijlage bij de wet](onbekend),
 
-- aa. **lotingsprocedure:** lotingsprocedure als bedoeld in [artikel 7.57 b van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=7.57b);
+- 2. Open Universiteit, bedoeld in onderdeel h van de [bijlage bij de wet](onbekend), of
 
-- bb. **decentrale selectie:** decentrale selectie als bedoeld in [artikel 7.57e van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=7.57e);
+- 3. levensbeschouwelijke universiteit als bedoeld in onderdeel i, van de [bijlage bij de wet](onbekend);
 
-- cc. **bewijs van toelating:** bewijs van toelating als bedoeld in [artikel 7.57a, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=7.57a);
+- **vooropleidingseisen:** eisen als bedoeld in[artikel 7.24 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=7.24);
 
-- dd. **diploma:**
+- **WEB:** [Wet educatie en beroepsonderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0007625);
 
-- 1°. diploma als bedoeld in [artikel 7.24, eerste en tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=7.24), dan wel een daarmee overeenkomend diploma, behaald in Bonaire, Saba, Sint Eustatius, Curaçao, Sint Maarten, Aruba of Suriname danwel het diploma van het Europees baccalaureaat van de Europese school, bedoeld in het Statuut van de Europese school (Tractatenblad 1957, nr. 246), voor zover dat baccalaureaat het vak Nederlands als eerste of tweede taal omvat;
+- **Wet:** [Wet op het hoger onderwijs en wetenschappelijk onderzoek](https://wetten.overheid.nl/jci1.3:c:BWBR0005682);
 
-- 2°. het diploma van een niet in [artikel 7.24 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=7.24) bedoelde vooropleiding of een niet in [artikel 7.28, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=7.28) bedoelde opleiding dat op grond van een voor Nederland in werking getreden internationale overeenkomst toegangsrecht tot het Nederlandse hoger onderwijs met zich meebrengt;
+- **WVO:** [Wet op het voortgezet onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0002399);
 
-- 3°. een gewaarmerkte verklaring van het bestuur van een instelling, inhoudende dat de kandidaat met toepassing van de [artikelen 7.25, derde lid of vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=7.25), [7.28, lid 1a, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=7.28), of [29, eerste, derde of vierde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=7.29), onverminderd artikel 7.28, vierde lid, van de wet, tot de opleiding van zijn keuze kan worden toegelaten;
-
-- ee. **cijferlijst:**een cijferlijst, behorend bij een diploma;
-
-- ff. **getuigschrift:**getuigschrift als bedoeld in [artikel 7.11, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=7.11);
-
-- gg. **sufficiëntieverklaring:** verklaring van het bestuur van een instelling inhoudende dat de kandidaat voldoet aan de voorwaarden, bedoeld in [artikel 7.25, eerste, tweede of derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=7.25), [artikel 7.28, lid 1a en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=7.28) en [artikel 7.29, eerste, derde en vierde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=7.29).
+- **WVO BES:** [Wet op het voortgezet onderwijs BES](https://wetten.overheid.nl/jci1.3:c:BWBR0030284).
 
 ##### Artikel 1.2. Identificatie opleidingen
 
-Voor de toepassing van deze regeling gelden door instellingen verzorgde opleidingen met dezelfde naam als dezelfde opleidingen, met uitzondering van [artikel 3.2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035059&hoofdstuk=3&artikel=3.2&z=2015-09-01&g=2015-09-01).
+Voor de toepassing van deze regeling gelden door instellingen verzorgde opleidingen met dezelfde naam als dezelfde opleidingen, met uitzondering van [artikel 3.2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035059&hoofdstuk=3&artikel=3.2&z=2016-10-01&g=2016-10-01).
 
 ##### Artikel 1.3. Data
 
-De data in deze regeling vallen steeds in het studiejaar dat voorafgaat aan het studiejaar waarvoor de kandidaat zich wil aanmelden of wil inschrijven, tenzij anders is bepaald en met dien verstande dat de data tussen 31 augustus en 16 september telkens vallen in het studiejaar.
+De data in deze regeling vallen steeds in het studiejaar dat voorafgaat aan het studiejaar waarvoor de kandidaat zich wil aanmelden of wil inschrijven, tenzij anders is bepaald en met dien verstande dat de data tussen 31 augustus en 1 oktober telkens vallen in het studiejaar.
 
 ### Hoofdstuk 2. Nadere vooropleidingseisen
 
@@ -136,9 +130,9 @@ De data in deze regeling vallen steeds in het studiejaar dat voorafgaat aan het 
 
 ##### Artikel 2.1. Nadere vooropleidingseisen per opleiding
 
-1. Voor opleidingen aan universiteiten gelden voor kandidaten die in het bezit zijn van een vwo-diploma van een in [bijlage A](https://wetten.overheid.nl/jci1.3:c:BWBR0035059&bijlage=A&z=2015-09-01&g=2015-09-01) opgenomen opleiding, de nadere vooropleidingseisen die zijn opgenomen in bijlage A.
+1. Voor opleidingen aan universiteiten gelden voor kandidaten die in het bezit zijn van een vwo-diploma van een in [bijlage A](https://wetten.overheid.nl/jci1.3:c:BWBR0035059&bijlage=A&z=2016-10-01&g=2016-10-01) opgenomen opleiding, de nadere vooropleidingseisen die zijn opgenomen in bijlage A.
 
-2. Voor opleidingen aan hogescholen gelden voor kandidaten die in het bezit zijn van een vwo-diploma of het havo-diploma van een in [bijlage B](https://wetten.overheid.nl/jci1.3:c:BWBR0035059&bijlage=B&z=2015-09-01&g=2015-09-01) opgenomen opleiding, de nadere vooropleidingseisen die zijn opgenomen in bijlage B.
+2. Voor opleidingen aan hogescholen gelden voor kandidaten die in het bezit zijn van een vwo-diploma of het havo-diploma van een in [bijlage B](https://wetten.overheid.nl/jci1.3:c:BWBR0035059&bijlage=B&z=2016-10-01&g=2016-10-01) opgenomen opleiding, de nadere vooropleidingseisen die zijn opgenomen in bijlage B.
 
 3. Als de naam van een opleiding wordt gewijzigd, blijven de nadere vooropleidingseisen gelden zoals die golden voor het tijdstip van de naamswijziging.
 
@@ -158,9 +152,9 @@ Als de naam van een opleiding wordt gewijzigd, blijft de toelatingsmogelijkheid 
 
 ##### Artikel 2.4. Nadere vooropleidingseisen mbo
 
-Voor opleidingen in het hoger beroepsonderwijs in een in [bijlage C](https://wetten.overheid.nl/jci1.3:c:BWBR0035059&bijlage=C&z=2015-09-01&g=2015-09-01) opgenomen sector, geldt voor kandidaten die met goed gevolg een middenkaderopleiding of een specialistenopleiding als bedoeld in [artikel 7.2.2, eerste lid, onder d, onderscheidenlijk e, van de WEB](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=7.2.2) hebben afgelegd als nadere vooropleidingseis:
+Voor opleidingen in het hoger beroepsonderwijs in een in [bijlage C](https://wetten.overheid.nl/jci1.3:c:BWBR0035059&bijlage=C&z=2016-10-01&g=2016-10-01) opgenomen sector, geldt voor kandidaten die met goed gevolg een middenkaderopleiding of een specialistenopleiding als bedoeld in [artikel 7.2.2, eerste lid, onder d, onderscheidenlijk e, van de WEB](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=7.2.2) hebben afgelegd als nadere vooropleidingseis:
 
-- a. het bezit van een diploma van een opleiding behorend tot een in [bijlage C](https://wetten.overheid.nl/jci1.3:c:BWBR0035059&bijlage=C&z=2015-09-01&g=2015-09-01) opgenomen domein of
+- a. het bezit van een diploma van een opleiding behorend tot een in [bijlage C](https://wetten.overheid.nl/jci1.3:c:BWBR0035059&bijlage=C&z=2016-10-01&g=2016-10-01) opgenomen domein of
 
 - b. een door de hogeschool afgegeven sufficiëntieverklaring.
 
@@ -168,9 +162,9 @@ Voor opleidingen in het hoger beroepsonderwijs in een in [bijlage C](https://wet
 
 ##### Artikel 3.1. Aanvullende eisen in verband met de uitoefening van een beroep of beroepen
 
-1. De opleidingen waarvoor aanvullende eisen gelden, die verband houden met de uitoefening van een beroep of de beroepen waarop zij voorbereiden, zijn opgenomen in [bijlage D](https://wetten.overheid.nl/jci1.3:c:BWBR0035059&bijlage=D&z=2015-09-01&g=2015-09-01).
+1. De opleidingen waarvoor aanvullende eisen gelden, die verband houden met de uitoefening van een beroep of de beroepen waarop zij voorbereiden, zijn opgenomen in [bijlage D](https://wetten.overheid.nl/jci1.3:c:BWBR0035059&bijlage=D&z=2016-10-01&g=2016-10-01).
 
-2. De minister neemt, al dan niet op een aanvraag, een opleiding op in de in het eerste lid bedoelde [bijlage](https://wetten.overheid.nl/jci1.3:c:BWBR0035059&bijlage=D&z=2015-09-01&g=2015-09-01), als:
+2. De minister neemt, al dan niet op een aanvraag, een opleiding op in de in het eerste lid bedoelde [bijlage](https://wetten.overheid.nl/jci1.3:c:BWBR0035059&bijlage=D&z=2016-10-01&g=2016-10-01), als:
 
 - a. objectieve gronden in verband met de toekomstige beroepsuitoefening het stellen van de aanvullende eisen voor toelating tot deze opleiding rechtvaardigen,
 
@@ -178,7 +172,7 @@ Voor opleidingen in het hoger beroepsonderwijs in een in [bijlage C](https://wet
 
 - c. het stellen van de aanvullende eisen geen afbreuk doet aan de toegankelijkheid van het betreffende hoger onderwijs.
 
-3. De gronden bedoeld in het tweede lid, onderdeel a, worden in [bijlage D](https://wetten.overheid.nl/jci1.3:c:BWBR0035059&bijlage=D&z=2015-09-01&g=2015-09-01) bij de betreffende opleiding vermeld.
+3. De gronden bedoeld in het tweede lid, onderdeel a, worden in [bijlage D](https://wetten.overheid.nl/jci1.3:c:BWBR0035059&bijlage=D&z=2016-10-01&g=2016-10-01) bij de betreffende opleiding vermeld.
 
 4. Een aanvraag als bedoeld in het tweede lid kan worden ingediend door het instellingsbestuur of, indien het een opleiding betreft die door meerdere instellingen wordt verzorgd, de betreffende instellingsbesturen gezamenlijk. In de aanvraag wordt gemotiveerd aangevoerd waarom wordt voldaan aan de in het tweede lid opgesomde voorwaarden.
 
@@ -188,9 +182,9 @@ Voor opleidingen in het hoger beroepsonderwijs in een in [bijlage C](https://wet
 
 ##### Artikel 3.2. Aanvullende eisen in verband met de organisatie en inrichting van het onderwijs
 
-1. De opleidingen waarvoor aanvullende eisen gelden, die verband houden met de organisatie en inrichting van het onderwijs zijn opgenomen in [bijlage E](https://wetten.overheid.nl/jci1.3:c:BWBR0035059&bijlage=E&z=2015-09-01&g=2015-09-01).
+1. De opleidingen waarvoor aanvullende eisen gelden, die verband houden met de organisatie en inrichting van het onderwijs zijn opgenomen in [bijlage E](https://wetten.overheid.nl/jci1.3:c:BWBR0035059&bijlage=E&z=2016-10-01&g=2016-10-01).
 
-2. De minister neemt op een aanvraag van het betreffende instellingsbestuur, of de betreffende instellingsbesturen gezamenlijk als het betreft alle opleidingen met dezelfde naam, een opleiding op in [bijlage E](https://wetten.overheid.nl/jci1.3:c:BWBR0035059&bijlage=E&z=2015-09-01&g=2015-09-01), indien met de aanvraag is aangetoond, dat:
+2. De minister neemt op een aanvraag van het betreffende instellingsbestuur, of de betreffende instellingsbesturen gezamenlijk als het betreft alle opleidingen met dezelfde naam, een opleiding op in [bijlage E](https://wetten.overheid.nl/jci1.3:c:BWBR0035059&bijlage=E&z=2016-10-01&g=2016-10-01), indien met de aanvraag is aangetoond, dat:
 
 - a. de opleiding zich onderscheidt door een specifiek onderwijsconcept,
 
@@ -200,7 +194,7 @@ Voor opleidingen in het hoger beroepsonderwijs in een in [bijlage C](https://wet
 
 - d. het stellen van de aanvullende eisen geen afbreuk doet aan de toegankelijkheid van het hoger onderwijs.
 
-3. De gronden bedoeld in het tweede lid, onderdeel b, worden in [bijlage E](https://wetten.overheid.nl/jci1.3:c:BWBR0035059&bijlage=E&z=2015-09-01&g=2015-09-01) bij de opleiding vermeld.
+3. De gronden bedoeld in het tweede lid, onderdeel b, worden in [bijlage E](https://wetten.overheid.nl/jci1.3:c:BWBR0035059&bijlage=E&z=2016-10-01&g=2016-10-01) bij de opleiding vermeld.
 
 4. Bij de aanvraag legt het instellingsbestuur een door de NVAO opgesteld advies met betrekking tot de in het tweede lid, onderdeel a tot en met c genoemde voorwaarden over.
 
@@ -210,7 +204,7 @@ Voor opleidingen in het hoger beroepsonderwijs in een in [bijlage C](https://wet
 
 ##### Artikel 3.3. Verwijdering van de bijlage en informatieplicht
 
-1. De minister kan een opleiding uit [bijlage D](https://wetten.overheid.nl/jci1.3:c:BWBR0035059&bijlage=D&z=2015-09-01&g=2015-09-01), respectievelijk [bijlage E](https://wetten.overheid.nl/jci1.3:c:BWBR0035059&bijlage=E&z=2015-09-01&g=2015-09-01) verwijderen, als de omstandigheden op grond waarvan is besloten de opleiding in de bijlage te vermelden, zijn komen te vervallen.
+1. De minister kan een opleiding uit [bijlage D](https://wetten.overheid.nl/jci1.3:c:BWBR0035059&bijlage=D&z=2016-10-01&g=2016-10-01), respectievelijk [bijlage E](https://wetten.overheid.nl/jci1.3:c:BWBR0035059&bijlage=E&z=2016-10-01&g=2016-10-01) verwijderen, als de omstandigheden op grond waarvan is besloten de opleiding in de bijlage te vermelden, zijn komen te vervallen.
 
 2. Het instellingsbestuur stelt de minister op de hoogte van een wijziging in de omstandigheden, die aanleiding kan zijn voor toepassing van de bevoegdheid genoemd in het eerste lid.
 
@@ -222,7 +216,7 @@ Voor opleidingen in het hoger beroepsonderwijs in een in [bijlage C](https://wet
 
 1. De kandidaat die zich overeenkomstig [artikel 7.31a, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=7.31a) aanmeldt, doet dat met behulp van DigiD via Studielink.
 
-2. Onverminderd de [artikelen 4.3](https://wetten.overheid.nl/jci1.3:c:BWBR0035059&hoofdstuk=4&paragraaf=2&artikel=4.3&z=2015-09-01&g=2015-09-01) en [4.8](https://wetten.overheid.nl/jci1.3:c:BWBR0035059&hoofdstuk=4&paragraaf=3&artikel=4.8&z=2015-09-01&g=2015-09-01) kan de in het eerste lid bedoelde aanmelding betrekking hebben op ten hoogste drie opleidingen.
+2. Onverminderd de [artikelen 4.3](https://wetten.overheid.nl/jci1.3:c:BWBR0035059&hoofdstuk=4&paragraaf=2&artikel=4.3&z=2016-10-01&g=2016-10-01) en [4.8](https://wetten.overheid.nl/jci1.3:c:BWBR0035059&hoofdstuk=4&paragraaf=3&artikel=4.8&z=2016-10-01&g=2016-10-01) kan de in het eerste lid bedoelde aanmelding betrekking hebben op ten hoogste drie opleidingen.
 
 3. De minister verifieert de persoonsgegevens van de kandidaat aan de hand van de over de kandidaat in de gemeentelijke basisadministratie persoonsgegevens opgenomen gegevens.
 
@@ -232,7 +226,7 @@ Voor opleidingen in het hoger beroepsonderwijs in een in [bijlage C](https://wet
 
 ##### Artikel 4.2. Bevestiging aanmelding (verzoek tot inschrijving)
 
-1. De minister zendt de kandidaat die zich overeenkomstig [artikel 4.1](https://wetten.overheid.nl/jci1.3:c:BWBR0035059&hoofdstuk=4&paragraaf=1&artikel=4.1&z=2015-09-01&g=2015-09-01) heeft aangemeld, een elektronische bevestiging.
+1. De minister zendt de kandidaat die zich overeenkomstig [artikel 4.1](https://wetten.overheid.nl/jci1.3:c:BWBR0035059&hoofdstuk=4&paragraaf=1&artikel=4.1&z=2016-10-01&g=2016-10-01) heeft aangemeld, een elektronische bevestiging.
 
 2. De minister maakt aan de kandidaat tevens zo spoedig mogelijk bekend:
 
@@ -248,271 +242,173 @@ Voor opleidingen in het hoger beroepsonderwijs in een in [bijlage C](https://wet
 
 2. De desbetreffende instelling draagt er zorg voor dat de kandidaat voor 15 april de uitslag van het onderzoek kan vernemen.
 
-3. De kandidaat die aan de aanvullende eisen voldoet en aan de desbetreffende opleiding wil worden ingeschreven, meldt zich overeenkomstig [artikel 4.1](https://wetten.overheid.nl/jci1.3:c:BWBR0035059&hoofdstuk=4&paragraaf=1&artikel=4.1&z=2015-09-01&g=2015-09-01), aan bij de minister.
+3. De kandidaat die aan de aanvullende eisen voldoet en aan de desbetreffende opleiding wil worden ingeschreven, meldt zich overeenkomstig [artikel 4.1](https://wetten.overheid.nl/jci1.3:c:BWBR0035059&hoofdstuk=4&paragraaf=1&artikel=4.1&z=2016-10-01&g=2016-10-01), aan bij de minister.
+
+4. In afwijking van het eerste lid kan het instellingsbestuur van een opleiding waarvan de organisatie en inrichting van het onderwijs als bedoeld in [artikel 3.2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035059&hoofdstuk=3&artikel=3.2&z=2016-10-01&g=2016-10-01), uitgaat van een internationale studentenpopulatie, een uiterste datum voor aanmelding na 15 januari vaststellen.
 
 #### § 3. Bepalingen voor fixusopleidingen
 
-##### Artikel 4.4. Termijn aanmelding voor fixusopleiding
+##### Artikel 4.4. Mededeling
 
-Ongeacht de [artikelen 4.5](https://wetten.overheid.nl/jci1.3:c:BWBR0035059&hoofdstuk=4&paragraaf=3&artikel=4.5&z=2015-09-01&g=2015-09-01), [4.6](https://wetten.overheid.nl/jci1.3:c:BWBR0035059&hoofdstuk=4&paragraaf=3&artikel=4.6&z=2015-09-01&g=2015-09-01), [4.20](https://wetten.overheid.nl/jci1.3:c:BWBR0035059&hoofdstuk=4&paragraaf=3&artikel=4.20&z=2015-09-01&g=2015-09-01) en [4.21](https://wetten.overheid.nl/jci1.3:c:BWBR0035059&hoofdstuk=4&paragraaf=3&artikel=4.21&z=2015-09-01&g=2015-09-01), vindt de aanmelding voor een fixusopleiding plaats voor 15 mei.
+Het instellingsbestuur doet de mededeling, bedoeld in [artikel 7.53, zesde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=7.53), aan de minister.
 
-##### Artikel 4.5. Algemene regeling voor inzending van documenten
+##### Artikel 4.5. Aanmelding voor fixusopleiding
 
-1. De kandidaat die zich heeft aangemeld, stuurt voor 23 juni aan de minister:
+1. Een kandidaat kan zich per fixusopleiding in totaal maximaal drie keer aanmelden.
 
-- a. een gewaarmerkte kopie van zijn cijferlijst of
+2. Onverminderd het eerste lid, kan het instellingsbestuur per fixusopleiding vaststellen hoeveel keer een kandidaat kan deelnemen aan de selectie voor de opleiding aan de instelling.
 
-- b. een gewaarmerkte kopie van zijn getuigschrift.
+3. Een kandidaat kan zich voor een studiejaar voor ten hoogste twee fixusopleidingen aanmelden, met uitzondering van de in het vierde lid genoemde opleidingen.
 
-2. Als krachtens [artikel 7.25](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=7.25) en [artikel 7.25a van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=7.25a) nadere vooropleidingseisen vo-ho, nadere vooropleidingseisen mbo-hbo of bijzondere nadere vooropleidingseisen gelden of het instellingsbestuur van een universiteit gebruik heeft gemaakt van de in [artikel 7.28, lid 1a en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=7.28), toegekende bevoegdheid, stuurt de kandidaat die zich heeft aangemeld, voor 15 mei aan de minister een bewijsstuk waaruit blijkt dat hij aan die eisen voldoet. Dit bewijsstuk bestaat uit:
+4. Voor de opleiding geneeskunde, tandheelkunde, fysiotherapie en mondzorgkunde kan een kandidaat zich voor een studiejaar bij niet meer dan een instelling aanmelden voor eenzelfde opleiding.
 
-- a. een gewaarmerkte kopie van zijn cijferlijst waaruit blijkt dat hij aan deze eisen voldoet, of
+5. Een aanmelding als bedoeld in het eerste lid vervalt als de kandidaat deze uiterlijk 15 januari intrekt.
 
-- b. een sufficiëntieverklaring.
+6. Een kandidaat kan een verzoek bij het instellingsbestuur indienen om zijn aanmelding te laten vervallen, als hij er niet in slaagt zijn diploma of getuigschrift te behalen.
 
-3. Als de kandidaat niet over de bedoelde bewijsstukken beschikt, geeft hij voor 23 juni een schriftelijke verklaring af aan de minister over de redenen voor de latere toezending van die bewijsstukken. De kandidaat, bedoeld in het tweede lid, neemt tevens [artikel 4.6](https://wetten.overheid.nl/jci1.3:c:BWBR0035059&hoofdstuk=4&paragraaf=3&artikel=4.6&z=2015-09-01&g=2015-09-01) in acht.
+7. Het instellingsbestuur laat de aanmelding van een kandidaat vervallen, als de kandidaat voor 1 september bij het instellingsbestuur daartoe een verzoek indient als bedoeld in het zesde lid. Het instellingsbestuur handelt het verzoek voor 1 oktober af.
 
-4. Na toepassing van het derde lid stuurt de kandidaat, bedoeld in het eerste lid, aan de minister:
+##### Artikel 4.6. Aanmelding kandidaten
 
-- a. voor 5 juli een gewaarmerkte kopie van zijn cijferlijst van een in Nederland behaald diploma voorbereidend wetenschappelijk onderwijs of hoger algemeen voortgezet onderwijs, tenzij de kandidaat deelneemt aan een staatsexamen of een verlaat examen;
+1. De kandidaat die wil deelnemen aan de selectie meldt zich in de periode van 1 oktober tot en met 15 januari, via Studielink, aan bij de instelling die de fixusopleiding verzorgt.
 
-- b. voor 1 september een gewaarmerkte kopie van zijn cijferlijst of een gewaarmerkte kopie van zijn getuigschrift indien hij aan een hogeschool deelneemt aan een propedeutisch examen of afsluitend examen als bedoeld in [artikel 7.28, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=7.28).
+2. In afwijking van het vorige lid laat het instellingsbestuur de kandidaat deelnemen aan de selectie als deze zich na 15 januari aanmeldt, als het vaststelt dat er bij weigering van deelname sprake zou zijn van onbillijkheid van overwegende aard.
 
-5. Na toepassing van het derde lid stuurt de kandidaat, bedoeld in het tweede lid, de bewijsstukken, bedoeld in het tweede lid, voor 23 juni aan de minister. Als de kandidaat voor die datum niet in staat is deze bewijsstukken aan de minister te sturen, is het vierde lid van overeenkomstige toepassing, behoudens in de gevallen bedoeld in [artikel 4.6, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035059&hoofdstuk=4&paragraaf=3&artikel=4.6&z=2015-09-01&g=2015-09-01).
+##### Artikel 4.7. Selectie
 
-##### Artikel 4.6. Latere inzending bescheiden in verband met nadere vooropleidingseisen
+1. Het instellingsbestuur draagt er zorg voor dat de selectieprocedure uiterlijk 14 april is afgerond.
 
-1. De kandidaat, bedoeld in [artikel 4.5, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035059&hoofdstuk=4&paragraaf=3&artikel=4.5&z=2015-09-01&g=2015-09-01), die bij de aanmelding nog niet voldoet aan de vooropleidingseisen of nadere vooropleidingseisen vo-ho respectievelijk mbo-hbo en die een verklaring als bedoeld in artikel 4.5, derde lid wil afgeven, legt voor 15 mei aan de minister de volgende documenten over:
+2. Het instellingsbestuur kan voor 15 januari beginnen met de selectie, mits alle kandidaten die zich uiterlijk 15 januari hebben aangemeld, kunnen deelnemen aan de volledige selectie.
 
-- a. een opgave van zijn in [artikel 7.25 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=7.25) bedoelde profielkeuze waaruit blijkt dat hij aan de nadere vooropleidingseisen vo-ho of de nadere vooropleidingseisen mbo-hbo of de bijzondere nadere vooropleidingseisen zal voldoen, of
+3. Als het aantal aanmeldingen lager is dan of gelijk is aan het aantal beschikbare plaatsen, vindt geen selectie plaats.
 
-- b. een gewaarmerkte verklaring, afgegeven door een instelling, waaruit blijkt dat hij met zijn diploma of zijn getuigschrift tevens zal voldoen aan de nadere vooropleidingseisen vo-ho, de nadere vooropleidingseisen mbo-hbo respectievelijk de bijzondere nadere vooropleidingseisen.
+##### Artikel 4.8. Rankingnummers en bewijzen van toelating
 
-2. De kandidaat die bij de aanmelding al voldoet aan de vooropleidingseisen, maar op dat tijdstip niet voldoet aan de nadere vooropleidingseisen vo-ho, de nadere vooropleidingseisen mbo-hbo, de bijzondere nader vooropleidingseisen of de in [artikel 7.28, lid 1a en tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=7.28) bedoelde vrijstelling, legt voor 15 mei een bewijsstuk over, bestaande uit een van de in het eerste lid genoemde bewijsstukken, dan wel een verklaring dat hij deelneemt of zal deelnemen aan het onderzoek ter verkrijging van een sufficiëntieverklaring. Deze kandidaat stuurt zijn sufficiëntieverklaring voor 1 september aan de minister.
+1. Het aantal bewijzen van toelating is gelijk aan het aantal beschikbare plaatsen voor een opleiding.
 
-##### Artikel 4.7. Aanmelding voor decentrale selectie
+2. Als het aantal beschikbare plaatsen kleiner is dan het aantal kandidaten dat een rankingnummer heeft ontvangen, wordt een bewijs van toelating uitgereikt aan de kandidaten met de laagste rankingnummers.
 
-1. De kandidaat die wil deelnemen aan decentrale selectie, meldt zich daartoe voor 15 januari aan via Studielink. Als zijn aanmelding een opleiding betreft waarop [artikel 7.57d van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=7.57d) van toepassing is, vermeldt hij daarbij ook bij welke universiteit hij aan de decentrale selectie wil deelnemen.
+3. De instelling bericht via Studielink op 15 april de kandidaat over de uitkomst van de selectie voor de opleiding of opleidingen waaraan hij heeft deelgenomen en reikt daarbij tevens een rankingnummer of een bewijs van toelating uit.
 
-2. Het instellingsbestuur kan de in het eerste lid genoemde termijn verlengen.
+4. De kandidaat accepteert een bewijs van toelating binnen twee weken na ontvangst op de daartoe voorgeschreven wijze. Een bewijs van toelating dat niet binnen twee weken is geaccepteerd, vervalt.
 
-3. Een aanmelding voor decentrale selectie geldt ook als aanmelding voor de lotingsprocedure.
+5. Een kandidaat kan op enig moment niet meer dan een bewijs van toelating op geaccepteerd hebben staan.
 
-##### Artikel 4.8. Registratie in verband met beperking van deelname aan de selectieprocedure (loting en decentrale selectie)
+6. In afwijking van het vierde lid verstrekt het instellingsbestuur een bewijs van toelating als het vaststelt dat er sprake is van onbillijkheid van overwegende aard als geen bewijs van toelating wordt verstrekt.
 
-1. Voor de toepassing van [artikel 57f, derde lid van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=7.57f) registreert de minister de kandidaten die zich aanmelden voor een fixusopleiding.
+7. Als een kandidaat een bewijs van toelating niet tijdig accepteert, reikt de instelling een bewijs van toelating uit aan de kandidaat met het laagste rankingnummer, die nog geen bewijs van toelating heeft ontvangen.
 
-2. In afwijking van het eerste lid blijft registratie van de aanmelding van de kandidaat achterwege:
+8. Het instellingsbestuur stelt een uiterste datum vast waarna geen bewijzen van toelating worden uitgereikt, met dien verstande dat deze datum niet voor 1 augustus ligt.
 
-- a. als de kandidaat er in dat jaar niet in slaagt te voldoen aan de vooropleidingseisen, bedoeld in [artikel 7.24 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=7.24), dan wel aan de nadere vooropleidingseisen vo-ho, de nadere vooropleidingseisen mbo-hbo of de bijzondere nadere vooropleidingseisen,
+9. Voor de uiterste datum, bedoeld in het achtste lid, dienen alle bewijzen van toelating uitgereikt te zijn.
 
-- b. als de kandidaat zich niet voor decentrale selectie heeft aangemeld en zijn aanmelding voor de lotingsprocedure intrekt voordat hem op grond van [artikel 4.14](https://wetten.overheid.nl/jci1.3:c:BWBR0035059&hoofdstuk=4&paragraaf=3&artikel=4.14&z=2015-09-01&g=2015-09-01) een lotnummer is toegekend, of
+##### Artikel 4.9. Vooropleidingseisen en nadere vooropleidingseisen
 
-- c. als de kandidaat zich voor decentrale selectie heeft aangemeld, maar zijn aanmelding voor de selectieprocedure vóór het in onderdeel b bedoelde tijdstip intrekt, onder de voorwaarde dat hij aantoont dat hij feitelijk niet heeft deelgenomen aan de decentrale selectie.
+1. De bezitter van een bewijs van toelating toont voor een door het instellingsbestuur vastgestelde datum aan dat hij voldoet aan de vooropleidingseisen of de nadere vooropleidingseisen vo-ho, de nadere vooropleidingseisen mbo-hbo of bijzondere nadere vooropleidingseisen.
 
-##### Artikel 4.9. Sanctie
+2. Als de kandidaat niet binnen de gestelde termijn heeft voldaan aan de verplichting, bedoeld in het eerste lid, vervalt zijn bewijs van toelating.
 
-Als de kandidaat niet binnen de gestelde termijnen heeft voldaan aan de [artikelen 4.4](https://wetten.overheid.nl/jci1.3:c:BWBR0035059&hoofdstuk=4&paragraaf=3&artikel=4.4&z=2015-09-01&g=2015-09-01), [4.5](https://wetten.overheid.nl/jci1.3:c:BWBR0035059&hoofdstuk=4&paragraaf=3&artikel=4.5&z=2015-09-01&g=2015-09-01) en [4.6](https://wetten.overheid.nl/jci1.3:c:BWBR0035059&hoofdstuk=4&paragraaf=3&artikel=4.6&z=2015-09-01&g=2015-09-01), wordt de aanmelding als vervallen beschouwd, onverminderd [artikel 4.8](https://wetten.overheid.nl/jci1.3:c:BWBR0035059&hoofdstuk=4&paragraaf=3&artikel=4.8&z=2015-09-01&g=2015-09-01).
+3. Als een kandidaat voor de door het instellingsbestuur vastgestelde datum niet kan voldoen aan de verplichting, bedoeld in het eerste lid, kan hij het instellingsbestuur om uitstel verzoeken.
 
-##### Artikel 4.10. Algemene bepalingen selectie (loting en decentrale selectie)
+4. Het instellingsbestuur voldoet aan het verzoek, bedoeld in het derde lid, en stelt het een nieuwe termijn vast, waarbinnen de kandidaat aan de verplichting moet voldoen.
 
-1. Aan de selectieprocedure wordt uitsluitend deelgenomen door de kandidaten die zich overeenkomstig de [artikelen 4.1 tot en met 4.8](https://wetten.overheid.nl/jci1.3:c:BWBR0035059&hoofdstuk=4&paragraaf=1&artikel=4.1&z=2015-09-01&g=2015-09-01) hebben aangemeld.
+##### Artikel 4.10. Noodprocedure
 
-2. De kandidaat neemt deel aan de selectieprocedure voor de opleiding van zijn keuze. Dit sluit deelname aan de selectieprocedure voor een andere opleiding uit, behoudens [artikel 4.20](https://wetten.overheid.nl/jci1.3:c:BWBR0035059&hoofdstuk=4&paragraaf=3&artikel=4.20&z=2015-09-01&g=2015-09-01).
+1. In afwijking van [artikel 4.7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035059&hoofdstuk=4&paragraaf=3&artikel=4.7&z=2016-10-01&g=2016-10-01), kan het instellingsbestuur de minister verzoeken om toestemming voor een extra mogelijkheid tot aanmelding, als na afronding van de aanmeldingsprocedure of na afloop van de selectie voor een opleiding het aantal aanmeldingen respectievelijk het aantal geselecteerde kandidaten lager is dan het aantal beschikbare plaatsen.
 
-3. In afwijking van het tweede lid neemt de kandidaat deel aan de lotingsprocedure voor meer dan één opleiding, als voor de desbetreffende opleiding [artikel 7.57d van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=7.57d) geldt. De kandidaat maakt in dat geval aan de minister de volgorde van zijn voorkeur bekend.
+2. De minister kan ingeval hij toestemming verleent voor een extra mogelijkheid tot aanmelding, daaraan voorwaarden verbinden en [artikel 4.5, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035059&hoofdstuk=4&paragraaf=3&artikel=4.5&z=2016-10-01&g=2016-10-01), niet van toepassing verklaren.
 
 ##### Artikel 4.11. Gemiddeld eindexamencijfer
 
-1. Het gemiddelde eindexamencijfer, bedoeld in [artikel 7.57b, eerste en tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=7.57b), van een kandidaat die met goed gevolg het eindexamen heeft afgelegd volgens de [artikelen 12 tot en met 15](https://wetten.overheid.nl/jci1.3:c:BWBR0002399&artikel=12) en [22 van de WVO](https://wetten.overheid.nl/jci1.3:c:BWBR0002399&artikel=22) of de [artikelen 72 tot en met 74 van de WVO BES](https://wetten.overheid.nl/jci1.3:c:BWBR0030284&artikel=72), wordt berekend uit de eindcijfers van het gemeenschappelijk deel, het profieldeel en het hoogste eindcijfer van het vrije deel gezamenlijk. Daarbij wordt, als de kandidaat het eindexamen heeft afgelegd volgens de bij of krachtens de [WVO](https://wetten.overheid.nl/jci1.3:c:BWBR0002399) of [WVO BES](https://wetten.overheid.nl/jci1.3:c:BWBR0030284) gegeven voorschriften, het gemiddelde van de eindcijfers bedoeld in [artikel 49, zesde lid van het Eindexamenbesluit v.w.o.-h.a.v.o.-m.a.v.o.-v.b.o.](https://wetten.overheid.nl/jci1.3:c:BWBR0004593&artikel=49) en [artikel 35 van het Eindexamenbesluit WVO BES](https://wetten.overheid.nl/jci1.3:c:BWBR0029990&artikel=35), aangemerkt als het eind(examen)cijfer van één vak.
-
-2. Het gemiddelde eindexamencijfer, bedoeld in [artikel 7.57b, eerste en tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=7.57b), van een kandidaat met een diploma van een opleiding als bedoeld in [artikel 7.2.2, eerste lid, onderdeel d en e, van de WEB](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=7.2.2) of met een diploma middelbaar beroepsonderwijs wordt berekend uit de combinatie van vijf cijfers van de cijferlijst die het hoogste gemiddelde oplevert, met dien verstande dat indien het een diploma betreft van een experimentele opleiding als bedoeld in [artikel 12.1a.2 van de laatstgenoemde wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=12.1a.2) zoals dat artikel luidde vóór 1 januari 2012, het gemiddelde eindexamencijfer wordt berekend op basis van de cijfers voor de kerntaken.
-
-3. Bij de berekening, bedoeld in het tweede lid, worden de resultaten van een gegadigde voor de onderdelen ‘leren, loopbaan en burgerschap’ of ‘loopbaan en burgerschap’, Nederlands, rekenen en Engels, of een andere moderne vreemde taal, buiten beschouwing gelaten.
-
-4. Als de beoordelingen bij een diploma zijn uitgedrukt in de termen uitmuntend, zeer goed, goed, ruim voldoende, voldoende, matig, onvoldoende, ruim onvoldoende, slecht en zeer slecht, dan worden deze voor de berekening van het gemiddelde eindexamencijfer geïnterpreteerd als respectievelijk 10, 9, 8, 7, 6, 5, 4, 3, 2 en 1.
-
-5. Als op de cijferlijst minder dan het in het tweede lid bedoelde aantal cijfers is vermeld, is het gemiddelde eindexamencijfer het gemiddelde van de vermelde cijfers.
-
-6. De minister deelt de kandidaat die in het bezit is van een diploma, afgegeven buiten Nederland in een andere lidstaat van de Europese Unie of de Europese Economische Ruimte of Zwitserland in klasse a in, als naar het oordeel van de minister de gemiddelde waardering van de geëxamineerde vakken vergelijkbaar is met een gemiddeld eindexamencijfer van 8 of hoger als bedoeld in [artikel 7.57b, eerste en tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=7.57b). Artikel 7.57b, vierde lid, van de wet wordt in dat geval niet toegepast.
+Vervallen
 
 ##### Artikel 4.12. Selectie van kandidaten uit Curaçao, Sint Maarten, Aruba en de openbare lichamen Bonaire, Sint Eustatius en Saba
 
-1. Het aantal plaatsen voor kandidaten afkomstig van Curaçao, Sint Maarten, Aruba en de openbare lichamen Bonaire, Sint Eustatius en Saba, die door de minister kunnen worden aangewezen voor indeling in de lotingsklasse, genoemd in [artikel 7.57b, tweede lid, onderdeel a, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=7.57b), bij inschrijving voor een fixusopleiding in het hoger beroepsonderwijs, bedraagt respectievelijk acht, drie, acht en vier. Daarbij wordt nagestreefd dat van de kandidaten tenminste respectievelijk drie, een, drie en twee van het vrouwelijk geslacht zijn.
-
-2. Het aantal plaatsen voor kandidaten afkomstig van Curaçao, Sint Maarten, Aruba en de openbare lichamen Bonaire, Sint Eustatius en Saba, die door de minister kunnen worden aangewezen voor indeling in de lotingsklasse, genoemd in [artikel 7.57b, tweede lid, onderdeel a, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=7.57b), bij inschrijving voor een fixusopleiding in het wetenschappelijk onderwijs, bedraagt respectievelijk acht, drie, acht en vier. Daarbij wordt nagestreefd dat van de kandidaten tenminste respectievelijk drie, een, drie en twee van het vrouwelijk geslacht zijn.
-
-3. De kandidaten voor de plaatsen, bedoeld in het eerste en tweede lid, worden door de minister aangewezen.
-
-4. De minister wijst de kandidaten, afkomstig van Curaçao, Sint Maarten, Aruba, aan op voordracht van de regeringen van Curaçao, Sint Maarten en Aruba. De voordracht aan de minister wordt gedaan vóór 5 juli.
+Vervallen
 
 ##### Artikel 4.13. Directe plaatsing
 
-De minister verstrekt direct een bewijs van toelating aan:
-
-- a. een kandidaat als bedoeld in [artikel 7.57b, tweede lid, onderdeel a, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=7.57b), nadat deze heeft voldaan aan [artikel 4.5](https://wetten.overheid.nl/jci1.3:c:BWBR0035059&hoofdstuk=4&paragraaf=3&artikel=4.5&z=2015-09-01&g=2015-09-01);
-
-- b. de kandidaten, bedoeld in [artikel 4.12 derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035059&hoofdstuk=4&paragraaf=3&artikel=4.12&z=2015-09-01&g=2015-09-01);
-
-- c. de kandidaat, die op grond van [artikel 4.11 zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035059&hoofdstuk=4&paragraaf=3&artikel=4.11&z=2015-09-01&g=2015-09-01), in klasse a is ingedeeld.
+Vervallen
 
 ##### Artikel 4.14. De loting
 
-1. De loting wordt verricht door een door de minister aan te wijzen notaris.
-
-2. De notaris kent iedere kandidaat een willekeurig lotnummer toe.
+Vervallen
 
 ##### Artikel 4.15. Indeling gegadigden in lotingsklassen
 
-De kandidaat wordt met inachtneming van [artikel 7.57b, eerste, tweede en vierde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=7.57b) in die lotingsklasse ingedeeld die hem op grond van zijn cijferlijst dan wel zijn getuigschrift, of zijn cijferlijsten of zijn getuigschriften, de grootste kans op inloting geeft.
+Vervallen
 
 ##### Artikel 4.16. Verdeling plaatsen over lotingsklassen
 
-1. Voor de toepassing van dit artikel wordt onder het aantal vastgestelde plaatsen per opleiding verstaan het totaal van het op grond van de [artikelen 7.53](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=7.53) of [56 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=7.56) vastgestelde aantal plaatsen, verminderd met het aantal plaatsen dat voor het desbetreffend studiejaar wordt gebruikt:
-
-- a. door kandidaten die door toepassing van [artikel 4.13, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0035059&hoofdstuk=4&paragraaf=3&artikel=4.13&z=2015-09-01&g=2015-09-01), een bewijs van toelating hebben ontvangen;
-
-- b. door kandidaten die door toepassing van [artikel 4.29](https://wetten.overheid.nl/jci1.3:c:BWBR0035059&hoofdstuk=4&paragraaf=3&artikel=4.29&z=2015-09-01&g=2015-09-01) een bewijs van toelating ontvangen;
-
-- c. door kandidaten die in het voorgaande jaar een plaats toegewezen hebben gekregen op grond van toepassing van [artikel 7.57c, vierde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=7.57c);
-
-- d. door kandidaten die door toepassing van [artikel 4.13, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0035059&hoofdstuk=4&paragraaf=3&artikel=4.13&z=2015-09-01&g=2015-09-01), een bewijs van toelating hebben ontvangen;
-
-- e. door kandidaten die in het voorgaande jaar een voorlopig bewijs van toelating hebben ontvangen als bedoeld in [artikel 4.19, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035059&hoofdstuk=4&paragraaf=3&artikel=4.19&z=2015-09-01&g=2015-09-01);
-
-2. Het aantal vastgestelde plaatsen wordt verdeeld over de lotingsklassen, bedoeld in [artikel 7.57b, tweede lid, onder b tot en met e, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=7.57b), zodanig dat de quotiënten van het aantal plaatsen en het aantal gegadigden per lotingsklasse zich verhouden als bepaald in [artikel 7.57c, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=7.57c). Bij deze verdeling vindt afronding plaats naar de dichtstbijzijnde gehele getallen en bij een uitkomst van 0,5 wordt naar boven afgerond.
-
-3. Als een verschil ontstaat tussen het aantal vastgestelde plaatsen en het krachtens het derde lid berekende aantal plaatsen, wordt dit verschil verrekend met het aantal berekende plaatsen in lotingsklasse e.
-
-4. Dit artikel is van overeenkomstige toepassing op een opleiding waarvoor [artikel 7.57d van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=7.57d) geldt, met dien verstande dat:
-
-- a. het eerste lid wordt toegepast op het aantal plaatsen dat voor deze opleiding aan de desbetreffende universiteiten gezamenlijk is bepaald en
-
-- b. op dat aantal plaatsen in mindering wordt gebracht de plaatsen die aan gegadigden worden toegewezen met toepassing van [artikel 7.57d, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=7.57d).
+Vervallen
 
 ##### Artikel 4.17. Toewijzing plaatsen aan kandidaten
 
-1. Als het aantal beschikbare plaatsen in een lotingsklasse groter is dan of gelijk aan het aantal kandidaten in die lotingsklasse, wordt aan alle kandidaten in die lotingsklasse een plaats toegewezen.
-
-2. Als het aantal beschikbare plaatsen in een lotingsklasse kleiner is dan het aantal kandidaten in die lotingsklasse, wordt het aantal beschikbare plaatsen toegewezen aan de kandidaten met de laagste lotnummers.
-
-3. Toepassing van het eerste en tweede lid blijft achterwege voor een kandidaat die een bewijs van toelating ontvangt krachtens [artikel 4.29](https://wetten.overheid.nl/jci1.3:c:BWBR0035059&hoofdstuk=4&paragraaf=3&artikel=4.29&z=2015-09-01&g=2015-09-01).
+Vervallen
 
 ##### Artikel 4.18. Nadere regeling toewijzing plaatsen voor dezelfde opleiding bij verschillende universiteiten
 
-1. Bij de toepassing van [artikel 7.57d, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=7.57d), worden de kandidaten die zijn ingeloot, geplaatst bij de universiteit van hun eerste voorkeur. Als aan de desbetreffende universiteit onvoldoende plaatsen beschikbaar zijn, worden de plaatsen verdeeld met overeenkomstige toepassing van [artikel 4.16, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035059&hoofdstuk=4&paragraaf=3&artikel=4.16&z=2015-09-01&g=2015-09-01).
-
-2. De kandidaten die na toepassing van het eerste lid niet kunnen worden geplaatst aan de universiteit van hun eerste voorkeur, worden geplaatst aan de universiteit van hun hoogst mogelijke voorkeur. De toewijzing van plaatsen vindt plaats met overeenkomstige toepassing van [artikel 4.16, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035059&hoofdstuk=4&paragraaf=3&artikel=4.16&z=2015-09-01&g=2015-09-01), aan de gegadigden met de laagste lotnummers.
-
-3. De toewijzing van een plaats aan een kandidaat door het vervallen van het bewijs van toelating van een andere kandidaat vindt plaats met overeenkomstige toepassing van [artikel 4.16, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035059&hoofdstuk=4&paragraaf=3&artikel=4.16&z=2015-09-01&g=2015-09-01), aan de kandidaat met het laagste lotnummer.
-
-4. De kandidaat die beschikt over een verklaring als bedoeld in [artikel 1, onderdeel gg](https://wetten.overheid.nl/jci1.3:c:BWBR0035059&hoofdstuk=1&artikel=1&z=2015-09-01&g=2015-09-01), wordt bij inloten, zo nodig in afwijking van het eerste of derde lid, geplaatst aan de universiteit die de desbetreffende verklaring heeft afgegeven.
+Vervallen
 
 ##### Artikel 4.19. Procedure verstrekking bewijzen van toelating
 
-1. De kandidaat die is ingeloot, ontvangt een op naam gesteld bewijs van toelating. Dit bewijs van toelating heeft betrekking op het studiejaar waarvoor de kandidaat zich heeft aangemeld, en op de opleiding waarvoor hij is ingeloot. Een bewijs van toelating wordt, behoudens [artikel 4.22](https://wetten.overheid.nl/jci1.3:c:BWBR0035059&hoofdstuk=4&paragraaf=3&artikel=4.22&z=2015-09-01&g=2015-09-01), niet later verstrekt dan 15 september.
-
-2. In afwijking van het eerste lid, ontvangt de kandidaat die op grond van het eerste lid in aanmerking komt voor een bewijs van toelating, maar die niet het bewijs heeft geleverd, bedoeld in [artikel 7.28, tweede lid, voorlaatste volzin, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=7.28), een voorlopig bewijs van toelating voor het studiejaar volgend op het studiejaar waarvoor hij zich heeft aangemeld. Dit voorlopige bewijs van toelating wordt omgezet in een bewijs van toelating, als de kandidaat voor 1 september het bewijs aan de minister levert.
-
-3. In bijzondere gevallen kan de minister op het verzoek van een kandidaat bepalen dat in plaats van het bewijs van toelating of een voorlopig bewijs van toelating aan de kandidaat een voorlopig bewijs van toelating wordt verstrekt dat betrekking heeft op het studiejaar, volgend op het studiejaar waarvoor hij is ingeloot of waarvoor hem een voorlopig bewijs van toelating is verstrekt.
-
-4. Aan een kandidaat die beschikt over een sufficiëntieverklaring voor een opleiding waarvoor [artikel 7.57d van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=7.57d) geldt, en die niet wordt ingeloot bij de universiteit die de desbetreffende verklaring heeft afgegeven, maar bij een andere universiteit, wordt een bewijs van toelating voor die andere universiteit slechts afgegeven, als de kandidaat binnen twee weken een sufficiëntieverklaring van die andere universiteit kan overleggen. De kandidaat neemt daarbij tevens de termijnen van het eerste lid in acht, tenzij het instellingsbestuur van de desbetreffende universiteit goedvindt dat inschrijving plaatsvindt na 15 september.
-
-5. De kandidaten die zijn uitgeloot, ontvangen daarvan een schriftelijke mededeling van de minister.
-
-6. Als een loting als bedoeld in [artikel 4.20](https://wetten.overheid.nl/jci1.3:c:BWBR0035059&hoofdstuk=4&paragraaf=3&artikel=4.20&z=2015-09-01&g=2015-09-01) plaatsvindt wordt daarvan tevens aan die kandidaten mededeling gedaan.
+Vervallen
 
 ##### Artikel 4.20. Tweede loting
 
-1. Als blijkt dat alle kandidaten voor een bepaalde opleiding of een opleiding waarvoor [artikel 7.57d van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=7.57d) geldt, zijn geplaatst en er plaatsen voor die opleiding onbezet blijven, vindt loting plaats onder kandidaten die voldoen aan de eisen bedoeld in [artikel 4.5](https://wetten.overheid.nl/jci1.3:c:BWBR0035059&hoofdstuk=4&paragraaf=3&artikel=4.5&z=2015-09-01&g=2015-09-01), die op grond van een loting voor een andere opleiding geen bewijs van toelating hebben gekregen, en die binnen veertien dagen na de mededeling, bedoeld in [artikel 4.19, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035059&hoofdstuk=4&paragraaf=3&artikel=4.19&z=2015-09-01&g=2015-09-01), de minister via Studielink hebben medegedeeld dat zij aan de eerstbedoelde loting wensen deel te nemen.
-
-2. Op de loting, bedoeld in het eerste lid, zijn de [artikelen 4.15 tot en met 4.19](https://wetten.overheid.nl/jci1.3:c:BWBR0035059&hoofdstuk=4&paragraaf=3&artikel=4.15&z=2015-09-01&g=2015-09-01) van overeenkomstige toepassing met dien verstande, dat onder het aantal vastgestelde of beschikbare plaatsen wordt verstaan het aantal onbenut gebleven plaatsen. Aan de kandidaten kent de notaris een nieuw lotnummer toe.
+Vervallen
 
 ##### Artikel 4.21. Opvullen open plaatsen
 
-1. Als alle kandidaten voor een bepaalde opleiding of een opleiding waarvoor [artikel 7.57d van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=7.57d) geldt, zijn geplaatst en er plaatsen voor die opleiding onbenut blijven na de loting bedoeld in [artikel 4.20](https://wetten.overheid.nl/jci1.3:c:BWBR0035059&hoofdstuk=4&paragraaf=3&artikel=4.20&z=2015-09-01&g=2015-09-01), worden deze open plaatsen zo veel mogelijk opgevuld door kandidaten die voldoen aan de eisen, bedoeld in [artikel 4.5](https://wetten.overheid.nl/jci1.3:c:BWBR0035059&hoofdstuk=4&paragraaf=3&artikel=4.5&z=2015-09-01&g=2015-09-01), en die, door zich aan te hebben aangemeld, hebben laten blijken belangstelling te hebben voor een plaats, maar die niet hebben voldaan aan de termijnen, genoemd in de [artikelen 4.2 tot en met 4.8](https://wetten.overheid.nl/jci1.3:c:BWBR0035059&hoofdstuk=4&paragraaf=1&artikel=4.2&z=2015-09-01&g=2015-09-01).
-
-2. Het eerste lid is eveneens van toepassing ten aanzien van een opleiding waarvoor geen mededeling is gedaan als bedoeld in [artikel 4.19, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035059&hoofdstuk=4&paragraaf=3&artikel=4.19&z=2015-09-01&g=2015-09-01), maar waarvoor wel alle kandidaten zijn geplaatst en niettemin plaatsen onbenut zijn gebleven.
-
-3. Als het eerste of tweede lid van toepassing is draagt de instelling die de desbetreffende opleiding verzorgt, zorg voor de plaatsing van de kandidaten.
-
-4. De minister informeert het instellingsbestuur over de datum waarop de in de [artikelen 4.17](https://wetten.overheid.nl/jci1.3:c:BWBR0035059&hoofdstuk=4&paragraaf=3&artikel=4.17&z=2015-09-01&g=2015-09-01) en [4.20](https://wetten.overheid.nl/jci1.3:c:BWBR0035059&hoofdstuk=4&paragraaf=3&artikel=4.20&z=2015-09-01&g=2015-09-01) bedoelde loting zal plaatsvinden respectievelijk heeft plaatsgevonden en het aantal open plaatsen.
-
-5. Kandidaten bedoeld in het eerste en het tweede lid die geplaatst willen worden voor de opleiding, wenden zich tot de instelling met een verzoek om plaatsing.
-
-6. Het bestuur van de instelling die de desbetreffende opleiding verzorgt, registreert de kandidaten bedoeld in het vijfde lid, op volgorde van de datum van ontvangst van het verzoek om plaatsing. Vervolgens vindt de inschrijving plaats overeenkomstig de door de instelling gehanteerde regels van procedurele aard. [Artikel 4.22](https://wetten.overheid.nl/jci1.3:c:BWBR0035059&hoofdstuk=4&paragraaf=3&artikel=4.22&z=2015-09-01&g=2015-09-01) is van overeenkomstige toepassing.
-
-7. De minister informeert de in het eerste en tweede lid bedoelde kandidaten bij aanmelding over de procedure ten aanzien van het opvullen van open plaatsen.
+Vervallen
 
 ##### Artikel 4.22. Procedure inschrijving
 
-1. Onverminderd het overigens bij of krachtens de wet ter zake van de inschrijving bepaalde, dient de inschrijving als student voor de propedeutische fase van een opleiding waarvoor een bewijs van toelating is verstrekt, te beginnen binnen twee weken na dagtekening van het bewijs van toelating, met dien verstande dat als het bewijs van toelating is afgegeven na 1 september die inschrijving dient plaats te vinden voor 15 september, behoudens het derde lid of een uitspraak in bezwaar of beroep.
-
-2. Als de kandidaat de procedure niet binnen de gestelde termijn is gestart, vervalt het bewijs van toelating.
-
-3. Als het bestuur van de desbetreffende instelling daarmee instemt, kan de minister ook na 15 september een bewijs van toelating verstrekken. In dat geval kan de inschrijving ook na 15 september plaatsvinden.
+Vervallen
 
 ##### Artikel 4.23. Hardheidsclausule ingelote kandidaten
 
-De kandidaat, die toepassing verlangt van [artikel 7.57d, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=7.57d) richt zijn verzoek daartoe binnen veertien dagen na bekendmaking van de mededeling van inloting schriftelijk aan de minister.
+Vervallen
 
 ##### Artikel 4.24. Hardheidsclausule uitgelote kandidaten
 
-1. De kandidaat die een beroep doet op [artikel 7.57c, vierde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=7.57c), richt zijn verzoek tot het verkrijgen van een bewijs van toelating binnen zes weken na de mededeling van uitloting schriftelijk aan de minister. Als een verzoek wordt gehonoreerd, wordt een bewijs van toelating verstrekt voor het studiejaar dat volgt op het studiejaar waarvoor hij is uitgeloot.
-
-2. Het percentage, bedoeld in [artikel 7.57c, vierde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=7.57c), bedraagt vijf.
+Vervallen
 
 ##### Artikel 4.25. Tweede instroom
 
-1. Als voor een opleiding gedurende het eerste studiejaar een tweede instroommoment bestaat verdeelt de instelling de beschikbare opleidingsplaatsen over de kandidaten die na toepassing van de [artikelen 4.19](https://wetten.overheid.nl/jci1.3:c:BWBR0035059&hoofdstuk=4&paragraaf=3&artikel=4.19&z=2015-09-01&g=2015-09-01), [4.20](https://wetten.overheid.nl/jci1.3:c:BWBR0035059&hoofdstuk=4&paragraaf=3&artikel=4.20&z=2015-09-01&g=2015-09-01), [4.23](https://wetten.overheid.nl/jci1.3:c:BWBR0035059&hoofdstuk=4&paragraaf=3&artikel=4.23&z=2015-09-01&g=2015-09-01), [4.24](https://wetten.overheid.nl/jci1.3:c:BWBR0035059&hoofdstuk=4&paragraaf=3&artikel=4.24&z=2015-09-01&g=2015-09-01) en [4.29](https://wetten.overheid.nl/jci1.3:c:BWBR0035059&hoofdstuk=4&paragraaf=3&artikel=4.29&z=2015-09-01&g=2015-09-01) nog niet in het bezit zijn van een bewijs van toelating voor de betreffende opleiding.
-
-2. Bij toewijzing door de instelling van de opengevallen plaats, kan de kandidaat zijn inschrijving bij die instelling vervolgen. De toewijzing door de instelling treedt in de plaats van het bewijs van toelating.
+Vervallen
 
 ##### Artikel 4.26. Invoering decentrale selectie door instelling
 
-1. Het instellingsbestuur dat gebruik wil maken van de bevoegdheid kandidaten op grond van [artikel 7.57e van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=7.57e) decentraal te selecteren, maakt daarvan melding aan de minister voor 1 juni van het kalenderjaar dat voorafgaat aan het studiejaar waarvoor de decentrale selectie geldt.
-
-2. Deze melding gaat vergezeld van de informatie bedoeld in [artikel 7.57e, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=7.57e).
+Vervallen
 
 ##### Artikel 4.27. Bekendmaking gegadigden door de minister
 
-1. De minister verstrekt de gegevens van de kandidaten die zich overeenkomstig [artikel 4.7](https://wetten.overheid.nl/jci1.3:c:BWBR0035059&hoofdstuk=4&paragraaf=3&artikel=4.7&z=2015-09-01&g=2015-09-01) hebben aangemeld, aan het instellingsbestuur.
-
-2. Als het een opleiding betreft waarvoor [artikel 7.57d van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=7.57d) geldt, maakt de minister de kandidaat slechts aan het bestuur van één instelling bekend. De minister volgt daarbij de keuze van de kandidaat.
+Vervallen
 
 ##### Artikel 4.28. Uitvoering decentrale selectie
 
-1. Het instellingsbestuur deelt voor 15 juni aan alle kandidaten schriftelijk de beslissing van zijn selectie mee alsmede de plaats op de lijst, bedoeld in het tweede lid. Bij toepassing van het vierde lid wordt dit voor 1 augustus meegedeeld.
-
-2. Het instellingsbestuur vermeldt de geselecteerde kandidaten op een lijst in een door hem te bepalen volgorde. De lijst bevat ten minste het aantal kandidaten dat overeenkomt met het percentage, bedoeld in [artikel 7.57e, tweede lid, onderdeel d, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=7.57e). Als het aantal decentrale plaatsen op basis van het opgegeven percentage het aantal kandidaten overtreft, bevat de lijst alle gegadigden.
-
-3. De lijst wordt voor 15 juni aan de minister bekendgemaakt.
-
-4. In afwijking van het derde lid kan het instellingsbestuur de lijst voor 1 augustus aan de minister bekendmaken, als het een selectiemethode toepast die vanwege de tijdsbelasting voor de kandidaten geheel of grotendeels na 15 juni moet worden uitgevoerd. Het instellingsbestuur stelt de minister hiervan in kennis bij de toepassing van [artikel 4.26, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035059&hoofdstuk=4&paragraaf=3&artikel=4.26&z=2015-09-01&g=2015-09-01).
+Vervallen
 
 ##### Artikel 4.29. Toekenning bewijzen van toelating na decentrale selectie
 
-1. De minister verwijdert van de in [artikel 4.28 tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035059&hoofdstuk=4&paragraaf=3&artikel=4.28&z=2015-09-01&g=2015-09-01), bedoelde lijst de kandidaten die na toepassing van [artikel 4.5](https://wetten.overheid.nl/jci1.3:c:BWBR0035059&hoofdstuk=4&paragraaf=3&artikel=4.5&z=2015-09-01&g=2015-09-01) niet voldoen aan de voorwaarden voor selectie. Daarnaast verwijdert de minister van deze lijst de kandidaten die op grond van [artikel 4.13](https://wetten.overheid.nl/jci1.3:c:BWBR0035059&hoofdstuk=4&paragraaf=3&artikel=4.13&z=2015-09-01&g=2015-09-01) een bewijs van toelating ontvangen.
-
-2. De minister verstrekt na toepassing van het eerste lid, en met inachtneming van de lijstvolgorde en het aantal, bedoeld in [artikel 7.57e, tweede lid, onder d, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=7.57e), een bewijs van toelating aan de decentraal geselecteerde kandidaten.
-
-3. Als blijkt dat er, na toepassing van het eerste en tweede lid, nog decentrale plaatsen voor die opleiding onbenut blijven, vindt een loting plaats onder de kandidaten, die voldoen aan de eisen, bedoeld in [artikel 4.5](https://wetten.overheid.nl/jci1.3:c:BWBR0035059&hoofdstuk=4&paragraaf=3&artikel=4.5&z=2015-09-01&g=2015-09-01). Op de loting zijn de [artikelen 4.14 tot en met 4.21](https://wetten.overheid.nl/jci1.3:c:BWBR0035059&hoofdstuk=4&paragraaf=3&artikel=4.14&z=2015-09-01&g=2015-09-01) van overeenkomstige toepassing.
+Vervallen
 
 ### Hoofdstuk 5. Slot- en overgangsbepalingen
 
 ##### Artikel 5.1. Inwerkingtreding
 
-1. Deze regeling treedt met uitzondering van de [artikelen 2.1](https://wetten.overheid.nl/jci1.3:c:BWBR0035059&hoofdstuk=2&paragraaf=1&artikel=2.1&z=2015-09-01&g=2015-09-01) en [2.4](https://wetten.overheid.nl/jci1.3:c:BWBR0035059&hoofdstuk=2&paragraaf=3&artikel=2.4&z=2015-09-01&g=2015-09-01) in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst.
+1. Deze regeling treedt met uitzondering van de [artikelen 2.1](https://wetten.overheid.nl/jci1.3:c:BWBR0035059&hoofdstuk=2&paragraaf=1&artikel=2.1&z=2016-10-01&g=2016-10-01) en [2.4](https://wetten.overheid.nl/jci1.3:c:BWBR0035059&hoofdstuk=2&paragraaf=3&artikel=2.4&z=2016-10-01&g=2016-10-01) in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst.
 
-2. [Artikel 2.1](https://wetten.overheid.nl/jci1.3:c:BWBR0035059&hoofdstuk=2&paragraaf=1&artikel=2.1&z=2015-09-01&g=2015-09-01) treedt in werking met ingang van 1 september 2014, met uitzondering van de wijzigingen van de nadere vooropleidingseisen van de in [bijlage A](https://wetten.overheid.nl/jci1.3:c:BWBR0035059&bijlage=A&z=2015-09-01&g=2015-09-01) opgenomen opleiding Technische Aardwetenschappen en van de in [bijlage B](https://wetten.overheid.nl/jci1.3:c:BWBR0035059&bijlage=B&z=2015-09-01&g=2015-09-01) opgenomen opleidingen Media & Entertainment Management, Creative Media and Game Technology. Deze treden in werking met ingang van 1 september 2017.
+2. [Artikel 2.1](https://wetten.overheid.nl/jci1.3:c:BWBR0035059&hoofdstuk=2&paragraaf=1&artikel=2.1&z=2016-10-01&g=2016-10-01) treedt in werking met ingang van 1 september 2014, met uitzondering van de wijzigingen van de nadere vooropleidingseisen van de in [bijlage A](https://wetten.overheid.nl/jci1.3:c:BWBR0035059&bijlage=A&z=2016-10-01&g=2016-10-01) opgenomen opleiding Technische Aardwetenschappen en van de in [bijlage B](https://wetten.overheid.nl/jci1.3:c:BWBR0035059&bijlage=B&z=2016-10-01&g=2016-10-01) opgenomen opleidingen Media & Entertainment Management, Creative Media and Game Technology. Deze treden in werking met ingang van 1 september 2017.
 
-3. [Artikel 2.4](https://wetten.overheid.nl/jci1.3:c:BWBR0035059&hoofdstuk=2&paragraaf=3&artikel=2.4&z=2015-09-01&g=2015-09-01) treedt in werking met ingang van 1 september 2015.
+3. [Artikel 2.4](https://wetten.overheid.nl/jci1.3:c:BWBR0035059&hoofdstuk=2&paragraaf=3&artikel=2.4&z=2016-10-01&g=2016-10-01) treedt in werking met ingang van 1 september 2015.
 
 ##### Artikel 5.2. Intrekken oude regelingen
 
-1. De [Regeling aanmelding en selectie hoger onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0025627&wetgeving), de [Regeling aanwijzing opleidingen inzake toelating deficiënte studenten](https://wetten.overheid.nl/jci1.3:c:BWBR0022404&wetgeving) en de [Regeling aanvullende eisen hoger onderwijs en kunstonderwijs 2007](https://wetten.overheid.nl/jci1.3:c:BWBR0022032&wetgeving) worden ingetrokken met ingang van de dag, bedoeld in [artikel 5.1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035059&hoofdstuk=5&artikel=5.1&z=2015-09-01&g=2015-09-01).
+1. De [Regeling aanmelding en selectie hoger onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0025627), de [Regeling aanwijzing opleidingen inzake toelating deficiënte studenten](https://wetten.overheid.nl/jci1.3:c:BWBR0022404) en de [Regeling aanvullende eisen hoger onderwijs en kunstonderwijs 2007](https://wetten.overheid.nl/jci1.3:c:BWBR0022032) worden ingetrokken met ingang van de dag, bedoeld in [artikel 5.1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035059&hoofdstuk=5&artikel=5.1&z=2016-10-01&g=2016-10-01).
 
-2. De [Regeling nadere vooropleidingseisen](https://wetten.overheid.nl/jci1.3:c:BWBR0022022&wetgeving) wordt ingetrokken met ingang van 1 september 2014.
+2. De [Regeling nadere vooropleidingseisen](https://wetten.overheid.nl/jci1.3:c:BWBR0022022) wordt ingetrokken met ingang van 1 september 2014.
 
 ##### Artikel 5.3. Citeertitel
 
@@ -1166,11 +1062,11 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 ##### Artikel 2.5. Vereiste kennisniveaus
 
-1. Voor wat betreft het kennisgebied aardrijkskunde, bedoeld in [artikel 9, tweede lid, onderdeel a, van de Wet op het primair onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=9), beschikt een kandidaat over voldoende kennis, indien die kennis voldoet aan het niveau dat is vastgesteld in [bijlage F, onderdeel I](https://wetten.overheid.nl/jci1.3:c:BWBR0035059&bijlage=F&z=2015-09-01&g=2015-09-01).
+1. Voor wat betreft het kennisgebied aardrijkskunde, bedoeld in [artikel 9, tweede lid, onderdeel a, van de Wet op het primair onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=9), beschikt een kandidaat over voldoende kennis, indien die kennis voldoet aan het niveau dat is vastgesteld in [bijlage F, onderdeel I](https://wetten.overheid.nl/jci1.3:c:BWBR0035059&bijlage=F&z=2016-10-01&g=2016-10-01).
 
-2. Voor wat betreft het kennisgebied geschiedenis, bedoeld in [artikel 9, tweede lid, onderdeel b, van de Wet op het primair onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=9), beschikt een kandidaat over voldoende kennis, indien die kennis voldoet aan het niveau dat is vastgesteld in [bijlage F, onderdeel II](https://wetten.overheid.nl/jci1.3:c:BWBR0035059&bijlage=F&z=2015-09-01&g=2015-09-01).
+2. Voor wat betreft het kennisgebied geschiedenis, bedoeld in [artikel 9, tweede lid, onderdeel b, van de Wet op het primair onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=9), beschikt een kandidaat over voldoende kennis, indien die kennis voldoet aan het niveau dat is vastgesteld in [bijlage F, onderdeel II](https://wetten.overheid.nl/jci1.3:c:BWBR0035059&bijlage=F&z=2016-10-01&g=2016-10-01).
 
-3. Voor wat betreft het kennisgebied de natuur, waaronder biologie, bedoeld in [artikel 9, tweede lid, onderdeel c, van de Wet op het primair onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=9), beschikt een kandidaat over voldoende kennis, indien die kennis voldoet aan het niveau dat is vastgesteld in [bijlage F, onderdeel III](https://wetten.overheid.nl/jci1.3:c:BWBR0035059&bijlage=F&z=2015-09-01&g=2015-09-01).
+3. Voor wat betreft het kennisgebied de natuur, waaronder biologie, bedoeld in [artikel 9, tweede lid, onderdeel c, van de Wet op het primair onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=9), beschikt een kandidaat over voldoende kennis, indien die kennis voldoet aan het niveau dat is vastgesteld in [bijlage F, onderdeel III](https://wetten.overheid.nl/jci1.3:c:BWBR0035059&bijlage=F&z=2016-10-01&g=2016-10-01).
 
 ##### Artikel 2.6. Examenvakken die zonder meer tot toelating leiden
 
