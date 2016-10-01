@@ -4,7 +4,7 @@ identifier: "BWBR0028227"
 country: "nl"
 rank: "wet_bes"
 publication_date: "2016-10-01"
-last_updated: "2010-10-10"
+last_updated: "2016-10-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0028227"
 soort: "wet-BES"
@@ -39,11 +39,11 @@ entry_into_force: "2010-10-10"
 
 ##### Artikel 1
 
-De bepalingen van deze wet vinden toepassing voor zover niet ingevolge een overeenkomst als bedoeld in [artikel 66 der Grondwet voor het Koninkrijk der Nederlanden](https://wetten.overheid.nl/jci1.3:c:BWBR0001840&artikel=66) een andere voorziening geldt.
+Vervallen
 
 ##### Artikel 2
 
-1. Deze wet is, behoudens het bepaalde in [artikel 39](https://wetten.overheid.nl/jci1.3:c:BWBR0028227&hoofdstuk=V&artikel=39&z=2010-10-10&g=2010-10-10), niet van toepassing op het kosteloos luchtvervoer dat niet door een luchtvervoeronderneming wordt bewerkstelligd.
+1. Deze wet is, behoudens het bepaalde in [artikel 39](https://wetten.overheid.nl/jci1.3:c:BWBR0028227&hoofdstuk=V&artikel=39&z=2016-10-01&g=2016-10-01), niet van toepassing op het kosteloos luchtvervoer dat niet door een luchtvervoeronderneming wordt bewerkstelligd.
 
 2. Deze wet is voorts niet van toepassing op het vervoer van brieven, andere poststukken en postpakketten, noch op het luchtvervoer door militaire, douane- of politieluchtvaartuigen op bevel van de overheid.
 
@@ -125,11 +125,11 @@ Wanneer er verscheidene colli zijn, heeft de vervoerder het recht van de afzende
 
 3. Indien de vervoerder handelt naar de opdrachten van de afzender inzake de beschikking over de goederen, zonder overlegging te eisen van het aan deze afgegeven exemplaar van de luchtvrachtbrief, zal hij, behoudens verhaal op de afzender, verantwoordelijk zijn voor de schade, door dit feit veroorzaakt aan hem die op regelmatige wijze in het bezit is van de luchtvrachtbrief.
 
-4. Het recht van de afzender houdt op te bestaan op het ogenblik waarop dat van de geadresseerde begint, overeenkomstig het hieronder volgend [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0028227&hoofdstuk=II&deel=III&artikel=14&z=2010-10-10&g=2010-10-10). Indien echter de geadresseerde de luchtvrachtbrief of de goederen weigert, of indien hij niet kan worden bereikt, herkrijgt de afzender zijn beschikkingsrecht.
+4. Het recht van de afzender houdt op te bestaan op het ogenblik waarop dat van de geadresseerde begint, overeenkomstig het hieronder volgend [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0028227&hoofdstuk=II&deel=III&artikel=14&z=2016-10-01&g=2016-10-01). Indien echter de geadresseerde de luchtvrachtbrief of de goederen weigert, of indien hij niet kan worden bereikt, herkrijgt de afzender zijn beschikkingsrecht.
 
 ##### Artikel 14
 
-1. Behoudens in de gevallen in het [vorige artikel](https://wetten.overheid.nl/jci1.3:c:BWBR0028227&hoofdstuk=II&deel=III&artikel=13&z=2010-10-10&g=2010-10-10) aangeduid, heeft de geadresseerde het recht om dadelijk na aankomst van de goederen ter plaatse van bestemming van de vervoerder te vorderen hem de luchtvrachtbrief over te geven, en hem de goederen af te leveren tegen betaling van de verschuldigde bedragen en onder naleving van de bepalingen voor het luchtvervoer, aangegeven in de luchtvrachtbrief.
+1. Behoudens in de gevallen in het [vorige artikel](https://wetten.overheid.nl/jci1.3:c:BWBR0028227&hoofdstuk=II&deel=III&artikel=13&z=2016-10-01&g=2016-10-01) aangeduid, heeft de geadresseerde het recht om dadelijk na aankomst van de goederen ter plaatse van bestemming van de vervoerder te vorderen hem de luchtvrachtbrief over te geven, en hem de goederen af te leveren tegen betaling van de verschuldigde bedragen en onder naleving van de bepalingen voor het luchtvervoer, aangegeven in de luchtvrachtbrief.
 
 2. Behoudens beding van het tegendeel moet de vervoerder de geadresseerde dadelijk van de aankomst van de goederen in kennis stellen.
 
@@ -143,7 +143,7 @@ Wanneer er verscheidene colli zijn, heeft de vervoerder het recht van de afzende
 
 ##### Artikel 16
 
-1. Indien het goed dat ingevolge het [eerste lid van het vorig artikel](https://wetten.overheid.nl/jci1.3:c:BWBR0028227&hoofdstuk=II&deel=III&artikel=15&z=2010-10-10&g=2010-10-10) anders dan wegens beslag is opgeslagen, aan spoedig bederf onderhevig is en de afzender niet binnen twaalf uren na verzending van de in het tweede lid van het voorgaande artikel bedoelde kennisgeving over het goed beschikt, is de vervoerder verplicht het goed geheel of gedeeltelijk op de meest geëigende wijze te verkopen en daarvan de afzender terstond te verwittigen.
+1. Indien het goed dat ingevolge het [eerste lid van het vorig artikel](https://wetten.overheid.nl/jci1.3:c:BWBR0028227&hoofdstuk=II&deel=III&artikel=15&z=2016-10-01&g=2016-10-01) anders dan wegens beslag is opgeslagen, aan spoedig bederf onderhevig is en de afzender niet binnen twaalf uren na verzending van de in het tweede lid van het voorgaande artikel bedoelde kennisgeving over het goed beschikt, is de vervoerder verplicht het goed geheel of gedeeltelijk op de meest geëigende wijze te verkopen en daarvan de afzender terstond te verwittigen.
 
 2. Indien daartoe gegronde redenen bestaan, kan bovendien in geval van opslag van het goed iedere belanghebbende worden gemachtigd het geheel of gedeeltelijk op de door de rechter te bepalen wijze te verkopen.
 
@@ -153,7 +153,7 @@ Wanneer er verscheidene colli zijn, heeft de vervoerder het recht van de afzende
 
 ##### Artikel 17
 
-De vervoerder die, indien op het goed beslag is gelegd, het goed aflevert in strijd met het bepaalde bij het eerste lid van [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBR0028227&hoofdstuk=II&deel=III&artikel=15&z=2010-10-10&g=2010-10-10) en de geadresseerde die het aanneemt wetende, dat daarop zulk een beslag ligt, zijn persoonlijk aansprakelijk voor de schade welke daaruit mocht voortvloeien voor degene die het beslag heeft gelegd. Behoudens tegenbewijs wordt aangenomen dat de geadresseerde bekend was met het beslag en, in geval op het goed een ander dan revindicatoir beslag is gelegd, dat de vordering ten volle op het goed kan worden verhaald.
+De vervoerder die, indien op het goed beslag is gelegd, het goed aflevert in strijd met het bepaalde bij het eerste lid van [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBR0028227&hoofdstuk=II&deel=III&artikel=15&z=2016-10-01&g=2016-10-01) en de geadresseerde die het aanneemt wetende, dat daarop zulk een beslag ligt, zijn persoonlijk aansprakelijk voor de schade welke daaruit mocht voortvloeien voor degene die het beslag heeft gelegd. Behoudens tegenbewijs wordt aangenomen dat de geadresseerde bekend was met het beslag en, in geval op het goed een ander dan revindicatoir beslag is gelegd, dat de vordering ten volle op het goed kan worden verhaald.
 
 ##### Artikel 18
 
@@ -167,13 +167,13 @@ De kosten van sortering der goederen, voor zover nodig voor de richtige afleveri
 
 ##### Artikel 20
 
-De afzender en de geadresseerde kunnen, ieder op zijn eigen naam, al de rechten doen gelden welke hun onderscheidenlijk bij de [artikelen 13](https://wetten.overheid.nl/jci1.3:c:BWBR0028227&hoofdstuk=II&deel=III&artikel=13&z=2010-10-10&g=2010-10-10) en [14](https://wetten.overheid.nl/jci1.3:c:BWBR0028227&hoofdstuk=II&deel=III&artikel=14&z=2010-10-10&g=2010-10-10) zijn toegekend, hetzij zij handelen in hun eigen belang, hetzij in het belang van een ander, op voorwaarde, dat zij de verplichtingen welke de overeenkomst oplegt, uitvoeren.
+De afzender en de geadresseerde kunnen, ieder op zijn eigen naam, al de rechten doen gelden welke hun onderscheidenlijk bij de [artikelen 13](https://wetten.overheid.nl/jci1.3:c:BWBR0028227&hoofdstuk=II&deel=III&artikel=13&z=2016-10-01&g=2016-10-01) en [14](https://wetten.overheid.nl/jci1.3:c:BWBR0028227&hoofdstuk=II&deel=III&artikel=14&z=2016-10-01&g=2016-10-01) zijn toegekend, hetzij zij handelen in hun eigen belang, hetzij in het belang van een ander, op voorwaarde, dat zij de verplichtingen welke de overeenkomst oplegt, uitvoeren.
 
 ##### Artikel 21
 
-1. De [artikelen 13](https://wetten.overheid.nl/jci1.3:c:BWBR0028227&hoofdstuk=II&deel=III&artikel=13&z=2010-10-10&g=2010-10-10), [14](https://wetten.overheid.nl/jci1.3:c:BWBR0028227&hoofdstuk=II&deel=III&artikel=14&z=2010-10-10&g=2010-10-10) en [20](https://wetten.overheid.nl/jci1.3:c:BWBR0028227&hoofdstuk=II&deel=III&artikel=20&z=2010-10-10&g=2010-10-10) doen niet te kort aan de verhouding tussen de afzender en de geadresseerde onderling, noch aan de verhouding van derden, wier rechten afkomstig zijn, hetzij van de afzender, hetzij van de geadresseerde.
+1. De [artikelen 13](https://wetten.overheid.nl/jci1.3:c:BWBR0028227&hoofdstuk=II&deel=III&artikel=13&z=2016-10-01&g=2016-10-01), [14](https://wetten.overheid.nl/jci1.3:c:BWBR0028227&hoofdstuk=II&deel=III&artikel=14&z=2016-10-01&g=2016-10-01) en [20](https://wetten.overheid.nl/jci1.3:c:BWBR0028227&hoofdstuk=II&deel=III&artikel=20&z=2016-10-01&g=2016-10-01) doen niet te kort aan de verhouding tussen de afzender en de geadresseerde onderling, noch aan de verhouding van derden, wier rechten afkomstig zijn, hetzij van de afzender, hetzij van de geadresseerde.
 
-2. Elk beding, waarbij van de bepalingen der [artikelen 13](https://wetten.overheid.nl/jci1.3:c:BWBR0028227&hoofdstuk=II&deel=III&artikel=13&z=2010-10-10&g=2010-10-10), [14](https://wetten.overheid.nl/jci1.3:c:BWBR0028227&hoofdstuk=II&deel=III&artikel=14&z=2010-10-10&g=2010-10-10) en [20](https://wetten.overheid.nl/jci1.3:c:BWBR0028227&hoofdstuk=II&deel=III&artikel=20&z=2010-10-10&g=2010-10-10) wordt afgeweken, moet in de luchtvrachtbrief worden opgenomen.
+2. Elk beding, waarbij van de bepalingen der [artikelen 13](https://wetten.overheid.nl/jci1.3:c:BWBR0028227&hoofdstuk=II&deel=III&artikel=13&z=2016-10-01&g=2016-10-01), [14](https://wetten.overheid.nl/jci1.3:c:BWBR0028227&hoofdstuk=II&deel=III&artikel=14&z=2016-10-01&g=2016-10-01) en [20](https://wetten.overheid.nl/jci1.3:c:BWBR0028227&hoofdstuk=II&deel=III&artikel=20&z=2016-10-01&g=2016-10-01) wordt afgeweken, moet in de luchtvrachtbrief worden opgenomen.
 
 3. Niets in deze wet belet de uitgifte van een verhandelbare luchtvrachtbrief.
 
@@ -205,7 +205,7 @@ De door de vervoerder wegens geheel of gedeeltelijk verlies van goederen of aang
 
 ##### Artikel 26
 
-In geval van beschadiging van goederen of aangegeven bagage moet worden vergoed de som welke men verkrijgt door van de in [artikel 25](https://wetten.overheid.nl/jci1.3:c:BWBR0028227&hoofdstuk=III&artikel=25&z=2010-10-10&g=2010-10-10) bedoelde waarde, de waarde van het beschadigde goed af te trekken en dit verschil te verminderen met hetgeen door de beschadiging is bespaard aan kosten en vracht.
+In geval van beschadiging van goederen of aangegeven bagage moet worden vergoed de som welke men verkrijgt door van de in [artikel 25](https://wetten.overheid.nl/jci1.3:c:BWBR0028227&hoofdstuk=III&artikel=25&z=2016-10-01&g=2016-10-01) bedoelde waarde, de waarde van het beschadigde goed af te trekken en dit verschil te verminderen met hetgeen door de beschadiging is bespaard aan kosten en vracht.
 
 ##### Artikel 27
 
@@ -217,7 +217,7 @@ De vervoerder is niet aansprakelijk voor schade, indien hij bewijst, dat hij en 
 
 ##### Artikel 29
 
-1. Bij het luchtvervoer van personen is de aansprakelijkheid van de vervoerder jegens elke reiziger of diens in [artikel 23, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028227&hoofdstuk=III&artikel=23&z=2010-10-10&g=2010-10-10), aangewezen nabestaanden beperkt tot de tegenwaarde in USD van het bedrag van tweehonderdvijftigduizend francs. In het geval dat de schadeloosstelling wordt bepaald in de vorm van een rente mag het gekapitaliseerde bedrag die grens niet te boven gaan.
+1. Bij het luchtvervoer van personen is de aansprakelijkheid van de vervoerder jegens elke reiziger of diens in [artikel 23, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028227&hoofdstuk=III&artikel=23&z=2016-10-01&g=2016-10-01), aangewezen nabestaanden beperkt tot de tegenwaarde in USD van het bedrag van tweehonderdvijftigduizend francs. In het geval dat de schadeloosstelling wordt bepaald in de vorm van een rente mag het gekapitaliseerde bedrag die grens niet te boven gaan.
 
 Evenwel kan de reiziger door een bijzondere overeenkomst met de vervoerder een hogere grens voor de aansprakelijkheid bepalen.
 
@@ -225,7 +225,7 @@ Evenwel kan de reiziger door een bijzondere overeenkomst met de vervoerder een h
 
 3. Bij verlies, beschadiging of vertraging van een gedeelte van de aangegeven bagage of van goederen of van enig daarin opgenomen voorwerpen wordt ter bepaling van de aansprakelijkheidsgrens van de vervoerder alleen in aanmerking genomen het totale gewicht van het betrokken collo of van de betrokken colli. Indien evenwel het verlies, de beschadiging of de vertraging van een gedeelte van de aangegeven bagage of van de goederen of van enig daarin opgenomen voorwerp de waarde van andere colli, gedekt door hetzelfde bagagebiljet of dezelfde luchtvrachtbrief beïnvloedt, wordt het totale gewicht van deze colli in aanmerking genomen ter bepaling van de aansprakelijkheidsgrens.
 
-4. Voor wat betreft de voorwerpen, bedoeld in de laatste zin van [artikel 6, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028227&hoofdstuk=II&deel=II&artikel=6&z=2010-10-10&g=2010-10-10), is de aansprakelijkheid van de vervoerder beperkt tot de tegenwaarde in USD van een bedrag van vijfduizend francs per reiziger.
+4. Voor wat betreft de voorwerpen, bedoeld in de laatste zin van [artikel 6, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028227&hoofdstuk=II&deel=II&artikel=6&z=2016-10-01&g=2016-10-01), is de aansprakelijkheid van de vervoerder beperkt tot de tegenwaarde in USD van een bedrag van vijfduizend francs per reiziger.
 
 5. De bepalingen van dit artikel zijn niet van toepassing op een eventuele aansprakelijkheid van de vervoerder voor de kosten van het geding met de partij tegen wie hij zich op deze bepalingen kan beroepen, tenzij de vervoerder schriftelijk, hetzij binnen een termijn van zes maanden na de datum van het voorval waardoor de schade werd veroorzaakt, hetzij vóór de aanvang van het proces wanneer dit ná die termijn aanhangig is gemaakt, een bedrag aan de eiser heeft aangeboden, even groot als of groter dan het bedrag van de toegewezen schadevergoeding met uitsluiting van genoemde kosten van het geding.
 
@@ -233,27 +233,27 @@ Evenwel kan de reiziger door een bijzondere overeenkomst met de vervoerder een h
 
 ##### Artikel 30
 
-De vervoerder is gehouden tot vergoeding der schade, overeenkomen aan de voorwerpen, bedoeld in de laatste zin van het [tweede lid van artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0028227&hoofdstuk=II&deel=II&artikel=6&z=2010-10-10&g=2010-10-10), indien blijkt, dat de reiziger tot behoud daarvan de nodige zorg heeft aangewend, tenzij de vervoerder bewijst, dat zijn ondergeschikten alle maatregelen hebben genomen, nodig om de schade te vermijden of dat het hun onmogelijk was die maatregelen te nemen.
+De vervoerder is gehouden tot vergoeding der schade, overeenkomen aan de voorwerpen, bedoeld in de laatste zin van het [tweede lid van artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0028227&hoofdstuk=II&deel=II&artikel=6&z=2016-10-01&g=2016-10-01), indien blijkt, dat de reiziger tot behoud daarvan de nodige zorg heeft aangewend, tenzij de vervoerder bewijst, dat zijn ondergeschikten alle maatregelen hebben genomen, nodig om de schade te vermijden of dat het hun onmogelijk was die maatregelen te nemen.
 
 ##### Artikel 31
 
-1. Behoudens het bepaalde in [artikel 27](https://wetten.overheid.nl/jci1.3:c:BWBR0028227&hoofdstuk=III&artikel=27&z=2010-10-10&g=2010-10-10), is elk beding, strekkende om de luchtvervoerder te ontheffen van zijn aansprakelijkheid of om een lagere grens vast te stellen dan die, welke in deze wet is bepaald, nietig, doch de nietigheid van dit beding heeft niet de nietigheid ten gevolge van de overeenkomst, welke onderworpen blijft aan de bepalingen van deze wet.
+1. Behoudens het bepaalde in [artikel 27](https://wetten.overheid.nl/jci1.3:c:BWBR0028227&hoofdstuk=III&artikel=27&z=2016-10-01&g=2016-10-01), is elk beding, strekkende om de luchtvervoerder te ontheffen van zijn aansprakelijkheid of om een lagere grens vast te stellen dan die, welke in deze wet is bepaald, nietig, doch de nietigheid van dit beding heeft niet de nietigheid ten gevolge van de overeenkomst, welke onderworpen blijft aan de bepalingen van deze wet.
 
 2. Het eerste lid van dit artikel is niet van toepassing op bedingen betreffende verlies of schade veroorzaakt door de aard of een eigen gebrek van de vervoerde goederen.
 
 ##### Artikel 32
 
-In de gevallen, bedoeld bij de [artikelen 23](https://wetten.overheid.nl/jci1.3:c:BWBR0028227&hoofdstuk=III&artikel=23&z=2010-10-10&g=2010-10-10), [24](https://wetten.overheid.nl/jci1.3:c:BWBR0028227&hoofdstuk=III&artikel=24&z=2010-10-10&g=2010-10-10), [27](https://wetten.overheid.nl/jci1.3:c:BWBR0028227&hoofdstuk=III&artikel=27&z=2010-10-10&g=2010-10-10) en [30](https://wetten.overheid.nl/jci1.3:c:BWBR0028227&hoofdstuk=III&artikel=30&z=2010-10-10&g=2010-10-10), kan elke rechtsvordering ter zake van de aansprakelijkheid op welke grond zij ook steune, slechts worden ingesteld onder de voorwaarden en binnen de grenzen bedoeld bij deze wet.
+In de gevallen, bedoeld bij de [artikelen 23](https://wetten.overheid.nl/jci1.3:c:BWBR0028227&hoofdstuk=III&artikel=23&z=2016-10-01&g=2016-10-01), [24](https://wetten.overheid.nl/jci1.3:c:BWBR0028227&hoofdstuk=III&artikel=24&z=2016-10-01&g=2016-10-01), [27](https://wetten.overheid.nl/jci1.3:c:BWBR0028227&hoofdstuk=III&artikel=27&z=2016-10-01&g=2016-10-01) en [30](https://wetten.overheid.nl/jci1.3:c:BWBR0028227&hoofdstuk=III&artikel=30&z=2016-10-01&g=2016-10-01), kan elke rechtsvordering ter zake van de aansprakelijkheid op welke grond zij ook steune, slechts worden ingesteld onder de voorwaarden en binnen de grenzen bedoeld bij deze wet.
 
 ##### Artikel 33
 
-De in [artikel 29](https://wetten.overheid.nl/jci1.3:c:BWBR0028227&hoofdstuk=III&artikel=29&z=2010-10-10&g=2010-10-10) vermelde aansprakelijkheidsgrenzen zijn niet van toepassing, indien wordt bewezen, dat de schade het gevolg is van een daad of een nalatigheid van de vervoerder of zijn ondergeschikten, welke plaats vond hetzij met de bedoeling schade te veroorzaken, hetzij roekeloos en met de wetenschap, dat er waarschijnlijk schade uit zou voortvloeien; in geval van een daad of nalatigheid van een persoon die in verband met het vervoer door hem is te werk gesteld, moet tevens worden bewezen, dat deze handelde in de uitoefening van zijn werkzaamheden.
+De in [artikel 29](https://wetten.overheid.nl/jci1.3:c:BWBR0028227&hoofdstuk=III&artikel=29&z=2016-10-01&g=2016-10-01) vermelde aansprakelijkheidsgrenzen zijn niet van toepassing, indien wordt bewezen, dat de schade het gevolg is van een daad of een nalatigheid van de vervoerder of zijn ondergeschikten, welke plaats vond hetzij met de bedoeling schade te veroorzaken, hetzij roekeloos en met de wetenschap, dat er waarschijnlijk schade uit zou voortvloeien; in geval van een daad of nalatigheid van een persoon die in verband met het vervoer door hem is te werk gesteld, moet tevens worden bewezen, dat deze handelde in de uitoefening van zijn werkzaamheden.
 
 ##### Artikel 34
 
-1. Indien een geding wordt aanhangig gemaakt tegen een ondergeschikte van de vervoerder op grond van schade als bedoeld in deze wet, zal deze, indien hij bewijst, dat hij in de uitoefening van zijn werkzaamheden heeft gehandeld, zich kunnen beroepen op de aansprakelijkheidsgrenzen, waarop den vervoerder zich krachtens [artikel 29](https://wetten.overheid.nl/jci1.3:c:BWBR0028227&hoofdstuk=III&artikel=29&z=2010-10-10&g=2010-10-10) kan beroepen.
+1. Indien een geding wordt aanhangig gemaakt tegen een ondergeschikte van de vervoerder op grond van schade als bedoeld in deze wet, zal deze, indien hij bewijst, dat hij in de uitoefening van zijn werkzaamheden heeft gehandeld, zich kunnen beroepen op de aansprakelijkheidsgrenzen, waarop den vervoerder zich krachtens [artikel 29](https://wetten.overheid.nl/jci1.3:c:BWBR0028227&hoofdstuk=III&artikel=29&z=2016-10-01&g=2016-10-01) kan beroepen.
 
-2. Het totale bedrag van de schadevergoeding, welke in dat geval van de vervoerder en diens ondergeschikte kan worden verkregen, mag de in [artikel 29](https://wetten.overheid.nl/jci1.3:c:BWBR0028227&hoofdstuk=III&artikel=29&z=2010-10-10&g=2010-10-10) vermelde grenzen niet overschrijden.
+2. Het totale bedrag van de schadevergoeding, welke in dat geval van de vervoerder en diens ondergeschikte kan worden verkregen, mag de in [artikel 29](https://wetten.overheid.nl/jci1.3:c:BWBR0028227&hoofdstuk=III&artikel=29&z=2016-10-01&g=2016-10-01) vermelde grenzen niet overschrijden.
 
 3. De bepalingen van de vorige leden van dit artikel zijn niet van toepassing, indien wordt bewezen, dat de schade het gevolg is van een daad of een nalatigheid van de ondergeschikte, welke plaats vond hetzij met de bedoeling schade te veroorzaken, hetzij roekeloos en met de wetenschap, dat er waarschijnlijk schade uit zou voortvloeien.
 
@@ -273,7 +273,7 @@ De rechtsvordering ter zake van de aansprakelijkheid moet op straffe van verval 
 
 ##### Artikel 37
 
-1. In de gevallen, dat het luchtvervoer wordt beheerst door het gestelde in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0028227&hoofdstuk=I&artikel=3&z=2010-10-10&g=2010-10-10) en dat het bewerkstelligd moet worden achtereenvolgens door verschillende vervoerders, is elke vervoerder die reizigers, aangegeven bagage of goederen aanneemt, onderworpen aan de in deze wet gestelde bepalingen; hij wordt geacht een der partijen te zijn, die de vervoerovereenkomst hebben gesloten, voor zover die overeenkomst betrekking heeft op het deel van het luchtvervoer dat onder zijn toezicht is bewerkstelligd.
+1. In de gevallen, dat het luchtvervoer wordt beheerst door het gestelde in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0028227&hoofdstuk=I&artikel=3&z=2016-10-01&g=2016-10-01) en dat het bewerkstelligd moet worden achtereenvolgens door verschillende vervoerders, is elke vervoerder die reizigers, aangegeven bagage of goederen aanneemt, onderworpen aan de in deze wet gestelde bepalingen; hij wordt geacht een der partijen te zijn, die de vervoerovereenkomst hebben gesloten, voor zover die overeenkomst betrekking heeft op het deel van het luchtvervoer dat onder zijn toezicht is bewerkstelligd.
 
 2. In geval van zodanig vervoer hebben de reiziger of zijn rechtverkrijgenden enkel verhaal op de vervoerder die het luchtvervoer heeft bewerkstelligd, gedurende hetwelk het ongeval of de vertraging plaats vond, behalve in het geval, dat de eerste vervoerder bij uitdrukkelijk beding de aansprakelijkheid voor de gehele reis op zich heeft genomen.
 
@@ -287,13 +287,13 @@ De rechtsvordering ter zake van de aansprakelijkheid moet op straffe van verval 
 
 2. Geen bepaling van deze wet belet partijen om in geval van gecombineerd vervoer in het luchtvervoerbewijs voorwaarden op te nemen betreffende andere wijzen van vervoer, mits de bepalingen van deze wet voor wat betreft het luchtvervoer worden in acht genomen.
 
-### Hoofdstuk V. Bepalingen betreffende luchtvervoer, als bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028227&hoofdstuk=I&artikel=2&z=2010-10-10&g=2010-10-10)
+### Hoofdstuk V. Bepalingen betreffende luchtvervoer, als bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028227&hoofdstuk=I&artikel=2&z=2016-10-01&g=2016-10-01)
 
 ##### Artikel 39
 
 In geval bij kosteloos luchtvervoer, niet door een luchtvervoeronderneming bewerkstelligd, letsel of schade wordt toegebracht aan vervoerde personen of goederen, is degene die dit luchtvervoer bewerkstelligt, voor de schade aansprakelijk, indien wordt aangetoond, dat hij of zijn ondergeschikten niet al de maatregelen hebben genomen, nodig om de schade te vermijden.
 
-Indien de vervoerder bewijst, dat de schuld van de getroffen persoon de schade heeft veroorzaakt of er toe heeft bijgedragen, kan de rechter de aansprakelijkheid van de vervoerder terzijde stellen of verminderen. De [artikelen 33](https://wetten.overheid.nl/jci1.3:c:BWBR0028227&hoofdstuk=III&artikel=33&z=2010-10-10&g=2010-10-10) en [34](https://wetten.overheid.nl/jci1.3:c:BWBR0028227&hoofdstuk=III&artikel=34&z=2010-10-10&g=2010-10-10) zijn van overeenkomstige toepassing.
+Indien de vervoerder bewijst, dat de schuld van de getroffen persoon de schade heeft veroorzaakt of er toe heeft bijgedragen, kan de rechter de aansprakelijkheid van de vervoerder terzijde stellen of verminderen. De [artikelen 33](https://wetten.overheid.nl/jci1.3:c:BWBR0028227&hoofdstuk=III&artikel=33&z=2016-10-01&g=2016-10-01) en [34](https://wetten.overheid.nl/jci1.3:c:BWBR0028227&hoofdstuk=III&artikel=34&z=2016-10-01&g=2016-10-01) zijn van overeenkomstige toepassing.
 
 ##### Artikel 40
 
