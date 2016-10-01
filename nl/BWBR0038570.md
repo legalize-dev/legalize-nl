@@ -121,9 +121,3 @@ In deze tabel staat welke bewijsstukken moeten worden verstrekt voor het verkrij
 ## Bijlage III. Stroomschema ontheffing en bekwaamheidserkenning
 
 De beleidsregel treedt op 1 oktober 2016 in werking. Voor 1 oktober 2018 zal de beleidsregel worden geëvalueerd.
-
-Betrokkene voldoet aan de vereiste bekwaamheidseisen als betrokkene kan aantonen dat hij voldoet aan de eisen van vakbekwaamheid voor die vakken. Aan de hand van de overgelegde onderbouwing, wordt beoordeeld of betrokkene vakdidactisch, vakinhoudelijk en pedagogisch-didactisch voldoende onderlegd is. De inspectie zal hierbij steekproefsgewijs en indien er concrete aanwijzingen zijn advies geven aan DUO over de pedagogisch-didactische bekwaamheid van betrokkene.
-
-## Bijlage III. Stroomschema ontheffing en bekwaamheidserkenning
-
-De beleidsregel treedt op 1 oktober 2016 in werking. Voor 1 oktober 2018 zal de beleidsregel worden geëvalueerd.
