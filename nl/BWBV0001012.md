@@ -4,7 +4,7 @@ identifier: "BWBV0001012"
 country: "nl"
 rank: "verdrag"
 publication_date: "2022-06-01"
-last_updated: "2004-11-01"
+last_updated: "2016-10-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBV0001012"
 soort: "verdrag"
@@ -375,7 +375,7 @@ Wanneer twee of meer personen recht hebben op een weduwenpensioen uit hoofde van
 
 ##### Artikel 28
 
-De gegevens inzake de gezinssamenstelling welke voorkomen op de aanvraag om kinderbijslag, verschuldigd krachtens de wettelijke regeling van een van de landen, voor kinderen die in het andere land wonen, worden op verzoek van het bevoegde orgaan door bemiddeling van de betrokken verbindingsorganen geverifieerd.
+De gegevens inzake de gezinssamenstelling die voorkomen op de aanvraag kinderbijslag, verschuldigd krachtens de wettelijke regeling van een van de landen, voor een recht op kinderbijslag voor kinderen die in het andere land wonen dat ontstaat vóór 2 januari 2021, worden op verzoek van het bevoegde orgaan door bemiddeling van de betrokken verbindingsorganen geverifieerd.
 
 ### HOOFDSTUK 6. Werkloosheid
 
