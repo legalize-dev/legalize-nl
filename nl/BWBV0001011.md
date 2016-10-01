@@ -4,7 +4,7 @@ identifier: "BWBV0001011"
 country: "nl"
 rank: "verdrag"
 publication_date: "2022-06-01"
-last_updated: "2004-11-01"
+last_updated: "2016-10-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBV0001011"
 soort: "verdrag"
@@ -53,7 +53,15 @@ Zijn het volgende overeengekomen:
 
 - a). in Nederland: op de wettelijke regelingen betreffende de ziekteverzekering (uitkeringen en verstrekkingen bij ziekte en moederschap); de arbeidsongeschiktheidsverzekering; de ouderdomsverzekering; de nabestaandenverzekering; de werkloosheidsverzekering; de kinderbijslagen; de bijstand en de overige uitkeringen ten laste van de publieke middelen.
 
-- b). in Marokko op: de wettelijke regelingen betreffende de sociale zekerheid; de wettelijke regelingen betreffende arbeidsongevallen en beroepsziekten; de door de overheid goedgekeurde wettelijke, reglementaire of statutaire bepalingen, betreffende bijzondere stelsels van sociale zekerheid, voor zover deze van toepassing zijn op loontrekkenden of met hen gelijkgestelden en voor zover zij betrekking hebben op gebruikelijke risico's en prestaties welke in de wettelijke regelingen betreffende de sociale zekerheid geregeld worden.
+- b). in Marokko op:
+
+- –. de wettelijke regelingen betreffende de sociale zekerheid;
+
+- –. de wettelijke regelingen betreffende arbeidsongevallen en beroepsziekten;
+
+- –. de wettelijke regelingen betreffende de verplichte ziektekostenverzekering voor loontrekkenden in de particuliere sector en voorzien in de wet op de basisziektekostenverzekering;
+
+- –. de door de overheid goedgekeurde wettelijke, reglementaire of statutaire bepalingen betreffende bijzondere stelsels van sociale zekerheid, voor zover deze van toepassing zijn op loontrekkenden of met hen gelijkgestelden en voor zover zij betrekking hebben op gebruikelijke risico’s en prestaties welke in de wettelijke regelingen betreffende de sociale zekerheid geregeld worden.
 
 2. Dit Verdrag is eveneens van toepassing op alle wetten of regelingen, waarbij de wettelijke regelingen, genoemd in het eerste lid van dit artikel, worden gewijzigd of aangevuld.
 
@@ -62,6 +70,12 @@ Het is evenwel slechts van toepassing:
 - a). op wetten of regelingen welke betrekking hebben op een nieuwe tak van sociale zekerheid, indien daartoe een nadere overeenkomst tussen de Verdragsluitende Partijen wordt gesloten;
 
 - b). op wetten of regelingen welke de werking van de bestaande regelingen uitbreiden tot nieuwe groepen van rechthebbenden, indien de Partij welke haar wettelijke regelingen wijzigt, daartegen niet binnen drie maanden na de officiële bekendmaking van bedoelde teksten bezwaar maakt bij de Regering van de andere Partij.
+
+3. Voor de toepassing van dit Verdrag wordt:
+
+wat betreft Marokko, onder de term „grondgebied” verstaan het grondgebied van Marokko en de gebieden waarin Marokko rechtsmacht of soevereine rechten uitoefent, met inbegrip van de territoriale zee en daarbuiten de exclusieve economische zone en de gebieden die grenzen aan de territoriale wateren van Marokko, met het oog op de exploitatie en exploratie van natuurlijke rijkdommen op de zeebodem, de ondergrond daarvan (continentaal plat) en de wateren daarboven;
+
+wat betreft Nederland, het grondgebied van het Europese deel van Nederland en de gebieden grenzend aan de territoriale wateren van deze partij, met inbegrip van de territoriale zee en daarbuiten de exclusieve economische zone en de gebieden waarin het Koninkrijk der Nederlanden rechtsmacht of soevereine rechten uitoefent met het oog op de exploitatie en exploratie van natuurlijke rijkdommen op de zeebodem, de ondergrond daarvan (continentaal plat) en de wateren daarboven.
 
 ##### Artikel 2
 
@@ -81,7 +95,7 @@ Wanneer een werknemer of een met hem gelijkgestelde achtereenvolgens of afwissel
 
 ##### Artikel 5
 
-1. De uitkeringen bij arbeidsongeschiktheid, bij ouderdom of aan nabestaanden, de uitkeringen bij overlijden en de kinderbijslagen verkregen op grond van de wettelijke regelingen van een van de Verdragsluitende Partijen, kunnen op generlei wijze worden verminderd, gewijzigd, geschorst, ingetrokken of verbeurd verklaard op grond van het feit dat de rechthebbende of het kind woont op het grondgebied van een andere Verdragsluitende Partij dan die op het grondgebied waarvan het orgaan dat de uitkering verschuldigd is, zich bevindt.
+1. Onder voorbehoud van de bepalingen van de [artikelen 26](https://wetten.overheid.nl/jci1.3:c:BWBV0001011&titeldeel=III&hoofdstuk=5&artikel=26&z=2016-10-01&g=2016-10-01), 35a, 35b en 35d kunnen de uitkeringen bij arbeidsongeschiktheid, bij ouderdom of aan nabestaanden, de uitkeringen bij overlijden en de kinderbijslagen verkregen op grond van de wettelijke regelingen van een van de Verdragsluitende Partijen, op generlei wijze worden verminderd, gewijzigd, geschorst, ingetrokken of verbeurd verklaard op grond van het feit dat de rechthebbende of het kind woont op het grondgebied van een andere Verdragsluitende Partij dan die op het grondgebied waarvan het orgaan dat de uitkering verschuldigd is, zich bevindt.
 
 2. Het voorgaande lid is eveneens van toepassing op de uitkeringen uit hoofde van de Wet op de arbeidsongeschiktheidsverzekering zelfstandigen (WAZ).
 
@@ -123,9 +137,9 @@ De bevoegde autoriteiten van de Verdragsluitende Partijen kunnen voor bepaalde w
 
 ##### Artikel 10
 
-1. De werknemer of de met hem gelijkgestelde die tijdvakken van verzekering heeft vervuld krachtens de wettelijke regelingen van een der Verdragsluitende Partijen en zich naar het grondgebied van de andere Partij begeeft, heeft voor zichzelf en voor zijn gezinsleden die zich op dat grondgebied bevinden, recht op de prestaties ingevolge de ziekte- en moederschapsverzekering, als voorzien in de wettelijke regelingen van laatstbedoelde Partij, voor zover hij aan de door de wettelijke regelingen van deze Partij gestelde voorwaarden voldoet, de in artikel 4 van dit Verdrag bedoelde samentelling van tijdvakken in aanmerking genomen.
+1. De werknemer of de met hem gelijkgestelde die tijdvakken van verzekering heeft vervuld krachtens de wettelijke regelingen van een der Verdragsluitende Partijen en zich naar het grondgebied van de andere Partij begeeft, heeft voor zichzelf en voor zijn gezinsleden die zich op dat grondgebied bevinden, recht op de prestaties ingevolge de ziekte- en moederschapsverzekering, als voorzien in de wettelijke regelingen van laatstbedoelde Partij, voor zover hij aan de door de wettelijke regelingen van deze Partij gestelde voorwaarden voldoet, de in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBV0001011&titeldeel=I&artikel=4&z=2016-10-01&g=2016-10-01) van dit Verdrag bedoelde samentelling van tijdvakken in aanmerking genomen.
 
-2. Indien de werknemer of de met hem gelijkgestelde die ingevolge de wettelijke regelingen van een der Verdragsluitende Partijen verzekerd was, zich naar het grondgebied van de andere Partij heeft begeven en niet aan de gestelde voorwaarden voldoet om de prestaties krachtens de wettelijke regelingen van de laatstgenoemde Partij te ontvangen, en wanneer deze werknemer nog recht heeft op prestaties ingevolge de wettelijke regelingen van de eerstgenoemde Partij of hierop recht zou hebben indien hij zich op het grondgebied van die Partij bevond, behoudt hij dit recht. In dat geval is het bepaalde in artikel 11, eerste, derde, vierde, vijfde, zesde en zevende lid, op overeenkomstige wijze van toepassing.
+2. Indien de werknemer of de met hem gelijkgestelde die ingevolge de wettelijke regelingen van een der Verdragsluitende Partijen verzekerd was, zich naar het grondgebied van de andere Partij heeft begeven en niet aan de gestelde voorwaarden voldoet om de prestaties krachtens de wettelijke regelingen van de laatstgenoemde Partij te ontvangen, en wanneer deze werknemer nog recht heeft op prestaties ingevolge de wettelijke regelingen van de eerstgenoemde Partij of hierop recht zou hebben indien hij zich op het grondgebied van die Partij bevond, behoudt hij dit recht. In dat geval ontvangen deze werknemer en zijn gezinsleden verstrekkingen wanneer hun toestand deze verstrekkingen onmiddellijk noodzakelijk maakt. Het [tweede, derde, vierde en vijfde lid van artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBV0001011&titeldeel=III&hoofdstuk=I&artikel=11&z=2016-10-01&g=2016-10-01) zijn op overeenkomstige wijze van toepassing.
 
 ##### Artikel 11
 
@@ -347,7 +361,7 @@ De nadere bepalingen voor de toepassing van de wettelijke regelingen van de Verd
 
 ##### Artikel 36
 
-Wat het Koninkrijk der Nederlanden betreft, is dit Verdrag alleen van toepassing op het Rijk in Europa.
+Vervallen
 
 ##### Artikel 37
 
@@ -365,9 +379,9 @@ Dit Verdrag wordt voor onbepaalde tijd gesloten. Het kan door elk van de Verdrag
 
 ##### 1. Toepassing van de Nederlandse wettelijke regelingen inzake de ziektekostenverzekering
 
-a. Ten aanzien van het recht op verstrekkingen krachtens de Nederlandse wettelijke regelingen dient onder rechthebbende op de verstrekkingen voor de toepassing van hoofdstuk 1 van titel III van het Verdrag te worden verstaan de persoon die verzekerd of medeverzekerd is ingevolge de verzekering als bedoeld in de Nederlandse Ziekenfondswet.
+a. Ten aanzien van het recht op verstrekkingen krachtens de Nederlandse wettelijke regelingen dient onder rechthebbende op de verstrekkingen voor de toepassing van [hoofdstuk 1 van titel III](https://wetten.overheid.nl/jci1.3:c:BWBV0001011&titeldeel=III&hoofdstuk=I&z=2016-10-01&g=2016-10-01) van het Verdrag te worden verstaan de persoon die verzekerd of medeverzekerd is ingevolge de verzekering als bedoeld in de Nederlandse Ziekenfondswet.
 
-b. Voor de toepassing van artikel 13 van het Verdrag zijn gelijkgesteld met pensioenen krachtens de in artikel 1, eerste lid, onder a, van het Verdrag bedoelde wettelijke regelingen (arbeidsongeschiktheidsverzekering, respectievelijk ouderdomsverzekering):
+b. Voor de toepassing van [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBV0001011&titeldeel=III&hoofdstuk=I&artikel=13&z=2016-10-01&g=2016-10-01) van het Verdrag zijn gelijkgesteld met pensioenen krachtens de in [artikel 1, eerste lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBV0001011&titeldeel=I&artikel=1&z=2016-10-01&g=2016-10-01), van het Verdrag bedoelde wettelijke regelingen (arbeidsongeschiktheidsverzekering, respectievelijk ouderdomsverzekering):
 
 - –. pensioenen ingevolge de wet van 6 januari 1966 houdende een nieuwe regeling van de pensioenen van de burgerlijke ambtenaren en hun nabestaanden (Algemene burgerlijke pensioenwet);
 
@@ -381,7 +395,9 @@ b. Voor de toepassing van artikel 13 van het Verdrag zijn gelijkgesteld met pens
 
 - –. een uitkering ingevolge een van rijkswege, dan wel bij of krachtens collectieve arbeidsovereenkomst vastgestelde regeling ter zake van vervroegde uittreding uit het arbeidsproces of een door de Ziekenfondsraad aan te wijzen regeling.
 
-c. De in artikel 10, tweede lid, van het Verdrag bedoelde werknemer of de met hem gelijkgestelde of zijn gezinsleden en de in artikel 12, tweede lid, van het Verdrag bedoelde gezinsleden en de in artikel 13, tweede en derde lid, van het Verdrag bedoelde rechthebbende op een of meer pensioenen of renten, of zijn gezinsleden, die op Nederlands grondgebied wonen, zijn niet verzekerd krachtens de Algemene Wet Bijzondere Ziektekosten (AWBZ).
+c. De in [artikel 10, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBV0001011&titeldeel=III&hoofdstuk=I&artikel=10&z=2016-10-01&g=2016-10-01), van het Verdrag bedoelde werknemer of de met hem gelijkgestelde of zijn gezinsleden en de in [artikel 12, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBV0001011&titeldeel=III&hoofdstuk=I&artikel=12&z=2016-10-01&g=2016-10-01), van het Verdrag bedoelde gezinsleden en de in [artikel 13, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0001011&titeldeel=III&hoofdstuk=I&artikel=13&z=2016-10-01&g=2016-10-01), van het Verdrag bedoelde rechthebbende op een of meer pensioenen of renten, of zijn gezinsleden, die op Nederlands grondgebied wonen, zijn niet verzekerd krachtens de Algemene Wet Bijzondere Ziektekosten (AWBZ).
+
+d. Indien een verzekerde krachtens de Zorgverzekeringswet tijdens zijn tijdelijk verblijf in Marokko onmiddellijk de in deze wet voorziene verstrekkingen nodig heeft, na een van de gevallen voorzien in artikel 55 van deze wet, is de beperking van de werelddekking voorzien in de Zorgverzekeringswet niet van toepassing. De kosten van deze verstrekkingen worden aan hem terugbetaald overeenkomstig de bepalingen van voornoemde wet bij de toepassing van artikel 55 ervan.
 
 ##### 2. Toepassing van de Marokkaanse wettelijke regelingen met betrekking tot het verlenen van verstrekkingen in geval van ziekte en moederschap
 
