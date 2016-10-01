@@ -102,27 +102,3 @@ Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte v
 Deze regeling wordt aangehaald als Regeling cafetariamodel defensie.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
-
-##### Artikel 6a. Grondslag
-
-Met ingang van 1 januari 2018 berust deze regeling mede op de [artikelen 8](https://wetten.overheid.nl/jci1.3:c:BWBR0018191&artikel=8) en [43 van het Inkomstenbesluit burgerlijke ambtenaren defensie](https://wetten.overheid.nl/jci1.3:c:BWBR0018191&artikel=43) en de [artikelen 5](https://wetten.overheid.nl/jci1.3:c:BWBR0007816&artikel=5) en [14 van het Inkomstenbesluit militairen](https://wetten.overheid.nl/jci1.3:c:BWBR0007816&artikel=14).
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
-
-## Tabel 1
-
-Maatregelen ter verduurzaming van de eigen (huur)woning:
-
-- •. Isolatie (bijvoorbeeld gevel, spouwmuur, dak, vloer, zolder- en vlieringvloer, bodem, isolerende deuren en isolerende raambekleding, HR++ glas, HR+++ glas, vacuümglas).
-
-- •. Duurzaam verwarmen, koelen en ventileren (bijvoorbeeld (hybride) warmtepomp, zonneboiler, installaties voor warmteterugwinning, CO2-gestuurde ventilatie, aansluiting op warmtenet, reflecterende en schaduwdaken, zonwering, rolluiken en screens).
-
-- •. Duurzame energie (bijvoorbeeld aanschaf zonnepanelen).
-
-- •. Klimaatbestendig maken en biodiversiteit versterken (bijvoorbeeld groene daken en gevels, waterdaken, regenpijp afkoppelen).
-
-- •. Bewustwording (bijvoorbeeld energiemonitor met slimme meter).
-
-- •. Kleine maatregelen (bijvoorbeeld radiatorfolie en -ventilator, tochtstrippen en -borstels, kozijnfolie, waterbesparende douchekop, sensoren voor lampen en kranen, efficiënter maken van bestaande verwarming).
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
