@@ -4,7 +4,7 @@ identifier: "BWBR0017626"
 country: "nl"
 rank: "amvb"
 publication_date: "2024-01-01"
-last_updated: "2012-04-01"
+last_updated: "2016-10-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0017626"
 soort: "AMvB"
@@ -51,11 +51,9 @@ Hebben goedgevonden en verstaan:
 
 In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
-- a. wet: [Spoorwegwet](https://wetten.overheid.nl/jci1.3:c:BWBR0015007);
+- gebruik van een hoofdspoorweg: met een spoorvoertuig rijden over of stilstaan op een hoofdspoorweg;
 
-- b. hoofdspoorweg: hoofdspoorweg als bedoeld in [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0015007&artikel=2), of [artikel 124, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0015007&artikel=124);
-
-- c. gebruik van een hoofdspoorweg: met een spoorvoertuig rijden over of stilstaan op een hoofdspoorweg.
+- wet: [Spoorwegwet](https://wetten.overheid.nl/jci1.3:c:BWBR0015007).
 
 #### § 2. Eigenschappen en keuring van de hoofdspoorweginfrastructuur
 
@@ -67,7 +65,7 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
 ##### Artikel 3
 
-1. Onze Minister kan ontheffing verlenen van de eisen, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0017626&paragraaf=2&artikel=2&z=2012-04-01&g=2012-04-01).
+1. Onze Minister kan ontheffing verlenen van de eisen, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0017626&paragraaf=2&artikel=2&z=2016-10-01&g=2016-10-01).
 
 2. De beheerder legt bij zijn aanvraag voor een ontheffing de bescheiden over en verstrekt de inlichtingen die Onze Minister noodzakelijk acht.
 
@@ -157,65 +155,41 @@ Vervallen
 
 Vervallen
 
-#### § 7. Bescherming van de hoofdspoorweg en zijn omgeving
+#### § 7. Begrenzing van de hoofdspoorweg
 
 ##### Artikel 21
 
-1. Een vergunning als bedoeld in [artikel 19 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0015007&artikel=19), wordt in ieder geval geweigerd indien de in het eerste lid van dat artikel bedoelde verrichtingen:
+1. De begrenzing van de hoofdspoorweg en de daarnaast gelegen gronden wordt aan weerszijden gevormd door een lijn liggend op een afstand van:
 
-- a. ernstige hinder of gevaar opleveren of kunnen opleveren voor een veilig en doelmatig gebruik of beheer van de hoofdspoorwegen;
+- a. elf meter bij een hoofdspoorweg op maaiveldniveau, gemeten vanaf het hart van het buitenste spoor, zijnde een denkbeeldige lijn in de lengterichting van het spoor midden tussen beide spoorstaven;
 
-- b. ernstige hinder of gevaar opleveren of kunnen opleveren voor reeds aanwezige objecten.
+- b. zes meter bij een hoofdspoorweg in ingraving, gemeten uit de bovenzijde van de ingraving;
 
-2. Voorschriften als bedoeld in [artikel 19, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0015007&artikel=19) kunnen onder meer betrekking hebben op:
+- c. zes meter bij een hoofdspoorweg in ophoging, gemeten uit de teen van het talud;
 
-- a. de werkwijze, de te nemen maatregelen en de te gebruiken materialen;
+- d. dertig meter bij een hoofdspoorweg in een tunnel, gemeten vanaf de buitenste wand van de tunnel;
 
-- b. het tracé, de markering en de gronddekking van kabels en leidingen;
+- e. dertig meter bij een hoofdspoorweg op een brug of op een viaduct, gemeten vanaf de buitenste rand van de constructie;
 
-- c. de te nemen maatregelen bij het beëindigen van de handelingen, bedoeld in [artikel 19, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0015007&artikel=19);
+- f. veertien meter bij een hoofdspoorweg gemeten vanaf het hart van het buitenste spoor, indien het betreft het hebben of opslaan van licht ontvlambare stoffen, bedoeld in [artikel 19, eerste lid, onderdeel d, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0015007&artikel=19).
 
-- d. de duur van de handelingen, bedoeld in [artikel 19, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0015007&artikel=19).
+2. Indien bij een hoofdspoorweg in ingraving of in ophoging de afstand tussen het hart van het buitenste spoor en de bovenkant van de ingraving of teen van het talud minder bedraagt dan vijf meter, wordt de begrenzing vastgesteld overeenkomstig het eerste lid, onderdeel a.
+
+3. Bij besluit van Onze Minister kan, gehoord de beheerder, met het oog op de bescherming van de fysieke integriteit van de hoofdspoorwegen en in het belang van een veilig en ongestoord gebruik daarvan, een begrenzing worden vastgesteld die afwijkt van het eerste of tweede lid.
+
+4. In afwijking van het eerste lid, onderdeel a, wordt de begrenzing van een deel van de hoofdspoorwegen die uitsluitend bestemd zijn voor het verrichten van goederenvervoer ten behoeve van de lokale ontsluiting van haven- en industriegebieden, gevormd door een lijn liggend op een afstand van drie meter op maaiveldniveau, gemeten vanaf het hart van het buitenste spoor. Wanneer op grond van [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0015007&artikel=2), of [124, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0015007&artikel=124) een spoorweg wordt aangewezen als hoofdspoorweg, wordt daarbij bepaald of de hoofdspoorweg onder het bereik van dit lid valt.
 
 ##### Artikel 22
 
-1. De aanvrager van een vergunning als bedoeld in [artikel 19 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0015007&artikel=19) legt, onverminderd [artikel 4:2 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:2), een situatietekening schaal 1:1000 met een exacte plaatsaanduiding en indien het een aanvraag betreft als bedoeld in [artikel 19, eerste lid, onderdeel a, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0015007&artikel=19), een tekening van het dwarsprofiel schaal 1:100 over.
-
-2. In de tekening van het dwarsprofiel bij een vergunningaanvraag met betrekking tot kabels of leidingen, worden de volgende gegevens vermeld:
-
-- a. de diepte van de kabel of leiding, dan wel de diepte van de beschermbuis ten opzichte van de bovenkant van de spoorstaven;
-
-- b. het soort materiaal en de in- en uitwendige diameter van de kabel of leiding en van de beschermbuis;
-
-- c. de maximum werkdruk in bar voor mediumvoerende leidingen;
-
-- d. de wijze van geleiding van de beschermbuis, de verbindingen van de mediumvoerende leiding en de wijze van eventuele kathodische bescherming;
-
-- e. de situering van een verklikkerinstallatie bij vloeistofvoerende leidingen;
-
-- f. de ontstoppingsputten of het ontvang- en stortbed van een vrijverval rioolleiding indien de spoorstaven door de leiding worden gekruist.
-
-3. In door Onze Minister te bepalen gevallen kan worden afgeweken van de verplichting tot het verstrekken van de in het eerste en tweede lid bedoelde gegevens.
+Vervallen
 
 ##### Artikel 23
 
-Onze Minister kan een vergunning als bedoeld in [artikel 19 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0015007&artikel=19) wijzigen of intrekken:
-
-- a. indien de door de aanvrager verstrekte gegevens zodanig onjuist of onvolledig blijken te zijn, dat op de aanvraag anders zou zijn beslist indien de juiste gegevens bij de beoordeling van de aanvraag bekend zouden zijn geweest;
-
-- b. indien binnen de in de vergunning bepaalde termijn geen begin met de in de vergunning vermelde werkzaamheden is gemaakt;
-
-- c. indien de werkzaamheden gedurende een langere dan de in de vergunning bepaalde termijn zijn gestaakt;
-
-- d. indien de aan de vergunning verbonden voorschriften of beperkingen niet in acht worden genomen;
-
-- e. in het belang van een veilig en ongestoord gebruik van de hoofdspoorwegen;
-
-- f. in verband met de wijziging van bestaande of de aanleg van nieuwe hoofdspoorweginfrastructuur.
+Vervallen
 
 ##### Artikel 24
 
-De [artikelen 21, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0017626&paragraaf=7&artikel=21&z=2012-04-01&g=2012-04-01), [22, eerste en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017626&paragraaf=7&artikel=22&z=2012-04-01&g=2012-04-01), en [23](https://wetten.overheid.nl/jci1.3:c:BWBR0017626&paragraaf=7&artikel=23&z=2012-04-01&g=2012-04-01) zijn van overeenkomstige toepassing op het verlenen van een ontheffing als bedoeld in [artikel 21, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0015007&artikel=21).
+Vervallen
 
 #### § 8. Spoorwegbruggen
 
@@ -261,11 +235,11 @@ Vervallen
 
 ##### Artikel 29
 
-Het [besluit van 5 februari 1925, tot vaststelling van een reglement ter voorkoming van aantasting van metalen voorwerpen in den bodem door zwerfstromen, afkomstig van de spoorstaven van elektrische spoor- en tramwegen](https://wetten.overheid.nl/jci1.3:c:BWBR0001922) (Stb. 29) is van overeenkomstige toepassing.
+Vervallen
 
 ##### Artikel 30
 
-Dit besluit wordt aangehaald als: Besluit spoorweginfrastructuur.
+Dit besluit wordt aangehaald als: Besluit hoofdspoorweginfrastructuur.
 
 ##### Artikel 31
 
