@@ -4,7 +4,7 @@ identifier: "BWBR0030484"
 country: "nl"
 rank: "pbo"
 publication_date: "2020-01-18"
-last_updated: "2016-05-30"
+last_updated: "2016-10-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0030484"
 soort: "pbo"
@@ -166,6 +166,8 @@ De notaris dient ervoor zorg te dragen dat de inrichting en organisatie van zijn
 - 10. de dekking voor de protocolverzekerden dient in de polissen te zijn geregeld van de protocolopvolger die vanaf 1 januari 2004 een notaris in het protocol is opgevolgd;
 
 - 11. de protocolopvolger dient te beschikken over een verklaring waarin de verzekeraar bevestigt dat de verzekering voldoet aan het in dit reglement bepaalde.
+
+3. Schaden in het kader van beroepsaansprakelijkheid lopende van één miljoen euro (€ 1.000.000) tot vijfentwintig miljoen euro (€ 25.000.000), alsmede schaden van honderdduizend euro (€ 100.000) tot vijf miljoen euro (€ 5.000.000) als gevolg van fraude door personeel en als gevolg van het verlies van waarden tijdens transport of verblijf op kantoor en schaden tot een bedrag van vierhonderd vierenvijftigduizend euro (€ 454.000 euro) als gevolg van administratieve betaalfouten, moeten worden gedekt in een door de KNB afgesloten collectieve verzekering. De notaris is verplicht om zijn aandeel in de kosten die gemoeid zijn met deze verzekeringen te dragen.
 
 ##### Artikel 16. Samenwerkingsverbanden
 
