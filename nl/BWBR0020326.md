@@ -4,7 +4,7 @@ identifier: "BWBR0020326"
 country: "nl"
 rank: "amvb"
 publication_date: "2025-01-01"
-last_updated: "2016-08-01"
+last_updated: "2016-10-06"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0020326"
 soort: "AMvB"
@@ -80,7 +80,7 @@ In dit besluit wordt verstaan onder wet: [Wet marktordening gezondheidszorg](htt
 
 - 1. Onze Minister op grond van een regeling als bedoeld in [artikel 3 van de Kaderwet VWS-subsidies](https://wetten.overheid.nl/jci1.3:c:BWBR0009455&artikel=3);
 
-- 2. het Zorginstituut op grond van [artikel 10.1.3](https://wetten.overheid.nl/jci1.3:c:BWBR0035917&artikel=10.1.3), [10.1.4](https://wetten.overheid.nl/jci1.3:c:BWBR0035917&artikel=10.1.4), [11.1.5](https://wetten.overheid.nl/jci1.3:c:BWBR0035917&artikel=11.1.5) of [11.5.1 van de Wet langdurige zorg](onbekend);
+- 2. het Zorginstituut op grond van [artikel 10.1.3](https://wetten.overheid.nl/jci1.3:c:BWBR0035917&artikel=10.1.3), [10.1.4](https://wetten.overheid.nl/jci1.3:c:BWBR0035917&artikel=10.1.4) of [11.1.5 van de Wet langdurige zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0035917&artikel=11.1.5);
 
 - c. de vaccinatie ten behoeve van de preventie van influenza;
 
