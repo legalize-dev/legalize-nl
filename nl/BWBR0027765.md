@@ -4,7 +4,7 @@ identifier: "BWBR0027765"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2017-04-01"
-last_updated: "2011-11-25"
+last_updated: "2016-10-06"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0027765"
 soort: "ministeriele-regeling"
@@ -52,9 +52,9 @@ In deze regeling wordt verstaan onder:
 
 - 1°. Minister van Sociale Zaken en Werkgelegenheid;
 
-- 2°. Minister van Onderwijs, Cultuur en Wetenschap, voor zover de aanvraag en de verklaring vooraf als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0027765&artikel=2&z=2011-11-25&g=2011-11-25), de gereglementeerde beroepen, genoemd in [artikel 2, onderdeel a, subonderdelen 4° en 5°](https://wetten.overheid.nl/jci1.3:c:BWBR0027765&artikel=2&z=2011-11-25&g=2011-11-25), betreffen;
+- 2°. Minister van Onderwijs, Cultuur en Wetenschap, voor zover de aanvraag en de verklaring vooraf als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0027765&artikel=2&z=2016-10-06&g=2016-10-06), de gereglementeerde beroepen, genoemd in [artikel 2, onderdeel a, subonderdelen 4° en 5°](https://wetten.overheid.nl/jci1.3:c:BWBR0027765&artikel=2&z=2016-10-06&g=2016-10-06), betreffen;
 
-- d. **wet:** [Algemene wet erkenning EG-beroepskwalificaties](https://wetten.overheid.nl/jci1.3:c:BWBR0023066);
+- d. **wet:** [Algemene wet erkenning EU-beroepskwalificaties](https://wetten.overheid.nl/jci1.3:c:BWBR0023066&wetgeving);
 
 - e. **kindercentrum:** voorziening als bedoeld in [artikel 1.1, eerste lid, van de Wet kinderopvang en kwaliteitseisen peuterspeelzalen](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&artikel=1.1);
 
@@ -76,11 +76,13 @@ Deze regeling is van toepassing op:
 
 - 5°. beroepskracht voorschoolse educatie als bedoeld in [artikel 2.1 van de Wet kinderopvang en kwaliteitseisen peuterspeelzalen](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&artikel=2.1);
 
+- 6°. beroepskracht meertalige buitenschoolse opvang als bedoeld in [artikel 1.1, eerste lid, van de Wet kinderopvang en kwaliteitseisen peuterspeelzalen](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&artikel=1.1);
+
 - b. de verklaring vooraf, bedoeld in [artikel 23 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0023066&artikel=23), van een dienstverrichter die een gereglementeerd beroep als bedoeld onder a wenst uit te oefenen.
 
 ##### Artikel 3. Aanvraag erkenning beroepskwalificaties
 
-De aanvrager verstrekt aan de minister bij de aanvraag de volgende documenten, bedoeld in [artikel 13 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0023066&artikel=13):
+1. De aanvrager verstrekt aan de minister bij de aanvraag de volgende documenten, bedoeld in [artikel 13 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0023066&artikel=13):
 
 - a. een bewijs van de nationaliteit alsmede, indien de definitie van migrerende beroepsbeoefenaar als bedoeld in de wet onder 2° van toepassing is, een door Nederland afgegeven EG-verblijfsvergunning voor langdurig ingezetenen als bedoeld in artikel 8 van [richtlijn nr. 2003/109/EG](32003L0109) van de Raad van de Europese Unie van 25 november 2003 betreffende de status van langdurig ingezeten onderdanen van derde landen (**PbEU** L 016), of een door een andere betrokken staat dan Nederland afgegeven zodanige EG-verblijfsvergunning en een verblijfsvergunning als bedoeld in [artikel 14 van de Vreemdelingenwet 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=14) of, indien de definitie van migrerende beroepsbeoefenaar als bedoeld in de wet onder 3° van toepassing is, een verblijfskaart van een familielid van een burger van de Unie of een duurzame verblijfskaart of een ander bewijsmiddel waaruit blijkt dat de aanvrager het verblijfsrecht of het duurzaam verblijfsrecht heeft verkregen als bedoeld in hoofdstuk III, respectievelijk hoofdstuk IV van [richtlijn nr. 2004/38/EG](32004L0038) van het Europees Parlement en de Raad van de Europese Unie van 29 april 2004 betreffende het recht van vrij verkeer en verblijf op het grondgebied van de lidstaten voor de burgers van de Unie en hun familieleden (**PbEU** L 158 en L 229);
 
@@ -94,9 +96,11 @@ De aanvrager verstrekt aan de minister bij de aanvraag de volgende documenten, b
 
 - d. in voorkomend geval een bewijs van de beroepservaring;
 
-- e. voor het gereglementeerde beroep, bedoeld in [artikel 2, onderdeel a, subonderdeel 3°](https://wetten.overheid.nl/jci1.3:c:BWBR0027765&artikel=2&z=2011-11-25&g=2011-11-25), een verklaring omtrent het gedrag als bedoeld in de [Wet justitiële en strafvorderlijke gegevens](https://wetten.overheid.nl/jci1.3:c:BWBR0014194) of een met die verklaring overeenkomend document als bedoeld in [artikel 14, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0023066&artikel=14), of een attest waaruit blijkt van een verklaring onder ede of plechtige verklaring als bedoeld in artikel 14, tweede lid, van de wet;
+- e. voor de gereglementeerde beroepen, bedoeld in [artikel 2, onderdeel a, onder 1°, 2°, 3° en 6°](https://wetten.overheid.nl/jci1.3:c:BWBR0027765&artikel=2&z=2016-10-06&g=2016-10-06), een verklaring omtrent het gedrag als bedoeld in de [Wet justitiële en strafvorderlijke gegevens](https://wetten.overheid.nl/jci1.3:c:BWBR0014194) of een met die verklaring overeenkomend document als bedoeld in [artikel 14, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0023066&artikel=14), of een attest waaruit blijkt van een verklaring onder ede of plechtige verklaring als bedoeld in artikel 14, tweede lid, van de wet;
 
 - f. indien de aanvraag en de onder b tot en met e bedoelde stukken in een andere dan de Nederlandse, Duitse of Engelse taal zijn gesteld, een door een beëdigd tolk/vertaler opgestelde vertaling daarvan in één van deze talen.
+
+2. Bij toepassing van [artikel 11, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0023066&artikel=11) verstrekt de aanvrager de minister bij de aanvraag een bewijs van kennis, vaardigheden en competenties in het kader van een leven lang leren als bedoeld in artikel 11, derde lid, van de wet.
 
 ##### Artikel 4. Proeve van bekwaamheid
 
@@ -154,7 +158,7 @@ Een dienstverrichter verstrekt aan de minister de volgende documenten, bedoeld i
 
 ##### Artikel 8. Dienst Uitvoering Onderwijs
 
-1. Aan de Directeur-generaal van de Dienst Uitvoering Onderwijs wordt mandaat, volmacht en machtiging verleend tot het nemen van besluiten en het verrichten van alle benodigde werkzaamheden, waaronder het vaststellen en ondertekenen van stukken, ter uitvoering van de bevoegdheden van de Minister van Sociale Zaken en Werkgelegenheid bedoeld in de [artikelen 2, onderdelen a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0027765&artikel=2&z=2011-11-25&g=2011-11-25), [3](https://wetten.overheid.nl/jci1.3:c:BWBR0027765&artikel=3&z=2011-11-25&g=2011-11-25), [4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0027765&artikel=4&z=2011-11-25&g=2011-11-25), [5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0027765&artikel=5&z=2011-11-25&g=2011-11-25), en [7](https://wetten.overheid.nl/jci1.3:c:BWBR0027765&artikel=7&z=2011-11-25&g=2011-11-25).
+1. Aan de Directeur-generaal van de Dienst Uitvoering Onderwijs wordt mandaat, volmacht en machtiging verleend tot het nemen van besluiten en het verrichten van alle benodigde werkzaamheden, waaronder het vaststellen en ondertekenen van stukken, ter uitvoering van de bevoegdheden van de Minister van Sociale Zaken en Werkgelegenheid bedoeld in de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0027765&artikel=3&z=2016-10-06&g=2016-10-06), [4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0027765&artikel=4&z=2016-10-06&g=2016-10-06), [5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0027765&artikel=5&z=2016-10-06&g=2016-10-06), en [7](https://wetten.overheid.nl/jci1.3:c:BWBR0027765&artikel=7&z=2016-10-06&g=2016-10-06), en de [artikelen 31a](https://wetten.overheid.nl/jci1.3:c:BWBR0023066&artikel=31a) en [31b van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0023066&artikel=31b) met betrekking tot de in [artikel 2, onderdeel a, onder 1°, 2°, 3° en 6°](https://wetten.overheid.nl/jci1.3:c:BWBR0027765&artikel=2&z=2016-10-06&g=2016-10-06) bedoelde gereglementeerde beroepen.
 
 2. Aan de Directeur-generaal van de Dienst Uitvoering Onderwijs wordt mandaat en machtiging verleend met betrekking tot het nemen van besluiten over en het vaststellen en ondertekenen van stukken die betrekking hebben op de afhandeling van administratieve stukken inzake klacht-, bezwaar- en beroepsprocedures, voor zover deze verband houden met de uitoefening van de bevoegdheden, genoemd in het eerste lid, met dien verstande dat de Directeur-generaal geen besluit op bezwaar neemt met betrekking tot een bezwaarschrift tegen een besluit dat hij in mandaat heeft genomen.
 
@@ -168,6 +172,6 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 ##### Artikel 10. Citeertitel
 
-Deze regeling wordt aangehaald als: Regeling erkenning EG-beroepskwalificaties kinderopvangpersoneel.
+Deze regeling wordt aangehaald als: Regeling erkenning EU-beroepskwalificaties kinderopvangpersoneel.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
