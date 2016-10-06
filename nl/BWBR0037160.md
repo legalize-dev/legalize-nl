@@ -4,7 +4,7 @@ identifier: "BWBR0037160"
 country: "nl"
 rank: "amvb"
 publication_date: "2025-07-01"
-last_updated: "2016-05-20"
+last_updated: "2016-10-06"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0037160"
 soort: "AMvB"
@@ -166,7 +166,7 @@ Het verbod op bedrijfsmatige verstrekking van tabaksproducten aan particulieren 
 
 Als categorieën van inrichtingen als bedoeld in [artikel 7, tweede lid, van de Tabakswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004302&artikel=7) worden met uitzondering van verpleeghuizen, revalidatiecentra, psychiatrische ziekenhuizen, zwakzinnigeninrichtingen, gezinsvervangende tehuizen voor gehandicapten en verzorgingshuizen aangewezen:
 
-- a. instellingen waarin zorg wordt verleend als bedoeld in de [Kwaliteitswet zorginstellingen](https://wetten.overheid.nl/jci1.3:c:BWBR0007850&wetgeving);
+- a. instellingen waarin zorg wordt verleend als bedoeld in de [Kwaliteitswet zorginstellingen](https://wetten.overheid.nl/jci1.3:c:BWBR0007850);
 
 - b. inrichtingen waarin voorzieningen worden aangeboden op het terrein van maatschappelijke ondersteuning als bedoeld in [artikel 1.1.1, eerste lid, van de Wet maatschappelijke ondersteuning 2015](https://wetten.overheid.nl/jci1.3:c:BWBR0035362&artikel=1.1.1);
 
@@ -178,7 +178,7 @@ Als categorieën van inrichtingen als bedoeld in [artikel 7, tweede lid, van de 
 
 - 1°. de [Wet op het primair onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0003420);
 
-- 2°. de [Wet op de expertisecentra](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&wetgeving);
+- 2°. de [Wet op de expertisecentra](https://wetten.overheid.nl/jci1.3:c:BWBR0003549);
 
 - 3°. de [Wet op het voortgezet onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0002399);
 
@@ -218,7 +218,7 @@ Degene die – anders dan in een hoedanigheid als bedoeld in [artikel 10, eerste
 
 ##### Artikel 6.2
 
-1. De verplichting, bedoeld in [artikel 10, eerste lid, van de Tabakswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004302&artikel=10) en in [artikel 6.1](https://wetten.overheid.nl/jci1.3:c:BWBR0037160&paragraaf=6&artikel=6.1&z=2016-05-20&g=2016-05-20) van dit besluit, geldt niet:
+1. De verplichting, bedoeld in [artikel 10, eerste lid, van de Tabakswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004302&artikel=10) en in [artikel 6.1](https://wetten.overheid.nl/jci1.3:c:BWBR0037160&paragraaf=6&artikel=6.1&z=2016-10-06&g=2016-10-06) van dit besluit, geldt niet:
 
 - a. in ruimten waar geen inbreuk mag worden gemaakt op de persoonlijke levenssfeer;
 
@@ -236,7 +236,7 @@ Indien in een instelling voor geestelijke gezondheidszorg, ouderenzorg, gehandic
 
 ##### Artikel 7.1
 
-Voor tabaksproducten, elektronische sigaretten en navulverpakkingen en voor roken bestemde kruidenproducten die vóór 20 november 2016 in de handel zijn of worden gebracht, worden de in de [artikelen 4.1](https://wetten.overheid.nl/jci1.3:c:BWBR0037160&paragraaf=4&artikel=4.1&z=2016-05-20&g=2016-05-20), [4.5](https://wetten.overheid.nl/jci1.3:c:BWBR0037160&paragraaf=4&artikel=4.5&z=2016-05-20&g=2016-05-20), [4.6](https://wetten.overheid.nl/jci1.3:c:BWBR0037160&paragraaf=4&artikel=4.6&z=2016-05-20&g=2016-05-20) en [4.8](https://wetten.overheid.nl/jci1.3:c:BWBR0037160&paragraaf=4&artikel=4.8&z=2016-05-20&g=2016-05-20) bedoelde gegevens en bescheiden uiterlijk 20 november 2016 verstrekt aan Onze Minister.
+Voor tabaksproducten, elektronische sigaretten en navulverpakkingen en voor roken bestemde kruidenproducten die vóór 20 november 2016 in de handel zijn of worden gebracht, worden de in de [artikelen 4.1](https://wetten.overheid.nl/jci1.3:c:BWBR0037160&paragraaf=4&artikel=4.1&z=2016-10-06&g=2016-10-06), [4.5](https://wetten.overheid.nl/jci1.3:c:BWBR0037160&paragraaf=4&artikel=4.5&z=2016-10-06&g=2016-10-06), [4.6](https://wetten.overheid.nl/jci1.3:c:BWBR0037160&paragraaf=4&artikel=4.6&z=2016-10-06&g=2016-10-06) en [4.8](https://wetten.overheid.nl/jci1.3:c:BWBR0037160&paragraaf=4&artikel=4.8&z=2016-10-06&g=2016-10-06) bedoelde gegevens en bescheiden uiterlijk 20 november 2016 verstrekt aan Onze Minister.
 
 ##### Artikel 7.2
 
@@ -244,7 +244,7 @@ Een wijziging van de Tabaksproductenrichtlijn en besluiten vastgesteld ter uitvo
 
 ##### Artikel 7.3
 
-Tabaksproducten die zijn geproduceerd voor 20 mei 2016 en die voldoen aan het [Aanduidingenbesluit tabaksproducten](https://wetten.overheid.nl/jci1.3:c:BWBR0006920&wetgeving) zoals dat luidde op 27 maart 2014 mogen worden verkocht tot 20 mei 2017.
+Tabaksproducten die zijn geproduceerd voor 20 mei 2016 en die voldoen aan het [Aanduidingenbesluit tabaksproducten](https://wetten.overheid.nl/jci1.3:c:BWBR0006920) zoals dat luidde op 27 maart 2014 mogen worden verkocht tot 20 mei 2017.
 
 ##### Artikel 7.4
 
@@ -290,9 +290,9 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 ##### Artikel 4.4
 
-1. Bij ministeriële regeling wordt een sjabloon vastgesteld waarin de gegevens en bescheiden bedoeld in de [artikelen 4.1](https://wetten.overheid.nl/jci1.3:c:BWBR0037160&paragraaf=4&artikel=4.1&z=2016-05-20&g=2016-05-20), [4.2](https://wetten.overheid.nl/jci1.3:c:BWBR0037160&paragraaf=4&artikel=4.2&z=2016-05-20&g=2016-05-20) en [4.3](https://wetten.overheid.nl/jci1.3:c:BWBR0037160&paragraaf=4&artikel=4.3&z=2016-05-20&g=2016-05-20) worden verstrekt.
+1. Bij ministeriële regeling wordt een sjabloon vastgesteld waarin de gegevens en bescheiden bedoeld in de [artikelen 4.1](https://wetten.overheid.nl/jci1.3:c:BWBR0037160&paragraaf=4&artikel=4.1&z=2016-10-06&g=2016-10-06), [4.2](https://wetten.overheid.nl/jci1.3:c:BWBR0037160&paragraaf=4&artikel=4.2&z=2016-10-06&g=2016-10-06) en [4.3](https://wetten.overheid.nl/jci1.3:c:BWBR0037160&paragraaf=4&artikel=4.3&z=2016-10-06&g=2016-10-06) worden verstrekt.
 
-2. Onze Minister geeft de Europese Commissie en de andere staten van de Europese Economische Ruimte toegang tot de gegevens en bescheiden bedoeld in de [artikelen 4.1](https://wetten.overheid.nl/jci1.3:c:BWBR0037160&paragraaf=4&artikel=4.1&z=2016-05-20&g=2016-05-20), [4.2](https://wetten.overheid.nl/jci1.3:c:BWBR0037160&paragraaf=4&artikel=4.2&z=2016-05-20&g=2016-05-20) en [4.3](https://wetten.overheid.nl/jci1.3:c:BWBR0037160&paragraaf=4&artikel=4.3&z=2016-05-20&g=2016-05-20).
+2. Onze Minister geeft de Europese Commissie en de andere staten van de Europese Economische Ruimte toegang tot de gegevens en bescheiden bedoeld in de [artikelen 4.1](https://wetten.overheid.nl/jci1.3:c:BWBR0037160&paragraaf=4&artikel=4.1&z=2016-10-06&g=2016-10-06), [4.2](https://wetten.overheid.nl/jci1.3:c:BWBR0037160&paragraaf=4&artikel=4.2&z=2016-10-06&g=2016-10-06) en [4.3](https://wetten.overheid.nl/jci1.3:c:BWBR0037160&paragraaf=4&artikel=4.3&z=2016-10-06&g=2016-10-06).
 
 ##### Artikel 4.5
 
@@ -316,7 +316,7 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 2. Bij ministeriële regeling worden ter uitvoering van de Tabaksproductenrichtlijn eisen gesteld aan de gegevens en bescheiden die worden verstrekt en de wijze en het tijdstip waarop dit gebeurt.
 
-3. Onze Minister deelt de bij of krachtens dit artikel en [artikel 4.6](https://wetten.overheid.nl/jci1.3:c:BWBR0037160&paragraaf=4&artikel=4.6&z=2016-05-20&g=2016-05-20) ontvangen gegevens en bescheiden op verzoek met de Europese Commissie en de andere staten van de Europese Economische Ruimte.
+3. Onze Minister deelt de bij of krachtens dit artikel en [artikel 4.6](https://wetten.overheid.nl/jci1.3:c:BWBR0037160&paragraaf=4&artikel=4.6&z=2016-10-06&g=2016-10-06) ontvangen gegevens en bescheiden op verzoek met de Europese Commissie en de andere staten van de Europese Economische Ruimte.
 
 ##### Artikel 4.8
 
@@ -326,7 +326,7 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 ##### Artikel 4.9
 
-1. Onze Minister draagt op een door hem te bepalen wijze zorg voor de openbaarmaking van de gegevens en bescheiden die worden verstrekt bij of krachtens de [artikelen 4.1](https://wetten.overheid.nl/jci1.3:c:BWBR0037160&paragraaf=4&artikel=4.1&z=2016-05-20&g=2016-05-20), [4.3](https://wetten.overheid.nl/jci1.3:c:BWBR0037160&paragraaf=4&artikel=4.3&z=2016-05-20&g=2016-05-20), [4.4](https://wetten.overheid.nl/jci1.3:c:BWBR0037160&paragraaf=4&artikel=4.4&z=2016-05-20&g=2016-05-20), [4.6](https://wetten.overheid.nl/jci1.3:c:BWBR0037160&paragraaf=4&artikel=4.6&z=2016-05-20&g=2016-05-20) en [4.8](https://wetten.overheid.nl/jci1.3:c:BWBR0037160&paragraaf=4&artikel=4.8&z=2016-05-20&g=2016-05-20). Producenten en importeurs verstrekken deze gegevens en bescheiden in de Nederlandse taal.
+1. Onze Minister draagt op een door hem te bepalen wijze zorg voor de openbaarmaking van de gegevens en bescheiden die worden verstrekt bij of krachtens de [artikelen 4.1](https://wetten.overheid.nl/jci1.3:c:BWBR0037160&paragraaf=4&artikel=4.1&z=2016-10-06&g=2016-10-06), [4.3](https://wetten.overheid.nl/jci1.3:c:BWBR0037160&paragraaf=4&artikel=4.3&z=2016-10-06&g=2016-10-06), [4.4](https://wetten.overheid.nl/jci1.3:c:BWBR0037160&paragraaf=4&artikel=4.4&z=2016-10-06&g=2016-10-06), [4.6](https://wetten.overheid.nl/jci1.3:c:BWBR0037160&paragraaf=4&artikel=4.6&z=2016-10-06&g=2016-10-06) en [4.8](https://wetten.overheid.nl/jci1.3:c:BWBR0037160&paragraaf=4&artikel=4.8&z=2016-10-06&g=2016-10-06). Producenten en importeurs verstrekken deze gegevens en bescheiden in de Nederlandse taal.
 
 2. Producenten en importeurs van tabaksproducten en aanverwante producten geven bij het verstrekken van de gegevens en bescheiden, bedoeld in het eerste lid, nauwkeurig aan welke informatie zij als bedrijfsgeheim beschouwen.
 
@@ -340,11 +340,13 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 2. Bij ministeriële regeling worden regels gesteld met betrekking tot de wijze van registreren en de gegevens en bescheiden die daarbij verstrekt worden.
 
-3. Onze Minister maakt de lijst met geregistreerde detaillisten openbaar.
+3. Een detaillist wordt niet geregistreerd indien in de staat van de EER waar de detaillist is gevestigd dan wel waar de potentiële consument zich bevindt, het aanbieden voor grensoverschrijdende verkoop op afstand dan wel grensoverschrijdende verkoop op afstand van een tabaksproduct, elektronische sigaret of navulverpakking verboden is.
+
+4. Onze Minister maakt de lijst met geregistreerde detaillisten openbaar.
 
 ##### Artikel 5.6
 
-1. Een detaillist die op grond van [artikel 5.5](https://wetten.overheid.nl/jci1.3:c:BWBR0037160&paragraaf=5&artikel=5.5&z=2016-05-20&g=2016-05-20) geregistreerd is en grensoverschrijdende verkoop op afstand van een tabaksproduct, elektronische sigaret of navulverpakking naar een staat van de Europese Economische Ruimte verricht, hanteert een leeftijdsverificatiesysteem dat op het tijdstip van de verkoop vaststelt dat de consument voldoet aan de voorgeschreven minimumleeftijdsvereisten van de staat waarin de consument zich bevindt.
+1. Een detaillist die op grond van [artikel 5.5](https://wetten.overheid.nl/jci1.3:c:BWBR0037160&paragraaf=5&artikel=5.5&z=2016-10-06&g=2016-10-06) geregistreerd is en grensoverschrijdende verkoop op afstand van een tabaksproduct, elektronische sigaret of navulverpakking naar een staat van de Europese Economische Ruimte verricht, hanteert een leeftijdsverificatiesysteem dat op het tijdstip van de verkoop vaststelt dat de consument voldoet aan de voorgeschreven minimumleeftijdsvereisten van de staat waarin de consument zich bevindt.
 
 2. Een detaillist die een tabaksproduct, elektronische sigaret of navulverpakking aanbiedt voor binnenlandse verkoop op afstand hanteert een leeftijdsverificatiesysteem dat op het tijdstip van de verkoop vaststelt dat de consument de leeftijd van 18 jaar heeft bereikt.
 
@@ -352,15 +354,15 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 ##### Artikel 5.7
 
-1. In aanvulling op [artikel 8 van de Wet bescherming persoonsgegevens](https://wetten.overheid.nl/jci1.3:c:BWBR0011468&artikel=8) verwerkt een detaillist die op grond van [artikel 5.5](https://wetten.overheid.nl/jci1.3:c:BWBR0037160&paragraaf=5&artikel=5.5&z=2016-05-20&g=2016-05-20) geregistreerd is de persoonsgegevens van een consument die bij hem een tabaksproduct, elektronische sigaret of navulverpakking koopt, slechts ten behoeve van de daadwerkelijke verkoop.
+1. In aanvulling op [artikel 8 van de Wet bescherming persoonsgegevens](https://wetten.overheid.nl/jci1.3:c:BWBR0011468&artikel=8) verwerkt een detaillist die op grond van [artikel 5.5](https://wetten.overheid.nl/jci1.3:c:BWBR0037160&paragraaf=5&artikel=5.5&z=2016-10-06&g=2016-10-06) geregistreerd is de persoonsgegevens van een consument die bij hem een tabaksproduct, elektronische sigaret of navulverpakking koopt, slechts ten behoeve van de daadwerkelijke verkoop.
 
-2. In aanvulling op [artikel 8 van de Wet bescherming persoonsgegevens](https://wetten.overheid.nl/jci1.3:c:BWBR0011468&artikel=8) maakt een detaillist die op grond van [artikel 5.5](https://wetten.overheid.nl/jci1.3:c:BWBR0037160&paragraaf=5&artikel=5.5&z=2016-05-20&g=2016-05-20) geregistreerd is de persoonsgegevens van een consument die bij hem een tabaksproduct, elektronische sigaret of navulverpakking koopt, niet bekend aan de producent van het product, aan ondernemingen die deel uitmaken van dezelfde groep ondernemingen als de producent of aan andere derden.
+2. In aanvulling op [artikel 8 van de Wet bescherming persoonsgegevens](https://wetten.overheid.nl/jci1.3:c:BWBR0011468&artikel=8) maakt een detaillist die op grond van [artikel 5.5](https://wetten.overheid.nl/jci1.3:c:BWBR0037160&paragraaf=5&artikel=5.5&z=2016-10-06&g=2016-10-06) geregistreerd is de persoonsgegevens van een consument die bij hem een tabaksproduct, elektronische sigaret of navulverpakking koopt, niet bekend aan de producent van het product, aan ondernemingen die deel uitmaken van dezelfde groep ondernemingen als de producent of aan andere derden.
 
 3. Het tweede lid is ook van toepassing indien de detaillist deel uitmaakt van een producent van een tabaksproduct, elektronische sigaret of navulverpakking.
 
 ##### Artikel 5.8
 
-Een detaillist die op grond van [artikel 5.5](https://wetten.overheid.nl/jci1.3:c:BWBR0037160&paragraaf=5&artikel=5.5&z=2016-05-20&g=2016-05-20) geregistreerd is en grensoverschrijdende verkoop op afstand van een tabaksproduct, elektronische sigaret of navulverpakking verricht naar een staat van de Europese Economische Ruimte waar een natuurlijk verantwoordelijk persoon verplicht is die verifieert of het tabaksproduct, de elektronische sigaret of de navulverpakking voldoet aan de eisen die in de lidstaat van bestemming gelden, is verplicht met dit doel een natuurlijk verantwoordelijk persoon aan te stellen.
+Een detaillist die op grond van [artikel 5.5](https://wetten.overheid.nl/jci1.3:c:BWBR0037160&paragraaf=5&artikel=5.5&z=2016-10-06&g=2016-10-06) geregistreerd is en grensoverschrijdende verkoop op afstand van een tabaksproduct, elektronische sigaret of navulverpakking verricht naar een staat van de Europese Economische Ruimte waar een natuurlijk verantwoordelijk persoon verplicht is die verifieert of het tabaksproduct, de elektronische sigaret of de navulverpakking voldoet aan de eisen die in de lidstaat van bestemming gelden, is verplicht met dit doel een natuurlijk verantwoordelijk persoon aan te stellen.
 
 #### § 6. Rookverbod en uitzondering op het rookverbod
 
