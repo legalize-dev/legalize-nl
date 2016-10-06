@@ -4,7 +4,7 @@ identifier: "BWBR0009499"
 country: "nl"
 rank: "amvb"
 publication_date: "2024-01-01"
-last_updated: "2016-02-19"
+last_updated: "2016-10-06"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0009499"
 soort: "AMvB"
@@ -98,13 +98,13 @@ De aanduiding **vruchtenwijn**mag uitsluitend worden gebezigd voor een gegiste d
 
 ##### Artikel 6
 
-De aanduiding **roomijs** mag uitsluitend worden gebezigd voor consumptie-ijs dat bestemd is om in bevroren toestand te worden genuttigd, en dat:
+De aanduiding roomijs mag uitsluitend worden gebezigd voor consumptie-ijs dat bestemd is om in bevroren toestand te worden genuttigd, en dat:
 
-- –. geen ander vet bevat dan melkvet;
+- −. geen ander vet bevat dan melkvet;
 
-- –. een melkvetgehalte heeft van ten minste 5%; en
+- −. een melkvetgehalte heeft van ten minste 5%; en
 
-- –. geen ander eiwit bevat dan melkeiwitten.
+- −. geen ander eiwit bevat dan melkeiwitten.
 
 ##### Artikel 7
 
@@ -134,7 +134,7 @@ Als methoden van onderzoek welke bij uitsluiting beslissend zijn voor de vastste
 
 ##### Artikel 9
 
-Dit besluit treedt in werking met ingang van 1 april 1998, met uitzondering van [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0009499&artikel=6&z=2016-02-19&g=2016-02-19) en [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0009499&artikel=7&z=2016-02-19&g=2016-02-19), die in werking treden met ingang van 1 mei 1998.
+Dit besluit treedt in werking met ingang van 1 april 1998, met uitzondering van [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0009499&artikel=6&z=2016-10-06&g=2016-10-06) en [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0009499&artikel=7&z=2016-10-06&g=2016-10-06), die in werking treden met ingang van 1 mei 1998.
 
 ##### Artikel 10
 
@@ -160,7 +160,7 @@ De aanduiding **bier** mag uitsluitend worden gebezigd voor een drinkwaar verkre
 
 waaraan mogen zijn toegevoegd:
 
-- –. vruchten of vruchtensappen en aroma’s, met dien verstande dat het gebruik van deze ingrediënten uitsluitend is toegestaan voor de bereiding van andere bieren dan bieren van het type pils als bedoeld in [artikel 7f](https://wetten.overheid.nl/jci1.3:c:BWBR0009499&artikel=7f&z=2016-02-19&g=2016-02-19);
+- –. vruchten of vruchtensappen en aroma’s, met dien verstande dat het gebruik van deze ingrediënten uitsluitend is toegestaan voor de bereiding van andere bieren dan bieren van het type pils als bedoeld in [artikel 7f](https://wetten.overheid.nl/jci1.3:c:BWBR0009499&artikel=7f&z=2016-10-06&g=2016-10-06);
 
 - –. technologische hulpstoffen en additieven die voldoen aan de voorschriften gesteld bij of krachtens Verordening (EG) nr. 1333/2008 van het Europees Parlement en de Raad van 16 december 2008 inzake levensmiddelenadditieven (PbEU 2008, L 354).
 
