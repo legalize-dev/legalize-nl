@@ -4,7 +4,7 @@ identifier: "BWBR0002036"
 country: "nl"
 rank: "amvb"
 publication_date: "2016-10-06"
-last_updated: "2015-01-01"
+last_updated: "2016-10-06"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0002036"
 soort: "AMvB"
@@ -84,7 +84,7 @@ Vervallen
 
 ##### Artikel 5
 
-1. Het invaliditeitspercentage, bedoeld in [artikel 4, eerste lid, onder d](https://wetten.overheid.nl/jci1.3:c:BWBR0002036&artikel=4&z=2016-10-06&g=2015-01-01), wordt bepaald in verband met het beroep, dat belanghebbende vóór het intreden van zijn invaliditeit laatstelijk heeft vervuld (beroepsinvaliditeit) en met de algemene invaliditeit, met dien verstande, dat bij verschil het hoogste percentage wordt aangehouden.
+1. Het invaliditeitspercentage, bedoeld in [artikel 4, eerste lid, onder d](https://wetten.overheid.nl/jci1.3:c:BWBR0002036&artikel=4&z=2016-10-06&g=2016-10-06), wordt bepaald in verband met het beroep, dat belanghebbende vóór het intreden van zijn invaliditeit laatstelijk heeft vervuld (beroepsinvaliditeit) en met de algemene invaliditeit, met dien verstande, dat bij verschil het hoogste percentage wordt aangehouden.
 
 2. Na omscholing tot een nieuw beroep, wordt, indien dit voor belanghebbende voordeliger is, de invaliditeit bepaald naar het nieuwe beroep.
 
@@ -96,7 +96,7 @@ Vervallen
 
 ##### Artikel 7
 
-1. De vergoeding voor de in [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002036&artikel=2&z=2016-10-06&g=2015-01-01), bedoelde arts wordt door de Sociale verzekeringsbank vastgesteld.
+1. De vergoeding voor de in [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002036&artikel=2&z=2016-10-06&g=2016-10-06), bedoelde arts wordt door de Sociale verzekeringsbank vastgesteld.
 
 2. Alle kosten van geneeskundige onderzoekingen, inbegrepen de kosten van de door de belanghebbende gekozen arts, en van rapporten, evenals die verbonden aan een observatie, alsmede de, naar het oordeel van de Sociale verzekeringsbank, noodzakelijke reiskosten van de belanghebbende en die van de voor zijn reis benodigde begeleiding naar en van de plaats, waar het geneeskundig onderzoek plaats vindt, komen ten laste van het Rijk; zij worden gedeclareerd bij de Sociale verzekeringsbank.
 
