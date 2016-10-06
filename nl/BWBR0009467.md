@@ -4,7 +4,7 @@ identifier: "BWBR0009467"
 country: "nl"
 rank: "amvb"
 publication_date: "2024-01-01"
-last_updated: "2015-01-01"
+last_updated: "2016-10-06"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0009467"
 soort: "AMvB"
@@ -68,7 +68,7 @@ In dit besluit wordt verstaan onder:
 
 ##### Artikel 2
 
-Om in het krachtens [artikel 3 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&artikel=3) ingestelde register van gezondheidszorgpsychologen te kunnen worden ingeschreven, is vereist het bezit van een getuigschrift waaruit blijkt dat de betrokkene met goed gevolg het examen ter afsluiting van een opleiding tot gezondheidszorgpsycholoog heeft afgelegd, uitgereikt door een krachtens [artikel 6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009467&paragraaf=3&artikel=6&z=2015-01-01&g=2015-01-01), aangewezen opleidingsinstelling.
+Om in het krachtens [artikel 3 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&artikel=3) ingestelde register van gezondheidszorgpsychologen te kunnen worden ingeschreven, is vereist het bezit van een getuigschrift waaruit blijkt dat de betrokkene met goed gevolg het examen ter afsluiting van een opleiding tot gezondheidszorgpsycholoog heeft afgelegd, uitgereikt door een krachtens [artikel 6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009467&paragraaf=3&artikel=6&z=2016-10-06&g=2016-10-06), aangewezen opleidingsinstelling.
 
 #### § 2. Opleidingseisen
 
@@ -90,7 +90,7 @@ Om in het krachtens [artikel 3 van de wet](https://wetten.overheid.nl/jci1.3:c:B
 
 ##### Artikel 4
 
-1. Het onderwijs, bedoeld in [artikel 3, eerste lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0009467&paragraaf=2&artikel=3&z=2015-01-01&g=2015-01-01), omvat ten minste:
+1. Het onderwijs, bedoeld in [artikel 3, eerste lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0009467&paragraaf=2&artikel=3&z=2016-10-06&g=2016-10-06), omvat ten minste:
 
 - a. 480 uren cursorisch onderwijs;
 
@@ -194,19 +194,17 @@ Om in het krachtens [artikel 3 van de wet](https://wetten.overheid.nl/jci1.3:c:B
 
 ##### Artikel 6
 
-1. Onze Minister kan, op hun daartoe strekkende verzoek, opleidingsinstellingen aanwijzen die een opleiding tot gezondheidszorgpsycholoog verzorgen die naar zijn oordeel voldoet aan de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0009467&paragraaf=2&artikel=3&z=2015-01-01&g=2015-01-01) en [4](https://wetten.overheid.nl/jci1.3:c:BWBR0009467&paragraaf=2&artikel=4&z=2015-01-01&g=2015-01-01).
+1. Onze Minister kan, op hun daartoe strekkende verzoek, opleidingsinstellingen aanwijzen die een opleiding tot gezondheidszorgpsycholoog verzorgen die naar zijn oordeel voldoet aan de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0009467&paragraaf=2&artikel=3&z=2016-10-06&g=2016-10-06) en [4](https://wetten.overheid.nl/jci1.3:c:BWBR0009467&paragraaf=2&artikel=4&z=2016-10-06&g=2016-10-06).
 
-2. De aanwijzing geschiedt niet dan nadat Onze Minister de Stichting Coördinerend Orgaan Nascholing en Opleiding in de geestelijke gezondheidszorg heeft uitgenodigd haar standpunt ter zake van de voorgenomen aanwijzing kenbaar te maken binnen een door Onze Minister aan te geven termijn en deze termijn is verstreken.
+2. Onze Minister kan een aanwijzing intrekken indien de opleidingsinstelling naar zijn oordeel niet meer voldoet aan [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0009467&paragraaf=3&artikel=7&z=2016-10-06&g=2016-10-06).
 
-3. Onze Minister kan een aanwijzing intrekken indien de opleidingsinstelling naar zijn oordeel niet meer voldoet aan [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0009467&paragraaf=3&artikel=7&z=2015-01-01&g=2015-01-01). Met betrekking tot de intrekking van een aanwijzing is het tweede lid van overeenkomstige toepassing.
-
-4. Van een aanwijzing of een intrekking van een aanwijzing wordt kennis gegeven in de Staatscourant.
+3. Van een aanwijzing of een intrekking van een aanwijzing wordt kennis gegeven in de Staatscourant.
 
 ##### Artikel 7
 
 Voor aanwijzing komen in aanmerking opleidingsinstellingen waarvan in redelijkheid verwacht mag worden dat zij:
 
-- a. de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0009467&paragraaf=2&artikel=3&z=2015-01-01&g=2015-01-01), [4](https://wetten.overheid.nl/jci1.3:c:BWBR0009467&paragraaf=2&artikel=4&z=2015-01-01&g=2015-01-01), [5](https://wetten.overheid.nl/jci1.3:c:BWBR0009467&paragraaf=2&artikel=5&z=2015-01-01&g=2015-01-01), [8](https://wetten.overheid.nl/jci1.3:c:BWBR0009467&paragraaf=3&artikel=8&z=2015-01-01&g=2015-01-01), [9](https://wetten.overheid.nl/jci1.3:c:BWBR0009467&paragraaf=3&artikel=9&z=2015-01-01&g=2015-01-01) en [10](https://wetten.overheid.nl/jci1.3:c:BWBR0009467&paragraaf=3&artikel=10&z=2015-01-01&g=2015-01-01) zullen naleven;
+- a. de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0009467&paragraaf=2&artikel=3&z=2016-10-06&g=2016-10-06), [4](https://wetten.overheid.nl/jci1.3:c:BWBR0009467&paragraaf=2&artikel=4&z=2016-10-06&g=2016-10-06), [5](https://wetten.overheid.nl/jci1.3:c:BWBR0009467&paragraaf=2&artikel=5&z=2016-10-06&g=2016-10-06), [8](https://wetten.overheid.nl/jci1.3:c:BWBR0009467&paragraaf=3&artikel=8&z=2016-10-06&g=2016-10-06), [9](https://wetten.overheid.nl/jci1.3:c:BWBR0009467&paragraaf=3&artikel=9&z=2016-10-06&g=2016-10-06) en [10](https://wetten.overheid.nl/jci1.3:c:BWBR0009467&paragraaf=3&artikel=10&z=2016-10-06&g=2016-10-06) zullen naleven;
 
 - b. zorg dragen voor een evenwichtige verhouding tussen het theoretische en praktische gedeelte van de opleiding enerzijds en de werkervaring anderzijds;
 
@@ -214,7 +212,7 @@ Voor aanwijzing komen in aanmerking opleidingsinstellingen waarvan in redelijkhe
 
 ##### Artikel 8
 
-1. De opleidingsinstelling stelt jaarlijks een plan vast waarin de in de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0009467&paragraaf=2&artikel=3&z=2015-01-01&g=2015-01-01) en [4](https://wetten.overheid.nl/jci1.3:c:BWBR0009467&paragraaf=2&artikel=4&z=2015-01-01&g=2015-01-01) omschreven opleidingsonderdelen nader zijn uitgewerkt.
+1. De opleidingsinstelling stelt jaarlijks een plan vast waarin de in de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0009467&paragraaf=2&artikel=3&z=2016-10-06&g=2016-10-06) en [4](https://wetten.overheid.nl/jci1.3:c:BWBR0009467&paragraaf=2&artikel=4&z=2016-10-06&g=2016-10-06) omschreven opleidingsonderdelen nader zijn uitgewerkt.
 
 2. Belanghebbenden kunnen het opleidingsplan, desgevraagd, inzien en daarvan afschrift verlangen.
 
