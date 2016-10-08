@@ -4,7 +4,7 @@ identifier: "BWBR0022835"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-12-06"
-last_updated: "2014-01-06"
+last_updated: "2016-10-08"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0022835"
 soort: "ministeriele-regeling"
@@ -80,7 +80,7 @@ Deze regeling wordt aangehaald als: Regeling burgerservicenummer.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
-## Bijlage. , bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0022835&artikel=3&z=2014-01-06&g=2014-01-06) van de Regeling Burgerservicenummer
+## Bijlage. , bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0022835&artikel=3&z=2014-01-06&g=2016-10-08) van de Regeling Burgerservicenummer
 
 Ligt ter inzage bij het agentschap Basisadministratie Persoonsgegevens en Reisdocumenten van het Ministerie van Binnenlandse Zaken en Koninkrijksrelaties, Turfmarkt 147, 2511 DP Den Haag en gepubliceerd op www.bprbzk.nl.
 
