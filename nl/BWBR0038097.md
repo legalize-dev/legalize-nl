@@ -4,7 +4,7 @@ identifier: "BWBR0038097"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2020-01-01"
-last_updated: "2016-07-01"
+last_updated: "2016-10-13"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0038097"
 soort: "ministeriele-regeling"
@@ -44,7 +44,7 @@ Besluit:
 
 In dit besluit wordt verstaan onder:
 
-- a. **BBRA 1984:** [Bezoldigingsbesluit Burgerlijke Rijksambtenaren 1984](https://wetten.overheid.nl/jci1.3:c:BWBR0003630&wetgeving);
+- a. **BBRA 1984:** [Bezoldigingsbesluit Burgerlijke Rijksambtenaren 1984](https://wetten.overheid.nl/jci1.3:c:BWBR0003630);
 
 - b. **Avt:** Adviescollege Verloftoetsing tbs.
 
@@ -58,9 +58,13 @@ In dit besluit wordt verstaan onder:
 
 4. Plaatsvervangende leden van het Avt ontvangen een vergoeding per vergadering van 3% van het maximum van salarisschaal 17 van [bijlage B van het BBRA 1984](https://wetten.overheid.nl/jci1.3:c:BWBR0003630&bijlage=B).
 
+5. Plaatsvervangende leden van het Avt die optreden als voorzitter van het Avt ontvangen een vergoeding per vergadering van 130% van de vergoeding bedoeld in het vierde lid.
+
+6. In afwijking van het tweede lid ontvangt de wetenschappelijk adviseur een vergoeding per maand op basis van een arbeidsduurfactor van 0,1 en het maximum van salarisschaal 17 van [Bijlage B van het BBRA 1984](https://wetten.overheid.nl/jci1.3:c:BWBR0003630&bijlage=B).
+
 ##### Artikel 3
 
-Het [vergoedingsbesluit voorzitter Adviescollege Verloftoetsing tbs](https://wetten.overheid.nl/jci1.3:c:BWBR0035830&wetgeving) (Stcrt. 2014, 33969) wordt ingetrokken.
+Het [vergoedingsbesluit voorzitter Adviescollege Verloftoetsing tbs](https://wetten.overheid.nl/jci1.3:c:BWBR0035830) (Stcrt. 2014, 33969) wordt ingetrokken.
 
 ##### Artikel 4
 
