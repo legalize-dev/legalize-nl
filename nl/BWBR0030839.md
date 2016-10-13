@@ -4,7 +4,7 @@ identifier: "BWBR0030839"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2022-08-01"
-last_updated: "2015-10-29"
+last_updated: "2016-10-13"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0030839"
 soort: "ministeriele-regeling"
@@ -44,9 +44,9 @@ Besluit:
 
 De in [artikel 7, eerste lid, onderdeel b, van het Bekostigingsbesluit WVO](https://wetten.overheid.nl/jci1.3:c:BWBR0005672&artikel=7) bedoelde gevallen betreffen leerlingen die tijdelijk verblijven in voorzieningen als bedoeld in:
 
-- a. de [Regeling regionaal zorgbudget en regionale verwijzingscommissie voortgezet onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0035215&wetgeving);
+- a. de [Regeling regionaal zorgbudget en regionale verwijzingscommissie voortgezet onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0035215);
 
-- b. de [Tijdelijke subsidieregeling plusvoorzieningen overbelaste jongeren](https://wetten.overheid.nl/jci1.3:c:BWBR0026422); en
+- b. [artikel 19, onder a, van de Regeling regionale aanpak voortijdig schoolverlaters en prestatiesubsidie vo](https://wetten.overheid.nl/jci1.3:c:BWBR0031387&artikel=19); en
 
 - c. [artikel 17a, tweede lid en lid 10a, van de WVO](https://wetten.overheid.nl/jci1.3:c:BWBR0002399&artikel=17a).
 
