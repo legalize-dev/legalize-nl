@@ -4,7 +4,7 @@ identifier: "BWBR0031498"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-04-01"
-last_updated: "2012-05-01"
+last_updated: "2016-10-20"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0031498"
 soort: "ministeriele-regeling"
@@ -46,21 +46,23 @@ In deze regeling wordt verstaan onder:
 
 - a. **wet:** [Wet arbeid vreemdelingen](https://wetten.overheid.nl/jci1.3:c:BWBR0007149);
 
-- b. **melding:** de verplichting voor een werkgever om vooraf schriftelijk te melden dat hij een vreemdeling in Nederland arbeid laat verrichten als bedoel in [artikel 2a, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007149&artikel=2a).
+- b. **melding:** de verplichting voor een werkgever om vooraf schriftelijk te melden dat hij een vreemdeling in Nederland arbeid laat verrichten als bedoeld in [artikel 2a, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007149&artikel=2a).
 
 ##### Artikel 2. Bevoegde instantie
 
 Het Uitvoeringsinstituut Werknemersverzekeringen is de instantie waaraan een werkgever de melding doet.
 
-##### Artikel 3. Bewijsstukken
+##### Artikel 3. Inhoud melding en bewijsstukken
 
-De werkgever doet de melding onder overlegging van de volgende documenten:
+1. Een melding wordt, onder overlegging van een schriftelijk en naar waarheid afgelegde verklaring, opgesteld op een daartoe door het Uitvoeringsinstituut werknemersverzekeringen verstrekt formulier, gedaan door:
 
-- a. een door de werkgever schriftelijk en naar waarheid afgelegde verklaring, opgesteld op een daartoe door het Uitvoeringsinstituut werknemersverzekeringen verstrekt formulier, waarin worden vermeld de naam en het adres van de werkgever, een aanduiding van de aard van zijn onderneming en de registratiegegevens in het land van vestiging, de naam en het adres van degene ten behoeve van wie de dienst wordt verleend, de aard van de te verlenen dienst, waar en wanneer de vreemdeling de arbeid zal verrichten, alsmede de identiteitsgegevens van de vreemdeling;
+- a. Dit onderdeel is nog niet in werking getreden;
 
-- b. een kopie van het geldige identiteitsbewijs van de vreemdeling, en
+- b. de werkgever van de vreemdeling, bedoeld in [artikel 1m van het Besluit uitvoering Wet arbeid vreemdelingen](https://wetten.overheid.nl/jci1.3:c:BWBR0007523&artikel=1m), die meldt: de naam en het adres van de werkgever en van de onderwijsinstelling, de identiteit van de student aan een Academie van Bouwkunst, de duur van het contract en de aard van de werkzaamheden;
 
-- c. bewijsstukken waaruit blijkt dat de vreemdeling rechtmatig in Nederland verblijft en arbeid mag verrichten.
+- c. Dit onderdeel is nog niet in werking getreden.
+
+2. In dit artikel wordt verstaan onder het KvK-nummer: het door de Kamer van Koophandel toegekende unieke nummer over een onderneming in het handelsregister.
 
 ##### Artikel 4. Inwerkingtreding
 
