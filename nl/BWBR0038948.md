@@ -4,7 +4,7 @@ identifier: "BWBR0038948"
 country: "nl"
 rank: "wet"
 publication_date: "2018-01-01"
-last_updated: "2016-09-20"
+last_updated: "2016-10-25"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0038948"
 soort: "wet"
@@ -111,8 +111,6 @@ Wijzigt de Wet belastingen op milieugrondslag.
 ##### Artikel XIa
 
 Wijzigt de Invorderingswet 1990.
-
-Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel XII
 
