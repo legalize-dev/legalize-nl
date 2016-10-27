@@ -4,7 +4,7 @@ identifier: "BWBR0038636"
 country: "nl"
 rank: "zbo"
 publication_date: "2016-10-27"
-last_updated: "2016-05-17"
+last_updated: "2016-10-27"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0038636"
 soort: "zbo"
@@ -80,7 +80,7 @@ In dit bestuursreglement wordt verstaan onder:
 
 - 2. Indien de Raad van bestuur uit meer dan twee leden bestaat, wijst hij bij gebreke van een in het eerste lid bedoelde aanwijzing uit zijn midden een plaatsvervangend voorzitter aan.
 
-- 3. Tijdens de duur van de vervanging heeft het vervangende lid dezelfde bevoegdheden als de voorzitter met in achtneming van het bepaalde in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0038636&artikel=6&z=2016-10-27&g=2016-05-17).
+- 3. Tijdens de duur van de vervanging heeft het vervangende lid dezelfde bevoegdheden als de voorzitter met in achtneming van het bepaalde in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0038636&artikel=6&z=2016-10-27&g=2016-10-27).
 
 ##### Artikel 5
 
@@ -96,7 +96,7 @@ In dit bestuursreglement wordt verstaan onder:
 
 - 2. De voorzitter is onbeperkt bevoegd tot het aangaan van financiële verplichtingen of het procureren dan wel fiatteren van de betalingen ten laste van het budget van de SVB. Behoudens het bepaalde in het derde lid is deze bevoegdheid voor een lid van de Raad van bestuur beperkt tot € 1 miljoen per financiële transactie.
 
-- 3. Kan tijdens een periode van vervanging als bedoeld in [artikel 4, lid 2](https://wetten.overheid.nl/jci1.3:c:BWBR0038636&artikel=4&z=2016-10-27&g=2016-05-17), een financiële transactie met een waarde van meer dan € 1 miljoen geen uitstel lijden, dan wordt voor de financiële verplichting getekend:
+- 3. Kan tijdens een periode van vervanging als bedoeld in [artikel 4, lid 2](https://wetten.overheid.nl/jci1.3:c:BWBR0038636&artikel=4&z=2016-10-27&g=2016-10-27), een financiële transactie met een waarde van meer dan € 1 miljoen geen uitstel lijden, dan wordt voor de financiële verplichting getekend:
 
 - a. bij een drie- of meerhoofdige Raad van bestuur door twee leden; en
 
