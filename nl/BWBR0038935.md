@@ -4,7 +4,7 @@ identifier: "BWBR0038935"
 country: "nl"
 rank: "amvb"
 publication_date: "2017-01-01"
-last_updated: "2016-07-01"
+last_updated: "2016-10-28"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0038935"
 soort: "AMvB"
@@ -60,8 +60,6 @@ Wijzigt het Besluit gelijkstelling loondervingsuitkering Toeslagenwet.
 
 Wijzigt het Besluit SUWI.
 
-Dit onderdeel is nog niet inwerking getreden
-
 ##### Artikel VI. [Besluit uitbreiding en beperking kring verzekerden volksverzekeringen 1999](https://wetten.overheid.nl/jci1.3:c:BWBR0010182)
 
 Wijzigt het Besluit uitbreiding en beperking kring verzekerden volksverzekeringen 1999.
@@ -71,8 +69,6 @@ Dit onderdeel is nog niet inwerking getreden
 ##### Artikel VII. [Besluit Wfsv](https://wetten.overheid.nl/jci1.3:c:BWBR0019070)
 
 Wijzigt het Besluit Wfsv.
-
-Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel VIII. Inwerkingtreding
 
