@@ -4,7 +4,7 @@ identifier: "BWBR0035571"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-11-20"
-last_updated: "2016-02-26"
+last_updated: "2016-11-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0035571"
 soort: "ministeriele-regeling"
@@ -42,39 +42,39 @@ Besluit:
 
 ##### Artikel 1
 
-Aan de directeur-generaal Rijksdienst voor Ondernemend Nederland wordt mandaat verleend tot:
+Aan de algemeen directeur Rijksdienst voor Ondernemend Nederland wordt mandaat verleend tot:
 
-- a. het nemen van besluiten met betrekking tot de uitvoering van de in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0035571&bijlage=1&z=2016-02-26&g=2016-02-26) genoemde wetten, besluiten, regelingen en beschikkingen;
+- a. het nemen van besluiten met betrekking tot de uitvoering van de in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0035571&bijlage=1&z=2016-11-01&g=2016-11-01) genoemde wetten, besluiten, regelingen en beschikkingen;
 
 - b. het beslissen op bezwaarschriften tegen besluiten als bedoeld in onderdeel a, voor zover het besluit waartegen het bezwaar zich richt, niet door hem in mandaat is genomen.
 
 ##### Artikel 2
 
-Aan de directeur-generaal Rijksdienst voor Ondernemend Nederland wordt:
+Aan de algemeen directeur Rijksdienst voor Ondernemend Nederland wordt:
 
-- a. volmacht en machtiging verleend tot het verrichten van alle benodigde werkzaamheden ter voorbereiding en ter uitvoering van de besluiten als bedoeld in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0035571&artikel=1&z=2016-02-26&g=2016-02-26);
+- a. volmacht en machtiging verleend tot het verrichten van alle benodigde werkzaamheden ter voorbereiding en ter uitvoering van de besluiten als bedoeld in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0035571&artikel=1&z=2016-11-01&g=2016-11-01);
 
-- b. machtiging verleend tot het voeren van beroepsprocedures over besluiten als bedoeld in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0035571&artikel=1&z=2016-02-26&g=2016-02-26).
+- b. machtiging verleend tot het voeren van beroepsprocedures over besluiten als bedoeld in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0035571&artikel=1&z=2016-11-01&g=2016-11-01).
 
 ##### Artikel 3
 
-Aan de directeur-generaal Rijksdienst voor Ondernemend Nederland wordt mandaat verleend tot:
+Aan de algemeen directeur Rijksdienst voor Ondernemend Nederland wordt mandaat verleend tot:
 
-- a. het nemen van besluiten met betrekking tot de uitvoering van de in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0035571&bijlage=2&z=2016-02-26&g=2016-02-26) genoemde wetten, besluiten en regelingen met dien verstande dat besluiten tot intrekking, wijziging en terugvordering van subsidies en budgetten slechts na voorafgaande toestemming van de Minister voor Wonen en Rijksdienst worden genomen;
+- a. het nemen van besluiten met betrekking tot de uitvoering van de in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0035571&bijlage=2&z=2016-11-01&g=2016-11-01) genoemde wetten, besluiten en regelingen met dien verstande dat besluiten tot intrekking, wijziging en terugvordering van subsidies en budgetten slechts na voorafgaande toestemming van de Minister voor Wonen en Rijksdienst worden genomen;
 
 - b. het beslissen op bezwaarschriften tegen besluiten als bedoeld in onderdeel a, voor zover het besluit waartegen het bezwaar zich richt, niet door hem in mandaat is genomen en met dien verstande dat besluiten op bezwaar met betrekking tot intrekking, wijziging en terugvordering van subsidies en budgetten slechts na voorafgaande toestemming van de Minister voor Wonen en Rijksdienst worden genomen.
 
 ##### Artikel 4
 
-Aan de directeur-generaal Rijksdienst voor Ondernemend Nederland wordt:
+Aan de algemeen directeur Rijksdienst voor Ondernemend Nederland wordt:
 
-- a. volmacht en machtiging verleend tot het verrichten van alle benodigde werkzaamheden ter voorbereiding en ter uitvoering van de in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0035571&artikel=3&z=2016-02-26&g=2016-02-26) bedoelde besluiten;
+- a. volmacht en machtiging verleend tot het verrichten van alle benodigde werkzaamheden ter voorbereiding en ter uitvoering van de in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0035571&artikel=3&z=2016-11-01&g=2016-11-01) bedoelde besluiten;
 
-- b. machtiging verleend tot het voeren van beroepsprocedures over besluiten genomen ter uitvoering van de in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0035571&artikel=3&z=2016-02-26&g=2016-02-26) genoemde besluiten en regelingen, alsmede over de in dat kader genomen beslissingen op bezwaar; in beide gevallen slechts nadat voorafgaande toestemming van de Minister voor Wonen en Rijksdienst is verkregen.
+- b. machtiging verleend tot het voeren van beroepsprocedures over besluiten genomen ter uitvoering van de in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0035571&artikel=3&z=2016-11-01&g=2016-11-01) genoemde besluiten en regelingen, alsmede over de in dat kader genomen beslissingen op bezwaar; in beide gevallen slechts nadat voorafgaande toestemming van de Minister voor Wonen en Rijksdienst is verkregen.
 
 ##### Artikel 5
 
-De directeur-generaal Rijksdienst voor Ondernemend Nederland kan met betrekking tot zijn bevoegdheden, bedoeld in de [artikelen 1 tot en met 4](https://wetten.overheid.nl/jci1.3:c:BWBR0035571&artikel=1&z=2016-02-26&g=2016-02-26) ondermandaat, volmacht en machtiging verlenen aan één of meer onder hem ressorterende functionarissen.
+De algemeen directeur Rijksdienst voor Ondernemend Nederland kan met betrekking tot zijn bevoegdheden, bedoeld in de [artikelen 1 tot en met 4](https://wetten.overheid.nl/jci1.3:c:BWBR0035571&artikel=1&z=2016-11-01&g=2016-11-01) ondermandaat, volmacht en machtiging verlenen aan één of meer onder hem ressorterende functionarissen.
 
 ##### Artikel 6
 
@@ -102,7 +102,7 @@ Het [Mandaatbesluit Agentschap NL Regelingen Wonen, Wijken en Integratie](https:
 
 1. Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin het wordt geplaatst, en werkt terug tot en met 1 januari 2014.
 
-2. De [artikelen 1 tot en met 7](https://wetten.overheid.nl/jci1.3:c:BWBR0035571&artikel=1&z=2016-02-26&g=2016-02-26) van dit besluit zijn van overeenkomstige toepassing op werkzaamheden aangaande regelingen opgenomen in [bijlagen 1 (volledig mandaat)](https://wetten.overheid.nl/jci1.3:c:BWBR0022534&bijlage=1) en [2 (beperkt mandaat) van het Mandaatbesluit Agentschap NL Regelingen Wonen, Wijken en Integratie](https://wetten.overheid.nl/jci1.3:c:BWBR0022534&bijlage=2) die op het moment van inwerkingtreding van dit besluit daarin waren opgenomen. Deze bijlagen zijn opgenomen als [bijlagen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0035571&bijlage=3&z=2016-02-26&g=2016-02-26) en [4](https://wetten.overheid.nl/jci1.3:c:BWBR0035571&bijlage=4&z=2016-02-26&g=2016-02-26) van dit besluit.
+2. De [artikelen 1 tot en met 7](https://wetten.overheid.nl/jci1.3:c:BWBR0035571&artikel=1&z=2016-11-01&g=2016-11-01) van dit besluit zijn van overeenkomstige toepassing op werkzaamheden aangaande regelingen opgenomen in [bijlagen 1 (volledig mandaat)](https://wetten.overheid.nl/jci1.3:c:BWBR0022534&bijlage=1) en [2 (beperkt mandaat) van het Mandaatbesluit Agentschap NL Regelingen Wonen, Wijken en Integratie](https://wetten.overheid.nl/jci1.3:c:BWBR0022534&bijlage=2) die op het moment van inwerkingtreding van dit besluit daarin waren opgenomen. Deze bijlagen zijn opgenomen als [bijlagen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0035571&bijlage=3&z=2016-11-01&g=2016-11-01) en [4](https://wetten.overheid.nl/jci1.3:c:BWBR0035571&bijlage=4&z=2016-11-01&g=2016-11-01) van dit besluit.
 
 ##### Artikel 9
 
@@ -132,13 +132,15 @@ Dit besluit wordt aangehaald als: Mandaatbesluit RVO Regelingen Wonen en Bouwen.
 
 - •. [Regeling vermindering verhuurderheffing 2014](https://wetten.overheid.nl/jci1.3:c:BWBR0034548);
 
-- •. [Stimuleringsregeling energieprestatie huursector](https://wetten.overheid.nl/jci1.3:c:BWBR0035224&wetgeving);
+- •. [Stimuleringsregeling energieprestatie huursector](https://wetten.overheid.nl/jci1.3:c:BWBR0035224);
 
-- •. [Regeling fonds energiebesparing huursector](https://wetten.overheid.nl/jci1.3:c:BWBR0035608&wetgeving);
+- •. [Regeling fonds energiebesparing huursector](https://wetten.overheid.nl/jci1.3:c:BWBR0035608);
 
 - •. [Regeling energieprestatie gebouwen, paragraaf 2 energielabel](https://wetten.overheid.nl/jci1.3:c:BWBR0020921&paragraaf=2) en [paragraaf 2a bewijs van vakbekwaamheid erkende energielabeldeskundige woningbouw](https://wetten.overheid.nl/jci1.3:c:BWBR0020921&paragraaf=2);
 
-- •. [Tijdelijke regeling stimulering huisvesting vergunninghouders](https://wetten.overheid.nl/jci1.3:c:BWBR0037376&wetgeving).
+- •. [Tijdelijke regeling stimulering huisvesting vergunninghouders](https://wetten.overheid.nl/jci1.3:c:BWBR0037376);
+
+- •. [Regeling Subsidie energiebesparing eigen huis](https://wetten.overheid.nl/jci1.3:c:BWBR0038472).
 
 ## Bijlage 2. Mandaatbesluit RVO (gedeeltelijk mandaat, volmacht en machtiging)
 
@@ -152,4 +154,4 @@ Dit besluit wordt aangehaald als: Mandaatbesluit RVO Regelingen Wonen en Bouwen.
 
 ## Bijlage 4. [Bijlage 2. Mandaatbesluit Agentschap NL](https://wetten.overheid.nl/jci1.3:c:BWBR0022534&bijlage=2) (gedeeltelijk mandaat, volmacht en machtiging) (tot 1 januari 2014)
 
-Dit besluit zal met de [bijlagen](https://wetten.overheid.nl/jci1.3:c:BWBR0035571&bijlage=1&z=2016-02-26&g=2016-02-26) en de toelichting in de Staatscourant worden geplaatst.
+Dit besluit zal met de [bijlagen](https://wetten.overheid.nl/jci1.3:c:BWBR0035571&bijlage=1&z=2016-11-01&g=2016-11-01) en de toelichting in de Staatscourant worden geplaatst.
