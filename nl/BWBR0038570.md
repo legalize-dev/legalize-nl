@@ -4,7 +4,7 @@ identifier: "BWBR0038570"
 country: "nl"
 rank: "beleidsregel"
 publication_date: "2022-08-01"
-last_updated: "2016-10-01"
+last_updated: "2016-11-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0038570"
 soort: "beleidsregel"
@@ -52,7 +52,7 @@ De beleidsregel heeft geen betrekking op door het bevoegd gezag vastgestelde vak
 
 Om in aanmerking te komen voor een ontheffing of bekwaamheidserkenning wordt het vak, waarvoor de aanvraag wordt ingediend, op jaarbasis ten minste gemiddeld vier uur per week gegeven door betrokkene.
 
-In [bijlage III](https://wetten.overheid.nl/jci1.3:c:BWBR0038570&bijlage=III&z=2016-10-01&g=2016-10-01) is schematisch weergegeven uit welke stappen het proces voor de aanvraag van de ontheffing of bekwaamheidserkenning bestaat.
+In [bijlage III](https://wetten.overheid.nl/jci1.3:c:BWBR0038570&bijlage=III&z=2016-11-23&g=2016-11-01) is schematisch weergegeven uit welke stappen het proces voor de aanvraag van de ontheffing of bekwaamheidserkenning bestaat.
 
 Er zijn twee soorten aanvragen mogelijk:
 
