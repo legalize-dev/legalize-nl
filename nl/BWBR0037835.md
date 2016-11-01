@@ -4,7 +4,7 @@ identifier: "BWBR0037835"
 country: "nl"
 rank: "amvb"
 publication_date: "2017-05-18"
-last_updated: "2016-04-20"
+last_updated: "2016-11-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0037835"
 soort: "AMvB"
@@ -38,7 +38,7 @@ entry_into_force: "2016-04-20"
 
 Op de voordracht van Onze Minister van Economische Zaken van 29 januari 2016, nr. WJZ / 16006109;
 
-Gelet op [richtlijn 2014/31](32014L0031)/EU van het Europees Parlement en de Raad van 26 februari 2014 betreffende de harmonisatie van de wetgevingen van de lidstaten inzake het op de markt aanbieden van niet-automatische weegwerktuigen (PbEU L 96), [richtlijn 2014/32](32014L0032)/EU van het Europees Parlement en de Raad van 26 februari 2014 betreffende de harmonisatie van de wetgevingen van de lidstaten inzake het op de markt aanbieden van meetinstrumenten (PbEU L 96), [richtlijn 2009/34/EG](32009L0034) van het Europees Parlement en de Europese Unie van 23 april 2009 betreffende voor meetmiddelen en metrologische controlemethoden geldende algemene bepalingen, [richtlijn 75/107/EEG](31975L0107) van de Raad van de Europese Gemeenschappen van 19 december 1974 betreffende de onderlinge aanpassing van de wetgeving der Lid-Staten inzake flessen gebruikt als tapmaat (PbEG L 96) en de [artikelen 5](https://wetten.overheid.nl/jci1.3:c:BWBR0019517&artikel=5), [9](https://wetten.overheid.nl/jci1.3:c:BWBR0019517&artikel=9), [26](https://wetten.overheid.nl/jci1.3:c:BWBR0019517&artikel=26) en [36 van de Metrologiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0019517&artikel=36), [artikel 3, eerste lid, van de Wet op de medische hulpmiddelen](https://wetten.overheid.nl/jci1.3:c:BWBR0002697&artikel=3), en [artikel 66, eerste lid, van de Geneesmiddelenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0021505&artikel=66);
+Gelet op [richtlijn 2014/31](onbekend)/EU van het Europees Parlement en de Raad van 26 februari 2014 betreffende de harmonisatie van de wetgevingen van de lidstaten inzake het op de markt aanbieden van niet-automatische weegwerktuigen (PbEU L 96), [richtlijn 2014/32](onbekend)/EU van het Europees Parlement en de Raad van 26 februari 2014 betreffende de harmonisatie van de wetgevingen van de lidstaten inzake het op de markt aanbieden van meetinstrumenten (PbEU L 96), [richtlijn 2009/34/EG](onbekend) van het Europees Parlement en de Europese Unie van 23 april 2009 betreffende voor meetmiddelen en metrologische controlemethoden geldende algemene bepalingen, [richtlijn 75/107/EEG](onbekend) van de Raad van de Europese Gemeenschappen van 19 december 1974 betreffende de onderlinge aanpassing van de wetgeving der Lid-Staten inzake flessen gebruikt als tapmaat (PbEG L 96) en de [artikelen 5](https://wetten.overheid.nl/jci1.3:c:BWBR0019517&artikel=5), [9](https://wetten.overheid.nl/jci1.3:c:BWBR0019517&artikel=9), [26](https://wetten.overheid.nl/jci1.3:c:BWBR0019517&artikel=26) en [36 van de Metrologiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0019517&artikel=36), [artikel 3, eerste lid, van de Wet op de medische hulpmiddelen](https://wetten.overheid.nl/jci1.3:c:BWBR0002697&artikel=3), en [artikel 66, eerste lid, van de Geneesmiddelenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0021505&artikel=66);
 
 De Afdeling advisering van de Raad van State gehoord (advies van 9 maart 2016, nr. W15.16.0021/IV);
 
@@ -60,13 +60,13 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
 - **niet-automatisch weegwerktuig:** werktuig voor het bepalen van de massa van een lichaam met gebruikmaking van de werking van de zwaartekracht op dat lichaam, waarbij voor het wegen tussenkomst van een bedienaar noodzakelijk is, alsmede zodanige werktuigen die bovendien worden gebruikt voor het bepalen van met de massa verband houdende grootheden, hoeveelheden, parameters of kenmerken;
 
-- **richtlijn inzake tapmaatflessen:** [richtlijn 75/107/EEG](31975L0107) van de Raad van de Europese Gemeenschappen van 19 december 1974 betreffende de onderlinge aanpassing van de wetgeving der Lid-Staten inzake flessen, gebruikt als tapmaten (PbEG L 42);
+- **richtlijn inzake tapmaatflessen:** [richtlijn 75/107/EEG](onbekend) van de Raad van de Europese Gemeenschappen van 19 december 1974 betreffende de onderlinge aanpassing van de wetgeving der Lid-Staten inzake flessen, gebruikt als tapmaten (PbEG L 42);
 
-- **richtlijn meetinstrumenten:** [richtlijn 2014/32](32014L0032)/EU van het Europees Parlement en de Raad van 26 februari 2014 betreffende de harmonisatie van de wetgevingen van de lidstaten inzake het op de markt aanbieden van meetinstrumenten (PbEU L 96);
+- **richtlijn meetinstrumenten:** [richtlijn 2014/32](onbekend)/EU van het Europees Parlement en de Raad van 26 februari 2014 betreffende de harmonisatie van de wetgevingen van de lidstaten inzake het op de markt aanbieden van meetinstrumenten (PbEU L 96);
 
-- **richtlijn meetmiddelen en metrologische controlemethoden:** [richtlijn 2009/34/EG](32009L0034) van het Europees Parlement en de Raad van 23 april 2009 betreffende voor meetmiddelen en metrologische controlemethoden geldende algemene bepalingen (PbEU L 106);
+- **richtlijn meetmiddelen en metrologische controlemethoden:** [richtlijn 2009/34/EG](onbekend) van het Europees Parlement en de Raad van 23 april 2009 betreffende voor meetmiddelen en metrologische controlemethoden geldende algemene bepalingen (PbEU L 106);
 
-- **richtlijn niet-automatische weegwerktuigen:** [richtlijn 2014/31](32014L0031)/EU van het Europees Parlement en de Raad van 26 februari 2014 betreffende de harmonisatie van de wetgevingen van de lidstaten inzake het op de markt aanbieden van niet-automatische weegwerktuigen (PbEU L 96);
+- **richtlijn niet-automatische weegwerktuigen:** [richtlijn 2014/31](onbekend)/EU van het Europees Parlement en de Raad van 26 februari 2014 betreffende de harmonisatie van de wetgevingen van de lidstaten inzake het op de markt aanbieden van niet-automatische weegwerktuigen (PbEU L 96);
 
 - **tapmaatfles:** een tapmaatfles als bedoeld in artikel 1 van de richtlijn inzake tapmaatflessen;
 
@@ -130,7 +130,15 @@ bepalen van de massa van een lichaam met gebruikmaking van de werking van de zwa
 
 ##### Artikel 4
 
-Dit onderdeel is nog niet inwerking getreden
+Een meettaak ten behoeve van een specifieke toepassing als bedoeld in [artikel 5, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0019517&artikel=5) is het bij het drijven van handel, bij levering uit hoofde van beroep of bedrijf en bij het vaststellen van belastingen of van andere heffingen:
+
+- a. meten van een hoeveelheid vloeistof in een meetreservoir, anders dan een scheepstank;
+
+- b. meten van een hoeveelheid gecomprimeerd gas bij het tanken van motorvoertuigen en kleine vaartuigen;
+
+- c. bepalen van de massa van een bewegend motorvoertuig op grond van de werking van de zwaartekracht op dat motorvoertuig, zonder tussenkomst van een bedienaar en volgens een vooraf bepaald programma van automatische processen;
+
+- d. discontinu meten van een hoeveelheid uit een mengsel van benzine en olie bestaande brandstof, ten behoeve van het tanken van voertuigen met een tweetaktmotor.
 
 ### Hoofdstuk 3. Meetinstrumenten
 
@@ -140,25 +148,25 @@ Dit onderdeel is nog niet inwerking getreden
 
 Meetinstrumenten en onderdelen als bedoeld in de onderdelen a tot en met g voldoen voordat zij in de handel worden gebracht, in gebruik worden genomen of voor ingebruikneming op de markt worden aangeboden, aan de in bijlage I van de richtlijn meetinstrumenten opgenomen essentiële eisen en aan de toepasselijke essentiële eisen in de hierna bij het meetinstrument vermelde instrumentspecifieke bijlage:
 
-- a. gasmeters en volumeherleidingsinstrumenten met een in [artikel 2, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0037835&hoofdstuk=2&artikel=2&z=2016-04-20&g=2016-04-20), bedoelde taak: bijlage IV;
+- a. gasmeters en volumeherleidingsinstrumenten met een in [artikel 2, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0037835&hoofdstuk=2&artikel=2&z=2016-11-01&g=2016-11-01), bedoelde taak: bijlage IV;
 
-- b. kilowattuurmeters met een in [artikel 2, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0037835&hoofdstuk=2&artikel=2&z=2016-04-20&g=2016-04-20), bedoelde taak: bijlage V;
+- b. kilowattuurmeters met een in [artikel 2, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0037835&hoofdstuk=2&artikel=2&z=2016-11-01&g=2016-11-01), bedoelde taak: bijlage V;
 
-- c. thermische-energiemeters met een in [artikel 2, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0037835&hoofdstuk=2&artikel=2&z=2016-04-20&g=2016-04-20), bedoelde taak: bijlage VI;
+- c. thermische-energiemeters met een in [artikel 2, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0037835&hoofdstuk=2&artikel=2&z=2016-11-01&g=2016-11-01), bedoelde taak: bijlage VI;
 
-- d. vloeistofmeetinstallaties met een in [artikel 2, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0037835&hoofdstuk=2&artikel=2&z=2016-04-20&g=2016-04-20), bedoelde taak: bijlage VII;
+- d. vloeistofmeetinstallaties met een in [artikel 2, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0037835&hoofdstuk=2&artikel=2&z=2016-11-01&g=2016-11-01), bedoelde taak: bijlage VII;
 
-- e. automatische weeginstrumenten met een in [artikel 2, onderdeel e](https://wetten.overheid.nl/jci1.3:c:BWBR0037835&hoofdstuk=2&artikel=2&z=2016-04-20&g=2016-04-20), bedoelde taak: bijlage VIII;
+- e. automatische weeginstrumenten met een in [artikel 2, onderdeel e](https://wetten.overheid.nl/jci1.3:c:BWBR0037835&hoofdstuk=2&artikel=2&z=2016-11-01&g=2016-11-01), bedoelde taak: bijlage VIII;
 
-- f. taxameters met een in [artikel 2, onderdeel f](https://wetten.overheid.nl/jci1.3:c:BWBR0037835&hoofdstuk=2&artikel=2&z=2016-04-20&g=2016-04-20), bedoelde taak: bijlage IX;
+- f. taxameters met een in [artikel 2, onderdeel f](https://wetten.overheid.nl/jci1.3:c:BWBR0037835&hoofdstuk=2&artikel=2&z=2016-11-01&g=2016-11-01), bedoelde taak: bijlage IX;
 
-- g. multidimensionale meetinstrumenten met een in [artikel 2, onderdeel g](https://wetten.overheid.nl/jci1.3:c:BWBR0037835&hoofdstuk=2&artikel=2&z=2016-04-20&g=2016-04-20), bedoelde taak: bijlage XI, hoofdstukken I en IV.
+- g. multidimensionale meetinstrumenten met een in [artikel 2, onderdeel g](https://wetten.overheid.nl/jci1.3:c:BWBR0037835&hoofdstuk=2&artikel=2&z=2016-11-01&g=2016-11-01), bedoelde taak: bijlage XI, hoofdstukken I en IV.
 
 ##### Artikel 6
 
-1. Een niet-automatisch weegwerktuig met een meettaak ten behoeve van een specifieke toepassing als bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0037835&hoofdstuk=2&artikel=3&z=2016-04-20&g=2016-04-20) voldoet voordat het in de handel wordt gebracht, in gebruik wordt genomen, voor ingebruikneming op de markt wordt aangeboden of wordt gebruikt aan de essentiële eisen van bijlage I van de richtlijn niet-automatische weegwerktuigen.
+1. Een niet-automatisch weegwerktuig met een meettaak ten behoeve van een specifieke toepassing als bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0037835&hoofdstuk=2&artikel=3&z=2016-11-01&g=2016-11-01) voldoet voordat het in de handel wordt gebracht, in gebruik wordt genomen, voor ingebruikneming op de markt wordt aangeboden of wordt gebruikt aan de essentiële eisen van bijlage I van de richtlijn niet-automatische weegwerktuigen.
 
-2. Indien het niet-automatische weegwerktuig inrichtingen bevat of is aangesloten op inrichtingen die niet voor de meettaak in een specifiek toepassingsgebied als bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0037835&hoofdstuk=2&artikel=3&z=2016-04-20&g=2016-04-20) bestemd zijn, gelden de in het eerste lid bedoelde eisen niet voor die inrichtingen.
+2. Indien het niet-automatische weegwerktuig inrichtingen bevat of is aangesloten op inrichtingen die niet voor de meettaak in een specifiek toepassingsgebied als bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0037835&hoofdstuk=2&artikel=3&z=2016-11-01&g=2016-11-01) bestemd zijn, gelden de in het eerste lid bedoelde eisen niet voor die inrichtingen.
 
 ##### Artikel 7
 
@@ -182,11 +190,23 @@ Meetinstrumenten en onderdelen als bedoeld in de onderdelen a tot en met g voldo
 
 ##### Artikel 8
 
-Dit onderdeel is nog niet inwerking getreden
+Meetinstrumenten als bedoeld in de onderdelen a tot en met f voldoen voordat zij in de handel worden gebracht, in gebruik worden genomen of voor ingebruikneming op de markt worden aangeboden, aan de bij ministeriële regeling voor het instrument gestelde eisen:
+
+- a. statische vloeistofhoeveelheidsmeters met een in [artikel 4, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0037835&hoofdstuk=2&artikel=4&z=2016-11-01&g=2016-11-01), bedoelde taak;
+
+- b. vloeistofhoogtemeters, bestaande uit een meetwaarde opnemer en ten minste één aanwijsinrichting, met een in [artikel 4, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0037835&hoofdstuk=2&artikel=4&z=2016-11-01&g=2016-11-01), bedoelde taak;
+
+- c. massameters met een in [artikel 4, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0037835&hoofdstuk=2&artikel=4&z=2016-11-01&g=2016-11-01), bedoelde taak;
+
+- d. CG-dispensers met een in [artikel 4, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0037835&hoofdstuk=2&artikel=4&z=2016-11-01&g=2016-11-01), bedoelde taak;
+
+- e. dynamische weegbruggen met een in [artikel 4, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0037835&hoofdstuk=2&artikel=4&z=2016-11-01&g=2016-11-01), bedoelde taak;
+
+- f. discontinue brandstofmeters met een in [artikel 4, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0037835&hoofdstuk=2&artikel=4&z=2016-11-01&g=2016-11-01), bedoelde taak.
 
 ##### Artikel 9
 
-1. Een meetinstrument als bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0037835&hoofdstuk=3&paragraaf=3.1&artikel=5&z=2016-04-20&g=2016-04-20) of [artikel 7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037835&hoofdstuk=3&paragraaf=3.1&artikel=7&z=2016-04-20&g=2016-04-20), dat voldoet aan:
+1. Een meetinstrument als bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0037835&hoofdstuk=3&paragraaf=3.1&artikel=5&z=2016-11-01&g=2016-11-01) of [artikel 7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037835&hoofdstuk=3&paragraaf=3.1&artikel=7&z=2016-11-01&g=2016-11-01), dat voldoet aan:
 
 - a. de geharmoniseerde normen of delen daarvan waarvan de referentienummers in het Publicatieblad van de Europese Unie zijn bekendgemaakt, of
 
@@ -194,39 +214,41 @@ Dit onderdeel is nog niet inwerking getreden
 
 wordt geacht overeen te stemmen met de in bijlage I van de richtlijn meetinstrumenten en in de toepasselijke instrumentspecifieke bijlage opgenomen essentiële eisen die door de onder a bedoelde normen of delen daarvan, onderscheidenlijk door de onder b bedoelde delen van normatieve documenten, worden bestreken.
 
-2. Een niet-automatisch weegwerktuig als bedoeld in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0037835&hoofdstuk=3&paragraaf=3.1&artikel=6&z=2016-04-20&g=2016-04-20) dat voldoet aan de geharmoniseerde normen of delen daarvan waarvan de referentienummers in het Publicatieblad van de Europese Unie zijn bekendgemaakt, wordt geacht overeen te stemmen met de in bijlage I van de richtlijn niet-automatische weegwerktuigen opgenomen essentiële eisen die door die normen of delen daarvan worden bestreken.
+2. Een niet-automatisch weegwerktuig als bedoeld in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0037835&hoofdstuk=3&paragraaf=3.1&artikel=6&z=2016-11-01&g=2016-11-01) dat voldoet aan de geharmoniseerde normen of delen daarvan waarvan de referentienummers in het Publicatieblad van de Europese Unie zijn bekendgemaakt, wordt geacht overeen te stemmen met de in bijlage I van de richtlijn niet-automatische weegwerktuigen opgenomen essentiële eisen die door die normen of delen daarvan worden bestreken.
 
 ##### Artikel 10
 
-1. De fabrikant van een meetinstrument als bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0037835&hoofdstuk=3&paragraaf=3.1&artikel=5&z=2016-04-20&g=2016-04-20) of [artikel 7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037835&hoofdstuk=3&paragraaf=3.1&artikel=7&z=2016-04-20&g=2016-04-20), mag elke technische oplossing kiezen die voldoet aan de in bijlage I van de richtlijn meetinstrumenten en in de instrumentspecifieke bijlage opgenomen essentiële eisen.
+1. De fabrikant van een meetinstrument als bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0037835&hoofdstuk=3&paragraaf=3.1&artikel=5&z=2016-11-01&g=2016-11-01) of [artikel 7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037835&hoofdstuk=3&paragraaf=3.1&artikel=7&z=2016-11-01&g=2016-11-01), mag elke technische oplossing kiezen die voldoet aan de in bijlage I van de richtlijn meetinstrumenten en in de instrumentspecifieke bijlage opgenomen essentiële eisen.
 
-2. De fabrikant hoeft de conformiteit van het instrument met de in het eerste lid bedoelde eisen niet aan te tonen wanneer hij op juiste wijze de oplossingen toepast die in de in [artikel 9, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037835&hoofdstuk=3&paragraaf=3.1&artikel=9&z=2016-04-20&g=2016-04-20), bedoelde geharmoniseerde normen of normatieve documenten zijn weergegeven.
+2. De fabrikant hoeft de conformiteit van het instrument met de in het eerste lid bedoelde eisen niet aan te tonen wanneer hij op juiste wijze de oplossingen toepast die in de in [artikel 9, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037835&hoofdstuk=3&paragraaf=3.1&artikel=9&z=2016-11-01&g=2016-11-01), bedoelde geharmoniseerde normen of normatieve documenten zijn weergegeven.
 
 ##### Artikel 11
 
-1. Bij ministeriële regeling worden regels gesteld met betrekking tot de eisen waar meetinstrumenten als bedoeld in de [artikelen 5](https://wetten.overheid.nl/jci1.3:c:BWBR0037835&hoofdstuk=3&paragraaf=3.1&artikel=5&z=2016-04-20&g=2016-04-20), [6](https://wetten.overheid.nl/jci1.3:c:BWBR0037835&hoofdstuk=3&paragraaf=3.1&artikel=6&z=2016-04-20&g=2016-04-20) en [8](https://wetten.overheid.nl/jci1.3:c:BWBR0037835&hoofdstuk=3&paragraaf=3.1&artikel=8&z=2016-04-20&g=2016-04-20) bij gebruik aan moeten voldoen.
+1. Bij ministeriële regeling worden regels gesteld met betrekking tot de eisen waar meetinstrumenten als bedoeld in de [artikelen 5](https://wetten.overheid.nl/jci1.3:c:BWBR0037835&hoofdstuk=3&paragraaf=3.1&artikel=5&z=2016-11-01&g=2016-11-01), [6](https://wetten.overheid.nl/jci1.3:c:BWBR0037835&hoofdstuk=3&paragraaf=3.1&artikel=6&z=2016-11-01&g=2016-11-01) en [8](https://wetten.overheid.nl/jci1.3:c:BWBR0037835&hoofdstuk=3&paragraaf=3.1&artikel=8&z=2016-11-01&g=2016-11-01) bij gebruik aan moeten voldoen.
 
-2. Bij ministeriële regeling kunnen regels worden gesteld met betrekking tot de wijze van installatie en anderszins omtrent de omstandigheden waaronder een meetinstrument als bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0037835&hoofdstuk=3&paragraaf=3.1&artikel=5&z=2016-04-20&g=2016-04-20), [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0037835&hoofdstuk=3&paragraaf=3.1&artikel=6&z=2016-04-20&g=2016-04-20) of [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0037835&hoofdstuk=3&paragraaf=3.1&artikel=8&z=2016-04-20&g=2016-04-20) wordt gebruikt.
+2. Bij ministeriële regeling kunnen regels worden gesteld met betrekking tot de wijze van installatie en anderszins omtrent de omstandigheden waaronder een meetinstrument als bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0037835&hoofdstuk=3&paragraaf=3.1&artikel=5&z=2016-11-01&g=2016-11-01), [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0037835&hoofdstuk=3&paragraaf=3.1&artikel=6&z=2016-11-01&g=2016-11-01) of [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0037835&hoofdstuk=3&paragraaf=3.1&artikel=8&z=2016-11-01&g=2016-11-01) wordt gebruikt.
 
 #### § 3.2. Conformiteitsbeoordeling
 
 ##### Artikel 12
 
-1. Een meetinstrument als bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0037835&hoofdstuk=3&paragraaf=3.1&artikel=5&z=2016-04-20&g=2016-04-20) of [artikel 7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037835&hoofdstuk=3&paragraaf=3.1&artikel=7&z=2016-04-20&g=2016-04-20), ondergaat, naar keuze van de fabrikant, één van de in de instrumentspecifieke bijlage voor dat instrument aangegeven conformiteitsbeoordelingsprocedures van de richtlijn meetinstrumenten.
+1. Een meetinstrument als bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0037835&hoofdstuk=3&paragraaf=3.1&artikel=5&z=2016-11-01&g=2016-11-01) of [artikel 7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037835&hoofdstuk=3&paragraaf=3.1&artikel=7&z=2016-11-01&g=2016-11-01), ondergaat, naar keuze van de fabrikant, één van de in de instrumentspecifieke bijlage voor dat instrument aangegeven conformiteitsbeoordelingsprocedures van de richtlijn meetinstrumenten.
 
-2. Indien de conformiteitsbeoordelingsprocedure van een meetinstrument als bedoeld in het eerste lid voorziet in een test, wordt vermoed dat voldaan is aan die test wanneer het met die test overeenkomende testprogramma is uitgevoerd overeenkomstig de in [artikel 9, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037835&hoofdstuk=3&paragraaf=3.1&artikel=9&z=2016-04-20&g=2016-04-20), bedoelde geharmoniseerde normen of normatieve documenten en de testresultaten garanderen dat aan de essentiële eisen die zijn opgenomen in bijlage I van de richtlijn meetinstrumenten en in de toepasselijke instrumentspecifieke bijlage, is voldaan.
+2. Indien de conformiteitsbeoordelingsprocedure van een meetinstrument als bedoeld in het eerste lid voorziet in een test, wordt vermoed dat voldaan is aan die test wanneer het met die test overeenkomende testprogramma is uitgevoerd overeenkomstig de in [artikel 9, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037835&hoofdstuk=3&paragraaf=3.1&artikel=9&z=2016-11-01&g=2016-11-01), bedoelde geharmoniseerde normen of normatieve documenten en de testresultaten garanderen dat aan de essentiële eisen die zijn opgenomen in bijlage I van de richtlijn meetinstrumenten en in de toepasselijke instrumentspecifieke bijlage, is voldaan.
 
-3. Een niet-automatisch weegwerktuig als bedoeld in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0037835&hoofdstuk=3&paragraaf=3.1&artikel=6&z=2016-04-20&g=2016-04-20) ondergaat naar keuze van de fabrikant een conformiteitsbeoordeling volgens één van de in artikel 13, eerste lid, onder a en b, van de richtlijn niet-automatische weegwerktuigen bedoelde procedures.
+3. Een niet-automatisch weegwerktuig als bedoeld in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0037835&hoofdstuk=3&paragraaf=3.1&artikel=6&z=2016-11-01&g=2016-11-01) ondergaat naar keuze van de fabrikant een conformiteitsbeoordeling volgens één van de in artikel 13, eerste lid, onder a en b, van de richtlijn niet-automatische weegwerktuigen bedoelde procedures.
 
 4. De bescheiden en briefwisseling met betrekking tot de in het eerste lid en derde lid bedoelde procedures zijn gesteld in één van de officiële talen van de lidstaat waarin de bij de procedure betrokken aangewezen instantie is gevestigd of in een andere taal die door die instantie is aanvaard.
 
 ##### Artikel 13
 
-Dit onderdeel is nog niet inwerking getreden
+1. Een meetinstrument als bedoeld in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0037835&hoofdstuk=3&paragraaf=3.1&artikel=8&z=2016-11-01&g=2016-11-01) ondergaat naar keuze van de fabrikant een conformiteitsbeoordeling overeenkomstig de conformiteitsbeoordelingsprocedure B+D, B+E, B+F of conformiteitsbeoordelingsprocedure G van de richtlijn meetinstrumenten en de voorschriften die voor de toepassing van die conformiteitsbeoordelingsprocedures in de bijlage bij dit besluit zijn opgenomen.
+
+2. De bescheiden en briefwisseling met betrekking tot de in het eerste lid bedoelde conformiteitsbeoordeling zijn gesteld in de Nederlandse taal of in een andere taal die door de bij de procedure betrokken aangewezen instantie is aanvaard.
 
 ##### Artikel 14
 
-1. Voor een geregeld meetinstrument als bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0037835&hoofdstuk=3&paragraaf=3.1&artikel=5&z=2016-04-20&g=2016-04-20), [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0037835&hoofdstuk=3&paragraaf=3.1&artikel=6&z=2016-04-20&g=2016-04-20) of [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0037835&hoofdstuk=3&paragraaf=3.1&artikel=8&z=2016-04-20&g=2016-04-20) dat in gebruik is genomen, bestaat de conformiteitsbeoordeling uit een keuring.
+1. Voor een geregeld meetinstrument als bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0037835&hoofdstuk=3&paragraaf=3.1&artikel=5&z=2016-11-01&g=2016-11-01), [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0037835&hoofdstuk=3&paragraaf=3.1&artikel=6&z=2016-11-01&g=2016-11-01) of [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0037835&hoofdstuk=3&paragraaf=3.1&artikel=8&z=2016-11-01&g=2016-11-01) dat in gebruik is genomen, bestaat de conformiteitsbeoordeling uit een keuring.
 
 2. De keuring wordt verricht door een voor het betrokken meetinstrument aangewezen instantie of door een persoon die beschikt over een voor het betrokken meetinstrument verleende erkenning als bedoeld in [artikel 11 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0019517&artikel=11).
 
@@ -238,9 +260,9 @@ Tapmaatflessen worden gecontroleerd op conformiteit met de eisen uit de richtlij
 
 ##### Artikel 16
 
-1. De aangewezen instantie die toetsende werkzaamheden verricht in het kader van een conformiteitsbeoordeling als bedoeld in [artikel 12, eerste of derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037835&hoofdstuk=3&paragraaf=3.2&artikel=12&z=2016-04-20&g=2016-04-20), draagt daarbij zorg voor de uitvoering van haar met die toetsende werkzaamheden samenhangende verplichtingen die in de conformiteitsbeoordelingsprocedure zijn voorzien.
+1. De aangewezen instantie die toetsende werkzaamheden verricht in het kader van een conformiteitsbeoordeling als bedoeld in [artikel 12, eerste of derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037835&hoofdstuk=3&paragraaf=3.2&artikel=12&z=2016-11-01&g=2016-11-01), draagt daarbij zorg voor de uitvoering van haar met die toetsende werkzaamheden samenhangende verplichtingen die in de conformiteitsbeoordelingsprocedure zijn voorzien.
 
-2. De aangewezen instantie die de toetsende werkzaamheden verricht in het kader van een conformiteitsbeoordeling als bedoeld in [artikel 13, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037835&hoofdstuk=3&paragraaf=3.2&artikel=13&z=2016-04-20&g=2016-04-20), draagt daarbij zorg voor de uitvoering van de verplichtingen die in een conformiteitsbeoordelingsprocedure als bedoeld in artikel 13, eerste lid, en in de bijlage bij dit besluit opgenomen voorschriften aan haar zijn opgedragen.
+2. De aangewezen instantie die de toetsende werkzaamheden verricht in het kader van een conformiteitsbeoordeling als bedoeld in [artikel 13, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037835&hoofdstuk=3&paragraaf=3.2&artikel=13&z=2016-11-01&g=2016-11-01), draagt daarbij zorg voor de uitvoering van de verplichtingen die in een conformiteitsbeoordelingsprocedure als bedoeld in artikel 13, eerste lid, en in de bijlage bij dit besluit opgenomen voorschriften aan haar zijn opgedragen.
 
 3. Voor zover een conformiteitsbeoordelingsprocedure voorziet in de verplichting tot het verstrekken van gegevens aan de lidstaat door wie de aangewezen instantie is aangewezen, dan wel aan andere lidstaten, geldt dat in Nederland de gegevens worden verstrekt aan Onze Minister.
 
@@ -248,7 +270,7 @@ Tapmaatflessen worden gecontroleerd op conformiteit met de eisen uit de richtlij
 
 ##### Artikel 17
 
-1. Voor het uitvoeren van een controle als bedoeld in [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBR0037835&hoofdstuk=3&paragraaf=3.2&artikel=15&z=2016-04-20&g=2016-04-20) wordt Onze Minister aangemerkt als bevoegde dienst.
+1. Voor het uitvoeren van een controle als bedoeld in [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBR0037835&hoofdstuk=3&paragraaf=3.2&artikel=15&z=2016-11-01&g=2016-11-01) wordt Onze Minister aangemerkt als bevoegde dienst.
 
 2. Onze Minister draagt met inachtneming van de toepasselijke bepalingen uit de richtlijn meetmiddelen en metrologische controlemiddelen en de richtlijn inzake tapmaatflessen zorg voor de werkzaamheden die voortvloeien uit zijn taak bij de controle.
 
@@ -256,15 +278,15 @@ Tapmaatflessen worden gecontroleerd op conformiteit met de eisen uit de richtlij
 
 ##### Artikel 18
 
-1. De conformiteit van een in de handel te brengen of in gebruik te nemen meetinstrument als bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0037835&hoofdstuk=3&paragraaf=3.1&artikel=5&z=2016-04-20&g=2016-04-20) of [artikel 7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037835&hoofdstuk=3&paragraaf=3.1&artikel=7&z=2016-04-20&g=2016-04-20), of van een niet-automatisch weegwerktuig als bedoeld in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0037835&hoofdstuk=3&paragraaf=3.1&artikel=6&z=2016-04-20&g=2016-04-20) met de bij of krachtens [de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0019517) gestelde eisen blijkt uit de CE-markering en de aanvullende metrologische markering, zoals beschreven in artikel 21, tweede lid, van de richtlijn meetinstrumenten onderscheidenlijk artikel 16, tweede lid, van de richtlijn niet-automatische weegwerktuigen.
+1. De conformiteit van een in de handel te brengen of in gebruik te nemen meetinstrument als bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0037835&hoofdstuk=3&paragraaf=3.1&artikel=5&z=2016-11-01&g=2016-11-01) of [artikel 7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037835&hoofdstuk=3&paragraaf=3.1&artikel=7&z=2016-11-01&g=2016-11-01), of van een niet-automatisch weegwerktuig als bedoeld in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0037835&hoofdstuk=3&paragraaf=3.1&artikel=6&z=2016-11-01&g=2016-11-01) met de bij of krachtens [de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0019517) gestelde eisen blijkt uit de CE-markering en de aanvullende metrologische markering, zoals beschreven in artikel 21, tweede lid, van de richtlijn meetinstrumenten onderscheidenlijk artikel 16, tweede lid, van de richtlijn niet-automatische weegwerktuigen.
 
 2. De in het eerste lid bedoelde markeringen alsmede andere opschriften worden aangebracht overeenkomstig de toepasselijke conformiteitsbeoordelingsprocedure en de artikelen 21 en 22 van de richtlijn meetinstrumenten, onderscheidenlijk de artikelen 16 en 17 van de richtlijn niet-automatische weegwerktuigen.
 
-3. Indien [artikel 6, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037835&hoofdstuk=3&paragraaf=3.1&artikel=6&z=2016-04-20&g=2016-04-20), van toepassing is, moet op elk van die inrichtingen die niet aan een conformiteitsbeoordeling als bedoeld in [artikel 12, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037835&hoofdstuk=3&paragraaf=3.2&artikel=12&z=2016-04-20&g=2016-04-20), is onderworpen het beperkend gebruikssymbool, als omschreven in bijlage III, punt 3, van de richtlijn niet-automatische weegwerktuigen, duidelijk zichtbaar en onuitwisbaar zijn aangebracht.
+3. Indien [artikel 6, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037835&hoofdstuk=3&paragraaf=3.1&artikel=6&z=2016-11-01&g=2016-11-01), van toepassing is, moet op elk van die inrichtingen die niet aan een conformiteitsbeoordeling als bedoeld in [artikel 12, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037835&hoofdstuk=3&paragraaf=3.2&artikel=12&z=2016-11-01&g=2016-11-01), is onderworpen het beperkend gebruikssymbool, als omschreven in bijlage III, punt 3, van de richtlijn niet-automatische weegwerktuigen, duidelijk zichtbaar en onuitwisbaar zijn aangebracht.
 
 ##### Artikel 19
 
-1. Een niet-automatisch weegwerktuig dat niet bestemd is voor een specifieke toepassing als bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0037835&hoofdstuk=2&artikel=3&z=2016-04-20&g=2016-04-20) wordt voorzien van de in bijlage III, punt 2, van de richtlijn niet-automatische weegwerktuigen bedoelde opschriften.
+1. Een niet-automatisch weegwerktuig dat niet bestemd is voor een specifieke toepassing als bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0037835&hoofdstuk=2&artikel=3&z=2016-11-01&g=2016-11-01) wordt voorzien van de in bijlage III, punt 2, van de richtlijn niet-automatische weegwerktuigen bedoelde opschriften.
 
 2. De in het eerste lid bedoelde opschriften worden duidelijk zichtbaar, gemakkelijk leesbaar en onuitwisbaar aangebracht.
 
@@ -272,11 +294,17 @@ Tapmaatflessen worden gecontroleerd op conformiteit met de eisen uit de richtlij
 
 ##### Artikel 20
 
-De conformiteit van een in de handel te brengen of in gebruik te nemen tapmaatfles met de bij of krachtens [de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0019517) gestelde eisen blijkt uit het in [artikel 7, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037835&hoofdstuk=3&paragraaf=3.1&artikel=7&z=2016-04-20&g=2016-04-20), bedoelde E.E.G-teken. Het teken wordt door de fabrikant aangebracht overeenkomstig de voorschriften van de richtlijn meetmiddelen en metrologische meetmethoden en de richtlijn inzake tapmaatflessen.
+De conformiteit van een in de handel te brengen of in gebruik te nemen tapmaatfles met de bij of krachtens [de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0019517) gestelde eisen blijkt uit het in [artikel 7, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037835&hoofdstuk=3&paragraaf=3.1&artikel=7&z=2016-11-01&g=2016-11-01), bedoelde E.E.G-teken. Het teken wordt door de fabrikant aangebracht overeenkomstig de voorschriften van de richtlijn meetmiddelen en metrologische meetmethoden en de richtlijn inzake tapmaatflessen.
 
 ##### Artikel 21
 
-Dit onderdeel is nog niet inwerking getreden
+1. De conformiteit van een in de handel te brengen of in gebruik te nemen meetinstrument als bedoeld in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0037835&hoofdstuk=3&paragraaf=3.1&artikel=8&z=2016-11-01&g=2016-11-01) met de bij of krachtens [de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0019517) gestelde eisen blijkt uit de bij ministeriële regeling vast te stellen Nederlandse metrologische markering.
+
+2. De in het eerste lid bedoelde markering wordt duidelijk zichtbaar, gemakkelijk leesbaar en onuitwisbaar op het meetinstrument aangebracht. Wanneer een meetinstrument te klein of te gevoelig is om de markering daar op aan te brengen, wordt de markering aangebracht op de eventuele verpakking en op de documenten die bij het meetinstrument worden gevoegd.
+
+3. Op de meetinstrumenten mogen andere markeringen worden aangebracht mits de zichtbaarheid en leesbaarheid van de Nederlandse metrologische markering, bedoeld in het eerste lid, niet wordt verminderd.
+
+4. De in het eerste lid bedoelde markering wordt aangebracht door de fabrikant of onder zijn verantwoordelijkheid.
 
 ##### Artikel 22
 
@@ -292,13 +320,13 @@ De bevoegde nationale autoriteit in de artikelen 8, achtste en negende lid, 9, t
 
 ##### Artikel 24
 
-1. De fabrikant van een meetinstrument als bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0037835&hoofdstuk=3&paragraaf=3.1&artikel=5&z=2016-04-20&g=2016-04-20) of [artikel 7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037835&hoofdstuk=3&paragraaf=3.1&artikel=7&z=2016-04-20&g=2016-04-20), voldoet aan de verplichtingen, bedoeld in de artikelen 8, 18 en 19 van de richtlijn meetinstrumenten.
+1. De fabrikant van een meetinstrument als bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0037835&hoofdstuk=3&paragraaf=3.1&artikel=5&z=2016-11-01&g=2016-11-01) of [artikel 7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037835&hoofdstuk=3&paragraaf=3.1&artikel=7&z=2016-11-01&g=2016-11-01), voldoet aan de verplichtingen, bedoeld in de artikelen 8, 18 en 19 van de richtlijn meetinstrumenten.
 
 2. De fabrikant van een niet-automatisch weegwerktuig voldoet aan de verplichtingen bedoeld in de artikelen 6 en 14 en bijlage II van de richtlijn niet-automatische weegwerktuigen.
 
 ##### Artikel 25
 
-Dit onderdeel is nog niet inwerking getreden
+De fabrikant van een meetinstrument als bedoeld in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0037835&hoofdstuk=3&paragraaf=3.1&artikel=8&z=2016-11-01&g=2016-11-01) verricht de werkzaamheden en voldoet aan de verplichtingen die in verband met de conformiteitsbeoordeling volgens de in [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0037835&hoofdstuk=3&paragraaf=3.2&artikel=13&z=2016-11-01&g=2016-11-01) bedoelde conformiteitsbeoordelingsprocedure en de in de bijlage bij dit besluit opgenomen voorschriften aan hem zijn opgedragen.
 
 ##### Artikel 26
 
@@ -306,7 +334,7 @@ De fabrikant van een tapmaatfles verricht de werkzaamheden en voldoet aan de ver
 
 ##### Artikel 27
 
-1. De fabrikant van een meetinstrument als bedoeld in de [artikelen 5](https://wetten.overheid.nl/jci1.3:c:BWBR0037835&hoofdstuk=3&paragraaf=3.1&artikel=5&z=2016-04-20&g=2016-04-20) of [7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037835&hoofdstuk=3&paragraaf=3.1&artikel=7&z=2016-04-20&g=2016-04-20), of van een niet-automatisch weegwerktuig kan schriftelijk een gemachtigde aanwijzen die namens hem optreedt ten aanzien van bepaalde verplichtingen en werkzaamheden. De aanwijzing omvat niet de verplichtingen op grond van artikel 8, eerste lid, van de richtlijn meetinstrumenten en artikel 6, eerste lid, van de richtlijn niet-automatische weegwerktuigen en evenmin de in artikel 8, tweede lid, van de richtlijn meetinstrumenten en artikel 6, tweede lid, van de richtlijn niet-automatische weegwerktuigen vervatte verplichting om technische documentatie op te stellen.
+1. De fabrikant van een meetinstrument als bedoeld in de [artikelen 5](https://wetten.overheid.nl/jci1.3:c:BWBR0037835&hoofdstuk=3&paragraaf=3.1&artikel=5&z=2016-11-01&g=2016-11-01) of [7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037835&hoofdstuk=3&paragraaf=3.1&artikel=7&z=2016-11-01&g=2016-11-01), of van een niet-automatisch weegwerktuig kan schriftelijk een gemachtigde aanwijzen die namens hem optreedt ten aanzien van bepaalde verplichtingen en werkzaamheden. De aanwijzing omvat niet de verplichtingen op grond van artikel 8, eerste lid, van de richtlijn meetinstrumenten en artikel 6, eerste lid, van de richtlijn niet-automatische weegwerktuigen en evenmin de in artikel 8, tweede lid, van de richtlijn meetinstrumenten en artikel 6, tweede lid, van de richtlijn niet-automatische weegwerktuigen vervatte verplichting om technische documentatie op te stellen.
 
 2. Een gemachtigde als bedoeld in het eerste lid voert de taken uit die zijn opgenomen in de aanwijzing. De aanwijzing omvat ten minste de volgende taken:
 
@@ -318,23 +346,23 @@ De fabrikant van een tapmaatfles verricht de werkzaamheden en voldoet aan de ver
 
 ##### Artikel 28
 
-1. De importeur van een meetinstrument als bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0037835&hoofdstuk=3&paragraaf=3.1&artikel=5&z=2016-04-20&g=2016-04-20) of [artikel 7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037835&hoofdstuk=3&paragraaf=3.1&artikel=7&z=2016-04-20&g=2016-04-20), voldoet aan de verplichtingen, bedoeld in artikel 10 van de richtlijn meetinstrumenten.
+1. De importeur van een meetinstrument als bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0037835&hoofdstuk=3&paragraaf=3.1&artikel=5&z=2016-11-01&g=2016-11-01) of [artikel 7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037835&hoofdstuk=3&paragraaf=3.1&artikel=7&z=2016-11-01&g=2016-11-01), voldoet aan de verplichtingen, bedoeld in artikel 10 van de richtlijn meetinstrumenten.
 
 2. De importeur van een niet-automatisch weegwerktuig voldoet aan de verplichtingen, bedoeld in artikel 8 van de richtlijn niet-automatische weegwerktuigen.
 
 ##### Artikel 29
 
-1. De distributeur van een meetinstrument als bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0037835&hoofdstuk=3&paragraaf=3.1&artikel=5&z=2016-04-20&g=2016-04-20) of [artikel 7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037835&hoofdstuk=3&paragraaf=3.1&artikel=7&z=2016-04-20&g=2016-04-20), voldoet aan de verplichtingen uit artikel 11 van de richtlijn meetinstrumenten.
+1. De distributeur van een meetinstrument als bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0037835&hoofdstuk=3&paragraaf=3.1&artikel=5&z=2016-11-01&g=2016-11-01) of [artikel 7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037835&hoofdstuk=3&paragraaf=3.1&artikel=7&z=2016-11-01&g=2016-11-01), voldoet aan de verplichtingen uit artikel 11 van de richtlijn meetinstrumenten.
 
 2. De distributeur van een niet-automatisch weegwerktuig voldoet aan de verplichtingen uit artikel 9 van de richtlijn niet-automatische weegwerktuigen.
 
 ##### Artikel 30
 
-De importeur of distributeur van een meetinstrument als bedoeld in de [artikelen 5](https://wetten.overheid.nl/jci1.3:c:BWBR0037835&hoofdstuk=3&paragraaf=3.1&artikel=5&z=2016-04-20&g=2016-04-20) of [7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037835&hoofdstuk=3&paragraaf=3.1&artikel=7&z=2016-04-20&g=2016-04-20), of van een niet-automatisch weegwerktuig wordt als fabrikant in de zin van de richtlijn meetinstrumenten of de richtlijn niet-automatische weegwerktuigen beschouwd en voldoet aan de in [artikel 24](https://wetten.overheid.nl/jci1.3:c:BWBR0037835&hoofdstuk=4&artikel=24&z=2016-04-20&g=2016-04-20) genoemde verplichtingen van de fabrikant, wanneer hij een meetinstrument of niet-automatisch weegwerktuig onder zijn eigen naam of merknaam in de handel brengt of een reeds in de handel gebracht meetinstrument zodanig wijzigt dat de conformiteit met de desbetreffende richtlijnen in het gedrang kan komen.
+De importeur of distributeur van een meetinstrument als bedoeld in de [artikelen 5](https://wetten.overheid.nl/jci1.3:c:BWBR0037835&hoofdstuk=3&paragraaf=3.1&artikel=5&z=2016-11-01&g=2016-11-01) of [7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037835&hoofdstuk=3&paragraaf=3.1&artikel=7&z=2016-11-01&g=2016-11-01), of van een niet-automatisch weegwerktuig wordt als fabrikant in de zin van de richtlijn meetinstrumenten of de richtlijn niet-automatische weegwerktuigen beschouwd en voldoet aan de in [artikel 24](https://wetten.overheid.nl/jci1.3:c:BWBR0037835&hoofdstuk=4&artikel=24&z=2016-11-01&g=2016-11-01) genoemde verplichtingen van de fabrikant, wanneer hij een meetinstrument of niet-automatisch weegwerktuig onder zijn eigen naam of merknaam in de handel brengt of een reeds in de handel gebracht meetinstrument zodanig wijzigt dat de conformiteit met de desbetreffende richtlijnen in het gedrang kan komen.
 
 ##### Artikel 31
 
-Een bij een meetinstrument als bedoeld in de [artikelen 5](https://wetten.overheid.nl/jci1.3:c:BWBR0037835&hoofdstuk=3&paragraaf=3.1&artikel=5&z=2016-04-20&g=2016-04-20), [6](https://wetten.overheid.nl/jci1.3:c:BWBR0037835&hoofdstuk=3&paragraaf=3.1&artikel=6&z=2016-04-20&g=2016-04-20) of [7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037835&hoofdstuk=3&paragraaf=3.1&artikel=7&z=2016-04-20&g=2016-04-20), betrokken marktdeelnemer verstrekt tot tien jaar nadat het meetinstrument aan hem geleverd is en tot tien jaar nadat hij het werktuig heeft geleverd de informatie, bedoeld in artikel 13 van de richtlijn meetinstrumenten en artikel 11 van de richtlijn niet-automatische weegwerktuigen.
+Een bij een meetinstrument als bedoeld in de [artikelen 5](https://wetten.overheid.nl/jci1.3:c:BWBR0037835&hoofdstuk=3&paragraaf=3.1&artikel=5&z=2016-11-01&g=2016-11-01), [6](https://wetten.overheid.nl/jci1.3:c:BWBR0037835&hoofdstuk=3&paragraaf=3.1&artikel=6&z=2016-11-01&g=2016-11-01) of [7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037835&hoofdstuk=3&paragraaf=3.1&artikel=7&z=2016-11-01&g=2016-11-01), betrokken marktdeelnemer verstrekt tot tien jaar nadat het meetinstrument aan hem geleverd is en tot tien jaar nadat hij het werktuig heeft geleverd de informatie, bedoeld in artikel 13 van de richtlijn meetinstrumenten en artikel 11 van de richtlijn niet-automatische weegwerktuigen.
 
 ### Hoofdstuk 5. Overige en slotbepalingen
 
@@ -344,13 +372,13 @@ Een wijziging van de richtlijn meetinstrumenten, van de richtlijn niet-automatis
 
 ##### Artikel 33
 
-1. Een meetinstrument als bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0037835&hoofdstuk=3&paragraaf=3.1&artikel=5&z=2016-04-20&g=2016-04-20) of [artikel 7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037835&hoofdstuk=3&paragraaf=3.1&artikel=7&z=2016-04-20&g=2016-04-20), of een niet- automatisch weegwerktuig dat voldoet aan de toepasselijke eisen uit het [Meetinstrumentenbesluit I](https://wetten.overheid.nl/jci1.3:c:BWBR0019897) en dat vóór 20 april 2016 in de handel is gebracht, mag op de markt worden aangeboden of in gebruik worden genomen.
+1. Een meetinstrument als bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0037835&hoofdstuk=3&paragraaf=3.1&artikel=5&z=2016-11-01&g=2016-11-01) of [artikel 7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037835&hoofdstuk=3&paragraaf=3.1&artikel=7&z=2016-11-01&g=2016-11-01), of een niet- automatisch weegwerktuig dat voldoet aan de toepasselijke eisen uit het [Meetinstrumentenbesluit I](https://wetten.overheid.nl/jci1.3:c:BWBR0019897) en dat vóór 20 april 2016 in de handel is gebracht, mag op de markt worden aangeboden of in gebruik worden genomen.
 
-2. Een certificaat voor een meetinstrument als bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0037835&hoofdstuk=3&paragraaf=3.1&artikel=5&z=2016-04-20&g=2016-04-20) of [artikel 7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037835&hoofdstuk=3&paragraaf=3.1&artikel=7&z=2016-04-20&g=2016-04-20), of voor een niet-automatisch weegwerktuig, dat vóór 20 april 2016 is verstrekt op grond van het [Meetinstrumentenbesluit I](https://wetten.overheid.nl/jci1.3:c:BWBR0019897) wordt beschouwd als een certificaat dat is verstrekt op grond van dit besluit.
+2. Een certificaat voor een meetinstrument als bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0037835&hoofdstuk=3&paragraaf=3.1&artikel=5&z=2016-11-01&g=2016-11-01) of [artikel 7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037835&hoofdstuk=3&paragraaf=3.1&artikel=7&z=2016-11-01&g=2016-11-01), of voor een niet-automatisch weegwerktuig, dat vóór 20 april 2016 is verstrekt op grond van het [Meetinstrumentenbesluit I](https://wetten.overheid.nl/jci1.3:c:BWBR0019897) wordt beschouwd als een certificaat dat is verstrekt op grond van dit besluit.
 
 ##### Artikel 34
 
-De verklaring van toelating die voor de inwerkingtreding van dit besluit is afgegeven voor een conformiteitsbeoordeling als bedoeld in [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0037835&hoofdstuk=3&paragraaf=3.2&artikel=13&z=2016-04-20&g=2016-04-20) is geldig tot tien jaar na de dag van inwerkingtreding van dit besluit.
+De verklaring van toelating die voor de inwerkingtreding van dit besluit is afgegeven voor een conformiteitsbeoordeling als bedoeld in [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0037835&hoofdstuk=3&paragraaf=3.2&artikel=13&z=2016-11-01&g=2016-11-01) is geldig tot tien jaar na de dag van inwerkingtreding van dit besluit.
 
 ##### Artikel 35
 
@@ -370,24 +398,38 @@ Het [Meetinstrumentenbesluit I](https://wetten.overheid.nl/jci1.3:c:BWBR0019897)
 
 ##### Artikel 39
 
-Dit onderdeel is nog niet inwerking getreden
+Het [Meetinstrumentenbesluit II](https://wetten.overheid.nl/jci1.3:c:BWBR0020554) wordt ingetrokken.
 
 ##### Artikel 40
 
 Dit besluit treedt in werking met ingang van 20 april 2016, met uitzondering van:
 
-- a. de [artikelen 7, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037835&hoofdstuk=3&paragraaf=3.1&artikel=7&z=2016-04-20&g=2016-04-20), [15](https://wetten.overheid.nl/jci1.3:c:BWBR0037835&hoofdstuk=3&paragraaf=3.2&artikel=15&z=2016-04-20&g=2016-04-20), [17](https://wetten.overheid.nl/jci1.3:c:BWBR0037835&hoofdstuk=3&paragraaf=3.2&artikel=17&z=2016-04-20&g=2016-04-20), [20](https://wetten.overheid.nl/jci1.3:c:BWBR0037835&hoofdstuk=3&paragraaf=3.3&artikel=20&z=2016-04-20&g=2016-04-20), [36, onderdeel A](https://wetten.overheid.nl/jci1.3:c:BWBR0037835&hoofdstuk=5&artikel=36&z=2016-04-20&g=2016-04-20), en [37](https://wetten.overheid.nl/jci1.3:c:BWBR0037835&hoofdstuk=5&artikel=37&z=2016-04-20&g=2016-04-20), die in werking treden met ingang van de dag na de datum van uitgifte van het Staatsblad waarin dit besluit wordt geplaatst;
+- a. de [artikelen 7, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037835&hoofdstuk=3&paragraaf=3.1&artikel=7&z=2016-11-01&g=2016-11-01), [15](https://wetten.overheid.nl/jci1.3:c:BWBR0037835&hoofdstuk=3&paragraaf=3.2&artikel=15&z=2016-11-01&g=2016-11-01), [17](https://wetten.overheid.nl/jci1.3:c:BWBR0037835&hoofdstuk=3&paragraaf=3.2&artikel=17&z=2016-11-01&g=2016-11-01), [20](https://wetten.overheid.nl/jci1.3:c:BWBR0037835&hoofdstuk=3&paragraaf=3.3&artikel=20&z=2016-11-01&g=2016-11-01), [36, onderdeel A](https://wetten.overheid.nl/jci1.3:c:BWBR0037835&hoofdstuk=5&artikel=36&z=2016-11-01&g=2016-11-01), en [37](https://wetten.overheid.nl/jci1.3:c:BWBR0037835&hoofdstuk=5&artikel=37&z=2016-11-01&g=2016-11-01), die in werking treden met ingang van de dag na de datum van uitgifte van het Staatsblad waarin dit besluit wordt geplaatst;
 
-- b. de [artikelen 4](https://wetten.overheid.nl/jci1.3:c:BWBR0037835&hoofdstuk=2&artikel=4&z=2016-04-20&g=2016-04-20), [8](https://wetten.overheid.nl/jci1.3:c:BWBR0037835&hoofdstuk=3&paragraaf=3.1&artikel=8&z=2016-04-20&g=2016-04-20), [13](https://wetten.overheid.nl/jci1.3:c:BWBR0037835&hoofdstuk=3&paragraaf=3.2&artikel=13&z=2016-04-20&g=2016-04-20), [21](https://wetten.overheid.nl/jci1.3:c:BWBR0037835&hoofdstuk=3&paragraaf=3.3&artikel=21&z=2016-04-20&g=2016-04-20), [25](https://wetten.overheid.nl/jci1.3:c:BWBR0037835&hoofdstuk=4&artikel=25&z=2016-04-20&g=2016-04-20) en [39](https://wetten.overheid.nl/jci1.3:c:BWBR0037835&hoofdstuk=5&artikel=39&z=2016-04-20&g=2016-04-20) en de bijlage, bedoeld in [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0037835&hoofdstuk=3&paragraaf=3.2&artikel=13&z=2016-04-20&g=2016-04-20), die inwerking treden op een bij koninklijk besluit te bepalen tijdstip;
+- b. de [artikelen 4](https://wetten.overheid.nl/jci1.3:c:BWBR0037835&hoofdstuk=2&artikel=4&z=2016-11-01&g=2016-11-01), [8](https://wetten.overheid.nl/jci1.3:c:BWBR0037835&hoofdstuk=3&paragraaf=3.1&artikel=8&z=2016-11-01&g=2016-11-01), [13](https://wetten.overheid.nl/jci1.3:c:BWBR0037835&hoofdstuk=3&paragraaf=3.2&artikel=13&z=2016-11-01&g=2016-11-01), [21](https://wetten.overheid.nl/jci1.3:c:BWBR0037835&hoofdstuk=3&paragraaf=3.3&artikel=21&z=2016-11-01&g=2016-11-01), [25](https://wetten.overheid.nl/jci1.3:c:BWBR0037835&hoofdstuk=4&artikel=25&z=2016-11-01&g=2016-11-01) en [39](https://wetten.overheid.nl/jci1.3:c:BWBR0037835&hoofdstuk=5&artikel=39&z=2016-11-01&g=2016-11-01) en de bijlage, bedoeld in [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0037835&hoofdstuk=3&paragraaf=3.2&artikel=13&z=2016-11-01&g=2016-11-01), die inwerking treden op een bij koninklijk besluit te bepalen tijdstip;
 
-- c. [artikel 36, onderdeel B](https://wetten.overheid.nl/jci1.3:c:BWBR0037835&hoofdstuk=5&artikel=36&z=2016-04-20&g=2016-04-20), dat in werking treedt met ingang van het tijdstip waarop de [IJkwet BES 2014](https://wetten.overheid.nl/jci1.3:c:BWBR0035310&wetgeving) in werking treedt.
+- c. [artikel 36, onderdeel B](https://wetten.overheid.nl/jci1.3:c:BWBR0037835&hoofdstuk=5&artikel=36&z=2016-11-01&g=2016-11-01), dat in werking treedt met ingang van het tijdstip waarop de [IJkwet BES 2014](https://wetten.overheid.nl/jci1.3:c:BWBR0035310) in werking treedt.
 
 ##### Artikel 41
 
 Dit besluit wordt aangehaald als: Besluit meetinstrumenten en marktdeelnemers.
 
-## Bijlage. bedoeld in [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0037835&hoofdstuk=3&paragraaf=3.2&artikel=13&z=2016-04-20&g=2016-04-20) van het Besluit meetinstrumenten en marktdeelnemers
+## Bijlage. bedoeld in [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0037835&hoofdstuk=3&paragraaf=3.2&artikel=13&z=2016-11-01&g=2016-11-01) van het Besluit meetinstrumenten en marktdeelnemers
 
-Dit onderdeel is nog niet inwerking getreden
+Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
+
+Bij de toepassing van de conformiteitsbeoordelingsprocedures B, D, E, F en G uit bijlage I van de richtlijn meetinstrumenten gelden de volgende voorschriften.
+
+### I. Alle procedures
+
+### II. Module B
+
+### III. Module D
+
+### IV. Module E
+
+### V. Module F
+
+### VI. Module G
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
