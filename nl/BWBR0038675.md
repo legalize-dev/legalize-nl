@@ -4,7 +4,7 @@ identifier: "BWBR0038675"
 country: "nl"
 rank: "ministeriele_regeling_bes"
 publication_date: "2016-11-02"
-last_updated: "2016-09-01"
+last_updated: "2016-11-02"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0038675"
 soort: "ministeriele-regeling-BES"
@@ -44,7 +44,7 @@ Besluit:
 
 In deze regeling wordt verstaan onder:
 
-- **bijzondere uitkering versterking openbaar bestuur:** eenmalige bijzondere uitkering als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0038675&artikel=2&z=2016-11-02&g=2016-09-01);
+- **bijzondere uitkering versterking openbaar bestuur:** eenmalige bijzondere uitkering als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0038675&artikel=2&z=2016-11-02&g=2016-11-02);
 
 - **minister:** Minister van Binnenlandse Zaken en Koninkrijksrelaties.
 
@@ -70,7 +70,7 @@ De minister kan aan de openbare lichamen bijzondere uitkeringen versterking open
 
 - a. een beschrijving van de activiteiten, waarvoor de bijzondere uitkering openbaar bestuur wordt aangevraagd;
 
-- b. de wijze waarop de activiteiten bijdragen aan de doelstelling, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0038675&artikel=2&z=2016-11-02&g=2016-09-01);
+- b. de wijze waarop de activiteiten bijdragen aan de doelstelling, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0038675&artikel=2&z=2016-11-02&g=2016-11-02);
 
 - c. een sluitende begroting voor het activiteitenplan, en
 
@@ -84,21 +84,21 @@ De minister kan aan de openbare lichamen bijzondere uitkeringen versterking open
 
 2. De minister besluit uitsluitend tot verlening van een bijzondere uitkering versterking openbaar bestuur indien:
 
-- a. de activiteiten voldoende bijdragen aan het doel, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0038675&artikel=2&z=2016-11-02&g=2016-09-01);
+- a. de activiteiten voldoende bijdragen aan het doel, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0038675&artikel=2&z=2016-11-02&g=2016-11-02);
 
 - b. het naar het oordeel van de minister aannemelijk is dat de activiteiten uiterlijk op 31 december 2019 kunnen zijn uitgevoerd;
 
 - c. de activiteiten doelmatig en doeltreffend zijn;
 
-- d. de activiteiten redelijkerwijs uitvoerbaar zijn gezien de middelen en de kosten die in het activiteitenplan, bedoeld in [artikel 4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0038675&artikel=4&z=2016-11-02&g=2016-09-01), zijn begroot; en
+- d. de activiteiten redelijkerwijs uitvoerbaar zijn gezien de middelen en de kosten die in het activiteitenplan, bedoeld in [artikel 4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0038675&artikel=4&z=2016-11-02&g=2016-11-02), zijn begroot; en
 
-- e. het in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0038675&artikel=3&z=2016-11-02&g=2016-09-01), genoemde beschikbare bedrag voor het desbetreffende jaar niet wordt overschreden als gevolg van het verlenen van de uitkering.
+- e. het in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0038675&artikel=3&z=2016-11-02&g=2016-11-02), genoemde beschikbare bedrag voor het desbetreffende jaar niet wordt overschreden als gevolg van het verlenen van de uitkering.
 
 ##### Artikel 6. Verplichtingen
 
 1. Indien een openbaar lichaam een bijzondere uitkering versterking openbaar bestuur ontvangt:
 
-- a. bewaakt het bestuurscollege van dat openbaar lichaam de tijdige uitvoering van de activiteiten volgens het activiteitenplan, bedoeld in [artikel 4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0038675&artikel=4&z=2016-11-02&g=2016-09-01); en
+- a. bewaakt het bestuurscollege van dat openbaar lichaam de tijdige uitvoering van de activiteiten volgens het activiteitenplan, bedoeld in [artikel 4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0038675&artikel=4&z=2016-11-02&g=2016-11-02); en
 
 - b. verzamelt en bewaart het bestuurscollege van dat openbaar lichaam gegevens omtrent de voortgang en kosten van de uitvoering van de activiteiten.
 
@@ -110,27 +110,27 @@ De minister kan aan de openbare lichamen bijzondere uitkeringen versterking open
 
 1. De minister verstrekt een voorschot op de verleende bijzondere uitkering versterking openbaar bestuur.
 
-2. De hoogte van het voorschot wordt per activiteitenplan vastgesteld op basis van een bevoorschottingsregime dat is vastgesteld bij het besluit, bedoeld in [artikel 5, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0038675&artikel=5&z=2016-11-02&g=2016-09-01).
+2. De hoogte van het voorschot wordt per activiteitenplan vastgesteld op basis van een bevoorschottingsregime dat is vastgesteld bij het besluit, bedoeld in [artikel 5, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0038675&artikel=5&z=2016-11-02&g=2016-11-02).
 
 3. De minister kan op verzoek van het bestuurscollege van het openbaar lichaam besluiten om de hoogte van een voorschot hoger of lager vast te stellen.
 
 4. De minister kan de verstrekking van voorschotten opschorten, indien:
 
-- a. activiteiten worden uitgevoerd op een wijze die niet voldoet aan het doel, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0038675&artikel=2&z=2016-11-02&g=2016-09-01), of
+- a. activiteiten worden uitgevoerd op een wijze die niet voldoet aan het doel, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0038675&artikel=2&z=2016-11-02&g=2016-11-02), of
 
 - b. verleende voorschotten zijn besteed aan een ander doel dan waarvoor de bijzondere uitkering versterking openbaar bestuur is verstrekt.
 
 ##### Artikel 8. Intrekken besluit tot verstrekken bijzondere uitkering openbaar bestuur
 
-1. Zolang de bijzondere uitkering versterking openbaar bestuur nog niet overeenkomstig [artikel 9, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0038675&artikel=9&z=2016-11-02&g=2016-09-01), is vastgesteld, kan de minister het besluit, bedoeld in [artikel 5, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0038675&artikel=5&z=2016-11-02&g=2016-09-01), wijzigen of intrekken, indien:
+1. Zolang de bijzondere uitkering versterking openbaar bestuur nog niet overeenkomstig [artikel 9, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0038675&artikel=9&z=2016-11-02&g=2016-11-02), is vastgesteld, kan de minister het besluit, bedoeld in [artikel 5, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0038675&artikel=5&z=2016-11-02&g=2016-11-02), wijzigen of intrekken, indien:
 
-- a. het openbare lichaam een melding heeft gedaan als bedoeld in [artikel 6, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0038675&artikel=6&z=2016-11-02&g=2016-09-01);
+- a. het openbare lichaam een melding heeft gedaan als bedoeld in [artikel 6, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0038675&artikel=6&z=2016-11-02&g=2016-11-02);
 
 - b. het openbare lichaam onjuiste of onvolledige gegevens heeft verstrekt en verstrekking van juiste of volledige gegevens tot een ander besluit omtrent de verlening van de uitkering zou hebben geleid;
 
 - c. het besluit tot verlening van de uitkering onjuist was en het openbaar lichaam dit wist of behoorde te weten;
 
-- d. activiteiten worden uitgevoerd op een wijze die niet voldoet aan het doel, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0038675&artikel=2&z=2016-11-02&g=2016-09-01), of
+- d. activiteiten worden uitgevoerd op een wijze die niet voldoet aan het doel, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0038675&artikel=2&z=2016-11-02&g=2016-11-02), of
 
 - e. verleende voorschotten zijn besteed aan een ander doel dan waarvoor de uitkering is verstrekt.
 
@@ -140,7 +140,7 @@ De minister kan aan de openbare lichamen bijzondere uitkeringen versterking open
 
 1. De minister stelt de bijzondere uitkering versterking openbaar bestuur vast uiterlijk vier maanden na indiening van de jaarrekening over het laatste uitvoeringsjaar.
 
-2. Voor zover de bijzondere uitkering versterking openbaar bestuur niet op de wijze, bedoeld in [artikel 6, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0038675&artikel=6&z=2016-11-02&g=2016-09-01), is besteed kan de minister het reeds betaalde bedrag terugvorderen.
+2. Voor zover de bijzondere uitkering versterking openbaar bestuur niet op de wijze, bedoeld in [artikel 6, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0038675&artikel=6&z=2016-11-02&g=2016-11-02), is besteed kan de minister het reeds betaalde bedrag terugvorderen.
 
 ##### Artikel 10. Inwerkingtreding
 
