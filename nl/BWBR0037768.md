@@ -4,7 +4,7 @@ identifier: "BWBR0037768"
 country: "nl"
 rank: "wet"
 publication_date: "2017-01-01"
-last_updated: "2016-03-31"
+last_updated: "2016-11-02"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0037768"
 soort: "wet"
@@ -49,7 +49,7 @@ Wijzigt de Mediawet 2008.
 
 ##### Artikel II
 
-Archiefbescheiden van de stichting Stimuleringsfonds Nederlandse culturele omroepproducties gaan met ingang van de datum van inwerkingtreding van [artikel I, onder W](https://wetten.overheid.nl/jci1.3:c:BWBR0037768&artikel=I&z=2016-03-31&g=2016-03-31), over naar de NPO, voor zover zij niet overeenkomstig de [Archiefwet 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007376) zijn overgebracht naar een archiefbewaarplaats.
+Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel III
 
