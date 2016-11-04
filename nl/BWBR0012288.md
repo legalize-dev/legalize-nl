@@ -4,7 +4,7 @@ identifier: "BWBR0012288"
 country: "nl"
 rank: "circulaire"
 publication_date: "2026-04-04"
-last_updated: "2016-10-01"
+last_updated: "2016-11-04"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0012288"
 soort: "circulaire"
@@ -3017,7 +3017,7 @@ Geen bijzonderheden.
 
 ### 24. Het asielbeleid ten aanzien van Somalië
 
-Dit beleid geldt voor geheel Zuid- en Centraal Somalië, inclusief Mogadishu.
+Het onderstaande beleid is van toepassing op geheel Somalië, tenzij anders is vermeld. Voor de verschillende gebiedsaanduidingen wordt verwezen naar het algemeen ambtsbericht Zuid- en Centraal Somalië 2016 van de Minister van Buitenlandse zaken.
 
 Ten aanzien van Somalië geldt een besluit in de zin van [artikel 43, eerste lid, Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=43) voor vreemdelingen afkomstig uit die gebieden in Centraal- en Zuid-Somalië die onder controle staan van Al-Shabaab.
 
@@ -3033,33 +3033,33 @@ Geen bijzonderheden.
 
 ### 24.3.2. Risicogroepen in de zin van paragraaf C2/3.2 Vc
 
-De IND merkt voor Somalië uitsluitend aan als risicogroepen:
+Onder voorwaarden kan een vluchtalternatief worden tegengeworpen in een gebied waar Al-Shabaab niet aan de macht is (zie paragraaf 24.5.2).
 
-### 24.4.4. Kwetsbare minderheidsgroepen in de zin van paragraaf C2/3.3 Vc
+### 24.3.2. Risicogroepen in de zin van paragraaf C2/3.2 Vc
+
+De IND merkt voor Zuid- en Centraal Somalië uitsluitend aan als risicogroepen:
 
 Een vreemdeling die zich erop beroept dat hij er door Al-Shabaab van wordt verdacht te spioneren voor de overheid en afkomstig is uit gebieden die niet onder controle staan van Al-Shabaab (inclusief Mogadishu), zal aannemelijk moeten maken dat juist hij zal worden geconfronteerd met Al-Shabaab. De enkele terugkeer uit het Westen is daartoe onvoldoende.
 
-Geen bijzonderheden.
-
-### 24.4.1. Uitzonderlijke situatie in de zin van paragraaf C2/3.3 Vc
+### 24.4. Ernstige schade in de zin van [artikel 29, eerste lid, onder b, Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=29)
 
 In Somalië (inclusief Mogadishu) is geen sprake van een uitzonderlijke situatie als bedoeld in [artikel 29, eerste lid, onder b, Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=29).
 
-De IND herbeoordeelt vooralsnog niet de verblijfsvergunningen asiel voor bepaalde tijd die aan Somaliërs verleend zijn op grond van de uitzonderlijke situatie zoals bedoeld in [artikel 29, eerste lid, onder b, Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=29) die heeft gegolden ten aanzien van personen afkomstig uit Mogadishu. De IND zal pas overgaan tot intrekking als is gebleken van een wijziging van omstandigheden die een voldoende ingrijpend en niet-voorbijgaand karakter heeft (zie [artikel 3.37e VV](https://wetten.overheid.nl/jci1.3:c:BWBR0012002&artikel=3.37e)).
+In Somalië is geen sprake van een uitzonderlijke situatie als bedoeld in [artikel 29, eerste lid, onder b, Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=29).
 
 ### 25.3. Vervolging in de zin van het Vluchtelingenverdrag
 
-Bij de beoordeling of het verblijf in Nederland bij een individuele Somalische vreemdeling heeft geleid tot een verwestering waarbij een of meer specifieke kenmerken bij terugkeer feitelijk niet meer verborgen kunnen worden gehouden, spelen in ieder geval de volgende elementen een rol:
+De IND wijst om diezelfde reden niet aanvragen tot verlenging van de verblijfsvergunning asiel voor bepaalde tijd of een verblijfsvergunning asiel voor onbepaalde tijd af van vreemdelingen die op grond van de uitzonderlijke situatie zoals bedoeld in [artikel 29, eerste lid, onder b, Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=29) in het bezit zijn van een verblijfsvergunning asiel voor bepaalde tijd.
 
-### 24.5.1. Bescherming door autoriteiten en/of internationale organisaties in de zin van paragraaf C2/3.4 Vc
+### 24.4.2. Systematische blootstelling in de zin van paragraaf C2/3.3 Vc
 
-De IND herbeoordeelt vooralsnog niet de verblijfsvergunning asiel voor bepaalde tijd die aan Somaliërs verleend zijn op grond van het behoren tot de Benadiri/Reer Hamar. De IND zal pas overgaan tot intrekking, als is gebleken van een wijziging van omstandigheden die een voldoende ingrijpend en niet-voorbijgaand karakter heeft (zie [artikel 3.37e VV](https://wetten.overheid.nl/jci1.3:c:BWBR0012002&artikel=3.37e)).
+In gebieden in Zuid- en Centraal Somalië waar Al-Shabaab aan de macht is, is de mensenrechtensituatie zodanig dat voor iedere terugkeerder een reëel risico bestaat op een met artikel 3 EVRM-strijdige behandeling.
 
-De IND wijst om diezelfde reden niet aanvragen tot verlenging van de verblijfsvergunning asiel voor bepaalde tijd of een verblijfsvergunning asiel voor onbepaalde tijd af van vreemdelingen die op grond van het behoren tot de Benadiri/Reer Hamar in het bezit zijn van een verblijfsvergunning asiel voor bepaalde tijd.
+Onder voorwaarden kan een vestigingsalternatief worden tegengeworpen in een gebied waar Al-Shabaab niet aan de macht is (zie paragraaf 24.5.2).
 
 ### 24.4.3. Alleenstaande vrouwen
 
-De IND verleent een verblijfsvergunning asiel voor bepaalde tijd op grond van [artikel 29, eerste lid, aanhef en onder b, Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=29) aan een alleenstaande vrouw, als zij aannemelijk heeft gemaakt dat zij een gegronde vrees heeft voor een onmenselijke behandeling bij terugkeer naar Somalië.
+De IND herbeoordeelt vooralsnog niet de verblijfsvergunning asiel voor bepaalde tijd die aan Somaliërs verleend zijn op grond van het behoren tot de Benadiri/Reer Hamar. De IND zal pas overgaan tot intrekking, als is gebleken van een wijziging van omstandigheden die een voldoende ingrijpend en niet-voorbijgaand karakter heeft (zie [artikel 3.37e VV](https://wetten.overheid.nl/jci1.3:c:BWBR0012002&artikel=3.37e)).
 
 ### 24.5.1. Bescherming door autoriteiten en/of internationale organisaties in de zin van paragraaf C2/3.4 Vc
 
@@ -3067,15 +3067,15 @@ De IND neemt in ieder geval aan dat het voor de volgende categorieën in Somali�
 
 ### 24.5.2. Vlucht- en vestigingsalternatief in de zin van paragraaf C2/3.4 Vc
 
-De IND neemt in zijn algemeenheid geen binnenlands vlucht- en of/vestigingsalternatief aan, tenzij de vreemdeling onder naar plaatselijke maatstaven gemeten redelijke omstandigheden minstens zes maanden voorafgaand aan zijn vertrek heeft verbleven in:
+Indien een vrouw niet als alleenstaand wordt aangemerkt, wordt haar aanvraag voor asiel op individuele omstandigheden beoordeeld.
 
 De IND verleent, behoudens contra-indicaties, in ieder geval een verblijfsvergunning asiel voor bepaalde tijd op grond van [artikel 29, eerste lid, aanhef en onder b, Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=29) aan een vreemdeling afkomstig uit Centraal- en Zuid-Somalië, als de vreemdeling voldoet aan alle volgende voorwaarden:
 
 ### 25.4.4. Tamils
 
-### 24.7. Vertrekmoratorium
+### 24.4.5. Individuele kenmerken
 
-Bij de beoordeling of het verblijf in Nederland bij een individuele Somalische vreemdeling heeft geleid tot een verwestering waarbij een of meer specifieke kenmerken bij terugkeer feitelijk niet meer verborgen kunnen worden gehouden, spelen in ieder geval de volgende elementen een rol:
+Geen bijzonderheden.
 
 ### 24.5. Bescherming
 
@@ -3085,15 +3085,15 @@ De IND beoordeelt aan de hand van [paragraaf B8/6 Vc](onbekend) of adequate opva
 
 De IND neemt in ieder geval voor de volgende categorieën aan dat het niet mogelijk is de bescherming van de autoriteiten of internationale organisaties te verkrijgen:
 
-De IND neemt in zijn algemeenheid geen binnenlands vlucht- en of/vestigingsalternatief aan, tenzij de vreemdeling onder naar plaatselijke maatstaven gemeten redelijke omstandigheden minstens zes maanden voorafgaand aan zijn vertrek heeft verbleven in:
+De IND neemt in ieder geval aan dat geen binnenlands beschermingsalternatief in Somalië aanwezig is voor:
 
 ### 24.8. Bijzonderheden
 
-De IND neemt in ieder geval aan dat geen vlucht- en vestigingsalternatief in Somalië (inclusief Noord-Somalië) aanwezig is voor:
+Onder dezelfde voorwaarden kan een binnenlands beschermingsalternatief worden tegengeworpen aan:
 
 ### 25. Het asielbeleid ten aanzien van Sri Lanka
 
-De IND sluit voorts ook een vlucht- of vestigingsalternatief in Mogadishu niet op voorhand uit. De IND kan in individuele gevallen waarbij er concrete aanknopingspunten zijn in het asielrelaas dat een vreemdeling zich in Mogadishu kan vestigen, dit aan de vreemdeling tegenwerpen.
+De IND neemt aan dat de vreemdeling zich in het desbetreffende gebied kan handhaven.
 
 Geen bijzonderheden.
 
@@ -3103,7 +3103,7 @@ Voor Somalië geldt in ieder geval dat:
 
 ### 24.7. Vertrekmoratorium
 
-Ten aanzien van Somalië geldt een besluit in de zin van [artikel 45, vierde lid, Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=45) voor vreemdelingen die afkomstig zijn uit gebieden in Centraal- en Zuid-Somalië die onder controle staan van Al-Shabaab.
+Geen bijzonderheden.
 
 Geen bijzonderheden.
 
@@ -3913,13 +3913,13 @@ Er is in beginsel sprake van een vlucht- dan wel vestigingsalternatief bij vrees
 
 De IND merkt voor Somalië uitsluitend aan als risicogroepen:
 
-### 24.6. Adequate opvang alleenstaande minderjarige vreemdelingen
+### 24.1. Besluitmoratorium
 
-De IND wijst om diezelfde reden niet aanvragen tot verlenging van de verblijfsvergunning asiel voor bepaalde tijd of een verblijfsvergunning asiel voor onbepaalde tijd af van vreemdelingen die op grond van de uitzonderlijke situatie zoals bedoeld in [artikel 29, eerste lid, onder b, Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=29) in het bezit zijn van een verblijfsvergunning asiel voor bepaalde tijd.
+Geen bijzonderheden.
 
-### 24.4.3. Alleenstaande vrouwen
+### 24.3.1. Groepsvervolging in de zin van paragraaf C2/3.2 Vc
 
-De IND verleent een verblijfsvergunning asiel voor bepaalde tijd op grond van [artikel 29, eerste lid, aanhef en onder b, Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=29) aan een alleenstaande vrouw, als zij aannemelijk heeft gemaakt dat zij een gegronde vrees heeft voor een onmenselijke behandeling bij terugkeer naar Somalië.
+In de gebieden in Zuid- en Centraal Somalië waar Al-Shabaab aan de macht is, is de situatie zodanig dat er over het algemeen ten aanzien van terugkeerders sprake is van een gegronde vrees voor vervolging in de zin van het Vluchtelingenverdrag tenzij uit de individuele verklaringen van de vreemdeling volgt dat hij niet als terugkeerder zal worden aangemerkt dan wel behandeld.
 
 ### 24.4. Ernstige schade in de zin van [artikel 29, eerste lid, onder b, Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=29)
 
@@ -3927,15 +3927,15 @@ De IND verleent een verblijfsvergunning asiel voor bepaalde tijd op grond van [a
 
 ### 24.4.4. Kwetsbare minderheidsgroepen in de zin van paragraaf C2/3.3 Vc
 
-De IND wijst om diezelfde reden niet aanvragen tot verlenging van de verblijfsvergunning asiel voor bepaalde tijd of een verblijfsvergunning asiel voor onbepaalde tijd af van vreemdelingen die op grond van de uitzonderlijke situatie zoals bedoeld in [artikel 29, eerste lid, onder b, Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=29) in het bezit zijn van een verblijfsvergunning asiel voor bepaalde tijd.
+De IND herbeoordeelt vooralsnog niet de verblijfsvergunningen asiel voor bepaalde tijd die aan Somaliërs verleend zijn op grond van de uitzonderlijke situatie zoals bedoeld in [artikel 29, eerste lid, onder b, onderdeel 3, Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=29) die heeft gegolden ten aanzien van personen afkomstig uit Mogadishu. De IND zal pas overgaan tot intrekking als is gebleken van een wijziging van omstandigheden die een voldoende ingrijpend en niet-voorbijgaand karakter heeft (zie [artikel 3.37e VV](https://wetten.overheid.nl/jci1.3:c:BWBR0012002&artikel=3.37e)).
 
 ### 24.5.2. Vlucht- en vestigingsalternatief in de zin van paragraaf C2/3.4 Vc
 
-Bij de beoordeling of het verblijf in Nederland bij een individuele Somalische vreemdeling heeft geleid tot een verwestering waarbij een of meer specifieke kenmerken bij terugkeer feitelijk niet meer verborgen kunnen worden gehouden, spelen in ieder geval de volgende elementen een rol:
+Bovenstaande geldt ook voor vreemdelingen die bij terugkeer naar hun herkomstgebied waar Al-Shabaab niet aan de macht is, moeten reizen door gebieden waar Al-Shabaab aan de macht is.
 
-### 24.6. Adequate opvang alleenstaande minderjarige vreemdelingen
+### 24.4.4. Kwetsbare minderheidsgroepen in de zin van paragraaf C2/3.3 Vc
 
-De IND betrekt bij de beoordeling van de vraag of de vreemdeling zich kan handhaven onder de regels van Al-Shabaab in ieder geval de volgende aspecten:
+Geen bijzonderheden.
 
 Doordat Mogadishu niet onder controle staat van Al-Shabaab, is het voor de terugkeer naar Mogadishu niet noodzakelijk dat de vreemdeling ervaring heeft met het leven onder Al-Shabaab.
 
@@ -3943,7 +3943,7 @@ Doordat Mogadishu niet onder controle staat van Al-Shabaab, is het voor de terug
 
 ### 25.1. Besluitmoratorium
 
-De IND neemt aan dat de vreemdeling zich in het desbetreffende gebied kan handhaven.
+De IND neemt een binnenlands beschermingsalternatief aan als er sprake is van concrete aanknopingspunten op basis waarvan in individuele gevallen geconcludeerd kan worden dat de persoon zich buiten het gebied van herkomst kan vestigen. Bij de beoordeling van de geldende voorwaarden voor het tegenwerpen van een binnenlands beschermingsalternatief uit [artikel 3.37d VV](https://wetten.overheid.nl/jci1.3:c:BWBR0012002&artikel=3.37d) dienen in de individuele zaak van de vreemdeling de volgende aanknopingspunten te worden betrokken:
 
 ### 24.6. Adequate opvang alleenstaande minderjarige vreemdelingen
 
@@ -4821,23 +4821,23 @@ Geen bijzonderheden.
 
 ### 24.1. Besluitmoratorium
 
-In Somalië (inclusief Mogadishu) is geen sprake van een uitzonderlijke situatie als bedoeld in [artikel 29, eerste lid, onder b, Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=29).
+Geen bijzonderheden.
 
 Dit beleid geldt voor geheel Zuid- en Centraal Somalië, inclusief Mogadishu.
 
 ### 24.4.4. Kwetsbare minderheidsgroepen in de zin van paragraaf C2/3.3 Vc
 
-De IND merkt een Somalische vrouw in ieder geval aan als alleenstaand, als:
+De IND wijst om diezelfde reden niet aanvragen tot verlenging van de verblijfsvergunning asiel voor bepaalde tijd of een verblijfsvergunning asiel voor onbepaalde tijd af van vreemdelingen die op grond van het behoren tot de Benadiri/Reer Hamar in het bezit zijn van een verblijfsvergunning asiel voor bepaalde tijd.
 
-### 24.4.4. Kwetsbare minderheidsgroepen in de zin van paragraaf C2/3.3 Vc
+### 24.4.3. Alleenstaande vrouwen
 
-Geen bijzonderheden.
+Aan alleenstaande vrouwen uit Somalië verleent de IND een verblijfsvergunning asiel voor bepaalde tijd op grond van [artikel 29, eerste lid, aanhef en onder b, Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=29). Een vrouw wordt als alleenstaand aangemerkt indien zij niet minimaal beschikt over een mannelijk familielid tot en met de derde graad in haar herkomstgebied.
 
 ### 24.4.5. Individuele kenmerken
 
 ### 25.2. Artikel 1F Vluchtelingenverdrag
 
-Voorts kan de IND een vlucht- of vestigingsalternatief aannemen als er sprake is van concrete aanknopingspunten op basis waarvan in individuele gevallen geconcludeerd kan worden dat de persoon zich buiten het gebied van herkomst kan vestigen. Hierbij betrekt de IND, naast de in [artikel 3.37d VV](https://wetten.overheid.nl/jci1.3:c:BWBR0012002&artikel=3.37d) genoemde voorwaarden die in het algemeen gelden voor het tegenwerpen van een vlucht- en vestigingsalternatief, in de individuele zaak van de vreemdeling in ieder geval de volgende aanknopingspunten:
+Tevens neemt de IND in zijn algemeenheid binnenlands beschermingsalternatief aan, als de vreemdeling onder naar plaatselijke maatstaven gemeten redelijke omstandigheden minstens zes maanden voorafgaand aan zijn vertrek heeft verbleven in:
 
 ### 25.1. Besluitmoratorium
 
@@ -4919,7 +4919,7 @@ De IND werpt ten aanzien van LHBT’s terughoudend een vlucht- of vestigingsalte
 
 ### 24.3.2. Risicogroepen in de zin van paragraaf C2/3.2 Vc
 
-### 25. Het asielbeleid ten aanzien van Sri Lanka
+### 24.4.1. Uitzonderlijke situatie in de zin van paragraaf C2/3.3 Vc
 
 In Somalië is geen sprake van systematische blootstelling van een specifieke groep aan ernstige schade.
 
@@ -4929,7 +4929,7 @@ Ten aanzien van Somalië geldt een besluit in de zin van [artikel 45, vierde lid
 
 ### 24.5.1. Bescherming door autoriteiten en/of internationale organisaties in de zin van paragraaf C2/3.4 Vc
 
-De IND neemt in ieder geval aan dat het voor de volgende categorieën in Somalië (inclusief Noord-Somalië) niet mogelijk is de bescherming van de autoriteiten of internationale organisaties te verkrijgen:
+De IND neemt in ieder geval aan dat het voor de volgende niet mogelijk is de bescherming van de autoriteiten of internationale organisaties te verkrijgen:
 
 ### 24.5.2. Vlucht- en vestigingsalternatief in de zin van paragraaf C2/3.4 Vc
 
@@ -5007,7 +5007,7 @@ De IND merkt uitsluitend aan als kwetsbare minderheidsgroep:
 
 ### 23.8. Bijzonderheden
 
-### 24.3.1. Groepsvervolging in de zin van paragraaf C2/3.2 Vc
+### 24.3. Vervolging in de zin van het Vluchtelingenverdrag
 
 ### 24.8. Bijzonderheden
 
@@ -5313,7 +5313,7 @@ Geen bijzonderheden.
 
 ### 24.3.2. Risicogroepen in de zin van paragraaf C2/3.2 Vc
 
-### 24.4.1. Uitzonderlijke situatie in de zin van paragraaf C2/3.3 Vc
+### 24.2. Artikel 1F Vluchtelingenverdrag
 
 ### 24.5. Bescherming
 
