@@ -4,7 +4,7 @@ identifier: "BWBR0038973"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2021-01-01"
-last_updated: "2016-01-18"
+last_updated: "2016-11-06"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0038973"
 soort: "ministeriele-regeling"
@@ -76,11 +76,9 @@ Dit onderdeel is nog niet inwerking getreden
 
 Wijzigt de Algemene douaneregeling.
 
-Dit onderdeel is nog niet inwerking getreden
-
 ##### Artikel IX
 
-Dit onderdeel is nog niet inwerking getreden
+Voor de toepassing van artikel 12 van Gedelegeerde Verordening (EU) 2016/1237 van de Commissie van 18 mei 2016 tot aanvulling van Verordening (EU) nr. 1308/2013 van het Europees Parlement en de Raad wat betreft de uitvoeringsbepalingen voor het stelsel van invoer- en uitvoercertificaten en tot aanvulling van Verordening (EU) nr. 1306/2013 van het Europees Parlement en de Raad wat betreft de voorschriften inzake de vrijgave en de verbeurdverklaring van voor dergelijke certificaten gestelde zekerheden, tot wijziging van Verordeningen (EG) nr. 2535/2001, (EG) nr. 1342/2003, (EG) nr. 2336/2003, (EG) nr. 951/2006, (EG) nr. 341/2007 en (EG) nr. 382/2008 van de Commissie en tot intrekking van Verordeningen (EG) nr. 2390/98, (EG) nr. 1345/2005, (EG) nr. 376/2008 en (EG) nr. 507/2008 van de Commissie (PbEU 2016, L 206) blijven de [artikelen 1:2](https://wetten.overheid.nl/jci1.3:c:BWBR0024291&artikel=1:2), [3:1](https://wetten.overheid.nl/jci1.3:c:BWBR0024291&artikel=3:1), [3:2](https://wetten.overheid.nl/jci1.3:c:BWBR0024291&artikel=3:2), [3:4 tot en met 3:8](https://wetten.overheid.nl/jci1.3:c:BWBR0024291&artikel=3:4), [3:13a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024291&artikel=3:13a), [3:13b](https://wetten.overheid.nl/jci1.3:c:BWBR0024291&artikel=3:13b), [3:13c](https://wetten.overheid.nl/jci1.3:c:BWBR0024291&artikel=3:13c), [3:13e](https://wetten.overheid.nl/jci1.3:c:BWBR0024291&artikel=3:13e), [3:13f](https://wetten.overheid.nl/jci1.3:c:BWBR0024291&artikel=3:13f) en [3:16c van de Algemene douaneregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0024291&artikel=3:16c), zoals die artikelen luidden op 5 november 2016, van toepassing.
 
 ##### Artikel X
 
