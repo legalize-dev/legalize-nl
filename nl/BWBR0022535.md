@@ -4,7 +4,7 @@ identifier: "BWBR0022535"
 country: "nl"
 rank: "amvb"
 publication_date: "2023-12-29"
-last_updated: "2014-07-01"
+last_updated: "2016-11-08"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0022535"
 soort: "AMvB"
@@ -58,17 +58,13 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
 - –. verordening (EG) 834/2007: verordening (EG) nr. 834/2007 van de Raad van 28 juni 2007 inzake de biologische productie en de etikettering van biologische producten en tot intrekking van Verordening (EEG) nr. 2092/91 (PbEU L 189);
 
-- –. verordening (EG) 2257/94: verordening (EG) nr. 2257/94 van de Commissie van 16 september 1994 tot vaststelling van kwaliteitsnormen voor bananen (PbEG L 245);
-
-- –. verordening (EG) 2898/95: verordening (EG) nr. 2898/95 van de Commissie van 15 december 1995 houdende voorschriften inzake de controle op de naleving van de kwaliteitsnormen in de sector bananen (PbEG L 304);
-
-- –. verordening (EG) 1666/99: verordening (EG) nr. 1666/1999 van de Commissie van 28 juli 1999 houdende toepassingsbepalingen van Verordening (EG) nr. 2201/96 van de Raad betreffende de minimumkenmerken voor het in de handel brengen van bepaalde krenten- en rozijnenvariëteiten (PbEG L 197);
+- –. verordening (EU) 1333/2011: uitvoeringsverordening (EU) nr. 1333/2011 van de Commissie van 19 december 2011 tot vaststelling van handelsnormen voor bananen, voorschriften inzake de controle op de naleving van die handelsnormen en voorschriften betreffende de mededelingen in de sector bananen (PbEU 2011, L 336);
 
 - –. verordening (EU) 543/2011: uitvoeringsverordening (EU) nr. 543/2011 van de Commissie van 7 juni 2011 tot vaststelling van nadere bepalingen voor de toepassing van Verordening (EG) nr. 1234/2007 van de Raad, wat de sectoren groenten en fruit en verwerkte groenten en fruit betreft (PbEU 2011, L 157);
 
 - –. verordening (EU) 1151/2012: verordening (EU) nr. 1151/2012 van het Europees Parlement en de Raad van 21 november 2012 inzake kwaliteitsregelingen voor landbouwproducten en levensmiddelen (PbEU 2012, L 343);
 
-- –. verordening (EG) 1234/2007: verordening (EG) nr. 1234/2007 van de Raad van 22 oktober 2007 houdende een gemeenschappelijke ordening van de landbouwmarkten en specifieke bepalingen voor een aantal landbouwproducten (PbEU L 299);
+- –. verordening (EU) 1308/2013: verordening (EU) nr. 1308/2013 van het Europees Parlement en de Raad van 17 december 2013 tot vaststelling van een gemeenschappelijke ordening van de markten voor landbouwproducten en tot intrekking van de Verordeningen (EEG) nr. 922/72, (EEG) nr. 234/79, (EG) nr. 1037/2001 en (EG) nr. 1234/2007 van de Raad (PbEU 2013, L 347);
 
 - –. richtlijn 98/56/EG: richtlijn nr. 1998/56/EG van de Raad van de Europese Unie van 20 juli 1998 betreffende het in de handel brengen van teeltmateriaal van siergewassen (PbEG L 226);
 
@@ -82,11 +78,9 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
 - –. teeltmateriaal van bloembollen: teeltmateriaal als bedoeld in artikel 2, eerste lid, van richtlijn 98/56/EG, van bloembollen;
 
-- –. groenten en fruit: groenten en fruit als bedoeld in artikel 1, eerste lid, onderdeel i, van verordening (EG) 1234/2007;
+- –. groenten en fruit: groenten en fruit als bedoeld in artikel 1, tweede lid, onderdeel i, van verordening (EU) 1308/2013;
 
-- –. bananen: bananen als bedoeld in artikel 1, eerste lid, onderdeel k, van verordening (EG) 1234/2007;
-
-- –. krenten en rozijnen: krenten en rozijnen als bedoeld in de bijlage, onder 1, van verordening (EG) 1666/99;
+- –. bananen: bananen als bedoeld in artikel 1, tweede lid, onderdeel k, van verordening (EU) 1308/2013;
 
 - –. kwaliteitsaanduidingen: geografische aanduidingen, geografische oorsprongsbenamingen, gegarandeerde traditionele specialiteiten als bedoeld in artikel 18 van verordening (EU) 1151/2012 en facultatieve kwaliteitsaanduidingen als bedoeld in titel IV van verordening (EU) 1151/2012;
 
@@ -114,11 +108,9 @@ Bij het in de handel brengen of etiketteren van of reclame maken voor producten 
 
 ##### Artikel 4
 
-1. Groenten en fruit worden slechts in de handel gebracht indien voldaan is artikel 113 bis en aan de krachtens artikel 113, eerste lid, onderdeel b, van verordening (EG) 1234/2007 vastgestelde voorschriften en de bij of krachtens dit besluit gestelde regels.
+1. Groenten en fruit worden slechts in de handel gebracht indien voldaan is aan artikel 76, eerste en derde lid, van verordening (EU) 1308/2013, aan artikel 3, eerste lid, van verordening (EU) 543/2011, aan de krachtens de artikelen 75, tweede en zesde lid, en 76, vierde lid, van verordening (EU) 1308/2013 voor groenten en fruit vastgestelde voorschriften en de bij of krachtens dit besluit gestelde regels.
 
-2. Bananen worden slechts in de handel gebracht indien voldaan is aan de krachtens artikel 113, eerste lid onderdeel d en tweede lid, van verordening (EG) 1234/2007 vastgestelde voorschriften en bij of krachtens dit besluit gestelde regels.
-
-3. Krenten en rozijnen worden slechts in de handel gebracht indien voldaan is aan artikel 1 van verordening (EG) 1666/99 en bij of krachtens dit besluit gestelde regels.
+2. Bananen worden slechts in de handel gebracht indien voldaan is aan artikel 1 van verordening (EU) 1333/2011, aan de voor bananen krachtens artikel 75, tweede en zesde lid, van verordening (EU) 1308/2013 vastgestelde voorschriften en de bij of krachtens dit besluit gestelde regels.
 
 ##### Artikel 5
 
@@ -142,7 +134,7 @@ Teeltmateriaal van bloembollen wordt slechts in de handel gebracht indien voldaa
 
 ##### Artikel 10
 
-1. Onze Minister kan nadere regels stellen voor zover dat voor een goede uitvoering van de onderwerpen van de in de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0022535&artikel=2&z=2014-07-01&g=2014-07-01), [4](https://wetten.overheid.nl/jci1.3:c:BWBR0022535&artikel=4&z=2014-07-01&g=2014-07-01) en [6](https://wetten.overheid.nl/jci1.3:c:BWBR0022535&artikel=6&z=2014-07-01&g=2014-07-01) genoemde EU-verordeningen en voor de in [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0022535&artikel=9&z=2014-07-01&g=2014-07-01) genoemde EU-richtlijn noodzakelijk is.
+1. Onze Minister kan nadere regels stellen voor zover dat voor een goede uitvoering van de onderwerpen van de in de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0022535&artikel=2&z=2016-11-08&g=2016-11-08), [4](https://wetten.overheid.nl/jci1.3:c:BWBR0022535&artikel=4&z=2016-11-08&g=2016-11-08) en [6](https://wetten.overheid.nl/jci1.3:c:BWBR0022535&artikel=6&z=2016-11-08&g=2016-11-08) genoemde EU-verordeningen en voor de in [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0022535&artikel=9&z=2016-11-08&g=2016-11-08) genoemde EU-richtlijn noodzakelijk is.
 
 2. De regels bedoeld in het eerste lid kunnen betrekking hebben op:
 
@@ -154,7 +146,7 @@ Teeltmateriaal van bloembollen wordt slechts in de handel gebracht indien voldaa
 
 - d. het uitreiken, aanbrengen, vervaardigen, voorhanden en in voorraad hebben, alsmede het afleveren en gebruiken van bewijsstukken en merken;
 
-- e. de nadere aanduiding van het begrip bloembollen, bedoeld in [artikel 1, onder r](https://wetten.overheid.nl/jci1.3:c:BWBR0022535&artikel=1&z=2014-07-01&g=2014-07-01).
+- e. de nadere aanduiding van het begrip bloembollen.
 
 3. Onze Minister kan vrijstelling en, op aanvraag, ontheffing verlenen van het bepaalde bij of krachtens dit besluit voor zover het belang van een goede uitvoering van de in het eerste lid bedoelde EU-verordeningen en EU-richtlijn zich daartegen niet verzet.
 
@@ -186,9 +178,9 @@ Vervallen
 
 - a. het toezicht op de naleving van bij of krachtens dit besluit gestelde regels ten aanzien van groenten en fruit, bananen en krenten en rozijnen;
 
-- b. het uitreiken van bewijsstukken, bedoeld in artikel 14, eerste lid, van verordening (EU) 543/2011, indien is voldaan aan artikel 113 bis, en de handelsnormen, gesteld krachtens artikel 113, eerste lid, onderdeel b, van verordening (EG) 1234/2007;
+- b. het uitreiken van bewijsstukken, bedoeld in artikel 14, eerste lid, van verordening (EU) 543/2011, indien is voldaan aan artikel 76, eerste en derde lid, en de handelsnormen, gesteld krachtens artikel 75, tweede en zesde lid, van verordening (EU) 1308/2013;
 
-- c. de uitvoering van de registratie, bedoeld in artikel 7, tweede lid, van verordening (EG) 2898/95;
+- c. de uitvoering van de registratie, bedoeld in artikel 9, tweede lid, van verordening (EU) 1333/2011;
 
 - d. overige uitvoeringshandelingen die noodzakelijk zijn voor een goede uitvoering van de onder b en c bedoelde verordeningen.
 
@@ -224,11 +216,7 @@ Vervallen
 
 ##### Artikel 18
 
-Bij ministeriële regeling kan ter uitvoering van dit besluit medewerking worden gevorderd van:
-
-- a. het bestuur van het Hoofdproductschap Akkerbouwproducten;
-
-- b. het bestuur van het Productschap Tuinbouw.
+Vervallen
 
 ##### Artikel 19
 
