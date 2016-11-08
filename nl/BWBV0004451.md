@@ -4,7 +4,7 @@ identifier: "BWBV0004451"
 country: "nl"
 rank: "verdrag"
 publication_date: "2016-11-08"
-last_updated: "1970-09-22"
+last_updated: "2016-11-08"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBV0004451"
 soort: "verdrag"
@@ -32,9 +32,15 @@ entry_into_force: "1970-09-22"
 ---
 # Verdrag betreffende de Internationale Hydrografische Organisatie
 
-De Regeringen die Partij zijn bij dit Verdrag,
+De Staten die Partij zijn bij dit Verdrag
 
 Overwegende dat het Internationale Hydrografische Bureau in juni 1921 werd opgericht ten einde bij te dragen tot het vergemakkelijken en veiliger maken van de navigatie over de hele wereld door het verbeteren van zeekaarten en boekwerken;
+
+Overwegend dat de Internationale Hydrografische Organisatie een bevoegde internationale organisatie is, zoals bedoeld in het Verdrag van de Verenigde Naties inzake het recht van de zee, die de vaststelling van normen op mondiaal niveau coördineert voor de productie van hydrografische gegevens en het verlenen van hydrografische diensten en die de capaciteitsopbouw van nationale hydrografische diensten vereenvoudigt;
+
+Overwegend dat de Internationale Hydrografische Organisatie tot taak heeft te fungeren als de gezaghebbende hydrografische instantie die alle kuststaten en belanghebbende staten actief betrekt bij de bevordering van de maritieme veiligheid en efficiëntie en die de bescherming en het duurzame gebruik van het mariene milieu ondersteunt;
+
+Overwegend dat het de opdracht van de Internationale Hydrografische Organisatie is een mondiale omgeving te creëren waarin de Staten adequaat en tijdig hydrografische gegevens, producten en diensten verschaffen en het gebruik ervan op zo ruim mogelijke schaal waarborgen; en
 
 Verlangende op intergouvernementele basis samen te werken op het gebied der hydrografie;
 
@@ -46,107 +52,169 @@ Bij dezen wordt opgericht een Internationale Hydrografische Organisatie, hierna 
 
 ##### Artikel II
 
-De Organisatie heeft een raadgevend en zuiver technisch karakter. De Organisatie beoogt de volgende doeleinden:
+De Organisatie heeft een raadgevend en technisch karakter. De Organisatie beoogt:
 
-- (a). coördinatie van de werkzaamheden der nationale hydrografische diensten;
+- a. de toepassing van hydrografie ten behoeve van de veiligheid van de scheepvaart en alle overige mariene doelstellingen te stimuleren en het bewustzijn van het belang van hydrografie op mondiaal niveau te bevorderen;
 
-- (b). een zo groot mogelijke eenvormigheid van zeekaarten en boekwerken;
+- b. de mondiale dekking, beschikbaarheid en kwaliteit van hydrografische gegevens, informatie, producten en diensten te verbeteren en de toegang tot deze gegevens, informatie, producten en diensten te vergemakkelijken;
 
-- (c). de toepassing van betrouwbare en doelmatige methoden voor het uitvoeren en gebruik maken van hydrografische metingen;
+- c. de mondiale vaardigheden, capaciteit, opleiding, wetenschap en technieken op het gebied van hydrografie te verbeteren;
 
-- (d). ontwikkeling van de wetenschappen op het terrein der hydrografie en van de technieken die gebruikt worden bij de beschrijvende oceanografie.
+- d. de aanzet geven tot de ontwikkeling van internationale normen voor hydrografische gegevens, informatie, producten, diensten en technieken en deze te bevorderen en de grootst mogelijke uniformiteit bij de toepassing van die normen te bewerkstelligen;
+
+- e. Staten en internationale organisaties gezaghebbend en tijdig advies te verstrekken inzake alle hydrografische aangelegenheden;
+
+- f. de coördinatie van hydrografische activiteiten tussen de Lidstaten te vereenvoudigen; en
+
+- g. de samenwerking bij hydrografische activiteiten tussen Staten op regionale basis te bevorderen.
 
 ##### Artikel III
 
-Leden van de Organisatie zijn de Regeringen die Partij zijn bij dit Verdrag.
+De Lidstaten van de Organisatie zijn de Staten die Partij zijn bij dit Verdrag.
 
 ##### Artikel IV
 
-De Organisatie omvat:
+De Organisatie bestaat uit:
 
-- De Internationale Hydrografische Conferentie, hierna te noemen de Conferentie;
+- a. de Algemene Vergadering;
 
-- Het Internationale Hydrografische Bureau, hierna te noemen het Bureau, dat wordt geleid door de Bestuurscommissie.
+- b. de Raad;
+
+- c. de Financiële Commissie;
+
+- d. het Secretariaat; en
+
+- e. eventuele subsidiaire organen.
 
 ##### Artikel V
 
-De functies van de Conferentie omvatten:
+a. De Algemene Vergadering is het hoofdorgaan dat over alle bevoegdheden van de Organisatie beschikt, tenzij anders is bepaald in het Verdrag of tenzij de Algemene Vergadering bevoegdheden delegeert aan andere organen.
 
-- (a). het opstellen van algemene richtlijnen, het functioneren en de werkzaamheden van de Organisatie betreffende;
+b. De Algemene Vergadering omvat alle Lidstaten.
 
-- (b). het verkiezen van de leden van de Bestuurscommissie en van haar Voorzitter;
+c. De Algemene Vergadering komt eenmaal in de drie jaar in gewone zitting bijeen. Buitengewone zittingen van de Algemene Vergadering kunnen worden gehouden op verzoek van een Lidstaat, van de Raad of van de Secretaris-Generaal, op voorwaarde van goedkeuring door de meerderheid van de Lidstaten.
 
-- (c). het bestuderen van de aan haar door het Bureau voorgelegde rapporten;
+d. Een meerderheid van de Lidstaten vormt het quorum voor de zittingen van de Algemene Vergadering.
 
-- (d). het nemen van beslissingen met betrekking tot alle voorstellen van technische of administratieve aard die door de leden of door het Bureau worden ingediend;
+e. De Algemene Vergadering heeft de volgende functies:
 
-- (e). het goedkeuren van de begroting door een meerderheid van twee derden van de op de Conferentie vertegenwoordigde Lid-Staten;
+- (i) kiezen van haar voorzitter en vicevoorzitter;
 
-- (f). het aanvaarden, door een meerderheid van twee derden van de leden, van wijzigingen van het Algemeen Reglement en het Financieel Reglement;
+- (ii) vaststellen van haar eigen reglement van orde en dat van de Raad, van de Financiële Commissie en van eventuele subsidiaire organen van de Organisatie;
 
-- (g). het aanvaarden, door een meerderheid als genoemd in het voorgaande lid, van alle andere bijzondere reglementen, waarvan de totstandkoming noodzakelijk kan blijken, met name met betrekking tot de status van de bestuursleden en het personeel van het Bureau.
+- (iii) in overeenstemming met het Algemeen Reglement kiezen van de Secretaris-Generaal en de Directeuren en het vaststellen van hun arbeidsvoorwaarden;
+
+- (iv) instellen van subsidiaire organen;
+
+- (v) het algemene beleid, de strategie en het activiteitenprogramma van de Organisatie vaststellen;
+
+- (vi) bestuderen van rapporten die haar door de Raad worden voorgelegd;
+
+- (vii) bestuderen van de opmerkingen en aanbevelingen die haar worden voorgelegd door Lidstaten, de Raad of de Secretaris-Generaal;
+
+- (viii) beslissen over voorstellen die haar worden voorgelegd door Lidstaten, de Raad of de Secretaris-Generaal;
+
+- (ix) toetsen van de uitgaven, goedkeuren van de boeken en vaststellen van de financiële regelingen van de Organisatie;
+
+- (x) goedkeuren van de driejaarlijkse begroting van de Organisatie;
+
+- (xi) beslissen over operationele diensten;
+
+- (xii) beslissen over andere aangelegenheden op het werkterrein van de Organisatie; en
+
+- (xiii) waar mogelijk en noodzakelijk delegeren van verantwoordelijkheden aan de Raad.
 
 ##### Artikel VI
 
-1. De Conferentie is samengesteld uit vertegenwoordigers van de leden. Zij komt eenmaal in de vijf jaar in gewone zitting bijeen. Een buitengewone zitting van de Conferentie kan worden gehouden op verzoek van een lid of van het Bureau, behoudens goedkeuring door de meerderheid van de leden.
+a. Een vierde van de Lidstaten, maar ten minste dertig, nemen zitting in de Raad, waarvan twee derde op basis van hun regio en de resterende een derde op basis van de hydrografische belangen die worden omschreven in het Algemeen Reglement.
 
-2. De Conferentie wordt, door middel van een aankondiging die ten minste zes maanden van te voren worden verzonden, door het Bureau bijeengeroepen. Met de aankondiging wordt een voorlopige agenda toegezonden.
+b. De uitgangspunten voor de samenstelling van de Raad worden neergelegd in het Algemeen Reglement.
 
-3. De Conferentie kiest haar President en Vice-President.
+c. De leden van de Raad bekleden hun functie tot het eind van de volgende gewone zitting van de Algemene Vergadering.
 
-4. Ieder lid heeft één stem. Wat betreft het stemmen over de in artikel V (b) genoemde zaken heeft ieder lid echter een aantal stemmen dat wordt vastgesteld volgens een verdeelsleutel die uitgaat van de tonnage van zijn vloten.
+d. Het quorum wordt gevormd door twee derde van de leden van de Raad.
 
-5. Beslissingen van de Conferentie worden genomen met een volstrekte meerderheid van stemmen van de op de Conferentie vertegenwoordigde leden, tenzij dit Verdrag anders bepaalt. Indien het aantal stemmen voor en het aantal stemmen tegen gelijk zijn, is de President van de Conferentie gerechtigd een beslissing te nemen. Indien het resoluties betreft die zullen worden opgenomen in de Lijst van Technische Resoluties, dient de meerderheid in ieder geval mede te omvatten de stemmen voor van niet minder dan een derde der leden.
+e. De Raad komt ten minste eenmaal per jaar bijeen.
 
-6. Tussen de zittingen van de Conferentie kan het Bureau de leden schriftelijk raadplegen over zaken de technische functionering van de Organisatie betreffende.
+f. De Lidstaten die geen lid zijn van de Raad kunnen deelnemen aan de vergadering van de Raad, maar zijn niet gerechtigd een stem uit te brengen.
 
-De gang van zaken met betrekking tot het stemmen is dezelfde als bedoeld in het vijfde lid van dit artikel, zij het dat in dit geval de meerderheid wordt bepaald op basis van het totale aantal leden van de Organisatie.
+g. De Raad heeft de volgende functies:
 
-7. De Conferentie stelt haar eigen Commissies in, met inbegrip van de Financiële Commissie genoemd in artikel VII.
+- i. kiezen van de voorzitter en vicevoorzitter, die hun functie bekleden tot het eind van de volgende gewone zitting van de Algemene Vergadering;
+
+- ii. uitoefenen van de verantwoordelijkheden die de Algemene Vergadering aan de Raad kan delegeren;
+
+- iii. gedurende de tijdvakken tussen de zittingen van de Algemene Vergadering coördineren van de activiteiten van de Organisatie binnen het kader van haar strategie, activiteitenprogramma en financiële regelingen zoals besloten door de Algemene Vergadering;
+
+- iv. tijdens elke gewone zitting aan de Algemene Vergadering rapporteren over de werkzaamheden van de Organisatie;
+
+- v. met ondersteuning van de Secretaris-Generaal voorbereiden van voorstellen betreffende de algemene strategie en het activiteitenprogramma voor aanneming door de Algemene Vergadering;
+
+- vi. bestuderen van de jaarrekening en de voorlopige begroting die zijn opgesteld door de Secretaris-Generaal en deze ter goedkeuring met commentaar en aanbevelingen voor toewijzingen voorleggen aan de Algemene Vergadering;
+
+- vii. toetsen van voorstellen die bij hem zijn ingediend door de subsidiaire organen en deze:
+
+- doorverwijzen naar de Algemene Vergadering voor alle aangelegenheden waarover de Algemene Vergadering dient te beslissen;
+
+- terugverwijzen naar het subsidiaire orgaan indien dat noodzakelijk wordt geacht; of
+
+- doorverwijzen naar de Lidstaten voor aanneming via een schriftelijke procedure;
+
+- viii. voorstellen aan de Algemene Vergadering doen voor de oprichting van subsidiaire organen; en
+
+- ix. toetsen van ontwerpovereenkomsten tussen de Organisatie en andere organisaties en deze ter goedkeuring voorleggen aan de Algemene Vergadering.
 
 ##### Artikel VII
 
-1. Het toezicht op het financiële beheer van de Organisatie wordt uitgeoefend door een Financiële Commissie, waarin ieder lid vertegenwoordigd kan zijn door één afgevaardigde.
+a. De Financiële Commissie staat voor alle Lidstaten open. Elke Lidstaat heeft een stem.
 
-2. De Commissie komt bijeen tijdens de zittingen van de Conferentie. Zij kan in buitengewone zitting bijeenkomen.
+b. De Financiële Commissie wordt gewoonlijk tegelijk met elke gewone zitting van de Algemene Vergadering bijeengeroepen en kan zo nodig aanvullende vergaderingen beleggen.
+
+c. De taken van de Financiële Commissie omvatten het toetsen van de jaarrekening, de voorlopige begroting en rapporten over administratieve aangelegenheden die zijn opgesteld door de Secretaris-Generaal en haar commentaar en aanbevelingen daaromtrent presenteren aan de Algemene Vergadering.
+
+d. De Financiële Commissie kiest haar voorzitter en vice-voorzitter.
 
 ##### Artikel VIII
 
-Ter verwezenlijking van de doelstellingen omschreven in artikel II behoort het in het bijzonder tot de taak van het Bureau:
+a. Het Secretariaat bestaat uit een Secretaris-Generaal, Directeuren en andere medewerkers die de Organisatie mogelijk behoeft.
 
-- (a). nauwe en duurzame betrekkingen tot stand te brengen tussen de nationale hydrografische diensten;
+b. De Secretaris-Generaal houdt de archieven bij voor zover dat nodig is voor de efficiënte uitvoering van de werkzaamheden van de Organisatie en draagt zorg voor het opstellen, verzamelen en rondzenden van de benodigde stukken.
 
-- (b). alle zaken de hydrografie en de daarmede verwante takken van wetenschap en techniek betreffende te bestuderen en de noodzakelijke documenten te verzamelen;
+c. De Secretaris-Generaal is de hoogste bestuurlijke ambtenaar van de Organisatie.
 
-- (c). de uitwisseling van zeekaarten en boekwerken tussen de hydrografische diensten van de leden te bevorderen;
+d. De Secretaris-Generaal:
 
-- (d). de daarvoor in aanmerking komende documenten te verspreiden;
+- i. stelt jaarlijks de jaarrekening op, alsmede de voorlopige begroting voor een tijdvak van drie jaar met daarin de ramingen per jaar afzonderlijk en legt deze voor aan de Financiële Commissie en de Raad; en
 
-- (e). op verzoek voorlichting en advies te geven, met name aan landen die doende zijn hun hydrografische dienst op te zetten of uit te breiden;
+- ii. houdt de Lidstaten op de hoogte van de activiteiten van de Organisatie.
 
-- (f). de coördinatie van hydrografische metingen met daarmede verband houdende oceanografische werkzaamheden te bevorderen;
+e. De Secretaris-Generaal verricht andere taken die kunnen worden opgedragen door het Verdrag, de Algemene Vergadering of de Raad.
 
-- (g). de toepassing van oceanografische kennis uit te breiden en te vereenvoudigen, ten behoeve van zeevaarders;
-
-- (h). met internationale organisaties en wetenschappelijke instellingen die verwante doeleinden nastreven samen te werken.
+f. Bij de vervulling van hun werkzaamheden mogen de Secretaris-Generaal, de Directeuren en de medewerkers geen instructies vragen of ontvangen van een Lidstaat of van een andere autoriteit buiten de Organisatie. Zij onthouden zich van activiteiten die onverenigbaar kunnen zijn met hun hoedanigheid van internationale functionarissen. Iedere Lidstaat verbindt zich ertoe het zuiver internationale karakter van de taken van de Secretaris-Generaal, de Directeuren en de medewerkers te respecteren en niet te trachten hen te beïnvloeden bij de vervulling van hun taken.
 
 ##### Artikel IX
 
-Het Bureau omvat de Bestuurscommissie en het voor de Organisatie benodigde technische en administratieve personeel.
+Indien geen beslissingen kunnen worden genomen met eenparigheid van stemmen, zijn de volgende bepalingen van toepassing:
+
+- a. Tenzij anders bepaald in dit Verdrag, heeft elke Lidstaat een stem.
+
+- b. Voor de verkiezing van de Secretaris-Generaal en de Directeuren, heeft elke Lidstaat een aantal stemmen gebaseerd op de tonnage van zijn vloot.
+
+- c. Tenzij anders bepaald in dit Verdrag, worden beslissingen genomen met een gewone meerderheid van de Lidstaten die aanwezig zijn en hun stem uitbrengen en indien de stemmen staken, beslist de voorzitter.
+
+- d. Beslissingen over aangelegenheden die verband houden met het beleid of de financiën van de Organisatie, met inbegrip van wijzigingen van het Algemeen Reglement of het Financieel Reglement worden genomen met een tweederdemeerderheid van de Lidstaten die aanwezig zijn en hun stem uitbrengen.
+
+- e. In (c) en (d) van dit artikel en artikel XXI (b) wordt onder de zinsnede „Lidstaten die aanwezig zijn en hun stem uitbrengen” verstaan Lidstaten die aanwezig zijn en een stem voor of tegen uitbrengen. Lidstaten die zich van stemming onthouden worden geacht niet te hebben gestemd.
+
+- f. Bij voorlegging aan de Lidstaten in overeenstemming met artikel VI (g) (vii), wordt de beslissing genomen door een meerderheid van de Lidstaten die een stem uitbrengen waarbij ten minste een derde van alle Lidstaten vóór moet stemmen.
 
 ##### Artikel X
 
-1. De Bestuurscommissie beheert het Bureau overeenkomstig de bepalingen van dit Verdrag en van de Reglementen en overeenkomstig de richtlijnen zoals die door de Conferentie zijn opgesteld.
-
-2. De Bestuurscommissie bestaat uit drie leden van verschillende nationaliteit die worden gekozen door de Conferentie die vervolgens een van hen kiest voor het vervullen van de functie van Voorzitter van de Commissie.
-
-De ambtstermijn van de Bestuurscommissie is vijf jaar. Indien een functie van bestuurslid openvalt in het tijdvak tussen twee Conferenties, kan er schriftelijk een tussentijdse verkiezing worden gehouden, zoals bepaald in het Algemeen Reglement.
-
-3. De Voorzitter van de Bestuurscommissie vertegenwoordigt de Organisatie.
+Ten behoeve van aangelegenheden die tot haar werkterrein behoren kan de Organisatie samenwerken met internationale organisaties wier belangen en activiteiten verband houden met het doel van de Organisatie.
 
 ##### Artikel XI
 
-De werking van de Organisatie wordt uitvoerig beschreven in het Algemeen Reglement en het Financieel Reglement, die aan dit Verdrag zijn toegevoegd, doch er geen integrerend deel van uitmaken.
+Het functioneren van de Organisatie wordt nader vastgelegd in het Algemeen Reglement en het Financieel Reglement, die bij dit Verdrag zijn gevoegd, maar er geen integrerend deel van uitmaken. In geval van verschillen tussen dit Verdrag en het Algemeen Reglement of het Financieel Reglement is het Verdrag doorslaggevend.
 
 ##### Artikel XII
 
@@ -154,27 +222,43 @@ De voertalen van de Organisatie zijn Engels en Frans.
 
 ##### Artikel XIII
 
-De Organisatie heeft rechtspersoonlijkheid. Op het grondgebied van elk van haar leden geniet zij, onder voorbehoud van goedkeuring door het betrokken lid, de voorrechten en immuniteiten die nodig zijn voor de uitoefening van haar functies en de verwezenlijking van haar doelstellingen.
+De Organisatie heeft rechtspersoonlijkheid. Op het grondgebied van elk van haar Lidstaten geniet zij, onder voorbehoud van goedkeuring van de desbetreffende Lidstaat, de voorrechten en immuniteiten die nodig kunnen zijn voor de uitoefening van haar taken en de verwezenlijking van haar doelstellingen.
 
 ##### Artikel XIV
 
 De voor het functioneren van de Organisatie te maken onkosten worden bestreden uit:
 
-- (a). de normale jaarlijkse bijdragen van de leden volgens een verdeelsleutel die uitgaat van de tonnage van hun vloten;
+- (a). de normale jaarlijkse bijdragen van de Lidstaten volgens een verdeelsleutel die uitgaat van de tonnage van hun vloten;
 
-- (b). giften, legaten, bijdragen en andere bronnen, met goedkeuring van de Financiële Commissie.
+- (b). giften, legaten, bijdragen en andere bronnen, met goedkeuring van de Algemene Vergadering.
 
 ##### Artikel XV
 
-Een lid dat twee jaar ten achter is met de betaling van zijn bijdragen worden alle rechten en voorrechten waarop de leden krachtens het Verdrag en de Reglementen aanspraak kunnen maken ontzegd totdat de achterstallige bijdragen zijn betaald.
+Een Lidstaat die twee jaar achter is met de betaling van zijn bijdragen worden het volledige stemrecht en de voorrechten waarop Lidstaten krachtens het Verdrag en de Reglementen aanspraak kunnen maken ontzegd totdat de achterstallige bijdragen zijn betaald.
 
 ##### Artikel XVI
 
-De begroting van de Organisatie wordt opgesteld door de Bestuurscommissie, beoordeeld door de Financiële Commissie en goedgekeurd door de Conferentie.
+a. De Regering van Zijne Doorluchtige Hoogheid de Prins van Monaco treedt op als Depositaris.
+
+b. Het oorspronkelijke exemplaar van het Verdrag wordt beheerd door de Depositaris, die gewaarmerkte afschriften ervan doet toekomen aan alle Staten die het hebben ondertekend of ertoe zijn toegetreden.
+
+c. De Depositaris:
+
+- i. stelt de Secretaris-Generaal en alle Lidstaten in kennis van verzoeken om toetreding die hij ontvangt van de Staten bedoeld in artikel XX (b); en
+
+- ii. stelt de Secretaris-Generaal en alle Staten die dit Verdrag hebben ondertekend of ertoe zijn toegetreden in kennis van:
+
+- • iedere nieuwe ondertekening of nederlegging van een akte van bekrachtiging, aanvaarding, goedkeuring of toetreding, alsmede de datum ervan;
+
+- • de datum waarop dit Verdrag in werking treedt of eventuele wijzigingen ervan; en
+
+- • de nederlegging van elke akte van opzegging van het Verdrag, alsmede de datum van ontvangst ervan en de datum waarop de opzegging van kracht wordt.
+
+Zodra een wijziging van dit Verdrag in werking treedt, wordt zij door de Depositaris gepubliceerd en geregistreerd bij het Secretariaat van de Verenigde Naties in overeenstemming met artikel 102 van het Handvest van de Verenigde Naties.
 
 ##### Artikel XVII
 
-Elk geschil betreffende de uitlegging of de toepassing van dit Verdrag dat niet door onderhandeling of door tussenkomst van de Bestuurscommissie wordt geregeld, wordt op verzoek van een der bij het geschil betrokken partijen voorgelegd aan een scheidsman, die door de President van het Internationaal Gerechtshof wordt aangewezen.
+Elk geschil betreffende de uitlegging of de toepassing van dit Verdrag dat niet door onderhandeling of door tussenkomst van de Secretaris-Generaal van de Organisatie wordt geregeld, wordt op verzoek van een der bij het geschil betrokken partijen voorgelegd aan een scheidsman, die door de President van het Internationaal Gerechtshof wordt aangewezen.
 
 ##### Artikel XVIII
 
@@ -198,21 +282,21 @@ Elk geschil betreffende de uitlegging of de toepassing van dit Verdrag dat niet 
 
 ##### Artikel XX
 
-Na zijn inwerkingtreding staat dit Verdrag open voor toetreding door de Regering van iedere maritieme Staat die een daartoe strekkend verzoek richt aan de Regering van het Vorstendom Monaco, onder vermelding van de tonnage van zijn vloten, en wiens toetreding wordt goedgekeurd door twee derden van de leden. Een zodanig bericht van goedkeuring wordt door de Regering van het Vorstendom Monaco ter kennis gebracht van de betrokken Regering. Voor die Regering treedt het Verdrag in werking op de datum waarop zij haar akte van toetreding nederlegt bij de Regering van het Vorstendom Monaco, die daarvan kennis geeft aan de leden en aan de Voorzitter van de Bestuurscommissie.
+a. Dit Verdrag staat open voor toetreding door elke Staat die lid is van de Verenigde Naties. Het Verdrag treedt voor die Staat in werking op de datum waarop hij zijn akte van toetreding nederlegt bij de Depositaris, die de Secretaris-Generaal en alle Lidstaten daarvan in kennis stelt.
+
+b. Een Staat die geen lid is van de Verenigde Naties kan uitsluitend tot dit Verdrag toetreden na een verzoek aan de Depositaris en op voorwaarde dat zijn verzoek door twee derde van de Lidstaten wordt goedgekeurd. Het Verdrag treedt voor die Staat in werking op de datum waarop hij zijn akte van toetreding nederlegt bij de Depositaris, die de Secretaris-Generaal en alle Lidstaten daarvan in kennis stelt.
 
 ##### Artikel XXI
 
-1. Iedere Verdragsluitende Partij kan voorstellen doen tot wijziging van dit Verdrag.
+a. Elke Lidstaat kan wijzigingen van dit Verdrag voorstellen. Voorstellen voor wijzigingen worden uiterlijk zes maanden voor de volgende zitting van de Algemene Vergadering gezonden aan de Secretaris-Generaal.
 
-2. Voorstellen tot wijziging worden door de Conferentie bestudeerd en beslissingen daaromtrent worden genomen met een meerderheid van twee derden van de leden die op de Conferentie zijn vertegenwoordigd. Wanneer een voorgestelde wijziging door de Conferentie is goedgekeurd, verzoekt de Voorzitter van de Bestuurscommissie de Regering van het Vorstendom Monaco deze ter kennis te brengen van alle Verdragsluitende Partijen.
+b. Voorstellen voor wijzigingen worden door de Algemene Vergadering bestudeerd die erover beslist met een tweederdemeerderheid van de Lidstaten die aanwezig zijn en hun stem uitbrengen. Zodra een voorgestelde wijziging door de Algemene Vergadering is goedgekeurd, verzoekt de Secretaris-Generaal van de Organisatie de Depositaris deze aan alle Lidstaten toe te zenden.
 
-3. De wijziging wordt drie maanden nadat van twee derden van het aantal Verdragsluitende Partijen een kennisgeving van goedkeuring door de Regering van het Vorstendom Monaco is ontvangen, voor alle Verdragsluitende Partijen van kracht. De Regering van het Vorstendom Monaco stelt de Verdragsluitende Partijen en de Voorzitter van de Bestuurscommissie daarvan in kennis, onder vermelding van de datum waarop de wijziging van kracht wordt.
+c. De wijziging wordt van kracht drie maanden nadat de Depositaris de kennisgevingen van twee derde van de Lidstaten heeft ontvangen.
 
 ##### Artikel XXII
 
-1. Na verloop van een tijdvak van vijf jaar, te rekenen van de datum van zijn inwerkingtreding, kan dit Verdrag door elke Verdragsluitende Partij, met inachtneming van een opzeggingstermijn van ten minste één jaar, door middel van een aan de Regering van het Vorstendom Monaco gerichte kennisgeving, worden opgezegd. De opzegging wordt van kracht op de eerste januari volgende op de datum waarop de opzeggingstermijn afloopt en houdt in dat de betrokken Regering van alle aan het lidmaatschap van de Organisatie verbonden rechten en voordelen afstand doet.
-
-2. De Regering van het Vorstendom Monaco stelt de Verdragsluitende Partijen en de Voorzitter van de Bestuurscommissie in kennis van iedere mededeling van opzegging die zij ontvangt.
+Na het verstrijken van een tijdvak van vijf jaar te rekenen vanaf de datum van inwerkingtreding, kan dit Verdrag door elke Verdragsluitende Partij door middel van een kennisgeving aan de Depositaris worden opgezegd met inachtneming van een opzegtermijn van ten minste een jaar. De opzegging wordt van kracht op 1 januari na het verstrijken van de opzegtermijn en behelst dat de Staat afstand doet van alle rechten en voorrechten van het lidmaatschap van de Organisatie.
 
 ##### Artikel XXIII
 
