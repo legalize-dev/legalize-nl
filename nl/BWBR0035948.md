@@ -4,7 +4,7 @@ identifier: "BWBR0035948"
 country: "nl"
 rank: "amvb"
 publication_date: "2026-04-01"
-last_updated: "2016-08-01"
+last_updated: "2016-11-09"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0035948"
 soort: "AMvB"
@@ -88,7 +88,7 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
 - **standaardpremie:** bedrag, bedoeld in [artikel 1, eerste lid, onderdeel g, van de Wet op de zorgtoeslag](https://wetten.overheid.nl/jci1.3:c:BWBR0018451&artikel=1);
 
-- **vermogen:** vermogen, bedoeld in [artikel 3.3.1.2](https://wetten.overheid.nl/jci1.3:c:BWBR0035948&hoofdstuk=3&paragraaf=3.1&artikel=3.3.1.2&z=2016-08-01&g=2016-08-01);
+- **vermogen:** vermogen, bedoeld in [artikel 3.3.1.2](https://wetten.overheid.nl/jci1.3:c:BWBR0035948&hoofdstuk=3&paragraaf=3.1&artikel=3.3.1.2&z=2016-11-09&g=2016-11-09);
 
 - **volledig pakket thuis:** integraal en volledig pakket thuis als bedoeld in [artikel 3.3.2, eerste lid, onderdeel a, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0035917&artikel=3.3.2);
 
@@ -202,13 +202,13 @@ De verzekerde heeft geen recht op zorg ingevolge de wet indien hij:
 
 Indien de verzekerde is aangewezen op zorg, vermeldt het indicatiebesluit:
 
-- a. de resultaten van het voorbereidend onderzoek, bedoeld in [artikel 3.2.2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035948&hoofdstuk=3&paragraaf=2&artikel=3.2.2&z=2016-08-01&g=2016-08-01);
+- a. de resultaten van het voorbereidend onderzoek, bedoeld in [artikel 3.2.2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035948&hoofdstuk=3&paragraaf=2&artikel=3.2.2&z=2016-11-09&g=2016-11-09);
 
 - b. aandoeningen, beperkingen, stoornissen of handicaps als gevolg waarvan hij op de zorg is aangewezen;
 
 - c. het zorgprofiel waarop hij is aangewezen;
 
-- d. bij ministeriële regeling te bepalen kenmerken van de verzekerde of van zijn zorgbehoefte die aanleiding kunnen geven tot de toekenning van meer zorg als bedoeld in [artikel 3.1.1, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035948&hoofdstuk=3&paragraaf=1&artikel=3.1.1&z=2016-08-01&g=2016-08-01);
+- d. bij ministeriële regeling te bepalen kenmerken van de verzekerde of van zijn zorgbehoefte die aanleiding kunnen geven tot de toekenning van meer zorg als bedoeld in [artikel 3.1.1, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035948&hoofdstuk=3&paragraaf=1&artikel=3.1.1&z=2016-11-09&g=2016-11-09);
 
 - e. voorwaarden en beperkingen die aan het geïndiceerde recht op zorg verbonden zijn;
 
@@ -240,17 +240,17 @@ Een indicatiebesluit geldt voor onbepaalde tijd, tenzij het indicatiebesluit beh
 
 - a. op aanvraag van de verzekerde, het bedrag ter grootte van door de verzekerde in het peiljaar of enig eerder jaar ontvangen eenmalige uitkeringen die krachtens [artikel 47 van de Algemene wet inkomensafhankelijke regelingen](https://wetten.overheid.nl/jci1.3:c:BWBR0018472&artikel=47) zijn aangewezen;
 
-- b. voor de toepassing van [artikel 3.3.2.3, eerste lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0035948&hoofdstuk=3&paragraaf=3.2&artikel=3.3.2.3&z=2016-08-01&g=2016-08-01), en [artikel 3.3.2.4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035948&hoofdstuk=3&paragraaf=3.2&artikel=3.3.2.4&z=2016-08-01&g=2016-08-01), een bedrag van € 10.000 voor de verzekerde die de pensioengerechtigde leeftijd nog niet heeft bereikt en van € 10.000 voor zijn echtgenoot die:
+- b. voor de toepassing van [artikel 3.3.2.3, eerste lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0035948&hoofdstuk=3&paragraaf=3.2&artikel=3.3.2.3&z=2016-11-09&g=2016-11-09), en [artikel 3.3.2.4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035948&hoofdstuk=3&paragraaf=3.2&artikel=3.3.2.4&z=2016-11-09&g=2016-11-09), een bedrag van € 10.000 voor de verzekerde die de pensioengerechtigde leeftijd nog niet heeft bereikt en van € 10.000 voor zijn echtgenoot die:
 
 - 1°. de pensioengerechtigde leeftijd heeft bereikt, of
 
-- 2°. de pensioengerechtigde leeftijd niet heeft bereikt en geen bijdrage als bedoeld in [artikel 3.3.2.1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035948&hoofdstuk=3&paragraaf=3.2&artikel=3.3.2.1&z=2016-08-01&g=2016-08-01), of [artikel 3.3.2.2, eerste of tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035948&hoofdstuk=3&paragraaf=3.2&artikel=3.3.2.2&z=2016-08-01&g=2016-08-01), dan wel [artikel 3.11, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035733&artikel=3.11), of [artikel 3.12, eerste of tweede lid, van het Uitvoeringsbesluit Wmo 2015](https://wetten.overheid.nl/jci1.3:c:BWBR0035733&artikel=3.12) verschuldigd is,
+- 2°. de pensioengerechtigde leeftijd niet heeft bereikt en geen bijdrage als bedoeld in [artikel 3.3.2.1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035948&hoofdstuk=3&paragraaf=3.2&artikel=3.3.2.1&z=2016-11-09&g=2016-11-09), of [artikel 3.3.2.2, eerste of tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035948&hoofdstuk=3&paragraaf=3.2&artikel=3.3.2.2&z=2016-11-09&g=2016-11-09), dan wel [artikel 3.11, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035733&artikel=3.11), of [artikel 3.12, eerste of tweede lid, van het Uitvoeringsbesluit Wmo 2015](https://wetten.overheid.nl/jci1.3:c:BWBR0035733&artikel=3.12) verschuldigd is,
 
 met dien verstande dat het vermogen ten minste nihil bedraagt.
 
 2. De vermogensgrondslag van een persoon is zijn grondslag sparen en beleggen, over het peiljaar, of indien over het peiljaar [artikel 5.2, tweede lid, van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=5.2) op de persoon van toepassing is, het aan hem toegerekende gedeelte van de toepasselijke gezamenlijke grondslag sparen en beleggen, bedoeld in dat lid.
 
-3. In afwijking van het tweede lid is de vermogensgrondslag van een persoon bij toepassing jegens hem van [artikel 3.3.2.3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035948&hoofdstuk=3&paragraaf=3.2&artikel=3.3.2.3&z=2016-08-01&g=2016-08-01),[artikel 3.3.2.4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035948&hoofdstuk=3&paragraaf=3.2&artikel=3.3.2.4&z=2016-08-01&g=2016-08-01), of [artikel 3.3.2.5](https://wetten.overheid.nl/jci1.3:c:BWBR0035948&hoofdstuk=3&paragraaf=3.2&artikel=3.3.2.5&z=2016-08-01&g=2016-08-01), de te verwachten grondslag sparen en beleggen over het lopende jaar, of indien [artikel 5.2, tweede lid, van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=5.2) vermoedelijk op de persoon van toepassing zal zijn, het te verwachten aan hem toe te rekenen deel van de toepasselijke te verwachten gezamenlijke grondslag sparen en beleggen, bedoeld in artikel 5.2, tweede lid, van de Wet inkomstenbelasting 2001.
+3. In afwijking van het tweede lid is de vermogensgrondslag van een persoon bij toepassing jegens hem van [artikel 3.3.2.3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035948&hoofdstuk=3&paragraaf=3.2&artikel=3.3.2.3&z=2016-11-09&g=2016-11-09),[artikel 3.3.2.4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035948&hoofdstuk=3&paragraaf=3.2&artikel=3.3.2.4&z=2016-11-09&g=2016-11-09), of [artikel 3.3.2.5](https://wetten.overheid.nl/jci1.3:c:BWBR0035948&hoofdstuk=3&paragraaf=3.2&artikel=3.3.2.5&z=2016-11-09&g=2016-11-09), de te verwachten grondslag sparen en beleggen over het lopende jaar, of indien [artikel 5.2, tweede lid, van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=5.2) vermoedelijk op de persoon van toepassing zal zijn, het te verwachten aan hem toe te rekenen deel van de toepasselijke te verwachten gezamenlijke grondslag sparen en beleggen, bedoeld in artikel 5.2, tweede lid, van de Wet inkomstenbelasting 2001.
 
 4. Het deel van het bedrag, bedoeld in het eerste lid, onderdeel a, dat de vermogensgrondslag van de persoon overtreft, wordt voor zijn echtgenoot als vermindering toegepast.
 
@@ -266,7 +266,7 @@ met dien verstande dat het vermogen ten minste nihil bedraagt.
 
 ##### Artikel 3.3.1.4
 
-1. Een wijziging in de burgerlijke staat van de verzekerde en het bereiken van een voor de toepassing van dit besluit van belang zijnde leeftijd door de verzekerde of zijn echtgenoot wordt in aanmerking genomen met ingang van de datum waarop de bijdrage wordt vastgesteld, met dien verstande dat bij de jaarlijkse herberekening, bedoeld in [artikel 3.3.2.8, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035948&hoofdstuk=3&paragraaf=3.2&artikel=3.3.2.8&z=2016-08-01&g=2016-08-01), een verzekerde als pensioengerechtigde wordt beschouwd indien hij uiterlijk op 31 januari van het kalenderjaar waarop de herberekening betrekking heeft, de pensioengerechtigde leeftijd heeft bereikt.
+1. Een wijziging in de burgerlijke staat van de verzekerde en het bereiken van een voor de toepassing van dit besluit van belang zijnde leeftijd door de verzekerde of zijn echtgenoot wordt in aanmerking genomen met ingang van de datum waarop de bijdrage wordt vastgesteld, met dien verstande dat bij de jaarlijkse herberekening, bedoeld in [artikel 3.3.2.8, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035948&hoofdstuk=3&paragraaf=3.2&artikel=3.3.2.8&z=2016-11-09&g=2016-11-09), een verzekerde als pensioengerechtigde wordt beschouwd indien hij uiterlijk op 31 januari van het kalenderjaar waarop de herberekening betrekking heeft, de pensioengerechtigde leeftijd heeft bereikt.
 
 2. De verzekerde meldt aan het CAK wijzigingen als bedoeld in het eerste lid.
 
@@ -288,17 +288,17 @@ met dien verstande dat het vermogen ten minste nihil bedraagt.
 
 ##### Artikel 3.3.1.7
 
-1. Bij ministeriële regeling worden de bedragen, genoemd in de [artikelen 3.3.2.1, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035948&hoofdstuk=3&paragraaf=3.2&artikel=3.3.2.1&z=2016-08-01&g=2016-08-01), [3.3.2.2, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035948&hoofdstuk=3&paragraaf=3.2&artikel=3.3.2.2&z=2016-08-01&g=2016-08-01), [3.3.2.4, tweede en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035948&hoofdstuk=3&paragraaf=3.2&artikel=3.3.2.4&z=2016-08-01&g=2016-08-01), [3.3.3.1, eerste lid en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035948&hoofdstuk=3&paragraaf=3.3&artikel=3.3.3.1&z=2016-08-01&g=2016-08-01), voor zover het betreft de in dat lid genoemde bedragen per bijdrageperiode, en [3.3.3.2, tweede en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035948&hoofdstuk=3&paragraaf=3.3&artikel=3.3.3.2&z=2016-08-01&g=2016-08-01), jaarlijks gewijzigd aan de hand van de prijsindex voor de gezinsconsumptie. De berekende bedragen worden naar beneden afgerond op een veelvoud van € 0,2. Bij de jaarlijkse toepassing van de eerste zin wordt de afronding buiten beschouwing gelaten.
+1. Bij ministeriële regeling worden de bedragen, genoemd in de [artikelen 3.3.2.1, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035948&hoofdstuk=3&paragraaf=3.2&artikel=3.3.2.1&z=2016-11-09&g=2016-11-09), [3.3.2.2, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035948&hoofdstuk=3&paragraaf=3.2&artikel=3.3.2.2&z=2016-11-09&g=2016-11-09), [3.3.2.4, tweede en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035948&hoofdstuk=3&paragraaf=3.2&artikel=3.3.2.4&z=2016-11-09&g=2016-11-09), [3.3.3.1, eerste lid en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035948&hoofdstuk=3&paragraaf=3.3&artikel=3.3.3.1&z=2016-11-09&g=2016-11-09), voor zover het betreft de in dat lid genoemde bedragen per bijdrageperiode, en [3.3.3.2, tweede en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035948&hoofdstuk=3&paragraaf=3.3&artikel=3.3.3.2&z=2016-11-09&g=2016-11-09), jaarlijks gewijzigd aan de hand van de prijsindex voor de gezinsconsumptie. De berekende bedragen worden naar beneden afgerond op een veelvoud van € 0,2. Bij de jaarlijkse toepassing van de eerste zin wordt de afronding buiten beschouwing gelaten.
 
-2. Bij ministeriële regeling wordt het bedrag, genoemd in [artikel 3.3.1.2, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0035948&hoofdstuk=3&paragraaf=3.1&artikel=3.3.1.2&z=2016-08-01&g=2016-08-01), jaarlijks gewijzigd aan de hand van het indexcijfer waarmee het bedrag, genoemd in [artikel 5.5 van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=5.5), jaarlijks wordt gewijzigd.
+2. Bij ministeriële regeling wordt het bedrag, genoemd in [artikel 3.3.1.2, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0035948&hoofdstuk=3&paragraaf=3.1&artikel=3.3.1.2&z=2016-11-09&g=2016-11-09), jaarlijks gewijzigd aan de hand van het indexcijfer waarmee het bedrag, genoemd in [artikel 5.5 van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=5.5), jaarlijks wordt gewijzigd.
 
-3. Bij ministeriële regeling worden de bedragen van het bijdrageplichtig inkomen, genoemd in [artikel 3.3.3.1, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035948&hoofdstuk=3&paragraaf=3.3&artikel=3.3.3.1&z=2016-08-01&g=2016-08-01), jaarlijks gewijzigd aan de hand van de ontwikkeling van het minimumloon, bedoeld in [artikel 8, eerste lid, onderdeel a, van de Wet minimumloon en minimumvakantiebijslag](https://wetten.overheid.nl/jci1.3:c:BWBR0002638&artikel=8).
+3. Bij ministeriële regeling worden de bedragen van het bijdrageplichtig inkomen, genoemd in [artikel 3.3.3.1, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035948&hoofdstuk=3&paragraaf=3.3&artikel=3.3.3.1&z=2016-11-09&g=2016-11-09), jaarlijks gewijzigd aan de hand van de ontwikkeling van het minimumloon, bedoeld in [artikel 8, eerste lid, onderdeel a, van de Wet minimumloon en minimumvakantiebijslag](https://wetten.overheid.nl/jci1.3:c:BWBR0002638&artikel=8).
 
 #### § 3.2. De berekening van de eigen bijdragen
 
 ##### Artikel 3.3.2.1
 
-1. De eigen bijdrage bedraagt per maand een twaalfde gedeelte van het bijdrageplichtig inkomen, berekend volgens [artikel 3.3.2.3](https://wetten.overheid.nl/jci1.3:c:BWBR0035948&hoofdstuk=3&paragraaf=3.2&artikel=3.3.2.3&z=2016-08-01&g=2016-08-01), voor:
+1. De eigen bijdrage bedraagt per maand een twaalfde gedeelte van het bijdrageplichtig inkomen, berekend volgens [artikel 3.3.2.3](https://wetten.overheid.nl/jci1.3:c:BWBR0035948&hoofdstuk=3&paragraaf=3.2&artikel=3.3.2.3&z=2016-11-09&g=2016-11-09), voor:
 
 - a. de ongehuwde verzekerde die in een instelling verblijft,
 
@@ -312,7 +312,7 @@ met dien verstande dat het vermogen ten minste nihil bedraagt.
 
 ##### Artikel 3.3.2.2
 
-1. In afwijking van [artikel 3.3.2.1](https://wetten.overheid.nl/jci1.3:c:BWBR0035948&hoofdstuk=3&paragraaf=3.2&artikel=3.3.2.1&z=2016-08-01&g=2016-08-01) bedraagt een eigen bijdrage per maand een twaalfde gedeelte van 12,5% van het bijdrageplichtig inkomen, berekend volgens [artikel 3.3.2.4](https://wetten.overheid.nl/jci1.3:c:BWBR0035948&hoofdstuk=3&paragraaf=3.2&artikel=3.3.2.4&z=2016-08-01&g=2016-08-01) voor:
+1. In afwijking van [artikel 3.3.2.1](https://wetten.overheid.nl/jci1.3:c:BWBR0035948&hoofdstuk=3&paragraaf=3.2&artikel=3.3.2.1&z=2016-11-09&g=2016-11-09) bedraagt een eigen bijdrage per maand een twaalfde gedeelte van 12,5% van het bijdrageplichtig inkomen, berekend volgens [artikel 3.3.2.4](https://wetten.overheid.nl/jci1.3:c:BWBR0035948&hoofdstuk=3&paragraaf=3.2&artikel=3.3.2.4&z=2016-11-09&g=2016-11-09) voor:
 
 - a. de ongehuwde verzekerde gedurende de eerste zes maanden van verblijf in een instelling;
 
@@ -322,7 +322,7 @@ met dien verstande dat het vermogen ten minste nihil bedraagt.
 
 - d. de ongehuwde verzekerde of de gehuwde verzekerden tezamen indien de Wlz-uitvoerder het waarschijnlijk acht dat het verblijf in de instelling voor de ongehuwde verzekerde, voor beide of voor een van beide gehuwde verzekerden binnen een half jaar kan worden beëindigd en terugkeer naar de maatschappij mogelijk is en zal worden bewerkstelligd.
 
-2. De eigen bijdrage bedraagt voorts per maand een twaalfde deel van 12,5% van het bijdrageplichtig inkomen, berekend volgens [artikel 3.3.2.4](https://wetten.overheid.nl/jci1.3:c:BWBR0035948&hoofdstuk=3&paragraaf=3.2&artikel=3.3.2.4&z=2016-08-01&g=2016-08-01) voor:
+2. De eigen bijdrage bedraagt voorts per maand een twaalfde deel van 12,5% van het bijdrageplichtig inkomen, berekend volgens [artikel 3.3.2.4](https://wetten.overheid.nl/jci1.3:c:BWBR0035948&hoofdstuk=3&paragraaf=3.2&artikel=3.3.2.4&z=2016-11-09&g=2016-11-09) voor:
 
 - a. de gehuwde verzekerde die in een instelling verblijft, een volledig pakket thuis, een modulair pakket thuis of een persoonsgebonden budget ontvangt, en wiens echtgenoot geen zorg in natura of persoonsgebonden budget ontvangt;
 
@@ -346,7 +346,7 @@ met dien verstande dat het vermogen ten minste nihil bedraagt.
 
 - a. het een verzekerde betreft van wie het recht op verblijf en de daarbij behorende medisch noodzakelijke geneeskundige zorg in verband met een psychische stoornis krachtens zijn zorgverzekering is geëindigd omdat de krachtens de [Zorgverzekeringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450) geldende maximumduur voor die zorg is bereikt, of
 
-- b. het verblijf aanvangt binnen zes maanden na beëindiging van een verblijf in een instelling waarvoor de ongehuwde verzekerde of de gehuwde verzekerden tezamen een eigen bijdrage als bedoeld in [artikel 3.3.2.1](https://wetten.overheid.nl/jci1.3:c:BWBR0035948&hoofdstuk=3&paragraaf=3.2&artikel=3.3.2.1&z=2016-08-01&g=2016-08-01) verschuldigd was of waren, of
+- b. het verblijf aanvangt binnen zes maanden na beëindiging van een verblijf in een instelling waarvoor de ongehuwde verzekerde of de gehuwde verzekerden tezamen een eigen bijdrage als bedoeld in [artikel 3.3.2.1](https://wetten.overheid.nl/jci1.3:c:BWBR0035948&hoofdstuk=3&paragraaf=3.2&artikel=3.3.2.1&z=2016-11-09&g=2016-11-09) verschuldigd was of waren, of
 
 - c. het verblijf aanvangt binnen zes maanden na beëindiging van een verblijf in een instelling voor beschermd wonen waarvoor de ongehuwde cliënt of de gehuwde cliënten tezamen een bijdrage als bedoeld in [artikel 3.11 van het Uitvoeringsbesluit Wmo 2015](https://wetten.overheid.nl/jci1.3:c:BWBR0035733&artikel=3.11) verschuldigd was of waren.
 
@@ -356,7 +356,7 @@ met dien verstande dat het vermogen ten minste nihil bedraagt.
 
 ##### Artikel 3.3.2.3
 
-1. Het bijdrageplichtig inkomen, bedoeld in [artikel 3.3.2.1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035948&hoofdstuk=3&paragraaf=3.2&artikel=3.3.2.1&z=2016-08-01&g=2016-08-01), wordt als volgt berekend:
+1. Het bijdrageplichtig inkomen, bedoeld in [artikel 3.3.2.1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035948&hoofdstuk=3&paragraaf=3.2&artikel=3.3.2.1&z=2016-11-09&g=2016-11-09), wordt als volgt berekend:
 
 - a. het inkomen over het peiljaar van de ongehuwde verzekerde onderscheidenlijk de gehuwde verzekerden tezamen wordt verminderd met de door die verzekerde onderscheidenlijk die verzekerden verschuldigde of ingehouden belasting;
 
@@ -380,7 +380,7 @@ met dien verstande dat het vermogen ten minste nihil bedraagt.
 
 ##### Artikel 3.3.2.4
 
-1. Voor de berekening van de eigen bijdrage, bedoeld in [artikel 3.3.2.2, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035948&hoofdstuk=3&paragraaf=3.2&artikel=3.3.2.2&z=2016-08-01&g=2016-08-01), bestaat het bijdrageplichtig inkomen uit het inkomen over het peiljaar van de ongehuwde verzekerde, onderscheidenlijk van de gehuwde verzekerden tezamen, vermeerderd met 8% van het vermogen van de ongehuwde verzekerde, onderscheidenlijk 8% van de opgetelde vermogens van de gehuwde verzekerden. Dit bijdrageplichtig inkomen wordt verminderd met € 6.000, indien een verzekerde een modulair pakket thuis of een persoonsgebonden budget ontvangt.
+1. Voor de berekening van de eigen bijdrage, bedoeld in [artikel 3.3.2.2, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035948&hoofdstuk=3&paragraaf=3.2&artikel=3.3.2.2&z=2016-11-09&g=2016-11-09), bestaat het bijdrageplichtig inkomen uit het inkomen over het peiljaar van de ongehuwde verzekerde, onderscheidenlijk van de gehuwde verzekerden tezamen, vermeerderd met 8% van het vermogen van de ongehuwde verzekerde, onderscheidenlijk 8% van de opgetelde vermogens van de gehuwde verzekerden. Dit bijdrageplichtig inkomen wordt verminderd met € 6.000, indien een verzekerde een modulair pakket thuis of een persoonsgebonden budget ontvangt.
 
 2. Op aanvraag van de verzekerde stelt het CAK, in afwijking van het eerste lid, het bijdrageplichtig inkomen voorlopig vast op grond van het inkomen en het vermogen van het lopende jaar, indien redelijkerwijs te verwachten is dat het bijdrageplichtig inkomen in het lopende jaar ten minste € 2.559 lager zal zijn dan het bijdrageplichtig inkomen, bedoeld in het eerste lid, dan wel indien de verzekerde algemene bijstand op grond van de [Participatiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0015703) ontvangt.
 
@@ -392,21 +392,21 @@ met dien verstande dat het vermogen ten minste nihil bedraagt.
 
 ##### Artikel 3.3.2.5
 
-1. Voor de berekening van het bijdrageplichtig inkomen over het jaar waarin een verzekerde of zijn echtgenoot voor het eerst inkomen geniet wordt, in afwijking van [artikel 3.3.2.3, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0035948&hoofdstuk=3&paragraaf=3.2&artikel=3.3.2.3&z=2016-08-01&g=2016-08-01), of [artikel 3.3.2.4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035948&hoofdstuk=3&paragraaf=3.2&artikel=3.3.2.4&z=2016-08-01&g=2016-08-01), uitgegaan van het inkomen dat de verzekerde of zijn echtgenoot over het desbetreffende kalenderjaar naar verwachting zal genieten, alsmede van het te verwachten vermogen van dat kalenderjaar, verminderd met de naar verwachting over dat kalenderjaar verschuldigde of ingehouden belasting.
+1. Voor de berekening van het bijdrageplichtig inkomen over het jaar waarin een verzekerde of zijn echtgenoot voor het eerst inkomen geniet wordt, in afwijking van [artikel 3.3.2.3, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0035948&hoofdstuk=3&paragraaf=3.2&artikel=3.3.2.3&z=2016-11-09&g=2016-11-09), of [artikel 3.3.2.4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035948&hoofdstuk=3&paragraaf=3.2&artikel=3.3.2.4&z=2016-11-09&g=2016-11-09), uitgegaan van het inkomen dat de verzekerde of zijn echtgenoot over het desbetreffende kalenderjaar naar verwachting zal genieten, alsmede van het te verwachten vermogen van dat kalenderjaar, verminderd met de naar verwachting over dat kalenderjaar verschuldigde of ingehouden belasting.
 
-2. Voor de berekening van het bijdrageplichtig inkomen over het jaar volgende op het jaar waarin een verzekerde of zijn echtgenoot voor het eerst inkomen geniet, wordt, in afwijking van [artikel 3.3.2.3, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0035948&hoofdstuk=3&paragraaf=3.2&artikel=3.3.2.3&z=2016-08-01&g=2016-08-01), of [artikel 3.3.2.4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035948&hoofdstuk=3&paragraaf=3.2&artikel=3.3.2.4&z=2016-08-01&g=2016-08-01), uitgegaan van het inkomen dat de verzekerde of zijn echtgenoot over het dan lopende kalenderjaar naar verwachting zal genieten, alsmede van het te verwachten vermogen van dat kalenderjaar, verminderd met de naar verwachting over dat kalenderjaar verschuldigde of ingehouden belasting.
+2. Voor de berekening van het bijdrageplichtig inkomen over het jaar volgende op het jaar waarin een verzekerde of zijn echtgenoot voor het eerst inkomen geniet, wordt, in afwijking van [artikel 3.3.2.3, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0035948&hoofdstuk=3&paragraaf=3.2&artikel=3.3.2.3&z=2016-11-09&g=2016-11-09), of [artikel 3.3.2.4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035948&hoofdstuk=3&paragraaf=3.2&artikel=3.3.2.4&z=2016-11-09&g=2016-11-09), uitgegaan van het inkomen dat de verzekerde of zijn echtgenoot over het dan lopende kalenderjaar naar verwachting zal genieten, alsmede van het te verwachten vermogen van dat kalenderjaar, verminderd met de naar verwachting over dat kalenderjaar verschuldigde of ingehouden belasting.
 
 3. Voor de berekening van het bijdrageplichtig inkomen over het tweede jaar volgend op het jaar waarin een verzekerde of zijn echtgenoot voor het eerst inkomen geniet, wordt uitgegaan van de in het tweede lid bedoelde bedragen.
 
 ##### Artikel 3.3.2.6
 
-1. Indien[artikel 3.3.2.3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035948&hoofdstuk=3&paragraaf=3.2&artikel=3.3.2.3&z=2016-08-01&g=2016-08-01), of [artikel 3.3.2.5, eerste of tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035948&hoofdstuk=3&paragraaf=3.2&artikel=3.3.2.5&z=2016-08-01&g=2016-08-01), voor zover het betreft de afwijking van artikel 3.3.2.3, eerste lid, van toepassing is, worden, in afwijking van artikel 3.3.2.3, eerste lid, onderdeel b, subonderdeel 2, twaalf maal het in het lopende kalenderjaar geldende bedrag voor zak- en kleedgeld, de in het lopende kalenderjaar te betalen premies voor een zorgverzekering gecorrigeerd voor de zorgtoeslag en, indien van toepassing, de algemene korting voor wie de pensioensgerechtigde leeftijd nog niet heeft bereikt onderscheidenlijk de algemene korting voor wie de pensioengerechtigde leeftijd heeft bereikt, alsmede extra vrijlatingen als bedoeld in artikel 3.3.2.3, eerste lid, onderdeel b, subonderdeel 2, in mindering gebracht.
+1. Indien[artikel 3.3.2.3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035948&hoofdstuk=3&paragraaf=3.2&artikel=3.3.2.3&z=2016-11-09&g=2016-11-09), of [artikel 3.3.2.5, eerste of tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035948&hoofdstuk=3&paragraaf=3.2&artikel=3.3.2.5&z=2016-11-09&g=2016-11-09), voor zover het betreft de afwijking van artikel 3.3.2.3, eerste lid, van toepassing is, worden, in afwijking van artikel 3.3.2.3, eerste lid, onderdeel b, subonderdeel 2, twaalf maal het in het lopende kalenderjaar geldende bedrag voor zak- en kleedgeld, de in het lopende kalenderjaar te betalen premies voor een zorgverzekering gecorrigeerd voor de zorgtoeslag en, indien van toepassing, de algemene korting voor wie de pensioensgerechtigde leeftijd nog niet heeft bereikt onderscheidenlijk de algemene korting voor wie de pensioengerechtigde leeftijd heeft bereikt, alsmede extra vrijlatingen als bedoeld in artikel 3.3.2.3, eerste lid, onderdeel b, subonderdeel 2, in mindering gebracht.
 
-2. Indien [artikel 3.3.2.5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035948&hoofdstuk=3&paragraaf=3.2&artikel=3.3.2.5&z=2016-08-01&g=2016-08-01), voor zover het betreft de afwijking van [artikel 3.3.2.3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035948&hoofdstuk=3&paragraaf=3.2&artikel=3.3.2.3&z=2016-08-01&g=2016-08-01), van toepassing is en de werkzaamheden in de loop van het kalenderjaar aanvangen, worden de bedragen, bedoeld in artikel 3.3.2.3, eerste lid, onderdeel b, naar rato van het deel van het kalenderjaar waarover de inkomsten worden verworven, in mindering gebracht.
+2. Indien [artikel 3.3.2.5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035948&hoofdstuk=3&paragraaf=3.2&artikel=3.3.2.5&z=2016-11-09&g=2016-11-09), voor zover het betreft de afwijking van [artikel 3.3.2.3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035948&hoofdstuk=3&paragraaf=3.2&artikel=3.3.2.3&z=2016-11-09&g=2016-11-09), van toepassing is en de werkzaamheden in de loop van het kalenderjaar aanvangen, worden de bedragen, bedoeld in artikel 3.3.2.3, eerste lid, onderdeel b, naar rato van het deel van het kalenderjaar waarover de inkomsten worden verworven, in mindering gebracht.
 
 ##### Artikel 3.3.2.7
 
-1. Indien ten aanzien van de ongehuwde of gehuwde verzekerden geen gegevens inzake het inkomen of de grondslag sparen en beleggen beschikbaar zijn, wordt de eigen bijdrage vastgesteld op het minimumbedrag, genoemd in [artikel 3.3.2.2, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035948&hoofdstuk=3&paragraaf=3.2&artikel=3.3.2.2&z=2016-08-01&g=2016-08-01).
+1. Indien ten aanzien van de ongehuwde of gehuwde verzekerden geen gegevens inzake het inkomen of de grondslag sparen en beleggen beschikbaar zijn, wordt de eigen bijdrage vastgesteld op het minimumbedrag, genoemd in [artikel 3.3.2.2, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035948&hoofdstuk=3&paragraaf=3.2&artikel=3.3.2.2&z=2016-11-09&g=2016-11-09).
 
 2. Indien na de vaststelling van de eigen bijdrage uit alsnog beschikbaar gekomen gegevens inzake het inkomen of de grondslag sparen en beleggen of uit een wijziging van deze gegevens, blijkt dat de eigen bijdrage op een te hoog of te laag bedrag is vastgesteld, herziet het CAK de eigen bijdrage met inachtneming van de beschikbaar gekomen gegevens dan wel van die wijziging.
 
@@ -414,7 +414,7 @@ met dien verstande dat het vermogen ten minste nihil bedraagt.
 
 1. De hoogte van de eigen bijdrage wordt jaarlijks opnieuw berekend voor de periode van de eerste dag van januari tot en met de eenendertigste dag van de daaropvolgende maand december.
 
-2. In afwijking van [artikel 3.3.2.7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035948&hoofdstuk=3&paragraaf=3.2&artikel=3.3.2.7&z=2016-08-01&g=2016-08-01), geldt, indien het inkomen bij de jaarlijkse herberekening nog moet worden vastgesteld, als eigen bijdrage, de eigen bijdrage die over de laatste maand in het vorige kalenderjaar verschuldigd was.
+2. In afwijking van [artikel 3.3.2.7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035948&hoofdstuk=3&paragraaf=3.2&artikel=3.3.2.7&z=2016-11-09&g=2016-11-09), geldt, indien het inkomen bij de jaarlijkse herberekening nog moet worden vastgesteld, als eigen bijdrage, de eigen bijdrage die over de laatste maand in het vorige kalenderjaar verschuldigd was.
 
 ##### Artikel 3.3.2.9
 
@@ -450,13 +450,13 @@ Degene die, komend van buiten Nederland, in Nederland is gaan wonen en als gevol
 
 ##### Artikel 3.4.2
 
-1. In afwijking van [artikel 3.4.1](https://wetten.overheid.nl/jci1.3:c:BWBR0035948&hoofdstuk=3&paragraaf=4&artikel=3.4.1&z=2016-08-01&g=2016-08-01) bedraagt voor de daar bedoelde verzekerde die in Nederland is gaan wonen binnen twaalf jaar nadat zijn verzekering ingevolge de wet of de [Algemene Wet Bijzondere Ziektekosten](https://wetten.overheid.nl/jci1.3:c:BWBR0002614) laatstelijk is geëindigd of, indien het een minderjarige betreft, de verzekering ingevolge de wet dan wel de Algemene Wet Bijzondere Ziektekosten van zijn wettelijk vertegenwoordiger laatstelijk is geëindigd, de periode gedurende welke hij geen recht op de in artikel 3.4.1 bedoelde zorg heeft, een aantal maanden overeenkomend met het aantal volle jaren liggende tussen het tijdstip van vestiging in Nederland en het einde van het laatste tijdvak van verzekering ingevolge de wet dan wel de Algemene Wet Bijzondere Ziektekosten.
+1. In afwijking van [artikel 3.4.1](https://wetten.overheid.nl/jci1.3:c:BWBR0035948&hoofdstuk=3&paragraaf=4&artikel=3.4.1&z=2016-11-09&g=2016-11-09) bedraagt voor de daar bedoelde verzekerde die in Nederland is gaan wonen binnen twaalf jaar nadat zijn verzekering ingevolge de wet of de [Algemene Wet Bijzondere Ziektekosten](https://wetten.overheid.nl/jci1.3:c:BWBR0002614) laatstelijk is geëindigd of, indien het een minderjarige betreft, de verzekering ingevolge de wet dan wel de Algemene Wet Bijzondere Ziektekosten van zijn wettelijk vertegenwoordiger laatstelijk is geëindigd, de periode gedurende welke hij geen recht op de in artikel 3.4.1 bedoelde zorg heeft, een aantal maanden overeenkomend met het aantal volle jaren liggende tussen het tijdstip van vestiging in Nederland en het einde van het laatste tijdvak van verzekering ingevolge de wet dan wel de Algemene Wet Bijzondere Ziektekosten.
 
 2. Indien de verzekerde, bedoeld in het eerste lid, in die periode van twaalf jaar ten laste van Nederland recht heeft gehad op verstrekkingen met toepassing van een Verordening van de Raad van de Europese gemeenschappen of van een verdrag inzake sociale zekerheid waarbij Nederland partij is, wordt het aantal volle jaren gedurende welke hij dat recht ten laste van Nederland had, in mindering gebracht op de periode, bedoeld in het eerste lid.
 
 ##### Artikel 3.4.3
 
-De [artikelen 3.4.1](https://wetten.overheid.nl/jci1.3:c:BWBR0035948&hoofdstuk=3&paragraaf=4&artikel=3.4.1&z=2016-08-01&g=2016-08-01) en [3.4.2](https://wetten.overheid.nl/jci1.3:c:BWBR0035948&hoofdstuk=3&paragraaf=4&artikel=3.4.2&z=2016-08-01&g=2016-08-01) zijn niet van toepassing op:
+De [artikelen 3.4.1](https://wetten.overheid.nl/jci1.3:c:BWBR0035948&hoofdstuk=3&paragraaf=4&artikel=3.4.1&z=2016-11-09&g=2016-11-09) en [3.4.2](https://wetten.overheid.nl/jci1.3:c:BWBR0035948&hoofdstuk=3&paragraaf=4&artikel=3.4.2&z=2016-11-09&g=2016-11-09) zijn niet van toepassing op:
 
 - a. vreemdelingen die rechtmatig in Nederland verblijf hebben als bedoeld in [artikel 8, onder c en d, van de Vreemdelingenwet 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=8);
 
@@ -504,7 +504,7 @@ Een persoonsgebonden budget bedraagt ten hoogste een bij ministeriële regeling 
 
 - a. vermindering van het bedrag voor de bestanddelen behandeling, kapitaallasten, kosten voor verblijf of andere bestanddelen,
 
-- b. vermeerdering van het bedrag voor verzekerden die wonen in een kleinschalig wooninitiatief als bedoeld in [artikel 3.1.3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035948&hoofdstuk=3&paragraaf=1&artikel=3.1.3&z=2016-08-01&g=2016-08-01),
+- b. vermeerdering van het bedrag voor verzekerden die wonen in een kleinschalig wooninitiatief als bedoeld in [artikel 3.1.3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035948&hoofdstuk=3&paragraaf=1&artikel=3.1.3&z=2016-11-09&g=2016-11-09),
 
 - c. de hoogte van het bedrag indien de verzekerde naast het persoonsgebonden budget ook een modulair pakket thuis ontvangt of wenst te ontvangen.
 
@@ -866,7 +866,7 @@ Bij de bespreking, bedoeld in [artikel 8.1.1, eerste lid, van de wet](https://we
 
 1. Het Zorginstituut verstrekt aan organisaties subsidies voor het verlenen van ADL-assistentie voor zover die organisaties de ADL-assistentie verlenen aan verzekerden die woonachtig zijn in ADL-woningen.
 
-2. De organisaties, bedoeld in het eerste lid, verlenen ADL-assistentie aan verzekerden volgens een door het CIZ genomen besluit als bedoeld in [artikel 5.2.1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035948&hoofdstuk=5&paragraaf=2&artikel=5.2.1&z=2016-08-01&g=2016-08-01).
+2. De organisaties, bedoeld in het eerste lid, verlenen ADL-assistentie aan verzekerden volgens een door het CIZ genomen besluit als bedoeld in [artikel 5.2.1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035948&hoofdstuk=5&paragraaf=2&artikel=5.2.1&z=2016-11-09&g=2016-11-09).
 
 3. In de ADL-woningen wordt zorg geleverd aan verzekerden:
 
@@ -1050,7 +1050,7 @@ Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel 10.10
 
-1. De verzekerde, bedoeld in [artikel 11.1.1, zesde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0035917&artikel=11.1.1) of bedoeld in de [artikelen 9.3a](https://wetten.overheid.nl/jci1.3:c:BWBR0036014&artikel=9.3a) en [9.3b van de Regeling langdurige zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0036014&artikel=9.3b), draagt bij in de kosten van de zorg, waarbij geldt dat hij een bijdrage verschuldigd is als bedoeld in [§ 3.2](https://wetten.overheid.nl/jci1.3:c:BWBR0035948&hoofdstuk=3&paragraaf=3.2&z=2016-08-01&g=2016-08-01) van dit besluit.
+1. De verzekerde, bedoeld in [artikel 11.1.1, zesde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0035917&artikel=11.1.1) of bedoeld in de [artikelen 9.3a](https://wetten.overheid.nl/jci1.3:c:BWBR0036014&artikel=9.3a) en [9.3b van de Regeling langdurige zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0036014&artikel=9.3b), draagt bij in de kosten van de zorg, waarbij geldt dat hij een bijdrage verschuldigd is als bedoeld in [§ 3.2](https://wetten.overheid.nl/jci1.3:c:BWBR0035948&hoofdstuk=3&paragraaf=3.2&z=2016-11-09&g=2016-11-09) van dit besluit.
 
 2. Dit artikel vervalt met ingang van 1 januari 2017.
 
@@ -1062,7 +1062,7 @@ Bij ministeriële regeling kunnen ten behoeve van een goede uitvoering van dit b
 
 1. Dit besluit treedt in werking op een bij koninklijk besluit te bepalen tijdstip, dat voor de verschillende artikelen of onderdelen daarvan verschillend kan worden vastgesteld.
 
-2. [Artikel 8.1.3](https://wetten.overheid.nl/jci1.3:c:BWBR0035948&hoofdstuk=8&paragraaf=1&artikel=8.1.3&z=2016-08-01&g=2016-08-01) werkt terug tot en met de datum waarop [de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0035917) in werking treedt.
+2. [Artikel 8.1.3](https://wetten.overheid.nl/jci1.3:c:BWBR0035948&hoofdstuk=8&paragraaf=1&artikel=8.1.3&z=2016-11-09&g=2016-11-09) werkt terug tot en met de datum waarop [de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0035917) in werking treedt.
 
 ##### Artikel 10.13
 
@@ -1072,8 +1072,124 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 ##### Artikel 10.10a
 
-1. Op aanvraag van de verzekerde wordt, onverminderd [artikel 3.3.2.3, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0035948&hoofdstuk=3&paragraaf=3.2&artikel=3.3.2.3&z=2017-01-01&g=2016-08-01), op het met toepassing van het eerste lid, onderdeel a, van dat artikel berekende bedrag de in het peiljaar geldende uitkering op grond van de overeenkomst tussen de Bondsrepubliek Duitsland en de Conference on Jewish Material Claims Against Germany, gebaseerd op artikel 2 van de Vereinbarung vom 18 September 1990 über die Herstellung der Einheit Deutschlands zwischen der Bundesrepublik Deutschland und der Deutschen Demokratischen Republik zur Durchführung und Auslegung des am 31. August 1990 in Berlin unterzeichneten Einigungvertrages in mindering gebracht.
+1. Op aanvraag van de verzekerde wordt, onverminderd [artikel 3.3.2.3, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0035948&hoofdstuk=3&paragraaf=3.2&artikel=3.3.2.3&z=2017-01-01&g=2016-11-09), op het met toepassing van het eerste lid, onderdeel a, van dat artikel berekende bedrag de in het peiljaar geldende uitkering op grond van de overeenkomst tussen de Bondsrepubliek Duitsland en de Conference on Jewish Material Claims Against Germany, gebaseerd op artikel 2 van de Vereinbarung vom 18 September 1990 über die Herstellung der Einheit Deutschlands zwischen der Bundesrepublik Deutschland und der Deutschen Demokratischen Republik zur Durchführung und Auslegung des am 31. August 1990 in Berlin unterzeichneten Einigungvertrages in mindering gebracht.
 
 2. Dit artikel vervalt met ingang van 1 januari 2018.
+
+Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
+
+#### § 1. Experiment integraal budget
+
+##### Artikel 9.1. Begripsbepalingen
+
+In deze paragraaf en de daarop berustende bepalingen wordt verstaan onder:
+
+- **college:** college van burgemeester en wethouders van de gemeenten Woerden, Meppel of Delft;
+
+- **deelbudget:** budget dat door of vanwege het college, de zorgverzekeraar of het zorgkantoor voor de verlening van het integrale budget ter beschikking is gesteld voor het betrekken van zorg als bedoeld in [artikel 1.1.1 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0035917&artikel=1.1.1), maatschappelijke ondersteuning als bedoeld in [artikel 1.1.1 van de Wet maatschappelijke ondersteuning 2015](https://wetten.overheid.nl/jci1.3:c:BWBR0035362&artikel=1.1.1) of jeugdhulp als bedoeld in [artikel 1.1 van de Jeugdwet](https://wetten.overheid.nl/jci1.3:c:BWBR0034925&artikel=1.1) of zorg als bedoeld in [artikel 2.10 van het Besluit zorgverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0018492&artikel=2.10) of verblijf als bedoeld in [artikel 2.12 van dat besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0018492&artikel=2.12) voor zover dat verblijf gepaard gaat met verpleging en verzorging die op grond van artikel 2.10, tweede lid, valt onder de zorg voor verzekerden tot achttien jaar, waaruit de Sociale verzekeringsbank betalingen verricht ter verkrijging van diensten voor de deelnemer;
+
+- **deelnemer:** verzekerde die toegang heeft gekregen tot het experiment;
+
+- **experiment:** experiment als bedoeld in [artikel 10.1.2, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0035917&artikel=10.1.2) in de gemeente;
+
+- **gemeente:** gemeente Delft, Meppel of Woerden;
+
+- **integraal budget:** som van de deelbudgetten waaruit de Sociale verzekeringsbank betalingen verricht ter verkrijging van diensten voor de deelnemer;
+
+- **ondersteuningsplan:** besluit van het college met een op de behoefte aan diensten van de deelnemer afgestemd plan met alle aanspraken en rechten op grond waarvan betalingen kunnen worden verricht uit het integraal budget;
+
+- **Zvw-pgb:** gemaximeerde vergoeding die een zorgverzekeraar in 2016 op grond van [artikel 11, tweede lid, onderdeel b, van de Zorgverzekeringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&artikel=11) of met ingang van 2017 op grond van [artikel 13a van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&artikel=13a) verstrekt voor de kosten die de verzekerde maakt voor het betrekken van zorg als bedoeld in [artikel 2.10 van het Besluit zorgverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0018492&artikel=2.10) of verblijf als bedoeld in [artikel 2.12 van dat besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0018492&artikel=2.12) voor zover dat verblijf gepaard gaat met verpleging en verzorging die op grond van artikel 2.10, tweede lid, valt onder de zorg voor verzekerden tot achttien jaar.
+
+##### Artikel 9.2. Doel van het experiment
+
+1. Met dit experiment wordt beoogd inzicht te krijgen in de gevolgen en mogelijkheden van het integraal budget ten aanzien van:
+
+- a. de mogelijkheid tot het flexibel gebruik van een integraal budget en de over- en onderbesteding van deelbudgetten binnen een integraal budget;
+
+- b. het op elkaar aansluiten van de verscheidene diensten waarvan de deelnemer gebruik maakt en de kwaliteit van die diensten;
+
+- c. de tevredenheid van de deelnemers en betrokken bestuursorganen of zorgverzekeraars.
+
+- d. de omvang van de administratieve lasten van deelnemers in verhouding tot de afzonderlijke rechten en aanspraken als bedoeld in [artikel 9.3, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0035948&hoofdstuk=9&paragraaf=1&artikel=9.3&z=2016-11-09&g=2016-11-09).
+
+2. Met dit experiment wordt informatie verzameld over de gevolgen voor de kwaliteit van de door deelnemers afgenomen diensten, de gevolgen voor de zelfredzaamheid van de deelnemers, de budgettaire en juridische mogelijkheden, toezicht en handhaving, en belemmeringen bij het vormgeven van een integrale pakket aan diensten dat in de plaats treedt van de afzonderlijke aanspraken of rechten op die diensten.
+
+##### Artikel 9.3. Reikwijdte en toegang tot het experiment.
+
+1. Een verzekerde die tevens ingezetene is van de gemeente kan zich melden voor het deelnemen aan het experiment. Een verzekerde heeft toegang tot deelname aan het experiment als wordt voldaan aan de volgende voorwaarden:
+
+- a. de verzekerde heeft ten minste twee van de volgende rechten of aanspraken:
+
+- 1°. een persoonsgebonden budget als bedoeld in de [artikel 1.1.1 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0035917&artikel=1.1.1);
+
+- 2°. een persoonsgebonden budget als bedoeld in [artikel 1.1.1 van de Wet maatschappelijke ondersteuning 2015](https://wetten.overheid.nl/jci1.3:c:BWBR0035362&artikel=1.1.1);
+
+- 3°. een persoonsgebonden budget als bedoeld [artikel 8.1.1 van de Jeugdwet](https://wetten.overheid.nl/jci1.3:c:BWBR0034925&artikel=8.1.1), of
+
+- 4°. een Zvw-pgb;
+
+- b. het zorgkantoor onderscheidenlijk de zorgverzekeraar van de deelnemer zich schriftelijk bereid hebben verklaard voor hem zorg te dragen voor een deelbudget.
+
+2. Dit lid is nog niet in werking getreden.
+
+3. Dit lid is nog niet in werking getreden.
+
+4. Het college treedt in overleg met de verzekerde, bedoeld in het eerste lid, over de toegang tot het experiment en de mogelijkheid om een persoonlijk plan in te dienen.
+
+5. Dit lid is nog niet in werking getreden.
+
+6. Dit lid is nog niet in werking getreden.
+
+##### Artikel 9.4. Ondersteuningsplan
+
+1. Alvorens een ondersteuningsplan wordt vastgesteld, biedt het college de deelnemer gelegenheid om een persoonlijk plan in te dienen waarin hij aangeeft op welke diensten hij het meest is aangewezen en wat de voorgenomen besteding is van het budget. Het college houdt bij het opstellen van het ondersteuningsplan rekening met het persoonlijk plan en stelt cliëntenondersteuning als bedoeld in [artikel 1.1.1 van de Wet maatschappelijke ondersteuning 2015](https://wetten.overheid.nl/jci1.3:c:BWBR0035362&artikel=1.1.1) bij het opstellen van het plan beschikbaar.
+
+2. Dit lid is nog niet in werking getreden.
+
+3. Dit lid is nog niet in werking getreden.
+
+4. Bij het opstellen van het ondersteuningsplan wordt rekening gehouden met de gezamenlijke vraag naar diensten van deelnemers die tot hetzelfde huishouden dan wel dezelfde leefeenheid behoren, indien deze deelnemers daarom, met hun toestemming onderling afgestemd, verzoeken.
+
+5. Dit lid is nog niet in werking getreden.
+
+##### Artikel 9.5. Organisatie integraal budget
+
+1. Dit lid is nog niet in werking getreden.
+
+2. Het zorgkantoor of de zorgverzekeraar van de deelnemer verleent het college de medewerking die redelijkerwijs kan worden verlangd voor de uitvoering van het experiment. De zorgverzekeraar van de deelnemer stort voor die deelnemer het gemaximeerde budget ten behoeve van het Zvw-pgb bij het college van de deelnemer.
+
+3. Dit lid is nog niet in werking getreden.
+
+4. Dit lid is nog niet in werking getreden.
+
+5. Sociale verzekeringbank, het zorgkantoor of de zorgverzekeraar zijn, voor zover de deelnemer daarvoor zijn ondubbelzinnige toestemming heeft verleend, bevoegd uit eigen beweging en desgevraagd verplicht aan het college persoonsgegevens, waaronder persoonsgegevens betreffende de gezondheid, van die deelnemer te verstrekken voor zover dat noodzakelijk is voor de uitvoering van het experiment.
+
+6. Het college, de Sociale verzekeringbank, het zorgkantoor of de zorgverzekeraar van de deelnemer is met diens ondubbelzinnige toestemming bevoegd tot het verwerken en verstrekken van persoonsgegevens, waaronder persoonsgegevens betreffende de gezondheid, van die deelnemer voor zover dat noodzakelijk is voor de uitvoering van het experiment.
+
+##### Artikel 9.6. Verlening, -vaststelling van het integrale budget en trekkingsrecht
+
+1. Dit lid is nog niet in werking getreden.
+
+2. Dit lid is nog niet in werking getreden.
+
+3. Dit lid is nog niet in werking getreden.
+
+4. Dit lid is nog niet in werking getreden.
+
+5. Dit lid is nog niet in werking getreden.
+
+6. Dit lid is nog niet in werking getreden.
+
+7. Het college voert een administratie waaruit in ieder geval blijkt of een betaling uit het integraal budget een betaling is voor het betrekken van zorg als bedoeld in [artikel 1.1.1 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0035917&artikel=1.1.1), maatschappelijke ondersteuning als bedoeld in [artikel 1.1.1 van de Wet maatschappelijke ondersteuning 2015](https://wetten.overheid.nl/jci1.3:c:BWBR0035362&artikel=1.1.1), jeugdhulp als bedoeld in [artikel 1.1 van de Jeugdwet](https://wetten.overheid.nl/jci1.3:c:BWBR0034925&artikel=1.1) of zorg als bedoeld in de [artikelen 2.10](https://wetten.overheid.nl/jci1.3:c:BWBR0018492&artikel=2.10) of [2.12 van het Besluit zorgverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0018492&artikel=2.12). Het zorgkantoor of de zorgverzekeraar van de deelnemer hebben inzage in de administratie.
+
+8. Dit lid is nog niet in werking getreden.
+
+##### Artikel 9.7. Evaluatie
+
+Dit onderdeel is nog niet inwerking getreden
+
+### Hoofdstuk 10. Slotbepalingen
+
+Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
