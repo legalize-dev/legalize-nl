@@ -71,11 +71,3 @@ Deze beleidsregels worden aangehaald als: Beleidsregels incidentele artikel 3 lo
 ### Artikel 11. Inwerkingtreding
 
 Deze beleidsregels worden gepubliceerd in de Staatscourant. De beleidsregels treden in werking met ingang van de dag na de dagtekening van de Staatscourant waarin zij worden geplaatst.
-
-Als het kansspel wordt geannuleerd, is de vergunninghouder verplicht dit te melden aan de Kansspelautoriteit en de Belastingdienst, en de lotprijs terug te betalen aan de deelnemers.
-
-### Artikel 9. Toezicht en controle
-
-### Artikel 11. Inwerkingtreding
-
-Deze beleidsregels worden gepubliceerd in de Staatscourant. De beleidsregels treden in werking met ingang van de dag na de dagtekening van de Staatscourant waarin zij worden geplaatst.
