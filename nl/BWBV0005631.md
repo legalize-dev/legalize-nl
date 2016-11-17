@@ -4,7 +4,7 @@ identifier: "BWBV0005631"
 country: "nl"
 rank: "verdrag"
 publication_date: "2016-11-17"
-last_updated: "2010-10-29"
+last_updated: "2016-11-17"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBV0005631"
 soort: "verdrag"
@@ -286,7 +286,7 @@ Het nationale contactpunt is verantwoordelijk voor de contacten met het Secretar
 
 - c. het aanmoedigen van het gebruik van kosteneffectieve communicatiemiddelen en -systemen.
 
-2. Een vergunning of vergelijkbaar document afgegeven in overeenstemming met [artikel 6, derde lid, onderdeel e](https://wetten.overheid.nl/jci1.3:c:BWBV0005631&artikel=6&z=2010-10-29&g=2010-10-29), en ter beschikking gesteld aan het uitwisselingscentrum voor toegang en verdeling van voordelen vormt een internationaal erkend certificaat betreffende naleving.
+2. Een vergunning of vergelijkbaar document afgegeven in overeenstemming met [artikel 6, derde lid, onderdeel e](https://wetten.overheid.nl/jci1.3:c:BWBV0005631&artikel=6&z=2016-11-17&g=2016-11-17), en ter beschikking gesteld aan het uitwisselingscentrum voor toegang en verdeling van voordelen vormt een internationaal erkend certificaat betreffende naleving.
 
 3. Een internationaal erkend certificaat betreffende naleving fungeert als bewijs dat de toegang tot de genetische rijkdom waarop het betrekking heeft is verkregen met voorafgaande geïnformeerde toestemming en dat er onderling overeengekomen voorwaarden zijn vastgesteld, zoals vereist door de interne wet- of regelgeving over toegang en verdeling van voordelen van de partij die de voorafgaande geïnformeerde toestemming heeft verleend.
 
@@ -312,7 +312,7 @@ Het nationale contactpunt is verantwoordelijk voor de contacten met het Secretar
 
 ##### Artikel 18. Naleving van onderling overeengekomen voorwaarden
 
-1. Bij de tenuitvoerlegging van [artikel 6, derde lid, onderdeel g, onder i](https://wetten.overheid.nl/jci1.3:c:BWBV0005631&artikel=6&z=2010-10-29&g=2010-10-29), en [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBV0005631&artikel=7&z=2010-10-29&g=2010-10-29), moedigt elke partij leveranciers en gebruikers van genetische rijkdommen en/of traditionele kennis met betrekking tot genetische rijkdommen aan in hun onderling overeen te komen voorwaarden, waar passend, bepalingen voor de regeling van geschillen op te nemen, waaronder:
+1. Bij de tenuitvoerlegging van [artikel 6, derde lid, onderdeel g, onder i](https://wetten.overheid.nl/jci1.3:c:BWBV0005631&artikel=6&z=2016-11-17&g=2016-11-17), en [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBV0005631&artikel=7&z=2016-11-17&g=2016-11-17), moedigt elke partij leveranciers en gebruikers van genetische rijkdommen en/of traditionele kennis met betrekking tot genetische rijkdommen aan in hun onderling overeen te komen voorwaarden, waar passend, bepalingen voor de regeling van geschillen op te nemen, waaronder:
 
 - a. aan welke rechtsmacht zij geschillenbeslechtingsprocessen onderwerpen;
 
@@ -328,7 +328,7 @@ Het nationale contactpunt is verantwoordelijk voor de contacten met het Secretar
 
 - b. het gebruik van mechanismen over de wederzijdse erkenning en tenuitvoerlegging van buitenlandse vonnissen en scheidsrechterlijke uitspraken.
 
-4. De Conferentie van de partijen die als vergadering van de partijen bij dit Protocol fungeert, toetst de doeltreffendheid van dit artikel in overeenstemming met [artikel 31 van dit Protocol](https://wetten.overheid.nl/jci1.3:c:BWBV0005631&artikel=31&z=2010-10-29&g=2010-10-29).
+4. De Conferentie van de partijen die als vergadering van de partijen bij dit Protocol fungeert, toetst de doeltreffendheid van dit artikel in overeenstemming met [artikel 31 van dit Protocol](https://wetten.overheid.nl/jci1.3:c:BWBV0005631&artikel=31&z=2016-11-17&g=2016-11-17).
 
 ##### Artikel 19. Contractuele modelbepalingen
 
@@ -420,7 +420,7 @@ De partijen moedigen niet-partijen aan zich aan dit Protocol te houden en het ui
 
 2. Het financiële mechanisme van het [Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0001136) is het financiële mechanisme voor dit Protocol.
 
-3. Ten aanzien van de in [artikel 22](https://wetten.overheid.nl/jci1.3:c:BWBV0005631&artikel=22&z=2010-10-29&g=2010-10-29) van dit Protocol bedoelde capaciteitsvorming en -ontwikkeling houdt de Conferentie van de partijen die als vergadering van de partijen bij dit Protocol fungeert, bij het geven van richtsnoeren voor het in het tweede lid bedoelde financiële mechanisme, ter overweging door de Conferentie van de partijen, rekening met de behoefte aan financiële middelen van partijen die ontwikkelingslanden zijn, met name de minstontwikkelde landen en kleine eilandstaten in ontwikkeling, en van partijen met een economie in overgang, alsmede met de capaciteitsbehoeften en -prioriteiten van inheemse en lokale gemeenschappen, met inbegrip van de vrouwen binnen die gemeenschappen.
+3. Ten aanzien van de in [artikel 22](https://wetten.overheid.nl/jci1.3:c:BWBV0005631&artikel=22&z=2016-11-17&g=2016-11-17) van dit Protocol bedoelde capaciteitsvorming en -ontwikkeling houdt de Conferentie van de partijen die als vergadering van de partijen bij dit Protocol fungeert, bij het geven van richtsnoeren voor het in het tweede lid bedoelde financiële mechanisme, ter overweging door de Conferentie van de partijen, rekening met de behoefte aan financiële middelen van partijen die ontwikkelingslanden zijn, met name de minstontwikkelde landen en kleine eilandstaten in ontwikkeling, en van partijen met een economie in overgang, alsmede met de capaciteitsbehoeften en -prioriteiten van inheemse en lokale gemeenschappen, met inbegrip van de vrouwen binnen die gemeenschappen.
 
 4. In het kader van het eerste lid houden de partijen eveneens rekening met de behoeften van de partijen die ontwikkelingslanden zijn, met name de minstontwikkelde landen en kleine eilandstaten in ontwikkeling, en van de partijen met een economie in overgang wanneer zij trachten hun behoeften aan capaciteitsvorming en -ontwikkeling met het oog op de tenuitvoerlegging van dit Protocol te bepalen en daaraan te voldoen.
 
@@ -444,7 +444,7 @@ De partijen moedigen niet-partijen aan zich aan dit Protocol te houden en het ui
 
 - c. verzoekt om en gebruikt naar behoefte de diensten van, de samenwerking met en informatie van bevoegde internationale organisaties en intergouvernementele en niet-gouvernementele organen;
 
-- d. stelt de vorm en de regelmaat vast voor de indiening van informatie die overeenkomstig [artikel 29](https://wetten.overheid.nl/jci1.3:c:BWBV0005631&artikel=29&z=2010-10-29&g=2010-10-29) van dit Protocol dient te worden verstrekt en onderzoekt deze informatie en de door hulporganen ingediende verslagen;
+- d. stelt de vorm en de regelmaat vast voor de indiening van informatie die overeenkomstig [artikel 29](https://wetten.overheid.nl/jci1.3:c:BWBV0005631&artikel=29&z=2016-11-17&g=2016-11-17) van dit Protocol dient te worden verstrekt en onderzoekt deze informatie en de door hulporganen ingediende verslagen;
 
 - e. onderzoekt en aanvaardt indien nodig wijzigingen van dit Protocol en de Bijlage daarvan, alsmede aanvullende bijlagen van dit Protocol die voor de tenuitvoerlegging van dit Protocol nodig worden geacht; en
 
