@@ -4,7 +4,7 @@ identifier: "BWBR0038725"
 country: "nl"
 rank: "zbo"
 publication_date: "2016-11-18"
-last_updated: "2016-01-01"
+last_updated: "2016-11-18"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0038725"
 soort: "zbo"
@@ -264,7 +264,7 @@ Bij de rechtmatige uitvoering van taken kan voor de daarbij gebruikte gegevens o
 
 Om tot een werkbaar rechtmatigheidsbegrip te komen, dat een externe accountant als maatstaf kan hanteren bij zijn accountantsonderzoek, zijn de volgende randvoorwaarden van belang:
 
-In [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0038725&bijlage=3&z=2016-11-18&g=2016-01-01) ‘Juridisch kader’ van dit model is een verwijzing opgenomen naar de circulaires en de regelgeving die de basis vormen voor de uitwerking van het rechtmatigheidsbegrip.
+In [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0038725&bijlage=3&z=2016-11-18&g=2016-11-18) ‘Juridisch kader’ van dit model is een verwijzing opgenomen naar de circulaires en de regelgeving die de basis vormen voor de uitwerking van het rechtmatigheidsbegrip.
 
 Als aan de genoemde randvoorwaarden is voldaan kan, rekening houdend met de invulling van het begrip rechtmatigheid in dit hoofdstuk, een externe accountant een rechtmatigheidsoordeel geven en kan hij in zijn verslag een uitspraak doen over de rechtmatige uitvoering van de [Wtcg](https://wetten.overheid.nl/jci1.3:c:BWBR0025003), de [Jeugdwet](https://wetten.overheid.nl/jci1.3:c:BWBR0034925) (ouderbijdragen), de afgifte van Schengen- en Engelstalige verklaringen, de [AWBZ](https://wetten.overheid.nl/jci1.3:c:BWBR0002614), de [Wlz](https://wetten.overheid.nl/jci1.3:c:BWBR0035917), de [Wmo](https://wetten.overheid.nl/jci1.3:c:BWBR0035362) en de CER. Het **Protocol Accountantsonderzoek 2016 CAK** werkt de richtlijnen voor het onderzoek uit van een externe accountant.
 
@@ -380,7 +380,7 @@ In het kader van de afwikkeling van de ouderbijdragen [Jeugdwet](https://wetten.
 
 Daarnaast moet het CAK zich in de rekening-courantpositie ‘Eigen bijdragen Ouderbijdrage [Jeugdwet](https://wetten.overheid.nl/jci1.3:c:BWBR0034925)’, die is opgenomen in de bestuurlijke verantwoording, verantwoorden over de afgeboekte bedragen.
 
-Het CAK verantwoordt zich over deze geldstromen en de uitvoering van de ObJw in de bestuurlijke verantwoording. In de bestuurlijke verantwoording wordt vermeld hoeveel bijdrageplichtigen er zijn voor de ouderbijdrage en hoeveel bijdrage er is geïnd. De kengetallen voor de ObJw staan vermeld in [bijlage 4](https://wetten.overheid.nl/jci1.3:c:BWBR0038725&bijlage=4&z=2016-11-18&g=2016-01-01).
+Het CAK verantwoordt zich over deze geldstromen en de uitvoering van de ObJw in de bestuurlijke verantwoording. In de bestuurlijke verantwoording wordt vermeld hoeveel bijdrageplichtigen er zijn voor de ouderbijdrage en hoeveel bijdrage er is geïnd. De kengetallen voor de ObJw staan vermeld in [bijlage 4](https://wetten.overheid.nl/jci1.3:c:BWBR0038725&bijlage=4&z=2016-11-18&g=2016-11-18).
 
 Door de bijzondere context waarbinnen het CAK zijn taak rond de vaststelling en inning van de ObJw heeft moeten invullen heeft het ministerie van VWS ermee ingestemd dat het CAK zich niet via een Third Party Mededeling (TPM) aan de gemeenten over deze taak hoeft te verantwoorden. Dit maakt onderdeel uit van de tussen het ministerie van VWS en het CAK gemaakte afspraken.
 
@@ -618,7 +618,7 @@ Voor de goedkeuringstolerantie gaat het CAK uit van de mutatiestroom. Als grens 
 
 Bij de verantwoording over de borging van de rechtmatigheid van de geldstromen maakt het CAK gebruik van de matrix bestuurlijke verantwoording. De matrix geeft aan bij welke geldstromen26De verantwoording van geldstromen vindt plaats op kasbasis. het CAK is betrokken, wat de omvang is van deze geldstromen, welke taken en verantwoordelijkheden het CAK heeft ten aanzien van deze geldstromen en welke voorbehouden gelden in verband met de opdrachtverstrekking en gegevensaanlevering door derden. In de kolom bestuurlijke verantwoording geeft het CAK aan hoe en in hoeverre de rechtmatigheid van de geldstromen door het CAK is gewaarborgd.
 
-De matrix voor VWS is uitgewerkt in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0038725&bijlage=1&z=2016-11-18&g=2016-01-01) ‘Model Matrix bestuurlijke verantwoording VWS’ van dit model. De matrix voor de NZa is uitwerkt in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0038725&bijlage=2&z=2016-11-18&g=2016-01-01) ‘Model Matrix bestuurlijke verantwoording NZa’. De matrices geven de volgende geldstromen weer, die een rol spelen bij de concrete invulling van het rechtmatigheidsbegrip bij het CAK:
+De matrix voor VWS is uitgewerkt in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0038725&bijlage=1&z=2016-11-18&g=2016-11-18) ‘Model Matrix bestuurlijke verantwoording VWS’ van dit model. De matrix voor de NZa is uitwerkt in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0038725&bijlage=2&z=2016-11-18&g=2016-11-18) ‘Model Matrix bestuurlijke verantwoording NZa’. De matrices geven de volgende geldstromen weer, die een rol spelen bij de concrete invulling van het rechtmatigheidsbegrip bij het CAK:
 
 Inzake VWS:
 
@@ -626,7 +626,7 @@ Inzake NZa:
 
 ### 4.3. Kengetallen en prestatie-indicatoren
 
-Het CAK moet in de bestuurlijke verantwoording een aantal kengetallen en prestatie-indicatoren voor het verslagjaar en voor zover van toepassing het jaar voorafgaand aan het verslagjaar opnemen. Deze kengetallen en prestatie-indicatoren zijn in [bijlage 4](https://wetten.overheid.nl/jci1.3:c:BWBR0038725&bijlage=4&z=2016-11-18&g=2016-01-01) ‘Definities kengetallen en prestatie-indicatoren’ van dit model opgenomen.
+Het CAK moet in de bestuurlijke verantwoording een aantal kengetallen en prestatie-indicatoren voor het verslagjaar en voor zover van toepassing het jaar voorafgaand aan het verslagjaar opnemen. Deze kengetallen en prestatie-indicatoren zijn in [bijlage 4](https://wetten.overheid.nl/jci1.3:c:BWBR0038725&bijlage=4&z=2016-11-18&g=2016-11-18) ‘Definities kengetallen en prestatie-indicatoren’ van dit model opgenomen.
 
 Met het oog op eventuele controles achteraf legt het CAK duidelijk intern vast, hoe de aan de kengetallen en prestatie-indicatoren ten grondslag liggende gegevens tot stand zijn gekomen.
 
