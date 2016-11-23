@@ -4,7 +4,7 @@ identifier: "BWBR0038570"
 country: "nl"
 rank: "beleidsregel"
 publication_date: "2022-08-01"
-last_updated: "2016-11-01"
+last_updated: "2016-11-23"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0038570"
 soort: "beleidsregel"
@@ -42,7 +42,7 @@ Besluit:
 
 In deze beleidsregel wordt verstaan onder:
 
-De beleidsregel wordt aangehaald als ‘Beleidsregel ontheffing bekwaamheidseisen en bekwaamheidserkenning vo’.
+De beleidsregel wordt aangehaald als: Beleidsregel ontheffing benoembaarheidsvereisten en bekwaamheidserkenning vo.
 
 De beleidsregel heeft betrekking op de manier waarop de minister gebruikmaakt van zijn bevoegdheid om:
 
@@ -52,7 +52,7 @@ De beleidsregel heeft geen betrekking op door het bevoegd gezag vastgestelde vak
 
 Om in aanmerking te komen voor een ontheffing of bekwaamheidserkenning wordt het vak, waarvoor de aanvraag wordt ingediend, op jaarbasis ten minste gemiddeld vier uur per week gegeven door betrokkene.
 
-In [bijlage III](https://wetten.overheid.nl/jci1.3:c:BWBR0038570&bijlage=III&z=2016-11-23&g=2016-11-01) is schematisch weergegeven uit welke stappen het proces voor de aanvraag van de ontheffing of bekwaamheidserkenning bestaat.
+In [bijlage III](https://wetten.overheid.nl/jci1.3:c:BWBR0038570&bijlage=III&z=2016-11-23&g=2016-11-23) is schematisch weergegeven uit welke stappen het proces voor de aanvraag van de ontheffing of bekwaamheidserkenning bestaat.
 
 Er zijn twee soorten aanvragen mogelijk:
 
@@ -101,7 +101,7 @@ In deze tabel staat beschreven voor welke doelgroep op grond van [artikel 33, tw
 | Leraar Uiterlijke Verzorging | – Ten minste 3 jaar werkervaring uiterlijke verzorging in het beroepsonderwijs, blijkend uit een werkgeversverklaring – en afgeronde bijscholing bij een ho-instelling voor het profielvak Zorg & Welzijn vmbo-docenten Uiterlijke Verzorging. | Het vak Uiterlijke Verzorging verdwijnt met de komst van de nieuwe profielen vmbo. Samen met aanvullende scholing sluit de kennis van leraren van het voormalige vak uiterlijke verzorging aan bij het het profielvak Zorg & Welzijn, inclusief de bijbehorende profielmodules. Het gaat hier om een overgangsmaatregel voor de leraren die les gaan geven in het profielvak Zorg & Welzijn die vóór 1 augustus 2016 werkzaam waren in de afdeling Uiterlijke Verzorging. | Het profielvak Zorg & Welzijn, inclusief de bijbehorende profielmodules. |
 | Leraar Media, vormgeving & ICT (profielvak en bijbehorende modules en keuzevakken) | – Getuigschrift voor vo/bve – en Certificaat ‘bekwaamheid lesgeven in de vier profielmodules MVI’ afgegeven door geaccrediteerde ho-instelling. | Met de komst van de nieuwe profielen vmbo komen een aantal vakken op een nieuwe manier samen in het profiel Media, Vormgeving & ICT, waarvoor zittende leraren zich nog bekwaam moeten tonen. Het gaat hier om een overgangsmaatregel voor de leraren die les gaan geven in het profiel Media, Vormgeving & ICT en die vóór 1 augustus 2017 werkzaam waren in het vmbo. | Het profielvak Media, Vormgeving & ICT en bijbehorende modules en keuzevakken. |
 | Theoriedocent in het praktijkonderwijs | – Onderwijsbevoegdheid voor een algemeen gebruikelijk vak in het voortgezet onderwijs – en HBO-certificaat van Taal en Reken module uit een opleiding speciale onderwijszorg of getuigschrift van Master Special Educational Needs. | Leraren met een onderwijsbevoegdheid voor een bepaald vak in het vo zijn ook in het pro enkel voor dat vak inzetbaar. Voor de doelgroep is het van belang dat zij zo min mogelijk verschillende leraren voor de klas hebben, omdat voortdurend wisselen tot teveel onrust leidt waardoor het leren in het gedrang komt. Daarnaast leidt de druk op bevoegd lesgeven tot beweging bij scholen en leidt dit in het praktijkonderwijs tot extra knelpunten, gelet op de behoefte van leerlingen. Er wordt gewerkt aan structurele maatregelen. | Theorievakken in het praktijkonderwijs. |
-| Praktijkdocent in het praktijkonderwijs | – Pedagogisch-didactisch getuigschrift – en ten minste 4 jaar werkervaring in bedrijfsleven, blijkend uit werkgeversverklaring – en ten minste 3 jaar werkervaring in het praktijkonderwijs, blijkend uit werkgeversverklaring. | In het praktijkonderwijs worden leerlingen direct naar werk begeleid. Het is daarom van belang dat zij leskrijgen van leraren die direct uit deze praktijk komen, maar die tevens voldoende pedagogisch-didactische vaardigheden bezitten om onderwijs aan deze doelgroep te verzorgen. Daarnaast leidt de druk op bevoegd lesgeven tot beweging bij scholen en leidt dit in het praktijkonderwijs tot extra knelpunten, gelet op de behoefte van leerlingen. Er wordt gewerkt aan structurele maatregelen. | Praktijkvakken in het praktijkonderwijs passend bij de ervaring opgedaan in het bedrijfsleven. |
+| Praktijkdocent in het praktijkonderwijs | – Pedagogisch-didactisch getuigschrift – en ten minste vier jaar vakgerichte werkervaring in bedrijfsleven, blijkend uit werkgeversverklaring – en ten minste 3 jaar werkervaring in het praktijkonderwijs, blijkend uit werkgeversverklaring. | In het praktijkonderwijs worden leerlingen direct naar werk begeleid. Het is daarom van belang dat zij leskrijgen van leraren die direct uit deze praktijk komen, maar die tevens voldoende pedagogisch-didactische vaardigheden bezitten om onderwijs aan deze doelgroep te verzorgen. Daarnaast leidt de druk op bevoegd lesgeven tot beweging bij scholen en leidt dit in het praktijkonderwijs tot extra knelpunten, gelet op de behoefte van leerlingen. Er wordt gewerkt aan structurele maatregelen. | Praktijkvakken in het praktijkonderwijs passend bij de ervaring opgedaan in het bedrijfsleven. |
 
 ## Bijlage II. Tabel bekwaamheidserkenning
 
