@@ -4,7 +4,7 @@ identifier: "BWBR0038755"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2016-11-26"
-last_updated: "2015-01-01"
+last_updated: "2016-11-26"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0038755"
 soort: "ministeriele-regeling"
@@ -52,7 +52,7 @@ In dit besluit wordt verstaan onder:
 
 - d. **de Verordening:** Verordening (EU) 514/2014 van het Europees Parlement en de Raad van 16 april 2014 tot vaststelling van de algemene bepalingen inzake het Fonds voor asiel, migratie en integratie en inzake het instrument voor financiële steun voor politiële samenwerking, voorkoming en bestrijding van criminaliteit en crisisbeheersing (PbEU L 150/112);
 
-- e. **het comité:** het Monitorcomité AMIF en ISF als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0038755&artikel=2&z=2016-11-26&g=2015-01-01).
+- e. **het comité:** het Monitorcomité AMIF en ISF als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0038755&artikel=2&z=2016-11-26&g=2016-11-26).
 
 ##### Artikel 2. Instelling
 
