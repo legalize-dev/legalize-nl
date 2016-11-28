@@ -4,7 +4,7 @@ identifier: "BWBR0038695"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2017-07-08"
-last_updated: "2016-11-09"
+last_updated: "2016-11-28"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0038695"
 soort: "ministeriele-regeling"
@@ -42,7 +42,7 @@ Het tweede aanvraagtijdvak op grond van de [Tijdelijke regeling cofinanciering p
 
 ##### Artikel 2. Subsidieplafond
 
-Het subsidieplafond voor het aanvraagtijdvak, bedoeld in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0038695&artikel=1&z=2016-11-09&g=2016-11-09), bedraagt:
+Het subsidieplafond voor het aanvraagtijdvak, bedoeld in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0038695&artikel=1&z=2017-07-08&g=2016-11-28), bedraagt:
 
 - a. voor projecten dienstverlening: € 7.750.000;
 
@@ -54,7 +54,7 @@ Wijzigt de Tijdelijke regeling cofinanciering projecten dienstverlening werkzoek
 
 ##### Artikel 4. Inwerkingtreding
 
-Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst, met uitzondering van [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0038695&artikel=3&z=2016-11-09&g=2016-11-09) dat in werking treedt met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst en terugwerkt tot en met 15 juli 2016.
+Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst, met uitzondering van [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0038695&artikel=3&z=2017-07-08&g=2016-11-28) dat in werking treedt met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst en terugwerkt tot en met 15 juli 2016.
 
 Gelet op de [artikelen 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008754&artikel=3), en [5 van de Kaderwet SZW-subsidies](https://wetten.overheid.nl/jci1.3:c:BWBR0008754&artikel=5) en [artikel 5, derde lid, van de Tijdelijke regeling cofinanciering projecten dienstverlening werkzoekenden en projecten samenwerking en regie arbeidsmarkt](https://wetten.overheid.nl/jci1.3:c:BWBR0038055&artikel=5);
 
