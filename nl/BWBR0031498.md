@@ -4,7 +4,7 @@ identifier: "BWBR0031498"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-04-01"
-last_updated: "2016-10-20"
+last_updated: "2016-11-29"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0031498"
 soort: "ministeriele-regeling"
@@ -60,7 +60,7 @@ Het Uitvoeringsinstituut Werknemersverzekeringen is de instantie waaraan een wer
 
 - b. de werkgever van de vreemdeling, bedoeld in [artikel 1m van het Besluit uitvoering Wet arbeid vreemdelingen](https://wetten.overheid.nl/jci1.3:c:BWBR0007523&artikel=1m), die meldt: de naam en het adres van de werkgever en van de onderwijsinstelling, de identiteit van de student aan een Academie van Bouwkunst, de duur van het contract en de aard van de werkzaamheden;
 
-- c. Dit onderdeel is nog niet in werking getreden.
+- c. de werkgever van de vreemdeling, bedoeld in artikel 1n van het [Besluit uitvoering Wet arbeid vreemdelingen](https://wetten.overheid.nl/jci1.3:c:BWBR0007523), die meldt: de naam, het adres en het KvK-nummer of registratiegegevens in de andere EU-lidstaat, van de werkgever, de identiteitsgegevens van de vreemdeling, de aard en duur van de werkzaamheden en de plaats waar de werkzaamheden worden verricht.
 
 2. In dit artikel wordt verstaan onder het KvK-nummer: het door de Kamer van Koophandel toegekende unieke nummer over een onderneming in het handelsregister.
 
