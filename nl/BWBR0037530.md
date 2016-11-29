@@ -4,7 +4,7 @@ identifier: "BWBR0037530"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2019-05-16"
-last_updated: "2016-01-13"
+last_updated: "2016-11-29"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0037530"
 soort: "ministeriele-regeling"
@@ -50,7 +50,7 @@ Besluit:
 
 ##### Artikel 1
 
-In dit besluit wordt verstaan onder buitengewoon opsporingsambtenaar: de persoon als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0037530&artikel=2&z=2016-01-13&g=2016-01-13).
+In dit besluit wordt verstaan onder buitengewoon opsporingsambtenaar: de persoon als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0037530&artikel=2&z=2016-11-29&g=2016-11-29).
 
 ##### Artikel 2
 
@@ -58,7 +58,7 @@ De personen, werkzaam in de functie van controleur openbaar vervoer in dienst va
 
 ##### Artikel 3
 
-1. De buitengewoon opsporingsambtenaar is bevoegd tot het opsporen van de strafbare feiten behorend tot het domein IV, Openbaar vervoer, als genoemd in [onderdeel 9.3 van de Beleidsregels Buitengewoon Opsporingsambtenaar](525419).
+1. De buitengewoon opsporingsambtenaar is bevoegd tot het opsporen van de strafbare feiten behorend tot het domein IV, Openbaar vervoer, als genoemd in [onderdeel 9.3 van de Beleidsregels Buitengewoon Opsporingsambtenaar](onbekend).
 
 2. De opsporingsbevoegdheid, bedoeld in het eerste lid, geldt voor het grondgebied van Nederland, voor zover noodzakelijk voor een goede vervulling van de aan de functie gerelateerde taken.
 
@@ -66,7 +66,9 @@ De personen, werkzaam in de functie van controleur openbaar vervoer in dienst va
 
 ##### Artikel 4
 
-Op grond van dit besluit kunnen maximaal 50 personen als buitengewoon opsporingsambtenaar worden beëdigd.
+1. Op grond van dit besluit kunnen maximaal 50 personen als buitengewoon opsporingsambtenaar worden beëdigd.
+
+2. De buitengewoon opsporingsambtenaar kan de in [artikel 7, eerste en derde lid, van de Politiewet 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&artikel=7) omschreven bevoegdheden uitoefenen met gebruikmaking van handboeien.
 
 ##### Artikel 5
 
@@ -78,13 +80,13 @@ Op grond van dit besluit kunnen maximaal 50 personen als buitengewoon opsporings
 
 1. De directeur van Syntus B.V. brengt jaarlijks, voor 1 april, verslag uit over:
 
-- a. het aantal buitengewoon opsporingsambtenaren werkzaam in de in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0037530&artikel=2&z=2016-01-13&g=2016-01-13) genoemde functie;
+- a. het aantal buitengewoon opsporingsambtenaren werkzaam in de in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0037530&artikel=2&z=2016-11-29&g=2016-11-29) genoemde functie;
 
 - b. de door die buitengewoon opsporingsambtenaren verrichte activiteiten;
 
 - c. de stand van zaken met betrekking tot de opleiding van die buitengewoon opsporingsambtenaren, waarbij in ieder geval wordt aangegeven hoeveel personen in het verslagjaar zijn aangemeld voor het door de Staatssecretaris van Veiligheid en Justitie goedgekeurde examen en hoeveel personen in dat jaar voor dat examen zijn geslaagd.
 
-2. Dit verslag wordt toegezonden aan de in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0037530&artikel=5&z=2016-01-13&g=2016-01-13) bedoelde toezichthouder en direct toezichthouder en aan het Ministerie van Veiligheid en Justitie, dienst Justis, afdeling V&T, postbus 20300, 2500 EH Den Haag.
+2. Dit verslag wordt toegezonden aan de in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0037530&artikel=5&z=2016-11-29&g=2016-11-29) bedoelde toezichthouder en direct toezichthouder en aan het Ministerie van Veiligheid en Justitie, dienst Justis, afdeling V&T, postbus 20300, 2500 EH Den Haag.
 
 ##### Artikel 7
 
