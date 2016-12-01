@@ -4,7 +4,7 @@ identifier: "BWBR0035000"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2024-11-15"
-last_updated: "2015-04-01"
+last_updated: "2016-12-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0035000"
 soort: "ministeriele-regeling"
@@ -40,6 +40,8 @@ Gelet op de [artikelen 13, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0
 
 Besluit:
 
+Treedt in werking op het tijdstip waarop de Wet basisnet, het Wijzigingsbesluit Besluit vervoer gevaarlijke stoffen (Wijziging routeringsystematiek in Wet vervoer gevaarlijke stoffen) (Stb. 2013/340) en het Besluit externe veiligheid transportroutes in werking treden.
+
 #### Paragraaf 1. Begrippen en reikwijdte
 
 ##### Artikel 1
@@ -48,7 +50,7 @@ Besluit:
 
 - **baanvak:** gedeelte van de hoofdspoorweg waarvan het begin en einde wordt aangeduid met coördinaten uit het stelsel van de Rijksdriehoeksmeting, bedoeld in [artikel 52 van de Kadasterwet](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&artikel=52);
 
-- **Bevt:** [Besluit externe veiligheid transportroutes](https://wetten.overheid.nl/jci1.3:c:BWBR0034233&wetgeving);
+- **Bevt:** [Besluit externe veiligheid transportroutes](https://wetten.overheid.nl/jci1.3:c:BWBR0034233);
 
 - **binnenste kantstreep:** markering van de begrenzing van de binnenzijde van de binnenste rijstrook;
 
@@ -66,7 +68,7 @@ Besluit:
 
 - **omgevingsvergunning:** vergunning waarbij met toepassing van [artikel 2.12, eerste lid, onderdeel a, van de Wet algemene bepalingen omgevingsrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0024779&artikel=2.12) van het bestemmingsplan of de beheersverordening wordt afgeweken;
 
-- **overige hoofdspoorwegen:** hoofdspoorwegen, genoemd in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0017794&bijlage=1) en [bijlage 2, onderdeel a, van het Besluit aanwijzing hoofdspoorwegen](https://wetten.overheid.nl/jci1.3:c:BWBR0017794&bijlage=2), voor zover ze niet met name zijn vermeld in [bijlage II](https://wetten.overheid.nl/jci1.3:c:BWBR0035000&bijlage=II&z=2015-04-01&g=2015-04-01);
+- **overige hoofdspoorwegen:** hoofdspoorwegen, genoemd in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0017794&bijlage=1) en [bijlage 2, onderdeel a, van het Besluit aanwijzing hoofdspoorwegen](https://wetten.overheid.nl/jci1.3:c:BWBR0017794&bijlage=2), voor zover ze niet met name zijn vermeld in [bijlage II](https://wetten.overheid.nl/jci1.3:c:BWBR0035000&bijlage=II&z=2016-12-01&g=2016-12-01);
 
 - **PR-plafond:** plaats als bedoeld in [artikel 14, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007606&artikel=14) waar het plaatsgebonden risico maximaal 10-6 per jaar is;
 
@@ -82,15 +84,15 @@ Besluit:
 
 - **verbindingsboog:** rijbaan die bij knooppunten doorgaande rijbanen met elkaar verbindt;
 
-- **wegvak:** gedeelte van een weg als bedoeld in [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035000&paragraaf=1&artikel=2&z=2015-04-01&g=2015-04-01);
+- **wegvak:** gedeelte van een weg als bedoeld in [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035000&paragraaf=1&artikel=2&z=2016-12-01&g=2016-12-01);
 
-- **wet:** [Wet vervoer gevaarlijke stoffen](https://wetten.overheid.nl/jci1.3:c:BWBR0007606&wetgeving).
+- **wet:** [Wet vervoer gevaarlijke stoffen](https://wetten.overheid.nl/jci1.3:c:BWBR0007606).
 
 2. In deze regeling wordt onder een bestemmingsplan mede begrepen een inpassingsplan als bedoeld in [artikel 3.26](https://wetten.overheid.nl/jci1.3:c:BWBR0020449&artikel=3.26) of [3.28 van de Wet ruimtelijke ordening](https://wetten.overheid.nl/jci1.3:c:BWBR0020449&artikel=3.28).
 
 ##### Artikel 2
 
-1. De wegen, hoofdspoorwegen en binnenwateren, opgenomen in onderscheidenlijk [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBR0035000&bijlage=I&z=2015-04-01&g=2015-04-01), [bijlage II](https://wetten.overheid.nl/jci1.3:c:BWBR0035000&bijlage=II&z=2015-04-01&g=2015-04-01) en [bijlage III](https://wetten.overheid.nl/jci1.3:c:BWBR0035000&bijlage=III&z=2015-04-01&g=2015-04-01), zijn de wegen, hoofdspoorwegen en binnenwateren, bedoeld in [artikel 13, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007606&artikel=13).
+1. De wegen, hoofdspoorwegen en binnenwateren, opgenomen in onderscheidenlijk [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBR0035000&bijlage=I&z=2016-12-01&g=2016-12-01), [bijlage II](https://wetten.overheid.nl/jci1.3:c:BWBR0035000&bijlage=II&z=2016-12-01&g=2016-12-01) en [bijlage III](https://wetten.overheid.nl/jci1.3:c:BWBR0035000&bijlage=III&z=2016-12-01&g=2016-12-01), zijn de wegen, hoofdspoorwegen en binnenwateren, bedoeld in [artikel 13, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007606&artikel=13).
 
 2. Wegen als bedoeld in het eerste lid zijn onderverdeeld in wegvakken waarvan het begin en einde van het wegvak wordt aangeduid door benoeming van een knooppunt of van een aansluiting. Voor zover het begin of einde van een wegvak wordt aangeduid door een knooppunt, begint of eindigt het betreffende wegvak op het geografische midden van het knooppunt. Voor zover het begin of einde van een wegvak wordt aangeduid door benoeming van een aansluiting, begint of eindigt het betreffende wegvak op het geografische midden van de kruising van de doorgaande rijbaan met de weg waar de afslag op uit komt.
 
@@ -102,7 +104,7 @@ Besluit:
 
 ##### Artikel 3
 
-1. Op een weg als bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035000&paragraaf=1&artikel=2&z=2015-04-01&g=2015-04-01), is het referentiepunt gelegen in het midden van de middenberm.
+1. Op een weg als bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035000&paragraaf=1&artikel=2&z=2016-12-01&g=2016-12-01), is het referentiepunt gelegen in het midden van de middenberm.
 
 2. In afwijking van het eerste lid is het referentiepunt gelegen op:
 
@@ -118,17 +120,17 @@ Besluit:
 
 ##### Artikel 4
 
-Op een hoofdspoorweg als bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035000&paragraaf=1&artikel=2&z=2015-04-01&g=2015-04-01), is het referentiepunt gelegen in het midden tussen de buitenste sporen van de spoorbundel voor het doorgaand verkeer.
+Op een hoofdspoorweg als bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035000&paragraaf=1&artikel=2&z=2016-12-01&g=2016-12-01), is het referentiepunt gelegen in het midden tussen de buitenste sporen van de spoorbundel voor het doorgaand verkeer.
 
 ##### Artikel 5
 
-1. Voor de ligging van de referentiepunten, bedoeld in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035000&paragraaf=2&artikel=3&z=2015-04-01&g=2015-04-01), onderscheidenlijk [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0035000&paragraaf=2&artikel=4&z=2015-04-01&g=2015-04-01), is de feitelijke situatie bepalend.
+1. Voor de ligging van de referentiepunten, bedoeld in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035000&paragraaf=2&artikel=3&z=2016-12-01&g=2016-12-01), onderscheidenlijk [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0035000&paragraaf=2&artikel=4&z=2016-12-01&g=2016-12-01), is de feitelijke situatie bepalend.
 
 2. In afwijking van het eerste lid is vanaf de dag van vaststelling van een tracébesluit of een besluit als bedoeld in [artikel 2 van het Bevt](https://wetten.overheid.nl/jci1.3:c:BWBR0034233&artikel=2) inhoudende de wijziging van een weg of hoofdspoorweg, de ligging van de weg of van de hoofdspoorweg zoals weergegeven in dat besluit, voor de ligging van de referentiepunten bepalend, totdat de feitelijke situatie overeenstemt met dat besluit.
 
 ##### Artikel 6
 
-1. Op een binnenwater als bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035000&paragraaf=1&artikel=2&z=2015-04-01&g=2015-04-01), zijn de referentiepunten gelegen op de begrenzingslijnen van de vaarweg zoals opgenomen in de legger, bedoeld in [artikel 5.1 van de Waterwet](https://wetten.overheid.nl/jci1.3:c:BWBR0025458&artikel=5.1).
+1. Op een binnenwater als bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035000&paragraaf=1&artikel=2&z=2016-12-01&g=2016-12-01), zijn de referentiepunten gelegen op de begrenzingslijnen van de vaarweg zoals opgenomen in de legger, bedoeld in [artikel 5.1 van de Waterwet](https://wetten.overheid.nl/jci1.3:c:BWBR0025458&artikel=5.1).
 
 2. In afwijking van het eerste lid zijn de referentiepunten gelegen op:
 
@@ -138,7 +140,7 @@ Op een hoofdspoorweg als bedoeld in [artikel 2, eerste lid](https://wetten.overh
 
 ##### Artikel 7
 
-1. De ligging van het PR-plafond wordt bepaald door de afstand met betrekking tot het plaatsgebonden risico 10-6 opgenomen in [bijlage I, kolom 3](https://wetten.overheid.nl/jci1.3:c:BWBR0035000&bijlage=I&z=2015-04-01&g=2015-04-01) voor wegvakken, onderscheidenlijk in [bijlage II, kolom 4](https://wetten.overheid.nl/jci1.3:c:BWBR0035000&bijlage=II&z=2015-04-01&g=2015-04-01), voor baanvakken, vanaf het betrokken referentiepunt naar weerszijden te meten.
+1. De ligging van het PR-plafond wordt bepaald door de afstand met betrekking tot het plaatsgebonden risico 10-6 opgenomen in [bijlage I, kolom 3](https://wetten.overheid.nl/jci1.3:c:BWBR0035000&bijlage=I&z=2016-12-01&g=2016-12-01) voor wegvakken, onderscheidenlijk in [bijlage II, kolom 4](https://wetten.overheid.nl/jci1.3:c:BWBR0035000&bijlage=II&z=2016-12-01&g=2016-12-01), voor baanvakken, vanaf het betrokken referentiepunt naar weerszijden te meten.
 
 2. Het PR-plafond voor een wegvak en een baanvak is gelegen op het referentiepunt indien de te meten afstand nul meter bedraagt.
 
@@ -148,7 +150,7 @@ Op een hoofdspoorweg als bedoeld in [artikel 2, eerste lid](https://wetten.overh
 
 ##### Artikel 8
 
-Indien uit [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBR0035000&bijlage=I&z=2015-04-01&g=2015-04-01), onderscheidenlijk [bijlage II](https://wetten.overheid.nl/jci1.3:c:BWBR0035000&bijlage=II&z=2015-04-01&g=2015-04-01), blijkt dat er een GR-plafond is, wordt de ligging van dat GR-plafond bepaald overeenkomstig [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0035000&paragraaf=2&artikel=7&z=2015-04-01&g=2015-04-01), met dien verstande dat gebruik wordt gemaakt van de afstanden opgenomen in bijlage I, kolom 4, voor wegvakken, onderscheidenlijk in bijlage II, kolommen 5 en 6, voor baanvakken, met betrekking tot het plaatsgebonden risico 10-7 of 10-8.
+Indien uit [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBR0035000&bijlage=I&z=2016-12-01&g=2016-12-01), onderscheidenlijk [bijlage II](https://wetten.overheid.nl/jci1.3:c:BWBR0035000&bijlage=II&z=2016-12-01&g=2016-12-01), blijkt dat er een GR-plafond is, wordt de ligging van dat GR-plafond bepaald overeenkomstig [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0035000&paragraaf=2&artikel=7&z=2016-12-01&g=2016-12-01), met dien verstande dat gebruik wordt gemaakt van de afstanden opgenomen in bijlage I, kolom 4, voor wegvakken, onderscheidenlijk in bijlage II, kolommen 5 en 6, voor baanvakken, met betrekking tot het plaatsgebonden risico 10-7 of 10-8.
 
 #### Paragraaf 3. Onderzoek naar overschrijding risicoplafonds
 
@@ -158,27 +160,27 @@ Deze paragraaf is van toepassing op het onderzoek naar een overschrijding of dre
 
 ##### Artikel 10
 
-1. De beheerder van de hoofdwegen, bedoeld in de [Tracéwet](https://wetten.overheid.nl/jci1.3:c:BWBR0006147), maakt door middel van tellingen elk jaar de omvang van het vervoer van gevaarlijke stoffen over ten minste één vijfde deel van de wegen, bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035000&paragraaf=1&artikel=2&z=2015-04-01&g=2015-04-01), per stofcategorie inzichtelijk op zodanige wijze dat elke vijf jaar tellingen op alle wegen, bedoeld in artikel 2, eerste lid, hebben plaatsgevonden.
+1. De beheerder van de hoofdwegen, bedoeld in de [Tracéwet](https://wetten.overheid.nl/jci1.3:c:BWBR0006147), maakt door middel van tellingen elk jaar de omvang van het vervoer van gevaarlijke stoffen over ten minste één vijfde deel van de wegen, bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035000&paragraaf=1&artikel=2&z=2016-12-01&g=2016-12-01), per stofcategorie inzichtelijk op zodanige wijze dat elke vijf jaar tellingen op alle wegen, bedoeld in artikel 2, eerste lid, hebben plaatsgevonden.
 
-2. De beheerder van de hoofdspoorweginfrastructuur, bedoeld in [artikel 16, eerste lid, van de Spoorwegwet](https://wetten.overheid.nl/jci1.3:c:BWBR0015007&artikel=16), maakt elk jaar op basis van de gegevens die hij heeft op grond van [artikel 4, eerste lid, van het Besluit spoorverkeer](https://wetten.overheid.nl/jci1.3:c:BWBR0017624&artikel=4) de omvang van het vervoer van gevaarlijke stoffen over de hoofdspoorwegen, bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035000&paragraaf=1&artikel=2&z=2015-04-01&g=2015-04-01) per stofcategorie, alsmede de samenstelling van de treinen waarin deze stoffen worden vervoerd, inzichtelijk.
+2. De beheerder van de hoofdspoorweginfrastructuur, bedoeld in [artikel 16, eerste lid, van de Spoorwegwet](https://wetten.overheid.nl/jci1.3:c:BWBR0015007&artikel=16), maakt elk jaar op basis van de gegevens die hij heeft op grond van [artikel 4, eerste lid, van het Besluit spoorverkeer](https://wetten.overheid.nl/jci1.3:c:BWBR0017624&artikel=4) de omvang van het vervoer van gevaarlijke stoffen over de hoofdspoorwegen, bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035000&paragraaf=1&artikel=2&z=2016-12-01&g=2016-12-01) per stofcategorie, alsmede de samenstelling van de treinen waarin deze stoffen worden vervoerd, inzichtelijk.
 
-3. De beheerder van de hoofdvaarwegen, bedoeld in de [Tracéwet](https://wetten.overheid.nl/jci1.3:c:BWBR0006147), maakt elk jaar de omvang van het vervoer van gevaarlijke stoffen over de binnenwateren, bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035000&paragraaf=1&artikel=2&z=2015-04-01&g=2015-04-01), per stofcategorie inzichtelijk. Daarbij maakt de beheerder gebruik van de ladinggegevens, geregistreerd in het Informatie- en Volgsysteem voor de Scheepvaart, alsmede van de door de Havenbedrijven van Rotterdam en Amsterdam en het Gemeenschappelijk Nautisch Beheer Scheldegebied krachtens [artikel 15, vierde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007606&artikel=15) te verstrekken gegevens.
+3. De beheerder van de hoofdvaarwegen, bedoeld in de [Tracéwet](https://wetten.overheid.nl/jci1.3:c:BWBR0006147), maakt elk jaar de omvang van het vervoer van gevaarlijke stoffen over de binnenwateren, bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035000&paragraaf=1&artikel=2&z=2016-12-01&g=2016-12-01), per stofcategorie inzichtelijk. Daarbij maakt de beheerder gebruik van de ladinggegevens, geregistreerd in het Informatie- en Volgsysteem voor de Scheepvaart, alsmede van de door de Havenbedrijven van Rotterdam en Amsterdam en het Gemeenschappelijk Nautisch Beheer Scheldegebied krachtens [artikel 15, vierde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007606&artikel=15) te verstrekken gegevens.
 
 4. Op verzoek van de minister verhoogt de beheerder de frequentie van het inzichtelijk maken van de omvang van het vervoer van gevaarlijke stoffen over een gedeelte van een weg, hoofdspoorweg of binnenwater en, indien van toepassing, de samenstelling van de treinen, tot hoogstens vier keer per jaar indien dit naar het oordeel van de minister noodzakelijk is ten behoeve van het verkrijgen van tijdig inzicht in een overschrijding of dreigende overschrijding van een risicoplafond.
 
 ##### Artikel 11
 
-1. De beheerders, bedoeld in [artikel 10, eerste tot en met derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035000&paragraaf=3&artikel=10&z=2015-04-01&g=2015-04-01), sturen jaarlijks of, in geval toepassing wordt gegeven aan artikel 10, vierde lid, overeenkomstig de desbetreffende frequentie, een rapportage aan de minister, die de gegevens, bedoeld in artikel 10, bevat.
+1. De beheerders, bedoeld in [artikel 10, eerste tot en met derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035000&paragraaf=3&artikel=10&z=2016-12-01&g=2016-12-01), sturen jaarlijks of, in geval toepassing wordt gegeven aan artikel 10, vierde lid, overeenkomstig de desbetreffende frequentie, een rapportage aan de minister, die de gegevens, bedoeld in artikel 10, bevat.
 
-2. De beheerders, bedoeld in [artikel 10, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035000&paragraaf=3&artikel=10&z=2015-04-01&g=2015-04-01), voegen bij de rapportage elke vijf jaar een prognose van de ontwikkeling van de omvang en de stromen van het vervoer van gevaarlijke stoffen over de wegen, onderscheidenlijk de hoofdspoorwegen, van de tien jaar volgend op het jaar waarop de rapportage betrekking heeft. De eerste prognose wordt bij de rapportage over 2015 gevoegd.
+2. De beheerders, bedoeld in [artikel 10, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035000&paragraaf=3&artikel=10&z=2016-12-01&g=2016-12-01), voegen bij de rapportage elke vijf jaar een prognose van de ontwikkeling van de omvang en de stromen van het vervoer van gevaarlijke stoffen over de wegen, onderscheidenlijk de hoofdspoorwegen, van de tien jaar volgend op het jaar waarop de rapportage betrekking heeft. De eerste prognose wordt bij de rapportage over 2015 gevoegd.
 
-3. De beheerder, bedoeld in [artikel 10, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035000&paragraaf=3&artikel=10&z=2015-04-01&g=2015-04-01), voegt bij de rapportage elke tien jaar een prognose van de ontwikkeling van de omvang en de stromen van het vervoer van gevaarlijke stoffen over de binnenwateren van de tien jaar volgend op het jaar waarop de rapportage betrekking heeft. De eerste prognose wordt bij de rapportage over 2015 gevoegd.
+3. De beheerder, bedoeld in [artikel 10, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035000&paragraaf=3&artikel=10&z=2016-12-01&g=2016-12-01), voegt bij de rapportage elke tien jaar een prognose van de ontwikkeling van de omvang en de stromen van het vervoer van gevaarlijke stoffen over de binnenwateren van de tien jaar volgend op het jaar waarop de rapportage betrekking heeft. De eerste prognose wordt bij de rapportage over 2015 gevoegd.
 
 ##### Artikel 12
 
-1. Op basis van de gegevens, bedoeld in [artikel 10, eerste tot en met derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035000&paragraaf=3&artikel=10&z=2015-04-01&g=2015-04-01), maakt de minister een analyse van de te verwachten ontwikkeling van de omvang en de stromen van het vervoer van gevaarlijke stoffen in de drie jaar volgend op het jaar waarop de rapportage, bedoeld in [artikel 11, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035000&paragraaf=3&artikel=11&z=2015-04-01&g=2015-04-01), betrekking heeft.
+1. Op basis van de gegevens, bedoeld in [artikel 10, eerste tot en met derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035000&paragraaf=3&artikel=10&z=2016-12-01&g=2016-12-01), maakt de minister een analyse van de te verwachten ontwikkeling van de omvang en de stromen van het vervoer van gevaarlijke stoffen in de drie jaar volgend op het jaar waarop de rapportage, bedoeld in [artikel 11, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035000&paragraaf=3&artikel=11&z=2016-12-01&g=2016-12-01), betrekking heeft.
 
-2. Indien de gegevens, bedoeld in [artikel 10, eerste tot en met derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035000&paragraaf=3&artikel=10&z=2015-04-01&g=2015-04-01), de prognose, bedoeld in [artikel 11, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035000&paragraaf=3&artikel=11&z=2015-04-01&g=2015-04-01), of de analyse, bedoeld in het eerste lid, onvoldoende inzicht bieden om tijdig een overschrijding of dreigende overschrijding van een risicoplafond te signaleren, wordt het risico berekend door de minister.
+2. Indien de gegevens, bedoeld in [artikel 10, eerste tot en met derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035000&paragraaf=3&artikel=10&z=2016-12-01&g=2016-12-01), de prognose, bedoeld in [artikel 11, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035000&paragraaf=3&artikel=11&z=2016-12-01&g=2016-12-01), of de analyse, bedoeld in het eerste lid, onvoldoende inzicht bieden om tijdig een overschrijding of dreigende overschrijding van een risicoplafond te signaleren, wordt het risico berekend door de minister.
 
 3. De berekening van het risico vindt plaats door toepassing van de rekenmethodiek transportrisico’s.
 
@@ -186,13 +188,13 @@ Deze paragraaf is van toepassing op het onderzoek naar een overschrijding of dre
 
 ##### Artikel 13
 
-[Artikel 3, eerste en tweede lid, van het Bevt](https://wetten.overheid.nl/jci1.3:c:BWBR0034233&artikel=3) is niet van toepassing op vaarwegen behorende tot de binnenvaartroutes, bedoeld in [bijlage III](https://wetten.overheid.nl/jci1.3:c:BWBR0035000&bijlage=III&z=2015-04-01&g=2015-04-01), met uitzondering van het Amsterdam-Rijnkanaal en het Lekkanaal.
+[Artikel 3, eerste en tweede lid, van het Bevt](https://wetten.overheid.nl/jci1.3:c:BWBR0034233&artikel=3) is niet van toepassing op vaarwegen behorende tot de binnenvaartroutes, bedoeld in [bijlage III](https://wetten.overheid.nl/jci1.3:c:BWBR0035000&bijlage=III&z=2016-12-01&g=2016-12-01), met uitzondering van het Amsterdam-Rijnkanaal en het Lekkanaal.
 
 ##### Artikel 14
 
 1. Bij de vaststelling van een besluit als bedoeld in [artikel 8, eerste lid, van het Bevt](https://wetten.overheid.nl/jci1.3:c:BWBR0034233&artikel=8) dat betrekking heeft op gronden in de omgeving van een basisnetroute, vindt de berekening van het groepsrisico plaats door toepassing van de rekenmethodiek transportrisico’s.
 
-2. Bij de berekening van het groepsrisico worden de vervoershoeveelheden uit de tabellen in de bijlagen, genoemd in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035000&paragraaf=1&artikel=2&z=2015-04-01&g=2015-04-01), gebruikt.
+2. Bij de berekening van het groepsrisico worden de vervoershoeveelheden uit de tabellen in de bijlagen, genoemd in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035000&paragraaf=1&artikel=2&z=2016-12-01&g=2016-12-01), gebruikt.
 
 3. In afwijking van het eerste lid hoeft het groepsrisico voor de overige hoofdspoorwegen niet te worden berekend.
 
@@ -210,7 +212,7 @@ Deze paragraaf is van toepassing op het onderzoek naar een overschrijding of dre
 
 ##### Artikel 16
 
-1. Indien in [bijlage I, kolom 5](https://wetten.overheid.nl/jci1.3:c:BWBR0035000&bijlage=I&z=2015-04-01&g=2015-04-01), onderscheidenlijk [bijlage II, kolom 7](https://wetten.overheid.nl/jci1.3:c:BWBR0035000&bijlage=II&z=2015-04-01&g=2015-04-01), is aangegeven dat voor een wegvak, onderscheidenlijk baanvak, een plasbrandaandachtsgebied bestaat, geldt het desbetreffende wegvak, onderscheidenlijk baanvak, vermeerderd met een zone van 30 meter aan weerszijden van het wegvak, onderscheidenlijk baanvak, als plasbrandaandachtsgebied.
+1. Indien in [bijlage I, kolom 5](https://wetten.overheid.nl/jci1.3:c:BWBR0035000&bijlage=I&z=2016-12-01&g=2016-12-01), onderscheidenlijk [bijlage II, kolom 7](https://wetten.overheid.nl/jci1.3:c:BWBR0035000&bijlage=II&z=2016-12-01&g=2016-12-01), is aangegeven dat voor een wegvak, onderscheidenlijk baanvak, een plasbrandaandachtsgebied bestaat, geldt het desbetreffende wegvak, onderscheidenlijk baanvak, vermeerderd met een zone van 30 meter aan weerszijden van het wegvak, onderscheidenlijk baanvak, als plasbrandaandachtsgebied.
 
 2. Op een wegvak als bedoeld in het eerste lid wordt de breedte van de zone van 30 meter gemeten vanaf de buitenste kantstrepen.
 
@@ -218,11 +220,13 @@ Deze paragraaf is van toepassing op het onderzoek naar een overschrijding of dre
 
 4. Indien voor het wegvak waarvan een verbindingsboog aftakt een plasbrandaandachtsgebied is aangewezen, geldt de verbindingsboog vermeerderd met een zone van 30 meter, gemeten vanaf de buitenste kantstrepen, aan weerszijden van die verbindingsboog als plasbrandaandachtsgebied.
 
+5. In afwijking van het tweede lid wordt de breedte van de zone van 30 meter gemeten vanaf de buitenste kantstrepen van de hoofdrijbanen, indien in [bijlage I, kolom 7](https://wetten.overheid.nl/jci1.3:c:BWBR0035000&bijlage=I&z=2016-12-01&g=2016-12-01), is vermeld dat een wegvak als bedoeld in het eerste lid is onderverdeeld in hoofdrijbanen voor doorgaand verkeer en parallelrijbanen voor lokaal verkeer.
+
 ##### Artikel 17
 
-1. Voor de ligging van een plasbrandaandachtsgebied als bedoeld in [artikel 16, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035000&paragraaf=6&artikel=16&z=2015-04-01&g=2015-04-01), is de feitelijke situatie bepalend.
+1. Voor de ligging van een plasbrandaandachtsgebied als bedoeld in [artikel 16, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035000&paragraaf=6&artikel=16&z=2016-12-01&g=2016-12-01), is de feitelijke situatie bepalend.
 
-2. In afwijking van het eerste lid is vanaf de dag van vaststelling van een tracébesluit of een besluit als bedoeld in [artikel 2 van het Bevt](https://wetten.overheid.nl/jci1.3:c:BWBR0034233&artikel=2) inhoudende de wijziging van een weg of hoofdspoorweg, de ligging van de weg of van de hoofdspoorweg zoals weergegeven in dat besluit, voor de ligging van de buitenste kantstrepen, bedoeld in [artikel 16, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035000&paragraaf=6&artikel=16&z=2015-04-01&g=2015-04-01), en de buitenste spoorstaven, bedoeld in artikel 16, derde lid, bepalend, totdat de feitelijke situatie overeenstemt met dat besluit.
+2. In afwijking van het eerste lid is vanaf de dag van vaststelling van een tracébesluit of een besluit als bedoeld in [artikel 2 van het Bevt](https://wetten.overheid.nl/jci1.3:c:BWBR0034233&artikel=2) inhoudende de wijziging van een weg of hoofdspoorweg, de ligging van de weg of van de hoofdspoorweg zoals weergegeven in dat besluit, voor de ligging van de buitenste kantstrepen, bedoeld in [artikel 16, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035000&paragraaf=6&artikel=16&z=2016-12-01&g=2016-12-01), en de buitenste spoorstaven, bedoeld in artikel 16, derde lid, bepalend, totdat de feitelijke situatie overeenstemt met dat besluit.
 
 #### Paragraaf 7. Meetpunten
 
@@ -260,7 +264,7 @@ De meetpunten, bedoeld in [artikel 11, tweede lid, van het Bevt](https://wetten.
 
 ##### Artikel 20
 
-Deze regeling treedt in werking op het tijdstip waarop de Wet van 10 juli 2013 tot wijziging van de Wet vervoer gevaarlijke stoffen en enige andere wetten in verband met de totstandkoming van een basisnet ([Wet basisnet](https://wetten.overheid.nl/jci1.3:c:BWBR0033712&wetgeving)) (Stb. 2013, 307), het Besluit van 3 september 2013 tot wijziging van het Besluit vervoer gevaarlijke stoffen in verband met de wijziging van de routeringsystematiek in de Wet vervoer gevaarlijke stoffen (Stb. 2013, 340) en het [Besluit externe veiligheid transportroutes](https://wetten.overheid.nl/jci1.3:c:BWBR0034233&wetgeving) in werking treden.
+Deze regeling treedt in werking op het tijdstip waarop de Wet van 10 juli 2013 tot wijziging van de Wet vervoer gevaarlijke stoffen en enige andere wetten in verband met de totstandkoming van een basisnet ([Wet basisnet](https://wetten.overheid.nl/jci1.3:c:BWBR0033712)) (Stb. 2013, 307), het Besluit van 3 september 2013 tot wijziging van het Besluit vervoer gevaarlijke stoffen in verband met de wijziging van de routeringsystematiek in de Wet vervoer gevaarlijke stoffen (Stb. 2013, 340) en het [Besluit externe veiligheid transportroutes](https://wetten.overheid.nl/jci1.3:c:BWBR0034233) in werking treden.
 
 ##### Artikel 21
 
@@ -271,9 +275,9 @@ Deze regeling wordt aangehaald als: Regeling basisnet.
 | 1 | 2 | 3 | 4 | 5 | 6 | 7 |
 | --- | --- | --- | --- | --- | --- | --- |
 | Aanwijzing Basisnetroutes | Aanwijzing Basisnetroutes | Risicoplafonds | Risicoplafonds | Plasbrand- aandachts- gebied | Vervoersgegevens t.b.v. berekening Groepsrisico | Bijzonderheden |
-| Wegvak (nr.) | Naam Basisnetweg (wegnummer: van - tot) | PR plafond | GR plafond |   | Vervoershoeveelheden (in aantallen tankauto's) | Tc = tunnelcategorie Wt = wegtype indien afwijkend |
-|   |   | PR 10-6 contour | PR 10-7 contour |   | Stofcategorieën | Tc = tunnelcategorie Wt = wegtype indien afwijkend |
-|   |   | (afstand in meters) | (afstand in meters) |   | GF3 | Tc = tunnelcategorie Wt = wegtype indien afwijkend |
+| Wegvak (nr.) | Naam Basisnetweg (wegnummer: van - tot) | PR plafond | GR plafond |   | Vervoershoeveelheden (in aantallen tankauto's) | Tc = tunnelcategorie Wt = wegtype indien afwijkend P-H = parallel- en hoofdrijbaan |
+|   |   | PR 10-6 contour | PR 10-7 contour |   | Stofcategorieën | Tc = tunnelcategorie Wt = wegtype indien afwijkend P-H = parallel- en hoofdrijbaan |
+|   |   | (afstand in meters) | (afstand in meters) |   | GF3 | Tc = tunnelcategorie Wt = wegtype indien afwijkend P-H = parallel- en hoofdrijbaan |
 |   | **Rijksweg A1** | **Rijksweg A1** | **Rijksweg A1** | **Rijksweg A1** | **Rijksweg A1** | **Rijksweg A1** |
 | N1 | A1: Knp. Watergraafsmeer - Knp. Diemen | 0 | 82 | JA | 4000 |   |
 | N2 | A1: Knp. Diemen - Knp. Muiderberg | 0 | 82 | JA | 4000 |   |
@@ -423,7 +427,7 @@ Deze regeling wordt aangehaald als: Regeling basisnet.
 | N98 | A10: afrit S101 (Westpoort 2000-3000) - afrit S102 (Westpoort 3000-9000) | 0 | 9 | JA | 1000 |   |
 | N14 | A10: afrit S102 (Westpoort 3000-9000) - afrit S103 (Haarlem) | 0 | 32 | JA | 1329 |   |
 | N13 | A10: afrit S103 (Haarlem) - Knp. De Nieuwe Meer | 0 | 72 | JA | 2759 |   |
-| N12 | A10: Knp. De Nieuwe Meer - Knp. Amstel | 0 | 81 | JA | 3912 |   |
+| N12 | A10: Knp. De Nieuwe Meer - Knp. Amstel | 0 | 81 | JA | 3912 | P-H |
 | N11 | A10: Knp. Amstel - Knp. Watergraafsmeer | 0 | 69 | JA | 2517 |   |
 | N10 | A10: Knp. Watergraafsmeer - afrit S114 (Zeeburg) | 0 | 70 | JA | 2562 |   |
 | N18 | A10: afrit S114 (Zeeburg) - afrit S115 (Nieuwendam) (incl. Zeeburgertunnel) | 0 | 23 | JA | 0 | Tc C |
