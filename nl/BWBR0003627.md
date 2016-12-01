@@ -4,7 +4,7 @@ identifier: "BWBR0003627"
 country: "nl"
 rank: "amvb"
 publication_date: "2025-01-01"
-last_updated: "2016-01-01"
+last_updated: "2016-12-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0003627"
 soort: "AMvB"
@@ -142,7 +142,7 @@ Vervallen
 
 ##### Artikel 7
 
-De besluiten, bedoeld in de [artikelen 4](https://wetten.overheid.nl/jci1.3:c:BWBR0003627&artikel=4&z=2016-01-01&g=2016-01-01) en [5](https://wetten.overheid.nl/jci1.3:c:BWBR0003627&artikel=5&z=2016-01-01&g=2016-01-01) worden in de **Staatscourant** geplaatst.
+De besluiten, bedoeld in de [artikelen 4](https://wetten.overheid.nl/jci1.3:c:BWBR0003627&artikel=4&z=2016-12-01&g=2016-12-01) en [5](https://wetten.overheid.nl/jci1.3:c:BWBR0003627&artikel=5&z=2016-12-01&g=2016-12-01) worden in de **Staatscourant** geplaatst.
 
 ##### Artikel 7a
 
@@ -178,6 +178,6 @@ Een wijziging van [richtlijn nr. 2002/59/EG](32002L0059) van het Europees Parlem
 
 ## Bijlage. Binnenvaartpolitiereglement (BPR)
 
-[Binnenvaartpolitiereglement](https://wetten.overheid.nl/jci1.3:c:BWBR0003628&wetgeving)
+[Binnenvaartpolitiereglement](onbekend)
 
 Lasten en bevelen, dat dit besluit met de daarbij behorende nota van toelichting en de bijlage bij deze laatste, alsmede het bij dit besluit gevoegde Binnenvaartpolitiereglement in het **Staatsblad** zullen worden geplaatst en dat daarvan afschrift zal worden gezonden aan de Raad van State.
