@@ -4,7 +4,7 @@ identifier: "BWBR0013132"
 country: "nl"
 rank: "amvb"
 publication_date: "2023-10-01"
-last_updated: "2013-01-01"
+last_updated: "2016-12-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0013132"
 soort: "AMvB"
@@ -62,7 +62,7 @@ De dagen waarop de gewone zittingen worden gehouden en de tijdstippen waarop de 
 
 ##### Artikel 3
 
-1. De voorzitter van de meervoudige kamer of degene die zitting heeft in een enkelvoudige kamer kan bepalen dat in verband met de omstandigheden in een bepaalde zaak voor de behandeling van die zaak op andere dagen, tijdstippen of plaatsen zittingen worden gehouden dan is vastgesteld in het reglement, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0013132&hoofdstuk=1&paragraaf=2&artikel=2&z=2013-01-01&g=2013-01-01).
+1. De voorzitter van de meervoudige kamer of degene die zitting heeft in een enkelvoudige kamer kan bepalen dat in verband met de omstandigheden in een bepaalde zaak voor de behandeling van die zaak op andere dagen, tijdstippen of plaatsen zittingen worden gehouden dan is vastgesteld in het reglement, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0013132&hoofdstuk=1&paragraaf=2&artikel=2&z=2016-12-01&g=2016-12-01).
 
 2. Het bestuur van een gerecht kan bepalen dat voor enig ander doel een buitengewone zitting plaatsvindt.
 
@@ -112,7 +112,7 @@ De dagen waarop de gewone zittingen worden gehouden en de tijdstippen waarop de 
 
 ##### Artikel 9
 
-1. De ambtenaren van het openbaar ministerie kunnen de uitspraken in strafzaken gewezen op hun parket ontvangen, met uitzondering van de stukken, bedoeld in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0013132&hoofdstuk=1&paragraaf=4&artikel=8&z=2013-01-01&g=2013-01-01), ten behoeve van de betekening.
+1. De ambtenaren van het openbaar ministerie kunnen de uitspraken in strafzaken gewezen op hun parket ontvangen, met uitzondering van de stukken, bedoeld in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0013132&hoofdstuk=1&paragraaf=4&artikel=8&z=2016-12-01&g=2016-12-01), ten behoeve van de betekening.
 
 2. Zo nodig geschiedt de verzending van uitspraken per dienstbrief of op een andere veilige wijze.
 
@@ -208,19 +208,19 @@ Voor andere zaken dan strafzaken waarin recht op inzage van stukken bestaat, wor
 
 2. Indien door feitelijke omstandigheden van tijdelijke aard het niet mogelijk is dat aan – al dan niet rechtens van hun vrijheid beroofde – verdachten of hun raadslieden als bedoeld in het eerste lid, ter griffie gelegenheid wordt geboden kennis te nemen van processtukken kan het bestuur van een gerecht bepalen dat voor de duur van die omstandigheden elders gelegenheid wordt geboden tot kennisneming van processtukken.
 
-3. Het besluit wordt gepubliceerd in de Staatscourant.
+3. Ingeval van het eerste en het tweede lid kan de verdachte voorts kennisneming worden geboden met behulp van een elektronische voorziening als bedoeld in [artikel 1, eerste lid, onderdeel c, van het Besluit digitale stukken Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0038616&artikel=1).
+
+4. Het besluit wordt gepubliceerd in de Staatscourant.
 
 ##### Artikel 20
 
-1. Indien dat noodzakelijk wordt geacht door:
+1. Indien dat noodzakelijk geacht wordt door:
 
-- a. de rechter-commissaris tijdens het gerechtelijk vooronderzoek,
+- a. de voorzitter van de kamer door wie de zaak wordt behandeld, of
 
-- b. een ambtenaar van het openbaar ministerie tijdens het overige voorbereidend onderzoek,
+- b. degene die zitting heeft in een enkelvoudige kamer door wie de zaak wordt behandeld,
 
-- c. de voorzitter van de kamer dan wel degene die zitting heeft in een enkelvoudige kamer door wie de zaak wordt behandeld van het tijdstip af, bedoeld in [artikel 33 van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=33),
-
-wordt de kennisneming onder toezicht gehouden.
+wordt vanaf het tijdstip, bedoeld in [artikel 33 van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=33), de kennisneming onder toezicht gehouden, tenzij uitsluitend de raadsman kennis neemt van de stukken.
 
 2. De mogelijkheid tot kennisneming wordt aldus geboden:
 
@@ -234,11 +234,11 @@ wordt de kennisneming onder toezicht gehouden.
 
 ##### Artikel 21
 
-1. Aan de raadslieden van verdachten in strafzaken worden zo spoedig als mogelijk is afschriften toegezonden van processtukken waarvan de kennisneming wettelijk is toegestaan.
+1. Aan de raadslieden van verdachten in strafzaken worden zo spoedig als mogelijk is afschriften verstrekt van processtukken waarvan de kennisneming wettelijk is toegestaan.
 
 2. Op verzoek van de verdachte of diens raadslieden worden zo spoedig als mogelijk is afschriften van processtukken waarvan de kennisneming wettelijk is toegestaan, aan hen verstrekt. Voor meer dan eenmalige verstrekking als bedoeld in dit lid kan van de verzoeker een vergoeding worden gevraagd met toepassing van [artikel 2, tweede lid, van het Besluit tarieven openbaarheid van bestuur](https://wetten.overheid.nl/jci1.3:c:BWBR0005869&artikel=2).
 
-3. De verzending, bedoeld in het eerste lid, en de verstrekking, bedoeld in het tweede lid, vindt plaats door degene onder wie de processtukken zich bevinden.
+3. De voorgaande leden vinden geen toepassing indien op grond van [artikel 32 van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=32) is bepaald dat geen afschrift wordt verstrekt. De verstrekking van afschrift aan de verdachte kan voorts geschieden met behulp van een elektronische voorziening als bedoeld in [artikel 1, eerste lid, onderdeel c, van het Besluit digitale stukken Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0038616&artikel=1).
 
 ##### Artikel 22
 
@@ -280,13 +280,13 @@ De leden van het openbaar ministerie en van het parket bij de Hoge Raad nemen ge
 
 2. De behandeling op de openbare terechtzitting vindt plaats door een andere, eveneens bij het reglement van inwendige dienst aangewezen, kamer dan de kamer, bedoeld in het eerste lid.
 
-### Hoofdstuk 2. Hoge Raad
+### Hoofdstuk 3. Hoge Raad
 
 #### Paragraaf 1. De griffier en de gerechtsvergadering
 
 ##### Artikel 28
 
-1. De reglementen, genoemd in de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0013132&hoofdstuk=1&paragraaf=2&artikel=2&z=2013-01-01&g=2013-01-01), [17](https://wetten.overheid.nl/jci1.3:c:BWBR0013132&hoofdstuk=1&paragraaf=6&artikel=17&z=2013-01-01&g=2013-01-01) en [18](https://wetten.overheid.nl/jci1.3:c:BWBR0013132&hoofdstuk=1&paragraaf=6&artikel=18&z=2013-01-01&g=2013-01-01), worden door het gerechtsbestuur vastgesteld nadat de vertegenwoordigers van het openbaar ministerie, de Nederlandse orde van advocaten en de Koninklijke Beroepsorganisatie van Gerechtsdeurwaarders in het arrondissement onderscheidenlijk in het ressort zijn gehoord.
+1. De reglementen, genoemd in de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0013132&hoofdstuk=1&paragraaf=2&artikel=2&z=2016-12-01&g=2016-12-01), [17](https://wetten.overheid.nl/jci1.3:c:BWBR0013132&hoofdstuk=1&paragraaf=6&artikel=17&z=2016-12-01&g=2016-12-01) en [18](https://wetten.overheid.nl/jci1.3:c:BWBR0013132&hoofdstuk=1&paragraaf=6&artikel=18&z=2016-12-01&g=2016-12-01), worden door het gerechtsbestuur vastgesteld nadat de vertegenwoordigers van het openbaar ministerie, de Nederlandse orde van advocaten en de Koninklijke Beroepsorganisatie van Gerechtsdeurwaarders in het arrondissement onderscheidenlijk in het ressort zijn gehoord.
 
 2. De reglementen, bedoeld in het eerste lid, worden gepubliceerd in de Staatscourant.
 
@@ -377,6 +377,18 @@ Vervallen
 ### Hoofdstuk 2. Openbaar ministerie en procureur-generaal bij de Hoge Raad
 
 ### Hoofdstuk 3. Hoge Raad
+
+### Hoofdstuk 4. Overige bepalingen
+
+Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
+
+##### Artikel 21a
+
+1. Op verzoek van het slachtoffer of zijn advocaat of gemachtigde worden zo spoedig mogelijk afschriften van processtukken waarvan de kennisneming is toegestaan, aan hen verstrekt.
+
+2. [Artikel 21, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013132&hoofdstuk=1&paragraaf=6&artikel=21&z=2016-12-01&g=2016-12-01), is van overeenkomstige toepassing.
+
+### Hoofdstuk 2. Openbaar ministerie en procureur-generaal bij de Hoge Raad
 
 ### Hoofdstuk 4. Overige bepalingen
 
