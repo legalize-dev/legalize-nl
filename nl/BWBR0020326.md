@@ -4,7 +4,7 @@ identifier: "BWBR0020326"
 country: "nl"
 rank: "amvb"
 publication_date: "2025-01-01"
-last_updated: "2016-10-06"
+last_updated: "2016-12-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0020326"
 soort: "AMvB"
@@ -139,5 +139,13 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 ##### Artikel 8
 
 Dit besluit wordt aangehaald als: Besluit uitbreiding en beperking werkingssfeer WMG.
+
+Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
+
+##### Artikel 6a
+
+1. De wet is niet van toepassing op zorg die ten laste van het integraal budget als bedoeld in [artikel 9.1 van het Besluit langdurige zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0035948&artikel=9.1) wordt gefinancierd.
+
+2. Dit artikel vervalt op een bij koninklijk besluit te bepalen tijdstip.
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
