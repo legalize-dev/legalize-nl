@@ -4,7 +4,7 @@ identifier: "BWBR0030629"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2021-09-09"
-last_updated: "2012-01-01"
+last_updated: "2016-12-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0030629"
 soort: "ministeriele-regeling"
@@ -58,13 +58,13 @@ In deze regeling wordt verstaan onder:
 
 - –. **NAVO-strijdkrachten:** de strijdkrachten van een vreemde mogendheid, die partij is bij het Noord-Atlantisch Verdrag (Stb. J 335);
 
-- –. **minister:** de Minister van Economische Zaken, Landbouw en Innovatie;
+- –. **minister:** de Minister voor Buitenlandse Handel en Ontwikkelingssamenwerking;
 
 - –. **wet:** de [Wet strategische diensten](https://wetten.overheid.nl/jci1.3:c:BWBR0030545).
 
 ##### Artikel 2
 
-Voor de toepassing van de [artikelen 7, derde lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0030545&artikel=7), en [23, derde lid, onderdeel b, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0030545&artikel=23) worden de volgende landen aangewezen: Afghanistan, Angola, Belarus, Birma/Myanmar, Congo, Egypte, Eritrea, Guinee, India, Irak, Iran, Israël, Ivoorkust, Libanon, Liberia, Libië, Noord-Korea, Pakistan, Soedan, Somalië, Syrië, Zimbabwe, Zuid-Soedan.
+Voor de toepassing van de [artikelen 7, derde lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0030545&artikel=7), en [23, derde lid, onderdeel b, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0030545&artikel=23) worden de volgende landen aangewezen: Afghanistan, Belarus, Birma/Myanmar, Centraal Afrikaanse Republiek, Congo, Egypte, Eritrea, Guinee, India, Irak, Iran, Israël, Jemen, Libanon, Libië, Noord-Korea, Oekraïne, Pakistan, Qatar, Rusland, Saoedi-Arabië, Soedan, Somalië, Syrië, Verenigde Arabische Emiraten, Zimbabwe, Zuid-Soedan.
 
 ##### Artikel 3
 
