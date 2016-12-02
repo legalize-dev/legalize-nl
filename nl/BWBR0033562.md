@@ -4,7 +4,7 @@ identifier: "BWBR0033562"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2018-12-19"
-last_updated: "2013-07-01"
+last_updated: "2016-12-02"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0033562"
 soort: "ministeriele-regeling"
@@ -66,7 +66,7 @@ In deze regeling wordt verstaan onder:
 
 ##### Artikel 3
 
-De subsidie, bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0033562&paragraaf=1&artikel=2&z=2013-07-01&g=2013-07-01), bedraagt ten hoogste het bedrag dat uit de begroting van het Ministerie van Binnenlandse Zaken en Koninkrijksrelaties blijkt, maar nooit meer dan het totaalbedrag dat de overheidssectoren in het desbetreffende boekjaar als bijdrage aan de stichting hebben geleverd.
+De subsidie, bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0033562&paragraaf=1&artikel=2&z=2016-12-02&g=2016-12-02), bedraagt ten hoogste het bedrag dat uit de begroting van het Ministerie van Binnenlandse Zaken en Koninkrijksrelaties blijkt, maar nooit meer dan het totaalbedrag dat de overheidssectoren in het desbetreffende boekjaar als bijdrage aan de stichting hebben geleverd.
 
 #### § 2. De subsidieverlening
 
@@ -88,7 +88,7 @@ De stichting dient de aanvraag tot subsidieverlening uiterlijk in op 1 oktober v
 
 1. De stichting vormt een egalisatiereserve als bedoeld in [artikel 4:72 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:72).
 
-2. De egalisatiereserve wordt uitsluitend aangewend voor kosten die direct samenhangen met de uitvoering van het activiteitenprogramma, bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0033562&paragraaf=1&artikel=2&z=2013-07-01&g=2013-07-01).
+2. De egalisatiereserve wordt uitsluitend aangewend voor kosten die direct samenhangen met de uitvoering van het activiteitenprogramma, bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0033562&paragraaf=1&artikel=2&z=2016-12-02&g=2016-12-02).
 
 3. Op 31 december 2016 bedraagt de egalisatiereserve ten hoogste € 250.000. De helft van het bedrag waarmee de egalisatiereserve op 31 december 2016 het bedrag van € 250.000 overschrijdt, wordt voor 1 maart 2017 teruggestort op de bankrekening van het Ministerie van Binnenlandse Zaken en Koninkrijksrelaties.
 
@@ -100,7 +100,7 @@ Een subsidie die is verleend krachtens de [Subsidieregeling Stichting VSO](https
 
 ##### Artikel 8
 
-Deze regeling treedt in werking met ingang van 1 juli 2013 en vervalt met ingang van 1 januari 2017.
+Deze regeling treedt in werking met ingang van 1 juli 2013 en vervalt met ingang van 1 januari 2018.
 
 ##### Artikel 9
 
