@@ -4,7 +4,7 @@ identifier: "BWBR0033558"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2021-10-29"
-last_updated: "2013-07-01"
+last_updated: "2016-12-02"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0033558"
 soort: "ministeriele-regeling"
@@ -76,7 +76,7 @@ In deze regeling wordt verstaan onder:
 
 ##### Artikel 3
 
-De subsidie, bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0033558&paragraaf=1&artikel=2&z=2013-07-01&g=2013-07-01), bedraagt ten hoogste het bedrag dat uit de begroting van het Ministerie van Binnenlandse Zaken en Koninkrijksrelaties blijkt.
+De subsidie, bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0033558&paragraaf=1&artikel=2&z=2016-12-02&g=2016-12-02), bedraagt ten hoogste het bedrag dat uit de begroting van het Ministerie van Binnenlandse Zaken en Koninkrijksrelaties blijkt.
 
 #### § 2. De subsidieverlening
 
@@ -108,15 +108,15 @@ De subsidie, bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.
 
 1. De stichting vormt een egalisatiereserve als bedoeld in [artikel 4:72 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:72).
 
-2. De jaarlijkse toevoeging aan de egalisatiereserve bedraagt ten hoogste 5 procent van de over het boekjaar verleende subsidie. De egalisatiereserve bedraagt ten hoogste 10 procent van de over het boekjaar verleende subsidie.
+2. De jaarlijkse toevoeging aan de egalisatiereserve bedraagt ten hoogste 10 procent van de over het boekjaar verleende subsidie. De egalisatiereserve bedraagt ten hoogste 20 procent van de over het boekjaar verleende subsidie.
 
-3. De egalisatiereserve wordt uitsluitend aangewend voor kosten die direct samenhangen met de activiteiten, bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0033558&paragraaf=1&artikel=2&z=2013-07-01&g=2013-07-01).
+3. De egalisatiereserve wordt uitsluitend aangewend voor kosten die direct samenhangen met de activiteiten, bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0033558&paragraaf=1&artikel=2&z=2016-12-02&g=2016-12-02).
 
 ##### Artikel 7
 
-1. De stichting hanteert voor de bezoekers van het gebouw, bedoeld in [artikel 2, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0033558&paragraaf=1&artikel=2&z=2013-07-01&g=2013-07-01), en voor het ontvangen en rondleiden van bezoekers van het Binnenhofcomplex tarieven die door de minister zijn goedgekeurd.
+1. De stichting hanteert voor de bezoekers van het gebouw, bedoeld in [artikel 2, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0033558&paragraaf=1&artikel=2&z=2016-12-02&g=2016-12-02), en voor het ontvangen en rondleiden van bezoekers van het Binnenhofcomplex tarieven die door de minister zijn goedgekeurd.
 
-2. De stichting hanteert voor het gebouw, bedoeld in [artikel 2, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0033558&paragraaf=1&artikel=2&z=2013-07-01&g=2013-07-01), en voor het Binnenhofcomplex tijdstippen van openstelling voor bezoek die door de minister zijn goedgekeurd.
+2. De stichting hanteert voor het gebouw, bedoeld in [artikel 2, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0033558&paragraaf=1&artikel=2&z=2016-12-02&g=2016-12-02), en voor het Binnenhofcomplex tijdstippen van openstelling voor bezoek die door de minister zijn goedgekeurd.
 
 #### § 5. Overgangs- en slotbepalingen
 
@@ -126,7 +126,7 @@ Een subsidie die is verleend krachtens de [Subsidieregeling Huis voor democratie
 
 ##### Artikel 9
 
-Deze regeling treedt in werking met ingang van 1 juli 2013 en vervalt met ingang van 1 januari 2017.
+Deze regeling treedt in werking met ingang van 1 juli 2013 en vervalt met ingang van 1 januari 2022.
 
 ##### Artikel 10
 
