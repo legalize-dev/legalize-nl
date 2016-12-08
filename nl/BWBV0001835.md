@@ -4,7 +4,7 @@ identifier: "BWBV0001835"
 country: "nl"
 rank: "verdrag"
 publication_date: "2016-12-08"
-last_updated: "2002-05-24"
+last_updated: "2016-12-08"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBV0001835"
 soort: "verdrag"
@@ -577,41 +577,43 @@ Iedere beslissing over de vraag of een voorgenomen activiteit, waarop artikel 3 
 
 Voor de toepassing van deze Bijlage wordt verstaan onder:
 
-- a. „inheems zoogdier": ieder lid van een soort die behoort tot de klasse Mammalia en die thuishoort in het gebied waarop het [Verdrag inzake Antarctica](https://wetten.overheid.nl/jci1.3:c:BWBV0005237) van toepassing is of daar in bepaalde seizoenen door natuurlijke migratie voorkomt;
+- a. „inheems zoogdier”: ieder lid van een soort die behoort tot de klasse Mammalia en die thuishoort in het gebied waarop het [Verdrag inzake Antarctica](https://wetten.overheid.nl/jci1.3:c:BWBV0005237) van toepassing is of daar door natuurlijke migratie voorkomt;
 
-- b. „inheemse vogel": ieder lid, in elke fase van zijn levenscyclus (met inbegrip van eieren), van een soort die behoort tot de klasse Aves en die thuishoort in het gebied waarop het [Verdrag inzake Antarctica](https://wetten.overheid.nl/jci1.3:c:BWBV0005237) van toepassing is of daar in bepaalde seizoenen door natuurlijke migratie voorkomt;
+- b. „inheemse vogel”: ieder lid, in elke fase van zijn levenscyclus (met inbegrip van eieren), van een soort die behoort tot de klasse Aves en die thuishoort in het gebied waarop het [Verdrag inzake Antarctica](https://wetten.overheid.nl/jci1.3:c:BWBV0005237) van toepassing is of daar door natuurlijke migratie voorkomt;
 
-- c. „inheemse plant": iedere vegetatie op land of in zoet water, met inbegrip van bryofyten, korstmossen, zwammen en algen, in elke fase van haar levenscyclus (met inbegrip van zaden, en andere voortplantingscellen), die thuishoort in het gebied waarop het [Verdrag inzake Antarctica](https://wetten.overheid.nl/jci1.3:c:BWBV0005237) van toepassing is;
+- c. „inheemse plant”: ieder lid van op land of in zoet water levende vegetatiesoorten, met inbegrip van bryofyten, korstmossen, schimmels en algen, in elke fase van zijn levenscyclus (met inbegrip van zaden en andere voortplantingscellen), dat thuishoort in het gebied waarop het [Verdrag inzake Antarctica](https://wetten.overheid.nl/jci1.3:c:BWBV0005237) van toepassing is;
 
-- d. „inheems ongewerveld dier": ieder op land of in zoet water levend ongewerveld dier, in elke fase van zijn levenscyclus, dat thuishoort in het gebied waarop het [Verdrag inzake Antarctica](https://wetten.overheid.nl/jci1.3:c:BWBV0005237) van toepassing is;
+- d. „inheems ongewerveld dier”: ieder lid van op land of in zoet water levende ongewervelde soorten, in elke fase van zijn levenscyclus, dat thuishoort in het gebied waarop het [Verdrag inzake Antarctica](https://wetten.overheid.nl/jci1.3:c:BWBV0005237) van toepassing is;
 
-- e. „bevoegde autoriteit": iedere persoon of instantie die door een Partij gemachtigd is om vergunningen af te geven krachtens deze Bijlage;
+- e. „bevoegde autoriteit”: iedere persoon of instantie die door een Partij gemachtigd is om vergunningen af te geven krachtens deze Bijlage;
 
-- f. „vergunning": een officiële schriftelijke vergunning afgegeven door een bevoegde autoriteit;
+- f. „vergunning”: een officiële schriftelijke vergunning afgegeven door een bevoegde autoriteit;
 
-- g. „het onttrekken van planten of dieren aan hun populatie": inheemse zoogdieren of vogels doden, verwonden, gevangennemen, vastpakken of moedwillig beschadigen, dan wel inheemse planten in zulke hoeveelheden verwijderen of beschadigen dat hun plaatselijke verspreiding of rijkdom aanmerkelijk wordt aangetast;
+- g. „het onttrekken van dieren of planten aan hun populatie”: inheemse zoogdieren of vogels doden, verwonden, gevangennemen, vastpakken of moedwillig beschadigen, dan wel inheemse planten of ongewervelde dieren in zulke hoeveelheden verwijderen of beschadigen dat hun plaatselijke verspreiding of rijkdom aanmerkelijk wordt aangetast;
 
-- h. „schadelijkoptreden":
+- h. „schadelijk optreden”:
 
-- i. het vliegen in of het doen landen van helikopters of andere luchtvaartuigen zodanig dat concentraties vogels en zeehonden worden verstoord;
+- i. het vliegen in of het doen landen van helikopters of andere luchtvaartuigen zodanig dat concentraties inheemse vogels of zeehonden worden verstoord;
 
-- ii. het gebruiken van voertuigen of vaartuigen, met inbegrip van hovercraft en kleine boten, zodanig dat concentraties vogels en zeehonden worden verstoord;
+- ii. het gebruiken van voertuigen of vaartuigen, met inbegrip van luchtkussenvaartuigen en kleine boten, zodanig dat concentraties inheemse vogels of zeehonden worden verstoord;
 
-- iii. het gebruiken van explosieven of vuurwapens zodanig dat concentraties vogels en zeehonden worden verstoord;
+- iii. het gebruiken van explosieven of vuurwapens zodanig dat concentraties inheemse vogels of zeehonden worden verstoord;
 
-- iv. het opzettelijk verstoren van broedende of ruiende vogels of concentraties vogels en zeehonden door personen te voet;
+- iv. het opzettelijk verstoren van broedende of ruiende inheemse vogels of concentraties inheemse vogels of zeehonden door personen te voet;
 
-- v. het aanmerkelijk beschadigen van concentraties inheemse, op land voorkomende, planten door het doen landen van lucht vaartuigen of het rijden in voertuigen, dan wel door erop te lopen, of op een andere wijze;
+- v. het aanmerkelijk beschadigen van concentraties op land voorkomende inheemse planten door het doen landen van luchtvaartuigen of het rijden in voertuigen, dan wel door erop te lopen, of op een andere wijze; en
 
-- vi. activiteiten die een belangrijke nadelige wijziging van de leefmilieus van een soort of een populatie van inheemse zoogdieren, vogels, planten of ongewervelde dieren tot gevolg hebben;en
+- vi. activiteiten die een belangrijke nadelige wijziging van de leefmilieus van een soort of een populatie van inheemse zoogdieren, vogels, planten of ongewervelde dieren tot gevolg hebben.
 
-- i. „[Verdrag tot regeling van de walvisvangst](https://wetten.overheid.nl/jci1.3:c:BWBV0005482)": het Verdrag gedaan te Washington op 2 december 1946.
+- i. „[Verdrag tot regeling van de walvisvangst](https://wetten.overheid.nl/jci1.3:c:BWBV0005482)”: het verdrag gedaan te Washington op 2 december 1946;
+
+- j. „Verdrag inzake de instandhouding van albatrossen en stormvogels”: het verdrag gedaan te Canberra op 19 juni 2001.
 
 ##### Artikel 2. Noodgevallen
 
-1. De bepalingen van deze Bijlage zijn niet van toepassing in noodgevallen betreffende de veiligheid van mensenlevens of van schepen, luchtvaartuigen, of materieel en faciliteiten van grote waarde, of de bescherming van het milieu.
+1. De bepalingen van deze Bijlage zijn niet van toepassing in noodgevallen betreffende de veiligheid van mensenlevens of van schepen, luchtvaartuigen of materieel en faciliteiten van grote waarde, of de bescherming van het milieu.
 
-2. Van activiteiten ondernomen in noodgevallen wordt onverwijld kennisgeving gedaan aan alle Partijen.
+2. Van activiteiten ondernomen in noodgevallen die leiden tot onttrekking van planten of dieren aan hun populatie of schadelijk optreden wordt onverwijld kennisgeving gedaan aan alle Partijen en aan de Commissie.
 
 ##### Artikel 3. Bescherming van de inheemse flora en fauna
 
@@ -619,63 +621,81 @@ Voor de toepassing van deze Bijlage wordt verstaan onder:
 
 2. Deze vergunningen vermelden de toegestane activiteit, met inbegrip van wanneer, waar en door wie deze zal worden uitgevoerd en worden uitsluitend in de volgende omstandigheden afgegeven:
 
-- a. met het oog op levering van specimina ten behoeve van wetenschappelijk onderzoek of wetenschappelijke informatie;
+- a. voor het leveren van specimina ten behoeve van wetenschappelijk onderzoek of wetenschappelijke informatie;
 
-- b. met het oog op levering van specimina ten behoeve van musea, herbaria, dierentuinen, botanische tuinen of andere educatieve of culturele instellingen of toepassingen; en
+- b. voor het leveren van specimina voor musea, herbaria en botanische tuinen of andere educatieve instellingen of toepassingen;
 
-- c. met het oog op een regeling voor onvermijdelijke gevolgen van wetenschappelijke activiteiten die anderszins niet zijn toegestaan krachtens de letters a en b hierboven, of van de bouw en bedrijfsvoering van faciliteiten voor wetenschappelijke ondersteuning.
+- c. voor het leveren van exemplaren voor dierentuinen; in het geval van inheemse zoogdieren of vogels is zulks evenwel uitsluitend toegestaan indien dergelijke exemplaren niet kunnen worden verkregen uit populaties in gevangenschap elders of in het geval van dringende noodzaak tot instandhouding; en
 
-3. Afgifte van deze vergunningen wordt beperkt ten einde te verzekeren dat:
+- d. voor het regelen van de onvermijdelijke gevolgen van wetenschappelijke activiteiten die anderszins niet zijn toegestaan krachtens de letters a, b of c hierboven, of van de bouw en exploitatie van faciliteiten voor wetenschappelijke ondersteuning.
 
-- a. niet meer inheemse zoogdieren, vogels of planten aan hun populatie worden onttrokken dan strikt noodzakelijk om de doelstellingen beschreven in het tweede lid hierboven te verwezenlijken;
+3. De afgifte van dergelijke vergunningen wordt beperkt teneinde te verzekeren dat:
 
-- b. uitsluitend kleine aantallen inheemse zoogdieren of vogels worden gedood en in elk geval niet meer inheemse zoogdieren of vogels van plaatselijke populaties worden gedood dan er, gevoegd bij de aantallen zoogdieren of vogels die het anderszins is toegestaan aan hun populatie te onttrekken, normaal door natuurlijke voortplanting in het volgende seizoen kunnen worden vervangen; en
+- a. niet meer inheemse zoogdieren, vogels, planten of ongewervelde dieren aan hun populatie worden onttrokken dan strikt noodzakelijk is om de doelstellingen beschreven in het tweede lid van dit artikel te verwezenlijken;
+
+- b. uitsluitend kleine aantallen inheemse zoogdieren of vogels worden gedood en dat er in geen geval meer inheemse zoogdieren of vogels van plaatselijke populaties worden gedood dan er, gevoegd bij de aantallen inheemse zoogdieren of vogels die anderszins aan hun populatie mogen worden onttrokken, normaal door natuurlijke voortplanting in het volgende seizoen kunnen worden vervangen; en
 
 - c. de verscheidenheid aan soorten alsmede de voor hun bestaan essentiële leefmilieus, en het evenwicht van de ecosystemen binnen het gebied waarop het [Verdrag inzake Antarctica](https://wetten.overheid.nl/jci1.3:c:BWBV0005237) van toepassing is, worden gehandhaafd.
 
-4. Alle soorten inheemse zoogdieren, vogels en planten genoemd in Aanhangsel A bij deze Bijlage worden aangewezen als „Speciaal Beschermde Soorten" en genieten speciale bescherming door de Partijen.
+4. Alle soorten inheemse zoogdieren, vogels, planten en ongewervelde dieren genoemd in Aanhangsel A bij deze Bijlage worden aangewezen als „Speciaal Beschermde Soorten” en genieten speciale bescherming door de Partijen.
 
-5. Er wordt geen vergunning afgegeven voor het onttrekken van een Speciaal Beschermde Soort aan haar populatie tenzij:
+5. Aanwijzing van een soort als Speciaal Beschermde Soort geschiedt overeenkomstig de overeengekomen procedures en criteria aangenomen door de Consultatieve Vergadering van het [Verdrag inzake Antarctica](https://wetten.overheid.nl/jci1.3:c:BWBV0005237).
 
-- a. dit een dwingend wetenschappelijk doel dient;
+6. De Commissie toetst de criteria voor het voordragen van inheemse zoogdieren, vogels, planten of ongewervelde dieren voor aanwijzing als Speciaal Beschermde Soort en brengt daarover advies uit.
 
-- b. hiermee niet het voortbestaan of het herstel van die soort of plaatselijke populatie in gevaar wordt gebracht; en
+7. Elke Partij, de Commissie, de Wetenschappelijke commissie voor onderzoek op Antarctica of de Commissie voor de instandhouding van de levende rijkdommen in de Antarctische wateren kunnen soorten voordragen voor aanwijzing als Speciaal Beschermde Soort door een met redenen omkleed voorstel in te dienen bij de Consultatieve Vergadering van het [Verdrag inzake Antarctica](https://wetten.overheid.nl/jci1.3:c:BWBV0005237).
 
-- c. hiervoor waar mogelijk niet-letale technieken worden gebruikt.
+8. Er wordt geen vergunning afgegeven voor het onttrekken van een Speciaal Beschermde Soort aan haar populatie, tenzij:
 
-6. Het onttrekken van inheemse zoogdieren en vogels aan hun populatie vindt zodanig plaats dat dit zo min mogelijk pijn en lijden met zich meebrengt.
+- a. dat een dwingend wetenschappelijk doel dient; en
 
-##### Artikel 4. Het in het gebied binnenbrengen van niet-inheemse soorten, parasieten en ziekten
+- b. hiermee niet het voortbestaan of het herstel van die soort of plaatselijke populatie in gevaar wordt gebracht.
 
-1. Er worden geen dier- of plantesoorten die niet inheems zijn in het gebied waarop het Verdrag inzake Antarctica van toepassing is, binnengebracht op het land, op ijsplaten of in het water waarop het [Verdrag inzake Antarctica](https://wetten.overheid.nl/jci1.3:c:BWBV0005237) van toepassing is, behalve overeenkomstig een vergunning.
+9. Het gebruik van letale technieken op Speciaal Beschermde Soorten is uitsluitend toegestaan indien er geen geschikte alternatieve techniek voor bestaat.
 
-2. Er worden geen honden binnengebracht op het land of op ijsplaten en de honden die momenteel in deze gebieden aanwezig zijn dienen uiterlijk 1 april 1994 te zijn verwijderd.
+10. Voorstellen voor de aanwijzing van een soort als Speciaal Beschermde Soort worden toegezonden aan de Commissie, aan de Wetenschappelijke commissie voor onderzoek op Antarctica en, voor inheemse zoogdieren en vogels, aan de Commissie voor de instandhouding van de levende rijkdommen in de Antarctische wateren en, indien van toepassing, de Vergadering van de Partijen bij het Verdrag inzake de instandhouding van albatrossen en stormvogels en andere organisaties. Bij het opstellen van haar advies aan de Consultatieve Vergadering van het [Verdrag inzake Antarctica](https://wetten.overheid.nl/jci1.3:c:BWBV0005237) omtrent de vraag of een soort als Speciaal Beschermde Soort moet worden aangewezen, houdt de Commissie rekening met het commentaar van de Wetenschappelijke commissie voor onderzoek op Antarctica en, voor inheemse zoogdieren en vogels, van de Commissie voor de instandhouding van de levende rijkdommen in de Antarctische wateren alsmede, indien van toepassing, van de Vergadering van de Partijen bij het Verdrag inzake de instandhouding van albatrossen en stormvogels en andere organisaties.
 
-3. Vergunningen krachtens het eerste lid hierboven worden afgegeven om de invoer van uitsluitend de in Aanhangsel B bij deze Bijlage genoemde planten en dieren mogelijk te maken en vermelden de soorten, aantallen en, waar passend, leeftijd en geslacht, alsmede de voorzorgen die genomen worden om ontsnapping of contact met de inheemse flora en fauna te voorkomen.
+11. Het onttrekken van inheemse zoogdieren en vogels aan hun populatie vindt zodanig plaats dat dit zo min mogelijk pijn en lijden met zich meebrengt.
 
-4. Planten of dieren waarvoor een vergunning is afgegeven overeenkomstig het eerste en derde lid hierboven worden voor het verlopen van de vergunning verwijderd uit het gebied waarop het [Verdrag inzake Antarctica](https://wetten.overheid.nl/jci1.3:c:BWBV0005237) van toepassing is, of worden verwijderd door verbranding dan wel met behulp van even doeltreffende middelen waardoor risico voor de inheemse flora en fauna uitgesloten wordt. De vergunning vermeldt deze verplichting. Alle andere planten of dieren die worden binnengebracht in het gebied waarop het Verdrag inzake Antarctica van toepassing is en daar niet thuishoren, met inbegrip van daaruit voortgekomen planten en dieren, worden verwijderd uit het gebied dan wel verwijderd door verbranding of met behulp van even doeltreffende middelen steriel gemaakt, tenzij is vastgesteld dat zij geen risico vormen voor de inheemse flora en fauna.
+##### Artikel 4. Het in het gebied brengen van niet-inheemse soorten en ziekten
 
-5. Geen enkele bepaling in dit artikel is van toepassing op de invoer van voedsel in het gebied waarop het [Verdrag inzake Antarctica](https://wetten.overheid.nl/jci1.3:c:BWBV0005237) van toepassing is, mits hiertoe geen levende dieren worden ingevoerd, en alle delen en produkten van planten en dieren onder zorgvuldig gecontroleerde omstandigheden worden bewaard en verwijderd overeenkomstig Bijlage III bij het Protocol en Aanhangsel C bij deze Bijlage.
+1. Er worden geen soorten van levende organismen die niet inheems zijn in het gebied waarop het [Verdrag inzake Antarctica](https://wetten.overheid.nl/jci1.3:c:BWBV0005237) van toepassing is binnengebracht op het land, op ijsplaten of in het water waarop het Verdrag inzake Antarctica van toepassing is, behalve overeenkomstig een vergunning.
 
-6. Elke Partij vereist dat voorzorgen, met inbegrip van de in Aanhangsel C bij deze Bijlage genoemde voorzorgen, worden getroffen om te voorkomen dat niet in de inheemse flora en fauna aanwezig zijnde micro-organismen (zoals virussen, bacteriën, parasieten, gisten en zwammen) in het gebied worden binnengebracht.
+2. Er worden geen honden binnengebracht op het land, op ijsplaten of op zee-ijs.
+
+3. Vergunningen krachtens het eerste lid hierboven:
+
+- a. worden uitsluitend afgegeven om de invoer van gecultiveerde planten en hun voortplantingscellen voor gecontroleerd gebruik of soorten van levende organismen voor gecontroleerd experimenteel gebruik mogelijk te maken; en
+
+- b. vermelden de soorten, aantallen en waar van toepassing de leeftijd en het geslacht van de binnen te brengen soorten alsmede de redenen voor het binnenbrengen en de te nemen voorzorgen ter voorkoming van ontsnapping of contact met flora en fauna.
+
+4. Alle soorten waarvoor overeenkomstig het eerste en derde lid hierboven een vergunning is afgegeven, worden voor het verlopen van de vergunning verwijderd uit het gebied waarop het [Verdrag inzake Antarctica](https://wetten.overheid.nl/jci1.3:c:BWBV0005237) van toepassing is of worden vernietigd door verbranding dan wel met behulp van even doeltreffende middelen waardoor risico voor de inheemse flora en fauna uitgesloten wordt. De vergunning vermeldt deze verplichting.
+
+5. Alle soorten die niet inheems zijn in het gebied waarop het [Verdrag inzake Antarctica](https://wetten.overheid.nl/jci1.3:c:BWBV0005237) van toepassing is, met inbegrip van daaruit voortgekomen nageslacht, die zonder een overeenkomstig het eerste en derde lid hierboven afgegeven vergunning in dat gebied zijn binnengebracht worden, waar mogelijk, verwijderd of vernietigd, tenzij verwijdering of vernietiging grotere schadelijke gevolgen zou hebben voor het milieu. De verwijdering of vernietiging kan geschieden door verbranding of met behulp van even doeltreffende middelen die de soorten steriel doen worden, tenzij is vastgesteld dat zij geen risico vormen voor de inheemse flora en fauna. Daarnaast dienen alle redelijke maatregelen te worden genomen om de gevolgen van het binnenbrengen te beheersen en schade aan de inheemse flora en fauna te voorkomen.
+
+6. Geen enkele bepaling in dit artikel is van toepassing op de invoer van voedsel in het gebied waarop het [Verdrag inzake Antarctica](https://wetten.overheid.nl/jci1.3:c:BWBV0005237) van toepassing is, mits hiertoe geen levende dieren worden ingevoerd en alle delen en producten van planten en dieren onder zorgvuldig gecontroleerde omstandigheden worden bewaard en verwijderd overeenkomstig Bijlage III bij het Protocol.
+
+7. Elke Partij vereist dat voorzorgen worden getroffen om te voorkomen dat micro-organismen (zoals virussen, bacteriën, gisten, schimmels) die er niet van nature thuishoren onbedoeld worden binnengebracht in het gebied waarop het [Verdrag inzake Antarctica](https://wetten.overheid.nl/jci1.3:c:BWBV0005237) van toepassing is.
+
+8. Geen levend pluimvee of andere levende vogels mogen worden binnengebracht in het gebied waarop het [Verdrag inzake Antarctica](https://wetten.overheid.nl/jci1.3:c:BWBV0005237) van toepassing is. Alles dient in het werk te worden gesteld om te verzekeren dat pluimvee- of gevogelteproducten die Antarctica worden binnengebracht vrij zijn van ziekten (zoals de ziekte van Newcastle, tuberculose en gistinfecties) die schadelijk kunnen zijn voor de inheemse flora en fauna. Alle niet-geconsumeerde pluimvee- of gevogelteproducten worden uit het gebied waarop het Verdrag inzake Antarctica van toepassing is verwijderd of verbrand of op daarmee vergelijkbare wijze vernietigd teneinde de risico's uit te bannen van het binnenbrengen van micro-organismen (zoals virussen, bacteriën, gisten, schimmels) voor de inheemse flora en fauna.
+
+9. De opzettelijke invoer van niet-steriele aarde in het gebied waarop het [Verdrag inzake Antarctica](https://wetten.overheid.nl/jci1.3:c:BWBV0005237) van toepassing is, is verboden. De Partijen zouden alles in het werk moeten stellen om te verzekeren dat niet-steriele aarde onbedoeld het gebied waarop het Verdrag inzake Antarctica van toepassing is wordt binnengebracht.
 
 ##### Artikel 5. Informatie
 
-Elke Partij stelt informatieve documentatie op waarin, met name, de verboden activiteiten worden beschreven en waarin lijsten worden verstrekt van Speciaal Beschermde Soorten en relevante Beschermde Gebieden en stelt deze ter beschikking van alle in het gebied waarop het [Verdrag inzake Antarctica](https://wetten.overheid.nl/jci1.3:c:BWBV0005237) van toepassing is aanwezig zijnde personen of personen die voornemens zijn daarheen te gaan, ten einde te verzekeren dat die personen op de hoogte zijn van de bepalingen van deze Bijlage en deze in acht nemen.
+Elke Partij maakt voor alle aanwezigen in het gebied waarop het [Verdrag inzake Antarctica](https://wetten.overheid.nl/jci1.3:c:BWBV0005237) van toepassing is alsmede voor personen die voornemens zijn er naartoe te gaan, informatie openbaar over verboden activiteiten en Speciaal Beschermde Soorten teneinde te verzekeren dat zij de bepalingen van deze Bijlage begrijpen en in acht nemen.
 
 ##### Artikel 6. Uitwisseling van informatie
 
 1. De Partijen treffen regelingen voor:
 
-- a. het verzamelen en uitwisselen van registers (met inbegrip van registers van vergunningen) en statistieken inzake de aantallen of hoeveelheden van alle soorten inheemse zoogdieren, vogels of planten die jaarlijks in het gebied waarop het [Verdrag inzake Antarctica](https://wetten.overheid.nl/jci1.3:c:BWBV0005237) van toepassing is, aan hun populatie worden onttrokken;
+- a. het verzamelen en jaarlijks uitwisselen van registers (met inbegrip van registers van vergunningen) en statistieken inzake de aantallen of hoeveelheden van alle soorten inheemse zoogdieren, vogels, planten of ongewervelde dieren die in het gebied waarop het [Verdrag inzake Antarctica](https://wetten.overheid.nl/jci1.3:c:BWBV0005237) van toepassing is aan hun populatie worden onttrokken; en
 
-- b. het verkrijgen en uitwisselen van informatie inzake de stand van de inheemse zoogdieren, vogels, planten en ongewervelde dieren in het gebied waarop het [Verdrag inzake Antarctica](https://wetten.overheid.nl/jci1.3:c:BWBV0005237) van toepassing is, en de mate waarin elke soort of populatie bescherming behoeft;
+- b. het verkrijgen en uitwisselen van informatie over de stand van de inheemse zoogdieren, vogels, planten en ongewervelde dieren in het gebied waarop het [Verdrag inzake Antarctica](https://wetten.overheid.nl/jci1.3:c:BWBV0005237) van toepassing is, en de mate waarin elke soort of populatie bescherming behoeft.
 
-- c. het vaststellen van een gemeenschappelijk model waarin informatie door Partijen wordt voorgelegd overeenkomstig het tweede lid hieronder.
+2. Zo snel mogelijk na het eind van het zomerseizoen op het zuidelijk halfrond en in elk geval vóór 1 oktober van elk jaar lichten de Partijen elkaar en de Commissie in over ingevolge het eerste lid hierboven genomen actie en over het aantal en de aard van de vergunningen die in de daaraan voorafgaande periode tussen 1 april en 31 maart uit hoofde van deze Bijlage zijn afgegeven.
 
-2. Elke Partij licht de andere Partijen alsmede de Commissie voor eind november van elk jaar in over elke ingevolge het eerste lid hierboven ondernomen stap en over het aantal en de aard van de krachtens deze Bijlage in de daaraan voorafgaande periode van 1 juli tot en met 30 juni afgegeven vergunningen.
-
-##### Artikel 7. Betrekking met andere overeenkomsten buiten het Antarctisch Verdragssyteem
+##### Artikel 7. Verhouding tot andere overeenkomsten buiten het antarctisch verdragssysteem
 
 De bepalingen in deze Bijlage laten de rechten en verplichtingen van de Partijen uit hoofde van het [Verdrag tot regeling van de walvisvangst](https://wetten.overheid.nl/jci1.3:c:BWBV0005482) onverlet.
 
@@ -685,9 +705,9 @@ De Partijen toetsen voortdurend de maatregelen voor de instandhouding van de flo
 
 ##### Artikel 9. Amendering of wijziging
 
-1. Deze Bijlage kan worden geamendeerd of gewijzigd door een maatregel aangenomen in overeenstemming met [artikel IX, eerste lid, van het Verdrag inzake Antarctica](https://wetten.overheid.nl/jci1.3:c:BWBV0005237&artikel=IX). Tenzij in de maatregel anders wordt aangegeven, wordt de amendering of wijziging geacht te zijn aanvaard en treedt zij in werking één jaar na de sluiting van de Consultatieve Vergadering van het [Verdrag inzake Antarctica](https://wetten.overheid.nl/jci1.3:c:BWBV0005237&artikel=IX) tijdens welke zij werd aangenomen, tenzij een of meer van de Consultatieve Partijen bij het Verdrag inzake Antarctica de Depositaris binnen die termijn ervan in kennis stellen dat zij een verlenging van die termijn wensen of dat zij de maatregel niet kunnen goedkeuren.
+1. Deze Bijlage kan worden geamendeerd of gewijzigd bij een maatregel aangenomen in overeenstemming met [artikel IX, eerste lid, van het Verdrag inzake Antarctica](https://wetten.overheid.nl/jci1.3:c:BWBV0005237&artikel=IX). Tenzij in de maatregel anders wordt aangegeven, wordt de amendering of wijziging geacht te zijn aanvaard en treedt zij in werking één jaar na de sluiting van de Consultatieve Vergadering van het [Verdrag inzake Antarctica](https://wetten.overheid.nl/jci1.3:c:BWBV0005237) tijdens welke zij werd aangenomen, tenzij een of meer van de Consultatieve Partijen bij het Verdrag inzake Antarctica de Depositaris binnen die termijn ervan in kennis stellen dat zij een verlenging van die termijn wensen of dat zij de maatregel niet kunnen goedkeuren.
 
-2. Amenderingen of wijzigingen van deze Bijlage die in werking treden overeenkomstig het eerste lid hierboven, treden daarna in werking ten aanzien van iedere andere Partij wanneer kennisgeving van haar goedkeuring door de Depositaris is ontvangen.
+2. Amenderingen of wijzigingen van deze Bijlage die in werking treden overeenkomstig het eerste lid hierboven treden daarna in werking ten aanzien van iedere andere Partij wanneer de kennisgeving van haar goedkeuring door de Depositaris is ontvangen.
 
 ##### Artikel 1. Algemene verplichtingen
 
