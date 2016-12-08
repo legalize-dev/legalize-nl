@@ -4,7 +4,7 @@ identifier: "BWBR0038831"
 country: "nl"
 rank: "wet"
 publication_date: "2020-03-01"
-last_updated: "2016-10-01"
+last_updated: "2016-12-08"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0038831"
 soort: "wet"
@@ -69,8 +69,6 @@ Dit onderdeel is nog niet inwerking getreden
 
 Wijzigt de Invoeringswet nieuwe en gewijzigde arbeidsongeschiktheidsregelingen.
 
-Dit onderdeel is nog niet inwerking getreden
-
 ##### Artikel VIII. [Invoeringswet openbare lichamen Bonaire, Sint Eustatius en Saba](https://wetten.overheid.nl/jci1.3:c:BWBR0028063)
 
 Wijzigt de Invoeringswet openbare lichamen Bonaire, Sint Eustatius en Saba.
@@ -94,8 +92,6 @@ Wijzigt de Toeslagenwet.
 ##### Artikel XII. [Verzamelwet SZW 2015](https://wetten.overheid.nl/jci1.3:c:BWBR0036013)
 
 Wijzigt de Verzamelwet SZW 2015.
-
-Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel XIII. [Werkloosheidswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004045)
 
@@ -165,8 +161,6 @@ Wijzigt de Wet inkomensvoorziening oudere en gedeeltelijk arbeidsongeschikte wer
 
 Wijzigt de Wet kinderbijslagvoorziening BES.
 
-Dit onderdeel is nog niet inwerking getreden
-
 ##### Artikel XXIII. [Wet minimumloon en minimumvakantiebijslag](https://wetten.overheid.nl/jci1.3:c:BWBR0002638)
 
 Wijzigt de Wet minimumloon en minimumvakantiebijslag.
@@ -217,8 +211,6 @@ Dit onderdeel is nog niet inwerking getreden
 
 Wijzigt de Wet werk en inkomen naar arbeidsvermogen.
 
-Dit onderdeel is nog niet inwerking getreden
-
 ##### Artikel XXXII. [Ziektewet](https://wetten.overheid.nl/jci1.3:c:BWBR0001888)
 
 Wijzigt de Ziektewet.
@@ -235,8 +227,16 @@ Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel XXXIV. Inwerkingtreding
 
-Dit onderdeel is nog niet inwerking getreden
+De artikelen van deze wet treden in werking op een bij koninklijk besluit te bepalen tijdstip, dat voor de verschillende artikelen of onderdelen daarvan verschillend kan worden vastgesteld, en kunnen terugwerken tot en met een in dat besluit te bepalen tijdstip, dat voor de verschillende artikelen of onderdelen daarvan verschillend kan worden vastgesteld. In dat besluit wordt zo nodig toepassing gegeven aan [artikel 12, eerste lid, van de Wet raadgevend referendum](https://wetten.overheid.nl/jci1.3:c:BWBR0036443&artikel=12).
 
 ##### Artikel XXXV. Citeertitel
 
-Dit onderdeel is nog niet inwerking getreden
+Deze wet wordt aangehaald als: Verzamelwet SZW 2017.
+
+Allen die deze zullen zien of horen lezen, saluut! doen te weten:
+
+Alzo Wij in overweging genomen hebben, dat het wenselijk is om enige wijzigingen aan te brengen in de wetgeving van het Ministerie van Sociale Zaken en Werkgelegenheid en van het Ministerie van Veiligheid en Justitie;
+
+Zo is het dat Wij, de Afdeling advisering van de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
+
+Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren die zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
