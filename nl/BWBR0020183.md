@@ -4,7 +4,7 @@ identifier: "BWBR0020183"
 country: "nl"
 rank: "amvb"
 publication_date: "2026-01-01"
-last_updated: "2016-01-01"
+last_updated: "2016-12-09"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0020183"
 soort: "AMvB"
@@ -78,7 +78,9 @@ In dit besluit wordt verstaan onder:
 
 - m. **gemeentelijke netto uitgaven voor uitkeringen aan dak- en thuislozen en instellingsbewoners:** de netto uitgaven van een gemeente aan algemene bijstand voor dak-, thuis- en adreslozen en elders verzorgden, welke worden ontleend aan het Stelsel van sociaal-statistische bestanden (SSB) van het CBS, in het jaar, twee jaar voorafgaand aan het jaar waarover de uitkering wordt vastgesteld;
 
-- n. **totale gemeentelijke netto uitgaven aan uitkeringen Pw, IOAW en IOAZ:** de totale netto uitgaven aan uitkeringen op grond van de wet, de IOAW en de IOAZ, welke worden ontleend aan het Stelsel van Sociaal-statistische bestanden (SBB) van het CBS, in het jaar, twee jaar voorafgaand aan het jaar waarover de uitkering wordt vastgesteld.
+- n. **totale gemeentelijke netto uitgaven aan uitkeringen Pw, IOAW en IOAZ:** de totale netto uitgaven aan uitkeringen op grond van de wet, de IOAW en de IOAZ, welke worden ontleend aan het Stelsel van Sociaal-statistische bestanden (SBB) van het CBS, in het jaar, twee jaar voorafgaand aan het jaar waarover de uitkering wordt vastgesteld;
+
+- o. **vergunninghouder:** vergunninghouder als bedoeld in [artikel 1, eerste lid, onderdeel g, van de Huisvestingswet 2014](https://wetten.overheid.nl/jci1.3:c:BWBR0035303&artikel=1).
 
 #### Werkdeel
 
@@ -98,7 +100,7 @@ waarbij:
 
 - d. TB het totale bedrag is dat beschikbaar is voor algemene bijstand en uitkeringen als bedoeld in [artikel 69, eerste lid, onderdeel a, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&artikel=69), waaronder begrepen het totale bedrag dat beschikbaar is gesteld voor algemene bijstand ten behoeve van startende ondernemers op grond van het [Bbz 2004](https://wetten.overheid.nl/jci1.3:c:BWBR0015711), en voor kosten van loonkostensubsidies als bedoeld in artikel 69, eerste lid, onderdeel b, van de wet;
 
-- e. TBMAU het totale bedrag is dat in een jaar nodig is voor de meerjarige aanvullende uitkeringen, bedoeld in [artikel 10c](https://wetten.overheid.nl/jci1.3:c:BWBR0020183&paragraaf=3&artikel=10c&z=2016-01-01&g=2016-01-01);
+- e. TBMAU het totale bedrag is dat in een jaar nodig is voor de meerjarige aanvullende uitkeringen, bedoeld in [artikel 10c](https://wetten.overheid.nl/jci1.3:c:BWBR0020183&paragraaf=3&artikel=10c&z=2016-12-09&g=2016-12-09);
 
 - f. Bklein het budgetaandeel is van alle gemeenten met 15.000 of minder inwoners, bedoeld in het vierde lid.
 
@@ -116,7 +118,7 @@ waarbij:
 
 - d. TB het totale bedrag is dat beschikbaar is voor algemene bijstand en uitkeringen als bedoeld in [artikel 69, eerste lid, onderdeel a, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&artikel=69), waaronder begrepen het totale bedrag dat beschikbaar is gesteld voor algemene bijstand ten behoeve van startende ondernemers op grond van het [Bbz 2004](https://wetten.overheid.nl/jci1.3:c:BWBR0015711), en voor kosten van loonkostensubsidies als bedoeld in artikel 69, eerste lid, onderdeel b, van de wet;
 
-- e. TBMAU het totale bedrag is dat in een jaar nodig is voor de meerjarige aanvullende uitkeringen, bedoeld in [artikel 10c](https://wetten.overheid.nl/jci1.3:c:BWBR0020183&paragraaf=3&artikel=10c&z=2016-01-01&g=2016-01-01), zoals dat artikel luidde op 31 december 2014;
+- e. TBMAU het totale bedrag is dat in een jaar nodig is voor de meerjarige aanvullende uitkeringen, bedoeld in [artikel 10c](https://wetten.overheid.nl/jci1.3:c:BWBR0020183&paragraaf=3&artikel=10c&z=2016-12-09&g=2016-12-09), zoals dat artikel luidde op 31 december 2014;
 
 - f. B15dzd het budgetaandeel is van alle gemeenten met meer dan 15.000 inwoners, bedoeld in het vijfde lid.
 
@@ -154,7 +156,7 @@ Waarbij:
 
 7. Het aantal inwoners wordt ontleend aan de statistiek «Demografische kerncijfers per gemeente» van het Centraal Bureau voor de Statistiek.
 
-8. Het totale bedrag dat in een kalenderjaar nodig is voor aanvullende uitkeringen wordt in mindering gebracht op de uitkering aan gemeenten met meer dan 25.000 inwoners waarvan de budgetgrondslag wordt berekend op grond van [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0020183&paragraaf=2&artikel=4&z=2016-01-01&g=2016-01-01) of [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0020183&paragraaf=2&artikel=5&z=2016-01-01&g=2016-01-01). Het bedrag dat in mindering wordt gebracht, wordt berekend aan de hand van de volgende formule:
+8. Het totale bedrag dat in een kalenderjaar nodig is voor aanvullende uitkeringen wordt in mindering gebracht op de uitkering aan gemeenten met meer dan 25.000 inwoners waarvan de budgetgrondslag wordt berekend op grond van [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0020183&paragraaf=2&artikel=4&z=2016-12-09&g=2016-12-09) of [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0020183&paragraaf=2&artikel=5&z=2016-12-09&g=2016-12-09). Het bedrag dat in mindering wordt gebracht, wordt berekend aan de hand van de volgende formule:
 
 B =TBMAU * [ (m *U) / som(m *U) ]
 
@@ -166,9 +168,9 @@ Waarbij:
 
 - c. m is:
 
-- 1°. 1, indien de budgetgrondslag wordt berekend op grond van [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0020183&paragraaf=2&artikel=5&z=2016-01-01&g=2016-01-01); of
+- 1°. 1, indien de budgetgrondslag wordt berekend op grond van [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0020183&paragraaf=2&artikel=5&z=2016-12-09&g=2016-12-09); of
 
-- 2°. het aantal inwoners in de gemeente, verminderd met 25.000 en vervolgens gedeeld door 15.000, indien de budgetgrondslag wordt berekend op grond van [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0020183&paragraaf=2&artikel=4&z=2016-01-01&g=2016-01-01);
+- 2°. het aantal inwoners in de gemeente, verminderd met 25.000 en vervolgens gedeeld door 15.000, indien de budgetgrondslag wordt berekend op grond van [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0020183&paragraaf=2&artikel=4&z=2016-12-09&g=2016-12-09);
 
 - d. U de uitkering voor de gemeente is;
 
@@ -210,7 +212,7 @@ waarbij:
 
 - c. TB het totale bedrag is dat beschikbaar is voor algemene bijstand en uitkeringen als bedoeld in [artikel 69, eerste lid, onderdeel a, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&artikel=69), waaronder begrepen het totale bedrag dat beschikbaar is gesteld voor algemene bijstand ten behoeve van startende ondernemers op grond van het [Bbz 2004](https://wetten.overheid.nl/jci1.3:c:BWBR0015711), en voor kosten van loonkostensubsidies als bedoeld in artikel 69, eerste lid, onderdeel b, van de wet;
 
-- d. TBMAU het totale bedrag is dat in een jaar nodig is voor de meerjarige aanvullende uitkeringen, bedoeld in [artikel 10c](https://wetten.overheid.nl/jci1.3:c:BWBR0020183&paragraaf=3&artikel=10c&z=2016-01-01&g=2016-01-01), zoals dat artikel luidde op 31 december 2014.
+- d. TBMAU het totale bedrag is dat in een jaar nodig is voor de meerjarige aanvullende uitkeringen, bedoeld in [artikel 10c](https://wetten.overheid.nl/jci1.3:c:BWBR0020183&paragraaf=3&artikel=10c&z=2016-12-09&g=2016-12-09), zoals dat artikel luidde op 31 december 2014.
 
 3. Het budget, bedoeld in het eerste lid, onderdeel e, wordt bepaald aan de hand van de volgende formule:
 
@@ -226,7 +228,7 @@ Waarbij:
 
 - d. TB het totale bedrag is dat beschikbaar is voor algemene bijstand en uitkeringen als bedoeld in [artikel 69, eerste lid, onderdeel a, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&artikel=69), waaronder begrepen het totale bedrag dat beschikbaar is gesteld voor algemene bijstand ten behoeve van startende ondernemers op grond van het Bbz 2004, en voor kosten van loonkostensubsidies als bedoeld in artikel 69, eerste lid, onderdeel b, van de wet;
 
-- e. TBMAU het totale bedrag is dat in een jaar nodig is voor de meerjarige aanvullende uitkeringen, bedoeld in [artikel 10c](https://wetten.overheid.nl/jci1.3:c:BWBR0020183&paragraaf=3&artikel=10c&z=2016-01-01&g=2016-01-01), zoals dat artikel luidde op 31 december 2014;
+- e. TBMAU het totale bedrag is dat in een jaar nodig is voor de meerjarige aanvullende uitkeringen, bedoeld in [artikel 10c](https://wetten.overheid.nl/jci1.3:c:BWBR0020183&paragraaf=3&artikel=10c&z=2016-12-09&g=2016-12-09), zoals dat artikel luidde op 31 december 2014;
 
 - f. B15dzd het budgetaandeel van alle gemeenten met meer dan 15.000 inwoners is.
 
@@ -256,13 +258,13 @@ waarbij:
 
 - c. TB het totale bedrag is dat beschikbaar is voor algemene bijstand en uitkeringen als bedoeld in [artikel 69, eerste lid, onderdeel a, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&artikel=69), waaronder begrepen het totale bedrag dat beschikbaar is gesteld voor algemene bijstand ten behoeve van startende ondernemers op grond van het [Bbz 2004](https://wetten.overheid.nl/jci1.3:c:BWBR0015711), en voor kosten van loonkostensubsidies als bedoeld in artikel 69, eerste lid, onderdeel b, van de wet;
 
-- d. TBMAU het totale bedrag is dat in een jaar nodig is voor de meerjarige aanvullende uitkeringen, bedoeld in [artikel 10c](https://wetten.overheid.nl/jci1.3:c:BWBR0020183&paragraaf=3&artikel=10c&z=2016-01-01&g=2016-01-01), zoals dat artikel luidde op 31 december 2014.
+- d. TBMAU het totale bedrag is dat in een jaar nodig is voor de meerjarige aanvullende uitkeringen, bedoeld in [artikel 10c](https://wetten.overheid.nl/jci1.3:c:BWBR0020183&paragraaf=3&artikel=10c&z=2016-12-09&g=2016-12-09), zoals dat artikel luidde op 31 december 2014.
 
 ##### Artikel 6. Objectief verdeelmodel en macrobudget
 
 1. Aan de hand van het verdeelmodel dat is opgenomen in de bijlage bij dit besluit worden de objectief bepaalde kosten voor algemene bijstand en uitkeringen, bedoeld in [artikel 69, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&artikel=69), waaronder de algemene bijstand ten behoeve van startende ondernemers op grond van het [Bbz 2004](https://wetten.overheid.nl/jci1.3:c:BWBR0015711) vastgesteld en de kosten van de loonkostensubsidies, bedoeld in artikel 69, eerste lid, onderdeel b, van de wet.
 
-2. Het totale bedrag dat beschikbaar is voor de uitkering aan de gemeenten wordt aangeduid als de factor TB in de formule, bedoeld in [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020183&paragraaf=2&artikel=2&z=2016-01-01&g=2016-01-01).
+2. Het totale bedrag dat beschikbaar is voor de uitkering aan de gemeenten wordt aangeduid als de factor TB in de formule, bedoeld in [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020183&paragraaf=2&artikel=2&z=2016-12-09&g=2016-12-09).
 
 3. Jaarlijks worden bij ministeriële regeling:
 
@@ -272,17 +274,17 @@ waarbij:
 
 - c. voor de kenmerken, zoals opgenomen in tabel 2, en de omgevingskenmerken, zoals opgenomen in tabel 1 van de bijlage bij dit besluit, de peiljaren en peildata vastgesteld.
 
-4. Bij ministeriële regeling kunnen nadere regels worden gesteld voor de [artikelen 2 tot en met 5](https://wetten.overheid.nl/jci1.3:c:BWBR0020183&paragraaf=2&artikel=2&z=2016-01-01&g=2016-01-01), en het objectief verdeelmodel, dat is opgenomen in de bijlage bij dit besluit, ter voorkoming van onvoorziene en ongewenste verdeeleffecten.
+4. Bij ministeriële regeling kunnen nadere regels worden gesteld voor de [artikelen 2 tot en met 5](https://wetten.overheid.nl/jci1.3:c:BWBR0020183&paragraaf=2&artikel=2&z=2016-12-09&g=2016-12-09), en het objectief verdeelmodel, dat is opgenomen in de bijlage bij dit besluit, ter voorkoming van onvoorziene en ongewenste verdeeleffecten.
 
 ##### Artikel 7. Te late indiening verantwoordingsinformatie
 
-1. Indien van een gemeente de bijlage bij de jaarrekening met verantwoordingsinformatie over specifieke uitkeringen, bedoeld in [artikel 58a, eerste lid, van het Besluit begroting en verantwoording provincies en gemeenten](https://wetten.overheid.nl/jci1.3:c:BWBR0014606&artikel=58a), voor zover deze betrekking heeft op de uitvoering van de wet, de [IOAW](https://wetten.overheid.nl/jci1.3:c:BWBR0004044), de [IOAZ](https://wetten.overheid.nl/jci1.3:c:BWBR0004163) en het [Bbz 2004](https://wetten.overheid.nl/jci1.3:c:BWBR0015711) over het jaar twee jaar voorafgaand aan het jaar waarover de uitkering wordt bepaald, en de daarbij behorende verklaring van de accountant door Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties niet is ontvangen uiterlijk op 15 augustus van het jaar voorafgaand aan het jaar waarover de uitkering wordt vastgesteld, wordt voor de toepassing van de [artikelen 2, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020183&paragraaf=2&artikel=2&z=2016-01-01&g=2016-01-01), [3](https://wetten.overheid.nl/jci1.3:c:BWBR0020183&paragraaf=2&artikel=3&z=2016-01-01&g=2016-01-01), [4, eerste lid, onderdeel d, en tweede lid, onderdelen a, b, en c](https://wetten.overheid.nl/jci1.3:c:BWBR0020183&paragraaf=2&artikel=4&z=2016-01-01&g=2016-01-01), en [artikel 8a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020183&paragraaf=2&artikel=8a&z=2016-01-01&g=2016-01-01), voor de gemeentelijke lasten op grond van de [PW](https://wetten.overheid.nl/jci1.3:c:BWBR0015703), de gemeentelijke lasten op grond van de IOAW, de gemeentelijke lasten op grond van de IOAZ en de gemeentelijke lasten op grond van het Bbz 2004 uitgegaan van het jaar drie jaar voorafgaand aan het jaar waarover de uitkering wordt vastgesteld met correctie van deze gegevens in verband met de prijsontwikkeling en de ontwikkeling van het bijstandsvolume.
+1. Indien van een gemeente de bijlage bij de jaarrekening met verantwoordingsinformatie over specifieke uitkeringen, bedoeld in [artikel 58a, eerste lid, van het Besluit begroting en verantwoording provincies en gemeenten](https://wetten.overheid.nl/jci1.3:c:BWBR0014606&artikel=58a), voor zover deze betrekking heeft op de uitvoering van de wet, de [IOAW](https://wetten.overheid.nl/jci1.3:c:BWBR0004044), de [IOAZ](https://wetten.overheid.nl/jci1.3:c:BWBR0004163) en het [Bbz 2004](https://wetten.overheid.nl/jci1.3:c:BWBR0015711) over het jaar twee jaar voorafgaand aan het jaar waarover de uitkering wordt bepaald, en de daarbij behorende verklaring van de accountant door Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties niet is ontvangen uiterlijk op 15 augustus van het jaar voorafgaand aan het jaar waarover de uitkering wordt vastgesteld, wordt voor de toepassing van de [artikelen 2, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020183&paragraaf=2&artikel=2&z=2016-12-09&g=2016-12-09), [3](https://wetten.overheid.nl/jci1.3:c:BWBR0020183&paragraaf=2&artikel=3&z=2016-12-09&g=2016-12-09), [4, eerste lid, onderdeel d, en tweede lid, onderdelen a, b, en c](https://wetten.overheid.nl/jci1.3:c:BWBR0020183&paragraaf=2&artikel=4&z=2016-12-09&g=2016-12-09), en [artikel 8a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020183&paragraaf=2&artikel=8a&z=2016-12-09&g=2016-12-09), voor de gemeentelijke lasten op grond van de [PW](https://wetten.overheid.nl/jci1.3:c:BWBR0015703), de gemeentelijke lasten op grond van de IOAW, de gemeentelijke lasten op grond van de IOAZ en de gemeentelijke lasten op grond van het Bbz 2004 uitgegaan van het jaar drie jaar voorafgaand aan het jaar waarover de uitkering wordt vastgesteld met correctie van deze gegevens in verband met de prijsontwikkeling en de ontwikkeling van het bijstandsvolume.
 
 2. Bij ministeriële regeling wordt een correctiefactor bij de toepassing van het eerste lid vastgesteld.
 
 ##### Artikel 8. Gemeenschappelijke regelingen
 
-1. Indien [artikel 8c van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&artikel=8c), onderscheidenlijk [artikel 40 van de IOAW](https://wetten.overheid.nl/jci1.3:c:BWBR0004044&artikel=40) en [artikel 40 van de IOAZ](https://wetten.overheid.nl/jci1.3:c:BWBR0004163&artikel=40) van toepassing is, kan voor de toepassing van de [artikelen 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020183&paragraaf=2&artikel=2&z=2016-01-01&g=2016-01-01), [3](https://wetten.overheid.nl/jci1.3:c:BWBR0020183&paragraaf=2&artikel=3&z=2016-01-01&g=2016-01-01), en [4](https://wetten.overheid.nl/jci1.3:c:BWBR0020183&paragraaf=2&artikel=4&z=2016-01-01&g=2016-01-01) voor:
+1. Indien [artikel 8c van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&artikel=8c), onderscheidenlijk [artikel 40 van de IOAW](https://wetten.overheid.nl/jci1.3:c:BWBR0004044&artikel=40) en [artikel 40 van de IOAZ](https://wetten.overheid.nl/jci1.3:c:BWBR0004163&artikel=40) van toepassing is, kan voor de toepassing van de [artikelen 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020183&paragraaf=2&artikel=2&z=2016-12-09&g=2016-12-09), [3](https://wetten.overheid.nl/jci1.3:c:BWBR0020183&paragraaf=2&artikel=3&z=2016-12-09&g=2016-12-09), en [4](https://wetten.overheid.nl/jci1.3:c:BWBR0020183&paragraaf=2&artikel=4&z=2016-12-09&g=2016-12-09) voor:
 
 - a. de gemeentelijke lasten op grond van de [PW](https://wetten.overheid.nl/jci1.3:c:BWBR0015703);
 
@@ -294,11 +296,11 @@ waarbij:
 
 de informatie in aanmerking worden genomen die het openbaar lichaam heeft verantwoord over het jaar twee jaar voorafgaand aan het jaar waarover de uitkering wordt vastgesteld. De eerste zin is slechts van toepassing indien de bedoelde informatie is vastgesteld overeenkomstig [artikel 34a van de Wet gemeenschappelijke regelingen](https://wetten.overheid.nl/jci1.3:c:BWBR0003740&artikel=34a).
 
-2. Indien van een openbaar lichaam de verantwoordingsinformatie, bedoeld in het eerste lid, voor zover deze betrekking heeft op de uitvoering van de [wet](https://wetten.overheid.nl/jci1.3:c:BWBR0015703), de [IOAW](https://wetten.overheid.nl/jci1.3:c:BWBR0004044), de [IOAZ](https://wetten.overheid.nl/jci1.3:c:BWBR0004163) en het [Bbz 2004](https://wetten.overheid.nl/jci1.3:c:BWBR0015711) over het jaar dat twee jaar voorafgaat aan het jaar waarover de uitkering wordt vastgesteld, en de daarbij behorende verklaring van de accountant door Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties niet is ontvangen uiterlijk op 15 augustus van het jaar dat voorafgaat aan het jaar waarover de uitkering wordt vastgesteld, is [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0020183&paragraaf=2&artikel=7&z=2016-01-01&g=2016-01-01) van overeenkomstige toepassing. In dat geval wordt voor de ontbrekende informatie uitgegaan van de verantwoordingsinformatie van het openbaar lichaam over het jaar dat drie jaar voorafgaat aan het jaar waarover de uitkering wordt vastgesteld, indien die verantwoordingsinformatie door Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties is ontvangen.
+2. Indien van een openbaar lichaam de verantwoordingsinformatie, bedoeld in het eerste lid, voor zover deze betrekking heeft op de uitvoering van de [wet](https://wetten.overheid.nl/jci1.3:c:BWBR0015703), de [IOAW](https://wetten.overheid.nl/jci1.3:c:BWBR0004044), de [IOAZ](https://wetten.overheid.nl/jci1.3:c:BWBR0004163) en het [Bbz 2004](https://wetten.overheid.nl/jci1.3:c:BWBR0015711) over het jaar dat twee jaar voorafgaat aan het jaar waarover de uitkering wordt vastgesteld, en de daarbij behorende verklaring van de accountant door Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties niet is ontvangen uiterlijk op 15 augustus van het jaar dat voorafgaat aan het jaar waarover de uitkering wordt vastgesteld, is [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0020183&paragraaf=2&artikel=7&z=2016-12-09&g=2016-12-09) van overeenkomstige toepassing. In dat geval wordt voor de ontbrekende informatie uitgegaan van de verantwoordingsinformatie van het openbaar lichaam over het jaar dat drie jaar voorafgaat aan het jaar waarover de uitkering wordt vastgesteld, indien die verantwoordingsinformatie door Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties is ontvangen.
 
 ##### Artikel 8a. Overgangsrecht voor de jaren 2015, 2016 en 2017
 
-1. In afwijking van de [artikelen 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020183&paragraaf=2&artikel=2&z=2016-01-01&g=2016-01-01), [4](https://wetten.overheid.nl/jci1.3:c:BWBR0020183&paragraaf=2&artikel=4&z=2016-01-01&g=2016-01-01) en [5](https://wetten.overheid.nl/jci1.3:c:BWBR0020183&paragraaf=2&artikel=5&z=2016-01-01&g=2016-01-01) wordt de uitkering voor een gemeente met meer dan 15.000 inwoners in de jaren 2015, 2016 en 2017 berekend aan de hand van de volgende formules:
+1. In afwijking van de [artikelen 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020183&paragraaf=2&artikel=2&z=2016-12-09&g=2016-12-09), [4](https://wetten.overheid.nl/jci1.3:c:BWBR0020183&paragraaf=2&artikel=4&z=2016-12-09&g=2016-12-09) en [5](https://wetten.overheid.nl/jci1.3:c:BWBR0020183&paragraaf=2&artikel=5&z=2016-12-09&g=2016-12-09) wordt de uitkering voor een gemeente met meer dan 15.000 inwoners in de jaren 2015, 2016 en 2017 berekend aan de hand van de volgende formules:
 
 - a. voor de jaren 2015 en 2016 volgens de formule U = (0,5 × L/TL15dzd + 0,5 × G/TG15dzd) × (TB + TBMAU) x B15dzd
 
@@ -318,7 +320,7 @@ Waarbij:
 
 - f. TB het totale bedrag is dat beschikbaar is voor algemene bijstand en uitkeringen als bedoeld in [artikel 69, eerste lid, onderdeel a, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&artikel=69) waaronder inbegrepen het totale bedrag dat beschikbaar is gesteld voor algemene bijstand ten behoeve van startende ondernemers op grond van het [Bbz 2004](https://wetten.overheid.nl/jci1.3:c:BWBR0015711) en voor kosten van loonkostensubsidies als bedoeld in artikel 69, eerste lid, onderdeel b, van de wet;
 
-- g. TBMAU het bedrag is dat in een jaar aan meerjarige aanvullende uitkeringen wordt uitgekeerd als bedoeld in [artikel 10c](https://wetten.overheid.nl/jci1.3:c:BWBR0020183&paragraaf=3&artikel=10c&z=2016-01-01&g=2016-01-01);
+- g. TBMAU het bedrag is dat in een jaar aan meerjarige aanvullende uitkeringen wordt uitgekeerd als bedoeld in [artikel 10c](https://wetten.overheid.nl/jci1.3:c:BWBR0020183&paragraaf=3&artikel=10c&z=2016-12-09&g=2016-12-09);
 
 - h. B15dzd het budgetaandeel is van alle gemeenten met meer dan 15.000 inwoners.
 
@@ -334,7 +336,7 @@ De toetsingscommissie bestaat uit een voorzitter en vier leden. Onze Minister be
 
 - a. het college een hiertoe strekkend verzoek heeft ingediend;
 
-- b. voldaan is aan bij ministeriële regeling te stellen vormvoorschriften en de vereisten, genoemd in [artikel 10a, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020183&paragraaf=3&artikel=10a&z=2016-01-01&g=2016-01-01);
+- b. voldaan is aan bij ministeriële regeling te stellen vormvoorschriften en de vereisten, genoemd in [artikel 10a, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020183&paragraaf=3&artikel=10a&z=2016-12-09&g=2016-12-09);
 
 - c. de netto lasten de verstrekte uitkering met meer dan vijf procent overstijgen.
 
@@ -368,7 +370,7 @@ m staat voor het aantal inwoners van de gemeente, gemeten per 1 januari 2016 op 
 
 VB staat voor een vast bedrag van € 30.
 
-4. Indien het college over het jaar 2015 of over de jaren 2015 en 2016 op grond van de [artikelen 10a tot en met 10d](https://wetten.overheid.nl/jci1.3:c:BWBR0020183&paragraaf=3&artikel=10a&z=2016-01-01&g=2016-01-01) van het Besluit WWB 2007, zoals die artikelen luidden op 31 december 2014, een meerjarige aanvullende uitkering zou ontvangen waarbij op grond van [artikel 10c, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020183&paragraaf=3&artikel=10c&z=2016-01-01&g=2016-01-01), van dat Besluit percentages van 102,5% of 105% gelden, is het tweede lid niet van toepassing en wordt de hoogte van de uitkering vastgesteld op het verschil tussen de in aanmerking komende netto lasten over het jaar 2015 of, indien van toepassing, over het jaar 2016 en het percentage van de verstrekte uitkering dat op grond van artikel 10c, derde lid, van dat Besluit, zoals dat artikel luidde op 31 december 2014, van toepassing was voor de hoogte van de meerjarige aanvullende uitkering die ziet op het jaar 2015 of 2016.
+4. Indien het college over het jaar 2015 of over de jaren 2015 en 2016 op grond van de [artikelen 10a tot en met 10d](https://wetten.overheid.nl/jci1.3:c:BWBR0020183&paragraaf=3&artikel=10a&z=2016-12-09&g=2016-12-09) van het Besluit WWB 2007, zoals die artikelen luidden op 31 december 2014, een meerjarige aanvullende uitkering zou ontvangen waarbij op grond van [artikel 10c, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020183&paragraaf=3&artikel=10c&z=2016-12-09&g=2016-12-09), van dat Besluit percentages van 102,5% of 105% gelden, is het tweede lid niet van toepassing en wordt de hoogte van de uitkering vastgesteld op het verschil tussen de in aanmerking komende netto lasten over het jaar 2015 of, indien van toepassing, over het jaar 2016 en het percentage van de verstrekte uitkering dat op grond van artikel 10c, derde lid, van dat Besluit, zoals dat artikel luidde op 31 december 2014, van toepassing was voor de hoogte van de meerjarige aanvullende uitkering die ziet op het jaar 2015 of 2016.
 
 #### § 4. Overige en slotbepalingen
 
@@ -592,7 +594,7 @@ Lasten en bevelen dat dit besluit en de bijlagen met de daarbij behorende nota v
 
 ##### Artikel 10a. Beoordeling verzoek vangnetuitkering
 
-1. De toetsingscommissie beoordeelt of een verzoek tot een vangnetuitkering voldoet aan de in [artikel 10, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020183&paragraaf=3&artikel=10&z=2016-01-01&g=2016-01-01), genoemde voorwaarden en vergezeld gaat van de documenten waaruit blijkt dat voldaan is aan het tweede lid, en adviseert Onze Minister.
+1. De toetsingscommissie beoordeelt of een verzoek tot een vangnetuitkering voldoet aan de in [artikel 10, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020183&paragraaf=3&artikel=10&z=2016-12-09&g=2016-12-09), genoemde voorwaarden en vergezeld gaat van de documenten waaruit blijkt dat voldaan is aan het tweede lid, en adviseert Onze Minister.
 
 2. De toetsingscommissie beoordeelt het verzoek indien kan worden vastgesteld:
 
@@ -608,7 +610,7 @@ Lasten en bevelen dat dit besluit en de bijlagen met de daarbij behorende nota v
 
 3. De toetsingscommissie beoordeelt de omvang van de netto lasten, die in aanmerking worden genomen, waarbij bedragen die blijkens het verslag van bevindingen, bedoeld in [artikel 213, derde en vierde lid, van de Gemeentewet](https://wetten.overheid.nl/jci1.3:c:BWBR0005416) bij de informatie, bedoeld in [artikel 17a van de Financiële-verhoudingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0008290&artikel=17a) als fout of onzeker worden aangemerkt in mindering worden gebracht op de netto lasten.
 
-4. Indien bij de vaststelling van de uitkering voor 2015 [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0020183&paragraaf=2&artikel=7&z=2016-01-01&g=2016-01-01) is toegepast, wordt voor de beoordeling van het tekort de verstrekte uitkering voor 2015 vastgesteld op het bedrag dat is gebaseerd op de gemeentelijke lasten waarbij artikel 7 niet zou zijn toegepast.
+4. Indien bij de vaststelling van de uitkering voor 2015 [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0020183&paragraaf=2&artikel=7&z=2016-12-09&g=2016-12-09) is toegepast, wordt voor de beoordeling van het tekort de verstrekte uitkering voor 2015 vastgesteld op het bedrag dat is gebaseerd op de gemeentelijke lasten waarbij artikel 7 niet zou zijn toegepast.
 
 5. Een verzoek tot een aanvullende uitkering wordt in ieder geval afgewezen, indien Onze Minister een aanwijzing als bedoeld in artikel 76 van de wet heeft gegeven en het verzoek betrekking heeft op het kalenderjaar waarin de aanwijzing is gegeven of op het daaraan voorafgaande kalenderjaar.
 
@@ -632,15 +634,15 @@ Lasten en bevelen dat dit besluit en de bijlagen met de daarbij behorende nota v
 
 ##### Artikel 10b. Overgangsrecht incidentele en meerjarige aanvullende uitkeringen
 
-1. Op incidentele aanvullende uitkeringen, bedoeld in [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0020183&paragraaf=3&artikel=10&z=2016-01-01&g=2016-01-01) van het Besluit WWB 2007, zoals dat artikel luidde op 31 december 2014, die betrekking hebben op het kalenderjaar 2014, blijft dat artikel 10 van toepassing.
+1. Op incidentele aanvullende uitkeringen, bedoeld in [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0020183&paragraaf=3&artikel=10&z=2016-12-09&g=2016-12-09) van het Besluit WWB 2007, zoals dat artikel luidde op 31 december 2014, die betrekking hebben op het kalenderjaar 2014, blijft dat artikel 10 van toepassing.
 
-2. De besluiten tot toekenning van een meerjarige aanvullende uitkering, bedoeld in [artikel 10a](https://wetten.overheid.nl/jci1.3:c:BWBR0020183&paragraaf=3&artikel=10a&z=2016-01-01&g=2016-01-01) van het Besluit WWB 2007, zoals dat artikel luidde op 31 december 2014 worden ingetrokken met ingang van 1 januari 2015, met dien verstande, dat indien op basis van de verantwoordingsinformatie, bedoeld in [artikel 17a, eerste lid, van de Financiële-verhoudingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0008290&artikel=17a) over het jaar 2014 met inachtneming van het tweede en vierde lid van dat artikel blijkt, dat betaling van de meerjarige aanvullende uitkering over 2014 aangewezen is, de colleges de uitvoering van de verplichtingen in 2014, die voortvloeien uit de besluiten tot toekenning van de meerjarige aanvullende uitkering, slechts verantwoorden nadat een beschikking tot toekenning van de meerjarige uitkering over 2014 is ontvangen, uiterlijk voor 1 oktober 2015.
+2. De besluiten tot toekenning van een meerjarige aanvullende uitkering, bedoeld in [artikel 10a](https://wetten.overheid.nl/jci1.3:c:BWBR0020183&paragraaf=3&artikel=10a&z=2016-12-09&g=2016-12-09) van het Besluit WWB 2007, zoals dat artikel luidde op 31 december 2014 worden ingetrokken met ingang van 1 januari 2015, met dien verstande, dat indien op basis van de verantwoordingsinformatie, bedoeld in [artikel 17a, eerste lid, van de Financiële-verhoudingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0008290&artikel=17a) over het jaar 2014 met inachtneming van het tweede en vierde lid van dat artikel blijkt, dat betaling van de meerjarige aanvullende uitkering over 2014 aangewezen is, de colleges de uitvoering van de verplichtingen in 2014, die voortvloeien uit de besluiten tot toekenning van de meerjarige aanvullende uitkering, slechts verantwoorden nadat een beschikking tot toekenning van de meerjarige uitkering over 2014 is ontvangen, uiterlijk voor 1 oktober 2015.
 
 #### § 4. Overige en slotbepalingen
 
 ##### Artikel 13a. Evaluatie
 
-Onze Minister zendt binnen vier jaar na de inwerkingtreding van de [artikelen 10a](https://wetten.overheid.nl/jci1.3:c:BWBR0020183&paragraaf=3&artikel=10a&z=2016-01-01&g=2016-01-01), [10b](https://wetten.overheid.nl/jci1.3:c:BWBR0020183&paragraaf=3&artikel=10b&z=2016-01-01&g=2016-01-01), [10c](https://wetten.overheid.nl/jci1.3:c:BWBR0020183&paragraaf=3&artikel=10c&z=2016-01-01&g=2016-01-01) en [10d](https://wetten.overheid.nl/jci1.3:c:BWBR0020183&paragraaf=3&artikel=10d&z=2016-01-01&g=2016-01-01) aan de Staten-Generaal een verslag over de doeltreffendheid en de effecten van deze artikelen in de praktijk.
+Onze Minister zendt binnen vier jaar na de inwerkingtreding van de [artikelen 10a](https://wetten.overheid.nl/jci1.3:c:BWBR0020183&paragraaf=3&artikel=10a&z=2016-12-09&g=2016-12-09), [10b](https://wetten.overheid.nl/jci1.3:c:BWBR0020183&paragraaf=3&artikel=10b&z=2016-12-09&g=2016-12-09), [10c](https://wetten.overheid.nl/jci1.3:c:BWBR0020183&paragraaf=3&artikel=10c&z=2016-12-09&g=2016-12-09) en [10d](https://wetten.overheid.nl/jci1.3:c:BWBR0020183&paragraaf=3&artikel=10d&z=2016-12-09&g=2016-12-09) aan de Staten-Generaal een verslag over de doeltreffendheid en de effecten van deze artikelen in de praktijk.
 
 ## Bijlage 1. behorende bij [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0020183&paragraaf=3&artikel=8&z=2009-10-01&g=2009-10-01) van het Besluit WWB 2007
 
@@ -670,9 +672,31 @@ Lasten en bevelen dat dit besluit en de bijlagen met de daarbij behorende nota v
 
 Lasten en bevelen dat dit besluit en de bijlagen met de daarbij behorende nota van toelichting in het Staatsblad zullen worden geplaatst.
 
-##### Artikel 8b. Gemeenschappelijke regelingen
+##### Artikel 8b. Voorschot uitkering wegens kosten in de jaren 2016 en 2017 ten behoeve van vergunninghouders
 
-Vervallen
+1. Onze Minister verleent in 2016 en 2017 indien het college hiertoe een aanvraag heeft ingediend een voorschot voor de uitkering, bedoeld in [artikel 69 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&artikel=69), die in de jaren 2018 tot en met 2026, aan het college zal worden verstrekt om het college van middelen te voorzien voor kosten van algemene bijstand, uitkeringen en loonkostensubsidies als bedoeld in dit besluit ten behoeve van vergunninghouders.
+
+2. Het voorschot dat in 2016 wordt verleend, wordt in gelijke delen verrekend met de uitkeringen in de jaren 2018 tot en met 2025. Het voorschot dat in 2017 wordt verleend, wordt in gelijke delen verrekend met de uitkeringen in de jaren 2019 tot en met 2026.
+
+3. Het voorschot bedraagt een door Onze Minister vast te stellen bedrag, dat wordt bepaald aan de hand van de volgende formule:
+
+Mvvt = AVt/TAVt * TBVt
+
+Waarbij:
+
+- a. Mvvt staat voor het maximaal aan een gemeente te verlenen voorschot in jaar t;
+
+- b. AVt staat voor het aantal door een gemeente gehuisveste vergunninghouders in de periode januari tot en met november van jaar t vermenigvuldigd met het aantal maanden waarin deze vergunninghouders zijn gehuisvest in de gemeente;
+
+- c. TAVt staat voor het totaal van alle gehuisveste vergunninghouders in de periode januari tot en met november van jaar t in Nederland, vermenigvuldigd met het aantal maanden dat deze vergunninghouders zijn gehuisvest;
+
+- d. TBVt staat voor het totaal door Onze Minister voor jaar t beschikbaar gestelde bedrag dat als voorschot kan worden verleend;
+
+- e. t staat voor het jaar waarin het voorschot wordt verleend.
+
+4. Voor de bepaling van het aantal gehuisveste vergunninghouders wordt uitgegaan van de inlichtingen, bedoeld in [artikel 14, eerste lid, van de Wet Centraal Orgaan opvang asielzoekers](https://wetten.overheid.nl/jci1.3:c:BWBR0006685&artikel=14).
+
+5. Als aanvraag, als bedoeld in het eerste lid, wordt uitsluitend aangemerkt een volledig ingevuld door Onze Minister elektronisch beschikbaar gesteld formulier dat uiterlijk op 25 november van het jaar waarin het voorschot wordt verleend door Onze Minister is ontvangen. Een verzoek dat wordt ontvangen na 25 november wordt niet behandeld.
 
 #### § 3. Vangnetuitkering
 
@@ -692,7 +716,7 @@ Vervallen
 
 Wijzigt het Besluit uitkeringen gemeenten IOAW en IOAZ.
 
-## Bijlage. behorende bij [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0020183&paragraaf=2&artikel=6&z=2016-01-01&g=2016-01-01) van het Besluit Participatiewet
+## Bijlage. behorende bij [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0020183&paragraaf=2&artikel=6&z=2016-12-09&g=2016-12-09) van het Besluit Participatiewet
 
 ### Objectief verdeelmodel
 
