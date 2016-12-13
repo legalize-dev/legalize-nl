@@ -4,7 +4,7 @@ identifier: "BWBR0021424"
 country: "nl"
 rank: "reglement"
 publication_date: "2021-12-09"
-last_updated: "2016-01-14"
+last_updated: "2016-12-13"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0021424"
 soort: "reglement"
@@ -60,7 +60,7 @@ De Voorzitter deelt het besluit van de Tweede Kamer tot aanwijzing van een groot
 
 ### Artikel 6. Verantwoordelijke commissie
 
-De commissie die is belast met de uitvoering is verantwoordelijk voor het vaststellen van de in [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0021424&hoofdstuk=IV&artikel=9&z=2016-01-14&g=2016-01-14) genoemde uitgangspunten en vervolgens voor de controle op het aangewezen groot project.
+De commissie die is belast met de uitvoering is verantwoordelijk voor het vaststellen van de in [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0021424&hoofdstuk=IV&artikel=9&z=2016-12-13&g=2016-12-13) genoemde uitgangspunten en vervolgens voor de controle op het aangewezen groot project.
 
 ### Artikel 7. Advies over uitvoering regeling
 
@@ -96,7 +96,7 @@ De eindevaluatie van een groot project omvat in ieder geval:
 
 ### Artikel 18. Advisering over beëindiging grootprojectstatus
 
-Voordat de commissie aan de Tweede Kamer een voorstel doet tot beëindiging van de grootprojectstatus, vraagt zij advies aan de commissie voor de Rijksuitgaven.
+Voordat de commissie aan de Tweede Kamer een voorstel doet tot beëindiging van de grootprojectstatus, vraagt zij advies aan de vaste commissie voor Financiën.
 
 ### Artikel 19. Toezending voorstel en advies aan de Voorzitter
 
@@ -110,7 +110,7 @@ De Voorzitter deelt een besluit van de Kamer tot beëindiging van de grootprojec
 
 ### Artikel 21. Werking en toepassing van de regeling
 
-De commissie voor de Rijksuitgaven brengt jaarlijks op de derde woensdag in mei een verslag uit aan de Tweede Kamer over de werking en toepassing van deze regeling in het voorafgaande kalenderjaar.
+De vaste commissie voor Financiën brengt jaarlijks op de derde woensdag in mei een verslag uit aan de Tweede Kamer over de werking en toepassing van deze regeling in het voorafgaande kalenderjaar.
 
 ### Artikel 22. Regeling Grote Projecten
 
