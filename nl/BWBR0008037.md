@@ -4,7 +4,7 @@ identifier: "BWBR0008037"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2018-07-01"
-last_updated: "2013-12-31"
+last_updated: "2016-12-19"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0008037"
 soort: "ministeriele-regeling"
@@ -40,11 +40,29 @@ Besluit:
 
 ##### Artikel 1
 
-1. De beperkingen met betrekking tot de rijbevoegdheid, bedoeld in de [artikelen 16](https://wetten.overheid.nl/jci1.3:c:BWBR0008074&artikel=16), [17](https://wetten.overheid.nl/jci1.3:c:BWBR0008074&artikel=17), [19](https://wetten.overheid.nl/jci1.3:c:BWBR0008074&artikel=19), [19a](https://wetten.overheid.nl/jci1.3:c:BWBR0008074&artikel=19a), [19c](https://wetten.overheid.nl/jci1.3:c:BWBR0008074&artikel=19c), [21, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008074&artikel=21), [24](https://wetten.overheid.nl/jci1.3:c:BWBR0008074&artikel=24), [103, tiende tot en met twaalfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008074&artikel=103), [111 tot en met 116](https://wetten.overheid.nl/jci1.3:c:BWBR0008074&artikel=111), [118](https://wetten.overheid.nl/jci1.3:c:BWBR0008074&artikel=118), [118a](https://wetten.overheid.nl/jci1.3:c:BWBR0008074&artikel=118a), [145, onderdeel i](https://wetten.overheid.nl/jci1.3:c:BWBR0008074&artikel=145), [191](https://wetten.overheid.nl/jci1.3:c:BWBR0008074&artikel=191) en [193 van het Reglement rijbewijzen](https://wetten.overheid.nl/jci1.3:c:BWBR0008074&artikel=193), worden in het rijbewijs aangeduid met de coderingen die zijn vastgesteld in de bij deze regeling behorende bijlage.
+1. De beperkingen met betrekking tot de rijbevoegdheid, bedoeld in de [artikelen 16 tot en met 18](https://wetten.overheid.nl/jci1.3:c:BWBR0008074&artikel=16), [19](https://wetten.overheid.nl/jci1.3:c:BWBR0008074&artikel=19), [19a](https://wetten.overheid.nl/jci1.3:c:BWBR0008074&artikel=19a), [19c](https://wetten.overheid.nl/jci1.3:c:BWBR0008074&artikel=19c), [21, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008074&artikel=21), [24](https://wetten.overheid.nl/jci1.3:c:BWBR0008074&artikel=24), [103, vierde en tiende tot en met twaalfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008074&artikel=103), [111 tot en met 116](https://wetten.overheid.nl/jci1.3:c:BWBR0008074&artikel=111), [118](https://wetten.overheid.nl/jci1.3:c:BWBR0008074&artikel=118), [118a](https://wetten.overheid.nl/jci1.3:c:BWBR0008074&artikel=118a), [145, eerste lid, onderdeel i](https://wetten.overheid.nl/jci1.3:c:BWBR0008074&artikel=145), [192](https://wetten.overheid.nl/jci1.3:c:BWBR0008074&artikel=192) en [193 van het Reglement rijbewijzen](https://wetten.overheid.nl/jci1.3:c:BWBR0008074&artikel=193), worden in het rijbewijs aangeduid met de coderingen die zijn vastgesteld in de bij deze regeling behorende bijlage.
+
+Indien in combinatie met de in de bijlage vermelde coderingen 01 tot en met 44 nadere specificaties moeten worden vermeld, worden deze met letters aangeduid met de volgende betekenis:
+
+- a. links;
+
+- b. rechts;
+
+- c. hand;
+
+- d. voet;
+
+- e. midden;
+
+- f. arm;
+
+- g. duim.
 
 2. In het rijbewijs worden van de in de bij deze regeling behorende bijlage vastgestelde coderingen uitsluitend de hoofdcoderingen vermeld. De subcoderingen worden uitsluitend vermeld voor zover de vermelding op grond van richtlijn 2006/126/EG van het Europees Parlement en de Raad van de Europese Unie van 20 december 2006 betreffende het rijbewijs (Pb EU L 403) verplicht is.
 
 3. In het rijbewijzenregister worden hoofdcoderingen en subcoderingen geregistreerd.
+
+4. Indien het rijbewijs is voorzien van een microchip worden, in afwijking van het derde lid, op de microchip bij alle hoofdcoderingen eveneens alle subcoderingen vermeld.
 
 ##### Artikel 2
 
@@ -62,17 +80,11 @@ Geharmoniseerde communautaire codes
 
 01.02 Contactlenzen
 
-01.03 Beschermend glas
-
-01.04 Ondoorschijnend glas of lens
-
 01.05 Ooglap
 
 01.06 Bril of contactlenzen
 
-02.01 Gehoorprothese één oor
-
-02.02 Gehoorprothese beide oren
+01.07 Specifiek gezichtshulpmiddel
 
 03.01 Prothese/orthese arm
 
@@ -94,55 +106,39 @@ Geharmoniseerde communautaire codes
 
 05.08 Alcohol niet toegestaan
 
-10.01 Handschakeling
+10.02 Automatische keuze van de versnelling
 
-10.02 Automatische schakeling
-
-10.03 Elektronisch bediende schakeling
-
-10.04 Aangepaste hendel
-
-10.05 Geen hulpversnellingsbak
+10.04 Aangepaste bediening van de versnellingsbak
 
 15.01 Aangepast koppelingspedaal
 
-15.02 Handkoppeling
+15.02 Handmatig bediende koppeling
 
 15.03 Automatische koppeling
 
-15.04 Afscherming vóór/opklapbaar/uitneembaar koppelingspedaal
+15.04 Maatregel om blokkering of activering van het koppelingspedaal te voorkomen
 
 20.01 Aangepast rempedaal
 
-20.02 Groter rempedaal
-
 20.03 Rempedaal geschikt voor bediening met linkervoet
 
-20.04 Rempedaal met slof
+20.04 Schuifrempedaal
 
 20.05 Kantelbaar rempedaal
 
-20.06 (Aangepaste) handbedrijfsrem
+20.06 Handbediende rem
 
-20.07 Maximale bedieningskracht bedrijfsrem...... N
-
-20.08 Maximale bedieningskracht voor noodrem geïntegreerd in bedrijfsrem..... N
+20.07 Remmen met een maximale bedieningskracht bedrijfsrem....N (bijvoorbeeld: 20.07 (300N))
 
 20.09 Aangepaste parkeerrem
 
-20.10 Elektrisch bediende parkeerrem
-
-20.11 (Aangepaste) voetbediende parkeerrem
-
-20.12 Afscherming vóór/opklapbaar/uitneembaar rempedaal
+20.12 Maatregel om blokkering of activering van het rempedaal te voorkomen
 
 20.13 Knierem
 
-20.14 Elektrisch bediende bedrijfsrem
+20.14 Rembediening ondersteund door externe kracht
 
 25.01 Aangepast gaspedaal
-
-25.02 Gaspedaal met slof
 
 25.03 Kantelbaar gaspedaal
 
@@ -150,13 +146,11 @@ Geharmoniseerde communautaire codes
 
 25.05 Gas geven met de knie
 
-25.06 Servo-acceleratiesysteem (elektronisch, pneumatisch, enz.)
-
-25.07 Gaspedaal links van rempedaal
+25.06 Gas geven ondersteund door externe kracht
 
 25.08 Gaspedaal aan linkerkant
 
-25.09 Afscherming vóór/opklapbaar/uitneembaar gaspedaal
+25.09 Maatregel om blokkering of activering van het gaspedaal te voorkomen
 
 30.01 Parallelpedalen
 
@@ -180,57 +174,53 @@ Geharmoniseerde communautaire codes
 
 30.11 Gas geven en remmen via elektrische bediening
 
+31.01 Extra parallelpedalen
+
+31.02 Pedalen op (nagenoeg) gelijke hoogte
+
+31.03 Maatregel om blokkering of bediening van gas- en rempedalen te voorkomen als de pedalen niet met de voet worden bediend
+
+31.04 Vloerverhoging
+
+32.01 Gecombineerd, met één hand bediend bedrijfsrem- en acceleratiesysteem
+
+32.02 Gecombineerd, met externe kracht bediend bedrijfsrem- en acceleratiesysteem
+
+33.01 Gecombineerd acceleratie-, bedrijfsrem- en besturingssysteem bediend door externe kracht met één hand
+
+33.02 Gecombineerd acceleratie-, bedrijfsrem- en besturingssysteem bediend door externe kracht met twee handen
+
 (verlichting, ruitenwisser, ruitensproeier, claxon, richtingaanwijzers, enz.)
 
-35.01 Bedieningsorganen bedienbaar zonder dat het rijgedrag nadelig wordt beïnvloed
+35.02 Bedieningsorganen bedienbaar zonder het stuur los te laten
 
-35.02 Bedieningsorganen bedienbaar zonder het stuur en toebehoren los te laten (knop, gaffel, enz.)
+35.03 Bedieningsorganen bedienbaar zonder het stuur met de linkerhand los te laten
 
-35.03 Bedieningsorganen bedienbaar zonder het stuur en toebehoren (knop, gaffel, enz.) met de linkerhand los te laten
+35.04 Bedieningsorganen bedienbaar zonder het stuur met de rechterhand los te laten
 
-35.04 Bedieningsorganen bedienbaar zonder het stuur en toebehoren (knop, gaffel, enz.) met de rechterhand los te laten
+35.05 Bedieningsorganen bedienbaar zonder het stuur en de acceleratie- en remmechanismen los te laten
 
-35.05 Bedieningsorganen bedienbaar zonder het stuur en toebehoren (knop, gaffel, enz.) en de gecombineerde gas- en remmechanismen los te laten
-
-40.01 Standaard stuurbekrachtiging
-
-40.02 Extra stuurbekrachtiging
-
-40.03 Stuurinrichting met back-upsysteem
-
-40.04 Verlengde stuurkolom
+40.01 Stuurinrichting met een maximale bedieningskracht van … N (bijvoorbeeld: 40.01 (140N))
 
 40.05 Aangepast stuurwiel (groter en/of dikker stuurwiel, kleinere diameter stuurwiel, enz.)
 
-40.06 Kantelbaar stuurwiel
-
-40.07 Verticaal stuurwiel
-
-40.08 Horizontaal stuurwiel
+40.06 Aangepaste stand van het stuurwiel
 
 40.09 Voetbediend stuur
 
-40.10 Eventuele andere aangepaste stuurinrichting (joystick, enz.)
+40.11 Hulpmiddel op stuurwiel
 
-40.11 Stuurknop
+40.14 Aangepaste alternatieve stuurinrichting voor bediening met één hand/arm
 
-40.12 Handspalk op stuurwiel
+40.15 Aangepaste alternatieve stuurinrichting voor bediening met twee handen/armen.
 
-40.13 Polsspalk op stuurwiel
+42.01 Aangepast hulpmiddel voor zicht naar achteren
 
-42.01 Linker- of rechterbuitenspiegel
+42.03 Extra hulpmiddel in het voertuig voor zijdelings zicht
 
-42.02 Buitenspiegel op voorspatbord
+42.05 Hulpmiddel tegen dode hoek
 
-42.03 Extra binnenspiegel voor goed zicht op het verkeer
-
-42.04 Panoramische binnenspiegel
-
-42.05 Dodehoekspiegel
-
-42.06 Elektrisch bediende buitenspiegel(s)
-
-43.01 Bestuurdersstoel op een goede kijkhoogte en op normale afstand van het stuurwiel en de pedalen
+43.01 Bestuurdersstoel op een normale kijkhoogte en op normale afstand van het stuurwiel en de pedalen
 
 43.02 Bestuurdersstoel aangepast aan lichaamsvorm
 
@@ -238,41 +228,43 @@ Geharmoniseerde communautaire codes
 
 43.04 Bestuurdersstoel met armleuningen .........
 
-43.05 Verlengde stoelslede van bestuurdersstoel
-
 43.06 Aangepaste veiligheidsgordel
 
-43.07 Vierpuntsveiligheidsgordel
+43.07 Veiligheidsgordel met steun voor goede stabiliteit
 
 44.01 Eén remelement voor alle remhandelingen
 
-44.02 (Aangepaste) handbediende rem (voorwiel)
+44.02 Aangepaste voorrem
 
-44.03 (Aangepaste) voetbediende rem (achterwiel)
+44.03 Aangepaste achterrem
 
-44.04 (Aangepaste) gashendel
+44.04 Aangepaste gashendel
 
-44.05 (Aangepaste) handschakeling en handkoppeling
+44.08 Zithoogte waarbij de bestuurder in zittende positie beide voeten tegelijk op de grond kan plaatsen en het motorrijwiel in evenwicht kan houden tijdens stoppen en stilstaan
 
-44.06 (Aangepaste) achteruitkijkspiegel(s)
+44.09 Maximale bedieningskracht van de voorrem ... N(*) (bijvoorbeeld ‘44.09.(140N)’)
 
-44.07 (Aangepaste) bedieningsorganen (richtingaanwijzers, remlichten, enz.)
+44.10 Maximale bedieningskracht van de achterrem ... N(*) (bijvoorbeeld ‘44.10 (240N)’)
 
-44.08 Zithoogte waarbij de bestuurder in zittende positie beide voeten tegelijk op de grond kan plaatsen
+44.11 Aangepaste voetsteun
+
+44.12 Aangepaste handgreep
+
+Codes voor beperkt gebruik
 
 Administratieve vermeldingen
 
-79.01: beperkt tot tweewielige voertuigen met of zonder zijspan.
+79.01 Alleen tweewielige voertuigen met of zonder zijspan
 
-79.02: beperkt tot drie- of vierwielige voertuigen van de categorie AM.
+79.02 Alleen driewielige of lichte vierwielige voertuigen van de categorie AM
 
-79.03: beperkt tot driewielige voertuigen.
+79.03 Alleen driewielers
 
-79.04: beperkt tot driewielige voertuigen met een aanhangwagen waarvan de toegestane maximum massa ten hoogste 750 kg bedraagt;
+79.04 Alleen driewielers met een aanhangwagen met een maximaal toegestane massa van ten hoogste 750 kg
 
-79.05: voertuigen van de categorie A1, waarvan de vermogen/gewichtsverhouding meer bedraagt dan 0,1 kW per kg.
+79.05 Motorrijwielen van categorie A1 met een verhouding vermogen/gewicht van meer dan 0,1 kW/kg
 
-79.06: voertuigen van de categorie BE met een aanhangwagen of oplegger waarvan de toegestane maximum massa meer bedraagt dan 3.500 kg.
+79.06 Voertuigen van de categorie BE met een aanhangwagen waarvan de maximaal toegestane massa groter is dan 3.500kg
 
 90.01: links van
 
@@ -295,8 +287,6 @@ De hulptekens die bij de vermelding van de subcodes mogen worden gebruikt zijn:
 « / » wordt gebruikt bij keuzemogelijkheid tussen twee (sub)codes of bij elkaar behoren de codes; **voorbeeld: 40.01/(50 12345678)**
 
 « ( ) » wordt gebruikt om een aantal codes als eenheid samen te voegen bij gebruik van het « / » keuzeteken;
-
-Bestuurder, houder van het getuigschrift, voldoet tot de achter de code vermelde einddatum aan de vakbekwaamheidsvereisten, bedoeld in de richtlijn vakbekwaamheid bestuurders (richtlijn 2003/59/EG) (bijvoorbeeld: 95.01.01.2012);
 
 - 100. Alleen tijdens privé-gebruik
 
