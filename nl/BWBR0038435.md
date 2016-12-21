@@ -4,7 +4,7 @@ identifier: "BWBR0038435"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2016-12-21"
-last_updated: "2016-08-23"
+last_updated: "2016-12-21"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0038435"
 soort: "ministeriele-regeling"
@@ -85,11 +85,11 @@ De vergunningen voor de niet-landelijke commerciële radio in de FM-band, genoem
 
 ##### Artikel 2
 
-Een vergunning als bedoeld in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0038435&artikel=1&z=2016-08-23&g=2016-08-23) is verlengbaar voor een vaste periode die aanvangt op 1 september 2017 en loopt tot en met 31 augustus 2022.
+Een vergunning als bedoeld in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0038435&artikel=1&z=2016-12-21&g=2016-12-21) is verlengbaar voor een vaste periode die aanvangt op 1 september 2017 en loopt tot en met 31 augustus 2022.
 
 ##### Artikel 3
 
-De vergunningen, bedoeld in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0038435&artikel=1&z=2016-08-23&g=2016-08-23), worden met ingang van 1 september 2017 gewijzigd overeenkomstig [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0038435&bijlage=1&z=2016-08-23&g=2016-08-23).
+De vergunningen, bedoeld in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0038435&artikel=1&z=2016-12-21&g=2016-12-21), worden met ingang van 1 september 2017 gewijzigd overeenkomstig [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0038435&bijlage=1&z=2016-12-21&g=2016-12-21).
 
 ##### Artikel 4
 
@@ -103,7 +103,7 @@ Dit besluit wordt aangehaald als: Besluit verlengbaarheid vergunningen niet-land
 
 ### Artikel I
 
-De artikelen behorend bij de vergunningen, bedoeld in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0038435&artikel=1&z=2016-08-23&g=2016-08-23) van het besluit, behoudens de vergunning voor kavel B38, worden als volgt gewijzigd:
+De artikelen behorend bij de vergunningen, bedoeld in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0038435&artikel=1&z=2016-12-21&g=2016-12-21) van het besluit, behoudens de vergunning voor kavel B38, worden als volgt gewijzigd:
 
 A.
 
@@ -119,9 +119,9 @@ De zinsnede ‘het ministerie van Economische Zaken, Landbouw en Innovatie’ wo
 
 D.
 
-Aan artikel 2, tweede lid, worden de volgende volzinnen toegevoegd:
+Aan artikel 2, tweede lid, wordt de volgende volzin toegevoegd:
 
-Op de frequenties die in een bijlage als gesynchroniseerd zijn aangemerkt en hetzelfde synchronisatienummer hebben, zendt de vergunninghouder, behoudens reclame, hetzelfde radioprogramma uit. Verder zendt hij geen radioprogramma uit dat ook wordt uitgezonden met gebruikmaking van een FM-vergunning voor landelijke commerciële radio-omroep.
+Op frequenties die hetzelfde SFN-ID hebben en gemarkeerd zijn als gesynchroniseerd of als netgebonden, zendt de vergunninghouder, behoudens reclame, hetzelfde radioprogramma uit.
 
 E.
 
@@ -137,12 +137,22 @@ De artikelen behorend bij de vergunning voor kavel B38, worden als volgt gewijzi
 
 A.
 
-Aan artikel 2, tweede lid, worden de volgende volzinnen toegevoegd:
+Aan artikel 2, tweede lid, wordt de volgende volzin toegevoegd:
 
-Op de frequenties die in een bijlage als gesynchroniseerd zijn aangemerkt en hetzelfde synchronisatienummer hebben, zendt de vergunninghouder, behoudens reclame, hetzelfde radioprogramma uit. Verder zendt hij geen radioprogramma uit dat ook wordt uitgezonden met gebruikmaking van een FM-vergunning voor landelijke commerciële radio-omroep.
+Op frequenties die hetzelfde SFN-ID hebben en gemarkeerd zijn als gesynchroniseerd of als netgebonden, zendt de vergunninghouder, behoudens reclame, hetzelfde radioprogramma uit.
 
 B.
 
 In het laatste artikel wordt de zinsnede ‘31 augustus 2017’ vervangen door: 31 augustus 2022.
+
+Dit besluit zal met toelichting in de Staatscourant worden geplaatst.
+
+### Artikel III
+
+### Artikel IV
+
+### Artikel V
+
+### Artikel VI
 
 Dit besluit zal met toelichting in de Staatscourant worden geplaatst.
