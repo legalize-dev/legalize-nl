@@ -4,7 +4,7 @@ identifier: "BWBR0028622"
 country: "nl"
 rank: "amvb_bes"
 publication_date: "2025-12-06"
-last_updated: "2015-01-31"
+last_updated: "2016-12-21"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0028622"
 soort: "AMvB-BES"
@@ -67,9 +67,9 @@ In dit besluit wordt verstaan onder:
 
 ##### Artikel 3
 
-1. [Bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBR0028622&bijlage=I&z=2016-12-21&g=2015-01-31) bevat de algemene, bijzondere en administratieve gegevens, als bedoeld in [artikel 10, eerste lid, onderdeel a, b en c, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0028208&artikel=10).
+1. [Bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBR0028622&bijlage=I&z=2016-12-21&g=2016-12-21) bevat de algemene, bijzondere en administratieve gegevens, als bedoeld in [artikel 10, eerste lid, onderdeel a, b en c, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0028208&artikel=10).
 
-2. [Bijlage II](https://wetten.overheid.nl/jci1.3:c:BWBR0028622&bijlage=II&z=2016-12-21&g=2015-01-31) bevat de verwijsgegevens en de administratieve gegevens in verband met de verwijsgegevens, als bedoeld in [artikel 11, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0028208&artikel=11).
+2. [Bijlage II](https://wetten.overheid.nl/jci1.3:c:BWBR0028622&bijlage=II&z=2016-12-21&g=2016-12-21) bevat de verwijsgegevens en de administratieve gegevens in verband met de verwijsgegevens, als bedoeld in [artikel 11, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0028208&artikel=11).
 
 ##### Artikel 4
 
@@ -95,15 +95,15 @@ In dit besluit wordt verstaan onder:
 
 ##### Artikel 5
 
-Aan een geschrift als bedoeld in [artikel 4, tweede lid, onderdeel c, d of e](https://wetten.overheid.nl/jci1.3:c:BWBR0028622&hoofdstuk=II&paragraaf=1&artikel=4&z=2016-12-21&g=2015-01-31), dan wel artikel 4, derde lid, worden geen gegevens ontleend over het huwelijk dat is gesloten tussen echtgenoten dan wel geregistreerde partners van wie ten minste één niet de Nederlandse nationaliteit heeft, voordat aan het bestuurscollege een verklaring is overlegd als bedoeld in [artikel 44, eerste lid, onderdeel h, van het Burgerlijk Wetboek BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028743&artikel=44).
+Aan een geschrift als bedoeld in [artikel 4, tweede lid, onderdeel c, d of e](https://wetten.overheid.nl/jci1.3:c:BWBR0028622&hoofdstuk=II&paragraaf=1&artikel=4&z=2016-12-21&g=2016-12-21), dan wel artikel 4, derde lid, worden geen gegevens ontleend over het huwelijk dat is gesloten tussen echtgenoten dan wel geregistreerde partners van wie ten minste één niet de Nederlandse nationaliteit heeft, voordat aan het bestuurscollege een verklaring is overgelegd als bedoeld in [artikel 44, eerste lid, onderdeel h, van het Burgerlijk Wetboek BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028743&artikel=44).
 
 ##### Artikel 6
 
-1. Indien aannemelijk is dat omtrent een gegeven over de familierechtelijke betrekkingen tot de ouders of de kinderen, over het huwelijk en de eerdere huwelijken, over de echtgenoot en de eerdere echtgenoten, over het geregistreerd partnerschap en de eerdere geregistreerde partnerschappen of over de geregistreerde partner en de eerdere geregistreerde partners een geschrift als bedoeld in [artikel 4, tweede lid, onderdeel c of d](https://wetten.overheid.nl/jci1.3:c:BWBR0028622&hoofdstuk=II&paragraaf=1&artikel=4&z=2016-12-21&g=2015-01-31), kan worden verschaft, mogen deze gegevens niet worden ontleend aan een geschrift als bedoeld in artikel 4, tweede lid, onderdeel e.
+1. Indien aannemelijk is dat omtrent een gegeven over de familierechtelijke betrekkingen tot de ouders of de kinderen, over het huwelijk en de eerdere huwelijken, over de echtgenoot en de eerdere echtgenoten, over het geregistreerd partnerschap en de eerdere geregistreerde partnerschappen of over de geregistreerde partner en de eerdere geregistreerde partners een geschrift als bedoeld in [artikel 4, tweede lid, onderdeel c of d](https://wetten.overheid.nl/jci1.3:c:BWBR0028622&hoofdstuk=II&paragraaf=1&artikel=4&z=2016-12-21&g=2016-12-21), kan worden verschaft, mogen deze gegevens niet worden ontleend aan een geschrift als bedoeld in artikel 4, tweede lid, onderdeel e.
 
-2. Aan een geschrift, als bedoeld in [artikel 4, tweede lid, onderdeel c, d of e](https://wetten.overheid.nl/jci1.3:c:BWBR0028622&hoofdstuk=II&paragraaf=1&artikel=4&z=2016-12-21&g=2015-01-31), alsmede artikel 4, derde lid, worden geen gegevens ontleend, voor zover de openbare orde zich verzet tegen de erkenning van de rechtsgeldigheid van de in deze geschriften vermelde feiten.
+2. Aan een geschrift, als bedoeld in [artikel 4, tweede lid, onderdeel c, d of e](https://wetten.overheid.nl/jci1.3:c:BWBR0028622&hoofdstuk=II&paragraaf=1&artikel=4&z=2016-12-21&g=2016-12-21), alsmede artikel 4, derde lid, worden geen gegevens ontleend, voor zover de openbare orde zich verzet tegen de erkenning van de rechtsgeldigheid van de in deze geschriften vermelde feiten.
 
-3. Aan een geschrift als bedoeld in [artikel 4, tweede lid, onderdeel d of e](https://wetten.overheid.nl/jci1.3:c:BWBR0028622&hoofdstuk=II&paragraaf=1&artikel=4&z=2016-12-21&g=2015-01-31), worden geen gegevens ontleend, indien aannemelijk is dat de gegevens onjuist zijn.
+3. Aan een geschrift als bedoeld in [artikel 4, tweede lid, onderdeel d of e](https://wetten.overheid.nl/jci1.3:c:BWBR0028622&hoofdstuk=II&paragraaf=1&artikel=4&z=2016-12-21&g=2016-12-21), worden geen gegevens ontleend, indien aannemelijk is dat de gegevens onjuist zijn.
 
 ##### Artikel 7
 
@@ -199,7 +199,7 @@ Met betrekking tot de ingeschrevene die geen ingezetene is, worden geen nieuwe a
 
 ##### Artikel 21
 
-Omtrent de beslissing dat een opgenomen gegeven onjuist is of, indien het een gegeven over de burgerlijke staat betreft, in strijd is met de openbare orde, omtrent een onderzoek naar die onjuistheid of strijdigheid, alsmede omtrent het van toepassing zijn van [artikel 20](https://wetten.overheid.nl/jci1.3:c:BWBR0028622&hoofdstuk=II&paragraaf=1&artikel=20&z=2016-12-21&g=2015-01-31), wordt een aantekening geplaatst bij de desbetreffende gegevens.
+Omtrent de beslissing dat een opgenomen gegeven onjuist is of, indien het een gegeven over de burgerlijke staat betreft, in strijd is met de openbare orde, omtrent een onderzoek naar die onjuistheid of strijdigheid, alsmede omtrent het van toepassing zijn van [artikel 20](https://wetten.overheid.nl/jci1.3:c:BWBR0028622&hoofdstuk=II&paragraaf=1&artikel=20&z=2016-12-21&g=2016-12-21), wordt een aantekening geplaatst bij de desbetreffende gegevens.
 
 #### Paragraaf 2. De verplichtingen van instanties belast met de uitvoering van publiekrechtelijke taken
 
@@ -215,7 +215,7 @@ De ambtenaar van de burgerlijke stand die in een van de onder hem berustende reg
 
 2. Bij een aangifte als bedoeld in [artikel 13, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0028208&artikel=13), verstrekt de betrokkene de inlichtingen en overlegt hij de geschriften ter zake van feiten betreffende zijn burgerlijke staat, zijn nationaliteit en zijn eerdere verblijf in het openbaar lichaam, die noodzakelijk zijn voor de bijhouding van de op hem betrekking hebbende gegevens in de basisadministratie. Indien hij zich in het openbaar lichaam vestigt, komende vanuit een ander openbaar lichaam, Aruba, Curaçao of Sint Maarten dan wel een gemeente, is hij verplicht een hem betreffend verhuisbericht over te leggen, verstrekt door de verantwoordelijke voor de verwerking van persoonsgegevens in de andere basisadministratie waar hij laatstelijk als ingezetene was ingeschreven.
 
-3. De persoon die ophoudt te behoren tot een categorie, als bedoeld in [artikel 2, eerste of tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028622&hoofdstuk=II&paragraaf=1&artikel=2&z=2016-12-21&g=2015-01-31), en die naar redelijke verwachting gedurende een half jaar ten minste twee derde van de tijd in het openbaar lichaam verblijf zal houden, doet aangifte van verblijf en adres overeenkomstig [artikel 13, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0028208&artikel=13).
+3. De persoon die ophoudt te behoren tot een categorie, als bedoeld in [artikel 2, eerste of tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028622&hoofdstuk=II&paragraaf=1&artikel=2&z=2016-12-21&g=2016-12-21), en die naar redelijke verwachting gedurende een half jaar ten minste twee derde van de tijd in het openbaar lichaam verblijf zal houden, doet aangifte van verblijf en adres overeenkomstig [artikel 13, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0028208&artikel=13).
 
 4. Bij een aangifte als bedoeld in [artikel 13, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0028208&artikel=13), doet de betrokkene in de aangifte mededeling van het nieuwe en het oude adres.
 
@@ -227,7 +227,7 @@ De ambtenaar van de burgerlijke stand die in een van de onder hem berustende reg
 
 - a. het verblijf aanvangt door geboorte en inschrijving plaats vindt op grond van een geboorteakte;
 
-- b. de betrokkene behoort tot een categorie als bedoeld in [artikel 2, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028622&hoofdstuk=II&paragraaf=1&artikel=2&z=2016-12-21&g=2015-01-31).
+- b. de betrokkene behoort tot een categorie als bedoeld in [artikel 2, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028622&hoofdstuk=II&paragraaf=1&artikel=2&z=2016-12-21&g=2016-12-21).
 
 2. Niet verplicht tot het doen van aangifte van vertrek, als bedoeld in [artikel 13, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0028208&artikel=13), is de ingezetene die vanaf het tijdstip van vertrek naar redelijke verwachting niet langer dan twee jaar buiten het openbaar lichaam zal verblijven en die gedurende zijn verblijf buiten het openbaar lichaam vaart aan boord van een schip dat het openbaar lichaam als thuishaven heeft.
 
@@ -295,19 +295,13 @@ Degene ten aanzien van wie het bestuurscollege het redelijk vermoeden heeft dat 
 
 1. De systematische wijzen van verstrekking van gegevens, die kunnen plaatsvinden op grond van een besluit van Onze Minister als bedoeld in [artikel 20, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0028208&artikel=20), worden vastgelegd in een ministeriële regeling.
 
-2. De verantwoordelijke voor de verstrekking van gegevens houdt gedurende het jaar volgend op de verstrekking aantekening van de verstrekking, tenzij de verstrekking van gegevens in de genoemde periode anderszins is te herleiden uit de basisregistratie of de verstrekkingenvoorziening dan wel van de verstrekking ingevolge [artikel 31a, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028622&hoofdstuk=III&paragraaf=4&artikel=31a&z=2016-12-21&g=2015-01-31), geen mededeling wordt gedaan.
+2. De verantwoordelijke voor de verstrekking van gegevens houdt gedurende het jaar volgend op de verstrekking aantekening van de verstrekking, tenzij de verstrekking van gegevens in de genoemde periode anderszins is te herleiden uit de basisregistratie of de verstrekkingenvoorziening dan wel van de verstrekking ingevolge [artikel 31a, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028622&hoofdstuk=III&paragraaf=2&artikel=31a&z=2016-12-21&g=2016-12-21), geen mededeling wordt gedaan.
 
-#### Paragraaf 4. De rechten van de burger met betrekking tot de verstrekkingen
+#### Paragraaf 2. De verstrekking aan overheidsorganen en aan derden
 
 ##### Artikel 31a
 
-1. Het bestuurscollege deelt aan de betrokkene op diens verzoek schriftelijk binnen vier weken mede of hem betreffende gegevens in het jaar voorafgaande aan het verzoek uit de basisadministratie zijn verstrekt.
-
-2. Indien zodanige verstrekking is geschied, doet het bestuurscollege daarvan desverlangd binnen vier weken na ontvangst van het verzoek schriftelijk mededeling aan verzoeker. Het bestuurscollege kan volstaan met een in algemene termen gestelde mededeling omtrent de verstrekking, tenzij het belang van de verzoeker daardoor onevenredig wordt geschaad.
-
-3. Het bestuurscollege voldoet niet aan het in het eerste en tweede lid bedoelde verzoek, voor zover dit noodzakelijk is in het belang van de veiligheid van de staat of de voorkoming, opsporing en vervolging van strafbare feiten. Bij ministeriële regeling kan een nadere regeling worden getroffen welke afnemers, overheidsorganen en derden het betreft en in verband met welke aan deze afnemers, overheidsorganen of derden opgedragen wettelijke taken het niet voldoen aan het verzoek noodzakelijk is.
-
-4. [Artikel 32 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0028208&artikel=32) is van toepassing.
+De door derden verrichte werkzaamheden met een bijzonder maatschappelijk belang, bedoeld in [artikel 26, vierde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0028208&artikel=26), de categorieën van derden die in verband met die werkzaamheden in aanmerking komen voor de verstrekking van gegevens en de bepaling of [artikel 28 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0028208&artikel=28) op de verstrekking van toepassing is, zijn opgenomen in [bijlage III](https://wetten.overheid.nl/jci1.3:c:BWBR0028622&bijlage=III&z=2016-12-21&g=2016-12-21).
 
 ##### Artikel 32
 
@@ -315,7 +309,7 @@ Degene ten aanzien van wie het bestuurscollege het redelijk vermoeden heeft dat 
 
 2. Een verzoek, als bedoeld in het eerste lid, kan de betrokkene aan het bestuurscollege richten tot uiterlijk acht weken nadat hij van de verbetering, de aanvulling of de verwijdering, kennis heeft kunnen nemen.
 
-3. Het bestuurscollege doet aan de verzoeker desgevraagd opgave van degenen aan wie de mededeling, bedoeld in het eerste lid, is gedaan. [Artikel 31a, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028622&hoofdstuk=III&paragraaf=4&artikel=31a&z=2016-12-21&g=2015-01-31), is van overeenkomstige toepassing.
+3. Het bestuurscollege doet aan de verzoeker desgevraagd opgave van degenen aan wie de mededeling, bedoeld in het eerste lid, is gedaan. [Artikel 31a, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028622&hoofdstuk=III&paragraaf=2&artikel=31a&z=2016-12-21&g=2016-12-21), is van overeenkomstige toepassing.
 
 4. [Artikel 32 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0028208&artikel=32) is van toepassing.
 
@@ -723,10 +717,422 @@ Dit besluit wordt aangehaald als: Besluit basisadministraties persoonsgegevens B
 
 - –. codering van de inhoud van het besluit om geen gegevens aan derden te verstrekken.
 
-## Bijlage III. bij [artikel 29, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028622&hoofdstuk=III&paragraaf=1&artikel=29&z=2016-12-21&g=2015-01-31)
+## Bijlage I. bij [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028622&hoofdstuk=II&paragraaf=1&artikel=3&z=2016-12-21&g=2016-12-21)
 
-[Vervallen]
+- A. algemene gegevens:
 
-## Bijlage IV. bij [artikel 31](https://wetten.overheid.nl/jci1.3:c:BWBR0028622&hoofdstuk=III&paragraaf=1&artikel=31&z=2016-12-21&g=2015-01-31)
+- 1. Gegevens over de burgerlijke staat
+
+- a. Naam:
+
+- –. geslachtsnaam;
+
+- –. voornamen;
+
+- –. adellijke titel of predikaat.
+
+- b. Geboorte:
+
+- –. geboortedatum;
+
+- –. geboorteplaats;
+
+- –. geboorteland en zo nodig gebiedsdeel.
+
+- c. Geslacht.
+
+- d. Ouders:
+
+- –. geslachtsnaam;
+
+- –. voornamen;
+
+- –. adellijke titel of predikaat;
+
+- –. geslacht;
+
+- –. geboortedatum;
+
+- –. geboorteplaats;
+
+- –. geboorteland en zo nodig gebiedsdeel.
+
+- e. Huwelijk dan wel geregistreerd partnerschap en eerdere huwelijken of eerdere geregistreerde partnerschappen:
+
+- –. datum huwelijkssluiting of datum aangaan geregistreerd partnerschap;
+
+- –. plaats huwelijkssluiting of plaats aangaan geregistreerd partnerschap;
+
+- –. land en zo nodig gebiedsdeel huwelijkssluiting of aangaan geregistreerd partnerschap;
+
+- –. huwelijksontbinding of ontbinding geregistreerd partnerschap en reden daarvan, dan wel nietigverklaring huwelijk of geregistreerd partnerschap;
+
+- –. datum ontbinding, dan wel nietigverklaring huwelijk of geregistreerd partnerschap;
+
+- –. plaats ontbinding, dan wel nietigverklaring huwelijk of geregistreerd partnerschap;
+
+- –. land en zo nodig gebiedsdeel ontbinding, dan wel nietigverklaring huwelijk of geregistreerd partnerschap.
+
+- f. Echtgenoot dan wel geregistreerd partner en eerdere echtgenoten of geregistreerde partners;
+
+- –. geslachtsnaam;
+
+- –. voornamen;
+
+- –. adellijke titel of predikaat;
+
+- –. geslacht;
+
+- –. geboortedatum;
+
+- –. geboorteplaats;
+
+- –. geboorteland en zo nodig gebiedsdeel.
+
+- g. Kinderen:
+
+- –. geslachtsnaam;
+
+- –. voornamen;
+
+- –. adellijke titel of predikaat;
+
+- –. geboortedatum;
+
+- –. geboorteplaats;
+
+- –. geboorteland en zo nodig gebiedsdeel.
+
+- h. Overlijden:
+
+- –. overlijdensdatum;
+
+- –. plaats overlijden;
+
+- –. land en zo nodig gebiedsdeel overlijden.
+
+- i. Data ingang en beëindiging rechtsgeldigheid gegevens:
+
+- –. datum ingang rechtsgeldigheid;
+
+- –. datum beëindiging rechtsgeldigheid.
+
+- 2. gegevens over curatele
+
+- 3. gegevens over het gezag dat over de minderjarige wordt uitgeoefend
+
+- 4. gegevens over de nationaliteit
+
+- a). nationaliteit of nationaliteiten, dan wel een aanduiding dat de betrokkene geen nationaliteit bezit, of een aanduiding dat de nationaliteit van de betrokkene niet kan worden vastgesteld.
+
+- b). de aantekening dat op grond van [artikel 17 van de Rijkswet op het Nederlanderschap](https://wetten.overheid.nl/jci1.3:c:BWBR0003738&artikel=17) is vastgesteld dat de betrokkene niet de Nederlandse nationaliteit bezit.
+
+- c). datum ingang rechtsgeldigheid gegevens.
+
+- d). datum beëindiging rechtsgeldigheid gegevens.
+
+- 5. gegevens over de verblijfstitel
+
+- 6. gegevens over het adres alsmede over het verblijf in het openbaar lichaam en het vertrek uit openbaar lichaam
+
+- a). openbaar lichaam: datum van vestiging.
+
+- b). adres:
+
+- –. straatnaam en zo nodig eilandsdeel;
+
+- –. huisnummer;
+
+- –. aanduiding bij huisnummer;
+
+- –. letter bij huisnummer;
+
+- –. toevoeging bij huisnummer;
+
+- –. lokatiebeschrijving en zo nodig eilandsdeel;
+
+- –. postcode;
+
+- –. datum vestiging adres.
+
+- c). verblijf:
+
+- –. datum aanvang verblijf;
+
+- –. openbaar lichaam, land binnen het Koninkrijk, gemeente of land buiten het Koninkrijk waar de ingeschrevene laatstelijk heeft verbleven.
+
+- d). vertrek:
+
+- –. datum vertrek;
+
+- –. openbaar lichaam, land binnen het Koninkrijk, gemeente of land buiten het Koninkrijk waar de ingeschrevene zal verblijven.
+
+- 7. Gegevens over de administratienummers van de ingeschrevene, de ouders, de echtgenoot dan wel de geregistreerde partner, de eerdere echtgenoten of eerdere geregistreerde partners en de kinderen
+
+- –. administratienummer ingeschrevene;
+
+- –. administratienummer ouder;
+
+- –. administratienummer echtgenoot dan wel geregistreerde partner;
+
+- –. administratienummer eerdere echtgenoot;
+
+- –. administratienummer eerdere geregistreerde partner;
+
+- –. administratienummer kind;
+
+- –. data van kracht worden van de administratienummers
+
+- 8. gegevens over het ID-nummer van de ingeschrevene
+
+- 9. gegevens over de ID-nummers van de ouders, de echtgenoot, de eerdere echtgenoten, de geregistreerde partner, de eerdere geregistreerde partners en de kinderen
+
+- 10. gegevens over het gebruik door de ingeschrevene van de geslachtsnaam van de echtgenoot, echtgenote of geregistreerd partner dan wel de eerdere echtgenoot, echtgenote of geregistreerd partner:
+
+- a). de aantekening dat de ingeschrevene de eigen geslachtsnaam voert, hetzij de aantekening dat de ingeschrevene de geslachtsnaam van de echtgenoot, echtgenote of geregistreerd partner dan wel de eerdere echtgenoot, echtgenote of geregistreerd partner voert, hetzij de aantekening dat de ingeschrevene de geslachtsnaam van de echtgenoot, echtgenote of geregistreerd partner dan wel de eerdere echtgenoot, echtgenote of geregistreerd partner vooraf doet gaan aan de eigen geslachtsnaam;
+
+- b). datum ingang van het gegeven over het naamgebruik;
+
+- c). datum beëindiging van het gegeven over het naamgebruik.
+
+- B. bijzondere gegevens:
+
+- 1. gegevens die noodzakelijk zijn in verband met de uitvoering van de Paspoortwet:
+
+- a). gegevens omtrent het reisdocument:
+
+- –. soort reisdocument;
+
+- –. documentnummer reisdocument;
+
+- –. datum van verstrekking reisdocument;
+
+- –. autoriteit die het reisdocument heeft verstrekt;
+
+- –. datum einde van de geldigheidsduur reisdocument;
+
+- –. datum inhouding dan wel vermissing reisdocument;
+
+- –. aanduiding inhouding dan wel vermissing reisdocument;
+
+- –. signalering met betrekking tot verstrekking of inhouding reisdocument;
+
+- –. code van het openbaar lichaam dan wel van Aruba, Curaçao of Sint Maarten, waar het dossier met betrekking tot het reisdocument zich bevindt;
+
+- –. beschrijving dossier waarin de aanvullende gegevens met betrekking tot het reisdocument zich bevinden;
+
+- –. datum ingang rechtsgeldigheid gegeven.
+
+- b). aanduiding in onderzoek: aanduiding van de verzameling van gegevens in verband met de uitvoering van de Paspoortwet, waarbinnen gegevens zijn opgenomen die onderzocht worden op onjuistheid:
+
+- –. datum aanvang onderzoek;
+
+- –. datum beëindiging onderzoek.
+
+- c). opnamedatum:
+
+- –. datum van opneming van een gegeven in verband met de uitvoering van de Paspoortwet.
+
+- 2. gegevens, noodzakelijk in verband met de uitvoering van de Kieswet:
+
+- –. aanduiding omtrent de uitsluiting van het kiesrecht;
+
+- –. datum waarop de aanduiding omtrent de uitsluiting van het kiesrecht haar geldigheid verliest.
+
+- C. administratieve gegevens:
+
+- 1. gegevens in verband met inschrijving, adreswijziging en vertrek
+
+- –. de hoedanigheid van de persoon die aangifte van verblijf en adres, van adreswijziging, of van vertrek heeft gedaan, dan wel de aantekening dat de gegevens ambtshalve zijn opgenomen;
+
+- –. datum eerste inschrijving in de basisadministratie;
+
+- –. aantekening dat alle gegevens over kinderen, die aan de gezinskaart ontleend kunnen worden, op de persoonslijst zijn opgenomen.
+
+- –. aantekening dat alle gegevens over kinderen, die aan de gezinskaart ontleend kunnen worden, op de persoonslijst zijn opgenomen.
+
+- 2. gegevens ter aanduiding van akten en andere geschriften waaruit algemene gegevens zijn verkregen
+
+- a. aanduiding van akten van de de burgerlijke stand van Aruba, Curaçao, Sint Maarten, Bonaire, Sint Eustatius of Saba:
+
+- –. nummer van de akte waaraan een algemeen gegeven over de burgerlijke staat is ontleend;
+
+- –. code van het openbaar lichaam of het land waar de akte in de registers is opgenomen,
+
+- b. aanduiding van andere akten en geschriften:
+
+- –. omschrijving van het geschrift waaraan een algemeen gegeven is ontleend;
+
+- –. code van het openbaar lichaam of het land die het gegeven heeft ontleend;
+
+- –. datum van ontlening.
+
+- 3. gegevens ter aanduiding van de rechtsgrond krachtens welke gegevens over het Nederlanderschap zijn opgenomen:
+
+- –. rechtsgrond van verkrijging van het Nederlanderschap;
+
+- –. rechtsgrond van verlies van het Nederlanderschap.
+
+- 4. gegevens ter aanduiding van de onjuistheid van een opgenomen algemeen gegeven of van strijd met de openbare orde van een opgenomen gegeven over de burgerlijke staat:
+
+- –. aanduiding van het opgenomen algemeen gegeven dat onjuist is;
+
+- –. aanduiding van het opgenomen gegeven over de burgerlijke staat dat in strijd is met de openbare orde.
+
+- 5. gegevens ter aanduiding van een onderzoek naar de onjuistheid van een opgenomen algemeen gegeven of de strijdigheid van een opgenomen gegeven over de burgerlijke staat:
+
+- –. aanduiding van de verzameling van gegevens, waarbinnen algemene gegevens zijn opgenomen die onderzocht worden op onjuistheid;
+
+- –. aanduiding van de verzameling van gegevens, waarbinnen gegevens over de burgerlijke staat zijn opgenomen die onderzocht worden op strijd met de openbare orde;
+
+- –. datum aanvang onderzoek;
+
+- –. datum beëindiging onderzoek.
+
+- 6. andere gegevens noodzakelijk in verband met de bijhouding van de basisadministratie:
+
+- a. gegevens ter aanduiding van de bron waaraan het administratienummer is ontleend:
+
+- –. omschrijving van de bron waaraan het gewijzigde administratienummer is ontleend
+
+- –. aanduiding van de persoonslijst waaraan het administratienummer van de ouders, de echtgenoot, de eerdere echtgenoten, de geregistreerde partner, de eerdere geregistreerde partners of de kinderen zijn ontleend;
+
+- –. code van het openbaar lichaam of land dat het administratienummer heeft ontleend.
+
+- b. gegevens ter aanduiding van de bron waaraan gegevens over het verblijfsrecht van de vreemdeling worden ontleend;
+
+- c. overige gegevens:
+
+- –. aanduiding van de persoonslijst waarop zijn opgenomen de administratieve gegevens over het geschrift, waaraan algemene gegevens over de burgerlijke staat van de ouders, de echtgenoot, de eerdere echtgenoten, de geregistreerde partner, de eerdere geregistreerde partners of de kinderen zijn ontleend;
+
+- –. code van het openbaar lichaam of het land dat op een persoonslijst een aanduiding van een andere persoonslijst heeft opgenomen;
+
+- –. datum van opneming van een algemeen gegeven;
+
+- –. reden opschorten bijhouding van de persoonslijst;
+
+- –. datum opschorten bijhouding van de persoonslijst;
+
+- –. aantekening dat tijdens de opschorting van de bijhouding een of meer documenten zijn binnengekomen.
+
+- –. reden opname nationaliteit;
+
+- –. reden beëindigen nationaliteit.
+
+- 7. gegevens over de systematische verstrekking van gegevens:
+
+- –. codering van de overheidsorganen en de derden aan wie spontaan gegevens worden verstrekt;
+
+- –. datum vanaf welke spontaan gegevens aan het betrokken overheidsorgaan of de derde worden verstrekt;
+
+- –. datum tot welke spontaan gegevens aan de betrokken afnemer of derde zijn verstrekt.
+
+- 8. gegevens over niet-verstrekking van gegevens krachtens artikel 28, eerste lid van de wet:
+
+- –. codering van de inhoud van het besluit om geen gegevens van de persoonslijst aan derden te verstrekken.
+
+## Bijlage II. bij [artikel 3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028622&hoofdstuk=II&paragraaf=1&artikel=3&z=2016-12-21&g=2016-12-21)
+
+- A. Verwijsgegevens
+
+- 1. Gegevens over de naam en de geboorte
+
+- a. Naam:
+
+- –. geslachtsnaam;
+
+- –. voornamen;
+
+- –. adellijke titel of predikaat.
+
+- b. Geboorte:
+
+- –. geboortedatum;
+
+- –. geboorteplaats;
+
+- –. geboorteland en zo nodig gebiedsdeel.
+
+- 2. Gegevens over het administratienummer:
+
+- –. het administratienummer;
+
+- –. datum van kracht worden administratienummer.
+
+- 3. Gegevens over het ID-nummer
+
+- –. het ID-nummer;
+
+- –. datum van kracht worden ID-nummer.
+
+- 4. Gegevens over het openbaar lichaam dan wel Aruba, Curaçao of Sint Maarten waar de persoon is ingeschreven, over het adres in dat openbaar lichaam dan wel in Aruba, Curaçao of Sint Maarten en over de datum van vestiging:
+
+- a. Aanduiding inschrijving in een openbaar lichaam dan wel in Aruba, Curaçao of Sint Maarten:
+
+- –. openbaar lichaam dan wel Aruba, Curaçao of Sint Maarten;
+
+- –. datum van vestiging openbaar lichaam dan wel Aruba, Curaçao of Sint Maarten.
+
+- b. Adres:
+
+- –. straatnaam;
+
+- –. huisnummer;
+
+- –. aanduiding bij huisnummer;
+
+- –. letter bij huisnummer;
+
+- –. toevoeging bij huisnummer;
+
+- –. lokatiebeschrijving;
+
+- –. postcode.
+
+- B. Administratieve gegevens in verband met de verwijsgegevens:
+
+- a. Aanduiding in onderzoek:
+
+- –. aanduiding van de verzameling van gegevens, waarbinnen gegevens zijn opgenomen die onderzocht worden op onjuistheid;
+
+- –. datum aanvang onderzoek;
+
+- –. datum beëindiging onderzoek.
+
+- b. Aanduiding onjuist:
+
+- –. aanduiding van het opgenomen gegeven dat onjuist is.
+
+- c. Opnamedatum:
+
+- –. datum van opneming van een gegeven.
+
+- d. Aanduiding omtrent niet-verstrekking aan derden:
+
+- –. codering van de inhoud van het besluit om geen gegevens aan derden te verstrekken.
+
+#### Paragraaf 4. De rechten van de burger met betrekking tot de verstrekkingen
+
+##### Artikel 31b
+
+1. Het bestuurscollege deelt aan de betrokkene op diens verzoek schriftelijk binnen vier weken mede of hem betreffende gegevens in het jaar voorafgaande aan het verzoek uit de basisadministratie zijn verstrekt.
+
+2. Indien zodanige verstrekking is geschied, doet het bestuurscollege daarvan desverlangd binnen vier weken na ontvangst van het verzoek schriftelijk mededeling aan verzoeker. Het bestuurscollege kan volstaan met een in algemene termen gestelde mededeling omtrent de verstrekking, tenzij het belang van de verzoeker daardoor onevenredig wordt geschaad.
+
+3. Het bestuurscollege voldoet niet aan het in het eerste en tweede lid bedoelde verzoek, voor zover dit noodzakelijk is in het belang van de veiligheid van de staat of de voorkoming, opsporing en vervolging van strafbare feiten. Bij ministeriële regeling kan een nadere regeling worden getroffen welke afnemers, overheidsorganen en derden het betreft en in verband met welke aan deze afnemers, overheidsorganen of derden opgedragen wettelijke taken het niet voldoen aan het verzoek noodzakelijk is.
+
+4. [Artikel 32 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0028208&artikel=32) is van toepassing.
+
+### Hoofdstuk IV. Slotbepalingen
+
+## Bijlage III. bij [artikel 31a](https://wetten.overheid.nl/jci1.3:c:BWBR0028622&hoofdstuk=III&paragraaf=2&artikel=31a&z=2016-12-21&g=2016-12-21)
+
+| **Werkzaamheden** | **Categorieën van derden** | **Clausulering van de werkzaamheden** | **Artikel 28 toepasselijk** |
+| --- | --- | --- | --- |
+| De uitvoering van pensioenregelingen | – Pensioenuitvoerders als bedoeld in [artikel 1 van de Pensioenwet BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028712&artikel=1). – Het fonds, bedoeld in [artikel 1 van de Pensioenwet ambtenaren BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028714&artikel=1). – Pensioenfondsen, beroepspensioenfondsen, de Stichting Notarieel Pensioenfonds en premiepensioeninstellingen als bedoeld in [artikel 1:1 van de Wet op het financieel toezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=1:1). – Verzekeraars als bedoeld in [artikel 1 van de Pensioenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&artikel=1) of in [artikel 1 van de Wet verplichte beroepspensioenregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0018831&artikel=1). – De stichting, bedoeld in [artikel 2 van de Wet privatisering FVP](https://wetten.overheid.nl/jci1.3:c:BWBR0009756&artikel=2). |   | Nee |
+| De bijhouding van een registratie betreffende overleden personen | Stichting Centraal Bureau voor Genealogie. | De bijhouding geschiedt zonder de verwerking van de uit de basisadministratie verkregen gegevens over een in leven zijnde persoon die de stichting schriftelijk heeft verzocht om beëindiging van die verwerking. | Nee |
+| Het opsporen van personen in het kader van de werkzaamheden op het terrein van de maatschappelijke zorg, bedoeld in [artikel 2, onderdeel d, van de Kaderwet VWS-subsidies](https://wetten.overheid.nl/jci1.3:c:BWBR0009455&artikel=2) | Stichting Ambulante Fiom. | De werkzaamheden geschieden zodanig dat geen gegevens aan derden worden verstrekt zonder uitdrukkelijke voorafgaande toestemming van de ingeschrevene. | Nee |
+
+## Bijlage IV. bij [artikel 31](https://wetten.overheid.nl/jci1.3:c:BWBR0028622&hoofdstuk=III&paragraaf=1&artikel=31&z=2016-12-21&g=2016-12-21)
 
 [Vervallen]
