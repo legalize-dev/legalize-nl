@@ -4,7 +4,7 @@ identifier: "BWBR0026670"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-04-01"
-last_updated: "2006-01-01"
+last_updated: "2016-12-22"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0026670"
 soort: "ministeriele-regeling"
@@ -58,11 +58,11 @@ In deze regeling wordt verstaan onder:
 
 ##### Artikel 3
 
-1. Aan de ambtenaar, die in een kalenderjaar meer uren dienst heeft verricht dan het aantal te werken uren per jaar, wordt voor elk meer gewerkt uur een vergoeding toegekend gelijk aan het salaris per uur, bedoeld in [artikel 1, eerste lid, onderdeel n, van het Bbp](https://wetten.overheid.nl/jci1.3:c:BWBR0006517&artikel=1).
+1. Indien de ambtenaar in een kalenderjaar meer uren dienst heeft verricht dan het aantal te werken uren per jaar, wordt het verschil met een maximum van negen uur zichtbaar in mindering gebracht op zijn jaarwerkplan van het daaropvolgende kalenderjaar.
 
-2. Indien het aantal meer gewerkte uren hoger is dan negen uur, wordt de vergoeding per uur voor die uren vermeerderd met € 6,00.
+2. Indien het aantal meer gewerkte uren hoger is dan negen, wordt voor het aantal boven de negen een vergoeding per uur toegekend gelijk aan het salaris per uur, bedoeld in [artikel 1, eerste lid, onderdeel n, van het Bbp](https://wetten.overheid.nl/jci1.3:c:BWBR0006517&artikel=1), vermeerderd met € 6,00.
 
-3. De vergoeding wordt alleen toegekend aan de ambtenaar die is ingedeeld in een salarisschaal lager dan salarisschaal 13 van [bijlage I van het Bbp](https://wetten.overheid.nl/jci1.3:c:BWBR0006517&bijlage=I).
+3. Het eerste en tweede lid zijn alleen van toepassing op de ambtenaar met een functie waarvoor salarisschaal 12 of lager van [bijlage I van het Bbp](https://wetten.overheid.nl/jci1.3:c:BWBR0006517&bijlage=I) geldt.
 
 ##### Artikel 4
 
