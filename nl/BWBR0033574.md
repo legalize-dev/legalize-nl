@@ -4,7 +4,7 @@ identifier: "BWBR0033574"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2016-12-22"
-last_updated: "2013-07-01"
+last_updated: "2016-12-22"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0033574"
 soort: "ministeriele-regeling"
@@ -68,7 +68,7 @@ De minister kan subsidie verstrekken aan rechtspersonen die experimenten uitvoer
 
 ##### Artikel 3
 
-1. Het subsidieplafond bedraagt ten hoogste het bedrag dat uit de begroting van de Minister voor Wonen en Rijksdienst voor de verschillende in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0033574&paragraaf=1&artikel=2&z=2013-07-01&g=2013-07-01) genoemde doeleinden blijkt.
+1. Het subsidieplafond bedraagt ten hoogste het bedrag dat uit de begroting van de Minister voor Wonen en Rijksdienst voor de verschillende in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0033574&paragraaf=1&artikel=2&z=2016-12-22&g=2016-12-22) genoemde doeleinden blijkt.
 
 2. Over de subsidieaanvragen wordt beslist in volgorde van ontvangst van de aanvragen.
 
@@ -96,17 +96,17 @@ De minister kan subsidie verstrekken aan rechtspersonen die experimenten uitvoer
 
 3. Indien wordt voldaan aan de eisen gesteld bij of krachtens de de-minimis[verordening 1998/2006](32006R1998) legt de aanvrager bij de aanvraag tot subsidieverlening een verklaring omtrent de minimis-steun over.
 
-4. De verklaring, bedoeld in het derde lid, wordt opgesteld overeenkomstig het in [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBR0033574&bijlage=I&z=2013-07-01&g=2013-07-01) bij deze regeling opgenomen model.
+4. De verklaring, bedoeld in het derde lid, wordt opgesteld overeenkomstig het in [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBR0033574&bijlage=I&z=2016-12-22&g=2016-12-22) bij deze regeling opgenomen model.
 
 ##### Artikel 6
 
-De minister beslist afwijzend op de aanvraag om de subsidieverlening indien de goedkeuring, bedoeld in [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0033574&paragraaf=3&artikel=5&z=2013-07-01&g=2013-07-01), door de Commissie is geweigerd.
+De minister beslist afwijzend op de aanvraag om de subsidieverlening indien de goedkeuring, bedoeld in [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0033574&paragraaf=3&artikel=5&z=2016-12-22&g=2016-12-22), door de Commissie is geweigerd.
 
 ##### Artikel 7
 
 1. Voor subsidie komt niet in aanmerking een winstopslag ten behoeve van de subsidieontvanger.
 
-2. In het geval, bedoeld in [artikel 5, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0033574&paragraaf=3&artikel=5&z=2013-07-01&g=2013-07-01), bepaalt de minister het maximumbedrag van de subsidie in overeenstemming met de de-minimis verordening.
+2. In het geval, bedoeld in [artikel 5, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0033574&paragraaf=3&artikel=5&z=2016-12-22&g=2016-12-22), bepaalt de minister het maximumbedrag van de subsidie in overeenstemming met de de-minimis verordening.
 
 3. De minister kan bij de verlening van de subsidie bepalen dat het subsidiebedrag wordt vastgesteld op de werkelijke kosten van de activiteit waarvoor subsidie is aangevraagd tot een door hem te bepalen maximumbedrag.
 
@@ -118,7 +118,9 @@ De minister beslist afwijzend op de aanvraag om de subsidieverlening indien de g
 
 ##### Artikel 8
 
-De minister kan voorschotten verstrekken tot 100 procent van de verleende subsidie.
+1. De minister kan voorschotten verstrekken tot 100 procent van de verleende subsidie.
+
+2. Voor het verstrekken van voorschotten wordt bij de aanvraag tot subsidieverlening een opgave gedaan van de prognose van de liquiditeitsbehoefte in het daartoe bestemde gedeelte van het aanvraagformulier.
 
 #### § 4. Overgangs- en slotbepalingen
 
@@ -128,7 +130,7 @@ Een subsidie die is verleend krachtens het [Subsidiebesluit experimenten en kenn
 
 ##### Artikel 10
 
-Deze regeling treedt in werking met ingang van 1 juli 2013 en vervalt op 1 januari 2017.
+Deze regeling treedt in werking met ingang van 1 juli 2013 en vervalt op 1 januari 2022.
 
 ##### Artikel 11
 
