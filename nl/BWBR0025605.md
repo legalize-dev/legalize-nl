@@ -4,7 +4,7 @@ identifier: "BWBR0025605"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2024-10-01"
-last_updated: "2016-07-14"
+last_updated: "2016-12-22"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0025605"
 soort: "ministeriele-regeling"
@@ -54,11 +54,11 @@ In deze regeling wordt verstaan onder:
 
 ##### Artikel 2
 
-1. Voor de opname van een aantekening in een van de registers op basis van [artikel 8, tweede lid, onderdeel b, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&artikel=8) is een periodiek registratie certificaat vereist waaruit blijkt dat betrokkene beschikt over de voor het betrokken beroep benodigde kerncompetenties, genoemd in de [artikelen 4](https://wetten.overheid.nl/jci1.3:c:BWBR0025605&artikel=4&z=2016-07-14&g=2016-07-14), [5](https://wetten.overheid.nl/jci1.3:c:BWBR0025605&artikel=5&z=2016-07-14&g=2016-07-14), [6a tot en met 6e](https://wetten.overheid.nl/jci1.3:c:BWBR0025605&artikel=6a&z=2016-07-14&g=2016-07-14). Het periodiek registratie certificaat is op het moment van het indienen van de aanvrage voor opname van een aantekening in een van de registers op basis van artikel 8, tweede lid, onderdeel b, van de wet, niet ouder dan twee jaar.
+1. Voor de opname van een aantekening in een van de registers op basis van [artikel 8, tweede lid, onderdeel b, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&artikel=8) is een periodiek registratie certificaat vereist waaruit blijkt dat betrokkene beschikt over de voor het betrokken beroep benodigde kerncompetenties, genoemd in de [artikelen 4](https://wetten.overheid.nl/jci1.3:c:BWBR0025605&artikel=4&z=2016-12-22&g=2016-12-22), [5](https://wetten.overheid.nl/jci1.3:c:BWBR0025605&artikel=5&z=2016-12-22&g=2016-12-22), [6a tot en met 6e](https://wetten.overheid.nl/jci1.3:c:BWBR0025605&artikel=6a&z=2016-12-22&g=2016-12-22). Het periodiek registratie certificaat is op het moment van het indienen van de aanvrage voor opname van een aantekening in een van de registers op basis van artikel 8, tweede lid, onderdeel b, van de wet, niet ouder dan twee jaar.
 
-2. Het periodiek registratie certificaat wordt verstrekt door een onderwijsinstelling die opleidingen verzorgt die leiden tot een getuigschrift dat recht geeft op inschrijving in het register van fysiotherapeut, verloskundige, verpleegkundige, arts, tandarts, apotheker, gezondheidszorgpsycholoog of psychotherapeut. Het periodiek registratie certificaat wordt verstrekt indien blijkt dat de beroepsbeoefenaar beschikt over alle voor het betrokken beroep benodigde kerncompetenties, genoemd in de [artikelen 4](https://wetten.overheid.nl/jci1.3:c:BWBR0025605&artikel=4&z=2016-07-14&g=2016-07-14), [5](https://wetten.overheid.nl/jci1.3:c:BWBR0025605&artikel=5&z=2016-07-14&g=2016-07-14), [6a tot en met 6e](https://wetten.overheid.nl/jci1.3:c:BWBR0025605&artikel=6a&z=2016-07-14&g=2016-07-14), op het niveau van de initiële opleiding die recht geeft op inschrijving in een van de hiervoor genoemde registers.
+2. Het periodiek registratie certificaat wordt verstrekt door een onderwijsinstelling die opleidingen verzorgt die leiden tot een getuigschrift dat recht geeft op inschrijving in het register van fysiotherapeut, verloskundige, verpleegkundige, arts, tandarts, apotheker, gezondheidszorgpsycholoog of psychotherapeut. Het periodiek registratie certificaat wordt verstrekt indien blijkt dat de beroepsbeoefenaar beschikt over alle voor het betrokken beroep benodigde kerncompetenties, genoemd in de [artikelen 4](https://wetten.overheid.nl/jci1.3:c:BWBR0025605&artikel=4&z=2016-12-22&g=2016-12-22), [5](https://wetten.overheid.nl/jci1.3:c:BWBR0025605&artikel=5&z=2016-12-22&g=2016-12-22), [6a tot en met 6e](https://wetten.overheid.nl/jci1.3:c:BWBR0025605&artikel=6a&z=2016-12-22&g=2016-12-22), op het niveau van de initiële opleiding die recht geeft op inschrijving in een van de hiervoor genoemde registers.
 
-3. De te volgen scholing houdt verband met het beroep waarvoor een aantekening in het register wordt aangevraagd en is gericht op het verwerven van kennis, inzicht en vaardigheden in de kerncompetenties, genoemd in de [artikelen 4](https://wetten.overheid.nl/jci1.3:c:BWBR0025605&artikel=4&z=2016-07-14&g=2016-07-14), [5](https://wetten.overheid.nl/jci1.3:c:BWBR0025605&artikel=5&z=2016-07-14&g=2016-07-14), [6a tot en met 6e](https://wetten.overheid.nl/jci1.3:c:BWBR0025605&artikel=6a&z=2016-07-14&g=2016-07-14).
+3. De te volgen scholing houdt verband met het beroep waarvoor een aantekening in het register wordt aangevraagd en is gericht op het verwerven van kennis, inzicht en vaardigheden in de kerncompetenties, genoemd in de [artikelen 4](https://wetten.overheid.nl/jci1.3:c:BWBR0025605&artikel=4&z=2016-12-22&g=2016-12-22), [5](https://wetten.overheid.nl/jci1.3:c:BWBR0025605&artikel=5&z=2016-12-22&g=2016-12-22), [6a tot en met 6e](https://wetten.overheid.nl/jci1.3:c:BWBR0025605&artikel=6a&z=2016-12-22&g=2016-12-22).
 
 4. Bij de aanvraag tot opneming in het register van een aantekening van de datum bedoeld in [artikel 8, tweede lid, onderdeel b, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&artikel=8) overlegt betrokkene het periodiek registratie certificaat, dat tenminste gegevens bevat met betrekking tot:
 
@@ -80,7 +80,7 @@ In deze regeling wordt verstaan onder:
 
 - a. worden verricht binnen de individuele gezondheidszorg, bedoeld in [artikel 1 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&artikel=1), en
 
-- b. vallen binnen het deskundigheidsgebied van het beroep, bedoeld in [hoofdstuk III van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&hoofdstuk=III), waarvoor betrokkene is ingeschreven in een register.
+- b. vallen binnen het deskundigheidsgebied van het beroep, bedoeld in [hoofdstuk III van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&hoofdstuk=III), waarvoor betrokkene is ingeschreven in een register, en op het verrichten waarvan de opleiding tot dat beroep, bedoeld bij of krachtens hoofdstuk III van de wet, is gericht.
 
 2. Indien de werkzaamheden worden uitgeoefend in een ander beroep dan het beroep waarvoor betrokkene is geregistreerd in het bedoelde register, geldt naast de in het eerste lid genoemde eisen, de eis dat de werkzaamheden worden verricht op tenminste hetzelfde niveau als het niveau van de opleiding tot het beroep dat leidt tot een getuigschrift dat recht geeft op inschrijving in het register, waarin betrokkene is geregistreerd.
 
