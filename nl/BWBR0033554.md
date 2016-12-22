@@ -4,7 +4,7 @@ identifier: "BWBR0033554"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2018-12-19"
-last_updated: "2014-01-01"
+last_updated: "2016-12-22"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0033554"
 soort: "ministeriele-regeling"
@@ -60,7 +60,7 @@ In deze regeling wordt verstaan onder:
 
 ##### Artikel 3
 
-1. De subsidie, bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0033554&paragraaf=1&artikel=2&z=2014-01-01&g=2014-01-01), bedraagt, behoudens de aanvullende middelen, bedoeld in het tweede lid, ten hoogste het bedrag dat uit de begroting van de Minister voor Wonen en Rijksdienst blijkt.
+1. De subsidie, bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0033554&paragraaf=1&artikel=2&z=2016-12-22&g=2016-12-22), bedraagt, behoudens de aanvullende middelen, bedoeld in het tweede lid, ten hoogste het bedrag dat uit de begroting van de Minister voor Wonen en Rijksdienst blijkt.
 
 2. De minister kan in overeenstemming met de Centrales van Overheidspersoneel uit de beschikbare arbeidsvoorwaardenruimte aanvullende middelen aan de stichting toekennen.
 
@@ -68,7 +68,7 @@ In deze regeling wordt verstaan onder:
 
 ##### Artikel 4
 
-De stichting dient de aanvraag tot subsidieverlening uiterlijk in op 1 oktober voor de aanvang van het boekjaar waarop de subsidie betrekking heeft.
+De stichting dient de aanvraag tot subsidieverlening uiterlijk in op 31 december voor de aanvang van het boekjaar waarop de subsidie betrekking heeft.
 
 #### § 3. Voorschotverlening
 
@@ -138,7 +138,7 @@ Een subsidie die is verleend krachtens de Bijdragebeschikking Stichting Arbeids-
 
 ##### Artikel 10
 
-Deze regeling treedt in werking met ingang van 1 juli 2013 en vervalt met ingang van 1 januari 2017.
+Deze regeling treedt in werking met ingang van 1 juli 2013 en vervalt met ingang van 1 januari 2018.
 
 ##### Artikel 11
 
