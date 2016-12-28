@@ -301,23 +301,3 @@ Dit besluit treedt in werking op het tijdstip waarop de Wet van 3 februari 2016 
 Dit besluit wordt aangehaald als: Besluit radioapparaten 2016.
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
-
-##### Artikel 3a
-
-Het is verboden in strijd te handelen met een op grond van [richtlijn nr. 2014/53/EU](32014L0053) vastgestelde bindende EU-rechtshandeling.
-
-### Hoofdstuk 3. Aangemelde instanties en overeenstemmingsbeoordelingsorganen
-
-### Hoofdstuk 4. Handhaving
-
-### Hoofdstuk 5. Behandeling van klachten
-
-### Hoofdstuk 6. Handelsreclame
-
-### Hoofdstuk 7. Voorkomen van storingen door radioapparaten
-
-### Hoofdstuk 8. Wijziging diverse algemene maatregelen van bestuur
-
-### Hoofdstuk 9. Overgangs- en slotbepalingen
-
-Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
