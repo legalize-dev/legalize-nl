@@ -4,7 +4,7 @@ identifier: "BWBR0026550"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2023-01-01"
-last_updated: "2010-01-01"
+last_updated: "2016-12-28"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0026550"
 soort: "ministeriele-regeling"
@@ -48,7 +48,7 @@ In deze regeling wordt verstaan onder:
 
 - a. **minister:** Minister van Economische Zaken;
 
-- b. **storing:** elektromagnetische storing, ondervonden in uitrusting als gevolg van het gebruik van uitrusting;
+- b. **storing:** elektromagnetische storing, ondervonden in uitrusting of radioapparaten als gevolg van het gebruik van uitrusting of radioapparaten;
 
 - c. **beschermingseisen:** de beschermingseisen, bedoeld in [artikel 4, eerste en tweede lid, van het Besluit elektromagnetische compatibiliteit 2007](https://wetten.overheid.nl/jci1.3:c:BWBR0021041&artikel=4) of de beschermingseisen, bedoeld in [artikel 5, eerste en tweede lid, van het Besluit randapparaten en radioapparaten 2007](https://wetten.overheid.nl/jci1.3:c:BWBR0021037&artikel=5);
 
@@ -74,49 +74,49 @@ In deze regeling wordt verstaan onder:
 
 - c. de melding betrekking heeft op een storing die eerder is behandeld op grond van deze regeling en er geen sprake is van nieuwe feiten of gewijzigde omstandigheden;
 
-- d. het apparaat dat storing ondervindt, indien voorgeschreven, niet voorzien is van een CE-markering;
+- d. het apparaat of radioapparaat dat storing ondervindt, indien voorgeschreven, niet voorzien is van een CE-markering;
 
 - e. een ongestoorde ontvangst, in geval van meldingen over storing in de ontvangst van omroepzenders, naar het oordeel van de minister, mede gelet op de plaats van de betrokken ontvanginrichting en de betrokken omroepzenders, niet mag worden verwacht;
 
 - f. de storingsmelding betrekking heeft op omroepontvangst in voer- of vaartuigen;
 
-- g. de storing zich buiten het Nederlandse grondgebied of het Nederlandse continentale plat voordoet, afkomstig van uitrusting werkzaam op Nederlands grondgebied of het Nederlandse continentale plat en de storingsmelding niet afkomstig is van een buitenlandse toezichthouder;
+- g. de storing zich buiten het Nederlandse grondgebied of het Nederlandse continentale plat voordoet, afkomstig van uitrusting of radioapparaten werkzaam op Nederlands grondgebied of het Nederlandse continentale plat en de storingsmelding niet afkomstig is van een buitenlandse toezichthouder;
 
-- h. naar het oordeel van de minister geen ongestoorde werking van de uitrusting kan worden verwacht gezien de locatie waar en de omstandigheden waaronder de uitrusting wordt gebruikt;
+- h. naar het oordeel van de minister geen ongestoorde werking van de uitrusting of het radioapparaat kan worden verwacht gezien de locatie waar en de omstandigheden waaronder de uitrusting of het radioapparaat wordt gebruikt;
 
-- i. de melding betrekking heeft op gestoorde ontvangst door uitrusting die is aangesloten op een draadgebonden elektronisch communicatienetwerk en er geen onderzoek door de beheerder van het communicatienetwerk heeft plaatsgevonden.
+- i. de melding betrekking heeft op gestoorde ontvangst door uitrusting die of radioapparaat dat is aangesloten op een draadgebonden elektronisch communicatienetwerk en er geen onderzoek door de beheerder van het communicatienetwerk heeft plaatsgevonden.
 
 2. Indien een storingsmelding niet in behandeling wordt genomen, wordt hiervan aan degene die de storingsmelding heeft gedaan onder opgave van redenen binnen twee weken na ontvangst van de melding mededeling gedaan.
 
-#### § 3. Onderzoek aan uitrusting en afdoening storingsmelding
+#### § 3. Onderzoek aan uitrusting of radioapparaten en afdoening storingsmelding
 
 ##### Artikel 4
 
-1. Indien de storingsmelding in behandeling wordt genomen, wordt nagegaan op welke frequenties of frequentiebanden de storing optreedt en wordt een onderzoek aan de uitrusting die storing ondervindt of de uitrusting die storing veroorzaakt of aan beide uitrustingen, ingesteld. Bij dit onderzoek wordt voor zover nodig nagegaan of:
+1. Indien de storingsmelding in behandeling wordt genomen, wordt nagegaan op welke frequenties of frequentiebanden de storing optreedt en wordt een onderzoek aan de uitrusting die of het radioapparaat dat storing ondervindt of de uitrusting die of het radioapparaat dat storing veroorzaakt of aan beide uitrustingen of radioapparaten, ingesteld. Bij dit onderzoek wordt voor zover nodig nagegaan of:
 
-- a. aan de administratieve eisen, die worden gesteld met betrekking tot het voldoen van de uitrusting aan de beschermingseisen, is voldaan;
+- a. aan de administratieve eisen, die worden gesteld met betrekking tot het voldoen van de uitrusting of het radioapparaat aan de beschermingseisen, is voldaan;
 
-- b. de uitrusting geen constructiefouten of andere gebreken vertoont die problemen in de werking van de uitrusting kunnen veroorzaken;
+- b. de uitrusting of het radioapparaat geen constructiefouten of andere gebreken vertoont die problemen in de werking van de uitrusting of het radioapparaat kunnen veroorzaken;
 
-- c. de uitrusting aan de beschermingseisen voldoet;
+- c. de uitrusting of het radioapparaat aan de beschermingseisen voldoet;
 
-- d. het gebruik van de uitrusting geschiedt in overeenstemming met de gebruiksaanwijzing en de bij of krachtens de [Telecommunicatiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0009950) gestelde regels;
+- d. het gebruik van de uitrusting of het radioapparaat geschiedt in overeenstemming met de gebruiksaanwijzing en de bij of krachtens de [Telecommunicatiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0009950) gestelde regels;
 
-- e. in geval de uitrusting voorzien is van een (richt)antenne of een geïntegreerde antenne, deze antenne onderscheidenlijk de uitrusting zodanig is opgesteld dat een optimale ontvangst mogelijk is.
+- e. in geval de uitrusting of het radioapparaat voorzien is van een (richt)antenne of een geïntegreerde antenne, deze antenne onderscheidenlijk de uitrusting of het radioapparaat zodanig is opgesteld dat een optimale ontvangst mogelijk is.
 
 2. Bij het onderzoek, bedoeld in het eerste lid, onder c, worden zoveel mogelijk de meetmethodes gehanteerd die onderdeel uitmaken van de geharmoniseerde normen.
 
-3. Indien bij het gebruik van de uitrusting gebruik wordt gemaakt van antennes, kabels, versterkers, transformatoren, filters en andere hulpmiddelen zijn deze geschikt en van voldoende kwaliteit voor de gewenste frequentie en toepassing en op de juiste wijze aangesloten. Gebruikte hulpmiddelen vertonen geen constructiefouten of andere gebreken.
+3. Indien bij het gebruik van de uitrusting of het radioapparaat gebruik wordt gemaakt van antennes, kabels, versterkers, transformatoren, filters en andere hulpmiddelen zijn deze geschikt en van voldoende kwaliteit voor de gewenste frequentie en toepassing en op de juiste wijze aangesloten. Gebruikte hulpmiddelen vertonen geen constructiefouten of andere gebreken.
 
 4. Naar aanleiding van het onderzoek, bedoeld in het eerste lid, wordt een rapport van bevindingen opgemaakt.
 
 ##### Artikel 5
 
-1. Indien uit het onderzoek blijkt dat de uitrusting die storing ondervindt niet voldoet aan [artikel 4, eerste lid, onder a, b, c, d of e](https://wetten.overheid.nl/jci1.3:c:BWBR0026550&paragraaf=3&artikel=4&z=2010-01-01&g=2010-01-01), of [artikel 4, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0026550&paragraaf=3&artikel=4&z=2010-01-01&g=2010-01-01), zal de behandeling van de storingsmelding worden beëindigd onder opgaaf van redenen.
+1. Indien uit het onderzoek blijkt dat de uitrusting die of het radioapparaat dat storing ondervindt niet voldoet aan [artikel 4, eerste lid, onder a, b, c, d of e](https://wetten.overheid.nl/jci1.3:c:BWBR0026550&paragraaf=3&artikel=4&z=2016-12-28&g=2016-12-28), of [artikel 4, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0026550&paragraaf=3&artikel=4&z=2016-12-28&g=2016-12-28), zal de behandeling van de storingsmelding worden beëindigd onder opgaaf van redenen.
 
-2. Indien de uitrusting die de storing veroorzaakt, voldoet aan [artikel 4, eerste lid, onder a, b, c en d](https://wetten.overheid.nl/jci1.3:c:BWBR0026550&paragraaf=3&artikel=4&z=2010-01-01&g=2010-01-01), zal geen verdere behandeling van de storingsmelding plaatsvinden.
+2. Indien de uitrusting die of het radioapparaat dat de storing veroorzaakt, voldoet aan [artikel 4, eerste lid, onder a, b, c en d](https://wetten.overheid.nl/jci1.3:c:BWBR0026550&paragraaf=3&artikel=4&z=2016-12-28&g=2016-12-28), zal geen verdere behandeling van de storingsmelding plaatsvinden.
 
-3. Indien uit het onderzoek blijkt dat de uitrusting die de storing veroorzaakt niet voldoet aan [artikel 4, eerste lid, onder a, b, c, of d](https://wetten.overheid.nl/jci1.3:c:BWBR0026550&paragraaf=3&artikel=4&z=2010-01-01&g=2010-01-01), kan de minister de houder van de uitrusting waarmee de storing wordt veroorzaakt, aanwijzingen geven maatregelen te nemen die de storing verhelpen. De houder volgt de aanwijzingen op.
+3. Indien uit het onderzoek blijkt dat de uitrusting die of het radioapparaat dat de storing veroorzaakt niet voldoet aan [artikel 4, eerste lid, onder a, b, c, of d](https://wetten.overheid.nl/jci1.3:c:BWBR0026550&paragraaf=3&artikel=4&z=2016-12-28&g=2016-12-28), kan de minister de houder van de uitrusting of het radioapparaat waarmee de storing wordt veroorzaakt, aanwijzingen geven maatregelen te nemen die de storing verhelpen. De houder volgt de aanwijzingen op.
 
 4. Behalve door afdoening van de storingsmelding overeenkomstig de voorgaande leden wordt de behandeling van de storingsmelding beëindigd indien:
 
@@ -130,7 +130,7 @@ In deze regeling wordt verstaan onder:
 
 - e. het een storing betreft die internationaal is afgestemd of overeengekomen tussen landen als bedoeld in de onderdelen 1.167 en 1.168 van het Radioreglement;
 
-- f. blijkt dat de storingsmelding in strijd met [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0026550&paragraaf=2&artikel=3&z=2010-01-01&g=2010-01-01), in behandeling is genomen.
+- f. blijkt dat de storingsmelding in strijd met [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0026550&paragraaf=2&artikel=3&z=2016-12-28&g=2016-12-28), in behandeling is genomen.
 
 5. Van de beëindiging van de behandeling van de storingsmelding wordt door het Agentschap Telecom aan degene die de storing heeft gemeld onder vermelding van de resultaten van het onderzoek naar de storingsmelding, mededeling gedaan.
 
