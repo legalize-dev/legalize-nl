@@ -4,7 +4,7 @@ identifier: "BWBR0036375"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2024-06-20"
-last_updated: "2015-12-03"
+last_updated: "2016-12-28"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0036375"
 soort: "ministeriele-regeling"
@@ -46,15 +46,15 @@ In deze regeling wordt verstaan onder:
 
 - a. **AIS (Automatic Identification System):** automatisch identificatiesysteem gebaseerd op transponder technologie;
 
-- b. **ATIS (Automatic Transmitter Identification System):** systeem dat automatisch de door Onze Minister toegewezen combinatie van letters of cijfers voor de identificatie van een schip of radiozendapparaat, als bedoeld in de Regionale Regeling, uitzendt;
+- b. **ATIS (Automatic Transmitter Identification System):** systeem dat automatisch de door Onze Minister toegewezen combinatie van letters of cijfers voor de identificatie van een schip of radioapparaat, als bedoeld in de Regionale Regeling, uitzendt;
 
 - c. **besluit:** [Frequentiebesluit 2013](https://wetten.overheid.nl/jci1.3:c:BWBR0032895);
 
 - d. **binnenvaart:** scheepvaart op de binnenwateren;
 
-- e. **combi-marifoon:** radiozendapparaat bestemd voor communicatie op de binnenwateren en op zee;
+- e. **combi-marifoon:** radioapparaat bestemd voor communicatie op de binnenwateren en op zee;
 
-- f. **EPIRB (Emergency Position Indicating Radio Beacon):** radiozendapparaat bestemd voor noodalarmering in de 406 MHz frequentieband en voor het lokaliseren van het baken op de frequentie 121,5 MHz;
+- f. **EPIRB (Emergency Position Indicating Radio Beacon):** radioapparaat bestemd voor noodalarmering in de 406 MHz frequentieband en voor het lokaliseren van het baken op de frequentie 121,5 MHz;
 
 - h. **frequentiegebruik met een primaire status:** gebruik van frequentieruimte voor de uitoefening van een radiodienst die ingevolge het frequentieplan een primaire status heeft;
 
@@ -64,13 +64,13 @@ In deze regeling wordt verstaan onder:
 
 - k. **klasse van uitzending:** klasse van uitzending als bedoeld in bijlage 1 van deel 2 van het Radioreglement;
 
-- l. **marifoon binnenvaart:** radiozendapparaat bestemd voor communicatie op de binnenwateren in de maritieme VHF frequentieband met automatische vermogensreductie op de specifieke VHF kanalen;
+- l. **marifoon binnenvaart:** radioapparaat bestemd voor communicatie op de binnenwateren in de maritieme VHF frequentieband met automatische vermogensreductie op de specifieke VHF kanalen;
 
-- m. **marifoon zeevaart:** radiozendapparaat bestemd voor communicatie op zee in de maritieme VHF frequentieband;
+- m. **marifoon zeevaart:** radioapparaat bestemd voor communicatie op zee in de maritieme VHF frequentieband;
 
 - n. **maritiem mobiele communicatie:** radiocommunicatie tussen radiostations op schepen onderling, tussen radiostations op een schip en op het vaste land en tussen een radiostation op een schip en een satelliet;
 
-- o. **maritieme portofoon:** draagbaar radiozendapparaat bestemd voor gebruik in de maritieme VHF en UHF frequentieband;
+- o. **maritieme portofoon:** draagbaar radioapparaat bestemd voor gebruik in de maritieme VHF en UHF frequentieband;
 
 - p. **MMSI (Maritime Mobile Service Identity):** unieke combinatie van negen cijfers dat een radiostation of een groep van radiostations identificeert, zoals omschreven in paragraaf 6 van artikel 19 van het Radioreglement;
 
@@ -78,7 +78,7 @@ In deze regeling wordt verstaan onder:
 
 - r. **Radioreglement:** Radioreglement 1979 met bijlagen, behorende bij de op 22 december 1989 te Nice tot stand gekomen Internationale Constitutie en Conventie van de Internationale Telecommunicatie Unie (Trb. 2013, 1);
 
-- s. **radiostation:** een of meer radiozendapparaten met de daartoe behorende antenne-inrichtingen, noodzakelijk voor het op een locatie uitvoeren van een radiocommunicatiedienst als bedoeld in artikel 1.19 van het Radioreglement;
+- s. **radiostation:** een of meer radioapparaten met de daartoe behorende antenne-inrichtingen, noodzakelijk voor het op een locatie uitvoeren van een radiocommunicatiedienst als bedoeld in artikel 1.19 van het Radioreglement;
 
 - t. **radiozendamateur:** degene die vanuit een persoonlijke belangstelling en zonder financieel oogmerk gebruik maakt van frequentieruimte ten behoeve van het opdoen van vaardigheden, het communiceren via de radio en het doen van technische onderzoekingen;
 
@@ -88,7 +88,7 @@ In deze regeling wordt verstaan onder:
 
 ##### Artikel 2
 
-De [artikelen 3 tot en met 10](https://wetten.overheid.nl/jci1.3:c:BWBR0036375&artikel=3&z=2015-12-03&g=2015-12-03) zijn van toepassing op gebruik van frequentieruimte zonder vergunning als bedoeld in de [artikelen 3 tot en met 5 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0032895&artikel=3), met uitzondering van maritiem mobiele communicatie vanaf het land.
+De [artikelen 3 tot en met 10](https://wetten.overheid.nl/jci1.3:c:BWBR0036375&artikel=3&z=2016-12-28&g=2016-12-28) zijn van toepassing op gebruik van frequentieruimte zonder vergunning als bedoeld in de [artikelen 3 tot en met 5 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0032895&artikel=3), met uitzondering van maritiem mobiele communicatie vanaf het land.
 
 ##### Artikel 3
 
@@ -96,17 +96,17 @@ Een rechtspersoon kan slechts gebruik maken van frequentieruimte die ingevolge h
 
 - a. een rechtspersoonlijkheid bezittende vereniging van radiozendamateurs waarvan het ledental en de samenstelling voldoende representatief zijn voor de door de vereniging te behartigen belangen;
 
-- b. een rechtspersoon waarvan een onderwijsinstelling uitgaat die van rijkswege wordt gefinancierd of een onderwijsinstelling die door de Minister van Onderwijs, Cultuur en Wetenschap is erkend, voor zover het doen van onderzoekingen met radiozendapparaten essentieel is voor het geven van onderwijs door deze instelling;
+- b. een rechtspersoon waarvan een onderwijsinstelling uitgaat die van rijkswege wordt gefinancierd of een onderwijsinstelling die door de Minister van Onderwijs, Cultuur en Wetenschap is erkend, voor zover het doen van onderzoekingen met radioapparaten essentieel is voor het geven van onderwijs door deze instelling;
 
-- c. een stichting die zich blijkens de statutaire doelstelling richt op het doen van onderzoekingen met radiozendapparaten en die de belangen van radiozendamateurs behartigt.
+- c. een stichting die zich blijkens de statutaire doelstelling richt op het doen van onderzoekingen met radioapparaten en die de belangen van radiozendamateurs behartigt.
 
 ##### Artikel 4
 
-1. Degene die een radiozendapparaat bedient ten behoeve van maritiem mobiele communicatie beschikt over een certificaat van bediening als bedoeld in [artikel 12 van de Examenregeling frequentiegebruik 2008](https://wetten.overheid.nl/jci1.3:c:BWBR0024285&artikel=12), dat geldig is voor het desbetreffende frequentiegebruik overeenkomstig het bepaalde in bijlage 2, en heeft een leeftijd van ten minste zestien jaren.
+1. Degene die een radioapparaat bedient ten behoeve van maritiem mobiele communicatie beschikt over een certificaat van bediening als bedoeld in [artikel 12 van de Examenregeling frequentiegebruik 2008](https://wetten.overheid.nl/jci1.3:c:BWBR0024285&artikel=12), dat geldig is voor het desbetreffende frequentiegebruik overeenkomstig het bepaalde in bijlage 2, en heeft een leeftijd van ten minste zestien jaren.
 
-2. De radiozendamateur die een radiozendapparaat bedient, heeft met goed gevolg een examen als bedoeld in [artikel 7 van de Examenregeling frequentiegebruik 2008](https://wetten.overheid.nl/jci1.3:c:BWBR0024285&artikel=7) afgelegd, dat geldig is voor het desbetreffende frequentiegebruik overeenkomstig het bepaalde in bijlage 1, en heeft een leeftijd van ten minste veertien jaren voor het geval van volledige toegang tot de frequentieruimte, in bijlage 1 aangeduid als registratie F, en een leeftijd van ten minste twaalf jaren voor het geval van beperkte toegang tot de frequentieruimte, in bijlage 1 aangeduid als registratie N.
+2. De radiozendamateur die een radioapparaat bedient, heeft met goed gevolg een examen als bedoeld in [artikel 7 van de Examenregeling frequentiegebruik 2008](https://wetten.overheid.nl/jci1.3:c:BWBR0024285&artikel=7) afgelegd, dat geldig is voor het desbetreffende frequentiegebruik overeenkomstig het bepaalde in bijlage 1, en heeft een leeftijd van ten minste veertien jaren voor het geval van volledige toegang tot de frequentieruimte, in bijlage 1 aangeduid als registratie F, en een leeftijd van ten minste twaalf jaren voor het geval van beperkte toegang tot de frequentieruimte, in bijlage 1 aangeduid als registratie N.
 
-3. In afwijking van het eerste en het tweede lid kan een persoon die niet voldoet aan de desbetreffende voorwaarde een radiozendapparaat bedienen indien de bediening plaatsvindt in directe aanwezigheid en onder verantwoordelijkheid van een persoon die wel aan deze voorwaarde voldoet.
+3. In afwijking van het eerste en het tweede lid kan een persoon die niet voldoet aan de desbetreffende voorwaarde een radioapparaat bedienen indien de bediening plaatsvindt in directe aanwezigheid en onder verantwoordelijkheid van een persoon die wel aan deze voorwaarde voldoet.
 
 ##### Artikel 5
 
@@ -118,9 +118,9 @@ Een rechtspersoon kan slechts gebruik maken van frequentieruimte die ingevolge h
 
 - b. de aard van het voorgenomen frequentiegebruik;
 
-- c. in geval van maritiem mobiele communicatie: de te gebruiken radiozendapparaten en de naam en indien aanwezig het identificatienummer of kenmerk van het schip waarop deze apparaten gebruikt worden;
+- c. in geval van maritiem mobiele communicatie: de te gebruiken radioapparaten en de naam en indien aanwezig het identificatienummer of kenmerk van het schip waarop deze radioapparaten gebruikt worden;
 
-- d. indien de gebruiker een natuurlijke persoon is, een afschrift van het certificaat, genoemd in [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036375&artikel=4&z=2015-12-03&g=2015-12-03), onderscheidenlijk informatie over het voldoen aan het in artikel 4, tweede lid, bedoelde examenvereiste. Een afschrift van het certificaat behoeft niet te worden verstrekt als het is verleend door de Minister.
+- d. indien de gebruiker een natuurlijke persoon is, een afschrift van het certificaat, genoemd in [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036375&artikel=4&z=2016-12-28&g=2016-12-28), onderscheidenlijk informatie over het voldoen aan het in artikel 4, tweede lid, bedoelde examenvereiste. Een afschrift van het certificaat behoeft niet te worden verstrekt als het is verleend door de Minister.
 
 3. De melding kan langs elektronische weg worden gedaan met gebruikmaking van een daartoe strekkend elektronisch formulier en de in het vierde lid bedoelde persoonlijke code of DigiD-code.
 
@@ -130,11 +130,11 @@ Een rechtspersoon kan slechts gebruik maken van frequentieruimte die ingevolge h
 
 ##### Artikel 6
 
-1. De Minister registreert het voorgenomen frequentiegebruik overeenkomstig de melding tenzij niet wordt voldaan aan de [artikelen 2 tot en met 5](https://wetten.overheid.nl/jci1.3:c:BWBR0036375&artikel=2&z=2015-12-03&g=2015-12-03) en [7](https://wetten.overheid.nl/jci1.3:c:BWBR0036375&artikel=7&z=2015-12-03&g=2015-12-03), en bericht hierover degene die de melding heeft gedaan, onder verstrekking van een bewijs van registratie aan degene wiens melding is geregistreerd. Een registratie kan door de Minister worden geweigerd voor zover een eerdere registratie is doorgehaald wegens overtreding van bij of krachtens de wet gestelde regels.
+1. De Minister registreert het voorgenomen frequentiegebruik overeenkomstig de melding tenzij niet wordt voldaan aan de [artikelen 2 tot en met 5](https://wetten.overheid.nl/jci1.3:c:BWBR0036375&artikel=2&z=2016-12-28&g=2016-12-28) en [7](https://wetten.overheid.nl/jci1.3:c:BWBR0036375&artikel=7&z=2016-12-28&g=2016-12-28), en bericht hierover degene die de melding heeft gedaan, onder verstrekking van een bewijs van registratie aan degene wiens melding is geregistreerd. Een registratie kan door de Minister worden geweigerd voor zover een eerdere registratie is doorgehaald wegens overtreding van bij of krachtens de wet gestelde regels.
 
 2. Voor zover vereist op grond van het Radioreglement wordt bij de registratie een combinatie van letters of cijfers toegekend met het oog op de identificatie van het radiostation.
 
-3. Degene die op grond van de melding als frequentiegebruiker geregistreerd is, draagt er voor zorg dat indien het geregistreerde radiozendapparaat door een ander wordt bediend, daarbij de in deze regeling bepaalde voorschriften worden nageleefd.
+3. Degene die op grond van de melding als frequentiegebruiker geregistreerd is, draagt er voor zorg dat indien het geregistreerde radioapparaat door een ander wordt bediend, daarbij de in deze regeling bepaalde voorschriften worden nageleefd.
 
 4. De Minister haalt de registratie door op verzoek van de betrokkene of indien is vastgesteld dat de betrokkene niet langer gebruik maakt van de frequentieruimte. De Minister kan de registratie doorhalen indien de betrokkene de verschuldigde vergoeding voor de registratie niet heeft voldaan. De Minister bericht de betrokkene over de doorhaling.
 
@@ -148,33 +148,33 @@ Bij het gebruik van frequentieruimte wordt voldaan aan de beperkingen en voorsch
 
 ##### Artikel 8
 
-1. Bij gebruik van frequentieruimte als bedoeld in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0036375&artikel=7&z=2015-12-03&g=2015-12-03) wordt voorts voldaan aan de volgende voorschriften:
+1. Bij gebruik van frequentieruimte als bedoeld in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0036375&artikel=7&z=2016-12-28&g=2016-12-28) wordt voorts voldaan aan de volgende voorschriften:
 
-- a. het bewijs van registratie en, in geval van maritiem mobiele communicatie, het certificaat van bediening zijn aanwezig bij het radiozendapparaat;
+- a. het bewijs van registratie en, in geval van maritiem mobiele communicatie, het certificaat van bediening zijn aanwezig bij het radioapparaat;
 
 - b. bij frequentiegebruik met een secundaire status wordt te allen tijde voorrang verleend aan frequentiegebruik met een primaire status;
 
-- c. er worden geen ontoelaatbare storingen of belemmeringen veroorzaakt in andere uitrusting en in het frequentiegebruik door anderen;
+- c. er worden geen ontoelaatbare storingen of belemmeringen veroorzaakt in andere uitrusting of radioapparaten en in het frequentiegebruik door anderen;
 
 - d. er worden geen valse of bedrieglijke alarmeringen, noodseinen, noodoproepen of noodberichten uitgezonden.
 
 ##### Artikel 9
 
-1. Bij gebruik van frequentieruimte met de bestemming ‘maritiem mobiele communicatie’ aan boord van een schip is het radiozendapparaat dat aan boord van het schip gebruikt wordt, geregistreerd voor gebruik aan boord van dat schip en wordt, onverlet [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0036375&artikel=8&z=2015-12-03&g=2015-12-03), voldaan aan de volgende voorschriften:
+1. Bij gebruik van frequentieruimte met de bestemming ‘maritiem mobiele communicatie’ aan boord van een schip is het radioapparaat dat aan boord van het schip gebruikt wordt, geregistreerd voor gebruik aan boord van dat schip en wordt, onverlet [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0036375&artikel=8&z=2016-12-28&g=2016-12-28), voldaan aan de volgende voorschriften:
 
-- a. een maritiem mobiel radiozendapparaat gebruikt geen onjuiste of misleidende identificatie;
+- a. een maritiem mobiel radioapparaat gebruikt geen onjuiste of misleidende identificatie;
 
-- b. het berichtenverkeer wordt kort en zakelijk gehouden en het zendgedeelte van het radiozendapparaat wordt niet onnodig ingeschakeld;
+- b. het berichtenverkeer wordt kort en zakelijk gehouden en het zendgedeelte van het radioapparaat wordt niet onnodig ingeschakeld;
 
-- c. bij een radiozendapparaat met een alarmeringsfunctie dat abusievelijk in werking is getreden, herroept de geregistreerde de melding voor zover daartoe communicatiemiddelen beschikbaar zijn;
+- c. bij een radioapparaat met een alarmeringsfunctie dat abusievelijk in werking is getreden, herroept de geregistreerde de melding voor zover daartoe communicatiemiddelen beschikbaar zijn;
 
 - d. een EPIRB wordt uitsluitend gebruikt voor alarmering indien sprake is van onmiddellijk dreigend gevaar voor bemanning en het schip en indien alarmering met andere middelen niet of niet meer mogelijk is;
 
-- e. radiozendapparaten die een alarmerings- of noodfunctie hebben, worden zodanig geprogrammeerd dat zij bij gebruik automatisch het MMSI-nummer of de toegewezen letters of cijfers ter identificatie van het radiostation gebruiken;
+- e. radioapparaten die een alarmerings- of noodfunctie hebben, worden zodanig geprogrammeerd dat zij bij gebruik automatisch het MMSI-nummer of de toegewezen letters of cijfers ter identificatie van het radiostation gebruiken;
 
-- f. versleutelde radiocommunicatie door middel van een MF- of MF/HF-radiozendapparaat vindt uitsluitend plaats op frequenties bestemd voor radiotelefonieverkeer tussen schepen;
+- f. versleutelde radiocommunicatie door middel van een MF- of MF/HF-radioapparaat vindt uitsluitend plaats op frequenties bestemd voor radiotelefonieverkeer tussen schepen;
 
-- g. bij versleutelde radiocommunicatie als bedoeld in onderdeel f wordt tijdens de uitzending en ten minste eenmaal per periode van vijf minuten de in [artikel 6, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036375&artikel=6&z=2015-12-03&g=2015-12-03), bedoelde combinatie van letters of cijfers onversleuteld uitgezonden;
+- g. bij versleutelde radiocommunicatie als bedoeld in onderdeel f wordt tijdens de uitzending en ten minste eenmaal per periode van vijf minuten de in [artikel 6, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036375&artikel=6&z=2016-12-28&g=2016-12-28), bedoelde combinatie van letters of cijfers onversleuteld uitgezonden;
 
 - h. bij gebruik van een marifoon of portofoon is de antenne hiervan verticaal polariserend en rondstralend;
 
@@ -184,13 +184,13 @@ Bij het gebruik van frequentieruimte wordt voldaan aan de beperkingen en voorsch
 
 ##### Artikel 10
 
-1. Bij gebruik van frequentieruimte met de bestemming ‘amateur´ of ‘amateursatelliet´ wordt, onverlet [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0036375&artikel=8&z=2015-12-03&g=2015-12-03), voldaan aan de volgende voorschriften:
+1. Bij gebruik van frequentieruimte met de bestemming ‘amateur´ of ‘amateursatelliet´ wordt, onverlet [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0036375&artikel=8&z=2016-12-28&g=2016-12-28), voldaan aan de volgende voorschriften:
 
-- a. de radiozendamateur die het radiozendapparaat bedient, is bij het radiozendapparaat aanwezig of draagt er zorg voor dat alleen hij zijn radiozendapparaat op afstand kan bedienen;
+- a. de radiozendamateur die het radioapparaat bedient, is bij het radioapparaat aanwezig of draagt er zorg voor dat alleen hij zijn radioapparaat op afstand kan bedienen;
 
 - b. het uitzenden van omroepprogramma´s, muziek, reclame of berichten van of voor derden is niet toegestaan;
 
-- c. de in [artikel 6, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036375&artikel=6&z=2015-12-03&g=2015-12-03), bedoelde combinatie van letters of cijfers wordt ten minste bij het begin en bij het einde van elke uitzending en ten minste eenmaal per periode van vijf minuten uitgezonden, waarbij een reeks kortdurende uitzendingen wordt aangemerkt als één uitzending;
+- c. de in [artikel 6, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036375&artikel=6&z=2016-12-28&g=2016-12-28), bedoelde combinatie van letters of cijfers wordt ten minste bij het begin en bij het einde van elke uitzending en ten minste eenmaal per periode van vijf minuten uitgezonden, waarbij een reeks kortdurende uitzendingen wordt aangemerkt als één uitzending;
 
 - d. de combinatie van letters of cijfers is bij data- en beeldoverdracht aan de ontvangstzijde na demodulatie in leesbaar schrift zichtbaar;
 
@@ -218,11 +218,11 @@ Bij het gebruik van frequentieruimte wordt voldaan aan de beperkingen en voorsch
 
 2. Voor gezamenlijk gebruik van frequentieruimte ten dienste van radiozendamateurs tijdens groepsevenementen gelden de volgende voorschriften:
 
-- a. tijdens een radiowedstrijd die door meer dan een geregistreerde wordt georganiseerd met de vorming van een groepsradiostation, kunnen de deelnemers de in [artikel 6, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036375&artikel=6&z=2015-12-03&g=2015-12-03), bedoelde combinatie van letters of cijfers van één van de geregistreerden gebruiken;
+- a. tijdens een radiowedstrijd die door meer dan een geregistreerde wordt georganiseerd met de vorming van een groepsradiostation, kunnen de deelnemers de in [artikel 6, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036375&artikel=6&z=2016-12-28&g=2016-12-28), bedoelde combinatie van letters of cijfers van één van de geregistreerden gebruiken;
 
 - b. bij radioamateurpeilevenementen die georganiseerd zijn door een geregistreerde vereniging of stichting van radiozendamateurs, is het eerste lid, onderdeel a, niet van toepassing;
 
-- c. bij gebruik van een radiostation door leden van Scouting Nederland tijdens evenementen die georganiseerd worden door de werkgroep Radio Scouting Nederland wordt aan de in [artikel 6, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036375&artikel=6&z=2015-12-03&g=2015-12-03), bedoelde combinatie van letters of cijfers toegevoegd: J.
+- c. bij gebruik van een radiostation door leden van Scouting Nederland tijdens evenementen die georganiseerd worden door de werkgroep Radio Scouting Nederland wordt aan de in [artikel 6, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036375&artikel=6&z=2016-12-28&g=2016-12-28), bedoelde combinatie van letters of cijfers toegevoegd: J.
 
 3. Voor een onderwijsinstelling geldt dat:
 
@@ -230,9 +230,9 @@ Bij het gebruik van frequentieruimte wordt voldaan aan de beperkingen en voorsch
 
 - b. het houden van en deelnemen aan radiowedstrijden niet is toegestaan;
 
-- c. de onderwijsinstelling een radiozendamateur die voldoet aan het in [artikel 4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036375&artikel=4&z=2015-12-03&g=2015-12-03), bedoelde vereiste, aanwijst die namens de geregistreerde onderwijsinstelling het radiostation beheert.
+- c. de onderwijsinstelling een radiozendamateur die voldoet aan het in [artikel 4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036375&artikel=4&z=2016-12-28&g=2016-12-28), bedoelde vereiste, aanwijst die namens de geregistreerde onderwijsinstelling het radiostation beheert.
 
-4. Voor een vereniging of stichting van radiozendamateurs geldt dat de geregistreerde een radiozendamateur die voldoet aan het in [artikel 4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036375&artikel=4&z=2015-12-03&g=2015-12-03), bedoelde vereiste, aanwijst die namens de geregistreerde vereniging of stichting het radiostation beheert.
+4. Voor een vereniging of stichting van radiozendamateurs geldt dat de geregistreerde een radiozendamateur die voldoet aan het in [artikel 4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036375&artikel=4&z=2016-12-28&g=2016-12-28), bedoelde vereiste, aanwijst die namens de geregistreerde vereniging of stichting het radiostation beheert.
 
 ##### Artikel 11
 
@@ -250,7 +250,7 @@ Deze regeling wordt aangehaald als: Regeling gebruik van frequentieruimte met me
 
 ### Bijlage 1. Radiozendamateurs
 
-### Beperkingen en voorschriften als bedoeld in [artikel 7, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0036375&artikel=7&z=2015-12-03&g=2015-12-03), en examenvereiste als bedoeld in [artikel 4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036375&artikel=4&z=2015-12-03&g=2015-12-03)
+### Beperkingen en voorschriften als bedoeld in [artikel 7, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0036375&artikel=7&z=2016-12-28&g=2016-12-28), en examenvereiste als bedoeld in [artikel 4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036375&artikel=4&z=2016-12-28&g=2016-12-28)
 
 ### Limieten zelfgebouwde amateurapparatuur
 
@@ -262,7 +262,7 @@ Voor metingen aan frequenties hoger dan 40 GHz zijn geen testlimieten vastgestel
 
 Opmerking 1: De limiet in dBc neemt lineair af met de logaritme van de frequentie in het bereik van 35 MHz tot 50 MHz.
 
-Voor de limieten aangegeven in dBc geldt dat het referentieniveau het maximale RF-outputsignaal in PEP van de zender is, gemeten aan de antenne-uitgang.
+Voor de limieten aangegeven in dBc geldt dat het referentieniveau het maximale RF-outputsignaal in PEP van de radioapparaat is, gemeten aan de antenne-uitgang.
 
 Voor metingen aan frequenties hoger dan 40 GHz zijn geen testlimieten vastgesteld.
 
@@ -278,7 +278,7 @@ PEP is het daadwerkelijke toegepaste zendvermogen;
 
 ### Bijlage 2. Maritiem mobiele communicatie
 
-**Beperkingen en voorschriften als bedoeld in** [artikel 7, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0036375&artikel=7&z=2015-12-03&g=2015-12-03) **, en het vereiste certificaat van bediening als bedoeld in** [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036375&artikel=4&z=2015-12-03&g=2015-12-03).
+**Beperkingen en voorschriften als bedoeld in** [artikel 7, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0036375&artikel=7&z=2016-12-28&g=2016-12-28) **, en het vereiste certificaat van bediening als bedoeld in** [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036375&artikel=4&z=2016-12-28&g=2016-12-28).
 
 ### 1. Frequentiegebruik
 
@@ -354,13 +354,13 @@ Opmerkingen:
 
 **Opmerkingen bij tabel 2:**
 
-Dit overzicht bevat alle apparatuur die onder de noemer ‘scheepsstation’ vergunningvrij met melding kan worden gebruikt.
+Dit overzicht bevat alle radioapparatuur die onder de noemer ‘scheepsstation’ vergunningvrij met melding kan worden gebruikt.
 
 ### 6. Toelichting op de gebruikte terminologie
 
 ### Bijlage 3
 
-### Spellingsalfabet als bedoeld in [artikel 10, onderdeel h](https://wetten.overheid.nl/jci1.3:c:BWBR0036375&artikel=10&z=2015-12-03&g=2015-12-03)
+### Spellingsalfabet als bedoeld in [artikel 10, onderdeel h](https://wetten.overheid.nl/jci1.3:c:BWBR0036375&artikel=10&z=2016-12-28&g=2016-12-28)
 
 Bij het spellen van de roepletters dient gebruik te worden gemaakt van het volgende spellingsalfabet:
 
