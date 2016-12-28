@@ -183,13 +183,3 @@ Deze regeling treedt in werking op het tijdstip waarop de Wet van 3 februari 201
 Deze regeling wordt aangehaald als: Regeling radioapparaten 2016.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
-
-##### Artikel 3a
-
-1. Indien een marktdeelnemer consumenten of andere eindgebruikers de mogelijkheid biedt een van de radioapparaten, genoemd in deel I van bijlage I bis van [richtlijn nr. 2014/53/EU](32014L0053) samen met een oplader aan te schaffen, biedt deze aan hen ook de mogelijkheid dat radioapparaat zonder oplader aan te schaffen, met dien verstande dat deze verplichting voor de radioapparaten, genoemd in deel I, punten 1.1 tot en met 1.12 respectievelijk punt 1.13 van bijlage I bis van [richtlijn nr. 2014/53/EU](32014L0053) van toepassing is vanaf 28 december 2024 respectievelijk 28 april 2026.
-
-2. Een marktdeelnemer verstrekt informatie die aangeeft of een oplader al dan niet is inbegrepen bij een radioapparaat, bedoeld in het eerste lid.
-
-Indien een dergelijk radioapparaat beschikbaar wordt gesteld aan consumenten of andere eindgebruikers, wordt daartoe een gebruiksvriendelijk en gemakkelijk te begrijpen pictogram als bedoeld in deel III van bijlage I bis van [richtlijn nr. 2014/53/EU](32014L0053) gebruikt. Het pictogram wordt op de verpakking afgedrukt of als sticker op de verpakking aangebracht en is goed zichtbaar en goed leesbaar. Bij verkoop op afstand bevindt het pictogram zich bovendien dicht bij de prijsaanduiding. Voor de radioapparaten, genoemd in deel I, punten 1.1 tot en met 1.12 respectievelijk punt 1.13 van bijlage I bis van [richtlijn nr. 2014/53/EU](32014L0053) zijn deze verplichtingen van toepassing vanaf 28 december 2024 respectievelijk 28 april 2026.
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
