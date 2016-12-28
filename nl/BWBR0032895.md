@@ -4,7 +4,7 @@ identifier: "BWBR0032895"
 country: "nl"
 rank: "amvb"
 publication_date: "2022-03-02"
-last_updated: "2014-09-01"
+last_updated: "2016-12-28"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0032895"
 soort: "AMvB"
@@ -64,15 +64,15 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
 ##### Artikel 2
 
-1. Bij ministeriële regeling kunnen categorieën radiozendapparaten worden aangewezen ten aanzien waarvan voor het gebruik van frequentieruimte geen vergunning is vereist en geen meldingsplicht geldt.
+1. Bij ministeriële regeling kunnen categorieën radioapparaten worden aangewezen ten aanzien waarvan voor het gebruik van frequentieruimte geen vergunning is vereist en geen meldingsplicht geldt.
 
-2. De aanwijzing van categorieën radiozendapparaten, bedoeld in het eerste lid, kan uitsluitend geschieden voor zover het radiozendapparaten betreft, die geen of vrijwel geen storing of belemmering veroorzaken in elektrische of elektronische apparaten, die geen radiozendapparaten zijn.
+2. De aanwijzing van categorieën radioapparaten, bedoeld in het eerste lid, kan uitsluitend geschieden voor zover het radioapparaten betreft, die geen of vrijwel geen storing of belemmering veroorzaken in elektrische of elektronische apparaten.
 
 3. Met betrekking tot het gebruik als bedoeld in het eerste lid kunnen bij ministeriële regeling regels worden gesteld:
 
 - a. inzake de doelmatigheid van het gebruik;
 
-- b. inzake de aard van de radiozendapparaten en de daarbij behorende antenne-inrichtingen alsmede het vermogen waarmee mag worden uitgezonden;
+- b. inzake de aard van de radioapparaten en de daarbij behorende antenne-inrichtingen alsmede het vermogen waarmee mag worden uitgezonden;
 
 - c. ter uitvoering van verplichtingen die voorvloeien uit verdragen of uit bindende besluiten van volkenrechtelijk organisaties aangaande het gebruik van frequentieruimte.
 
@@ -80,19 +80,19 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
 ##### Artikel 3
 
-1. Bij ministeriële regeling kunnen categorieën radiozendapparaten worden aangewezen ten aanzien waarvan voor het gebruik van frequentieruimte, behoudens een meldingsplicht, geen vergunning is vereist.
+1. Bij ministeriële regeling kunnen categorieën radioapparaten worden aangewezen ten aanzien waarvan voor het gebruik van frequentieruimte, behoudens een meldingsplicht, geen vergunning is vereist.
 
 2. Met betrekking tot het gebruik als bedoeld in het eerste lid kunnen bij ministeriële regeling regels worden gesteld inzake:
 
 - a. het door de gebruiker beschikbaar houden van bescheiden;
 
-- b. het veroorzaken van belemmeringen in radiozend- of ontvangapparaten of in elektrische of elektronische inrichtingen door het gewenste signaal van een radiozendapparaat.
+- b. het veroorzaken van belemmeringen in radioapparaten of in elektrische of elektronische inrichtingen door het gewenste signaal van een radioapparaat.
 
-3. [Artikel 2, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032895&hoofdstuk=2&paragraaf=2.1&artikel=2&z=2014-09-01&g=2014-09-01), is van overeenkomstige toepassing.
+3. [Artikel 2, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032895&hoofdstuk=2&paragraaf=2.1&artikel=2&z=2016-12-28&g=2016-12-28), is van overeenkomstige toepassing.
 
 ##### Artikel 4
 
-1. Bij ministeriële regeling kunnen eisen worden gesteld waaraan een natuurlijke persoon moet voldoen voor het gebruik van frequentieruimte als bedoeld in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032895&hoofdstuk=2&paragraaf=2.2&artikel=3&z=2014-09-01&g=2014-09-01). Deze eisen kunnen slechts inhouden dat:
+1. Bij ministeriële regeling kunnen eisen worden gesteld waaraan een natuurlijke persoon moet voldoen voor het gebruik van frequentieruimte als bedoeld in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032895&hoofdstuk=2&paragraaf=2.2&artikel=3&z=2016-12-28&g=2016-12-28). Deze eisen kunnen slechts inhouden dat:
 
 - a. de gebruiker een bepaalde leeftijd heeft bereikt;
 
@@ -112,19 +112,19 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
 - e. het verkrijgen van een certificaat van bediening.
 
-3. Bij ministeriële regeling kunnen regels worden gesteld voor het gebruik door rechtspersonen van frequentieruimte als bedoeld in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032895&hoofdstuk=2&paragraaf=2.2&artikel=3&z=2014-09-01&g=2014-09-01).
+3. Bij ministeriële regeling kunnen regels worden gesteld voor het gebruik door rechtspersonen van frequentieruimte als bedoeld in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032895&hoofdstuk=2&paragraaf=2.2&artikel=3&z=2016-12-28&g=2016-12-28).
 
 4. Voor de toepassing van dit artikel wordt een vennootschap zonder rechtspersoonlijkheid gelijk gesteld met een rechtspersoon.
 
 ##### Artikel 5
 
-1. Degene die voornemens is frequentieruimte waarvoor geen vergunning is vereist te gebruiken als bedoeld in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032895&hoofdstuk=2&paragraaf=2.2&artikel=3&z=2014-09-01&g=2014-09-01), doet hiervan melding aan Onze Minister.
+1. Degene die voornemens is frequentieruimte waarvoor geen vergunning is vereist te gebruiken als bedoeld in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032895&hoofdstuk=2&paragraaf=2.2&artikel=3&z=2016-12-28&g=2016-12-28), doet hiervan melding aan Onze Minister.
 
 2. Onze Minister registreert het in de melding bedoelde frequentiegebruik tenzij niet wordt voldaan aan bij ministeriële regeling te stellen regels.
 
 3. De frequentieruimte voor het gebruik waarvan geen vergunning is vereist, wordt slechts gebruikt indien het gebruik is geregistreerd overeenkomstig het tweede lid.
 
-4. Met het oog op de identificatie van het radiozendapparaat kent Onze Minister in bij ministeriële regeling te bepalen gevallen aan degene die de melding heeft gedaan een combinatie van letters of cijfers toe.
+4. Met het oog op de identificatie van het radioapparaat kent Onze Minister in bij ministeriële regeling te bepalen gevallen aan degene die de melding heeft gedaan een combinatie van letters of cijfers toe.
 
 5. Bij ministeriële regeling kunnen nadere regels worden gesteld ter zake van de melding, de registratie en de toekenning van de combinatie van letters of cijfers.
 
@@ -142,7 +142,7 @@ Ingeval van een procedure voor de verlening van een vergunning als bedoeld in [a
 
 1. Uiterlijk zeven dagen nadat het besluit, bedoeld in [artikel 3.10, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&artikel=3.10), in werking is getreden, maakt Onze Minister bekend:
 
-- a. de regels, bedoeld in de [artikelen 8](https://wetten.overheid.nl/jci1.3:c:BWBR0032895&hoofdstuk=3&paragraaf=3.2&artikel=8&z=2014-09-01&g=2014-09-01), [9, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032895&hoofdstuk=3&paragraaf=3.2&artikel=9&z=2014-09-01&g=2014-09-01) en [10, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032895&hoofdstuk=3&paragraaf=3.2&artikel=10&z=2014-09-01&g=2014-09-01);
+- a. de regels, bedoeld in de [artikelen 8](https://wetten.overheid.nl/jci1.3:c:BWBR0032895&hoofdstuk=3&paragraaf=3.2&artikel=8&z=2016-12-28&g=2016-12-28), [9, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032895&hoofdstuk=3&paragraaf=3.2&artikel=9&z=2016-12-28&g=2016-12-28) en [10, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032895&hoofdstuk=3&paragraaf=3.2&artikel=10&z=2016-12-28&g=2016-12-28);
 
 - b. de regels, bedoeld in [artikel 3.15, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&artikel=3.15).
 
@@ -220,9 +220,9 @@ Bij ministeriële regeling worden regels gesteld omtrent de indiening van de aan
 
 - d. de aanvrager een redelijk belang heeft bij het voorgenomen gebruik van de gevraagde frequentieruimte.
 
-2. [Artikel 4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032895&hoofdstuk=2&paragraaf=2.2&artikel=4&z=2014-09-01&g=2014-09-01), is van overeenkomstige toepassing.
+2. [Artikel 4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032895&hoofdstuk=2&paragraaf=2.2&artikel=4&z=2016-12-28&g=2016-12-28), is van overeenkomstige toepassing.
 
-3. Voor zover de aard, de omvang of het maatschappelijk belang van de vergunning daartoe naar het oordeel van Onze Minister aanleiding geeft, kunnen naast de eisen genoemd in het eerste lid bij ministeriële regeling tevens de eisen worden gesteld bedoeld in [artikel 9, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032895&hoofdstuk=3&paragraaf=3.2&artikel=9&z=2014-09-01&g=2014-09-01), en kunnen voorts regels worden gesteld in het belang van een evenwichtige verdeling dan wel een doelmatig gebruik van frequentieruimte.
+3. Voor zover de aard, de omvang of het maatschappelijk belang van de vergunning daartoe naar het oordeel van Onze Minister aanleiding geeft, kunnen naast de eisen genoemd in het eerste lid bij ministeriële regeling tevens de eisen worden gesteld bedoeld in [artikel 9, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032895&hoofdstuk=3&paragraaf=3.2&artikel=9&z=2016-12-28&g=2016-12-28), en kunnen voorts regels worden gesteld in het belang van een evenwichtige verdeling dan wel een doelmatig gebruik van frequentieruimte.
 
 ##### Artikel 12
 
@@ -264,7 +264,7 @@ Bij ministeriële regeling kunnen regels worden gesteld omtrent de indiening van
 
 ##### Artikel 15
 
-1. Uiterlijk negen weken na ontvangst van een aanvraag die voldoet aan het bepaalde op grond van [artikel 14, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032895&hoofdstuk=3&paragraaf=3.4&artikel=14&z=2014-09-01&g=2014-09-01), maakt Onze Minister in de Staatscourant bekend:
+1. Uiterlijk negen weken na ontvangst van een aanvraag die voldoet aan het bepaalde op grond van [artikel 14, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032895&hoofdstuk=3&paragraaf=3.4&artikel=14&z=2016-12-28&g=2016-12-28), maakt Onze Minister in de Staatscourant bekend:
 
 - a. de ontvangst van de aanvraag en de frequentieband waarop deze aanvraag betrekking heeft;
 
@@ -272,11 +272,11 @@ Bij ministeriële regeling kunnen regels worden gesteld omtrent de indiening van
 
 - c. voor zover dit redelijkerwijs mogelijk is, de voorschriften en beperkingen die aan een vergunning voor het gebruik van de betreffende frequentieband zullen worden verbonden.
 
-2. Het op grond van [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0032895&hoofdstuk=3&paragraaf=3.4&artikel=14&z=2014-09-01&g=2014-09-01) bepaalde is mede van toepassing op aanvragen als bedoeld in het eerste lid, onderdeel b.
+2. Het op grond van [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0032895&hoofdstuk=3&paragraaf=3.4&artikel=14&z=2016-12-28&g=2016-12-28) bepaalde is mede van toepassing op aanvragen als bedoeld in het eerste lid, onderdeel b.
 
 ##### Artikel 16
 
-1. Uiterlijk negen weken na de uiterste ontvangstdatum, bedoeld in [artikel 15, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0032895&hoofdstuk=3&paragraaf=3.4&artikel=15&z=2014-09-01&g=2014-09-01), neemt Onze Minister:
+1. Uiterlijk negen weken na de uiterste ontvangstdatum, bedoeld in [artikel 15, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0032895&hoofdstuk=3&paragraaf=3.4&artikel=15&z=2016-12-28&g=2016-12-28), neemt Onze Minister:
 
 - a. een besluit omtrent de verlening van een vergunning voor het gebruik van frequentieruimte indien de totale omvang van de aangevraagde frequentieruimte kleiner is dan of gelijk is aan de beschikbare frequentieruimte binnen het betreffende frequentie- en geografische bereik of
 
@@ -292,7 +292,7 @@ Bij ministeriële regeling kunnen regels worden gesteld omtrent de indiening van
 
 - c. voor zover dit redelijkerwijs mogelijk is, de voorschriften en beperkingen die aan het gebruik van de betreffende frequentieruimte zullen worden verbonden.
 
-4. In geval van verlening van een vergunning door middel van een veiling als bedoeld in het eerste lid, onderdeel b, neemt Onze Minister uiterlijk 25 weken na de uiterste ontvangstdatum, bedoeld in [artikel 15, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0032895&hoofdstuk=3&paragraaf=3.4&artikel=15&z=2014-09-01&g=2014-09-01), een besluit omtrent de verlening van een vergunning.
+4. In geval van verlening van een vergunning door middel van een veiling als bedoeld in het eerste lid, onderdeel b, neemt Onze Minister uiterlijk 25 weken na de uiterste ontvangstdatum, bedoeld in [artikel 15, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0032895&hoofdstuk=3&paragraaf=3.4&artikel=15&z=2016-12-28&g=2016-12-28), een besluit omtrent de verlening van een vergunning.
 
 #### Paragraaf 3.5. Aan een vergunning verbonden voorschriften en beperkingen
 
@@ -302,15 +302,15 @@ Bij ministeriële regeling kunnen regels worden gesteld omtrent de indiening van
 
 - a. het doelmatig gebruik van de toegewezen frequentieruimte;
 
-- b. de aard van de radiozendapparaten en de daarbij behorende antenne-inrichtingen alsmede het vermogen waarmee mag worden uitgezonden;
+- b. de aard van de radioapparaten en de daarbij behorende antenne-inrichtingen alsmede het vermogen waarmee mag worden uitgezonden;
 
 - c. bescheiden die de vergunninghouder ter beschikking moet houden;
 
 - d. verplichtingen die voortvloeien uit de toezeggingen die de vergunninghouder in het kader van een vergelijkende toets of een veiling heeft gedaan, ook indien slechts één aanvrager aan de bij of krachtens de wet gestelde eisen voldoet;
 
-- e. het veroorzaken van belemmeringen in radiozend- of ontvangapparaten of in elektrische of elektronische inrichtingen door het gewenste signaal van een radiozendapparaat;
+- e. het veroorzaken van belemmeringen in radioapparaten of in elektrische of elektronische inrichtingen door het gewenste signaal van een radioapparaat;
 
-- f. het waarborgen van de in [artikel 9, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032895&hoofdstuk=3&paragraaf=3.2&artikel=9&z=2014-09-01&g=2014-09-01), bedoelde belangen;
+- f. het waarborgen van de in [artikel 9, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032895&hoofdstuk=3&paragraaf=3.2&artikel=9&z=2016-12-28&g=2016-12-28), bedoelde belangen;
 
 - g. de diensten die moeten worden aangeboden, het soort elektronisch communicatienetwerk dat moet worden aangeboden of de technologie die moet worden gebruikt;
 
@@ -402,7 +402,7 @@ Deze regels kunnen per vergunning verschillen.
 
 - f. door de aanvrager te leveren bijdrage aan de overgang van analoge naar digitale techniek.
 
-3. [Artikel 9, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032895&hoofdstuk=3&paragraaf=3.2&artikel=9&z=2014-09-01&g=2014-09-01), is van overeenkomstige toepassing op de in het eerste lid bedoelde eisen.
+3. [Artikel 9, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032895&hoofdstuk=3&paragraaf=3.2&artikel=9&z=2016-12-28&g=2016-12-28), is van overeenkomstige toepassing op de in het eerste lid bedoelde eisen.
 
 4. Voor zover de aard, de omvang of het maatschappelijk belang van de vergunning daartoe naar het oordeel van Onze Minister aanleiding geeft, kunnen naast de eisen genoemd in het tweede en derde lid bij ministeriële regeling tevens regels worden gesteld in het belang van een evenwichtige verdeling dan wel een doelmatig gebruik van frequentieruimte.
 
@@ -452,7 +452,7 @@ Deze regels kunnen per vergunning verschillen.
 
 ##### Artikel 24
 
-1. In het antenneregister worden voor de antennes, bedoeld in [artikel 23, eerste lid, onderdelen a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0032895&hoofdstuk=4&artikel=23&z=2014-09-01&g=2014-09-01) de volgende gegevens opgenomen:
+1. In het antenneregister worden voor de antennes, bedoeld in [artikel 23, eerste lid, onderdelen a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0032895&hoofdstuk=4&artikel=23&z=2016-12-28&g=2016-12-28) de volgende gegevens opgenomen:
 
 - a. de toepassing van de antenne;
 
@@ -472,7 +472,7 @@ Deze regels kunnen per vergunning verschillen.
 
 ##### Artikel 25
 
-1. In het antenneregister worden voor de antennes als bedoeld in [artikel 23, eerste lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0032895&hoofdstuk=4&artikel=23&z=2014-09-01&g=2014-09-01), de volgende gegevens opgenomen:
+1. In het antenneregister worden voor de antennes als bedoeld in [artikel 23, eerste lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0032895&hoofdstuk=4&artikel=23&z=2016-12-28&g=2016-12-28), de volgende gegevens opgenomen:
 
 - a. de locatie van de antenne-installatie, met een nauwkeurigheid van 15 meter, aangeduid met toepassing van het World Geodetic System 1984;
 
@@ -572,19 +572,19 @@ Wijzigt het Besluit randapparaten en radioapparaten 2007.
 
 Na de inwerkingtreding van dit besluit berust:
 
-- a. de [Examenregeling frequentiegebruik 2008](https://wetten.overheid.nl/jci1.3:c:BWBR0024285) op de [artikelen 4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032895&hoofdstuk=2&paragraaf=2.2&artikel=4&z=2014-09-01&g=2014-09-01), en [11, tweede lid, van dit besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0032895&hoofdstuk=3&paragraaf=3.3&artikel=11&z=2014-09-01&g=2014-09-01) en de [artikelen 5](https://wetten.overheid.nl/jci1.3:c:BWBR0010334&artikel=5) en [6 van het Besluit vergoedingen Telecommunicatiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0010334&artikel=6);
+- a. de [Examenregeling frequentiegebruik 2008](https://wetten.overheid.nl/jci1.3:c:BWBR0024285) op de [artikelen 4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032895&hoofdstuk=2&paragraaf=2.2&artikel=4&z=2016-12-28&g=2016-12-28), en [11, tweede lid, van dit besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0032895&hoofdstuk=3&paragraaf=3.3&artikel=11&z=2016-12-28&g=2016-12-28) en de [artikelen 5](https://wetten.overheid.nl/jci1.3:c:BWBR0010334&artikel=5) en [6 van het Besluit vergoedingen Telecommunicatiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0010334&artikel=6);
 
-- b. de [Regeling aanvraag en toelating vergunningen voor het gebruik van frequentiegebruik](https://wetten.overheid.nl/jci1.3:c:BWBR0015731) op de [artikelen 11, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032895&hoofdstuk=3&paragraaf=3.3&artikel=11&z=2014-09-01&g=2014-09-01), 11, tweede lid, juncto 4, tweede lid, en [12](https://wetten.overheid.nl/jci1.3:c:BWBR0032895&hoofdstuk=3&paragraaf=3.3&artikel=12&z=2014-09-01&g=2014-09-01) van dit besluit;
+- b. de [Regeling aanvraag en toelating vergunningen voor het gebruik van frequentiegebruik](https://wetten.overheid.nl/jci1.3:c:BWBR0015731) op de [artikelen 11, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032895&hoofdstuk=3&paragraaf=3.3&artikel=11&z=2016-12-28&g=2016-12-28), 11, tweede lid, juncto 4, tweede lid, en [12](https://wetten.overheid.nl/jci1.3:c:BWBR0032895&hoofdstuk=3&paragraaf=3.3&artikel=12&z=2016-12-28&g=2016-12-28) van dit besluit;
 
-- c. de [Regeling aanvraag en vergelijkende toets vergunningen commerciële radio-omroep 2003](https://wetten.overheid.nl/jci1.3:c:BWBR0014741) op [artikel 3.10, eerste lid, van de Telecommunicatiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&artikel=3.10) en de [artikelen 8](https://wetten.overheid.nl/jci1.3:c:BWBR0032895&hoofdstuk=3&paragraaf=3.2&artikel=8&z=2014-09-01&g=2014-09-01), [9](https://wetten.overheid.nl/jci1.3:c:BWBR0032895&hoofdstuk=3&paragraaf=3.2&artikel=9&z=2014-09-01&g=2014-09-01) en [10](https://wetten.overheid.nl/jci1.3:c:BWBR0032895&hoofdstuk=3&paragraaf=3.2&artikel=10&z=2014-09-01&g=2014-09-01) van dit besluit
+- c. de [Regeling aanvraag en vergelijkende toets vergunningen commerciële radio-omroep 2003](https://wetten.overheid.nl/jci1.3:c:BWBR0014741) op [artikel 3.10, eerste lid, van de Telecommunicatiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&artikel=3.10) en de [artikelen 8](https://wetten.overheid.nl/jci1.3:c:BWBR0032895&hoofdstuk=3&paragraaf=3.2&artikel=8&z=2016-12-28&g=2016-12-28), [9](https://wetten.overheid.nl/jci1.3:c:BWBR0032895&hoofdstuk=3&paragraaf=3.2&artikel=9&z=2016-12-28&g=2016-12-28) en [10](https://wetten.overheid.nl/jci1.3:c:BWBR0032895&hoofdstuk=3&paragraaf=3.2&artikel=10&z=2016-12-28&g=2016-12-28) van dit besluit
 
-- d. de [Regeling aanvraag- en veilingprocedure vergunningen 800, 900 en 1800 MHz](https://wetten.overheid.nl/jci1.3:c:BWBR0031069) op de [artikelen 6](https://wetten.overheid.nl/jci1.3:c:BWBR0032895&hoofdstuk=3&paragraaf=3.1&artikel=6&z=2014-09-01&g=2014-09-01), [8](https://wetten.overheid.nl/jci1.3:c:BWBR0032895&hoofdstuk=3&paragraaf=3.2&artikel=8&z=2014-09-01&g=2014-09-01), [9](https://wetten.overheid.nl/jci1.3:c:BWBR0032895&hoofdstuk=3&paragraaf=3.2&artikel=9&z=2014-09-01&g=2014-09-01) en [10](https://wetten.overheid.nl/jci1.3:c:BWBR0032895&hoofdstuk=3&paragraaf=3.2&artikel=10&z=2014-09-01&g=2014-09-01) van dit besluit;
+- d. de [Regeling aanvraag- en veilingprocedure vergunningen 800, 900 en 1800 MHz](https://wetten.overheid.nl/jci1.3:c:BWBR0031069) op de [artikelen 6](https://wetten.overheid.nl/jci1.3:c:BWBR0032895&hoofdstuk=3&paragraaf=3.1&artikel=6&z=2016-12-28&g=2016-12-28), [8](https://wetten.overheid.nl/jci1.3:c:BWBR0032895&hoofdstuk=3&paragraaf=3.2&artikel=8&z=2016-12-28&g=2016-12-28), [9](https://wetten.overheid.nl/jci1.3:c:BWBR0032895&hoofdstuk=3&paragraaf=3.2&artikel=9&z=2016-12-28&g=2016-12-28) en [10](https://wetten.overheid.nl/jci1.3:c:BWBR0032895&hoofdstuk=3&paragraaf=3.2&artikel=10&z=2016-12-28&g=2016-12-28) van dit besluit;
 
-- e. de [Regeling openbaar antenneregister](https://wetten.overheid.nl/jci1.3:c:BWBR0027031) op [artikel 26](https://wetten.overheid.nl/jci1.3:c:BWBR0032895&hoofdstuk=4&artikel=26&z=2014-09-01&g=2014-09-01) van dit besluit;
+- e. de [Regeling openbaar antenneregister](https://wetten.overheid.nl/jci1.3:c:BWBR0027031) op [artikel 26](https://wetten.overheid.nl/jci1.3:c:BWBR0032895&hoofdstuk=4&artikel=26&z=2016-12-28&g=2016-12-28) van dit besluit;
 
-- f. de [Regeling gebruik van frequentieruimte zonder vergunning 2008](https://wetten.overheid.nl/jci1.3:c:BWBR0023553) op de [artikelen 2, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032895&hoofdstuk=2&paragraaf=2.1&artikel=2&z=2014-09-01&g=2014-09-01), [3, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032895&hoofdstuk=2&paragraaf=2.2&artikel=3&z=2014-09-01&g=2014-09-01), [4](https://wetten.overheid.nl/jci1.3:c:BWBR0032895&hoofdstuk=2&paragraaf=2.2&artikel=4&z=2014-09-01&g=2014-09-01), en [5, tweede, vierde en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032895&hoofdstuk=2&paragraaf=2.2&artikel=5&z=2014-09-01&g=2014-09-01), van dit besluit, en
+- f. de [Regeling gebruik van frequentieruimte zonder vergunning 2008](https://wetten.overheid.nl/jci1.3:c:BWBR0023553) op de [artikelen 2, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032895&hoofdstuk=2&paragraaf=2.1&artikel=2&z=2016-12-28&g=2016-12-28), [3, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032895&hoofdstuk=2&paragraaf=2.2&artikel=3&z=2016-12-28&g=2016-12-28), [4](https://wetten.overheid.nl/jci1.3:c:BWBR0032895&hoofdstuk=2&paragraaf=2.2&artikel=4&z=2016-12-28&g=2016-12-28), en [5, tweede, vierde en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032895&hoofdstuk=2&paragraaf=2.2&artikel=5&z=2016-12-28&g=2016-12-28), van dit besluit, en
 
-- g. de [Regeling vervolg verdeling frequenties commerciële radio-omroep 2003](https://wetten.overheid.nl/jci1.3:c:BWBR0015414) op [artikel 3.10, eerste lid, van de Telecommunicatiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&artikel=3.10) en de [artikelen 8](https://wetten.overheid.nl/jci1.3:c:BWBR0032895&hoofdstuk=3&paragraaf=3.2&artikel=8&z=2014-09-01&g=2014-09-01), [9](https://wetten.overheid.nl/jci1.3:c:BWBR0032895&hoofdstuk=3&paragraaf=3.2&artikel=9&z=2014-09-01&g=2014-09-01) en [10](https://wetten.overheid.nl/jci1.3:c:BWBR0032895&hoofdstuk=3&paragraaf=3.2&artikel=10&z=2014-09-01&g=2014-09-01) van dit besluit.
+- g. de [Regeling vervolg verdeling frequenties commerciële radio-omroep 2003](https://wetten.overheid.nl/jci1.3:c:BWBR0015414) op [artikel 3.10, eerste lid, van de Telecommunicatiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&artikel=3.10) en de [artikelen 8](https://wetten.overheid.nl/jci1.3:c:BWBR0032895&hoofdstuk=3&paragraaf=3.2&artikel=8&z=2016-12-28&g=2016-12-28), [9](https://wetten.overheid.nl/jci1.3:c:BWBR0032895&hoofdstuk=3&paragraaf=3.2&artikel=9&z=2016-12-28&g=2016-12-28) en [10](https://wetten.overheid.nl/jci1.3:c:BWBR0032895&hoofdstuk=3&paragraaf=3.2&artikel=10&z=2016-12-28&g=2016-12-28) van dit besluit.
 
 ##### Artikel 39
 
