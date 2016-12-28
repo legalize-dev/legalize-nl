@@ -4,7 +4,7 @@ identifier: "BWBR0011123"
 country: "nl"
 rank: "amvb"
 publication_date: "2022-03-02"
-last_updated: "2013-01-01"
+last_updated: "2016-12-28"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0011123"
 soort: "AMvB"
@@ -54,7 +54,7 @@ In dit besluit wordt verstaan onder:
 
 - a. wet: [Telecommunicatiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0009950);
 
-- b. informatiepunt: het Centraal informatiepunt onderzoek telecommunicatie, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0011123&artikel=2&z=2013-01-01&g=2013-01-01);
+- b. informatiepunt: het Centraal informatiepunt onderzoek telecommunicatie, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0011123&artikel=2&z=2016-12-28&g=2016-12-28);
 
 - c. aanbieder: de aanbieder van een openbaar telecommunicatienetwerk of een openbare telecommunicatiedienst;
 
@@ -66,7 +66,7 @@ In dit besluit wordt verstaan onder:
 
 - 3°. het hoofd van de Militaire Inlichtingen- en Veiligheidsdienst, of de door hem aangewezen ambtenaar;
 
-- e. informatie: de informatie, bedoeld in [artikel 13.4, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&artikel=13.4), voor zover deze informatie geen betrekking heeft op een ander nummer dan het aansluitnummer voor vaste of mobiele openbare telefoonnetwerken, en geen betrekking heeft op een ander nummer dan de inlognaam of gebruikersnaam, een e-mail adres, identificatienummers van randapparaten of een toegewezen Internet-protocol-nummer voor openbare telecommunicatienetwerken en openbare telecommunicatiediensten die uitsluitend bestaan in de verlening van toegang tot Internet of de door middel van Internet te leveren of te verrichten diensten;
+- e. informatie: de informatie, bedoeld in [artikel 13.4, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&artikel=13.4), voor zover deze informatie geen betrekking heeft op een ander nummer dan het aansluitnummer voor vaste of mobiele openbare telefoonnetwerken, en geen betrekking heeft op een ander nummer dan de inlognaam of gebruikersnaam, een e-mail adres, identificatienummers van eindapparaten of een toegewezen Internet-protocol-nummer voor openbare telecommunicatienetwerken en openbare telecommunicatiediensten die uitsluitend bestaan in de verlening van toegang tot Internet of de door middel van Internet te leveren of te verrichten diensten;
 
 - f. gebruiker: de natuurlijke of rechtspersoon die met de aanbieder een overeenkomst is aangegaan met betrekking tot het gebruik van een netwerk of de levering van een openbare telecommunicatiedienst, alsmede de natuurlijke of rechtspersoon die daadwerkelijk gebruik maakt van een openbaar telecommunicatienetwerk of een openbare telecommunicatiedienst;
 
@@ -82,17 +82,17 @@ Onze Minister van Veiligheid en Justitie is belast met het langs geautomatiseerd
 
 ##### Artikel 3
 
-1. Het informatiepunt, de bevoegde autoriteit en de aanbieder treffen ieder de technische voorzieningen die nodig zijn teneinde uitvoering te geven aan het tweede, derde en vierde lid. De technische voorzieningen voldoen aan de voorwaarden bedoeld in de [artikelen 4](https://wetten.overheid.nl/jci1.3:c:BWBR0011123&artikel=4&z=2013-01-01&g=2013-01-01) en [5](https://wetten.overheid.nl/jci1.3:c:BWBR0011123&artikel=5&z=2013-01-01&g=2013-01-01) en aan de specificaties die zijn opgenomen in de bijlage bij dit besluit.
+1. Het informatiepunt, de bevoegde autoriteit en de aanbieder treffen ieder de technische voorzieningen die nodig zijn teneinde uitvoering te geven aan het tweede, derde en vierde lid. De technische voorzieningen voldoen aan de voorwaarden bedoeld in de [artikelen 4](https://wetten.overheid.nl/jci1.3:c:BWBR0011123&artikel=4&z=2016-12-28&g=2016-12-28) en [5](https://wetten.overheid.nl/jci1.3:c:BWBR0011123&artikel=5&z=2016-12-28&g=2016-12-28) en aan de specificaties die zijn opgenomen in de bijlage bij dit besluit.
 
-2. De bevoegde autoriteit verzoekt om verstrekking van informatie die is opgenomen in het bestand, bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0011123&artikel=4&z=2013-01-01&g=2013-01-01), door tussenkomst van het informatiepunt. De bevoegde autoriteit doet het verzoek langs geautomatiseerde weg.
+2. De bevoegde autoriteit verzoekt om verstrekking van informatie die is opgenomen in het bestand, bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0011123&artikel=4&z=2016-12-28&g=2016-12-28), door tussenkomst van het informatiepunt. De bevoegde autoriteit doet het verzoek langs geautomatiseerde weg.
 
-3. De aanbieder verstrekt de informatie door tussenkomst van het informatiepunt. Daartoe verleent de aanbieder het informatiepunt langs geautomatiseerde weg gedurende 24 uur per dag rechtstreekse toegang tot een bestand als bedoeld in [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011123&artikel=4&z=2013-01-01&g=2013-01-01).
+3. De aanbieder verstrekt de informatie door tussenkomst van het informatiepunt. Daartoe verleent de aanbieder het informatiepunt langs geautomatiseerde weg gedurende 24 uur per dag rechtstreekse toegang tot een bestand als bedoeld in [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011123&artikel=4&z=2016-12-28&g=2016-12-28).
 
-4. Het informatiepunt vergelijkt langs geautomatiseerde weg de gegevens waarop het verzoek betrekking heeft met de gegevens in het bestand, bedoeld in [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011123&artikel=4&z=2013-01-01&g=2013-01-01). Wanneer de gegevens waarop het verzoek betrekking heeft aanwezig zijn in het bestand, worden deze langs geautomatiseerde weg door het informatiepunt doorgeleid aan de bevoegde autoriteit.
+4. Het informatiepunt vergelijkt langs geautomatiseerde weg de gegevens waarop het verzoek betrekking heeft met de gegevens in het bestand, bedoeld in [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011123&artikel=4&z=2016-12-28&g=2016-12-28). Wanneer de gegevens waarop het verzoek betrekking heeft aanwezig zijn in het bestand, worden deze langs geautomatiseerde weg door het informatiepunt doorgeleid aan de bevoegde autoriteit.
 
 5. Op verzoek van de bevoegde autoriteit voorziet de aanbieder zonder tussenkomst van het informatiepunt in correctie van of toelichting op de gegevens, bedoeld in het vierde lid, tweede volzin.
 
-6. Een aanbieder en het informatiepunt komen overeen dat het informatiepunt optreedt als bewerker van het bestand, bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0011123&artikel=4&z=2013-01-01&g=2013-01-01), indien de apparatuur waarin het bestand is opgeslagen in beheer is bij het informatiepunt.
+6. Een aanbieder en het informatiepunt komen overeen dat het informatiepunt optreedt als bewerker van het bestand, bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0011123&artikel=4&z=2016-12-28&g=2016-12-28), indien de apparatuur waarin het bestand is opgeslagen in beheer is bij het informatiepunt.
 
 ##### Artikel 4
 
@@ -120,23 +120,23 @@ Onze Minister van Veiligheid en Justitie is belast met het langs geautomatiseerd
 
 ##### Artikel 5
 
-1. Een verzoek van de bevoegde autoriteit, bedoeld in [artikel 3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011123&artikel=3&z=2013-01-01&g=2013-01-01), kan slechts in het systeem worden ingevoerd door een door Onze Minister van Veiligheid en Justitie geautoriseerde ambtenaar die daartoe gebruik maakt van een hem toegekende toegangscode.
+1. Een verzoek van de bevoegde autoriteit, bedoeld in [artikel 3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011123&artikel=3&z=2016-12-28&g=2016-12-28), kan slechts in het systeem worden ingevoerd door een door Onze Minister van Veiligheid en Justitie geautoriseerde ambtenaar die daartoe gebruik maakt van een hem toegekende toegangscode.
 
-2. De technische voorzieningen, bedoeld in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011123&artikel=3&z=2013-01-01&g=2013-01-01), zijn alleen toegankelijk voor personen die door Onze Minister van Veiligheid en Justitie zijn geautoriseerd.
+2. De technische voorzieningen, bedoeld in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011123&artikel=3&z=2016-12-28&g=2016-12-28), zijn alleen toegankelijk voor personen die door Onze Minister van Veiligheid en Justitie zijn geautoriseerd.
 
-3. De vergelijking en doorgeleiding, bedoeld in [artikel 3, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011123&artikel=3&z=2013-01-01&g=2013-01-01), kan 24 uur per dag plaatsvinden.
+3. De vergelijking en doorgeleiding, bedoeld in [artikel 3, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011123&artikel=3&z=2016-12-28&g=2016-12-28), kan 24 uur per dag plaatsvinden.
 
-4. Bij de toegang, bedoeld in [artikel 3, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011123&artikel=3&z=2013-01-01&g=2013-01-01), tot het bestand, bedoeld in [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011123&artikel=4&z=2013-01-01&g=2013-01-01), en de vergelijking en doorgeleiding, bedoeld in [artikel 3, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011123&artikel=3&z=2013-01-01&g=2013-01-01), worden:
+4. Bij de toegang, bedoeld in [artikel 3, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011123&artikel=3&z=2016-12-28&g=2016-12-28), tot het bestand, bedoeld in [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011123&artikel=4&z=2016-12-28&g=2016-12-28), en de vergelijking en doorgeleiding, bedoeld in [artikel 3, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011123&artikel=3&z=2016-12-28&g=2016-12-28), worden:
 
 - a. geen gegevens betreffende de bevoegde autoriteit, de inhoud van het verzoek en de beantwoording van het verzoek aan de aanbieder bekend,
 
 - b. geen gegevens van de aanbieder bekend aan anderen dan het informatiepunt of de bevoegde autoriteit,
 
-- c. aan het informatiepunt of de bevoegde autoriteit geen andere gegevens bekend dan die welke ingevolge [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011123&artikel=4&z=2013-01-01&g=2013-01-01), zijn opgenomen in het in dat artikellid bedoelde bestand.
+- c. aan het informatiepunt of de bevoegde autoriteit geen andere gegevens bekend dan die welke ingevolge [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011123&artikel=4&z=2016-12-28&g=2016-12-28), zijn opgenomen in het in dat artikellid bedoelde bestand.
 
-5. De vergelijking, bedoeld in [artikel 3, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011123&artikel=3&z=2013-01-01&g=2013-01-01), vindt slechts plaats aan de hand van een in het verzoek opgenomen gegeven betreffende naam, adres, postcode, huisnummer, nummertoevoeging of nummer.
+5. De vergelijking, bedoeld in [artikel 3, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011123&artikel=3&z=2016-12-28&g=2016-12-28), vindt slechts plaats aan de hand van een in het verzoek opgenomen gegeven betreffende naam, adres, postcode, huisnummer, nummertoevoeging of nummer.
 
-6. De doorgeleiding, bedoeld in [artikel 3, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011123&artikel=3&z=2013-01-01&g=2013-01-01), betreft slechts de gegevens waarop het verzoek zich richt.
+6. De doorgeleiding, bedoeld in [artikel 3, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011123&artikel=3&z=2016-12-28&g=2016-12-28), betreft slechts de gegevens waarop het verzoek zich richt.
 
 ##### Artikel 6
 
@@ -146,7 +146,7 @@ Bij regeling van Onze Minister van Veiligheid en Justitie kunnen regels worden g
 
 1. Onze Minister van Veiligheid en Justitie draagt er zorg voor dat het informatiepunt voor elke informatieverstrekking een kenmerk vastlegt aan de hand waarvan kan worden herleid door welke aanbieder, aan welke bevoegde autoriteit en op welke rechtsgrondslag informatie is verstrekt. De vastlegging wordt gedurende drie jaren bewaard.
 
-2. Onze Minister van Veiligheid en Justitie draagt er zorg voor dat het informatiepunt geen gegevens opslaat als bedoeld in [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011123&artikel=4&z=2013-01-01&g=2013-01-01), tenzij de gegevens worden opgeslagen onder verantwoordelijkheid van de aanbieder op basis van een overeenkomst als bedoeld in [artikel 3, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011123&artikel=3&z=2013-01-01&g=2013-01-01). De vastlegging, bedoeld in het eerste lid, vindt op zodanige wijze plaats dat daarin geen gegevens worden opgenomen die herleidbaar zijn tot personen op wie een verzoek om informatie betrekking heeft.
+2. Onze Minister van Veiligheid en Justitie draagt er zorg voor dat het informatiepunt geen gegevens opslaat als bedoeld in [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011123&artikel=4&z=2016-12-28&g=2016-12-28), tenzij de gegevens worden opgeslagen onder verantwoordelijkheid van de aanbieder op basis van een overeenkomst als bedoeld in [artikel 3, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011123&artikel=3&z=2016-12-28&g=2016-12-28). De vastlegging, bedoeld in het eerste lid, vindt op zodanige wijze plaats dat daarin geen gegevens worden opgenomen die herleidbaar zijn tot personen op wie een verzoek om informatie betrekking heeft.
 
 ##### Artikel 8
 
@@ -168,7 +168,7 @@ Daarbij worden ten minste de volgende onderwerpen behandeld:
 
 ##### Artikel 9
 
-Met de in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011123&artikel=3&z=2013-01-01&g=2013-01-01), bedoelde technische voorzieningen worden gelijkgesteld technische voorzieningen die rechtmatig zijn geproduceerd of in de handel zijn gebracht in een andere lid-staat van de Europese Unie dan wel rechtmatig zijn geproduceerd in een staat die partij is bij de Overeenkomst betreffende de Europese Economische Ruimte, en die ten minste aan gelijkwaardige eisen voldoen.
+Met de in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011123&artikel=3&z=2016-12-28&g=2016-12-28), bedoelde technische voorzieningen worden gelijkgesteld technische voorzieningen die rechtmatig zijn geproduceerd of in de handel zijn gebracht in een andere lid-staat van de Europese Unie dan wel rechtmatig zijn geproduceerd in een staat die partij is bij de Overeenkomst betreffende de Europese Economische Ruimte, en die ten minste aan gelijkwaardige eisen voldoen.
 
 ##### Artikel 10
 
@@ -176,9 +176,9 @@ Wijzigt het Besluit aftappen openbare telecommunicatienetwerken en -diensten.
 
 ##### Artikel 11
 
-1. De [artikelen 2 tot en met 7](https://wetten.overheid.nl/jci1.3:c:BWBR0011123&artikel=2&z=2013-01-01&g=2013-01-01) zijn tot 1 september 2007 niet van toepassing op verzoeken om informatie gericht tot of verstrekkingen van informatie afkomstig van de aanbieder van een openbare telecommunicatiedienst die uitsluitend bestaat in de verlening van toegang tot Internet en de door middel van Internet te leveren of te verrichten diensten.
+1. De [artikelen 2 tot en met 7](https://wetten.overheid.nl/jci1.3:c:BWBR0011123&artikel=2&z=2016-12-28&g=2016-12-28) zijn tot 1 september 2007 niet van toepassing op verzoeken om informatie gericht tot of verstrekkingen van informatie afkomstig van de aanbieder van een openbare telecommunicatiedienst die uitsluitend bestaat in de verlening van toegang tot Internet en de door middel van Internet te leveren of te verrichten diensten.
 
-2. Onze Minister van Veiligheid en Justitie, een aanbieder als bedoeld in het eerste lid en iedere bevoegde autoriteit kunnen gezamenlijk beslissen bij de verzoeken en de verstrekkingen, bedoeld in het eerste lid, gebruik te maken van het informatiepunt en de en daarbij toepassing te geven aan de [artikelen 2 tot en met 7](https://wetten.overheid.nl/jci1.3:c:BWBR0011123&artikel=2&z=2013-01-01&g=2013-01-01).
+2. Onze Minister van Veiligheid en Justitie, een aanbieder als bedoeld in het eerste lid en iedere bevoegde autoriteit kunnen gezamenlijk beslissen bij de verzoeken en de verstrekkingen, bedoeld in het eerste lid, gebruik te maken van het informatiepunt en de en daarbij toepassing te geven aan de [artikelen 2 tot en met 7](https://wetten.overheid.nl/jci1.3:c:BWBR0011123&artikel=2&z=2016-12-28&g=2016-12-28).
 
 ##### Artikel 12
 
