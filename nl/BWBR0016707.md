@@ -4,7 +4,7 @@ identifier: "BWBR0016707"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2016-12-28"
-last_updated: "2004-05-19"
+last_updated: "2016-12-28"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0016707"
 soort: "ministeriele-regeling"
@@ -45,6 +45,8 @@ Gelet op:
 
 Besluit:
 
+Treedt in werking op het tijdstip waarop de Wet implementatie Europees regelgevingskader voor de elektronische communicatiesector 2002 in werking treedt.
+
 ##### Artikel 1
 
 In deze regeling wordt verstaan onder:
@@ -57,7 +59,7 @@ In deze regeling wordt verstaan onder:
 
 - d. CENELEC: Europees Comité voor elektrotechnische normalisatie;
 
-- e. televisietoestel: apparaat bestemd voor de ontvangst en de weergave van televisiesignalen;
+- e. televisietoestel: radioapparaat bestemd voor de ontvangst en de weergave van televisiesignalen;
 
 - f. decoder: apparaat bestemd voor het ontsleutelen van versleutelde analoge of digitale televisiesignalen.
 
@@ -71,11 +73,11 @@ De aanbieder van een openbaar elektronisch communicatienetwerk bestemd voor het 
 
 ##### Artikel 4
 
-Een analoog televisietoestel met een integraal beeldscherm waarvan de zichtbare diagonaal groter is dan 42 centimeter, dat te koop of te huur wordt aangeboden, is voorzien van tenminste één door ETSI of CENELEC genormaliseerde aansluitbus met open interface geschikt voor de aansluiting van decoders, digitale ontvangers of andere daarvoor bestemde apparaten.
+Een analoog televisietoestel met een integraal beeldscherm waarvan de zichtbare diagonaal groter is dan 42 centimeter, dat te koop of te huur wordt aangeboden, is voorzien van tenminste één door ETSI of CENELEC genormaliseerde aansluitbus met open interface geschikt voor de aansluiting van decoders, digitale ontvangers of andere daarvoor bestemde apparaten of radioapparaten.
 
 ##### Artikel 5
 
-Een digitaal televisietoestel met een integraal beeldscherm waarvan de zichtbare diagonaal groter is dan 30 cm, dat te koop of te huur wordt aangeboden, is voorzien van tenminste één door de ETSI of CENELEC, dan wel op basis van een door de industrie algemeen aanvaarde specificatie, genormaliseerde aansluitbus met open interface geschikt voor de aansluiting van daarvoor bestemde apparaten en die alle elementen van een digitaal televisiesignaal doorlaat, met inbegrip van informatie betreffende interactieve en voorwaardelijk toegankelijke diensten.
+Een digitaal televisietoestel met een integraal beeldscherm waarvan de zichtbare diagonaal groter is dan 30 cm, dat te koop of te huur wordt aangeboden, is voorzien van tenminste één door de ETSI of CENELEC, dan wel op basis van een door de industrie algemeen aanvaarde specificatie, genormaliseerde aansluitbus met open interface geschikt voor de aansluiting van daarvoor bestemde apparaten of radioapparaten en die alle elementen van een digitaal televisiesignaal doorlaat, met inbegrip van informatie betreffende interactieve en voorwaardelijk toegankelijke diensten.
 
 ##### Artikel 6
 
