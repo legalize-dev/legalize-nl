@@ -4,7 +4,7 @@ identifier: "BWBR0004092"
 country: "nl"
 rank: "amvb"
 publication_date: "2016-12-28"
-last_updated: "2015-07-01"
+last_updated: "2016-12-28"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0004092"
 soort: "AMvB"
@@ -60,7 +60,7 @@ Hebben goedgevonden en verstaan:
 
 ##### Artikel 2
 
-Voor de toepassing van [artikel 8a, eerste lid, van de Toeslagenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0004043&artikel=8a) wordt met de loondervingsuitkering gelijkgesteld een aanvulling op de loondervingsuitkering op grond waarvan aanspraak op toeslag wordt gemaakt
+Voor de toepassing van [artikel 8a, eerste lid, van de Toeslagenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0004043&artikel=8a) wordt met de loondervingsuitkering gelijkgesteld een aanvulling op de loondervingsuitkering op grond waarvan aanspraak op toeslag wordt gemaakt.
 
 ##### Artikel 3
 
@@ -68,7 +68,7 @@ Voor de toepassing van [artikel 8a, eerste lid, van de Toeslagenwet](https://wet
 
 - a. recht heeft op een uitkering op grond van de [Werkloosheidswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004045);
 
-- b. recht heeft op een uitkering op grond van de [Ziektewet](https://wetten.overheid.nl/jci1.3:c:BWBR0001888) met toepassing van [artikel 30](https://wetten.overheid.nl/jci1.3:c:BWBR0001888&artikel=30) of [31 van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0001888&artikel=31); of
+- b. recht heeft op een uitkering op grond van de [Ziektewet](https://wetten.overheid.nl/jci1.3:c:BWBR0001888); of
 
 - c. recht heeft op een uitkering in verband met arbeidsongeschiktheid gebaseerd op een mate van arbeidsongeschiktheid van minder dan 80%.
 
@@ -76,7 +76,7 @@ Voor de toepassing van [artikel 8a, eerste lid, van de Toeslagenwet](https://wet
 
 ##### Artikel 4
 
-Voor de toepassing van [artikel 8a, eerste lid, van de Toeslagenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0004043&artikel=8a) wordt voor de persoon die loon of bezoldiging ontvangt op grond van [artikel 629, eerste lid, van Boek 7 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=629) of [artikel 76a, eerste lid, van de Ziektewet](https://wetten.overheid.nl/jci1.3:c:BWBR0001888&artikel=76a), dat loon of die bezoldiging gelijkgesteld met de op het dagloon of de grondslag in mindering te brengen loondervingsuitkering
+Voor de toepassing van [artikel 8a, eerste lid, van de Toeslagenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0004043&artikel=8a) wordt voor de persoon die loon of bezoldiging ontvangt op grond van [artikel 629, eerste lid, van Boek 7 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=629) of [artikel 76a, eerste lid, van de Ziektewet](https://wetten.overheid.nl/jci1.3:c:BWBR0001888&artikel=76a), dat loon of die bezoldiging gelijkgesteld met de op het dagloon of de grondslag in mindering te brengen loondervingsuitkering.
 
 ##### Artikel 5
 
@@ -272,6 +272,6 @@ Lasten en bevelen dat dit besluit met daarbij behorende nota van toelichting in 
 
 ##### Artikel 4a
 
-[Artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0004092&artikel=3&z=2015-07-01&g=2015-07-01), zoals dat luidde voor de inwerkingtreding van het besluit van 18 juni 2015, houdende wijziging van enige algemene maatregelen van bestuur in verband met de Wet werk en zekerheid, het invoeren van een ontheffing in verband met de zorg voor een pasgeboren kind bij overlijden van de moeder, een wijziging van het Remigratiebesluit in verband met de berekenwijze van de jaarlijkse indexatie van de remigratie-uitkeringen, het vrijlaten van de afkoopsom klein pensioen voor verschillende uitkeringen in het Algemeen inkomensbesluit socialezekerheidswetten alsmede enige technische wijzigingen in enkele besluiten (Stb. 242), blijft van toepassing als de loondervingsuitkering een uitkering op grond van de [Werkloosheidswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004045) betreft en het recht op die uitkering is ontstaan voor 1 juli 2015.
+[Artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0004092&artikel=3&z=2016-12-28&g=2016-12-28), zoals dat luidde voor de inwerkingtreding van het besluit van 18 juni 2015, houdende wijziging van enige algemene maatregelen van bestuur in verband met de Wet werk en zekerheid, het invoeren van een ontheffing in verband met de zorg voor een pasgeboren kind bij overlijden van de moeder, een wijziging van het Remigratiebesluit in verband met de berekenwijze van de jaarlijkse indexatie van de remigratie-uitkeringen, het vrijlaten van de afkoopsom klein pensioen voor verschillende uitkeringen in het Algemeen inkomensbesluit socialezekerheidswetten alsmede enige technische wijzigingen in enkele besluiten (Stb. 242), blijft van toepassing als de loondervingsuitkering een uitkering op grond van de [Werkloosheidswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004045) betreft en het recht op die uitkering is ontstaan voor 1 juli 2015.
 
 Lasten en bevelen dat dit besluit met daarbij behorende nota van toelichting in het **Staatsblad** zal worden geplaatst en dat daarvan afschrift zal worden gezonden aan de Raad van State en aan de Algemene Rekenkamer.
