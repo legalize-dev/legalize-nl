@@ -4,7 +4,7 @@ identifier: "BWBR0036378"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-07-01"
-last_updated: "2015-03-05"
+last_updated: "2016-12-28"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0036378"
 soort: "ministeriele-regeling"
@@ -48,15 +48,15 @@ In deze regeling wordt verstaan onder:
 
 - b. **ALD (Assistive Listening Devices):** radiocommunicatiesystemen waarmee slechthorenden hun gehoorvermogen kunnen verbeteren;
 
-- c. **apparatuur voor modelbesturing:** radiozendapparatuur voor afstandsbesturing en telemetrie die gebruikt wordt om de beweging van modellen te besturen in de lucht, op het land of in het water;
+- c. **apparatuur voor modelbesturing:** radioapparatuur voor afstandsbesturing en telemetrie die gebruikt wordt om de beweging van modellen te besturen in de lucht, op het land of in het water;
 
-- d. **apparatuur voor radiodeterminatie:** radiozendapparatuur die wordt gebruikt om de positie, snelheid of andere kenmerken van een object vast te stellen of om informatie te verkrijgen over deze parameters;
+- d. **apparatuur voor radiodeterminatie:** radioapparatuur die wordt gebruikt om de positie, snelheid of andere kenmerken van een object vast te stellen of om informatie te verkrijgen over deze parameters;
 
 - e. **besluit:** [Frequentiebesluit 2013](https://wetten.overheid.nl/jci1.3:c:BWBR0032895);
 
-- f. **bodemradar (Ground Prenetrating Radar):** apparaat voor de opsporing of het verkrijgen van beelden van objecten onder de grond of het bepalen van de fysische eigenschappen van de grond;
+- f. **bodemradar (Ground Prenetrating Radar):** radioapparaat voor de opsporing of het verkrijgen van beelden van objecten onder de grond of het bepalen van de fysische eigenschappen van de grond;
 
-- g. **breedbanddatatransmissieapparatuur:** radiozendapparatuur die die gebruik maakt van breedbandmodulatietechnieken om toegang te krijgen tot spectrum;
+- g. **breedbanddatatransmissieapparatuur:** radioapparatuur die die gebruik maakt van breedbandmodulatietechnieken om toegang te krijgen tot spectrum;
 
 - h. **frequentiegebruik met een primaire status:** gebruik van frequentieruimte voor de uitoefening van een radiodienst die ingevolge het frequentieplan een primaire status heeft;
 
@@ -66,19 +66,19 @@ In deze regeling wordt verstaan onder:
 
 - k. **frequentieplan:** plan als bedoeld in [artikel 3.1 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&artikel=3.1);
 
-- l. **inductieve apparatuur:** radiozendapparatuur die gebruik maakt van magnetische velden met systemen met een inductieve lus voor nabije veld communicatie;
+- l. **inductieve apparatuur:** radioapparatuur die gebruik maakt van magnetische velden met systemen met een inductieve lus voor nabije veld communicatie;
 
 - m. **klasse van uitzending:** klasse van uitzending als bedoeld in bijlage 1 van deel 2 van het Radioreglement;
 
-- n. **meetapparatuur:** radiozendapparatuur die deel uitmaakt van bidirectionele radiocommunicatiesystemen waarmee monitoring op afstand, meting en datatransmissie in intelligente netinfrastructuren wordt verricht;
+- n. **meetapparatuur:** radioapparatuur die deel uitmaakt van bidirectionele radiocommunicatiesystemen waarmee monitoring op afstand, meting en datatransmissie in intelligente netinfrastructuren wordt verricht;
 
 - o. **muur:** betonnen structuur of een andere fysieke structuur die massief en dik genoeg is om het grootste deel van het signaal dat door de muur indringende radar wordt uitgezonden te absorberen;
 
-- p. **muur indringende radar (Wall Prenetrating Radar):** apparaat voor het opsporen van de locatie van objecten binnen een muur of om de fysieke eigenschappen te bepalen binnen de muur;
+- p. **muur indringende radar (Wall Prenetrating Radar):** radioapparaat voor het opsporen van de locatie van objecten binnen een muur of om de fysieke eigenschappen te bepalen binnen de muur;
 
-- q. **niet-specifieke korteafstandsapparatuur:** elke soort radiozendapparatuur ongeacht de toepassing of het doel, die aan de voor een bepaalde frequentie vastgestelde technische voorwaarden voldoet;
+- q. **niet-specifieke korteafstandsapparatuur:** elke soort radioapparatuur ongeacht de toepassing of het doel, die aan de voor een bepaalde frequentie vastgestelde technische voorwaarden voldoet;
 
-- r. **PMSE (Programme Making and Special Events) audioapparatuur:** radiozendapparatuur die wordt gebruikt voor de transmissie van analoge of digitale audiosignalen tussen een beperkt aantal zenders en ontvangers en die voornamelijk wordt toegepast voor de productie van uitzendingen dan wel particuliere of openbare sociale of culturele evenementen;
+- r. **PMSE (Programme Making and Special Events) audioapparatuur:** radioapparatuur die wordt gebruikt voor de transmissie van analoge of digitale audiosignalen tussen een beperkt aantal zenders en ontvangers en die voornamelijk wordt toegepast voor de productie van uitzendingen dan wel particuliere of openbare sociale of culturele evenementen;
 
 - s. **RTE (Radar Target Enhancer):** actieve radarreflector die van andere schepen ontvangen radarsignalen versterkt en terugzendt;
 
@@ -86,59 +86,59 @@ In deze regeling wordt verstaan onder:
 
 - u. **Radioreglement:** Radioreglement 1979 met bijlagen, behorende bij de op 22 december 1989 te Nice tot stand gekomen Internationale Constitutie en Conventie van de Internationale Telecommunicatie Unie (Trb. 2013, 1);
 
-- v. **radiostation:** een of meer radiozendapparaten met de daartoe behorende antenne-inrichtingen, noodzakelijk voor het op een locatie uitvoeren van een radiocommunicatiedienst als bedoeld in artikel 1.19 van het Radioreglement;
+- v. **radiostation:** een of meer radioapparaten met de daartoe behorende antenne-inrichtingen, noodzakelijk voor het op een locatie uitvoeren van een radiocommunicatiedienst als bedoeld in artikel 1.19 van het Radioreglement;
 
-- w. **RFID-apparaten** :radiocommunicatiesystemen, bestaande uit radiozendapparatuur bevestigd aan levende wezens of levenloze objecten en zender- of ontvangereenheden die de radiozendapparatuur activeren en de gegevens weer ontvangen;
+- w. **RFID-apparaten** :radiocommunicatiesystemen, bestaande uit radioapparatuur bevestigd aan levende wezens of levenloze objecten en zender- of ontvangereenheden die de radioapparatuur activeren en de gegevens weer ontvangen;
 
-- x. **SART (Search and Rescue Transponders):** apparaat waarmee in geval van nood door de transponder een signaal wordt teruggezonden;
+- x. **SART (Search and Rescue Transponders):** radioapparaat waarmee in geval van nood door de transponder een signaal wordt teruggezonden;
 
 - y. **sociale alarmsystemen:** radiocommunicatiesystemen waarmee een persoon in nood met behulp van een eenvoudige beweging een verzoek om hulp kan uitzenden;
 
-- z. **telematica-apparatuur voor vervoer en verkeer:** radiozendapparatuur die wordt gebruikt op het gebied van vervoer, verkeersbeheer, navigatie, mobiliteitsbeheer en in intelligente vervoerssystemen.
+- z. **telematica-apparatuur voor vervoer en verkeer:** radioapparatuur die wordt gebruikt op het gebied van vervoer, verkeersbeheer, navigatie, mobiliteitsbeheer en in intelligente vervoerssystemen.
 
 ##### Artikel 2
 
-1. Geen vergunning is vereist voor gebruik van frequentieruimte als bedoeld in [artikel 2 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0032895&artikel=2) indien daarbij gebruik wordt gemaakt van de in het tweede lid aangewezen categorieën van radiozendapparaten.
+1. Geen vergunning is vereist voor gebruik van frequentieruimte als bedoeld in [artikel 2 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0032895&artikel=2) indien daarbij gebruik wordt gemaakt van de in het tweede lid aangewezen categorieën van radioapparaten.
 
-2. Als categorieën radiozendapparaten worden aangewezen:
+2. Als categorieën radioapparaten worden aangewezen:
 
-- a. apparaten, niet zijnde apparaten als bedoeld in bijlage 9, die bestemd zijn voor aansluiting op een mobiel openbaar telecommunicatienetwerk, indien voor het gebruik van de door het netwerk gebruikte frequentieruimte een vergunning is verleend;
+- a. radioapparaten, niet zijnde radioapparaten als bedoeld in bijlage 9, die bestemd zijn voor aansluiting op een mobiel openbaar telecommunicatienetwerk, indien voor het gebruik van de door het netwerk gebruikte frequentieruimte een vergunning is verleend;
 
-- b. randapparaten die bestemd zijn voor aansluiting op een openbaar satellietsysteem, ten behoeve van mobiele communicatie, met uitzondering van maritiem mobiele communicatie en het nood-, spoed en veiligheidsverkeer;
+- b. eindapparaten die bestemd zijn voor aansluiting op een openbaar satellietsysteem, ten behoeve van mobiele communicatie, met uitzondering van maritiem mobiele communicatie en het nood-, spoed en veiligheidsverkeer;
 
 - c. koordloze telefoons die bestemd zijn voor aansluiting op een openbaar telefoonnetwerk op een vaste locatie, mits de in bijlage 1 aangegeven frequentiebanden en de daarbij behorende gebruiksvoorschriften in acht worden genomen;
 
-- d. radiozendapparaten die onderdeel uitmaken van een mobiel elektronisch communicatienetwerk, mits gebruikt overeenkomstig het bepaalde in bijlage 2 en radiozendapparaten die bestemd zijn voor aansluiting op dat netwerk, mits die gebruik maken van de frequentieband van 1780 tot en met 1785 MHz;
+- d. radioapparaten die onderdeel uitmaken van een mobiel elektronisch communicatienetwerk, mits gebruikt overeenkomstig het bepaalde in bijlage 2 en radioapparaten die bestemd zijn voor aansluiting op dat netwerk, mits die gebruik maken van de frequentieband van 1780 tot en met 1785 MHz;
 
-- e. radiozendapparaten in de 27 MHz-frequentieband (CB), mits gebruikt in de in bijlage 3 aangegeven frequentiebanden en met inachtneming van de daarbij behorende gebruiksvoorschriften;
+- e. radioapparaten in de 27 MHz-frequentieband (CB), mits gebruikt in de in bijlage 3 aangegeven frequentiebanden en met inachtneming van de daarbij behorende gebruiksvoorschriften;
 
-- f. randapparaten die bestemd zijn voor aansluiting op een openbaar telecommunicatienetwerk ten behoeve van plaatsbepaling;
+- f. eindapparaten die bestemd zijn voor aansluiting op een openbaar telecommunicatienetwerk ten behoeve van plaatsbepaling;
 
-- g. mobiele VHF/UHF radiozendapparaten voor landmobiel gebruik die daadwerkelijk en krachtens een daartoe gesloten overeenkomst onderdeel zijn van een besloten netwerk dat deel is van een radionetwerk met dynamische frequentietoewijzing ten behoeve waarvan een vergunning is verleend voor het gebruik van frequentieruimte;
+- g. mobiele VHF/UHF radioapparaten voor landmobiel gebruik die daadwerkelijk en krachtens een daartoe gesloten overeenkomst onderdeel zijn van een besloten netwerk dat deel is van een radionetwerk met dynamische frequentietoewijzing ten behoeve waarvan een vergunning is verleend voor het gebruik van frequentieruimte;
 
-- h. mobiele UHF radiozendapparaten die werken in de frequentieband 446 MHz en bedoeld zijn voor algemeen gebruik ten behoeve van communicatie over korte afstand (PMR 446), mits gebruikt in de in bijlage 4 aangegeven frequentiebanden en met inachtneming van de daarbij behorende gebruiksvoorschriften;
+- h. mobiele UHF radioapparaten die werken in de frequentieband 446 MHz en bedoeld zijn voor algemeen gebruik ten behoeve van communicatie over korte afstand (PMR 446), mits gebruikt in de in bijlage 4 aangegeven frequentiebanden en met inachtneming van de daarbij behorende gebruiksvoorschriften;
 
-- i. randapparaten die een satellietgrondstation zijn, mits gebruikt in de in bijlage 5 aangegeven frequentiebanden en met inachtneming van de daarbij behorende gebruiksvoorschriften;
+- i. eindapparaten die een satellietgrondstation zijn, mits gebruikt in de in bijlage 5 aangegeven frequentiebanden en met inachtneming van de daarbij behorende gebruiksvoorschriften;
 
-- j. radiozendapparaten die onderdeel uitmaken van, dan wel bestemd zijn voor aansluiting op, een mobiel elektronisch communicatienetwerk (basisstation) aan boord van vliegtuigen, mits de in bijlage 6 aangegeven frequentiebanden worden gebruikt boven een vlieghoogte van 3.000 meter;
+- j. radioapparaten die onderdeel uitmaken van, dan wel bestemd zijn voor aansluiting op, een mobiel elektronisch communicatienetwerk (basisstation) aan boord van vliegtuigen, mits de in bijlage 6 aangegeven frequentiebanden worden gebruikt boven een vlieghoogte van 3.000 meter;
 
-- k. radiozendapparaten die onderdeel uitmaken van, dan wel bestemd zijn voor aansluiting op, een mobiel elektronisch communicatienetwerk (basisstation) aan boord van schepen, mits de in bijlage 7 aangegeven frequentiebanden worden gebruikt met inachtneming van de daarbij behorende gebruiksvoorschriften;
+- k. radioapparaten die onderdeel uitmaken van, dan wel bestemd zijn voor aansluiting op, een mobiel elektronisch communicatienetwerk (basisstation) aan boord van schepen, mits de in bijlage 7 aangegeven frequentiebanden worden gebruikt met inachtneming van de daarbij behorende gebruiksvoorschriften;
 
-- l. radiozendapparaten die bestemd zijn voor vaste verbindingen, mits de in bijlage 8 aangegeven frequentieband en de daarbij behorende gebruiksvoorschriften in acht worden genomen;
+- l. radioapparaten die bestemd zijn voor vaste verbindingen, mits de in bijlage 8 aangegeven frequentieband en de daarbij behorende gebruiksvoorschriften in acht worden genomen;
 
-- m. radiozendapparaten bestemd voor aansluiting op een elektronisch communicatienetwerk dat gebruik maakt van frequentieruimte in de band 2500 – 2690 MHz, indien voor het gebruik van de door dat netwerk gebruikte frequentieruimte een vergunning is verleend, mits de in bijlage 9 aangegeven frequentieband en de daarbij behorende gebruiksvoorschriften in acht worden genomen;
+- m. radioapparaten bestemd voor aansluiting op een elektronisch communicatienetwerk dat gebruik maakt van frequentieruimte in de band 2500 – 2690 MHz, indien voor het gebruik van de door dat netwerk gebruikte frequentieruimte een vergunning is verleend, mits de in bijlage 9 aangegeven frequentieband en de daarbij behorende gebruiksvoorschriften in acht worden genomen;
 
-- n. radiozendapparaten voor maritiem mobiele radar, SART en RTE, mits de in bijlage 10 aangegeven frequentiebanden worden gebruikt met inachtneming van de daarbij behorende gebruiksvoorschriften;
+- n. radioapparaten voor maritiem mobiele radar, SART en RTE, mits de in bijlage 10 aangegeven frequentiebanden worden gebruikt met inachtneming van de daarbij behorende gebruiksvoorschriften;
 
 - o. de in bijlage 11 opgenomen korteafstandapparatuur, mits gebruikt in de in die bijlage aangegeven frequentiebanden en met inachtneming van de daarbij behorende gebruiksvoorschriften;
 
-- p. radiozendapparaten die gebruik maken van ultrawidebandtechnologie, mits de in bijlage 12 aangegeven frequentiebanden en de daarbij behorende gebruiksvoorschriften in acht worden genomen;
+- p. radioapparaten die gebruik maken van ultrawidebandtechnologie, mits de in bijlage 12 aangegeven frequentiebanden en de daarbij behorende gebruiksvoorschriften in acht worden genomen;
 
-- q. radiozendapparaten, niet zijnde basisstations, die onderdeel uitmaken van, dan wel bestemd zijn voor aansluiting op, een mobiel elektronisch communicatienetwerk ten behoeve van spoorweg gerelateerde interne bedrijfstoepassingen (GSM-R);
+- q. radioapparaten, niet zijnde basisstations, die onderdeel uitmaken van, dan wel bestemd zijn voor aansluiting op, een mobiel elektronisch communicatienetwerk ten behoeve van spoorweg gerelateerde interne bedrijfstoepassingen (GSM-R);
 
 - r. hoog frequent installaties die zich in tunnels bevinden.
 
-3. De aanwijzing, bedoeld in het eerste lid, heeft slechts betrekking op apparaten die voldoen aan het bij of krachtens het [Besluit randapparaten en radioapparaten 2007](https://wetten.overheid.nl/jci1.3:c:BWBR0021037) bepaalde.
+3. De aanwijzing, bedoeld in het eerste lid, heeft slechts betrekking op radioapparaten die voldoen aan het bij of krachtens het [Besluit radioapparaten 2016](onbekend) bepaalde.
 
 ##### Artikel 3
 
@@ -148,11 +148,11 @@ Bij gebruik van frequentieruimte wordt voldaan aan de volgende voorschriften:
 
 - b. bij frequentiegebruik met een NIB-status wordt te allen tijde voorrang verleend aan frequentiegebruik met een primaire status of met een secundaire status;
 
-- c. er worden geen ontoelaatbare storingen of belemmeringen veroorzaakt in andere uitrusting en in het frequentiegebruik door anderen.
+- c. er worden geen ontoelaatbare storingen of belemmeringen veroorzaakt in andere uitrusting of radioapparaten en in het frequentiegebruik door anderen.
 
 ##### Artikel 4
 
-De [Regeling gebruik van frequentieruimte zonder vergunning 2008](https://wetten.overheid.nl/jci1.3:c:BWBR0023553&wetgeving) wordt ingetrokken.
+De [Regeling gebruik van frequentieruimte zonder vergunning 2008](https://wetten.overheid.nl/jci1.3:c:BWBR0023553) wordt ingetrokken.
 
 ##### Artikel 5
 
@@ -164,103 +164,103 @@ Deze regeling wordt aangehaald als: Regeling gebruik van frequentieruimte zonder
 
 ## Bijlagen
 
-### Bijlage 1, behorend bij [artikel 2, tweede lid, onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0036378&artikel=2&z=2015-03-05&g=2015-03-05)
+### Bijlage 1, behorend bij [artikel 2, tweede lid, onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0036378&artikel=2&z=2016-12-28&g=2016-12-28)
 
 (Zie voor een goed begrip van de tabellen het aanhangsel bij de bijlagen 1 tot en met 12)
 
-### Subcategorie 1. : Radiozendapparaten bestemd voor koordloze telefonie
+### Subcategorie 1. : radioapparaten bestemd voor koordloze telefonie
 
-### Subcategorie 2. : Radiozendapparaten bestemd voor DECT
+### Subcategorie 2. : radioapparaten bestemd voor DECT
 
-### Bijlage 2: behorend bij [artikel 2, tweede lid, onder d](https://wetten.overheid.nl/jci1.3:c:BWBR0036378&artikel=2&z=2015-03-05&g=2015-03-05)
+### Bijlage 2: behorend bij [artikel 2, tweede lid, onder d](https://wetten.overheid.nl/jci1.3:c:BWBR0036378&artikel=2&z=2016-12-28&g=2016-12-28)
 
 ### Mobiel elektronisch communicatienetwerk met laag vermogen
 
 (Zie voor een goed begrip van de tabellen het aanhangsel bij de bijlagen 1 tot en met 12)
 
-### Bijlage 3. Behorend bij [artikel 2, tweede lid, onder e](https://wetten.overheid.nl/jci1.3:c:BWBR0036378&artikel=2&z=2015-03-05&g=2015-03-05)
+### Bijlage 3. Behorend bij [artikel 2, tweede lid, onder e](https://wetten.overheid.nl/jci1.3:c:BWBR0036378&artikel=2&z=2016-12-28&g=2016-12-28)
 
-### Radiozendapparaten bestemd voor CB
-
-(Zie voor een goed begrip van de tabellen het aanhangsel bij de bijlagen 1 tot en met 12)
-
-### Bijlage 4, behorend bij [artikel 2, tweede lid, onder h](https://wetten.overheid.nl/jci1.3:c:BWBR0036378&artikel=2&z=2015-03-05&g=2015-03-05)
-
-### Radiozendapparaten bestemd voor PMR446
+### radioapparaten bestemd voor CB
 
 (Zie voor een goed begrip van de tabellen het aanhangsel bij de bijlagen 1 tot en met 12)
 
-### Bijlage 5, behorend bij [artikel 2, tweede lid, onder i](https://wetten.overheid.nl/jci1.3:c:BWBR0036378&artikel=2&z=2015-03-05&g=2015-03-05)
+### Bijlage 4, behorend bij [artikel 2, tweede lid, onder h](https://wetten.overheid.nl/jci1.3:c:BWBR0036378&artikel=2&z=2016-12-28&g=2016-12-28)
 
-### Radiozendapparaten bestemd voor satellietgrondstations, zijnde LEST, HEST of VSAT
-
-(Zie voor een goed begrip van de tabellen het aanhangsel bij de bijlagen 1 tot en met 12)
-
-### Bijlage 6. Behorend bij [artikel 2, tweede lid, onder j](https://wetten.overheid.nl/jci1.3:c:BWBR0036378&artikel=2&z=2015-03-05&g=2015-03-05)
-
-### Radiozendapparaten bestemd voor een mobiel elektronisch communicatienetwerk aan boord van luchtvaartuigen (basisstations)
+### radioapparaten bestemd voor PMR446
 
 (Zie voor een goed begrip van de tabellen het aanhangsel bij de bijlagen 1 tot en met 12)
 
-### Bijlage 7, behorend bij [artikel 2, tweede lid, onder k](https://wetten.overheid.nl/jci1.3:c:BWBR0036378&artikel=2&z=2015-03-05&g=2015-03-05)
+### Bijlage 5, behorend bij [artikel 2, tweede lid, onder i](https://wetten.overheid.nl/jci1.3:c:BWBR0036378&artikel=2&z=2016-12-28&g=2016-12-28)
 
-### Radiozendapparaten die onderdeel uitmaken van, dan wel bestemd zijn voor aansluiting op, een mobiel elektronisch communicatienetwerk (basisstation) aan boord van schepen
-
-(Zie voor een goed begrip van de tabellen het aanhangsel bij de bijlagen 1 tot en met 12)
-
-### Bijlage 8, behorend bij [artikel 2, tweede lid, onder l](https://wetten.overheid.nl/jci1.3:c:BWBR0036378&artikel=2&z=2015-03-05&g=2015-03-05)
-
-### Radiozendapparaten bestemd voor vaste verbindingen over korte afstand
+### radioapparaten bestemd voor satellietgrondstations, zijnde LEST, HEST of VSAT
 
 (Zie voor een goed begrip van de tabellen het aanhangsel bij de bijlagen 1 tot en met 12)
 
-### Bijlage 9, behorend bij [artikel 2, tweede lid, onder m](https://wetten.overheid.nl/jci1.3:c:BWBR0036378&artikel=2&z=2015-03-05&g=2015-03-05)
+### Bijlage 6. Behorend bij [artikel 2, tweede lid, onder j](https://wetten.overheid.nl/jci1.3:c:BWBR0036378&artikel=2&z=2016-12-28&g=2016-12-28)
 
-### Radiozendapparaten bestemd voor aansluiting op een elektronisch communicatienetwerk dat gebruik maakt van frequentieruimte in de band 2500 – 2690 MHz, voor zover voor het gebruik van de door dat netwerk gebruikte frequentieruimte een vergunning is verleend
-
-(Zie voor een goed begrip van de tabellen het aanhangsel bij de bijlagen 1 tot en met 12)
-
-### Bijlage 10, behorend bij [artikel 2, tweede lid, onder n](https://wetten.overheid.nl/jci1.3:c:BWBR0036378&artikel=2&z=2015-03-05&g=2015-03-05)
-
-### Radiozendapparaten bestemd voor Maritiem mobiel gebruik
+### radioapparaten bestemd voor een mobiel elektronisch communicatienetwerk aan boord van luchtvaartuigen (basisstations)
 
 (Zie voor een goed begrip van de tabellen het aanhangsel bij de bijlagen 1 tot en met 12)
 
-### Bijlage 11, behorend bij [artikel 2, tweede lid, onder o](https://wetten.overheid.nl/jci1.3:c:BWBR0036378&artikel=2&z=2015-03-05&g=2015-03-05)
+### Bijlage 7, behorend bij [artikel 2, tweede lid, onder k](https://wetten.overheid.nl/jci1.3:c:BWBR0036378&artikel=2&z=2016-12-28&g=2016-12-28)
+
+### radioapparaten die onderdeel uitmaken van, dan wel bestemd zijn voor aansluiting op, een mobiel elektronisch communicatienetwerk (basisstation) aan boord van schepen
+
+(Zie voor een goed begrip van de tabellen het aanhangsel bij de bijlagen 1 tot en met 12)
+
+### Bijlage 8, behorend bij [artikel 2, tweede lid, onder l](https://wetten.overheid.nl/jci1.3:c:BWBR0036378&artikel=2&z=2016-12-28&g=2016-12-28)
+
+### radioapparaten bestemd voor vaste verbindingen over korte afstand
+
+(Zie voor een goed begrip van de tabellen het aanhangsel bij de bijlagen 1 tot en met 12)
+
+### Bijlage 9, behorend bij [artikel 2, tweede lid, onder m](https://wetten.overheid.nl/jci1.3:c:BWBR0036378&artikel=2&z=2016-12-28&g=2016-12-28)
+
+### radioapparaten bestemd voor aansluiting op een elektronisch communicatienetwerk dat gebruik maakt van frequentieruimte in de band 2500 – 2690 MHz, voor zover voor het gebruik van de door dat netwerk gebruikte frequentieruimte een vergunning is verleend
+
+(Zie voor een goed begrip van de tabellen het aanhangsel bij de bijlagen 1 tot en met 12)
+
+### Bijlage 10, behorend bij [artikel 2, tweede lid, onder n](https://wetten.overheid.nl/jci1.3:c:BWBR0036378&artikel=2&z=2016-12-28&g=2016-12-28)
+
+### radioapparaten bestemd voor Maritiem mobiel gebruik
+
+(Zie voor een goed begrip van de tabellen het aanhangsel bij de bijlagen 1 tot en met 12)
+
+### Bijlage 11, behorend bij [artikel 2, tweede lid, onder o](https://wetten.overheid.nl/jci1.3:c:BWBR0036378&artikel=2&z=2016-12-28&g=2016-12-28)
 
 ### Korteafstandapparatuur
 
 (Zie voor een goed begrip van de tabellen het aanhangsel bij de bijlagen 1 tot en met 12)
 
-### Subcategorie 1. : Radiozendapparaten bestemd voor telemetrie, telecommand, alarmering, data in het algemeen en andere soortgelijke toepassingen (Non specific SRD)
+### Subcategorie 1. : radioapparaten bestemd voor telemetrie, telecommand, alarmering, data in het algemeen en andere soortgelijke toepassingen (Non specific SRD)
 
-### Subcategorie 2. : Radiozendapparaten bestemd voor breedbanddata transmissieapparatuur
+### Subcategorie 2. : radioapparaten bestemd voor breedbanddata transmissieapparatuur
 
-### Subcategorie 3. : Radiozendapparaten bestemd voor telematica-apparatuur voor vervoer en verkeer
+### Subcategorie 3. : radioapparaten bestemd voor telematica-apparatuur voor vervoer en verkeer
 
-### Subcategorie 4. : Radiozendapparaten bestemd voor radiodeterminatie en signalering
+### Subcategorie 4. : radioapparaten bestemd voor radiodeterminatie en signalering
 
 ### Subcategorie 5. : Radiozendapparten bestemd voor alarmering
 
-### Subcategorie 6. : Radiozendapparaten bestemd voor Sociale alarmering
+### Subcategorie 6. : radioapparaten bestemd voor Sociale alarmering
 
-### Subcategorie 7. : Radiozendapparaten bestemd voor actieve medische implantaten en bijbehorende perifere apparatuur
+### Subcategorie 7. : radioapparaten bestemd voor actieve medische implantaten en bijbehorende perifere apparatuur
 
-### Subcategorie 8. : Radiozendapparaten bestemd voor laagvermogen draadloze audioverbindingen
+### Subcategorie 8. : radioapparaten bestemd voor laagvermogen draadloze audioverbindingen
 
-### Subcategorie 9. : Radiozendapparaten bestemd voor hulpmiddelen voor slechthorenden
+### Subcategorie 9. : radioapparaten bestemd voor hulpmiddelen voor slechthorenden
 
-### Subcategorie 10. : Radiozendapparaten bestemd voor oproepsystemen
+### Subcategorie 10. : radioapparaten bestemd voor oproepsystemen
 
-### Subcategorie 11. : Radiozendapparaten bestemd voor modelbesturing
+### Subcategorie 11. : radioapparaten bestemd voor modelbesturing
 
-### Subcategorie 12. : Radiozendapparaten bestemd voor inductieve apparatuur
+### Subcategorie 12. : radioapparaten bestemd voor inductieve apparatuur
 
-### Subcategorie 13. : Radiozendapparaten bestemd voor identificatie toepassingen (RFID)
+### Subcategorie 13. : radioapparaten bestemd voor identificatie toepassingen (RFID)
 
-### Subcategorie 14. : Radiozendapparaten bestemd voor meteruitlezing
+### Subcategorie 14. : radioapparaten bestemd voor meteruitlezing
 
-### Bijlage 12, behorend bij [artikel 2, tweede lid, onder p](https://wetten.overheid.nl/jci1.3:c:BWBR0036378&artikel=2&z=2015-03-05&g=2015-03-05)
+### Bijlage 12, behorend bij [artikel 2, tweede lid, onder p](https://wetten.overheid.nl/jci1.3:c:BWBR0036378&artikel=2&z=2016-12-28&g=2016-12-28)
 
 (Zie voor een goed begrip van de tabellen het aanhangsel bij de bijlagen 1 tot en met 12)
 
@@ -270,25 +270,101 @@ Deze regeling wordt aangehaald als: Regeling gebruik van frequentieruimte zonder
 
 ### Subcategorie 3. In voertuigen en spoorwegvoertuigen geïnstalleerde UWB-apparatuur
 
+### Subcategorie 2. Locatiebepalingssystemen type 1 (LT1)
+
+(1) De ‘detect and avoid’-mitigatietechniek (DAA) en de bijbehorende grenswaarden zijn vastgelegd in ETSI-norm EN 302 065-2
+
+### Subcategorie 3. In voertuigen en spoorwegvoertuigen geïnstalleerde UWB-apparatuur
+
+### 5.1. Materiaaldetectieapparatuur
+
+(2) De ‘detect and avoid’-mitigatietechniek (DAA) en de bijbehorende grenswaarden zijn vastgelegd in ETSI-norm EN 302 065-3.
+
+(3) De ‘transmit power control’-mitigatietechniek (TPC) en de bijbehorende grenswaarden zijn vastgelegd in ETSI-norm EN 302 065-3.
+
+### 5.2 Apparatuur voor de analyse van bouwmaterialen (BMA-apparatuur)
+
 ### Subcategorie 4. Uwb aan boord van vliegtuigen
 
-De onderstaande tabel bevat de waarden voor de maximale gemiddelde spectrale vermogensdichtheid (e.i.r.p.) en het maximaal piekvermogen (e.i.r.p.) voor korteafstandapparatuur (Short Range Devices, SRD) die gebruikmaken van ultrabreedbandtechnologie (UWB), met of zonder gebruik van mitigatietechnieken.
+### Subcategorie 7. Grond- en muur indringende radar
+
+### Subcategorie 8. Industriële niveau meetradar (Level Probing Radar: LPR)
+
+### Aanhangsel bij de bijlagen 1 tot en met 12
+
+### Opmerkingen bij de tabellen
 
 ### Subcategorie 5. Materiaal detectieapparatuur die gebruikmaakt van UWB-technologie
 
 ### 5.1. Materiaaldetectieapparatuur
 
-In het kader van deze beschikking toegestane materiaaldetectieapparatuur voldoet aan de volgende vereisten:
+### Duty-cycle
 
 Emissies die worden uitgestraald door in het kader van deze beschikking toegestane materiaaldetectieapparatuur dienen tot een minimum te zijn beperkt en mogen in geen geval de in de onderstaande tabel vastgelegde e.i.r.p.-dichtheidsgrenswaarden overschrijden. De naleving van de in de onderstaande tabel vastgelegde grenswaarden voor niet-vaste installaties (toepassing B) moet worden gewaarborgd bij gebruik van de apparatuur op een representatieve structuur die uit het te onderzoeken materiaal bestaat (bijvoorbeeld een representatieve muur als bepaald in ETSI En 302 435-1 of ETSI EN 302 498-1).
 
+Het piekvermogen (in dBm) gemeten binnen een bandbreedte van 50 MHz moet onder een grenswaarde liggen die wordt verkregen door een conversiefactor (25 dB) op te tellen bij de waarde ‘Maximale gemiddelde spectrale vermogensdichtheid’ (in dBm/MHz).
+
+Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
+
+(1) Binnen de frequentieband 3,1 – 4,8 GHz. De ‘low duty cycle’-mitigatietechniek (LDC) en de bijbehorende grenswaarden zijn vastgelegd in ETSI-norm EN 302 065-1.
+
+(2) Binnen de frequentieband 3,1–4,8 GHz en 8,5–9 GHz. De ‘detect and avoid’-mitigatietechniek (DAA) en de bijbehorende grenswaarden zijn vastgelegd in ETSI-norm EN 302 065-1.
+
+(1) De ‘low duty cycle’-mitigatietechniek (LDC) en de bijbehorende grenswaarden zijn vastgelegd in ETSI-norm EN 302 065-3.
+
+(4) De uitwendige grenswaarde (exterior limit, e.l.) ≤ -53,3 dBm/MHz is vereist. De uitwendige greswaarde is vastgelegd in ETSI-norm EN 302 065-3.
+
+De onderstaande tabel bevat de waarden voor de maximale gemiddelde spectrale vermogensdichtheid (e.i.r.p.) en het maximaal piekvermogen (e.i.r.p.) voor korteafstandapparatuur (Short Range Devices, SRD) die gebruikmaken van ultrabreedbandtechnologie (UWB), met of zonder gebruik van mitigatietechnieken.
+
+(1) Alternatieve mitigatietechnieken die gelijkwaardige bescherming bieden, zoals het gebruik van afgeschermde raampjes, zouden een oplossing kunnen zijn.
+
+(2) Bescherming 7,25–7,75 GHz (Fixed Satellite Service, FSS) en 7,45–7,55 GHz (Meteorological Satellite, MetSat): –51,3-20*log10(10[km]/x[km])(dBm/MHz) voor hoogten boven de grond van meer dan 1.000 meter, waarbij x de hoogte van het vliegtuig boven de grond in kilometer is, en -71,3 dBm/MHz voor hoogten boven de grond van 1.000 meter of minder.
+
+(3) Bescherming 7,75–7,9 GHz (Meteorological Satellite, MetSat): –44,3-20*log10(10[km]/x[km])(dBm/MHz) voor hoogten boven de grond van meer dan 1.000 m, waarbij x de hoogte van het vliegtuig boven de grond in kilometer is, en –64,3 dBm/MHz voor hoogten boven de grond van 1.000 m of minder.
+
+In het kader van deze beschikking toegestane materiaaldetectieapparatuur voldoet aan de volgende vereisten:
+
+(1) Apparatuur die gebruikmaakt van een LBT-mechanisme (Listen Before Talk) zoals bepaald in de
+
+geharmoniseerde norm EN 302 498-2, mag gebruikmaken van de frequentiebereiken 2,5-2,69 GHz en
+
+2,9-3,4 GHz met een maximale gemiddelde spectrale vermogensdichtheid van -50 dBm/MHz.
+
+(2) Om radiodiensten te beschermen, moeten niet-vaste installaties (toepassing B) aan de volgende vereiste
+
+voor de totale uitgestraalde spectrale vermogensdichtheid voldoen:
+
+a) in de frequentiebereiken 2,5-2,69 GHz en 4,8-5 GHz moet de totale uitgestraalde spectrale
+
+vermogensdichtheid 10 dB minder dan de maximale gemiddelde spectrale vermogensdichtheid
+
+bedragen;
+
+b) in het frequentiebereik 3,4-3,8 GHz moet de totale uitgestraalde spectrale vermogensdichtheid 5 dB
+
+minder dan de maximale gemiddelde spectrale vermogensdichtheid bedragen.
+
+(3) Beperking van de duty cycle tot 10% per seconde.
+
 ### 5.2 Apparatuur voor de analyse van bouwmaterialen (BMA-apparatuur)
+
+(1) Apparatuur die gebruikmaakt van een LBT-mechanisme (Listen Before Talk) zoals bepaald in de geharmoniseerde norm EN 302 435-1 mag gebruikmaken van het frequentiebereik 1,215 – 1,73 GHz met een maximale gemiddelde spectrale vermogensdichtheid van -70 dBm/MHz en van de frequentiebereiken 2,5-2,69 GHz en 2,7-3,4 GHz met een maximale gemiddelde spectrale vermogensdichtheid van -50 dBm/MHz.
+
+(2) Om de RAS-banden (Radio Astronomy Service) 2,69-2,7 GHz en 4,8-5 GHz te beschermen, moet de totale uitgestraalde spectrale vermogensdichtheid minder dan -65 dBm/MHz bedragen.
 
 ### Subcategorie 6. Tankniveau-sondering radar (TLPR)
 
 ### Subcategorie 7. Grond- en muur indringende radar
 
 ### Subcategorie 8. Industriële niveau meetradar (Level Probing Radar: LPR)
+
+(1) Automatische vermogensregeling en beperkingen ten aanzien van antennes en equivalente technieken om toegang te krijgen tot spectrum en om interferentie te beperken met een vermogen dat ten minste equivalent is aan dat van de technieken die zijn beschreven in de geharmoniseerde normen welke zijn vastgesteld in het kader van [Richtlijn 1999/5/EG](31999L0005) zijn verplicht.
+
+(2) Voor de Radio Astronomie locatie Westerbork (52º55’01’ NB – 006º36’15’ OL) gelden de volgende extra beschermingseisen:
+
+(a) Van 0 tot 4 km rondom Westerbork is de installatie van LPR apparatuur verboden;
+
+(b) Van 4 tot 40 km rondom Westerbork is de antennehoogte van de LPR apparatuur beperkt tot 15 meter.
 
 ### Aanhangsel bij de bijlagen 1 tot en met 12
 
