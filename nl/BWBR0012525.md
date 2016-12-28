@@ -4,7 +4,7 @@ identifier: "BWBR0012525"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2016-12-28"
-last_updated: "2001-06-15"
+last_updated: "2016-12-28"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0012525"
 soort: "ministeriele-regeling"
@@ -86,7 +86,7 @@ De aanbieder van GSM, DCS 1800 of GPRS, richt zijn netwerk, onderscheidenlijk zi
 
 - a. het aansluitnummer van de gebruiker;
 
-- b. het nummer van het bij de gebruiker in gebruik zijnde randapparaat;
+- b. het nummer van het bij de gebruiker in gebruik zijnde eindapparaat;
 
 - c. het identiteitsnummer van de gebruiker.
 
@@ -120,7 +120,7 @@ De aanbieder van IMT-2000 richt zijn netwerk, onderscheidenlijk zijn dienst zoda
 
 - a. het aansluitnummer van de gebruiker;
 
-- b. het nummer van het bij de gebruiker in gebruik zijnde randapparaat;
+- b. het nummer van het bij de gebruiker in gebruik zijnde eindapparaat;
 
 - c. het identiteitsnummer van de gebruiker;
 
@@ -132,9 +132,9 @@ De aanbieder van IMT-2000 richt zijn netwerk, onderscheidenlijk zijn dienst zoda
 
 ##### Artikel 10
 
-De afgetapte telecommunicatie die door de aanbieder van een in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0012525&paragraaf=2&artikel=2&z=2001-06-15&g=2001-06-15) aangewezen openbaar telecommunicatienetwerk of openbare telecommunicatiedienst ter uitvoering van een bijzondere last aan de bevoegde autoriteiten wordt doorgegeven, voldoet, voorzover het een circuitgeschakeld openbaar telecommunicatienetwerk of circuitgeschakelde openbare telecommunicatiedienst betreft, aan de volgende eisen:
+De afgetapte telecommunicatie die door de aanbieder van een in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0012525&paragraaf=2&artikel=2&z=2016-12-28&g=2016-12-28) aangewezen openbaar telecommunicatienetwerk of openbare telecommunicatiedienst ter uitvoering van een bijzondere last aan de bevoegde autoriteiten wordt doorgegeven, voldoet, voorzover het een circuitgeschakeld openbaar telecommunicatienetwerk of circuitgeschakelde openbare telecommunicatiedienst betreft, aan de volgende eisen:
 
-- a. de telecommunicatie omvat alle signalen die vanaf het netwerkaansluitpunt of door de gebruiker waarop de bijzondere last betrekking heeft worden verzonden en ontvangen, met inbegrip van signalen voor de activering en deactivering van de faciliteiten telefonisch vergaderen en het omleiden van oproepen alsmede andere signalen die aangeven dat de status van de verbinding dan wel van de randapparatuur is gewijzigd;
+- a. de telecommunicatie omvat alle signalen die vanaf het netwerkaansluitpunt of door de gebruiker waarop de bijzondere last betrekking heeft worden verzonden en ontvangen, met inbegrip van signalen voor de activering en deactivering van de faciliteiten telefonisch vergaderen en het omleiden van oproepen alsmede andere signalen die aangeven dat de status van de verbinding dan wel van de eindapparatuur is gewijzigd;
 
 - b. de telecommunicatie is voorzien van de navolgende identificerende gegevens:
 
@@ -152,7 +152,7 @@ De afgetapte telecommunicatie die door de aanbieder van een in [artikel 2](https
 
 ##### Artikel 11
 
-De afgetapte telecommunicatie die door de aanbieder van een in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0012525&paragraaf=2&artikel=2&z=2001-06-15&g=2001-06-15) aangewezen openbaar telecommunicatienetwerk of openbare telecommunicatiedienst ter uitvoering van een bijzondere last aan de bevoegde autoriteiten wordt doorgegeven, voldoet, voorzover het een pakketgeschakeld openbaar telecommunicatienetwerk of een pakketgeschakelde openbare telecommunicatiedienst betreft, aan de volgende eisen:
+De afgetapte telecommunicatie die door de aanbieder van een in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0012525&paragraaf=2&artikel=2&z=2016-12-28&g=2016-12-28) aangewezen openbaar telecommunicatienetwerk of openbare telecommunicatiedienst ter uitvoering van een bijzondere last aan de bevoegde autoriteiten wordt doorgegeven, voldoet, voorzover het een pakketgeschakeld openbaar telecommunicatienetwerk of een pakketgeschakelde openbare telecommunicatiedienst betreft, aan de volgende eisen:
 
 - a. de telecommunicatie omvat alle signalen die vanaf het netwerkaansluitpunt of door de gebruiker waarop de bijzondere last betrekking heeft worden verzonden en ontvangen;
 
@@ -172,21 +172,21 @@ De afgetapte telecommunicatie die door de aanbieder van een in [artikel 2](https
 
 ##### Artikel 12
 
-De wijze waarop de afgetapte telecommunicatie door de aanbieder van een in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0012525&paragraaf=2&artikel=2&z=2001-06-15&g=2001-06-15) aangewezen openbaar telecommunicatienetwerk of openbare telecommunicatiedienst ter uitvoering van een bijzondere last aan de bevoegde autoriteit wordt doorgegeven, behoeft in het belang van de veiligheid en de betrouwbaarheid van de verbindingen, alsmede in het belang van bescherming van persoonsgegevens de instemming van die autoriteit. De bevoegde autoriteit pleegt met de aanbieder overleg voorafgaand aan het verlenen van de instemming.
+De wijze waarop de afgetapte telecommunicatie door de aanbieder van een in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0012525&paragraaf=2&artikel=2&z=2016-12-28&g=2016-12-28) aangewezen openbaar telecommunicatienetwerk of openbare telecommunicatiedienst ter uitvoering van een bijzondere last aan de bevoegde autoriteit wordt doorgegeven, behoeft in het belang van de veiligheid en de betrouwbaarheid van de verbindingen, alsmede in het belang van bescherming van persoonsgegevens de instemming van die autoriteit. De bevoegde autoriteit pleegt met de aanbieder overleg voorafgaand aan het verlenen van de instemming.
 
 #### § 5. Overgangs- en slotbepalingen
 
 ##### Artikel 13
 
-1. De verplichting tot het voeren van overleg, bedoeld in de [artikelen 10, onderdelen d en e](https://wetten.overheid.nl/jci1.3:c:BWBR0012525&paragraaf=4&artikel=10&z=2001-06-15&g=2001-06-15), [11, onderdelen d en e](https://wetten.overheid.nl/jci1.3:c:BWBR0012525&paragraaf=4&artikel=11&z=2001-06-15&g=2001-06-15), en [12, tweede volzin](https://wetten.overheid.nl/jci1.3:c:BWBR0012525&paragraaf=4&artikel=12&z=2001-06-15&g=2001-06-15), geldt niet ten aanzien van op het tijdstip van inwerkingtreding van deze regeling in gebruik zijnde authenticatie- en versleutelingsprocedures, onderscheidenlijk in gebruik zijnde wijzen van doorgifte van afgetapte telecommunicatie, die op grond van artikel 8, onderdelen d en e, van de Tijdelijke regeling aftappen openbare telecommunicatienetwerken of -diensten 2000 door de bevoegde autoriteiten zijn vastgesteld, onderscheidenlijk waarmee de bevoegde autoriteiten op grond van artikel 9, eerste volzin, van de Tijdelijke regeling aftappen openbare telecommunicatienetwerken of -diensten 2000 hebben ingestemd.
+1. De verplichting tot het voeren van overleg, bedoeld in de [artikelen 10, onderdelen d en e](https://wetten.overheid.nl/jci1.3:c:BWBR0012525&paragraaf=4&artikel=10&z=2016-12-28&g=2016-12-28), [11, onderdelen d en e](https://wetten.overheid.nl/jci1.3:c:BWBR0012525&paragraaf=4&artikel=11&z=2016-12-28&g=2016-12-28), en [12, tweede volzin](https://wetten.overheid.nl/jci1.3:c:BWBR0012525&paragraaf=4&artikel=12&z=2016-12-28&g=2016-12-28), geldt niet ten aanzien van op het tijdstip van inwerkingtreding van deze regeling in gebruik zijnde authenticatie- en versleutelingsprocedures, onderscheidenlijk in gebruik zijnde wijzen van doorgifte van afgetapte telecommunicatie, die op grond van artikel 8, onderdelen d en e, van de Tijdelijke regeling aftappen openbare telecommunicatienetwerken of -diensten 2000 door de bevoegde autoriteiten zijn vastgesteld, onderscheidenlijk waarmee de bevoegde autoriteiten op grond van artikel 9, eerste volzin, van de Tijdelijke regeling aftappen openbare telecommunicatienetwerken of -diensten 2000 hebben ingestemd.
 
-2. De verplichting tot vaststelling van een authenticatie- en een versleutelingsprocedure als bedoeld in [artikel 10, onderdelen d en e](https://wetten.overheid.nl/jci1.3:c:BWBR0012525&paragraaf=4&artikel=10&z=2001-06-15&g=2001-06-15), [11, onderdeken d en e](https://wetten.overheid.nl/jci1.3:c:BWBR0012525&paragraaf=4&artikel=11&z=2001-06-15&g=2001-06-15), geldt niet ten aanzien van op het tijdstip van inwerkingtreding van deze regeling in gebruik zijnde authenticatie- en versleutelingsprocedures die op grond van [artikel 8, onderdelen d en e](https://wetten.overheid.nl/jci1.3:c:BWBR0012525&paragraaf=3&artikel=8&z=2001-06-15&g=2001-06-15), van de Tijdelijke regeling aftappen openbare telecommunicatienetwerken of -diensten 2000 door de bevoegde autoriteiten zijn vastgesteld.
+2. De verplichting tot vaststelling van een authenticatie- en een versleutelingsprocedure als bedoeld in [artikel 10, onderdelen d en e](https://wetten.overheid.nl/jci1.3:c:BWBR0012525&paragraaf=4&artikel=10&z=2016-12-28&g=2016-12-28), [11, onderdeken d en e](https://wetten.overheid.nl/jci1.3:c:BWBR0012525&paragraaf=4&artikel=11&z=2016-12-28&g=2016-12-28), geldt niet ten aanzien van op het tijdstip van inwerkingtreding van deze regeling in gebruik zijnde authenticatie- en versleutelingsprocedures die op grond van [artikel 8, onderdelen d en e](https://wetten.overheid.nl/jci1.3:c:BWBR0012525&paragraaf=3&artikel=8&z=2016-12-28&g=2016-12-28), van de Tijdelijke regeling aftappen openbare telecommunicatienetwerken of -diensten 2000 door de bevoegde autoriteiten zijn vastgesteld.
 
-3. Het vereiste van instemming, bedoeld in [artikel 12, eerste volzin](https://wetten.overheid.nl/jci1.3:c:BWBR0012525&paragraaf=4&artikel=12&z=2001-06-15&g=2001-06-15), geldt niet ten aanzien van de op het tijdstip van inwerkingtreding van deze regeling in gebruik zijnde wijzen van doorgifte van afgetapte telecommunicatie waarmee de bevoegde autoriteiten op grond van artikel 9, eerste volzin, van de Tijdelijke regeling aftappen openbare telecommunicatienetwerken en -diensten 2000 hebben ingestemd.
+3. Het vereiste van instemming, bedoeld in [artikel 12, eerste volzin](https://wetten.overheid.nl/jci1.3:c:BWBR0012525&paragraaf=4&artikel=12&z=2016-12-28&g=2016-12-28), geldt niet ten aanzien van de op het tijdstip van inwerkingtreding van deze regeling in gebruik zijnde wijzen van doorgifte van afgetapte telecommunicatie waarmee de bevoegde autoriteiten op grond van artikel 9, eerste volzin, van de Tijdelijke regeling aftappen openbare telecommunicatienetwerken en -diensten 2000 hebben ingestemd.
 
 ##### Artikel 14
 
-[Artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0012525&paragraaf=5&artikel=13&z=2001-06-15&g=2001-06-15) is van overeenkomstige toepassing ten aanzien van de technisch protocollen, bedoeld in artikel 10 van de Tijdelijke regeling aftappen openbare telecommunicatienetwerken en -diensten 2000.
+[Artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0012525&paragraaf=5&artikel=13&z=2016-12-28&g=2016-12-28) is van overeenkomstige toepassing ten aanzien van de technisch protocollen, bedoeld in artikel 10 van de Tijdelijke regeling aftappen openbare telecommunicatienetwerken en -diensten 2000.
 
 ##### Artikel 15
 
