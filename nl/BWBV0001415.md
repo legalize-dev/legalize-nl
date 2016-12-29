@@ -4,7 +4,7 @@ identifier: "BWBV0001415"
 country: "nl"
 rank: "verdrag"
 publication_date: "2016-12-29"
-last_updated: "2009-10-29"
+last_updated: "2016-12-29"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBV0001415"
 soort: "verdrag"
@@ -58,7 +58,7 @@ Voor de toepassing van dit Protocol wordt verstaan onder:
 
 - a. „gecombineerd vervoer”: het vervoer van goederen in één en dezelfde laadeenheid, waarbij gebruik wordt gemaakt van meer dan één wijze van vervoer;
 
-- b. „net van belangrijke binnenwateren voor het internationaal gecombineerd vervoer”: alle binnenwateren en kustroutes die voldoen aan de minimumeisen, vervat in [Bijlage III](https://wetten.overheid.nl/jci1.3:c:BWBV0001415&bijlage=III&z=2009-10-29&g=2009-10-29) bij dit Protocol, indien: Deze kustroutes moeten overeenstemmen met de bepalingen van [Bijlage III, letter a, punt xi](https://wetten.overheid.nl/jci1.3:c:BWBV0001415&bijlage=III&z=2009-10-29&g=2009-10-29);
+- b. „net van belangrijke binnenwateren voor het internationaal gecombineerd vervoer”: alle binnenwateren en kustroutes die voldoen aan de minimumeisen, vervat in [Bijlage III](https://wetten.overheid.nl/jci1.3:c:BWBV0001415&bijlage=III&z=2016-12-29&g=2016-12-29) bij dit Protocol, indien: Deze kustroutes moeten overeenstemmen met de bepalingen van [Bijlage III, letter a, punt xi](https://wetten.overheid.nl/jci1.3:c:BWBV0001415&bijlage=III&z=2016-12-29&g=2016-12-29);
 
 - i. zij momenteel worden gebruikt voor gebruikt voor geregeld internationaal gecombineerd vervoer;
 
@@ -72,11 +72,11 @@ Voor de toepassing van dit Protocol wordt verstaan onder:
 
 1. De Overeenkomstsluitende Partijen die tevens Partij zijn bij de Europese Overeenkomst inzake belangrijke lijnen voor het internationaal gecombineerd vervoer en daarmee samenhangende installaties (AGTC) van 1991, nemen de bepalingen van dit Protocol aan als een gecoördineerd internationaal plan voor de ontwikkeling en exploitatie van een net van belangrijke binnenwateren voor internationaal gecombineerd vervoer, alsmede voor terminals in havens, hierna te noemen het „internationaal netwerk van binnenwateren voor gecombineerd vervoer”, welk plan zij voornemens zijn uit te voeren binnen het kader van nationale programma's.
 
-2. Het net van internationale binnenwateren voor gecombineerd vervoer bestaat uit de in [Bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBV0001415&bijlage=I&z=2009-10-29&g=2009-10-29) bij dit Protocol opgenomen binnenwateren en de in [Bijlage II](https://wetten.overheid.nl/jci1.3:c:BWBV0001415&bijlage=II&z=2009-10-29&g=2009-10-29) bij dit Protocol opgenomen terminals in havens.
+2. Het net van internationale binnenwateren voor gecombineerd vervoer bestaat uit de in [Bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBV0001415&bijlage=I&z=2016-12-29&g=2016-12-29) bij dit Protocol opgenomen binnenwateren en de in [Bijlage II](https://wetten.overheid.nl/jci1.3:c:BWBV0001415&bijlage=II&z=2016-12-29&g=2016-12-29) bij dit Protocol opgenomen terminals in havens.
 
 ##### Artikel 3. Technische en operationele minimumeisen
 
-Ten einde de dienstverlening in het gecombineerd vervoer op het internationale net van binnenwateren voor gecombineerd vervoer te vergemakkelijken, nemen de Overeenkomstsluitende Partijen passende maatregelen, ten einde aan de in [Bijlage III](https://wetten.overheid.nl/jci1.3:c:BWBV0001415&bijlage=III&z=2009-10-29&g=2009-10-29) bij dit Protocol vermelde technische en operationele minimumeisen te voldoen.
+Ten einde de dienstverlening in het gecombineerd vervoer op het internationale net van binnenwateren voor gecombineerd vervoer te vergemakkelijken, nemen de Overeenkomstsluitende Partijen passende maatregelen, ten einde aan de in [Bijlage III](https://wetten.overheid.nl/jci1.3:c:BWBV0001415&bijlage=III&z=2016-12-29&g=2016-12-29) bij dit Protocol vermelde technische en operationele minimumeisen te voldoen.
 
 ##### Artikel 4. Bijlagen
 
@@ -96,13 +96,13 @@ De Secretaris-Generaal van de Verenigde Naties is de depositaris van dit Protoco
 
 ##### Artikel 7. Bekrachtiging, aanvaarding of goedkeuring
 
-1. Dit Protocol dient te worden bekrachtigd, aanvaard of goedgekeurd in overeenstemming met [artikel 6, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBV0001415&hoofdstuk=II&artikel=6&z=2009-10-29&g=2009-10-29).
+1. Dit Protocol dient te worden bekrachtigd, aanvaard of goedgekeurd in overeenstemming met [artikel 6, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBV0001415&hoofdstuk=II&artikel=6&z=2016-12-29&g=2016-12-29).
 
 2. Bekrachtiging, aanvaarding of goedkeuring geschiedt door nederlegging van een akte bij de Secretaris-Generaal van de Verenigde Naties.
 
 ##### Artikel 8. Toetreding
 
-1. Dit Protocol staat vanaf 1 november 1997 open voor toetreding door elke Staat als bedoeld in [artikel 6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBV0001415&hoofdstuk=II&artikel=6&z=2009-10-29&g=2009-10-29).
+1. Dit Protocol staat vanaf 1 november 1997 open voor toetreding door elke Staat als bedoeld in [artikel 6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBV0001415&hoofdstuk=II&artikel=6&z=2016-12-29&g=2016-12-29).
 
 2. Toetreding geschiedt door nederlegging van een akte bij de Secretaris-Generaal van de Verenigde Naties.
 
@@ -128,11 +128,11 @@ De Secretaris-Generaal van de Verenigde Naties is de depositaris van dit Protoco
 
 ##### Artikel 12. Voorbehouden
 
-Elke Staat kan bij de ondertekening van dit Protocol of bij de nederlegging van zijn akte van bekrachtiging, aanvaarding, goedkeuring of toetreding aan de depositaris mededelen dat hij zich niet gebonden acht door [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBV0001415&hoofdstuk=II&artikel=11&z=2009-10-29&g=2009-10-29) van dit Protocol.
+Elke Staat kan bij de ondertekening van dit Protocol of bij de nederlegging van zijn akte van bekrachtiging, aanvaarding, goedkeuring of toetreding aan de depositaris mededelen dat hij zich niet gebonden acht door [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBV0001415&hoofdstuk=II&artikel=11&z=2016-12-29&g=2016-12-29) van dit Protocol.
 
 ##### Artikel 13. Wijziging van het Protocol
 
-1. Dit Protocol kan worden gewijzigd overeenkomstig de in dit artikel beschreven procedure, behoudens het bepaalde in de [artikelen 14](https://wetten.overheid.nl/jci1.3:c:BWBV0001415&hoofdstuk=II&artikel=14&z=2009-10-29&g=2009-10-29) en [15](https://wetten.overheid.nl/jci1.3:c:BWBV0001415&hoofdstuk=II&artikel=15&z=2009-10-29&g=2009-10-29).
+1. Dit Protocol kan worden gewijzigd overeenkomstig de in dit artikel beschreven procedure, behoudens het bepaalde in de [artikelen 14](https://wetten.overheid.nl/jci1.3:c:BWBV0001415&hoofdstuk=II&artikel=14&z=2016-12-29&g=2016-12-29) en [15](https://wetten.overheid.nl/jci1.3:c:BWBV0001415&hoofdstuk=II&artikel=15&z=2016-12-29&g=2016-12-29).
 
 2. Op verzoek van een Overeenkomstsluitende Partij wordt elke door haar voorgestelde wijziging van dit Protocol bestudeerd in de Werkgroep voor Gecombineerd Vervoer van de Economische Commissie voor Europa van de Verenigde Naties.
 
@@ -142,11 +142,11 @@ Elke Staat kan bij de ondertekening van dit Protocol of bij de nederlegging van 
 
 5. Indien overeenkomstig het vierde lid van dit artikel, een bezwaar tegen de voorgestelde wijziging ter kennis van de Secretaris-Generaal is gebracht, wordt de wijziging geacht niet te zijn aanvaard en heeft zij geen enkel gevolg.
 
-##### Artikel 14. Wijziging van de [Bijlagen I](https://wetten.overheid.nl/jci1.3:c:BWBV0001415&bijlage=I&z=2009-10-29&g=2009-10-29) en [II](https://wetten.overheid.nl/jci1.3:c:BWBV0001415&bijlage=II&z=2009-10-29&g=2009-10-29)
+##### Artikel 14. Wijziging van de [Bijlagen I](https://wetten.overheid.nl/jci1.3:c:BWBV0001415&bijlage=I&z=2016-12-29&g=2016-12-29) en [II](https://wetten.overheid.nl/jci1.3:c:BWBV0001415&bijlage=II&z=2016-12-29&g=2016-12-29)
 
-1. De [Bijlagen I](https://wetten.overheid.nl/jci1.3:c:BWBV0001415&bijlage=I&z=2009-10-29&g=2009-10-29) en [II](https://wetten.overheid.nl/jci1.3:c:BWBV0001415&bijlage=II&z=2009-10-29&g=2009-10-29) bij dit Protocol kunnen worden gewijzigd overeenkomstig de in dit artikel beschreven procedure.
+1. De [Bijlagen I](https://wetten.overheid.nl/jci1.3:c:BWBV0001415&bijlage=I&z=2016-12-29&g=2016-12-29) en [II](https://wetten.overheid.nl/jci1.3:c:BWBV0001415&bijlage=II&z=2016-12-29&g=2016-12-29) bij dit Protocol kunnen worden gewijzigd overeenkomstig de in dit artikel beschreven procedure.
 
-2. Op verzoek van een Overeenkomstsluitende Partij wordt elke door haar voorgestelde wijziging van de [Bijlagen I](https://wetten.overheid.nl/jci1.3:c:BWBV0001415&bijlage=I&z=2009-10-29&g=2009-10-29) en [II](https://wetten.overheid.nl/jci1.3:c:BWBV0001415&bijlage=II&z=2009-10-29&g=2009-10-29) bestudeerd door de Werkgroep voor Gecombineerd Vervoer van de Economische Commissie voor Europa van de Verenigde Naties.
+2. Op verzoek van een Overeenkomstsluitende Partij wordt elke door haar voorgestelde wijziging van de [Bijlagen I](https://wetten.overheid.nl/jci1.3:c:BWBV0001415&bijlage=I&z=2016-12-29&g=2016-12-29) en [II](https://wetten.overheid.nl/jci1.3:c:BWBV0001415&bijlage=II&z=2016-12-29&g=2016-12-29) bestudeerd door de Werkgroep voor Gecombineerd Vervoer van de Economische Commissie voor Europa van de Verenigde Naties.
 
 3. Indien de wijziging wordt aangenomen door de meerderheid van de Overeenkomstsluitende Partijen die aanwezig zijn en hun stem uitbrengen, wordt door de Secretaris-Generaal van de Verenigde Naties mededeling van de wijziging gedaan aan de rechtstreeks betrokken Overeenkomstsluitende Partijen ter fine van aanvaarding. Voor de toepassing van dit artikel wordt een Overeenkomstsluitende Partij geacht rechtstreeks betrokken te zijn, indien haar grondgebied, in geval van opneming van een nieuw gedeelte van een vaarroute of een terminal of in geval van wijziging van een van beide, door dit gedeelte van een vaarroute wordt doorsneden of rechtstreeks verbonden met de terminal, of indien de beoogde terminal op bedoeld grondgebied is gelegen.
 
@@ -158,11 +158,11 @@ Elke Staat kan bij de ondertekening van dit Protocol of bij de nederlegging van 
 
 7. De depositaris wordt er door het Secretariaat van de Economische Commissie voor Europa steeds onverwijld van in kennis gesteld welke Overeenkomstsluitende Partijen rechtstreeks betrokken zijn bij een voorgestelde wijziging.
 
-##### Artikel 15. Wijziging van [Bijlage III](https://wetten.overheid.nl/jci1.3:c:BWBV0001415&bijlage=III&z=2009-10-29&g=2009-10-29)
+##### Artikel 15. Wijziging van [Bijlage III](https://wetten.overheid.nl/jci1.3:c:BWBV0001415&bijlage=III&z=2016-12-29&g=2016-12-29)
 
 1. Bijlage III bij dit Protocol kan worden gewijzigd overeenkomstig de in dit artikel beschreven procedure.
 
-2. Op verzoek van een Overeenkomstsluitende Partij wordt elke door haar voorgestelde wijziging van [Bijlage III](https://wetten.overheid.nl/jci1.3:c:BWBV0001415&bijlage=III&z=2009-10-29&g=2009-10-29) bestudeerd door de Werkgroep voor Gecombineerd Vervoer van de Economische Commissie voor Europa van de Verenigde Naties.
+2. Op verzoek van een Overeenkomstsluitende Partij wordt elke door haar voorgestelde wijziging van [Bijlage III](https://wetten.overheid.nl/jci1.3:c:BWBV0001415&bijlage=III&z=2016-12-29&g=2016-12-29) bestudeerd door de Werkgroep voor Gecombineerd Vervoer van de Economische Commissie voor Europa van de Verenigde Naties.
 
 3. Indien de voorgestelde wijziging wordt aangenomen met een tweederde meerderheid van de Overeenkomstsluitende Partijen die aanwezig zijn en hun stem uitbrengen, wordt door de Secretaris-Generaal van de Verenigde Naties mededeling van de wijziging gedaan aan alle Overeenkomstsluitende Partijen ter fine van aanvaarding.
 
