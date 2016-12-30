@@ -4,7 +4,7 @@ identifier: "BWBR0038983"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2016-12-30"
-last_updated: "2016-12-19"
+last_updated: "2016-12-30"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0038983"
 soort: "ministeriele-regeling"
@@ -46,15 +46,15 @@ Voor het jaar 2016 is voor de beheerskosten [Wet langdurige zorg](https://wetten
 
 ##### Artikel 2
 
-Van het in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0038983&artikel=1&z=2016-12-30&g=2016-12-19) genoemde bedrag is € 7,198 miljoen beschikbaar voor de taken, bedoeld in [artikel 4.2.4, tweede lid, van de Wet langdurige zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0035917&artikel=4.2.4) en € 0,532 miljoen voor de overige bij of krachtens die wet geregelde taken.
+Van het in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0038983&artikel=1&z=2016-12-30&g=2016-12-30) genoemde bedrag is € 7,198 miljoen beschikbaar voor de taken, bedoeld in [artikel 4.2.4, tweede lid, van de Wet langdurige zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0035917&artikel=4.2.4) en € 0,532 miljoen voor de overige bij of krachtens die wet geregelde taken.
 
 ##### Artikel 3
 
-Uit het bedrag, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0038983&artikel=2&z=2016-12-30&g=2016-12-19), voor de taken, bedoeld in [artikel 4.2.4 tweede lid, van de Wet langdurige zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0035917&artikel=4.2.4), wordt aan zorgkantoren incidenteel in totaal maximaal een bedrag van € 1,500 miljoen beschikbaar om zorgkantoren te compenseren in de beheerskostenbudgetten voor extra kosten die gemaakt worden in de zaken tegen frauderende zorgverleners en tegen cliënten die niet te goeder trouw zijn. Het betreft hier zaken die onder de [AWBZ](https://wetten.overheid.nl/jci1.3:c:BWBR0002614) zijn ontstaan, maar in 2017 nog tot kosten hebben geleid. Indien niet alle kosten uit het bedrag kunnen worden vergoed, worden de kosten naar evenredigheid van de in aanmerking komende en goedgekeurde kosten per zorgkantoor vergoed.
+Uit het bedrag, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0038983&artikel=2&z=2016-12-30&g=2016-12-30), voor de taken, bedoeld in [artikel 4.2.4 tweede lid, van de Wet langdurige zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0035917&artikel=4.2.4), wordt aan zorgkantoren incidenteel in totaal maximaal een bedrag van € 1,500 miljoen beschikbaar om zorgkantoren te compenseren in de beheerskostenbudgetten voor extra kosten die gemaakt worden in de zaken tegen frauderende zorgverleners en tegen cliënten die niet te goeder trouw zijn. Het betreft hier zaken die onder de [AWBZ](https://wetten.overheid.nl/jci1.3:c:BWBR0002614) zijn ontstaan, maar in 2017 nog tot kosten hebben geleid. Indien niet alle kosten uit het bedrag kunnen worden vergoed, worden de kosten naar evenredigheid van de in aanmerking komende en goedgekeurde kosten per zorgkantoor vergoed.
 
 ##### Artikel 4
 
-Uit het bedrag, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0038983&artikel=2&z=2016-12-30&g=2016-12-19), voor de overige bij of krachtens de [Wet langdurige zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0035917) geregelde taken wordt een bedrag van € 0,850 miljoen structureel beschikbaar gesteld voor onafhankelijke cliëntondersteuning.
+Uit het bedrag, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0038983&artikel=2&z=2016-12-30&g=2016-12-30), voor de overige bij of krachtens de [Wet langdurige zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0035917) geregelde taken wordt een bedrag van € 0,850 miljoen structureel beschikbaar gesteld voor onafhankelijke cliëntondersteuning.
 
 ##### Artikel 5
 
