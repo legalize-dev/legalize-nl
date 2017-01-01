@@ -4,7 +4,7 @@ identifier: "BWBR0025278"
 country: "nl"
 rank: "amvb"
 publication_date: "2026-01-01"
-last_updated: "2016-01-01"
+last_updated: "2017-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0025278"
 soort: "AMvB"
@@ -76,7 +76,7 @@ Aan de vice-president van de Raad van State, de president van de Algemene Rekenk
 
 2. Ten behoeve van het woon-werkverkeer van de president en de overige leden in gewone dienst van de Algemene Rekenkamer, de Nationale ombudsman en de substituut-ombudsmannen worden de noodzakelijke faciliteiten ter beschikking gesteld. Indien aan deze functionarissen voor dienstreizen en woon-werkverkeer een dienstauto ter beschikking wordt gesteld, zijn het derde tot en met zesde lid van toepassing.
 
-3. De prijs per kilometer van de dienstauto, bedoeld in het eerste lid, bedraagt niet meer dan € 0,62 exclusief BTW, berekend op de grondslag van een gebruiksduur van twee jaar en 60.000 gereden kilometers per jaar.
+3. De prijs per kilometer van de dienstauto, bedoeld in het eerste lid, bedraagt niet meer dan € 0,60 exclusief BTW, berekend op de grondslag van een gebruiksduur van twee jaar en 60.000 gereden kilometers per jaar.
 
 4. Het bedrag, genoemd in het derde lid, wordt per 1 januari van elk jaar bij ministeriële regeling gewijzigd overeenkomstig de procentuele wijziging van het prijsindexcijfer jaargemiddelde operationele autolease inclusief brandstof, zoals door het Centraal Bureau voor de Statistiek gepubliceerd, over het tweede kalenderjaar voorafgaand aan genoemde datum ten opzichte van hetzelfde indexcijfer over het jaar daaraan voorafgaand.
 
@@ -162,9 +162,9 @@ Aan de vice-president van de Raad van State, de president van de Algemene Rekenk
 
 2. De maandelijkse vergoeding, bedoeld in het eerste lid, bedraagt
 
-- a. voor de vice-president van de Raad van State, de president van de Algemene Rekenkamer en de Nationale ombudsman € 349,44;
+- a. voor de vice-president van de Raad van State, de president van de Algemene Rekenkamer en de Nationale ombudsman € 349,79;
 
-- b. voor de voorzitter van de Afdeling bestuursrechtspraak van de Raad van State en de leden van de Raad van State, de overige leden in gewone dienst van de Algemene Rekenkamer en de substituut-ombudsmannen € 290,81.
+- b. voor de voorzitter van de Afdeling bestuursrechtspraak van de Raad van State en de leden van de Raad van State, de overige leden in gewone dienst van de Algemene Rekenkamer en de substituut-ombudsmannen € 291,10.
 
 3. De staatsraden ontvangen voor de kosten die aan de vervulling van het ambt zijn verbonden en die voor eigen rekening komen een zodanig deel van het bedrag, bedoeld in het tweede lid, onderdeel b, als overeenkomt met de vastgestelde omvang van de te vervullen taak.
 
@@ -206,9 +206,9 @@ De volgende besluiten worden ingetrokken:
 
 Dit besluit treedt in werking op een bij koninklijk besluit te bepalen tijdstip, met dien verstande dat:
 
-- a. [artikel 4, zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025278&artikel=4&z=2016-01-01&g=2016-01-01), terugwerkt tot en met 1 januari 2005;
+- a. [artikel 4, zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025278&artikel=4&z=2017-01-01&g=2017-01-01), terugwerkt tot en met 1 januari 2005;
 
-- b. [artikel 4, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025278&artikel=4&z=2016-01-01&g=2016-01-01), terugwerkt tot en met 1 oktober 2007.
+- b. [artikel 4, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025278&artikel=4&z=2017-01-01&g=2017-01-01), terugwerkt tot en met 1 oktober 2007.
 
 ##### Artikel 13
 
