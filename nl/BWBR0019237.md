@@ -4,7 +4,7 @@ identifier: "BWBR0019237"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-01-01"
-last_updated: "2016-07-01"
+last_updated: "2017-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0019237"
 soort: "ministeriele-regeling"
@@ -83,7 +83,7 @@ Vervallen
 
 - b. het eindigen van partnerschap op grond van [artikel 5a, vierde lid, aanhef en onderdeel a, van de Algemene wet inzake rijksbelastingen](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=5a);
 
-- c. een verhoging van een geschat toetsingsinkomen die leidt tot een verlaging van de tegemoetkoming over het berekeningsjaar met meer dan € 100;
+- c. een verhoging van een geschat toetsingsinkomen die leidt tot een verlaging van de tegemoetkoming over het berekeningsjaar met meer dan € 500;
 
 - d. een verhoging van een geschat vermogen waardoor over het berekeningsjaar geen aanspraak op een tegemoetkoming bestaat.
 
@@ -99,15 +99,13 @@ Vervallen
 
 5. Indien er een voorschot kinderopvangtoeslag is verleend, wordt als een omstandigheid als bedoeld in het eerste lid tevens aangemerkt:
 
-- a. een wijziging in het aantal uren genoten kinderopvang door een kind van de belanghebbende of van zijn partner;
+- a. een wijziging in het aantal uren kinderopvang van een kind van de belanghebbende of van zijn partner;
 
 - b. een wijziging in het soort genoten kinderopvang door een kind van de belanghebbende of van zijn partner;
 
 - c. een wijziging van het geregistreerde kindercentrum of geregistreerde gastouderbureau;
 
-- d. een wijziging in de uurprijs;
-
-- e. een wijziging van het geschatte aantal gewerkte uren of van de geschatte duur van een voorziening als bedoeld in [artikel 8a, eerste lid, van het Besluit kinderopvangtoeslag](https://wetten.overheid.nl/jci1.3:c:BWBR0017321&artikel=8a).
+- d. een wijziging in de uurprijs.
 
 6. In afwijking in zoverre van het eerste lid kan van een wijziging als bedoeld in het tweede lid, onderdeel b, alsmede van wijzigingen die leiden tot een beëindiging van het voorschot op de tegemoetkoming ook telefonisch dan wel anderszins mondeling mededeling worden gedaan aan de Belastingdienst/Toeslagen.
 
@@ -239,7 +237,7 @@ Indien de Belastingdienst/Toeslagen overeenkomstig artikel 6 van Verordening (EG
 
 - b. worden de in [artikel 19 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0018472&artikel=19) genoemde beslissingstermijnen voor toekenning van de tegemoetkoming verlengd met de tijd gedurende welke een orgaan in een andere lidstaat aangewezen is geweest als voorlopig bevoegd orgaan;
 
-- c. worden de in de [artikelen 21, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018472&artikel=21), en [27, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0018472&artikel=27) genoemde termijnen en de in [artikel 5a, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0019237&artikel=5a&z=2016-07-01&g=2016-07-01), genoemde termijn verlengd met de tijd gedurende welk een orgaan in een andere lidstaat aangewezen is geweest als voorlopig bevoegd orgaan.
+- c. worden de in de [artikelen 21, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018472&artikel=21), en [27, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0018472&artikel=27) genoemde termijnen en de in [artikel 5a, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0019237&artikel=5a&z=2017-01-01&g=2017-01-01), genoemde termijn verlengd met de tijd gedurende welk een orgaan in een andere lidstaat aangewezen is geweest als voorlopig bevoegd orgaan.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
@@ -267,12 +265,14 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 - b. waarvan de hoogte is vastgelegd in een overeenkomst of rechterlijke uitspraak die is gedateerd voor 11 oktober 2010, dan wel, indien de uitkering op andere grond tot stand is gekomen, de hoogte is vastgesteld voor 11 oktober 2010.
 
-2. [Artikel 9, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019237&artikel=9&z=2016-07-01&g=2016-07-01), is van overeenkomstige toepassing op het verzoek, bedoeld in het eerste lid.
+2. [Artikel 9, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019237&artikel=9&z=2017-01-01&g=2017-01-01), is van overeenkomstige toepassing op het verzoek, bedoeld in het eerste lid.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
-##### Artikel 9ter
+##### Artikel 9ter. Overgangsrecht vermogenstoets restantbedrag persoonsgebonden budget
 
-Vervallen
+1. Op verzoek van de belanghebbende blijft [artikel 7, derde en vierde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0018472&artikel=7), [artikel 2a, eerste lid, van de Wet op de zorgtoeslag](https://wetten.overheid.nl/jci1.3:c:BWBR0018451&artikel=2a) of [artikel 1, vierde lid, van de Wet op het kindgebonden budget](https://wetten.overheid.nl/jci1.3:c:BWBR0022751&artikel=1) buiten toepassing ten aanzien van degene die aanspraak op huurtoeslag, onderscheidenlijk zorgtoeslag, onderscheidenlijk kindgebonden budget, zou hebben indien bij de berekening van de rendementsgrondslag, bedoeld in [artikel 5.3 van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=5.3), geen rekening zou worden gehouden met het restant van een ontvangen persoonsgebonden budget als bedoeld in [paragraaf 2.6 van de Regeling subsidies AWBZ](https://wetten.overheid.nl/jci1.3:c:BWBR0019161&paragraaf=2.6) en paragraaf 2 van de Wet maatschappelijke ondersteuning zoals deze op 31 december 2014 luidden, dat betrekking heeft op een subsidieperiode in het jaar voorafgaand aan het berekeningsjaar, en de met dat restant samenhangende verplichtingen.
+
+2. Een verzoek als bedoeld in het eerste lid wordt uiterlijk 31 december 2018 gedaan.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
