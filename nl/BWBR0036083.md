@@ -4,7 +4,7 @@ identifier: "BWBR0036083"
 country: "nl"
 rank: "wet"
 publication_date: "2019-01-01"
-last_updated: "2015-01-01"
+last_updated: "2017-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0036083"
 soort: "wet"
@@ -47,9 +47,9 @@ Zo is het, dat Wij, de Afdeling advisering van de Raad van State gehoord, en met
 
 ##### Artikel I
 
-Voor de toepassing van de [hoofdstukken 4 tot en met 6](https://wetten.overheid.nl/jci1.3:c:BWBR0036083&hoofdstuk=4&z=2015-01-01&g=2015-01-01) wordt verstaan onder:
+Voor de toepassing van de [hoofdstukken 4 tot en met 6](https://wetten.overheid.nl/jci1.3:c:BWBR0036083&hoofdstuk=4&z=2017-01-01&g=2017-01-01) wordt verstaan onder:
 
-- **bedrijfslichaam:** bedrijfslichaam als bedoeld in [artikel 66, vierde lid, van de Wet op de bedrijfsorganisatie](https://wetten.overheid.nl/jci1.3:c:BWBR0002058&artikel=66), zoals dat artikel luidde onmiddellijk voorafgaand aan de inwerkingtreding van [artikel II, onderdeel D](https://wetten.overheid.nl/jci1.3:c:BWBR0036083&hoofdstuk=2&artikel=II&z=2015-01-01&g=2015-01-01), van deze wet;
+- **bedrijfslichaam:** bedrijfslichaam als bedoeld in [artikel 66, vierde lid, van de Wet op de bedrijfsorganisatie](https://wetten.overheid.nl/jci1.3:c:BWBR0002058&artikel=66), zoals dat artikel luidde onmiddellijk voorafgaand aan de inwerkingtreding van [artikel II, onderdeel D](https://wetten.overheid.nl/jci1.3:c:BWBR0036083&hoofdstuk=2&artikel=II&z=2017-01-01&g=2017-01-01), van deze wet;
 
 - **Onze Minister:** Onze Minister van Economische Zaken.
 
@@ -97,7 +97,7 @@ Wijzigt de Wet op de kansspelen.
 
 ##### Artikel X
 
-De [Wet tuchtrechtspraak bedrijfsorganisatie 2004](https://wetten.overheid.nl/jci1.3:c:BWBR0016341&wetgeving) wordt ingetrokken.
+De [Wet tuchtrechtspraak bedrijfsorganisatie 2004](https://wetten.overheid.nl/jci1.3:c:BWBR0016341) wordt ingetrokken.
 
 ##### Artikel XI
 
@@ -207,7 +207,7 @@ Wijzigt de Wet op de ondernemingsraden.
 
 ##### Artikel XXXIV
 
-De [Wet van 3 april 1999 tot wijziging van de Wet op de bedrijfsorganisatie en enige andere wetten](https://wetten.overheid.nl/jci1.3:c:BWBR0010389&wetgeving) (Stb. 1999, 253) wordt ingetrokken.
+De [Wet van 3 april 1999 tot wijziging van de Wet op de bedrijfsorganisatie en enige andere wetten](https://wetten.overheid.nl/jci1.3:c:BWBR0010389) (Stb. 1999, 253) wordt ingetrokken.
 
 #### § 9. Ministerie van Volksgezondheid, Welzijn en Sport
 
@@ -225,7 +225,7 @@ Wijzigt de Wet op de medische keuringen.
 
 ##### Artikel XXXVII
 
-1. Op het tijdstip van inwerkingtreding van [artikel II, onderdeel D](https://wetten.overheid.nl/jci1.3:c:BWBR0036083&hoofdstuk=2&artikel=II&z=2015-01-01&g=2015-01-01), van deze wet gaan alle vermogensbestanddelen van het:
+1. Op het tijdstip van inwerkingtreding van [artikel II, onderdeel D](https://wetten.overheid.nl/jci1.3:c:BWBR0036083&hoofdstuk=2&artikel=II&z=2017-01-01&g=2017-01-01), van deze wet gaan alle vermogensbestanddelen van het:
 
 - a. Hoofdproductschap Akkerbouw,
 
@@ -275,13 +275,13 @@ onder algemene titel over op de staat zonder dat daarvoor een akte of betekening
 
 ##### Artikel XXXVIII
 
-1. Indien krachtens [artikel XXXVII, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036083&hoofdstuk=4&paragraaf=1&artikel=XXXVII&z=2015-01-01&g=2015-01-01), baten van de in dat lid, onderdelen c, g, i en k, bedoelde bedrijfslichamen overgaan die krachtens een heffing zijn verkregen met het oog op het weren of bestrijden van dierziekten, zoönosen of ziekteverschijnselen, worden die baten op het in artikel XXXVII, eerste lid, bedoelde tijdstip geboekt op de rekening van het Diergezondheidsfonds, bedoeld in [artikel 95a van de Gezondheids- en welzijnswet voor dieren](https://wetten.overheid.nl/jci1.3:c:BWBR0005662&artikel=95a), voor zover Onze Minister op dat tijdstip regels heeft gesteld omtrent het weren of bestrijden van de desbetreffende dierziekte, zoönose of ziekteverschijnsel.
+1. Indien krachtens [artikel XXXVII, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036083&hoofdstuk=4&paragraaf=1&artikel=XXXVII&z=2017-01-01&g=2017-01-01), baten van de in dat lid, onderdelen c, g, i en k, bedoelde bedrijfslichamen overgaan die krachtens een heffing zijn verkregen met het oog op het weren of bestrijden van dierziekten, zoönosen of ziekteverschijnselen, worden die baten op het in artikel XXXVII, eerste lid, bedoelde tijdstip geboekt op de rekening van het Diergezondheidsfonds, bedoeld in [artikel 95a van de Gezondheids- en welzijnswet voor dieren](https://wetten.overheid.nl/jci1.3:c:BWBR0005662&artikel=95a), voor zover Onze Minister op dat tijdstip regels heeft gesteld omtrent het weren of bestrijden van de desbetreffende dierziekte, zoönose of ziekteverschijnsel.
 
 2. De in het eerste lid bedoelde baten worden uitsluitend benut ten behoeve van het verrichten van betalingen en het uitkeren van tegemoetkomingen uit het Diergezondheidsfonds die verband houden met dierziekten, zoönosen of ziekteverschijnselen waarvoor die middelen door de betrokken bedrijfslichamen waren bestemd.
 
 ##### Artikel XXXIX
 
-1. Onze Minister is belast met de vereffening van het vermogen van de in [artikel XXXVII, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036083&hoofdstuk=4&paragraaf=1&artikel=XXXVII&z=2015-01-01&g=2015-01-01), genoemde bedrijfslichamen.
+1. Onze Minister is belast met de vereffening van het vermogen van de in [artikel XXXVII, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036083&hoofdstuk=4&paragraaf=1&artikel=XXXVII&z=2017-01-01&g=2017-01-01), genoemde bedrijfslichamen.
 
 2. Het vermogen van ieder bedrijfslichaam wordt afzonderlijk vereffend.
 
@@ -295,13 +295,13 @@ De kosten van de vereffening van het vermogen van een bedrijfslichaam komen ten 
 
 ##### Artikel XLI
 
-1. De door bedrijfslichamen vastgestelde verordeningen met betrekking tot het vaststellen en opleggen van heffingen, die van kracht waren onmiddellijk voorafgaand aan het tijdstip van inwerkingtreding van [artikel II, onderdeel D](https://wetten.overheid.nl/jci1.3:c:BWBR0036083&hoofdstuk=2&artikel=II&z=2015-01-01&g=2015-01-01), van deze wet, blijven van kracht totdat de vereffening van het vermogen van het desbetreffende bedrijfslichaam is beëindigd.
+1. De door bedrijfslichamen vastgestelde verordeningen met betrekking tot het vaststellen en opleggen van heffingen, die van kracht waren onmiddellijk voorafgaand aan het tijdstip van inwerkingtreding van [artikel II, onderdeel D](https://wetten.overheid.nl/jci1.3:c:BWBR0036083&hoofdstuk=2&artikel=II&z=2017-01-01&g=2017-01-01), van deze wet, blijven van kracht totdat de vereffening van het vermogen van het desbetreffende bedrijfslichaam is beëindigd.
 
-2. Na de inwerkingtreding van [artikel II, onderdeel D](https://wetten.overheid.nl/jci1.3:c:BWBR0036083&hoofdstuk=2&artikel=II&z=2015-01-01&g=2015-01-01), van deze wet oefent Onze Minister de bevoegdheden uit tot het opleggen van heffingen die het krachtens de verordening daartoe bevoegde orgaan van het bedrijfslichaam op grond van een verordening als bedoeld in het eerste lid toekwamen met dien verstande dat geen heffing kan worden opgelegd voor een feit dat heeft plaatsgehad of een periode die is gelegen na het tijdstip van inwerkingtreding van artikel II, onderdeel D, van deze wet.
+2. Na de inwerkingtreding van [artikel II, onderdeel D](https://wetten.overheid.nl/jci1.3:c:BWBR0036083&hoofdstuk=2&artikel=II&z=2017-01-01&g=2017-01-01), van deze wet oefent Onze Minister de bevoegdheden uit tot het opleggen van heffingen die het krachtens de verordening daartoe bevoegde orgaan van het bedrijfslichaam op grond van een verordening als bedoeld in het eerste lid toekwamen met dien verstande dat geen heffing kan worden opgelegd voor een feit dat heeft plaatsgehad of een periode die is gelegen na het tijdstip van inwerkingtreding van artikel II, onderdeel D, van deze wet.
 
-3. Het eerste en tweede lid zijn van overeenkomstige toepassing op door bedrijfslichamen vastgestelde verordeningen met betrekking tot het vaststellen en opleggen van heffingen die na het tijdstip van inwerkingtreding van [artikel II, onderdeel D](https://wetten.overheid.nl/jci1.3:c:BWBR0036083&hoofdstuk=2&artikel=II&z=2015-01-01&g=2015-01-01), van deze wet door de sociaaleconomische Raad zijn goedgekeurd.
+3. Het eerste en tweede lid zijn van overeenkomstige toepassing op door bedrijfslichamen vastgestelde verordeningen met betrekking tot het vaststellen en opleggen van heffingen die na het tijdstip van inwerkingtreding van [artikel II, onderdeel D](https://wetten.overheid.nl/jci1.3:c:BWBR0036083&hoofdstuk=2&artikel=II&z=2017-01-01&g=2017-01-01), van deze wet door de sociaaleconomische Raad zijn goedgekeurd.
 
-4. Indien het vermogen van een bedrijfslichaam onvoldoende is om de schulden van het bedrijfslichaam te voldoen, kan bij ministeriële regeling aan ondernemingen welke ingevolge het instellingsbesluit van het bedrijfslichaam zoals dat luidde op het tijdstip van inwerkingtreding van [artikel II, onderdeel D](https://wetten.overheid.nl/jci1.3:c:BWBR0036083&hoofdstuk=2&artikel=II&z=2015-01-01&g=2015-01-01), van deze wet onder de werkingssfeer van het betrokken bedrijfslichaam vielen, een heffing wordt opgelegd.
+4. Indien het vermogen van een bedrijfslichaam onvoldoende is om de schulden van het bedrijfslichaam te voldoen, kan bij ministeriële regeling aan ondernemingen welke ingevolge het instellingsbesluit van het bedrijfslichaam zoals dat luidde op het tijdstip van inwerkingtreding van [artikel II, onderdeel D](https://wetten.overheid.nl/jci1.3:c:BWBR0036083&hoofdstuk=2&artikel=II&z=2017-01-01&g=2017-01-01), van deze wet onder de werkingssfeer van het betrokken bedrijfslichaam vielen, een heffing wordt opgelegd.
 
 5. In een krachtens het vierde lid vast te stellen regeling kan worden bepaald dat voor daarbij aan te wijzen categorieën van ondernemingen verschillende bedragen worden vastgesteld.
 
@@ -309,21 +309,21 @@ De kosten van de vereffening van het vermogen van een bedrijfslichaam komen ten 
 
 ##### Artikel XLII
 
-1. Op grond van [artikel 127, eerste lid, van de Wet op de bedrijfsorganisatie](https://wetten.overheid.nl/jci1.3:c:BWBR0002058&artikel=127) uitgevaardigde dwangbevelen behouden hun rechtskracht. Artikel 127, vierde, vijfde en zesde lid, van de Wet op de bedrijfsorganisatie zoals dat luidde onmiddellijk voorafgaand aan het tijdstip van inwerkingtreding van [artikel II, onderdeel D](https://wetten.overheid.nl/jci1.3:c:BWBR0036083&hoofdstuk=2&artikel=II&z=2015-01-01&g=2015-01-01), van deze wet, is van toepassing.
+1. Op grond van [artikel 127, eerste lid, van de Wet op de bedrijfsorganisatie](https://wetten.overheid.nl/jci1.3:c:BWBR0002058&artikel=127) uitgevaardigde dwangbevelen behouden hun rechtskracht. Artikel 127, vierde, vijfde en zesde lid, van de Wet op de bedrijfsorganisatie zoals dat luidde onmiddellijk voorafgaand aan het tijdstip van inwerkingtreding van [artikel II, onderdeel D](https://wetten.overheid.nl/jci1.3:c:BWBR0036083&hoofdstuk=2&artikel=II&z=2017-01-01&g=2017-01-01), van deze wet, is van toepassing.
 
-2. Onze Minister kan de bedragen die onmiddellijk voorafgaand aan het tijdstip van inwerkingtreding van [artikel II, onderdeel D](https://wetten.overheid.nl/jci1.3:c:BWBR0036083&hoofdstuk=2&artikel=II&z=2015-01-01&g=2015-01-01), van deze wet ter zake van heffingen aan een bedrijfslichaam waren verschuldigd en waarvoor nog geen dwangbevel als bedoeld in het eerste lid was uitgevaardigd, en de bedragen die krachtens [artikel XLI, tweede, derde of vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036083&hoofdstuk=4&paragraaf=1&artikel=XLI&z=2015-01-01&g=2015-01-01), zijn verschuldigd, verhoogd met de kosten van de invordering, bij dwangbevel invorderen. [Artikel 127, derde, vierde, vijfde en zesde lid, van de Wet op de bedrijfsorganisatie](https://wetten.overheid.nl/jci1.3:c:BWBR0002058&artikel=127) zoals dat luidde onmiddellijk voorafgaand aan het tijdstip van inwerkingtreding van artikel II, onderdeel D, van deze wet, is van toepassing, met dien verstande dat in plaats van «het betrokken bedrijfslichaam» wordt gelezen: Onze Minister van Economische Zaken.
+2. Onze Minister kan de bedragen die onmiddellijk voorafgaand aan het tijdstip van inwerkingtreding van [artikel II, onderdeel D](https://wetten.overheid.nl/jci1.3:c:BWBR0036083&hoofdstuk=2&artikel=II&z=2017-01-01&g=2017-01-01), van deze wet ter zake van heffingen aan een bedrijfslichaam waren verschuldigd en waarvoor nog geen dwangbevel als bedoeld in het eerste lid was uitgevaardigd, en de bedragen die krachtens [artikel XLI, tweede, derde of vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036083&hoofdstuk=4&paragraaf=1&artikel=XLI&z=2017-01-01&g=2017-01-01), zijn verschuldigd, verhoogd met de kosten van de invordering, bij dwangbevel invorderen. [Artikel 127, derde, vierde, vijfde en zesde lid, van de Wet op de bedrijfsorganisatie](https://wetten.overheid.nl/jci1.3:c:BWBR0002058&artikel=127) zoals dat luidde onmiddellijk voorafgaand aan het tijdstip van inwerkingtreding van artikel II, onderdeel D, van deze wet, is van toepassing, met dien verstande dat in plaats van «het betrokken bedrijfslichaam» wordt gelezen: Onze Minister van Economische Zaken.
 
-3. Aanmaningen verzonden door de bedrijfslichamen worden met ingang van het tijdstip van inwerkingtreding van [artikel II, onderdeel D](https://wetten.overheid.nl/jci1.3:c:BWBR0036083&hoofdstuk=2&artikel=II&z=2015-01-01&g=2015-01-01), van deze wet beschouwd als aanmaningen verzonden door Onze Minister.
+3. Aanmaningen verzonden door de bedrijfslichamen worden met ingang van het tijdstip van inwerkingtreding van [artikel II, onderdeel D](https://wetten.overheid.nl/jci1.3:c:BWBR0036083&hoofdstuk=2&artikel=II&z=2017-01-01&g=2017-01-01), van deze wet beschouwd als aanmaningen verzonden door Onze Minister.
 
 #### § 2. Verloop van de vereffening
 
 ##### Artikel XLIII
 
-1. Binnen zes maanden na het tijdstip van inwerkingtreding van [artikel II, onderdeel D](https://wetten.overheid.nl/jci1.3:c:BWBR0036083&hoofdstuk=2&artikel=II&z=2015-01-01&g=2015-01-01), van deze wet, stelt Onze Minister voor ieder bedrijfslichaam de rekening der inkomsten en uitgaven vast over de periode onmiddellijk voorafgaand aan de opheffing waarover niet met toepassing van [artikel 124 van de Wet op de bedrijfsorganisatie](https://wetten.overheid.nl/jci1.3:c:BWBR0002058&artikel=124) die rekening is vastgesteld.
+1. Binnen zes maanden na het tijdstip van inwerkingtreding van [artikel II, onderdeel D](https://wetten.overheid.nl/jci1.3:c:BWBR0036083&hoofdstuk=2&artikel=II&z=2017-01-01&g=2017-01-01), van deze wet, stelt Onze Minister voor ieder bedrijfslichaam de rekening der inkomsten en uitgaven vast over de periode onmiddellijk voorafgaand aan de opheffing waarover niet met toepassing van [artikel 124 van de Wet op de bedrijfsorganisatie](https://wetten.overheid.nl/jci1.3:c:BWBR0002058&artikel=124) die rekening is vastgesteld.
 
 2. Alvorens Onze Minister de rekening der inkomsten en uitgaven vaststelt, legt hij een ontwerp daarvan voor onderzoek voor aan een onafhankelijke accountant die is ingeschreven in het accountantsregister, bedoeld in [artikel 36 van de Wet op het accountantsberoep](https://wetten.overheid.nl/jci1.3:c:BWBR0032573&artikel=36). Het onderzoek wordt niet opgedragen aan de accountant die laatstelijk de interne accountant van het desbetreffende bedrijfslichaam is geweest.
 
-3. De accountant verricht zijn onderzoek met overeenkomstige toepassing van de voorschriften in de [Verordening financiën bedrijfslichamen 2011](https://wetten.overheid.nl/jci1.3:c:BWBR0029876) met betrekking tot de jaarrekening en geeft de uitslag van zijn onderzoek weer in een controleverklaring omtrent de getrouwheid van de inkomsten en uitgaven. [Artikel XL](https://wetten.overheid.nl/jci1.3:c:BWBR0036083&hoofdstuk=4&paragraaf=1&artikel=XL&z=2015-01-01&g=2015-01-01) is van overeenkomstige toepassing op de kosten van de werkzaamheden van de accountant.
+3. De accountant verricht zijn onderzoek met overeenkomstige toepassing van de voorschriften in de [Verordening financiën bedrijfslichamen 2011](https://wetten.overheid.nl/jci1.3:c:BWBR0029876) met betrekking tot de jaarrekening en geeft de uitslag van zijn onderzoek weer in een controleverklaring omtrent de getrouwheid van de inkomsten en uitgaven. [Artikel XL](https://wetten.overheid.nl/jci1.3:c:BWBR0036083&hoofdstuk=4&paragraaf=1&artikel=XL&z=2017-01-01&g=2017-01-01) is van overeenkomstige toepassing op de kosten van de werkzaamheden van de accountant.
 
 4. Onze Minister stelt de rekening der inkomsten en uitgaven van een bedrijfslichaam niet eerder vast dan nadat hij kennis heeft kunnen nemen van de verklaring van de accountant.
 
@@ -333,7 +333,7 @@ De kosten van de vereffening van het vermogen van een bedrijfslichaam komen ten 
 
 ##### Artikel XLIV
 
-Terstond na de in [artikel XLIII](https://wetten.overheid.nl/jci1.3:c:BWBR0036083&hoofdstuk=4&paragraaf=2&artikel=XLIII&z=2015-01-01&g=2015-01-01) bedoelde vaststelling van de rekening der inkomsten en uitgaven stelt Onze Minister een boedelbeschrijving op van het desbetreffende bedrijfslichaam. Onze Minister legt de boedelbeschrijving ter inzage op het Ministerie van Economische Zaken en doet daarvan mededeling in de Staatscourant.
+Terstond na de in [artikel XLIII](https://wetten.overheid.nl/jci1.3:c:BWBR0036083&hoofdstuk=4&paragraaf=2&artikel=XLIII&z=2017-01-01&g=2017-01-01) bedoelde vaststelling van de rekening der inkomsten en uitgaven stelt Onze Minister een boedelbeschrijving op van het desbetreffende bedrijfslichaam. Onze Minister legt de boedelbeschrijving ter inzage op het Ministerie van Economische Zaken en doet daarvan mededeling in de Staatscourant.
 
 ##### Artikel XLV
 
@@ -345,7 +345,7 @@ Terstond na de in [artikel XLIII](https://wetten.overheid.nl/jci1.3:c:BWBR003608
 
 1. Onze Minister beëindigt de vereffening van het vermogen van een bedrijfslichaam indien de hem bekende vorderingen op dat bedrijfslichaam zijn voldaan en hem geen mogelijke toekomstige vorderingen meer bekend zijn.
 
-2. Een vereffening wordt niet eerder beëindigd dan nadat twee jaren na het tijdstip van inwerkingtreding van [artikel II, onderdeel D](https://wetten.overheid.nl/jci1.3:c:BWBR0036083&hoofdstuk=2&artikel=II&z=2015-01-01&g=2015-01-01), van deze wet zijn verstreken.
+2. Een vereffening wordt niet eerder beëindigd dan nadat twee jaren na het tijdstip van inwerkingtreding van [artikel II, onderdeel D](https://wetten.overheid.nl/jci1.3:c:BWBR0036083&hoofdstuk=2&artikel=II&z=2017-01-01&g=2017-01-01), van deze wet zijn verstreken.
 
 3. Met het oog op de beëindiging van de vereffening stelt Onze Minister een rekening en verantwoording op van de vereffening van het vermogen van het bedrijfslichaam.
 
@@ -367,9 +367,9 @@ Indien na de beëindiging van de vereffening van het vermogen van een bedrijfsli
 
 ##### Artikel XLVIII
 
-1. De tuchtgerechten van de bedrijfslichamen blijven in functie voor de afhandeling van, en voor de duur van, zaken die overtredingen betreffen waarvoor een berechtingsrapport is opgemaakt voor het tijdstip van inwerkingtreding van [artikel II, onderdeel D](https://wetten.overheid.nl/jci1.3:c:BWBR0036083&hoofdstuk=2&artikel=II&z=2015-01-01&g=2015-01-01), van deze wet.
+1. De tuchtgerechten van de bedrijfslichamen blijven in functie voor de afhandeling van, en voor de duur van, zaken die overtredingen betreffen waarvoor een berechtingsrapport is opgemaakt voor het tijdstip van inwerkingtreding van [artikel II, onderdeel D](https://wetten.overheid.nl/jci1.3:c:BWBR0036083&hoofdstuk=2&artikel=II&z=2017-01-01&g=2017-01-01), van deze wet.
 
-2. Op de tuchtgerechten van de bedrijfslichamen, de behandeling van zaken als bedoeld in het eerste lid en het hoger beroep tegen uitspraken van de tuchtgerechten van bedrijfslichamen in zaken als bedoeld in het eerste lid, is met ingang van het tijdstip van inwerkingtreding van [artikel X](https://wetten.overheid.nl/jci1.3:c:BWBR0036083&hoofdstuk=3&paragraaf=3&artikel=X&z=2015-01-01&g=2015-01-01) van deze wet de [Wet tuchtrechtspraak bedrijfsorganisatie 2004](https://wetten.overheid.nl/jci1.3:c:BWBR0016341&wetgeving) van toepassing zoals die wet luidde onmiddellijk voorafgaand aan het tijdstip dat die wet werd ingetrokken, met dien verstande dat voor de toepassing van de Wet tuchtrechtspraak bedrijfsorganisatie 2004 in die gevallen:
+2. Op de tuchtgerechten van de bedrijfslichamen, de behandeling van zaken als bedoeld in het eerste lid en het hoger beroep tegen uitspraken van de tuchtgerechten van bedrijfslichamen in zaken als bedoeld in het eerste lid, is met ingang van het tijdstip van inwerkingtreding van [artikel X](https://wetten.overheid.nl/jci1.3:c:BWBR0036083&hoofdstuk=3&paragraaf=3&artikel=X&z=2017-01-01&g=2017-01-01) van deze wet de [Wet tuchtrechtspraak bedrijfsorganisatie 2004](https://wetten.overheid.nl/jci1.3:c:BWBR0016341) van toepassing zoals die wet luidde onmiddellijk voorafgaand aan het tijdstip dat die wet werd ingetrokken, met dien verstande dat voor de toepassing van de Wet tuchtrechtspraak bedrijfsorganisatie 2004 in die gevallen:
 
 - a. in plaats van «de voorzitter van het bedrijfslichaam die de vordering aanhangig heeft gemaakt» wordt gelezen: Onze Minister van Economische Zaken;
 
@@ -383,23 +383,23 @@ Indien na de beëindiging van de vereffening van het vermogen van een bedrijfsli
 
 ##### Artikel XLIX
 
-1. In wettelijke procedures en rechtsgedingen, waarbij een bedrijfslichaam is betrokken, treedt op het tijdstip van inwerkingtreding van [artikel II, onderdeel D](https://wetten.overheid.nl/jci1.3:c:BWBR0036083&hoofdstuk=2&artikel=II&z=2015-01-01&g=2015-01-01), van deze wet Onze Minister in de plaats van het bedrijfslichaam.
+1. In wettelijke procedures en rechtsgedingen, waarbij een bedrijfslichaam is betrokken, treedt op het tijdstip van inwerkingtreding van [artikel II, onderdeel D](https://wetten.overheid.nl/jci1.3:c:BWBR0036083&hoofdstuk=2&artikel=II&z=2017-01-01&g=2017-01-01), van deze wet Onze Minister in de plaats van het bedrijfslichaam.
 
-2. Onze Minister treedt voorts in de plaats van de bedrijfslichamen in wettelijke procedures en rechtsgedingen die aanvangen na het tijdstip van inwerkingtreding van [artikel II, onderdeel D](https://wetten.overheid.nl/jci1.3:c:BWBR0036083&hoofdstuk=2&artikel=II&z=2015-01-01&g=2015-01-01), van deze wet.
+2. Onze Minister treedt voorts in de plaats van de bedrijfslichamen in wettelijke procedures en rechtsgedingen die aanvangen na het tijdstip van inwerkingtreding van [artikel II, onderdeel D](https://wetten.overheid.nl/jci1.3:c:BWBR0036083&hoofdstuk=2&artikel=II&z=2017-01-01&g=2017-01-01), van deze wet.
 
-3. In zaken waarin voor het tijdstip van inwerkingtreding van [artikel II, onderdeel D](https://wetten.overheid.nl/jci1.3:c:BWBR0036083&hoofdstuk=2&artikel=II&z=2015-01-01&g=2015-01-01), van deze wet aan de Nationale ombudsman is verzocht een onderzoek te doen dan wel de Nationale ombudsman een onderzoek heeft ingesteld naar een gedraging die kan worden toegerekend aan een bedrijfslichaam, treedt Onze Minister op dat tijdstip als bestuursorgaan in de zin van de [Wet Nationale ombudsman](https://wetten.overheid.nl/jci1.3:c:BWBR0003372) in de plaats van het bedrijfslichaam.
+3. In zaken waarin voor het tijdstip van inwerkingtreding van [artikel II, onderdeel D](https://wetten.overheid.nl/jci1.3:c:BWBR0036083&hoofdstuk=2&artikel=II&z=2017-01-01&g=2017-01-01), van deze wet aan de Nationale ombudsman is verzocht een onderzoek te doen dan wel de Nationale ombudsman een onderzoek heeft ingesteld naar een gedraging die kan worden toegerekend aan een bedrijfslichaam, treedt Onze Minister op dat tijdstip als bestuursorgaan in de zin van de [Wet Nationale ombudsman](https://wetten.overheid.nl/jci1.3:c:BWBR0003372) in de plaats van het bedrijfslichaam.
 
 ##### Artikel L
 
-Indien door een bedrijfslichaam voorafgaand aan het tijdstip van inwerkingtreding van [artikel II, onderdeel D](https://wetten.overheid.nl/jci1.3:c:BWBR0036083&hoofdstuk=2&artikel=II&z=2015-01-01&g=2015-01-01), van deze wet een beschikking tot subsidieverlening is gegeven en voor de desbetreffende subsidie nog geen beschikking tot subsidievaststelling is gegeven, is Onze Minister bevoegd de beschikking tot subsidievaststelling te geven.
+Indien door een bedrijfslichaam voorafgaand aan het tijdstip van inwerkingtreding van [artikel II, onderdeel D](https://wetten.overheid.nl/jci1.3:c:BWBR0036083&hoofdstuk=2&artikel=II&z=2017-01-01&g=2017-01-01), van deze wet een beschikking tot subsidieverlening is gegeven en voor de desbetreffende subsidie nog geen beschikking tot subsidievaststelling is gegeven, is Onze Minister bevoegd de beschikking tot subsidievaststelling te geven.
 
 ##### Artikel LI
 
-Dwangsommen als bedoeld in [artikel 4:17 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:17), waarvoor Onze Minister binnen zes weken na het tijdstip van inwerkingtreding van [artikel II, onderdeel D](https://wetten.overheid.nl/jci1.3:c:BWBR0036083&hoofdstuk=2&artikel=II&z=2015-01-01&g=2015-01-01), van deze wet een ingebrekestelling ontvangt, komen ten laste van het vermogen van het bedrijfslichaam indien op het tijdstip van inwerkingtreding van artikel II, onderdeel D, van deze wet de beschikking door het bedrijfslichaam niet tijdig was gegeven en het verbeuren van de dwangsom aan het bedrijfslichaam te wijten is.
+Dwangsommen als bedoeld in [artikel 4:17 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:17), waarvoor Onze Minister binnen zes weken na het tijdstip van inwerkingtreding van [artikel II, onderdeel D](https://wetten.overheid.nl/jci1.3:c:BWBR0036083&hoofdstuk=2&artikel=II&z=2017-01-01&g=2017-01-01), van deze wet een ingebrekestelling ontvangt, komen ten laste van het vermogen van het bedrijfslichaam indien op het tijdstip van inwerkingtreding van artikel II, onderdeel D, van deze wet de beschikking door het bedrijfslichaam niet tijdig was gegeven en het verbeuren van de dwangsom aan het bedrijfslichaam te wijten is.
 
 ##### Artikel LII
 
-Het [Besluit opheffing Landbouwschap](https://wetten.overheid.nl/jci1.3:c:BWBR0011674), zoals dat luidde onmiddellijk voorafgaand aan het tijdstip van inwerkingtreding van [artikel II, onderdeel D](https://wetten.overheid.nl/jci1.3:c:BWBR0036083&hoofdstuk=2&artikel=II&z=2015-01-01&g=2015-01-01), van deze wet blijft van toepassing op de vereffening van het vermogen van het Landbouwschap tot het tijdstip waarop de in [artikel 9, vierde lid, van dat besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0011674&artikel=9) bedoelde openbare kennisgeving is gedaan.
+Het [Besluit opheffing Landbouwschap](https://wetten.overheid.nl/jci1.3:c:BWBR0011674), zoals dat luidde onmiddellijk voorafgaand aan het tijdstip van inwerkingtreding van [artikel II, onderdeel D](https://wetten.overheid.nl/jci1.3:c:BWBR0036083&hoofdstuk=2&artikel=II&z=2017-01-01&g=2017-01-01), van deze wet blijft van toepassing op de vereffening van het vermogen van het Landbouwschap tot het tijdstip waarop de in [artikel 9, vierde lid, van dat besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0011674&artikel=9) bedoelde openbare kennisgeving is gedaan.
 
 ##### Artikel LIII
 
@@ -407,7 +407,7 @@ De [artikelen 126, zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002058&
 
 ##### Artikel LIV
 
-In [artikel XVIII](https://wetten.overheid.nl/jci1.3:c:BWBR0036083&hoofdstuk=3&paragraaf=6&artikel=XVIII&z=2015-01-01&g=2015-01-01) wordt tot 1 januari 2018 voor «benoemd door de daartoe bij reglement aangewezen organisaties» gelezen: benoemd door de daartoe bij reglement aangewezen organisaties of, voor zover daarin bij reglement nog niet is voorzien, een door Onze Minister aangewezen organisatie.
+In [artikel XVIII](https://wetten.overheid.nl/jci1.3:c:BWBR0036083&hoofdstuk=3&paragraaf=6&artikel=XVIII&z=2017-01-01&g=2017-01-01) wordt tot 1 januari 2018 voor «benoemd door de daartoe bij reglement aangewezen organisaties» gelezen: benoemd door de daartoe bij reglement aangewezen organisaties of, voor zover daarin bij reglement nog niet is voorzien, een door Onze Minister aangewezen organisatie.
 
 ### Hoofdstuk 6. Samenloop- en slotbepalingen
 
@@ -415,9 +415,9 @@ In [artikel XVIII](https://wetten.overheid.nl/jci1.3:c:BWBR0036083&hoofdstuk=3&p
 
 1. Archiefbescheiden van de bedrijfslichamen betreffende zaken die op grond van deze wet worden behartigd door Onze Minister, worden overgedragen aan Onze Minister, voor zover zij niet overeenkomstig de [Archiefwet 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007376) zijn overgebracht naar een archiefbewaarplaats.
 
-2. Archiefbescheiden van de bedrijfslichamen betreffende zaken die betrekking hebben op taken en werkzaamheden van een bedrijfslichaam welke op het tijdstip van inwerkingtreding van [artikel II, onderdeel D](https://wetten.overheid.nl/jci1.3:c:BWBR0036083&hoofdstuk=2&artikel=II&z=2015-01-01&g=2015-01-01), van deze wet zijn beëindigd, worden overgedragen aan Onze Minister. Indien zij ingevolge de [Archiefwet 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007376) voor blijvende bewaring in aanmerking komen worden zij, zo nodig door tussenkomst van Onze Minister, overeenkomstig de Archiefwet 1995 overgebracht naar een archiefbewaarplaats.
+2. Archiefbescheiden van de bedrijfslichamen betreffende zaken die betrekking hebben op taken en werkzaamheden van een bedrijfslichaam welke op het tijdstip van inwerkingtreding van [artikel II, onderdeel D](https://wetten.overheid.nl/jci1.3:c:BWBR0036083&hoofdstuk=2&artikel=II&z=2017-01-01&g=2017-01-01), van deze wet zijn beëindigd, worden overgedragen aan Onze Minister. Indien zij ingevolge de [Archiefwet 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007376) voor blijvende bewaring in aanmerking komen worden zij, zo nodig door tussenkomst van Onze Minister, overeenkomstig de Archiefwet 1995 overgebracht naar een archiefbewaarplaats.
 
-3. Onze Minister is met ingang van het tijdstip van inwerkingtreding van [artikel II, onderdeel D](https://wetten.overheid.nl/jci1.3:c:BWBR0036083&hoofdstuk=2&artikel=II&z=2015-01-01&g=2015-01-01), van deze wet zorgdrager voor de archiefbescheiden die door de bedrijfslichamen ter beschikking zijn gesteld aan privaatrechtelijke rechtspersonen.
+3. Onze Minister is met ingang van het tijdstip van inwerkingtreding van [artikel II, onderdeel D](https://wetten.overheid.nl/jci1.3:c:BWBR0036083&hoofdstuk=2&artikel=II&z=2017-01-01&g=2017-01-01), van deze wet zorgdrager voor de archiefbescheiden die door de bedrijfslichamen ter beschikking zijn gesteld aan privaatrechtelijke rechtspersonen.
 
 ##### Artikel LVI
 
@@ -433,7 +433,7 @@ Wijzigt de Waterschapswet.
 
 ##### Artikel LVIIIa
 
-Onze Minister van Economische Zaken zendt binnen vijf jaar na de inwerkingtreding van [artikel II, onderdeel D](https://wetten.overheid.nl/jci1.3:c:BWBR0036083&hoofdstuk=2&artikel=II&z=2015-01-01&g=2015-01-01), van deze wet aan de Staten-Generaal een verslag over de doeltreffendheid en de effecten van deze wet in de praktijk.
+Onze Minister van Economische Zaken zendt binnen vijf jaar na de inwerkingtreding van [artikel II, onderdeel D](https://wetten.overheid.nl/jci1.3:c:BWBR0036083&hoofdstuk=2&artikel=II&z=2017-01-01&g=2017-01-01), van deze wet aan de Staten-Generaal een verslag over de doeltreffendheid en de effecten van deze wet in de praktijk.
 
 ##### Artikel LIX
 
