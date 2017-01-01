@@ -4,7 +4,7 @@ identifier: "BWBR0020561"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-01-01"
-last_updated: "2016-04-01"
+last_updated: "2017-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0020561"
 soort: "ministeriele-regeling"
@@ -54,26 +54,26 @@ In deze regeling wordt verstaan onder:
 
 ##### Artikel 2
 
-1. De Minister kan ten behoeve van het jaar 2016 aan de volgende gemeenten een specifieke uitkering van ten hoogste het bij de desbetreffende gemeente genoemde bedrag verstrekken voor de werkelijke kosten van het exploiteren van het bij de desbetreffende gemeente genoemde aantal behandeleenheden met in totaal ten hoogste het bij de desbetreffende gemeente genoemde aantal behandelplaatsen:
+1. De Minister kan ten behoeve van het jaar 2017 aan de volgende gemeenten een specifieke uitkering van ten hoogste het bij de desbetreffende gemeente genoemde bedrag verstrekken voor de werkelijke kosten van het exploiteren van het bij de desbetreffende gemeente genoemde aantal behandeleenheden met in totaal ten hoogste het bij de desbetreffende gemeente genoemde aantal behandelplaatsen:
 
-| naam gemeente | aantal behandel- eenheden | maximum aantal behandelplaatsen | maximale uitkering 2016 |
+| naam gemeente | aantal behandel- eenheden | maximum aantal behandelplaatsen | maximale uitkering 2017 |
 | --- | --- | --- | --- |
-| Amsterdam | 2 | 138 | € 2.328.000 |
-| Apeldoorn | 1 | 24 | € 592.000 |
-| Arnhem | 1 | 24 | € 592.000 |
-| Den Haag | 1 | 75 | € 1.230.000 |
-| Deventer | 1 | 20 | € 521.000 |
-| Eindhoven | 1 | 20 | € 521.000 |
-| Enschede | 1 | 24 | € 592.000 |
-| Groningen | 1 | 50 | € 968.000 |
-| Heerlen | 1 | 35 | € 769.000 |
-| ’s-Hertogenbosch | 1 | 20 | € 521.000 |
-| Leeuwarden | 1 | 30 | € 694.000 |
-| Maastricht | 1 | 20 | € 521.000 |
-| Nijmegen | 1 | 21 | € 536.000 |
-| Rotterdam | 2 | 116 | € 2.049.000 |
-| Tilburg | 1 | 20 | € 521.000 |
-| Utrecht | 1 | 45 | € 905.000 |
+| Amsterdam | 2 | 133 | € 2.307.806 |
+| Apeldoorn | 1 | 21 | € 543.451 |
+| Arnhem | 1 | 24 | € 600.241 |
+| Den Haag | 1 | 73 | € 1.226.082 |
+| Deventer | 1 | 20 | € 528.252 |
+| Eindhoven | 1 | 20 | € 528.252 |
+| Enschede | 1 | 26 | € 636.012 |
+| Groningen | 1 | 47 | € 944.092 |
+| Heerlen | 1 | 35 | € 779.704 |
+| ’s-Hertogenbosch | 1 | 20 | € 528.252 |
+| Leeuwarden | 1 | 30 | € 703.660 |
+| Maastricht | 1 | 20 | € 528.252 |
+| Nijmegen | 1 | 21 | € 543.451 |
+| Rotterdam | 1 | 114 | € 1.528.230 |
+| Tilburg | 1 | 20 | € 528.252 |
+| Utrecht | 1 | 44 | € 904.974 |
 
 2. Onder werkelijke kosten worden verstaan de exploitatiekosten, gebaseerd op bedrijfseconomische aanvaardbare principes, van een behandeleenheid met uitzondering van de huisvestingskosten.
 
@@ -163,7 +163,7 @@ Het college van burgemeester en wethouders neemt de volgende verantwoordingsinfo
 
 ##### Artikel 11
 
-De Minister geeft binnen zes maanden na ontvangst van de verantwoordingsinformatie, bedoeld in [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0020561&artikel=10&z=2016-04-01&g=2016-04-01), een beschikking tot vaststelling van de uitkering. De [artikelen 4:46](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:46), [4:49](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:49), [4:52](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:52), [4:56](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:56) en [4:57 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:57) zijn van overeenkomstige toepassing.
+De Minister geeft binnen zes maanden na ontvangst van de verantwoordingsinformatie, bedoeld in [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0020561&artikel=10&z=2017-01-01&g=2017-01-01), een beschikking tot vaststelling van de uitkering. De [artikelen 4:46](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:46), [4:49](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:49), [4:52](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:52), [4:56](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:56) en [4:57 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:57) zijn van overeenkomstige toepassing.
 
 ##### Artikel 12
 
