@@ -4,7 +4,7 @@ identifier: "BWBR0047710"
 country: "nl"
 rank: "wet"
 publication_date: "2024-01-01"
-last_updated: "2009-07-01"
+last_updated: "2017-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0047710"
 soort: "wet"
@@ -42,13 +42,9 @@ entry_into_force: "2023-01-01"
 
 Wijzigt de Wet inkomstenbelasting 2001.
 
-Dit onderdeel is nog niet inwerking getreden
-
 ##### Artikel II
 
 Wijzigt de Wet op de loonbelasting 1964.
-
-Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel III
 
