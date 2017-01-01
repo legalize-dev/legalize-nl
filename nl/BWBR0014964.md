@@ -4,7 +4,7 @@ identifier: "BWBR0014964"
 country: "nl"
 rank: "amvb"
 publication_date: "2020-08-01"
-last_updated: "2015-07-01"
+last_updated: "2017-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0014964"
 soort: "AMvB"
@@ -94,19 +94,19 @@ Als bestuursorganen als bedoeld in [artikel 27, eerste lid, onderdeel i, van de 
 
 ##### Artikel 7
 
-1. De bestuursorganen, genoemd in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0014964&artikel=6&z=2015-07-01&g=2015-07-01), en de bestuursorganen, genoemd in [artikel 27, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0013798&artikel=27), alsmede de gerechten bedoeld in [artikel 27a van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0013798&artikel=27a), verstrekken de gegevens, bedoeld in de aanhef van [artikel 27, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0013798&artikel=27), binnen twee weken nadat het Bureau om verstrekking heeft gevraagd.
+1. De bestuursorganen, genoemd in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0014964&artikel=6&z=2017-01-01&g=2017-01-01), en de bestuursorganen, genoemd in [artikel 27, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0013798&artikel=27), alsmede de gerechten bedoeld in [artikel 27a van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0013798&artikel=27a), verstrekken de gegevens, bedoeld in de aanhef van [artikel 27, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0013798&artikel=27), binnen twee weken nadat het Bureau om verstrekking heeft gevraagd.
 
 2. Indien de gegevens niet binnen twee weken kunnen worden verstrekt, stelt het desbetreffende bestuursorgaan het Bureau daarvan in kennis en noemt het daarbij een termijn waarbinnen de gegevens wel tegemoet kunnen worden gezien. Deze termijn bedraagt niet meer dan twee weken na afloop van de termijn, genoemd in het eerste lid.
 
 ##### Artikel 8
 
-Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin zij wordt geplaatst, met uitzondering van [artikel 6, onderdelen b. en c.](https://wetten.overheid.nl/jci1.3:c:BWBR0014964&artikel=6&z=2015-07-01&g=2015-07-01), dat in werking treedt op een bij koninklijk besluit te bepalen tijdstip.
+Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin zij wordt geplaatst, met uitzondering van [artikel 6, onderdelen b. en c.](https://wetten.overheid.nl/jci1.3:c:BWBR0014964&artikel=6&z=2017-01-01&g=2017-01-01), dat in werking treedt op een bij koninklijk besluit te bepalen tijdstip.
 
 ##### Artikel 9
 
 Dit besluit wordt aangehaald als: Besluit Bibob.
 
-## Bijlage. als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0014964&artikel=2&z=2015-07-01&g=2015-07-01) van het Besluit Bibob
+## Bijlage. als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0014964&artikel=2&z=2017-01-01&g=2017-01-01) van het Besluit Bibob
 
 ### Ministerie van Binnenlandse Zaken en Koninkrijksrelaties (BZK)
 
@@ -320,7 +320,7 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
 
-### Ministerie van Economische Zaken, Landbouw en Innovatie (EL&I)
+### Ministerie van Economische Zaken (EZ)
 
 ### Ministerie van Financiën
 
