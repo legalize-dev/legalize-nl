@@ -4,7 +4,7 @@ identifier: "BWBR0012066"
 country: "nl"
 rank: "amvb"
 publication_date: "2026-01-01"
-last_updated: "2016-01-01"
+last_updated: "2017-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0012066"
 soort: "AMvB"
@@ -50,7 +50,7 @@ Hebben goedgevonden en verstaan:
 
 ##### Artikel 1. Reikwijdte en definitie
 
-1. Dit besluit geeft uitvoering aan de [artikelen 1.7](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=1.7), [2.6](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=2.6), [3.11](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.11), [3.18](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.18), [3.20](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.20), [3.54](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.54), [3.83](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.83), [3.126](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.126), [3.126a](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.126a), [3.127](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.127), [4.25](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=4.25), [5.7](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=5.7), [5.16b](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=5.16b), [5.20](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=5.20), [5.22](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=5.22), [5.23](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=5.23), [6.1](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=6.1), [6.16](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=6.16), [6.25](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=6.25), [7.6](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=7.6), [7.8](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=7.8), [9.2](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=9.2), [10.8](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=10.8) en [10.9 van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=10.9) en aan [artikel 10a van de Algemene wet inzake rijksbelastingen](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=10a).
+1. Dit besluit geeft uitvoering aan de [artikelen 1.7](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=1.7), [2.6](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=2.6), [3.11](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.11), [3.18](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.18), [3.20](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.20), [3.54](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.54), [3.83](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.83), [3.126](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.126), [3.126a](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.126a), [3.127](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.127), [4.25](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=4.25), [5.7](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=5.7), [5.16b](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=5.16b), [5.20](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=5.20), [5.22](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=5.22), [5.23](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=5.23), [6.1](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=6.1), [6.16](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=6.16), [6.25](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=6.25), [7.6](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=7.6), [7.8](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=7.8), [10.8](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=10.8) en [10.9 van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=10.9) en aan [artikel 10a van de Algemene wet inzake rijksbelastingen](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=10a).
 
 2. Dit besluit verstaat onder wet: de [Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353).
 
@@ -209,9 +209,9 @@ verminderd met:
 
 - g. de waardedaling van de aandelen of winstbewijzen bij de belastingplichtige in de periode dat hij niet in Nederland belastingplichtig was, voor zover blijkt dat de waardedaling in die periode is ontstaan.
 
-Ingeval aan de in de eerste volzin lid bedoelde verkrijging meerdere vervreemdingen vooraf zijn gegaan ter zake waarvan conserverende belastingaanslagen zijn opgelegd waarvan het uitstel van betaling nog loopt, wordt voor de toepassing van de eerste volzin als uitgangspunt genomen de overdrachtsprijs waarvan is uitgegaan voor de laatste vervreemding en worden vervolgens met overeenkomstige toepassing van [artikel 15a, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012066&hoofdstuk=4&artikel=15a&z=2016-01-01&g=2016-01-01), de verminderingen en vermeerderingen van de eerste volzin toegepast.
+Ingeval aan de in de eerste volzin lid bedoelde verkrijging meerdere vervreemdingen vooraf zijn gegaan ter zake waarvan conserverende belastingaanslagen zijn opgelegd waarvan het uitstel van betaling nog loopt, wordt voor de toepassing van de eerste volzin als uitgangspunt genomen de overdrachtsprijs waarvan is uitgegaan voor de laatste vervreemding en worden vervolgens met overeenkomstige toepassing van [artikel 15a, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012066&hoofdstuk=4&artikel=15a&z=2017-01-01&g=2017-01-01), de verminderingen en vermeerderingen van de eerste volzin toegepast.
 
-[Artikel 15a, vierde en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012066&hoofdstuk=4&artikel=15a&z=2016-01-01&g=2016-01-01), is van overeenkomstige toepassing.
+[Artikel 15a, vierde en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012066&hoofdstuk=4&artikel=15a&z=2017-01-01&g=2017-01-01), is van overeenkomstige toepassing.
 
 11. Indien de belastingplichtige een aanmerkelijk belang in een vennootschap heeft die middellijk of onmiddellijk aandelen in of winstbewijzen van een in Nederland gevestigde vennootschap heeft en deze aandelen of winstbewijzen, al dan niet rechtstreeks, zijn verkregen van de belastingplichtige bij wie die aandelen of winstbewijzen tot een aanmerkelijk belang behoorden, wordt de verkrijgingsprijs volgens [artikel 4.21 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=4.21) van het eerstbedoelde aanmerkelijk belang verminderd met een bedrag, waarbij deze vermindering kan leiden tot een negatieve verkrijgingsprijs; de vermindering is gelijk aan het bedrag waarmee op het tijdstip van bedoelde verkrijging door de vennootschap de waarde in het economische verkeer van de door de vennootschap van de belastingplichtige verkregen aandelen of winstbewijzen de verkrijgingsprijs volgens artikel 4.21 van de wet van de belastingplichtige van die aandelen of winstbewijzen overtreft. De eerste volzin is niet van toepassing voorzover in Nederland inkomstenbelasting of in een ander land naar het inkomen geheven belasting is betaald over de waardeaangroei van laatstgenoemde aandelen of winstbewijzen die naar Nederlandse maatstaven redelijk is. Voor de berekening van de in het slot van de eerste volzin bedoelde vermindering, wordt de verkrijgingsprijs van de door de belastingplichtige aan de vennootschap vervreemde aandelen of winstbewijzen vermeerderd met de waardeaangroei, bedoeld in het derde lid, tot op het tijdstip van de in het slot van de in de eerste volzin bedoelde verkrijging door die vennootschap onderscheidenlijk verminderd met de waardedaling als bedoeld in het vierde lid tot op het tijdstip van die verkrijging.
 
@@ -223,7 +223,7 @@ Onder natuurterreinen als bedoeld in [artikel 5.7 van de wet](https://wetten.ove
 
 ##### Artikel 18. Waardering; waardering genotsrechten
 
-1. De waarde van een genotsrecht als bedoeld in [artikel 5.22, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=5.22) wordt gesteld op het overeenkomstig [artikel 19](https://wetten.overheid.nl/jci1.3:c:BWBR0012066&hoofdstuk=5&artikel=19&z=2016-01-01&g=2016-01-01) tot kapitaal gebrachte bedrag van de jaarlijkse voordelen uit de gerechtigdheid.
+1. De waarde van een genotsrecht als bedoeld in [artikel 5.22, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=5.22) wordt gesteld op het overeenkomstig [artikel 19](https://wetten.overheid.nl/jci1.3:c:BWBR0012066&hoofdstuk=5&artikel=19&z=2017-01-01&g=2017-01-01) tot kapitaal gebrachte bedrag van de jaarlijkse voordelen uit de gerechtigdheid.
 
 2. Voor de toepassing van het eerste lid worden de jaarlijkse voordelen gesteld op 4% van de waarde van hetgeen aan het genotsrecht is onderworpen, naar het tijdstip waarop de waardering van het genotsrecht plaatsvindt.
 
@@ -352,13 +352,13 @@ Vervallen
 
 ##### Artikel 21a. Als voorheffing aangewezen bronbelasting
 
-Als voorheffing worden aangewezen door Andorra, Curaçao, Liechtenstein, Monaco, San Marino, Sint Maarten en Zwitserland geheven bronbelasting over een uit die mogendheid als uiteindelijk gerechtigde als bedoeld in artikel 2 van de Richtlijn 2003/48/EG van de Raad van 3 juni 2003 betreffende belastingheffing op inkomsten uit spaargelden in de vorm van rentebetaling (PbEU 2003, L 157), genoten rentebetaling, mits de bronbelasting vergelijkbaar is met die in artikel 11 van die richtlijn en de rentebetaling valt onder de begripsomschrijving van artikel 6 van die richtlijn.
+Vervallen
 
-### Hoofdstuk 7A. Wijze van heffing ([Hoofdstuk 9 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&hoofdstuk=9))
+### Hoofdstuk 5. Heffingsgrondslag bij sparen en beleggen ([Hoofdstuk 5 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&hoofdstuk=5))
 
 ##### Artikel 22. Overige aanvullende regelingen; verstrekken van gegevens en inlichtingen
 
-1. Als administratieplichtigen als bedoeld in [artikel 10.8, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=10.8) worden aangewezen: banken, beheerders, beleggingsinstellingen, beleggingsondernemingen, betaaldienstverleners, elektronischgeldinstellingen, financiële instellingen, levensverzekeraars en schadeverzekeraars in de zin van de [Wet op het financieel toezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0020368) alsmede pensioenuitvoerders in de zin van [artikel 1 van de Pensioenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&artikel=1), pensioenuitvoerders in de zin van [artikel 1 van de Wet verplichte beroepspensioenregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0018831&artikel=1) en de Stichting Notarieel Pensioenfonds, bedoeld in [artikel 113a van de Wet op het notarisambt](https://wetten.overheid.nl/jci1.3:c:BWBR0010388&artikel=113a).
+1. Als administratieplichtigen als bedoeld in [artikel 10.8, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=10.8) worden aangewezen: banken, beheerders, beleggingsinstellingen, beleggingsondernemingen, betaaldienstverleners, elektronischgeldinstellingen, financiële instellingen, levensverzekeraars, natura-uitvaartverzekeraars en schadeverzekeraars in de zin van de [Wet op het financieel toezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0020368) alsmede pensioenuitvoerders in de zin van [artikel 1 van de Pensioenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&artikel=1), pensioenuitvoerders in de zin van [artikel 1 van de Wet verplichte beroepspensioenregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0018831&artikel=1) en de Stichting Notarieel Pensioenfonds, bedoeld in [artikel 113a van de Wet op het notarisambt](https://wetten.overheid.nl/jci1.3:c:BWBR0010388&artikel=113a).
 
 2. Als gegevens en inlichtingen als bedoeld in [artikel 10.8, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=10.8) worden aangewezen:
 
@@ -454,9 +454,9 @@ Als voorheffing worden aangewezen door Andorra, Curaçao, Liechtenstein, Monaco,
 
 - 2°. de in rekening gebrachte pensioenpremie over het kalenderjaar;
 
-- 3°. de deeltijdfactor, bedoeld in [artikel 11c, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012066&hoofdstuk=3&artikel=11c&z=2016-01-01&g=2016-01-01);
+- 3°. de deeltijdfactor, bedoeld in [artikel 11c, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012066&hoofdstuk=3&artikel=11c&z=2017-01-01&g=2017-01-01);
 
-- 4°. de omstandigheid dat het pensioengevend inkomen van de belastingplichtige is bepaald met toepassing van [artikel 11c, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012066&hoofdstuk=3&artikel=11c&z=2016-01-01&g=2016-01-01);
+- 4°. de omstandigheid dat het pensioengevend inkomen van de belastingplichtige is bepaald met toepassing van [artikel 11c, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012066&hoofdstuk=3&artikel=11c&z=2017-01-01&g=2017-01-01);
 
 - 5°. indien in het kalenderjaar zich een omstandigheid voordoet als bedoeld in [artikel 3.135, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.135): de omstandigheid die zich heeft voorgedaan en de met toepassing van [artikel 3.137 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.137) bepaalde waarde in het economische verkeer van de aanspraak;
 
@@ -506,7 +506,7 @@ Als voorheffing worden aangewezen door Andorra, Curaçao, Liechtenstein, Monaco,
 
 ##### Artikel 24
 
-[Artikel 11a, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012066&hoofdstuk=3&artikel=11a&z=2016-01-01&g=2016-01-01), is van overeenkomstige toepassing op een overdracht in het kalenderjaar 2001 waarop [hoofdstuk 2, artikel I, onderdeel Db, van de Invoeringswet Wet inkomstenbelasting 2001](onbekend) van toepassing is mits zowel door de ondernemer als degene die de onderneming voortzet, bij de aangifte van de ondernemer is verzocht om toepassing van dat onderdeel.
+[Artikel 11a, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012066&hoofdstuk=3&artikel=11a&z=2017-01-01&g=2017-01-01), is van overeenkomstige toepassing op een overdracht in het kalenderjaar 2001 waarop [hoofdstuk 2, artikel I, onderdeel Db, van de Invoeringswet Wet inkomstenbelasting 2001](onbekend) van toepassing is mits zowel door de ondernemer als degene die de onderneming voortzet, bij de aangifte van de ondernemer is verzocht om toepassing van dat onderdeel.
 
 ##### Artikel 25. Overgangsrecht inzake aanmerkelijk belang
 
@@ -550,23 +550,23 @@ Als nationale regelgeving die leidt tot herstructurering of beëindiging van een
 
 - a. de [Regeling beëindiging veehouderijtakken](https://wetten.overheid.nl/jci1.3:c:BWBR0011234);
 
-- b. de volgende provinciale regelingen die in overeenstemming zijn met Verordening (EG) nr. 1857/2006 van de Commissie van 15 december 2006 betreffende de toepassing van de artikelen 87 en 88 van het Verdrag op staatssteun voor kleine en middelgrote ondernemingen die landbouwproducten produceren, en tot wijziging van Verordening (EG) nr. 70/2001 (PbEG 2006, L 358):
+- b. de volgende provinciale regelingen die in overeenstemming zijn met Verordening (EU) nr. 702/2014 van de Commissie van 25 juni 2014 waarbij bepaalde categorieën steun in de landbouw- en de bosbouwsector en in plattelandgebieden op grond van artikel 107 en 108 van het Verdrag betreffende de werking van de Europese Unie met de interne markt verenigbaar worden verklaard (PbEU 2014, L 193):
 
 - 1°. wat betreft de provincie Limburg: de Algemene subsidieverordening 2004 (provinciaal blad 2004, nr. 51); de Subsidieregels Project Verplaatsing Intensieve Veehouderijen Noord- en Midden-Limburg (provinciaal blad 2005, nr. 63); de Beleidsregels Project Verplaatsing Intensieve Veehouderijen Noord- en Midden-Limburg (provinciaal blad 2005, nr. 62); de Subsidieverordening inrichting landelijk gebied Limburg, paragraaf 1.9 Verplaatsen grondgebonden landbouwbedrijven met grondverwerving (provinciaal blad 2013, nr. 61);
 
-- 2°. wat betreft de provincie Noord-Brabant: de Subsidieregeling Verplaatsingskosten Intensieve Veehouderijen 2006 (provinciaal blad 2005, nr. 203); de Beleidsregeling Verplaatsing Intensieve Veehouderij 2005 (provinciaal blad 2004, nr. 177); de Subsidieregeling verplaatsing grondgebonden agrarische bedrijven Noord-Brabant (provinciaal blad 2007, nr. 127);
+- 2°. wat betreft de provincie Noord-Brabant: de Subsidieregeling Verplaatsingskosten Intensieve Veehouderijen 2006 (provinciaal blad 2005, nr. 203); de Beleidsregeling Verplaatsing Intensieve Veehouderij 2005 (provinciaal blad 2004, nr. 177); de Subsidieregeling verplaatsing grondgebonden agrarische bedrijven Noord-Brabant (provinciaal blad 2007, nr. 127); de Subsidieregeling knelpunten platteland Noord-Brabant (provinciaal blad 2013, nr. 142); de Subsidieregeling urgentiegebieden Noord-Brabant 2016 (provinciaal blad 2016, nr. 51);
 
-- 3°. wat betreft de provincie Utrecht: de Subsidieverordening verplaatsing intensieve veehouderij provincie Utrecht 2005 (provinciaal blad 2006, nr. 6); de Uitvoeringsverordening subsidie Agenda Vitaal Platteland provincie Utrecht, artikel 4.1.4 Verplaatsing grondgebonden bedrijven (provinciaal blad 2012, nr. 38);
+- 3°. wat betreft de provincie Utrecht: de Uitvoeringsverordening subsidie Agenda Vitaal Platteland provincie Utrecht, artikel 4.1.4 Verplaatsing grondgebonden bedrijven (provinciaal blad 2012, nr. 38); de Uitvoeringsverordening subsidie Agenda Vitaal Platteland provincie Utrecht 2016–2019, artikel 4.1.1 Verplaatsing grondgebonden bedrijven (provinciaal blad 2016, nr. 5037);
 
-- 4°. wat betreft de provincie Gelderland: de Subsidieregeling Verplaatsing intensieve veehouderijen Gelderland (provinciaal blad 2005, nr. 81);
+- 4°. wat betreft de provincie Gelderland: de Subsidieregeling Verplaatsing intensieve veehouderijen Gelderland (provinciaal blad 2005, nr. 81); e Regels Ruimte voor Gelderland 2016. Gecorrigeerd Exemplaar, paragraaf 4.5 Verplaatsing landbouwbedrijfsgebouwen ten behoeve van het Gelders Natuurnetwerk (provinciaal blad 2015, nr. 7842);
 
-- 5°. wat betreft de provincie Overijssel: het Uitvoeringsbesluit Subsidies Overijssel 2005 (provinciaal blad 2005, nr. 82); de Beleidsregel Verplaatsing intensieve veehouderijen Overijssel 2005 (provinciaal blad 2006, nr. 85); het Uitvoeringsbesluit subsidies Overijssel 2011, hoofdstuk 3. Bijzondere bepalingen Landbouw natuur en landschap, paragraaf 26. Verplaatsing landbouwbedrijfsgebouwen vanwege de ontwikkelopgave EHS/Natura 2000 (provinciaal blad 2015, nr. 7938);
+- 5°. wat betreft de provincie Overijssel: het Uitvoeringsbesluit Subsidies Overijssel 2005 (provinciaal blad 2005, nr. 82); de Beleidsregel Verplaatsing intensieve veehouderijen Overijssel 2005 (provinciaal blad 2006, nr. 85); het Uitvoeringsbesluit subsidies Overijssel 2011, hoofdstuk 9. Bijzondere bepalingen Landbouw natuur en landschap, paragraaf 9.26. Verplaatsing landbouwbedrijfsgebouwen vanwege de ontwikkelopgave EHS/Natura 2000 (provinciaal blad 2015, nr. 7938);
 
-- 6°. wat betreft de provincie Friesland: Kadersubsidieverordening pMJP Fryslân 2009 (provinciaal blad 2009, nr. 20); Subsidieverordening pMJP Fryslân 2009, hoofdstuk 1.1.3. Subsidie agrarische bedrijfsverplaatsing en daaraan gerelateerde investeringskosten (provinciaal blad 2009, nr. 48); Subsidieverordening agrarische bedrijfsverplaatsing Fryslân 2015 (provinciaal blad 2015, nr. 4424);
+- 6°. wat betreft de provincie Friesland: Kadersubsidieverordening pMJP Fryslân 2009 (provinciaal blad 2009, nr. 20); Subsidieverordening pMJP Fryslân 2009, hoofdstuk 1.1.3. Subsidie agrarische bedrijfsverplaatsing en daaraan gerelateerde investeringskosten (provinciaal blad 2009, nr. 48); Subsidieregeling agrarische bedrijfsverplaatsing Fryslân 2015 (provinciaal blad 2015, nr. 4424);
 
-- 7°. wat betreft de provincie Groningen: Programma landelijk gebied PMJP 2007-2013 Groningen, deel 3. Kader voor subsidies en overeenkomsten, paragraaf 9.3. Regeling bedrijfshervestiging en beëindiging (provinciaal blad 2007, nr. 36); Beleidsregel Verplaatsing Grondgebonden Agrarische Bedrijven Provincie Groningen (provinciaal blad 2013, nr. 56);
+- 7°. wat betreft de provincie Groningen: Programma landelijk gebied PMJP 2007-2013 Groningen, deel 3. Kader voor subsidies en overeenkomsten, paragraaf 9.3. Regeling bedrijfshervestiging en beëindiging (provinciaal blad 2007, nr. 36); Beleidsregel Verplaatsing Grondgebonden Agrarische Bedrijven Provincie Groningen (provinciaal blad 2013, nr. 56); Subsidieregeling agrarische bedrijfsverplaatsing Groningen 2016 (provinciaal blad 2016, nr. 4210);
 
-- 8°. wat betreft de provincie Drenthe: Provinciaal Meerjarenprogramma Drenthe, deel 3. Subsidiegids, hoofdstuk 2. Subsidies voor natuur, paragraaf 2.1. Realisatie natuur binnen de EHS, Subparagrafen Verwerving EHS en Agrarische bedrijfsverplaatsingen (provinciaal blad 2007, nr. 44).
+- 8°. wat betreft de provincie Drenthe: Provinciaal Meerjarenprogramma Drenthe, deel 3. Subsidiegids, hoofdstuk 2. Subsidies voor natuur, paragraaf 2.1. Realisatie natuur binnen de EHS, Subparagrafen Verwerving EHS en Agrarische bedrijfsverplaatsingen (provinciaal blad 2007, nr. 44); Subsidieregeling Verplaatsing Grondgebonden Agrarische Bedrijven Drenthe 2016 (provinciaal blad 2016, nr. 4154).
 
 ### Hoofdstuk 4. Heffingsgrondslag bij aanmerkelijk belang ([Hoofdstuk 4 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&hoofdstuk=4))
 
@@ -574,7 +574,7 @@ Als nationale regelgeving die leidt tot herstructurering of beëindiging van een
 
 ### Hoofdstuk 5. Heffingsgrondslag bij sparen en beleggen ([Hoofdstuk 5 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&hoofdstuk=5))
 
-### Hoofdstuk 6. Persoonsgebonden aftrek ([Hoofdstuk 6 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&hoofdstuk=6))
+### Hoofdstuk 4. Heffingsgrondslag bij aanmerkelijk belang ([Hoofdstuk 4 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&hoofdstuk=4))
 
 ### Hoofdstuk 5. Heffingsgrondslag bij sparen en beleggen ([Hoofdstuk 5 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&hoofdstuk=5))
 
@@ -592,7 +592,7 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 3. De aanwijzing kan eveneens plaatsvinden indien de in het tweede lid bedoelde zekerheid niet door de onderneming of instelling maar door de belastingplichtige wordt gesteld, waarbij de belastingplichtige tevens de mogelijkheid heeft zekerheid te stellen door middel van verpanding van de aanspraken op het tegoed van een lijfrentespaarrekening, onderscheidenlijk van de aanspraken op de waarde van een lijfrentebeleggingsrecht aan de ontvanger, mits de onderneming of instelling instemt met deze verpanding.
 
-4. [Artikel 14, vijfde, zesde en zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012066&hoofdstuk=3&artikel=14&z=2016-01-01&g=2016-01-01), is van overeenkomstige toepassing.
+4. [Artikel 14, vijfde, zesde en zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012066&hoofdstuk=3&artikel=14&z=2017-01-01&g=2017-01-01), is van overeenkomstige toepassing.
 
 ### Hoofdstuk 4. Heffingsgrondslag bij aanmerkelijk belang ([Hoofdstuk 4 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&hoofdstuk=4))
 
@@ -683,7 +683,7 @@ verminderd met:
 
 ##### Artikel 17b. Waardering woningen; correctie voor erfpachtcanon
 
-De waarde van een erfpachtcanon als bedoeld in [artikel 5.20, vierde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=5.20) wordt gesteld op het zeventienvoud van het jaarlijkse bedrag. In afwijking van de eerste volzin wordt het deel van een erfpachtcanon dat kan worden toegerekend aan een verhuurde woning als bedoeld in [artikel 17a, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012066&hoofdstuk=5&artikel=17a&z=2016-01-01&g=2016-01-01), gesteld op het twintigvoud van het jaarlijkse bedrag. De toerekening van de erfpachtcanon, bedoeld in de vorige volzin, geschiedt naar rato van de, met inachtneming van artikel 17a, vierde lid, berekende, WOZ-waarden van de te onderscheiden zelfstandige onderdelen van het gebouwd eigendom waarop de erfpachtcanon betrekking heeft.
+De waarde van een erfpachtcanon als bedoeld in [artikel 5.20, vierde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=5.20) wordt gesteld op het zeventienvoud van het jaarlijkse bedrag. In afwijking van de eerste volzin wordt het deel van een erfpachtcanon dat kan worden toegerekend aan een verhuurde woning als bedoeld in [artikel 17a, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012066&hoofdstuk=5&artikel=17a&z=2017-01-01&g=2017-01-01), gesteld op het twintigvoud van het jaarlijkse bedrag. De toerekening van de erfpachtcanon, bedoeld in de vorige volzin, geschiedt naar rato van de, met inachtneming van artikel 17a, vierde lid, berekende, WOZ-waarden van de te onderscheiden zelfstandige onderdelen van het gebouwd eigendom waarop de erfpachtcanon betrekking heeft.
 
 ### Hoofdstuk 9. Overgangs- en slotbepalingen ([Hoofdstuk 11 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&hoofdstuk=11))
 
@@ -691,7 +691,7 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 ##### Artikel 12bis. Belastbare winst uit onderneming; privégebruik auto
 
-1. Het afgeven van de verklaring uitsluitend zakelijk gebruik bestelauto, bedoeld in [artikel 3.20, tiende lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.20), geschiedt door het duidelijk, stellig en zonder voorbehoud invullen van het daartoe langs elektronische weg ter beschikking gestelde modelformulier en het toezenden van het ingevulde modelformulier aan de inspecteur.
+1. Het afgeven van de verklaring uitsluitend zakelijk gebruik bestelauto, bedoeld in [artikel 3.20, zesde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.20), geschiedt door het duidelijk, stellig en zonder voorbehoud invullen van het daartoe langs elektronische weg ter beschikking gestelde modelformulier en het toezenden van het ingevulde modelformulier aan de inspecteur.
 
 2. De belastingplichtige is gehouden voordat met de bestelauto waarop de verklaring, bedoeld in het eerste lid, betrekking heeft voor privédoeleinden wordt gereden, mede te delen dat hij de verklaring intrekt.
 
@@ -723,7 +723,7 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 ### Hoofdstuk 3. Heffingsgrondslag bij werk en woning ([Hoofdstuk 3 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&hoofdstuk=3))
 
-### Hoofdstuk 8. Aanvullende regelingen ([Hoofdstuk 10 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&hoofdstuk=10))
+### Hoofdstuk 6. Persoonsgebonden aftrek ([Hoofdstuk 6 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&hoofdstuk=6))
 
 ### Hoofdstuk 7. Belastingheffing van buitenlandse belastingplichtigen ([Hoofdstuk 7 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&hoofdstuk=7))
 
@@ -783,11 +783,11 @@ Voor de overeenkomstige toepassing, bedoeld in [artikel 3.18, vijfde lid, onderd
 | 30 jaar of ouder, doch jonger dan 35 jaar is | 3,9 |
 | 35 jaar of ouder, doch jonger dan 40 jaar is | 4,7 |
 | 40 jaar of ouder, doch jonger dan 45 jaar is | 5,7 |
-| 45 jaar of ouder, doch jonger dan 50 jaar is | 6,8 |
+| 45 jaar of ouder, doch jonger dan 50 jaar is | 6,9 |
 | 50 jaar of ouder, doch jonger dan 55 jaar is | 8,3 |
-| 55 jaar of ouder, doch jonger dan 60 jaar is | 9,9 |
-| 60 jaar of ouder, doch jonger dan 65 jaar is | 11,9 |
-| 65 jaar of ouder is | 13,5 |
+| 55 jaar of ouder, doch jonger dan 60 jaar is | 10,0 |
+| 60 jaar of ouder, doch jonger dan 65 jaar is | 12,0 |
+| 65 jaar of ouder is | 13,6 |
 
 2. De ten hoogste in aanmerking te nemen premie, bedoeld in [artikel 5.16b, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=5.16b), wordt verminderd met de premie die in het voorafgaande kalenderjaar is ingelegd ten behoeve van een nettopensioenregeling als bedoeld in [artikel 5.17, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=5.17).
 
@@ -804,6 +804,26 @@ Voor de overeenkomstige toepassing, bedoeld in [artikel 3.18, vijfde lid, onderd
 2. Een buitenlandse belastingplichtige die in een kalenderjaar voldoet aan de voorwaarden, bedoeld in onderdeel a of onderdeel b en het slot van de eerste volzin van [artikel 7.8, zesde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=7.8), en die gedurende een deel van dat kalenderjaar als inwoner van een andere lidstaat van de Europese Unie, een andere staat die partij is bij de Overeenkomst betreffende de Europese Economische Ruimte, Zwitserland of de BES eilanden in de belastingheffing van die staat of op de BES eilanden wordt betrokken, wordt voor dat deel van het kalenderjaar aangemerkt als kwalificerende buitenlandse belastingplichtige.
 
 3. Voor de inkomensverklaring, bedoeld in [artikel 7.8, zesde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=7.8), wordt gebruikgemaakt van een door de inspecteur vastgestelde modelverklaring.
+
+### Hoofdstuk 7A. Wijze van heffing ([Hoofdstuk 9 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&hoofdstuk=9))
+
+### Hoofdstuk 8. Aanvullende regelingen ([Hoofdstuk 10 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&hoofdstuk=10))
+
+### Hoofdstuk 9. Overgangs- en slotbepalingen ([Hoofdstuk 11 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&hoofdstuk=11))
+
+Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
+
+##### Artikel 11bis. Toerekeningsregels; meldingsplicht bij [artikel 2.14, derde lid, onderdeel d, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=2.14)
+
+1. Indien de belastingplichtige een vermogensbestanddeel dat ingevolge [artikel 2.14, derde lid, onderdeel d, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=2.14) tevens in aanmerking wordt genomen bij de bepaling van het belastbare inkomen uit sparen en beleggen, niet als zodanig in de aangifte heeft vermeld, is hij gehouden daarvan schriftelijk mededeling aan de inspecteur te doen voordat de belastingplichtige weet of redelijkerwijs moet vermoeden dat de inspecteur met de desbetreffende onjuistheid of onvolledigheid bekend is of zal worden.
+
+2. Het niet of niet tijdig dan wel onjuist of onvolledig doen van de mededeling, bedoeld in het eerste lid, wordt aangemerkt als een overtreding.
+
+3. De bevoegdheid tot het opleggen van een vergrijpboete in de gevallen, bedoeld in het tweede lid, vervalt door verloop van vijf jaren na afloop van het kalenderjaar waarin de peildatum, bedoeld in [artikel 2.14, derde lid, onderdeel d, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=2.14), is gelegen. Indien het vermogensbestanddeel, bedoeld in het eerste lid, in het buitenland wordt gehouden of is opgekomen vervalt de bevoegdheid tot het opleggen van een vergrijpboete in de gevallen, bedoeld in het tweede lid, in afwijking in zoverre van de eerste volzin, door verloop van twaalf jaren na afloop van het kalenderjaar, bedoeld in de eerste volzin.
+
+### Hoofdstuk 3. Heffingsgrondslag bij werk en woning ([Hoofdstuk 3 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&hoofdstuk=3))
+
+### Hoofdstuk 7. Belastingheffing van buitenlandse belastingplichtigen ([Hoofdstuk 7 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&hoofdstuk=7))
 
 ### Hoofdstuk 7A. Wijze van heffing ([Hoofdstuk 9 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&hoofdstuk=9))
 
