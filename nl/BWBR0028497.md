@@ -4,7 +4,7 @@ identifier: "BWBR0028497"
 country: "nl"
 rank: "wet_bes"
 publication_date: "2026-01-01"
-last_updated: "2016-01-01"
+last_updated: "2017-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0028497"
 soort: "wet-BES"
@@ -260,7 +260,7 @@ geeft hij van deze bevindingen en zijn daaruit volgende voorschriften kennis aan
 
 ##### Artikel 8a
 
-Voor zover op grond van deze wet niet anders is bepaald is ten aanzien van de premieheffing op grond van [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0028497&artikel=8&z=2016-01-01&g=2016-01-01) en de invordering daarvan [hoofdstuk VIII van de Belastingwet BES](https://wetten.overheid.nl/jci1.3:c:BWBR0029244&hoofdstuk=VIII) van overeenkomstige toepassing.
+Voor zover op grond van deze wet niet anders is bepaald is ten aanzien van de premieheffing op grond van [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0028497&artikel=8&z=2017-01-01&g=2017-01-01) en de invordering daarvan [hoofdstuk VIII van de Belastingwet BES](https://wetten.overheid.nl/jci1.3:c:BWBR0029244&hoofdstuk=VIII) van overeenkomstige toepassing.
 
 ##### Artikel 8b
 
@@ -398,9 +398,9 @@ Alle op grond van deze wet opgemaakte of overgelegde stukken, verzoekschriften e
 
 ##### Artikel 14a
 
-1. Op overtreding van [artikel 11, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028497&artikel=11&z=2016-01-01&g=2016-01-01), en het niet of niet tijdig nakomen van een van de verplichtingen gesteld bij de [artikelen 5, twaalfde lid, eerste zin](https://wetten.overheid.nl/jci1.3:c:BWBR0028497&artikel=5&z=2016-01-01&g=2016-01-01), [6, eerste lid, tweede zin](https://wetten.overheid.nl/jci1.3:c:BWBR0028497&artikel=6&z=2016-01-01&g=2016-01-01), [8h](https://wetten.overheid.nl/jci1.3:c:BWBR0028497&artikel=8h&z=2016-01-01&g=2016-01-01), [12, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028497&artikel=12&z=2016-01-01&g=2016-01-01), en krachtens [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0028497&artikel=13&z=2016-01-01&g=2016-01-01) wordt een boete geheven van de tweede categorie.
+1. Op overtreding van [artikel 11, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028497&artikel=11&z=2017-01-01&g=2017-01-01), en het niet of niet tijdig nakomen van een van de verplichtingen gesteld bij de [artikelen 5, twaalfde lid, eerste zin](https://wetten.overheid.nl/jci1.3:c:BWBR0028497&artikel=5&z=2017-01-01&g=2017-01-01), [6, eerste lid, tweede zin](https://wetten.overheid.nl/jci1.3:c:BWBR0028497&artikel=6&z=2017-01-01&g=2017-01-01), [8h](https://wetten.overheid.nl/jci1.3:c:BWBR0028497&artikel=8h&z=2017-01-01&g=2017-01-01), [12, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028497&artikel=12&z=2017-01-01&g=2017-01-01), en krachtens [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0028497&artikel=13&z=2017-01-01&g=2017-01-01) wordt een boete geheven van de tweede categorie.
 
-2. Onder het niet voldoen aan de verplichtingen van [artikel 12, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028497&artikel=12&z=2016-01-01&g=2016-01-01), wordt mede verstaan het verstrekken van inlichtingen die onjuist zijn.
+2. Onder het niet voldoen aan de verplichtingen van [artikel 12, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028497&artikel=12&z=2017-01-01&g=2017-01-01), wordt mede verstaan het verstrekken van inlichtingen die onjuist zijn.
 
 3. Indien er sprake is van herhaling van eenzelfde overtreding binnen twee jaar wordt het maximum van de boetes, genoemd in het eerste lid, verdubbeld.
 
@@ -410,9 +410,9 @@ Alle op grond van deze wet opgemaakte of overgelegde stukken, verzoekschriften e
 
 ##### Artikel 15
 
-1. Overtreding van [artikel 11, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028497&artikel=11&z=2016-01-01&g=2016-01-01), en het niet of niet tijdig nakomen van een van de verplichtingen gesteld bij de [artikelen 5, twaalfde lid, eerste zin](https://wetten.overheid.nl/jci1.3:c:BWBR0028497&artikel=5&z=2016-01-01&g=2016-01-01), [6, eerste lid, tweede zin](https://wetten.overheid.nl/jci1.3:c:BWBR0028497&artikel=6&z=2016-01-01&g=2016-01-01), [8h](https://wetten.overheid.nl/jci1.3:c:BWBR0028497&artikel=8h&z=2016-01-01&g=2016-01-01), [12, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028497&artikel=12&z=2016-01-01&g=2016-01-01) en krachtens [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0028497&artikel=13&z=2016-01-01&g=2016-01-01) wordt gestraft met hechtenis van ten hoogste een maand of geldboete van de derde categorie.
+1. Overtreding van [artikel 11, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028497&artikel=11&z=2017-01-01&g=2017-01-01), en het niet of niet tijdig nakomen van een van de verplichtingen gesteld bij de [artikelen 5, twaalfde lid, eerste zin](https://wetten.overheid.nl/jci1.3:c:BWBR0028497&artikel=5&z=2017-01-01&g=2017-01-01), [6, eerste lid, tweede zin](https://wetten.overheid.nl/jci1.3:c:BWBR0028497&artikel=6&z=2017-01-01&g=2017-01-01), [8h](https://wetten.overheid.nl/jci1.3:c:BWBR0028497&artikel=8h&z=2017-01-01&g=2017-01-01), [12, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028497&artikel=12&z=2017-01-01&g=2017-01-01) en krachtens [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0028497&artikel=13&z=2017-01-01&g=2017-01-01) wordt gestraft met hechtenis van ten hoogste een maand of geldboete van de derde categorie.
 
-2. Het opzettelijk, mondeling of schriftelijk verstrekken of doen verstrekken van inlichtingen als bedoeld in [artikel 12, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028497&artikel=12&z=2016-01-01&g=2016-01-01), die onjuist zijn alsmede het afleggen van een valse verklaring aan Onze Minister, wordt gestraft met gevangenisstraf van ten hoogste één jaar of een geldboete van de derde categorie.
+2. Het opzettelijk, mondeling of schriftelijk verstrekken of doen verstrekken van inlichtingen als bedoeld in [artikel 12, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028497&artikel=12&z=2017-01-01&g=2017-01-01), die onjuist zijn alsmede het afleggen van een valse verklaring aan Onze Minister, wordt gestraft met gevangenisstraf van ten hoogste één jaar of een geldboete van de derde categorie.
 
 3. Het opzettelijk door giften, beloften, misbruik van gezag, geweld, bedreiging of misleiding bewegen van een werknemer om geen gebruik te maken van een hem op grond van deze wet toekomend recht wordt gestraft met gevangenisstraf van ten hoogste één jaar of geldboete van de derde categorie.
 
@@ -438,9 +438,9 @@ Deze wet wordt aangehaald als: Wet ongevallenverzekering BES.
 
 ## Premie
 
-## Uitvoering, inlichtingen en toezicht
+## Vorderingen en aansprakelijkheid
 
-## Strafbepalingen
+## Administratieve sancties
 
 ## Overgangs- en slotbepalingen
 
@@ -469,3 +469,23 @@ Bij of krachtens algemene maatregel van bestuur kan een uitbreiding dan wel een 
 ## Administratieve sancties
 
 ## Strafbepalingen
+
+##### Artikel 5a. Indexatie tegemoetkoming begrafeniskosten
+
+1. Indien uit de door het Centraal Bureau voor de Statistiek vastgestelde consumentenprijsindexcijfers voor de openbare lichamen Bonaire, Sint Eustatius en Saba blijkt dat het prijsindexcijfer voor het derde kwartaal van het lopende jaar, vergeleken met het prijsindexcijfer voor het derde kwartaal van het voorafgaande jaar is gestegen of gedaald, stelt Onze Minister het bedrag vast, dat met ingang van 1 januari van het komende jaar in de plaats treedt van het in [artikel 5, negende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028497&artikel=5&z=2017-01-01&g=2017-01-01), genoemde bedrag. Onze Minister bepaalt welke consumentenprijsindexcijfers voor de toepassing van de eerste zin worden gebruikt. De consumentenprijsindexcijfers kunnen voor de onderscheiden openbare lichamen en voor belanghebbenden die woonachtig zijn buiten de openbare lichamen, verschillend zijn.
+
+2. Indien er naar het oordeel van Onze Minister bijzondere omstandigheden zijn, kan het bedrag, bedoeld in het eerste lid, bij ministeriële regeling met ingang van een bij die regeling aan te geven datum worden gewijzigd.
+
+3. Het overeenkomstig het eerste lid herziene dan wel overeenkomstig het tweede lid gewijzigde of vastgestelde bedrag treedt in de plaats van het bedrag, genoemd in [artikel 5, negende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028497&artikel=5&z=2017-01-01&g=2017-01-01).
+
+4. Indien een wijziging als bedoeld in het tweede lid samenvalt met een herziening als bedoeld in het eerste lid, wordt het bedrag voorafgaande aan de wijziging herzien en geschiedt de herziening bij de in het tweede lid bedoelde ministeriële regeling.
+
+## Vaststelling van de uitkering
+
+## Premie
+
+## Uitvoering, inlichtingen en toezicht
+
+## Strafbepalingen
+
+## Overgangs- en slotbepalingen
