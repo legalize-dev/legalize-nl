@@ -4,7 +4,7 @@ identifier: "BWBV0006657"
 country: "nl"
 rank: "verdrag"
 publication_date: "2017-01-01"
-last_updated: "2016-03-04"
+last_updated: "2017-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBV0006657"
 soort: "verdrag"
@@ -76,15 +76,15 @@ Wijzigt de Overeenkomst tussen de Europese Gemeenschap en haar lidstaten, enerzi
 
 ##### Artikel 3
 
-In afwijking van [artikel 25 van bijlage I bij de overeenkomst](https://wetten.overheid.nl/jci1.3:c:BWBV0001500&artikel=25), zijn de overgangsperioden van [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBV0006657&bijlage=1&z=2016-03-04&g=2016-03-04) bij dit protocol van toepassing.
+In afwijking van [artikel 25 van bijlage I bij de overeenkomst](https://wetten.overheid.nl/jci1.3:c:BWBV0001500&artikel=25), zijn de overgangsperioden van [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBV0006657&bijlage=1&z=2017-01-01&g=2017-01-01) bij dit protocol van toepassing.
 
 ##### Artikel 4
 
-1. De [bijlagen II](https://wetten.overheid.nl/jci1.3:c:BWBV0001500&bijlage=II) en [III bij de overeenkomst](https://wetten.overheid.nl/jci1.3:c:BWBV0001500&bijlage=III) worden gewijzigd overeenkomstig de [bijlagen 2](https://wetten.overheid.nl/jci1.3:c:BWBV0006657&bijlage=2&z=2016-03-04&g=2016-03-04) en [3](https://wetten.overheid.nl/jci1.3:c:BWBV0006657&bijlage=3&z=2016-03-04&g=2016-03-04) bij dit protocol.
+1. De [bijlagen II](https://wetten.overheid.nl/jci1.3:c:BWBV0001500&bijlage=II) en [III bij de overeenkomst](https://wetten.overheid.nl/jci1.3:c:BWBV0001500&bijlage=III) worden gewijzigd overeenkomstig de [bijlagen 2](https://wetten.overheid.nl/jci1.3:c:BWBV0006657&bijlage=2&z=2017-01-01&g=2017-01-01) en [3](https://wetten.overheid.nl/jci1.3:c:BWBV0006657&bijlage=3&z=2017-01-01&g=2017-01-01) bij dit protocol.
 
 ##### Artikel 5
 
-1. De [bijlagen 1](https://wetten.overheid.nl/jci1.3:c:BWBV0006657&bijlage=1&z=2016-03-04&g=2016-03-04), [2](https://wetten.overheid.nl/jci1.3:c:BWBV0006657&bijlage=2&z=2016-03-04&g=2016-03-04) en [3](https://wetten.overheid.nl/jci1.3:c:BWBV0006657&bijlage=3&z=2016-03-04&g=2016-03-04) bij dit protocol maken integrerend deel uit van het protocol.
+1. De [bijlagen 1](https://wetten.overheid.nl/jci1.3:c:BWBV0006657&bijlage=1&z=2017-01-01&g=2017-01-01), [2](https://wetten.overheid.nl/jci1.3:c:BWBV0006657&bijlage=2&z=2017-01-01&g=2017-01-01) en [3](https://wetten.overheid.nl/jci1.3:c:BWBV0006657&bijlage=3&z=2017-01-01&g=2017-01-01) bij dit protocol maken integrerend deel uit van het protocol.
 
 2. Dit protocol maakt samen met de [protocollen van 2004](https://wetten.overheid.nl/jci1.3:c:BWBV0003041) en [2008](https://wetten.overheid.nl/jci1.3:c:BWBV0004015) integrerend deel uit van de [overeenkomst](https://wetten.overheid.nl/jci1.3:c:BWBV0001500).
 
