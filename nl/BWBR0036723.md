@@ -4,7 +4,7 @@ identifier: "BWBR0036723"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2023-01-01"
-last_updated: "2015-07-01"
+last_updated: "2017-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0036723"
 soort: "ministeriele-regeling"
@@ -52,7 +52,7 @@ In deze regeling wordt verstaan onder:
 
 - e). **commissie:** de commissie van toezicht op de arrestantenzorg, bedoeld in [artikel 24, eerste lid, van het Besluit beheer politie](https://wetten.overheid.nl/jci1.3:c:BWBR0036705&artikel=24);
 
-- f). **landelijk afstemmingsoverleg:** het overleg, bedoeld in [artikel 6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036723&artikel=6&z=2015-07-01&g=2015-07-01);
+- f). **landelijk afstemmingsoverleg:** het overleg, bedoeld in [artikel 6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036723&artikel=6&z=2017-03-18&g=2017-01-01);
 
 - g). **de minister:** de Minister van Veiligheid en Justitie;
 
@@ -130,7 +130,7 @@ De korpschef voorziet in de bekostiging van de commissies en het landelijk afste
 
 ##### Artikel 8
 
-In afwijking van [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036723&artikel=2&z=2015-07-01&g=2015-07-01), kunnen de leden van de commissies van toezicht op de arrestantenzorg tot uiterlijk 1 januari 2016 worden benoemd op voordracht van de leden van deze commissies uit hun midden.
+In afwijking van [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036723&artikel=2&z=2017-03-18&g=2017-01-01), kunnen de leden van de commissies van toezicht op de arrestantenzorg tot uiterlijk 1 januari 2016 worden benoemd op voordracht van de leden van deze commissies uit hun midden.
 
 ##### Artikel 9
 
@@ -139,5 +139,11 @@ Deze regeling treedt in werking met ingang van 1 juli 2015.
 ##### Artikel 10
 
 Deze regeling wordt aangehaald als: Regeling toezicht arrestantenzorg politie.
+
+Deze regeling zal met de toelichting in de Staatscourant worden gepubliceerd.
+
+##### Artikel 8a
+
+Deze regeling berust op [artikel 50, vijfde lid, van het Besluit beheer politie](https://wetten.overheid.nl/jci1.3:c:BWBR0036705&artikel=50).
 
 Deze regeling zal met de toelichting in de Staatscourant worden gepubliceerd.
