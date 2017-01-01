@@ -4,7 +4,7 @@ identifier: "BWBR0036097"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-01-01"
-last_updated: "2016-04-30"
+last_updated: "2017-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0036097"
 soort: "ministeriele-regeling"
@@ -44,15 +44,15 @@ Besluit:
 
 ##### Artikel 1
 
-In deze regeling wordt verstaan onder besluit: [Besluit doorberekening kosten ACM](https://wetten.overheid.nl/jci1.3:c:BWBR0035712&wetgeving).
+In deze regeling wordt verstaan onder besluit: [Besluit doorberekening kosten ACM](https://wetten.overheid.nl/jci1.3:c:BWBR0035712).
 
 #### § 2. Bedragen die ter vergoeding van de kosten van beschikkingen worden doorberekend aan de marktorganisatie aan wie de beschikking is gericht of die de aanvraag heeft gedaan
 
 ##### Artikel 2
 
-1. De bedragen ter vergoeding van de kosten van de beschikkingen, bedoeld in [artikel 4, eerste lid, onderdeel a, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0035712&artikel=4) zijn de in de [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0036097&bijlage=1&z=2016-04-30&g=2016-04-30) bedoelde bedragen.
+1. De bedragen ter vergoeding van de kosten van de beschikkingen, bedoeld in [artikel 4, eerste lid, onderdeel a, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0035712&artikel=4) zijn de in de [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0036097&bijlage=1&z=2016-04-30&g=2017-01-01) bedoelde bedragen.
 
-2. De bedragen ter vergoeding van de kosten van de beschikkingen, bedoeld in [artikel 4, eerste lid, onderdelen b en c, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0035712&artikel=4) zijn de in de [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0036097&bijlage=2&z=2016-04-30&g=2016-04-30) bedoelde bedragen.
+2. De bedragen ter vergoeding van de kosten van de beschikkingen, bedoeld in [artikel 4, eerste lid, onderdelen b en c, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0035712&artikel=4) zijn de in de [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0036097&bijlage=2&z=2016-04-30&g=2017-01-01) bedoelde bedragen.
 
 #### § 3. Doorberekening door middel van toerekening
 
@@ -64,19 +64,19 @@ Binnen de categorie, genoemd in [artikel 10, tweede lid, onderdeel c, onder 2°,
 
 - 1°. de volgende nummers, genoemd in [bijlage 1 van het Nummerplan telefoon- en ISDN-diensten](https://wetten.overheid.nl/jci1.3:c:BWBR0010198&bijlage=1): de nummers behorend tot de reeksen 044, 067 of 082 en de korte nummers behorend tot de reeksen 10, 11, 16 of 18;
 
-- 2°. de nummers, genoemd in de [bijlage van het Nummerplan internationale signaleringspuntcodes](218859);
+- 2°. de nummers, genoemd in de [bijlage van het Nummerplan internationale signaleringspuntcodes](onbekend);
 
-- 3°. de nummers, genoemd in de [bijlage van het Nummerplan Transitnetwerk signaleringspuntcodes](171739);
+- 3°. de nummers, genoemd in de [bijlage van het Nummerplan Transitnetwerk signaleringspuntcodes](onbekend);
 
-- 4°. de nummers, genoemd in de [bijlage van het Nummerplan voor identiteitsnummers ten behoeve van internationale mobiliteit](249349) (IMSI-nummers);
+- 4°. de nummers, genoemd in de [bijlage van het Nummerplan voor identiteitsnummers ten behoeve van internationale mobiliteit](onbekend) (IMSI-nummers);
 
-- 5°. de nummers, genoemd in de [bijlage van het Nummerplan voor pakket en circuitgeschakelde datadiensten](171709);
+- 5°. de nummers, genoemd in de [bijlage van het Nummerplan voor pakket en circuitgeschakelde datadiensten](onbekend);
 
 - b. subcategorie B, per 1.000 nummers:
 
 - 1°. de volgende nummers, genoemd in [bijlage 1 van het Nummerplan telefoon- en ISDN-diensten](https://wetten.overheid.nl/jci1.3:c:BWBR0010198&bijlage=1): de nummers met een geografische bestemming, de nummers bestemd voor mobiele telefonie en de nummers behorend tot de reeksen 066, 087, 085 of 091;
 
-- 2°. de nummers, genoemd in de [bijlage van het Nummerplan telexdiensten](171719);
+- 2°. de nummers, genoemd in de [bijlage van het Nummerplan telexdiensten](onbekend);
 
 - c. subcategorie C, per nummer: de volgende nummers, genoemd in [bijlage 1 van het Nummerplan telefoon- en ISDN-diensten](https://wetten.overheid.nl/jci1.3:c:BWBR0010198&bijlage=1): de achtcijferige informatienummers behorend tot de reeksen 0800, 0900, 0906 of 0909 en de korte nummers behorend tot de reeksen 12, 13 of 14;
 
@@ -100,7 +100,7 @@ Het bedrag van de omzet, bedoeld in [artikel 12, derde lid, van het besluit](htt
 
 - c. nummers bestemd voor elektronische communicatiediensten voor geautomatiseerde toepassingen.
 
-2. De correctie vindt plaats per nummer, tenzij het gaat om een nummer als bedoeld in de subcategorieën, genoemd in [artikel 3, onderdelen b, e of f](https://wetten.overheid.nl/jci1.3:c:BWBR0036097&paragraaf=3&artikel=3&z=2016-04-30&g=2016-04-30). Alsdan wordt gecorrigeerd per het aantal nummers, genoemd in het desbetreffende onderdeel.
+2. De correctie vindt plaats per nummer, tenzij het gaat om een nummer als bedoeld in de subcategorieën, genoemd in [artikel 3, onderdelen b, e of f](https://wetten.overheid.nl/jci1.3:c:BWBR0036097&paragraaf=3&artikel=3&z=2016-04-30&g=2017-01-01). Alsdan wordt gecorrigeerd per het aantal nummers, genoemd in het desbetreffende onderdeel.
 
 3. De correctie vindt plaats per marktorganisatie, tenzij er sprake is van een groep als bedoeld in [artikel 24b van Boek 2 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=24b). Alsdan vindt de correctie plaats per groep.
 
@@ -136,11 +136,11 @@ Wijzigt de Regeling universele dienstverlening en eindgebruikersbelangen.
 
 ##### Artikel 11
 
-De [Regeling vergoedingen Telecommunicatiewet en Postwet 2014](https://wetten.overheid.nl/jci1.3:c:BWBR0034350&wetgeving) wordt ingetrokken.
+De [Regeling vergoedingen Telecommunicatiewet en Postwet 2014](https://wetten.overheid.nl/jci1.3:c:BWBR0034350) wordt ingetrokken.
 
 ##### Artikel 12
 
-Voor het in rekening brengen van de vóór 1 januari 2015 geldende bedragen of vergoedingen blijven de [Regeling kostenverhaal energie](https://wetten.overheid.nl/jci1.3:c:BWBR0030185) en de [Regeling vergoedingen Telecommunicatiewet en Postwet 2014](https://wetten.overheid.nl/jci1.3:c:BWBR0034350&wetgeving) zoals die luidden op 31 december 2014, van toepassing.
+Voor het in rekening brengen van de vóór 1 januari 2015 geldende bedragen of vergoedingen blijven de [Regeling kostenverhaal energie](https://wetten.overheid.nl/jci1.3:c:BWBR0030185) en de [Regeling vergoedingen Telecommunicatiewet en Postwet 2014](https://wetten.overheid.nl/jci1.3:c:BWBR0034350) zoals die luidden op 31 december 2014, van toepassing.
 
 ##### Artikel 13
 
@@ -181,21 +181,21 @@ Binnen de categorie, genoemd in [artikel 10, tweede lid, onderdeel c, onder 3°,
 
 ##### Artikel 7a
 
-1. De bedragen ter vergoeding van de kosten die met toepassing van [hoofdstuk 3 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0035712&hoofdstuk=3) door middel van toerekening worden doorberekend, zijn de in [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0036097&bijlage=3&z=2016-04-30&g=2016-04-30) bedoelde bedragen.
+1. De bedragen ter vergoeding van de kosten die met toepassing van [hoofdstuk 3 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0035712&hoofdstuk=3) door middel van toerekening worden doorberekend, zijn de in [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0036097&bijlage=3&z=2016-04-30&g=2017-01-01) bedoelde bedragen.
 
-2. In afwijking van het eerste lid bevat [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0036097&bijlage=1&z=2016-04-30&g=2016-04-30) de bedragen ter vergoeding van de kosten van het toezicht op de naleving van het bij of krachtens de [Telecommunicatiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0009950) bepaalde inzake van het gebruik van nummers.
+2. In afwijking van het eerste lid bevat [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0036097&bijlage=1&z=2016-04-30&g=2017-01-01) de bedragen ter vergoeding van de kosten van het toezicht op de naleving van het bij of krachtens de [Telecommunicatiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0009950) bepaalde inzake van het gebruik van nummers.
 
 #### § 4. Wijziging van andere regelingen
 
 #### § 5. Slotbepalingen
 
-## Bijlage 1. Behorende bij de [artikelen 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036097&paragraaf=2&artikel=2&z=2016-04-30&g=2016-04-30), en [7a, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036097&paragraaf=3&artikel=7a&z=2016-04-30&g=2016-04-30), van de Regeling doorbereking kosten ACM
+## Bijlage 1. Behorende bij de [artikelen 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036097&paragraaf=2&artikel=2&z=2016-04-30&g=2017-01-01), en [7a, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036097&paragraaf=3&artikel=7a&z=2016-04-30&g=2017-01-01), van de Regeling doorbereking kosten ACM
 
 ### B
 
 ### C
 
-## Bijlage 2. Behorende bij [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036097&paragraaf=2&artikel=2&z=2016-04-30&g=2016-04-30), van de Regeling doorberekening kosten ACM
+## Bijlage 2. Behorende bij [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036097&paragraaf=2&artikel=2&z=2016-04-30&g=2017-01-01), van de Regeling doorberekening kosten ACM
 
 | Beschikking | Bedrag voor het inwilligen van de aanvraag, het geheel of gedeeltelijk afwijzen ervan of ingeval van intrekking van de aanvraag voordat daarop door de ACM is beslist |
 | --- | --- |
@@ -206,7 +206,7 @@ Binnen de categorie, genoemd in [artikel 10, tweede lid, onderdeel c, onder 3°,
 | Beschikking als bedoeld in [artikel 44 van de Mededingingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0008691&artikel=44) | € 34.900 |
 | Beschikking als bedoeld in [artikel 46 van de Mededingingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0008691&artikel=46) | € 2.325 |
 
-## Bijlage 3. behorende bij [artikel 7a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036097&paragraaf=3&artikel=7a&z=2016-04-30&g=2016-04-30), van de Regeling doorberekening kosten ACM
+## Bijlage 3. behorende bij [artikel 7a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036097&paragraaf=3&artikel=7a&z=2016-04-30&g=2017-01-01), van de Regeling doorberekening kosten ACM
 
 | Categorie | Bedrag ter vergoeding van de kosten van de ACM die met toepassing van [hoofdstuk 3 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0035712&hoofdstuk=3) door middel van toerekening worden doorberekend |
 | --- | --- |
