@@ -4,7 +4,7 @@ identifier: "BWBR0010770"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-09-04"
-last_updated: "2013-01-01"
+last_updated: "2017-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0010770"
 soort: "ministeriele-regeling"
@@ -61,7 +61,7 @@ In deze regeling wordt verstaan onder:
 
 ##### Artikel 3
 
-In afwijking van [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010770&paragraaf=2&artikel=2&z=2013-01-01&g=2013-01-01), voor zover het betreft de Koninklijke Marechaussee, en in afwijking van [artikel 2, tweede lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0010770&paragraaf=2&artikel=2&z=2013-01-01&g=2013-01-01), voor zover het betreft de regionale en gemeentelijke brandweerkorpsen en de ambulancediensten waaraan krachtens de [Tijdelijke wet ambulancezorg](https://wetten.overheid.nl/jci1.3:c:BWBR0031557) vergunning is verleend, mogen verbindingen van het regionale datacommunicatienetwerk van de politie met datacommunicatienetwerken van de Koninklijke Marechaussee en de regionale en gemeentelijke brandweerkorpsen en de ambulancediensten buiten het PODACS worden gerealiseerd onder de voorwaarden dat:
+In afwijking van [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010770&paragraaf=2&artikel=2&z=2017-03-18&g=2017-01-01), voor zover het betreft de Koninklijke Marechaussee, en in afwijking van [artikel 2, tweede lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0010770&paragraaf=2&artikel=2&z=2017-03-18&g=2017-01-01), voor zover het betreft de regionale en gemeentelijke brandweerkorpsen en de ambulancediensten waaraan krachtens de [Tijdelijke wet ambulancezorg](https://wetten.overheid.nl/jci1.3:c:BWBR0031557) vergunning is verleend, mogen verbindingen van het regionale datacommunicatienetwerk van de politie met datacommunicatienetwerken van de Koninklijke Marechaussee en de regionale en gemeentelijke brandweerkorpsen en de ambulancediensten buiten het PODACS worden gerealiseerd onder de voorwaarden dat:
 
 - a). deze verbindingen uitsluitend ten behoeve van noodzakelijke integratie en coördinatie van werkzaamheden van de politie met werkzaamheden van de in de aanhef van dit artikel genoemde organisaties worden gerealiseerd;
 
@@ -71,7 +71,7 @@ In afwijking van [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWB
 
 ##### Artikel 4
 
-Ten behoeve van de geautomatiseerde uitwisseling van gegevens, bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010770&paragraaf=2&artikel=2&z=2013-01-01&g=2013-01-01), beschikt elke regionale en landelijke eenheid over minimaal twee koppelvlakken op het PODACS.
+Ten behoeve van de geautomatiseerde uitwisseling van gegevens, bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010770&paragraaf=2&artikel=2&z=2017-03-18&g=2017-01-01), beschikt elke regionale en landelijke eenheid over minimaal twee koppelvlakken op het PODACS.
 
 ##### Artikel 5
 
@@ -89,7 +89,7 @@ De korpschef draagt ervoor zorg dat het datacommunicatienetwerk van de politie a
 
 ##### Artikel 7
 
-1. In afwijking van [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0010770&paragraaf=3&artikel=6&z=2013-01-01&g=2013-01-01) van deze regeling kan de korpschef bepalen dat het datacommunicatienetwerk van de politie voorziet in verbindingen met:
+1. In afwijking van [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0010770&paragraaf=3&artikel=6&z=2017-03-18&g=2017-01-01) van deze regeling kan de korpschef bepalen dat het datacommunicatienetwerk van de politie voorziet in verbindingen met:
 
 - a). gemeenschappelijke locaties of;
 
@@ -117,7 +117,7 @@ De korpschef draagt ervoor zorg dat het datacommunicatienetwerk van de politie a
 
 ##### Artikel 8
 
-1. Indien bij verbindingen, als bedoeld in de [artikelen 6](https://wetten.overheid.nl/jci1.3:c:BWBR0010770&paragraaf=3&artikel=6&z=2013-01-01&g=2013-01-01) en [7](https://wetten.overheid.nl/jci1.3:c:BWBR0010770&paragraaf=3&artikel=7&z=2013-01-01&g=2013-01-01), gebruik wordt gemaakt van kiesverbindingen worden er voorzieningen getroffen ter beveiliging van deze netwerktoegang tot het datacommunicatienetwerk van de politie.
+1. Indien bij verbindingen, als bedoeld in de [artikelen 6](https://wetten.overheid.nl/jci1.3:c:BWBR0010770&paragraaf=3&artikel=6&z=2017-03-18&g=2017-01-01) en [7](https://wetten.overheid.nl/jci1.3:c:BWBR0010770&paragraaf=3&artikel=7&z=2017-03-18&g=2017-01-01), gebruik wordt gemaakt van kiesverbindingen worden er voorzieningen getroffen ter beveiliging van deze netwerktoegang tot het datacommunicatienetwerk van de politie.
 
 2. Deze voorzieningen houden ten minste in:
 
@@ -131,7 +131,7 @@ De korpschef draagt ervoor zorg dat het datacommunicatienetwerk van de politie a
 
 ##### Artikel 9
 
-1. De juiste werking van op basis van de [artikelen 2, tweede lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0010770&paragraaf=2&artikel=2&z=2013-01-01&g=2013-01-01), [3](https://wetten.overheid.nl/jci1.3:c:BWBR0010770&paragraaf=2&artikel=3&z=2013-01-01&g=2013-01-01), [7](https://wetten.overheid.nl/jci1.3:c:BWBR0010770&paragraaf=3&artikel=7&z=2013-01-01&g=2013-01-01) en [8](https://wetten.overheid.nl/jci1.3:c:BWBR0010770&paragraaf=3&artikel=8&z=2013-01-01&g=2013-01-01), te treffen voorzieningen wordt periodiek door de politie gecontroleerd.
+1. De juiste werking van op basis van de [artikelen 2, tweede lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0010770&paragraaf=2&artikel=2&z=2017-03-18&g=2017-01-01), [3](https://wetten.overheid.nl/jci1.3:c:BWBR0010770&paragraaf=2&artikel=3&z=2017-03-18&g=2017-01-01), [7](https://wetten.overheid.nl/jci1.3:c:BWBR0010770&paragraaf=3&artikel=7&z=2017-03-18&g=2017-01-01) en [8](https://wetten.overheid.nl/jci1.3:c:BWBR0010770&paragraaf=3&artikel=8&z=2017-03-18&g=2017-01-01), te treffen voorzieningen wordt periodiek door de politie gecontroleerd.
 
 2. Over de in het eerste lid bedoelde controle wordt aan de korpschef verslag uitgebracht.
 
@@ -165,7 +165,7 @@ Deze regeling treedt in werking met ingang van de tweede dag na dagtekening van 
 
 Deze regeling wordt aangehaald als: PODACS-regeling.
 
-## Bijlage. behorend bij [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0010770&paragraaf=2&artikel=2&z=2013-01-01&g=2013-01-01)
+## Bijlage. behorend bij [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0010770&paragraaf=2&artikel=2&z=2017-03-18&g=2017-01-01)
 
 De politie maakt, bij de geautomatiseerde uitwisseling van gegevens door middel van draadgebonden telecommunicatie-voorzieningen, met de in deze bijlage opgenomen organisaties en instanties uitsluitend gebruik van het PODACS.
 
