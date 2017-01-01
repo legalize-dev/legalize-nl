@@ -4,7 +4,7 @@ identifier: "BWBR0035646"
 country: "nl"
 rank: "amvb"
 publication_date: "2024-01-01"
-last_updated: "2014-11-01"
+last_updated: "2017-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0035646"
 soort: "AMvB"
@@ -70,17 +70,17 @@ In dit besluit wordt verstaan onder:
 
 ##### Artikel 2.1
 
-1. Het luchthavengebied is het gebied dat als zodanig is aangewezen op de kaart in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0035646&bijlage=1&z=2014-11-01&g=2014-11-01) bij dit besluit.
+1. Het luchthavengebied is het gebied dat als zodanig is aangewezen op de kaart in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0035646&bijlage=1&z=2017-01-01&g=2017-01-01) bij dit besluit.
 
-2. Het beperkingengebied is het gebied dat als zodanig is aangewezen op de kaart in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0035646&bijlage=2&z=2014-11-01&g=2014-11-01) bij dit besluit.
+2. Het beperkingengebied is het gebied dat als zodanig is aangewezen op de kaart in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0035646&bijlage=2&z=2017-01-01&g=2017-01-01) bij dit besluit.
 
 3. Het beperkingengebied is samengesteld uit:
 
-- a. het gebied behorende bij de in [artikel 4 van het Besluit militaire luchthavens](https://wetten.overheid.nl/jci1.3:c:BWBR0025302&artikel=4) genoemde grenswaarde van de geluidsbelasting van 35 Kosteneenheden, dat als zodanig is aangewezen op de kaart in [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0035646&bijlage=3&z=2014-11-01&g=2014-11-01) bij dit besluit;
+- a. het gebied behorende bij de in [artikel 4 van het Besluit militaire luchthavens](https://wetten.overheid.nl/jci1.3:c:BWBR0025302&artikel=4) genoemde grenswaarde van de geluidsbelasting van 35 Kosteneenheden, dat als zodanig is aangewezen op de kaart in [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0035646&bijlage=3&z=2017-01-01&g=2017-01-01) bij dit besluit;
 
-- b. het gebied waarbinnen maximaal toelaatbare hoogten gelden voor objecten in, op of boven de grond zoals dat voortvloeit uit [artikel 3.2.2.](https://wetten.overheid.nl/jci1.3:c:BWBR0035646&hoofdstuk=3&paragraaf=3.2&artikel=3.2.2&z=2014-11-01&g=2014-11-01), dat als zodanig is aangewezen op de kaarten in [bijlagen 4](https://wetten.overheid.nl/jci1.3:c:BWBR0035646&bijlage=4&z=2014-11-01&g=2014-11-01) en [5](https://wetten.overheid.nl/jci1.3:c:BWBR0035646&bijlage=5&z=2014-11-01&g=2014-11-01) bij dit besluit;
+- b. het gebied waarbinnen maximaal toelaatbare hoogten gelden voor objecten in, op of boven de grond zoals dat voortvloeit uit [artikel 3.2.2.](https://wetten.overheid.nl/jci1.3:c:BWBR0035646&hoofdstuk=3&paragraaf=3.2&artikel=3.2.2&z=2017-01-01&g=2017-01-01), dat als zodanig is aangewezen op de kaarten in [bijlagen 4](https://wetten.overheid.nl/jci1.3:c:BWBR0035646&bijlage=4&z=2017-01-01&g=2017-01-01) en [5](https://wetten.overheid.nl/jci1.3:c:BWBR0035646&bijlage=5&z=2017-01-01&g=2017-01-01) bij dit besluit;
 
-- c. het gebied waarbinnen bepaald grondgebruik of een bestemming binnen de in [artikel 3.2.3](https://wetten.overheid.nl/jci1.3:c:BWBR0035646&hoofdstuk=3&paragraaf=3.2&artikel=3.2.3&z=2014-11-01&g=2014-11-01) aangewezen categorieën niet is toegestaan, dat als zodanig is aangewezen op de kaart in [bijlage 6](https://wetten.overheid.nl/jci1.3:c:BWBR0035646&bijlage=6&z=2014-11-01&g=2014-11-01) bij dit besluit.
+- c. het gebied waarbinnen bepaald grondgebruik of een bestemming binnen de in [artikel 3.2.3](https://wetten.overheid.nl/jci1.3:c:BWBR0035646&hoofdstuk=3&paragraaf=3.2&artikel=3.2.3&z=2017-01-01&g=2017-01-01) aangewezen categorieën niet is toegestaan, dat als zodanig is aangewezen op de kaart in [bijlage 6](https://wetten.overheid.nl/jci1.3:c:BWBR0035646&bijlage=6&z=2017-01-01&g=2017-01-01) bij dit besluit.
 
 ### Hoofdstuk 3. Bestemming en gebruik van de grond
 
@@ -88,21 +88,21 @@ In dit besluit wordt verstaan onder:
 
 ##### Artikel 3.1.1
 
-De gronden die zijn bestemd en worden gebruikt voor het banenstelsel van de luchthaven, de rolbanen, de vliegtuigopstelplaatsen, de hangars en vliegtuigshelters en de gronden die benodigd zijn voor de uitvoering van de taken en functies die zijn toegekend aan de militaire luchthaven Eindhoven, alsmede het platform, de voorrijwegen en parkeerterreinen, de gebouwen voor passagiersafhandeling en de aankomst- en vertrekhallen van de burgerexploitant, zijn als zodanig aangewezen op de kaart in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0035646&bijlage=1&z=2014-11-01&g=2014-11-01) bij dit besluit.
+De gronden die zijn bestemd en worden gebruikt voor het banenstelsel van de luchthaven, de rolbanen, de vliegtuigopstelplaatsen, de hangars en vliegtuigshelters en de gronden die benodigd zijn voor de uitvoering van de taken en functies die zijn toegekend aan de militaire luchthaven Eindhoven, alsmede het platform, de voorrijwegen en parkeerterreinen, de gebouwen voor passagiersafhandeling en de aankomst- en vertrekhallen van de burgerexploitant, zijn als zodanig aangewezen op de kaart in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0035646&bijlage=1&z=2017-01-01&g=2017-01-01) bij dit besluit.
 
 #### Paragraaf 3.2. Het beperkingengebied
 
 ##### Artikel 3.2.1
 
-De [artikelen 5 tot en met 14 van het Besluit militaire luchthavens](https://wetten.overheid.nl/jci1.3:c:BWBR0025302&artikel=5) zijn van toepassing ten aanzien van de bestemming en het gebruik van de gronden zoals aangewezen op de kaart in [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0035646&bijlage=3&z=2014-11-01&g=2014-11-01) bij dit besluit. Op deze kaart zijn tevens aangewezen de gebieden behorende bij de waarden van de geluidsbelasting hoger dan 40, 45 en 65 Kosteneenheden.
+De [artikelen 5 tot en met 14 van het Besluit militaire luchthavens](https://wetten.overheid.nl/jci1.3:c:BWBR0025302&artikel=5) zijn van toepassing ten aanzien van de bestemming en het gebruik van de gronden zoals aangewezen op de kaart in [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0035646&bijlage=3&z=2017-01-01&g=2017-01-01) bij dit besluit. Op deze kaart zijn tevens aangewezen de gebieden behorende bij de waarden van de geluidsbelasting hoger dan 40, 45 en 65 Kosteneenheden.
 
 ##### Artikel 3.2.2
 
-[Artikel 16 van het Besluit militaire luchthavens](https://wetten.overheid.nl/jci1.3:c:BWBR0025302&artikel=16) is van toepassing ten aanzien van de maximaal toelaatbare hoogten van objecten in verband met de veiligheid van het luchthavenluchtverkeer, onderscheidenlijk de veiligheid van het landen van luchtvaartuigen met behulp van een instrument landingssysteem, op de gronden zoals aangewezen op de kaarten in [bijlagen 4](https://wetten.overheid.nl/jci1.3:c:BWBR0035646&bijlage=4&z=2014-11-01&g=2014-11-01) en [5](https://wetten.overheid.nl/jci1.3:c:BWBR0035646&bijlage=5&z=2014-11-01&g=2014-11-01) bij dit besluit.
+[Artikel 16 van het Besluit militaire luchthavens](https://wetten.overheid.nl/jci1.3:c:BWBR0025302&artikel=16) is van toepassing ten aanzien van de maximaal toelaatbare hoogten van objecten in verband met de veiligheid van het luchthavenluchtverkeer, onderscheidenlijk de veiligheid van het landen van luchtvaartuigen met behulp van een instrument landingssysteem, op de gronden zoals aangewezen op de kaarten in [bijlagen 4](https://wetten.overheid.nl/jci1.3:c:BWBR0035646&bijlage=4&z=2017-01-01&g=2017-01-01) en [5](https://wetten.overheid.nl/jci1.3:c:BWBR0035646&bijlage=5&z=2017-01-01&g=2017-01-01) bij dit besluit.
 
 ##### Artikel 3.2.3
 
-1. Op de gronden die zijn aangewezen op de kaart in [bijlage 6](https://wetten.overheid.nl/jci1.3:c:BWBR0035646&bijlage=6&z=2014-11-01&g=2014-11-01) bij dit besluit is een grondgebruik of een bestemming binnen de volgende categorieën niet toegestaan:
+1. Op de gronden die zijn aangewezen op de kaart in [bijlage 6](https://wetten.overheid.nl/jci1.3:c:BWBR0035646&bijlage=6&z=2017-01-01&g=2017-01-01) bij dit besluit is een grondgebruik of een bestemming binnen de volgende categorieën niet toegestaan:
 
 - a. oppervlaktewateren met een oppervlakte van meer dan 3 hectare;
 
@@ -126,7 +126,7 @@ De [artikelen 5 tot en met 14 van het Besluit militaire luchthavens](https://wet
 
 ##### Artikel 4.1.1
 
-Voor het militaire luchtverkeer geldt de in [artikel 15 van het Besluit militaire luchthavens](https://wetten.overheid.nl/jci1.3:c:BWBR0025302&artikel=15) genoemde grenswaarde van de geluidsbelasting van 35 Kosteneenheden voor militair luchtverkeer, waarvan de geografische ligging is aangewezen op de kaart in [bijlage 7](https://wetten.overheid.nl/jci1.3:c:BWBR0035646&bijlage=7&z=2014-11-01&g=2014-11-01) bij dit besluit.
+Voor het militaire luchtverkeer geldt de in [artikel 15 van het Besluit militaire luchthavens](https://wetten.overheid.nl/jci1.3:c:BWBR0025302&artikel=15) genoemde grenswaarde van de geluidsbelasting van 35 Kosteneenheden voor militair luchtverkeer, waarvan de geografische ligging is aangewezen op de kaart in [bijlage 7](https://wetten.overheid.nl/jci1.3:c:BWBR0035646&bijlage=7&z=2017-01-01&g=2017-01-01) bij dit besluit.
 
 ##### Artikel 4.1.2
 
@@ -140,7 +140,7 @@ Voor het militaire luchtverkeer geldt de in [artikel 15 van het Besluit militair
 
 ##### Artikel 4.2.1
 
-Voor het commercieel burgerluchtverkeer geldt de in [artikel 15 van het Besluit militaire luchthavens](https://wetten.overheid.nl/jci1.3:c:BWBR0025302&artikel=15) genoemde grenswaarde van de geluidsbelasting van 35 Kosteneenheden voor commercieel burgerluchtverkeer, waarvan de geografische ligging is aangewezen op de kaart in [bijlage 8](https://wetten.overheid.nl/jci1.3:c:BWBR0035646&bijlage=8&z=2014-11-01&g=2014-11-01) bij dit besluit.
+Voor het commercieel burgerluchtverkeer geldt de in [artikel 15 van het Besluit militaire luchthavens](https://wetten.overheid.nl/jci1.3:c:BWBR0025302&artikel=15) genoemde grenswaarde van de geluidsbelasting van 35 Kosteneenheden voor commercieel burgerluchtverkeer, waarvan de geografische ligging is aangewezen op de kaart in [bijlage 8](https://wetten.overheid.nl/jci1.3:c:BWBR0035646&bijlage=8&z=2017-01-01&g=2017-01-01) bij dit besluit.
 
 ##### Artikel 4.2.2
 
@@ -178,7 +178,7 @@ Voor het recreatief burgerluchtverkeer geldt als grenswaarde een maximum van 12.
 
 ##### Artikel 4.4.1
 
-1. De commandant van de militaire luchthaven kan ten behoeve van luchthavenluchtverkeer in het kader van een luchtvaartevenement op de luchthaven toestaan dat voor de duur van dat evenement wordt afgeweken van de dagen, genoemd in [artikel 4.1.2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035646&hoofdstuk=4&paragraaf=4.1&artikel=4.1.2&z=2014-11-01&g=2014-11-01).
+1. De commandant van de militaire luchthaven kan ten behoeve van luchthavenluchtverkeer in het kader van een luchtvaartevenement op de luchthaven toestaan dat voor de duur van dat evenement wordt afgeweken van de dagen, genoemd in [artikel 4.1.2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035646&hoofdstuk=4&paragraaf=4.1&artikel=4.1.2&z=2017-01-01&g=2017-01-01).
 
 2. Ten behoeve van een evenement als bedoeld in het eerste lid staat de luchthaven binnen de voor het militair luchtverkeer geldende openstellingstijden eveneens open voor ander burgerluchtverkeer dan recreatief burgerluchtverkeer voor zover dat andere burgerluchtverkeer onderdeel uitmaakt van het betrokken evenement.
 
@@ -188,31 +188,21 @@ Voor het recreatief burgerluchtverkeer geldt als grenswaarde een maximum van 12.
 
 ##### Artikel 5.1
 
-[Artikel 3.2.3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035646&hoofdstuk=3&paragraaf=3.2&artikel=3.2.3&z=2014-11-01&g=2014-11-01), is niet van toepassing op een grondgebruik of een bestemming voor zover dit gebruik of die bestemming rechtmatig is op de dag voorafgaande aan de dag van inwerkingtreding van dit besluit.
+[Artikel 3.2.3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035646&hoofdstuk=3&paragraaf=3.2&artikel=3.2.3&z=2017-01-01&g=2017-01-01), is niet van toepassing op een grondgebruik of een bestemming voor zover dit gebruik of die bestemming rechtmatig is op de dag voorafgaande aan de dag van inwerkingtreding van dit besluit.
 
 ##### Artikel 5.2
 
-Evaluatie van de milieueffecten van dit besluit als bedoeld in [artikel 7.39 van de Wet milieubeheer](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=7.39) vindt plaats op de wijze, omschreven in [bijlage 9](https://wetten.overheid.nl/jci1.3:c:BWBR0035646&bijlage=9&z=2014-11-01&g=2014-11-01) behorende bij dit besluit.
+Evaluatie van de milieueffecten van dit besluit als bedoeld in [artikel 7.39 van de Wet milieubeheer](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=7.39) vindt plaats op de wijze, omschreven in [bijlage 9](https://wetten.overheid.nl/jci1.3:c:BWBR0035646&bijlage=9&z=2017-01-01&g=2017-01-01) behorende bij dit besluit.
 
 ##### Artikel 5.3
 
-1. In afwijking van [artikel 1.1, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0035646&hoofdstuk=1&artikel=1.1&z=2014-11-01&g=2014-11-01), wordt onder recreatief burgerluchtverkeer mede verstaan: luchthavenluchtverkeer in de vorm van zweefvliegen, sleepvliegen of motorzweefvliegen als bedoeld in [artikel 20 van het Besluit militaire luchthavens](https://wetten.overheid.nl/jci1.3:c:BWBR0025302&artikel=20).
-
-2. Voor het in het eerste lid genoemde burgerluchtverkeer geldt in aanvulling op:
-
-- a. [artikel 4.3.1](https://wetten.overheid.nl/jci1.3:c:BWBR0035646&hoofdstuk=4&paragraaf=4.3&artikel=4.3.1&z=2014-11-01&g=2014-11-01) als grenswaarde een maximum van 11.808 vliegtuigbewegingen per gebruiksjaar, en
-
-- b. [artikel 4.3.2](https://wetten.overheid.nl/jci1.3:c:BWBR0035646&hoofdstuk=4&paragraaf=4.3&artikel=4.3.2&z=2014-11-01&g=2014-11-01) dat op zondag en op christelijke feestdagen:
-
-- i. sleepvliegen niet is toegestaan vóór 12.00 uur;
-
-- ii. per dag tussen 10.00 uur en 12.00 uur niet meer dan drie starts met een motorzweefvliegtuig plaatsvinden.
+Vervallen
 
 ##### Artikel 5.4
 
 1. Dit besluit treedt in werking met ingang van de eerste dag van de kalendermaand na de datum van uitgifte van het Staatsblad waarin het wordt geplaatst.
 
-2. [Artikel 5.3](https://wetten.overheid.nl/jci1.3:c:BWBR0035646&hoofdstuk=5&artikel=5.3&z=2014-11-01&g=2014-11-01) vervalt op een bij koninklijk besluit te bepalen tijdstip.
+2. [Artikel 5.3](https://wetten.overheid.nl/jci1.3:c:BWBR0035646&hoofdstuk=5&artikel=5.3&z=2017-01-01&g=2017-01-01) vervalt op een bij koninklijk besluit te bepalen tijdstip.
 
 ##### Artikel 5.5
 
