@@ -4,7 +4,7 @@ identifier: "BWBR0032516"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2023-10-18"
-last_updated: "2015-12-16"
+last_updated: "2017-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0032516"
 soort: "ministeriele-regeling"
@@ -46,6 +46,8 @@ In dit besluit wordt verstaan onder:
 
 - –. **richtlijn 2001/82/EG:** [Richtlijn 2001/82/EG](32001L0082) van het Europees Parlement en de Raad van 6 november 2001 tot vaststelling van een communautair wetboek betreffende geneesmiddelen voor diergeneeskundig gebruik (PbEU 2001 L 311);
 
+- –. **verordening (EG) nr. 1/2005:** Verordening (EG) nr. 1/2005 van de Raad van 22 december 2004 inzake de bescherming van dieren tijdens het vervoer en daarmee samenhangende activiteiten en tot wijziging van de Richtlijnen 64/432/EEG en 93/119/EG en van Verordening (EG) nr. 1255/97 (PbEU 2005, L 3);
+
 - –. **wet:** [Wet dieren](https://wetten.overheid.nl/jci1.3:c:BWBR0030250).
 
 ##### Artikel 2
@@ -56,7 +58,7 @@ Met het toezicht op de naleving, bedoeld in [artikel 8.1, eerste lid, van de wet
 
 - b. de ambtenaren van de Rijksdienst voor Ondernemend Nederland;
 
-- c. de ambtenaren van de rijksbelastingdienst, bevoegd inzake de douane, onverminderd [artikel 54 van de Regeling diervoeders 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0028123&artikel=54);
+- c. de ambtenaren van de rijksbelastingdienst, bevoegd inzake de douane;
 
 - d. de ambtenaren van de Inspectie voor de Gezondheidszorg van het Ministerie van Volksgezondheid, Welzijn en sport, voor zover het betreft het toezicht op de naleving van:
 
@@ -66,7 +68,7 @@ Met het toezicht op de naleving, bedoeld in [artikel 8.1, eerste lid, van de wet
 
 - e. de controleurs, inspecteurs en keurmeesters van de Stichting COKZ;
 
-- f. de ambtenaren van de politie, bedoeld in [artikel 2, onderdeel a, van de Politiewet 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&artikel=2) voor zover het betreft het toezicht op de naleving van de [artikelen 2.1](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&artikel=2.1) en [2.2, achtste lid, van de Wet dieren](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&artikel=2.2) en het [Besluit houders van dieren](https://wetten.overheid.nl/jci1.3:c:BWBR0035217&wetgeving);
+- f. de ambtenaren van de politie, bedoeld in [artikel 2, onderdeel a, van de Politiewet 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&artikel=2) voor zover het betreft het toezicht op de naleving van de [artikelen 2.1](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&artikel=2.1) en [2.2, achtste lid, van de Wet dieren](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&artikel=2.2) en het [Besluit houders van dieren](https://wetten.overheid.nl/jci1.3:c:BWBR0035217);
 
 - g. de inspecteurs van de stichting Landelijke Inspectiedienst Dierenbescherming, voor zover het betreft het toezicht op de naleving van:
 
@@ -80,7 +82,7 @@ Met het toezicht op de naleving, bedoeld in [artikel 8.1, eerste lid, van de wet
 
 - 5.°. [artikel 2.2, tiende lid, van de Wet dieren](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&artikel=2.2) in samenhang met het bepaalde in de [artikelen 3.1 tot en met 3.3 van het Besluit houders van dieren](https://wetten.overheid.nl/jci1.3:c:BWBR0035217&artikel=3.1);
 
-- 6.°. [artikel 2.5 van de Wet dieren](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&artikel=2.5) in samenhang met het bepaalde in [hoofdstuk 4 van de Regeling houders van dieren](https://wetten.overheid.nl/jci1.3:c:BWBR0035248&hoofdstuk=4);
+- 6°. [artikel 2.5 van de Wet dieren](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&artikel=2.5) in samenhang met hoofdstuk 4 van de Regeling houders van dieren en verordening (EG) nr. 1/2005;
 
 - 7.°. [artikel 2.7, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&artikel=2.7), [2.9](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&artikel=2.9) en [2.16, derde en vierde lid, van de Wet dieren](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&artikel=2.16) in samenhang met de [artikelen 2.1](https://wetten.overheid.nl/jci1.3:c:BWBR0035091&artikel=2.1), [2.5](https://wetten.overheid.nl/jci1.3:c:BWBR0035091&artikel=2.5), [2.7](https://wetten.overheid.nl/jci1.3:c:BWBR0035091&artikel=2.7) en [2.8 van het Besluit diergeneeskundigen](https://wetten.overheid.nl/jci1.3:c:BWBR0035091&artikel=2.8) voor zover het ingrepen betreft ten aanzien van:
 
@@ -88,7 +90,7 @@ Met het toezicht op de naleving, bedoeld in [artikel 8.1, eerste lid, van de wet
 
 - –. dieren als bedoeld in [bijlage II bij het Besluit houders van dieren](https://wetten.overheid.nl/jci1.3:c:BWBR0035217&bijlage=II);
 
-- 8.°. [artikel 2.8 van de Wet dieren](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&artikel=2.8) in samenhang met het bepaalde in het [Besluit diergeneeskundigen](https://wetten.overheid.nl/jci1.3:c:BWBR0035091&wetgeving) en het [Besluit houders van dieren](https://wetten.overheid.nl/jci1.3:c:BWBR0035217&wetgeving);
+- 8.°. [artikel 2.8 van de Wet dieren](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&artikel=2.8) in samenhang met het bepaalde in het [Besluit diergeneeskundigen](https://wetten.overheid.nl/jci1.3:c:BWBR0035091) en het [Besluit houders van dieren](https://wetten.overheid.nl/jci1.3:c:BWBR0035217);
 
 - 9.°. [artikel 2.10 van de Wet dieren](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&artikel=2.10) ten aanzien van:
 
