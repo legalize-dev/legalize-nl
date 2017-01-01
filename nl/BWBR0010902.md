@@ -4,7 +4,7 @@ identifier: "BWBR0010902"
 country: "nl"
 rank: "rijks_kb"
 publication_date: "2017-01-01"
-last_updated: "2010-10-10"
+last_updated: "2017-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0010902"
 soort: "rijksKB"
@@ -104,43 +104,69 @@ Hebben goedgevonden en verstaan:
 
 2. De verpleging kan slechts plaatsvinden in een psychiatrisch ziekenhuis of een inrichting welke naar het oordeel van het met de tenuitvoerlegging belaste gezag daartoe, mede met het oog op de persoon van de ter beschikking gestelde, genoegzaam geschikt is.
 
-#### § 4. Transactie
+#### § 4. Strafbeschikking
 
 ##### Artikel 5
 
-1. De uitoefening van de bevoegdheid tot het stellen van voorwaarden ter voorkoming van strafvervolging, bestaande uit de betaling van een bepaalde geldsom aan de staat of in de gehele of gedeeltelijke vergoeding van de door het strafbare feit veroorzaakte schade, dan wel beide, wordt in de bij het tweede lid aangewezen zaken toegekend aan de krachtens [artikel 59 van de Wet militaire strafrechtspraak](https://wetten.overheid.nl/jci1.3:c:BWBR0004789&artikel=59) aangewezen bevelvoerende militairen.
+1. De bevoegdheid tot het uitvaardigen van een strafbeschikking als bedoeld in [artikel 59, eerste lid, van het Wetboek van Militair Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001869&artikel=59), kan slechts worden uitgeoefend in zaken die betrekking hebben op een strafbaar feit omschreven in:
 
-2. De bevoegdheid tot het stellen van voorwaarden ter voorkoming van strafvervolging kan slechts worden uitgeoefend in zaken, betrekking hebbend op de strafbare feiten omschreven in de [artikelen 141](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=141), [142](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=142), [266](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=266), [267](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=267), [300, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=300), [310](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=310), [311, eerste lid, aanhef en onder 4 en 5](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=311), [321](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=321), [350](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=350), [424](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=424), [426](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=426) en [453 van het Wetboek van Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=453) van het Europese deel van Nederland.
+- a. [artikel 141, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=141), [142](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=142), [266](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=266), [267](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=267), [300, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=300), [310](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=310), [311, eerste lid, aanhef en onder 4° en 5°](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=311), [321](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=321), [350](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=350), [424](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=424) en [426 van het Wetboek van Strafrecht van het Europese deel van Nederland](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=426);
 
-3. De officier van justitie, hoofd van het arrondissementsparket bij het in [artikel 3, tweede lid, van de Wet militaire strafrechtspraak](https://wetten.overheid.nl/jci1.3:c:BWBR0004789&artikel=3) aangewezen gerecht, stelt een richtlijn vast, waarin per delictscategorie de bedragen worden aangegeven, tegen betaling waarvan de verdachte, op een daartoe strekkend aanbod van de bevelvoerende militair, de strafvervolging terzake van de strafbare feiten, bedoeld in het tweede lid kan voorkomen. De officier van justitie volgt daarbij zoveel mogelijk de dienovereenkomstige landelijk geldende tarieflijst voor het door het College van procureurs-generaal vastgestelde transactiebeleid inzake deze feiten.
+- b. [artikel 169](https://wetten.overheid.nl/jci1.3:c:BWBR0001869&artikel=169) en [170 van het Wetboek van Militair Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001869&artikel=170).
 
-4. De officier van justitie kan de bevelhebber van een krijgsmachtdeel schriftelijk mededelen dat klemmende redenen in het belang van de strafvordering vergen dat een bepaalde bevelvoerende militair behorende tot dat krijgsmachtdeel tot nader bericht geschorst wordt in de uitoefening van de bevoegdheid tot het stellen van voorwaarden ter voorkoming van strafvervolging. De bevelhebber draagt zorg dat deze mededeling de betrokken bevelvoerende militair onverwijld bereikt en dat deze dienovereenkomstig handelt.
+2. Indien het strafbare feit is begaan in deelneming met een of meer personen op wie uitsluitend het [Wetboek van Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001854) van het Europese deel van Nederland van toepassing is, oefent de bevelvoerende militair zijn bevoegdheid slechts uit na verkregen toestemming van de officier van justitie bij het in [artikel 55, eerste lid, van de Wet op de rechterlijke organisatie](https://wetten.overheid.nl/jci1.3:c:BWBR0001830&artikel=55) genoemde gerecht.
 
-5. Indien de redenen der schorsing zijn vervallen, stelt de officier van justitie de bevelhebber daarvan onverwijld schriftelijk in kennis. Deze draagt zorg dat dit bericht de betrokken bevelvoerende militair bereikt.
+3. In de strafbeschikking worden enkel een geldboete of een verplichting tot betaling aan de staat van een som gelds ten behoeve van het slachtoffer opgelegd. De strafbeschikking kan in totaal ten hoogste een betalingsverplichting van € 2.000 inhouden.
+
+4. De strafbeschikking vermeldt, in aanvulling op de gegevens, bedoeld in [artikel 257a, zesde lid, van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=257a) van het Europees deel van Nederland, de naam en rang van de bevelvoerende militair die de strafbeschikking uitvaardigt.
 
 ##### Artikel 6
 
-Indien het strafbare feit is begaan in deelneming met een of meer personen op wie uitsluitend het [Wetboek van Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001854) van het Europese deel van Nederland van toepassing is, oefent de bevelvoerende militair de hem verleende transactiebevoegdheid niet uit dan met door tussenkomst van de bevelhebber van het betrokken krijgsmachtdeel verkregen toestemming van de officier van justitie.
+1. De bevelvoerende militair die de strafbeschikking uitvaardigt, verstrekt de officier van justitie, genoemd in [artikel 5, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010902&hoofdstuk=I&paragraaf=4&artikel=5&z=2017-01-01&g=2017-01-01), de gegevens die nodig zijn voor de uitvoering van dit artikel en voor de tenuitvoerlegging van de opgelegde geldboete of verplichting tot betaling aan de staat van een som gelds ten behoeve van het slachtoffer.
+
+2. De officier van justitie houdt aantekening in de daarvoor bestemde landelijke geautomatiseerde registers van elke uitreiking in persoon of toezending van het afschrift van de strafbeschikking.
+
+3. In geval van uitreiking in persoon wordt aantekening gehouden van in ieder geval de volgende gegevens:
+
+- a. de datum van uitreiking;
+
+- b. de plaats en het adres van uitreiking; en,
+
+- c. de naam van de verdachte aan wie wordt uitgereikt.
+
+4. In geval van toezending wordt aantekening gehouden van in ieder geval de volgende gegevens:
+
+- a. de datum van toezending;
+
+- b. de naam van de verdachte aan wie het afschrift wordt toegezonden, de naam van de benadeelde partij aan wie het afschrift wordt toegezonden en de naam van de bij de officier van justitie bekende rechtstreeks belanghebbende aan wie het afschrift wordt toegezonden;
+
+- c. het adres of de adressen waarnaar het afschrift wordt toegezonden;
+
+- d. of de toezending per gewone dan wel per aangetekende brief geschiedt; en,
+
+- e. de datum van ontvangst van het afschrift.
 
 ##### Artikel 7
 
-1. De officier van justitie ziet erop toe dat de bevelvoerende militair, indien de voorwaarde, gesteld ter voorkoming van strafvervolging, bestaat in de betaling van een geldsom, geen andere bedragen aanwijst dan vastgelegd zijn in de richtlijn, bedoeld in [artikel 5, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010902&hoofdstuk=I&paragraaf=4&artikel=5&z=2010-10-10&g=2010-10-10), voor de overeenkomstige strafbare feiten. Hij draagt zorg dat de bevelvoerende militairen door tussenkomst van de bevelhebber van het betrokken krijgsmachtdeel in het bezit worden gesteld van deze richtlijn. Aan de betrokken persoon verleent de betrokken bevelvoerende militair, ter gelegenheid van de uitoefening van de bevoegdheid, bedoeld in [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010902&hoofdstuk=I&paragraaf=4&artikel=5&z=2010-10-10&g=2010-10-10), desgevraagd inzage van deze richtlijn.
+1. De bevelvoerende militair die de strafbeschikking uitvaardigt, wijst ten behoeve van de verdachte die wil voldoen aan de opgelegde geldboete of verplichting tot betaling aan de staat van een som gelds ten behoeve van het slachtoffer, een plaats aan waar en een persoon bij wie kan worden overgegaan tot betaling.
 
-2. De bevelvoerende militair reikt onverwijld aan degene die vrijwillig voldoet aan de voorwaarde tot betaling van een geldsom, een gedagtekend en door de bevelvoerende militair ondertekend betalingsbewijs uit. De officier van justitie stelt het formulier van dit betalingsbewijs vast.
+2. Ten aanzien van de betaling wordt door of vanwege de bevelvoerende militair die de strafbeschikking heeft uitgevaardigd onverwijld een gedagtekend en ondertekend betalingsbewijs uitgereikt. Een kopie van het gedagtekende en ondertekende betalingsbewijs wordt door of vanwege de bevelvoerende militair bewaard.
 
-3. De bevelvoerende militair houdt van ieder aanbod en iedere inning aantekening. Hij vermeldt daarin de personen aan wie de voorwaarde is gesteld, het ontdekte strafbare feit en de wijze van voldoening. De aantekeningen worden, uiterlijk binnen een jaar, overgelegd aan de officier van justitie, bedoeld in [artikel 5, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010902&hoofdstuk=I&paragraaf=4&artikel=5&z=2010-10-10&g=2010-10-10), door tussenkomst van de betrokken bevelhebber.
+3. De op grond van het eerste lid ontvangen gelden worden regelmatig, indien nodig door tussenkomst van de in [artikel 5, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010902&hoofdstuk=I&paragraaf=4&artikel=5&z=2017-01-01&g=2017-01-01), genoemde officier van justitie, overgemaakt op de daartoe bestemde bankrekening van Onze Minister van Veiligheid en Justitie.
 
-4. Met betrekking tot de verantwoording van de op het transactie aanbod verkregen gelden zijn de [artikelen 11](https://wetten.overheid.nl/jci1.3:c:BWBR0006664&artikel=11), [12](https://wetten.overheid.nl/jci1.3:c:BWBR0006664&artikel=12), [13](https://wetten.overheid.nl/jci1.3:c:BWBR0006664&artikel=13) en [14 van het Transactiebesluit 1994](https://wetten.overheid.nl/jci1.3:c:BWBR0006664&artikel=14) van overeenkomstige toepassing, met dien verstande dat waar in die artikelen wordt gedoeld op de buitengewoon opsporingsambtenaren onderscheidenlijk de korpschef daarvoor in de plaats treedt de bevelvoerende militair onderscheidenlijk de bevelhebber van het betrokken krijgsmachtdeel en dat met hoofdofficier van justitie steeds wordt gedoeld op de ambtsdrager, aangeduid in [artikel 5, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010902&hoofdstuk=I&paragraaf=4&artikel=5&z=2010-10-10&g=2010-10-10), van dit besluit.
+4. De commandanten van de operationele commando’s doen op de door Onze Minister van Veiligheid en Justitie te bepalen wijze opgave van de verstrekking en het beheer van de betalingsbewijzen, de afrekening en de verantwoording van de ontvangen gelden alsmede de in verband daarmee te voeren administratie.
 
 #### § 5. Bekendmaking «tijd van oorlog»
 
 ##### Artikel 8
 
-1. De bekendmaking van een aanwijzing als bedoeld in [artikel 71 van het Wetboek van Militair Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001869&artikel=71) geschiedt kort voor de vermoedelijke aanvang van de opgedragen taak mondeling door de militair die over het aangewezen gedeelte van de krijgsmacht het bevel voert.
+1. De officier van justitie, genoemd in [artikel 5, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010902&hoofdstuk=I&paragraaf=4&artikel=5&z=2017-01-01&g=2017-01-01), draagt zorg dat de krachtens [artikel 59, eerste lid, van de Wet militaire strafrechtspraak](https://wetten.overheid.nl/jci1.3:c:BWBR0001869&artikel=59) aangewezen bevelvoerende militairen door tussenkomst van de commandanten van de operationele commando's in het bezit worden gesteld van de richtlijnen, bedoeld in artikel 59, derde lid, van het Wetboek van Militair Strafrecht, waarin per delictscategorie de geldboetebedragen worden aangegeven. Aan de betrokken personen verleent de bevelvoerende militair ter gelegenheid van de uitoefening van de bevoegdheid, bedoeld in artikel 5, desgevraagd inzage in de richtlijn.
 
-2. Bij de bekendmaking wordt eveneens medegedeeld dat onmiddellijk daarna en totdat de opgelegde taak is geëindigd, ten aanzien van voormeld gedeelte voor de toepassing van de strafwet tijd van oorlog aanwezig wordt geacht en de personen tegenover wie het geweld van de wapens kan worden aangewend, worden gelijkgesteld met de vijand.
+2. De officier van justitie ziet erop toe dat de bevelvoerende militair bij de uitoefening van diens bevoegdheid dit besluit en de richtlijnen naleeft.
 
-3. Van de bekendmaking en de mededeling wordt door degene die de bekendmaking en mededeling heeft gedaan, proces-verbaal opgemaakt, dat aan Onze Minister van Defensie wordt gezonden.
+3. De officier van justitie kan bepalen dat het belang van de strafvordering vergt dat de bevoegdheid tot het uitvaardigen van een strafbeschikking wordt opgeschort. Van de opschorting wordt schriftelijk mededeling gedaan aan de commandanten van de betrokken operationele commando's. Deze dragen zorg dat de mededeling de betrokken bevelvoerende militairen onverwijld bereikt en dat deze dienovereenkomstig handelen.
+
+4. Indien de redenen van de opschorting zijn vervallen, doet de officier van justitie de commandanten van de betrokken operationele commando's daarvan onverwijld schriftelijk mededeling. Deze dragen zorg dat deze mededeling de betrokken bevelvoerende militairen onverwijld bereikt.
 
 #### § 6. Dienstvoorschriften
 
@@ -180,7 +206,7 @@ Indien het strafbare feit is begaan in deelneming met een of meer personen op wi
 
 1. Vergoedingen als bedoeld in [artikel 65 van de Wet militair tuchtrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0004788&artikel=65) van door niet-militaire getuigen en deskundigen gemaakte onkosten worden berekend naar de regelen, vervat in de [artikelen 1 tot en met 4](https://wetten.overheid.nl/jci1.3:c:BWBR0002429&artikel=1), [6](https://wetten.overheid.nl/jci1.3:c:BWBR0002429&artikel=6) en [7a van het Besluit tarieven in strafzaken](https://wetten.overheid.nl/jci1.3:c:BWBR0002429&artikel=7a).
 
-2. Op de ingevolge [artikel 92, vierde lid, van de Wet militair tuchtrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0004788&artikel=92) toegevoegde advocaat is het Besluit vergoedingen rechtsbijstand 1994 van overeenkomstige toepassing. Daarbij wordt de wegingsfactor, genoemd in bijlage II B, onder Z.080, bij dat besluit gebruikt.
+2. Op de ingevolge [artikel 92, vierde lid, van de Wet militair tuchtrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0004788&artikel=92) toegevoegde advocaat is het [Besluit vergoedingen rechtsbijstand 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011018) van overeenkomstige toepassing.
 
 #### § 3. Herstel geleden nadeel
 
@@ -210,7 +236,7 @@ Herstel van het geleden nadeel ingeval een beklag of beroep over de wijze van te
 
 ##### Artikel 14
 
-1. Op het verlenen van verlof in verband met herstel van het geleden nadeel als bedoeld in de [artikelen 12](https://wetten.overheid.nl/jci1.3:c:BWBR0010902&hoofdstuk=II&paragraaf=3&artikel=12&z=2010-10-10&g=2010-10-10) en [13](https://wetten.overheid.nl/jci1.3:c:BWBR0010902&hoofdstuk=II&paragraaf=3&artikel=13&z=2010-10-10&g=2010-10-10) zijn de [artikelen 63](https://wetten.overheid.nl/jci1.3:c:BWBR0003482&artikel=63), [64](https://wetten.overheid.nl/jci1.3:c:BWBR0003482&artikel=64), [65](https://wetten.overheid.nl/jci1.3:c:BWBR0003482&artikel=65) en [67 van het Algemeen militair ambtenarenreglement](https://wetten.overheid.nl/jci1.3:c:BWBR0003482&artikel=67) van overeenkomstige toepassing.
+1. Op het verlenen van verlof in verband met herstel van het geleden nadeel als bedoeld in de [artikelen 12](https://wetten.overheid.nl/jci1.3:c:BWBR0010902&hoofdstuk=II&paragraaf=3&artikel=12&z=2017-01-01&g=2017-01-01) en [13](https://wetten.overheid.nl/jci1.3:c:BWBR0010902&hoofdstuk=II&paragraaf=3&artikel=13&z=2017-01-01&g=2017-01-01) zijn de [artikelen 63](https://wetten.overheid.nl/jci1.3:c:BWBR0003482&artikel=63), [64](https://wetten.overheid.nl/jci1.3:c:BWBR0003482&artikel=64), [65](https://wetten.overheid.nl/jci1.3:c:BWBR0003482&artikel=65) en [67 van het Algemeen militair ambtenarenreglement](https://wetten.overheid.nl/jci1.3:c:BWBR0003482&artikel=67) van overeenkomstige toepassing.
 
 2. Ingeval herstel van het geleden nadeel plaatsvindt binnen 30 dagen voordat de militair de dienst verlaat of nadat de militair de dienst heeft verlaten, wordt op verzoek van de militair de toegekende vrije tijd vervangen door een geldbedrag.
 
@@ -270,7 +296,7 @@ Het is de met arrest gestrafte krijgsgevangene verboden de plaats waar hij zijn 
 
 1. Aan een krijgsgevangene, verdacht van een tuchtvergrijp, kan voorlopig arrest worden aangezegd, indien de orde en tucht in het krijgsgevangenkamp zulks vereisen of indien hij zich schuldig heeft gemaakt aan een van de vergrijpen als bedoeld in [artikel 105, onder d, van de Wet militair tuchtrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0004788&artikel=105).
 
-2. Het voorlopig arrest wordt ondergaan in de vorm van het in [artikel 19](https://wetten.overheid.nl/jci1.3:c:BWBR0010902&hoofdstuk=II&paragraaf=5&artikel=19&z=2010-10-10&g=2010-10-10) omschreven arrest in afzondering.
+2. Het voorlopig arrest wordt ondergaan in de vorm van het in [artikel 19](https://wetten.overheid.nl/jci1.3:c:BWBR0010902&hoofdstuk=II&paragraaf=5&artikel=19&z=2017-01-01&g=2017-01-01) omschreven arrest in afzondering.
 
 ### Hoofdstuk III. Nadere bepalingen met betrekking tot de Wet militaire strafrechtspraak
 
@@ -280,13 +306,13 @@ Het is de met arrest gestrafte krijgsgevangene verboden de plaats waar hij zijn 
 
 1. De militaire leden genieten een vergoeding van reis- en verblijfkosten overeenkomstig de bepalingen welke te dien aanzien voor de burgerlijke ambtenaren werkzaam op de ministeries zijn of zullen worden vastgesteld.
 
-2. De militaire leden leggen de eed of belofte af in handen van het desbetreffende college.
+2. De militaire leden leggen de eed of belofte af, bedoeld in artikel 5g, eerste lid, van de Wet rechtspositie rechterlijke ambtenaren, met dien verstande dat de woorden «rechterlijk ambtenaar» worden vervangen door «militair lid».
 
 3. Van het afleggen van de eed of belofte wordt een akte opgemaakt.
 
 4. De eed of belofte wordt afgenomen op requisitoir van het openbaar ministerie.
 
-5. De militaire leden zijn ter terechtzitting gekleed in de tenue vastgesteld voor het betrokken krijgsmachtdeel.
+5. De militaire leden zijn ter terechtzitting gekleed in de tenue vastgesteld voor het betrokken operationeel commando.
 
 #### § 2. Bevelsgebied commandant der zeemacht in het Caraïbisch gebied
 
@@ -312,9 +338,7 @@ Voor de vergoeding van de kosten, bedoeld in [artikel 23, vijfde lid, van de Wet
 
 ##### Artikel 25
 
-1. Voorzover aan de opsporingsambtenaren, bedoeld in de [artikelen 141](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=141), [142](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=142) en [154 van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=154) van het Europese deel van Nederland, bevoegdheden toekomen in verband met het opsporen van feiten, waarvan de rechter bedoeld in de Wet militaire strafrechtspraak kennis neemt, kunnen zij die bevoegdheid buiten het grondgebied van het Europese deel van Nederland slechts uitoefenen, voorzover het volkenrecht en het interregionale recht dit toelaten.
-
-2. Voorzover zij deze bevoegdheden uitoefenen in Aruba, Curaçao en Sint Maarten en in Bonaire, Sint Eustatius en Saba ten laste van personen die niet aan de rechtsmacht van de in het eerste lid bedoelde rechter zijn onderworpen, nemen zij daarbij de ter plaatse geldende wetgeving betreffende de gewone strafvordering in acht.
+Voorzover aan de opsporingsambtenaren, bedoeld in de [artikelen 141](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=141), [142](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=142) en [154 van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=154) van het Europese deel van Nederland, bevoegdheden toekomen in verband met het opsporen van feiten, waarvan de rechter bedoeld in de Wet militaire strafrechtspraak kennis neemt, kunnen zij die bevoegdheid buiten het Koninkrijk slechts uitoefenen, voor zover het volkenrecht dit toelaat.
 
 ##### Artikel 26
 
@@ -345,5 +369,33 @@ Dit besluit treedt in werking op het tijdstip dat de [Rijkswet van 2 juni 1999 t
 ##### Artikel 29
 
 Dit besluit wordt aangehaald als: Rijksbesluit uitvoeringsbepalingen militair straf- en tuchtrecht.
+
+Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad, in het Publicatieblad van de Nederlandse Antillen en in het Afkondigingsblad van Aruba zal worden geplaatst.
+
+#### § 5. Dienstvoorschriften
+
+### Hoofdstuk II. Nadere bepalingen met betrekking tot de Wet militair tuchtrecht
+
+#### § 1. Tuchtrechtelijke geldboete
+
+#### § 2. Vergoeding voor advocaat, getuige en deskundige
+
+#### § 3. Herstel geleden nadeel
+
+#### § 4. Bewaring van en klachten ten aanzien van ingenomen voorwerpen en geschriften
+
+#### § 5. Uitvoering tuchtstraffen opgelegd aan krijgsgevangenen
+
+### Hoofdstuk III. Nadere bepalingen met betrekking tot de Wet militaire strafrechtspraak
+
+#### § 1. Reis- en verblijfskosten, eedsaflegging en tenue van de militaire leden
+
+#### § 2. Bevelsgebied commandant der zeemacht in het Caraïbisch gebied
+
+#### § 3. Reis- en verblijfskostenvergoeding voor de officier-raadsman en voor de verdachte
+
+#### § 4. Bevoegdheden van de opsporingsambtenaren buiten het Koninkrijk
+
+### Hoofdstuk IV. Slotbepalingen
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad, in het Publicatieblad van de Nederlandse Antillen en in het Afkondigingsblad van Aruba zal worden geplaatst.
