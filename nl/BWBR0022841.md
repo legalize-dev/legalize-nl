@@ -4,7 +4,7 @@ identifier: "BWBR0022841"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-01-01"
-last_updated: "2016-04-01"
+last_updated: "2017-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0022841"
 soort: "ministeriele-regeling"
@@ -52,13 +52,13 @@ In deze regeling wordt verstaan onder:
 
 - c. instellingssubsidie: een op grond van deze regeling per boekjaar verstrekte subsidie in de kosten van structurele activiteiten van een instelling;
 
-- d. palliatieve terminale zorg: hulp die personen op vrijwillige basis zonder overeengekomen beloning verlenen aan een terminale hulpbehoevende in de vorm van vervangende mantelzorg in de thuissituatie van de hulpbehoevende dan wel in een bijna-thuis-huis of high care hospice;
+- d. palliatieve terminale zorg: hulp die personen op vrijwillige basis zonder overeengekomen beloning verlenen aan een terminale hulpbehoevende in de vorm van vervangende mantelzorg;
 
 - e. bijna-thuis-huis: organisatorisch verband dat strekt tot de verlening van palliatieve terminale zorg;
 
 - f. high care hospice: organisatorisch verband dat strekt tot de verlening van palliatieve terminale zorg en waar minimaal één verpleegkundige in vaste dienst is;
 
-- g. referentieperiode: het aantal aaneengesloten jaren dat de instelling tot en met 30 juni van het kalenderjaar voorafgaand aan het boekjaar waarvoor de instellingssubsidie wordt verstrekt palliatieve terminale zorg heeft verleend, met dien verstande dat:
+- g. referentieperiode: het aantal aaneengesloten jaren dat de instelling tot en met 31 december van het voorgaande kalenderjaar voorafgaand aan het boekjaar waarvoor de instellingssubsidie wordt verstrekt palliatieve terminale zorg heeft verleend, met dien verstande dat:
 
 - 1°. de referentieperiode niet meer dan 3 jaren bedraagt;
 
@@ -66,31 +66,19 @@ In deze regeling wordt verstaan onder:
 
 - h. netwerk palliatieve zorg: netwerk ten behoeve van de versterking van de onderlinge samenwerking tussen de bij de palliatieve terminale zorg betrokken organisaties en personen;
 
-- i. netwerkregio: de in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0022841&bijlage=1&z=2016-04-01&g=2016-04-01) bij de desbetreffende instelling genoemde gemeenten;
+- i. netwerkregio: de in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0022841&bijlage=1&z=2017-01-01&g=2017-01-01) bij de desbetreffende instelling genoemde gemeenten;
 
-- j. betaalde coördinatie: coördinatie van de inzet van vrijwilligers die palliatieve terminale zorg in de thuissituatie verlenen, door een persoon in dienstverband met de instelling.
+- j. betaalde coördinatie: coördinatie van de inzet van vrijwilligers die palliatieve terminale zorg in de thuissituatie verlenen, door een persoon in dienstverband met de instelling;
+
+- k. cliënt: persoon die palliatieve terminale zorg ontvangt.
 
 ##### Artikel 2
 
-Deze regeling is van toepassing op het verstrekken van:
-
-- a. instellingssubsidies voor het verlenen van palliatieve terminale zorg in de thuissituatie;
-
-- b. instellingssubsidies voor het verlenen van palliatieve terminale zorg in een bijna-thuis-huis;
-
-- c. instellingssubsidies voor het verlenen van palliatieve terminale zorg in een high care hospice;
-
-- d. instellingssubsidies voor de coördinatie van een netwerk palliatieve zorg;
-
-- e. afbouwsubsidies aan instellingen waaraan op grond van de [Regeling terminale en palliatieve zorg 2007](https://wetten.overheid.nl/jci1.3:c:BWBR0020255) een instellingssubsidie is verstrekt.
+Deze regeling is van toepassing op het verstrekken van instellingssubsidies voor het verlenen van palliatieve terminale zorg en van instellingssubsidies voor de coördinatie van een netwerk palliatieve zorg.
 
 ##### Artikel 3
 
-1. Een instellingssubsidie voor palliatieve terminale zorg wordt niet verstrekt:
-
-- a. aan een instelling die deel uitmaakt van een organisatorisch verband met een toelating als bedoeld in [artikel 5, eerste lid, van de Wet toelating zorginstellingen](https://wetten.overheid.nl/jci1.3:c:BWBR0018906&artikel=5);
-
-- b. ten behoeve van het verlenen van palliatieve terminale zorg aan personen die verblijven in een instelling die deel uitmaakt van een organisatorisch verband met een toelating als bedoeld in [artikel 5, eerste lid, van de Wet toelating zorginstellingen](https://wetten.overheid.nl/jci1.3:c:BWBR0018906&artikel=5).
+1. Een instellingssubsidie voor palliatieve terminale zorg wordt niet verstrekt aan een instelling met een toelating als bedoeld in [artikel 5, eerste lid, van de Wet toelating zorginstellingen](https://wetten.overheid.nl/jci1.3:c:BWBR0018906&artikel=5). Deze uitzondering geldt niet voor een high care hospice waar ten hoogste 20 verpleegkundigen, gerekend naar voltijds dienstverband in vaste dienst zijn, mits deze high care hospice geen deel uitmaakt van een overkoepelende organisatie.
 
 2. Een subsidie ten laste van een begroting die nog niet is vastgesteld, wordt verleend onder de voorwaarde, bedoeld in [artikel 4:34, eerste lid, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:34).
 
@@ -106,37 +94,29 @@ De Minister kan bij het verstrekken van een instellingssubsidie verplichtingen o
 
 ##### Artikel 5
 
-De Minister kan jaarlijks op aanvraag een instellingssubsidie verstrekken voor het verlenen van:
-
-- a. palliatieve terminale zorg in de thuissituatie;
-
-- b. palliatieve terminale zorg in een bijna-thuis-huis;
-
-- c. palliatieve terminale zorg in een high care hospice.
+Vervallen
 
 ##### Artikel 6
 
-1. De instellingssubsidie bestaat uit een exploitatiecomponent en, voor wat betreft palliatieve terminale zorg in een bijna-thuis-huis en in een high care hospice, tevens uit een huisvestingscomponent.
+De Minister kan jaarlijks op aanvraag een instellingssubsidie verstrekken.
 
-2. De instellingssubsidie bedraagt per cliënt ten hoogste:
+De instellingssubsidie bedraagt per cliënt ten hoogste:
 
-- a. voor palliatieve terminale zorg in de thuissituatie zonder betaalde coördinatie: in 2011 € 992 voor de exploitatiecomponent en vanaf 2012 € 464 voor de exploitatiecomponent;
+- a. voor het verlenen van palliatieve terminale zorg in de thuissituatie, dan wel in een bijna-thuis-huis of high care hospice zonder betaalde coördinatie: € 464 en € 1.325 met betaalde coördinatie;
 
-- b. voor palliatieve terminale zorg in de thuissituatie met betaalde coördinatie: € 1.325 voor de exploitatiecomponent;
+- b. aan een bijna-thuis-huis ten behoeve van het verlenen van palliatieve terminale zorg in het bijna-thuis-huis: € 3.239;
 
-- c. voor thuisvervangende palliatieve terminale zorg in een bijna-thuis-huis: € 2.610 voor de exploitatiecomponent en € 629 voor de huisvestingscomponent;
+- c. aan een high care hospice ten behoeve van het verlenen van palliatieve terminale zorg in de high care hospice: € 2.267;
 
-- d. voor palliatieve terminale zorg in een high care hospice: € 1.057 voor de exploitatiecomponent en € 683 voor de huisvestingscomponent.
+- d. voor het verlenen van palliatieve terminale zorg aan personen die verblijven in een instelling met een toelating als bedoeld in [artikel 5, eerste lid, van de Wet toelating zorginstellingen](https://wetten.overheid.nl/jci1.3:c:BWBR0018906&artikel=5): € 464.
 
 ##### Artikel 7
 
-1. De instellingssubsidie wordt berekend door:
+1. De instellingssubsidie wordt berekend door € 17.450.000 zodanig te verdelen onder de instellingen waaraan de instellingssubsidie wordt verstrekt dat elke instelling per cliënt hetzelfde percentage van het desbetreffende maximumbedrag, genoemd in artikel 6 ontvangt.
 
-- a. in 2011 € 12.100.000, in 2012 € 12.100.000 en vanaf 2013 € 13.310.000 zodanig te verdelen onder de instellingen waaraan de instellingssubsidie wordt verstrekt dat elke instelling per cliënt hetzelfde percentage van het desbetreffende maximumbedrag, genoemd in [artikel 6, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022841&paragraaf=2&sub-paragraaf=2.1&artikel=6&z=2016-04-01&g=2016-04-01), voor de exploitatiecomponent ontvangt;
+2. Bij de berekening van de instellingssubsidie wordt het aantal cliënten van de instelling bepaald door het gemiddeld aantal cliënten per jaar in de referentieperiode. Indien in een jaar meerdere malen palliatieve terminale zorg is verleend aan een cliënt, wordt deze voor de bepaling van het aantal cliënten voor één cliënt gerekend.
 
-- b. in 2011 € 2.000.000, in 2012 € 2.000.000 en vanaf 2013 € 2.200.000 zodanig te verdelen onder de instellingen waaraan de instellingssubsidie wordt verstrekt dat elke instelling per cliënt hetzelfde percentage van het desbetreffende maximumbedrag, genoemd in [artikel 6, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022841&paragraaf=2&sub-paragraaf=2.1&artikel=6&z=2016-04-01&g=2016-04-01), voor de huisvestingscomponent ontvangt;
-
-2. Bij de berekening van de instellingssubsidie wordt het aantal cliënten van de instelling bepaald door het gemiddeld aantal cliënten per jaar in de referentieperiode.
+3. Het bedrag, bedoeld in het eerste lid, wordt jaarlijks verhoogd met 3%.
 
 #### Paragraaf 2.2. Palliatieve terminale zorg in een bijna-thuis-huis
 
@@ -166,7 +146,7 @@ Vervallen
 
 Vervallen
 
-#### Paragraaf 2.4. Aanvraag, vaststelling, betaling en verplichtingen
+#### Paragraaf 2.3. Palliatieve terminale zorg in een high care hospice
 
 ##### Artikel 14
 
@@ -174,9 +154,11 @@ Vervallen
 
 2. Een aanvraag die na afloop van de termijn, bedoeld in het eerste lid, wordt ontvangen, wordt afgewezen. De aanvraag van een instellingssubsidie voor palliatieve terminale zorg in de thuissituatie met betaalde coördinatie gaat vergezeld van de arbeidsovereenkomst met de coördinator.
 
+3. De aanvraag die na afloop van de termijn, bedoeld in het eerste lid, wordt ontvangen, wordt niet afgewezen indien redelijkerwijs niet kan worden geoordeeld dat de indiener van de aanvraag in verzuim is geweest. De termijnoverschrijding bedraagt ten hoogste vier weken.
+
 ##### Artikel 15
 
-1. De aanvraag vermeldt het totaal aantal personen waaraan in de referentieperiode door de instelling palliatieve terminale zorg thuis, palliatieve terminale zorg in een bijna-thuis-huis of palliatieve terminale zorg in een high care hospice is verleend. Een verzoek tot verhoging van het in de aanvraag vermelde aantal personen dat na afloop van de termijn, bedoeld in [artikel 14, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022841&paragraaf=2&sub-paragraaf=2.4&artikel=14&z=2016-04-01&g=2016-04-01), wordt ontvangen, wordt afgewezen.
+1. De aanvraag vermeldt het totaal aantal personen waaraan in de referentieperiode door de instelling palliatieve terminale zorg thuis, palliatieve terminale zorg in een bijna-thuis-huis of palliatieve terminale zorg in een high care hospice is verleend. Een verzoek tot verhoging van het in de aanvraag vermelde aantal personen dat na afloop van de termijn, bedoeld in [artikel 14, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022841&paragraaf=2&sub-paragraaf=2.4&artikel=14&z=2017-01-01&g=2017-01-01), wordt ontvangen, wordt afgewezen.
 
 2. Voor de aanvraag wordt een door de Minister vastgesteld formulier gebruikt.
 
@@ -212,27 +194,31 @@ De ontvanger van een instellingssubsidie voor palliatieve terminale zorg voert e
 
 ##### Artikel 21
 
-De Minister kan jaarlijks aan een in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0022841&bijlage=1&z=2016-04-01&g=2016-04-01) genoemde instelling op aanvraag een instellingssubsidie verstrekken voor de coördinatie van een netwerk palliatieve zorg.
+De Minister kan jaarlijks aan een in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0022841&bijlage=1&z=2017-01-01&g=2017-01-01) genoemde instelling op aanvraag een instellingssubsidie verstrekken voor de coördinatie van een netwerk palliatieve zorg.
 
 ##### Artikel 22
 
-1. De instellingssubsidie voor een netwerk palliatieve zorg bedraagt ten hoogste het in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0022841&bijlage=1&z=2016-04-01&g=2016-04-01) bij de desbetreffende instelling en het desbetreffende jaar genoemde bedrag.
+1. De instellingssubsidie voor een netwerk palliatieve zorg bedraagt ten hoogste het in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0022841&bijlage=1&z=2017-01-01&g=2017-01-01) bij de desbetreffende instelling en het desbetreffende jaar genoemde bedrag.
 
 2. De Minister kan het bedrag van de instellingssubsidie voor een netwerk palliatieve zorg bijstellen in geval van een wijziging van de netwerkregio.
 
-3. De Minister kan het bedrag van de instellingssubsidie voor een netwerk palliatieve zorg bijstellen, rekening houdend met de ontwikkeling in de kosten van de arbeidsvoorwaarden. Met het oog op deze bijstelling kan de Minister bij de verlening van de instellingssubsidie bepalen welk deel van het subsidiebedrag daarvoor in aanmerking zal worden genomen.
+3. De Minister kan het bedrag van de instellingssubsidie voor een netwerk palliatieve zorg bijstellen, rekening houdend met de ontwikkeling in de kosten van de arbeidsvoorwaarden. Met het oog op deze bijstelling kan de Minister bij de vaststelling van de instellingssubsidie bepalen welk deel van het subsidiebedrag daarvoor in aanmerking zal worden genomen.
 
 4. Indien een instellingssubsidie met toepassing van het tweede of derde lid wordt bijgesteld, kan de bevoorschotting overeenkomstig worden gewijzigd.
 
 ##### Artikel 23
 
-1. [Artikel 10.1, eerste lid, van de Kaderregeling subsidies OCW, SZW en VWS](https://wetten.overheid.nl/jci1.3:c:BWBR0037603&artikel=10.1) is niet van toepassing op een instellingssubsidie voor een netwerk palliatieve zorg.
+1. De aanvraag van een instellingssubsidie voor een netwerk palliatieve zorg wordt ingediend uiterlijk dertien weken voor de aanvang van het boekjaar waarvoor de subsidie wordt aangevraagd.
 
-2. In afwijking van [7.3, eerste lid, van de Kaderregeling subsidies OCW, SZW en VWS](https://wetten.overheid.nl/jci1.3:c:BWBR0037603&artikel=7.3) worden instellingssubsidies van minder dan € 25.000 voorafgaand aan het boekjaar vastgesteld, welke vaststelling wordt aangevraagd overeenkomstig [hoofdstuk 3 van de Kaderregeling subsidies OCW, SZW en VWS](https://wetten.overheid.nl/jci1.3:c:BWBR0037603&hoofdstuk=3) in plaats van de [artikelen 7.1](https://wetten.overheid.nl/jci1.3:c:BWBR0037603&artikel=7.1), [7.2](https://wetten.overheid.nl/jci1.3:c:BWBR0037603&artikel=7.2) en 7.3, tweede, van de Kaderregeling subsidies OCW, SZW en VWS.
+2. Voor de aanvraag wordt een door de Minister vastgesteld formulier gebruikt.
 
-3. Instellingssubsidies van € 25.000 tot € 125.000 worden verstrekt als subsidies als bedoeld in [artikel 1.5, onderdeel c, onder 2° van de Kaderregeling subsidies OCW, SZW en VWS](https://wetten.overheid.nl/jci1.3:c:BWBR0037603&artikel=1.5).
+3. De Minister kan in het kader van de behandeling van de aanvraag van een instellingssubsidie voor een netwerk palliatieve zorg van € 125.000 of meer verzoeken om een assurancerapport van een accountant als bedoeld in [artikel 393, eerste lid, van Boek 2 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=393).
 
-4. In afwijking van [artikel 8.7, eerste lid, van de Kaderregeling subsidies OCW, SZW en VWS](https://wetten.overheid.nl/jci1.3:c:BWBR0037603&artikel=8.7) vormt de ontvanger van een instellingssubsidie van € 125.000 of meer geen egalisatiereserve.
+4. De aanvrager van een instellingssubsidie voor een netwerk van palliatieve zorg van minder dan € 125.000 werkt, onder meer door het verschaffen van daartoe benodigde inlichtingen, gegevens en bescheiden, mee aan door of namens de Minister ingestelde onderzoekingen die erop gericht zijn de Minister inlichtingen te verschaffen die van belang zijn voor het nemen van een besluit met betrekking tot het verstrekken van de subsidie.
+
+5. De Minister geeft op de aanvraag van een instellingssubsidie voor een netwerk palliatieve zorg binnen dertien weken voor de aanvang van het boekjaar een beschikking tot vaststelling van de subsidie.
+
+6. [Artikel 17, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022841&paragraaf=2&sub-paragraaf=2.4&artikel=17&z=2017-01-01&g=2017-01-01), [artikel 17a, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022841&paragraaf=2&sub-paragraaf=2.4&artikel=17a&z=2017-01-01&g=2017-01-01), en de [artikelen 18](https://wetten.overheid.nl/jci1.3:c:BWBR0022841&paragraaf=2&sub-paragraaf=2.4&artikel=18&z=2017-01-01&g=2017-01-01) en [19](https://wetten.overheid.nl/jci1.3:c:BWBR0022841&paragraaf=2&sub-paragraaf=2.4&artikel=19&z=2017-01-01&g=2017-01-01) zijn van overeenkomstige toepassing.
 
 ##### Artikel 24
 
@@ -254,7 +240,7 @@ Vervallen
 
 De ontvanger van de instellingssubsidie voor een netwerk palliatieve zorg draagt er zorg voor dat:
 
-- a. de coördinatie alle gemeenten omvat, vermeld in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0022841&bijlage=1&z=2016-04-01&g=2016-04-01) in de netwerkregio van de desbetreffende instelling;
+- a. de coördinatie alle gemeenten omvat, vermeld in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0022841&bijlage=1&z=2017-01-01&g=2017-01-01) in de netwerkregio van de desbetreffende instelling;
 
 - b. aan een netwerk palliatieve zorg de instellingen en personen deelnemen die beroepsmatig betrokken zijn bij het verlenen van palliatieve zorg in de netwerkregio;
 
@@ -278,7 +264,7 @@ De Minister kan een of meer bepalingen van deze regeling buiten toepassing laten
 
 ##### Artikel 32
 
-Deze regeling treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin zij wordt geplaatst en vervalt op 1 januari 2017.
+Deze regeling treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin zij wordt geplaatst en vervalt met ingang van 1 januari 2022.
 
 ##### Artikel 33
 
@@ -586,7 +572,7 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 ##### Artikel 5a
 
-De [Kaderregeling subsidies OCW, SZW en VWS](https://wetten.overheid.nl/jci1.3:c:BWBR0037603) is niet van toepassing op de subsidies, bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0022841&paragraaf=2&sub-paragraaf=2.1&artikel=5&z=2016-04-01&g=2016-04-01).
+Vervallen
 
 #### Paragraaf 2.2. Palliatieve terminale zorg in een bijna-thuis-huis
 
@@ -673,5 +659,105 @@ De [Kaderregeling subsidies OCW, SZW en VWS](https://wetten.overheid.nl/jci1.3:c
 | Zuidoost Brabant | Stichting Kwaliteit en Ontwikkeling Huisartsenzorg | Asten, Bergeijk, Best, Bladel, Cranendonck (voor ½), Deurne, Eersel, Eindhoven, Geldrop-Mierlo, Gemert-Bakel, Heeze-Leende, Helmond, Laarbeek, Nuenen c.a., Oirschot, Reusel-De Mierden, Someren, Son en Breugel, Valkenswaard, Veldhoven en Waalre | 152.731 | 152.817 |
 | Zuidoost Utrecht | Stichting Axioncontinu Groep M.i.v. 2016: Aveant B.V. | Bunnik, De Bilt, Utrechtse Heuvelrug (voor 6/7), Wijk bij Duurstede en Zeist | 38.659 | 38.681 |
 | Zutphen | Stichting Sensire | Bronckhorst (voor 1/2), Brummen, Lochem, Zutphen, Voorst (voor 1/2) | 27.940 | 27.956 |
+
+Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
+
+##### Artikel 1a
+
+Op deze regeling is de [Kaderregeling subsidies OCW, SZW en VWS](https://wetten.overheid.nl/jci1.3:c:BWBR0037603) niet van toepassing.
+
+#### Paragraaf 2. Palliatieve terminale zorg
+
+#### Paragraaf 2.1. Instellingssubsidie
+
+#### Paragraaf 2.2. Palliatieve terminale zorg in een bijna-thuis-huis
+
+#### Paragraaf 2.4. Aanvraag, vaststelling, betaling en verplichtingen
+
+#### Paragraaf 3. Netwerken palliatieve zorg
+
+#### Paragraaf 4. Overgangs- en slotbepalingen
+
+## Bijlage 1. Netwerken palliatieve zorg
+
+| Netwerk | Organisatie | Gemeenten in de netwerkregio | Bedragen in hele euro's |
+| --- | --- | --- | --- |
+| Netwerk | Organisatie | Gemeenten in de netwerkregio | 2017 |
+| Almere | Stichting Regionale Ondersteuningsstructuur Almere | Almere | 43.419 |
+| Amstelland & Meerlanden | Stichting Bureau VBZ | Aalsmeer, Amstelveen, Haarlemmermeer, Ouder-Amstel, Uithoorn | 61.595 |
+| Amsterdam-Diemen | Stichting Netwerk Palliatieve Zorg Amsterdam-Diemen | Amsterdam, Diemen | 153.550 |
+| Arnhem en de Liemers | Stichting Transmuraal Netwerk Palliatieve Zorg regio Arnhem | Arnhem, Doesburg, Duiven, Lingewaard, Montferland (voor ½), Overbetuwe, Renkum (voor ½), Rheden, Rijnwaarden, Rozendaal (Gld.), Westervoort en Zevenaar | 80.379 |
+| Delft Westland Oostland | Stichting Pieter van Foreest Zorginstellingen | Delft, Hoek van Holland, Lansingerland (voor ½), Pijnacker-Nootdorp, Westland, Midden-Delfland (voor ¾) | 62.146 |
+| Eemland | Stichting Beweging 3.0 | Amersfoort, Baarn, Barneveld (voor ¼), Bunschoten, Eemnes, Leusden, Nijkerk (voor ½), Soest en Woudenberg | 65.483 |
+| Enschede, Haaksbergen & Noordoost Twente | Stichting Livio | Dinkelland, Enschede, Haaksbergen, Losser en Oldenzaal | 54.650 |
+| Gelderse Vallei | Stichting Icare | Barneveld (voor ¾), Ede, Renswoude, Renkum (voor ½), Rhenen, Scherpenzeel, Utrechtse Heuvelrug (voor 1/7), Veenendaal en Wageningen | 62.557 |
+| Gooi en Vechtstreek | Stichting Hospice Gooi en Vechtstreek | Blaricum, Bussum, Hilversum, Huizen, Laren, Muiden, Naarden, Weesp, Wijdemeren | 51.797 |
+| Groningen-Centraal | Stichting Elann | Groningen, Grootegast, Haren, Hoogezand-Sappemeer, Leek, Marum, Winsum (voor ½), Zuidhorn | 63.955 |
+| Haaglanden | Stichting Transmurale Zorg Den Haag en omstreken | Den Haag, Leischendam-Voorburg, Rijswijk, Wassenaar en Zoetermeer | 143.138 |
+| Hertogenbosch/Bommelerwaard | Stichting Kwaliteit en Integratie | Boxtel, Haaren (voor ½), s-Hertogenbosch, Heusden (voor ½) Maasdriel, Schijndel, Sint-Michielsgestel, Vught en Zaltbommel | 65.410 |
+| Heuvelland | Stichting Envida | Eijsden, Gulpen-Wittem, Maastricht, Margraten, Meerssen, Vaals en Valkenburg aan de Geul | 45.159 |
+| Hoogeveen | Stichting Icare | De Wolden (voor 2/3), Hoogeveen en Midden-Drenthe | 27.697 |
+| Ijssel-Vecht | Stichting Regionaal Zorgnetwerk Zwolle en omgeving | Dalfsen (voor ½), Kampen, Olst – Wijhe (voor 4/9), Staphorst, Zwartewaterland en Zwolle | 53.976 |
+| Kop van Noord-Holland | Stichting Zorg Ondersteuning Noord-Holland Noord | Anna Paulowna, Den Helder, Harenkarspel, Niedorp, Schagen, Texel, Wieringen, Wieringermeer en Zijpe | 37.812 |
+| Meppel-Steenwijkerland | Stichting Icare | De Wolden (voor 1/3), Meppel, Steenwijkerland en Westerveld | 27.537 |
+| Midden- en Zuid-Kennemerland | Stichting Bureau VBZ | Bennebroek, Beverwijk, Bloemendaal, Castricum, Haarlem, Haarlemmerliede c.a., Heemskerk, Heemstede, Uitgeest, Velsen en Zandvoort | 81.432 |
+| Midden-Brabant | Stichting Zorgnetwerk Midden-Brabant | Dongen (voor ½), Gilze en Rijen, Goirle, Haaren (voor 1/2), Heusden (voor 1/2) Hilvarenbeek, Loon op Zand, Oisterwijk, Tilburg en Waalwijk | 79.810 |
+| Midden-Holland | Stichting Transmuraal Netwerk Midden-Holland | Bergambacht, Bodegraven, Boskoop, Gouda, Moordrecht, Nederlek, Nieuwerkerk aan den IJssel, Ouderkerk, Reeuwijk, Schoonhoven, Vlist, Waddinxveen, Woerden (voor 1/3) en Zevenhuizen-Moerkapelle | 53.597 |
+| Midden-Twente | Stichting Carint Reggeland Groep | Borne, Hengelo (O) en Hof van Twente | 33.451 |
+| Nieuwe Waterweg Noord | Stichting Argos Zorggroep | Maassluis, Midden-Delfland (voor ¼), Schiedam en Vlaardingen | 41.466 |
+| Noord- en Oost-Flevoland | Stichting Medisch Coordinatie Centrum Flevoland | Dronten, Lelystad, Noordoostpolder, Urk en Zeewolde (voor 1/2) | 42.908 |
+| Noordelijke Maasvallei | Syntein Innovatie B.V. | Bergen (L.) (voor ½), Boxmeer, Cuijk, Gennep, Grave (voor ½), Mill en Sint Hubert, Mook en Middelaar (voor ½) en Sint Anthonis | 28.656 |
+| Noord-Groningen | Stichting Elann | Appingedam, Bedum, De Marne, Delfzijl, Eemsmond, Loppersum, Slochteren, Ten Boer en Winsum (voor ½) | 29.892 |
+| Noord-Kennemerland | Stichting Zorg Ondersteuning Noord-Holland Noord | Alkmaar, Bergen (NH.), Graft-De Rijp, Heerhugowaard, Heiloo, Langedijk en Schermer | 50.782 |
+| Noord-Limburg | Stichting Viecuri, Medisch Centrum voor Noord-Limburg | Arcen en Velden, Beesel, Bergen (L.) (voor ½), Helden, Horst aan de Maas, Kessel, Maasbree, Meerlo-Wanssum, Meijel, Sevenum, Venlo en Venray | 52.210 |
+| Noord-Midden Drenthe (Assen) | Stichting Icare | Aa en Hunze, Assen, Noordenveld en Tynaarlo | 36.503 |
+| Noordoost-Friesland | Stichting Regionale Ondersteuningsstructuur voor de Eerstelijnszorg in Friesland | Ameland, Dantumadeel, Dongeradeel, Ferwerderadiel, Kollumerland c.a., Schiermonnikoog en Tytsjerksteradiel (voor 1/3) | 20.732 |
+| Noordoost-Overijssel | Stichting Regionaal Zorgnetwerk Zwolle en omgeving | Hardenberg, Ommen | 23.133 |
+| Noordwest-Friesland | Stichting Regionale Ondersteuningsstructuur voor de Eerstelijnszorg in Friesland | Boarnsterhim, Franekeradeel, Harlingen, het Bildt,Leeuwarden, Leeuwarderadeel, Menaldumadeel, Terschelling, Tytsjerksteradiel (voor 1/3) en Vlieland | 47.472 |
+| Noordwest-Twente | Ziekenhuisgroep Twente | Almelo, Hellendoorn, Rijssen-Holten (voor ¾), Tubbergen, Twenterand en Wierden | 46.502 |
+| Noordwest-Utrecht | Zuwe Zorg B.V. | Abcoude, Breukelen, De Ronde Venen, Loenen, Maarssen, Montfoort, Oudewater en Woerden (voor 2/3) | 37.833 |
+| Noordwest-Veluwe | Stichting Palliatieve Zorg Veluwe | Elburg, Ermelo, Harderwijk, Nijkerk (voor ½) Nunspeet, Oldebroek, Putten en Zeewolde (voor ½) | 43.989 |
+| Oost-Achterhoek | Stichting Ziekenhuisvoorzieningen Oost-Achterhoek | Aalten (voor ¾), Berkelland, Oost Gelre, Oude IJsselstreek (voor ½) en Winterswijk | 33.453 |
+| Oostelijk Zuid-Limburg | Stichting Cicero Zorggroep | Brunssum, Heerlen, Kerkrade, Landgraaf, Nuth, Onderbanken, Simpelveld en Voerendaal | 51.836 |
+| Oost-Veluwe | Stichting Gelre ziekenhuizen | Apeldoorn, Epe, Hattem, Heerde en Voorst (voor 1/3) | 46.933 |
+| Oss – Uden – Veghel | Stichting Kwaliteit en Integratie | Bernheze, Boekel, Grave (voor ½), Landerd, Lith, Maasdonk, Oss, Sint-Oedenrode, Uden en Veghel | 53.213 |
+| Rivierengebied | Stichting Zorgcentra Rivierenland | Buren, Culemborg, Geldermalsen, Lingewaal (voor ½), Neder-Betuwe, Neerijnen, Tiel en West Maas en Waal (voor ½) | 39.420 |
+| Roermond | Stichting Zorggroep Noord- en Midden-Limburg | Echt-Susteren, Leudal (voor 4/5), Maasgouw, Roerdalen en Roermond | 37.585 |
+| Roosendaal – Bergen op Zoom – Tholen | Stichting Bravis Ziekenhuis | Bergen op Zoom, Halderberge, Roosendaal, Rucphen, Steenbergen, Woensdrecht en Tholen | 55.032 |
+| Rotterdam & omstreken | Stichting Lelie Zorggroep wonen zorg en welzijn | Albrandswaard, Barendrecht, Capelle aan den IJssel, Krimpen aan den Ijssel, Lansingerland (voor ½) en Rotterdam (excl. Hoek van Holland) | 145.433 |
+| Salland | Stichting Carinova Groep | Deventer, Olst – Wijhe (voor 5/9), Raalte, Rijssen-Holten (voor ¼) en Voorst (voor 1/3) | 34.571 |
+| Stadsgewest Breda | Stichting Amphia | Aalburg, Alpen-Chaam, Baarle-Nassau, Breda, Dongen (voor ½), Drimmelen, Etten-Leur, Geertruidenberg, Moerdijk, Oosterhout Werkendam, Woudrichem en Zundert | 89.509 |
+| Utrecht-Stad | Aveant BV | Utrecht | 66.619 |
+| Utrecht-Zuid | Zuwe Zorg B.V. | Houten, IJsselstein, Lopik, Nieuwegein en Vianen | 40.164 |
+| Waardenland | Stichting Het Spectrum | Alblasserdam, Dordrecht, Giessenlanden, Gorinchem, Graafstroom, Hardinxveld-Giessendam, Hendrik-Ido-Ambacht, Leerdam, Liesveld, Lingewaal (voor ½), Nieuw-Lekkerland, Papendrecht, Ridderkerk, Sliedrecht, Zwijndrecht en Zederik | 86.412 |
+| Weert | Stichting voor Verpleeg-, Verzorgings- en Woonfaciliteiten | Cranendonck (voor ½), Leudal (voor 1/5), Nederweert en Weert | 24.195 |
+| West-Achterhoek | Stichting Slingeland Ziekenhuis | Aalten (voor ¼), Bronckhorst (voor 3/5), Doetinchem, Montferland (voor ½) en Oude IJsselstreek | 34.195 |
+| Westelijke Mijnstreek | Stichting Zuyderland Medisch Centrum | Beek, Schinnen, Sittard-Geleen en Stein | 35.158 |
+| West-Friesland | Stichting Zorg Ondersteuning Noord-Holland Noord | Andijk, Drechterland, Enkhuizen, Hoorn, Koggenland, Medemblik, Opmeer, Stede Broec, Wervershoof en Zeevang (voor ½) | 45.888 |
+| Zaanstreek Waterland | Stichting Zorg Ondersteuning Noord Holland Noord | Beemster, Edam-Volendam, Landsmeer, Oostzaan, Purmerend, Waterland, Wormerland, Zaanstad en Zeevang (voor ½) | 65.078 |
+| Zeeland | Stichting Zorgstroom | Borsele, Goes, Hulst, Kapelle, Noord-Beveland, Middelburg Reimerswaal, Sluis, Schouwen-Duiveland, Terneuzen, Veere en Vlissingen | 70.186 |
+| Zuid-Friesland | Stichting Regionale Ondersteuningsstructuur voor de Eerstelijnszorg in Friesland | Heerenveen, Lemsterland (voor ½), Skarsterlân (voor ½), Weststellingwerf | 26.412 |
+| Zuid-Gelderland | Stichting ZZG Zorggroep | Beuningen, Druten, Groesbeek, Heumen, Millingen aan de Rijn, Mook en Middelaar (voor ½) Nijmegen, Ubbergen, West Maas en Waal (voor ½) en Wijchen | 64.048 |
+| Zuid-Holland-Noord | Stichting Transmuraal Netwerk Zuid-Holland Noord | Alkemade, Alphen aan den Rijn, Hillegom, Jacobswoude, Katwijk, Leiden, Leiderdorp, Lisse, Nieuwkoop, Noordwijk, Noordwijkerhout, Oegstgeest, Rijnwoude, Teylingen, Voorschoten en Zoeterwoude | 100.451 |
+| Zuid-Hollandse eilanden – Goeree Overflakkee | Stichting palliatieve zorg te Dirksland | Dirksland, Goedereede, Middelharnis en Oostflakkee | 18.276 |
+| Zuid-Hollandse eilanden – Hoeksche Waard | Stichting palliatieve zorg te Dirksland | Binnenmaas, Cromstrijen, Korendijk, Oud-Beijerland en Strijen | 24.435 |
+| Zuid-Hollandse eilanden – Voorne-Putten Rozenburg | Stichting palliatieve zorg te Dirksland | Bernisse, Brielle, Hellevoetsluis, Rozenburg, Spijkenisse en Westvoorne | 38.349 |
+| Zuidoost-Brabant | Stichting Kwaliteit en Ontwikkeling Huisartsenzorg | Asten, Bergeijk, Best, Bladel, Cranendonck (voor ½), Deurne, Eersel, Eindhoven, Geldrop-Mierlo, Gemert-Bakel, Heeze-Leende, Helmond, Laarbeek, Nuenen c.a., Oirschot, Reusel-De Mierden, Someren, Son en Breugel, Valkenswaard, Veldhoven en Waalre | 135.603 |
+| Zuidoost-Drenthe (Emmen) | Stichting Icare | Borger-Odoorn, Coevorden en Emmen | 38.669 |
+| Zuidoost-Friesland | Stichting Regionale Ondersteuningsstructuur voor de Eerstelijnszorg in Friesland | Achtkarspelen, Ooststellingwerf, Opsterland, Smallingerland, Tytsjerksteradiel (voor 1/3) | 35.445 |
+| Zuidoost-Groningen | Stichting Elann | Bellingwedde, Menterwolde, Pekela, Reiderland, Scheemda, Stadskanaal, Veendam, Vlagtwedde en Winschoten | 35.310 |
+| Zuidoost-Utrecht | Aveant BV | Bunnik, De Bilt, Utrechtse Heuvelrug (voor 6/7), Wijk bij Duurstede en Zeist | 41.062 |
+| Zuidwest-Friesland | Stichting Regionale Ondersteuningsstructuur voor de Eerstelijnszorg in Friesland | Bolsward, Gaasterlân-Sleat, Lemsterland (voor ½), Littenseradiel, Nijefurd, Skarsterlân (voor ½), Sneek, Wûnseradiel en Wymbritseradiel | 30.197 |
+| Zutphen | Stichting Sensire | Bronckhorst (voor 2/5), Brummen, Lochem, Zutphen en Voorst (voor 1/3) | 31.720 |
+
+| Netwerk kinderpalliatieve zorg |   | De netwerken kinderpalliatieve zorg volgen de indeling van de zgn. consortia palliatieve zorg. Hiervan maken ook bovenstaande netwerken (en dus ook de benoemde gemeenten) deel van uit. |   |   |
+| --- | --- | --- | --- | --- |
+| Holland Rijnland | Stichting Pal |   |   | 35.000 |
+| Noord- en Oost Nederland | Stichting Pal |   |   | 35.000 |
+| Noord-Holland en Flevoland | Stichting Pal |   |   | 35.000 |
+| Zuidwest Nederland | Stichting Pal |   |   | 35.000 |
+| Zuidelijk Oost- Nederland | Stichting Pal |   |   | 35.000 |
+| Limburg en Zuidoost Brabant | Stichting Pal |   |   | 35.000 |
+| Het Septet/Utrecht | Stichting Pal |   |   | 35.000 |
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
