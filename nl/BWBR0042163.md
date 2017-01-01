@@ -4,7 +4,7 @@ identifier: "BWBR0042163"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2019-04-30"
-last_updated: "2016-01-01"
+last_updated: "2017-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0042163"
 soort: "ministeriele-regeling"
@@ -74,7 +74,7 @@ Voor het gewogen gemiddelde aandeel van de verschillende grondsoorten, bedoeld i
 
 ##### Artikel 9
 
-De aandelen van de gemeenten in de tegemoetkoming, bedoeld in [artikel 18, tweede lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0012216&artikel=18), worden vastgesteld in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0042163&bijlage=1&z=2019-04-30&g=2016-01-01) bij deze regeling.
+De aandelen van de gemeenten in de tegemoetkoming, bedoeld in [artikel 18, tweede lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0012216&artikel=18), worden vastgesteld in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0042163&bijlage=1&z=2019-04-30&g=2017-01-01) bij deze regeling.
 
 ##### Artikel 10
 
@@ -110,7 +110,7 @@ waarbij Ak de aantrekkingskracht weergeeft, I het gecorrigeerde aantal inwoners 
 
 ##### Artikel 12
 
-Voor de berekening van het aantal potentiële regionale klanten van een woonkern, bedoeld in maatstaf 14 van [bijlage 2 bij het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0012216&bijlage=2), is [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0042163&paragraaf=3&artikel=11&z=2019-04-30&g=2016-01-01) van overeenkomstige toepassing, met dien verstande dat:
+Voor de berekening van het aantal potentiële regionale klanten van een woonkern, bedoeld in maatstaf 14 van [bijlage 2 bij het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0012216&bijlage=2), is [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0042163&paragraaf=3&artikel=11&z=2019-04-30&g=2017-01-01) van overeenkomstige toepassing, met dien verstande dat:
 
 - 1. voor ‘20 kilometer’ wordt gelezen ‘60 kilometer’.
 
@@ -170,11 +170,11 @@ Indien de gemiddelde hoogwaterlijn van een gemeente per topografische kaart ster
 
 ##### Artikel 19
 
-Het aantal hectaren historische kernen, bedoeld in maatstaf 27 van [bijlage 2 bij het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0012216&bijlage=2), en het aantal meters historische waterweg, bedoeld in maatstaf 28 van bijlage 2 bij het besluit, wordt vastgesteld in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0042163&bijlage=2&z=2019-04-30&g=2016-01-01) bij deze regeling.
+Het aantal hectaren historische kernen, bedoeld in maatstaf 27 van [bijlage 2 bij het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0012216&bijlage=2), en het aantal meters historische waterweg, bedoeld in maatstaf 28 van bijlage 2 bij het besluit, wordt vastgesteld in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0042163&bijlage=2&z=2019-04-30&g=2017-01-01) bij deze regeling.
 
 ##### Artikel 20
 
-De bewoonde oorden 1930, het aantal woningen 1930 in bewoonde oorden en het aantal woningen 1930 in historische kernen in bewoonde oorden, bedoeld in de maatstaven 29 en 30 van [bijlage 2 bij het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0012216&bijlage=2), wordt vastgesteld in [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0042163&bijlage=3&z=2019-04-30&g=2016-01-01) bij deze regeling.
+De bewoonde oorden 1930, het aantal woningen 1930 in bewoonde oorden en het aantal woningen 1930 in historische kernen in bewoonde oorden, bedoeld in de maatstaven 29 en 30 van [bijlage 2 bij het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0012216&bijlage=2), wordt vastgesteld in [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0042163&bijlage=3&z=2019-04-30&g=2017-01-01) bij deze regeling.
 
 ##### Artkel 21
 
@@ -192,7 +192,7 @@ De bewoonde oorden 1930, het aantal woningen 1930 in bewoonde oorden en het aant
 
 ##### Artikel 23
 
-Dit onderdeel is nog niet inwerking getreden
+De [Regeling meet- en rekenregels verdeelmaatstaven provinciefonds en gemeentefonds](https://wetten.overheid.nl/jci1.3:c:BWBR0019708) wordt ingetrokken.
 
 ##### Artikel 24
 
@@ -2161,416 +2161,3 @@ Het aantal inwoners landelijk gebied, bedoeld in maatstaf 9 van [bijlage 1 bij h
 | Zwartewaterland | Zwartsluis | Zwartsluis | 1.380 | 1.380 |
 | Zwijndrecht | Zwijndrecht | – | 2.450 | 0 |
 | Zwolle | Zwolle | Zwolle | 9.313 | 9.313 |
-
-Gelet op de [artikelen 4](https://wetten.overheid.nl/jci1.3:c:BWBR0012216&artikel=4), [17](https://wetten.overheid.nl/jci1.3:c:BWBR0012216&artikel=17) en [18, tweede lid, van het Besluit financiële verhouding 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0012216&artikel=18);
-
-Besluiten:
-
-#### Paragraaf 1. Algemeen
-
-#### Paragraaf 3. Maatstaven gemeentefonds
-
-#### Paragraaf 4. Overige bepalingen
-
-## Bijlage 3. De bewoonde oorden 1930, het aantal woningen 1930 in bewoonde oorden en het aantal woningen 1930 in historische kernen in bewoonde oorden (bijlage bij [artikel 20](https://wetten.overheid.nl/jci1.3:c:BWBR0042163&paragraaf=3&artikel=20&z=2019-04-30&g=2019-04-30) van de Regeling uitwerking verdeelmaatstaven provinciefonds en gemeentefonds)
-
-| Gemeente per 1-1-2016 | Bewoond oord 1930 (soms verdeeld over twee gemeenten) | Historische kern gelegen in het bewoonde oord 1930 | Woningen 1930 in het bewoonde oord 1930 | Woningen 1930 in een bewoond oord tevens historische kern |
-| --- | --- | --- | --- | --- |
-| Aalsmeer | Aalsmeer | – | 1.605 | 0 |
-| Aalten | Aalten | – | 996 | 0 |
-| Alblasserdam | Alblasserdam | – | 1.467 | 0 |
-| Alblasserdam | Kinderdijk (deel) | – | 1.467 | 0 |
-| Alkmaar | Alkmaar | Alkmaar | 7.019 | 7.019 |
-| Almelo | Almelo | Almelo | 7.097 | 7.097 |
-| Alphen aan den Rijn | Alphen | – | 3.731 | 0 |
-| Alphen aan den Rijn | Boskoop | – | 3.731 | 0 |
-| Amersfoort | Amersfoort | Amersfoort | 8.558 | 8.558 |
-| Amstelveen | Amstelveen | – | 1.241 | 0 |
-| Amsterdam | Amsterdam | Amsterdam | 198.950 | 196.621 |
-| Amsterdam | Buitenveldert | – | 198.950 | 196.621 |
-| Amsterdam | Oostzaan (deel) | – | 198.950 | 196.621 |
-| Amsterdam | Tuindorp Oostzaan | – | 198.950 | 196.621 |
-| Apeldoorn | Apeldoorn | – | 11.306 | 0 |
-| Appingedam | Appingedam | Appingedam | 1.268 | 1.268 |
-| Arnhem | Arnhem | Arnhem | 18.048 | 18.048 |
-| Assen | Assen | Assen | 3.666 | 3.666 |
-| Asten | Asten | – | 538 | 0 |
-| Baarn | Baarn | – | 2.959 | 0 |
-| Baarn | Soestdijk (deel) | – | 2.959 | 0 |
-| Barendrecht | Barendrecht | – | 716 | 0 |
-| Barneveld | Barneveld | – | 920 | 0 |
-| Bedum | Bedum | – | 678 | 0 |
-| Beek | Beek | – | 644 | 0 |
-| Berg en Dal | Groesbeek | – | 1.067 | 0 |
-| Berg en Dal | Millingen | – | 1.067 | 0 |
-| Bergen NH | Bergen | – | 1.819 | 0 |
-| Bergen NH | Egmond aan Zee | – |   |   |
-| Bergen op Zoom | Bergen op Zoom | Bergen op Zoom | 4.083 | 4.083 |
-| Berkelland | Borculo | Borculo | 1.204 | 524 |
-| Berkelland | Neede | – | 1.204 | 524 |
-| Beverwijk | Beverwijk | Beverwijk | 3.506 | 2.217 |
-| Beverwijk | Wijk aan Duin | – | 3.506 | 2.217 |
-| Binnenmaas | Gravendeel, ’s | – | 1.435 | 0 |
-| Binnenmaas | Puttershoek | – | 1.435 | 0 |
-| Blaricum | Blaricum | – | 779 | 0 |
-| Bloemendaal | Aerdenhout | – | 2.464 | 0 |
-| Bloemendaal | Bloemendaal | – | 2.464 | 0 |
-| Bloemendaal | Overveen | – | 2.464 | 0 |
-| Bodegraven-Reeuwijk | Bodegraven | – | 870 | 0 |
-| Borger-Odoorn | Eerste Valthermond | – | 2.246 | 0 |
-| Borger-Odoorn | Nieuw-Buinen | – | 2.246 | 0 |
-| Borger-Odoorn | Tweede Exloërmond | – | 2.246 | 0 |
-| Borne | Borne | – | 1.224 | 0 |
-| Boxmeer | Boxmeer | – | 736 | 0 |
-| Boxtel | Boxtel | – | 1.588 | 0 |
-| Breda | Breda | Breda | 12.005 | 9.613 |
-| Breda | Ginneken | – | 12.005 | 9.613 |
-| Breda | Prinsenhage | – | 12.005 | 9.613 |
-| Brielle | Brielle | Brielle | 870 | 870 |
-| Brummen | Brummen | – | 509 | 0 |
-| Brunssum | Brunssum | – | 3.867 | 0 |
-| Brunssum | Rumpen | – | 3.867 | 0 |
-| Brunssum | Treebeek | – | 3.867 | 0 |
-| Bunschoten | Spakenburg | – | 717 | 0 |
-| Capelle aan den IJssel | Keten | – | 841 | 0 |
-| Coevorden | Coevorden | Coevorden | 917 | 917 |
-| Culemborg | Culemborg | Culemborg | 1.899 | 1.899 |
-| Dantumadiel | Zwaagwesteinde | – | 573 | 0 |
-| De Bilt | Bilthoven | – | 2.889 | 0 |
-| De Bilt | De Bilt | – | 2.889 | 0 |
-| De Fryske Marren | Joure | – | 1.818 | 0 |
-| De Fryske Marren | Lemmer | – | 1.818 | 0 |
-| Delft | Delft (deel) | Delft | 11.645 | 11.645 |
-| Delfzijl | Delfzijl | Delfzijl | 1.579 | 948 |
-| Delfzijl | Farmsum | – | 1.579 | 948 |
-| Den Helder | Den Helder | – | 7.694 | 0 |
-| Deurne | Deurne | – | 720 | 0 |
-| Deventer | Deventer | Deventer | 8.739 | 8.234 |
-| Deventer | Hoven | – | 8.739 | 8.234 |
-| Diemen | Diemerbrug | – | 763 | 0 |
-| Doesburg | Doesburg | Doesburg | 1.178 | 1.178 |
-| Doetinchem | Doetinchem | Doetinchem | 1.667 | 1.667 |
-| Dongen | Dongen | – | 1.346 | 0 |
-| Dongeradeel | Dokkum | Dokkum | 1.331 | 1.331 |
-| Dordrecht | Dordrecht | Dordrecht | 14.520 | 13.939 |
-| Dordrecht | Dubbeldam | – | 14.520 | 13.939 |
-| Drechterland | Venhuizen | – | 596 | 0 |
-| Drimmelen | Lage Zwaluwe | – | 1.237 | 0 |
-| Drimmelen | Made | – | 1.237 | 0 |
-| Echt-Susteren | Echt | Echt | 572 | 572 |
-| Edam-Volendam | Edam | Edam | 1.933 | 950 |
-| Edam-Volendam | Volendam | – | 1.933 | 950 |
-| Ede | Bennekom | – | 3.234 | 0 |
-| Ede | Ede | – | 3.234 | 0 |
-| Eemsmond | Uithuizen | – | 845 | 0 |
-| Eindhoven | Eindhoven | Eindhoven | 19.215 | 18.701 |
-| Eindhoven | Tivoli | – | 19.215 | 18.701 |
-| Elburg | Elburg | Elburg | 579 | 579 |
-| Emmen | Barger-Oosterveen | – | 4.532 | 0 |
-| Emmen | Emmen | – | 4.532 | 0 |
-| Emmen | Emmer-Compascuum | – | 4.532 | 0 |
-| Emmen | Emmer-Erfscheidenveen | – | 4.532 | 0 |
-| Emmen | Erica | – | 4.532 | 0 |
-| Emmen | Nieuw-Amsterdam | – | 4.532 | 0 |
-| Emmen | Nieuw-Weerdinge | – | 4.532 | 0 |
-| Enkhuizen | Enkhuizen | Enkhuizen | 2.330 | 2.330 |
-| Enschede | Enschede | Enschede | 15.963 | 11.523 |
-| Enschede | Glanerbrug | – | 15.963 | 11.523 |
-| Enschede | Rondom Enschede | – | 15.963 | 11.523 |
-| Epe | Epe | – | 604 | 0 |
-| Ermelo | Ermelo | – | 645 | 0 |
-| Etten-Leur | Etten | – | 542 | 0 |
-| Franekeradeel | Franeker | Franeker | 1.787 | 1.787 |
-| Geertruidenberg | Geertruidenberg | Geertruidenberg | 1.532 | 537 |
-| Geertruidenberg | Raamsdonksveer | – | 1.532 | 537 |
-| Geldrop-Mierlo | Geldrop | – | 1.074 | 0 |
-| Gemert-Bakel | Gemert | Gemert | 663 | 663 |
-| Gennep | Gennep | Gennep | 569 | 569 |
-| Goeree-Overflakkee | Dirksland | – | 3.633 | 0 |
-| Goeree-Overflakkee | Middelharnis | – | 3.633 | 0 |
-| Goeree-Overflakkee | Ooltgensplaat | – | 3.633 | 0 |
-| Goeree-Overflakkee | Oude Tonge | – | 3.633 | 0 |
-| Goeree-Overflakkee | Sommelsdijk | – | 3.633 | 0 |
-| Goes | Goes | Goes | 2.371 | 2.371 |
-| Goirle | Goirle | – | 891 | 0 |
-| Gooise Meren | Bussum (deel) | – | 6.822 | 651 |
-| Gooise Meren | Bussum (deel) | – | 6.822 | 651 |
-| Gooise Meren | Naarden | Naarden | 6.822 | 651 |
-| Gorinchem | Gorinchem | Gorinchem | 3.432 | 3.432 |
-| Gouda | Gouda | Gouda | 7.377 | 7.377 |
-| Groningen | Groningen | Groningen | 25.153 | 23.468 |
-| Groningen | Helpman | – | 25.153 | 23.468 |
-| Groningen | Hoogkerk | – | 25.153 | 23.468 |
-| Haarlem | Haarlem | Haarlem | 30.680 | 30.680 |
-| Haarlemmermeer | Aalsmeerderbuurt | – | 4.976 | 0 |
-| Haarlemmermeer | Abbenes | – | 4.976 | 0 |
-| Haarlemmermeer | Hoofddorp | – | 4.976 | 0 |
-| Haarlemmermeer | Nieuw-Vennep | – | 4.976 | 0 |
-| Haarlemmermeer | Schiphol | – | 4.976 | 0 |
-| Haarlemmermeer | Zwanenburg | – | 4.976 | 0 |
-| Halderberge | Oudenbosch | Oudenbosch | 1.296 | 616 |
-| Halderberge | Oud-Gastel | – | 1.296 | 616 |
-| Hardenberg | Dedemsvaart | – | 1.013 | 0 |
-| Harderwijk | Harderwijk | Harderwijk | 1.443 | 1.443 |
-| Hardinxveld-Giessendam | Boven-Hardinxveld | – | 2.315 | 0 |
-| Hardinxveld-Giessendam | Giessendam | – | 2.315 | 0 |
-| Hardinxveld-Giessendam | Neder-Hardinxveld | – | 2.315 | 0 |
-| Haren | Haren | – | 638 | 0 |
-| Harlingen | Harlingen | Harlingen | 2.541 | 2.541 |
-| Hattem | Hattem | Hattem | 652 | 652 |
-| Heemskerk | Heemskerk | – | 780 | 0 |
-| Heemstede | Heemstede | – | 3.226 | 0 |
-| Heerenveen | Akkrum | – | 2.234 | 1.600 |
-| Heerenveen | Heerenveen | Heerenveen | 2.234 | 1.600 |
-| Heerlen | Heerlen | – | 7.754 | 0 |
-| Heerlen | Heerlerheide | – | 7.754 | 0 |
-| Heerlen | Hoensbroek | – | 7.754 | 0 |
-| Heerlen | Meezenbroek | – | 7.754 | 0 |
-| Heerlen | Molenberg | – | 7.754 | 0 |
-| Heiloo | Heiloo | – | 929 | 0 |
-| Hellendoorn | Nijverdal | – | 1.341 | 0 |
-| Hellevoetsluis | Hellevoetsluis | Hellevoetsluis | 1.211 | 636 |
-| Hellevoetsluis | Nieuw-Helvoet | – | 1.211 | 636 |
-| Helmond | Helmond | Helmond | 4.770 | 4.770 |
-| Hendrik-Ido-Ambacht | Hendrik-Ido-Ambacht | – | 964 | 0 |
-| Hengelo | Hengelo | – | 6.759 | 0 |
-| Het Bildt | Oudebildtdijk | – | 636 | 0 |
-| Heusden | Drunen | – | 1.162 | 0 |
-| Heusden | Vlijmen | – | 1.162 | 0 |
-| Hillegom | Hillegom | – | 1.874 | 0 |
-| Hilversum | Hilversum | – | 13.746 | 0 |
-| Hof van Twente | Goor | Goor | 1.469 | 1.469 |
-| Hof van Twente | Stad Delden | Delden |   |   |
-| Hoogeveen | Hoogeveen | – | 1.516 | 0 |
-| Hoogezand-Sappemeer | Hoogezand | – | 1.980 | 0 |
-| Hoogezand-Sappemeer | Sappemeer | – | 1.980 | 0 |
-| Hoorn | Hoorn | Hoorn | 3.299 | 3.299 |
-| Huizen | Huizen | – | 1.923 | 0 |
-| Hulst | Hulst | Hulst | 874 | 874 |
-| IJsselstein | IJsselstein | IJsselstein | 703 | 703 |
-| Kaag en Braassem | Roelofarendsveen | – | 542 | 0 |
-| Kampen | Brunnepe | – | 4.545 | 3.052 |
-| Kampen | Kampen | Kampen | 4.545 | 3.052 |
-| Katwijk | Katwijk aan de Rijn | – | 5.004 | 0 |
-| Katwijk | Katwijk aan Zee | – | 5.004 | 0 |
-| Katwijk | Rijnsburg | – | 5.004 | 0 |
-| Kerkrade | Eygelshoven | – | 7.506 | 0 |
-| Kerkrade | Kerkrade | – | 7.506 | 0 |
-| Kerkrade | Spekholzerheide | – | 7.506 | 0 |
-| Kerkrade | Terwinselen | – | 7.506 | 0 |
-| Kollumerland en Nieuwkruisland | Kollum | – | 577 | 0 |
-| Krimpen aan den IJssel | Krimpen aan den IJssel | – | 925 | 0 |
-| Krimpenerwaard | Krimpen aan den Lek | – | 3.668 | 1.194 |
-| Krimpenerwaard | Lekkerkerk | – | 3.668 | 1.194 |
-| Krimpenerwaard | Ouderkerk aan de Ijssel | – | 3.668 | 1.194 |
-| Krimpenerwaard | Schoonhoven | Schoonhoven | 3.668 | 1.194 |
-| Landgraaf | Nieuwenhagen | – | 2.575 | 0 |
-| Landgraaf | Schaesberg | – | 2.575 | 0 |
-| Landgraaf | Waubach | – | 2.575 | 0 |
-| Langedijk | Broek op Langedijk | – | 1.101 | 0 |
-| Langedijk | St. Pancras | – | 1.101 | 0 |
-| Lansingerland | Berkel | – | 501 | 0 |
-| Laren | Laren | – | 1.634 | 0 |
-| Leerdam | Klein-Oosterwijk | – | 1.635 | 810 |
-| Leerdam | Leerdam | Leerdam | 1.635 | 810 |
-| Leeuwarden | Grouw | – | 15.191 | 12.319 |
-| Leeuwarden | Huizum | – | 15.191 | 12.319 |
-| Leeuwarden | Leeuwarden | Leeuwarden | 15.191 | 12.319 |
-| Leiden | Leiden | Leiden | 17.166 | 17.166 |
-| Leiderdorp | Leiderdorp | – | 510 | 0 |
-| Leidschendam-Voorburg | Leidschendam | – | 6.047 | 0 |
-| Leidschendam-Voorburg | Voorburg | – | 6.047 | 0 |
-| Lisse | Lisse | – | 1.325 | 0 |
-| Lochem | Lochem | Lochem | 1.361 | 1.361 |
-| Loon op Zand | Kaatsheuvel | – | 1.032 | 0 |
-| Maassluis | Maassluis | Maassluis | 2.422 | 2.422 |
-| Maastricht | Heer | – | 12.746 | 10.137 |
-| Maastricht | Limmel | – | 12.746 | 10.137 |
-| Maastricht | Maastricht | Maastricht/Wijk | 12.746 | 10.137 |
-| Maastricht | Wijk | Maastricht/Wijk | 12.746 | 10.137 |
-| Maastricht | Wijkerveld | – | 12.746 | 10.137 |
-| Maastricht | Wittevrouwenveld | – | 12.746 | 10.137 |
-| Medemblik | Andijk | – | 1.776 | 803 |
-| Medemblik | Medemblik | Medemblik | 1.776 | 803 |
-| Meerssen | Meerssen | – | 589 | 0 |
-| Menameradiel | Berlikum | – | 552 | 0 |
-| Menterwolde | Muntendam | – | 603 | 0 |
-| Meppel | Meppel | Meppel | 2.928 | 2.928 |
-| Middelburg | Middelburg | Middelburg | 4.287 | 4.287 |
-| Midden-Drenthe | Smilde | – | 1.001 | 0 |
-| Moerdijk | Klundert | Klundert | 1.513 | 1.513 |
-| Moerdijk | Zevenbergen | Zevenbergen | 1.513 | 1.513 |
-| Molenwaard | Kinderdijk (deel) | – | 892 | 0 |
-| Molenwaard | Nieuw-Lekkerland | – | 892 | 0 |
-| Montferland | Heerenberg, ’s | Heerenberg, ’s | 620 | 620 |
-| Nieuwegein | Vreeswijk | – | 567 | 0 |
-| Nijkerk | Nijkerk | Nijkerk | 1.146 | 1.146 |
-| Nijmegen | Hees | – | 16.196 | 14.335 |
-| Nijmegen | Nijmegen | Nijmegen | 16.196 | 14.335 |
-| Nijmegen | St. Anna | – | 16.196 | 14.335 |
-| Noordwijk | Noordwijk aan Zee | – | 2.198 | 0 |
-| Noordwijk | Noordwijk-Binnen | – | 2.198 | 0 |
-| Noordwijkerhout | Noordwijkerhout | – | 544 | 0 |
-| Nunspeet | Nunspeet | – | 579 | 0 |
-| Oegstgeest | Oegstgeest | – | 1.027 | 0 |
-| Oisterwijk | Oisterwijk | Oisterwijk | 1.176 | 1.176 |
-| Oldambt | Beerta | – | 3.452 | 2.903 |
-| Oldambt | Winschoten | Winschoten | 3.452 | 2.903 |
-| Oldenzaal | Oldenzaal | Oldenzaal | 2.091 | 2.091 |
-| Olst-Wijhe | Wijhe | – | 526 | 0 |
-| Onderbanken | Schinveld | – | 519 | 0 |
-| Oost Gelre | Groenlo | Groenlo | 718 | 718 |
-| Oosterhout | Oosterhout | Oosterhout | 1.991 | 1.991 |
-| Oostzaan | Oostzaan (deel) | – | 797 | 0 |
-| Opsterland | Gorredijk | – | 652 | 0 |
-| Oss | Oss | – | 2.590 | 0 |
-| Oud-Beijerland | Oud-Beijerland | – | 1.201 | 0 |
-| Oude IJsselstreek | Ulft | – | 518 | 0 |
-| Oudewater | Oudewater | Oudewater | 707 | 707 |
-| Overbetuwe | Elst | – | 676 | 0 |
-| Papendrecht | Papendrecht | – | 1.239 | 0 |
-| Pekela | Nieuwe-Pekela | – | 2.102 | 0 |
-| Pekela | Oude-Pekela | – | 2.102 | 0 |
-| Purmerend | Purmerend | Purmerend | 1.496 | 1.496 |
-| Putten | Putten | – | 704 | 0 |
-| Raalte | Raalte | – | 532 | 0 |
-| Reimerswaal | Yerseke | – | 822 | 0 |
-| Renkum | Oosterbeek | – | 4.064 | 0 |
-| Renkum | Renkum | – | 4.064 | 0 |
-| Rheden | Dieren | – | 5.119 | 0 |
-| Rheden | Rheden | – | 5.119 | 0 |
-| Rheden | Velp | – | 5.119 | 0 |
-| Rhenen | Rhenen | Rhenen | 872 | 872 |
-| Ridderkerk | Bolnes | – | 2.380 | 0 |
-| Ridderkerk | Ridderkerk | – | 2.380 | 0 |
-| Ridderkerk | Slikkerveer | – | 2.380 | 0 |
-| Rijssen-Holten | Rijssen | Rijssen | 1.782 | 1.782 |
-| Rijswijk | Delft (deel) | Delft | 4.042 | 0 |
-| Rijswijk | Rijswijk | – | 4.042 | 0 |
-| Roermond | Roermond | Roermond | 3.316 | 2.811 |
-| Roermond | Swalmen | – | 3.316 | 2.811 |
-| Roosendaal | Roosendaal | Roosendaal | 3.464 | 3.464 |
-| Rotterdam | Hillegersberg | – | 152.086 | 143.539 |
-| Rotterdam | Hoek van Holland | – | 152.086 | 143.539 |
-| Rotterdam | IJsselmonde | – | 152.086 | 143.539 |
-| Rotterdam | Overschie | – | 152.086 | 143.539 |
-| Rotterdam | Pernis | – | 152.086 | 143.539 |
-| Rotterdam | Rotterdam | Rotterdam | 152.086 | 143.539 |
-| Rotterdam | Schiebroek | – | 152.086 | 143.539 |
-| Rotterdam | West-IJsselmonde | – | 152.086 | 143.539 |
-| Rucphen | Heike, ’t | – | 637 | 0 |
-| Schagen | Schagen | Schagen | 845 | 845 |
-| Schiedam | Schiedam | Schiedam | 13.298 | 13.298 |
-| Schijndel | Schijndel | – | 827 | 0 |
-| Schouwen-Duiveland | Bruinisse | – | 2.425 | 1.819 |
-| Schouwen-Duiveland | Zierikzee | Zierikzee | 2.425 | 1.819 |
-| 's-Gravenhage | Gravenhage, ’s- | Gravenhage, ’s- | 130.270 | 116.262 |
-| 's-Gravenhage | Loosduinen | – | 130.270 | 116.262 |
-| 's-Gravenhage | Scheveningen | – | 130.270 | 116.262 |
-| 's-Hertogenbosch | Hertogenbosch, ’s- | Hertogenbosch, ’s- | 8.390 | 8.390 |
-| Sittard-Geleen | Geleen | – | 4.826 | 2.297 |
-| Sittard-Geleen | Sittard | Sittard | 4.826 | 2.297 |
-| Sliedrecht | Sliedrecht | – | 3.255 | 0 |
-| Slochteren | Siddeburen | – | 590 | 0 |
-| Sluis | Breskens | – | 1.274 | 0 |
-| Sluis | Oostburg | – | 1.274 | 0 |
-| Smallingerland | Drachten | – | 1.709 | 0 |
-| Soest | Soest | – | 1.926 | 0 |
-| Soest | Soestdijk (deel) | – | 1.926 | 0 |
-| Stadskanaal | Musselkanaal | – | 3.442 | 0 |
-| Stadskanaal | Stadskanaal | – | 3.442 | 0 |
-| Staphorst | Staphorst | – | 660 | 0 |
-| Stede Broec | Bovenkarspel | – | 1.132 | 0 |
-| Stede Broec | Grootebroek | – | 1.132 | 0 |
-| Steenbergen | Dinteloord | – | 1.329 | 747 |
-| Steenbergen | Steenbergen | Steenbergen | 1.329 | 747 |
-| Steenwijkerland | Steenwijk | Steenwijk | 1.650 | 1.650 |
-| Stein | Stein | – | 669 | 0 |
-| Stichtse Vecht | Breukelen | – | 1.520 | 0 |
-| Stichtse Vecht | Maarssen | – | 1.520 | 0 |
-| Strijen | Strijen | – | 536 | 0 |
-| Súdwest-Fryslân | Bolsward | Bolsward | 6.774 | 6.250 |
-| Súdwest-Fryslân | Makkum | – | 6.774 | 6.250 |
-| Súdwest-Fryslân | Sneek | Sneek | 6.774 | 6.250 |
-| Súdwest-Fryslân | Workum | Workum | 6.774 | 6.250 |
-| Terneuzen | Axel | Axel | 3.331 | 1.539 |
-| Terneuzen | Neuzen | – | 3.331 | 1.539 |
-| Terneuzen | Sas van Gent | Sas van Gent | 3.331 | 1.539 |
-| Terschelling | West-Terschelling | – | 513 | 0 |
-| Texel | Den Burg | – | 636 | 0 |
-| Teylingen | Sassenheim | – | 1.524 | 0 |
-| Teylingen | Warmond | – | 1.524 | 0 |
-| Tholen | Sint Annaland | – | 1.288 | 669 |
-| Tholen | Tholen | Tholen | 1.288 | 669 |
-| Tiel | Tiel | Tiel | 2.802 | 2.802 |
-| Tilburg | Tilburg | Tilburg | 16.436 | 16.436 |
-| Twenterand | Vriezenveen | – | 1.038 | 0 |
-| Tytsjerksteradiel | Bergum | – | 846 | 0 |
-| Uden | Uden | – | 550 | 0 |
-| Uitgeest | Uitgeest | – | 841 | 0 |
-| Urk | Urk | – | 724 | 0 |
-| Utrecht | Utrecht | Utrecht | 39.725 | 37.288 |
-| Utrecht | Zuilen | – | 39.725 | 37.288 |
-| Utrechtse Heuvelrug | Doorn | – | 1.930 | 0 |
-| Utrechtse Heuvelrug | Driebergen | – | 1.930 | 0 |
-| Vaals | Vaals | – | 1.410 | 0 |
-| Valkenburg aan de Geul | Valkenburg | Valkenburg | 588 | 588 |
-| Valkenswaard | Valkenswaard | – | 1.372 | 0 |
-| Veendam | Veendam | – | 3.654 | 0 |
-| Veendam | Wildervank | – | 3.654 | 0 |
-| Veenendaal | Geldersch-Veenendaal | – | 2.384 | 0 |
-| Veenendaal | Veenendaal | – | 2.384 | 0 |
-| Veere | Westkapelle | – | 591 | 0 |
-| Veghel | Veghel | – | 905 | 0 |
-| Velsen | IJmuiden | – | 10.063 | 0 |
-| Velsen | Santpoort | – | 10.063 | 0 |
-| Velsen | Velsen | – | 10.063 | 0 |
-| Venlo | Blerick | – | 7.161 | 4.755 |
-| Venlo | Tegelen | – | 7.161 | 4.755 |
-| Venlo | Venlo | Venlo | 7.161 | 4.755 |
-| Venray | Venray | – | 626 | 0 |
-| Vianen | Vianen | Vianen | 590 | 590 |
-| Vlaardingen | Emausbuurt | – | 6.938 | 6.540 |
-| Vlaardingen | Vlaardingen | Vlaardingen | 6.938 | 6.540 |
-| Vlissingen | Oost-Souburg | – | 6.521 | 5.750 |
-| Vlissingen | Vlissingen | Vlissingen | 6.521 | 5.750 |
-| Voorschoten | Voorschoten | – | 891 | 0 |
-| Voorst | Twello | – | 674 | 0 |
-| Vught | Vught | – | 1.311 | 0 |
-| Waalre | Aalst | – | 559 | 0 |
-| Waalwijk | Waalwijk | – | 1.316 | 0 |
-| Waddinxveen | Waddinxveen | – | 1.491 | 0 |
-| Wageningen | Wageningen | Wageningen | 2.670 | 2.670 |
-| Wassenaar | Wassenaar | – | 1.617 | 0 |
-| Waterland | Monnickendam | Monnickendam | 568 | 568 |
-| Weert | Weert | Weert | 1.312 | 1.312 |
-| Weesp | Weesp | Weesp | 1.741 | 1.741 |
-| Werkendam | Werkendam | – | 669 | 0 |
-| West Maas en Waal | Leeuwen | – | 836 | 0 |
-| Westland | Gravenzande, ’s- | Gravenzande, ’s- | 4.323 | 1.048 |
-| Westland | Monster | – | 4.323 | 1.048 |
-| Westland | Naaldwijk | – | 4.323 | 1.048 |
-| Westland | Poeldijk | – | 4.323 | 1.048 |
-| Westland | Wateringen | – | 4.323 | 1.048 |
-| Weststellingwerf | Wolvega | – | 1.042 | 0 |
-| Wijk bij Duurstede | Wijk bij Duurstede | Wijk bij Duurstede | 591 | 591 |
-| Winterswijk | Winterswijk | – | 2.524 | 0 |
-| Woerden | Woerden | Woerden | 1.651 | 1.651 |
-| Wormerland | Wormer | – | 886 | 0 |
-| Zaanstad | Assendelft | – | 15.821 | 8.346 |
-| Zaanstad | Koog aan de Zaan | – | 15.821 | 8.346 |
-| Zaanstad | Krommenie | – | 15.821 | 8.346 |
-| Zaanstad | Westzaan | – | 15.821 | 8.346 |
-| Zaanstad | Wormerveer | – | 15.821 | 8.346 |
-| Zaanstad | Zaandam | Zaandam | 15.821 | 8.346 |
-| Zaanstad | Zaandijk | – | 15.821 | 8.346 |
-| Zaltbommel | Zaltbommel | Zaltbommel | 906 | 906 |
-| Zandvoort | Zandvoort | – | 2.296 | 0 |
-| Zeist | Zeist | – | 4.932 | 0 |
-| Zutphen | Zutphen | Zutphen | 4.318 | 4.318 |
-| Zwartewaterland | Genemuiden | Genemuiden | 1.380 | 1.380 |
-| Zwartewaterland | Zwartsluis | Zwartsluis | 1.380 | 1.380 |
-| Zwijndrecht | Zwijndrecht | – | 2.450 | 0 |
-| Zwolle | Zwolle | Zwolle | 9.313 | 9.313 |
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
