@@ -4,7 +4,7 @@ identifier: "BWBR0011085"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2018-02-27"
-last_updated: "2013-01-01"
+last_updated: "2017-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0011085"
 soort: "ministeriele-regeling"
@@ -67,7 +67,7 @@ Een ambtenaar van politie kan worden belast met het bedienen van een technisch h
 
 ##### Artikel 4
 
-Het Landelijk selectie- en opleidingsinstituut politie, genoemd in [artikel 2 van de LSOP-wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006942&artikel=2), beoordeelt of de ambtenaar van politie beschikt over de kennis en vaardigheden, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0011085&artikel=2&z=2013-01-01&g=2013-01-01) en [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0011085&artikel=3&z=2013-01-01&g=2013-01-01). Bij positieve beoordeling geeft hij daarvan een verklaring af.
+Het Landelijk selectie- en opleidingsinstituut politie, genoemd in [artikel 2 van de LSOP-wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006942&artikel=2), beoordeelt of de ambtenaar van politie beschikt over de kennis en vaardigheden, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0011085&artikel=2&z=2018-02-27&g=2017-01-01) en [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0011085&artikel=3&z=2018-02-27&g=2017-01-01). Bij positieve beoordeling geeft hij daarvan een verklaring af.
 
 ##### Artikel 5
 
