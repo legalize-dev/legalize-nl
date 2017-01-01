@@ -4,7 +4,7 @@ identifier: "BWBR0007397"
 country: "nl"
 rank: "amvb"
 publication_date: "2020-10-01"
-last_updated: "2012-07-01"
+last_updated: "2017-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0007397"
 soort: "AMvB"
@@ -96,7 +96,7 @@ In dit besluit wordt verstaan onder:
 
 ##### Artikel 4
 
-De commissie heeft voorts tot taak Onze Minister met betrekking tot de toepassing van [artikel 41, eerste lid, onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&artikel=41), dan wel [artikel 45, eerste lid, onder c, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&artikel=45) van advies te dienen over de vraag of voor de beoordeling van de aanvraag tot erkenning van beroepskwalificaties, bedoeld in de [Algemene wet erkenning EG-beroepskwalificaties](https://wetten.overheid.nl/jci1.3:c:BWBR0023066), een proeve van bekwaamheid dan wel een aanpassingsstage als bedoeld in de [Algemene wet erkenning EG-beroepskwalificaties](https://wetten.overheid.nl/jci1.3:c:BWBR0023066) vereist is. Indien dat het geval is, adviseert de commissie Onze Minister over de inhoud van de af te leggen proeve van bekwaamheid dan wel over de inhoud en de duur van de aanpassingsstage.
+De commissie heeft voorts tot taak Onze Minister met betrekking tot de toepassing van [artikel 41, eerste lid, onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&artikel=41), dan wel [artikel 45, eerste lid, onder c, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&artikel=45) van advies te dienen over de vraag of voor de beoordeling van de aanvraag tot erkenning van beroepskwalificaties, bedoeld in de [Algemene wet erkenning EU-beroepskwalificaties](https://wetten.overheid.nl/jci1.3:c:BWBR0023066), een proeve van bekwaamheid dan wel een aanpassingsstage als bedoeld in de [Algemene wet erkenning EU-beroepskwalificaties](https://wetten.overheid.nl/jci1.3:c:BWBR0023066) vereist is. Indien dat het geval is, adviseert de commissie Onze Minister over de inhoud van de af te leggen proeve van bekwaamheid dan wel over de inhoud en de duur van de aanpassingsstage.
 
 ##### Artikel 5
 
@@ -108,7 +108,7 @@ Een advies van de commissie bevat de gronden waarop het berust.
 
 2. De commissie kan externe deskundigen raadplegen.
 
-3. De commissie beraadslaagt en brengt advies uit in de overeenkomstig [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007397&artikel=2&z=2012-07-01&g=2012-07-01), voor het desbetreffende beroep bedoelde samenstelling.
+3. De commissie beraadslaagt en brengt advies uit in de overeenkomstig [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007397&artikel=2&z=2017-01-01&g=2017-01-01), voor het desbetreffende beroep bedoelde samenstelling.
 
 ##### Artikel 7
 
@@ -116,19 +116,15 @@ Een advies van de commissie bevat de gronden waarop het berust.
 
 - a. het desbetreffende door Onze Minister beschikbaar te stellen aanvraagformulier, dat door de aanvrager is ingevuld;
 
-- b. een fotokopie van het deel van het paspoort dat de persoonsgegevens bevat;
+- b. een fotokopie van het deel van een geldig identiteitsbewijs dat de persoonsgegevens bevat;
 
 - c. het getuigschrift inzake het betreffende beroep dat door het in het land van herkomst daartoe bij of krachtens de wet bevoegd verklaarde gezag aan de aanvrager is afgegeven;
 
-- d. het programma van de opleiding tot het betreffende beroep, onderverdeeld in theorie- en praktijkvakken, met opgave van de duur van het onderwijs in die vakken, afkomstig van de instelling waarbij de aanvrager het getuigschrift heeft behaald;
+- d. het op naam gestelde programma van de opleiding tot het betreffende beroep, onderverdeeld in theorie- en praktijkvakken, met een omschrijving van die vakken, met opgave van de duur van het onderwijs in die vakken, afkomstig van de instelling waarbij de aanvrager het getuigschrift heeft behaald;
 
-- e. cijferlijsten en beoordelingen van studieresultaten, praktijkperioden of -stages, en dergelijke, van de aanvrager;
+- e. indien in het land van herkomst een door een overheidsorgaan of een organisatie van beoefenaren van het desbetreffende beroep ingesteld register in stand wordt gehouden: een bewijs van inschrijving van de aanvrager in dat register, niet ouder dan drie maanden;
 
-- f. indien in het land van herkomst een door een overheidsorgaan of een organisatie van beoefenaren van het desbetreffende beroep ingesteld register in stand wordt gehouden: een bewijs van inschrijving van de aanvrager in dat register, niet ouder dan drie maanden;
-
-- g. een document niet ouder dan drie maanden, waaruit blijkt dat, voor zover van toepassing, ten aanzien van de aanvrager geen maatregel berustend op een in het buitenland gegeven rechterlijke, tuchtrechtelijke of bestuursrechtelijke beslissing van kracht is, op grond waarvan de rechten tot de uitoefening van het betrokken beroep in het land waar de beslissing is gegeven, geheel of gedeeltelijk, tijdelijk of blijvend is verloren.
-
-- h. bewijsstukken van eventuele beroepservaring.
+- f. bewijsstukken van eventuele beroepservaring.
 
 2. De bescheiden, bedoeld onder **c** tot en met **g**, zijn gesteld, dan wel door een beëdigd vertaler vertaald, in het Nederlands, Engels, Frans of Duits. De fotokopieën zijn gewaarmerkt.
 
@@ -152,7 +148,7 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 ##### Artikel 3a
 
-1. De commissie kan bepalen dat de buitenslands gediplomeerde die beschikt over een getuigschrift dat is afgegeven door de autoriteiten van een staat die is gelegen buiten het EER-gebied, een kennis- en vaardighedentoets dient af te leggen ten behoeve van het advies, bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0007397&artikel=3&z=2012-07-01&g=2012-07-01).
+1. De commissie kan bepalen dat de buitenslands gediplomeerde die beschikt over een getuigschrift dat is afgegeven door de autoriteiten van een staat die is gelegen buiten het EER-gebied, een kennis- en vaardighedentoets dient af te leggen ten behoeve van het advies, bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0007397&artikel=3&z=2017-01-01&g=2017-01-01).
 
 2. Onze Minister stelt per beroepsgroep een tarief vast voor de kennis- en vaardighedentoets.
 
