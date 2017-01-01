@@ -4,7 +4,7 @@ identifier: "BWBR0022635"
 country: "nl"
 rank: "beleidsregel"
 publication_date: "2017-01-01"
-last_updated: "2016-01-01"
+last_updated: "2017-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0022635"
 soort: "beleidsregel"
@@ -50,27 +50,33 @@ Vervallen
 
 ##### Artikel 3. (Verwijtbaarheid)
 
-Bij het vaststellen van een bestuurlijke boete op grond van [artikel 26, eerste of tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007746&artikel=26), wordt betrokken in hoeverre de overtreding licht verwijtbaar, verwijtbaar of ernstig verwijtbaar is.
+Bij het vaststellen van een bestuurlijke boete op grond van [artikel 26, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007746&artikel=26), wordt betrokken in hoeverre de overtreding licht verwijtbaar, verwijtbaar of ernstig verwijtbaar is.
 
 ##### Artikel 4. (Boeten)
 
-Bestuurlijke boeten worden afgerond op hele bedragen van € 100.
+Bestuurlijke boeten worden afgerond op hele bedragen van € 100, met een minimumbedrag van € 100.
 
 ##### Artikel 5. (Boeten nihil)
 
-De bestuurlijke boete wegens overtreding van [artikel 24, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007746&artikel=24), en van [artikel 25, tweede lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0007746&artikel=25), van de wet, wordt op € 0,– vastgesteld indien:
-
-- a. er sprake is van lichte verwijtbaarheid, en
-
-- b. de minister de S&O-inhoudingsplichtige in de periode vijf jaar voorafgaande aan de vaststelling van de bestuurlijke boete niet eerder een bestuurlijke boete heeft opgelegd.
+Vervallen
 
 ##### Artikel 6. (Mededeling [art. 24, tweede, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007746&artikel=24))
 
-1. Na het verlopen van de termijn, bedoeld in [artikel 24, derde en vierde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007746&artikel=24) volgt een rappel waarin wordt aangegeven dat indien de mededeling niet wordt gedaan binnen de gestelde termijn, aannemelijk wordt bevonden dat het aantal bestede S&O-uren 0 is en, ingeval aan de S&O-inhoudingsplichtige een S&O-verklaring is afgegeven die ook een bedrag aan kosten en uitgaven bevat, tevens aannemelijk wordt bevonden dat het bedrag aan kosten en uitgaven 0 is.
+1. Na het verlopen van de termijn, bedoeld in [artikel 24, derde en vierde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007746&artikel=24), volgt een rappel waarin wordt aangegeven dat indien de mededeling niet wordt gedaan binnen de gestelde termijn, aannemelijk wordt bevonden dat het aantal bestede S&O-uren 0 is en, ingeval aan de S&O-inhoudingsplichtige een S&O-verklaring is afgegeven die ook een bedrag aan kosten en uitgaven bevat, tevens aannemelijk wordt bevonden dat het bedrag aan kosten en uitgaven 0 is.
 
-2. Bij het vaststellen van een bestuurlijke boete voor een mededeling die niet binnen de gestelde termijn, bedoeld in het eerste lid, is gedaan, wordt bij de beoordeling of sprake is van ‘geringe ernst’ in ieder geval in aanmerking genomen of de S&O-inhoudingsplichtige S&O-afdrachtvermindering heeft toegepast op basis van de in het betreffende kalenderjaar ontvangen S&O-verklaringen waarvoor geen mededeling is gedaan.
+2. De hoogte van de op grond van [artikel 26, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007746&artikel=26) op te leggen bestuurlijke boete bedraagt voor de volgende categorieën:
 
-3. Bij het vaststellen van een bestuurlijke boete voor een mededeling die niet tijdig maar binnen de gestelde termijn, bedoeld in het eerste lid, is gedaan, of voor het onjuist doorgeven van de mededeling, wordt bij de beoordeling of sprake is van ‘geringe ernst’ in ieder geval in aanmerking genomen of de S&O-inhoudingsplichtige S&O-afdrachtvermindering heeft toegepast op basis van de in het betreffende kalenderjaar ontvangen S&O-verklaringen waartoe hij de mededeling te laat danwel onjuist heeft gedaan. Indien sprake is van geringe ernst en tevens voldaan is aan de in artikel 5 neergelegde voorwaarden wordt de boete op € 0,– vastgesteld.
+- a. geen mededeling: € 300;
+
+- b. niet tijdige mededeling, waarbij de realisatie van het bedrag aan S&O-afdrachtvermindering lager is dan het bedrag dat op de S&O-verklaring is vermeld als bedrag aan S&O-afdrachtvermindering: € 200;
+
+- c. niet tijdige mededeling, waarbij de realisatie van het bedrag aan S&O-afdrachtvermindering tenminste gelijk is aan het bedrag dat op de S&O-verklaring is vermeld als bedrag aan S&O-afdrachtvermindering: € 100;
+
+- d. niet tijdige mededeling na beëindig inhoudingsplicht als bedoeld in [artikel 24, vierde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007746&artikel=24): € 100.
+
+3. In geval van een herhaalde overtreding wordt de laatst opgelegde boete vermenigvuldigd met factor 2 totdat het wettelijk maximum, genoemd in [artikel 26, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007746&artikel=26) is bereikt.
+
+4. Onder herhaalde overtreding wordt verstaan een meer dan eenmaal binnen een periode van vijf opeenvolgende jaren geconstateerde en beboete overtreding van de norm, bedoeld in [artikel 24, tweede, derde of vierde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007746&artikel=24).
 
 ##### Artikel 7. (Onjuiste opgave [art. 25, tweede lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0007746&artikel=25))
 
