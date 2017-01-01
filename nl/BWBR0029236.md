@@ -4,7 +4,7 @@ identifier: "BWBR0029236"
 country: "nl"
 rank: "wet_bes"
 publication_date: "2025-01-01"
-last_updated: "2016-01-01"
+last_updated: "2017-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0029236"
 soort: "wet-BES"
@@ -85,7 +85,7 @@ In deze wet en de daarop gebaseerde bepalingen wordt, tenzij anders is bepaald, 
 
 - q. **goederen:** alle zaken die kunnen worden ingedeeld in het tarief van invoerrechten;
 
-- r. **douanewetgeving:** de bepalingen van of krachtens de [hoofdstukken I](https://wetten.overheid.nl/jci1.3:c:BWBR0029236&hoofdstuk=I&z=2016-01-01&g=2016-01-01), [II](https://wetten.overheid.nl/jci1.3:c:BWBR0029236&hoofdstuk=II&z=2016-01-01&g=2016-01-01) en [III](https://wetten.overheid.nl/jci1.3:c:BWBR0029236&hoofdstuk=III&z=2016-01-01&g=2016-01-01) van deze wet;
+- r. **douanewetgeving:** de bepalingen van of krachtens de [hoofdstukken I](https://wetten.overheid.nl/jci1.3:c:BWBR0029236&hoofdstuk=I&z=2017-01-01&g=2017-01-01), [II](https://wetten.overheid.nl/jci1.3:c:BWBR0029236&hoofdstuk=II&z=2017-01-01&g=2017-01-01) en [III](https://wetten.overheid.nl/jci1.3:c:BWBR0029236&hoofdstuk=III&z=2017-01-01&g=2017-01-01) van deze wet;
 
 - s. **invoer van goederen:** in het vrije verkeer van één van de BES eilanden brengen van goederen;
 
@@ -103,7 +103,7 @@ In deze wet en de daarop gebaseerde bepalingen wordt, tenzij anders is bepaald, 
 
 - z. **marktdeelnemer:** persoon die zich in het kader van zijn bedrijfsvoering bezighoudt met activiteiten die onder de douanewetgeving vallen;
 
-- aa. **handels- en dienstenentrepot:** een op grond van [hoofdstuk V](https://wetten.overheid.nl/jci1.3:c:BWBR0029236&hoofdstuk=V&z=2016-01-01&g=2016-01-01) als zodanig op de BES eilanden aangewezen terrein of terreinen, gebouw of gebouwen, waar goederen kunnen worden opgeslagen, verwerkt, bewerkt, gemonteerd, verpakt, tentoongesteld en uitgeslagen dan wel andere behandelingen kunnen ondergaan, en waar of van waaruit diensten kunnen worden verleend;
+- aa. **handels- en dienstenentrepot:** een op grond van [hoofdstuk V](https://wetten.overheid.nl/jci1.3:c:BWBR0029236&hoofdstuk=V&z=2017-01-01&g=2017-01-01) als zodanig op de BES eilanden aangewezen terrein of terreinen, gebouw of gebouwen, waar goederen kunnen worden opgeslagen, verwerkt, bewerkt, gemonteerd, verpakt, tentoongesteld en uitgeslagen dan wel andere behandelingen kunnen ondergaan, en waar of van waaruit diensten kunnen worden verleend;
 
 - bb. **Koninkrijk:** het Koninkrijk der Nederlanden;
 
@@ -119,7 +119,7 @@ In deze wet en de daarop gebaseerde bepalingen wordt, tenzij anders is bepaald, 
 
 - 2°. op Saba en Sint Eustatius: benzine;
 
-- gg. **accijnsgoederenplaats:** iedere plaats op de BES eilanden waar op grond van de bepalingen van [hoofdstuk IV](https://wetten.overheid.nl/jci1.3:c:BWBR0029236&hoofdstuk=IV&z=2016-01-01&g=2016-01-01) accijnsgoederen onder schorsing van accijns mogen worden vervaardigd, mogen worden verwerkt, voorhanden mogen zijn, mogen worden ontvangen en mogen worden verzonden;
+- gg. **accijnsgoederenplaats:** iedere plaats op de BES eilanden waar op grond van de bepalingen van [hoofdstuk IV](https://wetten.overheid.nl/jci1.3:c:BWBR0029236&hoofdstuk=IV&z=2017-01-01&g=2017-01-01) accijnsgoederen onder schorsing van accijns mogen worden vervaardigd, mogen worden verwerkt, voorhanden mogen zijn, mogen worden ontvangen en mogen worden verzonden;
 
 - hh. **beschikking:** een voor bezwaar vatbare schriftelijke beslissing, inhoudende een publiekrechtelijke rechtshandeling die niet van algemene strekking is en die door de inspecteur of ontvanger is genomen op grond van deze wet;
 
@@ -185,13 +185,13 @@ Deze wet is van toepassing op het grondgebied van de BES eilanden met inbegrip v
 
 ##### Artikel 2.3
 
-1. De in het tweede lid van [artikel 2.2](https://wetten.overheid.nl/jci1.3:c:BWBR0029236&hoofdstuk=II&titeldeel=1&artikel=2.2&z=2016-01-01&g=2016-01-01) bedoelde tarieven worden zodanig vastgesteld dat de verschuldigde kosten de werkelijke kosten zoveel mogelijk benaderen.
+1. De in het tweede lid van [artikel 2.2](https://wetten.overheid.nl/jci1.3:c:BWBR0029236&hoofdstuk=II&titeldeel=1&artikel=2.2&z=2017-01-01&g=2017-01-01) bedoelde tarieven worden zodanig vastgesteld dat de verschuldigde kosten de werkelijke kosten zoveel mogelijk benaderen.
 
 2. De inspecteur stelt het bedrag van de door belanghebbende verschuldigde kosten bij beschikking vast.
 
 ##### Artikel 2.4
 
-1. Bij regeling van Onze Minister van Financiën worden de modellen en authenticiteitskenmerken van de formulieren voor de verklaring tot inklaring, bedoeld in [artikel 2.10](https://wetten.overheid.nl/jci1.3:c:BWBR0029236&hoofdstuk=II&titeldeel=2&afdeling=1&artikel=2.10&z=2016-01-01&g=2016-01-01), voor de aangifte van gegevens inzake de douanewaarde, bedoeld in [artikel 3.9](https://wetten.overheid.nl/jci1.3:c:BWBR0029236&hoofdstuk=III&titeldeel=2&afdeling=1&artikel=3.9&z=2016-01-01&g=2016-01-01) en voor het enig document, waarbij tevens het aantal exemplaren waaruit een formulier bestaat en de toelichting op het gebruik van een formulier, vastgesteld.
+1. Bij regeling van Onze Minister van Financiën worden de modellen en authenticiteitskenmerken van de formulieren voor de verklaring tot inklaring, bedoeld in [artikel 2.10](https://wetten.overheid.nl/jci1.3:c:BWBR0029236&hoofdstuk=II&titeldeel=2&afdeling=1&artikel=2.10&z=2017-01-01&g=2017-01-01), voor de aangifte van gegevens inzake de douanewaarde, bedoeld in [artikel 3.9](https://wetten.overheid.nl/jci1.3:c:BWBR0029236&hoofdstuk=III&titeldeel=2&afdeling=1&artikel=3.9&z=2017-01-01&g=2017-01-01) en voor het enig document, waarbij tevens het aantal exemplaren waaruit een formulier bestaat en de toelichting op het gebruik van een formulier, vastgesteld.
 
 2. De modellen, bedoeld in het eerste lid, strekken tot het verkrijgen van de gegevens welke zijn vereist voor de heffing en inning van invoerrechten, en voor de statistiek.
 
@@ -225,7 +225,7 @@ Deze wet is van toepassing op het grondgebied van de BES eilanden met inbegrip v
 
 5. Aan de toelating tot douane-expediteur worden in elk geval de volgende voorwaarden verbonden: de douane-expediteur stelt een doorlopende zekerheid voor de douaneschuld die kan ontstaan uit hoofde van door hem gedane aangiften en is gehouden aan zijn opdrachtgever een factuur te verstrekken waarin ten behoeve van deze laatste aan de ontvanger van het desbetreffend BES eiland betaalde invoerrechten, andere belastingen, heffingen, retributies, dan wel rente en kosten en bestuurlijke boeten voor zover aan zijn opdrachtgever te wijten, duidelijk en afzonderlijk zijn omschreven.
 
-6. De [artikelen 2.89](https://wetten.overheid.nl/jci1.3:c:BWBR0029236&hoofdstuk=II&titeldeel=6&artikel=2.89&z=2016-01-01&g=2016-01-01), [2.91, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029236&hoofdstuk=II&titeldeel=6&artikel=2.91&z=2016-01-01&g=2016-01-01), en de [artikelen 2.92 tot en met 2.96](https://wetten.overheid.nl/jci1.3:c:BWBR0029236&hoofdstuk=II&titeldeel=6&artikel=2.92&z=2016-01-01&g=2016-01-01), zijn van toepassing op de doorlopende zekerheid, bedoeld in het vijfde lid.
+6. De [artikelen 2.89](https://wetten.overheid.nl/jci1.3:c:BWBR0029236&hoofdstuk=II&titeldeel=6&artikel=2.89&z=2017-01-01&g=2017-01-01), [2.91, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029236&hoofdstuk=II&titeldeel=6&artikel=2.91&z=2017-01-01&g=2017-01-01), en de [artikelen 2.92 tot en met 2.96](https://wetten.overheid.nl/jci1.3:c:BWBR0029236&hoofdstuk=II&titeldeel=6&artikel=2.92&z=2017-01-01&g=2017-01-01), zijn van toepassing op de doorlopende zekerheid, bedoeld in het vijfde lid.
 
 7. De inspecteur kan een toelating als douane-expediteur bij beschikking weigeren aan een persoon die, in de laatstverlopen vijf jaren vanaf het moment van ontvangst van de schriftelijke aanvraag door de inspecteur, wegens een strafbaar feit onherroepelijk is veroordeeld indien dat strafbaar feit naar Nederlands recht wordt aangemerkt als een misdrijf of diens eerdere toelating als douane-expediteur ingevolge het achtste lid is ingetrokken.
 
@@ -263,7 +263,7 @@ Deze wet is van toepassing op het grondgebied van de BES eilanden met inbegrip v
 
 - c. niet langer verenigbaar is met een besluit over de uitleg van wettelijke regelingen of met een gerechtelijke uitspraak; of
 
-- d. overeenkomstig [artikel 2.85, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029236&hoofdstuk=II&titeldeel=5&artikel=2.85&z=2016-01-01&g=2016-01-01), wordt ingetrokken of gewijzigd, mits aan de verkrijger van de inlichtingen daarvan vooraf kennis wordt gegeven.
+- d. overeenkomstig [artikel 2.85, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029236&hoofdstuk=II&titeldeel=5&artikel=2.85&z=2017-01-01&g=2017-01-01), wordt ingetrokken of gewijzigd, mits aan de verkrijger van de inlichtingen daarvan vooraf kennis wordt gegeven.
 
 4. De datum waarop de bindende inlichting haar geldigheid verliest, is de datum waarop de vaststelling of wijziging van een wettelijke regeling of internationale overeenkomst in werking is getreden, onderscheidenlijk de internationale afspraak, de gerechtelijke uitspraak of het besluit, bekend is gemaakt.
 
@@ -295,7 +295,7 @@ Deze wet is van toepassing op het grondgebied van de BES eilanden met inbegrip v
 
 2. De inspecteur bepaalt binnen welke termijn de lossing plaatsvindt.
 
-3. De lossing kan eerst geschieden nadat de aansprakelijkheid voor de eventueel verschuldigde invoerrechten is verzekerd dan wel een document is verkregen op een aangifte voor een douanebestemming als bedoeld in [artikel 2.15](https://wetten.overheid.nl/jci1.3:c:BWBR0029236&hoofdstuk=II&titeldeel=2&afdeling=1&artikel=2.15&z=2016-01-01&g=2016-01-01).
+3. De lossing kan eerst geschieden nadat de aansprakelijkheid voor de eventueel verschuldigde invoerrechten is verzekerd dan wel een document is verkregen op een aangifte voor een douanebestemming als bedoeld in [artikel 2.15](https://wetten.overheid.nl/jci1.3:c:BWBR0029236&hoofdstuk=II&titeldeel=2&afdeling=1&artikel=2.15&z=2017-01-01&g=2017-01-01).
 
 4. De inspecteur kan, rekening houdend met de aard van de goederen of met de douanebestemming van de goederen, een lossing buiten de vastgestelde uren en plaatsen toestaan. Zonodig wordt bij het vervoer naar een andere plaats verzegeling toegepast of vindt dit vervoer plaats onder bewaking.
 
@@ -307,7 +307,7 @@ Deze wet is van toepassing op het grondgebied van de BES eilanden met inbegrip v
 
 2. De aansprakelijkheid voor de eventueel verschuldigde invoerrechten wordt overgenomen door de beheerder van een ruimte voor tijdelijke opslag, zonder dat daarvoor opnieuw aangifte behoeft te worden gedaan.
 
-3. Aan goederen in tijdelijke opslag wordt binnen een termijn van eenentwintig dagen na het indienen van de verklaring tot inklaring, een bestemming gegeven als bedoeld in [artikel 2.15, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029236&hoofdstuk=II&titeldeel=2&afdeling=1&artikel=2.15&z=2016-01-01&g=2016-01-01).
+3. Aan goederen in tijdelijke opslag wordt binnen een termijn van eenentwintig dagen na het indienen van de verklaring tot inklaring, een bestemming gegeven als bedoeld in [artikel 2.15, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029236&hoofdstuk=II&titeldeel=2&afdeling=1&artikel=2.15&z=2017-01-01&g=2017-01-01).
 
 4. Indien de omstandigheden zulks rechtvaardigen, kan de inspecteur op schriftelijk verzoek van de beheerder, de in het derde lid genoemde termijn, verlengen tot ten hoogste dertig dagen.
 
@@ -351,7 +351,7 @@ Deze wet is van toepassing op het grondgebied van de BES eilanden met inbegrip v
 
 1. Aan goederen die zijn overgebracht naar een douane-entrepot of naar een handels- en dienstenentrepot, of die overgaan van het regime van tijdelijke opslag naar de opslag in een douane-entrepot of opslag in een accijnsgoederenplaats of opslag in een handels- en dienstenentrepot, wordt de douanebestemming douane-entrepot, accijnsgoederenplaats of handels- en dienstenentrepot, gegeven.
 
-2. Voor de inslag is toestemming van de inspecteur vereist.
+2. Voor de in- of uitslag is toestemming van de inspecteur vereist.
 
 3. Aan goederen in een douane-entrepot of in een handels- en dienstenentrepot die bestemd zijn om te worden overgebracht naar een ander douane-entrepot, naar een andere handels- en dienstenentrepot of naar een plaats buiten de BES eilanden, dan wel bestemd zijn om ten invoer te worden aangegeven, wordt de douanebestemming douane-entrepot ter overbrenging naar een ander douane-entrepot of een handels- en dienstenentrepot onderscheidenlijk doorvoer of invoer gegeven.
 
@@ -399,7 +399,7 @@ Goederen in het vrije verkeer, die van de ene plaats in een openbaar lichaam ove
 
 1. Goederen die ten uitvoer of ten doorvoer zijn aangegeven, kunnen, in afwachting van het inladen in het uitgaande vervoermiddel, onder door de inspecteur te stellen voorwaarden tijdelijk worden opgeslagen in de door hem goedgekeurde ruimten, op terreinen of op andere locaties.
 
-2. Ter dekking van de opslag dient het document dat is afgegeven op de aangifte voor een van de douanebestemmingen, bedoeld in [artikel 2.18](https://wetten.overheid.nl/jci1.3:c:BWBR0029236&hoofdstuk=II&titeldeel=2&afdeling=1&artikel=2.18&z=2016-01-01&g=2016-01-01), dan wel, ingeval van voorafgaande tijdelijke invoer, het voor die douanebestemming afgegeven document.
+2. Ter dekking van de opslag dient het document dat is afgegeven op de aangifte voor een van de douanebestemmingen, bedoeld in [artikel 2.18](https://wetten.overheid.nl/jci1.3:c:BWBR0029236&hoofdstuk=II&titeldeel=2&afdeling=1&artikel=2.18&z=2017-01-01&g=2017-01-01), dan wel, ingeval van voorafgaande tijdelijke invoer, het voor die douanebestemming afgegeven document.
 
 ##### Artikel 2.20
 
@@ -419,11 +419,11 @@ Goederen in het vrije verkeer, die van de ene plaats in een openbaar lichaam ove
 
 ##### Artikel 2.22
 
-1. Goederen als bedoeld in [artikel 2.21, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029236&hoofdstuk=II&titeldeel=2&afdeling=1&artikel=2.21&z=2016-01-01&g=2016-01-01), kunnen op verzoek van degene op wiens naam het voor de goederen afgegeven document is gesteld, onder toezicht van de inspecteur worden vernietigd.
+1. Goederen als bedoeld in [artikel 2.21, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029236&hoofdstuk=II&titeldeel=2&afdeling=1&artikel=2.21&z=2017-01-01&g=2017-01-01), kunnen op verzoek van degene op wiens naam het voor de goederen afgegeven document is gesteld, onder toezicht van de inspecteur worden vernietigd.
 
 2. Voor de eventuele resten en afvallen van vernietiging wordt aangifte ten invoer gedaan.
 
-3. De inspecteur kan een beschikking tot het doen vernietigen van de goederen afgeven indien de betreffende goederen geen toegelaten douanebestemming kunnen krijgen in verband met de toepassing van verboden of beperkingen als bedoeld in [artikel 2.26, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029236&hoofdstuk=II&titeldeel=2&afdeling=1&artikel=2.26&z=2016-01-01&g=2016-01-01). De inspecteur stelt de houder van de goederen in de gelegenheid zijn zienswijze naar voren te brengen. De aan de vernietiging verbonden kosten komen te zijner laste.
+3. De inspecteur kan een beschikking tot het doen vernietigen van de goederen afgeven indien de betreffende goederen geen toegelaten douanebestemming kunnen krijgen in verband met de toepassing van verboden of beperkingen als bedoeld in [artikel 2.26, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029236&hoofdstuk=II&titeldeel=2&afdeling=1&artikel=2.26&z=2017-01-01&g=2017-01-01). De inspecteur stelt de houder van de goederen in de gelegenheid zijn zienswijze naar voren te brengen. De aan de vernietiging verbonden kosten komen te zijner laste.
 
 ##### Artikel 2.23
 
@@ -455,7 +455,7 @@ Bij regeling van Onze Minister van Financiën, teneinde de goede werking van dez
 
 - j. het doorgaande vervoer van binnengebrachte goederen, meer in het bijzonder de doorvoer en de overbrenging naar een ruimte voor tijdelijke opslag, een douane-entrepot of een handels- en dienstenentrepot;
 
-- k. de invoer van goederen waarvoor met toepassing van de regeling actieve veredeling, bedoeld in [artikel 3.96](https://wetten.overheid.nl/jci1.3:c:BWBR0029236&hoofdstuk=III&titeldeel=3&afdeling=3&paragraaf=2&artikel=3.96&z=2016-01-01&g=2016-01-01), vrijstelling van invoerrecht wordt verleend, alsmede de uitvoer van goederen waarvoor met toepassing van de regeling passieve veredeling, bedoeld in [artikel 3.80](https://wetten.overheid.nl/jci1.3:c:BWBR0029236&hoofdstuk=III&titeldeel=3&afdeling=3&paragraaf=1&artikel=3.80&z=2016-01-01&g=2016-01-01) gehele of gedeeltelijke vrijstelling van invoerrecht bij wederinvoer wordt verleend;
+- k. de invoer van goederen waarvoor met toepassing van de regeling actieve veredeling, bedoeld in [artikel 3.96](https://wetten.overheid.nl/jci1.3:c:BWBR0029236&hoofdstuk=III&titeldeel=3&afdeling=3&paragraaf=2&artikel=3.96&z=2017-01-01&g=2017-01-01), vrijstelling van invoerrecht wordt verleend, alsmede de uitvoer van goederen waarvoor met toepassing van de regeling passieve veredeling, bedoeld in [artikel 3.80](https://wetten.overheid.nl/jci1.3:c:BWBR0029236&hoofdstuk=III&titeldeel=3&afdeling=3&paragraaf=1&artikel=3.80&z=2017-01-01&g=2017-01-01) gehele of gedeeltelijke vrijstelling van invoerrecht bij wederinvoer wordt verleend;
 
 - l. de tijdelijke invoer van goederen met vrijstelling van invoerrecht;
 
@@ -469,11 +469,11 @@ Bij regeling van Onze Minister van Financiën, teneinde de goede werking van dez
 
 ##### Artikel 2.25
 
-1. In de krachtens [artikel 2.24](https://wetten.overheid.nl/jci1.3:c:BWBR0029236&hoofdstuk=II&titeldeel=2&afdeling=1&artikel=2.24&z=2016-01-01&g=2016-01-01) getroffen regeling komen in elk geval bepalingen voor:
+1. In de krachtens [artikel 2.24](https://wetten.overheid.nl/jci1.3:c:BWBR0029236&hoofdstuk=II&titeldeel=2&afdeling=1&artikel=2.24&z=2017-01-01&g=2017-01-01) getroffen regeling komen in elk geval bepalingen voor:
 
 - a. omtrent de formaliteiten die in acht worden genomen ten aanzien van goederen die aan de kust zijn gestrand, gered of opgevist;
 
-- b. omtrent de formaliteiten die in acht worden genomen, indien in geval van nood, een binnenkomend vaartuig of luchtvaartuig zich niet onverwijld en rechtstreeks begeeft naar een plaats als bedoeld in [artikel 2.10](https://wetten.overheid.nl/jci1.3:c:BWBR0029236&hoofdstuk=II&titeldeel=2&afdeling=1&artikel=2.10&z=2016-01-01&g=2016-01-01);
+- b. omtrent de formaliteiten die in acht worden genomen, indien in geval van nood, een binnenkomend vaartuig of luchtvaartuig zich niet onverwijld en rechtstreeks begeeft naar een plaats als bedoeld in [artikel 2.10](https://wetten.overheid.nl/jci1.3:c:BWBR0029236&hoofdstuk=II&titeldeel=2&afdeling=1&artikel=2.10&z=2017-01-01&g=2017-01-01);
 
 - c. omtrent de formaliteiten die in acht worden genomen, indien in geval van nood, een uitgaand vaartuig of luchtvaartuig zich niet onverwijld en rechtstreeks buiten één van de BES eilanden begeeft.
 
@@ -485,13 +485,13 @@ Bij regeling van Onze Minister van Financiën, teneinde de goede werking van dez
 
 2. Aan goederen waarvan de invoer is verboden, doch die overigens op regelmatige wijze zijn binnengebracht en aangegeven, wordt, tenzij bijzondere wetten zich daartegen verzetten, de douanebestemming doorvoer of wederuitvoer gegeven. De verplichting tot het doen van aangifte rust op de belanghebbende bij de goederen.
 
-3. In bijzondere gevallen kan, in afwijking van het eerste lid, door de inspecteur worden toegestaan dat voor verboden goederen tevens afstand van de goederen wordt gedaan overeenkomstig [artikel 2.21](https://wetten.overheid.nl/jci1.3:c:BWBR0029236&hoofdstuk=II&titeldeel=2&afdeling=1&artikel=2.21&z=2016-01-01&g=2016-01-01), of dat een verzoek tot vernietiging wordt gedaan overeenkomstig [artikel 2.22, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029236&hoofdstuk=II&titeldeel=2&afdeling=1&artikel=2.22&z=2016-01-01&g=2016-01-01), onder de voorwaarden, bedoeld bij die artikelen.
+3. In bijzondere gevallen kan, in afwijking van het eerste lid, door de inspecteur worden toegestaan dat voor verboden goederen tevens afstand van de goederen wordt gedaan overeenkomstig [artikel 2.21](https://wetten.overheid.nl/jci1.3:c:BWBR0029236&hoofdstuk=II&titeldeel=2&afdeling=1&artikel=2.21&z=2017-01-01&g=2017-01-01), of dat een verzoek tot vernietiging wordt gedaan overeenkomstig [artikel 2.22, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029236&hoofdstuk=II&titeldeel=2&afdeling=1&artikel=2.22&z=2017-01-01&g=2017-01-01), onder de voorwaarden, bedoeld bij die artikelen.
 
 ### Afdeling 2. Aangiften
 
 ##### Artikel 2.27
 
-1. Van het voornemen om aan goederen een douanebestemming te geven als bedoeld in de [artikelen 2.15](https://wetten.overheid.nl/jci1.3:c:BWBR0029236&hoofdstuk=II&titeldeel=2&afdeling=1&artikel=2.15&z=2016-01-01&g=2016-01-01), [2.16](https://wetten.overheid.nl/jci1.3:c:BWBR0029236&hoofdstuk=II&titeldeel=2&afdeling=1&artikel=2.16&z=2016-01-01&g=2016-01-01) en [2.18](https://wetten.overheid.nl/jci1.3:c:BWBR0029236&hoofdstuk=II&titeldeel=2&afdeling=1&artikel=2.18&z=2016-01-01&g=2016-01-01), wordt aangifte gedaan.
+1. Van het voornemen om aan goederen een douanebestemming te geven als bedoeld in de [artikelen 2.15](https://wetten.overheid.nl/jci1.3:c:BWBR0029236&hoofdstuk=II&titeldeel=2&afdeling=1&artikel=2.15&z=2017-01-01&g=2017-01-01), [2.16](https://wetten.overheid.nl/jci1.3:c:BWBR0029236&hoofdstuk=II&titeldeel=2&afdeling=1&artikel=2.16&z=2017-01-01&g=2017-01-01) en [2.18](https://wetten.overheid.nl/jci1.3:c:BWBR0029236&hoofdstuk=II&titeldeel=2&afdeling=1&artikel=2.18&z=2017-01-01&g=2017-01-01), wordt aangifte gedaan.
 
 2. Aangifte kan worden gedaan bij elk douanekantoor en binnen de vastgestelde openingstijden.
 
@@ -525,13 +525,13 @@ Bij regeling van Onze Minister van Financiën, teneinde de goede werking van dez
 
 ##### Artikel 2.30
 
-1. Voor het doen van schriftelijke aangifte worden de formulieren – in originele vorm en in het vereiste aantal exemplaren – gebruikt, waarvan de modellen overeenkomstig [artikel 2.4](https://wetten.overheid.nl/jci1.3:c:BWBR0029236&hoofdstuk=II&titeldeel=1&artikel=2.4&z=2016-01-01&g=2016-01-01) zijn vastgesteld, behalve in geval van een vereenvoudigde aangifte.
+1. Voor het doen van schriftelijke aangifte worden de formulieren – in originele vorm en in het vereiste aantal exemplaren – gebruikt, waarvan de modellen overeenkomstig [artikel 2.4](https://wetten.overheid.nl/jci1.3:c:BWBR0029236&hoofdstuk=II&titeldeel=1&artikel=2.4&z=2017-01-01&g=2017-01-01) zijn vastgesteld, behalve in geval van een vereenvoudigde aangifte.
 
 2. Het formulier dat wordt gebruikt voor het doen van aangifte wordt door de aangever volledig en naar waarheid ingevuld volgens de daarbij behorende toelichting en wordt door hem gedagtekend en ondertekend.
 
 ##### Artikel 2.31
 
-1. De aangever overlegt bij het doen van aangifte alle bescheiden die overeenkomstig [artikel 2.36](https://wetten.overheid.nl/jci1.3:c:BWBR0029236&hoofdstuk=II&titeldeel=2&afdeling=2&artikel=2.36&z=2016-01-01&g=2016-01-01) vereist zijn.
+1. De aangever overlegt bij het doen van aangifte alle bescheiden die overeenkomstig [artikel 2.36](https://wetten.overheid.nl/jci1.3:c:BWBR0029236&hoofdstuk=II&titeldeel=2&afdeling=2&artikel=2.36&z=2017-01-01&g=2017-01-01) vereist zijn.
 
 2. Indien handels- of administratieve bescheiden, met behulp waarvan de aangifte wordt gedaan, in een andere taal zijn gesteld dan het Engels, het Spaans of het Nederlands kan de inspecteur een vertaling daarvan eisen.
 
@@ -543,7 +543,7 @@ Bij regeling van Onze Minister van Financiën, teneinde de goede werking van dez
 
 ##### Artikel 2.33
 
-1. Indien de aangifte voldoet aan de voorwaarden van de [artikelen 2.30 tot en met 2.32](https://wetten.overheid.nl/jci1.3:c:BWBR0029236&hoofdstuk=II&titeldeel=2&afdeling=2&artikel=2.30&z=2016-01-01&g=2016-01-01) wordt de aangifte dadelijk door de inspecteur aanvaard en geregistreerd. De datum van aanvaarding wordt op het formulier vermeld.
+1. Indien de aangifte voldoet aan de voorwaarden van de [artikelen 2.30 tot en met 2.32](https://wetten.overheid.nl/jci1.3:c:BWBR0029236&hoofdstuk=II&titeldeel=2&afdeling=2&artikel=2.30&z=2017-01-01&g=2017-01-01) wordt de aangifte dadelijk door de inspecteur aanvaard en geregistreerd. De datum van aanvaarding wordt op het formulier vermeld.
 
 2. Indien de aangifte niet kan worden aanvaard, wordt daarvan, onder teruggave van het betreffende formulier, gemotiveerd mededeling gedaan aan de aangever.
 
@@ -601,7 +601,7 @@ Bij algemene maatregel van bestuur worden regels gesteld met betrekking tot het 
 
 ##### Artikel 2.38
 
-[Artikel 2.29](https://wetten.overheid.nl/jci1.3:c:BWBR0029236&hoofdstuk=II&titeldeel=2&afdeling=2&artikel=2.29&z=2016-01-01&g=2016-01-01) is van overeenkomstige toepassing op de verklaring tot inklaring en de verklaring tot uitklaring als bedoeld in [artikel 2.10](https://wetten.overheid.nl/jci1.3:c:BWBR0029236&hoofdstuk=II&titeldeel=2&afdeling=1&artikel=2.10&z=2016-01-01&g=2016-01-01) onderscheidenlijk [artikel 2.18](https://wetten.overheid.nl/jci1.3:c:BWBR0029236&hoofdstuk=II&titeldeel=2&afdeling=1&artikel=2.18&z=2016-01-01&g=2016-01-01).
+[Artikel 2.29](https://wetten.overheid.nl/jci1.3:c:BWBR0029236&hoofdstuk=II&titeldeel=2&afdeling=2&artikel=2.29&z=2017-01-01&g=2017-01-01) is van overeenkomstige toepassing op de verklaring tot inklaring en de verklaring tot uitklaring als bedoeld in [artikel 2.10](https://wetten.overheid.nl/jci1.3:c:BWBR0029236&hoofdstuk=II&titeldeel=2&afdeling=1&artikel=2.10&z=2017-01-01&g=2017-01-01) onderscheidenlijk [artikel 2.18](https://wetten.overheid.nl/jci1.3:c:BWBR0029236&hoofdstuk=II&titeldeel=2&afdeling=1&artikel=2.18&z=2017-01-01&g=2017-01-01).
 
 ### Afdeling 3. Controle van aangiften, vrijgave en wegvoering van goederen
 
@@ -611,7 +611,7 @@ Bij algemene maatregel van bestuur worden regels gesteld met betrekking tot het 
 
 2. De controle geschiedt gelijktijdig met of direct na aanvaarding van de aangifte.
 
-3. De inspecteur schrijft de aangegeven goederen af van een eventueel voorafgaand document, uiterlijk vrijgave van de goederen, bedoeld in [artikel 2.42](https://wetten.overheid.nl/jci1.3:c:BWBR0029236&hoofdstuk=II&titeldeel=2&afdeling=3&artikel=2.42&z=2016-01-01&g=2016-01-01).
+3. De inspecteur schrijft de aangegeven goederen af van een eventueel voorafgaand document, uiterlijk vrijgave van de goederen, bedoeld in [artikel 2.42](https://wetten.overheid.nl/jci1.3:c:BWBR0029236&hoofdstuk=II&titeldeel=2&afdeling=3&artikel=2.42&z=2017-01-01&g=2017-01-01).
 
 ##### Artikel 2.40
 
@@ -631,7 +631,7 @@ Bij algemene maatregel van bestuur worden regels gesteld met betrekking tot het 
 
 ##### Artikel 2.41
 
-1. De inspecteur kan, overeenkomstig [artikel 2.60](https://wetten.overheid.nl/jci1.3:c:BWBR0029236&hoofdstuk=II&titeldeel=3&afdeling=2&artikel=2.60&z=2016-01-01&g=2016-01-01), ten behoeve van de indeling in het geharmoniseerde systeem en waardevaststelling, alsmede met het oog op de toepassing van andere wettelijke regelingen, monsters nemen van goederen.
+1. De inspecteur kan, overeenkomstig [artikel 2.60](https://wetten.overheid.nl/jci1.3:c:BWBR0029236&hoofdstuk=II&titeldeel=3&afdeling=2&artikel=2.60&z=2017-01-01&g=2017-01-01), ten behoeve van de indeling in het geharmoniseerde systeem en waardevaststelling, alsmede met het oog op de toepassing van andere wettelijke regelingen, monsters nemen van goederen.
 
 2. Op verzoek van de aangever is de inspecteur gehouden monsters te nemen.
 
@@ -653,7 +653,7 @@ Bij algemene maatregel van bestuur worden regels gesteld met betrekking tot het 
 
 3. Indien de inspecteur een onderzoek van de goederen of een monsterneming nodig acht, geeft hij de goederen slechts vrij voor zover geen verboden of beperkingen op de goederen van toepassing zijn en nadat zekerheid is gesteld.
 
-4. De [artikelen 2.89](https://wetten.overheid.nl/jci1.3:c:BWBR0029236&hoofdstuk=II&titeldeel=6&artikel=2.89&z=2016-01-01&g=2016-01-01), [2.91 tot en met 2.95](https://wetten.overheid.nl/jci1.3:c:BWBR0029236&hoofdstuk=II&titeldeel=6&artikel=2.91&z=2016-01-01&g=2016-01-01) en [2.97](https://wetten.overheid.nl/jci1.3:c:BWBR0029236&hoofdstuk=II&titeldeel=6&artikel=2.97&z=2016-01-01&g=2016-01-01) zijn van toepassing op de zekerheidstelling, bedoeld in het derde lid.
+4. De [artikelen 2.89](https://wetten.overheid.nl/jci1.3:c:BWBR0029236&hoofdstuk=II&titeldeel=6&artikel=2.89&z=2017-01-01&g=2017-01-01), [2.91 tot en met 2.95](https://wetten.overheid.nl/jci1.3:c:BWBR0029236&hoofdstuk=II&titeldeel=6&artikel=2.91&z=2017-01-01&g=2017-01-01) en [2.97](https://wetten.overheid.nl/jci1.3:c:BWBR0029236&hoofdstuk=II&titeldeel=6&artikel=2.97&z=2017-01-01&g=2017-01-01) zijn van toepassing op de zekerheidstelling, bedoeld in het derde lid.
 
 ##### Artikel 2.43
 
@@ -693,9 +693,9 @@ De inspecteur kan na vrijgave van de goederen, om zich van de juistheid en volle
 
 - b. het geven van de douanebestemming invoer aan goederen, voordat deze de BES eilanden zijn binnengebracht;
 
-- c. de regelmatige toepassing van [artikel 2.1, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029236&hoofdstuk=II&titeldeel=1&artikel=2.1&z=2016-01-01&g=2016-01-01), in het bijzonder ten aanzien van de vervulling van douaneformaliteiten en de controle van aangiften, in het bedrijf van een belanghebbende;
+- c. de regelmatige toepassing van [artikel 2.1, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029236&hoofdstuk=II&titeldeel=1&artikel=2.1&z=2017-01-01&g=2017-01-01), in het bijzonder ten aanzien van de vervulling van douaneformaliteiten en de controle van aangiften, in het bedrijf van een belanghebbende;
 
-- d. de regelmatige toepassing van [artikel 2.42, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029236&hoofdstuk=II&titeldeel=2&afdeling=3&artikel=2.42&z=2016-01-01&g=2016-01-01);
+- d. de regelmatige toepassing van [artikel 2.42, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029236&hoofdstuk=II&titeldeel=2&afdeling=3&artikel=2.42&z=2017-01-01&g=2017-01-01);
 
 - e. het doen van aangifte achteraf.
 
@@ -775,7 +775,7 @@ De inspecteur maakt van zijn bevoegdheden slechts gebruik voor zover dat redelij
 
 2. De gevraagde gegevens en inlichtingen worden kosteloos aan de inspecteur verstrekt.
 
-3. De verplichting, bedoeld in het eerste lid, geldt ook voor een derde, indien deze direct of indirect is betrokken bij transacties van de persoon, bedoeld in het eerste lid. De inspecteur stelt de belanghebbende, op wie de verplichting tot het voeren van een administratie als bedoeld in [artikel 2.52, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029236&hoofdstuk=II&titeldeel=3&afdeling=1&artikel=2.52&z=2016-01-01&g=2016-01-01), rust, wiens gegevensdragers hij bij een derde voor raadpleging vordert hiervan zo spoedig mogelijk in kennis.
+3. De verplichting, bedoeld in het eerste lid, geldt ook voor een derde, indien deze direct of indirect is betrokken bij transacties van de persoon, bedoeld in het eerste lid. De inspecteur stelt de belanghebbende, op wie de verplichting tot het voeren van een administratie als bedoeld in [artikel 2.52, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029236&hoofdstuk=II&titeldeel=3&afdeling=1&artikel=2.52&z=2017-01-01&g=2017-01-01), rust, wiens gegevensdragers hij bij een derde voor raadpleging vordert hiervan zo spoedig mogelijk in kennis.
 
 4. De gegevens en inlichtingen dienen duidelijk, stellig en zonder voorbehoud te worden verstrekt, elektronisch, mondeling of schriftelijk, zulks naar keuze van de inspecteur en binnen een door hem te stellen termijn.
 
@@ -841,7 +841,7 @@ De inspecteur maakt van zijn bevoegdheden slechts gebruik voor zover dat redelij
 
 2. Bij de onderzoekingen en opnemingen, noodzakelijk naar het oordeel van de inspecteur, van goederen als bedoeld in het eerste lid is de persoon onder wiens beheer zich deze bevinden, gehouden op eerste vordering van de inspecteur deze inzage te verlenen van de bij de goederen behorende vracht- of ladingspapieren, alsmede van de bescheiden welke krachtens deze wet bij de goederen aanwezig moeten zijn.
 
-3. De persoon onder wiens beheer zich goederen als bedoeld in het eerste lid bevinden, is gehouden op vordering van de inspecteur terstond stil te staan. [Artikel 2.54](https://wetten.overheid.nl/jci1.3:c:BWBR0029236&hoofdstuk=II&titeldeel=3&afdeling=1&artikel=2.54&z=2016-01-01&g=2016-01-01) is van overeenkomstige toepassing.
+3. De persoon onder wiens beheer zich goederen als bedoeld in het eerste lid bevinden, is gehouden op vordering van de inspecteur terstond stil te staan. [Artikel 2.54](https://wetten.overheid.nl/jci1.3:c:BWBR0029236&hoofdstuk=II&titeldeel=3&afdeling=1&artikel=2.54&z=2017-01-01&g=2017-01-01) is van overeenkomstige toepassing.
 
 4. Degene aan wie inzage van de papieren of bescheiden, bedoeld in het tweede lid, wordt verzocht, wordt geacht die in zijn bezit te hebben, tenzij hij het tegendeel aannemelijk maakt.
 
@@ -849,7 +849,7 @@ De inspecteur maakt van zijn bevoegdheden slechts gebruik voor zover dat redelij
 
 1. De inspecteur is bevoegd goederen, die worden vervoerd zonder zich in of op een vervoermiddel te bevinden, aan alle onderzoekingen en opnemingen te onderwerpen die hij nodig oordeelt.
 
-2. Ten behoeve van het onderzoek zijn personen die goederen vervoeren die zich niet in of op een vervoermiddel bevinden, op eerste vordering van de inspecteur gehouden terstond stil te staan en hem inzage te verlenen van de bij de goederen behorende vracht- of ladingspapieren, alsmede van de bescheiden welke krachtens wettelijke regelingen bij de goederen aanwezig moeten zijn. [Artikel 2.54](https://wetten.overheid.nl/jci1.3:c:BWBR0029236&hoofdstuk=II&titeldeel=3&afdeling=1&artikel=2.54&z=2016-01-01&g=2016-01-01) is van overeenkomstige toepassing.
+2. Ten behoeve van het onderzoek zijn personen die goederen vervoeren die zich niet in of op een vervoermiddel bevinden, op eerste vordering van de inspecteur gehouden terstond stil te staan en hem inzage te verlenen van de bij de goederen behorende vracht- of ladingspapieren, alsmede van de bescheiden welke krachtens wettelijke regelingen bij de goederen aanwezig moeten zijn. [Artikel 2.54](https://wetten.overheid.nl/jci1.3:c:BWBR0029236&hoofdstuk=II&titeldeel=3&afdeling=1&artikel=2.54&z=2017-01-01&g=2017-01-01) is van overeenkomstige toepassing.
 
 3. Degene aan wie inzage van de papieren of bescheiden, bedoeld in het tweede lid, wordt verzocht, wordt geacht die in zijn bezit te hebben, tenzij hij het tegendeel aannemelijk maakt.
 
@@ -871,7 +871,7 @@ De inspecteur maakt van zijn bevoegdheden slechts gebruik voor zover dat redelij
 
 4. Bij regeling van Onze Minister van Veiligheid en Justitie wordt bepaald op welke wijze de in het derde lid bedoelde vordering tot stilstaan wordt gedaan.
 
-5. Bij de onderzoekingen en opnemingen, noodzakelijk naar het oordeel van de inspecteur, van goederen die zich in vervoer bevinden, is de gezagvoerder of de bestuurder van het vervoermiddel, of de beheerder van de goederen gehouden op eerste vordering van de inspecteur, deze inzage te verlenen van de bij het vervoermiddel of de goederen behorende vracht- of ladingspapieren, alsmede van de bescheiden welke krachtens deze wet bij de goederen aanwezig moeten zijn. [Artikel 2.54](https://wetten.overheid.nl/jci1.3:c:BWBR0029236&hoofdstuk=II&titeldeel=3&afdeling=1&artikel=2.54&z=2016-01-01&g=2016-01-01) is van overeenkomstige toepassing.
+5. Bij de onderzoekingen en opnemingen, noodzakelijk naar het oordeel van de inspecteur, van goederen die zich in vervoer bevinden, is de gezagvoerder of de bestuurder van het vervoermiddel, of de beheerder van de goederen gehouden op eerste vordering van de inspecteur, deze inzage te verlenen van de bij het vervoermiddel of de goederen behorende vracht- of ladingspapieren, alsmede van de bescheiden welke krachtens deze wet bij de goederen aanwezig moeten zijn. [Artikel 2.54](https://wetten.overheid.nl/jci1.3:c:BWBR0029236&hoofdstuk=II&titeldeel=3&afdeling=1&artikel=2.54&z=2017-01-01&g=2017-01-01) is van overeenkomstige toepassing.
 
 6. Degene aan wie inzage van de in het vijfde lid bedoelde papieren of bescheiden wordt verzocht, wordt geacht die in zijn bezit te hebben, tenzij hij het tegendeel aannemelijk maakt.
 
@@ -887,7 +887,7 @@ De inspecteur maakt van zijn bevoegdheden slechts gebruik voor zover dat redelij
 
 5. Bij de in het tweede lid bedoelde visitatie is de inspecteur tevens bevoegd inzage te verlangen van de registers en andere bescheiden die, krachtens deze wet omtrent de aldaar voorhanden zijnde in- of uitgeslagen goederen, worden bijgehouden of voorhanden moeten zijn.
 
-6. De gebruiker of beheerder van een plaats, gebouw, terrein, erf of besloten terrein, alsmede haven, haventerrein, luchthaven en luchtvaartterrein is gehouden op eerste vordering van de inspecteur toegang te verschaffen tot alle in het eerste en tweede lid bedoelde plaatsen, gebouwen, erven of besloten terreinen, havens, haventerreinen, luchthavens en luchtvaartterreinen en inzage te verlenen van de in het vijfde lid bedoelde registers of andere bescheiden. [Artikel 2.54](https://wetten.overheid.nl/jci1.3:c:BWBR0029236&hoofdstuk=II&titeldeel=3&afdeling=1&artikel=2.54&z=2016-01-01&g=2016-01-01) is van overeenkomstige toepassing.
+6. De gebruiker of beheerder van een plaats, gebouw, terrein, erf of besloten terrein, alsmede haven, haventerrein, luchthaven en luchtvaartterrein is gehouden op eerste vordering van de inspecteur toegang te verschaffen tot alle in het eerste en tweede lid bedoelde plaatsen, gebouwen, erven of besloten terreinen, havens, haventerreinen, luchthavens en luchtvaartterreinen en inzage te verlenen van de in het vijfde lid bedoelde registers of andere bescheiden. [Artikel 2.54](https://wetten.overheid.nl/jci1.3:c:BWBR0029236&hoofdstuk=II&titeldeel=3&afdeling=1&artikel=2.54&z=2017-01-01&g=2017-01-01) is van overeenkomstige toepassing.
 
 7. Degene aan wie inzage van de in het vijfde lid bedoelde registers en andere bescheiden wordt verzocht, wordt geacht die in zijn bezit te hebben, tenzij hij het tegendeel aannemelijk maakt.
 
@@ -899,7 +899,7 @@ De inspecteur maakt van zijn bevoegdheden slechts gebruik voor zover dat redelij
 
 3. De inspecteur verstrekt kosteloos, mondeling, schriftelijk of op andere wijze – zulks ter keuze van de inspecteur – de gegevens en inlichtingen aan Onze Ministers, openbare lichamen en rechtspersonen die bij of krachtens een bijzondere wet rechtspersoonlijkheid hebben verkregen, de onder hen ressorterende instellingen en diensten, alsmede personen die hoofdzakelijk uitvoering geven aan het beleid van het Rijk, voor zover deze noodzakelijk zijn voor de uitvoering van de wettelijke regelingen.
 
-4. In afwijking in zoverre van [artikel 1.2](https://wetten.overheid.nl/jci1.3:c:BWBR0029236&hoofdstuk=I&artikel=1.2&z=2016-01-01&g=2016-01-01) verstrekt de inspecteur kosteloos mondeling, schriftelijk of op andere wijze – zulks ter keuze van de inspecteur – de gegevens en inlichtingen aan de inspecteur die bevoegd is in Nederland, voor zover deze noodzakelijk zijn voor de uitvoering van het bepaalde bij de wetgeving die geldt in Nederland en die betrekking heeft op verboden of beperkingen die op goederen bij het binnenbrengen in, onderscheidenlijk verlaten van het douanegebied van de Europese Unie dan wel Nederland, of die bij het kiezen van een douanebestemming in Nederland van toepassing zijn.
+4. In afwijking in zoverre van [artikel 1.2](https://wetten.overheid.nl/jci1.3:c:BWBR0029236&hoofdstuk=I&artikel=1.2&z=2017-01-01&g=2017-01-01) verstrekt de inspecteur kosteloos mondeling, schriftelijk of op andere wijze – zulks ter keuze van de inspecteur – de gegevens en inlichtingen aan de inspecteur die bevoegd is in Nederland, voor zover deze noodzakelijk zijn voor de uitvoering van het bepaalde bij de wetgeving die geldt in Nederland en die betrekking heeft op verboden of beperkingen die op goederen bij het binnenbrengen in, onderscheidenlijk verlaten van het douanegebied van de Europese Unie dan wel Nederland, of die bij het kiezen van een douanebestemming in Nederland van toepassing zijn.
 
 ##### Artikel 2.64
 
@@ -925,7 +925,7 @@ De inspecteur maakt van zijn bevoegdheden slechts gebruik voor zover dat redelij
 
 1. De inspecteur is bevoegd aan lijfsvisitatie te onderwerpen:
 
-- a. personen die aanwezig zijn in of op de terreinen van toezicht, bedoeld in [artikel 2.62](https://wetten.overheid.nl/jci1.3:c:BWBR0029236&hoofdstuk=II&titeldeel=3&afdeling=2&artikel=2.62&z=2016-01-01&g=2016-01-01);
+- a. personen die aanwezig zijn in of op de terreinen van toezicht, bedoeld in [artikel 2.62](https://wetten.overheid.nl/jci1.3:c:BWBR0029236&hoofdstuk=II&titeldeel=3&afdeling=2&artikel=2.62&z=2017-01-01&g=2017-01-01);
 
 - b. personen die zich bevinden in of op een buiten de BES eilanden komend vervoermiddel of dit vervoermiddel juist hebben verlaten, waarbij personen die zich in de territoriale zee, de aansluitende zone en de maritieme binnenwateren ophouden, worden geacht zich te bevinden in een vervoermiddel komend uit een plaats gelegen buiten de BES eilanden;
 
@@ -975,7 +975,7 @@ De inspecteur maakt van zijn bevoegdheden slechts gebruik voor zover dat redelij
 
 5. Indien binnen één maand na de mededeling omtrent de inbewaringneming de verplichtingen niet alsnog zijn nagekomen, kunnen de goederen overeenkomstig bij regeling van Onze Minister van Financiën te stellen regels in het openbaar worden verkocht of in bijzondere gevallen worden vernietigd. Onderhandse verkoop is toegestaan in de gevallen waarin de gerechtvaardigde vrees bestaat dat de opbrengst van een openbare verkoop minder zal bedragen dan de douaneschuld.
 
-6. Verboden goederen waaraan, in strijd met [artikel 2.26](https://wetten.overheid.nl/jci1.3:c:BWBR0029236&hoofdstuk=II&titeldeel=2&afdeling=1&artikel=2.26&z=2016-01-01&g=2016-01-01), niet de bestemming doorvoer of wederuitvoer is gegeven, worden slechts verkocht onder de voorwaarde dat de koper aan de verplichting tot doorvoer of wederuitvoer voldoet. Wordt niet aan deze voorwaarde voldaan, dan worden de goederen vernietigd op kosten van de koper.
+6. Verboden goederen waaraan, in strijd met [artikel 2.26](https://wetten.overheid.nl/jci1.3:c:BWBR0029236&hoofdstuk=II&titeldeel=2&afdeling=1&artikel=2.26&z=2017-01-01&g=2017-01-01), niet de bestemming doorvoer of wederuitvoer is gegeven, worden slechts verkocht onder de voorwaarde dat de koper aan de verplichting tot doorvoer of wederuitvoer voldoet. Wordt niet aan deze voorwaarde voldaan, dan worden de goederen vernietigd op kosten van de koper.
 
 7. De termijn, bedoeld in het tweede lid, geldt niet, indien de goederen aan spoedige, aanmerkelijke waardevermindering onderhevig zijn, of indien de bewaring of het onderhoud ervan gevaar oplevert dan wel hoge kosten meebrengt. De goederen kunnen in dat geval onmiddellijk worden verkocht, nadat van het voornemen daartoe op een bij regeling van Onze Minister van Financiën te bepalen wijze algemene bekendheid aan is gegeven.
 
@@ -983,7 +983,7 @@ De inspecteur maakt van zijn bevoegdheden slechts gebruik voor zover dat redelij
 
 ##### Artikel 2.68
 
-1. Vervoermiddelen, kennelijk ingericht of toegerust om goederen aan het toezicht te onttrekken of om tot het nakomen van de op grond van [artikel 2.61, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029236&hoofdstuk=II&titeldeel=3&afdeling=2&artikel=2.61&z=2016-01-01&g=2016-01-01) genomen dwangmaatregelen te verijdelen, alsmede alle andere voorwerpen, kennelijk bestemd om goederen aan het ambtelijk toezicht te onttrekken of om een vervoermiddel tot hiervoor omschreven doeleinden in te richten of toe te rusten, worden in beslag genomen.
+1. Vervoermiddelen, kennelijk ingericht of toegerust om goederen aan het toezicht te onttrekken of om tot het nakomen van de op grond van [artikel 2.61, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029236&hoofdstuk=II&titeldeel=3&afdeling=2&artikel=2.61&z=2017-01-01&g=2017-01-01) genomen dwangmaatregelen te verijdelen, alsmede alle andere voorwerpen, kennelijk bestemd om goederen aan het ambtelijk toezicht te onttrekken of om een vervoermiddel tot hiervoor omschreven doeleinden in te richten of toe te rusten, worden in beslag genomen.
 
 2. Tot inbeslagneming krachtens het eerste lid zijn, behalve de inspecteur, bevoegd de bij of ingevolge [artikel 184 van het Wetboek van Strafvordering BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&artikel=184) aangewezen ambtenaren of personen.
 
@@ -1031,7 +1031,7 @@ De inspecteur maakt van zijn bevoegdheden slechts gebruik voor zover dat redelij
 
 - b. uit een handels- en dienstenentrepot of een douane-entrepot op onregelmatige wijze op één van de BES eilanden worden binnengebracht.
 
-2. Goederen zijn op onregelmatige wijze binnengebracht, indien niet is voldaan aan de [artikelen 2.10](https://wetten.overheid.nl/jci1.3:c:BWBR0029236&hoofdstuk=II&titeldeel=2&afdeling=1&artikel=2.10&z=2016-01-01&g=2016-01-01) en [2.16](https://wetten.overheid.nl/jci1.3:c:BWBR0029236&hoofdstuk=II&titeldeel=2&afdeling=1&artikel=2.16&z=2016-01-01&g=2016-01-01).
+2. Goederen zijn op onregelmatige wijze binnengebracht, indien niet is voldaan aan de [artikelen 2.10](https://wetten.overheid.nl/jci1.3:c:BWBR0029236&hoofdstuk=II&titeldeel=2&afdeling=1&artikel=2.10&z=2017-01-01&g=2017-01-01) en [2.16](https://wetten.overheid.nl/jci1.3:c:BWBR0029236&hoofdstuk=II&titeldeel=2&afdeling=1&artikel=2.16&z=2017-01-01&g=2017-01-01).
 
 3. De douaneschuld ontstaat op het tijdstip waarop de goederen op onregelmatige wijze worden binnengebracht.
 
@@ -1047,9 +1047,9 @@ De inspecteur maakt van zijn bevoegdheden slechts gebruik voor zover dat redelij
 
 ##### Artikel 2.70a
 
-1. Indien aan de in [artikel 2.29, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029236&hoofdstuk=II&titeldeel=2&afdeling=2&artikel=2.29&z=2016-01-01&g=2016-01-01), bedoelde voorwaarden is voldaan, worden de betrokken goederen geacht bij de douane te zijn aangebracht in de zin van [artikel 2.10, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029236&hoofdstuk=II&titeldeel=2&afdeling=1&artikel=2.10&z=2016-01-01&g=2016-01-01) en wordt de aangifte geacht te zijn aanvaard en de vrijgave geacht te zijn verleend op het tijdstip waarop de in artikel 2.29 bedoelde andere handeling wordt verricht.
+1. Indien aan de in [artikel 2.29, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029236&hoofdstuk=II&titeldeel=2&afdeling=2&artikel=2.29&z=2017-01-01&g=2017-01-01), bedoelde voorwaarden is voldaan, worden de betrokken goederen geacht bij de douane te zijn aangebracht in de zin van [artikel 2.10, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029236&hoofdstuk=II&titeldeel=2&afdeling=1&artikel=2.10&z=2017-01-01&g=2017-01-01) en wordt de aangifte geacht te zijn aanvaard en de vrijgave geacht te zijn verleend op het tijdstip waarop de in artikel 2.29 bedoelde andere handeling wordt verricht.
 
-2. Indien bij een controle blijkt dat de in [artikel 2.29](https://wetten.overheid.nl/jci1.3:c:BWBR0029236&hoofdstuk=II&titeldeel=2&afdeling=2&artikel=2.29&z=2016-01-01&g=2016-01-01) bedoelde andere handeling wordt verricht zonder dat de binnenkomende goederen voldoen aan de voorwaarden van artikel 2.29, tweede lid, worden deze goederen geacht op onregelmatige wijze te zijn binnengebracht.
+2. Indien bij een controle blijkt dat de in [artikel 2.29](https://wetten.overheid.nl/jci1.3:c:BWBR0029236&hoofdstuk=II&titeldeel=2&afdeling=2&artikel=2.29&z=2017-01-01&g=2017-01-01) bedoelde andere handeling wordt verricht zonder dat de binnenkomende goederen voldoen aan de voorwaarden van artikel 2.29, tweede lid, worden deze goederen geacht op onregelmatige wijze te zijn binnengebracht.
 
 ##### Artikel 2.71
 
@@ -1061,9 +1061,9 @@ De inspecteur maakt van zijn bevoegdheden slechts gebruik voor zover dat redelij
 
 - b. een tekort wordt vastgesteld bij afschrijving van het document onder dekking waarvan de goederen tijdelijk zijn opgeslagen; of
 
-- c. niet of niet tijdig wordt voldaan aan de verplichting tot het doen van aangifte als bedoeld in [artikel 2.12, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029236&hoofdstuk=II&titeldeel=2&afdeling=1&artikel=2.12&z=2016-01-01&g=2016-01-01).
+- c. niet of niet tijdig wordt voldaan aan de verplichting tot het doen van aangifte als bedoeld in [artikel 2.12, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029236&hoofdstuk=II&titeldeel=2&afdeling=1&artikel=2.12&z=2017-01-01&g=2017-01-01).
 
-3. Schuldenaar is de persoon die op grond van [artikel 2.12, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029236&hoofdstuk=II&titeldeel=2&afdeling=1&artikel=2.12&z=2016-01-01&g=2016-01-01), de aansprakelijkheid voor de eventueel verschuldigde invoerrechten heeft overgenomen.
+3. Schuldenaar is de persoon die op grond van [artikel 2.12, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029236&hoofdstuk=II&titeldeel=2&afdeling=1&artikel=2.12&z=2017-01-01&g=2017-01-01), de aansprakelijkheid voor de eventueel verschuldigde invoerrechten heeft overgenomen.
 
 ##### Artikel 2.72
 
@@ -1075,7 +1075,7 @@ De inspecteur maakt van zijn bevoegdheden slechts gebruik voor zover dat redelij
 
 - c. in overige gevallen waarin aan invoerrechten onderworpen goederen aan het douanetoezicht zijn onttrokken.
 
-2. In een geval als bedoeld in het eerste lid, onderdeel a, ontstaat de douaneschuld op het tijdstip waarop wordt vastgesteld dat het document niet overeenkomstig [artikel 2.44](https://wetten.overheid.nl/jci1.3:c:BWBR0029236&hoofdstuk=II&titeldeel=2&afdeling=3&artikel=2.44&z=2016-01-01&g=2016-01-01) is gezuiverd.
+2. In een geval als bedoeld in het eerste lid, onderdeel a, ontstaat de douaneschuld op het tijdstip waarop wordt vastgesteld dat het document niet overeenkomstig [artikel 2.44](https://wetten.overheid.nl/jci1.3:c:BWBR0029236&hoofdstuk=II&titeldeel=2&afdeling=3&artikel=2.44&z=2017-01-01&g=2017-01-01) is gezuiverd.
 
 3. In een geval als bedoeld in het eerste lid, onderdeel b, ontstaat de douaneschuld op het tijdstip waarop een vermis door de inspecteur wordt vastgesteld of het tijdstip waarop de beheerder van het douane-entrepot of een tot een handels- en dienstenentrepot toegelaten rechtspersoon melding maakt van een geconstateerd vermis.
 
@@ -1119,13 +1119,13 @@ De inspecteur maakt van zijn bevoegdheden slechts gebruik voor zover dat redelij
 
 - a. door betaling van het verschuldigde bedrag aan invoerrechten en kosten;
 
-- b. door teruggaaf van het verschuldigde bedrag aan invoerrechten, als bedoeld in [artikel 3.144, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0029236&hoofdstuk=III&titeldeel=4&afdeling=1&artikel=3.144&z=2016-01-01&g=2016-01-01); of
+- b. door teruggaaf van het verschuldigde bedrag aan invoerrechten, als bedoeld in [artikel 3.144, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0029236&hoofdstuk=III&titeldeel=4&afdeling=1&artikel=3.144&z=2017-01-01&g=2017-01-01); of
 
-- c. indien de desbetreffende aangifte of het daarop afgegeven document krachtens [artikel 2.34](https://wetten.overheid.nl/jci1.3:c:BWBR0029236&hoofdstuk=II&titeldeel=2&afdeling=2&artikel=2.34&z=2016-01-01&g=2016-01-01) onderscheidenlijk [artikel 2.43](https://wetten.overheid.nl/jci1.3:c:BWBR0029236&hoofdstuk=II&titeldeel=2&afdeling=3&artikel=2.43&z=2016-01-01&g=2016-01-01) buiten werking is gesteld of ongeldig is gemaakt.
+- c. indien de desbetreffende aangifte of het daarop afgegeven document krachtens [artikel 2.34](https://wetten.overheid.nl/jci1.3:c:BWBR0029236&hoofdstuk=II&titeldeel=2&afdeling=2&artikel=2.34&z=2017-01-01&g=2017-01-01) onderscheidenlijk [artikel 2.43](https://wetten.overheid.nl/jci1.3:c:BWBR0029236&hoofdstuk=II&titeldeel=2&afdeling=3&artikel=2.43&z=2017-01-01&g=2017-01-01) buiten werking is gesteld of ongeldig is gemaakt.
 
 2. Er ontstaat geen douaneschuld indien de belanghebbende bij goederen, waarvoor aangifte is gedaan, maar waarvoor geen toestemming tot wegvoering is verleend, of voor een andere bestemming dan invoer zijn aangegeven, ten genoegen van de inspecteur aantoont, dat door een oorzaak gelegen in de aard van de goederen, onvoorziene omstandigheden of overmacht, deze in hun geheel zijn vernietigd, onherstelbaar verloren zijn gegaan of anderszins voor een ieder onbruikbaar zijn geworden.
 
-3. Geen invoerrechten zijn verschuldigd, indien goederen waarvoor aangifte is gedaan, maar waarvoor geen toestemming tot wegvoering is verleend, of voor een andere bestemming dan invoer zijn aangegeven, overeenkomstig [artikel 2.21](https://wetten.overheid.nl/jci1.3:c:BWBR0029236&hoofdstuk=II&titeldeel=2&afdeling=1&artikel=2.21&z=2016-01-01&g=2016-01-01) aan het Rijk worden afgestaan, of overeenkomstig [artikel 2.22](https://wetten.overheid.nl/jci1.3:c:BWBR0029236&hoofdstuk=II&titeldeel=2&afdeling=1&artikel=2.22&z=2016-01-01&g=2016-01-01) worden vernietigd.
+3. Geen invoerrechten zijn verschuldigd, indien goederen waarvoor aangifte is gedaan, maar waarvoor geen toestemming tot wegvoering is verleend, of voor een andere bestemming dan invoer zijn aangegeven, overeenkomstig [artikel 2.21](https://wetten.overheid.nl/jci1.3:c:BWBR0029236&hoofdstuk=II&titeldeel=2&afdeling=1&artikel=2.21&z=2017-01-01&g=2017-01-01) aan het Rijk worden afgestaan, of overeenkomstig [artikel 2.22](https://wetten.overheid.nl/jci1.3:c:BWBR0029236&hoofdstuk=II&titeldeel=2&afdeling=1&artikel=2.22&z=2017-01-01&g=2017-01-01) worden vernietigd.
 
 4. Er ontstaat geen douaneschuld indien goederen waarvoor invoerrechten zijn verschuldigd, in beslag worden genomen en verbeurd worden verklaard.
 
@@ -1141,7 +1141,7 @@ De inspecteur maakt van zijn bevoegdheden slechts gebruik voor zover dat redelij
 
 1. Indien de inspecteur vaststelt dat:
 
-- a. een douaneschuld, welke ingevolge [artikel 2.69](https://wetten.overheid.nl/jci1.3:c:BWBR0029236&hoofdstuk=II&titeldeel=4&afdeling=1&artikel=2.69&z=2016-01-01&g=2016-01-01) is ontstaan, ten onrechte niet of tot een te laag bedrag is vastgesteld;
+- a. een douaneschuld, welke ingevolge [artikel 2.69](https://wetten.overheid.nl/jci1.3:c:BWBR0029236&hoofdstuk=II&titeldeel=4&afdeling=1&artikel=2.69&z=2017-01-01&g=2017-01-01) is ontstaan, ten onrechte niet of tot een te laag bedrag is vastgesteld;
 
 - b. in deze wet voorziene creditering van een goederenrekening ten onrechte heeft plaatsgevonden; of
 
@@ -1149,7 +1149,7 @@ De inspecteur maakt van zijn bevoegdheden slechts gebruik voor zover dat redelij
 
 kan hij de grondslagen vaststellen waarnaar de berekening, de creditering of de teruggaaf had moeten plaatsvinden en de alsdan verschuldigde invoerrechten, kosten en bestuurlijke boeten bij beschikking navorderen.
 
-2. Het bedrag van de douaneschuld ingevolge de [artikelen 2.70 tot en met 2.73](https://wetten.overheid.nl/jci1.3:c:BWBR0029236&hoofdstuk=II&titeldeel=4&afdeling=1&artikel=2.70&z=2016-01-01&g=2016-01-01), wordt door de inspecteur berekend en vastgesteld zodra hij over de benodigde gegevens beschikt. Indien de inspecteur niet over de vereiste gegevens beschikt, wordt het bedrag bepaald door middel van schatting. De douaneschuld ingevolge voornoemde artikelen wordt bij beschikking nagevorderd.
+2. Het bedrag van de douaneschuld ingevolge de [artikelen 2.70 tot en met 2.73](https://wetten.overheid.nl/jci1.3:c:BWBR0029236&hoofdstuk=II&titeldeel=4&afdeling=1&artikel=2.70&z=2017-01-01&g=2017-01-01), wordt door de inspecteur berekend en vastgesteld zodra hij over de benodigde gegevens beschikt. Indien de inspecteur niet over de vereiste gegevens beschikt, wordt het bedrag bepaald door middel van schatting. De douaneschuld ingevolge voornoemde artikelen wordt bij beschikking nagevorderd.
 
 3. Navordering geschiedt uiterlijk binnen een termijn van vijf jaren te rekenen vanaf het tijdstip waarop de douaneschuld is ontstaan, de creditering van de goederenrekening heeft plaatsgevonden of teruggaaf is verleend. Indien de inspecteur evenwel ingevolge een strafrechtelijk vervolgbare handeling niet in staat was het juiste bedrag van de verschuldigde invoerrechten vast te stellen, kan navordering nog na het verstrijken van de genoemde termijn van vijf jaren worden gedaan.
 
@@ -1157,7 +1157,7 @@ kan hij de grondslagen vaststellen waarnaar de berekening, de creditering of de 
 
 ##### Artikel 2.77
 
-De bedragen aan invoerrechten, bedoeld in de [artikelen 2.75](https://wetten.overheid.nl/jci1.3:c:BWBR0029236&hoofdstuk=II&titeldeel=4&afdeling=1&artikel=2.75&z=2016-01-01&g=2016-01-01) en [2.76](https://wetten.overheid.nl/jci1.3:c:BWBR0029236&hoofdstuk=II&titeldeel=4&afdeling=1&artikel=2.76&z=2016-01-01&g=2016-01-01), worden vastgesteld op grond van de voor de betreffende goederen geldende grondslagen en maatstaf van heffing op het tijdstip waarop de desbetreffende douaneschuld is ontstaan.
+De bedragen aan invoerrechten, bedoeld in de [artikelen 2.75](https://wetten.overheid.nl/jci1.3:c:BWBR0029236&hoofdstuk=II&titeldeel=4&afdeling=1&artikel=2.75&z=2017-01-01&g=2017-01-01) en [2.76](https://wetten.overheid.nl/jci1.3:c:BWBR0029236&hoofdstuk=II&titeldeel=4&afdeling=1&artikel=2.76&z=2017-01-01&g=2017-01-01), worden vastgesteld op grond van de voor de betreffende goederen geldende grondslagen en maatstaf van heffing op het tijdstip waarop de desbetreffende douaneschuld is ontstaan.
 
 ### Afdeling 2. Inning en invordering
 
@@ -1165,9 +1165,9 @@ De bedragen aan invoerrechten, bedoeld in de [artikelen 2.75](https://wetten.ove
 
 1. De mededeling van het bedrag aan invoerrechten aan de schuldenaar geschiedt door het toezenden van een op een aanslagbiljet vermelde uitnodiging tot betaling. Het aanslagbiljet wordt voorzien van een dagtekening die geldt als dagtekening van de vaststelling van de uitnodiging tot betaling. De inspecteur stelt het aanslagbiljet ter invordering van het daaruit blijkende bedrag aan invoerrechten aan de ontvanger ter hand.
 
-2. Het eerste lid is van overeenkomstige toepassing met betrekking tot de door de inspecteur te nemen bij beschikking strekkende tot vaststelling van het bedrag van de:
+2. Het eerste lid is van overeenkomstige toepassing met betrekking tot de door de inspecteur te nemen beschikking strekkende tot vaststelling van het bedrag van de:
 
-- a. teruggaaf als bedoeld in [artikel 3.144](https://wetten.overheid.nl/jci1.3:c:BWBR0029236&hoofdstuk=III&titeldeel=4&afdeling=1&artikel=3.144&z=2016-01-01&g=2016-01-01);
+- a. teruggaaf als bedoeld in [artikel 3.144](https://wetten.overheid.nl/jci1.3:c:BWBR0029236&hoofdstuk=III&titeldeel=4&afdeling=1&artikel=3.144&z=2017-01-01&g=2017-01-01);
 
 - b. verschuldigde kosten;
 
@@ -1179,15 +1179,17 @@ De bedragen aan invoerrechten, bedoeld in de [artikelen 2.75](https://wetten.ove
 
 5. Het bedrag van de douaneschuld en bestuurlijke boete wordt door de schuldenaar voldaan bij de ontvanger:
 
-- a. ingeval van mededeling op de aangifte of mededeling als bedoeld bij [artikel 2.75, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029236&hoofdstuk=II&titeldeel=4&afdeling=1&artikel=2.75&z=2016-01-01&g=2016-01-01): uiterlijk de eerste werkdag nadat de mededeling is gedaan;
+- a. ingeval van mededeling op de aangifte of mededeling als bedoeld bij [artikel 2.75, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029236&hoofdstuk=II&titeldeel=4&afdeling=1&artikel=2.75&z=2017-01-01&g=2017-01-01): uiterlijk de eerste werkdag nadat de mededeling is gedaan;
 
 - b. ingeval van navordering: uiterlijk 10 dagen nadat de beschikking is uitgereikt bij aangetekende brief of tegen gedagtekend ontvangstbewijs;
 
-- c. ingeval van uitstel van betaling verleend door de ontvanger: uiterlijk binnen de daarbij gestelde termijn.
+- c. ingeval van uitstel van betaling verleend door de ontvanger: uiterlijk binnen de daarbij gestelde termijn;
+
+- d. ingeval een bestuurlijke boete bij afzonderlijke beschikking is opgelegd: uiterlijk 10 dagen nadat de beschikking is uitgereikt bij aangetekende brief of tegen gedagtekend ontvangstbewijs.
 
 6. Indien de douaneschuld en bestuurlijke boete niet binnen de in het vijfde lid gestelde termijn is betaald, kunnen de verschuldigde invoerrechten, kosten en bestuurlijke boete op een door de schuldenaar gestelde zekerheid worden verhaald.
 
-7. Een douaneschuld, ontstaan ingevolge [artikel 2.69](https://wetten.overheid.nl/jci1.3:c:BWBR0029236&hoofdstuk=II&titeldeel=4&afdeling=1&artikel=2.69&z=2016-01-01&g=2016-01-01), die niet binnen de termijn, bedoeld in het vijfde lid, onderdeel a, is betaald, wordt bij beschikking nagevorderd.
+7. Een douaneschuld, ontstaan ingevolge [artikel 2.69](https://wetten.overheid.nl/jci1.3:c:BWBR0029236&hoofdstuk=II&titeldeel=4&afdeling=1&artikel=2.69&z=2017-01-01&g=2017-01-01), die niet binnen de termijn, bedoeld in het vijfde lid, onderdeel a, is betaald, wordt bij beschikking nagevorderd.
 
 8. Het vijfde en zesde lid zijn niet van toepassing indien de douaneschuld minder dan USD 8 bedraagt.
 
@@ -1195,7 +1197,7 @@ De bedragen aan invoerrechten, bedoeld in de [artikelen 2.75](https://wetten.ove
 
 ##### Artikel 2.79
 
-1. In afwijking van [artikel 2.78, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029236&hoofdstuk=II&titeldeel=4&afdeling=2&artikel=2.78&z=2016-01-01&g=2016-01-01), kan de ontvanger op schriftelijk verzoek van de schuldenaar toestaan dat het over elke kalendermaand door hem verschuldigde bedrag aan invoerrechten binnen acht dagen na afloop van die maand wordt betaald.
+1. In afwijking van [artikel 2.78, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029236&hoofdstuk=II&titeldeel=4&afdeling=2&artikel=2.78&z=2017-01-01&g=2017-01-01), kan de ontvanger op schriftelijk verzoek van de schuldenaar toestaan dat het over elke kalendermaand door hem verschuldigde bedrag aan invoerrechten binnen acht dagen na afloop van die maand wordt betaald.
 
 2. De toestemming tot maandkrediet wordt bij vergunning verleend, indien de schuldenaar op de BES eilanden is gevestigd en nadat hij doorlopende zekerheid heeft gesteld.
 
@@ -1207,7 +1209,7 @@ Ter zake van de invordering van invoerrechten, bestuurlijke boeten, interest en 
 
 ##### Artikel 2.81
 
-De personen, die schuldenaren zijn ingevolge [artikel 2.69 tot en met 2.73](https://wetten.overheid.nl/jci1.3:c:BWBR0029236&hoofdstuk=II&titeldeel=4&afdeling=1&artikel=2.69&z=2016-01-01&g=2016-01-01), zijn hoofdelijk aansprakelijk voor de betaling van de kosten, interest, verschuldigde invoerrechten en bestuurlijke boeten.
+De personen, die schuldenaren zijn ingevolge [artikel 2.69 tot en met 2.73](https://wetten.overheid.nl/jci1.3:c:BWBR0029236&hoofdstuk=II&titeldeel=4&afdeling=1&artikel=2.69&z=2017-01-01&g=2017-01-01), zijn hoofdelijk aansprakelijk voor de betaling van de kosten, interest, verschuldigde invoerrechten en bestuurlijke boeten.
 
 ##### Artikel 2.82
 
@@ -1235,7 +1237,7 @@ De personen, die schuldenaren zijn ingevolge [artikel 2.69 tot en met 2.73](http
 
 3. Met een beschikking wordt gelijkgesteld een weigering om een beschikking te geven dan wel het niet tijdig geven van een beschikking.
 
-4. De toestemming gegeven door de ambtenaar, bedoeld in [artikel 2.66, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029236&hoofdstuk=II&titeldeel=3&afdeling=2&artikel=2.66&z=2016-01-01&g=2016-01-01), wordt aangemerkt als een beschikking genomen door de inspecteur. Het maken van bezwaar en het instellen van beroep heeft ten aanzien van de tenuitvoerlegging van de aangevochten beschikking geen schorsende werking.
+4. De toestemming gegeven door de ambtenaar, bedoeld in [artikel 2.66, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029236&hoofdstuk=II&titeldeel=3&afdeling=2&artikel=2.66&z=2017-01-01&g=2017-01-01), wordt aangemerkt als een beschikking genomen door de inspecteur. Het maken van bezwaar en het instellen van beroep heeft ten aanzien van de tenuitvoerlegging van de aangevochten beschikking geen schorsende werking.
 
 ##### Artikel 2.85
 
@@ -1263,23 +1265,25 @@ kan binnen twee maanden na de mededeling van het vastgestelde bedrag van de doua
 
 3. De inspecteur dan wel de ontvanger tekent onverwijld de datum van ontvangst aan op het bezwaarschrift en zendt de aanvrager onverwijld een bewijs van ontvangst, waarin die datum is vermeld.
 
-4. Op het bezwaarschrift wordt binnen negen maanden uitspraak gedaan door de inspecteur dan wel de ontvanger. Indien de uitspraak nadelig is voor de betrokken persoon, wordt dit met redenen omkleed.
+4. Indien de belanghebbende in zijn bezwaarschrift het verlangen daartoe te kennen geeft, wordt hij vóór de uitspraak door de inspecteur gehoord. Alle oproepingen worden gedaan op een termijn van ten minste zeven dagen.
 
-5. Met een uitspraak wordt gelijkgesteld het weigeren dan wel niet tijdig doen van de uitspraak.
+5. Op het bezwaarschrift wordt binnen negen maanden uitspraak gedaan door de inspecteur dan wel de ontvanger. Indien de uitspraak nadelig is voor de betrokken persoon, wordt dit met redenen omkleed.
 
-6. Indien het bezwaarschrift is gericht tegen een krachtens [artikel 2.76](https://wetten.overheid.nl/jci1.3:c:BWBR0029236&hoofdstuk=II&titeldeel=4&afdeling=1&artikel=2.76&z=2016-01-01&g=2016-01-01) opgelegde navordering met betrekking tot welke niet of niet volledig is voldaan aan de verplichtingen ingevolge de [artikelen 2.52](https://wetten.overheid.nl/jci1.3:c:BWBR0029236&hoofdstuk=II&titeldeel=3&afdeling=1&artikel=2.52&z=2016-01-01&g=2016-01-01), [2.53](https://wetten.overheid.nl/jci1.3:c:BWBR0029236&hoofdstuk=II&titeldeel=3&afdeling=1&artikel=2.53&z=2016-01-01&g=2016-01-01) en [2.62](https://wetten.overheid.nl/jci1.3:c:BWBR0029236&hoofdstuk=II&titeldeel=3&afdeling=2&artikel=2.62&z=2016-01-01&g=2016-01-01), dan wordt de navordering gehandhaafd, tenzij gebleken is dat deze onjuist is.
+6. Met een uitspraak wordt gelijkgesteld het weigeren dan wel niet tijdig doen van de uitspraak.
 
-7. De uitspraak is met redenen omkleed indien aan het bezwaar niet of niet ten volle wordt tegemoetgekomen.
+7. Indien het bezwaarschrift is gericht tegen een krachtens [artikel 2.76](https://wetten.overheid.nl/jci1.3:c:BWBR0029236&hoofdstuk=II&titeldeel=4&afdeling=1&artikel=2.76&z=2017-01-01&g=2017-01-01) opgelegde navordering met betrekking tot welke niet of niet volledig is voldaan aan de verplichtingen ingevolge de [artikelen 2.52](https://wetten.overheid.nl/jci1.3:c:BWBR0029236&hoofdstuk=II&titeldeel=3&afdeling=1&artikel=2.52&z=2017-01-01&g=2017-01-01), [2.53](https://wetten.overheid.nl/jci1.3:c:BWBR0029236&hoofdstuk=II&titeldeel=3&afdeling=1&artikel=2.53&z=2017-01-01&g=2017-01-01) en [2.62](https://wetten.overheid.nl/jci1.3:c:BWBR0029236&hoofdstuk=II&titeldeel=3&afdeling=2&artikel=2.62&z=2017-01-01&g=2017-01-01), dan wordt de navordering gehandhaafd, tenzij gebleken is dat deze onjuist is.
 
-8. Indien de inspecteur of de ontvanger niet bevoegd is kennis te nemen van het bezwaarschrift doch een andere instantie wel, dan bevat de uitspraak een verwijzing naar die instantie.
+8. De uitspraak is met redenen omkleed indien aan het bezwaar niet of niet ten volle wordt tegemoetgekomen.
 
-9. De inspecteur of de ontvanger reikt zo spoedig mogelijk een afschrift van de uitspraak uit aan degene die bezwaar heeft gemaakt. Aan de uitspraak wordt zo spoedig mogelijk uitvoering gegeven.
+9. Indien de inspecteur of de ontvanger niet bevoegd is kennis te nemen van het bezwaarschrift doch een andere instantie wel, dan bevat de uitspraak een verwijzing naar die instantie.
 
-10. Op de vergoeding van kosten aan de schuldenaar in verband met de behandeling van zijn bezwaar, is artikel 8.95 van de Belastingwet BES van overeenkomstige toepassing.
+10. De inspecteur of de ontvanger reikt zo spoedig mogelijk een afschrift van de uitspraak uit aan degene die bezwaar heeft gemaakt. Aan de uitspraak wordt zo spoedig mogelijk uitvoering gegeven.
+
+11. Op de vergoeding van kosten aan de schuldenaar in verband met de behandeling van zijn bezwaar, is artikel 8.95 van de Belastingwet BES van overeenkomstige toepassing.
 
 ##### Artikel 2.87
 
-1. Tegen de uitspraak op bezwaar van de inspecteur of de ontvanger staat binnen twee maanden na de dagtekening van de uitspraak onderscheidenlijk het verstrijken van de termijn, bedoeld in [artikel 2.86, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029236&hoofdstuk=II&titeldeel=5&artikel=2.86&z=2016-01-01&g=2016-01-01), beroep open bij het Gerecht in eerste aanleg.
+1. Tegen de uitspraak op bezwaar van de inspecteur of de ontvanger staat binnen twee maanden na de dagtekening van de uitspraak onderscheidenlijk het verstrijken van de termijn, bedoeld in [artikel 2.86, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029236&hoofdstuk=II&titeldeel=5&artikel=2.86&z=2017-01-01&g=2017-01-01), beroep open bij het Gerecht in eerste aanleg.
 
 2. Bij het instellen van beroep bij het Gerecht in eerste aanleg zijn de bepalingen van [hoofdstuk VIII, titel 8, afdeling 3, van de Belastingwet BES](https://wetten.overheid.nl/jci1.3:c:BWBR0029244&afdeling=3) van overeenkomstige toepassing.
 
@@ -1311,15 +1315,15 @@ kan binnen twee maanden na de mededeling van het vastgestelde bedrag van de doua
 
 ##### Artikel 2.90
 
-1. In afwijking van het bepaalde in [artikel 2.88](https://wetten.overheid.nl/jci1.3:c:BWBR0029236&hoofdstuk=II&titeldeel=6&artikel=2.88&z=2016-01-01&g=2016-01-01) kan zekerheidstelling achterwege blijven, in gevallen waarin het bedrag van de eventueel verschuldigde invoerrechten lager is dan USD 56.
+1. In afwijking van het bepaalde in [artikel 2.88](https://wetten.overheid.nl/jci1.3:c:BWBR0029236&hoofdstuk=II&titeldeel=6&artikel=2.88&z=2017-01-01&g=2017-01-01) kan zekerheidstelling achterwege blijven, in gevallen waarin het bedrag van de eventueel verschuldigde invoerrechten lager is dan USD 56.
 
 2. Bij regeling van Onze Minister van Financiën kunnen instanties of organen worden aangewezen die ontheven zijn van de verplichting tot zekerheidstelling.
 
 ##### Artikel 2.91
 
-1. Bij beschikking gegeven op schriftelijk verzoek van de schuldenaar of persoon, bedoeld in [artikel 2.88, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029236&hoofdstuk=II&titeldeel=6&artikel=2.88&z=2016-01-01&g=2016-01-01), kan de inspecteur beslissen dat ter dekking van verscheidene transacties, die tot het ontstaan van verschillende douaneschulden aanleiding geven of kunnen geven, een doorlopende zekerheid wordt gesteld.
+1. Bij beschikking gegeven op schriftelijk verzoek van de schuldenaar of persoon, bedoeld in [artikel 2.88, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029236&hoofdstuk=II&titeldeel=6&artikel=2.88&z=2017-01-01&g=2017-01-01), kan de inspecteur beslissen dat ter dekking van verscheidene transacties, die tot het ontstaan van verschillende douaneschulden aanleiding geven of kunnen geven, een doorlopende zekerheid wordt gesteld.
 
-2. Het bedrag van een doorlopende zekerheid wordt, met inachtneming van [artikel 2.89, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029236&hoofdstuk=II&titeldeel=6&artikel=2.89&z=2016-01-01&g=2016-01-01), zodanig vastgesteld dat de bedragen aan invoerrechten, die door de schuldenaar verschuldigd kunnen worden, daarmee kunnen worden voldaan.
+2. Het bedrag van een doorlopende zekerheid wordt, met inachtneming van [artikel 2.89, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029236&hoofdstuk=II&titeldeel=6&artikel=2.89&z=2017-01-01&g=2017-01-01), zodanig vastgesteld dat de bedragen aan invoerrechten, die door de schuldenaar verschuldigd kunnen worden, daarmee kunnen worden voldaan.
 
 3. De beslissing, bedoeld in het eerste lid, kan tevens inhouden dat de doorlopende zekerheid bij meer dan één douanekantoor kan worden gebruikt.
 
@@ -1333,7 +1337,7 @@ kan binnen twee maanden na de mededeling van het vastgestelde bedrag van de doua
 
 - b. een borgstelling; of
 
-- c. een andere vorm van zekerheidstelling als bedoeld in [artikel 2.95](https://wetten.overheid.nl/jci1.3:c:BWBR0029236&hoofdstuk=II&titeldeel=6&artikel=2.95&z=2016-01-01&g=2016-01-01), mits aan de daarbij gestelde voorwaarden wordt voldaan.
+- c. een andere vorm van zekerheidstelling als bedoeld in [artikel 2.95](https://wetten.overheid.nl/jci1.3:c:BWBR0029236&hoofdstuk=II&titeldeel=6&artikel=2.95&z=2017-01-01&g=2017-01-01), mits aan de daarbij gestelde voorwaarden wordt voldaan.
 
 2. De kosten van zekerheidstelling komen ten laste van de persoon die zekerheid stelt.
 
@@ -1365,11 +1369,11 @@ De inspecteur kan ten behoeve van een doorlopende zekerheid aanvaarden:
 
 ##### Artikel 2.96
 
-Indien de inspecteur vaststelt dat de gestelde zekerheid niet of niet meer voldoende waarborgen biedt dat de douaneschuld binnen de gestelde termijnen in haar geheel zal worden voldaan, dan wordt aan de schuldenaar of persoon, bedoeld in [artikel 2.88, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029236&hoofdstuk=II&titeldeel=6&artikel=2.88&z=2016-01-01&g=2016-01-01), schriftelijk medegedeeld dat deze naar eigen keuze, doch binnen een door de inspecteur te stellen termijn, hetzij een aanvullende zekerheid dient te stellen, hetzij de oorspronkelijke zekerheid door een nieuwe dient te vervangen.
+Indien de inspecteur vaststelt dat de gestelde zekerheid niet of niet meer voldoende waarborgen biedt dat de douaneschuld binnen de gestelde termijnen in haar geheel zal worden voldaan, dan wordt aan de schuldenaar of persoon, bedoeld in [artikel 2.88, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029236&hoofdstuk=II&titeldeel=6&artikel=2.88&z=2017-01-01&g=2017-01-01), schriftelijk medegedeeld dat deze naar eigen keuze, doch binnen een door de inspecteur te stellen termijn, hetzij een aanvullende zekerheid dient te stellen, hetzij de oorspronkelijke zekerheid door een nieuwe dient te vervangen.
 
 ##### Artikel 2.97
 
-1. De gestelde zekerheid wordt vrijgegeven, zodra de douaneschuld is tenietgegaan of geacht wordt niet te zijn ontstaan overeenkomstig [artikel 2.74](https://wetten.overheid.nl/jci1.3:c:BWBR0029236&hoofdstuk=II&titeldeel=4&afdeling=1&artikel=2.74&z=2016-01-01&g=2016-01-01), dan wel niet meer kan ontstaan.
+1. De gestelde zekerheid wordt vrijgegeven, zodra de douaneschuld is tenietgegaan of geacht wordt niet te zijn ontstaan overeenkomstig [artikel 2.74](https://wetten.overheid.nl/jci1.3:c:BWBR0029236&hoofdstuk=II&titeldeel=4&afdeling=1&artikel=2.74&z=2017-01-01&g=2017-01-01), dan wel niet meer kan ontstaan.
 
 2. Indien de douaneschuld ten dele is tenietgegaan of voor een gedeelte van het bedrag waarvoor zekerheid werd gesteld, niet meer kan ontstaan, wordt de gestelde zekerheid op verzoek van de belanghebbende dienovereenkomstig gedeeltelijk vrijgegeven, tenzij het betrokken bedrag dit niet rechtvaardigt.
 
@@ -1387,13 +1391,13 @@ Bij of krachtens algemene maatregel van bestuur wordt met inachtneming van de be
 
 1. Douane-entrepots kunnen zijn bestemd voor gebruik door eenieder of voor gebruik door een beheerder. Zij zijn ambtelijk gesloten, tenzij door de inspecteur in het geval van een douane-entrepot voor gebruik door een beheerder, wordt goedgekeurd dat onder de nodige waarborgen wordt afgezien van ambtelijke sluiting. Tot de bedoelde waarborgen behoort in elk geval dat zekerheid wordt gesteld voor de invoerrechten die verschuldigd kunnen worden.
 
-2. Accijnsgoederen mogen slechts in een douane-entrepot worden opgeslagen, indien deze bij of krachtens [hoofdstuk IV](https://wetten.overheid.nl/jci1.3:c:BWBR0029236&hoofdstuk=IV&z=2016-01-01&g=2016-01-01) voor zodanige opslag vatbaar zijn verklaard.
+2. Accijnsgoederen mogen slechts in een douane-entrepot worden opgeslagen, indien deze bij of krachtens [hoofdstuk IV](https://wetten.overheid.nl/jci1.3:c:BWBR0029236&hoofdstuk=IV&z=2017-01-01&g=2017-01-01) voor zodanige opslag vatbaar zijn verklaard.
 
 ##### Artikel 2.101
 
 1. Voor het beheer van een douane-entrepot is een vergunning van de inspecteur vereist.
 
-2. De persoon die een douane-entrepot wenst te beheren, dient daartoe een schriftelijk verzoek in bij de inspecteur. Het verzoek bevat alle gegevens en informatie die nodig zijn voor een toetsing van het verzoek aan deze titel, aan de bij of krachtens [artikel 2.99](https://wetten.overheid.nl/jci1.3:c:BWBR0029236&hoofdstuk=II&titeldeel=7&artikel=2.99&z=2016-01-01&g=2016-01-01) bedoelde algemene maatregel van bestuur, alsmede gegevens waaruit blijkt dat er een economische behoefte bestaat aan de opslag in douane-entrepot zoals verzocht. De vergunning wordt slechts afgegeven aan op de BES eilanden gevestigde personen.
+2. De persoon die een douane-entrepot wenst te beheren, dient daartoe een schriftelijk verzoek in bij de inspecteur. Het verzoek bevat alle gegevens en informatie die nodig zijn voor een toetsing van het verzoek aan deze titel, aan de bij of krachtens [artikel 2.99](https://wetten.overheid.nl/jci1.3:c:BWBR0029236&hoofdstuk=II&titeldeel=7&artikel=2.99&z=2017-01-01&g=2017-01-01) bedoelde algemene maatregel van bestuur, alsmede gegevens waaruit blijkt dat er een economische behoefte bestaat aan de opslag in douane-entrepot zoals verzocht. De vergunning wordt slechts afgegeven aan op de BES eilanden gevestigde personen.
 
 3. De inspecteur geeft een vergunning tot het beheren van een douane-entrepot slechts af indien hij het toezicht en de controle daarop ongehinderd kan uitoefenen en zonder administratieve maatregelen te moeten nemen die niet in verhouding staan tot de economische behoeften.
 
@@ -1403,7 +1407,7 @@ Bij of krachtens algemene maatregel van bestuur wordt met inachtneming van de be
 
 ##### Artikel 2.102
 
-1. Een douane-entrepot wordt niet in gebruik genomen alvorens de ligging, de afscheiding van andere percelen en de bouw daarvan zijn goedgekeurd door de inspecteur. Alle plaatsen die door de inspecteur zijn goedgekeurd als ruimten voor tijdelijke opslag als bedoeld in [artikel 2.12](https://wetten.overheid.nl/jci1.3:c:BWBR0029236&hoofdstuk=II&titeldeel=2&afdeling=1&artikel=2.12&z=2016-01-01&g=2016-01-01) kunnen ook als douane-entrepot worden goedgekeurd.
+1. Een douane-entrepot wordt niet in gebruik genomen alvorens de ligging, de afscheiding van andere percelen en de bouw daarvan zijn goedgekeurd door de inspecteur. Alle plaatsen die door de inspecteur zijn goedgekeurd als ruimten voor tijdelijke opslag als bedoeld in [artikel 2.12](https://wetten.overheid.nl/jci1.3:c:BWBR0029236&hoofdstuk=II&titeldeel=2&afdeling=1&artikel=2.12&z=2017-01-01&g=2017-01-01) kunnen ook als douane-entrepot worden goedgekeurd.
 
 2. De in- en uitslag van goederen binnen de daarvoor vastgestelde openingstijden, geschiedt onder toezicht van de inspecteur en wordt door deze vastgelegd in een goederenrekening met degene die verantwoordelijk is voor de nakoming van de verplichtingen die voortvloeien uit de plaatsing van goederen onder het entrepotstelsel.
 
@@ -1413,7 +1417,7 @@ Bij of krachtens algemene maatregel van bestuur wordt met inachtneming van de be
 
 ##### Artikel 2.103
 
-1. In een vergunning als bedoeld in [artikel 2.101](https://wetten.overheid.nl/jci1.3:c:BWBR0029236&hoofdstuk=II&titeldeel=7&artikel=2.101&z=2016-01-01&g=2016-01-01) wordt bepaald voor welke soort goederen de opslag in douane-entrepot wordt goedgekeurd.
+1. In een vergunning als bedoeld in [artikel 2.101](https://wetten.overheid.nl/jci1.3:c:BWBR0029236&hoofdstuk=II&titeldeel=7&artikel=2.101&z=2017-01-01&g=2017-01-01) wordt bepaald voor welke soort goederen de opslag in douane-entrepot wordt goedgekeurd.
 
 2. De inspecteur kan, onder de nodige voorzieningen tegen misbruik en voor zover voldoende ruimte in het douane-entrepot aanwezig wordt geacht, toestaan dat goederen van een andere dan de soort, bedoeld in het eerste lid, worden opgeslagen in het douane-entrepot.
 
@@ -1421,7 +1425,7 @@ Bij of krachtens algemene maatregel van bestuur wordt met inachtneming van de be
 
 1. Goederen die zijn opgeslagen in douane-entrepot, blijven in de staat waarin zij zijn aangebracht. Op schriftelijk verzoek van de beheerder van het douane-entrepot en met toestemming van de inspecteur kunnen de goederen behandelingen ondergaan ter verzekering van hun bewaring in goede staat dan wel ter verbetering van hun presentatie of hun handelskwaliteit dan wel ter voorbereiding op de distributie of wederverkoop.
 
-2. Het eerste lid is niet van toepassing op accijnsgoederen, indien in [hoofdstuk IV](https://wetten.overheid.nl/jci1.3:c:BWBR0029236&hoofdstuk=IV&z=2016-01-01&g=2016-01-01) zulks is bepaald.
+2. Het eerste lid is niet van toepassing op accijnsgoederen, indien in [hoofdstuk IV](https://wetten.overheid.nl/jci1.3:c:BWBR0029236&hoofdstuk=IV&z=2017-01-01&g=2017-01-01) zulks is bepaald.
 
 ##### Artikel 2.105
 
@@ -1455,7 +1459,7 @@ Indien voor goederen de formaliteiten met betrekking tot het binnenbrengen, aanb
 
 ##### Artikel 2.108
 
-Indien voor goederen in tijdelijke opslag de formaliteiten welke nodig zijn om aan deze goederen een douanebestemming te geven niet worden vervuld binnen de termijn, genoemd in [artikel 2.12, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029236&hoofdstuk=II&titeldeel=2&afdeling=1&artikel=2.12&z=2016-01-01&g=2016-01-01), vormt dit een verzuim ter zake waarvan de inspecteur degene die deze formaliteiten dient te vervullen en degene door wiens toedoen de formaliteiten niet binnen deze termijn worden vervuld, ieder een boete van ten hoogste USD 140 kan opleggen.
+Indien voor goederen in tijdelijke opslag de formaliteiten welke nodig zijn om aan deze goederen een douanebestemming te geven niet worden vervuld binnen de termijn, genoemd in [artikel 2.12, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029236&hoofdstuk=II&titeldeel=2&afdeling=1&artikel=2.12&z=2017-01-01&g=2017-01-01), vormt dit een verzuim ter zake waarvan de inspecteur degene die deze formaliteiten dient te vervullen en degene door wiens toedoen de formaliteiten niet binnen deze termijn worden vervuld, ieder een boete van ten hoogste USD 140 kan opleggen.
 
 ##### Artikel 2.109
 
@@ -1479,7 +1483,7 @@ Indien voor uitgaande goederen de formaliteiten met betrekking tot het uitgaan v
 
 1. Indien voor aan invoerrechten onderworpen goederen een onjuiste aangifte wordt gedaan, ten gevolge waarvan geen of minder invoerrechten zou worden betaald, vormt dit een verzuim ter zake waarvan de inspecteur de schuldenaar een boete van ten hoogste 25 percent van het bedrag van de verschuldigde dan wel meerverschuldigde invoerrechten kan opleggen, met dien verstande dat bij herhaling van de handeling dit percentage telkenmale met 25 percent wordt verhoogd tot ten hoogste 100 percent.
 
-2. Indien een handelen of nalaten tot een douaneschuld heeft geleid die ingevolge [artikel 2.76](https://wetten.overheid.nl/jci1.3:c:BWBR0029236&hoofdstuk=II&titeldeel=4&afdeling=1&artikel=2.76&z=2016-01-01&g=2016-01-01) dan wel [artikel 2.78, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029236&hoofdstuk=II&titeldeel=4&afdeling=2&artikel=2.78&z=2016-01-01&g=2016-01-01), wordt nagevorderd, terwijl de schuldenaar ter zake verwijtbaar is, vormt dit een verzuim ter zake waarvan de inspecteur hem een boete van ten hoogste 100 percent van het bedrag van de douaneschuld, met een maximum van USD 5 600 kan opleggen.
+2. Indien een handelen of nalaten tot een douaneschuld heeft geleid die ingevolge [artikel 2.76](https://wetten.overheid.nl/jci1.3:c:BWBR0029236&hoofdstuk=II&titeldeel=4&afdeling=1&artikel=2.76&z=2017-01-01&g=2017-01-01) dan wel [artikel 2.78, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029236&hoofdstuk=II&titeldeel=4&afdeling=2&artikel=2.78&z=2017-01-01&g=2017-01-01), wordt nagevorderd, terwijl de schuldenaar ter zake verwijtbaar is, vormt dit een verzuim ter zake waarvan de inspecteur hem een boete van ten hoogste 100 percent van het bedrag van de douaneschuld, met een maximum van USD 5 600 kan opleggen.
 
 3. Indien het ontstaan van de douaneschuld als bedoeld in het tweede lid te wijten is aan opzet of grove schuld van de schuldenaar, vormt dit een vergrijp ter zake waarvan de inspecteur hem een boete van ten hoogste 200 percent van het bedrag van de douaneschuld, doch ten minste USD 140 kan opleggen.
 
@@ -1499,9 +1503,9 @@ Indien niet, niet tijdig of niet behoorlijk wordt voldaan aan een ingevolge deze
 
 - d. aan een belanghebbende tot het verstrekken van inlichtingen, het verlenen van bijstand of medewerking en het overbrengen van goederen ten behoeve van visitatie;
 
-- e. tot het ervoor zorg dragen dat een aangebrachte identificatiemaatregel in stand blijft als bedoeld in [artikel 2.55, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029236&hoofdstuk=II&titeldeel=3&afdeling=1&artikel=2.55&z=2016-01-01&g=2016-01-01); of
+- e. tot het ervoor zorg dragen dat een aangebrachte identificatiemaatregel in stand blijft als bedoeld in [artikel 2.55, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029236&hoofdstuk=II&titeldeel=3&afdeling=1&artikel=2.55&z=2017-01-01&g=2017-01-01); of
 
-- f. tot het kosteloos ter beschikking stellen van werklieden, hulpmiddelen en bijstand als bedoeld in [artikel 2.54, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029236&hoofdstuk=II&titeldeel=3&afdeling=1&artikel=2.54&z=2016-01-01&g=2016-01-01);
+- f. tot het kosteloos ter beschikking stellen van werklieden, hulpmiddelen en bijstand als bedoeld in [artikel 2.54, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029236&hoofdstuk=II&titeldeel=3&afdeling=1&artikel=2.54&z=2017-01-01&g=2017-01-01);
 
 vormt dit een verzuim ter zake waarvan de inspecteur degene die gehouden is deze voorwaarde, bepaling of opgelegde verplichting te vervullen een boete van ten hoogste USD 140 kan opleggen. Indien de betrokkene opzet of grove schuld kan worden verweten, vormt dit een vergrijp ter zake waarvan de inspecteur aan hem een boete kan opleggen van ten hoogste USD 2 800.
 
@@ -1535,7 +1539,7 @@ Indien de grondslag voor een bestuurlijke boete wordt gevormd door het bedrag aa
 
 3. Indien een bestuurlijke boete op het tijdstip van het overlijden van degene aan wie het verzuim of het vergrijp te wijten is onherroepelijk vaststaat, maar nog niet of niet volledig is betaald, verlaagt de inspecteur op verzoek van een belanghebbende of uit eigen beweging de boete tot het op het tijdstip betaalde bedrag bij beschikking.
 
-4. Het verzoek, bedoeld in het derde, onderscheidenlijk vierde lid, wordt ingediend binnen vijf jaren nadat degene aan wie het verzuim of het vergrijp te wijten is, is overleden.
+4. Het verzoek, bedoeld in het tweede, onderscheidenlijk derde lid, wordt ingediend binnen vijf jaren nadat degene aan wie het verzuim of het vergrijp te wijten is, is overleden.
 
 ##### Artikel 2.120
 
@@ -1557,7 +1561,7 @@ De inspecteur stelt degene aan wie het verzuim of het vergrijp te wijten is op d
 
 ##### Artikel 2.123
 
-De bevoegdheid tot het opleggen van een bestuurlijke boete vervalt indien ter zake van het feit op grond waarvan de boete kan worden opgelegd, tegen degene die haar heeft belopen een strafvervolging is ingesteld en het onderzoek op de zitting van het Gerecht in eerste aanleg is aangevangen, dan wel het recht tot strafvervolging is vervallen ingevolge [artikel 2.147](https://wetten.overheid.nl/jci1.3:c:BWBR0029236&hoofdstuk=II&titeldeel=8&afdeling=5&artikel=2.147&z=2016-01-01&g=2016-01-01) van deze wet.
+De bevoegdheid tot het opleggen van een bestuurlijke boete vervalt indien ter zake van het feit op grond waarvan de boete kan worden opgelegd, tegen degene die haar heeft belopen een strafvervolging is ingesteld en het onderzoek op de zitting van het Gerecht in eerste aanleg is aangevangen, dan wel het recht tot strafvervolging is vervallen ingevolge [artikel 2.147](https://wetten.overheid.nl/jci1.3:c:BWBR0029236&hoofdstuk=II&titeldeel=8&afdeling=5&artikel=2.147&z=2017-01-01&g=2017-01-01) van deze wet.
 
 ##### Artikel 2.124
 
@@ -1577,7 +1581,7 @@ Van de bij beschikking opgelegde bestuurlijke boete kan door of vanwege Onze Min
 
 ##### Artikel 2.127
 
-1. Degene die in strijd met [artikel 2.18](https://wetten.overheid.nl/jci1.3:c:BWBR0029236&hoofdstuk=II&titeldeel=2&afdeling=1&artikel=2.18&z=2016-01-01&g=2016-01-01) goederen naar een plaats buiten één van de BES eilanden brengt, wordt gestraft hetzij met hechtenis van ten hoogste een jaar of een geldboete van de vijfde categorie.
+1. Degene die in strijd met [artikel 2.18](https://wetten.overheid.nl/jci1.3:c:BWBR0029236&hoofdstuk=II&titeldeel=2&afdeling=1&artikel=2.18&z=2017-01-01&g=2017-01-01) goederen naar een plaats buiten één van de BES eilanden brengt, wordt gestraft hetzij met hechtenis van ten hoogste een jaar of een geldboete van de vijfde categorie.
 
 2. Degene die een in het eerste lid genoemd feit opzettelijk begaat wordt gestraft hetzij met gevangenisstraf van ten hoogste vier jaren of geldboete van de vijfde categorie.
 
@@ -1619,7 +1623,7 @@ Van de bij beschikking opgelegde bestuurlijke boete kan door of vanwege Onze Min
 
 ##### Artikel 2.133
 
-1. Degene die de in de [artikelen 3.31](https://wetten.overheid.nl/jci1.3:c:BWBR0029236&hoofdstuk=III&titeldeel=3&afdeling=2&artikel=3.31&z=2016-01-01&g=2016-01-01) en [3.148](https://wetten.overheid.nl/jci1.3:c:BWBR0029236&hoofdstuk=III&titeldeel=4&afdeling=1&artikel=3.148&z=2016-01-01&g=2016-01-01) opgenomen verbodsbepalingen overtreedt, wordt gestraft hetzij met gevangenisstraf van ten hoogste een jaar of geldboete van de vijfde categorie of, indien de te weinig geheven invoerrechten dan wel de teruggegeven invoerrechten hoger zijn dan dit bedrag, ten hoogste eenmaal het bedrag van de te weinig geheven of teveel teruggegeven invoerrechten, hetzij met beide voormelde straffen.
+1. Degene die de in de [artikelen 3.31](https://wetten.overheid.nl/jci1.3:c:BWBR0029236&hoofdstuk=III&titeldeel=3&afdeling=2&artikel=3.31&z=2017-01-01&g=2017-01-01) en [3.148](https://wetten.overheid.nl/jci1.3:c:BWBR0029236&hoofdstuk=III&titeldeel=4&afdeling=1&artikel=3.148&z=2017-01-01&g=2017-01-01) opgenomen verbodsbepalingen overtreedt, wordt gestraft hetzij met gevangenisstraf van ten hoogste een jaar of geldboete van de vijfde categorie of, indien de te weinig geheven invoerrechten dan wel de teruggegeven invoerrechten hoger zijn dan dit bedrag, ten hoogste eenmaal het bedrag van de te weinig geheven of teveel teruggegeven invoerrechten, hetzij met beide voormelde straffen.
 
 2. Degene die het in het eerste lid omschreven feit opzettelijk begaat wordt gestraft hetzij met gevangenisstraf van ten hoogste vier jaar of geldboete van de vijfde categorie of, indien de te weinig geheven invoerrechten dan wel de teruggegeven invoerrechten hoger zijn dan dit bedrag, ten hoogste tweemaal het bedrag van de te weinig geheven of teveel teruggegeven invoerrechten, hetzij met beide voormelde straffen.
 
@@ -1639,7 +1643,7 @@ Van de bij beschikking opgelegde bestuurlijke boete kan door of vanwege Onze Min
 
 wordt gestraft hetzij met hechtenis van ten hoogste een jaar of geldboete van de vijfde categorie, hetzij met beide voormelde straffen.
 
-2. Met dezelfde straf wordt gestraft degene die handelingen verricht zonder de daarvoor vereiste toestemming van de inspecteur, bedoeld in de [artikelen 2.11](https://wetten.overheid.nl/jci1.3:c:BWBR0029236&hoofdstuk=II&titeldeel=2&afdeling=1&artikel=2.11&z=2016-01-01&g=2016-01-01), [2.12](https://wetten.overheid.nl/jci1.3:c:BWBR0029236&hoofdstuk=II&titeldeel=2&afdeling=1&artikel=2.12&z=2016-01-01&g=2016-01-01), [2.15](https://wetten.overheid.nl/jci1.3:c:BWBR0029236&hoofdstuk=II&titeldeel=2&afdeling=1&artikel=2.15&z=2016-01-01&g=2016-01-01), [2.18, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029236&hoofdstuk=II&titeldeel=2&afdeling=1&artikel=2.18&z=2016-01-01&g=2016-01-01) en [artikel 2.104, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029236&hoofdstuk=II&titeldeel=7&artikel=2.104&z=2016-01-01&g=2016-01-01).
+2. Met dezelfde straf wordt gestraft degene die handelingen verricht zonder de daarvoor vereiste toestemming van de inspecteur, bedoeld in de [artikelen 2.11](https://wetten.overheid.nl/jci1.3:c:BWBR0029236&hoofdstuk=II&titeldeel=2&afdeling=1&artikel=2.11&z=2017-01-01&g=2017-01-01), [2.12](https://wetten.overheid.nl/jci1.3:c:BWBR0029236&hoofdstuk=II&titeldeel=2&afdeling=1&artikel=2.12&z=2017-01-01&g=2017-01-01), [2.15](https://wetten.overheid.nl/jci1.3:c:BWBR0029236&hoofdstuk=II&titeldeel=2&afdeling=1&artikel=2.15&z=2017-01-01&g=2017-01-01), [2.18, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029236&hoofdstuk=II&titeldeel=2&afdeling=1&artikel=2.18&z=2017-01-01&g=2017-01-01) en [artikel 2.104, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029236&hoofdstuk=II&titeldeel=7&artikel=2.104&z=2017-01-01&g=2017-01-01).
 
 3. Degene die de in het eerste of tweede lid omschreven feiten opzettelijk begaat wordt gestraft hetzij met gevangenisstraf van ten hoogste vier jaren of geldboete van de vijfde categorie, hetzij met beide voormelde straffen.
 
@@ -1649,15 +1653,15 @@ wordt gestraft hetzij met hechtenis van ten hoogste een jaar of geldboete van de
 
 2. Overtreding van krachtens dit hoofdstuk bij regeling van Onze Minister wie het aangaat vastgestelde bepalingen, wordt voor zover die overtreding is aangemerkt als strafbaar feit, gestraft met geldboete van de derde categorie.
 
-3. In afwijking van het eerste lid wordt overtreding van krachtens [artikel 2.26](https://wetten.overheid.nl/jci1.3:c:BWBR0029236&hoofdstuk=II&titeldeel=2&afdeling=1&artikel=2.26&z=2016-01-01&g=2016-01-01) vastgestelde bepalingen, voor zover die overtreding is aangemerkt als strafbaar feit en betrekking heeft op goederen die ingevolge regelingen van internationaal of nationaal recht worden aangemerkt als strategische goederen, gestraft met een gevangenisstraf van ten hoogste zes jaar of een geldboete van de vijfde categorie.
+3. In afwijking van het eerste lid wordt overtreding van krachtens [artikel 2.26](https://wetten.overheid.nl/jci1.3:c:BWBR0029236&hoofdstuk=II&titeldeel=2&afdeling=1&artikel=2.26&z=2017-01-01&g=2017-01-01) vastgestelde bepalingen, voor zover die overtreding is aangemerkt als strafbaar feit en betrekking heeft op goederen die ingevolge regelingen van internationaal of nationaal recht worden aangemerkt als strategische goederen, gestraft met een gevangenisstraf van ten hoogste zes jaar of een geldboete van de vijfde categorie.
 
 ##### Artikel 2.136
 
-De bedragen, bedoeld in de [artikelen 2.126 tot en met 2.135](https://wetten.overheid.nl/jci1.3:c:BWBR0029236&hoofdstuk=II&titeldeel=8&afdeling=3&artikel=2.126&z=2016-01-01&g=2016-01-01) ten aanzien van geldboetes, worden verhoogd met eenmaal het bedrag van die boete indien het bepaalde in die artikelen betrekking heeft op goederen die aan accijns zijn onderworpen.
+De bedragen, bedoeld in de [artikelen 2.126 tot en met 2.135](https://wetten.overheid.nl/jci1.3:c:BWBR0029236&hoofdstuk=II&titeldeel=8&afdeling=3&artikel=2.126&z=2017-01-01&g=2017-01-01) ten aanzien van geldboetes, worden verhoogd met eenmaal het bedrag van die boete indien het bepaalde in die artikelen betrekking heeft op goederen die aan accijns zijn onderworpen.
 
 ##### Artikel 2.137
 
-Degene die opzettelijk het in [artikel 4.6](https://wetten.overheid.nl/jci1.3:c:BWBR0029236&hoofdstuk=IV&titeldeel=1&afdeling=2&artikel=4.6&z=2016-01-01&g=2016-01-01) opgenomen verbod overtreedt, wordt gestraft met gevangenisstraf van ten hoogste vier jaren en geldboete van de vierde categorie of, indien dit bedrag hoger is, ten hoogste eenmaal het bedrag van de te weinig geheven accijns, hetzij met één van deze straffen.
+Degene die opzettelijk het in [artikel 4.6](https://wetten.overheid.nl/jci1.3:c:BWBR0029236&hoofdstuk=IV&titeldeel=1&afdeling=2&artikel=4.6&z=2017-01-01&g=2017-01-01) opgenomen verbod overtreedt, wordt gestraft met gevangenisstraf van ten hoogste vier jaren en geldboete van de vierde categorie of, indien dit bedrag hoger is, ten hoogste eenmaal het bedrag van de te weinig geheven accijns, hetzij met één van deze straffen.
 
 ##### Artikel 2.138
 
@@ -1665,19 +1669,19 @@ Degene die opzettelijk een accijnsgoed waarvoor vrijstelling of teruggaaf van ac
 
 ##### Artikel 2.139
 
-1. Degene die het in [artikel 4.66, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029236&hoofdstuk=IV&titeldeel=7&artikel=4.66&z=2016-01-01&g=2016-01-01), opgenomen verbod overtreedt, wordt gestraft met geldboete van de derde categorie.
+1. Degene die het in [artikel 4.66, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029236&hoofdstuk=IV&titeldeel=7&artikel=4.66&z=2017-01-01&g=2017-01-01), opgenomen verbod overtreedt, wordt gestraft met geldboete van de derde categorie.
 
-2. Degene die het in [artikel 4.66, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029236&hoofdstuk=IV&titeldeel=7&artikel=4.66&z=2016-01-01&g=2016-01-01), opgenomen verbod overtreedt terwijl hij weet of redelijkerwijs kan weten dat het distilleertoestel bestemd is of zal worden bestemd om te worden gebruikt tot ontduiking van de accijns, wordt gestraft met gevangenisstraf van ten hoogste vier jaren of geldboete van de vierde categorie.
+2. Degene die het in [artikel 4.66, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029236&hoofdstuk=IV&titeldeel=7&artikel=4.66&z=2017-01-01&g=2017-01-01), opgenomen verbod overtreedt terwijl hij weet of redelijkerwijs kan weten dat het distilleertoestel bestemd is of zal worden bestemd om te worden gebruikt tot ontduiking van de accijns, wordt gestraft met gevangenisstraf van ten hoogste vier jaren of geldboete van de vierde categorie.
 
 ##### Artikel 2.140
 
-1. Degene die een in de [artikelen 4.68, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029236&hoofdstuk=IV&titeldeel=7&artikel=4.68&z=2016-01-01&g=2016-01-01), [4.69, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029236&hoofdstuk=IV&titeldeel=7&artikel=4.69&z=2016-01-01&g=2016-01-01), of [4.70](https://wetten.overheid.nl/jci1.3:c:BWBR0029236&hoofdstuk=IV&titeldeel=7&artikel=4.70&z=2016-01-01&g=2016-01-01) opgenomen verbod overtreedt, wordt gestraft met geldboete van de derde categorie.
+1. Degene die een in de [artikelen 4.68, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029236&hoofdstuk=IV&titeldeel=7&artikel=4.68&z=2017-01-01&g=2017-01-01), [4.69, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029236&hoofdstuk=IV&titeldeel=7&artikel=4.69&z=2017-01-01&g=2017-01-01), of [4.70](https://wetten.overheid.nl/jci1.3:c:BWBR0029236&hoofdstuk=IV&titeldeel=7&artikel=4.70&z=2017-01-01&g=2017-01-01) opgenomen verbod overtreedt, wordt gestraft met geldboete van de derde categorie.
 
 2. Degene die een van de in het eerste lid bedoelde verboden opzettelijk overtreedt, wordt gestraft met gevangenisstraf van ten hoogste twee jaren en geldboete van de vierde categorie, hetzij met één van deze straffen.
 
 ##### Artikel 2.141
 
-1. Degene die tabaksproducten die in strijd met [artikel 4.51](https://wetten.overheid.nl/jci1.3:c:BWBR0029236&hoofdstuk=IV&titeldeel=6&afdeling=1&artikel=4.51&z=2016-01-01&g=2016-01-01) niet zijn voorzien van de voorgeschreven accijnszegels uitslaat of invoert, wordt gestraft met geldboete van de derde categorie
+1. Degene die tabaksproducten die in strijd met [artikel 4.51](https://wetten.overheid.nl/jci1.3:c:BWBR0029236&hoofdstuk=IV&titeldeel=6&afdeling=1&artikel=4.51&z=2017-01-01&g=2017-01-01) niet zijn voorzien van de voorgeschreven accijnszegels uitslaat of invoert, wordt gestraft met geldboete van de derde categorie
 
 2. Degene die het in het eerste lid bedoelde verbod opzettelijk overtreedt, wordt gestraft met gevangenisstraf van ten hoogste twee jaren en geldboete van de vierde categorie, hetzij met één van deze straffen.
 
@@ -1687,9 +1691,9 @@ Degene die opzettelijk een accijnsgoed waarvoor vrijstelling of teruggaaf van ac
 
 2. Degene aan wiens schuld te wijten is dat de in het eerste lid bedoelde gegevens onjuist of onvolledig zijn verstrekt, wordt gestraft hetzij met hechtenisstraf van ten hoogste een jaar en met geldboete van de vijfde categorie, hetzij met één van deze straffen.
 
-3. Degene die goederen vanuit een handels- en dienstenentrepot zonder de vereiste douaneformaliteiten te vervullen uitslaat, dan wel goederen in een handels- en dienstenentrepot voorhanden heeft die ingevolge de bij of krachtens [artikel 5.7](https://wetten.overheid.nl/jci1.3:c:BWBR0029236&hoofdstuk=V&afdeling=4&artikel=5.7&z=2016-01-01&g=2016-01-01) bedoelde regeling, daarin niet aanwezig mogen zijn, dan wel goederen in een handels- en dienstenentrepot voorhanden heeft in strijd met de in genoemde regeling voor het hebben van die goederen in een handels- en dienstenentrepot gestelde voorwaarden, wordt gestraft, hetzij met gevangenisstraf van ten hoogste twaalf maanden en met geldboete van de vijfde categorie, hetzij met één van deze straffen.
+3. Degene die goederen vanuit een handels- en dienstenentrepot zonder de vereiste douaneformaliteiten te vervullen uitslaat, dan wel goederen in een handels- en dienstenentrepot voorhanden heeft die ingevolge de bij of krachtens [artikel 5.7](https://wetten.overheid.nl/jci1.3:c:BWBR0029236&hoofdstuk=V&afdeling=4&artikel=5.7&z=2017-01-01&g=2017-01-01) bedoelde regeling, daarin niet aanwezig mogen zijn, dan wel goederen in een handels- en dienstenentrepot voorhanden heeft in strijd met de in genoemde regeling voor het hebben van die goederen in een handels- en dienstenentrepot gestelde voorwaarden, wordt gestraft, hetzij met gevangenisstraf van ten hoogste twaalf maanden en met geldboete van de vijfde categorie, hetzij met één van deze straffen.
 
-4. De goederen, bedoeld in het derde lid, worden verbeurd verklaard en overeenkomstig [artikel 2.133](https://wetten.overheid.nl/jci1.3:c:BWBR0029236&hoofdstuk=II&titeldeel=8&afdeling=3&artikel=2.133&z=2016-01-01&g=2016-01-01) van deze wet in beslag genomen.
+4. De goederen, bedoeld in het derde lid, worden verbeurd verklaard en overeenkomstig [artikel 2.133](https://wetten.overheid.nl/jci1.3:c:BWBR0029236&hoofdstuk=II&titeldeel=8&afdeling=3&artikel=2.133&z=2017-01-01&g=2017-01-01) van deze wet in beslag genomen.
 
 ### Afdeling 4. Algemene bepalingen van strafrecht
 
@@ -1699,7 +1703,7 @@ De bij dit hoofdstuk strafbaar gestelde feiten, waarop gevangenisstraf is gestel
 
 ##### Artikel 2.144
 
-Bij onherroepelijke veroordeling wegens een bij wettelijke regelingen als misdrijf aangemerkt strafbaar feit alsmede wegens een bij [artikel 2.149, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0029236&hoofdstuk=II&titeldeel=8&afdeling=5&artikel=2.149&z=2016-01-01&g=2016-01-01), bedoeld misdrijf, begaan door een douane-expediteur in de uitoefening van zijn bedrijf, kan de rechter ontzetting uitspreken van het recht om het bedrijf van douane-expediteur uit te oefenen voor een tijd die de duur van de gevangenisstraf ten minste zes maanden en ten hoogste zes jaren te boven gaat, of in geval van veroordeling tot geldboete als enige hoofdstraf, voor een tijd van tenminste zes maanden en ten hoogste zes jaren.
+Bij onherroepelijke veroordeling wegens een bij wettelijke regelingen als misdrijf aangemerkt strafbaar feit alsmede wegens een bij [artikel 2.149, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0029236&hoofdstuk=II&titeldeel=8&afdeling=5&artikel=2.149&z=2017-01-01&g=2017-01-01), bedoeld misdrijf, begaan door een douane-expediteur in de uitoefening van zijn bedrijf, kan de rechter ontzetting uitspreken van het recht om het bedrijf van douane-expediteur uit te oefenen voor een tijd die de duur van de gevangenisstraf ten minste zes maanden en ten hoogste zes jaren te boven gaat, of in geval van veroordeling tot geldboete als enige hoofdstraf, voor een tijd van tenminste zes maanden en ten hoogste zes jaren.
 
 ##### Artikel 2.145
 
@@ -1715,13 +1719,13 @@ Het recht tot strafvervolging op de voet van deze afdeling met betrekking tot ee
 
 3. Alle processen-verbaal betreffende bij dit hoofdstuk of de op daarop berustende bepalingen strafbaar gestelde feiten worden ingezonden bij de inspecteur. De inspecteur doet de processen-verbaal betreffende strafbare feiten, ter zake waarvan inverzekeringstelling of voorlopige hechtenis is toegepast dan wel een woning tegen de wil van de bewoner is binnengetreden, met de in beslag genomen voorwerpen onverwijld toekomen aan de officier van justitie. De overige processen-verbaal doet de inspecteur, met de in beslag genomen voorwerpen, toekomen aan de officier van justitie, indien hij een vervolging wenselijk acht.
 
-4. De officier van justitie is bevoegd, de zaak ter afdoening weer in handen van de inspecteur te stellen, welke daarmede alsdan kan handelen overeenkomstig [artikel 2 147](https://wetten.overheid.nl/jci1.3:c:BWBR0029236&hoofdstuk=II&titeldeel=8&afdeling=5&artikel=2.147&z=2016-01-01&g=2016-01-01).
+4. De officier van justitie is bevoegd, de zaak ter afdoening weer in handen van de inspecteur te stellen, welke daarmede alsdan kan handelen overeenkomstig [artikel 2 147](https://wetten.overheid.nl/jci1.3:c:BWBR0029236&hoofdstuk=II&titeldeel=8&afdeling=5&artikel=2.147&z=2017-01-01&g=2017-01-01).
 
 5. [Artikel 14 van het Wetboek van Strafvordering BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&artikel=14) vindt geen toepassing in zaken, waarin de inspecteur het procesverbaal niet aan de officier van justitie heeft doen toekomen.
 
 ##### Artikel 2.147
 
-1. In zaken waarin de inspecteur het procesverbaal niet ingevolge het bepaalde in [artikel 2.146, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029236&hoofdstuk=II&titeldeel=8&afdeling=5&artikel=2.146&z=2016-01-01&g=2016-01-01), in handen van de officier van justitie heeft doen toekomen, vervalt het recht tot strafvervolging door vrijwillige voldoening aan de schikkingvoorwaarden die de inspecteur ter voorkoming van strafvervolging heeft gesteld. Bij regeling van Onze Minister van Financiën kunnen functionarissen worden aangewezen die deze bevoegdheid namens de inspecteur kunnen uitoefenen.
+1. In zaken waarin de inspecteur het procesverbaal niet ingevolge het bepaalde in [artikel 2.146, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029236&hoofdstuk=II&titeldeel=8&afdeling=5&artikel=2.146&z=2017-01-01&g=2017-01-01), in handen van de officier van justitie heeft doen toekomen, vervalt het recht tot strafvervolging door vrijwillige voldoening aan de schikkingvoorwaarden die de inspecteur ter voorkoming van strafvervolging heeft gesteld. Bij regeling van Onze Minister van Financiën kunnen functionarissen worden aangewezen die deze bevoegdheid namens de inspecteur kunnen uitoefenen.
 
 2. Bij beschikking van de inspecteur kunnen als voorwaarden worden gesteld:
 
@@ -1775,13 +1779,13 @@ Het recht tot strafvervolging op de voet van deze afdeling met betrekking tot ee
 
 1. De goederen die in beslag zijn genomen ter zake van het begaan van strafbare feiten als bedoeld in dit hoofdstuk of de daarop berustende bepalingen kunnen, voor zover de eisen van het onderzoek of het algemeen belang bij hun vernietiging of onbruikbaarmaking zich daartegen niet verzetten, zo nodig na monsterneming, overeenkomstig bij regeling van Onze Minister van Financiën te stellen regels, tegen zekerheidstelling worden vrijgegeven.
 
-2. Het bepaalde in het eerste lid vindt geen toepassing ten aanzien van goederen, in beslag genomen in zaken waarin de inspecteur het proces-verbaal ingevolge het bepaalde in [artikel 2.146, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029236&hoofdstuk=II&titeldeel=8&afdeling=5&artikel=2.146&z=2016-01-01&g=2016-01-01), aan de officier van justitie heeft doen toekomen en deze niet nadien het proces-verbaal overeenkomstig het bepaalde in [artikel 2.146, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029236&hoofdstuk=II&titeldeel=8&afdeling=5&artikel=2.146&z=2016-01-01&g=2016-01-01) weer in handen heeft gesteld van de inspecteur.
+2. Het bepaalde in het eerste lid vindt geen toepassing ten aanzien van goederen, in beslag genomen in zaken waarin de inspecteur het proces-verbaal ingevolge het bepaalde in [artikel 2.146, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029236&hoofdstuk=II&titeldeel=8&afdeling=5&artikel=2.146&z=2017-01-01&g=2017-01-01), aan de officier van justitie heeft doen toekomen en deze niet nadien het proces-verbaal overeenkomstig het bepaalde in [artikel 2.146, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029236&hoofdstuk=II&titeldeel=8&afdeling=5&artikel=2.146&z=2017-01-01&g=2017-01-01) weer in handen heeft gesteld van de inspecteur.
 
 3. De overeenkomstig het eerste lid gestelde zekerheid treedt voor de toepassing van bepalingen betreffende verbeurdverklaring en inbeslagneming, alsmede voor de uitoefening van het recht van verhaal, in de plaats van de in beslag genomen goederen.
 
 ##### Artikel 2.152
 
-Bij veroordeling wegens een in de [artikelen 2.126 tot en met 2.129](https://wetten.overheid.nl/jci1.3:c:BWBR0029236&hoofdstuk=II&titeldeel=8&afdeling=3&artikel=2.126&z=2016-01-01&g=2016-01-01) en [2.133](https://wetten.overheid.nl/jci1.3:c:BWBR0029236&hoofdstuk=II&titeldeel=8&afdeling=3&artikel=2.133&z=2016-01-01&g=2016-01-01) omschreven feiten kunnen de in [artikel 35 van het Wetboek van Strafrecht BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028570&artikel=35) genoemde voorwerpen en vorderingen ook worden verbeurd verklaard, indien zij niet aan de in dat artikel bedoelde personen toebehoren.
+Bij veroordeling wegens een in de [artikelen 2.126 tot en met 2.129](https://wetten.overheid.nl/jci1.3:c:BWBR0029236&hoofdstuk=II&titeldeel=8&afdeling=3&artikel=2.126&z=2017-01-01&g=2017-01-01) en [2.133](https://wetten.overheid.nl/jci1.3:c:BWBR0029236&hoofdstuk=II&titeldeel=8&afdeling=3&artikel=2.133&z=2017-01-01&g=2017-01-01) omschreven feiten kunnen de in [artikel 35 van het Wetboek van Strafrecht BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028570&artikel=35) genoemde voorwerpen en vorderingen ook worden verbeurd verklaard, indien zij niet aan de in dat artikel bedoelde personen toebehoren.
 
 ##### Artikel 2.153
 
@@ -1801,7 +1805,7 @@ De griffier van het Gemeenschappelijk Hof van Justitie verstrekt aan de inspecte
 
 ##### Artikel 2.156
 
-1. Een ieder die betrokken is bij de uitvoering van dit hoofdstuk, [hoofdstuk III](https://wetten.overheid.nl/jci1.3:c:BWBR0029236&hoofdstuk=III&z=2016-01-01&g=2016-01-01) of [hoofdstuk V](https://wetten.overheid.nl/jci1.3:c:BWBR0029236&hoofdstuk=V&z=2016-01-01&g=2016-01-01) en daarbij de beschikking krijgt over gegevens waarvan hij het vertrouwelijke karakter kent of redelijkerwijs moet vermoeden, en voor wie niet reeds uit hoofde van ambt, beroep of wettelijk voorschrift ter zake van die gegevens een geheimhoudingsplicht geldt, is verplicht tot geheimhouding van die gegevens behoudens voor zover enig wettelijk voorschrift hem tot mededeling verplicht of uit zijn taak de noodzaak tot mededeling voortvloeit.
+1. Een ieder die betrokken is bij de uitvoering van dit hoofdstuk, [hoofdstuk III](https://wetten.overheid.nl/jci1.3:c:BWBR0029236&hoofdstuk=III&z=2017-01-01&g=2017-01-01) of [hoofdstuk V](https://wetten.overheid.nl/jci1.3:c:BWBR0029236&hoofdstuk=V&z=2017-01-01&g=2017-01-01) en daarbij de beschikking krijgt over gegevens waarvan hij het vertrouwelijke karakter kent of redelijkerwijs moet vermoeden, en voor wie niet reeds uit hoofde van ambt, beroep of wettelijk voorschrift ter zake van die gegevens een geheimhoudingsplicht geldt, is verplicht tot geheimhouding van die gegevens behoudens voor zover enig wettelijk voorschrift hem tot mededeling verplicht of uit zijn taak de noodzaak tot mededeling voortvloeit.
 
 2. Onze Minister van Financiën kan ontheffing verlenen van de geheimhoudingsplicht, bedoeld in het eerste lid.
 
@@ -1815,7 +1819,7 @@ Vervallen
 
 ##### Artikel 3.1
 
-1. Op de bepalingen in dit hoofdstuk zijn de bepalingen in of krachtens [hoofdstuk II](https://wetten.overheid.nl/jci1.3:c:BWBR0029236&hoofdstuk=II&z=2016-01-01&g=2016-01-01) van toepassing.
+1. Op de bepalingen in dit hoofdstuk zijn de bepalingen in of krachtens [hoofdstuk II](https://wetten.overheid.nl/jci1.3:c:BWBR0029236&hoofdstuk=II&z=2017-01-01&g=2017-01-01) van toepassing.
 
 2. In dit hoofdstuk en de daarop berustende bepalingen wordt, tenzij anders is bepaald, verstaan onder:
 
@@ -1831,7 +1835,7 @@ Vervallen
 
 ##### Artikel 3.3
 
-Invoerrechten worden geheven naar de waarde van de goederen, vastgesteld aan de hand van de in [titel 2 van dit hoofdstuk](https://wetten.overheid.nl/jci1.3:c:BWBR0029236&hoofdstuk=III&titeldeel=2&z=2016-01-01&g=2016-01-01) opgenomen bepalingen.
+Invoerrechten worden geheven naar de waarde van de goederen, vastgesteld aan de hand van de in [titel 2 van dit hoofdstuk](https://wetten.overheid.nl/jci1.3:c:BWBR0029236&hoofdstuk=III&titeldeel=2&z=2017-01-01&g=2017-01-01) opgenomen bepalingen.
 
 ##### Artikel 3.4
 
@@ -1855,7 +1859,7 @@ Invoerrechten worden geheven naar de waarde van de goederen, vastgesteld aan de 
 
 ##### Artikel 3.6
 
-1. Voor de toepassing van deze titel en [titel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0029236&hoofdstuk=III&titeldeel=3&z=2016-01-01&g=2016-01-01) wordt verstaan onder:
+1. Voor de toepassing van deze titel en [titel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0029236&hoofdstuk=III&titeldeel=3&z=2017-01-01&g=2017-01-01) wordt verstaan onder:
 
 - a. **douanewaarde:** de waarde van de ingevoerde goederen;
 
@@ -1909,7 +1913,7 @@ Een ieder die direct of indirect bij de invoer van goederen is betrokken, dient 
 
 ##### Artikel 3.9
 
-1. Bij de vaststelling van de douanewaarde met toepassing van de [artikelen 3.14 tot en met 3.24](https://wetten.overheid.nl/jci1.3:c:BWBR0029236&hoofdstuk=III&titeldeel=2&afdeling=2&paragraaf=1&artikel=3.14&z=2016-01-01&g=2016-01-01), dient van elke afzonderlijke transactie een aangifte van gegevens inzake de douanewaarde te worden overgelegd tenzij de goederen niet aan invoerrechten zijn onderworpen.
+1. Bij de vaststelling van de douanewaarde met toepassing van de [artikelen 3.14 tot en met 3.24](https://wetten.overheid.nl/jci1.3:c:BWBR0029236&hoofdstuk=III&titeldeel=2&afdeling=2&paragraaf=1&artikel=3.14&z=2017-01-01&g=2017-01-01), dient van elke afzonderlijke transactie een aangifte van gegevens inzake de douanewaarde te worden overgelegd tenzij de goederen niet aan invoerrechten zijn onderworpen.
 
 2. De aangifte van gegevens inzake de douanewaarde kan alleen worden overgelegd door een aangever die zijn verblijfplaats of handelsvestiging heeft op een van de BES eilanden en die beschikt over de feitelijke gegevens van de betreffende transactie, tenzij de aangever van de goederen de douanebestemming doorgaand vervoer of tijdelijke invoer geeft.
 
@@ -1927,9 +1931,9 @@ Een ieder die direct of indirect bij de invoer van goederen is betrokken, dient 
 
 1. De aangever verstrekt een afzonderlijke opgave van gegevens met behulp waarvan de aangegeven douanewaarde is berekend, indien:
 
-- a. een andere methode van waardebepaling wordt gehanteerd dan die bedoeld in [artikel 3.14, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0029236&hoofdstuk=III&titeldeel=2&afdeling=2&paragraaf=1&artikel=3.14&z=2016-01-01&g=2016-01-01); of
+- a. een andere methode van waardebepaling wordt gehanteerd dan die bedoeld in [artikel 3.14, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0029236&hoofdstuk=III&titeldeel=2&afdeling=2&paragraaf=1&artikel=3.14&z=2017-01-01&g=2017-01-01); of
 
-- b. ingevolge [artikel 3.9, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029236&hoofdstuk=III&titeldeel=2&afdeling=1&artikel=3.9&z=2016-01-01&g=2016-01-01), een aangifte van gegevens inzake de douanewaarde als bedoeld in dat artikel, achterwege kan blijven, tenzij de aangegeven douanewaarde rechtstreeks uit de factuur of uit andere bescheiden blijkt.
+- b. ingevolge [artikel 3.9, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029236&hoofdstuk=III&titeldeel=2&afdeling=1&artikel=3.9&z=2017-01-01&g=2017-01-01), een aangifte van gegevens inzake de douanewaarde als bedoeld in dat artikel, achterwege kan blijven, tenzij de aangegeven douanewaarde rechtstreeks uit de factuur of uit andere bescheiden blijkt.
 
 2. De opgave bevat ten minste:
 
@@ -1937,13 +1941,13 @@ Een ieder die direct of indirect bij de invoer van goederen is betrokken, dient 
 
 - b. een gedetailleerde opgave van de wijze van berekening; en
 
-- c. indien van toepassing, een verwijzing naar een door de inspecteur op grond van [artikel 3.18, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029236&hoofdstuk=III&titeldeel=2&afdeling=2&paragraaf=2&artikel=3.18&z=2016-01-01&g=2016-01-01), genomen beslissing.
+- c. indien van toepassing, een verwijzing naar een door de inspecteur op grond van [artikel 3.18, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029236&hoofdstuk=III&titeldeel=2&afdeling=2&paragraaf=2&artikel=3.18&z=2017-01-01&g=2017-01-01), genomen beslissing.
 
 3. Ingeval de aangifte ten invoer schriftelijk is gedaan legt de aangever een exemplaar van de factuur aan de inspecteur over, indien de douanewaarde van de in te voeren goederen op grond van die factuur is aangegeven. De inspecteur behoudt dit exemplaar.
 
 ##### Artikel 3.11
 
-Indien de inspecteur afwijkt van de aangifte, verstrekt hij binnen één maand na ontvangst van een daartoe strekkend verzoek, een schriftelijke toelichting op de wijze waarop het geharmoniseerde systeem is toegepast dan wel de douanewaarde van de ingevoerde goederen is vastgesteld, behoudens in de gevallen bedoeld in [artikel 3.15, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029236&hoofdstuk=III&titeldeel=2&afdeling=2&paragraaf=1&artikel=3.15&z=2016-01-01&g=2016-01-01).
+Indien de inspecteur afwijkt van de aangifte, verstrekt hij binnen één maand na ontvangst van een daartoe strekkend verzoek, een schriftelijke toelichting op de wijze waarop het geharmoniseerde systeem is toegepast dan wel de douanewaarde van de ingevoerde goederen is vastgesteld, behoudens in de gevallen bedoeld in [artikel 3.15, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029236&hoofdstuk=III&titeldeel=2&afdeling=2&paragraaf=1&artikel=3.15&z=2017-01-01&g=2017-01-01).
 
 Het verzoek bedoeld in het eerste lid wordt uiterlijk één maand na het vaststellen van de verschuldigde invoerrechten schriftelijk bij de inspecteur ingediend.
 
@@ -1985,23 +1989,23 @@ Indien goederen in een handels- en dienstenentrepot, een behandeling hebben onde
 
 - f. de methode van redelijke middelen.
 
-2. De douanewaarde wordt met toepassing van de in het eerste lid, onderdeel a, bedoelde methode vastgesteld, indien aan de in [paragraaf 2](https://wetten.overheid.nl/jci1.3:c:BWBR0029236&hoofdstuk=III&titeldeel=2&afdeling=2&paragraaf=2&z=2016-01-01&g=2016-01-01) opgenomen voorwaarden is voldaan. De toepassing van deze methode geschiedt overeenkomstig die paragraaf.
+2. De douanewaarde wordt met toepassing van de in het eerste lid, onderdeel a, bedoelde methode vastgesteld, indien aan de in [paragraaf 2](https://wetten.overheid.nl/jci1.3:c:BWBR0029236&hoofdstuk=III&titeldeel=2&afdeling=2&paragraaf=2&z=2017-01-01&g=2017-01-01) opgenomen voorwaarden is voldaan. De toepassing van deze methode geschiedt overeenkomstig die paragraaf.
 
-3. Indien een aangegeven douanewaarde op basis van de in het eerste lid, onderdeel a, bedoelde methode niet aanvaard kan worden, wordt deze vastgesteld met toepassing van de in het eerste lid, onderdeel b, bedoelde methode, tenzij in de mogelijkheid van een aanpassing van de douanewaarde is voorzien. De toepassing van deze methode geschiedt overeenkomstig [paragraaf 3](https://wetten.overheid.nl/jci1.3:c:BWBR0029236&hoofdstuk=III&titeldeel=2&afdeling=2&paragraaf=3&z=2016-01-01&g=2016-01-01).
+3. Indien een aangegeven douanewaarde op basis van de in het eerste lid, onderdeel a, bedoelde methode niet aanvaard kan worden, wordt deze vastgesteld met toepassing van de in het eerste lid, onderdeel b, bedoelde methode, tenzij in de mogelijkheid van een aanpassing van de douanewaarde is voorzien. De toepassing van deze methode geschiedt overeenkomstig [paragraaf 3](https://wetten.overheid.nl/jci1.3:c:BWBR0029236&hoofdstuk=III&titeldeel=2&afdeling=2&paragraaf=3&z=2017-01-01&g=2017-01-01).
 
-4. Indien de douanewaarde van goederen niet kan worden vastgesteld met toepassing van de in het eerste lid, onderdelen a en b, bedoelde methodes, wordt deze vastgesteld met toepassing van de in het eerste lid, onderdeel c, bedoelde methode. De toepassing van deze methode geschiedt overeenkomstig [paragraaf 4](https://wetten.overheid.nl/jci1.3:c:BWBR0029236&hoofdstuk=III&titeldeel=2&afdeling=2&paragraaf=4&z=2016-01-01&g=2016-01-01).
+4. Indien de douanewaarde van goederen niet kan worden vastgesteld met toepassing van de in het eerste lid, onderdelen a en b, bedoelde methodes, wordt deze vastgesteld met toepassing van de in het eerste lid, onderdeel c, bedoelde methode. De toepassing van deze methode geschiedt overeenkomstig [paragraaf 4](https://wetten.overheid.nl/jci1.3:c:BWBR0029236&hoofdstuk=III&titeldeel=2&afdeling=2&paragraaf=4&z=2017-01-01&g=2017-01-01).
 
-5. Indien de douanewaarde van goederen niet kan worden vastgesteld met toepassing van de in het eerste lid, onderdelen a tot en met c, bedoelde methodes, wordt deze vastgesteld met toepassing van de in het eerste lid, onderdeel d, bedoelde methode. De toepassing van deze methode geschiedt overeenkomstig [paragraaf 5](https://wetten.overheid.nl/jci1.3:c:BWBR0029236&hoofdstuk=III&titeldeel=2&afdeling=2&paragraaf=5&z=2016-01-01&g=2016-01-01). Op verzoek van de importeur kan evenwel de in het eerste lid, onderdeel e, bedoelde methode worden toegepast overeenkomstig het zesde lid.
+5. Indien de douanewaarde van goederen niet kan worden vastgesteld met toepassing van de in het eerste lid, onderdelen a tot en met c, bedoelde methodes, wordt deze vastgesteld met toepassing van de in het eerste lid, onderdeel d, bedoelde methode. De toepassing van deze methode geschiedt overeenkomstig [paragraaf 5](https://wetten.overheid.nl/jci1.3:c:BWBR0029236&hoofdstuk=III&titeldeel=2&afdeling=2&paragraaf=5&z=2017-01-01&g=2017-01-01). Op verzoek van de importeur kan evenwel de in het eerste lid, onderdeel e, bedoelde methode worden toegepast overeenkomstig het zesde lid.
 
-6. Indien de douanewaarde van goederen niet kan worden vastgesteld met toepassing van de in het eerste lid, onderdelen a tot en met d, bedoelde methodes, wordt deze vastgesteld met toepassing van de in het eerste lid, onderdeel e, bedoelde methode. De toepassing van deze methode geschiedt overeenkomstig [paragraaf 6](https://wetten.overheid.nl/jci1.3:c:BWBR0029236&hoofdstuk=III&titeldeel=2&afdeling=2&paragraaf=6&z=2016-01-01&g=2016-01-01).
+6. Indien de douanewaarde van goederen niet kan worden vastgesteld met toepassing van de in het eerste lid, onderdelen a tot en met d, bedoelde methodes, wordt deze vastgesteld met toepassing van de in het eerste lid, onderdeel e, bedoelde methode. De toepassing van deze methode geschiedt overeenkomstig [paragraaf 6](https://wetten.overheid.nl/jci1.3:c:BWBR0029236&hoofdstuk=III&titeldeel=2&afdeling=2&paragraaf=6&z=2017-01-01&g=2017-01-01).
 
-7. Indien de douanewaarde van goederen niet kan worden vastgesteld met toepassing van de in het eerste lid, onderdelen a tot en met e, bedoelde methodes, wordt deze vastgesteld met toepassing van de in het eerste lid, onderdeel f, bedoelde methode. De toepassing van deze methode geschiedt overeenkomstig [paragraaf 7](https://wetten.overheid.nl/jci1.3:c:BWBR0029236&hoofdstuk=III&titeldeel=2&afdeling=2&paragraaf=7&z=2016-01-01&g=2016-01-01).
+7. Indien de douanewaarde van goederen niet kan worden vastgesteld met toepassing van de in het eerste lid, onderdelen a tot en met e, bedoelde methodes, wordt deze vastgesteld met toepassing van de in het eerste lid, onderdeel f, bedoelde methode. De toepassing van deze methode geschiedt overeenkomstig [paragraaf 7](https://wetten.overheid.nl/jci1.3:c:BWBR0029236&hoofdstuk=III&titeldeel=2&afdeling=2&paragraaf=7&z=2017-01-01&g=2017-01-01).
 
 ##### Artikel 3.15
 
 1. Indien naar het oordeel van de inspecteur niet voldoende zekerheid of informatie is verkregen over de echtheid of de juistheid van de verklaringen, bescheiden of aangiften die ten behoeve van de vaststelling van de douanewaarde zijn overlegd, is deze bevoegd de aangegeven douanewaarde niet te aanvaarden.
 
-2. De inspecteur behoeft de douanewaarde van ingevoerde goederen niet met toepassing van de methode van de transactiewaarde vast te stellen, indien gerede twijfel bestaat of de aangegeven waarde met de in [artikel 3.16](https://wetten.overheid.nl/jci1.3:c:BWBR0029236&hoofdstuk=III&titeldeel=2&afdeling=2&paragraaf=2&artikel=3.16&z=2016-01-01&g=2016-01-01) omschreven werkelijk betaalde of te betalen prijs overeenkomt.
+2. De inspecteur behoeft de douanewaarde van ingevoerde goederen niet met toepassing van de methode van de transactiewaarde vast te stellen, indien gerede twijfel bestaat of de aangegeven waarde met de in [artikel 3.16](https://wetten.overheid.nl/jci1.3:c:BWBR0029236&hoofdstuk=III&titeldeel=2&afdeling=2&paragraaf=2&artikel=3.16&z=2017-01-01&g=2017-01-01) omschreven werkelijk betaalde of te betalen prijs overeenkomt.
 
 3. Indien bij de inspecteur de in het tweede lid bedoelde twijfel blijft bestaan, stelt hij de betrokkene, desgevraagd schriftelijk, in kennis van de redenen voor die twijfel en biedt hij hem een redelijke gelegenheid daarop te antwoorden.
 
@@ -2011,7 +2015,7 @@ Indien goederen in een handels- en dienstenentrepot, een behandeling hebben onde
 
 ##### Artikel 3.16
 
-1. De douanewaarde van de in te voeren goederen is de transactiewaarde van die goederen, zijnde de voor de goederen werkelijk betaalde of te betalen prijs indien zij worden verkocht voor uitvoer naar de BES eilanden, in voorkomend geval aangepast overeenkomstig de [artikelen 3.18](https://wetten.overheid.nl/jci1.3:c:BWBR0029236&hoofdstuk=III&titeldeel=2&afdeling=2&paragraaf=2&artikel=3.18&z=2016-01-01&g=2016-01-01) en [3.19](https://wetten.overheid.nl/jci1.3:c:BWBR0029236&hoofdstuk=III&titeldeel=2&afdeling=2&paragraaf=2&artikel=3.19&z=2016-01-01&g=2016-01-01).
+1. De douanewaarde van de in te voeren goederen is de transactiewaarde van die goederen, zijnde de voor de goederen werkelijk betaalde of te betalen prijs indien zij worden verkocht voor uitvoer naar de BES eilanden, in voorkomend geval aangepast overeenkomstig de [artikelen 3.18](https://wetten.overheid.nl/jci1.3:c:BWBR0029236&hoofdstuk=III&titeldeel=2&afdeling=2&paragraaf=2&artikel=3.18&z=2017-01-01&g=2017-01-01) en [3.19](https://wetten.overheid.nl/jci1.3:c:BWBR0029236&hoofdstuk=III&titeldeel=2&afdeling=2&paragraaf=2&artikel=3.19&z=2017-01-01&g=2017-01-01).
 
 2. De transactiewaarde wordt als douanewaarde aanvaard, tenzij:
 
@@ -2025,19 +2029,19 @@ Indien goederen in een handels- en dienstenentrepot, een behandeling hebben onde
 
 - b. de verkoop of de prijs is beïnvloed door enige voorwaarde of prestatie waarvan de waarde met betrekking tot de goederen niet kan worden vastgesteld;
 
-- c. een deel van de opbrengst van elke latere wederverkoop, overdracht of gebruik van de goederen door de koper direct of indirect ten goede zal komen aan de verkoper, en een aanpassing overeenkomstig [artikel 3.18](https://wetten.overheid.nl/jci1.3:c:BWBR0029236&hoofdstuk=III&titeldeel=2&afdeling=2&paragraaf=2&artikel=3.18&z=2016-01-01&g=2016-01-01) niet mogelijk is;
+- c. een deel van de opbrengst van elke latere wederverkoop, overdracht of gebruik van de goederen door de koper direct of indirect ten goede zal komen aan de verkoper, en een aanpassing overeenkomstig [artikel 3.18](https://wetten.overheid.nl/jci1.3:c:BWBR0029236&hoofdstuk=III&titeldeel=2&afdeling=2&paragraaf=2&artikel=3.18&z=2017-01-01&g=2017-01-01) niet mogelijk is;
 
-- d. de koper en de verkoper zijn verbonden en de transactiewaarde niet overeenkomstig [artikel 3.17](https://wetten.overheid.nl/jci1.3:c:BWBR0029236&hoofdstuk=III&titeldeel=2&afdeling=2&paragraaf=2&artikel=3.17&z=2016-01-01&g=2016-01-01) aanvaardbaar is.
+- d. de koper en de verkoper zijn verbonden en de transactiewaarde niet overeenkomstig [artikel 3.17](https://wetten.overheid.nl/jci1.3:c:BWBR0029236&hoofdstuk=III&titeldeel=2&afdeling=2&paragraaf=2&artikel=3.17&z=2017-01-01&g=2017-01-01) aanvaardbaar is.
 
 3. De werkelijk betaalde of te betalen prijs is de totale betaling die door de koper aan de verkoper of door de koper ten behoeve van de verkoper aan een derde voor de ingevoerde goederen is of moet worden verricht.
 
 4. De betaling kan door de overdracht van geld en door middel van kredietbrieven of verhandelbaar papier geschieden. De betaling kan direct of indirect plaatsvinden.
 
-5. De door de koper of voor zijn rekening verrichte activiteiten die geen activiteiten zijn waarvoor in [artikel 3.18](https://wetten.overheid.nl/jci1.3:c:BWBR0029236&hoofdstuk=III&titeldeel=2&afdeling=2&paragraaf=2&artikel=3.18&z=2016-01-01&g=2016-01-01) in een aanpassing is voorzien, worden niet beschouwd als een indirecte betaling aan de verkoper en worden aangemerkt als voor eigen rekening te zijn verricht, zelfs indien deze activiteiten geacht kunnen worden de verkoper tot voordeel te strekken of met diens instemming te zijn verricht.
+5. De door de koper of voor zijn rekening verrichte activiteiten die geen activiteiten zijn waarvoor in [artikel 3.18](https://wetten.overheid.nl/jci1.3:c:BWBR0029236&hoofdstuk=III&titeldeel=2&afdeling=2&paragraaf=2&artikel=3.18&z=2017-01-01&g=2017-01-01) in een aanpassing is voorzien, worden niet beschouwd als een indirecte betaling aan de verkoper en worden aangemerkt als voor eigen rekening te zijn verricht, zelfs indien deze activiteiten geacht kunnen worden de verkoper tot voordeel te strekken of met diens instemming te zijn verricht.
 
 6. Onder de in het vijfde lid bedoelde activiteiten wordt begrepen activiteiten die verband houden met het verhandelen van de goederen, zoals marktonderzoek, reclame voor en promotie van de verkoop van de betrokken goederen, alsmede door de koper voor eigen rekening verrichte activiteiten die verband houden met de voor de goederen verstrekte garantie.
 
-7. Indien goederen die ten invoer worden aangegeven, deel uit maken van een grotere in een enkele transactie aangekochte hoeveelheid van dezelfde goederen, is de werkelijk betaalde of te betalen prijs, voor de toepassing van [artikel 3.16, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029236&hoofdstuk=III&titeldeel=2&afdeling=2&paragraaf=2&artikel=3.16&z=2016-01-01&g=2016-01-01), een prijs die in dezelfde verhouding staat tot de totale prijs als de aangegeven hoeveelheid staat tot de totale aangekochte hoeveelheid.
+7. Indien goederen die ten invoer worden aangegeven, deel uit maken van een grotere in een enkele transactie aangekochte hoeveelheid van dezelfde goederen, is de werkelijk betaalde of te betalen prijs, voor de toepassing van [artikel 3.16, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029236&hoofdstuk=III&titeldeel=2&afdeling=2&paragraaf=2&artikel=3.16&z=2017-01-01&g=2017-01-01), een prijs die in dezelfde verhouding staat tot de totale prijs als de aangegeven hoeveelheid staat tot de totale aangekochte hoeveelheid.
 
 8. Een verhoudingsgewijze verdeling van de werkelijk betaalde of te betalen prijs wordt ook toegepast in geval van gedeeltelijk verlies of in geval van beschadiging vóór de invoer van de goederen waarvan de douanewaarde wordt bepaald.
 
@@ -2059,7 +2063,7 @@ Indien goederen in een handels- en dienstenentrepot, een behandeling hebben onde
 
 2. Bij het vaststellen of de transactiewaarde aanvaardbaar is, is het feit dat de koper en de verkoper verbonden zijn op zichzelf niet voldoende reden om de transactiewaarde als niet aanvaardbaar aan te merken.
 
-3. Bij de toepassing van de in het eerste lid, onderdeel b, opgenomen criteria wordt rekening gehouden met verschillen in handelsniveau, de hoeveelheden, de elementen, genoemd in de [artikelen 3.18](https://wetten.overheid.nl/jci1.3:c:BWBR0029236&hoofdstuk=III&titeldeel=2&afdeling=2&paragraaf=2&artikel=3.18&z=2016-01-01&g=2016-01-01) en [3.19](https://wetten.overheid.nl/jci1.3:c:BWBR0029236&hoofdstuk=III&titeldeel=2&afdeling=2&paragraaf=2&artikel=3.19&z=2016-01-01&g=2016-01-01), en met kosten die de verkoper draagt bij verkopen aan niet met hem verbonden kopers en die hij niet draagt bij verkopen aan kopers die wel met hem zijn verbonden.
+3. Bij de toepassing van de in het eerste lid, onderdeel b, opgenomen criteria wordt rekening gehouden met verschillen in handelsniveau, de hoeveelheden, de elementen, genoemd in de [artikelen 3.18](https://wetten.overheid.nl/jci1.3:c:BWBR0029236&hoofdstuk=III&titeldeel=2&afdeling=2&paragraaf=2&artikel=3.18&z=2017-01-01&g=2017-01-01) en [3.19](https://wetten.overheid.nl/jci1.3:c:BWBR0029236&hoofdstuk=III&titeldeel=2&afdeling=2&paragraaf=2&artikel=3.19&z=2017-01-01&g=2017-01-01), en met kosten die de verkoper draagt bij verkopen aan niet met hem verbonden kopers en die hij niet draagt bij verkopen aan kopers die wel met hem zijn verbonden.
 
 4. Indien de inspecteur op grond van informatie van de aangever of op grond van op andere wijze verkregen inlichtingen, redenen heeft aan te nemen dat de verbondenheid de prijs heeft beïnvloed, deelt hij die redenen mee aan de aangever die een redelijke termijn krijgt tot reageren. Indien de aangever dit verlangt, wordt hij van die redenen schriftelijk in kennis gesteld.
 
@@ -2067,11 +2071,11 @@ Indien goederen in een handels- en dienstenentrepot, een behandeling hebben onde
 
 ##### Artikel 3.18
 
-1. Bij de vaststelling van de douanewaarde met toepassing van [artikel 3.16](https://wetten.overheid.nl/jci1.3:c:BWBR0029236&hoofdstuk=III&titeldeel=2&afdeling=2&paragraaf=2&artikel=3.16&z=2016-01-01&g=2016-01-01) wordt de voor de in te voeren goederen werkelijk betaalde of te betalen prijs uitsluitend verhoogd met:
+1. Bij de vaststelling van de douanewaarde met toepassing van [artikel 3.16](https://wetten.overheid.nl/jci1.3:c:BWBR0029236&hoofdstuk=III&titeldeel=2&afdeling=2&paragraaf=2&artikel=3.16&z=2017-01-01&g=2017-01-01) wordt de voor de in te voeren goederen werkelijk betaalde of te betalen prijs uitsluitend verhoogd met:
 
 - a. de volgende elementen, voor zover deze ten laste komen van de koper en zij niet begrepen zijn in de werkelijk voor de goederen betaalde of te betalen prijs:
 
-- 1°. commissies en courtage, met uitzondering van inkoopcommissies als bedoeld in [artikel 3.19, onderdeel f](https://wetten.overheid.nl/jci1.3:c:BWBR0029236&hoofdstuk=III&titeldeel=2&afdeling=2&paragraaf=2&artikel=3.19&z=2016-01-01&g=2016-01-01);
+- 1°. commissies en courtage, met uitzondering van inkoopcommissies als bedoeld in [artikel 3.19, onderdeel f](https://wetten.overheid.nl/jci1.3:c:BWBR0029236&hoofdstuk=III&titeldeel=2&afdeling=2&paragraaf=2&artikel=3.19&z=2017-01-01&g=2017-01-01);
 
 - 2°. de kosten van de verpakkingsmiddelen die voor douanedoeleinden één geheel worden geacht te zijn met de goederen, met dien verstande dat de kosten van verpakkingsmiddelen die bij meer dan een invoer zullen worden gebruikt, op verzoek van de aangever naar verhouding worden toegedeeld;
 
@@ -2101,7 +2105,7 @@ Indien goederen in een handels- en dienstenentrepot, een behandeling hebben onde
 
 ##### Artikel 3.19
 
-De volgende kosten, betalingen en commissies behoren niet tot de douanewaarde, vastgesteld overeenkomstig [artikel 3.16](https://wetten.overheid.nl/jci1.3:c:BWBR0029236&hoofdstuk=III&titeldeel=2&afdeling=2&paragraaf=2&artikel=3.16&z=2016-01-01&g=2016-01-01), op voorwaarde dat ze onderscheiden zijn van de werkelijk betaalde of te betalen prijs:
+De volgende kosten, betalingen en commissies behoren niet tot de douanewaarde, vastgesteld overeenkomstig [artikel 3.16](https://wetten.overheid.nl/jci1.3:c:BWBR0029236&hoofdstuk=III&titeldeel=2&afdeling=2&paragraaf=2&artikel=3.16&z=2017-01-01&g=2017-01-01), op voorwaarde dat ze onderscheiden zijn van de werkelijk betaalde of te betalen prijs:
 
 - a. kosten voor constructiewerkzaamheden, installatie, montage, onderhoud of technische bijstand, die na de invoer zijn verricht en die betrekking hebben op de ingevoerde goederen;
 
@@ -2137,7 +2141,7 @@ De volgende kosten, betalingen en commissies behoren niet tot de douanewaarde, v
 
 2. Voor de vaststelling van de in het eerste lid bedoelde transactiewaarde wordt uitgegaan van de transactiewaarde van identieke goederen die zijn verkocht op hetzelfde handelsniveau en in dezelfde of nagenoeg dezelfde hoeveelheid als de goederen waarvan de waarde wordt bepaald. Bij afwezigheid van een dergelijke verkoop wordt gebruik gemaakt van de transactiewaarde van identieke goederen die zijn verkocht op een verschillend handelsniveau of in verschillende hoeveelheden, aangepast ten einde rekening te houden met de verschillen in handelsniveau of hoeveelheid, mits dergelijke aanpassingen kunnen worden gegrond op bewijzen waaruit duidelijk blijkt dat zij redelijk en exact zijn en daargelaten of daaruit een verhoging of een verlaging van de waarde voortvloeit.
 
-3. Indien de in [artikel 3.18, eerste lid, onderdeel e](https://wetten.overheid.nl/jci1.3:c:BWBR0029236&hoofdstuk=III&titeldeel=2&afdeling=2&paragraaf=2&artikel=3.18&z=2016-01-01&g=2016-01-01), bedoelde kosten zijn begrepen in de transactiewaarde, wordt deze waarde aangepast ten einde rekening te houden met belangrijke verschillen die, als gevolg van de verschillende afstanden en wijzen van vervoer, tussen de kosten voor de ingevoerde goederen en de in aanmerking genomen identieke goederen kunnen bestaan.
+3. Indien de in [artikel 3.18, eerste lid, onderdeel e](https://wetten.overheid.nl/jci1.3:c:BWBR0029236&hoofdstuk=III&titeldeel=2&afdeling=2&paragraaf=2&artikel=3.18&z=2017-01-01&g=2017-01-01), bedoelde kosten zijn begrepen in de transactiewaarde, wordt deze waarde aangepast ten einde rekening te houden met belangrijke verschillen die, als gevolg van de verschillende afstanden en wijzen van vervoer, tussen de kosten voor de ingevoerde goederen en de in aanmerking genomen identieke goederen kunnen bestaan.
 
 4. Indien bij de toepassing van dit artikel meer dan één transactiewaarde van identieke goederen wordt gevonden, wordt de laagste van die waarden gebruikt voor de vaststelling van de douanewaarde van de ingevoerde goederen.
 
@@ -2147,7 +2151,7 @@ De volgende kosten, betalingen en commissies behoren niet tot de douanewaarde, v
 
 1. De douanewaarde van goederen, vastgesteld met toepassing van dit artikel, wordt gebaseerd op de transactiewaarde van soortgelijke goederen, die zijn verkocht voor uitvoer naar de BES eilanden en die zijn uitgevoerd op hetzelfde of nagenoeg hetzelfde tijdstip als dat van uitvoer van de goederen waarvan de waarde wordt bepaald.
 
-2. [Artikel 3.20, tweede tot en met vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029236&hoofdstuk=III&titeldeel=2&afdeling=2&paragraaf=3&artikel=3.20&z=2016-01-01&g=2016-01-01), is ten aanzien van de vaststelling van de douanewaarde met toepassing van de transactiewaarde van soortgelijke goederen van overeenkomstige toepassing.
+2. [Artikel 3.20, tweede tot en met vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029236&hoofdstuk=III&titeldeel=2&afdeling=2&paragraaf=3&artikel=3.20&z=2017-01-01&g=2017-01-01), is ten aanzien van de vaststelling van de douanewaarde met toepassing van de transactiewaarde van soortgelijke goederen van overeenkomstige toepassing.
 
 #### Paragraaf 5. De terugrekenmethode
 
@@ -2287,7 +2291,7 @@ Voor de toepassing van deze titel wordt verstaan onder:
 
 - b. de goederen onder ambtelijk toezicht te vernietigen.
 
-2. [Artikel 3.27, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029236&hoofdstuk=III&titeldeel=3&afdeling=2&artikel=3.27&z=2016-01-01&g=2016-01-01), is van overeenkomstige toepassing.
+2. [Artikel 3.27, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029236&hoofdstuk=III&titeldeel=3&afdeling=2&artikel=3.27&z=2017-01-01&g=2017-01-01), is van overeenkomstige toepassing.
 
 3. Toestemming wordt slechts verleend indien bijzondere omstandigheden, die bij de invoer niet waren te voorzien, beletten de goederen weer uit te voeren of daaraan de bestemming te geven met het oog waarop de vrijstelling is verleend.
 
@@ -2353,13 +2357,13 @@ Het is verboden:
 
 ##### Artikel 3.33
 
-1. De invoer van persoonlijke goederen kan in gedeelten plaatsvinden, mits binnen de termijn genoemd in [artikel 3.32, vierde lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0029236&hoofdstuk=III&titeldeel=3&afdeling=3&paragraaf=1&artikel=3.32&z=2016-01-01&g=2016-01-01).
+1. De invoer van persoonlijke goederen kan in gedeelten plaatsvinden, mits binnen de termijn genoemd in [artikel 3.32, vierde lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0029236&hoofdstuk=III&titeldeel=3&afdeling=3&paragraaf=1&artikel=3.32&z=2017-01-01&g=2017-01-01).
 
-2. In bijzondere gevallen kan de inspecteur afwijking van de in [artikel 3.32, vierde lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0029236&hoofdstuk=III&titeldeel=3&afdeling=3&paragraaf=1&artikel=3.32&z=2016-01-01&g=2016-01-01) en artikel 3.32, vijfde lid, aanhef, genoemde termijnen toestaan.
+2. In bijzondere gevallen kan de inspecteur afwijking van de in [artikel 3.32, vierde lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0029236&hoofdstuk=III&titeldeel=3&afdeling=3&paragraaf=1&artikel=3.32&z=2017-01-01&g=2017-01-01) en artikel 3.32, vijfde lid, aanhef, genoemde termijnen toestaan.
 
 ##### Artikel 3.34
 
-De inspecteur kan in de vergunning bepalen dat in aangiften ten invoer die voor de goederen, bedoeld in [artikel 3.32](https://wetten.overheid.nl/jci1.3:c:BWBR0029236&hoofdstuk=III&titeldeel=3&afdeling=3&paragraaf=1&artikel=3.32&z=2016-01-01&g=2016-01-01) van deze wet, worden gedaan, als soort van de goederen mag worden vermeld: verhuisgoed.
+De inspecteur kan in de vergunning bepalen dat in aangiften ten invoer die voor de goederen, bedoeld in [artikel 3.32](https://wetten.overheid.nl/jci1.3:c:BWBR0029236&hoofdstuk=III&titeldeel=3&afdeling=3&paragraaf=1&artikel=3.32&z=2017-01-01&g=2017-01-01) van deze wet, worden gedaan, als soort van de goederen mag worden vermeld: verhuisgoed.
 
 ##### Artikel 3.35
 
@@ -2385,13 +2389,13 @@ Binnen twaalf maanden, te rekenen vanaf de datum waarop de aangifte ten invoer i
 
 ##### Artikel 3.37
 
-1. De invoer van de persoonlijke goederen mag binnen de in [artikel 3.36, derde lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0029236&hoofdstuk=III&titeldeel=3&afdeling=3&paragraaf=1&artikel=3.36&z=2016-01-01&g=2016-01-01), bedoelde termijn in gedeelten plaatsvinden.
+1. De invoer van de persoonlijke goederen mag binnen de in [artikel 3.36, derde lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0029236&hoofdstuk=III&titeldeel=3&afdeling=3&paragraaf=1&artikel=3.36&z=2017-01-01&g=2017-01-01), bedoelde termijn in gedeelten plaatsvinden.
 
 2. De inspecteur kan op grond van bijzondere omstandigheden een verlenging van de in het eerste lid bedoelde termijn toestaan.
 
 ##### Artikel 3.38
 
-1. De inspecteur kan in de vergunning bepalen dat in aangiften ten invoer die voor de goederen, bedoeld in [artikel 3.36 van deze wet](https://wetten.overheid.nl/jci1.3:c:BWBR0029236&hoofdstuk=III&titeldeel=3&afdeling=3&paragraaf=1&artikel=3.36&z=2016-01-01&g=2016-01-01), worden gedaan, als soort van de goederen mag worden vermeld: erfgoed.
+1. De inspecteur kan in de vergunning bepalen dat in aangiften ten invoer die voor de goederen, bedoeld in [artikel 3.36 van deze wet](https://wetten.overheid.nl/jci1.3:c:BWBR0029236&hoofdstuk=III&titeldeel=3&afdeling=3&paragraaf=1&artikel=3.36&z=2017-01-01&g=2017-01-01), worden gedaan, als soort van de goederen mag worden vermeld: erfgoed.
 
 2. Het eerste lid is niet van toepassing op motorvoertuigen.
 
@@ -2415,11 +2419,11 @@ Binnen twaalf maanden, te rekenen vanaf de datum waarop de aangifte ten invoer i
 
 4. De vrijstelling wordt slechts verleend indien een bewijs van inschrijving als bedoeld in het tweede lid en een door de belanghebbende ondertekende lijst wordt overgelegd, inhoudende een omschrijving van alle goederen waarvoor aanspraak op vrijstelling wordt gemaakt.
 
-5. [Artikel 3.35](https://wetten.overheid.nl/jci1.3:c:BWBR0029236&hoofdstuk=III&titeldeel=3&afdeling=3&paragraaf=1&artikel=3.35&z=2016-01-01&g=2016-01-01) is van overeenkomstige toepassing.
+5. [Artikel 3.35](https://wetten.overheid.nl/jci1.3:c:BWBR0029236&hoofdstuk=III&titeldeel=3&afdeling=3&paragraaf=1&artikel=3.35&z=2017-01-01&g=2017-01-01) is van overeenkomstige toepassing.
 
 ##### Artikel 3.40
 
-De inspecteur kan in de vergunning bepalen dat in aangiften ten invoer die voor de goederen, bedoeld in [artikel 3.39](https://wetten.overheid.nl/jci1.3:c:BWBR0029236&hoofdstuk=III&titeldeel=3&afdeling=3&paragraaf=1&artikel=3.39&z=2016-01-01&g=2016-01-01) van deze wet worden gedaan, als soort van de goederen mag worden vermeld: roerende goederen studenten.
+De inspecteur kan in de vergunning bepalen dat in aangiften ten invoer die voor de goederen, bedoeld in [artikel 3.39](https://wetten.overheid.nl/jci1.3:c:BWBR0029236&hoofdstuk=III&titeldeel=3&afdeling=3&paragraaf=1&artikel=3.39&z=2017-01-01&g=2017-01-01) van deze wet worden gedaan, als soort van de goederen mag worden vermeld: roerende goederen studenten.
 
 ##### Artikel 3.41. Zendingen met een te verwaarlozen waarde
 
@@ -2515,7 +2519,7 @@ Voor de invoer met vrijstelling is geen vergunning vereist.
 
 ##### Artikel 3.46
 
-1. Voor in het buitenland verkregen goederen, niet zijnde goederen als bedoeld in [artikel 3.45, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029236&hoofdstuk=III&titeldeel=3&afdeling=3&paragraaf=1&artikel=3.45&z=2016-01-01&g=2016-01-01), wordt de vrijstelling verleend tot een totale waarde van USD 500 per reiziger.
+1. Voor in het buitenland verkregen goederen, niet zijnde goederen als bedoeld in [artikel 3.45, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029236&hoofdstuk=III&titeldeel=3&afdeling=3&paragraaf=1&artikel=3.45&z=2017-01-01&g=2017-01-01), wordt de vrijstelling verleend tot een totale waarde van USD 500 per reiziger.
 
 2. Voor reizigers, jonger dan vijftien jaar is het in het eerste lid bedoelde bedrag beperkt tot USD 150.
 
@@ -2575,11 +2579,11 @@ Vrijstelling van invoerrechten wordt verleend voor de invoer van goederen die de
 
 1. De met vrijstelling ingevoerde goederen mogen niet zonder voorafgaande toestemming van de inspecteur worden uitgeleend, verpand, verhuurd, noch onder bezwarende titel of om niet worden overgedragen.
 
-2. Indien een goed wordt uitgeleend, verpand, verhuurd of overgedragen aan een persoon, instelling of organisatie die op grond van [artikel 3.49](https://wetten.overheid.nl/jci1.3:c:BWBR0029236&hoofdstuk=III&titeldeel=3&afdeling=3&paragraaf=1&artikel=3.49&z=2016-01-01&g=2016-01-01) voor vrijstelling in aanmerking komt, en die het goed:
+2. Indien een goed wordt uitgeleend, verpand, verhuurd of overgedragen aan een persoon, instelling of organisatie die op grond van [artikel 3.49](https://wetten.overheid.nl/jci1.3:c:BWBR0029236&hoofdstuk=III&titeldeel=3&afdeling=3&paragraaf=1&artikel=3.49&z=2017-01-01&g=2017-01-01) voor vrijstelling in aanmerking komt, en die het goed:
 
 - a. gebruikt voor doeleinden die recht geven op deze vrijstelling, blijft de vrijstelling van kracht;
 
-- b. niet gebruikt voor doeleinden die recht geven op deze vrijstelling, is [artikel 3.29](https://wetten.overheid.nl/jci1.3:c:BWBR0029236&hoofdstuk=III&titeldeel=3&afdeling=2&artikel=3.29&z=2016-01-01&g=2016-01-01) van toepassing, met dien verstande dat het bedrag van de verschuldigde invoerrechten wordt vastgesteld op het tijdstip waarop de douaneaangifte wordt aanvaard.
+- b. niet gebruikt voor doeleinden die recht geven op deze vrijstelling, is [artikel 3.29](https://wetten.overheid.nl/jci1.3:c:BWBR0029236&hoofdstuk=III&titeldeel=3&afdeling=2&artikel=3.29&z=2017-01-01&g=2017-01-01) van toepassing, met dien verstande dat het bedrag van de verschuldigde invoerrechten wordt vastgesteld op het tijdstip waarop de douaneaangifte wordt aanvaard.
 
 3. Indien niet langer voldaan wordt aan de voorwaarden om voor de vrijstelling in aanmerking te komen of de met vrijstelling ingevoerde goederen voor andere doeleinden worden gebruikt, zijn het eerste lid en het tweede lid, onderdeel b, van overeenkomstige toepassing.
 
@@ -2629,9 +2633,9 @@ Vrijstelling van invoerrechten wordt verleend voor de invoer van farmaceutische 
 
 ##### Artikel 3.58
 
-1. Goederen die niet meer kunnen worden gebruikt voor de doeleinden waarvoor de vrijstelling is verleend, mogen worden overgedragen aan een andere instelling die krachtens [artikel 3.57](https://wetten.overheid.nl/jci1.3:c:BWBR0029236&hoofdstuk=III&titeldeel=3&afdeling=3&paragraaf=1&artikel=3.57&z=2016-01-01&g=2016-01-01) voor aanwijzing in aanmerking komt, indien de inspecteur hiervoor toestemming heeft gegeven, en de overdracht gratis geschiedt.
+1. Goederen die niet meer kunnen worden gebruikt voor de doeleinden waarvoor de vrijstelling is verleend, mogen worden overgedragen aan een andere instelling die krachtens [artikel 3.57](https://wetten.overheid.nl/jci1.3:c:BWBR0029236&hoofdstuk=III&titeldeel=3&afdeling=3&paragraaf=1&artikel=3.57&z=2017-01-01&g=2017-01-01) voor aanwijzing in aanmerking komt, indien de inspecteur hiervoor toestemming heeft gegeven, en de overdracht gratis geschiedt.
 
-2. Indien een overdracht als bedoeld in het eerste lid, niet gratis geschiedt, is [artikel 3.29](https://wetten.overheid.nl/jci1.3:c:BWBR0029236&hoofdstuk=III&titeldeel=3&afdeling=2&artikel=3.29&z=2016-01-01&g=2016-01-01) van toepassing, met dien verstande dat het bedrag van de verschuldigde invoerrechten wordt vastgesteld op het tijdstip waarop afgezien wordt van de verleende vrijstelling.
+2. Indien een overdracht als bedoeld in het eerste lid, niet gratis geschiedt, is [artikel 3.29](https://wetten.overheid.nl/jci1.3:c:BWBR0029236&hoofdstuk=III&titeldeel=3&afdeling=2&artikel=3.29&z=2017-01-01&g=2017-01-01) van toepassing, met dien verstande dat het bedrag van de verschuldigde invoerrechten wordt vastgesteld op het tijdstip waarop afgezien wordt van de verleende vrijstelling.
 
 3. Indien een instelling niet langer voldoet aan de voorwaarden om voor vrijstelling in aanmerking te komen of de met vrijstelling ingevoerde goederen voor andere doeleinden wil gebruiken, is het tweede lid van overeenkomstige toepassing.
 
@@ -2657,7 +2661,7 @@ De inspecteur kan in de vergunning bepalen dat in aangiften ten invoer als soort
 
 1. Voor de invoer met vrijstelling is geen vergunning vereist.
 
-2. De aangifte ten invoer van de in [artikel 3.60, eerste lid, onderdelen a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0029236&hoofdstuk=III&titeldeel=3&afdeling=3&paragraaf=1&artikel=3.60&z=2016-01-01&g=2016-01-01), bedoelde goederen kan mondeling geschieden.
+2. De aangifte ten invoer van de in [artikel 3.60, eerste lid, onderdelen a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0029236&hoofdstuk=III&titeldeel=3&afdeling=3&paragraaf=1&artikel=3.60&z=2017-01-01&g=2017-01-01), bedoelde goederen kan mondeling geschieden.
 
 ##### Artikel 3.62. In het kader van buitenlandse betrekkingen ontvangen geschenken
 
@@ -2675,9 +2679,9 @@ De inspecteur kan in de vergunning bepalen dat in aangiften ten invoer als soort
 
 ##### Artikel 3.63
 
-1. Voor de invoer met vrijstelling van de in [artikel 3.62, eerste lid, onderdelen a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0029236&hoofdstuk=III&titeldeel=3&afdeling=3&paragraaf=1&artikel=3.62&z=2016-01-01&g=2016-01-01), bedoelde goederen is geen vergunning vereist.
+1. Voor de invoer met vrijstelling van de in [artikel 3.62, eerste lid, onderdelen a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0029236&hoofdstuk=III&titeldeel=3&afdeling=3&paragraaf=1&artikel=3.62&z=2017-01-01&g=2017-01-01), bedoelde goederen is geen vergunning vereist.
 
-2. De aangifte ten invoer van de in [artikel 3.62, eerste lid, onderdelen a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0029236&hoofdstuk=III&titeldeel=3&afdeling=3&paragraaf=1&artikel=3.62&z=2016-01-01&g=2016-01-01), bedoelde goederen kan mondeling geschieden.
+2. De aangifte ten invoer van de in [artikel 3.62, eerste lid, onderdelen a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0029236&hoofdstuk=III&titeldeel=3&afdeling=3&paragraaf=1&artikel=3.62&z=2017-01-01&g=2017-01-01), bedoelde goederen kan mondeling geschieden.
 
 ##### Artikel 3.64. Voor vorsten en staatshoofden bestemde goederen
 
@@ -2733,7 +2737,7 @@ Vrijstelling van invoerrechten wordt verleend voor de invoer van:
 
 ##### Artikel 3.68
 
-1. De in [artikel 3.67, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0029236&hoofdstuk=III&titeldeel=3&afdeling=3&paragraaf=1&artikel=3.67&z=2016-01-01&g=2016-01-01), bedoelde vrijstelling wordt slechts verleend indien:
+1. De in [artikel 3.67, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0029236&hoofdstuk=III&titeldeel=3&afdeling=3&paragraaf=1&artikel=3.67&z=2017-01-01&g=2017-01-01), bedoelde vrijstelling wordt slechts verleend indien:
 
 - a. de monsters als zodanig worden ingevoerd of eerst tijdens de tentoonstelling worden vervaardigd van in grotere hoeveelheden vanuit het buitenland ingevoerde goederen;
 
@@ -2747,9 +2751,9 @@ Vrijstelling van invoerrechten wordt verleend voor de invoer van:
 
 - f. de totale waarde en hoeveelheid van de monsters in een redelijke verhouding staan tot de aard van de tentoonstelling, het bezoekersaantal en de omvang van de deelneming van de inzender.
 
-2. De in [artikel 3.67, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0029236&hoofdstuk=III&titeldeel=3&afdeling=3&paragraaf=1&artikel=3.67&z=2016-01-01&g=2016-01-01), bedoelde vrijstelling is beperkt tot goederen die tijdens de tentoonstelling worden verbruikt of tenietgaan, en waarvan de totale waarde en hoeveelheid in een redelijke verhouding staan tot de aard van de tentoonstelling, het bezoekersaantal en het belang van de deelneming van de exposant.
+2. De in [artikel 3.67, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0029236&hoofdstuk=III&titeldeel=3&afdeling=3&paragraaf=1&artikel=3.67&z=2017-01-01&g=2017-01-01), bedoelde vrijstelling is beperkt tot goederen die tijdens de tentoonstelling worden verbruikt of tenietgaan, en waarvan de totale waarde en hoeveelheid in een redelijke verhouding staan tot de aard van de tentoonstelling, het bezoekersaantal en het belang van de deelneming van de exposant.
 
-3. De in [artikel 3.67, eerste lid, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0029236&hoofdstuk=III&titeldeel=3&afdeling=3&paragraaf=1&artikel=3.67&z=2016-01-01&g=2016-01-01), bedoelde vrijstelling geldt slechts voor drukwerk en voorwerpen voor reclamedoeleinden die uitsluitend bestemd zijn om op de plaats van de tentoonstelling gratis aan het publiek te worden uitgereikt, en waarvan de totale waarde en hoeveelheid in een redelijke verhouding staan tot de aard van de tentoonstelling, het bezoekersaantal en het belang van de deelneming van de exposant.
+3. De in [artikel 3.67, eerste lid, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0029236&hoofdstuk=III&titeldeel=3&afdeling=3&paragraaf=1&artikel=3.67&z=2017-01-01&g=2017-01-01), bedoelde vrijstelling geldt slechts voor drukwerk en voorwerpen voor reclamedoeleinden die uitsluitend bestemd zijn om op de plaats van de tentoonstelling gratis aan het publiek te worden uitgereikt, en waarvan de totale waarde en hoeveelheid in een redelijke verhouding staan tot de aard van de tentoonstelling, het bezoekersaantal en het belang van de deelneming van de exposant.
 
 ##### Artikel 3.69. Zendingen voor het Bureau Intellectuele Eigendom
 
@@ -2841,7 +2845,7 @@ Vrijstelling van invoerrechten wordt verleend voor de invoer van toeristisch rec
 
 - 1°. het motorvoertuig ten minste vier jaar in gebruik is geweest; of
 
-- 2°. van de vrijstelling is afgezien of ambtelijke vernietiging heeft plaatsgevonden overeenkomstig [artikel 3.29](https://wetten.overheid.nl/jci1.3:c:BWBR0029236&hoofdstuk=III&titeldeel=3&afdeling=2&artikel=3.29&z=2016-01-01&g=2016-01-01).
+- 2°. van de vrijstelling is afgezien of ambtelijke vernietiging heeft plaatsgevonden overeenkomstig [artikel 3.29](https://wetten.overheid.nl/jci1.3:c:BWBR0029236&hoofdstuk=III&titeldeel=3&afdeling=2&artikel=3.29&z=2017-01-01&g=2017-01-01).
 
 4. De in het eerste lid, onderdeel c, genoemde vrijstelling wordt slechts verleend indien:
 
@@ -2851,7 +2855,7 @@ Vrijstelling van invoerrechten wordt verleend voor de invoer van toeristisch rec
 
 - 1°. het motorvoertuig ten minste drie jaar in gebruik is geweest; of
 
-- 2°. van de vrijstelling is afgezien of ambtelijke vernietiging heeft plaatsgevonden overeenkomstig [artikel 3.29](https://wetten.overheid.nl/jci1.3:c:BWBR0029236&hoofdstuk=III&titeldeel=3&afdeling=2&artikel=3.29&z=2016-01-01&g=2016-01-01).
+- 2°. van de vrijstelling is afgezien of ambtelijke vernietiging heeft plaatsgevonden overeenkomstig [artikel 3.29](https://wetten.overheid.nl/jci1.3:c:BWBR0029236&hoofdstuk=III&titeldeel=3&afdeling=2&artikel=3.29&z=2017-01-01&g=2017-01-01).
 
 5. Onder geregeld openbaar vervoer of geregelde verbindingen als bedoeld in het eerste lid, onderdelen c en e, wordt verstaan: voor een ieder toegankelijk beroeps- of bedrijfsmatig vervoer van personen of goederen volgens een vaste dienstregeling en op een vastgesteld traject.
 
@@ -2915,7 +2919,7 @@ Vrijstelling van invoerrechten wordt verleend voor de invoer van:
 
 1. Gehele of gedeeltelijke vrijstelling van invoerrechten wordt verleend voor goederen uit het vrije verkeer die tijdelijk naar het buitenland worden uitgevoerd en na aldaar een veredelingshandeling te hebben ondergaan weer worden ingevoerd.
 
-2. In de [artikelen 3.80 tot en met 3.85](https://wetten.overheid.nl/jci1.3:c:BWBR0029236&hoofdstuk=III&titeldeel=3&afdeling=3&paragraaf=1&artikel=3.80&z=2016-01-01&g=2016-01-01) wordt verstaan onder:
+2. In de [artikelen 3.80 tot en met 3.85](https://wetten.overheid.nl/jci1.3:c:BWBR0029236&hoofdstuk=III&titeldeel=3&afdeling=3&paragraaf=1&artikel=3.80&z=2017-01-01&g=2017-01-01) wordt verstaan onder:
 
 - a. **veredelingshandeling:**
 
@@ -2969,7 +2973,7 @@ Voor vrijstelling komen veredelingsproducten in aanmerking die door de vergunnin
 
 1. Gehele vrijstelling wordt verleend voor goederen die gratis zijn hersteld, hetzij op grond van contractuele of wettelijke garantieverplichting, hetzij wegens het bestaan van een fabricagefout, mits met deze gebreken geen rekening is gehouden bij de vaststelling van de douanewaarde ten tijde van de eerste invoer van de goederen.
 
-2. [Artikel 3.81, tweede lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0029236&hoofdstuk=III&titeldeel=3&afdeling=3&paragraaf=1&artikel=3.81&z=2016-01-01&g=2016-01-01), is op de in het eerste lid bedoelde goederen niet van toepassing.
+2. [Artikel 3.81, tweede lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0029236&hoofdstuk=III&titeldeel=3&afdeling=3&paragraaf=1&artikel=3.81&z=2017-01-01&g=2017-01-01), is op de in het eerste lid bedoelde goederen niet van toepassing.
 
 3. Voor goederen die tegen betaling zijn hersteld, wordt als douanewaarde het bedrag in aanmerking genomen dat gelijk is aan de herstellingskosten, mits de betaling van deze kosten de enige prestatie van de vergunninghouder vormt.
 
@@ -3003,17 +3007,17 @@ Voor vrijstelling komen veredelingsproducten in aanmerking die door de vergunnin
 
 ##### Artikel 3.87
 
-1. Vrijstelling als bedoeld in [artikel 3.86, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0029236&hoofdstuk=III&titeldeel=3&afdeling=3&paragraaf=1&artikel=3.86&z=2016-01-01&g=2016-01-01), wordt slechts verleend indien bij de aangifte ten invoer een bewijs van herkomst uit de BES eilanden wordt overlegd dat op verzoek van belanghebbende, na de vaststelling van de identiteit van de goederen, voor de uitvoer wordt afgegeven.
+1. Vrijstelling als bedoeld in [artikel 3.86, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0029236&hoofdstuk=III&titeldeel=3&afdeling=3&paragraaf=1&artikel=3.86&z=2017-01-01&g=2017-01-01), wordt slechts verleend indien bij de aangifte ten invoer een bewijs van herkomst uit de BES eilanden wordt overlegd dat op verzoek van belanghebbende, na de vaststelling van de identiteit van de goederen, voor de uitvoer wordt afgegeven.
 
 2. Indien in verband met bijzondere omstandigheden ten tijde van de uitvoer niet voorzienbaar was dat de goederen weer zouden worden ingevoerd, kan de inspecteur vrijstelling verlenen.
 
 ##### Artikel 3.88
 
-Indien de vrijstelling wordt verleend overeenkomstig de in [artikel 3.87, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029236&hoofdstuk=III&titeldeel=3&afdeling=3&paragraaf=1&artikel=3.87&z=2016-01-01&g=2016-01-01), bedoelde procedure, is geen vergunning vereist.
+Indien de vrijstelling wordt verleend overeenkomstig de in [artikel 3.87, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029236&hoofdstuk=III&titeldeel=3&afdeling=3&paragraaf=1&artikel=3.87&z=2017-01-01&g=2017-01-01), bedoelde procedure, is geen vergunning vereist.
 
 ##### Artikel 3.89
 
-1. Indien de in [artikel 3.86, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0029236&hoofdstuk=III&titeldeel=3&afdeling=3&paragraaf=1&artikel=3.86&z=2016-01-01&g=2016-01-01), bedoelde behandelingen aanleiding zouden hebben gegeven tot heffing van invoerrechten in het geval de goederen in het kader van de vrijstelling voor passieve veredeling zouden zijn uitgevoerd, zijn de bepalingen inzake die vrijstelling van toepassing.
+1. Indien de in [artikel 3.86, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0029236&hoofdstuk=III&titeldeel=3&afdeling=3&paragraaf=1&artikel=3.86&z=2017-01-01&g=2017-01-01), bedoelde behandelingen aanleiding zouden hebben gegeven tot heffing van invoerrechten in het geval de goederen in het kader van de vrijstelling voor passieve veredeling zouden zijn uitgevoerd, zijn de bepalingen inzake die vrijstelling van toepassing.
 
 2. De in het eerste lid bedoelde toepassing blijft achterwege indien de goederen een herstelling of revisie hebben ondergaan die:
 
@@ -3059,7 +3063,7 @@ Indien de vrijstelling wordt verleend overeenkomstig de in [artikel 3.87, eerste
 
 2. De vrijstelling wordt slechts verleend indien het hoofd van de consulaire post in een verklaring bevestigt dat de goederen voor het officiële gebruik van de consulaire post zijn bestemd.
 
-3. [Artikel 3.92, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029236&hoofdstuk=III&titeldeel=3&afdeling=3&paragraaf=1&artikel=3.92&z=2016-01-01&g=2016-01-01), is van overeenkomstige toepassing.
+3. [Artikel 3.92, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029236&hoofdstuk=III&titeldeel=3&afdeling=3&paragraaf=1&artikel=3.92&z=2017-01-01&g=2017-01-01), is van overeenkomstige toepassing.
 
 ##### Artikel 3.94
 
@@ -3073,7 +3077,7 @@ Indien de vrijstelling wordt verleend overeenkomstig de in [artikel 3.87, eerste
 
 3. De vrijstelling wordt slechts verleend indien het hoofd van de consulaire post in een verklaring bevestigt dat de goederen voor het officiële gebruik van de consulaire post zijn bestemd.
 
-4. [Artikel 3.92, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029236&hoofdstuk=III&titeldeel=3&afdeling=3&paragraaf=1&artikel=3.92&z=2016-01-01&g=2016-01-01), is van overeenkomstige toepassing.
+4. [Artikel 3.92, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029236&hoofdstuk=III&titeldeel=3&afdeling=3&paragraaf=1&artikel=3.92&z=2017-01-01&g=2017-01-01), is van overeenkomstige toepassing.
 
 ##### Artikel 3.95
 
@@ -3085,7 +3089,7 @@ Vrijstelling van invoerrechten wordt, onder bij regeling van Onze Minister van F
 
 1. Vrijstelling van invoerrechten wordt verleend voor de invoer van goederen die op de BES eilanden een veredelingshandeling ondergaan.
 
-2. [Artikel 3.80, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029236&hoofdstuk=III&titeldeel=3&afdeling=3&paragraaf=1&artikel=3.80&z=2016-01-01&g=2016-01-01), is van overeenkomstige toepassing.
+2. [Artikel 3.80, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029236&hoofdstuk=III&titeldeel=3&afdeling=3&paragraaf=1&artikel=3.80&z=2017-01-01&g=2017-01-01), is van overeenkomstige toepassing.
 
 3. De vrijstelling geschiedt bij wijze van teruggaaf of onder toepassing van een systeem van zekerheidstelling, zulks ter beoordeling van de inspecteur.
 
@@ -3143,7 +3147,7 @@ Voor de invoer met vrijstelling is geen vergunning vereist.
 
 ##### Artikel 3.101
 
-1. De in [artikel 3.99, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0029236&hoofdstuk=III&titeldeel=3&afdeling=3&paragraaf=2&artikel=3.99&z=2016-01-01&g=2016-01-01), bedoelde vrijstelling wordt verleend voor de invoer van personenvoertuigen indien een schriftelijke aangifte ten invoer is gedaan door inlevering van:
+1. De in [artikel 3.99, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0029236&hoofdstuk=III&titeldeel=3&afdeling=3&paragraaf=2&artikel=3.99&z=2017-01-01&g=2017-01-01), bedoelde vrijstelling wordt verleend voor de invoer van personenvoertuigen indien een schriftelijke aangifte ten invoer is gedaan door inlevering van:
 
 - a. een carnet de passage en douane, dat is afgegeven door en onder aansprakelijkheid van een vereniging die is aangesloten bij de Alliance Internationale de Tourisme of de Fédération Internationale Automobile; of
 
@@ -3161,7 +3165,7 @@ Voor de invoer met vrijstelling is geen vergunning vereist.
 
 ##### Artikel 3.102
 
-1. De in [artikel 3.99, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0029236&hoofdstuk=III&titeldeel=3&afdeling=3&paragraaf=2&artikel=3.99&z=2016-01-01&g=2016-01-01), bedoelde vrijstelling voor ondernemingen wordt verleend voor de invoer van vervoermiddelen die worden gebruikt voor het vervoer van personen of voor het bedrijfsmatig vervoer van goederen, voor opleggers, voor aanhangwagens en voor chassis voor containers.
+1. De in [artikel 3.99, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0029236&hoofdstuk=III&titeldeel=3&afdeling=3&paragraaf=2&artikel=3.99&z=2017-01-01&g=2017-01-01), bedoelde vrijstelling voor ondernemingen wordt verleend voor de invoer van vervoermiddelen die worden gebruikt voor het vervoer van personen of voor het bedrijfsmatig vervoer van goederen, voor opleggers, voor aanhangwagens en voor chassis voor containers.
 
 2. De vrijstelling is van toepassing voor ondernemingen die:
 
@@ -3283,7 +3287,7 @@ Vrijstelling van invoerrechten wordt verleend voor de invoer van laadborden die,
 
 - d. producten die tijdens de tentoonstellingen worden verkregen uit tijdelijk ingevoerde goederen, machines, apparaten of dieren.
 
-2. [Artikel 3.67, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029236&hoofdstuk=III&titeldeel=3&afdeling=3&paragraaf=1&artikel=3.67&z=2016-01-01&g=2016-01-01), is van overeenkomstige toepassing.
+2. [Artikel 3.67, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029236&hoofdstuk=III&titeldeel=3&afdeling=3&paragraaf=1&artikel=3.67&z=2017-01-01&g=2017-01-01), is van overeenkomstige toepassing.
 
 3. De vrijstelling wordt niet verleend indien de goederen bestemd zijn voor particuliere tentoonstellingen die in winkels of handelsruimten worden georganiseerd met het oog op de verkoop van buitenlandse goederen.
 
@@ -3297,7 +3301,7 @@ Vrijstelling van invoerrechten wordt verleend voor de invoer van laadborden die,
 
 ##### Artikel 3.114
 
-Toestemming als bedoeld in [artikel 3.29](https://wetten.overheid.nl/jci1.3:c:BWBR0029236&hoofdstuk=III&titeldeel=3&afdeling=2&artikel=3.29&z=2016-01-01&g=2016-01-01), kan worden verleend zonder dat er sprake behoeft te zijn van bijzondere omstandigheden die bij de invoer niet waren voorzien.
+Toestemming als bedoeld in [artikel 3.29](https://wetten.overheid.nl/jci1.3:c:BWBR0029236&hoofdstuk=III&titeldeel=3&afdeling=2&artikel=3.29&z=2017-01-01&g=2017-01-01), kan worden verleend zonder dat er sprake behoeft te zijn van bijzondere omstandigheden die bij de invoer niet waren voorzien.
 
 ##### Artikel 3.115. Tijdelijk ingevoerd opvoedkundig materiaal
 
@@ -3353,7 +3357,7 @@ Toestemming als bedoeld in [artikel 3.29](https://wetten.overheid.nl/jci1.3:c:BW
 
 - 2°. particuliere instellingen waarvan de voornaamste bezigheid het onderwijs of wetenschappelijk onderzoek is.
 
-3. [Artikel 3 111](https://wetten.overheid.nl/jci1.3:c:BWBR0029236&hoofdstuk=III&titeldeel=3&afdeling=3&paragraaf=2&artikel=3.111&z=2016-01-01&g=2016-01-01) is van overeenkomstige toepassing.
+3. [Artikel 3 111](https://wetten.overheid.nl/jci1.3:c:BWBR0029236&hoofdstuk=III&titeldeel=3&afdeling=3&paragraaf=2&artikel=3.111&z=2017-01-01&g=2017-01-01) is van overeenkomstige toepassing.
 
 ##### Artikel 3.118. Tijdelijk ingevoerd medisch-chirurgisch en laboratoriummateriaal
 
@@ -3367,7 +3371,7 @@ Toestemming als bedoeld in [artikel 3.29](https://wetten.overheid.nl/jci1.3:c:BW
 
 2. Onder incidentele zending als bedoeld in het eerste lid, onderdeel a, wordt verstaan iedere zending van medisch-chirurgisch en laboratoriummateriaal op verzoek van ziekenhuizen die wegens bijzondere omstandigheden dringend behoefte hebben aan dit materiaal om hun ontoereikende eigen uitrusting aan te vullen.
 
-3. [Artikel 3 116](https://wetten.overheid.nl/jci1.3:c:BWBR0029236&hoofdstuk=III&titeldeel=3&afdeling=3&paragraaf=2&artikel=3.116&z=2016-01-01&g=2016-01-01) is van overeenkomstige toepassing.
+3. [Artikel 3 116](https://wetten.overheid.nl/jci1.3:c:BWBR0029236&hoofdstuk=III&titeldeel=3&afdeling=3&paragraaf=2&artikel=3.116&z=2017-01-01&g=2017-01-01) is van overeenkomstige toepassing.
 
 ##### Artikel 3.119. Tijdelijk ingevoerd rampenbestrijdingsmateriaal
 
@@ -3467,7 +3471,7 @@ Vrijstelling van invoerrechten wordt verleend voor de invoer van vervangende pro
 
 - c. informatie- en geluidsdragers, van opnamen voorzien, voor niet-commerciële doeleinden, die aan een op de BES eilanden gevestigde persoon gratis ter beschikking worden gesteld.
 
-2. [Artikel 3.128](https://wetten.overheid.nl/jci1.3:c:BWBR0029236&hoofdstuk=III&titeldeel=3&afdeling=3&paragraaf=2&artikel=3.128&z=2016-01-01&g=2016-01-01) is van overeenkomstige toepassing.
+2. [Artikel 3.128](https://wetten.overheid.nl/jci1.3:c:BWBR0029236&hoofdstuk=III&titeldeel=3&afdeling=3&paragraaf=2&artikel=3.128&z=2017-01-01&g=2017-01-01) is van overeenkomstige toepassing.
 
 ##### Artikel 3.130. Tijdelijk ingevoerde persoonlijke bagage van reizigers
 
@@ -3533,7 +3537,9 @@ Vrijstelling van invoerrechten wordt verleend voor de invoer van bij regeling va
 
 - d. lege lijkkisten of urnen die worden ingevoerd om te dienen bij het transport van lijken of as van overledenen naar het buitenland;
 
-- e. materieel ten behoeve van het houden van militaire oefeningen.
+- e. materieel ten behoeve van het houden van militaire oefeningen;
+
+- f. materieel ten behoeve van het houden van rampenoefeningen.
 
 2. De vrijstelling, bedoeld in het eerste lid, onderdelen a tot en met c is slechts van toepassing indien de goederen toebehoren aan personen die hun normale verblijfplaats hebben in het buitenland.
 
@@ -3541,7 +3547,7 @@ Vrijstelling van invoerrechten wordt verleend voor de invoer van bij regeling va
 
 ##### Artikel 3.138
 
-1. De met vrijstelling ingevoerde goederen, bedoeld in [artikel 3 137, eerste lid, onderdelen a tot en met c](https://wetten.overheid.nl/jci1.3:c:BWBR0029236&hoofdstuk=III&titeldeel=3&afdeling=3&paragraaf=2&artikel=3.137&z=2016-01-01&g=2016-01-01) worden weer uitgevoerd binnen drie maanden na de datum van invoer.
+1. De met vrijstelling ingevoerde goederen, bedoeld in [artikel 3.137, eerste lid, onderdelen a tot en met f](https://wetten.overheid.nl/jci1.3:c:BWBR0029236&hoofdstuk=III&titeldeel=3&afdeling=3&paragraaf=2&artikel=3.137&z=2017-01-01&g=2017-01-01) worden weer uitgevoerd binnen drie maanden na de datum van invoer.
 
 2. De inspecteur kan op grond van bijzondere omstandigheden verlenging van de in het eerste lid bedoelde termijn met ten hoogste een maand toestaan.
 
@@ -3605,9 +3611,9 @@ Voor de toepassing van deze titel wordt verstaan onder teruggaaf:
 
 ##### Artikel 3.145
 
-1. Teruggaaf geschiedt, behoudens het bepaalde in [artikel 3 149, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029236&hoofdstuk=III&titeldeel=4&afdeling=2&paragraaf=1&artikel=3.149&z=2016-01-01&g=2016-01-01), op een schriftelijk bij de inspecteur in te dienen verzoek.
+1. Teruggaaf geschiedt, behoudens het bepaalde in [artikel 3 149, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029236&hoofdstuk=III&titeldeel=4&afdeling=2&paragraaf=1&artikel=3.149&z=2017-01-01&g=2017-01-01), op een schriftelijk bij de inspecteur in te dienen verzoek.
 
-2. Het verzoek om teruggaaf wordt binnen zes maanden na het doen van de aangifte ten invoer ingediend.
+2. Het verzoek om teruggaaf wordt binnen vijf jaren na het doen van de aangifte ten invoer ingediend.
 
 3. Het verzoek wordt ingediend door de persoon die gehouden is de invoerrechten te voldoen of die de invoerrechten heeft voldaan, dan wel degene die hem in zijn rechten en verplichtingen heeft opgevolgd, dan wel de vertegenwoordiger van eerder bedoelde personen.
 
@@ -3623,7 +3629,7 @@ Teruggaaf wordt niet verleend indien het bedrag van de terug te geven invoerrech
 
 ##### Artikel 3.147
 
-1. Indien bij toepassing van [artikel 3 151](https://wetten.overheid.nl/jci1.3:c:BWBR0029236&hoofdstuk=III&titeldeel=4&afdeling=2&paragraaf=3&artikel=3.151&z=2016-01-01&g=2016-01-01) of [artikel 3 153](https://wetten.overheid.nl/jci1.3:c:BWBR0029236&hoofdstuk=III&titeldeel=4&afdeling=2&paragraaf=4&artikel=3.153&z=2016-01-01&g=2016-01-01) de goederen moeten worden weder uitgevoerd, dan vindt deze wederuitvoer niet plaats alvorens een beslissing is genomen op het verzoek om teruggaaf.
+1. Indien bij toepassing van [artikel 3 151](https://wetten.overheid.nl/jci1.3:c:BWBR0029236&hoofdstuk=III&titeldeel=4&afdeling=2&paragraaf=3&artikel=3.151&z=2017-01-01&g=2017-01-01) of [artikel 3 153](https://wetten.overheid.nl/jci1.3:c:BWBR0029236&hoofdstuk=III&titeldeel=4&afdeling=2&paragraaf=4&artikel=3.153&z=2017-01-01&g=2017-01-01) de goederen moeten worden weder uitgevoerd, dan vindt deze wederuitvoer niet plaats alvorens een beslissing is genomen op het verzoek om teruggaaf.
 
 2. In daartoe aanleiding gevende gevallen kan de inspecteur toestaan dat de wederuitvoer plaatsvindt, voordat een beslissing op het verzoek is genomen.
 
@@ -3645,7 +3651,7 @@ Het is verboden onjuiste of onvolledige gegevens te verstrekken dan wel handelin
 
 2. De verzoeker dient aan te tonen dat wordt voldaan aan het criterium, opgenomen in het eerste lid.
 
-3. De inspecteur gaat ambtshalve tot teruggaaf over, indien hij zelf gedurende de termijn bedoeld in [artikel 3 145, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029236&hoofdstuk=III&titeldeel=4&afdeling=1&artikel=3.145&z=2016-01-01&g=2016-01-01), het bestaan van een omstandigheid als bedoeld in het eerste lid, vaststelt.
+3. De inspecteur gaat ambtshalve tot teruggaaf over, indien hij zelf gedurende de termijn bedoeld in [artikel 3 145, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029236&hoofdstuk=III&titeldeel=4&afdeling=1&artikel=3.145&z=2017-01-01&g=2017-01-01), het bestaan van een omstandigheid als bedoeld in het eerste lid, vaststelt.
 
 #### Paragraaf 2. Bij vergissing aangegeven goederen
 
@@ -3687,7 +3693,7 @@ Het is verboden onjuiste of onvolledige gegevens te verstrekken dan wel handelin
 
 ##### Artikel 3.152
 
-Teruggaaf van invoerrechten voor de in [artikel 3 151, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029236&hoofdstuk=III&titeldeel=4&afdeling=2&paragraaf=3&artikel=3.151&z=2016-01-01&g=2016-01-01), bedoelde goederen wordt niet verleend in de gevallen waarin:
+Teruggaaf van invoerrechten voor de in [artikel 3 151, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029236&hoofdstuk=III&titeldeel=4&afdeling=2&paragraaf=3&artikel=3.151&z=2017-01-01&g=2017-01-01), bedoelde goederen wordt niet verleend in de gevallen waarin:
 
 - a. de gebreken in aanmerking zijn genomen bij de opstelling van de voorwaarden van het contract op grond waarvan de goederen ten invoer zijn aangegeven, met name bij de vaststelling van de prijs; of
 
@@ -3777,7 +3783,7 @@ Op dit hoofdstuk en de daarop berustende bepalingen, behoudens die ter zake van 
 
 ##### Artikel 4.5
 
-1. Onverminderd [artikel 4.48](https://wetten.overheid.nl/jci1.3:c:BWBR0029236&hoofdstuk=IV&titeldeel=5&artikel=4.48&z=2016-01-01&g=2016-01-01) zijn de bepalingen van deze wet inzake de heffing van invoerrecht van overeenkomstige toepassing ter zake van de heffing van accijns bij invoer.
+1. Onverminderd [artikel 4.48](https://wetten.overheid.nl/jci1.3:c:BWBR0029236&hoofdstuk=IV&titeldeel=5&artikel=4.48&z=2017-01-01&g=2017-01-01) zijn de bepalingen van deze wet inzake de heffing van invoerrecht van overeenkomstige toepassing ter zake van de heffing van accijns bij invoer.
 
 2. Met inachtneming van bij algemene maatregel van bestuur te stellen voorwaarden wordt voor de toepassing van dit hoofdstuk niet als invoer aangemerkt het brengen van een accijnsgoed vanuit een plaats buiten de BES eilanden of vanuit een plaats voor tijdelijke opslag dan wel vanuit een douane-entrepot of een handels- en dienstenentrepot naar een accijnsgoederenplaats die voor dat soort accijnsgoed als zodanig is aangewezen.
 
@@ -3799,7 +3805,7 @@ Het is niet toegestaan:
 
 ##### Artikel 4.7
 
-Onder benzine wordt verstaan elk product dat is ingedeeld onder postonderverdeling 2710.12 van het geharmoniseerde systeem, bedoeld in [artikel 3.1, tweede lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0029236&hoofdstuk=III&titeldeel=1&artikel=3.1&z=2016-01-01&g=2016-01-01).
+Onder benzine wordt verstaan elk product dat is ingedeeld onder postonderverdeling 2710.12 van het geharmoniseerde systeem, bedoeld in [artikel 3.1, tweede lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0029236&hoofdstuk=III&titeldeel=1&artikel=3.1&z=2017-01-01&g=2017-01-01).
 
 ##### Artikel 4.8
 
@@ -3813,7 +3819,7 @@ Onder benzine wordt verstaan elk product dat is ingedeeld onder postonderverdeli
 
 ##### Artikel 4.9
 
-Onder bier wordt verstaan elk product dat is ingedeeld onder post 22.03 van het geharmoniseerde systeem als bedoeld in [artikel 3.1, tweede lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0029236&hoofdstuk=III&titeldeel=1&artikel=3.1&z=2016-01-01&g=2016-01-01), voor zover dit product een alcoholgehalte heeft van meer dan 0,5%vol.
+Onder bier wordt verstaan elk product dat is ingedeeld onder post 22.03 van het geharmoniseerde systeem als bedoeld in [artikel 3.1, tweede lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0029236&hoofdstuk=III&titeldeel=1&artikel=3.1&z=2017-01-01&g=2017-01-01), voor zover dit product een alcoholgehalte heeft van meer dan 0,5%vol.
 
 ##### Artikel 4.10
 
@@ -3823,7 +3829,7 @@ Onder bier wordt verstaan elk product dat is ingedeeld onder post 22.03 van het 
 
 ##### Artikel 4.11
 
-Onder wijn wordt verstaan elk product dat is ingedeeld onder de posten 22.04, 22.05 en 22.06 van het geharmoniseerde systeem als bedoeld in [artikel 3.1, tweede lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0029236&hoofdstuk=III&titeldeel=1&artikel=3.1&z=2016-01-01&g=2016-01-01), met een alcoholgehalte van ten hoogste 20%vol.
+Onder wijn wordt verstaan elk product dat is ingedeeld onder de posten 22.04, 22.05 en 22.06 van het geharmoniseerde systeem als bedoeld in [artikel 3.1, tweede lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0029236&hoofdstuk=III&titeldeel=1&artikel=3.1&z=2017-01-01&g=2017-01-01), met een alcoholgehalte van ten hoogste 20%vol.
 
 ##### Artikel 4.12
 
@@ -3857,7 +3863,7 @@ Onder tabaksproducten worden verstaan:
 
 ##### Artikel 4.16
 
-Onder sigaretten wordt verstaan elk product dat is ingedeeld onder postonderverdeling 2402.20 van het geharmoniseerde systeem, bedoeld in [artikel 3.1, tweede lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0029236&hoofdstuk=III&titeldeel=1&artikel=3.1&z=2016-01-01&g=2016-01-01).
+Onder sigaretten wordt verstaan elk product dat is ingedeeld onder postonderverdeling 2402.20 van het geharmoniseerde systeem, bedoeld in [artikel 3.1, tweede lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0029236&hoofdstuk=III&titeldeel=1&artikel=3.1&z=2017-01-01&g=2017-01-01).
 
 ##### Artikel 4.17
 
@@ -3869,11 +3875,11 @@ Onder sigaretten wordt verstaan elk product dat is ingedeeld onder postonderverd
 
 - c. in geval van invoer: USD 8,69.
 
-2. Voor de berekening van de accijns wordt een sigaret als bedoeld in [artikel 4.16](https://wetten.overheid.nl/jci1.3:c:BWBR0029236&hoofdstuk=IV&titeldeel=2&artikel=4.16&z=2016-01-01&g=2016-01-01) aangemerkt als twee sigaretten wanneer deze, zonder filter of mondstuk, meer dan 8 cm doch niet meer dan 11 cm lang is en als drie sigaretten wanneer deze, zonder filter of mondstuk, meer dan 11 cm doch niet meer dan 14 cm lang is, enzovoort.
+2. Voor de berekening van de accijns wordt een sigaret als bedoeld in [artikel 4.16](https://wetten.overheid.nl/jci1.3:c:BWBR0029236&hoofdstuk=IV&titeldeel=2&artikel=4.16&z=2017-01-01&g=2017-01-01) aangemerkt als twee sigaretten wanneer deze, zonder filter of mondstuk, meer dan 8 cm doch niet meer dan 11 cm lang is en als drie sigaretten wanneer deze, zonder filter of mondstuk, meer dan 11 cm doch niet meer dan 14 cm lang is, enzovoort.
 
 ##### Artikel 4.18
 
-1. Onder sigaren wordt verstaan elk product dat is ingedeeld onder postonderverdeling 2402.10 van het geharmoniseerde systeem als bedoeld in [artikel 3.1, tweede lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0029236&hoofdstuk=III&titeldeel=1&artikel=3.1&z=2016-01-01&g=2016-01-01).
+1. Onder sigaren wordt verstaan elk product dat is ingedeeld onder postonderverdeling 2402.10 van het geharmoniseerde systeem als bedoeld in [artikel 3.1, tweede lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0029236&hoofdstuk=III&titeldeel=1&artikel=3.1&z=2017-01-01&g=2017-01-01).
 
 2. Onder cigarillo’s worden verstaan sigaren die per stuk niet meer wegen dan drie gram.
 
@@ -3907,9 +3913,9 @@ Een plaats kan alleen als accijnsgoederenplaats worden gebruikt indien daartoe o
 
 1. Als accijnsgoederenplaats kan in aanmerking komen een plaats waar:
 
-- a. accijnsgoederen worden vervaardigd;
+- a. accijnsgoederen worden vervaardigd of verwerkt;
 
-- b. geen accijnsgoederen worden vervaardigd maar die dient voor de opslag van accijnsgoederen, indien de hoeveelheid accijnsgoederen die gemiddeld over een jaar voorhanden is meer bedraagt dan een bij regeling van Onze Minister van Financiën per soort accijnsgoed vast te stellen hoeveelheid.
+- b. geen accijnsgoederen worden vervaardigd of verwerkt maar die dient voor de opslag van accijnsgoederen, indien de hoeveelheid accijnsgoederen die gemiddeld over een jaar voorhanden is meer bedraagt dan een bij regeling van Onze Minister van Financiën per soort accijnsgoed vast te stellen hoeveelheid.
 
 2. Een plaats van waaruit accijnsgoederen worden geleverd aan een verbruiker kan niet in aanmerking komen als accijnsgoederenplaats.
 
@@ -3991,9 +3997,9 @@ De vergunning voor een accijnsgoederenplaats kan door de inspecteur worden inget
 
 ##### Artikel 4.32
 
-1. Het intrekken van een vergunning ingevolge [artikel 4.31, onderdeel a of b](https://wetten.overheid.nl/jci1.3:c:BWBR0029236&hoofdstuk=IV&titeldeel=3&afdeling=2&artikel=4.31&z=2016-01-01&g=2016-01-01), kan niet eerder geschieden dan één maand nadat de inspecteur de vergunninghouder schriftelijk in kennis heeft gesteld van de omstandigheden die naar zijn oordeel het intrekken rechtvaardigen.
+1. Het intrekken van een vergunning ingevolge [artikel 4.31, onderdeel a of b](https://wetten.overheid.nl/jci1.3:c:BWBR0029236&hoofdstuk=IV&titeldeel=3&afdeling=2&artikel=4.31&z=2017-01-01&g=2017-01-01), kan niet eerder geschieden dan één maand nadat de inspecteur de vergunninghouder schriftelijk in kennis heeft gesteld van de omstandigheden die naar zijn oordeel het intrekken rechtvaardigen.
 
-2. Het intrekken van een vergunning ingevolge [artikel 4.31, onderdeel c, d, e of f](https://wetten.overheid.nl/jci1.3:c:BWBR0029236&hoofdstuk=IV&titeldeel=3&afdeling=2&artikel=4.31&z=2016-01-01&g=2016-01-01), kan onmiddellijk geschieden.
+2. Het intrekken van een vergunning ingevolge [artikel 4.31, onderdeel c, d, e of f](https://wetten.overheid.nl/jci1.3:c:BWBR0029236&hoofdstuk=IV&titeldeel=3&afdeling=2&artikel=4.31&z=2017-01-01&g=2017-01-01), kan onmiddellijk geschieden.
 
 ##### Artikel 4.33
 
@@ -4015,7 +4021,7 @@ De vergunning voor een accijnsgoederenplaats kan door de inspecteur worden inget
 
 - a. **bij toepassing van artikel 4.4, eerste lid, onderdeel b:** van de vergunninghouder van de accijnsgoederenplaats dan wel in voorkomend geval van de vergunninghouder van het douane-entrepot of van het handels- en dienstenentrepot;
 
-- b. **bij toepassing van artikel 4.4, eerste lid, onderdeel c:** van degene die een accijnsgoed vervaardigt of heeft vervaardigd, of die een accijnsgoed voorhanden heeft of heeft gehad dat niet overeenkomstig de bepalingen van deze wet in de heffing is betrokken, dan wel van een ieder als bedoeld in [artikel 4.45](https://wetten.overheid.nl/jci1.3:c:BWBR0029236&hoofdstuk=IV&titeldeel=3&afdeling=4&artikel=4.45&z=2016-01-01&g=2016-01-01).
+- b. **bij toepassing van artikel 4.4, eerste lid, onderdeel c:** van degene die een accijnsgoed vervaardigt of heeft vervaardigd, of die een accijnsgoed voorhanden heeft of heeft gehad dat niet overeenkomstig de bepalingen van deze wet in de heffing is betrokken, dan wel van een ieder als bedoeld in [artikel 4.45](https://wetten.overheid.nl/jci1.3:c:BWBR0029236&hoofdstuk=IV&titeldeel=3&afdeling=4&artikel=4.45&z=2017-01-01&g=2017-01-01).
 
 ##### Artikel 4.35
 
@@ -4065,7 +4071,7 @@ De accijns wordt berekend naar het tarief dat geldt op het tijdstip van de uitsl
 
 ##### Artikel 4.41
 
-1. Het wijzigen van het bedrag van de zekerheid alsmede het afwijzen van een verzoek als bedoeld in [artikel 4.40, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029236&hoofdstuk=IV&titeldeel=3&afdeling=4&artikel=4.40&z=2016-01-01&g=2016-01-01), geschiedt bij beschikking.
+1. Het wijzigen van het bedrag van de zekerheid alsmede het afwijzen van een verzoek als bedoeld in [artikel 4.40, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029236&hoofdstuk=IV&titeldeel=3&afdeling=4&artikel=4.40&z=2017-01-01&g=2017-01-01), geschiedt bij beschikking.
 
 2. Binnen acht weken na ontvangst van het verzoek geeft de inspecteur een beschikking op dat verzoek, dan wel zendt hij de in het derde lid bedoelde kennisgeving.
 
@@ -4131,7 +4137,7 @@ Bij regeling van Onze Minister van Financiën wordt, onder daarbij te stellen vo
 
 ##### Artikel 4.50
 
-Vrijstelling van accijns wordt verleend ter zake van de uitslag en invoer van ethylalcohol en andere alcoholhoudende producten als bedoeld in [artikel 4.13, onderdelen a en d](https://wetten.overheid.nl/jci1.3:c:BWBR0029236&hoofdstuk=IV&titeldeel=2&artikel=4.13&z=2016-01-01&g=2016-01-01), die op bij regeling van Onze Minister van Financiën voorgeschreven wijze zijn gedenatureerd.
+Vrijstelling van accijns wordt verleend ter zake van de uitslag en invoer van ethylalcohol en andere alcoholhoudende producten als bedoeld in [artikel 4.13, onderdelen a en d](https://wetten.overheid.nl/jci1.3:c:BWBR0029236&hoofdstuk=IV&titeldeel=2&artikel=4.13&z=2017-01-01&g=2017-01-01), die op bij regeling van Onze Minister van Financiën voorgeschreven wijze zijn gedenatureerd.
 
 ## Titel 5a. **Teruggaaf**
 
@@ -4141,13 +4147,13 @@ Vrijstelling van accijns wordt verleend ter zake van de uitslag en invoer van et
 
 1. Tabaksproducten moeten bij de uitslag en de invoer zijn voorzien van een accijnszegel.
 
-2. Tabaksproducten die zijn bestemd voor het verbruik als bedoeld in [artikel 4.4, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0029236&hoofdstuk=IV&titeldeel=1&afdeling=1&artikel=4.4&z=2016-01-01&g=2016-01-01), mogen niet zijn voorzien van een accijnszegel.
+2. Tabaksproducten die zijn bestemd voor het verbruik als bedoeld in [artikel 4.4, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0029236&hoofdstuk=IV&titeldeel=1&afdeling=1&artikel=4.4&z=2017-01-01&g=2017-01-01), mogen niet zijn voorzien van een accijnszegel.
 
 3. Bij regeling van Onze Minister van Financiën kunnen, onder daarbij te stellen voorwaarden, gevallen worden aangewezen waarin het eerste lid niet van toepassing is.
 
 ##### Artikel 4.52
 
-Een vergunning voor een accijnsgoederenplaats voor tabaksproducten kan, onverminderd het bepaalde in de [artikelen 4.23, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029236&hoofdstuk=IV&titeldeel=3&afdeling=1&artikel=4.23&z=2016-01-01&g=2016-01-01), en [4.24](https://wetten.overheid.nl/jci1.3:c:BWBR0029236&hoofdstuk=IV&titeldeel=3&afdeling=1&artikel=4.24&z=2016-01-01&g=2016-01-01) uitsluitend worden verkregen door degene die:
+Een vergunning voor een accijnsgoederenplaats voor tabaksproducten kan, onverminderd het bepaalde in de [artikelen 4.23, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029236&hoofdstuk=IV&titeldeel=3&afdeling=1&artikel=4.23&z=2017-01-01&g=2017-01-01), en [4.24](https://wetten.overheid.nl/jci1.3:c:BWBR0029236&hoofdstuk=IV&titeldeel=3&afdeling=1&artikel=4.24&z=2017-01-01&g=2017-01-01) uitsluitend worden verkregen door degene die:
 
 - a. tabaksproducten vervaardigt;
 
@@ -4157,7 +4163,7 @@ Een vergunning voor een accijnsgoederenplaats voor tabaksproducten kan, onvermin
 
 ##### Artikel 4.53
 
-1. Accijnszegels, bedoeld in [4.51, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029236&hoofdstuk=IV&titeldeel=6&afdeling=1&artikel=4.51&z=2016-01-01&g=2016-01-01), kunnen worden aangevraagd bij de inspecteur door:
+1. Accijnszegels, bedoeld in [4.51, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029236&hoofdstuk=IV&titeldeel=6&afdeling=1&artikel=4.51&z=2017-01-01&g=2017-01-01), kunnen worden aangevraagd bij de inspecteur door:
 
 - a. de vergunninghouder van een accijnsgoederenplaats voor tabaksproducten;
 
@@ -4177,9 +4183,9 @@ Een vergunning voor een accijnsgoederenplaats voor tabaksproducten kan, onvermin
 
 3. Het bedrag van de zekerheid wordt vastgesteld door de inspecteur. De vaststelling geschiedt tot een zodanig bedrag dat het bedrag aan accijns dat de zegels vertegenwoordigen voldoende verzekerd kan worden geacht.
 
-4. Met betrekking tot de zekerheid, bedoeld in het tweede lid, zijn de [artikelen 4.40 tot en met 4.43](https://wetten.overheid.nl/jci1.3:c:BWBR0029236&hoofdstuk=IV&titeldeel=3&afdeling=4&artikel=4.40&z=2016-01-01&g=2016-01-01) van overeenkomstige toepassing.
+4. Met betrekking tot de zekerheid, bedoeld in het tweede lid, zijn de [artikelen 4.40 tot en met 4.43](https://wetten.overheid.nl/jci1.3:c:BWBR0029236&hoofdstuk=IV&titeldeel=3&afdeling=4&artikel=4.40&z=2017-01-01&g=2017-01-01) van overeenkomstige toepassing.
 
-5. Indien de vergunninghouder van een accijnsgoederenplaats zekerheid heeft gesteld op de voet van [artikel 4.39](https://wetten.overheid.nl/jci1.3:c:BWBR0029236&hoofdstuk=IV&titeldeel=3&afdeling=4&artikel=4.39&z=2016-01-01&g=2016-01-01) kan die zekerheid mede dienen als zekerheid als bedoeld in het tweede lid.
+5. Indien de vergunninghouder van een accijnsgoederenplaats zekerheid heeft gesteld op de voet van [artikel 4.39](https://wetten.overheid.nl/jci1.3:c:BWBR0029236&hoofdstuk=IV&titeldeel=3&afdeling=4&artikel=4.39&z=2017-01-01&g=2017-01-01) kan die zekerheid mede dienen als zekerheid als bedoeld in het tweede lid.
 
 6. Op de verschuldigd geworden betaling is [titel 5 van hoofdstuk VIII van de Belastingwet BES](https://wetten.overheid.nl/jci1.3:c:BWBR0029244&titeldeel=5) van toepassing als ware de betaling accijns.
 
@@ -4233,7 +4239,7 @@ Een vergunning voor een accijnsgoederenplaats voor tabaksproducten kan, onvermin
 
 ##### Artikel 4.59
 
-In de vergunning voor een accijnsgoederenplaats voor tabaksproducten kan worden toegestaan dat de vergunninghouder onder daarbij te stellen voorwaarden gedeeltelijk tot verbruik bereide tabak of tabaksproducten al dan niet voorzien van accijnszegels, tijdelijk buiten de accijnsgoederenplaats bepaalde bewerkingen of verpakkingshandelingen kan laten ondergaan zonder dat het tijdelijk buiten de accijnsgoederenplaats brengen van die tabaksproducten, in afwijking van [artikel 4.4](https://wetten.overheid.nl/jci1.3:c:BWBR0029236&hoofdstuk=IV&titeldeel=1&afdeling=1&artikel=4.4&z=2016-01-01&g=2016-01-01), wordt aangemerkt als uitslag.
+In de vergunning voor een accijnsgoederenplaats voor tabaksproducten kan worden toegestaan dat de vergunninghouder onder daarbij te stellen voorwaarden gedeeltelijk tot verbruik bereide tabak of tabaksproducten al dan niet voorzien van accijnszegels, tijdelijk buiten de accijnsgoederenplaats bepaalde bewerkingen of verpakkingshandelingen kan laten ondergaan zonder dat het tijdelijk buiten de accijnsgoederenplaats brengen van die tabaksproducten, in afwijking van [artikel 4.4](https://wetten.overheid.nl/jci1.3:c:BWBR0029236&hoofdstuk=IV&titeldeel=1&afdeling=1&artikel=4.4&z=2017-01-01&g=2017-01-01), wordt aangemerkt als uitslag.
 
 ### Afdeling 2. Controlebepalingen
 
@@ -4321,7 +4327,7 @@ Vervallen
 
 ##### Artikel 4.69
 
-1. Het is niet toegestaan tabaksproducten te verkopen, te koop aan te bieden of af te leveren indien de verpakking niet voldoet aan de bij of krachtens [artikel 4.56](https://wetten.overheid.nl/jci1.3:c:BWBR0029236&hoofdstuk=IV&titeldeel=6&afdeling=1&artikel=4.56&z=2016-01-01&g=2016-01-01) gestelde voorwaarden of de accijnszegels niet ongeschonden op de voorgeschreven wijze zijn aangebracht.
+1. Het is niet toegestaan tabaksproducten te verkopen, te koop aan te bieden of af te leveren indien de verpakking niet voldoet aan de bij of krachtens [artikel 4.56](https://wetten.overheid.nl/jci1.3:c:BWBR0029236&hoofdstuk=IV&titeldeel=6&afdeling=1&artikel=4.56&z=2017-01-01&g=2017-01-01) gestelde voorwaarden of de accijnszegels niet ongeschonden op de voorgeschreven wijze zijn aangebracht.
 
 2. Bij regeling van Onze Minister van Financiën kan, onder daarbij te stellen voorwaarden, afwijking van het eerste lid worden toegestaan.
 
@@ -4371,11 +4377,11 @@ Het is een vergunninghouder van een accijnsgoederenplaats voor tabaksproducten n
 
 ##### Artikel 5.4
 
-1. Tot een handels- en dienstenentrepot wordt alleen toegelaten een rechtspersoon met een in aandelen verdeeld kapitaal die uitsluitend in één of meer handels- en dienstenentrepots diensten als bedoeld in [artikel 5.2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029236&hoofdstuk=V&afdeling=1&artikel=5.2&z=2016-01-01&g=2016-01-01), wil verrichten of goederen wil opslaan, verwerken, bewerken, monteren, verpakken, tentoonstellen of anderszins behandelen, tenzij een vergunning is verleend als bedoeld in [artikel 5.8](https://wetten.overheid.nl/jci1.3:c:BWBR0029236&hoofdstuk=V&afdeling=5&artikel=5.8&z=2016-01-01&g=2016-01-01), de daarmee te realiseren omzet uitsluitend wordt behaald met het verrichten van deze prestaties aan niet op de BES eilanden woonachtige of gevestigde personen of aan een in een handels- en dienstenentrepot gevestigd ander bedrijf.
+1. Tot een handels- en dienstenentrepot wordt alleen toegelaten een rechtspersoon met een in aandelen verdeeld kapitaal die uitsluitend in één of meer handels- en dienstenentrepots diensten als bedoeld in [artikel 5.2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029236&hoofdstuk=V&afdeling=1&artikel=5.2&z=2017-01-01&g=2017-01-01), wil verrichten of goederen wil opslaan, verwerken, bewerken, monteren, verpakken, tentoonstellen of anderszins behandelen, tenzij een vergunning is verleend als bedoeld in [artikel 5.8](https://wetten.overheid.nl/jci1.3:c:BWBR0029236&hoofdstuk=V&afdeling=5&artikel=5.8&z=2017-01-01&g=2017-01-01), de daarmee te realiseren omzet uitsluitend wordt behaald met het verrichten van deze prestaties aan niet op de BES eilanden woonachtige of gevestigde personen of aan een in een handels- en dienstenentrepot gevestigd ander bedrijf.
 
 2. Na een daartoe strekkend schriftelijk verzoek kan door de inspecteur aan een rechtspersoon toelating tot een handels- en dienstenentrepot worden verleend indien het uit te oefenen bedrijf zal bijdragen aan de economische ontwikkeling van ten minste één van de BES eilanden door de uitbouw van de BES eilanden als internationaal centrum van dienstverlening of als internationaal distributiecentrum, mits:
 
-- a. de omzet behaald met de levering van diensten als bedoeld in [artikel 5.2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029236&hoofdstuk=V&afdeling=1&artikel=5.2&z=2016-01-01&g=2016-01-01), op jaarbasis minimaal USD 80 000 bedraagt dan wel omzet behaald met het opslaan, verwerken, bewerken, monteren, verpakken, tentoonstellen of anderszins behandelen van goederen op jaarbasis minimaal USD 800 000 bedraagt;
+- a. de omzet behaald met de levering van diensten als bedoeld in [artikel 5.2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029236&hoofdstuk=V&afdeling=1&artikel=5.2&z=2017-01-01&g=2017-01-01), op jaarbasis minimaal USD 80 000 bedraagt dan wel omzet behaald met het opslaan, verwerken, bewerken, monteren, verpakken, tentoonstellen of anderszins behandelen van goederen op jaarbasis minimaal USD 800 000 bedraagt;
 
 - b. het bedrijf blijvend voltijds werk verschaft aan ten minste drie op de BES eilanden wonende natuurlijk personen; en
 
@@ -4387,7 +4393,7 @@ Het is een vergunninghouder van een accijnsgoederenplaats voor tabaksproducten n
 
 ##### Artikel 5.5
 
-1. Een beschikking tot toelating, bedoeld in [artikel 5.4, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029236&hoofdstuk=V&afdeling=3&artikel=5.4&z=2016-01-01&g=2016-01-01), wordt door de inspecteur ingetrokken, indien blijkt dat:
+1. Een beschikking tot toelating, bedoeld in [artikel 5.4, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029236&hoofdstuk=V&afdeling=3&artikel=5.4&z=2017-01-01&g=2017-01-01), wordt door de inspecteur ingetrokken, indien blijkt dat:
 
 - a. onjuiste of onvolledige gegevens werden verstrekt die van beslissende invloed zijn geweest op de totstandkoming van het besluit tot toelating;
 
@@ -4395,11 +4401,11 @@ Het is een vergunninghouder van een accijnsgoederenplaats voor tabaksproducten n
 
 - c. de aan de toelating verbonden voorschriften en beperkingen niet of niet volledig in acht genomen zijn;
 
-- d. is gehandeld in strijd met de bepalingen van de [hoofdstukken I](https://wetten.overheid.nl/jci1.3:c:BWBR0029236&hoofdstuk=I&z=2016-01-01&g=2016-01-01), [II](https://wetten.overheid.nl/jci1.3:c:BWBR0029236&hoofdstuk=II&z=2016-01-01&g=2016-01-01) en [III](https://wetten.overheid.nl/jci1.3:c:BWBR0029236&hoofdstuk=III&z=2016-01-01&g=2016-01-01) van deze wet; of
+- d. is gehandeld in strijd met de bepalingen van de [hoofdstukken I](https://wetten.overheid.nl/jci1.3:c:BWBR0029236&hoofdstuk=I&z=2017-01-01&g=2017-01-01), [II](https://wetten.overheid.nl/jci1.3:c:BWBR0029236&hoofdstuk=II&z=2017-01-01&g=2017-01-01) en [III](https://wetten.overheid.nl/jci1.3:c:BWBR0029236&hoofdstuk=III&z=2017-01-01&g=2017-01-01) van deze wet; of
 
 - e. het bedrijf is gestaakt.
 
-2. Een beschikking tot toelating kan tevens door de inspecteur worden ingetrokken indien het bedrijf niet langer voldoet aan de in [artikel 5.4](https://wetten.overheid.nl/jci1.3:c:BWBR0029236&hoofdstuk=V&afdeling=3&artikel=5.4&z=2016-01-01&g=2016-01-01) voor toelating tot een handels- en dienstenentrepot gestelde eisen.
+2. Een beschikking tot toelating kan tevens door de inspecteur worden ingetrokken indien het bedrijf niet langer voldoet aan de in [artikel 5.4](https://wetten.overheid.nl/jci1.3:c:BWBR0029236&hoofdstuk=V&afdeling=3&artikel=5.4&z=2017-01-01&g=2017-01-01) voor toelating tot een handels- en dienstenentrepot gestelde eisen.
 
 3. Intrekking kan op grond van het eerste lid:
 
@@ -4427,7 +4433,7 @@ Bij regeling van Onze Minister van Financiën kunnen goederen worden aangewezen 
 
 ##### Artikel 5.8
 
-1. Leveringen van goederen, andere dan verricht in het kader van uitvoer van die goederen buiten de BES eilanden, en van diensten, andere dan die bedoeld in [artikel 5.2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029236&hoofdstuk=V&afdeling=1&artikel=5.2&z=2016-01-01&g=2016-01-01), door een tot een handels- of dienstenentrepot toegelaten rechtspersoon, zijn niet toegestaan tenzij de inspecteur hiervoor op schriftelijk verzoek van die rechtspersoon een vergunning heeft verleend. De vergunning kan, afhankelijk van de omstandigheden, of voor een bepaalde tijd worden verleend, of telkens door de inspecteur worden verlengd.
+1. Leveringen van goederen, andere dan verricht in het kader van uitvoer van die goederen buiten de BES eilanden, en van diensten, andere dan die bedoeld in [artikel 5.2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029236&hoofdstuk=V&afdeling=1&artikel=5.2&z=2017-01-01&g=2017-01-01), door een tot een handels- of dienstenentrepot toegelaten rechtspersoon, zijn niet toegestaan tenzij de inspecteur hiervoor op schriftelijk verzoek van die rechtspersoon een vergunning heeft verleend. De vergunning kan, afhankelijk van de omstandigheden, of voor een bepaalde tijd worden verleend, of telkens door de inspecteur worden verlengd.
 
 2. De inspecteur beslist bij beschikking op het in het vorige lid bedoelde verzoek van de rechtspersoon.
 
@@ -4443,7 +4449,7 @@ Met het toezicht op de naleving van de bepalingen bij of krachtens dit hoofdstuk
 
 ##### Artikel 5.10
 
-Onverminderd de toepassing van de bepalingen van de [hoofdstukken II](https://wetten.overheid.nl/jci1.3:c:BWBR0029236&hoofdstuk=II&z=2016-01-01&g=2016-01-01) en [III](https://wetten.overheid.nl/jci1.3:c:BWBR0029236&hoofdstuk=III&z=2016-01-01&g=2016-01-01) van deze wet, zijn op de [afdelingen 1 tot en met 4](https://wetten.overheid.nl/jci1.3:c:BWBR0029236&hoofdstuk=V&afdeling=1&z=2016-01-01&g=2016-01-01) van dit hoofdstuk de bepalingen van hoofdstuk VIII van de Belastingwet BES van overeenkomstige toepassing.
+Onverminderd de toepassing van de bepalingen van de [hoofdstukken II](https://wetten.overheid.nl/jci1.3:c:BWBR0029236&hoofdstuk=II&z=2017-01-01&g=2017-01-01) en [III](https://wetten.overheid.nl/jci1.3:c:BWBR0029236&hoofdstuk=III&z=2017-01-01&g=2017-01-01) van deze wet, zijn op de [afdelingen 1 tot en met 4](https://wetten.overheid.nl/jci1.3:c:BWBR0029236&hoofdstuk=V&afdeling=1&z=2017-01-01&g=2017-01-01) van dit hoofdstuk de bepalingen van hoofdstuk VIII van de Belastingwet BES van overeenkomstige toepassing.
 
 ### Hoofdstuk VI. Slotbepalingen
 
@@ -4463,7 +4469,7 @@ Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle mi
 
 - a. accijnsgoederen die naar een plaats buiten de BES eilanden zijn gebracht;
 
-- b. benzine die wordt gebruikt voor een van de doeleinden als bedoeld in [artikel 4.49, eerste lid, onderdelen b tot en met d](https://wetten.overheid.nl/jci1.3:c:BWBR0029236&hoofdstuk=IV&titeldeel=5&artikel=4.49&z=2016-01-01&g=2016-01-01).
+- b. benzine die wordt gebruikt voor een van de doeleinden als bedoeld in [artikel 4.49, eerste lid, onderdelen b tot en met d](https://wetten.overheid.nl/jci1.3:c:BWBR0029236&hoofdstuk=IV&titeldeel=5&artikel=4.49&z=2017-01-01&g=2017-01-01).
 
 2. Teruggaaf van accijns wordt verleend tot ten hoogste het bedrag dat aan accijns is voldaan.
 
