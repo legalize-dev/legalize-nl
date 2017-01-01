@@ -4,7 +4,7 @@ identifier: "BWBR0013267"
 country: "nl"
 rank: "amvb"
 publication_date: "2026-01-01"
-last_updated: "2016-10-28"
+last_updated: "2017-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0013267"
 soort: "AMvB"
@@ -130,11 +130,9 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
 - b. de andere werkzaamheden in opdracht en voor rekening en risico van de opdrachtgever worden uitgevoerd;
 
-- c. de taakuitoefening van de Inspectie Werk en Inkomen met betrekking tot het toezicht op de uitvoering van de wetten door het UWV en de SVB, bedoeld in [artikel 37, onderdeel a, van de Wet SUWI](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&artikel=37) voldoende gewaarborgd is;
+- c. de [Wet op het financieel toezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0020368) in acht wordt genomen voor zover deze van toepassing is;
 
-- d. de [Wet op het financieel toezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0020368) in acht wordt genomen voor zover deze van toepassing is;
-
-- e. de uitvoering van die andere werkzaamheden gescheiden van de uitvoering van de wettelijke taken plaatsvindt, voor zover de andere werkzaamheid niet noodzaakt tot een gezamenlijke uitvoering.
+- d. de uitvoering van die andere werkzaamheden gescheiden van de uitvoering van de wettelijke taken plaatsvindt, voor zover de andere werkzaamheid niet noodzaakt tot een gezamenlijke uitvoering.
 
 2. Het UWV, onderscheidenlijk de SVB, meldt de werkzaamheden, bedoeld in [artikel 5, vierde lid, van de Wet SUWI](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&artikel=5), binnen een termijn van vier weken na aanvang van die werkzaamheden.
 
@@ -248,17 +246,17 @@ De resultaten van werkzaamheden in verband met de taakuitoefening, bedoeld in [a
 
 ##### Artikel 4.3. Termijn sluiten van een individuele re-integratieovereenkomst
 
-1. In geval van een toekennende beschikking op een aanvraag als bedoeld in [artikel 4.2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013267&hoofdstuk=4&paragraaf=4.2&artikel=4.2&z=2017-01-01&g=2016-10-28), sluit het UWV binnen zes weken na het nemen van die beschikking een overeenkomst met een re-integratiebedrijf dat de in artikel 4.2, eerste lid, bedoelde werkzaamheden uitvoert.
+1. In geval van een toekennende beschikking op een aanvraag als bedoeld in [artikel 4.2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013267&hoofdstuk=4&paragraaf=4.2&artikel=4.2&z=2017-01-01&g=2017-01-01), sluit het UWV binnen zes weken na het nemen van die beschikking een overeenkomst met een re-integratiebedrijf dat de in artikel 4.2, eerste lid, bedoelde werkzaamheden uitvoert.
 
-2. De persoon ten behoeve van wie een individuele re-integratieovereenkomst als bedoeld in [artikel 4.2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013267&hoofdstuk=4&paragraaf=4.2&artikel=4.2&z=2017-01-01&g=2016-10-28), wordt gesloten tekent een exemplaar van die overeenkomst voor gezien en verstrekt dit aan het UWV.
+2. De persoon ten behoeve van wie een individuele re-integratieovereenkomst als bedoeld in [artikel 4.2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013267&hoofdstuk=4&paragraaf=4.2&artikel=4.2&z=2017-01-01&g=2017-01-01), wordt gesloten tekent een exemplaar van die overeenkomst voor gezien en verstrekt dit aan het UWV.
 
 ##### Artikel 4.4. Weigering van sluiting van een individuele re-integratieovereenkomst
 
-De aanvraag om een individuele re-integratieovereenkomst kan in ieder geval worden geweigerd in de gevallen waarin op grond van [artikel 4:35, eerste lid, onderdelen a en b en tweede lid, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:35) een subsidieverlening kan worden geweigerd, en indien niet wordt voldaan aan de krachtens [artikel 4.2, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013267&hoofdstuk=4&paragraaf=4.2&artikel=4.2&z=2017-01-01&g=2016-10-28), door het UWV gestelde voorwaarden.
+De aanvraag om een individuele re-integratieovereenkomst kan in ieder geval worden geweigerd in de gevallen waarin op grond van [artikel 4:35, eerste lid, onderdelen a en b en tweede lid, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:35) een subsidieverlening kan worden geweigerd, en indien niet wordt voldaan aan de krachtens [artikel 4.2, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013267&hoofdstuk=4&paragraaf=4.2&artikel=4.2&z=2017-01-01&g=2017-01-01), door het UWV gestelde voorwaarden.
 
 ##### Artikel 4.5. Evaluatie
 
-Onze Minister zendt binnen vier jaar na de inwerkingtreding van de [artikelen 4.2 tot en met 4.4](https://wetten.overheid.nl/jci1.3:c:BWBR0013267&hoofdstuk=4&paragraaf=4.2&artikel=4.2&z=2017-01-01&g=2016-10-28) aan de Staten-Generaal een verslag over de doeltreffendheid en de effecten van deze artikelen in de praktijk.
+Onze Minister zendt binnen vier jaar na de inwerkingtreding van de [artikelen 4.2 tot en met 4.4](https://wetten.overheid.nl/jci1.3:c:BWBR0013267&hoofdstuk=4&paragraaf=4.2&artikel=4.2&z=2017-01-01&g=2017-01-01) aan de Staten-Generaal een verslag over de doeltreffendheid en de effecten van deze artikelen in de praktijk.
 
 ##### Artikel 4.6. Hoogte van subsidie en tijdstip van betaling
 
@@ -296,7 +294,7 @@ In deze paragraaf en de daarop berustende bepalingen wordt verstaan onder:
 
 - c. arbeidsbemiddeling en andere werkzaamheden die, in aansluiting op de onder a en b bedoelde werkzaamheden, zijn gericht op behoud, herstel of bevordering van mogelijkheden tot het verrichten van arbeid.
 
-3. Kosten van werkzaamheden die niet zijn beschreven in het in [artikel 4.10, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0013267&hoofdstuk=4&paragraaf=4.3&sub-paragraaf=4.3.1&artikel=4.10&z=2017-01-01&g=2016-10-28), bedoelde trajectplan komen niet voor subsidiëring in aanmerking en ter uitvoering van die werkzaamheden wordt geen persoonsgebonden re-integratieovereenkomst gesloten, tenzij het UWV voor het verrichten van die werkzaamheden schriftelijk goedkeuring heeft verleend.
+3. Kosten van werkzaamheden die niet zijn beschreven in het in [artikel 4.10, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0013267&hoofdstuk=4&paragraaf=4.3&sub-paragraaf=4.3.1&artikel=4.10&z=2017-01-01&g=2017-01-01), bedoelde trajectplan komen niet voor subsidiëring in aanmerking en ter uitvoering van die werkzaamheden wordt geen persoonsgebonden re-integratieovereenkomst gesloten, tenzij het UWV voor het verrichten van die werkzaamheden schriftelijk goedkeuring heeft verleend.
 
 ##### Artikel 4.9. Keuze voor subsidie of contract
 
@@ -318,7 +316,7 @@ Het UWV kan uitsluitend een subsidie verstrekken of een persoonsgebonden re-inte
 
 - 4°. de beroepsactiviteiten die de aanvrager naar verwachting na afloop van die periode kan vervullen;
 
-- 5°. een begroting van de kosten van de in [artikel 4.8](https://wetten.overheid.nl/jci1.3:c:BWBR0013267&hoofdstuk=4&paragraaf=4.3&sub-paragraaf=4.3.1&artikel=4.8&z=2017-01-01&g=2016-10-28) bedoelde werkzaamheden.
+- 5°. een begroting van de kosten van de in [artikel 4.8](https://wetten.overheid.nl/jci1.3:c:BWBR0013267&hoofdstuk=4&paragraaf=4.3&sub-paragraaf=4.3.1&artikel=4.8&z=2017-01-01&g=2017-01-01) bedoelde werkzaamheden.
 
 ##### Artikel 4.11. Verhaal van kosten op de werkgever
 
@@ -362,7 +360,7 @@ Het UWV kan uitsluitend een subsidie verstrekken of een persoonsgebonden re-inte
 
 1. De subsidie bedraagt ten hoogste een bij ministeriële regeling vastgesteld bedrag.
 
-2. De subsidie wordt verleend voor werkzaamheden als bedoeld in [artikel 4.8](https://wetten.overheid.nl/jci1.3:c:BWBR0013267&hoofdstuk=4&paragraaf=4.3&sub-paragraaf=4.3.1&artikel=4.8&z=2017-01-01&g=2016-10-28) gedurende een tijdvak van ten hoogste een jaar.
+2. De subsidie wordt verleend voor werkzaamheden als bedoeld in [artikel 4.8](https://wetten.overheid.nl/jci1.3:c:BWBR0013267&hoofdstuk=4&paragraaf=4.3&sub-paragraaf=4.3.1&artikel=4.8&z=2017-01-01&g=2017-01-01) gedurende een tijdvak van ten hoogste een jaar.
 
 3. Indien de aanvrager van een subsidie of de subsidie-ontvanger aantoont dat de noodzakelijke kosten van de werkzaamheden die zijn gericht op behoud, herstel of bevordering van mogelijkheden tot het verrichten van arbeid hoger zijn dan het in het eerste lid bedoelde bedrag of die werkzaamheden langer zullen duren dan een tijdvak van een jaar, kan subsidie worden verleend voor een hoger bedrag of een langere periode.
 
@@ -376,7 +374,7 @@ Het UWV kan uitsluitend een subsidie verstrekken of een persoonsgebonden re-inte
 
 ##### Artikel 4.15. Inlichtingenverstrekking
 
-1. De subsidie-ontvanger dient iedere drie maanden bij het UWV een rapportage in waarin een beschrijving is opgenomen van de ten behoeve van de subsidie-ontvanger verrichte werkzaamheden, bedoeld in [artikel 4.8](https://wetten.overheid.nl/jci1.3:c:BWBR0013267&hoofdstuk=4&paragraaf=4.3&sub-paragraaf=4.3.1&artikel=4.8&z=2017-01-01&g=2016-10-28). In de rapportage worden in ieder geval de resultaten van de uitvoering van het trajectplan en de prognose voor de resterende periode van het traject beschreven en wordt een overzicht gegeven van de tot op dat moment gemaakte kosten.
+1. De subsidie-ontvanger dient iedere drie maanden bij het UWV een rapportage in waarin een beschrijving is opgenomen van de ten behoeve van de subsidie-ontvanger verrichte werkzaamheden, bedoeld in [artikel 4.8](https://wetten.overheid.nl/jci1.3:c:BWBR0013267&hoofdstuk=4&paragraaf=4.3&sub-paragraaf=4.3.1&artikel=4.8&z=2017-01-01&g=2017-01-01). In de rapportage worden in ieder geval de resultaten van de uitvoering van het trajectplan en de prognose voor de resterende periode van het traject beschreven en wordt een overzicht gegeven van de tot op dat moment gemaakte kosten.
 
 2. De subsidie-ontvanger verstrekt onverwijld en uit eigen beweging alle gegevens en inlichtingen omtrent voortijdige beëindiging van gesubsidieerde trajecten aan het UWV.
 
@@ -390,7 +388,7 @@ De subsidie-ontvanger dient binnen zes weken na afloop van het tijdvak waarvoor 
 
 ##### Artikel 4.17. Sluiten van een persoonsgebonden reïntegratie-overeenkomst
 
-1. In geval van een toekennende beschikking op een aanvraag om een persoonsgebonden re-integratieovereenkomst, sluit het UWV binnen zes weken na het nemen van die beschikking een overeenkomst met een re-integratiebedrijf dat de in [artikel 4.8](https://wetten.overheid.nl/jci1.3:c:BWBR0013267&hoofdstuk=4&paragraaf=4.3&sub-paragraaf=4.3.1&artikel=4.8&z=2017-01-01&g=2016-10-28) bedoelde werkzaamheden uitvoert.
+1. In geval van een toekennende beschikking op een aanvraag om een persoonsgebonden re-integratieovereenkomst, sluit het UWV binnen zes weken na het nemen van die beschikking een overeenkomst met een re-integratiebedrijf dat de in [artikel 4.8](https://wetten.overheid.nl/jci1.3:c:BWBR0013267&hoofdstuk=4&paragraaf=4.3&sub-paragraaf=4.3.1&artikel=4.8&z=2017-01-01&g=2017-01-01) bedoelde werkzaamheden uitvoert.
 
 2. Het UWV sluit een overeenkomst met een re-integratiebedrijf als bedoeld in het eerste lid overeenkomstig de voorkeur voor een re-integratiebedrijf van de aanvrager of begunstigde.
 
@@ -404,7 +402,7 @@ Het sluiten van een persoonsgebonden re-integratieovereenkomst kan in ieder geva
 
 2. De persoonsgebonden re-integratieovereenkomst wordt gesloten voor een tijdvak van ten hoogste een jaar.
 
-3. Indien de aanvrager van een persoonsgebonden re-integratieovereenkomst of begunstigde aantoont dat de noodzakelijke kosten van de in [artikel 4.8](https://wetten.overheid.nl/jci1.3:c:BWBR0013267&hoofdstuk=4&paragraaf=4.3&sub-paragraaf=4.3.1&artikel=4.8&z=2017-01-01&g=2016-10-28) bedoelde werkzaamheden hoger zijn dan het in het eerste lid bedoelde bedrag of die werkzaamheden langer zullen duren dan een tijdvak van een jaar, kan een overeenkomst worden gesloten voor een hoger bedrag of een langere periode.
+3. Indien de aanvrager van een persoonsgebonden re-integratieovereenkomst of begunstigde aantoont dat de noodzakelijke kosten van de in [artikel 4.8](https://wetten.overheid.nl/jci1.3:c:BWBR0013267&hoofdstuk=4&paragraaf=4.3&sub-paragraaf=4.3.1&artikel=4.8&z=2017-01-01&g=2017-01-01) bedoelde werkzaamheden hoger zijn dan het in het eerste lid bedoelde bedrag of die werkzaamheden langer zullen duren dan een tijdvak van een jaar, kan een overeenkomst worden gesloten voor een hoger bedrag of een langere periode.
 
 4. De in het derde lid bedoelde bevoegdheid bestaat uitsluitend indien het in het eerste lid bedoelde bedrag of de in het derde lid bedoelde werkzaamheden gedurende een tijdvak van een jaar redelijkerwijs niet zullen kunnen leiden tot behoud, herstel of bevordering van mogelijkheden tot het verrichten van arbeid.
 
@@ -414,13 +412,13 @@ Het sluiten van een persoonsgebonden re-integratieovereenkomst kan in ieder geva
 
 - a. de duur van de overeenkomst alsmede de hoogte van de kosten die door het re-integratiebedrijf in rekening zullen worden gebracht;
 
-- b. dat het re-integratiebedrijf iedere drie maanden bij het UWV een rapportage indient waarin een beschrijving is opgenomen van de werkzaamheden die zijn verricht ten behoeve van het behoud, herstel of bevordering van mogelijkheden tot het verrichten van arbeid van de arbeidsgehandicapte werknemer. In de rapportage worden tevens de resultaten van de uitvoering van het trajectplan, bedoeld in [artikel 4.10, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0013267&hoofdstuk=4&paragraaf=4.3&sub-paragraaf=4.3.1&artikel=4.10&z=2017-01-01&g=2016-10-28), en de prognose voor de resterende periode van het traject beschreven en wordt een overzicht gegeven van de tot op dat moment gemaakte kosten;
+- b. dat het re-integratiebedrijf iedere drie maanden bij het UWV een rapportage indient waarin een beschrijving is opgenomen van de werkzaamheden die zijn verricht ten behoeve van het behoud, herstel of bevordering van mogelijkheden tot het verrichten van arbeid van de arbeidsgehandicapte werknemer. In de rapportage worden tevens de resultaten van de uitvoering van het trajectplan, bedoeld in [artikel 4.10, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0013267&hoofdstuk=4&paragraaf=4.3&sub-paragraaf=4.3.1&artikel=4.10&z=2017-01-01&g=2017-01-01), en de prognose voor de resterende periode van het traject beschreven en wordt een overzicht gegeven van de tot op dat moment gemaakte kosten;
 
 - c. dat de overeenkomst door beide partijen wegens gewichtige redenen tussentijds door opzegging kan worden beëindigd;
 
-- d. dat de prijs voor de overeenkomst uitsluitend wordt betaald voor die werkzaamheden, die zijn beschreven in het in [artikel 4.10, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0013267&hoofdstuk=4&paragraaf=4.3&sub-paragraaf=4.3.1&artikel=4.10&z=2017-01-01&g=2016-10-28), bedoelde trajectplan, tenzij het UWV voor het verrichten van andere werkzaamheden schriftelijk goedkeuring heeft verleend;
+- d. dat de prijs voor de overeenkomst uitsluitend wordt betaald voor die werkzaamheden, die zijn beschreven in het in [artikel 4.10, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0013267&hoofdstuk=4&paragraaf=4.3&sub-paragraaf=4.3.1&artikel=4.10&z=2017-01-01&g=2017-01-01), bedoelde trajectplan, tenzij het UWV voor het verrichten van andere werkzaamheden schriftelijk goedkeuring heeft verleend;
 
-- e. dat het re-integratiebedrijf voldoet aan verplichtingen als bedoeld in [artikel 4.12, eerste lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0013267&hoofdstuk=4&paragraaf=4.3&sub-paragraaf=4.3.2&artikel=4.12&z=2017-01-01&g=2016-10-28);
+- e. dat het re-integratiebedrijf voldoet aan verplichtingen als bedoeld in [artikel 4.12, eerste lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0013267&hoofdstuk=4&paragraaf=4.3&sub-paragraaf=4.3.2&artikel=4.12&z=2017-01-01&g=2017-01-01);
 
 - f. dat het re-integratiebedrijf aan het UWV op verzoek of na toestemming van de subsidie-ontvanger uit eigen beweging gegevens verstrekt over de uitvoering van de overeenkomst.
 
@@ -456,9 +454,9 @@ Het sluiten van een persoonsgebonden re-integratieovereenkomst kan in ieder geva
 
 ##### Artikel 5.2. Bijlage overzicht polisadministratie
 
-1. In [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBR0013267&bijlage=I&z=2017-01-01&g=2016-10-28) bij dit besluit wordt voor de polisadministratie een overzicht gegeven van de opgenomen gegevens, voor welk doel die gegevens worden verwerkt en hoe die gegevens worden verkregen.
+1. In [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBR0013267&bijlage=I&z=2017-01-01&g=2017-01-01) bij dit besluit wordt voor de polisadministratie een overzicht gegeven van de opgenomen gegevens, voor welk doel die gegevens worden verwerkt en hoe die gegevens worden verkregen.
 
-2. [Bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBR0013267&bijlage=I&z=2017-01-01&g=2016-10-28) kan bij regeling van Onze Minister, in overeenstemming met Onze Minister van Financiën, en na overleg met het Centraal bureau voor de statistiek, worden gewijzigd, voorzover deze wijziging geen wijziging tot gevolg heeft van de lijst van gegevens in [artikel 5.1](https://wetten.overheid.nl/jci1.3:c:BWBR0013267&hoofdstuk=5&paragraaf=5.1&artikel=5.1&z=2017-01-01&g=2016-10-28).
+2. [Bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBR0013267&bijlage=I&z=2017-01-01&g=2017-01-01) kan bij regeling van Onze Minister, in overeenstemming met Onze Minister van Financiën, en na overleg met het Centraal bureau voor de statistiek, worden gewijzigd, voorzover deze wijziging geen wijziging tot gevolg heeft van de lijst van gegevens in [artikel 5.1](https://wetten.overheid.nl/jci1.3:c:BWBR0013267&hoofdstuk=5&paragraaf=5.1&artikel=5.1&z=2017-01-01&g=2017-01-01).
 
 ##### Artikel 5.3. Kosteloze melding bij misdrijf
 
@@ -470,9 +468,9 @@ Het UWV, de SVB en de colleges van burgemeester en wethouders zijn bevoegd uit e
 
 ##### Artikel 5.5. Gebruik elektronische voorzieningen voor gegevensverkeer voor opsporing en toezicht
 
-1. Voor het verstrekken van gegevens en inlichtingen als bedoeld in [artikel 72 van de Wet SUWI](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&artikel=72) en [artikel 5.4](https://wetten.overheid.nl/jci1.3:c:BWBR0013267&hoofdstuk=5&paragraaf=5.2&artikel=5.4&z=2017-01-01&g=2016-10-28), aan de ambtenaren, bedoeld in [artikel 5.4](https://wetten.overheid.nl/jci1.3:c:BWBR0013267&hoofdstuk=5&paragraaf=5.2&artikel=5.4&z=2017-01-01&g=2016-10-28) en de opsporingsambtenaren, bedoeld in [artikel 85, tweede lid, van de Wet SUWI](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&artikel=85), maken het UWV, de SVB en de colleges van burgemeester en wethouders gebruik van elektronische voorzieningen als bedoeld in [paragraaf 5.6](https://wetten.overheid.nl/jci1.3:c:BWBR0013267&hoofdstuk=5&paragraaf=5.6&z=2017-01-01&g=2016-10-28), voor zover die gegevens noodzakelijk zijn voor het toezicht op de naleving van de in [artikel 5.4](https://wetten.overheid.nl/jci1.3:c:BWBR0013267&hoofdstuk=5&paragraaf=5.2&artikel=5.4&z=2017-01-01&g=2016-10-28) genoemde wetten, respectievelijk voor de opsporing van feiten strafbaar gesteld bij de [Wet SUWI](https://wetten.overheid.nl/jci1.3:c:BWBR0013060) of enig andere wet.
+1. Voor het verstrekken van gegevens en inlichtingen als bedoeld in [artikel 72 van de Wet SUWI](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&artikel=72) en [artikel 5.4](https://wetten.overheid.nl/jci1.3:c:BWBR0013267&hoofdstuk=5&paragraaf=5.2&artikel=5.4&z=2017-01-01&g=2017-01-01), aan de ambtenaren, bedoeld in [artikel 5.4](https://wetten.overheid.nl/jci1.3:c:BWBR0013267&hoofdstuk=5&paragraaf=5.2&artikel=5.4&z=2017-01-01&g=2017-01-01) en de opsporingsambtenaren, bedoeld in [artikel 85, tweede lid, van de Wet SUWI](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&artikel=85), maken het UWV, de SVB en de colleges van burgemeester en wethouders gebruik van elektronische voorzieningen als bedoeld in [paragraaf 5.6](https://wetten.overheid.nl/jci1.3:c:BWBR0013267&hoofdstuk=5&paragraaf=5.6&z=2017-01-01&g=2017-01-01), voor zover die gegevens noodzakelijk zijn voor het toezicht op de naleving van de in [artikel 5.4](https://wetten.overheid.nl/jci1.3:c:BWBR0013267&hoofdstuk=5&paragraaf=5.2&artikel=5.4&z=2017-01-01&g=2017-01-01) genoemde wetten, respectievelijk voor de opsporing van feiten strafbaar gesteld bij de [Wet SUWI](https://wetten.overheid.nl/jci1.3:c:BWBR0013060) of enig andere wet.
 
-2. Voor het verstrekken van gegevens als bedoeld in [artikel 73, zesde lid, van de Wet SUWI](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&artikel=73) aan het UWV, de SVB en de colleges van burgemeester en wethouders, maken de ambtenaren en opsporingsambtenaren gebruik van elektronische voorzieningen als bedoeld in [paragraaf 5.6](https://wetten.overheid.nl/jci1.3:c:BWBR0013267&hoofdstuk=5&paragraaf=5.6&z=2017-01-01&g=2016-10-28).
+2. Voor het verstrekken van gegevens als bedoeld in [artikel 73, zesde lid, van de Wet SUWI](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&artikel=73) aan het UWV, de SVB en de colleges van burgemeester en wethouders, maken de ambtenaren en opsporingsambtenaren gebruik van elektronische voorzieningen als bedoeld in [paragraaf 5.6](https://wetten.overheid.nl/jci1.3:c:BWBR0013267&hoofdstuk=5&paragraaf=5.6&z=2017-01-01&g=2017-01-01).
 
 ##### Artikel 5.6. Gegevensverstrekking aan buitenlandse bestuursorganen
 
@@ -486,7 +484,7 @@ Het UWV en de SVB zijn bevoegd uit eigen beweging en verplicht op verzoek uit de
 
 - b. aan de zorgverzekeraars, bedoeld in de [Zorgverzekeringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450), en het Zorginstituut, de zorgautoriteit, Wlz-uitvoerders en het het CAK, bedoeld in de [Wet langdurige zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0035917) de gegevens voor zover die noodzakelijk zijn voor de uitvoering van de Zorgverzekeringswet en de Wet langdurige zorg;
 
-- c. aan Onze Minister van Onderwijs, Cultuur en Wetenschap dan wel, voor zover het betreft het onderwijs of onderzoek op het gebied van de landbouw en de natuurlijke omgeving, Onze Minister van Landbouw, Natuur en Voedselkwaliteit de gegevens die noodzakelijk zijn voor de uitvoering van bij of krachtens een onderwijswet aan hen opgedragen taken, alsmede aan Onze Minister voor Wonen, Wijken en Integratie de gegevens die noodzakelijk zijn voor de uitvoering van de [Wet inburgering](https://wetten.overheid.nl/jci1.3:c:BWBR0020611);
+- c. aan Onze Minister van Onderwijs, Cultuur en Wetenschap dan wel, voor zover het betreft het onderwijs of onderzoek op het gebied van de landbouw, de natuurlijke omgeving en voedsel, Onze Minister van Economische Zaken de gegevens die noodzakelijk zijn voor de uitvoering van bij of krachtens een onderwijswet aan hen opgedragen taken, alsmede aan Onze Minister de gegevens die noodzakelijk zijn voor de uitvoering van de [Wet inburgering](https://wetten.overheid.nl/jci1.3:c:BWBR0020611);
 
 - d. aan de Pensioen- en Uitkeringsraad, bedoeld in de [Wet uitvoering wetten voor verzetsdeelnemers en oorlogsgetroffenen](https://wetten.overheid.nl/jci1.3:c:BWBR0027660), de gegevens die noodzakelijk zijn voor de uitvoering van die wet;
 
@@ -528,7 +526,7 @@ De SVB is bevoegd op verzoek uit de onder zijn verantwoordelijkheid gevoerde adm
 
 4. Het UWV is verplicht op verzoek uit de onder zijn verantwoordelijkheid gevoerde administratie kosteloos te verstrekken aan Onze Minister en de colleges van burgemeester en wethouders de gegevens van personen die werknemer zijn van een houder van een kinderopvangvoorziening of peuterspeelzaal die noodzakelijk zijn voor het toezicht op de naleving van de kwaliteitseisen, bedoeld in [hoofdstuk 1, afdeling 3, paragraaf 2](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&paragraaf=2) en in [hoofdstuk 2, afdeling 2, paragraaf 2, van de Wet kinderopvang en kwaliteitseisen peuterspeelzalen](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&paragraaf=2) die deze wet aan de exploitatie van kinderopvangvoorzieningen of peuterspeelzalen stelt.
 
-5. In verband met het systematisch verstrekken van gegevens als bedoeld in [artikel 5.11](https://wetten.overheid.nl/jci1.3:c:BWBR0013267&hoofdstuk=5&paragraaf=5.3&artikel=5.11&z=2017-01-01&g=2016-10-28) kunnen bij ministeriële regeling nadere regels worden gesteld omtrent de wijze waarop en de vorm waarin de adresgegevens, bedoeld in het eerste lid, onderdeel i, verstrekt worden.
+5. In verband met het systematisch verstrekken van gegevens als bedoeld in [artikel 5.11](https://wetten.overheid.nl/jci1.3:c:BWBR0013267&hoofdstuk=5&paragraaf=5.3&artikel=5.11&z=2017-01-01&g=2017-01-01) kunnen bij ministeriële regeling nadere regels worden gesteld omtrent de wijze waarop en de vorm waarin de adresgegevens, bedoeld in het eerste lid, onderdeel i, verstrekt worden.
 
 ### Hoofdstuk 6. Slotbepalingen
 
@@ -538,17 +536,17 @@ Dit besluit berust mede op [artikelen 7, zesde lid](https://wetten.overheid.nl/j
 
 ##### Artikel 6.2. Inwerkingtreding
 
-Dit besluit treedt in werking met ingang van 1 januari 2002, met uitzondering van de [artikelen 4.7 tot en met 4.20](https://wetten.overheid.nl/jci1.3:c:BWBR0013267&hoofdstuk=4&paragraaf=4.3&sub-paragraaf=4.3.1&artikel=4.7&z=2017-01-01&g=2016-10-28), die in werking treden op een bij koninklijk besluit te bepalen tijdstip.
+Dit besluit treedt in werking met ingang van 1 januari 2002, met uitzondering van de [artikelen 4.7 tot en met 4.20](https://wetten.overheid.nl/jci1.3:c:BWBR0013267&hoofdstuk=4&paragraaf=4.3&sub-paragraaf=4.3.1&artikel=4.7&z=2017-01-01&g=2017-01-01), die in werking treden op een bij koninklijk besluit te bepalen tijdstip.
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
 
 ##### Artikel 5.2a. Gegevens eenmalige uitvraag
 
-1. In [bijlage II](https://wetten.overheid.nl/jci1.3:c:BWBR0013267&bijlage=II&z=2017-01-01&g=2016-10-28) bij dit besluit wordt vermeld welke soort gegevens op grond van de [artikelen 33a, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&artikel=33a), en [35, vijfde lid, van de Wet SUWI](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&artikel=35), [14, eerste lid, van de IOAW](https://wetten.overheid.nl/jci1.3:c:BWBR0004044&artikel=14), [14, eerste lid, van de IOAZ](https://wetten.overheid.nl/jci1.3:c:BWBR0004163&artikel=14) en [53a, eerste lid, van de Participatiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&artikel=53a) niet van de belanghebbende worden verkregen en uit welke bron deze gegevens afkomstig zijn.
+1. In [bijlage II](https://wetten.overheid.nl/jci1.3:c:BWBR0013267&bijlage=II&z=2017-01-01&g=2017-01-01) bij dit besluit wordt vermeld welke soort gegevens op grond van de [artikelen 33a, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&artikel=33a), en [35, vijfde lid, van de Wet SUWI](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&artikel=35), [14, eerste lid, van de IOAW](https://wetten.overheid.nl/jci1.3:c:BWBR0004044&artikel=14), [14, eerste lid, van de IOAZ](https://wetten.overheid.nl/jci1.3:c:BWBR0004163&artikel=14) en [53a, eerste lid, van de Participatiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&artikel=53a) niet van de belanghebbende worden verkregen en uit welke bron deze gegevens afkomstig zijn.
 
 2. Het UWV informeert de belanghebbende over de soort gegevens, bedoeld in het eerste lid, op het moment dat hij een aanvraag als bedoeld in [artikel 30c, eerste lid, van de Wet SUWI](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&artikel=30c) dan wel een aanvraag voor een uitkering als bedoeld in [artikel 30, eerste lid, van de Wet SUWI](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&artikel=30) indient.
 
-3. Bij ministeriële regeling kan worden bepaald, dat tot een in die regeling genoemd tijdstip bepaalde onderdelen van [bijlage II](https://wetten.overheid.nl/jci1.3:c:BWBR0013267&bijlage=II&z=2017-01-01&g=2016-10-28) voor bepaalde bestuursorganen met betrekking tot bepaalde taken niet van toepassing zijn.
+3. Bij ministeriële regeling kan worden bepaald, dat tot een in die regeling genoemd tijdstip bepaalde onderdelen van [bijlage II](https://wetten.overheid.nl/jci1.3:c:BWBR0013267&bijlage=II&z=2017-01-01&g=2017-01-01) voor bepaalde bestuursorganen met betrekking tot bepaalde taken niet van toepassing zijn.
 
 4. Bij regeling van Onze Minister, voor zover het gegevens betreft die afkomstig zijn van de Belastingdienst in overeenstemming met Onze Minister van Financiën, wordt nader bepaald voor welke gegevens het eerste lid van toepassing is.
 
@@ -564,7 +562,7 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 ##### Artikel 5.11. Systematische gegevensverstrekking buiten SUWI-domein
 
-Het UWV en de SVB verstrekken in de in de [artikelen 5.7](https://wetten.overheid.nl/jci1.3:c:BWBR0013267&hoofdstuk=5&paragraaf=5.3&artikel=5.7&z=2017-01-01&g=2016-10-28) en [5.9](https://wetten.overheid.nl/jci1.3:c:BWBR0013267&hoofdstuk=5&paragraaf=5.3&artikel=5.9&z=2017-01-01&g=2016-10-28) vermelde gevallen slechts systematisch gegevens, niet zijnde persoonsgegevens als bedoeld in [artikel 16 van de Wet bescherming persoonsgegevens](https://wetten.overheid.nl/jci1.3:c:BWBR0011468&artikel=16), tenzij het betreft persoonsgegevens betreffende iemands gezondheid die noodzakelijk zijn voor re-integratie of begeleiding van werknemers of uitkeringsgerechtigden in verband met ziekte of arbeidsongeschiktheid als bedoeld in [artikel 21, eerste lid, onderdeel f, van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011468&artikel=21), indien met de desbetreffende bestuursorganen overeenstemming is bereikt over in ieder geval de systematisch te verstrekken gegevens, alsmede de omstandigheid waaronder, de regelmaat waarmee en de wijze waarop die verstrekking plaatsvindt.
+Het UWV en de SVB verstrekken in de in de [artikelen 5.7](https://wetten.overheid.nl/jci1.3:c:BWBR0013267&hoofdstuk=5&paragraaf=5.3&artikel=5.7&z=2017-01-01&g=2017-01-01) en [5.9](https://wetten.overheid.nl/jci1.3:c:BWBR0013267&hoofdstuk=5&paragraaf=5.3&artikel=5.9&z=2017-01-01&g=2017-01-01) vermelde gevallen slechts systematisch gegevens, niet zijnde persoonsgegevens als bedoeld in [artikel 16 van de Wet bescherming persoonsgegevens](https://wetten.overheid.nl/jci1.3:c:BWBR0011468&artikel=16), tenzij het betreft persoonsgegevens betreffende iemands gezondheid die noodzakelijk zijn voor re-integratie of begeleiding van werknemers of uitkeringsgerechtigden in verband met ziekte of arbeidsongeschiktheid als bedoeld in [artikel 21, eerste lid, onderdeel f, van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011468&artikel=21), indien met de desbetreffende bestuursorganen overeenstemming is bereikt over in ieder geval de systematisch te verstrekken gegevens, alsmede de omstandigheid waaronder, de regelmaat waarmee en de wijze waarop die verstrekking plaatsvindt.
 
 ### Hoofdstuk 6. Slotbepalingen
 
@@ -592,7 +590,7 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 ##### Artikel 5.12. Gegevensverstrekking door het UWV aan derden
 
-1. Het UWV is bevoegd op verzoek uit de onder zijn verantwoordelijkheid gevoerde administraties aan derden als bedoeld in [artikel 73a, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&artikel=73a), en in [artikel 73, eerste lid, van de Wet SUWI](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&artikel=73), de volgende van de Belastingdienst afkomstige gegevens te verstrekken:
+1. Het UWV is bevoegd op verzoek uit de onder zijn verantwoordelijkheid gevoerde administraties aan instanties als bedoeld in [artikel 73, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&artikel=73), en aan derden als bedoeld in [artikel 73a, tweede lid, van de Wet SUWI](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&artikel=73a), de volgende van de Belastingdienst afkomstige gegevens te verstrekken:
 
 - a. **persoonsgegevens van de werknemer**: adresgegevens, namen, burgerservicenummer, geboortedatum en geslacht;
 
@@ -604,19 +602,19 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 - e. **gegevens over de werkgever**: naam, loonheffingennummer, het fi-nummer of een aan een onderneming of rechtspersoon toegekend uniek nummer waarmee een onderneming of rechtspersoon in het handelsregister is opgenomen, rechtsvorm, risicopremiegroep, sector, voortzettingsrelatie, datum oprichting, datum ontbinding, statutaire zetel, eigenrisicodragerschap, premiepercentage individueel, faillissement of surseance en gemoedsbezwaardheid.
 
-2. De in artikel 73a, tweede lid, van de [Wet SUWI](https://wetten.overheid.nl/jci1.3:c:BWBR0013060) bedoelde derden zijn: deskundigen en instellingen die in het kader van de uitoefening van beroep of bedrijf taken uitvoeren of diensten verrichten ter ondersteuning van administraties of het verrichten van keuringen.
+2. De in [artikel 73a, tweede lid, van de Wet SUWI](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&artikel=73a) bedoelde derden zijn: deskundigen en instellingen die in het kader van de uitoefening van beroep of bedrijf taken uitvoeren of diensten verrichten ter ondersteuning van administraties of het verrichten van keuringen.
 
 3. Bij het verstrekken van gegevens op grond van dit artikel worden kosten in rekening gebracht. Bij ministeriële regeling worden hiervoor nadere regels gesteld.
 
 ##### Artikel 5.13. Gegevensverstrekking door het UWV ten behoeve van verzekeringen met betrekking tot ziekte en arbeidsongeschiktheid
 
-1. Het UWV is bevoegd uit de onder zijn verantwoordelijkheid gevoerde administraties op verzoek van een werkgever als bedoeld in [artikel 73, derde lid, onderdeel a, van de Wet SUWI](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&artikel=73), aan die werkgever in verband met het aangaan van overeenkomsten tot verzekering van de risico’s van het eigenrisicodrager zijn of van betaling van premie als bedoeld in [hoofdstuk 3, afdeling 5, van de Wfsv](https://wetten.overheid.nl/jci1.3:c:BWBR0017745&afdeling=5) kosteloos gegevens te verstrekken, mede afkomstig van de Belastingdienst, over WGA-uitkeringen verstrekt aan werknemers, met vermelding van aanvangsdatum en vermoedelijke einddatum, BSN-nummer en naam van de werknemer, op grond waarvan die werkgever de lasten van uitkeringen ingevolge de Werkhervattingsregeling op grond van de [Wet WIA](https://wetten.overheid.nl/jci1.3:c:BWBR0019057) kan bepalen die aan de werkgever worden doorbelast op grond van de [Wfsv](https://wetten.overheid.nl/jci1.3:c:BWBR0017745) dan wel de Wet WIA.
+1. Het UWV is bevoegd uit de onder zijn verantwoordelijkheid gevoerde administraties op verzoek van een werkgever als bedoeld in [artikel 73, derde lid, onderdeel a, van de Wet SUWI](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&artikel=73), aan die werkgever in verband met het aangaan of beëindigen van overeenkomsten tot verzekering van de risico’s van het eigenrisicodrager zijn of van betaling van premie als bedoeld in [hoofdstuk 3, afdeling 5, van de Wfsv](https://wetten.overheid.nl/jci1.3:c:BWBR0017745&afdeling=5) kosteloos gegevens te verstrekken, mede afkomstig van de Belastingdienst, over WGA-uitkeringen verstrekt aan werknemers, met vermelding van aanvangsdatum en vermoedelijke einddatum, BSN-nummer en naam van de werknemer, op grond waarvan die werkgever de lasten van uitkeringen ingevolge de Werkhervattingsregeling op grond van de [Wet WIA](https://wetten.overheid.nl/jci1.3:c:BWBR0019057) kan bepalen die aan de werkgever worden doorbelast op grond van de [Wfsv](https://wetten.overheid.nl/jci1.3:c:BWBR0017745) dan wel de Wet WIA.
 
 2. Het UWV is bevoegd op verzoek uit de onder zijn verantwoordelijkheid gevoerde administraties aan een financiële onderneming als bedoeld in [artikel 73, derde lid, onderdeel b, van de Wet SUWI](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&artikel=73):
 
-- a. kosteloos te verstrekken gegevens als bedoeld in [artikel 5.12, eerste lid, onderdelen a, b, c en d](https://wetten.overheid.nl/jci1.3:c:BWBR0013267&hoofdstuk=5&paragraaf=5.4&artikel=5.12&z=2017-01-01&g=2016-10-28) , afkomstig van de rijksbelastingdienst, en gegevens van de werknemer, die een WGA-uitkering op grond van de [Wet WIA](https://wetten.overheid.nl/jci1.3:c:BWBR0019057) ontvangt, omtrent het dagloon dat aan de uitkering ten grondslag ligt, de mate van arbeidsongeschiktheid uitgedrukt in het arbeidsongeschiktheidspercentage, en de duur van uitkering in verband met de uitvoering van de overeenkomsten met werkgevers tot verzekering van het risico van het betalen van premie voor de arbeidsongeschiktheidsverzekering op grond van de [Wfsv](https://wetten.overheid.nl/jci1.3:c:BWBR0017745) en van de betalingen als gevolg van het eigenrisicodragen, bedoeld in [artikel 40, eerste lid, onderdeel b, van de Wfsv](https://wetten.overheid.nl/jci1.3:c:BWBR0017745&artikel=40);
+- a. kosteloos te verstrekken gegevens als bedoeld in [artikel 5.12, eerste lid, onderdelen a, b, c en d](https://wetten.overheid.nl/jci1.3:c:BWBR0013267&hoofdstuk=5&paragraaf=5.4&artikel=5.12&z=2017-01-01&g=2017-01-01) , afkomstig van de rijksbelastingdienst, en gegevens van de werknemer, die een WGA-uitkering op grond van de [Wet WIA](https://wetten.overheid.nl/jci1.3:c:BWBR0019057) ontvangt, omtrent het dagloon dat aan de uitkering ten grondslag ligt, de mate van arbeidsongeschiktheid uitgedrukt in het arbeidsongeschiktheidspercentage, en de duur van uitkering in verband met de uitvoering van de overeenkomsten met werkgevers tot verzekering van het risico van het betalen van premie voor de arbeidsongeschiktheidsverzekering op grond van de [Wfsv](https://wetten.overheid.nl/jci1.3:c:BWBR0017745) en van de betalingen als gevolg van het eigenrisicodragen, bedoeld in [artikel 40, eerste lid, onderdeel b, van de Wfsv](https://wetten.overheid.nl/jci1.3:c:BWBR0017745&artikel=40);
 
-- b. gegevens te verstrekken als bedoeld in artikel [5.12, eerste lid, onderdelen a, b, c en d](https://wetten.overheid.nl/jci1.3:c:BWBR0013267&hoofdstuk=5&paragraaf=5.4&artikel=5.12&z=2017-01-01&g=2016-10-28) , afkomstig van de rijksbelastingdienst, in verband met de uitvoering van de overeenkomsten met werkgevers tot verzekering van het risico van het betalen van loon in geval van ziekte en van de betaling van ziekengeld, bedoeld in [artikel 40, eerste lid, onderdeel a, van de Wfsv](https://wetten.overheid.nl/jci1.3:c:BWBR0017745&artikel=40).
+- b. gegevens te verstrekken als bedoeld in artikel [5.12, eerste lid, onderdelen a, b, c en d](https://wetten.overheid.nl/jci1.3:c:BWBR0013267&hoofdstuk=5&paragraaf=5.4&artikel=5.12&z=2017-01-01&g=2017-01-01) , afkomstig van de rijksbelastingdienst, in verband met de uitvoering van de overeenkomsten met werkgevers tot verzekering van het risico van het betalen van loon in geval van ziekte en van de betaling van ziekengeld, bedoeld in [artikel 40, eerste lid, onderdeel a, van de Wfsv](https://wetten.overheid.nl/jci1.3:c:BWBR0017745&artikel=40).
 
 ##### Artikel 5.14. Verstrekking van gegevens door het UWV aan financiële ondernemingen
 
@@ -634,13 +632,13 @@ met dien verstande dat de gegevens uitsluitend gebruikt mogen worden voor het ve
 
 4. De door de bewerker vervaardigde statistieken, bedoeld in het eerste lid, worden om niet ter beschikking gesteld aan Onze Minister en aan De Nederlandsche Bank N.V.
 
-##### Artikel 5.15. Gegevensverstrekking door de SVB en het UWV aan instanties, bedoeld in [artikel 73, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&artikel=73)
+##### Artikel 5.15. Gegevensverstrekking door de SVB en het UWV aan instanties, bedoeld in de [artikelen 73, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&artikel=73), en [73a](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&artikel=73a)
 
-1. De SVB en het UWV zijn bevoegd op verzoek uit de onder hun verantwoordelijkheid gevoerde administraties aan derden, genoemd in [artikel 73, eerste lid, van de Wet SUWI](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&artikel=73), en derden, bedoeld in [artikel 5.12, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013267&hoofdstuk=5&paragraaf=5.4&artikel=5.12&z=2017-01-01&g=2016-10-28), persoonsgegevens, gegevens over de uitkeringsverhouding en over opleiding en werkervaring te verstrekken.
+1. De SVB en het UWV zijn bevoegd op verzoek uit de onder hun verantwoordelijkheid gevoerde administraties aan instanties, genoemd in [artikel 73, eerste en tweede lid, van de Wet SUWI](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&artikel=73), en derden, bedoeld in [artikel 5.12, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013267&hoofdstuk=5&paragraaf=5.4&artikel=5.12&z=2017-01-01&g=2017-01-01), persoonsgegevens, gegevens over de uitkeringsverhouding en over opleiding en werkervaring te verstrekken.
 
-2. De in het eerste lid bedoelde gegevens, niet zijnde persoonsgegevens als bedoeld in [artikel 16 van de Wet bescherming persoonsgegevens](https://wetten.overheid.nl/jci1.3:c:BWBR0011468&artikel=16), kunnen door de SVB en het UWV systematisch worden verstrekt aan de derden, genoemd in [artikel 73, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&artikel=73), indien met de desbetreffende derden overeenstemming is bereikt over de te verstrekken gegevens, de omstandigheden waaronder, de regelmaat waarmee en de wijze waarop die verstrekking plaatsvindt, vast te leggen in een besluit, dat op adequate wijze wordt bekendgemaakt.
+2. De in het eerste lid bedoelde gegevens, niet zijnde persoonsgegevens als bedoeld in [artikel 16 van de Wet bescherming persoonsgegevens](https://wetten.overheid.nl/jci1.3:c:BWBR0011468&artikel=16), kunnen door de SVB en het UWV systematisch worden verstrekt aan de instanties, genoemd in [artikel 73, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&artikel=73), indien met de desbetreffende instantie overeenstemming is bereikt over de te verstrekken gegevens, de omstandigheden waaronder, de regelmaat waarmee en de wijze waarop die verstrekking plaatsvindt, vast te leggen in een besluit, dat op adequate wijze wordt bekendgemaakt.
 
-3. De bevoegdheid op grond van het eerste lid geldt ook voor het UWV voor het verstrekken van andere gegevens dan bedoeld in [artikel 5.12](https://wetten.overheid.nl/jci1.3:c:BWBR0013267&hoofdstuk=5&paragraaf=5.4&artikel=5.12&z=2017-01-01&g=2016-10-28), die door het UWV worden verwerkt op grond van [artikel 33a van de Wet SUWI](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&artikel=33a).
+3. De bevoegdheid op grond van het eerste lid geldt ook voor het UWV voor het verstrekken van andere gegevens dan bedoeld in [artikel 5.12](https://wetten.overheid.nl/jci1.3:c:BWBR0013267&hoofdstuk=5&paragraaf=5.4&artikel=5.12&z=2017-01-01&g=2017-01-01), die door het UWV worden verwerkt op grond van [artikel 33a van de Wet SUWI](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&artikel=33a).
 
 4. Bij ministeriële regeling wordt bepaald welke gegevens op grond van het derde lid worden verstrekt.
 
@@ -1302,7 +1300,7 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 ##### Artikel 5.2b. Correctieverzoeken
 
-1. Indien een betrokkene op wie de gegevens betrekking hebben bij het indienen van de aanvraag, bedoeld in [artikel 30c, eerste lid, van de Wet SUWI](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&artikel=30c) dan wel een aanvraag voor een uitkering als bedoeld in [artikel 30, eerste lid, van de Wet SUWI](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&artikel=30), op grond van de informatie, bedoeld in [artikel 5.2a, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013267&hoofdstuk=5&paragraaf=5.1a&artikel=5.2a&z=2017-01-01&g=2016-10-28), vaststelt, dat de gegevens niet juist of niet volledig zijn, kan hij het UWV dan wel het desbetreffende college van burgemeester en wethouders verzoeken bij de uitvoering van gegevensverwerking als bedoeld in [artikel 62 van de Wet SUWI](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&artikel=62) zorg te dragen voor verbetering, aanvulling of verwijdering van deze gegevens.
+1. Indien een betrokkene op wie de gegevens betrekking hebben bij het indienen van de aanvraag, bedoeld in [artikel 30c, eerste lid, van de Wet SUWI](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&artikel=30c) dan wel een aanvraag voor een uitkering als bedoeld in [artikel 30, eerste lid, van de Wet SUWI](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&artikel=30), op grond van de informatie, bedoeld in [artikel 5.2a, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013267&hoofdstuk=5&paragraaf=5.1a&artikel=5.2a&z=2017-01-01&g=2017-01-01), vaststelt, dat de gegevens niet juist of niet volledig zijn, kan hij het UWV dan wel het desbetreffende college van burgemeester en wethouders verzoeken bij de uitvoering van gegevensverwerking als bedoeld in [artikel 62 van de Wet SUWI](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&artikel=62) zorg te dragen voor verbetering, aanvulling of verwijdering van deze gegevens.
 
 2. Indien het UWV en de colleges van burgemeester en wethouders voor de verwerking van die gegevens geen verantwoordelijke in de zin van de [Wet bescherming persoonsgegevens](https://wetten.overheid.nl/jci1.3:c:BWBR0011468) zijn, wordt het verzoek onverwijld gezonden naar de verantwoordelijk in de zin van de [Wet bescherming persoonsgegevens](https://wetten.overheid.nl/jci1.3:c:BWBR0011468) om dit aan te merken als een verzoek als bedoeld in [artikel 36 van de Wet bescherming persoonsgegevens](https://wetten.overheid.nl/jci1.3:c:BWBR0011468&artikel=36) of een daarmee op grond van de toepasselijke wetgeving gelijk te stellen verzoek.
 
@@ -1362,9 +1360,9 @@ Bij ministeriële regeling wordt in het Gegevensregister SUWI bepaald:
 
 1. De elektronische voorzieningen worden tevens gebruikt voor de verwerking van gegevens als bedoeld in [artikel 62, tweede lid, tweede zin, van de Wet SUWI](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&artikel=62) indien er een overeenkomst is gesloten tussen één van de gebruikers, voor zover die tot de gegevensverstrekking of het opvragen van de gegevens bevoegd is, en een derde partij. De overeenkomst heeft in ieder geval betrekking op de gegevens die worden verstrekt en de stelselmatigheid van de verstrekking.
 
-2. In geval één van de partijen bij een overeenkomst als bedoeld in het eerste lid een college van burgemeester en wethouders is treedt het Inlichtingenbureau namens het betrokken college van burgemeester en wethouders als partij op, indien het de verwerking van gegevens betreft, bedoeld in [artikel 5.24](https://wetten.overheid.nl/jci1.3:c:BWBR0013267&hoofdstuk=5&paragraaf=5.7&artikel=5.24&z=2017-01-01&g=2016-10-28).
+2. In geval één van de partijen bij een overeenkomst als bedoeld in het eerste lid een college van burgemeester en wethouders is treedt het Inlichtingenbureau namens het betrokken college van burgemeester en wethouders als partij op, indien het de verwerking van gegevens betreft, bedoeld in [artikel 5.24](https://wetten.overheid.nl/jci1.3:c:BWBR0013267&hoofdstuk=5&paragraaf=5.7&artikel=5.24&z=2017-01-01&g=2017-01-01).
 
-3. Op de gegevensverstrekking, bedoeld in dit artikel, is [artikel 5.20](https://wetten.overheid.nl/jci1.3:c:BWBR0013267&hoofdstuk=5&paragraaf=5.6&artikel=5.20&z=2017-01-01&g=2016-10-28) van overeenkomstige toepassing.
+3. Op de gegevensverstrekking, bedoeld in dit artikel, is [artikel 5.20](https://wetten.overheid.nl/jci1.3:c:BWBR0013267&hoofdstuk=5&paragraaf=5.6&artikel=5.20&z=2017-01-01&g=2017-01-01) van overeenkomstige toepassing.
 
 4. Bij ministeriële regeling kunnen nadere regels worden gesteld over de overeenkomst, bedoeld in het eerste lid.
 
@@ -1380,13 +1378,13 @@ Bij ministeriële regeling wordt in het Gegevensregister SUWI bepaald:
 
 ##### Artikel 5.25. Rijksbijdrage, begroting, jaarplan, budget, jaarverslag, jaarrekening en accountantsverklaring
 
-1. De kosten van het Inlichtingebureau voor de uitvoering van de taken, bedoeld in [artikel 5.24, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013267&hoofdstuk=5&paragraaf=5.7&artikel=5.24&z=2017-01-01&g=2016-10-28), komen ten laste van de daartoe door Onze Minister toegekende rijksbijdrage.
+1. De kosten van het Inlichtingebureau voor de uitvoering van de taken, bedoeld in [artikel 5.24, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013267&hoofdstuk=5&paragraaf=5.7&artikel=5.24&z=2017-01-01&g=2017-01-01), komen ten laste van de daartoe door Onze Minister toegekende rijksbijdrage.
 
 2. Het Inlichtingenbureau stelt hiertoe elk jaar een begroting en een jaarplan voor het komende kalenderjaar vast en biedt deze vóór een door Onze Minister vast te stellen datum aan hem aan.
 
 3. Onze Minister stelt jaarlijks vóór 1 december het budget voor de uitvoeringskosten van het Inlichtingenbureau voor het eerstvolgende kalenderjaar vast. Hij kan besluiten dit budget te wijzigen. Het Inlichtingenbureau gaat met betrekking tot de uitvoering van zijn wettelijke taken geen verplichtingen aan en doet geen uitgaven die leiden tot een overschrijding van het vastgestelde budget. Wanneer het budget niet is vastgesteld vóór 1 januari van het kalenderjaar waarop de begroting betrekking heeft, is het Inlichtingenbureau bevoegd, teneinde zijn activiteiten gaande te houden, te beschikken over ten hoogste een derde gedeelte van het budget dat laatstelijk voor een geheel jaar is vastgesteld. Onze Minister kan besluiten dat het Inlichtingenbureau in een geval als bedoeld in de vorige zin, kan beschikken over meer dan een derde gedeelte van het budget dat laatstelijk voor een geheel jaar is vastgesteld.
 
-4. Het Inlichtingenbureau stelt jaarlijks een jaarverslag en een jaarrekening op en biedt deze vóór 15 maart van het kalenderjaar volgend op het jaar waarop deze betrekking hebben aan Onze Minister aan. Het Inlichtingenbureau beschrijft in zijn jaarverslag de taakuitoefening, het gevoerde beleid en de doelmatigheid van de uitvoering van de taken, bedoeld in [artikel 5.24, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013267&hoofdstuk=5&paragraaf=5.7&artikel=5.24&z=2017-01-01&g=2016-10-28), in het afgelopen jaar en legt in zijn jaarrekening rekening en verantwoording af over het financieel beheer, alsmede over de rechtmatigheid van genoemde taken in het verstreken boekjaar. De jaarrekening gaat vergezeld van een verklaring omtrent de getrouwheid, afgegeven door een door het Inlichtingenbureau aangewezen accountant als bedoeld in [artikel 393, eerste lid, van Boek 2 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=393). Deze verklaring heeft mede betrekking op de rechtmatige besteding van de middelen door het Inlichtingenbureau. De accountant voegt bij de verklaring tevens een verslag van zijn bevindingen over de vraag of het beheer en de organisatie van het Inlichtingenbureau voldoen aan de eisen van doelmatigheid.
+4. Het Inlichtingenbureau stelt jaarlijks een jaarverslag en een jaarrekening op en biedt deze vóór 15 maart van het kalenderjaar volgend op het jaar waarop deze betrekking hebben aan Onze Minister aan. Het Inlichtingenbureau beschrijft in zijn jaarverslag de taakuitoefening, het gevoerde beleid en de doelmatigheid van de uitvoering van de taken, bedoeld in [artikel 5.24, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013267&hoofdstuk=5&paragraaf=5.7&artikel=5.24&z=2017-01-01&g=2017-01-01), in het afgelopen jaar en legt in zijn jaarrekening rekening en verantwoording af over het financieel beheer, alsmede over de rechtmatigheid van genoemde taken in het verstreken boekjaar. De jaarrekening gaat vergezeld van een verklaring omtrent de getrouwheid, afgegeven door een door het Inlichtingenbureau aangewezen accountant als bedoeld in [artikel 393, eerste lid, van Boek 2 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=393). Deze verklaring heeft mede betrekking op de rechtmatige besteding van de middelen door het Inlichtingenbureau. De accountant voegt bij de verklaring tevens een verslag van zijn bevindingen over de vraag of het beheer en de organisatie van het Inlichtingenbureau voldoen aan de eisen van doelmatigheid.
 
 5. Bij ministeriële regeling kunnen regels worden gesteld omtrent de inhoud en de indiening van de begroting en ontwerpen daarvan, het jaarplan, tussentijdse verslagen, het jaarverslag, de jaarrekening, de verklaring, bedoeld in het vierde lid, en het aan die verklaring ten grondslag liggende onderzoek.
 
@@ -1653,7 +1651,7 @@ Dit artikel treedt niet meer in werking. Het artikel is ingetrokken door Stb. 20
 
 2. Het college van burgemeester en wethouders van de gemeente waarin een locatie werk en inkomen als bedoeld in het eerste lid is gevestigd, draagt zorg voor de totstandkoming, organisatie en ondersteuning van een regionaal netwerk van werk, inkomen en scholing, waarin periodiek overleg wordt gevoerd over afstemming van regionale arbeidsmarktvraagstukken en uitvoering van regionale arbeidsmarktprojecten.
 
-3. Aan het regionale netwerk, bedoeld in het tweede lid, wordt in ieder geval deelgenomen door werkgevers of vertegenwoordigers daarvan, organisaties van werknemers, instanties als bedoeld in [artikel 2.3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013267&hoofdstuk=2&artikel=2.3&z=2017-01-01&g=2016-10-28), het UWV en alle gemeenten uit de regio. De deelnemers van het regionale netwerk kiezen uit hun midden een voorzitter, die de activiteiten van het netwerk coördineert.
+3. Aan het regionale netwerk, bedoeld in het tweede lid, wordt in ieder geval deelgenomen door werkgevers of vertegenwoordigers daarvan, organisaties van werknemers, instanties als bedoeld in [artikel 2.3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013267&hoofdstuk=2&artikel=2.3&z=2017-01-01&g=2017-01-01), het UWV en alle gemeenten uit de regio. De deelnemers van het regionale netwerk kiezen uit hun midden een voorzitter, die de activiteiten van het netwerk coördineert.
 
 4. Het UWV en het college van burgemeester en wethouders van de gemeente waarin een locatie werk en inkomen, bedoeld in het eerste lid, is gevestigd, dragen zorg voor:
 
@@ -1667,7 +1665,7 @@ Dit artikel treedt niet meer in werking. Het artikel is ingetrokken door Stb. 20
 
 Dit artikel treedt niet meer in werking. Het artikel is ingetrokken door Stb. 2012/283.
 
-1. Het UWV en de colleges van burgemeester en wethouders van de gemeenten die bij een locatie werk en inkomen zijn betrokken, stellen een gezamenlijk jaarplan op, waarin op basis van een gedeelde arbeidsmarktanalyse, wordt vermeld op welke wijze uitwerking wordt gegeven aan [artikel 2.3.](https://wetten.overheid.nl/jci1.3:c:BWBR0013267&hoofdstuk=2&artikel=2.3&z=2017-01-01&g=2016-10-28) en in geval van samenwerking in de vorm van een regionale werkplein op welke wijze uitwerking wordt gegeven aan [artikel 2.4](https://wetten.overheid.nl/jci1.3:c:BWBR0013267&hoofdstuk=2&artikel=2.4&z=2017-01-01&g=2016-10-28). Het gezamenlijke jaarplan wordt bekend gemaakt op een daartoe ingerichte website.
+1. Het UWV en de colleges van burgemeester en wethouders van de gemeenten die bij een locatie werk en inkomen zijn betrokken, stellen een gezamenlijk jaarplan op, waarin op basis van een gedeelde arbeidsmarktanalyse, wordt vermeld op welke wijze uitwerking wordt gegeven aan [artikel 2.3.](https://wetten.overheid.nl/jci1.3:c:BWBR0013267&hoofdstuk=2&artikel=2.3&z=2017-01-01&g=2017-01-01) en in geval van samenwerking in de vorm van een regionale werkplein op welke wijze uitwerking wordt gegeven aan [artikel 2.4](https://wetten.overheid.nl/jci1.3:c:BWBR0013267&hoofdstuk=2&artikel=2.4&z=2017-01-01&g=2017-01-01). Het gezamenlijke jaarplan wordt bekend gemaakt op een daartoe ingerichte website.
 
 2. Het UWV en de colleges van burgemeester en wethouders die bij een locatie werk en inkomen zijn betrokken, stellen een gezamenlijk jaarverslag op, waarin verantwoording wordt afgelegd over de onderwerpen uit het jaarplan. Het gezamenlijke jaarverslag wordt bekend gemaakt op de website, bedoeld in het eerste lid.
 
@@ -2244,7 +2242,7 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 1. Op het verwerken van de justitiële gegevens die het UWV, de SVB en de colleges van burgemeester en wethouders op grond van [artikel 13a van het Besluit justitiële en strafvorderlijke gegevens](https://wetten.overheid.nl/jci1.3:c:BWBR0016544&artikel=13a) ontvangen voor het nemen van een besluit tot oplegging van een bestuurlijke boete ter uitvoering van de in artikel 13a, tweede lid, van dat Besluit genoemde wetten, zijn de elektronische voorzieningen, bedoeld in [artikel 62, tweede lid, van de Wet SUWI](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&artikel=62) van toepassing.
 
-2. [Artikel 5.20](https://wetten.overheid.nl/jci1.3:c:BWBR0013267&hoofdstuk=5&paragraaf=5.6&artikel=5.20&z=2017-01-01&g=2016-10-28) is van overeenkomstige toepassing, waarbij voorts regels worden gesteld voor de bewaartermijnen van de gegevens, bedoeld in het eerste lid.
+2. [Artikel 5.20](https://wetten.overheid.nl/jci1.3:c:BWBR0013267&hoofdstuk=5&paragraaf=5.6&artikel=5.20&z=2017-01-01&g=2017-01-01) is van overeenkomstige toepassing, waarbij voorts regels worden gesteld voor de bewaartermijnen van de gegevens, bedoeld in het eerste lid.
 
 #### § 5.7. Inlichtingenbureau
 
@@ -2426,9 +2424,7 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 ##### Artikel 4.1a. Re-integratieverantwoordelijkheid UWV voor ontvangers WGA-uitkeringen bij eigenrisicodragen
 
-1. Het UWV heeft de taak, bedoeld in [artikel 30a, eerste lid, van de Wet SUWI](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&artikel=30a) ten aanzien van de werknemer, die recht heeft op een WGA-uitkering in de zin van de [Wet WIA](https://wetten.overheid.nl/jci1.3:c:BWBR0019057) als bedoeld in [artikel 82, eerste lid, van de Wet WIA](https://wetten.overheid.nl/jci1.3:c:BWBR0019057&artikel=82), en die op de eerste dag van arbeidsongeschiktheid tot werken in een dienstbetrekking stond van een eigenrisicodrager als bedoeld in de Wet WIA waarbij die dag gelegen is vóór de dag van ingang van het eigenrisicodragen, indien die eigenrisicodrager een kleine of middelgrote werkgever is als bedoeld in [artikel 2.5, eerste lid, onderdelen b en c, van het Besluit Wfsv](https://wetten.overheid.nl/jci1.3:c:BWBR0019070&artikel=2.5) of een grote werkgever is als bedoeld in artikel 2.5, eerste lid, onderdeel d, van het Besluit Wfsv, die na 1 juli 2015 eigenrisicodrager is geworden als bedoeld in [artikel 40, eerste lid, onderdeel b, van de Wfsv](https://wetten.overheid.nl/jci1.3:c:BWBR0017745&artikel=40).
-
-2. Dit artikel vervalt met ingang van 1 januari 2017.
+Vervallen
 
 #### § 4.2. Individuele re-integratieovereenkomst.
 
@@ -2462,7 +2458,7 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 ##### Artikel 5a.1. Voorwaarden inzet SyRI
 
-1. Indien het verzoek van het samenwerkingsverband voldoet aan de voorwaarden, bedoeld in het tweede tot en met vierde lid, en uit de in het zesde lid bedoelde prioritering blijkt dat er voldoende capaciteit beschikbaar is voor de koppeling, bedoeld in [artikel 5a.2](https://wetten.overheid.nl/jci1.3:c:BWBR0013267&hoofdstuk=5a&artikel=5a.2&z=2017-01-01&g=2016-10-28), en de analyse, bedoeld in [artikel 5a.3](https://wetten.overheid.nl/jci1.3:c:BWBR0013267&hoofdstuk=5a&artikel=5a.3&z=2017-01-01&g=2016-10-28), verwerkt Onze Minister de gegevens, bedoeld in [artikel 64, tweede lid, van de Wet SUWI](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&artikel=64) in SyRI.
+1. Indien het verzoek van het samenwerkingsverband voldoet aan de voorwaarden, bedoeld in het tweede tot en met vierde lid, en uit de in het zesde lid bedoelde prioritering blijkt dat er voldoende capaciteit beschikbaar is voor de koppeling, bedoeld in [artikel 5a.2](https://wetten.overheid.nl/jci1.3:c:BWBR0013267&hoofdstuk=5a&artikel=5a.2&z=2017-01-01&g=2017-01-01), en de analyse, bedoeld in [artikel 5a.3](https://wetten.overheid.nl/jci1.3:c:BWBR0013267&hoofdstuk=5a&artikel=5a.3&z=2017-01-01&g=2017-01-01), verwerkt Onze Minister de gegevens, bedoeld in [artikel 64, tweede lid, van de Wet SUWI](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&artikel=64) in SyRI.
 
 2. Uit het verzoek blijkt in ieder geval:
 
@@ -2532,7 +2528,7 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 ##### Artikel 5a.2. Koppeling door bewerker
 
-1. Indien het verzoek voldoet aan [artikel 5a.1, tweede tot en met vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013267&hoofdstuk=5a&artikel=5a.1&z=2017-01-01&g=2016-10-28), worden de gegevens overeenkomstig [artikel 65, eerste lid, van de Wet SUWI](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&artikel=65) verwerkt, nadat het samenwerkingsverband de noodzakelijke bestanden kosteloos en voldoende beveiligd aan de bewerker heeft aangeleverd.
+1. Indien het verzoek voldoet aan [artikel 5a.1, tweede tot en met vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013267&hoofdstuk=5a&artikel=5a.1&z=2017-01-01&g=2017-01-01), worden de gegevens overeenkomstig [artikel 65, eerste lid, van de Wet SUWI](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&artikel=65) verwerkt, nadat het samenwerkingsverband de noodzakelijke bestanden kosteloos en voldoende beveiligd aan de bewerker heeft aangeleverd.
 
 2. Als bewerker voor de koppeling van de bestanden in SyRI wordt de Stichting Inlichtingenbureau aangewezen.
 
@@ -2556,7 +2552,7 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 ##### Artikel 5a.3. Analyse resultaten
 
-1. Onze Minister analyseert de verstrekte gegevens, bedoeld in [artikel 5a.2, derde lid, onderdeel g](https://wetten.overheid.nl/jci1.3:c:BWBR0013267&hoofdstuk=5a&artikel=5a.2&z=2017-01-01&g=2016-10-28), en bepaalt in welke gevallen deze leiden tot een risicomelding.
+1. Onze Minister analyseert de verstrekte gegevens, bedoeld in [artikel 5a.2, derde lid, onderdeel g](https://wetten.overheid.nl/jci1.3:c:BWBR0013267&hoofdstuk=5a&artikel=5a.2&z=2017-01-01&g=2017-01-01), en bepaalt in welke gevallen deze leiden tot een risicomelding.
 
 2. Onze Minister verstrekt aan de betreffende bestuursorganen en personen van het samenwerkingsverband de in aanmerking komende risicomeldingen die noodzakelijk zijn voor een goede uitvoering van hun wettelijke taak.
 
@@ -2564,11 +2560,11 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 4. De terugkoppeling, bedoeld in [artikel 65, zesde lid, van de Wet SUWI](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&artikel=65) vindt plaats binnen twintig maanden te rekenen vanaf de aanvang van het SyRI-project.
 
-5. Onverminderd de regels krachtens [artikel 5a.5](https://wetten.overheid.nl/jci1.3:c:BWBR0013267&hoofdstuk=5a&artikel=5a.5&z=2017-01-01&g=2016-10-28), vernietigt Onze Minister na de terugkoppeling, bedoeld in [artikel 65, zesde lid, van de Wet SUWI](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&artikel=65), maar in ieder geval uiterlijk twee jaar nadat het SyRI-project is aangevangen, alle in het kader van dat project verkregen gegevens, waaronder de via de terugkoppeling verkregen gegevens.
+5. Onverminderd de regels krachtens [artikel 5a.5](https://wetten.overheid.nl/jci1.3:c:BWBR0013267&hoofdstuk=5a&artikel=5a.5&z=2017-01-01&g=2017-01-01), vernietigt Onze Minister na de terugkoppeling, bedoeld in [artikel 65, zesde lid, van de Wet SUWI](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&artikel=65), maar in ieder geval uiterlijk twee jaar nadat het SyRI-project is aangevangen, alle in het kader van dat project verkregen gegevens, waaronder de via de terugkoppeling verkregen gegevens.
 
 ##### Artikel 5a.4. Aanvang en einde SyRI-project
 
-1. Onze Minister bepaalt de aanvangsdatum van het SyRI-project indien het verzoek aan [artikel 5a.1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013267&hoofdstuk=5a&artikel=5a.1&z=2017-01-01&g=2016-10-28), voldoet. Hiervan doet hij mededeling in de Staatscourant.
+1. Onze Minister bepaalt de aanvangsdatum van het SyRI-project indien het verzoek aan [artikel 5a.1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013267&hoofdstuk=5a&artikel=5a.1&z=2017-01-01&g=2017-01-01), voldoet. Hiervan doet hij mededeling in de Staatscourant.
 
 2. Het SyRI-project eindigt zodra de terugkoppelingen, bedoeld in [artikel 65, zesde lid, van de Wet SUWI](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&artikel=65) bij Onze Minister zijn ingediend of Onze Minister hiertoe besluit.
 
@@ -2600,7 +2596,7 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 ##### Artikel 5a.7. Proces-verbaal vernietiging
 
-1. De bewerker respectievelijk Onze Minister stelt bij vernietiging van gegevens als bedoeld in [artikel 5a.2, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013267&hoofdstuk=5a&artikel=5a.2&z=2017-01-01&g=2016-10-28), respectievelijk [artikel 5a.3, derde en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013267&hoofdstuk=5a&artikel=5a.3&z=2017-01-01&g=2016-10-28), en [artikel 5a.5, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013267&hoofdstuk=5a&artikel=5a.5&z=2017-01-01&g=2016-10-28), ter zake een proces-verbaal van vernietiging op waarin staat op welke wijze de gegevens zijn vernietigd alsmede de datum waarop en de locatie waar de vernietiging heeft plaatsgevonden.
+1. De bewerker respectievelijk Onze Minister stelt bij vernietiging van gegevens als bedoeld in [artikel 5a.2, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013267&hoofdstuk=5a&artikel=5a.2&z=2017-01-01&g=2017-01-01), respectievelijk [artikel 5a.3, derde en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013267&hoofdstuk=5a&artikel=5a.3&z=2017-01-01&g=2017-01-01), en [artikel 5a.5, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013267&hoofdstuk=5a&artikel=5a.5&z=2017-01-01&g=2017-01-01), ter zake een proces-verbaal van vernietiging op waarin staat op welke wijze de gegevens zijn vernietigd alsmede de datum waarop en de locatie waar de vernietiging heeft plaatsgevonden.
 
 2. Het proces-verbaal, bedoeld in het eerste lid, wordt door de bewerker respectievelijk Onze Minister ter kennisname aan het samenwerkingsverband verzonden.
 
@@ -2840,9 +2836,11 @@ Bij ministeriële regeling kan worden bepaald dat het UWV opgave doet aan de wer
 
 6. Indien uit de analyse, bedoeld in het derde lid en vierde lid, blijkt dat een persoon geen drempelfunctie of voor een deel één drempelfunctie kan uitvoeren wordt de persoon niet geacht in staat te zijn het minimumloon te verdienen met dien verstande dat de beperkingen of belemmeringen die een persoon ondervindt naar verwachting nog ten minste voor 6 maanden na de beoordeling zullen bestaan.
 
-7. Indien uit de analyse, bedoeld in het derde lid en vierde lid, blijkt dat een persoon één drempelfunctie kan uitvoeren of één drempelfunctie kan uitvoeren met behulp van aanpassingen of begeleiding wordt de persoon geacht in staat te zijn het minimumloon te verdienen.
+7. Indien uit de analyse, bedoeld in het derde lid en vierde lid, blijkt dat een persoon één drempelfunctie kan uitvoeren of één drempelfunctie kan uitvoeren met behulp van aanpassingen wordt de persoon geacht in staat te zijn het minimumloon te verdienen.
 
 8. Met betrekking tot de beoordeling door het UWV of een persoon een arbeidsbeperkte is als bedoeld in [artikel 38b, tweede lid, van de Wfsv](https://wetten.overheid.nl/jci1.3:c:BWBR0017745&artikel=38b), is dit artikel van overeenkomstige toepassing met dien verstande dat in afwijking van het zevende lid uit de analyse, bedoeld in het derde lid en vierde lid, blijkt dat een persoon één drempelfunctie met behulp van een voorziening op grond van [artikel 10 van de Participatiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&artikel=10) of op grond van [artikel 35 van de Wet WIA](https://wetten.overheid.nl/jci1.3:c:BWBR0019057&artikel=35) kan uitvoeren.
+
+9. Op een beoordeling als bedoeld in het eerste lid waarom verzocht is voor 28 oktober 2016 is het zevende lid, zoals dat luidde op 27 oktober 2016, van toepassing.
 
 ### Hoofdstuk 4. Re-integratie.
 
@@ -2858,155 +2856,157 @@ Bij ministeriële regeling kan worden bepaald dat het UWV opgave doet aan de wer
 
 ### Hoofdstuk 6. Slotbepalingen
 
-## Bijlage I. als bedoeld in [artikel 5.2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013267&hoofdstuk=5&paragraaf=5.1&artikel=5.2&z=2017-01-01&g=2016-10-28), Besluit SUWI
+## Bijlage I. als bedoeld in [artikel 5.2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013267&hoofdstuk=5&paragraaf=5.1&artikel=5.2&z=2017-01-01&g=2017-01-01), Besluit SUWI
 
-| Gegeven | Doelen* | Doelen* | Doelen* | Doelen* | Doelen* | Herkomst | Herkomst | Herkomst | Herkomst | Herkomst | Herkomst |
+| Gegeven | Doelen1 |   |   |   |   | Herkomst |   |   |   |   |   |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-|   | UWV, art 33.2a Wet SUWI | UWV, art 33.2b Wet SUWI | UWV, art 33.2c Wet SUWI | BD, art 33.2d Wet SUWI | CBS, art 33.2e Wet SUWI | 1. Loonaangifte 2014 | 2. BRP | 3. UWV (distribuerend of rest) | 4. UWV Vrijwillig Verzekerden | 5. Belastingdienst | 6. SVB |
+|   | UWV 33.2.a | UWV 33.2b | UWV 33.2c | Bld 33.2d | CBS 33.2.e | regeling gegevens uitvraag2 artikelnr | 2. BRP | 3. UWV distr, rest | 4. UWV Vrijw verz. | 5. Bld | 6. SVB |
 | **Straatadres Nederland** |   |   |   |   |   |   |   |   |   |   |   |
-| Huisnummer | X | X | X | X | X | X | X | – | – | – | – |
-| Huisnummertoevoeging | X | X | X | X | X | X | X | – | – | – | – |
-| Straatnaam | X | X | X | X | – | X | X | – | – | – | – |
-| Postcode | X | X | X | X | X | X | X | – | – | – | – |
-| Woonplaatsnaam | X | X | X | X | – | X | X | – | – | – | – |
-| Gemeentenaam | X | X | X | – | – | – | X | – | – | – | – |
-| Woonobjectverwijzing | X | X | X | – | – | – | X | – | – | – | – |
-| Locatieomschrijving | X | X | X | X | – | X | X | – | – | – | – |
+| Huisnummer | X | X | X | X | X | 4.c.2° | X | – | – | – | – |
+| Huisnummertoevoeging | X | X | X | X | X | 4.c.3° | X | – | – | – | – |
+| Straatnaam | X | X | X | X | – | 4.c.1° | X | – | – | – | – |
+| Postcode | X | X | X | X | X | 4.c.5° | X | – | – | – | – |
+| Woonplaatsnaam | X | X | X | X | – | 4.c.6° | X | – | – | – | – |
+| Gemeentenaam | X | X | X | – | – |   | X | – | – | – | – |
+| Woonobjectverwijzing | X | X | X | – | – |   | X | – | – | – | – |
+| Locatieomschrijving | X | X | X | X | – | 4.c.4° | X | – | – | – | – |
 |   |   |   |   |   |   |   |   |   |   |   |   |
 | **Postbusadres Nederland** |   |   |   |   |   |   |   |   |   |   |   |
-| Postbusnummer | X | X | X | – | – | – | – | – | X | – | – |
-| Postcode | X | X | X | – | – | – | – | – | X | – | – |
-| Woonplaatsnaam | X | X | X | – | – | – | – | – | X | – | – |
-| Gemeentenaam | X | X | X | – | – | – | – | – | X | – | – |
-| Locatieomschrijving | X | X | X | – | – | – | – | – | X | – | – |
+| Postbusnummer | X | X | X | – | – |   | – | – | X | – | – |
+| Postcode | X | X | X | – | – |   | – | – | X | – | – |
+| Woonplaatsnaam | X | X | X | – | – |   | – | – | X | – | – |
+| Gemeentenaam | X | X | X | – | – |   | – | – | X | – | – |
+| Locatieomschrijving | X | X | X | – | – |   | – | – | X | – | – |
 |   |   |   |   |   |   |   |   |   |   |   |   |
 | **Straatadres buitenland** |   |   |   |   |   |   |   |   |   |   |   |
-| Huisnummer buitenland | X | X | X | X | X | X | – | X | X | – | – |
-| Huisnummertoevoeging buitenland | X | X | X | X | – | – | – | X | X | – | – |
-| Straatnaam buitenland | X | X | X | X | – | X | – | X | X | – | – |
-| Postcode buitenland | X | X | X | X | X | X | – | X | X | – | – |
-| Woonplaatsnaam buitenland | X | X | X | X | – | X | – | X | X | – | – |
-| Regionaam buitenland | X | X | X | X | – | X | – | X | X | – | – |
-| Locatieomschrijving buitenland | X | X | X | X | – | X | – | X | X | – | – |
-| Landcode ISO buitenland | X | X | X | X | X | X | – | X | X | – | – |
+| Huisnummer buitenland | X | X | X | X | X | 4.d.2° | X | X | X | – | – |
+| Huisnummertoevoeging buitenland | X | X | X | X | – |   | X | X | X | – | – |
+| Straatnaam buitenland | X | X | X | X | – | 4.d.1° | X | X | X | – | – |
+| Postcode buitenland | X | X | X | X | X | 4.d.1° | X | X | X | – | – |
+| Woonplaatsnaam buitenland | X | X | X | X | – | 4.d.5° | X | X | X | – | – |
+| Regionaam buitenland | X | X | X | X | – | 4.d.6° | X | X | X | – | – |
+| Locatieomschrijving buitenland | X | X | X | X | – | 4.d.3° | X | X | X | – | – |
+| Landcode ISO buitenland | X | X | X | X | X | 4.d.7° | X | X | X | – | – |
 |   |   |   |   |   |   |   |   |   |   |   |   |
 | **Natuurlijk persoon** |   |   |   |   |   |   |   |   |   |   |   |
-| Burgerservicenummer | X | X | X | X | X | X | X | – | – | – | – |
-| A-nummer | X | X | X | – | – | – | X | – | – | – | – |
-| Voornamen | X | X | X | – | – | – | X | – | – | – | – |
-| Voorletters | X | X | – | X | – | X | – | – | – | – | – |
-| Voorvoegsels | X | X | X | X | – | X | X | – | – | – | – |
-| Significant deel achternaam | X | X | X | X | X | X | X | – | – | – | – |
-| Aanduiding naamgebruik | X | X | X | – | – | – | X | – | – | – | – |
-| Code bijz nederl schap | X | X | X | – | – | – | X | – | – | – | – |
-| Geboortedatum | X | X | X | X | X | X | X | – | – | – | – |
-| Overlijdensdatum | X | X | X | – | – | – | X | – | – | – | – |
-| Geslacht | X | X | X | X | X | X | X | – | – | – | – |
-| Indicatie curatelestelling | X | X | X | – | – | – | X | – | – | – | – |
-| Indicatie geheim | X | X | X | – | – | – | X | – | – | – | – |
-| Indicatie Vip | X | X | – | X | – | – | – | – | – | X | – |
-| Code burgerlijke staat | X | X | X | – | – | – | X | – | – | – | – |
-| Code leefvorm | X | X | – | – | – | – | X | – | – | – | – |
-| Nationaliteit | X | X | X | – | X | X | X | – | – | – | – |
-| Code verblijfstitel | X | X | X | – | – | – | X | – | – | – | – |
-| Code adellijke titel/predikaat | X | X | X | – | – | – | X | – | – | – | – |
-| Datum vertrek uit Nederland | X | X | X | – | – | – | X | – | – | – | – |
+| Burgerservicenummer | X | X | X | X | X | 4.b.1° | X | – | – | _ | – |
+| A-nummer | X | X | X | – | – |   | X | – | – | – | – |
+| Voornamen | X | X | X | – | – |   | X | – | – | – | – |
+| Voorletters | X | X | – | X | – | 4.b.2° | – | – | – | – | – |
+| Voorvoegsels | X | X | X | X | – | 4.b.3° | X | – | – | – | – |
+| Significant deel achternaam | X | X | X | X | X | 4.b.4° | X | – | – | – | – |
+| Aanduiding naamgebruik | X | X | X | – | – |   | X | – | – | – | – |
+| Code bijz nederl schap | X | X | X | – | – |   | X | – | – | – | – |
+| Geboortedatum | X | X | X | X | X | 4.b.5° | X | – | – | – | – |
+| Overlijdensdatum | X | X | X | – | – |   | X | – | – | – | – |
+| Geslacht | X | X | X | X | X | 4.b.7° | X | – | – | – | – |
+| Indicatie curatelestelling | X | X | X | – | – |   | X | – | – | – | – |
+| Indicatie geheim | X | X | X | – | – |   | X | – | – | – | – |
+| Indicatie Vip | X | X | – | X | – |   | – | – | – | X | – |
+| Code burgerlijke staat | X | X | X | – | – |   | X | – | – | – | – |
+| Code leefvorm | X | X | – | – | – |   | X | – | – | – | – |
+| Nationaliteit | X | X | X | X | X | 4.b.6° | X | – | – | – | – |
+| Code verblijfstitel | X | X | X | – | – |   | X | – | – | – | – |
+| Code adellijke titel/predikaat | X | X | X | – | – |   | X | – | – | – | – |
+| Datum vertrek uit Nederland | X | X | X | – | – |   | X | – | – | – | – |
 |   |   |   |   |   |   |   |   |   |   |   |   |
 | **Gemoedsbezwaardheid** |   |   |   |   |   |   |   |   |   |   |   |
-| Code sz product | X | X | X | X | – | – | – | – | – | – | X |
+| Code sz product | X | X | X | X | – |   | – | – | – | – | X |
 |   |   |   |   |   |   |   |   |   |   |   |   |
 | **Sociaal verzekeringsnummer buitenland** |   |   |   |   |   |   |   |   |   |   |   |
-| Verzekeringsnummer | X | X | – | – | – | – | – | – | – | – | X |
-| Landcode ISO | X | X | – | – | – | – | – | – | – | – | X |
+| Verzekeringsnummer | X | X | – | – | – |   | – | – | – | – | X |
+| Landcode ISO | X | X | – | – | – |   | – | – | – | – | X |
 |   |   |   |   |   |   |   |   |   |   |   |   |
 | **Vaststelling verzekeringsplicht** |   |   |   |   |   |   |   |   |   |   |   |
-| Resultaat onderzoek verzekeringsplicht UWV en/of BD | X | X | – | X | – | – | – | X | – | X | – |
-| Code status verblijfstitel | X | X | X | – | – | – | – | X | – | – | – |
+| Resultaat onderzoek verzekeringsplicht UWV en/of BD | X | X | – | X | – |   | – | X | – | X | – |
+| Code status verblijfstitel | X | X | X | – | – |   | X | X | – | – | – |
 |   |   |   |   |   |   |   |   |   |   |   |   |
 | **Administratieve eenheid** |   |   |   |   |   |   |   |   |   |   |   |
-| Loonheffingennummer | X | X | – | X | X | X | – | – | – | X | – |
-| Naam inhoudingsplichtige | X | X | – | – | – | X | – | – | – | X | – |
+| Loonheffingennummer | X | X | – | X | X | 2.b.1° | – | – | – | X | – |
+| Naam inhoudingsplichtige | X | X | – | – | – | 2.b.2° | – | – | – | X | – |
 |   |   |   |   |   |   |   |   |   |   |   |   |
 | **Inkomstenverhouding** |   |   |   |   |   |   |   |   |   |   |   |
-| Nummer inkomstenverhouding | X | – | – | X | X | X | – | – | – | – | – |
-| Personeelsnummer | X | X | – | X | X | X | – | – | – | – | – |
-| Datum aanvang inkomstenverhouding | X | X | – | X | X | X | – | – | – | – | – |
-| Datum einde inkomstenverhouding | X | X | – | X | X | X | – | – | – | – | – |
-| Code reden einde inkomstenverhouding | – | X | – | – | – | – | – | X | – | – | – |
-| Code reden einde inkomstenverhouding flexwerker | X | X | – | – | X | X | – | – | – | – | – |
+| Nummer inkomstenverhouding | X | – | – | X | X | 4.a.1° | – | – | – | – | – |
+| Personeelsnummer | X | X | – | X | X | 4.a.5° | – | – | – | – | – |
+| Datum aanvang inkomstenverhouding | X | X | – | X | X | 4.a.2° | – | – | – | – | – |
+| Datum einde inkomstenverhouding | X | X | – | X | X | 4.a.3° | – | – | – | – | – |
+| Code reden einde inkomstenverhouding | – | X | – | – | – |   | – | X | – | – | – |
+| Code reden einde inkomstenverhouding flexwerker | X | X | – | – | X | 4.a.4° | – | – | – | – | – |
 |   |   |   |   |   |   |   |   |   |   |   |   |
 | **Tijdvak** |   |   |   |   |   |   |   |   |   |   |   |
-| Datum aanvang tijdvak | X | X | – | X | X | X | – | – | – | – | – |
-| Datum einde tijdvak | X | X | – | X | X | X | – | – | – | – | – |
-| Loon LB/PH | – | – | – | X | X | X | – | – | – | – | – |
-| Loon belast volgens tabel bijzondere beloningen | – | – | – | – | X | X | – | – | – | – | – |
-| Loon SV | X | X | – | X | X | X | – | – | – | – | – |
-| Aanwas in het cumulatieve premieloon Ufo | X | – | – | X | X | X | – | – | – | – | – |
-| Vakantiebijslag | X | X | – | – | X | X | – | – | – | – | – |
-| Opgebouwd recht vakantiebijslag | X | X | – | – | X | X | – | – | – | – | – |
-| Extra periode salaris | X | X | – | – | X | X | – | – | – | – | – |
-| Opgebouwde recht extra periode salaris | X | X | – | – | X | X | – | – | – | – | – |
-| Loon in geld | – | – | – | – | X | X | – | – | – | – | – |
-| Waarde niet in geld uitgekeerd loon | – | – | – | – | X | X | – | – | – | – | – |
-| Loon uit overwerk | – | – | – | – | X | X | – | – | – | – | – |
-| Ingehouden loonbelasting / premie volksverzekeringen | – | – | – | X | X | X | – | – | – | – | – |
-| Basispremie WAO/IVA/WGA | X | – | – | X | X | X | – | – | – | – | – |
-| Gedifferentieerde premie Whk | X | – | – | X | X | X | – | – | – | – | – |
-| Premie WW Awf | X | – | – | X | X | X | – | – | – | – | – |
-| Premie Ufo | X | – | – | X | X | X | – | – | – | – | – |
-| Ingehouden bijdrage Zvw | – | – | – | X | X | X | – | – | – | – | – |
-| Werkgeversheffing Zvw | X | – | – | X | X | X | – | – | – | – | – |
-| Bedrag vergoeding reiskosten | – | – | – | X | X | X | – | – | – | – | – |
-| Verrekende Arbeidskorting | – | – | – | X | X | X | – | – | – | – | – |
-| Bedrag in uitkering begrepen doorbetaalde alimentatie | – | – | – | X | – | X | – | – | – | – | – |
-| Bedrag rechtstreeks betaalde alimentatie | – | – | – | X | – | X | – | – | – | – | – |
-| Waarde privégebruik auto | X | X | – | X | X | X | – | – | – | – | – |
-| werknemersbijdrage privégebruik auto | X | X | – | X | X | X | – | – | – | – | – |
-| Gespaard bedrag levensloopregeling | – | – | – | – | X | X | – | – | – | – | – |
-| Toegepast bedrag levensloopverlofkorting | – | – | – | – | X | X | – | – | – | – | – |
-| Aantal sv dagen | X | X | – | X | X | X | – | – | – | – | – |
-| Aantal verloonde uren | X | X | – | – | X | X | – | – | – | – | – |
+| Datum aanvang tijdvak | X | X | – | X | X | 2.c.1° | – | – | – | – | – |
+| Datum einde tijdvak | X | X | – | X | X | 2.c.2° | – | – | – | – | – |
+| Loon LB/PH | – | – | – | X | X | 4.f.1° | – | – | – | – | – |
+| Loon belast volgens tabel bijzondere beloningen | – | – | – | – | X | 4.f.4° |   | – | – | – | – |
+| Loon SV | X | X | – | X | X | 4.f.2° | – | – | – | – | – |
+| Aanwas in het cumulatieve premieloon Ufo | X | – | – | X | X | 4.f.3° | – | – | – | – | – |
+| Vakantiebijslag | X | X | – | – | X | 4.f.5° | – | – | – | – | – |
+| Opgebouwd recht vakantiebijslag | X | X | – | – | X | 4.f.6° | – | – | – | – | – |
+| Extra periode salaris | X | X | – | – | X | 4.f.7° | – | – | – | – | – |
+| Opgebouwde recht extra periode salaris | X | X | – | – | X | 4.f.8° | – | – | – | – | – |
+| Loon in geld | X | – | – | X | X | 4.f.9° | – | – | – | – | – |
+| Waarde niet in geld uitgekeerd loon | X | – | – | X | X | 4.f.10° | – | – | – | – | – |
+| Loon uit overwerk | – | – | – | – | X | 4.f.11° | – | – | – | – | – |
+| Ingehouden loonbelasting / premie volksverzekeringen | – | – | – | X | X | 4.f.13° | – | – | – | – | – |
+| Basispremie WAO/IVA/WGA | X | – | – | X | X | 4.f.14° | – | – | – | – | – |
+| Gedifferentieerde premie Whk | X | – | – | X | X | 4.f.15° | – | – | – | – | – |
+| Premie WW Awf | X | – | – | X | X | 4.f.16° | – | – | – | – | – |
+| Premie Ufo | X | – | – | X | X | 4.f.17° | – | – | – | – | – |
+| Ingehouden bijdrage Zvw | – | – | – | X | X | 4.f.18° | – | – | – | – | – |
+| Werkgeversheffing Zvw | X | – | – | X | X | 4.f.19° | – | – | – | – | – |
+| Bedrag vergoeding reiskosten | – | – | – | X | X | 4.f.24° | – | – | – | – | – |
+| Verrekende Arbeidskorting | – | – | – | X | X | 4.f.25° | – | – | – | – | – |
+| Bedrag in uitkering begrepen doorbetaalde alimentatie | – | – | – | X | – | 4.f.30° | – | – | – | – | – |
+| Bedrag rechtstreeks betaalde alimentatie | – | – | – | X | – | 4.f.31° | – | – | – | – | – |
+| Waarde privégebruik auto | X | X | – | X | X | 4.f.20° | – | – | – | – | – |
+| werknemersbijdrage privégebruik auto | X | X | – | X | X | 4.f.21° | – | – | – | – | – |
+| Gespaard bedrag levensloopregeling | – | – | – | – | X | 4.f.22° | – | – | – | – | – |
+| Toegepast bedrag levensloopverlofkorting | – | – | – | X | X | 4.f.23° | – | – | – | – | – |
+| Aantal verloonde uren | X | X | – | X | X | 4.f.26° | – | – | – | – | – |
+| Contractloon | – | – | – | – | X | 4.f.27° | – | – | – | – | – |
+| Aantal contracturen per week | – | – | – | – | X | 4.f.28° | – | – | – | – | – |
+| Bedrag rente- of kostenvoordeel personeelslening | – | – | – | X | X | 4.f.29° | – | – | – | – | – |
 |   |   |   |   |   |   |   |   |   |   |   |   |
 | **Inkomstenperiode** |   |   |   |   |   |   |   |   |   |   |   |
-| Tijdvak gegevens |   |   |   |   |   |   |   |   |   |   |   |
-| Datum aanvang inkomstenperiode | X | X | – | X | X | X | – | – | – | – | – |
-| Aangifte Inkomstenperiode gegevens |   |   |   |   |   |   |   |   |   |   |   |
-| Code soort inkomstenverhouding / inkomenscode | X | X | – | X | X | X | – | – | – | – | – |
-| Datum aanvang sectorrisicogroep | X | X | – | X | X | X | – | – | – | – | – |
-| Datum einde sectorrisicogroep | X | X | – | X | X | X | – | – | – | – | – |
-| Risicopremiegroep | X | X | – | X | X | X | – | – | – | – | – |
-| Sector | X | X | – | X | X | X | – | – | – | – | – |
-| Aanwas in het cumulatieve premieloon sectorfonds | X | X | – | X | X | X | – | – | – | – | – |
-| Premie sectorfonds | X | X | – | X | X | X | – | – | – | – | – |
-| Code aard arbeidsverhouding | X | X | – | – | X | X | – | – | – | – | – |
-| Code invloed verzekeringsplicht | X | X | – | – | – | X | – | – | – | – | – |
-| Code contract onbepaalde/bepaalde tijd | X | X | – | – | X | X | – | – | – | – | – |
-| Code fase indeling F&Z | X | X | – | – | X | X | – | – | – | – | – |
-| Code cao | X | X | – | – | X | X | – | – | – | – | – |
-| Indicatie premiekorting arbeidsgehandicapten | – | – | – | X | X | X | – | – | – | – | – |
-| Indicatie premiekorting nieuwe arbeidsverhouding oudere werknemers | X | – | – | X | X | X | – | – | – | – | – |
-| Indicatie loonheffingskorting | – | – | – | X | X | X | – | – | – | – | – |
-| Code reden geen bijtelling auto | – | – | – | X | X | X | – | – | – | – | – |
-| Code loonbelastingtabel | X | X | – | X | X | X | – | – | – | – | – |
-| Indicatie verzekerd WAO/IVA/WGA | X | X | – | X | X | X | – | – | – | – | – |
-| Indicatie verzekerd WW | X | X | – | X | X | X | – | – | – | – | – |
-| Indicatie verzekerd ZW | X | X | – | X | X | X | – | – | – | – | – |
-| Indicatie premievrijstelling marginale arbeid | – | – | – | X | X | X | – | – | – | – | – |
-| Indicatie wachtgeld oude regeling | X | X | – | – | – | X | – | – | – | – | – |
-| Code verzekeringssituatie Zvw | – | – | – | X | X | X | – | – | – | – | – |
-| Indicatie vakantiebonnen toegepast | X | X | – | X | X | X | – | – | – | – | – |
-| Indicatie loon bestaat (mede) uit een AOW-uitkering voor alleenstaande (met of zonder kinderen) | – | – | – | X | X | X | – | – | – | – | – |
-| Indicatie loon inclusief WAJONG-uitkering | – | – | – | X | X | X | – | – | – | – | – |
-| Indicatie personeelslening waarvan de rente- en/of kostenvoordelen niet tot het loon zijn gerekend | – | – | – | X | – | X | – | – | – | – | – |
-| Indicatie vervoer vanwege de inhoudingsplichtige | – | – | – | X | – | X | – | – | – | – | – |
-| Code incidentele inkomstenvermindering | X | X | – | – | X | X | – | – | – | – | – |
-| Indicatie tijdelijke heffingskorting | – | – | – | X | X | X | – | – | – | – | – |
-| Verstrekte aanvulling op uitkering werknemersverzekering | X | X | – | – | X | X | – | – | – | – | – |
-|   |   |   |   |   |   |   |   |   |   |   |   |
+| **Tijdvak gegevens** |   |   |   |   |   |   | – |   |   |   |   |
+| Datum aanvang inkomstenperiode | X | X | – | X | X | 4.e.1° | – | – | – | – | – |
+| **Aangifte Inkomstenperiode gegevens** |   |   |   |   |   |   | – |   |   |   |   |
+| Code soort inkomstenverhouding / inkomenscode | X | X | – | X | X | 4.e.2° | – | – | – | – | – |
+| Datum aanvang sectorrisicogroep | X | X | – | X | X | 4.g.1° | – | – | – | – | – |
+| Datum einde sectorrisicogroep | X | X | – | X | X | 4.g.2° | – | – | – | – | – |
+| Risicopremiegroep | X | X | – | X | X | 4.g.4° | – | – | – | – | – |
+| Sector | X | X | – | X | X | 4.g.3° | – | – | – | – | – |
+| Aanwas in het cumulatieve premieloon sectorfonds | X | X | – | X | X | 4.g.5° | – | – | – | – | – |
+| Premie sectorfonds | X | X | – | X | X | 4.g.6° | – | – | – | – | – |
+| Code aard arbeidsverhouding | X | X | – | X | X | 4.e.3° | – | – | – | – | – |
+| Code invloed verzekeringsplicht | X | X | – | X | – | 4.e.4° | – | – | – | – | – |
+| Code contract onbepaalde/bepaalde tijd | X | X | – | X | X | 4.e.5° | – | – | – | – | – |
+| Code fase indeling F&Z | X | X | – | X | X | 4.e.6° | – | – | – | – | – |
+| Code cao | X | X | – | X | X | 4.e.7° | – | – | – | – | – |
+| Indicatie premiekorting in dienst nemen arbeidsgehandicapte werknemer | X | – | – | X | X | 4.e.8° | – | – | – | – | – |
+| Indicatie premiekorting doelgroep banenafspraak en scholingsbelemmerden | X | – | – | X | X | 4.e.9° | – | – | – | – | – |
+| Indicatie premiekorting herplaatsen arbeidsgehandicapte werknemer | X | – | – | X | X | 4.e.10° | – | – | – | – | – |
+| Indicatie premiekorting jongere werknemer | X | _ | _ | X | X | 4.e.13° | – | _ | _ | _ | _ |
+| Indicatie premiekorting nieuwe arbeidsverhouding oudere werknemers | X | – | – | X | X | 4.e.11° | – | – | – | – | – |
+| Indicatie loonheffingskorting | – | – | – | X | X | 4.e.12° | – | – | – | – | – |
+| Code reden geen bijtelling auto | – | – | – | X | X | 4.e.14° | – | – | – | – | – |
+| Code **loonbelastingtabel** | X | X | – | X | X | 4.e.15° | – | – | – | – | – |
+| Indicatie verzekerd WAO/IVA/WGA | X | X | – | X | X | 4.e.16° | – | – | – | – | – |
+| Indicatie verzekerd WW | X | X | – | X | X | 4.e.17° | – | – | – | – | – |
+| Indicatie verzekerd ZW | X | X | – | X | X | 4.e.18° | – | – | – | – | – |
+| Indicatie premievrijstelling marginale arbeid | – | – | – | X | X | 4.e.19° | – | – | – | – | – |
+| Indicatie wachtgeld oude regeling | X | X | – | X | – | 4.e.20° | – | – | – | – | – |
+| Code verzekeringssituatie Zvw | – | – | – | X | X | 4.e.21° | – | – | – | – | – |
+| Indicatie vakantiebonnen toegepast | X | X | – | X | X | 4.e.22° | – | – | – | – | – |
+| Indicatie loon bestaat (mede) uit een AOW-uitkering voor alleenstaande (met of zonder kinderen) | – | – | – | X | X | 4.e.23° | – | – | – | – | – |
+| Indicatie loon inclusief WAJONG-uitkering | – | – | – | X | X | 4.e.24° | – | – | – | – | – |
+| Indicatie vervoer vanwege de inhoudingsplichtige | – | – | – | X | – | 4.e.25° | – | – | – | – | – |
+| Code incidentele inkomstenvermindering | X | X | – | – | X | 4.e.26° | – | – | – | – | – |
+| Verstrekte aanvulling op uitkering werknemersverzekering | X | X | – | X | X | 4.f.12 | – | – | – | – | – |
 | **Vrijwillig verzekerden** |   |   |   |   |   |   |   |   |   |   |   |
-| Code SZ-product | – | – | X | – | – | – | – | – | X | – | – |
+| Code SZ-product | – | – | X | – | – |   | – | – | X | – | – |
 
-* De doeleinden van de polisadministratie zijn op basis van [artikel 33, tweede lid, van de Wet SUWI](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&artikel=33):
+1 De doeleinden van de polisadministratie zijn op basis van artikel 33, tweede lid, van de Wet SUWI:
 
 - a. vastleggen van gegevens van de werknemer voor de werknemersverzekeringen;
 
@@ -3018,7 +3018,9 @@ Bij ministeriële regeling kan worden bepaald dat het UWV opgave doet aan de wer
 
 - e. verwerken van overige gegevens van de werknemer ten behoeve van de statistieken van arbeid en lonen voor het CBS.
 
-## Bijlage II. Overzicht gegevens eenmalige uitvraag: gegevens en herkomst (als bedoeld in [artikel 5.2a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013267&hoofdstuk=5&paragraaf=5.1a&artikel=5.2a&z=2017-01-01&g=2016-10-28), Besluit SUWI)
+2 Artikelen uit de Regeling gegevensuitvraag loonaangifte (geldend vanaf 1-1-2017).
+
+## Bijlage II. Overzicht gegevens eenmalige uitvraag: gegevens en herkomst (als bedoeld in [artikel 5.2a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013267&hoofdstuk=5&paragraaf=5.1a&artikel=5.2a&z=2017-01-01&g=2017-01-01), Besluit SUWI)
 
 ### RDW
 
@@ -3033,3 +3035,11 @@ Gegevens over het recht op studiefinanciering.
 Gegevens over tegemoetkoming in het kader van de [Wet tegemoetkoming onderwijsbijdrage en schoolkosten](https://wetten.overheid.nl/jci1.3:c:BWBR0012438).
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
+
+##### Artikel 5.17. Gegevensverstrekking in verband met re-integratietaak overheidswerkgevers
+
+1. Het UWV verstrekt uit de onder zijn verantwoordelijkheid gevoerde administraties aan overheidswerkgevers als bedoeld in [artikel 1, onderdeel i, van de WW](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&artikel=1), kosteloos de gegevens die noodzakelijk zijn voor de uitvoering van de taak, bedoeld in [artikel 72a van de WW](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&artikel=72a).
+
+2. Het UWV verstrekt uit de onder zijn verantwoordelijkheid gevoerde administraties aan het Participatiefonds, bedoeld in [artikel 1, onderdeel f, van het Besluit Vervangingsfonds en Participatiefonds](https://wetten.overheid.nl/jci1.3:c:BWBR0030106&artikel=1), kosteloos de gegevens die noodzakelijk zijn voor de uitvoering van de taak van het participatiefonds waarborgen te bieden voor de kosten van werkloosheidsuitkeringen, voorzover die taak samenhangt met de uitvoering van [artikel 72a van de WW](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&artikel=1).
+
+3. Een overheidswerkgever of het Participatiefonds, bedoeld in het tweede lid, kan het UWV op verzoek of uit eigen beweging kennis geven van het gegronde vermoeden dat een persoon van wie de inschakeling in de arbeid wordt bevorderd, onvoldoende medewerking verleent aan deze werkzaamheden, voorzover dit noodzakelijk is voor de uitvoering van de [WW](https://wetten.overheid.nl/jci1.3:c:BWBR0004045) door het UWV.
