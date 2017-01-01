@@ -113,9 +113,3 @@ Deze regeling treedt in werking met ingang van 1 januari 2017. Indien de Staatsc
 Deze regeling wordt aangehaald als: Deelregeling Incidentele Aankopen 2017.
 
 Deze regeling zal in de Staatscourant worden geplaatst.
-
-##### Artikel 8. Citeertitel
-
-Deze regeling wordt aangehaald als: Deelregeling Incidentele Aankopen 2017.
-
-Deze regeling zal in de Staatscourant worden geplaatst.
