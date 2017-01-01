@@ -4,7 +4,7 @@ identifier: "BWBR0032523"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-01-01"
-last_updated: "2016-07-02"
+last_updated: "2017-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0032523"
 soort: "ministeriele-regeling"
@@ -383,13 +383,13 @@ Deze paragraaf is van toepassing op de aanwijzing van een register, bedoeld in [
 
 2. Een aanvraag tot aanwijzing gaat vergezeld van:
 
-- a. bewijsstukken dat voldaan wordt aan de [artikelen 1.6](https://wetten.overheid.nl/jci1.3:c:BWBR0032523&hoofdstuk=1a&paragraaf=1&artikel=1.6&z=2016-07-02&g=2016-07-02) en [1.7](https://wetten.overheid.nl/jci1.3:c:BWBR0032523&hoofdstuk=1a&paragraaf=1&artikel=1.7&z=2016-07-02&g=2016-07-02), en
+- a. bewijsstukken dat voldaan wordt aan de [artikelen 1.6](https://wetten.overheid.nl/jci1.3:c:BWBR0032523&hoofdstuk=1a&paragraaf=1&artikel=1.6&z=2017-01-01&g=2017-01-01) en [1.7](https://wetten.overheid.nl/jci1.3:c:BWBR0032523&hoofdstuk=1a&paragraaf=1&artikel=1.7&z=2017-01-01&g=2017-01-01), en
 
 - b. een verklaring dat een bewerkersovereenkomst en een gegevensleveringsovereenkomst wordt gesloten, indien het register wordt aangewezen.
 
 ##### Artikel 1.6. Voorwaarden voor aanwijzing register
 
-Een aanwijzing als bedoeld in [artikel 1.4](https://wetten.overheid.nl/jci1.3:c:BWBR0032523&hoofdstuk=1a&paragraaf=1&artikel=1.4&z=2016-07-02&g=2016-07-02), vindt plaats, indien:
+Een aanwijzing als bedoeld in [artikel 1.4](https://wetten.overheid.nl/jci1.3:c:BWBR0032523&hoofdstuk=1a&paragraaf=1&artikel=1.4&z=2017-01-01&g=2017-01-01), vindt plaats, indien:
 
 - a. de beheerder van het register een onderneming heeft als bedoeld in [artikel 5 van de Handelsregisterwet 2007](https://wetten.overheid.nl/jci1.3:c:BWBR0021777&artikel=5) of een rechtspersoon is in de zin van artikel 54 van het Verdrag betreffende de Werking van de Europese Unie, die in een lidstaat van de Europese Unie of van de Europese Economische Ruimte is gevestigd;
 
@@ -431,11 +431,11 @@ Een aanwijzing als bedoeld in [artikel 1.4](https://wetten.overheid.nl/jci1.3:c:
 
 ##### Artikel 1.9. Onvoorziene situatie
 
-De beheerder van een register die vanwege een onvoorziene situatie niet kan voldoen aan de [artikelen 1.6 tot en met 1.8](https://wetten.overheid.nl/jci1.3:c:BWBR0032523&hoofdstuk=1a&paragraaf=1&artikel=1.6&z=2016-07-02&g=2016-07-02) stelt de minister daarvan onverwijld op de hoogte.
+De beheerder van een register die vanwege een onvoorziene situatie niet kan voldoen aan de [artikelen 1.6 tot en met 1.8](https://wetten.overheid.nl/jci1.3:c:BWBR0032523&hoofdstuk=1a&paragraaf=1&artikel=1.6&z=2017-01-01&g=2017-01-01) stelt de minister daarvan onverwijld op de hoogte.
 
 ##### Artikel 1.10. Intrekking, schorsing of beëindiging aanwijzing
 
-1. De minister kan de aanwijzing, bedoeld in [artikel 1.4](https://wetten.overheid.nl/jci1.3:c:BWBR0032523&hoofdstuk=1a&paragraaf=1&artikel=1.4&z=2016-07-02&g=2016-07-02), intrekken of schorsen, indien de beheerder van een aangewezen register niet voldoet aan de voorwaarden, bedoeld in de [artikelen 1.7 tot en met 1.9](https://wetten.overheid.nl/jci1.3:c:BWBR0032523&hoofdstuk=1a&paragraaf=1&artikel=1.7&z=2016-07-02&g=2016-07-02).
+1. De minister kan de aanwijzing, bedoeld in [artikel 1.4](https://wetten.overheid.nl/jci1.3:c:BWBR0032523&hoofdstuk=1a&paragraaf=1&artikel=1.4&z=2017-01-01&g=2017-01-01), intrekken of schorsen, indien de beheerder van een aangewezen register niet voldoet aan de voorwaarden, bedoeld in de [artikelen 1.7 tot en met 1.9](https://wetten.overheid.nl/jci1.3:c:BWBR0032523&hoofdstuk=1a&paragraaf=1&artikel=1.7&z=2017-01-01&g=2017-01-01).
 
 2. Indien de aanwijzing van een register wordt ingetrokken, geschorst of anderzijds beëindigd:
 
@@ -445,11 +445,11 @@ De beheerder van een register die vanwege een onvoorziene situatie niet kan vold
 
 ##### Artikel 1.11. Aanvullende bepalingen melding diergeneesmiddelen
 
-1. De gegevens, bedoeld in [artikel 3.3 van de Regeling houders van dieren](https://wetten.overheid.nl/jci1.3:c:BWBR0035248&artikel=3.3) en [artikel 5.11 van de Regeling diergeneeskundigen](https://wetten.overheid.nl/jci1.3:c:BWBR0035238&artikel=5.11), die worden gemeld in een register als bedoeld in [artikel 1.4](https://wetten.overheid.nl/jci1.3:c:BWBR0032523&hoofdstuk=1a&paragraaf=1&artikel=1.4&z=2016-07-02&g=2016-07-02), worden verwerkt met als doel het in het belang van de bescherming van diergezondheid en volksgezondheid verkrijgen van inzicht in de aflevering, toepassing en ontvangst van diergeneesmiddelen, het hiermee bevorderen van een verantwoord en weloverwogen gebruik van diergeneesmiddelen en een effectief systeem van toezicht op en handhaving van de regelgeving.
+1. De gegevens, bedoeld in [artikel 3.3 van de Regeling houders van dieren](https://wetten.overheid.nl/jci1.3:c:BWBR0035248&artikel=3.3) en [artikel 5.11 van de Regeling diergeneeskundigen](https://wetten.overheid.nl/jci1.3:c:BWBR0035238&artikel=5.11), die worden gemeld in een register als bedoeld in [artikel 1.4](https://wetten.overheid.nl/jci1.3:c:BWBR0032523&hoofdstuk=1a&paragraaf=1&artikel=1.4&z=2017-01-01&g=2017-01-01), worden verwerkt met als doel het in het belang van de bescherming van diergezondheid en volksgezondheid verkrijgen van inzicht in de aflevering, toepassing en ontvangst van diergeneesmiddelen, het hiermee bevorderen van een verantwoord en weloverwogen gebruik van diergeneesmiddelen en een effectief systeem van toezicht op en handhaving van de regelgeving.
 
-2. Met toepassing van [artikel 28, eerste lid, laatste zinsnede, van de Dienstenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0026759&artikel=28) is [paragraaf 4.1.3.3 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&paragraaf=4.1.3.3) niet van toepassing op een aanwijzing als bedoeld in [artikel 1.4](https://wetten.overheid.nl/jci1.3:c:BWBR0032523&hoofdstuk=1a&paragraaf=1&artikel=1.4&z=2016-07-02&g=2016-07-02).
+2. Met toepassing van [artikel 28, eerste lid, laatste zinsnede, van de Dienstenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0026759&artikel=28) is [paragraaf 4.1.3.3 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&paragraaf=4.1.3.3) niet van toepassing op een aanwijzing als bedoeld in [artikel 1.4](https://wetten.overheid.nl/jci1.3:c:BWBR0032523&hoofdstuk=1a&paragraaf=1&artikel=1.4&z=2017-01-01&g=2017-01-01).
 
-3. Op een aanvraag tot een aanwijzing als bedoeld in [artikel 1.4](https://wetten.overheid.nl/jci1.3:c:BWBR0032523&hoofdstuk=1a&paragraaf=1&artikel=1.4&z=2016-07-02&g=2016-07-02), wordt binnen zes weken na de datum van ontvangst van de aanvraag beslist.
+3. Op een aanvraag tot een aanwijzing als bedoeld in [artikel 1.4](https://wetten.overheid.nl/jci1.3:c:BWBR0032523&hoofdstuk=1a&paragraaf=1&artikel=1.4&z=2017-01-01&g=2017-01-01), wordt binnen zes weken na de datum van ontvangst van de aanvraag beslist.
 
 4. De minister kan de termijn, bedoeld in het derde lid, eenmaal met zes weken verlengen.
 
@@ -467,7 +467,7 @@ Deze paragraaf is van toepassing op tarieven voor een vergoeding als bedoeld in 
 
 ##### Artikel 1.13. Goedkeuring tarieven registers
 
-1. De goedkeuring van tarieven voor een vergoeding als bedoeld in [artikel 1.12](https://wetten.overheid.nl/jci1.3:c:BWBR0032523&hoofdstuk=1a&paragraaf=2&artikel=1.12&z=2016-07-02&g=2016-07-02), wordt onthouden indien de tarieven hoger zijn dan noodzakelijk, uitgaande van een redelijke toerekening van de totale kosten en opbrengsten, waarbij de vergoeding van de werkzaamheden waarvoor een register is aangewezen niet meer bedraagt dan de kosten die de beheerder maakt bij de uitvoering van die werkzaamheden.
+1. De goedkeuring van tarieven voor een vergoeding als bedoeld in [artikel 1.12](https://wetten.overheid.nl/jci1.3:c:BWBR0032523&hoofdstuk=1a&paragraaf=2&artikel=1.12&z=2017-01-01&g=2017-01-01), wordt onthouden indien de tarieven hoger zijn dan noodzakelijk, uitgaande van een redelijke toerekening van de totale kosten en opbrengsten, waarbij de vergoeding van de werkzaamheden waarvoor een register is aangewezen niet meer bedraagt dan de kosten die de beheerder maakt bij de uitvoering van die werkzaamheden.
 
 2. De tarieven worden per kalenderjaar goedgekeurd.
 
@@ -477,7 +477,7 @@ Deze paragraaf is van toepassing op tarieven voor een vergoeding als bedoeld in 
 
 ### Hoofdstuk 2. : Overige bepalingen
 
-## Bijlage. als bedoeld in [artikel 1.2](https://wetten.overheid.nl/jci1.3:c:BWBR0032523&hoofdstuk=1&artikel=1.2&z=2016-07-02&g=2016-07-02) van de Regeling handhaving en overige zaken Wet dieren
+## Bijlage. als bedoeld in [artikel 1.2](https://wetten.overheid.nl/jci1.3:c:BWBR0032523&hoofdstuk=1&artikel=1.2&z=2017-01-01&g=2017-01-01) van de Regeling handhaving en overige zaken Wet dieren
 
 | [Wet dieren](https://wetten.overheid.nl/jci1.3:c:BWBR0030250) | Categorie |
 | --- | --- |
@@ -578,7 +578,7 @@ Deze paragraaf is van toepassing op tarieven voor een vergoeding als bedoeld in 
 | [Artikel 2.5](https://wetten.overheid.nl/jci1.3:c:BWBR0032335&artikel=2.5) | 3 |
 | [Artikel 2.24](https://wetten.overheid.nl/jci1.3:c:BWBR0032462&artikel=2.24) | 2 |
 | [Artikel 2.25a](https://wetten.overheid.nl/jci1.3:c:BWBR0032462&artikel=2.25a) | 2 |
-| [Artikel 3.2, vierde lid, onderdelen b en c](https://wetten.overheid.nl/jci1.3:c:BWBR0032335&artikel=3.2) | 3 |
+| [Artikel 3.2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032462&artikel=3.2) | 3 |
 | [Artikel 3.3, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0032335&artikel=3.3), voor zover dat artikel betrekking heeft op de artikelen 4, eerste lid, 11, eerste lid, onderdeel c, 14, 21, eerste tot en met derde lid, 22, eerste en tweede lid, 23, eerste en tweede lid, 24, 25, 26, eerste en tweede lid, 28, 29, eerste tot en met derde lid, 31, eerste lid, 32, eerste lid, 35, 36, 41, eerste lid en tweede lid, onderdelen c en d, en 48, eerste, vierde en vijfde lid, van [verordening (EG) nr. 1069/2009](32009R1069) | 3 |
 | [Artikel 3.3, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0032462&artikel=3.3), voor zover dat artikel betrekking heeft op de artikelen 6, eerste lid, 11, eerste lid, onderdelen a, b en d, 12, 13, 43, eerste tot en met derde lid, en 44, derde lid, van [verordening (EG) nr. 1069/2009](32009R1069) | 4 |
 | [Artikel 3.3, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0032462&artikel=3.3), voor zover dat artikel betrekking heeft op de artikelen 3, 5, tweede lid, 6, derde, vierde en vijfde lid, 10, eerste lid, 11, tweede en derde lid, 12, tweede en derde lid, 13, 15, 17, 19, onderdelen b en c, 20, eerste en tweede lid, 22, eerste lid, 23, 24, 25, eerste en derde lid, 27, tweede en derde lid, 28, tweede en vierde lid, van verordening (EU) nr. 142/2011 | 3 |
