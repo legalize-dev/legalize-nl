@@ -4,7 +4,7 @@ identifier: "BWBR0021609"
 country: "nl"
 rank: "amvb"
 publication_date: "2024-01-01"
-last_updated: "2016-07-01"
+last_updated: "2017-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0021609"
 soort: "AMvB"
@@ -72,7 +72,7 @@ Dit besluit treedt in werking op een bij koninklijk besluit te bepalen tijdstip,
 
 Dit besluit wordt aangehaald als: Aanwijzingsbesluit Wet kenbaarheid publiekrechtelijke beperkingen onroerende zaken.
 
-## Bijlage. behorende bij [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0021609&artikel=2&z=2016-07-01&g=2016-07-01), van het Aanwijzingsbesluit Wet kenbaarheid publiekrechtelijke beperkingen onroerende zaken (aangewezen categorieën van beperkingenbesluiten)
+## Bijlage. behorende bij [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0021609&artikel=2&z=2017-01-01&g=2017-01-01), van het Aanwijzingsbesluit Wet kenbaarheid publiekrechtelijke beperkingen onroerende zaken (aangewezen categorieën van beperkingenbesluiten)
 
 ### Hoofdstuk I. Categorieën van beperkingenbesluiten krachtens wetten op het gebied van binnenlandse zaken en koninkrijksrelaties
 
@@ -90,19 +90,13 @@ Dit besluit wordt aangehaald als: Aanwijzingsbesluit Wet kenbaarheid publiekrech
 
 ### Hoofdstuk III. Categorieën van beperkingenbesluiten krachtens wetten op het gebied van landbouw, natuur en voedselkwaliteit
 
-### [Boswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002357&wetgeving)
+### [Wet natuurbescherming](https://wetten.overheid.nl/jci1.3:c:BWBR0037552)
 
 – ([artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0002357&artikel=13)) bij besluit van de Ministers van Onderwijs, Cultuur en Wetenschap en van Landbouw, Natuur en Voedselkwaliteit opgelegd kapverbod in een daarbij aangewezen gebied.
 
-### [Flora- en faunawet](https://wetten.overheid.nl/jci1.3:c:BWBR0009640&wetgeving)
-
-### [Natuurbeschermingswet 1998](https://wetten.overheid.nl/jci1.3:c:BWBR0009641&wetgeving)
-
-### [Wet agrarisch grondverkeer](https://wetten.overheid.nl/jci1.3:c:BWBR0003386)
-
 ### Hoofdstuk IV. Categorieën beperkingenbesluiten krachtens wetten op het gebied van onderwijs, cultuur en wetenschap
 
-### [Erfgoedwet](https://wetten.overheid.nl/jci1.3:c:BWBR0037521&wetgeving)
+### [Erfgoedwet](https://wetten.overheid.nl/jci1.3:c:BWBR0037521)
 
 ### Hoofdstuk V. Categorieën van beperkingenbesluiten krachtens wetten op het gebied van verkeer en waterstaat
 
@@ -110,27 +104,33 @@ Dit besluit wordt aangehaald als: Aanwijzingsbesluit Wet kenbaarheid publiekrech
 
 ### [Ontgrondingenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002505)
 
+### Hoofdstuk V. Categorieën van beperkingenbesluiten krachtens wetten op het gebied van verkeer en waterstaat
+
+### [Waterwet](https://wetten.overheid.nl/jci1.3:c:BWBR0025458)
+
+### Hoofdstuk VI. Categorieën van beperkingenbesluiten krachtens wetten op het gebied van volksgezondheid, welzijn en sport
+
 – ([artikel 21g](https://wetten.overheid.nl/jci1.3:c:BWBR0002505&artikel=21g)) door de Minister van Verkeer en Waterstaat of gedeputeerde staten opgelegde gedoogplicht.
 
 ### [Waterwet](https://wetten.overheid.nl/jci1.3:c:BWBR0025458)
 
 – ([artikel 21g](https://wetten.overheid.nl/jci1.3:c:BWBR0002505&artikel=21g)) door de Minister van Verkeer en Waterstaat of gedeputeerde staten opgelegde gedoogplicht.
 
-### [Opiumwet](https://wetten.overheid.nl/jci1.3:c:BWBR0001941&wetgeving)
+### [Huisvestingswet 2014](https://wetten.overheid.nl/jci1.3:c:BWBR0035303)
 
 – ([artikel 13b, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001941&artikel=13b)) besluit van de burgemeester tot oplegging van een last onder bestuursdwang, indien dat besluit strekt tot sluiting van het betreffende object.
 
-### Hoofdstuk VII. Categorieën van beperkingenbesluiten krachtens wetten op het gebied van volkshuisvesting, ruimtelijke ordening en milieubeheer
+### [Wet bodembescherming](https://wetten.overheid.nl/jci1.3:c:BWBR0003994)
 
-### [Huisvestingswet 2014](https://wetten.overheid.nl/jci1.3:c:BWBR0035303&wetgeving)
+### [Wet inzake de luchtverontreiniging](https://wetten.overheid.nl/jci1.3:c:BWBR0002731)
 
 ### [Wet algemene bepalingen omgevingsrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0024779)
 
 – ([artikel 13b, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001941&artikel=13b)) besluit van de burgemeester tot oplegging van een last onder bestuursdwang, indien dat besluit strekt tot sluiting van het betreffende object.
 
-### [Wet inzake de luchtverontreiniging](https://wetten.overheid.nl/jci1.3:c:BWBR0002731)
+### [Wet voorkeursrecht gemeenten](https://wetten.overheid.nl/jci1.3:c:BWBR0003391)
 
-### [Wet ruimtelijke ordening](https://wetten.overheid.nl/jci1.3:c:BWBR0020449)
+### [Woningwet](https://wetten.overheid.nl/jci1.3:c:BWBR0005181)
 
 ### [Wet ruimtelijke ordening](https://wetten.overheid.nl/jci1.3:c:BWBR0020449)
 
@@ -150,11 +150,11 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
 
-### Hoofdstuk VI. Categorieën van beperkingenbesluiten krachtens wetten op het gebied van volksgezondheid, welzijn en sport
+### [Wet algemene bepalingen omgevingsrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0024779)
 
 – ([artikel 13b, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001941&artikel=13b)) besluit van de burgemeester tot oplegging van een last onder bestuursdwang, indien dat besluit strekt tot sluiting van het betreffende object.
 
-### [Wet bodembescherming](https://wetten.overheid.nl/jci1.3:c:BWBR0003994)
+### [Wet ruimtelijke ordening](https://wetten.overheid.nl/jci1.3:c:BWBR0020449)
 
 – ([artikel 60](https://wetten.overheid.nl/jci1.3:c:BWBR0002731&artikel=60)) door de Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer opgelegde gedoogplicht voor zover deze betreft het gebruik maken van onroerende zaken ten behoeve van het bepalen van luchtverontreiniging.
 
@@ -162,12 +162,24 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
 
-### Hoofdstuk VI. Categorieën van beperkingenbesluiten krachtens wetten op het gebied van volksgezondheid, welzijn en sport
+### Hoofdstuk VII. Categorieën van beperkingenbesluiten krachtens wetten op het gebied van volkshuisvesting, ruimtelijke ordening en milieubeheer
 
 – ([artikel 60](https://wetten.overheid.nl/jci1.3:c:BWBR0002731&artikel=60)) door de Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer opgelegde gedoogplicht voor zover deze betreft het gebruik maken van onroerende zaken ten behoeve van het bepalen van luchtverontreiniging.
 
 ### [Wet voorkeursrecht gemeenten](https://wetten.overheid.nl/jci1.3:c:BWBR0003391)
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
+
+Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
+
+### [Wet agrarisch grondverkeer](https://wetten.overheid.nl/jci1.3:c:BWBR0003386)
+
+– ([artikel 21g](https://wetten.overheid.nl/jci1.3:c:BWBR0002505&artikel=21g)) door de Minister van Verkeer en Waterstaat of gedeputeerde staten opgelegde gedoogplicht.
+
+### [Opiumwet](https://wetten.overheid.nl/jci1.3:c:BWBR0001941)
+
+– ([artikel 13b, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001941&artikel=13b)) besluit van de burgemeester tot oplegging van een last onder bestuursdwang, indien dat besluit strekt tot sluiting van het betreffende object.
+
+– ([artikel 60](https://wetten.overheid.nl/jci1.3:c:BWBR0002731&artikel=60)) door de Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer opgelegde gedoogplicht voor zover deze betreft het gebruik maken van onroerende zaken ten behoeve van het bepalen van luchtverontreiniging.
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
