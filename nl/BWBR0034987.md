@@ -4,7 +4,7 @@ identifier: "BWBR0034987"
 country: "nl"
 rank: "beleidsregel"
 publication_date: "2017-01-01"
-last_updated: "2016-12-29"
+last_updated: "2017-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0034987"
 soort: "beleidsregel"
@@ -185,15 +185,15 @@ Hierbij merk ik nog het volgende op. Bij de bepaling van het investeringsbedrag,
 
 Als blijkt dat de belastingplichtige bij vervreemding van het bedrijfsmiddel waarvoor de investeringsaftrek op basis van het onderhavige besluit in aanmerking is genomen, – in strijd met voorwaarde **a** – zich alsnog op het standpunt stelt dat de boekwaarde van het afgestane bedrijfsmiddel de grondslag voor de desinvesteringsbijtelling moet vormen, dan wel als blijkt dat een situatie zoals beschreven bij voorwaarde **b**zich heeft voorgedaan, kan in ieder geval gedurende vijf kalender (boek-)jaren na het jaar waarin deze situaties zijn geconstateerd, geen beroep op dit onderdeel van het besluit worden ingewilligd. Voor de relevante (toekomstige) investeringen zal dan overeenkomstig de opvatting van de Hoge Raad investeringsaftrek worden verleend en desinvesteringsbijtelling worden toegepast.
 
-De belastingplichtige die in aanmerking wenst te komen voor investeringsaftrek volgens bovenstaande regeling, moet voor elk jaar waarin een dergelijke investering plaatsvindt, een opgemaakte en ondertekende verklaring overleggen (volgens het model in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0034987&bijlage=1&z=2016-12-29&g=2016-12-29)), onder vermelding van de overigens voor de toepassing van dit besluit van belang zijnde gegevens. De verklaring moet zijn ingediend vóór het moment waarop de aanslag inkomstenbelasting of vennootschapbelasting van het jaar waarop de investering betrekking heeft, onherroepelijk vaststaat.
+De belastingplichtige die in aanmerking wenst te komen voor investeringsaftrek volgens bovenstaande regeling, moet voor elk jaar waarin een dergelijke investering plaatsvindt, een verzoek hiertoe in de aangifte opnemen. Dat kan door middel van het beantwoorden van een ja/nee-vraag. Als de belastingplichtige deze vraag met ‘ja’ beantwoordt, verklaart hij zich akkoord met de aan deze goedkeuring verbonden voorwaarden. In de jaarstukken komt bij het desbetreffende bedrijfsmiddel tot uitdrukking of van deze goedkeuring gebruik is gemaakt. Als de vraag niet met ‘ja’ wordt beantwoord, kan van de onderhavige goedkeuring geen gebruik gemaakt worden.
 
-Zonder de bovenvermelde verklaring kan van de onderhavige goedkeuring geen gebruik worden gemaakt. Zie [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0034987&bijlage=1&z=2016-12-29&g=2016-12-29) bij dit besluit.
+De hiervoor onder **b** genoemde voorwaarde alsmede de sancties hierop, strekken ertoe misbruik van bovenstaande regeling te voorkomen. Een dergelijk misbruik acht ik bijvoorbeeld aanwezig als de inruilprijs van het vervangen bedrijfsmiddel doelbewust wordt verhoogd teneinde voor het nieuw aangeschafte bedrijfsmiddel een hoge grondslag voor de berekening van investeringsaftrek te creëren. Dit geldt eveneens als bij de bepaling van de grondslag voor de berekening van investeringsaftrek doelbewust wordt uitgegaan van de – in vele branches gebruikelijke – zogenoemde bruto-adviesprijzen, zonder dat rekening gehouden wordt met de aldaar gebruikelijke kortingen die zouden worden verleend als geen sprake is van inruil. De kortingen worden dan verleend in de vorm van een hogere inruilprijs. Ik wijs hierbij op de uitspraken van Hof Leeuwarden van 11 februari 1983, nr. 915/82, en Hof Arnhem 8 februari 1989, nr. 2693/1987, gewezen onder de werking van artikel 61a van de Wet IB 1964. Ik acht het onjuist dat de grondslag voor het berekenen van investeringsaftrek elementen bevat die op deze wijze leiden tot een te hoge investeringsaftrek.
 
 ### 4.3. Investeringsaftrek en afboeking bestedingsreserve
 
 Culturele instellingen en lichamen zonder aandeelhouders of deelgerechtigden die een sociaal belang behartigen en de winst hoofdzakelijk behalen met behulp van vrijwilligers, kunnen een zogenoemde bestedingsreserve vormen ([artikel 12 van de Wet VPB](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&artikel=12)).
 
-Culturele instellingen en lichamen zonder aandeelhouders of deelgerechtigden die een sociaal belang behartigen en de winst hoofdzakelijk behalen met behulp van vrijwilligers, kunnen een zogenoemde bestedingsreserve vormen ([artikel 12 van de Wet VPB](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&artikel=12)).
+Voor de toepassing van de investeringsaftrek keur ik goed dat onderdeel 4.2 van dit besluit op overeenkomstige wijze wordt toegepast in de situatie waarin een bestedingsreserve wordt afgeboekt op de aanschaffings-, voortbrengings- of verbeteringskosten van bedrijfsmiddelen.
 
 Voor de toepassing van de investeringsaftrek keur ik goed dat onderdeel 4.2 van dit besluit op overeenkomstige wijze wordt toegepast in de situatie waarin een bestedingsreserve wordt afgeboekt op de aanschaffings-, voortbrengings- of verbeteringskosten van bedrijfsmiddelen.
 
@@ -213,13 +213,13 @@ Vanaf 2014 zijn woonhuizen en woonschepen niet langer uitgesloten van MIA. Beoog
 
 De voorwaarde luidt dat de belastingplichtige die gebruik maakt van de goedkeuring ook in zijn winstbepaling rekening moet houden met het feit dat de dakvervanging is aangemerkt als investering. De onderhoudscomponent mag dus niet ineens als kosten in mindering worden gebracht bij het bepalen van de winst, maar moet ook als investering worden behandeld. Op investeringen wordt afgeschreven, mogelijk kan de belastingplichtige gebruik maken van de Vamil.
 
-### 5. Uitgesloten verplichtingen voor de investeringsaftrek
+### 5.1. Verplichtingen tussen naaste verwanten
 
 Als transacties tussen naaste verwanten zodanig worden uitgevoerd dat hierdoor getracht wordt (het percentage van) de investeringsaftrek te beïnvloeden, komen de hieruit voortvloeiende verplichtingen niet voor ontheffing in aanmerking, tenzij deze uitvoering van de transactie ook tussen derden gebruikelijk is.
 
 ### 5.1.1. Inleiding
 
-Voor de investeringsaftrek blijven buiten aanmerking verplichtingen aangegaan tussen naaste verwanten ([artikel 3.46, eerste lid, onderdelen a en b, van de Wet IB 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.46)).
+De Minister heeft de bevoegdheid te bepalen dat het eerste lid geen toepassing vindt ([artikel 3.46, tweede lid, van de Wet IB 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.46)). Ik heb besloten bij verplichtingen tussen naaste verwanten van de ontheffingsbevoegdheid gebruik te maken. Hierbij machtig ik de inspecteurs namens mij deze ontheffing te verlenen, waarbij de volgende uitgangspunten gelden.
 
 ### 5.1.2. Uitgangspunten en toelichting
 
@@ -239,7 +239,7 @@ Het ontmoet bij mij geen bezwaar dat men, als een verplichting betrekking heeft 
 
 ### 5.1.2.4. Verplichtingen tussen naaste verwanten
 
-Het moet gaan om reële verplichtingen tot betaling aangegaan tussen naaste verwanten voor de verwerving of verbetering van een bedrijfsmiddel. Schulden ter zake van de verwerving of verbetering van een bedrijfsmiddel aan de naaste verwant moeten met name voor wat betreft looptijd, aflossingsschema en te stellen zekerheden voldoen aan hetgeen tussen derden gebruikelijk is. Bovendien mag geen sprake zijn van een kennelijk vooruitlopen op een erfrechtelijke verkrijging (schuldig blijven zonder rekening te houden met bijvoorbeeld de leeftijd van de naaste verwant tegenover wie de verplichtingen worden aangegaan). Als een lening met het oog op de toepassing van de regeling van durfkapitaal ([artikel 5.17, eerste lid, van de Wet IB 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=5.17), tot 2013) is achtergesteld en voor het overige als tussen derden gebruikelijk kan worden beschouwd, komt de ondernemer/geldlener in aanmerking voor investeringsaftrek.
+Als een schuld een lager rentepercentage draagt dan vermeld in de zogenoemde marktrentebesluiten (o.a. [besluit van 28 november 2013](https://wetten.overheid.nl/jci1.3:c:BWBR0034537), nr. BLKB2013/2197M), wordt als verplichting aangemerkt de contante waarde van de contractueel te verrichten betalingen voor rente en aflossing; daarbij wordt de marktrente als bedoeld in voornoemd besluit in het jaar van aangaan van de verplichtingen als disconteringsfactor toegepast.
 
 ### 5.1.4. Verzoek
 
@@ -265,13 +265,13 @@ Een verzoek om toepassing van investeringsaftrek in de bovenbedoelde situaties w
 
 In andere situaties dan die in dit onderdeel van het besluit wordt geen investeringsaftrek verleend. Belanghebbenden behoeven derhalve niet naar mij te worden verwezen.
 
-### 5.2. Ontheffing bij verplichtingen tussen gerechtigden tot een nalatenschap
+### 5.2.1. Inleiding
 
 Voor de investeringsaftrek blijven buiten aanmerking verplichtingen aangegaan tussen gerechtigden tot een nalatenschap waartoe het bedrijfsmiddel behoort ([artikel 3.46, eerste lid, onderdeel c, van de Wet IB 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.46)). De Minister heeft de bevoegdheid te bepalen dat het eerste lid geen toepassing vindt (artikel 3.46, tweede lid, van de Wet IB 2001). Ik heb besloten voor verplichtingen tussen gerechtigden tot een nalatenschap van deze ontheffingsbevoegdheid gebruik te maken. Hierbij machtig ik de inspecteurs namens mij deze ontheffing te verlenen, waarbij de volgende uitgangspunten gelden.
 
 Voor de investeringsaftrek blijven buiten aanmerking verplichtingen aangegaan tussen gerechtigden tot een nalatenschap waartoe het bedrijfsmiddel behoort ([artikel 3.46, eerste lid, onderdeel c, van de Wet IB 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.46)). De Minister heeft de bevoegdheid te bepalen dat het eerste lid geen toepassing vindt (artikel 3.46, tweede lid, van de Wet IB 2001). Ik heb besloten voor verplichtingen tussen gerechtigden tot een nalatenschap van deze ontheffingsbevoegdheid gebruik te maken. Hierbij machtig ik de inspecteurs namens mij deze ontheffing te verlenen, waarbij de volgende uitgangspunten gelden.
 
-### 5.2.2. Uitgangspunten en toelichting
+### 5.2.2.1. Gehele of gedeeltelijke overgang onderneming
 
 Voor de investeringsaftrek komen in aanmerking reële verplichtingen wegens overbedeling aangegaan tussen gerechtigden tot een nalatenschap voor de verwerving van een bedrijfsmiddel in het kader van een overname van een onderneming die is gestaakt door overlijden ([artikel 3.58, eerste lid, van de Wet IB 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.58)) waarbij geen beroep is gedaan op de doorschuivingsmogelijkheid ([artikel 3.62 van de Wet IB 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.62)). Daarbij dient de onderneming in haar geheel dan wel voor een zelfstandig of evenredig deel over te gaan en te worden voortgezet.
 
@@ -283,7 +283,7 @@ Bij de overgang van losse bedrijfsmiddelen, ongeacht of deze kan leiden tot het 
 
 Onder overbedeling wordt hier verstaan al hetgeen bij verdeling van de nalatenschap wordt verkregen, gewaardeerd naar de waarde in het economische verkeer, onder aftrek van de verkrijging krachtens erfrecht, zoals deze voor de heffing van erfbelasting in aanmerking wordt genomen, doch minimaal onder aftrek van de krachtens erfrecht vast te stellen, al dan niet ingeroepen, legitieme portie (artikel 4:63 e.v. BW).
 
-Onder overbedeling wordt hier verstaan al hetgeen bij verdeling van de nalatenschap wordt verkregen, gewaardeerd naar de waarde in het economische verkeer, onder aftrek van de verkrijging krachtens erfrecht, zoals deze voor de heffing van erfbelasting in aanmerking wordt genomen, doch minimaal onder aftrek van de krachtens erfrecht vast te stellen, al dan niet ingeroepen, legitieme portie (artikel 4:63 e.v. BW).
+Een erfgenaam die is onterfd en geen beroep doet op zijn legitieme portie en die zaken uit de nalatenschap overneemt, wordt voor de toepassing van dit besluit geacht te hebben verkregen bij verdeling. De door hem aangegane verplichtingen blijven buiten aanmerking tot het beloop van zijn legitieme portie.
 
 Een erfgenaam die is onterfd en geen beroep doet op zijn legitieme portie en die zaken uit de nalatenschap overneemt, wordt voor de toepassing van dit besluit geacht te hebben verkregen bij verdeling. De door hem aangegane verplichtingen blijven buiten aanmerking tot het beloop van zijn legitieme portie.
 
@@ -295,11 +295,11 @@ Schulden ter zake van de overbedeling aan de overige erfgenamen moeten met name 
 
 ### 5.2.2.5. Verandering of niet-nakoming van verplichtingen
 
-De volgende omstandigheden leiden tot gehele bijtelling van de toegepaste investeringsaftrek, als ware het een desinvesteringsbijtelling:
+binnen een termijn van vijf jaren na de aanvang van het kalender(boek)jaar waarin de oorspronkelijke verplichtingen zijn aangegaan.
 
 ### 5.2.3.3. Notariële akte van verdeling
 
-Van verandering van verplichtingen is bijvoorbeeld sprake als, in geval van schuldig blijven, door de overige erfgenamen wijzigingen van rentepercentages of aflossingsschema's worden toegestaan of door dezen schenkingen dan wel kwijtscheldingen worden gedaan of als de betalingen van verschuldigde rente en aflossing niet plaatsvinden.
+Als betrokkene aannemelijk kan maken dat deze verandering op zakelijke gronden berust, of als blijkt dat de verandering losstaat van de tussen partijen bestaande contractuele verhouding, blijft bijtelling achterwege.
 
 ### 5.2.3. Vaststelling verplichtingen wegens overbedeling
 
@@ -321,17 +321,17 @@ In formule kan hetgeen aldus aan de bovenbedoelde bedrijfsmiddelen kan worden to
 
 ### 5.2.4. Bepaling van de investeringsaftrek ([artikelen 3.41, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.41), [3.42, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.42) en [3.42a, derde lid, Wet IB 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.42a))
 
-B
+– x R = X
 
 ### 5.2.5. Verzoek
 
-V
-
 B: bedrijfsmiddel(en) naar de waarde in het economische verkeer ten tijde van het overlijden;
+
+V: al hetgeen bij verdeling verkregen is naar de waarde zoals bovenbeschreven ten tijde van het overlijden;
 
 ### 5.2.6. Overige situaties
 
-R: reële verplichtingen wegens overbedeling;
+X: het bedrag (tot maximaal het bedrag van de reële verplichtingen wegens overbedeling) waarover investeringsaftrek kan worden toegekend.
 
 ### 5.2.4. Bepaling van de investeringsaftrek ([artikelen 3.41, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.41), [3.42, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.42) en [3.42a, derde lid, Wet IB 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.42a))
 
@@ -347,10 +347,6 @@ Een verzoek om toepassing van investeringsaftrek in de onder 5.2.2 genoemde geva
 
 In andere situaties dan die in dit onderdeel van het besluit wordt geen investeringsaftrek verleend. Belanghebbenden behoeven derhalve niet naar mij te worden verwezen.
 
-### 5.3. Ontheffing bij verplichtingen tussen belastingplichtige en een gelieerd lichaam
-
-De machtiging om in de onder 5.3.2 en 5.3.3 hiervoor bedoelde situaties namens mij ontheffing te verlenen geldt slechts als aan de volgende voorwaarden is voldaan:
-
 ### 5.3.1. Inleiding
 
 Degene die in een lichaam voor ten minste een derde gedeelte belang heeft, kan geen aanspraak maken op investeringsaftrek voor verplichtingen aangegaan tegenover dat lichaam ([artikel 3.46, eerste lid, onderdeel d, van de Wet IB 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.46)). De bedoeling van deze uitsluitingsbepaling is geen investeringsaftrek toe te passen voor blote verschuivingen binnen het vermogen van belastingplichtigen die voor ten minste een derde gedeelte belang hebben in een lichaam. De Minister heeft de bevoegdheid te bepalen dat het eerste lid geen toepassing vindt (artikel 3.46, tweede lid, van de Wet IB 2001). Ik heb besloten voor de volgende situaties van deze ontheffingsbevoegdheid gebruik te maken (5.3.2 en 5.3.3). Hierbij machtig ik de inspecteurs namens mij onder de navolgende voorwaarden ontheffing te verlenen.
@@ -363,23 +359,27 @@ De inspecteurs zijn gemachtigd de investeringsaftrek volledig toe te passen in d
 
 De inspecteurs zijn gemachtigd in de overige situaties waarin verplichtingen worden aangegaan, zoals omschreven onder 5.3.1, zonder dat wordt voldaan aan de omschrijving van de situaties in 5.3.2, maar aan de onder 5.3.4 gestelde voorwaarden, per bedrijfsmiddel investeringsaftrek toe te passen tot maximaal het bedrag van de desinvesteringsbijtelling die bij het vervreemdende lichaam bij de vervreemding van dat bedrijfsmiddel is toegepast.
 
+### 5.3.4. Voorwaarden
+
+De machtiging om in de onder 5.3.2 en 5.3.3 hiervoor bedoelde situaties namens mij ontheffing te verlenen geldt slechts als aan de volgende voorwaarden is voldaan:
+
 De machtiging om in de onder 5.3.2 en 5.3.3 hiervoor bedoelde situaties namens mij ontheffing te verlenen geldt slechts als aan de volgende voorwaarden is voldaan:
 
 ### 5.3.5. Bepaling van de investeringsaftrek ([artikelen 3.41, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.41), [3.42, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.42), en [3.42a, derde lid, Wet IB 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.42a))
 
 Bij de bepaling van de investeringsaftrek over het jaar waarin de verplichtingen waarop de ontheffing betrekking heeft, zijn aangegaan, wordt in het totale investeringsbedrag mede begrepen de waarde in het economische verkeer van alle bedrijfsmiddelen, die in dat jaar zijn verkregen uit verplichtingen, genoemd in [artikel 3.46, eerste lid, van de Wet IB 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.46) en waarvoor ontheffing wordt of zou kunnen worden verleend.
 
-Bij de bepaling van de investeringsaftrek over het jaar waarin de verplichtingen waarop de ontheffing betrekking heeft, zijn aangegaan, wordt in het totale investeringsbedrag mede begrepen de waarde in het economische verkeer van alle bedrijfsmiddelen, die in dat jaar zijn verkregen uit verplichtingen, genoemd in [artikel 3.46, eerste lid, van de Wet IB 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.46) en waarvoor ontheffing wordt of zou kunnen worden verleend.
-
-### 5.3.6. Geen inbreuk op wettelijke bepalingen
+Wellicht ten overvloede merk ik op dat bij de belastingplichtige die voor ten minste een derde gedeelte belang heeft in een lichaam/ondernemer uiteraard slechts investeringsaftrek kan worden toegepast voor verplichtingen die overigens voor investeringsaftrek in aanmerking komen en voorts dat de investeringsaftrek nooit meer kan bedragen dan het bedrag waarop volgens de overige wettelijke bepalingen aanspraak kan worden gemaakt.
 
 ### 5.3.7. Overige situaties en bedrijfsmiddelen verworven van een buitenlandse vaste inrichting
 
-Voor situaties waarin de bedrijfsmiddelen worden verworven van een buitenlandse vaste inrichting van een binnen Nederland gevestigd lichaam en waarin de belanghebbenden ten gevolge van het onder 5.3.3 gestelde niet voor volledige investeringsaftrek in aanmerking komen, moet een verzoek worden gericht aan Belastingdienst/Directie Vaktechniek Belastingen/Cluster Vpb-IBwinst, Postbus 20201, 2500 EE Den Haag.
-
-Voor situaties waarin de bedrijfsmiddelen worden verworven van een buitenlandse vaste inrichting van een binnen Nederland gevestigd lichaam en waarin de belanghebbenden ten gevolge van het onder 5.3.3 gestelde niet voor volledige investeringsaftrek in aanmerking komen, moet een verzoek worden gericht aan Belastingdienst/Directie Vaktechniek Belastingen/Cluster Vpb-IBwinst, Postbus 20201, 2500 EE Den Haag.
+### 5.3.7. Overige situaties en bedrijfsmiddelen verworven van een buitenlandse vaste inrichting
 
 In andere situaties dan die in dit besluit vermeld, wordt geen investeringsaftrek verleend. Belanghebbenden behoeven derhalve niet naar mij te worden verwezen.
+
+Voor situaties waarin de bedrijfsmiddelen worden verworven van een buitenlandse vaste inrichting van een binnen Nederland gevestigd lichaam en waarin de belanghebbenden ten gevolge van het onder 5.3.3 gestelde niet voor volledige investeringsaftrek in aanmerking komen, moet een verzoek worden gericht aan Belastingdienst/Directie Vaktechniek Belastingen/Cluster Vpb-IBwinst, Postbus 20201, 2500 EE Den Haag.
+
+Het verzoek moet zijn ingediend vóór het moment waarop de aanslag inkomstenbelasting van het jaar waarop de investering betrekking heeft, onherroepelijk vaststaat, onder vermelding van de voor de toepassing van dit besluit van belang zijnde gegevens.
 
 ### 5.3.8. Indiening verzoek
 
@@ -387,17 +387,13 @@ Het verzoek moet zijn ingediend vóór het moment waarop de aanslag inkomstenbel
 
 Het verzoek moet tevens zijn voorzien van een verklaring dat de belastingplichtige akkoord gaat met de volgende voorwaarde:
 
-**5.4.2.2.** Als één van de onder 5.4.1 omschreven uitsluitingen van toepassing is, zijn de inspecteurs gemachtigd de investeringsaftrek volledig toe te passen in de hierna omschreven situaties, als is voldaan aan de onder 5.4.4 gestelde voorwaarden.
-
-Voor verplichtingen aangegaan door een aandelenvennootschap kan voor de verwerving van een onderneming of een gedeelte van een onderneming tegen uitreiking van aandelen, geen aanspraak worden gemaakt op investeringsaftrek ([artikel 8, achtste lid, onderdeel a, van de Wet VPB](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&artikel=8)). De bedoeling van deze uitsluitingsbepaling is te voorkomen dat investeringsaftrek wordt toegepast als formeel sprake is van verwerven, maar materieel van voortzetten van ondernemingen.
-
 Voor verplichtingen aangegaan door een aandelenvennootschap kan voor de verwerving van een onderneming of een gedeelte van een onderneming tegen uitreiking van aandelen, geen aanspraak worden gemaakt op investeringsaftrek ([artikel 8, achtste lid, onderdeel a, van de Wet VPB](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&artikel=8)). De bedoeling van deze uitsluitingsbepaling is te voorkomen dat investeringsaftrek wordt toegepast als formeel sprake is van verwerven, maar materieel van voortzetten van ondernemingen.
 
 Geen recht op investeringsaftrek geldt voor verplichtingen aangegaan door een aandelenvennootschap tegenover groot-aandeelhouder of een gelieerde aandelenvennootschap.
 
 De bedoeling van deze uitsluitingsbepalingen is geen investeringsaftrek toe te passen bij blote verschuivingen binnen een vermogensgemeenschap. De Minister heeft de bevoegdheid te bepalen dat het achtste lid geen toepassing vindt ([artikel 8, elfde lid, van de Wet VPB](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&artikel=8)). Ik heb besloten voor de volgende situaties van deze ontheffingsbevoegdheid gebruik te maken. Hierbij machtig ik de inspecteurs namens mij onder de navolgende voorwaarden ontheffing te verlenen.
 
-**5.4.2.1.** Als de hiervóór onder 5.4.1 omschreven uitsluiting van toepassing is, zijn de inspecteurs gemachtigd de investeringsaftrek volledig toe te passen in de hierna omschreven situatie als is voldaan aan de onder 5.4.4 gestelde voorwaarden. In deze situatie is geen sprake van formeel verwerven en materieel voortzetten van een onderneming, maar van een reële investering.
+Geen recht op investeringsaftrek geldt voor verplichtingen aangegaan door een aandelenvennootschap tegenover groot-aandeelhouder of een gelieerde aandelenvennootschap.
 
 **5.4.2.1.** Als de hiervóór onder 5.4.1 omschreven uitsluiting van toepassing is, zijn de inspecteurs gemachtigd de investeringsaftrek volledig toe te passen in de hierna omschreven situatie als is voldaan aan de onder 5.4.4 gestelde voorwaarden. In deze situatie is geen sprake van formeel verwerven en materieel voortzetten van een onderneming, maar van een reële investering.
 
@@ -405,21 +401,25 @@ Een aandelenvennootschap gaat verplichtingen aan voor de verwerving van een onde
 
 **5.4.2.2.** Als één van de onder 5.4.1 omschreven uitsluitingen van toepassing is, zijn de inspecteurs gemachtigd de investeringsaftrek volledig toe te passen in de hierna omschreven situaties, als is voldaan aan de onder 5.4.4 gestelde voorwaarden.
 
-### 5.4.3. Overige investeringen
+In deze situaties is geen sprake van vermogensverschuivingen of worden de vermogensverschuivingen aangemerkt als reële investeringen.
 
 **5.4.2.2.1.** De aandelenvennootschap gaat verplichtingen aan voor de verwerving van bedrijfsmiddelen die tot het tijdstip van de verwerving tot het privévermogen van de groot-aandeelhouder behoorden en:
 
-### 5.4.4. Voorwaarden
+### 5.4.3. Overige investeringen
 
 De bedrijfsmiddelen hadden onmiddellijk voorafgaand aan het aangaan van de verplichtingen in de onderneming van de groot-aandeelhouder of bij de gelieerde aandelenvennootschap, de hoedanigheid van onderhanden werk dan wel voorraad (grondstoffen, hulpstoffen, goederen in bewerking, gerede producten, handelsgoederen e.d.) en zijn niet eerder binnen de door [artikel 8, achtste lid, van de Wet VPB](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&artikel=8) bedoelde gelieerde verhoudingen bedrijfsmiddel geweest.
 
-### 5.4.5. Bepaling van de investeringsaftrek ([artikelen 3.41, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.41), [3.42, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.42) en [3.42a, derde lid, Wet IB 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.42a))
+### 5.4.4. Voorwaarden
 
 **5.4.2.2.4.** De aandelenvennootschap gaat verplichtingen aan voor de verwerving van bedrijfsmiddelen
 
-### 5.4.6. Overige situaties
+### 5.4.5. Bepaling van de investeringsaftrek ([artikelen 3.41, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.41), [3.42, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.42) en [3.42a, derde lid, Wet IB 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.42a))
 
 **5.4.2.2.5.** De aandelenvennootschap gaat verplichtingen aan voor het verrichten van werkzaamheden in het kader van de verwerving of verbetering van bedrijfsmiddelen
+
+### 5.4.3. Overige investeringen
+
+De inspecteurs zijn gemachtigd in de overige situaties waarin verplichtingen worden aangegaan, zoals omschreven onder 5.4.1, zonder dat wordt voldaan aan de omschrijving van de situaties in 5.4.2, maar wel aan de onder 5.4.4 gestelde voorwaarden, per bedrijfsmiddel investeringsaftrek toe te passen tot maximaal het bedrag van de desinvesteringsbijtelling die bij de inbrenger(s) of vervreemder(s) ter zake van de inbreng of vervreemding van dat bedrijfsmiddel is toegepast.
 
 De inspecteurs zijn gemachtigd in de overige situaties waarin verplichtingen worden aangegaan, zoals omschreven onder 5.4.1, zonder dat wordt voldaan aan de omschrijving van de situaties in 5.4.2, maar wel aan de onder 5.4.4 gestelde voorwaarden, per bedrijfsmiddel investeringsaftrek toe te passen tot maximaal het bedrag van de desinvesteringsbijtelling die bij de inbrenger(s) of vervreemder(s) ter zake van de inbreng of vervreemding van dat bedrijfsmiddel is toegepast.
 
@@ -429,23 +429,23 @@ De machtiging om in de onder 5.4.2 en 5.4.3 hiervoor bedoelde situaties namens m
 
 ### 5.4.5. Bepaling van de investeringsaftrek ([artikelen 3.41, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.41), [3.42, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.42) en [3.42a, derde lid, Wet IB 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.42a))
 
-### 5.4.5. Bepaling van de investeringsaftrek ([artikelen 3.41, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.41), [3.42, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.42) en [3.42a, derde lid, Wet IB 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.42a))
+### 5.4.6. Overige situaties
 
 ### 5.4.6. Overige situaties
 
-Voor situaties waarin de groot-aandeelhouder in het buitenland een onderneming drijft en waarin door het onder 5.4.2.2.2 gestelde geen volledige investeringsaftrek wordt toegepast, dienen belanghebbenden een verzoek te richten aan Belastingdienst/Directie Vaktechniek Belastingen/Cluster Vpb-IBwinst, Postbus 20201, 2500 EE Den Haag.
-
-### 6.1.2. Goedkeuring bij overdracht onderneming in het zicht van overlijden
-
 In andere situaties dan die in dit besluit vermeld, wordt geen investeringsaftrek verleend. Belanghebbenden behoeven derhalve niet naar mij te worden verwezen.
 
+### 5.4.7. Indiening verzoek
+
+Het verzoek moet zijn ingediend vóór het moment waarop de aanslag vennootschapsbelasting van het jaar waarop de investering betrekking heeft, onherroepelijk vaststaat, onder vermelding van de voor de toepassing van dit besluit van belang zijnde gegevens.
+
 Het verzoek moet zijn ingediend vóór het moment waarop de aanslag vennootschapsbelasting van het jaar waarop de investering betrekking heeft, onherroepelijk vaststaat, onder vermelding van de voor de toepassing van dit besluit van belang zijnde gegevens.
 
 Het verzoek moet zijn ingediend vóór het moment waarop de aanslag vennootschapsbelasting van het jaar waarop de investering betrekking heeft, onherroepelijk vaststaat, onder vermelding van de voor de toepassing van dit besluit van belang zijnde gegevens.
 
-### 6. Desinvesteringsbijtelling
+### 6.1.1. Inleiding
 
-Het verzoek moet zijn ingediend vóór het moment waarop de aanslag inkomstenbelasting van het jaar waarop de desinvestering betrekking heeft, onherroepelijk vaststaat.
+Als de ondernemer zijn onderneming staakt door overlijden, is geen sprake van vervreemding in de zin van [artikel 3.47 van de Wet IB 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.47). Het voorgaande geldt eveneens als de onderneming wordt voortgezet, al dan niet geruisloos. Dit is anders als wordt gestaakt in het zicht van overlijden. In dat geval moet een desinvesteringsbijtelling in aanmerking worden genomen. Ik acht dit ongewenst.
 
 Als de ondernemer zijn onderneming staakt door overlijden, is geen sprake van vervreemding in de zin van [artikel 3.47 van de Wet IB 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.47). Het voorgaande geldt eveneens als de onderneming wordt voortgezet, al dan niet geruisloos. Dit is anders als wordt gestaakt in het zicht van overlijden. In dat geval moet een desinvesteringsbijtelling in aanmerking worden genomen. Ik acht dit ongewenst.
 
@@ -453,27 +453,27 @@ Als de ondernemer zijn onderneming staakt door overlijden, is geen sprake van ve
 
 ### 6.1.2. Goedkeuring bij overdracht onderneming in het zicht van overlijden
 
-Ik keur goed dat, op een daartoe strekkend verzoek, geen desinvesteringsbijtellingen in aanmerking worden genomen als een onderneming in het zicht van overlijden wordt overgedragen dan wel geliquideerd, mits wordt voldaan aan twee voorwaarden.
-
-Hierbij valt aan de volgende mogelijkheden te denken:
-
 Als binnen een samenwerkingsverband de onderneming wordt overgedragen aan een of meer personen die de onderneming mede drijven kan geen gebruik worden gemaakt van bovengenoemde goedkeuring. In die gevallen kunnen de wettelijke mogelijkheden worden benut.
 
-Het verzoek moet zijn ingediend vóór het moment waarop de aanslag inkomstenbelasting van het jaar waarop de desinvestering betrekking heeft, onherroepelijk vaststaat.
+Hierbij valt aan de volgende mogelijkheden te denken:
 
 Het verzoek moet zijn ingediend vóór het moment waarop de aanslag inkomstenbelasting van het jaar waarop de desinvestering betrekking heeft, onherroepelijk vaststaat.
 
 De inspecteurs zijn gemachtigd zelfstandig te beslissen op de verzoeken.
 
-Voor gevallen waarin een verzoek om ambtshalve vermindering in verband met de KIA nog tijdig zou zijn als deze was gedaan op de dagtekening van dit besluit, geldt dat de termijn voor het doen van het verzoek eenmalig wordt verlengd met drie maanden, te rekenen vanaf de dagtekening van dit besluit.
+Het verzoek moet zijn ingediend vóór het moment waarop de aanslag inkomstenbelasting van het jaar waarop de desinvestering betrekking heeft, onherroepelijk vaststaat.
 
-### 7.1. ‘... daarvoor kiest bij de aangifte.’ Vergeten te kiezen voor investeringsaftrek, aanslag staat onherroepelijk vast
+De inspecteurs zijn gemachtigd zelfstandig te beslissen op de verzoeken.
 
 Een ondernemer die verplichtingen aangaat voor de aanschaffing of verbetering van bedrijfsmiddelen kan in aanmerking komen voor investeringsaftrek. In de wet staat dat voor investeringsaftrek moet worden gekozen bij de aangifte. Kiezen bij de aangifte kan uiterlijk tot het moment waarop de aanslag onherroepelijk vaststaat. Wie daarna kiest, komt niet in aanmerking voor ambtshalve vermindering ([artikel 9.6 van de Wet IB 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=9.6) jo. [artikel 45aa van de Uitvoeringsregeling IB 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0012031&artikel=45aa) en het [BFB, onderdeel 17](onbekend)).
 
-Ik heb besloten gebruik te maken van de mogelijkheid een bijzondere regeling te treffen voor de investeringsaftrek ([art 45aa, onderdeel c, uitvoeringsregeling IB 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0012031&artikel=45aa), [BFB, onderdeel 17, § 12](onbekend)). In het [besluit van 15 september 2009](https://wetten.overheid.nl/jci1.3:c:BWBR0026423), nr. CPP2009/1116M, was al een versoepeling aangebracht voor de EIA en MIA. Deze breid ik nu uit naar de KIA. De belastingplichtige die verzuimd heeft voor investeringsaftrek te kiezen bij de aangifte kan daardoor alsnog de inspecteur verzoeken om ambtshalve vermindering. Dat betekent dat binnen vijf jaren alsnog een verzoek om KIA, EIA of MIA kan worden gedaan. Daarbij geldt dat de termijn aanvangt na het einde van het jaar waarin de investeringsaftrek in aanmerking had kunnen worden genomen, ook al vond de investering in een eerder jaar plaats. Het verzoek om ambtshalve vermindering kan mede omvatten het verzoek om onder de investering te begrijpen de kosten van een energie-advies ([artikel 3.42, vijfde lid, van de Wet IB 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.42)) of van een milieu-advies ([artikel 3.42a, vierde lid, van de Wet IB 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.42a)).
+### 7.1. ‘... daarvoor kiest bij de aangifte.’ Vergeten te kiezen voor investeringsaftrek, aanslag staat onherroepelijk vast
 
 Ik heb daarbij onder meer overwogen dat bij deze faciliteit de aanwezigheid van een keuze minder belangrijk is, de investeringsaftrek vrijwel altijd voordelig is, de keuze niet doorwerkt naar anderen en dat enige soepelheid past bij het karakter van deze investeringsfaciliteit voor ondernemers.
+
+Wellicht ten overvloede wijs ik er op dat de bewijslast – en onder omstandigheden de zogenoemde verzwaarde bewijslast – dat recht bestaat op investeringsaftrek op de belastingplichtige rust. Uiteraard moet ook aan de overige (wettelijke) voorwaarden worden voldaan, zoals bijvoorbeeld het tijdig melden (EIA, MIA) of het betalingscriterium.
+
+Als het bedrijfsmiddel intussen is vervreemd, bestaat per saldo slechts recht op een ambtshalve vermindering gelijk aan het verschil tussen de investeringsaftrek en de desinvesteringsbijtelling. Vanuit doelmatigheidsoverwegingen ligt het in dergelijke gevallen voor de hand dat dit saldo in één jaar in mindering wordt gebracht met toepassing van [artikel 64 van de Algemene wet inzake rijksbelastingen](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=64).
 
 ### 7.3. Aanmelding van de investering bij fiscale eenheid
 
@@ -483,19 +483,19 @@ De goedkeuring ziet op alle gevallen waarin op de dagtekening van dit besluit de
 
 ### 7.2. Aanmelding van de investering als energie- of milieulijst in de loop van het jaar wordt vastgesteld
 
-Ingeval de energie- of milieulijst in de loop van een kalenderjaar met terugwerkende kracht tot en met 1 januari van dat jaar wordt vastgesteld, geldt een aangepaste meldingstermijn. De meldingstermijn begint in die situaties te lopen op de dag van de publicatie van de energie- of milieulijst.
-
-Ingeval de energie- of milieulijst in de loop van een kalenderjaar met terugwerkende kracht tot en met 1 januari van dat jaar wordt vastgesteld, geldt een aangepaste meldingstermijn. De meldingstermijn begint in die situaties te lopen op de dag van de publicatie van de energie- of milieulijst.
-
 X investeert op 15 januari in een bedrijfsmiddel. De milieulijst voor dat jaar wordt veertien dagen later, op 29 januari, vastgesteld en op 2 februari van dat jaar gepubliceerd. Het bedrijfsmiddel staat op die milieulijst.
 
-### 7.3. Aanmelding van de investering bij fiscale eenheid
+De aanmeldingstermijn vangt aan op 2 februari van dat jaar. Dat betekent dat X de investering uiterlijk moet melden op 1 mei van datzelfde jaar (binnen drie maanden vanaf 2 februari).
 
-Het [besluit van 15 september 2009](https://wetten.overheid.nl/jci1.3:c:BWBR0026423), nr. CPP2009/1116M, Staatscourant 2009, 1405, is met ingang van de inwerkingtreding van dit besluit ingetrokken.
+X investeert op 15 januari in een bedrijfsmiddel. De milieulijst voor dat jaar wordt veertien dagen later, op 29 januari, vastgesteld en op 2 februari van dat jaar gepubliceerd. Het bedrijfsmiddel staat op die milieulijst.
 
 ### 7.3.1. Inleiding
 
 Van investeringen die zijn gedaan door een tot een fiscale eenheid voor de vennootschapsbelasting behorende dochtermaatschappij moet de aanmelding in principe door de moedermaatschappij plaatsvinden.
+
+### 7.3.2. Problemen vanuit de praktijk
+
+Vanuit de praktijk hebben mij signalen bereikt dat een strikt vasthouden aan het onder 7.3.1 opgenomen genoemde standpunt tot uitvoeringsproblemen leidt. Het gaat daarbij onder meer om de volgende situaties.
 
 ## Bijlagen
 
@@ -612,23 +612,23 @@ Aan de toepassing van deze goedkeuring zijn de volgende voorwaarden verbonden:
 
 Als in een boekjaar een door een calamiteit teloorgegaan net aangeschaft bedrijfsmiddel wordt vervangen, kunnen de wettelijke regels er toe leiden dat minder of zelfs geen recht bestaat op KIA. Bij de invoering van de investeringsaftrek is bepaald dat als voor KIA wordt gekozen, het niet mogelijk is bepaalde bedrijfsmiddelen buiten aanmerking te laten. De wetgever wilde niet dat een belastingplichtige door manipulatie zijn investeringsaftrek zou kunnen maximaliseren. In de bovenbedoelde situatie is daarvan geen sprake.
 
-Als in een boekjaar een door een calamiteit teloorgegaan net aangeschaft bedrijfsmiddel wordt vervangen, kunnen de wettelijke regels er toe leiden dat minder of zelfs geen recht bestaat op KIA. Bij de invoering van de investeringsaftrek is bepaald dat als voor KIA wordt gekozen, het niet mogelijk is bepaalde bedrijfsmiddelen buiten aanmerking te laten. De wetgever wilde niet dat een belastingplichtige door manipulatie zijn investeringsaftrek zou kunnen maximaliseren. In de bovenbedoelde situatie is daarvan geen sprake.
-
 Als in een boekjaar een door een calamiteit teloorgegaan net aangeschaft bedrijfsmiddel wordt vervangen, keur ik goed dat het teloorgegane bedrijfsmiddel niet meetelt voor de toepassing van de investeringsaftrek. De goedkeuring ziet op de investeringsaftrek; het is dus niet mogelijk gebruik te maken van de goedkeuring voor de toepassing van de KIA en tegelijk voor de toepassing van de MIA of EIA wèl uit te gaan van twee investeringen (als het bedrijfsmiddel op de energie- of milieulijst zou staan).
+
+X koopt een vrachtwagen voor € 102.000. Een week na de aankoop gaat de vrachtwagen in vlammen op. Van de verzekeringspenningen wordt meteen daarna – opnieuw – een zelfde vrachtwagen gekocht. In het boekjaar wordt derhalve voor € 204.000 aan vrachtwagens gekocht. Overigens heeft X geen investeringen gedaan. De KIA bedraagt in dat jaar € 7.783. Was er geen brand geweest dan had de KIA € 15.470 bedragen (één vrachtwagen). Door de goedkeuring telt de eerste investering van € 102.000 niet mee. X krijgt KIA over € 102.000.
 
 ### 4.5. Vervanging asbesthoudende daken
 
-Vanaf 2014 zijn woonhuizen en woonschepen niet langer uitgesloten van MIA. Beoogd is bedrijfsmatige verhuurders van woonruimte in aanmerking te laten komen voor MIA als zij asbesthoudende daken van woonhuizen vervangen. Bij de parlementaire behandeling heb ik toegezegd voor zoveel nodig goed te keuren dat bij de vervanging van asbesthoudende daken sprake is van een verbetering (investering) en niet van onderhoud (Kamerstukken II 2013/2014, 33 752, nr. 11, p. 73). Onderstaande goedkeuring voorziet daarin en geldt vanaf 2014 ook voor niet-woningen.
-
 Met ingang van 1 januari 2014 mag onder onderstaande voorwaarde de vervanging van asbesthoudende daken, dakgoten of gevels (milieulijst 2014 nummers F6390, C6400) voor de investeringsaftrek als investering worden aangemerkt. Er hoeft dus geen onderscheid te worden gemaakt tussen onderhoud en verbetering. De totale uitgave mag als investering worden aangemerkt. Dat betekent dat niet alleen MIA kan worden verkregen maar – als aan de voorwaarden daarvoor wordt voldaan – ook KIA.
+
+De voorwaarde luidt dat de belastingplichtige die gebruik maakt van de goedkeuring ook in zijn winstbepaling rekening moet houden met het feit dat de dakvervanging is aangemerkt als investering. De onderhoudscomponent mag dus niet ineens als kosten in mindering worden gebracht bij het bepalen van de winst, maar moet ook als investering worden behandeld. Op investeringen wordt afgeschreven, mogelijk kan de belastingplichtige gebruik maken van de Vamil.
 
 ### 5. Uitgesloten verplichtingen voor de investeringsaftrek
 
-### 5.1. Verplichtingen tussen naaste verwanten
+### 5.1.1. Inleiding
 
 Voor de investeringsaftrek blijven buiten aanmerking verplichtingen aangegaan tussen naaste verwanten ([artikel 3.46, eerste lid, onderdelen a en b, van de Wet IB 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.46)).
 
-### 5.1.2. Uitgangspunten en toelichting
+### 5.1.2.1. Verwerving of verbetering bedrijfsmiddelen
 
 ### 5.1.2.2. Beïnvloeding hoogte investeringsaftrek
 
@@ -642,7 +642,7 @@ Het ontmoet bij mij geen bezwaar dat men, als een verplichting betrekking heeft 
 
 Het moet gaan om reële verplichtingen tot betaling aangegaan tussen naaste verwanten voor de verwerving of verbetering van een bedrijfsmiddel. Schulden ter zake van de verwerving of verbetering van een bedrijfsmiddel aan de naaste verwant moeten met name voor wat betreft looptijd, aflossingsschema en te stellen zekerheden voldoen aan hetgeen tussen derden gebruikelijk is. Bovendien mag geen sprake zijn van een kennelijk vooruitlopen op een erfrechtelijke verkrijging (schuldig blijven zonder rekening te houden met bijvoorbeeld de leeftijd van de naaste verwant tegenover wie de verplichtingen worden aangegaan). Als een lening met het oog op de toepassing van de regeling van durfkapitaal ([artikel 5.17, eerste lid, van de Wet IB 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=5.17), tot 2013) is achtergesteld en voor het overige als tussen derden gebruikelijk kan worden beschouwd, komt de ondernemer/geldlener in aanmerking voor investeringsaftrek.
 
-Als een schuld een lager rentepercentage draagt dan vermeld in de zogenoemde marktrentebesluiten (o.a. [besluit van 28 november 2013](https://wetten.overheid.nl/jci1.3:c:BWBR0034537), nr. BLKB2013/2197M), wordt als verplichting aangemerkt de contante waarde van de contractueel te verrichten betalingen voor rente en aflossing; daarbij wordt de marktrente als bedoeld in voornoemd besluit in het jaar van aangaan van de verplichtingen als disconteringsfactor toegepast.
+Ter voldoening aan de verplichtingen tussen naaste verwanten voor de verwerving of verbetering van bedrijfsmiddelen kunnen bijvoorbeeld ook de daarop betrekking hebbende schulden aan derden worden overgenomen. Civielrechtelijk wordt dit aangeduid als passief-subjectieve novatie in de vorm van delegatie. Ook kan verrekening van een op de balans voorkomende vordering ter zake van achterstallig loon plaatsvinden. De verplichtingen moeten schriftelijk worden vastgelegd.
 
 ### 5.1.2.5. Verandering of niet-nakoming van verplichtingen
 
@@ -652,7 +652,7 @@ Niet-nakoming van de verplichtingen dan wel verandering achteraf van de verplich
 
 Als van een naaste verwant een bedrijfsmiddel wordt verworven dat binnen een termijn van drie jaren vóór het tijdstip van de verwerving tot een nalatenschap heeft behoord waartoe degene die het desbetreffende bedrijfsmiddel verwerft gerechtigd was, wordt investeringsaftrek toegepast tot maximaal het bedrag van de desinvesteringsbijtelling die bij de vervreemder ter zake van de vervreemding van dat bedrijfsmiddel is toegepast.
 
-Een verzoek om toepassing van investeringsaftrek in de bovenbedoelde situaties wordt door de inspecteur slechts ingewilligd, als hij in het bezit is van een volgens bijgevoegd model opgemaakt en door de belastingplichtige ondertekend verzoek om ontheffing, de verklaring met betrekking tot de bijtelling bij het niet nakomen van de verplichtingen (beide [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0034987&bijlage=2&z=2014-03-27&g=2014-03-27)), alsmede van een afschrift van de schriftelijk vastgelegde overeenkomst. Het verzoek moet zijn ingediend vóór het moment waarop de aanslag inkomstenbelasting van het jaar waarop de investering betrekking heeft, onherroepelijk vaststaat.
+De belastingplichtige die in aanmerking wenst te komen voor investeringsaftrek bij het aangaan van verplichtingen in het kader van transacties tussen naaste verwanten, moet voor elk jaar waarin een dergelijke investering plaatsvindt, in de aangifte een verzoek opnemen tot ontheffing van hetgeen is bepaald in [artikel 3.46, eerste lid, onderdeel a en b, van de Wet IB 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.46). Dat kan door middel van het beantwoorden van een ja/nee-vraag. Als de belastingplichtige deze vraag met ‘ja’ beantwoordt, verklaart hij zich akkoord met hetgeen is opgenomen in onderdeel 5.1 van dit besluit omtrent verandering of niet-nakoming van verplichtingen.
 
 ### 5.1.5. Overige situaties
 
@@ -672,15 +672,15 @@ Bij de overgang van losse bedrijfsmiddelen, ongeacht of deze kan leiden tot het 
 
 Het moet gaan om reële verplichtingen tot betaling wegens overbedeling aangegaan jegens de overige erfgenamen. Het overnemen van schulden is in het kader van erfrechtelijke verkrijgingen niet het aangaan van verplichtingen voor de verwerving van een bedrijfsmiddel, aangezien bij erfrechtelijke verkrijgingen sprake is van een overgang onder algemene titel. Dit is anders bij het aangaan van verplichtingen tussen naaste verwanten alwaar door het overnemen van schulden invulling wordt gegeven aan de betalingsverplichting jegens deze naaste verwant.
 
-Het moet gaan om reële verplichtingen tot betaling wegens overbedeling aangegaan jegens de overige erfgenamen. Het overnemen van schulden is in het kader van erfrechtelijke verkrijgingen niet het aangaan van verplichtingen voor de verwerving van een bedrijfsmiddel, aangezien bij erfrechtelijke verkrijgingen sprake is van een overgang onder algemene titel. Dit is anders bij het aangaan van verplichtingen tussen naaste verwanten alwaar door het overnemen van schulden invulling wordt gegeven aan de betalingsverplichting jegens deze naaste verwant.
+Schulden ter zake van de overbedeling aan de overige erfgenamen moeten met name voor wat betreft looptijd, aflossingsschema en te stellen zekerheden voldoen aan hetgeen tussen derden gebruikelijk is. Als een schuld een lager rentepercentage draagt dan vermeld in de zogenoemde marktrentebesluiten (o.a. [besluit van 5 december 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0032446), nr. BLKB2012/1865M), wordt als verplichting aangemerkt de contante waarde van de contractueel te verrichten betalingen voor rente en aflossing; daarbij wordt de marktrente als bedoeld in voormeld besluit in het jaar van aangaan van de verplichting, als disconteringsfactor toegepast. De verplichtingen behoren schriftelijk te worden vastgelegd.
 
 ### 5.2.2.5. Verandering of niet-nakoming van verplichtingen
 
 De volgende omstandigheden leiden tot gehele bijtelling van de toegepaste investeringsaftrek, als ware het een desinvesteringsbijtelling:
 
-binnen een termijn van vijf jaren na de aanvang van het kalender(boek)jaar waarin de oorspronkelijke verplichtingen zijn aangegaan.
+Van verandering van verplichtingen is bijvoorbeeld sprake als, in geval van schuldig blijven, door de overige erfgenamen wijzigingen van rentepercentages of aflossingsschema's worden toegestaan of door dezen schenkingen dan wel kwijtscheldingen worden gedaan of als de betalingen van verschuldigde rente en aflossing niet plaatsvinden.
 
-### 5.2.3. Vaststelling verplichtingen wegens overbedeling
+### 5.2.3.1. Evenredige verdeling verplichtingen
 
 ### 5.2.3.2. Landbouwgrond
 
@@ -688,17 +688,17 @@ binnen een termijn van vijf jaren na de aanvang van het kalender(boek)jaar waari
 
 ### 5.2.3.4. Formule
 
-In formule kan hetgeen aldus aan de bovenbedoelde bedrijfsmiddelen kan worden toegerekend, als volgt worden weergegeven:
+B
 
-– x R = X
+V
 
-V: al hetgeen bij verdeling verkregen is naar de waarde zoals bovenbeschreven ten tijde van het overlijden;
+R: reële verplichtingen wegens overbedeling;
 
 Bij de bepaling van de investeringsaftrek over het jaar waarin de verplichtingen waarop de ontheffing betrekking heeft, zijn aangegaan, wordt in het totale investeringsbedrag mede begrepen de waarde in het economische verkeer van alle bedrijfsmiddelen, die in dat jaar zijn verkregen uit verplichtingen, genoemd in [artikel 3.46, eerste lid, van de Wet IB 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.46) en waarvoor ontheffing wordt of zou kunnen worden verkregen.
 
 ### 5.2.5. Verzoek
 
-Een verzoek om toepassing van investeringsaftrek in de onder 5.2.2 genoemde gevallen wordt door de inspecteur slechts ingewilligd, als hij in het bezit is van een volgens bijgevoegd model opgemaakt en door de belastingplichtige ondertekend verzoek om ontheffing, de verklaring met betrekking tot het nakomen van de verplichtingen (beide [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0034987&bijlage=3&z=2014-03-27&g=2014-03-27)), alsmede van afschriften van de notariële akte van verdeling en van de schriftelijk vastgelegde overeenkomst.
+De belastingplichtige die in aanmerking wenst te komen voor investeringsaftrek in het kader van de overname van een onderneming uit een nalatenschap waarbij verplichtingen worden aangegaan tussen gerechtigden tot die nalatenschap, moet voor elk jaar waarin dergelijke verplichtingen worden aangegaan, in de aangifte een verzoek opnemen tot ontheffing van hetgeen is opgenomen in [artikel 3.46, eerste lid, onderdeel c, van de Wet IB 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.46). Dat kan door middel van het beantwoorden van een ja/nee-vraag. Als de belastingplichtige deze vraag met ‘ja’ beantwoordt, verklaart hij zich akkoord met hetgeen is opgenomen in onderdeel 5.2 van dit besluit omtrent verandering of niet-nakoming van verplichtingen.
 
 ### 5.3. Ontheffing bij verplichtingen tussen belastingplichtige en een gelieerd lichaam
 
@@ -720,19 +720,19 @@ Wellicht ten overvloede merk ik op dat bij de belastingplichtige die voor ten mi
 
 ### 5.3.8. Indiening verzoek
 
-Het verzoek moet zijn ingediend vóór het moment waarop de aanslag inkomstenbelasting van het jaar waarop de investering betrekking heeft, onherroepelijk vaststaat, onder vermelding van de voor de toepassing van dit besluit van belang zijnde gegevens.
+Het verzoek moet tevens zijn voorzien van een verklaring dat de belastingplichtige akkoord gaat met de volgende voorwaarde:
 
-### 5.4. Ontheffing bij verplichtingen tussen gelieerde lichamen
+### 5.4.1. Inleiding
 
 ### 5.4. Ontheffing bij verplichtingen tussen gelieerde lichamen
 
 ### 5.4.2. Reële investeringen
 
-In deze situaties is geen sprake van vermogensverschuivingen of worden de vermogensverschuivingen aangemerkt als reële investeringen.
-
 **5.4.2.2.2.** De aandelenvennootschap gaat verplichtingen aan voor de verwerving van bedrijfsmiddelen
 
 **5.4.2.2.3.** De aandelenvennootschap gaat verplichtingen aan jegens een niet binnen Nederland gevestigde gelieerde aandelenvennootschap voor de verwerving van bedrijfsmiddelen. De bedrijfsmiddelen zijn niet eerder in die hoedanigheid binnen de door [artikel 8, achtste lid, van de Wet VPB](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&artikel=8) bedoelde gelieerde verhoudingen betrokken geweest in de fiscale wetgeving binnen Nederland en hebben niet eerder ter beschikking gestaan van een binnen Nederland gevestigde onderneming binnen de hiervoor bedoelde gelieerde verhoudingen. Gelijktijdig met of kort na de verwerving worden de bedrijfsmiddelen in gebruik genomen.
+
+Gelijktijdig met of kort voor het aangaan van de verplichtingen gaat het volledige belang in de investerende aandelenvennootschap blijvend over op (een) derde(n). Na de overdracht van het belang is elke gelieerdheid verbroken en is (zijn) de groot-aandeelhouder of de vervreemdende vennootschap en/of haar aandeelhouder(s) vanaf het moment van aandelenoverdracht op geen enkele wijze meer betrokken bij de leiding van de investerende vennootschap. De bij de overdracht van het belang betrokken aandelen zijn tegen een zakelijke prijs overgedragen, waarbij de afwikkeling van deze overdracht is geschied op een wijze zoals tussen derden gebruikelijk is.
 
 Gelijktijdig met of kort voor het aangaan van de verplichtingen gaat het volledige belang in de investerende aandelenvennootschap blijvend over op (een) derde(n). Na de overdracht van het belang is elke gelieerdheid verbroken en is (zijn) de groot-aandeelhouder of de vervreemdende vennootschap en/of haar aandeelhouder(s) vanaf het moment van aandelenoverdracht op geen enkele wijze meer betrokken bij de leiding van de investerende vennootschap. De bij de overdracht van het belang betrokken aandelen zijn tegen een zakelijke prijs overgedragen, waarbij de afwikkeling van deze overdracht is geschied op een wijze zoals tussen derden gebruikelijk is.
 
@@ -744,23 +744,23 @@ Voor situaties waarin de groot-aandeelhouder in het buitenland een onderneming d
 
 ### 5.4.7. Indiening verzoek
 
-### 6. Desinvesteringsbijtelling
+### 6.1. Desinvesteringsbijtellingen bij overdracht en liquidatie in het zicht van overlijden
 
 ### 6.1. Desinvesteringsbijtellingen bij overdracht en liquidatie in het zicht van overlijden
 
-Ik keur goed dat, op een daartoe strekkend verzoek, geen desinvesteringsbijtellingen in aanmerking worden genomen als een onderneming in het zicht van overlijden wordt overgedragen dan wel geliquideerd, mits wordt voldaan aan twee voorwaarden.
+Hierbij valt aan de volgende mogelijkheden te denken:
 
 ### 6.1.3. Uiterlijke termijn indienen verzoek
 
-### 7. Formaliteiten
+### 7.1. ‘... daarvoor kiest bij de aangifte.’ Vergeten te kiezen voor investeringsaftrek, aanslag staat onherroepelijk vast
 
 ### 7. Formaliteiten
 
-Een ondernemer die verplichtingen aangaat voor de aanschaffing of verbetering van bedrijfsmiddelen kan in aanmerking komen voor investeringsaftrek. In de wet staat dat voor investeringsaftrek moet worden gekozen bij de aangifte. Kiezen bij de aangifte kan uiterlijk tot het moment waarop de aanslag onherroepelijk vaststaat. Wie daarna kiest, komt niet in aanmerking voor ambtshalve vermindering ([artikel 9.6 van de Wet IB 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=9.6) jo. [artikel 45aa van de Uitvoeringsregeling IB 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0012031&artikel=45aa) en het [BFB, onderdeel 17](onbekend)).
+Ik heb besloten gebruik te maken van de mogelijkheid een bijzondere regeling te treffen voor de investeringsaftrek ([art 45aa, onderdeel c, uitvoeringsregeling IB 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0012031&artikel=45aa), [BFB, onderdeel 17, § 12](onbekend)). In het [besluit van 15 september 2009](https://wetten.overheid.nl/jci1.3:c:BWBR0026423), nr. CPP2009/1116M, was al een versoepeling aangebracht voor de EIA en MIA. Deze breid ik nu uit naar de KIA. De belastingplichtige die verzuimd heeft voor investeringsaftrek te kiezen bij de aangifte kan daardoor alsnog de inspecteur verzoeken om ambtshalve vermindering. Dat betekent dat binnen vijf jaren alsnog een verzoek om KIA, EIA of MIA kan worden gedaan. Daarbij geldt dat de termijn aanvangt na het einde van het jaar waarin de investeringsaftrek in aanmerking had kunnen worden genomen, ook al vond de investering in een eerder jaar plaats. Het verzoek om ambtshalve vermindering kan mede omvatten het verzoek om onder de investering te begrijpen de kosten van een energie-advies ([artikel 3.42, vijfde lid, van de Wet IB 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.42)) of van een milieu-advies ([artikel 3.42a, vierde lid, van de Wet IB 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.42a)).
 
-Wellicht ten overvloede wijs ik er op dat de bewijslast – en onder omstandigheden de zogenoemde verzwaarde bewijslast – dat recht bestaat op investeringsaftrek op de belastingplichtige rust. Uiteraard moet ook aan de overige (wettelijke) voorwaarden worden voldaan, zoals bijvoorbeeld het tijdig melden (EIA, MIA) of het betalingscriterium.
+De goedkeuring ziet op alle gevallen waarin op de dagtekening van dit besluit de termijn voor ambtshalve vermindering nog niet is verstreken.
 
-Als het bedrijfsmiddel intussen is vervreemd, bestaat per saldo slechts recht op een ambtshalve vermindering gelijk aan het verschil tussen de investeringsaftrek en de desinvesteringsbijtelling. Vanuit doelmatigheidsoverwegingen ligt het in dergelijke gevallen voor de hand dat dit saldo in één jaar in mindering wordt gebracht met toepassing van [artikel 64 van de Algemene wet inzake rijksbelastingen](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=64).
+Voor gevallen waarin een verzoek om ambtshalve vermindering in verband met de KIA nog tijdig zou zijn als deze was gedaan op de dagtekening van dit besluit, geldt dat de termijn voor het doen van het verzoek eenmalig wordt verlengd met drie maanden, te rekenen vanaf de dagtekening van dit besluit.
 
 ### 7.3. Aanmelding van de investering bij fiscale eenheid
 
@@ -768,9 +768,9 @@ Van investeringen die zijn gedaan door een tot een fiscale eenheid voor de venno
 
 ### 7.3.2. Problemen vanuit de praktijk
 
-Vanuit de praktijk hebben mij signalen bereikt dat een strikt vasthouden aan het onder 7.3.1 opgenomen genoemde standpunt tot uitvoeringsproblemen leidt. Het gaat daarbij onder meer om de volgende situaties.
+Gelet op hetgeen onder inleiding is gesteld, zou onzekerheid kunnen bestaan over de vraag of in de hiervoor genoemde situaties recht bestaat op EIA of MIA. Te meer nu het gaat om investeringen in energiezuinige en milieuvriendelijke bedrijfsmiddelen acht ik het ongewenst dat in situaties zoals hiervoor genoemd het recht op EIA of MIA zou vervallen.
 
-Vanuit de praktijk hebben mij signalen bereikt dat een strikt vasthouden aan het onder 7.3.1 opgenomen genoemde standpunt tot uitvoeringsproblemen leidt. Het gaat daarbij onder meer om de volgende situaties.
+Voor zover nodig keur ik daarom het volgende goed.
 
 Gelet op hetgeen onder inleiding is gesteld, zou onzekerheid kunnen bestaan over de vraag of in de hiervoor genoemde situaties recht bestaat op EIA of MIA. Te meer nu het gaat om investeringen in energiezuinige en milieuvriendelijke bedrijfsmiddelen acht ik het ongewenst dat in situaties zoals hiervoor genoemd het recht op EIA of MIA zou vervallen.
 
@@ -781,22 +781,6 @@ Het [besluit van 15 september 2009](https://wetten.overheid.nl/jci1.3:c:BWBR0026
 ### 9. Inwerkingtreding
 
 Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant en werkt terug tot en met dagtekening besluit.
-
-## Bijlagen
-
-- 1. Verklaringen inzake de berekening van investeringsaftrek en desinvesteringsbijtelling bij aanwending van een herinvesteringsreserve of gebruikmaking van de ruilarresten.
-
-- 2. Verzoek om toepassing van investeringsaftrek voor het aangaan van verplichtingen in het kader van transacties tussen naaste verwanten.
-
-- 3. Verzoek om investeringsaftrek in het kader van de overname van een onderneming uit een nalatenschap waarbij verplichtingen worden aangegaan tussen gerechtigden tot die nalatenschap.
-
-## Bijlagen
-
-- 1. Verklaringen inzake de berekening van investeringsaftrek en desinvesteringsbijtelling bij aanwending van een herinvesteringsreserve of gebruikmaking van de ruilarresten.
-
-- 2. Verzoek om toepassing van investeringsaftrek voor het aangaan van verplichtingen in het kader van transacties tussen naaste verwanten.
-
-- 3. Verzoek om investeringsaftrek in het kader van de overname van een onderneming uit een nalatenschap waarbij verplichtingen worden aangegaan tussen gerechtigden tot die nalatenschap.
 
 ## Bijlage 1. Verklaringen inzake de berekening van investeringsaftrek en desinvesteringsbijtelling bij aanwending van een herinvesteringsreserve of gebruikmaking van de ruilarresten
 
@@ -821,6 +805,44 @@ De afgestane bedrijfsmiddelen zijn:
 - a. Is investeringsaftrek genoten over de kostprijs van een bedrijfsmiddel zonder dat deze is verminderd met de op voet van [artikel 3.54 van de Wet IB 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.54) gevormde herinvesteringsreserve ter zake van het afgestane bedrijfsmiddel, dan zal de desinvesteringsbijtelling voor het desbetreffende bedrijfsmiddel worden berekend over de overdrachtsprijs dan wel de waarde in het economische verkeer van deze bedrijfsmiddelen.
 
 - b. Als blijkt dat is uitgegaan van een te hoge grondslag voor het berekenen van investeringsaftrek, wordt ondergetekende geacht geen verzoek om toepassing van het in deze verklaring bedoelde besluit te hebben gedaan, zodat de investeringsaftrek alsnog overeenkomstig de in het arrest van 24 december 1975, nr. 17 795, weergegeven opvatting van de Hoge Raad wordt berekend.
+
+| ................................. | ............................ |
+| --- | --- |
+| (plaats) | (dagtekening) |
+|   |   |
+| ................................. |   |
+| (handtekening) |   |
+
+## Bijlage 2. Verzoek om toepassing van investeringsaftrek voor het aangaan van verplichtingen in het kader van transacties tussen naaste verwanten
+
+Aan de Inspecteur van de Belastingdienst/kantoor ..........
+
+De ondergetekende, ......................wonende te........................, BSN ............., verzoekt, in verband met verplichtingen welke zijn aangegaan met een persoon/personen die tot zijn huishouden behoort/behoren, (een) bloed- of aanverwant(en) in de rechte lijn of personen die behoren tot zijn (hun) huishouden, op grond van [artikel 3.46, tweede lid, van de Wet IB 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.46) om ontheffing van hetgeen is bepaald in het eerste lid, onderdeel a en b, van dat artikel.
+
+Hij/zij verklaart dat, als binnen vijf jaren na de aanvang van het kalenderjaar/boekjaar waarin de overname heeft plaatsgevonden onderstaande zich voordoet de op basis van het besluit toegepaste investeringsaftrek zal worden bijgeteld, als ware het een desinvesteringsbijtelling. De bijtelling vindt plaats in het jaar waarin onderstaande zich voordoet. Het betreft veranderingen – direct of indirect – van de aangegane verplichtingen voor de transacties tussen naaste verwanten te zijnen/haren gunste, voortvloeiende uit de familierelatie, of het niet nakomen van de verplichtingen.
+
+Hij/zij verklaart ervan kennis te hebben genomen dat de bijtelling van de toegepaste investeringsaftrek achterwege kan blijven, als hij/zij aannemelijk maakt dat deze verandering op zakelijke gronden berust of als blijkt dat de verandering losstaat van de tussen partijen bestaande contractuele verhouding.
+
+Een afschrift van de overeenkomst tussen de naaste verwanten gaat hierbij.
+
+| ................................. | ............................ |
+| --- | --- |
+| (plaats) | (dagtekening) |
+|   |   |
+| ................................. |   |
+| (handtekening) |   |
+
+## Bijlage 3. Verzoek om investeringsaftrek in het kader van de overname van een onderneming uit een nalatenschap waarbij verplichtingen worden aangegaan tussen gerechtigden tot die nalatenschap
+
+Aan de Inspecteur van de Belastingdienst/kantoor ....................
+
+De ondergetekende, ......................wonende te ........................, BSN ............., gerechtigde tot de nalatenschap van .................., verzoekt, in verband met tegenover de overige gerechtigde(n) tot die nalatenschap aangegane verplichtingen wegens overbedeling ter zake van de overname van een tot de nalatenschap behorend(e) (zelfstandig dan wel evenredig deel van de) onderneming, op grond van [artikel 3.46, tweede lid, van de Wet IB 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.46), om ontheffing van hetgeen is bepaald in het eerste lid, onderdeel c, van dat artikel.
+
+Hij/zij verklaart dat, als binnen vijf jaren na de aanvang van het kalenderjaar/boekjaar waarin de overname heeft plaatsgevonden onderstaande zich voordoet de op basis van het besluit toegepaste investeringsaftrek zal worden bijgeteld, als ware het een desinvesteringsbijtelling. De bijtelling vindt plaats in het jaar waarin onderstaande zich voordoet. Het betreft veranderingen – direct of indirect – van de aangegane verplichtingen voor transacties tussen naaste verwanten te zijnen/haren gunste, voortvloeiende uit de familierelatie, of het niet nakomen van de verplichtingen.
+
+Hij/zij verklaart ervan kennis te hebben genomen dat de bijtelling van de toegepaste investeringsaftrek achterwege kan blijven, als hij/zij aannemelijk maakt dat deze verandering op zakelijke gronden berust of als blijkt dat de verandering losstaat van de tussen partijen bestaande contractuele verhouding.
+
+Afschriften van de overeenkomst tussen de gerechtigden tot de nalatenschap en de notariële akte van verdeling gaan hierbij.
 
 | ................................. | ............................ |
 | --- | --- |
@@ -908,19 +930,19 @@ Als betrokkene aannemelijk kan maken dat deze verandering op zakelijke gronden b
 
 X: het bedrag (tot maximaal het bedrag van de reële verplichtingen wegens overbedeling) waarover investeringsaftrek kan worden toegekend.
 
-Het verzoek moet zijn ingediend vóór het moment waarop de aanslag inkomstenbelasting van het jaar waarop de investering betrekking heeft, onherroepelijk vaststaat.
+In andere situaties dan die in dit onderdeel van het besluit wordt geen investeringsaftrek verleend. Belanghebbenden behoeven derhalve niet naar mij te worden verwezen.
 
-### 5.2.6. Overige situaties
+### 5.3. Ontheffing bij verplichtingen tussen belastingplichtige en een gelieerd lichaam
 
 In andere situaties dan die in dit onderdeel van het besluit wordt geen investeringsaftrek verleend. Belanghebbenden behoeven derhalve niet naar mij te worden verwezen.
 
-### 5.3.4. Voorwaarden
-
-De machtiging om in de onder 5.3.2 en 5.3.3 hiervoor bedoelde situaties namens mij ontheffing te verlenen geldt slechts als aan de volgende voorwaarden is voldaan:
-
 ### 5.3.5. Bepaling van de investeringsaftrek ([artikelen 3.41, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.41), [3.42, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.42), en [3.42a, derde lid, Wet IB 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.42a))
 
-Wellicht ten overvloede merk ik op dat bij de belastingplichtige die voor ten minste een derde gedeelte belang heeft in een lichaam/ondernemer uiteraard slechts investeringsaftrek kan worden toegepast voor verplichtingen die overigens voor investeringsaftrek in aanmerking komen en voorts dat de investeringsaftrek nooit meer kan bedragen dan het bedrag waarop volgens de overige wettelijke bepalingen aanspraak kan worden gemaakt.
+Bij de bepaling van de investeringsaftrek over het jaar waarin de verplichtingen waarop de ontheffing betrekking heeft, zijn aangegaan, wordt in het totale investeringsbedrag mede begrepen de waarde in het economische verkeer van alle bedrijfsmiddelen, die in dat jaar zijn verkregen uit verplichtingen, genoemd in [artikel 3.46, eerste lid, van de Wet IB 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.46) en waarvoor ontheffing wordt of zou kunnen worden verleend.
+
+### 5.3.6. Geen inbreuk op wettelijke bepalingen
+
+Voor situaties waarin de bedrijfsmiddelen worden verworven van een buitenlandse vaste inrichting van een binnen Nederland gevestigd lichaam en waarin de belanghebbenden ten gevolge van het onder 5.3.3 gestelde niet voor volledige investeringsaftrek in aanmerking komen, moet een verzoek worden gericht aan Belastingdienst/Directie Vaktechniek Belastingen/Cluster Vpb-IBwinst, Postbus 20201, 2500 EE Den Haag.
 
 ### 5.3.7. Overige situaties en bedrijfsmiddelen verworven van een buitenlandse vaste inrichting
 
@@ -928,27 +950,27 @@ Wellicht ten overvloede merk ik op dat bij de belastingplichtige die voor ten mi
 
 ### 5.4.2. Reële investeringen
 
-### 5.4.3. Overige investeringen
-
-De inspecteurs zijn gemachtigd in de overige situaties waarin verplichtingen worden aangegaan, zoals omschreven onder 5.4.1, zonder dat wordt voldaan aan de omschrijving van de situaties in 5.4.2, maar wel aan de onder 5.4.4 gestelde voorwaarden, per bedrijfsmiddel investeringsaftrek toe te passen tot maximaal het bedrag van de desinvesteringsbijtelling die bij de inbrenger(s) of vervreemder(s) ter zake van de inbreng of vervreemding van dat bedrijfsmiddel is toegepast.
-
 ### 5.4.4. Voorwaarden
 
 De machtiging om in de onder 5.4.2 en 5.4.3 hiervoor bedoelde situaties namens mij ontheffing te verlenen geldt slechts als aan de volgende voorwaarden is voldaan:
 
+### 5.4.5. Bepaling van de investeringsaftrek ([artikelen 3.41, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.41), [3.42, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.42) en [3.42a, derde lid, Wet IB 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.42a))
+
 Bij de bepaling van de investeringsaftrek over het jaar waarin de verplichtingen waarop de ontheffing betrekking heeft, zijn aangegaan, wordt in het totale investeringsbedrag mede begrepen de waarde in het economische verkeer van alle bedrijfsmiddelen die in dat jaar zijn verkregen uit verplichtingen, genoemd in [artikel 8, achtste lid, van de Wet VPB](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&artikel=8) en waarvoor ontheffing wordt of zou kunnen worden verleend.
+
+Voor situaties waarin de groot-aandeelhouder in het buitenland een onderneming drijft en waarin door het onder 5.4.2.2.2 gestelde geen volledige investeringsaftrek wordt toegepast, dienen belanghebbenden een verzoek te richten aan Belastingdienst/Directie Vaktechniek Belastingen/Cluster Vpb-IBwinst, Postbus 20201, 2500 EE Den Haag.
 
 ### 5.4.6. Overige situaties
 
-### 5.4.7. Indiening verzoek
+### 6. Desinvesteringsbijtelling
 
-### 6.1.1. Inleiding
+### 6.1.2. Goedkeuring bij overdracht onderneming in het zicht van overlijden
 
-Als de ondernemer zijn onderneming staakt door overlijden, is geen sprake van vervreemding in de zin van [artikel 3.47 van de Wet IB 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.47). Het voorgaande geldt eveneens als de onderneming wordt voortgezet, al dan niet geruisloos. Dit is anders als wordt gestaakt in het zicht van overlijden. In dat geval moet een desinvesteringsbijtelling in aanmerking worden genomen. Ik acht dit ongewenst.
+Ik keur goed dat, op een daartoe strekkend verzoek, geen desinvesteringsbijtellingen in aanmerking worden genomen als een onderneming in het zicht van overlijden wordt overgedragen dan wel geliquideerd, mits wordt voldaan aan twee voorwaarden.
 
 ### 6.1.3. Uiterlijke termijn indienen verzoek
 
-Voor gevallen waarin een verzoek om ambtshalve vermindering in verband met de KIA nog tijdig zou zijn als deze was gedaan op de dagtekening van dit besluit, geldt dat de termijn voor het doen van het verzoek eenmalig wordt verlengd met drie maanden, te rekenen vanaf de dagtekening van dit besluit.
+Ingeval de energie- of milieulijst in de loop van een kalenderjaar met terugwerkende kracht tot en met 1 januari van dat jaar wordt vastgesteld, geldt een aangepaste meldingstermijn. De meldingstermijn begint in die situaties te lopen op de dag van de publicatie van de energie- of milieulijst.
 
 ### 7.2. Aanmelding van de investering als energie- of milieulijst in de loop van het jaar wordt vastgesteld
 
@@ -956,11 +978,11 @@ De aanmeldingstermijn vangt aan op 2 februari van dat jaar. Dat betekent dat X d
 
 ### 7.3.2. Problemen vanuit de praktijk
 
-Voor zover nodig keur ik daarom het volgende goed.
-
-### 8. Ingetrokken regeling
-
 Het [besluit van 15 september 2009](https://wetten.overheid.nl/jci1.3:c:BWBR0026423), nr. CPP2009/1116M, Staatscourant 2009, 1405, is met ingang van de inwerkingtreding van dit besluit ingetrokken.
+
+### 9. Inwerkingtreding
+
+Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant en werkt terug tot en met dagtekening besluit.
 
 ### 9. Inwerkingtreding
 
@@ -984,5 +1006,33 @@ Afschriften van de overeenkomst tussen de gerechtigden tot de nalatenschap en de
 |   |   |
 | ................................. |   |
 | (handtekening) |   |
+
+Dit besluit zal in de Staatscourant worden geplaatst.
+
+### 5.2.6. Overige situaties
+
+### 5.3.8. Indiening verzoek
+
+### 5.4. Ontheffing bij verplichtingen tussen gelieerde lichamen
+
+### 5.4.2. Reële investeringen
+
+### 6.1.3. Uiterlijke termijn indienen verzoek
+
+### 7. Formaliteiten
+
+### 7.2. Aanmelding van de investering als energie- of milieulijst in de loop van het jaar wordt vastgesteld
+
+### 7.3. Aanmelding van de investering bij fiscale eenheid
+
+### 8. Ingetrokken regeling
+
+## Bijlagen
+
+- 1. Verklaringen inzake de berekening van investeringsaftrek en desinvesteringsbijtelling bij aanwending van een herinvesteringsreserve of gebruikmaking van de ruilarresten.
+
+- 2. Verzoek om toepassing van investeringsaftrek voor het aangaan van verplichtingen in het kader van transacties tussen naaste verwanten.
+
+- 3. Verzoek om investeringsaftrek in het kader van de overname van een onderneming uit een nalatenschap waarbij verplichtingen worden aangegaan tussen gerechtigden tot die nalatenschap.
 
 Dit besluit zal in de Staatscourant worden geplaatst.
