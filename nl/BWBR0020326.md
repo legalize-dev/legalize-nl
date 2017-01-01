@@ -4,7 +4,7 @@ identifier: "BWBR0020326"
 country: "nl"
 rank: "amvb"
 publication_date: "2025-01-01"
-last_updated: "2016-12-15"
+last_updated: "2017-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0020326"
 soort: "AMvB"
@@ -96,13 +96,15 @@ In dit besluit wordt verstaan onder wet: [Wet marktordening gezondheidszorg](htt
 
 - i. podotherapie;
 
-- j. ergotherapie;
+- j. vervallen;
 
 - k. huidtherapie;
 
 - l. optometrie;
 
-- m. zorg die ten laste van een persoonsgebonden budget als bedoeld in [artikel 3.3.3 van de Wet langdurige zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0035917&artikel=3.3.3) wordt gefinancierd.
+- m. zorg die ten laste van een persoonsgebonden budget als bedoeld in [artikel 3.3.3 van de Wet langdurige zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0035917&artikel=3.3.3) wordt gefinancierd;
+
+- n. zorg die wordt bekostigd op grond van [artikel 70a van de Zorgverzekeringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&artikel=70a).
 
 2. De [artikelen 50 tot en met 56 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=50) zijn wel van toepassing indien:
 
