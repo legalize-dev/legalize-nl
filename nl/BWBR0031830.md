@@ -4,7 +4,7 @@ identifier: "BWBR0031830"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-01-01"
-last_updated: "2016-01-01"
+last_updated: "2017-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0031830"
 soort: "ministeriele-regeling"
@@ -64,19 +64,19 @@ In deze regeling wordt verstaan onder:
 
 ##### Artikel 2. Statistiek uitkeringen gemeenten
 
-De minister ontvangt van het college uiterlijk vier weken na afloop van iedere kalendermaand, overeenkomstig het in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0031830&bijlage=1&z=2016-01-01&g=2016-01-01) bij deze regeling opgenomen model, gegevens over uitkeringen en over de personen aan wie in de desbetreffende maand een uitkering is verleend, of ten behoeve van wie loonkostensubsidie is verstrekt.
+De minister ontvangt van het college uiterlijk vier weken na afloop van iedere kalendermaand, overeenkomstig het in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0031830&bijlage=1&z=2017-01-01&g=2017-01-01) bij deze regeling opgenomen model, gegevens over uitkeringen en over de personen aan wie in de desbetreffende maand een uitkering is verleend, of ten behoeve van wie loonkostensubsidie is verstrekt.
 
 ##### Artikel 3. Statistiek re-integratievoorzieningen gemeenten
 
-De minister ontvangt van het college uiterlijk vier weken na afloop van iedere kalendermaand overeenkomstig het in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0031830&bijlage=2&z=2016-01-01&g=2016-01-01) bij deze regeling opgenomen model, gegevens over voorzieningen gericht op arbeidsinschakeling als bedoeld in [artikel 7, eerste lid, onderdeel a, van de Participatiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&artikel=7), en over de personen die van die voorziening feitelijk gebruik hebben gemaakt.
+De minister ontvangt van het college uiterlijk vier weken na afloop van iedere kalendermaand overeenkomstig het in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0031830&bijlage=2&z=2017-01-01&g=2017-01-01) bij deze regeling opgenomen model, gegevens over voorzieningen gericht op arbeidsinschakeling als bedoeld in [artikel 7, eerste lid, onderdeel a, van de Participatiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&artikel=7), en over de personen die van die voorziening feitelijk gebruik hebben gemaakt.
 
 ##### Artikel 4. Statistiek vorderingen, boeten en sancties gemeenten
 
-De minister ontvangt van het college uiterlijk vier weken na afloop van iedere kalendermaand, overeenkomstig het in [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0031830&bijlage=3&z=2016-01-01&g=2016-01-01) bij deze regeling opgenomen model, gegevens over vorderingen in verband met opgelegde betalings- of aflossingsverplichtingen, over ontvangsten op die vorderingen en gegevens over opgelegde bestuurlijke boeten, sancties en aansprakelijkheidstellingen en gegevens over de personen ten aanzien van wie in het kader van de uitvoering van de [Participatiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0015703), de [IOAW](https://wetten.overheid.nl/jci1.3:c:BWBR0004044), de [IOAZ](https://wetten.overheid.nl/jci1.3:c:BWBR0004163), de [WIJ](https://wetten.overheid.nl/jci1.3:c:BWBR0026054) en de [WWIK](https://wetten.overheid.nl/jci1.3:c:BWBR0017837) dergelijke verplichtingen, vorderingen, boetes en sancties zijn opgelegd.
+De minister ontvangt van het college uiterlijk vier weken na afloop van iedere kalendermaand, overeenkomstig het in [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0031830&bijlage=3&z=2017-01-01&g=2017-01-01) bij deze regeling opgenomen model, gegevens over vorderingen in verband met opgelegde betalings- of aflossingsverplichtingen, over ontvangsten op die vorderingen en gegevens over opgelegde bestuurlijke boeten, sancties en aansprakelijkheidstellingen en gegevens over de personen ten aanzien van wie in het kader van de uitvoering van de [Participatiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0015703), de [IOAW](https://wetten.overheid.nl/jci1.3:c:BWBR0004044), de [IOAZ](https://wetten.overheid.nl/jci1.3:c:BWBR0004163), de [WIJ](https://wetten.overheid.nl/jci1.3:c:BWBR0026054) en de [WWIK](https://wetten.overheid.nl/jci1.3:c:BWBR0017837) dergelijke verplichtingen, vorderingen, boetes en sancties zijn opgelegd.
 
 ##### Artikel 5. Centraal Bureau voor de Statistiek of bewerker
 
-1. Het college verstrekt de gegevens, bedoeld in de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0031830&artikel=2&z=2016-01-01&g=2016-01-01), [3](https://wetten.overheid.nl/jci1.3:c:BWBR0031830&artikel=3&z=2016-01-01&g=2016-01-01) en [4](https://wetten.overheid.nl/jci1.3:c:BWBR0031830&artikel=4&z=2016-01-01&g=2016-01-01), door tussenkomst van het Centraal Bureau voor de Statistiek, waarbij de gegevensverstrekking plaatsvindt op een door de directeur-generaal van de statistiek te bepalen wijze, of door tussenkomst van een door de minister aan te wijzen externe bewerker.
+1. Het college verstrekt de gegevens, bedoeld in de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0031830&artikel=2&z=2017-01-01&g=2017-01-01), [3](https://wetten.overheid.nl/jci1.3:c:BWBR0031830&artikel=3&z=2017-01-01&g=2017-01-01) en [4](https://wetten.overheid.nl/jci1.3:c:BWBR0031830&artikel=4&z=2017-01-01&g=2017-01-01), door tussenkomst van het Centraal Bureau voor de Statistiek, waarbij de gegevensverstrekking plaatsvindt op een door de directeur-generaal van de statistiek te bepalen wijze, of door tussenkomst van een door de minister aan te wijzen externe bewerker.
 
 2. Indien een bewerker wordt aangewezen wordt van de aanwijzing van de bewerker mededeling gedaan in de Staatscourant.
 
@@ -84,13 +84,13 @@ De minister ontvangt van het college uiterlijk vier weken na afloop van iedere k
 
 4. Door de bewerker worden geen persoonsgegevens of verwerkte persoonsgegevens aan derden verstrekt, behoudens in opdracht van de minister.
 
-5. De minister kan persoonsgegevens als bedoeld in de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0031830&artikel=2&z=2016-01-01&g=2016-01-01), [3](https://wetten.overheid.nl/jci1.3:c:BWBR0031830&artikel=3&z=2016-01-01&g=2016-01-01) of [4](https://wetten.overheid.nl/jci1.3:c:BWBR0031830&artikel=4&z=2016-01-01&g=2016-01-01) die door tussenkomst van een bewerker worden verkregen verstrekken aan het Centraal Bureau voor de Statistiek ten behoeve van het verrichten van statistisch onderzoek.
+5. De minister kan persoonsgegevens als bedoeld in de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0031830&artikel=2&z=2017-01-01&g=2017-01-01), [3](https://wetten.overheid.nl/jci1.3:c:BWBR0031830&artikel=3&z=2017-01-01&g=2017-01-01) of [4](https://wetten.overheid.nl/jci1.3:c:BWBR0031830&artikel=4&z=2017-01-01&g=2017-01-01) die door tussenkomst van een bewerker worden verkregen verstrekken aan het Centraal Bureau voor de Statistiek ten behoeve van het verrichten van statistisch onderzoek.
 
 ##### Artikel 6. Statistieken door SVB
 
-1. Ten aanzien van de uitvoering van de taak, bedoeld in [artikel 47a, eerste lid, van de Participatiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&artikel=47a) ontvangt de minister van de SVB uiterlijk vier weken na afloop van iedere kalendermaand overeenkomstig het in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0031830&bijlage=1&z=2016-01-01&g=2016-01-01) en [3](https://wetten.overheid.nl/jci1.3:c:BWBR0031830&bijlage=3&z=2016-01-01&g=2016-01-01) bij deze regeling opgenomen model, gegevens als bedoeld in de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0031830&artikel=2&z=2016-01-01&g=2016-01-01) en [4](https://wetten.overheid.nl/jci1.3:c:BWBR0031830&artikel=4&z=2016-01-01&g=2016-01-01).
+1. Ten aanzien van de uitvoering van de taak, bedoeld in [artikel 47a, eerste lid, van de Participatiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&artikel=47a) ontvangt de minister van de SVB uiterlijk vier weken na afloop van iedere kalendermaand overeenkomstig het in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0031830&bijlage=1&z=2017-01-01&g=2017-01-01) en [3](https://wetten.overheid.nl/jci1.3:c:BWBR0031830&bijlage=3&z=2017-01-01&g=2017-01-01) bij deze regeling opgenomen model, gegevens als bedoeld in de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0031830&artikel=2&z=2017-01-01&g=2017-01-01) en [4](https://wetten.overheid.nl/jci1.3:c:BWBR0031830&artikel=4&z=2017-01-01&g=2017-01-01).
 
-2. De SVB verstrekt de gegevens, bedoeld in het eerste lid, zonder tussenkomst van het Centraal Bureau voor de Statistiek, maar op de door de directeur-generaal van de statistiek te bepalen wijze, bedoeld in [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031830&artikel=5&z=2016-01-01&g=2016-01-01), of indien een bewerker is aangewezen als bedoeld in artikel 5 op een door de minister te bepalen wijze.
+2. De SVB verstrekt de gegevens, bedoeld in het eerste lid, zonder tussenkomst van het Centraal Bureau voor de Statistiek, maar op de door de directeur-generaal van de statistiek te bepalen wijze, bedoeld in [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031830&artikel=5&z=2017-01-01&g=2017-01-01), of indien een bewerker is aangewezen als bedoeld in artikel 5 op een door de minister te bepalen wijze.
 
 ##### Artikel 7. Intrekking regeling
 
@@ -535,6 +535,7 @@ Met [jjjjmmdd] wordt bedoeld: een volledige datumaanduiding.
 |   | WIW/ID-baan | 02 |
 |   | Participatieplaats | 03 |
 |   | Loonkostensubsidie (Participatiewet) | 04 |
+|   | Forfaitaire loonkostensubsidie (Participatiewet) | 41 |
 |   | Beschut werk | 05 |
 |   | Begeleiding op werkkring/job-coach | 06 |
 |   | Vervoersvoorziening (woon-werk) | 07 |
@@ -549,97 +550,138 @@ Deze regeling zal met de toelichting en de bijlagen in de Staatscourant worden g
 
 ##### Artikel 6a. Gegevens ten behoeve van de doelgroepregistratie
 
-1. De gegevens, bedoeld in [artikel 3.4, eerste lid, van het Besluit SUWI](https://wetten.overheid.nl/jci1.3:c:BWBR0013267&artikel=3.4), betreffen het gegeven of een persoon werkzaam is op een ID-baan of WIW-baan en het burgerservicenummer van de betrokken persoon als bedoeld in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0031830&bijlage=2&z=2016-01-01&g=2016-01-01) bij deze regeling.
+1. De gegevens, bedoeld in [artikel 3.4, eerste lid, van het Besluit SUWI](https://wetten.overheid.nl/jci1.3:c:BWBR0013267&artikel=3.4), betreffen het gegeven of een persoon werkzaam is op een ID-baan of WIW-baan en het burgerservicenummer van de betrokken persoon als bedoeld in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0031830&bijlage=2&z=2017-01-01&g=2017-01-01) bij deze regeling.
 
-2. Het Centraal Bureau voor de Statistiek is gemachtigd de gegevens, bedoeld in het eerste lid, die het verkrijgt op grond van [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031830&artikel=5&z=2016-01-01&g=2016-01-01), te verstrekken aan het UWV op een door de minister, na overleg met het Centraal Bureau voor de Statistiek en het UWV, te bepalen wijze.
+2. Het Centraal Bureau voor de Statistiek is gemachtigd de gegevens, bedoeld in het eerste lid, die het verkrijgt op grond van [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031830&artikel=5&z=2017-01-01&g=2017-01-01), te verstrekken aan het UWV op een door de minister, na overleg met het Centraal Bureau voor de Statistiek en het UWV, te bepalen wijze.
 
-## Bijlage 3. : Overzicht kenmerken statistiek vorderingen, boeten en sancties gemeenten
+## Bijlage 3. Overzicht kenmerken Bijstandsdebiteuren en -fraudestatistiek
 
-Hieronder staan de kenmerken van het aan te leveren bestand met gegevens over vorderingen, boeten en sancties (fraude). Van deze kenmerken wordt het bereik aangegeven waarbinnen een waarde van het desbetreffende kenmerk moet liggen.
+Hieronder staan de kenmerken in het aan te leveren BDFS-bestand. Bij ieder kenmerk wordt het bereik aangegeven waaraan een waarde van het desbetreffende kenmerk moet voldoen, indien over het kenmerk informatie is opgenomen in het XML-bestand.
 
-Let op: Met [ab] wordt bedoeld: 2 tekstwaarden
+Let op: Met [jjjj] wordt bedoeld de 4-cijferige aanduiding voor het jaar
 
-Met [12] wordt bedoeld: 2 numerieke waarden
+Met [mm] wordt bedoeld de 2-cijferige aanduiding van de maand
+
+Met [ab] wordt bedoeld: een tekstwaarde van 2 posities
+
+Met [12] wordt bedoeld: een numerieke waarde van 2 posities
+
+Met (abcde) wordt bedoeld: een tekstwaarde van minimaal 1 en maximaal 5 posities
 
 Met ab wordt bedoeld: exact de letters ‘ab’
 
 Met 12 wordt bedoeld: exact de waarde ‘12’
 
-Met [a1234] wordt bedoeld: een plus- of minteken op de eerste positie
+Met [a1234] wordt bedoeld: een plus- of minteken op de eerste positie gevolgd door
 
-gevolgd door numerieke waarden op de posities 2 t/m 5
+numerieke waarden op de posities 2 t/m 5
 
-Met [jjjj] wordt bedoeld: een jaartal.
+Met [jjjjmmdd] wordt bedoeld: een datum aanduiding waarbij de eerste 4 posities het jaar
 
-Met [mm] wordt bedoeld: een maand.
+aanduiden, de 5e en 6e positie de maand, en de 7e en 8e positie de dag van de maand
 
-Met [jjjjmmdd] wordt bedoeld: een datum aanduiding waarbij de eerste 4
-
-posities het jaar aanduiden, de 5e en 6e positie de maand, en de 7e en 8e
-
-posities de dag van de maand.
-
-Een toelichting op de uitvraag en technische specificaties in verband met de bevraging bij de gemeenten worden door CBS aan gemeenten verstrekt middels de CBS-richtlijnen bij de statistiek.
-
-GEGEVENS STATISTIEK
-
-| 1 | STATISTIEKJAAR | [jjjj] |
-| --- | --- | --- |
-| 2 | STATISTIEKMAAND | [mm] |
-| 3 | STATISTIEKCODE | 06 |
-| 4 | BERICHTGEVERCODE | [1234] |
-| 5 | GEMEENTECODE CBS-gemeentecode | [1234] |
-| 6 | NAAM SOFTWAREPAKKET Socrates (WiGo4it) GWS4all CiVision WIZ Sociale Verzekeringsbank ander pakket | Soc gws wiz svb and |
-| 7 | RELEASE/VERSIENUMMER SOFTWAREPAKKET | [abcdefghijkl] |
-
-GEGEVENS VORDERING
-
-| 8 | REGISTRATIENUMMER VORDERING | [123456789012345] |
-| --- | --- | --- |
-| 9 | DATUM BESLUIT/BESCHIKKING | [jjjjmmdd] |
-| 10 | AARD UITKERING [WWB](https://wetten.overheid.nl/jci1.3:c:BWBR0015703) algemeen WWB bijzonder [WIJ](https://wetten.overheid.nl/jci1.3:c:BWBR0026054) [IOAW](https://wetten.overheid.nl/jci1.3:c:BWBR0004044) [IOAZ](https://wetten.overheid.nl/jci1.3:c:BWBR0004163) [WWIK](https://wetten.overheid.nl/jci1.3:c:BWBR0017837) [ABW](https://wetten.overheid.nl/jci1.3:c:BWBR0007333)/RWW [BBZ](https://wetten.overheid.nl/jci1.3:c:BWBR0015711) algemeen BBZ bijzonder | 01 02 03 11 12 13 14 15 16 |
-| 11 | ONTSTAANSGROND VORDERING **Vorderingen beschikt vanaf 01-01-2013** fraude: verzwijgen witte inkomsten fraude: verzwijgen zwarte inkomsten fraude: verzwijgen vermogen en of inkomsten uit vermogen fraude: onjuiste opgave woonadres fraude: onjuiste opgave samenstelling huishouden andere fraude onverschuldigde betaling boete wegens fraude boete niet wegens fraude lening krediethypotheek verhaal op onderhoudsplichtige voor kind verhaal op onderhoudsplichtige voor ex-partner rente en incassokosten overig | 51 52 53 54 55 56 57 58 59 60 61 62 63 64 65 |
-|   | **Vorderingen beschikt vóór 01-01-2013** onverschuldigd betaald verwijtbaar (oud: 01, 02, 13, 16) onverschuldigd betaald niet verwijtbaar (oud: 11,12,14, 15), lening (oud: 31, 32, 33, 35) | 81 82 83 34 21 84 85 |
-|   | krediethypotheek (oud: 34) alimentatie/onderhoudsbijdrage kind, (ex)partner (oud: 21) rente en incassokosten (oud: 43, 44) overig (oud: 22, 49) |   |
-| 12 | DUUR VORDERING 12a. begindatum 12b. einddatum | [jjjjmmdd] [jjjjmmdd] |
-
-GEGEVENS VERLOOP VORDERING
-
-| 13 | HOOGTE BEGINSCHULD | [123456] |
-| --- | --- | --- |
-| 14 | REDEN CORRECTIE OP SCHULDBEDRAG Brutering rente/incassokosten uitspraak na bezwaar/beroep/hoger beroep overige correcties niet van toepassing | 01 02 03 09 99 |
-| 15 | HOOGTE VAN HET CORRECTIEBEDRAG niet van toepassing | [a123456] 9999999 |
-| 16 | STATUS VAN DE VORDERING lopende aflossing tijdelijk geen invordering definitief buiten invordering gesteld schuld geheel afgelost niet van toepassing | 51 52 53 54 99 |
-| 17 | SALDO VAN DE SCHULD | [a123456] |
-
-GEGEVENS ONTVANGSTEN
-
-| 18 | TOTAAL ONTVANGEN BEDRAG niet van toepassing | [a123456] 9999999 |
-| --- | --- | --- |
-
-GEGEVENS UITKERINGSONTVANGER (alleen in te vullen voor onderhoudsbijdrage)
-
-| 19 | BURGERSERVICENUMMER UITKERINGSONTVANGER | [123456789] |
-| --- | --- | --- |
-
-GEGEVENS BOETE (alleen in te vullen voor boetevorderingen wegens fraude)
-
-| 20 | RECIDIVE ja nee | 1 2 |
-| --- | --- | --- |
-| 21 | ROBUUSTE INCASSO TOEGEPAST Ja Nee niet van toepassing | 1 2 9 |
-| 22 | HOOGTE BESTUURLIJKE BOETE 100 % fraudebedrag 150 % fraudebedrag (recidive) verlaagd wegens verminderde verwijtbaarheid | 1 2 3 |
-
-GEGEVENS SANCTIE (alleen in te vullen voor fraudevorderingen)
-
-| 23 | SOORT SANCTIE geen sanctie nog in behandeling bij gemeente bestuurlijke boete aangifte gedaan bij justitie | 1 2 3 4 |
-| --- | --- | --- |
-| 24 | ZAAKSNUMMER niet van toepassing | [123456789] 999999999 |
-
-GEGEVENS AANSPRAKELIJKEN (invullen voor alle hoofdelijk aansprakelijken)
-
-| 25 | BURGERSERVICENUMMER DEBITEUR | [123456789] |
-| --- | --- | --- |
-| 26 | GEBOORTEDATUM DEBITEUR | [jjjjmmdd] |
-| 27 | GESLACHT DEBITEUR man vrouw | 1 2 |
+| **GEGEVENS LEVERING** | **GEGEVENS LEVERING** | **GEGEVENS LEVERING** | **GEGEVENS LEVERING** |
+| --- | --- | --- | --- |
+| 1 | STATISTIEKJAAR |   | [jjjj] |
+| 2 | STATISTIEKMAAND |   | [mm] |
+| 3 | STATISTIEKCODE |   | 06 |
+| 4 | BERICHTGEVERCODE |   | [1234] |
+| 5 | GEMEENTECODE | CBS-gemeentecode | [1234] |
+| 6 | NAAM SOFTWAREPAKKET |   |   |
+|   | Socrates (WiGo4It) |   | soc |
+|   | Suites voor het Sociaal Domein (Centric) |   | ssd |
+|   | CiVision Samenlevingszaken (PinkRoccade) |   | sam |
+|   | AIO (Sociale Verzekeringsbank) |   | svb |
+|   | Ander pakket |   | and |
+| 7 | RELEASE-/VERSIENUMMER SOFTWAREPAKKET | (abcdefghijkl) | (abcdefghijkl) |
+| **GEGEVENS VORDERING** | **GEGEVENS VORDERING** | **GEGEVENS VORDERING** | **GEGEVENS VORDERING** |
+| 8 | REGISTRATIENUMMER VORDERING | (abcdefghijklmno) | (abcdefghijklmno) |
+| 9 | DATUM BESLUIT/BESCHIKKING | [jjjjmmdd] |   |
+| 10 | AARD UITKERING |   |   |
+|   | WWB algemeen |   | 01 |
+|   | WWB bijzonder |   | 02 |
+|   | WIJ |   | 03 |
+|   | IOAW |   | 11 |
+|   | IOAZ |   | 12 |
+|   | WWIK |   | 13 |
+|   | ABW/RWW |   | 14 |
+|   | BBZ algemeen |   | 15 |
+|   | BBZ bijzonder |   | 16 |
+| 11 | ONTSTAANSGROND VORDERING |   |   |
+|   | **Vorderingen beschikt vanaf 01-01-2013** |   |   |
+|   | overtreding inlichtingenplicht: verzwijgen witte inkomsten |   | 51 |
+|   | overtreding inlichtingenplicht: verzwijgen zwarte inkomsten |   | 52 |
+|   | overtreding inlichtingenplicht: verzwijgen vermogen en of inkomsten uit vermogen |   | 53 |
+|   | overtreding inlichtingenplicht: onjuiste opgave woonadres |   | 54 |
+|   | overtreding inlichtingenplicht: onjuiste opgave samenstelling huishouden |   | 55 |
+|   | andere overtreding inlichtingenplicht |   | 56 |
+|   | onverschuldigde betaling |   | 57 |
+|   | boete wegens overtreding inlichtingenplicht met benadelingsbedrag |   | 58 |
+|   | boete wegens overtreding inlichtingenplicht zonder benadelingsbedrag |   | 59 |
+|   | lening |   | 60 |
+|   | krediethypotheek |   | 61 |
+|   | verhaal op onderhoudsplichtige voor kind |   | 62 |
+|   | verhaal op onderhoudsplichtige voor ex-partner |   | 63 |
+|   | rente en incassokosten |   | 64 |
+|   | overig |   | 65 |
+|   | **Vorderingen beschikt vóór 01-01-2013** |   |   |
+|   | onverschuldigd betaald verwijtbaar |   | 81 |
+|   | onverschuldigd betaald niet verwijtbaar |   | 82 |
+|   | lening |   | 83 |
+|   | krediethypotheek |   | 34 |
+|   | alimentatie/onderhoudsbijdrage kind, (ex)partner |   | 21 |
+|   | rente en incassokosten |   | 84 |
+|   | overig |   | 85 |
+| 12 | DUUR VORDERING |   |   |
+|   | 12a. begindatum | [jjjjmmdd] |   |
+|   | 12b. einddatum | [jjjjmmdd] |   |
+| **GEGEVENS VERLOOP VORDERING** | **GEGEVENS VERLOOP VORDERING** | **GEGEVENS VERLOOP VORDERING** | **GEGEVENS VERLOOP VORDERING** |
+| 13 | HOOGTE BEGINSCHULD | [123456] |   |
+| 14 | REDEN CORRECTIE OP SCHULDBEDRAG |   |   |
+|   | brutering |   | 01 |
+|   | rente/incassokosten |   | 02 |
+|   | uitspraak na bezwaar/beroep/hoger beroep |   | 03 |
+|   | overige correcties |   | 09 |
+| 15 | HOOGTE VAN HET CORRECTIEBEDRAG | [a123456] |   |
+| 16 | STATUS VAN DE VORDERING |   |   |
+|   | lopende aflossing |   | 51 |
+|   | tijdelijk geen invordering |   | 52 |
+|   | definitief buiten invordering gesteld |   | 53 |
+|   | schuld geheel afgelost |   | 54 |
+|   | niet van toepassing |   | 99 |
+| 17 | SALDO VAN DE SCHULD | [a123456] |   |
+| **GEGEVENS ONTVANGSTEN** | **GEGEVENS ONTVANGSTEN** | **GEGEVENS ONTVANGSTEN** | **GEGEVENS ONTVANGSTEN** |
+| 18 | TOTAAL ONTVANGEN BEDRAG | [a123456] |   |
+| **GEGEVENS UITKERINGSONTVANGER (in te vullen voor onderhoudsbijdrage)** | **GEGEVENS UITKERINGSONTVANGER (in te vullen voor onderhoudsbijdrage)** | **GEGEVENS UITKERINGSONTVANGER (in te vullen voor onderhoudsbijdrage)** | **GEGEVENS UITKERINGSONTVANGER (in te vullen voor onderhoudsbijdrage)** |
+| 19 | BURGERSERVICENUMMER UITKERINGSONTVANGER | [123456789] |   |
+| **GEGEVENS BOETE (in te vullen voor boetevorderingen vanwege overtreding van de inlichtingenplicht, ontstaansgrondcode 58 en 59)** | **GEGEVENS BOETE (in te vullen voor boetevorderingen vanwege overtreding van de inlichtingenplicht, ontstaansgrondcode 58 en 59)** | **GEGEVENS BOETE (in te vullen voor boetevorderingen vanwege overtreding van de inlichtingenplicht, ontstaansgrondcode 58 en 59)** | **GEGEVENS BOETE (in te vullen voor boetevorderingen vanwege overtreding van de inlichtingenplicht, ontstaansgrondcode 58 en 59)** |
+| 20 | RECIDIVE |   |   |
+|   | ja |   | 1 |
+|   | nee |   | 2 |
+| 21 | HOOGTE BESTUURLIJKE BOETE |   |   |
+|   | **Indeling: Nieuwe Fraudewet m.i.v. 2017** |   |   |
+|   | aantoonbare oÙpzet |   | 4 |
+|   | grove schuld |   | 5 |
+|   | normale verwijtbaarheid |   | 6 |
+|   | verminderde verwijtbaarheid |   | 7 |
+|   | **Indeling: Oude Fraudewet 2013** |   |   |
+|   | 100% fraudebedrag |   | 1 |
+|   | 150% fraudebedrag (recidive) |   | 2 |
+|   | verlaagd wegens verminderde verwijtbaarheid |   | 3 |
+| (**tijdelijke code tot 2017**) nog nader te bepalen door het CBS | (**tijdelijke code tot 2017**) nog nader te bepalen door het CBS | (**tijdelijke code tot 2017**) nog nader te bepalen door het CBS | 9 |
+| **GEGEVENS SANCTIE (alleen in te vullen voor fraudevorderingen)** | **GEGEVENS SANCTIE (alleen in te vullen voor fraudevorderingen)** | **GEGEVENS SANCTIE (alleen in te vullen voor fraudevorderingen)** | **GEGEVENS SANCTIE (alleen in te vullen voor fraudevorderingen)** |
+| 22 | SOORT SANCTIE |   |   |
+|   | geen sanctie |   | 1 |
+|   | nog in behandeling bij gemeente |   | 2 |
+|   | bestuurlijke boete |   | 3 |
+|   | aangifte gedaan bij justitie |   | 4 |
+| 23 | PARKETNUMMER | (abcdefghijklmno) |   |
+| **GEGEVENS AANSPRAKELIJKEN (invullen voor alle hoofdelijk aansprakelijken)** | **GEGEVENS AANSPRAKELIJKEN (invullen voor alle hoofdelijk aansprakelijken)** | **GEGEVENS AANSPRAKELIJKEN (invullen voor alle hoofdelijk aansprakelijken)** | **GEGEVENS AANSPRAKELIJKEN (invullen voor alle hoofdelijk aansprakelijken)** |
+| 24 | BURGERSERVICENUMMER DEBITEUR | [123456789] |   |
+|   | onbekend | 999999999 |   |
+| 25 | GEBOORTEDATUM DEBITEUR | [jjjjmmdd] |   |
+| 26 | GESLACHT DEBITEUR |   |   |
+|   | man |   | 1 |
+|   | vrouw |   | 2 |
 
 Deze regeling zal met de toelichting en de bijlagen in de Staatscourant worden geplaatst.
