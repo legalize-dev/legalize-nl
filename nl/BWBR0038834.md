@@ -4,7 +4,7 @@ identifier: "BWBR0038834"
 country: "nl"
 rank: "ministeriele_regeling_bes"
 publication_date: "2017-01-01"
-last_updated: "2010-10-10"
+last_updated: "2017-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0038834"
 soort: "ministeriele-regeling-BES"
@@ -42,11 +42,13 @@ Wijzigt de Regeling toelating en uitzetting BES.
 
 ##### Artikel II
 
-Dit onderdeel is nog niet inwerking getreden
+1. Voor de periode van 10 oktober 2010 tot en met 31 december 2015 is het verschuldigde bedrag, bedoeld in [artikel 2.1](https://wetten.overheid.nl/jci1.3:c:BWBR0028815&artikel=2.1), € 34.
+
+2. Voor de periode van 1 januari 2016 tot en met 31 december 2016 is het verschuldigde bedrag, bedoeld in [artikel 2.1](https://wetten.overheid.nl/jci1.3:c:BWBR0028815&artikel=2.1), € 28.
 
 ##### Artikel III
 
-Dit onderdeel is nog niet inwerking getreden
+Deze regeling treedt in werking met ingang van 1 januari 2017, met dien verstande dat [artikel I, onderdeel A](https://wetten.overheid.nl/jci1.3:c:BWBR0038834&artikel=I&z=2017-01-01&g=2017-01-01), terugwerkt tot en met 10 oktober 2010.
 
 Gelet op de [artikelen 2b, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028571&artikel=2b), en [7, derde lid, van de Wet toelating en uitzetting BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028571&artikel=7);
 
