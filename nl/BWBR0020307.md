@@ -4,7 +4,7 @@ identifier: "BWBR0020307"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-09-04"
-last_updated: "2015-07-01"
+last_updated: "2017-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0020307"
 soort: "ministeriele-regeling"
@@ -52,7 +52,7 @@ In deze regeling wordt verstaan onder:
 
 - c. College: het College van procureurs-generaal;
 
-- d. klachtencommissie: de klachtencommissie Rijksrecherche als bedoeld in [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0020307&paragraaf=2&artikel=2&z=2015-07-01&g=2015-07-01) en [12](https://wetten.overheid.nl/jci1.3:c:BWBR0020307&paragraaf=3&artikel=12&z=2015-07-01&g=2015-07-01);
+- d. klachtencommissie: de klachtencommissie Rijksrecherche als bedoeld in [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0020307&paragraaf=2&artikel=2&z=2017-03-18&g=2017-01-01) en [12](https://wetten.overheid.nl/jci1.3:c:BWBR0020307&paragraaf=3&artikel=12&z=2017-03-18&g=2017-01-01);
 
 - e. Minister: de Minister van Veiligheid en Justitie;
 
@@ -66,7 +66,7 @@ In deze regeling wordt verstaan onder:
 
 2. De klachtencommissie bestaat uit een oneven aantal, doch ten minste drie onafhankelijke leden.
 
-3. De klachtencommissie bestaat uit leden die zijn benoemd in de commissie die adviseert over de afdoening van klachten over het optreden van ambtenaren als bedoeld in [artikel 2, onderdelen a tot en met c, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&artikel=2), werkzaam bij de Landelijke eenheid, bedoeld in [artikel 1, eerste lid, van de Regeling aanwijzing Landelijke eenheid en ondersteunende diensten](525719).
+3. De klachtencommissie bestaat uit leden die zijn benoemd in de commissie die adviseert over de afdoening van klachten over het optreden van ambtenaren als bedoeld in [artikel 2, onderdelen a tot en met c, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&artikel=2), werkzaam bij de Landelijke eenheid, bedoeld in [artikel 1, eerste lid, van de Regeling aanwijzing Landelijke eenheid en ondersteunende diensten](onbekend).
 
 4. In afwijking van het gestelde in het derde lid, kan het College besluiten dat de klachtencommissie bestaat uit leden die zijn benoemd in de commissie die, adviseert over de afdoening van klachten over het optreden van ambtenaren als bedoeld in [artikel 2, onderdelen a tot en met c, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&artikel=2), werkzaam bij de regionale eenheden.
 
@@ -124,9 +124,9 @@ Vervallen
 
 2. De klachtencommissie kan de klager, de ambtenaar, getuigen of deskundigen schriftelijk dan wel mondeling horen.
 
-3. De klachtencommissie brengt binnen drie weken na ontvangst van het verzoek advies uit, bedoeld in [artikel 7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020307&paragraaf=2&artikel=7&z=2015-07-01&g=2015-07-01), onderscheidenlijk de kennisgeving, bedoeld in [artikel 7, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020307&paragraaf=2&artikel=7&z=2015-07-01&g=2015-07-01).
+3. De klachtencommissie brengt binnen drie weken na ontvangst van het verzoek advies uit, bedoeld in [artikel 7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020307&paragraaf=2&artikel=7&z=2017-03-18&g=2017-01-01), onderscheidenlijk de kennisgeving, bedoeld in [artikel 7, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020307&paragraaf=2&artikel=7&z=2017-03-18&g=2017-01-01).
 
-4. Met inachtneming van [artikel 67a van de Politiewet 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&artikel=67a) vindt het bepaalde in de [artikelen 7](https://wetten.overheid.nl/jci1.3:c:BWBR0020307&paragraaf=2&artikel=7&z=2015-07-01&g=2015-07-01) en [8, eerste, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020307&paragraaf=2&artikel=8&z=2015-07-01&g=2015-07-01), geen toepassing, indien door het College naar tevredenheid van de klager aan diens klacht is tegemoetgekomen.
+4. Met inachtneming van [artikel 67a van de Politiewet 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&artikel=67a) vindt het bepaalde in de [artikelen 7](https://wetten.overheid.nl/jci1.3:c:BWBR0020307&paragraaf=2&artikel=7&z=2017-03-18&g=2017-01-01) en [8, eerste, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020307&paragraaf=2&artikel=8&z=2017-03-18&g=2017-01-01), geen toepassing, indien door het College naar tevredenheid van de klager aan diens klacht is tegemoetgekomen.
 
 ##### Artikel 9. Termijnen van afdoening
 
