@@ -4,7 +4,7 @@ identifier: "BWBR0005251"
 country: "nl"
 rank: "wet"
 publication_date: "2026-01-01"
-last_updated: "2016-05-01"
+last_updated: "2017-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0005251"
 soort: "wet"
@@ -69,7 +69,7 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 1. In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
-- a. **accijnsgoed:** een goed als bedoeld in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0005251&hoofdstuk=I&afdeling=1&artikel=1&z=2016-05-01&g=2016-05-01);
+- a. **accijnsgoed:** een goed als bedoeld in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0005251&hoofdstuk=I&afdeling=1&artikel=1&z=2017-01-01&g=2017-01-01);
 
 - b. **accijnsgoederenplaats:** iedere plaats in Nederland waar op grond van de bepalingen van deze wet accijnsgoederen onder schorsing van accijns mogen worden vervaardigd, mogen worden verwerkt, voorhanden mogen zijn, mogen worden ontvangen en mogen worden verzonden;
 
@@ -143,7 +143,7 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 3. Als uitslag tot verbruik wordt mede aangemerkt het verbruik, anders dan als grondstof, in Nederland van een accijnsgoed dat onder een douaneschorsingsregeling is geplaatst.
 
-4. Als uitslag tot verbruik wordt mede aangemerkt het in strijd met wettelijke bepalingen voorhanden hebben of gebruiken van minerale oliën waaraan herkenningsmiddelen als bedoeld in [artikel 1a, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005251&hoofdstuk=I&afdeling=1&artikel=1a&z=2016-05-01&g=2016-05-01), zijn toegevoegd.
+4. Als uitslag tot verbruik wordt mede aangemerkt het in strijd met wettelijke bepalingen voorhanden hebben of gebruiken van minerale oliën waaraan herkenningsmiddelen als bedoeld in [artikel 1a, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005251&hoofdstuk=I&afdeling=1&artikel=1a&z=2017-01-01&g=2017-01-01), zijn toegevoegd.
 
 5. De algehele vernietiging of het onherstelbare verlies van onder een accijnsschorsingsregeling geplaatste accijnsgoederen door een oorzaak die met de aard van de goederen verband houdt, dan wel door niet te voorziene omstandigheden of overmacht, of ingevolge instructies van de inspecteur dan wel van de bevoegde autoriteiten van een andere lidstaat, wordt niet aangemerkt als uitslag tot verbruik. Voor de toepassing van deze bepaling worden goederen geacht totaal vernietigd of onherstelbaar verloren te zijn wanneer zij als accijnsgoed onbruikbaar zijn geworden.
 
@@ -153,7 +153,7 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 8. Als uitslag tot verbruik wordt niet aangemerkt het, met inachtneming van bij algemene maatregel van bestuur te stellen voorwaarden en beperkingen, verbruik van minerale oliën als brandstof voor het vervaardigen van minerale oliën in een accijnsgoederenplaats.
 
-9. Als uitslag tot verbruik wordt niet aangemerkt het vervaardigen en het voorhanden hebben van een accijnsgoed, bedoeld in [artikel 5, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005251&hoofdstuk=I&afdeling=2&artikel=5&z=2016-05-01&g=2016-05-01).
+9. Als uitslag tot verbruik wordt niet aangemerkt het vervaardigen en het voorhanden hebben van een accijnsgoed, bedoeld in [artikel 5, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005251&hoofdstuk=I&afdeling=2&artikel=5&z=2017-01-01&g=2017-01-01).
 
 10. Bij ministeriële regeling kunnen nadere regels worden gesteld ten behoeve van de uitvoering van dit artikel.
 
@@ -169,7 +169,7 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 - d. een plaats waar de accijnsgoederen het grondgebied van de Unie verlaten;
 
-- e. een in een andere lidstaat gevestigde geadresseerde als bedoeld in [artikel 69](https://wetten.overheid.nl/jci1.3:c:BWBR0005251&hoofdstuk=V&afdeling=1&artikel=69&z=2016-05-01&g=2016-05-01).
+- e. een in een andere lidstaat gevestigde geadresseerde als bedoeld in [artikel 69](https://wetten.overheid.nl/jci1.3:c:BWBR0005251&hoofdstuk=V&afdeling=1&artikel=69&z=2017-01-01&g=2017-01-01).
 
 2. Als uitslag tot verbruik wordt niet aangemerkt het, met inachtneming van bij algemene maatregel van bestuur te stellen voorwaarden, brengen van een accijnsgoed vanuit een belastingentrepot of door een in een andere lidstaat gevestigde geregistreerde afzender naar:
 
@@ -177,7 +177,7 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 - b. een in Nederland gevestigde geregistreerde geadresseerde;
 
-- c. een in Nederland gevestigde geadresseerde als bedoeld in [artikel 69](https://wetten.overheid.nl/jci1.3:c:BWBR0005251&hoofdstuk=V&afdeling=1&artikel=69&z=2016-05-01&g=2016-05-01).
+- c. een in Nederland gevestigde geadresseerde als bedoeld in [artikel 69](https://wetten.overheid.nl/jci1.3:c:BWBR0005251&hoofdstuk=V&afdeling=1&artikel=69&z=2017-01-01&g=2017-01-01).
 
 3. Als uitslag tot verbruik wordt niet aangemerkt het, met inachtneming van bij algemene maatregel van bestuur te stellen voorwaarden, door een in Nederland gevestigde geregistreerde afzender brengen van een accijnsgoed van de plaats van invoer naar:
 
@@ -189,37 +189,37 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 - d. een plaats waar de accijnsgoederen het grondgebied van de Unie verlaten;
 
-- e. een in een andere lidstaat gevestigde geadresseerde als bedoeld in [artikel 69](https://wetten.overheid.nl/jci1.3:c:BWBR0005251&hoofdstuk=V&afdeling=1&artikel=69&z=2016-05-01&g=2016-05-01).
+- e. een in een andere lidstaat gevestigde geadresseerde als bedoeld in [artikel 69](https://wetten.overheid.nl/jci1.3:c:BWBR0005251&hoofdstuk=V&afdeling=1&artikel=69&z=2017-01-01&g=2017-01-01).
 
 4. De voorwaarden, bedoeld in het eerste tot en met derde lid, hebben betrekking op formaliteiten waaraan bij de overbrenging van accijnsgoederen moet worden voldaan.
 
 5. In de gevallen, bedoeld in het eerste lid, onderdeel a, tweede lid, onderdelen a en b, en derde lid, onderdeel a, kan, onder bij algemene maatregel van bestuur te stellen voorwaarden en beperkingen, worden toegestaan dat de accijnsgoederen onder een accijnsschorsingsregeling worden overgebracht naar een plaats van rechtstreekse aflevering in Nederland.
 
-6. Bij ministeriële regeling kan, onder daarbij te stellen voorwaarden, voor minerale oliën waarvoor in [artikel 27](https://wetten.overheid.nl/jci1.3:c:BWBR0005251&hoofdstuk=II&afdeling=6&artikel=27&z=2016-05-01&g=2016-05-01) geen tarief is vermeld, ontheffing worden verleend van de formaliteiten, bedoeld in het vierde lid.
+6. Bij ministeriële regeling kan, onder daarbij te stellen voorwaarden, voor minerale oliën waarvoor in [artikel 27](https://wetten.overheid.nl/jci1.3:c:BWBR0005251&hoofdstuk=II&afdeling=6&artikel=27&z=2017-01-01&g=2017-01-01) geen tarief is vermeld, ontheffing worden verleend van de formaliteiten, bedoeld in het vierde lid.
 
 7. Bij ministeriële regeling kunnen nadere regels worden gesteld ten behoeve van de uitvoering van dit artikel.
 
 ##### Artikel 2b
 
-1. De overbrenging van accijnsgoederen onder een accijnsschorsingsregeling vangt aan, in de in [artikel 2a, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005251&hoofdstuk=I&afdeling=1&artikel=2a&z=2016-05-01&g=2016-05-01), bedoelde gevallen, wanneer de accijnsgoederen de accijnsgoederenplaats onderscheidenlijk het belastingentrepot van verzending verlaten en, in de in artikel 2a, derde lid, bedoelde gevallen, wanneer zij overeenkomstig artikel 201 van het Douanewetboek van de Unie in het vrije verkeer worden gebracht.
+1. De overbrenging van accijnsgoederen onder een accijnsschorsingsregeling vangt aan, in de in [artikel 2a, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005251&hoofdstuk=I&afdeling=1&artikel=2a&z=2017-01-01&g=2017-01-01), bedoelde gevallen, wanneer de accijnsgoederen de accijnsgoederenplaats onderscheidenlijk het belastingentrepot van verzending verlaten en, in de in artikel 2a, derde lid, bedoelde gevallen, wanneer zij overeenkomstig artikel 201 van het Douanewetboek van de Unie in het vrije verkeer worden gebracht.
 
-2. De overbrenging van accijnsgoederen onder een accijnsschorsingsregeling eindigt, in de in [artikel 2a, eerste lid, onderdelen a, b, c en e, tweede lid, en derde lid, onderdelen a, b, c en e](https://wetten.overheid.nl/jci1.3:c:BWBR0005251&hoofdstuk=I&afdeling=1&artikel=2a&z=2016-05-01&g=2016-05-01), bedoelde gevallen, op het tijdstip waarop de geadresseerde de accijnsgoederen in ontvangst heeft genomen, en, in de in artikel 2a, eerste lid, onderdeel d, en derde lid, onderdeel d, bedoelde gevallen, op het tijdstip waarop de goederen het grondgebied van de Unie hebben verlaten.
+2. De overbrenging van accijnsgoederen onder een accijnsschorsingsregeling eindigt, in de in [artikel 2a, eerste lid, onderdelen a, b, c en e, tweede lid, en derde lid, onderdelen a, b, c en e](https://wetten.overheid.nl/jci1.3:c:BWBR0005251&hoofdstuk=I&afdeling=1&artikel=2a&z=2017-01-01&g=2017-01-01), bedoelde gevallen, op het tijdstip waarop de geadresseerde de accijnsgoederen in ontvangst heeft genomen, en, in de in artikel 2a, eerste lid, onderdeel d, en derde lid, onderdeel d, bedoelde gevallen, op het tijdstip waarop de goederen het grondgebied van de Unie hebben verlaten.
 
 ##### Artikel 2c
 
-1. Indien tijdens een overbrenging van accijnsgoederen onder een accijnsschorsingsregeling in Nederland een onregelmatigheid heeft plaatsgevonden die resulteerde in uitslag tot verbruik van deze goederen als bedoeld in [artikel 2, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0005251&hoofdstuk=I&afdeling=1&artikel=2&z=2016-05-01&g=2016-05-01), vindt de uitslag tot verbruik plaats in Nederland.
+1. Indien tijdens een overbrenging van accijnsgoederen onder een accijnsschorsingsregeling in Nederland een onregelmatigheid heeft plaatsgevonden die resulteerde in uitslag tot verbruik van deze goederen als bedoeld in [artikel 2, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0005251&hoofdstuk=I&afdeling=1&artikel=2&z=2017-01-01&g=2017-01-01), vindt de uitslag tot verbruik plaats in Nederland.
 
-2. Indien in Nederland wordt geconstateerd dat zich tijdens een overbrenging van accijnsgoederen als bedoeld in het eerste lid een onregelmatigheid heeft voorgedaan die resulteerde in uitslag tot verbruik van deze goederen als bedoeld in [artikel 2, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0005251&hoofdstuk=I&afdeling=1&artikel=2&z=2016-05-01&g=2016-05-01), en er niet kan worden vastgesteld waar de onregelmatigheid plaatsvond, wordt deze geacht te hebben plaatsgevonden in Nederland op het tijdstip waarop de onregelmatigheid werd geconstateerd.
+2. Indien in Nederland wordt geconstateerd dat zich tijdens een overbrenging van accijnsgoederen als bedoeld in het eerste lid een onregelmatigheid heeft voorgedaan die resulteerde in uitslag tot verbruik van deze goederen als bedoeld in [artikel 2, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0005251&hoofdstuk=I&afdeling=1&artikel=2&z=2017-01-01&g=2017-01-01), en er niet kan worden vastgesteld waar de onregelmatigheid plaatsvond, wordt deze geacht te hebben plaatsgevonden in Nederland op het tijdstip waarop de onregelmatigheid werd geconstateerd.
 
-3. Indien vanuit Nederland onder een accijnsschorsingsregeling overgebrachte accijnsgoederen niet op de plaats van bestemming zijn aangekomen en er tijdens de overbrenging geen onregelmatigheid is geconstateerd die resulteerde in uitslag tot verbruik van de accijnsgoederen als bedoeld in [artikel 2, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0005251&hoofdstuk=I&afdeling=1&artikel=2&z=2016-05-01&g=2016-05-01), wordt de onregelmatigheid geacht te hebben plaatsgevonden in Nederland op het tijdstip van aanvang van de overbrenging, tenzij binnen een termijn van vier maanden na de aanvang van de overbrenging als bedoeld in [artikel 2b, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005251&hoofdstuk=I&afdeling=1&artikel=2b&z=2016-05-01&g=2016-05-01), ten genoegen van de inspecteur wordt aangetoond dat de overbrenging is geëindigd overeenkomstig artikel 2b, tweede lid, of dat is vastgesteld waar de onregelmatigheid plaatsvond.
+3. Indien vanuit Nederland onder een accijnsschorsingsregeling overgebrachte accijnsgoederen niet op de plaats van bestemming zijn aangekomen en er tijdens de overbrenging geen onregelmatigheid is geconstateerd die resulteerde in uitslag tot verbruik van de accijnsgoederen als bedoeld in [artikel 2, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0005251&hoofdstuk=I&afdeling=1&artikel=2&z=2017-01-01&g=2017-01-01), wordt de onregelmatigheid geacht te hebben plaatsgevonden in Nederland op het tijdstip van aanvang van de overbrenging, tenzij binnen een termijn van vier maanden na de aanvang van de overbrenging als bedoeld in [artikel 2b, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005251&hoofdstuk=I&afdeling=1&artikel=2b&z=2017-01-01&g=2017-01-01), ten genoegen van de inspecteur wordt aangetoond dat de overbrenging is geëindigd overeenkomstig artikel 2b, tweede lid, of dat is vastgesteld waar de onregelmatigheid plaatsvond.
 
-4. Indien de persoon die de in [artikel 56](https://wetten.overheid.nl/jci1.3:c:BWBR0005251&hoofdstuk=III&afdeling=4&artikel=56&z=2016-05-01&g=2016-05-01) bedoelde zekerheid heeft gesteld, niet op de hoogte was of mogelijk niet op de hoogte was van het feit dat de goederen niet ter bestemming zijn aangekomen, wordt hem een termijn van een maand, te rekenen vanaf het tijdstip van de verstrekking van die informatie door de inspecteur, gegund om het eindigen van de overbrenging overeenkomstig [artikel 2b, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005251&hoofdstuk=I&afdeling=1&artikel=2b&z=2016-05-01&g=2016-05-01), of de plaats waar de onregelmatigheid heeft plaatsgevonden, aan te tonen.
+4. Indien de persoon die de in [artikel 56](https://wetten.overheid.nl/jci1.3:c:BWBR0005251&hoofdstuk=III&afdeling=4&artikel=56&z=2017-01-01&g=2017-01-01) bedoelde zekerheid heeft gesteld, niet op de hoogte was of mogelijk niet op de hoogte was van het feit dat de goederen niet ter bestemming zijn aangekomen, wordt hem een termijn van een maand, te rekenen vanaf het tijdstip van de verstrekking van die informatie door de inspecteur, gegund om het eindigen van de overbrenging overeenkomstig [artikel 2b, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005251&hoofdstuk=I&afdeling=1&artikel=2b&z=2017-01-01&g=2017-01-01), of de plaats waar de onregelmatigheid heeft plaatsgevonden, aan te tonen.
 
-5. Indien in de in het tweede en derde lid bedoelde situaties binnen een termijn van drie jaar vanaf de datum waarop de overbrenging overeenkomstig [artikel 2b, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005251&hoofdstuk=I&afdeling=1&artikel=2b&z=2016-05-01&g=2016-05-01), is aangevangen, wordt vastgesteld dat de onregelmatigheid daadwerkelijk heeft plaatsgevonden in een andere lidstaat, is de accijns in die lidstaat verschuldigd.
+5. Indien in de in het tweede en derde lid bedoelde situaties binnen een termijn van drie jaar vanaf de datum waarop de overbrenging overeenkomstig [artikel 2b, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005251&hoofdstuk=I&afdeling=1&artikel=2b&z=2017-01-01&g=2017-01-01), is aangevangen, wordt vastgesteld dat de onregelmatigheid daadwerkelijk heeft plaatsgevonden in een andere lidstaat, is de accijns in die lidstaat verschuldigd.
 
-6. Indien de accijns in een andere lidstaat verschuldigd is geworden op grond van het feit dat de onregelmatigheid werd geacht te hebben plaatsgevonden in die lidstaat en binnen een termijn van drie jaar vanaf de datum waarop de overbrenging overeenkomstig [artikel 2b, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005251&hoofdstuk=I&afdeling=1&artikel=2b&z=2016-05-01&g=2016-05-01), is aangevangen, wordt vastgesteld dat de onregelmatigheid daadwerkelijk heeft plaatsgevonden in Nederland, is het eerste lid van toepassing.
+6. Indien de accijns in een andere lidstaat verschuldigd is geworden op grond van het feit dat de onregelmatigheid werd geacht te hebben plaatsgevonden in die lidstaat en binnen een termijn van drie jaar vanaf de datum waarop de overbrenging overeenkomstig [artikel 2b, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005251&hoofdstuk=I&afdeling=1&artikel=2b&z=2017-01-01&g=2017-01-01), is aangevangen, wordt vastgesteld dat de onregelmatigheid daadwerkelijk heeft plaatsgevonden in Nederland, is het eerste lid van toepassing.
 
-7. Voor de toepassing van dit artikel wordt onder onregelmatigheid verstaan, een andere dan de in [artikel 2, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005251&hoofdstuk=I&afdeling=1&artikel=2&z=2016-05-01&g=2016-05-01), bedoelde situatie die zich tijdens een overbrenging van accijnsgoederen onder een accijnsschorsingsregeling voordoet en als gevolg waarvan een overbrenging of een onderdeel van een overbrenging van accijnsgoederen niet overeenkomstig [artikel 2b, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005251&hoofdstuk=I&afdeling=1&artikel=2b&z=2016-05-01&g=2016-05-01), is geëindigd.
+7. Voor de toepassing van dit artikel wordt onder onregelmatigheid verstaan, een andere dan de in [artikel 2, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005251&hoofdstuk=I&afdeling=1&artikel=2&z=2017-01-01&g=2017-01-01), bedoelde situatie die zich tijdens een overbrenging van accijnsgoederen onder een accijnsschorsingsregeling voordoet en als gevolg waarvan een overbrenging of een onderdeel van een overbrenging van accijnsgoederen niet overeenkomstig [artikel 2b, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005251&hoofdstuk=I&afdeling=1&artikel=2b&z=2017-01-01&g=2017-01-01), is geëindigd.
 
 8. Bij ministeriële regeling kunnen nadere regels worden gesteld ten behoeve van de uitvoering van dit artikel.
 
@@ -237,9 +237,9 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 ##### Artikel 2e
 
-1. Onverminderd [artikel 2f](https://wetten.overheid.nl/jci1.3:c:BWBR0005251&hoofdstuk=I&afdeling=1&artikel=2f&z=2016-05-01&g=2016-05-01) wordt als uitslag tot verbruik mede aangemerkt het in Nederland, om aldaar te worden geleverd of gebruikt, voor commerciële doeleinden voorhanden hebben van accijnsgoederen die in een andere lidstaat reeds tot verbruik zijn uitgeslagen.
+1. Onverminderd [artikel 2f](https://wetten.overheid.nl/jci1.3:c:BWBR0005251&hoofdstuk=I&afdeling=1&artikel=2f&z=2017-01-01&g=2017-01-01) wordt als uitslag tot verbruik mede aangemerkt het in Nederland, om aldaar te worden geleverd of gebruikt, voor commerciële doeleinden voorhanden hebben van accijnsgoederen die in een andere lidstaat reeds tot verbruik zijn uitgeslagen.
 
-2. Voor de toepassing van dit artikel wordt onder voor commerciële doeleinden voorhanden hebben verstaan het voorhanden hebben van accijnsgoederen door anderen dan particulieren of het voorhanden hebben door een particulier anders dan voor eigen behoeften van door hem vervoerde accijnsgoederen als bedoeld in [artikel 2d, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005251&hoofdstuk=I&afdeling=1&artikel=2d&z=2016-05-01&g=2016-05-01).
+2. Voor de toepassing van dit artikel wordt onder voor commerciële doeleinden voorhanden hebben verstaan het voorhanden hebben van accijnsgoederen door anderen dan particulieren of het voorhanden hebben door een particulier anders dan voor eigen behoeften van door hem vervoerde accijnsgoederen als bedoeld in [artikel 2d, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005251&hoofdstuk=I&afdeling=1&artikel=2d&z=2017-01-01&g=2017-01-01).
 
 3. Het eerste lid vindt geen toepassing tijdens de overbrenging van de accijnsgoederen, bedoeld in het eerste lid, van een andere lidstaat naar Nederland, indien die overbrenging geschiedt overeenkomstig bij algemene maatregel van bestuur gestelde voorwaarden.
 
@@ -263,7 +263,7 @@ Vervallen
 
 ##### Artikel 3
 
-1. Indien in de situaties als bedoeld in de [artikelen 2e](https://wetten.overheid.nl/jci1.3:c:BWBR0005251&hoofdstuk=I&afdeling=1&artikel=2e&z=2016-05-01&g=2016-05-01) en [2f](https://wetten.overheid.nl/jci1.3:c:BWBR0005251&hoofdstuk=I&afdeling=1&artikel=2f&z=2016-05-01&g=2016-05-01), de accijnsgoederen tijdens het vervoer in Nederland of in een andere lidstaat dan de lidstaat waar de accijnsgoederen tot verbruik zijn uitgeslagen, algeheel vernietigd of onherstelbaar verloren gegaan zijn door een oorzaak die met de aard van de goederen verband houdt, dan wel door niet te voorziene omstandigheden of overmacht, of ingevolge instructies van de inspecteur dan wel, indien van toepassing, de bevoegde autoriteiten van de andere lidstaat, is geen sprake van uitslag tot verbruik als bedoeld in de artikelen 2e en 2f.
+1. Indien in de situaties als bedoeld in de [artikelen 2e](https://wetten.overheid.nl/jci1.3:c:BWBR0005251&hoofdstuk=I&afdeling=1&artikel=2e&z=2017-01-01&g=2017-01-01) en [2f](https://wetten.overheid.nl/jci1.3:c:BWBR0005251&hoofdstuk=I&afdeling=1&artikel=2f&z=2017-01-01&g=2017-01-01), de accijnsgoederen tijdens het vervoer in Nederland of in een andere lidstaat dan de lidstaat waar de accijnsgoederen tot verbruik zijn uitgeslagen, algeheel vernietigd of onherstelbaar verloren gegaan zijn door een oorzaak die met de aard van de goederen verband houdt, dan wel door niet te voorziene omstandigheden of overmacht, of ingevolge instructies van de inspecteur dan wel, indien van toepassing, de bevoegde autoriteiten van de andere lidstaat, is geen sprake van uitslag tot verbruik als bedoeld in de artikelen 2e en 2f.
 
 2. Voor de toepassing van dit artikel worden goederen geacht totaal vernietigd of onherstelbaar verloren te zijn wanneer zij als accijnsgoed onbruikbaar zijn geworden.
 
@@ -291,11 +291,13 @@ Vervallen
 
 - a. het vervaardigen van accijnsgoederen uit andere accijnsgoederen, waarbij het accijnsbedrag dat de eerstbedoelde accijnsgoederen vertegenwoordigen niet hoger is dan het accijnsbedrag dat de accijnsgoederen vertegenwoordigen waaruit zij zijn vervaardigd;
 
-- b. het vervaardigen van accijnsgoederen waarvoor een vrijstelling van accijns geldt op de voet van [artikel 65](https://wetten.overheid.nl/jci1.3:c:BWBR0005251&hoofdstuk=V&afdeling=1&artikel=65&z=2016-05-01&g=2016-05-01);
+- b. het vervaardigen van accijnsgoederen waarvoor een vrijstelling van accijns geldt op de voet van [artikel 65](https://wetten.overheid.nl/jci1.3:c:BWBR0005251&hoofdstuk=V&afdeling=1&artikel=65&z=2017-01-01&g=2017-01-01);
 
 - c. het thuis vervaardigen van bier en wijn door particulieren, voor zover die goederen worden aangewend voor eigen gebruik;
 
-- d. het vervaardigen en het voorhanden hebben van andere minerale oliën dan bedoeld in het vierde lid, mits deze minerale oliën niet op grond van [artikel 28](https://wetten.overheid.nl/jci1.3:c:BWBR0005251&hoofdstuk=II&afdeling=6&artikel=28&z=2016-05-01&g=2016-05-01) worden gelijkgesteld met minerale oliën waarvoor in [artikel 27](https://wetten.overheid.nl/jci1.3:c:BWBR0005251&hoofdstuk=II&afdeling=6&artikel=27&z=2016-05-01&g=2016-05-01) een tarief is vastgesteld.
+- d. het vervaardigen en het voorhanden hebben van andere minerale oliën dan bedoeld in het vierde lid, mits deze minerale oliën niet op grond van [artikel 28](https://wetten.overheid.nl/jci1.3:c:BWBR0005251&hoofdstuk=II&afdeling=6&artikel=28&z=2017-01-01&g=2017-01-01) worden gelijkgesteld met minerale oliën waarvoor in [artikel 27](https://wetten.overheid.nl/jci1.3:c:BWBR0005251&hoofdstuk=II&afdeling=6&artikel=27&z=2017-01-01&g=2017-01-01) een tarief is vastgesteld;
+
+- e. het handmatig vervaardigen van een sigaret in de persoonlijke sfeer, voor zover die sigaret wordt aangewend voor eigen gebruik, daaronder begrepen het door middel van een eenvoudige, niet-industriële handeling in een huls van sigarettenpapier schuiven of met sigarettenpapier omhullen van rooktabak.
 
 4. De in het derde lid, onderdeel d, bedoelde minerale oliën zijn de produkten van de GN-codes:
 
@@ -343,7 +345,7 @@ voor zover deze produkten een alcoholgehalte hebben van meer dan 0,5%vol.
 
 - d. 15 en meer € 47,48.
 
-2. Met betrekking tot bier als bedoeld in [artikel 6, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0005251&hoofdstuk=II&afdeling=1&artikel=6&z=2016-05-01&g=2016-05-01), met een alcoholgehalte van niet meer dan 1,2%vol wordt het tarief van het eerste lid, onderdeel **a**, toegepast.
+2. Met betrekking tot bier als bedoeld in [artikel 6, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0005251&hoofdstuk=II&afdeling=1&artikel=6&z=2017-01-01&g=2017-01-01), met een alcoholgehalte van niet meer dan 1,2%vol wordt het tarief van het eerste lid, onderdeel **a**, toegepast.
 
 3. In afwijking in zoverre van het eerste lid bedraagt de accijns voor bier dat is vervaardigd in een accijnsgoederenplaats waar in het voorafgaande kalenderjaar niet meer dan 200 000 hl bier is vervaardigd 92,5/100 deel van de in de onderdelen b, c en d vermelde bedragen.
 
@@ -375,13 +377,13 @@ Wijn wordt onderscheiden in niet-mousserende wijn en mousserende wijn.
 
 ##### Artikel 8a
 
-1. Onder niet-mousserende wijn worden verstaan alle produkten van GN-codes 2204 en 2205, met uitzondering van mousserende wijn als bedoeld in [artikel 9, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005251&hoofdstuk=II&afdeling=2&artikel=9&z=2016-05-01&g=2016-05-01), met:
+1. Onder niet-mousserende wijn worden verstaan alle produkten van GN-codes 2204 en 2205, met uitzondering van mousserende wijn als bedoeld in [artikel 9, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005251&hoofdstuk=II&afdeling=2&artikel=9&z=2017-01-01&g=2017-01-01), met:
 
 - a. een alcoholgehalte van meer dan 1,2%vol maar niet meer dan 15%vol, voor zover de alcohol in het eindprodukt volledig door gisting is verkregen; of
 
 - b. een alcoholgehalte van meer dan 15%vol maar niet meer dan 18%vol, voor zover zij zonder enige verrijking zijn geproduceerd en de alcohol in het eindprodukt volledig door gisting is verkregen.
 
-2. Onder niet-mousserende wijn worden mede verstaan alle niet in het eerste lid bedoelde produkten van GN-codes 2204 en 2205, alsmede produkten van GN-code 2206, die ingevolge [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0005251&hoofdstuk=II&afdeling=1&artikel=6&z=2016-05-01&g=2016-05-01) niet als bier en ingevolge [artikel 9, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005251&hoofdstuk=II&afdeling=2&artikel=9&z=2016-05-01&g=2016-05-01), niet als mousserende wijn worden aangemerkt, met:
+2. Onder niet-mousserende wijn worden mede verstaan alle niet in het eerste lid bedoelde produkten van GN-codes 2204 en 2205, alsmede produkten van GN-code 2206, die ingevolge [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0005251&hoofdstuk=II&afdeling=1&artikel=6&z=2017-01-01&g=2017-01-01) niet als bier en ingevolge [artikel 9, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005251&hoofdstuk=II&afdeling=2&artikel=9&z=2017-01-01&g=2017-01-01), niet als mousserende wijn worden aangemerkt, met:
 
 - a. een alcoholgehalte van meer dan 1,2%vol maar niet meer dan 10%vol; of
 
@@ -403,19 +405,11 @@ Wijn wordt onderscheiden in niet-mousserende wijn en mousserende wijn.
 
 ##### Artikel 10
 
-1. De accijns bedraagt per hectoliter voor niet-mousserende wijn met een alcoholgehalte van:
+De accijns bedraagt per hectoliter voor zowel niet-mousserende wijn als mousserende wijn met een alcoholgehalte van:
 
-- a. niet meer dan 8,5% vol € 44,18;
+- a. niet meer dan 8,5% vol € 44,24;
 
-- b. meer dan 8,5% vol, maar niet meer dan 15% vol € 88,36;
-
-- c. meer dan 15% vol € 129,81.
-
-2. De accijns bedraagt per hectoliter voor mousserende wijn met een alcoholgehalte van:
-
-- a. niet meer dan 8,5% vol € 48,25;
-
-- b. meer dan 8,5% vol € 254,41.
+- b. meer dan 8,5% vol € 88,30.
 
 ##### Artikel 11
 
@@ -429,7 +423,7 @@ Tussenprodukten worden onderscheiden in niet-mousserende tussenprodukten en mous
 
 ##### Artikel 11b
 
-Onder niet-mousserende tussenprodukten worden verstaan alle niet als bier of wijn aan te merken produkten van GN-codes 2204, 2205 en 2206 met een alcoholgehalte van meer dan 1,2%vol maar niet meer dan 22%vol, die ingevolge [artikel 11**c**](https://wetten.overheid.nl/jci1.3:c:BWBR0005251&hoofdstuk=II&afdeling=2a&artikel=11c&z=2016-05-01&g=2016-05-01) niet als mousserende tussenprodukten worden aangemerkt.
+Onder niet-mousserende tussenprodukten worden verstaan alle niet als bier of wijn aan te merken produkten van GN-codes 2204, 2205 en 2206 met een alcoholgehalte van meer dan 1,2%vol maar niet meer dan 22%vol, die ingevolge [artikel 11**c**](https://wetten.overheid.nl/jci1.3:c:BWBR0005251&hoofdstuk=II&afdeling=2a&artikel=11c&z=2017-01-01&g=2017-01-01) niet als mousserende tussenprodukten worden aangemerkt.
 
 ##### Artikel 11c
 
@@ -437,13 +431,11 @@ Onder mousserende tussenprodukten worden verstaan alle niet als bier of wijn aan
 
 ##### Artikel 11d
 
-1. De accijns bedraagt per hectoliter voor niet-mousserende tussenproducten met een alcoholgehalte van:
+De accijns bedraagt per hectoliter voor zowel niet-mousserende tussenproducten als mousserende tussenproducten met een alcoholgehalte van:
 
 - a. niet meer dan 15% vol € 105,98;
 
-- b. meer dan 15% vol € 149,29.
-
-2. De accijns bedraagt per hectoliter voor mousserende tussenproducten € 254,41.
+- b. meer dan 15% vol € 149,30.
 
 ### Afdeling 3. Overige alcoholhoudende produkten
 
@@ -463,7 +455,7 @@ De accijns bedraagt voor overige alcoholhoudende produkten per hectoliter bij ee
 
 ##### Artikel 14
 
-Voor de toepassing van [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0005251&hoofdstuk=II&afdeling=3&artikel=13&z=2016-05-01&g=2016-05-01) wordt het volume van overige alcoholhoudende produkten die bestaan uit een vloeistof waarin zich bestanddelen in vaste vorm bevinden, gesteld op het volume van het gehele produkt.
+Voor de toepassing van [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0005251&hoofdstuk=II&afdeling=3&artikel=13&z=2017-01-01&g=2017-01-01) wordt het volume van overige alcoholhoudende produkten die bestaan uit een vloeistof waarin zich bestanddelen in vaste vorm bevinden, gesteld op het volume van het gehele produkt.
 
 ### Afdeling 4
 
@@ -565,13 +557,13 @@ Onder gelode lichte olie worden verstaan de producten van GN-codes 2710 11 31, 2
 
 1. De accijns bedraagt voor:
 
-- a. lichte olie, per 1000 L bij een temperatuur van 15°C € 857,39 indien het gelode lichte olie betreft en € 769,90 indien het ongelode lichte olie betreft;
+- a. lichte olie, per 1000 L bij een temperatuur van 15°C € 859,96 indien het gelode lichte olie betreft en € 772,21 indien het ongelode lichte olie betreft;
 
-- b. halfzware olie en gasolie, per 1000 L bij een temperatuur van 15°C € 484,47;
+- b. halfzware olie en gasolie, per 1000 L bij een temperatuur van 15°C € 485,92;
 
-- c. zware stookolie, per 1 000 kg € 36,33;
+- c. zware stookolie, per 1 000 kg € 36,44;
 
-- d. vloeibaar gemaakt petroleumgas, per 1000 kg € 336,34;
+- d. vloeibaar gemaakt petroleumgas, per 1000 kg € 337,35;
 
 - e. methaan nihil.
 
@@ -579,19 +571,19 @@ Onder gelode lichte olie worden verstaan de producten van GN-codes 2710 11 31, 2
 
 ##### Artikel 27a
 
-De [artikelen 10.1](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=10.1) en [10.2 van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=10.2) zijn van overeenkomstige toepassing op de in de [artikelen 27, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005251&hoofdstuk=II&afdeling=6&artikel=27&z=2016-05-01&g=2016-05-01), [71b, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005251&hoofdstuk=V&afdeling=2&artikel=71b&z=2016-05-01&g=2016-05-01), [71c, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005251&hoofdstuk=V&afdeling=2&artikel=71c&z=2016-05-01&g=2016-05-01), [71e, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005251&hoofdstuk=V&afdeling=2&artikel=71e&z=2016-05-01&g=2016-05-01), en [71g, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005251&hoofdstuk=V&afdeling=2&artikel=71g&z=2016-05-01&g=2016-05-01), vermelde bedragen.
+De [artikelen 10.1](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=10.1) en [10.2 van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=10.2) zijn van overeenkomstige toepassing op de in de [artikelen 27, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005251&hoofdstuk=II&afdeling=6&artikel=27&z=2017-01-01&g=2017-01-01), [71e, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005251&hoofdstuk=V&afdeling=2&artikel=71e&z=2017-01-01&g=2017-01-01), en [71g, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005251&hoofdstuk=V&afdeling=2&artikel=71g&z=2017-01-01&g=2017-01-01), vermelde bedragen.
 
 ##### Artikel 28
 
-1. Andere minerale oliën dan die waarvoor in [artikel 27, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005251&hoofdstuk=II&afdeling=6&artikel=27&z=2016-05-01&g=2016-05-01), een accijnstarief is vermeld, worden, indien zij zijn bestemd voor gebruik, worden aangeboden voor verkoop of worden gebruikt als brandstof voor verwarming of als motorbrandstof, aan de accijns onderworpen naar het ingevolge artikel 27, eerste lid, voor de gelijkwaardige brandstof of motorbrandstof geldende tarief.
+1. Andere minerale oliën dan die waarvoor in [artikel 27, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005251&hoofdstuk=II&afdeling=6&artikel=27&z=2017-01-01&g=2017-01-01), een accijnstarief is vermeld, worden, indien zij zijn bestemd voor gebruik, worden aangeboden voor verkoop of worden gebruikt als brandstof voor verwarming of als motorbrandstof, aan de accijns onderworpen naar het ingevolge artikel 27, eerste lid, voor de gelijkwaardige brandstof of motorbrandstof geldende tarief.
 
 2. Onverminderd het eerste lid worden minerale oliën van GN-codes 3811 11 10, 3811 11 90, 3811 19 00 en 3811 90 00 voor de toepassing van het tarief gelijkgesteld met de motorbrandstof waaraan zij bestemd zijn te worden toegevoegd.
 
-3. Minerale oliën als bedoeld in [artikel 25, tweede lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0005251&hoofdstuk=II&afdeling=6&artikel=25&z=2016-05-01&g=2016-05-01), worden aan de accijns onderworpen naar het ingevolge [artikel 27, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005251&hoofdstuk=II&afdeling=6&artikel=27&z=2016-05-01&g=2016-05-01), voor de gelijkwaardige motorbrandstof geldende tarief.
+3. Minerale oliën als bedoeld in [artikel 25, tweede lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0005251&hoofdstuk=II&afdeling=6&artikel=25&z=2017-01-01&g=2017-01-01), worden aan de accijns onderworpen naar het ingevolge [artikel 27, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005251&hoofdstuk=II&afdeling=6&artikel=27&z=2017-01-01&g=2017-01-01), voor de gelijkwaardige motorbrandstof geldende tarief.
 
-4. Minerale oliën als bedoeld in [artikel 25, tweede lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0005251&hoofdstuk=II&afdeling=6&artikel=25&z=2016-05-01&g=2016-05-01), worden aan de accijns onderworpen naar het ingevolge [artikel 27, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005251&hoofdstuk=II&afdeling=6&artikel=27&z=2016-05-01&g=2016-05-01), voor de gelijkwaardige brandstof geldende tarief.
+4. Minerale oliën als bedoeld in [artikel 25, tweede lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0005251&hoofdstuk=II&afdeling=6&artikel=25&z=2017-01-01&g=2017-01-01), worden aan de accijns onderworpen naar het ingevolge [artikel 27, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005251&hoofdstuk=II&afdeling=6&artikel=27&z=2017-01-01&g=2017-01-01), voor de gelijkwaardige brandstof geldende tarief.
 
-5. Minerale oliën die kunnen worden gelijkgesteld met meer dan één soort minerale olie worden voor de toepassing van het tarief gelijkgesteld met de soort minerale olie die van de desbetreffende soorten het eerst is vermeld in [artikel 26, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005251&hoofdstuk=II&afdeling=6&artikel=26&z=2016-05-01&g=2016-05-01).
+5. Minerale oliën die kunnen worden gelijkgesteld met meer dan één soort minerale olie worden voor de toepassing van het tarief gelijkgesteld met de soort minerale olie die van de desbetreffende soorten het eerst is vermeld in [artikel 26, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005251&hoofdstuk=II&afdeling=6&artikel=26&z=2017-01-01&g=2017-01-01).
 
 6. Het vijfde lid is van overeenkomstige toepassing op minerale oliën van GN-codes 3811 11 10, 3811 11 90, 3811 19 00 en 3811 90 00 die aan meer dan een soort motorbrandstof kunnen worden toegevoegd.
 
@@ -633,39 +625,33 @@ Vervallen
 
 ##### Artikel 35
 
-1. De accijns bedraagt in percenten van de kleinhandelsprijs voor:
+1. De accijns bedraagt voor:
 
-- a. sigaren 5;
+- a. sigaren: een ad-valoremaccijns van 5% van de kleinhandelsprijs;
 
-- b. sigaretten 0,83 benevens per 1000 stuks € 179,07, met dien verstande dat het totale bedrag van de accijns per 1000 stuks ten minste € 181,58 bedraagt;
+- b. sigaretten: een ad-valoremaccijns van 5% van de kleinhandelsprijs alsmede een specifieke accijns van € 166,46 per 1000 stuks, met dien verstande dat het minimumbedrag aan accijns in totaal ten minste € 181,59 bedraagt;
 
-- c. rooktabak 4,60 benevens per kilogram € 78,68, met dien verstande dat het totale bedrag van de accijns per kilogram ten minste € 99,25 bedraagt.
+- c. rooktabak: een specifieke accijns van € 99,25 per kilogram.
 
-2. Onder de kleinhandelsprijs van een tabaksprodukt wordt verstaan de prijs waarvoor dat produkt aan anderen dan wederverkopers wordt verkocht, met inbegrip van alle belastingen en de kosten van de verpakking.
+2. Onder de kleinhandelsprijs wordt verstaan de prijs, met inbegrip van alle belastingen en de kosten van de verpakking, waarvoor het desbetreffende product wordt verkocht aan anderen dan wederverkopers.
 
-3. Voor de berekening van de accijns wordt voor tabaksprodukten die worden verbruikt binnen een accijnsgoederenplaats voor tabaksprodukten de kleinhandelsprijs gesteld op die van gelijke dan wel soortgelijke produkten die worden verbruikt buiten de accijnsgoederenplaats.
+3. Voor de berekening van de accijns voor tabaksproducten die worden verbruikt binnen een accijnsgoederenplaats voor tabaksproducten wordt de kleinhandelsprijs gesteld op die van gelijke of soortgelijke producten die worden verbruikt buiten de accijnsgoederenplaats.
 
-4. Voor de berekening van de accijns wordt een tabaksrolletje als bedoeld in [artikel 31](https://wetten.overheid.nl/jci1.3:c:BWBR0005251&hoofdstuk=II&afdeling=7&artikel=31&z=2016-05-01&g=2016-05-01) aangemerkt als twee sigaretten wanneer het, zonder filter of mondstuk, meer dan 8 cm doch niet meer dan 11 cm lang is, en als drie sigaretten wanneer het, zonder filter of mondstuk, meer dan 11 cm doch niet meer dan 14 cm lang is, enzovoort.
+4. Voor de berekening van de accijns wordt een tabaksrolletje als bedoeld in [artikel 31](https://wetten.overheid.nl/jci1.3:c:BWBR0005251&hoofdstuk=II&afdeling=7&artikel=31&z=2017-01-01&g=2017-01-01) aangemerkt als twee sigaretten wanneer het, zonder filter of mondstuk, meer dan 8 cm doch niet meer dan 11 cm lang is, en als drie sigaretten wanneer het, zonder filter of mondstuk, meer dan 11 cm doch niet meer dan 14 cm lang is, enzovoort.
 
 ##### Artikel 36
 
-1. Bij ministeriële regeling worden de in [artikel 35, eerste lid, onderdelen b en c](https://wetten.overheid.nl/jci1.3:c:BWBR0005251&hoofdstuk=II&afdeling=7&artikel=35&z=2016-05-01&g=2016-05-01), vermelde tarieven gewijzigd bij wijziging van de gewogen gemiddelde kleinhandelsprijs van sigaretten onderscheidenlijk rooktabak.
+1. Uiterlijk op 1 maart van elk jaar wordt voor sigaretten en rooktabak de gewogen gemiddelde kleinhandelsprijs bepaald op basis van alle tot verbruik uitgeslagen sigaretten respectievelijk rooktabak in het voorgaande kalenderjaar. De gewogen gemiddelde kleinhandelsprijs wordt gepubliceerd op de website van de rijksoverheid.
 
-2. Indien bij wijziging van de tarieven bedoeld in het eerste lid de in [artikel 35, eerste lid, onderdelen b en c](https://wetten.overheid.nl/jci1.3:c:BWBR0005251&hoofdstuk=II&afdeling=7&artikel=35&z=2016-05-01&g=2016-05-01) opgenomen tarieven lager of gelijk zijn aan de voor de wijziging geldende tarieven blijft het eerste lid buiten toepassing.
+2. De gewogen gemiddelde kleinhandelsprijs is gelijk aan de op basis van de kleinhandelsprijs berekende totale waarde van alle tot verbruik uitgeslagen sigaretten respectievelijk rooktabak, gedeeld door de totale hoeveelheid tot verbruik uitgeslagen sigaretten respectievelijk rooktabak.
 
-3. De gewogen gemiddelde kleinhandelsprijs is gelijk aan de op basis van de kleinhandelsprijs berekende totale waarde van alle tot verbruik uitgeslagen sigaretten respectievelijk rooktabak, gedeeld door de totale hoeveelheid tot verbruik uitgeslagen sigaretten respectievelijk rooktabak.
+3. De specifieke accijns voor sigaretten mag niet hoger zijn dan 76,5% van de totale belastingdruk die resulteert uit de samenstelling van de specifieke accijns, de ad-valoremaccijns en de omzetbelasting die worden geheven over de gewogen gemiddelde kleinhandelsprijs.
 
-4. De gewogen gemiddelde kleinhandelsprijs wordt uiterlijk op 15 januari van elk jaar gepubliceerd op basis van alle tot verbruik uitgeslagen sigaretten respectievelijk rooktabak in de periode van 1 oktober tot en met 30 september voorafgaand aan de datum van publicatie.
+4. Wanneer na een verhoging van de accijns van sigaretten de gewogen gemiddelde kleinhandelsprijs van sigaretten wijzigt en hierdoor de specifieke accijns, uitgedrukt als een percentage van de totale belastingdruk, meer dan 76,5% van de totale belastingdruk bedraagt, wordt de specifieke accijns aangepast uiterlijk op 1 januari van het tweede jaar volgende op dat waarin de wijziging zich heeft voorgedaan.
 
-5. Een wijziging overeenkomstig het eerste lid treedt in werking met ingang van 1 april van het jaar volgend op het jaar waarop de nieuwe vaststelling van de gewogen gemiddelde kleinhandelsprijs is gebaseerd.
+5. Aanpassing van de accijns van sigaretten als gevolg van de wijzigingen van de gewogen gemiddelde kleinhandelsprijs en de totale belastingdruk, bedoeld in het vierde lid, kan geschieden bij ministeriële regeling.
 
-6. De wijziging van de tarieven voor sigaretten respectievelijk rooktabak geschiedt zodanig dat het tarief van het specifieke gedeelte van de accijns voor de gewijzigde gewogen gemiddelde kleinhandelsprijs wordt gebracht op 76,5 percent respectievelijk 70 percent van de som van het bedrag van de accijns en het bedrag van de omzetbelasting van die gewogen gemiddelde kleinhandelsprijs.
-
-7. Bij de wijziging van de tarieven voor sigaretten respectievelijk rooktabak bedraagt het totale bedrag van de accijns van sigaretten respectievelijk rooktabak van de gewogen gemiddelde kleinhandelsprijs na de wijziging ten minste 60 percent respectievelijk 52 percent van die gewogen gemiddelde kleinhandelsprijs.
-
-8. De wijziging van de bedragen die in [artikel 35, eerste lid, onderdelen b en c](https://wetten.overheid.nl/jci1.3:c:BWBR0005251&hoofdstuk=II&afdeling=7&artikel=35&z=2016-05-01&g=2016-05-01), zijn opgenomen als de ten minste te betalen accijns voor 1 000 stuks sigaretten respectievelijk 1 000 gram rooktabak, geschiedt zodanig dat deze accijns na de wijziging van de tarieven gelijk is aan het totale bedrag van de accijns voor 1 000 stuks sigaretten respectievelijk 1 000 gram rooktabak van de gewogen gemiddelde kleinhandelsprijs.
-
-9. Bij de wijziging wordt het tarief van het percentuele gedeelte van de accijns op honderdsten van een percent afgerond.
+6. Een wijziging van de accijns van tabaksproducten treedt niet eerder in werking dan met ingang van de eerste dag van de vierde kalendermaand na afloop van de kalendermaand van publicatie.
 
 ### Afdeling 8. Alcoholgehalte en volume
 
@@ -735,13 +721,13 @@ Een plaats kan alleen als accijnsgoederenplaats worden gebruikt indien daartoe e
 
 ##### Artikel 42a
 
-1. In afwijking van [artikel 40, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005251&hoofdstuk=III&afdeling=1&artikel=40&z=2016-05-01&g=2016-05-01), kan, indien degene die een vergunning voor een accijnsgoederenplaats wil verkrijgen niet beschikt over een plaats waar accijnsgoederen worden vervaardigd dan wel opgeslagen, een verzoek om een vergunning voor een accijnsgoederenplaats door de inspecteur worden toegewezen, indien deze persoon in Nederland is gevestigd en in de uitoefening van zijn bedrijf optreedt als:
+1. In afwijking van [artikel 40, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005251&hoofdstuk=III&afdeling=1&artikel=40&z=2017-01-01&g=2017-01-01), kan, indien degene die een vergunning voor een accijnsgoederenplaats wil verkrijgen niet beschikt over een plaats waar accijnsgoederen worden vervaardigd dan wel opgeslagen, een verzoek om een vergunning voor een accijnsgoederenplaats door de inspecteur worden toegewezen, indien deze persoon in Nederland is gevestigd en in de uitoefening van zijn bedrijf optreedt als:
 
 - a. handelaar in minerale oliën, maar de door hem gekochte minerale oliën niet zelf in opslag neemt;
 
 - b. tussenpersoon ten behoeve van vergunninghouders van een accijnsgoederenplaats voor minerale oliën waar minerale oliën worden vervaardigd dan wel opgeslagen;
 
-- c. bunkerhandelaar in minerale oliën, die de door hem gekochte minerale oliën uitsluitend aflevert aan boord van schepen in het kader van de bevoorrading van schepen, bedoeld in [artikel 66, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0005251&hoofdstuk=V&afdeling=1&artikel=66&z=2016-05-01&g=2016-05-01).
+- c. bunkerhandelaar in minerale oliën, die de door hem gekochte minerale oliën uitsluitend aflevert aan boord van schepen in het kader van de bevoorrading van schepen, bedoeld in [artikel 66, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0005251&hoofdstuk=V&afdeling=1&artikel=66&z=2017-01-01&g=2017-01-01).
 
 2. Bij algemene maatregel van bestuur worden voorwaarden en beperkingen gesteld waaronder de vergunning, bedoeld in het eerste lid, wordt verleend.
 
@@ -805,9 +791,9 @@ De vergunning voor een accijnsgoederenplaats kan door de inspecteur worden inget
 
 ##### Artikel 49
 
-1. Het intrekken van een vergunning ingevolge [artikel 48, onderdeel a, b of g](https://wetten.overheid.nl/jci1.3:c:BWBR0005251&hoofdstuk=III&afdeling=2&artikel=48&z=2016-05-01&g=2016-05-01), kan niet eerder geschieden dan één maand nadat de inspecteur de vergunninghouder schriftelijk in kennis heeft gesteld van de omstandigheden die naar zijn oordeel het intrekken rechtvaardigen.
+1. Het intrekken van een vergunning ingevolge [artikel 48, onderdeel a, b of g](https://wetten.overheid.nl/jci1.3:c:BWBR0005251&hoofdstuk=III&afdeling=2&artikel=48&z=2017-01-01&g=2017-01-01), kan niet eerder geschieden dan één maand nadat de inspecteur de vergunninghouder schriftelijk in kennis heeft gesteld van de omstandigheden die naar zijn oordeel het intrekken rechtvaardigen.
 
-2. Het intrekken van een vergunning ingevolge [artikel 48, onderdeel c, d, e of f](https://wetten.overheid.nl/jci1.3:c:BWBR0005251&hoofdstuk=III&afdeling=2&artikel=48&z=2016-05-01&g=2016-05-01), kan onmiddellijk geschieden.
+2. Het intrekken van een vergunning ingevolge [artikel 48, onderdeel c, d, e of f](https://wetten.overheid.nl/jci1.3:c:BWBR0005251&hoofdstuk=III&afdeling=2&artikel=48&z=2017-01-01&g=2017-01-01), kan onmiddellijk geschieden.
 
 ##### Artikel 50
 
@@ -883,13 +869,13 @@ De vergunning voor een accijnsgoederenplaats kan door de inspecteur worden inget
 
 ##### Artikel 50e
 
-De[artikelen 43](https://wetten.overheid.nl/jci1.3:c:BWBR0005251&hoofdstuk=III&afdeling=2&artikel=43&z=2016-05-01&g=2016-05-01), [44](https://wetten.overheid.nl/jci1.3:c:BWBR0005251&hoofdstuk=III&afdeling=2&artikel=44&z=2016-05-01&g=2016-05-01), [45](https://wetten.overheid.nl/jci1.3:c:BWBR0005251&hoofdstuk=III&afdeling=2&artikel=45&z=2016-05-01&g=2016-05-01), [46](https://wetten.overheid.nl/jci1.3:c:BWBR0005251&hoofdstuk=III&afdeling=2&artikel=46&z=2016-05-01&g=2016-05-01), [48](https://wetten.overheid.nl/jci1.3:c:BWBR0005251&hoofdstuk=III&afdeling=2&artikel=48&z=2016-05-01&g=2016-05-01), [49](https://wetten.overheid.nl/jci1.3:c:BWBR0005251&hoofdstuk=III&afdeling=2&artikel=49&z=2016-05-01&g=2016-05-01) en [50](https://wetten.overheid.nl/jci1.3:c:BWBR0005251&hoofdstuk=III&afdeling=2&artikel=50&z=2016-05-01&g=2016-05-01) zijn van overeenkomstige toepassing met betrekking tot de in de[artikelen 50**a**](https://wetten.overheid.nl/jci1.3:c:BWBR0005251&hoofdstuk=III&afdeling=2a&artikel=50a&z=2016-05-01&g=2016-05-01) en [50**d**](https://wetten.overheid.nl/jci1.3:c:BWBR0005251&hoofdstuk=III&afdeling=2a&artikel=50d&z=2016-05-01&g=2016-05-01) bedoelde vergunning.
+De[artikelen 43](https://wetten.overheid.nl/jci1.3:c:BWBR0005251&hoofdstuk=III&afdeling=2&artikel=43&z=2017-01-01&g=2017-01-01), [44](https://wetten.overheid.nl/jci1.3:c:BWBR0005251&hoofdstuk=III&afdeling=2&artikel=44&z=2017-01-01&g=2017-01-01), [45](https://wetten.overheid.nl/jci1.3:c:BWBR0005251&hoofdstuk=III&afdeling=2&artikel=45&z=2017-01-01&g=2017-01-01), [46](https://wetten.overheid.nl/jci1.3:c:BWBR0005251&hoofdstuk=III&afdeling=2&artikel=46&z=2017-01-01&g=2017-01-01), [48](https://wetten.overheid.nl/jci1.3:c:BWBR0005251&hoofdstuk=III&afdeling=2&artikel=48&z=2017-01-01&g=2017-01-01), [49](https://wetten.overheid.nl/jci1.3:c:BWBR0005251&hoofdstuk=III&afdeling=2&artikel=49&z=2017-01-01&g=2017-01-01) en [50](https://wetten.overheid.nl/jci1.3:c:BWBR0005251&hoofdstuk=III&afdeling=2&artikel=50&z=2017-01-01&g=2017-01-01) zijn van overeenkomstige toepassing met betrekking tot de in de[artikelen 50**a**](https://wetten.overheid.nl/jci1.3:c:BWBR0005251&hoofdstuk=III&afdeling=2a&artikel=50a&z=2017-01-01&g=2017-01-01) en [50**d**](https://wetten.overheid.nl/jci1.3:c:BWBR0005251&hoofdstuk=III&afdeling=2a&artikel=50d&z=2017-01-01&g=2017-01-01) bedoelde vergunning.
 
 ### Afdeling 2b. Verkopen op afstand
 
 ##### Artikel 50f
 
-1. Voorafgaand aan de verzending van de accijnsgoederen moet de verkoper, bedoeld in [artikel 2f, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005251&hoofdstuk=I&afdeling=1&artikel=2f&z=2016-05-01&g=2016-05-01), een fiscaal vertegenwoordiger in Nederland aanstellen, die niet de geadresseerde van de accijnsgoederen is.
+1. Voorafgaand aan de verzending van de accijnsgoederen moet de verkoper, bedoeld in [artikel 2f, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005251&hoofdstuk=I&afdeling=1&artikel=2f&z=2017-01-01&g=2017-01-01), een fiscaal vertegenwoordiger in Nederland aanstellen, die niet de geadresseerde van de accijnsgoederen is.
 
 2. De fiscaal vertegenwoordiger moet in het bezit zijn van een vergunning van de inspecteur.
 
@@ -915,7 +901,7 @@ De[artikelen 43](https://wetten.overheid.nl/jci1.3:c:BWBR0005251&hoofdstuk=III&a
 
 ##### Artikel 50g
 
-De[artikelen 43](https://wetten.overheid.nl/jci1.3:c:BWBR0005251&hoofdstuk=III&afdeling=2&artikel=43&z=2016-05-01&g=2016-05-01), [44, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005251&hoofdstuk=III&afdeling=2&artikel=44&z=2016-05-01&g=2016-05-01), [45](https://wetten.overheid.nl/jci1.3:c:BWBR0005251&hoofdstuk=III&afdeling=2&artikel=45&z=2016-05-01&g=2016-05-01), [46](https://wetten.overheid.nl/jci1.3:c:BWBR0005251&hoofdstuk=III&afdeling=2&artikel=46&z=2016-05-01&g=2016-05-01), [48](https://wetten.overheid.nl/jci1.3:c:BWBR0005251&hoofdstuk=III&afdeling=2&artikel=48&z=2016-05-01&g=2016-05-01), [49](https://wetten.overheid.nl/jci1.3:c:BWBR0005251&hoofdstuk=III&afdeling=2&artikel=49&z=2016-05-01&g=2016-05-01) en [50](https://wetten.overheid.nl/jci1.3:c:BWBR0005251&hoofdstuk=III&afdeling=2&artikel=50&z=2016-05-01&g=2016-05-01) zijn van overeenkomstige toepassing met betrekking tot de in [artikel 50**f**, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005251&hoofdstuk=III&afdeling=2b&artikel=50f&z=2016-05-01&g=2016-05-01), bedoelde vergunning.
+De[artikelen 43](https://wetten.overheid.nl/jci1.3:c:BWBR0005251&hoofdstuk=III&afdeling=2&artikel=43&z=2017-01-01&g=2017-01-01), [44, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005251&hoofdstuk=III&afdeling=2&artikel=44&z=2017-01-01&g=2017-01-01), [45](https://wetten.overheid.nl/jci1.3:c:BWBR0005251&hoofdstuk=III&afdeling=2&artikel=45&z=2017-01-01&g=2017-01-01), [46](https://wetten.overheid.nl/jci1.3:c:BWBR0005251&hoofdstuk=III&afdeling=2&artikel=46&z=2017-01-01&g=2017-01-01), [48](https://wetten.overheid.nl/jci1.3:c:BWBR0005251&hoofdstuk=III&afdeling=2&artikel=48&z=2017-01-01&g=2017-01-01), [49](https://wetten.overheid.nl/jci1.3:c:BWBR0005251&hoofdstuk=III&afdeling=2&artikel=49&z=2017-01-01&g=2017-01-01) en [50](https://wetten.overheid.nl/jci1.3:c:BWBR0005251&hoofdstuk=III&afdeling=2&artikel=50&z=2017-01-01&g=2017-01-01) zijn van overeenkomstige toepassing met betrekking tot de in [artikel 50**f**, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005251&hoofdstuk=III&afdeling=2b&artikel=50f&z=2017-01-01&g=2017-01-01), bedoelde vergunning.
 
 ### Afdeling 3. Wijze van heffing en voldoening
 
@@ -923,29 +909,29 @@ De[artikelen 43](https://wetten.overheid.nl/jci1.3:c:BWBR0005251&hoofdstuk=III&a
 
 1. De accijns wordt geheven van:
 
-- a. bij toepassing van [artikel 2, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0005251&hoofdstuk=I&afdeling=1&artikel=2&z=2016-05-01&g=2016-05-01):
+- a. bij toepassing van [artikel 2, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0005251&hoofdstuk=I&afdeling=1&artikel=2&z=2017-01-01&g=2017-01-01):
 
 - 1°. de vergunninghouder van de accijnsgoederenplaats, de geregistreerde geadresseerde of enig andere persoon die de accijnsgoederen aan de accijnsschorsingsregeling onttrekt of voor wiens rekening de accijnsgoederen aan de accijnsschorsingsregeling worden onttrokken en, in geval van onregelmatige onttrekking aan de accijnsgoederenplaats, enig andere persoon die bij die onttrekking betrokken is geweest;
 
-- 2°. in geval van een onregelmatigheid tijdens een overbrenging van accijnsgoederen onder een accijnsschorsingsregeling in de zin van [artikel 2c, eerste, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005251&hoofdstuk=I&afdeling=1&artikel=2c&z=2016-05-01&g=2016-05-01): de vergunninghouder van de accijnsgoederenplaats, de vergunninghouder van het belastingentrepot, de geregistreerde afzender, de vervoerder of de eigenaar van de accijnsgoederen, bedoeld in [artikel 56, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005251&hoofdstuk=III&afdeling=4&artikel=56&z=2016-05-01&g=2016-05-01), of enig andere persoon die ingevolge de wettelijke bepalingen van een andere lidstaat zekerheid heeft gesteld en alle personen die bij de onregelmatige onttrekking betrokken zijn geweest terwijl zij wisten of redelijkerwijze hadden moeten weten dat het onttrekken op onregelmatige wijze geschiedde;
+- 2°. in geval van een onregelmatigheid tijdens een overbrenging van accijnsgoederen onder een accijnsschorsingsregeling in de zin van [artikel 2c, eerste, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005251&hoofdstuk=I&afdeling=1&artikel=2c&z=2017-01-01&g=2017-01-01): de vergunninghouder van de accijnsgoederenplaats, de vergunninghouder van het belastingentrepot, de geregistreerde afzender, de vervoerder of de eigenaar van de accijnsgoederen, bedoeld in [artikel 56, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005251&hoofdstuk=III&afdeling=4&artikel=56&z=2017-01-01&g=2017-01-01), of enig andere persoon die ingevolge de wettelijke bepalingen van een andere lidstaat zekerheid heeft gesteld en alle personen die bij de onregelmatige onttrekking betrokken zijn geweest terwijl zij wisten of redelijkerwijze hadden moeten weten dat het onttrekken op onregelmatige wijze geschiedde;
 
-- b. bij toepassing van [artikel 2, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0005251&hoofdstuk=I&afdeling=1&artikel=2&z=2016-05-01&g=2016-05-01): de persoon die de accijnsgoederen voorhanden heeft en enig andere persoon die bij het voorhanden hebben ervan betrokken is;
+- b. bij toepassing van [artikel 2, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0005251&hoofdstuk=I&afdeling=1&artikel=2&z=2017-01-01&g=2017-01-01): de persoon die de accijnsgoederen voorhanden heeft en enig andere persoon die bij het voorhanden hebben ervan betrokken is;
 
-- c. bij toepassing van [artikel 2, eerste lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0005251&hoofdstuk=I&afdeling=1&artikel=2&z=2016-05-01&g=2016-05-01): de persoon die de accijnsgoederen produceert en, in geval van onregelmatige productie, enig andere persoon die bij de productie ervan betrokken is geweest;
+- c. bij toepassing van [artikel 2, eerste lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0005251&hoofdstuk=I&afdeling=1&artikel=2&z=2017-01-01&g=2017-01-01): de persoon die de accijnsgoederen produceert en, in geval van onregelmatige productie, enig andere persoon die bij de productie ervan betrokken is geweest;
 
-- d. bij toepassing van [artikel 2, eerste lid, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0005251&hoofdstuk=I&afdeling=1&artikel=2&z=2016-05-01&g=2016-05-01): de persoon die de accijnsgoederen bij invoer aangeeft of voor wiens rekening de goederen bij invoer worden aangegeven en, in geval van onregelmatige invoer, enig andere persoon die bij de invoer betrokken is geweest;
+- d. bij toepassing van [artikel 2, eerste lid, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0005251&hoofdstuk=I&afdeling=1&artikel=2&z=2017-01-01&g=2017-01-01): de persoon die de accijnsgoederen bij invoer aangeeft of voor wiens rekening de goederen bij invoer worden aangegeven en, in geval van onregelmatige invoer, enig andere persoon die bij de invoer betrokken is geweest;
 
-- e. bij toepassing van [artikel 2, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005251&hoofdstuk=I&afdeling=1&artikel=2&z=2016-05-01&g=2016-05-01): de persoon die de minerale oliën voorhanden heeft of gebruikt;
+- e. bij toepassing van [artikel 2, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005251&hoofdstuk=I&afdeling=1&artikel=2&z=2017-01-01&g=2017-01-01): de persoon die de minerale oliën voorhanden heeft of gebruikt;
 
-- f. bij toepassing van [artikel 2d, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005251&hoofdstuk=I&afdeling=1&artikel=2d&z=2016-05-01&g=2016-05-01): de particulier, bedoeld in artikel 2d, derde lid;
+- f. bij toepassing van [artikel 2d, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005251&hoofdstuk=I&afdeling=1&artikel=2d&z=2017-01-01&g=2017-01-01): de particulier, bedoeld in artikel 2d, derde lid;
 
-- g. bij toepassing van [artikel 2d, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005251&hoofdstuk=I&afdeling=1&artikel=2d&z=2016-05-01&g=2016-05-01): de particulieren, bedoeld in artikel 2d, vierde lid;
+- g. bij toepassing van [artikel 2d, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005251&hoofdstuk=I&afdeling=1&artikel=2d&z=2017-01-01&g=2017-01-01): de particulieren, bedoeld in artikel 2d, vierde lid;
 
-- h. bij toepassing van [artikel 2e, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005251&hoofdstuk=I&afdeling=1&artikel=2e&z=2016-05-01&g=2016-05-01): de persoon die de levering verricht, die de voor levering bestemde goederen voorhanden heeft of aan wie de goederen worden geleverd in Nederland, of de particulier, bedoeld in artikel 2e, tweede lid;
+- h. bij toepassing van [artikel 2e, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005251&hoofdstuk=I&afdeling=1&artikel=2e&z=2017-01-01&g=2017-01-01): de persoon die de levering verricht, die de voor levering bestemde goederen voorhanden heeft of aan wie de goederen worden geleverd in Nederland, of de particulier, bedoeld in artikel 2e, tweede lid;
 
-- i. bij toepassing van [artikel 2f, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005251&hoofdstuk=I&afdeling=1&artikel=2f&z=2016-05-01&g=2016-05-01): de door de verkoper, bedoeld in artikel 2f, eerste lid, aangewezen fiscaal vertegenwoordiger;
+- i. bij toepassing van [artikel 2f, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005251&hoofdstuk=I&afdeling=1&artikel=2f&z=2017-01-01&g=2017-01-01): de door de verkoper, bedoeld in artikel 2f, eerste lid, aangewezen fiscaal vertegenwoordiger;
 
-- j. bij toepassing van [artikel 4, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005251&hoofdstuk=I&afdeling=1&artikel=4&z=2016-05-01&g=2016-05-01): de personen, bedoeld in onderdeel h en i, en eenieder die bij de onregelmatigheid betrokken is geweest.
+- j. bij toepassing van [artikel 4, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005251&hoofdstuk=I&afdeling=1&artikel=4&z=2017-01-01&g=2017-01-01): de personen, bedoeld in onderdeel h en i, en eenieder die bij de onregelmatigheid betrokken is geweest.
 
 2. In afwijking van het eerste lid, onderdeel a, wordt, in bij algemene maatregel van bestuur aan te wijzen gevallen en onder daarbij te stellen voorwaarden, de accijns van accijnsgoederen die zijn uitgeslagen uit een accijnsgoederenplaats in opdracht van een vergunninghouder van een andere accijnsgoederenplaats voor dezelfde soort accijnsgoederen, geheven van de vergunninghouder van die andere accijnsgoederenplaats.
 
@@ -961,31 +947,31 @@ Vervallen
 
 2. Onder het tijdstip van de uitslag tot verbruik wordt verstaan:
 
-- a. in de in [artikel 2, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0005251&hoofdstuk=I&afdeling=1&artikel=2&z=2016-05-01&g=2016-05-01), bedoelde situatie: het tijdstip van de aanvang van het voorhanden hebben;
+- a. in de in [artikel 2, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0005251&hoofdstuk=I&afdeling=1&artikel=2&z=2017-01-01&g=2017-01-01), bedoelde situatie: het tijdstip van de aanvang van het voorhanden hebben;
 
-- b. bij toepassing van [artikel 2, eerste lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0005251&hoofdstuk=I&afdeling=1&artikel=2&z=2016-05-01&g=2016-05-01): het tijdstip van de productie;
+- b. bij toepassing van [artikel 2, eerste lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0005251&hoofdstuk=I&afdeling=1&artikel=2&z=2017-01-01&g=2017-01-01): het tijdstip van de productie;
 
-- c. in de in [artikel 2a, tweede lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0005251&hoofdstuk=I&afdeling=1&artikel=2a&z=2016-05-01&g=2016-05-01), bedoelde situatie: het tijdstip van ontvangst van de accijnsgoederen door de geregistreerde geadresseerde;
+- c. in de in [artikel 2a, tweede lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0005251&hoofdstuk=I&afdeling=1&artikel=2a&z=2017-01-01&g=2017-01-01), bedoelde situatie: het tijdstip van ontvangst van de accijnsgoederen door de geregistreerde geadresseerde;
 
-- d. in de in [artikel 2a, tweede lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0005251&hoofdstuk=I&afdeling=1&artikel=2a&z=2016-05-01&g=2016-05-01), bedoelde situatie: het tijdstip van ontvangst van de accijnsgoederen door de geadresseerde;
+- d. in de in [artikel 2a, tweede lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0005251&hoofdstuk=I&afdeling=1&artikel=2a&z=2017-01-01&g=2017-01-01), bedoelde situatie: het tijdstip van ontvangst van de accijnsgoederen door de geadresseerde;
 
-- e. in de in [artikel 2a, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005251&hoofdstuk=I&afdeling=1&artikel=2a&z=2016-05-01&g=2016-05-01), bedoelde situaties: het tijdstip van ontvangst van de accijnsgoederen op de plaats van rechtstreekse aflevering.
+- e. in de in [artikel 2a, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005251&hoofdstuk=I&afdeling=1&artikel=2a&z=2017-01-01&g=2017-01-01), bedoelde situaties: het tijdstip van ontvangst van de accijnsgoederen op de plaats van rechtstreekse aflevering.
 
 3. In afwijking van het eerste lid wordt de accijns verschuldigd:
 
-- a. bij toepassing van [artikel 2, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005251&hoofdstuk=I&afdeling=1&artikel=2&z=2016-05-01&g=2016-05-01): op het tijdstip van de aanvang van het voorhanden hebben of het gebruik van de minerale oliën;
+- a. bij toepassing van [artikel 2, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005251&hoofdstuk=I&afdeling=1&artikel=2&z=2017-01-01&g=2017-01-01): op het tijdstip van de aanvang van het voorhanden hebben of het gebruik van de minerale oliën;
 
-- b. bij toepassing van [artikel 2c](https://wetten.overheid.nl/jci1.3:c:BWBR0005251&hoofdstuk=I&afdeling=1&artikel=2c&z=2016-05-01&g=2016-05-01): op het tijdstip van de vaststelling van de in artikel 2c bedoelde onregelmatigheid;
+- b. bij toepassing van [artikel 2c](https://wetten.overheid.nl/jci1.3:c:BWBR0005251&hoofdstuk=I&afdeling=1&artikel=2c&z=2017-01-01&g=2017-01-01): op het tijdstip van de vaststelling van de in artikel 2c bedoelde onregelmatigheid;
 
-- c. bij toepassing van [artikel 2d, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005251&hoofdstuk=I&afdeling=1&artikel=2d&z=2016-05-01&g=2016-05-01): op het tijdstip van de aanvang van het voorhanden hebben van de accijnsgoederen in Nederland;
+- c. bij toepassing van [artikel 2d, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005251&hoofdstuk=I&afdeling=1&artikel=2d&z=2017-01-01&g=2017-01-01): op het tijdstip van de aanvang van het voorhanden hebben van de accijnsgoederen in Nederland;
 
-- d. bij toepassing van [artikel 2d, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005251&hoofdstuk=I&afdeling=1&artikel=2d&z=2016-05-01&g=2016-05-01): op het tijdstip van de verkrijging van de minerale oliën in Nederland;
+- d. bij toepassing van [artikel 2d, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005251&hoofdstuk=I&afdeling=1&artikel=2d&z=2017-01-01&g=2017-01-01): op het tijdstip van de verkrijging van de minerale oliën in Nederland;
 
-- e. bij toepassing van [artikel 2e, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005251&hoofdstuk=I&afdeling=1&artikel=2e&z=2016-05-01&g=2016-05-01): op het tijdstip van de aanvang van het voorhanden hebben van de accijnsgoederen in Nederland;
+- e. bij toepassing van [artikel 2e, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005251&hoofdstuk=I&afdeling=1&artikel=2e&z=2017-01-01&g=2017-01-01): op het tijdstip van de aanvang van het voorhanden hebben van de accijnsgoederen in Nederland;
 
-- f. bij toepassing van [artikel 2f, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005251&hoofdstuk=I&afdeling=1&artikel=2f&z=2016-05-01&g=2016-05-01): op het tijdstip van de levering van de accijnsgoederen;
+- f. bij toepassing van [artikel 2f, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005251&hoofdstuk=I&afdeling=1&artikel=2f&z=2017-01-01&g=2017-01-01): op het tijdstip van de levering van de accijnsgoederen;
 
-- g. bij toepassing van [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0005251&hoofdstuk=I&afdeling=1&artikel=4&z=2016-05-01&g=2016-05-01): op het tijdstip van de vaststelling van de in artikel 4 bedoelde onregelmatigheid.
+- g. bij toepassing van [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0005251&hoofdstuk=I&afdeling=1&artikel=4&z=2017-01-01&g=2017-01-01): op het tijdstip van de vaststelling van de in artikel 4 bedoelde onregelmatigheid.
 
 ##### Artikel 52a
 
@@ -1001,17 +987,17 @@ Vervallen
 
 ##### Artikel 53a
 
-1. In afwijking van [artikel 53, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005251&hoofdstuk=III&afdeling=3&artikel=53&z=2016-05-01&g=2016-05-01), en van [artikel 10, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=10), en [artikel 19, derde lid, van de Algemene wet inzake rijksbelastingen](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=19) wordt de accijns op aangifte voldaan:
+1. In afwijking van [artikel 53, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005251&hoofdstuk=III&afdeling=3&artikel=53&z=2017-01-01&g=2017-01-01), en van [artikel 10, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=10), en [artikel 19, derde lid, van de Algemene wet inzake rijksbelastingen](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=19) wordt de accijns op aangifte voldaan:
 
-- a. bij toepassing van [artikel 52, tweede lid, onderdelen a tot en met d](https://wetten.overheid.nl/jci1.3:c:BWBR0005251&hoofdstuk=III&afdeling=3&artikel=52&z=2016-05-01&g=2016-05-01), en, voor zover het een geregistreerde geadresseerde betreft, onderdeel e: uiterlijk op de dag na het in artikel 52, tweede lid, onderdelen a tot en met e, bedoelde tijdstip;
+- a. bij toepassing van [artikel 52, tweede lid, onderdelen a tot en met d](https://wetten.overheid.nl/jci1.3:c:BWBR0005251&hoofdstuk=III&afdeling=3&artikel=52&z=2017-01-01&g=2017-01-01), en, voor zover het een geregistreerde geadresseerde betreft, onderdeel e: uiterlijk op de dag na het in artikel 52, tweede lid, onderdelen a tot en met e, bedoelde tijdstip;
 
-- b. bij toepassing van [artikel 52, derde lid, onderdelen a, c, d en e](https://wetten.overheid.nl/jci1.3:c:BWBR0005251&hoofdstuk=III&afdeling=3&artikel=52&z=2016-05-01&g=2016-05-01): uiterlijk op de dag na het in artikel 52, derde lid, onderdelen a, c, d en e, bedoelde tijdstip;
+- b. bij toepassing van [artikel 52, derde lid, onderdelen a, c, d en e](https://wetten.overheid.nl/jci1.3:c:BWBR0005251&hoofdstuk=III&afdeling=3&artikel=52&z=2017-01-01&g=2017-01-01): uiterlijk op de dag na het in artikel 52, derde lid, onderdelen a, c, d en e, bedoelde tijdstip;
 
-- c. bij toepassing van [artikel 52, derde lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0005251&hoofdstuk=III&afdeling=3&artikel=52&z=2016-05-01&g=2016-05-01), voor zover het een ander dan de vergunninghouder van een accijnsgoederenplaats betreft: binnen één maand na het in artikel 52, derde lid, onderdeel b, bedoelde tijdstip;
+- c. bij toepassing van [artikel 52, derde lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0005251&hoofdstuk=III&afdeling=3&artikel=52&z=2017-01-01&g=2017-01-01), voor zover het een ander dan de vergunninghouder van een accijnsgoederenplaats betreft: binnen één maand na het in artikel 52, derde lid, onderdeel b, bedoelde tijdstip;
 
-- d. bij toepassing van [artikel 52, derde lid, onderdeel g](https://wetten.overheid.nl/jci1.3:c:BWBR0005251&hoofdstuk=III&afdeling=3&artikel=52&z=2016-05-01&g=2016-05-01): binnen één maand na het in artikel 52, derde lid, onderdeel g, bedoelde tijdstip.
+- d. bij toepassing van [artikel 52, derde lid, onderdeel g](https://wetten.overheid.nl/jci1.3:c:BWBR0005251&hoofdstuk=III&afdeling=3&artikel=52&z=2017-01-01&g=2017-01-01): binnen één maand na het in artikel 52, derde lid, onderdeel g, bedoelde tijdstip.
 
-2. In afwijking in zoverre van het eerste lid doet de geregistreerde geadresseerde aangifte van de in een week op de voet van [artikel 52, tweede lid, onderdelen c en e](https://wetten.overheid.nl/jci1.3:c:BWBR0005251&hoofdstuk=III&afdeling=3&artikel=52&z=2016-05-01&g=2016-05-01), verschuldigd geworden accijns uiterlijk op de vrijdag van de week daaropvolgend. De verschuldigd geworden accijns wordt op aangifte voldaan.
+2. In afwijking in zoverre van het eerste lid doet de geregistreerde geadresseerde aangifte van de in een week op de voet van [artikel 52, tweede lid, onderdelen c en e](https://wetten.overheid.nl/jci1.3:c:BWBR0005251&hoofdstuk=III&afdeling=3&artikel=52&z=2017-01-01&g=2017-01-01), verschuldigd geworden accijns uiterlijk op de vrijdag van de week daaropvolgend. De verschuldigd geworden accijns wordt op aangifte voldaan.
 
 ##### Artikel 54
 
@@ -1023,7 +1009,7 @@ Vervallen
 
 1. De accijns wordt berekend naar het tarief dat geldt op het tijdstip van de uitslag tot verbruik.
 
-2. In de situatie, bedoeld in [artikel 2, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005251&hoofdstuk=I&afdeling=1&artikel=2&z=2016-05-01&g=2016-05-01), wordt de accijns berekend als het verschil tussen het bedrag aan accijns dat is geheven en het bedrag dat zou zijn geheven indien geen herkenningsmiddelen zouden zijn toegevoegd.
+2. In de situatie, bedoeld in [artikel 2, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005251&hoofdstuk=I&afdeling=1&artikel=2&z=2017-01-01&g=2017-01-01), wordt de accijns berekend als het verschil tussen het bedrag aan accijns dat is geheven en het bedrag dat zou zijn geheven indien geen herkenningsmiddelen zouden zijn toegevoegd.
 
 3. Voor de berekening van de accijns, bedoeld in het tweede lid, wordt de hoeveelheid vastgesteld op de maximuminhoud van de tank of het reservoir waarin de brandstof voorhanden is of is geweest.
 
@@ -1033,9 +1019,9 @@ Vervallen
 
 1. De vergunninghouder van een accijnsgoederenplaats en de geregistreerde afzender stellen zekerheid voor de accijns die zij verschuldigd zijn of kunnen worden in Nederland dan wel in een andere lidstaat.
 
-2. De geregistreerde geadresseerde en de fiscaal vertegenwoordiger, bedoeld in [artikel 50f](https://wetten.overheid.nl/jci1.3:c:BWBR0005251&hoofdstuk=III&afdeling=2b&artikel=50f&z=2016-05-01&g=2016-05-01), stellen zekerheid voor de accijns die zij verschuldigd zijn of kunnen worden.
+2. De geregistreerde geadresseerde en de fiscaal vertegenwoordiger, bedoeld in [artikel 50f](https://wetten.overheid.nl/jci1.3:c:BWBR0005251&hoofdstuk=III&afdeling=2b&artikel=50f&z=2017-01-01&g=2017-01-01), stellen zekerheid voor de accijns die zij verschuldigd zijn of kunnen worden.
 
-3. In afwijking van het eerste lid kan de inspecteur, onder bij algemene maatregel van bestuur te stellen voorwaarden en beperkingen, toestaan dat de vervoerder of de eigenaar van de accijnsgoederen zekerheid stelt in plaats van de vergunninghouder en de geregistreerde afzender, bedoeld in het eerste lid. De zekerheid wordt gesteld voor het bedrag aan accijns dat wordt vertegenwoordigd door de hoeveelheid accijnsgoederen die door of namens de vervoerder of de eigenaar wordt vervoerd naar de in [artikel 2a, eerste en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005251&hoofdstuk=I&afdeling=1&artikel=2a&z=2016-05-01&g=2016-05-01), bedoelde bestemmingen.
+3. In afwijking van het eerste lid kan de inspecteur, onder bij algemene maatregel van bestuur te stellen voorwaarden en beperkingen, toestaan dat de vervoerder of de eigenaar van de accijnsgoederen zekerheid stelt in plaats van de vergunninghouder en de geregistreerde afzender, bedoeld in het eerste lid. De zekerheid wordt gesteld voor het bedrag aan accijns dat wordt vertegenwoordigd door de hoeveelheid accijnsgoederen die door of namens de vervoerder of de eigenaar wordt vervoerd naar de in [artikel 2a, eerste en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005251&hoofdstuk=I&afdeling=1&artikel=2a&z=2017-01-01&g=2017-01-01), bedoelde bestemmingen.
 
 4. Het stellen van zekerheid als bedoeld in het eerste lid kan op verzoek achterwege blijven voor minerale oliën die vanuit een accijnsgoederenplaats over zee of door middel van een pijpleiding worden overgebracht. De inspecteur beslist op het verzoek bij voor bezwaar vatbare beschikking.
 
@@ -1051,13 +1037,13 @@ Vervallen
 
 1. Het bedrag van de zekerheid kan door de inspecteur worden gewijzigd.
 
-2. Degene die op grond van [artikel 56](https://wetten.overheid.nl/jci1.3:c:BWBR0005251&hoofdstuk=III&afdeling=4&artikel=56&z=2016-05-01&g=2016-05-01) zekerheid heeft gesteld kan een verzoek tot verlaging van het bedrag van de zekerheid indienen.
+2. Degene die op grond van [artikel 56](https://wetten.overheid.nl/jci1.3:c:BWBR0005251&hoofdstuk=III&afdeling=4&artikel=56&z=2017-01-01&g=2017-01-01) zekerheid heeft gesteld kan een verzoek tot verlaging van het bedrag van de zekerheid indienen.
 
 3. Bij verhoging van het bedrag van de zekerheid draagt degene die zekerheid heeft gesteld zorg dat binnen een maand na de bekendmaking ervan de zekerheid is aangevuld.
 
 ##### Artikel 58
 
-1. Het vaststellen en het wijzigen van het bedrag van de zekerheid alsmede het afwijzen van een verzoek als bedoeld in [artikel 57, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005251&hoofdstuk=III&afdeling=4&artikel=57&z=2016-05-01&g=2016-05-01), geschieden bij voor bezwaar vatbare beschikking.
+1. Het vaststellen en het wijzigen van het bedrag van de zekerheid alsmede het afwijzen van een verzoek als bedoeld in [artikel 57, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005251&hoofdstuk=III&afdeling=4&artikel=57&z=2017-01-01&g=2017-01-01), geschieden bij voor bezwaar vatbare beschikking.
 
 2. Binnen acht weken na ontvangst van het verzoek geeft de inspecteur een voor bezwaar vatbare beschikking op dat verzoek, dan wel zendt hij de in het derde lid bedoelde kennisgeving.
 
@@ -1089,13 +1075,13 @@ Vervallen
 
 ##### Artikel 61a
 
-De vervoerder van accijnsgoederen is hoofdelijk aansprakelijk voor het bedrag aan accijns dat wordt vertegenwoordigd door de hoeveelheid accijnsgoederen die door hem wordt vervoerd vanuit een accijnsgoederenplaats of van de plaats van invoer, bedoeld in [artikel 2a, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005251&hoofdstuk=I&afdeling=1&artikel=2a&z=2016-05-01&g=2016-05-01), naar een andere accijnsgoederenplaats, naar een belastingentrepot, naar een geregistreerde geadresseerde in een andere lidstaat of naar een plaats waar de accijnsgoederen het grondgebied van de Unie verlaten, indien tijdens dat vervoer door hem of door zijn toedoen een onregelmatigheid heeft plaatsgevonden.
+De vervoerder van accijnsgoederen is hoofdelijk aansprakelijk voor het bedrag aan accijns dat wordt vertegenwoordigd door de hoeveelheid accijnsgoederen die door hem wordt vervoerd vanuit een accijnsgoederenplaats of van de plaats van invoer, bedoeld in [artikel 2a, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005251&hoofdstuk=I&afdeling=1&artikel=2a&z=2017-01-01&g=2017-01-01), naar een andere accijnsgoederenplaats, naar een belastingentrepot, naar een geregistreerde geadresseerde in een andere lidstaat of naar een plaats waar de accijnsgoederen het grondgebied van de Unie verlaten, indien tijdens dat vervoer door hem of door zijn toedoen een onregelmatigheid heeft plaatsgevonden.
 
 ### Hoofdstuk IV. Invoer
 
 ##### Artikel 62
 
-Onverminderd [artikel 51, eerste lid, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0005251&hoofdstuk=III&afdeling=3&artikel=51&z=2016-05-01&g=2016-05-01), zijn ter zake van de uitslag tot verbruik, bedoeld in [artikel 2, eerste lid, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0005251&hoofdstuk=I&afdeling=1&artikel=2&z=2016-05-01&g=2016-05-01) de wettelijke bepalingen, bedoeld in [artikel 1:1, eerste en tweede lid, van de Algemene douanewet](https://wetten.overheid.nl/jci1.3:c:BWBR0023746&artikel=1:1), met uitzondering van artikel 88 van de Gedelegeerde Verordening Douanewetboek van de Unie, van overeenkomstige toepassing.
+Onverminderd [artikel 51, eerste lid, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0005251&hoofdstuk=III&afdeling=3&artikel=51&z=2017-01-01&g=2017-01-01), zijn ter zake van de uitslag tot verbruik, bedoeld in [artikel 2, eerste lid, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0005251&hoofdstuk=I&afdeling=1&artikel=2&z=2017-01-01&g=2017-01-01) de wettelijke bepalingen, bedoeld in [artikel 1:1, eerste en tweede lid, van de Algemene douanewet](https://wetten.overheid.nl/jci1.3:c:BWBR0023746&artikel=1:1), met uitzondering van artikel 88 van de Gedelegeerde Verordening Douanewetboek van de Unie, van overeenkomstige toepassing.
 
 ##### Artikel 63
 
@@ -1135,11 +1121,11 @@ Onverminderd [artikel 51, eerste lid, onderdeel d](https://wetten.overheid.nl/jc
 
 1. Onder bij algemene maatregel van bestuur te stellen voorwaarden en beperkingen wordt vrijstelling van accijns verleend ter zake van de uitslag tot verbruik van accijnsgoederen:
 
-- a. waarvan de in [artikel 64](https://wetten.overheid.nl/jci1.3:c:BWBR0005251&hoofdstuk=V&afdeling=1&artikel=64&z=2016-05-01&g=2016-05-01) voor de desbetreffende accijnsgoederen aangegeven bestemming niet of niet voldoende blijkt uit de goederen als zodanig, indien degene die de goederen betrekt deze gebruikt voor het vervaardigen van accijnsgoederen als bedoeld in [artikel 64](https://wetten.overheid.nl/jci1.3:c:BWBR0005251&hoofdstuk=V&afdeling=1&artikel=64&z=2016-05-01&g=2016-05-01) dan wel deze gebruikt overeenkomstig de in dat artikel voor het desbetreffende accijnsgoed bedoelde bestemming;
+- a. waarvan de in [artikel 64](https://wetten.overheid.nl/jci1.3:c:BWBR0005251&hoofdstuk=V&afdeling=1&artikel=64&z=2017-01-01&g=2017-01-01) voor de desbetreffende accijnsgoederen aangegeven bestemming niet of niet voldoende blijkt uit de goederen als zodanig, indien degene die de goederen betrekt deze gebruikt voor het vervaardigen van accijnsgoederen als bedoeld in [artikel 64](https://wetten.overheid.nl/jci1.3:c:BWBR0005251&hoofdstuk=V&afdeling=1&artikel=64&z=2017-01-01&g=2017-01-01) dan wel deze gebruikt overeenkomstig de in dat artikel voor het desbetreffende accijnsgoed bedoelde bestemming;
 
 - b. die door degene die de goederen betrekt, worden gebruikt als grondstof voor het vervaardigen van niet-accijnsgoederen.
 
-2. Voor de toepassing van dit artikel worden onder niet-accijnsgoederen mede verstaan minerale oliën als bedoeld in [artikel 5, derde lid, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0005251&hoofdstuk=I&afdeling=2&artikel=5&z=2016-05-01&g=2016-05-01).
+2. Voor de toepassing van dit artikel worden onder niet-accijnsgoederen mede verstaan minerale oliën als bedoeld in [artikel 5, derde lid, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0005251&hoofdstuk=I&afdeling=2&artikel=5&z=2017-01-01&g=2017-01-01).
 
 3. Behoudens in bij algemene maatregel van bestuur aan te wijzen gevallen is degene die accijnsgoederen met vrijstelling van accijns betrekt in het bezit van een daartoe strekkende vergunning.
 
@@ -1169,7 +1155,7 @@ Onverminderd [artikel 51, eerste lid, onderdeel d](https://wetten.overheid.nl/jc
 
 ##### Artikel 66a
 
-1. Onverminderd het bepaalde in [artikel 66, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005251&hoofdstuk=V&afdeling=1&artikel=66&z=2016-05-01&g=2016-05-01), wordt onder bij algemene maatregel van bestuur te stellen voorwaarden en beperkingen vrijstelling van accijns verleend ter zake van de uitslag tot verbruik van accijnsgoederen die worden gebruikt:
+1. Onverminderd het bepaalde in [artikel 66, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005251&hoofdstuk=V&afdeling=1&artikel=66&z=2017-01-01&g=2017-01-01), wordt onder bij algemene maatregel van bestuur te stellen voorwaarden en beperkingen vrijstelling van accijns verleend ter zake van de uitslag tot verbruik van accijnsgoederen die worden gebruikt:
 
 - a. aan boord van schepen in het verkeer van Nederland naar een andere lidstaat, anders dan over de binnenwateren;
 
@@ -1207,15 +1193,15 @@ Vervallen
 
 1. Onder bij algemene maatregel van bestuur te stellen voorwaarden en beperkingen wordt op verzoek teruggaaf van accijns verleend:
 
-- a. voor accijnsgoederen in gevallen waarin deze accijnsgoederen op de voet van [artikel 65](https://wetten.overheid.nl/jci1.3:c:BWBR0005251&hoofdstuk=V&afdeling=1&artikel=65&z=2016-05-01&g=2016-05-01) zouden kunnen worden betrokken met vrijstelling;
+- a. voor accijnsgoederen in gevallen waarin deze accijnsgoederen op de voet van [artikel 65](https://wetten.overheid.nl/jci1.3:c:BWBR0005251&hoofdstuk=V&afdeling=1&artikel=65&z=2017-01-01&g=2017-01-01) zouden kunnen worden betrokken met vrijstelling;
 
-- b. ter zake van de levering van minerale oliën waarvoor op de voet van [artikel 66](https://wetten.overheid.nl/jci1.3:c:BWBR0005251&hoofdstuk=V&afdeling=1&artikel=66&z=2016-05-01&g=2016-05-01) aanspraak op een vrijstelling zou bestaan;
+- b. ter zake van de levering van minerale oliën waarvoor op de voet van [artikel 66](https://wetten.overheid.nl/jci1.3:c:BWBR0005251&hoofdstuk=V&afdeling=1&artikel=66&z=2017-01-01&g=2017-01-01) aanspraak op een vrijstelling zou bestaan;
 
-- c. ter zake van accijnsgoederen waarvoor op de voet van [artikel 66a](https://wetten.overheid.nl/jci1.3:c:BWBR0005251&hoofdstuk=V&afdeling=1&artikel=66a&z=2016-05-01&g=2016-05-01) aanspraak op vrijstelling zou bestaan;
+- c. ter zake van accijnsgoederen waarvoor op de voet van [artikel 66a](https://wetten.overheid.nl/jci1.3:c:BWBR0005251&hoofdstuk=V&afdeling=1&artikel=66a&z=2017-01-01&g=2017-01-01) aanspraak op vrijstelling zou bestaan;
 
-- d. voor minerale oliën waarvoor op de voet van [artikel 67](https://wetten.overheid.nl/jci1.3:c:BWBR0005251&hoofdstuk=V&afdeling=1&artikel=67&z=2016-05-01&g=2016-05-01) aanspraak op een vrijstelling zou bestaan.
+- d. voor minerale oliën waarvoor op de voet van [artikel 67](https://wetten.overheid.nl/jci1.3:c:BWBR0005251&hoofdstuk=V&afdeling=1&artikel=67&z=2017-01-01&g=2017-01-01) aanspraak op een vrijstelling zou bestaan.
 
-2. De teruggaaf als bedoeld in het eerste lid, onderdeel a, wordt verleend aan degene die een vergunning heeft ingevolge [artikel 65, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005251&hoofdstuk=V&afdeling=1&artikel=65&z=2016-05-01&g=2016-05-01).
+2. De teruggaaf als bedoeld in het eerste lid, onderdeel a, wordt verleend aan degene die een vergunning heeft ingevolge [artikel 65, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005251&hoofdstuk=V&afdeling=1&artikel=65&z=2017-01-01&g=2017-01-01).
 
 3. De teruggaaf als bedoeld in het eerste lid, onderdelen b en c, wordt verleend aan degene die de levering heeft verricht.
 
@@ -1243,29 +1229,17 @@ Vervallen
 
 ##### Artikel 71a
 
-1. Op verzoek wordt teruggaaf van accijns verleend, indien bij toepassing van [artikel 2c, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005251&hoofdstuk=I&afdeling=1&artikel=2c&z=2016-05-01&g=2016-05-01), of van [artikel 4, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005251&hoofdstuk=I&afdeling=1&artikel=4&z=2016-05-01&g=2016-05-01), is aangetoond dat de accijns door de andere lidstaat is geheven.
+1. Op verzoek wordt teruggaaf van accijns verleend, indien bij toepassing van [artikel 2c, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005251&hoofdstuk=I&afdeling=1&artikel=2c&z=2017-01-01&g=2017-01-01), of van [artikel 4, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005251&hoofdstuk=I&afdeling=1&artikel=4&z=2017-01-01&g=2017-01-01), is aangetoond dat de accijns door de andere lidstaat is geheven.
 
 2. Bij ministeriële regeling kunnen nadere regels worden gesteld ten behoeve van de uitvoering van dit artikel.
 
 ##### Artikel 71b
 
-1. Op verzoek wordt teruggaaf van accijns verleend voor vloeibaar gemaakt petroleumgas dat is belast naar het tarief, bedoeld in [artikel 27, eerste lid, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0005251&hoofdstuk=II&afdeling=6&artikel=27&z=2016-05-01&g=2016-05-01), indien dat petroleumgas is afgeleverd in de brandstoftanks van en is gebruikt voor het aandrijven op de weg van een autobus die hoofdzakelijk wordt gebruikt voor het openbaar vervoer, bedoeld in [artikel 1, onderdeel h, van de Wet personenvervoer 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011470&artikel=1). Onder een autobus wordt in dit artikel en de daarop berustende bepalingen verstaan een autobus als bedoeld in [artikel 2, onderdeel e, van de Wet op de motorrijtuigenbelasting 1994](https://wetten.overheid.nl/jci1.3:c:BWBR0006324&artikel=2).
-
-2. De teruggaaf bedraagt € 51,42 per 1000 kg.
-
-3. De teruggaaf wordt verleend aan de vervoerder, bedoeld in [artikel 1, onderdeel k, van de Wet personenvervoer 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011470&artikel=1) aan wie vergunning als bedoeld in [artikel 4, eerste lid, van de Wet personenvervoer 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011470&artikel=4) is verleend en op wiens naam de autobus is ingeschreven in het kentekenregister, bedoeld in [artikel 1, eerste lid, onderdeel i, van de Wegenverkeerswet 1994](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=1), op het tijdstip waarop het vloeibaar gemaakt petroleumgas is afgeleverd in de brandstoftank van de autobus.
-
-4. Bij ministeriële regeling kunnen nadere voorwaarden en beperkingen worden gesteld ter uitvoering van de teruggaaf.
+Vervallen
 
 ##### Artikel 71c
 
-1. Op verzoek wordt teruggaaf van accijns verleend voor vloeibaar gemaakt petroleumgas dat is belast naar het tarief, bedoeld in [artikel 27, eerste lid, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0005251&hoofdstuk=II&afdeling=6&artikel=27&z=2016-05-01&g=2016-05-01), indien dat petroleumgas is afgeleverd in de brandstoftanks van en is gebruikt voor het aandrijven op de weg van motorrijtuigen die zijn ingericht en uitsluitend worden gebruikt als vuilniswagen, kolkenzuiger of straatveegwagen.
-
-2. De teruggaaf bedraagt € 51,42 per 1 000 kg.
-
-3. De teruggaaf wordt verleend aan degene op wiens naam de vuilniswagen, kolkenzuiger of straatveegwagen is ingeschreven in het kentekenregister, bedoeld in [artikel 1, eerste lid, onderdeel i, van de Wegenverkeerswet 1994](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=1), op het tijdstip waarop het vloeibaar gemaakt petroleumgas is afgeleverd in de brandstoftank van de in het eerste lid bedoelde motorrijtuigen.
-
-4. Bij ministeriële regeling kunnen nadere voorwaarden en beperkingen worden gesteld ter uitvoering van de teruggaaf.
+Vervallen
 
 ##### Artikel 72
 
@@ -1281,13 +1255,13 @@ Vervallen
 
 1. Tabaksproducten moeten bij de uitslag tot verbruik zijn voorzien van het voor het desbetreffende tabaksproduct voorgeschreven accijnszegel. De accijnszegels zijn staatseigendom.
 
-2. Tabaksproducten die zijn bestemd voor het verbruik, bedoeld in [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005251&hoofdstuk=I&afdeling=1&artikel=2&z=2016-05-01&g=2016-05-01), mogen niet zijn voorzien van een accijnszegel.
+2. Tabaksproducten die zijn bestemd voor het verbruik, bedoeld in [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005251&hoofdstuk=I&afdeling=1&artikel=2&z=2017-01-01&g=2017-01-01), mogen niet zijn voorzien van een accijnszegel.
 
 3. Bij ministeriële regeling kunnen, onder daarbij te stellen voorwaarden, gevallen worden aangewezen waarin het eerste lid niet van toepassing is.
 
 ##### Artikel 74
 
-Een vergunning voor een accijnsgoederenplaats voor tabaksproducten kan, onverminderd het bepaalde in de[artikelen 40, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005251&hoofdstuk=III&afdeling=1&artikel=40&z=2016-05-01&g=2016-05-01), en [41](https://wetten.overheid.nl/jci1.3:c:BWBR0005251&hoofdstuk=III&afdeling=1&artikel=41&z=2016-05-01&g=2016-05-01), uitsluitend worden verkregen door degene die:
+Een vergunning voor een accijnsgoederenplaats voor tabaksproducten kan, onverminderd het bepaalde in de[artikelen 40, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005251&hoofdstuk=III&afdeling=1&artikel=40&z=2017-01-01&g=2017-01-01), en [41](https://wetten.overheid.nl/jci1.3:c:BWBR0005251&hoofdstuk=III&afdeling=1&artikel=41&z=2017-01-01&g=2017-01-01), uitsluitend worden verkregen door degene die:
 
 - a. tabaksproducten vervaardigt;
 
@@ -1295,7 +1269,7 @@ Een vergunning voor een accijnsgoederenplaats voor tabaksproducten kan, onvermin
 
 - c. buiten Nederland vervaardigde tabaksproducten opslaat die buiten Nederland zijn voorzien van door hem aangevraagde Nederlandse accijnszegels;
 
-- d. tabaksproducten opslaat die zijn bestemd voor de in [artikel 66a](https://wetten.overheid.nl/jci1.3:c:BWBR0005251&hoofdstuk=V&afdeling=1&artikel=66a&z=2016-05-01&g=2016-05-01) bedoelde bevoorrading van schepen en luchtvaartuigen of die vanuit die plaats worden overgebracht naar een belastingentrepot, naar een in een andere lidstaat gevestigde geregistreerde geadresseerde of naar een derde land.
+- d. tabaksproducten opslaat die zijn bestemd voor de in [artikel 66a](https://wetten.overheid.nl/jci1.3:c:BWBR0005251&hoofdstuk=V&afdeling=1&artikel=66a&z=2017-01-01&g=2017-01-01) bedoelde bevoorrading van schepen en luchtvaartuigen of die vanuit die plaats worden overgebracht naar een belastingentrepot, naar een in een andere lidstaat gevestigde geregistreerde geadresseerde of naar een derde land.
 
 ##### Artikel 75
 
@@ -1341,13 +1315,13 @@ De inspecteur beslist bij afwijzing van de aanvraag van accijnszegels bij voor b
 
 ##### Artikel 76
 
-1. Om de in [artikel 75, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005251&hoofdstuk=VI&afdeling=1&artikel=75&z=2016-05-01&g=2016-05-01), bedoelde toestemming te kunnen verkrijgen stelt degene die de accijnszegels aanvraagt zekerheid voor het bedrag aan accijns dat de accijnszegels vertegenwoordigen.
+1. Om de in [artikel 75, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005251&hoofdstuk=VI&afdeling=1&artikel=75&z=2017-01-01&g=2017-01-01), bedoelde toestemming te kunnen verkrijgen stelt degene die de accijnszegels aanvraagt zekerheid voor het bedrag aan accijns dat de accijnszegels vertegenwoordigen.
 
 2. Het bedrag van de zekerheid wordt door de inspecteur vastgesteld bij voor bezwaar vatbare beschikking. De vaststelling geschiedt tot een zodanig bedrag dat het bedrag aan accijns dat de zegels vertegenwoordigen voldoende verzekerd kan worden geacht.
 
-3. Indien de vergunninghouder van een accijnsgoederenplaats en de geregistreerde geadresseerde zekerheid hebben gesteld op de voet van [artikel 56](https://wetten.overheid.nl/jci1.3:c:BWBR0005251&hoofdstuk=III&afdeling=4&artikel=56&z=2016-05-01&g=2016-05-01) kan die zekerheid mede dienen als zekerheid als bedoeld in het eerste lid.
+3. Indien de vergunninghouder van een accijnsgoederenplaats en de geregistreerde geadresseerde zekerheid hebben gesteld op de voet van [artikel 56](https://wetten.overheid.nl/jci1.3:c:BWBR0005251&hoofdstuk=III&afdeling=4&artikel=56&z=2017-01-01&g=2017-01-01) kan die zekerheid mede dienen als zekerheid als bedoeld in het eerste lid.
 
-4. Met betrekking tot de zekerheid, bedoeld in het eerste lid, zijn de [artikelen 57 tot en met 60](https://wetten.overheid.nl/jci1.3:c:BWBR0005251&hoofdstuk=III&afdeling=4&artikel=57&z=2016-05-01&g=2016-05-01) van overeenkomstige toepassing.
+4. Met betrekking tot de zekerheid, bedoeld in het eerste lid, zijn de [artikelen 57 tot en met 60](https://wetten.overheid.nl/jci1.3:c:BWBR0005251&hoofdstuk=III&afdeling=4&artikel=57&z=2017-01-01&g=2017-01-01) van overeenkomstige toepassing.
 
 5. Bij ministeriële regeling kunnen nadere regels worden gesteld ten behoeve van de uitvoering van dit artikel.
 
@@ -1427,7 +1401,7 @@ De inspecteur beslist bij afwijzing van de aanvraag van accijnszegels bij voor b
 
 ##### Artikel 81
 
-In de vergunning voor een accijnsgoederenplaats voor tabaksproducten kan worden toegestaan dat de vergunninghouder onder daarbij te stellen voorwaarden gedeeltelijk tot verbruik bereide tabak en tabaksproducten, al dan niet voorzien van accijnszegels, tijdelijk buiten de accijnsgoederenplaats bepaalde bewerkingen of verpakkingshandelingen kan laten ondergaan zonder dat het tijdelijk buiten de accijnsgoederenplaats brengen van die producten, in afwijking van [artikel 2, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0005251&hoofdstuk=I&afdeling=1&artikel=2&z=2016-05-01&g=2016-05-01), wordt aangemerkt als uitslag tot verbruik.
+In de vergunning voor een accijnsgoederenplaats voor tabaksproducten kan worden toegestaan dat de vergunninghouder onder daarbij te stellen voorwaarden gedeeltelijk tot verbruik bereide tabak en tabaksproducten, al dan niet voorzien van accijnszegels, tijdelijk buiten de accijnsgoederenplaats bepaalde bewerkingen of verpakkingshandelingen kan laten ondergaan zonder dat het tijdelijk buiten de accijnsgoederenplaats brengen van die producten, in afwijking van [artikel 2, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0005251&hoofdstuk=I&afdeling=1&artikel=2&z=2017-01-01&g=2017-01-01), wordt aangemerkt als uitslag tot verbruik.
 
 ##### Artikel 82
 
@@ -1451,6 +1425,8 @@ In de vergunning voor een accijnsgoederenplaats voor tabaksproducten kan worden 
 
 5. De in het vierde lid bedoelde ambtenaren zijn bevoegd een vervoermiddel, als bedoeld in het vierde lid, te brengen of te doen brengen naar een nabij gelegen plaats. De gezagvoerder of bestuurder is verplicht desgevorderd zijn voor het onderzoek en het vervoer noodzakelijke medewerking te verlenen en de ambtenaren met het vervoermiddel te vervoeren.
 
+6. De inspecteur kan bij het onderzoek, bedoeld in het eerste en tweede lid, gebruikmaken van de benodigde apparatuur of dieren.
+
 ##### Artikel 84
 
 1. De inspecteur of een door hem aangewezen ambtenaar die het onderzoek verricht, kan vorderen dat van goederen één of meer monsters worden verstrekt.
@@ -1461,13 +1437,13 @@ In de vergunning voor een accijnsgoederenplaats voor tabaksproducten kan worden 
 
 ##### Artikel 84a
 
-1. In geval van verhoging van de accijns, bedoeld in [artikel 27, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005251&hoofdstuk=II&afdeling=6&artikel=27&z=2016-05-01&g=2016-05-01), wordt ter zake van het bij het ingaan van die verhoging voorhanden hebben in een opslagplaats van de desbetreffende minerale oliën, accijns geheven, die per 1000 L bij een temperatuur van 15°C onderscheidenlijk per 1000 kg gelijk is aan de verhoging van het daarvoor in artikel 27, eerste lid, vermelde bedrag.
+1. In geval van verhoging van de accijns, bedoeld in [artikel 27, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005251&hoofdstuk=II&afdeling=6&artikel=27&z=2017-01-01&g=2017-01-01), wordt ter zake van het bij het ingaan van die verhoging voorhanden hebben in een opslagplaats van de desbetreffende minerale oliën, accijns geheven, die per 1000 L bij een temperatuur van 15°C onderscheidenlijk per 1000 kg gelijk is aan de verhoging van het daarvoor in artikel 27, eerste lid, vermelde bedrag.
 
 Onder het voorhanden hebben wordt mede begrepen het vervoer naar een opslagplaats.
 
 2. Aan de accijns, bedoeld in het eerste lid, zijn niet onderworpen minerale oliën:
 
-- a. waarvoor het tijdstip waarop de accijns, bedoeld in [artikel 27, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005251&hoofdstuk=II&afdeling=6&artikel=27&z=2016-05-01&g=2016-05-01), verschuldigd wordt, is gelegen op of na het tijdstip van de in het eerste lid bedoelde verhoging;
+- a. waarvoor het tijdstip waarop de accijns, bedoeld in [artikel 27, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005251&hoofdstuk=II&afdeling=6&artikel=27&z=2017-01-01&g=2017-01-01), verschuldigd wordt, is gelegen op of na het tijdstip van de in het eerste lid bedoelde verhoging;
 
 - b. waarvoor een vrijstelling van accijns geldt.
 
@@ -1483,11 +1459,11 @@ Onder het voorhanden hebben wordt mede begrepen het vervoer naar een opslagplaat
 
 ##### Artikel 84b
 
-1. In geval van verlaging van de accijns, bedoeld in [artikel 27, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005251&hoofdstuk=II&afdeling=6&artikel=27&z=2016-05-01&g=2016-05-01), wordt voor de desbetreffende minerale oliën die bij het ingaan van de verlaging voorhanden zijn in een opslagplaats, op verzoek teruggaaf van accijns verleend, die per 1000 L bij een temperatuur van 15° C onderscheidenlijk per 1000 kg gelijk is aan de verlaging van het daarvoor in artikel 27, eerste lid, vermelde bedrag.
+1. In geval van verlaging van de accijns, bedoeld in [artikel 27, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005251&hoofdstuk=II&afdeling=6&artikel=27&z=2017-01-01&g=2017-01-01), wordt voor de desbetreffende minerale oliën die bij het ingaan van de verlaging voorhanden zijn in een opslagplaats, op verzoek teruggaaf van accijns verleend, die per 1000 L bij een temperatuur van 15° C onderscheidenlijk per 1000 kg gelijk is aan de verlaging van het daarvoor in artikel 27, eerste lid, vermelde bedrag.
 
 Onder voorhanden zijn wordt mede begrepen vervoer naar een opslagplaats.
 
-2. [Artikel 84a, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005251&hoofdstuk=VI&afdeling=2A&artikel=84a&z=2016-05-01&g=2016-05-01), zijn van overeenkomstige toepassing.
+2. [Artikel 84a, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005251&hoofdstuk=VI&afdeling=2A&artikel=84a&z=2017-01-01&g=2017-01-01), zijn van overeenkomstige toepassing.
 
 3. De eigenaar van de in de opslagplaats voorhanden minerale oliën dient uiterlijk de vijfde werkdag na het ingaan van de verlaging het verzoek om teruggaaf te doen bij de inspecteur.
 
@@ -1497,7 +1473,7 @@ Onder voorhanden zijn wordt mede begrepen vervoer naar een opslagplaats.
 
 ##### Artikel 84c
 
-Bij wijziging van de accijns op grond van [artikel 27**a**](https://wetten.overheid.nl/jci1.3:c:BWBR0005251&hoofdstuk=II&afdeling=6&artikel=27a&z=2016-05-01&g=2016-05-01) kan bij de daartoe strekkende ministeriële regeling worden bepaald dat [artikel 84**a**](https://wetten.overheid.nl/jci1.3:c:BWBR0005251&hoofdstuk=VI&afdeling=2A&artikel=84a&z=2016-05-01&g=2016-05-01) of [artikel 84**b**](https://wetten.overheid.nl/jci1.3:c:BWBR0005251&hoofdstuk=VI&afdeling=2A&artikel=84b&z=2016-05-01&g=2016-05-01) geen toepassing vindt.
+Bij wijziging van de accijns op grond van [artikel 27**a**](https://wetten.overheid.nl/jci1.3:c:BWBR0005251&hoofdstuk=II&afdeling=6&artikel=27a&z=2017-01-01&g=2017-01-01) kan bij de daartoe strekkende ministeriële regeling worden bepaald dat [artikel 84**a**](https://wetten.overheid.nl/jci1.3:c:BWBR0005251&hoofdstuk=VI&afdeling=2A&artikel=84a&z=2017-01-01&g=2017-01-01) of [artikel 84**b**](https://wetten.overheid.nl/jci1.3:c:BWBR0005251&hoofdstuk=VI&afdeling=2A&artikel=84b&z=2017-01-01&g=2017-01-01) geen toepassing vindt.
 
 ### Afdeling 2A. Wijziging van de accijns van minerale oliën
 
@@ -1557,7 +1533,7 @@ Vervallen
 
 - b. distilleertoestellen worden aangewezen waarvoor geen vergunning is vereist.
 
-8. [Artikel 83](https://wetten.overheid.nl/jci1.3:c:BWBR0005251&hoofdstuk=VI&afdeling=2&artikel=83&z=2016-05-01&g=2016-05-01) is van overeenkomstige toepassing op plaatsen waar distilleertoestellen worden vervaardigd of voorhanden zijn.
+8. [Artikel 83](https://wetten.overheid.nl/jci1.3:c:BWBR0005251&hoofdstuk=VI&afdeling=2&artikel=83&z=2017-01-01&g=2017-01-01) is van overeenkomstige toepassing op plaatsen waar distilleertoestellen worden vervaardigd of voorhanden zijn.
 
 9. [Paragraaf 4.1.3.3 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&paragraaf=4.1.3.3) is van toepassing op de vergunning als bedoeld in het eerste lid.
 
@@ -1595,7 +1571,7 @@ Vervallen
 
 2. Het eerste lid is niet van toepassing indien:
 
-- a. voor de in dat lid bedoelde accijnsgoederenplaats ingevolge [artikel 53, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005251&hoofdstuk=III&afdeling=3&artikel=53&z=2016-05-01&g=2016-05-01), aangifte wordt gedaan door dezelfde vergunninghouder;
+- a. voor de in dat lid bedoelde accijnsgoederenplaats ingevolge [artikel 53, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005251&hoofdstuk=III&afdeling=3&artikel=53&z=2017-01-01&g=2017-01-01), aangifte wordt gedaan door dezelfde vergunninghouder;
 
 - b. de accijnszegels zijn aangevraagd door de vergunninghouder van de accijnsgoederenplaats waarin de tabaksproducten worden ingeslagen.
 
@@ -1603,13 +1579,13 @@ Vervallen
 
 ##### Artikel 94
 
-1. Het is degene die op grond van [artikel 75](https://wetten.overheid.nl/jci1.3:c:BWBR0005251&hoofdstuk=VI&afdeling=1&artikel=75&z=2016-05-01&g=2016-05-01) accijnszegels kan aanvragen niet toegestaan een zelfde tabaksprodukt onder meer dan één kleinhandelsprijs in de handel te brengen of te doen brengen, tenzij in het merk of door een merk waaronder het is verpakt op duidelijke wijze een onderscheid is gemaakt.
+1. Het is degene die op grond van [artikel 75](https://wetten.overheid.nl/jci1.3:c:BWBR0005251&hoofdstuk=VI&afdeling=1&artikel=75&z=2017-01-01&g=2017-01-01) accijnszegels kan aanvragen niet toegestaan een zelfde tabaksprodukt onder meer dan één kleinhandelsprijs in de handel te brengen of te doen brengen, tenzij in het merk of door een merk waaronder het is verpakt op duidelijke wijze een onderscheid is gemaakt.
 
 2. Bij ministeriële regeling kan, onder daarbij te stellen voorwaarden, afwijking van het eerste lid worden toegestaan.
 
 ##### Artikel 95
 
-1. Het is niet toegestaan tabaksprodukten te verkopen, te koop aan te bieden of af te leveren indien de verpakking niet voldoet aan de bij of krachtens [artikel 78](https://wetten.overheid.nl/jci1.3:c:BWBR0005251&hoofdstuk=VI&afdeling=1&artikel=78&z=2016-05-01&g=2016-05-01) gestelde voorwaarden of de accijnszegels niet ongeschonden op de voorgeschreven wijze zijn aangebracht.
+1. Het is niet toegestaan tabaksprodukten te verkopen, te koop aan te bieden of af te leveren indien de verpakking niet voldoet aan de bij of krachtens [artikel 78](https://wetten.overheid.nl/jci1.3:c:BWBR0005251&hoofdstuk=VI&afdeling=1&artikel=78&z=2017-01-01&g=2017-01-01) gestelde voorwaarden of de accijnszegels niet ongeschonden op de voorgeschreven wijze zijn aangebracht.
 
 2. Het is niet toegestaan tabaksprodukten aan anderen dan wederverkopers te verkopen, te koop aan te bieden of af te leveren voor:
 
@@ -1635,7 +1611,7 @@ Het is een ieder die toestemming heeft om accijnszegels aan te vragen niet toege
 
 ##### Artikel 97
 
-Degene die opzettelijk een in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0005251&hoofdstuk=I&afdeling=2&artikel=5&z=2016-05-01&g=2016-05-01) opgenomen verbod overtreedt, wordt gestraft met gevangenisstraf van ten hoogste vier jaren of geldboete van de vierde categorie of, indien dit bedrag hoger is, ten hoogste eenmaal het bedrag van de te weinig geheven accijns.
+Degene die opzettelijk een in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0005251&hoofdstuk=I&afdeling=2&artikel=5&z=2017-01-01&g=2017-01-01) opgenomen verbod overtreedt, wordt gestraft met gevangenisstraf van ten hoogste vier jaren of geldboete van de vierde categorie of, indien dit bedrag hoger is, ten hoogste eenmaal het bedrag van de te weinig geheven accijns.
 
 ##### Artikel 98
 
@@ -1643,9 +1619,9 @@ Degene die opzettelijk een accijnsgoed waarvoor vrijstelling of teruggaaf van ac
 
 ##### Artikel 99
 
-1. Degene die het in [artikel 90, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005251&hoofdstuk=VII&afdeling=1&artikel=90&z=2016-05-01&g=2016-05-01), opgenomen verbod overtreedt, wordt gestraft met geldboete van de derde categorie.
+1. Degene die het in [artikel 90, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005251&hoofdstuk=VII&afdeling=1&artikel=90&z=2017-01-01&g=2017-01-01), opgenomen verbod overtreedt, wordt gestraft met geldboete van de derde categorie.
 
-2. Degene die het in [artikel 90, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005251&hoofdstuk=VII&afdeling=1&artikel=90&z=2016-05-01&g=2016-05-01), opgenomen verbod overtreedt terwijl hij weet of redelijkerwijs kan weten dat het distilleertoestel bestemd is of zal worden bestemd om te worden gebruikt tot ontduiking van de accijns, wordt gestraft met gevangenisstraf van ten hoogste vier jaren of geldboete van de vierde categorie.
+2. Degene die het in [artikel 90, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005251&hoofdstuk=VII&afdeling=1&artikel=90&z=2017-01-01&g=2017-01-01), opgenomen verbod overtreedt terwijl hij weet of redelijkerwijs kan weten dat het distilleertoestel bestemd is of zal worden bestemd om te worden gebruikt tot ontduiking van de accijns, wordt gestraft met gevangenisstraf van ten hoogste vier jaren of geldboete van de vierde categorie.
 
 ##### Artikel 100
 
@@ -1655,7 +1631,7 @@ Degene die opzettelijk een accijnsgoed waarvoor vrijstelling of teruggaaf van ac
 
 ##### Artikel 101
 
-1. Degene die een in de[artikelen 93, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005251&hoofdstuk=VII&afdeling=1&artikel=93&z=2016-05-01&g=2016-05-01), [94, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005251&hoofdstuk=VII&afdeling=1&artikel=94&z=2016-05-01&g=2016-05-01), [95, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005251&hoofdstuk=VII&afdeling=1&artikel=95&z=2016-05-01&g=2016-05-01), of [96](https://wetten.overheid.nl/jci1.3:c:BWBR0005251&hoofdstuk=VII&afdeling=1&artikel=96&z=2016-05-01&g=2016-05-01) opgenomen verbod overtreedt, wordt gestraft met geldboete van de derde categorie.
+1. Degene die een in de[artikelen 93, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005251&hoofdstuk=VII&afdeling=1&artikel=93&z=2017-01-01&g=2017-01-01), [94, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005251&hoofdstuk=VII&afdeling=1&artikel=94&z=2017-01-01&g=2017-01-01), [95, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005251&hoofdstuk=VII&afdeling=1&artikel=95&z=2017-01-01&g=2017-01-01), of [96](https://wetten.overheid.nl/jci1.3:c:BWBR0005251&hoofdstuk=VII&afdeling=1&artikel=96&z=2017-01-01&g=2017-01-01) opgenomen verbod overtreedt, wordt gestraft met geldboete van de derde categorie.
 
 2. Degene die een van de in het eerste lid bedoelde verboden opzettelijk overtreedt, wordt gestraft met gevangenisstraf van ten hoogste twee jaren of geldboete van de vierde categorie.
 
@@ -1893,7 +1869,7 @@ Lasten en bevelen dat deze in het **Staatsblad** zal worden geplaatst en dat all
 
 3. Voor de toepassing van dit artikel wordt onder reiziger die zich naar een derdelandsgebied of derde land begeeft, verstaan: iedere passagier die in het bezit is van een bewijs van vervoer door de lucht of over zee, waarop als definitieve bestemming een in een derdelandsgebied of derde land gelegen luchthaven of haven is vermeld.
 
-4. In afwijking van [artikel 74](https://wetten.overheid.nl/jci1.3:c:BWBR0005251&hoofdstuk=VI&afdeling=1&artikel=74&z=2016-05-01&g=2016-05-01) kunnen tabaksproducten worden opgeslagen in een accijnsgoederenplaats van waaruit de in het eerste lid bedoelde uitslag tot verbruik plaatsvindt.
+4. In afwijking van [artikel 74](https://wetten.overheid.nl/jci1.3:c:BWBR0005251&hoofdstuk=VI&afdeling=1&artikel=74&z=2017-01-01&g=2017-01-01) kunnen tabaksproducten worden opgeslagen in een accijnsgoederenplaats van waaruit de in het eerste lid bedoelde uitslag tot verbruik plaatsvindt.
 
 5. Bij ministeriële regeling kunnen nadere regels worden gesteld ten behoeve van de uitvoering van dit artikel.
 
@@ -1903,7 +1879,7 @@ Lasten en bevelen dat deze in het **Staatsblad** zal worden geplaatst en dat all
 
 1. Op verzoek wordt teruggaaf van accijns verleend voor vloeibaar gemaakt petroleumgas gebruikt voor verwarming ter bevordering van het groeiproces van tuinbouwproducten als bedoeld in post a 32 van de bij de [Wet op de omzetbelasting 1968 behorende Tabel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0002629&bijlage=I), indien geen aansluiting aanwezig is voor aardgas.
 
-2. De teruggaaf, bedoeld in het eerste lid, bedraagt € 142,23 per 1 000 kilogram vloeibaar gemaakt petroleumgas.
+2. De teruggaaf, bedoeld in het eerste lid, bedraagt € 142,66 per 1 000 kilogram vloeibaar gemaakt petroleumgas.
 
 3. De teruggaaf wordt verleend aan de tuinbouwer die het vloeibaar gemaakt petroleumgas gebruikt voor het in het eerste lid bedoelde gebruik.
 
@@ -1917,7 +1893,7 @@ Vervallen
 
 1. [Artikel 69 van de Wet belastingen op milieugrondslag](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=69) is van overeenkomstige toepassing met betrekking tot vloeibaar gemaakt petroleumgas, indien geen aansluiting aanwezig is voor aardgas.
 
-2. In afwijking van [artikel 69, vijfde en zesde lid, van de Wet belastingen op milieugrondslag](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=69) bedraagt de teruggaaf € 83,09 per 1 000 kilogram vloeibaar gemaakt petroleumgas.
+2. In afwijking van [artikel 69, vijfde en zesde lid, van de Wet belastingen op milieugrondslag](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=69) bedraagt de teruggaaf € 83,34 per 1 000 kilogram vloeibaar gemaakt petroleumgas.
 
 ### Hoofdstuk Va. Bijzondere regeling voor biobrandstoffen
 
@@ -1937,15 +1913,9 @@ Vervallen
 
 ##### Artikel 95a
 
-1. Ingeval er een autonome accijnsverhoging van de totale accijns van sigaretten of rooktabak plaatsvindt en er tussen de publicatiedatum van de als gevolg hiervan ontstane nieuwe accijnstarieven voor deze tabaksproducten en de ingangsdatum van deze nieuwe accijnstarieven ten minste twee maanden zijn gelegen, is het vanaf de eerste dag van de tweede kalendermaand volgend op de maand waarin de accijnswijziging plaatsvindt niet toegestaan dat tabaksproduct aan wederverkopers te verkopen, te koop aan te bieden of af te leveren indien de verpakking voorzien is van de vóór de ingangsdatum van de nieuwe accijnstarieven bij de uitslag tot verbruik voor het desbetreffende tabaksproduct voorgeschreven accijnszegel.
+1. Ingeval van verhoging van de accijns van sigaretten of rooktabak is het met ingang van de eerste dag van de tweede kalendermaand volgend op de kalendermaand van inwerkingtreding van die verhoging niet toegestaan sigaretten of rooktabak aan wederverkopers te verkopen, te koop aan te bieden of af te leveren indien de verpakking is voorzien van de vóór de ingangsdatum van de verhoging bij de uitslag tot verbruik voor het desbetreffende tabaksproduct geldende accijnszegel.
 
-2. Voor de toepassing van dit artikel wordt verstaan onder:
-
-- a. autonome accijnsverhoging: wijziging van de accijnstarieven, genoemd in [artikel 35](https://wetten.overheid.nl/jci1.3:c:BWBR0005251&hoofdstuk=II&afdeling=7&artikel=35&z=2016-05-01&g=2016-05-01), die wat betreft de totale accijns tot een verhoging leidt, en die niet voortvloeit uit [artikel 36](https://wetten.overheid.nl/jci1.3:c:BWBR0005251&hoofdstuk=II&afdeling=7&artikel=36&z=2016-05-01&g=2016-05-01);
-
-- b. rooktabak: rooktabak als bedoeld in [artikel 32](https://wetten.overheid.nl/jci1.3:c:BWBR0005251&hoofdstuk=II&afdeling=7&artikel=32&z=2016-05-01&g=2016-05-01), pijptabak niet daaronder begrepen;
-
-- c. pijptabak: rooktabak als bedoeld in [artikel 32](https://wetten.overheid.nl/jci1.3:c:BWBR0005251&hoofdstuk=II&afdeling=7&artikel=32&z=2016-05-01&g=2016-05-01), bestemd om te worden gerookt met een pijp.
+2. Het eerste lid is niet van toepassing op pijptabak, zijnde rooktabak als bedoeld in [artikel 32](https://wetten.overheid.nl/jci1.3:c:BWBR0005251&hoofdstuk=II&afdeling=7&artikel=32&z=2017-01-01&g=2017-01-01), bestemd om te worden gerookt met een pijp.
 
 3. Onder een wederverkoper als bedoeld in het eerste lid wordt mede verstaan een verkoopautomaat bestemd voor de verkoop van tabaksproducten. Onder afleveren als bedoeld in het eerste lid aan een verkoopautomaat bestemd voor de verkoop van tabaksproducten wordt niet verstaan het afleveren van tabaksproducten die uit een andere verkoopautomaat van dezelfde eigenaar afkomstig zijn.
 
@@ -1961,7 +1931,7 @@ Vervallen
 
 ##### Artikel 102a
 
-1. Degene die een in [artikel 95a](https://wetten.overheid.nl/jci1.3:c:BWBR0005251&hoofdstuk=VII&afdeling=1&artikel=95a&z=2016-05-01&g=2016-05-01) opgenomen verbod overtreedt, pleegt een verzuim ter zake waarvan de inspecteur hem een boete van € 5.278 kan opleggen of, indien dit bedrag hoger is, ten hoogste tweemaal het bedrag van de accijns dat geheven zou zijn indien de verpakking voorzien was geweest van het per ingangsdatum van de nieuwe accijnstarieven, bedoeld in artikel 95a, bij de uitslag tot verbruik voor het desbetreffende tabaksproduct voorgeschreven accijnszegel.
+1. Degene die een in [artikel 95a](https://wetten.overheid.nl/jci1.3:c:BWBR0005251&hoofdstuk=VII&afdeling=1&artikel=95a&z=2017-01-01&g=2017-01-01) opgenomen verbod overtreedt, pleegt een verzuim ter zake waarvan de inspecteur hem een boete van € 5.278 kan opleggen of, indien dit bedrag hoger is, ten hoogste tweemaal het bedrag van de accijns dat geheven zou zijn indien de verpakking voorzien was geweest van het per ingangsdatum van de nieuwe accijnstarieven, bedoeld in artikel 95a, bij de uitslag tot verbruik voor het desbetreffende tabaksproduct voorgeschreven accijnszegel.
 
 2. [Artikel 67cb van de Algemene wet inzake rijksbelastingen](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=67cb) is van overeenkomstige toepassing op het bedrag van de boete, genoemd in het eerste lid.
 
@@ -1971,39 +1941,41 @@ Lasten en bevelen dat deze in het **Staatsblad** zal worden geplaatst en dat all
 
 ##### Artikel 4
 
-1. Indien tijdens een overbrenging van accijnsgoederen overeenkomstig [artikel 2e](https://wetten.overheid.nl/jci1.3:c:BWBR0005251&hoofdstuk=I&afdeling=1&artikel=2e&z=2016-05-01&g=2016-05-01) of [2f](https://wetten.overheid.nl/jci1.3:c:BWBR0005251&hoofdstuk=I&afdeling=1&artikel=2f&z=2016-05-01&g=2016-05-01), in Nederland een onregelmatigheid heeft plaatsgevonden, is artikel 2e, eerste lid, onderscheidenlijk artikel 2f, eerste lid, van toepassing.
+1. Indien tijdens een overbrenging van accijnsgoederen overeenkomstig [artikel 2e](https://wetten.overheid.nl/jci1.3:c:BWBR0005251&hoofdstuk=I&afdeling=1&artikel=2e&z=2017-01-01&g=2017-01-01) of [2f](https://wetten.overheid.nl/jci1.3:c:BWBR0005251&hoofdstuk=I&afdeling=1&artikel=2f&z=2017-01-01&g=2017-01-01), in Nederland een onregelmatigheid heeft plaatsgevonden, is artikel 2e, eerste lid, onderscheidenlijk artikel 2f, eerste lid, van toepassing.
 
-2. Indien tijdens een overbrenging van accijnsgoederen overeenkomstig [artikel 2e](https://wetten.overheid.nl/jci1.3:c:BWBR0005251&hoofdstuk=I&afdeling=1&artikel=2e&z=2016-05-01&g=2016-05-01) of [2f](https://wetten.overheid.nl/jci1.3:c:BWBR0005251&hoofdstuk=I&afdeling=1&artikel=2f&z=2016-05-01&g=2016-05-01), in Nederland een onregelmatigheid is geconstateerd, en er niet kan worden vastgesteld waar de onregelmatigheid plaatsvond, wordt deze geacht te hebben plaatsgevonden in Nederland.
+2. Indien tijdens een overbrenging van accijnsgoederen overeenkomstig [artikel 2e](https://wetten.overheid.nl/jci1.3:c:BWBR0005251&hoofdstuk=I&afdeling=1&artikel=2e&z=2017-01-01&g=2017-01-01) of [2f](https://wetten.overheid.nl/jci1.3:c:BWBR0005251&hoofdstuk=I&afdeling=1&artikel=2f&z=2017-01-01&g=2017-01-01), in Nederland een onregelmatigheid is geconstateerd, en er niet kan worden vastgesteld waar de onregelmatigheid plaatsvond, wordt deze geacht te hebben plaatsgevonden in Nederland.
 
 3. Indien in de in het tweede lid bedoelde situatie binnen een termijn van drie jaar vanaf de datum waarop de accijnsgoederen zijn verkregen, wordt vastgesteld dat de onregelmatigheid daadwerkelijk heeft plaatsgevonden in een andere lidstaat, is de accijns in die lidstaat verschuldigd.
 
 4. Indien de accijns in een andere lidstaat verschuldigd is geworden op grond van het feit dat de onregelmatigheid werd geacht te hebben plaatsgevonden in die lidstaat en binnen een termijn van drie jaar vanaf de datum waarop de accijnsgoederen zijn verkregen, wordt vastgesteld dat de onregelmatigheid daadwerkelijk heeft plaatsgevonden in Nederland, is het eerste lid van toepassing.
 
-5. Voor de toepassing van dit artikel wordt onder onregelmatigheid verstaan een niet onder [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0005251&hoofdstuk=I&afdeling=1&artikel=3&z=2016-05-01&g=2016-05-01) vallende situatie die zich tijdens een overbrenging van accijnsgoederen als bedoeld in het eerste lid voordoet en als gevolg waarvan een overbrenging of een onderdeel van een overbrenging van accijnsgoederen niet op regelmatige wijze is geëindigd.
+5. Voor de toepassing van dit artikel wordt onder onregelmatigheid verstaan een niet onder [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0005251&hoofdstuk=I&afdeling=1&artikel=3&z=2017-01-01&g=2017-01-01) vallende situatie die zich tijdens een overbrenging van accijnsgoederen als bedoeld in het eerste lid voordoet en als gevolg waarvan een overbrenging of een onderdeel van een overbrenging van accijnsgoederen niet op regelmatige wijze is geëindigd.
 
 6. Bij ministeriële regeling kunnen nadere regels worden gesteld ten behoeve van de uitvoering van dit artikel.
 
 ##### Artikel 71h
 
-1. Op verzoek wordt teruggaaf van accijns verleend voor motorbrandstof die geheel of gedeeltelijk bestaat uit biobrandstof als bedoeld in artikel 2, onderdeel i, van de Richtlijn hernieuwbare energie indien die biobrandstof voldoet aan duurzaamheidscriteria als bedoeld in artikel 17 van deze richtlijn.
+1. Op verzoek wordt teruggaaf van accijns verleend voor motorbrandstof die geheel of gedeeltelijk bestaat uit:
 
-2. Dat een biobrandstof voldoet aan de duurzaamheidscriteria, bedoeld in het eerste lid, blijkt uit een audit uitgevoerd door een onafhankelijk deskundige of uit een andere wijze als bedoeld in artikel 18 van de Richtlijn hernieuwbare energie.
+- a. biobrandstof als bedoeld in artikel 2, onderdeel i, van de Richtlijn hernieuwbare energie indien die biobrandstof voldoet aan duurzaamheidscriteria als bedoeld in artikel 17 van die richtlijn, blijkend uit een audit uitgevoerd door een onafhankelijk deskundige of uit een andere wijze als bedoeld in artikel 18 van die richtlijn;
 
-3. Teruggaaf van accijns wordt slechts verleend:
+- b. hernieuwbare brandstof als bedoeld in [artikel 9.7.1.1 van de Wet milieubeheer](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=9.7.1.1) waarvoor een verklaring van de verificateur hernieuwbare brandstof als bedoeld in [artikel 9.7.4.4, tweede lid, van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=9.7.4.4) is afgegeven.
 
-- a. over de hoeveelheid biobrandstof in motorbrandstof als bedoeld in het eerste lid, mits die biobrandstof een lagere energie-inhoud heeft dan de gelijkwaardige motorbrandstof waarvan het accijnstarief van toepassing is; en
+2. Teruggaaf van accijns wordt slechts verleend:
 
-- b. indien 10 procent of meer van de in de motorbrandstof aanwezige energie afkomstig is van de in het eerste lid bedoelde biobrandstof.
+- a. over de hoeveelheid biobrandstof of hernieuwbare brandstof in motorbrandstof als bedoeld in het eerste lid, mits die biobrandstof of hernieuwbare brandstof een lagere energie-inhoud heeft dan de gelijkwaardige motorbrandstof waarvan het accijnstarief van toepassing is; en
 
-4. De teruggaaf van accijns bedraagt een percentage van het accijnstarief van de gelijkwaardige motorbrandstof, bedoeld in het derde lid, onderdeel a. Dit percentage is gelijk aan het verschil in energie-inhoud van de biobrandstof en die van de gelijkwaardige motorbrandstof, uitgedrukt als percentage van de energie-inhoud van de gelijkwaardige motorbrandstof.
+- b. indien 10 percent of meer van de in de motorbrandstof aanwezige energie afkomstig is van de biobrandstof of hernieuwbare brandstof, bedoeld in het eerste lid.
 
-5. Voor de vaststelling van de energie-inhoud per volume van de biobrandstof en die van de gelijkwaardige motorbrandstof wordt voor zover mogelijk uitgegaan van hetgeen hiertoe is opgenomen in bijlage III van de Richtlijn hernieuwbare energie.
+3. De teruggaaf van accijns bedraagt een percentage van het accijnstarief van de gelijkwaardige motorbrandstof, bedoeld in het tweede lid, onderdeel a. Dit percentage is gelijk aan het verschil in energie-inhoud van de biobrandstof of hernieuwbare brandstof en die van de gelijkwaardige motorbrandstof, uitgedrukt als percentage van de energie-inhoud van de gelijkwaardige motorbrandstof.
 
-6. De teruggaaf wordt verleend aan degene die de accijns ter zake van de uitslag tot verbruik verschuldigd is geworden.
+4. Voor de vaststelling van de energie-inhoud per volume van de biobrandstof of hernieuwbare brandstof en die van de gelijkwaardige motorbrandstof wordt voor zover mogelijk uitgegaan van hetgeen hiertoe is opgenomen in bijlage III van de Richtlijn hernieuwbare energie.
 
-7. Bij algemene maatregel van bestuur kunnen voorwaarden en beperkingen worden gesteld waaronder de teruggaaf, bedoeld in het eerste lid, wordt verleend.
+5. De teruggaaf wordt verleend aan degene die de accijns ter zake van de uitslag tot verbruik verschuldigd is geworden.
 
-8. Bij ministeriële regeling kunnen nadere regels worden gesteld ten behoeve van de uitvoering van dit artikel.
+6. Bij algemene maatregel van bestuur kunnen voorwaarden en beperkingen worden gesteld waaronder de teruggaaf, bedoeld in het eerste lid, wordt verleend.
+
+7. Bij ministeriële regeling kunnen nadere regels worden gesteld ten behoeve van de uitvoering van dit artikel.
 
 ### Hoofdstuk Va. Bijzondere regeling voor biobrandstoffen
 
@@ -2025,7 +1997,7 @@ Lasten en bevelen dat deze in het **Staatsblad** zal worden geplaatst en dat all
 
 ##### Artikel 71i
 
-1. Op verzoek wordt teruggaaf van accijns verleend voor vloeibaar gemaakt aardgas, vloeibaar gemaakt methaan en vloeibaar gemaakt biogas dat is onderworpen aan het tarief, genoemd in [artikel 27, eerste lid, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0005251&hoofdstuk=II&afdeling=6&artikel=27&z=2016-05-01&g=2016-05-01).
+1. Op verzoek wordt teruggaaf van accijns verleend voor vloeibaar gemaakt aardgas, vloeibaar gemaakt methaan en vloeibaar gemaakt biogas dat is onderworpen aan het tarief, genoemd in [artikel 27, eerste lid, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0005251&hoofdstuk=II&afdeling=6&artikel=27&z=2017-01-01&g=2017-01-01).
 
 2. De teruggaaf, bedoeld in het eerste lid, bedraagt € 125 per 1.000 kg.
 
