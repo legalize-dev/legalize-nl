@@ -4,7 +4,7 @@ identifier: "BWBR0029367"
 country: "nl"
 rank: "zbo"
 publication_date: "2021-02-19"
-last_updated: "2015-07-01"
+last_updated: "2017-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0029367"
 soort: "zbo"
@@ -54,7 +54,7 @@ In deze regeling wordt verstaan onder:
 
 ##### Artikel 1.2
 
-Het bestuur kan subsidie verstrekken in de vorm van een productiesubsidie, een subsidie nieuwe maker of een subsidie doorstroom nieuwe maker (reprise grote zaal) voor activiteiten die bijdragen aan de kwaliteit en diversiteit in de podiumkunsten in Nederland en het opbouwen en bereiken van een publiek daarvoor.
+Het bestuur kan subsidie verstrekken in de vorm van een productiesubsidie of een subsidie nieuwe maker voor activiteiten die bijdragen aan de kwaliteit en diversiteit in de podiumkunsten in Nederland en het opbouwen en bereiken van een publiek daarvoor.
 
 ##### Artikel 1.3. De aanvraag
 
@@ -186,49 +186,27 @@ Aanvragen worden beoordeeld aan de hand van de volgende criteria:
 
 ##### Artikel 4.1. Doel
 
-Het bestuur verstrekt subsidies doorstroom nieuwe maker (reprise grote zaal) voor het hernemen van een eerder ontwikkelde productie die wordt uitgevoerd in de grote zaal om bij te dragen aan de ontwikkeling van nieuwe makers en aan de kwaliteit en diversiteit in de podiumkunsten in Nederland.
+Vervallen
 
 ##### Artikel 4.2. Aanvrager
 
-Een subsidie doorstroom nieuwe maker (reprise grote zaal) kan uitsluitend worden aangevraagd door een instelling die primair gericht is op het zelf ontwikkelen en produceren van voorstellingen of concerten door professionele podiumkunstenaars of het presenteren daarvan.
+Vervallen
 
 ##### Artikel 4.3. Subsidieaanvraag
 
-1. Een aanvraag heeft betrekking op de herneming van een eerder ontwikkelde productie die overwegend zal worden uitgevoerd in zalen met meer dan 400 stoelen.
-
-2. Een aanvrager kan per aanvraagronde maximaal 1 aanvraag indienen.
+Vervallen
 
 ##### Artikel 4.4. Vereisten
 
-1. De aanvraag voor een subsidie doorstroom nieuwe maker (reprise grote zaal) kan alleen worden verstrekt als de verantwoordelijke maker of makers minimaal twee jaar actief zijn en meerdere producties hebben voortgebracht, maar nog geen productie hebben gemaakt die overwegend is uitgevoerd in zalen met meer dan 400 stoelen.
-
-2. Subsidie kan alleen worden verstrekt als de activiteiten waarvoor subsidie wordt aangevraagd overwegend in Nederland plaatsvinden.
-
-3. Subsidie wordt niet verstrekt als het gevraagde subsidie niet in een redelijke verhouding staat tot het aantal te realiseren activiteiten of de te behalen eigen inkomsten. Hiervan is in elk geval sprake als niet minimaal 20% van de subsidiabele kosten worden gedekt door eigen inkomsten.
-
-4. Subsidie wordt alleen verstrekt als de aanvrager op het moment van het indienen van de aanvraag aan de hand van schriftelijke bewijsstukken kan aantonen dat de productie ten minste tien keer zal worden uitgevoerd in zalen met meer dan 400 stoelen.
-
-5. Het bestuur kan besluiten een aanvraag die niet voldoet aan het vereiste uit het vierde lid in behandeling te nemen als de activiteiten een bijzondere bijdrage kunnen leveren aan het doel van deze subsidievorm.
+Vervallen
 
 ##### Artikel 4.5. Beoordeling
 
-Aanvragen worden beoordeeld aan de hand van de volgende criteria:
-
-- a. motivering voor de herneming van de eerder ontwikkelde productie;
-
-- b. verwachte bijdrage aan de ontwikkeling van de maker of groep makers;
-
-- c. verwachte bijdrage aan de positionering van de maker of groep makers;
-
-- d. ondernemerschap.
+Vervallen
 
 ##### Artikel 4.6. Hoogte subsidie
 
-1. Het subsidie bedraagt nooit meer dan 50% van de subsidiabele kosten.
-
-2. Bij het bepalen van de subsidiabele kosten is het bepaalde in [artikel 2.6](https://wetten.overheid.nl/jci1.3:c:BWBR0029367&paragraaf=2&artikel=2.6&z=2015-07-01&g=2015-07-01) van overeenkomstige toepassing.
-
-3. Het bestuur kan bepalen dat een subsidie doorstroom nieuwe maker (reprise grote zaal) nooit meer bedraagt dan een bepaald bedrag.
+Vervallen
 
 #### Paragraaf 5:. Overige bepalingen
 
@@ -308,6 +286,8 @@ Een aanvraag heeft betrekking op een ontwikkelingstraject met een looptijd van m
 
 2. Als de aanvrager zelf niet beschikt over faciliteiten om de producties die tot stand zullen komen te presenteren, dient de aanvraag vergezeld te gaan van een of meer verklaringen van een of meer instellingen die de voorstellingen of concerten zullen presenteren.
 
+3. Subsidie wordt niet verstrekt aan aanvragers die reeds een instellingssubsidie ontvangen van de Minister van Onderwijs, Cultuur en Wetenschap.
+
 ##### Artikel 3.5. Beoordeling
 
 1. Aanvragen worden beoordeeld aan de hand van de volgende criteria:
@@ -326,13 +306,9 @@ Een aanvraag heeft betrekking op een ontwikkelingstraject met een looptijd van m
 
 1. Het subsidie bedraagt nooit meer dan 50 % van de subsidiabele kosten als deze € 100.000 of meer bedragen en nooit meer dan 80% van de subsidiabele kosten als deze minder dan € 100.000 bedragen.
 
-2. Als een aanvraag mede betrekking heeft op een productie die overwegend zal worden uitgevoerd in zalen met meer dan 400 stoelen, dan kan voor die specifieke productie een aanvullend subsidie worden verstrekt tot maximaal 80% van de subsidiabele kosten. Het aanvullend subsidie wordt alleen definitief toegekend als de aanvrager kan aantonen dat de productie ten minste tien keer zal worden uitgevoerd in zalen met meer dan 400 stoelen. In alle andere gevallen wordt het aanvullend subsidie voorwaardelijk toegekend en dient de aanvrager uiterlijk een maand voor de eerste uitvoering van de productie, maar niet later dan twaalf maanden na de beschikkingsdatum aan de hand van schriftelijke bewijsstukken aan te tonen dat de productie ten minste tien keer zal worden uitgevoerd in zalen met meer dan 400 stoelen.
+2. Bij het bepalen van de subsidiabele kosten is het bepaalde in [artikel 2.6](https://wetten.overheid.nl/jci1.3:c:BWBR0029367&paragraaf=2&artikel=2.6&z=2017-01-01&g=2017-01-01) van overeenkomstige toepassing.
 
-3. Het bestuur kan besluiten een aanvraag die niet voldoet aan de vereisten uit het tweede lid te honoreren als de activiteiten een bijzondere bijdrage kunnen leveren aan het doel van deze subsidievorm.
-
-4. Bij het bepalen van de subsidiabele kosten is het bepaalde in [artikel 2.6](https://wetten.overheid.nl/jci1.3:c:BWBR0029367&paragraaf=2&artikel=2.6&z=2015-07-01&g=2015-07-01) van overeenkomstige toepassing.
-
-5. Het bestuur kan bepalen dat een subsidie nieuwe maker nooit meer bedraagt dan een bepaald bedrag.
+3. Het bestuur kan bepalen dat een subsidie nieuwe maker nooit meer bedraagt dan een bepaald bedrag.
 
 #### Paragraaf 4:. Subsidie doorstroom nieuwe maker (reprise grote zaal)
 
