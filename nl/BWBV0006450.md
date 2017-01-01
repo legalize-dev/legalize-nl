@@ -4,7 +4,7 @@ identifier: "BWBV0006450"
 country: "nl"
 rank: "verdrag"
 publication_date: "2017-01-01"
-last_updated: "2015-03-04"
+last_updated: "2017-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBV0006450"
 soort: "verdrag"
@@ -130,7 +130,7 @@ De partijen wisselen de informatie uit over de RAP die nodig is ter voorkoming v
 
 ##### Artikel V. Operationele bepalingen
 
-1. Ten behoeve van dit Verdrag monitoren België en Nederland de bewegingen in het gemeenschappelijk interessegebied en beschermen zij het gemeenschappelijk interessegebied door uitvoering van GASM en AASM, zoals omschreven in [artikel 1, negende en tiende lid](https://wetten.overheid.nl/jci1.3:c:BWBV0006450&artikel=I&z=2015-03-04&g=2015-03-04). Voor Luxemburg zullen de monitoring en bescherming van het gemeenschappelijk interessegebied gewaarborgd worden door België en Nederland conform de modaliteiten vastgelegd in dit Verdrag en in de regeling(en) omschreven in [artikel XI van dit Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0006450&artikel=XI&z=2015-03-04&g=2015-03-04), hierna te noemen de „technical arrangement(s)”.
+1. Ten behoeve van dit Verdrag monitoren België en Nederland de bewegingen in het gemeenschappelijk interessegebied en beschermen zij het gemeenschappelijk interessegebied door uitvoering van GASM en AASM, zoals omschreven in [artikel 1, negende en tiende lid](https://wetten.overheid.nl/jci1.3:c:BWBV0006450&artikel=I&z=2017-01-01&g=2017-01-01). Voor Luxemburg zullen de monitoring en bescherming van het gemeenschappelijk interessegebied gewaarborgd worden door België en Nederland conform de modaliteiten vastgelegd in dit Verdrag en in de regeling(en) omschreven in [artikel XI van dit Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0006450&artikel=XI&z=2017-01-01&g=2017-01-01), hierna te noemen de „technical arrangement(s)”.
 
 2. De AAC van België en Nederland nemen bij toerbeurt deel aan de AAC-Rotation boven het gemeenschappelijk interessegebied.
 
@@ -142,7 +142,7 @@ De partijen wisselen de informatie uit over de RAP die nodig is ter voorkoming v
 
 - b. het AAC van de NGA van de ontvangende staat toestemming heeft gekregen voor het gebruik van geweld tegen een renegade in het gemeenschappelijk interessegebied.
 
-Ingevolge [artikel 1, tiende lid](https://wetten.overheid.nl/jci1.3:c:BWBV0006450&artikel=I&z=2015-03-04&g=2015-03-04), mag in het luchtruim van Luxemburg geen dodelijk geweld worden gebruikt.
+Ingevolge [artikel 1, tiende lid](https://wetten.overheid.nl/jci1.3:c:BWBV0006450&artikel=I&z=2017-01-01&g=2017-01-01), mag in het luchtruim van Luxemburg geen dodelijk geweld worden gebruikt.
 
 Nadere regelingen met betrekking tot het gebruik van geweld door AAC worden neergelegd gelegd in technical arrangements.
 
@@ -186,7 +186,7 @@ Elk geschil omtrent de uitlegging of toepassing van dit Verdrag wordt uitsluiten
 
 ##### Artikel XIII. Wijziging
 
-Iedere partij kan te allen tijde verzoeken om wijziging van dit Verdrag door middel van een schriftelijke kennisgeving aan de andere partijen. Indien een dergelijk verzoek wordt gedaan, treden de partijen onverwijld met elkaar in onderhandeling. Wijzigingen worden van kracht overeenkomstig de procedure omschreven in [artikel XIV, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBV0006450&artikel=XIV&z=2015-03-04&g=2015-03-04).
+Iedere partij kan te allen tijde verzoeken om wijziging van dit Verdrag door middel van een schriftelijke kennisgeving aan de andere partijen. Indien een dergelijk verzoek wordt gedaan, treden de partijen onverwijld met elkaar in onderhandeling. Wijzigingen worden van kracht overeenkomstig de procedure omschreven in [artikel XIV, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBV0006450&artikel=XIV&z=2017-01-01&g=2017-01-01).
 
 ##### Artikel XIV. Inwerkingtreding en beëindiging
 
