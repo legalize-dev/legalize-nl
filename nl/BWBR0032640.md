@@ -4,7 +4,7 @@ identifier: "BWBR0032640"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2020-07-01"
-last_updated: "2014-01-06"
+last_updated: "2017-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0032640"
 soort: "ministeriele-regeling"
@@ -49,7 +49,9 @@ Besluit:
 
 - d. de belastingplichtige bij de toepassing van de persoonsgebonden aftrek ter zake van uitgaven voor onderhoudsverplichtingen als bedoeld in [artikel 6.1, tweede lid, onderdeel a, van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=6.1).
 
-2. Indien de belastingplichtige, bedoeld in het eerste lid, onderdeel d, niet beschikt over het burgerservicenummer van degene ten aanzien van wie hij de onderhoudsverplichting, bedoeld in [artikel 6.1, tweede lid, onderdeel a, van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=6.1), heeft, dient hij ten minste naam en geboortedatum zoals vermeld in het paspoort of de officiële identiteitskaart, en zo mogelijk aangevuld met het adres, van die persoon te verstrekken.
+2. Ten behoeve van de toepassing van het eerste lid, onderdeel b, verstrekken de uitlener en de onderaannemer het burgerservicenummer van de werknemer aan de inlener, onderscheidenlijk de aannemer.
+
+3. Indien de belastingplichtige, bedoeld in het eerste lid, onderdeel d, niet beschikt over het burgerservicenummer van degene ten aanzien van wie hij de onderhoudsverplichting, bedoeld in [artikel 6.1, tweede lid, onderdeel a, van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=6.1), heeft, dient hij ten minste naam en geboortedatum zoals vermeld in het paspoort of de officiële identiteitskaart, en zo mogelijk aangevuld met het adres, van die persoon te verstrekken.
 
 ##### Artikel 2
 
