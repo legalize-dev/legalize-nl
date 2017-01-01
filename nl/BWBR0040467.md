@@ -4,7 +4,7 @@ identifier: "BWBR0040467"
 country: "nl"
 rank: "wet"
 publication_date: "2026-01-01"
-last_updated: "2016-01-01"
+last_updated: "2017-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0040467"
 soort: "wet"
@@ -56,8 +56,6 @@ Dit onderdeel is nog niet inwerking getreden
 
 Wijzigt de Wet op de loonbelasting 1964.
 
-Dit onderdeel is nog niet inwerking getreden
-
 ##### Artikel V
 
 Wijzigt de Wet op de loonbelasting 1964.
@@ -74,13 +72,9 @@ Dit onderdeel is nog niet inwerking getreden
 
 Wijzigt de Wet op de vennootschapsbelasting 1969.
 
-Dit onderdeel is nog niet inwerking getreden
-
 ##### Artikel VIII
 
 Wijzigt de Wet op de vennootschapsbelasting 1969.
-
-Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel IX
 
