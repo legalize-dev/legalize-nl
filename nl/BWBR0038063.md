@@ -4,7 +4,7 @@ identifier: "BWBR0038063"
 country: "nl"
 rank: "wet"
 publication_date: "2017-01-01"
-last_updated: "2016-06-18"
+last_updated: "2017-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0038063"
 soort: "wet"
@@ -39,13 +39,13 @@ entry_into_force: "2016-06-18"
 
 Allen die deze zullen zien of horen lezen, saluut! doen te weten:
 
-Alzo Wij in overweging genomen hebben, dat het wenselijk is de [Wet werk en inkomen naar arbeidsvermogen](https://wetten.overheid.nl/jci1.3:c:BWBR0019057&wetgeving), de [Wet financiering sociale verzekeringen](https://wetten.overheid.nl/jci1.3:c:BWBR0017745) en enkele andere wetten te wijzigen om aanpassingen aan te brengen in de publieke financiering van de regeling Werkhervatting gedeeltelijk arbeidsgeschikten teneinde de hybride markt voor publieke en private verzekeraars te verbeteren;
+Alzo Wij in overweging genomen hebben, dat het wenselijk is de [Wet werk en inkomen naar arbeidsvermogen](https://wetten.overheid.nl/jci1.3:c:BWBR0019057), de [Wet financiering sociale verzekeringen](https://wetten.overheid.nl/jci1.3:c:BWBR0017745) en enkele andere wetten te wijzigen om aanpassingen aan te brengen in de publieke financiering van de regeling Werkhervatting gedeeltelijk arbeidsgeschikten teneinde de hybride markt voor publieke en private verzekeraars te verbeteren;
 
 Zo is het dat Wij, de Afdeling advisering van de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
 
-##### Artikel I. [Wet werk en inkomen naar arbeidsvermogen](https://wetten.overheid.nl/jci1.3:c:BWBR0019057&wetgeving)
+##### Artikel I. [Wet werk en inkomen naar arbeidsvermogen](https://wetten.overheid.nl/jci1.3:c:BWBR0019057)
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Wet werk en inkomen naar arbeidsvermogen.
 
 ##### Artikel II. [Wet financiering sociale verzekeringen](https://wetten.overheid.nl/jci1.3:c:BWBR0017745)
 
@@ -53,34 +53,34 @@ Wijzigt de Wet financiering sociale verzekeringen.
 
 ##### Artikel III. [Burgerlijk wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005290)
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt het Burgerlijk Wetboek Boek 7.
 
 ##### Artikel IV. [Werkloosheidswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004045)
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Werkloosheidswet.
 
 ##### Artikel V. [Wet op de medische keuringen](https://wetten.overheid.nl/jci1.3:c:BWBR0008819)
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Wet op de medische keuringen.
 
-##### Artikel VI. [Wet structuur uitvoeringsorganisatie werk en inkomen](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&wetgeving)
+##### Artikel VI. [Wet structuur uitvoeringsorganisatie werk en inkomen](https://wetten.overheid.nl/jci1.3:c:BWBR0013060)
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Wet structuur uitvoeringsorganisatie werk en inkomen.
 
 ##### Artikel VII. [Ziektewet](https://wetten.overheid.nl/jci1.3:c:BWBR0001888)
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Ziektewet.
 
 ##### Artikel VIII. Wet tot wijziging van de Participatiewet, de Ziektewet, de Wet werk en inkomen naar arbeidsvermogen en de Wet financiering sociale verzekeringen in verband met harmonisatie van instrumenten ter bevordering van arbeidsdeelname van arbeidsbeperkten
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de wet tot wijziging van de Participatiewet, de Ziektewet, de Wet werk en inkomen naar arbeidsvermogen en de Wet financiering sociale verzekeringen in verband met harmonisatie van instrumenten ter bevordering van arbeidsdeelname van arbeidsbeperkten.
 
 ##### Artikel IX. Citeertitel
 
-Dit onderdeel is nog niet inwerking getreden
+Deze wet wordt aangehaald als: Wet verbetering hybride markt WGA.
 
 ##### Artikel X. Inwerkingtreding
 
-Dit onderdeel is nog niet inwerking getreden
+De artikelen van deze wet treden in werking op een bij koninklijk besluit te bepalen tijdstip, dat voor de verschillende artikelen of onderdelen daarvan verschillend kan worden vastgesteld. In dat besluit wordt zo nodig toepassing gegeven aan [artikel 12 van de Wet raadgevend referendum](https://wetten.overheid.nl/jci1.3:c:BWBR0036443&artikel=12).
 
 Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren die zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
