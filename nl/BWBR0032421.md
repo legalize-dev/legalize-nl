@@ -4,7 +4,7 @@ identifier: "BWBR0032421"
 country: "nl"
 rank: "amvb"
 publication_date: "2026-01-01"
-last_updated: "2016-01-01"
+last_updated: "2017-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0032421"
 soort: "AMvB"
@@ -46,6 +46,8 @@ Gezien het nader rapport van Onze Minister van Binnenlandse Zaken en Koninkrijks
 
 Hebben goedgevonden en verstaan:
 
+Treedt in werking op het tijdstip waarop de Wet normering bezoldiging topfunctionarissen publieke en semipublieke sector in werking treedt.
+
 ##### Artikel 1
 
 In dit besluit wordt onder «wet» verstaan: [Wet normering bezoldiging topfunctionarissen publieke en semipublieke sector](https://wetten.overheid.nl/jci1.3:c:BWBR0032249).
@@ -66,9 +68,9 @@ Het bedrag van de in [artikel 5.6, tweede lid, van de wet](https://wetten.overhe
 
 ##### Artikel 4
 
-1. Indien de functie van topfunctionaris wordt vervuld anders dan op grond van een dienstbetrekking, komen partijen voor de duur van de functievervulling tot en met twaalf kalendermaanden geen bezoldiging overeen die hoger is dan de som van € 24.000 per kalendermaand voor de eerste zes kalendermaanden van de functievervulling en € 18.000 per kalendermaand voor de zevende tot en met de twaalfde kalendermaand van de functievervulling.
+1. Indien de functie van topfunctionaris wordt vervuld anders dan op grond van een dienstbetrekking, komen partijen voor de duur van de functievervulling tot en met twaalf kalendermaanden geen bezoldiging overeen die hoger is dan de som van € 24.500 per kalendermaand voor de eerste zes kalendermaanden van de functievervulling en € 18.500 per kalendermaand voor de zevende tot en met de twaalfde kalendermaand van de functievervulling.
 
-2. Onverminderd het eerste lid, komen partijen voor de duur van de functievervulling tot en met twaalf kalendermaanden geen bezoldiging overeen die meer bedraagt dan € 175 per uur.
+2. Onverminderd het eerste lid, komen partijen voor de duur van de functievervulling tot en met twaalf kalendermaanden geen bezoldiging overeen die meer bedraagt dan € 176 per uur.
 
 3. In geval de vervulling van de functie van topfunctionaris anders dan op grond van een dienstbetrekking na het verstrijken van de twaalfde kalendermaand van de functievervulling wordt voortgezet, is [artikel 2.1, vierde lid, eerste volzin, en zesde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0032249&artikel=2.1) van toepassing.
 
@@ -80,15 +82,15 @@ Het bedrag van de in [artikel 5.6, tweede lid, van de wet](https://wetten.overhe
 
 ##### Artikel 5
 
-1. Onze Minister wie het aangaat en Onze Minister kunnen gezamenlijk besluiten dat partijen bij dat besluit vast te stellen hogere bedragen mogen overeenkomen dan de bedragen, genoemd in [artikel 4, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032421&artikel=4&z=2016-01-01&g=2016-01-01) en het op grond van het derde lid toepasselijke bedrag.
+1. Onze Minister wie het aangaat en Onze Minister kunnen gezamenlijk besluiten dat partijen bij dat besluit vast te stellen hogere bedragen mogen overeenkomen dan de bedragen, genoemd in [artikel 4, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032421&artikel=4&z=2017-01-01&g=2017-01-01) en het op grond van het derde lid toepasselijke bedrag.
 
 2. Van een besluit als bedoeld in het eerste lid wordt mededeling gedaan door plaatsing in de Staatscourant.
 
 ##### Artikel 6
 
-1. Onze Minister wie het aangaat kan, gehoord Onze Minister, bij een ministeriële regeling als bedoeld in [artikel 3.1, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0032249&artikel=3.1) voor de in dat lid bedoelde categorie rechtspersonen en instellingen hogere bedragen vaststellen dan de bedragen, genoemd in [artikel 4, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032421&artikel=4&z=2016-01-01&g=2016-01-01).
+1. Onze Minister wie het aangaat kan, gehoord Onze Minister, bij een ministeriële regeling als bedoeld in [artikel 3.1, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0032249&artikel=3.1) voor de in dat lid bedoelde categorie rechtspersonen en instellingen hogere bedragen vaststellen dan de bedragen, genoemd in [artikel 4, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032421&artikel=4&z=2017-01-01&g=2017-01-01).
 
-2. [Artikel 4, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032421&artikel=4&z=2016-01-01&g=2016-01-01), is van overeenkomstige toepassing indien op grond van het eerste lid hogere bedragen zijn vastgesteld, met dien verstande dat in het derde lid in plaats van «[artikel 2.1, vierde lid, eerste volzin, en zesde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0032249&artikel=2.1)» gelezen wordt: [artikel 3.1, vijfde lid, eerste volzin, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0032249&artikel=3.1).
+2. [Artikel 4, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032421&artikel=4&z=2017-01-01&g=2017-01-01), is van overeenkomstige toepassing indien op grond van het eerste lid hogere bedragen zijn vastgesteld, met dien verstande dat in het derde lid in plaats van «[artikel 2.1, vierde lid, eerste volzin, en zesde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0032249&artikel=2.1)» gelezen wordt: [artikel 3.1, vijfde lid, eerste volzin, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0032249&artikel=3.1).
 
 3. De betrokken rechtspersonen of instellingen, bedoeld in de [bijlage bij artikel 1.4, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0032249&bijlage=3) of een samenwerkingsverband van deze rechtspersonen of instellingen kunnen uiterlijk in de maand september voorafgaand aan het jaar waarop de bedragen betrekking hebben, aan Onze Minister wie het aangaat een voorstel doen voor de bedragen, bedoeld in het eerste lid.
 
