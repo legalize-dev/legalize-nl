@@ -175,13 +175,3 @@ Onder toepassing van [artikel 12 van de Wet raadgevend referendum](https://wette
 Deze wet wordt aangehaald als: Wet uitwerking Autobrief II.
 
 Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren die zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
-
-##### Artikel XXVIIIa
-
-Wijzigt de Wet op de motorrijtuigenbelasting 1994.
-
-##### Artikel XXVIIIb
-
-Wijzigt de Provinciewet.
-
-Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren die zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
