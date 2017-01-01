@@ -4,7 +4,7 @@ identifier: "BWBR0035873"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2024-01-01"
-last_updated: "2016-10-15"
+last_updated: "2017-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0035873"
 soort: "ministeriele-regeling"
@@ -68,9 +68,9 @@ Treedt in werking op het tijdstip waarop het Dierproevenbesluit 2014 in werking 
 
 ##### Artikel 2
 
-1. Een aanvraag om een instellingsvergunning wordt ingediend met gebruikmaking van het formulier in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0035873&bijlage=1&z=2016-10-15&g=2016-10-15) bij deze regeling.
+1. Een aanvraag om een instellingsvergunning wordt ingediend met gebruikmaking van het formulier in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0035873&bijlage=1&z=2017-01-01&g=2017-01-01) bij deze regeling.
 
-2. Bij het indienen van een aanvraag is een bedrag van € 1.883,30 verschuldigd.
+2. Vervallen.
 
 3. Na verlening van de instellingsvergunning meldt de vergunninghouder aan Onze Minister onverwijld:
 
@@ -88,9 +88,9 @@ Treedt in werking op het tijdstip waarop het Dierproevenbesluit 2014 in werking 
 
 - b. het projectvoorstel, en
 
-- c. de niet-technische samenvatting van het project overeenkomstig [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0035873&paragraaf=3&artikel=4&z=2016-10-15&g=2016-10-15).
+- c. de niet-technische samenvatting van het project overeenkomstig [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0035873&paragraaf=3&artikel=4&z=2017-01-01&g=2017-01-01).
 
-2. Een aanvraag om een projectvergunning wordt ingediend met gebruikmaking van het formulier in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0035873&bijlage=2&z=2016-10-15&g=2016-10-15) bij deze regeling en het format voor het projectvoorstel in [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0035873&bijlage=3&z=2016-10-15&g=2016-10-15) bij deze regeling.
+2. Een aanvraag om een projectvergunning wordt ingediend met gebruikmaking van het formulier in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0035873&bijlage=2&z=2017-01-01&g=2017-01-01) bij deze regeling en het format voor het projectvoorstel in [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0035873&bijlage=3&z=2017-01-01&g=2017-01-01) bij deze regeling.
 
 3. Bij de aanvraag verstrekt de aanvrager die informatie die nodig is om, voor zover relevant, aan te tonen dat wordt voldaan aan de regels gesteld bij of krachtens de [artikelen 2, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003081&artikel=2), [9](https://wetten.overheid.nl/jci1.3:c:BWBR0003081&artikel=9), [10](https://wetten.overheid.nl/jci1.3:c:BWBR0003081&artikel=10), [10a2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003081&artikel=10a2), [10b](https://wetten.overheid.nl/jci1.3:c:BWBR0003081&artikel=10b) en [13f van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0003081&artikel=13f). De aanvraag bevat in ieder geval de volgende gegevens:
 
@@ -108,13 +108,13 @@ Treedt in werking op het tijdstip waarop het Dierproevenbesluit 2014 in werking 
 
 - g. indien van toepassing, de motivering bedoeld in [artikel 10a2, tweede lid, onder e, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0003081&artikel=10a2);
 
-- h. de gegevens opgenomen in [bijlage 4](https://wetten.overheid.nl/jci1.3:c:BWBR0035873&bijlage=4&z=2016-10-15&g=2016-10-15) bij deze regeling.
+- h. de gegevens opgenomen in [bijlage 4](https://wetten.overheid.nl/jci1.3:c:BWBR0035873&bijlage=4&z=2017-01-01&g=2017-01-01) bij deze regeling.
 
 4. Bij de indiening van de aanvraag om een projectvergunning wordt een door de centrale commissie dierproeven vastgesteld en door de Minister goedgekeurd bedrag voldaan. Het bedrag is een vast bedrag dat de gemiddelde kosten die samenhangen met het behandelen van een aanvraag om een projectvergunning dekt. Van het in de eerste volzin bedoelde goedkeuringsbesluit wordt mededeling gedaan door plaatsing in de Staatscourant.
 
 ##### Artikel 4
 
-1. Voor de niet-technische samenvatting van het project en eventuele aanvullingen hierop als gevolg van wijzigingen als bedoeld in [artikel 10a5 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0003081&artikel=10a5), of een beoordeling van het project achteraf als bedoeld in [artikel 10a1, eerste lid, onder d, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0003081&artikel=10a1), maakt de aanvrager respectievelijk vergunninghouder gebruik van het in [bijlage 5](https://wetten.overheid.nl/jci1.3:c:BWBR0035873&bijlage=5&z=2016-10-15&g=2016-10-15) bij deze regeling opgenomen model.
+1. Voor de niet-technische samenvatting van het project en eventuele aanvullingen hierop als gevolg van wijzigingen als bedoeld in [artikel 10a5 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0003081&artikel=10a5), of een beoordeling van het project achteraf als bedoeld in [artikel 10a1, eerste lid, onder d, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0003081&artikel=10a1), maakt de aanvrager respectievelijk vergunninghouder gebruik van het in [bijlage 5](https://wetten.overheid.nl/jci1.3:c:BWBR0035873&bijlage=5&z=2017-01-01&g=2017-01-01) bij deze regeling opgenomen model.
 
 2. Onverminderd de bescherming van de intellectuele eigendom en vertrouwelijke informatie bevat de niet-technische samenvatting de volgende gegevens:
 
@@ -132,7 +132,7 @@ Treedt in werking op het tijdstip waarop het Dierproevenbesluit 2014 in werking 
 
 1. De wetenschappelijke opleiding, bedoeld in [artikel 2, eerste lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0035866&artikel=2), bestaat uit een master in een relevante studierichting.
 
-2. De cursus proefdierkunde, bedoeld in [artikel 2, eerste lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0035866&artikel=2), voldoet aan de eisen in [bijlage 6](https://wetten.overheid.nl/jci1.3:c:BWBR0035873&bijlage=6&z=2016-10-15&g=2016-10-15) bij deze regeling.
+2. De cursus proefdierkunde, bedoeld in [artikel 2, eerste lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0035866&artikel=2), voldoet aan de eisen in [bijlage 6](https://wetten.overheid.nl/jci1.3:c:BWBR0035873&bijlage=6&z=2017-01-01&g=2017-01-01) bij deze regeling.
 
 3. De Minister kan op verzoek een ontheffing verlenen van het vereiste in het eerste lid, indien op andere wijze wordt aangetoond dat de persoon, bedoeld in [artikel 9 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0003081&artikel=9), beschikt over een vergelijkbaar deskundigheids- en bekwaamheidsniveau.
 
@@ -202,11 +202,11 @@ In afwijking van [artikel 14a, eerste lid, van de wet](https://wetten.overheid.n
 
 2. De in het eerste lid bedoelde gegevens worden bewaard tot vijf jaren na afloop van het kalenderjaar waarop de gegevens betrekking hebben.
 
-3. De fokker, de leverancier en de gebruiker verstrekken de Minister jaarlijks uiterlijk op 15 maart de in [bijlage 7](https://wetten.overheid.nl/jci1.3:c:BWBR0035873&bijlage=7&z=2016-10-15&g=2016-10-15) bij deze regeling genoemde gegevens over het voorafgaande kalenderjaar.
+3. De fokker, de leverancier en de gebruiker verstrekken de Minister jaarlijks uiterlijk op 15 maart de in [bijlage 7](https://wetten.overheid.nl/jci1.3:c:BWBR0035873&bijlage=7&z=2017-01-01&g=2017-01-01) bij deze regeling genoemde gegevens over het voorafgaande kalenderjaar.
 
 ##### Artikel 9
 
-1. In aanvulling op het bepaalde in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0035873&paragraaf=6&artikel=8&z=2016-10-15&g=2016-10-15) houden de fokker, de leverancier en de gebruiker over elke hond, kat en niet-menselijke primaat die zij houden aantekening van de volgende gegevens:
+1. In aanvulling op het bepaalde in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0035873&paragraaf=6&artikel=8&z=2017-01-01&g=2017-01-01) houden de fokker, de leverancier en de gebruiker over elke hond, kat en niet-menselijke primaat die zij houden aantekening van de volgende gegevens:
 
 - a. identiteit;
 
@@ -238,9 +238,9 @@ In aanvulling op de taken, genoemd in [artikel 19, tweede lid, onderdelen a tot 
 
 ##### Artikel 11
 
-1. Met een ontheffing op grond van [artikel 5, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035873&paragraaf=4&artikel=5&z=2016-10-15&g=2016-10-15), wordt gelijkgesteld een vóór de inwerkingtreding van de [wet tot wijziging van de Wet op de dierproeven in verband met implementatie van richtlijn 2010/63/EU](https://wetten.overheid.nl/jci1.3:c:BWBR0035875) op grond van [artikel 16 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0003081&artikel=16) verleende ontheffing, voor zover deze betrekking heeft op het vereiste dat de persoon bedoeld in [artikel 9 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0003081&artikel=9) beschikt over een master in een relevante studierichting.
+1. Met een ontheffing op grond van [artikel 5, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035873&paragraaf=4&artikel=5&z=2017-01-01&g=2017-01-01), wordt gelijkgesteld een vóór de inwerkingtreding van de [wet tot wijziging van de Wet op de dierproeven in verband met implementatie van richtlijn 2010/63/EU](https://wetten.overheid.nl/jci1.3:c:BWBR0035875) op grond van [artikel 16 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0003081&artikel=16) verleende ontheffing, voor zover deze betrekking heeft op het vereiste dat de persoon bedoeld in [artikel 9 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0003081&artikel=9) beschikt over een master in een relevante studierichting.
 
-2. Met een ontheffing op grond van [artikel 6, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035873&paragraaf=4&artikel=6&z=2016-10-15&g=2016-10-15), wordt gelijkgesteld een vóór de inwerkingtreding van de wet tot [wijziging van de Wet op de dierproeven in verband met implementatie van richtlijn 2010/63/EU](https://wetten.overheid.nl/jci1.3:c:BWBR0035875) op grond van [artikel 16 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0003081&artikel=16) verleende ontheffing, voor zover deze ontheffing betrekking heeft op de opleidingsvereisten ten aanzien van personen die proefdieren verzorgen, biotechnische werkzaamheden uitvoeren of proefdieren doden.
+2. Met een ontheffing op grond van [artikel 6, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035873&paragraaf=4&artikel=6&z=2017-01-01&g=2017-01-01), wordt gelijkgesteld een vóór de inwerkingtreding van de wet tot [wijziging van de Wet op de dierproeven in verband met implementatie van richtlijn 2010/63/EU](https://wetten.overheid.nl/jci1.3:c:BWBR0035875) op grond van [artikel 16 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0003081&artikel=16) verleende ontheffing, voor zover deze ontheffing betrekking heeft op de opleidingsvereisten ten aanzien van personen die proefdieren verzorgen, biotechnische werkzaamheden uitvoeren of proefdieren doden.
 
 ##### Artikel 12
 
@@ -250,7 +250,7 @@ Deze regeling treedt in werking op het tijdstip waarop het [Dierproevenbesluit 2
 
 Deze regeling wordt aangehaald als: Dierproevenregeling 2014.
 
-## Bijlage 1. behorende bij [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035873&paragraaf=2&artikel=2&z=2016-10-15&g=2016-10-15), van de Dierproevenregeling 2014
+## Bijlage 1. behorende bij [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035873&paragraaf=2&artikel=2&z=2017-01-01&g=2017-01-01), van de Dierproevenregeling 2014
 
 Aanvraagformulier voor instellingsvergunning:
 
@@ -300,13 +300,13 @@ Aanvraagformulier voor instellingsvergunning:
 
 - 6. Ondertekening De vergunninghouder: Naam: Functie: Plaats: Dagtekening: Handtekening:
 
-## Bijlage 2. behorend bij [artikel 3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035873&paragraaf=3&artikel=3&z=2016-10-15&g=2016-10-15), van de Dierproevenregeling 2014
+## Bijlage 2. behorend bij [artikel 3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035873&paragraaf=3&artikel=3&z=2017-01-01&g=2017-01-01), van de Dierproevenregeling 2014
 
 ### Aanvraagformulier Projectvergunning Dierproeven
 
 ### Administratieve gegevens
 
-## Bijlage 3. behorend bij [artikel 3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035873&paragraaf=3&artikel=3&z=2016-10-15&g=2016-10-15), van de Dierproevenregeling 2014
+## Bijlage 3. behorend bij [artikel 3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035873&paragraaf=3&artikel=3&z=2017-01-01&g=2017-01-01), van de Dierproevenregeling 2014
 
 ### Format Projectvoorstel dierproeven
 
@@ -314,7 +314,7 @@ Aanvraagformulier voor instellingsvergunning:
 
 ### Beschrijving dierproeven
 
-## Bijlage 4. behorend bij [artikel 3, derde lid, onderdeel h](https://wetten.overheid.nl/jci1.3:c:BWBR0035873&paragraaf=3&artikel=3&z=2016-10-15&g=2016-10-15), van de Dierproevenregeling 2014
+## Bijlage 4. behorend bij [artikel 3, derde lid, onderdeel h](https://wetten.overheid.nl/jci1.3:c:BWBR0035873&paragraaf=3&artikel=3&z=2017-01-01&g=2017-01-01), van de Dierproevenregeling 2014
 
 Bij de aanvraag om een projectvergunning worden de volgende gegevens verstrekt:
 
@@ -346,7 +346,7 @@ Bij de aanvraag om een projectvergunning worden de volgende gegevens verstrekt:
 
 - 12. de bekwaamheid van de bij het project betrokken personen.
 
-## Bijlage 5. behorend bij [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035873&paragraaf=3&artikel=4&z=2016-10-15&g=2016-10-15), van de Dierproevenregeling 2014
+## Bijlage 5. behorend bij [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035873&paragraaf=3&artikel=4&z=2017-01-01&g=2017-01-01), van de Dierproevenregeling 2014
 
 ### Model voor een niet-technische samenvatting
 
@@ -354,19 +354,19 @@ Bij de aanvraag om een projectvergunning worden de volgende gegevens verstrekt:
 
 2 De indeling naar ernst zoals bedoeld in [artikel 10b, eerste lid, van de Wet op de dierproeven](https://wetten.overheid.nl/jci1.3:c:BWBR0003081&artikel=10b).
 
-## Bijlage 6. behorende bij [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0035873&paragraaf=4&artikel=5&z=2016-10-15&g=2016-10-15) van de Dierproevenregeling 2014
+## Bijlage 6. behorende bij [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0035873&paragraaf=4&artikel=5&z=2017-01-01&g=2017-01-01) van de Dierproevenregeling 2014
 
 ### Opleidingseisen met betrekking tot de persoon die het project en de dierproef opzet
 
 De cursus proefdierkunde bedoeld in [artikel 2, eerste lid, van het Dierproevenbesluit 2014](https://wetten.overheid.nl/jci1.3:c:BWBR0035866&artikel=2), voor de persoon die het project en de dierproef opzet als bedoeld in [artikel 9 van de Wet op de dierproeven](https://wetten.overheid.nl/jci1.3:c:BWBR0003081&artikel=9), voldoet aan de volgende minimumeisen:
 
-## Bijlage 7. behorend bij [artikel 8, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035873&paragraaf=6&artikel=8&z=2016-10-15&g=2016-10-15), van de Dierproevenregeling 2014
+## Bijlage 7. behorend bij [artikel 8, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035873&paragraaf=6&artikel=8&z=2017-01-01&g=2017-01-01), van de Dierproevenregeling 2014
 
 ### Toelichting bij de registratie proefdieren en dierproeven
 
 ### Algemeen
 
-De Registratie van dierproeven en proefdieren berust op [artikel 8, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035873&paragraaf=6&artikel=8&z=2016-10-15&g=2016-10-15), van de Dierproevenregeling 2014 en het uitvoeringsbesluit 2012/707/EU bij de [Richtlijn 2010/63](32010L0063)/EU. Aan de Registratie dient te worden deelgenomen door allen die krachtens [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003081&artikel=2), en [artikel 11a van de Wet op de dierproeven](https://wetten.overheid.nl/jci1.3:c:BWBR0003081&artikel=11a) (verder: Wod) een instellingsvergunning tot het verrichten van dierproeven en/of voor het fokken en afleveren van proefdieren bezitten (verder: vergunninghouder).
+De Registratie van dierproeven en proefdieren berust op [artikel 8, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035873&paragraaf=6&artikel=8&z=2017-01-01&g=2017-01-01), van de Dierproevenregeling 2014 en het uitvoeringsbesluit 2012/707/EU bij de [Richtlijn 2010/63](32010L0063)/EU. Aan de Registratie dient te worden deelgenomen door allen die krachtens [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003081&artikel=2), en [artikel 11a van de Wet op de dierproeven](https://wetten.overheid.nl/jci1.3:c:BWBR0003081&artikel=11a) (verder: Wod) een instellingsvergunning tot het verrichten van dierproeven en/of voor het fokken en afleveren van proefdieren bezitten (verder: vergunninghouder).
 
 De Registratie omvat vier onderdelen.
 
