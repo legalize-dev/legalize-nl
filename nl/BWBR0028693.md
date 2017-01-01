@@ -4,7 +4,7 @@ identifier: "BWBR0028693"
 country: "nl"
 rank: "amvb_bes"
 publication_date: "2026-04-10"
-last_updated: "2016-12-28"
+last_updated: "2017-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0028693"
 soort: "AMvB-BES"
@@ -40,7 +40,7 @@ entry_into_force: "2011-10-09"
 
 1. De bepalingen van dit besluit en de uit kracht daarvan gegeven voorschriften vinden slechts toepassing voor zover niet anders is of wordt bepaald.
 
-2. De [hoofdstukken IV](https://wetten.overheid.nl/jci1.3:c:BWBR0028693&hoofdstuk=IV&z=2016-12-28&g=2016-12-28), [V](https://wetten.overheid.nl/jci1.3:c:BWBR0028693&hoofdstuk=V&z=2016-12-28&g=2016-12-28) en [VI](https://wetten.overheid.nl/jci1.3:c:BWBR0028693&hoofdstuk=VI&z=2016-12-28&g=2016-12-28) zijn niet van toepassing op ambtenaren die niet regelmatig dienst doen.
+2. De [hoofdstukken IV](https://wetten.overheid.nl/jci1.3:c:BWBR0028693&hoofdstuk=IV&z=2018-09-22&g=2017-01-01), [V](https://wetten.overheid.nl/jci1.3:c:BWBR0028693&hoofdstuk=V&z=2018-09-22&g=2017-01-01) en [VI](https://wetten.overheid.nl/jci1.3:c:BWBR0028693&hoofdstuk=VI&z=2018-09-22&g=2017-01-01) zijn niet van toepassing op ambtenaren die niet regelmatig dienst doen.
 
 ##### Artikel 2
 
@@ -58,7 +58,7 @@ entry_into_force: "2011-10-09"
 
 - d. van personen in opleiding;
 
-- e. van personen als bedoeld in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0028693&hoofdstuk=I&artikel=1&z=2016-12-28&g=2016-12-28);
+- e. van personen als bedoeld in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0028693&hoofdstuk=I&artikel=1&z=2018-09-22&g=2017-01-01);
 
 - f. voor een proeftijd van niet langer dan één jaar, ten hoogste met nog één jaar te verlengen. In bijzondere gevallen kan op verzoek van de ambtenaar de proeftijd na twee jaren nog uiterlijk met één jaar worden verlengd;
 
@@ -82,7 +82,7 @@ entry_into_force: "2011-10-09"
 
 ##### Artikel 4
 
-1. De uitslag van het geneeskundig onderzoek, bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0028693&hoofdstuk=II&artikel=3&z=2016-12-28&g=2016-12-28), wordt aan de belanghebbende zo spoedig mogelijk medegedeeld.
+1. De uitslag van het geneeskundig onderzoek, bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0028693&hoofdstuk=II&artikel=3&z=2018-09-22&g=2017-01-01), wordt aan de belanghebbende zo spoedig mogelijk medegedeeld.
 
 2. De kosten van het geneeskundig onderzoek alsmede de eventuele reis- en verblijfkosten terzake van dit onderzoek van belanghebbende komen ten laste van de overheid.
 
@@ -90,7 +90,7 @@ entry_into_force: "2011-10-09"
 
 ##### Artikel 5
 
-In bijzondere gevallen kan hij, die bij het geneeskundig onderzoek niet geschikt bevonden is, desniettemin in het belang van de dienst tot ambtenaar in tijdelijke dienst worden aangesteld, mits de geneeskundige(n), bedoeld in [artikel 3, eerste lid, onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0028693&hoofdstuk=II&artikel=3&z=2016-12-28&g=2016-12-28), verklaart (verklaren), dat tegen een aanstelling in tijdelijke dienst uit medisch oogpunt geen bezwaar bestaat. Aan de betrokkene wordt, alvorens hij wordt aangesteld, mededeling gedaan van de inhoud en strekking van [artikel 6, eerste lid, van de Pensioenwet ambtenaren BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028714&artikel=6).
+In bijzondere gevallen kan hij, die bij het geneeskundig onderzoek niet geschikt bevonden is, desniettemin in het belang van de dienst tot ambtenaar in tijdelijke dienst worden aangesteld, mits de geneeskundige(n), bedoeld in [artikel 3, eerste lid, onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0028693&hoofdstuk=II&artikel=3&z=2018-09-22&g=2017-01-01), verklaart (verklaren), dat tegen een aanstelling in tijdelijke dienst uit medisch oogpunt geen bezwaar bestaat. Aan de betrokkene wordt, alvorens hij wordt aangesteld, mededeling gedaan van de inhoud en strekking van [artikel 6, eerste lid, van de Pensioenwet ambtenaren BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028714&artikel=6).
 
 ### Hoofdstuk I. Algemene bepalingen
 
@@ -100,7 +100,7 @@ In bijzondere gevallen kan hij, die bij het geneeskundig onderzoek niet geschikt
 
 1. Bij overgang naar een ander ambt wordt een ambtenaar niet opnieuw gekeurd, tenzij voor dat ambt keuringseisen zijn vastgesteld of redelijkerwijze kunnen geacht worden te gelden, zwaarder dan die, welke zijn vastgesteld of redelijkerwijze geacht kunnen worden te gelden voor het ambt, dat hij tevoren bekleed heeft.
 
-2. In het geval, bedoeld in het eerste lid, vinden de [artikelen 4](https://wetten.overheid.nl/jci1.3:c:BWBR0028693&hoofdstuk=II&artikel=4&z=2016-12-28&g=2016-12-28) en [5](https://wetten.overheid.nl/jci1.3:c:BWBR0028693&hoofdstuk=II&artikel=5&z=2016-12-28&g=2016-12-28) overeenkomstige toepassing.
+2. In het geval, bedoeld in het eerste lid, vinden de [artikelen 4](https://wetten.overheid.nl/jci1.3:c:BWBR0028693&hoofdstuk=II&artikel=4&z=2018-09-22&g=2017-01-01) en [5](https://wetten.overheid.nl/jci1.3:c:BWBR0028693&hoofdstuk=II&artikel=5&z=2018-09-22&g=2017-01-01) overeenkomstige toepassing.
 
 ##### Artikel 7
 
@@ -168,11 +168,11 @@ Ingeval ten aanzien van de aanstelling en de bevordering ontwikkelings- en ander
 
 ##### Artikel 14
 
-1. De beoordeling, bedoeld in [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0028693&hoofdstuk=III&artikel=12&z=2016-12-28&g=2016-12-28), de aantekening met betrekking tot een ambtenaar in de ranglijst, bedoeld in [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0028693&hoofdstuk=III&artikel=13&z=2016-12-28&g=2016-12-28), aangebracht, en de weigering om een beoordeling te doen plaatsvinden of een aantekening in de ranglijst aan te brengen zijn beschikkingen als bedoeld in [artikel 3, eerste lid, van de Wet ambtenarenrechtspraak 1951 BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028616&artikel=3).
+1. De beoordeling, bedoeld in [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0028693&hoofdstuk=III&artikel=12&z=2018-09-22&g=2017-01-01), de aantekening met betrekking tot een ambtenaar in de ranglijst, bedoeld in [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0028693&hoofdstuk=III&artikel=13&z=2018-09-22&g=2017-01-01), aangebracht, en de weigering om een beoordeling te doen plaatsvinden of een aantekening in de ranglijst aan te brengen zijn beschikkingen als bedoeld in [artikel 3, eerste lid, van de Wet ambtenarenrechtspraak 1951 BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028616&artikel=3).
 
-2. In de regels, bedoeld in de [artikelen 12](https://wetten.overheid.nl/jci1.3:c:BWBR0028693&hoofdstuk=III&artikel=12&z=2016-12-28&g=2016-12-28) en [13](https://wetten.overheid.nl/jci1.3:c:BWBR0028693&hoofdstuk=III&artikel=13&z=2016-12-28&g=2016-12-28), wordt in elk geval de mogelijkheid geopend van een administratief beroep tegen een beoordeling, een aantekening in de ranglijst of een weigering om een beoordeling te doen plaatsvinden of een aantekening aan te brengen.
+2. In de regels, bedoeld in de [artikelen 12](https://wetten.overheid.nl/jci1.3:c:BWBR0028693&hoofdstuk=III&artikel=12&z=2018-09-22&g=2017-01-01) en [13](https://wetten.overheid.nl/jci1.3:c:BWBR0028693&hoofdstuk=III&artikel=13&z=2018-09-22&g=2017-01-01), wordt in elk geval de mogelijkheid geopend van een administratief beroep tegen een beoordeling, een aantekening in de ranglijst of een weigering om een beoordeling te doen plaatsvinden of een aantekening aan te brengen.
 
-3. Eveneens wordt de mogelijkheid van administratief beroep geopend tegen beschikkingen met betrekking tot verhogingen van een bezoldiging, toekenning van een toelage of beloning, en de weigering om een verhoging, een toelage of een beloning toe te kennen, voor zover de daartoe strekkende beschikkingen mede of uitsluitend op grond van een beoordeling als bedoeld in [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0028693&hoofdstuk=III&artikel=12&z=2016-12-28&g=2016-12-28) zijn tot stand gebracht.
+3. Eveneens wordt de mogelijkheid van administratief beroep geopend tegen beschikkingen met betrekking tot verhogingen van een bezoldiging, toekenning van een toelage of beloning, en de weigering om een verhoging, een toelage of een beloning toe te kennen, voor zover de daartoe strekkende beschikkingen mede of uitsluitend op grond van een beoordeling als bedoeld in [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0028693&hoofdstuk=III&artikel=12&z=2018-09-22&g=2017-01-01) zijn tot stand gebracht.
 
 4. Op het administratief beroep wordt beslist door het bevoegde gezag.
 
@@ -190,11 +190,11 @@ Voor zover niet bij of krachtens de wet afwijkende regels zijn gesteld, geschied
 
 ##### Artikel 16
 
-Indien de bezoldiging geschiedt overeenkomstig een schaal die verschillende, naar de hoogte van de bedragen opstijgende bezoldigingstreden vertoont, kan de toekenning van verhogingen van de bezoldiging mede of uitsluitend afhankelijk worden gemaakt van de inhoud van een beoordeling als bedoeld in [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0028693&hoofdstuk=III&artikel=12&z=2016-12-28&g=2016-12-28). Hieromtrent kunnen nadere voorschriften worden gegeven bij ministeriële regeling voor zover het de ambtenaren in dienst van de staat betreft en bij eilandbesluit, houdende algemene maatregelen, voor zover het de ambtenaren in dienst van een openbaar lichaam betreft.
+Indien de bezoldiging geschiedt overeenkomstig een schaal die verschillende, naar de hoogte van de bedragen opstijgende bezoldigingstreden vertoont, kan de toekenning van verhogingen van de bezoldiging mede of uitsluitend afhankelijk worden gemaakt van de inhoud van een beoordeling als bedoeld in [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0028693&hoofdstuk=III&artikel=12&z=2018-09-22&g=2017-01-01). Hieromtrent kunnen nadere voorschriften worden gegeven bij ministeriële regeling voor zover het de ambtenaren in dienst van de staat betreft en bij eilandbesluit, houdende algemene maatregelen, voor zover het de ambtenaren in dienst van een openbaar lichaam betreft.
 
 ##### Artikel 17
 
-Aan de gewone bezoldiging welke voor een ambtenaar geldt kunnen behalve de toelagen en vergoedingen, bedoeld in de [artikelen 24, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028693&hoofdstuk=IV&paragraaf=1&artikel=24&z=2016-12-28&g=2016-12-28), en [25, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028693&hoofdstuk=IV&paragraaf=1&artikel=25&z=2016-12-28&g=2016-12-28), ook bijzondere individuele vergoedingen en verhogingen of persoonlijke toelagen met een periodiek karakter worden verbonden. De gronden waarop een zodanige verhoging of toelage kunnen worden toegekend worden bij ministeriële regeling vastgesteld voor zover het ambtenaren in dienst van de staat betreft en bij eilandbesluit, houdende algemene maatregelen, voor zover het ambtenaren in dienst van een openbaar lichaam betreft. [Artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBR0028693&hoofdstuk=IV&paragraaf=1&artikel=16&z=2016-12-28&g=2016-12-28) is van overeenkomstige toepassing.
+Aan de gewone bezoldiging welke voor een ambtenaar geldt kunnen behalve de toelagen en vergoedingen, bedoeld in de [artikelen 24, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028693&hoofdstuk=IV&paragraaf=1&artikel=24&z=2018-09-22&g=2017-01-01), en [25, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028693&hoofdstuk=IV&paragraaf=1&artikel=25&z=2018-09-22&g=2017-01-01), ook bijzondere individuele vergoedingen en verhogingen of persoonlijke toelagen met een periodiek karakter worden verbonden. De gronden waarop een zodanige verhoging of toelage kunnen worden toegekend worden bij ministeriële regeling vastgesteld voor zover het ambtenaren in dienst van de staat betreft en bij eilandbesluit, houdende algemene maatregelen, voor zover het ambtenaren in dienst van een openbaar lichaam betreft. [Artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBR0028693&hoofdstuk=IV&paragraaf=1&artikel=16&z=2018-09-22&g=2017-01-01) is van overeenkomstige toepassing.
 
 ##### Artikel 18
 
@@ -206,7 +206,7 @@ De bezoldiging van een ambtenaar voor wie de geldende werktijd korter is dan de 
 
 ##### Artikel 20
 
-In het geval, bedoeld in [artikel 19](https://wetten.overheid.nl/jci1.3:c:BWBR0028693&hoofdstuk=IV&paragraaf=1&artikel=19&z=2016-12-28&g=2016-12-28), geldt voor de toepassing van de [artikelen 16](https://wetten.overheid.nl/jci1.3:c:BWBR0028693&hoofdstuk=IV&paragraaf=1&artikel=16&z=2016-12-28&g=2016-12-28), [17](https://wetten.overheid.nl/jci1.3:c:BWBR0028693&hoofdstuk=IV&paragraaf=1&artikel=17&z=2016-12-28&g=2016-12-28), [18](https://wetten.overheid.nl/jci1.3:c:BWBR0028693&hoofdstuk=IV&paragraaf=1&artikel=18&z=2016-12-28&g=2016-12-28) en [24, tweede en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028693&hoofdstuk=IV&paragraaf=1&artikel=24&z=2016-12-28&g=2016-12-28), als bezoldiging voor die ambtenaar de bezoldiging die hij in die functie zou hebben genoten, indien de voor hem geldende werktijd gelijk zou zijn aan de voor zijn functie gebruikelijke volledige werktijd.
+In het geval, bedoeld in [artikel 19](https://wetten.overheid.nl/jci1.3:c:BWBR0028693&hoofdstuk=IV&paragraaf=1&artikel=19&z=2018-09-22&g=2017-01-01), geldt voor de toepassing van de [artikelen 16](https://wetten.overheid.nl/jci1.3:c:BWBR0028693&hoofdstuk=IV&paragraaf=1&artikel=16&z=2018-09-22&g=2017-01-01), [17](https://wetten.overheid.nl/jci1.3:c:BWBR0028693&hoofdstuk=IV&paragraaf=1&artikel=17&z=2018-09-22&g=2017-01-01), [18](https://wetten.overheid.nl/jci1.3:c:BWBR0028693&hoofdstuk=IV&paragraaf=1&artikel=18&z=2018-09-22&g=2017-01-01) en [24, tweede en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028693&hoofdstuk=IV&paragraaf=1&artikel=24&z=2018-09-22&g=2017-01-01), als bezoldiging voor die ambtenaar de bezoldiging die hij in die functie zou hebben genoten, indien de voor hem geldende werktijd gelijk zou zijn aan de voor zijn functie gebruikelijke volledige werktijd.
 
 ##### Artikel 21
 
@@ -266,7 +266,7 @@ De ambtenaar ontvangt over de tijd gedurende welke hij in strijd met zijn verpli
 
 3. De vergoeding voor overwerk wordt in vrije tijd genoten en bestaat uit verlof, gelijk aan het aantal uren overschrijding van de per werkperiode vastgestelde arbeidsduur van een voltijds-werkende vermenigvuldigd met de factor:
 
-- a. 2: voor overwerk, verricht op een dienstvrije dag, op een feestdag als bedoeld in [artikel 37, onderdeel j](https://wetten.overheid.nl/jci1.3:c:BWBR0028693&hoofdstuk=V&artikel=37&z=2016-12-28&g=2016-12-28), en tussen zondagmorgen zes uur en maandagmorgen zes uur;
+- a. 2: voor overwerk, verricht op een dienstvrije dag, op een feestdag als bedoeld in [artikel 37, onderdeel j](https://wetten.overheid.nl/jci1.3:c:BWBR0028693&hoofdstuk=V&artikel=37&z=2018-09-22&g=2017-01-01), en tussen zondagmorgen zes uur en maandagmorgen zes uur;
 
 - b. 1½: voor overwerk, verricht op andere tijdstippen
 
@@ -280,27 +280,27 @@ De ambtenaar ontvangt over de tijd gedurende welke hij in strijd met zijn verpli
 
 - b. een bedrag in geld, dat voor elk uur van de overschrijding, bedoeld onder a, een percentage van de voor de ambtenaar geldende inkomsten per uur bedraagt, te weten:
 
-- 1. 100%: voor overwerk, verricht op een dienstvrije dag, op een feestdag als bedoeld in [artikel 37, onderdeel j](https://wetten.overheid.nl/jci1.3:c:BWBR0028693&hoofdstuk=V&artikel=37&z=2016-12-28&g=2016-12-28), en tussen zondagmorgen zes uur en maandagmorgen zes uur;
+- 1. 100%: voor overwerk, verricht op een dienstvrije dag, op een feestdag als bedoeld in [artikel 37, onderdeel j](https://wetten.overheid.nl/jci1.3:c:BWBR0028693&hoofdstuk=V&artikel=37&z=2018-09-22&g=2017-01-01), en tussen zondagmorgen zes uur en maandagmorgen zes uur;
 
 - 2. 50%: voor overwerk, verricht op andere tijdstippen.
 
 7. Een vergoeding geheel in geld bestaat uit een bedrag in geld, dat voor elk uur overschrijding van de per werkperiode vastgestelde arbeidsduur van een voltijdswerkende een percentage van de voor de ambtenaar geldende inkomsten per uur bedraagt, te weten:
 
-- 1. 200%: voor overwerk, verricht op een dienstvrije dag, op een feestdag als bedoeld in [artikel 37, onderdeel j](https://wetten.overheid.nl/jci1.3:c:BWBR0028693&hoofdstuk=V&artikel=37&z=2016-12-28&g=2016-12-28), en tussen zondagmorgen zes uur en maandagmorgen zes uur;
+- 1. 200%: voor overwerk, verricht op een dienstvrije dag, op een feestdag als bedoeld in [artikel 37, onderdeel j](https://wetten.overheid.nl/jci1.3:c:BWBR0028693&hoofdstuk=V&artikel=37&z=2018-09-22&g=2017-01-01), en tussen zondagmorgen zes uur en maandagmorgen zes uur;
 
 - 2. 150%: voor overwerk, verricht op andere tijdstippen.
 
 8. Geen beloning voor overwerk, berekend per uur wordt genoten door ambtenaren:
 
-- a. die een betrekking bekleden, welke hoger wordt bezoldigd dan volgens schaal 9 van de krachtens [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBR0028693&hoofdstuk=IV&paragraaf=1&artikel=15&z=2016-12-28&g=2016-12-28) vastgestelde bezoldigingsschalen, bedoeld in artikel 15, onder a, of volgens daarmede in andere organieke regelingen der bezoldigingen voorkomende overeenkomstige bezoldigingsschalen danwel volgens de schalen, welke daarvoor eventueel in de plaats zullen treden;
+- a. die een betrekking bekleden, welke hoger wordt bezoldigd dan volgens schaal 9 van de krachtens [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBR0028693&hoofdstuk=IV&paragraaf=1&artikel=15&z=2018-09-22&g=2017-01-01) vastgestelde bezoldigingsschalen, bedoeld in artikel 15, onder a, of volgens daarmede in andere organieke regelingen der bezoldigingen voorkomende overeenkomstige bezoldigingsschalen danwel volgens de schalen, welke daarvoor eventueel in de plaats zullen treden;
 
 - b. die met de leiding van een dienstvak of een onderdeel daarvan zijn belast of die zelfstandig overwerk verrichten;
 
 - c. die zijn belast met de uitoefening van een functie c.q. taak, welke met zich meebrengt, dat zij regelmatig overwerk moeten verrichten.
 
-Aan de onder a. en b. bedoelde ambtenaren kan voor overwerk een eenmalige vergoeding of een gratificatie en aan de onder c. bedoelde ambtenaren een vaste maandelijkse vergoeding in vrije tijd of, in zeer bijzondere gevallen, in geld worden toegekend, vast te stellen door het bevoegd gezag, voor wat betreft de maximale hoogte van het bedrag van een zodanige vergoeding in vrije tijd of, in zeer bijzondere gevallen, in geld of gratificatie met inachtneming van het bij of krachtens [artikel 70](https://wetten.overheid.nl/jci1.3:c:BWBR0028693&hoofdstuk=VII&paragraaf=10&artikel=70&z=2016-12-28&g=2016-12-28) bepaalde.
+Aan de onder a. en b. bedoelde ambtenaren kan voor overwerk een eenmalige vergoeding of een gratificatie en aan de onder c. bedoelde ambtenaren een vaste maandelijkse vergoeding in vrije tijd of, in zeer bijzondere gevallen, in geld worden toegekend, vast te stellen door het bevoegd gezag, voor wat betreft de maximale hoogte van het bedrag van een zodanige vergoeding in vrije tijd of, in zeer bijzondere gevallen, in geld of gratificatie met inachtneming van het bij of krachtens [artikel 70](https://wetten.overheid.nl/jci1.3:c:BWBR0028693&hoofdstuk=VII&paragraaf=10&artikel=70&z=2018-09-22&g=2017-01-01) bepaalde.
 
-9. Als inkomsten als bedoeld in het zesde en zevende lid worden aangemerkt de bezoldiging, vermeerderd met een eventuele kindertoelage, de bijzondere individuele vergoedingen en de verhogingen en persoonlijke toelagen met een periodiek karakter welke op grond van een organieke regeling van de bezoldiging en ingevolge de [artikelen 17](https://wetten.overheid.nl/jci1.3:c:BWBR0028693&hoofdstuk=IV&paragraaf=1&artikel=17&z=2016-12-28&g=2016-12-28) en [24](https://wetten.overheid.nl/jci1.3:c:BWBR0028693&hoofdstuk=IV&paragraaf=1&artikel=24&z=2016-12-28&g=2016-12-28) worden genoten, de continue-toelage en vergoedingen van onkosten daaronder niet begrepen.
+9. Als inkomsten als bedoeld in het zesde en zevende lid worden aangemerkt de bezoldiging, vermeerderd met een eventuele kindertoelage, de bijzondere individuele vergoedingen en de verhogingen en persoonlijke toelagen met een periodiek karakter welke op grond van een organieke regeling van de bezoldiging en ingevolge de [artikelen 17](https://wetten.overheid.nl/jci1.3:c:BWBR0028693&hoofdstuk=IV&paragraaf=1&artikel=17&z=2018-09-22&g=2017-01-01) en [24](https://wetten.overheid.nl/jci1.3:c:BWBR0028693&hoofdstuk=IV&paragraaf=1&artikel=24&z=2018-09-22&g=2017-01-01) worden genoten, de continue-toelage en vergoedingen van onkosten daaronder niet begrepen.
 
 10. Voor de toepassing van dit artikel wordt een gewerkte tijd van dertig minuten of meer, doch korter dan van één uur, als een vol uur aangemerkt.
 
@@ -340,7 +340,7 @@ Nadere voorschriften kunnen worden vastgesteld betreffende de uitvoering van de 
 
 ##### Artikel 29
 
-Nadere regels ter uitvoering van de [artikelen 27](https://wetten.overheid.nl/jci1.3:c:BWBR0028693&hoofdstuk=IV&paragraaf=2&artikel=27&z=2016-12-28&g=2016-12-28) en [28](https://wetten.overheid.nl/jci1.3:c:BWBR0028693&hoofdstuk=IV&paragraaf=2&artikel=28&z=2016-12-28&g=2016-12-28) worden vastgesteld:
+Nadere regels ter uitvoering van de [artikelen 27](https://wetten.overheid.nl/jci1.3:c:BWBR0028693&hoofdstuk=IV&paragraaf=2&artikel=27&z=2018-09-22&g=2017-01-01) en [28](https://wetten.overheid.nl/jci1.3:c:BWBR0028693&hoofdstuk=IV&paragraaf=2&artikel=28&z=2018-09-22&g=2017-01-01) worden vastgesteld:
 
 - a. bij ministeriële regeling, voor ambtenaren in dienst van de staat;
 
@@ -348,7 +348,7 @@ Nadere regels ter uitvoering van de [artikelen 27](https://wetten.overheid.nl/jc
 
 ##### Artikel 30
 
-Ten aanzien van de ambtenaar voor wie de geldende werktijd korter is dan de voor zijn functie geldende gebruikelijke volledige werktijd wordt in de regels, bedoeld in [artikel 29](https://wetten.overheid.nl/jci1.3:c:BWBR0028693&hoofdstuk=IV&paragraaf=2&artikel=29&z=2016-12-28&g=2016-12-28), indien en voor zover daarbij ter vaststelling van de kinder-, standplaats-, kostwinners- en detacheringstoelagen de bezoldiging het uitgangspunt vormt, de overeenkomstig [artikel 19](https://wetten.overheid.nl/jci1.3:c:BWBR0028693&hoofdstuk=IV&paragraaf=1&artikel=19&z=2016-12-28&g=2016-12-28) berekende bezoldiging in aanmerking genomen.
+Ten aanzien van de ambtenaar voor wie de geldende werktijd korter is dan de voor zijn functie geldende gebruikelijke volledige werktijd wordt in de regels, bedoeld in [artikel 29](https://wetten.overheid.nl/jci1.3:c:BWBR0028693&hoofdstuk=IV&paragraaf=2&artikel=29&z=2018-09-22&g=2017-01-01), indien en voor zover daarbij ter vaststelling van de kinder-, standplaats-, kostwinners- en detacheringstoelagen de bezoldiging het uitgangspunt vormt, de overeenkomstig [artikel 19](https://wetten.overheid.nl/jci1.3:c:BWBR0028693&hoofdstuk=IV&paragraaf=1&artikel=19&z=2018-09-22&g=2017-01-01) berekende bezoldiging in aanmerking genomen.
 
 #### § 2. Kinder-, standplaats- en kostwinnerstoelage
 
@@ -374,11 +374,11 @@ De ambtenaar die voor herhalingsoefeningen in werkelijke dienst is, behoudt over
 
 ##### Artikel 35
 
-1. Op de ambtenaar, die in tijdelijke dienst is aangesteld, zijn de bepalingen, vervat in de [artikelen 31 tot en met 34](https://wetten.overheid.nl/jci1.3:c:BWBR0028693&hoofdstuk=IV&paragraaf=3&artikel=31&z=2016-12-28&g=2016-12-28), slechts van toepassing tot en met de dag, waarop de burgerlijke betrekking zou zijn geëindigd indien hij daaraan niet door de militaire dienst zou zijn onttrokken.
+1. Op de ambtenaar, die in tijdelijke dienst is aangesteld, zijn de bepalingen, vervat in de [artikelen 31 tot en met 34](https://wetten.overheid.nl/jci1.3:c:BWBR0028693&hoofdstuk=IV&paragraaf=3&artikel=31&z=2018-09-22&g=2017-01-01), slechts van toepassing tot en met de dag, waarop de burgerlijke betrekking zou zijn geëindigd indien hij daaraan niet door de militaire dienst zou zijn onttrokken.
 
 2. De bepalingen van deze paragraaf worden uitgevoerd door het bevoegd gezag.
 
-3. Ten aanzien van de ambtenaar voor wie de geldende werktijd korter is dan de voor zijn functie geldende gebruikelijke volledige werktijd wordt ter uitvoering van de bepalingen van deze paragraaf de overeenkomstig [artikel 18](https://wetten.overheid.nl/jci1.3:c:BWBR0028693&hoofdstuk=IV&paragraaf=1&artikel=18&z=2016-12-28&g=2016-12-28) berekende bezoldiging in aanmerking genomen.
+3. Ten aanzien van de ambtenaar voor wie de geldende werktijd korter is dan de voor zijn functie geldende gebruikelijke volledige werktijd wordt ter uitvoering van de bepalingen van deze paragraaf de overeenkomstig [artikel 18](https://wetten.overheid.nl/jci1.3:c:BWBR0028693&hoofdstuk=IV&paragraaf=1&artikel=18&z=2018-09-22&g=2017-01-01) berekende bezoldiging in aanmerking genomen.
 
 #### § 3. Bezoldiging in militaire dienst
 
@@ -438,7 +438,7 @@ In dit hoofdstuk en de daarop berustende bepalingen wordt verstaan onder:
 
 8. In afwijking van [hoofdstuk II](https://wetten.overheid.nl/jci1.3:c:BWBR0028606&hoofdstuk=II), [III](https://wetten.overheid.nl/jci1.3:c:BWBR0028606&hoofdstuk=III) en [IIIA van het Besluit vakantie en vrijstelling van dienst ambtenaren BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028606&hoofdstuk=IIIa) heeft de ambtenaar tijdens de vrijstelling van dienst wegens bijzondere omstandigheden, bedoeld in het eerste en vijfde lid, geen aanspraak op vakantie-uren; ten aanzien van de ambtenaar, bedoeld in het tweede lid, is [artikel 8, vierde lid, van het Besluit vakantie en vrijstelling van dienst ambtenaren BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028606&artikel=8) van overeenkomstige toepassing.
 
-9. Onverminderd [artikel 71a, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028693&hoofdstuk=VII&paragraaf=10&artikel=71a&z=2016-12-28&g=2016-12-28), behoudt de ambtenaar al zijn overige rechten en aanspraken tijdens de vrijstelling van dienst wegens bijzondere omstandigheden als bedoeld in het eerste, tweede en vijfde lid.
+9. Onverminderd [artikel 71a, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028693&hoofdstuk=VII&paragraaf=10&artikel=71a&z=2018-09-22&g=2017-01-01), behoudt de ambtenaar al zijn overige rechten en aanspraken tijdens de vrijstelling van dienst wegens bijzondere omstandigheden als bedoeld in het eerste, tweede en vijfde lid.
 
 10. Herstel in activiteit na het einde van de vrijstelling van dienst, bedoeld in het eerste, tweede en vijfde lid, geschiedt bij beschikking van het bevoegde gezag, tenzij de ambtsbetrekking reeds eerder mocht zijn geëindigd.
 
@@ -470,7 +470,7 @@ In dit hoofdstuk en de daarop berustende bepalingen wordt verstaan onder:
 
 ##### Artikel 40
 
-De bij of krachtens [artikel 39](https://wetten.overheid.nl/jci1.3:c:BWBR0028693&hoofdstuk=VI&artikel=39&z=2016-12-28&g=2016-12-28) verstrekte uitkering wordt verminderd met de vergoeding of uitkering welke de ambtenaar ontvangt krachtens een wettelijk voorgeschreven verzekering ter zake van ziekte.
+De bij of krachtens [artikel 39](https://wetten.overheid.nl/jci1.3:c:BWBR0028693&hoofdstuk=VI&artikel=39&z=2018-09-22&g=2017-01-01) verstrekte uitkering wordt verminderd met de vergoeding of uitkering welke de ambtenaar ontvangt krachtens een wettelijk voorgeschreven verzekering ter zake van ziekte.
 
 ### Hoofdstuk V. Dienst- en werktijden
 
@@ -802,7 +802,7 @@ Voorschriften betreffende de overige rechten en verplichtingen van de ambtenaar 
 
 - a. schriftelijke berisping;
 
-- b. buitengewone dienst op andere dagen dan de zondag en de voor de ambtenaar geldende kerkelijke feestdagen, zonder de ingevolge [artikel 25](https://wetten.overheid.nl/jci1.3:c:BWBR0028693&hoofdstuk=IV&paragraaf=1&artikel=25&z=2016-12-28&g=2016-12-28) voor overwerk toe te kennen beloning of tegen een lagere beloning dan deze;
+- b. buitengewone dienst op andere dagen dan de zondag en de voor de ambtenaar geldende kerkelijke feestdagen, zonder de ingevolge [artikel 25](https://wetten.overheid.nl/jci1.3:c:BWBR0028693&hoofdstuk=IV&paragraaf=1&artikel=25&z=2018-09-22&g=2017-01-01) voor overwerk toe te kennen beloning of tegen een lagere beloning dan deze;
 
 - c. geldboete;
 
@@ -860,9 +860,9 @@ Voorschriften betreffende de overige rechten en verplichtingen van de ambtenaar 
 
 4. De strafoplegging moet schriftelijk geschieden en is met redenen omkleed.
 
-5. De tot het opleggen van straffen bevoegden geven aan de gestrafte onverwijld kennis van de strafoplegging door toezending van een afschrift van het desbetreffend besluit. Het [tweede, derde en vierde lid van artikel 80](https://wetten.overheid.nl/jci1.3:c:BWBR0028693&hoofdstuk=VIII&artikel=80&z=2016-12-28&g=2016-12-28) zijn van overeenkomstige toepassing.
+5. De tot het opleggen van straffen bevoegden geven aan de gestrafte onverwijld kennis van de strafoplegging door toezending van een afschrift van het desbetreffend besluit. Het [tweede, derde en vierde lid van artikel 80](https://wetten.overheid.nl/jci1.3:c:BWBR0028693&hoofdstuk=VIII&artikel=80&z=2018-09-22&g=2017-01-01) zijn van overeenkomstige toepassing.
 
-6. Indien de strafoplegging plaats vindt door de krachtens het [tweede lid van artikel 79](https://wetten.overheid.nl/jci1.3:c:BWBR0028693&hoofdstuk=VIII&artikel=79&z=2016-12-28&g=2016-12-28) aangewezenen, wordt in het besluit tot strafoplegging tevens medegedeeld, dat binnen veertien dagen na ontvangst daarvan bij het bevoegd gezag schriftelijk beroep van betrokkene onder aanvoering van gronden open staat, tenzij het bevoegd gezag ingevolge het tweede lid van artikel 79 is aangewezen. Het bevoegd gezag is verplicht binnen drie maanden na de dag waarop de ambtenaar in beroep is gekomen, deze een met redenen omklede beslissing toe te zenden.
+6. Indien de strafoplegging plaats vindt door de krachtens het [tweede lid van artikel 79](https://wetten.overheid.nl/jci1.3:c:BWBR0028693&hoofdstuk=VIII&artikel=79&z=2018-09-22&g=2017-01-01) aangewezenen, wordt in het besluit tot strafoplegging tevens medegedeeld, dat binnen veertien dagen na ontvangst daarvan bij het bevoegd gezag schriftelijk beroep van betrokkene onder aanvoering van gronden open staat, tenzij het bevoegd gezag ingevolge het tweede lid van artikel 79 is aangewezen. Het bevoegd gezag is verplicht binnen drie maanden na de dag waarop de ambtenaar in beroep is gekomen, deze een met redenen omklede beslissing toe te zenden.
 
 ##### Artikel 82
 
@@ -872,15 +872,15 @@ Voorschriften betreffende de overige rechten en verplichtingen van de ambtenaar 
 
 ##### Artikel 83
 
-1. Ter zake van een gedraging als bedoeld in [artikel 78](https://wetten.overheid.nl/jci1.3:c:BWBR0028693&hoofdstuk=VIII&artikel=78&z=2016-12-28&g=2016-12-28) kan slechts één disciplinaire straf worden opgelegd.
+1. Ter zake van een gedraging als bedoeld in [artikel 78](https://wetten.overheid.nl/jci1.3:c:BWBR0028693&hoofdstuk=VIII&artikel=78&z=2018-09-22&g=2017-01-01) kan slechts één disciplinaire straf worden opgelegd.
 
-2. De ambtenaar die zich aan meerdere op zich zelf staande gedragingen als bedoeld in [artikel 78](https://wetten.overheid.nl/jci1.3:c:BWBR0028693&hoofdstuk=VIII&artikel=78&z=2016-12-28&g=2016-12-28) schuldig maakt, kan ter zake elk dier gedragingen afzonderlijk en zonder vermindering disciplinair worden gestraft.
+2. De ambtenaar die zich aan meerdere op zich zelf staande gedragingen als bedoeld in [artikel 78](https://wetten.overheid.nl/jci1.3:c:BWBR0028693&hoofdstuk=VIII&artikel=78&z=2018-09-22&g=2017-01-01) schuldig maakt, kan ter zake elk dier gedragingen afzonderlijk en zonder vermindering disciplinair worden gestraft.
 
 ### Hoofdstuk IX. Schorsing en ontslag
 
 ##### Artikel 84
 
-Onverminderd [artikel 78](https://wetten.overheid.nl/jci1.3:c:BWBR0028693&hoofdstuk=VIII&artikel=78&z=2016-12-28&g=2016-12-28) kan de ambtenaar door het gezag dat bevoegd is tot aanstelling worden geschorst in zijn ambt:
+Onverminderd [artikel 78](https://wetten.overheid.nl/jci1.3:c:BWBR0028693&hoofdstuk=VIII&artikel=78&z=2018-09-22&g=2017-01-01) kan de ambtenaar door het gezag dat bevoegd is tot aanstelling worden geschorst in zijn ambt:
 
 - a. wanneer er een strafrechtelijke vervolging ter zake van misdrijf tegen hem wordt ingesteld;
 
@@ -900,9 +900,9 @@ Onverminderd [artikel 78](https://wetten.overheid.nl/jci1.3:c:BWBR0028693&hoofds
 
 ##### Artikel 86
 
-1. Tijdens de schorsing ingevolge [artikel 84, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0028693&hoofdstuk=IX&artikel=84&z=2016-12-28&g=2016-12-28), of ingevolge [artikel 85, eerste lid onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0028693&hoofdstuk=IX&artikel=85&z=2016-12-28&g=2016-12-28), wordt het inkomen voor één derde gedeelte ingehouden; na verloop van een termijn van zes weken kan een verdere inhouding, ook van het volle bedrag, plaatsvinden. Het niet ingehouden gedeelte van het inkomen kan aan anderen dan aan de ambtenaar worden uitbetaald.
+1. Tijdens de schorsing ingevolge [artikel 84, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0028693&hoofdstuk=IX&artikel=84&z=2018-09-22&g=2017-01-01), of ingevolge [artikel 85, eerste lid onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0028693&hoofdstuk=IX&artikel=85&z=2018-09-22&g=2017-01-01), wordt het inkomen voor één derde gedeelte ingehouden; na verloop van een termijn van zes weken kan een verdere inhouding, ook van het volle bedrag, plaatsvinden. Het niet ingehouden gedeelte van het inkomen kan aan anderen dan aan de ambtenaar worden uitbetaald.
 
-2. Tijdens de schorsing ingevolge [artikel 84, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0028693&hoofdstuk=IX&artikel=84&z=2016-12-28&g=2016-12-28), kan tot de in de strafaanzegging of -oplegging genoemde datum van ingang van het ontslag het inkomen geheel of gedeeltelijk worden ingehouden. Van bedoelde datum van ingang van het ontslag af wordt het inkomen geheel ingehouden. Het niet ingehouden gedeelte van het inkomen kan aan anderen dan aan de ambtenaar worden uitbetaald.
+2. Tijdens de schorsing ingevolge [artikel 84, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0028693&hoofdstuk=IX&artikel=84&z=2018-09-22&g=2017-01-01), kan tot de in de strafaanzegging of -oplegging genoemde datum van ingang van het ontslag het inkomen geheel of gedeeltelijk worden ingehouden. Van bedoelde datum van ingang van het ontslag af wordt het inkomen geheel ingehouden. Het niet ingehouden gedeelte van het inkomen kan aan anderen dan aan de ambtenaar worden uitbetaald.
 
 3. Het ingevolge het eerste lid ingehouden inkomen wordt alsnog uitbetaald, indien de schorsing niet door een door de strafrechter opgelegde straf gevolgd of ook indien en in zoverre op andere gronden alsnog tot uitbetaling wordt besloten.
 
@@ -912,7 +912,7 @@ Onverminderd [artikel 78](https://wetten.overheid.nl/jci1.3:c:BWBR0028693&hoofds
 
 1. Ontslag wordt gegeven door het tot het gezag dat bevoegd is tot aanstelling. Het wordt schriftelijk verleend. De ontslagbeschikking vermeldt de dag van ingang van het ontslag dan wel een aanduiding van die dag.
 
-2. Bij ongevraagd ontslag wordt de ambtenaar, behoudens [artikel 89](https://wetten.overheid.nl/jci1.3:c:BWBR0028693&hoofdstuk=IX&artikel=89&z=2016-12-28&g=2016-12-28), de reden van het ontslag schriftelijk medegedeeld.
+2. Bij ongevraagd ontslag wordt de ambtenaar, behoudens [artikel 89](https://wetten.overheid.nl/jci1.3:c:BWBR0028693&hoofdstuk=IX&artikel=89&z=2018-09-22&g=2017-01-01), de reden van het ontslag schriftelijk medegedeeld.
 
 ##### Artikel 88
 
@@ -964,11 +964,11 @@ Onverminderd [artikel 78](https://wetten.overheid.nl/jci1.3:c:BWBR0028693&hoofds
 
 - a. zij die zulks wensen;
 
-- b. zij die pensioengerechtigd zijn, waarbij degenen die niet reeds gedurende zes maanden of langer kostwinner zijn van een gezin of van de betrekkingen, bedoeld in de [tweede volzin van artikel 36, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028693&hoofdstuk=IV&paragraaf=4&artikel=36&z=2016-12-28&g=2016-12-28), vóór degenen die dit wèl zijn, en binnen deze beide groepen ouderen in leeftijd vóór jongeren gaan;
+- b. zij die pensioengerechtigd zijn, waarbij degenen die niet reeds gedurende zes maanden of langer kostwinner zijn van een gezin of van de betrekkingen, bedoeld in de [tweede volzin van artikel 36, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028693&hoofdstuk=IV&paragraaf=4&artikel=36&z=2018-09-22&g=2017-01-01), vóór degenen die dit wèl zijn, en binnen deze beide groepen ouderen in leeftijd vóór jongeren gaan;
 
 - c. zij die op de voet van de bepalingen van het West-Indisch Detacheringsbesluit 1930 werden uitgezonden;
 
-- d. zij die de leeftijd van dertig jaren nog niet hebben overschreden en niet reeds gedurende zes maanden of langer kostwinner zijn van een gezin of van de betrekkingen, bedoeld in de tweede volzin van [artikel 36, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028693&hoofdstuk=IV&paragraaf=4&artikel=36&z=2016-12-28&g=2016-12-28), te beginnen met degenen die de minste dienstjaren hebben;
+- d. zij die de leeftijd van dertig jaren nog niet hebben overschreden en niet reeds gedurende zes maanden of langer kostwinner zijn van een gezin of van de betrekkingen, bedoeld in de tweede volzin van [artikel 36, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028693&hoofdstuk=IV&paragraaf=4&artikel=36&z=2018-09-22&g=2017-01-01), te beginnen met degenen die de minste dienstjaren hebben;
 
 - e. zij die de minste dienstjaren hebben.
 
@@ -976,7 +976,7 @@ Onder dienstjaren wordt verstaan de tijd in dienst van de staat of de openbare l
 
 3. Wanneer het dienstbelang zulks vordert, kan bij verlening van ontslag worden afgeweken van de rangorde, genoemd in het tweede lid, met dien verstande dat, indien de omvang van de voorgenomen afvloeiing daartoe aanleiding geeft, deze geschiedt op basis van een door het bevoegd gezag vastgesteld plan, dat aan de betrokken ambtenaren kenbaar wordt gemaakt.
 
-4. Wanneer krachtens het eerste lid ontslag wordt verleend aan een ambtenaar in tijdelijke dienst, die daaraan geen aanspraak op wachtgeld ontleent, wordt een opzeggingstermijn in acht genomen als aangegeven in [artikel 89, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028693&hoofdstuk=IX&artikel=89&z=2016-12-28&g=2016-12-28). Artikel 89, derde en vierde lid, is alsdan van toepassing. In alle andere gevallen, waarin krachtens het eerste lid ontslag wordt verleend, wordt een opzeggingstermijn van drie maanden in acht genomen.
+4. Wanneer krachtens het eerste lid ontslag wordt verleend aan een ambtenaar in tijdelijke dienst, die daaraan geen aanspraak op wachtgeld ontleent, wordt een opzeggingstermijn in acht genomen als aangegeven in [artikel 89, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028693&hoofdstuk=IX&artikel=89&z=2018-09-22&g=2017-01-01). Artikel 89, derde en vierde lid, is alsdan van toepassing. In alle andere gevallen, waarin krachtens het eerste lid ontslag wordt verleend, wordt een opzeggingstermijn van drie maanden in acht genomen.
 
 ##### Artikel 92
 
@@ -994,7 +994,7 @@ Onder dienstjaren wordt verstaan de tijd in dienst van de staat of de openbare l
 
 - f. onbekwaamheid of ongeschiktheid voor het door hem beklede ambt, anders dan op grond van ziels- of lichaamsgebreken;
 
-- g. het niet behaald hebben van het (de) diploma('s), bedoeld in [artikel 2, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028693&hoofdstuk=II&artikel=2&z=2016-12-28&g=2016-12-28);
+- g. het niet behaald hebben van het (de) diploma('s), bedoeld in [artikel 2, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028693&hoofdstuk=II&artikel=2&z=2018-09-22&g=2017-01-01);
 
 - h. het willekeurig verbreken van het dienstverband door de ambtenaar.
 
@@ -1016,7 +1016,7 @@ Dit besluit wordt aangehaald als: Rechtspositiebesluit ambtenaren BES.
 
 ##### Artikel 72a
 
-De ambtenaar kan, met inachtneming van [artikel 72b](https://wetten.overheid.nl/jci1.3:c:BWBR0028693&hoofdstuk=VII&paragraaf=11&artikel=72b&z=2016-12-28&g=2016-12-28), in het belang van de dienst worden verplicht om scholing te volgen, voor zover dat redelijkerwijs van hem kan worden verlangd. Bij het opleggen van de verplichting tot het volgen van scholing worden studiefaciliteiten toegekend.
+De ambtenaar kan, met inachtneming van [artikel 72b](https://wetten.overheid.nl/jci1.3:c:BWBR0028693&hoofdstuk=VII&paragraaf=11&artikel=72b&z=2018-09-22&g=2017-01-01), in het belang van de dienst worden verplicht om scholing te volgen, voor zover dat redelijkerwijs van hem kan worden verlangd. Bij het opleggen van de verplichting tot het volgen van scholing worden studiefaciliteiten toegekend.
 
 ##### Artikel 72b
 
@@ -1026,7 +1026,7 @@ De ambtenaar kan, met inachtneming van [artikel 72b](https://wetten.overheid.nl/
 
 ##### Artikel 72c
 
-De in [artikel 72a](https://wetten.overheid.nl/jci1.3:c:BWBR0028693&hoofdstuk=VII&paragraaf=11&artikel=72a&z=2016-12-28&g=2016-12-28) bedoelde studiefaciliteiten zijn:
+De in [artikel 72a](https://wetten.overheid.nl/jci1.3:c:BWBR0028693&hoofdstuk=VII&paragraaf=11&artikel=72a&z=2018-09-22&g=2017-01-01) bedoelde studiefaciliteiten zijn:
 
 - a. een volledige vergoeding van de met de studie gemoeide scholingskosten, waaronder examengelden en de kosten voor boeken alsmede noodzakelijke reis- en verblijfkosten;
 
@@ -1042,7 +1042,7 @@ De in [artikel 72a](https://wetten.overheid.nl/jci1.3:c:BWBR0028693&hoofdstuk=VI
 
 ##### Artikel 72e
 
-De ambtenaar, bedoeld in [artikel 72a](https://wetten.overheid.nl/jci1.3:c:BWBR0028693&hoofdstuk=VII&paragraaf=11&artikel=72a&z=2016-12-28&g=2016-12-28), is verplicht tot gehele of gedeeltelijke terugbetaling van de aan hem toegekende vergoeding van de scholingskosten:
+De ambtenaar, bedoeld in [artikel 72a](https://wetten.overheid.nl/jci1.3:c:BWBR0028693&hoofdstuk=VII&paragraaf=11&artikel=72a&z=2018-09-22&g=2017-01-01), is verplicht tot gehele of gedeeltelijke terugbetaling van de aan hem toegekende vergoeding van de scholingskosten:
 
 - a. bij onvoldoende resultaat in de scholing en bij voortijdig afbreken van de scholing, voor zover dit aan eigen schuld of toedoen van de ambtenaar is te wijten;
 
@@ -1058,7 +1058,7 @@ De ambtenaar, bedoeld in [artikel 72a](https://wetten.overheid.nl/jci1.3:c:BWBR0
 
 ##### Artikel 72g
 
-Op vergoedingen als bedoeld in [artikel 72d, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028693&hoofdstuk=VII&paragraaf=11&artikel=72d&z=2016-12-28&g=2016-12-28), kunnen voorschotten worden betaald.
+Op vergoedingen als bedoeld in [artikel 72d, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028693&hoofdstuk=VII&paragraaf=11&artikel=72d&z=2018-09-22&g=2017-01-01), kunnen voorschotten worden betaald.
 
 ##### Artikel 72h
 
@@ -1110,7 +1110,7 @@ Bij ministeriële regeling kunnen ter uitvoering van deze paragraaf nadere regel
 
 ##### Artikel 25a
 
-1. Aan de ambtenaar die door het bevoegd gezag de verplichting is opgelegd buiten het voor hem vastgestelde dienstrooster beschikbaar te zijn om op afroep dienst te gaan verrichten zonder de verplichting op de werkplek aanwezig te zijn, wordt, voor zover hij tijdens de beschikbaarheid geen werkzaamheden heeft verricht, een vergoeding toegekend voor elk uur dat hij volgens het beschikbaarheidschema, bedoeld in [artikel 37c, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028693&hoofdstuk=V&artikel=37c&z=2016-12-28&g=2016-12-28), beschikbaar is geweest.
+1. Aan de ambtenaar die door het bevoegd gezag de verplichting is opgelegd buiten het voor hem vastgestelde dienstrooster beschikbaar te zijn om op afroep dienst te gaan verrichten zonder de verplichting op de werkplek aanwezig te zijn, wordt, voor zover hij tijdens de beschikbaarheid geen werkzaamheden heeft verricht, een vergoeding toegekend voor elk uur dat hij volgens het beschikbaarheidschema, bedoeld in [artikel 37c, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028693&hoofdstuk=V&artikel=37c&z=2018-09-22&g=2017-01-01), beschikbaar is geweest.
 
 2. De hoogte van de vergoeding, bedoeld in het eerste lid, wordt met in achtneming van het derde lid vastgesteld:
 
@@ -1128,7 +1128,7 @@ Bij ministeriële regeling kunnen ter uitvoering van deze paragraaf nadere regel
 
 - b. zaterdag of zondag tussen 0 en 24 uur; of
 
-- c. een feestdag als bedoeld in [artikel 37, onderdeel j](https://wetten.overheid.nl/jci1.3:c:BWBR0028693&hoofdstuk=V&artikel=37&z=2016-12-28&g=2016-12-28), tussen 0 en 24 uur.
+- c. een feestdag als bedoeld in [artikel 37, onderdeel j](https://wetten.overheid.nl/jci1.3:c:BWBR0028693&hoofdstuk=V&artikel=37&z=2018-09-22&g=2017-01-01), tussen 0 en 24 uur.
 
 2. De hoogte van de toelage wordt met in achtneming van het derde lid vastgesteld:
 
@@ -1140,9 +1140,9 @@ Bij ministeriële regeling kunnen ter uitvoering van deze paragraaf nadere regel
 
 ##### Artikel 25c
 
-1. Aan de ambtenaar wiens bezoldiging een blijvende verlaging van ten minste USD 100 per maand ondergaat als gevolg van het beëindigen of verminderen van een toelage als bedoeld in [artikel 25a](https://wetten.overheid.nl/jci1.3:c:BWBR0028693&hoofdstuk=IV&paragraaf=1&artikel=25a&z=2016-12-28&g=2016-12-28) of [25b](https://wetten.overheid.nl/jci1.3:c:BWBR0028693&hoofdstuk=IV&paragraaf=1&artikel=25b&z=2016-12-28&g=2016-12-28) anders dan door ziekte, wordt gedurende drie jaren vanaf de datum waarop die verlaging van zijn bezoldiging intreedt een aflopende toelage toegekend, mits hij die toelage ten minste twee jaren zonder onderbreking heeft genoten.
+1. Aan de ambtenaar wiens bezoldiging een blijvende verlaging van ten minste USD 100 per maand ondergaat als gevolg van het beëindigen of verminderen van een toelage als bedoeld in [artikel 25a](https://wetten.overheid.nl/jci1.3:c:BWBR0028693&hoofdstuk=IV&paragraaf=1&artikel=25a&z=2018-09-22&g=2017-01-01) of [25b](https://wetten.overheid.nl/jci1.3:c:BWBR0028693&hoofdstuk=IV&paragraaf=1&artikel=25b&z=2018-09-22&g=2017-01-01) anders dan door ziekte, wordt gedurende drie jaren vanaf de datum waarop die verlaging van zijn bezoldiging intreedt een aflopende toelage toegekend, mits hij die toelage ten minste twee jaren zonder onderbreking heeft genoten.
 
-2. De berekeningsbasis voor de aflopende toelage, bedoeld in het eerste lid, is het bedrag dat de ambtenaar over de 24 kalendermaanden, voorafgaande aan de datum waarop de eerste verlaging van zijn bezoldiging intreedt, gemiddeld per maand aan toelagen als bedoeld in [artikel 25a](https://wetten.overheid.nl/jci1.3:c:BWBR0028693&hoofdstuk=IV&paragraaf=1&artikel=25a&z=2016-12-28&g=2016-12-28) en [25b](https://wetten.overheid.nl/jci1.3:c:BWBR0028693&hoofdstuk=IV&paragraaf=1&artikel=25b&z=2016-12-28&g=2016-12-28) heeft genoten, verminderd met hetgeen de ambtenaar daadwerkelijk aan die toelagen geniet na de bedoelde verlaging.
+2. De berekeningsbasis voor de aflopende toelage, bedoeld in het eerste lid, is het bedrag dat de ambtenaar over de 24 kalendermaanden, voorafgaande aan de datum waarop de eerste verlaging van zijn bezoldiging intreedt, gemiddeld per maand aan toelagen als bedoeld in [artikel 25a](https://wetten.overheid.nl/jci1.3:c:BWBR0028693&hoofdstuk=IV&paragraaf=1&artikel=25a&z=2018-09-22&g=2017-01-01) en [25b](https://wetten.overheid.nl/jci1.3:c:BWBR0028693&hoofdstuk=IV&paragraaf=1&artikel=25b&z=2018-09-22&g=2017-01-01) heeft genoten, verminderd met hetgeen de ambtenaar daadwerkelijk aan die toelagen geniet na de bedoelde verlaging.
 
 3. De aflopende toelage, bedoeld in het eerste lid, bedraagt gedurende het eerste jaar 75%, het tweede jaar 50% en het derde jaar 25% van de berekeningsbasis.
 
@@ -1208,7 +1208,7 @@ Bij ministeriële regeling kunnen ter uitvoering van deze paragraaf nadere regel
 
 1. Aan de ambtenaar kan door het bevoegd gezag de verplichting worden opgelegd buiten het voor hem vastgestelde dienstrooster of buiten de voor hem geldende regeling van de werktijden op basis van een daartoe opgesteld beschikbaarheidschema beschikbaar te zijn zonder de verplichting op de werkplek aanwezig te zijn om op afroep dienst te gaan verrichten.
 
-2. Ten aanzien van het beschikbaarheidschema is [artikel 37b](https://wetten.overheid.nl/jci1.3:c:BWBR0028693&hoofdstuk=V&artikel=37b&z=2016-12-28&g=2016-12-28), met uitzondering van het vijfde lid, van overeenkomstige toepassing.
+2. Ten aanzien van het beschikbaarheidschema is [artikel 37b](https://wetten.overheid.nl/jci1.3:c:BWBR0028693&hoofdstuk=V&artikel=37b&z=2018-09-22&g=2017-01-01), met uitzondering van het vijfde lid, van overeenkomstige toepassing.
 
 ##### Artikel 37d
 
@@ -1234,7 +1234,7 @@ Nadere regels ter uitvoering van de bepalingen in dit hoofdstuk kunnen worden va
 
 1. De ambtenaar wordt op zijn verzoek bij het bereiken van een diensttijd van 10, 20, 30 of 40 jaar een gratificatie toegekend wegens trouwe dienst. De gratificatie bedraagt 25% van de maandelijkse bezoldiging bij een 10-jarig ambtsjubileum, 50% van de maandelijkse bezoldiging bij een 20-jarig ambtsjubileum, 75% van de maandelijkse bezoldiging bij een 30-jarig ambtsjubileum en 100% van de maandelijkse bezoldiging bij een 40-jarig ambtsjubileum.
 
-2. De ambtenaar aan wie vóór de datum van zijn ambtsjubileum, bedoeld in het eerste lid, ontslag is verleend op grond van [artikel 90](https://wetten.overheid.nl/jci1.3:c:BWBR0028693&hoofdstuk=IX&artikel=90&z=2016-12-28&g=2016-12-28), [91](https://wetten.overheid.nl/jci1.3:c:BWBR0028693&hoofdstuk=IX&artikel=91&z=2016-12-28&g=2016-12-28) of [92, eerste lid, onder e](https://wetten.overheid.nl/jci1.3:c:BWBR0028693&hoofdstuk=IX&artikel=92&z=2016-12-28&g=2016-12-28), of op grond van [artikel 115](https://wetten.overheid.nl/jci1.3:c:BWBR0028767&artikel=115) of [118 van het Besluit rechtspositie korps politie BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028767&artikel=118) wordt een diensttijdgratificatie bij wijze van ontslaguitkering toegekend, die een in verhouding tot de doorgebrachte diensttijd evenredig gedeelte van de gratificatie bij ambtsjubileum als bedoeld in het eerste lid bedraagt, indien hij bij voortzetting van het dienstverband binnen vijf jaren in aanmerking zou komen voor een gratificatie op grond van het eerste lid. De berekeningsgrondslag van de diensttijdgratificatie bij ontslag wordt vermenigvuldigd met een breuk, waarvan de teller overeenkomt met het aantal dienstjaren op het moment van ontslag en de noemer met het aantal dienstjaren dat nodig is voor de gratificatie bij ambtsjubileum.
+2. De ambtenaar aan wie vóór de datum van zijn ambtsjubileum, bedoeld in het eerste lid, ontslag is verleend op grond van [artikel 90](https://wetten.overheid.nl/jci1.3:c:BWBR0028693&hoofdstuk=IX&artikel=90&z=2018-09-22&g=2017-01-01), [91](https://wetten.overheid.nl/jci1.3:c:BWBR0028693&hoofdstuk=IX&artikel=91&z=2018-09-22&g=2017-01-01) of [92, eerste lid, onder e](https://wetten.overheid.nl/jci1.3:c:BWBR0028693&hoofdstuk=IX&artikel=92&z=2018-09-22&g=2017-01-01), of op grond van [artikel 115](https://wetten.overheid.nl/jci1.3:c:BWBR0028767&artikel=115) of [118 van het Besluit rechtspositie korps politie BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028767&artikel=118) wordt een diensttijdgratificatie bij wijze van ontslaguitkering toegekend, die een in verhouding tot de doorgebrachte diensttijd evenredig gedeelte van de gratificatie bij ambtsjubileum als bedoeld in het eerste lid bedraagt, indien hij bij voortzetting van het dienstverband binnen vijf jaren in aanmerking zou komen voor een gratificatie op grond van het eerste lid. De berekeningsgrondslag van de diensttijdgratificatie bij ontslag wordt vermenigvuldigd met een breuk, waarvan de teller overeenkomt met het aantal dienstjaren op het moment van ontslag en de noemer met het aantal dienstjaren dat nodig is voor de gratificatie bij ambtsjubileum.
 
 3. Voor de toepassing van dit artikel geldt als diensttijd:
 
@@ -1250,7 +1250,7 @@ Nadere regels ter uitvoering van de bepalingen in dit hoofdstuk kunnen worden va
 
 5. Diensttijd, gelijktijdig in meer dan één betrekking doorgebracht, telt voor de vaststelling van de datum van het ambtsjubileum slechts eenmaal mee.
 
-6. Voor de berekening van de gratificatie wordt onder bezoldiging verstaan: de bezoldiging in de zin van het [Bezoldigingsbesluit 1998 BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028491) of van [artikel 1, onder i, van het Besluit rechtspositie korps politie BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028767&artikel=1), welke voor de ambtenaar geldt op de datum van het ambtsjubileum, vermeerderd met het percentage van de vakantie-uitkering, bedoeld in [artikel 36a](https://wetten.overheid.nl/jci1.3:c:BWBR0028693&hoofdstuk=IV&paragraaf=5&artikel=36a&z=2016-12-28&g=2016-12-28) en de eindejaarsuitkering, bedoeld in [artikel 9a van het Bezoldigingsbesluit 1998 BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028491&artikel=9a), en de toelagen die tot het ambtelijk inkomen worden gerekend voor de berekening van het pensioengevend inkomen.
+6. Voor de berekening van de gratificatie wordt onder bezoldiging verstaan: de bezoldiging in de zin van het [Bezoldigingsbesluit 1998 BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028491) of van [artikel 1, onder i, van het Besluit rechtspositie korps politie BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028767&artikel=1), welke voor de ambtenaar geldt op de datum van het ambtsjubileum, vermeerderd met het percentage van de vakantie-uitkering, bedoeld in [artikel 36a](https://wetten.overheid.nl/jci1.3:c:BWBR0028693&hoofdstuk=IV&paragraaf=5&artikel=36a&z=2018-09-22&g=2017-01-01) en de eindejaarsuitkering, bedoeld in [artikel 9a van het Bezoldigingsbesluit 1998 BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028491&artikel=9a), en de toelagen die tot het ambtelijk inkomen worden gerekend voor de berekening van het pensioengevend inkomen.
 
 #### § 11. Scholing
 
@@ -1276,7 +1276,7 @@ Nadere regels ter uitvoering van de bepalingen in dit hoofdstuk kunnen worden va
 
 #### § 7. Ambts- en dienstwoningen
 
-#### § 6. Dienstkleding
+#### § 7. Ambts- en dienstwoningen
 
 #### § 9. Schadeloosstellingen
 
@@ -1360,13 +1360,13 @@ Nadere regels ter uitvoering van de bepalingen in dit hoofdstuk kunnen worden va
 
 - c. USD 655 na vijftien jaar en na elke vijf jaar daaropvolgend.
 
-6. In afwijking van [artikel 25](https://wetten.overheid.nl/jci1.3:c:BWBR0028693&hoofdstuk=IV&paragraaf=1&artikel=25&z=2018-12-25&g=2016-12-28) worden de taken in het kader van de bedrijfshulpverlening die in opdracht van het bevoegd gezag als overwerk worden verricht, vergoed voor alle aangewezen ambtenaren en uitsluitend met een bedrag in geld, met dien verstande dat voor elk uur overwerk een vergoeding wordt toegekend ten bedrage van 125% van de bezoldiging, berekend per uur, behorende bij de maximumbezoldiging van schaal 7 van de bezoldigingsschalen die op grond van [artikel 1, onderdeel d, van het Bezoldigingsbesluit 1998 BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028491&artikel=1) zijn vastgesteld.
+6. In afwijking van [artikel 25](https://wetten.overheid.nl/jci1.3:c:BWBR0028693&hoofdstuk=IV&paragraaf=1&artikel=25&z=2018-12-25&g=2017-01-01) worden de taken in het kader van de bedrijfshulpverlening die in opdracht van het bevoegd gezag als overwerk worden verricht, vergoed voor alle aangewezen ambtenaren en uitsluitend met een bedrag in geld, met dien verstande dat voor elk uur overwerk een vergoeding wordt toegekend ten bedrage van 125% van de bezoldiging, berekend per uur, behorende bij de maximumbezoldiging van schaal 7 van de bezoldigingsschalen die op grond van [artikel 1, onderdeel d, van het Bezoldigingsbesluit 1998 BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028491&artikel=1) zijn vastgesteld.
 
 7. De bedragen, genoemd in het derde en vijfde lid, worden vanaf 1 januari 2019 bij ministeriële regeling aangepast overeenkomstig de algemene salarisontwikkeling van de ambtenaren in dienst van de staat.
 
 #### § 3. Bezoldiging in militaire dienst
 
-#### § 4. Uitkering bij overlijden
+#### § 5. Vakantie-uitkering
 
 ### Hoofdstuk V. Dienst- en werktijden
 
@@ -1414,7 +1414,7 @@ Nadere regels ter uitvoering van de bepalingen in dit hoofdstuk kunnen worden va
 
 1. In geval van invaliditeit die voortvloeit uit een dienstongeval of een beroepsziekte, wordt aan de desbetreffende ambtenaar smartengeld vergoed tot een netto bedrag van ten hoogste USD 180.000.
 
-2. In geval de ambtenaar komt te overlijden ten gevolge van een dienstongeval, wordt aan de weduwe of weduwnaar een netto bedrag uitgekeerd van USD 90.000. Indien de overledene geen weduwe of weduwnaar nalaat, geschiedt de uitbetaling met overeenkomstige toepassing van [artikel 36a, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028693&hoofdstuk=IV&paragraaf=5&artikel=36a&z=2018-12-25&g=2016-12-28).
+2. In geval de ambtenaar komt te overlijden ten gevolge van een dienstongeval, wordt aan de weduwe of weduwnaar een netto bedrag uitgekeerd van USD 90.000. Indien de overledene geen weduwe of weduwnaar nalaat, geschiedt de uitbetaling met overeenkomstige toepassing van [artikel 36a, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028693&hoofdstuk=IV&paragraaf=5&artikel=36a&z=2018-12-25&g=2017-01-01).
 
 3. Onze Minister stelt nadere regels omtrent de toekenning van de uitkering, bedoeld in het eerste lid.
 
