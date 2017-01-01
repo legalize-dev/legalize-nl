@@ -4,7 +4,7 @@ identifier: "BWBV0006581"
 country: "nl"
 rank: "verdrag"
 publication_date: "2017-01-01"
-last_updated: "2016-02-15"
+last_updated: "2017-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBV0006581"
 soort: "verdrag"
@@ -120,7 +120,7 @@ Het Koninkrijk der Nederlanden verplicht zich de Kosovo Relocated Specialist Jud
 
 - b. tijdelijke detentie van getuigen in het kader van hun getuigenverklaring, alsmede vanwege minachting van het hof;
 
-- c. voortzetting van de detentie van personen in afwachting van overbrenging op grond van [artikel 43](https://wetten.overheid.nl/jci1.3:c:BWBV0006581&deel=V&deel=3&artikel=43&z=2016-02-15&g=2016-02-15) of [44](https://wetten.overheid.nl/jci1.3:c:BWBV0006581&deel=V&deel=3&artikel=44&z=2016-02-15&g=2016-02-15) van dit Verdrag.
+- c. voortzetting van de detentie van personen in afwachting van overbrenging op grond van [artikel 43](https://wetten.overheid.nl/jci1.3:c:BWBV0006581&deel=V&deel=3&artikel=43&z=2017-01-01&g=2017-01-01) of [44](https://wetten.overheid.nl/jci1.3:c:BWBV0006581&deel=V&deel=3&artikel=44&z=2017-01-01&g=2017-01-01) van dit Verdrag.
 
 2. De gastheerstaat faciliteert detentie op het terrein van de Kosovo Relocated Specialist Judicial Institution. Detentie op het terrein van de Kosovo Relocated Specialist Judicial Institution eindigt met de beëindiging van dit Verdrag.
 
@@ -184,7 +184,7 @@ De Kosovo Relocated Specialist Judicial Institution geniet op het grondgebied va
 
 6. De griffier of een door hem of haar aangewezen lid van het personeel stelt de gastheerstaat in kennis van de naam en identiteit van elk lid van het personeel van de Kosovo Relocated Specialist Judicial Institution dat door de griffier gemachtigd is een wapen te dragen op het terrein, alsmede van de naam, het type, kaliber en serienummer van het wapen of de wapens die hem of haar ter beschikking staan.
 
-7. Ieder geschil over de vraag of een regel of voorschrift van de Kosovo Relocated Specialist Judicial Institution onder dit artikel valt of over de vraag of een wet of voorschrift van de gastheerstaat onverenigbaar is met een regel of voorschrift van de Kosovo Relocated Specialist Judicial Institution uit hoofde van dit artikel, wordt onverwijld beslecht volgens de in [artikel 50](https://wetten.overheid.nl/jci1.3:c:BWBV0006581&deel=VII&artikel=50&z=2016-02-15&g=2016-02-15) van dit Verdrag vervatte procedure. Zolang het geschil nog niet is beslecht, is de regel van de Kosovo Relocated Specialist Judicial Institution van toepassing en is de wet en/of regel van de gastheerstaat op het terrein niet van toepassing voor zover de Kosovo Relocated Specialist Judicial Institution deze onverenigbaar met zijn regels acht.
+7. Ieder geschil over de vraag of een regel of voorschrift van de Kosovo Relocated Specialist Judicial Institution onder dit artikel valt of over de vraag of een wet of voorschrift van de gastheerstaat onverenigbaar is met een regel of voorschrift van de Kosovo Relocated Specialist Judicial Institution uit hoofde van dit artikel, wordt onverwijld beslecht volgens de in [artikel 50](https://wetten.overheid.nl/jci1.3:c:BWBV0006581&deel=VII&artikel=50&z=2017-01-01&g=2017-01-01) van dit Verdrag vervatte procedure. Zolang het geschil nog niet is beslecht, is de regel van de Kosovo Relocated Specialist Judicial Institution van toepassing en is de wet en/of regel van de gastheerstaat op het terrein niet van toepassing voor zover de Kosovo Relocated Specialist Judicial Institution deze onverenigbaar met zijn regels acht.
 
 ##### Artikel 11. Openbare voorzieningen ten behoeve van het terrein
 
@@ -446,7 +446,7 @@ De Kosovo Relocated Specialist Judicial Institution is vrijgesteld van alle invo
 
 ##### Artikel 24. Raadslieden en personen die de verdediging bijstaan
 
-1. De raadslieden genieten de volgende voorrechten, immuniteiten en faciliteiten voor zover nodig voor de vrije en onafhankelijke uitoefening van hun functie, met inachtneming van de procedure bedoeld in het tweede lid van dit artikel en van de ingevolge [artikel 33](https://wetten.overheid.nl/jci1.3:c:BWBV0006581&deel=V&deel=1&artikel=33&z=2016-02-15&g=2016-02-15) van dit Verdrag vereiste kennisgevingsprocedure:
+1. De raadslieden genieten de volgende voorrechten, immuniteiten en faciliteiten voor zover nodig voor de vrije en onafhankelijke uitoefening van hun functie, met inachtneming van de procedure bedoeld in het tweede lid van dit artikel en van de ingevolge [artikel 33](https://wetten.overheid.nl/jci1.3:c:BWBV0006581&deel=V&deel=1&artikel=33&z=2017-01-01&g=2017-01-01) van dit Verdrag vereiste kennisgevingsprocedure:
 
 - a. immuniteit van arrestatie en detentie of enige andere vrijheidsbeperking met betrekking tot handelingen of veroordelingen voorafgaand aan hun binnenkomst op het grondgebied van de gastheerstaat;
 
@@ -488,7 +488,7 @@ De Kosovo Relocated Specialist Judicial Institution is vrijgesteld van alle invo
 
 ##### Artikel 25. Getuigen
 
-1. Getuigen genieten de volgende voorrechten, immuniteiten en faciliteiten voor zover benodigd voor hun verschijning voor de Kosovo Relocated Specialist Judicial Institution ten behoeve van het afleggen van een getuigenverklaring, mits het in het tweede lid van dit artikel bedoelde document wordt overgelegd en met inachtneming van de vereiste kennisgevingsprocedure uit hoofde van [artikel 33](https://wetten.overheid.nl/jci1.3:c:BWBV0006581&deel=V&deel=1&artikel=33&z=2016-02-15&g=2016-02-15) van dit Verdrag:
+1. Getuigen genieten de volgende voorrechten, immuniteiten en faciliteiten voor zover benodigd voor hun verschijning voor de Kosovo Relocated Specialist Judicial Institution ten behoeve van het afleggen van een getuigenverklaring, mits het in het tweede lid van dit artikel bedoelde document wordt overgelegd en met inachtneming van de vereiste kennisgevingsprocedure uit hoofde van [artikel 33](https://wetten.overheid.nl/jci1.3:c:BWBV0006581&deel=V&deel=1&artikel=33&z=2017-01-01&g=2017-01-01) van dit Verdrag:
 
 - a. immuniteit van arrestatie en detentie of enige andere vrijheidsbeperking met betrekking tot handelingen of veroordelingen voorafgaand aan hun binnenkomst op het grondgebied van de gastheerstaat;
 
@@ -524,7 +524,7 @@ De Kosovo Relocated Specialist Judicial Institution is vrijgesteld van alle invo
 
 ##### Artikel 26. Slachtoffers
 
-1. Slachtoffers die betrokken zijn bij de procedures in overeenstemming met artikel 22 van wet nr. 05/L-053 genieten de volgende voorrechten, immuniteiten en faciliteiten voor zover benodigd voor hun verschijning voor de Kosovo Relocated Specialist Judicial Institution, mits het in het tweede lid van dit artikel bedoelde document wordt overgelegd en met inachtneming van de vereiste kennisgevingsprocedure uit hoofde van [artikel 33](https://wetten.overheid.nl/jci1.3:c:BWBV0006581&deel=V&deel=1&artikel=33&z=2016-02-15&g=2016-02-15) van dit Verdrag:
+1. Slachtoffers die betrokken zijn bij de procedures in overeenstemming met artikel 22 van wet nr. 05/L-053 genieten de volgende voorrechten, immuniteiten en faciliteiten voor zover benodigd voor hun verschijning voor de Kosovo Relocated Specialist Judicial Institution, mits het in het tweede lid van dit artikel bedoelde document wordt overgelegd en met inachtneming van de vereiste kennisgevingsprocedure uit hoofde van [artikel 33](https://wetten.overheid.nl/jci1.3:c:BWBV0006581&deel=V&deel=1&artikel=33&z=2017-01-01&g=2017-01-01) van dit Verdrag:
 
 - a. immuniteit van arrestatie en detentie of enige andere vrijheidsbeperking met betrekking tot handelingen of veroordelingen voorafgaand aan hun binnenkomst op het grondgebied van de gastheerstaat;
 
@@ -546,7 +546,7 @@ De Kosovo Relocated Specialist Judicial Institution is vrijgesteld van alle invo
 
 ##### Artikel 27. Overige personen anders dan aangeklaagden en verdachten wier aanwezigheid op de zetel van de Kosovo Relocated Specialist Judicial Institution vereist is
 
-1. Aan overige personen anders dan aangeklaagden en verdachten wier aanwezigheid op de zetel van de Kosovo Relocated Specialist Judicial Institution vereist is worden, voor zover benodigd voor het naar behoren functioneren van de Kosovo Relocated Specialist Judicial Institution, de volgende voorrechten, immuniteiten en faciliteiten toegekend, mits het in het tweede lid van dit artikel bedoelde document wordt overgelegd en met inachtneming van de ingevolge [artikel 33](https://wetten.overheid.nl/jci1.3:c:BWBV0006581&deel=V&deel=1&artikel=33&z=2016-02-15&g=2016-02-15) van dit Verdrag vereiste kennisgevingsprocedure:
+1. Aan overige personen anders dan aangeklaagden en verdachten wier aanwezigheid op de zetel van de Kosovo Relocated Specialist Judicial Institution vereist is worden, voor zover benodigd voor het naar behoren functioneren van de Kosovo Relocated Specialist Judicial Institution, de volgende voorrechten, immuniteiten en faciliteiten toegekend, mits het in het tweede lid van dit artikel bedoelde document wordt overgelegd en met inachtneming van de ingevolge [artikel 33](https://wetten.overheid.nl/jci1.3:c:BWBV0006581&deel=V&deel=1&artikel=33&z=2017-01-01&g=2017-01-01) van dit Verdrag vereiste kennisgevingsprocedure:
 
 - a. immuniteit van arrestatie en detentie of enige andere vrijheidsbeperking met betrekking tot handelingen of veroordelingen voorafgaand aan hun binnenkomst op het grondgebied van de gastheerstaat;
 
@@ -572,19 +572,19 @@ De Kosovo Relocated Specialist Judicial Institution is vrijgesteld van alle invo
 
 2. Gezinsleden die deel uitmaken van de huishouding van een rechter, Speciale Aanklager, plaatsvervangend Speciale Aanklager, griffier, plaatsvervangend griffier of van een lid van het personeel van de Kosovo Relocated Specialist Judicial Institution die betaalde werkzaamheden verrichten, genieten geen immuniteit ten aanzien van de strafrechtelijke, civielrechtelijke of bestuursrechtelijke rechtsmacht wat betreft aangelegenheden die ontstaan in de loop van of verband houden met deze werkzaamheden. Executoriale maatregelen worden evenwel genomen zonder inbreuk te maken op de onschendbaarheid van hun persoon of hun woning, indien zij recht hebben op een dergelijke onschendbaarheid.
 
-3. Bij insolventie van een persoon jonger dan 18 jaar in verband met een vordering die voortvloeit uit betaalde werkzaamheden van die persoon wordt in overeenstemming met de bepalingen van [artikel 30](https://wetten.overheid.nl/jci1.3:c:BWBV0006581&deel=IV&artikel=30&z=2016-02-15&g=2016-02-15) van dit Verdrag ten behoeve van schikking van de vordering de immuniteit opgeheven van de rechter, Speciale Aanklager, plaatsvervangend Speciale Aanklager, griffier, de plaatsvervangend griffier of het personeel van wiens gezin de betrokkene lid is.
+3. Bij insolventie van een persoon jonger dan 18 jaar in verband met een vordering die voortvloeit uit betaalde werkzaamheden van die persoon wordt in overeenstemming met de bepalingen van [artikel 30](https://wetten.overheid.nl/jci1.3:c:BWBV0006581&deel=IV&artikel=30&z=2017-01-01&g=2017-01-01) van dit Verdrag ten behoeve van schikking van de vordering de immuniteit opgeheven van de rechter, Speciale Aanklager, plaatsvervangend Speciale Aanklager, griffier, de plaatsvervangend griffier of het personeel van wiens gezin de betrokkene lid is.
 
 4. De in het eerste lid van dit artikel bedoelde werkzaamheden dienen in overeenstemming te zijn met de wetgeving van de gastheerstaat, met inbegrip van de wetgeving inzake belastingen en sociale zekerheid.
 
 ##### Artikel 29. Uitzondering op immuniteit
 
-De immuniteit verleend aan de personen genoemd in [artikel 19, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBV0006581&deel=III&artikel=19&z=2016-02-15&g=2016-02-15), [artikel 20, eerste tot en met derde lid en zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0006581&deel=III&artikel=20&z=2016-02-15&g=2016-02-15), [artikel 21](https://wetten.overheid.nl/jci1.3:c:BWBV0006581&deel=III&artikel=21&z=2016-02-15&g=2016-02-15), [artikel 22, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0006581&deel=III&artikel=22&z=2016-02-15&g=2016-02-15), [artikel 23, eerste en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0006581&deel=III&artikel=23&z=2016-02-15&g=2016-02-15), en [artikel 24, eerste en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0006581&deel=III&artikel=24&z=2016-02-15&g=2016-02-15) strekt zich niet uit tot civiele vorderingen van een derde wegens schadevergoeding, met inbegrip van persoonlijke letsel of overlijden ten gevolge van een verkeersongeval veroorzaakt door een dergelijke persoon.
+De immuniteit verleend aan de personen genoemd in [artikel 19, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBV0006581&deel=III&artikel=19&z=2017-01-01&g=2017-01-01), [artikel 20, eerste tot en met derde lid en zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0006581&deel=III&artikel=20&z=2017-01-01&g=2017-01-01), [artikel 21](https://wetten.overheid.nl/jci1.3:c:BWBV0006581&deel=III&artikel=21&z=2017-01-01&g=2017-01-01), [artikel 22, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0006581&deel=III&artikel=22&z=2017-01-01&g=2017-01-01), [artikel 23, eerste en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0006581&deel=III&artikel=23&z=2017-01-01&g=2017-01-01), en [artikel 24, eerste en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0006581&deel=III&artikel=24&z=2017-01-01&g=2017-01-01) strekt zich niet uit tot civiele vorderingen van een derde wegens schadevergoeding, met inbegrip van persoonlijke letsel of overlijden ten gevolge van een verkeersongeval veroorzaakt door een dergelijke persoon.
 
 ### DEEL IV. OPHEFFING VAN VOORRECHTEN, IMMUNITEITEN EN FACILITEITEN
 
-##### Artikel 30. Opheffing van de in de [artikelen 19](https://wetten.overheid.nl/jci1.3:c:BWBV0006581&deel=III&artikel=19&z=2016-02-15&g=2016-02-15), [20](https://wetten.overheid.nl/jci1.3:c:BWBV0006581&deel=III&artikel=20&z=2016-02-15&g=2016-02-15), [21](https://wetten.overheid.nl/jci1.3:c:BWBV0006581&deel=III&artikel=21&z=2016-02-15&g=2016-02-15), [22](https://wetten.overheid.nl/jci1.3:c:BWBV0006581&deel=III&artikel=22&z=2016-02-15&g=2016-02-15), [23](https://wetten.overheid.nl/jci1.3:c:BWBV0006581&deel=III&artikel=23&z=2016-02-15&g=2016-02-15), [24](https://wetten.overheid.nl/jci1.3:c:BWBV0006581&deel=III&artikel=24&z=2016-02-15&g=2016-02-15), [25](https://wetten.overheid.nl/jci1.3:c:BWBV0006581&deel=III&artikel=25&z=2016-02-15&g=2016-02-15), [26](https://wetten.overheid.nl/jci1.3:c:BWBV0006581&deel=III&artikel=26&z=2016-02-15&g=2016-02-15) en [27](https://wetten.overheid.nl/jci1.3:c:BWBV0006581&deel=III&artikel=27&z=2016-02-15&g=2016-02-15) voorziene voorrechten, immuniteiten en faciliteiten
+##### Artikel 30. Opheffing van de in de [artikelen 19](https://wetten.overheid.nl/jci1.3:c:BWBV0006581&deel=III&artikel=19&z=2017-01-01&g=2017-01-01), [20](https://wetten.overheid.nl/jci1.3:c:BWBV0006581&deel=III&artikel=20&z=2017-01-01&g=2017-01-01), [21](https://wetten.overheid.nl/jci1.3:c:BWBV0006581&deel=III&artikel=21&z=2017-01-01&g=2017-01-01), [22](https://wetten.overheid.nl/jci1.3:c:BWBV0006581&deel=III&artikel=22&z=2017-01-01&g=2017-01-01), [23](https://wetten.overheid.nl/jci1.3:c:BWBV0006581&deel=III&artikel=23&z=2017-01-01&g=2017-01-01), [24](https://wetten.overheid.nl/jci1.3:c:BWBV0006581&deel=III&artikel=24&z=2017-01-01&g=2017-01-01), [25](https://wetten.overheid.nl/jci1.3:c:BWBV0006581&deel=III&artikel=25&z=2017-01-01&g=2017-01-01), [26](https://wetten.overheid.nl/jci1.3:c:BWBV0006581&deel=III&artikel=26&z=2017-01-01&g=2017-01-01) en [27](https://wetten.overheid.nl/jci1.3:c:BWBV0006581&deel=III&artikel=27&z=2017-01-01&g=2017-01-01) voorziene voorrechten, immuniteiten en faciliteiten
 
-1. De in de [artikelen 19](https://wetten.overheid.nl/jci1.3:c:BWBV0006581&deel=III&artikel=19&z=2016-02-15&g=2016-02-15), [20](https://wetten.overheid.nl/jci1.3:c:BWBV0006581&deel=III&artikel=20&z=2016-02-15&g=2016-02-15), [21](https://wetten.overheid.nl/jci1.3:c:BWBV0006581&deel=III&artikel=21&z=2016-02-15&g=2016-02-15), [22](https://wetten.overheid.nl/jci1.3:c:BWBV0006581&deel=III&artikel=22&z=2016-02-15&g=2016-02-15), [23](https://wetten.overheid.nl/jci1.3:c:BWBV0006581&deel=III&artikel=23&z=2016-02-15&g=2016-02-15), [24](https://wetten.overheid.nl/jci1.3:c:BWBV0006581&deel=III&artikel=24&z=2016-02-15&g=2016-02-15), [25](https://wetten.overheid.nl/jci1.3:c:BWBV0006581&deel=III&artikel=25&z=2016-02-15&g=2016-02-15), [26](https://wetten.overheid.nl/jci1.3:c:BWBV0006581&deel=III&artikel=26&z=2016-02-15&g=2016-02-15) en [27](https://wetten.overheid.nl/jci1.3:c:BWBV0006581&deel=III&artikel=27&z=2016-02-15&g=2016-02-15) van dit Verdrag voorziene voorrechten, immuniteiten en faciliteiten worden toegekend in het belang van de Kosovo Relocated Specialist Judicial Institution en niet voor het persoonlijk gewin van de betrokkenen zelf.
+1. De in de [artikelen 19](https://wetten.overheid.nl/jci1.3:c:BWBV0006581&deel=III&artikel=19&z=2017-01-01&g=2017-01-01), [20](https://wetten.overheid.nl/jci1.3:c:BWBV0006581&deel=III&artikel=20&z=2017-01-01&g=2017-01-01), [21](https://wetten.overheid.nl/jci1.3:c:BWBV0006581&deel=III&artikel=21&z=2017-01-01&g=2017-01-01), [22](https://wetten.overheid.nl/jci1.3:c:BWBV0006581&deel=III&artikel=22&z=2017-01-01&g=2017-01-01), [23](https://wetten.overheid.nl/jci1.3:c:BWBV0006581&deel=III&artikel=23&z=2017-01-01&g=2017-01-01), [24](https://wetten.overheid.nl/jci1.3:c:BWBV0006581&deel=III&artikel=24&z=2017-01-01&g=2017-01-01), [25](https://wetten.overheid.nl/jci1.3:c:BWBV0006581&deel=III&artikel=25&z=2017-01-01&g=2017-01-01), [26](https://wetten.overheid.nl/jci1.3:c:BWBV0006581&deel=III&artikel=26&z=2017-01-01&g=2017-01-01) en [27](https://wetten.overheid.nl/jci1.3:c:BWBV0006581&deel=III&artikel=27&z=2017-01-01&g=2017-01-01) van dit Verdrag voorziene voorrechten, immuniteiten en faciliteiten worden toegekend in het belang van de Kosovo Relocated Specialist Judicial Institution en niet voor het persoonlijk gewin van de betrokkenen zelf.
 
 2. De immuniteit uit hoofde van dit Verdrag verleend aan een persoon wordt opgeheven zoals vervat in wet nr. 04/L-274 van de Republiek Kosovo in elk geval waarin de immuniteit de rechtsgang zou belemmeren en deze kan worden opgeheven zonder afbreuk te doen aan
 
@@ -618,7 +618,7 @@ De immuniteit verleend aan de personen genoemd in [artikel 19, eerste lid](https
 
 ##### Artikel 33. Kennisgeving en identiteitskaarten
 
-1. De griffier stelt de gastheerstaat zo spoedig mogelijk, maar uiterlijk tien (10) dagen vóór de datum van hun aankomst, in kennis van de aanwezigheid in de gastheerstaat van getuigen, slachtoffers en andere personen zoals bedoeld in [artikel 27](https://wetten.overheid.nl/jci1.3:c:BWBV0006581&deel=III&artikel=27&z=2016-02-15&g=2016-02-15) van dit Verdrag. Indien in uitzonderlijke omstandigheden de voorafgaande kennisgeving van tien (10) dagen niet mogelijk is, treedt de griffier onverwijld in overleg met het ministerie van Buitenlandse Zaken.
+1. De griffier stelt de gastheerstaat zo spoedig mogelijk, maar uiterlijk tien (10) dagen vóór de datum van hun aankomst, in kennis van de aanwezigheid in de gastheerstaat van getuigen, slachtoffers en andere personen zoals bedoeld in [artikel 27](https://wetten.overheid.nl/jci1.3:c:BWBV0006581&deel=III&artikel=27&z=2017-01-01&g=2017-01-01) van dit Verdrag. Indien in uitzonderlijke omstandigheden de voorafgaande kennisgeving van tien (10) dagen niet mogelijk is, treedt de griffier onverwijld in overleg met het ministerie van Buitenlandse Zaken.
 
 2. De griffier stelt de gastheerstaat zo spoedig mogelijk, maar uiterlijk acht (8) dagen na hun eerste aankomst in de gastheerstaat in kennis van:
 
@@ -638,7 +638,7 @@ De immuniteit verleend aan de personen genoemd in [artikel 19, eerste lid](https
 
 3. De griffier stelt de gastheerstaat zo spoedig mogelijk, maar uiterlijk binnen acht (8) dagen in kennis van de benoeming van de personen bedoeld in het tweede lid, onder a. De griffier stelt de gastheerstaat zo spoedig mogelijk, maar uiterlijk binnen acht (8) dagen in kennis van de toelating van de personen bedoeld in het tweede lid, onder b., tot het stageprogramma van de Kosovo Relocated Specialist Judicial Institution.
 
-4. De griffier stelt de gastheerstaat zo spoedig mogelijk, maar uiterlijk binnen acht (8) dagen na aanstelling in kennis van deskundigen en van lokaal geworven personeel in overeenstemming met [artikel 21](https://wetten.overheid.nl/jci1.3:c:BWBV0006581&deel=III&artikel=21&z=2016-02-15&g=2016-02-15) van dit Verdrag.
+4. De griffier stelt de gastheerstaat zo spoedig mogelijk, maar uiterlijk binnen acht (8) dagen na aanstelling in kennis van deskundigen en van lokaal geworven personeel in overeenstemming met [artikel 21](https://wetten.overheid.nl/jci1.3:c:BWBV0006581&deel=III&artikel=21&z=2017-01-01&g=2017-01-01) van dit Verdrag.
 
 5. De griffier stelt de gastheerstaat zo spoedig mogelijk, maar uiterlijk binnen acht (8) dagen in kennis van het definitieve vertrek of de beëindiging van hun functies of betrokkenheid bij de Kosovo Relocated Specialist Judicial Institution van de personen bedoeld in het eerste, tweede en vierde lid van dit artikel.
 
@@ -654,15 +654,15 @@ De immuniteit verleend aan de personen genoemd in [artikel 19, eerste lid](https
 
 - c. personen in persoonlijke dienst;
 
-- d. stagiairs, mits zij zijn geregistreerd in overeenstemming met [artikel 22, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBV0006581&deel=III&artikel=22&z=2016-02-15&g=2016-02-15), van dit Verdrag;
+- d. stagiairs, mits zij zijn geregistreerd in overeenstemming met [artikel 22, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBV0006581&deel=III&artikel=22&z=2017-01-01&g=2017-01-01), van dit Verdrag;
 
-- e. deskundigen, mits het ministerie van Buitenlandse Zaken het document bedoeld in [artikel 23, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBV0006581&deel=III&artikel=23&z=2016-02-15&g=2016-02-15), van dit Verdrag heeft ontvangen;
+- e. deskundigen, mits het ministerie van Buitenlandse Zaken het document bedoeld in [artikel 23, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBV0006581&deel=III&artikel=23&z=2017-01-01&g=2017-01-01), van dit Verdrag heeft ontvangen;
 
 - f. raadslieden en personen die de verdediging bijstaan;
 
-- g. overige personen wier aanwezigheid op de zetel van de Kosovo Relocated Specialist Judicial Institution vereist is, mits het ministerie van Buitenlandse Zaken het document bedoeld in [artikel 27, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBV0006581&deel=III&artikel=27&z=2016-02-15&g=2016-02-15), van dit Verdrag heeft ontvangen;
+- g. overige personen wier aanwezigheid op de zetel van de Kosovo Relocated Specialist Judicial Institution vereist is, mits het ministerie van Buitenlandse Zaken het document bedoeld in [artikel 27, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBV0006581&deel=III&artikel=27&z=2017-01-01&g=2017-01-01), van dit Verdrag heeft ontvangen;
 
-- h. lokaal geworven personeel in overeenstemming met [artikel 21](https://wetten.overheid.nl/jci1.3:c:BWBV0006581&deel=III&artikel=21&z=2016-02-15&g=2016-02-15) van dit Verdrag.
+- h. lokaal geworven personeel in overeenstemming met [artikel 21](https://wetten.overheid.nl/jci1.3:c:BWBV0006581&deel=III&artikel=21&z=2017-01-01&g=2017-01-01) van dit Verdrag.
 
 9. Bij het definitieve vertrek van de in het tweede, vierde en achtste lid, onder g., van dit artikel bedoelde personen of wanneer deze personen niet langer hun functie uitoefenen, dient de in het achtste lid van dit artikel bedoelde identiteitskaart onverwijld en uiterlijk binnen vijftien (15) dagen door de griffier te worden geretourneerd aan het ministerie van Buitenlandse Zaken. Indien personen die niet langer hun functie uitoefenen niet in de gelegenheid zijn de in het achtste lid van dit artikel bedoelde identiteitskaart binnen de omschreven termijn te retourneren, dient het ministerie van Buitenlandse Zaken onverwijld te worden geraadpleegd.
 
@@ -682,11 +682,11 @@ Voor zover het socialezekerheidsstelsel van de Kosovo Relocated Specialist Judic
 
 ##### Artikel 36. Visa voor getuigen, slachtoffers, deskundigen, stagiairs, personen wier aanwezigheid vereist is op de zetel van de Kosovo Relocated Specialist Judicial Institution krachtens een dagvaarding als verdachte of aangeklaagde en andere personen wier aanwezigheid vereist is op de zetel van de Kosovo Relocated Specialist Judicial Institution
 
-1. Alle in de [artikelen 22](https://wetten.overheid.nl/jci1.3:c:BWBV0006581&deel=III&artikel=22&z=2016-02-15&g=2016-02-15), [23](https://wetten.overheid.nl/jci1.3:c:BWBV0006581&deel=III&artikel=23&z=2016-02-15&g=2016-02-15), [24](https://wetten.overheid.nl/jci1.3:c:BWBV0006581&deel=III&artikel=24&z=2016-02-15&g=2016-02-15), [25](https://wetten.overheid.nl/jci1.3:c:BWBV0006581&deel=III&artikel=25&z=2016-02-15&g=2016-02-15), [26](https://wetten.overheid.nl/jci1.3:c:BWBV0006581&deel=III&artikel=26&z=2016-02-15&g=2016-02-15) en [27](https://wetten.overheid.nl/jci1.3:c:BWBV0006581&deel=III&artikel=27&z=2016-02-15&g=2016-02-15) van dit Verdrag bedoelde personen, van wie de griffier als zodanig kennisgeving heeft gedaan aan de gastheerstaat, hebben recht op onbelemmerde binnenkomst in, vertrek uit en, met inachtneming van het derde en vierde lid van dit artikel, verplaatsing binnen de gastheerstaat, wanneer van toepassing en ten behoeve van de Kosovo Relocated Specialist Judicial Institution.
+1. Alle in de [artikelen 22](https://wetten.overheid.nl/jci1.3:c:BWBV0006581&deel=III&artikel=22&z=2017-01-01&g=2017-01-01), [23](https://wetten.overheid.nl/jci1.3:c:BWBV0006581&deel=III&artikel=23&z=2017-01-01&g=2017-01-01), [24](https://wetten.overheid.nl/jci1.3:c:BWBV0006581&deel=III&artikel=24&z=2017-01-01&g=2017-01-01), [25](https://wetten.overheid.nl/jci1.3:c:BWBV0006581&deel=III&artikel=25&z=2017-01-01&g=2017-01-01), [26](https://wetten.overheid.nl/jci1.3:c:BWBV0006581&deel=III&artikel=26&z=2017-01-01&g=2017-01-01) en [27](https://wetten.overheid.nl/jci1.3:c:BWBV0006581&deel=III&artikel=27&z=2017-01-01&g=2017-01-01) van dit Verdrag bedoelde personen, van wie de griffier als zodanig kennisgeving heeft gedaan aan de gastheerstaat, hebben recht op onbelemmerde binnenkomst in, vertrek uit en, met inachtneming van het derde en vierde lid van dit artikel, verplaatsing binnen de gastheerstaat, wanneer van toepassing en ten behoeve van de Kosovo Relocated Specialist Judicial Institution.
 
-2. Visa, waar deze vereist zijn, worden kosteloos en zo spoedig mogelijk afgegeven aan de personen bedoeld in de [artikelen 22](https://wetten.overheid.nl/jci1.3:c:BWBV0006581&deel=III&artikel=22&z=2016-02-15&g=2016-02-15) en [23](https://wetten.overheid.nl/jci1.3:c:BWBV0006581&deel=III&artikel=23&z=2016-02-15&g=2016-02-15) van dit Verdrag. Dezelfde faciliteiten als bedoeld in het eerste lid van dit artikel gelden voor personen die getuigen en slachtoffers begeleiden en van wie de griffier als zodanig kennisgeving heeft gedaan aan de gastheerstaat.
+2. Visa, waar deze vereist zijn, worden kosteloos en zo spoedig mogelijk afgegeven aan de personen bedoeld in de [artikelen 22](https://wetten.overheid.nl/jci1.3:c:BWBV0006581&deel=III&artikel=22&z=2017-01-01&g=2017-01-01) en [23](https://wetten.overheid.nl/jci1.3:c:BWBV0006581&deel=III&artikel=23&z=2017-01-01&g=2017-01-01) van dit Verdrag. Dezelfde faciliteiten als bedoeld in het eerste lid van dit artikel gelden voor personen die getuigen en slachtoffers begeleiden en van wie de griffier als zodanig kennisgeving heeft gedaan aan de gastheerstaat.
 
-3. Visa, waar deze vereist zijn, worden kosteloos en zo spoedig mogelijk afgegeven aan personen die aanwezig dienen te zijn op de zetel van de Kosovo Relocated Specialist Judicial Institution en door de Kosovo Relocated Specialist Judicial Institution zijn gedagvaard om te verschijnen als verdachte of aangeklaagde. Hetzelfde geldt voor de overige personen bedoeld in de [artikelen 25](https://wetten.overheid.nl/jci1.3:c:BWBV0006581&deel=III&artikel=25&z=2016-02-15&g=2016-02-15), [26](https://wetten.overheid.nl/jci1.3:c:BWBV0006581&deel=III&artikel=26&z=2016-02-15&g=2016-02-15) en [27](https://wetten.overheid.nl/jci1.3:c:BWBV0006581&deel=III&artikel=27&z=2016-02-15&g=2016-02-15) van dit Verdrag. Op deze visa kunnen territoriale beperkingen van toepassing zijn.
+3. Visa, waar deze vereist zijn, worden kosteloos en zo spoedig mogelijk afgegeven aan personen die aanwezig dienen te zijn op de zetel van de Kosovo Relocated Specialist Judicial Institution en door de Kosovo Relocated Specialist Judicial Institution zijn gedagvaard om te verschijnen als verdachte of aangeklaagde. Hetzelfde geldt voor de overige personen bedoeld in de [artikelen 25](https://wetten.overheid.nl/jci1.3:c:BWBV0006581&deel=III&artikel=25&z=2017-01-01&g=2017-01-01), [26](https://wetten.overheid.nl/jci1.3:c:BWBV0006581&deel=III&artikel=26&z=2017-01-01&g=2017-01-01) en [27](https://wetten.overheid.nl/jci1.3:c:BWBV0006581&deel=III&artikel=27&z=2017-01-01&g=2017-01-01) van dit Verdrag. Op deze visa kunnen territoriale beperkingen van toepassing zijn.
 
 4. De gastheerstaat kan aan de visa bedoeld in het derde lid van dit artikel de voorwaarden of beperkingen verbinden die noodzakelijk zijn om schendingen van zijn openbare orde te voorkomen of de veiligheid van de betrokken persoon te beschermen.
 
@@ -708,7 +708,7 @@ Voor zover het socialezekerheidsstelsel van de Kosovo Relocated Specialist Judic
 
 ##### Artikel 38. Rijbewijs
 
-Voor de duur van hun tewerkstelling of opdracht is het de volgende personen toegestaan een rijbewijs van de gastheerstaat te verkrijgen op vertoon van hun geldige buitenlandse rijbewijs dan wel hun eigen geldige buitenlandse rijbewijs te blijven gebruiken, mits de houder in het bezit is van een door de gastheerstaat in overeenstemming met [artikel 33](https://wetten.overheid.nl/jci1.3:c:BWBV0006581&deel=V&deel=1&artikel=33&z=2016-02-15&g=2016-02-15) van dit Verdrag afgegeven identiteitskaart:
+Voor de duur van hun tewerkstelling of opdracht is het de volgende personen toegestaan een rijbewijs van de gastheerstaat te verkrijgen op vertoon van hun geldige buitenlandse rijbewijs dan wel hun eigen geldige buitenlandse rijbewijs te blijven gebruiken, mits de houder in het bezit is van een door de gastheerstaat in overeenstemming met [artikel 33](https://wetten.overheid.nl/jci1.3:c:BWBV0006581&deel=V&deel=1&artikel=33&z=2017-01-01&g=2017-01-01) van dit Verdrag afgegeven identiteitskaart:
 
 - 1. de rechters, de Speciale Aanklager, de plaatsvervangend Speciale Aanklager, de griffier, de plaatsvervangend griffier en personeel;
 
@@ -762,7 +762,7 @@ Wanneer de aanwezigheid van een persoon die zich in hechtenis bevindt, vereist i
 
 1. Personen in hechtenis van de Kosovo Relocated Specialist Judicial Institution in de gastheerstaat worden niet voorlopig in vrijheid gesteld in de gastheerstaat in overeenstemming met artikel 41, elfde lid, van wet nr. 05/L-053, tenzij het personen betreft die onderdaan of permanent ingezetene zijn van de gastheerstaat.
 
-2. De gastheerstaat faciliteert het vervoer van personen die voorlopig in vrijheid zijn gesteld in overeenstemming met [artikel 40](https://wetten.overheid.nl/jci1.3:c:BWBV0006581&deel=V&deel=3&artikel=40&z=2016-02-15&g=2016-02-15) van dit Verdrag.
+2. De gastheerstaat faciliteert het vervoer van personen die voorlopig in vrijheid zijn gesteld in overeenstemming met [artikel 40](https://wetten.overheid.nl/jci1.3:c:BWBV0006581&deel=V&deel=3&artikel=40&z=2017-01-01&g=2017-01-01) van dit Verdrag.
 
 3. De Kosovo Relocated Specialist Judicial Institution en de gastheerstaat treffen praktische regelingen voor de uitvoering van dit artikel.
 
@@ -772,7 +772,7 @@ Wanneer de aanwezigheid van een persoon die zich in hechtenis bevindt, vereist i
 
 2. De Kosovo Relocated Specialist Judicial Institution treft de regelingen die zij passend acht voor de overbrenging van de persoon naar een van de landen bedoeld in het eerste lid van dit artikel.
 
-3. De bepalingen van [artikel 40](https://wetten.overheid.nl/jci1.3:c:BWBV0006581&deel=V&deel=3&artikel=40&z=2016-02-15&g=2016-02-15) van dit Verdrag zijn van overeenkomstige toepassing op het vervoer van de in dit artikel bedoelde personen binnen de gastheerstaat.
+3. De bepalingen van [artikel 40](https://wetten.overheid.nl/jci1.3:c:BWBV0006581&deel=V&deel=3&artikel=40&z=2017-01-01&g=2017-01-01) van dit Verdrag zijn van overeenkomstige toepassing op het vervoer van de in dit artikel bedoelde personen binnen de gastheerstaat.
 
 4. De regering van Kosovo neemt alle nodige maatregelen ter bescherming van de veiligheid en het welzijn van personen bedoeld in dit artikel zodra zij in Kosovo in vrijheid worden gesteld.
 
@@ -822,7 +822,7 @@ De Kosovo Relocated Specialist Judicial Institution stelt bepalingen vast ten be
 
 4. Het scheidsgerecht stelt zijn eigen procedures vast, waarbij twee arbiters een quorum voor alle doeleinden dienen te vormen, en alle besluiten dienen te worden genomen met de instemming van ten minste twee arbiters.
 
-5. De kosten, zoals geraamd door het scheidsgerecht, worden gedragen door de Kosovo Relocated Specialist Judicial Institution in overeenstemming met [artikel 47](https://wetten.overheid.nl/jci1.3:c:BWBV0006581&deel=ZESDE&artikel=47&z=2016-02-15&g=2016-02-15) van dit Verdrag en door de gastheerstaat.
+5. De kosten, zoals geraamd door het scheidsgerecht, worden gedragen door de Kosovo Relocated Specialist Judicial Institution in overeenstemming met [artikel 47](https://wetten.overheid.nl/jci1.3:c:BWBV0006581&deel=ZESDE&artikel=47&z=2017-01-01&g=2017-01-01) van dit Verdrag en door de gastheerstaat.
 
 6. Het scheidsgerecht beslist over het geschil op basis van de bepalingen van dit Verdrag en van aanvullende regelingen of overeenkomsten en de toepasselijke regels van het internationale recht. De uitspraak van het scheidsgerecht gaat vergezeld van een uiteenzetting van de gronden ervan en is onherroepelijk en bindend voor de partijen.
 
@@ -842,7 +842,7 @@ Dit Verdrag kan met wederzijdse instemming van de partijen worden gewijzigd.
 
 ##### Artikel 54. Duur en beëindiging
 
-1. Dit Verdrag blijft van kracht gedurende een jaar, waarna het steeds automatisch met een jaar zal worden verlengd, tenzij er geen toereikende financiering voor de noodzakelijke kosten bedoeld in [artikel 47](https://wetten.overheid.nl/jci1.3:c:BWBV0006581&deel=ZESDE&artikel=47&z=2016-02-15&g=2016-02-15) van dit Verdrag kan worden verkregen. In dat geval kan de gastheerstaat de Republiek Kosovo er drie maanden vóór het einde van de eerste termijn van een jaar of een volgende termijn van een jaar schriftelijk van in kennis stellen dat hij het Verdrag niet wenst te verlengen.
+1. Dit Verdrag blijft van kracht gedurende een jaar, waarna het steeds automatisch met een jaar zal worden verlengd, tenzij er geen toereikende financiering voor de noodzakelijke kosten bedoeld in [artikel 47](https://wetten.overheid.nl/jci1.3:c:BWBV0006581&deel=ZESDE&artikel=47&z=2017-01-01&g=2017-01-01) van dit Verdrag kan worden verkregen. In dat geval kan de gastheerstaat de Republiek Kosovo er drie maanden vóór het einde van de eerste termijn van een jaar of een volgende termijn van een jaar schriftelijk van in kennis stellen dat hij het Verdrag niet wenst te verlengen.
 
 2. Dit Verdrag houdt op van kracht te zijn indien de zetel van de Kosovo Relocated Specialist Judicial Institution wordt verwijderd van het grondgebied van de gastheerstaat of indien de Kosovo Relocated Specialist Judicial Institution wordt ontbonden uit hoofde van een kennisgeving van voltooiing door de Raad van de Europese Unie aan de Republiek Kosovo, met uitzondering van de bepalingen die van toepassing kunnen zijn in verband met de ordentelijke beëindiging van de werkzaamheden van de Kosovo Relocated Specialist Judicial Institution op haar zetel in de gastheerstaat en de vervreemding van haar bezittingen aldaar, alsmede van de bepalingen inzake immuniteit ten aanzien van elke juridische procedure met betrekking tot alle in een officiële hoedanigheid gesproken of geschreven woorden en verrichte handelingen.
 
