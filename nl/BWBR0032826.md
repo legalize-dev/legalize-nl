@@ -4,7 +4,7 @@ identifier: "BWBR0032826"
 country: "nl"
 rank: "rijkswet"
 publication_date: "2017-01-01"
-last_updated: "2012-03-17"
+last_updated: "2017-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0032826"
 soort: "rijkswet"
@@ -77,9 +77,9 @@ Wijzigt het Wetboek van Militair Strafrecht.
 
 ##### Artikel IX
 
-1. In strafzaken waarin voor de datum van inwerkingtreding van [artikel II, onderdeel O, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032826&artikel=II&z=2012-03-17&g=2012-03-17), van deze rijkswet voorwaarden ter voorkoming van strafvervolging zijn gesteld overeenkomstig [artikel 59 van het Wetboek van Militair Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001869&artikel=59), blijven de wettelijke bepalingen die door de [artikelen II, onderdeel O](https://wetten.overheid.nl/jci1.3:c:BWBR0032826&artikel=II&z=2012-03-17&g=2012-03-17), en [III, onderdeel C](https://wetten.overheid.nl/jci1.3:c:BWBR0032826&artikel=III&z=2012-03-17&g=2012-03-17), van deze rijkswet worden gewijzigd, van toepassing zoals deze luidden voor de inwerkingtreding van de desbetreffende onderdelen van deze rijkswet.
+1. In strafzaken waarin voor de datum van inwerkingtreding van [artikel II, onderdeel O, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032826&artikel=II&z=2017-01-01&g=2017-01-01), van deze rijkswet voorwaarden ter voorkoming van strafvervolging zijn gesteld overeenkomstig [artikel 59 van het Wetboek van Militair Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001869&artikel=59), blijven de wettelijke bepalingen die door de [artikelen II, onderdeel O](https://wetten.overheid.nl/jci1.3:c:BWBR0032826&artikel=II&z=2017-01-01&g=2017-01-01), en [III, onderdeel C](https://wetten.overheid.nl/jci1.3:c:BWBR0032826&artikel=III&z=2017-01-01&g=2017-01-01), van deze rijkswet worden gewijzigd, van toepassing zoals deze luidden voor de inwerkingtreding van de desbetreffende onderdelen van deze rijkswet.
 
-2. In strafzaken waarin voor de datum van inwerkingtreding van [artikel II, onderdeel O, van de Wet OM-afdoening](https://wetten.overheid.nl/jci1.3:c:BWBR0020074&artikel=II) voorwaarden ter voorkoming van strafvervolging zijn gesteld overeenkomstig [artikel 74 van het Wetboek van Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=74), blijft de wettelijke bepaling die door [artikel III, onderdeel D](https://wetten.overheid.nl/jci1.3:c:BWBR0032826&artikel=III&z=2012-03-17&g=2012-03-17), van deze rijkswet wordt gewijzigd, van toepassing zoals die luidde voor de inwerkingtreding van het desbetreffende onderdeel van de [Wet OM-afdoening](https://wetten.overheid.nl/jci1.3:c:BWBR0020074).
+2. In strafzaken waarin voor de datum van inwerkingtreding van [artikel II, onderdeel O, van de Wet OM-afdoening](https://wetten.overheid.nl/jci1.3:c:BWBR0020074&artikel=II) voorwaarden ter voorkoming van strafvervolging zijn gesteld overeenkomstig [artikel 74 van het Wetboek van Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=74), blijft de wettelijke bepaling die door [artikel III, onderdeel D](https://wetten.overheid.nl/jci1.3:c:BWBR0032826&artikel=III&z=2017-01-01&g=2017-01-01), van deze rijkswet wordt gewijzigd, van toepassing zoals die luidde voor de inwerkingtreding van het desbetreffende onderdeel van de [Wet OM-afdoening](https://wetten.overheid.nl/jci1.3:c:BWBR0020074).
 
 ##### Artikel X
 
