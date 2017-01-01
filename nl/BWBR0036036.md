@@ -4,7 +4,7 @@ identifier: "BWBR0036036"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2017-01-01"
-last_updated: "2014-12-30"
+last_updated: "2017-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0036036"
 soort: "ministeriele-regeling"
@@ -44,11 +44,11 @@ Besluit:
 
 ##### Artikel 1
 
-Aan de Algemeen Directeur van de Dienst Wegverkeer wordt mandaat en machtiging verleend voor aangelegenheden die verband houden met de afgifte van een certificaat van goedkeuring voor een vervoermiddel bestemd voor het transport van dieren als bedoeld in [artikel 4.4, eerste lid, van de Regeling houders van dieren](https://wetten.overheid.nl/jci1.3:c:BWBR0035248&artikel=4.4).
+Aan de Algemeen Directeur van de Dienst Wegverkeer wordt mandaat en machtiging verleend voor aangelegenheden die verband houden met de afgifte van een certificaat van goedkeuring voor een vervoermiddel bestemd voor het transport van dieren als bedoeld in artikel 18, eerste lid, of artikel 19, eerste lid, van verordening (EG) nr. 1/2005 van de Raad van 22 december 2004 inzake de bescherming van dieren tijdens het vervoer en daarmee samenhangende activiteiten en tot wijziging van de Richtlijnen 64/432/EEG en 93/119/EG en van Verordening (EG) nr. 1255/97 (PbEU 2005, L 3).
 
 ##### Artikel 2
 
-1. De Algemeen Directeur van de Dienst Wegverkeer kan voor de in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0036036&artikel=1&z=2014-12-30&g=2014-12-30) bedoelde aangelegenheden ondermandaat en machtiging verlenen aan de onder hem ressorterende functionarissen.
+1. De Algemeen Directeur van de Dienst Wegverkeer kan voor de in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0036036&artikel=1&z=2017-01-01&g=2017-01-01) bedoelde aangelegenheden ondermandaat en machtiging verlenen aan de onder hem ressorterende functionarissen.
 
 2. Het verlenen van ondermandaat en machtiging alsmede wijziging daarvan, geschiedt schriftelijk en wat de formulering betreft in overeenstemming met de directeur Wetgeving en Juridische Zaken van het Ministerie van Economische Zaken.
 
@@ -70,7 +70,7 @@ namens deze:
 
 ##### Artikel 4
 
-Het [Mandaatbesluit LNV RDW](https://wetten.overheid.nl/jci1.3:c:BWBR0022600&wetgeving) wordt ingetrokken.
+Het [Mandaatbesluit LNV RDW](https://wetten.overheid.nl/jci1.3:c:BWBR0022600) wordt ingetrokken.
 
 ##### Artikel 5
 
