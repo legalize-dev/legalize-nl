@@ -4,7 +4,7 @@ identifier: "BWBR0035796"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-01-01"
-last_updated: "2016-01-01"
+last_updated: "2017-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0035796"
 soort: "ministeriele-regeling"
@@ -44,7 +44,7 @@ Besluit:
 
 ##### Artikel 1
 
-In afwijking van [artikel 2.3, eerste lid, van de Wet normering bezoldiging topfunctionarissen publieke en semipublieke sector](https://wetten.overheid.nl/jci1.3:c:BWBR0032249&artikel=2.3) komen partijen bij rechtspersonen als bedoeld in de [bijlage](https://wetten.overheid.nl/jci1.3:c:BWBR0032249&bijlage=1), bedoeld in [artikel 1.3, eerste lid, onderdeel d, van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0032249&artikel=1.3), onder het opschrift ‘Ministerie van Buitenlandse Zaken’, indien deze rechtspersonen een subsidie ontvangen ten laste van de rijksbegroting van Buitenlandse Handel en Ontwikkelingssamenwerking en niet elders zijn vermeld in deze bijlage, geen bezoldiging overeen die per kalenderjaar meer bedraagt dan € 168.000.
+In afwijking van [artikel 2.3, eerste lid, van de Wet normering bezoldiging topfunctionarissen publieke en semipublieke sector](https://wetten.overheid.nl/jci1.3:c:BWBR0032249&artikel=2.3) komen partijen bij rechtspersonen als bedoeld in de [bijlage](https://wetten.overheid.nl/jci1.3:c:BWBR0032249&bijlage=1), bedoeld in [artikel 1.3, eerste lid, onderdeel d, van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0032249&artikel=1.3), onder het opschrift ‘Ministerie van Buitenlandse Zaken’, indien deze rechtspersonen een subsidie ontvangen ten laste van de rijksbegroting van Buitenlandse Handel en Ontwikkelingssamenwerking en niet elders zijn vermeld in deze bijlage, geen bezoldiging overeen die voor het kalenderjaar 2017 meer bedraagt dan € 168.000.
 
 ##### Artikel 2
 
