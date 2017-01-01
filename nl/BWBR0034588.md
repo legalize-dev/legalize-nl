@@ -4,7 +4,7 @@ identifier: "BWBR0034588"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2023-11-02"
-last_updated: "2013-12-28"
+last_updated: "2017-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0034588"
 soort: "ministeriele-regeling"
@@ -160,7 +160,7 @@ Programmamanagers ressorterend onder de directeur BO zijn verantwoordelijk voor 
 
 ##### Artikel 7
 
-Aan de hoofden van de afdelingen, genoemd in [artikel 2, eerste lid, onderdelen a tot en met c](https://wetten.overheid.nl/jci1.3:c:BWBR0034588&paragraaf=2&artikel=2&z=2013-12-28&g=2013-12-28), alsmede aan de programmamanagers ressorterend onder de directie BO wordt mandaat en machtiging verleend met betrekking tot het nemen van besluiten over en het ondertekenen van stukken die betrekking hebben op:
+Aan de hoofden van de afdelingen, genoemd in [artikel 2, eerste lid, onderdelen a tot en met c](https://wetten.overheid.nl/jci1.3:c:BWBR0034588&paragraaf=2&artikel=2&z=2013-12-28&g=2017-01-01), alsmede aan de programmamanagers ressorterend onder de directie BO wordt mandaat en machtiging verleend met betrekking tot het nemen van besluiten over en het ondertekenen van stukken die betrekking hebben op:
 
 - a. de taken van de eigen afdeling of het eigen programmateam,
 
@@ -176,15 +176,15 @@ Aan de hoofden van de afdelingen, genoemd in [artikel 2, eerste lid, onderdelen 
 
 ##### Artikel 8
 
-Het hoofd van de afdeling Kabinetszaken, Managementondersteuning en Stukkenverkeer is gevolmachtigd tot het aangaan van overeenkomsten met betrekking tot de taken, genoemd in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0034588&paragraaf=3&artikel=4&z=2013-12-28&g=2013-12-28), tot een bedrag van € 5.000,– per overeenkomst.
+Het hoofd van de afdeling Kabinetszaken, Managementondersteuning en Stukkenverkeer is gevolmachtigd tot het aangaan van overeenkomsten met betrekking tot de taken, genoemd in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0034588&paragraaf=3&artikel=4&z=2013-12-28&g=2017-01-01), tot een bedrag van € 5.000,– per overeenkomst.
 
 ##### Artikel 9
 
-Het hoofd van de afdeling Veiligheid, Integriteit en Crisismanagement is gevolmachtigd tot het aangaan van overeenkomsten met betrekking tot de taken, genoemd in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0034588&paragraaf=3&artikel=5&z=2013-12-28&g=2013-12-28), tot een bedrag van € 5.000,– per overeenkomst.
+Het hoofd van de afdeling Veiligheid, Integriteit en Crisismanagement is gevolmachtigd tot het aangaan van overeenkomsten met betrekking tot de taken, genoemd in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0034588&paragraaf=3&artikel=5&z=2013-12-28&g=2017-01-01), tot een bedrag van € 5.000,– per overeenkomst.
 
 ##### Artikel 10
 
-Programmamanagers ressorterend onder de directeur Bestuursondersteuning zijn gevolmachtigd tot het aangaan van overeenkomsten met betrekking tot de taken, genoemd in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0034588&paragraaf=3&artikel=6&z=2013-12-28&g=2013-12-28), tot een bedrag van € 5.000,– per overeenkomst.
+Programmamanagers ressorterend onder de directeur Bestuursondersteuning zijn gevolmachtigd tot het aangaan van overeenkomsten met betrekking tot de taken, genoemd in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0034588&paragraaf=3&artikel=6&z=2013-12-28&g=2017-01-01), tot een bedrag van € 5.000,– per overeenkomst.
 
 ##### Artikel 11
 
@@ -210,7 +210,7 @@ Besluit:
 
 1. Het [Organisatie-, mandaat- en volmachtbesluit directie BO SZW 2011](https://wetten.overheid.nl/jci1.3:c:BWBR0030337) wordt ingetrokken.
 
-2. Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst, met dien verstande dat de [artikelen 1 tot en met 7](https://wetten.overheid.nl/jci1.3:c:BWBR0034588&paragraaf=1&artikel=1&z=2013-12-28&g=2013-12-28) terugwerken tot en met 1 oktober 2012
+2. Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst, met dien verstande dat de [artikelen 1 tot en met 7](https://wetten.overheid.nl/jci1.3:c:BWBR0034588&paragraaf=1&artikel=1&z=2013-12-28&g=2017-01-01) terugwerken tot en met 1 oktober 2012
 
 3. Deze regeling wordt aangehaald als: Organisatie-, Mandaat- en Volmachtbesluit directie BO SZW 2013.
 
