@@ -4,7 +4,7 @@ identifier: "BWBR0034177"
 country: "nl"
 rank: "amvb"
 publication_date: "2017-01-01"
-last_updated: "2014-01-01"
+last_updated: "2017-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0034177"
 soort: "AMvB"
@@ -62,7 +62,7 @@ In dit besluit wordt verstaan onder:
 
 ##### Artikel 2
 
-1. Als bevoegd tot het verrichten van handelingen als bedoeld in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0034177&paragraaf=5&artikel=7&z=2014-01-01&g=2014-01-01) wordt de klinisch technoloog aangewezen.
+1. Als bevoegd tot het verrichten van handelingen als bedoeld in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0034177&paragraaf=5&artikel=7&z=2017-01-01&g=2017-01-01) wordt de klinisch technoloog aangewezen.
 
 2. De aanwijzing, bedoeld in het eerste lid, geldt voor een termijn van vijf jaar, en wordt slechts verlengd voor maximaal vijf jaar bij toepassing van [artikel 36a, zevende lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&artikel=36a).
 
@@ -70,15 +70,15 @@ In dit besluit wordt verstaan onder:
 
 1. Het recht tot het voeren van de titel klinisch technoloog is voorbehouden aan degene:
 
-- a. aan wie een getuigschrift is uitgereikt waaruit blijkt dat betrokkene het afsluitende examen van een opleiding tot klinisch technoloog met goed gevolg heeft afgelegd, welke opleiding is opgenomen in het Centraal Register Opleidingen Hoger Onderwijs en die voldoet aan de [artikelen 4](https://wetten.overheid.nl/jci1.3:c:BWBR0034177&paragraaf=3&artikel=4&z=2014-01-01&g=2014-01-01) en [5](https://wetten.overheid.nl/jci1.3:c:BWBR0034177&paragraaf=3&artikel=5&z=2014-01-01&g=2014-01-01), of
+- a. aan wie een getuigschrift is uitgereikt waaruit blijkt dat betrokkene het afsluitende examen van een opleiding tot klinisch technoloog met goed gevolg heeft afgelegd, welke opleiding is opgenomen in het Centraal Register Opleidingen Hoger Onderwijs en die voldoet aan de [artikelen 4](https://wetten.overheid.nl/jci1.3:c:BWBR0034177&paragraaf=3&artikel=4&z=2017-01-01&g=2017-01-01) en [5](https://wetten.overheid.nl/jci1.3:c:BWBR0034177&paragraaf=3&artikel=5&z=2017-01-01&g=2017-01-01), of
 
 - b. die in het bezit is van een door Onze Minister afgegeven verklaring van vakbekwaamheid:
 
 - –. waaruit blijkt dat betrokkene een examen heeft afgelegd van een opleiding, die is gericht op de uitoefening van het beroep van klinisch technoloog en aan de betrokkene daarvan een getuigschrift is uitgereikt dat niet is afgegeven binnen een staat aangesloten bij de overeenkomst van Oporto van 2 mei 1992 betreffende de Europese Economische Ruimte (Trb. 1992, 132) of Zwitserland, en
 
-- –. waarin Onze Minister verklaart dat de door de betrokkene verworven vakbekwaamheid voor de toepassing van deze wet geacht kan worden gelijkwaardig te zijn aan de vakbekwaamheid welke uit de [artikelen 4](https://wetten.overheid.nl/jci1.3:c:BWBR0034177&paragraaf=3&artikel=4&z=2014-01-01&g=2014-01-01) en [5](https://wetten.overheid.nl/jci1.3:c:BWBR0034177&paragraaf=3&artikel=5&z=2014-01-01&g=2014-01-01) kan worden afgeleid, of
+- –. waarin Onze Minister verklaart dat de door de betrokkene verworven vakbekwaamheid voor de toepassing van deze wet geacht kan worden gelijkwaardig te zijn aan de vakbekwaamheid welke uit de [artikelen 4](https://wetten.overheid.nl/jci1.3:c:BWBR0034177&paragraaf=3&artikel=4&z=2017-01-01&g=2017-01-01) en [5](https://wetten.overheid.nl/jci1.3:c:BWBR0034177&paragraaf=3&artikel=5&z=2017-01-01&g=2017-01-01) kan worden afgeleid, of
 
-- c. die in het bezit is van een door Onze Minister afgegeven erkenning van beroepskwalificaties als klinisch technoloog in de zin van de [Algemene wet erkenning EG-beroepskwalificaties](https://wetten.overheid.nl/jci1.3:c:BWBR0023066).
+- c. die in het bezit is van een door Onze Minister afgegeven erkenning van beroepskwalificaties als klinisch technoloog in de zin van de [Algemene wet erkenning EU-beroepskwalificaties](https://wetten.overheid.nl/jci1.3:c:BWBR0023066).
 
 2. De verklaring, bedoeld in het eerste lid, onder b, en de erkenning, bedoeld in het eerste lid, onder c, geven aan voor welk technisch medisch deelgebied van de geneeskunst zij van toepassing zijn.
 
@@ -86,7 +86,7 @@ In dit besluit wordt verstaan onder:
 
 ##### Artikel 4
 
-De opleiding, bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0034177&paragraaf=2&artikel=3&z=2014-01-01&g=2014-01-01), heeft een studielast van 10.080 studiebelastingsuren, omvat zowel theoretisch als praktisch onderwijs, en is er op gericht dat de betrokkene competenties verwerft, behorend tot het gebied van deskundigheid als bedoeld in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0034177&paragraaf=4&artikel=6&z=2014-01-01&g=2014-01-01), ter zake van:
+De opleiding, bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0034177&paragraaf=2&artikel=3&z=2017-01-01&g=2017-01-01), heeft een studielast van 10.080 studiebelastingsuren, omvat zowel theoretisch als praktisch onderwijs, en is er op gericht dat de betrokkene competenties verwerft, behorend tot het gebied van deskundigheid als bedoeld in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0034177&paragraaf=4&artikel=6&z=2017-01-01&g=2017-01-01), ter zake van:
 
 - a. technisch medische deskundigheid;
 
@@ -226,17 +226,17 @@ De opleiding, bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR003
 
 - i. het verrichten van steenvergruizing voor geneeskundige doeleinden.
 
-2. De bevoegdheid, genoemd in het eerste lid, geldt uitsluitend voor zover het betreft handelingen die vallen binnen de deskundigheid van complexe technisch medische handelingen als bedoeld in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0034177&paragraaf=4&artikel=6&z=2014-01-01&g=2014-01-01) en die worden uitgeoefend volgens landelijke geldende richtlijnen, standaarden en daarvan afgeleide protocollen.
+2. De bevoegdheid, genoemd in het eerste lid, geldt uitsluitend voor zover het betreft handelingen die vallen binnen de deskundigheid van complexe technisch medische handelingen als bedoeld in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0034177&paragraaf=4&artikel=6&z=2017-01-01&g=2017-01-01) en die worden uitgeoefend volgens landelijke geldende richtlijnen, standaarden en daarvan afgeleide protocollen.
 
 #### § 6. Overige bepalingen
 
 ##### Artikel 8
 
-1. Alvorens een verklaring af te geven als bedoeld in [artikel 3, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0034177&paragraaf=2&artikel=3&z=2014-01-01&g=2014-01-01), wint Onze Minister advies in van de commissie.
+1. Alvorens een verklaring af te geven als bedoeld in [artikel 3, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0034177&paragraaf=2&artikel=3&z=2017-01-01&g=2017-01-01), wint Onze Minister advies in van de commissie.
 
-2. De commissie onderzoekt en laat Onze Minister weten of naar haar oordeel voldaan is aan de vereisten, bedoeld in [artikel 3, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0034177&paragraaf=2&artikel=3&z=2014-01-01&g=2014-01-01).
+2. De commissie onderzoekt en laat Onze Minister weten of naar haar oordeel voldaan is aan de vereisten, bedoeld in [artikel 3, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0034177&paragraaf=2&artikel=3&z=2017-01-01&g=2017-01-01).
 
-3. De [artikelen 3a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007397&artikel=3a), [5](https://wetten.overheid.nl/jci1.3:c:BWBR0007397&artikel=5), [6](https://wetten.overheid.nl/jci1.3:c:BWBR0007397&artikel=6) en [7, van het Besluit buitenslands gediplomeerden volksgezondheid](https://wetten.overheid.nl/jci1.3:c:BWBR0007397&artikel=7) zijn van overeenkomstige toepassing op aanvragen voor een verklaring van vakbekwaamheid als bedoeld in [artikel 3, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0034177&paragraaf=2&artikel=3&z=2014-01-01&g=2014-01-01). De leden-deskundigen die deel uitmaken van de commissie, zijn deskundig ter zake van de opleiding of van het beroep van klinisch technoloog.
+3. De [artikelen 3a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007397&artikel=3a), [5](https://wetten.overheid.nl/jci1.3:c:BWBR0007397&artikel=5), [6](https://wetten.overheid.nl/jci1.3:c:BWBR0007397&artikel=6) en [7, van het Besluit buitenslands gediplomeerden volksgezondheid](https://wetten.overheid.nl/jci1.3:c:BWBR0007397&artikel=7) zijn van overeenkomstige toepassing op aanvragen voor een verklaring van vakbekwaamheid als bedoeld in [artikel 3, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0034177&paragraaf=2&artikel=3&z=2017-01-01&g=2017-01-01). De leden-deskundigen die deel uitmaken van de commissie, zijn deskundig ter zake van de opleiding of van het beroep van klinisch technoloog.
 
 ##### Artikel 9
 
