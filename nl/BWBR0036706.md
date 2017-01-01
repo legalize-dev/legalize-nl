@@ -4,7 +4,7 @@ identifier: "BWBR0036706"
 country: "nl"
 rank: "wet"
 publication_date: "2017-07-01"
-last_updated: "2016-01-01"
+last_updated: "2017-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0036706"
 soort: "wet"
@@ -61,9 +61,13 @@ Wijzigt de Wet arbeid vreemdelingen.
 
 ##### Artikel V
 
+Wijzigt de Arbeidsomstandighedenwet.
+
 Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel VI
+
+Wijzigt de Arbeidstijdenwet.
 
 Dit onderdeel is nog niet inwerking getreden
 
@@ -73,15 +77,17 @@ Wijzigt de Wet allocatie arbeidskrachten door intermediairs.
 
 ##### Artikel VIII
 
+Wijzigt de Wet op de economische delicten.
+
 Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel IX
 
-Deze wet is niet van toepassing ten aanzien van loon dat is verschuldigd over een tijdvak dat ligt voor het tijdstip van inwerkingtreding van [artikel II, onderdeel A](https://wetten.overheid.nl/jci1.3:c:BWBR0036706&artikel=II&z=2016-01-01&g=2016-01-01).
+Deze wet is niet van toepassing ten aanzien van loon dat is verschuldigd over een tijdvak dat ligt voor het tijdstip van inwerkingtreding van [artikel II, onderdeel A](https://wetten.overheid.nl/jci1.3:c:BWBR0036706&artikel=II&z=2017-01-01&g=2017-01-01).
 
 ##### Artikel X
 
-Indien op de dag voor het tijdstip van inwerkingtreding van [artikel II, onderdeel E](https://wetten.overheid.nl/jci1.3:c:BWBR0036706&artikel=II&z=2016-01-01&g=2016-01-01), [artikel 692 lid 2 van Boek 7 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=692) van toepassing is op de derde, bedoeld in [titel 10, afdeling 11 van Boek 7 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&afdeling=11), blijven de artikelen 692 en [696 van Boek 7 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=696) en de daarop berustende bepalingen zoals deze luidden voor het tijdstip van inwerkingtreding van artikel II, onderdeel E, tot zes maanden na die inwerkingtreding van toepassing.
+Indien op de dag voor het tijdstip van inwerkingtreding van [artikel II, onderdeel E](https://wetten.overheid.nl/jci1.3:c:BWBR0036706&artikel=II&z=2017-01-01&g=2017-01-01), [artikel 692 lid 2 van Boek 7 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=692) van toepassing is op de derde, bedoeld in [titel 10, afdeling 11 van Boek 7 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&afdeling=11), blijven de artikelen 692 en [696 van Boek 7 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=696) en de daarop berustende bepalingen zoals deze luidden voor het tijdstip van inwerkingtreding van artikel II, onderdeel E, tot zes maanden na die inwerkingtreding van toepassing.
 
 ##### Artikel Xa
 
