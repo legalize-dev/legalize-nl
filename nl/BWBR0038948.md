@@ -4,7 +4,7 @@ identifier: "BWBR0038948"
 country: "nl"
 rank: "wet"
 publication_date: "2018-01-01"
-last_updated: "2016-10-25"
+last_updated: "2017-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0038948"
 soort: "wet"
@@ -46,63 +46,45 @@ Wijzigt de Wet inkomstenbelasting 2001.
 
 Wijzigt de Wet op de loonbelasting 1964.
 
-Dit onderdeel is nog niet inwerking getreden
-
 ##### Artikel III
 
-Dit onderdeel is nog niet inwerking getreden
+Onze Minister van Financiën zendt binnen vier jaar na de inwerkingtreding van deze wet aan de Staten Generaal een verslag over de doeltreffendheid en de effecten in de praktijk van [artikel 12a, derde en vierde lid, van de Wet op de loonbelasting 1964](https://wetten.overheid.nl/jci1.3:c:BWBR0002471&artikel=12a), onderscheidenlijk een verslag over de doeltreffendheid en de effecten in de praktijk van [artikel 10a, negende en tiende lid, van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002471&artikel=10a).
 
 ##### Artikel IV
 
 Wijzigt de Wet op de vennootschapsbelasting 1969.
 
-Dit onderdeel is nog niet inwerking getreden
-
 ##### Artikel IVa
 
 Wijzigt de Wet op de vennootschapsbelasting 1969.
 
-Dit onderdeel is nog niet inwerking getreden
-
 ##### Artikel IVb
 
-Dit onderdeel is nog niet inwerking getreden
+Ingeval als gevolg van de inwerkingtreding van [artikel IVA](https://wetten.overheid.nl/jci1.3:c:BWBR0038948&artikel=IVa&z=2017-01-01&g=2017-01-01) verwijzingen in een of meer wetten niet meer juist of volledig zijn, kunnen deze verwijzingen bij ministeriële regeling worden gewijzigd of aangevuld. Die ministeriële regeling kan terugwerken tot en met 1 januari 2017.
 
 ##### Artikel V
 
 Wijzigt de Wet op de vennootschapsbelasting 1969.
 
-Dit onderdeel is nog niet inwerking getreden
-
 ##### Artikel VI
 
 Wijzigt de Wet op de vennootschapsbelasting 1969.
-
-Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel VII
 
 Wijzigt de Wet op de vennootschapsbelasting 1969.
 
-Dit onderdeel is nog niet inwerking getreden
-
 ##### Artikel VIII
 
 Wijzigt de Wet op de vennootschapsbelasting 1969.
-
-Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel IX
 
 Wijzigt de Wet op de dividendbelasting 1965.
 
-Dit onderdeel is nog niet inwerking getreden
-
 ##### Artikel X
 
 Wijzigt de Wet op de omzetbelasting 1968.
-
-Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel XI
 
@@ -116,31 +98,21 @@ Wijzigt de Invorderingswet 1990.
 
 Wijzigt het Belastingplan 2012.
 
-Dit onderdeel is nog niet inwerking getreden
-
 ##### Artikel XIII
 
 Wijzigt het Belastingplan 2016.
-
-Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel XIIIa
 
 Wijzigt de Wet uitwerking Autobrief II.
 
-Dit onderdeel is nog niet inwerking getreden
-
 ##### Artikel XIIIb
 
 Wijzigt de Invoeringswet fiscaal stelsel BES.
 
-Dit onderdeel is nog niet inwerking getreden
-
 ##### Artikel XIIIc
 
 Wijzigt de Belastingwet BES.
-
-Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel XIV
 
@@ -154,16 +126,58 @@ Dit onderdeel is nog niet inwerking getreden
 
 Wijzigt deze wet.
 
-Dit onderdeel is nog niet inwerking getreden
-
 ##### Artikel XV
 
-Dit onderdeel is nog niet inwerking getreden
+Ingeval de samenloop van wetten die in 2016 in het Staatsblad zijn of worden gepubliceerd en wijzigingen aanbrengen in een of meer belastingwetten, niet of niet juist is geregeld, of indien als gevolg van die samenloop onjuistheden ontstaan in de aanduiding van artikelen, artikelonderdelen, verwijzingen en dergelijke in de desbetreffende wetten, kunnen die wetten op dit punt bij ministeriële regeling worden gewijzigd.
 
 ##### Artikel XVI
 
-Dit onderdeel is nog niet inwerking getreden
+1. Onder toepassing van [artikel 12 van de Wet raadgevend referendum](https://wetten.overheid.nl/jci1.3:c:BWBR0036443&artikel=12) treedt deze wet in werking met ingang van 1 januari 2017, met uitzondering van [artikel II, onderdeel Aa](https://wetten.overheid.nl/jci1.3:c:BWBR0038948&artikel=II&z=2017-01-01&g=2017-01-01), en met dien verstande dat:
+
+- a. [artikel I, onderdelen A en B](https://wetten.overheid.nl/jci1.3:c:BWBR0038948&artikel=I&z=2017-01-01&g=2017-01-01), eerst toepassing vindt nadat [artikel 10.1 van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=10.1) bij het begin van het kalenderjaar 2017 is toegepast;
+
+- b. [artikel I, onderdeel J](https://wetten.overheid.nl/jci1.3:c:BWBR0038948&artikel=I&z=2017-01-01&g=2017-01-01), eerst toepassing vindt nadat [artikel 10.1 van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=10.1) en [artikel IV, onderdeel A, van het Belastingplan 2014](https://wetten.overheid.nl/jci1.3:c:BWBR0034538&artikel=IV) bij het begin van het kalenderjaar 2017 zijn toegepast;
+
+- c. [artikel I, onderdeel K](https://wetten.overheid.nl/jci1.3:c:BWBR0038948&artikel=I&z=2017-01-01&g=2017-01-01), eerst toepassing vindt nadat [artikel 10.1 van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=10.1) en [artikel IV, onderdeel B, van het Belastingplan 2014](https://wetten.overheid.nl/jci1.3:c:BWBR0034538&artikel=IV) bij het begin van het kalenderjaar 2017 zijn toegepast;
+
+- d. [artikel I, onderdelen L en N](https://wetten.overheid.nl/jci1.3:c:BWBR0038948&artikel=I&z=2017-01-01&g=2017-01-01), eerst toepassing vindt nadat [artikel 10.1 van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=10.1) bij het begin van het kalenderjaar 2017 is toegepast;
+
+- e. [artikel II, onderdelen C en D](https://wetten.overheid.nl/jci1.3:c:BWBR0038948&artikel=II&z=2017-01-01&g=2017-01-01), eerst toepassing vindt nadat de [artikelen 20a, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002471&artikel=20a), en [20b, tweede lid, van de Wet op de loonbelasting 1964](https://wetten.overheid.nl/jci1.3:c:BWBR0002471&artikel=20b) bij het begin van het kalenderjaar 2017 zijn toegepast;
+
+- f. [artikel II, onderdeel E](https://wetten.overheid.nl/jci1.3:c:BWBR0038948&artikel=II&z=2017-01-01&g=2017-01-01), eerst toepassing vindt nadat [artikel 22d van de Wet op de loonbelasting 1964](https://wetten.overheid.nl/jci1.3:c:BWBR0002471&artikel=22d) en [artikel VIII, onderdeel A, van het Belastingplan 2014](https://wetten.overheid.nl/jci1.3:c:BWBR0034538&artikel=VIII) bij het begin van het kalenderjaar 2017 zijn toegepast;
+
+- g. [artikel II, onderdeel F](https://wetten.overheid.nl/jci1.3:c:BWBR0038948&artikel=II&z=2017-01-01&g=2017-01-01), eerst toepassing vindt nadat [artikel 22d van de Wet op de loonbelasting 1964](https://wetten.overheid.nl/jci1.3:c:BWBR0002471&artikel=22d) en [artikel VIII, onderdeel B, van het Belastingplan 2014](https://wetten.overheid.nl/jci1.3:c:BWBR0034538&artikel=VIII) bij het begin van het kalenderjaar 2017 zijn toegepast;
+
+- h. [artikel II, onderdeel G](https://wetten.overheid.nl/jci1.3:c:BWBR0038948&artikel=II&z=2017-01-01&g=2017-01-01), eerst toepassing vindt nadat [artikel 22d van de Wet op de loonbelasting 1964](https://wetten.overheid.nl/jci1.3:c:BWBR0002471&artikel=22d) bij het begin van het kalenderjaar 2017 is toegepast;
+
+- i. [artikel IV, onderdelen A tot en met H](https://wetten.overheid.nl/jci1.3:c:BWBR0038948&artikel=IV&z=2017-01-01&g=2017-01-01), voor het eerst toepassing vindt met betrekking tot boekjaren die aanvangen op of na 1 januari 2017;
+
+- j. [artikel 34d, eerste lid, van de Wet op de vennootschapsbelasting 1969](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&artikel=34d), zoals dat luidt op 30 juni 2021, voor het laatst toepassing vindt met betrekking tot het laatste boekjaar dat eindigt vóór 1 juli 2021;
+
+- k. [artikel XII](https://wetten.overheid.nl/jci1.3:c:BWBR0038948&artikel=XII&z=2017-01-01&g=2017-01-01) voor het eerst toepassing vindt met betrekking tot boekjaren die aanvangen op of na 1 januari 2017;
+
+- l. [artikel XIIIA](https://wetten.overheid.nl/jci1.3:c:BWBR0038948&artikel=XIIIa&z=2017-01-01&g=2017-01-01) toepassing vindt voordat [artikel XXV, onderdeel B, van de Wet uitwerking Autobrief II](https://wetten.overheid.nl/jci1.3:c:BWBR0038313&artikel=XXV) wordt toegepast;
+
+- m. [artikel XIIIB](https://wetten.overheid.nl/jci1.3:c:BWBR0038948&artikel=XIIIb&z=2017-01-01&g=2017-01-01) toepassing vindt voordat [hoofdstuk III, artikel II, vierde lid, van de Invoeringswet fiscaal stelsel BES](https://wetten.overheid.nl/jci1.3:c:BWBR0029268&artikel=II) wordt toegepast.
+
+2. [Artikel XI, onder 2](https://wetten.overheid.nl/jci1.3:c:BWBR0038948&artikel=XI&z=2017-01-01&g=2017-01-01), werkt terug tot en met 1 juli 2015.
+
+3. [Artikel I, onderdelen D, F, G en O](https://wetten.overheid.nl/jci1.3:c:BWBR0038948&artikel=I&z=2017-01-01&g=2017-01-01), en [artikel XIV](https://wetten.overheid.nl/jci1.3:c:BWBR0038948&artikel=XIV&z=2017-01-01&g=2017-01-01) werken terug tot en met 20 september 2016, 15:15 uur.
+
+4. [Artikel XIA](https://wetten.overheid.nl/jci1.3:c:BWBR0038948&artikel=XIa&z=2017-01-01&g=2017-01-01) werkt terug tot en met 25 oktober 2016, 17.30 uur.
+
+5. In afwijking van het eerste lid treden [artikel I, onderdeel Dd](https://wetten.overheid.nl/jci1.3:c:BWBR0038948&artikel=I&z=2017-01-01&g=2017-01-01), en [artikel IVA](https://wetten.overheid.nl/jci1.3:c:BWBR0038948&artikel=IVa&z=2017-01-01&g=2017-01-01) in werking op een bij koninklijk besluit te bepalen tijdstip, waarbij kan worden bepaald dat deze terugwerken tot en met 1 januari 2017. In dat besluit wordt zo nodig toepassing gegeven aan [artikel 12 van de Wet raadgevend referendum](https://wetten.overheid.nl/jci1.3:c:BWBR0036443&artikel=12).
+
+6. [Artikel II, onderdeel Aa](https://wetten.overheid.nl/jci1.3:c:BWBR0038948&artikel=II&z=2017-01-01&g=2017-01-01), treedt in werking met ingang van 1 januari 2018.
 
 ##### Artikel XVII
 
-Dit onderdeel is nog niet inwerking getreden
+Deze wet wordt aangehaald als: Belastingplan 2017.
+
+Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
+
+Alzo Wij in overweging genomen hebben, dat het voor het jaar 2017 wenselijk is een aantal fiscale maatregelen te treffen die voortvloeien uit de koopkrachtbesluitvorming en dat het in het kader van het fiscale beleid voor het jaar 2017 wenselijk is in een aantal belastingwetten en enige andere wetten wijzigingen, bijstellingen of technische reparaties aan te brengen die uiterlijk 1 januari 2017 in werking moeten treden;
+
+Zo is het, dat Wij, de Afdeling advisering van de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
+
+Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren die zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
