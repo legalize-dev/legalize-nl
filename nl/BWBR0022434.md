@@ -4,7 +4,7 @@ identifier: "BWBR0022434"
 country: "nl"
 rank: "amvb"
 publication_date: "2017-11-29"
-last_updated: "2007-08-31"
+last_updated: "2017-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0022434"
 soort: "AMvB"
@@ -66,7 +66,7 @@ Hebben goedgevonden en verstaan:
 
 2. Onze Minister kan de voorlopig vastgestelde algemene bijdrage wijzigen tot 1 december van het jaar waarop de voorlopige vaststelling betrekking heeft.
 
-3. Onze Minister kan de voorlopig vastgestelde algemene bijdrage verminderen, indien op grond van de meerjarenraming blijkt dat de solvabiliteitsratio structureel hoger is dan het krachtens [artikel 10, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022434&artikel=10&z=2007-08-31&g=2007-08-31), vastgestelde getal.
+3. Onze Minister kan de voorlopig vastgestelde algemene bijdrage verminderen, indien op grond van de meerjarenraming blijkt dat de solvabiliteitsratio structureel hoger is dan het krachtens [artikel 10, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022434&artikel=10&z=2007-08-31&g=2017-01-01), vastgestelde getal.
 
 4. Onze Minister stelt het college van bestuur zo spoedig mogelijk op de hoogte van een besluit tot bijstelling als bedoeld in het tweede of derde lid.
 
@@ -76,7 +76,7 @@ Hebben goedgevonden en verstaan:
 
 1. Onze Minister kan aan het LSOP een bijzondere bijdrage verstrekken.
 
-2. [Artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0022434&artikel=2&z=2007-08-31&g=2007-08-31) is van overeenkomstige toepassing.
+2. [Artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0022434&artikel=2&z=2007-08-31&g=2017-01-01) is van overeenkomstige toepassing.
 
 ##### Artikel 4
 
