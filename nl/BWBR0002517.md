@@ -4,7 +4,7 @@ identifier: "BWBR0002517"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2024-07-01"
-last_updated: "2012-01-01"
+last_updated: "2017-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0002517"
 soort: "ministeriele-regeling"
@@ -39,13 +39,11 @@ Besluit:
 
 ##### Artikel 1
 
-Deze regeling geeft uitvoering aan de [artikelen 4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002515&artikel=4), [4c, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002515&artikel=4c), [4e](https://wetten.overheid.nl/jci1.3:c:BWBR0002515&artikel=4e), [4f](https://wetten.overheid.nl/jci1.3:c:BWBR0002515&artikel=4f), [9](https://wetten.overheid.nl/jci1.3:c:BWBR0002515&artikel=9) en [10 van de Wet op de dividendbelasting 1965](https://wetten.overheid.nl/jci1.3:c:BWBR0002515&artikel=10).
+Deze regeling geeft uitvoering aan de [artikelen 4c, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002515&artikel=4c), [4e](https://wetten.overheid.nl/jci1.3:c:BWBR0002515&artikel=4e), [4f](https://wetten.overheid.nl/jci1.3:c:BWBR0002515&artikel=4f), [9, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002515&artikel=9), [10, derde en zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002515&artikel=10), en [10a, tweede lid en zesde lid, onderdeel b, van de Wet op de dividendbelasting 1965](onbekend).
 
 ##### Artikel 1a
 
-1. Voor de toepassing van de [artikelen 4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002515&artikel=4), en [10, tweede lid, van de Wet op de dividendbelasting 1965](https://wetten.overheid.nl/jci1.3:c:BWBR0002515&artikel=10) worden van de staten die partij zijn bij de Overeenkomst betreffende de Europese Economische Ruimte aangewezen: IJsland, Noorwegen en Liechtenstein.
-
-2. Voor de toepassing van [artikel 10, derde lid, van de Wet op de dividendbelasting 1965](https://wetten.overheid.nl/jci1.3:c:BWBR0002515&artikel=10) wordt als in dat lid bedoelde staat aangewezen: elke staat, niet zijnde een lidstaat van de Europese Unie of een staat die partij is bij de Overeenkomst betreffende de Europese Economische Ruimte, waarmee Nederland in lijn met de internationale standaard op het gebied van informatie-uitwisseling gegevens kan uitwisselen.
+Voor de toepassing van de [artikelen 10, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002515&artikel=10), en 10a, tweede lid, van de Wet op de dividendbelasting 1965 wordt als in dat lid bedoelde staat aangewezen: elke staat, niet zijnde een lidstaat van de Europese Unie of een staat die partij is bij de Overeenkomst betreffende de Europese Economische Ruimte, waarmee Nederland in lijn met de internationale standaard op het gebied van informatie-uitwisseling gegevens kan uitwisselen.
 
 ##### Artikel 1aa
 
@@ -93,11 +91,69 @@ De in [artikel 9, eerste lid, van de Wet op de dividendbelasting 1965](https://w
 
 ##### Artikel 2
 
-Vervallen
+Als internationale organisaties als bedoeld in [artikel 10, zesde lid, van de Wet op de dividendbelasting 1965](https://wetten.overheid.nl/jci1.3:c:BWBR0002515&artikel=10) worden aangewezen:
+
+- a. United Nations Educational Scientific and Cultural Organization (UNESCO);
+
+- b. Food and Agriculture Organization of the United Nations (FAO);
+
+- c. United Nations Joint Staff Pension Fund;
+
+- d. United Nations University;
+
+- e. North Atlantic Treaty Organization (NATO);
+
+- f. Organisation for Economic Co-operation and Development (OECD);
+
+- g. International Monetary Fund;
+
+- h. Council of Europe;
+
+- i. European Organisation for the Safety of Air Navigation (Eurocontrol);
+
+- j. European Bank for Reconstruction and Development;
+
+- k. European Investment Fund;
+
+- l. European Patent Organisation;
+
+- m. European University Institute;
+
+- n. European Central Bank;
+
+- o. European Investment Bank;
+
+- p. World Customs Organization;
+
+- q. World Health Organization;
+
+- r. World Trade Organization;
+
+- s. International Bank for Reconstruction and Development;
+
+- t. International Finance Corporation;
+
+- u. International Fund for Agricultural Development;
+
+- v. Inter-American Development Bank;
+
+- w. Asian Development Bank;
+
+- x. African Development Bank;
+
+- y. CERN Pension Fund;
+
+- z. Universal Postal Union.
 
 ##### Artikel 3
 
-Vervallen
+Voor de toepassing van artikel 10a van de Wet op de dividendbelasting 1965:
+
+- a. worden voor het bepalen van de inkomstenbelasting die verschuldigd zou zijn als voordeel uit sparen en beleggen indien de natuurlijke persoon woonachtig zou zijn in Nederland alle aandelen, winstbewijzen en geldleningen als bedoeld in [artikel 1 van de Wet op de dividendbelasting 1965](https://wetten.overheid.nl/jci1.3:c:BWBR0002515&artikel=1) in aanmerking genomen en blijven overige bezittingen en schulden buiten beschouwing;
+
+- b. wordt bij natuurlijke personen rekening gehouden met het heffingvrije vermogen, bedoeld in [artikel 5.5 van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=5.5), voor zover dat niet reeds bij diezelfde natuurlijke persoon bij de heffing van de inkomstenbelasting in aanmerking is genomen;
+
+- c. worden voor het bepalen van de vennootschapsbelasting die verschuldigd zou zijn indien het lichaam gevestigd zou zijn in Nederland slechts kosten in aanmerking genomen die rechtstreeks verband houden met de inning van de opbrengst van aandelen, winstbewijzen en geldleningen als bedoeld in [artikel 1 van de Wet op de dividendbelasting 1965](https://wetten.overheid.nl/jci1.3:c:BWBR0002515&artikel=1).
 
 ##### Artikel 4
 
