@@ -4,7 +4,7 @@ identifier: "BWBR0007500"
 country: "nl"
 rank: "amvb"
 publication_date: "2018-04-21"
-last_updated: "1995-09-20"
+last_updated: "2017-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0007500"
 soort: "AMvB"
@@ -66,6 +66,8 @@ Het is verboden helmen te verhandelen anders dan met inachtneming van de voorsch
 
 3. Het eerste lid is niet van toepassing op helmen die voldoen aan voorschriften of normen die; op aanvraag van de belanghebbende, door Onze Minister zijn gelijkgesteld aan het veiligheidsniveau van reglement 22.
 
+4. Het eerste lid is niet van toepassing op helmen die zijn voorzien van een markering overeenkomstig NTA 8776:2016.
+
 ##### Artikel 4
 
 Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van het **Staatsblad** waarin het wordt geplaatst.
@@ -76,6 +78,6 @@ Dit besluit wordt aangehaald als: Warenwetbesluit motor- en bromfietshelmen.
 
 ## Bijlage. bij artikel 3, eerste lid, van het Warenwetbesluit motor- en bromfietshelmen
 
-Model aanduiding voor helmen als bedoeld in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007500&artikel=3&z=1995-09-20&g=1995-09-20)
+Model aanduiding voor helmen als bedoeld in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007500&artikel=3&z=2017-01-01&g=2017-01-01)
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het **Staatsblad** zal worden geplaatst.
