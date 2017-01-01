@@ -4,7 +4,7 @@ identifier: "BWBR0030539"
 country: "nl"
 rank: "zbo"
 publication_date: "2020-05-16"
-last_updated: "2012-01-01"
+last_updated: "2017-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0030539"
 soort: "zbo"
@@ -125,7 +125,7 @@ Deze regeling treedt in werking op 1 januari 2012.
 
 2. Alle deelregelingen die berusten op de in het eerste lid genoemde regeling worden na intrekking van voornoemde regeling geacht op onderhavige regeling te berusten.
 
-3. Inwerkingtreding van deze regeling brengt geen verandering aan in de rechten en verplichtingen die rusten op subsidieontvangers waaraan daarvoor subsidie is verstrekt. [onder meer nodig omdat de regeling vierjarige subsidies 2009–2012 geen bepalingen over verantwoording bevat en daarvoor dus direct werd teruggevallen op het AR].
+3. Inwerkingtreding van deze regeling brengt geen verandering aan in de rechten en verplichtingen die rusten op subsidieontvangers waaraan daarvoor subsidie is verstrekt.
 
 ##### Artikel 12. Citeertitel
 
