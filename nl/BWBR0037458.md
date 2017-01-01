@@ -4,7 +4,7 @@ identifier: "BWBR0037458"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2023-12-09"
-last_updated: "2015-05-01"
+last_updated: "2017-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0037458"
 soort: "ministeriele-regeling"
@@ -106,7 +106,7 @@ Aan de teamleider van het team secretariaat-SZI wordt mandaat en machtiging verl
 
 ##### Artikel 9
 
-1. Het [Organisatie-, mandaat- en volmachtbesluit afdeling BSB-P&I 2013](https://wetten.overheid.nl/jci1.3:c:BWBR0034688&wetgeving) wordt ingetrokken.
+1. Het [Organisatie-, mandaat- en volmachtbesluit afdeling BSB-P&I 2013](https://wetten.overheid.nl/jci1.3:c:BWBR0034688) wordt ingetrokken.
 
 2. Deze regeling treedt in werking met ingang van de eerste dag na de dagtekening van de Staatscourant waarin zij wordt geplaatst en werkt terug tot en met 1 mei 2015.
 
