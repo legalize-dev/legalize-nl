@@ -4,7 +4,7 @@ identifier: "BWBR0033795"
 country: "nl"
 rank: "pbo"
 publication_date: "2022-01-01"
-last_updated: "2016-01-01"
+last_updated: "2017-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0033795"
 soort: "pbo"
@@ -52,6 +52,8 @@ In deze verordening en de daarop berustende bepalingen wordt verstaan onder:
 
 - –. **fraude:** het opzettelijk handelen of nalaten van een trainee, waardoor het vormen van een juist oordeel over zijn kennis, inzicht en vaardigheden geheel of gedeeltelijk onmogelijk wordt gemaakt;
 
+- –. **kernvakgebieden:** de kernvakgebieden, genoemd in [paragraaf 3.3 van de Eindtermen accountantsopleiding 2016](onbekend) (Staatscourant 2015, 48003);
+
 - –. **praktijkopleiding AA:** de praktijkopleiding passend bij een inschrijving in het accountantsregister met vermelding van de titel Accountant-Administratieconsulent;
 
 - –. **praktijkopleiding RA:** de praktijkopleiding passend bij een inschrijving in het accountantsregister met vermelding van de titel Registeraccountant;
@@ -72,13 +74,13 @@ In deze verordening en de daarop berustende bepalingen wordt verstaan onder:
 
 4. Ter ondersteuning in de uitvoering van zijn taken, kan de Raad voor de Praktijkopleidingen externe deskundigen inschakelen en commissies instellen.
 
-5. De Raad voor de Praktijkopleidingen bevordert dat hij een evenwichtige afspiegeling vormt van het accountantsberoep, waarin de verschillende soorten omgevingen waarin de praktijkopleiding AA of de praktijkopleiding RA zijn vertegenwoordigd.
+5. Het bestuur bevordert dat in de Raad voor de Praktijkopleidingen de verschillende professionele omgevingen waarin de praktijkopleiding AA of de praktijkopleiding RA wordt gevolgd, evenwichtig zijn vertegenwoordigd.
 
 ##### Artikel 3
 
-1. De Raad voor de Praktijkopleidingen bestaat uit zes leden, waaronder de voorzitter.
+1. De Raad voor de Praktijkopleidingen bestaat uit acht leden, waaronder de voorzitter.
 
-2. De Raad voor de Praktijkopleidingen bestaat uit drie accountants welke in het accountantsregister zijn ingeschreven met de titel Accountant-Administratieconsulent en drie accountants welke in het accountantsregister zijn ingeschreven met de titel Registeraccountant.
+2. De Raad voor de Praktijkopleidingen bestaat uit ten minste drie leden die in het accountantsregister zijn ingeschreven met de titel Accountant-Administratieconsulent en ten minste drie leden die in het accountantsregister zijn ingeschreven met de titel Registeraccountant.
 
 ##### Artikel 4
 
@@ -100,6 +102,8 @@ In deze verordening en de daarop berustende bepalingen wordt verstaan onder:
 
 2. Het bestuur wijst binnen de beroepsorganisatie een stagebureau aan.
 
+3. Een stagebureau heeft een stagebestuur.
+
 ##### Artikel 6
 
 1. Het bestuur wijst op schriftelijk verzoek een stagebureau aan indien:
@@ -116,23 +120,15 @@ In deze verordening en de daarop berustende bepalingen wordt verstaan onder:
 
 ##### Artikel 7
 
-1. Een stagebureau verleent op verzoek van het bestuur medewerking aan een onderzoek en verschaft inlichtingen over de uitvoering van zijn taken, bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0033795&hoofdstuk=3&artikel=5&z=2016-01-01&g=2016-01-01).
+1. Een stagebureau verleent op verzoek van het bestuur medewerking aan een onderzoek en verschaft inlichtingen over de uitvoering van zijn taken, bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0033795&hoofdstuk=3&artikel=5&z=2017-01-01&g=2017-01-01).
 
-2. Een accountant die is benoemd tot lid van een stagebestuur als bedoeld in artikel 15 van de Nadere voorschriften op de praktijkopleidingen, draagt er zorg voor dat het stagebureau waarvan hij (mede) het bestuur vormt, de aanwijzingen opvolgt die het bestuur geeft ten aanzien van de naleving van de eisen als bedoeld in [artikel 6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0033795&hoofdstuk=3&artikel=6&z=2016-01-01&g=2016-01-01).
+2. Een accountant die is benoemd tot lid van een stagebestuur als bedoeld in [artikel 5, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0033795&hoofdstuk=3&artikel=5&z=2017-01-01&g=2017-01-01), draagt er zorg voor dat het stagebureau waarvan hij (mede) het bestuur vormt, de aanwijzingen opvolgt die het bestuur geeft ten aanzien van de naleving van de eisen als bedoeld in [artikel 6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0033795&hoofdstuk=3&artikel=6&z=2017-01-01&g=2017-01-01).
 
 ##### Artikel 8
 
-1. Het bestuur stelt binnen een stagebureau beoordelaars als bedoeld in [artikel 12, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0033795&hoofdstuk=5&paragraaf=5.1&artikel=12&z=2016-01-01&g=2016-01-01), en praktijkbegeleiders aan.
+1. Het bestuur stelt binnen een stagebureau beoordelaars en praktijkbegeleiders aan.
 
 2. Een praktijkbegeleider is belast met de begeleiding van een trainee gedurende de praktijkopleiding.
-
-3. Een praktijkbegeleider en een beoordelaar:
-
-- a. beschikken over de benodigde vaardigheden en deskundigheid voor de uitvoering van de aan hen opgedragen taken;
-
-- b. zijn bereid en in staat voldoende tijd te besteden aan de aan hen opgedragen taken; en
-
-- c. voldoen aan door het bestuur bij nadere voorschriften te stellen eisen.
 
 ### Hoofdstuk 4. Toelating tot de praktijkopleiding
 
@@ -142,9 +138,9 @@ In deze verordening en de daarop berustende bepalingen wordt verstaan onder:
 
 Het bestuur laat tot de praktijkopleiding AA toe, degene die:
 
-- a. beschikt over een getuigschrift van een opleiding, die voldoet aan de eindtermen, bedoeld in [artikel 49, tweede lid, aanhef en onderdeel a van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0032573&artikel=49);
+- a. beschikt over een getuigschrift van een opleiding tot Accountant-Administratieconsulent, die voldoet aan de eindtermen, bedoeld in [artikel 49, tweede lid, aanhef en onderdeel a van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0032573&artikel=49);
 
-- b. de voltooiing van de opleiding, bedoeld in onderdeel a voldoende is genaderd, waarbij hij of zij ten minste de examens in de grondslagen van de kernvakgebieden Audit en Assurance, Externe Verslaggeving en Bestuurlijke Informatieverzorging heeft behaald, of daarvan is vrijgesteld; of
+- b. de voltooiing van de opleiding, bedoeld in onderdeel a voldoende is genaderd, ten minste de examens in de grondslagen van de kernvakgebieden heeft behaald, of daarvan is vrijgesteld, en beschikt over een getuigschrift van de hieraan voorafgaande bacheloropleiding; of
 
 - c. beschikt over een in een ander land verkregen diploma of soortgelijk bewijsstuk van een opleiding die naar aard, inhoud en niveau overeenkomt met de opleiding, bedoeld in onderdeel a.
 
@@ -154,9 +150,9 @@ Het bestuur laat tot de praktijkopleiding AA toe, degene die:
 
 Het bestuur laat tot de praktijkopleiding RA toe, degene die:
 
-- a. toelaatbaar is tot een postinitiële opleiding tot accountant, die voldoet aan de eindtermen, bedoeld in [artikel 49, tweede lid, aanhef en onderdeel a van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0032573&artikel=49); of
+- a. toelaatbaar is tot een postinitiële opleiding tot registeraccountant, die voldoet aan de eindtermen, bedoeld in [artikel 49, tweede lid, aanhef en onderdeel a van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0032573&artikel=49); of
 
-- b. toelaatbaar is tot een universitair masterprogramma, dat toegang geeft tot een opleiding als bedoeld in onderdeel a, dan wel tot een universitair masterprogramma op het gebied van accountancy, mits hij of zij ten minste de examens in de grondslagen van de kernvakgebieden Audit en Assurance, Externe Verslaggeving en Bestuurlijke Informatieverzorging heeft behaald of daarvan is vrijgesteld.
+- b. toelaatbaar is tot een universitair masterprogramma, dat toegang geeft tot een opleiding als bedoeld in onderdeel a, dan wel tot een universitair masterprogramma op het gebied van accountancy, mits hij of zij ten minste de examens in de grondslagen van de kernvakgebieden heeft behaald of daarvan is vrijgesteld.
 
 ### Hoofdstuk 5. De praktijkopleidingen
 
@@ -164,35 +160,23 @@ Het bestuur laat tot de praktijkopleiding RA toe, degene die:
 
 ##### Artikel 11
 
-1. Aan de voortzetting van de praktijkopleiding AA, na een onderbreking, kan het bestuur voorwaarden verbinden, waaronder het met goed gevolg afronden van een of meer cursussen of een aanvullende toets.
-
-2. De trainee welke de praktijkopleiding AA volgt, besteedt aan voor de praktijkopleiding relevante werkzaamheden ten minste drieduizend uren.
+Aan de voortzetting van de praktijkopleiding na een onderbreking, kan het bestuur voorwaarden verbinden, waaronder het met goed gevolg afronden van een of meer cursussen of een aanvullende toets.
 
 ##### Artikel 12
 
-1. De trainee welke de praktijkopleiding AA volgt, stelt gedurende de praktijkopleiding een portfolio samen.
+1. De trainee stelt gedurende de praktijkopleiding een portfolio samen.
 
-2. Het portfolio bevat in ieder geval periodieke rapportages over de werkzaamheden die gedurende de praktijkopleiding zijn verricht en een persoonlijk ontwikkelplan.
-
-3. De rapportages, bedoeld in het tweede lid, en het persoonlijk ontwikkelplan worden beoordeeld door een beoordelaar.
+2. Het portfolio bevat in ieder geval periodieke rapportages over de werkzaamheden die gedurende de praktijkopleiding zijn verricht.
 
 #### Paragraaf 5.2. De praktijkopleiding RA
 
 ##### Artikel 13
 
-1. De praktijkopleiding RA is ingedeeld in zes semesters, waarin per semester minimaal vijfhonderd uren moeten worden besteed aan voor de praktijkopleiding relevante werkzaamheden.
-
-2. Aan de voortzetting van de praktijkopleiding RA, na een onderbreking, kan het bestuur voorwaarden verbinden, waaronder het met goed gevolg afronden van een of meer cursussen of een aanvullende toets.
+Vervallen
 
 ##### Artikel 14
 
-1. De trainee welke de praktijkopleiding RA volgt, stelt gedurende de praktijkopleiding een portfolio samen.
-
-2. Het portfolio bevat in ieder geval periodieke rapportages over de werkzaamheden die gedurende de praktijkopleiding zijn verricht.
-
-3. De rapportages, bedoeld in het tweede lid, worden beoordeeld door de beoordelaar.
-
-4. De trainee stelt een afstudeerscriptie op.
+Vervallen
 
 ### Hoofdstuk 6. Het examen voor de praktijkopleiding
 
@@ -200,69 +184,47 @@ Het bestuur laat tot de praktijkopleiding RA toe, degene die:
 
 ##### Artikel 15
 
-1. Het examen ter afsluiting van de praktijkopleiding AA, toetst de vaardigheid in de praktijk met betrekking tot de vakgebieden, bedoeld in [artikel 46 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0032573&artikel=46).
-
-2. Het examen ter afsluiting van de praktijkopleiding AA omvat
-
-- a. het portfolio; en
-
-- b. een mondeling examen waarin de vaardigheid, bedoeld in het eerste lid, wordt getoetst
+Het examen ter afsluiting van de praktijkopleiding toetst de vaardigheid in de praktijk met betrekking tot de vakgebieden, bedoeld in [artikel 46 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0032573&artikel=46).
 
 ##### Artikel 16
 
-1. Het bestuur wijst examinatoren aan.
-
-2. De examinator beoordeelt het portfolio en neemt tezamen met de beoordelaar het mondeling examen af.
+Het bestuur wijst examinatoren aan die het examen, bedoeld in [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBR0033795&hoofdstuk=6&artikel=15&z=2017-01-01&g=2017-01-01) afnemen.
 
 #### Paragraaf 6.2. Het examen ter afsluiting van de praktijkopleiding RA
 
 ##### Artikel 17
 
-1. Het examen ter afsluiting van de praktijkopleiding RA, toetst de vaardigheid in de praktijk met betrekking tot de vakgebieden, bedoeld in [artikel 46 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0032573&artikel=46).
-
-2. Het examen ter afsluiting van de praktijkopleiding RA omvat:
-
-- a. het portfolio;
-
-- b. de afstudeerscriptie, bedoeld in [artikel 14, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0033795&hoofdstuk=5&paragraaf=5.2&artikel=14&z=2016-01-01&g=2016-01-01); en
-
-- c. een mondeling examen waarin mede op basis van de afstudeerscriptie de vaardigheid, bedoeld in het eerste lid, wordt getoetst.
+Vervallen
 
 ##### Artikel 18
 
-Het bestuur wijst examinatoren aan ten behoeve van het afnemen van het mondeling examen en de toelating tot het mondeling examen.
+Vervallen
 
-### Hoofdstuk 7. Toelating tot het examen voor de praktijkopleiding
+### Hoofdstuk 8. Vrijstellingen
 
 #### Paragraaf 7.1. Toelating tot het examen ter afsluiting van de praktijkopleiding AA
 
 ##### Artikel 19
 
-De trainee welke de praktijkopleiding AA volgt, wordt tot het mondeling examen toegelaten indien:
+De trainee wordt tot het mondeling examen toegelaten indien:
 
-- a. het portfolio door de beoordelaar en de examinator als voldoende is beoordeeld; en
+- a. het portfolio door het bestuur als voldoende is beoordeeld; en
 
-- b. het getuigschrift voor de opleiding tot accountant, niet zijnde de praktijkopleiding is overgelegd.
+- b. het getuigschrift voor de opleiding tot accountant, niet zijnde de praktijkopleiding, is overgelegd.
 
 ##### Artikel 20
 
-Onder nader te stellen voorwaarden kan het bestuur personen die niet voldoen aan de eis, bedoeld in [artikel 19, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0033795&hoofdstuk=7&paragraaf=7.1&artikel=19&z=2016-01-01&g=2016-01-01), toelaten tot het examen, mits deze personen beroepswerkzaamheden hebben verricht waardoor zij voldoende ervaring hebben op het gebied van de vakgebieden, bedoeld in [artikel 46 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0032573&artikel=46).
+Onder nader te stellen voorwaarden kan het bestuur personen die niet voldoen aan de eis, bedoeld in [artikel 19, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0033795&hoofdstuk=7&artikel=19&z=2017-01-01&g=2017-01-01), toelaten tot het examen, mits deze personen beroepswerkzaamheden hebben verricht waardoor zij voldoende ervaring hebben op het gebied van de vakgebieden, bedoeld in [artikel 46 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0032573&artikel=46).
 
 #### Paragraaf 7.2. Toelating tot het examen ter afsluiting van de praktijkopleiding RA
 
 ##### Artikel 21
 
-De trainee welke de praktijkopleiding RA volgt wordt tot het mondeling examen toegelaten indien:
-
-- a. het portfolio door de beoordelaar als voldoende is beoordeeld;
-
-- b. de afstudeerscriptie door de examinatoren als voldoende is beoordeeld; en
-
-- c. het getuigschrift voor de opleiding tot accountant, niet zijnde de praktijkopleiding is overgelegd.
+Vervallen
 
 ##### Artikel 22
 
-Onder nader te stellen voorwaarden kan het bestuur personen die niet voldoen aan de eisen, bedoeld in [artikel 21, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0033795&hoofdstuk=7&paragraaf=7.2&artikel=21&z=2016-01-01&g=2016-01-01), toelaten tot het examen, mits deze personen beroepswerkzaamheden hebben verricht waardoor zij voldoende ervaring hebben op het gebied van de vakgebieden, bedoeld in [artikel 46 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0032573&artikel=46).
+Vervallen
 
 ### Hoofdstuk 8. Vrijstellingen
 
@@ -290,11 +252,9 @@ Het bestuur kan nadere voorschriften vaststellen over de in deze verordening ger
 
 Een trainee kan om een herbeoordeling vragen van:
 
-- a. de beoordeling van een portfolio;
+- a. de beoordeling van (onderdelen van) een portfolio; en
 
-- b. de beoordeling van een afstudeerscriptie; en
-
-- c. de beoordeling van een mondeling examen.
+- b. de beoordeling van het mondeling examen.
 
 ##### Artikel 27
 
@@ -328,9 +288,7 @@ Bij de inwerkingtreding van deze verordening, wordt de Raad voor de Praktijkople
 
 ##### Artikel 10a
 
-1. Het bestuur kan tot de praktijkopleiding toelaten, degene die niet beschikt over een getuigschrift, bedoeld in de [artikel 9, aanhef en onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0033795&hoofdstuk=4&paragraaf=4.1&artikel=9&z=2016-01-01&g=2016-01-01), of [artikel 10, aanhef en onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0033795&hoofdstuk=4&paragraaf=4.2&artikel=10&z=2016-01-01&g=2016-01-01), maar wel over een getuigschrift op grond waarvan voor 1 oktober 2006 toegang tot de praktijkopleiding kon worden verkregen.
-
-2. Het bestuur kan aan toepassing van het eerste lid de volgende voorwaarden verbinden:
+Aan de toelating tot de praktijkopleiding van degene die beschikt over een getuigschrift, bedoeld in de [artikel 9, aanhef en onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0033795&hoofdstuk=4&artikel=9&z=2017-01-01&g=2017-01-01), of [artikel 10, aanhef en onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0033795&hoofdstuk=4&artikel=10&z=2017-01-01&g=2017-01-01), dat bij het verzoek tot toelating ouder is dan zes jaar, kan het bestuur nadere voorwaarden verbinden, waaronder:
 
 - a. het met goed gevolg afronden van één of meer aanvullende cursussen of vakken; of
 
@@ -369,5 +327,15 @@ Bij de inwerkingtreding van deze verordening, wordt de Raad voor de Praktijkople
 - −. de trainee opdragen een aanvullend verslag van werkzaamheden op te stellen.
 
 2. Bij ernstige fraude kan het bestuur de trainee uitsluiten van toelating tot het examen.
+
+### Hoofdstuk 10. Overige bepalingen
+
+### Hoofdstuk 5. De praktijkopleidingen
+
+### Hoofdstuk 6. Het examen ter afsluiting van de praktijkopleiding
+
+### Hoofdstuk 7. Toelating tot het examen ter afsluiting van de praktijkopleiding
+
+### Hoofdstuk 9. Examengelden
 
 ### Hoofdstuk 10. Overige bepalingen
