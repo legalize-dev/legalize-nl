@@ -4,7 +4,7 @@ identifier: "BWBR0032573"
 country: "nl"
 rank: "wet"
 publication_date: "2021-07-01"
-last_updated: "2016-04-01"
+last_updated: "2017-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0032573"
 soort: "wet"
@@ -79,7 +79,7 @@ Vervallen
 
 - b. het vaststellen van de begroting.
 
-2. In afwijking van [artikel 12, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032573&hoofdstuk=2&paragraaf=2.3&artikel=12&z=2016-04-01&g=2016-04-01), kunnen de door de gezamenlijke ledenvergadering benoemde bestuursleden voor een kortere periode dan vier jaar worden benoemd, in verband met het op te stellen rooster, bedoeld in dat artikel.
+2. In afwijking van [artikel 12, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032573&hoofdstuk=2&paragraaf=2.3&artikel=12&z=2017-01-01&g=2017-01-01), kunnen de door de gezamenlijke ledenvergadering benoemde bestuursleden voor een kortere periode dan vier jaar worden benoemd, in verband met het op te stellen rooster, bedoeld in dat artikel.
 
 3. Tot de benoeming van de bestuursleden, bedoeld in het eerste lid, onder a, wordt het bestuur van de beroepsorganisatie gevormd door de gezamenlijke bestuursleden van het opgeheven Nederlands Instituut van Registeraccountants en de opgeheven Nederlandse Orde van Accountants-Administratieconsulenten.
 
@@ -89,7 +89,7 @@ Vervallen
 
 ##### Artikel 72
 
-Degenen die op het moment van de inwerkingtreding van deze wet zijn ingeschreven in de registers, bedoeld in [artikel 55, eerste lid, van de Wet op de Registeraccountants](https://wetten.overheid.nl/jci1.3:c:BWBR0002374&artikel=55) of [artikel 36, eerste lid van de Wet op de Accountant-Administratieconsulenten](https://wetten.overheid.nl/jci1.3:c:BWBR0002856&artikel=36), zoals die artikelen luidden op het moment van inwerkingtreding van [artikel 58](https://wetten.overheid.nl/jci1.3:c:BWBR0032573&hoofdstuk=8&paragraaf=8.3&artikel=58&z=2016-04-01&g=2016-04-01) van deze wet, worden vanaf dat moment geacht op overeenkomstige wijze te zijn ingeschreven in het accountantsregister. [Artikel 36, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032573&hoofdstuk=6&paragraaf=6.1&artikel=36&z=2016-04-01&g=2016-04-01), is van overeenkomstige toepassing.
+Degenen die op het moment van de inwerkingtreding van deze wet zijn ingeschreven in de registers, bedoeld in [artikel 55, eerste lid, van de Wet op de Registeraccountants](https://wetten.overheid.nl/jci1.3:c:BWBR0002374&artikel=55) of [artikel 36, eerste lid van de Wet op de Accountant-Administratieconsulenten](https://wetten.overheid.nl/jci1.3:c:BWBR0002856&artikel=36), zoals die artikelen luidden op het moment van inwerkingtreding van [artikel 58](https://wetten.overheid.nl/jci1.3:c:BWBR0032573&hoofdstuk=8&paragraaf=8.3&artikel=58&z=2017-01-01&g=2017-01-01) van deze wet, worden vanaf dat moment geacht op overeenkomstige wijze te zijn ingeschreven in het accountantsregister. [Artikel 36, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032573&hoofdstuk=6&paragraaf=6.1&artikel=36&z=2017-01-01&g=2017-01-01), is van overeenkomstige toepassing.
 
 ##### Artikel 73
 
@@ -117,19 +117,19 @@ In deze wet en de daarop berustende bepalingen wordt, voor zover niet anders is 
 
 - –. **accountantskamer:** de accountantskamer te Zwolle, bedoeld in [artikel 10 van de Wet tuchtrechtspraak accountants](https://wetten.overheid.nl/jci1.3:c:BWBR0024238&artikel=10);
 
-- –. **accountantsorganisatie:** een accountantsorganisatie als bedoeld in [artikel 1, onderdeel a, van de Wet toezicht accountantsorganisaties](https://wetten.overheid.nl/jci1.3:c:BWBR0019468&artikel=1);
+- –. **accountantsorganisatie:** een accountantsorganisatie als bedoeld in [artikel 1, eerste lid, onderdeel a, van de Wet toezicht accountantsorganisaties](https://wetten.overheid.nl/jci1.3:c:BWBR0019468&artikel=1);
 
-- –. **accountantsregister:** het register, bedoeld in [artikel 36, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032573&hoofdstuk=6&paragraaf=6.1&artikel=36&z=2016-04-01&g=2016-04-01), waarin de accountants zijn ingeschreven;
+- –. **accountantsregister:** het register, bedoeld in [artikel 36, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032573&hoofdstuk=6&paragraaf=6.1&artikel=36&z=2017-01-01&g=2017-01-01), waarin de accountants zijn ingeschreven;
 
 - –. **Autoriteit Financiële Markten:** de Stichting Autoriteit Financiële Markten;
 
 - –. **beroepsorganisatie:** de Nederlandse beroepsorganisatie van accountants;
 
-- –. **commissie:** de Commissie eindtermen accountantsopleiding, bedoeld in [artikel 49, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032573&hoofdstuk=7&artikel=49&z=2016-04-01&g=2016-04-01);
+- –. **commissie:** de Commissie eindtermen accountantsopleiding, bedoeld in [artikel 49, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032573&hoofdstuk=7&artikel=49&z=2017-01-01&g=2017-01-01);
 
 - –. **Onze Minister:** Onze Minister van Financiën;
 
-- –. **wettelijke controle:** een wettelijke controle als bedoeld in [artikel 1, onderdeel p, van de Wet toezicht accountantsorganisaties](https://wetten.overheid.nl/jci1.3:c:BWBR0019468&artikel=1).
+- –. **wettelijke controle:** een wettelijke controle als bedoeld in [artikel 1, eerste lid, onderdeel p, van de Wet toezicht accountantsorganisaties](https://wetten.overheid.nl/jci1.3:c:BWBR0019468&artikel=1).
 
 #### § 2.1. Instelling en taken
 
@@ -139,7 +139,7 @@ In deze wet en de daarop berustende bepalingen wordt, voor zover niet anders is 
 
 2. De beroepsorganisatie is gevestigd te Amsterdam.
 
-3. Accountants zijn lid van de beroepsorganisatie, tenzij [artikel 39, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032573&hoofdstuk=6&paragraaf=6.2&artikel=39&z=2016-04-01&g=2016-04-01) van toepassing is en de accountant een wens tot lidmaatschap niet schriftelijk aan het bestuur kenbaar heeft gemaakt.
+3. Accountants zijn lid van de beroepsorganisatie, tenzij [artikel 39, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032573&hoofdstuk=6&paragraaf=6.2&artikel=39&z=2017-01-01&g=2017-01-01) van toepassing is en de accountant een wens tot lidmaatschap niet schriftelijk aan het bestuur kenbaar heeft gemaakt.
 
 ##### Artikel 3
 
@@ -151,7 +151,7 @@ De beroepsorganisatie heeft de volgende taken:
 
 - c. zorg dragen voor de eer van de stand van de accountants; en
 
-- d. zorg dragen voor de praktijkopleiding, bedoeld in [artikel 47](https://wetten.overheid.nl/jci1.3:c:BWBR0032573&hoofdstuk=7&artikel=47&z=2016-04-01&g=2016-04-01).
+- d. zorg dragen voor de praktijkopleiding, bedoeld in [artikel 47](https://wetten.overheid.nl/jci1.3:c:BWBR0032573&hoofdstuk=7&artikel=47&z=2017-01-01&g=2017-01-01).
 
 ##### Artikel 4
 
@@ -161,7 +161,7 @@ De beroepsorganisatie heeft een ledenvergadering, een bestuur, een voorzitter, l
 
 1. De ledenvergadering stelt verordeningen vast.
 
-2. De ledenvergadering houdt toezicht op het bestuur. De ledenvergadering kan bestuursleden, met uitzondering van de afgevaardigden, bedoeld in [artikel 17, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032573&hoofdstuk=2&paragraaf=2.5&artikel=17&z=2016-04-01&g=2016-04-01), in hun functie schorsen of ontslaan, indien zij het vertrouwen in hun wijze van taakvervulling heeft verloren of wegens andere gegronde redenen.
+2. De ledenvergadering houdt toezicht op het bestuur. De ledenvergadering kan bestuursleden, met uitzondering van de afgevaardigden, bedoeld in [artikel 17, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032573&hoofdstuk=2&paragraaf=2.5&artikel=17&z=2017-01-01&g=2017-01-01), in hun functie schorsen of ontslaan, indien zij het vertrouwen in hun wijze van taakvervulling heeft verloren of wegens andere gegronde redenen.
 
 ##### Artikel 6
 
@@ -295,7 +295,7 @@ De voorzitter en de plaatsvervangend voorzitter worden jaarlijks door de ledenve
 
 ##### Artikel 19
 
-1. De ledenvergadering kan verordeningen vaststellen die zij nodig acht ter vervulling van de taken, genoemd in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0032573&hoofdstuk=2&paragraaf=2.1&artikel=3&z=2016-04-01&g=2016-04-01).
+1. De ledenvergadering kan verordeningen vaststellen die zij nodig acht ter vervulling van de taken, genoemd in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0032573&hoofdstuk=2&paragraaf=2.1&artikel=3&z=2017-01-01&g=2017-01-01).
 
 2. De ledenvergadering stelt in ieder geval verordeningen vast met betrekking tot:
 
@@ -311,19 +311,19 @@ De voorzitter en de plaatsvervangend voorzitter worden jaarlijks door de ledenve
 
 - f. het in dienst nemen van het personeel dat werkzaam is bij het bureau;
 
-- g. de bijdragen van de leden, bedoeld in [artikel 30, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032573&hoofdstuk=4&artikel=30&z=2016-04-01&g=2016-04-01);
+- g. de bijdragen van de leden, bedoeld in [artikel 30, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032573&hoofdstuk=4&artikel=30&z=2017-01-01&g=2017-01-01);
 
-- h. de tarieven die in rekening worden gebracht voor de werkzaamheden als bedoeld in [artikel 30, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032573&hoofdstuk=4&artikel=30&z=2016-04-01&g=2016-04-01);
+- h. de tarieven die in rekening worden gebracht voor de werkzaamheden als bedoeld in [artikel 30, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032573&hoofdstuk=4&artikel=30&z=2017-01-01&g=2017-01-01);
 
-- i. de vergoeding van de kosten, bedoeld in [artikel 38, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032573&hoofdstuk=6&paragraaf=6.2&artikel=38&z=2016-04-01&g=2016-04-01);
+- i. de vergoeding van de kosten, bedoeld in [artikel 38, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032573&hoofdstuk=6&paragraaf=6.2&artikel=38&z=2017-01-01&g=2017-01-01);
 
-- j. de praktijkopleiding en het daarbij behorende examen, bedoeld in [artikel 47, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032573&hoofdstuk=7&artikel=47&z=2016-04-01&g=2016-04-01);
+- j. de praktijkopleiding en het daarbij behorende examen, bedoeld in [artikel 47, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032573&hoofdstuk=7&artikel=47&z=2017-01-01&g=2017-01-01);
 
-- k. de beroepsprofielen behorend bij de accountantstitels, genoemd in [artikel 41, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032573&hoofdstuk=6&paragraaf=6.3&artikel=41&z=2016-04-01&g=2016-04-01);
+- k. de beroepsprofielen behorend bij de accountantstitels, genoemd in [artikel 41, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032573&hoofdstuk=6&paragraaf=6.3&artikel=41&z=2017-01-01&g=2017-01-01);
 
-- l. de inrichting, de wijze van afname en de hoogte van de examengelden van het examen, bedoeld in [artikel 54, eerste lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0032573&hoofdstuk=7&artikel=54&z=2016-04-01&g=2016-04-01), en de voorwaarden voor het verkrijgen van vrijstellingen van onderdelen daarvan;.
+- l. de inrichting, de wijze van afname en de hoogte van de examengelden van het examen, bedoeld in [artikel 54, eerste lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0032573&hoofdstuk=7&artikel=54&z=2017-01-01&g=2017-01-01), en de voorwaarden voor het verkrijgen van vrijstellingen van onderdelen daarvan;.
 
-- m. de inhoud van het examen ten behoeve van de verklaring van vakbekwaamheid, bedoeld in [artikel 54, eerste lid, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0032573&hoofdstuk=7&artikel=54&z=2016-04-01&g=2016-04-01);
+- m. de inhoud van het examen ten behoeve van de verklaring van vakbekwaamheid, bedoeld in [artikel 54, eerste lid, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0032573&hoofdstuk=7&artikel=54&z=2017-01-01&g=2017-01-01);
 
 - n. het instellen, opheffen en beheer van eventuele fondsen in het belang van de beroepsgroep.
 
@@ -431,7 +431,7 @@ Het bestuur verstrekt Onze Minister desgevraagd alle inlichtingen over zaken die
 
 1. Goedkeuring van Onze Minister behoeven:
 
-- a. verordeningen over de onderwerpen, genoemd in [artikel 19, tweede lid, onderdelen b tot en met n, en onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0032573&hoofdstuk=3&artikel=19&z=2016-04-01&g=2016-04-01), voor zover deze betrekking hebben op het verrichten van wettelijke controles;
+- a. verordeningen over de onderwerpen, genoemd in [artikel 19, tweede lid, onderdelen b tot en met n, en onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0032573&hoofdstuk=3&artikel=19&z=2017-01-01&g=2017-01-01), voor zover deze betrekking hebben op het verrichten van wettelijke controles;
 
 - b. nadere voorschriften die gebaseerd zijn op een verordening als bedoeld in de onderdelen a of b, en betrekking hebben op het verrichten van wettelijke controles;
 
@@ -469,7 +469,7 @@ Het bestuur verstrekt Onze Minister desgevraagd alle inlichtingen over zaken die
 
 - f. de datum van inschrijving;
 
-- g. de titel, bedoeld in [artikel 41](https://wetten.overheid.nl/jci1.3:c:BWBR0032573&hoofdstuk=6&paragraaf=6.3&artikel=41&z=2016-04-01&g=2016-04-01);
+- g. de titel, bedoeld in [artikel 41](https://wetten.overheid.nl/jci1.3:c:BWBR0032573&hoofdstuk=6&paragraaf=6.3&artikel=41&z=2017-01-01&g=2017-01-01);
 
 - h. de ledengroep waartoe de ingeschrevene behoort;
 
@@ -491,7 +491,7 @@ Het bestuur verstrekt Onze Minister desgevraagd alle inlichtingen over zaken die
 
 2. Afschriften uit het accountantsregister worden kosteloos verstrekt aan het Rijk, de provincies en de gemeenten, alsmede aan andere publiekrechtelijke lichamen binnen Nederland en de Europese Unie.
 
-3. Het ter inzage gelegde accountantsregister of het afschrift uit het accountantsregister bevat de gegevens, bedoeld in [artikel 36, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032573&hoofdstuk=6&paragraaf=6.1&artikel=36&z=2016-04-01&g=2016-04-01), uitgezonderd onderdeel d.
+3. Het ter inzage gelegde accountantsregister of het afschrift uit het accountantsregister bevat de gegevens, bedoeld in [artikel 36, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032573&hoofdstuk=6&paragraaf=6.1&artikel=36&z=2017-01-01&g=2017-01-01), uitgezonderd onderdeel d.
 
 #### § 6.2. Inschrijving in het accountantsregister
 
@@ -501,7 +501,7 @@ Het bestuur verstrekt Onze Minister desgevraagd alle inlichtingen over zaken die
 
 2. Degene die de aanvraag doet verstrekt daarbij de volgende gegevens:
 
-- a. één of meerdere getuigschriften waaruit blijkt dat hij een opleiding als bedoeld in [artikel 46](https://wetten.overheid.nl/jci1.3:c:BWBR0032573&hoofdstuk=7&artikel=46&z=2016-04-01&g=2016-04-01), die passend is bij de door hem aangevraagde beroepstitel, met goed gevolg heeft afgerond, of een verklaring van vakbekwaamheid als bedoeld in [artikel 54, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032573&hoofdstuk=7&artikel=54&z=2016-04-01&g=2016-04-01); en
+- a. één of meerdere getuigschriften waaruit blijkt dat hij een opleiding als bedoeld in [artikel 46](https://wetten.overheid.nl/jci1.3:c:BWBR0032573&hoofdstuk=7&artikel=46&z=2017-01-01&g=2017-01-01), die passend is bij de door hem aangevraagde beroepstitel, met goed gevolg heeft afgerond, of een verklaring van vakbekwaamheid als bedoeld in [artikel 54, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032573&hoofdstuk=7&artikel=54&z=2017-01-01&g=2017-01-01); en
 
 - b. een verklaring omtrent het gedrag op grond van de [Wet justitiële en strafvorderlijke gegevens](https://wetten.overheid.nl/jci1.3:c:BWBR0014194).
 
@@ -513,7 +513,7 @@ Het bestuur verstrekt Onze Minister desgevraagd alle inlichtingen over zaken die
 
 1. De inschrijving wordt geweigerd indien:
 
-- a. de aanvrager niet voldoet aan de voorwaarden, gesteld bij of krachtens [artikel 38](https://wetten.overheid.nl/jci1.3:c:BWBR0032573&hoofdstuk=6&paragraaf=6.2&artikel=38&z=2016-04-01&g=2016-04-01);
+- a. de aanvrager niet voldoet aan de voorwaarden, gesteld bij of krachtens [artikel 38](https://wetten.overheid.nl/jci1.3:c:BWBR0032573&hoofdstuk=6&paragraaf=6.2&artikel=38&z=2017-01-01&g=2017-01-01);
 
 - b. de aanvrager ingevolge een in kracht van gewijsde gegane rechterlijke uitspraak in staat van faillissement verkeert of ten aanzien van hem de schuldsaneringsregeling natuurlijke personen van toepassing is;
 
@@ -523,7 +523,7 @@ Het bestuur verstrekt Onze Minister desgevraagd alle inlichtingen over zaken die
 
 - e. er, gelet op de antecedenten van de aanvrager, gegronde vrees bestaat dat de aanvrager zal handelen of nalaten in strijd met wettelijke voorschriften, de accountant betreffende, of dat zijn inschrijving in het accountantsregister op andere wijze de eer van de stand van accountants zal schaden.
 
-2. Het eerste lid, onderdeel e, is niet van toepassing op een aanvrager, die beschikt over een verklaring van vakbekwaamheid als bedoeld in [artikel 54, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032573&hoofdstuk=7&artikel=54&z=2016-04-01&g=2016-04-01), indien hij zonder zich in Nederland te vestigen onderzoeken als bedoeld in [artikel 393, eerste lid, van Boek 2 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=393) bij wijze van dienstverlening wil verrichten, mits hij bevoegd is tot het wettelijk voorgeschreven onderzoek van jaarrekeningen in een lidstaat van de Europese Unie, anders dan Nederland, of in een andere Staat die partij is bij de Overeenkomst betreffende de Europese Economische Ruimte (Trb. 1992, 132).
+2. Het eerste lid, onderdeel e, is niet van toepassing op een aanvrager, die beschikt over een verklaring van vakbekwaamheid als bedoeld in [artikel 54, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032573&hoofdstuk=7&artikel=54&z=2017-01-01&g=2017-01-01), indien hij zonder zich in Nederland te vestigen onderzoeken als bedoeld in [artikel 393, eerste lid, van Boek 2 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=393) bij wijze van dienstverlening wil verrichten, mits hij bevoegd is tot het wettelijk voorgeschreven onderzoek van jaarrekeningen in een lidstaat van de Europese Unie, anders dan Nederland, of in een andere Staat die partij is bij de Overeenkomst betreffende de Europese Economische Ruimte (Trb. 1992, 132).
 
 ##### Artikel 40
 
@@ -559,13 +559,13 @@ Het bestuur verstrekt Onze Minister desgevraagd alle inlichtingen over zaken die
 
 - b. op verzoek van de ingeschrevene;
 
-- c. indien de ingeschrevene in een van de omstandigheden, genoemd in [artikel 39, eerste lid, onderdelen b tot en met d](https://wetten.overheid.nl/jci1.3:c:BWBR0032573&hoofdstuk=6&paragraaf=6.2&artikel=39&z=2016-04-01&g=2016-04-01), is komen te verkeren;
+- c. indien de ingeschrevene in een van de omstandigheden, genoemd in [artikel 39, eerste lid, onderdelen b tot en met d](https://wetten.overheid.nl/jci1.3:c:BWBR0032573&hoofdstuk=6&paragraaf=6.2&artikel=39&z=2017-01-01&g=2017-01-01), is komen te verkeren;
 
 - d. ter tenuitvoerlegging van een daartoe strekkende tuchtrechtelijke maatregel;
 
 - e. ter uitvoering van een voorlopige voorziening als bedoeld in [artikel 41](https://wetten.overheid.nl/jci1.3:c:BWBR0024238&artikel=41) of [44 van de Wet tuchtrechtspraak accountants](https://wetten.overheid.nl/jci1.3:c:BWBR0024238&artikel=44);
 
-- f. indien de ingeschrevene na de tenuitvoerlegging van een dwangbevel in gebreke blijft de jaarlijkse bijdrage, bedoeld in [artikel 30, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032573&hoofdstuk=4&artikel=30&z=2016-04-01&g=2016-04-01), te voldoen.
+- f. indien de ingeschrevene na de tenuitvoerlegging van een dwangbevel in gebreke blijft de jaarlijkse bijdrage, bedoeld in [artikel 30, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032573&hoofdstuk=4&artikel=30&z=2017-01-01&g=2017-01-01), te voldoen.
 
 2. Doorhaling van de inschrijving leidt tot verlies van de betrekkingen binnen de beroepsorganisatie waarvoor het lidmaatschap een vereiste is.
 
@@ -575,25 +575,25 @@ Het bestuur draagt zorg voor het bekendmaken van elke doorhaling van een inschri
 
 ##### Artikel 45
 
-1. Hij die ingeschreven is geweest, wordt bij een aanvraag tot herinschrijving geacht te voldoen aan [artikel 38, tweede lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0032573&hoofdstuk=6&paragraaf=6.2&artikel=38&z=2016-04-01&g=2016-04-01).
+1. Hij die ingeschreven is geweest, wordt bij een aanvraag tot herinschrijving geacht te voldoen aan [artikel 38, tweede lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0032573&hoofdstuk=6&paragraaf=6.2&artikel=38&z=2017-01-01&g=2017-01-01).
 
-2. Indien de inschrijving is doorgehaald op grond van [artikel 43, eerste lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0032573&hoofdstuk=6&paragraaf=6.3&artikel=43&z=2016-04-01&g=2016-04-01), is herinschrijving mogelijk wanneer de aanvrager het bewijs overlegt, dat deze grond heeft opgehouden te bestaan.
+2. Indien de inschrijving is doorgehaald op grond van [artikel 43, eerste lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0032573&hoofdstuk=6&paragraaf=6.3&artikel=43&z=2017-01-01&g=2017-01-01), is herinschrijving mogelijk wanneer de aanvrager het bewijs overlegt, dat deze grond heeft opgehouden te bestaan.
 
 3. Indien de inschrijving is doorgehaald ter uitvoering van een tuchtrechtelijke maatregel is herinschrijving niet mogelijk gedurende de termijn waarvoor de tuchtrechtelijke maatregel is opgelegd.
 
-4. Indien de inschrijving is doorgehaald op grond van [artikel 43, eerste lid, onderdeel f](https://wetten.overheid.nl/jci1.3:c:BWBR0032573&hoofdstuk=6&paragraaf=6.3&artikel=43&z=2016-04-01&g=2016-04-01), is inschrijving weer mogelijk nadat de aanvrager de verschuldigde bijdragen alsnog heeft betaald, alsmede de kosten voor de invordering en de wettelijke rente.
+4. Indien de inschrijving is doorgehaald op grond van [artikel 43, eerste lid, onderdeel f](https://wetten.overheid.nl/jci1.3:c:BWBR0032573&hoofdstuk=6&paragraaf=6.3&artikel=43&z=2017-01-01&g=2017-01-01), is inschrijving weer mogelijk nadat de aanvrager de verschuldigde bijdragen alsnog heeft betaald, alsmede de kosten voor de invordering en de wettelijke rente.
 
 ### Hoofdstuk 7. De opleiding tot accountant
 
 ##### Artikel 46
 
-De opleiding tot accountant omvat bij algemene maatregel van bestuur vast te stellen vakgebieden en voldoet aan de eindtermen, bedoeld in [artikel 49, tweede lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0032573&hoofdstuk=7&artikel=49&z=2016-04-01&g=2016-04-01), die voor controles van financiële verantwoordingen van belang zijn.
+De opleiding tot accountant omvat bij algemene maatregel van bestuur vast te stellen vakgebieden en voldoet aan de eindtermen, bedoeld in [artikel 49, tweede lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0032573&hoofdstuk=7&artikel=49&z=2017-01-01&g=2017-01-01), die voor controles van financiële verantwoordingen van belang zijn.
 
 ##### Artikel 47
 
 1. Gedurende ten minste drie jaar wordt als onderdeel van de opleiding tot accountant een praktijkopleiding gevolgd waarvoor de beroepsorganisatie zorg draagt. De praktijkopleiding wordt afgesloten met een examen. Indien het examen met goed gevolg is afgelegd, geeft de beroepsorganisatie daarvan een getuigschrift af.
 
-2. De verordening over de praktijkopleiding en het daarbij behorende examen, bedoeld in [artikel 19, tweede lid, onderdeel j](https://wetten.overheid.nl/jci1.3:c:BWBR0032573&hoofdstuk=3&artikel=19&z=2016-04-01&g=2016-04-01), bevat regels over:
+2. De verordening over de praktijkopleiding en het daarbij behorende examen, bedoeld in [artikel 19, tweede lid, onderdeel j](https://wetten.overheid.nl/jci1.3:c:BWBR0032573&hoofdstuk=3&artikel=19&z=2017-01-01&g=2017-01-01), bevat regels over:
 
 - a. de toelatingseisen voor de praktijkopleiding;
 
@@ -607,7 +607,7 @@ De opleiding tot accountant omvat bij algemene maatregel van bestuur vast te ste
 
 ##### Artikel 48
 
-De beroepsorganisatie beoordeelt aan de hand van de vastgestelde eindtermen, bedoeld in [artikel 49, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032573&hoofdstuk=7&artikel=49&z=2016-04-01&g=2016-04-01), en de verstrekte getuigschriften van opleidingen of degene die een praktijkopleiding wil volgen voldoet aan de toelatingseisen daarvoor.
+De beroepsorganisatie beoordeelt aan de hand van de vastgestelde eindtermen, bedoeld in [artikel 49, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032573&hoofdstuk=7&artikel=49&z=2017-01-01&g=2017-01-01), en de verstrekte getuigschriften van opleidingen of degene die een praktijkopleiding wil volgen voldoet aan de toelatingseisen daarvoor.
 
 ##### Artikel 49
 
@@ -615,7 +615,7 @@ De beroepsorganisatie beoordeelt aan de hand van de vastgestelde eindtermen, bed
 
 2. De commissie heeft tot taak:
 
-- a. het vaststellen van de eindtermen, met inachtneming van de vakgebieden, bedoeld in [artikel 46](https://wetten.overheid.nl/jci1.3:c:BWBR0032573&hoofdstuk=7&artikel=46&z=2016-04-01&g=2016-04-01), en de beroepsprofielen, bedoeld in [artikel 19, tweede lid, onderdeel k](https://wetten.overheid.nl/jci1.3:c:BWBR0032573&hoofdstuk=3&artikel=19&z=2016-04-01&g=2016-04-01);
+- a. het vaststellen van de eindtermen, met inachtneming van de vakgebieden, bedoeld in [artikel 46](https://wetten.overheid.nl/jci1.3:c:BWBR0032573&hoofdstuk=7&artikel=46&z=2017-01-01&g=2017-01-01), en de beroepsprofielen, bedoeld in [artikel 19, tweede lid, onderdeel k](https://wetten.overheid.nl/jci1.3:c:BWBR0032573&hoofdstuk=3&artikel=19&z=2017-01-01&g=2017-01-01);
 
 - b. het aanwijzen van opleidingen die geheel of gedeeltelijk voldoen aan de in onderdeel a bedoelde eindtermen, met uitzondering van de eindtermen die betrekking hebben op de praktijkopleiding, voor zover deze opleidingen niet zijn geaccrediteerd overeenkomstig [artikel 5a.9 van de Wet op het hoger onderwijs en wetenschappelijk onderzoek](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=5a.9) of niet de toets nieuwe opleiding overeenkomstig [artikel 5a.11 van de Wet op het hoger en wetenschappelijk onderzoek](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=5a.11) met positief gevolg hebben ondergaan;
 
@@ -625,13 +625,13 @@ De beroepsorganisatie beoordeelt aan de hand van de vastgestelde eindtermen, bed
 
 ##### Artikel 50
 
-1. De opleidingsinstituten wier opleiding op grond van [artikel 49, tweede lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0032573&hoofdstuk=7&artikel=49&z=2016-04-01&g=2016-04-01), is aangewezen en de betrokkenen bij de praktijkopleiding, verstrekken desgevraagd alle inlichtingen die de commissie voor haar taakuitvoering nodig heeft.
+1. De opleidingsinstituten wier opleiding op grond van [artikel 49, tweede lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0032573&hoofdstuk=7&artikel=49&z=2017-01-01&g=2017-01-01), is aangewezen en de betrokkenen bij de praktijkopleiding, verstrekken desgevraagd alle inlichtingen die de commissie voor haar taakuitvoering nodig heeft.
 
-2. De commissie kan voorwaarden verbinden aan de aanwijzing, bedoeld in [artikel 49, tweede lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0032573&hoofdstuk=7&artikel=49&z=2016-04-01&g=2016-04-01).
+2. De commissie kan voorwaarden verbinden aan de aanwijzing, bedoeld in [artikel 49, tweede lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0032573&hoofdstuk=7&artikel=49&z=2017-01-01&g=2017-01-01).
 
-3. De commissie kan de aanwijzing, bedoeld in [artikel 49, tweede lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0032573&hoofdstuk=7&artikel=49&z=2016-04-01&g=2016-04-01), intrekken indien de opleiding niet voldoet aan de eindtermen, bedoeld in dat onderdeel.
+3. De commissie kan de aanwijzing, bedoeld in [artikel 49, tweede lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0032573&hoofdstuk=7&artikel=49&z=2017-01-01&g=2017-01-01), intrekken indien de opleiding niet voldoet aan de eindtermen, bedoeld in dat onderdeel.
 
-4. De commissie kan een aanwijzing geven ten aanzien van de uitvoering van de praktijkopleiding indien uit een toetsing als bedoeld in [artikel 49, tweede lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0032573&hoofdstuk=7&artikel=49&z=2016-04-01&g=2016-04-01), blijkt dat de praktijkopleiding niet voldoet aan de eindtermen die gelden voor de praktijkopleiding.
+4. De commissie kan een aanwijzing geven ten aanzien van de uitvoering van de praktijkopleiding indien uit een toetsing als bedoeld in [artikel 49, tweede lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0032573&hoofdstuk=7&artikel=49&z=2017-01-01&g=2017-01-01), blijkt dat de praktijkopleiding niet voldoet aan de eindtermen die gelden voor de praktijkopleiding.
 
 ##### Artikel 51
 
@@ -659,7 +659,7 @@ De beroepsorganisatie beoordeelt aan de hand van de vastgestelde eindtermen, bed
 
 1. De commissie geeft een verklaring van vakbekwaamheid af aan degene die:
 
-- a. beschikt over een bewijsstuk waaruit blijkt dat hij voldoet aan de eisen van vakbekwaamheid die in een lidstaat van de Europese Unie, anders dan Nederland, of in een andere staat die partij is bij de Overeenkomst betreffende de Europese Economische Ruimte, worden gesteld voor de toelating tot de wettelijke controle van jaarrekeningen als bedoeld in artikel 2 van [Richtlijn nr. 2006/43/EG](32006L0043) van het Europees Parlement en de Raad van 17 mei 2006, betreffende de wettelijke controles van jaarrekeningen en geconsolideerde jaarrekeningen, tot wijziging van de [Richtlijnen 78/660/EEG](31978L0660) van de Raad en houdende intrekking van [Richtlijn 84/235/EEG](31984L0235) van de Raad (PbEU L 157/87); of
+- a. beschikt over een bewijsstuk waaruit blijkt dat hij als wettelijke auditor, als bedoeld in artikel 2, onderdeel 2, van richtlijn nr. 2014/56/EU van het Europees Parlement en de Raad van de Europese Unie van 16 april 2014 tot wijziging van Richtlijn 2006/43/EG betreffende de wettelijke controles van jaarrekeningen en geconsolideerde jaarrekeningen (PbEU 2014, L 158), is toegelaten tot het verrichten van controles, als bedoeld in artikel 2, onderdeel 1, van voornoemde richtlijn, in een andere lidstaat; of
 
 - b. beschikt over een in een ander land dan genoemd in onderdeel a, verkregen diploma of soortgelijk bewijsstuk, waaruit naar het oordeel van de commissie eenzelfde niveau van vakbekwaamheid blijkt als in Nederland, welke blijkt uit het met goed gevolg hebben voltooid van de opleiding tot accountant; en
 
@@ -677,7 +677,7 @@ De beroepsorganisatie beoordeelt aan de hand van de vastgestelde eindtermen, bed
 
 ##### Artikel 55
 
-1. Met het toezicht op de naleving van [artikel 41, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032573&hoofdstuk=6&paragraaf=6.3&artikel=41&z=2016-04-01&g=2016-04-01), van deze wet, zijn belast de bij besluit van Onze Minister aangewezen personen.
+1. Met het toezicht op de naleving van [artikel 41, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032573&hoofdstuk=6&paragraaf=6.3&artikel=41&z=2017-01-01&g=2017-01-01), van deze wet, zijn belast de bij besluit van Onze Minister aangewezen personen.
 
 2. Van een besluit als bedoeld in het eerste lid wordt mededeling gedaan door plaatsing in de Staatscourant.
 
@@ -685,9 +685,9 @@ De beroepsorganisatie beoordeelt aan de hand van de vastgestelde eindtermen, bed
 
 ##### Artikel 56
 
-1. Onze Minister is bevoegd tot oplegging van een last onder dwangsom ter handhaving van [artikel 41, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032573&hoofdstuk=6&paragraaf=6.3&artikel=41&z=2016-04-01&g=2016-04-01), van deze wet en [artikel 5:20 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:20).
+1. Onze Minister is bevoegd tot oplegging van een last onder dwangsom ter handhaving van [artikel 41, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032573&hoofdstuk=6&paragraaf=6.3&artikel=41&z=2017-01-01&g=2017-01-01), van deze wet en [artikel 5:20 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:20).
 
-2. Onze Minister is bevoegd tot oplegging van een bestuurlijke boete wegens overtreding van [artikel 41, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032573&hoofdstuk=6&paragraaf=6.3&artikel=41&z=2016-04-01&g=2016-04-01), van deze wet en [artikel 5:20 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:20).
+2. Onze Minister is bevoegd tot oplegging van een bestuurlijke boete wegens overtreding van [artikel 41, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032573&hoofdstuk=6&paragraaf=6.3&artikel=41&z=2017-01-01&g=2017-01-01), van deze wet en [artikel 5:20 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:20).
 
 3. De op grond van het tweede lid op te leggen bestuurlijke boete bedraagt ten hoogste het bedrag dat is vastgesteld voor de tweede categorie, bedoeld in [artikel 23, vierde lid, van het Wetboek van Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=23).
 
@@ -751,7 +751,7 @@ Wijzigt de Wet tuchtrechtspraak accountants.
 
 1. De artikelen van deze wet treden in werking op een bij koninklijk besluit te bepalen tijdstip, dat voor de verschillende artikelen of onderdelen daarvan verschillend kan worden vastgesteld.
 
-2. [Artikel 74, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032573&hoofdstuk=8&paragraaf=8.4&artikel=74&z=2016-04-01&g=2016-04-01), werkt terug tot en met 1 januari 2011.
+2. [Artikel 74, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032573&hoofdstuk=8&paragraaf=8.4&artikel=74&z=2017-01-01&g=2017-01-01), werkt terug tot en met 1 januari 2011.
 
 ##### Artikel 76
 
