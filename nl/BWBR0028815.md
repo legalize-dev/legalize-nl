@@ -4,7 +4,7 @@ identifier: "BWBR0028815"
 country: "nl"
 rank: "ministeriele_regeling_bes"
 publication_date: "2026-01-01"
-last_updated: "2016-01-01"
+last_updated: "2017-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0028815"
 soort: "ministeriele-regeling-BES"
@@ -68,11 +68,11 @@ De passagiersgegevens, bedoeld in [artikel 3.3, zesde lid, van het besluit](http
 
 ##### Artikel 3.2
 
-Als de landen, bedoeld in [artikel 3.5, derde lid, onder a, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0028599&artikel=3.5), zijn aangewezen de landen vermeld in [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0028815&bijlage=3&z=2016-01-01&g=2016-01-01) bij deze regeling.
+Als de landen, bedoeld in [artikel 3.5, derde lid, onder a, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0028599&artikel=3.5), zijn aangewezen de landen vermeld in [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0028815&bijlage=3&z=2017-01-01&g=2017-01-01) bij deze regeling.
 
 ##### Artikel 3.3
 
-Als de categorieën vreemdelingen, bedoeld in [artikel 3.5, derde lid, onder b, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0028599&artikel=3.5) zijn aangewezen de vreemdelingen die behoren tot een van de categorieën, opgenomen in [bijlage 4](https://wetten.overheid.nl/jci1.3:c:BWBR0028815&bijlage=4&z=2016-01-01&g=2016-01-01) bij deze regeling, voor zover de vreemdeling:
+Als de categorieën vreemdelingen, bedoeld in [artikel 3.5, derde lid, onder b, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0028599&artikel=3.5) zijn aangewezen de vreemdelingen die behoren tot een van de categorieën, opgenomen in [bijlage 4](https://wetten.overheid.nl/jci1.3:c:BWBR0028815&bijlage=4&z=2017-01-01&g=2017-01-01) bij deze regeling, voor zover de vreemdeling:
 
 - a. voldoet aan de voor hem gestelde voorwaarden, en
 
@@ -80,9 +80,9 @@ Als de categorieën vreemdelingen, bedoeld in [artikel 3.5, derde lid, onder b, 
 
 ##### Artikel 3.4
 
-1. De voorschriften en bijzondere regels, bedoeld in [artikel 3.10, eerste lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0028599&artikel=3.10), zijn opgenomen in [bijlage 5](https://wetten.overheid.nl/jci1.3:c:BWBR0028815&bijlage=5&z=2016-01-01&g=2016-01-01) bij deze regeling.
+1. De voorschriften en bijzondere regels, bedoeld in [artikel 3.10, eerste lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0028599&artikel=3.10), zijn opgenomen in [bijlage 5](https://wetten.overheid.nl/jci1.3:c:BWBR0028815&bijlage=5&z=2017-01-01&g=2017-01-01) bij deze regeling.
 
-2. Als de categorieën van personen, bedoeld in [artikel 3.10, tweede lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0028599&artikel=3.10), zijn aangewezen de personen die behoren tot een van de categorieën, opgenomen in [bijlage 6](https://wetten.overheid.nl/jci1.3:c:BWBR0028815&bijlage=6&z=2016-01-01&g=2016-01-01) bij deze regeling.
+2. Als de categorieën van personen, bedoeld in [artikel 3.10, tweede lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0028599&artikel=3.10), zijn aangewezen de personen die behoren tot een van de categorieën, opgenomen in [bijlage 6](https://wetten.overheid.nl/jci1.3:c:BWBR0028815&bijlage=6&z=2017-01-01&g=2017-01-01) bij deze regeling.
 
 ### Hoofdstuk 4. Toelating bij vergunning verleend of van rechtswege toegekend
 
@@ -94,23 +94,23 @@ Als de categorieën vreemdelingen, bedoeld in [artikel 3.5, derde lid, onder b, 
 
 | I. Verblijfsdoel | II. Verlening of wijziging | III. Verlenging |
 | --- | --- | --- |
-| a. ‘gezinshereniging of gezinsvorming’ | USD 588 | USD 172 |
-| b. ‘verblijf ter adoptie of als pleegkind’ | USD 40 | USD 40 |
-| c. ‘het verrichten van arbeid in loondienst’ | USD 413 | USD 275 |
-| d. ‘het verrichten van arbeid als zelfstandige’ | USD 957 | USD 275 |
-| e. ‘voortgezet verblijf’ | USD 172 | USD 172 |
-| f. ‘verblijf als gepensioneerde of rentenier’ | USD 651 | USD 275 |
-| g. ‘wedertoelating’ | USD 728 | USD 275 |
-| h. ‘het volgen van studie’ | USD 308 | USD 116 |
-| i. ‘verblijf als stagiair’ | USD 574 | niet van toepassing |
-| j. ‘verblijf als praktikant’ | USD 574 | niet van toepassing |
+| a. ‘gezinshereniging of gezinsvorming’ | USD 597 | USD 174 |
+| b. ‘verblijf ter adoptie of als pleegkind’ | USD 41 | USD 41 |
+| c. ‘het verrichten van arbeid in loondienst’ | USD 420 | USD 280 |
+| d. ‘het verrichten van arbeid als zelfstandige’ | USD 973 | USD 280 |
+| e. ‘voortgezet verblijf’ | USD 174 | USD 174 |
+| f. ‘verblijf als gepensioneerde of rentenier’ | USD 661 | USD 280 |
+| g. ‘wedertoelating’ | USD 740 | USD 280 |
+| h. ‘het volgen van studie’ | USD 312 | USD 118 |
+| i. ‘verblijf als stagiair’ | USD 584 | niet van toepassing |
+| j. ‘verblijf als praktikant’ | USD 584 | niet van toepassing |
 | k. ‘vervolging van mensenhandel’ | USD 0 | USD 0 |
-| l. ‘verblijf als investeerder’ | USD 651 | USD 275 |
-| m. ‘verblijf als vrijwilliger’ | USD 651 | USD 275 |
+| l. ‘verblijf als investeerder’ | USD 661 | USD 280 |
+| m. ‘verblijf als vrijwilliger’ | USD 661 | USD 280 |
 
 ##### Artikel 4.2
 
-1. In afwijking van [artikel 4.1](https://wetten.overheid.nl/jci1.3:c:BWBR0028815&hoofdstuk=4&artikel=4.1&z=2016-01-01&g=2016-01-01) is de vreemdeling voor een aanvraag om verlening of wijziging van een verblijfsvergunning voor bepaalde tijd als bedoeld in [artikel 6 van de Wet](https://wetten.overheid.nl/jci1.3:c:BWBR0028571&artikel=6) geen leges verschuldigd indien hij:
+1. In afwijking van [artikel 4.1](https://wetten.overheid.nl/jci1.3:c:BWBR0028815&hoofdstuk=4&artikel=4.1&z=2017-01-01&g=2017-01-01) is de vreemdeling voor een aanvraag om verlening of wijziging van een verblijfsvergunning voor bepaalde tijd als bedoeld in [artikel 6 van de Wet](https://wetten.overheid.nl/jci1.3:c:BWBR0028571&artikel=6) geen leges verschuldigd indien hij:
 
 - a. als minderjarig kind een aanvraag indient tot het verlenen van een verblijfsvergunning voor bepaalde tijd als bedoeld in [artikel 6 van de Wet](https://wetten.overheid.nl/jci1.3:c:BWBR0028571&artikel=6), voor een verblijfsdoel als bedoeld in [artikel 5.2, eerste lid, onder a, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0028599&artikel=5.2), bij een vreemdeling die een aanvraag heeft ingediend tot het verlenen van een verblijfsvergunning voor bepaalde tijd dan wel verblijf geniet als bedoeld in artikel 6 van de Wet, voor een verblijfsdoel als bedoeld in artikel 5.2, eerste lid, onder k, van het besluit;
 
@@ -124,11 +124,11 @@ Als de categorieën vreemdelingen, bedoeld in [artikel 3.5, derde lid, onder b, 
 
 ##### Artikel 4.3
 
-1. In afwijking van [artikel 4.1](https://wetten.overheid.nl/jci1.3:c:BWBR0028815&hoofdstuk=4&artikel=4.1&z=2016-01-01&g=2016-01-01) is de vreemdeling voor een aanvraag om verlenging van een verblijfsvergunning voor bepaalde tijd als bedoeld in [artikel 6 van de Wet](https://wetten.overheid.nl/jci1.3:c:BWBR0028571&artikel=6) geen leges verschuldigd indien:
+1. In afwijking van [artikel 4.1](https://wetten.overheid.nl/jci1.3:c:BWBR0028815&hoofdstuk=4&artikel=4.1&z=2017-01-01&g=2017-01-01) is de vreemdeling voor een aanvraag om verlenging van een verblijfsvergunning voor bepaalde tijd als bedoeld in [artikel 6 van de Wet](https://wetten.overheid.nl/jci1.3:c:BWBR0028571&artikel=6) geen leges verschuldigd indien:
 
 - a. deze aanvraag gelijktijdig is ontvangen met een aanvraag tot het wijzigen van een verblijfsvergunning, tenzij deze aanvragen zijn ontvangen een jaar of langer voordat de geldigheidsduur van de vergunning afloopt;
 
-- b. deze aanvraag gelijktijdig is ontvangen met een aanvraag tot het verlenen van een verblijfsvergunning voor onbepaalde tijd als bedoeld in [artikel 4.6](https://wetten.overheid.nl/jci1.3:c:BWBR0028815&hoofdstuk=4&artikel=4.6&z=2016-01-01&g=2016-01-01), tenzij deze aanvragen zijn ontvangen een jaar of langer voordat de geldigheidsduur van de vergunning afloopt;
+- b. deze aanvraag gelijktijdig is ontvangen met een aanvraag tot het verlenen van een verblijfsvergunning voor onbepaalde tijd als bedoeld in [artikel 4.6](https://wetten.overheid.nl/jci1.3:c:BWBR0028815&hoofdstuk=4&artikel=4.6&z=2017-01-01&g=2017-01-01), tenzij deze aanvragen zijn ontvangen een jaar of langer voordat de geldigheidsduur van de vergunning afloopt;
 
 - c. het minderjarige kind van de vreemdeling, die verblijf heeft op grond van [artikel 5.2, eerste lid, onder k, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0028599&artikel=5.2), een aanvraag indient tot het verlengen van een verblijfsvergunning voor bepaalde tijd als bedoeld in [artikel 6 van de Wet](https://wetten.overheid.nl/jci1.3:c:BWBR0028571&artikel=6), voor een verblijfsdoel als bedoeld in artikel 5.2, eerste lid, onder a, van het besluit;
 
@@ -136,7 +136,7 @@ Als de categorieën vreemdelingen, bedoeld in [artikel 3.5, derde lid, onder b, 
 
 ##### Artikel 4.4
 
-In afwijking van [artikel 4.1](https://wetten.overheid.nl/jci1.3:c:BWBR0028815&hoofdstuk=4&artikel=4.1&z=2016-01-01&g=2016-01-01) is de vreemdeling geen leges verschuldigd ter zake van:
+In afwijking van [artikel 4.1](https://wetten.overheid.nl/jci1.3:c:BWBR0028815&hoofdstuk=4&artikel=4.1&z=2017-01-01&g=2017-01-01) is de vreemdeling geen leges verschuldigd ter zake van:
 
 - a. de afdoening van de aanvraag tot het verlenen van een verblijfsvergunning voor bepaalde tijd als bedoeld in [artikel 6 van de Wet](https://wetten.overheid.nl/jci1.3:c:BWBR0028571&artikel=6), voor een verblijfsdoel als bedoeld in [artikel 5.2, eerste lid, onder a, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0028599&artikel=5.2), indien hij om vrijstelling van leges verzoekt, daarbij een gerechtvaardigd beroep doet op artikel 8 EVRM en aantoont niet te kunnen beschikken over middelen om aan de legesverplichting te kunnen voldoen.
 
@@ -148,25 +148,25 @@ In afwijking van [artikel 4.1](https://wetten.overheid.nl/jci1.3:c:BWBR0028815&h
 
 ##### Artikel 4.5
 
-1. Ter zake van de afdoening van een aanvraag tot het verlenen van een verblijfsvergunning voor onbepaalde tijd als bedoeld in [artikel 6 van de Wet](https://wetten.overheid.nl/jci1.3:c:BWBR0028571&artikel=6), is de vreemdeling een bedrag van USD 284 verschuldigd.
+1. Ter zake van de afdoening van een aanvraag tot het verlenen van een verblijfsvergunning voor onbepaalde tijd als bedoeld in [artikel 6 van de Wet](https://wetten.overheid.nl/jci1.3:c:BWBR0028571&artikel=6), is de vreemdeling een bedrag van USD 289 verschuldigd.
 
-2. Ter zake van de afgifte ter uitvoering van [artikel 6.18, tweede lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0028599&artikel=6.18), van een vervangend document waaruit het rechtmatig verblijf, bedoeld in [artikel 6 van de Wet](https://wetten.overheid.nl/jci1.3:c:BWBR0028571&artikel=6) blijkt, is de vreemdeling een bedrag van USD 40 verschuldigd.
+2. Ter zake van de afgifte ter uitvoering van [artikel 6.18, tweede lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0028599&artikel=6.18), van een vervangend document waaruit het rechtmatig verblijf, bedoeld in [artikel 6 van de Wet](https://wetten.overheid.nl/jci1.3:c:BWBR0028571&artikel=6) blijkt, is de vreemdeling een bedrag van USD 41 verschuldigd.
 
 ##### Artikel 4.6
 
-In afwijking van de tarieftabel in [artikel 4.1, rijen a en e](https://wetten.overheid.nl/jci1.3:c:BWBR0028815&hoofdstuk=4&artikel=4.1&z=2016-01-01&g=2016-01-01), en [artikel 4.5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028815&hoofdstuk=4&artikel=4.5&z=2016-01-01&g=2016-01-01), is de minderjarige vreemdeling een bedrag van USD 132 verschuldigd.
+In afwijking van de tarieftabel in [artikel 4.1, rijen a en e](https://wetten.overheid.nl/jci1.3:c:BWBR0028815&hoofdstuk=4&artikel=4.1&z=2017-01-01&g=2017-01-01), en [artikel 4.5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028815&hoofdstuk=4&artikel=4.5&z=2017-01-01&g=2017-01-01), is de minderjarige vreemdeling een bedrag van USD 134 verschuldigd.
 
 ##### Artikel 4.7
 
-1. Ter zake van de afgifte van een verklaring als bedoeld in [artikel 3, derde lid, van de Wet](https://wetten.overheid.nl/jci1.3:c:BWBR0028571&artikel=3), is de vreemdeling dan wel Nederlander, bedoeld in artikel 3, vijfde lid, van de Wet een bedrag van USD 119 verschuldigd.
+1. Ter zake van de afgifte van een verklaring als bedoeld in [artikel 3, derde lid, van de Wet](https://wetten.overheid.nl/jci1.3:c:BWBR0028571&artikel=3), is de vreemdeling dan wel Nederlander, bedoeld in artikel 3, vijfde lid, van de Wet een bedrag van USD 121 verschuldigd.
 
-2. In afwijking van het eerste lid is de vreemdeling een bedrag van USD 40 verschuldigd, ingeval sprake is van een verlenging van de termijn, bedoeld in [artikel 4.4, eerste lid, onder c, van het Besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0028599&artikel=4.4).
+2. In afwijking van het eerste lid is de vreemdeling een bedrag van USD 41 verschuldigd, ingeval sprake is van een verlenging van de termijn, bedoeld in [artikel 4.4, eerste lid, onder c, van het Besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0028599&artikel=4.4).
 
 3. In afwijking van het eerste lid is de persoon, bedoeld in [artikel 3, eerste lid, van de Wet](https://wetten.overheid.nl/jci1.3:c:BWBR0028571&artikel=3) geen leges verschuldigd.
 
 ##### Artikel 4.8
 
-Als de landen, bedoeld in [artikel 9, derde lid, onder a, van de Wet](https://wetten.overheid.nl/jci1.3:c:BWBR0028571&artikel=9), zijn aangewezen de landen vermeld in [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0028815&bijlage=3&z=2016-01-01&g=2016-01-01) bij deze regeling.
+Als de landen, bedoeld in [artikel 9, derde lid, onder a, van de Wet](https://wetten.overheid.nl/jci1.3:c:BWBR0028571&artikel=9), zijn aangewezen de landen vermeld in [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0028815&bijlage=3&z=2017-01-01&g=2017-01-01) bij deze regeling.
 
 ##### Artikel 4.9
 
@@ -188,13 +188,13 @@ Als de landen, bedoeld in de [artikelen 5.17](https://wetten.overheid.nl/jci1.3:
 
 ##### Artikel 5.1
 
-De grensdoorlaatposten, bedoeld in [artikel 6.2, eerste lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0028599&artikel=6.2) en vermeld in kolom A van [bijlage 6](https://wetten.overheid.nl/jci1.3:c:BWBR0028815&bijlage=6&z=2016-01-01&g=2016-01-01) bij deze regeling, zijn voor het inreizen en uitreizen van personen opengesteld gedurende de tijden, vermeld in kolom B van [bijlage 7](https://wetten.overheid.nl/jci1.3:c:BWBR0028815&bijlage=7&z=2016-01-01&g=2016-01-01) bij deze regeling.
+De grensdoorlaatposten, bedoeld in [artikel 6.2, eerste lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0028599&artikel=6.2) en vermeld in kolom A van [bijlage 6](https://wetten.overheid.nl/jci1.3:c:BWBR0028815&bijlage=6&z=2017-01-01&g=2017-01-01) bij deze regeling, zijn voor het inreizen en uitreizen van personen opengesteld gedurende de tijden, vermeld in kolom B van [bijlage 7](https://wetten.overheid.nl/jci1.3:c:BWBR0028815&bijlage=7&z=2017-01-01&g=2017-01-01) bij deze regeling.
 
 ##### Artikel 5.2
 
-1. Het model van de bemanningslijst, bedoeld in [artikel 6.11, tweede lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0028599&artikel=6.11), is opgenomen in [bijlage 8](https://wetten.overheid.nl/jci1.3:c:BWBR0028815&bijlage=8&z=2016-01-01&g=2016-01-01) bij deze regeling.
+1. Het model van de bemanningslijst, bedoeld in [artikel 6.11, tweede lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0028599&artikel=6.11), is opgenomen in [bijlage 8](https://wetten.overheid.nl/jci1.3:c:BWBR0028815&bijlage=8&z=2017-01-01&g=2017-01-01) bij deze regeling.
 
-2. Het model van de pasagierslijst, bedoeld in [artikel 6.11, tweede lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0028599&artikel=6.11), is opgenomen in [bijlage 9](https://wetten.overheid.nl/jci1.3:c:BWBR0028815&bijlage=9&z=2016-01-01&g=2016-01-01) bij deze regeling.
+2. Het model van de pasagierslijst, bedoeld in [artikel 6.11, tweede lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0028599&artikel=6.11), is opgenomen in [bijlage 9](https://wetten.overheid.nl/jci1.3:c:BWBR0028815&bijlage=9&z=2017-01-01&g=2017-01-01) bij deze regeling.
 
 ### Hoofdstuk 6. Vrijheidsbeperkende en vrijheidsontnemende maatregelen
 
@@ -268,7 +268,7 @@ De hulpofficier van justitie die bevoegd is tot inbewaringstelling, is bevoegd t
 
 De onverenigbare verwerking van bijzondere persoonsgegevens wordt op de volgende wijze tegengegaan:
 
-- a. de toegang tot de gegevens in het persoonsgebonden dossier en het geautomatiseerde bestand is voorbehouden aan die personen, die voor het uitoefenen van hun taak, bedoeld in de [artikelen 7.1](https://wetten.overheid.nl/jci1.3:c:BWBR0028815&hoofdstuk=7&artikel=7.1&z=2016-01-01&g=2016-01-01) en [7.3](https://wetten.overheid.nl/jci1.3:c:BWBR0028815&hoofdstuk=7&artikel=7.3&z=2016-01-01&g=2016-01-01) toegang tot de informatie moeten hebben;
+- a. de toegang tot de gegevens in het persoonsgebonden dossier en het geautomatiseerde bestand is voorbehouden aan die personen, die voor het uitoefenen van hun taak, bedoeld in de [artikelen 7.1](https://wetten.overheid.nl/jci1.3:c:BWBR0028815&hoofdstuk=7&artikel=7.1&z=2017-01-01&g=2017-01-01) en [7.3](https://wetten.overheid.nl/jci1.3:c:BWBR0028815&hoofdstuk=7&artikel=7.3&z=2017-01-01&g=2017-01-01) toegang tot de informatie moeten hebben;
 
 - b. de verantwoordelijke stelt een Functionaris voor de Gegevensbescherming aan, die toeziet op de naleving van de [Wet bescherming persoonsgegevens BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028067);
 
@@ -286,7 +286,7 @@ Deze regeling wordt aangehaald als: Regeling toelating en uitzetting BES
 
 ## Bijlage 1. behorend bij [artikel 2.1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028815&hoofdstuk=2&artikel=2.1&z=2016-01-01&g=2016-01-01), Regeling toelating en uitzetting BES (model machtiging tot voorlopig verblijf)
 
-## Bijlage 2. behorend bij [artikel 2.1, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028815&hoofdstuk=2&artikel=2.1&z=2016-01-01&g=2016-01-01), Regeling toelating en uitzetting BES (model terugkeervisum)
+## Bijlage 1. behorend bij [artikel 2.1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028815&hoofdstuk=2&artikel=2.1&z=2017-01-01&g=2017-01-01), Regeling toelating en uitzetting BES (model machtiging tot voorlopig verblijf)
 
 ### Niet MVV-plichtig
 
@@ -390,7 +390,7 @@ In beginsel vinden grenscontroles plaats op de luchthavens die zijn aangemerkt a
 
 Met de grenscontrole wordt nagegaan of de personen aan boord van het vliegtuig aan de in [artikel 2r WTU-BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028571&artikel=2r) bedoelde voorwaarden voldoen. Bijzondere regels in verband met de grenscontrole van piloten en bemanningsleden van vliegtuigen worden behandeld [bijlage 6](https://wetten.overheid.nl/jci1.3:c:BWBR0028815&bijlage=6&z=2016-01-01&g=2016-01-01) bij deze regeling.
 
-De openbare lichamen zorgen ervoor dat de luchthavenbeheerder de nodige maatregelen neemt om te voorkomen dat de voorbehouden zones, zoals de transitzones, worden betreden of worden verlaten door personen die daartoe niet bevoegd zijn. In beginsel worden in de transitzone geen controles verricht, tenzij dit gerechtvaardigd is in het licht van een analyse van de gevaren voor de binnenlandse veiligheid of van het risico van illegale immigratie; controles in deze zone kunnen met name worden verricht op personen die aan een luchthaventransitvisumplicht zijn onderworpen, teneinde te controleren of deze personen in het bezit zijn van een dergelijk visum.
+Met de grenscontrole wordt nagegaan of de personen aan boord van het vliegtuig aan de in [artikel 2r WTU-BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028571&artikel=2r) bedoelde voorwaarden voldoen. Bijzondere regels in verband met de grenscontrole van piloten en bemanningsleden van vliegtuigen worden behandeld [bijlage 6](https://wetten.overheid.nl/jci1.3:c:BWBR0028815&bijlage=6&z=2017-01-01&g=2017-01-01) bij deze regeling.
 
 ### Specifieke controleprocedures voor personen op particuliere vluchten
 
@@ -468,7 +468,20 @@ Wanneer het een begeleide minderjarige betreft, gaat de grenswachter na of de be
 | – de Fortbaai | 07.00–19.00 uur |
 | – luchthaven | 07.00–18.00 uur |
 
-## Bijlage 8. behorend bij [artikel 5.2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028815&hoofdstuk=5&artikel=5.2&z=2016-01-01&g=2016-01-01), Regeling toelating en uitzetting BES
+## Bijlage 7. behorend bij [artikel 5.1](https://wetten.overheid.nl/jci1.3:c:BWBR0028815&hoofdstuk=5&artikel=5.1&z=2017-01-01&g=2017-01-01) Regeling toelating en uitzetting BES
+
+| A. grensdoorlaatpost | B. openstellingstijden |
+| --- | --- |
+| In het openbaar lichaam Bonaire: | In het openbaar lichaam Bonaire: |
+| – de rede van Kralendijk | 07.00–19.00 uur |
+| – Blauwe Pan en Brazil | op afroep |
+| – Flamingo luchthaven | 00.00–24.00 uur |
+| In het openbaar lichaam Sint Eustatius: | In het openbaar lichaam Sint Eustatius: |
+| – de Oranjebaai | 07.00–19.00 uur |
+| - luchthaven | 07.00–20.00 uur |
+| In het openbaar lichaam Saba: | In het openbaar lichaam Saba: |
+| – de Fortbaai | 07.00–19.00 uur |
+| – luchthaven | 07.00–18.00 uur |
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
@@ -488,13 +501,23 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 ### Hoofdstuk 7. Algemene en slotbepalingen
 
-## Bijlage 3. behorend bij [artikel 3.2](https://wetten.overheid.nl/jci1.3:c:BWBR0028815&hoofdstuk=3&artikel=3.2&z=2016-01-01&g=2016-01-01) Regeling toelating en uitzetting BES en [artikel 9, derde lid, onder a, Wet toelating en uitzetting BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028571&artikel=9) (landen van welke de onderdanen zijn vrijgesteld van de MVV-plicht)
+## Bijlage 2. behorend bij [artikel 2.1, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028815&hoofdstuk=2&artikel=2.1&z=2017-01-01&g=2017-01-01), Regeling toelating en uitzetting BES (model terugkeervisum)
 
 ### Niet MVV-plichtig
 
 Zwitserland
 
-## Bijlage 5. behorend bij [artikel 3.10, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028599&artikel=3.10), Regeling toelating en uitzetting BES (specifieke voorschriften voor de verschillende soorten grenzen en de verschillende vervoermiddelen die voor de overschrijding van de buitengrenzen van de openbare lichamen worden gebruikt)
+## Bijlage 4. behorend bij [artikel 3.3](https://wetten.overheid.nl/jci1.3:c:BWBR0028815&hoofdstuk=3&artikel=3.3&z=2017-01-01&g=2017-01-01) Regeling toelating en uitzetting BES (categorieën vreemdelingen die toegang tot de openbare lichamen hebben, zonder in het bezit te zijn van een MVV)
+
+- 1. Houders van een geldig paspoort alsmede van een door het Nederlandse Ministerie van Buitenlandse Zaken afgegeven geldig gepriviligieerdendocument;
+
+- 2. Kinderen beneden de leeftijd van zestien jaar die reizen in het gezelschap van een ouder, een grootouder of van hun voogd, dezelfde nationaliteit bezitten als hun begeleider en in het geldige grensoverschrijdingsdocument van hun begeleider, dat is voorzien van een geldige machtiging tot voorlopig verblijf, zijn bijgeschreven;
+
+- 3. Uitgenodigde vluchtelingen die houders zijn van een ‘laissez-passer’ afgegeven door de Nederlandse autoriteiten;
+
+- 4. Houders van een ‘laissez-passer’ afgegeven door de Verenigde Naties, door de Secretaris-Generaal van de Raad van Europa, door de Secretaris-Generaal van de Internationale Douaneraad of door de Voorzitters van de instellingen van de Europese Unie;
+
+- 5. Houders van een ‘officieel legitimatiebewijs’ of een ‘Reiswijzer’ (‘Ordre de Mission – Travel Order’) van de Noord-Atlantische Verdragsorganisatie.
 
 ### Voorschriften voor de zeegrenzen
 
@@ -510,7 +533,7 @@ Wanneer een luchtvaartuig dat een verbinding uit een derde land verzorgt, in gev
 
 ### Specifieke controleprocedures voor personen op particuliere vluchten
 
-Als niet met zekerheid kan worden bepaald of een vlucht uit of naar het grondgebied van de openbare lichamen geen tussenlanding op het grondgebied van een derde land maakt, verrichten de bevoegde autoriteiten een personencontrole overeenkomstig de [artikelen 6.11](https://wetten.overheid.nl/jci1.3:c:BWBR0028599&artikel=6.11) en [6.12 BTU](https://wetten.overheid.nl/jci1.3:c:BWBR0028599&artikel=6.12).
+Bij particuliere vluchten uit of naar derde landen verstrekt de gezagvoerder aan de grenswachters van het openbaar lichaam van bestemming vóór het opstijgen een "algemene verklaring" (general declaration), die met name een vliegplan als bedoeld in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0028815&bijlage=2&z=2017-01-01&g=2017-01-01) bij het Verdrag inzake de internationale burgerluchtvaart en gegevens betreffende de identiteit van de passagiers bevat.
 
 ## Bijlage 6. behorend bij [artikel 3.10, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028599&artikel=3.10), Regeling toelating en uitzetting BES (bijzondere regels voor bepaalde categorieën personen)
 
@@ -534,7 +557,7 @@ Onder de bedoelde door internationale organisaties afgegeven documenten wordt in
 
 Wanneer een minderjarige alleen reist, zorgt de grenswachter ervoor, door middel van een grondige controle van de reisdocumenten en de bewijsstukken, dat de minderjarige het grondgebied niet verlaat tegen de wil van de personen die het ouderlijk gezag over hem uitoefenen.
 
-## Bijlage 9. behorend bij [artikel 5.2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028815&hoofdstuk=5&artikel=5.2&z=2016-01-01&g=2016-01-01), Regeling toelating en uitzetting BES
+## Bijlage 8. behorend bij [artikel 5.2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028815&hoofdstuk=5&artikel=5.2&z=2017-01-01&g=2017-01-01), Regeling toelating en uitzetting BES
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
@@ -546,7 +569,7 @@ Als ambtenaren belast met het toezicht op de naleving en de uitvoering van de we
 
 ### Hoofdstuk 7. Algemene en slotbepalingen
 
-## Bijlage 3. behorend bij [artikel 3.2](https://wetten.overheid.nl/jci1.3:c:BWBR0028815&hoofdstuk=3&artikel=3.2&z=2017-01-01&g=2016-01-01) Regeling toelating en uitzetting BES en [artikel 9, derde lid, onder a, Wet toelating en uitzetting BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028571&artikel=9) (landen van welke de onderdanen zijn vrijgesteld van de MVV-plicht)
+## Bijlage 3. behorend bij [artikel 3.2](https://wetten.overheid.nl/jci1.3:c:BWBR0028815&hoofdstuk=3&artikel=3.2&z=2017-01-01&g=2017-01-01) Regeling toelating en uitzetting BES en [artikel 9, derde lid, onder a, Wet toelating en uitzetting BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028571&artikel=9) (landen van welke de onderdanen zijn vrijgesteld van de MVV-plicht)
 
 ### Niet MVV-plichtig
 
@@ -556,7 +579,7 @@ Zwitserland
 
 ### Voorschriften voor de zeegrenzen
 
-Voor de bijzondere regels in verband met de toegangs- en grenscontrole van zeelieden wordt verwezen naar paragraaf 3 van [bijlage 6](https://wetten.overheid.nl/jci1.3:c:BWBR0028815&bijlage=6&z=2017-01-01&g=2016-01-01).
+Voor de bijzondere regels in verband met de toegangs- en grenscontrole van zeelieden wordt verwezen naar paragraaf 3 van [bijlage 6](https://wetten.overheid.nl/jci1.3:c:BWBR0028815&bijlage=6&z=2017-01-01&g=2017-01-01).
 
 ### Cruiseschepen
 
@@ -578,6 +601,12 @@ Als niet met zekerheid kan worden bepaald of een vlucht uit of naar het grondgeb
 
 Wanneer een minderjarige alleen reist, zorgt de grenswachter ervoor, door middel van een grondige controle van de reisdocumenten en de bewijsstukken, dat de minderjarige het grondgebied niet verlaat tegen de wil van de personen die het ouderlijk gezag over hem uitoefenen.
 
-## Bijlage 9. behorend bij [artikel 5.2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028815&hoofdstuk=5&artikel=5.2&z=2017-01-01&g=2016-01-01), Regeling toelating en uitzetting BES
+## Bijlage 9. behorend bij [artikel 5.2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028815&hoofdstuk=5&artikel=5.2&z=2017-01-01&g=2017-01-01), Regeling toelating en uitzetting BES
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
+
+##### Artikel 2.2
+
+1. De beschikking, waarbij de aanvraag tot het verlenen van een machtiging tot voorlopig verblijf wordt ingewilligd, kan worden bekendgemaakt door uitreiking van een visumsticker als bedoeld in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0028815&bijlage=1&z=2017-01-01&g=2017-01-01), waaruit het verleende blijkt.
+
+2. De beschikking, waarbij de aanvraag tot het verlenen van een terugkeervisum wordt ingewilligd, kan worden bekendgemaakt door uitreiking van een visumsticker als bedoeld in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0028815&bijlage=2&z=2017-01-01&g=2017-01-01), waaruit het verleende blijkt.
