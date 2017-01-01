@@ -4,7 +4,7 @@ identifier: "BWBR0008222"
 country: "nl"
 rank: "amvb"
 publication_date: "2023-01-01"
-last_updated: "2016-01-01"
+last_updated: "2017-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0008222"
 soort: "AMvB"
@@ -86,17 +86,17 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 ##### Artikel 4
 
-Ernstige overtredingen in de zin van [artikel 18f, derde en vijfde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002638&artikel=18f) zijn de overtredingen, bedoeld in [artikel 3, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008222&artikel=3&z=2016-01-01&g=2016-01-01).
+Ernstige overtredingen in de zin van [artikel 18f, derde en vijfde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002638&artikel=18f) zijn de overtredingen, bedoeld in [artikel 3, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008222&paragraaf=4&artikel=3&z=2017-01-01&g=2017-01-01).
 
 ##### Artikel 5
 
-Bij ministeriële regeling kan het aantal werknemers, bedoeld in [artikel 3, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008222&artikel=3&z=2016-01-01&g=2016-01-01), worden aangepast.
+Bij ministeriële regeling kan het aantal werknemers, bedoeld in [artikel 3, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008222&paragraaf=4&artikel=3&z=2017-01-01&g=2017-01-01), worden aangepast.
 
 ##### Artikel 6
 
 1. Als soortgelijke verplichtingen als bedoeld in [artikel 18f, tweede en vierde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002638&artikel=18f) worden aangewezen de verplichtingen op grond van de [artikelen 7](https://wetten.overheid.nl/jci1.3:c:BWBR0002638&artikel=7), [15](https://wetten.overheid.nl/jci1.3:c:BWBR0002638&artikel=15) en [18b, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002638&artikel=18b).
 
-2. Als een soortgelijke overtreding als bedoeld in [artikel 3, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008222&artikel=3&z=2016-01-01&g=2016-01-01), wordt beschouwd het door de werkgever niet of onvoldoende nakomen van de op hem op grond van de [artikelen 7](https://wetten.overheid.nl/jci1.3:c:BWBR0002638&artikel=7), [15](https://wetten.overheid.nl/jci1.3:c:BWBR0002638&artikel=15) en [18b, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002638&artikel=18b) rustende verplichtingen.
+2. Als een soortgelijke overtreding als bedoeld in [artikel 3, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008222&paragraaf=4&artikel=3&z=2017-01-01&g=2017-01-01), wordt beschouwd het door de werkgever niet of onvoldoende nakomen van de op hem op grond van de [artikelen 7](https://wetten.overheid.nl/jci1.3:c:BWBR0002638&artikel=7), [15](https://wetten.overheid.nl/jci1.3:c:BWBR0002638&artikel=15) en [18b, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002638&artikel=18b) rustende verplichtingen.
 
 ##### Artikel 7
 
@@ -128,11 +128,11 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 - c. de sector of branche waarin deze normadressaat zijn economische activiteiten verricht.
 
-3. Indien na afronding van een onderzoek geen overtreding is geconstateerd die leidt tot de besluiten, genoemd in [artikel 6c](https://wetten.overheid.nl/jci1.3:c:BWBR0008222&artikel=6c&z=2016-01-01&g=2016-01-01), wordt bij de gegevens, genoemd in het eerste lid, de opmerking geplaatst dat geen overtreding is geconstateerd.
+3. Indien na afronding van een onderzoek geen overtreding is geconstateerd die leidt tot de besluiten, genoemd in [artikel 6c](https://wetten.overheid.nl/jci1.3:c:BWBR0008222&paragraaf=5&artikel=6c&z=2017-01-01&g=2017-01-01), wordt bij de gegevens, genoemd in het eerste lid, de opmerking geplaatst dat geen overtreding is geconstateerd.
 
 ##### Artikel 6c
 
-1. In aanvulling op [artikel 6b, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008222&artikel=6b&z=2016-01-01&g=2016-01-01), worden indien een onderzoek door de door Onze Minister aangewezen ambtenaren, bedoeld in [artikel 18a, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002638&artikel=18a), of [artikel 18c, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002638&artikel=18c) wordt gevolgd door een besluit tot het opleggen van een bestuurlijke boete als bedoeld in artikel 18c, of een besluit tot bevel tot staken van de werkzaamheden als bedoeld in [artikel 18i, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002638&artikel=18i), de volgende gegevens met betrekking tot dat besluit openbaar gemaakt:
+1. In aanvulling op [artikel 6b, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008222&paragraaf=5&artikel=6b&z=2017-01-01&g=2017-01-01), worden indien een onderzoek door de door Onze Minister aangewezen ambtenaren, bedoeld in [artikel 18a, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002638&artikel=18a), of [artikel 18c, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002638&artikel=18c) wordt gevolgd door een besluit tot het opleggen van een bestuurlijke boete als bedoeld in artikel 18c, of een besluit tot bevel tot staken van de werkzaamheden als bedoeld in [artikel 18i, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002638&artikel=18i), de volgende gegevens met betrekking tot dat besluit openbaar gemaakt:
 
 - a. welk besluit is genomen, de artikelen van de wet die de grondslag daarvoor bieden en de datum van dat besluit; en
 
@@ -142,18 +142,82 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 ##### Artikel 6d
 
-1. De openbaarmaking van de gegevens, bedoeld in de [artikelen 6b](https://wetten.overheid.nl/jci1.3:c:BWBR0008222&artikel=6b&z=2016-01-01&g=2016-01-01) en [6c](https://wetten.overheid.nl/jci1.3:c:BWBR0008222&artikel=6c&z=2016-01-01&g=2016-01-01), geschiedt niet eerder dan tien werkdagen, doch uiterlijk dertig werkdagen na de datum waarop het besluit tot openbaarmaking van deze gegevens aan belanghebbende bekend is gemaakt.
+1. De openbaarmaking van de gegevens, bedoeld in de [artikelen 6b](https://wetten.overheid.nl/jci1.3:c:BWBR0008222&paragraaf=5&artikel=6b&z=2017-01-01&g=2017-01-01) en [6c](https://wetten.overheid.nl/jci1.3:c:BWBR0008222&paragraaf=5&artikel=6c&z=2017-01-01&g=2017-01-01), geschiedt niet eerder dan tien werkdagen, doch uiterlijk dertig werkdagen na de datum waarop het besluit tot openbaarmaking van deze gegevens aan belanghebbende bekend is gemaakt.
 
 2. Indien wordt verzocht om een voorlopige voorziening als bedoeld in [artikel 18pa, zevende lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002638&artikel=18pa), wordt de termijn van dertig werkdagen, bedoeld in het eerste lid, overeenkomstig opgeschort.
 
 ##### Artikel 6e
 
-1. Op verzoek van de belanghebbende kan een schriftelijke reactie over de openbaarmaking van de gegevens, bedoeld in de [artikelen 6b](https://wetten.overheid.nl/jci1.3:c:BWBR0008222&artikel=6b&z=2016-01-01&g=2016-01-01) en [6c](https://wetten.overheid.nl/jci1.3:c:BWBR0008222&artikel=6c&z=2016-01-01&g=2016-01-01), van ten hoogste 2.000 leestekens worden gegeven, die zal worden gevoegd bij de openbaar te maken gegevens op de website met informatie van de toezichthouder of de door Onze Minister aangewezen ambtenaren.
+1. Op verzoek van de belanghebbende kan een schriftelijke reactie over de openbaarmaking van de gegevens, bedoeld in de [artikelen 6b](https://wetten.overheid.nl/jci1.3:c:BWBR0008222&paragraaf=5&artikel=6b&z=2017-01-01&g=2017-01-01) en [6c](https://wetten.overheid.nl/jci1.3:c:BWBR0008222&paragraaf=5&artikel=6c&z=2017-01-01&g=2017-01-01), van ten hoogste 2.000 leestekens worden gegeven, die zal worden gevoegd bij de openbaar te maken gegevens op de website met informatie van de toezichthouder of de door Onze Minister aangewezen ambtenaren.
 
 2. Onderdelen van de schriftelijke reactie die persoonsgegevens, bedrijfsnamen of bedrijfsgegevens van derden dan wel strafbare of aanstootgevende uitlatingen bevatten, worden niet op de website gepubliceerd.
 
 ##### Artikel 6f
 
-Indien in verband met een beslissing op bezwaar, beroep of hoger beroep wordt vastgesteld dat de gegevens, die op grond van [artikel 18pa van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002638&artikel=18pa), en de [artikelen 6b](https://wetten.overheid.nl/jci1.3:c:BWBR0008222&artikel=6b&z=2016-01-01&g=2016-01-01) en [6c](https://wetten.overheid.nl/jci1.3:c:BWBR0008222&artikel=6c&z=2016-01-01&g=2016-01-01) openbaar zijn gemaakt, niet meer juist of volledig zijn, worden deze gegevens aangepast, binnen tien werkdagen na vaststelling of na ontvangst van de desbetreffende beslissing door Onze Minister.
+Indien in verband met een beslissing op bezwaar, beroep of hoger beroep wordt vastgesteld dat de gegevens, die op grond van [artikel 18pa van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002638&artikel=18pa), en de [artikelen 6b](https://wetten.overheid.nl/jci1.3:c:BWBR0008222&paragraaf=5&artikel=6b&z=2017-01-01&g=2017-01-01) en [6c](https://wetten.overheid.nl/jci1.3:c:BWBR0008222&paragraaf=5&artikel=6c&z=2017-01-01&g=2017-01-01) openbaar zijn gemaakt, niet meer juist of volledig zijn, worden deze gegevens aangepast, binnen tien werkdagen na vaststelling of na ontvangst van de desbetreffende beslissing door Onze Minister.
+
+Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het **Staatsblad** zal worden geplaatst.
+
+#### Paragraaf 1. Definities
+
+#### Paragraaf 2. Gelijkgestelde arbeidsverhoudingen
+
+#### Paragraaf 3. Bevoegdheid tot volmachtverlening
+
+##### Artikel 2a
+
+1. De werknemer is bevoegd om schriftelijke volmacht te verlenen aan de werkgever om uit het uit te betalen minimumloon in zijn naam betalingen te verrichten aan de verhuurder ter zake van de huur van woonruimte van de huurprijs, de kosten voor nutsvoorzieningen met een individuele meter en de servicekosten, bedoeld in [artikel 237 van Boek 7, derde lid, van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=237), indien:
+
+- a. de huurprijs, de kosten voor nutsvoorzieningen met een individuele meter en de servicekosten voor het gedeelte van het uit te betalen minimumloon gezamenlijk per betalingstermijn ten hoogste 25% bedraagt van het voor de werknemer voor die termijn geldende minimumloon; en
+
+- b. de verhuurder:
+
+- 1°. een toegelaten instelling is als bedoeld in [artikel 19, eerste lid, van de Woningwet](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&artikel=19); of
+
+- 2°. gecertificeerd is overeenkomstig de bij collectieve arbeidsovereenkomst vastgestelde normen betreffende de kwaliteit van huisvesting van werknemers na een conformiteitsbeoordeling van een instelling die door de Raad voor Accreditatie, bedoeld in [artikel 2, eerste lid, van de Wet aanwijzing nationale accreditatie-instantie](https://wetten.overheid.nl/jci1.3:c:BWBR0026591&artikel=2), is geaccrediteerd op grond van deze vastgestelde norm.
+
+2. Een schriftelijke volmacht als bedoeld in het eerste lid is nietig indien de schriftelijke volmacht wordt verleend ten aanzien van kosten voor huisvesting als bedoeld in het eerste lid, indien de werknemer als gedetacheerde werknemer als bedoeld in [artikel 1, eerste lid, van de Wet arbeidsvoorwaarden gedetacheerde werknemers in de Europese Unie](https://wetten.overheid.nl/jci1.3:c:BWBR0038054&artikel=1), tijdelijk in Nederland arbeid verricht.
+
+3. Bij de schriftelijke volmacht, bedoeld in het eerste lid, overlegt de werknemer de afschriften van de huurovereenkomst en van de bescheiden, waaruit blijkt dat wordt voldaan aan de vereisten, bedoeld in het eerste lid, onderdeel b, aan de werkgever.
+
+4. De werkgever is bevoegd de betalingen, bedoeld in het eerste lid, te verrichten, indien hij aan de hand van de afschriften van de huurovereenkomst en van de bescheiden, bedoeld in het derde lid, heeft vastgesteld dat is voldaan aan de eisen, gesteld in het eerste en tweede lid.
+
+##### Artikel 2b
+
+1. De werknemer is bevoegd om als verzekeringnemer schriftelijke volmacht te verlenen aan de werkgever om uit het uit te betalen minimumloon in zijn naam betalingen te verrichten aan de zorgverzekeraar ter zake van de verschuldigde premie voor zijn zorgverzekering als bedoeld in [artikel 1, onderdeel d, van de Zorgverzekeringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&artikel=1) en de verschuldigde premie voor een verzekering uitsluitend ter afdekking van zijn verplicht eigen risico, bedoeld in artikel 1, onderdeel g, van de Zorgverzekeringswet. De betalingen voor de verzekeringen, bedoeld in de vorige zin, bedragen gezamenlijk per betalingstermijn van het loon ten hoogste het bedrag van de geraamde gemiddelde nominale premie die een verzekerde voor een zorgverzekering betaalt, gedeeld door het aantal betalingstermijnen voor het betrokken kalenderjaar.
+
+2. Bij regeling van Onze Minister van Volksgezondheid, Welzijn en Sport wordt jaarlijks uiterlijk 1 november van het kalenderjaar het bedrag van de geraamde gemiddelde nominale premie, bedoeld in het eerste lid, vastgesteld voor het volgende kalenderjaar.
+
+3. Bij de schriftelijke volmacht, bedoeld in het eerste lid, overlegt de werknemer de afschriften van de zorgpolis, bedoeld in [artikel 1, onderdeel i, van de Zorgverzekeringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&artikel=1), en van de verzekeringspolis van de verzekering, bedoeld in het eerste lid, aan de werkgever.
+
+4. De werkgever is bevoegd de betalingen, bedoeld in het eerste lid, te verrichten, indien hij aan de hand van de afschriften van de zorgpolis en de verzekeringspolis, bedoeld in het derde lid, heeft vastgesteld dat is voldaan aan de eisen, gesteld in het eerste lid.
+
+##### Artikel 2c
+
+1. De werknemer, die een arbeidsbeperkte is als bedoeld in [artikel 38b, eerste en tweede lid, van de Wet financiering sociale verzekeringen](https://wetten.overheid.nl/jci1.3:c:BWBR0017745&artikel=38b), of van wie het college van burgemeester en wethouders heeft vastgesteld dat hij uitsluitend in een beschutte omgeving onder aangepaste omstandigheden mogelijkheden tot arbeidsparticipatie heeft als bedoeld in [artikel 10b, eerste lid, van de Participatiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&artikel=10b) is bevoegd om schriftelijke volmacht te verlenen aan de werkgever om uit het uit te betalen minimumloon in zijn naam betalingen te verrichten ter zake van:
+
+- 1°. de huurprijs, de kosten voor nutsvoorzieningen met een individuele meter en de servicekosten, bedoeld in [artikel 237, derde lid, van Boek 7 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=237), aan de verhuurder;
+
+- 2°. kosten voor nutsvoorzieningen met een individuele meter aan de nutsbedrijven, die de bedoelde voorzieningen leveren;
+
+- 3°. de premie voor zijn zorgverzekering waarvan hij verzekeringnemer is als bedoeld in [artikel 1, onderdeel d, van de Zorgverzekeringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&artikel=1), aan een zorgverzekeraar en de verschuldigde premie voor een verzekering uitsluitend ter afdekking van zijn verplicht eigen risico, bedoeld in artikel 1, onderdeel g, van de Zorgverzekeringswet; en
+
+- 4°. de rioolheffing, bedoeld in [artikel 228a van de Gemeentewet](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&artikel=228a), de heffing, bedoeld in [artikel 15.33 van de Wet milieubeheer](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=15.33), de onroerende-zaakbelasting, bedoeld in [artikel 220 van de Gemeentewet](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&artikel=220), en de waterschapsbelasting, bedoeld in [artikel 110 van de Waterschapswet](https://wetten.overheid.nl/jci1.3:c:BWBR0005108&artikel=110) aan het orgaan dat bevoegd is tot inning van de heffing of de belasting.
+
+2. Bij de schriftelijke volmacht, bedoeld in het eerste lid, overlegt de werknemer de afschriften van de huurovereenkomst en van de bescheiden waaruit de betalingsverplichtingen, bedoeld in het eerste lid blijken, aan de werkgever.
+
+3. De werkgever is bevoegd de betalingen, bedoeld in het eerste lid, te verrichten, indien hij aan de hand van de afschriften, bedoeld in het tweede lid, heeft vastgesteld dat is voldaan aan de eisen, gesteld in het eerste lid.
+
+4. Dit artikel is van overeenkomstige toepassing op werknemers in bepaalde soorten dienstbetrekkingen die gelijkgesteld zijn met arbeidsbeperkten op grond van [artikel 38f, vijfde lid, van de Wet financiering sociale verzekeringen](https://wetten.overheid.nl/jci1.3:c:BWBR0017745&artikel=38f).
+
+##### Artikel 2d
+
+Vergoedingen voor onkosten van reizen, huisvesting of voeding die een gedetacheerde werknemer als bedoeld in [artikel 1, eerste lid, van de Wet arbeidsvoorwaarden gedetacheerde werknemers in de Europese Unie](https://wetten.overheid.nl/jci1.3:c:BWBR0038054&artikel=1), maakt in verband met zijn detachering, behoren niet tot het loon, bedoeld in [artikel 6, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002638&artikel=6).
+
+#### Paragraaf 4. Preventieve stillegging en recidive
+
+#### Paragraaf 5. Openbaarmaking inspectiegegevens
+
+#### Paragraaf 6. Slotbepalingen
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het **Staatsblad** zal worden geplaatst.
