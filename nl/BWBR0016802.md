@@ -4,7 +4,7 @@ identifier: "BWBR0016802"
 country: "nl"
 rank: "amvb"
 publication_date: "2017-11-29"
-last_updated: "2013-01-01"
+last_updated: "2017-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0016802"
 soort: "AMvB"
@@ -107,7 +107,7 @@ De raad is bevoegd tot het horen van deskundigen, maatschappelijke organisaties 
 
 ##### Artikel 8. Archief
 
-1. Het beheer van de bescheiden betreffende de werkzaamheden van de raad geschiedt door het secretariaat, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0016802&paragraaf=2&artikel=2&z=2013-01-01&g=2013-01-01), op overeenkomstige wijze als bij het Ministerie van Veiligheid en Justitie.
+1. Het beheer van de bescheiden betreffende de werkzaamheden van de raad geschiedt door het secretariaat, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0016802&paragraaf=2&artikel=2&z=2013-01-01&g=2017-01-01), op overeenkomstige wijze als bij het Ministerie van Veiligheid en Justitie.
 
 2. De bescheiden worden bij opheffing van de raad overgedragen aan Onze Minister.
 
@@ -118,5 +118,11 @@ Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van
 ##### Artikel 10. Citeertitel
 
 Dit besluit wordt aangehaald als: Besluit politieonderwijsraad.
+
+Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
+
+##### Artikel 8a
+
+Dit besluit berust op [artikel 82, zevende lid, van de Politiewet 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&artikel=82).
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
