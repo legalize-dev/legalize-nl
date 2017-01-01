@@ -4,7 +4,7 @@ identifier: "BWBR0017759"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2017-01-01"
-last_updated: "2013-01-01"
+last_updated: "2017-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0017759"
 soort: "ministeriele-regeling"
@@ -40,13 +40,13 @@ Besluit:
 
 ##### Artikel 1
 
-Deze regeling berust op de [artikelen 4a, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003954&artikel=4a), en [22 van de Wet op de internationale bijstandsverlening bij de heffing van belastingen](https://wetten.overheid.nl/jci1.3:c:BWBR0003954&artikel=22).
+Deze regeling berust op [artikel 22 van de Wet op de internationale bijstandsverlening bij de heffing van belastingen](https://wetten.overheid.nl/jci1.3:c:BWBR0003954&artikel=22).
 
 ### Hoofdstuk 1. Definitiebepaling
 
 ##### Artikel 2
 
-Deze regeling verstaat onder wet: [Wet op de internationale bijstandsverlening bij de heffing van belastingen](https://wetten.overheid.nl/jci1.3:c:BWBR0003954).
+Vervallen
 
 ### Hoofdstuk 2. Bijstand bij heffing
 
@@ -80,37 +80,7 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 ##### Artikel 2a
 
-1. Voor de toepassing van [afdeling 2 van Hoofdstuk IA van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0003954&afdeling=2) worden met een lidstaat gelijkgesteld:
-
-- a. Aruba;
-
-- b. Curaçao;
-
-- c. Sint Maarten;
-
-- d. Bonaire;
-
-- e. Sint Eustatius;
-
-- f. Saba;
-
-- g. de Britse Maagdeneilanden;
-
-- h. het Eiland Man;
-
-- i. Guernsey;
-
-- j. Jersey;
-
-- k. Montserrat.
-
-2. Voor de toepassing van [artikel 4b, tweede lid, onderdeel b, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0003954&artikel=4b) wordt voorts met een lidstaat gelijkgesteld:
-
-- a. de Turks- en Caicoseilanden;
-
-- b. de Kaaimaneilanden;
-
-- c. Anguilla.
+Vervallen
 
 ### Hoofdstuk 2. Bijstand bij heffing
 
