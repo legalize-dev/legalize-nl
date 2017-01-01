@@ -4,7 +4,7 @@ identifier: "BWBR0030327"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2023-09-02"
-last_updated: "2015-12-01"
+last_updated: "2017-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0030327"
 soort: "ministeriele-regeling"
@@ -192,7 +192,7 @@ Het hoofd van de afdeling Communicatieadvies en Onderzoek is verantwoordelijk vo
 
 2. In afwijking van het eerste lid wordt aan de hoofden van de afdelingen mandaat en machtiging verleend met betrekking tot het nemen van besluiten over en het vaststellen en ondertekenen van stukken die betrekking hebben op personeelsaangelegenheden ten behoeve van medewerkers van de eigen afdeling, met uitzondering van het vaststellen van beoordelingen en bijzondere beloningen van rechtstreeks onder hen ressorterende teamleiders.
 
-3. Aan de teamleiders, bedoeld in de [artikelen 4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030327&paragraaf=2&artikel=4&z=2015-12-01&g=2015-12-01) en [6, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030327&paragraaf=2&artikel=6&z=2015-12-01&g=2015-12-01), wordt mandaat en machtiging verleend ten behoeve van medewerkers van het eigen team met betrekking tot:
+3. Aan de teamleiders, bedoeld in de [artikelen 4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030327&paragraaf=2&artikel=4&z=2017-07-28&g=2017-01-01) en [6, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030327&paragraaf=2&artikel=6&z=2017-07-28&g=2017-01-01), wordt mandaat en machtiging verleend ten behoeve van medewerkers van het eigen team met betrekking tot:
 
 - a. het opmaken, niet zijnde vaststellen, van een beoordeling van medewerkers;
 
@@ -241,5 +241,11 @@ Het [Organisatie-, mandaat en volmachtbesluit directie Communicatie 2009](https:
 1. Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst en werkt terug tot en met 1 januari 2011.
 
 2. Deze regeling wordt aangehaald als: Organisatie-, mandaat- en volmachtbesluit directie Communicatie 2011.
+
+Deze regeling zal in de Staatscourant worden geplaatst.
+
+##### Artikel 14
+
+Deze regeling wordt aangehaald als: Organisatie-, mandaat- en volmachtbesluit directie Communicatie 2011.
 
 Deze regeling zal in de Staatscourant worden geplaatst.
