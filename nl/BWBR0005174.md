@@ -4,7 +4,7 @@ identifier: "BWBR0005174"
 country: "nl"
 rank: "amvb"
 publication_date: "2021-01-01"
-last_updated: "2002-01-01"
+last_updated: "2017-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0005174"
 soort: "AMvB"
@@ -54,7 +54,7 @@ Het model voor het in [artikel 475, tweede lid, van het Wetboek van Burgerlijke 
 
 1. De in [artikel 476**b** van het Wetboek van Burgerlijke Rechtsvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&artikel=476b) bedoelde verklaring wordt tot de in dat artikel bedoelde deurwaarder of advocaat gericht door:
 
-- a. overhandiging aan de deurwaarder of advocaat van een ingevuld formulier naar het in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0005174&artikel=1&z=2002-01-01&g=2002-01-01) bedoelde model;
+- a. overhandiging aan de deurwaarder of advocaat van een ingevuld formulier naar het in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0005174&artikel=1&z=2017-01-01&g=2017-01-01) bedoelde model;
 
 - b. een gewone of aangetekende brief, inhoudende een ingevuld formulier als bedoeld onder **a**;
 
@@ -74,7 +74,7 @@ Het model voor het in [artikel 475, tweede lid, van het Wetboek van Burgerlijke 
 
 1. Formulier als bedoeld in artikel 475 lid 2 van het Wetboek van Burgerlijke Rechtsvordering,
 
-op...........................................................19..
+op.............................................................
 
 **betekend door**:...................................................
 
@@ -276,7 +276,7 @@ Bijlagen
 
 ----------------------------------------------------------------------
 
-6. Deze verklaring is naar waarheid op 19 afgelegd en overhandigd/verzonden aan:
+6. Deze verklaring is naar waarheid op afgelegd en overhandigd/verzonden aan:
 
 de onder 1 genoemde advocaat
 
