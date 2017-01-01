@@ -4,7 +4,7 @@ identifier: "BWBR0012231"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2017-01-01"
-last_updated: "2001-02-15"
+last_updated: "2017-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0012231"
 soort: "ministeriele-regeling"
@@ -40,11 +40,11 @@ Besluit:
 
 ##### Artikel 1
 
-Een marifooninstallatie als bedoeld in de [artikelen 6, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005315&artikel=6), en [19, zesde lid, onderdeel d, van het Scheepvaartreglement voor het Kanaal van Gent naar Terneuzen](https://wetten.overheid.nl/jci1.3:c:BWBR0005315&artikel=19) wordt overeenkomstig genoemde artikelen goedgekeurd, indien deze in overeenstemming is met de op 6 april 2000 te Basel, overeenkomstig artikel S6 van het Internationale Radioreglement, behorend bij het Internationale Telecommunicatieverdrag, als bedoeld in [artikel 1.1, onderdeel bb., van de Telecommunicatiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&artikel=1.1), tot stand gekomen Regionale regeling betreffende de marifoondienst in de binnenvaart.
+Een marifooninstallatie als bedoeld in de [artikelen 6, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005315&artikel=6), en [19, zesde lid, onderdeel d, van het Scheepvaartreglement voor het Kanaal van Gent naar Terneuzen](https://wetten.overheid.nl/jci1.3:c:BWBR0005315&artikel=19) wordt overeenkomstig genoemde artikelen goedgekeurd, indien deze in overeenstemming is met de op 6 april 2000 te Basel, overeenkomstig artikel S6 van het Internationale Radioreglement, behorend bij het Internationale Telecommunicatieverdrag, als bedoeld in [artikel 1.1 van de Telecommunicatiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&artikel=1.1), tot stand gekomen Regionale regeling betreffende de marifoondienst in de binnenvaart.
 
 ##### Artikel 2
 
-In afwijking van [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0012231&artikel=1&z=2001-02-15&g=2001-02-15), mag een zeeschip, met uitzondering van een klein schip, zijn uitgerust met een marifooninstallatie van een type dat voor gebruik in de frequentieband van 156-174 MHz is toegelaten.
+In afwijking van [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0012231&artikel=1&z=2017-01-01&g=2017-01-01), mag een zeeschip, met uitzondering van een klein schip, zijn uitgerust met een marifooninstallatie van een type dat voor gebruik in de frequentieband van 156-174 MHz is toegelaten.
 
 ##### Artikel 3
 
