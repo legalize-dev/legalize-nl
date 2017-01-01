@@ -4,7 +4,7 @@ identifier: "BWBR0014483"
 country: "nl"
 rank: "amvb"
 publication_date: "2025-01-01"
-last_updated: "2014-02-24"
+last_updated: "2017-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0014483"
 soort: "AMvB"
@@ -288,11 +288,11 @@ Indien een verzekeraar een fiscale eenheid vormt met een belastingplichtige op w
 
 1. Indien op het voegingstijdstip tot de fiscale eenheid twee of meer verzekeraars gaan behoren, wordt de egalisatiereserve op dat tijdstip gesteld op de som van die reserves van die verzekeraars direct voorafgaande aan de voeging.
 
-2. Indien op het voegingstijdstip het bedrag waarmee het vermogen de egalisatiereserve te boven gaat (vermogensruimte) – een en ander opgevat overeenkomstig [artikel 11, derde lid, van het besluit verzekeraars 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0012096&artikel=11) – afneemt als gevolg van de voeging en het betreft een situatie als bedoeld in [artikel 19, tweede lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0014483&hoofdstuk=IV&afdeling=1&artikel=19&z=2014-02-24&g=2014-02-24), wordt per het einde van ieder jaar daarna, gedurende twintig jaren, doch ten hoogste zo lang de verzekeraar en de dochtermaatschappij tezamen in aanmerking worden genomen, de vermogensruimte van de verzekeraar fictief verhoogd. De verhoging is gelijk aan het bedrag waarmee op het voegingstijdstip de boekwaarde van de deelneming in de dochtermaatschappij te boven gaat het bedrag van het vermogen van die maatschappij, verminderd met 5 percent voor elk jaar dat inmiddels is verstreken na de voeging.
+2. Indien op het voegingstijdstip het bedrag waarmee het vermogen de egalisatiereserve te boven gaat (vermogensruimte) – een en ander opgevat overeenkomstig [artikel 11, derde lid, van het besluit verzekeraars 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0012096&artikel=11) – afneemt als gevolg van de voeging en het betreft een situatie als bedoeld in [artikel 19, tweede lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0014483&hoofdstuk=IV&afdeling=1&artikel=19&z=2014-02-24&g=2017-01-01), wordt per het einde van ieder jaar daarna, gedurende twintig jaren, doch ten hoogste zo lang de verzekeraar en de dochtermaatschappij tezamen in aanmerking worden genomen, de vermogensruimte van de verzekeraar fictief verhoogd. De verhoging is gelijk aan het bedrag waarmee op het voegingstijdstip de boekwaarde van de deelneming in de dochtermaatschappij te boven gaat het bedrag van het vermogen van die maatschappij, verminderd met 5 percent voor elk jaar dat inmiddels is verstreken na de voeging.
 
-3. Het tweede lid is van overeenkomstige toepassing in een situatie als bedoeld in [artikel 19, tweede lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0014483&hoofdstuk=IV&afdeling=1&artikel=19&z=2014-02-24&g=2014-02-24).
+3. Het tweede lid is van overeenkomstige toepassing in een situatie als bedoeld in [artikel 19, tweede lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0014483&hoofdstuk=IV&afdeling=1&artikel=19&z=2014-02-24&g=2017-01-01).
 
-4. Het tweede lid is van overeenkomstige toepassing in een situatie als bedoeld in [artikel 19, tweede lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0014483&hoofdstuk=IV&afdeling=1&artikel=19&z=2014-02-24&g=2014-02-24). In deze situatie wordt de vermogensruimte van de verzekeraar jaarlijks voorts fictief verhoogd met het bedrag waarmee op het voegingstijdstip het vermogen van de dochtermaatschappij haar gestorte kapitaal te boven gaat.
+4. Het tweede lid is van overeenkomstige toepassing in een situatie als bedoeld in [artikel 19, tweede lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0014483&hoofdstuk=IV&afdeling=1&artikel=19&z=2014-02-24&g=2017-01-01). In deze situatie wordt de vermogensruimte van de verzekeraar jaarlijks voorts fictief verhoogd met het bedrag waarmee op het voegingstijdstip het vermogen van de dochtermaatschappij haar gestorte kapitaal te boven gaat.
 
 5. Indien op een voegingstijdstip de vermogensruimte toeneemt en bij een uitbreiding daarna van de fiscale eenheid de vermogensruimte afneemt, vindt bij die uitbreiding een fictieve verhoging van de vermogensruimte geen toepassing tot het bedrag van de eerdere toename van de ruimte.
 
@@ -304,7 +304,7 @@ Indien een verzekeraar een fiscale eenheid vormt met een belastingplichtige op w
 
 Indien de ontvoeging betreft een verzekeraar en er bij die ontvoeging nog een of meer verzekeraars achterblijven dan wel de ontvoeging betreft meer dan een verzekeraar, wordt de egalisatiereserve van de fiscale eenheid zodanig verdeeld over de verzekeraars dat bij de afzonderlijke verzekeraar de egalisatiereserve niet uitgaat boven het laagste van de volgende bedragen:
 
-- a. het vermogen van die verzekeraar, verminderd met het gestorte kapitaal en met de overige toelaatbare reserves van die verzekeraar. Hierbij worden voor het bepalen van het vermogen mede als schulden aangemerkt de bij het bepalen van de winst niet in aftrek komende uitdelingen en daarmee gelijkgestelde betalingen die na ontvoeging plaatsvinden en betrekking hebben op tijdvakken van daarvoor. Indien het betreft een verzekeraar die achterblijft in de fiscale eenheid, wordt het vermogen vermeerderd met een evenredig gedeelte van de fictieve verhoging van de vermogensruimte die op de voet van [artikel 21](https://wetten.overheid.nl/jci1.3:c:BWBR0014483&hoofdstuk=IV&afdeling=3&artikel=21&z=2014-02-24&g=2014-02-24) is toegepast aan het einde van het laatste jaar voorafgaande aan de ontvoeging;
+- a. het vermogen van die verzekeraar, verminderd met het gestorte kapitaal en met de overige toelaatbare reserves van die verzekeraar. Hierbij worden voor het bepalen van het vermogen mede als schulden aangemerkt de bij het bepalen van de winst niet in aftrek komende uitdelingen en daarmee gelijkgestelde betalingen die na ontvoeging plaatsvinden en betrekking hebben op tijdvakken van daarvoor. Indien het betreft een verzekeraar die achterblijft in de fiscale eenheid, wordt het vermogen vermeerderd met een evenredig gedeelte van de fictieve verhoging van de vermogensruimte die op de voet van [artikel 21](https://wetten.overheid.nl/jci1.3:c:BWBR0014483&hoofdstuk=IV&afdeling=3&artikel=21&z=2014-02-24&g=2017-01-01) is toegepast aan het einde van het laatste jaar voorafgaande aan de ontvoeging;
 
 - b. het voor die verzekeraar in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0012096&artikel=8) of in [artikel 19 van het besluit verzekeraars 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0012096&artikel=19) gestelde maximum.
 
@@ -314,7 +314,7 @@ De verdeling van de egalisatiereserve van de fiscale eenheid over de verzekeraar
 
 ##### Artikel 23
 
-Het bepaalde in de [artikelen 20](https://wetten.overheid.nl/jci1.3:c:BWBR0014483&hoofdstuk=IV&afdeling=2&artikel=20&z=2014-02-24&g=2014-02-24), [21](https://wetten.overheid.nl/jci1.3:c:BWBR0014483&hoofdstuk=IV&afdeling=3&artikel=21&z=2014-02-24&g=2014-02-24) en [22](https://wetten.overheid.nl/jci1.3:c:BWBR0014483&hoofdstuk=IV&afdeling=4&artikel=22&z=2014-02-24&g=2014-02-24) met betrekking tot een egalisatiereserve is van overeenkomstige toepassing met betrekking tot een calamiteitenreserve.
+Het bepaalde in de [artikelen 20](https://wetten.overheid.nl/jci1.3:c:BWBR0014483&hoofdstuk=IV&afdeling=2&artikel=20&z=2014-02-24&g=2017-01-01), [21](https://wetten.overheid.nl/jci1.3:c:BWBR0014483&hoofdstuk=IV&afdeling=3&artikel=21&z=2014-02-24&g=2017-01-01) en [22](https://wetten.overheid.nl/jci1.3:c:BWBR0014483&hoofdstuk=IV&afdeling=4&artikel=22&z=2014-02-24&g=2017-01-01) met betrekking tot een egalisatiereserve is van overeenkomstige toepassing met betrekking tot een calamiteitenreserve.
 
 ### Hoofdstuk V. Specifieke bepalingen bij een fiscale eenheid van beleggingsinstellingen
 
@@ -330,7 +330,7 @@ Voor de toepassing van [artikel 4, vijfde lid](https://wetten.overheid.nl/jci1.3
 
 1. De door een dochtermaatschappij na haar voegingstijdstip op de voet van [artikel 28, tweede lid, onderdeel b, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&artikel=28) uit te delen winst, wordt aangemerkt als door de fiscale eenheid op de voet van dat artikelonderdeel uit te delen winst van het jaar waarin de uitdeling van de dochtermaatschappij plaatsvindt. De eerste volzin is niet van toepassing met betrekking tot uit te delen winst die als zogenaamd meegekocht dividend kan worden aangemerkt.
 
-2. Vóór het voegingstijdstip bij een maatschappij ontstane uitdelingstekorten als bedoeld in [artikel 2, vierde lid, van het Besluit beleggingsinstellingen](https://wetten.overheid.nl/jci1.3:c:BWBR0002705&artikel=2) worden binnen de in dat artikel gestelde termijn slechts verrekend met de voor uitdeling beschikbare winst van de fiscale eenheid voorzover die aan die maatschappij is toe te rekenen. [Artikel 15ah van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&artikel=15ah) is hierbij van overeenkomstige toepassing. Voorts is hierbij van overeenkomstige toepassing [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0014483&hoofdstuk=II&afdeling=3&artikel=12&z=2014-02-24&g=2014-02-24).
+2. Vóór het voegingstijdstip bij een maatschappij ontstane uitdelingstekorten als bedoeld in [artikel 2, vierde lid, van het Besluit beleggingsinstellingen](https://wetten.overheid.nl/jci1.3:c:BWBR0002705&artikel=2) worden binnen de in dat artikel gestelde termijn slechts verrekend met de voor uitdeling beschikbare winst van de fiscale eenheid voorzover die aan die maatschappij is toe te rekenen. [Artikel 15ah van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&artikel=15ah) is hierbij van overeenkomstige toepassing. Voorts is hierbij van overeenkomstige toepassing [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0014483&hoofdstuk=II&afdeling=3&artikel=12&z=2014-02-24&g=2017-01-01).
 
 3. Indien een bestaande fiscale eenheid wordt uitgebreid of indien een bestaande fiscale eenheid wordt opgenomen in een nieuwe fiscale eenheid vindt de verrekening van een voor dat voegingstijdstip ontstaan uitdelingstekort als bedoeld in [artikel 2, vierde lid, van het Besluit beleggingsinstellingen](https://wetten.overheid.nl/jci1.3:c:BWBR0002705&artikel=2) van die bestaande fiscale eenheid binnen de in [dat artikel](https://wetten.overheid.nl/jci1.3:c:BWBR0002705&artikel=2) gestelde termijn met de voor uitdeling beschikbare winst van na dat voegingstijdstip plaats voorzover deze voor uitdeling beschikbare winst is toe te rekenen aan de maatschappijen die direct voorafgaande aan dat voegingstijdstip reeds een fiscale eenheid vormden. Het tweede lid, tweede en derde volzin, is hierbij van overeenkomstige toepassing.
 
@@ -492,17 +492,29 @@ Vervallen
 
 ### Hoofdstuk VIII. Voorkoming dubbele belasting
 
-### Afdeling 4. Voortzetting fiscale eenheid bij zetelverplaatsing
+### Afdeling 3a. Fiscale eenheid met een belang in een tussenmaatschappij
 
-##### Artikel 41. Definitie
+##### Artikel 41. Fiscaal geruisloze voortzetting fiscale eenheid bij beëindiging fiscale eenheid ingevolge [artikel 15, tiende lid, onderdelen d, e, f of g, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&artikel=15)
 
-Vervallen
+1. Ingeval sprake is van een omstandigheid als bedoeld in [artikel 15, tiende lid, onderdelen d, e, f of g, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&artikel=15) en direct aansluitend aan het ontvoegingstijdstip een nieuwe fiscale eenheid tot stand komt, wordt een maatschappij voor de toepassing van de [artikelen 15ab](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&artikel=15ab), [15ae](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&artikel=15ae), [15af](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&artikel=15af), [15ag](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&artikel=15ag), [15ai](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&artikel=15ai) en [15aj van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&artikel=15aj) en [artikel 7b](https://wetten.overheid.nl/jci1.3:c:BWBR0014483&hoofdstuk=II&afdeling=1&artikel=7b&z=2017-02-23&g=2017-01-01) geacht niet te zijn ontvoegd indien:
+
+- a. die maatschappij deel uitmaakt van de aansluitende fiscale eenheid, en
+
+- b. de voorgaande fiscale eenheid ten aanzien van die maatschappij niet zou zijn beëindigd indien de bij die voorafgaande fiscale eenheid of de aansluitende fiscale eenheid betrokken topmaatschappij en de eventueel betrokken tussenmaatschappijen in Nederland zouden zijn gevestigd en als moedermaatschappij, onderscheidenlijk dochtermaatschappij, deel zouden hebben uitgemaakt van de fiscale eenheid.
+
+2. De aansluitende fiscale eenheid, bedoeld in het eerste lid, treedt voor de toepassing van de [artikelen 15ab, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&artikel=15ab), [15ad](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&artikel=15ad), [15ai](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&artikel=15ai), [15aj, zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&artikel=15aj), en [20, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&artikel=20) en [artikel 7b](https://wetten.overheid.nl/jci1.3:c:BWBR0014483&hoofdstuk=II&afdeling=1&artikel=7b&z=2017-02-23&g=2017-01-01) in de plaats van de voorafgaande fiscale eenheid. Bij de toepassing van artikel 15ai van de wet geldt het in de plaats treden niet voor zover afrekening als gevolg van toepassing van de [artikelen 15, tiende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&artikel=15), en [15ai van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&artikel=15ai) heeft plaatsgevonden.
+
+3. Indien bij een voortzetting van de fiscale eenheid als bedoeld in het eerste lid de moedermaatschappij is gewijzigd, kunnen bij een latere ontvoeging uit de aansluitende fiscale eenheid niet meer verliezen van de voorafgaande fiscale eenheid achterblijven bij de nieuwe moedermaatschappij dan mogelijk zou zijn geweest wanneer de moedermaatschappij niet was gewijzigd. Voor de toepassing van de eerste volzin worden de verliezen van de voorafgaande fiscale eenheid geacht bij de moedermaatschappij van die fiscale eenheid te zijn opgekomen, tenzij op het moment van voortzetting van de fiscale eenheid met overeenkomstige toepassing van [artikel 15af van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&artikel=15af) aannemelijk wordt gemaakt dat de verliezen aan een andere maatschappij zijn toe te rekenen.
+
+4. Indien bij een voortzetting van de fiscale eenheid als bedoeld in het eerste lid tevens een maatschappij van de aansluitende fiscale eenheid deel gaat uitmaken die geen deel uitmaakte van de voorafgaande fiscale eenheid, worden voor de toepassing van [artikel 15ae van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&artikel=15ae) de maatschappijen die ook deel uitmaakten van de voorafgaande fiscale eenheid als bestaande fiscale eenheid beschouwd.
+
+5. Het eerste tot en met vierde lid zijn van overeenkomstige toepassing indien een fiscale eenheid als bedoeld in [artikel 15, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&artikel=15) eindigt als gevolg van een ontvoeging van de moedermaatschappij en direct aansluitend aan het ontvoegingstijdstip een nieuwe fiscale eenheid als bedoeld in artikel 15, tweede lid, van de wet tot stand komt tussen twee of meer dochtermaatschappijen van die fiscale eenheid waarbij de ontvoegde moedermaatschappij als topmaatschappij fungeert.
 
 ##### Artikel 42. Delegatiebevoegdheid inzake voorrangsregeling buitenlandse bronbelasting
 
 Bij ministeriële regeling worden nadere regels gesteld over de toedeling van de winst van een fiscale eenheid en te verrekenen buitenlandse belasting in het kader van het verlenen van verminderingen ter voorkoming van dubbele belasting in situaties waarin dit hoofdstuk van toepassing is.
 
-### Afdeling 1. Algemene bepalingen
+### Afdeling 4. Voortzetting fiscale eenheid bij zetelverplaatsing
 
 ##### Artikel 43. Doorgeschoven en in te halen buitenlandse winst van vóór het voegingstijdstip
 
@@ -514,7 +526,7 @@ Vervallen
 
 2. Van de ter verrekening voortgewentelde belasting wordt ten hoogste in aanmerking genomen het bedrag dat tot de belasting die over de winst van de fiscale eenheid zou zijn verschuldigd zonder de voortwenteling in dezelfde verhouding staat als het bedrag van de bij de verrekening van in dat jaar vanwege een andere Mogendheid geheven belasting in aanmerking te nemen inkomsten, verminderd met de daarop drukkende kosten, die zijn begrepen in, en ten hoogste tot het bedrag van, het aan die maatschappij toe te rekenen belastbare bedrag van de fiscale eenheid, staat tot het belastbare bedrag van de fiscale eenheid.
 
-3. [Artikel 15ah van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&artikel=15ah) en [artikel 12 van dit besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0014483&hoofdstuk=II&afdeling=3&artikel=12&z=2014-02-24&g=2014-02-24) zijn van overeenkomstige toepassing.
+3. [Artikel 15ah van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&artikel=15ah) en [artikel 12 van dit besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0014483&hoofdstuk=II&afdeling=3&artikel=12&z=2014-02-24&g=2017-01-01) zijn van overeenkomstige toepassing.
 
 4. Voor de toepassing van het tweede lid worden vermogensbestanddelen uit hoofde waarvan inkomsten als bedoeld in het eerste lid worden ontvangen, die binnen de fiscale eenheid zijn overgedragen, toegerekend aan de maatschappij van wier vermogen die vermogensbestanddelen op het voegingstijdstip deel uitmaakten.
 
@@ -574,13 +586,13 @@ Indien tot het vermogen van een ontvoegde dochtermaatschappij een immaterieel ac
 
 - b. de verkrijgende rechtspersoon en een belastingplichtige waarin de verdwijnende onderscheidenlijk splitsende rechtspersoon een onmiddellijk of middellijk aandelenbezit heeft dat bij de fusie onderscheidenlijk splitsing is overgegaan naar de verkrijgende rechtspersoon.
 
-2. Het eerste lid is slechts van toepassing indien de verdwijnende of splitsende rechtspersoon en de belastingplichtigen, bedoeld in onderdeel a van dat lid, of de belastingplichtige, bedoeld in onderdeel b van dat lid, bij de aanvang van het boekjaar, bedoeld in dat lid, deel uitmaakten van dezelfde fiscale eenheid en het ontvoegingstijdstip met betrekking tot die fiscale eenheid met toepassing van [artikel 14, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014483&hoofdstuk=II&afdeling=4&artikel=14&z=2014-02-24&g=2014-02-24), wordt gesteld op de aanvang van dat boekjaar.
+2. Het eerste lid is slechts van toepassing indien de verdwijnende of splitsende rechtspersoon en de belastingplichtigen, bedoeld in onderdeel a van dat lid, of de belastingplichtige, bedoeld in onderdeel b van dat lid, bij de aanvang van het boekjaar, bedoeld in dat lid, deel uitmaakten van dezelfde fiscale eenheid en het ontvoegingstijdstip met betrekking tot die fiscale eenheid met toepassing van [artikel 14, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014483&hoofdstuk=II&afdeling=4&artikel=14&z=2014-02-24&g=2017-01-01), wordt gesteld op de aanvang van dat boekjaar.
 
 3. Voor de toepassing van [artikel 15, eerste en tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&artikel=15) wordt vanaf de aanvang van het boekjaar waarin een juridische fusie of splitsing plaatsvindt een onmiddellijk of middellijk bezit van de verdwijnende onderscheidenlijk splitsende rechtspersoon van aandelen in een andere belastingplichtige, aangemerkt als bezit van de verkrijgende rechtspersoon die door de juridische fusie of splitsing het onmiddellijke of middellijke bezit van de desbetreffende aandelen heeft verkregen.
 
 4. Het derde lid is slechts van toepassing indien:
 
-- a. bij de aanvang van het in het derde lid bedoelde boekjaar de verdwijnende onderscheidenlijk splitsende rechtspersoon en de in dat lid bedoelde andere belastingplichtige deel uitmaakten van dezelfde fiscale eenheid en het ontvoegingstijdstip met betrekking tot die fiscale eenheid met toepassing van [artikel 14, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014483&hoofdstuk=II&afdeling=4&artikel=14&z=2014-02-24&g=2014-02-24), wordt gesteld op de aanvang van dat boekjaar;
+- a. bij de aanvang van het in het derde lid bedoelde boekjaar de verdwijnende onderscheidenlijk splitsende rechtspersoon en de in dat lid bedoelde andere belastingplichtige deel uitmaakten van dezelfde fiscale eenheid en het ontvoegingstijdstip met betrekking tot die fiscale eenheid met toepassing van [artikel 14, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014483&hoofdstuk=II&afdeling=4&artikel=14&z=2014-02-24&g=2017-01-01), wordt gesteld op de aanvang van dat boekjaar;
 
 - b. de verkrijgende rechtspersoon bij de aanvang van dat boekjaar een bestaand lichaam is;
 
@@ -616,7 +628,7 @@ Indien tot het vermogen van een ontvoegde dochtermaatschappij een immaterieel ac
 
 ### Hoofdstuk VIII. Voorkoming dubbele belasting
 
-### Afdeling 2. Buitenlandse resultaten van vóór het voegingstijdstip
+### Afdeling 6. Voortzetting fiscale eenheid in andere situaties dan zetelverplaatsing
 
 ### Afdeling 3. Buitenlandse resultaten van vóór het ontvoegingstijdstip
 
@@ -636,7 +648,7 @@ Bij ministeriële regeling worden nadere regels gesteld over de toedeling van vo
 
 2. Het in het eerste lid bedoelde bedrag is het bedrag dat tot de volgens [Hoofdstuk V van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&hoofdstuk=V) berekende belasting van de fiscale eenheid in dezelfde verhouding staat als het bedrag van de gezamenlijke gebruteerde voordelen nadat het is verminderd met de bij de winstbepaling van het jaar in aftrek gekomen kosten ter zake van de laagbelaste beleggingsdeelnemingen, die zijn begrepen in, en ten hoogste tot het bedrag van, het aan die maatschappij toe te rekenen belastbare bedrag van de fiscale eenheid, staat tot het belastbare bedrag van de fiscale eenheid.
 
-3. [Artikel 15ah van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&artikel=15ah) en [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0014483&hoofdstuk=II&afdeling=3&artikel=12&z=2014-02-24&g=2014-02-24) van dit besluit zijn van overeenkomstige toepassing.
+3. [Artikel 15ah van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&artikel=15ah) en [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0014483&hoofdstuk=II&afdeling=3&artikel=12&z=2014-02-24&g=2017-01-01) van dit besluit zijn van overeenkomstige toepassing.
 
 4. Voor de toepassing van het tweede lid wordt een laagbelaste beleggingsdeelneming die geheel of gedeeltelijk binnen de fiscale eenheid is overgedragen, toegerekend aan de maatschappij van wier vermogen die deelneming op het voegingstijdstip deel uitmaakte.
 
@@ -654,7 +666,7 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 ##### Artikel 48d. Verrekening bij buitenlandse ondernemingswinsten
 
-Bij de toepassing van [artikel 23d van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&artikel=23d) bij een maatschappij die wordt gevoegd of ontvoegd zijn de [artikelen 48a](https://wetten.overheid.nl/jci1.3:c:BWBR0014483&hoofdstuk=VIIIA&artikel=48a&z=2014-02-24&g=2014-02-24), [48b](https://wetten.overheid.nl/jci1.3:c:BWBR0014483&hoofdstuk=VIIIA&artikel=48b&z=2014-02-24&g=2014-02-24) en [48c](https://wetten.overheid.nl/jci1.3:c:BWBR0014483&hoofdstuk=VIIIA&artikel=48c&z=2014-02-24&g=2014-02-24) van overeenkomstige toepassing. Hierbij wordt voor de overeenkomstige toepassing van [artikel 48b, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014483&hoofdstuk=VIIIA&artikel=48b&z=2014-02-24&g=2014-02-24), uitgegaan van het gezamenlijke bedrag aan winst uit buitenlandse onderneming waarop ingevolge [artikel 15e, zevende lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&artikel=15e) de objectvrijstelling voor buitenlandse ondernemingswinsten geen toepassing vindt.
+Bij de toepassing van [artikel 23d van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&artikel=23d) bij een maatschappij die wordt gevoegd of ontvoegd zijn de [artikelen 48a](https://wetten.overheid.nl/jci1.3:c:BWBR0014483&hoofdstuk=VIIIA&artikel=48a&z=2014-02-24&g=2017-01-01), [48b](https://wetten.overheid.nl/jci1.3:c:BWBR0014483&hoofdstuk=VIIIA&artikel=48b&z=2014-02-24&g=2017-01-01) en [48c](https://wetten.overheid.nl/jci1.3:c:BWBR0014483&hoofdstuk=VIIIA&artikel=48c&z=2014-02-24&g=2017-01-01) van overeenkomstige toepassing. Hierbij wordt voor de overeenkomstige toepassing van [artikel 48b, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014483&hoofdstuk=VIIIA&artikel=48b&z=2014-02-24&g=2017-01-01), uitgegaan van het gezamenlijke bedrag aan winst uit buitenlandse onderneming waarop ingevolge [artikel 15e, zevende lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&artikel=15e) de objectvrijstelling voor buitenlandse ondernemingswinsten geen toepassing vindt.
 
 ### Hoofdstuk IX. Slotbepalingen
 
@@ -664,13 +676,13 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 ##### Artikel 48e. Overgangsrecht in verband met invoering objectvrijstelling voor buitenlandse ondernemingswinsten per 1 januari 2012
 
-1. Bij de toepassing van [artikel 33b, vijfde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&artikel=33b), blijft [artikel 35, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014483&hoofdstuk=VII&afdeling=3&artikel=35&z=2014-02-24&g=2014-02-24), zoals dat luidde op 31 december 2011, van toepassing.
+1. Bij de toepassing van [artikel 33b, vijfde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&artikel=33b), blijft [artikel 35, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014483&hoofdstuk=VII&afdeling=3&artikel=35&z=2014-02-24&g=2017-01-01), zoals dat luidde op 31 december 2011, van toepassing.
 
-2. [Artikel 46](https://wetten.overheid.nl/jci1.3:c:BWBR0014483&hoofdstuk=VIII&artikel=46&z=2014-02-24&g=2014-02-24), zoals dat luidde op 31 december 2011, blijft van toepassing voor zover, in geval van ontvoeging van een maatschappij, ingevolge voorschriften ter voorkoming van dubbele belasting naar een volgend jaar over te brengen positieve of negatieve buitenlandse winsten van de fiscale eenheid aanwezig zijn.
+2. [Artikel 46](https://wetten.overheid.nl/jci1.3:c:BWBR0014483&hoofdstuk=VIII&artikel=46&z=2014-02-24&g=2017-01-01), zoals dat luidde op 31 december 2011, blijft van toepassing voor zover, in geval van ontvoeging van een maatschappij, ingevolge voorschriften ter voorkoming van dubbele belasting naar een volgend jaar over te brengen positieve of negatieve buitenlandse winsten van de fiscale eenheid aanwezig zijn.
 
-3. [Artikel 48](https://wetten.overheid.nl/jci1.3:c:BWBR0014483&hoofdstuk=VIII&artikel=48&z=2014-02-24&g=2014-02-24), zoals dat luidde op 31 december 2011, blijft van toepassing voor zover, in geval van ontvoeging van een maatschappij, ingevolge voorschriften ter voorkoming van dubbele belasting naar een volgend jaar over te brengen negatieve passieve winst uit buitenlandse onderneming aanwezig is.
+3. [Artikel 48](https://wetten.overheid.nl/jci1.3:c:BWBR0014483&hoofdstuk=VIII&artikel=48&z=2014-02-24&g=2017-01-01), zoals dat luidde op 31 december 2011, blijft van toepassing voor zover, in geval van ontvoeging van een maatschappij, ingevolge voorschriften ter voorkoming van dubbele belasting naar een volgend jaar over te brengen negatieve passieve winst uit buitenlandse onderneming aanwezig is.
 
-4. Bij de toepassing van het tweede of derde lid blijft [artikel 41](https://wetten.overheid.nl/jci1.3:c:BWBR0014483&hoofdstuk=VIII&artikel=41&z=2014-02-24&g=2014-02-24), zoals dat luidde op 31 december 2011, van toepassing.
+4. Bij de toepassing van het tweede of derde lid blijft [artikel 41](https://wetten.overheid.nl/jci1.3:c:BWBR0014483&hoofdstuk=VIII&artikel=41&z=2014-02-24&g=2017-01-01), zoals dat luidde op 31 december 2011, van toepassing.
 
 ### Hoofdstuk IX. Slotbepalingen
 
@@ -680,7 +692,7 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 ##### Artikel 7b. Voeging wegens stakingsverlies
 
-Indien bij voeging van een maatschappij met activiteiten in een andere staat aannemelijk is dat op of voor het voegingstijdstip is besloten de activiteiten in die andere staat te staken, komt het bij de fiscale eenheid in aanmerking te nemen stakingsverlies, bedoeld in de [artikelen 15i](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&artikel=15j) en [15j van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&artikel=15j), slechts in aftrek tot het bedrag van de aan die maatschappij, zonder rekening te houden met het stakingsverlies, toe te rekenen positieve winst. [Artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0014483&hoofdstuk=II&afdeling=3&artikel=12&z=2014-02-24&g=2014-02-24) is van overeenkomstige toepassing.
+Indien bij voeging van een maatschappij met activiteiten in een andere staat aannemelijk is dat op of voor het voegingstijdstip is besloten de activiteiten in die andere staat te staken, komt het bij de fiscale eenheid in aanmerking te nemen stakingsverlies, bedoeld in de [artikelen 15i](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&artikel=15j) en [15j van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&artikel=15j), slechts in aftrek tot het bedrag van de aan die maatschappij, zonder rekening te houden met het stakingsverlies, toe te rekenen positieve winst. [Artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0014483&hoofdstuk=II&afdeling=3&artikel=12&z=2014-02-24&g=2017-01-01) is van overeenkomstige toepassing.
 
 ### Afdeling 2. Bepalingen tijdens de fiscale eenheid
 
@@ -712,6 +724,44 @@ Indien bij voeging van een maatschappij met activiteiten in een andere staat aan
 
 ### Hoofdstuk VIIIA. Deelnemingsverrekening en verrekening bij buitenlandse ondernemingswinsten
 
+### Hoofdstuk VIIIA. Deelnemingsverrekening en verrekening bij buitenlandse ondernemingswinsten
+
+Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
+
+##### Artikel 38. Belang in tussenmaatschappij waarop de deelnemingsvrijstelling van toepassing is
+
+1. Voor de toepassing van [artikel 13d van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&artikel=13d) met betrekking tot een deelneming in een tussenmaatschappij van een fiscale eenheid waarvan ook de belastingplichtige deel uitmaakt of een deelneming die voorheen als zodanig kwalificeerde, wordt de in de jaren, bedoeld in artikel 13d, derde lid, van de wet, aan een maatschappij waarin die tussenmaatschappij onmiddellijk of middellijk een belang had toe te rekenen winst van de fiscale eenheid geacht mede als positief voordeel uit hoofde van de deelneming te zijn genoten, indien deze winst per saldo uitkomt op een positief bedrag. De vorige volzin is niet van toepassing voor zover de belastingplichtige aannemelijk maakt dat hij deze winst niet feitelijk op enigerlei wijze direct of indirect als positief voordeel uit hoofde van de deelneming heeft genoten in de jaren, bedoeld in artikel 13d, derde lid, van de wet. Bij de toepassing van de eerste volzin is [artikel 15ah van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&artikel=15ah) van overeenkomstige toepassing.
+
+2. Voor de toepassing van [artikel 13d van de we](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&artikel=13d)t met betrekking tot een deelneming als bedoeld in het eerste lid is [artikel 35, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014483&hoofdstuk=VII&afdeling=3&artikel=35&z=2017-02-23&g=2017-01-01), van overeenkomstige toepassing.
+
+##### Artikel 38a. Belang in tussenmaatschappij waarop de deelnemingsvrijstelling niet van toepassing is
+
+1. Indien een belastingplichtige waarin een belang wordt gehouden door een tussenmaatschappij als dochtermaatschappij deel gaat uitmaken van een fiscale eenheid en het belang van een tot die fiscale eenheid behorende maatschappij in die tussenmaatschappij een beleggingsdeelneming niet zijnde een kwalificerende beleggingsdeelneming betreft, stelt de belastingplichtige op het tijdstip onmiddellijk voorafgaand aan het tijdstip waarop de fiscale eenheid ten aanzien van die belastingplichtige tot stand komt, naar rato van het in die belastingplichtige door die tussenmaatschappij gehouden belang, zijn activa en passiva te boek op de waarde in het economische verkeer en voegt hij de door hem gevormde fiscale reserves toe aan de winst.
+
+2. Op gezamenlijk verzoek van de moedermaatschappij en de dochtermaatschappij blijft het eerste lid buiten aanmerking.
+
+3. Voor de toepassing van [artikel 13aa van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&artikel=13aa) worden positieve voordelen uit hoofde van het belang in de tussenmaatschappij, bedoeld in het eerste lid, bij de bepaling van de winst van de fiscale eenheid niet in aanmerking genomen, voor zover aannemelijk is dat deze samenhangen met of voortvloeien uit aan een dochtermaatschappij, waarin die tussenmaatschappij een belang heeft, toe te rekenen winst van de fiscale eenheid. Indien ten aanzien van de dochtermaatschappij een verzoek is gedaan als bedoeld in het tweede lid, blijft de eerste volzin buiten toepassing tot het bedrag dat ingevolge dat verzoek niet in de heffing is betrokken.
+
+4. Voor de toepassing van [artikel 13aa van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&artikel=13aa) worden negatieve voordelen uit hoofde van het belang in de tussenmaatschappij, bedoeld in het eerste lid, met inachtneming van het zesde lid van dat artikel, bij de bepaling van de winst van de fiscale eenheid slechts in aanmerking genomen voor zover aannemelijk is dat deze samenhangen met of voortvloeien uit andere werkzaamheden of ander vermogen dan de werkzaamheden, onderscheidenlijk het vermogen, van een dochtermaatschappij waarin die tussenmaatschappij een belang heeft.
+
+5. Indien op het ontvoegingstijdstip van een dochtermaatschappij de waarde in het economische verkeer van het belang in de tussenmaatschappij, bedoeld in het eerste lid, die een belang in die dochtermaatschappij houdt, lager is dan de boekwaarde van dat belang, wordt dat belang op het onmiddellijk daaraan voorafgaande tijdstip teboekgesteld op de waarde in het economische verkeer.
+
+6. Voor de toepassing van het derde lid wordt de aan de dochtermaatschappij toe te rekenen winst van de fiscale eenheid berekend alsof zij geen deel uitmaakt van de fiscale eenheid, waarbij winsten en verliezen van voor het voegingstijdstip buiten aanmerking blijven.
+
+### Hoofdstuk VIII. Voorkoming dubbele belasting
+
+##### Artikel 41. Definitie
+
+Vervallen
+
 ### Hoofdstuk VIIIB. Overgangsrecht ten gevolge van wijzigingsbesluiten
+
+### Hoofdstuk VIIIC. Overgangsrecht ten gevolge van overgangsbepalingen in de [wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002672)
+
+##### Artikel 48f. Overgangsrecht innovatiebox
+
+Bij de toepassing van [artikel 34d van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&artikel=34d) zijn de [artikelen 7a](https://wetten.overheid.nl/jci1.3:c:BWBR0014483&hoofdstuk=II&afdeling=1&artikel=7a&z=2017-02-23&g=2017-01-01) en [16a](https://wetten.overheid.nl/jci1.3:c:BWBR0014483&hoofdstuk=II&afdeling=4&artikel=16a&z=2017-02-23&g=2017-01-01) van overeenkomstige toepassing.
+
+### Hoofdstuk IX. Slotbepalingen
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
