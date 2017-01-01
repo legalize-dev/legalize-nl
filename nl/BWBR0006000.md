@@ -4,7 +4,7 @@ identifier: "BWBR0006000"
 country: "nl"
 rank: "wet"
 publication_date: "2025-07-01"
-last_updated: "2014-06-13"
+last_updated: "2017-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0006000"
 soort: "wet"
@@ -44,45 +44,23 @@ entry_into_force: "1997-01-01"
 
 ##### Artikel 1576
 
-1. Koop en verkoop op afbetaling is de koop en verkoop, waarbij partijen overeenkomen dat de koopprijs wordt betaald in termijnen, waarvan twee of meer verschijnen, nadat de verkochte zaak aan de koper is afgeleverd.
-
-2. De overeenkomst is niet van kracht voordat partijen de door de koper te betalen prijs hebben bepaald.
-
-3. Alle overeenkomsten, welke dezelfde strekking hebben, onder welke vorm of welke benaming ook aangegaan, worden als koop en verkoop op afbetaling aangemerkt.
-
-4. Koop en verkoop op afbetaling in de zin der wet zijn niet de overeenkomsten welke betrekking hebben op:
-
-- a. onroerende zaken,
-
-- b. zeeschepen waarvan de bruto-inhoud tenminste twintig kubieke meters of de bruto-tonnage tenminste 6 bedraagt, die te boek staan of die te boek gesteld kunnen worden in de openbare registers, bedoeld in [afdeling 2 van titel 1 van Boek 3](https://wetten.overheid.nl/jci1.3:c:BWBR0005291&afdeling=2),
-
-- c. binnenschepen die te boek staan of die te boek gesteld moeten worden doch niet te boek staan in de openbare registers, bedoeld in [afdeling 2 van titel 1 van Boek 3](https://wetten.overheid.nl/jci1.3:c:BWBR0005291&afdeling=2),
-
-- d. luchtvaartuigen die te boek staan in de openbare registers, bedoeld in [afdeling 2 van titel 1 van Boek 3](https://wetten.overheid.nl/jci1.3:c:BWBR0005291&afdeling=2).
-
-5. Het in deze titel bepaalde vindt overeenkomstige toepassing op vermogensrechten, niet zijnde registergoederen, voor zover dat in overeenstemming is met de aard van het recht.
+Vervallen
 
 ##### Artikel 1576a
 
-Van de bepalingen van deze titel mag slechts worden afgeweken, indien en voor zoover dit daaruit blijkt.
+Vervallen
 
 ##### Artikel 1576b
 
-1. Bedingen, waarbij of krachtens welke den schuldenaar, voor het geval hij eenige verplichting uit de overeenkomst niet vervult, de betaling van zekere som als schadevergoeding of eenige straf wordt of kan worden opgelegd, kunnen alleen bij schriftelijk aangegane overeenkomst worden gemaakt.
-
-2. Indien de overeengekomen of opgelegde schadevergoeding of straf den rechter bovenmatig voorkomt, kan deze haar, ten aanzien van het hem voorgelegde geval, verminderen of opheffen.
+Vervallen
 
 ##### Artikel 1576c
 
-1. Vervroegde opeischbaarheid, als straf wegens nalatigheid van den kooper in het betalen van termijnen, kan alleen bedongen worden voor het geval de achterstand bedraagt, ten aanzien van één termijn tenminste een tiende, of ten aanzien van meer termijnen gezamenlijk tenminste een twintigste deel van den geheelen koopprijs.
-
-2. Onder geheelen koopprijs wordt verstaan de som van alle betalingen, waartoe de kooper bij regelmatige nakoming van de overeenkomst gehouden is.
-
-3. Het [tweede lid van artikel 1576b](https://wetten.overheid.nl/jci1.3:c:BWBR0006000&boek=7a&titeldeel=Vijfde_A&afdeling=1&artikel=1576b&z=2014-06-13&g=2014-06-13) is hier niet van toepassing.
+Vervallen
 
 ##### Artikel 1576d
 
-Op eenig beding, als bedoeld in de voorafgaande twee artikelen, kan wegens niet tijdige nakoming beroep alleen worden gedaan, indien de schuldenaar, na in gebreke te zijn gesteld, nalatig blijft om zijne verplichtingen na te komen.
+Vervallen
 
 ##### Artikel 1576e
 
@@ -90,119 +68,73 @@ Vervallen
 
 ##### Artikel 1576f
 
-1. Overdracht, inpandgeving of elke andere handeling, waardoor de kooper aan den verkooper of aan een derde eenig recht toekent op zijn loon, pensioen of andere periodieke inkomsten wegens arbeidsovereenkomst, kan ter zake van koop en verkoop op afbetaling, behalve voor opeischbare verplichtingen, alleen geschieden voor betalingen, waartoe de kooper bij regelmatige nakoming van de overeenkomst zal gehouden zijn, en voor de kosten.
-
-2. De handeling heeft alsdan geene werking dan naar gelang bedoelde termijnen verschijnen overeenkomstig een bij schriftelijke overeenkomst vastgelegd plan van regelmatige afbetaling of naar gelang er kosten vallen, telkens tot het beloop daarvan.
-
-3. Bovendien is vereischt, dat de kooper, na in gebreke te zijn gesteld, nalatig is gebleven. Alleen de termijnen en kosten, waarover de ingebrekestelling is geschied, en die, welke daarna verschijnen, komen in aanmerking bij het bepalen van bedoelde werking.
-
-4. Ten aanzien van hem, die de uitkeering wegens arbeidsovereenkomst verschuldigd is, heeft de handeling geen gevolg, alvorens de ingebrekestelling van den kooper en het plan van regelmatige afbetaling met opgave van hetgeen daarop voldaan is en van de gevorderde kosten schriftelijk te zijner kennis zijn gebracht, dan wel schriftelijk door hem zijn erkend. Betalingen, dienovereenkomstig te goeder trouw door hem gedaan, bevrijden hem tegenover den kooper.
+Vervallen
 
 ##### Artikel 1576g
 
-Volmacht tot invordering van loon, pensioen of andere periodieke vorderingen ter zake van eene arbeidsovereenkomst, onder welken vorm of welke benaming ook, door den kooper verleend, is steeds herroepelijk.
+Vervallen
 
 ### Afdeling 2. Van huurkoop
 
 ##### Artikel 1576h
 
-1. Huurkoop is de koop en verkoop op afbetaling, waarbij partijen overeenkomen, dat de verkochte zaak niet door enkele aflevering in eigendom overgaat, maar pas door vervulling van de opschortende voorwaarde van algehele betaling van wat door de koper uit hoofde van de koopovereenkomst verschuldigd is.
-
-2. Alle overeenkomsten, welke dezelfde strekking hebben, hetzij als huur en verhuur, hetzij onder anderen vorm of andere benaming aangegaan, worden als huurkoop aangemerkt.
-
-3. Onder huurkoop is begrepen de overeenkomst, waarbij ter zake van een koop en verkoop een derde, die den eigendom der zaak verwerft, aan den kooper crediet verleent des dat het geheel van handelingen de strekking van huurkoop erlangt.
+Vervallen
 
 ##### Artikel 1576i
 
-1. Huurkoop wordt aangegaan bij authentieke of onderhandsche akte, welke voldoet aan de bepalingen van [artikel 1576j](https://wetten.overheid.nl/jci1.3:c:BWBR0006000&boek=7a&titeldeel=Vijfde_A&afdeling=2&artikel=1576j&z=2014-06-13&g=2014-06-13).
-
-2. Hetzelfde geldt voor overeenkomsten, welke bestaande overeenkomsten zoodanig wijzigen of aanvullen, dat daardoor huurkoop zou ontstaan.
-
-3. Wordt de overeenkomst aangegaan bij onderhandsche akte, dan moet deze, zoo de kooper dit verlangt, in dubbel worden opgemaakt.
-
-4. Het dubbel, of zoo dit niet is opgemaakt, een authentiek of door den verkooper onderteekend afschrift, wordt zoo spoedig mogelijk na het sluiten van de overeenkomst door den verkooper aan den kooper verstrekt.
-
-5. Verder afschrift kan de kooper te allen tijde tegen betaling van de kosten vorderen.
+Vervallen
 
 ##### Artikel 1576j
 
-1. De akte van huurkoop moet duidelijk vermelden den geheelen koopprijs, als bedoeld in [artikel 1576c](https://wetten.overheid.nl/jci1.3:c:BWBR0006000&boek=7a&titeldeel=Vijfde_A&afdeling=1&artikel=1576c&z=2014-06-13&g=2014-06-13), het plan van regelmatige afbetaling, als bedoeld in [artikel 1576f](https://wetten.overheid.nl/jci1.3:c:BWBR0006000&boek=7a&titeldeel=Vijfde_A&afdeling=1&artikel=1576f&z=2014-06-13&g=2014-06-13), en de bedingen betreffende voorbehoud en overgang van eigendom.
-
-2. In de gevallen, bedoeld in het [tweede en het derde lid van artikel 1576h](https://wetten.overheid.nl/jci1.3:c:BWBR0006000&boek=7a&titeldeel=Vijfde_A&afdeling=2&artikel=1576h&z=2014-06-13&g=2014-06-13), treden de overeenkomstige gegevens hiervoor in de plaats.
-
-3. Ontbreekt eene akte, welke voldoet aan genoemde voorwaarden, dan geldt de overeenkomst niet als huurkoop, doch wordt de koop en verkoop op afbetaling geacht te zijn gesloten zonder beding, dat de verkochte zaak niet door enkele aflevering aan den kooper overgaat.
+Vervallen
 
 ##### Artikel 1576k
 
-Ter zake van huurkoop kan de koper, indien hij bij het aangaan van de overeenkomst werkelijke woonplaats in een gemeente in Nederland heeft, geen woonplaats kiezen, behalve voor het geval dat hij te eniger tijd geen bekende werkelijke woonplaats in die gemeente mocht hebben.
+Vervallen
 
 ##### Artikel 1576l
 
-1. De verkoper is verplicht de verkochte zaak aan de koper te leveren door aan deze de macht over de zaak te verschaffen. Op zijn verdere verplichtingen zijn de bepalingen van de [eerste](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&afdeling=1), [tweede](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&afdeling=2) en [derde afdeling van titel 1 van Boek 7](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&afdeling=3) van toepassing.
-
-2. Vervreemding door den verkooper van de in huurkoop afgeleverde zaak werkt niet ten nadeele van den huurkooper.
+Vervallen
 
 ##### Artikel 1576m
 
-1. De kooper heeft van de zaak, die hij krachtens huurkoop onder zich heeft, het genot, ook voordat hij den eigendom daarvan verkrijgt.
-
-2. Hij mag de zaak gebruiken overeenkomstig hare bestemming.
-
-3. Hare gedaante of inrichting mag hij niet veranderen, noch de zaak verhuren of zijn genot aan anderen afstaan.
-
-4. De zaak is voor risico van de koper van de aflevering af. De [leden 2, 3 en 4 van artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=10), alsmede [artikel 11 van Boek 7](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=11) zijn van toepassing.
-
-5. Van deze bepalingen kan bij overeenkomst worden afgeweken. Van lid 4 kan echter bij een consumentenkoop niet ten nadele van de koper worden afgeweken.
+Vervallen
 
 ##### Artikel 1576n
 
-1. De vruchten, welke de zaak tijdens het genot oplevert, behooren den kooper toe. Voorzoover bij de akte van huurkoop hiervan is afgeweken, heeft de kooper niettemin het genot der vruchten, indien niet anders is overeengekomen.
-
-2. De burgerlijke vruchten worden, voor zoover niet anders is overeengekomen, gerekend van dag tot dag verkregen te worden en den kooper toe te behooren, naarmate zijn genot duurt, welk ook het tijdstip moge wezen, waarop dezelve betaalbaar zijn.
-
-3. De verplichting tot teruggave van de in huurkoop afgeleverde zaak omvat die tot teruggave van de vruchten, welke den verkooper toebehooren.
+Vervallen
 
 ##### Artikel 1576q
 
-Ontbinding van huurkoop, of teruggave van eene in huurkoop gehouden zaak krachtens daartoe gemaakt beding, kan, wegens niet tijdige nakoming door den kooper van zijne verplichtingen, niet worden ingeroepen of gevorderd, tenzij de kooper, na in gebreke te zijn gesteld, nalatig blijft om zijne verplichtingen na te komen.
+Vervallen
 
 ##### Artikel 1576r
 
-Wanneer de verkoper ontbinding van de overeenkomst of teruggave van de in huurkoop afgeleverde zaak kan vorderen, kan de kantonrechter, indien de verkoper zulks verzoekt en daarbij redelijk belang heeft, bij voorlopige voorziening teruggave bij voorraad bevelen.
+Vervallen
 
 ##### Artikel 1576s
 
-Indien, wegens het niet nakomen door den kooper van zijne verplichtingen, de in huurkoop afgeleverde zaak krachtens daartoe gemaakt beding wordt teruggenomen, heeft dit ontbinding van de overeenkomst tot gevolg, tenzij tusschen partijen anders overeengekomen is.
+Vervallen
 
 ##### Artikel 1576t
 
-Indien bij ontbinding van de overeenkomst wegens het niet nakomen door den kooper van zijne verplichtingen de verkooper in beteren vermogenstoestand zou geraken dan bij het in stand blijven van de overeenkomst, vindt volledige verrekening plaats.
+Vervallen
 
 ##### Artikel 1576u
 
-Indien bij ontbinding der overeenkomst de kooper recht mocht hebben op eenige terugbetaling, kan hij door den rechter worden gemachtigd de zaak, die hij terug moet geven, onder zich te houden, totdat het hem verschuldigde wordt betaald of de verkooper daarvoor voldoende zekerheid heeft gesteld.
+Vervallen
 
 ##### Artikel 1576v
 
-1. Indien wegens niet betaling van verschenen termijnen de in huurkoop afgeleverde zaak is teruggenomen zonder voorafgaande rechterlijke tusschenkomst, kan de kooper gedurende veertien dagen na de terugneming de zaak inlossen, door betaling van de verschenen termijnen en de verschuldigde rente, boeten en kosten.
-
-2. Mocht de overeenkomst zijn ontbonden, dan wordt dit door de inlossing ongedaan gemaakt.
-
-3. Bij herhaling van het in het eerste lid genoemde geval heeft de kooper het recht van inlossing alleen onder volledige betaling.
-
-4. Aan de vordering tot inlossing, anders dan onder volledige betaling, behoeft de verkooper niet te voldoen, indien omstandigheden aanwezig zijn, die tot toepassing van [artikel 1576r](https://wetten.overheid.nl/jci1.3:c:BWBR0006000&boek=7a&titeldeel=Vijfde_A&afdeling=2&artikel=1576r&z=2014-06-13&g=2014-06-13) aanleiding zouden geven.
-
-5. Van de bepalingen van dit artikel kan ten voordeele van den kooper door partijen worden afgeweken.
+Vervallen
 
 ##### Artikel 1576w
 
-In het vonnis, waarbij de verplichting tot teruggave van eene in huurkoop afgeleverde zaak wordt vastgesteld of de overeenkomst wordt ontbonden, kan een bevel tot teruggave worden opgenomen.
+Vervallen
 
 ##### Artikel 1576x
 
-1. Bij het vonnis, dat bevel tot teruggave uit kracht van huurkoop inhoudt, kan de geldswaarde der terug te geven zaak worden vastgesteld.
-
-2. In dat geval kan de tenuitvoerlegging ook door uitwinning geschieden.
+Vervallen
 
 ## titel Zevende. Van huur en verhuur
 
@@ -1002,7 +934,7 @@ De maatschap begint van het oogenblik der overeenkomst, indien daarbij geen ande
 
 1. De inbreng van de vennoot kan bestaan in geld, goederen, genot van goederen en arbeid.
 
-2. Op de inbreng van een goed zijn de bepalingen omtrent koop, op de inbreng van genot van een goed de [artikelen 1584-1623](https://wetten.overheid.nl/jci1.3:c:BWBR0006000&boek=7a&titeldeel=Zevende&afdeling=Eerste&artikel=1584&z=2014-06-13&g=2014-06-13) van overeenkomstige toepassing, voor zover de aard van de rechtsverhouding zich daartegen niet verzet.
+2. Op de inbreng van een goed zijn de bepalingen omtrent koop, op de inbreng van genot van een goed de [artikelen 1584-1623](https://wetten.overheid.nl/jci1.3:c:BWBR0006000&boek=7a&titeldeel=Zevende&afdeling=Eerste&artikel=1584&z=2017-01-01&g=2017-01-01) van overeenkomstige toepassing, voor zover de aard van de rechtsverhouding zich daartegen niet verzet.
 
 ##### Artikel 1665
 
@@ -1284,59 +1216,57 @@ Indien de ter leen gegevene zaak zoodanige gebreken heeft, dat daardoor aan deng
 
 ##### Artikel 1791
 
-Verbruikleening is eene overeenkomst, waarbij de eene partij aan de andere eene zekere hoeveelheid van verbruikbare goederen afgeeft, onder voorwaarde dat de laatstgemelde haar even zoo veel, van gelijke soort en hoedanigheid, terug geve.
+Vervallen
 
 ##### Artikel 1792
 
-Uit krachte dezer verbruikleening, wordt degene die ter leen ontvangt rechthebbende op het geleende goed; en indien hetzelve, op welke wijze ook, vergaat, komt dat verlies voor zijne rekening.
+Vervallen
 
 ##### Artikel 1793
 
-De schuld, uit leening van geld voortspruitende, bestaat alleen in de geldsom die bij de overeenkomst is uitgedrukt.
+Vervallen
 
 ### afdeeling Tweede. Van de verpligtingen des uitleeners
 
 ##### Artikel 1796
 
-De uitleener kan het ter leen gegevene niet terug eischen, voordat de tijd, bij de overeenkomst bepaald, verstreken is.
+Vervallen
 
 ##### Artikel 1797
 
-Geene tijdsbepaling gemaakt zijnde, kan de regter, wanneer de uitleener de teruggave vordert, naar gelang der omstandigheden, aan dengenen die het goed ter leen ontvangen heeft, eenig uitstel toestaan.
+Vervallen
 
 ##### Artikel 1798
 
-Indien men is overeengekomen dat hij die een goed ter leen heeft ontvangen dit zal terug geven, wanneer hij daartoe in staat zal zijn, zal de regter, naar gelang der omstandigheden, den tijd der teruggave bepalen.
+Vervallen
 
 ##### Artikel 1799
 
-De bepaling van [artikel 1790](https://wetten.overheid.nl/jci1.3:c:BWBR0006000&boek=7a&titeldeel=Dertiende&afdeling=Derde&artikel=1790&z=2014-06-13&g=2014-06-13) is op verbruikleening toepasselijk.
+Vervallen
 
 ### afdeeling Derde. Van de verpligtingen des leeners
 
 ##### Artikel 1800
 
-Die iets ter leen ontvangt is verpligt hetzelve, in gelijke hoeveelheid en hoedanigheid, en op den bepaalden tijd, terug te geven.
+Vervallen
 
 ##### Artikel 1801
 
-1. Indien hij zich in de onmogelijkheid bevindt om hieraan te voldoen, is hij gehouden de waarde van het geleende te betalen, waarbij zal moeten in aanmerking genomen worden de tijd en de plaats, waarop het goed, ten gevolge der overeenkomst, had moeten worden terug gegeven.
-
-2. Indien deze tijd en plaats niet bepaald zijn, moet de voldoening geschieden overeenkomstig de waarde welke het geleende goed, ten tijde waarop en ter plaatse alwaar de leening geschied is, gehad heeft.
+Vervallen
 
 ### afdeeling Vierde. Van het ter leen geven op interessen
 
 ##### Artikel 1804
 
-De hoegrootheid der bij overeenkomst bedongene rente moet in geschrift worden bepaald.
+Vervallen
 
 ##### Artikel 1805
 
-Indien de uitleener rente bedongen heeft, zonder dat het beloop daarvan bepaald zij, is degene die ter leen ontvangen heeft gehouden het beloop der wettelijke rente te voldoen.
+Vervallen
 
 ##### Artikel 1806
 
-Het bewijs van de betaling der hoofdsom zonder voorbehoud van rente gegeven zijnde, doet de voldoening der rente vooronderstellen, en de schuldenaar wordt daarvan bevrijd.
+Vervallen
 
 ## titel Vijftiende. Van gevestigde of altijddurende renten
 
