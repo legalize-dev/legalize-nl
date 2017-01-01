@@ -4,7 +4,7 @@ identifier: "BWBR0037468"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2020-07-01"
-last_updated: "2016-04-01"
+last_updated: "2017-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0037468"
 soort: "ministeriele-regeling"
@@ -116,8 +116,6 @@ Wijzigt de Uitvoeringsregeling belastingen op milieugrondslag.
 
 Wijzigt de Uitvoeringsregeling belastingen op milieugrondslag.
 
-Dit onderdeel is nog niet inwerking getreden
-
 ##### Artikel XXI
 
 Wijzigt de Uitvoeringsregeling Algemene wet inzake rijksbelastingen 1994.
@@ -146,21 +144,21 @@ Wijzigt de Uitvoeringsregeling Belastingwet BES.
 
 Deze regeling treedt in werking met ingang van 1 januari 2016, met dien verstande dat:
 
-- a. [artikel II, onderdeel A, onder 2](https://wetten.overheid.nl/jci1.3:c:BWBR0037468&artikel=II&z=2016-04-01&g=2016-04-01), terugwerkt tot en met 1 januari 2013;
+- a. [artikel II, onderdeel A, onder 2](https://wetten.overheid.nl/jci1.3:c:BWBR0037468&artikel=II&z=2017-01-01&g=2017-01-01), terugwerkt tot en met 1 januari 2013;
 
-- b. [artikel I, onderdeel C](https://wetten.overheid.nl/jci1.3:c:BWBR0037468&artikel=I&z=2016-04-01&g=2016-04-01), terugwerkt tot en met 1 januari 2015;
+- b. [artikel I, onderdeel C](https://wetten.overheid.nl/jci1.3:c:BWBR0037468&artikel=I&z=2017-01-01&g=2017-01-01), terugwerkt tot en met 1 januari 2015;
 
-- c. [artikel I, onderdeel D](https://wetten.overheid.nl/jci1.3:c:BWBR0037468&artikel=I&z=2016-04-01&g=2016-04-01), terugwerkt tot en met 1 april 2015;
+- c. [artikel I, onderdeel D](https://wetten.overheid.nl/jci1.3:c:BWBR0037468&artikel=I&z=2017-01-01&g=2017-01-01), terugwerkt tot en met 1 april 2015;
 
-- d. [artikel VII](https://wetten.overheid.nl/jci1.3:c:BWBR0037468&artikel=VI&z=2016-04-01&g=2016-04-01) terugwerkt tot en met 12 juni 2015 en voor het eerst toepassing vindt met betrekking tot boekjaren die aanvangen op of na 1 januari 2016;
+- d. [artikel VII](https://wetten.overheid.nl/jci1.3:c:BWBR0037468&artikel=VI&z=2017-01-01&g=2017-01-01) terugwerkt tot en met 12 juni 2015 en voor het eerst toepassing vindt met betrekking tot boekjaren die aanvangen op of na 1 januari 2016;
 
-- e. [artikel XXIV, onderdeel A, onder 1 tot en met 5](https://wetten.overheid.nl/jci1.3:c:BWBR0037468&artikel=XXIV&z=2016-04-01&g=2016-04-01), terugwerkt tot en met 15 september 2015, 15.15 uur;
+- e. [artikel XXIV, onderdeel A, onder 1 tot en met 5](https://wetten.overheid.nl/jci1.3:c:BWBR0037468&artikel=XXIV&z=2017-01-01&g=2017-01-01), terugwerkt tot en met 15 september 2015, 15.15 uur;
 
-- f. [artikel XXIV, onderdeel A, onder 6](https://wetten.overheid.nl/jci1.3:c:BWBR0037468&artikel=XXIV&z=2016-04-01&g=2016-04-01), terugwerkt tot en met 29 oktober 2015, 23.15 uur;
+- f. [artikel XXIV, onderdeel A, onder 6](https://wetten.overheid.nl/jci1.3:c:BWBR0037468&artikel=XXIV&z=2017-01-01&g=2017-01-01), terugwerkt tot en met 29 oktober 2015, 23.15 uur;
 
-- g. [artikel IV, onderdeel E, onder 2](https://wetten.overheid.nl/jci1.3:c:BWBR0037468&artikel=IV&z=2016-04-01&g=2016-04-01), terugwerkt tot en met de datum waarop de Uitkeringsregeling Backpay in werking treedt indien dat eerder is dan 1 januari 2016;
+- g. [artikel IV, onderdeel E, onder 2](https://wetten.overheid.nl/jci1.3:c:BWBR0037468&artikel=IV&z=2017-01-01&g=2017-01-01), terugwerkt tot en met de datum waarop de Uitkeringsregeling Backpay in werking treedt indien dat eerder is dan 1 januari 2016;
 
-- h. [artikel VIII](https://wetten.overheid.nl/jci1.3:c:BWBR0037468&artikel=VIII&z=2016-04-01&g=2016-04-01) voor het eerst toepassing vindt met betrekking tot boekjaren die aanvangen op of na 1 januari 2016.
+- h. [artikel VIII](https://wetten.overheid.nl/jci1.3:c:BWBR0037468&artikel=VIII&z=2017-01-01&g=2017-01-01) voor het eerst toepassing vindt met betrekking tot boekjaren die aanvangen op of na 1 januari 2016.
 
 Handelende wat de [artikelen 3.13](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.13) en [3.22 van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.22) betreft in overeenstemming met de Minister van Infrastructuur en Milieu;
 
