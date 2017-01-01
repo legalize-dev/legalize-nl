@@ -4,7 +4,7 @@ identifier: "BWBR0018150"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2018-05-01"
-last_updated: "2014-10-01"
+last_updated: "2017-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0018150"
 soort: "ministeriele-regeling"
@@ -49,17 +49,23 @@ In deze regeling wordt verstaan onder:
 
 - c. aftap- of informatieverstrekkingsactiviteit: de werkzaamheden die een aanbieder verricht om te voldoen aan een bijzondere last of een bevel op grond van het [Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903) dan wel een toestemming op grond van de [Wet op de inlichtingen- en veiligheidsdiensten 2002](https://wetten.overheid.nl/jci1.3:c:BWBR0013409) als bedoeld in [artikel 13.2, eerste en tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&artikel=13.2), dan wel de werkzaamheden die een aanbieder verricht om te voldoen aan een vordering of een verzoek als bedoeld in [artikel 13.2a](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&artikel=13.2a) of [artikel 13.4, eerste of tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&artikel=13.4);
 
-- d. declarabele kosten: de door een aanbieder gemaakte administratiekosten en personeelskosten die rechtstreeks voortvloeien uit het uitvoeren van aftap- of informatieverstrekkingsactiviteiten, zoals nader aangeduid in de bij deze regeling behorende bijlage;
+- d. declarabele kosten: de door een aanbieder gemaakte administratiekosten en personeelskosten die rechtstreeks voortvloeien uit het uitvoeren van aftap- of informatieverstrekkingsactiviteiten, zoals nader aangeduid in de bij deze regeling behorende bijlage, onderdeel I;
 
 - e. opdrachtgever: de autoriteit die de aanbieder een bijzondere last, bevel, toestemming, vordering of verzoek heeft gegegeven onderscheidenlijk gedaan om een aftap- of informatieverstrekkingsactiviteit te verrichten.
 
 ##### Artikel 2
 
-1. De aanbieder doet aan de opdrachtgever een opgave van de declarabele kosten van een aftap- of informatieverstrekkingsactiviteit zodra deze activiteit is voltooid.
+1. De aanbieder doet aan de opdrachtgever een opgave van de declarabele kosten van een aftap- of informatieverstrekkingsactiviteit.
 
-2. Elke kostenopgave bevat een specificatie van de verrichte werkzaamheden, als aangeduid in de bijlage bij deze regeling, en van de desbetreffende tijdsbesteding, en wordt opgesteld overeenkomstig de in de bijlage gegeven aanwijzingen.
+2. De aanbieder doet de opgave, bedoeld in het eerste lid,
 
-3. Op verzoek van de opdrachtgever verstrekt de aanbieder nadere informatie over de kostenopgave, waaronder
+- a. voor de dagelijkse informatieverstrekking, bedoeld in de bijlage, onderdeel I, onder 5, jaarlijks, binnen twee maanden na afloop van het kalenderjaar waarin de desbetreffende activiteit is verricht;
+
+- b. voor een van de overige aftap- of informatieverstrekkingsactiviteiten, bedoeld in de bijlage, onderdeel I, binnen twee maanden na afloop van het kwartaal waarin de desbetreffende activiteit is voltooid.
+
+3. Elke kostenopgave bevat een specificatie van de verrichte werkzaamheden, als aangeduid in de bijlage, onderdeel I bij deze regeling, en van de desbetreffende tijdsbesteding, en wordt opgesteld overeenkomstig de in de bijlage, onderdeel II, gegeven aanwijzingen.
+
+4. Op verzoek van de opdrachtgever verstrekt de aanbieder nadere informatie over de kostenopgave, waaronder
 
 - a. een toelichting op de verrichte werkzaamheden;
 
@@ -75,9 +81,9 @@ In deze regeling wordt verstaan onder:
 
 ##### Artikel 4
 
-1. Voor de dagelijkse informatieverstrekking, bedoeld in bijlage I, onder 5, wordt € 31,50 vergoed.
+1. Voor de dagelijkse informatieverstrekking, bedoeld in de bijlage, wordt € 25,00 vergoed.
 
-2. De in het eerste lid genoemde vergoeding wordt met ingang van 1 oktober 2015, jaarlijks op 1 oktober verhoogd met 2%. Vervolgens wordt zij iedere 5 jaar, op basis van de reële kosten van aanlevering van de gegevens, bedoeld in bijlage I, onder 5, opnieuw vastgesteld.
+2. De in het eerste lid genoemde vergoeding wordt met ingang van 1 januari 2017 jaarlijks verhoogd met 2%. Vervolgens wordt zij iedere vijf jaar, op basis van de reële kosten van aanlevering van de gegevens, bedoeld in de bijlage, onderdeel I, onder 5, opnieuw vastgesteld.
 
 ##### Artikel 5
 
@@ -89,11 +95,11 @@ Deze regeling wordt aangehaald als: Regeling kosten aftappen en gegevensverstrek
 
 ## Bijlage
 
-### **I. Nadere aanduiding van declarabele kosten als bedoeld in artikel 1, onder d en van werkzaamheden als bedoeld in artikel 2, tweede lid**
+### **I. Nadere aanduiding van declarabele kosten als bedoeld in artikel 1, onder d en van werkzaamheden als bedoeld in artikel 2, derde lid**
 
 De kosten van een aftap- of informatieverstrekkingsactiviteit zijn declarabel voor zover wordt uitgegaan van de salariskosten, vermeerderd met 5% voor andere kosten en voor zover de kosten betrekking hebben op de volgende werkzaamheden:
 
-### **II. Aanwijzingen voor de specificatie van kostenopgaven als bedoeld in artikel 2, tweede lid**
+### **II. Aanwijzingen voor de specificatie van kostenopgaven als bedoeld in artikel 2, derde lid**
 
 Elke kostenopgave bevat een specificatie ten aanzien van de verrichte werkzaamheden, de desbetreffende tijdsbesteding en de daaruit voortvloeiende kosten.
 
