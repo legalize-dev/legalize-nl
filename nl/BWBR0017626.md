@@ -4,7 +4,7 @@ identifier: "BWBR0017626"
 country: "nl"
 rank: "amvb"
 publication_date: "2024-01-01"
-last_updated: "2016-10-01"
+last_updated: "2017-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0017626"
 soort: "AMvB"
@@ -65,7 +65,7 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
 ##### Artikel 3
 
-1. Onze Minister kan ontheffing verlenen van de eisen, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0017626&paragraaf=2&artikel=2&z=2016-10-01&g=2016-10-01).
+1. Onze Minister kan ontheffing verlenen van de eisen, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0017626&paragraaf=2&artikel=2&z=2017-01-01&g=2017-01-01).
 
 2. De beheerder legt bij zijn aanvraag voor een ontheffing de bescheiden over en verstrekt de inlichtingen die Onze Minister noodzakelijk acht.
 
@@ -215,9 +215,9 @@ Vervallen
 
 ##### Artikel 26
 
-1. De beheerder draagt er zorg voor, dat bij de bruggen tekens worden getoond overeenkomstig het bepaalde in de [artikelen 6.25](https://wetten.overheid.nl/jci1.3:c:BWBR0003628&artikel=6.25) en [6.26, vierde en vijfde lid, van het Binnenvaartpolitiereglement](https://wetten.overheid.nl/jci1.3:c:BWBR0003628&artikel=6.26), met dien verstande dat het teken, bedoeld in [artikel 6.26, vierde lid, onderdeel f, van het Binnenvaartpolitiereglement](https://wetten.overheid.nl/jci1.3:c:BWBR0003628&artikel=6.26), alleen wordt gebruikt indien Onze Minister zulks bepaalt of goedkeurt.
+1. De beheerder draagt er zorg voor, dat bij de bruggen tekens worden getoond overeenkomstig het bepaalde in de [artikelen 6.25](https://wetten.overheid.nl/jci1.3:c:BWBR0003628&artikel=6.25) en [6.26, vierde lid, van het Binnenvaartpolitiereglement](https://wetten.overheid.nl/jci1.3:c:BWBR0003628&artikel=6.26), met dien verstande dat het teken, bedoeld in [artikel 6.26, vierde lid, onderdeel f, van het Binnenvaartpolitiereglement](https://wetten.overheid.nl/jci1.3:c:BWBR0003628&artikel=6.26), alleen wordt gebruikt indien Onze Minister zulks bepaalt of goedkeurt.
 
-2. In het geval van gestoorde lichttekens toont de beheerder een bord als bedoeld in [artikel 6.26, zesde lid, van het Binnenvaartpolitiereglement](https://wetten.overheid.nl/jci1.3:c:BWBR0003628&artikel=6.26).
+2. In het geval van gestoorde lichttekens toont de beheerder een bord als bedoeld in [artikel 6.26, vijfde lid, van het Binnenvaartpolitiereglement](https://wetten.overheid.nl/jci1.3:c:BWBR0003628&artikel=6.26).
 
 3. [Artikel 6.26 van het Binnenvaartpolitiereglement](https://wetten.overheid.nl/jci1.3:c:BWBR0003628&artikel=6.26) is van overeenkomstige toepassing, voor zover in dit besluit daar niet van wordt afgeweken.
 
