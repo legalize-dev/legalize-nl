@@ -4,7 +4,7 @@ identifier: "BWBR0035180"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2022-08-26"
-last_updated: "2014-07-01"
+last_updated: "2017-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0035180"
 soort: "ministeriele-regeling"
@@ -36,15 +36,15 @@ entry_into_force: "2014-07-01"
 ---
 # Regeling van de Minister van Economische Zaken van 5 juni 2014, nr. WJZ/14070246, houdende regels inzake de verhandeling van wijn en olijfolie (Regeling wijn en olijfolie)
 
-[Verordening (EEG) nr. 1601/91](onbekend) van de Raad van 10 juni 1991 tot vaststelling van de algemene voorschriften betreffende de definitie, de aanduiding en de aanbiedingsvorm van gearomatiseerde wijnen, gearomatiseerde dranken op basis van wijn en gearomatiseerde cocktails van wijnbouwprodukten (Pb EG 1991, L 149);
+[Verordening (EEG) nr. 1601/91](31991R1601) van de Raad van 10 juni 1991 tot vaststelling van de algemene voorschriften betreffende de definitie, de aanduiding en de aanbiedingsvorm van gearomatiseerde wijnen, gearomatiseerde dranken op basis van wijn en gearomatiseerde cocktails van wijnbouwprodukten (Pb EG 1991, L 149);
 
-[Verordening (EG) nr. 555/2008](onbekend) van de Commissie van 27 juni 2008 tot vaststelling van de uitvoeringsbepalingen van Verordening (EG) nr. 479/2008 van de Raad houdende een gemeenschappelijke ordening van de wijnmarkt, wat betreft de steunprogramma’s, de handel met derde landen, het productiepotentieel en de controles in de wijnsector (PbEU 2008, L 170);
+[Verordening (EG) nr. 555/2008](32008R0555) van de Commissie van 27 juni 2008 tot vaststelling van de uitvoeringsbepalingen van Verordening (EG) nr. 479/2008 van de Raad houdende een gemeenschappelijke ordening van de wijnmarkt, wat betreft de steunprogramma’s, de handel met derde landen, het productiepotentieel en de controles in de wijnsector (PbEU 2008, L 170);
 
-[Verordening (EG) nr. 436/2009](onbekend) van de Commissie van 26 mei 2009 houdende uitvoeringsbepalingen van Verordening (EG) nr. 479/2008 van de Raad met betrekking tot het wijnbouwkadaster, de verplichte opgaven en de samenstelling van gegevens voor het volgen van de markt, de begeleidende documenten voor het vervoer van producten en de bij te houden registers in de wijnsector (PbEU 2009, L 128);
+[Verordening (EG) nr. 436/2009](32009R0436) van de Commissie van 26 mei 2009 houdende uitvoeringsbepalingen van Verordening (EG) nr. 479/2008 van de Raad met betrekking tot het wijnbouwkadaster, de verplichte opgaven en de samenstelling van gegevens voor het volgen van de markt, de begeleidende documenten voor het vervoer van producten en de bij te houden registers in de wijnsector (PbEU 2009, L 128);
 
-[Verordening (EG) nr. 606/2009](onbekend) van de Commissie van 10 juli 2009 tot vaststelling van uitvoeringsbepalingen voor Verordening (EG) nr. 479/2008 van de Raad, wat betreft de wijncategorieën, oenologische procédés en de daarvoor geldende beperkingen (PbEU 2009, L 193);
+[Verordening (EG) nr. 606/2009](32009R0606) van de Commissie van 10 juli 2009 tot vaststelling van uitvoeringsbepalingen voor Verordening (EG) nr. 479/2008 van de Raad, wat betreft de wijncategorieën, oenologische procédés en de daarvoor geldende beperkingen (PbEU 2009, L 193);
 
-[Verordening (EG) nr. 607/2009](onbekend) van de Commissie van 14 juli 2009 tot vaststelling van uitvoeringsbepalingen voor Verordening (EG) nr. 479/2008 van de Raad wat betreft beschermde oorsprongsbenamingen en geografische aanduidingen, traditionele aanduidingen, etikettering en presentatie van bepaalde wijnbouwproducten (PbEU 2009, L 193);
+[Verordening (EG) nr. 607/2009](32009R0607) van de Commissie van 14 juli 2009 tot vaststelling van uitvoeringsbepalingen voor Verordening (EG) nr. 479/2008 van de Raad wat betreft beschermde oorsprongsbenamingen en geografische aanduidingen, traditionele aanduidingen, etikettering en presentatie van bepaalde wijnbouwproducten (PbEU 2009, L 193);
 
 Verordening (EU) nr. 1306/2013 van het Europees Parlement en de Raad van 17 december 2013 inzake de financiering, het beheer en de monitoring van het gemeenschappelijk landbouwbeleid en tot intrekking van Verordeningen (EEG) nr. 352/78, (EG) nr. 165/94, (EG) nr. 2799/98, (EG) nr. 814/2000, (EG) nr. 1290/2005 en (EG) nr. 485/2008 van de Raad (Pb EU 2013, L 347);
 
@@ -64,13 +64,13 @@ In deze regeling wordt verstaan onder:
 
 - **basisverordening:** verordening (EU) nr. 1308/2013 van het Europees Parlement en de Raad van 17 december 2013 tot vaststelling van een gemeenschappelijke ordening van de markten voor landbouwproducten en tot intrekking van de Verordeningen (EEG) nr. 922/72, (EEG) nr. 234/79, (EG) nr. 1037/2001 en (EG) nr. 1234/2007 van de Raad (PbEU 2013, L 347);
 
-- **communautaire verordeningen:** de basisverordening, [verordening (EG) nr. 555/2008](onbekend), verordening (EG) nr. 436/2009, verordening (EG) nr. 606/2009 en verordening (EG) nr. 607/2009;
+- **communautaire verordeningen:** de basisverordening, [verordening (EG) nr. 555/2008](32008R0555), verordening (EG) nr. 436/2009, verordening (EG) nr. 606/2009 en verordening (EG) nr. 607/2009;
 
 - **enig document:** enig document als bedoeld in artikel 94, eerste lid, onderdeel d, van de basisverordening;
 
 - **etikettering:** alle omschrijvingen en andere vermeldingen, tekens, afbeeldingen of merken of andere omschrijvingen die kenmerkend zijn voor het product en die voorkomen op dezelfde recipiënt met inbegrip van de sluiting, of op het aan de recipiënt vastgemaakte label;
 
-- **gearomatiseerde dranken:** gearomatiseerde wijn, gearomatiseerde dranken op basis van wijn en gearomatiseerde cocktails van wijnbouwproducten als bedoeld in artikel 2 van verordening (EG) nr. 1601/91;
+- **gearomatiseerde dranken:** gearomatiseerde wijn, gearomatiseerde dranken op basis van wijn en gearomatiseerde cocktails van wijnbouwproducten als bedoeld in artikel 3 van Verordening (EU) nr. 251/2014;
 
 - **in de handel brengen:** ten verkoop voorhanden en in voorraad hebben, te koop aanbieden, verkopen of afleveren;
 
@@ -79,8 +79,6 @@ In deze regeling wordt verstaan onder:
 - **NVWA:** de Nederlandse Voedsel en Warenautoriteit;
 
 - **olijfolie:** olijfolie als bedoeld in artikel 1, tweede lid, onderdeel g, van de basisverordening;
-
-- **verordening (EEG) nr. 1601/91:** [verordening (EEG) nr. 1601/91](onbekend) van de Raad van 10 juni 1991 tot vaststelling van de algemene voorschriften betreffende de definitie, de aanduiding en de aanbiedingsvorm van gearomatiseerde wijnen, gearomatiseerde dranken op basis van wijn en gearomatiseerde cocktails van wijnbouwprodukten (Pb EU 1991 L 149);
 
 - **verordening (EG) nr. 555/2008:** Verordening (EG) nr. 555/2008 van de Commissie van 27 juni 2008 tot vaststelling van de uitvoeringsbepalingen van Verordening (EG) nr. 479/2008 van de Raad houdende een gemeenschappelijke ordening van de wijnmarkt, wat betreft de steunprogramma’s, de handel met derde landen, het productiepotentieel en de controles in de wijnsector (PbEU 2008, L 170);
 
@@ -92,15 +90,17 @@ In deze regeling wordt verstaan onder:
 
 - **verordening (EU) nr. 1306/2013:** verordening (EU) nr. 1306/2013 van het Europees Parlement en de Raad van 17 december 2013 inzake de financiering, het beheer en de monitoring van het gemeenschappelijk landbouwbeleid en tot intrekking van Verordeningen (EEG) nr. 352/78, (EG) nr. 165/94, (EG) nr. 2799/98, (EG) nr. 814/2000, (EG) nr. 1290/2005 en (EG) nr. 485/2008 van de Raad (Pb EU 2013, L 347);
 
+- **verordening (EU) nr. 251/2014:** Verordening (EU) nr. 251/2014 van het Europees Parlement en de Raad van 26 februari 2014 inzake de definitie, de aanduiding, de aanbiedingsvorm, de etikettering en de bescherming van geografische aanduidingen van gearomatiseerde wijnbouwproducten en houdende intrekking van [Verordening (EEG) nr. 1601/91](31991R1601) van de Raad (Pb EU 2014, L 84);
+
 - **verzoek tot annulering:** een verzoek tot annulering van een registratie als bedoeld in artikel 106 van de basisverordening;
 
 - **verzoek tot niet-minimale wijziging:** een verzoek tot niet-minimale wijziging als bedoeld in artikel 20, derde lid, van verordening (EG) nr. 607/2009;
 
 - **verzoek tot wijziging:** een verzoek tot wijziging van het productdossier als bedoeld in artikel 105 van de basisverordening;
 
-- **wijn:** de producten genoemd in bijlage I, deel XII, van de basisverordening;
+- **wijn:** de producten, genoemd in bijlage VII, deel II, van de basisverordening;
 
-- **wijnbouwproducten:** de producten, genoemd in bijlage VII, deel II, van de basisverordening;
+- **wijnbouwproducten:** de producten, genoemd in bijlage I, deel XII, van de basisverordening;
 
 - **wijnhandelaar:** een natuurlijke of rechtspersoon die beroepshalve wijn koopt of verkoopt;
 
@@ -110,13 +110,13 @@ In deze regeling wordt verstaan onder:
 
 1. Wijnbouwproducten worden slechts bereid, getransporteerd en in de handel gebracht overeenkomstig het bij of krachtens de communautaire verordeningen bepaalde.
 
-2. Gearomatiseerde dranken worden slechts in de handel gebracht overeenkomstig het bij of krachtens verordening (EEG) nr. 1601/91 bepaalde.
+2. Gearomatiseerde dranken worden slechts in de handel gebracht overeenkomstig het bij of krachtens verordening (EU) nr. 251/2014 bepaalde.
 
 3. Olijfolie wordt slechts in de handel gebracht overeenkomstig het bij of krachtens de basisverordening bepaalde.
 
 ##### Artikel 3
 
-De minister is bevoegd de besluiten te nemen en de handelingen te verrichten waartoe het bij of krachtens hoofdstuk I en hoofdstuk II, afdeling 2, van titel II van deel II van de basisverordening of artikel 90 van verordening (EU) nr. 1306/2013 bepaalde, voor zover het wijn of olijfolie betreft, of het bij of krachtens verordening (EEG) nr. 1601/91 bepaalde een tot de overheid behorend orgaan de opdracht geeft of de keuze laat.
+De minister is bevoegd de besluiten te nemen en de handelingen te verrichten waartoe het bij of krachtens hoofdstuk I en hoofdstuk II, afdeling 2, van titel II van deel II van de basisverordening of artikel 90 van verordening (EU) nr. 1306/2013 bepaalde, voor zover het wijn of olijfolie betreft, of het bij of krachtens verordening (EU) nr. 251/2014 bepaalde een tot de overheid behorend orgaan de opdracht geeft of de keuze laat.
 
 ### Hoofdstuk 2. Specifieke bepalingen over wijn
 
@@ -174,13 +174,17 @@ De wijnhandelaar of de wijnproducent:
 
 ##### Artikel 10
 
-1. Het maximumpercentage voor verlies als bedoeld in artikel 44, onderdeel b, van [verordening (EG) 436/2009](onbekend) is:
+1. Het maximumpercentage voor verlies als bedoeld in artikel 44, onderdeel b, van [verordening (EG) 436/2009](32009R0436) is:
 
-- a. 1 procent voor verlies als gevolg van verdamping tijdens de opslag;
+- a. voor verlies als gevolg van verdamping voor elke maand van opslag in:
 
-- b. 3,5 procent voor verlies als gevolg van diverse behandelingen;
+- –. houten vaten: 0,4%;
 
-- c. 3,5 procent voor verlies als gevolg van een verandering van categorie van het product.
+- –. andere vaten met een volume van meer dan 60 liter: 0,05%;
+
+- b. voor verlies bij de verwerking van most tot wijn: 8%;
+
+- c. voor verlies als gevolg van diverse behandelingen en bottelen: 5%.
 
 2. De wijnhandelaar of de wijnproducent doet van een overschrijding van de in het eerste lid genoemde percentages of van de toleranties, bedoeld in artikel 44, onderdeel a, van verordening (EG) nr. 436/2009, binnen 14 dagen na constatering een melding bij de Rijksdienst voor Ondernemend Nederland.
 
@@ -240,21 +244,19 @@ Een aanvraag tot registratie, een verzoek tot wijziging of een verzoek tot annul
 
 ##### Artikel 17
 
-1. Iedere belanghebbende kan binnen twee maanden na de datum van bekendmaking door de minister van de nationale aanvraag tot registratie in de Staatscourant daartegen bedenkingen kenbaar maken door middel van toezending van een gemotiveerde verklaring aan de Rijksdienst voor Ondernemend Nederland.
-
-2. Iedere belanghebbende kan binnen vier weken na de datum van bekendmaking in het Publicatieblad van de Europese Unie van het enig document afkomstig uit een andere lidstaat dan van belanghebbende, zijn bedenkingen tegen de bescherming daarvan kenbaar maken door middel van toezending van een gemotiveerde verklaring aan de Rijksdienst voor Ondernemend Nederland.
-
-3. De minister betrekt de in het tweede lid bedoelde bedenkingen in zijn besluit om al dan niet bezwaar als bedoeld in artikel 98 van de basisverordening tegen de registratie aan te tekenen bij de Europese Commissie.
-
-4. Het eerste tot en met derde lid is van overeenkomstige toepassing op verzoeken tot niet-minimale wijziging of tot annulering.
-
-##### Artikel 18
-
 1. De nationale aanvragen tot registratie, de verzoeken tot niet-minimale wijziging en de verzoeken tot annulering worden door de minister bekendgemaakt in de Staatscourant.
 
 2. Door de Europese Commissie in het Publicatieblad van de Europese Unie bekendgemaakte voorgenomen registraties, voorgenomen wijzigingen van een productdossier of voorgenomen annuleringen van registraties worden door de minister bekendgemaakt in de Staatscourant.
 
 3. Door de Europese Commissie in het Publicatieblad van de Europese Unie bekendgemaakte ingeschreven registraties, ingeschreven wijzigingen van een productdossier of geannuleerde registraties worden door de minister bekendgemaakt in de Staatscourant.
+
+##### Artikel 18
+
+1. Iedere belanghebbende kan binnen twee maanden na de datum van bekendmaking in de Staatscourant door de minister van de aanvragen en verzoeken, bedoeld in [artikel 17, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035180&hoofdstuk=2&paragraaf=7&artikel=17&z=2017-01-01&g=2017-01-01), daartegen bedenkingen kenbaar maken door middel van toezending van een gemotiveerde verklaring aan de Rijksdienst voor Ondernemend Nederland.
+
+2. Iedere belanghebbende kan binnen vier weken na de datum van bekendmaking in het Publicatieblad van de Europese Unie van het enig document afkomstig uit een andere lidstaat dan van belanghebbende, zijn bedenkingen tegen de bescherming daarvan kenbaar maken door middel van toezending van een gemotiveerde verklaring aan de Rijksdienst voor Ondernemend Nederland.
+
+3. De minister betrekt de in het tweede lid bedoelde bedenkingen in zijn besluit om al dan niet bezwaar als bedoeld in artikel 98 van de basisverordening tegen de registratie aan te tekenen bij de Europese Commissie.
 
 ##### Artikel 19
 
@@ -268,9 +270,9 @@ De laboratoria Meron BCL en NVWA Laboratorium voeder- en voedselveiligheid zijn 
 
 ##### Artikel 21
 
-1. De referentienummers, bedoeld in [artikel 4, tweede lid van deze regeling](https://wetten.overheid.nl/jci1.3:c:BWBR0035180&hoofdstuk=2&paragraaf=2&artikel=4&z=2014-07-01&g=2014-07-01), en de codenummers, bedoeld in artikel 56, vijfde lid, van verordening (EG) nr. 607/2009, die voorafgaand aan het tijdstip van inwerkingtreding van deze regeling zijn vastgesteld door het Hoofdproductschap Akkerbouw, worden voor de toepassing van de [artikelen 4](https://wetten.overheid.nl/jci1.3:c:BWBR0035180&hoofdstuk=2&paragraaf=2&artikel=4&z=2014-07-01&g=2014-07-01) en [15](https://wetten.overheid.nl/jci1.3:c:BWBR0035180&hoofdstuk=2&paragraaf=6&artikel=15&z=2014-07-01&g=2014-07-01)beschouwd als door de minister vastgesteld.
+1. De referentienummers, bedoeld in [artikel 4, tweede lid van deze regeling](https://wetten.overheid.nl/jci1.3:c:BWBR0035180&hoofdstuk=2&paragraaf=2&artikel=4&z=2017-01-01&g=2017-01-01), en de codenummers, bedoeld in artikel 56, vijfde lid, van verordening (EG) nr. 607/2009, die voorafgaand aan het tijdstip van inwerkingtreding van deze regeling zijn vastgesteld door het Hoofdproductschap Akkerbouw, worden voor de toepassing van de [artikelen 4](https://wetten.overheid.nl/jci1.3:c:BWBR0035180&hoofdstuk=2&paragraaf=2&artikel=4&z=2017-01-01&g=2017-01-01) en [15](https://wetten.overheid.nl/jci1.3:c:BWBR0035180&hoofdstuk=2&paragraaf=6&artikel=15&z=2017-01-01&g=2017-01-01)beschouwd als door de minister vastgesteld.
 
-2. De op het tijdstip van inwerkingtreding van dit artikel bij het Hoofdproductschap Akkerbouw aanhangige aanvragen en verzoeken, bedoeld in [artikel 4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035180&hoofdstuk=2&paragraaf=2&artikel=4&z=2014-07-01&g=2014-07-01), [16, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035180&hoofdstuk=2&paragraaf=7&artikel=16&z=2014-07-01&g=2014-07-01), en [17, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035180&hoofdstuk=2&paragraaf=7&artikel=17&z=2014-07-01&g=2014-07-01), worden met ingang van 1 juli 2014 overeenkomstig deze regeling behandeld door de daartoe bevoegde autoriteit met inachtneming van de termijn die op dat tijdstip is verstreken sinds het tijdstip van indiening van de aanvraag of het verzoek.
+2. De op het tijdstip van inwerkingtreding van dit artikel bij het Hoofdproductschap Akkerbouw aanhangige aanvragen en verzoeken, bedoeld in [artikel 4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035180&hoofdstuk=2&paragraaf=2&artikel=4&z=2017-01-01&g=2017-01-01), [16, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035180&hoofdstuk=2&paragraaf=7&artikel=16&z=2017-01-01&g=2017-01-01), en [17, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035180&hoofdstuk=2&paragraaf=7&artikel=17&z=2017-01-01&g=2017-01-01), worden met ingang van 1 juli 2014 overeenkomstig deze regeling behandeld door de daartoe bevoegde autoriteit met inachtneming van de termijn die op dat tijdstip is verstreken sinds het tijdstip van indiening van de aanvraag of het verzoek.
 
 3. Meldingen, opgaven en kennisgevingen gedaan ter voldoening aan verplichtingen bij of krachtens de [verordening HPA wijn 2009](https://wetten.overheid.nl/jci1.3:c:BWBR0026438), worden voor zover deze regeling tot het doen van die meldingen, opgaven of kennisgevingen verplicht, geacht te zijn gedaan op grond van deze regeling aan de daartoe aangewezen instantie.
 
@@ -289,5 +291,33 @@ Deze regeling treedt in werking met ingang van 1 juli 2014.
 ##### Artikel 25
 
 Deze regeling wordt aangehaald als: Regeling wijn en olijfolie.
+
+Deze regeling zal in de Staatscourant worden geplaatst.
+
+#### § 8. Proefaanplant
+
+##### Artikel 19a
+
+1. Een producent van voor wijnbereiding bestemde druiven van een ras dat behoort tot een soort die niet is opgenomen op de lijst van toegelaten rassen van de Internationale Organisatie voor wijnbouw en wijnbereiding (International Organisation of Vine and Wine – OIV), kan in het kader van wetenschappelijk onderzoek en experimenten de minister om een vergunning voor een proefaanplant van dit druivenras verzoeken.
+
+2. Het verzoek om proefaanplant omvat:
+
+- a. een volledig ingevuld door de minister ter beschikking gesteld middel;
+
+- b. een omschrijving van de herkomst van het plantgoed.
+
+3. Een proefaanplant betreft maximaal 1 hectare en minstens 300 stokken.
+
+##### Artikel 19b
+
+1. De minister verleent de vergunning voor 10 jaar met de mogelijkheid van verlenging voor dezelfde duur.
+
+2. De vergunning wordt ingetrokken na het rooien van de aanplant. De vergunninghouder meldt het tijdstip van rooien aan de minister.
+
+3. De vergunning vervalt van rechtswege op het moment dat het druivenras op de lijst van toegelaten rassen van de Internationale Organisatie voor wijnbouw en wijnbereiding (International Organisation of Vine and Wine – OIV) is opgenomen.
+
+4. Elk jaar vóór 1 maart rapporteert de vergunninghouder over de oogstgegevens bij de minister met een door de minister ter beschikking gesteld middel.
+
+### Hoofdstuk 3. Overige bepalingen
 
 Deze regeling zal in de Staatscourant worden geplaatst.
