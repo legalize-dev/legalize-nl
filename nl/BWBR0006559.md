@@ -4,7 +4,7 @@ identifier: "BWBR0006559"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2023-01-01"
-last_updated: "2015-07-01"
+last_updated: "2017-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0006559"
 soort: "ministeriele-regeling"
@@ -42,7 +42,7 @@ Besluit:
 
 ##### Artikel 1
 
-Tijdens de uitoefening van de dienst dragen de volgende ambtenaren van politie een politielegitimatiebewijs volgens het model, bedoeld in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0006559&bijlage=1&z=2015-07-01&g=2015-07-01) bij deze regeling, bij zich:
+Tijdens de uitoefening van de dienst dragen de volgende ambtenaren van politie een politielegitimatiebewijs volgens het model, bedoeld in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0006559&bijlage=1&z=2017-03-18&g=2017-01-01) bij deze regeling, bij zich:
 
 - a. de ambtenaar, bedoeld in [artikel 2, onderdelen a en c, van de Politiewet 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&artikel=2), voor zover zij zijn aangesteld voor de uitvoering van de politietaak en werkzaam zijn bij een eenheid, met uitzondering van de aspirant gedurende het theoretische opleidingsdeel;
 
@@ -60,21 +60,21 @@ De korpschef, bedoeld in [artikel 1, eerste lid, onder c, van de Politiewet 2012
 
 1. De korpschef draagt er zorg voor dat het politielegitimatiebewijs voor de uitreiking wordt geprepareerd op de wijze, bedoeld in bijlage 2 bij deze regeling.
 
-2. De korpschef reikt het politielegitimatiebewijs na ondertekening uit aan de ambtenaar, bedoeld in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0006559&artikel=1&z=2015-07-01&g=2015-07-01).
+2. De korpschef reikt het politielegitimatiebewijs na ondertekening uit aan de ambtenaar, bedoeld in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0006559&artikel=1&z=2017-03-18&g=2017-01-01).
 
-3. De korpschef registreert de uitgifte van het politielegitimatiebewijs waarbij de naam van de ambtenaar, bedoeld in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0006559&artikel=1&z=2015-07-01&g=2015-07-01), en het uitgiftenummer worden vermeld.
+3. De korpschef registreert de uitgifte van het politielegitimatiebewijs waarbij de naam van de ambtenaar, bedoeld in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0006559&artikel=1&z=2017-03-18&g=2017-01-01), en het uitgiftenummer worden vermeld.
 
 ##### Artikel 5
 
-De ambtenaar, bedoeld in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0006559&artikel=1&z=2015-07-01&g=2015-07-01), meldt vermissing, ontvreemding en geheel of gedeeltelijk tenietgaan van zijn politielegitimatiebewijs terstond aan de korpschef.
+De ambtenaar, bedoeld in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0006559&artikel=1&z=2017-03-18&g=2017-01-01), meldt vermissing, ontvreemding en geheel of gedeeltelijk tenietgaan van zijn politielegitimatiebewijs terstond aan de korpschef.
 
 ##### Artikel 6
 
-1. Bij overlijden of beëindiging van het dienstverband van de ambtenaar, bedoeld in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0006559&artikel=1&z=2015-07-01&g=2015-07-01), of bij vervanging van het politielegitimatie-bewijs neemt de korpschef het politielegitimatiebewijs in.
+1. Bij overlijden of beëindiging van het dienstverband van de ambtenaar, bedoeld in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0006559&artikel=1&z=2017-03-18&g=2017-01-01), of bij vervanging van het politielegitimatie-bewijs neemt de korpschef het politielegitimatiebewijs in.
 
 2. De korpschef draagt zorg voor vernietiging van het ingenomen politielegitimatiebewijs.
 
-3. De korpschef haalt de registratie van de uitgifte, bedoeld in [artikel 4, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006559&artikel=4&z=2015-07-01&g=2015-07-01), door.
+3. De korpschef haalt de registratie van de uitgifte, bedoeld in [artikel 4, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006559&artikel=4&z=2017-03-18&g=2017-01-01), door.
 
 ##### Artikel 7
 
