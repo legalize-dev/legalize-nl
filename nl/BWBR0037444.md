@@ -4,7 +4,7 @@ identifier: "BWBR0037444"
 country: "nl"
 rank: "wet"
 publication_date: "2019-01-01"
-last_updated: "2016-01-01"
+last_updated: "2017-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0037444"
 soort: "wet"
@@ -191,7 +191,7 @@ Wijzigt de Successiewet 1956.
 
 ##### Artikel XXXVIII
 
-Onze Minister zendt binnen vier jaar na de inwerkingtreding van de in [artikel XXXV](https://wetten.overheid.nl/jci1.3:c:BWBR0037444&artikel=XXXV&z=2016-01-01&g=2016-01-01) van het Belastingplan 2016 opgenomen wijzigingen van [artikel 33 van de Successiewet 1956](https://wetten.overheid.nl/jci1.3:c:BWBR0002226&artikel=33) aan de Tweede Kamer der Staten-Generaal een verslag over de doeltreffendheid en de effecten van die wijzigingen.
+Onze Minister zendt binnen vier jaar na de inwerkingtreding van de in [artikel XXXV](https://wetten.overheid.nl/jci1.3:c:BWBR0037444&artikel=XXXV&z=2017-01-01&g=2017-01-01) van het Belastingplan 2016 opgenomen wijzigingen van [artikel 33 van de Successiewet 1956](https://wetten.overheid.nl/jci1.3:c:BWBR0002226&artikel=33) aan de Tweede Kamer der Staten-Generaal een verslag over de doeltreffendheid en de effecten van die wijzigingen.
 
 ##### Artikel XXXIX
 
@@ -269,39 +269,39 @@ Ingeval de samenloop van wetten die in 2015 in het Staatsblad zijn of worden gep
 
 1. Onder toepassing van [artikel 12 van de Wet raadgevend referendum](https://wetten.overheid.nl/jci1.3:c:BWBR0036443&artikel=12) treedt deze wet in werking met ingang van 1 januari 2016, met dien verstande dat:
 
-- a. [artikel I, onderdelen B en C](https://wetten.overheid.nl/jci1.3:c:BWBR0037444&artikel=I&z=2016-01-01&g=2016-01-01), eerst toepassing vindt nadat [artikel 10.1 van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=10.1) en [artikel 3.5 van de Wet maatregelen woningmarkt 2014 II](https://wetten.overheid.nl/jci1.3:c:BWBR0034553&artikel=3.5) bij het begin van het kalenderjaar 2016 zijn toegepast;
+- a. [artikel I, onderdelen B en C](https://wetten.overheid.nl/jci1.3:c:BWBR0037444&artikel=I&z=2017-01-01&g=2017-01-01), eerst toepassing vindt nadat [artikel 10.1 van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=10.1) en [artikel 3.5 van de Wet maatregelen woningmarkt 2014 II](https://wetten.overheid.nl/jci1.3:c:BWBR0034553&artikel=3.5) bij het begin van het kalenderjaar 2016 zijn toegepast;
 
-- b. [artikel I, onderdeel Ea](https://wetten.overheid.nl/jci1.3:c:BWBR0037444&artikel=I&z=2016-01-01&g=2016-01-01), eerst toepassing vindt nadat [artikel 10.1 van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=10.1) bij het begin van het kalenderjaar 2016 is toegepast;.
+- b. [artikel I, onderdeel Ea](https://wetten.overheid.nl/jci1.3:c:BWBR0037444&artikel=I&z=2017-01-01&g=2017-01-01), eerst toepassing vindt nadat [artikel 10.1 van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=10.1) bij het begin van het kalenderjaar 2016 is toegepast;.
 
-- c. [artikel I, onderdeel G](https://wetten.overheid.nl/jci1.3:c:BWBR0037444&artikel=I&z=2016-01-01&g=2016-01-01), eerst toepassing vindt nadat [artikel 10.1 van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=10.1) en [artikel III, onderdeel C, van het Belastingplan 2014](https://wetten.overheid.nl/jci1.3:c:BWBR0034538&artikel=III) bij het begin van het kalenderjaar 2016 zijn toegepast;
+- c. [artikel I, onderdeel G](https://wetten.overheid.nl/jci1.3:c:BWBR0037444&artikel=I&z=2017-01-01&g=2017-01-01), eerst toepassing vindt nadat [artikel 10.1 van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=10.1) en [artikel III, onderdeel C, van het Belastingplan 2014](https://wetten.overheid.nl/jci1.3:c:BWBR0034538&artikel=III) bij het begin van het kalenderjaar 2016 zijn toegepast;
 
-- d. [artikel I, onderdeel H, onder 1](https://wetten.overheid.nl/jci1.3:c:BWBR0037444&artikel=I&z=2016-01-01&g=2016-01-01), eerst toepassing vindt nadat [artikel 10.1 van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=10.1) en [artikel III, onderdeel D, van het Belastingplan 2014](https://wetten.overheid.nl/jci1.3:c:BWBR0034538&artikel=III) bij het begin van het kalenderjaar 2016 zijn toegepast;
+- d. [artikel I, onderdeel H, onder 1](https://wetten.overheid.nl/jci1.3:c:BWBR0037444&artikel=I&z=2017-01-01&g=2017-01-01), eerst toepassing vindt nadat [artikel 10.1 van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=10.1) en [artikel III, onderdeel D, van het Belastingplan 2014](https://wetten.overheid.nl/jci1.3:c:BWBR0034538&artikel=III) bij het begin van het kalenderjaar 2016 zijn toegepast;
 
-- e. [artikel I, onderdelen I, J en L](https://wetten.overheid.nl/jci1.3:c:BWBR0037444&artikel=I&z=2016-01-01&g=2016-01-01), eerst toepassing vindt nadat [artikel 10.1 van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=10.1) bij het begin van het kalenderjaar 2016 is toegepast;
+- e. [artikel I, onderdelen I, J en L](https://wetten.overheid.nl/jci1.3:c:BWBR0037444&artikel=I&z=2017-01-01&g=2017-01-01), eerst toepassing vindt nadat [artikel 10.1 van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=10.1) bij het begin van het kalenderjaar 2016 is toegepast;
 
-- f. indien [artikel 10.1 van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=10.1) bij het begin van het kalenderjaar 2017 wordt toegepast: [artikel II, onderdeel E](https://wetten.overheid.nl/jci1.3:c:BWBR0037444&artikel=II&z=2016-01-01&g=2016-01-01), eerst toepassing vindt nadat artikel 10.1 van de Wet inkomstenbelasting 2001 bij het begin van het kalenderjaar 2017 is toegepast;
+- f. indien [artikel 10.1 van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=10.1) bij het begin van het kalenderjaar 2017 wordt toegepast: [artikel II, onderdeel E](https://wetten.overheid.nl/jci1.3:c:BWBR0037444&artikel=II&z=2017-01-01&g=2017-01-01), eerst toepassing vindt nadat artikel 10.1 van de Wet inkomstenbelasting 2001 bij het begin van het kalenderjaar 2017 is toegepast;
 
-- g. [artikel XVII, onderdelen A en B](https://wetten.overheid.nl/jci1.3:c:BWBR0037444&artikel=XVII&z=2016-01-01&g=2016-01-01), eerst toepassing vindt nadat de [artikelen 20a, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002471&artikel=20a), en [20b, tweede lid, van de Wet op de loonbelasting 1964](https://wetten.overheid.nl/jci1.3:c:BWBR0002471&artikel=20b) en [artikel 5.3 van de Wet maatregelen woningmarkt 2014 II](https://wetten.overheid.nl/jci1.3:c:BWBR0034553&artikel=5.3) bij het begin van het kalenderjaar 2016 zijn toegepast;
+- g. [artikel XVII, onderdelen A en B](https://wetten.overheid.nl/jci1.3:c:BWBR0037444&artikel=XVII&z=2017-01-01&g=2017-01-01), eerst toepassing vindt nadat de [artikelen 20a, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002471&artikel=20a), en [20b, tweede lid, van de Wet op de loonbelasting 1964](https://wetten.overheid.nl/jci1.3:c:BWBR0002471&artikel=20b) en [artikel 5.3 van de Wet maatregelen woningmarkt 2014 II](https://wetten.overheid.nl/jci1.3:c:BWBR0034553&artikel=5.3) bij het begin van het kalenderjaar 2016 zijn toegepast;
 
-- h. [artikel XVII, onderdeel C](https://wetten.overheid.nl/jci1.3:c:BWBR0037444&artikel=XVII&z=2016-01-01&g=2016-01-01), eerst toepassing vindt nadat [artikel 22d van de Wet op de loonbelasting 1964](https://wetten.overheid.nl/jci1.3:c:BWBR0002471&artikel=22d) en [artikel VII, onderdeel C, van het Belastingplan 2014](https://wetten.overheid.nl/jci1.3:c:BWBR0034538&artikel=VII) bij het begin van het kalenderjaar 2016 zijn toegepast;
+- h. [artikel XVII, onderdeel C](https://wetten.overheid.nl/jci1.3:c:BWBR0037444&artikel=XVII&z=2017-01-01&g=2017-01-01), eerst toepassing vindt nadat [artikel 22d van de Wet op de loonbelasting 1964](https://wetten.overheid.nl/jci1.3:c:BWBR0002471&artikel=22d) en [artikel VII, onderdeel C, van het Belastingplan 2014](https://wetten.overheid.nl/jci1.3:c:BWBR0034538&artikel=VII) bij het begin van het kalenderjaar 2016 zijn toegepast;
 
-- i. [artikel XVII, onderdeel D](https://wetten.overheid.nl/jci1.3:c:BWBR0037444&artikel=XVII&z=2016-01-01&g=2016-01-01), eerst toepassing vindt nadat [artikel 22d van de Wet op de loonbelasting 1964](https://wetten.overheid.nl/jci1.3:c:BWBR0002471&artikel=22d) en [artikel VII, onderdeel D, van het Belastingplan 2014](https://wetten.overheid.nl/jci1.3:c:BWBR0034538&artikel=VII) bij het begin van het kalenderjaar 2016 zijn toegepast;
+- i. [artikel XVII, onderdeel D](https://wetten.overheid.nl/jci1.3:c:BWBR0037444&artikel=XVII&z=2017-01-01&g=2017-01-01), eerst toepassing vindt nadat [artikel 22d van de Wet op de loonbelasting 1964](https://wetten.overheid.nl/jci1.3:c:BWBR0002471&artikel=22d) en [artikel VII, onderdeel D, van het Belastingplan 2014](https://wetten.overheid.nl/jci1.3:c:BWBR0034538&artikel=VII) bij het begin van het kalenderjaar 2016 zijn toegepast;
 
-- j. [artikel XVII, onderdeel E](https://wetten.overheid.nl/jci1.3:c:BWBR0037444&artikel=XVII&z=2016-01-01&g=2016-01-01), eerst toepassing vindt nadat [artikel 22d van de Wet op de loonbelasting 1964](https://wetten.overheid.nl/jci1.3:c:BWBR0002471&artikel=22d) bij het begin van het kalenderjaar 2016 is toegepast;
+- j. [artikel XVII, onderdeel E](https://wetten.overheid.nl/jci1.3:c:BWBR0037444&artikel=XVII&z=2017-01-01&g=2017-01-01), eerst toepassing vindt nadat [artikel 22d van de Wet op de loonbelasting 1964](https://wetten.overheid.nl/jci1.3:c:BWBR0002471&artikel=22d) bij het begin van het kalenderjaar 2016 is toegepast;
 
-- k. [artikel XLVI](https://wetten.overheid.nl/jci1.3:c:BWBR0037444&artikel=XLVI&z=2016-01-01&g=2016-01-01) toepassing vindt voordat [hoofdstuk III, artikel II, vierde lid, van de Invoeringswet fiscaal stelsel BES](https://wetten.overheid.nl/jci1.3:c:BWBR0029268&artikel=II) wordt toegepast;
+- k. [artikel XLVI](https://wetten.overheid.nl/jci1.3:c:BWBR0037444&artikel=XLVI&z=2017-01-01&g=2017-01-01) toepassing vindt voordat [hoofdstuk III, artikel II, vierde lid, van de Invoeringswet fiscaal stelsel BES](https://wetten.overheid.nl/jci1.3:c:BWBR0029268&artikel=II) wordt toegepast;
 
-- l. [artikel XLVII](https://wetten.overheid.nl/jci1.3:c:BWBR0037444&artikel=XLVII&z=2016-01-01&g=2016-01-01) eerst toepassing vindt nadat [artikel 8.1 van de Wet maatregelen woningmarkt 2014 II](https://wetten.overheid.nl/jci1.3:c:BWBR0034553&artikel=8.1) bij het begin van het kalenderjaar 2016 is toegepast.
+- l. [artikel XLVII](https://wetten.overheid.nl/jci1.3:c:BWBR0037444&artikel=XLVII&z=2017-01-01&g=2017-01-01) eerst toepassing vindt nadat [artikel 8.1 van de Wet maatregelen woningmarkt 2014 II](https://wetten.overheid.nl/jci1.3:c:BWBR0034553&artikel=8.1) bij het begin van het kalenderjaar 2016 is toegepast.
 
-2. In afwijking van het eerste lid treden [artikel XLII, onderdelen A, B, C en D](https://wetten.overheid.nl/jci1.3:c:BWBR0037444&artikel=XLII&z=2016-01-01&g=2016-01-01), en [artikel L](https://wetten.overheid.nl/jci1.3:c:BWBR0037444&artikel=L&z=2016-01-01&g=2016-01-01) in werking op een bij koninklijk besluit te bepalen tijdstip en:
+2. In afwijking van het eerste lid treden [artikel XLII, onderdelen A, B, C en D](https://wetten.overheid.nl/jci1.3:c:BWBR0037444&artikel=XLII&z=2017-01-01&g=2017-01-01), en [artikel L](https://wetten.overheid.nl/jci1.3:c:BWBR0037444&artikel=L&z=2017-01-01&g=2017-01-01) in werking op een bij koninklijk besluit te bepalen tijdstip en:
 
-- a. vinden deze eerst toepassing nadat [artikel XLII, onderdelen Ba en Ca](https://wetten.overheid.nl/jci1.3:c:BWBR0037444&artikel=XLII&z=2016-01-01&g=2016-01-01), is toegepast; en
+- a. vinden deze eerst toepassing nadat [artikel XLII, onderdelen Ba en Ca](https://wetten.overheid.nl/jci1.3:c:BWBR0037444&artikel=XLII&z=2017-01-01&g=2017-01-01), is toegepast; en
 
 - b. vinden deze toepassing met ingang van 1 januari van het eerstvolgende kalenderjaar na het tijdstip, bedoeld in de aanhef.
 
-3. [Artikel XLIV, onderdeel A, onder 1 en 2, onderdeel B, onder 1, en onderdeel C](https://wetten.overheid.nl/jci1.3:c:BWBR0037444&artikel=XLIV&z=2016-01-01&g=2016-01-01), werkt terug tot en met 15 september 2015, 15.15 uur.
+3. [Artikel XLIV, onderdeel A, onder 1 en 2, onderdeel B, onder 1, en onderdeel C](https://wetten.overheid.nl/jci1.3:c:BWBR0037444&artikel=XLIV&z=2017-01-01&g=2017-01-01), werkt terug tot en met 15 september 2015, 15.15 uur.
 
-4. [Artikel XLIV, onderdeel A, onder 3, en onderdeel B, onder 2](https://wetten.overheid.nl/jci1.3:c:BWBR0037444&artikel=XLIV&z=2016-01-01&g=2016-01-01), werkt terug tot en met 29 oktober 2015, 23:15 uur.
+4. [Artikel XLIV, onderdeel A, onder 3, en onderdeel B, onder 2](https://wetten.overheid.nl/jci1.3:c:BWBR0037444&artikel=XLIV&z=2017-01-01&g=2017-01-01), werkt terug tot en met 29 oktober 2015, 23:15 uur.
 
 ##### Artikel LIII
 
