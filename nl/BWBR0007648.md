@@ -4,7 +4,7 @@ identifier: "BWBR0007648"
 country: "nl"
 rank: "amvb"
 publication_date: "2022-08-27"
-last_updated: "2016-10-06"
+last_updated: "2017-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0007648"
 soort: "AMvB"
@@ -60,7 +60,7 @@ In dit besluit wordt verstaan onder:
 
 - a. het desbetreffende door Onze Minister beschikbaar te stellen formulier, dat door de aanvrager is ingevuld;
 
-- b. het desbetreffende in [hoofdstuk III, artikel 41, eerste lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&artikel=41), of [artikel 105, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&artikel=105) bedoelde getuigschrift, dan wel de verklaring van Onze Minister, bedoeld in artikel 41, eerste lid, onder b of **c**, of [106, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&artikel=106);
+- b. het desbetreffende in [hoofdstuk III, artikel 41, eerste lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&artikel=41), of [artikel 105, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&artikel=105) bedoelde getuigschrift, de erkenning, bedoeld in artikel 41, eerste lid, onder c, dan wel de verklaring van Onze Minister, bedoeld in artikel 41, eerste lid, onder b of [106, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&artikel=106);
 
 - c. een document niet ouder dan drie maanden, waaruit blijkt dat, voor zover van toepassing, ten aanzien van de aanvrager geen maatregel berustend op een in het buitenland gegeven rechterlijke, tuchtrechtelijke of bestuursrechtelijke beslissing van kracht is, op grond waarvan de aanvrager zijn of haar rechten tot de uitoefening van het betrokken beroep in het land waar de beslissing is gegeven, geheel of gedeeltelijk, tijdelijk of blijvend heeft verloren;
 
@@ -68,17 +68,19 @@ In dit besluit wordt verstaan onder:
 
 - 1°. een bewijs van zijn nationaliteit alsmede;
 
-- 2°. indien de aanvraag wordt gedaan door een migrerende beroepsbeoefenaar, als bedoeld in [artikel 1 onder 2°, van de Algemene wet erkenning EG-beroepskwalificaties](https://wetten.overheid.nl/jci1.3:c:BWBR0023066&artikel=1), een door Nederland afgegeven EG-verblijfsvergunning voor langdurig ingezetenen als bedoeld in artikel 8 van richtlijn nr. 2003/109/EG van de Raad van de Europese Unie van 25 november 2003 betreffende de status van langdurig ingezeten onderdanen van derde landen (PbEU L 016), of een door een andere betrokken staat dan Nederland afgegeven zodanige EG-verblijfsvergunning en een verblijfsvergunning als bedoeld in [artikel 14 van de Vreemdelingenwet 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=14);
+- 2°. indien de aanvraag wordt gedaan door een migrerende beroepsbeoefenaar, als bedoeld in [artikel 1 onder 2°, van de Algemene wet erkenning EU-beroepskwalificaties](https://wetten.overheid.nl/jci1.3:c:BWBR0023066&artikel=1), een door Nederland afgegeven EG-verblijfsvergunning voor langdurig ingezetenen als bedoeld in artikel 8 van richtlijn nr. 2003/109/EG van de Raad van de Europese Unie van 25 november 2003 betreffende de status van langdurig ingezeten onderdanen van derde landen (PbEU L 016), of een door een andere betrokken staat dan Nederland afgegeven zodanige EG-verblijfsvergunning en een verblijfsvergunning als bedoeld in [artikel 14 van de Vreemdelingenwet 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=14);
 
-- 3°. indien de aanvraag wordt gedaan door een migrerende beroepsbeoefenaar, als bedoeld in [artikel 1 onder 3°, van de Algemene wet erkenning EG-beroepskwalificaties](https://wetten.overheid.nl/jci1.3:c:BWBR0023066&artikel=1), een verblijfskaart van een familielid van een burger van de Unie of een duurzame verblijfskaart of een ander bewijsmiddel waaruit blijkt dat de aanvrager het verblijfsrecht of het duurzaam verblijfsrecht heeft verkregen als bedoeld in hoofdstuk III, respectievelijk hoofdstuk IV van richtlijn nr. 2004/38/EG van het Europees Parlement en de Raad van de Europese Unie van 29 april 2004 betreffende het recht van vrij verkeer en verblijf op het grondgebied van de lidstaten voor de burgers van de Unie en hun familieleden (PbEU L 158 en L 229).
+- 3°. indien de aanvraag wordt gedaan door een migrerende beroepsbeoefenaar, als bedoeld in [artikel 1 onder 3°, van de Algemene wet erkenning EU-beroepskwalificaties](https://wetten.overheid.nl/jci1.3:c:BWBR0023066&artikel=1), een verblijfskaart van een familielid van een burger van de Unie of een duurzame verblijfskaart of een ander bewijsmiddel waaruit blijkt dat de aanvrager het verblijfsrecht of het duurzaam verblijfsrecht heeft verkregen als bedoeld in hoofdstuk III, respectievelijk hoofdstuk IV van richtlijn nr. 2004/38/EG van het Europees Parlement en de Raad van de Europese Unie van 29 april 2004 betreffende het recht van vrij verkeer en verblijf op het grondgebied van de lidstaten voor de burgers van de Unie en hun familieleden (PbEU L 158 en L 229);
+
+- e. een bewijs van voldoende beheersing van de Nederlandse taal.
 
 2. Indien het document, bedoeld in het eerste lid, onderdeel c, niet wordt afgegeven door de bevoegde autoriteiten, wordt dit vervangen door een attest afgegeven door een bevoegde, gerechtelijke autoriteit, een andere bevoegde overheidsautoriteit, een notaris of een bevoegde beroepsvereniging in het land van herkomst, waaruit blijkt dat de aanvrager tegenover die instantie of functionaris onder ede, dan wel plechtig heeft verklaard, dat ten aanzien van hem geen maatregel van kracht is als bedoeld in het eerste lid, onder c.
 
 3. Het formulier, bedoeld in het eerste lid, bevat in elk geval rubrieken voor de vermelding van de naam, de voornamen, het geslacht, de geboortedatum, de nationaliteit en het adres van de aanvrager, voor de beantwoording van de vragen of hij onder curatele is gesteld wegens geestelijke stoornis en of hij is ontzet van het recht het betrokken beroep uit te oefenen en voor de vermelding van de data waarop hij de opleiding tot het desbetreffende beroep heeft aangevangen en voltooid.
 
-4. Van een getuigschrift als bedoeld in het eerste lid, onder b of d wordt het originele exemplaar verstrekt dan wel een kopie die is gewaarmerkt door de instelling die het desbetreffende getuigschrift heeft afgegeven, of door een in Nederland gevestigde notaris. Van een verklaring als bedoeld in dat lid kan een fotokopie worden overgelegd.
+4. Van een getuigschrift als bedoeld in het eerste lid, onder b of d wordt het originele exemplaar verstrekt dan wel een kopie die is gewaarmerkt door de instelling die het desbetreffende getuigschrift heeft afgegeven, of door de daartoe bevoegde autoriteit in een lidstaat van de Europese Unie of andere staat die partij is bij de Overeenkomst betreffende de Europese Economische Ruimte of Zwitserland. Van een verklaring of erkenning als bedoeld in het eerste lid kan een fotokopie worden overgelegd.
 
-5. Van het document, bedoeld in het eerste lid, onder c, wordt het originele exemplaar verstrekt dan wel een kopie die is gewaarmerkt door de instelling die het document heeft afgegeven of door een in Nederland gevestigde notaris. Van het attest, bedoeld in het tweede lid, wordt het originele exemplaar verstrekt dan wel een kopie die is gewaarmerkt door de betreffende autoriteit, notaris, bevoegde beroepsvereniging als bedoeld in dat artikellid, dan wel door een in Nederland gevestigde notaris.
+5. Van het document, bedoeld in het eerste lid, onder c, wordt het originele exemplaar verstrekt dan wel een kopie die is gewaarmerkt door de instelling die het document heeft afgegeven of door de daartoe bevoegde autoriteit in een lidstaat van de Europese Unie of andere staat die partij is bij de Overeenkomst betreffende de Europese Economische Ruimte of Zwitserland. Van het attest, bedoeld in het tweede lid, wordt het originele exemplaar verstrekt dan wel een kopie die is gewaarmerkt door de betreffende autoriteit, notaris, bevoegde beroepsvereniging als bedoeld in dat artikellid, dan wel door een in Nederland gevestigde notaris.
 
 6. Van de bewijsmiddelen, bedoeld in het eerste lid, onder d, kan een fotokopie worden overgelegd.
 
@@ -86,9 +88,29 @@ In dit besluit wordt verstaan onder:
 
 8. Onze Minister stelt regels omtrent de bescheiden die bij de indiening van een aanvraag om vermelding als bedoeld in [artikel 5, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&artikel=5) worden verstrekt.
 
+9. Als bewijs van voldoende beheersing van de Nederlandse taal, als bedoeld in het eerste lid, onderdeel e, geldt:
+
+- a. diploma’s van primair plus secundair onderwijs van een Nederlandstalige onderwijsinstelling;
+
+- b. een diploma van een voltooide Nederlandstalige opleiding van het beroep waarvoor inschrijving aangevraagd wordt;
+
+- c. een certificaat voor een examen Nederlandse taal op het niveau:
+
+- –. B1 van het Gemeenschappelijk Europees Opleidingskader voor inschrijving in het register van verpleegkundigen;
+
+- –. B2 van het Gemeenschappelijk Europees Opleidingskader voor inschrijving in het register van fysiotherapeuten en verloskundigen;
+
+- d. een certificaat voor het onderdeel Nederlandse taal (met specifieke beheersing van medisch interactief Nederlands) van de algemene kennis- en vaardighedentoets voor inschrijving in het register van artsen, tandartsen, apothekers, psychotherapeuten en gezondheidszorgpsychologen;
+
+- e. de verklaring van Onze Minister, bedoeld in [artikel 41, eerste lid, onder b, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&artikel=41).
+
+10. De bewijsstukken, bedoeld in het negende lid, onder c, d en e zijn op het moment van indiening van de aanvraag, bedoeld in het eerste lid, niet ouder dan twee jaar.
+
+11. Van de bewijsmiddelen, bedoeld in het negende lid, kan een door de instelling die het document heeft afgegeven gewaarmerkte kopie worden overgelegd.
+
 ##### Artikel 3
 
-In afwijking van [artikel 2, eerste lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0007648&artikel=2&z=2016-10-06&g=2016-10-06), kunnen degenen die de bevoegdheid hadden verkregen of waren toegelaten tot de uitoefening van een in artikel 104, vierde lid, van de wet genoemd beroep, dan wel de bevoegdheid hadden verkregen tot het voeren van de titel van verpleegkundige vóór het tijdstip waarop artikel 3, eerste lid, van de wet ten aanzien van het desbetreffende beroep in werking is getreden, bij de indiening van de aanvrage om inschrijving, behalve het in [artikel 2, eerste lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0007648&artikel=2&z=2016-10-06&g=2016-10-06), bedoelde formulier, een fotokopie verstrekken van het getuigschrift of de beschikking waaraan zij de desbetreffende bevoegdheid of toelating ontlenen.
+In afwijking van [artikel 2, eerste lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0007648&artikel=2&z=2017-01-01&g=2017-01-01), kunnen degenen die de bevoegdheid hadden verkregen of waren toegelaten tot de uitoefening van een in artikel 104, vierde lid, van de wet genoemd beroep, dan wel de bevoegdheid hadden verkregen tot het voeren van de titel van verpleegkundige vóór het tijdstip waarop artikel 3, eerste lid, van de wet ten aanzien van het desbetreffende beroep in werking is getreden, bij de indiening van de aanvrage om inschrijving, behalve het in [artikel 2, eerste lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0007648&artikel=2&z=2017-01-01&g=2017-01-01), bedoelde formulier, een fotokopie verstrekken van het getuigschrift of de beschikking waaraan zij de desbetreffende bevoegdheid of toelating ontlenen.
 
 ##### Artikel 4
 
@@ -138,9 +160,9 @@ Aan een ieder die dat verlangt, wordt meegedeeld hetgeen in het register staat a
 
 ##### Artikel 7
 
-1. Van de totstandkoming van een inschrijving in een register met toepassing van [artikel 41, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&artikel=41), en van de duur van die inschrijving of van de aard van de andere beperkingen die aan die inschrijving zijn verbonden, wordt kennis gegeven in de **Staatscourant** en, indien deze bekend zijn, aan de in [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007648&artikel=5&z=2016-10-06&g=2016-10-06), bedoelde instanties.
+1. Van de totstandkoming van een inschrijving in een register met toepassing van [artikel 41, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&artikel=41), en van de duur van die inschrijving of van de aard van de andere beperkingen die aan die inschrijving zijn verbonden, wordt kennis gegeven in de **Staatscourant** en, indien deze bekend zijn, aan de in [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007648&artikel=5&z=2017-01-01&g=2017-01-01), bedoelde instanties.
 
-2. Van de doorhaling van een inschrijving die met toepassing van [artikel 42, tweede lid, eerste volzin, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&artikel=42) is geschied, en van de doorhaling van een met toepassing van [artikel 41 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&artikel=41) tot stand gekomen inschrijving op grond van het intreden of bekend worden van omstandigheden als bedoeld in [artikel 7, onder e, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&artikel=7), ten aanzien van de betrokkene, wordt kennis gegeven aan de in [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007648&artikel=5&z=2016-10-06&g=2016-10-06), bedoelde instanties, in een of meer dag- of weekbladen die in het gebied waarin de betrokkene zijn beroep uitoefent, worden verspreid, in de Staatscourant en door middel van publicatie op daartoe bestemde websites op internet.
+2. Van de doorhaling van een inschrijving die met toepassing van [artikel 42, tweede lid, eerste volzin, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&artikel=42) is geschied, en van de doorhaling van een met toepassing van [artikel 41 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&artikel=41) tot stand gekomen inschrijving op grond van het intreden of bekend worden van omstandigheden als bedoeld in [artikel 7, onder e, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&artikel=7), ten aanzien van de betrokkene, wordt kennis gegeven aan de in [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007648&artikel=5&z=2017-01-01&g=2017-01-01), bedoelde instanties, in een of meer dag- of weekbladen die in het gebied waarin de betrokkene zijn beroep uitoefent, worden verspreid, in de Staatscourant en door middel van publicatie op daartoe bestemde websites op internet.
 
 ##### Artikel 8
 
