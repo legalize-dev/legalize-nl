@@ -4,7 +4,7 @@ identifier: "BWBR0008290"
 country: "nl"
 rank: "wet"
 publication_date: "2024-01-01"
-last_updated: "2014-02-22"
+last_updated: "2017-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0008290"
 soort: "wet"
@@ -96,9 +96,9 @@ In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
 2. De uitkering komt ten goede aan de algemene middelen van de provincie of van de gemeente.
 
-3. De provincies hebben gezamenlijk over een uitkeringsjaar recht op het in de begroting van het provinciefonds vermelde bedrag, bedoeld in [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008290&hoofdstuk=2&paragraaf=2.1&artikel=5&z=2014-02-22&g=2014-02-22), voor dat jaar.
+3. De provincies hebben gezamenlijk over een uitkeringsjaar recht op het in de begroting van het provinciefonds vermelde bedrag, bedoeld in [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008290&hoofdstuk=2&paragraaf=2.1&artikel=5&z=2018-03-22&g=2017-01-01), voor dat jaar.
 
-4. De gemeenten hebben gezamenlijk over een uitkeringsjaar recht op het in de begroting van het gemeentefonds vermelde bedrag, bedoeld in [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008290&hoofdstuk=2&paragraaf=2.1&artikel=5&z=2014-02-22&g=2014-02-22), voor dat jaar, verminderd met het totaal aan verplichtingen voor aanvullende uitkeringen die over het uitkeringsjaar worden aangegaan.
+4. De gemeenten hebben gezamenlijk over een uitkeringsjaar recht op het in de begroting van het gemeentefonds vermelde bedrag, bedoeld in [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008290&hoofdstuk=2&paragraaf=2.1&artikel=5&z=2018-03-22&g=2017-01-01), voor dat jaar, verminderd met het totaal aan verplichtingen voor aanvullende uitkeringen die over het uitkeringsjaar worden aangegaan.
 
 ##### Artikel 7
 
@@ -158,7 +158,7 @@ Onze Ministers stellen over ieder uitkeringsjaar de algemene uitkeringen aan de 
 
 ##### Artikel 11
 
-De in [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0008290&hoofdstuk=2&paragraaf=2.2&artikel=10&z=2014-02-22&g=2014-02-22) bedoelde uitkeringsbasis voor een provincie of gemeente is de som van de produkten die worden verkregen door voor iedere verdeelmaatstaf het aantal eenheden van die maatstaf te vermenigvuldigen met het bij de maatstaf behorende bedrag per eenheid.
+De in [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0008290&hoofdstuk=2&paragraaf=2.2&artikel=10&z=2018-03-22&g=2017-01-01) bedoelde uitkeringsbasis voor een provincie of gemeente is de som van de produkten die worden verkregen door voor iedere verdeelmaatstaf het aantal eenheden van die maatstaf te vermenigvuldigen met het bij de maatstaf behorende bedrag per eenheid.
 
 #### Paragraaf 2.3. De aanvullende uitkering
 
@@ -182,7 +182,7 @@ De in [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0008290&hoofdstuk=2&p
 
 ##### Artikel 13
 
-1. De verdeling van de in [artikel 5, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008290&hoofdstuk=2&paragraaf=2.1&artikel=5&z=2014-02-22&g=2014-02-22), bedoelde uitkeringen wordt bij algemene maatregel van bestuur geregeld. Krachtens de maatregel kunnen nadere regels worden gesteld over de wijze van verdeling en de wijze van vaststellen van het volume.
+1. De verdeling van de in [artikel 5, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008290&hoofdstuk=2&paragraaf=2.1&artikel=5&z=2018-03-22&g=2017-01-01), bedoelde uitkeringen wordt bij algemene maatregel van bestuur geregeld. Krachtens de maatregel kunnen nadere regels worden gesteld over de wijze van verdeling en de wijze van vaststellen van het volume.
 
 2. De uitkeringen, bedoeld in het eerste lid, komen ten goede aan de algemene middelen van de provincie of gemeente.
 
@@ -194,7 +194,7 @@ De in [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0008290&hoofdstuk=2&p
 
 ##### Artikel 14
 
-De uitkeringen, bedoeld in [artikel 5, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008290&hoofdstuk=2&paragraaf=2.1&artikel=5&z=2014-02-22&g=2014-02-22), worden vastgesteld door Onze Ministers wie het aangaat.
+De uitkeringen, bedoeld in [artikel 5, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008290&hoofdstuk=2&paragraaf=2.1&artikel=5&z=2018-03-22&g=2017-01-01), worden vastgesteld door Onze Ministers wie het aangaat.
 
 #### Paragraaf 2.5. De betalingen
 
@@ -226,13 +226,13 @@ De uitkeringen, bedoeld in [artikel 5, derde lid](https://wetten.overheid.nl/jci
 
 ##### Artikel 18
 
-1. Over een voorstel tot regeling van een specifieke uitkering, niet zijnde een verzameluitkering als bedoeld in [artikel 16a](https://wetten.overheid.nl/jci1.3:c:BWBR0008290&hoofdstuk=3&artikel=16a&z=2014-02-22&g=2014-02-22), vindt tijdig overleg plaats met Onze Ministers.
+1. Over een voorstel tot regeling van een specifieke uitkering, niet zijnde een verzameluitkering als bedoeld in [artikel 16a](https://wetten.overheid.nl/jci1.3:c:BWBR0008290&hoofdstuk=3&artikel=16a&z=2018-03-22&g=2017-01-01), vindt tijdig overleg plaats met Onze Ministers.
 
 2. Onze Ministers wie het aangaat melden zo nodig ter voorbereiding van de indiening van de ontwerp-begrotingen en de wijzigingen, bedoeld in [artikel 15, eerste tot en met derde lid, van de Comptabiliteitswet 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0013891&artikel=15), aan Onze Ministers welke beleidsthema’s door middel van een verzameluitkering worden bekostigd.
 
 ##### Artikel 19
 
-1. De [artikelen 117, eerste lid, van de Provinciewet](https://wetten.overheid.nl/jci1.3:c:BWBR0005645&artikel=117) en [119, eerste lid, van de Gemeentewet](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&artikel=119) zijn niet van toepassing op de regeling van de informatievoorziening ten aanzien van een specifieke uitkering als bedoeld in [artikel 17, derde en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008290&hoofdstuk=3&artikel=17&z=2014-02-22&g=2014-02-22).
+1. De [artikelen 117, eerste lid, van de Provinciewet](https://wetten.overheid.nl/jci1.3:c:BWBR0005645&artikel=117) en [119, eerste lid, van de Gemeentewet](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&artikel=119) zijn niet van toepassing op de regeling van de informatievoorziening ten aanzien van een specifieke uitkering als bedoeld in [artikel 17, derde en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008290&hoofdstuk=3&artikel=17&z=2018-03-22&g=2017-01-01).
 
 2. Onze Minister wie het aangaat kan ten behoeve van de uitvoering van zijn beleid beleidsinformatie aan de ontvangers van bijdragen uit een verzameluitkering vragen:
 
@@ -250,7 +250,7 @@ Uiterlijk op de derde woensdag van mei publiceren Onze Ministers een onderhoudsr
 
 ##### Artikel 21
 
-De [artikelen 16](https://wetten.overheid.nl/jci1.3:c:BWBR0008290&hoofdstuk=3&artikel=16&z=2014-02-22&g=2014-02-22) en [18 tot en met 20](https://wetten.overheid.nl/jci1.3:c:BWBR0008290&hoofdstuk=3&artikel=18&z=2014-02-22&g=2014-02-22) zijn van overeenkomstige toepassing op uitkeringen uit ’s Rijks kas aan derden, ter bekostiging van activiteiten van die derden, waarbij de verstrekking afhankelijk is van de verstrekking van een uitkering door provincies of gemeenten aan die derden.
+De [artikelen 16](https://wetten.overheid.nl/jci1.3:c:BWBR0008290&hoofdstuk=3&artikel=16&z=2018-03-22&g=2017-01-01) en [18 tot en met 20](https://wetten.overheid.nl/jci1.3:c:BWBR0008290&hoofdstuk=3&artikel=18&z=2018-03-22&g=2017-01-01) zijn van overeenkomstige toepassing op uitkeringen uit ’s Rijks kas aan derden, ter bekostiging van activiteiten van die derden, waarbij de verstrekking afhankelijk is van de verstrekking van een uitkering door provincies of gemeenten aan die derden.
 
 ### HOOFDSTUK 4. OVERIGE BEPALINGEN, OVERGANGSBEPALINGEN EN SLOTBEPALINGEN
 
@@ -264,7 +264,7 @@ Bij of krachtens algemene maatregel van bestuur kunnen nadere regels worden gest
 
 - b. de procedure tot vaststelling en verstrekking van uitkeringen als bedoeld in deze wet;
 
-- c. de betalingen, bedoeld in [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBR0008290&hoofdstuk=2&paragraaf=2.5&artikel=15&z=2014-02-22&g=2014-02-22) en de opschorting daarvan, bedoeld in [artikel 17b, derde, vierde en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008290&hoofdstuk=3&artikel=17b&z=2014-02-22&g=2014-02-22);
+- c. de betalingen, bedoeld in [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBR0008290&hoofdstuk=2&paragraaf=2.5&artikel=15&z=2018-03-22&g=2017-01-01) en de opschorting daarvan, bedoeld in [artikel 17b, derde, vierde en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008290&hoofdstuk=3&artikel=17b&z=2018-03-22&g=2017-01-01);
 
 - d. het verzamelen en vaststellen van gegevens ten behoeve van uitkeringen;
 
@@ -278,9 +278,9 @@ Op een uitkering als bedoeld in deze wet kan geen beslag onder de Staat worden g
 
 ##### Artikel 24
 
-1. In afwijking van [artikel 8, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008290&hoofdstuk=2&paragraaf=2.2&artikel=8&z=2014-02-22&g=2014-02-22), wordt voor de eerste maal bij wet bepaald welke verdeelmaatstaven worden gehanteerd en hoe deze worden gehanteerd. Krachtens die wet, bij regeling van Onze Ministers, kunnen nadere voorschriften worden gegeven omtrent de toepassing van de bij de bepaling gebruikte begrippen en omtrent de wijze van telling van het aantal eenheden per verdeelmaatstaf.
+1. In afwijking van [artikel 8, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008290&hoofdstuk=2&paragraaf=2.2&artikel=8&z=2018-03-22&g=2017-01-01), wordt voor de eerste maal bij wet bepaald welke verdeelmaatstaven worden gehanteerd en hoe deze worden gehanteerd. Krachtens die wet, bij regeling van Onze Ministers, kunnen nadere voorschriften worden gegeven omtrent de toepassing van de bij de bepaling gebruikte begrippen en omtrent de wijze van telling van het aantal eenheden per verdeelmaatstaf.
 
-2. In afwijking van [artikel 9, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008290&hoofdstuk=2&paragraaf=2.2&artikel=9&z=2014-02-22&g=2014-02-22), worden de bedragen per eenheid behorend bij de in het eerste lid bedoelde maatstaven, over het eerste uitkeringsjaar bij wet vastgesteld. Daarbij kan worden bepaald dat Onze Ministers deze bedragen aan kunnen passen in verband met wijzigingen ten aanzien van het fonds over de jaren 1996 en 1997, die door middel van wijzigingen in de bedragen per eenheid over de gemeenten verdeeld behoren te worden. Artikel 9, tweede lid, blijft buiten toepassing bij de vaststelling van de bedragen per eenheid over het eerste uitkeringsjaar.
+2. In afwijking van [artikel 9, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008290&hoofdstuk=2&paragraaf=2.2&artikel=9&z=2018-03-22&g=2017-01-01), worden de bedragen per eenheid behorend bij de in het eerste lid bedoelde maatstaven, over het eerste uitkeringsjaar bij wet vastgesteld. Daarbij kan worden bepaald dat Onze Ministers deze bedragen aan kunnen passen in verband met wijzigingen ten aanzien van het fonds over de jaren 1996 en 1997, die door middel van wijzigingen in de bedragen per eenheid over de gemeenten verdeeld behoren te worden. Artikel 9, tweede lid, blijft buiten toepassing bij de vaststelling van de bedragen per eenheid over het eerste uitkeringsjaar.
 
 #### Paragraaf 4.3. Slotbepalingen
 
@@ -344,21 +344,21 @@ Lasten en bevelen dat deze in het **Staatsblad** zal worden geplaatst en dat all
 
 ##### Artikel 17b
 
-1. Indien Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties vaststelt dat de informatie, bedoeld in [artikel 17a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008290&hoofdstuk=3&artikel=17a&z=2014-02-22&g=2014-02-22), niet is verstrekt op de wijze zoals voorgeschreven op grond van het [derde lid van artikel 17a](https://wetten.overheid.nl/jci1.3:c:BWBR0008290&hoofdstuk=3&artikel=17a&z=2014-02-22&g=2014-02-22), doet hij daarvan mededeling aan gedeputeerde staten of het college van burgemeester en wethouders.
+1. Indien Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties vaststelt dat de informatie, bedoeld in [artikel 17a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008290&hoofdstuk=3&artikel=17a&z=2018-03-22&g=2017-01-01), niet is verstrekt op de wijze zoals voorgeschreven op grond van het [derde lid van artikel 17a](https://wetten.overheid.nl/jci1.3:c:BWBR0008290&hoofdstuk=3&artikel=17a&z=2018-03-22&g=2017-01-01), doet hij daarvan mededeling aan gedeputeerde staten of het college van burgemeester en wethouders.
 
-2. Gedeputeerde staten en het college van burgemeester en wethouders kunnen voor 1 juli van het jaar volgend op het begrotingsjaar, schriftelijk en met redenen omkleed aan Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties verzoeken om uitstel van de toezending van de in [artikel 17a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008290&hoofdstuk=3&artikel=17a&z=2014-02-22&g=2014-02-22), bedoelde informatie. Hij beslist binnen twee weken op dat verzoek, na overleg met Onze Ministers wie het aangaat.
+2. Gedeputeerde staten en het college van burgemeester en wethouders kunnen voor 1 juli van het jaar volgend op het begrotingsjaar, schriftelijk en met redenen omkleed aan Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties verzoeken om uitstel van de toezending van de in [artikel 17a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008290&hoofdstuk=3&artikel=17a&z=2018-03-22&g=2017-01-01), bedoelde informatie. Hij beslist binnen twee weken op dat verzoek, na overleg met Onze Ministers wie het aangaat.
 
-3. Onze Ministers kunnen de betalingen op grond van [artikel 15, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008290&hoofdstuk=2&paragraaf=2.5&artikel=15&z=2014-02-22&g=2014-02-22), aan de betreffende provincie of gemeente geheel of gedeeltelijk opschorten gedurende ten hoogste zesentwintig weken indien:
+3. Onze Ministers kunnen de betalingen op grond van [artikel 15, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008290&hoofdstuk=2&paragraaf=2.5&artikel=15&z=2018-03-22&g=2017-01-01), aan de betreffende provincie of gemeente geheel of gedeeltelijk opschorten gedurende ten hoogste zesentwintig weken indien:
 
-- a. gedeputeerde staten en het college van burgemeester en wethouders nalaten de informatie, bedoeld in [artikel 17a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008290&hoofdstuk=3&artikel=17a&z=2014-02-22&g=2014-02-22), aan Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties te zenden binnen de in dat artikellid genoemde termijn, dan wel, als uitstel is verleend, binnen de termijn waarvoor uitstel is verleend, of
+- a. gedeputeerde staten en het college van burgemeester en wethouders nalaten de informatie, bedoeld in [artikel 17a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008290&hoofdstuk=3&artikel=17a&z=2018-03-22&g=2017-01-01), aan Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties te zenden binnen de in dat artikellid genoemde termijn, dan wel, als uitstel is verleend, binnen de termijn waarvoor uitstel is verleend, of
 
-- b. de informatie, bedoeld in [artikel 17a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008290&hoofdstuk=3&artikel=17a&z=2014-02-22&g=2014-02-22), na het verstrijken van de voorgeschreven termijn, niet is verstrekt op de wijze zoals voorgeschreven krachtens het derde lid van dat artikel.
+- b. de informatie, bedoeld in [artikel 17a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008290&hoofdstuk=3&artikel=17a&z=2018-03-22&g=2017-01-01), na het verstrijken van de voorgeschreven termijn, niet is verstrekt op de wijze zoals voorgeschreven krachtens het derde lid van dat artikel.
 
-4. Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties doet terstond mededeling aan het desbetreffende bestuursorgaan van een besluit als bedoeld in het derde lid, met vermelding van de mate waarin en de periode waarvoor de betalingen ten hoogste geschorst worden. De betalingen worden hervat in de week nadat de informatie is verstrekt op de wijze zoals voorgeschreven krachtens het [derde lid van artikel 17a](https://wetten.overheid.nl/jci1.3:c:BWBR0008290&hoofdstuk=3&artikel=17a&z=2014-02-22&g=2014-02-22).
+4. Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties doet terstond mededeling aan het desbetreffende bestuursorgaan van een besluit als bedoeld in het derde lid, met vermelding van de mate waarin en de periode waarvoor de betalingen ten hoogste geschorst worden. De betalingen worden hervat in de week nadat de informatie is verstrekt op de wijze zoals voorgeschreven krachtens het [derde lid van artikel 17a](https://wetten.overheid.nl/jci1.3:c:BWBR0008290&hoofdstuk=3&artikel=17a&z=2018-03-22&g=2017-01-01).
 
 5. Gedeputeerde staten en het college van burgemeester en wethouders kunnen na een besluit als bedoeld in het derde lid, indien bijzondere omstandigheden daartoe aanleiding geven, schriftelijk en met redenen omkleed aan Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties verzoeken om de opschorting ongedaan te maken. Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties beslist binnen twee weken op dat verzoek, na overleg met Onze Ministers wie het aangaat.
 
-6. Als gedeputeerde staten of het college van burgemeester en wethouders de gevraagde informatie binnen de in het vierde lid bedoelde periode niet hebben verstrekt of niet op de wijze zoals voorgeschreven krachtens het [derde lid van artikel 17a](https://wetten.overheid.nl/jci1.3:c:BWBR0008290&hoofdstuk=3&artikel=17a&z=2014-02-22&g=2014-02-22), doet Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties daarvan mededeling aan Onze Minister wie het aangaat.
+6. Als gedeputeerde staten of het college van burgemeester en wethouders de gevraagde informatie binnen de in het vierde lid bedoelde periode niet hebben verstrekt of niet op de wijze zoals voorgeschreven krachtens het [derde lid van artikel 17a](https://wetten.overheid.nl/jci1.3:c:BWBR0008290&hoofdstuk=3&artikel=17a&z=2018-03-22&g=2017-01-01), doet Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties daarvan mededeling aan Onze Minister wie het aangaat.
 
 ### HOOFDSTUK 4. OVERIGE BEPALINGEN, OVERGANGSBEPALINGEN EN SLOTBEPALINGEN
 
