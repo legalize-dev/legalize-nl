@@ -4,7 +4,7 @@ identifier: "BWBR0021917"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2017-05-01"
-last_updated: "2014-07-01"
+last_updated: "2017-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0021917"
 soort: "ministeriele-regeling"
@@ -56,7 +56,7 @@ In deze regeling wordt verstaan onder:
 
 ##### Artikel 2
 
-1. Aan de in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0021917&bijlage=1&z=2014-07-01&g=2014-07-01) bij deze regeling genoemde functionarissen of instanties wordt mandaat verleend om:
+1. Aan de in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0021917&bijlage=1&z=2017-01-01&g=2017-01-01) bij deze regeling genoemde functionarissen of instanties wordt mandaat verleend om:
 
 - a. besluiten te nemen op aanvragen van vergunningen als bedoeld in [artikel 3, eerste lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0021605&artikel=3);
 
@@ -80,7 +80,7 @@ In deze regeling wordt verstaan onder:
 
 ##### Artikel 4
 
-1. De in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0021917&artikel=2&z=2014-07-01&g=2014-07-01), bedoelde besluiten worden als volgt ondertekend:
+1. De in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0021917&artikel=2&z=2017-01-01&g=2017-01-01), bedoelde besluiten worden als volgt ondertekend:
 
 De Minister van Volksgezondheid, Welzijn en Sport,
 
@@ -88,7 +88,7 @@ namens deze:
 
 (gevolgd door handtekening en naam van de gemandateerde)
 
-2. De in [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0021917&artikel=2&z=2014-07-01&g=2014-07-01), bedoelde besluiten worden als volgt ondertekend:
+2. De in [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0021917&artikel=2&z=2017-01-01&g=2017-01-01), bedoelde besluiten worden als volgt ondertekend:
 
 De Minister van Volksgezondheid, Welzijn en Sport,
 
@@ -132,6 +132,6 @@ Deze regeling wordt aangehaald als: Regeling mandaatverlening aan de GGD’en me
 | Veiligheidsregio Fryslân | Directeur Publieke Gezondheid |
 | Veiligheidsregio Kennemerland | Directeur Publieke Gezondheid |
 | Veiligheidsregio Limburg Noord | Directeur Publieke Gezondheid |
-| Volksgezondheid regio Utrecht | Directeur Publieke Gezondheid |
+| GGD regio Utrecht | Directeur Publieke Gezondheid |
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
