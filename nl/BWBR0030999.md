@@ -4,7 +4,7 @@ identifier: "BWBR0030999"
 country: "nl"
 rank: "wet"
 publication_date: "2017-01-01"
-last_updated: "2015-01-01"
+last_updated: "2017-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0030999"
 soort: "wet"
@@ -128,6 +128,8 @@ Wijzigt de Wet op de omzetbelasting 1968.
 
 ##### Artikel XX
 
+Wijzigt de Wet op de motorrijtuigenbelasting 1994.
+
 Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel XXI
@@ -204,7 +206,7 @@ In afwijking in zoverre van de eerste volzin blijft de regeling inzake het rente
 
 3. Met betrekking tot andere belastingaanslagen dan bedoeld in het eerste lid, blijft [artikel 29 van de Invorderingswet 1990](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=29), zoals dat artikel luidde op 31 december 2012, van toepassing voor zover een renteperiode is gelegen vóór 1 januari 2013.
 
-4. In afwijking van de aanhef van [artikel XXVIII](https://wetten.overheid.nl/jci1.3:c:BWBR0030999&artikel=XXVIII&z=2015-01-01&g=2015-01-01) gelden de in dat artikel opgenomen wijzigingen van de [Algemene wet inzake rijksbelastingen](https://wetten.overheid.nl/jci1.3:c:BWBR0002320) ook met betrekking tot belastingaanslagen vennootschapsbelasting die worden vastgesteld in het kalenderjaar 2012 en betrekking hebben op tijdvakken die zijn aangevangen op of na 1 januari 2012.
+4. In afwijking van de aanhef van [artikel XXVIII](https://wetten.overheid.nl/jci1.3:c:BWBR0030999&artikel=XXVIII&z=2017-01-01&g=2017-01-01) gelden de in dat artikel opgenomen wijzigingen van de [Algemene wet inzake rijksbelastingen](https://wetten.overheid.nl/jci1.3:c:BWBR0002320) ook met betrekking tot belastingaanslagen vennootschapsbelasting die worden vastgesteld in het kalenderjaar 2012 en betrekking hebben op tijdvakken die zijn aangevangen op of na 1 januari 2012.
 
 5. Voor zover de in [artikel 30i, derde lid, van de Algemene wet inzake rijksbelastingen](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=30i) bedoelde renteperiode is gelegen voor 1 januari 2013, geldt de regeling inzake het rentepercentage van [artikel 30f, vijfde lid, van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=30f) zoals dat artikel luidde vóór 1 januari 2013.
 
@@ -256,23 +258,25 @@ Ingeval de samenloop van wetten die in 2011 in het Staatsblad zijn of worden gep
 
 1. Deze wet treedt in werking met ingang van 1 januari 2012, met dien verstande dat:
 
-- a. [artikel I, onderdelen A, B, M, N, P, Q en R](https://wetten.overheid.nl/jci1.3:c:BWBR0030999&artikel=I&z=2015-01-01&g=2015-01-01), eerst toepassing vindt nadat [artikel 10.1 van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=10.1) bij het begin van het kalenderjaar 2012 is toegepast;
+- a. [artikel I, onderdelen A, B, M, N, P, Q en R](https://wetten.overheid.nl/jci1.3:c:BWBR0030999&artikel=I&z=2017-01-01&g=2017-01-01), eerst toepassing vindt nadat [artikel 10.1 van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=10.1) bij het begin van het kalenderjaar 2012 is toegepast;
 
-- b. [artikel V, onderdelen C en D](https://wetten.overheid.nl/jci1.3:c:BWBR0030999&artikel=V&z=2015-01-01&g=2015-01-01), eerst toepassing vindt nadat [artikel 20a, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002471&artikel=20a), onderscheidenlijk [20b, tweede lid, van de Wet op de loonbelasting 1964](https://wetten.overheid.nl/jci1.3:c:BWBR0002471&artikel=20b) bij het begin van het kalenderjaar 2012 is toegepast;
+- b. [artikel V, onderdelen C en D](https://wetten.overheid.nl/jci1.3:c:BWBR0030999&artikel=V&z=2017-01-01&g=2017-01-01), eerst toepassing vindt nadat [artikel 20a, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002471&artikel=20a), onderscheidenlijk [20b, tweede lid, van de Wet op de loonbelasting 1964](https://wetten.overheid.nl/jci1.3:c:BWBR0002471&artikel=20b) bij het begin van het kalenderjaar 2012 is toegepast;
 
-- c. [artikel V, onderdelen F, G en H](https://wetten.overheid.nl/jci1.3:c:BWBR0030999&artikel=V&z=2015-01-01&g=2015-01-01), eerst toepassing vindt nadat [artikel 22d van de Wet op de loonbelasting 1964](https://wetten.overheid.nl/jci1.3:c:BWBR0002471&artikel=22d) bij het begin van het kalenderjaar 2012 is toegepast;
+- c. [artikel V, onderdelen F, G en H](https://wetten.overheid.nl/jci1.3:c:BWBR0030999&artikel=V&z=2017-01-01&g=2017-01-01), eerst toepassing vindt nadat [artikel 22d van de Wet op de loonbelasting 1964](https://wetten.overheid.nl/jci1.3:c:BWBR0002471&artikel=22d) bij het begin van het kalenderjaar 2012 is toegepast;
 
-- d. de wijzigingen van de [Wet op de vennootschapsbelasting 1969](https://wetten.overheid.nl/jci1.3:c:BWBR0002672) ingevolge [artikel X, onderdelen L, onder 3, en M, onder 3](https://wetten.overheid.nl/jci1.3:c:BWBR0030999&artikel=X&z=2015-01-01&g=2015-01-01), niet van toepassing zijn met betrekking tot de verwerving van een belang in een lichaam indien de overnameschuld en het vermogen van dat lichaam voor 15 november 2011 deel zijn gaan uitmaken van het vermogen van eenzelfde lichaam;
+- d. de wijzigingen van de [Wet op de vennootschapsbelasting 1969](https://wetten.overheid.nl/jci1.3:c:BWBR0002672) ingevolge [artikel X, onderdelen L, onder 3, en M, onder 3](https://wetten.overheid.nl/jci1.3:c:BWBR0030999&artikel=X&z=2017-01-01&g=2017-01-01), niet van toepassing zijn met betrekking tot de verwerving van een belang in een lichaam indien de overnameschuld en het vermogen van dat lichaam voor 15 november 2011 deel zijn gaan uitmaken van het vermogen van eenzelfde lichaam;
 
-- e. de wijzigingen van de [Wet op de vennootschapsbelasting 1969](https://wetten.overheid.nl/jci1.3:c:BWBR0002672) ingevolge [artikel X, onderdeel Q](https://wetten.overheid.nl/jci1.3:c:BWBR0030999&artikel=X&z=2015-01-01&g=2015-01-01), niet van toepassing zijn met betrekking tot de verwerving of uitbreiding van een belang in een maatschappij welke voor 15 november 2011 deel is gaan uitmaken van dezelfde fiscale eenheid als de maatschappij die dat belang heeft verworven of uitgebreid;
+- e. de wijzigingen van de [Wet op de vennootschapsbelasting 1969](https://wetten.overheid.nl/jci1.3:c:BWBR0002672) ingevolge [artikel X, onderdeel Q](https://wetten.overheid.nl/jci1.3:c:BWBR0030999&artikel=X&z=2017-01-01&g=2017-01-01), niet van toepassing zijn met betrekking tot de verwerving of uitbreiding van een belang in een maatschappij welke voor 15 november 2011 deel is gaan uitmaken van dezelfde fiscale eenheid als de maatschappij die dat belang heeft verworven of uitgebreid;
 
-- f. [artikel X](https://wetten.overheid.nl/jci1.3:c:BWBR0030999&artikel=X&z=2015-01-01&g=2015-01-01) voor het eerst toepassing vindt met betrekking tot boekjaren die aanvangen op of na 1 januari 2012;
+- f. [artikel X](https://wetten.overheid.nl/jci1.3:c:BWBR0030999&artikel=X&z=2017-01-01&g=2017-01-01) voor het eerst toepassing vindt met betrekking tot boekjaren die aanvangen op of na 1 januari 2012;
 
-- g. [artikel I, onderdeel Ba](https://wetten.overheid.nl/jci1.3:c:BWBR0030999&artikel=I&z=2015-01-01&g=2015-01-01), voor het eerst toepassing vindt met betrekking tot kosten of uitgaven ter zake van speur- en ontwikkelingswerk dat wordt verricht na 31 december 2011.
+- g. [artikel I, onderdeel Ba](https://wetten.overheid.nl/jci1.3:c:BWBR0030999&artikel=I&z=2017-01-01&g=2017-01-01), voor het eerst toepassing vindt met betrekking tot kosten of uitgaven ter zake van speur- en ontwikkelingswerk dat wordt verricht na 31 december 2011.
 
-2. [Artikel XVI](https://wetten.overheid.nl/jci1.3:c:BWBR0030999&artikel=XVI&z=2015-01-01&g=2015-01-01)werkt terug tot en met 15 juni 2011.
+2. [Artikel XVI](https://wetten.overheid.nl/jci1.3:c:BWBR0030999&artikel=XVI&z=2017-01-01&g=2017-01-01)werkt terug tot en met 15 juni 2011.
 
-3. In afwijking van het eerste lid treden [artikel XX](https://wetten.overheid.nl/jci1.3:c:BWBR0030999&artikel=XX&z=2015-01-01&g=2015-01-01), [artikel XXI](https://wetten.overheid.nl/jci1.3:c:BWBR0030999&artikel=XXI&z=2015-01-01&g=2015-01-01) en [artikel XXXIII](https://wetten.overheid.nl/jci1.3:c:BWBR0030999&artikel=XXXIII&z=2015-01-01&g=2015-01-01) in werking op een bij koninklijk besluit te bepalen tijdstip.
+3. In afwijking van het eerste lid treden [artikel XX](https://wetten.overheid.nl/jci1.3:c:BWBR0030999&artikel=XX&z=2017-01-01&g=2017-01-01), [artikel XXI](https://wetten.overheid.nl/jci1.3:c:BWBR0030999&artikel=XXI&z=2017-01-01&g=2017-01-01) en [artikel XXXIII](https://wetten.overheid.nl/jci1.3:c:BWBR0030999&artikel=XXXIII&z=2017-01-01&g=2017-01-01) in werking op een bij koninklijk besluit te bepalen tijdstip.
+
+4. Het eerste lid, onderdeel e, vindt geen toepassing indien de fiscale eenheid, bedoeld in dat onderdeel, op enig tijdstip na 31 december 2016 deel is gaan uitmaken van een andere fiscale eenheid.
 
 ##### Artikel XXXIX
 
