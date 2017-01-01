@@ -4,7 +4,7 @@ identifier: "BWBR0034991"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-11-27"
-last_updated: "2016-07-20"
+last_updated: "2017-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0034991"
 soort: "ministeriele-regeling"
@@ -42,9 +42,7 @@ Besluit:
 
 ##### Artikel 1
 
-1. In deze regeling wordt verstaan onder het besluit: het [Warenwetbesluit verpakkingen en gebruiksartikelen](https://wetten.overheid.nl/jci1.3:c:BWBR0018370).
-
-2. Deze regeling is niet van toepassing op verpakkingen of gebruiksartikelen die rechtmatig zijn vervaardigd of in de handel zijn gebracht in een ander lidstaat van de Europese Unie of in een staat, niet zijnde een lidstaat van de Europese Unie, die partij is bij een tot een douane-unie strekkend Verdrag, dan we rechtmatig is vervaardigd in een staat die partij is bij een tot een vrijhandelszone strekkend Verdrag dat Nederland bindt, en die voldoen aan eisen die een beschermingsniveau bieden dat ten minste gelijkwaardig is aan het niveau dat met de nationale eisen wordt nagestreefd.
+In deze regeling wordt verstaan onder het besluit: het [Warenwetbesluit verpakkingen en gebruiksartikelen](https://wetten.overheid.nl/jci1.3:c:BWBR0018370).
 
 ##### Artikel 2
 
@@ -76,7 +74,7 @@ Als materialen als bedoeld in [artikel 3, eerste lid, onder a](https://wetten.ov
 
 ##### Artikel 3
 
-Een materiaal, genoemd in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0034991&artikel=2&z=2016-07-20&g=2016-07-20), is vervaardigd uit de voor dat materiaal in de bij deze regeling behorende bijlage aangegeven stoffen, welke voldoen aan de daarin voor die stoffen gestelde regels.
+Een materiaal, genoemd in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0034991&artikel=2&z=2017-01-01&g=2017-01-01), is vervaardigd uit de voor dat materiaal in de bij deze regeling behorende bijlage aangegeven stoffen, welke voldoen aan de daarin voor die stoffen gestelde regels.
 
 ##### Artikel 4
 
@@ -84,11 +82,11 @@ Bij de vervaardiging van verpakkingen en gebruiksartikelen mogen grond- en hulps
 
 ##### Artikel 5
 
-Verpakkingen en gebruiksartikelen, vervaardigd uit materiaal als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0034991&artikel=2&z=2016-07-20&g=2016-07-20), mogen aan eet- en drinkwaren geen grotere hoeveelheden stoffen afgeven dan voor die stoffen is aangegeven in de bij deze regeling behorende bijlage.
+Verpakkingen en gebruiksartikelen, vervaardigd uit materiaal als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0034991&artikel=2&z=2017-01-01&g=2017-01-01), mogen aan eet- en drinkwaren geen grotere hoeveelheden stoffen afgeven dan voor die stoffen is aangegeven in de bij deze regeling behorende bijlage.
 
 ##### Artikel 6
 
-Ten aanzien van verpakkingen en gebruiksartikelen, bestaande uit materialen als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0034991&artikel=2&z=2016-07-20&g=2016-07-20), gelden de onderzoekingsmethoden zoals opgenomen in de bij deze regeling behorende bijlage.
+Ten aanzien van verpakkingen en gebruiksartikelen, bestaande uit materialen als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0034991&artikel=2&z=2017-01-01&g=2017-01-01), gelden de onderzoekingsmethoden zoals opgenomen in de bij deze regeling behorende bijlage.
 
 ##### Artikel 7
 
@@ -110,7 +108,7 @@ Deze regeling wordt aangehaald als: Warenwetregeling verpakkingen en gebruiksart
 
 ### 0.1. Inleiding
 
-In Verordening (EG) nr. 1935/20041Verordening (EG) nr. 1935/2004 van het Europees Parlement en de Raad van 27 oktober 2004 inzake materialen en voorwerpen bestemd om met levensmiddelen in contact te komen en houdende intrekking van de [Richtlijnen 80/590/EEG](onbekend) en [89/109/EEG](onbekend) (PbEG 2004, L 338). zijn algemene eisen gesteld waaraan alle verpakkingsmaterialen en gebruiksartikelen die in contact zijn of komen met levensmiddelen moeten voldoen.
+In Verordening (EG) nr. 1935/20041Verordening (EG) nr. 1935/2004 van het Europees Parlement en de Raad van 27 oktober 2004 inzake materialen en voorwerpen bestemd om met levensmiddelen in contact te komen en houdende intrekking van de [Richtlijnen 80/590/EEG](31980L0590) en [89/109/EEG](31989L0109) (PbEG 2004, L 338). zijn algemene eisen gesteld waaraan alle verpakkingsmaterialen en gebruiksartikelen die in contact zijn of komen met levensmiddelen moeten voldoen.
 
 Verordening (EG) nr. 2023/20062Verordening (EG) nr. 2023/2006 van de Commissie van 22 december 2006 betreffende goede fabricagemethoden voor materialen en voorwerpen bestemd om met levensmiddelen in contact te komen (PbEG 2006, L 384). is een verordening die van toepassing is op alle verpakkingsmaterialen en gebruiksartikelen en stelt eisen aan het vervaardigen van die producten.
 
