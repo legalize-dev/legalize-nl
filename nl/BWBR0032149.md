@@ -4,7 +4,7 @@ identifier: "BWBR0032149"
 country: "nl"
 rank: "amvb"
 publication_date: "2022-03-02"
-last_updated: "2013-01-01"
+last_updated: "2017-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0032149"
 soort: "AMvB"
@@ -60,7 +60,7 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
 - d. **meldpunt:** door Onze Minister aangewezen instantie waar de aanbieder een melding doet.
 
-#### § 2. Technische en organisatorische maatregelen
+#### § 1a. Aanwijzing antenne-opstelpunten
 
 ##### Artikel 2
 
@@ -70,7 +70,7 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
 - b. de aanwijzing van een ter zake kundige functionaris die binnen zijn organisatie verantwoordelijk en beschikbaar is voor het nemen en uitvoeren van de maatregelen, bedoeld onder a;
 
-- c. de aanwijzing van de functionaris, bedoeld in [artikel 9, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032149&paragraaf=3&artikel=9&z=2013-01-01&g=2013-01-01).
+- c. de aanwijzing van de functionaris, bedoeld in [artikel 9, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032149&paragraaf=3&artikel=9&z=2017-01-01&g=2017-01-01).
 
 2. De aanbieder verstrekt de contactgegevens van de in het eerste lid, onder b, bedoelde functionaris en wijzigingen daarvan onverwijld aan Onze Minister.
 
@@ -78,11 +78,11 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
 ##### Artikel 3
 
-De aanbieder inventariseert, beoordeelt en evalueert regelmatig, mede aan de hand van de in [artikel 11a.2, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&artikel=11a.2) bedoelde meldingen, de risico’s voor de veiligheid en voor de integriteit van zijn netwerken en diensten. Hij verwerkt de resultaten hiervan in het continuïteitsplan, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0032149&paragraaf=2&artikel=2&z=2013-01-01&g=2013-01-01).
+De aanbieder inventariseert, beoordeelt en evalueert regelmatig, mede aan de hand van de in [artikel 11a.2, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&artikel=11a.2) bedoelde meldingen, de risico’s voor de veiligheid en voor de integriteit van zijn netwerken en diensten. Hij verwerkt de resultaten hiervan in het continuïteitsplan, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0032149&paragraaf=2&artikel=2&z=2017-01-01&g=2017-01-01).
 
 ##### Artikel 4
 
-De aanbieder zorgt ervoor dat bij hem werkzame personen die betrokken zijn bij de voor de veiligheid en de integriteit van zijn netwerk relevante processen op de hoogte zijn van de inhoud van het continuïteitsplan, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0032149&paragraaf=2&artikel=2&z=2013-01-01&g=2013-01-01), en zorgt ervoor dat die personen te allen tijde over dit continuïteitsplan kunnen beschikken.
+De aanbieder zorgt ervoor dat bij hem werkzame personen die betrokken zijn bij de voor de veiligheid en de integriteit van zijn netwerk relevante processen op de hoogte zijn van de inhoud van het continuïteitsplan, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0032149&paragraaf=2&artikel=2&z=2017-01-01&g=2017-01-01), en zorgt ervoor dat die personen te allen tijde over dit continuïteitsplan kunnen beschikken.
 
 ##### Artikel 5
 
@@ -140,13 +140,13 @@ De aanbieder zorgt ervoor dat bij hem werkzame personen die betrokken zijn bij d
 
 ##### Artikel 9
 
-1. De aanbieder wijst een in Nederland gevestigde functionaris aan die verantwoordelijk is voor het doen van de in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0032149&paragraaf=3&artikel=7&z=2013-01-01&g=2013-01-01) bedoelde melding en die tevens optreedt als eerste aanspreekpunt van de aanbieder voor het meldpunt in geval van een inbreuk op de veiligheid of een verlies van integriteit als bedoeld in [artikel 11a.2, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&artikel=11a.2).
+1. De aanbieder wijst een in Nederland gevestigde functionaris aan die verantwoordelijk is voor het doen van de in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0032149&paragraaf=3&artikel=7&z=2017-01-01&g=2017-01-01) bedoelde melding en die tevens optreedt als eerste aanspreekpunt van de aanbieder voor het meldpunt in geval van een inbreuk op de veiligheid of een verlies van integriteit als bedoeld in [artikel 11a.2, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&artikel=11a.2).
 
 2. De in het eerste lid bedoelde functionaris is te allen tijde voor het meldpunt bereikbaar door middel van elektronische communicatie.
 
 3. De aanbieder verstrekt de contactgegevens van de in het eerste lid bedoelde functionaris en wijzigingen daarvan onverwijld aan het meldpunt.
 
-#### § 4. Slotbepalingen
+#### § 3. Meldplicht en informatieplicht
 
 ##### Artikel 10
 
@@ -155,5 +155,69 @@ Dit besluit treedt in werking met ingang van 1 januari 2013.
 ##### Artikel 11
 
 Dit besluit wordt aangehaald als: Besluit continuïteit openbare elektronische communicatienetwerken en -diensten.
+
+Lasten en bevelen dat dit besluit met de daarbij behorende toelichting in het Staatsblad zal worden geplaatst.
+
+##### Artikel 1a
+
+1. Als antenne-opstelpunten, bedoeld in [artikel 11a.3, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&artikel=11a.3), worden aangewezen de opstelpunten met een hoofdzender voor het verspreiden van programma’s voor het omroepnet voor radio van de regionale media-instelling, bedoeld in [artikel 3.7, onderdeel b, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&artikel=3.7).
+
+2. Er is sprake van een hoofdzender als bedoeld in het eerste lid, indien op grond van de frequentievergunning de desbetreffende antenne is geplaatst op een hoogte van ten minste 70 meter boven het maaiveld en met een vermogen van ten minste 2kW mag uitzenden.
+
+#### § 2. Technische en organisatorische maatregelen
+
+##### Artikel 2a
+
+Dit onderdeel is nog niet inwerking getreden
+
+##### Artikel 5a
+
+1. Een continuïteitsplan als bedoeld in [artikel 11a.3, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&artikel=11a.3), bevat in elk geval de volgende onderdelen:
+
+- a. een beschrijving van de in [artikel 11a.3, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&artikel=11a.3) bedoelde risico’s en maatregelen;
+
+- b. de aanwijzing van een ter zake kundige functionaris die binnen zijn organisatie verantwoordelijk en beschikbaar is voor het nemen en uitvoeren van de maatregelen, bedoeld in onderdeel a;
+
+- c. een beschrijving van de wijze waarop wordt gerealiseerd dat het continuïteitsplan en de daarin beschreven maatregelen bij veranderende omstandigheden worden aangepast;
+
+- d. een beschrijving van de wijze waarop wordt bevorderd dat personen die bij de aanbieder van het opstelpunt werkzaam zijn, op de hoogte zijn van de inhoud van het continuïteitsplan.
+
+2. De in het eerste lid, onderdeel a, bedoelde beschrijving heeft in elk geval betrekking op de volgende onderwerpen:
+
+- a. beveiliging van de toegang tot het antenne-opstelpunt;
+
+- b. operationele werkzaamheden op het antenne-opstelpunt;
+
+- c. onderhoud van het antenne-opstelpunt;
+
+- d. brandpreventie;
+
+- e. branddetectie;
+
+- f. brandbestrijding;
+
+- g. onderbreking van de elektriciteitsvoorziening.
+
+##### Artikel 5b
+
+1. Een continuïteitsplan als bedoeld in [artikel 11a.3, vierde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&artikel=11a.3), bevat in elk geval de volgende onderdelen:
+
+- a. een beschrijving van de in de [artikelen 11a.1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&artikel=11a.1), en [11a.3, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&artikel=11a.3) bedoelde risico’s;
+
+- b. een beschrijving van de wijze waarop de maatregelen, bedoeld in de [artikelen 11a.1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&artikel=11a.1), en [artikel 11a.3, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&artikel=11a.3), op elkaar worden afgestemd;
+
+- c. een aanduiding per maatregel van de aanbieder en van de functionaris van deze aanbieder die verantwoordelijk en beschikbaar is voor het nemen en uitvoeren van deze maatregel;
+
+- d. een beschrijving van de wijze waarop wordt gerealiseerd dat het gezamenlijke continuïteitsplan en de daarin beschreven afstemming van maatregelen bij veranderende omstandigheden worden aangepast;
+
+- e. een beschrijving van de wijze waarop wordt bevorderd dat personen die bij de aanbieder werkzaam zijn, op de hoogte zijn van de inhoud van het gezamenlijke continuïteitsplan;
+
+- f. afspraken over een effectieve beslechting binnen een redelijke termijn van onderlinge geschillen over de uitvoering of wijziging van het plan;
+
+- g. non-discriminatoire voorwaarden voor deelname aan het plan van nieuwe aanbieders als bedoeld in [artikel 11a.3, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&artikel=11a.3).
+
+2. De onderdelen a, b en c van het eerste lid hebben in elk geval betrekking op de onderwerpen, genoemd in de [artikelen 2a](https://wetten.overheid.nl/jci1.3:c:BWBR0032149&paragraaf=2&artikel=2a&z=2017-01-01&g=2017-01-01) en [5a, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032149&paragraaf=2&artikel=5a&z=2017-01-01&g=2017-01-01).
+
+#### § 4. Slotbepalingen
 
 Lasten en bevelen dat dit besluit met de daarbij behorende toelichting in het Staatsblad zal worden geplaatst.
