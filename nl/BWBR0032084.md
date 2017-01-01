@@ -4,7 +4,7 @@ identifier: "BWBR0032084"
 country: "nl"
 rank: "amvb"
 publication_date: "2018-01-01"
-last_updated: "2013-01-01"
+last_updated: "2017-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0032084"
 soort: "AMvB"
@@ -100,7 +100,7 @@ Het in [artikel 6, tweede lid, onderdeel a, van de wet](https://wetten.overheid.
 
 2. Het schakelprogramma, bedoeld in het eerste lid, omvat onderwijseenheden op het gebied van het recht die worden aangeboden door een universiteit of de Open Universiteit als bedoeld in de [Wet op het hoger onderwijs en wetenschappelijk onderzoek](https://wetten.overheid.nl/jci1.3:c:BWBR0005682), met een totale studielast van ten minste 60 studiepunten als bedoeld in [artikel 7.4, eerste lid, van de Wet op het hoger onderwijs en wetenschappelijk onderzoek](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=7.4).
 
-3. Voor de toepassing van [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0032084&hoofdstuk=II&artikel=2&z=2013-01-01&g=2013-01-01) wordt onder afsluitend examen als bedoeld in dat artikel tevens begrepen het schakelprogramma, bedoeld in het eerste en tweede lid.
+3. Voor de toepassing van [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0032084&hoofdstuk=II&artikel=2&z=2017-01-01&g=2017-01-01) wordt onder afsluitend examen als bedoeld in dat artikel tevens begrepen het schakelprogramma, bedoeld in het eerste en tweede lid.
 
 ### Hoofdstuk III. Benoeming, toevoeging en waarneming
 
@@ -246,7 +246,7 @@ In het register worden van iedere kandidaat-notaris opgenomen:
 
 1. Onze Minister, de KNB, het Bureau, de kamers voor het notariaat, alsmede het gerechtshof te Amsterdam hebben ten behoeve van hun taakvervulling op grond van de [wet](https://wetten.overheid.nl/jci1.3:c:BWBR0010388) onbeperkte inzage in het register.
 
-2. De Commissie toegang notariaat heeft ten behoeve van het onderzoek, bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0032084&hoofdstuk=III&artikel=5&z=2013-01-01&g=2013-01-01), onbeperkte inzage in de gegevens die ten aanzien van de betrokken verzoeker of verzoekers in het register zijn opgenomen.
+2. De Commissie toegang notariaat heeft ten behoeve van het onderzoek, bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0032084&hoofdstuk=III&artikel=5&z=2017-01-01&g=2017-01-01), onbeperkte inzage in de gegevens die ten aanzien van de betrokken verzoeker of verzoekers in het register zijn opgenomen.
 
 3. De KNB kan, al dan niet op verzoek, gegevens uit het register verstrekken aan een bestuursorgaan, voor zover dit noodzakelijk is voor de goede vervulling van de publiekrechtelijke taak van de KNB of van het bestuursorgaan.
 
@@ -272,7 +272,7 @@ In het register worden van iedere kandidaat-notaris opgenomen:
 
 1. Voor zover een beslissing van een kamer voor het notariaat of het gerechtshof Amsterdam strekt tot oplegging van een geldboete als bedoeld in [artikel 103, eerste lid, onderdeel c, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0010388&artikel=103), levert zij een executoriale titel op, die met toepassing van de voorschriften van het [Wetboek van Burgerlijke Rechtsvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001827) kan worden tenuitvoergelegd.
 
-2. De tenuitvoerlegging van een beslissing, bedoeld in het eerste lid, geschiedt door of vanwege Onze Minister. Het bepaalde bij of krachtens het [Besluit tenuitvoerlegging geldboeten](https://wetten.overheid.nl/jci1.3:c:BWBR0006717) is van overeenkomstige toepassing, met uitzondering van de [artikelen 3, eerste lid, tweede volzin, en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006717&artikel=3), [3a](https://wetten.overheid.nl/jci1.3:c:BWBR0006717&artikel=3a), [5](https://wetten.overheid.nl/jci1.3:c:BWBR0006717&artikel=5), [8](https://wetten.overheid.nl/jci1.3:c:BWBR0006717&artikel=8) en [9 van dat besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0006717&artikel=9), en met dien verstande dat de overeenkomstige toepassing van artikel 3, derde lid, van dat besluit ziet op het geval waarin ingevolge de beslissing betaling in termijnen is toegestaan.
+2. De tenuitvoerlegging van een beslissing, bedoeld in het eerste lid, geschiedt door of vanwege Onze Minister.
 
 ### Hoofdstuk VI. Overige bepalingen
 
