@@ -4,7 +4,7 @@ identifier: "BWBR0020422"
 country: "nl"
 rank: "amvb"
 publication_date: "2020-06-13"
-last_updated: "2016-04-20"
+last_updated: "2017-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0020422"
 soort: "AMvB"
@@ -56,9 +56,9 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
 - b. SI: het Internationale stelsel van meeteenheden (Système International);
 
-- c. SI-grondeenheden: de eenheden, genoemd in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020422&paragraaf=2&artikel=3&z=2016-04-20&g=2016-04-20);
+- c. SI-grondeenheden: de eenheden, genoemd in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020422&paragraaf=2&artikel=3&z=2017-01-01&g=2017-01-01);
 
-- d. afgeleide SI-eenheden: de eenheden, bedoeld in [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020422&paragraaf=2&artikel=5&z=2016-04-20&g=2016-04-20).
+- d. afgeleide SI-eenheden: de eenheden, bedoeld in [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020422&paragraaf=2&artikel=5&z=2017-01-01&g=2017-01-01).
 
 #### § 2. Erkende meeteenheden
 
@@ -236,9 +236,9 @@ Vervallen
 
 2. Het gebruik van de in het eerste lid genoemde voorvoegsels is van toepassing op:
 
-- a. de SI-grondeenheden, genoemd in [art. 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020422&paragraaf=2&artikel=3&z=2016-04-20&g=2016-04-20);
+- a. de SI-grondeenheden, genoemd in [art. 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020422&paragraaf=2&artikel=3&z=2017-01-01&g=2017-01-01);
 
-- b. de afgeleide SI-eenheden, genoemd in [artikel 5, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020422&paragraaf=2&artikel=5&z=2016-04-20&g=2016-04-20);
+- b. de afgeleide SI-eenheden, genoemd in [artikel 5, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020422&paragraaf=2&artikel=5&z=2017-01-01&g=2017-01-01);
 
 - c. de eenheden: liter, ton, bar, decimale graad of gon, atomaire massaeenheid, elektronvolt, dioptrie, are, barn, metriekkaraat, tex, voltampère en voltampère reactief.
 
@@ -308,7 +308,7 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 ##### Artikel 20a
 
-Dit besluit, met uitzondering van de [artikelen 9](https://wetten.overheid.nl/jci1.3:c:BWBR0020422&paragraaf=2&artikel=9&z=2016-04-20&g=2016-04-20), [10](https://wetten.overheid.nl/jci1.3:c:BWBR0020422&paragraaf=2&artikel=10&z=2016-04-20&g=2016-04-20) en [11](https://wetten.overheid.nl/jci1.3:c:BWBR0020422&paragraaf=2&artikel=11&z=2016-04-20&g=2016-04-20) alsmede [paragraaf 3](https://wetten.overheid.nl/jci1.3:c:BWBR0020422&paragraaf=3&z=2016-04-20&g=2016-04-20), is mede van toepassing in de openbare lichamen Bonaire, Sint Eustatius en Saba en berust voor de toepassing in die openbare lichamen op [artikel 2 van de IJkwet BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028247&artikel=2).
+Dit besluit, met uitzondering van [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0020422&paragraaf=2&artikel=9&z=2017-01-01&g=2017-01-01) alsmede [paragraaf 3](https://wetten.overheid.nl/jci1.3:c:BWBR0020422&paragraaf=3&z=2017-01-01&g=2017-01-01), is mede van toepassing in de openbare lichamen Bonaire, Sint Eustatius en Saba en berust voor de toepassing in die openbare lichamen op [artikel 2 van de IJkwet BES 2014](https://wetten.overheid.nl/jci1.3:c:BWBR0035310&artikel=2).
 
 #### § 4. Slotbepalingen
 
