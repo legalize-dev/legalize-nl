@@ -4,7 +4,7 @@ identifier: "BWBR0018743"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-09-03"
-last_updated: "2016-04-01"
+last_updated: "2017-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0018743"
 soort: "ministeriele-regeling"
@@ -58,7 +58,7 @@ In deze regeling wordt verstaan onder:
 
 ##### Artikel 2
 
-Deze regeling is van toepassing op de subsidies, bedoeld in [Hoofdstuk II](https://wetten.overheid.nl/jci1.3:c:BWBR0018743&hoofdstuk=II&z=2016-04-01&g=2016-04-01).
+Deze regeling is van toepassing op de subsidies, bedoeld in [Hoofdstuk II](https://wetten.overheid.nl/jci1.3:c:BWBR0018743&hoofdstuk=II&z=2017-01-01&g=2017-01-01).
 
 ##### Artikel 3
 
@@ -302,7 +302,7 @@ De subsidieontvanger die aan derden goederen ter beschikking stelt of voor derde
 
 ##### Artikel 31
 
-Indien bij de minister het vermoeden is gerezen dat [artikel 28](https://wetten.overheid.nl/jci1.3:c:BWBR0018743&hoofdstuk=I&paragraaf=8&artikel=28&z=2016-04-01&g=2016-04-01) niet is nageleefd, spant de subsidieontvanger zich desgevraagd in de jaarrekening van de desbetreffende organisatie over te leggen.
+Indien bij de minister het vermoeden is gerezen dat [artikel 28](https://wetten.overheid.nl/jci1.3:c:BWBR0018743&hoofdstuk=I&paragraaf=8&artikel=28&z=2017-01-01&g=2017-01-01) niet is nageleefd, spant de subsidieontvanger zich desgevraagd in de jaarrekening van de desbetreffende organisatie over te leggen.
 
 #### § 9. De aanvraag tot subsidievaststelling
 
@@ -312,9 +312,9 @@ Indien bij de minister het vermoeden is gerezen dat [artikel 28](https://wetten.
 
 2. De aanvraag voor de subsidievaststelling gaat vergezeld van:
 
-- a. het verslag, bedoeld in [artikel 22](https://wetten.overheid.nl/jci1.3:c:BWBR0018743&hoofdstuk=I&paragraaf=8&artikel=22&z=2016-04-01&g=2016-04-01);
+- a. het verslag, bedoeld in [artikel 22](https://wetten.overheid.nl/jci1.3:c:BWBR0018743&hoofdstuk=I&paragraaf=8&artikel=22&z=2017-01-01&g=2017-01-01);
 
-- b. de subsidiedeclaratie, bedoeld in [artikel 33](https://wetten.overheid.nl/jci1.3:c:BWBR0018743&hoofdstuk=I&paragraaf=9&artikel=33&z=2016-04-01&g=2016-04-01);
+- b. de subsidiedeclaratie, bedoeld in [artikel 33](https://wetten.overheid.nl/jci1.3:c:BWBR0018743&hoofdstuk=I&paragraaf=9&artikel=33&z=2017-01-01&g=2017-01-01);
 
 - c. de jaarrekening; en
 
@@ -352,7 +352,7 @@ De subsidiedeclaratie geeft een zodanig inzicht dat een verantwoord oordeel kan 
 
 ##### Artikel 36
 
-Binnen 22 weken na ontvangst van de aanvraag, bedoeld in [artikel 32](https://wetten.overheid.nl/jci1.3:c:BWBR0018743&hoofdstuk=I&paragraaf=9&artikel=32&z=2016-04-01&g=2016-04-01), geeft de minister een beschikking tot vaststelling van de subsidie.
+Binnen 22 weken na ontvangst van de aanvraag, bedoeld in [artikel 32](https://wetten.overheid.nl/jci1.3:c:BWBR0018743&hoofdstuk=I&paragraaf=9&artikel=32&z=2017-01-01&g=2017-01-01), geeft de minister een beschikking tot vaststelling van de subsidie.
 
 ### Hoofdstuk II. Specifieke subsidiebepalingen
 
@@ -380,11 +380,25 @@ Vervallen
 
 In deze paragraaf wordt verstaan onder:
 
-- a. screeningsorganisatie: een rechtspersoon aan wie voor de uitvoering van bevolkingsonderzoek naar baarmoederhalskanker vergunning is verleend krachtens de [Wet op het bevolkingsonderzoek](https://wetten.overheid.nl/jci1.3:c:BWBR0005699);
+- a. **screeningsorganisatie:** een rechtspersoon aan wie voor de uitvoering van bevolkingsonderzoek naar baarmoederhalskanker vergunning is verleend krachtens de [Wet op het bevolkingsonderzoek](https://wetten.overheid.nl/jci1.3:c:BWBR0005699);
 
-- b. onderzoek: het in het kader van een bevolkingsonderzoek naar baarmoederhalskanker afnemen van celmateriaal van een vrouw door een huisarts en beoordeling ervan door een patholoog;
+- b. **screeningslaboratorium:** een laboratorium dat in opdracht van een screeningsorganisatie vaginaal materiaal onderzoekt;
 
-- c. herhaalonderzoek: het in het kader van een bevolkingsonderzoek naar baarmoederhalskanker afnemen van celmateriaal van een vrouw door een huisarts en beoordeling ervan door een patholoog indien het onderzoek niet tot uitsluitsel heeft geleid.
+- c. **primair uitstrijkje:** het naar aanleiding van een uitnodiging in het kader van het bevolkingsonderzoek naar baarmoederhalskanker in de huisartsenpraktijk afnemen van vaginaal materiaal van een vrouw, dat in een screeningslaboratorium wordt getest op hrHPV en waarop in geval van een positieve hrHPV-test vervolgens ook een cytologische beoordeling plaatsvindt;
+
+- d. **hrHPV:** hoogrisico Humaan Papilloma Virus;
+
+- e. **hrHPV-test:** een test op hoogrisico Humaan Papilloma Virus;
+
+- f. **cytologische beoordeling:** een microscopisch onderzoek van vaginaal materiaal op afwijkende cellen;
+
+- g. **zelfafnameset (ZAS):** een afnameset waarmee de vrouw in het kader van het bevolkingsonderzoek naar baarmoederhalskanker zelf vaginaal materiaal afneemt en opstuurt naar een screeningslaboratorium, dat dit test op hrHPV;
+
+- h. **controle-uitstrijkje:** het, indien het onderzoek van vaginaal materiaal afgenomen door een primair uitstrijkje of zelfafnameset resulteert in een positieve hrHPV-test en een negatieve cytologische beoordeling, in de huisartsenpraktijk zes maanden later afnemen van vaginaal materiaal van de desbetreffende vrouw, waarop in een screeningslaboratorium een cytologische beoordeling plaatsvindt;
+
+- i. **uitstrijkje na hrHPV-positieve ZAS:** het, indien het vaginaal materiaal uit een ZAS resulteert in een positieve hrHPV-test, in de huisartsenpraktijk afnemen van vaginaal materiaal van de desbetreffende vrouw, waarop in een screeningslaboratorium een cytologische beoordeling plaatsvindt;
+
+- j. **overige organisatiekosten:** de overige indirecte kosten die de screeningsorganisaties maken in het kader van het bevolkingsonderzoek naar baarmoederhalskanker en die niet direct aan de onderzoeken bedoeld in onderdeel c, f, g, h en i te koppelen zijn.
 
 ##### Artikel 42
 
@@ -416,7 +430,7 @@ Een screeningsorganisatie draagt er voor zorg dat de verhouding tussen de bij de
 
 ##### Artikel 45
 
-Bij de verlening van de subsidie, bedoeld in [artikel 42](https://wetten.overheid.nl/jci1.3:c:BWBR0018743&hoofdstuk=II&paragraaf=2&artikel=42&z=2016-04-01&g=2016-04-01), kan de minister verplichtingen opleggen met betrekking tot:
+Bij de verlening van de subsidie, bedoeld in [artikel 42](https://wetten.overheid.nl/jci1.3:c:BWBR0018743&hoofdstuk=II&paragraaf=2&artikel=42&z=2017-01-01&g=2017-01-01), kan de minister verplichtingen opleggen met betrekking tot:
 
 - a. de kwaliteit van het bevolkingsonderzoek naar baarmoederhalskanker;
 
@@ -424,19 +438,35 @@ Bij de verlening van de subsidie, bedoeld in [artikel 42](https://wetten.overhei
 
 ##### Artikel 46
 
-In afwijking van [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0018743&hoofdstuk=I&paragraaf=2&artikel=4&z=2016-04-01&g=2016-04-01) bestaat de subsidie, bedoeld in [artikel 42](https://wetten.overheid.nl/jci1.3:c:BWBR0018743&hoofdstuk=II&paragraaf=2&artikel=42&z=2016-04-01&g=2016-04-01), voor het jaar 2016 uit het bedrag dat wordt berekend overeenkomstig de volgende formule:
+In afwijking van [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0018743&hoofdstuk=I&paragraaf=2&artikel=4&z=2017-01-01&g=2017-01-01) bestaat de subsidie, bedoeld in [artikel 42](https://wetten.overheid.nl/jci1.3:c:BWBR0018743&hoofdstuk=II&paragraaf=2&artikel=42&z=2017-01-01&g=2017-01-01), voor het jaar 2017 uit het bedrag dat wordt berekend overeenkomstig de volgende formule:
 
-(Qo × Po) + (Qho × Pho)
+(Qpu x Ppu) + (Qcpu x Pcpu) + (Qzas x Pzas) + (Qcuzm x Pcuzm) + (Quzas x Puzas) + (Qoo x Poo)
 
 waarbij wordt verstaan onder:
 
-Qo. het aantal onderzoeken dat in het jaar 2016 is verricht in het kader van het bevolkingsonderzoek naar baarmoederhalskanker van de desbetreffende screeningsorganisatie;
+Qpu. het aantal beoordeelde hrHPV-testen dat, naar aanleiding van primaire uitstrijkjes, in het jaar 2017 is verricht in het kader van het bevolkingsonderzoek naar baarmoederhalskanker van de desbetreffende screeningsorganisatie, waarbij sprake is van een uitslag naar de desbetreffende vrouw of aansluitende cytologische beoordeling;
 
-Po. de som van € 67,13 en de verhoging in het jaar 2016 van de door de Nederlandse Zorgautoriteit bepaalde tarieven voor het onderzoek;
+Ppu. een bedrag van € 36,19 per beoordeelde hrHPV-test naar aanleiding van een primair uitstrijkje;
 
-Qho. het aantal herhaalonderzoeken dat in het jaar 2016 is verricht in het kader van het bevolkingsonderzoek naar baarmoederhalskanker van de desbetreffende screeningsorganisatie;
+Qcpu. het aantal cytologische beoordelingen dat, naar aanleiding van primaire uitstrijkjes, in het jaar 2017 heeft plaatsgevonden in het kader van het bevolkingsonderzoek naar baarmoederhalskanker van de desbetreffende screeningsorganisatie waarbij sprake is van een uitslag naar de desbetreffende vrouw;
 
-Pho. de som van € 48,71 en de verhoging in het jaar 2016 van de door de Nederlandse Zorgautoriteit bepaalde tarieven voor het onderzoek.
+Pcpu. een bedrag van € 24,66 per cytologische beoordeling naar aanleiding van een positieve hrHPV-test bij een primair uitstrijkje;
+
+Qzas. het aantal zelfafnamesets dat in het jaar 2017 is beoordeeld op hrHPV in het kader van het bevolkingsonderzoek naar baarmoederhalskanker van de desbetreffende screeningsorganisatie waarbij sprake is van een uitslag naar de desbetreffende vrouw;
+
+Pzas. een bedrag van € 21,60 per beoordeelde ZAS op hrHPV;
+
+Qcuzm. het aantal controle-uitstrijkjes dat in het jaar 2017 is beoordeeld in het kader van het bevolkingsonderzoek naar baarmoederhalskanker van de desbetreffende screeningsorganisatie waarbij sprake is van een uitslag naar de desbetreffende vrouw;
+
+Pcuzm. een bedrag van € 50,02 per beoordeeld controle-uitstrijkje;
+
+Quzas. het aantal uitstrijkjes naar aanleiding van een hrHPV-positieve test van vaginaal materiaal verkregen door de vrouw met een zelfafnameset, dat in het jaar 2017 is beoordeeld in het kader van het bevolkingsonderzoek naar baarmoederhalskanker van de desbetreffende screeningsorganisatie waarbij sprake is van een uitslag naar de desbetreffende vrouw;
+
+Puzas. een bedrag van € 48,89 per beoordeeld uitstrijkje na een hrHPV-positieve test van vaginaal materiaal uit een ZAS;
+
+Qoo. het aantal beoordeelde hrHPV-testen dat, naar aanleiding van primaire uitstrijkjes, in het jaar 2017 is verricht in het kader van het bevolkingsonderzoek naar baarmoederhalskanker van de desbetreffende screeningsorganisatie, waarbij sprake is van een uitslag naar de desbetreffende vrouw of aansluitende cytologische beoordeling (wordt gebruikt als rekeneenheid voor de vergoeding van de overige organisatiekosten);
+
+Poo. een bedrag van € 18,58 per beoordeelde hrHPV-test naar aanleiding van een primair uitstrijkje.
 
 ##### Artikel 47
 
@@ -472,7 +502,7 @@ volgende screeningsorganisaties een instellingssubsidie verstrekken:
 
 ##### Artikel 50
 
-Subsidie als bedoeld in [artikel 49](https://wetten.overheid.nl/jci1.3:c:BWBR0018743&hoofdstuk=II&paragraaf=3&artikel=49&z=2016-04-01&g=2016-04-01) wordt slechts verstrekt:
+Subsidie als bedoeld in [artikel 49](https://wetten.overheid.nl/jci1.3:c:BWBR0018743&hoofdstuk=II&paragraaf=3&artikel=49&z=2017-01-01&g=2017-01-01) wordt slechts verstrekt:
 
 - a. voor bevolkingsonderzoek naar borstkanker bij vrouwen in de leeftijdsgroep 50 tot en met 75 jaar;
 
@@ -480,11 +510,11 @@ Subsidie als bedoeld in [artikel 49](https://wetten.overheid.nl/jci1.3:c:BWBR001
 
 ##### Artikel 51
 
-In afwijking van [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0018743&hoofdstuk=I&paragraaf=2&artikel=4&z=2016-04-01&g=2016-04-01) bedraagt de subsidie, bedoeld in [artikel 49](https://wetten.overheid.nl/jci1.3:c:BWBR0018743&hoofdstuk=II&paragraaf=3&artikel=49&z=2016-04-01&g=2016-04-01), voor het jaar 2016 ten hoogste € 63,36 voor elk onderzoek dat in het jaar 2016 is verricht in het kader van het bevolkingsonderzoek naar borstkanker van de desbetreffende screeningsorganisatie.
+In afwijking van [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0018743&hoofdstuk=I&paragraaf=2&artikel=4&z=2017-01-01&g=2017-01-01) bedraagt de subsidie, bedoeld in [artikel 49](https://wetten.overheid.nl/jci1.3:c:BWBR0018743&hoofdstuk=II&paragraaf=3&artikel=49&z=2017-01-01&g=2017-01-01), voor het jaar 2017 ten hoogste € 64,13 voor elk onderzoek dat in het jaar 2017 is verricht in het kader van het bevolkingsonderzoek naar borstkanker van de desbetreffende screeningsorganisatie.
 
 ##### Artikel 52
 
-1. Bij de verlening van de subsidie, bedoeld in [artikel 49](https://wetten.overheid.nl/jci1.3:c:BWBR0018743&hoofdstuk=II&paragraaf=3&artikel=49&z=2016-04-01&g=2016-04-01), kan de minister verplichtingen opleggen met betrekking tot:
+1. Bij de verlening van de subsidie, bedoeld in [artikel 49](https://wetten.overheid.nl/jci1.3:c:BWBR0018743&hoofdstuk=II&paragraaf=3&artikel=49&z=2017-01-01&g=2017-01-01), kan de minister verplichtingen opleggen met betrekking tot:
 
 - a. de kwaliteit van het bevolkingsonderzoek naar borstkanker;
 
@@ -516,7 +546,7 @@ Voor de implementatie en uitvoering van het bevolkingsonderzoek naar darmkanker 
 
 ##### Artikel 55
 
-Subsidie als bedoeld in [artikel 54](https://wetten.overheid.nl/jci1.3:c:BWBR0018743&hoofdstuk=II&paragraaf=4&artikel=54&z=2016-04-01&g=2016-04-01) wordt slechts verstrekt:
+Subsidie als bedoeld in [artikel 54](https://wetten.overheid.nl/jci1.3:c:BWBR0018743&hoofdstuk=II&paragraaf=4&artikel=54&z=2017-01-01&g=2017-01-01) wordt slechts verstrekt:
 
 - a. voor onderzoek bij mannen en vrouwen in de leeftijdsgroep 55 tot en met 75 jaar;
 
@@ -524,7 +554,7 @@ Subsidie als bedoeld in [artikel 54](https://wetten.overheid.nl/jci1.3:c:BWBR001
 
 ##### Artikel 56
 
-1. Bij de verlening van de subsidie, bedoeld in [artikel 54](https://wetten.overheid.nl/jci1.3:c:BWBR0018743&hoofdstuk=II&paragraaf=4&artikel=54&z=2016-04-01&g=2016-04-01), kan de minister verplichtingen opleggen met betrekking tot:
+1. Bij de verlening van de subsidie, bedoeld in [artikel 54](https://wetten.overheid.nl/jci1.3:c:BWBR0018743&hoofdstuk=II&paragraaf=4&artikel=54&z=2017-01-01&g=2017-01-01), kan de minister verplichtingen opleggen met betrekking tot:
 
 - a. de kwaliteit van het bevolkingsonderzoek naar darmkanker;
 
@@ -556,7 +586,7 @@ Voor de uitvoering van het Nationaal Programma Grieppreventie kan de minister ee
 
 ##### Artikel 61
 
-De subsidie, bedoeld in [artikel 60](https://wetten.overheid.nl/jci1.3:c:BWBR0018743&hoofdstuk=II&paragraaf=5&artikel=60&z=2016-04-01&g=2016-04-01), wordt verstrekt voor griepvaccinaties die in de periode van 1 september van enig jaar tot en met 30 april van het daarop volgende jaar worden toegediend door:
+De subsidie, bedoeld in [artikel 60](https://wetten.overheid.nl/jci1.3:c:BWBR0018743&hoofdstuk=II&paragraaf=5&artikel=60&z=2017-01-01&g=2017-01-01), wordt verstrekt voor griepvaccinaties die in de periode van 1 september van enig jaar tot en met 30 april van het daarop volgende jaar worden toegediend door:
 
 - a. huisartsen aan:
 
@@ -582,41 +612,41 @@ De subsidie, bedoeld in [artikel 60](https://wetten.overheid.nl/jci1.3:c:BWBR001
 
 ##### Artikel 62
 
-In afwijking van [artikel 19, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018743&hoofdstuk=I&paragraaf=8&artikel=19&z=2016-04-01&g=2016-04-01), loopt het boekjaar voor de instellingssubsidie, bedoeld in [artikel 60](https://wetten.overheid.nl/jci1.3:c:BWBR0018743&hoofdstuk=II&paragraaf=5&artikel=60&z=2016-04-01&g=2016-04-01), van 1 mei van enig jaar tot en met 30 april van het daarop volgende jaar.
+In afwijking van [artikel 19, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018743&hoofdstuk=I&paragraaf=8&artikel=19&z=2017-01-01&g=2017-01-01), loopt het boekjaar voor de instellingssubsidie, bedoeld in [artikel 60](https://wetten.overheid.nl/jci1.3:c:BWBR0018743&hoofdstuk=II&paragraaf=5&artikel=60&z=2017-01-01&g=2017-01-01), van 1 mei van enig jaar tot en met 30 april van het daarop volgende jaar.
 
 ##### Artikel 63
 
-Met ingang van het boekjaar van 1 mei 2015 tot en met 30 april 2016 bestaat de subsidie, bedoeld in [artikel 60](https://wetten.overheid.nl/jci1.3:c:BWBR0018743&hoofdstuk=II&paragraaf=5&artikel=60&z=2016-04-01&g=2016-04-01), uit het bedrag dat wordt berekend overeenkomstig de volgende formule:
+Met ingang van het boekjaar van 1 mei 2016 tot en met 30 april 2017 bestaat de subsidie, bedoeld in [artikel 60](https://wetten.overheid.nl/jci1.3:c:BWBR0018743&hoofdstuk=II&paragraaf=5&artikel=60&z=2017-01-01&g=2017-01-01), uit het bedrag dat wordt berekend overeenkomstig de volgende formule:
 
 Qt x Pt + U
 
 waarbij wordt verstaan onder:
 
-Qt. het aantal griepvaccins, bedoeld in [artikel 61, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0018743&hoofdstuk=II&paragraaf=5&artikel=61&z=2016-04-01&g=2016-04-01), dat in het boekjaar waarvoor de subsidie wordt verstrekt in het kader van het Nationaal Programma Grieppreventie wordt toegediend;
+Qt. het aantal griepvaccins, bedoeld in [artikel 61, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0018743&hoofdstuk=II&paragraaf=5&artikel=61&z=2017-01-01&g=2017-01-01), dat in het boekjaar waarvoor de subsidie wordt verstrekt in het kader van het Nationaal Programma Grieppreventie wordt toegediend;
 
-Pt. een bedrag van € 10,77;
+Pt. een bedrag van € 11,20;
 
 U. het verschil tussen de overige baten en lasten van de uitvoering van het Nationaal Programma Grieppreventie, voor zover opgenomen in een door de minister goedgekeurde begroting, tot ten hoogste € 700.000.
 
 ##### Artikel 64
 
-Bij de verlening van de subsidie, bedoeld in [artikel 60](https://wetten.overheid.nl/jci1.3:c:BWBR0018743&hoofdstuk=II&paragraaf=5&artikel=60&z=2016-04-01&g=2016-04-01), kan de minister verplichtingen opleggen met betrekking tot de kwaliteit van het Nationaal Programma Grieppreventie.
+Bij de verlening van de subsidie, bedoeld in [artikel 60](https://wetten.overheid.nl/jci1.3:c:BWBR0018743&hoofdstuk=II&paragraaf=5&artikel=60&z=2017-01-01&g=2017-01-01), kan de minister verplichtingen opleggen met betrekking tot de kwaliteit van het Nationaal Programma Grieppreventie.
 
 ##### Artikel 65
 
-In afwijking van [artikel 23](https://wetten.overheid.nl/jci1.3:c:BWBR0018743&hoofdstuk=I&paragraaf=8&artikel=23&z=2016-04-01&g=2016-04-01) bedraagt het totaal van de in artikel 23, eerste lid, bedoelde reservering ten hoogste € 275.000.
+In afwijking van [artikel 23](https://wetten.overheid.nl/jci1.3:c:BWBR0018743&hoofdstuk=I&paragraaf=8&artikel=23&z=2017-01-01&g=2017-01-01) bedraagt het totaal van de in artikel 23, eerste lid, bedoelde reservering ten hoogste € 275.000.
 
 ##### Artikel 66
 
-De stichting, genoemd in [artikel 60](https://wetten.overheid.nl/jci1.3:c:BWBR0018743&hoofdstuk=II&paragraaf=5&artikel=60&z=2016-04-01&g=2016-04-01), draagt er zorg voor dat artsen, bedoeld in [artikel 61](https://wetten.overheid.nl/jci1.3:c:BWBR0018743&hoofdstuk=II&paragraaf=5&artikel=61&z=2016-04-01&g=2016-04-01):
+De stichting, genoemd in [artikel 60](https://wetten.overheid.nl/jci1.3:c:BWBR0018743&hoofdstuk=II&paragraaf=5&artikel=60&z=2017-01-01&g=2017-01-01), draagt er zorg voor dat artsen, bedoeld in [artikel 61](https://wetten.overheid.nl/jci1.3:c:BWBR0018743&hoofdstuk=II&paragraaf=5&artikel=61&z=2017-01-01&g=2017-01-01):
 
-- a. registreren tot welke risicogroepen, bedoeld in [artikel 61, onderdeel a, sub 1° tot en met 9°](https://wetten.overheid.nl/jci1.3:c:BWBR0018743&hoofdstuk=II&paragraaf=5&artikel=61&z=2016-04-01&g=2016-04-01), gevaccineerden behoren;
+- a. registreren tot welke risicogroepen, bedoeld in [artikel 61, onderdeel a, sub 1° tot en met 9°](https://wetten.overheid.nl/jci1.3:c:BWBR0018743&hoofdstuk=II&paragraaf=5&artikel=61&z=2017-01-01&g=2017-01-01), gevaccineerden behoren;
 
 - b. gedurende ten minste vijf jaren de registratie, bedoeld onder a, bewaren.
 
 ##### Artikel 67
 
-De stichting, genoemd in [artikel 60](https://wetten.overheid.nl/jci1.3:c:BWBR0018743&hoofdstuk=II&paragraaf=5&artikel=60&z=2016-04-01&g=2016-04-01):
+De stichting, genoemd in [artikel 60](https://wetten.overheid.nl/jci1.3:c:BWBR0018743&hoofdstuk=II&paragraaf=5&artikel=60&z=2017-01-01&g=2017-01-01):
 
 - a. verleent medewerking aan de publieksvoorlichting over het Nationaal Programma Grieppreventie en aan de evaluatie van het Nationaal Programma Grieppreventie, die door de minister of door andere organisaties in opdracht van de minister worden uitgevoerd;
 
@@ -704,7 +734,7 @@ In deze paragraaf wordt verstaan onder:
 
 - 1°. coördineren van het aanbod van aanvullende seksuele gezondheidszorg;
 
-- 2°. waarborgen dat de aanvullende seksuele gezondheidszorg voldoet aan [artikel 70](https://wetten.overheid.nl/jci1.3:c:BWBR0018743&hoofdstuk=II&paragraaf=6&sub-paragraaf=6.2&artikel=70&z=2016-04-01&g=2016-04-01).
+- 2°. waarborgen dat de aanvullende seksuele gezondheidszorg voldoet aan [artikel 70](https://wetten.overheid.nl/jci1.3:c:BWBR0018743&hoofdstuk=II&paragraaf=6&sub-paragraaf=6.2&artikel=70&z=2017-01-01&g=2017-01-01).
 
 ##### Artikel 69
 
@@ -716,9 +746,9 @@ In deze paragraaf wordt verstaan onder:
 
 - b. voor zover het soa-onderzoek in het kader van de soa-bestrijding wordt verricht ten behoeve van het stellen van een diagnose met betrekking tot:
 
-- 1°. ten minste chlamydia trachomatis, gonorroe en syfillis bij personen bedoeld in [artikel 70, onder b, onder 1° tot en met 3°](https://wetten.overheid.nl/jci1.3:c:BWBR0018743&hoofdstuk=II&paragraaf=6&sub-paragraaf=6.2&artikel=70&z=2016-04-01&g=2016-04-01), of
+- 1°. ten minste chlamydia trachomatis, gonorroe en syfillis bij personen bedoeld in [artikel 70, onder b, onder 1° tot en met 3°](https://wetten.overheid.nl/jci1.3:c:BWBR0018743&hoofdstuk=II&paragraaf=6&sub-paragraaf=6.2&artikel=70&z=2017-01-01&g=2017-01-01), of
 
-- 2°. chlamydia trachomatis en gonorroe bij personen bedoeld in [artikel 70, onder b, onder 4°](https://wetten.overheid.nl/jci1.3:c:BWBR0018743&hoofdstuk=II&paragraaf=6&sub-paragraaf=6.2&artikel=70&z=2016-04-01&g=2016-04-01).
+- 2°. chlamydia trachomatis en gonorroe bij personen bedoeld in [artikel 70, onder b, onder 4°](https://wetten.overheid.nl/jci1.3:c:BWBR0018743&hoofdstuk=II&paragraaf=6&sub-paragraaf=6.2&artikel=70&z=2017-01-01&g=2017-01-01).
 
 ##### Artikel 70
 
@@ -756,23 +786,23 @@ De coördinerende GGD draagt er ten behoeve van zijn verzorgingsgebied zorg voor
 
 ##### Artikel 71
 
-De instellingssubsidie bedraagt in 2016 en 2017 jaarlijks ten hoogste:
+De instellingssubsidie bedraagt in 2017 jaarlijks ten hoogste:
 
-- 1°. € 12.054.747,– voor de GGD van de gemeente Amsterdam,
+- 1°. € 12.201.574,– voor de GGD van de gemeente Amsterdam,
 
-- 2°. € 4.695.878,– voor de GGD Regio Gelderland Zuid,
+- 2°. € 4.753.074,– voor de GGD Regio Gelderland Zuid,
 
-- 3°. € 1.912.452,– voor de GGD Groningen,
+- 3°. € 1.935.745,– voor de GGD Groningen,
 
-- 4°. € 3.046.535,– voor de afdeling GGD van de Dienst OCW van de gemeente Den Haag,
+- 4°. € 3.083.642,– voor de afdeling GGD van de Dienst OCW van de gemeente Den Haag,
 
-- 5°. € 4.182.407,– voor de GGD Rotterdam-Rijnmond,
+- 5°. € 4.233.348,– voor de GGD Rotterdam-Rijnmond,
 
-- 6°. € 3.906.311,– voor de GGD van het openbaar lichaam Hart voor Brabant,
+- 6°. € 3.953.890,– voor de GGD van het openbaar lichaam Hart voor Brabant,
 
-- 7°. € 2.111.015,– voor de GGD Zuid-Limburg,
+- 7°. € 2.136.728,– voor de GGD Zuid-Limburg,
 
-- 8°. € 1.497.208,– voor de GGD Regio Utrecht.
+- 8°. € 1.515.444,– voor de GGD Regio Utrecht.
 
 ##### Artikel 72
 
@@ -788,7 +818,7 @@ De coördinerende GGD waaraan de instellingssubsidie is verleend, draagt er zorg
 
 ##### Artikel 75
 
-In afwijking van de [artikelen 32 tot en met 36](https://wetten.overheid.nl/jci1.3:c:BWBR0018743&hoofdstuk=I&paragraaf=9&artikel=32&z=2016-04-01&g=2016-04-01) wordt de instellingssubsidie als volgt vastgesteld:
+In afwijking van de [artikelen 32 tot en met 36](https://wetten.overheid.nl/jci1.3:c:BWBR0018743&hoofdstuk=I&paragraaf=9&artikel=32&z=2017-01-01&g=2017-01-01) wordt de instellingssubsidie als volgt vastgesteld:
 
 - a. de coördinerende GGD vraagt de vaststelling van de subsidie aan door verantwoordingsinformatie aan de minister te verstrekken op de wijze bedoeld in [artikel 27 van het Besluit financiële verhouding 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0012216&artikel=27);
 
@@ -800,7 +830,7 @@ In afwijking van de [artikelen 32 tot en met 36](https://wetten.overheid.nl/jci1
 
 ##### Artikel 76*
 
-De [artikelen 25](https://wetten.overheid.nl/jci1.3:c:BWBR0018743&hoofdstuk=I&paragraaf=8&artikel=25&z=2016-04-01&g=2016-04-01) en [29](https://wetten.overheid.nl/jci1.3:c:BWBR0018743&hoofdstuk=I&paragraaf=8&artikel=29&z=2016-04-01&g=2016-04-01) zijn niet van toepassing op de instellingssubsidie.
+De [artikelen 25](https://wetten.overheid.nl/jci1.3:c:BWBR0018743&hoofdstuk=I&paragraaf=8&artikel=25&z=2017-01-01&g=2017-01-01) en [29](https://wetten.overheid.nl/jci1.3:c:BWBR0018743&hoofdstuk=I&paragraaf=8&artikel=29&z=2017-01-01&g=2017-01-01) zijn niet van toepassing op de instellingssubsidie.
 
 ##### Artikel 77
 
@@ -808,11 +838,7 @@ Vervallen
 
 ##### Artikel 78
 
-1. Deze regeling treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin zij wordt geplaatst.
-
-2. [Hoofdstuk II, paragrafen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0018743&hoofdstuk=II&paragraaf=2&z=2016-04-01&g=2016-04-01), [3](https://wetten.overheid.nl/jci1.3:c:BWBR0018743&hoofdstuk=II&paragraaf=3&z=2016-04-01&g=2016-04-01) en [4](https://wetten.overheid.nl/jci1.3:c:BWBR0018743&hoofdstuk=II&paragraaf=4&z=2016-04-01&g=2016-04-01), vervallen met ingang van 1 januari 2017.
-
-3. [Hoofdstuk II, paragraaf 5](https://wetten.overheid.nl/jci1.3:c:BWBR0018743&hoofdstuk=II&paragraaf=5&z=2016-04-01&g=2016-04-01), vervalt met ingang van 1 mei 2017.
+Deze regeling vervalt met ingang van 1 januari 2022.
 
 ##### Artikel 79
 
@@ -994,7 +1020,7 @@ Deze regeling zal met toelichting in de Staatscourant worden geplaatst.
 
 ##### Artikel 69a
 
-1. De coördinerende GGD consulteert de GGD-en in zijn verzorgingsgebied over de aanvraag, bedoeld in [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0018743&hoofdstuk=I&paragraaf=5&artikel=9&z=2016-04-01&g=2016-04-01).
+1. De coördinerende GGD consulteert de GGD-en in zijn verzorgingsgebied over de aanvraag, bedoeld in [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0018743&hoofdstuk=I&paragraaf=5&artikel=9&z=2017-01-01&g=2017-01-01).
 
 2. De aanvraag gaat vergezeld van:
 
@@ -1008,7 +1034,7 @@ De minister kan, gelet op het belang dat deze regeling beoogt te beschermen, art
 
 ##### Artikel 1a
 
-Op deze regeling is de [Kaderregeling subsidies OCW, SZW en VWS](https://wetten.overheid.nl/jci1.3:c:BWBR0037603&wetgeving) niet van toepassing.
+Op deze regeling is de [Kaderregeling subsidies OCW, SZW en VWS](https://wetten.overheid.nl/jci1.3:c:BWBR0037603) niet van toepassing.
 
 #### § 2. Berekeningswijze instellingsubsidie
 
