@@ -4,7 +4,7 @@ identifier: "BWBR0029426"
 country: "nl"
 rank: "ministeriele_regeling_bes"
 publication_date: "2026-01-01"
-last_updated: "2016-01-01"
+last_updated: "2017-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0029426"
 soort: "ministeriele-regeling-BES"
@@ -42,13 +42,15 @@ Gelet op de [artikelen 11, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0
 
 Besluit:
 
+Treedt in werking op het tijdstip waarop het Besluit zorgverzekering BES in werking treedt.
+
 ##### Artikel 1
 
-Het premiepercentage, bedoeld in [artikel 11, vierde lid, van het Besluit zorgverzekering BES](https://wetten.overheid.nl/jci1.3:c:BWBR0029404&artikel=11), wordt voor het jaar 2016 vastgesteld op 0,5.
+Het premiepercentage, bedoeld in [artikel 11, vierde lid, van het Besluit zorgverzekering BES](https://wetten.overheid.nl/jci1.3:c:BWBR0029404&artikel=11), wordt voor het jaar 2017 vastgesteld op 0,5.
 
 ##### Artikel 2
 
-Het premiepercentage, bedoeld in [artikel 12, derde lid, van het Besluit zorgverzekering BES](https://wetten.overheid.nl/jci1.3:c:BWBR0029404&artikel=12), wordt voor het jaar 2016 vastgesteld op 16,1.
+Het premiepercentage, bedoeld in [artikel 12, derde lid, van het Besluit zorgverzekering BES](https://wetten.overheid.nl/jci1.3:c:BWBR0029404&artikel=12), wordt voor het jaar 2017 vastgesteld op 16,1.
 
 ##### Artikel 3
 
