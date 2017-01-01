@@ -4,7 +4,7 @@ identifier: "BWBR0013734"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2017-01-01"
-last_updated: "2002-06-15"
+last_updated: "2017-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0013734"
 soort: "ministeriele-regeling"
@@ -43,7 +43,7 @@ Besluit:
 
 ##### Artikel 1
 
-De buitengewoon opsporingsambtenaren met de functie van flora- en faunabeheerder worden aangewezen als ambtenaren, belast met de opsporing van de bij of krachtens de [Flora- en Faunawet](https://wetten.overheid.nl/jci1.3:c:BWBR0009640) strafbaar gestelde feiten.
+De buitengewoon opsporingsambtenaren met de functie van flora- en faunabeheerder worden aangewezen als ambtenaren, belast met de opsporing van de bij of krachtens de [hoofdstuk 3 van de Wet natuurbescherming](https://wetten.overheid.nl/jci1.3:c:BWBR0037552&hoofdstuk=3) strafbaar gestelde feiten.
 
 ##### Artikel 2
 
