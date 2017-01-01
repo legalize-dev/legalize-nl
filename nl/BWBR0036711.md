@@ -4,7 +4,7 @@ identifier: "BWBR0036711"
 country: "nl"
 rank: "amvb"
 publication_date: "2025-04-01"
-last_updated: "2015-07-01"
+last_updated: "2017-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0036711"
 soort: "AMvB"
@@ -68,7 +68,7 @@ In dit besluit wordt verstaan onder:
 
 - h. **jaarrekening:** de jaarrekening, bedoeld in [artikel 35 van de Politiewet 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&artikel=35);
 
-- i. **jaaraanschrijving:** de jaaraanschrijving, bedoeld in [artikel 19 van het Besluit beheer politie](525529).
+- i. **jaaraanschrijving:** de jaaraanschrijving, bedoeld in [artikel 45 van het Besluit beheer politie](onbekend).
 
 ##### Artikel 2
 
@@ -118,7 +118,7 @@ In dit besluit wordt verstaan onder:
 
 1. De begroting en meerjarenraming bevatten een jaarlijks sluitende raming van de baten en lasten van de politie.
 
-2. In afwijking van het eerste lid kunnen de begroting en de meerjarenraming een negatief resultaat bevatten voor zover het negatieve resultaat wordt veroorzaakt door lasten waarvoor een bestemmingsreserve als bedoeld in [artikel 17](https://wetten.overheid.nl/jci1.3:c:BWBR0036711&hoofdstuk=7&artikel=17&z=2015-07-01&g=2015-07-01) is gevormd.
+2. In afwijking van het eerste lid kunnen de begroting en de meerjarenraming een negatief resultaat bevatten voor zover het negatieve resultaat wordt veroorzaakt door lasten waarvoor een bestemmingsreserve als bedoeld in [artikel 17](https://wetten.overheid.nl/jci1.3:c:BWBR0036711&hoofdstuk=7&artikel=17&z=2017-01-01&g=2017-01-01) is gevormd.
 
 3. Onze Minister kan in overeenstemming met Onze Minister van Financiën, het eigen vermogen van de politie aanwenden om de begroting en de meerjarenraming sluitend te maken.
 
@@ -134,7 +134,7 @@ In dit besluit wordt verstaan onder:
 
 ##### Artikel 10
 
-1. Het totaal van de bijdragen, bedoeld in [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0036711&hoofdstuk=4&artikel=9&z=2015-07-01&g=2015-07-01), wordt betaalbaar gesteld in vier termijnen, respectievelijk op 15 januari, 15 april, 15 juli en 15 oktober van elk jaar.
+1. Het totaal van de bijdragen, bedoeld in [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0036711&hoofdstuk=4&artikel=9&z=2017-01-01&g=2017-01-01), wordt betaalbaar gesteld in vier termijnen, respectievelijk op 15 januari, 15 april, 15 juli en 15 oktober van elk jaar.
 
 2. De hoogte van de bijdrage per termijn wordt bepaald aan de hand van de liquiditeitsbehoefte van de politie.
 
@@ -160,7 +160,7 @@ In dit besluit wordt verstaan onder:
 
 - h. voor «omzet»: bijdragen van Onze Minister;
 
-- i. voor de inrichting van de jaarrekening, de modellen, bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0036711&hoofdstuk=2&artikel=3&z=2015-07-01&g=2015-07-01), tweede lid, worden gebruikt.
+- i. voor de inrichting van de jaarrekening, de modellen, bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0036711&hoofdstuk=2&artikel=3&z=2017-01-01&g=2017-01-01), tweede lid, worden gebruikt.
 
 2. Ten behoeve van de controle van de jaarrekening door de accountant, bedoeld in [artikel 35 van de Politiewet 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&artikel=35), wordt het door Onze Minister vastgestelde controleprotocol gebruikt. De accountant wordt benoemd door Onze Minister, die de korpschef kan verzoeken daarvoor voorbereidende werkzaamheden te verrichten.
 
@@ -180,7 +180,7 @@ In dit besluit wordt verstaan onder:
 
 - a. als «openstaande bijdragen» onder de vlottende passiva verantwoord;
 
-- b. door Onze Minister voorzien van andere voorwaarden als bedoeld in [artikel 9, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036711&hoofdstuk=4&artikel=9&z=2015-07-01&g=2015-07-01), of
+- b. door Onze Minister voorzien van andere voorwaarden als bedoeld in [artikel 9, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036711&hoofdstuk=4&artikel=9&z=2017-01-01&g=2017-01-01), of
 
 - c. door Onze Minister in mindering gebracht op de bijzondere bijdragen van het volgende jaar dan wel geheel of gedeeltelijk teruggevorderd.
 
@@ -226,17 +226,17 @@ Activa aangeschaft vóór de datum van inwerkingtreding van de [Politiewet 2012]
 
 ##### Artikel 17
 
-1. In afwijking van [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0036711&hoofdstuk=6&artikel=13&z=2015-07-01&g=2015-07-01) is in de balans van de politie een bestemmingsreserves toegestaan voor ICT tot maximaal € 366 miljoen.
+1. In afwijking van [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0036711&hoofdstuk=6&artikel=13&z=2017-01-01&g=2017-01-01) is in de balans van de politie een bestemmingsreserves toegestaan voor ICT tot maximaal € 366 miljoen.
 
-2. De bestemmingsreserve, bedoeld in het eerste lid, wordt niet meegewogen in de vaststelling van de omvang van het eigen vermogen, bedoeld in [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBR0036711&hoofdstuk=6&artikel=15&z=2015-07-01&g=2015-07-01).
+2. De bestemmingsreserve, bedoeld in het eerste lid, wordt niet meegewogen in de vaststelling van de omvang van het eigen vermogen, bedoeld in [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBR0036711&hoofdstuk=6&artikel=15&z=2017-01-01&g=2017-01-01).
 
 3. De bestemmingsreserve ICT blijft uiterlijk in stand tot een door Onze Minister te bepalen tijdstip.
 
 ##### Artikel 18
 
-1. In afwijking van [artikel 15, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036711&hoofdstuk=6&artikel=15&z=2015-07-01&g=2015-07-01), mag het eigen vermogen van de politie gedurende de eerste vijf jaar na 1 januari 2013 maximaal 7,5% van de gemiddelde bijdragen als bedoeld in artikel 15, eerste lid, bedragen.
+1. In afwijking van [artikel 15, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036711&hoofdstuk=6&artikel=15&z=2017-01-01&g=2017-01-01), mag het eigen vermogen van de politie gedurende de eerste vijf jaar na 1 januari 2013 maximaal 7,5% van de gemiddelde bijdragen als bedoeld in artikel 15, eerste lid, bedragen.
 
-2. Voor de toepassing van [artikel 15, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036711&hoofdstuk=6&artikel=15&z=2015-07-01&g=2015-07-01), wordt de bijdrage vastgesteld op € 4,928 miljard voor 2012.
+2. Voor de toepassing van [artikel 15, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036711&hoofdstuk=6&artikel=15&z=2017-01-01&g=2017-01-01), wordt de bijdrage vastgesteld op € 4,928 miljard voor 2012.
 
 ##### Artikel 19
 
