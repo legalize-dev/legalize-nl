@@ -4,7 +4,7 @@ identifier: "BWBR0036709"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-01-01"
-last_updated: "2016-10-28"
+last_updated: "2017-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0036709"
 soort: "ministeriele-regeling"
@@ -136,7 +136,7 @@ Vervallen
 
 ##### Artikel 8
 
-1. De minister start het opstellen van zijn zienswijze, indien de melding volledig is overeenkomstig [artikel 6, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036709&hoofdstuk=II&paragraaf=1&artikel=6&z=2016-10-28&g=2016-10-28), in voorkomend geval na ontvangst van de aanvankelijk ontbrekende bescheiden.
+1. De minister start het opstellen van zijn zienswijze, indien de melding volledig is overeenkomstig [artikel 6, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036709&hoofdstuk=II&paragraaf=1&artikel=6&z=2017-01-01&g=2017-01-01), in voorkomend geval na ontvangst van de aanvankelijk ontbrekende bescheiden.
 
 2. Indien de toegelaten instelling verzuimt de bij de melding ontbrekende bescheiden te verstrekken, kan de minister besluiten de melding niet in behandeling te nemen. Hij stelt de toegelaten instelling onverwijld daarvan in kennis.
 
@@ -148,17 +148,15 @@ Vervallen
 
 1. Voor de toepassing van het bepaalde bij en krachtens de [artikelen 22 tot en met 26 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0036702&artikel=22):
 
-- a. wordt een taxatierapport met betrekking tot onroerende zaken van een toegelaten instelling niet opgesteld dan nadat die toegelaten instelling aan de taxateur heeft medegedeeld welk aantal onroerende zaken zij voornemens is te vervreemden, waarbij woongelegenheden in een complex door haar zodanig worden onderscheiden in bouwkundige typen, dat aannemelijk is dat woongelegenheden per zodanig type dezelfde markt- of leegwaarde hebben en dat elk zodanig type woongelegenheden een verschillende markt- of leegwaarde heeft;
+- a. wordt een taxatierapport met betrekking tot onroerende zaken van een toegelaten instelling niet opgesteld dan nadat die toegelaten instelling aan de taxateur heeft medegedeeld welk aantal onroerende zaken zij voornemens is te vervreemden, waarbij woongelegenheden in een complex door haar zodanig worden onderscheiden in bouwkundige typen, dat aannemelijk is dat woongelegenheden per zodanig type dezelfde marktwaarde hebben en dat elk zodanig type woongelegenheden een verschillende marktwaarde heeft;
 
 - b. kan in dat taxatierapport worden volstaan met het taxeren van één woongelegenheid per type als bedoeld in onderdeel a;
 
-- c. bevat dat taxatierapport de wijze waarop de taxateur de waarde van de betrokken onroerende zaken heeft bepaald;
+- c. bevat dat taxatierapport de wijze waarop de taxateur de waarde van de betrokken onroerende zaken heeft bepaald, en
 
-- d. kan in dat taxatierapport van de residuele waarde van een woongelegenheid worden uitgegaan, indien de koopovereenkomst, strekkende tot vervreemding van die woongelegenheid, een verplichting voor de verkrijger bevat tot het aan die woongelegenheid treffen van in die overeenkomst opgenomen ingrijpende voorzieningen en
+- d. is dat taxatierapport op het tijdstip van ondertekening van een koopovereenkomst, strekkende tot vervreemding van een daarin getaxeerde woongelegenheid, niet ouder dan zes maanden, of niet ouder dan vierentwintig maanden, met dien verstande dat het taxatierapport in dat laatste geval vergezeld gaat van een markttechnische update van maximaal drie maanden oud.
 
-- e. is dat taxatierapport op het tijdstip van ondertekening van een koopovereenkomst, strekkende tot vervreemding van een daarin getaxeerde woongelegenheid, niet ouder dan zes maanden.
-
-2. Het register, bedoeld in [artikel 1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036709&hoofdstuk=I&paragraaf=1&artikel=1&z=2016-10-28&g=2016-10-28), begripsomschrijving van getaxeerd, van het besluit is het Nederlands Register Vastgoed Taxateurs of een gelijkwaardig register dat ten minste voorziet in:
+2. Het register, bedoeld in [artikel 1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036709&hoofdstuk=I&paragraaf=1&artikel=1&z=2017-01-01&g=2017-01-01), begripsomschrijving van getaxeerd, van het besluit is het Nederlands Register Vastgoed Taxateurs of een gelijkwaardig register dat ten minste voorziet in:
 
 - a. doorlopend toezicht op de naleving van de gedragsregels;
 
@@ -170,9 +168,9 @@ Vervallen
 
 De combinatie van bedingen, bedoeld in [artikel 23, eerste lid, onderdeel b, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0036702&artikel=23), maakt deel uit van de ontwerpkoopovereenkomst en omvat:
 
-- a. het beding dat de verkrijgende natuurlijke persoon, bij doorverkoop binnen 10 jaar na het tijdstip van de eigendomsoverdracht als gevolg van de vervreemding door de toegelaten instelling of binnen een bij die eigendomsoverdracht overeengekomen langere termijn na dat tijdstip, het verschil tussen ten minste 90% van de getaxeerde leegwaarde of de WOZ-waarde en ten hoogste de betrokken waarde op het tijdstip van die eigendomsoverdracht en de prijs die hij voor de woongelegenheid heeft betaald aan de toegelaten instelling betaalt, en
+- a. het beding dat de verkrijgende natuurlijke persoon, bij doorverkoop binnen 10 jaar na het tijdstip van de eigendomsoverdracht als gevolg van de vervreemding door de toegelaten instelling of binnen een bij die eigendomsoverdracht overeengekomen langere termijn na dat tijdstip, het verschil tussen ten minste 90% van de getaxeerde marktwaarde vrij van huur en gebruik of de WOZ-waarde en ten hoogste de betrokken waarde op het tijdstip van die eigendomsoverdracht en de prijs die hij voor de woongelegenheid heeft betaald aan de toegelaten instelling betaalt, en
 
-- b. het beding dat de verkrijgende natuurlijke persoon die op het tijdstip van die eigendomsoverdracht een huishoudinkomen heeft dat hoger is dan het op dat tijdstip in [artikel 23, tweede lid, onderdeel b, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0036702&artikel=23) genoemde bedrag, bij doorverkoop binnen 10 jaar na het tijdstip, bedoeld in onderdeel a, of binnen een bij de eigendomsoverdracht, bedoeld in onderdeel a, overeengekomen langere termijn na dat tijdstip, het verschil tussen de getaxeerde leegwaarde of de WOZ-waarde op het tijdstip van die eigendomsoverdracht en de betrokken waarde op het tijdstip van die doorverkoop deelt met de toegelaten instelling, waarbij het percentage van de waardeontwikkeling dat ten goede of ten laste van de toegelaten instelling komt:
+- b. het beding dat de verkrijgende natuurlijke persoon die op het tijdstip van die eigendomsoverdracht een huishoudinkomen heeft dat hoger is dan het op dat tijdstip in [artikel 23, tweede lid, onderdeel b, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0036702&artikel=23) genoemde bedrag of op dat tijdstip een huishoudinkomen heeft dat lager is dan het op dat tijdstip in artikel 23, tweede lid, onderdeel b, van het besluit genoemde bedrag, en aan wie de woongelegenheid wordt vervreemd tegen een prijs van minder dan 75% van de getaxateerde marktwaarde vrij van huur en gebruik of WOZ-waarde, bij doorverkoop binnen 10 jaar na het tijdstip, bedoeld in onderdeel a, of binnen een bij de eigendomsoverdracht, bedoeld in onderdeel a, overeengekomen langere termijn na dat tijdstip, het verschil tussen de getaxeerde marktwaarde vrij van huur en gebruik of de WOZ-waarde op het tijdstip van die eigendomsoverdracht en de betrokken waarde op het tijdstip van die doorverkoop deelt met de toegelaten instelling, waarbij het percentage van de waardeontwikkeling dat ten goede of ten laste van de toegelaten instelling komt:
 
 - 1°. 1,5 maal het verschil is tussen 100 en het percentage van de betrokken waarde dat die natuurlijke persoon heeft betaald, en
 
@@ -202,11 +200,11 @@ De combinatie van bedingen, bedoeld in [artikel 23, eerste lid, onderdeel b, van
 
 5. Indien uit de gegevens, bedoeld in het derde lid, een huishoudinkomen blijkt dat hoger is dan het bedrag, genoemd in [artikel 23, tweede lid, onderdeel b, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0036702&artikel=23), terwijl naar het oordeel van degene die als eigenaar de betrokken woongelegenheid wenst te betrekken het huishoudinkomen niet hoger is dan dat bedrag, kan hij dat oordeel met een onderbouwing daarvan aan de toegelaten instelling overleggen, in welk geval de gegevens, bedoeld in het eerste lid, onderdeel b, voorts zijn de gegevens overeenkomstig het vierde lid, onderdeel b, onder 1° en 2°.
 
-6. Aan het eerste lid, onderdeel b, wordt toepassing gegeven overeenkomstig [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0036709&bijlage=1&z=2016-10-28&g=2016-10-28) bij deze regeling.
+6. Aan het eerste lid, onderdeel b, wordt toepassing gegeven overeenkomstig [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0036709&bijlage=1&z=2017-01-01&g=2017-01-01) bij deze regeling.
 
 ##### Artikel 12
 
-1. In geval van vervreemding door een toegelaten instelling van een woongelegenheid als bedoeld in [artikel 25, tweede lid, onderdeel b, aanhef, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0036702&artikel=25) aan een andere rechtspersoon dan een toegelaten instelling kan de prijs waartegen deze wordt vervreemd overeenkomstig [artikel 26, eerste lid, onderdeel a, onder 2°, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0036702&artikel=26) lager zijn dan 75% van de getaxeerde leegwaarde of de WOZ-waarde.
+1. In geval van vervreemding door een toegelaten instelling van een woongelegenheid als bedoeld in [artikel 25, tweede lid, onderdeel b, aanhef, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0036702&artikel=25) aan een andere rechtspersoon dan een toegelaten instelling kan de prijs waartegen deze wordt vervreemd overeenkomstig [artikel 26, eerste lid, onderdeel a, onder 2°, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0036702&artikel=26) lager zijn dan 75% van de getaxeerde marktwaarde vrij van huur en gebruik of de WOZ-waarde.
 
 2. Indien de toegelaten instelling voornemens is een woongelegenheid overeenkomstig het eerste lid te vervreemden, gaat het verzoek om de goedkeuring, bedoeld in [artikel 27, eerste lid, aanhef en onderdeel a, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&artikel=27), van die vervreemding vergezeld van de huurprijs van die woongelegenheid.
 
@@ -218,17 +216,17 @@ De combinatie van bedingen, bedoeld in [artikel 23, eerste lid, onderdeel b, van
 
 ##### Artikel 14
 
-1. De waardering bedoeld in [artikel 31, eerste lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0036702&artikel=31) vindt plaats overeenkomstig de methodiek die opgenomen is in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0036709&bijlage=2&z=2016-10-28&g=2016-10-28) bij deze regeling.
+1. De waardering bedoeld in [artikel 31, eerste lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0036702&artikel=31) vindt plaats overeenkomstig de methodiek die opgenomen is in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0036709&bijlage=2&z=2017-01-01&g=2017-01-01) bij deze regeling.
 
-2. De nadere voorschriften, bedoeld in [artikel 31, vierde lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0036702&artikel=31), zijn opgenomen in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0036709&bijlage=2&z=2016-10-28&g=2016-10-28) bij deze regeling.
+2. De nadere voorschriften, bedoeld in [artikel 31, vierde lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0036702&artikel=31), zijn opgenomen in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0036709&bijlage=2&z=2017-01-01&g=2017-01-01) bij deze regeling.
 
 3. In afwijking van het eerste lid, wordt de marktwaarde, bedoeld in [artikel 44, derde lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0036702&artikel=44), van de woongelegenheden die vervreemd zijn tussen 1 januari 2012 en 31 december 2015, bepaald op basis van de feitelijke verkoopprijs van die woongelegenheden.
 
 ##### Artikel 15
 
-1. De jaarrekening, bedoeld in [artikel 35 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&artikel=35), bevat een balans, een winst- en verliesrekening en een kasstroomoverzicht die zijn ingericht overeenkomstig het model dat is opgenomen in de op het verslagjaar betrekking hebbende [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0036709&bijlage=3&z=2016-10-28&g=2016-10-28) bij deze regeling.
+1. De jaarrekening, bedoeld in [artikel 35 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&artikel=35), bevat een balans, een winst- en verliesrekening en een kasstroomoverzicht die zijn ingericht overeenkomstig het model dat is opgenomen in de op het verslagjaar betrekking hebbende [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0036709&bijlage=3&z=2017-01-01&g=2017-01-01) bij deze regeling.
 
-2. In de toelichting van de jaarrekening wordt onderscheid aangebracht tussen diensten van algemeen economische belang en de werkzaamheden die dat niet zijn overeenkomstig het model voor de balans, de winst- en verliesrekening en het kasstroomoverzicht, zoals die is opgenomen in [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0036709&bijlage=3&z=2016-10-28&g=2016-10-28) bij deze regeling. Voor toegelaten instellingen, bedoeld in [artikel 49, eerste lid, tweede volzin](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&artikel=49), is de eerste volzin alleen van toepassing voor zover het de winst- en verliesrekening en het kasstroomoverzicht betreft.
+2. In de toelichting van de jaarrekening wordt onderscheid aangebracht tussen diensten van algemeen economische belang en de werkzaamheden die dat niet zijn overeenkomstig het model voor de balans, de winst- en verliesrekening en het kasstroomoverzicht, zoals die is opgenomen in [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0036709&bijlage=3&z=2017-01-01&g=2017-01-01) bij deze regeling. Voor toegelaten instellingen, bedoeld in [artikel 49, eerste lid, tweede volzin](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&artikel=49), is de eerste volzin alleen van toepassing voor zover het de winst- en verliesrekening en het kasstroomoverzicht betreft.
 
 3. Het eerste lid is voor het eerst van toepassing op de jaarrekening over het verslagjaar 2016.
 
@@ -240,11 +238,11 @@ De combinatie van bedingen, bedoeld in [artikel 23, eerste lid, onderdeel b, van
 
 ##### Artikel 16
 
-Het overzicht, bedoeld in [artikel 36a, vierde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&artikel=36a), wordt ingericht overeenkomstig het model dat is opgenomen in [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0036709&bijlage=3&z=2016-10-28&g=2016-10-28) bij deze regeling.
+Het overzicht, bedoeld in [artikel 36a, vierde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&artikel=36a), wordt ingericht overeenkomstig het model dat is opgenomen in [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0036709&bijlage=3&z=2017-01-01&g=2017-01-01) bij deze regeling.
 
 ##### Artikel 17
 
-Het onderzoek, bedoeld in [artikel 37, eerste lid van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&artikel=37), en de rapportage ervan wordt uitgevoerd overeenkomstig de werkwijze respectievelijk de modellen die zijn opgenomen in [bijlage 4](https://wetten.overheid.nl/jci1.3:c:BWBR0036709&bijlage=4&z=2016-10-28&g=2016-10-28) bij deze regeling.
+Het onderzoek, bedoeld in [artikel 37, eerste lid van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&artikel=37), en de rapportage ervan wordt uitgevoerd overeenkomstig de werkwijze respectievelijk de modellen die zijn opgenomen in [bijlage 4](https://wetten.overheid.nl/jci1.3:c:BWBR0036709&bijlage=4&z=2017-01-01&g=2017-01-01) bij deze regeling.
 
 ### Hoofdstuk III. Werkzaamheden van toegelaten instellingen
 
@@ -306,9 +304,11 @@ Aan [artikel 49, tweede lid, onderdeel a, van het besluit](https://wetten.overhe
 
 5. De gegevens, bedoeld in het eerste lid, onderdeel b, zijn, behoudens het zesde en zevende lid:
 
-- a. in geval van vreemdelingen als bedoeld in het derde lid: een inkomstenverklaring, welke niet langer dan zes maanden voordat de overeenkomst van huur en verhuur zou moeten ingaan is afgegeven door het Centraal Orgaan opvang asielzoekers, bedoeld in [artikel 2 van de Wet Centraal Orgaan opvang asielzoekers](https://wetten.overheid.nl/jci1.3:c:BWBR0006685&artikel=2), of
+- a. in geval van vreemdelingen als bedoeld in het derde lid: een inkomstenverklaring, welke niet langer dan zes maanden voordat de overeenkomst van huur en verhuur zou moeten ingaan is afgegeven door het Centraal Orgaan opvang asielzoekers, bedoeld in [artikel 2 van de Wet Centraal Orgaan opvang asielzoekers](https://wetten.overheid.nl/jci1.3:c:BWBR0006685&artikel=2);
 
-- b. in geval van andere personen dan zodanige vreemdelingen: de aanslag of voorlopige aanslag inkomstenbelasting of de inkomensgegevens, bedoeld in [artikel 21, onderdeel e, van de Algemene wet inzake rijksbelastingen](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=21), van ieder van die personen, over een van de twee kalenderjaren die direct voorafgaan aan het kalenderjaar waarin de overeenkomst van huur van verhuur zou moeten ingaan.
+- b. in geval van personen die algemene bijstand ontvangen op grond van de Participatiewet: een bewijs van toekenning van algemene bijstand, of
+
+- c. in geval van andere personen dan personen als bedoeld in de onderdelen a en b: de aanslag of voorlopige aanslag inkomstenbelasting of de inkomensgegevens, bedoeld in [artikel 21, onderdeel e, van de Algemene wet inzake rijksbelastingen](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=21), van ieder van die personen, over een van de twee kalenderjaren die direct voorafgaan aan het kalenderjaar waarin de overeenkomst van huur van verhuur zou moeten ingaan.
 
 6. Voor zover gegevens als bedoeld in het vijfde lid, onderdeel b, niet beschikbaar zijn blijkens een schriftelijke verklaring van een functionaris van de rijksbelastingdienst die bij regeling van de Minister van Financiën als inspecteur is aangewezen, zijn de gegevens, bedoeld in het eerste lid, onderdeel b, voorts:
 
@@ -334,7 +334,7 @@ Aan [artikel 49, tweede lid, onderdeel a, van het besluit](https://wetten.overhe
 
 - d. gegevens waaruit het huishoudinkomen van de huurder blijkt, of op grond waarvan dat inkomen zo nauwkeurig als redelijkerwijs mogelijk kan worden geschat.
 
-10. Aan het eerste lid, onderdeel b, en het negende lid, onderdeel d, wordt toepassing gegeven overeenkomstig [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0036709&bijlage=1&z=2016-10-28&g=2016-10-28) bij deze regeling. [Artikel 55, negende lid, tweede en derde volzin, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0036702&artikel=55) is van overeenkomstige toepassing.
+10. Aan het eerste lid, onderdeel b, en het negende lid, onderdeel d, wordt toepassing gegeven overeenkomstig [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0036709&bijlage=1&z=2017-01-01&g=2017-01-01) bij deze regeling. [Artikel 55, negende lid, tweede en derde volzin, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0036702&artikel=55) is van overeenkomstige toepassing.
 
 ### Afdeling 3. Administratieve scheiding en vermogensscheiding
 
@@ -432,7 +432,7 @@ Tot de inlichtingen, bedoeld in [artikel 84, tweede lid, van het besluit](https:
 
 ##### Artikel 40
 
-Het percentage, bedoeld in [artikel 54, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&artikel=54), is het inflatiepercentage, bedoeld in [artikel 1, eerste lid, onderdeel d, van de Uitvoeringswet huurprijzen woonruimte](https://wetten.overheid.nl/jci1.3:c:BWBR0014315&artikel=1), plus 0,4 procentpunt.
+Het percentage, bedoeld in [artikel 54, eerste lid, van de Woningwet](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&artikel=54), bedraagt 1,3.
 
 #### § 1. Inrichting van de woningvennootschap en geldstromen tussen de toegelaten instelling en de woningvennootschap (gereserveerd)
 
@@ -474,7 +474,7 @@ Het percentage, bedoeld in [artikel 54, eerste lid, van de wet](https://wetten.o
 
 ##### Artikel 43
 
-De modellen, bedoeld in [artikel 107, tweede lid, onderdelen b en c, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0036702&artikel=107), zijn de modellen, opgenomen in de [bijlagen 6](https://wetten.overheid.nl/jci1.3:c:BWBR0036709&bijlage=6&z=2016-10-28&g=2016-10-28) en [7](https://wetten.overheid.nl/jci1.3:c:BWBR0036709&bijlage=7&z=2016-10-28&g=2016-10-28) bij deze regeling.
+De modellen, bedoeld in [artikel 107, tweede lid, onderdelen b en c, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0036702&artikel=107), zijn de modellen, opgenomen in de [bijlagen 6](https://wetten.overheid.nl/jci1.3:c:BWBR0036709&bijlage=6&z=2017-01-01&g=2017-01-01) en [7](https://wetten.overheid.nl/jci1.3:c:BWBR0036709&bijlage=7&z=2017-01-01&g=2017-01-01) bij deze regeling.
 
 ### Hoofdstuk IV. Overgangs- en slotbepalingen
 
@@ -590,49 +590,49 @@ Aan de hand van de volgende twee stroomschema’s kan de toegelaten instelling h
 
 De inkomenstoets voor de DAEB-toewijzingen dient per 1 juli 2015 te worden toegepast. Per uiterlijk 1 januari 2016 zal ook de inkomenstoetsing voor de passende toewijzing voor de huurtoeslag moeten gaan plaatsvinden. Vanaf die laatste datum kunnen de beide inkomenstoetsen in één administratieve handeling worden uitgevoerd.
 
-Aan de hand van de volgende twee stroomschema’s kan de toegelaten instelling het huishoudinkomen bepalen, zoals bedoeld in [artikel 22, eerste lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0036709&hoofdstuk=I&paragraaf=2&artikel=2&z=2016-10-28&g=2016-10-28) van de Regeling toegelaten instellingen volkshuisvesting 2015 (woningtoewijzing in het kader van de DAEB).
+Aan de hand van de volgende twee stroomschema’s kan de toegelaten instelling het huishoudinkomen bepalen, zoals bedoeld in [artikel 11, eerste lid aanhef en onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0036709&hoofdstuk=II&paragraaf=2&artikel=11&z=2017-01-01&g=2017-01-01) en [artikel 22, eerste lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0036709&hoofdstuk=III&afdeling=2&artikel=22&z=2017-01-01&g=2017-01-01) van de Regeling toegelaten instellingen volkshuisvesting 2015 (verkoop met korting, respectievelijk woningtoewijzing in het kader van de DAEB).
+
+Het vaststellen van het huishoudinkomen aan de hand van een inkomensverklaring van de Belastingdienst of een (voorlopige) aanslag IB van de Belastingdienst is verplicht, tenzij de uitzonderingsgevallen zoals omschreven in de ministeriële regeling zich voordoen (zie ook hierna).
 
 Schema A. betreft toetsing aan de hand van gegevens van de Belastingdienst.
 
 Schema B. moet worden toegepast indien Belastingdienst gegevens ontbreken.
 
-De inkomenstoets voor de DAEB-toewijzingen dient per 1 juli 2015 te worden toegepast. Per uiterlijk 1 januari 2016 zal ook de inkomenstoetsing voor de passende toewijzing voor de huurtoeslag moeten gaan plaatsvinden. Vanaf die laatste datum kunnen de beide inkomenstoetsen in één administratieve handeling worden uitgevoerd.
-
 ### •. Toetsing huishoudinkomen op basis van inkomensverklaring/aanslag IB
 
-De eisen die gesteld worden aan de over te leggen documentatie zijn neergelegd in het hiervoor genoemde artikel en de toelichting daarop. Het vaststellen van het huishoudinkomen aan de hand van een inkomensverklaring van de Belastingdienst of een (voorlopige) aanslag IB van de Belastingdienst is verplicht, tenzij de uitzonderingsgevallen zoals omschreven in de ministeriële regeling zich voordoen (zie ook hierna).
+De hoogten van I1 en I2 worden jaarlijks bij ministeriële regeling gepubliceerd.
 
-### •. Toetsing huishoudinkomen op basis van een inkomensverklaring en bijbehorende bewijsstukken
+### A. Toetsing huishoudinkomen op basis van inkomensverklaring/aanslag IB
 
 De hoogten van I1 en I2 worden jaarlijks bij ministeriële regeling gepubliceerd.
 
 ### •. Toetsing huishoudinkomen op basis van inkomensverklaring/aanslag IB
 
-### Inhoudsopgave
+### Handboek modelmatig waarderen marktwaarde
 
-In de nieuwe [Woningwet, artikel 35 lid 2](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&artikel=35), is opgenomen dat toegelaten instellingen in het kader van de jaarrekening, het vastgoed in exploitatie dienen te waarderen op actuele waarde, waaronder in dit verband dient te worden verstaan de marktwaarde, overeenkomstig het marktwaardebegrip onderhandse verkoopwaarde in verhuurde staat. Hiermee is de mogelijkheid die bestond op basis van BW2 en de Richtlijnen voor de jaarrekening, om het vastgoed ook op historische kosten of bedrijfswaarde te waarderen, beëindigd.
+Actualisatie peildatum 31 december 2016
 
 Op grond van de nieuwe [Woningwet](https://wetten.overheid.nl/jci1.3:c:BWBR0005181) dienen toegelaten instellingen voor de jaarrekening het vastgoed in exploitatie te waarderen op basis van marktwaarde. Invoering van de marktwaarde als waarderingsgrondslag is voor veel toegelaten instellingen ingrijpend en vergt een grote omslag in de wijze waarop het waarderingsproces wordt uitgevoerd. Een aantal toegelaten instellingen heeft deze stap al eerder gezet. Voor een groot deel van de toegelaten instellingen vormt de waardering op marktwaarde onbekend terrein. Dit waarderingshandboek beoogt deze toegelaten instellingen te ondersteunen in het proces om tot waardering op marktwaarde te komen. Daarnaast levert dit handboek ook een bijdrage aan uniformering en transparantie van de waarderingen bij alle toegelaten instellingen, mede door de onderlinge vergelijkbaarheid te vergroten.
 
-De vorige versie van het Handboek modelmatig waarderen marktwaarde werd op 17 juni 2015 gepubliceerd als onderdeel van de Regeling toegelaten instellingen volkshuisvesting 2015 (bijlage 2). Dat handboek had als peildatum 31 december 2014. Voor het gebruik van het handboek over verslagjaar 2015 is een actualisatie nodig. Het handboek in deze bijlage is de geactualiseerde versie van het handboek met als peildatum 31 december 2015. De actualisatie is in opdracht van de minister voor Wonen en Rijksdienst uitgevoerd door Ortec Finance. Deze actualisatie van het handboek geeft een basis voor de waardering op marktwaarde van het vastgoed in exploitatie op peildatum 31 december 2015. Deze waardering zal in het kader van de verantwoordingsgegevens (dVi) op 1 juli 2016 aangeleverd dienen te worden.
+Op grond van de [Woningwet](https://wetten.overheid.nl/jci1.3:c:BWBR0005181) dienen toegelaten instellingen voor de jaarrekening het vastgoed in exploitatie te waarderen op basis van marktwaarde. Invoering van de marktwaarde als waarderingsgrondslag is voor veel toegelaten instellingen ingrijpend en vergt een grote omslag in de wijze waarop het waarderingsproces wordt uitgevoerd. Dit waarderingshandboek beoogt deze toegelaten instellingen te ondersteunen in het proces om tot waardering op marktwaarde te komen. Daarnaast levert dit handboek een bijdrage aan uniformering en transparantie van de waarderingen bij alle toegelaten instellingen, mede door de onderlinge vergelijkbaarheid te vergroten.
 
-Bij de totstandkoming van dit handboek is gebruik gemaakt van waarderingen bij de toegelaten instellingen die in de jaarrekening 2014 het vastgoed in exploitatie op marktwaarde hebben gewaardeerd. Met deze waarderingsgegevens is het handboek gevalideerd via backtesting. Verder is bij verschillende marktpartijen informatie opgevraagd over de marktontwikkelingen in 2015. Deze informatie is verwerkt in het handboek. Ook is met diverse betrokken partijen gesproken over de actualisatie. De opmerkingen en aanvullingen op het eerdere handboek met prijspeil 2014, die op basis van gesprekken en schriftelijke reacties zijn ontvangen, zijn waar mogelijk verwerkt in dit handboek.
+De eerste versie van het Handboek modelmatig waarderen marktwaarde werd op 17 juni 2015 gepubliceerd als onderdeel van de Regeling toegelaten instellingen volkshuisvesting 2015 (bijlage 2). Dat handboek had als peildatum 31 december 2014. Voor het gebruik van het handboek voor de dVi 2015 vond eind 2015 een actualisatie plaats naar peildatum 31 december 2015. Het handboek in deze bijlage is de tweede geactualiseerde versie van het handboek met als peildatum 31 december 2016. De actualisatie is in opdracht van de minister voor Wonen en Rijksdienst uitgevoerd door Fakton mede op basis van een in augustus 2016 uitgevoerde enquête onder alle woningcorporaties.
 
 ### 1. Vooraf
 
-Op grond van de nieuwe [Woningwet](https://wetten.overheid.nl/jci1.3:c:BWBR0005181) dienen toegelaten instellingen voor de jaarrekening het vastgoed in exploitatie te waarderen op basis van marktwaarde. Invoering van de marktwaarde als waarderingsgrondslag is voor veel toegelaten instellingen ingrijpend en vergt een grote omslag in de wijze waarop het waarderingsproces wordt uitgevoerd. Een aantal toegelaten instellingen heeft deze stap al eerder gezet. Voor een groot deel van de toegelaten instellingen vormt de waardering op marktwaarde onbekend terrein. Dit waarderingshandboek beoogt deze toegelaten instellingen te ondersteunen in het proces om tot waardering op marktwaarde te komen. Daarnaast levert dit handboek ook een bijdrage aan uniformering en transparantie van de waarderingen bij alle toegelaten instellingen, mede door de onderlinge vergelijkbaarheid te vergroten.
+Bij de totstandkoming van dit handboek is gebruik gemaakt van waarderingen bij de toegelaten instellingen die in de jaarrekening 2015 en de dVi van 1 juli 2016, het vastgoed in exploitatie op marktwaarde full hebben gewaardeerd. Met deze waarderingsgegevens is het handboek gevalideerd via backtesting. Tevens is vastgesteld of de waardering peildatum 31 december 2016 in een logisch verband staat met de waardering peildatum 31 december 2015. Verder is bij verschillende marktpartijen informatie opgevraagd over de marktontwikkelingen in 2016. Deze informatie is verwerkt in het handboek. Ook is met diverse betrokken partijen in werksessies in september 2016 gesproken over de actualisatie. De opmerkingen en aanvullingen op het eerdere handboek met prijspeil 2015, die op basis van gesprekken en schriftelijke reacties zijn ontvangen, zijn waar mogelijk verwerkt in dit handboek.
 
-De vorige versie van het Handboek modelmatig waarderen marktwaarde werd op 17 juni 2015 gepubliceerd als onderdeel van de Regeling toegelaten instellingen volkshuisvesting 2015 (bijlage 2). Dat handboek had als peildatum 31 december 2014. Voor het gebruik van het handboek over verslagjaar 2015 is een actualisatie nodig. Het handboek in deze bijlage is de geactualiseerde versie van het handboek met als peildatum 31 december 2015. De actualisatie is in opdracht van de minister voor Wonen en Rijksdienst uitgevoerd door Ortec Finance. Deze actualisatie van het handboek geeft een basis voor de waardering op marktwaarde van het vastgoed in exploitatie op peildatum 31 december 2015. Deze waardering zal in het kader van de verantwoordingsgegevens (dVi) op 1 juli 2016 aangeleverd dienen te worden.
+De belangrijkste wijzigingen die in het handboek zijn doorgevoerd, zijn de actualisatie van de hoogte van de normen en de parameters naar peildatum 31 december 2016. Verder is de rol van en de opdrachtverlening aan de externe taxateur nader uitgewerkt. Daarnaast is de tekst op verschillende plaatsen verduidelijkt en is de bijlage met definities aangescherpt. In dit handboek zijn aanvullende vrijheidsgraden opgenomen voor de full-waardering zoals het toestaan van een onderbouwde exit yield voor de eindwaarde bepaling. Het handboek bevat ook nieuwe voorschriften voor het verplicht toepassen van een full taxatie voor bepaalde typen vastgoed of vastgoed binnen krimp- en/of aardbevingsgebieden.
 
 ### Marktwaarde en markthuur
 
-De belangrijkste wijzigingen die in het handboek zijn doorgevoerd, zijn de actualisatie van de hoogte van de normen en de parameters naar peildatum 31 december 2015 en de verfijning van de wijze waarop de eindwaarde wordt berekend. Verder is de rol van en de opdrachtverlening aan de externe taxateur nader uitgewerkt. Daarnaast is de tekst op verschillende plaatsen verduidelijkt en is een bijlage met definities toegevoegd.
+Daarbij is het van essentieel belang dat de corporatie aandacht besteedt aan het controleren van de kwaliteit van objectgegevens en de uitkomsten van de waarderingen (eventueel met taxateur) checkt op plausibilit
 
 Verder dient op basis van [artikel 31 van het BTIV](https://wetten.overheid.nl/jci1.3:c:BWBR0036702&artikel=31) bij de waardering onderscheid te worden gemaakt naar de volgende categorieën:
 
 Bij de waardering van het vastgoed dient voorts een doorexploiteer- en een uitpondscenario te worden onderscheiden. De marktwaarde is de hoogste van beide waarderingen.
 
-In de nieuwe [Woningwet, artikel 35 lid 2](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&artikel=35), is opgenomen dat toegelaten instellingen in het kader van de jaarrekening, het vastgoed in exploitatie dienen te waarderen op actuele waarde, waaronder in dit verband dient te worden verstaan de marktwaarde, overeenkomstig het marktwaardebegrip onderhandse verkoopwaarde in verhuurde staat. Hiermee is de mogelijkheid die bestond op basis van BW2 en de Richtlijnen voor de jaarrekening, om het vastgoed ook op historische kosten of bedrijfswaarde te waarderen, beëindigd.
+In de [Woningwet](https://wetten.overheid.nl/jci1.3:c:BWBR0005181) die op 1 juli 2015 is ingegaan, [artikel 35 lid 2](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&artikel=35), is opgenomen dat toegelaten instellingen in het kader van de jaarrekening, het vastgoed in exploitatie dienen te waarderen op actuele waarde, waaronder in dit verband dient te worden verstaan de marktwaarde, overeenkomstig het marktwaardebegrip onderhandse verkoopwaarde in verhuurde staat. Hiermee is de mogelijkheid die bestond op basis van BW2 en de Richtlijnen voor de jaarrekening, om het vastgoed ook op historische kosten of bedrijfswaarde te waarderen, beëindigd.
 
 ### 2.2. Algemene uitgangspunten
 
@@ -642,49 +642,49 @@ Verder dient op basis van [artikel 31 van het BTIV](https://wetten.overheid.nl/j
 
 De verplichting om het vastgoed in exploitatie op marktwaarde te waarderen, gaat in met de jaarrekening over 2016. Daaraan voorafgaand zal de Autoriteit woningcorporaties over verslagjaar 2015 als onderdeel van de verantwoordingsgegevens separaat de marktwaarde van het vastgoed opvragen bij de toegelaten instellingen.
 
-In dit handboek worden verschillende typen vastgoed onderscheiden te weten:
+Toegelaten instellingen dienen voor de uitvoering van de marktwaardering te beschikken over een aantal basisgegevens van haar bezit. Basisgegevens, zoals kadastrale data en gegevens uit de BAG (zoals m2 GBO, perceelgrootte en bouwjaar) zijn op te vragen bij het Kadaster. Meer informatie daarover is verkrijgbaar via www.kadaster.nl/woningcorporaties of door contact met het Kadaster.
 
-Dit waarderingshandboek is onderdeel van de Regeling toegelaten instellingen volkshuisvesting en geeft nadere uitwerking aan de [Woningwet](https://wetten.overheid.nl/jci1.3:c:BWBR0005181) en het [BTIV2015](https://wetten.overheid.nl/jci1.3:c:BWBR0036702) met betrekking tot de wijze waarop de waardering van het vastgoed in exploitatie ten behoeve van de jaarrekening van toegelaten instellingen dient plaats te vinden. Het handboek zorgt voor vergelijkbaarheid en biedt ondersteuning aan de grote groep toegelaten instellingen die nog geen ervaring met marktwaarde heeft. Het levert daarmee een bijdrage aan de beperking van de administratieve lasten en fungeert daarmee als bindend kader voor alle toegelaten instellingen voor de wijze waarop de marktwaarde in het kader van de jaarrekening en de balansopstellingen voor de DAEB- en de niet-DAEB tak dienen te worden opgesteld.
+Bij gebruik van de full-versie voor regulier woningvastgoed dient jaarlijks minimaal een derde, steeds wisselend deel van het betreffende vastgoed, via een volledige taxatie te worden gewaardeerd. Voor het andere, tweederde deel van het vastgoed is een aannemelijkheidsverklaring van de externe taxateur vereist. Het NRVT heeft besloten om voor vier jaar de aannemelijkheidsverklaring als uit te geven verklaring door een taxateur toe te staan onder hun reglementen. Per toegelaten instelling mag maximaal twee jaar gebruik worden gemaakt van de aannemelijkheidsverklaring, daarna kan worden overgestapt op taxaties op basis van een markttechnische update.
 
 ### 3.3. Marktwaarde en markthuur
 
 In dit waarderingshandboek worden derhalve twee versies voor de waardering beschreven:
 
-De basisversie vormt het uitgangspunt van alle marktwaardewaarderingen. Deze versie wordt gedetailleerd uitgewerkt in dit handboek. Alle toegelaten instellingen hebben de vrijheid om de full versie toe te passen. De full versie maakt gebruik van vrijheidsgraden. Dit betekent dat op genoemde onderdelen kan worden afgeweken van de parameters zoals opgenomen in de basisversie. Het is de eigen verantwoordelijkheid en keuze van de toegelaten instelling of, en zo ja, op welke onderdelen van de waardering de full versie wordt toegepast. Daarbij geldt het principe ‘pas toe, of leg uit’. Dit houdt in dat op die onderdelen van de waardering waar de full versie wordt toegepast, een onderbouwing noodzakelijk is van de keuze door een externe taxateur.
+Dit waarderingshandboek is onderdeel van de Regeling toegelaten instellingen volkshuisvesting en geeft nadere uitwerking aan de [Woningwet](https://wetten.overheid.nl/jci1.3:c:BWBR0005181) en het [BTIV 2015](https://wetten.overheid.nl/jci1.3:c:BWBR0036702) van de wijze waarop de waardering van het vastgoed in exploitatie ten behoeve van de jaarrekening van toegelaten instellingen dient plaats te vinden. Het handboek zorgt voor vergelijkbaarheid en biedt ondersteuning aan de grote groep toegelaten instellingen die nog geen ervaring met marktwaarde heeft. Doel van het handboek is daarom mede een bijdrage aan de beperking van de administratieve lasten en het handboek fungeert daarmee als bindend kader voor alle toegelaten instellingen voor de wijze waarop de marktwaarde in het kader van de jaarrekening en de balansopstellingen voor de DAEB- en de niet-DAEB tak dienen te worden opgesteld.
 
-Het waarderingsprotocol van dit handboek heeft tot doel een waardering van het vastgoed op basis van marktwaarde op te leveren ten behoeve van de jaarrekening van toegelaten instellingen. Op deelportefeuilleniveau, onderscheiden naar DAEB en niet-DAEB, dient de waardering een goed beeld van de marktwaarde van het vastgoed op te leveren. Dit impliceert dat de waardering op complexniveau gemiddeld genomen wel een goed beeld geeft, maar dat er mogelijk complexen zijn met een te hoge en complexen met een te lage waardering.
+In het handboek zijn twee benaderingen onderscheiden: de basisversie en de full-versie. De basisversie biedt de mogelijkheid om op **portefeuilleniveau** tot een aannemelijke markwaarde te komen. De full-versie stelt de toegelaten instelling in staat om op **complexniveau**, met ondersteuning van een externe taxateur, de aannemelijke waarde te bepalen en deze waarde in te zetten bij bijvoorbeeld vastgoedsturing. De waarde op complexniveau zoals die voortvloeit uit de basisversie is niet geschikt voor vastgoedsturing, omdat de basisversie alleen op portefeuilleniveau tot een aannemelijke waarde van het vastgoed leidt.
 
-Toegelaten instellingen gebruiken de waardering van het vastgoed niet alleen voor de jaarrekening, maar ook voor de vastgoedsturing. Deze toegelaten instellingen willen voor elk afzonderlijk complex de aannemelijke waarde vastgesteld hebben. Dit handboek biedt daartoe ook de mogelijkheid. In dat geval kan met ondersteuning van een externe taxateur een waardering worden vastgesteld die zowel voor de jaarrekening als voor de vastgoedsturing kan worden gebruikt.
+Bij de uitwerking van het handboek zijn verschillende uitgangspunten in acht genomen:
 
-### 3.4. Waarderingsmethodiek
+### 2.4. Gebruik full-versie
 
-De basisversie vormt het uitgangspunt van alle marktwaardewaarderingen. Deze versie wordt gedetailleerd uitgewerkt in dit handboek. Alle toegelaten instellingen hebben de vrijheid om de full versie toe te passen. De full versie maakt gebruik van vrijheidsgraden. Dit betekent dat op genoemde onderdelen kan worden afgeweken van de parameters zoals opgenomen in de basisversie. Het is de eigen verantwoordelijkheid en keuze van de toegelaten instelling of, en zo ja, op welke onderdelen van de waardering de full versie wordt toegepast. Daarbij geldt het principe ‘pas toe, of leg uit’. Dit houdt in dat op die onderdelen van de waardering waar de full versie wordt toegepast, een onderbouwing noodzakelijk is van de keuze door een externe taxateur.
+Het gebruik van de full-versie taxatie en het inschakelen van een externe taxateur is in een aantal gevallen verplicht. Het betreft de volgende situaties:
 
 ### 3.2. Typen vastgoed
 
-In dit handboek worden verschillende typen vastgoed onderscheiden te weten:
+Let op: het is in alle gevallen mogelijk om een taxatie in de full-variant te maken, ook als er geen directe verplichting is. U kunt daarbij de keuze maken om een aantal complexen, deelportefeuilles of vastgoedtypen op full te waarderen.
 
 Voor elk van de verschillende typen vastgoed wordt gebruik gemaakt van eigen waarderingsmodel. In de bijlage zijn de definities en een overzicht van de verhuureenheden per type opgenomen
 
 ### 3.3. Marktwaarde en markthuur
 
-Ten aanzien van de verschillende waardebegrippen sluit dit handboek aan bij internationale richtlijnen, zoals die zijn vastgelegd door middel van de International Valuation Standards (IVS) en de European Valuation Standards (EVS). De definitie van marktwaarde is:
+Als voorbeeld: de (deel)portefeuille wordt door de toegelaten instelling (in samenspraak met taxateur en accountant) in drie vergelijkbare delen verdeeld, een deel (a), (b) en (c). De cyclus is dan als volgt:
 
-‘Het geschatte bedrag waarvoor het object op de waardepeildatum, na behoorlijke marketing, zou worden overgedragen in een marktconforme transactie tussen een bereidwillige koper en een bereidwillige verkoper, waarbij de partijen zouden hebben gehandeld met kennis van zaken, prudent en niet onder dwang.’1Praktijkhandreiking Nederlandse Vastgoedtaxaties Commercieel Vastgoed, p. 18.
+Let op: Alleen als er sprake is van regulier woningvastgoed kan gekozen worden voor deze tweede variant, omdat hierbij veel repetitie aanwezig is. Er moet immers op basis van de taxatie van het éénderde deel een uitspraak gedaan worden over het tweederde deel dat niet door taxateur is gezien. Daarom is voor overig vastgoed, dat in zijn aard meer heterogeen is, gekozen om variant 1 verplicht te stellen.
 
 ### 3.5. Waarderingscomplex
 
-‘Het geschatte huurbedrag waarvoor het object op de waardepeildatum na behoorlijke marketing, onder de voorwaarden van de huurovereenkomst in een marktconforme transactie zou worden verhuurd door een bereidwillige verhuurder en een bereidwillige huurder, waarbij elk der partijen zou hebben gehandeld met kennis van zaken, prudent en niet onder dwang.’2Praktijkhandreiking Nederlandse Vastgoedtaxaties Commercieel Vastgoed, p. 20
+In bijlage 3 staat het schema opgenomen dat duidelijkheid geeft over de verplichting van de full-versie en de keuze voor de taxatie uitgangspunten. In bijlage 4 staan de rapportagevereisten vanuit het NRVT opgenomen.
 
 Er bestaat geen minimum voor het aantal verhuureenheden in een waarderingscomplex. Dit betekent dus dat een waarderingscomplex ook uit één verhuureenheid kan bestaan. Eveneens geldt dat geen maximum aantal verhuureenheden in een waarderingscomplex wordt voorgeschreven.
 
 ### 3.7. Verhuureenheden in exploitatie buiten de landsgrenzen
 
-Voor verhuureenheden buiten de Nederlandse landsgrenzen geldt dat de waardering dient plaats te vinden met inschakeling van een externe taxateur. De reden hiervoor is dat het handboek betrekking heeft op de Nederlandse situatie en niet op vastgoed in het buitenland.
+Tot 2019 is het toegestaan om gebruik te maken van de metrages zoals opgenomen in het BAG- register (bagviewer.kadaster.nl) danwel metrages die volgens de meetinstructie van de waarderingskamer (= WOZ) zijn verkregen. Als er betere (gecheckte) gegevens voorhanden zijn, wordt geadviseerd die te gebruiken. De metrages van individuele onzelfstandige eenheden zijn niet opgenomen in het BAG-register, tot 2019 mogen voor deze ruimtes de metrages conform het WWS-stelsel worden aangehouden.
 
 ### 4. Macro-economische parameters
 
-Er bestaat geen minimum voor het aantal verhuureenheden in een waarderingscomplex. Dit betekent dus dat een waarderingscomplex ook uit één verhuureenheid kan bestaan. Eveneens geldt dat geen maximum aantal verhuureenheden in een waarderingscomplex wordt voorgeschreven.
+De NEN 2580 maakt voor de gebruiksoppervlakte van de woning onderscheid tussen:
 
 ### 4.1. Prijsinflatie
 
@@ -692,57 +692,57 @@ Bij woongelegenheden en parkeergelegenheden worden de verhuureenheden in het waa
 
 ### 3.7. Verhuureenheden in exploitatie buiten de landsgrenzen
 
-Het doorexploiteerscenario veronderstelt dat verhuureenheden worden doorverhuurd. Daarbij wordt verondersteld dat elk jaar bij een deel van de verhuureenheden, de huurder verhuist. Bij de leegkomende verhuureenheden wordt de eenheid opnieuw verhuurd en wordt de huur na mutatie opgetrokken naar de potentiële huur, die bepaald is op basis van de markthuur of de maximale huur op basis van het woningwaarderingstelsel. Aan het einde van de 15-jarige DCF-periode wordt een eindwaarde opgenomen. De kasstromen en de eindwaarde worden vervolgens contant gemaakt naar het heden en opgeteld om tot een waarde in het doorexploiteerscenario te komen.
+(a) In het geval dat de WOZ-waarde überhaupt niet beschikbaar komt (bij bijvoorbeeld een parkeerplaats), mag een schatting worden gehanteerd. Bijvoorbeeld op basis van recente transacties of aanbodprijzen van vergelijkbare objecten. In dit geval dient taxatie plaats te vinden met de full-versie.
 
 ### 4. Macro-economische parameters
 
-Bij woongelegenheden en parkeergelegenheden worden de verhuureenheden in het waarderingscomplex eerst afzonderlijk gewaardeerd volgens beide scenario’s. De waarde op basis van het doorexploiteerscenario, resp. het uitpondscenario is de som van de waarde van alle verhuureenheden in het waarderingscomplex. Nadat de waarden op basis van beide scenario’s zijn bepaald, leidt de hoogste waarde van de twee scenario’s uiteindelijk tot de marktwaarde van het waarderingscomplex.
+(b) In het geval van nieuwbouw is er wel een WOZ-waarde, maar die kan betrekking hebben op de verhuureenheid in aanbouw. De WOZ-waarde van de WOZ-beschikking heeft daardoor geen betrekking op de toestand van de verhuureenheid in exploitatie. In dit geval moet worden gehanteerd:
 
 De bouwkostenstijging vormt het uitgangspunt voor de stijging van de onderhoudskosten, de verkoopkosten en de verouderingskosten.
 
 ### Markthuur van woningen
 
-Voor 2015 en 2016 wordt aangesloten bij de meest recente prognose van het Centraal Planbureau (CPB)5Centraal Planbureau, Macro-economische verkenning, p. 85, september 2015. Voor het restant van de prognoseperiode wordt aangesloten bij de lange termijn verwachting, conform het (maximale) streven van de Europese Centrale Bank (ECB).
+Voor het verslagjaar 2016 gelden deze uitwerkingen nog als handreiking. Voor het verslagjaar 2017 gelden de uitwerkingen als voorschrift. Dit om de ontwikkelaars van software en rekenmodellen de gelegenheid te geven deze uitwerking in hun modellen in te bouwen.
 
-Om de te verwachte kasstromen in de DCF-berekening te bepalen, wordt gebruik gemaakt van macro-economische parameters. Het gaat hierbij om de prijsinflatie, de loonstijging, de bouwkostenstijging en de leegwaardestijging. De parameters worden hierna weergegeven.
+De nadere uitwerkingen gaan onder meer over het omgaan met indexeren en verdisconteren bij een medio jaar benadering, over het omgaan met muteren en uitponden en over de eindwaardeberekening.
 
-De loonstijging vormt het uitgangspunt voor de stijging van de beheerkosten, exclusief de zakelijke lasten.
+De nadere uitwerkingen in dit handboek zijn gebaseerd op een benadering in jaarschijven. Er zijn modellen die bijvoorbeeld niet in jaar- maar in maandschijven rekenen. Deze modellen geven bij het juist toepassen van een medio benadering nagenoeg dezelfde uitkomsten als de uitwerkingen in dit handboek op basis van jaarschijven. Beide type modellen zijn daarom toegestaan.
 
-De prijsinflatie wordt als basis gehanteerd voor de jaarlijkse indexering van de volgende posten:
+Tot slot geldt dat de waarderingen (zowel uitponden als doorexploiteren) in eerste instantie op vhe-niveau dienen te worden uitgevoerd. Daarna kan op complexniveau de som van alle doorexploiteerwaarden en de som van alle uitpondwaarden worden bepaald. De marktwaarde is de hoogste van één van beide sommen.
 
 Voor 2015 en 2016 wordt aangesloten bij de meest recente prognose van het Centraal Planbureau (CPB)5Centraal Planbureau, Macro-economische verkenning, p. 85, september 2015. Voor het restant van de prognoseperiode wordt aangesloten bij de lange termijn verwachting, conform het (maximale) streven van de Europese Centrale Bank (ECB).
 
 ### 4.2. Loonstijging
 
-De loonstijging vormt het uitgangspunt voor de stijging van de beheerkosten, exclusief de zakelijke lasten.
+Naast de jaarlijkse actualisatie wordt het handboek periodiek gevalideerd. Bij de validatie wordt gecontroleerd of de verkregen marktwaardes door toepassing van de basisversie van het handboek inderdaad leiden tot een aannemelijke marktwaarde voor alle corporaties in alle provincies en voor alle typen vastgoed. Het handboek is in 2016 gevalideerd en zal ook in 2017 worden gevalideerd, omdat toepassing van het handboek nog relatief nieuw
 
-### 4.4. Leegwaardestijging
-
-De leegwaardestijging vormt de basis voor de stijging van de verkoopopbrengst in het uitpondscenario. Omdat er regionale verschillen zijn, is de leegwaardestijging voor elke provincie en voor de vier grote steden afzonderlijk weergegeven. Over 2014 en 2015 gaat het daarbij om de gerealiseerde stijgingen op basis van gegevens van het Kadaster. Vanaf 2016 is verondersteld dat de leegwaardestijging in 3 jaar geleidelijk uitkomt op 2,0%. Dit sluit aan bij de lange termijn verwachting dat de leegwaardestijging gelijk is aan de veronderstelde prijsinflatie.
-
-### 5. Woongelegenheden
-
-Voor de veronderstelde bouwkostenstijging wordt aangesloten bij de loonstijging. Zoals beschreven, wordt deze stijging voor 2015 en 2016 ontleend aan de meest recente prognose van het CPB. Voor het restant van de prognoseperiode geldt eveneens dat de bouwkostenstijging gelijk is gesteld aan de loonstijging.
-
-De leegwaarde wordt gelijk gesteld aan de geïndexeerde WOZ-waarde. Hierbij wordt aangenomen dat de beschikbare WOZ-beschikking betrekking heeft op de waardepeildatum 1 januari 2014. De WOZ-waarde van de WOZ-beschikking dient dan te worden geïndexeerd met de leegwaardestijging van 2014 en 2015 om een leegwaarde te krijgen met peildatum 31 december 2015. Indien de WOZ-beschikking met waardepeildatum 1 januari 2014 nog niet beschikbaar is, dan wel de WOZ-beschikking met waardepeildatum 1 januari 2015 al beschikbaar is, dient deze waarde te worden aangepast zodanig dat de WOZ-waarde als objectgegeven de waardepeildatum 1 januari 2014 heeft.
+### 3. NADERE KADERSTELLING
 
 De leegwaardestijging vormt de basis voor de stijging van de verkoopopbrengst in het uitpondscenario. Omdat er regionale verschillen zijn, is de leegwaardestijging voor elke provincie en voor de vier grote steden afzonderlijk weergegeven. Over 2014 en 2015 gaat het daarbij om de gerealiseerde stijgingen op basis van gegevens van het Kadaster. Vanaf 2016 is verondersteld dat de leegwaardestijging in 3 jaar geleidelijk uitkomt op 2,0%. Dit sluit aan bij de lange termijn verwachting dat de leegwaardestijging gelijk is aan de veronderstelde prijsinflatie.
 
 ### 5. Woongelegenheden
 
-In dit hoofdstuk worden de te hanteren gegevens en de uitgangspunten voor de waardebepaling van woongelegenheden uiteengezet. Voor de waardebepaling is het belangrijk om onderscheid te maken tussen de **objectgegevens** en de **modelparameters**. De objectgegevens zijn specifieke gegevens van de toegelaten instelling die op het niveau van de verhuureenheid beschikbaar dienen te zijn. Deze gegevens komen uit de basisadministratie van de toegelaten instelling. Naast de objectgegevens wordt gebruik gemaakt van de modelparameters. De modelparameters zijn die gegevens die noodzakelijk zijn voor de berekening van de marktwaarde. Over deze waarden geeft dit handboek uitsluitsel.
+Toegelaten instellingen gebruiken de waardering van het vastgoed niet alleen voor de jaarrekening, maar ook voor de vastgoedsturing. Deze toegelaten instellingen willen voor elk afzonderlijk complex de aannemelijke waarde vastgesteld hebben. Dit handboek biedt daartoe ook de mogelijkheid. In dat geval kan met ondersteuning van een externe taxateur een waardering worden vastgesteld die zowel voor de jaarrekening als voor de vastgoedsturing kan worden gebruikt.
+
+In dit waarderingshandboek worden derhalve twee versies voor de waardering beschreven:
+
+De basisversie vormt het uitgangspunt van alle marktwaardewaarderingen. Deze versie wordt gedetailleerd uitgewerkt in dit handboek. Alle toegelaten instellingen hebben de vrijheid om de full versie toe te passen. De full versie maakt gebruik van vrijheidsgraden. Dit betekent dat op genoemde onderdelen voor de waardering van woongelegenheden kan worden afgeweken van de parameters zoals opgenomen in de basisversie. Voor niet woongelegenheden biedt de full versie ook aanvullende mogelijkheden om het kasstroomschema van de waardering aan te vullen. Het is de eigen verantwoordelijkheid en keuze van de toegelaten instelling of, en zo ja, op welke onderdelen van de waardering de full versie wordt toegepast. Daarbij geldt het principe ‘pas toe, of leg uit’. Dit houdt in dat op die onderdelen van de waardering waar de full versie wordt toegepast, een onderbouwing noodzakelijk is van de keuze door een externe taxateur.
+
+### 3.2. Typen vastgoed en overig vastgoed
+
+In dit handboek worden verschillende typen vastgoed onderscheiden te weten:
 
 ### 5.1. Objectgegevens
 
-De onderstaande tabel bevat een overzicht van de specifieke objectgegevens voor woongelegenheden van de toegelaten instelling. Hierbij is onderscheid gemaakt tussen gegevens die betrekking hebben op het waarderingscomplex en op de afzonderlijke verhuureenheden.
+Woningcorporaties hebben ook vastgoed in exploitatie dat niet onder de vier eerdergenoemde typen valt. Deze typen vastgoed worden ookwel exoten of rafelranden genoemd. Voor deze exoten moet aansluiting worden gezocht bij de meest logische waarderingscategorie. Bijvoorbeeld voor zendmasten de full-versie van BOG-MOG. Als aansluiting bij een van de waarderingscategoriën niet mogelijk is (door bijvoorbeeld ontbrekende gegevens) kan altijd een vrije taxatie worden gebruikt.
 
 De leegwaarde wordt gelijk gesteld aan de geïndexeerde WOZ-waarde. Hierbij wordt aangenomen dat de beschikbare WOZ-beschikking betrekking heeft op de waardepeildatum 1 januari 2014. De WOZ-waarde van de WOZ-beschikking dient dan te worden geïndexeerd met de leegwaardestijging van 2014 en 2015 om een leegwaarde te krijgen met peildatum 31 december 2015. Indien de WOZ-beschikking met waardepeildatum 1 januari 2014 nog niet beschikbaar is, dan wel de WOZ-beschikking met waardepeildatum 1 januari 2015 al beschikbaar is, dient deze waarde te worden aangepast zodanig dat de WOZ-waarde als objectgegeven de waardepeildatum 1 januari 2014 heeft.
 
 ### 5.2.2. Markthuur van woningen
 
-De markthuur is de (kale) huurprijs per maand van een verhuureenheid die, uitgaande van optimale marketing en verhuur, kan worden gerealiseerd op de waardepeildatum 31 december 2015. In het doorexploiteerscenario wordt de markthuur gebruikt voor het bepalen van de nieuwe huur nadat een woning is gemuteerd. In het uitpondscenario speelt de markthuur een rol als sprake is van juridische beklemmingen. Door deze beklemmingen kan het voorkomen dat slechts een deel van de verhuureenheden in een complex mag worden verkocht. Indien dit deel is bereikt, mag vanaf dat moment niet meer worden verkocht in het uitpondscenario, maar zal bij mutatie sprake zijn van wederverhuur. In dat geval is de markthuur van belang bij het bepalen van de nieuwe huur na mutatie. Voorts dient bij leegstand ook de markthuur genomen te worden, in plaats van de contracthuur.
+‘Het geschatte bedrag waarvoor het object op de waardepeildatum, na behoorlijke marketing, zou worden overgedragen in een marktconforme transactie tussen een bereidwillige koper en een bereidwillige verkoper, waarbij de partijen zouden hebben gehandeld met kennis van zaken, prudent en niet onder dwang’2Praktijkhandreiking Nederlandse Vastgoedtaxaties Commercieel Vastgoed, p. 18
 
-De leegwaarde is de geschatte verkoopprijs op basis van de kosten koper, vrij van huur en overige lasten. De leegwaarde wordt als opbrengst in het uitpondscenario opgenomen, zodra de mogelijkheid tot de verkoop van een verhuureenheid zich voordoet.
+Ook wordt ten aanzien van de definitie van de markthuur aangesloten bij de IVS en de EVS. De definitie voor markthuur luidt:
 
 ### Belastingen en verzekeringen
 
@@ -750,17 +750,17 @@ De markthuur voor deze referentiewoning bedraagt op jaarbasis 6,18% van de leegw
 
 ### Verhuurderheffing
 
-Op basis van gegevens van de Nederlandse Vereniging van Makelaars (NVM) over de gerealiseerde markthuren van woningen per maand over de periode januari 2013 tot en met juni 2015 is de markthuur in procenten van de leegwaarde geschat op waardepeildatum 31 december 2015. De hoogte van de markthuur is daarbij afhankelijk van de volgende woningkenmerken:
+Er zijn kasstromen die niet medio vallen, maar aan het eind (ultimo) of begin (primo) van een jaar. Dit zijn respectievelijk de eindwaarde, achterstallig onderhoud, afkoopsom erfpacht en bedrag erfpacht suppletie.
 
-Bij de schatting is gebruik gemaakt van een referentiewoning. De keuze voor de referentiewoning heeft geen invloed op de hoogte van de markthuur van de andere woningen. Onderstaande tabel geeft de kenmerken van de referentiewoning weer.
+De berekening van de netto contante marktwaarde wordt bij alle typen vastgoed uitgevoerd voor een exploitatieperiode van 15 jaar. In de volgende paragrafen wordt de DCF methode meer verduidelijkt en gepreciseerd.
 
-### 5.2.4. Exploitatiekosten
+### 3.4.1. Contante waarde bij medio jaar
 
-Het bepaalde markthuurpercentage is alleen van toepassing op peildatum 31 december 2015. De markthuur in de jaren daarna wordt berekend door de markthuur ultimo 2015 aan te passen met de prijsinflatie.
+Alle kasstromen in de prognose worden geacht halverwege het jaar te worden ontvangen of betaald. Dat uitgangspunt heeft gevolgen voor de wijze van disconteren. De contante waarde van een kasstroom in het jaar (t) bij een discontovoet van (r) is gelijk aan de kasstroom gedeeld door (1 + r) ^ (t – 0,5). De netto contante waarde is zoals gebruikelijk de som van alle contante waarden. Op basis van een medio benadering disconteren van kasstromen geeft een ander resultaat dan het ultimo (op eind jaar) disconteren. Het procentuele verschil is ongeveer de helft van de gebruikte discontovoet.
 
 ### 5.2.3. Markthuur van studenteneenheden en extramurale zorgeenheden
 
-Voor studenteenheden en extramurale zorgeenheden zijn onvoldoende gegevens beschikbaar om een markthuur op te baseren. Aansluitend bij de praktijk, is daarom de markthuur voor studenteneenheden en extramurale zorgeenheden gelijk gesteld aan de maximale huur volgens het woningwaarderingstelsel. Dit huurniveau is ook van toepassing bij een leegstaande eenheid.
+Op het medio disconteren bestaan enkele uitzonderingen. De eerste uitzondering is de eindwaarde. Daarvoor geldt niet de veronderstelling dat deze halverwege het jaar valt, maar aan het eind van de exploitatie periode. De contante waarde van de nominale eindwaarde is daarom de eindwaarde ultimo jaar 15 gedeeld door (1 + r) ^ 15.
 
 ### 5.2.4. Exploitatiekosten
 
@@ -768,77 +768,77 @@ De exploitatiekosten bestaan uit de onderhoudskosten, onderscheiden naar instand
 
 ### Bevriezing liberalisatiegrens
 
-De hoogte van de kosten voor het instandhoudingsonderhoud is afhankelijk van twee kenmerken van de verhuureenheid:
+Het handboek bevat op verschillende plekken gegevens over het toepassen van indexen. Als bijvoorbeeld voor de prijsinflatie in een bepaald kalenderjaar een index is opgenomen dan gaat het in sommige gevallen over de index**in** een kalenderjaar en soms de index**over** een kalenderjaar.
 
 ### 5.2.5. Huurstijging
 
-Mutatieonderhoud doet zich voor bij het verhuizen van de huurder. De hoogte van de kosten voor het mutatieonderhoud is afhankelijk van het type verhuureenheid. De bedragen voor het mutatieonderhoud zijn ontleend aan de waarderingsgegevens van de toegelaten instellingen, die op marktwaarde hebben gewaardeerd, en zijn weergegeven in de onderstaande tabel. Daarbij geldt dat de bedragen per mutatie gelden. De bedragen zijn inclusief 21% BTW.
+Een voorbeeld van de tweede categorie (index **over** een kalenderjaar) is de bouwkostenstijging. Is in jaar (t) de bouwkostenstijging gelijk aan i %, dan houdt dat in dat de kosten gedurende het jaar stijgen om aan het eind van het kalenderjaar i % hoger te zijn dan aan het begin van dat jaar.
 
 ### Mutatiekans
 
-De correctie bij de waardering is aan de orde als de toegelaten instelling de ingreep om achterstallig onderhoud of onderhoudsgebreken ongedaan te maken, in de meerjarenprognose heeft opgenomen. De contante waarde van de kosten van deze ingreep dienen dan in mindering te worden gebracht op de waarde van de betreffende verhuureenheid. De bedragen zijn inclusief 21% BTW.
+Een voorbeeld:
 
 ### 5.2.6. Bevriezing liberalisatiegrens
 
-De hoogte van de beheerkosten is afhankelijk van het type verhuureenheid. De bedragen voor de beheerkosten zijn ontleend aan waarderingsgegevens van de toegelaten instellingen die op marktwaarde hebben gewaardeerd, en zijn weergegeven in onderstaande tabel. De bedragen zijn per verhuureenheid, per jaar, inclusief 21% BTW.
+Meer vanuit theoretische perspectief geldt dat de medio kasstroom in dit voorbeeld gelijk is aan € 800 * (1,02)0,5.. Dat levert nagenoeg hetzelfde resultaat als de hierboven geschetste benadering maar vraagt bij per jaar variërende indexen om een iets complexer uitwerking. Stel in hetzelfde voorbeeld dat de index in het eerste jaar 2,0% en in het tweede jaar 3,0% is, dan is dit de uitwerking
 
 ### 5.2.7. Huurderving oninbaar
 
-Toegelaten instellingen kunnen voor de gemeentelijke OZB gebruik maken van de door COELO gepubliceerde gemeentelijke tarieven 20158http://www.coelo.nl/index.php/wat-betaal-ik-waar/digitale-gemeente-atlas-2015. De gemeentelijke OZB wordt als een percentage van de WOZ-waarde weergegeven.
+Medio jaar indexeren volgens één van de bovenbeschreven methoden is voor het verslagjaar 2016 een handreiking. Voor het verslagjaar 2017 is deze methode voorgeschreven.
 
 ### 5.2.8. Mutatiekans
 
 Op grond van de huidige wet dient de verhuurderheffing voor de volledige DCF-periode te worden opgenomen. De heffing wordt berekend als een percentage van de WOZ-waarde. In 2015 betreft het de WOZ-beschikking op de waardepeildatum 1 januari 2014. De WOZ-waarde wordt jaarlijks geïndexeerd met de leegwaardestijging.
 
-De heffing wordt alleen opgenomen voor zelfstandige woongelegenheden met een huur die aan het begin van het kalenderjaar onder de liberalisatiegrens ligt. Indien de huur gedurende de DCF-periode door mutatie of jaarlijkse huurverhoging aan de zittende bewoner boven de liberalisatiegrens uitkomt, dan wordt geen heffing meer ingerekend. De geldende tarieven zijn opgenomen in de onderstaande tabel.
+Het modelmatig benaderen van het muteren en uitponden van woningen toont de lastigheid bij het waarderen van vastgoed. Hoe voorspelt men immers welke woningen op welk tijdstip er muteren en weer te verhuren of uit te ponden zijn? Er zijn grofweg twee manieren waarop met mutatie en uitponden kan worden omgegaan, te weten per gehele woning of per fractionele woning.
 
-Voor zowel de mutatiekans bij doorexploiteren, als de mutatiekans bij uitponden wordt een minimale mutatiekans van 2% gehanteerd voor alle typen verhuureenheden. Voor de maximale mutatiekans wordt een uitsplitsing naar type verhuureenheid gemaakt: EGW, MGW en zorgeenheid (extramuraal) kennen een maximale mutatiegraad van 50%. Studenteneenheden kennen een maximale mutatiegraad van 100%. Indien een mutatiegraad in een complex boven de maximale mutatiegraad komt te liggen, dan geldt dat de mutatiegraad gelijk wordt gesteld aan het maximum.
+In de niet-fractionele benadering vindt mutatie of uitponden pas plaats voor een hele woning. Stel er is een complex van 50 woningen, de mutatiegraad is 5% per jaar, dan worden in deze berekeningswijze in het eerste jaar 2 woningen uitgepond omdat 5% van 50 een uitkomst van 2 hele en één halve woning geeft. De resterende halve woning wordt dan meegenomen naar het volgend kalenderjaar.
 
 ### 5.2.9. Splitsingskosten
 
-De jaarlijkse boveninflatoire huurverhoging, geldt alleen voor de contracthuur van gereguleerde zelfstandige verhuureenheden. De hoogte van de opslag boven de prijsinflatie is afhankelijk van overheidsbeleid dat kan wijzigen, en de verwachtingen daarover in de markt. De verwachting in de markt is dat in samenhang met het huursombeleid, de komende jaren de boveninflatoire huurverhoging beperkt zal zijn. Er wordt om die reden voor een korte periode met een beperkte opslag van 0,5% gerekend. Hierbij is verondersteld dat door de kopende belegger de mogelijkheden die het rijksbeleid biedt, worden benut. Bij het toepassen van de boveninflatoire huurverhoging geldt de randvoorwaarde dat de huur niet boven de markthuur of de maximale huur uitkomt.
+De andere benadering is een fractionele benadering. Hierbij wordt de modelmatige fictie gehanteerd dat ook één woning fractioneel kan worden uitgepond of kan muteren. Bij één woning en een mutatiegraad van 5% is dan deze woning begin van het eerste jaar 100% in exploitatie en eind van het jaar voor 95%. Bij doorexploiteren geldt voor deze woning de eerste helft van het jaar 100% van de contracthuurhuur primo. In de tweede helft geldt voor 95% de geïndexeerde contracthuur en voor 5% de huur na mutatie. In het uitpondscenario wordt in dit voorbeeld 5% van de woning uitgepond en zijn de bruto inkomsten gelijk aan 5% van de verkoopopbrengst op basis van de leegwaarde medio dat jaar.
 
-In het doorexploiteerscenario gaat de huur van woongelegenheden bij mutatie naar de markthuur of de maximale huur, afhankelijk of de woongelegenheid bij mutatie is te liberaliseren. Hierbij is het volgende het geval:
+De twee methoden leveren vooral bij kleine complexen verschillen op, vooral in de waarde in het uitpondscenario. Omdat in het merendeel van de gevallen de waarde in het uitpondscenario hoger is dan die in het doorexploiteerscenario, spelen die verschillen een rol in de waardebepaling.
 
-De verkoopkosten zijn de kosten die worden gemaakt voor de verkoop van de verhuureenheden in het uitpondscenario. Onder deze kosten vallen makelaarskosten en, indien aanwezig, eventuele andere handelingskosten. Onderhoudskosten die worden gemaakt om een woning gereed te maken voor verkoop en de overdrachtsbelasting, vallen niet onder de verkoopkosten. De hoogte van het percentage is ontleend aan de waarderingsgegevens van toegelaten instellingen. Het in de tabel weergegeven percentage is alleen van toepassing op de peildatum 31 december 2015. Het bedrag ultimo 2015 wordt aangepast conform de bijbehorende bouwkostenontwikkeling en is inclusief 21% BTW.
+De fractionele benadering leidt tot een meer aannemelijke waarde, met name bij kleine complexen (van minder dan circa 20 vhe). De beschreven methode is voor het verslagjaar 2016 een handreiking. Voor het verslagjaar 2017 is deze methode voorgeschreven.
 
 Voor de waardering is ook de te verwachten bevriezing van de liberalisatiegrens van belang. De bevriezing van de liberalisatiegrens geldt voor de jaren 2016, 2017 en 2018. Hierdoor is het mogelijk dat de huur eerder de liberalisatiegrens overschrijdt. Als deze overschrijding plaats vindt, is daaropvolgende jaar geen verhuurderheffing meer verschuldigd.
 
-Voor zowel de mutatiekans bij doorexploiteren, als de mutatiekans bij uitponden wordt een minimale mutatiekans van 2% gehanteerd voor alle typen verhuureenheden. Voor de maximale mutatiekans wordt een uitsplitsing naar type verhuureenheid gemaakt: EGW, MGW en zorgeenheid (extramuraal) kennen een maximale mutatiegraad van 50%. Studenteneenheden kennen een maximale mutatiegraad van 100%. Indien een mutatiegraad in een complex boven de maximale mutatiegraad komt te liggen, dan geldt dat de mutatiegraad gelijk wordt gesteld aan het maximum.
+Naast het onderscheid fractioneel of niet-fractioneel uitponden is het onderscheid lineair versus exponentieel uitponden en muteren van belang. Stel een complex heeft 100 eenheden en de mutatiekans is 5%. Dat impliceert dat in het eerste kalenderjaar 5 eenheden worden uitgepond of muteren.
 
-Onder huurderving oninbaar valt de huur die door wanbetaling, tijdelijke leegstand of anderszins niet is te incasseren. Structurele leegstand wordt hierin niet opgenomen. De huurderving wordt opgenomen als een vast percentage van 1,0% over de huursom voor de gehele DCF-periode. Dit percentage is ontleend aan de waarderingsgegevens van toegelaten instellingen.
+Bij de lineaire benadering wordt er vanuit gegaan dat ook gedurende de resterende beschouwingsperiode 5 eenheden per jaar uitgepond of gemuteerd worden eventueel met een vermindering van dit aantal vanaf bijvoorbeeld het 6e jaar. Deze benadering impliceert dat de mutatiekans toeneemt. Na tien jaar is de mutatiekans 10%: 5 muterende woningen op 50 resterende woningen.
 
-Splitsingskosten zijn de kosten die moeten worden gemaakt om een complex dat nu als een geheel staat geregistreerd in het Kadaster te splitsen. Hierdoor kan het complex vervolgens per verhuureenheid worden verkocht. De splitsingskosten worden verdeeld in juridische en technische splitsingskosten.
+Bij de exponentiële benadering blijft de mutatiekans gelijk en wordt deze toegepast op de nog in exploitatie zijnde eenheden. In het voorbeeld zijn aan het begin van het tweede jaar nog 95 eenheden in exploitatie. De mutatiekans van 5% wordt toegepast op dit aantal wat betekent dat in het tweede jaar 95 * 5% = 4,75 eenheden muteren. Bij de exponentiele benadering blijft de mutatiekans gelijk.
 
-Bij de hoogte van de mutatiekans wordt onderscheid gemaakt tussen de mutatiekans in het doorexploiteerscenario en in het uitpondscenario.
+Vanzelfsprekend geldt in het doorexploiteerscenario dat de mutatiegraad in alle jaren van toepassing is op alle eenheden. Alle eenheden blijven in dit scenario immers in exploitatie. Wel dient rekening gehouden te worden met feit dat op een zeker moment een deel van de huren als gevolg van eerdere mutaties al geharmoniseerd is, dat wil zeggen aangepast aan de markthuur.
 
-Voor zowel de mutatiekans bij doorexploiteren, als de mutatiekans bij uitponden wordt een minimale mutatiekans van 2% gehanteerd voor alle typen verhuureenheden. Voor de maximale mutatiekans wordt een uitsplitsing naar type verhuureenheid gemaakt: EGW, MGW en zorgeenheid (extramuraal) kennen een maximale mutatiegraad van 50%. Studenteneenheden kennen een maximale mutatiegraad van 100%. Indien een mutatiegraad in een complex boven de maximale mutatiegraad komt te liggen, dan geldt dat de mutatiegraad gelijk wordt gesteld aan het maximum.
+Over verslag 2016 wordt aanbevolen de exponentiële benadering te gebruiken. Vanaf verslagjaar 2017 is de exponentiële benadering voorgeschreven.
 
-### 5.2.9. Splitsingskosten
+### 3.4.5. Verdere toelichting rekenwijze
 
-Splitsingskosten zijn de kosten die moeten worden gemaakt om een complex dat nu als een geheel staat geregistreerd in het Kadaster te splitsen. Hierdoor kan het complex vervolgens per verhuureenheid worden verkocht. De splitsingskosten worden verdeeld in juridische en technische splitsingskosten.
+In de tekst van dit handboek zijn op verschillende plaatsen toelichtingen opgenomen voor de rekenkundige uitwerki.
 
 In de modelmatige bepaling van de marktwaarde worden geen technische splitsingskosten opgenomen. Als de corporatie dat nodig acht, kunnen de technische splitsingskosten via de full versie als afzonderlijke vrijheidsgraad worden meegenomen. In dat geval is tussenkomst van een externe taxateur vereist met een nadere toelichting.
 
+Om te komen tot een marktwaardewaardering van het vastgoed, wordt het gehele bezit, dat wil zeggen alle verhuureenheden van de toegelaten instelling, opgedeeld in waarderingscomplexen. Een waarderingscomplex is een samenstel van verhuureenheden, dat in principe bestaat uit vergelijkbare verhuureenheden voor wat betreft type vastgoed, bouwperiode en locatie, en dat als één geheel aan een derde partij in verhuurde staat kan worden verkocht. Alle verhuureenheden van de toegelaten instelling maken deel uit van een waarderingscomplex of zijn een afzonderlijk waarderingscomplex.
+
+Er bestaat geen minimum voor het aantal verhuureenheden in een waarderingscomplex. Dit betekent dus dat een waarderingscomplex ook uit één verhuureenheid kan bestaan. Eveneens geldt dat geen maximum aantal verhuureenheden in een waarderingscomplex wordt voorgeschreven.
+
+Het kan voorkomen dat een waarderingscomplex bestaat uit DAEB en niet-DAEB vastgoed. In dat geval dient, nadat de waarde van het waarderingscomplex is bepaald, de waarde opgesplitst te worden in een deel dat aan het DAEB vastgoed, resp. aan het niet-DAEB deel kan worden toegerekend.
+
+Let op: Als bijvoorbeeld meerdere studentenwoningen of (extramurale) zorgeenheden in één contract zijn verhuurd aan een derde partij, dan gedraagt dit complex zich op basis van het contract als een BOG-MOG-ZOG complex en dient het complex conform die uitgangspunten gewaardeerd te worden.
+
 Als de erfpacht niet is afgekocht en als sprake is van een jaarlijkse canon, zonder dat bij verkoop aan een belegger of vervolgens bij uitponden aan een particulier een afkoopsom is verschuldigd, is de betreffende canon een doorlopende kasstroom die onderdeel vormt van de DCF-berekening. Afhankelijk van de erfpachtovereenkomst, dient deze canon wel of niet te worden geïndexeerd. Loopt het contract niet voor nog minimaal 15 jaar door, dan wordt een inschatting gemaakt van de canon bij ingang van het nieuwe contract. Door de complexiteit van deze methodiek, is in dat geval maatwerk vereist, dat via de full versie mogelijk is.
 
-De verkoopkosten zijn de kosten die worden gemaakt voor de verkoop van de verhuureenheden in het uitpondscenario. Onder deze kosten vallen makelaarskosten en, indien aanwezig, eventuele andere handelingskosten. Onderhoudskosten die worden gemaakt om een woning gereed te maken voor verkoop en de overdrachtsbelasting, vallen niet onder de verkoopkosten. De hoogte van het percentage is ontleend aan de waarderingsgegevens van toegelaten instellingen. Het in de tabel weergegeven percentage is alleen van toepassing op de peildatum 31 december 2015. Het bedrag ultimo 2015 wordt aangepast conform de bijbehorende bouwkostenontwikkeling en is inclusief 21% BTW.
+De bepaling van de toekomstige inkomende en uitgaande kasstromen vindt bij alle woongelegenheden en parkeergelegenheden, met uitzondering van onzelfstandige studenteneenheden, plaats aan de hand van twee scenario’s: enerzijds op basis van het doorexploiteerscenario en anderzijds op basis van het uitpondscenario. Bij BOG, MOG en intramuraal vastgoed is alleen het doorexploiteerscenario van toepassing.
 
-De opslagen voor het markt- en objectrisico zijn gecombineerd. Deze gecombineerde opslag is afhankelijk gesteld van drie kenmerken van de verhuureenheden:
+Het doorexploiteerscenario veronderstelt dat verhuureenheden worden doorverhuurd. Daarbij wordt verondersteld dat elk jaar bij een deel van de verhuureenheden, de huurder verhuist. Bij de leegkomende verhuureenheden wordt de eenheid opnieuw verhuurd en wordt de huur na mutatie opgetrokken naar de potentiële huur, die bepaald is op basis van de markthuur met als maximum de maximale huur op basis van het woningwaarderingstelsel. Aan het einde van de 15-jarige DCF-periode wordt een eindwaarde opgenomen. De kasstromen en de eindwaarde worden vervolgens contant gemaakt naar het heden en opgeteld om tot een waarde in het doorexploiteerscenario te komen.
 
-Erfpacht beïnvloedt de waarde van de verhuureenheid. Het effect van de erfpacht op de waarde vloeit voort uit de consequenties die de erfpacht voor de koper heeft. Er zijn in Nederland verschillende vormen van erfpacht. In deze paragraaf worden alleen enkele hoofdlijnen beschreven. Als de consequenties van de erfpacht voor de waardering te veel afwijken van deze hoofdlijnen, is maatwerk nodig dat op basis van de full versie mogelijk is.
-
-Als de erfpacht niet is afgekocht en als sprake is van een jaarlijkse canon, zonder dat bij verkoop aan een belegger of vervolgens bij uitponden aan een particulier een afkoopsom is verschuldigd, is de betreffende canon een doorlopende kasstroom die onderdeel vormt van de DCF-berekening. Afhankelijk van de erfpachtovereenkomst, dient deze canon wel of niet te worden geïndexeerd. Loopt het contract niet voor nog minimaal 15 jaar door, dan wordt een inschatting gemaakt van de canon bij ingang van het nieuwe contract. Door de complexiteit van deze methodiek, is in dat geval maatwerk vereist, dat via de full versie mogelijk is.
-
-In sommige gevallen zal sprake zijn van een afkoopsom omdat bij verkoop aan een belegger, sprake is van een bestemmingswijziging van sector van toegelaten instellingen naar beleggersector. Deze afkoopsom dient dan in de DCF-berekening meegenomen te worden.
-
-De vastgoed sectorspecifieke opslag is een vastgoedsector gebonden risico-opslag, welke dient ter compensatie voor het extra risico dat wordt gelopen voor het investeren in vastgoed, ten opzichte van de risicovrije rente. Het percentage voor de vastgoedsector specifieke opslag is ontleend aan waarderingsgegevens van toegelaten instellingen.
-
-De disconteringsvoet is de marktconforme rendementseis waartegen de verwachte toekomstige inkomsten en uitgaven contant worden gemaakt. In de basisversie wordt geen onderscheid gemaakt tussen de hoogte van de disconteringsvoet in het doorexploiteer- en uitpondscenario. Met het herstel van de koopwoningmarkt, zijn nu onvoldoende redenen om aan te nemen dat de te verwachten kasstromen in het doorexploiteer- en uitpondscenario een andere risicoprofiel kennen.
+In het uitpondscenario wordt verondersteld dat verhuureenheden bij mutatie leeg worden verkocht. In tegenstelling tot het doorexploiteerscenario wordt de huur voor deze verhuureenheden niet opgetrokken, maar wordt daarvoor in de plaats een verkoopkasstroom en verkoopkosten opgenomen.
 
 ### Overdrachtskosten
 
-De hoogte van de risicovrije rentevoet wordt bepaald aan de hand van het 24-maands historisch gemiddelde van de 10-jaar EURO Interest Rate Swap (IRS). Doordat gebruik wordt gemaakt van het 24-maands gemiddelde, worden incidentele pieken van de rente op de peildatum van de waardering voorkomen.
+Zoals niet-zelfstandige studentenwoningen in de basisversie een uitzondering op het hanteren van zowel een doorexploiteer- als een uitpondscenario. Deze kunnen en zullen in de praktijk niet één voor één uitgepond worden en voor deze eenheden geldt daarom in de basisversie uitsluitend het doorexploiteerscenario. In de full versie kan het uitpondscenario wel worden toegepast. De waarde op basis van het doorexploiteerscenario, respectievelijk het uitpondscenario is de som van de waarde van alle verhuureenheden in het waarderingscomplex. Nadat de waarden op basis van beide scenario’s zijn bepaald, leidt de hoogste waarde van de twee scenario’s uiteindelijk tot de marktwaarde van het waarderingscomplex.
 
 ### Overige punten
 
@@ -848,11 +848,11 @@ De hoogte van de risicovrije rentevoet wordt bepaald aan de hand van het 24-maan
 
 Bij de schatting van de hoogte van de opslag voor het markt- en objectrisico is gebruik gemaakt van een referentieobject. De keuze voor het referentieobject heeft geen invloed op de hoogte van de disconteringsvoet van de andere verhuureenheden. De schatting van deze opslag is gebaseerd op waarderingsgegevens van toegelaten instellingen, die op marktwaarde hebben gewaardeerd. Vervolgens is de disconteringsvoet geactualiseerd op basis van de marktontwikkelingen in 2015. Deze actualisatie heeft geleid tot een daling van de discontovoet met 0,3%-punt.
 
-De totale disconteringsvoet voor het referentie-object bedraagt 7,36%. Aangezien de risicovrije rentevoet en de vastgoedsector specifieke opslag samen op 6,66% uitkomen, kan afgeleid worden dat bij het referentieobject de opslag voor het markt- en objectrisico 0,70% bedraagt.
+Om de te verwachten kasstromen in de DCF-berekening te bepalen, wordt gebruik gemaakt van macro- economische parameters. Het gaat hierbij om de prijsinflatie, de loonstijging, de bouwkostenstijging en de leegwaardestijging. De parameters worden hierna weergegeven.
 
-### Objectgegevens
+### 4.1. Prijsinflatie
 
-Desgewenst kan ervoor worden gekozen om bij de bepaling van de eindwaarde aan het einde van het 15e jaar, naast het verder doorexploiteren, ook de mogelijkheid van uitponden vanaf het 16e jaar te betrekken. Dit is geen verplichting, maar iets waarvoor de corporatie zelf kan kiezen. In dat geval wordt binnen het doorexploiteerscenario vanaf het 16e jaar verondersteld dat het waarderingscomplex alsnog uitgepond wordt met ook een voortdurende looptijd totdat alle woongelegenheden van het complex zijn verkocht. Verkoop vindt plaats bij mutatie en de netto verkoopopbrengsten maken deel uit van de kasstromen. De hoogte en het verloop van de mutatiegraad is gelijk aan die bij het uitpondscenario. De kasstromen van de dan nog verhuurde woongelegenheden verlopen zoals in het doorexploiteerscenario, inclusief de verhuurderheffing voor zover van toepassing, en de opslag voor veroudering. De eindwaarde op het eind van het 15e jaar is dan weer gelijk aan al deze kasstromen contant gemaakt met de gehanteerde disconteringsvoet. Indien deze benadering ook wordt gevolgd, is de eindwaarde gelijk aan de hoogste van de tweede berekende eindwaarden. Het is aan de toegelaten instelling om ervoor te kiezen deze benadering in het doorexploiteerscenario te betrekken bij het bepalen van de eindwaarde.
+De prijsinflatie wordt als basis gehanteerd voor de jaarlijkse indexering van de volgende posten:
 
 ### 5.2.16. Nadere toetsing
 
@@ -866,71 +866,71 @@ Desgewenst kan ervoor worden gekozen om bij de bepaling van de eindwaarde aan he
 
 Bij studenteneenheden en extramurale zorgeenheden wordt verondersteld dat deze zich in complexen bevinden die niet worden uitgepond. Dit impliceert dat voor deze verhuureenheden alleen het doorexploiteerscenario van toepassing is.
 
-Tot slot zijn de overdrachtskosten van belang. De overdrachtskosten zijn de overdrachtsbelasting en de overige kosten, bestaande uit de notaris- en de registratiekosten bij de verkoop van het waarderingscomplex in verhuurde staat. De overdrachtskosten worden weergegeven als een percentage van de berekende waarde van een verhuureenheid.
+De leegwaardestijging vormt de basis voor de stijging van de verkoopopbrengst in het uitpondscenario. Omdat er regionale verschillen zijn, is de leegwaardestijging voor elke provincie en voor de vier grote steden afzonderlijk weergegeven. Over 2015 en 2016 gaat het daarbij om de gerealiseerde stijgingen op basis van gegevens van de Prijsindex Bestaande Koopwoningen (PBK) van het Kadaster. Vanaf 2017 is verondersteld dat de leegwaardestijging in 3 jaar geleidelijk uitkomt op 2,0%. Dit sluit aan bij de lange termijn verwachting dat de leegwaardestijging trendmatig gelijk is aan de veronderstelde prijsinflatie. Hoewel de recente prijsstijging in de meeste regio’s boven de trend ligt, is het niet zeker dat deze prijsstijgingen zich door zullen zetten. Daarom is vanaf 2019 gekozen voor een trendmatige, veilige benadering.
 
-### 5.2.15. Overige punten
+### 5. WOONGELEGENHEDEN
 
-Indien op het waarderingscomplex of een deel daarvan, op de waardepeildatum 31 december 2015 een ook voor een derde, onherroepelijke verplichting tot sloop van toepassing is, dient hier bij de waardering rekening mee te worden gehouden.
+Dit hoofdstuk behandelt de te hanteren gegevens en uitgangspunten voor de waardering van woongelegenheden. Het is belangrijk om onderscheid te maken tussen **objectgegevens**en **modelparameters**.
 
 ### 6.2.1. Markthuren
 
-Voor het bepalen van de marktwaarde in verhuurde staat van BOG en MOG, wordt ten opzichte van de waardering van woongelegenheden een aangepast rekenmodel gebruikt. Een belangrijk verschil met het model voor de woongelegenheden is dat voor BOG en MOG alleen wordt gewerkt met een doorexploiteerscenario en dat er geen sprake is van een uitpondscenario.
+De modelparameters zijn die gegevens die noodzakelijk zijn voor de berekening van de marktwaarde en waarover dit handboek uitsluitsel geeft.
 
 De modelmatige bepaalde marktwaarde van een complex ligt ten opzichte van de geïndexeerde WOZ-waarde over het algemeen binnen een bandbreedte van 50 en 125%. Indien dit niet het geval is, is een nadere beoordeling van de gebruikte objectgegevens nodig om te bezien of deze juist zijn. Indien de gebruikte objectgegevens juist blijken te zijn, behoeft de marktwaarde niet te worden aangepast.
 
-De volgende tabel bevat een overzicht van de specifieke objectgegevens voor BOG en MOG van de toegelaten instelling.
+De onderstaande tabel bevat een overzicht van de specifieke objectgegevens voor woongelegenheden van de toegelaten instelling. Hierbij is onderscheid gemaakt tussen gegevens die betrekking hebben op het waarderingscomplex en op de afzonderlijke verhuureenheden.
 
 ### 6.2. Modelparameters
 
-Voor het bepalen van de marktwaarde in verhuurde staat van BOG en MOG, wordt ten opzichte van de waardering van woongelegenheden een aangepast rekenmodel gebruikt. Een belangrijk verschil met het model voor de woongelegenheden is dat voor BOG en MOG alleen wordt gewerkt met een doorexploiteerscenario en dat er geen sprake is van een uitpondscenario.
+Verder geldt dat gelabelde studenteneenheden die bestaan uit meerkamerwoningen die niet onzelfstandig worden verhuurd, via het model van MGW danwel EGW dienen te worden getaxeerd. Het betreft hier immers een EGW of MGW met één huurcontract.
 
 De jaarlijkse stijging van de markthuur en de contracthuur is gelijk aan de prijsinflatie van het voorafgaande jaar.
 
-De volgende tabel bevat een overzicht van de specifieke objectgegevens voor BOG en MOG van de toegelaten instelling.
+Met de modelparameters vindt de modelmatige waardering van de verhuureenheden in de waarderingscomplexen plaats, waarbij gebruik wordt gemaakt van de hierboven aangegeven objectgegevens. Het betreft hier de modelparameters voor de basisversie. In hoofdstuk 9 worden de vrijheidsgraden beschreven waar in de full versie gebruik van kan worden gemaakt om af te wijken van de basisversie.
 
 De exploitatiekosten bestaan uit de onderhoudskosten, onderscheiden naar instandhoudings-onderhoud, achterstallig onderhoud en mutatieonderhoud. Verder zijn er kosten voor beheer, belastingen, verzekeringen en overige zakelijke lasten. Deze kostensoorten worden hierna nader toegelicht.
 
-Met de modelparameters vindt de modelmatige waardering plaats, uitgaande van de objectgegevens, die in het voorafgaande zijn beschreven. Het betreft hier de modelparameters voor de basisversie. Verderop zullen de afwijkingen worden beschreven die mogelijk zijn op de modelparameters in de full versie.
+De leegwaarde is de geschatte verkoopprijs op basis van de kosten koper, vrij van huur en overige lasten. De leegwaarde wordt als opbrengst in het uitpondscenario opgenomen, zodra de mogelijkheid tot de verkoop van een verhuureenheid zich voordoet.
 
 ### 6.2.1. Markthuren
 
-De markthuur is de huurprijs per maand die, uitgaande van optimale marketing en verhuur, kan worden gerealiseerd op peildatum 31 december 2015. Daarbij geldt dat de markthuur in het doorexploiteerscenario wordt gebruikt voor het bepalen van de nieuwe huur nadat een verhuurcontract is beëindigd. De markthuur wordt door de toegelaten instelling per jaar in m2 vvo van het contract als objectgegeven opgegeven.
+De geïndexeerde WOZ-waarde vormt de grondslag van de verhuurderheffing en de OZB. Beide heffingen worden in een kalenderjaar bepaald op basis van de WOZ-beschikking van dat jaar. In die beschikking is de WOZ-waarde opgenomen primo het jaar voorafgaand aan het beschikkingsjaar.
 
-De jaarlijkse stijging van de markthuur en de contracthuur is gelijk aan de prijsinflatie van het voorafgaande jaar.
+Voorbeeld:
 
 ### 6.2.3. Exploitatiekosten
 
-Bij verlenging van het huidige contract geldt dat op basis van de herzieningshuur, de nieuwe huur wordt opgenomen.
+Stel: u wil de verhuurderheffing berekenen in het jaar 2019. De grondslag daarvoor is de peildatum primo 2018. U beschikt over een WOZ-beschikking van 2016 waarin een waarde van € 100.000 staat vermeld met de peildatum primo 2015. Om de gewenste grondslag primo 2018 te bepalen moet u dus de WOZ-waarde uit de beschikking 2016 (peildatum primo 2015) indexeren met de index over 2015, 2016 en over 2017 om zo de waarde primo 2018 te bepalen. Stel dat de index 2015 gelijk is aan 2%, de index 2016 gelijk is aan 3%, en de index 2017 gelijk aan 4%, dan is de grondslag gelijk aan € 100.000 * (1 + 2%) * (1 + 3%) * (1 + 4%) = € 109.262.
 
-Indien aan het einde van het huurcontract wordt verwacht dat opzegging zal plaatsvinden, wordt er van uitgegaan dat een nieuw marktconform huurcontract kan worden afgesloten. Op dat moment wordt een nieuwe huur opgenomen op basis van de markthuur. Er wordt dan ook rekening gehouden met een periode van leegstand en met mutatiekosten.
+Rekenkundige uitwerking leegwaarde en verkoopopbrengsten in uitpondscenario:
 
 ### Belastingen en verzekeringen
 
-Er wordt geen onderscheid gemaakt tussen BOG en MOG.
+Voorbeeld:
 
 ### Erfpacht
 
-Het instandhoudingsonderhoud is het onderhoud dat gedurende de 15-jarige DCF-periode nodig is om het verhuurde in dezelfde technische en bouwkundige staat te houden, als waarin het zich op het moment van waarderen bevindt. Het gaat hierbij niet om investeringen die leiden tot een verbetering van de kwaliteit van het verhuurcontract. Het instandhoudingsonderhoud leidt ook niet tot een hogere huur.
+De leegwaarde is in de basis versie ook de grondslag voor de markthuur die gedefinieerd is als een percentage van de leegwaarde. De markthuur wordt bepaald op basis van dat percentage en de leegwaarde op 31 december 2016. De leegwaarde als grondslag voor de markthuur is dus primo kalenderjaar.
 
-De bedragen voor het instandhoudingsonderhoud zijn ontleend aan waarderingsgegevens van de toegelaten instellingen, die op marktwaarde hebben gewaardeerd, en zijn weergegeven in onderstaande tabel. De bedragen zijn per m2 bvo, inclusief 21% BTW.
+Voorbeeld:
 
-Er wordt geen onderscheid gemaakt tussen BOG en MOG.
+Stel u beschikt over een WOZ-beschikking 2017. Daarin staat de WOZ-waarde met peildatum 1 januari 2016. Stel de waarde in de beschikking is € 100.000. Om de basis voor de markthuur te bepalen dient u de leegwaarde ultimo 2016, of wel primo 2017, te bepalen door de index leegwaarde in 2016 toe te passen. Als die index gelijk is aan 3% dan is de leegwaarde primo 2017 gelijk aan € 103.000.
 
-### Disconteringsvoet
+### 5.2.2. Markthuur van woningen
 
-Onder de technische mutatiekosten worden de kosten verstaan die de verhuurder in het kader van de beëindiging van de huurovereenkomst met de zittende huurder moet maken om het verhuurcontract tegen het geldende marktwaardeniveau opnieuw te kunnen afsluiten.
+De markthuur is de (kale) huurprijs per maand van een verhuureenheid die, uitgaande van optimale marketing en verhuur, kan worden gerealiseerd op de waardepeildatum 31 december 2016. In het doorexploiteerscenario wordt de markthuur gebruikt voor het bepalen van de nieuwe huur nadat een woning is gemuteerd. In het uitpondscenario speelt de markthuur een rol als er sprake is van juridische beklemmingen. Door deze beklemmingen kan het voorkomen dat slechts een deel van de verhuureenheden in een complex mag worden verkocht. Indien dit deel is bereikt, mag vanaf dat moment niet meer worden verkocht in het uitpondscenario, maar zal bij mutatie sprake zijn van wederverhuur. In dat geval is de markthuur van belang bij het bepalen van de nieuwe huur na mutatie. Voorts dient bij leegstand ook de markthuur genomen te worden, in plaats van de contracthuur.
 
-Onder de kosten voor marketing worden de kosten verstaan die de verhuurder in het kader van de marketing moet maken om opnieuw een verhuurcontract af te sluiten. Het gaat daarbij om de kosten die de eigen organisatie van de verhuurder zal moeten maken en daarnaast om de kosten van de makelaar die de verhuurder zal inschakelen.
+Op basis van gegevens van de Nederlandse Vereniging van Makelaars (NVM) over de gerealiseerde markthuren van woningen per maand over de periode januari 2014 tot en met juni 2016 is de markthuur in procenten van de leegwaarde geschat op waardepeildatum 31 december 2016. De hoogte van de markthuur is daarbij afhankelijk van de volgende woningkenmerken:
 
-De technische mutatiekosten en de kosten voor marketing worden alleen in rekening gebracht wanneer er sprake is van opzegging, en niet bij verlenging van de huurovereenkomst.
+Bij de schatting is gebruik gemaakt van een referentiewoning. De keuze voor de referentiewoning heeft geen invloed op de hoogte van de markthuur van de andere woningen. Onderstaande tabel geeft de kenmerken van de referentiewoning weer.
 
-Er wordt geen onderscheid gemaakt tussen BOG en MOG.
+¹ COROP-gebieden zoals door het CBS gedefinieerd.
 
-Achterstallig onderhoud of onderhoudsgebreken moeten worden betrokken bij de waardering van de verhuureenheden. Het gaat dan met name om achterstallig onderhoud en onderhoudsgebreken voor zover deze niet, of niet volledig, zijn meegenomen bij de hoogte van de WOZ-waarde. Onder meer kan dit betrekking hebben op funderingsproblemen en asbest dat moet worden verwijderd. Het gaat hierbij dus niet om instandhoudingsonderhoud, dat bedoeld is om een eenheid in eenzelfde technische en bouwkundige staat te houden.
+De markthuur voor deze referentiewoning bedraagt op jaarbasis 6,03% van de leegwaarde.
 
-De correctie bij de waardering is aan de orde als de toegelaten instelling de ingreep om achterstallig onderhoud of onderhoudsgebreken ongedaan te maken, in de meerjarenprognose heeft opgenomen. De contante waarde van de kosten van deze ingreep dienen dan in mindering te worden gebracht op de waarde van de betreffende verhuureenheid. De bedragen zijn inclusief 21% BTW.
+Onderstaande tabellen geven de afzonderlijke effecten op het markthuurpercentage weer van elk van de onderscheiden kenmerken. Om te komen tot de markthuur van de overige woningen, anders dan de referentiewoning, worden de afzonderlijke effecten opgeteld bij of afgetrokken van het markthuurpercentage van de referentiewoning. Daarbij wordt een bovengrens van het markthuurpercentage van 10% en een ondergrens van 3,25% gehanteerd.
 
-Beheerkosten zijn de kosten die worden gemaakt voor het beheer van het verhuurde. Het gaat hierbij om de kosten gemaakt voor de verhuur en marketing. De niet-object gebonden kosten, maatschappelijke beheerkosten, taxatiekosten en accountantskosten worden niet gerekend tot de beheerkosten.
+Het bepaalde markthuurpercentage is alleen van toepassing op peildatum 31 december 2016. De markthuur in de jaren daarna wordt berekend door de markthuur medio 2016 aan te passen met de prijsinflatie.
 
 De hoogte van de beheerkosten is afhankelijk van het type contract en de daaruit volgende markthuur. De bedragen voor de beheerkosten zijn ontleend aan de waarderingsgegevens van toegelaten instellingen, die op marktwaarde hebben gewaardeerd, en zijn weergegeven in onderstaande tabel. De bedragen per jaar, inclusief 21% BTW.
 
@@ -938,65 +938,65 @@ De hoogte van de beheerkosten is afhankelijk van het type contract en de daaruit
 
 Toegelaten instellingen kunnen voor de gemeentelijke OZB gebruik maken van de door COELO gepubliceerde gemeentelijke tarieven 201511http://www.coelo.nl/index.php/wat-betaal-ik-waar/digitale-gemeente-atlas-2015. De gemeentelijke OZB wordt in percentages opgegeven.
 
-Voor de rioolheffing, de verontreinigingsheffing, de waterschapsbelasting en verzekeringen, is een gemiddeld percentage per verhuureenheid opgenomen. De percentages, waarop dit gemiddelde is gebaseerd, zijn ontleend aan de waarderingsgegevens van de toegelaten instellingen en weergegeven in onderstaande tabel. Het percentage heeft initieel betrekking op de WOZ-waarde met peildatum 1 januari 2014. Tijdens de 15-jarige DCF-periode wordt het initieel, op basis van de WOZ-waarde tot stand gekomen bedrag, geïndexeerd met de prijsinflatie. Inclusief 21% BTW.
+De exploitatiekosten bestaan uit de onderhoudskosten, onderscheiden naar instandhoudings- onderhoud, en mutatieonderhoud. Daarnaast vallen ook de beheerkosten, belastingen verzekeringen, overige zakelijke lasten en verhuurderheffing onder de exploitatiekosten.
 
-De totale disconteringsvoet voor het referentie-object bedraagt 9,34%. Aangezien de risicovrije rentevoet en de vastgoedsector specifieke opslag samen op 6,66% uitkomen, kan afgeleid worden dat bij het referentieobject de opslag voor het markt- en objectrisico 2,68% bedraagt.
+Het uitvoeren van achterstallig onderhoud valt strikt genomen niet onder exploitatiekosten maar wordt hierna, tezamen met de overige kostensoorten, nader toegelicht.
 
 Erfpacht beïnvloedt de waarde van het verhuurde. Het effect van de erfpacht op de waarde vloeit voort uit de consequenties die de erfpacht voor de koper heeft. Er zijn in Nederland verschillende vormen van erfpacht. In deze paragraaf worden alleen enkele hoofdlijnen beschreven. Als de consequenties van de erfpacht voor de waardering te veel afwijken van deze hoofdlijnen, is maatwerk nodig dat op basis van de full versie mogelijk is.
 
-Als de erfpacht niet is afgekocht en als sprake is van een jaarlijkse canon, zonder dat bij verkoop aan een belegger of vervolgens bij uitponden aan een particulier een afkoopsom is verschuldigd, is de betreffende canon een doorlopende kasstroom die onderdeel vormt van de DCF-berekening. Afhankelijk van de erfpachtovereenkomst, dient deze canon wel of niet te worden geïndexeerd. Loopt het contract niet voor nog minimaal 15 jaar door, dan wordt een inschatting gemaakt van de canon bij ingang van het nieuwe contract. Door de complexiteit van deze methodiek, is in dat geval maatwerk vereist, dat via de full versie mogelijk is.
+Het instandhoudingsonderhoud is het onderhoud dat gedurende de 15-jarige DCF-periode nodig is om een verhuurbare eenheid in dezelfde technische en bouwkundige staat te houden, als waarin het zich op de waardepeildatum bevindt. Het gaat hierbij niet om investeringen die leiden tot een verbetering van de kwaliteit van de verhuureenheid. Het instandhoudingsonderhoud leidt ook niet tot een hogere huur.
 
 ### Overdrachtskosten
 
-De opslagen voor het markt- en objectrisico zijn gecombineerd. Deze gecombineerde opslag is afhankelijk gesteld van drie kenmerken van de verhuureenheden:
+De bedragen voor het instandhoudingsonderhoud zijn ontleend aan waarderingsgegevens van de toegelaten instellingen die op marktwaarde hebben gewaardeerd, en zijn weergegeven in onderstaande tabel. De bedragen zijn per jaar, inclusief 21% BTW.
 
-### 6.2.7. Overdrachtskosten
+### 5.2.4.2. Mutatieonderhoud
 
-De hoogte van de risicovrije rentevoet wordt bepaald aan de hand van het 24-maands historisch gemiddelde van de 10-jaar EURO Interest Rate Swap (IRS). Doordat gebruik wordt gemaakt van het 24-maands gemiddelde, worden incidentele pieken van de rente op de peildatum van de waardering voorkomen.
+Mutatieonderhoud doet zich voor bij het vrijkomen van de woning door contractopzegging door de huurder. De hoogte van de kosten voor het mutatieonderhoud is afhankelijk van het type
 
 ### 6.2.8. Overige punten
 
-De opslagen voor het markt- en objectrisico zijn gecombineerd. Deze gecombineerde opslag is afhankelijk gesteld van drie kenmerken van de verhuureenheden:
+Let op: mutatieonderhoud geldt alleen in het geval van wederverhuur (doorexploiteerscenario). In het geval van verkoop (uitpondscenario) wordt mutatieonderhoud niet opgenomen.
 
 Bij de schatting van de hoogte van de opslag voor het markt- en objectrisico is gebruik gemaakt van een referentie-contract. De keuze voor het referentie-contract heeft geen invloed op de hoogte van de disconteringsvoet van de andere verhuurcontracten. De schatting van deze opslag is gebaseerd op waarderingsgegevens van toegelaten instellingen, die op marktwaarde hebben gewaardeerd. De marktontwikkelingen in 2015 geven geen aanleiding tot een aanpassing van de disconteringsvoet.
 
 ### 6.2.9. Nadere toetsing
 
-Om tot de disconteringsvoet van de afzonderlijke verhuurcontracten te komen, wordt gebruik gemaakt van het referentiecontract. De onderstaande tabellen geven daarbij de afzonderlijke effecten weer van elk van de onderscheiden kenmerken. Door per contract na te gaan wat de effecten zijn voor het markt- en objectrisico en deze op te tellen bij de totale disconteringsvoet van het referentiecontract, ontstaat de disconteringsvoet van de overige verhuurcontracten.
+De correctie bij de waardering is in ieder geval aan de orde als de toegelaten instelling de ingreep om achterstallig onderhoud of onderhoudsgebreken ongedaan te maken, in de meerjarenprognose heeft opgenomen. De contante waarde van de kosten van deze ingreep dienen dan in mindering te worden gebracht op de waarde van de betreffende verhuureenheid.
 
-### 6.2.6. Eindwaarde
+### 5.2.4.4. Beheerkosten
 
-De eindwaarde is de marktwaarde van het waarderingscomplex aan het einde van het 15e jaar. Deze waarde is gelijk aan de contante waarde van de verwachte kasstromen die vanaf het 16e exploitatiejaar worden verwacht. Deze eindwaarde wordt vervolgens contant gemaakt met de gehanteerde disconteringsvoet naar de waardepeildatum en is zo onderdeel van de marktwaarde.
+Beheerkosten zijn de kosten die worden gemaakt voor het beheer van de verhuureenheid. Het gaat hierbij om de kosten gemaakt voor de verhuur en marketing van de verhuureenheden. De niet-object gebonden kosten, maatschappelijke beheerkosten, taxatiekosten en accountantskosten worden niet gerekend tot de beheerkosten.
 
 ### 7.1. Objectgegevens
 
 Bij BOG en MOG is alleen sprake van een doorexploiteerscenario.
 
-De overdrachtskosten zijn de overdrachtsbelasting en de overige aankoopkosten bestaande uit notaris- en de registratiekosten bij de verkoop van het waarderingscomplex in verhuurde staat. De overdrachtskosten worden weergegeven als een percentage van de berekende marktwaarde van het verhuurcontract.
+Onder belastingen en overige zakelijke lasten vallen de gemeentelijke OZB, de rioolheffing en de verontreinigingsheffing, als ook de waterschapsbelasting. Deze belastingen en heffingen verschillen per gemeente en waterschap. Daarnaast zijn er kosten voor de verzekeringen.
 
 ### 6.2.8. Overige punten
 
-Indien op het waarderingscomplex of een deel daarvan, op de waardepeildatum 31 december 2015 een ook voor een derde, onherroepelijke verplichting tot sloop van toepassing is, dient hier bij de waardering rekening mee te worden gehouden.
+Voor de rioolheffing, de verontreinigingsheffing, de waterschapsbelasting en verzekeringen, is een gemiddeld percentage per verhuureenheid opgenomen. De percentages, waarop dit gemiddelde is gebaseerd, zijn ontleend aan de waarderingsgegevens van de toegelaten instellingen en weergegeven in onderstaande tabel. Het percentage heeft initieel betrekking op de WOZ-waarde met peildatum 1 januari 2015. Tijdens de 15-jarige DCF-periode wordt het initieel, op basis van de WOZ-waarde tot stand gekomen bedrag, geïndexeerd met de prijsinflatie. Inclusief 21% BTW.
 
 Bij BOG en MOG is alleen sprake van een doorexploiteerscenario.
 
 ### 6.2.9. Nadere toetsing
 
-De modelmatige bepaalde marktwaarde van een complex ligt ten opzichte van de geïndexeerde WOZ-waarde over het algemeen binnen een bandbreedte van 50 en 125%. Indien dit niet het geval is, is een nadere beoordeling van de gebruikte objectgegevens nodig om te bezien of deze juist zijn. Indien de gebruikte objectgegevens juist blijken te zijn, behoeft de marktwaarde niet te worden aangepast.
+De heffing wordt alleen opgenomen voor zelfstandige woongelegenheden met een huur die aan het begin van het kalenderjaar onder de liberalisatiegrens ligt. Indien de huur gedurende de DCF-periode door mutatie of jaarlijkse huurverhoging aan de zittende bewoner boven de liberalisatiegrens uitkomt, dan wordt geen heffing meer ingerekend. De geldende tarieven zijn opgenomen in de onderstaande tabel.
 
 ### 7. Parkeergelegenheden
 
-In dit hoofdstuk worden de te hanteren gegevens en de uitgangspunten voor de waardebepaling van verhuurde parkeerplaatsen en garageboxen uiteengezet. Voor de waardebepaling is het belangrijk om onderscheid te maken tussen de **objectgegevens** en de **modelparameters** De objectgegevens zijn specifieke gegevens van de toegelaten instelling die op het niveau van de verhuureenheid beschikbaar dienen te zijn. De modelparameters worden hierna beschreven.
+Voor het indexeren van de meeste exploitatiekosten geldt het medio principe. Zijn bijvoorbeeld de instandhoudingskosten op prijspeil 31-12-2016 gelijk aan € 800 per jaar per VHE en u wilt de geïndexeerde waarde voor 2017 bepalen gegeven een index van 2% over 2017, dan is de berekening als volgt:
 
 ### 7.2.3. Huurinkomsten en huurstijging
 
-De jaarlijkse stijging van de markthuur en de contracthuur is gelijk aan de prijsinflatie van het voorafgaande jaar.
+Een uitzondering op dit principe vormen de OZB en de verhuurderheffing. Die zijn gebaseerd op een grondslag primo kalenderjaar zoals eerder toegelicht in de paragraaf Leegwaarde.
 
-De volgende tabel bevat een overzicht van de specifieke objectgegevens voor parkeergelegenheden van de toegelaten instelling.
+In het uitpondscenario moet rekening gehouden worden met het uit exploitatie gaan van woningen. Het medio jaar principe veronderstelt dat uitponden halverwege het jaar plaatsvindt. Stel dat de mutatiegraad in 2017 gelijk is aan 5% is, dan is in de eerste helft 2017 100% in exploitatie en in de tweede helft 95%.
 
 ### 7.2. Modelparameters
 
-Met de modelparameters vindt de modelmatige waardering van de parkeergelegenheden plaats, uitgaande van de objectgegevens, die in het voorafgaande zijn beschreven. Het betreft hier de modelparameters voor de basisversie. Verderop worden de vrijheidsgraden beschreven waar in de full versie gebruik van kan worden gemaakt om af te wijken van de basisversie.
+Bij het uitpondscenario worden bij mutatie ook geen mutatiekosten gemaakt.
 
 De markthuur is de huurprijs per maand die, uitgaande van optimale marketing en verhuur, kan worden behaald op de waardepeildatum.
 
@@ -1006,7 +1006,7 @@ De leegwaarde wordt gelijk gesteld aan de geïndexeerde WOZ-waarde. Hierbij word
 
 ### 7.2.2. Markthuren
 
-De markthuur is de huurprijs per maand die, uitgaande van optimale marketing en verhuur, kan worden behaald op de waardepeildatum.
+Bij geliberaliseerde eenheden geldt in principe het percentage huurverhoging zoals is vastgelegd in de huurovereenkomst. Indien deze specifieke informatie uit huurovereenkomsten niet beschikbaar is, dan is de huurverhoging gelijk aan de prijsinflatie plus de opslag voor zelfstandige eenheden.
 
 Voor parkeergelegenheden wordt verondersteld dat de markthuur gelijk is aan de actuele contracthuur. Indien een parkeervoorziening niet is verhuurd is en dus te maken heeft met leegstand, is voor een rekentechnische oplossing gekozen dat dat een markthuur van 0 euro wordt opgenomen.
 
@@ -1014,7 +1014,7 @@ Voor parkeergelegenheden wordt verondersteld dat de markthuur gelijk is aan de a
 
 De jaarlijkse stijging van de markthuur en de contracthuur is gelijk aan de prijsinflatie van het voorafgaande jaar.
 
-Beheerkosten zijn de kosten die worden gemaakt voor het beheer van de parkeervoorziening. Het gaat hierbij om de kosten gemaakt voor de verhuur en marketing. De niet-object gebonden kosten, maatschappelijke beheerkosten, taxatiekosten en accountantskosten worden niet gerekend tot de beheerkosten.
+Voor de waardering is ook de te verwachten bevriezing van de liberalisatiegrens van belang. De bevriezing van de liberalisatiegrens vond voor het eerst per 1 januari 2016 plaats. De bevriezing geldt voor drie kalenderjaren en geldt dus voor de jaren 2016, 2017 en 2018. Hierdoor is het mogelijk dat de huur eerder de liberalisatiegrens overschrijdt. Als deze overschrijding plaatsvindt, is het daaropvolgende jaar geen verhuurderheffing meer verschuldigd.
 
 De exploitatiekosten bestaan uit de onderhoudskosten, waarbij alleen wordt uitgegaan van instandhoudingsonderhoud. Verder zijn er kosten voor beheer, belastingen, verzekeringen en overige zakelijk lasten. Deze kostensoorten worden hierna nader toegelicht.
 
@@ -1022,25 +1022,25 @@ De exploitatiekosten bestaan uit de onderhoudskosten, waarbij alleen wordt uitge
 
 De bedragen voor het instandhoudingsonderhoud zijn ontleend aan de waarderingsgegevens van toegelaten instellingen, die op marktwaarde hebben gewaardeerd, en zijn weergegeven in onderstaande tabel. Voor de parkeergelegenheden wordt een vast bedrag per jaar aangehouden dat per type parkeervoorziening verschilt. De bedragen zijn per jaar, inclusief 21% BTW.
 
-Beheerkosten zijn de kosten die worden gemaakt voor het beheer van de parkeervoorziening. Het gaat hierbij om de kosten gemaakt voor de verhuur en marketing. De niet-object gebonden kosten, maatschappelijke beheerkosten, taxatiekosten en accountantskosten worden niet gerekend tot de beheerkosten.
+De objectparameter wel of geen aanvangsleegstand bepaalt of het object leegstaat vanaf het begin van de beschouwingsperiode, dus vanaf 1 januari 2017. Indien er sprake is van aanvangsleegstand, dan moet in de basisversie gerekend worden met een periode gelijk aan de modelparameter mutatieleegstand (in maanden) en met de huurderving die het resultaat is van deze leegstand.
 
-De hoogte van de beheerkosten is afhankelijk van het type parkeervoorziening. De bedragen voor de beheerkosten zijn ontleend aan waarderingsgegevens van toegelaten instellingen, die op marktwaarde hebben gewaardeerd, en zijn weergegeven in onderstaande tabel. De bedragen zijn per jaar, inclusief 21% BTW.
+Deze benadering wijkt af van de vorige versie van dit handboek. Daarom is deze benadering voor verslagjaar 2016 nog een handreiking. Vanaf verslagjaar 2017 is deze benadering voorgeschreven.
 
-Bij parkeervoorzieningen wordt rekening gehouden met belastingen en verzekeringen. De bedragen voor belastingen en verzekeringen zijn ontleend aan waarderingsgegevens van toegelaten instellingen, die op marktwaarde hebben gewaardeerd, en zijn weergegeven in onderstaande tabel. Het percentage heeft betrekking op de WOZ-waarde ontleend aan de WOZ-beschikking van 2015, die de waardepeildatum 1 januari 2014 kent. De bedragen zijn per jaar, inclusief 21% BTW. In het doorexploiteerscenario wordt tijdens de DCF-periode wordt dit op basis van de WOZ-waarde tot stand gekomen, bedrag, geïndexeerd met de prijsinflatie.
+Voorbeeld:
 
-In deze basisvariant worden geen technische splitsingskosten opgenomen. Als daar reden toe is, kunnen de technische splitsingskosten via de full versie worden meegenomen.
+Stel de aanvangsleegstand is 3 maanden. Dat betekent dat in het eerste kalenderjaar de huurderving als gevolg van leegstand gelijk is aan 3/12 of te wel 25% van de markthuur medio dat jaar. Na de periode wordt de verhuureenheid bij doorexploiteren tegen de markthuur verhuurd.
 
 Splitsingskosten zijn de kosten die moeten worden gemaakt om een complex dat nu als een geheel staat geregistreerd in het Kadaster te splitsen, zodat het complex vervolgens per verhuureenheid kan worden verkocht. De splitsingskosten worden verdeeld in juridische en technische splitsingskosten.
 
-Juridische kosten betreffen vergoedingen die voortkomen uit de splitsingsverordering van gemeenten en daarbij gaat het om notaris- en kadasterkosten. Voor juridische kosten wordt een norm gehanteerd van 500 euro per te splitsen eenheid.
+Bij de hoogte van de mutatiekans wordt onderscheid gemaakt tussen de mutatiekans in het doorexploiteerscenario en in het uitpondscenario.
 
-### Eindwaarde
+### 5.2.9.1. Mutatiekans bij doorexploiteren
 
-In deze basisvariant worden geen technische splitsingskosten opgenomen. Als daar reden toe is, kunnen de technische splitsingskosten via de full versie worden meegenomen.
+De mutatiekans in het doorexploiteerscenario is gelijk aan de gemiddelde mutatiekans van de betreffende verhuureenheden over de afgelopen vijf jaar (2012–2016). Het betreft het aantal vrijgekomen woningen door reguliere opzeggingen. Het betreft het totaal aantal mutaties gedurende de periode gedeeld door de som van de jaarlijkse ultimo standen van het aantal verhuureenheden.
 
-Erfpacht beïnvloedt de waarde van de parkeergelegenheid. Het effect van de erfpacht op de waarde vloeit voort uit de consequenties die de erfpacht voor de koper heeft. Er zijn in Nederland verschillende vormen van erfpacht. In deze paragraaf worden alleen enkele hoofdlijnen beschreven. Als de consequenties van de erfpacht voor de waardering te veel afwijken van deze hoofdlijnen, is maatwerk nodig dat op basis van de full versie mogelijk is.
+Voorbeeldberekening
 
-De verkoopkosten zijn de kosten die worden gemaakt voor de verkoop van de parkeergelegenheden bij uitponden. Onder deze kosten vallen makelaarskosten en, indien aanwezig, eventuele andere handelingskosten. Onderhoudskosten die worden gemaakt om een parkeergelegenheid gereed te maken voor verkoop en de overdrachtsbelasting, vallen niet onder de verkoopkosten. De hoogte van het bedrag is ontleend aan de waarderingsgegevens van toegelaten instellingen, die op marktwaarde hebben gewaardeerd. Het bedrag is inclusief 21% BTW
+Veronderstel dat een waarderingscomplex 100 verhuurbare eenheden omvat per ultimo jaar gedurende de jaren 2012 t/m 2016 en er geen verkopen plaatsvinden in deze periode.
 
 ### Overdrachtskosten
 
@@ -1052,13 +1052,13 @@ Als de erfpacht niet is afgekocht en als sprake is van een jaarlijkse canon, zon
 
 ### Intramuraal zorgvastgoed
 
-De opslagen voor het markt- en objectrisico zijn gecombineerd. Deze gecombineerde opslag is afhankelijk gesteld van twee kenmerken van de verhuureenheden:
+Toelichting omgaan met mutatiekans:
 
-De disconteringsvoet is de marktconforme rendementseis waartegen de verwachte toekomstige inkomsten en uitgaven contant worden gemaakt. De disconteringsvoet wordt opgebouwd uit de volgende drie onderdelen:
+De mutatiekans moet in het uitpondscenario steeds toegepast worden op het aantal woningen dat in exploitatie is in dat jaar (dus het aantal niet gemuteerde woningen). Deze exponentiele benadering is vanaf verslagjaar 2017 voorschrift. Over 2016 is het een aanbeveling.
 
 ### 7.2.11. Overige punten
 
-De vastgoed sectorspecifieke opslag is een vastgoedsector gebonden risico-opslag, welke dient ter compensatie voor het extra risico dat wordt gelopen voor het investeren in vastgoed, ten opzichte van de risicovrije rente. Het percentage voor de vastgoedsector specifieke opslag is ontleend aan waarderingsgegevens van toegelaten instellingen en komt overeen met de vastgoedsector specifieke opslag van woongelegenheden.
+Toelichting fractioneel omgaan met muteren:
 
 ### 7.2.9. Eindwaarde
 
@@ -1066,107 +1066,107 @@ Bij de schatting van de hoogte van de opslag voor het markt- en objectrisico is 
 
 ### 7.2.12. Nadere toetsing
 
-Om tot de disconteringsvoet van de afzonderlijke parkeergelegenheden te komen, wordt gebruik gemaakt van het referentieobject. De onderstaande tabellen geven daarbij de afzonderlijke effecten weer van elk van de onderscheiden kenmerken. Door per verhuureenheid na te gaan wat de effecten zijn voor het markt- en objectrisico en deze op te tellen bij de totale disconteringsvoet van het referentieobject, ontstaat de disconteringsvoet van de overige parkeergelegenheden.
+Mutatieleegstand was in het vorige handboek alleen op BOG-MOG van toepassing. In dit handboek geldt mutatieleegstand voor alle vastgoedtypen. Voor verslagjaar 2016 is dit een handreiking en mag eventueel nog zonder mutatieleegstand worden gerekend. Voor verslagjaar 2017 is het rekenen met mutatieleegstand een voorschrift.
 
 ### 7.2.9. Eindwaarde
 
-De eindwaarde is de marktwaarde van het waarderingscomplex aan het einde van het 15e jaar. Deze waarde is gelijk aan de contante waarde van de verwachte kasstromen die vanaf het 16e exploitatiejaar worden verwacht. Deze eindwaarde wordt vervolgens contant gemaakt met de gehanteerde disconteringsvoet naar de waardepeildatum en is zo onderdeel van de marktwaarde.
+Stel de mutatieleegstand is 3 maanden. Dat betekent dat bij mutatie gerekend moet worden met 3 maanden huurderving in het kalenderjaar. Deze huurderving is gelijk aan 3/12 of te wel 25% van de markthuur van de verhuureenheid medio dat jaar.
 
 Bij parkeergelegenheden is bij de eindwaarde alleen het doorexploiteerscenario aan de orde omdat het uitpondscenario, zoals in paragraaf 7.2.11 wordt toegelicht, een looptijd heeft van drie jaren. Vanaf het 16e jaar wordt verondersteld dat sprake is van doorexploiteren met een voortdurende looptijd13Een resterende looptijd van 50 jaar is ook mogelijk. Het verschil in de uitkomst met een voortdurende looptijd is verwaarloosbaar. De eindwaarde met een voortdurende looptijd is wiskundig gemakkelijker te bepalen.. Alle afzonderlijke kasstromen ontwikkelen zich met de eigen groeivoet. Voor de onderhoudskosten bijvoorbeeld is de groeivoet gelijk aan stijging van de bouwkostenindex. Er wordt rekening gehouden met veroudering. In de praktijk wordt via een renovatie functionele veroudering ongedaan gemaakt. De kosten die hiermee gemoeid zijn, worden benaderd door vanaf het 16e jaar de kosten voor instandhoudingsonderhoud met 100% te verhogen. De bedragen die zo worden ingerekend corresponderen met een eenmalige renovatie. De eindwaarde aan het eind van het 15e jaar is gelijk aan al deze kasstromen, contant gemaakt met de gehanteerde disconteringsvoet.
 
 ### 7.2.10. Overdrachtskosten
 
-De overdrachtskosten zijn de overdrachtsbelasting en de notaris- en de registratiekosten bij de verkoop van de parkeergelegenheden in verhuurde staat. De overdrachtskosten worden weergegeven als een percentage van de berekende marktwaarde van een eenheid.
+Voorbeeld:
 
 ### 7.2.11. Overige punten
 
-Indien op het waarderingscomplex of een deel daarvan, op de waardepeildatum 31 december 2015 een ook voor een derde, onherroepelijke verplichting tot sloop van toepassing is, dient hier bij de waardering rekening mee te worden gehouden.
+De mutatiegraad van het complex, waar de voorbeeld woning toe behoort is 5% per jaar
 
 Bij parkeergelegenheden is sprake van een specifiek uitpondscenario. Dit is het geval omdat huurders van parkeergelegenheden niet dezelfde wettelijke bescherming kennen als huurders van woongelegenheden. Algemeen geldt voor parkeerplaatsen dat, indien de verhuurder besluit om tot verkoop over te gaan, de huurder de parkeervoorziening nog twee jaar lang mag huren. Na die twee jaar, geniet de huurder nog één jaar ontruimingsbescherming. Kort gezegd kan de verhuurder, als hij nu de beslissing tot verkopen neemt, alle eenheden over drie jaar uitponden. Gedurende de drie jaren kan dit dus niet, door de genoemde bescherming. Doordat na jaar drie mogelijk alle eenheden zijn uitgepond, wordt in het uitpondscenario gewerkt met een DCF-periode van drie jaar in plaats van 15 jaar, zoals bij de overige waarderingsmodellen het geval is.
 
-Aanvullend geldt dat een parkeergelegenheid alleen via het model voor parkeergelegenheden wordt gewaardeerd, als geldt dat sprake is van een apart contract voor de parkeervoorziening. Immers als de parkeervoorziening tezamen met een woongelegenheid of BOG of MOG eenheid wordt verhuurd en één en hetzelfde contract kent, dan dient de parkeervoorziening met het model voor woongelegenheden, resp. het model voor BOG en MOG te worden gewaardeerd.
+De bruto huur kasstroom, de huur exclusief huurderving, wordt als volgt bepaald in het doorexploiteerscenario.
 
-### 7.2.12. Nadere toetsing
+### 5.2.11.2. Bruto huur in uitpondscenario
 
-De modelmatige bepaalde marktwaarde van een complex ligt ten opzichte van de geïndexeerde WOZ-waarde over het algemeen binnen een bandbreedte van 50 en 125%. Indien dit niet het geval is, is een nadere beoordeling van de gebruikte objectgegevens nodig om te bezien of deze juist zijn. Indien de gebruikte objectgegevens juist blijken te zijn, behoeft de marktwaarde niet te worden aangepast.
+De berekening voor een uitpondscenario is soortgelijk en gebaseerd op dezelfde getallen. Verder is het uitgangspunt dat bij mutatie volledige uitponding plaatsvindt, er is geen beklemming.
 
 De volgende tabel bevat een overzicht van de specifieke objectgegevens voor intramuraal zorgvastgoed van de toegelaten instelling.
 
-In dit hoofdstuk worden de te hanteren gegevens en de uitgangspunten voor de waardebepaling van intramuraal zorgvastgoed uiteengezet. Voor de waardebepaling is het belangrijk om onderscheid te maken tussen de **objectgegevens** en de **modelparameters.** De objectgegevens zijn specifieke gegevens van de toegelaten instelling die op het niveau van de verhuureenheid beschikbaar dienen te zijn. Naast de objectgegevens wordt gebruik gemaakt van modelparameters.
+Splitsingskosten zijn de kosten die moeten worden gemaakt om een complex dat nu als een geheel staat geregistreerd in het Kadaster te splitsen. Hierdoor kan het complex vervolgens per verhuureenheid worden verkocht. De splitsingskosten worden verdeeld in juridische en technische splitsingskosten.
 
-Voor het bepalen van de marktwaarde in verhuurde staat van intramuraal zorgvastgoed, ligt hier in de basis het rekenmodel voor BOG en MOG aan ten grondslag. Ook nu wordt alleen gewerkt met een doorexploiteerscenario en geldt dat er geen sprake is van een uitpondscenario. Het waarderingsmodel voor intramuraal zorgvastgoed is daar waar nodig aangepast ten behoeve van de specifieke contracten waar intramuraal zorgvastgoed mee wordt geconfronteerd.
+In de modelmatige bepaling van de marktwaarde worden geen technische splitsingskosten opgenomen. Als de corporatie dat nodig acht, kunnen de technische splitsingskosten via de full versie als afzonderlijke vrijheidsgraad worden meegenomen. In dat geval is tussenkomst van een externe taxateur vereist met een nadere toelichting.
 
-Indien aan het einde van het huurcontract wordt verwacht dat opzegging zal plaatsvinden, wordt er van uitgegaan dat een nieuw marktconform huurcontract kan worden afgesloten. Indien een nieuw huurcontract wordt afgesloten, geldt dat de nieuwe contracthuur wordt opgenomen. Als het afsluiten van een nieuw huurcontract vereist dat verbouwingsingrepen noodzakelijk zijn, dan geldt dat de kosten die gepaard gaan met deze verbouwingsingrepen als kasstroom worden meegenomen in de DCF-berekening. Deze kosten worden gezien als mutatieonderhoud. De bedragen zijn per m2 bvo, inclusief 21% BTW.
+Toelichting uitwerking splitsingskosten
 
 ### 8.2.3. Exploitatiekosten
 
 De exploitatiekosten bestaan uit de onderhoudskosten, onderscheiden naar instandhouding-onderhoud, achterstallig onderhoud en mutatieonderhoud. Verder zijn er kosten voor beheer, belastingen, verzekeringen en overige zakelijke lasten. Deze kostensoorten worden hierna nader toegelicht.
 
-Met de modelparameters vindt de modelmatige waardering plaats, uitgaande van de objectgegevens, die in het voorafgaande zijn beschreven. Het betreft hier de modelparameters voor de basisversie. Verderop zullen de afwijkingen worden beschreven die mogelijk zijn op de modelparameters in de full versie.
+De verkoopkosten zijn de kosten die worden gemaakt voor de verkoop van de verhuureenheden in het uitpondscenario. Onder deze kosten vallen makelaarskosten en, indien aanwezig, eventuele andere handelingskosten. Onderhoudskosten die worden gemaakt om een woning gereed te maken voor verkoop en de overdrachtsbelasting, vallen niet onder de verkoopkosten. De hoogte van het percentage is ontleend aan de waarderingsgegevens van toegelaten instellingen. Het in de tabel weergegeven percentage is alleen van toepassing op de peildatum 31 december 2016. Het bedrag ultimo 2016 wordt aangepast conform de bijbehorende bouwkostenontwikkeling en is inclusief 21% BTW.
 
 ### 8.2.1. Markthuren
 
-De markthuur is de huurprijs per maand die, uitgaande van optimale marketing en verhuur, kan worden behaald op de waardepeildatum. Daarbij geldt dat de markthuur in het doorexploiteerscenario wordt gebruikt voor het bepalen van de nieuwe huur nadat een verhuureenheid is gemuteerd. De markthuur wordt door de toegelaten instelling per jaar per verhuurcontract als objectgegeven opgegeven.
+Voor deze kosten geldt het midden jaar principe. Zoals eerder toegelicht moeten de kosten berekend worden als het gemiddelde van de verkoopkosten primo en ultimo van een kalenderjaar.
 
 Indien aan het einde van het huurcontract wordt verwacht dat opzegging zal plaatsvinden, wordt er van uitgegaan dat een nieuw marktconform huurcontract kan worden afgesloten. Indien een nieuw huurcontract wordt afgesloten, geldt dat de nieuwe contracthuur wordt opgenomen. Als het afsluiten van een nieuw huurcontract vereist dat verbouwingsingrepen noodzakelijk zijn, dan geldt dat de kosten die gepaard gaan met deze verbouwingsingrepen als kasstroom worden meegenomen in de DCF-berekening. Deze kosten worden gezien als mutatieonderhoud. De bedragen zijn per m2 bvo, inclusief 21% BTW.
 
 ### 8.2.3. Exploitatiekosten
 
-Op het moment van de einddatum van het verhuurcontract zijn er twee mogelijkheden:
+Het uitgangspunt is om de eenheid eerst te waarderen alsof deze op eigen grond staat en vervolgens de gevolgen van erfpacht te bezien als correcties op deze waarde. De correcties komen voort uit toekomstige financiële verplichtingen verbonden aan de erfpacht zoals canon betalingen en/of hernieuwde toekomstige afkoopsommen.
 
 ### Erfpacht
 
-Indien aan het einde van het huurcontract wordt verwacht dat opzegging zal plaatsvinden, wordt er van uitgegaan dat een nieuw marktconform huurcontract kan worden afgesloten. Indien een nieuw huurcontract wordt afgesloten, geldt dat de nieuwe contracthuur wordt opgenomen. Als het afsluiten van een nieuw huurcontract vereist dat verbouwingsingrepen noodzakelijk zijn, dan geldt dat de kosten die gepaard gaan met deze verbouwingsingrepen als kasstroom worden meegenomen in de DCF-berekening. Deze kosten worden gezien als mutatieonderhoud. De bedragen zijn per m2 bvo, inclusief 21% BTW.
+Loopt het contract niet voor nog minimaal 15 jaar door, dan wordt een inschatting gemaakt van de canon bij ingang van het nieuwe contract. Door de complexiteit van deze methodiek, is in dat geval maatwerk vereist, dat via de full versie mogelijk is.
 
-Er wordt geen onderscheid gemaakt naar type intramuraal zorgvastgoed.
+Afkoopbedrag erfpacht:
 
-De exploitatiekosten bestaan uit de onderhoudskosten, onderscheiden naar instandhouding-onderhoud, achterstallig onderhoud en mutatieonderhoud. Verder zijn er kosten voor beheer, belastingen, verzekeringen en overige zakelijke lasten. Deze kostensoorten worden hierna nader toegelicht.
+Dit is het bedrag dat verschuldigd is om de huidige erfpacht om te zetten in eigendom of eeuwigdurende erfpacht. Het bedrag moet dan door de TI zijn geraamd. Indien dit bedrag in de basisversie wordt opgevoerd, dient dit van de eerdere berekende waarde op eigen grond te worden afgetrokken. Dit bedrag bevat dan tevens eventuele toekomstige canonverplichtingen. Die moeten dan niet alsnog ook opgevoerd worden.
 
 ### Disconteringsvoet
 
-De bedragen voor het instandhoudingsonderhoud zijn ontleend aan gegevens van toegelaten instellingen en weergegeven in onderstaande tabel. De bedragen zijn per m2 bvo, inclusief 21% BTW.
+Daarnaast wordt in sommige erfpachtcontracten een suppletie clausule opgenomen waarin een bedrag staat dat de erfpachter verschuldigd is voor het omzetten van een huur- in een koopwoning. Dit bedrag maakt onderdeel uit van de kosten verbonden aan uitponden en vallen aan het begin van de waarderingsperiode.
 
 Er wordt geen onderscheid gemaakt naar type intramuraal zorgvastgoed.
 
-Mutatiekosten doen zich voor bij opzegging van de huurovereenkomst. Hierbij wordt onderscheid gemaakt tussen kosten voor technisch onderhoud en de kosten voor marketing.
+De disconteringsvoet is de marktconforme rendementseis waartegen de verwachte toekomstige inkomsten en uitgaven contant worden gemaakt. In de basisversie wordt geen onderscheid gemaakt tussen de hoogte van de disconteringsvoet in het doorexploiteer- en uitpondscenario. Met het herstel van de koopwoningmarkt, zijn nu onvoldoende redenen om aan te nemen dat de te verwachten kasstromen in het doorexploiteer- en uitpondscenario een andere risicoprofiel kennen.
 
-Onder technische mutatieonderhoud worden de kosten verstaan die de verhuurder in het kader van de beëindiging van de huurovereenkomst met de zittende huurder moet maken om een nieuw verhuurcontract tegen het geldende marktwaardeniveau te kunnen afsluiten. Het gaat daarbij om maatregelen in het kader van instandhoudingsonderhoud.
+De disconteringsvoet wordt opgebouwd uit de volgende drie onderdelen:
 
-Onder de mutatiekosten marketing worden de kosten verstaan die de verhuurder in het kader van de marketing moet maken om het contract opnieuw te kunnen afsluiten. Het gaat daarbij om de kosten die de eigen organisatie van de verhuurder zal moeten maken en daarnaast om de kosten van de makelaar die de verhuurder zal inschakelen.
+De hoogte van de risicovrije rentevoet wordt bepaald aan de hand van het 24-maands historisch gemiddelde van de 10-jaar EURO area yield curve gebaseerd op triple AAA rated staatsobligaties zoals gepubliceerd door de ECB9Europese Centrale Bank, Euro area yield curve.https://www.ecb.europa.eu/stats/money/yc/html/index.en.html. Doordat gebruik wordt gemaakt van het 24-maands gemiddelde, worden incidentele pieken van de rente op de peildatum van de waardering voorkomen.
 
-De kosten voor technische mutatieonderhoud en de mutatiekosten marketing worden alleen in rekening gebracht wanneer er sprake is van opzegging, en niet bij verlenging, van de huurovereenkomst.
+De vastgoed sectorspecifieke opslag is een vastgoedsector gebonden risico-opslag, welke dient ter compensatie voor het extra risico dat wordt gelopen voor het investeren in vastgoed, ten opzichte van de risicovrije rente. Het percentage voor de vastgoedsector specifieke opslag is ontleend aan waarderingsgegevens van toegelaten instellingen.
 
-Er wordt geen onderscheid gemaakt naar type intramuraal zorgvastgoed. De bedragen in de tabel zijn inclusief 21% BTW.
+De opslagen voor het markt- en objectrisico zijn gecombineerd. Deze gecombineerde opslag is afhankelijk gesteld van drie kenmerken van de verhuureenheden:
 
-In veel gevallen is bij vertrek van de huurder volledige renovatie van de binnenkant nodig. In dat geval geldt dat de kosten die gepaard gaan met deze verbouwingsingrepen als achterstallig onderhoud dienen te worden beschouwd.
+Bij de schatting van de hoogte van de opslag voor het markt- en objectrisico is gebruik gemaakt van een referentieobject. De keuze voor het referentieobject heeft geen invloed op de hoogte van de disconteringsvoet van de andere verhuureenheden. De schatting van deze opslag is gebaseerd op waarderingsgegevens van toegelaten instellingen, die op marktwaarde hebben gewaardeerd. Vervolgens is de disconteringsvoet geactualiseerd op basis van de marktontwikkelingen in 2015. Deze actualisatie heeft geleid tot een daling van de discontovoet met 0,3%-punt.
 
 ### Eindwaarde
 
-De correctie bij de waardering is aan de orde als de toegelaten instelling de ingreep om achterstallig onderhoud of onderhoudsgebreken ongedaan te maken, in de meerjarenprognose heeft opgenomen. De contante waarde van de kosten van deze ingreep dienen dan in mindering te worden gebracht op de waarde van de betreffende verhuureenheid. De bedragen zijn inclusief 21% BTW.
+Om tot de disconteringsvoet van de afzonderlijke verhuureenheden te komen, wordt gebruik gemaakt van het referentieobject. De onderstaande tabellen geven de op- en afslagen ten opzichte van het referentieobject weer bij elk van de onderscheiden kenmerken. Door per verhuurbare eenheid de kenmerken te bepalen en vervolgens de relevante op- en afslagen op te tellen bij, respectievelijk af te trekken van de totale disconteringsvoet van het referentieobject, ontstaat de disconteringsvoet van de overige verhuureenheden.
 
-Beheerkosten zijn de kosten die worden gemaakt voor het beheer van het verhuurcontract. Het gaat hierbij om de kosten gemaakt voor de verhuur en marketing van het verhuurcontract. De niet-object gebonden kosten, maatschappelijke beheerkosten, taxatiekosten en accountantskosten worden niet gerekend tot de beheerkosten.
+Voor woongelegenheden in krimp- en/of aardbevingsgebieden geldt een extra opslag van 2,00%-punt op de discontovoet. Ligt een verhuureenheid zowel in een aardbevings- als krimpgebied dan moet deze opslag niet dubbel gerekend worden. In dat geval is de opslag ook 2,00%-punt.
 
 De hoogte van de beheerkosten is ontleend aan gegevens van toegelaten instellingen. De beheerkosten zijn 2,5% van de markthuur op jaarbasis. De bedragen zijn inclusief 21% BTW.
 
-Onder belastingen vallen de gemeentelijke belastingen en heffingen, zoals de OZB, de rioolheffing en de verontreinigingsheffing, als ook de waterschapsbelasting. Deze belastingen en heffingen verschillen per gemeente en waterschap. In dit verband is een gemiddeld percentage voor de belastingen, verzekeringen en overige zakelijke lasten per verhuurcontract genomen. De bedragen voor belastingen, verzekeringen en overige zakelijke lasten zijn ontleend aan gegevens van toegelaten instellingen, en weergegeven in onderstaande tabel. Het percentage heeft initieel betrekking op de WOZ-waarde van de WOZ-beschikking 2015, die als waardepeildatum 1 januari 2014 kent. De bedragen zijn per jaar, inclusief 21% BTW. Tijdens de DCF-periode wordt dit op basis van de WOZ-waarde tot stand gekomen bedrag geïndexeerd met de prijsinflatie.
+De eindwaarde is de marktwaarde van het waarderingscomplex aan het einde van het 15e jaar. Deze waarde is gelijk aan de contante waarde van de verwachte kasstromen die vanaf het 16e exploitatiejaar worden verwacht. Deze eindwaarde wordt vervolgens contant gemaakt met de gehanteerde disconteringsvoet naar de waardepeildatum en is zo onderdeel van de marktwaarde.
 
-De totale disconteringsvoet voor het referentie-object bedraagt 9,34%. Aangezien de risicovrije rentevoet en de vastgoedsector specifieke opslag samen op 6,66% uitkomen, kan afgeleid worden dat bij het referentieobject de opslag voor het markt- en objectrisico 2,68% bedraagt.
+De berekening van de eindwaarde verschilt in het doorexploiteerscenario ten opzichte van het uitpondscenario.
 
-### 8.2.6. Eindwaarde
+### 5.2.16.1. Eindwaarde in het doorexploiteerscenario
 
-Als de erfpacht niet is afgekocht en als sprake is van een jaarlijkse canon, zonder dat bij verkoop aan een belegger of vervolgens bij uitponden aan een particulier een afkoopsom is verschuldigd, is de betreffende canon een doorlopende kasstroom die onderdeel vormt van de DCF-berekening. Afhankelijk van de erfpachtovereenkomst, dient deze canon wel of niet te worden geïndexeerd. Loopt het contract niet voor nog minimaal 15 jaar door, dan wordt een inschatting gemaakt van de canon bij ingang van het nieuwe contract. Door de complexiteit van deze methodiek, is in dat geval maatwerk vereist, dat via de full versie mogelijk is.
+Bij de berekening van de eindwaarde in het doorexploiteerscenario wordt vanaf het 16e jaar wederom verondersteld dat sprake is van doorexploiteren met een voortdurende looptijd.
 
 ### Overige punten
 
-De opslagen voor het markt- en objectrisico zijn gecombineerd. Deze gecombineerde opslag is afhankelijk gesteld van twee kenmerken van de verhuureenheden:
+Alle afzonderlijke kasstromen ontwikkelen zich met de eigen groeivoet. Voor de onderhoudskosten bijvoorbeeld is de groeivoet gelijk aan stijging van de bouwkostenindex. Bij huurdersmutatie wordt, waar dat aan de orde is, de huur opgetrokken naar de markthuur of de maximale huur volgens het woningwaarderingsstelsel. Voor woningen met een huur onder de liberalisatiegrens blijft de verhuurderheffing van toepassing op basis van het vanaf 2017 gehanteerde percentage van de WOZ-waarde.
 
 ### 8.2.7. Overdrachtskosten
 
-De hoogte van de risicovrije rentevoet wordt bepaald aan de hand van het 24-maands historisch gemiddelde van de 10-jaar EURO Interest Rate Swap (IRS). Doordat gebruik wordt gemaakt van het 24-maands gemiddelde, worden incidentele pieken van de rente op de peildatum van de waardering voorkomen.
+Met ingang van het verslagjaar 2017 zal de opslag van 100% op het instandhoudingsonderhoud afhankelijk zijn van de kwaliteit van de eenheid. Die kwaliteit zal mogelijk gebaseerd worden op de energieprestatie index van de eenheid maar vraagt om nadere uitwerking en precisering. In die uitwerking zal rekening gehouden worden met bijvoorbeeld het feit dat onzelfstandige eenheden geen verplichte aanmelding hebben, mogelijk met de conditiemeting en andere factoren die de kwaliteit bepalen.
 
 ### 8.2.8. Overige punten
 
-De opslagen voor het markt- en objectrisico zijn gecombineerd. Deze gecombineerde opslag is afhankelijk gesteld van twee kenmerken van de verhuureenheden:
+De eindwaarde aan het eind van het 15e jaar is gelijk aan al deze kasstromen, contant gemaakt met de gehanteerde disconteringsvoet.
 
 ### 8.2.9. Nadere toetsing
 
@@ -1178,27 +1178,27 @@ De overdrachtskosten zijn de overdrachtsbelasting en de notaris- en de registrat
 
 ### 8.2.8. Overige punten
 
-Bij intramuraal vastgoed is alleen het doorexploiteerscenario van toepassing. Vanaf het 16e jaar wordt verondersteld dat sprake is van doorexploiteren met een voortdurende looptijd14Een resterende looptijd van 50 jaar is ook mogelijk. Het verschil in de uitkomst met een voortdurende looptijd is verwaarloosbaar. De eindwaarde met een voortdurende looptijd is wiskundig gemakkelijker te bepalen.. Alle afzonderlijke kasstromen ontwikkelen zich met de eigen groeivoet. Voor de onderhoudskosten bijvoorbeeld is de groeivoet gelijk aan stijging van de bouwkostenindex. Bij huurdersmutatie wordt, waar dat aan de orde is, de huur opgetrokken naar de markthuur. Voorts wordt rekening gehouden met veroudering. In de praktijk wordt via een renovatie functionele veroudering ongedaan gemaakt. De kosten die hiermee gemoeid zijn, worden benaderd door vanaf het 16e jaar de kosten voor instandhoudingsonderhoud met 100% te verhogen. De bedragen die zo worden ingerekend corresponderen met een eenmalige renovatie De eindwaarde aan het eind van het 15e jaar is gelijk aan al deze kasstromen, contant gemaakt met de gehanteerde disconteringsvoet.
+In alle eindwaardescenario’s wordt de eindwaarde in de basisversie berekend op basis van een voortdurende looptijd benadering. Theoretisch geldt dat de contante waarde van oneindig gelijkblijvend kasstroom CF tegen een discontovoet d gelijk is aan CF/d.
 
 ### 8.2.7. Overdrachtskosten
 
-De overdrachtskosten zijn de overdrachtsbelasting en de notaris- en de registratiekosten bij de verkoop van het waarderingscomplex in verhuurde staat. De overdrachtskosten worden weergegeven als een percentage van de berekende waarde van een eenheid.
+**Kapitalisatiefactoren**
 
 ### 8.2.8. Overige punten
 
-Indien op het waarderingscomplex of een deel daarvan, op de waardepeildatum 31 december 2015 een ook voor een derde, onherroepelijke verplichting tot sloop van toepassing is, dient hier bij de waardering rekening mee te worden gehouden.
+EW = CF15 * (1 + d)0,5 * (1 + g) / (d – g).
 
 ### Erfpacht
 
-De leegwaardestijging is gedifferentieerd naar provincie en naar de vier grote steden. Het kan zijn dat er redenen zijn om van deze differentiatie af te wijken, bijvoorbeeld omdat de te verwachten stijging van de leegwaarde in de specifieke situatie niet overeenkomt met die van de provincie, respectievelijk de betreffende stad. De externe taxateur heeft de mogelijkheid om dan af te wijken van de veronderstelde leegwaardestijging.
+Indien daarnaast sprake is van een mutatiegraad m, dan neemt een kasstroom jaarlijks mogelijk af met (1 – m). Dat betekent dat de groeifactor niet gelijk is aan 1 + g maar aan (1 – m) * (1 + g) en g gelijk aan (1 – m) * (1 + g) – 1. Invoeren in vergelijking (2) geeft:
 
 ### 9.1.3. Bijzondere omstandigheden
 
-Bijzondere omstandigheden kunnen van toepassing zijn waarmee in de basisversie geen rekening wordt gehouden. Hierbij valt te denken aan beklemmingsafspraken met de gemeente ten aanzien van huurverhoging en/of verkoop, die ook van kracht zijn voor een potentiële koper. De toegelaten instelling heeft de mogelijkheid om in die gevallen de externe taxateur in te schakelen. De taxateur kan dan het effect van de beklemmingen meenemen bij de waardering.
+Wanneer ervan uitgegaan wordt dat in het doorexploiteerscenario het complex aan het einde van de beschouwingsperiode in de verhuur blijft, zal de huurkasstroom vanaf jaar 16 uit drie componenten bestaan:
 
 ### 9.1.4. Disconteringsvoet
 
-De hoogte van de disconteringsvoet is modelmatig bepaald. Daarmee wordt niet altijd recht gedaan aan de risico’s die voor specifieke objecten en/of specifieke locaties van toepassing zijn. Deze specifieke omstandigheden kunnen een andere disconteringsvoet rechtvaardigen. De toegelaten instelling heeft de mogelijkheid om dan een externe taxateur in te schakelen om een marktconforme disconteringsvoet vast te stellen. Als daartoe reden is, kan in dat geval dan ook een verschil worden gemaakt in de hoogte van de disconteringsvoet bij uitponden ten opzichte van doorexploiteren.
+Dan worden de volgende kapitalisatiefactoren berekend voor de huur:
 
 ## Bijlage 3
 
@@ -1212,7 +1212,7 @@ De hoogte van de disconteringsvoet is modelmatig bepaald. Daarmee wordt niet alt
 
 ### 9.1.2. Leegwaarde(stijging)
 
-### 9.1.4. Disconteringsvoet
+### 5.2.17. Overdrachtskosten
 
 ### 9.1.7. Onderhoud
 
@@ -1222,11 +1222,11 @@ In de basisvariant is voor de verschillende onderhoudscategorieën gewerkt met g
 
 ### 9.1.4. Disconteringsvoet
 
-### 9.1.6. Erfpacht
+### 5.2.19. Nadere toetsing
 
 ### 9.1.5. Mutatie- en verkoopkans
 
-### 9.1.7. Onderhoud
+### 6. BEDRIJFSMATIG EN MAATSCHAPPELIJK ONROEREND GOED
 
 ### Hoofdstuk 2. Activiteiten
 
@@ -1236,15 +1236,15 @@ Zoals in het voorafgaande is aangegeven, zijn er zeer uiteenlopende erfpachtover
 
 ### 9.1.7. Onderhoud
 
-### dVi (de Verantwoordingsinformatie) verslagjaar 2015
+### 6.2. Modelparameters
 
 ### 9.1.8. Technische splitsingskosten
 
-### GEGEVENSOPVRAGING SOLVABILITEITSOORDEEL
+### 6.2.1. Markthuren
 
-Bij gebruik van de full versie dient jaarlijks minimaal een derde, steeds wisselend deel van het betreffende vastgoed, via een volledige taxatie te worden gewaardeerd, dan wel via een hertaxatie als er in de afgelopen drie jaar een volledige taxatie heeft plaats gevonden. Bij deze vormen van taxatie zijn op basis van de NRVT verschillende rapportagevereisten van toepassing, waaronder rapportage met betrekking tot de kadastrale recherche, het titelonderzoek en de milieuaspecten. Indien er intern documentatie beschikbaar is, waarop de taxateur kan steunen, kan in de rapportage van de taxateur naar die documentatie worden verwezen. Hierbij is wel vereist dat de taxateur de waarde mede heeft gebaseerd op die informatie. De betreffende informatie dient ook toegankelijk te zijn voor Autoriteit woningcorporaties en de accountant. Voor het andere, tweederde deel van het vastgoed is een aannemelijkheidsverklaring van de externe taxateur vereist.
+De markthuur is de huurprijs per jaar per vierkante meter VVO die, uitgaande van optimale marketing en verhuur, kan worden gerealiseerd op peildatum 31 december 2016. Daarbij geldt dat de markthuur wordt gebruikt voor het bepalen van de nieuwe huur nadat een verhuurcontract is beëindigd. De markthuur wordt door de toegelaten instelling per jaar in m2 VVO van het contract als objectgegeven opgegeven gebaseerd op een gegevens uit de markt van vergelijkbare objecten.
 
-### HOOFDSTUK 1. ALGEMEEN
+### 6.2.2. Huurinkomsten en huurstijging
 
 ### 10. Bijlage 1: Definities
 
@@ -1262,11 +1262,11 @@ Bij gebruik van de full versie dient jaarlijks minimaal een derde, steeds wissel
 
 ### GEGEVENSOPVRAGING SOLVABILITEITSOORDEEL
 
-### INHOUDSOPGAVE
+### 6.2.3. Exploitatiekosten
 
 ### HOOFDSTUK 1. ALGEMEEN
 
-### 1.1. Toelichting
+### 6.2.3.1. Instandhoudingsonderhoud
 
 ### 2.2. Kenmerken vastgoedportefeuille
 
@@ -1274,17 +1274,17 @@ Bij gebruik van de full versie dient jaarlijks minimaal een derde, steeds wissel
 
 ## Bijlage 6. bij [art. 43](https://wetten.overheid.nl/jci1.3:c:BWBR0036709&hoofdstuk=III&afdeling=5&paragraaf=2&artikel=43&z=2015-09-25&g=2015-09-25) van de Regeling toegelaten instellingen volkshuisvesting 2015
 
-### 2.1. Ontwikkeling vastgoedportefeuille
+### 6.2.3.2. Mutatieonderhoud
 
 ### 2.2. Kenmerken vastgoedportefeuille
 
-**DEZE RAAMOVEREENKOMST** is opgesteld op [•] tussen:
+Onder de **technische mutatiekosten** worden de kosten verstaan die de verhuurder in het kader van de beëindiging van de huurovereenkomst met de zittende huurder moet maken om het verhuurcontract tegen het geldende marktwaardeniveau opnieuw te kunnen afsluiten.
 
-OVERWEGENDE DAT
+Onder de kosten voor **marketing** worden de kosten verstaan die de verhuurder in het kader van de marketing moet maken om opnieuw een verhuurcontract af te sluiten. Het gaat daarbij om de kosten die de eigen organisatie van de verhuurder zal moeten maken en daarnaast om de kosten van de makelaar die de verhuurder zal inschakelen.
 
-VERKLAREN TE ZIJN OVEREENGEKOMEN ALS VOLGT:
+De technische mutatiekosten en de kosten voor marketing worden alleen in rekening gebracht wanneer er sprake is van opzegging, en niet bij verlenging van de huurovereenkomst.
 
-TEN BLIJKE WAARVAN partijen aan dit document uitvoering hebben gegeven op de onderstaande datum welke in werking treedt op de datum genoemd op de eerste pagina van dit document.
+Er wordt geen onderscheid gemaakt tussen BOG en MOG.
 
 ## Bijlage 7. bij [artikel 43](https://wetten.overheid.nl/jci1.3:c:BWBR0036709&hoofdstuk=III&afdeling=5&paragraaf=2&artikel=43&z=2015-09-25&g=2015-09-25) van de Regeling toegelaten instellingen volkshuisvesting 2015
 
@@ -1541,7 +1541,7 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 ##### Artikel 44a
 
-Op de jaarrekening en het jaarverslag, bedoeld in [paragraaf 3](https://wetten.overheid.nl/jci1.3:c:BWBR0036709&hoofdstuk=II&paragraaf=3&z=2016-10-28&g=2016-10-28), over het verslagjaar 2015, wordt [artikel 4, eerste lid, van de Tijdelijke regeling diensten van algemeen economisch belang toegelaten instellingen volkshuisvesting](https://wetten.overheid.nl/jci1.3:c:BWBR0028918&artikel=4), zoals dat luidde voor de inwerkingtreding van deze regeling, niet toegepast voor zover dat artikel afwijkt van [artikel 16 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0036702&artikel=16).
+Op de jaarrekening en het jaarverslag, bedoeld in [paragraaf 3](https://wetten.overheid.nl/jci1.3:c:BWBR0036709&hoofdstuk=II&paragraaf=3&z=2017-01-01&g=2017-01-01), over het verslagjaar 2015, wordt [artikel 4, eerste lid, van de Tijdelijke regeling diensten van algemeen economisch belang toegelaten instellingen volkshuisvesting](https://wetten.overheid.nl/jci1.3:c:BWBR0028918&artikel=4), zoals dat luidde voor de inwerkingtreding van deze regeling, niet toegepast voor zover dat artikel afwijkt van [artikel 16 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0036702&artikel=16).
 
 #### § 2. Slotbepalingen
 
@@ -1561,25 +1561,25 @@ Schema B. moet worden toegepast indien Belastingdienst gegevens ontbreken.
 
 ### Inhoudsopgave
 
-De uitkomst van de inkomenstoetsing voor de DAEB bepaalt tot welk toewijzingssegment de toewijzing wordt gerekend: de 80% voor de doelgroep, de 10% voor de middeninkomens of de 10% vrije toewijzingsruimte.
+Ter bepaling van het huishoudinkomen (in 2017) worden de verzamelinkomens uit het jaar 2016 respectievelijk 5 geïndexeerd met index I1 (=1,0119) respectievelijk index I2 (=1,0359). Deze indices betreffen de factor waarmee het verzamelinkomen zoals dat door de Belastingdienst wordt vastgesteld dient te worden vermenigvuldigd gelet op de gemiddelde inkomensstijging in 2016, respectievelijk 2015.
 
 Ter bepaling van het huishoudinkomen worden de verzamelinkomens uit het jaar 2015 respectievelijk 2014 geïndexeerd met index I1 (=1,0237) resp. index I2 (=1,0306). Deze indices betreffen de factor waarmee het verzamelinkomen zoals dat door de Belastingdienst wordt vastgesteld dient te worden vermenigvuldigd gelet op de gemiddelde inkomensstijging in 2015, respectievelijk 2014.
 
-De belangrijkste wijzigingen die in het handboek zijn doorgevoerd, zijn de actualisatie van de hoogte van de normen en de parameters naar peildatum 31 december 2015 en de verfijning van de wijze waarop de eindwaarde wordt berekend. Verder is de rol van en de opdrachtverlening aan de externe taxateur nader uitgewerkt. Daarnaast is de tekst op verschillende plaatsen verduidelijkt en is een bijlage met definities toegevoegd.
+Bij de actualisatie is ook gebruik gemaakt van het validatie onderzoek dat in 2016 door ABF, Calcasa en Deloitte is uitgevoerd. Deze actualisatie van het handboek geeft een basis voor de waardering op marktwaarde van het vastgoed in exploitatie op peildatum 31 december 2016. Deze waardering zal in het kader van de jaarverslaggeving over het jaar 2016 aangeleverd dienen te worden.
 
 ### 2. Inleiding
 
-Bij de totstandkoming van dit handboek is gebruik gemaakt van waarderingen bij de toegelaten instellingen die in de jaarrekening 2014 het vastgoed in exploitatie op marktwaarde hebben gewaardeerd. Met deze waarderingsgegevens is het handboek gevalideerd via backtesting. Verder is bij verschillende marktpartijen informatie opgevraagd over de marktontwikkelingen in 2015. Deze informatie is verwerkt in het handboek. Ook is met diverse betrokken partijen gesproken over de actualisatie. De opmerkingen en aanvullingen op het eerdere handboek met prijspeil 2014, die op basis van gesprekken en schriftelijke reacties zijn ontvangen, zijn waar mogelijk verwerkt in dit handboek.
+Dit handboek besteedt uitgebreid aandacht aan de verdere modelmatige uitwerking van de DCF methode om ook op dit vlak meer uniformiteit te bewerkstelligen in de rekenmodellen. Daarbij gaat het over het medio jaar indexeren en verdisconteren van kasstromen, het omgaan met muteren en uitponden, de eindwaarde berekening, het omgaan met aanvangs- en mutatieleegstand en een ander uitpondscenario voor parkeren. Om software- en modelontwikkelaars de gelegenheid te geven om de verdere rekenkundige uitwerking in hun modellen in te bouwen, zijn deze aanpassingen voor het verslagjaar 2016 een handreiking. Voor verslagjaar 2017 zijn deze uitwerkingen een voorschrift.
 
 ### 3. Nadere kaderstelling
 
-### 2. Inleiding
+### 2. INLEIDING
 
-Het [Besluit toegelaten instellingen volkshuisvesting](https://wetten.overheid.nl/jci1.3:c:BWBR0036702) (BTIV) 2015 heeft in [artikel 31](https://wetten.overheid.nl/jci1.3:c:BWBR0036702&artikel=31) nadere uitwerking gegeven aan het genoemde wetsartikel. In het artikel is aangegeven dat de marktwaarde op basis van de contante waarde van inkomende en uitgaande kasstromen berekend dient te worden (de DCF-methode).
+Het [Besluit toegelaten instellingen volkshuisvesting (BTIV) 2015](https://wetten.overheid.nl/jci1.3:c:BWBR0036702) heeft in [artikel 31](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&artikel=31) nadere uitwerking gegeven aan het genoemde wetsartikel. In het artikel is aangegeven dat de marktwaarde op basis van de contante waarde van inkomende en uitgaande kasstromen berekend dient te worden (de DCF-methode).
 
 ### 3.3. Marktwaarde en markthuur
 
-In het handboek zijn twee benaderingen onderscheiden: de basisversie en de full versie. De basisversie biedt de mogelijkheid om op portefeuilleniveau tot een aannemelijke markwaarde te komen. De full versie stelt de toegelaten instelling in staat om op het niveau van de afzonderlijke complexen, met ondersteuning van een externe taxateur, de aannemelijke waarde te bepalen. Bij de uitwerking van het handboek zijn verschillende uitgangspunten in acht genomen:
+In de toelichting bij de RJ 645 hebben accountants richtlijnen opgesteld voor de overgang van een waardering voor de jaarrekening op basis van RJ 212 en RJ 213 naar een waardering conform voorliggend handboek marktwaardering. Voor toegelaten instellingen die in 2015 hun vastgoed in exploitatie voor de jaarrekening waardeerden op historische kostprijs of bedrijfswaarde en die overgaan op de basisversie of full versie geldt dat er sprake is van een stelselwijziging. Hierbij geldt dat naast de waardering per 31-12-2016 ook vergelijkende cijfers moeten worden aangeleverd voor de prijspeilen 31-12-2015 en 31-12-2014. De cijfers per 31-12-2015 kunnen worden aangeleverd op basis van de cijfers die door toepassing van het handboek 31-12-2015 zijn verkregen en zijn aangeleverd voor de dVi. De cijfers per 31-12-2014 kunnen worden verkregen op basis van een nog te publiceren indexatiepercentage. Voor toegelaten instellingen die in 2015 hun vastgoed in exploitatie voor de jaarrekening waardeerden op marktwaarde (RJ 213) en die overgaan op de basisversie of full versie geldt dat er sprake is van een schattingswijziging. Deze instellingen hoeven geen herberekening van de vergelijkende cijfers te verrichten. De vergelijkende cijfers per 31 december 2015 zijn in dat geval gelijk aan de in de jaarrekening 2015 opgenomen cijfers.
 
 ### 3.4. Waarderingsmethodiek
 
@@ -1587,77 +1587,77 @@ In dit waarderingshandboek worden derhalve twee versies voor de waardering besch
 
 ### 3.3. Marktwaarde en markthuur
 
-Ten aanzien van de verschillende waardebegrippen sluit dit handboek aan bij internationale richtlijnen, zoals die zijn vastgelegd door middel van de International Valuation Standards (IVS) en de European Valuation Standards (EVS). De definitie van marktwaarde is:
+Beide geschetste situaties kunnen afzonderlijk worden beoordeeld en hoeven niet in samenhang te worden bekeken.
 
-Ook wordt ten aanzien van de definitie van de markthuur aangesloten bij de IVS en de EVS. De definitie voor markthuur luidt:
+Als de corporatie over 2015 reeds op marktwaarde (RJ 213) heeft gewaardeerd dan mag er in de waardering van 2016 volstaan worden met een taxatie update. Dit kan zijn op de hele portefeuille (als bijvoorbeeld over 2014 of 2015 de volledige portefeuille getaxeerd is), of over het eenderde steeds wisselende deel van de portefeuille (zoals in variant 2). Voor de taxatie over verslagjaar 2016 moet dan echter wel de aanvulling met kadastraal- en milieuonderzoek (danwel verklaring van de corporatie hieromtrent) worden opgenomen.
 
-### 3.4. Waarderingsmethodiek
+### 2.6. Groeipad gebruiksoppervlakte (GBO)
 
-Er bestaan verschillende mogelijkheden om de waardering van vastgoed uit te voeren. Zoals gebruikelijk is in de woningsector3Zie onder meer RJ213. van de Raad voor de Jaarverslaglegging., volgt dit handboek de inkomstenbenadering, en meer specifiek de netto contante waarde methode, de DCF-methode. Ook ten aanzien van deze methode volgt het handboek de internationale definities.4IVSC; Discounted Cash Flow. Technical Information Paper 1, 2012. Via de DCF-methode worden de toekomstige inkomende en uitgaande kasstromen contant gemaakt naar het heden aan de hand van een discontovoet, inclusief de eindwaarde die de geschatte opbrengstwaarde is van het vastgoed aan het einde van de DCF-periode. Hierbij wordt verondersteld dat de jaarbedragen medio het jaar ontvangen, resp. betaald worden. De berekening van de netto contante marktwaarde wordt bij alle typen vastgoed uitgevoerd voor een exploitatieperiode van 15 jaar.
+Het einddoel is dat de toegelaten instelling in 2019 voor elke woning moet beschikken over de gebruiksoppervlakte vastgesteld conform de NEN 2580 meetinstructie. Naast de meting van de woning zélf mag ook gebruik gemaakt worden van de meetgegevens van een identieke woning, al dan niet uit hetzelfde waarderingscomplex. Verder geldt dat ook de metingen in het kader van energieprestaties mogen worden toegepast.
 
 ### 3.5. Waarderingscomplex
 
-Om te komen tot een marktwaardewaardering van het vastgoed, wordt het gehele bezit, dat wil zeggen alle verhuureenheden van de toegelaten instelling, opgedeeld in waarderingscomplexen. Een waarderingscomplex is een samenstel van verhuureenheden, dat in principe bestaat uit vergelijkbare verhuureenheden voor wat betreft type vastgoed, bouwperiode en locatie, en dat als één geheel aan een derde partij in verhuurde staat kan worden verkocht. Een waarderingscomplex kan daarom worden gedefinieerd als een aaneengesloten blok verhuureenheden van dezelfde bouwperiode. Alle verhuureenheden van de toegelaten instelling maken deel uit van een waarderingscomplex of zijn een afzonderlijk waarderingscomplex.
+Het inmeten van de woning mag door een (tijdelijke) medewerker van de corporatie gebeuren of door een daarvoor ingehuurde externe partij, zolang de NEN 2580 meetinstructie wordt gebruikt. Deze is ook toegepast bij de inmeting voor de energieprestatie met een energielabel verstrekt vóór 1 januari 2015, of met de bepaling van de energie-index verstrekt op of na 1 januari 2015.
 
 ### 4.1. Prijsinflatie
 
-Het kan voorkomen dat een waarderingscomplex bestaat uit DAEB en niet-DAEB vastgoed. In dat geval dient, nadat de waarde van het waarderingscomplex is bepaald, de waarde opgesplitst te worden in een deel dat aan het DAEB vastgoed, resp. aan het niet-DAEB deel kan worden toegerekend.
+De gebruiksvloeroppervlakte bedoeld in dit waarderingshandboek betreft uitsluitend de gebruiksvloeroppervlakte van het gebouw. Dit betekent een optelling van de gebruiksoppervlakte wonen en gebruiksoppervlakte overige inpandige ruimte.
 
-In het uitpondscenario wordt verondersteld dat verhuureenheden bij mutatie leeg worden verkocht. In tegenstelling tot het doorexploiteerscenario wordt de huur voor deze verhuureenheden niet opgetrokken, maar wordt daarvoor in de plaats een verkoopkasstroom opgenomen. Na de 15-jarige DCF-periode wordt de eindwaarde van de nog niet verkochte verhuureenheden bepaald. De kasstromen en de eindwaarde worden contant gemaakt en vervolgens opgeteld om tot de waarde in het uitpondscenario te komen.
+In het geval van kantoortransformatie zal een WOZ-beschikking zijn afgegeven voor het oorspronkelijke kantoor maar niet voor de nieuwe verhuureenheid, zoals de (nieuwe) woning. In dit geval moet worden gehanteerd:
 
 ### 4.3. Bouwkostenstijging
 
-Voor verhuureenheden buiten de Nederlandse landsgrenzen geldt dat de waardering dient plaats te vinden met inschakeling van een externe taxateur. De reden hiervoor is dat het handboek betrekking heeft op de Nederlandse situatie en niet op vastgoed in het buitenland.
+Zoals eerder vermeld wordt de rekenkundige uitwerking in dit handboek nader gepreciseerd. De reden hiervoor is dat uit het validatieonderzoek blijkt dat de uitkomsten van reken- en/of software modellen onderling verschillen, de verdere preciseringen hebben als doel deze verschillen te minimaliseren.
 
 ### 4. Macro-economische parameters
 
 ### 4.1. Prijsinflatie
 
-### 4.3. Bouwkostenstijging
+### 2.9. Jaarlijkse actualisatie
 
-De bouwkostenstijging vormt het uitgangspunt voor de stijging van de onderhoudskosten, de verkoopkosten en de verouderingskosten.
+Om te borgen dat het waarderingshandboek in de toekomst blijft leiden tot een waardering van de marktwaarde, wordt het handboek jaarlijks geactualiseerd. Deze actualisatie omvat een jaarlijkse aanpassing van de normen en parameters in het handboek.
 
 ### 5.2. Modelparameters
 
 Voor 2015 en 2016 wordt aangesloten bij de meest recente prognose van het CPB.6Idem. Voor het restant van de prognoseperiode wordt aangesloten bij de reële groei van de lonen in het verleden, die gemiddeld ongeveer 0,5% boven inflatie was. Dit sluit ook aan bij voorspellingen van het CPB en de ECB voor de arbeidsproductiviteitsgroei. De loonstijging vanaf 2017 is daarmee gelijk aan de prijsinflatie plus 0,5%.
 
-### 4.3. Bouwkostenstijging
+### 3.1. Doel van de waardering
 
-De bouwkostenstijging vormt het uitgangspunt voor de stijging van de onderhoudskosten, de verkoopkosten en de verouderingskosten.
+Het waarderingsprotocol van dit handboek heeft tot doel een waardering van het vastgoed op basis van marktwaarde op te leveren ten behoeve van de jaarrekening van toegelaten instellingen. Op deelportefeuilleniveau, onderscheiden naar DAEB en niet-DAEB, dient de waardering een goed beeld van de marktwaarde van het vastgoed op te leveren. Dit impliceert dat de waardering op complexniveau gemiddeld genomen wél een goed beeld geeft, maar dat er complexen zijn met een te hoge en complexen met een te lage waardering. De waarden zoals die voortvloeien uit de basisversie zijn daarom niet geschikt binnen de vastgoedsturing.
 
 ### 4.4. Leegwaardestijging
 
 De markthuur is de (kale) huurprijs per maand van een verhuureenheid die, uitgaande van optimale marketing en verhuur, kan worden gerealiseerd op de waardepeildatum 31 december 2015. In het doorexploiteerscenario wordt de markthuur gebruikt voor het bepalen van de nieuwe huur nadat een woning is gemuteerd. In het uitpondscenario speelt de markthuur een rol als sprake is van juridische beklemmingen. Door deze beklemmingen kan het voorkomen dat slechts een deel van de verhuureenheden in een complex mag worden verkocht. Indien dit deel is bereikt, mag vanaf dat moment niet meer worden verkocht in het uitpondscenario, maar zal bij mutatie sprake zijn van wederverhuur. In dat geval is de markthuur van belang bij het bepalen van de nieuwe huur na mutatie. Voorts dient bij leegstand ook de markthuur genomen te worden, in plaats van de contracthuur.
 
-Bij de schatting is gebruik gemaakt van een referentiewoning. De keuze voor de referentiewoning heeft geen invloed op de hoogte van de markthuur van de andere woningen. Onderstaande tabel geeft de kenmerken van de referentiewoning weer.
+Voor elk van de verschillende typen vastgoed wordt gebruik gemaakt van een eigen waarderingsmodel. In de bijlage zijn de definities en een overzicht van de verhuureenheden per type opgenomen.
 
-### 5.2. Modelparameters
+### 3.3. Marktwaarde en markthuur
 
-Met de modelparameters vindt de modelmatige waardering van de verhuureenheden in de waarderingscomplexen plaats, waarbij gebruik wordt gemaakt van de hierboven aangegeven objectgegevens. Het betreft hier de modelparameters voor de basisversie. In hoofdstuk 9 worden de vrijheidsgraden beschreven waar in de full versie gebruik van kan worden gemaakt om af te wijken van de basisversie.
+Ten aanzien van de verschillende waardebegrippen sluit dit handboek aan bij internationale richtlijnen, zoals die zijn vastgelegd door middel van de International Valuation Standards (IVS) en de European Valuation Standards (EVS). De definitie van marktwaarde is:
 
 ### 5.2.1. Leegwaarde
 
-De leegwaarde wordt gelijk gesteld aan de geïndexeerde WOZ-waarde. Hierbij wordt aangenomen dat de beschikbare WOZ-beschikking betrekking heeft op de waardepeildatum 1 januari 2014. De WOZ-waarde van de WOZ-beschikking dient dan te worden geïndexeerd met de leegwaardestijging van 2014 en 2015 om een leegwaarde te krijgen met peildatum 31 december 2015. Indien de WOZ-beschikking met waardepeildatum 1 januari 2014 nog niet beschikbaar is, dan wel de WOZ-beschikking met waardepeildatum 1 januari 2015 al beschikbaar is, dient deze waarde te worden aangepast zodanig dat de WOZ-waarde als objectgegeven de waardepeildatum 1 januari 2014 heeft.
+‘Het geschatte huurbedrag waarvoor het object op de waardepeildatum na behoorlijke marketing, onder de voorwaarden van de huurovereenkomst in een marktconforme transactie zou worden verhuurd door een bereidwillige verhuurder en een bereidwillige huurder, waarbij elk der partijen zou hebben gehandeld met kennis van zaken, prudent en niet onder dwang’3Praktijkhandreiking Nederlandse Vastgoedtaxaties Commercieel Vastgoed, p. 20
 
-De markthuur is de (kale) huurprijs per maand van een verhuureenheid die, uitgaande van optimale marketing en verhuur, kan worden gerealiseerd op de waardepeildatum 31 december 2015. In het doorexploiteerscenario wordt de markthuur gebruikt voor het bepalen van de nieuwe huur nadat een woning is gemuteerd. In het uitpondscenario speelt de markthuur een rol als sprake is van juridische beklemmingen. Door deze beklemmingen kan het voorkomen dat slechts een deel van de verhuureenheden in een complex mag worden verkocht. Indien dit deel is bereikt, mag vanaf dat moment niet meer worden verkocht in het uitpondscenario, maar zal bij mutatie sprake zijn van wederverhuur. In dat geval is de markthuur van belang bij het bepalen van de nieuwe huur na mutatie. Voorts dient bij leegstand ook de markthuur genomen te worden, in plaats van de contracthuur.
+Er bestaan verschillende mogelijkheden om de waardering van vastgoed uit te voeren. Zoals gebruikelijk is in de woningsector4Zie onder meer RJ213. van de Raad voor de Jaarverslaglegging., volgt dit handboek de inkomstenbenadering, en meer specifiek de netto contante waarde methode, ookwel de DCF-methode genoemd. Via de DCF-methode worden de toekomstige inkomende en uitgaande kasstromen contant gemaakt naar het heden aan de hand van een discontovoet, inclusief de eindwaarde die de geschatte opbrengstwaarde is van het vastgoed aan het einde van de DCF-periode. Het handboek volgt voor de toepassing van deze methode de internationale definities.5IVSC; Discounted Cash Flow. Technical Information Paper 1, 2012. Hierbij wordt verondersteld dat de jaarbedragen medio het jaar ontvangen en betaald worden. Bij zowel het indexeren als het verdisconteren dient dit principe gehanteerd te worden.
 
 De markthuur voor deze referentiewoning bedraagt op jaarbasis 6,18% van de leegwaarde. Onderstaande tabellen geven de afzonderlijke effecten op het markthuurpercentage weer van elk van de onderscheiden kenmerken. Om te komen tot de markthuur van de overige woningen, anders dan de referentiewoning, worden de afzonderlijke effecten opgeteld bij of afgetrokken van het markthuurpercentage van de referentiewoning. Daarbij wordt een bovengrens van het markthuurpercentage van 10% en een ondergrens van 3,25% gehanteerd.
 
-Het instandhoudingsonderhoud is het onderhoud dat gedurende de 15-jarige DCF-periode nodig is om een verhuurbare eenheid in dezelfde technische en bouwkundige staat te houden, als waarin het zich op de waardepeildatum bevindt. Het gaat hierbij niet om investeringen die leiden tot een verbetering van de kwaliteit van de verhuureenheid. Het instandhoudingsonderhoud leidt ook niet tot een hogere huur.
+Het handboek schrijft met ingang van verslagjaar 2017 medio disconteren voor. In 2016 is deze manier van disconteren een aanbeveling.
 
-De bedragen voor het instandhoudingsonderhoud zijn ontleend aan waarderingsgegevens van de toegelaten instellingen die op marktwaarde hebben gewaardeerd, en zijn weergegeven in onderstaande tabel. De bedragen zijn per jaar, inclusief 21% BTW.
+De andere uitzonderingen betreffen kosten die aan het begin van de exploitatieperiode vallen zoals achterstallig onderhoud, afkoopsom en suppletie erfpacht en eventuele transactiekosten. Omdat deze kasstromen aan het begin van de exploitatieperiode vallen, moeten deze kasstromen niet verder verdisconteerd worden.
 
-Het instandhoudingsonderhoud is het onderhoud dat gedurende de 15-jarige DCF-periode nodig is om een verhuurbare eenheid in dezelfde technische en bouwkundige staat te houden, als waarin het zich op de waardepeildatum bevindt. Het gaat hierbij niet om investeringen die leiden tot een verbetering van de kwaliteit van de verhuureenheid. Het instandhoudingsonderhoud leidt ook niet tot een hogere huur.
+Via indexeren wordt de nominale waarde van een kasstroom, of een grondslag als de WOZ-waarde, in het jaar (t) bepaald door op de reële waarde (de waarde op een prijspeil) een index toe te passen. Dit principe is in essentie eenvoudig maar vraagt om enige precisering.
 
-Achterstallig onderhoud of onderhoudsgebreken moeten worden betrokken bij de waardering van de woongelegenheden. Het gaat dan met name om achterstallig onderhoud en onderhoudsgebreken voor zover deze niet, of niet volledig, zijn meegenomen bij de hoogte van de WOZ-waarde. Onder meer kan dit betrekking hebben op funderingsproblemen en asbest dat moet worden verwijderd. Het gaat hierbij dus niet om instandhoudingsonderhoud, dat bedoeld is om een eenheid in eenzelfde technische en bouwkundige staat te houden.
+In het algemeen gaat het handboek voor kosten en opbrengsten uit van medio jaar indexeren: de nominale waarde van een kasstroom in een jaar is de totale kasstroom over dat jaar op prijspeil medio jaar. Een manier om de hoogte van een kasstroom medio jaar te bepalen is eerst de waarde primo te bepalen, vervolgens de waarde ultimo te bepalen en van die twee uitkomsten het gemiddelde te bepalen.
 
 ### 5.2.5. Huurstijging
 
-Bij de huurstijging wordt onderscheid gemaakt tussen de jaarlijkse huurverhoging en de huuraanpassing bij mutatie. De jaarlijkse huurverhoging is van toepassing op de contracthuur, de markthuur en de maximale huur. In de basisversie worden deze drie huurniveaus geïndexeerd met de prijsinflatie van het voorafgaande jaar. Daarnaast is er de komende jaren sprake van een jaarlijkse boveninflatoire opslag op de huurverhoging.
+Stel dat de complexgrootte echter slechts 5 is, dan muteert bij een mutatiegraad van 5% elk jaar slechts 0,25 woning. Bij het optellen van de woningfracties muteert pas na vier jaar de woning (4 x 0,25 = 1).
 
 ### 5.2.10. Verkoopkosten
 
-### 5.2.11. Erfpacht
+### 3.4.4. Lineair versus exponentieel uitponden en muteren.
 
 ### 5.2.12. Disconteringsvoet
 
@@ -1665,25 +1665,25 @@ De verkoopkosten zijn de kosten die worden gemaakt voor de verkoop van de verhuu
 
 ### 5.2.13. Eindwaarde
 
-De disconteringsvoet wordt opgebouwd uit de volgende drie onderdelen:
+Na de 15-jarige DCF-periode wordt de eindwaarde van de nog niet verkochte verhuureenheden bepaald. De kasstromen en de eindwaarde worden contant gemaakt en vervolgens opgeteld om tot de waarde in het uitpondscenario te komen.
 
-De vastgoed sectorspecifieke opslag is een vastgoedsector gebonden risico-opslag, welke dient ter compensatie voor het extra risico dat wordt gelopen voor het investeren in vastgoed, ten opzichte van de risicovrije rente. Het percentage voor de vastgoedsector specifieke opslag is ontleend aan waarderingsgegevens van toegelaten instellingen.
+Bij toepassing van de full versie kan een uitzondering worden gemaakt op het hanteren van zowel een doorexploiteer- als een uitpondscenario, indien op basis van een marktanalyse wordt aangetoond dat één van beide scenario’s niet realistisch is in de markt. Hiervoor kan bijvoorbeeld gedacht worden aan woningen in krimp- en aardbevingsgebieden, studentenwoningen en extramurale zorgwoningen.
 
-### 5.2.14. Overdrachtskosten
+### 3.7. Verhuureenheden in exploitatie buiten de landsgrenzen
 
-De opslagen voor het markt- en objectrisico zijn gecombineerd. Deze gecombineerde opslag is afhankelijk gesteld van drie kenmerken van de verhuureenheden:
+Voor verhuureenheden buiten de Nederlandse landsgrenzen geldt dat de waardering dient plaats te vinden met inschakeling van een externe taxateur. De reden hiervoor is dat het handboek betrekking heeft op de Nederlandse situatie en niet op vastgoed in het buitenland.
 
-### 5.2.15. Overige punten
+### 4. MACRO-ECONOMISCHE PARAMETERS
 
 Om tot de disconteringsvoet van de afzonderlijke verhuureenheden te komen, wordt gebruik gemaakt van het referentieobject. De onderstaande tabellen geven de op- en afslagen ten opzichte van het referentieobject weer bij elk van de onderscheiden kenmerken. Door per verhuurbare eenheid de kenmerken te bepalen en vervolgens de relevante op- en afslagen op te tellen bij, respectievelijk af te trekken van de totale disconteringsvoet van het referentieobject, ontstaat de disconteringsvoet van de overige verhuureenheden.
 
 ### 5.2.13. Eindwaarde
 
-De eindwaarde is de marktwaarde van het waarderingscomplex aan het einde van het 15e jaar. Deze waarde is gelijk aan de contante waarde van de verwachte kasstromen die vanaf het 16e exploitatiejaar worden verwacht. Deze eindwaarde wordt vervolgens contant gemaakt met de gehanteerde disconteringsvoet naar de waardepeildatum en is zo onderdeel van de marktwaarde.
+Voor jaren 2016 en 2017 wordt aangesloten bij de meest recente prognose van het Centraal Planbureau (CPB)6Centraal Planbureau, Macro-economische verkenning 2017, p. 61, september 2016. Voor het restant van de prognoseperiode wordt aangesloten bij de lange termijn verwachting, conform het (maximale) streven van de Europese Centrale Bank (ECB).
 
-### 5.2.14. Overdrachtskosten
+### 4.2. Loonstijging
 
-Bij de berekening van de eindwaarde in het doorexploiteerscenario wordt vanaf het 16e jaar wederom verondersteld dat sprake is van doorexploiteren met een voortdurende looptijd10Een resterende looptijd van 50 jaar is ook mogelijk. Het verschil in de uitkomst met een voortdurende looptijd is verwaarloosbaar. De eindwaarde met een voortdurende looptijd is wiskundig gemakkelijker te bepalen.. Alle afzonderlijke kasstromen ontwikkelen zich met de eigen groeivoet. Voor de onderhoudskosten bijvoorbeeld is de groeivoet gelijk aan stijging van de bouwkostenindex. Bij huurdersmutatie wordt, waar dat aan de orde is, de huur opgetrokken naar de markthuur of de maximale huur volgens het woningwaarderingsstelsel. Voor woningen met een huur onder de liberalisatiegrens blijft de verhuurderheffing van toepassing op basis van het vanaf 2017 gehanteerde percentage van de WOZ-waarde. Voorts wordt rekening gehouden met veroudering. In de praktijk wordt via een renovatie functionele veroudering ongedaan gemaakt. De kosten die hiermee gemoeid zijn, worden benaderd door vanaf het 16e jaar de kosten voor instandhoudingsonderhoud met 100% te verhogen. De bedragen die zo worden ingerekend corresponderen met een eenmalige renovatie. De eindwaarde aan het eind van het 15e jaar is gelijk aan al deze kasstromen, contant gemaakt met de gehanteerde disconteringsvoet.
+De loonstijging vormt het uitgangspunt voor de stijging van de beheerkosten, exclusief de zakelijke lasten. Voor de jaren 2016 en 2017 wordt aangesloten bij de meest recente prognose van het CPB.7Idem. Voor het restant van de prognoseperiode wordt aangesloten bij de reële groei van de lonen in het verleden, die gemiddeld ongeveer 0,5% boven inflatie was. Dit sluit ook aan bij voorspellingen van het CPB en de ECB voor de arbeidsproductiviteitsgroei. De loonstijging vanaf 2018 is daarmee gelijk aan de prijsinflatie plus 0,5%.
 
 ### 5.2.16. Nadere toetsing
 
@@ -1691,21 +1691,21 @@ De modelmatige bepaalde marktwaarde van een complex ligt ten opzichte van de ge�
 
 ### 6. Bedrijfsmatig en maatschappelijk onroerend goed
 
-Bij studenteneenheden en extramurale zorgeenheden wordt verondersteld dat deze zich in complexen bevinden die niet worden uitgepond. Dit impliceert dat voor deze verhuureenheden alleen het doorexploiteerscenario van toepassing is.
+De objectgegevens zijn specifieke gegevens die op het niveau van de verhuureenheid beschikbaar dienen te zijn. Deze gegevens komen uit de basisadministratie van de toegelaten instelling.
 
 ### 5.2.16. Nadere toetsing
 
-In dit hoofdstuk worden de te hanteren gegevens en de uitgangspunten voor de waardebepaling van bedrijfsmatig (BOG) en maatschappelijk (MOG) onroerend goed uiteengezet. Voor de waardebepaling is het belangrijk om onderscheid te maken tussen de **objectgegevens** en de **modelparameters**. De objectgegevens zijn specifieke gegevens van de toegelaten instelling die op het niveau van het verhuurcontract beschikbaar dienen te zijn. Deze gegevens komen uit de basisadministratie van de toegelaten instelling. Naast de objectgegevens wordt gebruik gemaakt van de modelparameters. De modelparameters zijn die gegevens die noodzakelijk zijn voor de berekening van de marktwaarde. Over deze waarden geeft dit handboek uitsluitsel.
+Bij studenteneenheden en extramurale zorgeenheden is het feit of een eenheid zelfstandig of onzelfstandig is van grote invloed op de waarde. Deze typering vraagt daarom extra aandacht bij uitwerking van de gegevens voor een waardering.
 
-### 6.1. Objectgegevens
+### 5.2. Modelparameters
 
-Bij verlenging van het huidige contract geldt dat op basis van de herzieningshuur, de nieuwe huur wordt opgenomen.
+De leegwaarde wordt gelijk gesteld aan de geïndexeerde WOZ-waarde. Hierbij wordt aangenomen dat de beschikbare WOZ-beschikking in 2016 is afgegeven en daarmee betrekking heeft op de waardepeildatum 1 januari 2015. De WOZ-waarde van de WOZ-beschikking dient dan te worden geïndexeerd met de leegwaardestijging van 2015 en 2016 om een leegwaarde te krijgen met peildatum 31 december 2016. Indien de WOZ-beschikking met waardepeildatum 1 januari 2015 nog niet beschikbaar is, dan wel de WOZ-beschikking met waardepeildatum 1 januari 2016 al beschikbaar is, dient deze waarde te worden aangepast zodanig dat de WOZ-waarde als objectgegeven de waardepeildatum 1 januari 2015 heeft.
 
-De huurinkomsten worden bepaald op basis van de gegevens van de huidige huurcontracten. De huidige contracthuur wordt tot de einddatum opgenomen en op het moment van de einddatum zijn er twee mogelijkheden:
+De grondslag voor het bepalen van de verhuurderheffing in 2019 is de WOZ-beschikking 2019 en daarmee de WOZ-waarde op peildatum 1 januari 2018 oftewel primo 2018. Omdat de grondslag primo kalenderjaar is vormt de grondslag een uitzondering op de regel van medio indexeren. De grondslag wordt primo bepaald.
 
-De jaarlijkse stijging van de markthuur en de contracthuur is gelijk aan de prijsinflatie van het voorafgaande jaar.
+In het uitpondscenario zijn de bruto inkomsten uit verkoop gelijk aan de leegwaarde. Volgens het algemene principe vallen kasstromen, en dus ook verkoop, midden in een kalenderjaar. De leegwaarde is dus de leegwaarde medio jaar.
 
-De exploitatiekosten bestaan uit de onderhoudskosten, onderscheiden naar instandhoudings-onderhoud, achterstallig onderhoud en mutatieonderhoud. Verder zijn er kosten voor beheer, belastingen, verzekeringen en overige zakelijke lasten. Deze kostensoorten worden hierna nader toegelicht.
+Stel: u moet de leegwaarde in het kalenderjaar 2018 bepalen. Net als in het vorige voorbeeld beschikt u over een WOZ-beschikking 2016 met daarin een peildatum primo 2015 van € 100.000. Gegeven de indexen in het bovenstaande voorbeeld is de leegwaarde primo 2018 gelijk aan € 109.262. Stel de index in 2018 is 2%, dan is de leegwaarde ultimo 2018 gelijk aan € 111.448. De gezochte leegwaarde medio is het gemiddelde van de leegwaarde primo en ultimo (€ 109.262 + € 111.448)/2 is € 110.335. (Oftwel: 109.262 * 1,020,5)
 
 Mutatieonderhoud doet zich voor bij opzegging van de huurovereenkomst. Bij het mutatieonderhoud wordt onderscheid gemaakt tussen technisch mutatiekosten en de kosten voor marketing.
 
@@ -1713,11 +1713,11 @@ Mutatieonderhoud doet zich voor bij opzegging van de huurovereenkomst. Bij het m
 
 ### 6.2.5. Disconteringsvoet
 
-Onder belastingen en overige zakelijke lasten vallen de gemeentelijke OZB, de rioolheffing en de verontreinigingsheffing, als ook de waterschapsbelasting. Deze belastingen en heffingen verschillen per gemeente en waterschap. Daarnaast zijn er kosten voor de verzekeringen.
+Voor studenteenheden en extramurale zorgeenheden zijn onvoldoende gegevens beschikbaar om een markthuur op te baseren. Aansluitend bij de praktijk, is daarom de markthuur voor studenteneenheden en extramurale zorgeenheden gelijk gesteld aan de maximale huur volgens het woningwaarderingstelsel. Voor studenteenheden geldt de kwaliteitskorting grens daarbij als maximum. Dit huurniveau is ook van toepassing bij een leegstaande eenheid.
 
-### 6.2.6. Eindwaarde
+### 5.2.4.1. Instandhoudingsonderhoud
 
-In sommige gevallen zal sprake zijn van een afkoopsom omdat bij verkoop aan een belegger sprake is van een bestemmingswijziging van sector van toegelaten instellingen naar beleggersector. Deze afkoopsom dient dan in de DCF-berekening meegenomen te worden.
+De hoogte van de kosten voor het instandhoudingsonderhoud is afhankelijk van twee kenmerken van de verhuureenheid:
 
 ### 6.2.5. Disconteringsvoet
 
@@ -1725,11 +1725,11 @@ De disconteringsvoet is de marktconforme rendementseis waartegen de verwachte to
 
 ### 6.2.8. Overige punten
 
-De vastgoed sectorspecifieke opslag is een vastgoedsector gebonden risico-opslag, welke dient ter compensatie voor het extra risico dat wordt gelopen voor het investeren in vastgoed, ten opzichte van de risicovrije rente. Het percentage voor de vastgoedsector specifieke opslag is ontleend aan waarderingsgegevens van toegelaten instellingen en komt overeen met de vastgoedsector specifieke opslag van woongelegenheden.
+verhuureenheid. De bedragen voor het mutatieonderhoud zijn ontleend aan de waarderingsgegevens van de toegelaten instellingen, die op marktwaarde hebben gewaardeerd, en zijn weergegeven in de onderstaande tabel. Daarbij geldt dat de bedragen per mutatie gelden. De bedragen zijn inclusief 21% BTW.
 
-### 6.2.9. Nadere toetsing
+### 5.2.4.3. Achterstallig onderhoud
 
-De totale disconteringsvoet voor het referentie-object bedraagt 9,34%. Aangezien de risicovrije rentevoet en de vastgoedsector specifieke opslag samen op 6,66% uitkomen, kan afgeleid worden dat bij het referentieobject de opslag voor het markt- en objectrisico 2,68% bedraagt.
+Achterstallig onderhoud of onderhoudsgebreken moeten worden betrokken bij de waardering van de woongelegenheden. Achterstallig onderhoud zijn kosten die het gevolg zijn van onvoldoende onderhoud of van externe omstandigheden (dalende grondwaterstand, aardbevingen) die een direct gevaar vormen voor de elementaire gebouwprestaties en voor het op lange termijn doorexploiteren van de huurwoning. Dit kan onder meer betrekking hebben op funderingsproblemen en asbest dat moet worden verwijderd. Het gaat hierbij dus niet om instandhoudingsonderhoud, dat bedoeld is om een eenheid in eenzelfde technische en bouwkundige staat te houden.
 
 ### 6.2.7. Overdrachtskosten
 
@@ -1737,119 +1737,119 @@ De overdrachtskosten zijn de overdrachtsbelasting en de overige aankoopkosten be
 
 ### 6.2.9. Nadere toetsing
 
-De modelmatige bepaalde marktwaarde van een complex ligt ten opzichte van de geïndexeerde WOZ-waarde over het algemeen binnen een bandbreedte van 50 en 125%. Indien dit niet het geval is, is een nadere beoordeling van de gebruikte objectgegevens nodig om te bezien of deze juist zijn. Indien de gebruikte objectgegevens juist blijken te zijn, behoeft de marktwaarde niet te worden aangepast.
+Toegelaten instellingen kunnen voor de gemeentelijke OZB gebruik maken van de gepubliceerde gemeentelijke tarieven 20169https://www.coelo.nl/images/Gemeentelijke_belastingen_2016.xlsx. De gemeentelijke OZB wordt als een percentage van de WOZ-waarde weergegeven.
 
 ### 7. Parkeergelegenheden
 
-Voor het bepalen van de marktwaarde in verhuurde staat van parkeerplaatsen en garageboxen wordt ten opzichte van de waardering van woongelegenheden een sterk vereenvoudigd rekenmodel gebruikt. Onder meer wordt naast een doorexploiteerscenario gewerkt met een apart uitpondscenario dat specifiek is toegespitst op parkeergelegenheden.
+Op grond van de huidige wet dient de verhuurderheffing voor de volledige DCF-periode te worden opgenomen. De heffing wordt berekend als een percentage van de WOZ-waarde. De verhuurderheffing 2016 gaat uit van de WOZ-beschikking 2016; deze heeft in beginsel waardepeildatum 1 januari 2015. Voor de verhuurderheffing 2017 en volgende wordt deze WOZ-waarde jaarlijks geïndexeerd met de leegwaardestijging.
 
 ### 7.1. Objectgegevens
 
-De volgende tabel bevat een overzicht van de specifieke objectgegevens voor parkeergelegenheden van de toegelaten instelling.
+Toelichting uitwerking exploitatiekosten:
 
 ### 7.2.4. Exploitatiekosten
 
-De leegwaarde wordt gelijk gesteld aan de geïndexeerde WOZ-waarde. Hierbij wordt aangenomen dat de beschikbare WOZ-beschikking betrekking heeft op de waardepeildatum 1 januari 2014. De WOZ-waarde van de WOZ-beschikking dient dan te worden geïndexeerd met de leegwaardestijging van 2014 en 2015 om een leegwaarde te krijgen met peildatum 31 december 2015. Indien de WOZ-beschikking met waardepeildatum 1 januari 2014 nog niet beschikbaar is, dan wel de WOZ-beschikking met waardepeildatum 1 januari 2015 al beschikbaar is, dient deze waarde te worden aangepast zodanig dat de WOZ-waarde als objectgegeven de waardepeildatum 1 januari 2014 heeft.
+Toegepast op bovenstaand voorbeeld zijn de kosten instandhouding in 2017 gelijk aan 100% van € 800 plus 95% van € 816 gedeeld door 2. In formule is dat (100% * € 800 + 95% * € 816)/2 is € 788.
 
-De leegwaarde is de geschatte verkoopprijs op basis van de kosten koper, vrij van huur en overige lasten. De leegwaarde wordt als opbrengst in het uitpondscenario opgenomen, zodra de mogelijkheid tot de verkoop van een verhuureenheid zich voordoet.
+Bij de huurstijging wordt onderscheid gemaakt tussen de jaarlijkse huurverhoging en de huuraanpassing bij mutatie. De jaarlijkse huurverhoging is van toepassing op de contracthuur, de markthuur en de maximale huur. In de basisversie worden deze drie huurniveaus geïndexeerd met de prijsinflatie. Daarnaast is er de komende jaren sprake van een jaarlijkse boveninflatoire opslag op de huurverhoging.
 
-De jaarlijkse stijging van de markthuur en de contracthuur is gelijk aan de prijsinflatie van het voorafgaande jaar.
+De jaarlijkse boveninflatoire huurverhoging, geldt alleen voor de contracthuur van gereguleerde zelfstandige verhuureenheden. De hoogte van de opslag boven de prijsinflatie is afhankelijk van overheidsbeleid dat kan wijzigen, en de verwachtingen daarover in de markt. Hierbij is verondersteld dat de kopende belegger de mogelijkheden die het rijksbeleid biedt voor huuraanpassingen, wel zal benutten, maar met coulance voor de huurders door de maximale toegestane huurverhoging met 0,5%-punt te verlagen. Bij het toepassen van de boveninflatoire huurverhoging geldt de randvoorwaarde dat de huur niet boven de markthuur of de maximale huur uitkomt.
 
 ### 7.2.4. Exploitatiekosten
 
-Het instandhoudingsonderhoud is het onderhoud dat gedurende de DCF-periode nodig is om een verhuurbare eenheid in dezelfde technische en bouwkundige staat te houden, als waarin het zich op het moment van waarderen bevindt. Het gaat hierbij niet om investeringen die leiden tot een verbetering van de kwaliteit van de verhuureenheid. Het instandhoudingsonderhoud leidt ook niet tot een hogere huur.
+In het doorexploiteerscenario gaat de huur van woongelegenheden bij mutatie naar de markthuur of de maximale huur volgens het woningwaarderingsstelsel, afhankelijk of de woongelegenheid bij mutatie is te liberaliseren. Hierbij is het volgende het geval:
 
-### 7.2.6. Verkoopkosten
+### 5.2.7. Huurderving oninbaar
 
-Het instandhoudingsonderhoud is het onderhoud dat gedurende de DCF-periode nodig is om een verhuurbare eenheid in dezelfde technische en bouwkundige staat te houden, als waarin het zich op het moment van waarderen bevindt. Het gaat hierbij niet om investeringen die leiden tot een verbetering van de kwaliteit van de verhuureenheid. Het instandhoudingsonderhoud leidt ook niet tot een hogere huur.
+Onder huurderving oninbaar vallen de huur en andere kosten die door wanbetaling, tijdelijke leegstand, oninbare servicekosten, doorlopende servicekosten tijdens leegstand ten laste van eigenaar of anderszins niet zijn te incasseren. Structurele leegstand wordt hierin niet opgenomen. De huurderving wordt opgenomen als een vast **percentage van 1,0%** over de huursom voor de gehele DCF-periode. Dit percentage is ontleend aan de waarderingsgegevens van toegelaten instellingen.
 
 ### 7.2.7. Erfpacht
 
-### 7.2.6. Verkoopkosten
+### 5.2.9. Mutatiekans
 
 Technische splitsingskosten zijn de uitgaven die worden gemaakt ten behoeve van de nadere voorwaarden, die voortvloeien uit de afgegeven splitsingsvergunning door de gemeente. Het gaat hierbij niet om onderhoudskosten, maar om de aanvullende eisen die in het kader van de splitsing dienen te worden gerealiseerd.
 
-Er wordt geen onderscheid gemaakt naar type parkeervoorziening.
+Hieruit volgt de mutatiekans van het waarderingscomplex: 12/500 oftewel 2,40%
 
-In sommige gevallen zal sprake zijn van een afkoopsom omdat bij verkoop aan een belegger sprake is van een bestemmingswijziging van sector van toegelaten instellingen naar beleggersector. Deze afkoopsom dient dan in de DCF-berekening meegenomen te worden.
+Voor zowel de mutatiekans bij doorexploiteren, als de mutatiekans bij uitponden wordt een minimale mutatiekans van 2% gehanteerd voor alle typen verhuureenheden. Voor de maximale mutatiekans wordt een uitsplitsing naar type verhuureenheid gemaakt: EGW, MGW en zorgeenheid (extramuraal) kennen een maximale mutatiegraad van 50%. Studenteneenheden kennen een maximale mutatiegraad van 100%. Indien een mutatiegraad in een complex boven de maximale mutatiegraad komt te liggen, dan geldt dat de mutatiegraad gelijk wordt gesteld aan het maximum.
 
 ### 7.2.8. Disconteringsvoet
 
-De opslagen voor het markt- en objectrisico zijn gecombineerd. Deze gecombineerde opslag is afhankelijk gesteld van twee kenmerken van de verhuureenheden:
+Zoals eerder uitgebreid toegelicht in de paragraaf ‘Fractioneel muteren en uitponden’ is de fractionele benadering van uitponden/muteren vanaf verslagjaar 2017 voorschrift en tot dan een aanbeveling.
 
-### 8. Intramuraal zorgvastgoed
+### 5.2.11.1. Bruto huur in doorexploiteerscenario.
 
 ### 8.1. Objectgegevens
 
-De volgende tabel bevat een overzicht van de specifieke objectgegevens voor intramuraal zorgvastgoed van de toegelaten instelling.
+De splitsing van een complex vindt in het uitpondscenario in de praktijk niet plaats op het moment van uitponden van een woning. Die splitsing vindt vooraf plaats. Dat betekent dat alle splitsingskosten genomen en berekend moet worden primo het eerste jaar van de beschouwingsperiode.
 
-Op het moment van de einddatum van het verhuurcontract zijn er twee mogelijkheden:
+Toelichting uitwerking verkoopkosten:
 
-De huurinkomsten worden bepaald op basis van de gegevens van de huidige huurcontracten. De huidige huurcontracten zijn divers en bestaan veelal uit verschillende componenten, onder andere een lineair afschrijvingscomponent en een annuïtair afschrijvingscomponent. Derhalve zijn de contracthuren voor de looptijd van het verhuurcontract vrij invulbaar. Daarbij geldt dat de contracthuur zodanig moet worden opgegeven voor de looptijd van het verhuurcontract, dat elk jaar een correctie kent voor de prijsinflatie van het voorafgaande jaar. Door het grillige verloop van de contracthuren, bestaat de mogelijkheid om voor de gehele looptijd van het verhuurcontract de kale jaarhuur van het verhuurcontract op te geven. Daarbij geldt dat de kale jaarhuur de huur is inclusief de correctie voor de prijsinflatie van het voorafgaande jaar.
+Erfpacht beïnvloedt de waarde van de verhuureenheid. Het effect van de erfpacht op de waarde vloeit voort uit de consequenties die de erfpacht voor de koper heeft. Er zijn in Nederland verschillende vormen van erfpacht. In deze paragraaf worden alleen enkele hoofdlijnen beschreven. **Als de consequenties van de erfpacht voor de waardering te veel afwijken van deze hoofdlijnen, is maatwerk nodig dat op basis van de full versie mogelijk is.**
 
-Bij de verlenging van het huurcontract geldt dat op basis van de herzieningshuur, de nieuwe contracthuur wordt opgenomen.
+Als de erfpacht niet is afgekocht en als sprake is van een jaarlijkse canon, zonder dat bij verkoop aan een belegger of vervolgens bij uitponden aan een particulier een afkoopsom is verschuldigd, is de betreffende canon een doorlopende kasstroom. De contante waarde van deze kasstroom is een correctie op de waarde toepasbaar in de basisversie. Afhankelijk van de erfpachtovereenkomst, dient deze canon wel of niet te worden geïndexeerd.
 
-Het instandhoudingsonderhoud is het onderhoud dat gedurende de 15-jarige DCF-periode nodig is om het contract in dezelfde technische en bouwkundige staat te houden, als waarin het zich op het moment van waarderen bevindt. Het gaat hierbij niet om investeringen die leiden tot een verbetering van de kwaliteit van de verhuureenheid. Het instandhoudingsonderhoud leidt ook niet tot een hogere huur.
+In sommige gevallen zal sprake zijn van een erfpachtsuppletie omdat bij verkoop aan een belegger, sprake is van een bestemmingswijziging van de sector van toegelaten instellingen naar de beleggersector en mogelijk ook van huur naar koop. Deze suppletie dient dan wel in de DCF-berekening meegenomen te worden.
 
 ### 8.2.4. Erfpacht
 
 ### 8.2.5. Disconteringsvoet
 
-Achterstallig onderhoud of onderhoudsgebreken moeten worden betrokken bij de waardering van de verhuureenheden. Het gaat dan met name om achterstallig onderhoud en onderhoudsgebreken voor zover deze niet, of niet volledig, zijn meegenomen bij de hoogte van de WOZ-waarde. Onder meer kan dit betrekking hebben op funderingsproblemen en asbest dat moet worden verwijderd. Het gaat hierbij dus niet om instandhoudingsonderhoud, dat bedoeld is om een eenheid in eenzelfde technische en bouwkundige staat te houden.
+De totale disconteringsvoet voor het referentie-object bedraagt 6,66%. Aangezien de risicovrije rentevoet en de vastgoedsector specifieke opslag samen op 5,96% uitkomen, kan afgeleid worden dat bij het referentieobject de opslag voor het markt- en objectrisico 0,70% bedraagt.
 
-In sommige gevallen zal sprake zijn van een afkoopsom omdat bij verkoop aan een belegger sprake is van een bestemmingswijziging van sector van toegelaten instellingen naar beleggersector. Deze afkoopsom dient dan in de DCF-berekening meegenomen te worden.
+Een resterende looptijd van 50 jaar is ook mogelijk. Het verschil in de uitkomst met een voortdurende looptijd is verwaarloosbaar. De eindwaarde met een voortdurende looptijd is wiskundig gemakkelijker te bepalen. Over verslagjaar 2016 zijn beide benaderingen mogelijk. Vanaf verslagjaar 2017 is de benadering op basis van voortdurende looptijd voorgeschreven.
 
 ### 8.2.5. Disconteringsvoet
 
-De disconteringsvoet is de marktconforme rendementseis waartegen de verwachte toekomstige inkomsten en uitgaven contant worden gemaakt. Voor intramuraal zorgvastgoed geldt dat alleen wordt gewerkt met een doorexploiteerscenario. De disconteringsvoet wordt opgebouwd uit de volgende drie onderdelen:
+Voorts wordt rekening gehouden met veroudering. In de praktijk wordt via een renovatie functionele veroudering ongedaan gemaakt. De kosten die hiermee gemoeid zijn, worden benaderd door vanaf het 16e jaar de kosten voor instandhoudingsonderhoud met 100% te verhogen. De bedragen die zo worden ingerekend corresponderen met een eenmalige renovatie.
 
 ### 8.2.8. Overige punten
 
-De vastgoed sectorspecifieke opslag is een vastgoedsector gebonden risico-opslag, welke dient ter compensatie voor het extra risico dat wordt gelopen voor het investeren in vastgoed, ten opzichte van de risicovrije rente. Het percentage voor de vastgoedsector specifieke opslag is ontleend aan waarderingsgegevens van corporaties en komt overeen met de vastgoedsector specifieke opslag van woongelegenheden.
+N.B. Onderstaande tabel geeft slechts een **indicatie** van de aanpak. Deze aanpak geldt vanaf het verslagjaar 2017. In de volgende actualisatie zal deze tabel definitief worden gemaakt.
 
-Bij intramuraal zorgvastgoed is alleen sprake van een doorexploiteerscenario.
+Deze vergelijking kan geschreven worden als EW = CF15 * K, waarbij K een kapitalisatiefactor is gelijk aan (1 + d)0,5 * (1 + g) / (d – g). (2)
 
 ### 8.2.9. Nadere toetsing
 
-De modelmatige bepaalde marktwaarde van een complex ligt ten opzichte van de geïndexeerde WOZ-waarde over het algemeen binnen een bandbreedte van 50 en 125%. Indien dit niet het geval is, is een nadere beoordeling van de gebruikte objectgegevens nodig om te bezien of deze juist zijn. Indien de gebruikte objectgegevens juist blijken te zijn, behoeft de marktwaarde niet te worden aangepast.
+EW = CF15 * (1 + d)0,5 * (1 – m) * (1 + g) / (d – ((1 – m) * (1 + g) – 1)).
 
 ### 9. Full versie
 
-Naast de basisversie van het waarderingshandboek heeft de toegelaten instelling ook de mogelijkheid om voor verschillende parameters aanpassingen toe te passen. In dat geval wordt voor deze parameters afgeweken van de basisvariant van het waarderingshandboek. In het geval dat de toegelaten instelling ervoor kiest om ten aanzien van één of meer parameters af te wijken van dit handboek, dient de toegelaten instelling een externe taxateur in te schakelen. Een dergelijk waarderingsproces levert in principe een hogere kwaliteit op van de waardering
+Voor al deze drie kasstromen wordt een aparte kapitalisatiefactor berekend. Hierbij maken we de volgende aannames:
 
 ### 9.1. Vrijheidsgraden
 
-In de full versie is het mogelijk om op basis van een toetsing door de externe taxateur tot een aanpassing van de op basis van dit handboek modelmatig vastgestelde waarde van het waarderingscomplex te komen. Een aanpassing van de waarde dient het resultaat te zijn van een aanpassing van de daaraan ten grondslag liggende normen en parameters. De parameters en normen die mogen worden aangepast, zijn de markthuur, de leegwaarde(stijging), de bijzondere omstandigheden, de disconteringsvoet, de mutatie- en verkoopkans en het onderhoud. Daarnaast geldt ook dat in bepaalde gevallen erfpacht mag worden aangepast. Het is mogelijk dat de toegelaten instelling de taxateur opdracht geeft op alle onderdelen te bezien of aanpassing gerechtvaardigd is, of de opdracht te beperken tot de toetsing van één of meer van de genoemde vrijheidsgraden. Als bij één of meer complexen één of meer vrijheidsgraden zijn toegepast dient de externe taxateur tevens de aannemelijkheid van de marktwaarde te beoordelen, die daarvan het resultaat is.
+Deze drie kapitalisatiefactoren zijn algemeen toepasbaar, hiermee kunnen dus alle kasstromen in zowel het doorexploiteer- als het uitpondscenario worden gekapitaliseerd. Daarbij moet wel rekening gehouden worden met het feit dat kasstromen en specifieke groeivoet g hebben.
 
-De leegwaardestijging is gedifferentieerd naar provincie en naar de vier grote steden. Het kan zijn dat er redenen zijn om van deze differentiatie af te wijken, bijvoorbeeld omdat de te verwachten stijging van de leegwaarde in de specifieke situatie niet overeenkomt met die van de provincie, respectievelijk de betreffende stad. De externe taxateur heeft de mogelijkheid om dan af te wijken van de veronderstelde leegwaardestijging.
-
-### 9.1.3. Bijzondere omstandigheden
-
-Bijzondere omstandigheden kunnen van toepassing zijn waarmee in de basisversie geen rekening wordt gehouden. Hierbij valt te denken aan beklemmingsafspraken met de gemeente ten aanzien van huurverhoging en/of verkoop, die ook van kracht zijn voor een potentiële koper. De toegelaten instelling heeft de mogelijkheid om in die gevallen de externe taxateur in te schakelen. De taxateur kan dan het effect van de beklemmingen meenemen bij de waardering.
-
-De leegwaardestijging is gedifferentieerd naar provincie en naar de vier grote steden. Het kan zijn dat er redenen zijn om van deze differentiatie af te wijken, bijvoorbeeld omdat de te verwachten stijging van de leegwaarde in de specifieke situatie niet overeenkomt met die van de provincie, respectievelijk de betreffende stad. De externe taxateur heeft de mogelijkheid om dan af te wijken van de veronderstelde leegwaardestijging.
+In onderstaande tabel wordt aangegeven welke kapitalisatiefactor per kasstroom wordt gebruikt, uitgesplitst voor de verschillende scenario’s:
 
 ### 9.1.3. Bijzondere omstandigheden
 
-Bijzondere omstandigheden kunnen van toepassing zijn waarmee in de basisversie geen rekening wordt gehouden. Hierbij valt te denken aan beklemmingsafspraken met de gemeente ten aanzien van huurverhoging en/of verkoop, die ook van kracht zijn voor een potentiële koper. De toegelaten instelling heeft de mogelijkheid om in die gevallen de externe taxateur in te schakelen. De taxateur kan dan het effect van de beklemmingen meenemen bij de waardering.
+In bijlage 5 bij dit handboek zijn drie voorbeelden opgenomen van het toepassen van deze berekening.
+
+Tot slot zijn de overdrachtskosten van belang. De overdrachtskosten zijn de overdrachtsbelasting en de overige kosten, bestaande uit de notaris- en de registratiekosten bij de verkoop van het waarderingscomplex in verhuurde staat. De overdrachtskosten worden weergegeven als een percentage van de berekende waarde van een verhuureenheid.
+
+### 5.2.18. Overige punten
+
+Indien op het waarderingscomplex of een deel daarvan, op de waardepeildatum 31 december 2016 een ook voor een derde, onherroepelijke verplichting tot sloop van toepassing is, dient hier bij de waardering rekening mee te worden gehouden.
 
 De hoogte van de disconteringsvoet is modelmatig bepaald. Daarmee wordt niet altijd recht gedaan aan de risico’s die voor specifieke objecten en/of specifieke locaties van toepassing zijn. Deze specifieke omstandigheden kunnen een andere disconteringsvoet rechtvaardigen. De toegelaten instelling heeft de mogelijkheid om dan een externe taxateur in te schakelen om een marktconforme disconteringsvoet vast te stellen. Als daartoe reden is, kan in dat geval dan ook een verschil worden gemaakt in de hoogte van de disconteringsvoet bij uitponden ten opzichte van doorexploiteren.
 
-Zoals in het voorafgaande is aangegeven, zijn er zeer uiteenlopende erfpachtovereenkomsten tussen toegelaten instellingen en gemeenten. In de basisversie is gewerkt met een globale benadering. Als deze benadering onvoldoende aansluit bij de feitelijke situatie, is het mogelijk met tussenkomst van de taxateur tot een betere schatting van het effect van de erfpacht op de waarde te komen.
+De modelmatige bepaalde marktwaarde van een complex ligt ten opzichte van de geïndexeerde WOZ- waarde over het algemeen binnen een bandbreedte van 50 en 125%. Indien dit niet het geval is, is een nadere beoordeling van de gebruikte objectgegevens nodig om te bezien of deze juist zijn. Indien de gebruikte objectgegevens juist blijken te zijn, behoeft de marktwaarde niet te worden aangepast.
 
 De hoogte van de mutatiekans is gebaseerd op het gemiddelde aantal mutaties in de afgelopen vijf jaar. Deze mutatiekans hoeft niet te gelden voor de toekomst. Als daar reden voor is, onder meer omdat de feitelijke mutaties in de betrokken periode een afwijkend beeld laten zien, heeft de toegelaten instelling de mogelijkheid om een externe taxateur in te schakelen om de mutatiekans aan te passen.
 
-Als er redenen zijn om aan te nemen dat de op basis van de mutatiekans vrijkomende verhuureenheden niet allemaal kunnen worden verkocht, kan daar ook rekening mee worden gehouden door een deel van de vrijkomende verhuureenheden in de wederverhuur te nemen. Voor deze verhuureenheden geldt dan dat de huur opgetrokken naar de markthuur of de maximale huur volgens het woningwaarderingsstelsel. Verder is bij deze verhuureenheden in de toekomst weer dezelfde mutatiekans van toepassing.
+In dit hoofdstuk worden de te hanteren gegevens en de uitgangspunten voor de waardebepaling van bedrijfsmatig (BOG) en maatschappelijk (MOG) onroerend goed uiteengezet. Voor de waardebepaling is het belangrijk om onderscheid te maken tussen de **objectgegevens**en de **modelparameters**. De objectgegevens zijn specifieke gegevens van de toegelaten instelling die op het niveau van het verhuurcontract beschikbaar dienen te zijn. Deze gegevens komen uit de basisadministratie van de toegelaten instelling. Naast de objectgegevens wordt gebruik gemaakt van de modelparameters. De modelparameters zijn die gegevens die noodzakelijk zijn voor de berekening van de marktwaarde. Over deze waarden geeft dit handboek uitsluitsel.
 
-Bij gebruik van de full versie dient jaarlijks minimaal een derde, steeds wisselend deel van het betreffende vastgoed, via een volledige taxatie te worden gewaardeerd, dan wel via een hertaxatie als er in de afgelopen drie jaar een volledige taxatie heeft plaats gevonden. Bij deze vormen van taxatie zijn op basis van de NRVT verschillende rapportagevereisten van toepassing, waaronder rapportage met betrekking tot de kadastrale recherche, het titelonderzoek en de milieuaspecten. Indien er intern documentatie beschikbaar is, waarop de taxateur kan steunen, kan in de rapportage van de taxateur naar die documentatie worden verwezen. Hierbij is wel vereist dat de taxateur de waarde mede heeft gebaseerd op die informatie. De betreffende informatie dient ook toegankelijk te zijn voor Autoriteit woningcorporaties en de accountant. Voor het andere, tweederde deel van het vastgoed is een aannemelijkheidsverklaring van de externe taxateur vereist.
+Voor het bepalen van de marktwaarde in verhuurde staat van BOG en MOG, wordt ten opzichte van de waardering van woongelegenheden een aangepast rekenmodel gebruikt. Een belangrijk verschil met het model voor de woongelegenheden is dat voor BOG en MOG alleen wordt gewerkt met een doorexploiteerscenario en dat er geen sprake is van een uitpondscenario.
 
-### 10. Bijlage 1: Definities
+### 6.1. Objectgegevens
 
 ## Bijlage 3. bij de Regeling toegelaten instellingen volkshuisvesting 2015
 
 ### 9.2. De rol van en de opdrachtverlening aan de externe taxateur
 
-De externe taxateur dient aangesloten te zijn bij het Nederlands Register Vastgoed Taxateurs (NRVT) of daarmee vergelijkbare beroeps- en gedragsregels te hanteren.
+De huurinkomsten worden bepaald op basis van de gegevens van de huidige huurcontracten. De huidige contracthuur wordt tot de einddatum opgenomen en op het moment van de einddatum zijn er twee mogelijkheden:
 
 ### HOOFDSTUK 2. ACTIVITEITEN
 
@@ -1861,19 +1861,19 @@ De externe taxateur dient aangesloten te zijn bij het Nederlands Register Vastgo
 
 ### 3.1.3. Kasstroomoverzicht (in € 1.000)
 
-### 3.2. Toelichting op de enkelvoudige Balans en Winst- en Verliesrekening
+### 6.2.3.3. Achterstallig onderhoud
 
 ### 3.3. Toelichting verbindingen
 
 ### 3.4. Toelichting op de geconsolideerde of enkelvoudige15Enkelvoudig indien geen geconsolideerde balans en winst- en verliesrekening is opgesteld Balans en Winst- en Verliesrekening
 
-### HOOFDSTUK 4. WAARDERING BEZIT
+### 6.2.3.4. Beheerkosten
 
 ### 4.1. Specificatie bedrijfswaarde toegelaten instelling
 
 ### HOOFDSTUK 4. WAARDERING BEZIT
 
-### 4.1. Specificatie bedrijfswaarde geconsolideerd
+### 6.2.3.5. Belastingen, verzekeringen en overige zakelijke lasten
 
 ## Bijlage 4. bij de Regeling toegelaten instellingen volkshuisvesting 2015
 
@@ -1881,53 +1881,53 @@ De externe taxateur dient aangesloten te zijn bij het Nederlands Register Vastgo
 
 ### 4.3. Inzet en WOZ-waarde bezit toegelaten instelling
 
-### 4.2. Toelichting waardering bezit toegelaten instelling
+### 6.2.4. Erfpacht
 
 ### HOOFDSTUK 5. OVERIGE (VOLKSHUISVESTELIJKE) VERANTWOORDING
 
-Op 1 juli 2015 zijn de [Woningwet 2015](https://wetten.overheid.nl/jci1.3:c:BWBR0005181) (hierna: de Woningwet), het [Besluit toegelaten instellingen volkshuisvesting 2015](https://wetten.overheid.nl/jci1.3:c:BWBR0036702) (hierna: BTIV) en de Regeling toegelaten instellingen volkshuisvesting 2015 (hierna: de Regeling) in werking getreden.
+Het uitgangspunt is om het verhuurde eerst te waarderen alsof deze op eigen grond staat en vervolgens de gevolgen van erfpacht te bezien als correcties op deze waarde. Op die manier is het mogelijk objecten op eigen grond en op erfpacht transparant te vergelijken. De correcties komen voort uit toekomstige financiële verplichtingen verbonden aan de erfpacht zoals canon betalingen en/of hernieuwde toekomstige afkoopsommen.
 
-Op 1 juli 2015 zijn de [Woningwet 2015](https://wetten.overheid.nl/jci1.3:c:BWBR0005181) (hierna: de Woningwet), het [Besluit toegelaten instellingen volkshuisvesting 2015](https://wetten.overheid.nl/jci1.3:c:BWBR0036702) (hierna: BTIV) en de Regeling toegelaten instellingen volkshuisvesting 2015 (hierna: de Regeling) in werking getreden.
+Als de erfpacht niet is afgekocht en als sprake is van een jaarlijkse canon, zonder dat bij verkoop aan een belegger of vervolgens bij uitponden aan een particulier een afkoopsom is verschuldigd, is de betreffende canon een doorlopende kasstroom. De contante waarde van deze kasstroom is een correctie op de waarde toepasbaar in de basisversie. Afhankelijk van de erfpachtovereenkomst, dient deze canon wel of niet te worden geïndexeerd.
 
-Dit heeft tot gevolg dat het accountantsprotocol over verslagjaar 2015 op enkele onderdelen is gewijzigd ten opzichte van het accountantsprotocol dat van kracht was voor de accountantswerkzaamheden over verslagjaar 2014. Naast het toevoegen van het vanaf 1 juli 2015 van toepassing zijnde juridische kader dat relevant is voor enkele onderwerpen die reeds in eerdere accountantsprotocollen waren opgenomen, zoals met betrekking tot de regelgeving inzake de vervreemding van woongelegenheden, is er tevens een aantal nieuwe controleonderwerpen toegevoegd die volgen uit de nieuwe wetgeving.
+Loopt het contract niet voor nog minimaal 15 jaar door, dan wordt een inschatting gemaakt van de canon bij ingang van het nieuwe contract. Door de complexiteit van deze methodiek, is in dat geval maatwerk vereist, dat via de full versie mogelijk is.
 
-Omdat het niet goed mogelijk is om gedurende een verslagjaar een nieuw regime toe te passen met betrekking tot de jaarrekening, het jaarverslag, het volkshuisvestingsverslag en het onderzoek van de accountant, is in [artikel 126, tweede lid, van het BTIV](https://wetten.overheid.nl/jci1.3:c:BWBR0036702&artikel=126) bepaald dat de [artikelen 35 t/m 38 van de Woningwet](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&artikel=35) voor deze werkzaamheden gelden per verslagjaar 2016.
+Dit is het bedrag dat verschuldigd is om de huidige erfpacht om te zetten in eigendom of eeuwigdurende erfpacht. Het bedrag moet dan door de TI zijn geraamd. Indien dit bedrag in de basisversie wordt opgevoerd, dient dit van de eerdere berekende waarde op eigen grond te worden afgetrokken. Dit bedrag bevat dan tevens eventuele toekomstige canonverplichtingen. Die moeten dan niet alsnog ook opgevoerd worden.
 
-In [artikel 127, tweede lid, van het BTIV](https://wetten.overheid.nl/jci1.3:c:BWBR0036702&artikel=127) is bepaald dat het [Besluit beheer sociale-huursector](https://wetten.overheid.nl/jci1.3:c:BWBR0005686) (hierna: Bbsh) tot 1 januari van het eerstvolgende verslagjaar na inwerkingtreding van de [Woningwet](https://wetten.overheid.nl/jci1.3:c:BWBR0005181) van toepassing blijft voor de jaarrekening, het jaarverslag, het volkshuisvestingsverslag en het onderzoeken en beoordelen van die verslagen. Dit betekent dat voor verslagjaar 2015, waar dit protocol betrekking op heeft, het juridisch kader zoals dat volgt uit het [Bbsh](https://wetten.overheid.nl/jci1.3:c:BWBR0005686) zijn kracht heeft behouden voor deze onderwerpen.
+In sommige gevallen zal sprake zijn van een erfpachtsuppletie omdat bij verkoop aan een belegger, sprake is van een bestemmingswijziging van de sector van toegelaten instellingen naar de beleggersector. Deze suppletie dient dan wel in de DCF-berekening meegenomen te worden primo het eerste jaar van de waardering.
 
 Voor enkele nieuwe onderwerpen van het overzicht met de Verantwoordingsinformatie (hierna: dVi) die voortkomen uit de per 1 juli 2015 van toepassing zijnde [Woningwet](https://wetten.overheid.nl/jci1.3:c:BWBR0005181), [BTIV](https://wetten.overheid.nl/jci1.3:c:BWBR0036702) en de Regeling, geldt dat deze onderdeel zijn geworden van het accountantsonderzoek. Dit betreft met name onderwerpen die betrekking hebben op de naleving van de nieuwe wet- en regelgeving. Deze onderwerpen zijn, voor zover daar assurance-werkzaamheden van de accountant op worden uitgevoerd. verderop in dit protocol nader toegelicht.
 
-In het accountantsprotocol 2015 is sprake van assurance-werkzaamheden die leiden tot een controleverklaring en twee assurance-rapporten met een redelijke mate van zekerheid alsmede een rapport van feitelijke bevindingen. Bij het opstellen van het protocol is gebruik gemaakt van de Schrijfwijzer Accountantsprotocollen van de Nederlandse Beroepsorganisatie van Accountants (hierna: NBA).
+De objectparameter wel of geen aanvangsleegstand bepaalt of het object leegstaat vanaf het begin van de beschouwingsperiode, dus vanaf 1 januari 2017. Indien er sprake is van aanvangsleegstand, dan moet in de basisversie gerekend worden met een periode gelijk aan de modelparameter mutatieleegstand (in maanden) en met de huurderving die het resultaat is van deze leegstand.
 
-Op 1 juli 2015 zijn de [Woningwet 2015](https://wetten.overheid.nl/jci1.3:c:BWBR0005181) (hierna: de Woningwet), het [Besluit toegelaten instellingen volkshuisvesting 2015](https://wetten.overheid.nl/jci1.3:c:BWBR0036702) (hierna: BTIV) en de Regeling toegelaten instellingen volkshuisvesting 2015 (hierna: de Regeling) in werking getreden.
+Voorbeeld:
 
 ### Inhoudsopgave
 
 Omdat het niet goed mogelijk is om gedurende een verslagjaar een nieuw regime toe te passen met betrekking tot de jaarrekening, het jaarverslag, het volkshuisvestingsverslag en het onderzoek van de accountant, is in [artikel 126, tweede lid, van het BTIV](https://wetten.overheid.nl/jci1.3:c:BWBR0036702&artikel=126) bepaald dat de [artikelen 35 t/m 38 van de Woningwet](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&artikel=35) voor deze werkzaamheden gelden per verslagjaar 2016.
 
-In [artikel 127, tweede lid, van het BTIV](https://wetten.overheid.nl/jci1.3:c:BWBR0036702&artikel=127) is bepaald dat het [Besluit beheer sociale-huursector](https://wetten.overheid.nl/jci1.3:c:BWBR0005686) (hierna: Bbsh) tot 1 januari van het eerstvolgende verslagjaar na inwerkingtreding van de [Woningwet](https://wetten.overheid.nl/jci1.3:c:BWBR0005181) van toepassing blijft voor de jaarrekening, het jaarverslag, het volkshuisvestingsverslag en het onderzoeken en beoordelen van die verslagen. Dit betekent dat voor verslagjaar 2015, waar dit protocol betrekking op heeft, het juridisch kader zoals dat volgt uit het [Bbsh](https://wetten.overheid.nl/jci1.3:c:BWBR0005686) zijn kracht heeft behouden voor deze onderwerpen.
+Mutatieleegstand is het aantal maanden dat een verhuureenheid bij mutatie leegstaat voor dat deze wederverhuurd wordt. Mutatieleegstand resulteert in huurderving gedurende de periode van leegstand. De huurderving is gebaseerd op de markthuur. Deze huurderving geldt alleen in het doorexploiteerscenario.
 
-Op 1 juli 2015 zijn de [Woningwet 2015](https://wetten.overheid.nl/jci1.3:c:BWBR0005181) (hierna: de Woningwet), het [Besluit toegelaten instellingen volkshuisvesting 2015](https://wetten.overheid.nl/jci1.3:c:BWBR0036702) (hierna: BTIV) en de Regeling toegelaten instellingen volkshuisvesting 2015 (hierna: de Regeling) in werking getreden.
+Voorbeeld:
 
-Dit heeft tot gevolg dat het accountantsprotocol over verslagjaar 2015 op enkele onderdelen is gewijzigd ten opzichte van het accountantsprotocol dat van kracht was voor de accountantswerkzaamheden over verslagjaar 2014. Naast het toevoegen van het vanaf 1 juli 2015 van toepassing zijnde juridische kader dat relevant is voor enkele onderwerpen die reeds in eerdere accountantsprotocollen waren opgenomen, zoals met betrekking tot de regelgeving inzake de vervreemding van woongelegenheden, is er tevens een aantal nieuwe controleonderwerpen toegevoegd die volgen uit de nieuwe wetgeving.
+Stel de mutatieleegstand is 3 maanden. Dat betekent dat bij mutatie gerekend moet worden met 3 maanden huurderving in het kalenderjaar. Deze huurderving is gelijk aan 3/12 of te wel 25% van de markthuur van de verhuureenheid medio dat jaar.
 
-### 1.3. Onderzoeksobjecten
+### 6.2.7. Disconteringsvoet
 
-In [artikel 127, tweede lid, van het BTIV](https://wetten.overheid.nl/jci1.3:c:BWBR0036702&artikel=127) is bepaald dat het [Besluit beheer sociale-huursector](https://wetten.overheid.nl/jci1.3:c:BWBR0005686) (hierna: Bbsh) tot 1 januari van het eerstvolgende verslagjaar na inwerkingtreding van de [Woningwet](https://wetten.overheid.nl/jci1.3:c:BWBR0005181) van toepassing blijft voor de jaarrekening, het jaarverslag, het volkshuisvestingsverslag en het onderzoeken en beoordelen van die verslagen. Dit betekent dat voor verslagjaar 2015, waar dit protocol betrekking op heeft, het juridisch kader zoals dat volgt uit het [Bbsh](https://wetten.overheid.nl/jci1.3:c:BWBR0005686) zijn kracht heeft behouden voor deze onderwerpen.
+De disconteringsvoet is de marktconforme rendementseis waartegen de verwachte toekomstige inkomsten en uitgaven contant worden gemaakt. Voor BOG en MOG geldt dat alleen wordt gewerkt met een doorexploiteerscenario. De disconteringsvoet wordt opgebouwd uit de volgende drie onderdelen:
 
-Voor enkele nieuwe onderwerpen van het overzicht met de Verantwoordingsinformatie (hierna: dVi) die voortkomen uit de per 1 juli 2015 van toepassing zijnde [Woningwet](https://wetten.overheid.nl/jci1.3:c:BWBR0005181), [BTIV](https://wetten.overheid.nl/jci1.3:c:BWBR0036702) en de Regeling, geldt dat deze onderdeel zijn geworden van het accountantsonderzoek. Dit betreft met name onderwerpen die betrekking hebben op de naleving van de nieuwe wet- en regelgeving. Deze onderwerpen zijn, voor zover daar assurance-werkzaamheden van de accountant op worden uitgevoerd. verderop in dit protocol nader toegelicht.
+De hoogte van de risicovrije rentevoet wordt bepaald aan de hand van het 24-maands historisch gemiddelde van de 10-jaar EURO area yield curve gebaseerd op triple AAA rated staatsobligaties zoals gepubliceerd door de ECB. Doordat gebruik wordt gemaakt van het 24-maands gemiddelde, worden incidentele pieken van de rente op de peildatum van de waardering voorkomen.
 
 ### 1.4. De accountantsproducten
 
-De voorgeschreven werkzaamheden van de accountant hebben betrekking op de jaarrekening en het jaarverslag evenals de daarvoor aangewezen onderdelen van het overzicht van de dVi, maar ook over: de verkoop van woongelegenheden, de aanbesteding van maatschappelijk vastgoed, de naleving van de beleidsregels inzake financiële derivaten, de naleving van de beleidsregels verantwoord beleggen en enkele nieuw toegevoegde onderwerpen die volgen uit [Woningwet](https://wetten.overheid.nl/jci1.3:c:BWBR0005181) en de daar aan opgehangen regelgeving.
+De opslagen voor het markt- en objectrisico zijn gecombineerd. Deze gecombineerde opslag is afhankelijk gesteld van drie kenmerken van de verhuureenheden:
 
-Al reeds is aangegeven dat voor een deel van het verslagjaar 2015 een nieuw wettelijk kader en een bijbehorend nieuw begrippen- en normenkader van toepassing is. Het nieuwe begrippen- en normenkader is ten behoeve van het vooraf verstrekken van guidance, waar dat mogelijk is, in dit accountantsprotocol zoveel mogelijk uitgewerkt en toegelicht. Voor onderwerpen waarvan in de praktijk blijkt dat dit accountantsprotocol nog niet voldoende inzicht geeft, is afgesproken dat hier vanuit het Ministerie van Binnenlandse Zaken en Koninkrijksrelaties, in afstemming met de Autoriteit Woningcorporaties (hierna: Aw), direct een reactie op wordt gegeven en dat dit wordt vastgelegd in een Q&A inzake het accountantsprotocol 2015. Deze Q&A wordt vervolgens (in ieder geval) gepubliceerd op de websites: Woningwet2015.nl en Aedes.nl. Over de publicatie zal tevens worden gecommuniceerd met de NBA.
+Bij de schatting van de hoogte van de opslag voor het markt- en objectrisico is gebruik gemaakt van een referentie-contract. De keuze voor het referentie-contract heeft geen invloed op de hoogte van de disconteringsvoet van de andere verhuurcontracten. De schatting van deze opslag is gebaseerd op waarderingsgegevens van toegelaten instellingen, die op marktwaarde hebben gewaardeerd.
 
 ### 1.2. Doelstelling
 
-Conform o.a. [artikel 28 van het Bbsh](https://wetten.overheid.nl/jci1.3:c:BWBR0005686&artikel=28) dient een toegelaten instelling ([artikel 19, eerste lid, van de Woningwet](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&artikel=19)) een accountant als bedoeld in [artikel 27 van het Bbsh](https://wetten.overheid.nl/jci1.3:c:BWBR0005686&artikel=27), te laten onderzoeken, of:
+Om tot de disconteringsvoet van de afzonderlijke verhuurcontracten te komen, wordt gebruik gemaakt van het referentiecontract. De onderstaande tabellen geven daarbij de afzonderlijke effecten weer van elk van de onderscheiden kenmerken. Door per contract na te gaan wat de effecten zijn voor het markt- en objectrisico en deze op te tellen bij de totale disconteringsvoet van het referentiecontract, ontstaat de disconteringsvoet van de overige verhuurcontracten.
 
-### 2. Rubriek A: De controleverklaring met betrekking tot de jaarrekening en het jaarverslag
+### 6.2.8. Eindwaarde
 
 ### 2. Rubriek A: De controleverklaring met betrekking tot de jaarrekening en het jaarverslag
 
@@ -1935,17 +1935,17 @@ Conform o.a. [artikel 28 van het Bbsh](https://wetten.overheid.nl/jci1.3:c:BWBR0
 
 ### 1.3. Onderzoeksobjecten
 
-De onderzoeksobjecten voor de accountantswerkzaamheden bij toegelaten instellingen zijn:
+Voor BOG/MOG/Intramurale zorg geldt niet dat er sprake is van een uitpondscenario. Daarom wordt de eindwaarde alleen bepaald op basis van het doorexploiteerscenario. De berekeningen zijn hetzelfde als voor de woningen met uitzondering van de huurkasstroom en de kosten die rechtstreeks met de huurmutaties verband houden. Per contract wordt een doorrekening gemaakt, waarbij als volgt met de huurpotentie wordt omgegaan:
 
-### 1.5. Procedures verslaggeving toegelaten instellingen
+### 6.2.9. Overdrachtskosten
 
-Conform [artikel 30 van het Bbsh](https://wetten.overheid.nl/jci1.3:c:BWBR0005686&artikel=30) dient de toegelaten instelling jaarlijks voor 1 juli de jaarrekening en het jaarverslag, het volkshuisvestingsverslag en de dVi over het voorafgaande verslagjaar, alsmede de bij die stukken behorende accountantsrapportages, in te dienen bij de minister voor Wonen en Rijksdienst (hierna: W&R), het college van burgemeester en wethouders van de gemeente(n) waar zij haar woonplaats heeft of feitelijk werkzaam is, en de Aw. Conform [artikel 30, tweede lid, van het Bbsh](https://wetten.overheid.nl/jci1.3:c:BWBR0005686&artikel=30) zendt de toegelaten instelling jaarlijks het accountantsverslag als bedoeld in [artikel 393 lid 4 van Boek 2 van het BW](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=393) naar de minister voor W&R en de Aw.
+De overdrachtskosten zijn de overdrachtsbelasting en de overige aankoopkosten bestaande uit notaris- en de registratiekosten bij de verkoop van het waarderingscomplex in verhuurde staat. De overdrachtskosten worden weergegeven als een percentage van de berekende marktwaarde van het verhuurcontract.
 
-### 2. Rubriek A: De controleverklaring met betrekking tot de jaarrekening en het jaarverslag
+### 6.2.10. Overige punten
 
 ### 2.1. Doelstelling
 
-De werkzaamheden van de accountant die leiden tot een assurance-rapport hebben ten doel een redelijke mate van zekerheid te verschaffen over de juistheid van de opgave in onderdeel 5.7 (Verantwoording naleving specifieke wettelijke bepalingen) van de dVi die betrekking heeft op de naleving van de regelgeving inzake de melding respectievelijk (vanaf 1 juli 2015) de goedkeuring van de vervreemding van bezit, de aanbestedingsplicht voor maatschappelijk vastgoed, de naleving van de voorwaarden uit de betreffende beleidsregels inzake het gebruik van financiële derivaten door toegelaten instellingen volkshuisvesting bij nieuwe derivatentransacties, de naleving van de voorwaarden uit de betreffende beleidsregels inzake beleggen door toegelaten instellingen volkshuisvesting en enkele overige in paragraaf 3.5 benoemde onderwerpen inzake de naleving van specifieke wet- en regelgeving.
+Bij BOG en MOG is alleen sprake van een doorexploiteerscenario.
 
 Conform [artikel 30 van het Bbsh](https://wetten.overheid.nl/jci1.3:c:BWBR0005686&artikel=30) dient de toegelaten instelling jaarlijks voor 1 juli de jaarrekening en het jaarverslag, het volkshuisvestingsverslag en de dVi over het voorafgaande verslagjaar, alsmede de bij die stukken behorende accountantsrapportages, in te dienen bij de minister voor Wonen en Rijksdienst (hierna: W&R), het college van burgemeester en wethouders van de gemeente(n) waar zij haar woonplaats heeft of feitelijk werkzaam is, en de Aw. Conform [artikel 30, tweede lid, van het Bbsh](https://wetten.overheid.nl/jci1.3:c:BWBR0005686&artikel=30) zendt de toegelaten instelling jaarlijks het accountantsverslag als bedoeld in [artikel 393 lid 4 van Boek 2 van het BW](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=393) naar de minister voor W&R en de Aw.
 
@@ -1953,25 +1953,25 @@ Conform [artikel 30 van het Bbsh](https://wetten.overheid.nl/jci1.3:c:BWBR000568
 
 Voor de periode vanaf 1 januari 2015 tot 1 juli 2015 geldt dat de hieronder opgesomde regelgeving en toelichtingen daarop (voor zover deze niet reeds in de betreffende paragraaf van dit protocol specifiek zijn benoemd) van toepassing zijn op de werkzaamheden van de accountant:
 
-Voor een goedkeurende controleverklaring dient de accountant de tekst te hanteren als opgenomen in het onder rubriek E opgenomen model I. Hieruit volgt dat niet uitsluitend een ‘uitgebreide controleverklaring’ mag worden afgegeven. Indien een accountant een andere dan een goedkeurende verklaring afgeeft, sluit hij aan bij de voorbeeldteksten zoals gepubliceerd op de website van de NBA.
+In dit hoofdstuk worden de te hanteren gegevens en de uitgangspunten voor de waardebepaling van verhuurde parkeerplaatsen en garageboxen uiteengezet. Voor de waardebepaling is het belangrijk om onderscheid te maken tussen de **objectgegevens**en de **modelparameters**De objectgegevens zijn specifieke gegevens van de toegelaten instelling die op het niveau van de verhuureenheid beschikbaar dienen te zijn. De modelparameters worden hierna beschreven.
 
 ### 2.3. Materialiteit (betrouwbaarheid en nauwkeurigheid)
 
-Bij de controle dienen de algemene (voor de jaarrekeningcontrole geldende) betrouwbaarheids- en nauwkeurigheidsnormen te worden gehanteerd. Het is de verantwoordelijkheid van de accountant om deze te bepalen met inachtneming van hetgeen hierover in NV COS is opgenomen. Voor de werkzaamheden die volgen uit het Controleprotocol WNT, is de in dat protocol opgenomen materialiteit van toepassing.
+In het vorige handboek werd voor parkeergelegenheid een specifiek uitpondscenario voorgeschreven waarbij het uitgangspunt was dat een parkeergelegenheid in een periode van drie jaar volledig worden uitgepond. In dit handboek komt het uitpondscenario voor parkeergelegenheden meer overeen met woongelegenheden binnen de beschouwingsperiode van 15 jaren. Deze benadering is voor verslagjaar 2016 een handreiking en geldt voor verslagjaar 2017 als voorschrift. Dat betekent dat voor verslagjaar 2016 het specifieke uitpondscenario van drie jaar nog mag worden toegepast.
 
 De werkzaamheden van de accountant die leiden tot een assurance-rapport hebben ten doel een redelijke mate van zekerheid te verschaffen over de juistheid van de opgave in onderdeel 5.7 (Verantwoording naleving specifieke wettelijke bepalingen) van de dVi die betrekking heeft op de naleving van de regelgeving inzake de melding respectievelijk (vanaf 1 juli 2015) de goedkeuring van de vervreemding van bezit, de aanbestedingsplicht voor maatschappelijk vastgoed, de naleving van de voorwaarden uit de betreffende beleidsregels inzake het gebruik van financiële derivaten door toegelaten instellingen volkshuisvesting bij nieuwe derivatentransacties, de naleving van de voorwaarden uit de betreffende beleidsregels inzake beleggen door toegelaten instellingen volkshuisvesting en enkele overige in paragraaf 3.5 benoemde onderwerpen inzake de naleving van specifieke wet- en regelgeving.
 
-Voor een goedkeurende controleverklaring dient de accountant de tekst te hanteren als opgenomen in het onder rubriek E opgenomen model I. Hieruit volgt dat niet uitsluitend een ‘uitgebreide controleverklaring’ mag worden afgegeven. Indien een accountant een andere dan een goedkeurende verklaring afgeeft, sluit hij aan bij de voorbeeldteksten zoals gepubliceerd op de website van de NBA.
+De volgende tabel bevat een overzicht van de specifieke objectgegevens voor parkeergelegenheden van de toegelaten instelling.
 
-### 3. Rubriek B: het assurance-rapport inzake de dVi over het verslagjaar (naleving van specifieke wet- en regelgeving)
+### 7.2. Modelparameters
 
-Voor de periode vanaf 1 januari 2015 tot 1 juli 2015 geldt dat de hieronder opgesomde regelgeving en toelichtingen daarop (voor zover deze niet reeds in de betreffende paragraaf van dit protocol specifiek zijn benoemd) van toepassing zijn op de werkzaamheden van de accountant:
+Met de modelparameters vindt de modelmatige waardering van de parkeergelegenheden plaats, uitgaande van de objectgegevens, die in het voorafgaande zijn beschreven. Het betreft hier de modelparameters voor de basisversie. Verderop worden de vrijheidsgraden beschreven waar in de full versie gebruik van kan worden gemaakt om af te wijken van de basisversie.
 
-### 3.5. Onderdelen assurance-rapport naleving specifieke wet- en regelgeving
+### 7.2.1. Leegwaarde
 
-Het zich juist verantwoorden over de rechtmatigheid van handelen in de dVi, is de verantwoordelijkheid van het bestuur van de toegelaten instelling. De accountant controleert of deze verantwoording op de in paragraaf 3.5 van dit protocol benoemde onderwerpen juist is. Dit houdt in dat de accountant toetst of aan de relevante onderdelen van de wet- en regelgeving is voldaan, om vast te kunnen stellen dat de verantwoording in de dVi juist is.
+De leegwaarde is de geschatte verkoopprijs op basis van de kosten koper, vrij van huur en overige lasten. De leegwaarde wordt als opbrengst in het uitpondscenario opgenomen, zodra de mogelijkheid tot de verkoop van een verhuureenheid zich voordoet.
 
-Bij de controlewerkzaamheden inzake punten 1 t/m 7 en punten 10 t/m 13 alsmede punten 15, 17 en 18 van paragraaf 3.5 geldt een materialiteit van 0% in die zin dat de uitkomst goed (geen afwijking van regelgeving) of fout (wel afwijking van regelgeving) is. Voor punt 13 (goedkeuring niet-DAEB investeringen) geldt aanvullend dat uitsluitend niet-DAEB investeringen van € 250.000,– of hoger dienen te worden gecontroleerd. Voor punt 16 (Beleidsregels verantwoord beleggen: nieuwe beleggingen) geldt een materialiteit van 1% over de nieuwe beleggingen.
+De leegwaarde wordt gelijk gesteld aan de geïndexeerde WOZ-waarde. Hierbij wordt aangenomen dat de beschikbare WOZ-beschikking betrekking heeft op de waardepeildatum 1 januari 2015. De WOZ- waarde van de WOZ-beschikking dient dan te worden geïndexeerd met de leegwaardestijging van 2015 en 2016 om een leegwaarde te krijgen met peildatum 31 december 2016. Indien de WOZ-beschikking met waardepeildatum 1 januari 2015 nog niet beschikbaar is, dan wel de WOZ-beschikking met waardepeildatum 1 januari 2016 al beschikbaar is, dient deze waarde te worden aangepast zodanig dat de WOZ-waarde als objectgegeven de waardepeildatum 1 januari 2015 heeft.
 
 Voor de periode vanaf 1 januari 2015 tot 1 juli 2015 geldt dat de hieronder opgesomde regelgeving en toelichtingen daarop (voor zover deze niet reeds in de betreffende paragraaf van dit protocol specifiek zijn benoemd) van toepassing zijn op de werkzaamheden van de accountant:
 
@@ -1983,55 +1983,55 @@ Bij de controlewerkzaamheden inzake punten 1 t/m 7 en punten 10 t/m 13 alsmede p
 
 ### 3.5. Onderdelen assurance-rapport naleving specifieke wet- en regelgeving
 
-Voor alle onderdelen van paragraaf 3.5 geldt een rapporteringstolerantie van 0%. Dit betekent dat de accountant alle geconstateerde afwijkingen toelicht in een aparte paragraaf in het assurance-rapport (‘Overige aangelegenheden’), ook als dit geen invloed heeft op het afgegeven oordeel.
+De mutatiekans is gelijk aan de gemiddelde mutatiekans van de betreffende verhuureenheden over de afgelopen vijf jaar (2012–2016). Het betreft het aantal vrijgekomen parkeergelegenheden door reguliere opzeggingen. Het betreft het totaal aantal mutaties gedurende de periode gedeeld door de som van de jaarlijkse ultimo standen van het aantal verhuureenheden.
 
-Over de naleving van deze wettelijke bepalingen heeft de toegelaten instelling verantwoording afgelegd in onderdeel 5.7 (Verantwoording naleving specifieke wettelijke bepalingen) van de dVi.
+Voorbeeldberekening
 
 ### 4.3. Materialiteit (betrouwbaarheid, nauwkeurigheid en rapporteringstolerantie)
 
-Voor een 24-tal onderdelen van de dVi (zie verder paragraaf: Onderdelen assurance-rapport) wordt per onderdeel een oordeel van de accountant gevraagd. Voor al deze onderdelen geldt een betrouwbaarheidsnorm van 95% en een rapporteringstolerantie van 0%. Dit betekent dat de accountant alle geconstateerde afwijkingen toelicht in een aparte paragraaf in het assurance-rapport (‘Overige aangelegenheden’), ook als dit geen invloed heeft op het afgegeven oordeel. Aanpassingen in de cijfers, zoals deze zijn gecommuniceerd vanuit CorpoData aan de toegelaten instelling, die samenhangen met de aanpassingen door CorpoData over het verslagjaar 2014 hoeven niet vermeld te worden in het assurance-rapport.
+Hieruit volgt de mutatiekans van het waarderingscomplex: 12/500 oftewel 2,40%
 
 In deze paragraaf worden de controlewerkzaamheden beschreven met betrekking tot een aantal specifieke artikelen uit de vigerende regelgeving, waaronder enkele nieuwe onderwerpen die vanaf 1 juli 2015 uit hoofde van de [Woningwet](https://wetten.overheid.nl/jci1.3:c:BWBR0005181) in werking zijn getreden. Het betreft bepalingen inzake:
 
-Over de naleving van deze wettelijke bepalingen heeft de toegelaten instelling verantwoording afgelegd in onderdeel 5.7 (Verantwoording naleving specifieke wettelijke bepalingen) van de dVi.
+De jaarlijkse stijging van de markthuur en de contracthuur is gelijk aan de prijsinflatie van het voorafgaande jaar.
 
 Inzake de hierna genoemde elementen uit de dVi over het verslagjaar zal een oordeel afgegeven moeten worden. Hieronder wordt per onderdeel een nadere toelichting verstrekt:
 
-Voor de periode vanaf 1 januari 2015 tot 1 juli 2015 geldt dat de hieronder opgesomde regelgeving en toelichtingen daarop (voor zover deze niet reeds in de betreffende paragraaf van dit protocol zijn opgenomen) van toepassing zijn voor de werkzaamheden van de accountant:
+De exploitatiekosten bestaan uit de onderhoudskosten, waarbij alleen wordt uitgegaan van instandhoudingsonderhoud. Verder zijn er kosten voor beheer, belastingen, verzekeringen en overige zakelijk lasten. Deze kostensoorten worden hierna nader toegelicht.
 
 Voor de periode vanaf 1 juli 2015 tot en met 31 december 2015 geldt dat de hieronder opgesomde regelgeving en toelichtingen daarop (voor zover deze niet reeds in de betreffende paragraaf van dit protocol zijn opgenomen) van toepassing zijn voor de werkzaamheden van de accountant:
 
 ### 4.3. Materialiteit (betrouwbaarheid, nauwkeurigheid en rapporteringstolerantie)
 
-Voor een 24-tal onderdelen van de dVi (zie verder paragraaf: Onderdelen assurance-rapport) wordt per onderdeel een oordeel van de accountant gevraagd. Voor al deze onderdelen geldt een betrouwbaarheidsnorm van 95% en een rapporteringstolerantie van 0%. Dit betekent dat de accountant alle geconstateerde afwijkingen toelicht in een aparte paragraaf in het assurance-rapport (‘Overige aangelegenheden’), ook als dit geen invloed heeft op het afgegeven oordeel. Aanpassingen in de cijfers, zoals deze zijn gecommuniceerd vanuit CorpoData aan de toegelaten instelling, die samenhangen met de aanpassingen door CorpoData over het verslagjaar 2014 hoeven niet vermeld te worden in het assurance-rapport.
+De bedragen voor het instandhoudingsonderhoud zijn ontleend aan de waarderingsgegevens van toegelaten instellingen, die op marktwaarde hebben gewaardeerd, en zijn weergegeven in onderstaande tabel. Voor de parkeergelegenheden wordt een vast bedrag per jaar aangehouden dat per type parkeervoorziening verschilt. De bedragen zijn per jaar, inclusief 21% BTW.
 
-### 4.5. Onderdelen assurance-rapport cijfermatige verantwoording
+### 7.2.5.2. Beheerkosten
 
-Voor de periode vanaf 1 juli 2015 tot en met 31 december 2015 geldt dat de hieronder opgesomde regelgeving en toelichtingen daarop (voor zover deze niet reeds in de betreffende paragraaf van dit protocol zijn opgenomen) van toepassing zijn voor de werkzaamheden van de accountant:
+Beheerkosten zijn de kosten die worden gemaakt voor het beheer van de parkeervoorziening. Het gaat hierbij om de kosten gemaakt voor de verhuur en marketing. De niet-object gebonden kosten, maatschappelijke beheerkosten, taxatiekosten en accountantskosten worden niet gerekend tot de beheerkosten.
 
-In de benadering van de onzekerheid wordt de weging op basis van professional judgment bepaald. De toepassing van de tabel ‘Vertaling naar oordeel’ is per onderdeel aangegeven (zie onderdelen 23 en 24).
+De hoogte van de beheerkosten is afhankelijk van het type parkeervoorziening. De bedragen voor de beheerkosten zijn ontleend aan waarderingsgegevens van toegelaten instellingen, die op marktwaarde hebben gewaardeerd, en zijn weergegeven in onderstaande tabel. De bedragen zijn per jaar, inclusief 21% BTW.
 
-### A. Aspect Volledigheid
+### 7.2.5.3. Belastingen en verzekeringen
 
-De norm ten aanzien van de nauwkeurigheid (materialiteit) is voor de dVi-onderdelen 1 tot en met 22 (per onderdeel) weergegeven in de paragraaf ‘Onderdelen assurance-rapport’.
+Bij parkeervoorzieningen wordt rekening gehouden met belastingen en verzekeringen. De bedragen voor belastingen en verzekeringen zijn ontleend aan waarderingsgegevens van toegelaten instellingen, die op marktwaarde hebben gewaardeerd, en zijn weergegeven in onderstaande tabel. Het percentage heeft betrekking op de WOZ-waarde ontleend aan de WOZ-beschikking van 2016, die de waardepeildatum 1 januari 2015 kent. De bedragen zijn per jaar, inclusief 21% BTW. In het doorexploiteerscenario wordt tijdens de DCF-periode wordt dit op basis van de WOZ-waarde tot stand gekomen, bedrag, geïndexeerd met de prijsinflatie.
 
 Bij de dVi-onderdelen 23 en 24 dient de accountant een deelwaarneming uit te voeren die mede als basis geldt om een oordeel te formuleren. In de tabel ‘Vertaling naar oordeel’ hierna is aangegeven op welke wijze met de bevindingen moet worden omgegaan in relatie tot het te formuleren oordeel over het betreffende dVi-onderdelen 23 en 24. De percentages hebben bij onderdeel 23 betrekking op geld (financiële omvang) en bij het onderdeel 24 betrekking op aantallen (toewijzingen).
 
-In de benadering van de onzekerheid wordt de weging op basis van professional judgment bepaald. De toepassing van de tabel ‘Vertaling naar oordeel’ is per onderdeel aangegeven (zie onderdelen 23 en 24).
+Splitsingskosten zijn de kosten die moeten worden gemaakt om een complex dat nu als een geheel staat geregistreerd in het Kadaster te splitsen, zodat het complex vervolgens per verhuureenheid kan worden verkocht. De splitsingskosten worden verdeeld in juridische en technische splitsingskosten.
 
-Bij deze tabel worden de volgende fout- en onzekerheidsdefinities gehanteerd. Van een fout in de verantwoording is sprake indien naar aanleiding van het uitgevoerde onderzoek is gebleken dat een (gedeelte van een) post niet in overeenstemming is met één of meer aspecten van de wet- en regelgeving. Fouten worden in absolute zin opgevat, saldering van fouten is daarom niet toegestaan.
+In deze basisvariant worden geen technische splitsingskosten opgenomen. Als daar reden toe is, kunnen de technische splitsingskosten via de full versie worden meegenomen.
 
 Van een onzekerheid in het onderzoek is sprake als er onvoldoende (controle-) informatie beschikbaar is om een (gedeelte van een) post als goed of fout aan te merken. Kortom als onzekerheid bestaat over het wel of niet voldoen aan de wet- en regelgeving. Bij fouten in de verantwoording kan onderscheid gemaakt worden in incidentele en structurele fouten. Van een incidentele (geïsoleerde) fout is sprake als het een toevallige fout betreft. Kenmerkend voor incidentele fouten is dat in principe geen herhaling optreedt van de geconstateerde fout. Hierbij dient de accountant de bepaling uit NBA Standaard 530.13 (Het gebruikmaken van steekproeven bij een controle) in acht te nemen. Van een structurele fout is sprake als de oorzaak van de fout is gelegen in (onderdelen van) het systeem van uitvoering, waardoor fouten met een (zeker) herhalingskarakter (kunnen) optreden. Het voorgaande is van overeenkomstige toepassing op onzekerheden in de controles. Voor een adequate onderbouwing van het oordeel is het noodzakelijk dat de accountant fouten en onzekerheden zoveel mogelijk kwantificeert.
 
-**De werkzaamheden van de accountant zijn erop gericht om vast te stellen of de verantwoording onder 5.8.5. juist en volledig is. Dit dient te leiden tot één (1) en niet meer dan 1 oordeel dat betrekking heeft op 5.8.5 als geheel.**
+De verkoopkosten zijn de kosten die worden gemaakt voor de verkoop van de parkeergelegenheden bij uitponden. Onder deze kosten vallen makelaarskosten en, indien aanwezig, eventuele andere handelingskosten. Onderhoudskosten die worden gemaakt om een parkeergelegenheid gereed te maken voor verkoop en de overdrachtsbelasting, vallen niet onder de verkoopkosten. De hoogte van het bedrag is ontleend aan de waarderingsgegevens van toegelaten instellingen, die op marktwaarde hebben gewaardeerd. Het bedrag is inclusief 21% BTW. Er wordt geen onderscheid gemaakt naar type parkeervoorziening.
 
 Het assurance-rapport strekt zich uit over de genoemde 24 onderdelen; de accountant moet per onderdeel een afzonderlijk oordeel formuleren. Uit praktisch oogpunt is Model III van rubriek E zo ingericht dat de accountant daarin alleen de niet-goedkeurende oordelen hoeft te vermelden. De accountant moet de onderbouwing van deze afwijkende oordelen in het assurance-rapport omschrijven.
 
 ### 4.5. Onderdelen assurance-rapport cijfermatige verantwoording
 
-Inzake de hierna genoemde elementen uit de dVi over het verslagjaar, inclusief verantwoording omtrent woningtoewijzingen, zal een oordeel afgegeven moeten worden. Hieronder wordt per onderdeel een nadere toelichting verstrekt waarbij tevens wordt ingegaan op de nauwkeurigheid van de uit te voeren werkzaamheden:
+Voorbeeld:
 
-**De werkzaamheden van de accountant zijn erop gericht om vast te stellen of de verantwoording onder 5.8.5. juist en volledig is. Dit dient te leiden tot één (1) en niet meer dan 1 oordeel dat betrekking heeft op 5.8.5 als geheel.**
+Stel de aanvangsleegstand is 3 maanden. Dat betekent dat in het eerste kalenderjaar de huurderving als gevolg van leegstand gelijk is aan 3/12 of te wel 25% van de markthuur medio dat jaar. Na de periode wordt de verhuureenheid bij doorexploiteren tegen de markthuur verhuurd.
 
 Als **kader**voor de werkzaamheden bij het aspect **volledigheid** van de accountant geldt dat:
 
@@ -2039,23 +2039,23 @@ Als **kader**voor de werkzaamheden bij het aspect **volledigheid** van de accoun
 
 ### C. Uitgangspunten accountantswerkzaamheden Inkomenstoets
 
-Het beoordelen van het aspect van een door de toegelaten instelling te plegen maximale inspanning (in het geval van nieuwe contracten die niet de gewenste afspraken bevatten) zoals opgenomen in de tijdelijke regeling valt buiten de werkzaamheden van de accountant.
+Voorbeeld:
 
-Als **kader**voor de werkzaamheden bij het aspect **volledigheid** van de accountant geldt dat:
+Stel de mutatieleegstand is 3 maanden. Dat betekent dat bij mutatie gerekend moet worden met 3 maanden huurderving in het kalenderjaar. Deze huurderving is gelijk aan 3/12 of te wel 25% van de markthuur van de verhuureenheid medio dat jaar.
 
 Het woningbezit moet zijn ingedeeld in woningbezit met een maandhuur tot en met € 710,68 en dat daarboven.
 
-De toegelaten instelling een totaalaansluiting dient te kunnen overleggen waarin de totale toewijzing in het verslagjaar wordt onderverdeeld tot en met € 710,68 en daarboven.
+Erfpacht beïnvloedt de waarde van de parkeergelegenheid. Het effect van de erfpacht op de waarde vloeit voort uit de consequenties die de erfpacht voor de koper heeft. Er zijn in Nederland verschillende vormen van erfpacht. In deze paragraaf worden alleen enkele hoofdlijnen beschreven. Als de consequenties van de erfpacht voor de waardering te veel afwijken van deze hoofdlijnen, is maatwerk nodig dat op basis van de full versie mogelijk is.
 
-In het geval er sprake is van intermediaire verhuur, kan de controlerend accountant van de toegelaten instelling gebruik maken van de werkzaamheden van de accountant van de intermediair ten behoeve van het vaststellen van de volledigheid van de huuradministratie en de aan de toegelaten instelling in het verslagjaar verantwoorde toewijzingen. De controlerend accountant van de toegelaten instelling dient dan alle relevante bepalingen uit COS 600 toe te passen.
+Het uitgangspunt is om het verhuurde eerst te waarderen alsof deze op eigen grond staat en vervolgens de gevolgen van erfpacht te bezien als correcties op deze waarde. Op die manier is het mogelijk objecten op eigen grond en op erfpacht transparant te vergelijken. De correcties komen voort uit toekomstige financiële verplichtingen verbonden aan de erfpacht zoals canon betalingen en/of hernieuwde toekomstige afkoopsommen.
 
-De accountant voert **geen** werkzaamheden uit met betrekking tot de verantwoording over toewijzing aan de andere deelgroep in de dVi onder 5.8.5:
+Als de erfpacht niet is afgekocht en als sprake is van een jaarlijkse canon, zonder dat bij verkoop aan een belegger of vervolgens bij uitponden aan een particulier een afkoopsom is verschuldigd, is de betreffende canon een doorlopende kasstroom. De contante waarde van deze kasstroom is een correctie op de waarde toepasbaar in de basisversie. Afhankelijk van de erfpachtovereenkomst, dient deze canon wel of niet te worden geïndexeerd.
 
 ### D. Uitgangspunten steekproef Inkomenstoets
 
 ### 5. Rubriek D: het rapport van feitelijke bevindingen inzake de marktwaarde in verhuurde staat
 
-Als **kader** voor de werkzaamheden van de accountant bij het aspect **juistheid** geldt dat:
+In sommige gevallen zal sprake zijn van een erfpachtsuppletie omdat bij verkoop aan een belegger, sprake is van een bestemmingswijziging van de sector van toegelaten instellingen naar de beleggersector. Deze suppletie dient dan wel in de DCF-berekening meegenomen te worden primo het eerste jaar van de waardering.
 
 De rapporteringstolerantie bedraagt 0%. Dit betekent dat de accountant alle geconstateerde fouten/onzekerheden dient toe te lichten in een aparte paragraaf in het assurance-rapport (‘overige aangelegenheden’), ook als dit geen invloed heeft op het afgegeven oordeel. De tabel ‘Vertaling naar oordeel’ is hierop van toepassing.
 
@@ -2063,247 +2063,247 @@ De rapporteringstolerantie bedraagt 0%. Dit betekent dat de accountant alle geco
 
 ### 5.2. Specifiek van toepassing zijnde regelgeving
 
-Indien uit de steekproef **fouten** in de verantwoording blijken, worden deze fouten vertaald naar de massa van de genoemde deelgroep en gaat de accountant na wat de impact is van deze fouten op de totale hoeveelheid aangegane huurovereenkomsten met betrekking tot zodanige woongelegenheden in de gevallen dat het huishoudinkomen ten hoogste € 34.911 dan wel € 38.950 per jaar is, alsmede op basis van andere kenmerken die een huishouden volgens de (tijdelijke) Regeling tot de doelgroep doet behoren. Dit leidt mogelijk tot een aanvullende steekproef.
+De vastgoed sectorspecifieke opslag is een vastgoedsector gebonden risico-opslag, welke dient ter compensatie voor het extra risico dat wordt gelopen voor het investeren in vastgoed, ten opzichte van de risicovrije rente. Het percentage voor de vastgoedsector specifieke opslag is ontleend aan waarderingsgegevens van toegelaten instellingen.
 
 ### 5. Rubriek D: het rapport van feitelijke bevindingen inzake de marktwaarde in verhuurde staat
 
-Naast de hierboven beschreven waarschijnlijkheidstoetsen dient de accountant tevens als volgt aandacht te besteden aan getoetste inkomens die **net onder de grens** van € 34.911 1 januari tot 1 juli 2015 en die, voor de periode vanaf 1 juli 2015 tot en met 31 december 2015, net onder de grens van € 38.950 liggen. De accountant voert, afhankelijk van de omvang, een gegevensgerichte deelwaarneming uit. De omvang van deze deelwaarneming dient de accountant te baseren op basis van ‘professional judgement’.
+Bij de schatting van de hoogte van de opslag voor het markt- en objectrisico is gebruik gemaakt van een referentieobject. De keuze voor het referentieobject heeft geen invloed op de hoogte van de disconteringsvoet van de andere parkeergelegenheden. De schatting van deze opslag is gebaseerd op waarderingsgegevens van toegelaten instellingen, die op marktwaarde hebben gewaardeerd.
 
 ### 5.5. Beschrijving van de te verrichten werkzaamheden
 
-Aantal aangegane huurovereenkomsten met betrekking tot zodanige woongelegenheden in de gevallen dat het huishoudinkomen in de periode van 1 januari 2015 tot 1 juli 2015 hoger dan € 34.911 per jaar is en in de periode vanaf 1 juli tot en met 31 december 2015 hoger dan € 38.950 is.
+Om tot de disconteringsvoet van de afzonderlijke parkeergelegenheden te komen, wordt gebruik gemaakt van het referentieobject. De onderstaande tabellen geven daarbij de afzonderlijke effecten weer van elk van de onderscheiden kenmerken. Door per verhuureenheid na te gaan wat de effecten zijn voor het markt- en objectrisico en deze op te tellen bij de totale disconteringsvoet van het referentieobject, ontstaat de disconteringsvoet van de overige parkeergelegenheden.
 
 Over de bevindingen die uit het onderzoek naar voren komen wordt gerapporteerd in het rapport van feitelijke bevindingen zoals opgenomen in hoofdstuk 6 / rubriek E model IV van dit accountantsprotocol.
 
-**Nadere toelichting:**
+De eindwaarde is de marktwaarde van het waarderingscomplex aan het einde van het 15e jaar. Deze waarde is gelijk aan de contante waarde van de verwachte kasstromen die vanaf het 16e exploitatiejaar worden verwacht. Deze eindwaarde wordt vervolgens contant gemaakt met de gehanteerde disconteringsvoet naar de waardepeildatum en is zo onderdeel van de marktwaarde.
 
-In de nieuwe [Woningwet](https://wetten.overheid.nl/jci1.3:c:BWBR0005181) is in [artikel 35 lid 2](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&artikel=35) opgenomen dat toegelaten instellingen het vastgoed in exploitatie in de jaarrekening dienen te waarderen tegen de marktwaarde in verhuurde staat volgens het waarderingshandboek in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0036709&bijlage=2&z=2016-10-28&g=2016-10-28) van de Regeling toegelaten instellingen volkshuisvesting 2015. Deze verplichting ten aanzien van de verantwoording in de jaarrekening geldt met ingang van boekjaar 2016. In de dVi over het boekjaar 2015 zal de toegelaten instelling de marktwaarde in verhuurde staat verantwoorden naar de peildatum 31 december 2015.
+Vanaf het 16e jaar wordt verondersteld dat sprake is van doorexploiteren met een voortdurende looptijd. Rekenen met een looptijd van 50 jaar levert nagenoeg dezelfde uitkomst. Vanwege de rekenkundige uniformiteit is vanaf verslagjaar 2017 de berekening op basis van voortdurende looptijd voorschrift. Over het verslagjaar 2016 kan eventueel nog gerekend worden met een 50- jaars periode.
 
-Invoering van de marktwaarde in verhuurde staat is voor veel toegelaten instellingen ingrijpend en vergt een omslag in de wijze waarop het waarderingsproces wordt uitgevoerd en de wijze van verantwoorden in de jaarrekening en de dVi. De dVi is ingericht op basis van de marktwaarde zoals bepaald in de [Woningwet](https://wetten.overheid.nl/jci1.3:c:BWBR0005181), waardoor hierop de classificatie van DAEB en niet-DAEB zoals deze is bepaald in de [Woningwet](https://wetten.overheid.nl/jci1.3:c:BWBR0005181) van toepassing is. Er is voor gekozen om de accountant over verslagjaar 2015 op basis van Standaard 4400 ‘opdrachten tot het verrichten van overeengekomen specifieke werkzaamheden met betrekking tot financiële informatie, specifieke werkzaamheden te laten uitvoeren, met als eindproduct een rapport van feitelijke bevindingen. De specifieke werkzaamheden zijn beschreven in paragraaf 5.5.
+De manier waarop voor een parkeergelegenheid de eindwaarde op basis van voortdurende looptijd wordt bepaald is hetzelfde als bij woongelegenheden met als uitzondering dat voor parkeergelegenheden de eindwaarde alleen op basis van een doorexploiteerscenario wordt bepaald.
 
 De werkzaamheden zoals beschreven in paragraaf 5.5 leiden tot een rapport van feitelijke bevindingen conform Standaard 4400.
 
-Het gaat hierbij om de waarden die in de dVi zijn opgenomen op de regels: ‘Netto Marktwaarde’, ’Marktwaarde o.b.v. 100% doorexploitatie’ en ‘Marktwaarde o.b.v. 100% uitpondscenario’. In onderstaande tabel is nader toegelicht wat op deze regels in de dVi verantwoord moet worden:
+De overdrachtskosten zijn de overdrachtsbelasting en de notaris- en de registratiekosten bij de verkoop van de parkeergelegenheden in verhuurde staat. De overdrachtskosten worden weergegeven als een percentage van de berekende marktwaarde van een eenheid.
 
 De toegelaten instelling is verantwoordelijk voor het bepalen van de marktwaarde in verhuurde staat en de verantwoording daarover in de dVi in overeenstemming met het waarderingshandboek zoals opgenomen in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0036709&bijlage=2&z=2016-10-28&g=2016-10-28) bij de Regeling toegelaten instellingen volkshuisvesting.
 
-**Nadere toelichting:**
+Indien op het waarderingscomplex of een deel daarvan, op de waardepeildatum 31 december 2016 een ook voor een derde, onherroepelijke verplichting tot sloop van toepassing is, dient hier bij de waardering rekening mee te worden gehouden.
 
-De werkzaamheden zoals beschreven in paragraaf 5.5 leiden tot een rapport van feitelijke bevindingen conform Standaard 4400.
+In de voorgaande versie van dit handboek werd nog uitgegaan van een speciaal uitpondscenario voor parkeergelegenheden. In dit scenario werd verondersteld dat parkeergelegenheden in een periode van drie jaar werden uitgepond. In dit handboek geldt voor parkeergelegenheden dezelfde benadering als voor woongelegenheden.
 
 Certificering van het door de toegelaten instelling gehanteerde rekenmodel is op grond van het waarderingshandboek ([bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0036709&bijlage=2&z=2016-07-01&g=2016-07-01) bij de Regeling) niet verplicht voor verslagjaar 2015. Er bestaat bij de Aw wel behoefte om te weten of corporaties over verslagjaar 2015 gebruik hebben gemaakt van een gecertificeerd rekenmodel. Hierover zal ook een vraag worden opgenomen in de dVi. De accountant dient uitsluitend vast te stellen dat bij het rekenmodel dat door de toegelaten instelling is gehanteerd bij het berekenen van de marktwaarde voor de dVi, een assurance-rapportage is afgegeven conform COS 3000/3402. Indien er in het certificeringsrapport bevindingen zijn opgenomen ten aanzien van de betrouwbaarheid van het rekenmodel dan wel indien deze certificering nog ontbreekt maakt de accountant hier melding van in het rapport van bevindingen. Indien er sprake is van een ander type certificering dan conform COS 3000/3402 maakt de accountant hier eveneens melding van in het rapport van bevindingen.
 
-Over de bevindingen die uit het onderzoek naar voren komen wordt gerapporteerd in het rapport van feitelijke bevindingen zoals opgenomen in hoofdstuk 6 / rubriek E model IV van dit accountantsprotocol.
+De modelmatige bepaalde marktwaarde van een complex ligt ten opzichte van de geïndexeerde WOZ- waarde over het algemeen binnen een bandbreedte van 50 en 125%. Indien dit niet het geval is, is een nadere beoordeling van de gebruikte objectgegevens nodig om te bezien of deze juist zijn. Indien de gebruikte objectgegevens juist blijken te zijn, behoeft de marktwaarde niet te worden aangepast.
 
 **Nadere toelichting:**
 
-**Punt a:**
+In dit hoofdstuk worden de te hanteren gegevens en de uitgangspunten voor de waardebepaling van intramuraal zorgvastgoed uiteengezet. Voor de waardebepaling is het belangrijk om onderscheid te maken tussen de **objectgegevens**en de **modelparameters.**De objectgegevens zijn specifieke gegevens van de toegelaten instelling die op het niveau van de verhuureenheid beschikbaar dienen te zijn. Naast de objectgegevens wordt gebruik gemaakt van modelparameters.
 
-Certificering van het door de toegelaten instelling gehanteerde rekenmodel is op grond van het waarderingshandboek ([bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0036709&bijlage=2&z=2016-10-28&g=2016-10-28) bij de Regeling) niet verplicht voor verslagjaar 2015. Er bestaat bij de Aw wel behoefte om te weten of corporaties over verslagjaar 2015 gebruik hebben gemaakt van een gecertificeerd rekenmodel. Hierover zal ook een vraag worden opgenomen in de dVi. De accountant dient uitsluitend vast te stellen dat bij het rekenmodel dat door de toegelaten instelling is gehanteerd bij het berekenen van de marktwaarde voor de dVi, een assurance-rapportage is afgegeven conform COS 3000/3402. Indien er in het certificeringsrapport bevindingen zijn opgenomen ten aanzien van de betrouwbaarheid van het rekenmodel dan wel indien deze certificering nog ontbreekt maakt de accountant hier melding van in het rapport van bevindingen. Indien er sprake is van een ander type certificering dan conform COS 3000/3402 maakt de accountant hier eveneens melding van in het rapport van bevindingen.
+Voor het bepalen van de marktwaarde in verhuurde staat van intramuraal zorgvastgoed, ligt hier in de basis het rekenmodel voor BOG en MOG aan ten grondslag. Ook nu wordt alleen gewerkt met een doorexploiteerscenario en geldt dat er geen sprake is van een uitpondscenario. Het waarderingsmodel voor intramuraal zorgvastgoed is daar waar nodig aangepast ten behoeve van de specifieke contracten waar intramuraal zorgvastgoed mee wordt geconfronteerd. De full variant biedt extra mogelijkheden om om te gaan met de specifieke contractvormen en afspraken die intramuraal zorgvastgoed kent.
 
 **Punt b:**
 
-Het gaat hierbij om de waarden die in de dVi zijn opgenomen op de regels: ‘Netto Marktwaarde’, ’Marktwaarde o.b.v. 100% doorexploitatie’ en ‘Marktwaarde o.b.v. 100% uitpondscenario’. In onderstaande tabel is nader toegelicht wat op deze regels in de dVi verantwoord moet worden:
+De volgende tabel bevat een overzicht van de specifieke objectgegevens voor intramuraal zorgvastgoed van de toegelaten instelling.
 
-### 6. Rubriek E: Modelteksten
+### 8.2. Modelparameters
 
 ### 6. Rubriek E: Modelteksten
 
 Voor toegelaten instellingen die in de jaarrekening RJ 213 actuele waarde hebben toegepast wordt in de dVi een vraag toegevoegd waarbij de toegelaten instelling moet aangeven of de waarde op de regel ‘Netto marktwaarde’ aansluit met de waarde in de jaarrekening. De accountant stelt vast of de beantwoording van deze JA/NEE vraag in de dVi juist is.
 
-**Punt d:**
+De markthuur is de huurprijs per maand die, uitgaande van optimale marketing en verhuur, kan worden behaald op de waardepeildatum. Daarbij geldt dat de markthuur in het doorexploiteerscenario wordt gebruikt voor het bepalen van de nieuwe huur nadat een verhuureenheid is gemuteerd. De markthuur wordt door de toegelaten instelling per jaar per verhuurcontract als objectgegeven opgegeven.
 
 Het gaat hierbij om de JA/NEE vragen in de dVi met de verantwoording over de toepassing van de vrijheidsgraden.
 
-**Punt e:**
+De huurinkomsten worden bepaald op basis van de gegevens van de huidige huurcontracten. De huidige huurcontracten zijn divers en bestaan veelal uit verschillende componenten, onder andere een lineair afschrijvingscomponent en een annuïtair afschrijvingscomponent. Derhalve zijn de contracthuren voor de looptijd van het verhuurcontract vrij invulbaar. Daarbij geldt dat de contracthuur zodanig moet worden opgegeven voor de looptijd van het verhuurcontract, dat elk jaar een correctie kent voor de prijsinflatie van het voorafgaande jaar. Door het grillige verloop van de contracthuren, bestaat de mogelijkheid om voor de gehele looptijd van het verhuurcontract de kale jaarhuur van het verhuurcontract op te geven. Daarbij geldt dat de kale jaarhuur de huur is inclusief de correctie voor de prijsinflatie van het voorafgaande jaar.
 
-De eisen die aan het verslag van de externe taxateur worden gesteld zijn nader uitgewerkt in het waarderingshandboek (versie december 2015 van [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0036709&bijlage=2&z=2016-10-28&g=2016-10-28) bij de Regeling toegelaten instellingen volkshuisvesting 2015).
+Op het moment van de einddatum van het verhuurcontract zijn er twee mogelijkheden:
 
 **Punt f:**
 
-Als bij een afzonderlijke tak de huursom, zoals gedefinieerd in de toelichting van het dVi onderdeel 2.2B, van bedrijfsmatig, maatschappelijk en intramuraal zorgvastgoed meer dan 5% is, stelt de accountant vast dat er een verslag van de externe taxateur aanwezig is. De achterliggende reden is dat elke tak afzonderlijk financieel beoordeeld wordt.
+Bij de verlenging van het huurcontract geldt dat op basis van de herzieningshuur, de nieuwe contracthuur wordt opgenomen.
 
 **Punt g:**
 
-De registratie in het NRVT is per 1 oktober 2015 gestart. De accountant stelt vast dat de externe taxateur zoals bedoeld in punt d, e en f is ingeschreven in het NRVT.
+Indien aan het einde van het huurcontract wordt verwacht dat opzegging zal plaatsvinden, wordt er van uitgegaan dat een nieuw marktconform huurcontract kan worden afgesloten. Indien een nieuw huurcontract wordt afgesloten, geldt dat de nieuwe contracthuur wordt opgenomen. Als het afsluiten van een nieuw huurcontract vereist dat verbouwingsingrepen noodzakelijk zijn, dan geldt dat de kosten die gepaard gaan met deze verbouwingsingrepen als kasstroom worden meegenomen in de DCF- berekening. Deze kosten worden gezien als mutatieonderhoud. De bedragen zijn per m2 bvo, inclusief 21% BTW.
 
 **CONTROLEVERKLARING VAN DE ONAFHANKELIJKE ACCOUNTANT**
 
-Aan: Opdrachtgever
+De exploitatiekosten bestaan uit de onderhoudskosten, onderscheiden naar instandhouding- onderhoud, achterstallig onderhoud en mutatieonderhoud. Verder zijn er kosten voor beheer, belastingen, verzekeringen en overige zakelijke lasten. Deze kostensoorten worden hierna nader toegelicht.
 
 **Goedkeurende controleverklaring als bedoeld in artikel 29, eerste lid, onderdeel a, van het Besluit beheer sociale-huursector (Bbsh) met betrekking tot de jaarrekening en het jaarverslag**
 
-(enkelvoudig/geconsolideerd17Indien de jaarrekening alleen bestaat uit een enkelvoudige jaarrekening, derhalve als geen geconsolideerde jaarrekening opgesteld behoeft te worden, dient het woord ‘enkelvoudige’ in de gehele verklaring niet te worden opgenomen. In alle overige gevallen dienen, afhankelijk van de feitelijke situatie, de woorden ‘geconsolideerde jaarrekening’ of ‘enkelvoudige jaarrekening’ of ‘enkelvoudige en geconsolideerde jaarrekening’ in de gehele verklaring gebruikt te worden.)
+Het instandhoudingsonderhoud is het onderhoud dat gedurende de 15-jarige DCF-periode nodig is om het contract in dezelfde technische en bouwkundige staat te houden, als waarin het zich op het moment van waarderen bevindt. Het gaat hierbij niet om investeringen die leiden tot een verbetering van de kwaliteit van de verhuureenheid. Het instandhoudingsonderhoud leidt ook niet tot een hogere huur.
 
-**CONTROLEVERKLARING VAN DE ONAFHANKELIJKE ACCOUNTANT**
+De bedragen voor het instandhoudingsonderhoud zijn ontleend aan gegevens van toegelaten instellingen en weergegeven in onderstaande tabel. De bedragen zijn per m2 bvo, inclusief 21% BTW. Er wordt geen onderscheid gemaakt naar type intramuraal zorgvastgoed.
 
 Aan: Opdrachtgever
 
-**Verklaring betreffende de jaarrekening**
+Mutatiekosten doen zich voor bij opzegging van de huurovereenkomst. Hierbij wordt onderscheid gemaakt tussen kosten voor technisch onderhoud en de kosten voor marketing.
 
-Wij hebben de (in dit rapport/verslag opgenomen18Verwijzing kan geschieden met behulp van paginanummers.) jaarrekening XXXX van ... (naam toegelaten instelling) te ... (statutaire vestigingsplaats) gecontroleerd. Deze jaarrekening bestaat uit de balans per ... XXXX en de winst-en-verliesrekening over XXXX met de toelichting, waarin zijn opgenomen een overzicht van de gehanteerde grondslagen voor financiële verslaggeving en andere toelichtingen.
+Onder technische mutatieonderhoud worden de kosten verstaan die de verhuurder in het kader van de beëindiging van de huurovereenkomst met de zittende huurder moet maken om een nieuw verhuurcontract tegen het geldende marktwaardeniveau te kunnen afsluiten. Het gaat daarbij om maatregelen in het kader van instandhoudingsonderhoud.
 
-In [artikel 127, tweede lid, van het Besluit toegelaten instellingen volkshuisvesting 2015](https://wetten.overheid.nl/jci1.3:c:BWBR0036702&artikel=127) is bepaald dat het [Besluit beheer sociale-huursector](https://wetten.overheid.nl/jci1.3:c:BWBR0005686) (Bbsh) tot 1 januari van het eerstvolgende verslagjaar na inwerkingtreding van de [Woningwet](https://wetten.overheid.nl/jci1.3:c:BWBR0005181) van toepassing blijft voor de jaarrekening, het jaarverslag, het volkshuisvestingsverslag en het onderzoeken en beoordelen van die verslagen door de accountant. Dit betekent dat voor verslagjaar 2015 het Bbsh zijn kracht heeft behouden voor deze onderwerpen.
+Onder de mutatiekosten marketing worden de kosten verstaan die de verhuurder in het kader van de marketing moet maken om het contract opnieuw te kunnen afsluiten. Het gaat daarbij om de kosten die de eigen organisatie van de verhuurder zal moeten maken en daarnaast om de kosten van de makelaar die de verhuurder zal inschakelen.
 
-**Verantwoordelijkheid van het bestuur**
+De kosten voor technische mutatieonderhoud en de mutatiekosten marketing worden alleen in rekening gebracht wanneer er sprake is van opzegging, en niet bij verlenging, van de huurovereenkomst.
 
-Het bestuur van de toegelaten instelling is verantwoordelijk voor het opmaken van de jaarrekening die het vermogen en het resultaat getrouw dient weer te geven, alsmede voor het opstellen van het jaarverslag, beide in overeenstemming met de bepalingen inzake de jaarrekening en het jaarverslag als opgenomen in [artikel 26, eerste lid, van het Bbsh](https://wetten.overheid.nl/jci1.3:c:BWBR0005686&artikel=26), de bepalingen van en krachtens de [Wet normering bezoldiging topfunctionarissen publieke en semipublieke sector](https://wetten.overheid.nl/jci1.3:c:BWBR0032249) (WNT) en richtlijn 645 van de Raad voor de Jaarverslaggeving.
+Er wordt geen onderscheid gemaakt naar type intramuraal zorgvastgoed. De bedragen in de tabel zijn inclusief 21% BTW.
 
-Het bestuur van de toegelaten instelling is voorts verantwoordelijk voor een zodanige interne beheersing als het noodzakelijk acht om het opmaken van de jaarrekening mogelijk te maken zonder afwijkingen van materieel belang als gevolg van fraude of fouten.
+In veel gevallen is bij vertrek van de huurder volledige renovatie van de binnenkant nodig. In dat geval geldt dat de kosten die gepaard gaan met deze verbouwingsingrepen als achterstallig onderhoud dienen te worden beschouwd.
 
 **Verantwoordelijkheid van de accountant**
 
 ### 6.2. Model II
 
-Een controle omvat het uitvoeren van werkzaamheden ter verkrijging van controle-informatie over de bedragen en de toelichtingen in de jaarrekening. De geselecteerde werkzaamheden zijn afhankelijk van de door de accountant toegepaste oordeelsvorming, met inbegrip van het inschatten van de risico’s dat de jaarrekening een afwijking van materieel belang bevat als gevolg van fraude of fouten.
+De correctie bij de waardering is in ieder geval aan de orde als de toegelaten instelling de ingreep om achterstallig onderhoud of onderhoudsgebreken ongedaan te maken, in de meerjarenprognose heeft opgenomen. De contante waarde van de kosten van deze ingreep dienen dan in mindering te worden gebracht op de waarde van de betreffende eenheid. De bedragen zijn inclusief 21% BTW.
 
 Bij het maken van deze risico-inschattingen neemt de accountant de interne beheersing in aanmerking die relevant is voor het opmaken van de jaarrekening en voor het getrouwe beeld daarvan, gericht op het opzetten van controlewerkzaamheden die passend zijn in de omstandigheden. Deze risico-inschattingen hebben echter niet tot doel een oordeel tot uitdrukking te brengen over de effectiviteit van de interne beheersing van de toegelaten instelling. Een controle omvat tevens het evalueren van de geschiktheid van de gebruikte grondslagen voor financiële verslaggeving en van de redelijkheid van de door het bestuur van de toegelaten instelling gemaakte schattingen, alsmede een evaluatie van het algehele beeld van de jaarrekening.
 
-Wij zijn van mening dat de door ons verkregen controle-informatie voldoende en geschikt is om een onderbouwing voor ons oordeel te bieden.
+Beheerkosten zijn de kosten die worden gemaakt voor het beheer van het verhuurcontract. Het gaat hierbij om de kosten gemaakt voor de verhuur en marketing van het verhuurcontract. De niet-object gebonden kosten, maatschappelijke beheerkosten, taxatiekosten en accountantskosten worden niet gerekend tot de beheerkosten.
 
-**Oordeel19Indien niet is voldaan aan de wettelijke verplichting tot vermelding van de informatie over topinkomens o.g.v. artikel 4.1 van de WNT, vervalt de optie van een goedkeurend getrouwheidsoordeel en dient de accountant de ontbrekende informatie in zijn verklaring op te nemen.**
+De hoogte van de beheerkosten is ontleend aan gegevens van toegelaten instellingen. **De beheerkosten zijn 2,5% van de markthuur op jaarbasis**. De bedragen zijn inclusief 21% BTW.
 
 Naar ons oordeel geeft de jaarrekening een getrouw beeld van de grootte en de samenstelling van het vermogen van ... (naam entiteit) per ... XXXX en van het resultaat over XXXX in overeenstemming met [artikel 26, eerste lid, van het Bbsh](https://wetten.overheid.nl/jci1.3:c:BWBR0005686&artikel=26), de bepalingen van en krachtens de [WNT](https://wetten.overheid.nl/jci1.3:c:BWBR0032249) en richtlijn 645 van de Raad voor de Jaarverslaggeving.
 
-**Verklaring betreffende overige bij of krachtens de wet gestelde eisen**
+Onder belastingen vallen de gemeentelijke belastingen en heffingen, zoals de OZB, de rioolheffing en de verontreinigingsheffing, als ook de waterschapsbelasting. Deze belastingen en heffingen verschillen per gemeente en waterschap. In dit verband is een gemiddeld percentage voor de belastingen, verzekeringen en overige zakelijke lasten per verhuurcontract genomen. De bedragen voor belastingen, verzekeringen en overige zakelijke lasten zijn ontleend aan gegevens van toegelaten instellingen, en weergegeven in onderstaande tabel. Het percentage heeft initieel betrekking op de WOZ-waarde van de WOZ-beschikking 2016, die als waardepeildatum 1 januari 2015 kent. De bedragen zijn per jaar, inclusief 21% BTW. Tijdens de DCF-periode wordt dit op basis van de WOZ-waarde tot stand gekomen bedrag geïndexeerd met de prijsinflatie.
 
 Ingevolge [artikel 28, onderdeel b, van het Bbsh](https://wetten.overheid.nl/jci1.3:c:BWBR0005686&artikel=28), voor wat betreft het in dit artikel genoemde jaarverslag, melden wij dat ons geen tekortkomingen zijn gebleken naar aanleiding van het onderzoek of het jaarverslag, voor zover wij dat kunnen beoordelen, overeenkomstig de van toepassing zijnde bepalingen van [titel 9 van Boek 2 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&titeldeel=9) is opgesteld, en of de in [artikel 2: 392 lid 1 onder g, van Boek 2 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=392) bedoelde gegevens zijn toegevoegd. Tevens vermelden wij dat het jaarverslag, voor zover wij dat kunnen beoordelen, verenigbaar is met de jaarrekening zoals vereist in [artikel 391 lid 4 van Boek 2 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=391).
 
-Plaats, datum
+De objectparameter wel of geen aanvangsleegstand bepaalt of het object leegstaat vanaf het begin van de beschouwingsperiode, dus vanaf 1 januari 2017. Indien er sprake is van aanvangsleegstand, dan moet in de basisversie gerekend worden met een periode gelijk aan de modelparameter mutatieleegstand (in maanden) en met de huurderving die het resultaat is van deze leegstand.
 
-... (naam accountantsorganisatie)
+Voorbeeld:
 
-... (naam accountant)
-
-**Opdracht en verantwoordelijkheden**
-
-Assurance-rapport inzake de dVi over het verslagjaar (naleving van specifieke wet- en regelgeving)
-
-Aan: Opdrachtgever
-
-**ASSURANCE-RAPPORT**
+Stel de aanvangsleegstand is 3 maanden. Dat betekent dat in het eerste kalenderjaar de huurderving als gevolg van leegstand gelijk is aan 3/12 of te wel 25% van de markthuur medio dat jaar. Na de periode wordt de verhuureenheid bij doorexploiteren tegen de markthuur verhuurd.
 
 **Opdracht en verantwoordelijkheden**
 
-Wij hebben onderzocht of het overzicht van de dVi, met checksum XXXX, de assurance-onderdelen uit het accountantsprotocol van ... [naam toegelaten instelling] te ... [statutaire vestigingsplaats] over verslagjaar 2015 juist weergeeft in overeenstemming met de voorschriften zoals opgenomen in Rubriek B van bijlage 4 bij de Regeling toegelaten instellingen volkshuisvesting 2015. Het bestuur van ... [naam toegelaten instelling] is verantwoordelijk voor het in het overzicht van de dVi juist en volledig weergeven van de assurance-onderdelen 1 tot en met 18 zoals vermeld in Rubriek B van bijlage 4 bij de Regeling toegelaten instellingen volkshuisvesting 2015. Het is onze verantwoordelijkheid een assurance-rapport omtrent deze assurance-onderdelen in de dVi te verstrekken.
+Mutatieleegstand is het aantal maanden dat een verhuureenheid bij mutatie leegstaat voor dat deze wederverhuurd wordt. Mutatieleegstand resulteert in huurderving gedurende de periode van leegstand. De huurderving is gebaseerd op de markthuur. Deze huurderving geldt alleen in het doorexploiteerscenario.
 
-**Werkzaamheden**
+Voorbeeld:
 
-Wij hebben ons onderzoek verricht in overeenstemming met Nederlands recht, waaronder de Nederlandse Standaard 3000 ‘Assurance-opdrachten anders dan opdrachten tot controle en beoordeling van historische financiële informatie’ en het accountantsprotocol in Rubriek B van bijlage 4 bij de Regeling toegelaten instellingen volkshuisvesting 2015. Dienovereenkomstig dienen wij ons onderzoek zodanig te plannen en uit te voeren, dat de assurance-onderdelen uit het accountantsprotocol, zoals vastgelegd in Rubriek B van bijlage 4 bij de Regeling toegelaten instellingen volkshuisvesting 2015 die zijn opgenomen in de dVi geen afwijkingen van materieel belang bevatten..
+Stel de mutatieleegstand is 3 maanden. Dat betekent dat bij mutatie gerekend moet worden met 3 maanden huurderving in het kalenderjaar. Deze huurderving is gelijk aan 3/12 of te wel 25% van de markthuur van de verhuureenheid medio dat jaar.
 
-Ten aanzien van dVi onderdelen 5.7.8 en 5.7.9 is dat oordeel mede gebaseerd op de aangeleverde gegevens van de woningzoekende(n) (inclusief eventueel afgegeven verklaring of verklaringen waarvan wij de juistheid en volledigheid niet verder hebben onderzocht).
+**Opdracht en verantwoordelijkheden**
 
-Wij zijn van mening dat de door ons verkregen onderzoeksinformatie voldoende en geschikt is als basis voor ons oordeel.
+Erfpacht beïnvloedt de waarde van het verhuurde. Het effect van de erfpacht op de waarde vloeit voort uit de consequenties die de erfpacht voor de koper heeft. Er zijn in Nederland verschillende vormen van erfpacht. In deze paragraaf worden alleen enkele hoofdlijnen beschreven. Als de consequenties van de erfpacht voor de waardering te veel afwijken van deze hoofdlijnen, is maatwerk nodig dat op basis van de full versie mogelijk is.
 
-**Oordeel**
+Het uitgangspunt is om het verhuurde eerst te waarderen alsof deze op eigen grond staat en vervolgens de gevolgen van erfpacht te bezien als correcties op deze waarde. Op die manier is het mogelijk objecten op eigen grond en op erfpacht transparant te vergelijken. De correcties komen voort uit toekomstige financiële verplichtingen verbonden aan de erfpacht zoals canon betalingen en/of hernieuwde toekomstige afkoopsommen.
+
+Als de erfpacht niet is afgekocht en als sprake is van een jaarlijkse canon, zonder dat bij verkoop aan een belegger of vervolgens bij uitponden aan een particulier een afkoopsom is verschuldigd, is de betreffende canon een doorlopende kasstroom. De contante waarde van deze kasstroom is een correctie op de waarde toepasbaar in de basisversie. Afhankelijk van de erfpachtovereenkomst, dient deze canon wel of niet te worden geïndexeerd.
+
+Loopt het contract niet voor nog minimaal 15 jaar door, dan wordt een inschatting gemaakt van de canon bij ingang van het nieuwe contract. Door de complexiteit van deze methodiek, is in dat geval maatwerk vereist, dat via de full versie mogelijk is.
+
+Dit is het bedrag dat verschuldigd is om de huidige erfpacht om te zetten in eigendom of eeuwigdurende erfpacht. Het bedrag moet dan door de TI zijn geraamd. Indien dit bedrag in de basisversie wordt opgevoerd, dient dit van de eerdere berekende waarde op eigen grond te worden afgetrokken. Dit bedrag bevat dan tevens eventuele toekomstige canonverplichtingen. Die moeten dan niet alsnog ook opgevoerd worden.
+
+In sommige gevallen zal sprake zijn van een erfpachtsuppletie omdat bij verkoop aan een belegger, sprake is van een bestemmingswijziging van de sector van toegelaten instellingen naar de beleggersector. Deze suppletie dient dan wel in de DCF-berekening meegenomen te worden primo het eerste jaar van de waardering.
 
 Naar ons oordeel zijn de in de dVi opgenomen assurance-onderdelen uit het accountantsprotocol, welke onder ‘Opdracht en verantwoordelijkheden’ zijn benoemd van ... [naam toegelaten instelling] te ... [statutaire vestigingsplaats] in alle van materieel belang zijnde aspecten juist weergegeven.
 
-**(Indien op één van de 18 assurance-onderdelen sprake is van een niet-goedkeurend oordeel dan wordt dit afzonderlijk toegelicht20Dit oordeel gaat uit van een goedkeurend oordeel over alle 18 assurance-onderdelen. Indien aan één of meerdere onderdelen niet is voldaan, dan moet daarvoor een aangepast oordeel gevormd worden, inclusief de daarbij behorende onderbouwing van het oordeel vóór de paragraaf ‘oordeel’. Voor deze onderbouwing dient de volgende kop opgenomen te worden: Onderbouwing van het oordeel met beperking/het afkeurend oordeel/de oordeelonthouding ten aanzien van voorwaarde ...’. Ingeval van een oordeelonthouding zal ook de tekst van de paragrafen ‘Opdracht en verantwoordelijkheden’ en ‘Werkzaamheden’ navenant anders komen te luiden. De kop ‘Oordeel’ zal in deze situatie wijzigen in ‘Oordeel ten aanzien van assurance-onderdeel ...’.De kop van het aangepaste oordeel zal dan luiden: Oordeel met beperking/Oordeelonthouding/Afkeurend oordeel ten aanzien van assurance-onderdeel ...’.).**
+De disconteringsvoet is de marktconforme rendementseis waartegen de verwachte toekomstige inkomsten en uitgaven contant worden gemaakt. Voor intramuraal zorgvastgoed geldt dat alleen wordt gewerkt met een doorexploiteerscenario. De disconteringsvoet wordt opgebouwd uit de volgende drie onderdelen:
 
-**Optioneel:**
+De hoogte van de risicovrije rentevoet wordt bepaald aan de hand van het 24-maands historisch gemiddelde van de 10-jaar EURO area yield curve gebaseerd op triple AAA rated staatsobligaties zoals gepubliceerd door de ECB. Doordat gebruik wordt gemaakt van het 24-maands gemiddelde, worden incidentele pieken van de rente op de peildatum van de waardering voorkomen.
 
 ### 6.3. Model III
 
-Zonder afbreuk te doen aan ons oordeel, merken wij nog het volgende op:
+De opslagen voor het markt- en objectrisico zijn gecombineerd. Deze gecombineerde opslag is afhankelijk gesteld van twee kenmerken van de verhuureenheden:
 
-...
+Bij de schatting van de hoogte van de opslag voor het markt- en objectrisico is gebruik gemaakt van een referentiecontract. De keuze voor het referentiecontract heeft geen invloed op de hoogte van de disconteringsvoet van de andere verhuurcontracten. De schatting van deze opslag is gebaseerd op waarderingsgegevens van toegelaten instellingen.
 
-...
+De totale disconteringsvoet voor het referentie-object bedraagt **8,84%**. Aangezien de risicovrije rentevoet en de vastgoedsector specifieke opslag samen op 5,96% uitkomen, kan afgeleid worden dat bij het referentieobject de opslag voor het **markt- en objectrisico 2,88%** bedraagt.
 
-Als de toegelaten instelling in het verslagjaar geen activiteiten heeft verricht op de zestien assurance-onderdelen, dan dient dat hier te worden vermeld.
+Om tot de disconteringsvoet van de afzonderlijke verhuurcontracten te komen, wordt gebruik gemaakt van het referentiecontract. De onderstaande tabellen geven daarbij de afzonderlijke effecten weer van elk van de onderscheiden kenmerken. Door per contract na te gaan wat de effecten zijn voor het markt- en objectrisico en deze op te tellen bij de totale disconteringsvoet van het referentiecontract, ontstaat de disconteringsvoet van de overige verhuurcontracten.
 
 **(Deze paragraaf is bedoeld voor het rapporteren van geconstateerde afwijkingen in het kader van de 0% rapporteringstolerantie)**
 
-**Overige aspecten- beperking in het gebruik (en verspreidingskring)**
+De eindwaarde is de marktwaarde van het waarderingscomplex aan het einde van het 15e jaar. Deze waarde is gelijk aan de contante waarde van de verwachte kasstromen die vanaf het 16e exploitatiejaar worden verwacht. Deze eindwaarde wordt vervolgens contant gemaakt met de gehanteerde disconteringsvoet naar de waardepeildatum en is zo onderdeel van de marktwaarde.
 
-Ons assurance-rapport is uitsluitend bedoeld voor het bestuur van ... (naam toegelaten instelling) ter verantwoording aan de door de Minister voor Wonen en Rijksdienst aangewezen bevoegde instanties en dient niet te worden verspreid aan of te worden gebruikt door anderen.
+Bij intramuraal vastgoed is alleen het doorexploiteerscenario van toepassing. Vanaf het 16e jaar wordt verondersteld dat sprake is van doorexploiteren met een voortdurende looptijd.
 
-Plaats, datum
+Rekenen met een looptijd van 50 jaar levert nagenoeg dezelfde uitkomst.
 
-... (naam accountantsorganisatie)
+Vanwege de rekenkundig uniformiteit is vanaf verslagjaar 2017 de benadering op basis van een voortdurende looptijd voorschrift. Over het verslagjaar 2016 kan eventueel nog gerekend worden met een 50-jaars termijn.
 
-... (naam accountant)
+Voor Intramurale zorg geldt, net als voor BOG/MOG, niet dat er sprake is van een uitpondscenario. Daarom wordt de eindwaarde alleen bepaald op basis van het doorexploiteerscenario. De berekeningen zijn hetzelfde als voor de woningen met uitzondering van de huurkasstroom en de kosten die rechtstreeks met de huurmutaties verband houden. Per contract wordt een doorrekening gemaakt, waarbij als volgt met de huurpotentie wordt omgegaan:
 
 **Opdracht en verantwoordelijkheden**
 
-**Assurance-rapport inzake de dVi over het verslagjaar (cijfermatige verantwoording)**
+De overdrachtskosten zijn de overdrachtsbelasting en de notaris- en de registratiekosten bij de verkoop van het waarderingscomplex in verhuurde staat. De overdrachtskosten worden weergegeven als een percentage van de berekende waarde van een eenheid.
 
 Aan: Opdrachtgever
 
-**ASSURANCE-RAPPORT**
+Indien op het waarderingscomplex of een deel daarvan, op de waardepeildatum 31 december 2016 een ook voor een derde, onherroepelijke verplichting tot sloop van toepassing is, dient hier bij de waardering rekening mee te worden gehouden.
 
-**Opdracht en verantwoordelijkheden**
+Bij intramuraal zorgvastgoed is alleen sprake van een doorexploiteerscenario.
 
 Wij hebben onderzocht of het overzicht van de dVi, met checksum XXXX, de assurance-onderdelen uit het accountantsprotocol van ... [naam toegelaten instelling]) te ... [statutaire vestigingsplaats] over verslagjaar 2015 juist weergeeft in overeenstemming met de voorschriften zoals opgenomen in Rubriek C van bijlage 4 bij de Regeling toegelaten instellingen volkshuisvesting 2015. Het bestuur van ... [naam toegelaten instelling] is verantwoordelijk voor het in het overzicht van de dVi juist en volledig weergeven van de assurance-onderdelen 1 tot en met 24 zoals vermeld in Rubriek C van bijlage 4 bij de Regeling toegelaten instellingen volkshuisvesting 2015. Het is onze verantwoordelijkheid een assurance-rapport omtrent deze assurance-onderdelen in de dVi te verstrekken.
 
-**Werkzaamheden**
+De modelmatige bepaalde marktwaarde van een complex ligt ten opzichte van de geïndexeerde WOZ- waarde over het algemeen binnen een bandbreedte van 50 en 125%. Indien dit niet het geval is, is een nadere beoordeling van de gebruikte objectgegevens nodig om te bezien of deze juist zijn. Indien de gebruikte objectgegevens juist blijken te zijn, behoeft de marktwaarde niet te worden aangepast.
 
 Wij hebben ons onderzoek verricht in overeenstemming met Nederlands recht, waaronder de Nederlandse Standaard 3000 ‘Assurance-opdrachten anders dan opdrachten tot controle en beoordeling van historische financiële informatie’ en het accountantsprotocol in Rubriek C van bijlage 4 bij de Regeling toegelaten instellingen volkshuisvesting 2015. Dienovereenkomstig dienen wij ons onderzoek zodanig te plannen en uit te voeren, dat een redelijke mate van zekerheid wordt verkregen dat de assurance-onderdelen uit het accountantsprotocol, zoals vastgelegd in Rubriek C van bijlage 4 bij de Regeling toegelaten instellingen volkshuisvesting 2015 die zijn opgenomen in de dVi geen afwijkingen van materieel belang bevatten.
 
-Ten aanzien van het dVi onderdeel 5.8 punt 5 is dat oordeel mede gebaseerd op de aangeleverde gegevens van de woningzoekende(n) (inclusief eventueel afgegeven verklaring of verklaringen waarvan wij de juistheid en volledigheid niet verder hebben onderzocht).
+Naast de basisversie van het waarderingshandboek heeft de toegelaten instelling ook de mogelijkheid om voor verschillende parameters aanpassingen toe te passen. In dat geval wordt voor deze parameters afgeweken van de basisvariant van het waarderingshandboek. In het geval dat de toegelaten instelling ervoor kiest om ten aanzien van één of meer parameters af te wijken van dit handboek, dient de toegelaten instelling een externe taxateur in te schakelen. Een dergelijk waarderingsproces levert in principe een hogere kwaliteit op van de waardering en dus ruimere toepassingsmogelijkheden voor vastgoedsturing.
 
 Wij zijn van mening dat de door ons verkregen onderzoeksinformatie voldoende en geschikt is als basis voor ons oordeel.
 
-**Oordeel**
+In de full versie is het mogelijk om op basis van een toetsing door de externe taxateur tot een aanpassing van de op basis van dit handboek modelmatig vastgestelde waarde van het waarderingscomplex te komen. Een aanpassing van de waarde dient het resultaat te zijn van een aanpassing van de daaraan ten grondslag liggende normen en parameters. Daarbij dient de externe taxateur tevens de aannemelijkheid van de marktwaarde te beoordelen, die daarvan het resultaat is. De volgende zaken zijn in de full-versie aanpasbaar:
 
 Naar ons oordeel zijn de in de dVi opgenomen assurance-onderdelen uit het accountantsprotocol, welke onder ‘Opdracht en verantwoordelijkheden’ zijn benoemd van ... [naam toegelaten instelling] te ... [statutaire vestigingsplaats] in alle van materieel belang zijnde aspecten weergegeven in overeenstemming met de voorschriften zoals opgenomen in Rubriek C van bijlage 4 bij de Regeling toegelaten instellingen volkshuisvesting 2015.
 
 ### 6.4. Model IV
 
-**Optioneel:**
+Door deze toevoeging kunnen specifieke contractafspraken omtrent huurinkomsten (lineair aflopende huur, geen huurstijging), meerdere contracten per complex (bijv. bij BOG-MOG), overige inkomsten (bijv. uit zendmastinstallaties) en specifieke uitgaven in de full-variant beter worden gemodelleerd. Hieronder volgt (een in principe) limitatieve lijst van kasstromen die opgevoerd mogen worden:
 
-**Overige aangelegenheden**
+**Let op:** het gebruik van schematische vrijheid is in principe niet bedoeld voor de waardering van reguliere woningen, alleen in uitzonderlijke kan hiervan sprake zijn (bijvoorbeeld als er bij nul-op-de-meterwoningen een energieprestatievergoeding als extra kasstroom moet worden opgevoerd). Daarbij moet ten allen tijde altijd goed onderbouwd zijn waarom wordt gekozen voor de schematische vrijheid. Het toepassen van een beschouwingstermijn van 15-jaar in de DCF blijft gehandhaafd.
 
 Zonder afbreuk te doen aan ons oordeel, merken wij nog het volgende op:
 
-...
+In de basisversie is de markthuur voor woningen bepaald aan de hand van een modelmatige schatting. Deze schatting houdt geen rekening met specifieke omstandigheden waardoor de markthuur anders is dan uit het model voortvloeit. In de full versie heeft de externe taxateur de mogelijkheid om de modelmatig bepaalde markthuur te vervangen door zijn inschatting van de markthuur.
 
-**(Deze paragraaf is bedoeld voor het rapporteren van geconstateerde afwijkingen in het kader van de 0% rapporteringstolerantie)**
+De markthuurstijging is in principe gekoppeld aan prijsinflatie. Als er gegronde redenen zijn om de markthuurstijging boven of onder inflatie te verwachten heeft de externe taxateur de mogelijkheid om dan af te wijken van de veronderstelde markthuurstijging.
 
 **Overige aspecten- beperking in het gebruik (en verspreidingskring)**
 
-Ons assurance-rapport is uitsluitend bedoeld voor het bestuur van ... (naam toegelaten instelling) ter verantwoording aan de door de Minister voor Wonen en Rijksdienst aangewezen bevoegde instanties en dient niet te worden verspreid aan of te worden gebruikt door anderen.
+Als alternatief voor de berekende eindwaarde uit de basisversie mag een exit yield gebruikt worden voor het bepalen van de eindwaarde ultimo jaar 15. De taxateur moet daarbij een goed navolgbare onderbouwing geven voor de hoogte van de exit yield en een duidelijke, logische relatie leggen tussen andere parameters en de exit yield (bijvoorbeeld: outputBAR, verouderingseffect, verwachte huur- en waardegroei, stijgende of dalende risicoperceptie gedurende beschouwingsperiode). Daarnaast moet ook de vergelijking en verschilduiding met de berekende eindwaarde worden gemaakt.
 
 Plaats, datum
 
-... (naam accountantsorganisatie)
+De leegwaarde wordt in de basisversie ontleend aan de WOZ-waarde. Echter, er kunnen verschillende redenen zijn waarom de op deze wijze bepaalde leegwaarde niet aansluit bij de markt. Onder meer vloeit een mogelijk verschil voort uit de ficties waarop de WOZ-waardering is gebaseerd. De externe taxateur heeft de mogelijkheid om de WOZ-waarde te vervangen door een leegwaarde die beter aansluit bij de markt.
 
-... (naam accountant)
+De leegwaardestijging is gedifferentieerd naar provincie en naar de vier grote steden. Het kan zijn dat er redenen zijn om van deze differentiatie af te wijken, bijvoorbeeld omdat de te verwachten stijging van de leegwaarde in de specifieke situatie niet overeenkomt met die van de provincie, respectievelijk de betreffende stad. De externe taxateur heeft de mogelijkheid om dan af te wijken van de veronderstelde leegwaardestijging.
 
 Wij hebben een aantal specifieke werkzaamheden verricht met betrekking tot de bepalingen in het waarderingshandboek ([Bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0036709&bijlage=2&z=2016-07-01&g=2016-07-01) bij de Regeling toegelaten instellingen volkshuisvesting 2015) en de verantwoording daarover in de dVi 2015 (paragraaf 4.2.4) van [Naam toegelaten instelling] te [statutaire vestigingsplaats].
 
-**Rapport van feitelijke bevindingen inzake de marktwaarde in verhuurde staat**
+De hoogte van de disconteringsvoet is modelmatig bepaald. Daarmee wordt niet altijd recht gedaan aan de risico’s die voor specifieke objecten en/of specifieke locaties van toepassing zijn. Deze specifieke omstandigheden kunnen een andere disconteringsvoet rechtvaardigen. De toegelaten instelling heeft de mogelijkheid om dan een externe taxateur in te schakelen om een marktconforme disconteringsvoet vast te stellen. Als daartoe reden is, kan in dat geval dan ook een verschil worden gemaakt in de hoogte van de disconteringsvoet bij uitponden ten opzichte van doorexploiteren.
 
 Aan: opdrachtgever
 
-**Opdracht**
+In de basisvariant is voor de verschillende onderhoudscategorieën gewerkt met gemiddelde bedragen voor het onderhoud, die afhankelijk zijn van een beperkt aantal kenmerken van de verhuureenheid. In de praktijk kan de noodzaak voor onderhoud meer variëren dan in de basisvariant is uitgewerkt. Als dat zo is, kunnen de onderhoudsbedragen voor instandhoudingsonderhoud met tussenkomst van de externe taxateur worden aangepast.
 
-Wij hebben een aantal specifieke werkzaamheden verricht met betrekking tot de bepalingen in het waarderingshandboek ([Bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0036709&bijlage=2&z=2016-10-28&g=2016-10-28) bij de Regeling toegelaten instellingen volkshuisvesting 2015) en de verantwoording daarover in de dVi 2015 (paragraaf 4.2.4) van [Naam toegelaten instelling] te [statutaire vestigingsplaats].
+Het bedrag voor achterstallig onderhoud in de basisversie geeft alleen weer wat nodig is om de eenheid vanuit het perspectief van de woningcorporatie voldoende woontechnische kwaliteit te geven. Een marktpartij zal mogelijk ook markttechnische aanpassingen wensen. De daarmee gepaard gaande kosten kunnen desgewenst in de full-versie worden opgenomen.
 
 Het is de bedoeling dat u zelf een oordeel vormt over de werkzaamheden en over de in dit rapport weergegeven bevindingen en op basis daarvan uw eigen conclusie trekt. Wij wijzen u er op dat indien wij aanvullende werkzaamheden zouden hebben verricht of een controle- of beoordelingsopdracht zouden hebben uitgevoerd, wellicht andere onderwerpen zouden zijn geconstateerd die voor rapportering in aanmerking zouden zijn gekomen
 
-**Aard en reikwijdte van de verrichte werkzaamheden**
+In de basisvariant zijn geen technische splitsingskosten opgenomen. Wel is toegelicht dat de technische splitsingskosten de uitgaven zijn die worden gemaakt ten behoeve van de nadere voorwaarden, die voortvloeien uit de afgegeven splitsingsvergunning door de gemeente. Het gaat hierbij niet om onderhoudskosten, maar om de aanvullende eisen die in het kader van de splitsing dienen te worden uitgevoerd. In de praktijk kunnen deze technische splitsingskosten van belang zijn bij de waardering. Als dit het geval is, kunnen de technische splitsingskosten met tussenkomst van de externe taxateur meegenomen worden.
 
 Onze werkzaamheden zijn verricht in overeenstemming met Nederlands recht, waaronder de Nederlandse Standaard 4400, "Opdrachten tot het verrichten van overeengekomen specifieke werkzaamheden met betrekking tot financiële informatie" en het accountantsprotocol (bijlage 4 bij de Regeling toegelaten instellingen volkshuisvesting 2015), specifiek hoofdstuk 5.
 
-Het doel van deze opdracht tot het verrichten van overeengekomen specifieke werkzaamheden is het verrichten van die werkzaamheden die wij met ... [Naam Toegelaten Instelling] zijn overeengekomen en het rapporteren over de feitelijke bevindingen. Aangezien wij slechts verslag doen van feitelijke bevindingen uit hoofde van de overeengekomen werkzaamheden betekent dit dat op de in paragraaf 4.2.4 van de dVi opgenomen marktwaarde in verhuurde staat geen accountantscontrole is toegepast en dat evenmin een beoordelingsopdracht is uitgevoerd. Dit houdt in dat aan onze rapportage geen zekerheid kan worden ontleend omtrent de getrouwheid van de in de dVi opgenomen marktwaarde in verhuurde staat.
+De hoogte van de mutatiekans is gebaseerd op het gemiddelde aantal mutaties in de afgelopen vijf jaar. Deze mutatiekans hoeft niet te gelden voor de toekomst. Als daar reden voor is, onder meer omdat de feitelijke mutaties in de betrokken periode een afwijkend beeld laten zien, heeft de toegelaten instelling de mogelijkheid om een externe taxateur in te schakelen om de mutatiekans aan te passen.
 
-**Verrichte werkzaamheden**
+Als er redenen zijn om aan te nemen dat de op basis van de mutatiekans vrijkomende verhuureenheden niet allemaal kunnen worden verkocht, kan daar ook rekening mee worden gehouden door een deel van de vrijkomende verhuureenheden in de wederverhuur te nemen. Voor deze verhuureenheden geldt dan dat de huur opgetrokken naar de markthuur of de maximale huur volgens het woningwaarderingsstelsel. Verder is bij deze verhuureenheden in de toekomst weer dezelfde mutatiekans van toepassing.
 
 Wij hebben de volgende werkzaamheden verricht;
 
-Vastgesteld of bij het rekenmodel dat door de toegelaten instelling is gehanteerd bij het berekenen van de marktwaarde voor de dVi, een assurance-rapportage is afgegeven conform COS 3000/3402. Bevindingen ten aanzien van het ontbreken van een dergelijke certificering, in het assurancerapport bij het rekenmodel opgenomen bevindingen ten aanzien van de betrouwbaarheid van het rekenmodel en het aantreffen van een ander type certificering zijn gemeld in de paragraaf ‘Uitkomsten verrichte werkzaamheden’;
+Bijzondere uitgangspunten kunnen van toepassing zijn waarmee in de basisversie geen rekening wordt gehouden. Hierbij valt te denken aan bijvoorbeeld een langere of kortere leegstand als gevolg van mutatie dan voorgeschreven in de basisversie. Ook het effect van bijvoorbeeld beklemmingsafspraken met de gemeente ten aanzien van huurverhoging en/of verkoop, die ook van kracht zijn voor een potentiële koper kan de taxateur meenemen bij de waardering.
 
-Vastgesteld dat de in de dVi verantwoorde waarde gelijk is aan de waarde van het rekenmodel;
+Als vanuit een marktanalyse blijkt dat één van de scenario’s (doorexploiteren of uitponden) niet realistisch is, dan kan de taxateur een uitzondering maken op regel dat de marktwaarde de hoogste van deze twee scenario’s is en expliciet kiezen voor één van de scenario’s. Bijvoorbeeld bij woningen in krimp- en aardbevingsgebieden, studentenwoningen en extramurale zorgwoningen.
 
 Indien de toegelaten instelling in de jaarrekening 2015 RJ 213 (actuele waarde) toepast vastgesteld dat de verantwoording in de dVi aansluit met de goedgekeurde jaarrekening.
 
-Indien de full versie van het waarderingshandboek is toegepast vastgesteld dat de verantwoording in de dVi over de toepassing van de vrijheidsgraden aansluit bij het verslag van de externe taxateur;
+Zoals in het voorafgaande is aangegeven, zijn er zeer uiteenlopende erfpachtovereenkomsten tussen toegelaten instellingen en gemeenten. In de basisversie is gewerkt met een globale benadering. Als deze benadering onvoldoende aansluit bij de feitelijke situatie, is het verplicht met tussenkomst van de taxateur tot een betere schatting van het effect van de erfpacht op de waarde te komen.
 
 Indien de full versie van het waarderingshandboek is toegepast vastgesteld dat de in de dVi verantwoorde waarde aansluit bij het verslag van de externe taxateur;
 
-Indien de huursom van bedrijfsmatig, maatschappelijk en intramuraal zorgvastgoed tezamen meer dan 5% van de totale huursom uitmaakt, van de DAEB-tak of de niet DAEB tak afzonderlijk, vastgesteld dat er een verslag van de externe taxateur aanwezig is;
+De waardering op basis van de full versie met de genoemde vrijheidsgraden vereist de inschakeling van een externe taxateur. De externe taxateur dient aangesloten te zijn bij het Nederlands Register Vastgoed Taxateurs (NRVT) of daarmee vergelijkbare beroeps- en gedragsregels te hanteren. In haar reglementen schrijft de NRVT voor dat sprake kan zijn van twee type taxaties, te weten een volledige taxatie of een hertaxatie. Het NRVT schrijft daarbij voor dat een hertaxatie uitsluitend kan worden uitgevoerd indien er in de voorgaande 36 maanden tenminste één volledige taxatie door hetzelfde taxatiebedrijf is uitgevoerd. De verwijzing naar volledige taxatie en hertaxatie komt hier uit voort. Bij deze vormen van taxatie zijn op basis van de NRVT verschillende rapportagevereisten van toepassing. Deze zijn opgenomen in ‘Bijlage 4 – Rapportagevereisten NRVT’.
 
 ## Bijlage 5. bij [artikel 19](https://wetten.overheid.nl/jci1.3:c:BWBR0036709&hoofdstuk=III&afdeling=1&paragraaf=1&artikel=19&z=2016-01-01&g=2016-01-01) van de Regeling toegelaten instellingen volkshuisvesting 2015
 
@@ -2313,15 +2313,23 @@ Indien de huursom van bedrijfsmatig, maatschappelijk en intramuraal zorgvastgoed
 
 ### Hoofdstuk 1. Algemeen
 
-....
+De opdracht van de toegelaten instelling aan de externe taxateur dient in overeenstemming te zijn met wet- en regelgeving, in casu dit handboek en verder aan te sluiten bij de bepalingen van het reglement van de NRVT. Voorts dient in de opdracht vastgelegd te zijn dat de externe taxateur een taxatierapport en een taxatiedossier opstelt waarin nadere toelichting en onderbouwing is opgenomen daar waar gebruik is gemaakt van de vrijheidsgraden. Er mogen geen belemmeringen zijn voor de toegelaten instelling om het taxatierapport en het taxatiedossier aan de Autoriteit woningcorporaties ter beschikking te stellen.
+
+### 10. Bijlage 1: Definities
+
+### 11. Bijlage 2: Overzicht krimp- en aardbevingsgebieden
+
+### 12. Bijlage 3: Overzicht basis - full en taxatiecyclus
+
+### 13. Bijlage 4: Rapportage vereisten vanuit NRVT
+
+### 14. Bijlage 5: Voorbeelden eindwaardeberekening
+
+### 1.1. Toelichting
 
 ### 1.2. Algemene gegevens
 
-### 1.2. Algemene gegevens
-
-### Hoofdstuk 2. Activiteiten
-
-### INHOUDSOPGAVE
+¹ Mutatiegraad uitponden in jaar 15 is 70% van mutatiegraad doorexploiteren
 
 ### HOOFDSTUK 1. ALGEMEEN
 
@@ -2329,51 +2337,43 @@ Indien de huursom van bedrijfsmatig, maatschappelijk en intramuraal zorgvastgoed
 
 ### 1.2. Algemene gegevens
 
-(toelichting pull down menu's 2.1 niet invulbaar)
-
-### HOOFDSTUK 1. ALGEMEEN
-
-### 1.1. Toelichting
-
-### 1.2. Algemene gegevens
-
-### HOOFDSTUK 2. ACTIVITEITEN
+### dVi (de Verantwoordingsinformatie) verslagjaar 2016
 
 overzicht aantallen huurwoongelegenheden en niet-woongelegenheden op corporatieniveau per jaar
 
-### 2.1. Projectoverzicht B. niet DAEB activiteiten per project (x € 1.000)
+### INHOUDSOPGAVE
 
-### 2.2. Prognose verkopen huurwoongelegenheden gespecificeerd per postcode
+### HOOFDSTUK 1 ALGEMEEN
 
-### 2.3. Prognose ontwikkeling bezit toegelaten instelling (opgave incl. verbindingen, indien van toepassing)
+### 1.1. Toelichting
 
 ### 2.4. Prognose ontwikkeling energielabel huurwoongelegenheden TI enkelvoudig
 
-### 2.5. Prognose informatie woongelegenheden TI per bezitsgemeente
+### 1.2. Algemene gegevens
 
-### HOOFDSTUK 3. FINANCIELE PROGNOSE
+### HOOFDSTUK 2 ACTIVITEITEN
 
-### 3.1. Kasstroomoverzicht (enkelvoudig (A) en geconsolideerd (B))
+### 2.1. Ontwikkeling vastgoedportefeuille
 
-### 3.2. Toelichtingen kasstroomoverzicht (enkelvoudig (A) en/of geconsolideerd (B))
+### 2.2. Kenmerken vastgoedportefeuille
 
-### 3.3. Prognose balans en winst- en verliesrekening (geconsolideerd (B) of enkelvoudig (A))
+### HOOFDSTUK 3 FINANCIELE VERANTWOORDING
 
-### 3.4. Prognose specificatie bedrijfswaarde (geconsolideerd (B) of enkelvoudig (A))
+### 3.1. A. Balans, Winst- en Verliesrekening en kasstroomoverzicht (Enkelvoudig toegelaten instelling)
 
-### 3.2. Toelichtingen kasstroomoverzicht
+### 3.1. B. Balans, Winst- en Verliesrekening en kasstroomoverzicht (Geconsolideerd)
 
-### Model voor de raamovereenkomst inzake het aantrekken van financiële derivaten
+### 3.2. Toelichting op de enkelvoudige balans- en Winst- en Verliesrekening
 
-### Raamomvereenkomst interest rate swaps
+### 3.3. Toelichting verbindingen
 
-### Hoofdstuk 3. Financiele prognose
+### 3.4. Toelichting op de geconsolideerde of enkelvoudige balans- en Winst- en Verliesrekening
 
 ## Bijlage 6. bij [art. 43](https://wetten.overheid.nl/jci1.3:c:BWBR0036709&hoofdstuk=III&afdeling=5&paragraaf=2&artikel=43&z=2016-01-01&g=2016-01-01) van de Regeling toegelaten instellingen volkshuisvesting 2015
 
-### Model voor de raamovereenkomst inzake het aantrekken van financiële derivaten
+### 4.1. Specificatie bedrijfswaarde toegelaten instelling
 
-### Model voor de raamovereenkomst inzake het aantrekken van financiële derivaten
+### 4.2. Toelichting waardering bezit toegelaten instelling
 
 **DEZE RAAMOVEREENKOMST** is opgesteld op [•] tussen:
 
@@ -2688,19 +2688,19 @@ De belangrijkste wijzigingen die in het handboek zijn doorgevoerd, zijn de actua
 
 ### 2.1. Juridisch kader
 
-Bij de waardering van het vastgoed dient voorts een doorexploiteer- en een uitpondscenario te worden onderscheiden. De marktwaarde is de hoogste van beide waarderingen.
+De verplichting om het vastgoed in exploitatie op marktwaarde te waarderen, gaat in met de jaarrekening over 2016. Daaraan voorafgaand heeft de Autoriteit woningcorporaties over verslagjaar 2015 als onderdeel van de verantwoordingsgegevens separaat de marktwaarde van het vastgoed opgevraagd bij de toegelaten instellingen. Let op: dit waarderingshandboek ziet alleen op vastgoed in exploitatie. Grondposities, sloopcomplexen en vastgoed in (her)ontwikkeling valt hier dus expliciet niet onder. Hiervoor gelden de regels conform RJ 645.
 
-### 3. Nadere kaderstelling
+### 2.2. Afspraken met Kadaster, NRVT en accountants
 
-‘Het geschatte huurbedrag waarvoor het object op de waardepeildatum na behoorlijke marketing, onder de voorwaarden van de huurovereenkomst in een marktconforme transactie zou worden verhuurd door een bereidwillige verhuurder en een bereidwillige huurder, waarbij elk der partijen zou hebben gehandeld met kennis van zaken, prudent en niet onder dwang.’2Praktijkhandreiking Nederlandse Vastgoedtaxaties Commercieel Vastgoed, p. 20
+Het uitgangspunt bij de full-waardering is dat minimaal eens per drie jaar het vastgoed getaxeerd wordt (met externe bezichtiging en nieuwe parameterinschattingen door taxateur). Er zijn grofweg twee mogelijkheden om het full-taxatieproces vorm te geven. Deze staan hieronder weergegeven. Jaar 1 slaat op verslagjaar 2016. De twee varianten zijn als volgt:
 
 ### 3.4. Waarderingsmethodiek
 
-De bepaling van de toekomstige inkomende en uitgaande kasstromen vindt bij woongelegenheden en parkeergelegenheden plaats aan de hand van twee scenario’s: enerzijds op basis van het doorexploiteerscenario en anderzijds op basis van het uitpondscenario. Bij BOG, MOG en intramuraal vastgoed is alleen het doorexploiteerscenario van toepassing.
+In een paar specifieke gevallen heeft de toegelaten instelling geen beschikking over de juiste WOZ-waarde van het te taxeren object. Dit kan zijn omdat er (a) geen WOZ-waarde van de verhuureenheid beschikbaar is en deze er ook niet komt of, dat er (b) wel een WOZ-waarde beschikbaar is, maar dat die geen betrekking (meer) heeft op de toestand van verhuureenheid in exploitatie. Hieronder staat aangegeven hoe hiermee om te gaan.
 
 ### 4.2. Loonstijging
 
-### 3.7. Verhuureenheden in exploitatie buiten de landsgrenzen
+### 2.8. Handreiking/voorschrift rekenkundige uitwerking
 
 ### 4.2. Loonstijging
 
@@ -2710,21 +2710,21 @@ De bepaling van de toekomstige inkomende en uitgaande kasstromen vindt bij woong
 
 ### 5.2.4. Exploitatiekosten
 
-De bedragen voor het instandhoudingsonderhoud zijn ontleend aan waarderingsgegevens van de toegelaten instellingen die op marktwaarde hebben gewaardeerd, en zijn weergegeven in onderstaande tabel. De bedragen zijn per jaar, inclusief 21% BTW.
+Een voorbeeld van de eerste categorie (index in een kalenderjaar) is de prijsinflatie, plus opslag bij een gereguleerde eenheid, voor de aanpassing van de huur**in** een jaar. De index gaat dan over de huurverhoging op 1 juli van het betreffende jaar.
 
 ### 5.2.5. Huurstijging
 
-Beheerkosten zijn de kosten die worden gemaakt voor het beheer van de verhuureenheid. Het gaat hierbij om de kosten gemaakt voor de verhuur en marketing van de verhuureenheden. De niet-object gebonden kosten, maatschappelijke beheerkosten, taxatiekosten en accountantskosten worden niet gerekend tot de beheerkosten.
+Kanttekening bij medio indexeren
 
 ### 5.2.6. Bevriezing liberalisatiegrens
 
-Onder belastingen en overige zakelijke lasten vallen de gemeentelijke OZB, de rioolheffing en de verontreinigingsheffing, als ook de waterschapsbelasting. Deze belastingen en heffingen verschillen per gemeente en waterschap. Daarnaast zijn er kosten voor de verzekeringen.
+Zoals eerder vermeld zijn er ook modellen die in maandschijven rekenen. Een dergelijk model bepaalt weer op een andere wijze de medio jaar kasstroom. Alle drie de benaderingen geven nagenoeg dezelfde uitkomsten en zijn alle drie toepasbaar en toegestaan. Vanuit praktisch oogpunt is in dit handboek steeds de eerste benadering opgenomen.
 
 ### 5.2.5. Huurstijging
 
-Voor de rioolheffing, de verontreinigingsheffing, de waterschapsbelasting en verzekeringen, is een gemiddeld percentage per verhuureenheid opgenomen. De percentages, waarop dit gemiddelde is gebaseerd, zijn ontleend aan de waarderingsgegevens van de toegelaten instellingen en weergegeven in onderstaande tabel. Het percentage heeft initieel betrekking op de WOZ-waarde met peildatum 1 januari 2014. Tijdens de 15-jarige DCF-periode wordt het initieel, op basis van de WOZ-waarde tot stand gekomen bedrag, geïndexeerd met de prijsinflatie. Inclusief 21% BTW.
+Het uitgangspunt om medio jaar te indexeren geldt niet voor alle kasstromen. Enkele uitzonderingen zijn:
 
-### 5.2.8. Mutatiekans
+### 3.4.3. Fractioneel muteren en uitponden
 
 ### 5.2.6. Bevriezing liberalisatiegrens
 
@@ -2736,11 +2736,11 @@ Voor de rioolheffing, de verontreinigingsheffing, de waterschapsbelasting en ver
 
 ### 5.2.15. Overige punten
 
-De eindwaarde in het uitpondscenario is gebaseerd op het verder uitponden van de, aan het eind van het 15e jaar, nog niet verkochte woongelegenheden. Hierbij wordt de mutatiekans met 50% gehalveerd ten opzichte van de mutatiekans die wordt gehanteerd in het doorexploiteerscenario. De kasstromen van de dan nog verhuurde woongelegenheden verlopen zoals in het doorexploiteerscenario, inclusief de verhuurderheffing voor zover van toepassing, en de opslag voor veroudering. De eindwaarde op het eind van het 15e jaar is dan weer gelijk aan al deze kasstromen contant gemaakt met de gehanteerde disconteringsvoet.
+De bouwkostenstijging vormt het uitgangspunt voor de stijging van de onderhoudskosten, de verkoopkosten en de verouderingskosten. Voor de veronderstelde bouwkostenstijging wordt aangesloten bij de loonstijging. Zoals beschreven, wordt deze stijging voor de jaren 2016 en 2017 ontleend aan de meest recente prognose van het CPB. Voor het restant van de prognoseperiode geldt eveneens dat de bouwkostenstijging gelijk is gesteld aan de loonstijging.
 
-### 5.2.14. Overdrachtskosten
+### 4.4. Leegwaardestijging
 
-### 6.1. Objectgegevens
+### 5.1. Objectgegevens
 
 ### 6.2.3. Exploitatiekosten
 
@@ -2750,45 +2750,45 @@ De eindwaarde in het uitpondscenario is gebaseerd op het verder uitponden van de
 
 ### 6.2.6. Eindwaarde
 
-Bij BOG en MOG is alleen het doorexploiteerscenario van toepassing. Vanaf het 16e jaar wordt verondersteld dat sprake is van doorexploiteren met een voortdurende looptijd12Een resterende looptijd van 50 jaar is ook mogelijk. Het verschil in de uitkomst met een voortdurende looptijd is verwaarloosbaar. De eindwaarde met een voortdurende looptijd is wiskundig gemakkelijker te bepalen.. Alle afzonderlijke kasstromen ontwikkelen zich met de eigen groeivoet. Voor de onderhoudskosten bijvoorbeeld is de groeivoet gelijk aan stijging van de bouwkostenindex. Bij huurdersmutatie wordt, waar dat aan de orde is, de huur opgetrokken naar de markthuur. Voorts wordt rekening gehouden met veroudering. In de praktijk wordt via een renovatie functionele veroudering ongedaan gemaakt. De kosten die hiermee gemoeid zijn, worden benaderd door vanaf het 16e jaar de kosten voor instandhoudingsonderhoud met 100% te verhogen. De bedragen die zo worden ingerekend corresponderen met een eenmalige renovatie. De eindwaarde aan het eind van het 15e jaar is gelijk aan al deze kasstromen, contant gemaakt met de gehanteerde disconteringsvoet.
+De hoogte van de beheerkosten is afhankelijk van het type verhuureenheid. De bedragen voor de beheerkosten zijn ontleend aan waarderingsgegevens van de toegelaten instellingen die op marktwaarde hebben gewaardeerd, en zijn weergegeven in onderstaande tabel. De bedragen zijn per verhuureenheid, per jaar, inclusief 21% BTW.
 
-### 6.2.7. Overdrachtskosten
+### 5.2.4.5. Belastingen, verzekeringen en overige zakelijke lasten
 
-### 7.2.1. Leegwaarde
+### 5.2.4.6. Verhuurderheffing
 
-Voor het bepalen van de marktwaarde in verhuurde staat van parkeerplaatsen en garageboxen wordt ten opzichte van de waardering van woongelegenheden een sterk vereenvoudigd rekenmodel gebruikt. Onder meer wordt naast een doorexploiteerscenario gewerkt met een apart uitpondscenario dat specifiek is toegespitst op parkeergelegenheden.
+Dit principe is naast op instandhoudingsonderhoud ook toepasbaar op de overige exploitatiekosten
 
 ### 7.1. Objectgegevens
 
-### 7.2.5. Splitsingskosten
+### 5.2.5.2. Huursprong bij mutatie
 
 ### 7.2.7. Erfpacht
 
 ### 7.2.8. Disconteringsvoet
 
-Erfpacht beïnvloedt de waarde van de parkeergelegenheid. Het effect van de erfpacht op de waarde vloeit voort uit de consequenties die de erfpacht voor de koper heeft. Er zijn in Nederland verschillende vormen van erfpacht. In deze paragraaf worden alleen enkele hoofdlijnen beschreven. Als de consequenties van de erfpacht voor de waardering te veel afwijken van deze hoofdlijnen, is maatwerk nodig dat op basis van de full versie mogelijk is.
+De mutatiekans in het uitpondscenario kan per prognosejaar variëren, waarbij de mutatiekans voor doorexploiteren de basis vormt voor de hoogte van de mutatiekans bij uitponden. De opslagen in het uitpondscenario zijn ontleend aan waarderingsgegevens van toegelaten instellingen, die op marktwaarde hebben gewaardeerd, en zijn hieronder weergegeven. De volgende opslagen zijn van toepassing:
 
-### 7.2.9. Eindwaarde
-
-### 7.2.10. Overdrachtskosten
-
-De hoogte van de risicovrije rentevoet wordt bepaald aan de hand van het 24-maands historisch gemiddelde van de 10-jaar EURO Interest Rate Swap (IRS). Doordat gebruik wordt gemaakt van het 24-maands gemiddelde, worden incidentele pieken van de rente op de peildatum van de waardering voorkomen.
-
-### 7.2.11. Overige punten
-
-De totale disconteringsvoet voor het referentie-object bedraagt 7,30%. Aangezien de risicovrije rentevoet en de vastgoedsector specifieke opslag samen op 6,66% uitkomen, kan afgeleid worden dat bij het referentieobject de opslag voor het markt- en objectrisico 0,64% bedraagt.
+### 5.2.9.3. Minimale en maximale mutatiekans
 
 ### 7.2.10. Overdrachtskosten
 
-De overdrachtskosten zijn de overdrachtsbelasting en de notaris- en de registratiekosten bij de verkoop van de parkeergelegenheden in verhuurde staat. De overdrachtskosten worden weergegeven als een percentage van de berekende marktwaarde van een eenheid.
+De mutatiekans moet steeds toegepast worden op het aantal in exploitatie zijnde (niet gemuteerde) woningen.
 
 ### 7.2.11. Overige punten
 
-Bij parkeergelegenheden is sprake van een specifiek uitpondscenario. Dit is het geval omdat huurders van parkeergelegenheden niet dezelfde wettelijke bescherming kennen als huurders van woongelegenheden. Algemeen geldt voor parkeerplaatsen dat, indien de verhuurder besluit om tot verkoop over te gaan, de huurder de parkeervoorziening nog twee jaar lang mag huren. Na die twee jaar, geniet de huurder nog één jaar ontruimingsbescherming. Kort gezegd kan de verhuurder, als hij nu de beslissing tot verkopen neemt, alle eenheden over drie jaar uitponden. Gedurende de drie jaren kan dit dus niet, door de genoemde bescherming. Doordat na jaar drie mogelijk alle eenheden zijn uitgepond, wordt in het uitpondscenario gewerkt met een DCF-periode van drie jaar in plaats van 15 jaar, zoals bij de overige waarderingsmodellen het geval is.
+Mutatieleegstand is het aantal maanden dat een verhuureenheid bij mutatie leegstaat voor dat deze wederverhuurd wordt. Mutatieleegstand resulteert in huurderving gedurende de periode van leegstand. De huurderving is gebaseerd op de markthuur. Deze huurderving geldt alleen in het doorexploiteerscenario.
+
+### 7.2.10. Overdrachtskosten
+
+Voorbeeld:
+
+### 7.2.11. Overige punten
+
+Huurverhogingen vinden plaats op 1 juli van een kalenderjaar. Het is uitgangspunt dat uitponden en huurmutaties ook in het midden van een kalenderjaar plaatsvinden. De uitwerking wijkt daarom af van de uitwerking voor bijvoorbeeld exploitatiekosten.
 
 ### 8.1. Objectgegevens
 
-De volgende tabel bevat een overzicht van de specifieke objectgegevens voor intramuraal zorgvastgoed van de toegelaten instelling.
+Het onderstaande voorbeeld licht dat stap voor stap toe.
 
 ### 8.2. Modelparameters
 
@@ -2806,37 +2806,37 @@ Erfpacht beïnvloedt de waarde van het verhuurcontract. Het effect van de erfpac
 
 ### 8.2.6. Eindwaarde
 
-Bij de schatting van de hoogte van de opslag voor het markt- en objectrisico is gebruik gemaakt van een referentiecontract. De keuze voor het referentiecontract heeft geen invloed op de hoogte van de disconteringsvoet van de andere verhuurcontracten. De schatting van deze opslag is gebaseerd op waarderingsgegevens van toegelaten instellingen. De marktontwikkelingen in 2015 geven geen aanleiding tot een aanpassing van de disconteringsvoet.
+Desgewenst kan ervoor worden gekozen om bij de bepaling van de eindwaarde aan het einde van het 15e jaar, naast het verder doorexploiteren, ook de mogelijkheid van uitponden vanaf het 16e jaar te betrekken. Dit is geen verplichting, maar iets waarvoor de corporatie zelf kan kiezen. In dat geval wordt binnen het doorexploiteerscenario vanaf het 16e jaar verondersteld dat het waarderingscomplex alsnog uitgepond wordt met ook een voortdurende looptijd totdat alle woongelegenheden van het complex zijn verkocht. Verkoop vindt plaats bij mutatie en de netto verkoopopbrengsten maken deel uit van de kasstromen. De hoogte en het verloop van de mutatiegraad is gelijk aan die bij het uitpondscenario. De kasstromen van de dan nog verhuurde woongelegenheden verlopen zoals in het doorexploiteerscenario, inclusief de verhuurderheffing voor zover van toepassing, en de opslag voor veroudering. De eindwaarde op het eind van het 15e jaar is dan weer gelijk aan al deze kasstromen contant gemaakt met de gehanteerde disconteringsvoet. Indien deze benadering ook wordt gevolgd, is de eindwaarde gelijk aan de hoogste van de twee berekende eindwaarden. Het is aan de toegelaten instelling om ervoor te kiezen deze benadering in het doorexploiteerscenario te betrekken bij het bepalen van de eindwaarde.
 
-### 8.2.9. Nadere toetsing
+### 5.2.16.2. Eindwaarde in het uitpondscenario
 
-Om tot de disconteringsvoet van de afzonderlijke verhuurcontracten te komen, wordt gebruik gemaakt van het referentiecontract. De onderstaande tabellen geven daarbij de afzonderlijke effecten weer van elk van de onderscheiden kenmerken. Door per contract na te gaan wat de effecten zijn voor het markt- en objectrisico en deze op te tellen bij de totale disconteringsvoet van het referentiecontract, ontstaat de disconteringsvoet van de overige verhuurcontracten.
+De eindwaarde in het uitpondscenario is gebaseerd op het verder uitponden van de, aan het eind van het 15e jaar, nog niet verkochte woongelegenheden. Hierbij wordt de mutatiekans met 50% gehalveerd ten opzichte van de mutatiekans die wordt gehanteerd in het doorexploiteerscenario. De kasstromen van de dan nog verhuurde woongelegenheden verlopen zoals in het doorexploiteerscenario, inclusief de verhuurderheffing voor zover van toepassing, en de opslag voor veroudering. De eindwaarde op het eind van het 15e jaar is dan weer gelijk aan al deze kasstromen contant gemaakt met de gehanteerde disconteringsvoet.
 
-### 8.2.6. Eindwaarde
+### 5.2.16.3. Toelichting uitwerking eindwaarde op basis voortdurende looptijd
 
-De eindwaarde is de marktwaarde van het waarderingscomplex aan het einde van het 15e jaar. Deze waarde is gelijk aan de contante waarde van de verwachte kasstromen die vanaf het 16e exploitatiejaar worden verwacht. Deze eindwaarde wordt vervolgens contant gemaakt met de gehanteerde disconteringsvoet naar de waardepeildatum en is zo onderdeel van de marktwaarde.
+De eindwaarde ultimo jaar 15 kan op drie eindwaardescenario’s worden berekend: een eindwaardescenario op basis van uitponden, een eindwaardescenario op basis van doorexploiteren, of een eindwaardescenario op basis van het maximum van doorexploiteren en uitponden.
 
 ### 9.1. Vrijheidsgraden
 
-Bij intramuraal zorgvastgoed is alleen sprake van een doorexploiteerscenario.
+Eveneens geldt dat een de contante waarde van een kasstroom CF die jaarlijks met een groeivoet g stijgt gelijk is aan CF/(d – g) (1). Deze principes kunnen gebruikt worden in de eindwaarde berekening.
 
 ### 8.2.9. Nadere toetsing
 
-De modelmatige bepaalde marktwaarde van een complex ligt ten opzichte van de geïndexeerde WOZ-waarde over het algemeen binnen een bandbreedte van 50 en 125%. Indien dit niet het geval is, is een nadere beoordeling van de gebruikte objectgegevens nodig om te bezien of deze juist zijn. Indien de gebruikte objectgegevens juist blijken te zijn, behoeft de marktwaarde niet te worden aangepast.
+De kasstromen in jaar 15 (CF15) vormen de basis voor de eindwaardeberekening. De eindwaarde geldt ultimo jaar 15 en begint dus met de kasstroom in jaar 16. De kasstroom medio jaar 16 moet dus eerst nog gecorrigeerd worden voor de groeifactor g: CF16 = CF15 * (1 + g). Ook moet voor de bepaling van de contante waarde nog gecorrigeerd worden vanwege het medio jaar disconteren: EW = EW * (1 + d)0,5. Het invoeren van deze gegevens in vergelijking (1) uit de voorgaande paragraaf geeft de vergelijking voor de eindwaarde ultimo jaar 15 gegeven een kasstroom CF15 in jaar 15, een discontovoet d en een groeifactor g:
 
 ### 9. Full versie
 
 ### 9.1.5. Mutatie- en verkoopkans
 
-In de basisversie is de markthuur voor woningen bepaald aan de hand van een modelmatige schatting. Deze schatting houdt geen rekening met specifieke omstandigheden waardoor de markthuur anders is dan uit het model voortvloeit. In de full versie heeft de externe taxateur de mogelijkheid om de modelmatig bepaalde markthuur te vervangen door zijn inschatting van de markthuur.
+Voor de berekening van de eindwaarde geldt verder nog het volgende:
 
 De leegwaarde wordt in de basisversie ontleend aan de WOZ-waarde. Echter, er kunnen verschillende redenen zijn waarom de op deze wijze bepaalde leegwaarde niet aansluit bij de markt. Onder meer vloeit een mogelijk verschil voort uit de ficties waarop de WOZ-waardering is gebaseerd. De externe taxateur heeft de mogelijkheid om de WOZ-waarde te vervangen door een leegwaarde die beter aansluit bij de markt.
 
-Als er redenen zijn om aan te nemen dat de op basis van de mutatiekans vrijkomende verhuureenheden niet allemaal kunnen worden verkocht, kan daar ook rekening mee worden gehouden door een deel van de vrijkomende verhuureenheden in de wederverhuur te nemen. Voor deze verhuureenheden geldt dan dat de huur opgetrokken naar de markthuur of de maximale huur volgens het woningwaarderingsstelsel. Verder is bij deze verhuureenheden in de toekomst weer dezelfde mutatiekans van toepassing.
+Bij studenteneenheden en extramurale zorgeenheden wordt in de basisversie verondersteld dat deze zich in complexen bevinden die niet worden uitgepond. Dit impliceert dat voor deze verhuureenheden alleen het doorexploiteerscenario van toepassing is. Dit zelfde geldt ook voor aardbevings- en krimpgebieden. Bij toepassing van de full versie kan een uitzondering worden gemaakt op het hanteren van zowel een doorexploiteer- als een uitpondscenario, indien op basis van een marktanalyse wordt aangetoond dat één van beide scenario’s niet realistisch is in de markt. Hiervoor kan bijvoorbeeld gedacht worden aan woningen in krimp- en aardbevingsgebieden, studentenwoningen en extramurale zorgwoningen.
 
 ## Bijlage 3. bij de Regeling toegelaten instellingen volkshuisvesting 2015
 
-Ten aanzien van de aangegeven vrijheidsgraden heeft de taxateur de ruimte om op basis van het principe ‘pas toe of leg uit’ tot aanpassingen over te gaan in de modelmatige waardering, en daarmee voor afzonderlijke complexen tot een betere waardering te komen. De aanpassingen ten aanzien van de vrijheidsgraden dienen door de taxateur te worden toegelicht in het taxatierapport en daarnaast onderbouwd in het taxatiedossier te worden vastgelegd. In het taxatierapport dient per vrijheidsgraad toegelicht te worden waarom is afgeweken van de basisvariant van het waarderingshandboek. Verder dient per vrijheidsgraad de reikwijdte, aard en omvang van de aanpassing toegelicht te worden. In principe dienen de afwijkingen per vrijheidsgraad op complexniveau te worden verantwoord, tenzij de aard van de reikwijdte, aard en omvang van de aanpassing voor meerdere complexen hetzelfde is. In dat geval kan ook worden volstaan met een verantwoording op portefeuilleniveau. Het taxatierapport en het taxatiedossier worden door de taxateur verstrekt aan de toegelaten instelling en zijn op aanvraag beschikbaar voor de Autoriteit woningcorporaties.
+Bij verlenging van het huidige contract geldt dat op basis van de herzieningshuur, de nieuwe huur wordt opgenomen.
 
 ### 4.2. Toelichting waardering bezit toegelaten instelling
 
@@ -2844,19 +2844,19 @@ Ten aanzien van de aangegeven vrijheidsgraden heeft de taxateur de ruimte om op 
 
 ### 5.1. Verkoop van huur- en koopwoningen in het verslagjaar per bezitsgemeente1)
 
-Dit heeft tot gevolg dat het accountantsprotocol over verslagjaar 2015 op enkele onderdelen is gewijzigd ten opzichte van het accountantsprotocol dat van kracht was voor de accountantswerkzaamheden over verslagjaar 2014. Naast het toevoegen van het vanaf 1 juli 2015 van toepassing zijnde juridische kader dat relevant is voor enkele onderwerpen die reeds in eerdere accountantsprotocollen waren opgenomen, zoals met betrekking tot de regelgeving inzake de vervreemding van woongelegenheden, is er tevens een aantal nieuwe controleonderwerpen toegevoegd die volgen uit de nieuwe wetgeving.
+Stel de aanvangsleegstand is 3 maanden. Dat betekent dat in het eerste kalenderjaar de huurderving als gevolg van leegstand gelijk is aan 3/12 of te wel 25% van de markthuur medio dat jaar. Na de periode wordt de verhuureenheid bij doorexploiteren tegen de markthuur verhuurd.
 
-### 1. Algemeen
+### 6.2.6. Mutatieleegstand
 
 Omdat het niet goed mogelijk is om gedurende een verslagjaar een nieuw regime toe te passen met betrekking tot de jaarrekening, het jaarverslag, het volkshuisvestingsverslag en het onderzoek van de accountant, is in [artikel 126, tweede lid, van het BTIV](https://wetten.overheid.nl/jci1.3:c:BWBR0036702&artikel=126) bepaald dat de [artikelen 35 t/m 38 van de Woningwet](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&artikel=35) voor deze werkzaamheden gelden per verslagjaar 2016.
 
 ### 1.3. Onderzoeksobjecten
 
-In het accountantsprotocol 2015 is sprake van assurance-werkzaamheden die leiden tot een controleverklaring en twee assurance-rapporten met een redelijke mate van zekerheid alsmede een rapport van feitelijke bevindingen. Bij het opstellen van het protocol is gebruik gemaakt van de Schrijfwijzer Accountantsprotocollen van de Nederlandse Beroepsorganisatie van Accountants (hierna: NBA).
+De vastgoed sectorspecifieke opslag is een vastgoedsector gebonden risico-opslag, welke dient ter compensatie voor het extra risico dat wordt gelopen voor het investeren in vastgoed, ten opzichte van de risicovrije rente. Het percentage voor de vastgoedsector specifieke opslag is ontleend aan waarderingsgegevens van toegelaten instellingen.
 
 ### 1.4. De accountantsproducten
 
-In geval van fusie (in het verslagjaar) tussen toegelaten instellingen zal overleg plaatsvinden tussen de Aw, de betrokken toegelaten instellingen en de accountant over de toepassing van het accountantsprotocol en de tekst van de assurance-rapporten.
+De totale disconteringsvoet voor het referentie-object bedraagt 8,84%. Aangezien de risicovrije rentevoet en de vastgoedsector specifieke opslag samen op 5,96% uitkomen, kan afgeleid worden dat bij het referentieobject de opslag voor het markt- en objectrisico 2,88% bedraagt.
 
 ### 1.3. Onderzoeksobjecten
 
@@ -2872,11 +2872,11 @@ De accountantswerkzaamheden met betrekking tot de hiervoor genoemde onderzoeksob
 
 ### 1.5. Procedures verslaggeving toegelaten instellingen
 
-Bij de controle dienen de algemene (voor de jaarrekeningcontrole geldende) betrouwbaarheids- en nauwkeurigheidsnormen te worden gehanteerd. Het is de verantwoordelijkheid van de accountant om deze te bepalen met inachtneming van hetgeen hierover in NV COS is opgenomen. Voor de werkzaamheden die volgen uit het Controleprotocol WNT, is de in dat protocol opgenomen materialiteit van toepassing.
+De modelmatige bepaalde marktwaarde van een complex ligt ten opzichte van de geïndexeerde WOZ- waarde over het algemeen binnen een bandbreedte van 50 en 125%. Indien dit niet het geval is, is een nadere beoordeling van de gebruikte objectgegevens nodig om te bezien of deze juist zijn. Indien de gebruikte objectgegevens juist blijken te zijn, behoeft de marktwaarde niet te worden aangepast.
 
-### 2.1. Doelstelling
+### 7. PARKEERGELEGENHEDEN
 
-Voor de periode vanaf 1 juli 2015 tot en met 31 december 2015 geldt dat de hieronder opgesomde regelgeving en toelichtingen daarop (voor zover deze niet reeds in de betreffende paragraaf van dit protocol specifiek zijn benoemd) van toepassing zijn op de werkzaamheden van de accountant:
+Let op: een parkeergelegenheid kan in principe alleen via het model voor parkeergelegenheden worden gewaardeerd, als geldt dat sprake is van een apart contract voor de parkeervoorziening. Immers als de parkeervoorziening tezamen met een woongelegenheid of BOG / MOG eenheid wordt verhuurd en één en hetzelfde contract kent, dan dient de parkeervoorziening met het model voor woongelegenheden, respectievelijk het model voor BOG / MOG te worden gewaardeerd.
 
 ### 3.1. Doelstelling
 
@@ -2888,19 +2888,19 @@ De werkzaamheden van de accountant die leiden tot een assurance-rapport hebben t
 
 ### 3.3. Materialiteit (betrouwbaarheid, nauwkeurigheid en rapporteringstolerantie)
 
-Voor de periode vanaf 1 juli 2015 tot en met 31 december 2015 geldt dat de hieronder opgesomde regelgeving en toelichtingen daarop (voor zover deze niet reeds in de betreffende paragraaf van dit protocol specifiek zijn benoemd) van toepassing zijn op de werkzaamheden van de accountant:
+De markthuur is de huurprijs per maand die, uitgaande van optimale marketing en verhuur, kan worden behaald op de waardepeildatum.
 
-### 4.1. Doelstelling
+### 7.2.3. Mutatiekans
 
-Bij de controlewerkzaamheden inzake punt 8 van paragraaf 3.5 (melding/goedkeuring vervreemding woongelegenheden en maatschappelijk vastgoed aan derden, voor woongelegenheden niet zijnde aan natuurlijke personen voor eigen bewoning en toegelaten instellingen, voor maatschappelijk vastgoed niet zijnde aan huurders en toegelaten instellingen), punt 9 (vervreemding woongelegenheden aan natuurlijke personen voor eigen bewoning en maatschappelijk vastgoed aan huurders) en punt 14 van paragraaf 3.5 (de aanbesteding maatschappelijk vastgoed) gelden de algemene voor de jaarrekeningcontrole geldende betrouwbaarheids- en nauwkeurigheidsnormen. Voor punt 14 van paragraaf 3.5 (de aanbesteding maatschappelijk vastgoed) geldt aanvullend dat uitsluitend dienen te worden gecontroleerd de aanbestedingen boven het bedrag van € 300.000,– per aanbesteding voor het treffen van voorzieningen aan haar gebouwen en hun onroerende en infrastructurele aanhorigheden, en boven het bedrag van € 1.000.000,– per aanbesteding voor het doen bouwen van maatschappelijk vastgoed.
+Voor de hoogte van de mutatiekans wordt bij parkeergelegenheid geen onderscheid gemaakt tussen de mutatiekans in het doorexploiteerscenario en in het uitpondscenario.
 
 ### 4.2. Specifiek van toepassing zijnde regelgeving
 
-Het assurance-rapport strekt zich uit over de genoemde 18 onderdelen; de accountant moet per onderdeel een afzonderlijk oordeel formuleren. Uit praktisch oogpunt is Model II van rubriek E zo ingericht dat de accountant daarin alleen de niet-goedkeurende oordelen hoeft te vermelden. De accountant moet de onderbouwing van deze afwijkende oordelen in het assurance-rapport omschrijven.
+Veronderstel dat een waarderingscomplex 100 verhuurbare eenheden omvat per ultimo jaar gedurende de jaren 2012 t/m 2016 en er geen verkopen plaatsvinden in deze periode.
 
 ### 3.5. Onderdelen assurance-rapport naleving specifieke wet- en regelgeving
 
-De werkzaamheden van de accountant, bedoeld in [artikel 28, aanhef en lid c, van het Bbsh](https://wetten.overheid.nl/jci1.3:c:BWBR0005686&artikel=28) die leiden tot een assurance-rapport hebben ten doel een redelijke mate van zekerheid te verlenen omtrent de juiste en volledige weergave van een specifiek aantal onderdelen uit het overzicht van de dVi over het verslagjaar, inclusief verantwoording omtrent woningtoewijzingen.
+Het instandhoudingsonderhoud is het onderhoud dat gedurende de DCF-periode nodig is om een verhuurbare eenheid in dezelfde technische en bouwkundige staat te houden, als waarin het zich op het moment van waarderen bevindt. Het gaat hierbij niet om investeringen die leiden tot een verbetering van de kwaliteit van de verhuureenheid. Het instandhoudingsonderhoud leidt ook niet tot een hogere huur.
 
 ### 4.2. Specifiek van toepassing zijnde regelgeving
 
@@ -2912,47 +2912,47 @@ Voor een 24-tal onderdelen van de dVi (zie verder paragraaf: Onderdelen assuranc
 
 ### A. Aspect Volledigheid
 
-De werkzaamheden van de accountant zijn gericht op alle woongelegenheden in eigendom van de toegelaten instelling, dus ongeacht of de toegelaten instelling deze zelf verhuurt of door een derde laat verhuren (intermediaire verhuur). De accountant stelt op basis van de huuradministratie (inclusief de intermediaire verhuur) **de volledigheid** vast van de aantallen aangegane huurovereenkomsten in het verslagjaar die zijn opgenomen in onderdeel 5.8.5, zowel voor wat betreft het totaal van de huurovereenkomsten met betrekking tot de woongelegenheden met een huurprijs die bij aanvang van de bewoning niet hoger is dan € 710,68, als voor wat betreft de drie (inkomens-)groepen. Als de huuradministratie (inclusief de intermediaire verhuur) daarvoor onvoldoende zicht biedt, dan wordt dat vertaald naar een oordeel. De tabel ‘Vertaling naar oordeel’ is hierop van toepassing.
+De objectparameter wel of geen aanvangsleegstand bepaalt of het object leegstaat vanaf het begin van de beschouwingsperiode, dus vanaf 1 januari 2017. Indien er sprake is van aanvangsleegstand, dan moet in de basisversie gerekend worden met een periode gelijk aan de modelparameter mutatieleegstand (in maanden) en met de huurderving die het resultaat is van deze leegstand.
 
 ### B. Aspect Juistheid
 
-De werkzaamheden van de accountant zijn gericht op alle woongelegenheden in eigendom van de toegelaten instelling, dus ongeacht of de toegelaten instelling deze zelf verhuurt of door een derde laat verhuren (intermediaire verhuur). De accountant stelt op basis van de huuradministratie (inclusief de intermediaire verhuur) **de volledigheid** vast van de aantallen aangegane huurovereenkomsten in het verslagjaar die zijn opgenomen in onderdeel 5.8.5, zowel voor wat betreft het totaal van de huurovereenkomsten met betrekking tot de woongelegenheden met een huurprijs die bij aanvang van de bewoning niet hoger is dan € 710,68, als voor wat betreft de drie (inkomens-)groepen. Als de huuradministratie (inclusief de intermediaire verhuur) daarvoor onvoldoende zicht biedt, dan wordt dat vertaald naar een oordeel. De tabel ‘Vertaling naar oordeel’ is hierop van toepassing.
+Mutatieleegstand is het aantal maanden dat een verhuureenheid bij mutatie leegstaat voor dat deze wederverhuurd wordt. Mutatieleegstand resulteert in huurderving gedurende de periode van leegstand. De huurderving is gebaseerd op de markthuur. Deze huurderving geldt alleen in het doorexploiteerscenario.
 
 ### D. Uitgangspunten steekproef Inkomenstoets
 
-De accountant dient een oordeel uit te spreken over **de juistheid** van de verantwoording van het aantal aangegane huurovereenkomsten (voor wat betreft de woningen met een huur van € 710,68 of lager) aan de doelgroep (huishoudinkomen ten hoogste € 34.911 per jaar, huishoudens met verzamelinkomens vanaf € 34.911 tot en met € 38.950, dan wel huishoudens anderszins toerekenbaar aan de doelgroep).
+Loopt het contract niet voor nog minimaal 15 jaar door, dan wordt een inschatting gemaakt van de canon bij ingang van het nieuwe contract. Door de complexiteit van deze methodiek, is in dat geval maatwerk vereist, dat via de full versie mogelijk is.
 
 ### 5.1. Doelstelling
 
-Naast de hierboven beschreven waarschijnlijkheidstoetsen dient de accountant tevens als volgt aandacht te besteden aan getoetste inkomens die **net onder de grens** van € 34.911 1 januari tot 1 juli 2015 en die, voor de periode vanaf 1 juli 2015 tot en met 31 december 2015, net onder de grens van € 38.950 liggen. De accountant voert, afhankelijk van de omvang, een gegevensgerichte deelwaarneming uit. De omvang van deze deelwaarneming dient de accountant te baseren op basis van ‘professional judgement’.
+De disconteringsvoet is de marktconforme rendementseis waartegen de verwachte toekomstige inkomsten en uitgaven contant worden gemaakt. De disconteringsvoet wordt opgebouwd uit de volgende drie onderdelen:
 
 ### 5.3. Verantwoordelijkheden
 
-De rapporteringstolerantie bedraagt 0%. Dit betekent dat de accountant alle geconstateerde fouten/onzekerheden dient toe te lichten in een aparte paragraaf in het assurance-rapport (‘overige aangelegenheden’), ook als dit geen invloed heeft op het afgegeven oordeel. De tabel ‘Vertaling naar oordeel’ is hierop van toepassing.
+De opslagen voor het markt- en objectrisico zijn gecombineerd. Deze gecombineerde opslag is afhankelijk gesteld van twee kenmerken van de verhuureenheden:
 
 ### 5.1. Doelstelling
 
-De accountant voert **geen** werkzaamheden uit met betrekking tot de verantwoording over toewijzing aan de andere deelgroep in de dVi onder 5.8.5:
+De totale disconteringsvoet voor het referentie-object bedraagt 6,80%. Aangezien de risicovrije rentevoet en de vastgoedsector specifieke opslag samen op 5,96% uitkomen, kan afgeleid worden dat bij het referentieobject de opslag voor het markt- en objectrisico 0,84% bedraagt.
 
 ### 5.5. Beschrijving van de te verrichten werkzaamheden
 
 Bovenstaande drie regels worden in de dVi afzonderlijk uitgevraagd voor DAEB en niet DAEB.
 
-### 6.1. Model I
+### 8.2.1. Markthuren
 
-Onze verantwoordelijkheid is het geven van een oordeel over de jaarrekening op basis van onze controle. Wij hebben onze controle verricht in overeenstemming met Nederlands recht, waaronder de Nederlandse controlestandaarden, het Controleprotocol WNT, en het controleprotocol in rubriek A van bijlage 4 bij de Regeling toegelaten instellingen volkshuisvesting 2015. Dit vereist dat wij voldoen aan de voor ons geldende ethische voorschriften en dat wij onze controle zodanig plannen en uitvoeren dat een redelijke mate van zekerheid wordt verkregen dat de jaarrekening geen afwijkingen van materieel belang bevat.
+Achterstallig onderhoud of onderhoudsgebreken moeten worden betrokken bij de waardering van de intramurale zorgeenheden. Achterstallig onderhoud zijn kosten die het gevolg zijn van onvoldoende onderhoud of van externe omstandigheden (dalende grondwaterstand, aarbevingen) die een direct gevaar vormen voor de elementaire gebouwprestaties en voor het op lange termijn doorexploiteren van de eenheid. Dit kan onder meer betrekking hebben op funderingsproblemen en asbest dat moet worden verwijderd. Het gaat hierbij dus niet om instandhoudingsonderhoud, dat bedoeld is om een eenheid in eenzelfde technische en bouwkundige staat te houden.
 
 ### 6.2. Model II
 
-**Overige aangelegenheden**
+De vastgoed sectorspecifieke opslag is een vastgoedsector gebonden risico-opslag, welke dient ter compensatie voor het extra risico dat wordt gelopen voor het investeren in vastgoed, ten opzichte van de risicovrije rente. Het percentage voor de vastgoedsector specifieke opslag is ontleend aan waarderingsgegevens van toegelaten instellingen.
 
 ### 6.3. Model III
 
-**(Indien op één van de 24 assurance-onderdelen sprake is van een niet-goedkeurend oordeel dan wordt dit afzonderlijk toegelicht21Dit oordeel gaat uit van een goedkeurend oordeel over alle 24 assurance-onderdelen. Indien aan één of meerdere onderdelen niet is voldaan, dan moet daarvoor een aangepast oordeel gevormd worden, inclusief de daarbij behorende onderbouwing van het oordeel vóór de paragraaf ‘oordeel’. Voor deze onderbouwing dient de volgende kop opgenomen te worden: Onderbouwing van het oordeel met beperking/het afkeurend oordeel/de oordeelonthouding ten aanzien van voorwaarde ...’. Ingeval van een oordeelonthouding zal ook de tekst van de paragrafen ‘Opdracht en verantwoordelijkheden’ en ‘Werkzaamheden’ navenant anders komen te luiden. De kop ‘Oordeel’ zal in deze situatie wijzigen in ‘Oordeel ten aanzien van assurance-onderdeel ...’.De kop van het aangepaste oordeel zal dan luiden: Oordeel met beperking/Oordeelonthouding/Afkeurend oordeel ten aanzien van assurance-onderdeel ...’.).**
+Om specifieke afspraken en atypische inkomsten en uitgaven te kunnen modelleren mogen er extra kasstromen toegevoegd worden aan het standaardschema uit de basisversie. Voorwaarde is dat er een duidelijke en transparante uitsplitsing wordt gemaakt. Het verloop van deze kasstromen over de jaren hoeft niet persé inflatievolgend te zijn. Uitgangspunt is dat de kasstromen en hun verloop worden benoemd.
 
 ### 6.4. Model IV
 
-Vastgesteld dat de externe taxateur zoals bedoeld in punt d, e en f is ingeschreven in het Nederlands Register Vastgoed Taxateurs (NRVT).
+Bij het uitvoeren van de full-taxatie mag de taxateur van de reglementen van het NRVT afwijken voor de onderdelen die betrekking hebben op de kadastrale recherche, het titelonderzoek en de milieuaspecten. Ook de onderdelen die betrekking hebben op omschrijvingen van het gebouw en de omgeving vallen hier onder. Indien er bij de toegelaten instellingen documentatie beschikbaar is waarop de taxateur kan steunen, kan in de rapportage van de taxateur naar die documentatie worden verwezen. Hierbij is wel vereist dat de taxateur de waarde mede heeft gebaseerd op die informatie. Dit hoeft niet perse de fysieke broninformatie van de corporatie zelf te zijn, maar kan ook een verklaring van de corporatie betreffen dat het vastgoed voldoet aan de vigerende bestemming, dat er geen bijzonderheden zijn ten aanzien van milieu en dat het vastgoed niet verder bezwaard is met zakelijke rechten. In deze gevallen bepaalt de taxateur of de verstrekte informatie en / of verklaring voldoende aannemelijk is en worden de overwegingen hierbij vermeld in het taxatierapport. De betreffende informatie of verklaring dient ook toegankelijk te zijn voor Autoriteit woningcorporaties en de accountant.
 
 ## Bijlage 5. bij [artikel 19](https://wetten.overheid.nl/jci1.3:c:BWBR0036709&hoofdstuk=III&afdeling=1&paragraaf=1&artikel=19&z=2016-01-28&g=2016-01-28) van de Regeling toegelaten instellingen volkshuisvesting 2015
 
@@ -2962,19 +2962,19 @@ Vastgesteld dat de externe taxateur zoals bedoeld in punt d, e en f is ingeschre
 
 ### INHOUDSOPGAVE
 
-(toelichting pull down menu's 2.1 niet invulbaar)
+² Mutatiegraad voor eindwaardescenario uitponden is 50% van de mutatiegraad doorexploiteren
 
-### 2.1. Projectoverzicht A. DAEB activiteiten per project (x € 1.000)
+### GEGEVENSOPVRAGING SOLVABILITEITSOORDEEL
 
 overzicht aantallen huurwoongelegenheden en niet-woongelegenheden op corporatieniveau per jaar
 
-### 3.3.1. Balansprognose passiva (enkelvoudig t.i. (A) of geconsolideerd (B))
+### HOOFDSTUK 4 WAARDERING BEZIT
 
 ## Bijlage 6. bij [art. 43](https://wetten.overheid.nl/jci1.3:c:BWBR0036709&hoofdstuk=III&afdeling=5&paragraaf=2&artikel=43&z=2016-01-28&g=2016-01-28) van de Regeling toegelaten instellingen volkshuisvesting 2015
 
-### Raamomvereenkomst interest rate swaps
+### 4.3. Inzet en WOZ-waarde bezit toegelaten instelling
 
-TEN BLIJKE WAARVAN partijen aan dit document uitvoering hebben gegeven op de onderstaande datum welke in werking treedt op de datum genoemd op de eerste pagina van dit document.
+Vervallen
 
 ## Bijlage 7. bij [artikel 43](https://wetten.overheid.nl/jci1.3:c:BWBR0036709&hoofdstuk=III&afdeling=5&paragraaf=2&artikel=43&z=2016-01-28&g=2016-01-28) van de Regeling toegelaten instellingen volkshuisvesting 2015
 
@@ -3277,7 +3277,7 @@ De gevallen, bedoeld in [artikel 24, onderdeel g, van het besluit](https://wette
 
 ##### Artikel 19b
 
-Binnen twee weken na de dagtekening, bedoeld in [artikel 19a, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0036709&hoofdstuk=III&afdeling=1&paragraaf=1a&artikel=19a&z=2016-10-28&g=2016-10-28), kunnen de betrokken partijen hun zienswijze kenbaar maken bij de commissie, bedoeld in [artikel 40, eerste lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0036702&artikel=40).
+Binnen twee weken na de dagtekening, bedoeld in [artikel 19a, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0036709&hoofdstuk=III&afdeling=1&paragraaf=1a&artikel=19a&z=2017-01-01&g=2017-01-01), kunnen de betrokken partijen hun zienswijze kenbaar maken bij de commissie, bedoeld in [artikel 40, eerste lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0036702&artikel=40).
 
 ##### Artikel 19c
 
@@ -3355,11 +3355,11 @@ De groep, bedoeld in [artikel 48, eerste lid, van de Woningwet](https://wetten.o
 
 ### 5.2.11. Erfpacht
 
-### 5.2.15. Overige punten
+### 4.3. Bouwkostenstijging
 
-### 6.2. Modelparameters
+### 5.2.1. Leegwaarde
 
-### 6.2.4. Erfpacht
+### 5.2.3. Markthuur van studenteenheden en extramurale zorgeenheden
 
 ### 6.2.4. Erfpacht
 
@@ -3371,17 +3371,17 @@ De groep, bedoeld in [artikel 48, eerste lid, van de Woningwet](https://wetten.o
 
 ### 7.2.2. Markthuren
 
-### 7.2.3. Huurinkomsten en huurstijging
+### 5.2.5.1. Boveninflatoire huurverhoging
 
-### 7.2.5. Splitsingskosten
-
-### 7.2.7. Erfpacht
+### 5.2.8. Aanvangsleegstand
 
 ### 7.2.7. Erfpacht
 
-### 8.2. Modelparameters
+### 5.2.9.2. Mutatiekans bij uitponden
 
 ### 8.2. Modelparameters
+
+### 5.2.13. Verkoopkosten
 
 ### 8.2.4. Erfpacht
 
@@ -3391,7 +3391,7 @@ De groep, bedoeld in [artikel 48, eerste lid, van de Woningwet](https://wetten.o
 
 In de basisvariant is voor de verschillende onderhoudscategorieën gewerkt met gemiddelde bedragen voor het onderhoud, die afhankelijk zijn van een beperkt aantal kenmerken van de verhuureenheid. In de praktijk kan de noodzaak voor onderhoud meer variëren dan in de basisvariant is uitgewerkt. Als dat zo is, kunnen de onderhoudsbedragen met tussenkomst van de externe taxateur worden aangepast.
 
-De externe taxateur dient aangesloten te zijn bij het Nederlands Register Vastgoed Taxateurs (NRVT) of daarmee vergelijkbare beroeps- en gedragsregels te hanteren.
+Met de modelparameters vindt de modelmatige waardering plaats, uitgaande van de objectgegevens, die in het voorafgaande zijn beschreven. Het betreft hier de modelparameters voor de basisversie. Verderop zullen de afwijkingen worden beschreven die mogelijk zijn op de modelparameters in de full versie.
 
 In de basisvariant zijn geen technische splitsingskosten opgenomen. Wel is toegelicht dat de technische splitsingskosten de uitgaven zijn die worden gemaakt ten behoeve van de nadere voorwaarden, die voortvloeien uit de afgegeven splitsingsvergunning door de gemeente. Het gaat hierbij niet om onderhoudskosten, maar om de aanvullende eisen die in het kader van de splitsing dienen te worden uitgevoerd. In de praktijk kunnen deze technische splitsingskosten van belang zijn bij de waardering. Als dit het geval is, kunnen de technische splitsingskosten met tussenkomst van de externe taxateur meegenomen worden.
 
@@ -3399,7 +3399,7 @@ De waardering op basis van de full versie met de genoemde vrijheidsgraden vereis
 
 ## Bijlage 3. bij de Regeling toegelaten instellingen volkshuisvesting 2015
 
-**Maakt geen deel uit van de Rtiv-bijlage 3, maar van het opvraagprogramma**
+Vindt er geen verlenging, maar herziening plaats, dan is de huur in het tweede deel van het jaar gebaseerd op de herzieningshuur.
 
 ### 5.3. Kwaliteitsbeleid
 
@@ -3409,39 +3409,39 @@ De waardering op basis van de full versie met de genoemde vrijheidsgraden vereis
 
 ### 5.7. Verantwoording naleving specifieke wettelijke bepalingen
 
-### 5.8. Aantal toewijzingen in het verslagjaar
+### 6.2.5. Aanvangsleegstand
 
 ### 1.1. Belangrijke wijzigingen
 
 ### 1.2. Doelstelling
 
-Het accountantsprotocol is getoetst op uitvoerbaarheid door de werkgroep Controleprotocollen (COPRO) van de NBA. COPRO heeft het oordeel: ‘Uitvoerbaar zonder opmerkingen’ afgegeven.
+De eindwaarde is de marktwaarde van het waarderingscomplex aan het einde van het 15e jaar. Deze waarde is gelijk aan de contante waarde van de verwachte kasstromen die vanaf het 16e exploitatiejaar worden verwacht. Deze eindwaarde wordt vervolgens contant gemaakt met de gehanteerde disconteringsvoet naar de waardepeildatum en is zo onderdeel van de marktwaarde.
 
-De accountantswerkzaamheden met betrekking tot de hiervoor genoemde onderzoeksobjecten monden uit in een aantal accountantsrapportages zoals opgenomen in rubriek E. Zie hiervoor hoofdstuk 6.
+Rekenen met een periode van 50 jaar geeft nagenoeg dezelfde uitkomst. Deze benadering is voor verslagjaar 2016 nog toegestaan. Om rekenkundige uniformiteit te waarborgen is vanaf verslagjaar 2017 de voortdurende looptijd benadering voorschrift.
 
-### 2.3. Materialiteit (betrouwbaarheid en nauwkeurigheid)
+### 6.2.11. Nadere toetsing
 
-### 4.1. Doelstelling
+### 7.2.4. Huurinkomsten en huurstijging.
 
-### 4.2. Specifiek van toepassing zijnde regelgeving
+### 7.2.5. Exploitatiekosten
 
-### 4.4. Oordelen in het assurance-rapport
+### 7.2.6. Splitsingskosten
 
 ### 4.5. Onderdelen assurance-rapport cijfermatige verantwoording
 
-### A. Aspect Volledigheid
+### 7.2.8. Aanvangsleegstand
 
-Het kan zijn dat het aspect van **intermediaire verhuur** de accountant verhindert om de volledigheid van de verantwoording onder 5.8.5 vast te stellen. Het zal de toegelaten instelling niet in alle gevallen door het extern toezicht worden aangerekend dat het oordeel ‘volledigheid’ ontbreekt en daarom is het van belang dat de accountant in voorkomende gevallen zichtbaar maakt waarom het oordeel ‘volledigheid’ achterwege is gebleven. **Het is met name van belang om aan te geven of ontoegankelijkheid van de huuradministratie van de intermediaire verhuurder van **doorslaggevende betekenis** is geweest voor het niet kunnen vaststellen van de volledigheid en dat de volledigheid van de verantwoording op dit punt wel had kunnen worden vastgesteld als het aspect van intermediaire verhuur buiten beschouwing was gebleven.**
-
-### B. Aspect Juistheid
+Tabel 44 periode mutatieleegstand
 
 ### B. Aspect Juistheid
 
-De accountant dient bij de vaststelling van de juistheid van de verantwoording na te gaan of **de toegelaten instelling het inkomen heeft vastgesteld conform de Regeling**. Uitgangspunt daarbij zijn door de Belastingdienst vastgestelde en/of verstrekte inkomensgegevens, te weten een definitieve of voorlopige aanslag voor de inkomstenbelasting, ofwel een verklaring omtrent het inkomen. Deze verklaringen, die tot medio 2013 werden verstrekt onder de noemer IB60, zijn de afgelopen periode met diverse kenmerken verstrekt. Zie hiervoor de toelichting in het kader hieronder. Aan de hand van de in [bijlage 5 van het BTIV](https://wetten.overheid.nl/jci1.3:c:BWBR0036702&bijlage=5) opgenomen indices dienen inkomens uit 2013 en 2014 te zijn geactualiseerd. Er kan ook gebruik worden gemaakt van de definitieve toekenning van de zorgtoeslag die dezelfde inkomensgegevens bevat als het IBRI formulier (hierbij wordt erop gewezen dat de Belastingdienst per 2012 de inkomensgegevens niet standaard meer op de definitieve zorgtoeslag toekenning vermeldt. Op verzoek van betrokkenen kan de Belastingsdienst echter wel een beschikking verstrekken waarop het inkomen wel wordt vermeld, de toekenning over 2013 kan ook nog worden gebruikt bij de inkomenstoets voor de toewijzingen in 2015) of de definitieve toekenning van de huurtoeslag.
+### B. Aspect Juistheid
 
-De accountant voert een a-selecte steekproef uit op de deelgroep ‘Aantal aangegane huurovereenkomsten met betrekking tot zodanige woongelegenheden in de gevallen dat het huishoudinkomen ten hoogste € 34.911 en € 38.950 per jaar is (...)’ waarbij 10% van het aantal aangegane huurovereenkomsten wordt beoordeeld met een minimumaantal van 25 en een maximumaantal van 50. Middels het uitvoeren van deze steekproef stelt de accountant vast dat de verantwoording die op dit punt is afgelegd in de dVi **juist** is.
+Dit is het bedrag dat verschuldigd is om de huidige erfpacht om te zetten in eigendom of eeuwigdurende erfpacht. Het bedrag moet dan door de TI zijn geraamd. Indien dit bedrag in de basisversie wordt opgevoerd, dient dit van de eerdere berekende waarde op eigen grond te worden afgetrokken. Dit bedrag bevat dan tevens eventuele toekomstige canonverplichtingen. Die moeten dan niet alsnog ook opgevoerd worden.
 
-### 5. Rubriek D: het rapport van feitelijke bevindingen inzake de marktwaarde in verhuurde staat
+De hoogte van de risicovrije rentevoet wordt bepaald aan de hand van het 24-maands historisch gemiddelde van de 10-jaar EURO area yield curve gebaseerd op triple AAA rated staatsobligaties zoals gepubliceerd door de ECB. Doordat gebruik wordt gemaakt van het 24-maands gemiddelde, worden incidentele pieken van de rente op de peildatum van de waardering voorkomen.
+
+### 7.2.12. Eindwaarde
 
 ### 5.1. Doelstelling
 
@@ -3449,23 +3449,23 @@ De accountant voert een a-selecte steekproef uit op de deelgroep ‘Aantal aange
 
 ### 5.3. Verantwoordelijkheden
 
-**Punt c:**
+Met de modelparameters vindt de modelmatige waardering plaats, uitgaande van de objectgegevens, die in het voorafgaande zijn beschreven. Het betreft hier de modelparameters voor de basisversie. Verderop zullen de afwijkingen worden beschreven die mogelijk zijn op de modelparameters in de full versie.
 
-### 6. Rubriek E: Modelteksten
+### 8.2.2.1. Verlenging
 
 ### 6.1. Model I
 
-### 6.2. Model II
+### 8.2.4. Aanvangsleegstand
 
 ### 6.3. Model III
 
 ### 6.4. Model IV
 
-**Uitkomsten verrichte werkzaamheden**
+De taxaties in het kader van de full versie in 2016 dienen ten minste te voldoen aan de verplichte onderdelen van een ‘hertaxatie’ conform de reglementen van het NRVT in het Addendum Grootzakelijk Vastgoed op Reglement Bedrijfsmatig Vastgoed. Alle niet verplichte onderdelen uit genoemd reglement zijn optioneel of ter beoordeling aan de taxateur op basis van de informatie / verklaring van de woningcorporatie. Dit geldt ook als er in de afgelopen drie jaar geen ‘volledige taxatie’ van het vastgoed heeft plaatsgevonden. In bijlage 4 is opgenomen welke onderdelen verplicht zijn, danwel optioneel of ter beoordeling van de taxateur komen.
 
-Naar aanleiding van de verrichte werkzaamheden onder de punten a tot en met f rapporteren wij als volgt:
+Ten aanzien van de aangegeven vrijheidsgraden heeft de taxateur de ruimte om op basis van het principe ‘pas toe of leg uit’ tot aanpassingen over te gaan in de modelmatige waardering, en daarmee voor afzonderlijke complexen tot een betere waardering te komen. De aanpassingen ten aanzien van de vrijheidsgraden dienen door de taxateur te worden toegelicht in het taxatierapport en daarnaast onderbouwd in het taxatiedossier te worden vastgelegd. In het taxatierapport dient per vrijheidsgraad toegelicht te worden waarom is afgeweken van de basisvariant van het waarderingshandboek. Verder dient per vrijheidsgraad de reikwijdte, aard en omvang van de aanpassing toegelicht te worden. In principe dienen de afwijkingen per vrijheidsgraad op complexniveau te worden verantwoord, tenzij de aard van de reikwijdte, aard en omvang van de aanpassing voor meerdere complexen hetzelfde is. In dat geval kan ook worden volstaan met een verantwoording op (deel)portefeuilleniveau. Het taxatierapport en het taxatiedossier worden door de taxateur verstrekt aan de toegelaten instelling en zijn op aanvraag beschikbaar voor de Autoriteit woningcorporaties.
 
-....
+Bij gebruik van de full versie dient jaarlijks minimaal een derde, steeds wisselend deel van het betreffende vastgoed, via een volledige taxatie te worden gewaardeerd, dan wel via een markttechnische update als er in de afgelopen drie jaar een volledige taxatie heeft plaats gevonden. Voor het andere, tweederde deel van het vastgoed is een aannemelijkheidsverklaring van de externe taxateur vereist. Zoals vermeldt in hoofdstuk 2.5 kan de aannemelijkheidsverklaring alleen voor de reguliere woningen worden afgegeven.
 
 **Beperking in verspreidingskring**
 
@@ -3748,15 +3748,15 @@ De in [artikel 53b, eerste lid, onder c, van het Besluit toegelaten instellingen
 
 ##### Artikel 22c
 
-Het college van burgemeester en wethouders maakt voor de verklaring, bedoeld in [artikel 53c van het Besluit toegelaten instellingen volkshuisvesting 2015](https://wetten.overheid.nl/jci1.3:c:BWBR0036702&artikel=53c), gebruik van het formulier dat is opgenomen in [bijlage 8](https://wetten.overheid.nl/jci1.3:c:BWBR0036709&bijlage=8&z=2016-10-28&g=2016-10-28) bij deze regeling.
+Het college van burgemeester en wethouders maakt voor de verklaring, bedoeld in [artikel 53c van het Besluit toegelaten instellingen volkshuisvesting 2015](https://wetten.overheid.nl/jci1.3:c:BWBR0036702&artikel=53c), gebruik van het formulier dat is opgenomen in [bijlage 8](https://wetten.overheid.nl/jci1.3:c:BWBR0036709&bijlage=8&z=2017-01-01&g=2017-01-01) bij deze regeling.
 
 ##### Artikel 22d
 
 Het college van burgemeester en wethouders,maakt voor de verklaring, bedoeld in [artikel 53d van het Besluit toegelaten instellingen volkshuisvesting 2015](https://wetten.overheid.nl/jci1.3:c:BWBR0036702&artikel=53d), gebruik van het formulier dat is opgenomen in:
 
-- a. [bijlage 9](https://wetten.overheid.nl/jci1.3:c:BWBR0036709&bijlage=9&z=2016-10-28&g=2016-10-28) bij deze regeling, indien een toegelaten instelling of samenwerkingsvennootschap om toestemming verzoekt, of;
+- a. [bijlage 9](https://wetten.overheid.nl/jci1.3:c:BWBR0036709&bijlage=9&z=2017-01-01&g=2017-01-01) bij deze regeling, indien een toegelaten instelling of samenwerkingsvennootschap om toestemming verzoekt, of;
 
-- b. [bijlage 10](https://wetten.overheid.nl/jci1.3:c:BWBR0036709&bijlage=10&z=2016-10-28&g=2016-10-28) bij deze regeling, indien een met een toegelaten instelling verbonden onderneming, van wie zij enig aandeelhoudster is, om toestemming verzoekt.
+- b. [bijlage 10](https://wetten.overheid.nl/jci1.3:c:BWBR0036709&bijlage=10&z=2017-01-01&g=2017-01-01) bij deze regeling, indien een met een toegelaten instelling verbonden onderneming, van wie zij enig aandeelhoudster is, om toestemming verzoekt.
 
 ### Afdeling 3. Administratieve scheiding en vermogensscheiding
 
@@ -3776,7 +3776,7 @@ Het college van burgemeester en wethouders,maakt voor de verklaring, bedoeld in 
 
 #### § 2. Slotbepalingen
 
-## Bijlage 1. bij de [artikelen 11, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036709&hoofdstuk=II&paragraaf=2&artikel=11&z=2016-10-28&g=2016-10-28), en [22 nedgende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036709&hoofdstuk=III&afdeling=2&artikel=22&z=2016-10-28&g=2016-10-28), van de Regeleing toegelaten instellingen volkshuisvesting 2015
+## Bijlage 1. bij de [artikelen 11, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036709&hoofdstuk=II&paragraaf=2&artikel=11&z=2017-01-01&g=2017-01-01), en [22 negende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036709&hoofdstuk=III&afdeling=2&artikel=22&z=2017-01-01&g=2017-01-01), van de Regeling toegelaten instellingen volkshuisvesting 2015
 
 Uitzonderingen:
 
@@ -3786,13 +3786,13 @@ Uitzonderingen:
 
 ### Inhoudsopgave
 
-### 3. Nadere kaderstelling
+### 2.3. Algemene uitgangspunten
 
 ### 3.1. Doel van de waardering
 
-### 3.6. Doorexploiteer- en uitpondscenario
+### 2.7. Beschikbaarheid WOZ-gegevens
 
-### 5.2.2. Markthuur van woningen
+### 3.4. Waarderingsmethodiek
 
 ### 5.2.8. Mutatiekans
 
@@ -3804,7 +3804,7 @@ Uitzonderingen:
 
 ### 6.2.3. Exploitatiekosten
 
-### 7.2.1. Leegwaarde
+### 5.2.5. Huurstijging
 
 ### 7.2.4. Exploitatiekosten
 
@@ -3812,21 +3812,21 @@ Uitzonderingen:
 
 ### 7.2.6. Verkoopkosten
 
-### 8. Intramuraal zorgvastgoed
+### 5.2.12. Splitsingskosten
 
-### 8.2.2. Huurinkomsten en huurstijging
+### 5.2.14. Erfpacht
 
 ### 8.2.3. Exploitatiekosten
 
 ### 9.1.1. Markthuur
 
-Bij gebruik van de full versie dient jaarlijks minimaal een derde, steeds wisselend deel van het betreffende vastgoed, via een volledige taxatie te worden gewaardeerd, dan wel via een hertaxatie als er in de afgelopen drie jaar een volledige taxatie heeft plaats gevonden. Bij deze vormen van taxatie zijn op basis van de NRVT verschillende rapportagevereisten van toepassing, waaronder rapportage met betrekking tot de kadastrale recherche, het titelonderzoek en de milieuaspecten. Indien er intern documentatie beschikbaar is, waarop de taxateur kan steunen, kan in de rapportage van de taxateur naar die documentatie worden verwezen. Hierbij is wel vereist dat de taxateur de waarde mede heeft gebaseerd op die informatie. De betreffende informatie dient ook toegankelijk te zijn voor Autoriteit woningcorporaties en de accountant. Voor het andere, tweederde deel van het vastgoed is een aannemelijkheidsverklaring van de externe taxateur vereist.
+Indien aan het einde van het huurcontract wordt verwacht dat opzegging zal plaatsvinden, wordt er van uitgegaan dat een nieuw marktconform huurcontract kan worden afgesloten. Op dat moment wordt een nieuwe huur opgenomen op basis van de markthuur. Er wordt dan ook rekening gehouden met een periode van leegstand en met mutatiekosten.
 
-De opdracht van de toegelaten instelling aan de externe taxateur dient in overeenstemming te zijn met wet- en regelgeving, in casu dit handboek en verder aan te sluiten bij de bepalingen van het reglement van de NRVT. Voorts dient in de opdracht vastgelegd te zijn dat de externe taxateur een taxatierapport en een taxatiedossier opstelt waarin nadere toelichting en onderbouwing is opgenomen daar waar gebruik is gemaakt van de vrijheidsgraden. Er mogen geen belemmeringen zijn voor de toegelaten instelling om het taxatierapport en het taxatiedossier aan de Autoriteit woningcorporaties ter beschikking te stellen.
+De jaarlijkse stijging van de markthuur en de contracthuur is gelijk aan de prijsinflatie van het voorafgaande jaar.
 
 ## Bijlage 3. bij de Regeling toegelaten instellingen volkshuisvesting 2015
 
-**Maakt geen deel uit van de Rtiv-bijlage 3, maar van het opvraagprogramma**
+Het instandhoudingsonderhoud is het onderhoud dat gedurende de 15-jarige DCF-periode nodig is om het verhuurde in dezelfde technische en bouwkundige staat te houden, als waarin het zich op het moment van waarderen bevindt. Het gaat hierbij niet om investeringen die leiden tot een verbetering van de kwaliteit van het verhuurcontract. Het instandhoudingsonderhoud leidt ook niet tot een hogere huur.
 
 ### 5.4. Leefbaarheid
 
@@ -3836,13 +3836,13 @@ De opdracht van de toegelaten instelling aan de externe taxateur dient in overee
 
 ### 1.1. Belangrijke wijzigingen
 
-In geval van fusie (in het verslagjaar) tussen toegelaten instellingen zal overleg plaatsvinden tussen de Aw, de betrokken toegelaten instellingen en de accountant over de toepassing van het accountantsprotocol en de tekst van de assurance-rapporten.
+Bij BOG en MOG is alleen het doorexploiteerscenario van toepassing. Vanaf het 16e jaar wordt verondersteld dat sprake is van doorexploiteren met een voortdurende looptijd.
 
-De accountant dient de volgende producten te leveren:
+Indien op het waarderingscomplex of een deel daarvan, op de waardepeildatum 31 december 2016 een ook voor een derde, onherroepelijke verplichting tot sloop van toepassing is, dient hier bij de waardering rekening mee te worden gehouden.
 
 ### 2.2. Specifiek van toepassing zijnde regelgeving
 
-### 2.4. Controleverklaring
+### 7.1. Objectgegevens
 
 ### 3.2. Specifiek van toepassing zijnde regelgeving
 
@@ -3850,31 +3850,31 @@ De accountant dient de volgende producten te leveren:
 
 ### 4. Rubriek C: het assurance-rapport inzake de dVi over het verslagjaar (cijfermatige verantwoording)
 
-### 4.1. Doelstelling
+### 7.2.5.1. Instandhoudingsonderhoud
 
 ### 4.3. Materialiteit (betrouwbaarheid, nauwkeurigheid en rapporteringstolerantie)
 
 ### 4.4. Oordelen in het assurance-rapport
 
-### A. Aspect Volledigheid
+### 7.2.9. Mutatieleegstand
 
-### C. Uitgangspunten accountantswerkzaamheden Inkomenstoets
+### 7.2.11. Disconteringsvoet
 
-### 5.2. Specifiek van toepassing zijnde regelgeving
+### 7.2.13. Overdrachtskosten
 
 ### 5.4. Accountantsproduct
 
-### 5.5. Beschrijving van de te verrichten werkzaamheden
+### 7.2.15. Nadere toetsing
 
-### 6. Rubriek E: Modelteksten
+### 8.2.3. Exploitatiekosten
 
 ### 6.1. Model I
 
-### 6.2. Model II
+### 8.2.5. Mutatieleegstand
 
-### 6.3. Model III
+### 8.2.9. Overdrachtskosten
 
-### 6.4. Model IV
+### 9.1.5. Disconteringsvoet
 
 Deze rapportage is uitsluitend bestemd voor [Naam Toegelaten Instelling] en de door de Minister voor Wonen en Rijksdienst aangewezen bevoegde instanties (i.c. de Autoriteit Woningcorporaties) aangezien anderen die niet op de hoogte zijn van het doel van de werkzaamheden de resultaten onjuist kunnen interpreteren. Wij verzoeken u derhalve de rapportage niet aan anderen te verstrekken zonder onze uitdrukkelijke toestemming vooraf.
 
@@ -3882,7 +3882,7 @@ Plaats, datum
 
 ... (naam accountantsorganisatie)
 
-... (naam accountant)
+In deze bijlage is een drietal voorbeelden opgenomen van het berekenen van de eindwaarde op basis van de voortdurende looptijd benadering. De manier waarop de verschillende kapitalisatiefactoren K1, K2 en K3 worden berekend, is uitgewerkt in paragraaf eindwaarde (5.2.16) in hoofdstuk 5 van het handboek.
 
 ## Bijlage 5. bij [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBR0036709&hoofdstuk=II&paragraaf=3&artikel=15&z=2016-10-28&g=2016-10-28) van de Regeling toegelaten instellingen volkshuisvesting 2015
 
@@ -4186,6 +4186,943 @@ Handtekening: ________________________________________
 Naam: ____________________
 
 ## Bijlage 10. bij [artikel 22d, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0036709&hoofdstuk=III&afdeling=2a&artikel=22d&z=2016-10-28&g=2016-10-28), Regeling toegelaten instellingen volkshuisvesting 2015
+
+Verklaring gemeente bij werkzaamheden door een met een toegelaten instelling verbonden onderneming
+
+Het college van B&W van de gemeente ____________________, verder genoemd ‘college’, verklaart dat:
+
+- •. Zij op de hoogte is dat een met toegelaten instelling __________________ verbonden onderneming, verder genoemd ‘verbonden onderneming’, voornemens is om werkzaamheden te verrichten in het gebouw aan adres ________________________________________, verder genoemd ‘gebouw’, in bezit van pandeigenaar ____________________, verder genoemd ‘pandeigenaar’;
+
+- •. Zij ermee instemt dat de verbonden onderneming de werkzaamheden zoals opgenomen in de ontwerpovereenkomst tussen verbonden onderneming en de pandeigenaar van het betreffende gebouw, verricht;
+
+- •. Het gebouw gebruikt zal worden voor het huisvesten van vergunninghouders, ten minste voor de helft van de woongelegenheden, zolang dit nodig is op grond van de taakstelling zoals geldend op basis van de [Huisvestingswet 2014](https://wetten.overheid.nl/jci1.3:c:BWBR0035303).
+
+Datum: ____________________
+
+Handtekening: ________________________________________
+
+Naam: ____________________
+
+Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
+
+### B. Toetsing huishoudinkomen op basis van een inkomensverklaring en bijbehorende bewijsstukken
+
+## Bijlage 2. bij [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0036709&hoofdstuk=II&paragraaf=3&artikel=14&z=2017-01-01&g=2017-01-01) van de Regeling toegelaten instellingen volkshuisvesting 2015
+
+### 1. VOORAF
+
+### 2.5. Taxatiecyclus full-waardering
+
+### 3.4.2. Indexeren
+
+### 3.5. Waarderingscomplex
+
+### 3.6. Doorexploiteer- en uitpondscenario
+
+### 5.2.4. Exploitatiekosten
+
+### 5.2.6. Bevriezing liberalisatiegrens
+
+### 5.2.10. Mutatieleegstand
+
+### 5.2.11. Omgaan met indexatie huurkasstromen
+
+### 5.2.15. Disconteringsvoet
+
+### 5.2.16. Eindwaarde
+
+De volgende tabel bevat een overzicht van de specifieke objectgegevens voor BOG en MOG van de toegelaten instelling. Anders dan bij woongelegenheden worden bij BOG en MOG m2 BVO en m2 VVO als basiseenheden gebruikt. Een andere verschil tussen woongelegenheden en BOG en MOG is dat alle genoemde bedragen exclusief BTW zijn, tenzij expliciet anders vermeld.
+
+De huurverhoging bij BOG en MOG vindt niet, zoals bij woningen, plaats op 1 juli van een kalenderjaar maar op de eerste dag van het volgende contractjaar. Dat vraagt om een andere benadering om een kalenderjaar te verdelen in een eerste en tweede helft. Bij woningen bestaan beide helften uit elk zes maanden. Bij BOG en MOG hoeft dat niet zo te zijn.
+
+Voorbeeld:
+
+Stel de ingangsdatum van een contract is 10 mei 2015. Het object is 100 m2 VVO en de contracthuur op peildatum (31 december 2016) is € 100,– per m2 VVO. De totale huur op peildatum is dan € 10.000,– Het is het meest eenvoudig om voor de uitwerking de ‘bancaire’ benadering te gebruiken. In die benadering telt elke maand 30 dagen en een jaar 360 dagen. Het is ook mogelijk met het exact aantal dagen te berekenen maar dat is complexer. In dit voorbeeld wordt de bancaire benadering gebruikt. De vraag is wat de totale bruto huurkasstroom in 2017 is. De aanname is dat de prijsinflatie in 2017 2% is.
+
+De exploitatiekosten bestaan uit de onderhoudskosten, onderscheiden naar instandhoudings- onderhoud, achterstallig onderhoud en mutatieonderhoud. Verder zijn er kosten voor beheer, belastingen, verzekeringen en overige zakelijke lasten. Deze kostensoorten worden hierna nader toegelicht.
+
+De bedragen voor het instandhoudingsonderhoud zijn ontleend aan waarderingsgegevens van de toegelaten instellingen, die op marktwaarde hebben gewaardeerd, en zijn weergegeven in onderstaande tabel. De bedragen zijn per m2 bvo, inclusief 21% BTW.
+
+Er wordt geen onderscheid gemaakt tussen BOG en MOG.
+
+Mutatieonderhoud doet zich voor bij opzegging van de huurovereenkomst. Bij het mutatieonderhoud wordt onderscheid gemaakt tussen technische mutatiekosten en de kosten voor marketing.
+
+Achterstallig onderhoud of onderhoudsgebreken moeten worden betrokken bij de waardering van de vastgoed. Achterstallig onderhoud zijn kosten die het gevolg zijn van onvoldoende onderhoud of van externe omstandigheden (dalende grondwaterstand, aardbevingen) die een direct gevaar vormen voor de elementaire gebouwprestaties en voor het op lange termijn doorexploiteren van het vastgoed. Dit kan onder meer betrekking hebben op funderingsproblemen en asbest dat moet worden verwijderd. Het gaat hierbij dus niet om instandhoudingsonderhoud, dat bedoeld is om een eenheid in eenzelfde technische en bouwkundige staat te houden.
+
+De correctie bij de waardering is in ieder geval aan de orde als de toegelaten instelling de ingreep om achterstallig onderhoud of onderhoudsgebreken ongedaan te maken, in de meerjarenprognose heeft opgenomen. De contante waarde van de kosten van deze ingreep dienen dan in mindering te worden gebracht op de waarde van het vastgoed. Voor BOG/MOG gaat het om de kosten exclusief BTW.
+
+Beheerkosten zijn de kosten die worden gemaakt voor het beheer van het verhuurde. Het gaat hierbij om de kosten gemaakt voor de verhuur en marketing. De niet-object gebonden kosten, maatschappelijke beheerkosten, taxatiekosten en accountantskosten worden niet gerekend tot de beheerkosten.
+
+De hoogte van de beheerkosten is afhankelijk van het type contract en de daaruit volgende markthuur. De bedragen voor de beheerkosten zijn ontleend aan de waarderingsgegevens van toegelaten instellingen, die op marktwaarde hebben gewaardeerd, en zijn weergegeven in onderstaande tabel.
+
+Onder belastingen en overige zakelijke lasten vallen de gemeentelijke OZB, de rioolheffing en de verontreinigingsheffing, als ook de waterschapsbelasting. Deze belastingen en heffingen verschillen per gemeente en waterschap. Daarnaast zijn er kosten voor de verzekeringen.
+
+Toegelaten instellingen kunnen voor de gemeentelijke OZB gebruik maken van de gepubliceerde gemeentelijke tarieven 2016. De gemeentelijke OZB wordt in percentages opgegeven.
+
+Voor de rioolheffing, de verontreinigingsheffing, de waterschapsbelasting en verzekeringen, is een gemiddeld percentage per verhuureenheid opgenomen. De percentages, waarop dit gemiddelde is gebaseerd, zijn ontleend aan de waarderingsgegevens van de toegelaten instellingen en weergegeven in onderstaande tabel. Het percentage heeft initieel betrekking op de WOZ-waarde met peildatum 1 januari 2015. Tijdens de 15-jarige DCF-periode wordt het initieel, op basis van de WOZ-waarde tot stand gekomen bedrag, geïndexeerd met de prijsinflatie. Inclusief 21% BTW.
+
+Erfpacht beïnvloedt de waarde van het verhuurde. Het effect van de erfpacht op de waarde vloeit voort uit de consequenties die de erfpacht voor de koper heeft. Er zijn in Nederland verschillende vormen van erfpacht. In deze paragraaf worden alleen enkele hoofdlijnen beschreven. Als de consequenties van de erfpacht voor de waardering te veel afwijken van deze hoofdlijnen, is maatwerk nodig dat op basis van de full versie mogelijk is.
+
+### 7.2.2. Markthuren
+
+Voor parkeergelegenheden wordt verondersteld dat de markthuur gelijk is aan de actuele contracthuur. Indien een parkeervoorziening structureel niet is verhuurd is en dus te maken heeft met structurele leegstand, is voor een rekentechnische oplossing gekozen dat dat een markthuur van 0 euro wordt opgenomen.
+
+### 7.2.7. Verkoopkosten
+
+### 7.2.10. Erfpacht
+
+### 7.2.14. Overige punten
+
+### 8. Intramuraal zorgvastgoed
+
+### 8.1. Objectgegevens
+
+### 8.2.2. Huurinkomsten en huurstijging
+
+### 8.2.2.2. Opzegging
+
+### 8.2.3.1. Instandhoudingsonderhoud
+
+### 8.2.3.2. Mutatiekosten
+
+### 8.2.3.3. Achterstallig onderhoud
+
+### 8.2.3.4. Beheerkosten
+
+### 8.2.3.5. Belastingen, verzekeringen en overige zakelijke lasten
+
+### 8.2.6. Erfpacht
+
+### 8.2.7. Disconteringsvoet
+
+### 8.2.8. Eindwaarde
+
+### 8.2.10. Overige punten
+
+### 8.2.11. Nadere toetsing
+
+### 9. Full versie
+
+### 9.1. Vrijheidsgraden
+
+### 9.1.1. Schematische vrijheid
+
+### 9.1.2. Markthuur(stijging)
+
+### 9.1.3. Exit yield
+
+### 9.1.4. Leegwaarde(stijging)
+
+### 9.1.6. Onderhoud
+
+### 9.1.7. Technische splitsingskosten
+
+### 9.1.8. Mutatie- en verkoopkans
+
+### 9.1.9. Bijzondere uitgangspunten
+
+### 9.1.10. Erfpacht
+
+### 9.2. De rol van opdrachtverlening aan externe taxateur
+
+¹ De mutatiegraad in het eindwaardescenario uitponden is 70% van de mutatiegraad in het marktwaardescenario doorexploiteren: 70% van 6,00% geeft 4,20%.
+
+³ De mutatiegraad in het eindwaardescenario uitponden (3,0%) als percentage van de mutatiegraad in jaar 15 van doorexploiteren (4,2%)
+
+## Bijlage 3. bij de Regeling toegelaten instellingen volkshuisvesting 2015
+
+Maakt als helptekst deel uit van het opvraagprogramma
+
+### HOOFDSTUK 5 OVERIGE (VOLKSHUISVESTELIJKE) VERANTWOORDING
+
+### 5.1. Verkoop van huur- en koopwoningen in het verslagjaar per bezitsgemeente 1)
+
+### 5.2
+
+### 5.3. Kwaliteitsbeleid
+
+### 5.4. Leefbaarheid
+
+### 5.5
+
+Vervallen
+
+### 5.6. Wonen en Zorg in het verslagjaar per bezitsgemeente
+
+### 5.7. Verantwoording naleving specifieke wettelijke bepalingen
+
+### 5.8. Aantal toewijzingen in het verslagjaar
+
+### 5.9. Huisuitzettingen en huurachterstanden
+
+## Bijlage 4. bij de Regeling toegelaten instellingen volkshuisvesting 2015
+
+### ACCOUNTANTSPROTOCOL REGELING TOEGELATEN INSTELLINGEN VOLKSHUISVESTING 2015 (VERSLAGJAAR 2015)
+
+### Inhoudsopgave
+
+### 1. Algemeen
+
+### 1.1. Belangrijke wijzigingen
+
+Op 1 juli 2015 zijn de [Woningwet 2015](https://wetten.overheid.nl/jci1.3:c:BWBR0005181) (hierna: de Woningwet), het [Besluit toegelaten instellingen volkshuisvesting 2015](https://wetten.overheid.nl/jci1.3:c:BWBR0036702) (hierna: BTIV) en de Regeling toegelaten instellingen volkshuisvesting 2015 (hierna: de Regeling) in werking getreden.
+
+Dit heeft tot gevolg dat het accountantsprotocol over verslagjaar 2015 op enkele onderdelen is gewijzigd ten opzichte van het accountantsprotocol dat van kracht was voor de accountantswerkzaamheden over verslagjaar 2014. Naast het toevoegen van het vanaf 1 juli 2015 van toepassing zijnde juridische kader dat relevant is voor enkele onderwerpen die reeds in eerdere accountantsprotocollen waren opgenomen, zoals met betrekking tot de regelgeving inzake de vervreemding van woongelegenheden, is er tevens een aantal nieuwe controleonderwerpen toegevoegd die volgen uit de nieuwe wetgeving.
+
+Omdat het niet goed mogelijk is om gedurende een verslagjaar een nieuw regime toe te passen met betrekking tot de jaarrekening, het jaarverslag, het volkshuisvestingsverslag en het onderzoek van de accountant, is in [artikel 126, tweede lid, van het BTIV](https://wetten.overheid.nl/jci1.3:c:BWBR0036702&artikel=126) bepaald dat de [artikelen 35 t/m 38 van de Woningwet](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&artikel=35) voor deze werkzaamheden gelden per verslagjaar 2016.
+
+In [artikel 127, tweede lid, van het BTIV](https://wetten.overheid.nl/jci1.3:c:BWBR0036702&artikel=127) is bepaald dat het [Besluit beheer sociale-huursector](https://wetten.overheid.nl/jci1.3:c:BWBR0005686) (hierna: Bbsh) tot 1 januari van het eerstvolgende verslagjaar na inwerkingtreding van de [Woningwet](https://wetten.overheid.nl/jci1.3:c:BWBR0005181) van toepassing blijft voor de jaarrekening, het jaarverslag, het volkshuisvestingsverslag en het onderzoeken en beoordelen van die verslagen. Dit betekent dat voor verslagjaar 2015, waar dit protocol betrekking op heeft, het juridisch kader zoals dat volgt uit het [Bbsh](https://wetten.overheid.nl/jci1.3:c:BWBR0005686) zijn kracht heeft behouden voor deze onderwerpen.
+
+Voor enkele nieuwe onderwerpen van het overzicht met de Verantwoordingsinformatie (hierna: dVi) die voortkomen uit de per 1 juli 2015 van toepassing zijnde [Woningwet](https://wetten.overheid.nl/jci1.3:c:BWBR0005181), [BTIV](https://wetten.overheid.nl/jci1.3:c:BWBR0036702) en de Regeling, geldt dat deze onderdeel zijn geworden van het accountantsonderzoek. Dit betreft met name onderwerpen die betrekking hebben op de naleving van de nieuwe wet- en regelgeving. Deze onderwerpen zijn, voor zover daar assurance-werkzaamheden van de accountant op worden uitgevoerd. verderop in dit protocol nader toegelicht.
+
+In het accountantsprotocol 2015 is sprake van assurance-werkzaamheden die leiden tot een controleverklaring en twee assurance-rapporten met een redelijke mate van zekerheid alsmede een rapport van feitelijke bevindingen. Bij het opstellen van het protocol is gebruik gemaakt van de Schrijfwijzer Accountantsprotocollen van de Nederlandse Beroepsorganisatie van Accountants (hierna: NBA).
+
+De voorgeschreven werkzaamheden van de accountant hebben betrekking op de jaarrekening en het jaarverslag evenals de daarvoor aangewezen onderdelen van het overzicht van de dVi, maar ook over: de verkoop van woongelegenheden, de aanbesteding van maatschappelijk vastgoed, de naleving van de beleidsregels inzake financiële derivaten, de naleving van de beleidsregels verantwoord beleggen en enkele nieuw toegevoegde onderwerpen die volgen uit [Woningwet](https://wetten.overheid.nl/jci1.3:c:BWBR0005181) en de daar aan opgehangen regelgeving.
+
+Al reeds is aangegeven dat voor een deel van het verslagjaar 2015 een nieuw wettelijk kader en een bijbehorend nieuw begrippen- en normenkader van toepassing is. Het nieuwe begrippen- en normenkader is ten behoeve van het vooraf verstrekken van guidance, waar dat mogelijk is, in dit accountantsprotocol zoveel mogelijk uitgewerkt en toegelicht. Voor onderwerpen waarvan in de praktijk blijkt dat dit accountantsprotocol nog niet voldoende inzicht geeft, is afgesproken dat hier vanuit het Ministerie van Binnenlandse Zaken en Koninkrijksrelaties, in afstemming met de Autoriteit Woningcorporaties (hierna: Aw), direct een reactie op wordt gegeven en dat dit wordt vastgelegd in een Q&A inzake het accountantsprotocol 2015. Deze Q&A wordt vervolgens (in ieder geval) gepubliceerd op de websites: Woningwet2015.nl en Aedes.nl. Over de publicatie zal tevens worden gecommuniceerd met de NBA.
+
+### 1.2. Doelstelling
+
+Conform o.a. [artikel 28 van het Bbsh](https://wetten.overheid.nl/jci1.3:c:BWBR0005686&artikel=28) dient een toegelaten instelling ([artikel 19, eerste lid, van de Woningwet](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&artikel=19)) een accountant als bedoeld in [artikel 27 van het Bbsh](https://wetten.overheid.nl/jci1.3:c:BWBR0005686&artikel=27), te laten onderzoeken, of:
+
+Conform [artikel 37, vijfde lid, van de Woningwet](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&artikel=37), worden in bijlage 4 bij de Regeling nadere voorwaarden gesteld aan de werkzaamheden van de accountants van de toegelaten instellingen. Dit accountantsprotocol is de invulling hiervan en heeft als doel nadere aanwijzingen te geven voor de werkzaamheden en rapportage van de accountant. Het accountantsprotocol beoogt echter geen onderzoeksaanpak voor te schrijven en is evenmin een (uitputtend) werkprogramma.
+
+Het accountantsprotocol is getoetst op uitvoerbaarheid door de werkgroep Controleprotocollen (COPRO) van de NBA. COPRO heeft het oordeel: ‘Uitvoerbaar zonder opmerkingen’ afgegeven.
+
+In geval van fusie (in het verslagjaar) tussen toegelaten instellingen zal overleg plaatsvinden tussen de Aw, de betrokken toegelaten instellingen en de accountant over de toepassing van het accountantsprotocol en de tekst van de assurance-rapporten.
+
+### 1.3. Onderzoeksobjecten
+
+De onderzoeksobjecten voor de accountantswerkzaamheden bij toegelaten instellingen zijn:
+
+Bovengenoemde onderzoeksobjecten en de daaraan gekoppelde accountantswerkzaamheden worden in dit accountantsprotocol achtereenvolgens behandeld in de rubrieken A, B, C en D. Hierbij zijn de nadere doelstellingen per onderdeel uitgewerkt en is de specifiek van toepassing zijnde regelgeving weergegeven. Verder zijn per onderdeel nadere aanwijzingen voor de werkzaamheden van de accountant benoemd. Zie hiervoor hoofdstuk 2 tot en met 5.
+
+### 1.4. De accountantsproducten
+
+De accountantswerkzaamheden met betrekking tot de hiervoor genoemde onderzoeksobjecten monden uit in een aantal accountantsrapportages zoals opgenomen in rubriek E. Zie hiervoor hoofdstuk 6.
+
+De accountant dient de volgende producten te leveren:
+
+### 1.5. Procedures verslaggeving toegelaten instellingen
+
+Conform [artikel 30 van het Bbsh](https://wetten.overheid.nl/jci1.3:c:BWBR0005686&artikel=30) dient de toegelaten instelling jaarlijks voor 1 juli de jaarrekening en het jaarverslag, het volkshuisvestingsverslag en de dVi over het voorafgaande verslagjaar, alsmede de bij die stukken behorende accountantsrapportages, in te dienen bij de minister voor Wonen en Rijksdienst (hierna: W&R), het college van burgemeester en wethouders van de gemeente(n) waar zij haar woonplaats heeft of feitelijk werkzaam is, en de Aw. Conform [artikel 30, tweede lid, van het Bbsh](https://wetten.overheid.nl/jci1.3:c:BWBR0005686&artikel=30) zendt de toegelaten instelling jaarlijks het accountantsverslag als bedoeld in [artikel 393 lid 4 van Boek 2 van het BW](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=393) naar de minister voor W&R en de Aw.
+
+### 2. Rubriek A: De controleverklaring met betrekking tot de jaarrekening en het jaarverslag
+
+### 2.1. Doelstelling
+
+### 2.2. Specifiek van toepassing zijnde regelgeving
+
+### 2.3. Materialiteit (betrouwbaarheid en nauwkeurigheid)
+
+Bij de controle dienen de algemene (voor de jaarrekeningcontrole geldende) betrouwbaarheids- en nauwkeurigheidsnormen te worden gehanteerd. Het is de verantwoordelijkheid van de accountant om deze te bepalen met inachtneming van hetgeen hierover in NV COS is opgenomen. Voor de werkzaamheden die volgen uit het Controleprotocol WNT, is de in dat protocol opgenomen materialiteit van toepassing.
+
+### 2.4. Controleverklaring
+
+Voor een goedkeurende controleverklaring dient de accountant de tekst te hanteren als opgenomen in het onder rubriek E opgenomen model I. Hieruit volgt dat niet uitsluitend een ‘uitgebreide controleverklaring’ mag worden afgegeven. Indien een accountant een andere dan een goedkeurende verklaring afgeeft, sluit hij aan bij de voorbeeldteksten zoals gepubliceerd op de website van de NBA.
+
+### 3. Rubriek B: het assurance-rapport inzake de dVi over het verslagjaar (naleving van specifieke wet- en regelgeving)
+
+### 3.1. Doelstelling
+
+De werkzaamheden van de accountant die leiden tot een assurance-rapport hebben ten doel een redelijke mate van zekerheid te verschaffen over de juistheid van de opgave in onderdeel 5.7 (Verantwoording naleving specifieke wettelijke bepalingen) van de dVi die betrekking heeft op de naleving van de regelgeving inzake de melding respectievelijk (vanaf 1 juli 2015) de goedkeuring van de vervreemding van bezit, de aanbestedingsplicht voor maatschappelijk vastgoed, de naleving van de voorwaarden uit de betreffende beleidsregels inzake het gebruik van financiële derivaten door toegelaten instellingen volkshuisvesting bij nieuwe derivatentransacties, de naleving van de voorwaarden uit de betreffende beleidsregels inzake beleggen door toegelaten instellingen volkshuisvesting en enkele overige in paragraaf 3.5 benoemde onderwerpen inzake de naleving van specifieke wet- en regelgeving.
+
+Het zich juist verantwoorden over de rechtmatigheid van handelen in de dVi, is de verantwoordelijkheid van het bestuur van de toegelaten instelling. De accountant controleert of deze verantwoording op de in paragraaf 3.5 van dit protocol benoemde onderwerpen juist is. Dit houdt in dat de accountant toetst of aan de relevante onderdelen van de wet- en regelgeving is voldaan, om vast te kunnen stellen dat de verantwoording in de dVi juist is.
+
+### 3.2. Specifiek van toepassing zijnde regelgeving
+
+Voor de periode vanaf 1 januari 2015 tot 1 juli 2015 geldt dat de hieronder opgesomde regelgeving en toelichtingen daarop (voor zover deze niet reeds in de betreffende paragraaf van dit protocol specifiek zijn benoemd) van toepassing zijn op de werkzaamheden van de accountant:
+
+Voor de periode vanaf 1 juli 2015 tot en met 31 december 2015 geldt dat de hieronder opgesomde regelgeving en toelichtingen daarop (voor zover deze niet reeds in de betreffende paragraaf van dit protocol specifiek zijn benoemd) van toepassing zijn op de werkzaamheden van de accountant:
+
+### 3.3. Materialiteit (betrouwbaarheid, nauwkeurigheid en rapporteringstolerantie)
+
+Bij de controlewerkzaamheden inzake punten 1 t/m 7 en punten 10 t/m 13 alsmede punten 15, 17 en 18 van paragraaf 3.5 geldt een materialiteit van 0% in die zin dat de uitkomst goed (geen afwijking van regelgeving) of fout (wel afwijking van regelgeving) is. Voor punt 13 (goedkeuring niet-DAEB investeringen) geldt aanvullend dat uitsluitend niet-DAEB investeringen van € 250.000,– of hoger dienen te worden gecontroleerd. Voor punt 16 (Beleidsregels verantwoord beleggen: nieuwe beleggingen) geldt een materialiteit van 1% over de nieuwe beleggingen.
+
+Bij de controlewerkzaamheden inzake punt 8 van paragraaf 3.5 (melding/goedkeuring vervreemding woongelegenheden en maatschappelijk vastgoed aan derden, voor woongelegenheden niet zijnde aan natuurlijke personen voor eigen bewoning en toegelaten instellingen, voor maatschappelijk vastgoed niet zijnde aan huurders en toegelaten instellingen), punt 9 (vervreemding woongelegenheden aan natuurlijke personen voor eigen bewoning en maatschappelijk vastgoed aan huurders) en punt 14 van paragraaf 3.5 (de aanbesteding maatschappelijk vastgoed) gelden de algemene voor de jaarrekeningcontrole geldende betrouwbaarheids- en nauwkeurigheidsnormen. Voor punt 14 van paragraaf 3.5 (de aanbesteding maatschappelijk vastgoed) geldt aanvullend dat uitsluitend dienen te worden gecontroleerd de aanbestedingen boven het bedrag van € 300.000,– per aanbesteding voor het treffen van voorzieningen aan haar gebouwen en hun onroerende en infrastructurele aanhorigheden, en boven het bedrag van € 1.000.000,– per aanbesteding voor het doen bouwen van maatschappelijk vastgoed.
+
+Voor alle onderdelen van paragraaf 3.5 geldt een rapporteringstolerantie van 0%. Dit betekent dat de accountant alle geconstateerde afwijkingen toelicht in een aparte paragraaf in het assurance-rapport (‘Overige aangelegenheden’), ook als dit geen invloed heeft op het afgegeven oordeel.
+
+### 3.4. Oordelen in het assurance-rapport
+
+Het assurance-rapport strekt zich uit over de genoemde 18 onderdelen; de accountant moet per onderdeel een afzonderlijk oordeel formuleren. Uit praktisch oogpunt is Model II van rubriek E zo ingericht dat de accountant daarin alleen de niet-goedkeurende oordelen hoeft te vermelden. De accountant moet de onderbouwing van deze afwijkende oordelen in het assurance-rapport omschrijven.
+
+### 3.5. Onderdelen assurance-rapport naleving specifieke wet- en regelgeving
+
+In deze paragraaf worden de controlewerkzaamheden beschreven met betrekking tot een aantal specifieke artikelen uit de vigerende regelgeving, waaronder enkele nieuwe onderwerpen die vanaf 1 juli 2015 uit hoofde van de [Woningwet](https://wetten.overheid.nl/jci1.3:c:BWBR0005181) in werking zijn getreden. Het betreft bepalingen inzake:
+
+Over de naleving van deze wettelijke bepalingen heeft de toegelaten instelling verantwoording afgelegd in onderdeel 5.7 (Verantwoording naleving specifieke wettelijke bepalingen) van de dVi.
+
+Inzake de hierna genoemde elementen uit de dVi over het verslagjaar zal een oordeel afgegeven moeten worden. Hieronder wordt per onderdeel een nadere toelichting verstrekt:
+
+### 4. Rubriek C: het assurance-rapport inzake de dVi over het verslagjaar (cijfermatige verantwoording)
+
+### 4.1. Doelstelling
+
+De werkzaamheden van de accountant, bedoeld in [artikel 28, aanhef en lid c, van het Bbsh](https://wetten.overheid.nl/jci1.3:c:BWBR0005686&artikel=28) die leiden tot een assurance-rapport hebben ten doel een redelijke mate van zekerheid te verlenen omtrent de juiste en volledige weergave van een specifiek aantal onderdelen uit het overzicht van de dVi over het verslagjaar, inclusief verantwoording omtrent woningtoewijzingen.
+
+### 4.2. Specifiek van toepassing zijnde regelgeving
+
+Voor de periode vanaf 1 januari 2015 tot 1 juli 2015 geldt dat de hieronder opgesomde regelgeving en toelichtingen daarop (voor zover deze niet reeds in de betreffende paragraaf van dit protocol zijn opgenomen) van toepassing zijn voor de werkzaamheden van de accountant:
+
+Voor de periode vanaf 1 juli 2015 tot en met 31 december 2015 geldt dat de hieronder opgesomde regelgeving en toelichtingen daarop (voor zover deze niet reeds in de betreffende paragraaf van dit protocol zijn opgenomen) van toepassing zijn voor de werkzaamheden van de accountant:
+
+### 4.3. Materialiteit (betrouwbaarheid, nauwkeurigheid en rapporteringstolerantie)
+
+Voor een 24-tal onderdelen van de dVi (zie verder paragraaf: Onderdelen assurance-rapport) wordt per onderdeel een oordeel van de accountant gevraagd. Voor al deze onderdelen geldt een betrouwbaarheidsnorm van 95% en een rapporteringstolerantie van 0%. Dit betekent dat de accountant alle geconstateerde afwijkingen toelicht in een aparte paragraaf in het assurance-rapport (‘Overige aangelegenheden’), ook als dit geen invloed heeft op het afgegeven oordeel. Aanpassingen in de cijfers, zoals deze zijn gecommuniceerd vanuit CorpoData aan de toegelaten instelling, die samenhangen met de aanpassingen door CorpoData over het verslagjaar 2014 hoeven niet vermeld te worden in het assurance-rapport.
+
+De norm ten aanzien van de nauwkeurigheid (materialiteit) is voor de dVi-onderdelen 1 tot en met 22 (per onderdeel) weergegeven in de paragraaf ‘Onderdelen assurance-rapport’.
+
+Bij de dVi-onderdelen 23 en 24 dient de accountant een deelwaarneming uit te voeren die mede als basis geldt om een oordeel te formuleren. In de tabel ‘Vertaling naar oordeel’ hierna is aangegeven op welke wijze met de bevindingen moet worden omgegaan in relatie tot het te formuleren oordeel over het betreffende dVi-onderdelen 23 en 24. De percentages hebben bij onderdeel 23 betrekking op geld (financiële omvang) en bij het onderdeel 24 betrekking op aantallen (toewijzingen).
+
+In de benadering van de onzekerheid wordt de weging op basis van professional judgment bepaald. De toepassing van de tabel ‘Vertaling naar oordeel’ is per onderdeel aangegeven (zie onderdelen 23 en 24).
+
+Bij deze tabel worden de volgende fout- en onzekerheidsdefinities gehanteerd. Van een fout in de verantwoording is sprake indien naar aanleiding van het uitgevoerde onderzoek is gebleken dat een (gedeelte van een) post niet in overeenstemming is met één of meer aspecten van de wet- en regelgeving. Fouten worden in absolute zin opgevat, saldering van fouten is daarom niet toegestaan.
+
+Van een onzekerheid in het onderzoek is sprake als er onvoldoende (controle-) informatie beschikbaar is om een (gedeelte van een) post als goed of fout aan te merken. Kortom als onzekerheid bestaat over het wel of niet voldoen aan de wet- en regelgeving. Bij fouten in de verantwoording kan onderscheid gemaakt worden in incidentele en structurele fouten. Van een incidentele (geïsoleerde) fout is sprake als het een toevallige fout betreft. Kenmerkend voor incidentele fouten is dat in principe geen herhaling optreedt van de geconstateerde fout. Hierbij dient de accountant de bepaling uit NBA Standaard 530.13 (Het gebruikmaken van steekproeven bij een controle) in acht te nemen. Van een structurele fout is sprake als de oorzaak van de fout is gelegen in (onderdelen van) het systeem van uitvoering, waardoor fouten met een (zeker) herhalingskarakter (kunnen) optreden. Het voorgaande is van overeenkomstige toepassing op onzekerheden in de controles. Voor een adequate onderbouwing van het oordeel is het noodzakelijk dat de accountant fouten en onzekerheden zoveel mogelijk kwantificeert.
+
+### 4.4. Oordelen in het assurance-rapport
+
+Het assurance-rapport strekt zich uit over de genoemde 24 onderdelen; de accountant moet per onderdeel een afzonderlijk oordeel formuleren. Uit praktisch oogpunt is Model III van rubriek E zo ingericht dat de accountant daarin alleen de niet-goedkeurende oordelen hoeft te vermelden. De accountant moet de onderbouwing van deze afwijkende oordelen in het assurance-rapport omschrijven.
+
+### 4.5. Onderdelen assurance-rapport cijfermatige verantwoording
+
+Inzake de hierna genoemde elementen uit de dVi over het verslagjaar, inclusief verantwoording omtrent woningtoewijzingen, zal een oordeel afgegeven moeten worden. Hieronder wordt per onderdeel een nadere toelichting verstrekt waarbij tevens wordt ingegaan op de nauwkeurigheid van de uit te voeren werkzaamheden:
+
+**De werkzaamheden van de accountant zijn erop gericht om vast te stellen of de verantwoording onder 5.8.5. juist en volledig is. Dit dient te leiden tot één (1) en niet meer dan 1 oordeel dat betrekking heeft op 5.8.5 als geheel.**
+
+### A. Aspect Volledigheid
+
+De werkzaamheden van de accountant zijn gericht op alle woongelegenheden in eigendom van de toegelaten instelling, dus ongeacht of de toegelaten instelling deze zelf verhuurt of door een derde laat verhuren (intermediaire verhuur). De accountant stelt op basis van de huuradministratie (inclusief de intermediaire verhuur) **de volledigheid** vast van de aantallen aangegane huurovereenkomsten in het verslagjaar die zijn opgenomen in onderdeel 5.8.5, zowel voor wat betreft het totaal van de huurovereenkomsten met betrekking tot de woongelegenheden met een huurprijs die bij aanvang van de bewoning niet hoger is dan € 710,68, als voor wat betreft de drie (inkomens-)groepen. Als de huuradministratie (inclusief de intermediaire verhuur) daarvoor onvoldoende zicht biedt, dan wordt dat vertaald naar een oordeel. De tabel ‘Vertaling naar oordeel’ is hierop van toepassing.
+
+Het kan zijn dat het aspect van **intermediaire verhuur** de accountant verhindert om de volledigheid van de verantwoording onder 5.8.5 vast te stellen. Het zal de toegelaten instelling niet in alle gevallen door het extern toezicht worden aangerekend dat het oordeel ‘volledigheid’ ontbreekt en daarom is het van belang dat de accountant in voorkomende gevallen zichtbaar maakt waarom het oordeel ‘volledigheid’ achterwege is gebleven. **Het is met name van belang om aan te geven of ontoegankelijkheid van de huuradministratie van de intermediaire verhuurder van **doorslaggevende betekenis** is geweest voor het niet kunnen vaststellen van de volledigheid en dat de volledigheid van de verantwoording op dit punt wel had kunnen worden vastgesteld als het aspect van intermediaire verhuur buiten beschouwing was gebleven.**
+
+Het beoordelen van het aspect van een door de toegelaten instelling te plegen maximale inspanning (in het geval van nieuwe contracten die niet de gewenste afspraken bevatten) zoals opgenomen in de tijdelijke regeling valt buiten de werkzaamheden van de accountant.
+
+Als **kader**voor de werkzaamheden bij het aspect **volledigheid** van de accountant geldt dat:
+
+Het woningbezit moet zijn ingedeeld in woningbezit met een maandhuur tot en met € 710,68 en dat daarboven.
+
+De toegelaten instelling een totaalaansluiting dient te kunnen overleggen waarin de totale toewijzing in het verslagjaar wordt onderverdeeld tot en met € 710,68 en daarboven.
+
+In het geval er sprake is van intermediaire verhuur, kan de controlerend accountant van de toegelaten instelling gebruik maken van de werkzaamheden van de accountant van de intermediair ten behoeve van het vaststellen van de volledigheid van de huuradministratie en de aan de toegelaten instelling in het verslagjaar verantwoorde toewijzingen. De controlerend accountant van de toegelaten instelling dient dan alle relevante bepalingen uit COS 600 toe te passen.
+
+### B. Aspect Juistheid
+
+De accountant dient een oordeel uit te spreken over **de juistheid** van de verantwoording van het aantal aangegane huurovereenkomsten (voor wat betreft de woningen met een huur van € 710,68 of lager) aan de doelgroep (huishoudinkomen ten hoogste € 34.911 per jaar, huishoudens met verzamelinkomens vanaf € 34.911 tot en met € 38.950, dan wel huishoudens anderszins toerekenbaar aan de doelgroep).
+
+De accountant dient bij de vaststelling van de juistheid van de verantwoording na te gaan of **de toegelaten instelling het inkomen heeft vastgesteld conform de Regeling**. Uitgangspunt daarbij zijn door de Belastingdienst vastgestelde en/of verstrekte inkomensgegevens, te weten een definitieve of voorlopige aanslag voor de inkomstenbelasting, ofwel een verklaring omtrent het inkomen. Deze verklaringen, die tot medio 2013 werden verstrekt onder de noemer IB60, zijn de afgelopen periode met diverse kenmerken verstrekt. Zie hiervoor de toelichting in het kader hieronder. Aan de hand van de in [bijlage 5 van het BTIV](https://wetten.overheid.nl/jci1.3:c:BWBR0036702&bijlage=5) opgenomen indices dienen inkomens uit 2013 en 2014 te zijn geactualiseerd. Er kan ook gebruik worden gemaakt van de definitieve toekenning van de zorgtoeslag die dezelfde inkomensgegevens bevat als het IBRI formulier (hierbij wordt erop gewezen dat de Belastingdienst per 2012 de inkomensgegevens niet standaard meer op de definitieve zorgtoeslag toekenning vermeldt. Op verzoek van betrokkenen kan de Belastingsdienst echter wel een beschikking verstrekken waarop het inkomen wel wordt vermeld, de toekenning over 2013 kan ook nog worden gebruikt bij de inkomenstoets voor de toewijzingen in 2015) of de definitieve toekenning van de huurtoeslag.
+
+Als **kader** voor de werkzaamheden van de accountant bij het aspect **juistheid** geldt dat:
+
+### C. Uitgangspunten accountantswerkzaamheden Inkomenstoets
+
+### D. Uitgangspunten steekproef Inkomenstoets
+
+De accountant voert een a-selecte steekproef uit op de deelgroep ‘Aantal aangegane huurovereenkomsten met betrekking tot zodanige woongelegenheden in de gevallen dat het huishoudinkomen ten hoogste € 34.911 en € 38.950 per jaar is (...)’ waarbij 10% van het aantal aangegane huurovereenkomsten wordt beoordeeld met een minimumaantal van 25 en een maximumaantal van 50. Middels het uitvoeren van deze steekproef stelt de accountant vast dat de verantwoording die op dit punt is afgelegd in de dVi **juist** is.
+
+Indien uit de steekproef **fouten** in de verantwoording blijken, worden deze fouten vertaald naar de massa van de genoemde deelgroep en gaat de accountant na wat de impact is van deze fouten op de totale hoeveelheid aangegane huurovereenkomsten met betrekking tot zodanige woongelegenheden in de gevallen dat het huishoudinkomen ten hoogste € 34.911 dan wel € 38.950 per jaar is, alsmede op basis van andere kenmerken die een huishouden volgens de (tijdelijke) Regeling tot de doelgroep doet behoren. Dit leidt mogelijk tot een aanvullende steekproef.
+
+De rapporteringstolerantie bedraagt 0%. Dit betekent dat de accountant alle geconstateerde fouten/onzekerheden dient toe te lichten in een aparte paragraaf in het assurance-rapport (‘overige aangelegenheden’), ook als dit geen invloed heeft op het afgegeven oordeel. De tabel ‘Vertaling naar oordeel’ is hierop van toepassing.
+
+Naast de hierboven beschreven waarschijnlijkheidstoetsen dient de accountant tevens als volgt aandacht te besteden aan getoetste inkomens die **net onder de grens** van € 34.911 1 januari tot 1 juli 2015 en die, voor de periode vanaf 1 juli 2015 tot en met 31 december 2015, net onder de grens van € 38.950 liggen. De accountant voert, afhankelijk van de omvang, een gegevensgerichte deelwaarneming uit. De omvang van deze deelwaarneming dient de accountant te baseren op basis van ‘professional judgement’.
+
+De accountant voert **geen** werkzaamheden uit met betrekking tot de verantwoording over toewijzing aan de andere deelgroep in de dVi onder 5.8.5:
+
+Aantal aangegane huurovereenkomsten met betrekking tot zodanige woongelegenheden in de gevallen dat het huishoudinkomen in de periode van 1 januari 2015 tot 1 juli 2015 hoger dan € 34.911 per jaar is en in de periode vanaf 1 juli tot en met 31 december 2015 hoger dan € 38.950 is.
+
+### 5. Rubriek D: het rapport van feitelijke bevindingen inzake de marktwaarde in verhuurde staat
+
+### 5.1. Doelstelling
+
+In de nieuwe [Woningwet](https://wetten.overheid.nl/jci1.3:c:BWBR0005181) is in [artikel 35 lid 2](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&artikel=35) opgenomen dat toegelaten instellingen het vastgoed in exploitatie in de jaarrekening dienen te waarderen tegen de marktwaarde in verhuurde staat volgens het waarderingshandboek in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0036709&bijlage=2&z=2017-01-01&g=2017-01-01) van de Regeling toegelaten instellingen volkshuisvesting 2015. Deze verplichting ten aanzien van de verantwoording in de jaarrekening geldt met ingang van boekjaar 2016. In de dVi over het boekjaar 2015 zal de toegelaten instelling de marktwaarde in verhuurde staat verantwoorden naar de peildatum 31 december 2015.
+
+Invoering van de marktwaarde in verhuurde staat is voor veel toegelaten instellingen ingrijpend en vergt een omslag in de wijze waarop het waarderingsproces wordt uitgevoerd en de wijze van verantwoorden in de jaarrekening en de dVi. De dVi is ingericht op basis van de marktwaarde zoals bepaald in de [Woningwet](https://wetten.overheid.nl/jci1.3:c:BWBR0005181), waardoor hierop de classificatie van DAEB en niet-DAEB zoals deze is bepaald in de [Woningwet](https://wetten.overheid.nl/jci1.3:c:BWBR0005181) van toepassing is. Er is voor gekozen om de accountant over verslagjaar 2015 op basis van Standaard 4400 ‘opdrachten tot het verrichten van overeengekomen specifieke werkzaamheden met betrekking tot financiële informatie, specifieke werkzaamheden te laten uitvoeren, met als eindproduct een rapport van feitelijke bevindingen. De specifieke werkzaamheden zijn beschreven in paragraaf 5.5.
+
+### 5.2. Specifiek van toepassing zijnde regelgeving
+
+### 5.3. Verantwoordelijkheden
+
+De toegelaten instelling is verantwoordelijk voor het bepalen van de marktwaarde in verhuurde staat en de verantwoording daarover in de dVi in overeenstemming met het waarderingshandboek zoals opgenomen in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0036709&bijlage=2&z=2017-01-01&g=2017-01-01) bij de Regeling toegelaten instellingen volkshuisvesting.
+
+### 5.4. Accountantsproduct
+
+De werkzaamheden zoals beschreven in paragraaf 5.5 leiden tot een rapport van feitelijke bevindingen conform Standaard 4400.
+
+### 5.5. Beschrijving van de te verrichten werkzaamheden
+
+Over de bevindingen die uit het onderzoek naar voren komen wordt gerapporteerd in het rapport van feitelijke bevindingen zoals opgenomen in hoofdstuk 6 / rubriek E model IV van dit accountantsprotocol.
+
+**Nadere toelichting:**
+
+**Punt a:**
+
+Certificering van het door de toegelaten instelling gehanteerde rekenmodel is op grond van het waarderingshandboek ([bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0036709&bijlage=2&z=2017-01-01&g=2017-01-01) bij de Regeling) niet verplicht voor verslagjaar 2015. Er bestaat bij de Aw wel behoefte om te weten of corporaties over verslagjaar 2015 gebruik hebben gemaakt van een gecertificeerd rekenmodel. Hierover zal ook een vraag worden opgenomen in de dVi. De accountant dient uitsluitend vast te stellen dat bij het rekenmodel dat door de toegelaten instelling is gehanteerd bij het berekenen van de marktwaarde voor de dVi, een assurance-rapportage is afgegeven conform COS 3000/3402. Indien er in het certificeringsrapport bevindingen zijn opgenomen ten aanzien van de betrouwbaarheid van het rekenmodel dan wel indien deze certificering nog ontbreekt maakt de accountant hier melding van in het rapport van bevindingen. Indien er sprake is van een ander type certificering dan conform COS 3000/3402 maakt de accountant hier eveneens melding van in het rapport van bevindingen.
+
+**Punt b:**
+
+Het gaat hierbij om de waarden die in de dVi zijn opgenomen op de regels: ‘Netto Marktwaarde’, ’Marktwaarde o.b.v. 100% doorexploitatie’ en ‘Marktwaarde o.b.v. 100% uitpondscenario’. In onderstaande tabel is nader toegelicht wat op deze regels in de dVi verantwoord moet worden:
+
+Bovenstaande drie regels worden in de dVi afzonderlijk uitgevraagd voor DAEB en niet DAEB.
+
+**Punt c:**
+
+Voor toegelaten instellingen die in de jaarrekening RJ 213 actuele waarde hebben toegepast wordt in de dVi een vraag toegevoegd waarbij de toegelaten instelling moet aangeven of de waarde op de regel ‘Netto marktwaarde’ aansluit met de waarde in de jaarrekening. De accountant stelt vast of de beantwoording van deze JA/NEE vraag in de dVi juist is.
+
+**Punt d:**
+
+Het gaat hierbij om de JA/NEE vragen in de dVi met de verantwoording over de toepassing van de vrijheidsgraden.
+
+**Punt e:**
+
+De eisen die aan het verslag van de externe taxateur worden gesteld zijn nader uitgewerkt in het waarderingshandboek (versie december 2015 van [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0036709&bijlage=2&z=2017-01-01&g=2017-01-01) bij de Regeling toegelaten instellingen volkshuisvesting 2015).
+
+**Punt f:**
+
+Als bij een afzonderlijke tak de huursom, zoals gedefinieerd in de toelichting van het dVi onderdeel 2.2B, van bedrijfsmatig, maatschappelijk en intramuraal zorgvastgoed meer dan 5% is, stelt de accountant vast dat er een verslag van de externe taxateur aanwezig is. De achterliggende reden is dat elke tak afzonderlijk financieel beoordeeld wordt.
+
+**Punt g:**
+
+De registratie in het NRVT is per 1 oktober 2015 gestart. De accountant stelt vast dat de externe taxateur zoals bedoeld in punt d, e en f is ingeschreven in het NRVT.
+
+### 6. Rubriek E: Modelteksten
+
+### 6.1. Model I
+
+**Goedkeurende controleverklaring als bedoeld in artikel 29, eerste lid, onderdeel a, van het Besluit beheer sociale-huursector (Bbsh) met betrekking tot de jaarrekening en het jaarverslag**
+
+(enkelvoudig/geconsolideerd17Indien de jaarrekening alleen bestaat uit een enkelvoudige jaarrekening, derhalve als geen geconsolideerde jaarrekening opgesteld behoeft te worden, dient het woord ‘enkelvoudige’ in de gehele verklaring niet te worden opgenomen. In alle overige gevallen dienen, afhankelijk van de feitelijke situatie, de woorden ‘geconsolideerde jaarrekening’ of ‘enkelvoudige jaarrekening’ of ‘enkelvoudige en geconsolideerde jaarrekening’ in de gehele verklaring gebruikt te worden.)
+
+**CONTROLEVERKLARING VAN DE ONAFHANKELIJKE ACCOUNTANT**
+
+Aan: Opdrachtgever
+
+**Verklaring betreffende de jaarrekening**
+
+Wij hebben de (in dit rapport/verslag opgenomen18Verwijzing kan geschieden met behulp van paginanummers.) jaarrekening XXXX van ... (naam toegelaten instelling) te ... (statutaire vestigingsplaats) gecontroleerd. Deze jaarrekening bestaat uit de balans per ... XXXX en de winst-en-verliesrekening over XXXX met de toelichting, waarin zijn opgenomen een overzicht van de gehanteerde grondslagen voor financiële verslaggeving en andere toelichtingen.
+
+In [artikel 127, tweede lid, van het Besluit toegelaten instellingen volkshuisvesting 2015](https://wetten.overheid.nl/jci1.3:c:BWBR0036702&artikel=127) is bepaald dat het [Besluit beheer sociale-huursector](https://wetten.overheid.nl/jci1.3:c:BWBR0005686) (Bbsh) tot 1 januari van het eerstvolgende verslagjaar na inwerkingtreding van de [Woningwet](https://wetten.overheid.nl/jci1.3:c:BWBR0005181) van toepassing blijft voor de jaarrekening, het jaarverslag, het volkshuisvestingsverslag en het onderzoeken en beoordelen van die verslagen door de accountant. Dit betekent dat voor verslagjaar 2015 het Bbsh zijn kracht heeft behouden voor deze onderwerpen.
+
+**Verantwoordelijkheid van het bestuur**
+
+Het bestuur van de toegelaten instelling is verantwoordelijk voor het opmaken van de jaarrekening die het vermogen en het resultaat getrouw dient weer te geven, alsmede voor het opstellen van het jaarverslag, beide in overeenstemming met de bepalingen inzake de jaarrekening en het jaarverslag als opgenomen in [artikel 26, eerste lid, van het Bbsh](https://wetten.overheid.nl/jci1.3:c:BWBR0005686&artikel=26), de bepalingen van en krachtens de [Wet normering bezoldiging topfunctionarissen publieke en semipublieke sector](https://wetten.overheid.nl/jci1.3:c:BWBR0032249) (WNT) en richtlijn 645 van de Raad voor de Jaarverslaggeving.
+
+Het bestuur van de toegelaten instelling is voorts verantwoordelijk voor een zodanige interne beheersing als het noodzakelijk acht om het opmaken van de jaarrekening mogelijk te maken zonder afwijkingen van materieel belang als gevolg van fraude of fouten.
+
+**Verantwoordelijkheid van de accountant**
+
+Onze verantwoordelijkheid is het geven van een oordeel over de jaarrekening op basis van onze controle. Wij hebben onze controle verricht in overeenstemming met Nederlands recht, waaronder de Nederlandse controlestandaarden, het Controleprotocol WNT, en het controleprotocol in rubriek A van bijlage 4 bij de Regeling toegelaten instellingen volkshuisvesting 2015. Dit vereist dat wij voldoen aan de voor ons geldende ethische voorschriften en dat wij onze controle zodanig plannen en uitvoeren dat een redelijke mate van zekerheid wordt verkregen dat de jaarrekening geen afwijkingen van materieel belang bevat.
+
+Een controle omvat het uitvoeren van werkzaamheden ter verkrijging van controle-informatie over de bedragen en de toelichtingen in de jaarrekening. De geselecteerde werkzaamheden zijn afhankelijk van de door de accountant toegepaste oordeelsvorming, met inbegrip van het inschatten van de risico’s dat de jaarrekening een afwijking van materieel belang bevat als gevolg van fraude of fouten.
+
+Bij het maken van deze risico-inschattingen neemt de accountant de interne beheersing in aanmerking die relevant is voor het opmaken van de jaarrekening en voor het getrouwe beeld daarvan, gericht op het opzetten van controlewerkzaamheden die passend zijn in de omstandigheden. Deze risico-inschattingen hebben echter niet tot doel een oordeel tot uitdrukking te brengen over de effectiviteit van de interne beheersing van de toegelaten instelling. Een controle omvat tevens het evalueren van de geschiktheid van de gebruikte grondslagen voor financiële verslaggeving en van de redelijkheid van de door het bestuur van de toegelaten instelling gemaakte schattingen, alsmede een evaluatie van het algehele beeld van de jaarrekening.
+
+Wij zijn van mening dat de door ons verkregen controle-informatie voldoende en geschikt is om een onderbouwing voor ons oordeel te bieden.
+
+**Oordeel19Indien niet is voldaan aan de wettelijke verplichting tot vermelding van de informatie over topinkomens o.g.v. artikel 4.1 van de WNT, vervalt de optie van een goedkeurend getrouwheidsoordeel en dient de accountant de ontbrekende informatie in zijn verklaring op te nemen.**
+
+Naar ons oordeel geeft de jaarrekening een getrouw beeld van de grootte en de samenstelling van het vermogen van ... (naam entiteit) per ... XXXX en van het resultaat over XXXX in overeenstemming met [artikel 26, eerste lid, van het Bbsh](https://wetten.overheid.nl/jci1.3:c:BWBR0005686&artikel=26), de bepalingen van en krachtens de [WNT](https://wetten.overheid.nl/jci1.3:c:BWBR0032249) en richtlijn 645 van de Raad voor de Jaarverslaggeving.
+
+**Verklaring betreffende overige bij of krachtens de wet gestelde eisen**
+
+Ingevolge [artikel 28, onderdeel b, van het Bbsh](https://wetten.overheid.nl/jci1.3:c:BWBR0005686&artikel=28), voor wat betreft het in dit artikel genoemde jaarverslag, melden wij dat ons geen tekortkomingen zijn gebleken naar aanleiding van het onderzoek of het jaarverslag, voor zover wij dat kunnen beoordelen, overeenkomstig de van toepassing zijnde bepalingen van [titel 9 van Boek 2 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&titeldeel=9) is opgesteld, en of de in [artikel 2: 392 lid 1 onder g, van Boek 2 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=392) bedoelde gegevens zijn toegevoegd. Tevens vermelden wij dat het jaarverslag, voor zover wij dat kunnen beoordelen, verenigbaar is met de jaarrekening zoals vereist in [artikel 391 lid 4 van Boek 2 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=391).
+
+Plaats, datum
+
+... (naam accountantsorganisatie)
+
+... (naam accountant)
+
+### 6.2. Model II
+
+Assurance-rapport inzake de dVi over het verslagjaar (naleving van specifieke wet- en regelgeving)
+
+Aan: Opdrachtgever
+
+**ASSURANCE-RAPPORT**
+
+**Opdracht en verantwoordelijkheden**
+
+Wij hebben onderzocht of het overzicht van de dVi, met checksum XXXX, de assurance-onderdelen uit het accountantsprotocol van ... [naam toegelaten instelling] te ... [statutaire vestigingsplaats] over verslagjaar 2015 juist weergeeft in overeenstemming met de voorschriften zoals opgenomen in Rubriek B van bijlage 4 bij de Regeling toegelaten instellingen volkshuisvesting 2015. Het bestuur van ... [naam toegelaten instelling] is verantwoordelijk voor het in het overzicht van de dVi juist en volledig weergeven van de assurance-onderdelen 1 tot en met 18 zoals vermeld in Rubriek B van bijlage 4 bij de Regeling toegelaten instellingen volkshuisvesting 2015. Het is onze verantwoordelijkheid een assurance-rapport omtrent deze assurance-onderdelen in de dVi te verstrekken.
+
+**Werkzaamheden**
+
+Wij hebben ons onderzoek verricht in overeenstemming met Nederlands recht, waaronder de Nederlandse Standaard 3000 ‘Assurance-opdrachten anders dan opdrachten tot controle en beoordeling van historische financiële informatie’ en het accountantsprotocol in Rubriek B van bijlage 4 bij de Regeling toegelaten instellingen volkshuisvesting 2015. Dienovereenkomstig dienen wij ons onderzoek zodanig te plannen en uit te voeren, dat de assurance-onderdelen uit het accountantsprotocol, zoals vastgelegd in Rubriek B van bijlage 4 bij de Regeling toegelaten instellingen volkshuisvesting 2015 die zijn opgenomen in de dVi geen afwijkingen van materieel belang bevatten..
+
+Ten aanzien van dVi onderdelen 5.7.8 en 5.7.9 is dat oordeel mede gebaseerd op de aangeleverde gegevens van de woningzoekende(n) (inclusief eventueel afgegeven verklaring of verklaringen waarvan wij de juistheid en volledigheid niet verder hebben onderzocht).
+
+Wij zijn van mening dat de door ons verkregen onderzoeksinformatie voldoende en geschikt is als basis voor ons oordeel.
+
+**Oordeel**
+
+Naar ons oordeel zijn de in de dVi opgenomen assurance-onderdelen uit het accountantsprotocol, welke onder ‘Opdracht en verantwoordelijkheden’ zijn benoemd van ... [naam toegelaten instelling] te ... [statutaire vestigingsplaats] in alle van materieel belang zijnde aspecten juist weergegeven.
+
+**(Indien op één van de 18 assurance-onderdelen sprake is van een niet-goedkeurend oordeel dan wordt dit afzonderlijk toegelicht20Dit oordeel gaat uit van een goedkeurend oordeel over alle 18 assurance-onderdelen. Indien aan één of meerdere onderdelen niet is voldaan, dan moet daarvoor een aangepast oordeel gevormd worden, inclusief de daarbij behorende onderbouwing van het oordeel vóór de paragraaf ‘oordeel’. Voor deze onderbouwing dient de volgende kop opgenomen te worden: Onderbouwing van het oordeel met beperking/het afkeurend oordeel/de oordeelonthouding ten aanzien van voorwaarde ...’. Ingeval van een oordeelonthouding zal ook de tekst van de paragrafen ‘Opdracht en verantwoordelijkheden’ en ‘Werkzaamheden’ navenant anders komen te luiden. De kop ‘Oordeel’ zal in deze situatie wijzigen in ‘Oordeel ten aanzien van assurance-onderdeel ...’.De kop van het aangepaste oordeel zal dan luiden: Oordeel met beperking/Oordeelonthouding/Afkeurend oordeel ten aanzien van assurance-onderdeel ...’.).**
+
+**Optioneel:**
+
+**Overige aangelegenheden**
+
+Zonder afbreuk te doen aan ons oordeel, merken wij nog het volgende op:
+
+...
+
+...
+
+Als de toegelaten instelling in het verslagjaar geen activiteiten heeft verricht op de zestien assurance-onderdelen, dan dient dat hier te worden vermeld.
+
+**(Deze paragraaf is bedoeld voor het rapporteren van geconstateerde afwijkingen in het kader van de 0% rapporteringstolerantie)**
+
+**Overige aspecten- beperking in het gebruik (en verspreidingskring)**
+
+Ons assurance-rapport is uitsluitend bedoeld voor het bestuur van ... (naam toegelaten instelling) ter verantwoording aan de door de Minister voor Wonen en Rijksdienst aangewezen bevoegde instanties en dient niet te worden verspreid aan of te worden gebruikt door anderen.
+
+Plaats, datum
+
+... (naam accountantsorganisatie)
+
+... (naam accountant)
+
+### 6.3. Model III
+
+**Assurance-rapport inzake de dVi over het verslagjaar (cijfermatige verantwoording)**
+
+Aan: Opdrachtgever
+
+**ASSURANCE-RAPPORT**
+
+**Opdracht en verantwoordelijkheden**
+
+Wij hebben onderzocht of het overzicht van de dVi, met checksum XXXX, de assurance-onderdelen uit het accountantsprotocol van ... [naam toegelaten instelling]) te ... [statutaire vestigingsplaats] over verslagjaar 2015 juist weergeeft in overeenstemming met de voorschriften zoals opgenomen in Rubriek C van bijlage 4 bij de Regeling toegelaten instellingen volkshuisvesting 2015. Het bestuur van ... [naam toegelaten instelling] is verantwoordelijk voor het in het overzicht van de dVi juist en volledig weergeven van de assurance-onderdelen 1 tot en met 24 zoals vermeld in Rubriek C van bijlage 4 bij de Regeling toegelaten instellingen volkshuisvesting 2015. Het is onze verantwoordelijkheid een assurance-rapport omtrent deze assurance-onderdelen in de dVi te verstrekken.
+
+**Werkzaamheden**
+
+Wij hebben ons onderzoek verricht in overeenstemming met Nederlands recht, waaronder de Nederlandse Standaard 3000 ‘Assurance-opdrachten anders dan opdrachten tot controle en beoordeling van historische financiële informatie’ en het accountantsprotocol in Rubriek C van bijlage 4 bij de Regeling toegelaten instellingen volkshuisvesting 2015. Dienovereenkomstig dienen wij ons onderzoek zodanig te plannen en uit te voeren, dat een redelijke mate van zekerheid wordt verkregen dat de assurance-onderdelen uit het accountantsprotocol, zoals vastgelegd in Rubriek C van bijlage 4 bij de Regeling toegelaten instellingen volkshuisvesting 2015 die zijn opgenomen in de dVi geen afwijkingen van materieel belang bevatten.
+
+Ten aanzien van het dVi onderdeel 5.8 punt 5 is dat oordeel mede gebaseerd op de aangeleverde gegevens van de woningzoekende(n) (inclusief eventueel afgegeven verklaring of verklaringen waarvan wij de juistheid en volledigheid niet verder hebben onderzocht).
+
+Wij zijn van mening dat de door ons verkregen onderzoeksinformatie voldoende en geschikt is als basis voor ons oordeel.
+
+**Oordeel**
+
+Naar ons oordeel zijn de in de dVi opgenomen assurance-onderdelen uit het accountantsprotocol, welke onder ‘Opdracht en verantwoordelijkheden’ zijn benoemd van ... [naam toegelaten instelling] te ... [statutaire vestigingsplaats] in alle van materieel belang zijnde aspecten weergegeven in overeenstemming met de voorschriften zoals opgenomen in Rubriek C van bijlage 4 bij de Regeling toegelaten instellingen volkshuisvesting 2015.
+
+**(Indien op één van de 24 assurance-onderdelen sprake is van een niet-goedkeurend oordeel dan wordt dit afzonderlijk toegelicht21Dit oordeel gaat uit van een goedkeurend oordeel over alle 24 assurance-onderdelen. Indien aan één of meerdere onderdelen niet is voldaan, dan moet daarvoor een aangepast oordeel gevormd worden, inclusief de daarbij behorende onderbouwing van het oordeel vóór de paragraaf ‘oordeel’. Voor deze onderbouwing dient de volgende kop opgenomen te worden: Onderbouwing van het oordeel met beperking/het afkeurend oordeel/de oordeelonthouding ten aanzien van voorwaarde ...’. Ingeval van een oordeelonthouding zal ook de tekst van de paragrafen ‘Opdracht en verantwoordelijkheden’ en ‘Werkzaamheden’ navenant anders komen te luiden. De kop ‘Oordeel’ zal in deze situatie wijzigen in ‘Oordeel ten aanzien van assurance-onderdeel ...’.De kop van het aangepaste oordeel zal dan luiden: Oordeel met beperking/Oordeelonthouding/Afkeurend oordeel ten aanzien van assurance-onderdeel ...’.).**
+
+**Optioneel:**
+
+**Overige aangelegenheden**
+
+Zonder afbreuk te doen aan ons oordeel, merken wij nog het volgende op:
+
+...
+
+**(Deze paragraaf is bedoeld voor het rapporteren van geconstateerde afwijkingen in het kader van de 0% rapporteringstolerantie)**
+
+**Overige aspecten- beperking in het gebruik (en verspreidingskring)**
+
+Ons assurance-rapport is uitsluitend bedoeld voor het bestuur van ... (naam toegelaten instelling) ter verantwoording aan de door de Minister voor Wonen en Rijksdienst aangewezen bevoegde instanties en dient niet te worden verspreid aan of te worden gebruikt door anderen.
+
+Plaats, datum
+
+... (naam accountantsorganisatie)
+
+... (naam accountant)
+
+### 6.4. Model IV
+
+**Rapport van feitelijke bevindingen inzake de marktwaarde in verhuurde staat**
+
+Aan: opdrachtgever
+
+**Opdracht**
+
+Wij hebben een aantal specifieke werkzaamheden verricht met betrekking tot de bepalingen in het waarderingshandboek ([Bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0036709&bijlage=2&z=2017-01-01&g=2017-01-01) bij de Regeling toegelaten instellingen volkshuisvesting 2015) en de verantwoording daarover in de dVi 2015 (paragraaf 4.2.4) van [Naam toegelaten instelling] te [statutaire vestigingsplaats].
+
+Het is de bedoeling dat u zelf een oordeel vormt over de werkzaamheden en over de in dit rapport weergegeven bevindingen en op basis daarvan uw eigen conclusie trekt. Wij wijzen u er op dat indien wij aanvullende werkzaamheden zouden hebben verricht of een controle- of beoordelingsopdracht zouden hebben uitgevoerd, wellicht andere onderwerpen zouden zijn geconstateerd die voor rapportering in aanmerking zouden zijn gekomen
+
+**Aard en reikwijdte van de verrichte werkzaamheden**
+
+Onze werkzaamheden zijn verricht in overeenstemming met Nederlands recht, waaronder de Nederlandse Standaard 4400, "Opdrachten tot het verrichten van overeengekomen specifieke werkzaamheden met betrekking tot financiële informatie" en het accountantsprotocol (bijlage 4 bij de Regeling toegelaten instellingen volkshuisvesting 2015), specifiek hoofdstuk 5.
+
+Het doel van deze opdracht tot het verrichten van overeengekomen specifieke werkzaamheden is het verrichten van die werkzaamheden die wij met ... [Naam Toegelaten Instelling] zijn overeengekomen en het rapporteren over de feitelijke bevindingen. Aangezien wij slechts verslag doen van feitelijke bevindingen uit hoofde van de overeengekomen werkzaamheden betekent dit dat op de in paragraaf 4.2.4 van de dVi opgenomen marktwaarde in verhuurde staat geen accountantscontrole is toegepast en dat evenmin een beoordelingsopdracht is uitgevoerd. Dit houdt in dat aan onze rapportage geen zekerheid kan worden ontleend omtrent de getrouwheid van de in de dVi opgenomen marktwaarde in verhuurde staat.
+
+**Verrichte werkzaamheden**
+
+Wij hebben de volgende werkzaamheden verricht;
+
+Vastgesteld of bij het rekenmodel dat door de toegelaten instelling is gehanteerd bij het berekenen van de marktwaarde voor de dVi, een assurance-rapportage is afgegeven conform COS 3000/3402. Bevindingen ten aanzien van het ontbreken van een dergelijke certificering, in het assurancerapport bij het rekenmodel opgenomen bevindingen ten aanzien van de betrouwbaarheid van het rekenmodel en het aantreffen van een ander type certificering zijn gemeld in de paragraaf ‘Uitkomsten verrichte werkzaamheden’;
+
+Vastgesteld dat de in de dVi verantwoorde waarde gelijk is aan de waarde van het rekenmodel;
+
+Indien de toegelaten instelling in de jaarrekening 2015 RJ 213 (actuele waarde) toepast vastgesteld dat de verantwoording in de dVi aansluit met de goedgekeurde jaarrekening.
+
+Indien de full versie van het waarderingshandboek is toegepast vastgesteld dat de verantwoording in de dVi over de toepassing van de vrijheidsgraden aansluit bij het verslag van de externe taxateur;
+
+Indien de full versie van het waarderingshandboek is toegepast vastgesteld dat de in de dVi verantwoorde waarde aansluit bij het verslag van de externe taxateur;
+
+Indien de huursom van bedrijfsmatig, maatschappelijk en intramuraal zorgvastgoed tezamen meer dan 5% van de totale huursom uitmaakt, van de DAEB-tak of de niet DAEB tak afzonderlijk, vastgesteld dat er een verslag van de externe taxateur aanwezig is;
+
+Vastgesteld dat de externe taxateur zoals bedoeld in punt d, e en f is ingeschreven in het Nederlands Register Vastgoed Taxateurs (NRVT).
+
+**Uitkomsten verrichte werkzaamheden**
+
+Naar aanleiding van de verrichte werkzaamheden onder de punten a tot en met f rapporteren wij als volgt:
+
+....
+
+....
+
+....
+
+**Beperking in verspreidingskring**
+
+Deze rapportage is uitsluitend bestemd voor [Naam Toegelaten Instelling] en de door de Minister voor Wonen en Rijksdienst aangewezen bevoegde instanties (i.c. de Autoriteit Woningcorporaties) aangezien anderen die niet op de hoogte zijn van het doel van de werkzaamheden de resultaten onjuist kunnen interpreteren. Wij verzoeken u derhalve de rapportage niet aan anderen te verstrekken zonder onze uitdrukkelijke toestemming vooraf.
+
+Plaats, datum
+
+... (naam accountantsorganisatie)
+
+... (naam accountant)
+
+## Bijlage 5. bij [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBR0036709&hoofdstuk=II&paragraaf=3&artikel=15&z=2017-01-01&g=2017-01-01) van de Regeling toegelaten instellingen volkshuisvesting 2015
+
+### INHOUDSOPGAVE
+
+### HOOFDSTUK 1. ALGEMEEN
+
+### 1.1. Toelichting
+
+### 1.2. Algemene gegevens
+
+### HOOFDSTUK 2. ACTIVITEITEN
+
+### 2.1. Projectoverzicht A. DAEB activiteiten per project (x € 1.000)
+
+### 2.1. Projectoverzicht B. niet DAEB activiteiten per project (x € 1.000)
+
+### 2.2. Prognose verkopen huurwoongelegenheden gespecificeerd per postcode
+
+### 2.3. Prognose ontwikkeling bezit toegelaten instelling (opgave incl. verbindingen, indien van toepassing)
+
+### 2.4. Prognose ontwikkeling energielabel huurwoongelegenheden TI enkelvoudig
+
+### 2.5. Prognose informatie woongelegenheden TI per bezitsgemeente
+
+### HOOFDSTUK 3. FINANCIELE PROGNOSE
+
+### 3.1. Kasstroomoverzicht (enkelvoudig (A) en geconsolideerd (B))
+
+### 3.2. Toelichtingen kasstroomoverzicht (enkelvoudig (A) en/of geconsolideerd (B))
+
+### 3.3. Prognose balans en winst- en verliesrekening (geconsolideerd (B) of enkelvoudig (A))
+
+### 3.4. Prognose specificatie bedrijfswaarde (geconsolideerd (B) of enkelvoudig (A))
+
+## Bijlage 6. bij [art. 43](https://wetten.overheid.nl/jci1.3:c:BWBR0036709&hoofdstuk=III&afdeling=5&paragraaf=2&artikel=43&z=2017-01-01&g=2017-01-01) van de Regeling toegelaten instellingen volkshuisvesting 2015
+
+### Model voor de raamovereenkomst inzake het aantrekken van financiële derivaten
+
+### Raamomvereenkomst interest rate swaps
+
+**DEZE RAAMOVEREENKOMST** is opgesteld op [•] tussen:
+
+OVERWEGENDE DAT
+
+VERKLAREN TE ZIJN OVEREENGEKOMEN ALS VOLGT:
+
+TEN BLIJKE WAARVAN partijen aan dit document uitvoering hebben gegeven op de onderstaande datum welke in werking treedt op de datum genoemd op de eerste pagina van dit document.
+
+## Bijlage 7. bij [artikel 43](https://wetten.overheid.nl/jci1.3:c:BWBR0036709&hoofdstuk=III&afdeling=5&paragraaf=2&artikel=43&z=2017-01-01&g=2017-01-01) van de Regeling toegelaten instellingen volkshuisvesting 2015
+
+Financiële derivaten mogen uitsluitend worden aangetrokken onder de in de bijlage genoemde modelovereenkomst. Niet in de bijlage als zodanig opgenomen onderdeel van deze modelovereenkomst is het ISDA Master Agreement 2002. Deze Master Agreement 2002 is een gestandaardiseerd contract opgesteld door de International Swaps and Derivatives Association (ISDA), een organisatie voor handelaren in onderhandse derivaten wereldwijd en gevestigd in New York. De ISDA (en daarmee het Master Agreement 2002) zijn bereikbaar via website www.isda.org.
+
+Dated as of .....................
+
+between
+
+**Please fill in the name laid down by statute (‘Party A’)**
+
+and
+
+**[**toegelaten instelling**] (‘Party B’),**
+
+As of the date of this Agreement, all Transactions entered into from that date between the parties to this Agreement (and the respective rights and obligations of the parties in respect of those Transactions) shall be governed by, subject to, and determined in accordance with, the terms and conditions set out in this Agreement and the related Confirmations.
+
+Party B is a Dutch housing association (‘toegelaten instelling’) and its main purpose is the stimulation of social housing in the Netherlands by means of public funding. As a result, Party B is supervised by the Dutch government and any supervisory bodies and institutions. In respect of this Agreement, Party B shall be considered as a non-professional investor, in accordance with the Dutch [Wet op het financieel toezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0020368). Regarding these Transactions, Party A shall act as an advisor for Party B. All of the above is incorporated in the independent agreement governed by Dutch law, as referred to in article 6 of the Dutch [Beleidsregels gebruik financiële derivaten door toegelaten instellingen volkshuisvesting](https://wetten.overheid.nl/jci1.3:c:BWBR0036480).
+
+In this Agreement:
+
+- (a). **‘Specified Entity’**does not apply.
+
+- (b). **‘Specified Transaction’** will have the meaning specified in Section 14 of the Agreement.
+
+- (c). The **‘Cross-Default’** provisions of Section 5(a)(vi) of the Agreement will apply to Party A and will not apply to Party B provided, however, that notwithstanding the foregoing, an Event of Default shall not occur under either Section 5(a)(vi)(1) or (2) if (a) the event or condition referred to in Section 5(a)(vi)(1) or the failure to pay referred to in Section 5(a)(vi)(2) is a failure to pay caused by an error or omission of an administrative or operational nature; and (b) funds were available to such party to enable it to make the relevant payment when due; and (c) such relevant payment is made within three Local Business Days following receipt of written notice from an interested party of such failure to pay. If such provisions apply:
+
+- −. **‘Specified Indebtedness’** will have the meaning specified in Section 14.
+
+- −. **‘Threshold Amount’** means with respect to Party A, an amount equal to one percent (1%) of its total equity share capital (as specified from time to time in its most recent Annual Report containing consolidated financial statements, prepared in accordance with accounting principles that are generally accepted for institutions of its type in the jurisdiction of its organization and certified by independent public accountants), or its equivalent in any other currency.
+
+- (d). The **‘Credit Event Upon Merger’**provisions of Section 5(b)(v) of the Agreement will apply to Party A and will apply to Party B.
+
+- (e). The **‘Automatic Early Termination’** provision of Section 6(a) of the Agreement will apply, provided that Automatic Early Termination shall not apply upon the occurrence of an Event of Default with respect of Party B specified in Section 5(a)(vii) (3), (6) or, to the extend analogous thereto.
+
+- (f). **‘Termination Currency’**means Euro or the currency selected by the Non-defaulting Party or the Non-affected Party, or in the circumstance where there are two Affected Parties, agreed by Party A and Party B, and failing such agreement the Termination Currency shall be Euro.
+
+- (g). **‘Additional Termination Event’** will apply. The following will constitute an Additional Termination Event: For any reason the status of Party B as ‘toegelaten instelling’ is withdrawn in accordance with article 70 of the Dutch Housing Act (‘[Woningwet](https://wetten.overheid.nl/jci1.3:c:BWBR0005181)’).
+
+- (a). **Payer Representations.** For the purposes of Section 3(e), Party A and Party B will make the following representation: It is not required by any applicable law, as modified by the practice of any relevant governmental revenue authority, of any Relevant Jurisdiction to make any deduction or withholding for or on account of any Tax from any payment (other than interest under X Section 9(h) of this Agreement) to be made by it to the other party under this Agreement. In making this representation, it may rely on (i) the accuracy of any representations made by the other party pursuant to Section 3(f) of this Agreement, (ii) the satisfaction of the agreement contained in Section 4(a)(i) or 4(a)(iii) of this Agreement and the accuracy and effectiveness of any document provided by the other party pursuant to Section 4(a)(i) or 4(a)(iii) of this Agreement and (iii) the satisfaction of the agreement of the other party contained in Section 4(d) of this Agreement, except that it will not be a breach of this representation where reliance is placed on clause (ii) above and the other party does not deliver a form or document under Section 4(a)(iii) by reason of material prejudice to its legal or commercial position.
+
+- (b). **Payee Representations**Party A and Party B make no Payee Tax representation.
+
+For the purpose of Section 4(a)(i) and 4(a)(ii) of the Agreement, each party agrees to deliver the following documents, covered by Section 3(d) of this Agreement, as applicable:
+
+- (a). Tax forms, documents or certificates to be delivered are: Each party agrees to complete, accurately and in a manner reasonably satisfactory to the other party, and to execute, arrange for any required certification of, and deliver to the other party (or to such government or taxing authority as the other party reasonably directs), any form or document that may be required or reasonably requested in order to allow the other party to make a payment under this Agreement without any deduction or withholding for or on account of any Tax or with such deduction or withholding at a reduced rate, promptly upon the earlier of (i) reasonably demand by the other party and (ii) learning that the form or document is required.
+
+- (b). Other documents to be delivered are: **Please complete**
+
+- (a). **Addresses for Notices.**For the purpose of Section 12(a) of the Agreement: Address for notices or communications to Party A: **Please complete** Address for notices or communications to Party B: **Please complete**
+
+- (b). **Process Agent.**For the purpose of Section 13(c) of the Agreement: Party A appoints as its Process Agent in England: **Please complete** Party B appoints as its Process Agent in England: **Please complete**
+
+- (c). **Offices.**The provisions of Section 10(a) of the Agreement will apply.
+
+- (d). **Multibranch Party.**For the purpose of Section 10(b) of the Agreement: Party A [is not a Multibranch Party.] [is a Multibranch Party and may enter into a Transaction through any of the following Offices: **Please complete**]
+
+- (e). **Calculation Agent.**The Calculation Agent is Party A, unless otherwise specified in a Confirmation in relation to the relevant Transaction. Failure of the Party designated as Calculation Agent to perform, on a timely basis, any of its responsibilities as Calculation Agent shall not relieve the parties of their respective payment obligations under the Agreement and such failure shall not be considered an event which would permit the termination of this Agreement or any Transaction. If a Party (a ‘Disputing Party’) reasonably disputes the outcome of a calculation by the Calculation Agent, then the Disputing Party will notify the Calculation Agent thereof not later than the close of business on the Local Business Day following the relevant Payment Date. The parties will consult with each other in an attempt to resolve the dispute. If they fail to resolve the dispute by 5.00 p.m., CET, on the Local Business Day following the date on which the notice is given, the Calculation Agent will recalculate the disputed calculation by seeking four actual quotations at mid-market from third parties for purposes of making the relevant calculation, and taking the arithmetic average of those obtained; provided that if four quotations are not available for a particular Transaction, then fewer than four quotations may be used for that calculation, and if no quotations are available, then the Calculation Agent's original calculations will be used.
+
+- (f). **Credit Support Document.** None.
+
+- (g). **The Credit Support Provider.**[Not applicable/Means with respect to Party A: **Please complete**
+
+- (h). **Governing Law.**This Agreement will be governed by and construed in accordance with [Dutch] [English] Law.
+
+- (i). **Netting of Payments**. ‘Multiple Transaction Payment Netting’ [will not apply for the purpose of Section 2(c) of this Agreement.] [will apply for the purpose of Section 2(c) of this Agreement to [all Transactions payable on the same date and in the same currency.
+
+- (j). **‘Affiliate’**is not applicable.
+
+- (k). **No Agency.** The provisions of Section 3(g) will apply to this Agreement.
+
+- (a). **Inconsistency** Notwithstanding the provisions of Section 1(b) of the Agreement, in the event of any inconsistency between any of the following documents, the relevant document first listed below shall govern: (i) a Confirmation for the purpose of the relevant Transaction; (ii) the Schedule; (iii) the relevant ‘ISDA Definitions’ and (iv) the 2002 ISDA Master Agreement.
+
+- (b). **Change of Account** Section 2(b) shall be amended in full to read as follows: ‘**Change of Account**. Either party may change its account within the same currency as specified for the relevant payment or delivery in the Transaction by giving notice to the other party at least five Local Business Days prior to the scheduled date for payment or delivery to which such change applies unless such other party gives timely notice of a reasonable objection to such change, and provided that, if any new account of one party is not in the same jurisdiction as the original account, the other party shall not be obliged to pay any greater amount and shall not receive any lesser amount as a result of such change than would have been the case if such change had not taken place.’.
+
+- (c). **Financial Statements** Section 3(d) shall be amended by adding before the full stop at the end of Section 3(d): ‘, provided that in the case of financial statements delivered by either party, the only representation being made is that such financial statements give a fair view of the state of affairs of the entities which they cover as at their date of publication.’
+
+- (d). **Failure to Pay or Deliver** Section 5(a)(i) shall be amended by replacing ‘First Local Business Day’ and ‘First Local Delivery Day’ by ‘Third Local Business Day’ and ‘Third Local Delivery Day’ respectively’. Section 5(a)(i) shall be amended by adding at the end of Section 5(a)(i): ‘provided, however, that notwithstanding the foregoing, an Event of Default shall not occur if the failure to pay or deliver is caused by an error or omission of an administrative or operational nature and funds were available to such party to enable it to make the relevant payment or delivery when due and provided that such error or omission is remedied within three Local Business Days and/or three Local Delivery Days after notice of such failure being received.’
+
+- (e). **Default Under Specified Transaction** Section 5(a)(v)(2) shall be amended by replacing ‘First Local Business Day’ by ‘Third Local Business Day’.
+
+- (f). **Events** Section 5(a) and (b) shall be amended by adding Section 5(a)(ix): ‘Any act, and/or decision under or pursuant to the Dutch Housing Act (‘[Woningwet](https://wetten.overheid.nl/jci1.3:c:BWBR0005181)’) regarding Party B will not qualify as an Event of Default.’ and Section 5(b)(vii): ‘Any act, and/or decision under or pursuant to the Dutch Housing Act (‘Woningwet’) regarding Party B will not qualify as a Termination Event.’. Section 5(a) and (b) shall be amended by adding Section 5(a)(x): ‘The mortgaging of Party B’s real estate or pledging of Party B’s rental revenues to the Stichting Waarborgfonds Sociale Woningbouw shall not qualify as an Event of Default.’ and Section 5(b)(viii): ‘The mortgaging of Party B’s real estate or pledging of Party B’s rental revenues to the Stichting Waarborgfonds Sociale Woningbouw shall not qualify as a Termination Event.’.
+
+- (g). **Severability** In the event any one or more of the provisions contained in this Agreement should be held invalid, illegal, or unenforceable in any respect, the validity, legality and enforceability of the remaining provisions contained herein shall not in any way be affected or impaired thereby. The parties shall endeavour, in good faith negotiations, to replace the invalid, illegal or unenforceable provisions with valid provisions the economic effect of which comes as close as possible to that of the invalid, illegal or unenforceable provisions.
+
+- (h). **Confirmations.** Notwithstanding anything to the contrary in the Agreement:
+
+- (i). The parties hereto agree that with respect to each Transaction hereunder a legally binding agreement shall exist from the moment that the parties hereto agree on the essential terms of such Transaction, which the parties anticipate will occur by telephone.
+
+- (ii). For each Transaction Party A and Party B agree to enter into hereunder Party A shall promptly send to Party B a Confirmation setting forth the terms of such Transaction (which Confirmations shall be in a form agreed to by the parties exchanged by mail, facsimile or other electronic means). Party B shall execute and return the Confirmation to Party A or request correction of any error within three Local Business Days of receipt. Failure of Party B to respond within such period shall not affect the validity or enforceability of such Transaction and shall be deemed to be an affirmation of such terms absent manifest error.
+
+- (i). **Additional Agreements.** Each party agrees, upon learning of the occurrence of any event or commencement of any condition that constitutes (or that with the giving of notice or passage of time or both would constitute) an Event of Default or Termination Event with respect to such party, promptly to give the other party notice of such event or condition (or, in lieu of giving notice of such event or condition in the case of an event or condition that with the giving of notice or passage of time or both would constitute an Event of Default or Termination Event with respect to the party, to cause such event or condition to cease to exist before becoming an Event of Default or Termination Event).
+
+- (j). **Recording of Conversations**. Each party (i) consents to the recording of telephone conversations between the trading, marketing and other relevant personnel of the parties in connection with this Agreement or any potential Transaction, (ii) agrees to obtain any necessary consent of, and give any necessary notice of such recording to, its relevant personnel and (iii) agrees, to the extent permitted by applicable law, that recordings may be submitted in evidence in any Proceedings.
+
+- (k). **Amendment to Section 6(d)(ii).**Section 6(d)(ii) of the Agreement is hereby amended by adding the following proviso at the end of the first sentence: ‘; provided, however, that if any amount calculated as being due in respect of an Early Termination Date which is designated as a result of an Illegality or a Force Majeure Event cannot be paid on such day by the Office specified in the Confirmation(s) relating to the Terminated Transaction(s) as a result of such event, then such amount will be payable by such Office on the day which is two Local Business Days after the day on which the Illegality or a Force Majeure Event, as the case may be, no longer exists or, if earlier, on the date on which an Event of Default occurs.
+
+- (l). **Timely Confirmation.**
+
+- (i). Section 9(e)(ii) is amended by:
+
+- (A). replacing the word ‘practicable’ with the word ‘possible’ in the third line thereof; and
+
+- (B). inserting ‘or by other method intended by the parties to be effective for the purpose of confirming or evidencing such Transaction’ immediately before the words ‘which in each case will be sufficient’.
+
+- (ii). In respect of each Relevant Confirmation Transaction, Party A and Party B will use reasonable efforts acting in good faith and a commercially reasonable manner to ensure each Relevant Confirmation Transaction is confirmed by the Timely Confirmation Deadline.
+
+- (iii). In respect of each Relevant Confirmation Transaction: If the Receiving Party delivers a Not Confirmed Notice to the Documenting Party by the Timely Confirmation Deadline, Party A and Party B will use reasonable efforts acting in good faith and a commercially reasonable manner, to attempt to resolve the difference and confirm the Relevant Confirmation Transaction as soon as possible.
+
+- (A). the Documenting Party will deliver a Confirmation to the Receiving Party as soon as possible and at the latest by the Confirmation Delivery Deadline; and
+
+- (B). following the delivery in (A) above, the Receiving Party will, use reasonable efforts acting in good faith and a commercially reasonable manner, either confirm the Confirmation or deliver to the Documenting Party a Not Confirmed Notice as soon as possible and at the latest by the Timely Confirmation Deadline.
+
+- (iv). For the purposes of this Part 5(l): **‘CCP’** means a central clearing house authorised under Article 14 of EMIR or recognised under Article 25 of EMIR. **‘CCP Service’** means in respect of a CCP, an over-the-counter derivative clearing service offered by such CCP. **‘Cleared’** means, in respect of a Transaction, that such Transaction has been submitted (including where details of such Transaction are submitted) to a CCP for clearing in a relevant CCP Service and that such CCP has become a party to a resulting or corresponding transaction, as applicable, pursuant to such CCP's Rule Set. **‘Commission’** means the executive body of the European Union which is responsible for proposing legislation, implementing decisions, upholding the European Union's treaties and the day-to-day running of the European Union. **‘confirm’** means, with respect to a Confirmation provided by the Documenting Party to the Receiving Party, an acknowledgement in writing (whether by execution in counterpart of the Confirmation or otherwise) or electronically from the Receiving Party to the Documenting Party that the terms of such Confirmation reflect the terms of the Relevant Confirmation Transaction and **‘confirmed’** will be construed accordingly. **‘Confirmation Delivery Deadline’** means (i) 5:00 pm CET on the Local Business Day prior to the Timely Confirmation Deadline; or (ii) if the Timely Confirmation Deadline falls after the day that is the second Local Business Day following the Trade Date, 5:00 PM CET on the second Local Business Day immediately preceding the Timely Confirmation Deadline. Notwithstanding anything to the contrary in the Agreement, for this purpose **‘Local Business Day’** means, a day on which commercial banks and foreign exchange markets are generally open to settle payments in the city in which the office through which the Receiving Party is acting for the purposes of the Relevant Confirmation Transaction is located. **‘Documenting Party’** means Party A. **‘EMIR’** means Regulation (EU) No 648/2012 of the European Parliament and of the Council on OTC derivatives, central counterparties and trade repositories dated 4 July 2012. **European Union’** means the economic and political union established in 1993 by the Maastricht Treaty, with the aim of achieving closer economic and political union between member states that are primarily located in Europe. **‘Not Confirmed Notice’** means, with respect to a Confirmation provided by the Documenting Party, a written notice from the Receiving Party to the Documenting Party stating that the terms of such Confirmation do not accurately reflect the terms of the Transaction, which terms are inaccurate and what such terms should be, in the opinion of the Receiving Party. **‘Receiving Party’** means the party which is not the Documenting Party. **‘Relevant Confirmation Transaction’** means any Transaction which was not Cleared and entered into on or following the Timely Confirmation Start Date. **‘Rule Set’** means, with respect to a CCP Service, the relevant rules, conditions, procedures, regulations, standard terms, membership agreements, collateral addenda, notices, guidance, policies or other such documents promulgated by the relevant CCP and amended and supplemented from time to time. **‘Timely Confirmation Deadline’** means the end of the latest day by which such Relevant Confirmation Transaction must be confirmed in accordance with Article 12 of Chapter VIII of the Commission Delegated Regulation (EU) No 149/2013 published 23 February 2013 in the Official Journal of the European Union. If Party A to such Relevant Confirmation Transaction is not a ‘financial counterparty’ (as defined in EMIR), it will be deemed to be a financial counterparty solely for the purpose of determining such latest day. **‘Timely Confirmation Start Date’** means the twentieth day following the day of publication of Article 12 of Chapter VIII of the Commission Delegated Regulation (EU) No 149/2013 published 23 February 2013 in the Official Journal of the European Union. **‘Trade Date’** means the date of execution of the Transaction.
+
+- (m). **EMIR Reporting Obligation** The Parties agree that any reporting obligation that Party B is subject to under Regulation (EU) No 648/2012 of the European Parliament and of the Council on OTC derivatives, central counterparties and trade repositories dated 4 July 2012 is delegated to Party A.]6The parties may elect this Part 5 (m).
+
+- (n). **Incorporation and Interpretation of Definition** Any definitions published by the International Swaps and Derivatives Association, Inc., as amended, supplemented and replaced from time to time which shall apply to this Agreement will be referred to in the relevant Confirmation. In the event and to the extent that the relevant Confirmation does not refer to any definitions, the following applies: Reference is made to the following definitions, where applicable which are hereby incorporated by reference herein: the 2006 ISDA Definitions (the ‘ISDA Definitions’); and any terms used and not otherwise defined in the Confirmation shall have the meaning set forth therein.
+
+- (o). **Form of Agreement** The parties agree that the text of the body of this Agreement is intended to be the printed form of the ISDA 2002 Master Agreement as published and copyrighted by the International Swaps and Derivatives Association, Inc© (ISDA).
+
+IN WITNESS WHEREOF the parties have executed this document on the respective dates specified below with effect from the date specified on the first page of this document.
+
+| Party A | Party B |
+| --- | --- |
+|   |   |
+| Date | Date |
+|   |   |
+| Signature | Signature |
+|   |   |
+| Name | Name |
+|   |   |
+| Function | Function |
+|   |   |
+
+- (a). **Base Currency and Eligible Currency**
+
+- (i). **‘Base Currency’** means euro.
+
+- (ii). **‘Eligible Currency’** means the Base Currency.
+
+- (b). **Credit Support Obligations**
+
+- (i). **Delivery Amount, Return Amount and Credit Support Amount**
+
+- (A). **‘Delivery Amount’** has the meaning specified in Paragraph 2(a).
+
+- (B). **‘Return Amount’** has the meaning specified in Paragraph 2(b).
+
+- (C). **‘Credit Support Amount’** has the meaning specified in Paragraph 10.
+
+- (ii). **Eligible Credit Support.** The following items will qualify as **‘Eligible Credit Support’** for Party A: ¹ The parties may elect (B) and (C) together, not separately.
+
+|   |   | Party A | Party B | Valuation Percentage |
+| --- | --- | --- | --- | --- |
+| **(A)** | **Cash in an Eligible Currency** | Yes | Yes | 100% |
+| **(B)** | **Negotiable debt obligations issued by the Governments of the Euro-zone, the United States of America, and the United Kingdom having a remaining maturity of not more than five years from the Valuation Date and being rated at least AAA (S&P) or AAA (Fitch Ratings) or Aaa (Moody’s) on the Valuation Date and which settle through an Approved Clearing System.** | Yes | Yes | 97% |
+| **(C)** | **Negotiable debt obligations issued by the Governments of the Euro-zone, the United States of America, and the United Kingdom having a remaining maturity of five years or more from the Valuation Date and being rated at least AAA (S&P) or AAA (Fitch Ratings) or Aaa (Moody’s) on the Valuation Date and which settle through an Approved Clearing System.]¹** | Yes | Yes | 95% |
+| **(D)** | **Such other Eligible Collateral as may be agreed between the parties** | Yes | Yes | As agreed between the parties. |
+
+- (iii). **Thresholds**
+
+- (A). **‘Independent Amount’** means with respect to Party A: **please complete** **‘Independent Amount’** means with respect to Party B: None.
+
+- (B). **‘Threshold’** means with respect to Party A: None. **‘Threshold’** means with respect to Party B: please complete
+
+- (C). **‘Minimum Transfer Amount’** means with respect to Party A and Party B: The amount equivalent to 10,000 euro.
+
+- (D). **Rounding**. The Delivery Amount and the Return Amount will be rounded up or down to the nearest integral multiple of 10,000 euro.
+
+- (c). **Valuation and Timing**
+
+- (i). **‘Valuation Agent’** means, for the purposes of Paragraphs 2 and 4, and for the purposes of Paragraph 5(c): Party A. The valuation of the Credit Support Amount shall be made pursuant to Paragraph 3(b) and pursuant to the following procedures:
+
+- (A). Party A shall before the Notification Time report by email to Party B:
+
+- (a). The market value of each collateralised transaction, denominated in euro.
+
+- (b). The market value of the posted collateral to Party B, denominated in euro.
+
+- (c). The Credit Support Amount, denominated in euro.
+
+- (B). If Party A’s determination remains undisputed, Party B shall notify the Valuation Agent of the agreed Delivery Amount (if any) or the Return Amount (if any) by email.
+
+- (C). If the Delivery Amount or the Return Amount, as the case may be, on a Local Business Day equals or exceeds the Minimum Transfer Amount, as the case may be, and if both parties agree, then Eligible Credit Support will be transferred pursuant to Paragraph 2.
+
+- (ii). **‘Valuation Date** means each Local Business Day.
+
+- (iii). **‘Valuation Time’** means the close of business on the Valuation Date or date of calculation, as applicable; provided that the calculations of Value and Exposure will be made as of approximately the same time on the same date.
+
+- (iv). **‘Notification Time’** means 2.00 p.m., CET, on the Local Business Day following the applicable Valuation Date.
+
+- (d). **Exchange Date** **‘Exchange Date’** has the meaning specified in Paragraph 3(c)(ii).
+
+- (e). **Dispute Resolution**
+
+- (i). **‘Resolution Time’** means 5.00 p.m., CET, on the Local Business Day following the date on which the notice is given that gives rise to a dispute under Paragraph 4.
+
+- (ii). **‘Value.’** For the purpose of Paragraphs 4(a)(4)(i)(C) and 4(a)(4)(ii), the Value of the outstanding Credit Support Balance or of any transfer of Eligible Credit Support or Equivalent Credit Support, as the case may be, will be calculated as follows: Disputes over value will be resolved by the Valuation Agent seeking four bid quotes as of the relevant Valuation Date or date of Transfer from parties that regularly act as nationally recognised principal market makers in the securities or other property in question. The Value will be the arithmetic mean of the quotes received by the Valuation Agent multiplied by the applicable Valuation Percentage.
+
+- (iii). **‘Alternative.’** The provisions of Paragraph 4 will apply.
+
+- (f). **Distributions and Interest Amount**
+
+- (i). **Interest Rate.** The **‘Interest Rate’** with exception of the condition mentioned hereafter under (iv) will be EONIA. ‘EONIA’ for any day means the reference rate equal to the overnight rate as calculated on an actual / 360 day count by the European Central Bank and appearing on different publication media on the first TARGET Settlement Day following that day. For the purposes of this Annex, TARGET Settlement Day means any day on which the Trans-European Automated Real-Time Gross Settlement Express Transfer (TARGET2) System is open.
+
+- (ii). **Transfer of Interest Amount.** The transfer of the Interest Amount will be made on last Local Business Day of each calendar month and on any Local Business Day that a Return Amount consisting wholly or partly of cash is transferred to Party A pursuant to Paragraph 2(b).
+
+- (iii). **Alternative to Interest Amount.** The provisions in Paragraph 5(c)(ii) will apply.
+
+- (g). **Addresses for Transfers**
+
+- (i). **[In the case of securities:** Party A and Party B: **please complete** **in the case of cash:**]8Will apply when Paragraph 11(b)ii)(B) and (C) are elected. Directly by Target to **please complete**
+
+- (h). **Amendments to the Annex**
+
+- (i). The terms of Paragraph 4(a)(4)(i)(B) are amended in their entirety as follows: ‘(B) calculating that part of the Exposure attributable to the Transactions in dispute by seeking four actual quotations at mid-market from third parties for purposes of calculating the relevant Close-out Amount, and taking the arithmetic average of those obtained; provided that if four quotations are not available for a particular Transaction, then fewer than four quotations may be used for that Transaction, and if no quotations are available for a particular Transaction, then the Valuation Agent's original calculations will be used for the Transaction; and’
+
+- (ii). The terms of Paragraph 6 are amended to read in their entirety as follows: ‘If an Early Termination Date is designated or deemed to occur as a result of an Event of Default in relation to a party, an amount equal to the Value of the Credit Support Balance, determined as though the Early Termination Date were a Valuation Date, will be deemed to be an Unpaid Amount due to the Transferor (which may or may not be the Defaulting Party) for purposes of Section 6(e). For the avoidance of doubt, the Close-out Amount determined under Section 6(e) in relation to the Transaction constituted by this Annex will be deemed to be zero. For purposes of this Paragraph 6, the Value of the Credit Support Balance shall be determined on the basis that the Valuation Percentage applicable to each item of Eligible Credit Support is 100%.’
+
+- (iii). The term ‘Exposure’ in Paragraph 10 of the Annex is hereby amended to read in its entirety as follows: **‘Exposure’** means, with respect to a party on a Valuation Date and subject to Paragraph 4 in the case of a dispute, the amount, if any, that would be payable to that party by the other party (expressed as a positive number) or by that party to the other party (expressed as a negative number) pursuant to Section 6(e)(ii)(1) of this Agreement if all Transactions (other than the Transaction constituted by this Annex) were being terminated as of the relevant Valuation Time, on the basis that (i) that party is not the Affected Party and (ii) the Base Currency is the Termination Currency; provided that the Close-out Amount will be determined by the Valuation Agent on behalf of that party using its estimates at mid-market of the amounts that would be paid for transactions providing the economic equivalent of (x) the material terms of the Transactions, including the payments and deliveries by the parties under Section 2(a)(i) in respect of the Transactions that would, but for the occurrence of the relevant Early Termination Date, have been required after that date (assuming satisfaction of the conditions precedent in Section 2(a)(iii)); and (y) the option rights of the parties in respect of the Transactions.
+
+- (i). **Other Provisions**
+
+- (i). [All references in this annex to the ‘Transferee’ shall be read as references to Party B, and all corresponding references to the ‘Transferor’ shall be read as references to Party A.]9Will apply when Paragraph 11(b)(ii)(B) and (C) are elected.
+
+- (ii). **Minimum Transfer Amount.** Notwithstanding the provisions of Paragraph 11(b)(iii)(C), when the Credit Support Amount with respect to both parties on a Valuation Date is zero or provided, that if an Event of Default or Termination Event has occurred and is continuing, the Minimum Transfer Amount with respect to both parties will be zero.
+
+- (iii). [**‘Euro-zone’** means the region comprised of members states of the European Union that adopt the single currency in accordance to the EC Treaty (Treaty establishing the European Community (signed in Rome on 25th March, 1957), as amended by the Treaty on European Union (signed in Maastricht on 7th February, 1992).]10Will apply when Paragraph 11(b)(ii)(B) and (C) are elected.
+
+- (iv). **‘Local Business Day’** means TARGET Settlement Day.
+
+- (v). **‘Local Delivery Day’** means TARGET Settlement Day.
+
+- (vi). [**‘Approved Clearing System’** means the securities clearing system operated by Clearstream Banking S.A. or Euroclear System.]11Will apply when Paragraph 11(b)(ii)(B) and (C) are elected.
+
+- (vii). **Demands and Notices.** Paragraph 9(c) of this Annex shall be deleted in its entirety and replaced with the following: All demands and notices given by a party under this Annex will be given as specified hereunder with regard to: **Party A:** **please complete** **Party B:** **please complete**
+
+IN WITNESS WHEREOF the parties have executed this document on the respective dates specified below with effect from the date specified on the first page of this document.
+
+| Party A | Party B |
+| --- | --- |
+|   |   |
+| Date | Date |
+|   |   |
+| Signature | Signature |
+|   |   |
+| Name | Name |
+|   |   |
+| Function | Function |
+|   |   |
+
+## Bijlage 8. bij [artikel 22c](https://wetten.overheid.nl/jci1.3:c:BWBR0036709&hoofdstuk=III&afdeling=2a&artikel=22c&z=2017-01-01&g=2017-01-01) Regeling toegelaten instellingen volkshuisvesting 2015
+
+Verklaring gemeente bij het verhuren van minder dan 50% van de verhuureenheden aan vergunninghouders
+
+Het college van B&W van de gemeente ____________________, verder genoemd ‘college’, verklaart dat:
+
+- •. Het ervan op de hoogte is dat toegelaten instelling of samenwerkingsvennootschap __________________, of de met deze toegelaten instelling verbonden onderneming, verder genoemd ‘toegelaten instelling’, voornemens is in het gebouw aan adres ________________________________________, verder genoemd ‘gebouw’, in bezit van pandeigenaar ____________________, verder genoemd ‘pandeigenaar’ minder dan 50% van de aanwezige verhuureenheden te verhuren aan vergunninghouders;
+
+- •. Het college het voor het voldoen aan de taakstelling, bedoeld in [artikel 28 van de Huisvestingswet 2014](https://wetten.overheid.nl/jci1.3:c:BWBR0035303&artikel=28), niet nodig acht dat ten minste 50% van de verhuureenheden wordt verhuurd aan vergunninghouders.
+
+Datum: ____________________
+
+Handtekening: ________________________________________
+
+Naam: ____________________
+
+## Bijlage 9. bij [artikel 22d, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0036709&hoofdstuk=III&afdeling=2a&artikel=22d&z=2017-01-01&g=2017-01-01), Regeling toegelaten instellingen volkshuisvesting 2015
+
+Verklaring gemeente bij werkzaamheden door een toegelaten instelling of samenwerkingsvennootschap
+
+Het college van B&W van de gemeente ____________________, verder genoemd ‘college’, verklaart dat:
+
+- •. Zij op de hoogte is dat toegelaten instelling of samenwerkingsvennootschap __________________, verder genoemd ‘toegelaten instelling’, voornemens is om werkzaamheden te verrichten in het gebouw aan adres ________________________________________, verder genoemd ‘gebouw’, in bezit van pandeigenaar ____________________, verder genoemd ‘pandeigenaar’;
+
+- •. Zij ermee instemt dat de toegelaten instelling de werkzaamheden zoals opgenomen in de ontwerpovereenkomst tussen toegelaten instelling en de pandeigenaar van het betreffende gebouw, verricht;
+
+- •. Het gebouw gebruikt zal worden voor het huisvesten van vergunninghouders, ten minste voor de helft van de woongelegenheden, zolang dit nodig is op grond van de taakstelling zoals geldend op basis van de [Huisvestingswet 2014](https://wetten.overheid.nl/jci1.3:c:BWBR0035303);
+
+- •. Via algemene bekendmaking gedurende twee weken langs elektronische weg is nagegaan of anderen dan de toegelaten instelling werkzaamheden in het gebouw wensen te verrichten;
+
+- •. Die algemene bekendmaking in elke vorm en in elk medium dezelfde informatie bevatte, waaronder in elk geval een omschrijving van het bewuste gebouw, het startmoment en duur van de opdracht en de wijze waarop het gebouw na afloop van de opdracht dient te worden opgeleverd.
+
+Datum: ____________________
+
+Handtekening: ________________________________________
+
+Naam: ____________________
+
+## Bijlage 10. bij [artikel 22d, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0036709&hoofdstuk=III&afdeling=2a&artikel=22d&z=2017-01-01&g=2017-01-01), Regeling toegelaten instellingen volkshuisvesting 2015
 
 Verklaring gemeente bij werkzaamheden door een met een toegelaten instelling verbonden onderneming
 
