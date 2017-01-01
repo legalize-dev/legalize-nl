@@ -4,7 +4,7 @@ identifier: "BWBR0013342"
 country: "nl"
 rank: "rijks_kb"
 publication_date: "2017-01-01"
-last_updated: "2011-05-14"
+last_updated: "2017-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0013342"
 soort: "rijksKB"
@@ -47,6 +47,8 @@ Gezien het nader rapport van Onze Minister van Verkeer en Waterstaat van 4 janua
 De bepalingen van het Statuut voor het Koninkrijk in acht genomen zijnde;
 
 Hebben goedgevonden en verstaan:
+
+Het bepaalde in artikel 6.14, zesde lid, en artikel 6.15, eerste lid, tweede volzin, en vierde lid, voor vissersvaartuigen, gebouwd voor 23 november 1995, treedt in werking met ingang van 23 november 2002.
 
 ### Hoofdstuk 1. Algemene voorzieningen
 
@@ -138,7 +140,7 @@ In dit besluit en de daarop berustende bepalingen wordt, tenzij anders is bepaal
 
 ##### Artikel 1.2. Reikwijdte
 
-1. Dit besluit is, met uitzondering van de [artikelen 1.15](https://wetten.overheid.nl/jci1.3:c:BWBR0013342&hoofdstuk=1&artikel=1.15&z=2011-05-14&g=2011-05-14) en [12.1](https://wetten.overheid.nl/jci1.3:c:BWBR0013342&hoofdstuk=12&artikel=12.1&z=2011-05-14&g=2011-05-14), van toepassing op nieuwe en, voor zover uitdrukkelijk bepaald, bestaande vissersvaartuigen die zijn uitgerust of met commercieel oogmerk gebruikt worden voor het vangen van vis of andere levende rijkdommen van de zee, en waarvan de lengte 24 meter of meer bedraagt.
+1. Dit besluit is, met uitzondering van de [artikelen 1.15](https://wetten.overheid.nl/jci1.3:c:BWBR0013342&hoofdstuk=1&artikel=1.15&z=2017-01-01&g=2017-01-01) en [12.1](https://wetten.overheid.nl/jci1.3:c:BWBR0013342&hoofdstuk=12&artikel=12.1&z=2017-01-01&g=2017-01-01), van toepassing op nieuwe en, voor zover uitdrukkelijk bepaald, bestaande vissersvaartuigen die zijn uitgerust of met commercieel oogmerk gebruikt worden voor het vangen van vis of andere levende rijkdommen van de zee, en waarvan de lengte 24 meter of meer bedraagt.
 
 2. De normen voor het ontwerp, de bouw en het onderhoud van de romp, de hoofdmachines en hulpwerktuigen, alsmede de elektrische en automatische systemen van een vissersvaartuig zijn de voorschriften die op dat vaartuig van toepassing waren ten tijde van de bouw.
 
@@ -166,17 +168,17 @@ Met een goedkeuring door het Hoofd van de Scheepvaartinspectie wordt gelijkgeste
 
 1. Onze Minister wijst instanties aan waarvan de regels kunnen gelden als eisen als bedoeld in [artikel 3a, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0001876&artikel=3a).
 
-2. Voordat een eerste onderzoek als bedoeld in [artikel 1.12, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013342&hoofdstuk=1&artikel=1.12&z=2011-05-14&g=2011-05-14), plaatsvindt, kiest de eigenaar of de bouwer van een vissersvaartuig voor de regels van een ingevolge het eerste lid aangewezen instantie of voor de regels die door de Scheepvaartinspectie worden gebruikt.
+2. Voordat een eerste onderzoek als bedoeld in [artikel 1.12, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013342&hoofdstuk=1&artikel=1.12&z=2017-01-01&g=2017-01-01), plaatsvindt, kiest de eigenaar of de bouwer van een vissersvaartuig voor de regels van een ingevolge het eerste lid aangewezen instantie of voor de regels die door de Scheepvaartinspectie worden gebruikt.
 
-3. Bij onderzoeken als bedoeld in [artikel 1.12](https://wetten.overheid.nl/jci1.3:c:BWBR0013342&hoofdstuk=1&artikel=1.12&z=2011-05-14&g=2011-05-14) voldoet een vissersvaartuig met betrekking tot het ontwerp, de bouw en het onderhoud van de romp, de hoofdmachines en hulpwerktuigen alsmede de elektrische en automatische systemen, aan de regels van een ingevolge het eerste lid aangewezen instantie, of aan de regels die door de Scheepvaartinspectie worden gebruikt, voor zover deze regels niet in strijd zijn met het bepaalde bij of krachtens dit besluit.
+3. Bij onderzoeken als bedoeld in [artikel 1.12](https://wetten.overheid.nl/jci1.3:c:BWBR0013342&hoofdstuk=1&artikel=1.12&z=2017-01-01&g=2017-01-01) voldoet een vissersvaartuig met betrekking tot het ontwerp, de bouw en het onderhoud van de romp, de hoofdmachines en hulpwerktuigen alsmede de elektrische en automatische systemen, aan de regels van een ingevolge het eerste lid aangewezen instantie, of aan de regels die door de Scheepvaartinspectie worden gebruikt, voor zover deze regels niet in strijd zijn met het bepaalde bij of krachtens dit besluit.
 
 ##### Artikel 1.8. Certificaat van overeenstemming
 
 1. Een vissersvaartuig is voorzien van een certificaat van overeenstemming volgens het model, opgenomen in de bijlage bij dit besluit. Op verzoek kan het certificaat ook in de Engelse taal worden afgegeven.
 
-2. Een certificaat van overeenstemming wordt afgegeven indien uit een eerste onderzoek als bedoeld in [artikel 1.12, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013342&hoofdstuk=1&artikel=1.12&z=2011-05-14&g=2011-05-14), is gebleken dat het vissersvaartuig aan de voorschriften van dit besluit voldoet.
+2. Een certificaat van overeenstemming wordt afgegeven indien uit een eerste onderzoek als bedoeld in [artikel 1.12, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013342&hoofdstuk=1&artikel=1.12&z=2017-01-01&g=2017-01-01), is gebleken dat het vissersvaartuig aan de voorschriften van dit besluit voldoet.
 
-3. Een certificaat van overeenstemming wordt telkens vernieuwd indien uit een periodiek onderzoek als bedoeld in [artikel 1.12, tweede lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0013342&hoofdstuk=1&artikel=1.12&z=2011-05-14&g=2011-05-14), is gebleken dat het vissersvaartuig aan de voorschriften van dit besluit voldoet.
+3. Een certificaat van overeenstemming wordt telkens vernieuwd indien uit een periodiek onderzoek als bedoeld in [artikel 1.12, tweede lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0013342&hoofdstuk=1&artikel=1.12&z=2017-01-01&g=2017-01-01), is gebleken dat het vissersvaartuig aan de voorschriften van dit besluit voldoet.
 
 4. Het certificaat van overeenstemming gaat vergezeld van een inventaris van uitrusting volgens het model, opgenomen in de bijlage bij dit besluit.
 
@@ -186,7 +188,7 @@ Een certificaat van vrijstelling wordt afgegeven naast een certificaat van overe
 
 ##### Artikel 1.10. Geldigheidsduur van certificaten
 
-1. Een certificaat van overeenstemming heeft een geldigheidsduur van ten hoogste vier jaar en kan slechts voor de tijd van ten hoogste een jaar worden verlengd na een periodiek onderzoek als bedoeld in [artikel 1.12, tweede lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0013342&hoofdstuk=1&artikel=1.12&z=2011-05-14&g=2011-05-14), onverminderd het bepaalde in het derde en vijfde lid.
+1. Een certificaat van overeenstemming heeft een geldigheidsduur van ten hoogste vier jaar en kan slechts voor de tijd van ten hoogste een jaar worden verlengd na een periodiek onderzoek als bedoeld in [artikel 1.12, tweede lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0013342&hoofdstuk=1&artikel=1.12&z=2017-01-01&g=2017-01-01), onverminderd het bepaalde in het derde en vijfde lid.
 
 2. De geldigheidsduur van het certificaat van vrijstelling overschrijdt de geldigheidsduur van het certificaat van overeenstemming niet.
 
@@ -206,15 +208,15 @@ Een certificaat van vrijstelling wordt afgegeven naast een certificaat van overe
 
 ##### Artikel 1.12. Onderzoeken
 
-1. Een vissersvaartuig wordt onderworpen aan een eerste onderzoek voordat het in dienst wordt gesteld of voordat het certificaat van overeenstemming, bedoeld in [artikel 1.8](https://wetten.overheid.nl/jci1.3:c:BWBR0013342&hoofdstuk=1&artikel=1.8&z=2011-05-14&g=2011-05-14), voor het eerst wordt afgegeven. Het eerste onderzoek omvat een volledig onderzoek van de constructie, de stabiliteit, de machine-installaties, de algemene inrichting, het materiaal, met inbegrip van de romp van het vissersvaartuig aan de buitenzijde en het in- en uitwendige van de ketels en de uitrusting, voorzover het vissersvaartuig valt onder de voorschriften van dit besluit. Het onderzoek is zodanig dat het zeker is dat de algemene inrichting, het materiaal en de verbanddelen van de constructie, ketels en andere drukvaten met toebehoren, hoofd- en hulpwerktuigen, elektrische installaties, radio-installaties, met inbegrip van de radio-installaties die in de groepsreddingsmiddelen worden gebruikt, brandbescherming, brandveiligheidssystemen en brandveiligheidsmiddelen, reddingsmiddelen en reddingsvoorzieningen, hulpmiddelen bij de navigatie, nautische publicaties en andere uitrusting ten volle voldoen aan de eisen van dit besluit. Het onderzoek is tevens zodanig dat de technische uitvoering van alle delen van het vissersvaartuig en zijn uitrusting in alle opzichten bevredigend is en dat het vissersvaartuig is voorzien van lichten, middelen voor het geven van geluidsseinen en noodseinen zoals vereist krachtens de in het Europese deel van Nederland, in Aruba, in Curaçao, in Sint Maarten, onderscheidenlijk in de openbare lichamen Bonaire, Sint Eustatius en Saba geldende voorschriften die strekken ter uitvoering van de Internationale Bepalingen ter voorkoming van aanvaringen op zee, 1972, bedoeld in artikel 1 van het op 20 oktober 1972 te Londen tot stand gekomen Verdrag inzake de Internationale Bepalingen ter voorkoming van aanvaringen op zee, 1972 (Trb. 1972, 51). In het geval loodsladders worden meegevoerd, worden deze eveneens onderzocht teneinde zeker te stellen dat zij deugdelijk zijn en voldoen aan het daaromtrent bepaalde in de vorenbedoelde voorschriften van de Internationale Bepalingen ter voorkoming van aanvaringen op zee, 1972.
+1. Een vissersvaartuig wordt onderworpen aan een eerste onderzoek voordat het in dienst wordt gesteld of voordat het certificaat van overeenstemming, bedoeld in [artikel 1.8](https://wetten.overheid.nl/jci1.3:c:BWBR0013342&hoofdstuk=1&artikel=1.8&z=2017-01-01&g=2017-01-01), voor het eerst wordt afgegeven. Het eerste onderzoek omvat een volledig onderzoek van de constructie, de stabiliteit, de machine-installaties, de algemene inrichting, het materiaal, met inbegrip van de romp van het vissersvaartuig aan de buitenzijde en het in- en uitwendige van de ketels en de uitrusting, voorzover het vissersvaartuig valt onder de voorschriften van dit besluit. Het onderzoek is zodanig dat het zeker is dat de algemene inrichting, het materiaal en de verbanddelen van de constructie, ketels en andere drukvaten met toebehoren, hoofd- en hulpwerktuigen, elektrische installaties, radio-installaties, met inbegrip van de radio-installaties die in de groepsreddingsmiddelen worden gebruikt, brandbescherming, brandveiligheidssystemen en brandveiligheidsmiddelen, reddingsmiddelen en reddingsvoorzieningen, hulpmiddelen bij de navigatie, nautische publicaties en andere uitrusting ten volle voldoen aan de eisen van dit besluit. Het onderzoek is tevens zodanig dat de technische uitvoering van alle delen van het vissersvaartuig en zijn uitrusting in alle opzichten bevredigend is en dat het vissersvaartuig is voorzien van lichten, middelen voor het geven van geluidsseinen en noodseinen zoals vereist krachtens de in het Europese deel van Nederland, in Aruba, in Curaçao, in Sint Maarten, onderscheidenlijk in de openbare lichamen Bonaire, Sint Eustatius en Saba geldende voorschriften die strekken ter uitvoering van de Internationale Bepalingen ter voorkoming van aanvaringen op zee, 1972, bedoeld in artikel 1 van het op 20 oktober 1972 te Londen tot stand gekomen Verdrag inzake de Internationale Bepalingen ter voorkoming van aanvaringen op zee, 1972 (Trb. 1972, 51). In het geval loodsladders worden meegevoerd, worden deze eveneens onderzocht teneinde zeker te stellen dat zij deugdelijk zijn en voldoen aan het daaromtrent bepaalde in de vorenbedoelde voorschriften van de Internationale Bepalingen ter voorkoming van aanvaringen op zee, 1972.
 
 2. Een vissersvaartuig wordt onderworpen aan een periodiek onderzoek, dat bestaat uit:
 
-- a. elke vier jaar een inspectie van de constructie, met inbegrip van de buitenzijde van de romp, en de machine-installaties zoals bedoeld in de [hoofdstukken 2](https://wetten.overheid.nl/jci1.3:c:BWBR0013342&hoofdstuk=2&z=2011-05-14&g=2011-05-14), [3](https://wetten.overheid.nl/jci1.3:c:BWBR0013342&hoofdstuk=3&z=2011-05-14&g=2011-05-14), [4](https://wetten.overheid.nl/jci1.3:c:BWBR0013342&hoofdstuk=4&z=2011-05-14&g=2011-05-14), [5](https://wetten.overheid.nl/jci1.3:c:BWBR0013342&hoofdstuk=5&z=2011-05-14&g=2011-05-14) en [6](https://wetten.overheid.nl/jci1.3:c:BWBR0013342&hoofdstuk=6&z=2011-05-14&g=2011-05-14), met dien verstande dat overeenkomstig [artikel 1.10, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013342&hoofdstuk=1&artikel=1.10&z=2011-05-14&g=2011-05-14), de periode van vier jaar met een jaar kan worden verlengd, onder de voorwaarde dat het vissersvaartuig inwendig en uitwendig wordt onderzocht, voorzover dit redelijk en praktisch uitvoerbaar is;
+- a. elke vier jaar een inspectie van de constructie, met inbegrip van de buitenzijde van de romp, en de machine-installaties zoals bedoeld in de [hoofdstukken 2](https://wetten.overheid.nl/jci1.3:c:BWBR0013342&hoofdstuk=2&z=2017-01-01&g=2017-01-01), [3](https://wetten.overheid.nl/jci1.3:c:BWBR0013342&hoofdstuk=3&z=2017-01-01&g=2017-01-01), [4](https://wetten.overheid.nl/jci1.3:c:BWBR0013342&hoofdstuk=4&z=2017-01-01&g=2017-01-01), [5](https://wetten.overheid.nl/jci1.3:c:BWBR0013342&hoofdstuk=5&z=2017-01-01&g=2017-01-01) en [6](https://wetten.overheid.nl/jci1.3:c:BWBR0013342&hoofdstuk=6&z=2017-01-01&g=2017-01-01), met dien verstande dat overeenkomstig [artikel 1.10, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013342&hoofdstuk=1&artikel=1.10&z=2017-01-01&g=2017-01-01), de periode van vier jaar met een jaar kan worden verlengd, onder de voorwaarde dat het vissersvaartuig inwendig en uitwendig wordt onderzocht, voorzover dit redelijk en praktisch uitvoerbaar is;
 
-- b. elke twee jaar een inspectie van de uitrusting zoals bedoeld in de [hoofdstukken 2](https://wetten.overheid.nl/jci1.3:c:BWBR0013342&hoofdstuk=2&z=2011-05-14&g=2011-05-14), [3](https://wetten.overheid.nl/jci1.3:c:BWBR0013342&hoofdstuk=3&z=2011-05-14&g=2011-05-14), [4](https://wetten.overheid.nl/jci1.3:c:BWBR0013342&hoofdstuk=4&z=2011-05-14&g=2011-05-14), [5](https://wetten.overheid.nl/jci1.3:c:BWBR0013342&hoofdstuk=5&z=2011-05-14&g=2011-05-14), [6](https://wetten.overheid.nl/jci1.3:c:BWBR0013342&hoofdstuk=6&z=2011-05-14&g=2011-05-14), [7](https://wetten.overheid.nl/jci1.3:c:BWBR0013342&hoofdstuk=7&z=2011-05-14&g=2011-05-14) en [10](https://wetten.overheid.nl/jci1.3:c:BWBR0013342&hoofdstuk=10&z=2011-05-14&g=2011-05-14);
+- b. elke twee jaar een inspectie van de uitrusting zoals bedoeld in de [hoofdstukken 2](https://wetten.overheid.nl/jci1.3:c:BWBR0013342&hoofdstuk=2&z=2017-01-01&g=2017-01-01), [3](https://wetten.overheid.nl/jci1.3:c:BWBR0013342&hoofdstuk=3&z=2017-01-01&g=2017-01-01), [4](https://wetten.overheid.nl/jci1.3:c:BWBR0013342&hoofdstuk=4&z=2017-01-01&g=2017-01-01), [5](https://wetten.overheid.nl/jci1.3:c:BWBR0013342&hoofdstuk=5&z=2017-01-01&g=2017-01-01), [6](https://wetten.overheid.nl/jci1.3:c:BWBR0013342&hoofdstuk=6&z=2017-01-01&g=2017-01-01), [7](https://wetten.overheid.nl/jci1.3:c:BWBR0013342&hoofdstuk=7&z=2017-01-01&g=2017-01-01) en [10](https://wetten.overheid.nl/jci1.3:c:BWBR0013342&hoofdstuk=10&z=2017-01-01&g=2017-01-01);
 
-- c. een jaarlijkse inspectie van de medische uitrusting aan boord, met de daarbij behorende controlelijsten en handleidingen, bedoeld in de [artikelen 6.5](https://wetten.overheid.nl/jci1.3:c:BWBR0013342&hoofdstuk=6&artikel=6.5&z=2011-05-14&g=2011-05-14), [6.11](https://wetten.overheid.nl/jci1.3:c:BWBR0013342&hoofdstuk=6&artikel=6.11&z=2011-05-14&g=2011-05-14) en [6.12](https://wetten.overheid.nl/jci1.3:c:BWBR0013342&hoofdstuk=6&artikel=6.12&z=2011-05-14&g=2011-05-14), van de medicijnkisten aan boord van reddingsboten en hulpverleningsboten, bedoeld in [artikel 7.17, achtste lid, onder 20°](https://wetten.overheid.nl/jci1.3:c:BWBR0013342&hoofdstuk=7&paragraaf=3&artikel=7.17&z=2011-05-14&g=2011-05-14), onderscheidenlijk [artikel 7.23, tweede lid, onder 9°](https://wetten.overheid.nl/jci1.3:c:BWBR0013342&hoofdstuk=7&paragraaf=3&artikel=7.23&z=2011-05-14&g=2011-05-14), de radio-installaties, met inbegrip van de radio-installaties die in de groepsreddingsmiddelen worden gebruikt, en de radiorichtingzoeker, bedoeld in de [hoofdstukken 7](https://wetten.overheid.nl/jci1.3:c:BWBR0013342&hoofdstuk=7&z=2011-05-14&g=2011-05-14), [9](https://wetten.overheid.nl/jci1.3:c:BWBR0013342&hoofdstuk=9&z=2011-05-14&g=2011-05-14) en [10](https://wetten.overheid.nl/jci1.3:c:BWBR0013342&hoofdstuk=10&z=2011-05-14&g=2011-05-14).
+- c. een jaarlijkse inspectie van de medische uitrusting aan boord, met de daarbij behorende controlelijsten en handleidingen, bedoeld in de [artikelen 6.5](https://wetten.overheid.nl/jci1.3:c:BWBR0013342&hoofdstuk=6&artikel=6.5&z=2017-01-01&g=2017-01-01), [6.11](https://wetten.overheid.nl/jci1.3:c:BWBR0013342&hoofdstuk=6&artikel=6.11&z=2017-01-01&g=2017-01-01) en [6.12](https://wetten.overheid.nl/jci1.3:c:BWBR0013342&hoofdstuk=6&artikel=6.12&z=2017-01-01&g=2017-01-01), van de medicijnkisten aan boord van reddingsboten en hulpverleningsboten, bedoeld in [artikel 7.17, achtste lid, onder 20°](https://wetten.overheid.nl/jci1.3:c:BWBR0013342&hoofdstuk=7&paragraaf=3&artikel=7.17&z=2017-01-01&g=2017-01-01), onderscheidenlijk [artikel 7.23, tweede lid, onder 9°](https://wetten.overheid.nl/jci1.3:c:BWBR0013342&hoofdstuk=7&paragraaf=3&artikel=7.23&z=2017-01-01&g=2017-01-01), de radio-installaties, met inbegrip van de radio-installaties die in de groepsreddingsmiddelen worden gebruikt, en de radiorichtingzoeker, bedoeld in de [hoofdstukken 7](https://wetten.overheid.nl/jci1.3:c:BWBR0013342&hoofdstuk=7&z=2017-01-01&g=2017-01-01), [9](https://wetten.overheid.nl/jci1.3:c:BWBR0013342&hoofdstuk=9&z=2017-01-01&g=2017-01-01) en [10](https://wetten.overheid.nl/jci1.3:c:BWBR0013342&hoofdstuk=10&z=2017-01-01&g=2017-01-01).
 
 3. Het periodiek onderzoek is zodanig dat het zeker is dat alle onderdelen, genoemd in het tweede lid, voldoen aan de eisen van dit besluit, dat de uitrusting in een bevredigende toestand verkeert en dat de stabiliteitsgegevens aan boord onmiddellijk beschikbaar zijn.
 
@@ -230,7 +232,7 @@ De eigenaar en de schipper van het vissersvaartuig zijn verplicht aan degene die
 
 ##### Artikel 1.14. Handhaving van de toestand na onderzoek
 
-Nadat een onderzoek als bedoeld in [artikel 1.12](https://wetten.overheid.nl/jci1.3:c:BWBR0013342&hoofdstuk=1&artikel=1.12&z=2011-05-14&g=2011-05-14) is beëindigd:
+Nadat een onderzoek als bedoeld in [artikel 1.12](https://wetten.overheid.nl/jci1.3:c:BWBR0013342&hoofdstuk=1&artikel=1.12&z=2017-01-01&g=2017-01-01) is beëindigd:
 
 - 1°. worden de toestand van het vissersvaartuig en de uitrusting gehandhaafd in overeenstemming met het bepaalde bij of krachtens dit besluit, om zeker te stellen dat het vissersvaartuig in alle opzichten veilig blijft om zonder gevaar voor het vissersvaartuig en opvarenden naar zee te vertrekken;
 
@@ -256,7 +258,7 @@ Nadat een onderzoek als bedoeld in [artikel 1.12](https://wetten.overheid.nl/jci
 
 ##### Artikel 2.2. Waterdichte deuren
 
-1. Met inachtneming van het bepaalde in [artikel 2.1, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013342&hoofdstuk=2&artikel=2.1&z=2011-05-14&g=2011-05-14), is het aantal openingen in waterdichte schotten beperkt tot het minimum dat verenigbaar is met de algehele inrichting en de noodzakelijke voorzieningen ten behoeve van de werkzaamheden op het vissersvaartuig; openingen zijn ten genoegen van het Hoofd van de Scheepvaartinspectie voorzien van waterdichte afsluitmiddelen. Waterdichte deuren zijn van gelijke sterkte als de aangrenzende constructie zonder zulke openingen.
+1. Met inachtneming van het bepaalde in [artikel 2.1, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013342&hoofdstuk=2&artikel=2.1&z=2017-01-01&g=2017-01-01), is het aantal openingen in waterdichte schotten beperkt tot het minimum dat verenigbaar is met de algehele inrichting en de noodzakelijke voorzieningen ten behoeve van de werkzaamheden op het vissersvaartuig; openingen zijn ten genoegen van het Hoofd van de Scheepvaartinspectie voorzien van waterdichte afsluitmiddelen. Waterdichte deuren zijn van gelijke sterkte als de aangrenzende constructie zonder zulke openingen.
 
 2. Op vissersvaartuigen met een lengte van minder dan 45 m mogen waterdichte deuren van het draaibare type zijn, die ter plaatse aan beide zijden van de deur kunnen worden geopend en gesloten en die onder normale omstandigheden op zee gesloten blijven. Op de deur is aan beide zijden aangegeven dat deze op zee moet zijn gesloten.
 
@@ -296,7 +298,7 @@ In andere gevallen kunnen waterdichte deuren als draaideuren zijn uitgevoerd.
 
 ##### Artikel 2.6. Luikopeningen en de afsluiting daarvan door luiken van een ander materiaal dan hout
 
-1. De hoogte boven het dek van luikhoofden is uitgevoerd zoals aangegeven in [artikel 2.5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013342&hoofdstuk=2&artikel=2.5&z=2011-05-14&g=2011-05-14). Wanneer de ervaring in de praktijk zulks rechtvaardigt kan het Hoofd van de Scheepvaartinspectie toestaan dat de hoogte van de luikhoofden wordt verlaagd dan wel de luikhoofden geheel worden weggelaten, mits de veiligheid van het vissersvaartuig daardoor niet vermindert. In dat geval worden de luikopeningen zo klein als praktisch uitvoerbaar gehouden en zijn de luiken blijvend bevestigd door middel van scharnieren of naar het oordeel van het Hoofd van de Scheepvaartinspectie gelijkwaardige middelen en kunnen ze snel gesloten en vastgezet worden.
+1. De hoogte boven het dek van luikhoofden is uitgevoerd zoals aangegeven in [artikel 2.5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013342&hoofdstuk=2&artikel=2.5&z=2017-01-01&g=2017-01-01). Wanneer de ervaring in de praktijk zulks rechtvaardigt kan het Hoofd van de Scheepvaartinspectie toestaan dat de hoogte van de luikhoofden wordt verlaagd dan wel de luikhoofden geheel worden weggelaten, mits de veiligheid van het vissersvaartuig daardoor niet vermindert. In dat geval worden de luikopeningen zo klein als praktisch uitvoerbaar gehouden en zijn de luiken blijvend bevestigd door middel van scharnieren of naar het oordeel van het Hoofd van de Scheepvaartinspectie gelijkwaardige middelen en kunnen ze snel gesloten en vastgezet worden.
 
 2. Voor de berekening van de sterkte wordt aangenomen, dat luiken voor luikopeningen zijn onderworpen aan het gewicht van de lading die daarop wordt vervoerd of aan de hierna vermelde statische belasting, al naar gelang welke waarde groter is:
 
@@ -314,7 +316,7 @@ Voor tussenliggende waarden van de lengte worden de waarden voor de belasting do
 
 ##### Artikel 2.7. Openingen boven voortstuwingsruimten
 
-1. Openingen boven voortstuwingsruimten zijn rondom versterkt en omsloten door schachten van een sterkte gelijk aan die van de aangrenzende bovenbouw. Toegangsopeningen in dergelijke schachten zijn voorzien van deuren die voldoen aan het bepaalde in [artikel 2.4](https://wetten.overheid.nl/jci1.3:c:BWBR0013342&hoofdstuk=2&artikel=2.4&z=2011-05-14&g=2011-05-14).
+1. Openingen boven voortstuwingsruimten zijn rondom versterkt en omsloten door schachten van een sterkte gelijk aan die van de aangrenzende bovenbouw. Toegangsopeningen in dergelijke schachten zijn voorzien van deuren die voldoen aan het bepaalde in [artikel 2.4](https://wetten.overheid.nl/jci1.3:c:BWBR0013342&hoofdstuk=2&artikel=2.4&z=2017-01-01&g=2017-01-01).
 
 2. Openingen anders dan toegangsopeningen in dergelijke schachten zijn voorzien van gelijkwaardige, vast aangebrachte afsluitmiddelen en kunnen dicht tegen weer en wind worden afgesloten.
 
@@ -360,7 +362,7 @@ Voor tussenliggende waarden van de lengte worden de waarden voor de belasting do
 
 6. De voorzieningen voor peilen op de vullingen van laadruimten bestaan uit peilinrichtingen als bedoeld in het tweede lid, onderdeel a, c of d.
 
-7. Indien peilpijpen zijn aangebracht komen de uiteinden uit op een steeds toegankelijke plaats en, indien praktisch uitvoerbaar, boven het werkdek. De peilpijpen zijn voorzien van afsluitmiddelen die blijvend zijn bevestigd. Peilpijpen die niet tot boven het werkdek zijn opgetrokken zijn voorzien van zelfsluitende kranen. Indien de tanks brandbare vloeistoffen bevatten, wordt tevens voldaan aan het bepaalde in [artikel 4.10, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013342&hoofdstuk=4&paragraaf=2&artikel=4.10&z=2011-05-14&g=2011-05-14).
+7. Indien peilpijpen zijn aangebracht komen de uiteinden uit op een steeds toegankelijke plaats en, indien praktisch uitvoerbaar, boven het werkdek. De peilpijpen zijn voorzien van afsluitmiddelen die blijvend zijn bevestigd. Peilpijpen die niet tot boven het werkdek zijn opgetrokken zijn voorzien van zelfsluitende kranen. Indien de tanks brandbare vloeistoffen bevatten, wordt tevens voldaan aan het bepaalde in [artikel 4.10, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013342&hoofdstuk=4&paragraaf=2&artikel=4.10&z=2017-01-01&g=2017-01-01).
 
 8. Onder peilpijpen zijn stootplaatjes aangebracht.
 
@@ -384,7 +386,7 @@ Voor tussenliggende waarden van de lengte worden de waarden voor de belasting do
 
 ##### Artikel 2.13. Inlaat- en uitlaatopeningen
 
-1. De door het scheepsboord gaande afvoerpijpen van ruimten onder het werkdek of van ruimten in gesloten bovenbouwen of dekhuizen op het werkdek, voorzien van deuren die voldoen aan het bepaalde in [artikel 2.4](https://wetten.overheid.nl/jci1.3:c:BWBR0013342&hoofdstuk=2&artikel=2.4&z=2011-05-14&g=2011-05-14), zijn voorzien van doelmatige middelen ter voorkoming van het binnendringen van water. In het algemeen is elke afzonderlijke uitlaatopening voorzien van een terugslagklep met een inrichting door middel waarvan de klep in gesloten toestand rechtstreeks vanaf een toegankelijke plaats kan worden vastgezet. Een dergelijke klep is niet voorgeschreven indien het Hoofd van de Scheepvaartinspectie van oordeel is dat het binnendringen van water via de opening niet zal leiden tot een gevaarlijke situatie en dat de dikte van de leiding voldoende is. De inrichting voor het bedienen van de klep is uitgerust met een voorziening die aangeeft of de klep open of gesloten is.
+1. De door het scheepsboord gaande afvoerpijpen van ruimten onder het werkdek of van ruimten in gesloten bovenbouwen of dekhuizen op het werkdek, voorzien van deuren die voldoen aan het bepaalde in [artikel 2.4](https://wetten.overheid.nl/jci1.3:c:BWBR0013342&hoofdstuk=2&artikel=2.4&z=2017-01-01&g=2017-01-01), zijn voorzien van doelmatige middelen ter voorkoming van het binnendringen van water. In het algemeen is elke afzonderlijke uitlaatopening voorzien van een terugslagklep met een inrichting door middel waarvan de klep in gesloten toestand rechtstreeks vanaf een toegankelijke plaats kan worden vastgezet. Een dergelijke klep is niet voorgeschreven indien het Hoofd van de Scheepvaartinspectie van oordeel is dat het binnendringen van water via de opening niet zal leiden tot een gevaarlijke situatie en dat de dikte van de leiding voldoende is. De inrichting voor het bedienen van de klep is uitgerust met een voorziening die aangeeft of de klep open of gesloten is.
 
 2. In bemande ruimten voor machines mogen buitenboordsinlaatopeningen en -uitlaatopeningen die van belang zijn voor de werking van machines ter plaatse worden bediend. De bedieningen zijn toegankelijk en zijn voorzien van inrichtingen die aangeven of de afsluiters open of gesloten zijn.
 
@@ -426,7 +428,7 @@ Voor tussenliggende waarden van de lengte worden de waarden voor de belasting do
 
 2. Alle voor de visserijactiviteit nodige openingen zijn voorzien van middelen die door één persoon snel en doeltreffend kunnen worden afgesloten.
 
-3. Wanneer de vangst voor behandeling of verwerking op het werkdek wordt gebracht, wordt zij in een vangkamer geplaatst. De vangkamers voldoen aan het bepaalde in [artikel 3.11](https://wetten.overheid.nl/jci1.3:c:BWBR0013342&hoofdstuk=3&artikel=3.11&z=2011-05-14&g=2011-05-14). Er is een efficiënt afvoersysteem geïnstalleerd. Tevens wordt voorzien in een adequate bescherming tegen onverhoeds op het werkdek stromend water.
+3. Wanneer de vangst voor behandeling of verwerking op het werkdek wordt gebracht, wordt zij in een vangkamer geplaatst. De vangkamers voldoen aan het bepaalde in [artikel 3.11](https://wetten.overheid.nl/jci1.3:c:BWBR0013342&hoofdstuk=3&artikel=3.11&z=2017-01-01&g=2017-01-01). Er is een efficiënt afvoersysteem geïnstalleerd. Tevens wordt voorzien in een adequate bescherming tegen onverhoeds op het werkdek stromend water.
 
 4. De dekken zijn met ten minste twee afvoeropeningen uitgerust.
 
@@ -446,15 +448,15 @@ Voor tussenliggende waarden van de lengte worden de waarden voor de belasting do
 
 2. Indien de tanks eveneens voor het vervoer van droge lading worden gebruikt, zijn de tanks uitgerust met een lenssysteem en voorzien van adequate middelen om te voorkomen dat water uit het lenssysteem in de tanks terecht komt.
 
-##### Artikel 2.19. Toepasselijkheid van de [artikelen 2.16](https://wetten.overheid.nl/jci1.3:c:BWBR0013342&hoofdstuk=2&artikel=2.16&z=2011-05-14&g=2011-05-14), [2.17](https://wetten.overheid.nl/jci1.3:c:BWBR0013342&hoofdstuk=2&artikel=2.17&z=2011-05-14&g=2011-05-14) en [2.18](https://wetten.overheid.nl/jci1.3:c:BWBR0013342&hoofdstuk=2&artikel=2.18&z=2011-05-14&g=2011-05-14)
+##### Artikel 2.19. Toepasselijkheid van de [artikelen 2.16](https://wetten.overheid.nl/jci1.3:c:BWBR0013342&hoofdstuk=2&artikel=2.16&z=2017-01-01&g=2017-01-01), [2.17](https://wetten.overheid.nl/jci1.3:c:BWBR0013342&hoofdstuk=2&artikel=2.17&z=2017-01-01&g=2017-01-01) en [2.18](https://wetten.overheid.nl/jci1.3:c:BWBR0013342&hoofdstuk=2&artikel=2.18&z=2017-01-01&g=2017-01-01)
 
-De [artikelen 2.16](https://wetten.overheid.nl/jci1.3:c:BWBR0013342&hoofdstuk=2&artikel=2.16&z=2011-05-14&g=2011-05-14), [2.17](https://wetten.overheid.nl/jci1.3:c:BWBR0013342&hoofdstuk=2&artikel=2.17&z=2011-05-14&g=2011-05-14), [2.18](https://wetten.overheid.nl/jci1.3:c:BWBR0013342&hoofdstuk=2&artikel=2.18&z=2011-05-14&g=2011-05-14) zijn slechts van toepassing op Nederlandse vissersvaartuigen.
+De [artikelen 2.16](https://wetten.overheid.nl/jci1.3:c:BWBR0013342&hoofdstuk=2&artikel=2.16&z=2017-01-01&g=2017-01-01), [2.17](https://wetten.overheid.nl/jci1.3:c:BWBR0013342&hoofdstuk=2&artikel=2.17&z=2017-01-01&g=2017-01-01), [2.18](https://wetten.overheid.nl/jci1.3:c:BWBR0013342&hoofdstuk=2&artikel=2.18&z=2017-01-01&g=2017-01-01) zijn slechts van toepassing op Nederlandse vissersvaartuigen.
 
 ### Hoofdstuk 3. Stabiliteit en de daarmede verband houdende zeewaardigheid
 
 ##### Artikel 3.1. Algemeen
 
-Vissersvaartuigen zijn zo ontworpen en geconstrueerd dat aan de bepalingen van dit hoofdstuk wordt voldaan in de bedrijfsomstandigheden, bedoeld in [artikel 3.7](https://wetten.overheid.nl/jci1.3:c:BWBR0013342&hoofdstuk=3&artikel=3.7&z=2011-05-14&g=2011-05-14). Berekeningen van de krommen van de armen van statische stabiliteit zijn ten genoegen van het Hoofd van de Scheepvaartinspectie.
+Vissersvaartuigen zijn zo ontworpen en geconstrueerd dat aan de bepalingen van dit hoofdstuk wordt voldaan in de bedrijfsomstandigheden, bedoeld in [artikel 3.7](https://wetten.overheid.nl/jci1.3:c:BWBR0013342&hoofdstuk=3&artikel=3.7&z=2017-01-01&g=2017-01-01). Berekeningen van de krommen van de armen van statische stabiliteit zijn ten genoegen van het Hoofd van de Scheepvaartinspectie.
 
 ##### Artikel 3.2. Stabiliteitscriteria
 
@@ -474,11 +476,11 @@ Vissersvaartuigen zijn zo ontworpen en geconstrueerd dat aan de bepalingen van d
 
 ##### Artikel 3.3. Vervuld raken van visruimen
 
-Luikopeningen die tijdens het uitoefenen van visserijwerkzaamheden niet gesloten zijn en die niet snel gesloten kunnen worden, zijn zodanig aangebracht dat bij een hellingshoek van 20° of minder geen water de visruimen kan binnendringen, tenzij aan het bepaalde in [artikel 3.2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013342&hoofdstuk=3&artikel=3.2&z=2011-05-14&g=2011-05-14), nog steeds voldaan wordt wanneer die visruimen geheel of gedeeltelijk vervuld zijn geraakt.
+Luikopeningen die tijdens het uitoefenen van visserijwerkzaamheden niet gesloten zijn en die niet snel gesloten kunnen worden, zijn zodanig aangebracht dat bij een hellingshoek van 20° of minder geen water de visruimen kan binnendringen, tenzij aan het bepaalde in [artikel 3.2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013342&hoofdstuk=3&artikel=3.2&z=2017-01-01&g=2017-01-01), nog steeds voldaan wordt wanneer die visruimen geheel of gedeeltelijk vervuld zijn geraakt.
 
 ##### Artikel 3.4. Bijzondere vismethoden
 
-Vaartuigen die worden gebruikt voor bijzondere vismethoden waarbij extra krachten van buitenaf op het vissersvaartuig werken tijdens de visserijwerkzaamheden, voldoen ten minste aan de stabiliteitscriteria, bedoeld in [artikel 3.2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013342&hoofdstuk=3&artikel=3.2&z=2011-05-14&g=2011-05-14), die zo nodig bij ministeriële regeling kunnen worden uitgebreid.
+Vaartuigen die worden gebruikt voor bijzondere vismethoden waarbij extra krachten van buitenaf op het vissersvaartuig werken tijdens de visserijwerkzaamheden, voldoen ten minste aan de stabiliteitscriteria, bedoeld in [artikel 3.2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013342&hoofdstuk=3&artikel=3.2&z=2017-01-01&g=2017-01-01), die zo nodig bij ministeriële regeling kunnen worden uitgebreid.
 
 ##### Artikel 3.5. Harde wind en slingeren
 
@@ -500,7 +502,7 @@ Vissersvaartuigen zijn, ten genoegen van het Hoofd van de Scheepvaartinspectie, 
 
 - d. aankomst in de thuishaven met 10% bevoorrading, brandstof en een minimum vangst die normaal 20% van de volle vangst bedraagt, maar kan oplopen tot 40%, mits het Hoofd van de Scheepvaartinspectie van oordeel is dat bedrijfsomstandigheden een dergelijke waarde rechtvaardigen.
 
-2. In aanvulling op de specifieke bedrijfsomstandigheden, bedoeld in het eerste lid, wordt voldaan aan de minimum stabiliteitscriteria, zoals bepaald in [artikel 3.2](https://wetten.overheid.nl/jci1.3:c:BWBR0013342&hoofdstuk=3&artikel=3.2&z=2011-05-14&g=2011-05-14), bij alle andere te verwachten bedrijfsomstandigheden, met inbegrip van die welke de laagste waarden van de stabiliteitsparameters te zien geven en zijn vervat in deze criteria. Tevens wordt rekening gehouden met de bijzondere omstandigheden die verband houden met een wijziging van het doel waarvoor het vaartuig wordt gebruikt of van het vaargebied en die van invloed zijn op de stabiliteit.
+2. In aanvulling op de specifieke bedrijfsomstandigheden, bedoeld in het eerste lid, wordt voldaan aan de minimum stabiliteitscriteria, zoals bepaald in [artikel 3.2](https://wetten.overheid.nl/jci1.3:c:BWBR0013342&hoofdstuk=3&artikel=3.2&z=2017-01-01&g=2017-01-01), bij alle andere te verwachten bedrijfsomstandigheden, met inbegrip van die welke de laagste waarden van de stabiliteitsparameters te zien geven en zijn vervat in deze criteria. Tevens wordt rekening gehouden met de bijzondere omstandigheden die verband houden met een wijziging van het doel waarvoor het vaartuig wordt gebruikt of van het vaargebied en die van invloed zijn op de stabiliteit.
 
 3. Met betrekking tot de omstandigheden, bedoeld in het eerste lid, omvatten de berekeningen het volgende:
 
@@ -560,7 +562,7 @@ Ten genoegen van het Hoofd van de Scheepvaartinspectie is de boeghoogte toereike
 
 ##### Artikel 3.13. Maximum toelaatbare diepgang
 
-Aan het Hoofd van de Scheepvaartinspectie wordt een zodanige maximum toelaatbare diepgang ter goedkeuring voorgelegd dat onder de bijbehorende bedrijfsomstandigheden wordt voldaan aan de stabiliteitscriteria van dit hoofdstuk en aan de betreffende voorschriften zoals bepaald in de [hoofdstukken 2](https://wetten.overheid.nl/jci1.3:c:BWBR0013342&hoofdstuk=2&z=2011-05-14&g=2011-05-14) en [6](https://wetten.overheid.nl/jci1.3:c:BWBR0013342&hoofdstuk=6&z=2011-05-14&g=2011-05-14).
+Aan het Hoofd van de Scheepvaartinspectie wordt een zodanige maximum toelaatbare diepgang ter goedkeuring voorgelegd dat onder de bijbehorende bedrijfsomstandigheden wordt voldaan aan de stabiliteitscriteria van dit hoofdstuk en aan de betreffende voorschriften zoals bepaald in de [hoofdstukken 2](https://wetten.overheid.nl/jci1.3:c:BWBR0013342&hoofdstuk=2&z=2017-01-01&g=2017-01-01) en [6](https://wetten.overheid.nl/jci1.3:c:BWBR0013342&hoofdstuk=6&z=2017-01-01&g=2017-01-01).
 
 ##### Artikel 3.14. Waterdichte indeling en lekstabiliteit
 
@@ -636,9 +638,9 @@ Voor de toepassing van dit hoofdstuk wordt verstaan onder:
 
 - c. de veiligheid van bemanning en vaartuig tegen gevaren van elektrische aard is gewaarborgd.
 
-7. Ter uitvoering van het bepaalde in de [artikelen 4.16 tot en met 4.18](https://wetten.overheid.nl/jci1.3:c:BWBR0013342&hoofdstuk=4&paragraaf=3&artikel=4.16&z=2011-05-14&g=2011-05-14) kunnen bij ministeriële regeling nadere regels worden gesteld ten aanzien van elektrische installaties.
+7. Ter uitvoering van het bepaalde in de [artikelen 4.16 tot en met 4.18](https://wetten.overheid.nl/jci1.3:c:BWBR0013342&hoofdstuk=4&paragraaf=3&artikel=4.16&z=2017-01-01&g=2017-01-01) kunnen bij ministeriële regeling nadere regels worden gesteld ten aanzien van elektrische installaties.
 
-8. De [artikelen 4.19 tot en met 4.24](https://wetten.overheid.nl/jci1.3:c:BWBR0013342&hoofdstuk=4&paragraaf=4&artikel=4.19&z=2011-05-14&g=2011-05-14) zijn van toepassing op vissersvaartuigen met tijdelijk onbemande machinekamers, in aanvulling op het bepaalde in de [artikelen 4.3 tot en met 4.18](https://wetten.overheid.nl/jci1.3:c:BWBR0013342&hoofdstuk=4&paragraaf=1&artikel=4.3&z=2011-05-14&g=2011-05-14) en [5.1 tot en met 5.44](https://wetten.overheid.nl/jci1.3:c:BWBR0013342&hoofdstuk=5&paragraaf=1&artikel=5.1&z=2011-05-14&g=2011-05-14).
+8. De [artikelen 4.19 tot en met 4.24](https://wetten.overheid.nl/jci1.3:c:BWBR0013342&hoofdstuk=4&paragraaf=4&artikel=4.19&z=2017-01-01&g=2017-01-01) zijn van toepassing op vissersvaartuigen met tijdelijk onbemande machinekamers, in aanvulling op het bepaalde in de [artikelen 4.3 tot en met 4.18](https://wetten.overheid.nl/jci1.3:c:BWBR0013342&hoofdstuk=4&paragraaf=1&artikel=4.3&z=2017-01-01&g=2017-01-01) en [5.1 tot en met 5.44](https://wetten.overheid.nl/jci1.3:c:BWBR0013342&hoofdstuk=5&paragraaf=1&artikel=5.1&z=2017-01-01&g=2017-01-01).
 
 9. Er zijn zodanige voorzieningen getroffen, ten genoegen van het Hoofd van de Scheepvaartinspectie, dat verzekerd is dat de gehele machine-installatie onder alle omstandigheden, manoeuvreren inbegrepen, op betrouwbare wijze functioneert. In elk geval omvatten deze voorzieningen regelmatige inspecties en ronden teneinde de voortdurende betrouwbare werking van de machine-installatie te verzekeren.
 
@@ -694,7 +696,7 @@ Twee onafhankelijk werkende communicatiemiddelen zijn tussen het stuurhuis en de
 
 - 2°. de omwentelingssnelheid en de stand van de spoed in het geval het vaartuig is voorzien van verstelbare schroeven, en
 
-- 3°. het vooralarm, bedoeld in [artikel 4.4, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013342&hoofdstuk=4&paragraaf=2&artikel=4.4&z=2011-05-14&g=2011-05-14);
+- 3°. het vooralarm, bedoeld in [artikel 4.4, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013342&hoofdstuk=4&paragraaf=2&artikel=4.4&z=2017-01-01&g=2017-01-01);
 
 - f. kunnen, indien een storing optreedt in een onderdeel van het afstandsbedieningsysteem, de voortstuwingswerktuigen ter plaatse worden bediend;
 
@@ -734,11 +736,11 @@ Twee onafhankelijk werkende communicatiemiddelen zijn tussen het stuurhuis en de
 
 - b. Waar dit noodzakelijk is, zijn brandstofolie- en smeerolieleidingen, voor zover praktisch uitvoerbaar, afgeschermd of op andere wijze doeltreffend beveiligd teneinde olienevel of olielekkage op hete oppervlakken of in luchtinlaten van werktuigen te voorkomen. Het aantal koppelingen in pijpleidingen wordt tot een minimum beperkt.
 
-8. Voor zover dit praktisch uitvoerbaar is, maken de brandstofolietanks deel uit van de scheepsconstructie en zijn buiten de ruimten voor machines van categorie A als bedoeld in [artikel 5.2, veertiende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013342&hoofdstuk=5&paragraaf=1&artikel=5.2&z=2011-05-14&g=2011-05-14), gelegen. Wanneer brandstofolietanks, geen dubbele-bodemtanks zijnde, noodzakelijkerwijze naast of in ruimten voor machines van categorie A gelegen zijn, valt ten minste één van hun verticale zijden samen met de begrenzingwanden van de ruimte voor machines en hebben zij bij voorkeur een gemeenschappelijke begrenzingwand met dubbele-bodemtanks indien deze zijn aangebracht. De oppervlakte van de begrenzingwand tussen de tank en de ruimte voor machines is zo klein mogelijk. Wanneer dergelijke tanks gelegen zijn binnen de begrenzingwanden van ruimten voor machines van categorie A, mogen zij geen brandstofolie bevatten met een vlampunt dat lager is dan 60°C. Het gebruik van vrijstaande brandstofolietanks in brandgevaarlijke ruimten en in het bijzonder in ruimten voor machines van categorie A is in het algemeen niet toegestaan. Het Hoofd van de Scheepvaartinspectie kan echter de toepassing van vrijstaande brandstofolietanks toestaan. In dat geval zijn zij geplaatst in een lekbak van ruime afmetingen welke is voorzien van een afvoerleiding van voldoende afmetingen, welke naar een lekolietank leidt met voldoende capaciteit.
+8. Voor zover dit praktisch uitvoerbaar is, maken de brandstofolietanks deel uit van de scheepsconstructie en zijn buiten de ruimten voor machines van categorie A als bedoeld in [artikel 5.2, veertiende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013342&hoofdstuk=5&paragraaf=1&artikel=5.2&z=2017-01-01&g=2017-01-01), gelegen. Wanneer brandstofolietanks, geen dubbele-bodemtanks zijnde, noodzakelijkerwijze naast of in ruimten voor machines van categorie A gelegen zijn, valt ten minste één van hun verticale zijden samen met de begrenzingwanden van de ruimte voor machines en hebben zij bij voorkeur een gemeenschappelijke begrenzingwand met dubbele-bodemtanks indien deze zijn aangebracht. De oppervlakte van de begrenzingwand tussen de tank en de ruimte voor machines is zo klein mogelijk. Wanneer dergelijke tanks gelegen zijn binnen de begrenzingwanden van ruimten voor machines van categorie A, mogen zij geen brandstofolie bevatten met een vlampunt dat lager is dan 60°C. Het gebruik van vrijstaande brandstofolietanks in brandgevaarlijke ruimten en in het bijzonder in ruimten voor machines van categorie A is in het algemeen niet toegestaan. Het Hoofd van de Scheepvaartinspectie kan echter de toepassing van vrijstaande brandstofolietanks toestaan. In dat geval zijn zij geplaatst in een lekbak van ruime afmetingen welke is voorzien van een afvoerleiding van voldoende afmetingen, welke naar een lekolietank leidt met voldoende capaciteit.
 
 9. De ventilatie van ruimten voor machines is onder alle bedrijfsomstandigheden voldoende om opeenhoping van oliedampen te voorkomen.
 
-10. De inrichtingen voor de opslag, verdeling en het gebruik van olie voor smeeroliesystemen onder druk zijn ten genoegen van het Hoofd van de Scheepvaartinspectie. Indien deze inrichtingen zijn aangebracht in ruimten voor machines van categorie A als bedoeld in [artikel 5.2, veertiende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013342&hoofdstuk=5&paragraaf=1&artikel=5.2&z=2011-05-14&g=2011-05-14) en, indien praktisch uitvoerbaar, in andere ruimten voor machines, voldoen zij ten minste aan het eerste, derde, zesde en zevende lid en, voorzover dit naar het oordeel van het Hoofd van de Scheepvaartinspectie noodzakelijk is, aan het tweede en vierde lid. Het gebruik van kijkglazen in smeeroliesystemen is toegestaan mits door middel van een proef is aangetoond dat zij in voldoende mate brandbestendig zijn.
+10. De inrichtingen voor de opslag, verdeling en het gebruik van olie voor smeeroliesystemen onder druk zijn ten genoegen van het Hoofd van de Scheepvaartinspectie. Indien deze inrichtingen zijn aangebracht in ruimten voor machines van categorie A als bedoeld in [artikel 5.2, veertiende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013342&hoofdstuk=5&paragraaf=1&artikel=5.2&z=2017-01-01&g=2017-01-01) en, indien praktisch uitvoerbaar, in andere ruimten voor machines, voldoen zij ten minste aan het eerste, derde, zesde en zevende lid en, voorzover dit naar het oordeel van het Hoofd van de Scheepvaartinspectie noodzakelijk is, aan het tweede en vierde lid. Het gebruik van kijkglazen in smeeroliesystemen is toegestaan mits door middel van een proef is aangetoond dat zij in voldoende mate brandbestendig zijn.
 
 11. De inrichtingen voor de opslag, verdeling en het gebruik van ontvlambare oliën die onder druk worden toegepast in hydraulische systemen voor het overbrengen van vermogen en die geen oliën zijn als bedoeld in het voorgaande lid, alsmede van oliën die worden gebruikt in bedienings-, bekrachtigings- en verwarmingssystemen, zijn ten genoegen van het Hoofd van de Scheepvaartinspectie. Op plaatsen waar ontstekingsbronnen aanwezig zijn, voldoen dergelijke inrichtingen ten minste aan het tweede en zesde lid en ten aanzien van sterkte en constructie aan het derde en zevende lid.
 
@@ -826,9 +828,9 @@ Aan boord van een vaartuig met een lengte van 75 m of meer is een alarminstallat
 
 - a. Indien elektrische energie het enige middel vormt tot het onderhouden van de voor de voortstuwing en de veiligheid van het vaartuig onontbeerlijke hulpdiensten, is het vaartuig voorzien van een elektrische hoofdkrachtbron. Deze hoofdkrachtbron bestaat ten minste uit twee generatoraggregaten, waarbij één van de generatoren door de hoofdmotor mag worden aangedreven. Het Hoofd van de Scheepvaartinspectie kan andere middelen aanvaarden mits deze gelijkwaardige elektrische voorzieningen inhouden.
 
-- b. Het vermogen van de generatoren, bedoeld in het voorgaande lid, is zodanig dat, met uitzondering van het vermogen dat benodigd is voor het vissen, de verwerking en het conserveren van de vangst, de goede werking van de diensten, bedoeld in [artikel 4.3, zesde lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0013342&hoofdstuk=4&paragraaf=1&artikel=4.3&z=2011-05-14&g=2011-05-14), wordt verzekerd, indien één van de generatoraggregaten buiten bedrijf is gekomen. Indien echter op vaartuigen met een lengte van minder dan 45 m één generator buiten bedrijf is gekomen, is het slechts vereist dat de goede werking van de voor de voortstuwing en veiligheid van het vaartuig noodzakelijke diensten wordt verzekerd.
+- b. Het vermogen van de generatoren, bedoeld in het voorgaande lid, is zodanig dat, met uitzondering van het vermogen dat benodigd is voor het vissen, de verwerking en het conserveren van de vangst, de goede werking van de diensten, bedoeld in [artikel 4.3, zesde lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0013342&hoofdstuk=4&paragraaf=1&artikel=4.3&z=2017-01-01&g=2017-01-01), wordt verzekerd, indien één van de generatoraggregaten buiten bedrijf is gekomen. Indien echter op vaartuigen met een lengte van minder dan 45 m één generator buiten bedrijf is gekomen, is het slechts vereist dat de goede werking van de voor de voortstuwing en veiligheid van het vaartuig noodzakelijke diensten wordt verzekerd.
 
-- c. De elektrische hoofdkrachtbron van het vaartuig is zodanig ingericht dat de diensten, bedoeld in [artikel 4.3, zesde lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0013342&hoofdstuk=4&paragraaf=1&artikel=4.3&z=2011-05-14&g=2011-05-14), kunnen worden gehandhaafd, ongeacht het toerental en de draairichting van het voortstuwingswerktuig of de schroefas.
+- c. De elektrische hoofdkrachtbron van het vaartuig is zodanig ingericht dat de diensten, bedoeld in [artikel 4.3, zesde lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0013342&hoofdstuk=4&paragraaf=1&artikel=4.3&z=2017-01-01&g=2017-01-01), kunnen worden gehandhaafd, ongeacht het toerental en de draairichting van het voortstuwingswerktuig of de schroefas.
 
 - d. Indien transformatoren een essentieel onderdeel vormen van de stroomvoorziening, bedoeld in het eerste, tweede en derde lid, zijn deze zodanig ingericht dat dezelfde continuïteit van de stroomvoorziening verzekerd is.
 
@@ -844,13 +846,13 @@ Aan boord van een vaartuig met een lengte van 75 m of meer is een alarminstallat
 
 2. De elektrische noodkrachtbron is in staat om, rekening houdend met startstromen en inschakelverschijnselen van bepaalde verbruikers, gelijktijdig, gedurende 3 uur stroom te leveren aan:
 
-- a. de VHF radio-installatie, bedoeld in [artikel 9.6, eerste lid, onder a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0013342&hoofdstuk=9&paragraaf=2&artikel=9.6&z=2011-05-14&g=2011-05-14), en, indien van toepassing:
+- a. de VHF radio-installatie, bedoeld in [artikel 9.6, eerste lid, onder a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0013342&hoofdstuk=9&paragraaf=2&artikel=9.6&z=2017-01-01&g=2017-01-01), en, indien van toepassing:
 
-- 1°. de MF radio-installatie, bedoeld in [artikel 9.8, eerste lid, onder a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0013342&hoofdstuk=9&paragraaf=2&artikel=9.8&z=2011-05-14&g=2011-05-14), en [artikel 9.9, eerste lid, onder b en c](https://wetten.overheid.nl/jci1.3:c:BWBR0013342&hoofdstuk=9&paragraaf=2&artikel=9.9&z=2011-05-14&g=2011-05-14),
+- 1°. de MF radio-installatie, bedoeld in [artikel 9.8, eerste lid, onder a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0013342&hoofdstuk=9&paragraaf=2&artikel=9.8&z=2017-01-01&g=2017-01-01), en [artikel 9.9, eerste lid, onder b en c](https://wetten.overheid.nl/jci1.3:c:BWBR0013342&hoofdstuk=9&paragraaf=2&artikel=9.9&z=2017-01-01&g=2017-01-01),
 
-- 2°. het scheepssatellietstation, bedoeld in [artikel 9.9, eerste lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0013342&hoofdstuk=9&paragraaf=2&artikel=9.9&z=2011-05-14&g=2011-05-14), en
+- 2°. het scheepssatellietstation, bedoeld in [artikel 9.9, eerste lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0013342&hoofdstuk=9&paragraaf=2&artikel=9.9&z=2017-01-01&g=2017-01-01), en
 
-- 3°. de MF/HF radio-installatie, bedoeld in [artikel 9.9, tweede lid, onder a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0013342&hoofdstuk=9&paragraaf=2&artikel=9.9&z=2011-05-14&g=2011-05-14), en [artikel 9.10, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013342&hoofdstuk=9&paragraaf=2&artikel=9.10&z=2011-05-14&g=2011-05-14);
+- 3°. de MF/HF radio-installatie, bedoeld in [artikel 9.9, tweede lid, onder a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0013342&hoofdstuk=9&paragraaf=2&artikel=9.9&z=2017-01-01&g=2017-01-01), en [artikel 9.10, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013342&hoofdstuk=9&paragraaf=2&artikel=9.10&z=2017-01-01&g=2017-01-01);
 
 - b. interne communicatiemiddelen, brandontdekkingsinstallaties en alarmsignaleringen die in geval van nood zijn vereist;
 
@@ -932,7 +934,7 @@ Ten aanzien van Nederlandse vissersvaartuigen geldt dat de elektrische noodkrach
 
 - g. Leidingen die in koelruimten zijn aangebracht zijn geschikt voor gebruik bij lage temperaturen en bij een hoge vochtigheidsgraad.
 
-- a. Iedere afzonderlijke stroomkring is tegen kortsluiting beveiligd. Iedere afzonderlijke stroomkring is tevens tegen overbelasting beveiligd, uitgezonderd de stroomkringen, bedoeld in [artikel 4.13](https://wetten.overheid.nl/jci1.3:c:BWBR0013342&hoofdstuk=4&paragraaf=2&artikel=4.13&z=2011-05-14&g=2011-05-14).
+- a. Iedere afzonderlijke stroomkring is tegen kortsluiting beveiligd. Iedere afzonderlijke stroomkring is tevens tegen overbelasting beveiligd, uitgezonderd de stroomkringen, bedoeld in [artikel 4.13](https://wetten.overheid.nl/jci1.3:c:BWBR0013342&hoofdstuk=4&paragraaf=2&artikel=4.13&z=2017-01-01&g=2017-01-01).
 
 - b. De waarde of afstelling van het overbelastingsrelais voor elke stroomkring is permanent aangegeven ter plaatse van het betreffende relais.
 
@@ -982,7 +984,7 @@ Ten aanzien van Nederlandse vissersvaartuigen geldt dat de elektrische noodkrach
 
 **Brandbestrijding**
 
-8. Er is een vast aangebrachte brandblusinstallatie die ten genoegen is van het Hoofd van de Scheepvaartinspectie en die voldoet aan het bepaalde in de [artikelen 5.22](https://wetten.overheid.nl/jci1.3:c:BWBR0013342&hoofdstuk=5&paragraaf=2&artikel=5.22&z=2011-05-14&g=2011-05-14) en [5.40](https://wetten.overheid.nl/jci1.3:c:BWBR0013342&hoofdstuk=5&paragraaf=3&artikel=5.40&z=2011-05-14&g=2011-05-14).
+8. Er is een vast aangebrachte brandblusinstallatie die ten genoegen is van het Hoofd van de Scheepvaartinspectie en die voldoet aan het bepaalde in de [artikelen 5.22](https://wetten.overheid.nl/jci1.3:c:BWBR0013342&hoofdstuk=5&paragraaf=2&artikel=5.22&z=2017-01-01&g=2017-01-01) en [5.40](https://wetten.overheid.nl/jci1.3:c:BWBR0013342&hoofdstuk=5&paragraaf=3&artikel=5.40&z=2017-01-01&g=2017-01-01).
 
 9. Aan boord van een vaartuig waarvan de lengte 75 m of meer bedraagt, zijn voorzieningen getroffen voor een onmiddellijke waterlevering uit de hoofdbrandblusleiding, hetzij:
 
@@ -990,7 +992,7 @@ Ten aanzien van Nederlandse vissersvaartuigen geldt dat de elektrische noodkrach
 
 - b. door middel van het voortdurend onder druk houden van de hoofdbrandblusleiding, met dien verstande dat in dat geval voorzieningen zijn getroffen teneinde beschadiging van de hoofdbrandblusleiding door bevriezing te voorkomen.
 
-10. Het onderhoud van de brandwerendheid van de ruimten voor machines, van de plaats waar de bedieningsapparatuur van de brandblusinstallatie is samengebracht en van het veiligheidssysteem als bedoeld in [artikel 4.24](https://wetten.overheid.nl/jci1.3:c:BWBR0013342&hoofdstuk=4&paragraaf=4&artikel=4.24&z=2011-05-14&g=2011-05-14), met inbegrip van ventilatie en brandstofpompen, is ten genoegen van het Hoofd van de Scheepvaartinspectie. Onverminderd het bepaalde in [hoofdstuk 5](https://wetten.overheid.nl/jci1.3:c:BWBR0013342&hoofdstuk=5&z=2011-05-14&g=2011-05-14) kan het Hoofd van de Scheepvaartinspectie daartoe aanvullende brandblustoestellen, brandbestrijdingsmiddelen alsmede persluchttoestellen voorschrijven.
+10. Het onderhoud van de brandwerendheid van de ruimten voor machines, van de plaats waar de bedieningsapparatuur van de brandblusinstallatie is samengebracht en van het veiligheidssysteem als bedoeld in [artikel 4.24](https://wetten.overheid.nl/jci1.3:c:BWBR0013342&hoofdstuk=4&paragraaf=4&artikel=4.24&z=2017-01-01&g=2017-01-01), met inbegrip van ventilatie en brandstofpompen, is ten genoegen van het Hoofd van de Scheepvaartinspectie. Onverminderd het bepaalde in [hoofdstuk 5](https://wetten.overheid.nl/jci1.3:c:BWBR0013342&hoofdstuk=5&z=2017-01-01&g=2017-01-01) kan het Hoofd van de Scheepvaartinspectie daartoe aanvullende brandblustoestellen, brandbestrijdingsmiddelen alsmede persluchttoestellen voorschrijven.
 
 ##### Artikel 4.20. Beveiliging tegen vervuld raken
 
@@ -1000,7 +1002,7 @@ Ten aanzien van Nederlandse vissersvaartuigen geldt dat de elektrische noodkrach
 
 ##### Artikel 4.21. Verbindingen
 
-Aan boord van een vaartuig met een lengte van 75 m of meer is één van de twee afzonderlijke communicatiemiddelen, bedoeld in [artikel 4.7](https://wetten.overheid.nl/jci1.3:c:BWBR0013342&hoofdstuk=4&paragraaf=2&artikel=4.7&z=2011-05-14&g=2011-05-14), een doeltreffende spreekverbinding. Een aanvullende doeltreffende spreekverbinding is aangebracht tussen het stuurhuis en de verblijven van de werktuigkundigen.
+Aan boord van een vaartuig met een lengte van 75 m of meer is één van de twee afzonderlijke communicatiemiddelen, bedoeld in [artikel 4.7](https://wetten.overheid.nl/jci1.3:c:BWBR0013342&hoofdstuk=4&paragraaf=2&artikel=4.7&z=2017-01-01&g=2017-01-01), een doeltreffende spreekverbinding. Een aanvullende doeltreffende spreekverbinding is aangebracht tussen het stuurhuis en de verblijven van de werktuigkundigen.
 
 ##### Artikel 4.22. Alarminstallatie
 
@@ -1042,7 +1044,7 @@ Aan boord van een vaartuig met een lengte van 75 m of meer is één van de twee 
 
 - b. voorzieningen zijn getroffen om de aanzetluchtdruk op het vereiste niveau te houden wanneer verbrandingsmotoren voor de voortstuwing worden gebruikt,
 
-- c. een alarmsysteem dat voldoet aan het bepaalde in [artikel 4.22](https://wetten.overheid.nl/jci1.3:c:BWBR0013342&hoofdstuk=4&paragraaf=4&artikel=4.22&z=2011-05-14&g=2011-05-14) is aangebracht voor alle belangrijke drukken, temperaturen, vloeistofniveaus en andere van belang zijnde parameters, en
+- c. een alarmsysteem dat voldoet aan het bepaalde in [artikel 4.22](https://wetten.overheid.nl/jci1.3:c:BWBR0013342&hoofdstuk=4&paragraaf=4&artikel=4.22&z=2017-01-01&g=2017-01-01) is aangebracht voor alle belangrijke drukken, temperaturen, vloeistofniveaus en andere van belang zijnde parameters, en
 
 - d. indien van toepassing is een centrale post ingericht met de noodzakelijke alarm- en instrumentenpanelen, welke elk alarm kunnen aangeven.
 
@@ -1124,7 +1126,7 @@ Voor de toepassing van dit hoofdstuk wordt verstaan onder:
 
 - 15. **ruimten voor machines:** alle ruimten voor machines van categorie A en alle andere ruimten waarin voortstuwingswerktuigen, ketels, oliestookinrichtingen, stoommachines, verbrandingsmotoren en gasturbines, generatoren, stuurinrichtingen, belangrijke elektrische werktuigen, olielaadstations, koelmachine-installaties, stabilisatie-inrichtingen, luchtverversings- en luchtbehandelinginstallaties zijn ondergebracht en soortgelijke ruimten, alsmede de bijbehorende schachten.
 
-#### § 2. Brandbeveiligingsmaatregelen op vaartuigen waarvan de lengte 60 m of meer bedraagt
+#### § 1. Algemeen
 
 ##### Artikel 5.3. Constructie
 
@@ -1146,9 +1148,9 @@ Voor de toepassing van dit hoofdstuk wordt verstaan onder:
 
 2. **Methode IF:** alle schotten die niet ingevolge het bepaalde in dit artikel of andere artikelen van deze paragraaf van klasse« A» of «B» zijn, zijn ten minste schotten van klasse« C».
 
-3. **Methode IIF:** de constructie van schotten die niet ingevolge het bepaalde in dit artikel of andere artikelen van deze paragraaf van klasse «A» of «B» zijn, is niet aan beperking onderworpen, behoudens in die gevallen waarin schotten van klasse «C» zijn vereist overeenkomstig tabel 1 in [artikel 5.7](https://wetten.overheid.nl/jci1.3:c:BWBR0013342&hoofdstuk=5&paragraaf=2&artikel=5.7&z=2011-05-14&g=2011-05-14).
+3. **Methode IIF:** de constructie van schotten die niet ingevolge het bepaalde in dit artikel of andere artikelen van deze paragraaf van klasse «A» of «B» zijn, is niet aan beperking onderworpen, behoudens in die gevallen waarin schotten van klasse «C» zijn vereist overeenkomstig tabel 1 in [artikel 5.7](https://wetten.overheid.nl/jci1.3:c:BWBR0013342&hoofdstuk=5&paragraaf=2&artikel=5.7&z=2017-01-01&g=2017-01-01).
 
-4. **Methode IIIF:** de constructie van schotten die niet ingevolge het bepaalde in dit artikel of andere artikelen van deze paragraaf van klasse «A» of «B» zijn, is niet aan beperkingen onderworpen. De oppervlakte van enige ruimte of ruimten voor accommodatie die door een doorlopend schot van klasse «A» of «B» worden begrensd, bedraagt in geen geval meer dan 50 m2, behoudens in die gevallen waarin schotten van klasse «C» zijn vereist overeenkomstig tabel 1 in [artikel 5.7](https://wetten.overheid.nl/jci1.3:c:BWBR0013342&hoofdstuk=5&paragraaf=2&artikel=5.7&z=2011-05-14&g=2011-05-14). Het Hoofd van de Scheepvaartinspectie kan voor ruimten voor algemeen gebruik echter een grotere oppervlakte toestaan.
+4. **Methode IIIF:** de constructie van schotten die niet ingevolge het bepaalde in dit artikel of andere artikelen van deze paragraaf van klasse «A» of «B» zijn, is niet aan beperkingen onderworpen. De oppervlakte van enige ruimte of ruimten voor accommodatie die door een doorlopend schot van klasse «A» of «B» worden begrensd, bedraagt in geen geval meer dan 50 m2, behoudens in die gevallen waarin schotten van klasse «C» zijn vereist overeenkomstig tabel 1 in [artikel 5.7](https://wetten.overheid.nl/jci1.3:c:BWBR0013342&hoofdstuk=5&paragraaf=2&artikel=5.7&z=2017-01-01&g=2017-01-01). Het Hoofd van de Scheepvaartinspectie kan voor ruimten voor algemeen gebruik echter een grotere oppervlakte toestaan.
 
 ##### Artikel 5.5. Bescherming van trappen en liftschachten in ruimten voor accommodatie, dienstruimten en controlestations
 
@@ -1196,7 +1198,7 @@ Voor de toepassing van dit hoofdstuk wordt verstaan onder:
 
 - 3°. Ruimten voor accommodatie (3):
 
-- –. ruimten als bedoeld in [artikel 5.2, de onderdelen 10 en 11](https://wetten.overheid.nl/jci1.3:c:BWBR0013342&hoofdstuk=5&paragraaf=1&artikel=5.2&z=2011-05-14&g=2011-05-14), met uitzondering van gangen.
+- –. ruimten als bedoeld in [artikel 5.2, de onderdelen 10 en 11](https://wetten.overheid.nl/jci1.3:c:BWBR0013342&hoofdstuk=5&paragraaf=1&artikel=5.2&z=2017-01-01&g=2017-01-01), met uitzondering van gangen.
 
 - 4°. Trappen (4):
 
@@ -1208,11 +1210,11 @@ Voor de toepassing van dit hoofdstuk wordt verstaan onder:
 
 - 6°. Ruimten voor machines van categorie A (6):
 
-- –. ruimten als bedoeld in [artikel 5.2, onderdeel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0013342&hoofdstuk=5&paragraaf=1&artikel=5.2&z=2011-05-14&g=2011-05-14).
+- –. ruimten als bedoeld in [artikel 5.2, onderdeel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0013342&hoofdstuk=5&paragraaf=1&artikel=5.2&z=2017-01-01&g=2017-01-01).
 
 - 7°. Andere ruimten voor machines (7):
 
-- –. ruimten als bedoeld in [artikel 5.2, onderdeel 15](https://wetten.overheid.nl/jci1.3:c:BWBR0013342&hoofdstuk=5&paragraaf=1&artikel=5.2&z=2011-05-14&g=2011-05-14), alsmede ruimten waar vis tot vismeel wordt verwerkt, doch met uitzondering van ruimten voor machines van categorie A.
+- –. ruimten als bedoeld in [artikel 5.2, onderdeel 15](https://wetten.overheid.nl/jci1.3:c:BWBR0013342&hoofdstuk=5&paragraaf=1&artikel=5.2&z=2017-01-01&g=2017-01-01), alsmede ruimten waar vis tot vismeel wordt verwerkt, doch met uitzondering van ruimten voor machines van categorie A.
 
 - 8°. Laadruimten (8):
 
@@ -1268,7 +1270,7 @@ a) Bij de brandbescherming volgens methode IIF en IIIF worden geen bijzondere ei
 
 b) Bij de toepassing van methode IIIF moeten schotten van klasse «B-0» zijn aangebracht tussen ruimten of groepen van ruimten met een oppervlakte van 50 m2 of meer.
 
-c) Ter verduidelijking van hetgeen van toepassing is, zie de [artikelen 5.4](https://wetten.overheid.nl/jci1.3:c:BWBR0013342&hoofdstuk=5&paragraaf=2&artikel=5.4&z=2011-05-14&g=2011-05-14) en [5.5](https://wetten.overheid.nl/jci1.3:c:BWBR0013342&hoofdstuk=5&paragraaf=2&artikel=5.5&z=2011-05-14&g=2011-05-14).
+c) Ter verduidelijking van hetgeen van toepassing is, zie de [artikelen 5.4](https://wetten.overheid.nl/jci1.3:c:BWBR0013342&hoofdstuk=5&paragraaf=2&artikel=5.4&z=2017-01-01&g=2017-01-01) en [5.5](https://wetten.overheid.nl/jci1.3:c:BWBR0013342&hoofdstuk=5&paragraaf=2&artikel=5.5&z=2017-01-01&g=2017-01-01).
 
 d) Indien ruimten onder dezelfde nummercategorie vallen en de letter d staat vermeld, wordt een schot of dek met een brandwerendheid zoals aangegeven in de tabellen, alleen geëist indien de aan elkaar grenzende ruimten voor verschillende doeleinden dienen, zoals bijvoorbeeld in categorie (9). Indien twee kombuizen aan elkaar grenzen, worden aan het schot geen eisen gesteld, doch indien een kombuis aan een verfhut grenst, is een schot van klasse «A-0» vereist.
 
@@ -1288,7 +1290,7 @@ f) Brandisolatie hoeft niet te worden aangebracht indien de ruimte voor machines
 
 - c. schijnlichten als bedoeld onder a zijn voorzien van draadglas.
 
-5. In de buitenste begrenzingswanden die ingevolge het bepaalde in [artikel 5.3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013342&hoofdstuk=5&paragraaf=2&artikel=5.3&z=2011-05-14&g=2011-05-14), van staal of ander gelijkwaardig materiaal zijn, mogen ramen en patrijspoorten zijn aangebracht, mits niet elders in deze paragraaf is voorgeschreven dat zodanige begrenzingswanden een brandwerendheid van klasse« A» hebben. Evenzo mogen deuren in dergelijke begrenzingswanden die geen brandwerendheid van klasse «A» behoeven te hebben, zijn vervaardigd van materialen die ten genoegen van het Hoofd van de Scheepvaartinspectie zijn.
+5. In de buitenste begrenzingswanden die ingevolge het bepaalde in [artikel 5.3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013342&hoofdstuk=5&paragraaf=2&artikel=5.3&z=2017-01-01&g=2017-01-01), van staal of ander gelijkwaardig materiaal zijn, mogen ramen en patrijspoorten zijn aangebracht, mits niet elders in deze paragraaf is voorgeschreven dat zodanige begrenzingswanden een brandwerendheid van klasse« A» hebben. Evenzo mogen deuren in dergelijke begrenzingswanden die geen brandwerendheid van klasse «A» behoeven te hebben, zijn vervaardigd van materialen die ten genoegen van het Hoofd van de Scheepvaartinspectie zijn.
 
 ##### Artikel 5.8. Constructiedetails
 
@@ -1354,11 +1356,11 @@ In de gangen en in ingesloten ruimten voor trappen die toegang geven tot ruimten
 
 1. Elektrische verwarmingstoestellen zijn vast opgesteld en zijn zo ingericht dat het brandgevaar tot een minimum is beperkt. Deze toestellen mogen niet zijn voorzien van een verwarmingselement dat kleding, gordijnen of andere soortgelijke materialen in de directe omgeving kan doen schroeien of in brand doen geraken door de hitte van het element.
 
-2. Verwarming door middel van open vuur is niet toegestaan. Verwarmingskachels en andere soortgelijke apparaten zijn deugdelijk bevestigd en zij zijn onder, rondom en ter hoogte van de schoorsteenoploop voorzien van voldoende bescherming en isolatie tegen brand. Schoorsteenoplopen van kachels die vaste brandstof verstoken, zijn zo ingericht en ontworpen dat de kans op verstopt raken door verbrandingsproducten tot een minimum wordt beperkt en zijn uitgerust met een toegankelijke voorziening om schoon te maken. Kleppen om de schoorsteentrek te regelen hebben bij de gesloten stand nog enige doorlaat. Ruimten waarin kachels zijn geplaatst zijn voorzien van ventilatoren met voldoende doortocht om te kunnen voorzien in voldoende verbrandingslucht voor de kachel. Dergelijke ventilatoren mogen niet zijn uitgerust met een afsluitmiddel en hun opstelling is zodanig dat afsluitmiddelen die voldoen aan het bepaalde in [artikel 2.9](https://wetten.overheid.nl/jci1.3:c:BWBR0013342&hoofdstuk=2&artikel=2.9&z=2011-05-14&g=2011-05-14) niet vereist zijn.
+2. Verwarming door middel van open vuur is niet toegestaan. Verwarmingskachels en andere soortgelijke apparaten zijn deugdelijk bevestigd en zij zijn onder, rondom en ter hoogte van de schoorsteenoploop voorzien van voldoende bescherming en isolatie tegen brand. Schoorsteenoplopen van kachels die vaste brandstof verstoken, zijn zo ingericht en ontworpen dat de kans op verstopt raken door verbrandingsproducten tot een minimum wordt beperkt en zijn uitgerust met een toegankelijke voorziening om schoon te maken. Kleppen om de schoorsteentrek te regelen hebben bij de gesloten stand nog enige doorlaat. Ruimten waarin kachels zijn geplaatst zijn voorzien van ventilatoren met voldoende doortocht om te kunnen voorzien in voldoende verbrandingslucht voor de kachel. Dergelijke ventilatoren mogen niet zijn uitgerust met een afsluitmiddel en hun opstelling is zodanig dat afsluitmiddelen die voldoen aan het bepaalde in [artikel 2.9](https://wetten.overheid.nl/jci1.3:c:BWBR0013342&hoofdstuk=2&artikel=2.9&z=2017-01-01&g=2017-01-01) niet vereist zijn.
 
 3. Toestellen met een open gasvlam, met uitzondering van kookkachels en waterverwarmers, zijn niet toegestaan. Ruimten waarin dergelijke kachels en waterverwarmers zijn geplaatst, zijn voorzien van voldoende ventilatie om dampen en mogelijke gaslekkage naar een veilige plaats af te voeren. Alle leidingen waardoor het gas vanaf het drukvat naar de kachel of waterverwarmer wordt geleid, zijn van staal of een ander goedgekeurd materiaal. Er zijn automatische veiligheidsinrichtingen voor het afsluiten van de gastoevoer aangebracht, die in werking treden bij drukverlies in de hoofdgasleiding of in het geval van vlamstoring bij elk toestel.
 
-4. Indien propaan of butaan wordt gebruikt voor huishoudelijke doeleinden zijn de inrichting, de opslag, de distributie en het gebruik van de brandstof ten genoegen van het Hoofd van de Scheepvaartinspectie en voldoen zij aan het bepaalde in [artikel 5.12](https://wetten.overheid.nl/jci1.3:c:BWBR0013342&hoofdstuk=5&paragraaf=2&artikel=5.12&z=2011-05-14&g=2011-05-14).
+4. Indien propaan of butaan wordt gebruikt voor huishoudelijke doeleinden zijn de inrichting, de opslag, de distributie en het gebruik van de brandstof ten genoegen van het Hoofd van de Scheepvaartinspectie en voldoen zij aan het bepaalde in [artikel 5.12](https://wetten.overheid.nl/jci1.3:c:BWBR0013342&hoofdstuk=5&paragraaf=2&artikel=5.12&z=2017-01-01&g=2017-01-01).
 
 ##### Artikel 5.11. Diversen
 
@@ -1510,19 +1512,19 @@ Laadruimten die bestemd zijn voor ladingen die in hoge mate brandgevaarlijk zijn
 
 - a. De brandbluspompen, de noodbrandbluspomp uitgezonderd, zijn in staat voor brandblusdoeleinden een totale hoeveelheid water te leveren met een minimum druk van 0,25 N/mm2, met een totale capaciteit (Q) van ten minste: Q = [0,15 √{L(B+D)} + 2,25]2 m3 per uur waarin L, B en D in meters zijn. De vereiste totale capaciteit der brandbluspompen behoeft echter niet groter te zijn dan 180 m3 per uur.
 
-- b. Elke voorgeschreven brandbluspomp, behalve de noodbrandbluspomp, heeft een capaciteit van niet minder dan 40% van de in onderdeel a vereiste totale capaciteit van de brandbluspompen en is in elk geval in staat om ten minste de in [artikel 5.19, tweede lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0013342&hoofdstuk=5&paragraaf=2&artikel=5.19&z=2011-05-14&g=2011-05-14), vereiste stralen water te leveren. Deze brandbluspompen moeten in staat zijn om de hoofdbrandblusleiding onder de voorgeschreven voorwaarden van water te voorzien. Wanneer meer dan twee pompen zijn opgesteld, moet de capaciteit van die extra pompen ten genoegen van het Hoofd van de Scheepvaartinspectie zijn.
+- b. Elke voorgeschreven brandbluspomp, behalve de noodbrandbluspomp, heeft een capaciteit van niet minder dan 40% van de in onderdeel a vereiste totale capaciteit van de brandbluspompen en is in elk geval in staat om ten minste de in [artikel 5.19, tweede lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0013342&hoofdstuk=5&paragraaf=2&artikel=5.19&z=2017-01-01&g=2017-01-01), vereiste stralen water te leveren. Deze brandbluspompen moeten in staat zijn om de hoofdbrandblusleiding onder de voorgeschreven voorwaarden van water te voorzien. Wanneer meer dan twee pompen zijn opgesteld, moet de capaciteit van die extra pompen ten genoegen van het Hoofd van de Scheepvaartinspectie zijn.
 
 - a. Brandbluspompen zijn onafhankelijk aangedreven mechanische pompen. Sanitaire, ballast-, lens- of algemene dienstpompen kunnen worden aanvaard als brandbluspompen mits zij onder normale omstandigheden niet worden gebruikt voor het pompen van olie en, indien zij af en toe voor dit doel moeten worden gebruikt, doelmatige verwisselinrichtingen zijn aangebracht die ten genoegen van het Hoofd van de Scheepvaartinspectie zijn.
 
 - b. Brandbluspompen moeten alle van ontlastkleppen zijn voorzien indien zij in staat zijn een druk te leveren die de druk overtreft waarvoor de brandblusleidingen, brandkranen en brandslangen zijn ontworpen. Deze ontlastkleppen zijn op zodanige plaats aangebracht en zijn zodanig afgesteld, dat een te hoge druk in enig deel van de hoofdbrandblusleiding wordt voorkomen.
 
-- c. Mechanisch aangedreven noodbrandbluspompen moeten onafhankelijk zelfstandig aangedreven pompen zijn die zijn uitgerust met een eigen dieselmotor en brandstoftoevoer, die zijn opgesteld op een toegankelijke plaats buiten de ruimte waarin de hoofdbrandbluspompen zijn ondergebracht of worden aangedreven door een op zich zelf staande generator, die de noodgenerator mag zijn als bedoeld in [artikel 4.17](https://wetten.overheid.nl/jci1.3:c:BWBR0013342&hoofdstuk=4&paragraaf=3&artikel=4.17&z=2011-05-14&g=2011-05-14) met een voldoende capaciteit en op een veilige plaats buiten de machinekamer en bij voorkeur boven het werkdek opgesteld. De werking van de noodbrandbluspomp moet voor ten minste drie uur verzekerd zijn.
+- c. Mechanisch aangedreven noodbrandbluspompen moeten onafhankelijk zelfstandig aangedreven pompen zijn die zijn uitgerust met een eigen dieselmotor en brandstoftoevoer, die zijn opgesteld op een toegankelijke plaats buiten de ruimte waarin de hoofdbrandbluspompen zijn ondergebracht of worden aangedreven door een op zich zelf staande generator, die de noodgenerator mag zijn als bedoeld in [artikel 4.17](https://wetten.overheid.nl/jci1.3:c:BWBR0013342&hoofdstuk=4&paragraaf=3&artikel=4.17&z=2017-01-01&g=2017-01-01) met een voldoende capaciteit en op een veilige plaats buiten de machinekamer en bij voorkeur boven het werkdek opgesteld. De werking van de noodbrandbluspomp moet voor ten minste drie uur verzekerd zijn.
 
 - d. Noodbrandbluspompen, zee-inlaatafsluiters en andere noodzakelijke afsluiters kunnen worden bediend vanaf een plaats die is gelegen buiten de ruimten waarin de overige brandbluspompen zijn ondergebracht. Deze plaats is zodanig dat het niet waarschijnlijk is dat zij in geval van brand in de bedoelde ruimten onbereikbaar wordt.
 
 ##### Artikel 5.18. Hoofdbrandblusleidingen
 
-- a. Indien meer dan één brandkraan is voorgeschreven om te kunnen voorzien in het aantal stralen water, zoals bedoeld in [artikel 5.19, tweede lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0013342&hoofdstuk=5&paragraaf=2&artikel=5.19&z=2011-05-14&g=2011-05-14), is er een hoofdbrandblusleiding aangebracht.
+- a. Indien meer dan één brandkraan is voorgeschreven om te kunnen voorzien in het aantal stralen water, zoals bedoeld in [artikel 5.19, tweede lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0013342&hoofdstuk=5&paragraaf=2&artikel=5.19&z=2017-01-01&g=2017-01-01), is er een hoofdbrandblusleiding aangebracht.
 
 - b. Hoofdbrandblusleidingen hebben geen andere aansluitingen dan die welke voor de brandbestrijding zijn vereist, met uitzondering van aansluitingen die zijn aangebracht om het dek te wassen, de ankerkettingen schoon te spuiten en de lensejectoren te bedienen, onder voorwaarde dat de doelmatigheid van het brandblussysteem gehandhaafd blijft.
 
@@ -1530,7 +1532,7 @@ Laadruimten die bestemd zijn voor ladingen die in hoge mate brandgevaarlijk zijn
 
 - a. De doorlaat van de hoofdbrandblusleiding en van de aftakkingen daarvan is groot genoeg voor een doelmatige verwerking van de maximaal voorgeschreven opbrengst van twee gelijktijdig werkende brandbluspompen. De doorlaat behoeft echter niet groter te zijn dan voor de verwerking van 140 m3/uur nodig is.
 
-- b. Wanneer de onder a genoemde opbrengst, geleverd door de aldaar genoemde pompen, wordt verwerkt door straalpijpen als omschreven in [artikel 5.19, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013342&hoofdstuk=5&paragraaf=2&artikel=5.19&z=2011-05-14&g=2011-05-14), gekoppeld aan slangen die zijn aangesloten op in elkaars nabijheid gelegen brandkranen, kan bij alle brandkranen ten minste een druk van 0,25 N/mm2 worden gehandhaafd.
+- b. Wanneer de onder a genoemde opbrengst, geleverd door de aldaar genoemde pompen, wordt verwerkt door straalpijpen als omschreven in [artikel 5.19, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013342&hoofdstuk=5&paragraaf=2&artikel=5.19&z=2017-01-01&g=2017-01-01), gekoppeld aan slangen die zijn aangesloten op in elkaars nabijheid gelegen brandkranen, kan bij alle brandkranen ten minste een druk van 0,25 N/mm2 worden gehandhaafd.
 
 ##### Artikel 5.19. Brandkranen, brandslangen en straalpijpen
 
@@ -1550,7 +1552,7 @@ Laadruimten die bestemd zijn voor ladingen die in hoge mate brandgevaarlijk zijn
 
 - b. In ruimten voor accommodatie en dienstruimten behoeft de spuitopening van de straalpijpen niet groter te zijn dan 12 mm.
 
-- c. In ruimten voor machines en op open dekken is de diameter van de spuitopening van de straalpijpen zodanig dat met twee stralen water bij de druk, genoemd in [artikel 5.18, tweede lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0013342&hoofdstuk=5&paragraaf=2&artikel=5.18&z=2011-05-14&g=2011-05-14), met de kleinste pomp een zo groot mogelijke hoeveelheid water kan worden geleverd. Er behoeft echter geen straalpijp te worden gebruikt met een spuitopening waarvan de diameter meer dan 19 mm bedraagt.
+- c. In ruimten voor machines en op open dekken is de diameter van de spuitopening van de straalpijpen zodanig dat met twee stralen water bij de druk, genoemd in [artikel 5.18, tweede lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0013342&hoofdstuk=5&paragraaf=2&artikel=5.18&z=2017-01-01&g=2017-01-01), met de kleinste pomp een zo groot mogelijke hoeveelheid water kan worden geleverd. Er behoeft echter geen straalpijp te worden gebruikt met een spuitopening waarvan de diameter meer dan 19 mm bedraagt.
 
 ##### Artikel 5.20. Brandblustoestellen
 
@@ -1703,7 +1705,7 @@ De bepalingen van deze paragraaf zijn van toepassing op vaartuigen waarvan de le
 
 ##### Artikel 5.29. Ventilatiesystemen
 
-1. Met uitzondering van het bepaalde in [artikel 5.30, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013342&hoofdstuk=5&paragraaf=3&artikel=5.30&z=2011-05-14&g=2011-05-14), zijn er middelen aanwezig voor het stopzetten van ventilatoren en het sluiten van hoofdin- en uitlaten van ventilatiesystemen van buiten de ruimten die worden geventileerd.
+1. Met uitzondering van het bepaalde in [artikel 5.30, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013342&hoofdstuk=5&paragraaf=3&artikel=5.30&z=2017-01-01&g=2017-01-01), zijn er middelen aanwezig voor het stopzetten van ventilatoren en het sluiten van hoofdin- en uitlaten van ventilatiesystemen van buiten de ruimten die worden geventileerd.
 
 2. Er zijn middelen aanwezig om de ringvormige ruimten rond schoorstenen vanaf een veilige plaats te kunnen sluiten.
 
@@ -1717,13 +1719,13 @@ De bepalingen van deze paragraaf zijn van toepassing op vaartuigen waarvan de le
 
 7. Ventilatiesystemen die ruimten voor machines bedienen, zijn onafhankelijk van systemen die andere ruimten bedienen.
 
-8. Indien ventilatieschachten of -kanalen ruimten aan weerszijden van schotten en dekken van klasse «A» bedienen, zijn er kleppen aangebracht ter voorkoming van verspreiding van vuur en rook van de ene ruimte naar de andere. Met de hand bedienbare kleppen kunnen aan beide zijden van het schot of het dek geopend en gesloten worden. Indien de schachten of kanalen met een oppervlakte van de dwarsdoorsnede van meer dan 0,02 m2 lopen door schotten en dekken van klasse «A», zijn er automatisch sluitende kleppen aangebracht. Schachten die ruimten bedienen die slechts aan één zijde van dergelijke schotten zijn gelegen, voldoen aan het bepaalde in [artikel 5.9, eerste lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0013342&hoofdstuk=5&paragraaf=2&artikel=5.9&z=2011-05-14&g=2011-05-14).
+8. Indien ventilatieschachten of -kanalen ruimten aan weerszijden van schotten en dekken van klasse «A» bedienen, zijn er kleppen aangebracht ter voorkoming van verspreiding van vuur en rook van de ene ruimte naar de andere. Met de hand bedienbare kleppen kunnen aan beide zijden van het schot of het dek geopend en gesloten worden. Indien de schachten of kanalen met een oppervlakte van de dwarsdoorsnede van meer dan 0,02 m2 lopen door schotten en dekken van klasse «A», zijn er automatisch sluitende kleppen aangebracht. Schachten die ruimten bedienen die slechts aan één zijde van dergelijke schotten zijn gelegen, voldoen aan het bepaalde in [artikel 5.9, eerste lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0013342&hoofdstuk=5&paragraaf=2&artikel=5.9&z=2017-01-01&g=2017-01-01).
 
 ##### Artikel 5.30. Verwarmingsinstallaties
 
 1. Elektrische kachels zijn vast opgesteld en zijn zo ingericht dat het brandgevaar tot een minimum is beperkt. Deze toestellen mogen niet zijn voorzien van een verwarmingselement dat kleding, gordijnen of andere soortgelijke materialen in de directe omgeving kan verschroeien of vlam vatten door de hitte die het element uitstraalt.
 
-2. Verwarming door middel van open vuur is niet toegestaan. Kachels en andere soortgelijke apparaten zijn deugdelijk bevestigd en zij zijn onder, rondom en ter hoogte van de schoorsteenoploop voorzien van voldoende bescherming en isolatie tegen brand. Schoorsteenoplopen van kachels die vaste brandstof verstoken zijn zo ingericht en ontworpen dat de kans op verstopt raken door verbrandingsproducten tot een minimum wordt beperkt en zijn uitgerust met een toegankelijke voorziening om schoon te maken. Kleppen om de schoorsteentrek te regelen hebben bij de gesloten stand nog enige doorlaat. Ruimten waarin kachels zijn geplaatst zijn voorzien van ventilatoren met voldoende doortocht om te kunnen voorzien in voldoende verbrandingslucht voor de kachel. Dergelijke ventilatoren mogen niet zijn uitgerust met een afsluitinrichting en hun opstelling is zodanig dat geen afsluitinrichtingen als bedoeld in [artikel 2.9](https://wetten.overheid.nl/jci1.3:c:BWBR0013342&hoofdstuk=2&artikel=2.9&z=2011-05-14&g=2011-05-14) vereist zijn.
+2. Verwarming door middel van open vuur is niet toegestaan. Kachels en andere soortgelijke apparaten zijn deugdelijk bevestigd en zij zijn onder, rondom en ter hoogte van de schoorsteenoploop voorzien van voldoende bescherming en isolatie tegen brand. Schoorsteenoplopen van kachels die vaste brandstof verstoken zijn zo ingericht en ontworpen dat de kans op verstopt raken door verbrandingsproducten tot een minimum wordt beperkt en zijn uitgerust met een toegankelijke voorziening om schoon te maken. Kleppen om de schoorsteentrek te regelen hebben bij de gesloten stand nog enige doorlaat. Ruimten waarin kachels zijn geplaatst zijn voorzien van ventilatoren met voldoende doortocht om te kunnen voorzien in voldoende verbrandingslucht voor de kachel. Dergelijke ventilatoren mogen niet zijn uitgerust met een afsluitinrichting en hun opstelling is zodanig dat geen afsluitinrichtingen als bedoeld in [artikel 2.9](https://wetten.overheid.nl/jci1.3:c:BWBR0013342&hoofdstuk=2&artikel=2.9&z=2017-01-01&g=2017-01-01) vereist zijn.
 
 3. Toestellen met een open gasvlam, met uitzondering van fornuizen en warmwatertoestellen, zijn niet toegestaan. Ruimten waarin dergelijke fornuizen en warmwatertoestellen zijn geplaatst, zijn voorzien van voldoende ventilatie om dampen en mogelijke gaslekkage naar een veilige plaats af te voeren. Alle leidingen waardoor het gas vanaf het drukvat naar de kachel of waterverwarmer wordt geleid zijn van staal of een ander goedgekeurd materiaal. Er zijn automatische veiligheidsinrichtingen voor het afsluiten van de gastoevoer aangebracht die in werking treden bij drukverlies in de hoofdgasleiding of in het geval van vlamstoring bij elk toestel.
 
@@ -1785,7 +1787,7 @@ De bepalingen van deze paragraaf zijn van toepassing op vaartuigen waarvan de le
 
 ##### Artikel 5.34. Automatische brandalarm- en brandontdekkingsinstallaties
 
-Op vissersvaartuigen waar het Hoofd van de Scheepvaartinspectie op grond van het bepaalde in [artikel 5.28, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013342&hoofdstuk=5&paragraaf=3&artikel=5.28&z=2011-05-14&g=2011-05-14), een brandbare constructie heeft toegestaan of waar anders aanzienlijke hoeveelheden brandbaar materiaal worden gebruikt bij de constructie van ruimten voor accommodatie, dienstruimten en controlestations wordt speciale aandacht geschonken aan het installeren van een automatische brandalarm- en brandontdekkingsinstallatie in die ruimten, waarbij rekening wordt gehouden met de afmeting van die ruimten, hun inrichting en plaatsing betrekking hebbend op controlestations alsmede, indien van toepassing, het vlamspreidend vermogen van het geplaatste meubilair.
+Op vissersvaartuigen waar het Hoofd van de Scheepvaartinspectie op grond van het bepaalde in [artikel 5.28, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013342&hoofdstuk=5&paragraaf=3&artikel=5.28&z=2017-01-01&g=2017-01-01), een brandbare constructie heeft toegestaan of waar anders aanzienlijke hoeveelheden brandbaar materiaal worden gebruikt bij de constructie van ruimten voor accommodatie, dienstruimten en controlestations wordt speciale aandacht geschonken aan het installeren van een automatische brandalarm- en brandontdekkingsinstallatie in die ruimten, waarbij rekening wordt gehouden met de afmeting van die ruimten, hun inrichting en plaatsing betrekking hebbend op controlestations alsmede, indien van toepassing, het vlamspreidend vermogen van het geplaatste meubilair.
 
 ##### Artikel 5.35. Brandbluspompen
 
@@ -1815,11 +1817,11 @@ Q = [0,15 √{L(B+D)} + 2,25]2 m2 per uur, waarbij L, B en D in meters zijn uitg
 
 9. Wanneer hoofdbrandbluspompen de volgens de in het zevende lid vereiste opbrengst leveren aan de hoofdbrandblusleiding, brandslangen en straalpijpen mag de druk bij elke brandkraan niet minder zijn dan 0,25 N/mm2.
 
-10. Indien werktuiglijk aangedreven noodbrandbluspompen de maximum opbrengst leveren met de straal water volgens het bepaalde in [artikel 5.37, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013342&hoofdstuk=5&paragraaf=3&artikel=5.37&z=2011-05-14&g=2011-05-14), is de druk bij elke brandkraan ten genoegen van het Hoofd van de Scheepvaartinspectie.
+10. Indien werktuiglijk aangedreven noodbrandbluspompen de maximum opbrengst leveren met de straal water volgens het bepaalde in [artikel 5.37, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013342&hoofdstuk=5&paragraaf=3&artikel=5.37&z=2017-01-01&g=2017-01-01), is de druk bij elke brandkraan ten genoegen van het Hoofd van de Scheepvaartinspectie.
 
 ##### Artikel 5.36. Hoofdbrandblusleiding
 
-1. Indien meer dan één brandkraan is vereist om te voorzien in het aantal stralen water zoals bepaald in [artikel 5.37, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013342&hoofdstuk=5&paragraaf=3&artikel=5.37&z=2011-05-14&g=2011-05-14), is er een hoofdbrandblusleiding aangebracht.
+1. Indien meer dan één brandkraan is vereist om te voorzien in het aantal stralen water zoals bepaald in [artikel 5.37, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013342&hoofdstuk=5&paragraaf=3&artikel=5.37&z=2017-01-01&g=2017-01-01), is er een hoofdbrandblusleiding aangebracht.
 
 2. Hoofdbrandblusleidingen en brandkranen zijn vervaardigd van materialen die in voldoende mate hittebestendig zijn, tenzij deze voldoende zijn beschermd.
 
@@ -1965,7 +1967,7 @@ De medische uitrusting wordt in daarvoor geschikte kisten of in daarvoor ingeric
 
 ##### Artikel 6.8. Nummering, afschrift lijst, benamingen
 
-1. Op de verpakking van de bestanddelen van de medische uitrusting is, voor zover mogelijk, het nummer aangebracht dat is vermeld in de ministeriële regeling, bedoeld in [artikel 6.5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013342&hoofdstuk=6&artikel=6.5&z=2011-05-14&g=2011-05-14), en [artikel 6.12](https://wetten.overheid.nl/jci1.3:c:BWBR0013342&hoofdstuk=6&artikel=6.12&z=2011-05-14&g=2011-05-14).
+1. Op de verpakking van de bestanddelen van de medische uitrusting is, voor zover mogelijk, het nummer aangebracht dat is vermeld in de ministeriële regeling, bedoeld in [artikel 6.5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013342&hoofdstuk=6&artikel=6.5&z=2017-01-01&g=2017-01-01), en [artikel 6.12](https://wetten.overheid.nl/jci1.3:c:BWBR0013342&hoofdstuk=6&artikel=6.12&z=2017-01-01&g=2017-01-01).
 
 2. Op de etiketten, aanwezig op de verpakking van de middelen, zijn ten behoeve van in het buitenland te raadplegen deskundigen zo veel mogelijk naast de Nederlandse, de Latijnse benamingen vermeld, overeenkomstig de nomenclatuur van de Wereld Gezondheidsorganisatie.
 
@@ -1975,7 +1977,7 @@ De geneesmiddelen en de antidota worden geleverd door een apotheker, hetgeen bli
 
 ##### Artikel 6.10. Aanvullende geneesmiddelen, verplegingsartikelen en antidota
 
-1. Indien er nog andere geneesmiddelen, verplegingsartikelen en antidota aan boord aanwezig zijn dan die zijn voorgeschreven op grond van de ministeriële regeling, bedoeld in [artikel 6.5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013342&hoofdstuk=6&artikel=6.5&z=2011-05-14&g=2011-05-14), en [artikel 6.12](https://wetten.overheid.nl/jci1.3:c:BWBR0013342&hoofdstuk=6&artikel=6.12&z=2011-05-14&g=2011-05-14), zijn ten aanzien van deze aanvullende middelen de [artikelen 6.6 tot en met 6.9](https://wetten.overheid.nl/jci1.3:c:BWBR0013342&hoofdstuk=6&artikel=6.6&z=2011-05-14&g=2011-05-14) van toepassing.
+1. Indien er nog andere geneesmiddelen, verplegingsartikelen en antidota aan boord aanwezig zijn dan die zijn voorgeschreven op grond van de ministeriële regeling, bedoeld in [artikel 6.5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013342&hoofdstuk=6&artikel=6.5&z=2017-01-01&g=2017-01-01), en [artikel 6.12](https://wetten.overheid.nl/jci1.3:c:BWBR0013342&hoofdstuk=6&artikel=6.12&z=2017-01-01&g=2017-01-01), zijn ten aanzien van deze aanvullende middelen de [artikelen 6.6 tot en met 6.9](https://wetten.overheid.nl/jci1.3:c:BWBR0013342&hoofdstuk=6&artikel=6.6&z=2017-01-01&g=2017-01-01) van toepassing.
 
 2. Indien er sprake is van een medisch spoedgeval waarvoor de noodzakelijke geneesmiddelen, verplegingsartikelen of antidota aan boord niet aanwezig zijn, is de schipper verplicht ervoor te zorgen dat deze zo spoedig mogelijk ter beschikking worden gesteld.
 
@@ -2075,7 +2077,7 @@ In dit hoofdstuk wordt verstaan onder:
 
 5. Alvorens reddingsmiddelen en -voorzieningen die niet eerder zijn gekeurd, worden goedgekeurd, voldoen zij ten genoegen van het Hoofd van de Scheepvaartinspectie aan het bepaalde in dit hoofdstuk.
 
-6. Reddingsmiddelen en -voorzieningen die ingevolge het bepaalde in dit hoofdstuk zijn voorgeschreven maar waarvoor geen nadere voorschriften in [paragraaf 3](https://wetten.overheid.nl/jci1.3:c:BWBR0013342&hoofdstuk=7&paragraaf=3&z=2011-05-14&g=2011-05-14) zijn opgenomen, zijn ten genoegen van het Hoofd van de Scheepvaartinspectie.
+6. Reddingsmiddelen en -voorzieningen die ingevolge het bepaalde in dit hoofdstuk zijn voorgeschreven maar waarvoor geen nadere voorschriften in [paragraaf 3](https://wetten.overheid.nl/jci1.3:c:BWBR0013342&hoofdstuk=7&paragraaf=3&z=2017-01-01&g=2017-01-01) zijn opgenomen, zijn ten genoegen van het Hoofd van de Scheepvaartinspectie.
 
 ##### Artikel 7.4. Controle van de productie
 
@@ -2089,7 +2091,7 @@ Bij ministeriële regeling worden voorschriften gegeven omtrent de controle van 
 
 2. Vaartuigen met een lengte van 75 meter of meer voldoen met betrekking tot het aantal, de capaciteit en het type van het groepsreddingsmiddel en de hulpverleningsboot ten minste aan de volgende eisen:
 
-- a. de vaartuigen zijn aan weerszijden voorzien van een groepsreddingsmiddel of van groepsreddingsmiddelen die gezamenlijk voldoende ruimte bieden voor het totaal aantal opvarenden. Indien het vaartuig voldoet aan de eisen betreffende waterdichte indeling, lekstabiliteit en brandbescherming zoals bepaald in [artikel 3.14](https://wetten.overheid.nl/jci1.3:c:BWBR0013342&hoofdstuk=3&artikel=3.14&z=2011-05-14&g=2011-05-14) en in [hoofdstuk 5](https://wetten.overheid.nl/jci1.3:c:BWBR0013342&hoofdstuk=5&z=2011-05-14&g=2011-05-14), en het Hoofd van de Scheepvaartinspectie van mening is dat een vermindering van het aantal groepsreddingsmiddelen geen invloed heeft op de veiligheid, kan hij deze vermindering toestaan mits de totale capaciteit van de groepsreddingsmiddelen aan elke zijde van het vaartuig voldoende is om ruimte te bieden aan ten minste de helft van het aantal opvarenden. Bovendien zijn dan ook reddingsvlotten aanwezig die gezamenlijk plaats bieden aan ten minste de helft van het aantal opvarenden;
+- a. de vaartuigen zijn aan weerszijden voorzien van een groepsreddingsmiddel of van groepsreddingsmiddelen die gezamenlijk voldoende ruimte bieden voor het totaal aantal opvarenden. Indien het vaartuig voldoet aan de eisen betreffende waterdichte indeling, lekstabiliteit en brandbescherming zoals bepaald in [artikel 3.14](https://wetten.overheid.nl/jci1.3:c:BWBR0013342&hoofdstuk=3&artikel=3.14&z=2017-01-01&g=2017-01-01) en in [hoofdstuk 5](https://wetten.overheid.nl/jci1.3:c:BWBR0013342&hoofdstuk=5&z=2017-01-01&g=2017-01-01), en het Hoofd van de Scheepvaartinspectie van mening is dat een vermindering van het aantal groepsreddingsmiddelen geen invloed heeft op de veiligheid, kan hij deze vermindering toestaan mits de totale capaciteit van de groepsreddingsmiddelen aan elke zijde van het vaartuig voldoende is om ruimte te bieden aan ten minste de helft van het aantal opvarenden. Bovendien zijn dan ook reddingsvlotten aanwezig die gezamenlijk plaats bieden aan ten minste de helft van het aantal opvarenden;
 
 - b. zij beschikken over een hulpverleningsboot, tenzij het vaartuig is voorzien van een reddingsboot die voldoet aan de eisen voor een hulpverleningsboot en die na de reddingsoperatie weer terug aan boord geplaatst kan worden.
 
@@ -2109,7 +2111,7 @@ Bij ministeriële regeling worden voorschriften gegeven omtrent de controle van 
 
 5. Het aantal reddingsboten en hulpverleningsboten waarover een vaartuig beschikt is zodanig dat bij volledige verlating van het vaartuig elke reddingsboot en elke hulpverleningsboot niet meer dan negen reddingsvlotten zal moeten bijeenbrengen.
 
-6. Het groepsreddingsmiddel en de hulpverleningsboot voldoen aan het voor hun bepaalde in de [artikelen 7.17 tot en met 7.23](https://wetten.overheid.nl/jci1.3:c:BWBR0013342&hoofdstuk=7&paragraaf=3&artikel=7.17&z=2011-05-14&g=2011-05-14).
+6. Het groepsreddingsmiddel en de hulpverleningsboot voldoen aan het voor hun bepaalde in de [artikelen 7.17 tot en met 7.23](https://wetten.overheid.nl/jci1.3:c:BWBR0013342&hoofdstuk=7&paragraaf=3&artikel=7.17&z=2017-01-01&g=2017-01-01).
 
 ##### Artikel 7.6. Beschikbaarheid en plaatsing van groepsreddingsmiddelen en hulpverleningsboten
 
@@ -2119,7 +2121,7 @@ Bij ministeriële regeling worden voorschriften gegeven omtrent de controle van 
 
 - 1°. zijn in geval van nood direct klaar voor gebruik,
 
-- 2°. kunnen snel en veilig te water worden gelatenin omstandigheden als omschreven in [artikel 7.32, eerste lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0013342&hoofdstuk=7&paragraaf=3&artikel=7.32&z=2011-05-14&g=2011-05-14), en
+- 2°. kunnen snel en veilig te water worden gelatenin omstandigheden als omschreven in [artikel 7.32, eerste lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0013342&hoofdstuk=7&paragraaf=3&artikel=7.32&z=2017-01-01&g=2017-01-01), en
 
 - 3°. kunnen snel terug aan boord worden gezet, indien zij ook voldoen aan de eisen voor een hulpverleningsboot;
 
@@ -2143,9 +2145,9 @@ Bij ministeriële regeling worden voorschriften gegeven omtrent de controle van 
 
 - c. Groepsreddingsmiddelen worden zo dicht mogelijk bij de accommodatie en dienstruimtes geplaatst, zodanig dat het mogelijk is een veilige tewaterlating, rekening houdend met de afstand tot de schroef, te waarborgen. Reddingsboten die langs de scheepszijden worden afgevierd, worden zo geplaatst dat zij, rekening houdend met sterk terugwijkende gedeelten van de romp, zoveel mogelijk langs de verticale gedeelten van het vaartuig afgevierd kunnen worden. Bij plaatsing op het voorschip zijn de groepsreddingsmiddelen op een beschermde plaats achter het aanvaringsschot gelegen en in dat geval wordt bijzondere aandacht geschonken aan de sterkte van het tewaterlatingsmiddel.
 
-- d. De wijze voor tewaterlating en terugplaatsing van een hulpverleningsboot is van een goedgekeurd type, waarbij rekening gehouden wordt met het gewicht van de hulpverleningsboot met volledige uitrusting en met de helft van het aantal personen dat de hulpverleningsboot volgens de voorschriften in de [artikelen 7.23, eerste lid, onder b, 2°](https://wetten.overheid.nl/jci1.3:c:BWBR0013342&hoofdstuk=7&paragraaf=3&artikel=7.23&z=2011-05-14&g=2011-05-14), en [7.23, eerste lid, onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0013342&hoofdstuk=7&paragraaf=3&artikel=7.23&z=2011-05-14&g=2011-05-14), mag bezetten, de grootte en constructie van de hulpverleningsboot en met de afstand van de plaats van stuwage tot de waterlijn bij de laagst gelegen lastlijn. Elke hulpverleningsboot echter, die meer dan 4,5 meter boven de waterlijn bij de laagst gelegen lastlijn is geplaatst, is voorzien van goedgekeurde middelen voor tewaterlating en terugplaatsing.
+- d. De wijze voor tewaterlating en terugplaatsing van een hulpverleningsboot is van een goedgekeurd type, waarbij rekening gehouden wordt met het gewicht van de hulpverleningsboot met volledige uitrusting en met de helft van het aantal personen dat de hulpverleningsboot volgens de voorschriften in de [artikelen 7.23, eerste lid, onder b, 2°](https://wetten.overheid.nl/jci1.3:c:BWBR0013342&hoofdstuk=7&paragraaf=3&artikel=7.23&z=2017-01-01&g=2017-01-01), en [7.23, eerste lid, onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0013342&hoofdstuk=7&paragraaf=3&artikel=7.23&z=2017-01-01&g=2017-01-01), mag bezetten, de grootte en constructie van de hulpverleningsboot en met de afstand van de plaats van stuwage tot de waterlijn bij de laagst gelegen lastlijn. Elke hulpverleningsboot echter, die meer dan 4,5 meter boven de waterlijn bij de laagst gelegen lastlijn is geplaatst, is voorzien van goedgekeurde middelen voor tewaterlating en terugplaatsing.
 
-- e. Middelen voor tewaterlating en inscheping voldoen aan het bepaalde in [artikel 7.32](https://wetten.overheid.nl/jci1.3:c:BWBR0013342&hoofdstuk=7&paragraaf=3&artikel=7.32&z=2011-05-14&g=2011-05-14).
+- e. Middelen voor tewaterlating en inscheping voldoen aan het bepaalde in [artikel 7.32](https://wetten.overheid.nl/jci1.3:c:BWBR0013342&hoofdstuk=7&paragraaf=3&artikel=7.32&z=2017-01-01&g=2017-01-01).
 
 - f.
 
@@ -2161,7 +2163,7 @@ Er zijn doeltreffende voorzieningen ter inscheping in een groepsreddingsmiddel a
 
 - a. ten minste een ladder of een andere goedgekeurde voorziening aan elke zijde van het schip om inscheping in het groepsreddingsmiddel mogelijk te maken als dit in het water ligt, tenzij het Hoofd van de Scheepvaartinspectie van mening is dat de afstand van de plaats van inscheping tot het in het water liggende groepsreddingsmiddel zodanig is dat deze ladder of andere voorziening niet noodzakelijk is,
 
-- b. voorzieningen voor het verlichten van de plaats van de groepsreddingsmiddelen en de middelen voor tewaterlating gedurende de voorbereiding en het te water laten zelf, en ook voor het verlichten van het wateroppervlak waar de groepsreddingsmiddelen te water worden gelaten totdat de tewaterlating is beëindigd. De voeding voor deze verlichting wordt geleverd door de noodkrachtbron, voorgeschreven in [artikel 4.17](https://wetten.overheid.nl/jci1.3:c:BWBR0013342&hoofdstuk=4&paragraaf=3&artikel=4.17&z=2011-05-14&g=2011-05-14),
+- b. voorzieningen voor het verlichten van de plaats van de groepsreddingsmiddelen en de middelen voor tewaterlating gedurende de voorbereiding en het te water laten zelf, en ook voor het verlichten van het wateroppervlak waar de groepsreddingsmiddelen te water worden gelaten totdat de tewaterlating is beëindigd. De voeding voor deze verlichting wordt geleverd door de noodkrachtbron, voorgeschreven in [artikel 4.17](https://wetten.overheid.nl/jci1.3:c:BWBR0013342&hoofdstuk=4&paragraaf=3&artikel=4.17&z=2017-01-01&g=2017-01-01),
 
 - c. voorzieningen om alle personen aan boord te waarschuwen dat het schip zal worden verlaten, en
 
@@ -2169,15 +2171,15 @@ Er zijn doeltreffende voorzieningen ter inscheping in een groepsreddingsmiddel a
 
 ##### Artikel 7.8. Reddingsgordels
 
-1. Voor elke opvarende is een goedgekeurde reddingsgordel aan boord die voldoet aan het bepaalde in [artikel 7.24](https://wetten.overheid.nl/jci1.3:c:BWBR0013342&hoofdstuk=7&paragraaf=3&artikel=7.24&z=2011-05-14&g=2011-05-14).
+1. Voor elke opvarende is een goedgekeurde reddingsgordel aan boord die voldoet aan het bepaalde in [artikel 7.24](https://wetten.overheid.nl/jci1.3:c:BWBR0013342&hoofdstuk=7&paragraaf=3&artikel=7.24&z=2017-01-01&g=2017-01-01).
 
 2. De reddingsgordels zijn zo opgeborgen dat ze gemakkelijk bereikbaar zijn. Hun bergplaats is duidelijk aangegeven.
 
 ##### Artikel 7.9. Overlevingspakken en hulpmiddelen tegen warmteverlies
 
-1. Aan boord van een vaartuig is voor elke persoon die is aangewezen om de hulpverleningsboot te bemannen, een overlevingspak van de juiste maat aanwezig dat voldoet aan het bepaalde in [artikel 7.25](https://wetten.overheid.nl/jci1.3:c:BWBR0013342&hoofdstuk=7&paragraaf=3&artikel=7.25&z=2011-05-14&g=2011-05-14).
+1. Aan boord van een vaartuig is voor elke persoon die is aangewezen om de hulpverleningsboot te bemannen, een overlevingspak van de juiste maat aanwezig dat voldoet aan het bepaalde in [artikel 7.25](https://wetten.overheid.nl/jci1.3:c:BWBR0013342&hoofdstuk=7&paragraaf=3&artikel=7.25&z=2017-01-01&g=2017-01-01).
 
-2. Aan boord van een vaartuig dat voldoet aan het bepaalde in [artikel 7.5, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013342&hoofdstuk=7&paragraaf=2&artikel=7.5&z=2011-05-14&g=2011-05-14), zijn overlevingspakken aanwezig die voldoen aan het bepaalde in [artikel 7.25](https://wetten.overheid.nl/jci1.3:c:BWBR0013342&hoofdstuk=7&paragraaf=3&artikel=7.25&z=2011-05-14&g=2011-05-14) voor alle opvarenden die geen toegewezen plaats hebben in:
+2. Aan boord van een vaartuig dat voldoet aan het bepaalde in [artikel 7.5, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013342&hoofdstuk=7&paragraaf=2&artikel=7.5&z=2017-01-01&g=2017-01-01), zijn overlevingspakken aanwezig die voldoen aan het bepaalde in [artikel 7.25](https://wetten.overheid.nl/jci1.3:c:BWBR0013342&hoofdstuk=7&paragraaf=3&artikel=7.25&z=2017-01-01&g=2017-01-01) voor alle opvarenden die geen toegewezen plaats hebben in:
 
 - a. reddingsboten, of
 
@@ -2185,7 +2187,7 @@ Er zijn doeltreffende voorzieningen ter inscheping in een groepsreddingsmiddel a
 
 - c. reddingsvlotten die door middel van goedgekeurde gelijkwaardige middelen in het water kunnen worden gelaten en waarvoor het niet noodzakelijk is via het water in het reddingsvlot te komen.
 
-3. In aanvulling op het tweede lid, onder a, zijn aan boord van een vaartuig voor iedere reddingsboot ten minste drie overlevingspakken aanwezig die voldoen aan het bepaalde in [artikel 7.25](https://wetten.overheid.nl/jci1.3:c:BWBR0013342&hoofdstuk=7&paragraaf=3&artikel=7.25&z=2011-05-14&g=2011-05-14). Het vaartuig heeft echter naast de hulpmiddelen tegen warmteverlies, voorgeschreven in [artikel 7.17, achtste lid, onder 31°](https://wetten.overheid.nl/jci1.3:c:BWBR0013342&hoofdstuk=7&paragraaf=3&artikel=7.17&z=2011-05-14&g=2011-05-14), hulpmiddelen tegen warmteverlies aan boord die voldoen aan het bepaalde in [artikel 7.26](https://wetten.overheid.nl/jci1.3:c:BWBR0013342&hoofdstuk=7&paragraaf=3&artikel=7.26&z=2011-05-14&g=2011-05-14), voor de opvarenden die niet zijn voorzien van overlevingspakken. Deze overlevingspakken en hulpmiddelen tegen warmteverlies behoeven niet aan boord te zijn indien het vaartuig geheel overdekte reddingsboten heeft die gezamenlijk per zijde voldoende ruimte bieden aan het totaal aantal opvarenden, of indien het vaartuig beschikt over een reddingsboot van het vrije-valtype die voldoende ruimte biedt aan het totaal aantal opvarenden.
+3. In aanvulling op het tweede lid, onder a, zijn aan boord van een vaartuig voor iedere reddingsboot ten minste drie overlevingspakken aanwezig die voldoen aan het bepaalde in [artikel 7.25](https://wetten.overheid.nl/jci1.3:c:BWBR0013342&hoofdstuk=7&paragraaf=3&artikel=7.25&z=2017-01-01&g=2017-01-01). Het vaartuig heeft echter naast de hulpmiddelen tegen warmteverlies, voorgeschreven in [artikel 7.17, achtste lid, onder 31°](https://wetten.overheid.nl/jci1.3:c:BWBR0013342&hoofdstuk=7&paragraaf=3&artikel=7.17&z=2017-01-01&g=2017-01-01), hulpmiddelen tegen warmteverlies aan boord die voldoen aan het bepaalde in [artikel 7.26](https://wetten.overheid.nl/jci1.3:c:BWBR0013342&hoofdstuk=7&paragraaf=3&artikel=7.26&z=2017-01-01&g=2017-01-01), voor de opvarenden die niet zijn voorzien van overlevingspakken. Deze overlevingspakken en hulpmiddelen tegen warmteverlies behoeven niet aan boord te zijn indien het vaartuig geheel overdekte reddingsboten heeft die gezamenlijk per zijde voldoende ruimte bieden aan het totaal aantal opvarenden, of indien het vaartuig beschikt over een reddingsboot van het vrije-valtype die voldoende ruimte biedt aan het totaal aantal opvarenden.
 
 4. Het tweede en derde lid zijn niet van toepassing op schepen die permanent werkzaam zijn in warme gebieden waar naar het oordeel van het Hoofd van de Scheepvaartinspectie overlevingspakken en hulpmiddelen tegen warmteverlies onnodig zijn.
 
@@ -2193,7 +2195,7 @@ Er zijn doeltreffende voorzieningen ter inscheping in een groepsreddingsmiddel a
 
 ##### Artikel 7.10. Reddingsboeien
 
-1. Vaartuigen hebben ten minste het volgende aantal reddingsboeien die voldoen aan het bepaalde in [artikel 7.27, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013342&hoofdstuk=7&paragraaf=3&artikel=7.27&z=2011-05-14&g=2011-05-14), aan boord:
+1. Vaartuigen hebben ten minste het volgende aantal reddingsboeien die voldoen aan het bepaalde in [artikel 7.27, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013342&hoofdstuk=7&paragraaf=3&artikel=7.27&z=2017-01-01&g=2017-01-01), aan boord:
 
 - a. acht reddingsboeien voor vaartuigen waarvan de lengte 75 meter of meer bedraagt;
 
@@ -2201,21 +2203,21 @@ Er zijn doeltreffende voorzieningen ter inscheping in een groepsreddingsmiddel a
 
 - c. vier reddingsboeien voor vaartuigen waarvan de lengte minder dan 45 meter bedraagt.
 
-2. Ten minste de helft van het totaal aantal reddingsboeien als voorgeschreven in het eerste lid is voorzien van een zelfontbrandend licht dat voldoet aan het bepaalde in [artikel 7.27, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013342&hoofdstuk=7&paragraaf=3&artikel=7.27&z=2011-05-14&g=2011-05-14).
+2. Ten minste de helft van het totaal aantal reddingsboeien als voorgeschreven in het eerste lid is voorzien van een zelfontbrandend licht dat voldoet aan het bepaalde in [artikel 7.27, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013342&hoofdstuk=7&paragraaf=3&artikel=7.27&z=2017-01-01&g=2017-01-01).
 
-3. Ten minste twee van de reddingsboeien met zelfontbrandend licht als voorgeschreven in het tweede lid zijn voorzien van een zelfwerkend rooksignaal dat voldoet aan het bepaalde in [artikel 7.27, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013342&hoofdstuk=7&paragraaf=3&artikel=7.27&z=2011-05-14&g=2011-05-14), en deze kunnen, voorzover uitvoerbaar, vanaf de brug snel ontkoppeld worden.
+3. Ten minste twee van de reddingsboeien met zelfontbrandend licht als voorgeschreven in het tweede lid zijn voorzien van een zelfwerkend rooksignaal dat voldoet aan het bepaalde in [artikel 7.27, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013342&hoofdstuk=7&paragraaf=3&artikel=7.27&z=2017-01-01&g=2017-01-01), en deze kunnen, voorzover uitvoerbaar, vanaf de brug snel ontkoppeld worden.
 
-4. Aan iedere zijde van het vaartuig is ten minste een reddingsboei voorzien van een drijvende reddingslijn die voldoet aan het bepaalde in [artikel 7.27, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013342&hoofdstuk=7&paragraaf=3&artikel=7.27&z=2011-05-14&g=2011-05-14), met een lengte van tenminste 30 meter of tweemaal de hoogte waarop de reddingsboei geplaatst is boven de laagst gelegen lastlijn van het vaartuig in het zeewater, welke van beide het grootste is. Deze reddingsboeien mogen niet zijn voorzien van een zelfontbrandend licht.
+4. Aan iedere zijde van het vaartuig is ten minste een reddingsboei voorzien van een drijvende reddingslijn die voldoet aan het bepaalde in [artikel 7.27, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013342&hoofdstuk=7&paragraaf=3&artikel=7.27&z=2017-01-01&g=2017-01-01), met een lengte van tenminste 30 meter of tweemaal de hoogte waarop de reddingsboei geplaatst is boven de laagst gelegen lastlijn van het vaartuig in het zeewater, welke van beide het grootste is. Deze reddingsboeien mogen niet zijn voorzien van een zelfontbrandend licht.
 
 5. Reddingsboeien zijn zodanig geplaatst dat ze voor iedereen vrij toegankelijk zijn, dat zij snel overboord kunnen worden geworpen en dat ze niet op een of andere manier permanent zijn vastgezet.
 
 ##### Artikel 7.11. Lijnwerptoestellen
 
-Aan boord van elk vaartuig is een lijnwerptoestel aanwezig dat voldoet aan het bepaalde in [artikel 7.28](https://wetten.overheid.nl/jci1.3:c:BWBR0013342&hoofdstuk=7&paragraaf=3&artikel=7.28&z=2011-05-14&g=2011-05-14).
+Aan boord van elk vaartuig is een lijnwerptoestel aanwezig dat voldoet aan het bepaalde in [artikel 7.28](https://wetten.overheid.nl/jci1.3:c:BWBR0013342&hoofdstuk=7&paragraaf=3&artikel=7.28&z=2017-01-01&g=2017-01-01).
 
 ##### Artikel 7.12. Noodsignalen
 
-1. Elk vaartuig is voorzien van goedgekeurde middelen voor het maken van noodsignalen die zowel overdag als 's nachts effectief zijn. Er zijn ten minste 12 valschermsignalen aan boord die voldoen aan het bepaalde in [artikel 7.29](https://wetten.overheid.nl/jci1.3:c:BWBR0013342&hoofdstuk=7&paragraaf=3&artikel=7.29&z=2011-05-14&g=2011-05-14).
+1. Elk vaartuig is voorzien van goedgekeurde middelen voor het maken van noodsignalen die zowel overdag als 's nachts effectief zijn. Er zijn ten minste 12 valschermsignalen aan boord die voldoen aan het bepaalde in [artikel 7.29](https://wetten.overheid.nl/jci1.3:c:BWBR0013342&hoofdstuk=7&paragraaf=3&artikel=7.29&z=2017-01-01&g=2017-01-01).
 
 2. Noodsignalen zijn van een goedgekeurd type. Zij zijn zo geplaatst dat zij gemakkelijk bereikbaar zijn en tevens is duidelijk aangegeven waar zij zijn geplaatst.
 
@@ -2447,11 +2449,11 @@ Tenzij anders bepaald bestaat de normale uitrusting van elke reddingsboot uit:
 
 - 12°. een noodrantsoen met een voedingswaarde van ten minste 10 000 kJ voor iedere persoon waarvoor in de reddingsboot ruimte is bestemd; deze noodrantsoenen worden bewaard in een luchtdichte verpakking en zijn opgeborgen in een waterdichte houder;
 
-- 13°. vier valschermsignalen die voldoen aan het bepaalde in [artikel 7.29](https://wetten.overheid.nl/jci1.3:c:BWBR0013342&hoofdstuk=7&paragraaf=3&artikel=7.29&z=2011-05-14&g=2011-05-14);
+- 13°. vier valschermsignalen die voldoen aan het bepaalde in [artikel 7.29](https://wetten.overheid.nl/jci1.3:c:BWBR0013342&hoofdstuk=7&paragraaf=3&artikel=7.29&z=2017-01-01&g=2017-01-01);
 
-- 14°. zes handstakellichten die voldoen aan het bepaalde in [artikel 7.30](https://wetten.overheid.nl/jci1.3:c:BWBR0013342&hoofdstuk=7&paragraaf=3&artikel=7.30&z=2011-05-14&g=2011-05-14);
+- 14°. zes handstakellichten die voldoen aan het bepaalde in [artikel 7.30](https://wetten.overheid.nl/jci1.3:c:BWBR0013342&hoofdstuk=7&paragraaf=3&artikel=7.30&z=2017-01-01&g=2017-01-01);
 
-- 15°. twee drijvende rooksignalen die voldoen aan het bepaalde in [artikel 7.31](https://wetten.overheid.nl/jci1.3:c:BWBR0013342&hoofdstuk=7&paragraaf=3&artikel=7.31&z=2011-05-14&g=2011-05-14);
+- 15°. twee drijvende rooksignalen die voldoen aan het bepaalde in [artikel 7.31](https://wetten.overheid.nl/jci1.3:c:BWBR0013342&hoofdstuk=7&paragraaf=3&artikel=7.31&z=2017-01-01&g=2017-01-01);
 
 - 16°. een waterdichte elektrische lantaarn geschikt voor het geven van morseseinen, alsmede een stel reservebatterijen en een reservelamp, verpakt in een waterdichte houder;
 
@@ -2483,7 +2485,7 @@ Tenzij anders bepaald bestaat de normale uitrusting van elke reddingsboot uit:
 
 - 30°. een doelmatige radarreflector, tenzij een radartransponder voor groepsreddingsmiddelen in de reddingsboot is geplaatst;
 
-- 31°. hulpmiddelen tegen warmteverlies die voldoen aan het bepaalde in [artikel 7.26](https://wetten.overheid.nl/jci1.3:c:BWBR0013342&hoofdstuk=7&paragraaf=3&artikel=7.26&z=2011-05-14&g=2011-05-14), voldoende voor 2 personen of 10% van het aantal personen waarvoor in de reddingsboot ruimte is bestemd, welke van beide het grootste is;
+- 31°. hulpmiddelen tegen warmteverlies die voldoen aan het bepaalde in [artikel 7.26](https://wetten.overheid.nl/jci1.3:c:BWBR0013342&hoofdstuk=7&paragraaf=3&artikel=7.26&z=2017-01-01&g=2017-01-01), voldoende voor 2 personen of 10% van het aantal personen waarvoor in de reddingsboot ruimte is bestemd, welke van beide het grootste is;
 
 - 32°. voor vaartuigen die reizen maken waarvan aard en duur zodanig zijn dat naar het oordeel van het Hoofd van de Scheepvaartinspectie de onder 12° en 26° voorgeschreven uitrustingsartikelen niet noodzakelijk zijn, kan hij vrijstelling verlenen van die bepalingen.
 
@@ -2497,7 +2499,7 @@ Tenzij anders bepaald bestaat de normale uitrusting van elke reddingsboot uit:
 
 ##### Artikel 7.18. Zichzelf oprichtende, gedeeltelijk overdekte reddingsboten
 
-1. Behalve aan het bepaalde in [artikel 7.17](https://wetten.overheid.nl/jci1.3:c:BWBR0013342&hoofdstuk=7&paragraaf=3&artikel=7.17&z=2011-05-14&g=2011-05-14) voldoen zichzelf oprichtende, gedeeltelijk overdekte reddingsboten mede aan het bepaalde in dit artikel.
+1. Behalve aan het bepaalde in [artikel 7.17](https://wetten.overheid.nl/jci1.3:c:BWBR0013342&hoofdstuk=7&paragraaf=3&artikel=7.17&z=2017-01-01&g=2017-01-01) voldoen zichzelf oprichtende, gedeeltelijk overdekte reddingsboten mede aan het bepaalde in dit artikel.
 
 2. **Overkapping**
 
@@ -2545,13 +2547,13 @@ Tenzij anders bepaald bestaat de normale uitrusting van elke reddingsboot uit:
 
 5. **Constructie en stootdempers**
 
-- a. Onverminderd het bepaalde in [artikel 7.17, eerste lid, onder f](https://wetten.overheid.nl/jci1.3:c:BWBR0013342&hoofdstuk=7&paragraaf=3&artikel=7.17&z=2011-05-14&g=2011-05-14), is een zichzelf oprichtende, gedeeltelijk overdekte reddingsboot zo gebouwd en van stootdempers voorzien dat zeker wordt gesteld dat de reddingsboot aan inzittenden bescherming biedt tegen schadelijke versnellingen als gevolg van een slag van de reddingsboot, beladen met volle bezetting en volledige uitrusting, tegen de scheepszijde met een stootsnelheid van ten minste 3,5 m/s.
+- a. Onverminderd het bepaalde in [artikel 7.17, eerste lid, onder f](https://wetten.overheid.nl/jci1.3:c:BWBR0013342&hoofdstuk=7&paragraaf=3&artikel=7.17&z=2017-01-01&g=2017-01-01), is een zichzelf oprichtende, gedeeltelijk overdekte reddingsboot zo gebouwd en van stootdempers voorzien dat zeker wordt gesteld dat de reddingsboot aan inzittenden bescherming biedt tegen schadelijke versnellingen als gevolg van een slag van de reddingsboot, beladen met volle bezetting en volledige uitrusting, tegen de scheepszijde met een stootsnelheid van ten minste 3,5 m/s.
 
 - b. Een zelf oprichtende, gedeeltelijk overdekte reddingsboot is automatisch zelflozend.
 
 ##### Artikel 7.19. Geheel overdekte reddingsboten
 
-1. Behalve aan het bepaalde in [artikel 7.17](https://wetten.overheid.nl/jci1.3:c:BWBR0013342&hoofdstuk=7&paragraaf=3&artikel=7.17&z=2011-05-14&g=2011-05-14) voldoen geheel overdekte reddingsboten ook aan het bepaalde in dit artikel.
+1. Behalve aan het bepaalde in [artikel 7.17](https://wetten.overheid.nl/jci1.3:c:BWBR0013342&hoofdstuk=7&paragraaf=3&artikel=7.17&z=2017-01-01&g=2017-01-01) voldoen geheel overdekte reddingsboten ook aan het bepaalde in dit artikel.
 
 2. **Overkapping**
 
@@ -2585,7 +2587,7 @@ Iedere geheel overdekte reddingsboot is uitgerust met een waterdichte overkappin
 
 - b. De stabiliteit van de reddingsboot is zodanig dat deze zich vanzelf opricht indien zij beladen is met de volle of gedeeltelijke bezetting en volledige of gedeeltelijke uitrusting, alle toegangen en openingen waterdicht afgesloten zijn en de personen met hun veiligheidsgordel zijn vastgezet.
 
-- c. De reddingsboot kan de volle bezetting en de volledige uitrusting dragen wanneer de reddingsboot in de in [artikel 7.17, eerste lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0013342&hoofdstuk=7&paragraaf=3&artikel=7.17&z=2011-05-14&g=2011-05-14), omschreven beschadigde toestand verkeert, en de stabiliteit is zodanig dat in het geval de reddingsboot omslaat zij automatisch een stand verkrijgt waarbij ontsnapping boven water voor de inzittenden mogelijk is.
+- c. De reddingsboot kan de volle bezetting en de volledige uitrusting dragen wanneer de reddingsboot in de in [artikel 7.17, eerste lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0013342&hoofdstuk=7&paragraaf=3&artikel=7.17&z=2017-01-01&g=2017-01-01), omschreven beschadigde toestand verkeert, en de stabiliteit is zodanig dat in het geval de reddingsboot omslaat zij automatisch een stand verkrijgt waarbij ontsnapping boven water voor de inzittenden mogelijk is.
 
 - d. Het ontwerp van uitlaatpijpen van de motor, luchtkanalen en andere openingen is zodanig dat water buiten de motor wordt gehouden wanneer de reddingsboot omslaat en zich weer opricht.
 
@@ -2599,7 +2601,7 @@ Iedere geheel overdekte reddingsboot is uitgerust met een waterdichte overkappin
 
 5. **Constructie en stootdempers**
 
-Onverminderd het bepaalde in [artikel 7.17, eerste lid, onder f](https://wetten.overheid.nl/jci1.3:c:BWBR0013342&hoofdstuk=7&paragraaf=3&artikel=7.17&z=2011-05-14&g=2011-05-14), is een geheel overdekte reddingsboot zo gebouwd en van stootdempers voorzien dat deze aan inzittenden bescherming biedt tegen schadelijke versnellingen als gevolg van een slag van de reddingsboot, beladen met volle bezetting en volledige uitrusting, tegen de scheepszijde met een stootsnelheid van ten minste 3,5 m/s.
+Onverminderd het bepaalde in [artikel 7.17, eerste lid, onder f](https://wetten.overheid.nl/jci1.3:c:BWBR0013342&hoofdstuk=7&paragraaf=3&artikel=7.17&z=2017-01-01&g=2017-01-01), is een geheel overdekte reddingsboot zo gebouwd en van stootdempers voorzien dat deze aan inzittenden bescherming biedt tegen schadelijke versnellingen als gevolg van een slag van de reddingsboot, beladen met volle bezetting en volledige uitrusting, tegen de scheepszijde met een stootsnelheid van ten minste 3,5 m/s.
 
 6. **Reddingsboten die door middel van vrije val te water worden gelaten**
 
@@ -2635,9 +2637,9 @@ Een vrije-val reddingsboot is zodanig geconstrueerd dat hij bescherming biedt te
 
 2. **Minimum draagvermogen en massa van reddingsvlotten**
 
-- a. Een reddingsvlot, geschikt voor minder dan zes personen, berekend met gebruik van het bepaalde in [artikel 7.21, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013342&hoofdstuk=7&paragraaf=3&artikel=7.21&z=2011-05-14&g=2011-05-14), of [7.22, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013342&hoofdstuk=7&paragraaf=3&artikel=7.22&z=2011-05-14&g=2011-05-14), wordt niet goedgekeurd.
+- a. Een reddingsvlot, geschikt voor minder dan zes personen, berekend met gebruik van het bepaalde in [artikel 7.21, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013342&hoofdstuk=7&paragraaf=3&artikel=7.21&z=2017-01-01&g=2017-01-01), of [7.22, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013342&hoofdstuk=7&paragraaf=3&artikel=7.22&z=2017-01-01&g=2017-01-01), wordt niet goedgekeurd.
 
-- b. Tenzij een reddingsvlot te water gelaten wordt door een goedgekeurd tewaterlatingsmiddel dat voldoet aan het bepaalde in [artikel 7.32](https://wetten.overheid.nl/jci1.3:c:BWBR0013342&hoofdstuk=7&paragraaf=3&artikel=7.32&z=2011-05-14&g=2011-05-14), en zulk een reddingsvlot bovendien niet draagbaar behoeft te zijn, mag de totale massa van een reddingsvlot, de verpakking en de uitrusting niet meer dan 185 kg bedragen.
+- b. Tenzij een reddingsvlot te water gelaten wordt door een goedgekeurd tewaterlatingsmiddel dat voldoet aan het bepaalde in [artikel 7.32](https://wetten.overheid.nl/jci1.3:c:BWBR0013342&hoofdstuk=7&paragraaf=3&artikel=7.32&z=2017-01-01&g=2017-01-01), en zulk een reddingsvlot bovendien niet draagbaar behoeft te zijn, mag de totale massa van een reddingsvlot, de verpakking en de uitrusting niet meer dan 185 kg bedragen.
 
 3. **Voorzieningen voor reddingsvlotten**
 
@@ -2677,11 +2679,11 @@ Een vrije-val reddingsboot is zodanig geconstrueerd dat hij bescherming biedt te
 
 - 9°. een fluit of een gelijkwaardig middel voor het geven van geluidssignalen;
 
-- 10°. vier valschermsignalen die voldoen aan het bepaalde in [artikel 7.29](https://wetten.overheid.nl/jci1.3:c:BWBR0013342&hoofdstuk=7&paragraaf=3&artikel=7.29&z=2011-05-14&g=2011-05-14);
+- 10°. vier valschermsignalen die voldoen aan het bepaalde in [artikel 7.29](https://wetten.overheid.nl/jci1.3:c:BWBR0013342&hoofdstuk=7&paragraaf=3&artikel=7.29&z=2017-01-01&g=2017-01-01);
 
-- 11°. zes handstakellichten die voldoen aan het bepaalde in [artikel 7.30](https://wetten.overheid.nl/jci1.3:c:BWBR0013342&hoofdstuk=7&paragraaf=3&artikel=7.30&z=2011-05-14&g=2011-05-14);
+- 11°. zes handstakellichten die voldoen aan het bepaalde in [artikel 7.30](https://wetten.overheid.nl/jci1.3:c:BWBR0013342&hoofdstuk=7&paragraaf=3&artikel=7.30&z=2017-01-01&g=2017-01-01);
 
-- 12°. twee drijvende rooksignalen die voldoen aan het bepaalde in [artikel 7.31](https://wetten.overheid.nl/jci1.3:c:BWBR0013342&hoofdstuk=7&paragraaf=3&artikel=7.31&z=2011-05-14&g=2011-05-14);
+- 12°. twee drijvende rooksignalen die voldoen aan het bepaalde in [artikel 7.31](https://wetten.overheid.nl/jci1.3:c:BWBR0013342&hoofdstuk=7&paragraaf=3&artikel=7.31&z=2017-01-01&g=2017-01-01);
 
 - 13°. een waterdichte elektrische lantaarn geschikt voor het geven van morseseinen, alsmede een stel reservebatterijen en een reservelamp, verpakt in een waterdichte houder;
 
@@ -2705,9 +2707,9 @@ Een vrije-val reddingsboot is zodanig geconstrueerd dat hij bescherming biedt te
 
 - 23°. instructies omtrent maatregelen die onmiddellijk na inscheping in het vlot worden genomen;
 
-- 24°. hulpmiddelen tegen warmteverlies die voldoen aan het bepaalde in [artikel 26](https://wetten.overheid.nl/jci1.3:c:BWBR0013342&hoofdstuk=7&paragraaf=3&artikel=7.26&z=2011-05-14&g=2011-05-14), voldoende voor 2 personen of 10% van het aantal personen waarvoor het reddingsvlot is bestemd, welke van beide het grootste is.
+- 24°. hulpmiddelen tegen warmteverlies die voldoen aan het bepaalde in [artikel 26](https://wetten.overheid.nl/jci1.3:c:BWBR0013342&hoofdstuk=7&paragraaf=3&artikel=7.26&z=2017-01-01&g=2017-01-01), voldoende voor 2 personen of 10% van het aantal personen waarvoor het reddingsvlot is bestemd, welke van beide het grootste is.
 
-- b. De aanduiding betreffende het bij het reddingsvlot verpakte type noodpakket, voorgeschreven in [artikel 7.21, zevende lid, onder c, 5°](https://wetten.overheid.nl/jci1.3:c:BWBR0013342&hoofdstuk=7&paragraaf=3&artikel=7.21&z=2011-05-14&g=2011-05-14) en [7.22, zevende lid, 7°](https://wetten.overheid.nl/jci1.3:c:BWBR0013342&hoofdstuk=7&paragraaf=3&artikel=7.22&z=2011-05-14&g=2011-05-14), op reddingsvlotten die overeenkomstig het voorgaande lid zijn uitgerust, is: «SOLAS-A-PACK» in blokletters.
+- b. De aanduiding betreffende het bij het reddingsvlot verpakte type noodpakket, voorgeschreven in [artikel 7.21, zevende lid, onder c, 5°](https://wetten.overheid.nl/jci1.3:c:BWBR0013342&hoofdstuk=7&paragraaf=3&artikel=7.21&z=2017-01-01&g=2017-01-01) en [7.22, zevende lid, 7°](https://wetten.overheid.nl/jci1.3:c:BWBR0013342&hoofdstuk=7&paragraaf=3&artikel=7.22&z=2017-01-01&g=2017-01-01), op reddingsvlotten die overeenkomstig het voorgaande lid zijn uitgerust, is: «SOLAS-A-PACK» in blokletters.
 
 - c. De daartoe geschikte onderdelen van de uitrusting worden geborgen in een verpakking die, wanneer deze geen volledig onderdeel is van of blijvend bevestigd is aan het reddingsvlot, wordt geborgen en vastgezet binnen het reddingsvlot, en die ten minste 30 minuten in het water kan drijven zonder dat de inhoud wordt beschadigd.
 
@@ -2743,7 +2745,7 @@ Een vrije-val reddingsboot is zodanig geconstrueerd dat hij bescherming biedt te
 
 ##### Artikel 7.21. Automatisch opblaasbare reddingsvlotten
 
-1. In aanvulling op het bepaalde in [artikel 7.20](https://wetten.overheid.nl/jci1.3:c:BWBR0013342&hoofdstuk=7&paragraaf=3&artikel=7.20&z=2011-05-14&g=2011-05-14) voldoen automatisch opblaasbare reddingsvlotten tevens aan het bepaalde in dit artikel.
+1. In aanvulling op het bepaalde in [artikel 7.20](https://wetten.overheid.nl/jci1.3:c:BWBR0013342&hoofdstuk=7&paragraaf=3&artikel=7.20&z=2017-01-01&g=2017-01-01) voldoen automatisch opblaasbare reddingsvlotten tevens aan het bepaalde in dit artikel.
 
 2. **Constructie van automatisch opblaasbare reddingsvlotten**
 
@@ -2787,7 +2789,7 @@ Het aantal personen waarvoor een reddingsvlot wordt goedgekeurd, is gelijk aan h
 
 6. **Voorzieningen voor automatisch opblaasbare reddingsvlotten**
 
-- a. De breeksterkte van het vanglijnsysteem, de wijze van bevestiging aan het reddingsvlot inbegrepen, maar met uitzondering van de breekdraad, bedoeld in [artikel 7.20, zesde lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0013342&hoofdstuk=7&paragraaf=3&artikel=7.20&z=2011-05-14&g=2011-05-14), is ten minste 10,0 kN voor een reddingsvlot dat is goedgekeurd voor 9 of meer personen en ten minste 7,5 kN voor een reddingsvlot dat is goedgekeurd voor minder dan 9 personen. Het opblaasmechanisme van een reddingsvlot kan door één persoon bediend worden.
+- a. De breeksterkte van het vanglijnsysteem, de wijze van bevestiging aan het reddingsvlot inbegrepen, maar met uitzondering van de breekdraad, bedoeld in [artikel 7.20, zesde lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0013342&hoofdstuk=7&paragraaf=3&artikel=7.20&z=2017-01-01&g=2017-01-01), is ten minste 10,0 kN voor een reddingsvlot dat is goedgekeurd voor 9 of meer personen en ten minste 7,5 kN voor een reddingsvlot dat is goedgekeurd voor minder dan 9 personen. Het opblaasmechanisme van een reddingsvlot kan door één persoon bediend worden.
 
 - b. Op het hoogste punt van de overkapping van het reddingsvlot is een met de hand in- en uitschakelbare lamp aangebracht, die bij donkere nacht en heldere atmosfeer over een afstand van ten minste 2 zeemijl gedurende ten minste 12 uur zichtbaar is. Indien die lamp een flikkerlicht geeft, bedraagt de frequentie ten minste 50 flikkeringen per minuut gedurende de eerste 2 van de 12 gebruiksuren. De lamp wordt gevoed door een door zeewater geactiveerde batterij of door een droge batterij, en gaat automatisch branden wanneer het reddingsvlot wordt opgeblazen. De batterij is van een type dat niet door vocht of vochtigheid in het ingepakte reddingsvlot wordt aangetast.
 
@@ -2853,17 +2855,17 @@ Op het reddingsvlot is aangegeven:
 
 10. **Uitrusting van automatisch opblaasbare reddingsvlotten**
 
-- a. In aanvulling op de uitrusting, voorgeschreven in [artikel 7.20, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013342&hoofdstuk=7&paragraaf=3&artikel=7.20&z=2011-05-14&g=2011-05-14), is een automatisch opblaasbaar reddingsvlot tevens voorzien van:
+- a. In aanvulling op de uitrusting, voorgeschreven in [artikel 7.20, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013342&hoofdstuk=7&paragraaf=3&artikel=7.20&z=2017-01-01&g=2017-01-01), is een automatisch opblaasbaar reddingsvlot tevens voorzien van:
 
 - 1°. reparatiemateriaal om lekken in de drijfkamers te herstellen;
 
 - 2°. een handpomp of blaasbalg.
 
-- b. De messen, voorgeschreven in [artikel 7.20, vijfde lid, onder a, 2°](https://wetten.overheid.nl/jci1.3:c:BWBR0013342&hoofdstuk=7&paragraaf=3&artikel=7.20&z=2011-05-14&g=2011-05-14), zijn veiligheidsmessen.
+- b. De messen, voorgeschreven in [artikel 7.20, vijfde lid, onder a, 2°](https://wetten.overheid.nl/jci1.3:c:BWBR0013342&hoofdstuk=7&paragraaf=3&artikel=7.20&z=2017-01-01&g=2017-01-01), zijn veiligheidsmessen.
 
 ##### Artikel 7.22. Vaste reddingsvlotten
 
-1. In aanvulling op het bepaalde in [artikel 7.20](https://wetten.overheid.nl/jci1.3:c:BWBR0013342&hoofdstuk=7&paragraaf=3&artikel=7.20&z=2011-05-14&g=2011-05-14) voldoen vaste reddingsvlotten tevens aan het bepaalde in dit artikel.
+1. In aanvulling op het bepaalde in [artikel 7.20](https://wetten.overheid.nl/jci1.3:c:BWBR0013342&hoofdstuk=7&paragraaf=3&artikel=7.20&z=2017-01-01&g=2017-01-01) voldoen vaste reddingsvlotten tevens aan het bepaalde in dit artikel.
 
 2. **Constructie van vaste reddingsvlotten**
 
@@ -2897,7 +2899,7 @@ Het aantal personen waarvoor een reddingsvlot wordt goedgekeurd is gelijk aan he
 
 6. **Voorzieningen voor vaste reddingsvlotten**
 
-- a. Het reddingsvlot is uitgerust met een doelmatige vanglijn. De breeksterkte van het vanglijnsysteem, de wijze van bevestiging aan het reddingsvlot inbegrepen, maar met uitzondering van de breekdraad, bedoeld in [artikel 7.20, zesde lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0013342&hoofdstuk=7&paragraaf=3&artikel=7.20&z=2011-05-14&g=2011-05-14), is ten minste 10,0 kN voor een reddingsvlot dat is goedgekeurd voor 9 of meer personen en ten minste 7,5 kN voor een reddingsvlot dat is goedgekeurd voor minder dan 9 personen.
+- a. Het reddingsvlot is uitgerust met een doelmatige vanglijn. De breeksterkte van het vanglijnsysteem, de wijze van bevestiging aan het reddingsvlot inbegrepen, maar met uitzondering van de breekdraad, bedoeld in [artikel 7.20, zesde lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0013342&hoofdstuk=7&paragraaf=3&artikel=7.20&z=2017-01-01&g=2017-01-01), is ten minste 10,0 kN voor een reddingsvlot dat is goedgekeurd voor 9 of meer personen en ten minste 7,5 kN voor een reddingsvlot dat is goedgekeurd voor minder dan 9 personen.
 
 - b. Op het hoogste punt van de overkapping van het reddingsvlot is een met de hand in- en uitschakelbare lamp aangebracht, die bij donkere nacht en heldere atmosfeer over een afstand van ten minste 2 zeemijl gedurende ten minste 12 uur zichtbaar is. Indien die lamp een flikkerlicht geeft, bedraagt de frequentie ten minste 50 flikkeringen per minuut gedurende de eerste 2 van de 12 gebruiksuren. De lamp wordt gevoed door een door zeewater geactiveerde batterij of door een droge batterij, en gaat automatisch branden wanneer de overkapping wordt opgezet. De batterij is van een type dat niet door vocht of vochtigheid in het ingepakte reddingsvlot wordt aangetast.
 
@@ -2935,7 +2937,7 @@ Bovendien kan een vast reddingsvlot van het strijkbare type, wanneer het aan de 
 
 1. **Algemene eisen**
 
-- a. In aanvulling op het bepaalde in dit artikel voldoen alle hulpverleningsboten aan het bepaalde in [artikel 7.17, eerste tot en met zevende lid, onder d, f, g, i en l, en negende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013342&hoofdstuk=7&paragraaf=3&artikel=7.17&z=2011-05-14&g=2011-05-14).
+- a. In aanvulling op het bepaalde in dit artikel voldoen alle hulpverleningsboten aan het bepaalde in [artikel 7.17, eerste tot en met zevende lid, onder d, f, g, i en l, en negende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013342&hoofdstuk=7&paragraaf=3&artikel=7.17&z=2017-01-01&g=2017-01-01).
 
 - b. Hulpverleningsboten mogen van een vaste constructie zijn of van een constructie van het opblaasbare type, of van een constructie waarin beide mogelijkheden gecombineerd zijn, en:
 
@@ -2953,7 +2955,7 @@ Bovendien kan een vast reddingsvlot van het strijkbare type, wanneer het aan de 
 
 - g. Hulpverleningsboten zijn voldoende handelbaar en manoeuvreerbaar om bij zeegang personen uit het water te kunnen halen, reddingsvlotten bij elkaar te kunnen brengen, en het grootste type reddingsvlot dat aan boord is, beladen met volle bezetting en volledige uitrusting of een gelijkwaardige massa, met een vaart van ten minste 2 zeemijl per uur te kunnen slepen.
 
-- h. Een hulpverleningsboot is met een binnenboord- of buitenboordmotor uitgerust. Indien een buitenboordmotor is toegepast, mogen het roer en de helmstok een onderdeel van de motor vormen. In afwijking van het bepaalde in [artikel 7.17, zesde lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0013342&hoofdstuk=7&paragraaf=3&artikel=7.17&z=2011-05-14&g=2011-05-14), kunnen buitenboordbenzinemotoren met een goedgekeurd brandstofsysteem worden toegepast in hulpverleningsboten, mits de brandstoftanks op bijzondere wijze tegen brand en explosie worden beschermd.
+- h. Een hulpverleningsboot is met een binnenboord- of buitenboordmotor uitgerust. Indien een buitenboordmotor is toegepast, mogen het roer en de helmstok een onderdeel van de motor vormen. In afwijking van het bepaalde in [artikel 7.17, zesde lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0013342&hoofdstuk=7&paragraaf=3&artikel=7.17&z=2017-01-01&g=2017-01-01), kunnen buitenboordbenzinemotoren met een goedgekeurd brandstofsysteem worden toegepast in hulpverleningsboten, mits de brandstoftanks op bijzondere wijze tegen brand en explosie worden beschermd.
 
 - i. Er zijn permanente sleepvoorzieningen in de hulpverleningsboot aangebracht en deze zijn sterk genoeg om reddingsvlotten bij elkaar te brengen of te slepen, als voorgeschreven onder g.
 
@@ -2973,7 +2975,7 @@ Bovendien kan een vast reddingsvlot van het strijkbare type, wanneer het aan de 
 
 - 4°. een drijfanker van voldoende grootte met een schokbestendige sleeplijn van ten minste 10 m lengte en een kaailijn;
 
-- 5°. een vanglijn van voldoende lengte en sterkte, bevestigd aan het ontkoppelingsmiddel, voorgeschreven in [artikel 7.17, zevende lid, onder g](https://wetten.overheid.nl/jci1.3:c:BWBR0013342&hoofdstuk=7&paragraaf=3&artikel=7.17&z=2011-05-14&g=2011-05-14), gereedliggend aan de voorkant van de hulpverleningsboot;
+- 5°. een vanglijn van voldoende lengte en sterkte, bevestigd aan het ontkoppelingsmiddel, voorgeschreven in [artikel 7.17, zevende lid, onder g](https://wetten.overheid.nl/jci1.3:c:BWBR0013342&hoofdstuk=7&paragraaf=3&artikel=7.17&z=2017-01-01&g=2017-01-01), gereedliggend aan de voorkant van de hulpverleningsboot;
 
 - 6°. een drijvende lijn van ten minste 50 m lengte, sterk genoeg om een reddingsvlot te slepen als voorgeschreven in het eerste lid, onder g;
 
@@ -2989,7 +2991,7 @@ Bovendien kan een vast reddingsvlot van het strijkbare type, wanneer het aan de 
 
 - 12°. een doelmatige radarreflector;
 
-- 13°. hulpmiddelen tegen warmteverlies die voldoen aan het bepaalde in [artikel 7.26](https://wetten.overheid.nl/jci1.3:c:BWBR0013342&hoofdstuk=7&paragraaf=3&artikel=7.26&z=2011-05-14&g=2011-05-14), voldoende voor 2 personen of 10% van het aantal personen waarvoor in de hulpverleningsboot ruimte is bestemd, welk van beide het grootste is.
+- 13°. hulpmiddelen tegen warmteverlies die voldoen aan het bepaalde in [artikel 7.26](https://wetten.overheid.nl/jci1.3:c:BWBR0013342&hoofdstuk=7&paragraaf=3&artikel=7.26&z=2017-01-01&g=2017-01-01), voldoende voor 2 personen of 10% van het aantal personen waarvoor in de hulpverleningsboot ruimte is bestemd, welk van beide het grootste is.
 
 - c. Behalve uit de uitrusting voorgeschreven in het tweede lid, onder b, bestaat de normale uitrusting van iedere vaste hulpverleningsboot uit:
 
@@ -3013,7 +3015,7 @@ Bovendien kan een vast reddingsvlot van het strijkbare type, wanneer het aan de 
 
 3. **Aanvullende eisen voor hulpverleningsboten in opgeblazen toestand**
 
-- a. Het bepaalde in [artikel 7.17, eerste lid, onder c en e](https://wetten.overheid.nl/jci1.3:c:BWBR0013342&hoofdstuk=7&paragraaf=3&artikel=7.17&z=2011-05-14&g=2011-05-14), is niet van toepassing op hulpverleningsboten in opgeblazen toestand.
+- a. Het bepaalde in [artikel 7.17, eerste lid, onder c en e](https://wetten.overheid.nl/jci1.3:c:BWBR0013342&hoofdstuk=7&paragraaf=3&artikel=7.17&z=2017-01-01&g=2017-01-01), is niet van toepassing op hulpverleningsboten in opgeblazen toestand.
 
 - b. Een hulpverleningsboot in opgeblazen toestand is zo vervaardigd dat, wanneer deze aan zijn spruit of haak hangt:
 
@@ -3029,7 +3031,7 @@ Bovendien kan een vast reddingsvlot van het strijkbare type, wanneer het aan de 
 
 - 2°. gedurende 30 dagen drijvend in alle toestanden van zeegang.
 
-- d. In aanvulling op het bepaalde in [artikel 7.17, negende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013342&hoofdstuk=7&paragraaf=3&artikel=7.17&z=2011-05-14&g=2011-05-14), zijn hulpverleningsboten in opgeblazen toestand gemerkt met het serienummer, de naam of het handelsmerk van de fabrikant en de datum van fabricage.
+- d. In aanvulling op het bepaalde in [artikel 7.17, negende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013342&hoofdstuk=7&paragraaf=3&artikel=7.17&z=2017-01-01&g=2017-01-01), zijn hulpverleningsboten in opgeblazen toestand gemerkt met het serienummer, de naam of het handelsmerk van de fabrikant en de datum van fabricage.
 
 - e. Het drijfvermogen van een hulpverleningsboot in opgeblazen toestand wordt geleverd hetzij door een enkel drijflichaam onderverdeeld in ten minste vijf verschillende compartimenten van nagenoeg dezelfde inhoud, hetzij door twee verschillende drijflichamen die geen van beide groter zijn dan 60% van het totale volume. De drijflichamen zijn zo ontworpen dat wanneer een van de compartimenten is beschadigd, de compartimenten die nog intact zijn, de hulpverleningsboot drijvend kunnen houden met het aantal personen waarvoor de hulpverleningsboot is bestemd, ieder met een massa van 75 kg en zittend op de normale plaats, met een positief vrijboord rondom de boot.
 
@@ -3117,7 +3119,7 @@ Een reddingsgordel waarvan het drijfvermogen afhankelijk is van opblazen, heeft 
 
 - 5°. er geen overmatige hoeveelheid water in het pak binnendringt na een sprong vanaf een hoogte van ten minste 4,5 m in het water.
 
-- b. Een overlevingspak dat voldoet aan het bepaalde in [artikel 7.24](https://wetten.overheid.nl/jci1.3:c:BWBR0013342&hoofdstuk=7&paragraaf=3&artikel=7.24&z=2011-05-14&g=2011-05-14) mag als een reddingsgordel beschouwd worden.
+- b. Een overlevingspak dat voldoet aan het bepaalde in [artikel 7.24](https://wetten.overheid.nl/jci1.3:c:BWBR0013342&hoofdstuk=7&paragraaf=3&artikel=7.24&z=2017-01-01&g=2017-01-01) mag als een reddingsgordel beschouwd worden.
 
 - c. Een overlevingspak stelt de drager, indien deze tevens een reddingsgordel draagt, in staat om:
 
@@ -3129,7 +3131,7 @@ Een reddingsgordel waarvan het drijfvermogen afhankelijk is van opblazen, heeft 
 
 - 4°. een korte afstand door het water te zwemmen en in een groepsreddingsmiddel te klimmen.
 
-- d. Een overlevingspak dat drijfvermogen heeft en ontworpen is om zonder reddingsgordel gedragen te worden, is voorzien van een licht dat voldoet aan het bepaalde in [artikel 7.24, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013342&hoofdstuk=7&paragraaf=3&artikel=7.24&z=2011-05-14&g=2011-05-14), en een signaalfluit als voorgeschreven in [artikel 7.24, eerste lid, onder f](https://wetten.overheid.nl/jci1.3:c:BWBR0013342&hoofdstuk=7&paragraaf=3&artikel=7.24&z=2011-05-14&g=2011-05-14).
+- d. Een overlevingspak dat drijfvermogen heeft en ontworpen is om zonder reddingsgordel gedragen te worden, is voorzien van een licht dat voldoet aan het bepaalde in [artikel 7.24, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013342&hoofdstuk=7&paragraaf=3&artikel=7.24&z=2017-01-01&g=2017-01-01), en een signaalfluit als voorgeschreven in [artikel 7.24, eerste lid, onder f](https://wetten.overheid.nl/jci1.3:c:BWBR0013342&hoofdstuk=7&paragraaf=3&artikel=7.24&z=2017-01-01&g=2017-01-01).
 
 - e. Indien het overlevingspak samen met een reddingsgordel moet worden gedragen, wordt de reddingsgordel over het overlevingspak heen gedragen. Iemand die een dergelijk overlevingspak draagt, moet de reddingsgordel zonder hulp kunnen aandoen.
 
@@ -3147,7 +3149,7 @@ Een reddingsgordel waarvan het drijfvermogen afhankelijk is van opblazen, heeft 
 
 3. **Eisen voor het drijfvermogen van overlevingspakken**
 
-Een persoon die in zoet water een overlevingspak draagt dat voldoet aan het bepaalde in [artikel 7.24](https://wetten.overheid.nl/jci1.3:c:BWBR0013342&hoofdstuk=7&paragraaf=3&artikel=7.24&z=2011-05-14&g=2011-05-14) of een overlevingspak in combinatie met een reddingsgordel moet zich in niet meer dan 5 seconden kunnen keren van de stand met het gezicht naar beneden tot die met het gezicht naar boven.
+Een persoon die in zoet water een overlevingspak draagt dat voldoet aan het bepaalde in [artikel 7.24](https://wetten.overheid.nl/jci1.3:c:BWBR0013342&hoofdstuk=7&paragraaf=3&artikel=7.24&z=2017-01-01&g=2017-01-01) of een overlevingspak in combinatie met een reddingsgordel moet zich in niet meer dan 5 seconden kunnen keren van de stand met het gezicht naar beneden tot die met het gezicht naar boven.
 
 ##### Artikel 7.26. Hulpmiddelen tegen warmteverlies
 
@@ -3187,7 +3189,7 @@ Een reddingsboei voldoet aan de volgende eisen:
 
 2. **Zelfontbrandende lichten voor reddingsboeien**
 
-Een zelfontbrandend licht als voorgeschreven in [artikel 7.10, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013342&hoofdstuk=7&paragraaf=2&artikel=7.10&z=2011-05-14&g=2011-05-14), voldoet aan de volgende eisen:
+Een zelfontbrandend licht als voorgeschreven in [artikel 7.10, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013342&hoofdstuk=7&paragraaf=2&artikel=7.10&z=2017-01-01&g=2017-01-01), voldoet aan de volgende eisen:
 
 - 1°. het is zo vervaardigd, dat het niet door water kan worden gedoofd;
 
@@ -3199,7 +3201,7 @@ Een zelfontbrandend licht als voorgeschreven in [artikel 7.10, tweede lid](https
 
 3. **Zelfwerkende rooksignalen voor reddingsboeien**
 
-Een zelfwerkend rooksignaal als voorgeschreven in [artikel 7.10, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013342&hoofdstuk=7&paragraaf=2&artikel=7.10&z=2011-05-14&g=2011-05-14), voldoet aan de volgende eisen:
+Een zelfwerkend rooksignaal als voorgeschreven in [artikel 7.10, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013342&hoofdstuk=7&paragraaf=2&artikel=7.10&z=2017-01-01&g=2017-01-01), voldoet aan de volgende eisen:
 
 - 1°. het kan drijvend in kalm water, gedurende ten minste 15 minuten rook van een goed zichtbare kleur met gelijkmatige snelheid afgeven;
 
@@ -3213,7 +3215,7 @@ Een zelfwerkend rooksignaal als voorgeschreven in [artikel 7.10, derde lid](http
 
 4. **Drijvende lijnen voor reddingsboeien**
 
-Een drijvende lijn als voorgeschreven in [artikel 7.10, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013342&hoofdstuk=7&paragraaf=2&artikel=7.10&z=2011-05-14&g=2011-05-14), voldoet aan de volgende eisen:
+Een drijvende lijn als voorgeschreven in [artikel 7.10, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013342&hoofdstuk=7&paragraaf=2&artikel=7.10&z=2017-01-01&g=2017-01-01), voldoet aan de volgende eisen:
 
 - 1°. zij mag niet kinken;
 
@@ -3331,7 +3333,7 @@ Een drijvende lijn als voorgeschreven in [artikel 7.10, vierde lid](https://wett
 
 - i. Een tewaterlatingsmiddel voor een reddingsboot kan die reddingsboot met zijn bedieningsbemanning ophijsen.
 
-- j. Een tewaterlatingsmiddel is zodanig ingericht dat de inscheping in het groepsreddingsmiddel, in overeenstemming met het bepaalde in de [artikelen 7.20, vierde lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0013342&hoofdstuk=7&paragraaf=3&artikel=7.20&z=2011-05-14&g=2011-05-14), en [7.17, derde lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0013342&hoofdstuk=7&paragraaf=3&artikel=7.17&z=2011-05-14&g=2011-05-14), kan geschieden.
+- j. Een tewaterlatingsmiddel is zodanig ingericht dat de inscheping in het groepsreddingsmiddel, in overeenstemming met het bepaalde in de [artikelen 7.20, vierde lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0013342&hoofdstuk=7&paragraaf=3&artikel=7.20&z=2017-01-01&g=2017-01-01), en [7.17, derde lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0013342&hoofdstuk=7&paragraaf=3&artikel=7.17&z=2017-01-01&g=2017-01-01), kan geschieden.
 
 2. **Tewaterlatingsmiddelen waarbij gebruik wordt gemaakt van lopers en een lier**
 
@@ -3405,7 +3407,7 @@ De artikelen in dit hoofdstuk zijn van toepassing op nieuwe en bestaande vaartui
 
 ##### Artikel 8.2. Algemeen-alarminstallatie, alarmrol en instructies voor noodgevallen
 
-1. De algemeen-alarminstallatie kan het algemeen-alarmsignaal geven, bestaande uit zeven of meer korte stoten gevolgd door één lange stoot, door middel van de scheepsfluit of -sirene, en bovendien door middel van een elektrische bel, claxon of ander gelijkwaardig waarschuwingssysteem dat wordt gevoed door de elektrische hoofdkrachtbron van het vaartuig en door de elektrische noodkrachtbron als voorgeschreven in [artikel 4.17](https://wetten.overheid.nl/jci1.3:c:BWBR0013342&hoofdstuk=4&paragraaf=3&artikel=4.17&z=2011-05-14&g=2011-05-14).
+1. De algemeen-alarminstallatie kan het algemeen-alarmsignaal geven, bestaande uit zeven of meer korte stoten gevolgd door één lange stoot, door middel van de scheepsfluit of -sirene, en bovendien door middel van een elektrische bel, claxon of ander gelijkwaardig waarschuwingssysteem dat wordt gevoed door de elektrische hoofdkrachtbron van het vaartuig en door de elektrische noodkrachtbron als voorgeschreven in [artikel 4.17](https://wetten.overheid.nl/jci1.3:c:BWBR0013342&hoofdstuk=4&paragraaf=3&artikel=4.17&z=2017-01-01&g=2017-01-01).
 
 2. Voor elke opvarende zijn duidelijke instructies aan boord, die in geval van nood gevolgd moeten worden.
 
@@ -3705,15 +3707,15 @@ De bemanning is voldoende geoefend in het uitoefenen van haar taken gedurende no
 
 ##### Artikel 9.3. Ontheffingen
 
-1. Het Hoofd van de Scheepvaartinspectie kan gedeeltelijke of voorwaardelijke ontheffing verlenen van de eisen, gesteld bij of krachtens de [artikelen 9.6 tot en met 9.10](https://wetten.overheid.nl/jci1.3:c:BWBR0013342&hoofdstuk=9&paragraaf=2&artikel=9.6&z=2011-05-14&g=2011-05-14) en [9.14, zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013342&hoofdstuk=9&paragraaf=2&artikel=9.14&z=2011-05-14&g=2011-05-14), indien:
+1. Het Hoofd van de Scheepvaartinspectie kan gedeeltelijke of voorwaardelijke ontheffing verlenen van de eisen, gesteld bij of krachtens de [artikelen 9.6 tot en met 9.10](https://wetten.overheid.nl/jci1.3:c:BWBR0013342&hoofdstuk=9&paragraaf=2&artikel=9.6&z=2017-01-01&g=2017-01-01) en [9.14, zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013342&hoofdstuk=9&paragraaf=2&artikel=9.14&z=2017-01-01&g=2017-01-01), indien:
 
-- a. voldaan wordt aan [artikel 9.4](https://wetten.overheid.nl/jci1.3:c:BWBR0013342&hoofdstuk=9&paragraaf=1&artikel=9.4&z=2011-05-14&g=2011-05-14), en
+- a. voldaan wordt aan [artikel 9.4](https://wetten.overheid.nl/jci1.3:c:BWBR0013342&hoofdstuk=9&paragraaf=1&artikel=9.4&z=2017-01-01&g=2017-01-01), en
 
 - b. de algemene doelmatigheid van de dienstverlening ten behoeve van de veiligheid van alle vaartuigen niet in het geding komt.
 
 2. Een ontheffing als bedoeld in het eerste lid kan uitsluitend worden verleend:
 
-- a. indien de omstandigheden met betrekking tot de veiligheid zodanig zijn dat de volledige toepassing van de [artikelen 9.6 tot en met 9.10](https://wetten.overheid.nl/jci1.3:c:BWBR0013342&hoofdstuk=9&paragraaf=2&artikel=9.6&z=2011-05-14&g=2011-05-14) en [9.14, zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013342&hoofdstuk=9&paragraaf=2&artikel=9.14&z=2011-05-14&g=2011-05-14), onredelijk of onnodig is, of
+- a. indien de omstandigheden met betrekking tot de veiligheid zodanig zijn dat de volledige toepassing van de [artikelen 9.6 tot en met 9.10](https://wetten.overheid.nl/jci1.3:c:BWBR0013342&hoofdstuk=9&paragraaf=2&artikel=9.6&z=2017-01-01&g=2017-01-01) en [9.14, zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013342&hoofdstuk=9&paragraaf=2&artikel=9.14&z=2017-01-01&g=2017-01-01), onredelijk of onnodig is, of
 
 - b. in uitzonderlijke omstandigheden, voor een eenmalige reis buiten het zeegebied of de zeegebieden waarvoor het vaartuig is uitgerust.
 
@@ -3723,7 +3725,7 @@ De bemanning is voldoende geoefend in het uitoefenen van haar taken gedurende no
 
 Elk vissersvaartuig dat zich op zee bevindt is in staat om:
 
-- a. noodalarmering van het vaartuig naar de wal te verzenden met ten minste twee verschillende, van elkaar onafhankelijke installaties, met gebruikmaking van gescheiden radiocommunicatie systemen, uitgezonderd in de omstandigheid, bedoeld in [artikel 9.7, eerste lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0013342&hoofdstuk=9&paragraaf=2&artikel=9.7&z=2011-05-14&g=2011-05-14), en [artikel 9.9, eerste lid, onder d, 3°](https://wetten.overheid.nl/jci1.3:c:BWBR0013342&hoofdstuk=9&paragraaf=2&artikel=9.9&z=2011-05-14&g=2011-05-14),
+- a. noodalarmering van het vaartuig naar de wal te verzenden met ten minste twee verschillende, van elkaar onafhankelijke installaties, met gebruikmaking van gescheiden radiocommunicatie systemen, uitgezonderd in de omstandigheid, bedoeld in [artikel 9.7, eerste lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0013342&hoofdstuk=9&paragraaf=2&artikel=9.7&z=2017-01-01&g=2017-01-01), en [artikel 9.9, eerste lid, onder d, 3°](https://wetten.overheid.nl/jci1.3:c:BWBR0013342&hoofdstuk=9&paragraaf=2&artikel=9.9&z=2017-01-01&g=2017-01-01),
 
 - b. noodalarmering van de wal naar het vaartuig te ontvangen,
 
@@ -3733,7 +3735,7 @@ Elk vissersvaartuig dat zich op zee bevindt is in staat om:
 
 - e. berichtgeving op locatie te verzenden en te ontvangen,
 
-- f. de signalen ten behoeve van het opsporen van schepen, vissersvaartuigen, luchtvaartuigen of personen in nood te verzenden en, door middel van de in [artikel 10.3, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013342&hoofdstuk=10&artikel=10.3&z=2011-05-14&g=2011-05-14), voorgeschreven radarapparatuur, te ontvangen,
+- f. de signalen ten behoeve van het opsporen van schepen, vissersvaartuigen, luchtvaartuigen of personen in nood te verzenden en, door middel van de in [artikel 10.3, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013342&hoofdstuk=10&artikel=10.3&z=2017-01-01&g=2017-01-01), voorgeschreven radarapparatuur, te ontvangen,
 
 - g. maritieme veiligheidsinformatie te verzenden en te ontvangen,
 
@@ -3745,7 +3747,7 @@ Elk vissersvaartuig dat zich op zee bevindt is in staat om:
 
 ##### Artikel 9.5. Radio-installatie
 
-1. Een vissersvaartuig is uitgerust met radio-installaties die in staat zijn om gedurende de hele voorgenomen reis te voldoen aan [artikel 9.4](https://wetten.overheid.nl/jci1.3:c:BWBR0013342&hoofdstuk=9&paragraaf=1&artikel=9.4&z=2011-05-14&g=2011-05-14) en die tevens voldoen aan [artikel 9.6](https://wetten.overheid.nl/jci1.3:c:BWBR0013342&hoofdstuk=9&paragraaf=2&artikel=9.6&z=2011-05-14&g=2011-05-14) en, voorzover van toepassing in het zeegebied of de zeegebieden waarbinnen de voorgenomen reis valt, aan de [artikelen 9.7 tot en met 9.10](https://wetten.overheid.nl/jci1.3:c:BWBR0013342&hoofdstuk=9&paragraaf=2&artikel=9.7&z=2011-05-14&g=2011-05-14), tenzij een ontheffing is verleend als bedoeld in [artikel 9.3](https://wetten.overheid.nl/jci1.3:c:BWBR0013342&hoofdstuk=9&paragraaf=1&artikel=9.3&z=2011-05-14&g=2011-05-14).
+1. Een vissersvaartuig is uitgerust met radio-installaties die in staat zijn om gedurende de hele voorgenomen reis te voldoen aan [artikel 9.4](https://wetten.overheid.nl/jci1.3:c:BWBR0013342&hoofdstuk=9&paragraaf=1&artikel=9.4&z=2017-01-01&g=2017-01-01) en die tevens voldoen aan [artikel 9.6](https://wetten.overheid.nl/jci1.3:c:BWBR0013342&hoofdstuk=9&paragraaf=2&artikel=9.6&z=2017-01-01&g=2017-01-01) en, voorzover van toepassing in het zeegebied of de zeegebieden waarbinnen de voorgenomen reis valt, aan de [artikelen 9.7 tot en met 9.10](https://wetten.overheid.nl/jci1.3:c:BWBR0013342&hoofdstuk=9&paragraaf=2&artikel=9.7&z=2017-01-01&g=2017-01-01), tenzij een ontheffing is verleend als bedoeld in [artikel 9.3](https://wetten.overheid.nl/jci1.3:c:BWBR0013342&hoofdstuk=9&paragraaf=1&artikel=9.3&z=2017-01-01&g=2017-01-01).
 
 2. De radio-installatie is:
 
@@ -3763,7 +3765,7 @@ Elk vissersvaartuig dat zich op zee bevindt is in staat om:
 
 ##### Artikel 9.6. Algemene bepalingen voor de radio-uitrusting
 
-Behalve in het geval, bedoeld in [artikel 9.9, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013342&hoofdstuk=9&paragraaf=2&artikel=9.9&z=2011-05-14&g=2011-05-14), is elk vaartuig uitgerust met:
+Behalve in het geval, bedoeld in [artikel 9.9, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013342&hoofdstuk=9&paragraaf=2&artikel=9.9&z=2017-01-01&g=2017-01-01), is elk vaartuig uitgerust met:
 
 - a. een VHF-radio-installatie die in staat is tot het zenden en ontvangen van:
 
@@ -3777,13 +3779,13 @@ Behalve in het geval, bedoeld in [artikel 9.9, vierde lid](https://wetten.overhe
 
 - 1°. zo is geplaatst dat hij gemakkelijk kan worden bediend, en
 
-- 2°. een van de in [artikel 7.14](https://wetten.overheid.nl/jci1.3:c:BWBR0013342&hoofdstuk=7&paragraaf=2&artikel=7.14&z=2011-05-14&g=2011-05-14) voorgeschreven radartransponders voor de groepsreddingsmiddelen kan zijn;
+- 2°. een van de in [artikel 7.14](https://wetten.overheid.nl/jci1.3:c:BWBR0013342&hoofdstuk=7&paragraaf=2&artikel=7.14&z=2017-01-01&g=2017-01-01) voorgeschreven radartransponders voor de groepsreddingsmiddelen kan zijn;
 
 - d. een ontvanger die de uitzendingen van het internationaal NAVTEX-systeem kan ontvangen indien het vaartuig reizen maakt in een gebied waar het internationaal NAVTEX-systeem wordt toegepast;
 
 - e. een radiovoorziening voor de ontvangst van maritieme veiligheidsberichtgeving door het EGC-systeem indien het vaartuig is bestemd om reizen te ondernemen in een vaargebied binnen het bereik van het INMARSAT-systeem waar geen internationaal NAVTEX-systeem beschikbaar is. Het Hoofd van de Scheepvaartinspectie kan vaartuigen die uitsluitend bestemd zijn om reizen te ondernemen in gebieden waar een DPT-systeem voor maritieme veiligheidsberichtgeving beschikbaar is en die zijn uitgerust met apparatuur die geschikt is om van dit systeem gebruik te maken, ontheffing verlenen van het bepaalde in dit lid;
 
-- f. met inachtneming van het bepaalde in [artikel 9.7, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013342&hoofdstuk=9&paragraaf=2&artikel=9.7&z=2011-05-14&g=2011-05-14), een satellietnoodradiobaken dat:
+- f. met inachtneming van het bepaalde in [artikel 9.7, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013342&hoofdstuk=9&paragraaf=2&artikel=9.7&z=2017-01-01&g=2017-01-01), een satellietnoodradiobaken dat:
 
 - 1°. noodberichten kan verzenden door ofwel gebruik te maken van het POSS in de 406 MHz-band ofwel, indien het vaartuig bestemd is om alleen reizen te ondernemen binnen het vaargebied waarvoor INMARSAT dekking biedt, gebruik te maken van het geostationaire INMARSAT-satellietsysteem werkend in de 1.6 GHz-band,
 
@@ -3797,11 +3799,11 @@ Behalve in het geval, bedoeld in [artikel 9.9, vierde lid](https://wetten.overhe
 
 ##### Artikel 9.7. Radio-uitrusting voor het zeegebied A1
 
-1. In aanvulling op het bepaalde in [artikel 9.6](https://wetten.overheid.nl/jci1.3:c:BWBR0013342&hoofdstuk=9&paragraaf=2&artikel=9.6&z=2011-05-14&g=2011-05-14) is een vaartuig dat bestemd is om uitsluitend reizen in het zeegebied A1 te ondernemen uitgerust met een radio-installatie die vanaf de plaats aan boord waar gewoonlijk de navigatie wordt gevoerd het verzenden van noodalarmering naar de wal kan starten door middel van hetzij:
+1. In aanvulling op het bepaalde in [artikel 9.6](https://wetten.overheid.nl/jci1.3:c:BWBR0013342&hoofdstuk=9&paragraaf=2&artikel=9.6&z=2017-01-01&g=2017-01-01) is een vaartuig dat bestemd is om uitsluitend reizen in het zeegebied A1 te ondernemen uitgerust met een radio-installatie die vanaf de plaats aan boord waar gewoonlijk de navigatie wordt gevoerd het verzenden van noodalarmering naar de wal kan starten door middel van hetzij:
 
 - a. VHF met gebruik van DSC; hierin kan worden voorzien door installatie van het in het derde lid voorgeschreven noodradiobaken zodanig dat het op de plaats aan boord waar gewoonlijk de navigatie wordt gevoerd of vanaf die plaats op afstand kan worden bediend, of
 
-- b. door de POSS op de frequentie van 406 MHz; hierin kan worden voorzien door installatie van het in [artikel 9.6, eerste lid, onder f](https://wetten.overheid.nl/jci1.3:c:BWBR0013342&hoofdstuk=9&paragraaf=2&artikel=9.6&z=2011-05-14&g=2011-05-14), voorgeschreven satelliet-noodradiobaken zodanig dat het op de plaats aan boord waar gewoonlijk de navigatie wordt gevoerd of vanaf die plaats op afstand kan worden bediend, of
+- b. door de POSS op de frequentie van 406 MHz; hierin kan worden voorzien door installatie van het in [artikel 9.6, eerste lid, onder f](https://wetten.overheid.nl/jci1.3:c:BWBR0013342&hoofdstuk=9&paragraaf=2&artikel=9.6&z=2017-01-01&g=2017-01-01), voorgeschreven satelliet-noodradiobaken zodanig dat het op de plaats aan boord waar gewoonlijk de navigatie wordt gevoerd of vanaf die plaats op afstand kan worden bediend, of
 
 - c. indien het vaartuig reizen onderneemt binnen het bereik van MF-kuststations met DSC: MF met gebruik van DSC, of
 
@@ -3811,11 +3813,11 @@ Behalve in het geval, bedoeld in [artikel 9.9, vierde lid](https://wetten.overhe
 
 - 1°. een INMARSAT-scheepssatellietstation, of
 
-- 2°. het in [artikel 9.6, onder f](https://wetten.overheid.nl/jci1.3:c:BWBR0013342&hoofdstuk=9&paragraaf=2&artikel=9.6&z=2011-05-14&g=2011-05-14), voorgeschreven satelliet-noodradiobaken, zodanig geïnstalleerd dat het op de plaats aan boord waar gewoonlijk de navigatie wordt gevoerd of vanaf die plaats op afstand kan worden bediend.
+- 2°. het in [artikel 9.6, onder f](https://wetten.overheid.nl/jci1.3:c:BWBR0013342&hoofdstuk=9&paragraaf=2&artikel=9.6&z=2017-01-01&g=2017-01-01), voorgeschreven satelliet-noodradiobaken, zodanig geïnstalleerd dat het op de plaats aan boord waar gewoonlijk de navigatie wordt gevoerd of vanaf die plaats op afstand kan worden bediend.
 
-2. De in [artikel 9.6, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0013342&hoofdstuk=9&paragraaf=2&artikel=9.6&z=2011-05-14&g=2011-05-14), voorgeschreven VHF-radio-installatie is ook geschikt voor algemene radio berichtgeving met gebruik van radiotelefonie.
+2. De in [artikel 9.6, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0013342&hoofdstuk=9&paragraaf=2&artikel=9.6&z=2017-01-01&g=2017-01-01), voorgeschreven VHF-radio-installatie is ook geschikt voor algemene radio berichtgeving met gebruik van radiotelefonie.
 
-3. Vaartuigen die bestemd zijn om uitsluitend reizen in zeegebied A1 te ondernemen kunnen in plaats van een satelliet-noodradiobaken als voorgeschreven in [artikel 9.6, onder f](https://wetten.overheid.nl/jci1.3:c:BWBR0013342&hoofdstuk=9&paragraaf=2&artikel=9.6&z=2011-05-14&g=2011-05-14), volstaan met een noodradiobaken dat:
+3. Vaartuigen die bestemd zijn om uitsluitend reizen in zeegebied A1 te ondernemen kunnen in plaats van een satelliet-noodradiobaken als voorgeschreven in [artikel 9.6, onder f](https://wetten.overheid.nl/jci1.3:c:BWBR0013342&hoofdstuk=9&paragraaf=2&artikel=9.6&z=2017-01-01&g=2017-01-01), volstaan met een noodradiobaken dat:
 
 - a. een noodalarmering kan uitzenden op VHF-kanaal 70 met gebruik van DSC en dat voorzien is van een radartransponder, werkend in de 9 GHz-band, teneinde te kunnen worden opgespoord,
 
@@ -3827,11 +3829,11 @@ Behalve in het geval, bedoeld in [artikel 9.9, vierde lid](https://wetten.overhe
 
 - e. met de hand geactiveerd kan worden.
 
-4. Het Hoofd van de Scheepvaartinspectie kan nieuwe vaartuigen met een lengte van meer dan 24 meter maar minder dan 45 meter ontheffing verlenen van [artikel 9.6, onder f](https://wetten.overheid.nl/jci1.3:c:BWBR0013342&hoofdstuk=9&paragraaf=2&artikel=9.6&z=2011-05-14&g=2011-05-14), en [artikel 9.7, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013342&hoofdstuk=9&paragraaf=2&artikel=9.7&z=2011-05-14&g=2011-05-14), mits deze zijn uitgerust met een VHF-radio-installatie als bepaald bij [artikel 9.6, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0013342&hoofdstuk=9&paragraaf=2&artikel=9.6&z=2011-05-14&g=2011-05-14), alsmede met een aanvullende VHF-radio-installatie met DSC voor de verzending van noodsignalen van schip naar kust als bepaald in het eerste lid, onder a.
+4. Het Hoofd van de Scheepvaartinspectie kan nieuwe vaartuigen met een lengte van meer dan 24 meter maar minder dan 45 meter ontheffing verlenen van [artikel 9.6, onder f](https://wetten.overheid.nl/jci1.3:c:BWBR0013342&hoofdstuk=9&paragraaf=2&artikel=9.6&z=2017-01-01&g=2017-01-01), en [artikel 9.7, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013342&hoofdstuk=9&paragraaf=2&artikel=9.7&z=2017-01-01&g=2017-01-01), mits deze zijn uitgerust met een VHF-radio-installatie als bepaald bij [artikel 9.6, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0013342&hoofdstuk=9&paragraaf=2&artikel=9.6&z=2017-01-01&g=2017-01-01), alsmede met een aanvullende VHF-radio-installatie met DSC voor de verzending van noodsignalen van schip naar kust als bepaald in het eerste lid, onder a.
 
 ##### Artikel 9.8. Radio-uitrusting voor de zeegebieden A1 en A2
 
-1. In aanvulling op het bepaalde in [artikel 9.6](https://wetten.overheid.nl/jci1.3:c:BWBR0013342&hoofdstuk=9&paragraaf=2&artikel=9.6&z=2011-05-14&g=2011-05-14) is een vaartuig dat bestemd is om reizen te ondernemen buiten het zeegebied A1, maar binnen het zeegebied A2, voorzien van:
+1. In aanvulling op het bepaalde in [artikel 9.6](https://wetten.overheid.nl/jci1.3:c:BWBR0013342&hoofdstuk=9&paragraaf=2&artikel=9.6&z=2017-01-01&g=2017-01-01) is een vaartuig dat bestemd is om reizen te ondernemen buiten het zeegebied A1, maar binnen het zeegebied A2, voorzien van:
 
 - a. een MF-radio-installatie die voor nood- en veiligheidsdoeleinden geschikt is om te zenden en te ontvangen op de frequenties van:
 
@@ -3843,7 +3845,7 @@ Behalve in het geval, bedoeld in [artikel 9.9, vierde lid](https://wetten.overhe
 
 - c. een voorziening die de uitzending van noodseinen van het schip naar de wal kan starten door middel van een radio-installatie die niet in de MF-band uitzendt, hetzij:
 
-- 1°. door de POSS op de frequentie van 406 MHz; hierin kan worden voorzien door installatie van het in [artikel 9.6, eerste lid, onder f](https://wetten.overheid.nl/jci1.3:c:BWBR0013342&hoofdstuk=9&paragraaf=2&artikel=9.6&z=2011-05-14&g=2011-05-14), voorgeschreven satellietnoodradiobaken zodanig dat het op de plaats aan boord waar gewoonlijk de navigatie wordt gevoerd of vanaf die plaats op afstand kan worden bediend, of
+- 1°. door de POSS op de frequentie van 406 MHz; hierin kan worden voorzien door installatie van het in [artikel 9.6, eerste lid, onder f](https://wetten.overheid.nl/jci1.3:c:BWBR0013342&hoofdstuk=9&paragraaf=2&artikel=9.6&z=2017-01-01&g=2017-01-01), voorgeschreven satellietnoodradiobaken zodanig dat het op de plaats aan boord waar gewoonlijk de navigatie wordt gevoerd of vanaf die plaats op afstand kan worden bediend, of
 
 - 2°. HF met gebruik van DSC, of
 
@@ -3857,11 +3859,11 @@ Behalve in het geval, bedoeld in [artikel 9.9, vierde lid](https://wetten.overhe
 
 - b. een INMARSAT-scheepssatellietstation.
 
-4. Het Hoofd van de Scheepvaartinspectie kan ontheffing verlenen van de eisen, bedoeld in [artikel 9.6, onder a, 1°, en onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0013342&hoofdstuk=9&paragraaf=2&artikel=9.6&z=2011-05-14&g=2011-05-14), voor vaartuigen die zijn gebouwd voor 1 februari 1997 en die uitsluitend bestemd zijn om reizen te ondernemen in zeegebied A2, mits deze vaartuigen, zo mogelijk, een ononderbroken luisterwacht houden op VHF-kanaal 16. Deze wacht wordt gehouden op de plaats aan boord waar gewoonlijk de navigatie wordt gevoerd.
+4. Het Hoofd van de Scheepvaartinspectie kan ontheffing verlenen van de eisen, bedoeld in [artikel 9.6, onder a, 1°, en onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0013342&hoofdstuk=9&paragraaf=2&artikel=9.6&z=2017-01-01&g=2017-01-01), voor vaartuigen die zijn gebouwd voor 1 februari 1997 en die uitsluitend bestemd zijn om reizen te ondernemen in zeegebied A2, mits deze vaartuigen, zo mogelijk, een ononderbroken luisterwacht houden op VHF-kanaal 16. Deze wacht wordt gehouden op de plaats aan boord waar gewoonlijk de navigatie wordt gevoerd.
 
 ##### Artikel 9.9. Radio-uitrusting voor de zeegebieden A1, A2 en A3
 
-1. In aanvulling op het bepaalde in [artikel 9.6](https://wetten.overheid.nl/jci1.3:c:BWBR0013342&hoofdstuk=9&paragraaf=2&artikel=9.6&z=2011-05-14&g=2011-05-14) is een vaartuig dat bestemd is om reizen te ondernemen buiten de zeegebieden A1 en A2, maar binnen het zeegebied A3 en dat niet voldoet aan het bepaald in het tweede lid, voorzien van:
+1. In aanvulling op het bepaalde in [artikel 9.6](https://wetten.overheid.nl/jci1.3:c:BWBR0013342&hoofdstuk=9&paragraaf=2&artikel=9.6&z=2017-01-01&g=2017-01-01) is een vaartuig dat bestemd is om reizen te ondernemen buiten de zeegebieden A1 en A2, maar binnen het zeegebied A3 en dat niet voldoet aan het bepaald in het tweede lid, voorzien van:
 
 - a. een INMARSAT-scheepssatellietstation dat geschikt is om:
 
@@ -3883,13 +3885,13 @@ Behalve in het geval, bedoeld in [artikel 9.9, vierde lid](https://wetten.overhe
 
 - d. een radio-installatie die geschikt is om uitzendingen van noodalarmering naar de wal te starten door middel van:
 
-- 1°. de POSS op de frequentie van 406 MHz; hierin kan worden voorzien door installatie van het in [artikel 9.6, onder f](https://wetten.overheid.nl/jci1.3:c:BWBR0013342&hoofdstuk=9&paragraaf=2&artikel=9.6&z=2011-05-14&g=2011-05-14), voorgeschreven satellietnoodradiobaken zodanig dat het op de plaats aan boord waar gewoonlijk de navigatie wordt gevoerd of vanaf die plaats op afstand kan worden bediend, of
+- 1°. de POSS op de frequentie van 406 MHz; hierin kan worden voorzien door installatie van het in [artikel 9.6, onder f](https://wetten.overheid.nl/jci1.3:c:BWBR0013342&hoofdstuk=9&paragraaf=2&artikel=9.6&z=2017-01-01&g=2017-01-01), voorgeschreven satellietnoodradiobaken zodanig dat het op de plaats aan boord waar gewoonlijk de navigatie wordt gevoerd of vanaf die plaats op afstand kan worden bediend, of
 
 - 2°. HF met gebruik van DSC, of
 
-- 3°. het geostationaire INMARSAT-satellietsysteem; hierin kan worden voorzien door gebruikmaking van een INMARSAT-scheepssatellietstation of het in [artikel 9.6, onder f](https://wetten.overheid.nl/jci1.3:c:BWBR0013342&hoofdstuk=9&paragraaf=2&artikel=9.6&z=2011-05-14&g=2011-05-14), voorgeschreven satellietnoodradiobaken, zodanig geïnstalleerd dat het op de plaats aan boord waar gewoonlijk de navigatie wordt gevoerd of vanaf die plaats op afstand kan worden bediend.
+- 3°. het geostationaire INMARSAT-satellietsysteem; hierin kan worden voorzien door gebruikmaking van een INMARSAT-scheepssatellietstation of het in [artikel 9.6, onder f](https://wetten.overheid.nl/jci1.3:c:BWBR0013342&hoofdstuk=9&paragraaf=2&artikel=9.6&z=2017-01-01&g=2017-01-01), voorgeschreven satellietnoodradiobaken, zodanig geïnstalleerd dat het op de plaats aan boord waar gewoonlijk de navigatie wordt gevoerd of vanaf die plaats op afstand kan worden bediend.
 
-2. In aanvulling op [artikel 9.6](https://wetten.overheid.nl/jci1.3:c:BWBR0013342&hoofdstuk=9&paragraaf=2&artikel=9.6&z=2011-05-14&g=2011-05-14) is elk vaartuig dat bestemd is om reizen te ondernemen buiten de zeegebieden A1 en A2, maar binnen het zeegebied A3 en dat niet voldoet aan het bepaalde in het eerste lid, voorzien van:
+2. In aanvulling op [artikel 9.6](https://wetten.overheid.nl/jci1.3:c:BWBR0013342&hoofdstuk=9&paragraaf=2&artikel=9.6&z=2017-01-01&g=2017-01-01) is elk vaartuig dat bestemd is om reizen te ondernemen buiten de zeegebieden A1 en A2, maar binnen het zeegebied A3 en dat niet voldoet aan het bepaalde in het eerste lid, voorzien van:
 
 - a. een MF/HF-radio-installatie die voor nood- en veiligheidsdoeleinden kan zenden en ontvangen op alle nood- en veiligheidsfrequenties in de banden tussen 1605 en 4000 kHz en tussen 4000 en 27 500 kHz door middel van:
 
@@ -3905,29 +3907,29 @@ Behalve in het geval, bedoeld in [artikel 9.9, vierde lid](https://wetten.overhe
 
 - 1°. de POSS op de frequentie van 406 MHz; hierin kan worden voorzien door installatie van het in artikel 9.6, onder f, voorgeschreven satellietnoodradiobaken zodanig dat het op de plaats aan boord waar gewoonlijk de navigatie wordt gevoerd of vanaf die plaats op afstand kan worden bediend, of
 
-- 2°. het geostationaire INMARSAT-satellietsysteem; hierin kan worden voorzien door gebruikmaking van een INMARSAT-scheepssatellietstation of het in [artikel 9.6, onder f](https://wetten.overheid.nl/jci1.3:c:BWBR0013342&hoofdstuk=9&paragraaf=2&artikel=9.6&z=2011-05-14&g=2011-05-14), voorgeschreven satellietnoodradiobaken, zodanig geïnstalleerd dat het op de plaats aan boord waar gewoonlijk de navigatie wordt gevoerd of vanaf die plaats op afstand kan worden bediend;
+- 2°. het geostationaire INMARSAT-satellietsysteem; hierin kan worden voorzien door gebruikmaking van een INMARSAT-scheepssatellietstation of het in [artikel 9.6, onder f](https://wetten.overheid.nl/jci1.3:c:BWBR0013342&hoofdstuk=9&paragraaf=2&artikel=9.6&z=2017-01-01&g=2017-01-01), voorgeschreven satellietnoodradiobaken, zodanig geïnstalleerd dat het op de plaats aan boord waar gewoonlijk de navigatie wordt gevoerd of vanaf die plaats op afstand kan worden bediend;
 
 - d. bovendien: de mogelijkheid om algemene radioberichtgeving te verzenden en te ontvangen met gebruik van radiotelefonie of DPT door middel van een MF/HF-radio-installatie werkend op de werkfrequenties in de banden tussen 1605 en 4000 kHz en tussen 4000 en 27 500 kHz. Deze voorziening kan worden gecombineerd met de radio-installatie, bedoeld onder a.
 
 3. De uitzending van noodalarmering door middel van de radio-installaties, bedoeld in het eerste lid, onder a, b en d, en in het tweede lid, onder a en c, kan worden gestart vanaf de plaats aan boord waar gewoonlijk de navigatie wordt gevoerd.
 
-4. Het Hoofd van de Scheepvaartinspectie kan ontheffing verlenen van de eisen, bedoeld in [artikel 9.6, onder a, 1°, en onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0013342&hoofdstuk=9&paragraaf=2&artikel=9.6&z=2011-05-14&g=2011-05-14), voor vaartuigen die zijn gebouwd voor 1 februari 1997 en die uitsluitend bestemd zijn om reizen te ondernemen in de zeegebieden A2 en A3, mits deze vaartuigen een permanente luisterwacht houden op VHF-kanaal 16 op de plaats aan boord waar gewoonlijk de navigatie wordt gevoerd.
+4. Het Hoofd van de Scheepvaartinspectie kan ontheffing verlenen van de eisen, bedoeld in [artikel 9.6, onder a, 1°, en onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0013342&hoofdstuk=9&paragraaf=2&artikel=9.6&z=2017-01-01&g=2017-01-01), voor vaartuigen die zijn gebouwd voor 1 februari 1997 en die uitsluitend bestemd zijn om reizen te ondernemen in de zeegebieden A2 en A3, mits deze vaartuigen een permanente luisterwacht houden op VHF-kanaal 16 op de plaats aan boord waar gewoonlijk de navigatie wordt gevoerd.
 
 ##### Artikel 9.10. Radio-uitrusting voor de zeegebieden A1, A2, A3 en A4
 
-1. In aanvulling op het bepaalde in [artikel 9.6](https://wetten.overheid.nl/jci1.3:c:BWBR0013342&hoofdstuk=9&paragraaf=2&artikel=9.6&z=2011-05-14&g=2011-05-14) voldoet een vaartuig dat bestemd is om reizen te ondernemen in alle zeegebieden aan het bepaalde in [artikel 9.9, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013342&hoofdstuk=9&paragraaf=2&artikel=9.9&z=2011-05-14&g=2011-05-14), met dien verstande dat de apparatuur, bedoeld in [artikel 9.9, tweede lid, onder c, 2°](https://wetten.overheid.nl/jci1.3:c:BWBR0013342&hoofdstuk=9&paragraaf=2&artikel=9.9&z=2011-05-14&g=2011-05-14), niet aanvaard wordt als een alternatief voor de apparatuur, bedoeld in [artikel 9.9, tweede lid, onder c, 1°](https://wetten.overheid.nl/jci1.3:c:BWBR0013342&hoofdstuk=9&paragraaf=2&artikel=9.9&z=2011-05-14&g=2011-05-14), die altijd aan boord moet zijn. Bovendien voldoet het aan het bepaalde in [artikel 9.9, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013342&hoofdstuk=9&paragraaf=2&artikel=9.9&z=2011-05-14&g=2011-05-14).
+1. In aanvulling op het bepaalde in [artikel 9.6](https://wetten.overheid.nl/jci1.3:c:BWBR0013342&hoofdstuk=9&paragraaf=2&artikel=9.6&z=2017-01-01&g=2017-01-01) voldoet een vaartuig dat bestemd is om reizen te ondernemen in alle zeegebieden aan het bepaalde in [artikel 9.9, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013342&hoofdstuk=9&paragraaf=2&artikel=9.9&z=2017-01-01&g=2017-01-01), met dien verstande dat de apparatuur, bedoeld in [artikel 9.9, tweede lid, onder c, 2°](https://wetten.overheid.nl/jci1.3:c:BWBR0013342&hoofdstuk=9&paragraaf=2&artikel=9.9&z=2017-01-01&g=2017-01-01), niet aanvaard wordt als een alternatief voor de apparatuur, bedoeld in [artikel 9.9, tweede lid, onder c, 1°](https://wetten.overheid.nl/jci1.3:c:BWBR0013342&hoofdstuk=9&paragraaf=2&artikel=9.9&z=2017-01-01&g=2017-01-01), die altijd aan boord moet zijn. Bovendien voldoet het aan het bepaalde in [artikel 9.9, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013342&hoofdstuk=9&paragraaf=2&artikel=9.9&z=2017-01-01&g=2017-01-01).
 
-2. Het Hoofd van de Scheepvaartinspectie kan ontheffing verlenen van de eisen, bedoeld in [artikel 9.6, onder a, 1°, en onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0013342&hoofdstuk=9&paragraaf=2&artikel=9.6&z=2011-05-14&g=2011-05-14), voor vaartuigen gebouwd voor 1 februari 1997 die uitsluitend bestemd zijn om reizen te ondernemen in de zeegebieden A2, A3 en A4, mits deze vaartuigen zo mogelijk een permanente luisterwacht houden op VHF-kanaal 16. Deze wacht wordt gehouden op de plaats aan boord waar gewoonlijk de navigatie wordt gevoerd.
+2. Het Hoofd van de Scheepvaartinspectie kan ontheffing verlenen van de eisen, bedoeld in [artikel 9.6, onder a, 1°, en onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0013342&hoofdstuk=9&paragraaf=2&artikel=9.6&z=2017-01-01&g=2017-01-01), voor vaartuigen gebouwd voor 1 februari 1997 die uitsluitend bestemd zijn om reizen te ondernemen in de zeegebieden A2, A3 en A4, mits deze vaartuigen zo mogelijk een permanente luisterwacht houden op VHF-kanaal 16. Deze wacht wordt gehouden op de plaats aan boord waar gewoonlijk de navigatie wordt gevoerd.
 
 ##### Artikel 9.11. Radiowachten
 
 1. Buitengaats wordt een permanente wacht gehouden:
 
-- a. op VHF-DSC-kanaal 70 indien het vaartuig, overeenkomstig [artikel 9.6, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0013342&hoofdstuk=9&paragraaf=2&artikel=9.6&z=2011-05-14&g=2011-05-14), is uitgerust met een VHF-radio-installatie;
+- a. op VHF-DSC-kanaal 70 indien het vaartuig, overeenkomstig [artikel 9.6, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0013342&hoofdstuk=9&paragraaf=2&artikel=9.6&z=2017-01-01&g=2017-01-01), is uitgerust met een VHF-radio-installatie;
 
-- b. op de DSC-nood- en veiligheidsfrequentie van 2187,5 kHz indien het vaartuig, overeenkomstig [artikel 9.8, eerste lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0013342&hoofdstuk=9&paragraaf=2&artikel=9.8&z=2011-05-14&g=2011-05-14), of [artikel 9.9, eerste lid, onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0013342&hoofdstuk=9&paragraaf=2&artikel=9.9&z=2011-05-14&g=2011-05-14), is uitgerust met een MF-radio-installatie;
+- b. op de DSC-nood- en veiligheidsfrequentie van 2187,5 kHz indien het vaartuig, overeenkomstig [artikel 9.8, eerste lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0013342&hoofdstuk=9&paragraaf=2&artikel=9.8&z=2017-01-01&g=2017-01-01), of [artikel 9.9, eerste lid, onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0013342&hoofdstuk=9&paragraaf=2&artikel=9.9&z=2017-01-01&g=2017-01-01), is uitgerust met een MF-radio-installatie;
 
-- c. op de DSC-nood- en veiligheidsfrequenties van 2187,5 kHz en 8414,5 kHz, alsmede op ten minste een van de DSC nood- en veiligheidsfrequenties van 4207,5 kHz, 6312 kHz, 12 577 kHz of 16 804,5 kHz, afhankelijk van het tijdstip en de geografische positie van het vaartuig, indien het vaartuig overeenkomstig [artikel 9.9, tweede lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0013342&hoofdstuk=9&paragraaf=2&artikel=9.9&z=2011-05-14&g=2011-05-14), of [artikel 9.10, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013342&hoofdstuk=9&paragraaf=2&artikel=9.10&z=2011-05-14&g=2011-05-14), is uitgerust met een MF/HF-radio-installatie. Deze wacht kan worden gehouden door middel van een scannende ontvanger;
+- c. op de DSC-nood- en veiligheidsfrequenties van 2187,5 kHz en 8414,5 kHz, alsmede op ten minste een van de DSC nood- en veiligheidsfrequenties van 4207,5 kHz, 6312 kHz, 12 577 kHz of 16 804,5 kHz, afhankelijk van het tijdstip en de geografische positie van het vaartuig, indien het vaartuig overeenkomstig [artikel 9.9, tweede lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0013342&hoofdstuk=9&paragraaf=2&artikel=9.9&z=2017-01-01&g=2017-01-01), of [artikel 9.10, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013342&hoofdstuk=9&paragraaf=2&artikel=9.10&z=2017-01-01&g=2017-01-01), is uitgerust met een MF/HF-radio-installatie. Deze wacht kan worden gehouden door middel van een scannende ontvanger;
 
 - d. voor satelliet wal-vaartuig noodberichten, indien het vaartuig, overeenkomstig artikel 9, eerste lid, onder a, is uitgerust met een INMARSAT-scheepssatellietstation.
 
@@ -3937,21 +3939,21 @@ Behalve in het geval, bedoeld in [artikel 9.9, vierde lid](https://wetten.overhe
 
 1. Buitengaats is altijd een elektrische krachtbron beschikbaar van voldoende vermogen om de radio-installaties te doen werken en de aanwezige batterijen gebruikt voor de reserve krachtbron of -bronnen ten behoeve van de radio-installaties op te laden.
 
-2. Aan boord van een vaartuig zijn een of meer reserve krachtbronnen aanwezig om de radio-installaties te voeden, teneinde de nood- en veiligheidsberichten te kunnen afhandelen in het geval dat de hoofd- en noodkrachtbronnen uitvallen. De reserve krachtbron of krachtbronnen zijn in staat tot het gelijktijdig voeden van de VHF-installatie, bedoeld in [artikel 9.6, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0013342&hoofdstuk=9&paragraaf=2&artikel=9.6&z=2011-05-14&g=2011-05-14), en, al naar gelang het zeegebied of de zeegebieden waarvoor het vaartuig is uitgerust, ofwel de MF-radio-installatie, bedoeld in [artikel 9.8, eerste lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0013342&hoofdstuk=9&paragraaf=2&artikel=9.8&z=2011-05-14&g=2011-05-14), de MF/HF-radio-installatie bedoeld in [artikel 9.9, tweede lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0013342&hoofdstuk=9&paragraaf=2&artikel=9.9&z=2011-05-14&g=2011-05-14), of [artikel 9.10, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013342&hoofdstuk=9&paragraaf=2&artikel=9.10&z=2011-05-14&g=2011-05-14), ofwel het INMARSAT-scheepssatellietstation, bedoeld in artikel 9, eerste lid, onder a, en elk van de aanvullende voorzieningen, bedoeld in de [artikelen 9.4](https://wetten.overheid.nl/jci1.3:c:BWBR0013342&hoofdstuk=9&paragraaf=1&artikel=9.4&z=2011-05-14&g=2011-05-14), [9.5](https://wetten.overheid.nl/jci1.3:c:BWBR0013342&hoofdstuk=9&paragraaf=2&artikel=9.5&z=2011-05-14&g=2011-05-14) en [9.8](https://wetten.overheid.nl/jci1.3:c:BWBR0013342&hoofdstuk=9&paragraaf=2&artikel=9.8&z=2011-05-14&g=2011-05-14), gedurende ten minste de volgende periode:
+2. Aan boord van een vaartuig zijn een of meer reserve krachtbronnen aanwezig om de radio-installaties te voeden, teneinde de nood- en veiligheidsberichten te kunnen afhandelen in het geval dat de hoofd- en noodkrachtbronnen uitvallen. De reserve krachtbron of krachtbronnen zijn in staat tot het gelijktijdig voeden van de VHF-installatie, bedoeld in [artikel 9.6, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0013342&hoofdstuk=9&paragraaf=2&artikel=9.6&z=2017-01-01&g=2017-01-01), en, al naar gelang het zeegebied of de zeegebieden waarvoor het vaartuig is uitgerust, ofwel de MF-radio-installatie, bedoeld in [artikel 9.8, eerste lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0013342&hoofdstuk=9&paragraaf=2&artikel=9.8&z=2017-01-01&g=2017-01-01), de MF/HF-radio-installatie bedoeld in [artikel 9.9, tweede lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0013342&hoofdstuk=9&paragraaf=2&artikel=9.9&z=2017-01-01&g=2017-01-01), of [artikel 9.10, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013342&hoofdstuk=9&paragraaf=2&artikel=9.10&z=2017-01-01&g=2017-01-01), ofwel het INMARSAT-scheepssatellietstation, bedoeld in artikel 9, eerste lid, onder a, en elk van de aanvullende voorzieningen, bedoeld in de [artikelen 9.4](https://wetten.overheid.nl/jci1.3:c:BWBR0013342&hoofdstuk=9&paragraaf=1&artikel=9.4&z=2017-01-01&g=2017-01-01), [9.5](https://wetten.overheid.nl/jci1.3:c:BWBR0013342&hoofdstuk=9&paragraaf=2&artikel=9.5&z=2017-01-01&g=2017-01-01) en [9.8](https://wetten.overheid.nl/jci1.3:c:BWBR0013342&hoofdstuk=9&paragraaf=2&artikel=9.8&z=2017-01-01&g=2017-01-01), gedurende ten minste de volgende periode:
 
 - a. op nieuwe vaartuigen:
 
 - 1°. 3 uur of
 
-- 2°. 1 uur, wanneer de noodkrachtbron volledig voldoet aan het bepaalde in [artikel 4.17](https://wetten.overheid.nl/jci1.3:c:BWBR0013342&hoofdstuk=4&paragraaf=3&artikel=4.17&z=2011-05-14&g=2011-05-14), met inbegrip van het bepaalde ten aanzien van de voeding van de radio-installaties, en minimaal 6 uur dienst kan doen;
+- 2°. 1 uur, wanneer de noodkrachtbron volledig voldoet aan het bepaalde in [artikel 4.17](https://wetten.overheid.nl/jci1.3:c:BWBR0013342&hoofdstuk=4&paragraaf=3&artikel=4.17&z=2017-01-01&g=2017-01-01), met inbegrip van het bepaalde ten aanzien van de voeding van de radio-installaties, en minimaal 6 uur dienst kan doen;
 
 - b. op bestaande vaartuigen:
 
-- 1°. 6 uur wanneer niet is voorzien in een noodkrachtbron of wanneer deze niet voldoet aan het bepaalde in [artikel 4.17](https://wetten.overheid.nl/jci1.3:c:BWBR0013342&hoofdstuk=4&paragraaf=3&artikel=4.17&z=2011-05-14&g=2011-05-14), met inbegrip van het bepaalde ten aanzien van de voeding van de radio-installaties, of
+- 1°. 6 uur wanneer niet is voorzien in een noodkrachtbron of wanneer deze niet voldoet aan het bepaalde in [artikel 4.17](https://wetten.overheid.nl/jci1.3:c:BWBR0013342&hoofdstuk=4&paragraaf=3&artikel=4.17&z=2017-01-01&g=2017-01-01), met inbegrip van het bepaalde ten aanzien van de voeding van de radio-installaties, of
 
-- 2°. 3 uur wanneer de noodkrachtbron voldoet aan het bepaalde in [artikel 4.17](https://wetten.overheid.nl/jci1.3:c:BWBR0013342&hoofdstuk=4&paragraaf=3&artikel=4.17&z=2011-05-14&g=2011-05-14), met inbegrip van het bepaalde ten aanzien van de voeding van de radio-installaties, of
+- 2°. 3 uur wanneer de noodkrachtbron voldoet aan het bepaalde in [artikel 4.17](https://wetten.overheid.nl/jci1.3:c:BWBR0013342&hoofdstuk=4&paragraaf=3&artikel=4.17&z=2017-01-01&g=2017-01-01), met inbegrip van het bepaalde ten aanzien van de voeding van de radio-installaties, of
 
-- 3°. 1 uur wanneer de noodkrachtbron voldoet aan het bepaalde in [artikel 4.17](https://wetten.overheid.nl/jci1.3:c:BWBR0013342&hoofdstuk=4&paragraaf=3&artikel=4.17&z=2011-05-14&g=2011-05-14), met inbegrip van het bepaalde ten aanzien van de voeding van de radio-installaties en minimaal zes uur dienst kan doen.
+- 3°. 1 uur wanneer de noodkrachtbron voldoet aan het bepaalde in [artikel 4.17](https://wetten.overheid.nl/jci1.3:c:BWBR0013342&hoofdstuk=4&paragraaf=3&artikel=4.17&z=2017-01-01&g=2017-01-01), met inbegrip van het bepaalde ten aanzien van de voeding van de radio-installaties en minimaal zes uur dienst kan doen.
 
 Onafhankelijke HF- en MF-radio-installaties behoeven niet gelijktijdig door de reserve krachtbron of -bronnen te kunnen worden gevoed.
 
@@ -3963,7 +3965,7 @@ Onafhankelijke HF- en MF-radio-installaties behoeven niet gelijktijdig door de r
 
 - b. wanneer slechts één van de andere radio-installaties gelijktijdig met de VHF-radio-installatie kan worden aangesloten op de reserve krachtbron of -bronnen, de andere radio-installatie met het grootste energieverbruik.
 
-5. De reserve krachtbron of -bronnen mogen gebruikt worden om de elektrische verlichting, bedoeld in [artikel 9.5, tweede lid, onder d](https://wetten.overheid.nl/jci1.3:c:BWBR0013342&hoofdstuk=9&paragraaf=2&artikel=9.5&z=2011-05-14&g=2011-05-14), te voeden.
+5. De reserve krachtbron of -bronnen mogen gebruikt worden om de elektrische verlichting, bedoeld in [artikel 9.5, tweede lid, onder d](https://wetten.overheid.nl/jci1.3:c:BWBR0013342&hoofdstuk=9&paragraaf=2&artikel=9.5&z=2017-01-01&g=2017-01-01), te voeden.
 
 6. Indien een reserve krachtbron bestaat uit een oplaadbare accumulatorenbatterij of -batterijen:
 
@@ -4001,13 +4003,13 @@ Onafhankelijke HF- en MF-radio-installaties behoeven niet gelijktijdig door de r
 
 4. Aan boord zijn gereedschappen en reserveonderdelen aanwezig voor het onderhoud.
 
-5. De in dit hoofdstuk voorgeschreven apparatuur wordt zodanig onderhouden dat de in [artikel 9.4](https://wetten.overheid.nl/jci1.3:c:BWBR0013342&hoofdstuk=9&paragraaf=1&artikel=9.4&z=2011-05-14&g=2011-05-14) beschreven functies in stand blijven en dat de apparatuur blijft voldoen aan de aanbevolen technische specificaties.
+5. De in dit hoofdstuk voorgeschreven apparatuur wordt zodanig onderhouden dat de in [artikel 9.4](https://wetten.overheid.nl/jci1.3:c:BWBR0013342&hoofdstuk=9&paragraaf=1&artikel=9.4&z=2017-01-01&g=2017-01-01) beschreven functies in stand blijven en dat de apparatuur blijft voldoen aan de aanbevolen technische specificaties.
 
 6. Aan boord van vaartuigen die uitsluitend reizen ondernemen in de zeegebieden A1 en A2 kan de beschikbaarheid worden verzekerd door dubbele apparatuur, onderhoud door een walorganisatie, elektronische onderhoudssystemen op zee of door een combinatie van deze methoden indien dat door het Hoofd van de Scheepvaartinspectie wordt goedgekeurd.
 
 7. Aan boord van vaartuigen die reizen ondernemen in de zeegebieden A3 en A4 wordt de beschikbaarheid van de apparatuur gegarandeerd door een combinatie van ten minste twee methoden, waaronder dubbele apparatuur, onderhoud door een walorganisatie of elektronische onderhoudssystemen op zee. Het Hoofd van de Scheepvaartinspectie kan echter, rekening houdend met het type vaartuig en de wijze waarop het vaartuig gebruikt wordt, toestaan dat slechts één methode wordt toegepast om de beschikbaarheid van de apparatuur te waarborgen.
 
-8. Alhoewel al het redelijke gedaan moet worden om de apparatuur in goed functionerende staat en conform de technische specificaties als beschreven in [artikel 9.4](https://wetten.overheid.nl/jci1.3:c:BWBR0013342&hoofdstuk=9&paragraaf=1&artikel=9.4&z=2011-05-14&g=2011-05-14) te houden, zal in het geval de apparatuur niet kan voorzien in de algemene radiocommunicatie als beschreven in [artikel 9.4, onder h](https://wetten.overheid.nl/jci1.3:c:BWBR0013342&hoofdstuk=9&paragraaf=1&artikel=9.4&z=2011-05-14&g=2011-05-14), het vaartuig niet onzeewaardig verklaard worden of zal dit niet als reden kunnen gelden om het vaartuig op te houden in een haven waar voorzieningen voor herstel niet direct beschikbaar zijn, indien het vaartuig wel alle nood- en veiligheidsfuncties uit kan voeren.
+8. Alhoewel al het redelijke gedaan moet worden om de apparatuur in goed functionerende staat en conform de technische specificaties als beschreven in [artikel 9.4](https://wetten.overheid.nl/jci1.3:c:BWBR0013342&hoofdstuk=9&paragraaf=1&artikel=9.4&z=2017-01-01&g=2017-01-01) te houden, zal in het geval de apparatuur niet kan voorzien in de algemene radiocommunicatie als beschreven in [artikel 9.4, onder h](https://wetten.overheid.nl/jci1.3:c:BWBR0013342&hoofdstuk=9&paragraaf=1&artikel=9.4&z=2017-01-01&g=2017-01-01), het vaartuig niet onzeewaardig verklaard worden of zal dit niet als reden kunnen gelden om het vaartuig op te houden in een haven waar voorzieningen voor herstel niet direct beschikbaar zijn, indien het vaartuig wel alle nood- en veiligheidsfuncties uit kan voeren.
 
 ##### Artikel 9.15. Personen voor de bediening
 
@@ -4071,7 +4073,7 @@ Het Hoofd van de Scheepvaartinspectie kan ontheffing verlenen van de eisen, gest
 
 12. Vaartuigen met een lengte van 75 meter of meer, gebouwd voor 1 september 1984, en vaartuigen met een lengte van 45 meter of meer, gebouwd op of na 1 september 1984, zijn uitgerust met een roerstandaanwijzer, een tachometer voor elke schroef en bovendien, indien het vaartuig is uitgerust met verstelbare schroeven of schroeven met zijdelingse stuwkracht, een instrument dat de spoed en de wijze van gebruik van die schroeven aangeeft. Deze instrumenten zijn duidelijk afleesbaar vanaf de plaats waar de navigatie wordt gevoerd.
 
-13. Uitgezonderd in de situatie, bedoeld in [artikel 1.12](https://wetten.overheid.nl/jci1.3:c:BWBR0013342&hoofdstuk=1&artikel=1.12&z=2011-05-14&g=2011-05-14), zal het vaartuig niet onzeewaardig worden verklaard indien storingen in de instrumenten optreden en zal het vaartuig niet worden opgehouden in een haven waar niet direct herstelvoorzieningen aanwezig zijn, aangenomen dat al het redelijke gedaan wordt om de instrumenten, bedoeld in het eerste tot en met twaalfde lid, in goede werking te houden.
+13. Uitgezonderd in de situatie, bedoeld in [artikel 1.12](https://wetten.overheid.nl/jci1.3:c:BWBR0013342&hoofdstuk=1&artikel=1.12&z=2017-01-01&g=2017-01-01), zal het vaartuig niet onzeewaardig worden verklaard indien storingen in de instrumenten optreden en zal het vaartuig niet worden opgehouden in een haven waar niet direct herstelvoorzieningen aanwezig zijn, aangenomen dat al het redelijke gedaan wordt om de instrumenten, bedoeld in het eerste tot en met twaalfde lid, in goede werking te houden.
 
 14. Een vaartuig met een lengte van 75 meter of meer is voorzien van een radiorichtingzoeker. Het Hoofd van de Scheepvaartinspectie kan een vaartuig van deze regel ontheffing verlenen indien hij van mening is dat het onredelijk of onnodig is voor het vaartuig om met dit instrument te zijn uitgerust of indien het vaartuig is uitgerust met andere deugdelijke radionavigatieapparatuur gedurende de hele reis.
 
@@ -4149,7 +4151,7 @@ Aan boord zijn geschikte nautische instrumenten, voldoende recente zeekaarten, z
 
 2. De schipper van een vaartuig is verplicht ervoor te zorgen dat voor het ondernemen van een reis de nodige door het Hoofd van de Scheepvaartinspectie goedgekeurde gegevens aan boord zijn betreffende de stabiliteit van het vaartuig in onbeschadigde toestand.
 
-3. De schipper van een vaartuig is verplicht ervoor te zorgen dat tijdens de reis de stabiliteit van het vaartuig in alle voorkomende bedrijfsomstandigheden ten minste voldoet aan de eisen, bedoeld in [artikel 3.7](https://wetten.overheid.nl/jci1.3:c:BWBR0013342&hoofdstuk=3&artikel=3.7&z=2011-05-14&g=2011-05-14), en de eventuele aanvullende eisen, gesteld krachtens [artikel 1.6](https://wetten.overheid.nl/jci1.3:c:BWBR0013342&hoofdstuk=1&artikel=1.6&z=2011-05-14&g=2011-05-14).
+3. De schipper van een vaartuig is verplicht ervoor te zorgen dat tijdens de reis de stabiliteit van het vaartuig in alle voorkomende bedrijfsomstandigheden ten minste voldoet aan de eisen, bedoeld in [artikel 3.7](https://wetten.overheid.nl/jci1.3:c:BWBR0013342&hoofdstuk=3&artikel=3.7&z=2017-01-01&g=2017-01-01), en de eventuele aanvullende eisen, gesteld krachtens [artikel 1.6](https://wetten.overheid.nl/jci1.3:c:BWBR0013342&hoofdstuk=1&artikel=1.6&z=2017-01-01&g=2017-01-01).
 
 4. Het Hoofd van de Scheepvaartinspectie kan voor vaartuigen van een bepaald type of van een bepaalde grootte ontheffing verlenen van het bepaalde in het eerste lid.
 
@@ -4173,21 +4175,21 @@ De schipper van een vaartuig is verplicht ervoor te zorgen dat voor het ondernem
 
 - f. voor elke reddingsboot iemand is aangewezen die de motor kan bedienen en kleine herstellingen daaraan kan verrichten;
 
-- g. de handboeken voor opleiding ter zake van de reddingsmiddelen en -voorzieningen, bedoeld in [artikel 8.3, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013342&hoofdstuk=8&artikel=8.3&z=2011-05-14&g=2011-05-14), aan boord zijn;
+- g. de handboeken voor opleiding ter zake van de reddingsmiddelen en -voorzieningen, bedoeld in [artikel 8.3, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013342&hoofdstuk=8&artikel=8.3&z=2017-01-01&g=2017-01-01), aan boord zijn;
 
-- h. de instructies voor het onderhoud van de reddingsmiddelen en -voorzieningen, bedoeld in [artikel 7.16, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013342&hoofdstuk=7&paragraaf=2&artikel=7.16&z=2011-05-14&g=2011-05-14), aan boord zijn en het onderhoud dienovereenkomstig wordt uitgevoerd;
+- h. de instructies voor het onderhoud van de reddingsmiddelen en -voorzieningen, bedoeld in [artikel 7.16, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013342&hoofdstuk=7&paragraaf=2&artikel=7.16&z=2017-01-01&g=2017-01-01), aan boord zijn en het onderhoud dienovereenkomstig wordt uitgevoerd;
 
-- i. de periodieke tests, inspecties en keuringen van de reddingsmiddelen en -voorzieningen worden uitgevoerd overeenkomstig [artikel 7.16, vijfde tot en met achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013342&hoofdstuk=7&paragraaf=2&artikel=7.16&z=2011-05-14&g=2011-05-14), en [artikel 9.6, onder f](https://wetten.overheid.nl/jci1.3:c:BWBR0013342&hoofdstuk=9&paragraaf=2&artikel=9.6&z=2011-05-14&g=2011-05-14);
+- i. de periodieke tests, inspecties en keuringen van de reddingsmiddelen en -voorzieningen worden uitgevoerd overeenkomstig [artikel 7.16, vijfde tot en met achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013342&hoofdstuk=7&paragraaf=2&artikel=7.16&z=2017-01-01&g=2017-01-01), en [artikel 9.6, onder f](https://wetten.overheid.nl/jci1.3:c:BWBR0013342&hoofdstuk=9&paragraaf=2&artikel=9.6&z=2017-01-01&g=2017-01-01);
 
 - j. het noodradiobaken wordt beproefd met tussenpozen van niet meer dan 12 maanden, waarbij, indien noodzakelijk, de batterij wordt vervangen.
 
 ##### Artikel 11.5. Alarmrol en instructies voor noodgevallen
 
-De schipper van een vaartuig is verplicht ervoor te zorgen dat voor het ondernemen van een reis en gedurende de reis wordt voldaan aan het bepaalde in [artikel 8.2, tweede tot en met achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013342&hoofdstuk=8&artikel=8.2&z=2011-05-14&g=2011-05-14).
+De schipper van een vaartuig is verplicht ervoor te zorgen dat voor het ondernemen van een reis en gedurende de reis wordt voldaan aan het bepaalde in [artikel 8.2, tweede tot en met achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013342&hoofdstuk=8&artikel=8.2&z=2017-01-01&g=2017-01-01).
 
 ##### Artikel 11.6. Appèls en oefeningen, opleiding en instructie
 
-De schipper van een vaartuig is verplicht ervoor te zorgen dat wordt voldaan aan het bepaalde in de [artikelen 8.3](https://wetten.overheid.nl/jci1.3:c:BWBR0013342&hoofdstuk=8&artikel=8.3&z=2011-05-14&g=2011-05-14) en [8.4](https://wetten.overheid.nl/jci1.3:c:BWBR0013342&hoofdstuk=8&artikel=8.4&z=2011-05-14&g=2011-05-14).
+De schipper van een vaartuig is verplicht ervoor te zorgen dat wordt voldaan aan het bepaalde in de [artikelen 8.3](https://wetten.overheid.nl/jci1.3:c:BWBR0013342&hoofdstuk=8&artikel=8.3&z=2017-01-01&g=2017-01-01) en [8.4](https://wetten.overheid.nl/jci1.3:c:BWBR0013342&hoofdstuk=8&artikel=8.4&z=2017-01-01&g=2017-01-01).
 
 ##### Artikel 11.7. Voorzorgsmaatregelen tegen brand
 
@@ -4219,7 +4221,7 @@ De schipper van een vaartuig is verplicht ervoor te zorgen dat:
 
 ##### Artikel 11.9. Gebruik van beschermende uitrusting
 
-De schipper van een vaartuig is verplicht ervoor te zorgen dat de schepelingen bekend zijn met het gebruik van de beschermende uitrusting, bedoeld in [artikel 6.3, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013342&hoofdstuk=6&artikel=6.3&z=2011-05-14&g=2011-05-14). Hij ziet erop toe dat deze uitrusting in daartoe in aanmerking komende omstandigheden wordt gebruikt.
+De schipper van een vaartuig is verplicht ervoor te zorgen dat de schepelingen bekend zijn met het gebruik van de beschermende uitrusting, bedoeld in [artikel 6.3, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013342&hoofdstuk=6&artikel=6.3&z=2017-01-01&g=2017-01-01). Hij ziet erop toe dat deze uitrusting in daartoe in aanmerking komende omstandigheden wordt gebruikt.
 
 ##### Artikel 11.10. Elektrische inrichtingen
 
@@ -4319,7 +4321,7 @@ De schipper van een vaartuig is verplicht ervoor te zorgen dat op de brug de nod
 
 ##### Artikel 11.15. Luisterdienst
 
-De schipper van een vaartuig is verplicht luisterdienst te doen houden in overeenstemming met het bepaalde in [artikel 9.11](https://wetten.overheid.nl/jci1.3:c:BWBR0013342&hoofdstuk=9&paragraaf=2&artikel=9.11&z=2011-05-14&g=2011-05-14).
+De schipper van een vaartuig is verplicht luisterdienst te doen houden in overeenstemming met het bepaalde in [artikel 9.11](https://wetten.overheid.nl/jci1.3:c:BWBR0013342&hoofdstuk=9&paragraaf=2&artikel=9.11&z=2017-01-01&g=2017-01-01).
 
 ##### Artikel 11.16. Elektronische navigatiemiddelen
 
@@ -4327,7 +4329,7 @@ De schipper van een vaartuig is verplicht ervoor te zorgen dat door degenen die 
 
 ##### Artikel 11.17. Routering van vaartuigen
 
-De schipper van een vaartuig is verplicht zorg te dragen dat ten aanzien van de routering van het vaartuig het bepaalde in [artikel 10.7](https://wetten.overheid.nl/jci1.3:c:BWBR0013342&hoofdstuk=10&artikel=10.7&z=2011-05-14&g=2011-05-14) in acht wordt genomen.
+De schipper van een vaartuig is verplicht zorg te dragen dat ten aanzien van de routering van het vaartuig het bepaalde in [artikel 10.7](https://wetten.overheid.nl/jci1.3:c:BWBR0013342&hoofdstuk=10&artikel=10.7&z=2017-01-01&g=2017-01-01) in acht wordt genomen.
 
 ##### Artikel 11.18
 
@@ -4361,7 +4363,7 @@ Vervallen
 
 ##### Artikel 11.21. Onderzoek van de romp aan de buitenzijde en herstellingen
 
-1. De eigenaar van een vaartuig is verplicht ervoor te zorgen dat de romp van het vaartuig overeenkomstig het bepaalde in [artikel 1.12, tweede lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0013342&hoofdstuk=1&artikel=1.12&z=2011-05-14&g=2011-05-14), aan de buitenzijde wordt onderzocht.
+1. De eigenaar van een vaartuig is verplicht ervoor te zorgen dat de romp van het vaartuig overeenkomstig het bepaalde in [artikel 1.12, tweede lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0013342&hoofdstuk=1&artikel=1.12&z=2017-01-01&g=2017-01-01), aan de buitenzijde wordt onderzocht.
 
 2. De eigenaar van een vaartuig is verplicht het Hoofd van de Scheepvaartinspectie tijdig in kennis te stellen van het voornemen tot een onderzoek van de romp aan de buitenzijde en van herstellingen aan het vaartuig of aan de werktuigen.
 
@@ -4393,19 +4395,19 @@ De eigenaar van een vaartuig is verplicht aan de schipper de middelen te verscha
 
 ##### Artikel 13.1. Strafbepaling
 
-Overtreding van de [artikelen 11.4](https://wetten.overheid.nl/jci1.3:c:BWBR0013342&hoofdstuk=11&paragraaf=1&artikel=11.4&z=2011-05-14&g=2011-05-14), [11.6](https://wetten.overheid.nl/jci1.3:c:BWBR0013342&hoofdstuk=11&paragraaf=1&artikel=11.6&z=2011-05-14&g=2011-05-14), [11.7](https://wetten.overheid.nl/jci1.3:c:BWBR0013342&hoofdstuk=11&paragraaf=1&artikel=11.7&z=2011-05-14&g=2011-05-14), [11.8](https://wetten.overheid.nl/jci1.3:c:BWBR0013342&hoofdstuk=11&paragraaf=1&artikel=11.8&z=2011-05-14&g=2011-05-14), [11.21](https://wetten.overheid.nl/jci1.3:c:BWBR0013342&hoofdstuk=11&paragraaf=2&artikel=11.21&z=2011-05-14&g=2011-05-14), [11.22](https://wetten.overheid.nl/jci1.3:c:BWBR0013342&hoofdstuk=11&paragraaf=2&artikel=11.22&z=2011-05-14&g=2011-05-14), [11.23](https://wetten.overheid.nl/jci1.3:c:BWBR0013342&hoofdstuk=11&paragraaf=2&artikel=11.23&z=2011-05-14&g=2011-05-14) en [11.24](https://wetten.overheid.nl/jci1.3:c:BWBR0013342&hoofdstuk=11&paragraaf=2&artikel=11.24&z=2011-05-14&g=2011-05-14) is een strafbaar feit.
+Overtreding van de [artikelen 11.4](https://wetten.overheid.nl/jci1.3:c:BWBR0013342&hoofdstuk=11&paragraaf=1&artikel=11.4&z=2017-01-01&g=2017-01-01), [11.6](https://wetten.overheid.nl/jci1.3:c:BWBR0013342&hoofdstuk=11&paragraaf=1&artikel=11.6&z=2017-01-01&g=2017-01-01), [11.7](https://wetten.overheid.nl/jci1.3:c:BWBR0013342&hoofdstuk=11&paragraaf=1&artikel=11.7&z=2017-01-01&g=2017-01-01), [11.8](https://wetten.overheid.nl/jci1.3:c:BWBR0013342&hoofdstuk=11&paragraaf=1&artikel=11.8&z=2017-01-01&g=2017-01-01), [11.21](https://wetten.overheid.nl/jci1.3:c:BWBR0013342&hoofdstuk=11&paragraaf=2&artikel=11.21&z=2017-01-01&g=2017-01-01), [11.22](https://wetten.overheid.nl/jci1.3:c:BWBR0013342&hoofdstuk=11&paragraaf=2&artikel=11.22&z=2017-01-01&g=2017-01-01), [11.23](https://wetten.overheid.nl/jci1.3:c:BWBR0013342&hoofdstuk=11&paragraaf=2&artikel=11.23&z=2017-01-01&g=2017-01-01) en [11.24](https://wetten.overheid.nl/jci1.3:c:BWBR0013342&hoofdstuk=11&paragraaf=2&artikel=11.24&z=2017-01-01&g=2017-01-01) is een strafbaar feit.
 
 #### § 1. Strafbepaling
 
 ##### Artikel 13.2. Ministeriële regelingen
 
-1. Na de inwerkingtreding van dit besluit berust de Regeling signalering reddingmiddelen en vluchtwegen aan boord van vissersvaartuigen op [artikel 5.13, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013342&hoofdstuk=5&paragraaf=2&artikel=5.13&z=2011-05-14&g=2011-05-14), van dit besluit.
+1. Na de inwerkingtreding van dit besluit berust de Regeling signalering reddingmiddelen en vluchtwegen aan boord van vissersvaartuigen op [artikel 5.13, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013342&hoofdstuk=5&paragraaf=2&artikel=5.13&z=2017-01-01&g=2017-01-01), van dit besluit.
 
-2. Na de inwerkingtreding van dit besluit berusten de Regeling wachtalarminstallatie en de Regeling wachtalarminstallatie voor de Nederlandse Antillen op [artikel 6.14, zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013342&hoofdstuk=6&artikel=6.14&z=2011-05-14&g=2011-05-14), van dit besluit.
+2. Na de inwerkingtreding van dit besluit berusten de Regeling wachtalarminstallatie en de Regeling wachtalarminstallatie voor de Nederlandse Antillen op [artikel 6.14, zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013342&hoofdstuk=6&artikel=6.14&z=2017-01-01&g=2017-01-01), van dit besluit.
 
-3. Na de inwerkingtreding van dit besluit berust de Regeling medische uitrusting aan boord van vissersvaartuigen op de [artikelen 6.5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013342&hoofdstuk=6&artikel=6.5&z=2011-05-14&g=2011-05-14), [6.11](https://wetten.overheid.nl/jci1.3:c:BWBR0013342&hoofdstuk=6&artikel=6.11&z=2011-05-14&g=2011-05-14) en [6.14](https://wetten.overheid.nl/jci1.3:c:BWBR0013342&hoofdstuk=6&artikel=6.14&z=2011-05-14&g=2011-05-14) en de [artikelen 7.17, achtste lid, 20°](https://wetten.overheid.nl/jci1.3:c:BWBR0013342&hoofdstuk=7&paragraaf=3&artikel=7.17&z=2011-05-14&g=2011-05-14), [7.20, vijfde lid, onderdeel a, 8°](https://wetten.overheid.nl/jci1.3:c:BWBR0013342&hoofdstuk=7&paragraaf=3&artikel=7.20&z=2011-05-14&g=2011-05-14) en [7.23, tweede lid, onderdeel b, 9°](https://wetten.overheid.nl/jci1.3:c:BWBR0013342&hoofdstuk=7&paragraaf=3&artikel=7.23&z=2011-05-14&g=2011-05-14), van dit besluit.
+3. Na de inwerkingtreding van dit besluit berust de Regeling medische uitrusting aan boord van vissersvaartuigen op de [artikelen 6.5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013342&hoofdstuk=6&artikel=6.5&z=2017-01-01&g=2017-01-01), [6.11](https://wetten.overheid.nl/jci1.3:c:BWBR0013342&hoofdstuk=6&artikel=6.11&z=2017-01-01&g=2017-01-01) en [6.14](https://wetten.overheid.nl/jci1.3:c:BWBR0013342&hoofdstuk=6&artikel=6.14&z=2017-01-01&g=2017-01-01) en de [artikelen 7.17, achtste lid, 20°](https://wetten.overheid.nl/jci1.3:c:BWBR0013342&hoofdstuk=7&paragraaf=3&artikel=7.17&z=2017-01-01&g=2017-01-01), [7.20, vijfde lid, onderdeel a, 8°](https://wetten.overheid.nl/jci1.3:c:BWBR0013342&hoofdstuk=7&paragraaf=3&artikel=7.20&z=2017-01-01&g=2017-01-01) en [7.23, tweede lid, onderdeel b, 9°](https://wetten.overheid.nl/jci1.3:c:BWBR0013342&hoofdstuk=7&paragraaf=3&artikel=7.23&z=2017-01-01&g=2017-01-01), van dit besluit.
 
-4. Na de inwerkingtreding van dit besluit berust de Regeling geluidsniveaus aan boord van vissersvaartuigen op [artikel 6.15, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013342&hoofdstuk=6&artikel=6.15&z=2011-05-14&g=2011-05-14), van dit besluit.
+4. Na de inwerkingtreding van dit besluit berust de Regeling geluidsniveaus aan boord van vissersvaartuigen op [artikel 6.15, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013342&hoofdstuk=6&artikel=6.15&z=2017-01-01&g=2017-01-01), van dit besluit.
 
 #### § 2. Overgangsbepalingen
 
@@ -4419,7 +4421,7 @@ Overtreding van de [artikelen 11.4](https://wetten.overheid.nl/jci1.3:c:BWBR0013
 
 1. Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin het wordt geplaatst.
 
-2. In afwijking van het eerste lid treedt het bepaalde in [artikel 6.14, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013342&hoofdstuk=6&artikel=6.14&z=2011-05-14&g=2011-05-14), en [artikel 6.15, eerste lid, tweede volzin, en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013342&hoofdstuk=6&artikel=6.15&z=2011-05-14&g=2011-05-14), voor vissersvaartuigen, gebouwd voor 23 november 1995, met ingang van 23 november 2002 in werking.
+2. In afwijking van het eerste lid treedt het bepaalde in [artikel 6.14, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013342&hoofdstuk=6&artikel=6.14&z=2017-01-01&g=2017-01-01), en [artikel 6.15, eerste lid, tweede volzin, en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013342&hoofdstuk=6&artikel=6.15&z=2017-01-01&g=2017-01-01), voor vissersvaartuigen, gebouwd voor 23 november 1995, met ingang van 23 november 2002 in werking.
 
 ##### Artikel 13.5. Citeertitel
 
@@ -4428,6 +4430,8 @@ Dit besluit wordt aangehaald als: Vissersvaartuigenbesluit 2002.
 ## Bijlage
 
 ### Certificaat no.:
+
+**CERTIFICAAT VAN OVEREENSTEMMING**
 
 **CERTIFICAAT VAN OVEREENSTEMMING**
 
@@ -4451,9 +4455,9 @@ Datum van het bouwcontract of datum van het contract voor een ingrijpende verbou
 
 Datum waarop de kiel werd gelegd of het vaartuig zich ineen soortgelijk stadium van bouw bevond3:
 
-....................
-
 ### Eerste onderzoek
+
+Datum van oplevering of voltooiing van een ingrijpende verbouwing3:
 
 ....................
 
@@ -4481,9 +4485,9 @@ Uitgereikt te Rotterdam, op ....................
 
 (Zegel of stempel van de uitreikende instantie)
 
-Ondergetekende verklaart dat hij door de betrokken lidstaat naar behoren is gemachtigd om dit certificaat uit te reiken.
-
 ### Aantekening ter verlenging van de geldigheid van het certificaat ingeval voorschrift I/11, paragraaf 1, van toepassing is (maximaal 1 jaar)
+
+....................
 
 (Handtekening)
 
@@ -4509,9 +4513,9 @@ Dit certificaat blijft overeenkomstig voorschrift I/11, paragraaf 2 (voorschrift
 
 Getekend: ....................
 
-(Zegel of stempel van de uitreikende instantie)
-
 ### Aantekeningen betreffende de periodieke onderzoeken
+
+Plaats: ....................
 
 Datum: ....................
 
@@ -4541,9 +4545,9 @@ HIERMEDE WORDT VERKLAARD dat het vaartuig bij een onderzoek zoals vereist bij vo
 
 Getekend: ....................
 
-(Zegel of stempel van de uitreikende instantie)
-
 ### Eerste periodieke onderzoek van de medische uitrusting:
+
+Plaats: ....................
 
 Datum: ....................
 
@@ -4557,9 +4561,9 @@ Getekend: ....................
 
 Plaats: ....................
 
-Datum: ....................
-
 ### Tweede periodieke onderzoek van de radioapparatuur:
+
+**Eerste periodieke onderzoek van de constructie en machine-installatie:**
 
 **Namens het Hoofd van de Scheepvaartinspectie**
 
@@ -4585,9 +4589,9 @@ Getekend: ....................
 
 Plaats: ....................
 
-Datum: ....................
-
 ### Derde periodieke onderzoek van de radioapparatuur:
+
+**Tweede periodieke onderzoek van de constructie en machine-installatie:**
 
 **Namens het Hoofd van de Scheepvaartinspectie**
 
@@ -4613,9 +4617,9 @@ Getekend: ....................
 
 Plaats: ....................
 
-Datum: ....................
-
 ### Certificaat no.:
+
+**Derde periodieke onderzoek van de constructie en machine-installatie:**
 
 **Namens het Hoofd van de Scheepvaartinspectie**
 
@@ -4663,9 +4667,9 @@ Uitgereikt te Rotterdam, op ....................
 
 (Zegel of stempel van de uitreikende instantie)
 
-Ondergetekende verklaart dat hij door de betrokken lidstaat naar behoren is gemachtigd om dit certificaat uit te reiken.
-
 ### Aantekening ter verlenging van de geldigheid van het certificaat ingeval voorschrift I/11, paragraaf 1, van toepassing is (maximaal 1 jaar)
+
+....................
 
 (Handtekening)
 
@@ -4691,9 +4695,9 @@ Dit certificaat blijft overeenkomstig voorschrift I/11, paragraaf 2, voorschrift
 
 Getekend: ....................
 
-(Zegel of stempel van de uitreikende instantie)
-
 ### INVENTARIS VAN UITRUSTING
+
+Plaats: ....................
 
 Datum: ....................
 
@@ -4728,8 +4732,6 @@ Uitgereikt te Rotterdam, op ....................
 ....................
 
 (Zegel of stempel van de uitreikende instantie)
-
-Ondergetekende verklaart dat hij door de betrokken lidstaat naar behoren is gemachtigd om dit certificaat uit te reiken.
 
 Lasten en bevelen dat dit besluit met de bijlage en de daarbij behorende nota van toelichting in het Staatsblad, in het Publicatieblad van de Nederlandse Antillen en in het Afkondigingsblad van Aruba zal worden geplaatst.
 
@@ -4789,61 +4791,61 @@ Ter uitvoering van een besluit van een of meer van de instellingen van de Europe
 
 (gereserveerd)
 
-### Hoofdstuk 13. Straf-, overgangs- en slotbepalingen
+### Hoofdstuk 12. Voorschriften voor vissersvaartuigen kleiner dan 24 m
+
+#### § 1. Strafbepaling
 
 #### § 1. Strafbepaling
 
 #### § 2. Overgangsbepalingen
 
-#### § 3. Slotbepalingen
-
 ## Bijlage
 
 ### Certificaat no.:
 
-Datum van oplevering of voltooiing van een ingrijpende verbouwing3:
+....................
 
 ### Eerste onderzoek
 
-....................
+Ondergetekende verklaart dat hij door de betrokken lidstaat naar behoren is gemachtigd om dit certificaat uit te reiken.
 
 ### Aantekening ter verlenging van de geldigheid van het certificaat ingeval voorschrift I/11, paragraaf 1, van toepassing is (maximaal 1 jaar)
 
-Plaats: ....................
+(Zegel of stempel van de uitreikende instantie)
 
 ### Aantekeningen betreffende de periodieke onderzoeken
 
-Plaats: ....................
+(Zegel of stempel van de uitreikende instantie)
 
 ### Eerste periodieke onderzoek van de medische uitrusting:
 
-**Eerste periodieke onderzoek van de constructie en machine-installatie:**
+Datum: ....................
 
 ### Tweede periodieke onderzoek van de radioapparatuur:
 
-**Tweede periodieke onderzoek van de constructie en machine-installatie:**
+Datum: ....................
 
 ### Derde periodieke onderzoek van de radioapparatuur:
 
-**Derde periodieke onderzoek van de constructie en machine-installatie:**
+Datum: ....................
 
 ### Certificaat no.:
 
-....................
+Ondergetekende verklaart dat hij door de betrokken lidstaat naar behoren is gemachtigd om dit certificaat uit te reiken.
 
 ### Aantekening ter verlenging van de geldigheid van het certificaat ingeval voorschrift I/11, paragraaf 1, van toepassing is (maximaal 1 jaar)
 
-Plaats: ....................
+(Zegel of stempel van de uitreikende instantie)
 
 ### INVENTARIS VAN UITRUSTING
 
-....................
+Ondergetekende verklaart dat hij door de betrokken lidstaat naar behoren is gemachtigd om dit certificaat uit te reiken.
 
 Lasten en bevelen dat dit besluit met de bijlage en de daarbij behorende nota van toelichting in het Staatsblad, in het Publicatieblad van de Nederlandse Antillen en in het Afkondigingsblad van Aruba zal worden geplaatst.
 
 ##### Artikel 1.7a. Aanwijzing natuurlijke personen of rechtspersonen
 
-1. Onze Minister wijst de natuurlijke personen en rechtspersonen aan die zijn belast met de door hem aan te geven, in het kader van de onderzoeken, bedoeld in [artikel 1.12](https://wetten.overheid.nl/jci1.3:c:BWBR0013342&hoofdstuk=1&artikel=1.12&z=2011-05-14&g=2011-05-14), te verrichten taken.
+1. Onze Minister wijst de natuurlijke personen en rechtspersonen aan die zijn belast met de door hem aan te geven, in het kader van de onderzoeken, bedoeld in [artikel 1.12](https://wetten.overheid.nl/jci1.3:c:BWBR0013342&hoofdstuk=1&artikel=1.12&z=2017-01-01&g=2017-01-01), te verrichten taken.
 
 2. Een ingevolge het eerste lid aangewezen natuurlijke persoon of rechtspersoon is, indien bij een onderzoek gebreken aan het vissersvaartuig of zijn uitrusting worden geconstateerd, bevoegd om herstel van deze gebreken te vorderen.
 
@@ -4900,6 +4902,86 @@ Lasten en bevelen dat dit besluit met de bijlage en de daarbij behorende nota va
 ##### Artikel 12.1. Algemene bepaling
 
 Bij ministeriële regeling kunnen regels worden gesteld over de veiligheid van vissersvaartuigen met een lengte van minder dan 24 meter.
+
+### Hoofdstuk 13. Straf-, overgangs- en slotbepalingen
+
+#### § 3. Slotbepalingen
+
+## Bijlage
+
+### Certificaat no.:
+
+### Eerste onderzoek
+
+### Aantekening ter verlenging van de geldigheid van het certificaat ingeval voorschrift I/11, paragraaf 1, van toepassing is (maximaal 1 jaar)
+
+### Aantekeningen betreffende de periodieke onderzoeken
+
+### Eerste periodieke onderzoek van de medische uitrusting:
+
+### Tweede periodieke onderzoek van de radioapparatuur:
+
+### Derde periodieke onderzoek van de radioapparatuur:
+
+### Certificaat no.:
+
+### Aantekening ter verlenging van de geldigheid van het certificaat ingeval voorschrift I/11, paragraaf 1, van toepassing is (maximaal 1 jaar)
+
+### INVENTARIS VAN UITRUSTING
+
+....................
+
+Lasten en bevelen dat dit besluit met de bijlage en de daarbij behorende nota van toelichting in het Staatsblad, in het Publicatieblad van de Nederlandse Antillen en in het Afkondigingsblad van Aruba zal worden geplaatst.
+
+##### Artikel 1.1a. Omhangbepaling
+
+Dit besluit berust mede op [artikel 4, tweede lid, van de Schepenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0001876&artikel=4).
+
+### Hoofdstuk 2. Constructie, waterdichte indeling en uitrusting
+
+### Hoofdstuk 3. Stabiliteit en de daarmede verband houdende zeewaardigheid
+
+### Hoofdstuk 4. Machine- en elektrische installaties en tijdelijk onbemande ruimten voor machines
+
+#### § 1. Algemeen
+
+#### § 2. Machine-installaties
+
+#### § 3. Elektrische installaties
+
+#### § 4. Tijdelijk onbemande machinekamers
+
+### Hoofdstuk 5. Bescherming tegen, alsmede opsporen, blussen en bestrijden van brand
+
+#### § 2. Brandbeveiligingsmaatregelen op vaartuigen waarvan de lengte 60 m of meer bedraagt
+
+#### § 3. Brandbeveiligingsmaatregelen op vaartuigen waarvan de lengte 45 m onderscheidenlijk 24 m of meer bedraagt, maar minder dan 60 m
+
+### Hoofdstuk 6. Bescherming van de bemanning
+
+### Hoofdstuk 7. Reddingsmiddelen en -voorzieningen en veiligheidsmiddelen
+
+#### § 1. Algemeen
+
+#### § 2. Bepalingen ten aanzien van het vaartuig
+
+#### § 3. Bepalingen ten aanzien van reddingsmiddelen en -voorzieningen
+
+### Hoofdstuk 8. Noodprocedures, appèls en oefeningen
+
+### Hoofdstuk 9. Radiocommunicatie
+
+#### § 1. Toepassing en omschrijvingen
+
+#### § 2. Bepalingen ten aanzien van het vaartuig
+
+### Hoofdstuk 10. Hulpmiddelen bij de navigatie
+
+### Hoofdstuk 11. Verplichtingen van de schipper en de eigenaar
+
+#### § 1. Verplichtingen van de schipper
+
+#### § 2. Verplichtingen van de eigenaar
 
 ### Hoofdstuk 13. Straf-, overgangs- en slotbepalingen
 
