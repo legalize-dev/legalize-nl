@@ -4,7 +4,7 @@ identifier: "BWBR0030540"
 country: "nl"
 rank: "zbo"
 publication_date: "2026-01-20"
-last_updated: "2016-08-12"
+last_updated: "2017-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0030540"
 soort: "zbo"
@@ -125,13 +125,13 @@ Het bestuur kan, onverminderd het bepaalde in [artikel 4:35 van de Algemene wet 
 
 - b. als reeds tweemaal eerder voor dezelfde activiteit subsidie is aangevraagd;
 
-- c. als de aanvrager geen rechtspersoon met volledige rechtsbevoegdheid is (met uitzondering van aanvragers voor subsidie volgens [artikel 5.2 lid 2](https://wetten.overheid.nl/jci1.3:c:BWBR0030540&paragraaf=5&artikel=5.2&z=2016-08-12&g=2016-08-12));
+- c. als de aanvrager geen rechtspersoon met volledige rechtsbevoegdheid is (met uitzondering van aanvragers voor subsidie volgens [artikel 5.2 lid 2](https://wetten.overheid.nl/jci1.3:c:BWBR0030540&paragraaf=5&artikel=5.2&z=2017-01-01&g=2017-01-01));
 
 - d. als de aanvrager in de voorgaande twee jaar niet heeft voldaan aan een of meer aan een subsidie verbonden voorwaarden of verplichtingen, waaronder in elk geval ook vallen het juist en tijdig afronden van de gesubsidieerde activiteiten, het tijdig melden van relevante veranderingen in de uitvoering en het juist en tijdig verantwoorden van de activiteiten;
 
 - e. als de aanvraag betrekking heeft op een reeds geheel of gedeeltelijk voltooide activiteit;
 
-- f. als de aanvrager reeds een instellingssubsidie van de Minister van Onderwijs, Cultuur en Wetenschap of een meerjarige activiteitensubsidie van het Fonds Podiumkunsten ontvangt en de activiteiten waarvoor wordt aangevraagd geacht kunnen worden reeds in dat kader ondersteund te worden;
+- f. als de aanvrager reeds een meerjarige activiteitensubsidie van het Fonds Podiumkunsten ontvangt en de activiteiten waarvoor wordt aangevraagd geacht kunnen worden reeds in dat kader ondersteund te worden;
 
 - g. als de aanvrager niet voldoet aan de voor de betreffende instelling gebruikelijke normen met betrekking tot good governance op het terrein van goed bestuur, adequaat toezicht en transparante verantwoording;
 
@@ -197,6 +197,8 @@ Een aanvraag heeft betrekking op het programmeren van een of meer bijzondere voo
 
 2. Subsidie wordt niet verstrekt als de eerste openbare activiteit waarvoor het subsidie (mede) is bestemd plaatsvindt binnen 4 maanden na de uiterste indiendatum.
 
+3. Subsidie wordt niet verstrekt aan aanvragers die reeds een instellingssubsidie van de Minister van Onderwijs, Cultuur en Wetenschap ontvangen.
+
 ##### Artikel 3.5. Beoordeling
 
 Aanvragen worden beoordeeld aan de hand van de volgende criteria:
@@ -240,6 +242,8 @@ Een aanvraag kan uitsluitend worden gedaan door een instelling met een artistiek
 3. Subsidie wordt niet verstrekt als de eerste openbare activiteit waarvoor het subsidie (mede) is bestemd plaatsvindt binnen 4 maanden na de uiterste indiendatum.
 
 4. Subsidie wordt niet verstrekt als het gevraagde subsidie niet in een redelijke verhouding staat tot het aantal te realiseren activiteiten of de te behalen eigen inkomsten. Hiervan is in elk geval sprake als niet minimaal 20% van de subsidiabele kosten worden gedekt door eigen inkomsten.
+
+5. Subsidie wordt niet verstrekt aan aanvragers die reeds een instellingssubsidie van de Minister van Onderwijs, Cultuur en Wetenschap ontvangen.
 
 ##### Artikel 4.5. Beoordeling
 
@@ -324,6 +328,8 @@ een lezing of workshop zal geven dan wel er anderszins sprake is van aanvullende
 - d. als er onvoldoende sprake is van een reeks logisch samenhangende voorstellingen of concerten;
 
 - e. als er onvoldoende ontwikkeling is ten opzichte van een eerder door het fonds ondersteunde aanvraag.
+
+4. Subsidie wordt niet verstrekt aan aanvragers die reeds een instellingssubsidie van de Minister van Onderwijs, Cultuur en Wetenschap ontvangen.
 
 ##### Artikel 5.5. Hoogte subsidie
 
