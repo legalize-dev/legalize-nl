@@ -4,7 +4,7 @@ identifier: "BWBR0026017"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-01-01"
-last_updated: "2015-07-01"
+last_updated: "2017-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0026017"
 soort: "ministeriele-regeling"
@@ -42,6 +42,8 @@ Gelet op de [artikelen 17c](https://wetten.overheid.nl/jci1.3:c:BWBR0002368&arti
 
 Besluit:
 
+Treedt in werking op het tijdstip waarop de Vierde tranche Algemene wet bestuursrecht in werking treedt.
+
 ##### Artikel 1. Definities
 
 In deze regeling wordt verstaan onder:
@@ -52,7 +54,7 @@ In deze regeling wordt verstaan onder:
 
 - c. **AOW:** [Algemene Ouderdomswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002221);
 
-- d. IOW: [Wet inkomensvoorziening oudere werklozen](https://wetten.overheid.nl/jci1.3:c:BWBR0024394&wetgeving);
+- d. IOW: [Wet inkomensvoorziening oudere werklozen](https://wetten.overheid.nl/jci1.3:c:BWBR0024394);
 
 - e. **TW:** [Toeslagenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0004043);
 
@@ -60,13 +62,13 @@ In deze regeling wordt verstaan onder:
 
 - g. **WAZO:** [Wet arbeid en zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0013008);
 
-- h. **Wajong:** [Wet arbeidsongeschiktheidsvoorziening jonggehandicapten](https://wetten.overheid.nl/jci1.3:c:BWBR0008657&wetgeving);
+- h. **Wajong:** [Wet arbeidsongeschiktheidsvoorziening jonggehandicapten](https://wetten.overheid.nl/jci1.3:c:BWBR0008657);
 
-- i. **WAZ:** [Wet arbeidsongeschiktheidsverzekering zelfstandigen](https://wetten.overheid.nl/jci1.3:c:BWBR0008656&wetgeving);
+- i. **WAZ:** [Wet arbeidsongeschiktheidsverzekering zelfstandigen](https://wetten.overheid.nl/jci1.3:c:BWBR0008656);
 
-- j. **WAO:** [Wet op de arbeidsongeschiktheidsverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0002524&wetgeving);
+- j. **WAO:** [Wet op de arbeidsongeschiktheidsverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0002524);
 
-- k. **Wet WIA:** [Wet werk en inkomen naar arbeidsvermogen](https://wetten.overheid.nl/jci1.3:c:BWBR0019057&wetgeving);
+- k. **Wet WIA:** [Wet werk en inkomen naar arbeidsvermogen](https://wetten.overheid.nl/jci1.3:c:BWBR0019057);
 
 - l. **ZW:** [Ziektewet](https://wetten.overheid.nl/jci1.3:c:BWBR0001888);
 
@@ -82,7 +84,7 @@ In deze regeling wordt verstaan onder:
 
 - b. het bedrag dat als bestuurlijke boete is opgelegd;
 
-- c. het bedrag dat het UWV op de werkgever verhaalt op grond van de [artikelen 71, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002524&artikel=71), [75a, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002524&artikel=75a), [75b, zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002524&artikel=75b), [75f, eerste lid, van de WAO](https://wetten.overheid.nl/jci1.3:c:BWBR0002524&artikel=75f), [72, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019057&artikel=72), [83, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019057&artikel=83), [84, tweede of vierde lid, van de Wet WIA](https://wetten.overheid.nl/jci1.3:c:BWBR0019057&artikel=84), [39a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001888&artikel=39a), of [63a, derde, vierde of vijfde lid, van de ZW](https://wetten.overheid.nl/jci1.3:c:BWBR0001888&artikel=63a) of
+- c. het bedrag dat het UWV op de werkgever verhaalt op grond van de [artikelen 71, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002524&artikel=71), [75a, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002524&artikel=75a), [75b, zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002524&artikel=75b), [75f, eerste lid, van de WAO](https://wetten.overheid.nl/jci1.3:c:BWBR0002524&artikel=75f), [72, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019057&artikel=72), [84, derde en vierde lid, onderdeel a, van de Wet WIA](https://wetten.overheid.nl/jci1.3:c:BWBR0019057&artikel=84), [39a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001888&artikel=39a), of [63a, derde, vierde of vijfde lid, van de ZW](https://wetten.overheid.nl/jci1.3:c:BWBR0001888&artikel=63a) of
 
 - d. het bedrag van een aan een werkgever verstrekt re-integratie-instrument dat wordt teruggevorderd op grond van [artikel 77 van de Wet WIA](https://wetten.overheid.nl/jci1.3:c:BWBR0019057&artikel=77);
 
@@ -100,7 +102,7 @@ In deze regeling wordt verstaan onder:
 
 ##### Artikel 2. Bevoegdheid verrekening met werkgever
 
-Het UWV is, naast de in [artikel 1, onderdelen a tot en met l](https://wetten.overheid.nl/jci1.3:c:BWBR0026017&artikel=1&z=2015-07-01&g=2015-07-01), genoemde wetten opgenomen bevoegdheden tot verrekening van vorderingen op werknemers, tevens bevoegd tot verrekening van een vordering op de werkgever met een aan de werkgever te betalen bedrag.
+Het UWV is, naast de in [artikel 1, onderdelen a tot en met l](https://wetten.overheid.nl/jci1.3:c:BWBR0026017&artikel=1&z=2017-01-01&g=2017-01-01), genoemde wetten opgenomen bevoegdheden tot verrekening van vorderingen op werknemers, tevens bevoegd tot verrekening van een vordering op de werkgever met een aan de werkgever te betalen bedrag.
 
 ##### Artikel 3. Standaard regeling voor uitstel van betaling
 
@@ -204,34 +206,12 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 ##### Artikel 11a. Overgangsrecht versoepeling betalingsregeling
 
-Voor de toepassing van [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0026017&artikel=8&z=2015-07-01&g=2015-07-01) geldt ten aanzien van vorderingen die zijn ontstaan voor 1 januari 2013 een tijdsduur van 5 jaar.
+Voor de toepassing van [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0026017&artikel=8&z=2017-01-01&g=2017-01-01) geldt ten aanzien van vorderingen die zijn ontstaan voor 1 januari 2013 een tijdsduur van 5 jaar.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 ##### Artikel 10a. Regeling verrekening bestuurlijke boete bij recidive
 
-1. Indien [artikel 14h, vijfde lid, van de TW](https://wetten.overheid.nl/jci1.3:c:BWBR0004043&artikel=14h), [27h, vijfde lid, van de WW](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&artikel=27h), [54a, vijfde lid, van de WAZ](https://wetten.overheid.nl/jci1.3:c:BWBR0008656&artikel=54a), [24a, vijfde lid, van de IOW](https://wetten.overheid.nl/jci1.3:c:BWBR0024394&artikel=24a), [29h, vijfde lid, van de WAO](https://wetten.overheid.nl/jci1.3:c:BWBR0002524&artikel=29h), [3:44, vijfde lid, van de Wajong](https://wetten.overheid.nl/jci1.3:c:BWBR0008657&artikel=3:44), [97, vijfde lid, van de Wet WIA](https://wetten.overheid.nl/jci1.3:c:BWBR0019057&artikel=97), [45h, vijfde lid, van de ZW](https://wetten.overheid.nl/jci1.3:c:BWBR0001888&artikel=45h), [17h, vijfde lid, van de AKW](https://wetten.overheid.nl/jci1.3:c:BWBR0002368&artikel=17h), [45a, vijfde lid, van de Anw](https://wetten.overheid.nl/jci1.3:c:BWBR0007795&artikel=45a) of [17j, vijfde lid, van de AOW](https://wetten.overheid.nl/jci1.3:c:BWBR0002221&artikel=17j) van toepassing is, wordt bij de verrekening van de bestuurlijke boete, bedoeld in deze artikelen, op aanvraag een deel van de toeslag, de uitkering, de kinderbijslag of het ouderdomspensioen vrijgelaten overeenkomstig dit artikel met ingang van de eerste betaling na de datum van aanvraag.
-
-2. Voor zover de hoogte van de toeslag, de uitkering, de kinderbijslag of het ouderdomspensioen daartoe de ruimte biedt, is het vrijgelaten deel, bedoeld in het eerste lid, met inachtneming van het vierde en vijfde lid, gelijk aan de som van een naar een tijdseenheid te herleiden gedeelte voor:
-
-- a. zorgkosten: € 530 per kalenderjaar voor een alleenstaande en € 1031 per kalenderjaar voor een belanghebbende met een echtgenoot of geregistreerd partner met wie hij een gezamenlijke huishouding voert, en
-
-- b. kosten van kinderen: indien de belanghebbende ouder is en voor een kind voor wie aan die ouder op grond van [artikel 18 van de Algemene Kinderbijslagwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002368&artikel=18) kinderbijslag wordt betaald: 50 procent van het bedrag, bedoeld in [artikel 2, tweede lid, van de Wet op het kindgebonden budget](https://wetten.overheid.nl/jci1.3:c:BWBR0022751&artikel=2), dat gelet op het aantal kinderen van toepassing is.
-
-3. Voor zover dit artikel berust op [artikel 27h, vijfde lid, van de Werkloosheidswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&artikel=27h) of [artikel 17h, vijfde lid, van de Algemene Kinderbijslagwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002368&artikel=17h) wordt als echtgenoot of geregistreerd partner als bedoeld in het tweede lid, onderdeel a, mede aangemerkt de ongehuwde meerderjarige die met een andere ongehuwde meerderjarige een gezamenlijke huishouding voert, tenzij het betreft een bloedverwant in de eerste graad. Voor de toepassing van de eerste zin wordt mede als ongehuwd aangemerkt degene die duurzaam gescheiden leeft van de persoon met wie hij gehuwd is.
-
-4. Voor zover dit artikel berust op [artikel 27h, vijfde lid, van de Werkloosheidswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&artikel=27h) of [artikel 17h, vijfde lid, van de Algemene Kinderbijslagwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002368&artikel=17h) is sprake van een gezamenlijke huishouding, bedoeld in het tweede lid, onderdeel a indien twee personen hun hoofdverblijf in dezelfde woning hebben en zij blijk geven zorg te dragen voor elkaar door middel van het leveren van een bijdrage in de kosten van de huishouding dan wel anderszins.
-
-5. Het bedrag van het vrijgelaten deel, bedoeld in het tweede lid, wordt in verband met woonkosten vermeerderd indien de belanghebbende huurder is van een woning met een kale huur van niet meer dan € 681 per maand of mede een huurwoning bewoont met zo’n huur.
-
-6. De vermeerdering, bedoeld in het vijfde lid, bedraagt 50 procent van een naar tijdseenheid te herleiden bedrag gelijk aan het verschil tussen de kale huur per maand minus een basisbedrag van € 222 per maand.
-
-7. Onder kale huur als bedoel in het vijfde en zesde lid wordt verstaan de huurprijs die bij huur en verhuur is verschuldigd voor het enkele gebruik van een woning.
-
-8. De aanvraag, bedoeld in het eerste lid, wordt ingediend bij het UWV indien de verrekening plaatsvindt op grond van de [TW](https://wetten.overheid.nl/jci1.3:c:BWBR0004043), [WW](https://wetten.overheid.nl/jci1.3:c:BWBR0004045), [WAZ](https://wetten.overheid.nl/jci1.3:c:BWBR0008656&wetgeving), [IOW](https://wetten.overheid.nl/jci1.3:c:BWBR0024394&wetgeving), [WAO](https://wetten.overheid.nl/jci1.3:c:BWBR0002524&wetgeving), [Wet Wajong](https://wetten.overheid.nl/jci1.3:c:BWBR0008657&wetgeving), [Wet WIA](https://wetten.overheid.nl/jci1.3:c:BWBR0019057&wetgeving) of de [ZW](https://wetten.overheid.nl/jci1.3:c:BWBR0001888) en bij de SVB indien de verrekening plaatsvindt op grond van de [AKW](https://wetten.overheid.nl/jci1.3:c:BWBR0002368), [Anw](https://wetten.overheid.nl/jci1.3:c:BWBR0007795) of de [AOW](https://wetten.overheid.nl/jci1.3:c:BWBR0002221).
-
-9. Door het UWV en de SVB kunnen bewijsstukken worden verlangd die noodzakelijk zijn voor de vaststelling van het vrij te laten deel en die de belanghebbende bij de aanvraag dient te overleggen.
-
-10. Het op grond van het tweede, vijfde en zesde lid vastgestelde bedrag van de vrijlating wordt slechts op aanvraag herzien met ingang van de eerste betaling na de datum van aanvraag, in geval er sprake is van een wijziging van de persoonlijke omstandigheden die zouden hebben geleid tot een wijziging van de zorgkosten, bedoeld in het tweede lid, onderdeel a, de kosten van kinderen, bedoeld in het tweede lid, onderdeel b, of de woonkosten, bedoeld in het vijfde lid.
+Vervallen
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
