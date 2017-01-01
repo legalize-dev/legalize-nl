@@ -4,7 +4,7 @@ identifier: "BWBR0038664"
 country: "nl"
 rank: "amvb"
 publication_date: "2017-01-01"
-last_updated: "2016-11-01"
+last_updated: "2017-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0038664"
 soort: "AMvB"
@@ -58,13 +58,9 @@ Wijzigt het Besluit vergoeding bewindvoerder schuldsanering.
 
 Wijzigt het Besluit verklaring derdenbeslag.
 
-Dit onderdeel is nog niet inwerking getreden
-
 ##### Artikel IV
 
 Wijzigt het Besluit op het notarisambt.
-
-Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel V
 
@@ -72,8 +68,8 @@ De tarieven die golden op grond van het [Besluit tarieven ambtshandelingen gerec
 
 ##### Artikel VI
 
-1. De [artikelen I](https://wetten.overheid.nl/jci1.3:c:BWBR0038664&artikel=I&z=2016-11-01&g=2016-11-01), [II](https://wetten.overheid.nl/jci1.3:c:BWBR0038664&artikel=II&z=2016-11-01&g=2016-11-01) en [V](https://wetten.overheid.nl/jci1.3:c:BWBR0038664&artikel=V&z=2016-11-01&g=2016-11-01) treden in werking met ingang van 1 november 2016.
+1. De [artikelen I](https://wetten.overheid.nl/jci1.3:c:BWBR0038664&artikel=I&z=2017-01-01&g=2017-01-01), [II](https://wetten.overheid.nl/jci1.3:c:BWBR0038664&artikel=II&z=2017-01-01&g=2017-01-01) en [V](https://wetten.overheid.nl/jci1.3:c:BWBR0038664&artikel=V&z=2017-01-01&g=2017-01-01) treden in werking met ingang van 1 november 2016.
 
-2. De [artikelen III](https://wetten.overheid.nl/jci1.3:c:BWBR0038664&artikel=III&z=2016-11-01&g=2016-11-01) en [IV](https://wetten.overheid.nl/jci1.3:c:BWBR0038664&artikel=IV&z=2016-11-01&g=2016-11-01) treden in werking met ingang van 1 januari 2017.
+2. De [artikelen III](https://wetten.overheid.nl/jci1.3:c:BWBR0038664&artikel=III&z=2017-01-01&g=2017-01-01) en [IV](https://wetten.overheid.nl/jci1.3:c:BWBR0038664&artikel=IV&z=2017-01-01&g=2017-01-01) treden in werking met ingang van 1 januari 2017.
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
