@@ -4,7 +4,7 @@ identifier: "BWBR0038930"
 country: "nl"
 rank: "wet"
 publication_date: "2017-04-01"
-last_updated: "2016-07-01"
+last_updated: "2017-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0038930"
 soort: "wet"
@@ -50,7 +50,7 @@ Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel II
 
-Dit onderdeel is nog niet inwerking getreden
+Indien vóór 1 januari 2017 een eigen woning als bedoeld in [artikel 3.111 van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.111) is vervreemd waarbij het bedrag van de eigenwoningschuld onmiddellijk na vervreemding van die eigen woning lager was dan het bedrag van de eigenwoningschuld van die woning onmiddellijk voorafgaande aan die vervreemding, is [artikel 10bis.6, vijfde lid, tweede volzin, van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=10bis.6) van overeenkomstige toepassing indien de uitkering vóór 1 juli 2017 plaatsvindt.
 
 ##### Artikel IIA
 
@@ -62,8 +62,6 @@ Dit onderdeel is nog niet inwerking getreden
 
 Wijzigt de Invoeringswet Wet inkomstenbelasting 2001.
 
-Dit onderdeel is nog niet inwerking getreden
-
 ##### Artikel IIIBIS
 
 Wijzigt de Invoeringswet Wet inkomstenbelasting 2001.
@@ -74,19 +72,13 @@ Dit onderdeel is nog niet inwerking getreden
 
 Wijzigt de Wet op de loonbelasting 1964.
 
-Dit onderdeel is nog niet inwerking getreden
-
 ##### Artikel IV
 
 Wijzigt de Wet vermindering afdracht loonbelasting en premie voor de volksverzekeringen.
 
-Dit onderdeel is nog niet inwerking getreden
-
 ##### Artikel V
 
 Wijzigt de Wet op de vennootschapsbelasting 1969.
-
-Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel VI
 
@@ -110,25 +102,17 @@ Wijzigt de Successiewet 1956.
 
 Wijzigt de Wet op belastingen van rechtsverkeer.
 
-Dit onderdeel is nog niet inwerking getreden
-
 ##### Artikel IX
 
 Wijzigt de Wet op de accijns.
-
-Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel X
 
 Wijzigt de Wet op de belasting van personenauto’s en motorrijwielen 1992.
 
-Dit onderdeel is nog niet inwerking getreden
-
 ##### Artikel XA
 
 Wijzigt de Wet op de motorrijtuigenbelasting 1994.
-
-Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel XI
 
@@ -138,13 +122,9 @@ Wijzigt de Wet belastingen op milieugrondslag.
 
 Wijzigt de Douane- en Accijnswet BES.
 
-Dit onderdeel is nog niet inwerking getreden
-
 ##### Artikel XIII
 
 Wijzigt de Algemene wet inkomensafhankelijke regelingen.
-
-Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel XIV
 
@@ -154,34 +134,48 @@ Wijzigt de Wet op de internationale bijstandsverlening bij de heffing van belast
 
 Wijzigt de Wet aanpak fraude toeslagen en fiscaliteit.
 
-Dit onderdeel is nog niet inwerking getreden
-
 ##### Artikel XVI
 
 Wijzigt het Belastingplan 2015.
-
-Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel XVII
 
 Wijzigt de Wet maatregelen woningmarkt 2014 II.
 
-Dit onderdeel is nog niet inwerking getreden
-
 ##### Artikel XVIII
 
 Wijzigt de Wet uitwerking Autobrief II.
 
-Dit onderdeel is nog niet inwerking getreden
-
 ##### Artikel XVIIIA
 
-Dit onderdeel is nog niet inwerking getreden
+Wanneer de rechtshandelingen, bedoeld in [artikel 9, twaalfde lid, van de Wet op de belasting van personenauto’s en motorrijwielen 1992](https://wetten.overheid.nl/jci1.3:c:BWBR0005806&artikel=9), door de Europese Commissie zijn vastgesteld en zijn gepubliceerd in het Publicatieblad van de Europese Unie, wordt dat artikel bij ministeriële regeling gewijzigd in die zin dat in dat artikel wordt verwezen naar die rechtshandelingen. Die ministeriële regeling kan voor zover nodig terugwerken tot en met de dag waarop die rechtshandelingen in werking zijn getreden.
 
 ##### Artikel XIX
 
-Dit onderdeel is nog niet inwerking getreden
+1. Onder toepassing van [artikel 12 van de Wet raadgevend referendum](https://wetten.overheid.nl/jci1.3:c:BWBR0036443&artikel=12) treedt deze wet in werking met ingang van 1 januari 2017, met dien verstande dat [artikel V](https://wetten.overheid.nl/jci1.3:c:BWBR0038930&artikel=V&z=2017-01-01&g=2017-01-01) voor het eerst toepassing vindt met betrekking tot boekjaren die aanvangen op of na 1 januari 2017.
+
+2. [Artikel XI, onderdeel A](https://wetten.overheid.nl/jci1.3:c:BWBR0038930&artikel=XI&z=2017-01-01&g=2017-01-01), werkt terug tot en met 1 juni 2015.
+
+3. [Artikel I, onderdeel L](https://wetten.overheid.nl/jci1.3:c:BWBR0038930&artikel=I&z=2017-01-01&g=2017-01-01), werkt terug tot en met 15 september 2015, 15.15 uur.
+
+4. [Artikel VI, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0038930&artikel=VI&z=2017-01-01&g=2017-01-01), werkt terug tot en met 30 september 2015.
+
+5. [Artikel VI, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0038930&artikel=VI&z=2017-01-01&g=2017-01-01), werkt terug tot en met 1 oktober 2015.
+
+6. [Artikel I, onderdelen M en S](https://wetten.overheid.nl/jci1.3:c:BWBR0038930&artikel=I&z=2017-01-01&g=2017-01-01), [artikel XI, onderdeel B](https://wetten.overheid.nl/jci1.3:c:BWBR0038930&artikel=XI&z=2017-01-01&g=2017-01-01), en [artikel XIV, onderdelen A tot en met E](https://wetten.overheid.nl/jci1.3:c:BWBR0038930&artikel=XIV&z=2017-01-01&g=2017-01-01), werken terug tot en met 1 januari 2016.
+
+7. [Artikel I, onderdelen F en G](https://wetten.overheid.nl/jci1.3:c:BWBR0038930&artikel=I&z=2017-01-01&g=2017-01-01), en [artikel VII, onderdeel D](https://wetten.overheid.nl/jci1.3:c:BWBR0038930&artikel=VII&z=2017-01-01&g=2017-01-01), werken terug tot en met 1 juli 2016.
+
+8. In afwijking van het eerste lid treden de [artikelen IA](https://wetten.overheid.nl/jci1.3:c:BWBR0038930&artikel=IA&z=2017-01-01&g=2017-01-01), [IIA](https://wetten.overheid.nl/jci1.3:c:BWBR0038930&artikel=IIA&z=2017-01-01&g=2017-01-01) en [IIIBIS](https://wetten.overheid.nl/jci1.3:c:BWBR0038930&artikel=IIIBIS&z=2017-01-01&g=2017-01-01) in werking op een bij koninklijk besluit te bepalen tijdstip.
 
 ##### Artikel XX
 
-Dit onderdeel is nog niet inwerking getreden
+Deze wet wordt aangehaald als: Overige fiscale maatregelen 2017.
+
+Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
+
+Alzo Wij in overweging genomen hebben, dat het in het kader van het fiscale beleid voor het jaar 2017 wenselijk is in een aantal belastingwetten en enige andere wetten wijzigingen, bijstellingen of technische reparaties aan te brengen;
+
+Zo is het, dat Wij, de Afdeling advisering van de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
+
+Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren die zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
