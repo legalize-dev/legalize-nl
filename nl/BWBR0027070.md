@@ -4,7 +4,7 @@ identifier: "BWBR0027070"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2017-01-01"
-last_updated: "2010-10-10"
+last_updated: "2017-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0027070"
 soort: "ministeriele-regeling"
@@ -109,9 +109,15 @@ In de navolgende ruimten worden de volgende grenswaarden voor geluidniveaus- A n
 
 ##### Artikel 5
 
-1. Met gehoorbeschermingsmiddelen als bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0027070&paragraaf=3&artikel=3&z=2010-10-10&g=2010-10-10) worden ten minste de in onderstaande tabel vermelde niveauverlagingen verkregen. De niveauverlaging, die getoetst wordt aan de waarde in de tabel, wordt verkregen door de gemiddelde waarde van de met de gehoorbeschermingsmiddelen verkregen niveauverlaging te verminderen met de standaardafwijking, gemeten volgens de ISO-Norm 4969.
+1. Met gehoorbeschermingsmiddelen als bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0027070&paragraaf=3&artikel=3&z=2017-01-01&g=2017-01-01) worden ten minste de in onderstaande tabel vermelde niveauverlagingen verkregen. De niveauverlaging, die getoetst wordt aan de waarde in de tabel, wordt verkregen door de gemiddelde waarde van de met de gehoorbeschermingsmiddelen verkregen niveauverlaging te verminderen met de standaardafwijking, gemeten volgens de ISO-Norm 4969.
 
-2. Bij de vaststelling van de in [paragraaf 2](https://wetten.overheid.nl/jci1.3:c:BWBR0027070&paragraaf=2&z=2010-10-10&g=2010-10-10) en [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0027070&paragraaf=3&artikel=4&z=2010-10-10&g=2010-10-10) voorgeschreven grenswaarden geldt als uitgangspunt dat gehoorbeschermingsmiddelen de volgende niveauverlagingen geven:
+|   | Middenfrequentie van de octaafbanden (in Hz) | Middenfrequentie van de octaafbanden (in Hz) | Middenfrequentie van de octaafbanden (in Hz) | Middenfrequentie van de octaafbanden (in Hz) | Middenfrequentie van de octaafbanden (in Hz) | Middenfrequentie van de octaafbanden (in Hz) | Middenfrequentie van de octaafbanden (in Hz) | Middenfrequentie van de octaafbanden (in Hz) |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Type gehoorbeschermingsmiddel | 125 | 250 | 500 | 1.000 | 2.000 | 3.150 | 4.000 | 6.300 |
+| Oordoppen | 0 | 5 | 10 | 15 | 22 | 22 | 22 | 22 |
+| Oorkappen | 5 | 12 | 20 | 30 | 30 | 30 | 30 | 30 |
+
+2. Bij de vaststelling van de in [paragraaf 2](https://wetten.overheid.nl/jci1.3:c:BWBR0027070&paragraaf=2&z=2017-01-01&g=2017-01-01) en [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0027070&paragraaf=3&artikel=4&z=2017-01-01&g=2017-01-01) voorgeschreven grenswaarden geldt als uitgangspunt dat gehoorbeschermingsmiddelen de volgende niveauverlagingen geven:
 
 - a. oordoppen: -20 dB(A),
 
@@ -119,13 +125,9 @@ In de navolgende ruimten worden de volgende grenswaarden voor geluidniveaus- A n
 
 ##### Artikel 6
 
-In ruimten waar het geluidniveau-A hoger is dan 85 dB(A), worden bij de toegangen tot die ruimten waarschuwingsborden aangebracht, waarop een pictogram betreffende gehoorbescherming als bedoeld in NEN 3011 is aangebracht. Indien in een vrij klein gedeelte van een ruimte een dergelijk geluidniveau-A aanwezig is, wordt op de desbetreffende plaats of plaatsen op ooghoogte een waarschuwing aangebracht, zichtbaar vanuit elke toegangsrichting
+1. In ruimten waar het geluidniveau-A hoger is dan 85 dB(A), worden bij de toegangen tot die ruimten waarschuwingsborden aangebracht waarop duidelijk is aangegeven dat in de te betreden ruimte het dragen van gehoorbescherming verplicht is. Indien in een vrij klein gedeelte van een ruimte een dergelijk geluidniveau-A aanwezig is, wordt op de desbetreffende plaats of plaatsen op ooghoogte een waarschuwing aangebracht, zichtbaar vanuit elke toegangsrichting.
 
-|   | Middenfrequentie van de octaafbanden (in Hz) | Middenfrequentie van de octaafbanden (in Hz) | Middenfrequentie van de octaafbanden (in Hz) | Middenfrequentie van de octaafbanden (in Hz) | Middenfrequentie van de octaafbanden (in Hz) | Middenfrequentie van de octaafbanden (in Hz) | Middenfrequentie van de octaafbanden (in Hz) | Middenfrequentie van de octaafbanden (in Hz) |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Type gehoorbeschermingsmiddel | 125 | 250 | 500 | 1000 | 2000 | 3150 | 4000 | 6300 |
-| Oordoppen | 0 | 5 | 10 | 15 | 22 | 22 | 22 | 22 |
-| Oorkappen | 5 | 12 | 20 | 30 | 30 | 30 | 30 | 30 |
+2. Aan het eerste lid wordt in ieder geval voldaan indien op het waarschuwingsbod een pictogram betreffende gehoorbescherming als bedoeld in NEN 3011:2015: Nederlandse norm voor Veiligheidskleuren en -tekens in de werkomgeving en in de openbare ruimte, is aangebracht.
 
 ##### Artikel 7
 
@@ -151,9 +153,9 @@ De luchtgeluidisolatie wordt ten genoegen van het Hoofd van de Scheepvaartinspec
 
 ##### Artikel 10
 
-1. De vaststelling of aan de voor een werkruimte voorgeschreven grenswaarde is voldaan, geschiedt door meting van het constante, het fluctuerende, of het equivalente continue geluidniveau-A in deze ruimte. In de gevallen waarin het equivalente continue geluidniveau-A wordt gebruikt, zijn alle in de [artikelen 13 tot en met 19](https://wetten.overheid.nl/jci1.3:c:BWBR0027070&paragraaf=5&artikel=13&z=2010-10-10&g=2010-10-10) vereiste meetplaatsen daarin begrepen.
+1. De vaststelling of aan de voor een werkruimte voorgeschreven grenswaarde is voldaan, geschiedt door meting van het constante, het fluctuerende, of het equivalente continue geluidniveau-A in deze ruimte. In de gevallen waarin het equivalente continue geluidniveau-A wordt gebruikt, zijn alle in de [artikelen 13 tot en met 19](https://wetten.overheid.nl/jci1.3:c:BWBR0027070&paragraaf=5&artikel=13&z=2017-01-01&g=2017-01-01) vereiste meetplaatsen daarin begrepen.
 
-2. Indien in ruimten voor machines, genoemd in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0027070&paragraaf=2&artikel=2&z=2010-10-10&g=2010-10-10), de werking van een installatie of werktuig of een onderdeel van een werktuig leidt tot de afgifte van een waarneembaar hinderlijk geluid van hoge frequentie en het geluidniveau-A van 105 dB(A) wordt overschreden, wordt de ISONR- waarde bepaald. Het Hoofd van de Scheepvaartinspectie bepaalt de toelaatbaarheid van een ISO-NRwaarde tussen 105 en 110.
+2. Indien in ruimten voor machines, genoemd in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0027070&paragraaf=2&artikel=2&z=2017-01-01&g=2017-01-01), de werking van een installatie of werktuig of een onderdeel van een werktuig leidt tot de afgifte van een waarneembaar hinderlijk geluid van hoge frequentie en het geluidniveau-A van 105 dB(A) wordt overschreden, wordt de ISONR- waarde bepaald. Het Hoofd van de Scheepvaartinspectie bepaalt de toelaatbaarheid van een ISO-NRwaarde tussen 105 en 110.
 
 3. In ruimten voor accommodatie waarin de dB(A)-grenswaarden worden overschreden en waarin een waarneembaar hinderlijk geluid van lage frequentie aanwezig is of duidelijk waarneembare tonen aanwezig zijn, wordt de ISO-NR-waarde bepaald. De ISO-NR-waarde bedraagt niet meer dan de voorgeschreven waarde volgens de A-schaal, verminderd met 5.
 
@@ -177,7 +179,7 @@ De luchtgeluidisolatie wordt ten genoegen van het Hoofd van de Scheepvaartinspec
 
 - g. waterdiepte onder de kiel tijdens de metingen;
 
-- h. de voornaamste in de [artikelen 7](https://wetten.overheid.nl/jci1.3:c:BWBR0027070&paragraaf=3&artikel=7&z=2010-10-10&g=2010-10-10) en [8](https://wetten.overheid.nl/jci1.3:c:BWBR0027070&paragraaf=4&artikel=8&z=2010-10-10&g=2010-10-10) omschreven omstandigheden, met inbegrip van die onderdelen van de voortstuwingsinstallatie die in bedrijf zijn en de bedrijfsomstandigheden daarvan;
+- h. de voornaamste in de [artikelen 7](https://wetten.overheid.nl/jci1.3:c:BWBR0027070&paragraaf=3&artikel=7&z=2017-01-01&g=2017-01-01) en [8](https://wetten.overheid.nl/jci1.3:c:BWBR0027070&paragraaf=4&artikel=8&z=2017-01-01&g=2017-01-01) omschreven omstandigheden, met inbegrip van die onderdelen van de voortstuwingsinstallatie die in bedrijf zijn en de bedrijfsomstandigheden daarvan;
 
 - i. over de geluidniveaus-A in de diverse ruimten aan boord;
 
@@ -193,7 +195,7 @@ De luchtgeluidisolatie wordt ten genoegen van het Hoofd van de Scheepvaartinspec
 
 ##### Artikel 12
 
-Zo spoedig mogelijk na de bouw of verbouw van het vissersvaartuig worden de geluidniveaus-A in de ruimten, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0027070&paragraaf=2&artikel=2&z=2010-10-10&g=2010-10-10), onder de bedrijfsomstandigheden, bedoeld in de [artikelen 13](https://wetten.overheid.nl/jci1.3:c:BWBR0027070&paragraaf=5&artikel=13&z=2010-10-10&g=2010-10-10) en [14](https://wetten.overheid.nl/jci1.3:c:BWBR0027070&paragraaf=5&artikel=14&z=2010-10-10&g=2010-10-10), gemeten en overeenkomstig [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0027070&paragraaf=5&artikel=11&z=2010-10-10&g=2010-10-10) op passende wijze geregistreerd.
+Zo spoedig mogelijk na de bouw of verbouw van het vissersvaartuig worden de geluidniveaus-A in de ruimten, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0027070&paragraaf=2&artikel=2&z=2017-01-01&g=2017-01-01), onder de bedrijfsomstandigheden, bedoeld in de [artikelen 13](https://wetten.overheid.nl/jci1.3:c:BWBR0027070&paragraaf=5&artikel=13&z=2017-01-01&g=2017-01-01) en [14](https://wetten.overheid.nl/jci1.3:c:BWBR0027070&paragraaf=5&artikel=14&z=2017-01-01&g=2017-01-01), gemeten en overeenkomstig [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0027070&paragraaf=5&artikel=11&z=2017-01-01&g=2017-01-01) op passende wijze geregistreerd.
 
 ##### Artikel 13
 
@@ -227,7 +229,7 @@ Metingen in de haven worden verricht onder de navolgende bedrijfsomstandigheden:
 
 - b. geluid afkomstig van buiten het vissersvaartuig gelegen geluidbronnen, op de meetplaatsen geen invloed heeft op het geluidniveau-A aan boord van het vissersvaartuig. Met betrekking tot constant achtergrondlawaai mogen de afgelezen waarden worden gecorrigeerd volgens het principe van het sommeren van geluidintensiteiten.
 
-2. De waterdiepte onder de kiel van het vissersvaartuig en de aanwezigheid van grote reflecterende oppervlakken in de nabijheid van het vissersvaartuig, worden vermeld in het onderzoeksrapport, bedoeld in [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0027070&paragraaf=5&artikel=11&z=2010-10-10&g=2010-10-10).
+2. De waterdiepte onder de kiel van het vissersvaartuig en de aanwezigheid van grote reflecterende oppervlakken in de nabijheid van het vissersvaartuig, worden vermeld in het onderzoeksrapport, bedoeld in [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0027070&paragraaf=5&artikel=11&z=2017-01-01&g=2017-01-01).
 
 ##### Artikel 16
 
@@ -239,17 +241,17 @@ De meetprocedures voldoen aan de volgende voorschriften:
 
 - a. tijdens het meten van geluidniveaus- A zijn in de desbetreffende ruimte uitsluitend de personen aanwezig zijn die nodig zijn voor de bediening van het vissersvaartuig, alsmede de persoon die de metingen uitvoert;
 
-- b. de geluidniveaus-A worden gemeten in dB(A) en zonodig worden tevens octaafbandniveaus gemeten voor de octaafbanden met middenfrequenties 31.5 tot en met 8000 Hz, ter bepaling van de ISO-NR-waarden overeenkomstig het bepaalde in [paragraaf 6](https://wetten.overheid.nl/jci1.3:c:BWBR0027070&paragraaf=6&z=2010-10-10&g=2010-10-10);
+- b. de geluidniveaus-A worden gemeten in dB(A) en zonodig worden tevens octaafbandniveaus gemeten voor de octaafbanden met middenfrequenties 31.5 tot en met 8000 Hz, ter bepaling van de ISO-NR-waarden overeenkomstig het bepaalde in [paragraaf 6](https://wetten.overheid.nl/jci1.3:c:BWBR0027070&paragraaf=6&z=2017-01-01&g=2017-01-01);
 
 - c. de precisiegeluidniveaumeter wordt op de stand ‘langzaam’ ingesteld en de waarden worden tot op één decibel nauwkeurig afgelezen. De meettijd is ten minste 5 seconden. Indien een geluidniveaumeter fluctuaties van niet meer dan 5 dB(A) aangeeft, wordt het niveau visueel vastgesteld of wordt het gemiddelde van de geluidniveaus- A anderszins bepaald;
 
 - d. indien de fluctuaties meer dan 5 dB(A) bedragen of indien het geluid cyclisch onregelmatig of intermitterend is, wordt een integrerende geluidniveaumeter gebruikt die is ingesteld op de A-schaal. De integrerende meting geschiedt gedurende een periode van ten minste 30 seconden;
 
-- e. bij meting van de geluidbelasting kan behalve het constante en variërende geluidniveaus-A, ook de geluidbelasting van personen worden gemeten, zoals voorzien in de [artikelen 4](https://wetten.overheid.nl/jci1.3:c:BWBR0027070&paragraaf=3&artikel=4&z=2010-10-10&g=2010-10-10) en [5](https://wetten.overheid.nl/jci1.3:c:BWBR0027070&paragraaf=3&artikel=5&z=2010-10-10&g=2010-10-10).
+- e. bij meting van de geluidbelasting kan behalve het constante en variërende geluidniveaus-A, ook de geluidbelasting van personen worden gemeten, zoals voorzien in de [artikelen 4](https://wetten.overheid.nl/jci1.3:c:BWBR0027070&paragraaf=3&artikel=4&z=2017-01-01&g=2017-01-01) en [5](https://wetten.overheid.nl/jci1.3:c:BWBR0027070&paragraaf=3&artikel=5&z=2017-01-01&g=2017-01-01).
 
 ##### Artikel 18
 
-De geluidniveaumeter wordt geijkt met behulp van het ijkinstrument, bedoeld in [artikel 21](https://wetten.overheid.nl/jci1.3:c:BWBR0027070&paragraaf=6&artikel=21&z=2010-10-10&g=2010-10-10), direct voor en na afloop van de metingen.
+De geluidniveaumeter wordt geijkt met behulp van het ijkinstrument, bedoeld in [artikel 21](https://wetten.overheid.nl/jci1.3:c:BWBR0027070&paragraaf=6&artikel=21&z=2017-01-01&g=2017-01-01), direct voor en na afloop van de metingen.
 
 ##### Artikel 19
 
@@ -299,7 +301,7 @@ Ten aanzien van het gebruik van apparatuur gelden de volgende voorschriften:
 
 ##### Artikel 22
 
-1. Voor de ruimten, genoemd in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0027070&paragraaf=2&artikel=2&z=2010-10-10&g=2010-10-10), wordt voorafgaand aan de bouw dan wel verbouw van een vissersvaartuig een prognose van de geluidniveaus-A opgesteld.
+1. Voor de ruimten, genoemd in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0027070&paragraaf=2&artikel=2&z=2017-01-01&g=2017-01-01), wordt voorafgaand aan de bouw dan wel verbouw van een vissersvaartuig een prognose van de geluidniveaus-A opgesteld.
 
 2. De prognose, bedoeld in het eerste lid, met de bijbehorende berekeningen en een overzicht van de te nemen akoestische maatregelen, wordt tijdig aan het Hoofd van de Scheepvaartinspectie overgelegd, doch uiterlijk in een zodanig stadium van de bouw dan wel verbouw, dat nog ingrijpende akoestische maatregelen kunnen worden getroffen.
 
