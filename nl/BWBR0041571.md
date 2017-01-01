@@ -4,7 +4,7 @@ identifier: "BWBR0041571"
 country: "nl"
 rank: "wet"
 publication_date: "2020-01-01"
-last_updated: "2014-07-01"
+last_updated: "2017-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0041571"
 soort: "wet"
@@ -40,8 +40,6 @@ entry_into_force: "2018-11-23"
 ##### Artikel I. [Algemene kinderbijslagwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002368)
 
 Wijzigt de Algemene kinderbijslagwet.
-
-Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel II. [Algemene nabestaandenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0007795)
 
