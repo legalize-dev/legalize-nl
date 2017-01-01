@@ -73,11 +73,3 @@ Deze regeling wordt aangehaald als: Regeling aanduiding motor- en bromfietshelme
 ## Bijlage I. behorende bij [artikel 2, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0038712&artikel=2&z=2017-01-01&g=2017-01-01)
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
-
-##### Artikel 1a
-
-Deze regeling berust op [artikel 60, eerste lid, van het Reglement verkeersregels en verkeerstekens 1990](https://wetten.overheid.nl/jci1.3:c:BWBR0004825&artikel=60).
-
-## Bijlage I. behorende bij [artikel 2, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0038712&artikel=2&z=2020-12-19&g=2020-09-01)
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
