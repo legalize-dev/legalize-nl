@@ -4,7 +4,7 @@ identifier: "BWBR0036973"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-01-30"
-last_updated: "2015-09-02"
+last_updated: "2017-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0036973"
 soort: "ministeriele-regeling"
@@ -50,13 +50,15 @@ In dit besluit wordt verstaan onder:
 
 - b. **minister:** Minister van Onderwijs, Cultuur en Wetenschap en, voor zover het betreft het beroepsonderwijs op het gebied van landbouw, natuurlijke omgeving en voedsel, Minister van Economische Zaken;
 
-- c. **commissie:** de commissie, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0036973&artikel=2&z=2015-09-02&g=2015-09-02) van dit besluit;
+- c. **commissie:** de commissie, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0036973&artikel=2&z=2017-01-01&g=2017-01-01) van dit besluit;
 
 - d. **zorgplicht arbeidsmarktperspectief:** de zorgplicht bedoeld in [artikel 6.1.3, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=6.1.3);
 
 - e. **zorgplicht doelmatigheid:** de zorgplicht bedoeld in [artikel 6.1.3, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=6.1.3);
 
-- f. **beleidsregel:** de Beleidsregel macrodoelmatigheid beroepsonderwijs.
+- f. **beleidsregel:** de Beleidsregel macrodoelmatigheid beroepsonderwijs;
+
+- g. **NVAO:** Nederlands-Vlaamse Accreditatieorganisatie.
 
 ##### Artikel 2. Instelling en taak
 
@@ -106,13 +108,13 @@ In dit besluit wordt verstaan onder:
 
 2. Het secretariaat is voor de inhoudelijke uitvoering van zijn taak uitsluitend verantwoording schuldig aan de voorzitter van de commissie.
 
-3. In het secretariaat wordt voorzien door de minister.
+3. In het secretariaat wordt voorzien door de minister. Het secretariaat is ondergebracht bij de NVAO.
 
 ##### Artikel 6. Werkwijze
 
 1. De commissie stelt haar eigen werkwijze vast.
 
-2. De commissie legt jaarlijks voor 1 november een werkplan voor het volgend kalenderjaar en een begroting tot uitvoering van dit werkplan voor aan de minister. De begroting behoeft goedkeuring van de minister. Uitgaven buiten de begroting worden tevoren per geval ter goedkeuring voorgelegd aan de minister.
+2. De commissie legt jaarlijks voor 1 oktober een werkplan voor het volgend kalenderjaar en een begroting tot uitvoering van dit werkplan voor aan de minister. De begroting behoeft goedkeuring van de minister. Uitgaven buiten de begroting worden tevoren per geval ter goedkeuring voorgelegd aan de minister.
 
 3. De commissie brengt jaarlijks aan de minister voor 1 juli een verslag over de uitvoering van haar werkzaamheden in het voorafgaand kalenderjaar en een financieel verslag uit.
 
@@ -122,7 +124,7 @@ In dit besluit wordt verstaan onder:
 
 ##### Artikel 7. Procedure vaststellen rapport van bevindingen
 
-1. Waar het gaat om de taken, bedoeld in [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036973&artikel=2&z=2015-09-02&g=2015-09-02), legt de commissie haar oordeel naar aanleiding van een onderzoek vast in een rapport.
+1. Waar het gaat om de taken, bedoeld in [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036973&artikel=2&z=2017-01-01&g=2017-01-01), legt de commissie haar oordeel naar aanleiding van een onderzoek vast in een rapport.
 
 2. De commissie zendt uiterlijk 13 weken na het starten van het onderzoek dit rapport aan de minister. Indien het rapport niet binnen 13 weken kan worden toegezonden, stelt de commissie de minister daarvan in kennis. De minister bepaalt in overleg met de commissie de termijn waarbinnen het rapport alsnog toegezonden dient te worden.
 
@@ -144,7 +146,7 @@ In dit besluit wordt verstaan onder:
 
 ##### Artikel 10. Kosten commissie en vergoeding
 
-1. De kosten van de commissie komen, voor zover goedgekeurd op basis van [artikel 6, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036973&artikel=6&z=2015-09-02&g=2015-09-02), voor rekening van de minister. Onder kosten worden in ieder geval verstaan:
+1. De kosten van de commissie komen, voor zover goedgekeurd op basis van [artikel 6, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036973&artikel=6&z=2017-01-01&g=2017-01-01), voor rekening van de minister. Onder kosten worden in ieder geval verstaan:
 
 - a. de kosten voor de faciliteiten van vergaderingen en voor secretariële ondersteuning,
 
@@ -152,15 +154,15 @@ In dit besluit wordt verstaan onder:
 
 - c. de kosten voor publicatie van rapportages.
 
-2. De voorzitter en de andere leden ontvangen een vaste vergoeding per maand. De toepasselijke salarisschaal voor de voorzitter en de andere leden is het maximum van schaal 18 van [bijlage B van het Bezoldigingsbesluit Burgerlijke Rijksambtenaren 1984](https://wetten.overheid.nl/jci1.3:c:BWBR0003630&bijlage=B). De arbeidsduurfactor voor de voorzitter en de andere leden is maximaal 0,0675, respectievelijk 0,045.
+2. De voorzitter en de andere leden ontvangen een vaste vergoeding per maand. De toepasselijke salarisschaal voor de voorzitter en de andere leden is het maximum van schaal 18 van [bijlage B van het Bezoldigingsbesluit Burgerlijke Rijksambtenaren 1984](https://wetten.overheid.nl/jci1.3:c:BWBR0003630&bijlage=B). De arbeidsduurfactor voor de voorzitter, de vicevoorzitter en de andere leden is respectievelijk maximaal 0,081, 0,0675 en 0,054.
 
 3. De voorzitter en de andere leden van de commissie ontvangen een vergoeding van reis- en verblijfkosten op de voet van het [Reisbesluit binnenland](https://wetten.overheid.nl/jci1.3:c:BWBR0005889) en het [Reisbesluit buitenland](https://wetten.overheid.nl/jci1.3:c:BWBR0006842). Deze vergoeding wordt door het secretariaat van de commissie afgehandeld.
 
 ##### Artikel 11. Openbaarmaking
 
-1. Rapporten, notities, verslagen, adviezen en andere producten die door of namens de commissie worden vervaardigd of vergaard in het kader van de taken, bedoeld in [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036973&artikel=2&z=2015-09-02&g=2015-09-02), worden uitsluitend aan de minister uitgebracht of overgedragen.
+1. Rapporten, notities, verslagen, adviezen en andere producten die door of namens de commissie worden vervaardigd of vergaard in het kader van de taken, bedoeld in [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036973&artikel=2&z=2017-01-01&g=2017-01-01), worden uitsluitend aan de minister uitgebracht of overgedragen.
 
-2. De minister besluit tot openbaarmaking van producten die door of namens de commissie zijn vervaardigd in het kader van de taken, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0036973&artikel=2&z=2015-09-02&g=2015-09-02).
+2. De minister besluit tot openbaarmaking van producten die door of namens de commissie zijn vervaardigd in het kader van de taken, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0036973&artikel=2&z=2017-01-01&g=2017-01-01).
 
 3. In opdracht van de minister plaatst de commissie vervolgens de openbaar te maken producten op de website.
 
