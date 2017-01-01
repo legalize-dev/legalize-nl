@@ -4,7 +4,7 @@ identifier: "BWBR0037263"
 country: "nl"
 rank: "beleidsregel"
 publication_date: "2025-01-01"
-last_updated: "2016-01-01"
+last_updated: "2017-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0037263"
 soort: "beleidsregel"
@@ -42,13 +42,15 @@ Besluit:
 
 ##### Artikel 1
 
-1. Deze beleidsregels gelden voor de verlening van een ontheffing van de [artikelen 9](https://wetten.overheid.nl/jci1.3:c:BWBR0009640&artikel=9), [13, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009640&artikel=13), en in voorkomend geval van [artikel 15, tweede lid, van de Flora- en faunawet](https://wetten.overheid.nl/jci1.3:c:BWBR0009640&artikel=15) en van [artikel 2.2, eerste lid, van de Wet Dieren](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&artikel=2.2) aan opvangcentra die dieren behorende tot beschermde inheemse of uitheemse soorten of dieren behorende tot de soorten die niet op [bijlage 1 bij de Regeling houders van dieren](https://wetten.overheid.nl/jci1.3:c:BWBR0035248&bijlage=1) zijn geplaatst, opvangen of gaan opvangen.
+1. Deze beleidsregels gelden voor de verlening van een ontheffing van de [artikelen 3.5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037552&artikel=3.5), en [3.10, eerste lid, van de Wet natuurbescherming](https://wetten.overheid.nl/jci1.3:c:BWBR0037552&artikel=3.10) en de [artikelen 3.24, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0038662&artikel=3.24), en [3.25, van het Besluit natuurbescherming](https://wetten.overheid.nl/jci1.3:c:BWBR0038662&artikel=3.25) en van [artikel 2.2, eerste lid, van de Wet Dieren](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&artikel=2.2) aan opvangcentra die dieren behorende tot beschermde inheemse of uitheemse soorten of dieren behorende tot de soorten die niet op [bijlage 1 bij de Regeling houders van dieren](https://wetten.overheid.nl/jci1.3:c:BWBR0035248&bijlage=1) zijn geplaatst, opvangen of gaan opvangen.
 
 2. Deze beleidsregels zijn niet van toepassing op opvangcentra waarvoor een vergunning als bedoeld in [artikel 4.2, eerste lid, van het Besluit houders van dieren](https://wetten.overheid.nl/jci1.3:c:BWBR0035217&artikel=4.2), is vereist.
 
+3. Deze beleidsregels zijn gebaseerd op de [artikelen 3.8, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037552&artikel=3.8), en [3.10, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037552&artikel=3.10), in samenhang met [artikel 1.3, vijfde lid, van de Wet natuurbescherming](https://wetten.overheid.nl/jci1.3:c:BWBR0037552&artikel=1.3), en [3.40](https://wetten.overheid.nl/jci1.3:c:BWBR0037552&artikel=3.40), op [artikel 10.1, eerste lid, van de Wet dieren](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&artikel=10.1) en op [artikel 4:81 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:81).
+
 ##### Artikel 2
 
-Een ontheffing als bedoeld in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0037263&artikel=1&z=2016-01-01&g=2016-01-01) wordt slechts verleend indien:
+Een ontheffing als bedoeld in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0037263&artikel=1&z=2017-01-01&g=2017-01-01) wordt slechts verleend indien:
 
 - a. het opvangcentrum van een vereniging of stichting is,
 
@@ -60,7 +62,7 @@ Een ontheffing als bedoeld in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BW
 
 ##### Artikel 3
 
-Aan een ontheffing als bedoeld in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0037263&artikel=1&z=2016-01-01&g=2016-01-01) wordt het handelen overeenkomstig het protocol dat is opgenomen in de bijlage bij dit besluit als voorschrift verbonden.
+Aan een ontheffing als bedoeld in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0037263&artikel=1&z=2017-01-01&g=2017-01-01) wordt het handelen overeenkomstig het protocol dat is opgenomen in de bijlage bij dit besluit als voorschrift verbonden.
 
 ##### Artikel 4
 
@@ -70,7 +72,7 @@ Aan een ontheffing als bedoeld in [artikel 1](https://wetten.overheid.nl/jci1.3:
 
 ##### Artikel 5
 
-Het [Besluit Beleidsregels kwaliteit opvang beschermde inheemse diersoorten](https://wetten.overheid.nl/jci1.3:c:BWBR0025568&wetgeving) wordt ingetrokken.
+Het [Besluit Beleidsregels kwaliteit opvang beschermde inheemse diersoorten](https://wetten.overheid.nl/jci1.3:c:BWBR0025568) wordt ingetrokken.
 
 ##### Artikel 6
 
@@ -82,7 +84,7 @@ Dit besluit treedt in werking met ingang van 1 januari 2016.
 
 ## Bijlage
 
-### Protocol opvang verboden diersoorten, bedreigde uitheemse diersoorten en bedreigde inheemse diersoorten
+### Protocol opvang niet aangewezen diersoorten en beschermde diersoorten
 
 ### Paragraaf 1. Algemeen
 
@@ -140,11 +142,11 @@ De handelwijze, bedoeld in artikel 4, eerste lid, aanhef en onderdeel b, bevat e
 
 ### Artikel 22. Structurele oplossingen
 
-### Artikel 23. In vrijheid stellen van dieren behorende tot uit de natuur afkomstige beschermde inheemse diersoorten
+### Artikel 23. In vrijheid stellen van dieren behorende tot uit de natuur afkomstige van nature in Nederland voorkomende beschermde diersoorten
 
-### Artikel 24. In vrijheid stellen van uit de vrije natuur afkomstige beschermde uitheemse diersoorten
+### Artikel 24. In vrijheid stellen van uit de vrije natuur afkomstige niet van nature in Nederland voorkomende beschermde diersoorten
 
-### Artikel 25. Uitwenverblijf voor uit de vrije natuur afkomstige beschermde inheemse dieren
+### Artikel 25. Uitwenverblijf voor uit de vrije natuur afkomstige dieren van van nature in Nederland voorkomende beschermde diersoorten
 
 ### Artikel 26. Internationaal fokprogramma
 
