@@ -4,7 +4,7 @@ identifier: "BWBR0037127"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-04-01"
-last_updated: "2016-07-01"
+last_updated: "2017-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0037127"
 soort: "ministeriele-regeling"
@@ -105,13 +105,13 @@ Deze regeling wordt aangehaald als: Regeling elektronisch berichtenverkeer Belas
 | wet | onderdeel | omschrijving | niet uitsluitend digitaal | wel uitsluitend digitaal | voorziening | authenticatiemiddel |
 | --- | --- | --- | --- | --- | --- | --- |
 | [Algemene wet inzake rijksbelastingen](https://wetten.overheid.nl/jci1.3:c:BWBR0002320) | [Artikel 5b](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=5b) | verzoek aanmerken ANBI beschikking aanmerken ANBI | x |   |   |   |
-|   | [Artikel 6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=6) | aangiftebrief inkomstenbelasting (IB) | x |   |   |   |
+|   | [Artikel 6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=6) | aangiftebrief inkomstenbelasting (IB) |   | x |   |   |
 |   | Artikel 6, eerste lid | aangiftebrief omzetbelasting (OB) | x |   |   |   |
 |   | Artikel 6, eerste lid | aangiftebrief vennootschapsbelasting (Vpb) | x |   |   |   |
 |   | Artikel 6, tweede lid | verzoek om uitnodiging tot het doen van aangifte | x |   |   |   |
 |   | [Artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=8), eerste lid, jo. [artikel 9, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=9) | aangifte IB niet-winst | x |   |   |   |
-|   | idem | aangifte IB winst |   | x | SBR/Digipoort Belastingdienst advanced programming interface (BAPI) MijnBelastingdienst Ondernemers | PKI Overheid services certificaat BAPI-certificaat Door Belastingdienst verstrekte gebruikersnaam en wachtwoord |
-|   | idem | aangifte Vpb |   | x | SBR/Digipoort BAPI MijnBelastingdienst Ondernemers | PKI Overheid services certificaat BAPI-certificaat Door Belastingdienst verstrekte gebruikersnaam en wachtwoord |
+|   | idem | aangifte IB-winst |   | x | SBR/Digipoort MijnBelastingdienst | PKI Overheid services certificaat DigiD |
+|   | idem | aangifte Vpb |   | x | SBR/Digipoort MijnBelastingdienst Ondernemers | PKI Overheid services certificaat Door Belastingdienst verstrekte gebruikersnaam en wachtwoord |
 |   | Artikel 8, eerste lid, jo. [artikel 10, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=10) | aangifte loonbelasting, met uitzondering van de aangifte voor de pseudo-eindheffing, bedoeld in [artikel 32bb van de Wet op de loonbelasting 1964](https://wetten.overheid.nl/jci1.3:c:BWBR0002471&artikel=32bb) |   | x | SBR/Digipoort BAPI File oriented service (FOS) MijnBelastingdienst Ondernemers | PKI Overheid services certificaat BAPI-certificaat PKI Overheid services certificaat Door Belastingdienst verstrekte gebruikersnaam en wachtwoord |
 |   | idem | aangifte voor de pseudo-eindheffing, bedoeld in artikel 32bb van de Wet op de loonbelasting 1964 | x |   |   |   |
 |   | idem | aangifte OB |   | x | SBR/Digipoort MijnBelastingdienst Ondernemers | PKI Overheid services certificaat Door Belastingdienst verstrekte gebruikersnaam en wachtwoord |
@@ -139,7 +139,8 @@ Deze regeling wordt aangehaald als: Regeling elektronisch berichtenverkeer Belas
 | [Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353) |   | alle verzoeken voor zover niet gedaan bij de aangifte, en de afgegeven voor bezwaar vatbare beschikkingen | x |   |   |   |
 |   |   | alle voor bezwaar vatbare beschikkingen houdende vaststellingen, voor zover geen onderdeel van de aanslag | x |   |   |   |
 |   |   | alle voor bezwaar vatbare beschikkingen houdende herziening en beslissingen tot algehele toewijzing van verzoeken om herziening | x |   |   |   |
-| [Wet op de vennootschapsbelasting 1969](https://wetten.overheid.nl/jci1.3:c:BWBR0002672) | [artikelen 29c](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&artikel=29c) en [29d](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&artikel=29d) | landenrapport groepsentiteit en bericht inzake status groepsentiteit, onderscheidenlijk rapporterende entiteit |   | x | XML/Digipoort | PKI Overheid services certificaat |
+| [Wet op de vennootschapsbelasting 1969](https://wetten.overheid.nl/jci1.3:c:BWBR0002672) | [Artikel 29c](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&artikel=29c) | landenrapport groepsentiteit |   | x | XML/Digipoort | PKI Overheid services certificaat |
+|   | [Artikel 29d](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&artikel=29d) | berichten met betrekking tot de notificatieplicht |   | xx | Elektronisch formulier op https://www.gegevensportaal.net/cbc/aanmelden/ |   |
 |   |   | alle verzoeken voor zover niet gedaan bij de aangifte, en de op grond daarvan in voorkomend geval afgegeven voor bezwaar vatbare beschikkingen | x |   |   |   |
 |   |   | alle voor bezwaar vatbare beschikkingen houdende vaststellingen, voor zover geen onderdeel van de aanslag, alsmede de intrekking daarvan | x |   |   |   |
 |   |   | alle herzieningen van voor bezwaar vatbare beschikkingen en vaststellingen | x |   |   |   |
@@ -152,8 +153,10 @@ Deze regeling wordt aangehaald als: Regeling elektronisch berichtenverkeer Belas
 | [Wet op de verbruiksbelasting van alcoholvrije dranken](https://wetten.overheid.nl/jci1.3:c:BWBR0005802) |   | alle berichten in verband met de heffing en voldoening van verbruiksbelasting op alcoholvrije dranken | x |   |   |   |
 | [Successiewet 1956](onbekend) |   | alle berichten in verband met de heffing van erf- en schenkbelasting | x |   |   |   |
 | [Wet op belastingen van rechtsverkeer](https://wetten.overheid.nl/jci1.3:c:BWBR0002740) |   | alle berichten in verband met de heffing van overdrachts- en assurantiebelasting | x |   |   |   |
-| [Wet op de dividendbelasting 1965](https://wetten.overheid.nl/jci1.3:c:BWBR0002515) |   | alle berichten in verband met de heffing van dividendbelasting | x |   |   |   |
-| [Wet belastingen op milieugrondslag](https://wetten.overheid.nl/jci1.3:c:BWBR0007168) |   | alle berichten in verband met de heffing van de belasting op leidingwater, de afvalstoffenbelasting, de belasting op kolen en de energiebelasting | x |   |   |   |
+| [Wet op de dividendbelasting 1965](https://wetten.overheid.nl/jci1.3:c:BWBR0002515) | [Artikel 10, eerste tot en met derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002515&artikel=10) | verzoek om teruggaaf, tenzij het verzoek is gedaan door een instelling die gebruikmaakt van de grotegemachtigdenregeling |   | x | MijnBelastingdienst Ondernemers | Door Belastingdienst verstrekte gebruikersnaam en wachtwoord |
+|   |   | alle overige berichten in verband met de heffing van dividendbelasting | x |   |   |   |
+| [Wet belastingen op milieugrondslag](https://wetten.overheid.nl/jci1.3:c:BWBR0007168) | [Artikel 69](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=69) | verzoek om teruggaaf energiebelasting |   | x | MijnBelastingdienst Ondernemers | Door Belastingdienst verstrekte gebruikersnaam en wachtwoord |
+|   |   | alle overige berichten in verband met de heffing van de belasting op leidingwater, de afvalstoffenbelasting, de belasting op kolen en de energiebelasting | x |   |   |   |
 | [Wet op de kansspelbelasting](https://wetten.overheid.nl/jci1.3:c:BWBR0002359) |   | alle berichten in verband met de heffing van de kansspelbelasting | x |   |   |   |
 | [Wet maatregelen woningmarkt 2014 II](https://wetten.overheid.nl/jci1.3:c:BWBR0034553) |   | aangifte verhuurderheffing |   | x | particulieren: elektronisch formulier op www.belastingdienst.nl ondernemers: MijnBelastingdienst Ondernemers | n.v.t. Door Belastingdienst verstrekte gebruikersnaam en wachtwoord |
 | [Wet op de motorrijtuigenbelasting 1994](https://wetten.overheid.nl/jci1.3:c:BWBR0006324) |   | alle berichten in verband met de heffing van de motorrijtuigenbelasting | x |   |   |   |
