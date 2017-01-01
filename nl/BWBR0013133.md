@@ -4,7 +4,7 @@ identifier: "BWBR0013133"
 country: "nl"
 rank: "amvb"
 publication_date: "2020-02-15"
-last_updated: "2013-01-01"
+last_updated: "2017-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0013133"
 soort: "AMvB"
@@ -68,9 +68,9 @@ Hebben goedgevonden en verstaan:
 
 ##### Artikel 3
 
-1. De buitengriffier, bedoeld in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0013133&artikel=1&z=2013-01-01&g=2013-01-01), en de waarnemend griffier, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0013133&artikel=2&z=2013-01-01&g=2013-01-01), ontvangt een vergoeding per zitting. Zittingen die op één dag worden gehouden, worden samen als één zitting beschouwd.
+1. De buitengriffier, bedoeld in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0013133&artikel=1&z=2017-01-01&g=2017-01-01), en de waarnemend griffier, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0013133&artikel=2&z=2017-01-01&g=2017-01-01), ontvangt een vergoeding per zitting. Zittingen die op één dag worden gehouden, worden samen als één zitting beschouwd.
 
-2. De vergoeding, bedoeld in het eerste lid, wordt niet toegekend indien de buitengriffier of de waarnemend griffier bij het gerecht werkzaam is op basis van een stage op uitzendovereenkomst, als rechterlijk ambtenaar of rechterlijk ambtenaar in opleiding salaris geniet overeenkomstig het bij en krachtens de [Wet rechtspositie rechterlijke ambtenaren](https://wetten.overheid.nl/jci1.3:c:BWBR0008365) bepaalde, dan wel uit hoofde van een aanstelling in een functie bij een gerecht of parket salaris krachtens het [Bezoldigingsbesluit Burgerlijke Rijksambtenaren 1984](https://wetten.overheid.nl/jci1.3:c:BWBR0003630) geniet.
+2. De vergoeding, bedoeld in het eerste lid, wordt niet toegekend indien de buitengriffier of de waarnemend griffier bij het gerecht werkzaam is op basis van een stage op uitzendovereenkomst, als rechterlijk ambtenaar salaris geniet overeenkomstig het bij en krachtens de [Wet rechtspositie rechterlijke ambtenaren](https://wetten.overheid.nl/jci1.3:c:BWBR0008365) bepaalde, dan wel uit hoofde van een aanstelling in een functie bij een gerecht of parket salaris krachtens het [Bezoldigingsbesluit Burgerlijke Rijksambtenaren 1984](https://wetten.overheid.nl/jci1.3:c:BWBR0003630) geniet.
 
 3. Onze Minister stelt regels ten aanzien van de hoogte van de in het eerste lid bedoelde vergoeding.
 
@@ -86,7 +86,7 @@ Dit besluit treedt in werking op een bij koninklijk besluit te bepalen tijdstip.
 
 Dit besluit wordt aangehaald als: Besluit beëdiging en vergoeding buitengriffiers en waarnemend griffiers.
 
-## Bijlage. als bedoeld in de [artikelen 1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013133&artikel=1&z=2013-01-01&g=2013-01-01), en [2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013133&artikel=2&z=2013-01-01&g=2013-01-01), van het Besluit beëdiging en vergoeding buitengriffiers en waarnemend griffiers
+## Bijlage. als bedoeld in de [artikelen 1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013133&artikel=1&z=2017-01-01&g=2017-01-01), en [2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013133&artikel=2&z=2017-01-01&g=2017-01-01), van het Besluit beëdiging en vergoeding buitengriffiers en waarnemend griffiers
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
 
