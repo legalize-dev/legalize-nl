@@ -4,7 +4,7 @@ identifier: "BWBR0036261"
 country: "nl"
 rank: "wet"
 publication_date: "2017-09-01"
-last_updated: "2016-09-01"
+last_updated: "2017-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0036261"
 soort: "wet"
@@ -44,11 +44,11 @@ Wijzigt de Wet studiefinanciering 2000.
 
 ##### Artikel II. Wijziging [Algemene Kinderbijslagwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002368)
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Algemene Kinderbijslagwet.
 
 ##### Artikel III. Wijziging [Experimentenwet vooropleidingseisen, selectie en collegegeldheffing](https://wetten.overheid.nl/jci1.3:c:BWBR0018259)
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Experimentenwet vooropleidingseisen, selectie en collegegeldheffing.
 
 ##### Artikel IV. Wijziging [Participatiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0015703)
 
@@ -72,7 +72,7 @@ Wijzigt de Wet tegemoetkoming onderwijsbijdrage en schoolkosten.
 
 ##### Artikel IX. Intrekking uitgewerkte Wijzigingswet
 
-De [Wet van 16 mei 2007 tot wijziging van onder meer de Wet studiefinanciering 2000 in verband met aanpassing van de berekeningssystematiek veronderstelde ouderlijke bijdrage en de verlenging van experimenten met vooropleidingseisen, selectie en collegegeldheffing](https://wetten.overheid.nl/jci1.3:c:BWBR0022034&wetgeving) (Stb. 2007, 198) wordt ingetrokken.
+De [Wet van 16 mei 2007 tot wijziging van onder meer de Wet studiefinanciering 2000 in verband met aanpassing van de berekeningssystematiek veronderstelde ouderlijke bijdrage en de verlenging van experimenten met vooropleidingseisen, selectie en collegegeldheffing](https://wetten.overheid.nl/jci1.3:c:BWBR0022034) (Stb. 2007, 198) wordt ingetrokken.
 
 ##### Artikel X. Samenloop met de [Wet kwaliteit in verscheidenheid hoger onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0033693)
 
@@ -82,9 +82,9 @@ Dit onderdeel is nog niet inwerking getreden
 
 1. De artikelen van deze wet treden in werking op een bij koninklijk besluit te bepalen tijdstip, dat voor de verschillende artikelen of onderdelen daarvan verschillend kan worden vastgesteld.
 
-2. In afwijking van het eerste lid treden van [artikel I de onderdelen AQ, subonderdeel 1, en BE, subonderdeel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0036261&artikel=I&z=2016-09-01&g=2016-09-01), in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin deze wet wordt geplaatst en werken terug tot en met 1 september 2010.
+2. In afwijking van het eerste lid treden van [artikel I de onderdelen AQ, subonderdeel 1, en BE, subonderdeel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0036261&artikel=I&z=2017-01-01&g=2017-01-01), in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin deze wet wordt geplaatst en werken terug tot en met 1 september 2010.
 
-3. In afwijking van het eerste lid treedt [artikel I, onderdeel CQ](https://wetten.overheid.nl/jci1.3:c:BWBR0036261&artikel=I&z=2016-09-01&g=2016-09-01), in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin deze wet wordt geplaatst en werkt terug tot en met 1 januari 2015.
+3. In afwijking van het eerste lid treedt [artikel I, onderdeel CQ](https://wetten.overheid.nl/jci1.3:c:BWBR0036261&artikel=I&z=2017-01-01&g=2017-01-01), in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin deze wet wordt geplaatst en werkt terug tot en met 1 januari 2015.
 
 ##### Artikel XII. Citeertitel
 
