@@ -4,7 +4,7 @@ identifier: "BWBR0037891"
 country: "nl"
 rank: "wet"
 publication_date: "2017-01-01"
-last_updated: "2016-07-01"
+last_updated: "2017-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0037891"
 soort: "wet"
@@ -57,7 +57,7 @@ Wijzigt de Leegstandwet.
 
 ##### Artikel IV
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Uitvoeringswet huurprijzen woonruimte.
 
 ##### Artikel V
 
