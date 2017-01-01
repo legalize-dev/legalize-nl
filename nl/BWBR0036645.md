@@ -4,7 +4,7 @@ identifier: "BWBR0036645"
 country: "nl"
 rank: "wet"
 publication_date: "2017-01-01"
-last_updated: "2016-09-01"
+last_updated: "2017-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0036645"
 soort: "wet"
@@ -47,7 +47,7 @@ Wijzigt de Wet verplichte beroepspensioenregeling.
 
 ##### Artikel IIA
 
-In afwijking van [artikel I, onderdelen J, K en O](https://wetten.overheid.nl/jci1.3:c:BWBR0036645&artikel=I&z=2016-09-01&g=2016-09-01) en [artikel II, onderdelen I, J en N](https://wetten.overheid.nl/jci1.3:c:BWBR0036645&artikel=II&z=2016-09-01&g=2016-09-01), geldt de verplichting om de opgaven, indicaties en gegevens, bedoeld in de [artikelen 45](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&artikel=45), [46](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&artikel=46) en [51 van de Pensioenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&artikel=51) en de [artikelen 56](https://wetten.overheid.nl/jci1.3:c:BWBR0018831&artikel=56), [57](https://wetten.overheid.nl/jci1.3:c:BWBR0018831&artikel=57) en [62 van de Wet verplichte beroepspensioenregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0018831&artikel=62), weer te geven op basis van een pessimistisch scenario, een verwacht scenario en een optimistisch scenario, niet tot een bij koninklijk besluit te bepalen tijdstip.
+In afwijking van [artikel I, onderdelen J, K en O](https://wetten.overheid.nl/jci1.3:c:BWBR0036645&artikel=I&z=2017-01-01&g=2017-01-01) en [artikel II, onderdelen I, J en N](https://wetten.overheid.nl/jci1.3:c:BWBR0036645&artikel=II&z=2017-01-01&g=2017-01-01), geldt de verplichting om de opgaven, indicaties en gegevens, bedoeld in de [artikelen 45](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&artikel=45), [46](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&artikel=46) en [51 van de Pensioenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&artikel=51) en de [artikelen 56](https://wetten.overheid.nl/jci1.3:c:BWBR0018831&artikel=56), [57](https://wetten.overheid.nl/jci1.3:c:BWBR0018831&artikel=57) en [62 van de Wet verplichte beroepspensioenregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0018831&artikel=62), weer te geven op basis van een pessimistisch scenario, een verwacht scenario en een optimistisch scenario, niet tot een bij koninklijk besluit te bepalen tijdstip.
 
 ##### Artikel III
 
