@@ -4,7 +4,7 @@ identifier: "BWBR0044226"
 country: "nl"
 rank: "amvb"
 publication_date: "2020-10-20"
-last_updated: "2016-01-01"
+last_updated: "2017-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0044226"
 soort: "AMvB"
@@ -48,7 +48,7 @@ Wijzigt het Besluit vaststelling decentralisatie- en integratie-uitkeringen 2015
 
 #### § 4. Wijziging van het [Besluit vaststelling decentralisatie- en integratie-uitkeringen 2016](https://wetten.overheid.nl/jci1.3:c:BWBR0042151)
 
-#### § 5. Slotbepalingen
+#### § 3. Wijziging van het [Besluit vaststelling decentralisatie- en integratie-uitkeringen 2015](https://wetten.overheid.nl/jci1.3:c:BWBR0040102)
 
 ## Bijlage 1. Decentralisatie-uitkeringen aan gemeenten als bedoeld in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0044226&paragraaf=1&artikel=1&z=2020-10-20&g=2015-01-01)
 
@@ -69,5 +69,35 @@ Wijzigt het Besluit vaststelling decentralisatie- en integratie-uitkeringen 2016
 #### § 5. Slotbepalingen
 
 ## Bijlage 3. Integratie-uitkeringen aan gemeenten als bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0044226&paragraaf=2&artikel=3&z=2020-10-20&g=2016-01-01)
+
+Dit onderdeel is nog niet inwerking getreden
+
+##### Artikel 1
+
+In het jaar 2017 ontvangen de in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0044226&bijlage=1&z=2020-10-20&g=2017-01-01) genoemde gemeenten de in die bijlage genoemde decentralisatie-uitkeringen.
+
+##### Artikel 2
+
+In het jaar 2017 ontvangen de in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0044226&bijlage=2&z=2020-10-20&g=2017-01-01) genoemde provincies de in die bijlage genoemde decentralisatie-uitkeringen.
+
+#### § 2. Integratie-uitkeringen aan gemeenten
+
+##### Artikel 3
+
+In het jaar 2017 ontvangen de in [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0044226&bijlage=3&z=2020-10-20&g=2017-01-01) genoemde gemeenten de in die bijlage genoemde integratie-uitkeringen.
+
+#### § 4. Wijziging van het [Besluit vaststelling decentralisatie- en integratie-uitkeringen 2016](https://wetten.overheid.nl/jci1.3:c:BWBR0042151)
+
+#### § 5. Slotbepalingen
+
+## Bijlage 1. Decentralisatie-uitkeringen aan gemeenten als bedoeld in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0044226&paragraaf=1&artikel=1&z=2020-10-20&g=2017-01-01)
+
+Dit onderdeel is nog niet inwerking getreden
+
+## Bijlage 2. Decentralisatie-uitkeringen aan provincies als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0044226&paragraaf=1&artikel=2&z=2020-10-20&g=2017-01-01)
+
+Dit onderdeel is nog niet inwerking getreden
+
+## Bijlage 3. Integratie-uitkeringen aan gemeenten als bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0044226&paragraaf=2&artikel=3&z=2020-10-20&g=2017-01-01)
 
 Dit onderdeel is nog niet inwerking getreden
