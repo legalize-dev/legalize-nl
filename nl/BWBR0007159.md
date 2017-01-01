@@ -4,7 +4,7 @@ identifier: "BWBR0007159"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-01-01"
-last_updated: "2016-01-01"
+last_updated: "2017-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0007159"
 soort: "ministeriele-regeling"
@@ -47,7 +47,7 @@ Treedt in werking op het tijdstip waarop de Wet belastingen op milieugrondslag e
 
 ##### Artikel 1
 
-1. Deze regeling geeft uitvoering aan de artikelen [14, tweede en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=14), [20, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=20), [21, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=21), [23, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007178&artikel=23), [25, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007178&artikel=25), [38, tweede lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=38), [39, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=39), [44, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=44), [45, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=45), [47, tweede en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=47), [50, zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=50), [54, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=54), [59, zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=59), [59a, derde en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=59a), [60, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=60), [63, zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=63), [64, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=64), [66, achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=66), [67, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=67), [68, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=68), [69, achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=69), [70, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=70), [70a, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=70a), [71, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=71), en [92, tweede lid, van de Wet belastingen op milieugrondslag](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=92) en de [artikelen 18, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007178&artikel=18), [19, tweede lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0007178&artikel=19), [21c, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007178&artikel=21c), [27, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007178&artikel=27), en [28, vijfde lid, van het Uitvoeringsbesluit belastingen op milieugrondslag](https://wetten.overheid.nl/jci1.3:c:BWBR0007178&artikel=28).
+1. Deze regeling geeft uitvoering aan de artikelen [14, tweede en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=14), [20, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=20), [21, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=21), [23, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007178&artikel=23), [25, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007178&artikel=25), [38, tweede lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=38), [39, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=39), [44, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=44), [45, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=45), [47, tweede en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=47), [50, zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=50), [54, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=54), [59, zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=59), [59a, derde en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=59a), [60, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=60), [60a, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=60a), [63, zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=63), [64, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=64), [66, achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=66), [67, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=67), [68, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=68), [69, achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=69), [70, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=70), [70a, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=70a), [71, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=71), en [92, zesde lid, van de Wet belastingen op milieugrondslag](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=92) en de [artikelen 18, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007178&artikel=18), [19, tweede lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0007178&artikel=19), [21c, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007178&artikel=21c), [21e, tweede lid](onbekend), [27, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007178&artikel=27), en [28, vijfde lid, van het Uitvoeringsbesluit belastingen op milieugrondslag](https://wetten.overheid.nl/jci1.3:c:BWBR0007178&artikel=28).
 
 2. Voor de toepassing van deze regeling wordt verstaan onder:
 
@@ -643,7 +643,7 @@ De verklaring, bedoeld in [artikel 17, eerste lid, van het besluit](https://wett
 
 - b. met behulp van elektriciteitsmeters de hoeveelheid elektriciteit te meten die wordt betrokken voor verbruik als bedoeld in [artikel 36c, vierde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=36c).
 
-### Hoofdstuk V. Slotbepalingen
+### Hoofdstuk X. Slotbepalingen
 
 ### Hoofdstuk IV. Brandstoffenbelasting
 
@@ -667,7 +667,9 @@ Vervallen
 
 ##### Artikel 15
 
-Berekeningen voor de toepassing van [artikel 47, eerste lid, onderdeel p, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=47) worden gemaakt op basis van een kalenderjaar.
+1. Voor de toepassing van [artikel 47, eerste lid, onderdeel p, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=47) wordt onder energiebelasting mede verstaan opslag duurzame energie, als bedoeld in [artikel 1, eerste lid, van de Wet opslag duurzame energie](https://wetten.overheid.nl/jci1.3:c:BWBR0032660&artikel=1).
+
+2. Berekeningen voor de toepassing van [artikel 47, eerste lid, onderdeel p, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=47) worden gemaakt op basis van een kalenderjaar.
 
 ##### Artikel 16
 
@@ -691,7 +693,7 @@ Berekeningen voor de toepassing van [artikel 47, eerste lid, onderdeel p, van de
 
 ##### Artikel 17
 
-Op de administratie van de fiscaal vertegenwoordiger, bedoeld in [artikel 54, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=54), is [artikel 28](https://wetten.overheid.nl/jci1.3:c:BWBR0007159&hoofdstuk=VI&artikel=28&z=2016-01-01&g=2016-01-01) van overeenkomstige toepassing.
+Op de administratie van de fiscaal vertegenwoordiger, bedoeld in [artikel 54, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=54), is [artikel 28](https://wetten.overheid.nl/jci1.3:c:BWBR0007159&hoofdstuk=VI&artikel=28&z=2017-01-01&g=2017-01-01) van overeenkomstige toepassing.
 
 ##### Artikel 18
 
@@ -719,7 +721,7 @@ Ter zake van de tarieven, bedoeld in [artikel 60, eerste lid, van de wet](https:
 
 ##### Artikel 22
 
-De verklaring, bedoeld in [artikel 22, eerste, derde of vierde lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0007178&artikel=22), wordt ondertekend en bevat ten minste:
+De verklaring, bedoeld in [artikel 22, eerste, derde, vierde of vijfde lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0007178&artikel=22), wordt ondertekend en bevat ten minste:
 
 - a. de dagtekening;
 
@@ -751,13 +753,15 @@ De verklaring, bedoeld in [artikel 22, eerste, derde of vierde lid, van het besl
 
 - b. de verklaringen, bedoeld in [artikel 66, derde en vierde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=66).
 
-4. De verklaring, bedoeld in [artikel 66, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=66), wordt door de verbruiker ondertekend en bevat ten minste:
+4. Indien het verzoek langs elektronische weg wordt ingediend, worden de factuur of facturen, bedoeld in het derde lid, niet bij het verzoek overgelegd maar desgevraagd aan de inspecteur verstrekt.
+
+5. De verklaring, bedoeld in [artikel 66, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=66), wordt door de verbruiker ondertekend en bevat ten minste:
 
 - a. de dagtekening;
 
 - b. naam en adres van de verbruiker.
 
-5. De verklaringen, bedoeld in [artikel 66, vierde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=66), worden door de verbruiker ondertekend en bevatten ten minste:
+6. De verklaringen, bedoeld in [artikel 66, vierde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=66), worden door de verbruiker ondertekend en bevatten ten minste:
 
 - a. de dagtekening;
 
@@ -767,7 +771,7 @@ De verklaring, bedoeld in [artikel 22, eerste, derde of vierde lid, van het besl
 
 - d. het kalenderjaar waarop de verklaringen betrekking hebben.
 
-6. De verbruiker richt zijn administratie zodanig in dat daarin op overzichtelijke wijze de gegevens zijn opgenomen omtrent alle voor de toepassing van de teruggaafregeling, bedoeld in [artikel 66 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=66), van belang zijnde bedrijfshandelingen.
+7. De verbruiker richt zijn administratie zodanig in dat daarin op overzichtelijke wijze de gegevens zijn opgenomen omtrent alle voor de toepassing van de teruggaafregeling, bedoeld in [artikel 66 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=66), van belang zijnde bedrijfshandelingen.
 
 ##### Artikel 24
 
@@ -907,7 +911,7 @@ De verklaring, bedoeld in [artikel 22, eerste, derde of vierde lid, van het besl
 
 - e. het netto elektrisch rendement van de installatie.
 
-2. De administratie van een installatie waarin zuivere biomassa wordt verwerkt op een wijze als bedoeld in het eerste lid, dient zodanig te zijn ingericht dat daarin op overzichtelijke wijze de gegevens zijn opgenomen omtrent alle voor de toepassing van [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0007159&hoofdstuk=VI&artikel=14&z=2016-01-01&g=2016-01-01) van belang zijnde bedrijfshandelingen.
+2. De administratie van een installatie waarin zuivere biomassa wordt verwerkt op een wijze als bedoeld in het eerste lid, dient zodanig te zijn ingericht dat daarin op overzichtelijke wijze de gegevens zijn opgenomen omtrent alle voor de toepassing van [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0007159&hoofdstuk=VI&artikel=14&z=2017-01-01&g=2017-01-01) van belang zijnde bedrijfshandelingen.
 
 3. De administratie van een installatie waarin biomassa zodanig wordt verwerkt dat daaruit stortgas, rioolwaterzuiveringsgas of biogas wordt gewonnen, dient zodanig te zijn ingericht dat daarin op overzichtelijke wijze alle gegevens zijn opgenomen welke van belang zijn voor de jaarlijkse vaststelling van de door de installatie gewonnen en aan het distributienet geleverde hoeveelheid stortgas, rioolwaterzuiveringsgas, of biogas.
 
@@ -931,9 +935,7 @@ Vervallen
 
 ##### Artikel 33
 
-1. De administratie van degene die verzoekt om teruggaaf van belasting, bedoeld in [artikel 92, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=92), is zodanig ingericht dat daarin op overzichtelijke wijze alle voor de vaststelling van het bedrag van de teruggaaf van belang zijnde gegevens zijn opgenomen.
-
-2. Voor de toepassing van [artikel 92, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=92) wordt ter zake van de vorderingen waarvoor tevens een verzoek als bedoeld in [artikel 29, eerste lid, onderdeel a, van de Wet op de omzetbelasting 1968](https://wetten.overheid.nl/jci1.3:c:BWBR0002629&artikel=29) is gedaan, teruggaaf verleend voor zover ter zake van die vorderingen teruggaaf van omzetbelasting wordt verleend.
+De administratie van degene die verzoekt om teruggaaf van belasting, bedoeld in [artikel 92, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=92), is zodanig ingericht dat daarin op overzichtelijke wijze alle voor de vaststelling van het bedrag van de teruggaaf van belang zijnde gegevens zijn opgenomen.
 
 ### Hoofdstuk VIII. Verpakkingenbelasting
 
@@ -951,7 +953,7 @@ Uitvoeringsregeling belastingen op milieugrondslag.
 
 Vervallen
 
-### Hoofdstuk VIII. Verpakkingenbelasting
+### Hoofdstuk VII. Vliegbelasting
 
 ### Hoofdstuk X. Slotbepalingen
 
@@ -959,7 +961,7 @@ Vervallen
 
 Vervallen
 
-### Hoofdstuk IX. Algemene bepaling
+### Hoofdstuk VIII. Verpakkingenbelasting
 
 ## Bijlage. bij de Uitvoeringsregeling belastingen op milieugrondslag
 
@@ -1013,7 +1015,7 @@ De wijziging of intrekking van de aanwijzing geschiedt bij voor bezwaar vatbare 
 
 2. Indien een aangewezen coöperatie als bedoeld in [artikel 59a, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=59a) niet of niet langer voldoet aan de voorwaarden voor aanwijzing, doet zij daarvan onverwijld schriftelijk mededeling aan de inspecteur en aan ieder met wie zij een overeenkomst heeft als bedoeld in artikel 59a, eerste lid, van de wet.
 
-3. In geval van intrekking van de aanwijzing door de inspecteur als bedoeld in [artikel 19a, negende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007159&hoofdstuk=VI&artikel=19a&z=2016-01-01&g=2016-01-01), doet de coöperatie daarvan onverwijld schriftelijk mededeling aan ieder aan wie zij ingevolge het eerste lid een afschrift van de beschikking inhoudende de aanwijzing heeft verstrekt. Daarbij verstrekt zij een afschrift van de beschikking waarmee de aanwijzing door de inspecteur wordt ingetrokken.
+3. In geval van intrekking van de aanwijzing door de inspecteur als bedoeld in [artikel 19a, negende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007159&hoofdstuk=VI&artikel=19a&z=2017-01-01&g=2017-01-01), doet de coöperatie daarvan onverwijld schriftelijk mededeling aan ieder aan wie zij ingevolge het eerste lid een afschrift van de beschikking inhoudende de aanwijzing heeft verstrekt. Daarbij verstrekt zij een afschrift van de beschikking waarmee de aanwijzing door de inspecteur wordt ingetrokken.
 
 4. De coöperatie die is aangewezen als bedoeld in [artikel 59a, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=59a), richt haar administratie zodanig in, dat daarin op overzichtelijke wijze alle gegevens zijn opgenomen die voor de verlaging, bedoeld in artikel 59a, eerste lid van de wet, van belang kunnen zijn.
 
@@ -1059,7 +1061,29 @@ Vervallen
 
 ### Hoofdstuk VII. Vliegbelasting
 
-### Hoofdstuk X. Slotbepalingen
+### Hoofdstuk IX. Algemene bepaling
+
+## Bijlage. bij de Uitvoeringsregeling belastingen op milieugrondslag
+
+Vervallen
+
+##### Artikel 20b
+
+De verklaring, bedoeld in [artikel 21d, eerste lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0007178&artikel=21d), wordt door de verbruiker ondertekend en bevat ten minste:
+
+- a. de dagtekening;
+
+- b. naam en adres van de verbruiker;
+
+- c. naam en adres van de leverancier;
+
+- d. de EAN-code van de aansluiting waarop de verklaring betrekking heeft;
+
+- e. de verklaring dat de elektriciteit uitsluitend wordt aangewend in een oplaadinstallatie voor elektrische voertuigen die beschikt over een zelfstandige aansluiting en dat deze oplaadinstallatie geen deel uitmaakt van een meer omvattende onroerende zaak als bedoeld in [artikel 16, onderdelen a tot en met e, van de Wet waardering onroerende zaken](https://wetten.overheid.nl/jci1.3:c:BWBR0007119&artikel=16).
+
+##### Artikel 20c
+
+Dit onderdeel is nog niet inwerking getreden
 
 ## Bijlage. bij de Uitvoeringsregeling belastingen op milieugrondslag
 
