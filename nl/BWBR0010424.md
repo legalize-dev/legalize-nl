@@ -4,7 +4,7 @@ identifier: "BWBR0010424"
 country: "nl"
 rank: "wet"
 publication_date: "2023-10-01"
-last_updated: "2014-07-01"
+last_updated: "2017-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0010424"
 soort: "wet"
@@ -49,7 +49,7 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 1. In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
-- a. **benadelingsbedrag:** bruto bedrag dat als gevolg van het niet of niet behoorlijk nakomen van de verplichting, bedoeld in [artikel 5a](https://wetten.overheid.nl/jci1.3:c:BWBR0010424&hoofdstuk=II&artikel=5a&z=2014-07-01&g=2014-07-01), ten onrechte of tot een te hoog bedrag aan remigratievoorzieningen is verleend;
+- a. **benadelingsbedrag:** bruto bedrag dat als gevolg van het niet of niet behoorlijk nakomen van de verplichting, bedoeld in [artikel 5a](https://wetten.overheid.nl/jci1.3:c:BWBR0010424&hoofdstuk=II&artikel=5a&z=2017-01-01&g=2017-01-01), ten onrechte of tot een te hoog bedrag aan remigratievoorzieningen is verleend;
 
 - b. **bestemmingsland:** land waarin een remigrant zich gaat vestigen;
 
@@ -63,9 +63,9 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 - g. **partner:** de meeremigrerende echtgenoot, de meeremigrerende geregistreerde partner of de meeremigrerende ongehuwd meerderjarige, die geen bloedverwant in de eerste graad van de remigrant is, en met de remigrant een gezamenlijke huishouding voert waarbij betrokkenen hun hoofdverblijf hebben in dezelfde woning, met dien verstande dat deze gezamenlijke huishouding uit niet meer dan twee meerderjarige personen bestaat;
 
-- h. **remigrant:** een persoon als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0010424&hoofdstuk=I&artikel=2&z=2014-07-01&g=2014-07-01), die met de toepassing van deze wet voornemens is zijn rechtmatig hoofdverblijf in Nederland op te geven om te remigreren, dan wel is geremigreerd en sindsdien in een bestemmingsland is gevestigd;
+- h. **remigrant:** een persoon als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0010424&hoofdstuk=I&artikel=2&z=2017-01-01&g=2017-01-01), die met de toepassing van deze wet voornemens is zijn rechtmatig hoofdverblijf in Nederland op te geven om te remigreren, dan wel is geremigreerd en sindsdien in een bestemmingsland is gevestigd;
 
-- i. **remigratievoorzieningen:** voorzieningen, bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0010424&hoofdstuk=II&artikel=4&z=2014-07-01&g=2014-07-01);
+- i. **remigratievoorzieningen:** voorzieningen, bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0010424&hoofdstuk=II&artikel=4&z=2017-01-01&g=2017-01-01);
 
 - j. **remigreren:** het zich buiten het Koninkrijk, in het land van herkomst vestigen;
 
@@ -75,9 +75,9 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 - m. **vrijheidsstraf of vrijheidsbenemende maatregel:** bij onherroepelijk geworden rechterlijke uitspraak opgelegde vrijheidsstraf of vrijheidsbenemende maatregel als bedoeld in het [Wetboek van Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001854), behoudens de gevallen, bedoeld in [artikel 37, eerste lid, van het Wetboek van Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=37).
 
-2. In deze wet wordt in [artikel 5a](https://wetten.overheid.nl/jci1.3:c:BWBR0010424&hoofdstuk=II&artikel=5a&z=2014-07-01&g=2014-07-01), [6, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010424&hoofdstuk=II&artikel=6&z=2014-07-01&g=2014-07-01), [6a](https://wetten.overheid.nl/jci1.3:c:BWBR0010424&hoofdstuk=II&artikel=6a&z=2014-07-01&g=2014-07-01), [6c, tweede en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010424&hoofdstuk=II&artikel=6c&z=2014-07-01&g=2014-07-01), [6d, eerste lid, onderdeel c en d](https://wetten.overheid.nl/jci1.3:c:BWBR0010424&hoofdstuk=II&artikel=6d&z=2014-07-01&g=2014-07-01), [6e, eerste en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010424&hoofdstuk=II&artikel=6e&z=2014-07-01&g=2014-07-01), en [6f, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010424&hoofdstuk=II&artikel=6f&z=2014-07-01&g=2014-07-01), alsmede, voor zover dit uitdrukkelijk van toepassing is verklaard, in de op deze wet berustende bepalingen, onder partner mede verstaan de bij vertrek van de remigrant uit Nederland in het bestemmingsland verblijvende echtgenoot of geregistreerde partner.
+2. In deze wet wordt in [artikel 5a](https://wetten.overheid.nl/jci1.3:c:BWBR0010424&hoofdstuk=II&artikel=5a&z=2017-01-01&g=2017-01-01), [6, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010424&hoofdstuk=II&artikel=6&z=2017-01-01&g=2017-01-01), [6a](https://wetten.overheid.nl/jci1.3:c:BWBR0010424&hoofdstuk=II&artikel=6a&z=2017-01-01&g=2017-01-01), [6c, tweede en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010424&hoofdstuk=II&artikel=6c&z=2017-01-01&g=2017-01-01), [6d, eerste lid, onderdeel c en d](https://wetten.overheid.nl/jci1.3:c:BWBR0010424&hoofdstuk=II&artikel=6d&z=2017-01-01&g=2017-01-01), [6e, eerste en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010424&hoofdstuk=II&artikel=6e&z=2017-01-01&g=2017-01-01), en [6f, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010424&hoofdstuk=II&artikel=6f&z=2017-01-01&g=2017-01-01), alsmede, voor zover dit uitdrukkelijk van toepassing is verklaard, in de op deze wet berustende bepalingen, onder partner mede verstaan de bij vertrek van de remigrant uit Nederland in het bestemmingsland verblijvende echtgenoot of geregistreerde partner.
 
-3. In deze wet wordt in [artikel 5a](https://wetten.overheid.nl/jci1.3:c:BWBR0010424&hoofdstuk=II&artikel=5a&z=2014-07-01&g=2014-07-01), [6, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010424&hoofdstuk=II&artikel=6&z=2014-07-01&g=2014-07-01), [6a, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010424&hoofdstuk=II&artikel=6a&z=2014-07-01&g=2014-07-01), [6c, tweede en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010424&hoofdstuk=II&artikel=6c&z=2014-07-01&g=2014-07-01), [6d, eerste lid, onderdeel c en d](https://wetten.overheid.nl/jci1.3:c:BWBR0010424&hoofdstuk=II&artikel=6d&z=2014-07-01&g=2014-07-01), [6e, tweede en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010424&hoofdstuk=II&artikel=6e&z=2014-07-01&g=2014-07-01), en [6f, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010424&hoofdstuk=II&artikel=6f&z=2014-07-01&g=2014-07-01), alsmede, voor zover dit uitdrukkelijk van toepassing is verklaard, in de op deze wet berustende bepalingen onder kind mede verstaan het bij vertrek van de remigrant uit Nederland in het bestemmingsland verblijvende minderjarige eigen kind, stiefkind of pleegkind.
+3. In deze wet wordt in [artikel 5a](https://wetten.overheid.nl/jci1.3:c:BWBR0010424&hoofdstuk=II&artikel=5a&z=2017-01-01&g=2017-01-01), [6, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010424&hoofdstuk=II&artikel=6&z=2017-01-01&g=2017-01-01), [6a, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010424&hoofdstuk=II&artikel=6a&z=2017-01-01&g=2017-01-01), [6c, tweede en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010424&hoofdstuk=II&artikel=6c&z=2017-01-01&g=2017-01-01), [6d, eerste lid, onderdeel c en d](https://wetten.overheid.nl/jci1.3:c:BWBR0010424&hoofdstuk=II&artikel=6d&z=2017-01-01&g=2017-01-01), [6e, tweede en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010424&hoofdstuk=II&artikel=6e&z=2017-01-01&g=2017-01-01), en [6f, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010424&hoofdstuk=II&artikel=6f&z=2017-01-01&g=2017-01-01), alsmede, voor zover dit uitdrukkelijk van toepassing is verklaard, in de op deze wet berustende bepalingen onder kind mede verstaan het bij vertrek van de remigrant uit Nederland in het bestemmingsland verblijvende minderjarige eigen kind, stiefkind of pleegkind.
 
 ##### Artikel 2
 
@@ -95,13 +95,13 @@ Vervallen
 
 ##### Artikel 4
 
-1. Aan een remigrant die voldoet aan de voorwaarden, bedoeld in [artikel 2b](https://wetten.overheid.nl/jci1.3:c:BWBR0010424&hoofdstuk=I&artikel=2b&z=2014-07-01&g=2014-07-01), wordt een periodieke uitkering verstrekt ter voorziening in de noodzakelijke kosten van bestaan in het bestemmingsland.
+1. Aan een remigrant die voldoet aan de voorwaarden, bedoeld in [artikel 2b](https://wetten.overheid.nl/jci1.3:c:BWBR0010424&hoofdstuk=I&artikel=2b&z=2017-01-01&g=2017-01-01), wordt een periodieke uitkering verstrekt ter voorziening in de noodzakelijke kosten van bestaan in het bestemmingsland.
 
 2. Aan een remigrant als bedoeld in het eerste lid, wordt een tegemoetkoming verstrekt in de kosten van een door hem te sluiten verzekering tegen ziektekosten in het bestemmingsland, indien hij niet met toepassing van een Verordening van de Raad van de Europese Gemeenschappen of een door Nederland met een of meer andere staten gesloten verdrag inzake sociale zekerheid, recht kan doen gelden op verstrekkingen, die hem in beginsel ten laste van de middelen van het Zorgverzekeringsfonds, bedoeld in [artikel 39 van de Zorgverzekeringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&artikel=39), worden verleend.
 
-3. Aan een persoon als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0010424&hoofdstuk=I&artikel=2&z=2014-07-01&g=2014-07-01), die is geremigreerd naar een bestemmingsland en die geen aanspraak heeft op verstrekking van een periodieke uitkering als bedoeld in het eerste lid, uitsluitend vanwege het feit, dat hij voorafgaande aan zijn vertrek uit Nederland geen aanvraag daarvoor heeft ingediend, wordt overeenkomstig de bij of krachtens algemene maatregel van bestuur te stellen voorwaarden, bedoeld in het eerste lid, op aanvraag een periodieke uitkering verstrekt, indien hij op de dag van vertrek recht had op een uitkering op grond van de [Wet werk en inkomen naar arbeidsvermogen](https://wetten.overheid.nl/jci1.3:c:BWBR0019057) dan wel op grond van de [Wet op de arbeidsongeschiktheidsverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0002524), welke uitkering na zijn vertrek uit Nederland op grond de [Wet werk en inkomen naar arbeidsvermogen](https://wetten.overheid.nl/jci1.3:c:BWBR0019057) dan wel op grond van [artikel 36](https://wetten.overheid.nl/jci1.3:c:BWBR0002524&artikel=36) of [43 van de Wet op de arbeidsongeschiktheidsverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0002524&artikel=43) is verlaagd of ingetrokken.
+3. Aan een persoon als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0010424&hoofdstuk=I&artikel=2&z=2017-01-01&g=2017-01-01), die is geremigreerd naar een bestemmingsland en die geen aanspraak heeft op verstrekking van een periodieke uitkering als bedoeld in het eerste lid, uitsluitend vanwege het feit, dat hij voorafgaande aan zijn vertrek uit Nederland geen aanvraag daarvoor heeft ingediend, wordt overeenkomstig de bij of krachtens algemene maatregel van bestuur te stellen voorwaarden, bedoeld in het eerste lid, op aanvraag een periodieke uitkering verstrekt, indien hij op de dag van vertrek recht had op een uitkering op grond van de [Wet werk en inkomen naar arbeidsvermogen](https://wetten.overheid.nl/jci1.3:c:BWBR0019057) dan wel op grond van de [Wet op de arbeidsongeschiktheidsverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0002524), welke uitkering na zijn vertrek uit Nederland op grond de [Wet werk en inkomen naar arbeidsvermogen](https://wetten.overheid.nl/jci1.3:c:BWBR0019057) dan wel op grond van [artikel 36](https://wetten.overheid.nl/jci1.3:c:BWBR0002524&artikel=36) of [43 van de Wet op de arbeidsongeschiktheidsverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0002524&artikel=43) is verlaagd of ingetrokken.
 
-4. Het tweede lid en de [artikelen 5](https://wetten.overheid.nl/jci1.3:c:BWBR0010424&hoofdstuk=II&artikel=5&z=2014-07-01&g=2014-07-01), [6](https://wetten.overheid.nl/jci1.3:c:BWBR0010424&hoofdstuk=II&artikel=6&z=2014-07-01&g=2014-07-01) en [7](https://wetten.overheid.nl/jci1.3:c:BWBR0010424&hoofdstuk=II&artikel=7&z=2014-07-01&g=2014-07-01) zijn van overeenkomstige toepassing op de persoon, bedoeld in het derde lid.
+4. Het tweede lid en de [artikelen 5](https://wetten.overheid.nl/jci1.3:c:BWBR0010424&hoofdstuk=II&artikel=5&z=2017-01-01&g=2017-01-01), [6](https://wetten.overheid.nl/jci1.3:c:BWBR0010424&hoofdstuk=II&artikel=6&z=2017-01-01&g=2017-01-01) en [7](https://wetten.overheid.nl/jci1.3:c:BWBR0010424&hoofdstuk=II&artikel=7&z=2017-01-01&g=2017-01-01) zijn van overeenkomstige toepassing op de persoon, bedoeld in het derde lid.
 
 5. Indien de remigrant en, voor zover van toepassing, zijn partner en hun kinderen niet binnen een termijn van zes maanden na de datum van de beschikking tot toekenning van de voorzieningen, bedoeld in het eerste en tweede lid, zijn geremigreerd, kan de beschikking geheel of gedeeltelijk worden ingetrokken, tenzij de remigrant of zijn partner van de overschrijding van die termijn redelijkerwijs geen verwijt kan worden gemaakt.
 
@@ -113,23 +113,23 @@ Vervallen
 
 3. Indien de remigrant en zijn partner overlijden, verkrijgen de minderjarige kinderen een evenredig deel van het recht op de helft van de remigratievoorzieningen waarop de remigrant en zijn partner bij leven recht zouden hebben gehad.
 
-4. Onder partner wordt in het eerste, tweede en derde lid mede verstaan de partner, bedoeld in [artikel 1, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010424&hoofdstuk=I&artikel=1&z=2014-07-01&g=2014-07-01).
+4. Onder partner wordt in het eerste, tweede en derde lid mede verstaan de partner, bedoeld in [artikel 1, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010424&hoofdstuk=I&artikel=1&z=2017-01-01&g=2017-01-01).
 
-5. Onder kinderen wordt in het derde lid mede verstaan de kinderen, bedoeld in [artikel 1, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010424&hoofdstuk=I&artikel=1&z=2014-07-01&g=2014-07-01).
+5. Onder kinderen wordt in het derde lid mede verstaan de kinderen, bedoeld in [artikel 1, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010424&hoofdstuk=I&artikel=1&z=2017-01-01&g=2017-01-01).
 
 ##### Artikel 6
 
 1. Het recht op de remigratievoorzieningen van de remigrant eindigt met ingang van de eerste dag van de maand volgend op die waarin de remigrant zijn hoofdverblijf wederom in Nederland heeft.
 
-2. Het recht van de partner op de voorzieningen, bedoeld in [artikel 5, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010424&hoofdstuk=II&artikel=5&z=2014-07-01&g=2014-07-01), eindigt met ingang van de eerste dag van de maand volgend op die waarin de partner zijn hoofdverblijf in Nederland heeft.
+2. Het recht van de partner op de voorzieningen, bedoeld in [artikel 5, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010424&hoofdstuk=II&artikel=5&z=2017-01-01&g=2017-01-01), eindigt met ingang van de eerste dag van de maand volgend op die waarin de partner zijn hoofdverblijf in Nederland heeft.
 
-3. Het recht van het kind op de voorzieningen, bedoeld in [artikel 5, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010424&hoofdstuk=II&artikel=5&z=2014-07-01&g=2014-07-01), eindigt met ingang van de eerste dag van de maand volgend op die waarin het kind zijn hoofdverblijf in Nederland heeft.
+3. Het recht van het kind op de voorzieningen, bedoeld in [artikel 5, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010424&hoofdstuk=II&artikel=5&z=2017-01-01&g=2017-01-01), eindigt met ingang van de eerste dag van de maand volgend op die waarin het kind zijn hoofdverblijf in Nederland heeft.
 
 ##### Artikel 7
 
 1. Bij of krachtens algemene maatregel van bestuur worden met betrekking tot de remigratievoorzieningen nadere regels gesteld. Deze regels hebben in ieder geval betrekking op:
 
-- a. de hoogte van de periodieke uitkering, bedoeld in [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010424&hoofdstuk=II&artikel=4&z=2014-07-01&g=2014-07-01), en de tegemoetkoming, bedoeld in artikel 4, tweede lid;
+- a. de hoogte van de periodieke uitkering, bedoeld in [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010424&hoofdstuk=II&artikel=4&z=2017-01-01&g=2017-01-01), en de tegemoetkoming, bedoeld in artikel 4, tweede lid;
 
 - b. de gevolgen voor de periodieke uitkering van de samenloop met andere uitkeringen;
 
@@ -175,9 +175,9 @@ Vervallen
 
 ##### Artikel 8f
 
-1. De Sociale verzekeringsbank voert een zodanig ingerichte afzonderlijke administratie, dat daaruit te allen tijde de voor de vaststelling van de in [artikel 8b, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010424&hoofdstuk=IIIA&artikel=8b&z=2014-07-01&g=2014-07-01), bedoelde kosten van belang zijnde rechten en verplichtingen alsmede de betalingen en ontvangsten kunnen worden nagegaan.
+1. De Sociale verzekeringsbank voert een zodanig ingerichte afzonderlijke administratie, dat daaruit te allen tijde de voor de vaststelling van de in [artikel 8b, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010424&hoofdstuk=IIIA&artikel=8b&z=2017-01-01&g=2017-01-01), bedoelde kosten van belang zijnde rechten en verplichtingen alsmede de betalingen en ontvangsten kunnen worden nagegaan.
 
-2. In de administratie, bedoeld in het eerste lid, wordt het burgerservicenummer opgenomen van de remigrant, zijn partner en hun kinderen, waarbij onder partner mede wordt verstaan de partner, bedoeld in [artikel 1, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010424&hoofdstuk=I&artikel=1&z=2014-07-01&g=2014-07-01), en waarbij onder kinderen mede wordt verstaan de kinderen, bedoeld in artikel 1, derde lid.
+2. In de administratie, bedoeld in het eerste lid, wordt het burgerservicenummer opgenomen van de remigrant, zijn partner en hun kinderen, waarbij onder partner mede wordt verstaan de partner, bedoeld in [artikel 1, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010424&hoofdstuk=I&artikel=1&z=2017-01-01&g=2017-01-01), en waarbij onder kinderen mede wordt verstaan de kinderen, bedoeld in artikel 1, derde lid.
 
 3. Onze Minister kan regels stellen omtrent de inrichting van de administratie, bedoeld in het eerste lid.
 
@@ -185,7 +185,7 @@ Vervallen
 
 1. De Sociale verzekeringsbank is bevoegd controlevoorschriften vast te stellen. Deze voorschriften mogen niet verder gaan dan strikt noodzakelijk is voor een juiste uitvoering van deze wet.
 
-2. De personen die aanspraak hebben op de voorzieningen, bedoeld in de [artikelen 4](https://wetten.overheid.nl/jci1.3:c:BWBR0010424&hoofdstuk=II&artikel=4&z=2014-07-01&g=2014-07-01), [5](https://wetten.overheid.nl/jci1.3:c:BWBR0010424&hoofdstuk=II&artikel=5&z=2014-07-01&g=2014-07-01) en [11](https://wetten.overheid.nl/jci1.3:c:BWBR0010424&hoofdstuk=IV&artikel=11&z=2014-07-01&g=2014-07-01), zijn verplicht de voorschriften op te volgen die de Sociale verzekeringsbank ten behoeve van een doelmatige controle stelt.
+2. De personen die aanspraak hebben op de voorzieningen, bedoeld in de [artikelen 4](https://wetten.overheid.nl/jci1.3:c:BWBR0010424&hoofdstuk=II&artikel=4&z=2017-01-01&g=2017-01-01), [5](https://wetten.overheid.nl/jci1.3:c:BWBR0010424&hoofdstuk=II&artikel=5&z=2017-01-01&g=2017-01-01) en [11](https://wetten.overheid.nl/jci1.3:c:BWBR0010424&hoofdstuk=IV&artikel=11&z=2017-01-01&g=2017-01-01), zijn verplicht de voorschriften op te volgen die de Sociale verzekeringsbank ten behoeve van een doelmatige controle stelt.
 
 3. De controlevoorschriften, bedoeld in het eerste lid, behoeven goedkeuring van Onze Minister.
 
@@ -215,7 +215,7 @@ Vervallen
 
 - b. onderwerpen als bedoeld in dit artikel: onderwerpen die geregeld zijn in deze wet.
 
-### Hoofdstuk IV. Overgangs- en slotbepalingen
+### Hoofdstuk III. Terugkeeroptie
 
 ##### Artikel 9
 
@@ -225,19 +225,19 @@ Onze Minister zendt binnen vier jaar na de inwerkingtreding van deze wet aan de 
 
 1. Personen die op de dag voor de inwerkingtreding van deze wet zijn geremigreerd en een uitkering ontvingen op basis van de Remigratieregeling 1985 behoeven geen aanvraag in te dienen voor het verkrijgen van een periodieke uitkering op basis van deze wet. De bedragen van bedoelde uitkering worden van rechtswege aangepast aan het niveau van de bedragen op basis van deze wet.
 
-2. [Artikel 4, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010424&hoofdstuk=II&artikel=4&z=2014-07-01&g=2014-07-01), is niet van toepassing op personen die op de dag voor de inwerkingtreding van deze wet zijn geremigreerd.
+2. [Artikel 4, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010424&hoofdstuk=II&artikel=4&z=2017-01-01&g=2017-01-01), is niet van toepassing op personen die op de dag voor de inwerkingtreding van deze wet zijn geremigreerd.
 
-3. [Artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010424&hoofdstuk=II&artikel=4&z=2014-07-01&g=2014-07-01), is niet van toepassing op personen die voor de inwerkingtreding van deze wet zijn geremigreerd en die op de dag voor de inwerkingtreding van deze wet geen uitkering ontvingen op basis van de Remigratieregeling 1985.
+3. [Artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010424&hoofdstuk=II&artikel=4&z=2017-01-01&g=2017-01-01), is niet van toepassing op personen die voor de inwerkingtreding van deze wet zijn geremigreerd en die op de dag voor de inwerkingtreding van deze wet geen uitkering ontvingen op basis van de Remigratieregeling 1985.
 
-4. [Artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010424&hoofdstuk=II&artikel=5&z=2014-07-01&g=2014-07-01), is niet van toepassing op de partner van de remigrant die op de dag voor de inwerkingtreding van deze wet is geremigreerd en bij inwerkingtreding van deze wet geen gezamenlijke huishouding meer voert met de remigrant, waarbij onder partner mede wordt verstaan de partner, bedoeld in [artikel 1, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010424&hoofdstuk=I&artikel=1&z=2014-07-01&g=2014-07-01).
+4. [Artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010424&hoofdstuk=II&artikel=5&z=2017-01-01&g=2017-01-01), is niet van toepassing op de partner van de remigrant die op de dag voor de inwerkingtreding van deze wet is geremigreerd en bij inwerkingtreding van deze wet geen gezamenlijke huishouding meer voert met de remigrant, waarbij onder partner mede wordt verstaan de partner, bedoeld in [artikel 1, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010424&hoofdstuk=I&artikel=1&z=2017-01-01&g=2017-01-01).
 
-5. [Artikel 5, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010424&hoofdstuk=II&artikel=5&z=2014-07-01&g=2014-07-01), is niet van toepassing op minderjarige kinderen die op de dag voor de inwerkingtreding van deze wet zijn meegeremigreerd en bij inwerkingtreding van deze wet de remigrant en zijn partner met wie de minderjarige kinderen zijn meegeremigreerd, zijn overleden, waarbij onder kinderen mede wordt verstaan de kinderen, bedoeld in [artikel 1, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010424&hoofdstuk=I&artikel=1&z=2014-07-01&g=2014-07-01), en waarbij onder partner mede wordt verstaan de partner, bedoeld in [artikel 1, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010424&hoofdstuk=I&artikel=1&z=2014-07-01&g=2014-07-01).
+5. [Artikel 5, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010424&hoofdstuk=II&artikel=5&z=2017-01-01&g=2017-01-01), is niet van toepassing op minderjarige kinderen die op de dag voor de inwerkingtreding van deze wet zijn meegeremigreerd en bij inwerkingtreding van deze wet de remigrant en zijn partner met wie de minderjarige kinderen zijn meegeremigreerd, zijn overleden, waarbij onder kinderen mede wordt verstaan de kinderen, bedoeld in [artikel 1, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010424&hoofdstuk=I&artikel=1&z=2017-01-01&g=2017-01-01), en waarbij onder partner mede wordt verstaan de partner, bedoeld in [artikel 1, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010424&hoofdstuk=I&artikel=1&z=2017-01-01&g=2017-01-01).
 
 ##### Artikel 11
 
-1. Aan een persoon als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0010424&hoofdstuk=I&artikel=2&z=2014-07-01&g=2014-07-01), die voor de dag van inwerkingtreding van deze wet is geremigreerd naar een bestemmingsland en die geen aanspraak heeft op een recht op uitkering op grond van de Remigratieregeling 1985 uitsluitend vanwege het feit, dat hij voorafgaande aan zijn vertrek uit Nederland geen aanvraag daarvoor heeft ingediend, wordt zo nodig in afwijking van [artikel 10, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010424&hoofdstuk=IV&artikel=10&z=2014-07-01&g=2014-07-01), overeenkomstig de bij of krachtens algemene maatregel van bestuur te stellen voorwaarden, bedoeld in [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010424&hoofdstuk=II&artikel=4&z=2014-07-01&g=2014-07-01), op aanvraag een periodieke uitkering verstrekt, indien hij op de dag van vertrek recht had op een uitkering op grond van de [Wet op de arbeidsongeschiktheidsverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0002524), welke uitkering na zijn vertrek uit Nederland op grond van [artikel 36](https://wetten.overheid.nl/jci1.3:c:BWBR0002524&artikel=36) of [43 van Wet op de arbeidsongeschiktheidsverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0002524&artikel=43) is verlaagd of ingetrokken.
+1. Aan een persoon als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0010424&hoofdstuk=I&artikel=2&z=2017-01-01&g=2017-01-01), die voor de dag van inwerkingtreding van deze wet is geremigreerd naar een bestemmingsland en die geen aanspraak heeft op een recht op uitkering op grond van de Remigratieregeling 1985 uitsluitend vanwege het feit, dat hij voorafgaande aan zijn vertrek uit Nederland geen aanvraag daarvoor heeft ingediend, wordt zo nodig in afwijking van [artikel 10, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010424&hoofdstuk=IV&artikel=10&z=2017-01-01&g=2017-01-01), overeenkomstig de bij of krachtens algemene maatregel van bestuur te stellen voorwaarden, bedoeld in [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010424&hoofdstuk=II&artikel=4&z=2017-01-01&g=2017-01-01), op aanvraag een periodieke uitkering verstrekt, indien hij op de dag van vertrek recht had op een uitkering op grond van de [Wet op de arbeidsongeschiktheidsverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0002524), welke uitkering na zijn vertrek uit Nederland op grond van [artikel 36](https://wetten.overheid.nl/jci1.3:c:BWBR0002524&artikel=36) of [43 van Wet op de arbeidsongeschiktheidsverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0002524&artikel=43) is verlaagd of ingetrokken.
 
-2. [Artikel 10, tweede, vierde en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010424&hoofdstuk=IV&artikel=10&z=2014-07-01&g=2014-07-01), is van overeenkomstige toepassing op een persoon als bedoeld in het eerste lid, zijn partner en zijn minderjarige kinderen die voor de inwerkingtreding van deze wet zijn geremigreerd respectievelijk zijn meegeremigreerd, waarbij onder partner mede wordt verstaan de partner, bedoeld in [artikel 1, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010424&hoofdstuk=I&artikel=1&z=2014-07-01&g=2014-07-01), en waarbij onder kinderen mede wordt verstaan de kinderen, bedoeld in [artikel 1, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010424&hoofdstuk=I&artikel=1&z=2014-07-01&g=2014-07-01).
+2. [Artikel 10, tweede, vierde en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010424&hoofdstuk=IV&artikel=10&z=2017-01-01&g=2017-01-01), is van overeenkomstige toepassing op een persoon als bedoeld in het eerste lid, zijn partner en zijn minderjarige kinderen die voor de inwerkingtreding van deze wet zijn geremigreerd respectievelijk zijn meegeremigreerd, waarbij onder partner mede wordt verstaan de partner, bedoeld in [artikel 1, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010424&hoofdstuk=I&artikel=1&z=2017-01-01&g=2017-01-01), en waarbij onder kinderen mede wordt verstaan de kinderen, bedoeld in [artikel 1, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010424&hoofdstuk=I&artikel=1&z=2017-01-01&g=2017-01-01).
 
 ##### Artikel 12
 
@@ -255,7 +255,7 @@ De Emigratiewet wordt ingetrokken, met dien verstande dat de op grond van de Bas
 
 ##### Artikel 15
 
-De archiefbescheiden van het Emigratiebestuur, bedoeld in [artikel 14, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010424&hoofdstuk=IV&artikel=14&z=2014-07-01&g=2014-07-01), worden op het tijdstip waarop deze wet in werking treedt overgedragen aan de Staat.
+De archiefbescheiden van het Emigratiebestuur, bedoeld in [artikel 14, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010424&hoofdstuk=IV&artikel=14&z=2017-01-01&g=2017-01-01), worden op het tijdstip waarop deze wet in werking treedt overgedragen aan de Staat.
 
 ##### Artikel 16
 
@@ -283,13 +283,13 @@ Doelgroep van deze wet zijn:
 
 ##### Artikel 2a
 
-1. De verklaring, bedoeld in [artikel 2, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0010424&hoofdstuk=I&artikel=2&z=2014-07-01&g=2014-07-01), wordt voor de vertrekdatum schriftelijk ingediend bij de Sociale verzekeringsbank.
+1. De verklaring, bedoeld in [artikel 2, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0010424&hoofdstuk=I&artikel=2&z=2017-01-01&g=2017-01-01), wordt voor de vertrekdatum schriftelijk ingediend bij de Sociale verzekeringsbank.
 
-2. De remigrant, bedoeld in [artikel 2, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0010424&hoofdstuk=I&artikel=2&z=2014-07-01&g=2014-07-01), dient zo spoedig mogelijk bij de autoriteiten van het bestemmingsland een verzoek in ter verkrijging van de nationaliteit van dat land en zendt de schriftelijke bewijsstukken van dat verzoek onverwijld aan de Sociale verzekeringsbank.
+2. De remigrant, bedoeld in [artikel 2, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0010424&hoofdstuk=I&artikel=2&z=2017-01-01&g=2017-01-01), dient zo spoedig mogelijk bij de autoriteiten van het bestemmingsland een verzoek in ter verkrijging van de nationaliteit van dat land en zendt de schriftelijke bewijsstukken van dat verzoek onverwijld aan de Sociale verzekeringsbank.
 
-3. De remigrant, bedoeld in [artikel 2, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0010424&hoofdstuk=I&artikel=2&z=2014-07-01&g=2014-07-01), informeert de Sociale verzekeringsbank eenmaal per jaar over de voortgang van de behandeling van zijn verzoek ter verkrijging van de nationaliteit van het bestemmingsland, tenzij de Sociale verzekeringsbank anders bepaalt.
+3. De remigrant, bedoeld in [artikel 2, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0010424&hoofdstuk=I&artikel=2&z=2017-01-01&g=2017-01-01), informeert de Sociale verzekeringsbank eenmaal per jaar over de voortgang van de behandeling van zijn verzoek ter verkrijging van de nationaliteit van het bestemmingsland, tenzij de Sociale verzekeringsbank anders bepaalt.
 
-4. De remigrant, bedoeld in [artikel 2, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0010424&hoofdstuk=I&artikel=2&z=2014-07-01&g=2014-07-01), die de nationaliteit van het bestemmingsland heeft verkregen, zendt bewijsstukken daarvan onverwijld aan de Sociale verzekeringsbank.
+4. De remigrant, bedoeld in [artikel 2, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0010424&hoofdstuk=I&artikel=2&z=2017-01-01&g=2017-01-01), die de nationaliteit van het bestemmingsland heeft verkregen, zendt bewijsstukken daarvan onverwijld aan de Sociale verzekeringsbank.
 
 5. Bij ministeriële regeling kunnen nadere regels gesteld worden omtrent het bepaalde in het eerste en derde lid.
 
@@ -299,7 +299,7 @@ Doelgroep van deze wet zijn:
 
 - a. voor 1 januari 2025 een aanvraag in te dienen bij de Sociale verzekeringsbank;
 
-- b. te behoren tot de doelgroep, bedoeld in [artikel 1a](https://wetten.overheid.nl/jci1.3:c:BWBR0010424&hoofdstuk=I&artikel=1a&z=2014-07-01&g=2014-07-01);
+- b. te behoren tot de doelgroep, bedoeld in [artikel 1a](https://wetten.overheid.nl/jci1.3:c:BWBR0010424&hoofdstuk=I&artikel=1a&z=2017-01-01&g=2017-01-01);
 
 - c. ten minste 55 jaar oud te zijn op het tijdstip van de aanvraag;
 
@@ -331,7 +331,7 @@ Doelgroep van deze wet zijn:
 
 - 8°. de [Wet werk en arbeidsondersteuning jonggehandicapten](https://wetten.overheid.nl/jci1.3:c:BWBR0008657);
 
-- 9°. de [Wet werk en bijstand](https://wetten.overheid.nl/jci1.3:c:BWBR0015703), of
+- 9°. de [Participatiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0015703), of
 
 - 10°. de [Wet werk en inkomen naar arbeidsvermogen](https://wetten.overheid.nl/jci1.3:c:BWBR0019057)
 
@@ -351,7 +351,7 @@ Doelgroep van deze wet zijn:
 
 5. Onder verblijf voor een tijdelijk doel als bedoeld in het eerste lid, onderdeel h, wordt het verblijf verstaan van de vreemdeling die behoort tot een bij ministeriële regeling aan te wijzen categorie van vreemdelingen.
 
-6. Onder een uitkering op basis van de [Wet werk en bijstand](https://wetten.overheid.nl/jci1.3:c:BWBR0015703) als bedoeld in het eerste lid, onderdeel i, wordt niet verstaan bijstand in de vorm van een geldlening als bedoeld in [artikel, 48, tweede lid, van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&artikel=48).
+6. Onder een uitkering op basis van de [Participatiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0015703) als bedoeld in het eerste lid, onderdeel i, wordt niet verstaan bijstand in de vorm van een geldlening als bedoeld in [artikel, 48, tweede lid, van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&artikel=48).
 
 7. Indien de aanvrager met een onderbreking van ten hoogste één maand achtereenvolgens verschillende rechtmatige uitkeringen of inkomensvoorzieningen heeft ontvangen op basis van de in het eerste lid onderdeel i, genoemde wetten, is de periode, bedoeld in dat onderdeel, de som van de perioden dat hij ononderbroken uitkeringsgerechtigd was op grond van die wetten.
 
@@ -367,7 +367,7 @@ Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle mi
 
 ##### Artikel 5a
 
-De remigrant en, voor zover van toepassing, zijn partner en hun kinderen dan wel hun wettelijke vertegenwoordiger zijn verplicht aan de Sociale verzekeringsbank op haar verzoek of onverwijld uit eigen beweging alle feiten en omstandigheden mee te delen waarvan hem redelijkerwijs duidelijk moet zijn dat zij van invloed kunnen zijn op het recht op of de hoogte van de remigratievoorzieningen, bedoeld in de [artikelen 2a](https://wetten.overheid.nl/jci1.3:c:BWBR0010424&hoofdstuk=I&artikel=2a&z=2014-07-01&g=2014-07-01), [2b](https://wetten.overheid.nl/jci1.3:c:BWBR0010424&hoofdstuk=I&artikel=2b&z=2014-07-01&g=2014-07-01), [4](https://wetten.overheid.nl/jci1.3:c:BWBR0010424&hoofdstuk=II&artikel=4&z=2014-07-01&g=2014-07-01), [5](https://wetten.overheid.nl/jci1.3:c:BWBR0010424&hoofdstuk=II&artikel=5&z=2014-07-01&g=2014-07-01), [6](https://wetten.overheid.nl/jci1.3:c:BWBR0010424&hoofdstuk=II&artikel=6&z=2014-07-01&g=2014-07-01), [6a](https://wetten.overheid.nl/jci1.3:c:BWBR0010424&hoofdstuk=II&artikel=6a&z=2014-07-01&g=2014-07-01) en [11](https://wetten.overheid.nl/jci1.3:c:BWBR0010424&hoofdstuk=IV&artikel=11&z=2014-07-01&g=2014-07-01), op het geldend maken van het recht op die voorzieningen of op het te betalen bedrag.
+De remigrant en, voor zover van toepassing, zijn partner en hun kinderen dan wel hun wettelijke vertegenwoordiger zijn verplicht aan de Sociale verzekeringsbank op haar verzoek of onverwijld uit eigen beweging alle feiten en omstandigheden mee te delen waarvan hem redelijkerwijs duidelijk moet zijn dat zij van invloed kunnen zijn op het recht op of de hoogte van de remigratievoorzieningen, bedoeld in de [artikelen 4](https://wetten.overheid.nl/jci1.3:c:BWBR0010424&hoofdstuk=II&artikel=4&z=2017-01-01&g=2017-01-01), [5](https://wetten.overheid.nl/jci1.3:c:BWBR0010424&hoofdstuk=II&artikel=5&z=2017-01-01&g=2017-01-01) en [11](https://wetten.overheid.nl/jci1.3:c:BWBR0010424&hoofdstuk=IV&artikel=11&z=2017-01-01&g=2017-01-01), op het geldend maken van het recht op die voorzieningen of op het te betalen bedrag.
 
 ##### Artikel 6a
 
@@ -383,35 +383,31 @@ De remigrant en, voor zover van toepassing, zijn partner en hun kinderen dan wel
 
 ##### Artikel 6aa
 
-1. De Sociale verzekeringsbank weigert de remigratievoorzieningen geheel of gedeeltelijk, tijdelijk of blijvend, indien de remigrant, zijn partner, hun kinderen of hun wettelijke vertegenwoordiger een verplichting als bedoeld in [artikel 5a](https://wetten.overheid.nl/jci1.3:c:BWBR0010424&hoofdstuk=II&artikel=5a&z=2014-07-01&g=2014-07-01) of [8g, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010424&hoofdstuk=IIIA&artikel=8g&z=2014-07-01&g=2014-07-01), niet of niet behoorlijk is nagekomen.
+1. De Sociale verzekeringsbank weigert de remigratievoorzieningen geheel of gedeeltelijk, tijdelijk of blijvend, indien de remigrant, zijn partner, hun kinderen of hun wettelijke vertegenwoordiger een verplichting als bedoeld in [artikel 5a](https://wetten.overheid.nl/jci1.3:c:BWBR0010424&hoofdstuk=II&artikel=5a&z=2017-01-01&g=2017-01-01) of [8g, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010424&hoofdstuk=IIIA&artikel=8g&z=2017-01-01&g=2017-01-01), niet of niet behoorlijk is nagekomen, dan wel de verplichting, bedoeld in artikel 5a, niet binnen de door de Sociale verzekeringsbank daarvoor vastgestelde termijn is nagekomen.
 
 2. Een maatregel als bedoeld in het eerste lid wordt afgestemd op de ernst van de gedraging en de mate waarin de belanghebbende de gedraging verweten kan worden. Van het opleggen van een maatregel wordt in ieder geval afgezien, indien iedere vorm van verwijtbaarheid ontbreekt.
 
-3. De Sociale verzekeringsbank kan afzien van het opleggen van een maatregel als bedoeld in het eerste lid en volstaan met het geven van een schriftelijke waarschuwing ter zake het niet nakomen van een verplichting als bedoeld in [artikel 5a](https://wetten.overheid.nl/jci1.3:c:BWBR0010424&hoofdstuk=II&artikel=5a&z=2014-07-01&g=2014-07-01) of [8g, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010424&hoofdstuk=IIIA&artikel=8g&z=2014-07-01&g=2014-07-01), indien het niet tijdig nakomen van de verplichting niet heeft geleid tot het ten onrechte of tot een te hoog bedrag verlenen van de remigratievoorzieningen, tenzij het niet tijdig nakomen van de verplichting plaatsvindt binnen een periode van twee jaar te rekenen vanaf de datum waarop eerder aan de belanghebbende een waarschuwing is gegeven.
+3. De Sociale verzekeringsbank kan afzien van het opleggen van een maatregel als bedoeld in het eerste lid en volstaan met het geven van een schriftelijke waarschuwing ter zake het niet nakomen van een verplichting als bedoeld in [artikel 5a](https://wetten.overheid.nl/jci1.3:c:BWBR0010424&hoofdstuk=II&artikel=5a&z=2017-01-01&g=2017-01-01) of [8g, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010424&hoofdstuk=IIIA&artikel=8g&z=2017-01-01&g=2017-01-01), indien het niet tijdig nakomen van de verplichting niet heeft geleid tot het ten onrechte of tot een te hoog bedrag verlenen van de remigratievoorzieningen, tenzij het niet tijdig nakomen van de verplichting plaatsvindt binnen een periode van twee jaar te rekenen vanaf de datum waarop eerder aan de belanghebbende een waarschuwing is gegeven.
 
 4. De Sociale verzekeringsbank kan afzien van het opleggen van een maatregel indien daarvoor dringende redenen aanwezig zijn.
 
-5. Het opleggen van een maatregel blijft achterwege indien voor dezelfde gedraging een bestuurlijke boete als bedoeld in [artikel 6b](https://wetten.overheid.nl/jci1.3:c:BWBR0010424&hoofdstuk=II&artikel=6b&z=2014-07-01&g=2014-07-01), wordt opgelegd.
+5. Het opleggen van een maatregel blijft achterwege indien voor dezelfde gedraging een bestuurlijke boete als bedoeld in [artikel 6b](https://wetten.overheid.nl/jci1.3:c:BWBR0010424&hoofdstuk=II&artikel=6b&z=2017-01-01&g=2017-01-01), wordt opgelegd.
 
 6. Bij of krachtens algemene maatregel van bestuur worden nadere regels gegeven met betrekking tot het eerste en tweede lid.
 
 ##### Artikel 6b
 
-1. De Sociale verzekeringsbank legt een bestuurlijke boete op van ten hoogste het benadelingsbedrag wegens het niet of niet behoorlijk nakomen door de remigrant, zijn partner, hun kinderen of hun wettelijke vertegenwoordiger van de verplichting, bedoeld in [artikel 5a](https://wetten.overheid.nl/jci1.3:c:BWBR0010424&hoofdstuk=II&artikel=5a&z=2014-07-01&g=2014-07-01). De bestuurlijke boete is niet lager dan de boete die op grond van het tweede lid zou worden opgelegd indien er geen sprake was van een benadelingsbedrag.
+1. De Sociale verzekeringsbank legt een bestuurlijke boete op van ten hoogste het benadelingsbedrag wegens het niet of niet behoorlijk nakomen door de remigrant, zijn partner, hun kinderen of hun wettelijke vertegenwoordiger van de verplichting, bedoeld in [artikel 5a](https://wetten.overheid.nl/jci1.3:c:BWBR0010424&hoofdstuk=II&artikel=5a&z=2017-01-01&g=2017-01-01). Indien de feiten en omstandigheden, bedoeld in artikel 5a, niet of niet behoorlijk zijn medegedeeld en deze overtreding opzettelijk is begaan, bedraagt de bestuurlijke boete ten hoogste het bedrag van de vijfde categorie, bedoeld in [artikel 23, vierde lid, van het Wetboek van Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=23). Indien de feiten en omstandigheden, bedoeld in artikel 5a, niet of niet behoorlijk zijn medegedeeld en deze overtreding niet opzettelijk is begaan, bedraagt de bestuurlijke boete ten hoogste het bedrag van de derde categorie, bedoeld in artikel 23, vierde lid, van het Wetboek van Strafrecht.
 
-2. Indien het niet of niet behoorlijk nakomen door de remigrant, zijn partner, hun kinderen of hun wettelijke vertegenwoordiger van de verplichting, bedoeld in [artikel 5a](https://wetten.overheid.nl/jci1.3:c:BWBR0010424&hoofdstuk=II&artikel=5a&z=2014-07-01&g=2014-07-01), niet heeft geleid tot een benadelingsbedrag, legt de Sociale verzekeringsbank een bestuurlijke boete op van ten hoogste het bedrag van de tweede categorie, bedoeld in [artikel 23, vierde lid, van het Wetboek van Stafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=23).
+2. Indien het niet of niet behoorlijk nakomen door de remigrant, zijn partner, hun kinderen of hun wettelijke vertegenwoordiger van de verplichting, bedoeld in [artikel 5a](https://wetten.overheid.nl/jci1.3:c:BWBR0010424&hoofdstuk=II&artikel=5a&z=2017-01-01&g=2017-01-01), niet heeft geleid tot een benadelingsbedrag, legt de Sociale verzekeringsbank een bestuurlijke boete op van ten hoogste het bedrag van de tweede categorie, bedoeld in [artikel 23, vierde lid, van het Wetboek van Stafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=23).
 
-3. De Sociale verzekeringsbank legt een bestuurlijke boete op wegens het niet of niet behoorlijk nakomen door de remigrant, zijn partner, hun kinderen of hun wettelijke vertegenwoordiger van de verplichting, bedoeld in [artikel 5a](https://wetten.overheid.nl/jci1.3:c:BWBR0010424&hoofdstuk=II&artikel=5a&z=2014-07-01&g=2014-07-01), als gevolg waarvan ten onrechte of tot een te hoog bedrag aan remigratievoorzieningen is ontvangen, van ten hoogste 150 procent van het benadelingsbedrag indien binnen een tijdvak van vijf jaar voorafgaand aan de dag van het begaan van de overtreding een eerdere bestuurlijke boete of strafrechtelijke sanctie is opgelegd wegens een eerdere overtreding, bestaande uit eenzelfde gedraging, die onherroepelijk is geworden.
+3. De Sociale verzekeringsbank legt een bestuurlijke boete op wegens het niet of niet behoorlijk nakomen door de remigrant, zijn partner, hun kinderen of hun wettelijke vertegenwoordiger van de verplichting, bedoeld in [artikel 5a](https://wetten.overheid.nl/jci1.3:c:BWBR0010424&hoofdstuk=II&artikel=5a&z=2017-01-01&g=2017-01-01), als gevolg waarvan ten onrechte of tot een te hoog bedrag aan remigratievoorzieningen is ontvangen, van ten hoogste 150 procent van het benadelingsbedrag, met overeenkomstige toepassing van het eerste lid, indien binnen een tijdvak van vijf jaar voorafgaand aan de dag van het begaan van de overtreding een eerdere bestuurlijke boete of strafrechtelijke sanctie is opgelegd wegens een eerdere overtreding, bestaande uit eenzelfde gedraging, die onherroepelijk is geworden.
 
 4. In afwijking van het derde lid is het in dat lid genoemde tijdvak van vijf jaar tien jaar indien wegens de eerdere overtreding, bedoeld in het derde lid, de remigrant, zijn partner, hun kinderen of hun wettelijke vertegenwoordiger is gestraft met een onvoorwaardelijke gevangenisstraf.
 
-5. De Sociale verzekeringsbank kan afzien van het opleggen van een bestuurlijke boete als bedoeld in het eerste en tweede lid en volstaan met het geven van een schriftelijke waarschuwing ter zake van het niet of niet behoorlijk nakomen van de verplichting, bedoeld in [artikel 5a](https://wetten.overheid.nl/jci1.3:c:BWBR0010424&hoofdstuk=II&artikel=5a&z=2014-07-01&g=2014-07-01), indien dat niet heeft geleid tot het ten onrechte of tot een te hoog bedrag verlenen van de remigratievoorzieningen, bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0010424&hoofdstuk=II&artikel=4&z=2014-07-01&g=2014-07-01), tenzij het niet of niet behoorlijk nakomen van de verplichting plaatsvindt binnen een periode van twee jaar na de datum waarop eerder aan de remigrant, zijn partner, hun kinderen of hun wettelijke vertegenwoordiger een zodanige waarschuwing gegeven is.
+5. De Sociale verzekeringsbank kan afzien van het opleggen van een bestuurlijke boete en volstaan met het geven van een schriftelijke waarschuwing ter zake van het niet of niet behoorlijk nakomen van de verplichting, bedoeld in [artikel 5a](https://wetten.overheid.nl/jci1.3:c:BWBR0010424&hoofdstuk=II&artikel=5a&z=2017-01-01&g=2017-01-01), indien dat niet heeft geleid tot het ten onrechte of tot een te hoog bedrag verlenen van de remigratievoorzieningen, bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0010424&hoofdstuk=II&artikel=4&z=2017-01-01&g=2017-01-01) in situaties die bij algemene maatregel van bestuur worden bepaald, tenzij het niet of niet behoorlijk nakomen van de verplichting plaatsvindt binnen een periode van twee jaar na de datum waarop eerder aan de remigrant, zijn partner, hun kinderen of hun wettelijke vertegenwoordiger een zodanige waarschuwing gegeven is.
 
-6. De Sociale verzekeringsbank kan:
-
-- a. de bestuurlijke boete verlagen indien sprake is van verminderde verwijtbaarheid;
-
-- b. afzien van het opleggen van een bestuurlijke boete indien daarvoor dringende redenen aanwezig zijn.
+6. De Sociale verzekeringsbank kan afzien van het opleggen van een bestuurlijke boete indien daarvoor dringende redenen aanwezig zijn.
 
 7. Bij algemene maatregel van bestuur worden nadere regels gesteld over de hoogte van de bestuurlijke boete.
 
@@ -419,19 +415,23 @@ De remigrant en, voor zover van toepassing, zijn partner en hun kinderen dan wel
 
 9. In afwijking van [artikel 8:69 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=8:69) kan de rechter in beroep of hoger beroep het bedrag waarop de bestuurlijke boete is vastgesteld ook ten nadele van de remigrant, zijn partner of hun kinderen dan wel hun wettige vertegenwoordiger wijzigen.
 
+10. Indien ten aanzien van een overtreding waarvoor een bestuurlijke boete is opgelegd geen sprake is geweest van opzet of grove schuld, en voorts is gebleken dat binnen een jaar nadat de bestuurlijke boete is opgelegd niet nogmaals een overtreding wegens eenzelfde gedraging is begaan, is de Sociale verzekeringsbank bevoegd op verzoek van degene aan wie de bestuurlijke boete is opgelegd, de bestuurlijke boete geheel of gedeeltelijke kwijt te schelden bij medewerking aan een schuldregeling.
+
+11. Het besluit tot kwijtschelding, bedoeld in het tiende lid, wordt ingetrokken of ten nadele van degene aan wie de bestuurlijke boete is opgelegd herzien indien binnen vijf jaar na het besluit tot kwijtschelding wederom een overtreding wegens eenzelfde gedraging is begaan.
+
 ##### Artikel 6c
 
 1. Onverminderd het elders bij of krachtens deze wet bepaalde inzake wijziging of intrekking van een besluit tot toekenning van de remigratievoorzieningen, wijzigt de Sociale verzekeringsbank een dergelijk besluit of trekt zij dat in:
 
-- a. indien het niet of niet behoorlijk nakomen van een verplichting op grond van [artikel 2a](https://wetten.overheid.nl/jci1.3:c:BWBR0010424&hoofdstuk=I&artikel=2a&z=2014-07-01&g=2014-07-01), [5a](https://wetten.overheid.nl/jci1.3:c:BWBR0010424&hoofdstuk=II&artikel=5a&z=2014-07-01&g=2014-07-01) of [8g](https://wetten.overheid.nl/jci1.3:c:BWBR0010424&hoofdstuk=IIIA&artikel=8g&z=2014-07-01&g=2014-07-01) heeft geleid tot het ten onrechte of tot een te hoog bedrag verlenen van de remigratievoorzieningen;
+- a. indien het niet of niet behoorlijk nakomen van een verplichting op grond van [artikel 2a](https://wetten.overheid.nl/jci1.3:c:BWBR0010424&hoofdstuk=I&artikel=2a&z=2017-01-01&g=2017-01-01), [5a](https://wetten.overheid.nl/jci1.3:c:BWBR0010424&hoofdstuk=II&artikel=5a&z=2017-01-01&g=2017-01-01) of [8g](https://wetten.overheid.nl/jci1.3:c:BWBR0010424&hoofdstuk=IIIA&artikel=8g&z=2017-01-01&g=2017-01-01) heeft geleid tot het ten onrechte of tot een te hoog bedrag verlenen van de remigratievoorzieningen;
 
 - b. indien anderszins de remigratievoorzieningen ten onrechte of op een te hoog bedrag zijn vastgesteld;
 
-- c. voor zover het niet of niet behoorlijk nakomen van een verplichting op grond van [artikel 2a](https://wetten.overheid.nl/jci1.3:c:BWBR0010424&hoofdstuk=I&artikel=2a&z=2014-07-01&g=2014-07-01), [5a](https://wetten.overheid.nl/jci1.3:c:BWBR0010424&hoofdstuk=II&artikel=5a&z=2014-07-01&g=2014-07-01) of [8g](https://wetten.overheid.nl/jci1.3:c:BWBR0010424&hoofdstuk=IIIA&artikel=8g&z=2014-07-01&g=2014-07-01) ertoe leidt dat niet kan worden vastgesteld in hoeverre nog recht op remigratievoorzieningen bestaat;
+- c. voor zover het niet of niet behoorlijk nakomen van een verplichting op grond van [artikel 2a](https://wetten.overheid.nl/jci1.3:c:BWBR0010424&hoofdstuk=I&artikel=2a&z=2017-01-01&g=2017-01-01), [5a](https://wetten.overheid.nl/jci1.3:c:BWBR0010424&hoofdstuk=II&artikel=5a&z=2017-01-01&g=2017-01-01) of [8g](https://wetten.overheid.nl/jci1.3:c:BWBR0010424&hoofdstuk=IIIA&artikel=8g&z=2017-01-01&g=2017-01-01) ertoe leidt dat niet kan worden vastgesteld in hoeverre nog recht op remigratievoorzieningen bestaat;
 
-- d. indien een persoon als bedoeld in [artikel 2, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0010424&hoofdstuk=I&artikel=2&z=2014-07-01&g=2014-07-01), heeft nagelaten al hetgeen te doen wat in redelijkheid mogelijk is om de nationaliteit van het bestemmingsland met bekwame spoed te verkrijgen.
+- d. indien een persoon als bedoeld in [artikel 2, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0010424&hoofdstuk=I&artikel=2&z=2017-01-01&g=2017-01-01), heeft nagelaten al hetgeen te doen wat in redelijkheid mogelijk is om de nationaliteit van het bestemmingsland met bekwame spoed te verkrijgen.
 
-2. Onverminderd het eerste lid trekt de Sociale verzekeringsbank een besluit tot toekenning van de remigratievoorzieningen in, voor zover na een schorsing van maximaal zes maanden de remigrant en, voor zover van toepassing de partner, een van hun kinderen dan wel hun wettelijke vertegenwoordiger geen aanvraag indient of anderszins weigert mee te werken aan de vaststelling van een recht op een uitkering als bedoeld in [artikel 6d, eerste lid, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0010424&hoofdstuk=II&artikel=6d&z=2014-07-01&g=2014-07-01).
+2. Onverminderd het eerste lid trekt de Sociale verzekeringsbank een besluit tot toekenning van de remigratievoorzieningen in, voor zover na een schorsing van maximaal zes maanden de remigrant en, voor zover van toepassing de partner, een van hun kinderen dan wel hun wettelijke vertegenwoordiger geen aanvraag indient of anderszins weigert mee te werken aan de vaststelling van een recht op een uitkering als bedoeld in [artikel 6d, eerste lid, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0010424&hoofdstuk=II&artikel=6d&z=2017-01-01&g=2017-01-01).
 
 3. De Sociale verzekeringsbank kan met betrekking tot uitkeringstijdvakken in het verleden geheel of gedeeltelijk van wijziging of intrekking afzien indien daarvoor dringende redenen aanwezig zijn.
 
@@ -445,7 +445,7 @@ De remigrant en, voor zover van toepassing, zijn partner en hun kinderen dan wel
 
 - b. het recht op de remigratievoorzieningen bestaat tot een lager bedrag;
 
-- c. de remigrant en, voor zover van toepassing, zijn partner, een van de kinderen dan wel hun wettelijke vertegenwoordiger een verplichting als bedoeld in [artikel 2a](https://wetten.overheid.nl/jci1.3:c:BWBR0010424&hoofdstuk=I&artikel=2a&z=2014-07-01&g=2014-07-01), [5a](https://wetten.overheid.nl/jci1.3:c:BWBR0010424&hoofdstuk=II&artikel=5a&z=2014-07-01&g=2014-07-01) of [8g](https://wetten.overheid.nl/jci1.3:c:BWBR0010424&hoofdstuk=IIIA&artikel=8g&z=2014-07-01&g=2014-07-01) niet of niet behoorlijk is nagekomen;
+- c. de remigrant en, voor zover van toepassing, zijn partner, een van de kinderen dan wel hun wettelijke vertegenwoordiger een verplichting als bedoeld in [artikel 2a](https://wetten.overheid.nl/jci1.3:c:BWBR0010424&hoofdstuk=I&artikel=2a&z=2017-01-01&g=2017-01-01), [5a](https://wetten.overheid.nl/jci1.3:c:BWBR0010424&hoofdstuk=II&artikel=5a&z=2017-01-01&g=2017-01-01) of [8g](https://wetten.overheid.nl/jci1.3:c:BWBR0010424&hoofdstuk=IIIA&artikel=8g&z=2017-01-01&g=2017-01-01) niet of niet behoorlijk is nagekomen;
 
 - d. de remigrant of, voor zover van toepassing, zijn partner dan wel een van hun kinderen recht heeft op een uitkering op grond van: doch ter zake geen aanvraag heeft ingediend of anderszins weigert mee te werken aan de vaststelling van dat recht.
 
@@ -469,29 +469,39 @@ De remigrant en, voor zover van toepassing, zijn partner en hun kinderen dan wel
 
 1. De Sociale verzekeringsbank vordert de bedragen die op grond van deze wet onverschuldigd zijn betaald, terug van de remigrant en, voor zover van toepassing, van zijn partner.
 
-2. Onverschuldigd betaalde voorzieningen als bedoeld in [artikel 5, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010424&hoofdstuk=II&artikel=5&z=2014-07-01&g=2014-07-01), worden van de kinderen van de remigrant of zijn partner dan wel hun wettelijke vertegenwoordiger teruggevorderd.
+2. Onverschuldigd betaalde voorzieningen als bedoeld in [artikel 5, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010424&hoofdstuk=II&artikel=5&z=2017-01-01&g=2017-01-01), worden van de kinderen van de remigrant of zijn partner dan wel hun wettelijke vertegenwoordiger teruggevorderd.
 
 3. De Sociale verzekeringsbank kan geheel of gedeeltelijk van de terugvordering afzien indien daarvoor dringende redenen aanwezig zijn.
 
 4. Indien de remigrant, zijn partner, een van hun kinderen dan wel hun wettelijke vertegenwoordiger aan alle bij of krachtens deze wet gestelde verplichtingen heeft voldaan, en hij in redelijkheid niet heeft kunnen begrijpen dat de remigratievoorzieningen ten onrechte of tot een te hoog bedrag zijn verleend, ziet de Sociale verzekeringsbank geheel of gedeeltelijk van terugvordering af.
 
-5. De Sociale verzekeringsbank kan de bedragen die op grond van deze wet onverschuldigd zijn betaald en de bestuurlijke boete, bedoeld in [artikel 6b](https://wetten.overheid.nl/jci1.3:c:BWBR0010424&hoofdstuk=II&artikel=6b&z=2014-07-01&g=2014-07-01), invorderen bij dwangbevel.
+5. De Sociale verzekeringsbank kan de bedragen die op grond van deze wet onverschuldigd zijn betaald en de bestuurlijke boete, bedoeld in [artikel 6b](https://wetten.overheid.nl/jci1.3:c:BWBR0010424&hoofdstuk=II&artikel=6b&z=2017-01-01&g=2017-01-01), invorderen bij dwangbevel.
+
+6. In afwijking van het eerste en tweede lid kan de Sociale verzekeringsbank besluiten van terugvordering of van verdere terugvordering af te zien, indien de remigrant, zijn partner, zijn wettelijk vertegenwoordiger, zijn kinderen dan wel hun wettelijke vertegenwoordiger:
+
+- a. gedurende vijf jaar volledig aan zijn betalingsverplichtingen heeft voldaan;
+
+- b. gedurende vijf jaar niet volledig aan zijn betalingsverplichtingen heeft voldaan, maar het achterstallige bedrag over die periode, vermeerderd met de daarover verschuldigde wettelijke rente en de op de invordering betrekking hebbende kosten, alsnog heeft betaald;
+
+- c. gedurende vijf jaar geen betalingen heeft verricht en niet aannemelijk is dat hij deze op enig moment zal gaan verrichten, of
+
+- d. een bedrag, overeenkomend met ten minste 50% van de restsom, in één keer aflost.
+
+7. Degene van wie wordt teruggevorderd is verplicht desgevraagd aan de Sociale verzekeringsbank de inlichtingen te verstrekken die voor de terugvordering van belang zijn.
 
 ##### Artikel 6f
 
-1. De Sociale verzekeringsbank kan bedragen die met toepassing van [artikel 6e](https://wetten.overheid.nl/jci1.3:c:BWBR0010424&hoofdstuk=II&artikel=6e&z=2014-07-01&g=2014-07-01) zijn teruggevorderd en de bestuurlijke boete, bedoeld in [artikel 6b](https://wetten.overheid.nl/jci1.3:c:BWBR0010424&hoofdstuk=II&artikel=6b&z=2014-07-01&g=2014-07-01), verrekenen met:
+1. De Sociale verzekeringsbank kan bedragen die met toepassing van [artikel 6e](https://wetten.overheid.nl/jci1.3:c:BWBR0010424&hoofdstuk=II&artikel=6e&z=2017-01-01&g=2017-01-01) zijn teruggevorderd en de bestuurlijke boete, bedoeld in [artikel 6b](https://wetten.overheid.nl/jci1.3:c:BWBR0010424&hoofdstuk=II&artikel=6b&z=2017-01-01&g=2017-01-01), verrekenen met:
 
 - a. later uit te betalen remigratievoorzieningen;
 
-- b. kinderbijslag op grond van de [Algemene kinderbijslagwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002368);
+- b. een uitkering op grond van de [Algemene nabestaandenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0007795);
 
-- c. een uitkering op grond van de [Algemene nabestaandenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0007795);
+- c. een ouderdomspensioen op grond van de [Algemene Ouderdomswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002221); of
 
-- d. een ouderdomspensioen op grond van de [Algemene Ouderdomswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002221); of
+- d. een aanvullende inkomensvoorziening ouderen op grond van de [Participatiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0015703),
 
-- e. een aanvullende inkomensvoorziening ouderen op grond van de [Wet werk en bijstand](https://wetten.overheid.nl/jci1.3:c:BWBR0015703),
-
-waarop de remigrant of, voor zover van toepassing de partner, of in het geval bedoeld in [artikel 6e, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010424&hoofdstuk=II&artikel=6e&z=2014-07-01&g=2014-07-01), een van de kinderen of hun wettelijke vertegenwoordiger, aanspraak heeft.
+waarop de remigrant of, voor zover van toepassing de partner, of in het geval bedoeld in [artikel 6e, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010424&hoofdstuk=II&artikel=6e&z=2017-01-01&g=2017-01-01), een van de kinderen of hun wettelijke vertegenwoordiger, aanspraak heeft.
 
 2. Indien de in het eerste lid bedoelde personen
 
@@ -513,7 +523,7 @@ waarop de remigrant of, voor zover van toepassing de partner, of in het geval be
 
 - 8°. de [Wet werk en arbeidsondersteuning jonggehandicapten](https://wetten.overheid.nl/jci1.3:c:BWBR0008657);
 
-- 9°. de [Wet werk en bijstand](https://wetten.overheid.nl/jci1.3:c:BWBR0015703);
+- 9°. de [Participatiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0015703);
 
 - 10°. de [Wet werk en inkomen naar arbeidsvermogen](https://wetten.overheid.nl/jci1.3:c:BWBR0019057), of
 
@@ -531,7 +541,15 @@ waarop de remigrant of, voor zover van toepassing de partner, of in het geval be
 
 betaalt het orgaan dat deze uitkering verschuldigd is het teruggevorderde bedrag op haar verzoek aan de Sociale verzekeringsbank, zonder dat daarvoor een machtiging van de rechthebbende nodig is.
 
-3. Onverminderd het eerste en tweede lid kan de Sociale verzekeringsbank de bestuurlijke boete, bedoeld in [artikel 6b](https://wetten.overheid.nl/jci1.3:c:BWBR0010424&hoofdstuk=II&artikel=6b&z=2014-07-01&g=2014-07-01), verrekenen met een vordering die degene aan wie de bestuurlijke boete is opgelegd op hem heeft.
+3. Onverminderd het eerste en tweede lid kan de Sociale verzekeringsbank de bestuurlijke boete, bedoeld in [artikel 6b](https://wetten.overheid.nl/jci1.3:c:BWBR0010424&hoofdstuk=II&artikel=6b&z=2017-01-01&g=2017-01-01), verrekenen met een vordering die degene aan wie de bestuurlijke boete is opgelegd op haar heeft.
+
+4. De in [artikel 479g van het Wetboek van Burgerlijke Rechtsvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&artikel=479g) aan de raad voor de kinderbescherming toegekende bevoegdheid komt gelijkelijk toe aan de Sociale verzekeringsbank. Indien de Sociale verzekeringsbank gebruik maakt van deze bevoegdheid, geschiedt de bekendmaking van het dwangbevel, in afwijking van [artikel 4:123, eerste lid, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:123), door middel van toezending per post aan degene aan wie de boete is opgelegd.
+
+5. Zolang de belanghebbende zijn verplichting, bedoeld in [artikel 6b, achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010424&hoofdstuk=II&artikel=6b&z=2017-01-01&g=2017-01-01), niet of niet behoorlijk nakomt:
+
+- a. is de Sociale verzekeringsbank, in afwijking van [artikel 4:93, vierde lid, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:93), bevoegd tot verrekening voor zover beslag op de vordering van de schuldeiser nietig zou zijn;
+
+- b. geldt de beslagvrije voet, bedoeld in de artikelen [475c tot en met 475e van het Wetboek van Burgerlijke Rechtsvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&artikel=475c), in afwijking van [artikel 4:116 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:116), niet bij de invordering van een bestuurlijke boete bij dwangbevel.
 
 ##### Artikel 6g
 
@@ -546,6 +564,16 @@ betaalt het orgaan dat deze uitkering verschuldigd is het teruggevorderde bedrag
 5. In afwijking van [artikel 7:10, eerste lid, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=7:10) beslist de Sociale verzekeringsbank binnen dertien weken gerekend vanaf de dag na die waarop de termijn voor het indienen van het bezwaarschrift is verstreken.
 
 ### Hoofdstuk III. Terugkeeroptie
+
+### Hoofdstuk IIIA. Taken en bevoegdheden van de Sociale verzekeringsbank
+
+### Hoofdstuk IV. Overgangs- en slotbepalingen
+
+Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
+
+##### Artikel 6h
+
+Een vordering van de Sociale verzekeringsbank als bedoeld in [artikel 6e](https://wetten.overheid.nl/jci1.3:c:BWBR0010424&hoofdstuk=II&artikel=6e&z=2017-01-01&g=2017-01-01) is bevoorrecht en volgt onmiddellijk na de vorderingen, bedoeld in [artikel 288 van Boek 3 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005291&artikel=288).
 
 ### Hoofdstuk IIIA. Taken en bevoegdheden van de Sociale verzekeringsbank
 
