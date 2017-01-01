@@ -57,9 +57,3 @@ De regeling treedt in werking met ingang van 1 januari 2017.
 Deze regeling wordt aangehaald als: Regeling aanwijzing TMG-functies.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
-
-##### Artikel 1a. Grondslag
-
-Deze regeling berust op [artikel 6, onderdeel b, van het Uitvoeringsbesluit Ambtenarenwet 2017](https://wetten.overheid.nl/jci1.3:c:BWBR0042692&artikel=6).
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
