@@ -4,7 +4,7 @@ identifier: "BWBR0031386"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-01-01"
-last_updated: "2016-01-01"
+last_updated: "2017-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0031386"
 soort: "ministeriele-regeling"
@@ -116,7 +116,7 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 - 6°. eindheffing doorlopend afwisselend gebruik bestelauto;
 
-- 7°. eindheffing VUT-regeling;
+- 7°. pseudo-eindheffing RVU;
 
 - 8°. eindheffing overschrijding forfaitaire werkkostenregeling;
 
@@ -238,41 +238,43 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 - 7°. code CAO;
 
-- 8°. indicatie premiekorting arbeidsgehandicapten;
+- 8°. indicatie premiekorting in dienst nemen arbeidsgehandicapte werknemer;
 
-- 9°. indicatie premiekorting nieuwe arbeidsverhouding oudere werknemers;
+- 9°. indicatie premiekorting doelgroep banenafspraak;
 
-- 10°. indicatie loonheffingskorting;
+- 10°. indicatie premiekorting herplaatsen arbeidsgehandicapte werknemer;
 
-- 11°. indicatie premiekorting jongere werknemers;
+- 11°. indicatie premiekorting nieuwe arbeidsverhouding oudere werknemers;
 
-- 12°. code reden geen bijtelling auto;
+- 12°. indicatie loonheffingskorting;
 
-- 13°. code loonbelastingtabel;
+- 13°. indicatie premiekorting jongere werknemers;
 
-- 14°. indicatie verzekerd WAO/IVA/WGA;
+- 14°. code reden geen bijtelling auto;
 
-- 15°. indicatie verzekerd WW;
+- 15°. code loonbelastingtabel;
 
-- 16°. indicatie verzekerd ZW;
+- 16°. indicatie verzekerd WAO/IVA/WGA;
 
-- 17°. indicatie premievrijstelling marginale arbeid;
+- 17°. indicatie verzekerd WW;
 
-- 18°. indicatie wachtgeld oude regeling;
+- 18°. indicatie verzekerd ZW;
 
-- 19°. code verzekeringssituatie Zvw;
+- 19°. indicatie premievrijstelling marginale arbeid;
 
-- 20°. indicatie vakantiebonnen toegepast;
+- 20°. indicatie wachtgeld oude regeling;
 
-- 21°. indicatie loon bestaat (mede) uit een AOW-uitkering voor alleenstaande (met of zonder kinderen);
+- 21°. code verzekeringssituatie Zvw;
 
-- 22°. indicatie loon inclusief Wajong-uitkering;
+- 22°. indicatie vakantiebonnen toegepast;
 
-- 23°. indicatie personeelslening waarvan de rente- en/of kostenvoordelen niet tot het loon zijn gerekend;
+- 23°. indicatie loon bestaat (mede) uit een AOW-uitkering voor alleenstaande (met of zonder kinderen);
 
-- 24°. indicatie vervoer vanwege de inhoudingsplichtige;
+- 24°. indicatie loon inclusief Wajong-uitkering;
 
-- 25°. code incidentele inkomstenvermindering;
+- 25°. indicatie vervoer vanwege de inhoudingsplichtige;
+
+- 26°. code incidentele inkomstenvermindering;
 
 - f. werknemersgegevens:
 
@@ -326,19 +328,17 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 - 25°. verrekende arbeidskorting;
 
-- 26°. aantal SV-dagen;
+- 26°. aantal verloonde uren;
 
-- 27°. aantal verloonde uren;
+- 27°. contractloon;
 
-- 28°. contractloon;
+- 28°. aantal contracturen per week;
 
-- 29°. aantal contracturen per week;
+- 29°. bedrag rente- of kostenvoordeel personeelslening;
 
-- 30°. bedrag rente- of kostenvoordeel personeelslening;
+- 30°. bedrag in uitkering begrepen doorbetaalde alimentatie;
 
-- 31°. bedrag in uitkering begrepen doorbetaalde alimentatie;
-
-- 32°. bedrag rechtstreeks betaalde alimentatie;
+- 31°. bedrag rechtstreeks betaalde alimentatie;
 
 - g. sector risicogroep:
 
@@ -356,109 +356,11 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 ##### Artikel 1a.2. Gegevens opgave bij onjuiste of onvolledige aangifte
 
-De opgave, bedoeld in [artikel 28a, eerste lid en tweede lid, aanhef en onderdelen a tot en met d, van de Wet op de loonbelasting 1964](https://wetten.overheid.nl/jci1.3:c:BWBR0002471&artikel=28a), bevat de gegevens, genoemd in [artikel 1a.1](https://wetten.overheid.nl/jci1.3:c:BWBR0031386&hoofdstuk=1a&artikel=1a.1&z=2016-01-01&g=2016-01-01).
+De opgave, bedoeld in [artikel 28a, eerste lid en tweede lid, aanhef en onderdelen a tot en met d, van de Wet op de loonbelasting 1964](https://wetten.overheid.nl/jci1.3:c:BWBR0002471&artikel=28a), bevat de gegevens, genoemd in [artikel 1a.1](https://wetten.overheid.nl/jci1.3:c:BWBR0031386&hoofdstuk=1a&artikel=1a.1&z=2017-01-01&g=2017-01-01).
 
 ##### Artikel 1a.3. Gegevens opgave bij verwijtbaar onjuiste of onvolledige aangifte over verstreken kalenderjaar (jaarloonopgave)
 
-1. De opgave, bedoeld in [artikel 28a, eerste lid en tweede lid, aanhef en onderdeel e, van de Wet op de loonbelasting 1964](https://wetten.overheid.nl/jci1.3:c:BWBR0002471&artikel=28a), bevat de algemene gegevens, genoemd in het tweede lid, en de nominatieve gegevens, genoemd in het derde lid.
-
-2. De opgave, bedoeld in het eerste lid, bevat de volgende algemene gegevens:
-
-- a. bericht:
-
-- 1°. bericht kenmerk aanleveraar;
-
-- 2°. datum en tijdstip aanmaak;
-
-- 3°. contactpersoon aanleveraar;
-
-- 4°. telefoonnummer contactpersoon aanleveraar;
-
-- 5°. relatienummer;
-
-- 6°. gebruikt softwarepakket;
-
-- b. administratieve eenheid:
-
-- 1°. loonheffingennummer;
-
-- 2°. naam inhoudingsplichtige;
-
-- c. tijdvak:
-
-- 1°. datum aanvang tijdvak;
-
-- 2°. datum einde tijdvak.
-
-3. De opgave, bedoeld in het eerste lid, bevat de volgende nominatieve gegevens (per inkomenstenverhouding):
-
-- a. inkomstenverhouding initieel:
-
-- 1°. nummer inkomstenverhouding;
-
-- 2°. datum aanvang inkomstenverhouding;
-
-- 3°. datum einde inkomstenverhouding;
-
-- 4°. personeelsnummer;
-
-- b. natuurlijk persoon:
-
-- 1°. BSN;
-
-- 2°. geboortedatum;
-
-- 3°. significant deel van de achternaam;
-
-- c. inkomstenperiode initieel:
-
-- 1°. datum aanvang inkomstenperiode;
-
-- 2°. code soort inkomstenverhouding/inkomenscode;
-
-- 3°. indicatie loonheffingskorting;
-
-- 4°. code reden geen bijtelling auto;
-
-- 5°. code loonbelastingtabel;
-
-- 6°. indicatie verzekerd WAO/IVA/WGA;
-
-- 7°. indicatie verzekerd WW;
-
-- 8°. code verzekeringssituatie Zvw;
-
-- d. werknemersgegevens (gecumuleerd):
-
-- 1°. loon LB/PH;
-
-- 2°. loon SV;
-
-- 3°. ingehouden loonbelasting/premie volksverzekeringen;
-
-- 4°. basispremie WAO/IVA/WGA;
-
-- 5°. gedifferentieerde premie Whk;
-
-- 6°. premie WW Awf;
-
-- 7°. premie Ufo;
-
-- 8°. ingehouden bijdrage Zvw;
-
-- 9°. werkgeversheffing Zvw;
-
-- 10°. waarde privégebruik auto;
-
-- 11°. werknemersbijdrage privégebruik auto;
-
-- 12°. gespaard bedrag levensloopregeling;
-
-- 13°. toegepast bedrag levensloopverlofkorting;
-
-- 14°. verrekende arbeidskorting.
-
-4. De opgave wordt op dezelfde wijze en in dezelfde vorm verstrekt als de aangifte.
+Vervallen
 
 ### Hoofdstuk 2. Slotbepalingen
 
