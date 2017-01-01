@@ -4,7 +4,7 @@ identifier: "BWBR0036890"
 country: "nl"
 rank: "zbo"
 publication_date: "2017-01-01"
-last_updated: "2015-08-01"
+last_updated: "2017-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0036890"
 soort: "zbo"
@@ -56,7 +56,7 @@ In deze regeling wordt verstaan onder:
 
 - d. **project:** een multimediale literaire productie met ten minste een in het Nederlands of Fries gestelde literaire inhoud, waarbij de digitale omgeving van wezenlijke invloed is op de inhoud;
 
-- e. **online tijdschrift:** een literair digitaal platform met een redactie waarop auteurs, vertalers, kunstenaars en critici hun Nederlands- of Friestalig werk publiceren;
+- e. vervallen;
 
 - f. **contract:** een overeenkomst tussen auteur of vertaler en uitgeverij betreffende de exploitatierechten op de publicatie waarin minimaal de bepalingen over het royalty-percentage en de licentie zijn overeengekomen, zoals geregeld in het Modelcontract GAU/VvL voor Uitgave Literair Werk, Uitgave Kinderboek, Digitale Publicaties en Literaire Vertaling;
 
@@ -72,15 +72,15 @@ Deze regeling is van toepassing op projectsubsidies die het bestuur verstrekt in
 
 - b. projecten, en,
 
-- c. online tijdschriften.
+- c. vervallen.
 
 ### Algemene bepalingen
 
 ##### Artikel 3. Subsidierondes en subsidieplafond
 
-1. Het bestuur behandelt de aanvragen voor projectsubsidies, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0036890&artikel=2&z=2015-08-01&g=2015-08-01), categorieën a en b, in minimaal één subsidieronde per jaar.
+1. Het bestuur behandelt de aanvragen voor projectsubsidies, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0036890&artikel=2&z=2017-01-01&g=2017-01-01), categorieën a en b, in minimaal één subsidieronde per jaar.
 
-2. Het bestuur behandelt de aanvragen voor online tijdschriften, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0036890&artikel=2&z=2015-08-01&g=2015-08-01), categorie c, in een subsidieronde eens in de twee jaar.
+2. Vervallen.
 
 3. Het bestuur kan per categorie en per subsidieronde een subsidieplafond vaststellen en bepalen hoe het beschikbare bedrag wordt verdeeld. Het besluit hiertoe wordt bekendgemaakt via de website van het Letterenfonds.
 
@@ -90,9 +90,9 @@ Deze regeling is van toepassing op projectsubsidies die het bestuur verstrekt in
 
 ##### Artikel 4. Vereisten aanvraag
 
-1. De aanvraag heeft betrekking op niet meer dan één van de categorieën, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0036890&artikel=2&z=2015-08-01&g=2015-08-01) en per categorie wordt per ronde niet meer dan één aanvraag door dezelfde aanvrager ingediend. Een aanvraagformulier is te downloaden op de site van het Letterenfonds en wordt naar waarheid, volledig en volgens de bij het formulier vermelde richtlijnen ingevuld, voorzien van alle gevraagde bijlagen.
+1. De aanvraag heeft betrekking op niet meer dan één van de categorieën, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0036890&artikel=2&z=2017-01-01&g=2017-01-01) en per categorie wordt per ronde niet meer dan één aanvraag door dezelfde aanvrager ingediend. Een aanvraagformulier is te downloaden op de site van het Letterenfonds en wordt naar waarheid, volledig en volgens de bij het formulier vermelde richtlijnen ingevuld, voorzien van alle gevraagde bijlagen.
 
-2. Een aanvrager die een aanvraag indient voor een subsidie als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0036890&artikel=2&z=2015-08-01&g=2015-08-01), categorieën a of b, kan niet in dezelfde of in een navolgende subsidieronde een aanvraag indienen voor een subsidie in de categorie c. Een aanvrager die een aanvraag indient voor een subsidie in categorie c, kan niet in dezelfde of in een navolgende subsidieronde een aanvraag indienen voor een subsidie in de categorie a of b.
+2. Een aanvrager die een aanvraag indient voor een subsidie als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0036890&artikel=2&z=2017-01-01&g=2017-01-01), categorieën a of b, kan niet in dezelfde of in een navolgende subsidieronde een aanvraag indienen voor een subsidie in de categorie c. Een aanvrager die een aanvraag indient voor een subsidie in categorie c, kan niet in dezelfde of in een navolgende subsidieronde een aanvraag indienen voor een subsidie in de categorie a of b.
 
 3. Een aanvraag voor eenzelfde project, dat eerder door het bestuur is afgewezen, wordt niet meer in behandeling genomen, tenzij de inhoud van de aanvraag volgens het bestuur substantieel gewijzigd
 
@@ -100,7 +100,7 @@ Deze regeling is van toepassing op projectsubsidies die het bestuur verstrekt in
 
 ##### Artikel 5. Onderlinge verhoudingen subsidies
 
-Het bestuur kan nadat een subsidie is verstrekt in de categorie genoemd in [artikel 2, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0036890&artikel=2&z=2015-08-01&g=2015-08-01), op aanvraag een subsidie voor een navolgend project verstrekken genoemd in artikel 2, onderdeel b. Het verstrekken van een subsidie in één van de categorieën bindt het bestuur in geen geval tot het verstrekken van enige andere bijdrage in de overige categorieën.
+Het bestuur kan nadat een subsidie is verstrekt in de categorie genoemd in [artikel 2, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0036890&artikel=2&z=2017-01-01&g=2017-01-01), op aanvraag een subsidie voor een navolgend project verstrekken genoemd in artikel 2, onderdeel b. Het verstrekken van een subsidie in één van de categorieën bindt het bestuur in geen geval tot het verstrekken van enige andere bijdrage in de overige categorieën.
 
 ##### Artikel 6. Adviescommissie
 
@@ -136,7 +136,7 @@ Het bestuur kan nadat een subsidie is verstrekt in de categorie genoemd in [arti
 
 2. Als het bestuur constateert dat substantiële wijzigingen zijn opgetreden ten opzichte van de bij de aanvraag verstrekte gegevens, kan het bestuur de subsidievaststelling intrekken of wijzigen.
 
-3. Het bestuur is bevoegd de subsidievaststelling te wijzigen dan wel in te trekken wanneer de termijn, bedoeld in [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBR0036890&paragraaf=a&artikel=16&z=2015-08-01&g=2015-08-01) en [artikel 21, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036890&paragraaf=b&artikel=21&z=2015-08-01&g=2015-08-01), is overschreden en de aanvrager naar het oordeel van het bestuur hiervoor geen gegronde redenen heeft kunnen aanvoeren.
+3. Het bestuur is bevoegd de subsidievaststelling te wijzigen dan wel in te trekken wanneer de termijn, bedoeld in [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBR0036890&paragraaf=a&artikel=16&z=2017-01-01&g=2017-01-01) en [artikel 21, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036890&paragraaf=b&artikel=21&z=2017-01-01&g=2017-01-01), is overschreden en de aanvrager naar het oordeel van het bestuur hiervoor geen gegronde redenen heeft kunnen aanvoeren.
 
 4. Het bestuur is bevoegd de subsidievaststelling te wijzigen dan wel in te trekken op grond van het overlijden van de aanvrager.
 
@@ -166,7 +166,7 @@ Het bestuur stelt subsidies ter beschikking ten behoeve van een zelfevaluatie in
 
 ##### Artikel 13. Vereisten aanvrager
 
-1. De aanvrager van een subsidie bedoeld in [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0036890&paragraaf=a&artikel=12&z=2015-08-01&g=2015-08-01) is een natuurlijk persoon, ingeschreven in de gemeentelijke basisadministratie van Nederland en heeft ten minste één Nederlands- of Friestalig literair werk gepubliceerd bij of vertaald voor een uitgeverij op basis van een contract.
+1. De aanvrager van een subsidie bedoeld in [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0036890&paragraaf=a&artikel=12&z=2017-01-01&g=2017-01-01) is een natuurlijk persoon, ingeschreven in de gemeentelijke basisadministratie van Nederland en heeft ten minste één Nederlands- of Friestalig literair werk gepubliceerd bij of vertaald voor een uitgeverij op basis van een contract.
 
 2. Indien een eerdere aanvraag bij het Letterenfonds is afgewezen op grond van een kwaliteitscriterium uit een van de regelingen van het Letterenfonds of zijn rechtsvoorgangers, kan pas een aanvraag worden ingediend als een nieuw werk op zijn kwaliteit kan worden beoordeeld.
 
@@ -174,7 +174,7 @@ Het bestuur stelt subsidies ter beschikking ten behoeve van een zelfevaluatie in
 
 ##### Artikel 14. Aanvraag
 
-1. De aanvraag voor een subsidie bedoeld in [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0036890&paragraaf=a&artikel=12&z=2015-08-01&g=2015-08-01) dient te bevatten:
+1. De aanvraag voor een subsidie bedoeld in [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0036890&paragraaf=a&artikel=12&z=2017-01-01&g=2017-01-01) dient te bevatten:
 
 - a. een opzet voor een persoonlijk ontwikkelingsplan of voor een voorstudie en een globale planning van de activiteiten;
 
@@ -188,7 +188,7 @@ Het bestuur stelt subsidies ter beschikking ten behoeve van een zelfevaluatie in
 
 ##### Artikel 15. Beoordelingscriteria
 
-Een aanvraag voor een subsidie bedoeld in [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0036890&paragraaf=a&artikel=12&z=2015-08-01&g=2015-08-01) wordt getoetst aan:
+Een aanvraag voor een subsidie bedoeld in [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0036890&paragraaf=a&artikel=12&z=2017-01-01&g=2017-01-01) wordt getoetst aan:
 
 - a. de inhoudelijke kwaliteit van de geplande activiteiten;
 
@@ -272,7 +272,7 @@ De aanvraag bevat:
 
 ##### Artikel 23. Beoordelingscriteria
 
-1. Een aanvraag voor een subsidie zoals bedoeld in [artikel 18](https://wetten.overheid.nl/jci1.3:c:BWBR0036890&paragraaf=b&artikel=18&z=2015-08-01&g=2015-08-01) wordt getoetst aan:
+1. Een aanvraag voor een subsidie zoals bedoeld in [artikel 18](https://wetten.overheid.nl/jci1.3:c:BWBR0036890&paragraaf=b&artikel=18&z=2017-01-01&g=2017-01-01) wordt getoetst aan:
 
 - a. de literaire en inhoudelijke kwaliteit, alsook de artistieke meerwaarde ten opzichte van gedrukte media;
 
@@ -284,13 +284,13 @@ De aanvraag bevat:
 
 - e. de realiteitszin van de begroting, inclusief cofinanciering;
 
-- f. goed ondernemerschap, waarbij een correcte omgang met de in [artikel 22, onderdeel e](https://wetten.overheid.nl/jci1.3:c:BWBR0036890&paragraaf=b&artikel=22&z=2015-08-01&g=2015-08-01), genoemde intellectuele eigendomsrechten wordt betrokken;
+- f. goed ondernemerschap, waarbij een correcte omgang met de in [artikel 22, onderdeel e](https://wetten.overheid.nl/jci1.3:c:BWBR0036890&paragraaf=b&artikel=22&z=2017-01-01&g=2017-01-01), genoemde intellectuele eigendomsrechten wordt betrokken;
 
 - g. de keuze en degelijkheid van de samenwerkingsverbanden en partners.
 
 2. De beoordelingsfactoren voor projecten worden in onderlinge samenhang gewogen, waarbij voor toekenning van de aanvraag in ieder geval het oordeel over a, c, e en f positief dient te zijn.
 
-3. Projecten die grotendeels gericht zijn op Creatie als omschreven in [artikel 21, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036890&paragraaf=b&artikel=21&z=2015-08-01&g=2015-08-01), krijgen voorrang.
+3. Projecten die grotendeels gericht zijn op Creatie als omschreven in [artikel 21, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036890&paragraaf=b&artikel=21&z=2017-01-01&g=2017-01-01), krijgen voorrang.
 
 ##### Artikel 24. Verplichtingen subsidieontvanger
 
@@ -298,7 +298,7 @@ De aanvraag bevat:
 
 2. Als het bestuur de subsidieontvanger de in het vorige lid bedoelde verplichting oplegt, gaan het bestuur en de ontvanger binnen een jaar nadat de subsidie is vastgesteld een uitvoeringsovereenkomst aan. In deze overeenkomst wordt vastgelegd op welke wijze en onder welke voorwaarden de subsidie aan het Letterenfonds wordt terugbetaald.
 
-3. De subsidieontvanger van een subsidie bedoeld in [artikel 18](https://wetten.overheid.nl/jci1.3:c:BWBR0036890&paragraaf=b&artikel=18&z=2015-08-01&g=2015-08-01) houdt, met inachtneming van de privacyregelgeving, het bereik van het project bij en bewaart deze gedurende ten minste twee jaar na beëindiging van het project.
+3. De subsidieontvanger van een subsidie bedoeld in [artikel 18](https://wetten.overheid.nl/jci1.3:c:BWBR0036890&paragraaf=b&artikel=18&z=2017-01-01&g=2017-01-01) houdt, met inachtneming van de privacyregelgeving, het bereik van het project bij en bewaart deze gedurende ten minste twee jaar na beëindiging van het project.
 
 4. De subsidieontvanger is verplicht de door het Letterenfonds desgevraagde, voor de totstandkoming van de uitvoeringsovereenkomst benodigde, stukken tijdig en volledig aan te leveren.
 
@@ -306,73 +306,31 @@ De aanvraag bevat:
 
 ##### Artikel 25. Subsidiabele activiteit
 
-Het bestuur stelt subsidies ter beschikking ten behoeve van online tijdschriften.
+Vervallen
 
 ##### Artikel 26. Vereisten aanvrager
 
-1. De aanvrager is een in Nederland gevestigde rechtspersoon met volledige rechtsbevoegdheid, met als kernactiviteit het produceren van een tijdschrift en een aantoonbaar netwerk in het literaire veld.
-
-2. De aanvrager zorgt voor cofinanciering van ten minste één andere partij.
+Vervallen
 
 ##### Artikel 27. Hoogte van de subsidie
 
-De toe te kennen subsidie bedraagt maximaal 70% van de begrote, en door het Letterenfonds goedgekeurde, kosten en bedraagt per aanvraag een maximumbedrag dat wordt bekendgemaakt op de website van het Letterenfonds.
+Vervallen
 
 ##### Artikel 28. Aanvraag
 
-1. Aanvragen worden in één beoordelingsronde beoordeeld.
-
-2. De aanvraag bevat:
-
-- a. het redactionele concept van het online tijdschrift inclusief toekomstvisie en een overzicht met de aard, omvang en globale planning van de activiteiten;
-
-- b. een toelichting op de staat van dienst van de redactie;
-
-- c. een begroting van de verwachte baten en lasten van het project, voorzien van een toelichting per begrotingspost. Bij de baten wordt aangeven welke bedragen reeds zijn toegezegd door andere subsidiegevers of sponsors en in welk stadium van behandeling de aanvraag bij die partijen is;
-
-- d. een strategie m.b.t. marketing, publieksbereik en publieksparticipatie;
-
-- e. een toelichting op de op het online tijdschrift en op het daaraan ten grondslag liggende materiaal en op de broncode rustende intellectuele eigendomsrechten en hoe de verhouding tussen de aanvrager en de rechthebbenden op deze rechten is geregeld;
-
-- f. een toelichting op samenwerkingsverbanden en partners;
-
-- g. een toelichting op de technologie en hoe die technologie wordt ingezet voor de inhoud;
-
-- h. jaarrekening van het voorafgaande jaar en een recente kopie uittreksel Kamer van Koophandel.
+Vervallen
 
 ##### Artikel 29. Vereisten
 
-1. Het online tijdschrift is naar het oordeel van het bestuur voor 50% of meer literair van aard.
-
-2. Alle kopij ten behoeve van het online tijdschrift wordt geredigeerd en gecorrigeerd door de redactie.
-
-3. Het online tijdschrift bestaat voorafgaand aan het indienen van de aanvraag online meer dan 18 maanden.
-
-4. Vak-, wetenschappelijke en ledenbladen zijn uitgesloten van aanvragen met uitzondering van bladen voor de beroepspraktijk van schrijven en vertalen.
+Vervallen
 
 ##### Artikel 30. Beoordelingscriteria
 
-1. Alle aanvragen worden beoordeeld op de volgende factoren:
-
-- a. literaire, inhoudelijke en redactionele kwaliteit;
-
-- b. vernieuwing of toegevoegde waarde ten opzichte van het bestaande aanbod. In de praktijk betekent dat bij de subsidietoekenning wordt gekozen voor onderling verschillend georiënteerde online tijdschriften;
-
-- c. de benutting van de digitale omgeving/technologie en hoe die ingezet wordt voor de inhoud, evenals het gebruik van open source software en rechtendragende software;
-
-- d. strategie marketing en publieksbereik;
-
-- e. de realiteitszin van de begroting, inclusief cofinanciering;
-
-- f. goed ondernemerschap, waarbij de toelichting op een correcte omgang met de in [artikel 28, tweede lid, onderdeel e](https://wetten.overheid.nl/jci1.3:c:BWBR0036890&paragraaf=c&artikel=28&z=2015-08-01&g=2015-08-01), genoemde intellectuele eigendomsrechten wordt betrokken;
-
-- g. de toekomstvisie ten aanzien van het tijdschrift.
-
-2. De beoordelingsfactoren worden in onderlinge samenhang gewogen.
+Vervallen
 
 ##### Artikel 31. Verplichtingen subsidieontvanger
 
-De subsidieontvanger van een subsidie als bedoeld in [artikel 25](https://wetten.overheid.nl/jci1.3:c:BWBR0036890&paragraaf=c&artikel=25&z=2015-08-01&g=2015-08-01) stuurt het Letterenfonds elke zes maanden een gedetailleerd overzicht van het bereik van het online tijdschrift.
+Vervallen
 
 ### Slotbepalingen
 
