@@ -4,7 +4,7 @@ identifier: "BWBR0033007"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-01-01"
-last_updated: "2014-02-01"
+last_updated: "2017-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0033007"
 soort: "ministeriele-regeling"
@@ -39,9 +39,11 @@ Gelet op [artikel 252a, tweede lid, onderdeel c, en vierde lid, van Boek 7 van h
 
 Besluit:
 
+Treedt in werking op het tijdstip waarop de Wijzigingswet Burgerlijk Wetboek Boek 7, enz. (huurverhoging op grond van inkomen), Stb. 2013/89, in werking treedt.
+
 ##### Artikel 1
 
-1. In deze regeling wordt verstaan onder inspecteur: de inspecteur, bedoeld in [artikel 252a, tweede lid, onderdeel c, van Boek 7 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=252a).
+1. In deze regeling wordt verstaan onder inspecteur: de inspecteur, bedoeld in [artikel 252a, tweede lid, onderdeel e, van Boek 7 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=252a).
 
 2.
 
@@ -53,7 +55,7 @@ De verhuurder, bedoeld in [artikel 252a, vierde lid, van Boek 7 van het Burgerli
 
 Het verzoek om een verklaring als bedoeld in [artikel 252a, vierde lid, van Boek 7 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=252a) wordt op de door de inspecteur aangegeven wijze langs elektronische weg gedaan.
 
-2. Het verzoek, bedoeld in het eerste lid, wordt niet gedaan dan nadat de verhuurder, bedoeld in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0033007&artikel=1&z=2014-02-01&g=2014-02-01), op de door de inspecteur aangegeven wijze langs elektronische wijze een aanmeldprocedure heeft doorlopen.
+2. Het verzoek, bedoeld in het eerste lid, wordt niet gedaan dan nadat de verhuurder, bedoeld in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0033007&artikel=1&z=2017-01-01&g=2017-01-01), op de door de inspecteur aangegeven wijze langs elektronische wijze een aanmeldprocedure heeft doorlopen.
 
 3. De inspecteur maakt bekend in welke periode of perioden in een kalenderjaar het verzoek, bedoeld in het eerste lid, kan worden gedaan en de aanmeldprocedure, bedoeld in het tweede lid, kan worden doorlopen.
 
