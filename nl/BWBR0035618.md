@@ -4,7 +4,7 @@ identifier: "BWBR0035618"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-07-12"
-last_updated: "2015-01-01"
+last_updated: "2017-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0035618"
 soort: "ministeriele-regeling"
@@ -42,11 +42,11 @@ Besluit:
 
 ##### Artikel 1. Vaststelling regio’s
 
-De regio’s, bedoeld in [artikel 2.3.1, tweede lid, eerste volzin, van de Wet educatie en beroepsonderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=2.3.1) worden vastgesteld als aangegeven in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0035618&bijlage=1&z=2015-01-01&g=2015-01-01) bij deze regeling.
+De regio’s, bedoeld in [artikel 2.3.1, tweede lid, eerste volzin, van de Wet educatie en beroepsonderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=2.3.1) worden vastgesteld als aangegeven in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0035618&bijlage=1&z=2017-01-01&g=2017-01-01) bij deze regeling.
 
 ##### Artikel 2. Aanwijzing contactgemeenten
 
-De contactgemeenten, bedoeld in [artikel 2.3.1, tweede lid, tweede volzin, van de Wet educatie en beroepsonderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=2.3.1) worden aangewezen als aangegeven in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0035618&bijlage=2&z=2015-01-01&g=2015-01-01) bij deze regeling.
+De contactgemeenten, bedoeld in [artikel 2.3.1, tweede lid, tweede volzin, van de Wet educatie en beroepsonderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=2.3.1) worden aangewezen als aangegeven in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0035618&bijlage=2&z=2017-01-01&g=2017-01-01) bij deze regeling.
 
 ##### Artikel 3. [Uitvoeringsregeling WEB 2007](https://wetten.overheid.nl/jci1.3:c:BWBR0024795)
 
@@ -54,7 +54,7 @@ Wijzigt de Uitvoeringsregeling WEB 2007.
 
 ##### Artikel 4. Intrekken regeling
 
-De [Regeling contacturen opleidingen educatie](https://wetten.overheid.nl/jci1.3:c:BWBR0032449&wetgeving) wordt ingetrokken.
+De [Regeling contacturen opleidingen educatie](https://wetten.overheid.nl/jci1.3:c:BWBR0032449) wordt ingetrokken.
 
 ##### Artikel 5. Citeertitel
 
@@ -64,18 +64,18 @@ Deze regeling wordt aangehaald als: Regeling regio’s en contactgemeenten educa
 
 Deze regeling treedt in werking met ingang van 1 januari 2015.
 
-## Bijlage 1. Vaststelling regio’s, behorende bij [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0035618&artikel=1&z=2015-01-01&g=2015-01-01) van de Regeling regio’s en contactgemeenten educatie
+## Bijlage 1. Vaststelling regio’s, behorende bij [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0035618&artikel=1&z=2017-01-01&g=2017-01-01) van de Regeling regio’s en contactgemeenten educatie
 
 |   | De regio educatie | omvat de volgende gemeenten: |
 | --- | --- | --- |
 | **1** | **Groningen** | Aa en Hunze, Appingedam, Assen, Bedum, Bellingwedde, De Marne, Delfzijl, Eemsmond, Groningen, Grootegast, Haren, Hoogezand-Sappemeer, Leek, Loppersum, Marum, Menterwolde, Noordenveld, Oldambt, Pekela, Slochteren, Stadskanaal, Ten Boer, Tynaarlo, Veendam, Vlagtwedde, Winsum, Zuidhorn |
 | **2** | **Friesland** | Achtkarspelen, Ameland, Dantumadiel, De Friese Meren, Dongeradeel, Ferwerderadiel, Franekeradeel, Harlingen, Heerenveen, Het Bildt, Kollumerland en Nieuwkruisland, Leeuwarden, Leeuwarderadeel, Littenseradiel, Menameradiel, Ooststellingwerf, Opsterland, Schiermonnikoog, Smallingerland, Súdwest Fryslân, Terschelling, Tytsjerksteradiel, Vlieland, Weststellingwerf |
-| **3** | **Noord-Holland Noord** | Alkmaar, Bergen NH, Castricum, Den Helder, Drechterland, Enkhuizen, Graft-De Rijp, Heerhugowaard, Heiloo, Hollands Kroon, Hoorn, Koggenland, Langedijk, Medemblik, Opmeer, Schagen, Schermer, Stede Broec, Texel |
+| **3** | **Noord-Holland Noord** | Alkmaar, Bergen NH, Castricum, Den Helder, Drechterland, Enkhuizen, Graft-De Rijp, Heerhugowaard, Heiloo, Hollands Kroon, Hoorn, Koggenland, Langedijk, Medemblik, Opmeer, Schagen, Schermer, Stede Broec, Texel, Uitgeest |
 | **4** | **Drenthe** | Borger-Odoorn, Coevorden, De Wolden, Emmen, Hoogeveen, Midden-Drenthe |
 | **5** | **IJsselvechtstreek** | Dalfsen, Hardenberg, Hattem, Heerde, Kampen, Meppel Oldebroek, Ommen, Raalte, Staphorst, Steenwijkerland, Westerveld, Zwartewaterland, Zwolle |
 | **6** | **Flevoland** | Almere, Dronten, Lelystad, Noordoostpolder, Urk |
 | **7** | **Zaanstreek/Waterland** | Beemster, Edam-Volendam, Landsmeer, Oostzaan, Purmerend, Waterland, Wormerland, Zaanstad, Zeevang |
-| **8** | **Zuid-Kennemerland** | Beverwijk, Bloemendaal, Haarlem, Haarlemmerliede en Spaarnwoude, Heemskerk, Heemstede, Uitgeest, Velsen, Zandvoort |
+| **8** | **Zuid-Kennemerland** | Beverwijk, Bloemendaal, Haarlem, Haarlemmerliede en Spaarnwoude, Heemskerk, Heemstede, Velsen, Zandvoort |
 | **9** | **Twente** | Almelo, Borne, Dinkelland, Enschede, Haaksbergen, Hellendoorn, Hengelo, Hof van Twente, Losser, Oldenzaal, Rijssen-Holten, Tubbergen, Twenterand, Wierden |
 | **10** | **Groot Amsterdam** | Aalsmeer, Amstelveen, Amsterdam, De Ronde Venen, Diemen, Haarlemmermeer, Ouder-Amstel, Uithoorn |
 | **11** | **Stedendriehoek en Noordwest Veluwe** | Apeldoorn, Brummen, Deventer, Elburg, Epe, Ermelo, Harderwijk, Lochem, Nunspeet, Olst-Wijhe, Putten, Voorst, Zeewolde, Zutphen |
@@ -104,7 +104,7 @@ Deze regeling treedt in werking met ingang van 1 januari 2015.
 | **34** | **Midden-Limburg** | Echt-Susteren, Leudal, Maasgouw, Nederweert, Roerdalen, Roermond, Weert |
 | **35** | **Zuid-Limburg** | Beek, Brunssum, Eijsden-Margraten, Gulpen-Wittem, Heerlen, Kerkrade, Landgraaf, Maastricht, Meerssen, Nuth, Onderbanken, Schinnen, Simpelveld, Sittard-Geleen, Stein, Vaals, Valkenburg aan de Geul, Voerendaal |
 
-## Bijlage 2. Aanwijzing contactgemeenten, behorende bij [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0035618&artikel=2&z=2015-01-01&g=2015-01-01) van de Regeling regio’s en contactgemeenten educatie
+## Bijlage 2. Aanwijzing contactgemeenten, behorende bij [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0035618&artikel=2&z=2017-01-01&g=2017-01-01) van de Regeling regio’s en contactgemeenten educatie
 
 |   | De regio | heeft de volgende contactgemeente |
 | --- | --- | --- |
