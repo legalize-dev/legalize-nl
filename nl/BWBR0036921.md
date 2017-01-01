@@ -4,7 +4,7 @@ identifier: "BWBR0036921"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2018-06-23"
-last_updated: "2016-01-01"
+last_updated: "2017-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0036921"
 soort: "ministeriele-regeling"
@@ -46,7 +46,7 @@ Besluit:
 
 Voor de toepassing van Titel III, Hoofdstuk 1, van [Verordening (EG) nr. 883/2004](32004R0883) van het Europees Parlement en de Raad van 29 april 2004 betreffende de coördinatie van de sociale zekerheidsstelsels worden aangewezen als bevoegd orgaan in de zin van artikel 1, onderdeel q, onder iii, van genoemde verordening, voor personen bedoeld in [artikel 69, eerste lid, van de Zorgverzekeringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&artikel=69):
 
-- •. voor de registratie, de heffing van de wettelijke bijdrage voor geneeskundige zorg, de verstrekking van de documenten voor de uitoefening van het recht op verstrekkingen bedoeld in Titel III, Hoofdstuk I van [Verordening (EG) Nr. 987/2009](32009R0987) van het Europees Parlement en de Raad van 16 september 2009 en de vergoeding van de kosten van verstrekkingen bij tijdelijk verblijf in een ander land dan het woonland of Nederland: het Zorginstituut Nederland in Diemen;
+- •. voor de registratie, de heffing van de wettelijke bijdrage voor geneeskundige zorg, de verstrekking van de documenten voor de uitoefening van het recht op verstrekkingen bedoeld in Titel III, Hoofdstuk I van [Verordening (EG) Nr. 987/2009](32009R0987) van het Europees Parlement en de Raad van 16 september 2009 en de vergoeding van de kosten van verstrekkingen bij tijdelijk verblijf in een ander land dan het woonland of Nederland: het CAK in Den Haag;
 
 - •. voor het verlenen en vergoeden van verstrekkingen tijdens een verblijf in Nederland: Zilveren Kruis Zorgverzekeringen N.V. in Utrecht.
 
@@ -60,7 +60,7 @@ Voor de toepassing van Titel III, Hoofdstuk 1, van [Verordening (EG) nr. 883/200
 
 ##### Artikel 3
 
-Voor de toepassing van Titel III, Hoofdstuk 1, van [Verordening (EG) nr. 883/2004](32004R0883) van het Europees Parlement en de Raad van 29 april 2004 betreffende de coördinatie van de sociale zekerheidsstelsels wordt aangewezen als verbindingsorgaan in de zin van artikel 1, tweede lid, onderdeel b, van [Verordening (EG) nr. 987/2009](32009R0987) van het Europees Parlement en de Raad van 16 september 2009 tot vaststelling van de wijze van toepassing van [Verordening (EG) nr. 883/2004](32004R0883) betreffende de coördinatie van de sociale zekerheidsstelsels: het Zorginstituut Nederland in Diemen.
+Voor de toepassing van Titel III, Hoofdstuk 1, van [Verordening (EG) nr. 883/2004](32004R0883) van het Europees Parlement en de Raad van 29 april 2004 betreffende de coördinatie van de sociale zekerheidsstelsels wordt aangewezen als verbindingsorgaan in de zin van artikel 1, tweede lid, onderdeel b, van [Verordening (EG) nr. 987/2009](32009R0987) van het Europees Parlement en de Raad van 16 september 2009 tot vaststelling van de wijze van toepassing van [Verordening (EG) nr. 883/2004](32004R0883) betreffende de coördinatie van de sociale zekerheidsstelsels: het CAK in Den Haag.
 
 ##### Artikel 4
 
