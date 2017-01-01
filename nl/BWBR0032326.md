@@ -4,7 +4,7 @@ identifier: "BWBR0032326"
 country: "nl"
 rank: "beleidsregel"
 publication_date: "2025-02-11"
-last_updated: "2016-10-01"
+last_updated: "2017-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0032326"
 soort: "beleidsregel"
@@ -186,9 +186,9 @@ In de hieronder staande tabel wordt per beboetbaar artikel van de Arboregelgevin
 
 12 De ZO luidt: Het bij plaatsonafhankelijke arbeid ontbreken of het onjuist toepassen van voorgeschreven beveiligingen, alsmede het overbruggen dan wel buiten werking stellen van noodzakelijke beveiligingen aan arbeidsmiddelen.
 
-13 De ODB luidt: Het aanvangen met werkzaamheden op een bouwplaats zonder schriftelijke kennisgeving aan de Inspectie SZW over de voorgenomen totstandbrenging van het bouwwerk.
+13 De OBD luidt: Het aanvangen met werkzaamheden op een bouwplaats zonder schriftelijke kennisgeving aan de Inspectie SZW over de voorgenomen totstandkoming van het bouwwerk.
 
-14 De ODB luidt: Het ontbreken van een veiligheids- en gezondheidsplan ten aanzien van bouwwerken zoals gedefinieerd in het [Arbobesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498).
+14 De OBD luidt: het ontbreken van een veiligheid- en gezondheidsplan ten aanzien van bouwwerken zoals gedefinieerd in het Arbobesluit.
 
 15 De ODB luidt: Het ontbreken van een veiligheids- en gezondheidsdocument ten aanzien van werkzaamheden verricht in de winningsindustrie in dagbouw, ondergronds of met behulp van boringen.
 
