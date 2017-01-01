@@ -4,7 +4,7 @@ identifier: "BWBR0029331"
 country: "nl"
 rank: "ministeriele_regeling_bes"
 publication_date: "2025-04-01"
-last_updated: "2016-01-01"
+last_updated: "2017-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0029331"
 soort: "ministeriele-regeling-BES"
@@ -39,6 +39,8 @@ Gelet op de [artikelen 8](https://wetten.overheid.nl/jci1.3:c:BWBR0029283&artike
 
 Besluit:
 
+Treedt in werking om 0:00 uur in de openbare lichamen Bonaire, Sint Eustatius en Saba en om 05:00 uur in het Europese deel van Nederland.
+
 ##### Artikel 1
 
 Deze regeling geeft uitvoering aan de [artikelen 8](https://wetten.overheid.nl/jci1.3:c:BWBR0029283&artikel=8) en [12A van de Wet loonbelasting BES](https://wetten.overheid.nl/jci1.3:c:BWBR0029283&artikel=12a) en [artikel 58 van de Wet inkomstenbelasting BES](https://wetten.overheid.nl/jci1.3:c:BWBR0029281&artikel=58).
@@ -47,27 +49,27 @@ Deze regeling geeft uitvoering aan de [artikelen 8](https://wetten.overheid.nl/j
 
 Als loonbelasting- en premietabellen worden vastgesteld:
 
-- a. de halvedagtabel, opgenomen in [bijlage A](https://wetten.overheid.nl/jci1.3:c:BWBR0029331&bijlage=A&z=2016-01-01&g=2016-01-01);
+- a. de halvedagtabel, opgenomen in [bijlage A](https://wetten.overheid.nl/jci1.3:c:BWBR0029331&bijlage=A&z=2017-01-01&g=2017-01-01);
 
-- b. de dagtabel, opgenomen in [bijlage B](https://wetten.overheid.nl/jci1.3:c:BWBR0029331&bijlage=B&z=2016-01-01&g=2016-01-01);
+- b. de dagtabel, opgenomen in [bijlage B](https://wetten.overheid.nl/jci1.3:c:BWBR0029331&bijlage=B&z=2017-01-01&g=2017-01-01);
 
-- c. de weektabel, opgenomen in [bijlage C](https://wetten.overheid.nl/jci1.3:c:BWBR0029331&bijlage=C&z=2016-01-01&g=2016-01-01);
+- c. de weektabel, opgenomen in [bijlage C](https://wetten.overheid.nl/jci1.3:c:BWBR0029331&bijlage=C&z=2017-01-01&g=2017-01-01);
 
-- d. de tweeweken(quincena)tabel, opgenomen in [bijlage D](https://wetten.overheid.nl/jci1.3:c:BWBR0029331&bijlage=D&z=2016-01-01&g=2016-01-01);
+- d. de tweeweken(quincena)tabel, opgenomen in [bijlage D](https://wetten.overheid.nl/jci1.3:c:BWBR0029331&bijlage=D&z=2017-01-01&g=2017-01-01);
 
-- e. de maandtabel, opgenomen in [bijlage E](https://wetten.overheid.nl/jci1.3:c:BWBR0029331&bijlage=E&z=2016-01-01&g=2016-01-01);
+- e. de maandtabel, opgenomen in [bijlage E](https://wetten.overheid.nl/jci1.3:c:BWBR0029331&bijlage=E&z=2017-01-01&g=2017-01-01);
 
-- f. de kwartaaltabel, opgenomen in [bijlage F](https://wetten.overheid.nl/jci1.3:c:BWBR0029331&bijlage=F&z=2016-01-01&g=2016-01-01).
+- f. de kwartaaltabel, opgenomen in [bijlage F](https://wetten.overheid.nl/jci1.3:c:BWBR0029331&bijlage=F&z=2017-01-01&g=2017-01-01).
 
-- g. de tabel bijzondere beloningen, opgenomen in [bijlage G](https://wetten.overheid.nl/jci1.3:c:BWBR0029331&bijlage=G&z=2016-01-01&g=2016-01-01).
+- g. de tabel bijzondere beloningen, opgenomen in [bijlage G](https://wetten.overheid.nl/jci1.3:c:BWBR0029331&bijlage=G&z=2017-01-01&g=2017-01-01).
 
 ##### Artikel 3
 
-De loonbelasting- en premietabellen, genoemd in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0029331&artikel=2&z=2016-01-01&g=2016-01-01), zijn van toepassing op de in [artikel 2 van de Wet loonbelasting BES](https://wetten.overheid.nl/jci1.3:c:BWBR0029283&artikel=2) genoemde werknemers.
+De loonbelasting- en premietabellen, genoemd in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0029331&artikel=2&z=2017-01-01&g=2017-01-01), zijn van toepassing op de in [artikel 2 van de Wet loonbelasting BES](https://wetten.overheid.nl/jci1.3:c:BWBR0029283&artikel=2) genoemde werknemers.
 
 ##### Artikel 4
 
-De bij deze regeling behorende [bijlagen A tot en met G](https://wetten.overheid.nl/jci1.3:c:BWBR0029331&bijlage=A&z=2016-01-01&g=2016-01-01) liggen, inclusief toelichting, ter inzage bij de Directie Directe belastingen van het Ministerie van Financiën.
+De bij deze regeling behorende [bijlagen A tot en met G](https://wetten.overheid.nl/jci1.3:c:BWBR0029331&bijlage=A&z=2017-01-01&g=2017-01-01) liggen, inclusief toelichting, ter inzage bij de Directie Directe belastingen van het Ministerie van Financiën.
 
 ##### Artikel 5
 
