@@ -4,7 +4,7 @@ identifier: "BWBR0009071"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-01-01"
-last_updated: "2014-04-01"
+last_updated: "2017-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0009071"
 soort: "ministeriele-regeling"
@@ -121,7 +121,7 @@ Indien van deze afwijkingsmogelijkheid gebruik wordt gemaakt mogen de modellen C
 
 - c. Op een aanhangwagen achter een motorrijtuig waarvoor een GV-kenteken is opgegeven, mag een kentekenplaat met het voor het trekkend motorrijtuig opgegeven kenteken worden gevoerd volgens de modellen 27.24A tot en met 27.25C.
 
-- d. Indien een niet-kentekenplichtige aanhangwagen wordt voortbewogen door een motorrijtuig dat moet worden voorzien van handelaarskentekenplaten, geldt deze verplichting ook voor die aanhangwagen, met dien verstande dat de kentekenplaat in afwijking van [artikel 7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009071&artikel=7&z=2014-04-01&g=2014-04-01), aan de achterzijde van de aanhangwagen wordt aangebracht.
+- d. Indien een niet-kentekenplichtige aanhangwagen wordt voortbewogen door een motorrijtuig dat moet worden voorzien van handelaarskentekenplaten, geldt deze verplichting ook voor die aanhangwagen, met dien verstande dat de kentekenplaat in afwijking van [artikel 7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009071&artikel=7&z=2017-01-01&g=2017-01-01), aan de achterzijde van de aanhangwagen wordt aangebracht.
 
 - e. Op een aanhangwagen mag het kenteken niet zijn aangebracht op een kentekenplaat volgens het model 18.2A tot en met 18.2E van de bijlage.
 
@@ -133,7 +133,7 @@ Dit lid geldt niet voor motorrijtuigen die moeten zijn voorzien van kentekenplat
 
 7. Indien het kenteken van een motorrijtuig op meer dan drie wielen is aangebracht op een kentekenplaat volgens het model 18.2A tot en met 18.2E of 27.15A tot en met 27.16E van de bijlage, is het motorrijtuig aan de voor- en achterzijde voorzien van een kentekenplaat volgens hetzelfde model dan wel, voor wat betreft de modellen 27.15A tot en met 27.16E, van een kentekenplaat volgens één van deze modellen.
 
-8. In afwijking van de voorgaande leden moeten kentekens welke zijn opgegeven voor bromfietsen die geconstrueerd zijn voor een maximumsnelheid van ten hoogste 25 km/h zijn aangebracht op kentekenplaten in witte, onuitwisbare tekens op retroreflecterende achtergrond, volgens de modellen 30.3A tot en met 30.4D. De kleur van de achtergrond is lichtblauw. De kleur van de rand is wit. De in dit lid genoemde kleuren moeten voldoen aan de [Regeling eisen goedkeuring kentekenplaten 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0012172).
+8. In afwijking van de voorgaande leden moeten kentekens welke zijn opgegeven voor bromfietsen die geconstrueerd zijn voor een maximumsnelheid van ten hoogste 25 km/h niet zijnde speed-pedelecs, als bedoeld in [artikel 1, eerste lid, van het Reglement verkeersregels en verkeerstekens 1990](https://wetten.overheid.nl/jci1.3:c:BWBR0004825&artikel=1) zijn aangebracht op kentekenplaten in witte, onuitwisbare tekens op retroreflecterende achtergrond, volgens de modellen 30.3A tot en met 30.4D. De kleur van de achtergrond is lichtblauw. De kleur van de rand is wit. De in dit lid genoemde kleuren moeten voldoen aan de [Regeling eisen goedkeuring kentekenplaten 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0012172).
 
 ##### Artikel 4
 
@@ -187,7 +187,7 @@ Dit lid geldt niet voor motorrijtuigen die moeten zijn voorzien van kentekenplat
 
 1. Kentekenplaten zijn voorzien van een merk volgens model M.3 van de bijlage.
 
-2. In afwijking van het eerste lid zijn kentekenplaten voorzien van een merk overeenkomstig [artikel 5, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009071&artikel=5&z=2014-04-01&g=2014-04-01), zoals die artikelleden luidden vóór de inwerkingtreding van deze regeling, indien:
+2. In afwijking van het eerste lid zijn kentekenplaten voorzien van een merk overeenkomstig [artikel 5, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009071&artikel=5&z=2017-01-01&g=2017-01-01), zoals die artikelleden luidden vóór de inwerkingtreding van deze regeling, indien:
 
 - a. zij zijn afgegeven vóór 1 februari 2000;
 
@@ -265,11 +265,11 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst met ui
 
 ##### Artikel 8
 
-In afwijking van [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009071&artikel=3&z=2014-04-01&g=2014-04-01), mogen kentekens die zijn opgegeven voor het tijdstip van inwerkingtreding van de [wet van 12 mei 2005 tot wijziging van de Wegenverkeerswet 1994 en enkele andere wetten in verband met de invoering van een kentekenregistratiesysteem voor bromfietsen alsmede vaststelling van overgangsbepalingen in verband daarmee](https://wetten.overheid.nl/jci1.3:c:BWBR0018326) (Stb. 281), zijn aangebracht op kentekenplaten volgens model 18.2 of model 27.10 van de bijlage zoals deze bijlage luidde voor die datum, voor zover blijkens het kentekenregister voor het voeren van deze kentekenplaten toestemming is verleend.
+In afwijking van [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009071&artikel=3&z=2017-01-01&g=2017-01-01), mogen kentekens die zijn opgegeven voor het tijdstip van inwerkingtreding van de [wet van 12 mei 2005 tot wijziging van de Wegenverkeerswet 1994 en enkele andere wetten in verband met de invoering van een kentekenregistratiesysteem voor bromfietsen alsmede vaststelling van overgangsbepalingen in verband daarmee](https://wetten.overheid.nl/jci1.3:c:BWBR0018326) (Stb. 281), zijn aangebracht op kentekenplaten volgens model 18.2 of model 27.10 van de bijlage zoals deze bijlage luidde voor die datum, voor zover blijkens het kentekenregister voor het voeren van deze kentekenplaten toestemming is verleend.
 
 ##### Artikel 8a
 
-In afwijking van [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009071&artikel=2&z=2014-04-01&g=2014-04-01), mogen de kentekenplaten van de modellen 27.10, 27.17, 27.20 en 27.26 van de bijlage die zijn afgegeven voor 1 november 2011 zijn voorzien van de letter M van Model C.2 van de bijlage bij deze regeling zoals die luidde voor 1 november 2011.
+In afwijking van [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009071&artikel=2&z=2017-01-01&g=2017-01-01), mogen de kentekenplaten van de modellen 27.10, 27.17, 27.20 en 27.26 van de bijlage die zijn afgegeven voor 1 november 2011 zijn voorzien van de letter M van Model C.2 van de bijlage bij deze regeling zoals die luidde voor 1 november 2011.
 
 ## Bijlage
 
