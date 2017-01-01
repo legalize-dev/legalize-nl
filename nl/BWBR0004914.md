@@ -4,7 +4,7 @@ identifier: "BWBR0004914"
 country: "nl"
 rank: "amvb"
 publication_date: "2024-01-01"
-last_updated: "2016-07-01"
+last_updated: "2017-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0004914"
 soort: "AMvB"
@@ -100,21 +100,21 @@ Hebben goedgevonden en verstaan:
 
 - b. de terreinen en wateren gescheiden worden door een weg, dijk, spoorweg of waterloop, voor zover er een landschappelijke of functionele samenhang is tussen de terreinen en deze samenhang herkenbaar aanwezig is, of voor zover er een nauwe historische band bestaat tussen de terreinen.
 
-4. Voor de toepassing van het eerste lid, onderdeel **c**, worden tot de met houtopstanden bezette oppervlakte van de onroerende zaak mede gerekend kapvlakten, waarop een herplantplicht rust ingevolge de [Boswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002357) en welke niet groter zijn dan 15 percent van de oppervlakte van de met houtopstanden bezette terreinen tot ten hoogste 5 hectare, met dien verstande dat een kapvlakte van 0,5 hectare of minder wordt aangemerkt als een met houtopstanden bezet terrein.
+4. Voor de toepassing van het eerste lid, onderdeel **c**, worden tot de met houtopstanden bezette oppervlakte van de onroerende zaak mede gerekend kapvlakten, waarop een herplantplicht rust ingevolge de [Wet natuurbescherming](https://wetten.overheid.nl/jci1.3:c:BWBR0037552) en welke niet groter zijn dan 15 percent van de oppervlakte van de met houtopstanden bezette terreinen tot ten hoogste 5 hectare, met dien verstande dat een kapvlakte van 0,5 hectare of minder wordt aangemerkt als een met houtopstanden bezet terrein.
 
 ##### Artikel 3
 
-1. [Artikel 2, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0004914&artikel=2&z=2016-07-01&g=2016-07-01), is niet van toepassing op een buitenplaats of een deel daarvan.
+1. [Artikel 2, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0004914&artikel=2&z=2017-01-01&g=2017-01-01), is niet van toepassing op een buitenplaats of een deel daarvan.
 
-2. [Artikel 2, eerste lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0004914&artikel=2&z=2016-07-01&g=2016-07-01), is niet van toepassing op een buitenplaats met een oppervlakte van minder dan vijf hectare of een deel daarvan.
+2. [Artikel 2, eerste lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0004914&artikel=2&z=2017-01-01&g=2017-01-01), is niet van toepassing op een buitenplaats met een oppervlakte van minder dan vijf hectare of een deel daarvan.
 
-3. [Artikel 2, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0004914&artikel=2&z=2016-07-01&g=2016-07-01), is niet van toepassing op een onroerende zaak met een oppervlakte van minder dan vijf hectare doch groter dan één hectare, indien:
+3. [Artikel 2, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0004914&artikel=2&z=2017-01-01&g=2017-01-01), is niet van toepassing op een onroerende zaak met een oppervlakte van minder dan vijf hectare doch groter dan één hectare, indien:
 
 - a. de onroerende zaak grenst aan een onroerende zaak die als landgoed is aangemerkt en de oppervlakte van beide onroerende zaken gezamenlijk ten minste vijf hectare bedraagt, of de onroerende zaak met één aangrenzende nog niet als landgoed aangemerkte onroerende zaak, gezamenlijk een oppervlakte van ten minste vijf hectare heeft; en
 
 - b. tussen beide onroerende zaken een nauwe historische band bestaat.
 
-4. [Artikel 2, eerste lid, onderdelen a en c](https://wetten.overheid.nl/jci1.3:c:BWBR0004914&artikel=2&z=2016-07-01&g=2016-07-01), is niet van toepassing op een onroerende zaak met een oppervlakte van ten hoogste één hectare, indien:
+4. [Artikel 2, eerste lid, onderdelen a en c](https://wetten.overheid.nl/jci1.3:c:BWBR0004914&artikel=2&z=2017-01-01&g=2017-01-01), is niet van toepassing op een onroerende zaak met een oppervlakte van ten hoogste één hectare, indien:
 
 - a. op de onroerende zaak een opstal is gelegen die vóór 1 januari 1940 is gebouwd en die na deze datum uiterlijk zijn karakter heeft behouden;
 
@@ -130,13 +130,13 @@ Hebben goedgevonden en verstaan:
 
 - c. opstallen die vóór 1 januari 1940 zijn gebouwd en die na deze datum uiterlijk hun karakter hebben behouden, voor zover een nauwe historische band bestaat tussen de opstal en het landgoed.
 
-6. In afwijking van [artikel 2, eerste lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0004914&artikel=2&z=2016-07-01&g=2016-07-01), kan een onroerende zaak, die nog niet voor ten minste 30 percent van de oppervlakte bestaat uit houtopstanden of natuurterreinen, als landgoed worden aangemerkt, indien, blijkens een beplantingsplan en blijkens het begin van de feitelijke uitvoering daarvan, het voornemen bestaat om de onroerende zaak in voldoende mate met houtopstanden te bezetten, mits de onroerende zaak naar het oordeel van Onze Ministers na afloop van de in [artikel 3a, eerste lid, van de Natuurschoonwet 1928](https://wetten.overheid.nl/jci1.3:c:BWBR0001939&artikel=3a) genoemde termijn aan alle voorwaarden voor aanmerking als landgoed zal voldoen.
+6. In afwijking van [artikel 2, eerste lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0004914&artikel=2&z=2017-01-01&g=2017-01-01), kan een onroerende zaak, die nog niet voor ten minste 30 percent van de oppervlakte bestaat uit houtopstanden of natuurterreinen, als landgoed worden aangemerkt, indien, blijkens een beplantingsplan en blijkens het begin van de feitelijke uitvoering daarvan, het voornemen bestaat om de onroerende zaak in voldoende mate met houtopstanden te bezetten, mits de onroerende zaak naar het oordeel van Onze Ministers na afloop van de in [artikel 3a, eerste lid, van de Natuurschoonwet 1928](https://wetten.overheid.nl/jci1.3:c:BWBR0001939&artikel=3a) genoemde termijn aan alle voorwaarden voor aanmerking als landgoed zal voldoen.
 
-7. Het in het vierde lid, onderdeel a, het vijfde lid, onderdeel c, en [artikel 5, eerste lid, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0004914&artikel=5&z=2016-07-01&g=2016-07-01), genoemde jaartal wordt telkens na het verstrijken van een periode van tien jaren na inwerkingtreding van dit lid met tien jaren verhoogd.
+7. Het in het vierde lid, onderdeel a, het vijfde lid, onderdeel c, en [artikel 5, eerste lid, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0004914&artikel=5&z=2017-01-01&g=2017-01-01), genoemde jaartal wordt telkens na het verstrijken van een periode van tien jaren na inwerkingtreding van dit lid met tien jaren verhoogd.
 
 ##### Artikel 4
 
-Als inbreuk makend op het natuurschoon, bedoeld in [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004914&artikel=2&z=2016-07-01&g=2016-07-01), wordt in ieder geval beschouwd de omstandigheid dat terreinen die tot de onroerende zaak behoren, zijn ingericht of worden gebruikt:
+Als inbreuk makend op het natuurschoon, bedoeld in [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004914&artikel=2&z=2017-01-01&g=2017-01-01), wordt in ieder geval beschouwd de omstandigheid dat terreinen die tot de onroerende zaak behoren, zijn ingericht of worden gebruikt:
 
 - a. voor industriële doeleinden;
 
@@ -152,11 +152,11 @@ Als inbreuk makend op het natuurschoon, bedoeld in [artikel 2, tweede lid](https
 
 - g. voor auto- of motorsport;
 
-- h. voor intensieve dag- of verblijfsrecreatie anders dan terreinen die zijn ingericht met inachtneming van het bepaalde in [artikel 6, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004914&artikel=6&z=2016-07-01&g=2016-07-01).
+- h. voor intensieve dag- of verblijfsrecreatie anders dan terreinen die zijn ingericht met inachtneming van het bepaalde in [artikel 6, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004914&artikel=6&z=2017-01-01&g=2017-01-01).
 
 ##### Artikel 5
 
-1. Onverminderd het bepaalde in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0004914&artikel=4&z=2016-07-01&g=2016-07-01) wordt als inbreuk makend op het natuurschoon, bedoeld in [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004914&artikel=2&z=2016-07-01&g=2016-07-01), in ieder geval niet beschouwd de omstandigheid dat op de onroerende zaak:
+1. Onverminderd het bepaalde in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0004914&artikel=4&z=2017-01-01&g=2017-01-01) wordt als inbreuk makend op het natuurschoon, bedoeld in [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004914&artikel=2&z=2017-01-01&g=2017-01-01), in ieder geval niet beschouwd de omstandigheid dat op de onroerende zaak:
 
 - a. parken of tuinen zijn gelegen, die behoren bij een buitenplaats;
 
@@ -182,7 +182,7 @@ Als inbreuk makend op het natuurschoon, bedoeld in [artikel 2, tweede lid](https
 
 ##### Artikel 6
 
-1. Als inbreuk makend op het natuurschoon, bedoeld in [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004914&artikel=2&z=2016-07-01&g=2016-07-01), wordt niet beschouwd de omstandigheid dat op de onroerende zaak een of meer kampeerterreinen zijn gelegen, mits:
+1. Als inbreuk makend op het natuurschoon, bedoeld in [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004914&artikel=2&z=2017-01-01&g=2017-01-01), wordt niet beschouwd de omstandigheid dat op de onroerende zaak een of meer kampeerterreinen zijn gelegen, mits:
 
 - a. op een onroerende zaak met een oppervlakte van ten minste 25 hectare niet meer dan één kampeerterrein is gelegen;
 
@@ -224,15 +224,15 @@ Als inbreuk makend op het natuurschoon, bedoeld in [artikel 2, tweede lid](https
 
 - c. een topografische kaart van de onroerende zaak, waarop de in het eerste lid, onderdeel b, onder 1° en 2°, bedoelde gegevens zijn aangegeven;
 
-- d. voor zover het betreft een aanvraag ten aanzien van een onroerende zaak als bedoeld in [artikel 3, eerste, tweede of vijfde lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0004914&artikel=3&z=2016-07-01&g=2016-07-01), een afschrift van de beschikking waarbij de onroerende zaak is aangewezen als rijksmonument als bedoeld in [artikel 1.1 van de Erfgoedwet](https://wetten.overheid.nl/jci1.3:c:BWBR0037521&artikel=1.1).
+- d. voor zover het betreft een aanvraag ten aanzien van een onroerende zaak als bedoeld in [artikel 3, eerste, tweede of vijfde lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0004914&artikel=3&z=2017-01-01&g=2017-01-01), een afschrift van de beschikking waarbij de onroerende zaak is aangewezen als rijksmonument als bedoeld in [artikel 1.1 van de Erfgoedwet](https://wetten.overheid.nl/jci1.3:c:BWBR0037521&artikel=1.1).
 
-- e. in geval een verzoek wordt gedaan om de onroerende zaak aan te merken als een landgoed met toepassing van [artikel 3, derde of vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004914&artikel=3&z=2016-07-01&g=2016-07-01), bewijsstukken waaruit de nauwe historische band als bedoeld in deze artikelleden en, indien van toepassing, [artikel 3, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004914&artikel=3&z=2016-07-01&g=2016-07-01), blijkt;
+- e. in geval een verzoek wordt gedaan om de onroerende zaak aan te merken als een landgoed met toepassing van [artikel 3, derde of vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004914&artikel=3&z=2017-01-01&g=2017-01-01), bewijsstukken waaruit de nauwe historische band als bedoeld in deze artikelleden en, indien van toepassing, [artikel 3, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004914&artikel=3&z=2017-01-01&g=2017-01-01), blijkt;
 
-3. In geval tot de onroerende zaak landbouwgrond als bedoeld in [artikel 1, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004914&artikel=1&z=2016-07-01&g=2016-07-01), behoort, worden tevens bewijsstukken overgelegd waaruit blijkt dat voldaan is aan de voorwaarden, genoemd in [artikel 1, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004914&artikel=1&z=2016-07-01&g=2016-07-01)
+3. In geval tot de onroerende zaak landbouwgrond als bedoeld in [artikel 1, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004914&artikel=1&z=2017-01-01&g=2017-01-01), behoort, worden tevens bewijsstukken overgelegd waaruit blijkt dat voldaan is aan de voorwaarden, genoemd in [artikel 1, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004914&artikel=1&z=2017-01-01&g=2017-01-01)
 
-4. Een verzoek om een onroerende zaak als landgoed aan te merken met toepassing van [artikel 3, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004914&artikel=3&z=2016-07-01&g=2016-07-01), wordt ingediend tezamen met het verzoek van de eigenaar van de in dat lid bedoelde nog niet als landgoed aangemerkte aangrenzende onroerende zaak om die zaak als landgoed aan te merken. Bij de verzoeken wordt tevens een gezamenlijke verklaring van de eigenaren van de onroerende zaken gevoegd, waarin zij om toepassing van [artikel 3, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004914&artikel=3&z=2016-07-01&g=2016-07-01), verzoeken. Indien beide onroerende zaken ieder een oppervlakte van minder dan 5 hectare hebben en één van de gezamenlijk ingediende verzoeken wordt afgewezen, wordt ook het andere verzoek afgewezen.
+4. Een verzoek om een onroerende zaak als landgoed aan te merken met toepassing van [artikel 3, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004914&artikel=3&z=2017-01-01&g=2017-01-01), wordt ingediend tezamen met het verzoek van de eigenaar van de in dat lid bedoelde nog niet als landgoed aangemerkte aangrenzende onroerende zaak om die zaak als landgoed aan te merken. Bij de verzoeken wordt tevens een gezamenlijke verklaring van de eigenaren van de onroerende zaken gevoegd, waarin zij om toepassing van [artikel 3, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004914&artikel=3&z=2017-01-01&g=2017-01-01), verzoeken. Indien beide onroerende zaken ieder een oppervlakte van minder dan 5 hectare hebben en één van de gezamenlijk ingediende verzoeken wordt afgewezen, wordt ook het andere verzoek afgewezen.
 
-5. Bij een verzoek om een onroerende zaak als landgoed aan te merken met toepassing van [artikel 3, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004914&artikel=3&z=2016-07-01&g=2016-07-01), worden tevens overgelegd:
+5. Bij een verzoek om een onroerende zaak als landgoed aan te merken met toepassing van [artikel 3, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004914&artikel=3&z=2017-01-01&g=2017-01-01), worden tevens overgelegd:
 
 - a. een beplantingsplan, waarvan het model door Onze Ministers wordt vastgesteld; en
 
