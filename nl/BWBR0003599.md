@@ -4,7 +4,7 @@ identifier: "BWBR0003599"
 country: "nl"
 rank: "amvb"
 publication_date: "2024-01-01"
-last_updated: "2002-01-01"
+last_updated: "2017-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0003599"
 soort: "AMvB"
@@ -48,11 +48,11 @@ Hebben goedgevonden en verstaan:
 
 ##### Artikel 1
 
-Werknemers die de leeftijd van 15 jaar doch niet die van 23 jaar hebben bereikt, hebben de aanspraak, bedoeld in [artikel 7, eerste lid, van de Wet minimumloon en minimumvakantiebijslag](https://wetten.overheid.nl/jci1.3:c:BWBR0002638&artikel=7).
+Werknemers die de leeftijd van 15 jaar doch niet die van 23 jaar hebben bereikt, hebben het recht, bedoeld in [artikel 7, eerste lid, van de Wet minimumloon en minimumvakantiebijslag](https://wetten.overheid.nl/jci1.3:c:BWBR0002638&artikel=7).
 
 ##### Artikel 2
 
-1. Het minimumloon waarop [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0003599&artikel=1&z=2002-01-01&g=2002-01-01) aanspraak geeft, bedraagt voor de hierna te onderscheiden leeftijdscategorieën het daarbij aan te geven percentage van het minimumloon, dat geldt ingevolge de [artikelen 8](https://wetten.overheid.nl/jci1.3:c:BWBR0002638&artikel=8), eerste lid en [14 van de Wet minimumloon en minimumvakantiebijslag](https://wetten.overheid.nl/jci1.3:c:BWBR0002638&artikel=14):
+1. Het minimumloon waarop [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0003599&artikel=1&z=2017-01-01&g=2017-01-01) recht geeft, bedraagt voor de hierna te onderscheiden leeftijdscategorieën het daarbij aan te geven percentage van het minimumloon, dat geldt ingevolge de [artikelen 8](https://wetten.overheid.nl/jci1.3:c:BWBR0002638&artikel=8), eerste lid en [14 van de Wet minimumloon en minimumvakantiebijslag](https://wetten.overheid.nl/jci1.3:c:BWBR0002638&artikel=14):
 
 de 22-jarigen: 85
 
@@ -78,9 +78,7 @@ Het Koninklijk besluit van 24 december 1980, houdende vaststelling van een minim
 
 ##### Artikel 4
 
-1. In afwijking van het in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0003599&artikel=2&z=2002-01-01&g=2002-01-01) bepaalde behouden werknemers, die op 30 juni 1983 uit hoofde van de arbeidsovereenkomst waarop hun dienstbetrekking berust aanspraak hebben op een minimumloon berekend volgens het in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0003599&artikel=3&z=2002-01-01&g=2002-01-01) genoemde Koninklijk besluit, aanspraak op een loon tenminste tot het voor hen op die datum geldende bedrag. Deze aanspraak geldt zolang de overeenkomst waarop de dienstbetrekking berust na 30 juni 1983 voortduurt dan wel gedurende een na die datum aangegane andere overeenkomst waarop een dienstbetrekking in de zin van de [Wet minimumloon en minimumvakantiebijslag](https://wetten.overheid.nl/jci1.3:c:BWBR0002638) berust, doch uiterlijk tot 1 juli 1984.
-
-2. Indien het minimumloon dat geldt ingevolge de [artikelen 8](https://wetten.overheid.nl/jci1.3:c:BWBR0002638&artikel=8), eerste lid, en [14 van de Wet minimumloon en minimumvakantiebijslag](https://wetten.overheid.nl/jci1.3:c:BWBR0002638&artikel=14) met ingang van een na 30 juni 1983 gelegen datum wordt verlaagd, worden de bedragen van het loon waarop ingevolge het eerste lid tenminste aanspraak bestaat, met ingang van dezelfde datum naar evenredigheid verlaagd. [Artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003599&artikel=2&z=2002-01-01&g=2002-01-01), is van overeenkomstige toepassing.
+Vervallen
 
 ##### Artikel 5
 
