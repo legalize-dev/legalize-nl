@@ -4,7 +4,7 @@ identifier: "BWBR0014569"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-04-01"
-last_updated: "2012-07-01"
+last_updated: "2017-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0014569"
 soort: "ministeriele-regeling"
@@ -55,11 +55,11 @@ In deze regeling wordt verstaan onder:
 
 1. De vergoeding voor de behandeling van een aanvraag voor een ontheffing van een verbod als bedoeld in:
 
-- a. de [artikelen 2, aanhef en onder B, C of D](https://wetten.overheid.nl/jci1.3:c:BWBR0001941&artikel=2), en [3, aanhef en onder B, C of D, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0001941&artikel=3) bedraagt € 1225;
+- a. de [artikelen 2, aanhef en onder B, C of D](https://wetten.overheid.nl/jci1.3:c:BWBR0001941&artikel=2), en [3, aanhef en onder B, C of D, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0001941&artikel=3) bedraagt € 1.000;
 
 - b. de [artikelen 2, aanhef en onder A](https://wetten.overheid.nl/jci1.3:c:BWBR0001941&artikel=2), en [3, aanhef en onder A, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0001941&artikel=3) bedraagt € 100.
 
-2. De jaarlijkse vergoeding voor een ontheffing van een verbod als bedoeld in de [artikelen 2, aanhef en onder, B, C, of D](https://wetten.overheid.nl/jci1.3:c:BWBR0001941&artikel=2), en [3, aanhef en onder B, C, of D, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0001941&artikel=3) bedraagt € 350.
+2. De jaarlijkse vergoeding voor een ontheffing van een verbod als bedoeld in de [artikelen 2, aanhef en onder, B, C, of D](https://wetten.overheid.nl/jci1.3:c:BWBR0001941&artikel=2), en [3, aanhef en onder B, C, of D, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0001941&artikel=3) bedraagt € 700.
 
 3.
 
