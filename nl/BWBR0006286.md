@@ -4,7 +4,7 @@ identifier: "BWBR0006286"
 country: "nl"
 rank: "wet"
 publication_date: "2024-07-01"
-last_updated: "2016-01-28"
+last_updated: "2017-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0006286"
 soort: "wet"
@@ -51,7 +51,7 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 ##### Artikel 2
 
-1. Boven en behalve de bezoldiging, bedoeld in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0006286&artikel=1&z=2016-01-28&g=2016-01-28), ontvangen ministers en staatssecretarissen op de voet van de regeling voor het burgerlijk rijkspersoneel een vakantie-uitkering en een eindejaarsuitkering.
+1. Boven en behalve de bezoldiging, bedoeld in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0006286&artikel=1&z=2018-01-01&g=2017-01-01), ontvangen ministers en staatssecretarissen op de voet van de regeling voor het burgerlijk rijkspersoneel een vakantie-uitkering en een eindejaarsuitkering.
 
 2. Bij algemene maatregel van bestuur worden regels gesteld ten aanzien van:
 
