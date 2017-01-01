@@ -4,7 +4,7 @@ identifier: "BWBR0038935"
 country: "nl"
 rank: "amvb"
 publication_date: "2017-01-01"
-last_updated: "2016-12-28"
+last_updated: "2017-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0038935"
 soort: "AMvB"
@@ -40,8 +40,6 @@ entry_into_force: "2016-12-28"
 
 Wijzigt het Algemeen inkomensbesluit socialezekerheidswetten.
 
-Dit onderdeel is nog niet inwerking getreden
-
 ##### Artikel II. [Besluit consumentenprijsindex voor kinderbijslagbedragen](https://wetten.overheid.nl/jci1.3:c:BWBR0022744)
 
 Wijzigt het Besluit consumentenprijsindex voor kinderbijslagbedragen.
@@ -68,8 +66,6 @@ Dit onderdeel is nog niet inwerking getreden
 
 Wijzigt het Besluit uitbreiding en beperking kring verzekerden volksverzekeringen 1999.
 
-Dit onderdeel is nog niet inwerking getreden
-
 ##### Artikel VII. [Besluit Wfsv](https://wetten.overheid.nl/jci1.3:c:BWBR0019070)
 
 Wijzigt het Besluit Wfsv.
@@ -78,7 +74,7 @@ Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel VIII. Inwerkingtreding
 
-Dit besluit treedt in werking met ingang van 1 januari 2017, met dien verstande dat [artikel II](https://wetten.overheid.nl/jci1.3:c:BWBR0038935&artikel=II&z=2016-12-28&g=2016-12-28) terug werkt tot en met 1 juli 2016, [artikel III](https://wetten.overheid.nl/jci1.3:c:BWBR0038935&artikel=III&z=2016-12-28&g=2016-12-28) terug werkt tot en met 1 april 2015, [artikel IV](https://wetten.overheid.nl/jci1.3:c:BWBR0038935&artikel=IV&z=2016-12-28&g=2016-12-28), inwerking treedt op de dag na de datum van uitgifte in het Staatsblad waarin dit besluit wordt geplaatst, met dien verstande dat onderdeel A terug werkt tot en met 1 januari 2008 en onderdeel C, terug werkt tot en met 1 juli 2015 en [artikel V, onderdeel B](https://wetten.overheid.nl/jci1.3:c:BWBR0038935&artikel=V&z=2016-12-28&g=2016-12-28), en [artikel VII](https://wetten.overheid.nl/jci1.3:c:BWBR0038935&artikel=VII&z=2016-12-28&g=2016-12-28) terug werken tot en met 28 oktober 2016.
+Dit besluit treedt in werking met ingang van 1 januari 2017, met dien verstande dat [artikel II](https://wetten.overheid.nl/jci1.3:c:BWBR0038935&artikel=II&z=2017-01-01&g=2017-01-01) terug werkt tot en met 1 juli 2016, [artikel III](https://wetten.overheid.nl/jci1.3:c:BWBR0038935&artikel=III&z=2017-01-01&g=2017-01-01) terug werkt tot en met 1 april 2015, [artikel IV](https://wetten.overheid.nl/jci1.3:c:BWBR0038935&artikel=IV&z=2017-01-01&g=2017-01-01), inwerking treedt op de dag na de datum van uitgifte in het Staatsblad waarin dit besluit wordt geplaatst, met dien verstande dat onderdeel A terug werkt tot en met 1 januari 2008 en onderdeel C, terug werkt tot en met 1 juli 2015 en [artikel V, onderdeel B](https://wetten.overheid.nl/jci1.3:c:BWBR0038935&artikel=V&z=2017-01-01&g=2017-01-01), en [artikel VII](https://wetten.overheid.nl/jci1.3:c:BWBR0038935&artikel=VII&z=2017-01-01&g=2017-01-01) terug werken tot en met 28 oktober 2016.
 
 ##### Artikel IX. Citeertitel
 
