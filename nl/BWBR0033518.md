@@ -4,7 +4,7 @@ identifier: "BWBR0033518"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2017-01-01"
-last_updated: "2013-06-17"
+last_updated: "2017-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0033518"
 soort: "ministeriele-regeling"
@@ -61,9 +61,11 @@ Als hoofdvliegcoördinator of coördinator kan uitsluitend worden aangewezen deg
 
 - a. de leeftijd van 18 jaren heeft bereikt,
 
-- b. beschikt over een geldig EHBO-diploma, en
+- b. beschikt over een geldig BHV-certificaat met eerste hulp en brandbestrijding of voldoet aan de militaire basisvaardigheden op het gebied van brandpreventie/-bestrijding en Zelf Hulp Kameraden Hulp (ZHKH),
 
-- c. voldoet aan de in de [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0033518&artikel=3&z=2013-06-17&g=2013-06-17) of [4](https://wetten.overheid.nl/jci1.3:c:BWBR0033518&artikel=4&z=2013-06-17&g=2013-06-17) voor de betrokken coördinator gestelde eisen met betrekking tot kennis en ervaring.
+- c. beschikt over kennis inzake alarmering, en
+
+- d. voldoet aan de in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0033518&artikel=3&z=2017-01-01&g=2017-01-01) of [4](https://wetten.overheid.nl/jci1.3:c:BWBR0033518&artikel=4&z=2017-01-01&g=2017-01-01) voor de betrokken coördinator gestelde eisen met betrekking tot kennis en ervaring.
 
 ##### Artikel 3. Hoofdvliegcoördinator
 
@@ -71,7 +73,7 @@ Als hoofdvliegcoördinator of coördinator kan uitsluitend worden aangewezen deg
 
 2. De hoofdvliegcoördinator voldoet aan de volgende eisen:
 
-- a. beschikken over voldoende luchtvaartkennis en luchtvaartervaring blijkens:
+- beschikken over voldoende luchtvaartkennis en luchtvaartervaring blijkens:
 
 - 1e. het bezit van een geldig militair vliegbewijs met ervaring in zweefvliegactiviteiten, of
 
@@ -79,9 +81,7 @@ Als hoofdvliegcoördinator of coördinator kan uitsluitend worden aangewezen deg
 
 - 3e. het bezit van een geldig zweefvliegbewijs met bevoegdverklaring sleepvliegen of zweefvliegonderricht of motorzweefvliegen, waarbij enige vliegervaring met gecombineerd motor- en zweefvliegen, indien dat op de desbetreffende militaire luchthaven wordt beoefend, gewenst is, of
 
-- 4e. een kwalificatie als militair of burgerluchtverkeersleider of gewezen militair of burgerluchtverkeersleider; en
-
-- b. beschikken over kennis inzake alarmering en gebruik en toepassing van de beschikbare brandbestrijdingsmiddelen.
+- 4°. een kwalificatie als militair of burgerluchtverkeersleider of gewezen militair of burgerluchtverkeersleider.
 
 ##### Artikel 4. Coördinator
 
@@ -156,7 +156,7 @@ Als hoofdvliegcoördinator of coördinator kan uitsluitend worden aangewezen deg
 
 9. Het motorsportvliegen is slechts toegestaan, indien:
 
-- a. brandblusmiddelen, bevattende ten minste 350 kg bluspoeder, ter plaatse aanwezig zijn;
+- a. brandblusmiddelen, bevattende ten minste de hoeveelheden, voorgeschreven in bijlage 14, deel 1, hoofdstuk 9.2, van het op 7 december 1944 te Chicago tot stand gekomen verdrag inzake de internationale burgerluchtvaart (Trb. 1973, 109), ter plaatse aanwezig zijn;
 
 - b. een met de bediening van de brandblusmiddelen bekend persoon ter plaatse aanwezig is;
 
@@ -190,7 +190,7 @@ Als hoofdvliegcoördinator of coördinator kan uitsluitend worden aangewezen deg
 
 - a. de lengte van de lierbaan is ten minste gelijk aan de lengte van de lierkabel;
 
-- b. de breedte van de lierbaan is ten minste 150 meter dan wel ten minste 100 meter mits aan één of weerszijden van de lierbaan een stuk grond is gelegen met een totale breedte van ten minste 50 meter dat als veiligsheidsstrook kan dienen;
+- b. de breedte van de lierbaan is ten minste 150 meter dan wel ten minste 100 meter mits aan één of weerszijden van de lierbaan een stuk grond is gelegen met een totale breedte van ten minste 50 meter dat als veiligheidsstrook kan dienen;
 
 - c. de veiligheidsstrook is vrij van obstakels en oneffenheden die gevaar kunnen opleveren bij een afgebroken start of noodlanding;
 
@@ -240,7 +240,7 @@ Als hoofdvliegcoördinator of coördinator kan uitsluitend worden aangewezen deg
 
 9. Sleepvluchten mogen slechts worden uitgevoerd, indien:
 
-- a. ter plaatse brandblusmiddelen aanwezig zijn, bestaande uit ten minste een draagbaar blustoestel met als inhoud 9 kilogram bluspoeder en een draagbaar blustoestel met als inhoud 9 liter schuimblusmiddel;
+- a. brandblusmiddelen, bevattende ten minste de hoeveelheden, voorgeschreven in bijlage 14, deel 1, hoofdstuk 9.2, van het op 7 december 1944 te Chicago tot stand gekomen verdrag inzake de internationale burgerluchtvaart (Trb. 1973, 109), ter plaatse aanwezig zijn;
 
 - b. een met de bediening van de brandblusmiddelen bekend persoon ter plaatse aanwezig is;
 
