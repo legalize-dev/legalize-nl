@@ -4,7 +4,7 @@ identifier: "BWBR0036672"
 country: "nl"
 rank: "wet"
 publication_date: "2017-01-01"
-last_updated: "2015-06-12"
+last_updated: "2017-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0036672"
 soort: "wet"
@@ -50,7 +50,7 @@ Wijzigt de Wet op de vennootschapsbelasting 1969.
 
 ##### Artikel II
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Wet op de vennootschapsbelasting 1969.
 
 ##### Artikel III
 
@@ -76,7 +76,7 @@ In afwijking van [artikel 8e, derde lid, eerste volzin, van de Wet op de vennoot
 
 1. Deze wet treedt in werking met ingang van de eerste dag na de datum van uitgifte van het Staatsblad waarin zij wordt geplaatst en vindt voor het eerst toepassing met betrekking tot boekjaren die aanvangen op of na 1 januari 2016.
 
-2. In afwijking van het eerste lid treedt [artikel II](https://wetten.overheid.nl/jci1.3:c:BWBR0036672&artikel=II&z=2015-06-12&g=2015-06-12) in werking op een bij koninklijk besluit te bepalen tijdstip.
+2. In afwijking van het eerste lid treedt [artikel II](https://wetten.overheid.nl/jci1.3:c:BWBR0036672&artikel=II&z=2017-01-01&g=2017-01-01) in werking op een bij koninklijk besluit te bepalen tijdstip.
 
 ##### Artikel IX
 
