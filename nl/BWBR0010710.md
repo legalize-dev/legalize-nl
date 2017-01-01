@@ -4,7 +4,7 @@ identifier: "BWBR0010710"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-04-01"
-last_updated: "2013-09-27"
+last_updated: "2017-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0010710"
 soort: "ministeriele-regeling"
@@ -88,7 +88,7 @@ Bij afwezigheid of verhindering van een gevolmachtigde wordt, voor de duur van d
 
 ##### Artikel 8
 
-De Secretaris-Generaal heeft volmacht ten aanzien van alle rechtshandelingen met uitsluiting van de rechtshandelingen die ingevolge [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0010710&hoofdstuk=4&artikel=11&z=2013-09-27&g=2013-09-27) door de Minister worden verricht.
+De Secretaris-Generaal heeft volmacht ten aanzien van alle rechtshandelingen met uitsluiting van de rechtshandelingen die ingevolge [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0010710&hoofdstuk=4&artikel=11&z=2013-09-27&g=2017-01-01) door de Minister worden verricht.
 
 ##### Artikel 9
 
@@ -144,7 +144,7 @@ De plaatsvervangend Secretaris-Generaal heeft volmacht ten aanzien van de rechts
 
 ##### Artikel 12
 
-In afwijking van [artikel 11, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0010710&hoofdstuk=4&artikel=11&z=2013-09-27&g=2013-09-27), hebben de volgende functionarissen volmacht om rechtshandelingen te verrichten waarbij een buitenlandse publiekrechtelijke rechtspersoon partij is:
+In afwijking van [artikel 11, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0010710&hoofdstuk=4&artikel=11&z=2013-09-27&g=2017-01-01), hebben de volgende functionarissen volmacht om rechtshandelingen te verrichten waarbij een buitenlandse publiekrechtelijke rechtspersoon partij is:
 
 - 1. de Secretaris-Generaal, de plaatsvervangend Secretaris-Generaal alsmede de Directeur-Generaal van het Rijksinstituut voor Volksgezondheid en Milieu, voorzover het gaat om rechtshandelingen die behoren tot het werkterrein van het Rijksinstituut voor Volksgezondheid en Milieu;
 
@@ -156,7 +156,7 @@ Vervallen
 
 ##### Artikel 14
 
-In afwijking van [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0010710&hoofdstuk=3&artikel=10&z=2013-09-27&g=2013-09-27) wordt uitsluitend aan de Directeur Financieel-Economische Zaken en door deze aan te wijzen kasbeheerders volmacht verleend om bankrekeningen te openen, te wijzigen en op te heffen.
+In afwijking van [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0010710&hoofdstuk=3&artikel=10&z=2013-09-27&g=2017-01-01) wordt uitsluitend aan de Directeur Financieel-Economische Zaken en door deze aan te wijzen kasbeheerders volmacht verleend om bankrekeningen te openen, te wijzigen en op te heffen.
 
 ##### Artikel 15
 
@@ -168,11 +168,11 @@ Vervallen
 
 1. De directeuren van beleidsdirecties en stafeenheden zijn bevoegd ondervolmacht te verlenen aan de directeur van een facilitaire eenheid.
 
-2. De functionarissen genoemd in [artikel 10, eerste lid, onder a tot en met n](https://wetten.overheid.nl/jci1.3:c:BWBR0010710&hoofdstuk=3&artikel=10&z=2013-09-27&g=2013-09-27), kunnen ondervolmacht verlenen:
+2. De functionarissen genoemd in [artikel 10, eerste lid, onder a tot en met n](https://wetten.overheid.nl/jci1.3:c:BWBR0010710&hoofdstuk=3&artikel=10&z=2013-09-27&g=2017-01-01), kunnen ondervolmacht verlenen:
 
-- a. tot een bedrag van € 25.000 inclusief btw aan anderen dan de in [artikel 10, eerste lid, onder n](https://wetten.overheid.nl/jci1.3:c:BWBR0010710&hoofdstuk=3&artikel=10&z=2013-09-27&g=2013-09-27), genoemde hoofden;
+- a. tot een bedrag van € 25.000 inclusief btw aan anderen dan de in [artikel 10, eerste lid, onder n](https://wetten.overheid.nl/jci1.3:c:BWBR0010710&hoofdstuk=3&artikel=10&z=2013-09-27&g=2017-01-01), genoemde hoofden;
 
-- b. in bijzondere gevallen tot een bedrag hoger dan € 25.000 inclusief btw, maar niet hoger dan € 100.000 inclusief btw, aan de in [artikel 10, eerste lid, onder n](https://wetten.overheid.nl/jci1.3:c:BWBR0010710&hoofdstuk=3&artikel=10&z=2013-09-27&g=2013-09-27), genoemde hoofden en de onder a van dit lid bedoelde functionarissen.
+- b. in bijzondere gevallen tot een bedrag hoger dan € 25.000 inclusief btw, maar niet hoger dan € 100.000 inclusief btw, aan de in [artikel 10, eerste lid, onder n](https://wetten.overheid.nl/jci1.3:c:BWBR0010710&hoofdstuk=3&artikel=10&z=2013-09-27&g=2017-01-01), genoemde hoofden en de onder a van dit lid bedoelde functionarissen.
 
 3. Ondervolmacht kan hetzij algemeen hetzij voor een bepaald geval verleend worden.
 
@@ -180,17 +180,17 @@ Vervallen
 
 5. Op ondervolmacht zijn de bepalingen van deze regeling van overeenkomstige toepassing.
 
-6. Van de volmachten, bedoeld in [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0010710&hoofdstuk=4&artikel=12&z=2013-09-27&g=2013-09-27), wordt geen ondervolmacht verleend.
+6. Van de volmachten, bedoeld in [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0010710&hoofdstuk=4&artikel=12&z=2013-09-27&g=2017-01-01), wordt geen ondervolmacht verleend.
 
 ### Hoofdstuk 6. Bijzonder ondervolmacht
 
 ##### Artikel 17
 
-1. Onverminderd [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0010710&hoofdstuk=4&artikel=11&z=2013-09-27&g=2013-09-27) kan de Secretaris-Generaal in het kader van een bepaald project en in andere bijzondere gevallen naast of in plaats van de op grond van de [Hoofdstukken 3](https://wetten.overheid.nl/jci1.3:c:BWBR0010710&hoofdstuk=3&z=2013-09-27&g=2013-09-27), [4](https://wetten.overheid.nl/jci1.3:c:BWBR0010710&hoofdstuk=4&z=2013-09-27&g=2013-09-27) en [5](https://wetten.overheid.nl/jci1.3:c:BWBR0010710&hoofdstuk=5&z=2013-09-27&g=2013-09-27) bevoegde functionarissen aan anderen de bevoegdheid verlenen in naam van de Minister privaatrechtelijke rechtshandelingen te verrichten.
+1. Onverminderd [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0010710&hoofdstuk=4&artikel=11&z=2013-09-27&g=2017-01-01) kan de Secretaris-Generaal in het kader van een bepaald project en in andere bijzondere gevallen naast of in plaats van de op grond van de [Hoofdstukken 3](https://wetten.overheid.nl/jci1.3:c:BWBR0010710&hoofdstuk=3&z=2013-09-27&g=2017-01-01), [4](https://wetten.overheid.nl/jci1.3:c:BWBR0010710&hoofdstuk=4&z=2013-09-27&g=2017-01-01) en [5](https://wetten.overheid.nl/jci1.3:c:BWBR0010710&hoofdstuk=5&z=2013-09-27&g=2017-01-01) bevoegde functionarissen aan anderen de bevoegdheid verlenen in naam van de Minister privaatrechtelijke rechtshandelingen te verrichten.
 
 2. Bijzondere ondervolmacht aan personen die geen ambtenaar zijn, wordt slechts verleend voor zover daartoe dwingende redenen zijn.
 
-3. Van de volmachten, bedoeld in [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0010710&hoofdstuk=4&artikel=12&z=2013-09-27&g=2013-09-27), wordt geen bijzondere ondervolmacht verleend.
+3. Van de volmachten, bedoeld in [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0010710&hoofdstuk=4&artikel=12&z=2013-09-27&g=2017-01-01), wordt geen bijzondere ondervolmacht verleend.
 
 ### Hoofdstuk 7. Bijzondere ondervolmacht
 
