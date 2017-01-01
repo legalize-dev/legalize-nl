@@ -4,7 +4,7 @@ identifier: "BWBR0002645"
 country: "nl"
 rank: "wet"
 publication_date: "2026-01-01"
-last_updated: "2016-01-01"
+last_updated: "2017-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0002645"
 soort: "wet"
@@ -47,25 +47,25 @@ In afwijking van de[afdelingen 4.4.4](https://wetten.overheid.nl/jci1.3:c:BWBR00
 
 ##### Artikel 2
 
-Voor het verzenden van een aanmaning tot betaling is verschuldigd € 7 bij een gevorderde som tot € 454 en € 15 bij een gevorderde som van € 454 of meer.
+Voor het verzenden van een aanmaning tot betaling is verschuldigd € 7 bij een gevorderde som tot € 454 en € 16 bij een gevorderde som van € 454 of meer.
 
 ##### Artikel 3
 
-1. Voor het betekenen van een dwangbevel met bevel tot betaling is verschuldigd € 39 verhoogd met € 3 van elk geheel bedrag van € 45 waarmee de gevorderde som € 45 te boven gaat, met dien verstande dat niet meer verschuldigd is dan € 11.599.
+1. Voor het betekenen van een dwangbevel met bevel tot betaling is verschuldigd € 40 verhoogd met € 3 van elk geheel bedrag van € 45 waarmee de gevorderde som € 45 te boven gaat, met dien verstande dat niet meer verschuldigd is dan € 11.970.
 
-2. Voor het ingevolge een wettelijk voorschrift doen van een ander exploot is verschuldigd € 15.
+2. Voor het ingevolge een wettelijk voorschrift doen van een ander exploot is verschuldigd € 16.
 
-3. Voor het geven van kwitantie door de ambtenaar belast met de tenuitvoerlegging van een dwangbevel ter zake van een aan deze gedane betaling ter afwering van lijfsdwang of van beslaglegging, niet zijnde een beslag onder derden, op goederen die geen registergoederen zijn, is verschuldigd € 15.
+3. Voor het geven van kwitantie door de ambtenaar belast met de tenuitvoerlegging van een dwangbevel ter zake van een aan deze gedane betaling ter afwering van lijfsdwang of van beslaglegging, niet zijnde een beslag onder derden, op goederen die geen registergoederen zijn, is verschuldigd € 16.
 
 4. Voor het ingevolge een wettelijk voorschrift voor 'gezien' doen tekenen van een exploot of ander stuk, aanplakken van een exploot en doen aankondigen van een gedaan exploot in een dagblad is, voor elk dezer handelingen, verschuldigd € 3.
 
 ##### Artikel 4
 
-1. Voor het in beslag nemen van een goed en het deswege opmaken van proces-verbaal is verschuldigd € 55. Voor de verkoop van een goed en het deswege opmaken van proces-verbaal is verschuldigd € 70. Duren de verrichtingen ter plaatse langer dan vier uren, dan worden de genoemde bedragen verhoogd met € 15 voor elk volgend uur of gedeelte daarvan.
+1. Voor het in beslag nemen van een goed en het deswege opmaken van proces-verbaal is verschuldigd € 56. Voor de verkoop van een goed en het deswege opmaken van proces-verbaal is verschuldigd € 72. Duren de verrichtingen ter plaatse langer dan vier uren, dan worden de genoemde bedragen verhoogd met € 16 voor elk volgend uur of gedeelte daarvan.
 
-Voor het bekendmaken van de verkoop door het aanslaan van de verkoopbiljetten, al dan niet gevolgd door het doen aankondigen van de verkoop in een dagblad is verschuldigd € 27.
+Voor het bekendmaken van de verkoop door het aanslaan van de verkoopbiljetten, al dan niet gevolgd door het doen aankondigen van de verkoop in een dagblad is verschuldigd € 28.
 
-2. Voor het ingevolge een wettelijk voorschrift opmaken van een ander proces-verbaal is verschuldigd € 15.
+2. Voor het ingevolge een wettelijk voorschrift opmaken van een ander proces-verbaal is verschuldigd € 16.
 
 3. Voor iedere getuige is verschuldigd € 5 per uur of gedeelte daarvan.
 
@@ -105,7 +105,7 @@ Lasten en bevelen, dat deze in het **Staatsblad** zal worden geplaatst, en dat a
 
 ##### Artikel 8
 
-1. Bij het begin van het kalenderjaar worden het eerste en het derde bedrag, genoemd in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0002645&artikel=2&z=2016-01-01&g=2016-01-01), het eerste, het tweede en het vijfde bedrag, genoemd in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002645&artikel=3&z=2016-01-01&g=2016-01-01), de bedragen, genoemd in [artikel 3, tweede tot en met vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002645&artikel=3&z=2016-01-01&g=2016-01-01), en de bedragen, genoemd in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0002645&artikel=4&z=2016-01-01&g=2016-01-01), bij ministeriële regeling vervangen door andere. Deze bedragen worden berekend door de te vervangen bedragen te vermenigvuldigen met de correctiefactor en vervolgens de nodig geachte afronding aan te brengen. Indien in het voorafgaande jaar een dergelijke afronding is toegepast, kan bij vervanging worden uitgegaan van het niet-afgeronde bedrag.
+1. Bij het begin van het kalenderjaar worden het eerste en het derde bedrag, genoemd in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0002645&artikel=2&z=2017-01-01&g=2017-01-01), het eerste, het tweede en het vijfde bedrag, genoemd in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002645&artikel=3&z=2017-01-01&g=2017-01-01), de bedragen, genoemd in [artikel 3, tweede tot en met vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002645&artikel=3&z=2017-01-01&g=2017-01-01), en de bedragen, genoemd in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0002645&artikel=4&z=2017-01-01&g=2017-01-01), bij ministeriële regeling vervangen door andere. Deze bedragen worden berekend door de te vervangen bedragen te vermenigvuldigen met de correctiefactor en vervolgens de nodig geachte afronding aan te brengen. Indien in het voorafgaande jaar een dergelijke afronding is toegepast, kan bij vervanging worden uitgegaan van het niet-afgeronde bedrag.
 
 2. De correctiefactor is de verhouding van het gemiddelde van de indexcijfers van de achttiende tot en met de zevende aan het kalenderjaar voorafgaande maand, tot het gemiddelde van de indexcijfers van de dertigste tot en met de negentiende aan het kalenderjaar voorafgaande maand.
 
