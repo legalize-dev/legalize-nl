@@ -4,7 +4,7 @@ identifier: "BWBR0035962"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-01-01"
-last_updated: "2016-01-01"
+last_updated: "2017-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0035962"
 soort: "ministeriele-regeling"
@@ -132,7 +132,7 @@ waarin:
 
 1. Een component van de bezoldiging wordt toegerekend aan de bezoldiging van het kalenderjaar waarin deze component in de salarisadministratie wordt verwerkt of, indien de component niet in de salarisadministratie wordt opgenomen, in het jaar waarin de component ten laste van het resultaat van de rechtspersoon of instelling komt.
 
-2. Voor de toetsing aan het toepasselijk bezoldigingsmaximum kan, in afwijking van het eerste lid, een component van de bezoldiging die betrekking heeft op een ander kalenderjaar dan waarin deze in de salarisadministratie wordt verwerkt, onderscheidenlijk ten laste van het resultaat van de rechtspersoon of instelling komt, toegerekend worden aan het kalenderjaar waarop deze betrekking heeft.
+2. Voor de toetsing aan het toepasselijk bezoldigingsmaximum kan, in afwijking van het eerste lid, een component van de bezoldiging die betrekking heeft op een eerder kalenderjaar dan waarin deze in de salarisadministratie wordt verwerkt, onderscheidenlijk ten laste van het resultaat van de rechtspersoon of instelling komt, toegerekend worden aan het kalenderjaar waarop deze betrekking heeft.
 
 ##### Artikel 4. De uitkeringen wegens beëindiging dienstverband
 
@@ -142,7 +142,9 @@ waarin:
 
 - b. de uitkering van een bedrag ineens of in termijnen uit hoofde van een afvloeiingsregeling;
 
-- c. de door de rechter vastgestelde uitkering wegens beëindiging van het dienstverband, met dien verstande dat de betaling van een door de rechter vastgestelde uitkering die het maximum, bedoeld in de [artikelen 2.10, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032249&artikel=2.10), en [3.7, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0032249&artikel=3.7) overschrijdt, niet onverschuldigd is.
+- c. de door de rechter vastgestelde uitkering wegens beëindiging van het dienstverband, met dien verstande dat de betaling van een door de rechter vastgestelde uitkering die het maximum, bedoeld in de [artikelen 2.10, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032249&artikel=2.10), en [3.7, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0032249&artikel=3.7) overschrijdt, niet onverschuldigd is;
+
+- d. de bezoldiging over een periode waarin de topfunctionaris vooruitlopend op de beëindiging van het dienstverband geen taken meer vervult.
 
 2. Tot de uitkeringen wegens beëindiging van het dienstverband wordt niet gerekend de uitkering wegens beëindiging van het dienstverband die voortvloeit uit een algemeen verbindend verklaarde collectieve arbeidsovereenkomst of een wettelijk voorschrift, doch slechts voor zover de uitkering rechtstreeks, dwingend en eenduidig daaruit voortvloeit.
 
@@ -172,12 +174,12 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 - c. de vergoeding voor de bureaukosten;
 
-- d. de componenten, bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035962&artikel=2&z=2017-05-02&g=2016-01-01), voor zover die niet onder onderdeel a, b of c, vallen, of een compensatie of bijdrage voor die componenten.
+- d. de componenten, bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035962&artikel=2&z=2017-07-01&g=2017-01-01), voor zover die niet onder onderdeel a, b of c, vallen, of een compensatie of bijdrage voor die componenten.
 
 2. Ten aanzien van de topfunctionaris zonder dienstbetrekking wordt in ieder geval niet tot de bezoldiging in de zin van de [wet](https://wetten.overheid.nl/jci1.3:c:BWBR0032249) gerekend:
 
 - a. de omzetbelasting;
 
-- b. de vergoedingen en verstrekkingen, bedoeld in [artikel 2, tweede lid, onderdeel e](https://wetten.overheid.nl/jci1.3:c:BWBR0035962&artikel=2&z=2017-05-02&g=2016-01-01).
+- b. de vergoedingen en verstrekkingen, bedoeld in [artikel 2, tweede lid, onderdeel e](https://wetten.overheid.nl/jci1.3:c:BWBR0035962&artikel=2&z=2017-07-01&g=2017-01-01).
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
