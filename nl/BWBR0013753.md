@@ -4,7 +4,7 @@ identifier: "BWBR0013753"
 country: "nl"
 rank: "amvb"
 publication_date: "2026-01-01"
-last_updated: "2016-01-01"
+last_updated: "2017-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0013753"
 soort: "AMvB"
@@ -46,6 +46,8 @@ Gezien het nader rapport van Onze Minister van Binnenlandse Zaken en Koninkrijks
 
 Hebben goedgevonden en verstaan:
 
+Werkt terug tot en met 1 januari 2001.
+
 ##### Artikel 1
 
 In dit besluit wordt verstaan onder:
@@ -86,9 +88,9 @@ In dit besluit wordt verstaan onder:
 
 - a. huur van een parkeerplaats, voor zover deze onderdeel uitmaakt van de ter beschikking gestelde verblijfsvoorziening;
 
-- b. beveiliging als bedoeld in [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013753&artikel=4&z=2016-01-01&g=2016-01-01);
+- b. beveiliging als bedoeld in [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013753&artikel=4&z=2017-01-01&g=2017-01-01);
 
-- c. informatie- en communicatievoorzieningen als bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0013753&artikel=5&z=2016-01-01&g=2016-01-01);
+- c. informatie- en communicatievoorzieningen als bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0013753&artikel=5&z=2017-01-01&g=2017-01-01);
 
 - d. gemeentelijke belastingen als bedoeld in [hoofdstuk XV van de Gemeentewet](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&hoofdstuk=XV) en waterschapsbelastingen als bedoeld in [artikel 123, eerste lid, onderdeel a, van de Waterschapswet](https://wetten.overheid.nl/jci1.3:c:BWBR0005108&artikel=123);
 
@@ -122,7 +124,7 @@ waarbij X gelijk is aan de het voor dienstreizen van het burgerlijk rijkspersone
 
 2. Indien dit om veiligheidsredenen noodzakelijk wordt geoordeeld, wordt aan ministers en staatssecretarissen een gemeubileerde verblijfsvoorziening ter beschikking gesteld.
 
-3. [Artikel 3, tweede en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013753&artikel=3&z=2016-01-01&g=2016-01-01), is van overeenkomstige toepassing.
+3. [Artikel 3, tweede en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013753&artikel=3&z=2017-01-01&g=2017-01-01), is van overeenkomstige toepassing.
 
 ##### Artikel 5
 
@@ -136,7 +138,7 @@ In het geval van binnenlandse en buitenlandse dienstreizen worden de noodzakelij
 
 1. Ministers en staatssecretarissen hebben voor de duur van de vervulling van hun ambt een dienstauto met chauffeur ter beschikking.
 
-2. De prijs per kilometer van de dienstauto bedraagt niet meer dan € 0,62 exclusief BTW, berekend op de grondslag van een gebruiksduur van twee jaar en 60.000 gereden kilometers per jaar.
+2. De prijs per kilometer van de dienstauto bedraagt niet meer dan € 0,60 exclusief BTW, berekend op de grondslag van een gebruiksduur van twee jaar en 60.000 gereden kilometers per jaar.
 
 3. Het bedrag, genoemd in het tweede lid, wordt per 1 januari van elk jaar bij ministeriële regeling gewijzigd overeenkomstig de procentuele wijziging van het prijsindexcijfer jaargemiddelde operationele autolease inclusief brandstof, zoals door het Centraal Bureau voor de Statistiek gepubliceerd, over het tweede kalenderjaar voorafgaand aan genoemde datum ten opzichte van hetzelfde indexcijfer over het jaar daaraan voorafgaand.
 
@@ -224,13 +226,13 @@ Aan ministers en staatssecretarissen worden de overige voorzieningen ter beschik
 
 2. De maandelijkse vergoeding, bedoeld in het eerste lid, bedraagt
 
-- a. voor Onze Minister-President, Minister van Algemene Zaken € 698,90;
+- a. voor Onze Minister-President, Minister van Algemene Zaken € 699,59;
 
-- b. voor Onze Minister van Buitenlandse Zaken € 698,90;
+- b. voor Onze Minister van Buitenlandse Zaken € 699,59;
 
-- c. voor een andere Minister € 349,44;
+- c. voor een andere Minister € 349,79;
 
-- d. voor een Staatssecretaris € 290,81.
+- d. voor een Staatssecretaris € 291,10.
 
 3. De maandelijkse vergoeding, bedoeld in het eerste lid, wordt aangewezen als een eindheffingsbestanddeel als bedoeld in [artikel 31, eerste lid, onderdeel f, van de Wet op de loonbelasting 1964](https://wetten.overheid.nl/jci1.3:c:BWBR0002471&artikel=31).
 
