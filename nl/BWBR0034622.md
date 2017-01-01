@@ -4,7 +4,7 @@ identifier: "BWBR0034622"
 country: "nl"
 rank: "pbo"
 publication_date: "2023-09-01"
-last_updated: "2016-07-01"
+last_updated: "2017-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0034622"
 soort: "pbo"
@@ -54,7 +54,7 @@ In deze verordening wordt verstaan onder:
 
 - –. **praktijkopleiding RA:** de praktijkopleiding passend bij een inschrijving in het accountantsregister met vermelding van de titel Registeraccountant;
 
-- –. **rapportage:** een rapportage als bedoeld in de [artikelen 12, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0033795&artikel=12) of [14, tweede lid, van de Verordening op de praktijkopleidingen](https://wetten.overheid.nl/jci1.3:c:BWBR0033795&artikel=14);
+- –. **rapportage:** een rapportage als bedoeld in [artikel 12, tweede lid van de Verordening op de praktijkopleidingen](https://wetten.overheid.nl/jci1.3:c:BWBR0033795&artikel=12);
 
 - –. **referaat:** een door de trainee in het derde praktijkopleidingsjaar te houden mondelinge presentatie over een daaraan door de trainee ten grondslag gelegde casusbeschrijving;
 
@@ -64,7 +64,7 @@ In deze verordening wordt verstaan onder:
 
 ##### Artikel 2
 
-1. Kandidaten die aan de praktijkopleiding willen deelnemen zijn eenmalig een deelnamebijdrage van € 825,– verschuldigd.
+1. Kandidaten die aan de praktijkopleiding willen deelnemen zijn eenmalig een deelnamebijdrage van € 830,– verschuldigd.
 
 2. Trainees zijn na verloop van vijf jaren na de aanvang van de praktijkopleiding een jaarlijkse bijdrage van € 230,– verschuldigd.
 
@@ -72,15 +72,15 @@ In deze verordening wordt verstaan onder:
 
 1. Trainees die verzoeken om een vrijstelling als bedoeld in [artikel 23 van de Verordening op de praktijkopleidingen](https://wetten.overheid.nl/jci1.3:c:BWBR0033795&artikel=23), zijn voor de beoordeling van hun verzoek een eenmalige bijdrage van € 100,– verschuldigd.
 
-2. Voor een nader onderzoek, bedoeld in [artikel 23, derde lid, van de Verordening op de praktijkopleidingen](https://wetten.overheid.nl/jci1.3:c:BWBR0033795&artikel=23), is de trainee een eenmalige bijdrage van € 500,– verschuldigd.
+2. Voor een nader onderzoek, bedoeld in [artikel 23, derde lid, van de Verordening op de praktijkopleidingen](https://wetten.overheid.nl/jci1.3:c:BWBR0033795&artikel=23), is de trainee een eenmalige bijdrage van € 505,– verschuldigd.
 
 ##### Artikel 4
 
-Trainees zijn voor de beoordeling van de afstudeerscriptie, bedoeld in [artikel 14, vierde lid, van de Verordening op de praktijkopleidingen](https://wetten.overheid.nl/jci1.3:c:BWBR0033795&artikel=14) en de afname van het mondeling examen, bedoeld in [artikel 15, tweede lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0033795&artikel=15), dan wel [artikel 17, tweede lid, onderdeel c, van de Verordening op de praktijkopleidingen](https://wetten.overheid.nl/jci1.3:c:BWBR0033795&artikel=17), een bedrag van € 575,– verschuldigd.
+Trainees zijn voor de afname van het mondeling examen, bedoeld in [artikel 15 van de Verordening op de praktijkopleidingen](https://wetten.overheid.nl/jci1.3:c:BWBR0033795&artikel=15), een bedrag van € 580,– verschuldigd.
 
 ##### Artikel 5
 
-Trainees zijn voor het afleggen van een aanvullende toets als bedoeld in de [artikelen 11, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0033795&artikel=11), of [13, tweede lid, van de Verordening op de praktijkopleidingen](https://wetten.overheid.nl/jci1.3:c:BWBR0033795&artikel=13), een bedrag van € 500,– verschuldigd.
+Trainees zijn voor het afleggen van een aanvullende toets als bedoeld in [artikel 11 van de Verordening op de praktijkopleidingen](https://wetten.overheid.nl/jci1.3:c:BWBR0033795&artikel=11) een bedrag van € 505,– verschuldigd.
 
 ##### Artikel 6
 
@@ -106,7 +106,7 @@ Aan trainees die gedurende de praktijkopleiding van stagebureau wijzigen, kan ee
 
 ##### Artikel 8
 
-De trainee heeft recht op restitutie van de helft van de deelnamebijdrage, bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034622&hoofdstuk=1&artikel=2&z=2016-07-01&g=2016-07-01), en [artikel 3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034622&hoofdstuk=1&artikel=3&z=2016-07-01&g=2016-07-01), indien hij of zij zich binnen zes maanden na de eerste datum van inschrijving voor de praktijkopleiding, schriftelijk bij het bestuur afmeldt.
+De trainee heeft recht op restitutie van de helft van de deelnamebijdrage, bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034622&hoofdstuk=1&artikel=2&z=2017-01-01&g=2017-01-01), en [artikel 3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034622&hoofdstuk=1&artikel=3&z=2017-01-01&g=2017-01-01), indien hij of zij zich binnen zes maanden na de eerste datum van inschrijving voor de praktijkopleiding, schriftelijk bij het bestuur afmeldt.
 
 #### Overgangsbepalingen
 
@@ -116,9 +116,9 @@ De trainee heeft recht op restitutie van de helft van de deelnamebijdrage, bedoe
 
 2. Artikel 2, tweede lid wordt voor trainees die zijn ingeschreven voor 1 januari 2012, voor het eerst toegepast vanaf 1 januari 2017.
 
-3. In het geval voor een trainee die voor 1 januari 2014 is ingeschreven bij het NBA stagebureau voor de praktijkopleiding AA, de toepassing van [artikel 7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034622&hoofdstuk=1&artikel=7&z=2016-07-01&g=2016-07-01), tot een verschuldigd bedrag leidt, dat hoger is dan het bedrag dat de trainee verschuldigd zou zijn geweest met toepassing van [artikel 3, eerste lid onderdeel a en b, van de Verordening op het examengeld](https://wetten.overheid.nl/jci1.3:c:BWBR0022559&artikel=3) zoals deze luidde voor de inwerkingtreding van deze verordening, dan ontvangt de trainee na een daartoe strekkend verzoek een restitutie van het verschil.
+3. In het geval voor een trainee die voor 1 januari 2014 is ingeschreven bij het NBA stagebureau voor de praktijkopleiding AA, de toepassing van [artikel 7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034622&hoofdstuk=1&artikel=7&z=2017-01-01&g=2017-01-01), tot een verschuldigd bedrag leidt, dat hoger is dan het bedrag dat de trainee verschuldigd zou zijn geweest met toepassing van [artikel 3, eerste lid onderdeel a en b, van de Verordening op het examengeld](https://wetten.overheid.nl/jci1.3:c:BWBR0022559&artikel=3) zoals deze luidde voor de inwerkingtreding van deze verordening, dan ontvangt de trainee na een daartoe strekkend verzoek een restitutie van het verschil.
 
-4. In het geval voor een trainee die voor 1 januari 2014 is ingeschreven bij het NBA stagebureau voor de praktijkopleiding RA, de toepassing van [artikel 7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034622&hoofdstuk=1&artikel=7&z=2016-07-01&g=2016-07-01), tot een verschuldigd bedrag leidt, dat hoger is dan het bedrag dat de trainee verschuldigd zou zijn geweest met toepassing van [artikel 2, tweede lid, van de Verordening op de geldelijke bijdragen praktijkstage](https://wetten.overheid.nl/jci1.3:c:BWBR0026501&artikel=2) zoals deze luidde voor de inwerkingtreding van deze verordening, dan ontvangt de trainee na een daartoe strekkend verzoek een restitutie van het verschil.
+4. In het geval voor een trainee die voor 1 januari 2014 is ingeschreven bij het NBA stagebureau voor de praktijkopleiding RA, de toepassing van [artikel 7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034622&hoofdstuk=1&artikel=7&z=2017-01-01&g=2017-01-01), tot een verschuldigd bedrag leidt, dat hoger is dan het bedrag dat de trainee verschuldigd zou zijn geweest met toepassing van [artikel 2, tweede lid, van de Verordening op de geldelijke bijdragen praktijkstage](https://wetten.overheid.nl/jci1.3:c:BWBR0026501&artikel=2) zoals deze luidde voor de inwerkingtreding van deze verordening, dan ontvangt de trainee na een daartoe strekkend verzoek een restitutie van het verschil.
 
 5. Een restitutie als bedoeld in het derde en vierde lid, wordt slechts verleend indien het daartoe strekkende verzoek is ingediend voor 1 januari 2015.
 
