@@ -4,7 +4,7 @@ identifier: "BWBR0011354"
 country: "nl"
 rank: "wet"
 publication_date: "2026-01-01"
-last_updated: "2016-01-01"
+last_updated: "2017-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0011354"
 soort: "wet"
@@ -540,6 +540,18 @@ De termijn van op 31 december 2000 bestaande schulden die zijn aangegaan ter ver
 
 - 6. In afwijking in zoverre van het derde lid, onderdeel b, wordt de kapitaalsuitkering uit een levensverzekering die niet of niet meer in aanmerking komt voor de vrijstelling, bedoeld in onderdeel AN, en waarvan de waarde in het economische verkeer op 31 december 2000 niet hoger is dan € 123 428, gesteld op de waarde in het economische verkeer van de levensverzekering op 1 januari 2001 onderscheidenlijk de datum waarop de vrijstelling, bedoeld in onderdeel AN, niet meer van toepassing is.
 
+- 7. In afwijking in zoverre van het eerste lid zijn de minimumtermijnen voor het jaarlijks voldoen van premies, bedoeld in artikel 26a, tweede lid, van de Wet op de inkomstenbelasting 1964, zoals dat luidde op 31 december 2000, niet van toepassing indien:
+
+- a. het partnerschap van de belastingplichtige is geëindigd en de kapitaalverzekering in het kader van de financiële afwikkeling daarvan tot uitkering komt;
+
+- b. de belastingplichtige schuldhulpverlening wordt geboden als bedoeld in de Wet gemeentelijke schuldhulpverlening;
+
+- c. de belastingplichtige een eigen woning heeft vervreemd en hem op het moment direct na die vervreemding nog steeds of opnieuw een eigen woning ter beschikking staat, of
+
+- d. Onze Minister heeft vastgesteld dat de belastingplichtige financiële problemen heeft en hij als gevolg daarvan niet meer in staat is de lasten met betrekking tot zijn eigen woning te voldoen of die lasten naar verwachting binnen afzienbare tijd niet meer zal kunnen voldoen.
+
+- 8. Het zevende lid is alleen van toepassing indien de uitkering zo veel als mogelijk heeft gediend als aflossing van de eigenwoningschuld, bedoeld in artikel 3.119a van de Wet inkomstenbelasting 2001, of als aflossing van een schuld die heeft geleid tot een negatief vervreemdingssaldo eigen woning als bedoeld in artikel 3.119aa, eerste lid, van die wet.
+
 - 1. Tot de bezittingen, bedoeld in [artikel 5.3, tweede lid, van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=5.3) behoren niet rechten op kapitaalsuitkeringen uit op 14 september 1999 bestaande levensverzekeringen tot een gezamenlijk bedrag van maximaal € 123 428.
 
 - 2. Indien de belastingplichtige het gehele kalenderjaar dezelfde partner in de zin van de [Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353) heeft of voor de toepassing van [artikel 2.17 van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=2.17) geacht wordt te hebben gehad, wordt het in het eerste lid genoemde bedrag voor de belastingplichtige en zijn partner gezamenlijk op € 246 856 gesteld.
@@ -564,7 +576,7 @@ De termijn van op 31 december 2000 bestaande schulden die zijn aangegaan ter ver
 
 - 3. Voor de toepassing van deze wet en de daarop berustende bepalingen wordt verstaan onder kapitaalverzekering eigen woning: een kapitaalverzekering eigen woning als bedoeld in [artikel 10bis.4 van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=10bis.4).
 
-- 1. Indien bij een belastingplichtige in de kalenderjaren 1992 tot en met 2000 een kapitaalsuitkering uit levensverzekering in aanmerking is genomen waarop artikel 26a, tweede lid, van de Wet op de inkomstenbelasting 1964 toepassing heeft gevonden, worden de in [artikel 10bis.6, eerste en zevende lid, van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=10bis.6) genoemde bedragen en het in onderdeel AN, eerste lid, genoemde bedrag verminderd. De vermindering is gelijk aan het bedrag van de kapitaalsuitkering uit levensverzekering ter zake waarvan de daarin begrepen rente op grond van artikel 26a, tweede lid, van de Wet op de inkomstenbelasting 1964 niet tot de inkomsten uit vermogen is gerekend.
+- 1. Indien bij een belastingplichtige in de kalenderjaren 1992 tot en met 2000 een kapitaalsuitkering uit levensverzekering in aanmerking is genomen waarop artikel 26a, tweede lid, van de Wet op de inkomstenbelasting 1964 toepassing heeft gevonden, worden de in [artikel 10bis.6, eerste en achtste lid, van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=10bis.6) genoemde bedragen en het in onderdeel AN, eerste lid, genoemde bedrag verminderd. De vermindering is gelijk aan het bedrag van de kapitaalsuitkering uit levensverzekering ter zake waarvan de daarin begrepen rente op grond van artikel 26a, tweede lid, van de Wet op de inkomstenbelasting 1964 niet tot de inkomsten uit vermogen is gerekend.
 
 - 2. Het eerste lid is van overeenkomstige toepassing op een kapitaalsuitkering uit levensverzekering na 31 december 2000 ter zake van een op 31 december 2000 bestaande levensverzekering, tenzij de levensverzekering met ingang van 1 januari 2001 als kapitaalverzekering eigen woning wordt aangemerkt.
 
@@ -572,7 +584,7 @@ De termijn van op 31 december 2000 bestaande schulden die zijn aangegaan ter ver
 
 - 4. Het in onderdeel AN, eerste lid, genoemde bedrag wordt verminderd met het bedrag aan uitkeringen uit een levensverzekering dat op grond van [artikel 10bis.6 van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=10bis.6) niet tot het inkomen uit werk en woning heeft behoord, alsmede met het bedrag aan tegoeden van een spaarrekening eigen woning die en aan waarden van een beleggingsrecht eigen woning die op grond van [artikel 10bis.7 van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=10bis.7) niet tot het inkomen uit werk en woning hebben behoord.
 
-- 5. Indien [artikel 10bis.6, vijfde lid, van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=10bis.6) met betrekking tot een levensverzekering of via [artikel 10bis.7 van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=10bis.7) met betrekking tot een spaarrekening eigen woning of een beleggingsrecht eigen woning van de belastingplichtige toepassing vindt, worden de in artikel 26a, tweede lid, van de Wet op de inkomstenbelasting 1964 en in hoofdstuk 2, artikel I, onderdeel AN, van de Invoeringswet Wet inkomstenbelasting 2001 genoemde bedragen ten aanzien van hem verhoogd met een bedrag gelijk aan de in het derde en vierde lid bedoelde vermindering wegens de eerdere toepassing van artikel 10bis.6, eerste lid, van de Wet inkomstenbelasting 2001 op deze verzekering of van artikel 10bis.7 van die wet op deze spaarrekening of dit beleggingsrecht.
+- 5. Indien [artikel 10bis.6, zesde lid, van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=10bis.6) met betrekking tot een levensverzekering of via [artikel 10bis.7 van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=10bis.7) met betrekking tot een spaarrekening eigen woning of een beleggingsrecht eigen woning van de belastingplichtige toepassing vindt, worden de in artikel 26a, tweede lid, van de Wet op de inkomstenbelasting 1964 en in hoofdstuk 2, artikel I, onderdeel AN, van de Invoeringswet Wet inkomstenbelasting 2001 genoemde bedragen ten aanzien van hem verhoogd met een bedrag gelijk aan de in het derde en vierde lid bedoelde vermindering wegens de eerdere toepassing van artikel 10bis.6, eerste lid, van de Wet inkomstenbelasting 2001 op deze verzekering of van artikel 10bis.7 van die wet op deze spaarrekening of dit beleggingsrecht.
 
 - 1. Voor de toepassing van de onderdelen AL, AM, AO en AP wordt, indien de belastingplichtige het gehele kalenderjaar dezelfde partner in de zin van de [Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353) heeft of voor de toepassing van [artikel 2.17 van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=2.17) geacht wordt te hebben gehad, op gezamenlijk verzoek van de belastingplichtige en zijn partner een uitkering uit kapitaalverzekering bij leven geacht bij de belastingplichtige en zijn partner voor de helft op te komen.
 
@@ -764,9 +776,9 @@ Voor de plaatsing in het Staatsblad brengt Onze Minister van Financiën de in de
 
 ##### Artikel II. Inwerkingtreding
 
-1. Deze wet en de [Wet Inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353) treden in werking met ingang van 1 januari 2001 met uitzondering van [Hoofdstuk 2, artikel I, onderdeel AF, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011354&hoofdstuk=2&z=2016-01-01&g=2016-01-01), dat in werking treedt op 31 december 2000.
+1. Deze wet en de [Wet Inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353) treden in werking met ingang van 1 januari 2001 met uitzondering van [Hoofdstuk 2, artikel I, onderdeel AF, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011354&hoofdstuk=2&z=2018-01-01&g=2017-01-01), dat in werking treedt op 31 december 2000.
 
-2. In afwijking van het eerste lid, treedt [hoofdstuk 2, artikel 1, onderdelen Dc en Dd](https://wetten.overheid.nl/jci1.3:c:BWBR0011354&hoofdstuk=2&z=2016-01-01&g=2016-01-01), in werking op een bij koninklijk besluit te bepalen tijdstip dat zo nodig terugwerkende kracht kan hebben tot 1 januari 2001.
+2. In afwijking van het eerste lid, treedt [hoofdstuk 2, artikel 1, onderdelen Dc en Dd](https://wetten.overheid.nl/jci1.3:c:BWBR0011354&hoofdstuk=2&z=2018-01-01&g=2017-01-01), in werking op een bij koninklijk besluit te bepalen tijdstip dat zo nodig terugwerkende kracht kan hebben tot 1 januari 2001.
 
 3. Deze wet wordt aangehaald als: Invoeringswet Wet inkomstenbelasting 2001.
 
