@@ -4,7 +4,7 @@ identifier: "BWBR0029961"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-04-01"
-last_updated: "2016-07-01"
+last_updated: "2017-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0029961"
 soort: "ministeriele-regeling"
@@ -52,7 +52,7 @@ In de regeling wordt verstaan onder:
 
 - d. **Brvvp:** [Besluit reis-, verblijf-, en verhuiskosten politie](https://wetten.overheid.nl/jci1.3:c:BWBR0024064);
 
-- e. **bezwaaradviescommissie:** bezwaaradviescommissie als bedoeld in [artikel 12, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029961&artikel=12&z=2017-01-01&g=2016-07-01), dan wel een bovenregionaal ingestelde bezwaaradviescommissie;
+- e. **bezwaaradviescommissie:** bezwaaradviescommissie als bedoeld in [artikel 12, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029961&artikel=12&z=2017-01-01&g=2017-01-01), dan wel een bovenregionaal ingestelde bezwaaradviescommissie;
 
 - f. **CGOP:** Commissie voor centraal georganiseerd overleg in politie- en ambtenarenzaken, bedoeld in [artikel 2 van het Besluit overleg en medezeggenschap politie 1994](https://wetten.overheid.nl/jci1.3:c:BWBR0006518&artikel=2);
 
@@ -64,7 +64,7 @@ In de regeling wordt verstaan onder:
 
 - j. **oorspronkelijke functie:** functie waarin de ambtenaar direct voorafgaand aan de ingangsdatum van de reorganisatie is aangesteld;
 
-- k. **pac:** plaatsingsadviescommissie als bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0029961&artikel=5&z=2017-01-01&g=2016-07-01) van deze regeling;
+- k. **pac:** plaatsingsadviescommissie als bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0029961&artikel=5&z=2017-01-01&g=2017-01-01) van deze regeling;
 
 - l. **passende functie:** een functie als bedoeld in [artikel 55o, van het Barp](https://wetten.overheid.nl/jci1.3:c:BWBR0006516&artikel=55o);
 
@@ -76,7 +76,7 @@ In de regeling wordt verstaan onder:
 
 - p. **reorganisatie Politiewet 2012:** de reorganisatie in verband met de totstandkoming van de politie als bedoeld in [artikel 1, onderdeel b, van de Politiewet 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&artikel=1), welke aanvangt tussen 1 januari 2014 en 31 december 2014;
 
-- q. **reorganisatieplan:** een door een bevoegd gezag vastgesteld plan als bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0029961&artikel=4&z=2017-01-01&g=2016-07-01) van deze regeling;
+- q. **reorganisatieplan:** een door een bevoegd gezag vastgesteld plan als bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0029961&artikel=4&z=2017-01-01&g=2017-01-01) van deze regeling;
 
 - r. **sleutelfunctie:** een functie als bedoeld in [artikel 55jb, eerste lid, van het Barp](https://wetten.overheid.nl/jci1.3:c:BWBR0006516&artikel=55jb);
 
@@ -128,11 +128,11 @@ Het bevoegd gezag stelt een reorganisatieplan op, waarin in ieder geval wordt in
 
 1. Het bevoegd gezag stelt een pac in en voorziet de pac van ambtelijke ondersteuning.
 
-2. Het bevoegd gezag is niet verplicht tot het instellen van een pac indien de voorgenomen reorganisatie voor 20 of minder ambtenaren wijziging van de rechtspositie tot gevolg heeft. Voordat het bevoegd gezag beslist dat een pac achterwege kan blijven, wint hij advies in bij de reorganisatiecommissie, bedoeld in [artikel 4a](https://wetten.overheid.nl/jci1.3:c:BWBR0029961&artikel=4a&z=2017-01-01&g=2016-07-01).
+2. Het bevoegd gezag is niet verplicht tot het instellen van een pac indien de voorgenomen reorganisatie voor 20 of minder ambtenaren wijziging van de rechtspositie tot gevolg heeft. Voordat het bevoegd gezag beslist dat een pac achterwege kan blijven, wint hij advies in bij de reorganisatiecommissie, bedoeld in [artikel 4a](https://wetten.overheid.nl/jci1.3:c:BWBR0029961&artikel=4a&z=2017-01-01&g=2017-01-01).
 
 3. Bij een voorgenomen reorganisatie die voor meer dan 20 ambtenaren wijziging van de rechtspositie tot gevolg heeft kan in bijzondere gevallen met instemming van de in [artikel 2 van het Besluit overleg en medezeggenschap politie 1994](https://wetten.overheid.nl/jci1.3:c:BWBR0006518&artikel=2) bedoelde Commissie voor georganiseerd overleg in politieambtenarenzaken, de minister besluiten dat het bevoegd gezag ontheven wordt van de verplichting tot het instellen van een pac.
 
-4. Bij ontheffing van de verplichting tot het instellen van een pac worden de taken van de pac, als bedoeld in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0029961&artikel=7&z=2017-01-01&g=2016-07-01) van deze regeling,uitgevoerd door het bevoegd gezag.
+4. Bij ontheffing van de verplichting tot het instellen van een pac worden de taken van de pac, als bedoeld in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0029961&artikel=7&z=2017-01-01&g=2017-01-01) van deze regeling,uitgevoerd door het bevoegd gezag.
 
 ##### Artikel 6. Leden pac
 
@@ -164,9 +164,9 @@ Het bevoegd gezag stelt een reorganisatieplan op, waarin in ieder geval wordt in
 
 - d. het schriftelijk vastleggen van het gesprek zoals bedoeld in de onderdelen b en c en het toezenden van een afschrift aan de ambtenaar:
 
-- e. het opstellen van een concept-personeelsplaatsingsplan als bedoeld in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0029961&artikel=8&z=2017-01-01&g=2016-07-01), van deze regeling zo spoedig mogelijk na ontvangst van de opdracht daartoe van het bevoegd gezag;
+- e. het opstellen van een concept-personeelsplaatsingsplan als bedoeld in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0029961&artikel=8&z=2017-01-01&g=2017-01-01), van deze regeling zo spoedig mogelijk na ontvangst van de opdracht daartoe van het bevoegd gezag;
 
-- f. het adviseren van het bevoegd gezag over de zienswijze van ambtenaren tegen een door het bevoegd gezag voorgenomen besluit tot plaatsing respectievelijk tot aanwijzing als herplaatsingskandidaat, als bedoeld in [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0029961&artikel=10&z=2017-01-01&g=2016-07-01), van deze regeling;
+- f. het adviseren van het bevoegd gezag over de zienswijze van ambtenaren tegen een door het bevoegd gezag voorgenomen besluit tot plaatsing respectievelijk tot aanwijzing als herplaatsingskandidaat, als bedoeld in [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0029961&artikel=10&z=2017-01-01&g=2017-01-01), van deze regeling;
 
 - g. het adviseren van het bevoegd gezag over de wijziging van het personeelsplaatsingsplan, indien de adviezen over de zienswijzen van de ambtenaren daartoe aanleiding geven.
 
@@ -176,7 +176,7 @@ Het bevoegd gezag stelt een reorganisatieplan op, waarin in ieder geval wordt in
 
 4. Indien een functievolger heeft aangegeven voorkeur te hebben voor een plaatsing op een andere plaats van tewerkstelling dan die waarop hij ingevolge [artikel 55lb Barp](https://wetten.overheid.nl/jci1.3:c:BWBR0006516&artikel=55lb) zal worden geplaatst, adviseert de pac het bevoegd gezag over de mogelijkheden om aan deze wens tegemoet te komen. Aan deze wens kan slechts tegemoet worden gekomen indien een functievolger met de gewenste plaats van tewerkstelling eveneens de voorkeur heeft uitgesproken voor een andere plaats van tewerkstelling en twee of meerdere functievolgers kunnen worden uitgewisseld.
 
-5. De pac brengt binnen zeven weken, nadat de voorgenomen besluiten, zoals bedoeld in [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0029961&artikel=10&z=2017-01-01&g=2016-07-01) van deze regeling, zijn uitgereikt of verzonden, schriftelijk advies uit aan het bevoegd gezag over de zienswijzen.
+5. De pac brengt binnen zeven weken, nadat de voorgenomen besluiten, zoals bedoeld in [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0029961&artikel=10&z=2017-01-01&g=2017-01-01) van deze regeling, zijn uitgereikt of verzonden, schriftelijk advies uit aan het bevoegd gezag over de zienswijzen.
 
 ##### Artikel 8. Concept-personeelsplaatsingsplan
 
@@ -206,7 +206,7 @@ Het bevoegd gezag stelt een reorganisatieplan op, waarin in ieder geval wordt in
 
 - c. een verticaal positieve plaatsing gaat voor een verticaal negatieve plaatsing;
 
-- d. bij een horizontale of een verticale positieve plaatsing is, indien de functie voor meerdere ambtenaren passend is, de geschiktheid van de ambtenaar bepalend, bij gelijke geschiktheid gaat de ambtenaar met het hoogste aantal jaren in overheidsdienst voor de ambtenaar met een lager aantal jaren in overheidsdienst.
+- d. bij een horizontale of een verticale positieve plaatsing is, indien de functie voor meerdere ambtenaren passend is, de geschiktheid van de ambtenaar bepalend, bij gelijke geschiktheid gaat de ambtenaar met het hoogste aantal jaren in politiedienst voor de ambtenaar met een lager aantal jaren in politiedienst.
 
 4. In afwijking van het tweede lid gaat bij een verticaal positieve plaatsing, waarvoor meerdere ambtenaren die een zelfde vergelijkbare of uitwisselbare functie uitoefenen passend zijn bevonden, de ambtenaar die geplaatst kan worden op die vergelijkbare of uitwisselbare functie voor de ambtenaar die, op grond van [artikel 55l van het Barp](https://wetten.overheid.nl/jci1.3:c:BWBR0006516&artikel=55l), als herplaatsingskandidaat moet worden aangewezen.
 
@@ -232,11 +232,11 @@ Het bevoegd gezag stelt een reorganisatieplan op, waarin in ieder geval wordt in
 
 5. Als het concept-personeelsplaatsingsplan is vastgesteld op advies van een pac wordt de ambtenaar gehoord door de pac.
 
-6. Het bevoegd gezag stelt de ambtenaar schriftelijk en gemotiveerd in kennis van de uitkomst van de heroverweging op basis van de ingebrachte zienswijze door middel van een vervangend voorgenomen besluit of door opname van de uitkomst in het besluit tot plaatsing of tot aanwijzing als herplaatsingskandidaat als bedoeld [artikel 11, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029961&artikel=11&z=2017-01-01&g=2016-07-01), van deze regeling.
+6. Het bevoegd gezag stelt de ambtenaar schriftelijk en gemotiveerd in kennis van de uitkomst van de heroverweging op basis van de ingebrachte zienswijze door middel van een vervangend voorgenomen besluit of door opname van de uitkomst in het besluit tot plaatsing of tot aanwijzing als herplaatsingskandidaat als bedoeld [artikel 11, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029961&artikel=11&z=2017-01-01&g=2017-01-01), van deze regeling.
 
 ##### Artikel 11. Personeelsplaatsingsplan
 
-1. Het bevoegd gezag stelt het personeelsplaatsingsplan vast binnen vier weken, nadat de pac advies heeft uitgebracht over wijziging van het personeelsplaatsingsplan als bedoeld in [artikel 7, eerste lid, onderdeel e](https://wetten.overheid.nl/jci1.3:c:BWBR0029961&artikel=7&z=2017-01-01&g=2016-07-01), van deze regeling. Voordat het personeelsplaatsingsplan definitief wordt vastgesteld heeft het bevoegd gezag alle kenbaar gemaakte zienswijzen beoordeeld.
+1. Het bevoegd gezag stelt het personeelsplaatsingsplan vast binnen vier weken, nadat de pac advies heeft uitgebracht over wijziging van het personeelsplaatsingsplan als bedoeld in [artikel 7, eerste lid, onderdeel e](https://wetten.overheid.nl/jci1.3:c:BWBR0029961&artikel=7&z=2017-01-01&g=2017-01-01), van deze regeling. Voordat het personeelsplaatsingsplan definitief wordt vastgesteld heeft het bevoegd gezag alle kenbaar gemaakte zienswijzen beoordeeld.
 
 2. Na vaststelling van het personeelsplaatsingsplan, bedoeld in het eerste lid, stelt het bevoegd gezag de betrokken ambtenaren onverwijld in kennis van de daarop gebaseerde besluiten tot plaatsing dan wel tot aanwijzing als herplaatsingskandidaat.
 
@@ -357,7 +357,7 @@ Deze regeling zal met toelichting in de Staatscourant worden geplaatst.
 
 ##### Artikel 1a. Reorganisatie [Politiewet 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0031788)
 
-1. In afwijking van [artikel 1, onderdeel j](https://wetten.overheid.nl/jci1.3:c:BWBR0029961&artikel=1&z=2017-01-01&g=2016-07-01), wordt voor de reorganisatie [Politiewet 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0031788) als oorspronkelijke functie aangemerkt de functie waarin de ambtenaar was aangesteld op 1 januari 2012 tenzij:
+1. In afwijking van [artikel 1, onderdeel j](https://wetten.overheid.nl/jci1.3:c:BWBR0029961&artikel=1&z=2017-01-01&g=2017-01-01), wordt voor de reorganisatie [Politiewet 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0031788) als oorspronkelijke functie aangemerkt de functie waarin de ambtenaar was aangesteld op 1 januari 2012 tenzij:
 
 - a. de ambtenaar aantoont dat hij na die datum formeel van functie is gewijzigd zonder dat deze wijziging verband hield met de voorbereidingen van die reorganisatie, of
 
@@ -409,7 +409,7 @@ Deze regeling zal met toelichting in de Staatscourant worden geplaatst.
 
 ##### Artikel 8a
 
-1. Voor de reorganisatie [Politiewet 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0031788), worden als politiedienstjaren als bedoeld in [artikel 55l](https://wetten.overheid.nl/jci1.3:c:BWBR0006516&artikel=55l) en [55lb Barp](https://wetten.overheid.nl/jci1.3:c:BWBR0006516&artikel=55lb), aangemerkt die jaren waarin een ambtenaar aantoonbaar:
+1. Als politiedienstjaren als bedoeld in de [artikelen 55l](https://wetten.overheid.nl/jci1.3:c:BWBR0006516&artikel=55l) en [55lb Barp](https://wetten.overheid.nl/jci1.3:c:BWBR0006516&artikel=55lb) worden aangemerkt die jaren waarin een ambtenaar aantoonbaar:
 
 - a. was aangesteld als ambtenaar;
 
@@ -455,13 +455,13 @@ Deze regeling zal met toelichting in de Staatscourant worden geplaatst.
 
 1. De ambtenaar met een functie vallend onder het domein Leiding of Ondersteuning, als bedoeld in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0033460&artikel=3), en [bijlage 1 bij de Regeling vaststelling LFNP](https://wetten.overheid.nl/jci1.3:c:BWBR0033460&bijlage=1), kan zo lang hij nog niet is geplaatst op een vergelijkbare of uitwisselbare functie of is aangewezen als herplaatsingskandidaat in het kader van de reorganisatie [Politiewet 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0031788), het bevoegd gezag verzoeken hem met overeenkomstige toepassing van de desbetreffende artikelen een of meer van de volgende voorzieningen toe te kennen:
 
-- a. een outplacementtraject als bedoeld in [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBR0029961&artikel=15&z=2017-01-01&g=2016-07-01),
+- a. een outplacementtraject als bedoeld in [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBR0029961&artikel=15&z=2017-01-01&g=2017-01-01),
 
-- b. een vergoeding van opleidingskosten als bedoeld in [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBR0029961&artikel=16&z=2017-01-01&g=2016-07-01),
+- b. een vergoeding van opleidingskosten als bedoeld in [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBR0029961&artikel=16&z=2017-01-01&g=2017-01-01),
 
-- c. een vergoeding van verhuiskosten en reiskosten voor woon- werkverkeer als bedoeld in [artikel 17](https://wetten.overheid.nl/jci1.3:c:BWBR0029961&artikel=17&z=2017-01-01&g=2016-07-01),
+- c. een vergoeding van verhuiskosten en reiskosten voor woon- werkverkeer als bedoeld in [artikel 17](https://wetten.overheid.nl/jci1.3:c:BWBR0029961&artikel=17&z=2017-01-01&g=2017-01-01),
 
-- d. het verlenen van buitengewoon verlof in verband met een sollicitatie als bedoeld in [artikel 20](https://wetten.overheid.nl/jci1.3:c:BWBR0029961&artikel=20&z=2017-01-01&g=2016-07-01),
+- d. het verlenen van buitengewoon verlof in verband met een sollicitatie als bedoeld in [artikel 20](https://wetten.overheid.nl/jci1.3:c:BWBR0029961&artikel=20&z=2017-01-01&g=2017-01-01),
 
 - e. het toekennen van loonsuppletie als bedoeld in [artikel 55tBarp](https://wetten.overheid.nl/jci1.3:c:BWBR0006516&artikel=55t),
 
@@ -475,7 +475,7 @@ Deze regeling zal met toelichting in de Staatscourant worden geplaatst.
 
 ##### Artikel 20b
 
-1. Het bevoegd gezag kan de voorzieningen als bedoeld in [artikel 20a](https://wetten.overheid.nl/jci1.3:c:BWBR0029961&artikel=20a&z=2017-01-01&g=2016-07-01) toekennen, indien naar diens oordeel is voldaan aan de volgende voorwaarden:
+1. Het bevoegd gezag kan de voorzieningen als bedoeld in [artikel 20a](https://wetten.overheid.nl/jci1.3:c:BWBR0029961&artikel=20a&z=2017-01-01&g=2017-01-01) toekennen, indien naar diens oordeel is voldaan aan de volgende voorwaarden:
 
 - a. de ambtenaar heeft een functie binnen een taakgebied waarvan voorzienbaar is dat met betrekking tot die functie daar in de toekomst sprake zal zijn van overbezetting, uitsluitend ten gevolge van de reorganisatie [Politiewet 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0031788),
 
@@ -483,13 +483,13 @@ Deze regeling zal met toelichting in de Staatscourant worden geplaatst.
 
 - c. de kosten van de voorziening voor de organisatie staan in een redelijke verhouding tot het te behalen rendement door het vertrek van de ambtenaar en zijn met het oog op de financiële ruimte toelaatbaar.
 
-2. Een voorziening als bedoeld in [artikel 20a](https://wetten.overheid.nl/jci1.3:c:BWBR0029961&artikel=20a&z=2017-01-01&g=2016-07-01) kan uitsluitend worden toegekend na indiening van een ontslagaanvraag door de aanvragende ambtenaar, in de zin van [artikel 87 Barp](https://wetten.overheid.nl/jci1.3:c:BWBR0006516&artikel=87), en onder voorbehoud dat die ontslagaanvraag ook wordt geëffectueerd.
+2. Een voorziening als bedoeld in [artikel 20a](https://wetten.overheid.nl/jci1.3:c:BWBR0029961&artikel=20a&z=2017-01-01&g=2017-01-01) kan uitsluitend worden toegekend na indiening van een ontslagaanvraag door de aanvragende ambtenaar, in de zin van [artikel 87 Barp](https://wetten.overheid.nl/jci1.3:c:BWBR0006516&artikel=87), en onder voorbehoud dat die ontslagaanvraag ook wordt geëffectueerd.
 
 Deze regeling zal met toelichting in de Staatscourant worden geplaatst.
 
 ##### Artikel 1b. Reorganisatie Politieacademie
 
-De [artikelen 1a](https://wetten.overheid.nl/jci1.3:c:BWBR0029961&artikel=1a&z=2017-01-01&g=2016-07-01) en [20a tot en met 20e](https://wetten.overheid.nl/jci1.3:c:BWBR0029961&artikel=20a&z=2017-01-01&g=2016-07-01) zijn van overeenkomstige toepassing op de reorganisatie in verband met de inbedding van de Politieacademie in het nieuwe politiebestel.
+De [artikelen 1a](https://wetten.overheid.nl/jci1.3:c:BWBR0029961&artikel=1a&z=2017-01-01&g=2017-01-01) en [20a tot en met 20e](https://wetten.overheid.nl/jci1.3:c:BWBR0029961&artikel=20a&z=2017-01-01&g=2017-01-01) zijn van overeenkomstige toepassing op de reorganisatie in verband met de inbedding van de Politieacademie in het nieuwe politiebestel.
 
 ### Flankerende voorzieningen
 
@@ -503,17 +503,17 @@ Deze regeling zal met toelichting in de Staatscourant worden geplaatst.
 
 De ambtenaar die is geplaatst in een functie in de nieuwe formatie en die, doordat hij vrijwillig van functie of plaats van tewerkstelling verandert of buiten de politie werkzaam gaat zijn, een bijdrage levert aan het terugdringen van onder- of overbezetting, kan het bevoegd gezag verzoeken hem met overeenkomstige toepassing van de desbetreffende artikelen een of meer van de volgende voorzieningen toe te kennen:
 
-- a. een outplacementtraject als bedoeld in [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBR0029961&artikel=15&z=2017-01-01&g=2016-07-01),
+- a. een outplacementtraject als bedoeld in [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBR0029961&artikel=15&z=2017-01-01&g=2017-01-01),
 
-- b. een vergoeding van opleidingskosten als bedoeld in [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBR0029961&artikel=16&z=2017-01-01&g=2016-07-01),
+- b. een vergoeding van opleidingskosten als bedoeld in [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBR0029961&artikel=16&z=2017-01-01&g=2017-01-01),
 
-- c. een vergoeding van verhuiskosten en reiskosten voor woon-werkverkeer als bedoeld in [artikel 17](https://wetten.overheid.nl/jci1.3:c:BWBR0029961&artikel=17&z=2017-01-01&g=2016-07-01),
+- c. een vergoeding van verhuiskosten en reiskosten voor woon-werkverkeer als bedoeld in [artikel 17](https://wetten.overheid.nl/jci1.3:c:BWBR0029961&artikel=17&z=2017-01-01&g=2017-01-01),
 
-- d. een aanvulling op de vergoeding van reiskosten voor woon-werkverkeer als bedoeld in [artikel 18](https://wetten.overheid.nl/jci1.3:c:BWBR0029961&artikel=18&z=2017-01-01&g=2016-07-01),
+- d. een aanvulling op de vergoeding van reiskosten voor woon-werkverkeer als bedoeld in [artikel 18](https://wetten.overheid.nl/jci1.3:c:BWBR0029961&artikel=18&z=2017-01-01&g=2017-01-01),
 
-- e. behoud van individuele rechten als bedoeld in [artikel 19](https://wetten.overheid.nl/jci1.3:c:BWBR0029961&artikel=19&z=2017-01-01&g=2016-07-01) en in [artikel 55ra Barp](https://wetten.overheid.nl/jci1.3:c:BWBR0006516&artikel=55ra),
+- e. behoud van individuele rechten als bedoeld in [artikel 19](https://wetten.overheid.nl/jci1.3:c:BWBR0029961&artikel=19&z=2017-01-01&g=2017-01-01) en in [artikel 55ra Barp](https://wetten.overheid.nl/jci1.3:c:BWBR0006516&artikel=55ra),
 
-- f. het verlenen van buitengewoon verlof met behoud van bezoldiging in verband met een sollicitatie als bedoeld in [artikel 20](https://wetten.overheid.nl/jci1.3:c:BWBR0029961&artikel=20&z=2017-01-01&g=2016-07-01),
+- f. het verlenen van buitengewoon verlof met behoud van bezoldiging in verband met een sollicitatie als bedoeld in [artikel 20](https://wetten.overheid.nl/jci1.3:c:BWBR0029961&artikel=20&z=2017-01-01&g=2017-01-01),
 
 - g. de mogelijkheid tot telewerken als bedoeld in [artikel 55o, derde lid, Barp](https://wetten.overheid.nl/jci1.3:c:BWBR0006516&artikel=55o),
 
@@ -533,7 +533,7 @@ De ambtenaar die is geplaatst in een functie in de nieuwe formatie en die, doord
 
 ##### Artikel 20e
 
-Het bevoegd gezag stelt nadere voorwaarden voor de toepassing van de [artikelen 20c](https://wetten.overheid.nl/jci1.3:c:BWBR0029961&artikel=20c&z=2017-01-01&g=2016-07-01) en [20d](https://wetten.overheid.nl/jci1.3:c:BWBR0029961&artikel=20d&z=2017-01-01&g=2016-07-01) vast, waaronder in elk geval de voorwaarde dat een redelijke verhouding bestaat tussen de omvang van de voorziening in geld en arbeidstijd en het rendement van de investering voor ambtenaar en organisatie.
+Het bevoegd gezag stelt nadere voorwaarden voor de toepassing van de [artikelen 20c](https://wetten.overheid.nl/jci1.3:c:BWBR0029961&artikel=20c&z=2017-01-01&g=2017-01-01) en [20d](https://wetten.overheid.nl/jci1.3:c:BWBR0029961&artikel=20d&z=2017-01-01&g=2017-01-01) vast, waaronder in elk geval de voorwaarde dat een redelijke verhouding bestaat tussen de omvang van de voorziening in geld en arbeidstijd en het rendement van de investering voor ambtenaar en organisatie.
 
 ##### Artikel 20f
 
