@@ -4,7 +4,7 @@ identifier: "BWBR0016880"
 country: "nl"
 rank: "rijks_kb"
 publication_date: "2017-01-01"
-last_updated: "2016-09-01"
+last_updated: "2017-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0016880"
 soort: "rijksKB"
@@ -53,55 +53,61 @@ Hebben goedgevonden en verstaan:
 
 1. In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
-- a. de begrippen «schip», «passagiersschip», «vissersvaartuig», «kapitein» en «eigenaar»: hetgeen daaronder in de [Schepenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0001876) wordt verstaan;
+- **Aanvaringsverdrag:** het op 20 oktober 1972 te Londen totstandgekomen Verdrag inzake Internationale Voorschriften ter voorkoming van aanvaringen op zee (Trb. 1974, 51);
 
-- b. vrachtschip: een schip, niet zijnde een passagiersschip;
+- **GT:** de maateenheid bruto-tonnage waarin de totale inhoud van een schip, vastgesteld overeenkomstig het op 23 juni 1969 te Londen totstandgekomen Verdrag betreffende de meting van schepen (Trb. 1970, 122), wordt uitgedrukt;
 
-- c. zeilschip: een schip dat is ontworpen en gebouwd om hoofdzakelijk door middel van zeilen te worden voortbewogen;
+- **IMO:** de Internationale Maritieme Organisatie van de Verenigde Naties;
 
-- d. GT: de maateenheid bruto-tonnage waarin de totale inhoud van een schip, vastgesteld overeenkomstig het op 23 juni 1969 te Londen totstandgekomen Verdrag betreffende de meting van schepen (Trb. 1970, 122), wordt uitgedrukt;
+- **internationale reis:** een reis tussen twee verschillende landen, waarbij een gebied voor welks buitenlandse betrekkingen een buiten dat gebied zetelende regering verantwoordelijk is of waarvan de Verenigde Naties het besturend lichaam zijn, mede als een afzonderlijk land wordt aangemerkt;
 
-- e. lengte: de overeenkomstig het verdrag, genoemd in onderdeel d, vastgestelde lengte van een schip;
+- **lengte:** de lengte van een schip, vastgesteld overeenkomstig het op 23 juni 1969 te Londen totstandgekomen Verdrag betreffende de meting van schepen (Trb. 1970, 122);
 
-- f. internationale reis: een reis tussen twee verschillende landen, waarbij een gebied voor welks buitenlandse betrekkingen een buiten dat gebied zetelende regering verantwoordelijk is of waarvan de Verenigde Naties het besturend lichaam zijn, mede als een afzonderlijk land wordt aangemerkt;
+- **Maritieme Veiligheidscommissie:** de gelijknamige commissie van de IMO;
 
-- g. nationale reis: een reis, niet zijnde een internationale reis;
+- **nationale reis:** een reis, niet zijnde een internationale reis;
 
-- h. Onze Minister: Onze Minister van Infrastructuur en Milieu;
+- **Onze Minister:** Onze Minister van Infrastructuur en Milieu;
 
-- i. Uitwateringsverdrag: het op 5 april 1966 te Londen totstandgekomen Verdrag betreffende de uitwatering van schepen (Trb. 1966, 275) en de bij dat verdrag behorende bindende protocollen, aanhangsels en bijlagen;
+- **polaire wateren:** wateren zoals opgenomen in voorschrift XIV/ 1, onderdeel 2 en 3 van het SOLAS-verdrag;
 
-- j. Aanvaringsverdrag: het op 20 oktober 1972 te Londen totstandgekomen Verdrag inzake Internationale Voorschriften ter voorkoming van aanvaringen op zee (Trb. 1974, 51);
+- **SOLAS-verdrag:** het op 1 november 1974 te Londen totstandgekomen Verdrag voor de beveiliging van mensenlevens op zee (Trb. 1976, 157) en de bij dat verdrag behorende bindende protocollen, aanhangsels en bijlagen;
 
-- k. SOLAS-verdrag: het op 1 november 1974 te Londen totstandgekomen Verdrag voor de beveiliging van mensenlevens op zee (Trb. 1976, 157) en de bij dat verdrag behorende bindende protocollen, aanhangsels en bijlagen;
+- **Uitwateringsverdrag:** het op 5 april 1966 te Londen totstandgekomen Verdrag betreffende de uitwatering van schepen (Trb. 1966, 275) en de bij dat verdrag behorende bindende protocollen, aanhangsels en bijlagen;
 
-- l. IMO: de Internationale Maritieme Organisatie van de Verenigde Naties;
+- **vrachtschip:** een schip, niet zijnde een passagiersschip;
 
-- m. Maritieme Veiligheidscommissie: de gelijknamige commissie van de IMO;
+- **zeilschip:** een schip dat is ontworpen en gebouwd om hoofdzakelijk door middel van zeilen te worden voortbewogen.
 
-- n. BCH-Code: de bij resolutie MSC.9(53) van de Maritieme Veiligheidscommissie aangenomen Code voor de bouw en uitrusting van schepen die gevaarlijke chemicaliën in bulk vervoeren (Bulk Chemical Code);
+2. In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
-- o. GC-Code: de bij resolutie A.328(IX) van de Algemene vergadering van de IMO aangenomen Code voor de bouw en uitrusting van schepen die vloeibaar gemaakte gassen in bulk vervoeren (Gas Carrier Code);
+- **BCH-Code:** de bij resolutie MSC.9(53) van de Maritieme Veiligheidscommissie aangenomen Code voor de bouw en uitrusting van schepen die gevaarlijke chemicaliën in bulk vervoeren (Bulk Chemical Code);
 
-- p. Graancode: de bij resolutie MSC.23(59) van de Maritieme Veiligheidscommissie aangenomen Internationale Code voor het veilig vervoer van graan in bulk (International Grain Code);
+- **GC-Code:** de bij resolutie A.328(IX) van de Algemene vergadering van de IMO aangenomen Code voor de bouw en uitrusting van schepen die vloeibaar gemaakte gassen in bulk vervoeren (Gas Carrier Code);
 
-- q. HSC-Code 1994: de bij resolutie MSC.36(63) van de Maritieme Veiligheidsheidscommissie aangenomen Internationale Code voor de veiligheid van hogesnelheidsschepen (High-Speed Craft Code, 1994);
+- **Graancode:** de bij resolutie MSC.23(59) van de Maritieme Veiligheidscommissie aangenomen Internationale Code voor het veilig vervoer van graan in bulk (International Grain Code);
 
-- r. HSC-Code 2000: de bij resolutie MSC.97(73) van de Maritieme Veiligheidsheidscommissie aangenomen Internationale Code voor de veiligheid van hogesnelheidsschepen (High-Speed Craft Code, 2000);
+- **HSC-Code 1994:** de bij resolutie MSC.36(63) van de Maritieme Veiligheidscommissie aangenomen Internationale Code voor de veiligheid van hogesnelheidsschepen (High-Speed Craft Code, 1994);
 
-- s. IBC-Code: de bij resolutie MSC.4(48) van de Maritieme Veiligheidscommissie aangenomen Internationale Code voor de bouw en uitrusting van schepen die gevaarlijke chemicaliën in bulk vervoeren (International Bulk Chemical Code);
+- **HSC-Code 2000:** de bij resolutie MSC.97(73) van de Maritieme Veiligheidscommissie aangenomen Internationale Code voor de veiligheid van hogesnelheidsschepen (High-Speed Craft Code, 2000);
 
-- t. IGC-Code: de bij resolutie MSC.5(48) van de Maritieme Veiligheidscommissie aangenomen Internationale Code voor de bouw en uitrusting van schepen die vloeibaar gemaakte gassen in bulk vervoeren (International Gas Carrier Code);
+- **IBC-Code:** de bij resolutie MSC.4(48) van de Maritieme Veiligheidscommissie aangenomen Internationale Code voor de bouw en uitrusting van schepen die gevaarlijke chemicaliën in bulk vervoeren (International Bulk Chemical Code);
 
-- u. INF-Code: de bij resolutie MSC.88(71) van de Maritieme Veiligheidscommissie aangenomen Internationale Code voor het veilig vervoer in verpakte vorm van bestraalde splijtstoffen, plutonium en hoog-radioactief afval aan boord van schepen (Irradiated Nuclear Fuel Code);
+- **IGC-Code:** de bij resolutie MSC.5(48) van de Maritieme Veiligheidscommissie aangenomen Internationale Code voor de bouw en uitrusting van schepen die vloeibaar gemaakte gassen in bulk vervoeren (International Gas Carrier Code);
 
-- v. ISM-Code: de bij resolutie A.741(18) van de Algemene Vergadering van de IMO aangenomen Internationale Management Code voor scheepsveiligheid en ter voorkoming van verontreiniging (International Safety Management Code);
+- **INF-Code:** de bij resolutie MSC.88(71) van de Maritieme Veiligheidscommissie aangenomen Internationale Code voor het veilig vervoer in verpakte vorm van bestraalde splijtstoffen, plutonium en hoog-radioactief afval aan boord van schepen (Irradiated Nuclear Fuel Code);
 
-- w. ISPS-Code: de bij resolutie 2 van de Conferentie van verdragsluitende regeringen die partij zijn bij het SOLAS-verdrag op 12 december 2002 aangenomen Internationale Code voor de beveiliging van schepen en havenfaciliteiten (International Ship and Port Facility Security Code).
+- **ISM-Code:** de bij resolutie A.741(18) van de Algemene Vergadering van de IMO aangenomen Internationale Management Code voor scheepsveiligheid en ter voorkoming van verontreiniging (International Safety Management Code);
 
-2. Voor de toepassing van de op grond van dit besluit toepasselijke verdragen en Codes wordt, tenzij bij of krachtens dit besluit anders is bepaald, verstaan onder Administratie: het Hoofd van de Scheepvaartinspectie.
+- **ISPS-Code:** de bij resolutie 2 van de Conferentie van verdragsluitende regeringen die partij zijn bij het SOLAS-verdrag op 12 december 2002 aangenomen Internationale Code voor de beveiliging van schepen en havenfaciliteiten (International Ship and Port Facility Security Code);
 
-3. Voor de toepassing van het besluit wordt met een internationale reis gelijkgesteld een trans-Atlantische reis tussen landen van het Koninkrijk of delen daarvan.
+- **Polar-Code:** de bij resolutie MSC.385(94) van de Maritieme Veiligheidscommissie aangenomen Internationale Code voor schepen die in polaire wateren varen (International Code for Ships Operating in Polar Waters).
+
+3. In dit besluit en de daarop berustende bepalingen wordt onder de begrippen **«schip», «passagiersschip», «vissersvaartuig», «kapitein» en «eigenaar»** verstaan hetgeen daaronder in de Schepenwet wordt verstaan.
+
+4. Voor de toepassing van de op grond van dit besluit toepasselijke verdragen en Codes wordt, tenzij bij of krachtens dit besluit anders is bepaald, verstaan onder Administratie: het Hoofd van de Scheepvaartinspectie.
+
+5. Voor de toepassing van het besluit wordt met een internationale reis gelijkgesteld een trans-Atlantische reis tussen landen van het Koninkrijk of delen daarvan.
 
 ##### Artikel 2. Bouwdatum van een schip
 
@@ -139,7 +145,7 @@ Voor schepen met een lengte van 24 meter of meer waarmee internationale reizen w
 
 ##### Artikel 6. Nationaal veiligheidscertificaat
 
-1. Voor een schip waarvoor geen internationaal veiligheidscertificaat als bedoeld in [artikel 5, eerste lid, onderdeel a of b](https://wetten.overheid.nl/jci1.3:c:BWBR0016880&hoofdstuk=2&paragraaf=1&artikel=5&z=2016-09-01&g=2016-09-01), benodigd is, is een bij regeling van Onze Minister vast te stellen nationaal veiligheidscertificaat benodigd.
+1. Voor een schip waarvoor geen internationaal veiligheidscertificaat als bedoeld in [artikel 5, eerste lid, onderdeel a of b](https://wetten.overheid.nl/jci1.3:c:BWBR0016880&hoofdstuk=2&paragraaf=1&artikel=5&z=2017-01-01&g=2017-01-01), benodigd is, is een bij regeling van Onze Minister vast te stellen nationaal veiligheidscertificaat benodigd.
 
 2. Het eerste lid is niet van toepassing op vrachtschepen met een lengte van minder dan 12 meter.
 
@@ -147,9 +153,9 @@ Voor schepen met een lengte van 24 meter of meer waarmee internationale reizen w
 
 ##### Artikel 7. Veiligheidscertificaten voor hogesnelheidsschepen (SOLAS)
 
-1. Voor een hogesnelheidsschip als bedoeld in voorschrift X/1 van het SOLAS-verdrag ten aanzien waarvan op grond van [artikel 16, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0016880&hoofdstuk=2&paragraaf=2&artikel=16&z=2016-09-01&g=2016-09-01), is gekozen voor toepassing van de HSC-Code 1994 of de HSC-Code 2000, is het bij de desbetreffende Code behorende veiligheidscertificaat voor hogesnelheidsschepen benodigd, alsmede de in die Code voorgeschreven exploitatievergunning.
+1. Voor een hogesnelheidsschip als bedoeld in voorschrift X/1 van het SOLAS-verdrag ten aanzien waarvan op grond van [artikel 16, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0016880&hoofdstuk=2&paragraaf=2&artikel=16&z=2017-01-01&g=2017-01-01), is gekozen voor toepassing van de HSC-Code 1994 of de HSC-Code 2000, is het bij de desbetreffende Code behorende veiligheidscertificaat voor hogesnelheidsschepen benodigd, alsmede de in die Code voorgeschreven exploitatievergunning.
 
-2. Het in het eerste lid bedoelde veiligheidscertificaat en de in dat lid bedoelde vergunning treden in de plaats van het ingevolge [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0016880&hoofdstuk=2&paragraaf=1&artikel=5&z=2016-09-01&g=2016-09-01) of [6](https://wetten.overheid.nl/jci1.3:c:BWBR0016880&hoofdstuk=2&paragraaf=1&artikel=6&z=2016-09-01&g=2016-09-01) benodigde veiligheidscertificaat.
+2. Het in het eerste lid bedoelde veiligheidscertificaat en de in dat lid bedoelde vergunning treden in de plaats van het ingevolge [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0016880&hoofdstuk=2&paragraaf=1&artikel=5&z=2017-01-01&g=2017-01-01) of [6](https://wetten.overheid.nl/jci1.3:c:BWBR0016880&hoofdstuk=2&paragraaf=1&artikel=6&z=2017-01-01&g=2017-01-01) benodigde veiligheidscertificaat.
 
 ##### Artikel 8. Certificaten voor schepen met bijzondere lading (SOLAS, IMO)
 
@@ -181,13 +187,13 @@ Voor schepen met een lengte van 24 meter of meer waarmee internationale reizen w
 
 ##### Artikel 10. Bij certificaten behorende uitrustingsrapporten, aanhangsels e.d.
 
-De in de [artikelen 4 tot en met 8](https://wetten.overheid.nl/jci1.3:c:BWBR0016880&hoofdstuk=2&paragraaf=1&artikel=4&z=2016-09-01&g=2016-09-01) bedoelde certificaten gaan vergezeld van de bij die certificaten behorende uitrustingsrapporten en aanhangsels, alsmede van de in de desbetreffende verdragen of Codes voorgeschreven stabiliteitsgegevens of andere gegevens met betrekking tot schip of lading.
+De in de [artikelen 4 tot en met 8](https://wetten.overheid.nl/jci1.3:c:BWBR0016880&hoofdstuk=2&paragraaf=1&artikel=4&z=2017-01-01&g=2017-01-01) en [9a](https://wetten.overheid.nl/jci1.3:c:BWBR0016880&hoofdstuk=2&paragraaf=1&artikel=9a&z=2017-01-01&g=2017-01-01) bedoelde certificaten gaan vergezeld van de bij die certificaten behorende uitrustingsrapporten en aanhangsels, alsmede van de in de desbetreffende verdragen of Codes voorgeschreven stabiliteitsgegevens of andere gegevens met betrekking tot schip of lading.
 
 ##### Artikel 11. Certificaat van vrijstelling (SOLAS, Uitwateringsverdrag)
 
 1. Een internationaal certificaat van uitwatering dat is afgegeven met inachtneming van een op grond van [artikel 5 van de Schepenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0001876&artikel=5) verleende vrijstelling of ontheffing, gaat vergezeld van een internationaal certificaat van vrijstelling betreffende de uitwatering als bedoeld in artikel 16 van het Uitwateringsverdrag.
 
-2. Certificaten als bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0016880&hoofdstuk=2&paragraaf=1&artikel=5&z=2016-09-01&g=2016-09-01) die zijn afgegeven met inachtneming van een op grond van [artikel 5 van de Schepenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0001876&artikel=5) verleende vrijstelling of ontheffing, gaan vergezeld van een certificaat van vrijstelling als bedoeld in voorschrift I/12 van het SOLAS-verdrag.
+2. Certificaten als bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0016880&hoofdstuk=2&paragraaf=1&artikel=5&z=2017-01-01&g=2017-01-01) die zijn afgegeven met inachtneming van een op grond van [artikel 5 van de Schepenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0001876&artikel=5) verleende vrijstelling of ontheffing, gaan vergezeld van een certificaat van vrijstelling als bedoeld in voorschrift I/12 van het SOLAS-verdrag.
 
 ##### Artikel 12. Overige certificaten
 
@@ -229,17 +235,17 @@ Een schip waarvoor een internationaal certificaat van uitwatering benodigd is, w
 
 - b. voor een schip, gebouwd op of na 1 juli 2002: de HSC-Code 2000.
 
-2. Indien ten aanzien van een hogesnelheidsschip is gekozen voor toepassing van de HSC-Code 1994 of de HSC-Code 2000, treden de in de desbetreffende Code voorgeschreven onderzoeken in de plaats van de in [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0016880&hoofdstuk=2&paragraaf=2&artikel=14&z=2016-09-01&g=2016-09-01) of [15](https://wetten.overheid.nl/jci1.3:c:BWBR0016880&hoofdstuk=2&paragraaf=2&artikel=15&z=2016-09-01&g=2016-09-01) bedoelde onderzoeken.
+2. Indien ten aanzien van een hogesnelheidsschip is gekozen voor toepassing van de HSC-Code 1994 of de HSC-Code 2000, treden de in de desbetreffende Code voorgeschreven onderzoeken in de plaats van de in [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0016880&hoofdstuk=2&paragraaf=2&artikel=14&z=2017-01-01&g=2017-01-01) of [15](https://wetten.overheid.nl/jci1.3:c:BWBR0016880&hoofdstuk=2&paragraaf=2&artikel=15&z=2017-01-01&g=2017-01-01) bedoelde onderzoeken.
 
 ##### Artikel 17. Onderzoeken van schepen met bijzondere lading (SOLAS, IMO)
 
-Een schip waarvoor een certificaat behorende bij een in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0016880&hoofdstuk=2&paragraaf=1&artikel=8&z=2016-09-01&g=2016-09-01) genoemde Code benodigd is, wordt ter verkrijging van dat certificaat en tijdens de geldigheidsduur daarvan onderworpen aan de in de desbetreffende Code voorgeschreven onderzoeken.
+Een schip waarvoor een certificaat behorende bij een in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0016880&hoofdstuk=2&paragraaf=1&artikel=8&z=2017-01-01&g=2017-01-01) genoemde Code benodigd is, wordt ter verkrijging van dat certificaat en tijdens de geldigheidsduur daarvan onderworpen aan de in de desbetreffende Code voorgeschreven onderzoeken.
 
 ##### Artikel 18. Onderzoeken van het veiligheidsmanagement (SOLAS)
 
 1. Een schip waarvoor een veiligheidsmanagementcertificaat benodigd is, wordt ter verkrijging van dat certificaat en tijdens de geldigheidsduur daarvan onderworpen aan de in de ISM-Code voorgeschreven onderzoeken.
 
-2. De bedrijfsorganisatie van de eigenaar van een schip als bedoeld in het eerste lid, wordt ter verkrijging van het conformiteitsdocument, bedoeld in [artikel 9, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0016880&hoofdstuk=2&paragraaf=1&artikel=9&z=2016-09-01&g=2016-09-01), en tijdens de geldigheidsduur van datdocument onderworpen aan de in de ISM-Code voorgeschreven onderzoeken.
+2. De bedrijfsorganisatie van de eigenaar van een schip als bedoeld in het eerste lid, wordt ter verkrijging van het conformiteitsdocument, bedoeld in [artikel 9, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0016880&hoofdstuk=2&paragraaf=1&artikel=9&z=2017-01-01&g=2017-01-01), en tijdens de geldigheidsduur van datdocument onderworpen aan de in de ISM-Code voorgeschreven onderzoeken.
 
 ##### Artikel 19. Onderzoeken in verband met de beveiliging (SOLAS)
 
@@ -247,27 +253,27 @@ Een schip waarvoor een internationaal scheepsbeveiligingscertificaat benodigd is
 
 ##### Artikel 20. Tijdstippen van onderzoek
 
-1. De in de [artikelen 13 tot en met 17](https://wetten.overheid.nl/jci1.3:c:BWBR0016880&hoofdstuk=2&paragraaf=2&artikel=13&z=2016-09-01&g=2016-09-01) en [19](https://wetten.overheid.nl/jci1.3:c:BWBR0016880&hoofdstuk=2&paragraaf=2&artikel=19&z=2016-09-01&g=2016-09-01) bedoelde onderzoeken vinden plaats op de in de desbetreffende verdragen en Codes voorgeschreven tijdstippen, met dien verstande dat het hernieuwde onderzoek waaraan een schip in verband met de vernieuwing van een certificaat wordt onderworpen, steeds plaatsvindt in de laatste drie maanden van de geldigheidsduur van het desbetreffende certificaat.
+1. De in de [artikelen 13 tot en met 17](https://wetten.overheid.nl/jci1.3:c:BWBR0016880&hoofdstuk=2&paragraaf=2&artikel=13&z=2017-01-01&g=2017-01-01), [19](https://wetten.overheid.nl/jci1.3:c:BWBR0016880&hoofdstuk=2&paragraaf=2&artikel=19&z=2017-01-01&g=2017-01-01) en [19a](https://wetten.overheid.nl/jci1.3:c:BWBR0016880&hoofdstuk=2&paragraaf=2&artikel=19a&z=2017-01-01&g=2017-01-01) bedoelde onderzoeken vinden plaats op de in de desbetreffende verdragen en Codes voorgeschreven tijdstippen, met dien verstande dat het hernieuwde onderzoek waaraan een schip in verband met de vernieuwing van een certificaat wordt onderworpen, steeds plaatsvindt in de laatste drie maanden van de geldigheidsduur van het desbetreffende certificaat.
 
-2. De in [artikel 18](https://wetten.overheid.nl/jci1.3:c:BWBR0016880&hoofdstuk=2&paragraaf=2&artikel=18&z=2016-09-01&g=2016-09-01) bedoelde onderzoeken vinden plaats op de in de ISM-Code voorgeschreven tijdstippen, met dien verstande dat:
+2. De in [artikel 18](https://wetten.overheid.nl/jci1.3:c:BWBR0016880&hoofdstuk=2&paragraaf=2&artikel=18&z=2017-01-01&g=2017-01-01) bedoelde onderzoeken vinden plaats op de in de ISM-Code voorgeschreven tijdstippen, met dien verstande dat:
 
 - a. het eerste onderzoek waaraan een schip in verband met de eerste afgifte van een veiligheidsmanagementcertificaat wordt onderworpen, plaatsvindt nadat het door de ISM-Code voorgeschreven veiligheidsmanagementsysteem gedurende ten minste drie maanden aan boord van dat schip is toegepast;
 
-- b. het eerste onderzoek waaraan een bedrijfsorganisatie in verband met de eerste afgifte van het conformiteitsdocument, bedoeld in [artikel 9, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0016880&hoofdstuk=2&paragraaf=1&artikel=9&z=2016-09-01&g=2016-09-01), wordt onderworpen, plaatsvindt nadat het door de ISM-Code voorgeschreven veiligheidsmanagementsysteem gedurende ten minste drie maanden in die organisatie, alsmede aan boord van ten minste één schip van het type waarop het systeem betrekking heeft, is toegepast.
+- b. het eerste onderzoek waaraan een bedrijfsorganisatie in verband met de eerste afgifte van het conformiteitsdocument, bedoeld in [artikel 9, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0016880&hoofdstuk=2&paragraaf=1&artikel=9&z=2017-01-01&g=2017-01-01), wordt onderworpen, plaatsvindt nadat het door de ISM-Code voorgeschreven veiligheidsmanagementsysteem gedurende ten minste drie maanden in die organisatie, alsmede aan boord van ten minste één schip van het type waarop het systeem betrekking heeft, is toegepast.
 
 ##### Artikel 21. Aantekening van onderzoeken
 
-Van de onderzoeken waaraan een schip ingevolge de [artikelen 13 tot en met 19](https://wetten.overheid.nl/jci1.3:c:BWBR0016880&hoofdstuk=2&paragraaf=2&artikel=13&z=2016-09-01&g=2016-09-01) tijdens de geldigheidsduur van een certificaat wordt onderworpen, wordt door degene die het onderzoek heeft verricht, aantekening geplaatst op het certificaat.
+Van de onderzoeken waaraan een schip ingevolge de [artikelen 13 tot en met 19](https://wetten.overheid.nl/jci1.3:c:BWBR0016880&hoofdstuk=2&paragraaf=2&artikel=13&z=2017-01-01&g=2017-01-01) tijdens de geldigheidsduur van een certificaat wordt onderworpen, wordt door degene die het onderzoek heeft verricht, aantekening geplaatst op het certificaat.
 
 ##### Artikel 22. Overige onderzoeken
 
-1. Bij regeling van Onze Minister worden regels gesteld met betrekking tot de onderzoeken waaraan schepen in verband met een krachtens [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0016880&hoofdstuk=2&paragraaf=1&artikel=12&z=2016-09-01&g=2016-09-01) vereist certificaat worden onderworpen.
+1. Bij regeling van Onze Minister worden regels gesteld met betrekking tot de onderzoeken waaraan schepen in verband met een krachtens [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0016880&hoofdstuk=2&paragraaf=1&artikel=12&z=2017-01-01&g=2017-01-01) vereist certificaat worden onderworpen.
 
-2. Bij regeling van Onze Minister kunnen nadere regels worden gesteld met betrekking tot de onderzoeken waaraan schepen waarvoor een certificaat als bedoeld in de [artikelen 4 tot en met 9](https://wetten.overheid.nl/jci1.3:c:BWBR0016880&hoofdstuk=2&paragraaf=1&artikel=4&z=2016-09-01&g=2016-09-01) benodigd is, worden onderworpen.
+2. Bij regeling van Onze Minister kunnen nadere regels worden gesteld met betrekking tot de onderzoeken waaraan schepen waarvoor een certificaat als bedoeld in de [artikelen 4 tot en met 9a](https://wetten.overheid.nl/jci1.3:c:BWBR0016880&hoofdstuk=2&paragraaf=1&artikel=4&z=2017-01-01&g=2017-01-01) benodigd is, worden onderworpen.
 
 ##### Artikel 23. Aanwijzing natuurlijke personen of rechtspersonen
 
-1. Onze Minister wijst de natuurlijke personen en rechtspersonen aan die zijn belast met door hem aan te geven, in het kader van de in de [artikelen 13 tot en met 19](https://wetten.overheid.nl/jci1.3:c:BWBR0016880&hoofdstuk=2&paragraaf=2&artikel=13&z=2016-09-01&g=2016-09-01) en [22](https://wetten.overheid.nl/jci1.3:c:BWBR0016880&hoofdstuk=2&paragraaf=2&artikel=22&z=2016-09-01&g=2016-09-01) bedoelde onderzoeken te verrichten taken.
+1. Onze Minister wijst de natuurlijke personen en rechtspersonen aan die zijn belast met door hem aan te geven, in het kader van de in de [artikelen 13 tot en met 19a](https://wetten.overheid.nl/jci1.3:c:BWBR0016880&hoofdstuk=2&paragraaf=2&artikel=13&z=2017-01-01&g=2017-01-01) en [22](https://wetten.overheid.nl/jci1.3:c:BWBR0016880&hoofdstuk=2&paragraaf=2&artikel=22&z=2017-01-01&g=2017-01-01) bedoelde onderzoeken te verrichten taken.
 
 2. Een ingevolge het eerste lid aangewezen natuurlijke persoon of rechtspersoon is, indien bij een onderzoek gebreken aan het schip of zijn uitrusting worden geconstateerd, bevoegd om herstel van deze gebreken te vorderen.
 
@@ -275,7 +281,7 @@ Van de onderzoeken waaraan een schip ingevolge de [artikelen 13 tot en met 19](h
 
 ##### Artikel 24. Handhaving toestand na onderzoek
 
-1. Nadat een bij of krachtens dit besluit voorgeschreven onderzoek is voltooid, wordt de toestand van het schip en zijn uitrusting gehandhaafd in overeenstemming met de bij of krachtens dit besluit gestelde regels. In deze toestand wordt geen verandering aangebracht zonder voorafgaande toestemming van het Hoofd van de Scheepvaartinspectie of van de ingevolge [artikel 23, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0016880&hoofdstuk=2&paragraaf=2&artikel=23&z=2016-09-01&g=2016-09-01), aangewezen natuurlijke persoon of rechtspersoon die het onderzoek heeft uitgevoerd.
+1. Nadat een bij of krachtens dit besluit voorgeschreven onderzoek is voltooid, wordt de toestand van het schip en zijn uitrusting gehandhaafd in overeenstemming met de bij of krachtens dit besluit gestelde regels. In deze toestand wordt geen verandering aangebracht zonder voorafgaande toestemming van het Hoofd van de Scheepvaartinspectie of van de ingevolge [artikel 23, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0016880&hoofdstuk=2&paragraaf=2&artikel=23&z=2017-01-01&g=2017-01-01), aangewezen natuurlijke persoon of rechtspersoon die het onderzoek heeft uitgevoerd.
 
 2. Het eerste lid is van overeenkomstige toepassing op de ter voldoening aan de ISPS-Code of ter uitvoering van het in die Code voorgeschreven scheepsbeveiligingsplan getroffen beveiligingsmaatregelen.
 
@@ -291,13 +297,13 @@ Van de onderzoeken waaraan een schip ingevolge de [artikelen 13 tot en met 19](h
 
 1. Een veiligheidscertificaat voor passagiersschepen, een veiligheidscertificaat voor vrachtschepen of, indien het een schip betreft waarmee internationale reizen worden ondernomen, een veiligheidscertificaat voor hogesnelheidsschepen wordt slechts afgegeven, indien voor het desbetreffende schip een veiligheidsmanagementcertificaat is afgegeven.
 
-2. Een veiligheidsmanagementcertificaat wordt slechts afgegeven, indien de eigenaar van het schip voor dat type schip beschikt over een conformiteitsdocument als bedoeld in [artikel 9, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0016880&hoofdstuk=2&paragraaf=1&artikel=9&z=2016-09-01&g=2016-09-01).
+2. Een veiligheidsmanagementcertificaat wordt slechts afgegeven, indien de eigenaar van het schip voor dat type schip beschikt over een conformiteitsdocument als bedoeld in [artikel 9, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0016880&hoofdstuk=2&paragraaf=1&artikel=9&z=2017-01-01&g=2017-01-01).
 
 ##### Artikel 27. Voorlopige certificering van het veiligheidsmanagement
 
-1. Voor een schip dat door zijn eigenaar voor het eerst in gebruik wordt genomen, kan voorafgaande aan het in [artikel 20, tweede lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0016880&hoofdstuk=2&paragraaf=2&artikel=20&z=2016-09-01&g=2016-09-01), bedoelde onderzoek een voorlopig veiligheidsmanagementcertificaat met een geldigheidsduur van ten hoogste zes maanden worden afgegeven, indien aan de in de ISM-Code gestelde voorwaarden voor de afgifte van een voorlopig certificaat is voldaan.
+1. Voor een schip dat door zijn eigenaar voor het eerst in gebruik wordt genomen, kan voorafgaande aan het in [artikel 20, tweede lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0016880&hoofdstuk=2&paragraaf=2&artikel=20&z=2017-01-01&g=2017-01-01), bedoelde onderzoek een voorlopig veiligheidsmanagementcertificaat met een geldigheidsduur van ten hoogste zes maanden worden afgegeven, indien aan de in de ISM-Code gestelde voorwaarden voor de afgifte van een voorlopig certificaat is voldaan.
 
-2. Ten behoeve van een nieuw gevestigde eigenaar of een eigenaar die een nieuw scheepstype in gebruik neemt, kan voorafgaande aan het in [artikel 20, tweede lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0016880&hoofdstuk=2&paragraaf=2&artikel=20&z=2016-09-01&g=2016-09-01), bedoelde onderzoek een voorlopig conformiteitsdocument met een geldigheidsduur van ten hoogste twaalf maanden worden afgegeven, indien aan de in de ISM-Code gestelde voorwaarden voor de afgifte van een voorlopig conformiteitsdocument is voldaan.
+2. Ten behoeve van een nieuw gevestigde eigenaar of een eigenaar die een nieuw scheepstype in gebruik neemt, kan voorafgaande aan het in [artikel 20, tweede lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0016880&hoofdstuk=2&paragraaf=2&artikel=20&z=2017-01-01&g=2017-01-01), bedoelde onderzoek een voorlopig conformiteitsdocument met een geldigheidsduur van ten hoogste twaalf maanden worden afgegeven, indien aan de in de ISM-Code gestelde voorwaarden voor de afgifte van een voorlopig conformiteitsdocument is voldaan.
 
 ##### Artikel 28. Voorlopige certificering van de scheepsbeveiliging
 
@@ -307,19 +313,19 @@ Van de onderzoeken waaraan een schip ingevolge de [artikelen 13 tot en met 19](h
 
 ##### Artikel 29. Geldigheidsduur van certificaten
 
-1. Het veiligheidscertificaat voor passagiersschepen en, indien afgegeven voor een passagiersschip, het veiligheidscertificaat voor hogesnelheidsschepen hebben een geldigheidsduur van een jaar. De overige in de [artikelen 4 tot en met 9](https://wetten.overheid.nl/jci1.3:c:BWBR0016880&hoofdstuk=2&paragraaf=1&artikel=4&z=2016-09-01&g=2016-09-01) genoemde certificaten hebben, evenals veiligheidscertificaten voor hogesnelheidsschepen die zijn afgegeven voor vrachtschepen, een geldigheidsduur van vijf jaren.
+1. Het veiligheidscertificaat voor passagiersschepen en, indien afgegeven voor een passagiersschip, het veiligheidscertificaat voor hogesnelheidsschepen hebben een geldigheidsduur van een jaar. De overige in de [artikelen 4 tot en met 9a](https://wetten.overheid.nl/jci1.3:c:BWBR0016880&hoofdstuk=2&paragraaf=1&artikel=4&z=2017-01-01&g=2017-01-01) genoemde certificaten hebben, evenals veiligheidscertificaten voor hogesnelheidsschepen die zijn afgegeven voor vrachtschepen, een geldigheidsduur van vijf jaren.
 
 2. Het Hoofd van de Scheepvaartinspectie kan certificaten afgeven met een kortere geldigheidsduur dan in het eerste lid bepaald, indien nog niet alle onderzoeken naar zijn genoegen zijn voltooid, of indien hij nog niet over alle door hem gevraagde gegevens over het schip beschikt.
 
-3. De geldigheidsduur van een certificaat van vrijstelling als bedoeld in [artikel 11, eerste of tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0016880&hoofdstuk=2&paragraaf=1&artikel=11&z=2016-09-01&g=2016-09-01), is niet langer dan de geldigheidsduur van het certificaat waarbij het behoort.
+3. De geldigheidsduur van een certificaat van vrijstelling als bedoeld in [artikel 11, eerste of tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0016880&hoofdstuk=2&paragraaf=1&artikel=11&z=2017-01-01&g=2017-01-01), is niet langer dan de geldigheidsduur van het certificaat waarbij het behoort.
 
 ##### Artikel 30. Vernieuwing van certificaten
 
-Na voltooiing van een hernieuwd onderzoek in verband met de vernieuwing van een certificaat is het nieuwe certificaat, in afwijking van [artikel 29, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0016880&hoofdstuk=2&paragraaf=3&artikel=29&z=2016-09-01&g=2016-09-01), geldig vanaf de datum van voltooiing van het desbetreffende onderzoek tot:
+Na voltooiing van een hernieuwd onderzoek in verband met de vernieuwing van een certificaat is het nieuwe certificaat, in afwijking van [artikel 29, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0016880&hoofdstuk=2&paragraaf=3&artikel=29&z=2017-01-01&g=2017-01-01), geldig vanaf de datum van voltooiing van het desbetreffende onderzoek tot:
 
 - a. indien het een veiligheidscertificaat voor passagiersschepen of een veiligheidscertificaat voor hogesnelheidsschepen, afgegeven voor een passagiersschip, betreft: een datum niet later dan twaalf maanden na de vervaldatum van het bestaande certificaat;
 
-- b. voor de overige in de [artikelen 4 tot en met 9](https://wetten.overheid.nl/jci1.3:c:BWBR0016880&hoofdstuk=2&paragraaf=1&artikel=4&z=2016-09-01&g=2016-09-01) genoemde certificaten: een datum niet later dan vijf jaren na de vervaldatum van het bestaande certificaat.
+- b. voor de overige in de [artikelen 4 tot en met 9a](https://wetten.overheid.nl/jci1.3:c:BWBR0016880&hoofdstuk=2&paragraaf=1&artikel=4&z=2017-01-01&g=2017-01-01) genoemde certificaten: een datum niet later dan vijf jaren na de vervaldatum van het bestaande certificaat.
 
 ##### Artikel 31. Bijzondere verlengingen van de geldigheidsduur
 
@@ -333,7 +339,7 @@ Na voltooiing van een hernieuwd onderzoek in verband met de vernieuwing van een 
 
 ##### Artikel 32. Nadere regels
 
-Bij regeling van Onze Minister worden regels gesteld met betrekking tot de geldigheidsduur van de krachtens [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0016880&hoofdstuk=2&paragraaf=1&artikel=12&z=2016-09-01&g=2016-09-01) vereiste certificaten en kunnen nadere regels worden gesteld met betrekking tot de geldigheidsduur van de in de [artikelen 4 tot en met 9](https://wetten.overheid.nl/jci1.3:c:BWBR0016880&hoofdstuk=2&paragraaf=1&artikel=4&z=2016-09-01&g=2016-09-01) en [11](https://wetten.overheid.nl/jci1.3:c:BWBR0016880&hoofdstuk=2&paragraaf=1&artikel=11&z=2016-09-01&g=2016-09-01) bedoelde certificaten.
+Bij regeling van Onze Minister worden regels gesteld met betrekking tot de geldigheidsduur van de krachtens [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0016880&hoofdstuk=2&paragraaf=1&artikel=12&z=2017-01-01&g=2017-01-01) vereiste certificaten en kunnen nadere regels worden gesteld met betrekking tot de geldigheidsduur van de in de [artikelen 4 tot en met 9a](https://wetten.overheid.nl/jci1.3:c:BWBR0016880&hoofdstuk=2&paragraaf=1&artikel=4&z=2017-01-01&g=2017-01-01) en [11](https://wetten.overheid.nl/jci1.3:c:BWBR0016880&hoofdstuk=2&paragraaf=1&artikel=11&z=2017-01-01&g=2017-01-01) bedoelde certificaten.
 
 ##### Artikel 33. Weigering afgifte certificaten
 
@@ -359,7 +365,7 @@ Onze Minister wijst de instanties aan waarvan de regels kunnen gelden als eisen 
 
 ##### Artikel 37. Klassenregels
 
-1. Voordat een schip in verband met de eerste afgifte van een bij of krachtens dit besluit voorgeschreven certificaat aan een eerste onderzoek wordt onderworpen, kiest de eigenaar of de bouwer van dat schip voor de regels van een ingevolge [artikel 36](https://wetten.overheid.nl/jci1.3:c:BWBR0016880&hoofdstuk=3&paragraaf=1&artikel=36&z=2016-09-01&g=2016-09-01) aangewezen instantie.
+1. Voordat een schip in verband met de eerste afgifte van een bij of krachtens dit besluit voorgeschreven certificaat aan een eerste onderzoek wordt onderworpen, kiest de eigenaar of de bouwer van dat schip voor de regels van een ingevolge [artikel 36](https://wetten.overheid.nl/jci1.3:c:BWBR0016880&hoofdstuk=3&paragraaf=1&artikel=36&z=2017-01-01&g=2017-01-01) aangewezen instantie.
 
 2. Een schip wordt ontworpen, gebouwd en onderhouden volgens de scheepsbouwkundige, werktuigkundige en elektrotechnische regels van de in het eerste lid bedoelde instantie, voorzover die regels niet in strijd zijn met de bij of krachtens dit besluit gestelde regels.
 
@@ -401,13 +407,13 @@ Een schip waarvoor een internationaal certificaat van uitwatering benodigd is, v
 
 ##### Artikel 42. Eisen aan hogesnelheidsschepen (SOLAS)
 
-1. Een hogesnelheidsschip ten aanzien waarvan op grond van [artikel 16, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0016880&hoofdstuk=2&paragraaf=2&artikel=16&z=2016-09-01&g=2016-09-01), is gekozen voor toepassing van de HSC-Code 1994 of de HSC-Code 2000, voldoet aan de eisen van de desbetreffende Code.
+1. Een hogesnelheidsschip ten aanzien waarvan op grond van [artikel 16, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0016880&hoofdstuk=2&paragraaf=2&artikel=16&z=2017-01-01&g=2017-01-01), is gekozen voor toepassing van de HSC-Code 1994 of de HSC-Code 2000, voldoet aan de eisen van de desbetreffende Code.
 
 2. Een hogesnelheidsschip voldoet, met inachtneming van hetgeen dienaangaande in voorschrift X/3 van het SOLAS-verdrag is bepaald, ter verkrijging van het veiligheidscertificaat voor hogesnelheidsschepen tevens aan de op dat schip van toepassing zijnde eisen van hoofdstuk V van het SOLAS-verdrag.
 
 ##### Artikel 43. Eisen aan schepen met bijzondere lading (SOLAS, IMO)
 
-Een schip waarvoor een certificaat behorende bij een in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0016880&hoofdstuk=2&paragraaf=1&artikel=8&z=2016-09-01&g=2016-09-01) genoemde Code benodigd is, voldoet in aanvulling op de overigens bij of krachtens dit besluit gestelde eisen tevens aan de eisen van de desbetreffende Code.
+Een schip waarvoor een certificaat behorende bij een in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0016880&hoofdstuk=2&paragraaf=1&artikel=8&z=2017-01-01&g=2017-01-01) genoemde Code benodigd is, voldoet in aanvulling op de overigens bij of krachtens dit besluit gestelde eisen tevens aan de eisen van de desbetreffende Code.
 
 ##### Artikel 44. Eisen in verband met de beveiliging (SOLAS)
 
@@ -417,17 +423,17 @@ Een schip waarvoor een internationaal scheepsbeveiligingscertificaat benodigd is
 
 1. Elk schip is voorzien van de in de op dat schip toepasselijke voorschriften van het Aanvaringsverdrag voorgeschreven lichten, dagmerken en geluidseinen.
 
-2. Schepen waarvoor een veiligheidscertificaat als bedoeld in [artikel 5, eerste lid, onderdeel a of b](https://wetten.overheid.nl/jci1.3:c:BWBR0016880&hoofdstuk=2&paragraaf=1&artikel=5&z=2016-09-01&g=2016-09-01), [6](https://wetten.overheid.nl/jci1.3:c:BWBR0016880&hoofdstuk=2&paragraaf=1&artikel=6&z=2016-09-01&g=2016-09-01) of [7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0016880&hoofdstuk=2&paragraaf=1&artikel=7&z=2016-09-01&g=2016-09-01), benodigd is, voldoen ter verkrijging van dat certificaat tevens aan de in het eerste lid bedoelde eisen.
+2. Schepen waarvoor een veiligheidscertificaat als bedoeld in [artikel 5, eerste lid, onderdeel a of b](https://wetten.overheid.nl/jci1.3:c:BWBR0016880&hoofdstuk=2&paragraaf=1&artikel=5&z=2017-01-01&g=2017-01-01), [6](https://wetten.overheid.nl/jci1.3:c:BWBR0016880&hoofdstuk=2&paragraaf=1&artikel=6&z=2017-01-01&g=2017-01-01) of [7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0016880&hoofdstuk=2&paragraaf=1&artikel=7&z=2017-01-01&g=2017-01-01), benodigd is, voldoen ter verkrijging van dat certificaat tevens aan de in het eerste lid bedoelde eisen.
 
 ##### Artikel 46. Nadere eisen
 
-1. Bij regeling van Onze Minister worden de eisen vastgesteld waaraan schepen in verband met een krachtens [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0016880&hoofdstuk=2&paragraaf=1&artikel=12&z=2016-09-01&g=2016-09-01) vereist certificaat moeten voldoen.
+1. Bij regeling van Onze Minister worden de eisen vastgesteld waaraan schepen in verband met een krachtens [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0016880&hoofdstuk=2&paragraaf=1&artikel=12&z=2017-01-01&g=2017-01-01) vereist certificaat moeten voldoen.
 
-2. Bij regeling van Onze Minister kunnen aanvullende eisen worden vastgesteld voor schepen waarvoor een certificaat als bedoeld in de [artikelen 4 tot en met 9](https://wetten.overheid.nl/jci1.3:c:BWBR0016880&hoofdstuk=2&paragraaf=1&artikel=4&z=2016-09-01&g=2016-09-01) benodigd is, alsmede nadere regels met betrekking tot de in de [artikelen 38 tot en met 45](https://wetten.overheid.nl/jci1.3:c:BWBR0016880&hoofdstuk=3&paragraaf=1&artikel=38&z=2016-09-01&g=2016-09-01) bedoelde eisen.
+2. Bij regeling van Onze Minister kunnen aanvullende eisen worden vastgesteld voor schepen waarvoor een certificaat als bedoeld in de [artikelen 4 tot en met 9a](https://wetten.overheid.nl/jci1.3:c:BWBR0016880&hoofdstuk=2&paragraaf=1&artikel=4&z=2017-01-01&g=2017-01-01) benodigd is, alsmede nadere regels met betrekking tot de in de [artikelen 38 tot en met 45a](https://wetten.overheid.nl/jci1.3:c:BWBR0016880&hoofdstuk=3&paragraaf=1&artikel=38&z=2017-01-01&g=2017-01-01) bedoelde eisen.
 
 ##### Artikel 47. Gelijkwaardige voorzieningen
 
-Het Hoofd van de Scheepvaartinspectie kan, met inachtneming van hetgeen dienaangaande in het desbetreffende verdrag of de desbetreffende Code is bepaald, afwijking toestaan van de in de [artikelen 39 tot en met 45](https://wetten.overheid.nl/jci1.3:c:BWBR0016880&hoofdstuk=3&paragraaf=2&artikel=39&z=2016-09-01&g=2016-09-01) bedoelde eisen, indien aan boord van het schip een voorziening wordt getroffen die naar zijn oordeel ten minste gelijkwaardig is aan de in het voorschrift waarvan wordt afgeweken, geëiste voorziening.
+Het Hoofd van de Scheepvaartinspectie kan, met inachtneming van hetgeen dienaangaande in het desbetreffende verdrag of de desbetreffende Code is bepaald, afwijking toestaan van de in de [artikelen 39 tot en met 45a](https://wetten.overheid.nl/jci1.3:c:BWBR0016880&hoofdstuk=3&paragraaf=2&artikel=39&z=2017-01-01&g=2017-01-01) bedoelde eisen, indien aan boord van het schip een voorziening wordt getroffen die naar zijn oordeel ten minste gelijkwaardig is aan de in het voorschrift waarvan wordt afgeweken, geëiste voorziening.
 
 ##### Artikel 48. Toelating van uitrusting, onderdelen en materialen
 
@@ -451,11 +457,11 @@ Het Hoofd van de Scheepvaartinspectie kan, met inachtneming van hetgeen dienaang
 
 2. Voorts draagt de eigenaar er, met inachtneming van hetgeen dienaangaande in de ISPS-Code is bepaald, zorg voor dat in zijn bedrijfsorganisatie en aan boord van elk schip waarvoor een internationaal beveiligingscertificaat benodigd is, een beveiligingsfunctionaris is aangesteld, die is belast met de in de ISPS-Code voorgeschreven taken.
 
-3. [Artikel 47](https://wetten.overheid.nl/jci1.3:c:BWBR0016880&hoofdstuk=3&paragraaf=2&artikel=47&z=2016-09-01&g=2016-09-01) is van overeenkomstige toepassing op de ter voldoening aan de ISPS-Code aan boord van schepen te treffen beveiligingsmaatregelen.
+3. [Artikel 47](https://wetten.overheid.nl/jci1.3:c:BWBR0016880&hoofdstuk=3&paragraaf=2&artikel=47&z=2017-01-01&g=2017-01-01) is van overeenkomstige toepassing op de ter voldoening aan de ISPS-Code aan boord van schepen te treffen beveiligingsmaatregelen.
 
 ##### Artikel 51. Nadere regels
 
-Bij regeling van Onze Minister kunnen regels worden gesteld met betrekking tot de bedrijfsvoering over schepen waarvoor een op de bedrijfsvoering betrekking hebbend certificaat als bedoeld in [artikel 12, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0016880&hoofdstuk=2&paragraaf=1&artikel=12&z=2016-09-01&g=2016-09-01), benodigd is, alsmede nadere regels met betrekking tot de bedrijfsvoering over schepen als bedoeld in de [artikelen 49](https://wetten.overheid.nl/jci1.3:c:BWBR0016880&hoofdstuk=3&paragraaf=3&artikel=49&z=2016-09-01&g=2016-09-01) en [50](https://wetten.overheid.nl/jci1.3:c:BWBR0016880&hoofdstuk=3&paragraaf=3&artikel=50&z=2016-09-01&g=2016-09-01).
+Bij regeling van Onze Minister kunnen regels worden gesteld met betrekking tot de bedrijfsvoering over schepen waarvoor een op de bedrijfsvoering betrekking hebbend certificaat als bedoeld in [artikel 12, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0016880&hoofdstuk=2&paragraaf=1&artikel=12&z=2017-01-01&g=2017-01-01), benodigd is, alsmede nadere regels met betrekking tot de bedrijfsvoering over schepen als bedoeld in de [artikelen 49](https://wetten.overheid.nl/jci1.3:c:BWBR0016880&hoofdstuk=3&paragraaf=3&artikel=49&z=2017-01-01&g=2017-01-01) en [50](https://wetten.overheid.nl/jci1.3:c:BWBR0016880&hoofdstuk=3&paragraaf=3&artikel=50&z=2017-01-01&g=2017-01-01).
 
 ### Hoofdstuk 4. Vervoer van lading
 
@@ -475,7 +481,7 @@ Bij het vervoer van lading, niet zijnde gevaarlijke stoffen als bedoeld in hoofd
 
 ##### Artikel 54. Nadere regels
 
-Bij regeling van Onze Minister kunnen nadere regels worden gesteld met betrekking tot het vervoer van lading, niet zijnde gevaarlijke stoffen, alsmede nadere regels met betrekking tot de in de [artikelen 52](https://wetten.overheid.nl/jci1.3:c:BWBR0016880&hoofdstuk=4&paragraaf=1&artikel=52&z=2016-09-01&g=2016-09-01) en [53](https://wetten.overheid.nl/jci1.3:c:BWBR0016880&hoofdstuk=4&paragraaf=1&artikel=53&z=2016-09-01&g=2016-09-01) bedoelde voorschriften.
+Bij regeling van Onze Minister kunnen nadere regels worden gesteld met betrekking tot het vervoer van lading, niet zijnde gevaarlijke stoffen, alsmede nadere regels met betrekking tot de in de [artikelen 52](https://wetten.overheid.nl/jci1.3:c:BWBR0016880&hoofdstuk=4&paragraaf=1&artikel=52&z=2017-01-01&g=2017-01-01) en [53](https://wetten.overheid.nl/jci1.3:c:BWBR0016880&hoofdstuk=4&paragraaf=1&artikel=53&z=2017-01-01&g=2017-01-01) bedoelde voorschriften.
 
 #### § 2. Vervoer van gevaarlijke stoffen
 
@@ -489,7 +495,7 @@ Bij regeling van Onze Minister kunnen nadere regels worden gesteld met betrekkin
 
 1. Het vervoer van gevaarlijke stoffen in vaste vorm in bulk als bedoeld in voorschrift VII/7 van het SOLAS-verdrag, is uitsluitend toegestaan met inachtneming van de in hoofdstuk VII, deel A-1, van dat verdrag gegeven voorschriften.
 
-2. [Artikel 53, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0016880&hoofdstuk=4&paragraaf=1&artikel=53&z=2016-09-01&g=2016-09-01), is van overeenkomstige toepassing.
+2. [Artikel 53, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0016880&hoofdstuk=4&paragraaf=1&artikel=53&z=2017-01-01&g=2017-01-01), is van overeenkomstige toepassing.
 
 ##### Artikel 57. Gevaarlijke chemicaliën en vloeibare gassen (SOLAS, IMO)
 
@@ -503,19 +509,19 @@ Bij regeling van Onze Minister kunnen nadere regels worden gesteld met betrekkin
 
 ##### Artikel 58. Nadere regels
 
-Bij regeling van Onze Minister kunnen nadere regels worden gesteld met betrekking tot het vervoer van gevaarlijke stoffen, alsmede nadere regels met betrekking tot de in de [artikelen 55 tot en met 57](https://wetten.overheid.nl/jci1.3:c:BWBR0016880&hoofdstuk=4&paragraaf=2&artikel=55&z=2016-09-01&g=2016-09-01) bedoelde voorschriften.
+Bij regeling van Onze Minister kunnen nadere regels worden gesteld met betrekking tot het vervoer van gevaarlijke stoffen, alsmede nadere regels met betrekking tot de in de [artikelen 55 tot en met 57](https://wetten.overheid.nl/jci1.3:c:BWBR0016880&hoofdstuk=4&paragraaf=2&artikel=55&z=2017-01-01&g=2017-01-01) bedoelde voorschriften.
 
 #### § 3. Onderzoeken in verband met het vervoer van lading
 
 ##### Artikel 59. Aanwijzing natuurlijke personen of rechtspersonen
 
-1. Onze Minister kan natuurlijke personen of rechtspersonen aanwijzen die zijn belast met in het kader van de bij of krachtens de [artikelen 52 tot en met 58](https://wetten.overheid.nl/jci1.3:c:BWBR0016880&hoofdstuk=4&paragraaf=1&artikel=52&z=2016-09-01&g=2016-09-01) gestelde regels te verrichten onderzoeken van schepen en hun lading.
+1. Onze Minister kan natuurlijke personen of rechtspersonen aanwijzen die zijn belast met in het kader van de bij of krachtens de [artikelen 52 tot en met 58](https://wetten.overheid.nl/jci1.3:c:BWBR0016880&hoofdstuk=4&paragraaf=1&artikel=52&z=2017-01-01&g=2017-01-01) gestelde regels te verrichten onderzoeken van schepen en hun lading.
 
 2. Bij regeling van Onze Minister kunnen regels worden gesteld met betrekking tot de wijze waarop de ingevolge het eerste lid aangewezen natuurlijke personen en rechtspersonen hun taken uitoefenen.
 
 ### Hoofdstuk 5. Verplichtingen van de kapitein
 
-#### § 1. Algemene bepalingen
+#### § 3. Onderzoeken in verband met het vervoer van lading
 
 ##### Artikel 60. Voorschriften betreffende de uitwatering
 
@@ -533,9 +539,11 @@ Bij regeling van Onze Minister kunnen nadere regels worden gesteld met betrekkin
 
 4. Het tweede lid is van overeenkomstige toepassing op schepen waarvoor een nationaal veiligheidscertificaat benodigd is, met uitzondering van vrachtschepen met een lengte van minder dan 24 meter.
 
+5. De kapitein van een schip waarvoor een certificaat als bedoeld in [artikel 9a](https://wetten.overheid.nl/jci1.3:c:BWBR0016880&hoofdstuk=2&paragraaf=1&artikel=9a&z=2017-01-01&g=2017-01-01) benodigd is, draagt in geval van een route door polaire wateren zorg voor een reisvoorbereiding met inachtneming van de vereisten zoals opgenomen in voorschrift 11.3 van de Polar-Code.
+
 ##### Artikel 62. Voorschriften voor hogesnelheidsschepen (SOLAS)
 
-De kapitein van een schip waarvoor een veiligheidscertificaat, behorende bij de HSC-Code 1994 of de HSC-Code 2000, benodigd is, draagt er, onverminderd [artikel 61, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0016880&hoofdstuk=5&paragraaf=1&artikel=61&z=2016-09-01&g=2016-09-01), zorg voor dat aan boord van het schip de in de desbetreffende Code opgenomen voorschriften en verplichtingen worden nageleefd.
+De kapitein van een schip waarvoor een veiligheidscertificaat, behorende bij de HSC-Code 1994 of de HSC-Code 2000, benodigd is, draagt er, onverminderd [artikel 61, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0016880&hoofdstuk=5&paragraaf=1&artikel=61&z=2017-01-01&g=2017-01-01), zorg voor dat aan boord van het schip de in de desbetreffende Code opgenomen voorschriften en verplichtingen worden nageleefd.
 
 ##### Artikel 63. Veiligheidsmanagement en scheepsbeveiliging (SOLAS)
 
@@ -569,7 +577,7 @@ Bij regeling van Onze Minister kunnen nadere regels worden gesteld met betrekkin
 
 ##### Artikel 67. Wijze van handelen bij schade
 
-1. Indien een schip schade heeft opgelopen of zich een voorval heeft voorgedaan waardoor het vermoeden rijst dat schade of een gebrek is ontstaan waardoor de veiligheid van het schip kan zijn beïnvloed, licht de kapitein zo spoedig mogelijk het Hoofd van de Scheepvaartinspectie in. Indien de schade of het voorval betrekking heeft op de romp of de machine- en elektrische installaties, licht de kapitein tevens de in [artikel 37](https://wetten.overheid.nl/jci1.3:c:BWBR0016880&hoofdstuk=3&paragraaf=1&artikel=37&z=2016-09-01&g=2016-09-01) bedoelde instantie in. Voorts licht hij, indien het schip zich in een haven buiten het Koninkrijk bevindt, de ter plaatse bevoegde autoriteiten in.
+1. Indien een schip schade heeft opgelopen of zich een voorval heeft voorgedaan waardoor het vermoeden rijst dat schade of een gebrek is ontstaan waardoor de veiligheid van het schip kan zijn beïnvloed, licht de kapitein zo spoedig mogelijk het Hoofd van de Scheepvaartinspectie in. Indien de schade of het voorval betrekking heeft op de romp of de machine- en elektrische installaties, licht de kapitein tevens de in [artikel 37](https://wetten.overheid.nl/jci1.3:c:BWBR0016880&hoofdstuk=3&paragraaf=1&artikel=37&z=2017-01-01&g=2017-01-01) bedoelde instantie in. Voorts licht hij, indien het schip zich in een haven buiten het Koninkrijk bevindt, de ter plaatse bevoegde autoriteiten in.
 
 2. Indien het schip zich in een haven bevindt, mag de reis niet worden voortgezet, voordat de kapitein van het Hoofd van de Scheepvaartinspectie of van de in het eerste lid bedoelde instantie een verklaring heeft ontvangen, inhoudende dat eventuele herstellingen naar behoren zijn geschied of dat de reis zonder bezwaar voor de veiligheid kan worden voortgezet, voorzover de ter plaatse bevoegde autoriteiten zich niet tegen voortzetting van de reis verzetten.
 
@@ -605,13 +613,15 @@ Bij regeling van Onze Minister kunnen nadere regels worden gesteld met betrekkin
 
 ##### Artikel 72. Overgangsbepalingen voor bestaande schepen
 
-1. [Artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0016880&hoofdstuk=2&paragraaf=1&artikel=4&z=2016-09-01&g=2016-09-01) is niet van toepassing op schepen, gebouwd voor 21 juli 1968, met een bruto-inhoud van minder dan 150 bruto-registerton, vastgesteld overeenkomstig het op 10 juni 1947 te Oslo totstandgekomen Verdrag nopens een eenvormig stelsel voor de meting van zeeschepen (Stb. 1949, J 370; Trb. 1955, 52).
+1. [Artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0016880&hoofdstuk=2&paragraaf=1&artikel=4&z=2017-01-01&g=2017-01-01) is niet van toepassing op schepen, gebouwd voor 21 juli 1968, met een bruto-inhoud van minder dan 150 bruto-registerton, vastgesteld overeenkomstig het op 10 juni 1947 te Oslo totstandgekomen Verdrag nopens een eenvormig stelsel voor de meting van zeeschepen (Stb. 1949, J 370; Trb. 1955, 52).
 
 2. Voor schepen, gebouwd voor 18 juli 1982, waarvan de bruto-inhoud is vastgesteld overeenkomstig het in het eerste lid genoemde verdrag, wordt voor de toepassing van dit besluit de eenheid bruto-registerton gelijkgesteld met de eenheid GT.
 
-3. Voor schepen als bedoeld in [artikel 6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0016880&hoofdstuk=2&paragraaf=1&artikel=6&z=2016-09-01&g=2016-09-01), waarvoor op grond van het [Schepenbesluit 1965](https://wetten.overheid.nl/jci1.3:c:BWBR0002501) een certificaat van deugdelijkheid is afgegeven, gaat de in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0016880&hoofdstuk=2&paragraaf=1&artikel=6&z=2016-09-01&g=2016-09-01) bedoelde verplichting eerst gelden op het moment waarop het voor een schip afgegeven certificaat van deugdelijkheid ingevolge [artikel 7, eerste lid, van de Schepenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0001876&artikel=7) vervalt. Tot dat moment blijven op het schip de bij of krachtens het [Schepenbesluit 1965](https://wetten.overheid.nl/jci1.3:c:BWBR0002501) gestelde regels betreffende onderzoeken en eisen van toepassing.
+3. Voor schepen als bedoeld in [artikel 6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0016880&hoofdstuk=2&paragraaf=1&artikel=6&z=2017-01-01&g=2017-01-01), waarvoor op grond van het [Schepenbesluit 1965](https://wetten.overheid.nl/jci1.3:c:BWBR0002501) een certificaat van deugdelijkheid is afgegeven, gaat de in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0016880&hoofdstuk=2&paragraaf=1&artikel=6&z=2017-01-01&g=2017-01-01) bedoelde verplichting eerst gelden op het moment waarop het voor een schip afgegeven certificaat van deugdelijkheid ingevolge [artikel 7, eerste lid, van de Schepenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0001876&artikel=7) vervalt. Tot dat moment blijven op het schip de bij of krachtens het [Schepenbesluit 1965](https://wetten.overheid.nl/jci1.3:c:BWBR0002501) gestelde regels betreffende onderzoeken en eisen van toepassing.
 
 4. Op schepen, gebouwd voor de inwerkingtreding van dit besluit, zijn de op grond van dit besluit uit het SOLAS-verdrag voortvloeiende eisen, voorzover het schip daaraan niet reeds voldoet, slechts van toepassing, voorzover dat praktisch uitvoerbaar en redelijk is. De bij wijzigingen van het SOLAS-verdrag gebruikelijke overgangsbepalingen betreffende de toepassing van nieuwe of gewijzigde voorschriften op bestaande schepen zijn daarbij zoveel mogelijk van overeenkomstige toepassing.
+
+5. Op schepen gebouwd vóór 1 januari 2017 zijn na 1 januari 2018 bij de eerste tussentijdse inspectie of herkeuring, naar gelang van hetgeen zich het eerste voordoet, de uit deel I-A van de Polar-Code voortvloeiende eisen van toepassing.
 
 ##### Artikel 73. Intrekking Schepenbesluit 1965
 
@@ -619,7 +629,7 @@ Het [Schepenbesluit 1965](https://wetten.overheid.nl/jci1.3:c:BWBR0002501) wordt
 
 ##### Artikel 74. Inwerkingtreding
 
-1. Dit besluit treedt ten aanzien van de in de [artikelen 9, eerste lid, aanhef en onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0016880&hoofdstuk=2&paragraaf=1&artikel=9&z=2016-09-01&g=2016-09-01), [19](https://wetten.overheid.nl/jci1.3:c:BWBR0016880&hoofdstuk=2&paragraaf=2&artikel=19&z=2016-09-01&g=2016-09-01), [38](https://wetten.overheid.nl/jci1.3:c:BWBR0016880&hoofdstuk=3&paragraaf=1&artikel=38&z=2016-09-01&g=2016-09-01), [44](https://wetten.overheid.nl/jci1.3:c:BWBR0016880&hoofdstuk=3&paragraaf=2&artikel=44&z=2016-09-01&g=2016-09-01), [50](https://wetten.overheid.nl/jci1.3:c:BWBR0016880&hoofdstuk=3&paragraaf=3&artikel=50&z=2016-09-01&g=2016-09-01) en [63, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0016880&hoofdstuk=5&paragraaf=1&artikel=63&z=2016-09-01&g=2016-09-01), bedoelde verplichtingen en de daarmee samenhangende bepalingen in werking met ingang van 1 juli 2004 of, indien de datum van uitgifte van het Staatsblad waarin het wordt geplaatst na 30 juni 2004 ligt, met ingang van de dag na uitgifte van dat Staatsblad.
+1. Dit besluit treedt ten aanzien van de in de [artikelen 9, eerste lid, aanhef en onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0016880&hoofdstuk=2&paragraaf=1&artikel=9&z=2017-01-01&g=2017-01-01), [19](https://wetten.overheid.nl/jci1.3:c:BWBR0016880&hoofdstuk=2&paragraaf=2&artikel=19&z=2017-01-01&g=2017-01-01), [38](https://wetten.overheid.nl/jci1.3:c:BWBR0016880&hoofdstuk=3&paragraaf=1&artikel=38&z=2017-01-01&g=2017-01-01), [44](https://wetten.overheid.nl/jci1.3:c:BWBR0016880&hoofdstuk=3&paragraaf=2&artikel=44&z=2017-01-01&g=2017-01-01), [50](https://wetten.overheid.nl/jci1.3:c:BWBR0016880&hoofdstuk=3&paragraaf=3&artikel=50&z=2017-01-01&g=2017-01-01) en [63, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0016880&hoofdstuk=5&paragraaf=1&artikel=63&z=2017-01-01&g=2017-01-01), bedoelde verplichtingen en de daarmee samenhangende bepalingen in werking met ingang van 1 juli 2004 of, indien de datum van uitgifte van het Staatsblad waarin het wordt geplaatst na 30 juni 2004 ligt, met ingang van de dag na uitgifte van dat Staatsblad.
 
 2. Voor het overige treedt dit besluit in werking op een bij koninklijk besluit te bepalen tijdstip, dat voor de verschillende artikelen of onderdelen daarvan en voor verschillende categorieën van schepen verschillend kan worden vastgesteld.
 
@@ -631,6 +641,46 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 ##### Artikel 69a. Strafbaarstelling
 
-Gedragingen in strijd met het bepaalde in de [artikelen 61](https://wetten.overheid.nl/jci1.3:c:BWBR0016880&hoofdstuk=5&paragraaf=1&artikel=61&z=2016-09-01&g=2016-09-01), [64](https://wetten.overheid.nl/jci1.3:c:BWBR0016880&hoofdstuk=5&paragraaf=1&artikel=64&z=2016-09-01&g=2016-09-01), [66](https://wetten.overheid.nl/jci1.3:c:BWBR0016880&hoofdstuk=5&paragraaf=2&artikel=66&z=2016-09-01&g=2016-09-01), [67](https://wetten.overheid.nl/jci1.3:c:BWBR0016880&hoofdstuk=5&paragraaf=2&artikel=67&z=2016-09-01&g=2016-09-01) en [68](https://wetten.overheid.nl/jci1.3:c:BWBR0016880&hoofdstuk=5&paragraaf=2&artikel=68&z=2016-09-01&g=2016-09-01) alsmede gedragingen in strijd met het bepaalde krachtens [artikel 65](https://wetten.overheid.nl/jci1.3:c:BWBR0016880&hoofdstuk=5&paragraaf=1&artikel=65&z=2016-09-01&g=2016-09-01) zijn strafbare feiten.
+Gedragingen in strijd met het bepaalde in de [artikelen 61](https://wetten.overheid.nl/jci1.3:c:BWBR0016880&hoofdstuk=5&paragraaf=1&artikel=61&z=2017-01-01&g=2017-01-01), [64](https://wetten.overheid.nl/jci1.3:c:BWBR0016880&hoofdstuk=5&paragraaf=1&artikel=64&z=2017-01-01&g=2017-01-01), [66](https://wetten.overheid.nl/jci1.3:c:BWBR0016880&hoofdstuk=5&paragraaf=2&artikel=66&z=2017-01-01&g=2017-01-01), [67](https://wetten.overheid.nl/jci1.3:c:BWBR0016880&hoofdstuk=5&paragraaf=2&artikel=67&z=2017-01-01&g=2017-01-01) en [68](https://wetten.overheid.nl/jci1.3:c:BWBR0016880&hoofdstuk=5&paragraaf=2&artikel=68&z=2017-01-01&g=2017-01-01) alsmede gedragingen in strijd met het bepaalde krachtens [artikel 65](https://wetten.overheid.nl/jci1.3:c:BWBR0016880&hoofdstuk=5&paragraaf=1&artikel=65&z=2017-01-01&g=2017-01-01) zijn strafbare feiten.
+
+Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad, in het Publicatieblad van de Nederlandse Antillen en in het Afkondigingsblad van Aruba zal worden geplaatst.
+
+##### Artikel 9a. Certificaat voor poolschepen (SOLAS)
+
+Voor een schip dat in polaire wateren vaart en waarvoor een internationaal veiligheidscertificaat als bedoeld in [artikel 5, eerste lid, onderdelen a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0016880&hoofdstuk=2&paragraaf=1&artikel=5&z=2017-01-01&g=2017-01-01), is afgegeven, is tevens een certificaat voor poolschepen benodigd als bedoeld in voorschrift 1.3.1 van de Polar-Code.
+
+#### § 2. Onderzoeken
+
+##### Artikel 19a. Onderzoeken in verband met het certificaat voor poolschepen (SOLAS)
+
+Een schip waarvoor een certificaat als bedoeld in [artikel 9a](https://wetten.overheid.nl/jci1.3:c:BWBR0016880&hoofdstuk=2&paragraaf=1&artikel=9a&z=2017-01-01&g=2017-01-01) benodigd is, wordt ter verkrijging van het certificaat en tijdens de geldigheidsduur daarvan onderworpen aan de in de Polar-Code voorgeschreven onderzoeken.
+
+#### § 3. Afgifte en geldigheid van certificaten
+
+### Hoofdstuk 3. Eisen aan schip en bedrijfsvoering
+
+#### § 1. Algemene bepalingen
+
+#### § 2. Eisen aan schepen
+
+##### Artikel 45a. Eisen aan schepen die in polaire wateren varen (SOLAS)
+
+Een schip waarvoor een certificaat als bedoeld in [artikel 9a](https://wetten.overheid.nl/jci1.3:c:BWBR0016880&hoofdstuk=2&paragraaf=1&artikel=9a&z=2017-01-01&g=2017-01-01) benodigd is, voldoet aan de vereisten zoals opgenomen in deel I-A van de Polar-Code.
+
+#### § 3. Eisen aan de bedrijfsvoering over schepen
+
+### Hoofdstuk 4. Vervoer van lading
+
+#### § 1. Vervoer van lading
+
+#### § 2. Vervoer van gevaarlijke stoffen
+
+### Hoofdstuk 5. Verplichtingen van de kapitein
+
+#### § 1. Algemene bepalingen
+
+#### § 2. Bijzondere bepalingen
+
+### Hoofdstuk 6. Slotbepalingen
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad, in het Publicatieblad van de Nederlandse Antillen en in het Afkondigingsblad van Aruba zal worden geplaatst.
