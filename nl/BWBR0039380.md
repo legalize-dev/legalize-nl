@@ -135,11 +135,3 @@ Dit onderdeel is nog niet inwerking getreden
 ##### Artikel XX
 
 Dit onderdeel is nog niet inwerking getreden
-
-Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
-
-Alzo Wij in overweging genomen hebben, dat het wenselijk is over te gaan tot het beëindigen van de mogelijkheid om fiscaal gefaciliteerd pensioen in eigen beheer op te bouwen en tegelijkertijd erin te voorzien dat een reeds opgebouwd pensioen in eigen beheer op een fiscaal vriendelijke wijze kan worden afgekocht dan wel kan worden omgezet in een zogenoemde oudedagsverplichting en dat het voorts wenselijk is een aantal andere maatregelen te treffen die betrekking hebben op oudedagsvoorzieningen en deels bijdragen aan het vereenvoudigen van het belastingstelsel en het terugdringen van de administratieve lasten;
-
-Zo is het, dat Wij, de Afdeling advisering van de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
-
-Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren die zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
