@@ -135,13 +135,3 @@ Wijzigt de Regeling Leerplusarrangement VO, Nieuwkomers VO en eerste opvang Vree
 Deze regeling wordt aangehaald als: Regeling aanvullende bekostiging eerste opvang nieuwkomers vo 2017.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
-
-##### Artikel 4a. Extra aanvullende bekostiging 2020
-
-1. In aanvulling op de aanvullende bekostiging, bedoeld in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0038995&artikel=3&z=2020-06-30&g=2020-06-30), en [artikel 4, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0038995&artikel=4&z=2020-06-30&g=2020-06-30), verstrekt de minister in 2020 eenmalig ambtshalve extra aanvullende bekostiging voor nieuwkomers in verband met de uitbraak van COVID-19.
-
-2. In afwijking van [artikel 4, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0038995&artikel=4&z=2020-06-30&g=2020-06-30), wordt de extra aanvullende bekostiging per school berekend op basis van het aantal ingeschreven nieuwkomers op de peildatum 1 april 2020 dat stond geregistreerd in BRON op 16 april 2020.
-
-3. De extra aanvullende bekostiging bedraagt per nieuwkomer eerste categorie en nieuwkomer tweede categorie € 1.052,27.
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
