@@ -4,7 +4,7 @@ identifier: "BWBR0002080"
 country: "nl"
 rank: "wet"
 publication_date: "2023-01-01"
-last_updated: "2016-01-01"
+last_updated: "2017-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0002080"
 soort: "wet"
@@ -81,7 +81,7 @@ Er zijn vier gerechtshoven, die als volgt worden aangeduid:
 
 ##### Artikel 3
 
-Het rechtsgebied van een rechtbank onderscheidenlijk gerechtshof omvat het in [paragraaf 2](https://wetten.overheid.nl/jci1.3:c:BWBR0002080&paragraaf=2&z=2016-01-01&g=2016-01-01) onderscheidenlijk [paragraaf 3](https://wetten.overheid.nl/jci1.3:c:BWBR0002080&paragraaf=3&z=2016-01-01&g=2016-01-01) als zodanig genoemde arrondissement onderscheidenlijk ressort.
+Het rechtsgebied van een rechtbank onderscheidenlijk gerechtshof omvat het in [paragraaf 2](https://wetten.overheid.nl/jci1.3:c:BWBR0002080&paragraaf=2&z=2017-01-01&g=2017-01-01) onderscheidenlijk [paragraaf 3](https://wetten.overheid.nl/jci1.3:c:BWBR0002080&paragraaf=3&z=2017-01-01&g=2017-01-01) als zodanig genoemde arrondissement onderscheidenlijk ressort.
 
 ##### Artikel 4
 
@@ -109,7 +109,7 @@ Het arrondissement Noord-Nederland omvat het grondgebied van de provincies Drent
 
 ##### Artikel 10
 
-Het arrondissement Oost-Brabant omvat het grondgebied van de gemeenten Asten, Bergeijk, Bernheze, Best, Bladel, Boekel, Boxmeer, Boxtel, Cranendonck, Cuijk, Deurne, Eersel, Eindhoven, Geldrop-Mierlo, Gemert-Bakel, Grave, Haaren, Heeze-Leende, Helmond, ’s-Hertogenbosch, Heusden, Laarbeek, Landerd, Mill en St. Hubert, Nuenen, Gerwen en Nederwetten, Oirschot, Oss, Reusel-De Mierden, Schijndel, Sint Anthonis, Sint-Michielsgestel, Sint-Oedenrode, Someren, Son en Breugel, Uden, Valkenswaard, Veghel, Veldhoven, Vught en Waalre.
+Het arrondissement Oost-Brabant omvat het grondgebied van de gemeenten Asten, Bergeijk, Bernheze, Best, Bladel, Boekel, Boxmeer, Boxtel, Cranendonck, Cuijk, Deurne, Eersel, Eindhoven, Geldrop-Mierlo, Gemert-Bakel, Grave, Haaren, Heeze-Leende, Helmond, ’s-Hertogenbosch, Heusden, Laarbeek, Landerd, Meierijstad, Mill en St. Hubert, Nuenen, Gerwen en Nederwetten, Oirschot, Oss, Reusel-De Mierden, Sint Anthonis, Sint-Michielsgestel, Someren, Son en Breugel, Uden, Valkenswaard, Veldhoven, Vught en Waalre.
 
 ##### Artikel 11
 
