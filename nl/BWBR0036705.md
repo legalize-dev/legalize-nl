@@ -4,7 +4,7 @@ identifier: "BWBR0036705"
 country: "nl"
 rank: "amvb"
 publication_date: "2025-04-01"
-last_updated: "2015-07-01"
+last_updated: "2017-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0036705"
 soort: "AMvB"
@@ -52,31 +52,25 @@ Hebben goedgevonden en verstaan:
 
 In dit besluit wordt verstaan onder:
 
-- a. **aandachtsgebieden:** het geheel van delictsoorten of clusters van delictsoorten, dadergroepen, aanpakstrategieën of geografische gebieden waarop de activiteiten van de politie kunnen worden gericht;
+- **ambtenaren van politie:** ambtenaren als bedoeld in [artikel 2, onder a, b en c, van de Politiewet 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&artikel=2);
 
-- b. **horizontale fraude;** fraude in het particuliere geld- en goederenverkeer, met een particuliere partij als benadeelde;
+- **arrestantenzorg:** zorg voor de huisvesting, veiligheid, verzorging, bejegening en het vervoer van ingeslotenen door de regionale eenheid en door de Landelijke eenheid, bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0036705&hoofdstuk=3&artikel=3&z=2017-01-01&g=2017-01-01), in het gebied van die regionale eenheid;
 
-- c. **taakaccent:** gebied binnen de horizontale fraude, waarop expertise is ontwikkeld;
+- **beheersplan:** het beheersplan, bedoeld in [artikel 37, eerste lid, van de Politiewet 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&artikel=37);
 
-- d. **beheersplan:** het beheersplan, bedoeld in [artikel 37, eerste lid, van de Politiewet 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&artikel=37);
+- **commissies van toezicht op de arrestantenzorg:** de commissie, bedoeld in [artikel 50](https://wetten.overheid.nl/jci1.3:c:BWBR0036705&hoofdstuk=9&artikel=50&z=2017-01-01&g=2017-01-01);
 
-- e. **jaarverslag:** het jaarverslag, bedoeld in [artikel 37, eerste lid, van de Politiewet 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&artikel=37);
+- **ingeslotene:** de persoon die rechtens van zijn vrijheid is beroofd, alsmede de persoon die ten behoeve van de hulpverlening aan hem op een politiebureau is ondergebracht;
 
-- f. **jaaraanschrijving:** jaaraanschrijving van Onze Minister waarin aanwijzingen worden gegeven aan de korpschef;
+- **jaaraanschrijving:** jaaraanschrijving van Onze Minister waarin aanwijzingen worden gegeven aan de korpschef;
 
-- g. **managementrapportage:** rapportage van de korpschef aan Onze Minister waarin wordt ingegaan op de uitvoering van het beheersplan;
+- **jaarverslag:** het jaarverslag, bedoeld in [artikel 37, eerste lid, van de Politiewet 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&artikel=37);
 
-- h. **commissies van toezicht op de arrestantenzorg:** de commissie, bedoeld in [artikel 24](https://wetten.overheid.nl/jci1.3:c:BWBR0036705&hoofdstuk=6&artikel=24&z=2015-07-01&g=2015-07-01);
+- **managementrapportage:** rapportage van de korpschef aan Onze Minister waarin wordt ingegaan op de uitvoering van het beheersplan;
 
-- i. **arrestantenzorg:** zorg voor de huisvesting, veiligheid, verzorging, bejegening en vervoer van ingeslotenen door de regionale eenheid en door een landelijke eenheid in het gebied van die regionale eenheid;
+- **politiecellencomplex:** een in een gebouw van de politie te onderscheiden ruimte waarin één of meer gangen met daaraan grenzend één of meer ruimten liggen die door de politie worden gebruikt voor het insluiten van personen.
 
-- j. **ingeslotene:** de persoon die rechtens van zijn vrijheid is beroofd, alsmede de persoon die ten behoeve van de hulpverlening aan hem op een politiebureau is ondergebracht;
-
-- k. **politiecellencomplex:** een in een gebouw te onderscheiden ruimte waarin één of meer gangen met daaraan grenzend één of meer ruimten liggen die door de politie worden gebruikt voor het insluiten van personen;
-
-- m. **ambtenaren van politie:** ambtenaren als bedoeld in [artikel 2, onder a, b en c, van de Politiewet 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&artikel=2).
-
-### Hoofdstuk 2. Hoofdlijnen organisatie landelijk korps
+### Hoofdstuk 2. Aanwijzing leden van de leiding van een eenheid
 
 ##### Artikel 2
 
@@ -84,7 +78,131 @@ Bij ministeriële regeling worden ambtenaren van politie aangewezen die naast de
 
 ##### Artikel 3
 
-1. De regionale eenheden worden als volgt aangeduid:
+1. Er is één landelijke eenheid als bedoeld in [artikel 25, eerste lid, onder b, van de Politiewet 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&artikel=25), genaamd: Landelijke eenheid.
+
+2. De Landelijke eenheid is belast met de taken, bedoeld in [artikel 42, eerste lid, onder a tot en met c, van de Politiewet 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&artikel=42).
+
+3. De Landelijke eenheid bestaat uit de leiding van de Landelijke eenheid en uit de volgende onderdelen:
+
+- a. de Staf landelijke eenheid;
+
+- b. de Dienst landelijk operationeel centrum;
+
+- c. de Dienst landelijke recherche;
+
+- d. de Dienst landelijke informatieorganisatie;
+
+- e. de Dienst landelijke operationele samenwerking;
+
+- f. de Dienst infrastructuur;
+
+- g. de Dienst bewaken en beveiligen;
+
+- h. de Dienst speciale interventies;
+
+- i. de Dienst bedrijfsvoering Landelijke eenheid.
+
+### Hoofdstuk 3. Hoofdlijnen organisatie landelijke eenheid
+
+##### Artikel 4
+
+De Staf landelijke eenheid heeft in ieder geval tot taak de ondersteuning van de leiding van de Landelijke eenheid.
+
+##### Artikel 5
+
+De Dienst landelijk operationeel centrum heeft in ieder geval tot taak:
+
+- a. het monitoren, ondersteunen en coördineren van operaties van de Landelijke eenheid en van grootschalige operaties;
+
+- b. het aannemen en doorgeleiden van via het landelijke telefoonnummer 112 middels een mobiel netwerk ontvangen meldingen van spoedeisende situaties;
+
+- c. het aannemen en doorgeleiden van via het landelijke telefoonnummer 144 ontvangen meldingen over mishandeling of verwaarlozing van dieren, dieren in acute nood, gewonde dieren of dieren die een gevaar voor zichzelf of de veiligheid van mensen opleveren.
+
+##### Artikel 6
+
+De Dienst landelijke recherche heeft in ieder geval tot taak:
+
+- a. het bestrijden van zware, georganiseerde vormen van criminaliteit die naar aard of organisatie een (inter)nationaal karakter hebben en de rechtstaat of de vitale infrastructuur ondermijnen;
+
+- b. het afhandelen van complexe internationale rechtshulpverzoeken;
+
+- c. het leveren van specialistische ondersteuning bij de bestrijding van de criminaliteit.
+
+##### Artikel 7
+
+De Dienst landelijke informatieorganisatie heeft in ieder geval tot taak:
+
+- a. het landelijk inwinnen, coördineren en verwerken van informatie ten behoeve van de sturing op en de ondersteuning van de politietaak;
+
+- b. het afhandelen van internationale rechtshulpverzoeken;
+
+- c. het verzorgen van internationale informatie-uitwisseling.
+
+##### Artikel 8
+
+De Dienst landelijke operationele samenwerking heeft in ieder geval tot taak het leveren van hoogwaardige, specialistische ondersteuning ten behoeve van de uitvoering van de politietaak, waaronder:
+
+- a. het in stand houden van infiltratieteams die als taak hebben het uitvoeren van een bevel tot infiltratie, tot pseudo-koop of -dienstverlening en tot stelselmatige inwinning van informatie;
+
+- b. het verzamelen en verwerken van opsporings- en handhavingsinformatie;
+
+- c. het ontwikkelen en toepassen van innovatieve instrumenten en expertise;
+
+- d. de inzet van bereden politie voor de uitvoering van de politietaak en protocollaire taken;
+
+- e. de inzet van politiespeurhonden als bedoeld in [artikel 23, onder c, van het Besluit bewapening en uitrusting politie](https://wetten.overheid.nl/jci1.3:c:BWBR0032136&artikel=23), en specialistische dieren;
+
+- f. het leveren van specialistische forensische ondersteuning;
+
+- g. het in stand houden van een landelijk team forensische opsporing.
+
+##### Artikel 9
+
+De Dienst infrastructuur heeft in ieder geval tot taak:
+
+- a. het uitvoeren van de politietaak op de (hoofd)infrastructuur en het signaleren en adviseren daarover en het coördineren daarvan;
+
+- b. het bieden en uitvoeren van specialistische ondersteuning voor de uitvoering van de politietaak op de (hoofd)infrastructuur;
+
+- c. het geven van luchtsteun en het uitvoeren van het luchtvaarttoezicht.
+
+##### Artikel 10
+
+De Dienst bewaken en beveiligen heeft in ieder geval tot taak:
+
+- a. de persoonsbeveiliging van de leden van het Koninklijk Huis en hun gasten;
+
+- b. het zorgdragen voor de beveiliging van personen;
+
+- c. het opstellen en uitvoeren van beveiligingsplannen;
+
+- d. het verzorgen van de coördinatie van bijzondere middelen en beveiligingsmaatregelen waar deze inzet de eenheden overstijgt.
+
+##### Artikel 11
+
+De Dienst speciale interventies heef in ieder geval tot taak:
+
+- a. het in stand houden van aanhoudings- en ondersteuningsteams die, indien redelijkerwijs mag worden aangenomen dat levensbedreigende omstandigheden tegen de politie of anderen dreigen, tot taak hebben:
+
+- 1°. het verrichten van planmatige aanhoudingen;
+
+- 2°. het bewaken en beveiligen van politie-infiltranten;
+
+- 3°. het assisteren bij het bewaken en beveiligen van het transport van getuigen, verdachten of gedetineerden;
+
+- 4°. het assisteren bij het bewaken en beveiligen van objecten en andere werkzaamheden waarvoor toestemming is verkregen van het bevoegd gezag;
+
+- b. het in stand houden van één of meerdere bijzondere bijstandseenheden als bedoeld in [artikel 59, eerste lid, van de Politiewet 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&artikel=59) of onderdelen daarvan.
+
+### Hoofdstuk 4. Hoofdlijnen organisatie regionale eenheden
+
+##### Artikel 12
+
+De Dienst bedrijfsvoering landelijke eenheid heeft in ieder geval tot taak het sturen van de bedrijfsvoeringsactiviteiten ingericht binnen de Landelijke eenheid en het zorgdragen voor de aansluiting tussen de vraag vanuit de Landelijke eenheid en de door het Politiedienstencentrum te leveren producten en diensten.
+
+##### Artikel 13
+
+De regionale eenheden worden als volgt aangeduid:
 
 - a. de regionale eenheid in het arrondissement Noord-Nederland als: de regionale eenheid Noord-Nederland;
 
@@ -106,153 +224,111 @@ Bij ministeriële regeling worden ambtenaren van politie aangewezen die naast de
 
 - j. de regionale eenheid in het arrondissement Limburg als: de regionale eenheid Limburg.
 
-2. De regionale eenheden zijn onderverdeeld in districten en functionele onderdelen. De districten zijn onderverdeeld in basisteams.
-
-### Hoofdstuk 3. Hoofdlijnen organisatie landelijke eenheid
-
-##### Artikel 4
-
-De volgende diensten maken onderdeel uit van één landelijke eenheid:
-
-- a. de dienst Nationale recherche;
-
-- b. de dienst IPOL;
-
-- c. de dienst Specialistische recherche toepassingen;
-
-- d. de dienst Speciale interventies;
-
-- e. de dienst Verkeerspolitie;
-
-- f. de dienst Waterpolitie;
-
-- g. de dienst Spoorwegpolitie;
-
-- h. de dienst Operationele samenwerking; en
-
-- i. de dienst Koninklijke en diplomatieke beveiliging.
-
-##### Artikel 5
-
-De dienst Nationale recherche heeft in ieder geval tot taak:
-
-- a. het binnen vooraf door het bevoegd gezag vastgestelde aandachtsgebieden verrichten van onderzoeken naar zware en georganiseerde criminaliteit die naar aard of organisatie een landelijk of internationaal karakter hebben en die de rechtsstaat in ernstige mate bedreigen;
-
-- b. het afhandelen van gecompliceerde internationale rechtshulpverzoeken op de door het bevoegd gezag aangewezen aandachtsgebieden van de dienst Nationale recherche en van gecompliceerde rechtshulpverzoeken die niet zijn terug te brengen op een specifieke regionale eenheid of opsporingsinstantie;
-
-- c. het verrichten van onderzoeken van nationaal belang zoals die door het bevoegd gezag als zodanig zijn aangewezen en die naar aard of methodiek aansluiten bij de dienst;
-
-- d. het leveren van capaciteit ten behoeve van internationale samenwerkingsverbanden;
-
-- e. het vervullen van een landelijke expertisefunctie op de voor de dienst Nationale recherche door het bevoegd gezag vastgestelde aandachtsgebieden, ten behoeve van het opstellen van criminaliteitsbeeldanalyses en het nationaal dreigingsbeeld alsmede het vervullen van deze functie ter ondersteuning van de bestrijding en voorkoming van zware en georganiseerde criminaliteit en van de operationele onderzoeken van de dienst en andere opsporingseenheden;
-
-- f. de bestrijding van de productie en verspreiding van XTC, de bestrijding van terrorisme en het verrichten van onderzoeken naar oorlogsmisdrijven.
-
-##### Artikel 6
-
-De dienst IPOL stelt in opdracht van het College van procureurs-generaal vierjaarlijks een nationaal dreigingsbeeld op ten behoeve van de bestrijding van de georganiseerde criminaliteit.
-
-##### Artikel 7
-
-1. Bij de dienst IPOL is een landelijk internationaal rechtshulpcentrum ondergebracht.
-
-2. Het landelijk internationaal rechtshulpcentrum heeft in ieder geval tot taak:
-
-- a. de registratie van rechtshulpverzoeken ten behoeve van de eenheid, bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0036705&hoofdstuk=3&artikel=4&z=2015-07-01&g=2015-07-01), en de bijzondere opsporingsdiensten;
-
-- b. de uitvoering van eenvoudige rechtshulpverzoeken ten behoeve van de eenheid, bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0036705&hoofdstuk=3&artikel=4&z=2015-07-01&g=2015-07-01), alsmede de coördinatie van de uitvoering en het toezicht op de kwaliteit van de afhandeling van overige rechtshulpverzoeken ten behoeve van de eenheid, bedoeld in artikel 4;
-
-- c. de uitvoering van eenvoudige rechtshulpverzoeken ten behoeve van de bijzondere opsporingsdiensten;
-
-- d. het zijn van kennis- en expertisecentrum op het gebied van internationale rechtshulp;
-
-- e. het beheer van de informatiekanalen, genoemd in de bijlage.
-
-##### Artikel 8
-
-Bij de dienst IPOL is een onderdeel ondergebracht dat in ieder geval is belast met het, ten behoeve van de recherchefunctie, verwerken van gegevens die noodzakelijk zijn voor de opsporing van misdrijven als bedoeld in [artikel 10, eerste lid, onderdeel a, van de Wet politiegegevens](https://wetten.overheid.nl/jci1.3:c:BWBR0022463&artikel=10).
-
-##### Artikel 9
-
-1. Bij de dienst Specialistische recherche toepassingen zijn infiltratieteams en een team operationele ondersteuning ondergebracht.
-
-2. De infiltratieteams zijn belast met de uitvoering van een bevel tot infiltratie als bedoeld in [artikel 126h, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=126h), [artikel 126p, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=126p), of [artikel 126ze, eerste lid, van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=126ze) en met de begeleiding van personen die op grond van [artikel 126w, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=126w), [126x, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=126x), of [artikel 126zu, eerste lid, van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=126zu) bijstand verlenen aan de opsporing.
-
-3. De infiltratieteams kunnen worden belast met:
-
-- a. de uitvoering van een bevel tot pseudo-koop of pseudo-dienstverlening als bedoeld in [artikel 126i, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=126i), of [artikel 126q, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=126q), [126zd, eerste lid, onder b van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=126zd) en met de begeleiding van personen die op grond van [artikel 126ij, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=126ij), [artikel 126z, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=126z), of [artikel 126zt, eerste lid, onder a, van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=126zt) bijstand verlenen aan de opsporing;
-
-- b. de uitvoering van een bevel tot stelselmatige inwinning van informatie als bedoeld in [artikel 126j, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=126j), of [artikel 126qa, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=126qa), of [artikel 126zd, eerste lid, onder c, van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=126zd) en met de begeleiding van personen die op grond van [artikel 126v, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=126v), en [artikel 126zt, eerste lid, onder b, van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=126zt) bijstand verlenen aan de opsporing.
-
-4. Het team operationele ondersteuning heeft tot taak:
-
-- a. de selectie en de opleiding van kandidaat-leden van een infiltratieteam;
-
-- b. algemene en bijzondere ondersteuning in het kader van de taakuitvoering van infiltratieteams, waaronder het verzorgen van tijdelijke identiteiten en fictieve rechtspersonen;
-
-- c. de coördinatie van internationale rechtshulpverzoeken tot infiltratie, pseudokoop of pseudodienstverlening of stelselmatige inwinning van informatie;
-
-- d. de registratie van leden van een infiltratieteam alsmede de registratie van bevelen tot infiltratie.
-
-5. Bij ministeriële regeling kunnen nadere regels worden gesteld over de teams, bedoeld in het eerste lid.
-
-##### Artikel 10
-
-De dienst Speciale interventies heeft, indien redelijkerwijs mag worden aangenomen dat levensbedreigende omstandigheden tegen de politie of anderen dreigen, in ieder geval tot taak:
-
-- a. het verrichten van planmatige aanhoudingen;
-
-- b. het bewaken en beveiligen van politie-infiltranten;
-
-- c. het assisteren bij het bewaken en beveiligen van het transport van getuigen, verdachten of gedetineerden;
-
-- d. het assisteren bij het bewaken en beveiligen van objecten;
-
-- e. andere werkzaamheden waarvoor toestemming is verkregen van Onze Minister.
-
-##### Artikel 11
-
-1. Het landelijk team forensische opsporing is ondergebracht bij de dienst Operationele samenwerking. Dit team verricht in ieder geval de volgende werkzaamheden:
-
-- a. het verlenen van assistentie bij grootschalig of bijzonder forensisch onderzoek;
-
-- b. het verlenen van assistentie bij berging en identificatie van slachtoffers bij rampen of in die gevallen waarin identificatie van slachtoffers technisch bijzondere moeilijkheden oplevert.
-
-2. De korpschef houdt ambtenaren van politie beschikbaar ten behoeve van het landelijk team forensische opsporing. Zij zijn direct inzetbaar.
-
-3. De ambtenaren van politie, bedoeld in het tweede lid, worden door de korpschef aangewezen, waarbij wordt aangegeven welke functie de betrokken ambtenaar in het landelijk team forensische opsporing zal vervullen.
-
-### Hoofdstuk 4. Hoofdlijnen organisatie regionale eenheden
-
-##### Artikel 12
-
-De regionale eenheden beschikken ten behoeve van de uitoefening van de recherchefunctie over voorzieningen op het gebied van:
-
-- a. tactische recherche;
-
-- b. technische recherche;
-
-- c. financiële recherche;
-
-- d. digitale recherche;
-
-- e. informatievoorziening.
-
-##### Artikel 13
-
-1. De regionale eenheden beschikken elk ten minste over een onderdeel dat is belast met het, ten behoeve van de recherchefunctie, verwerken van gegevens die noodzakelijk zijn voor de opsporing van misdrijven als bedoeld in [artikel 10, eerste lid, onderdeel a, van de Wet politiegegevens](https://wetten.overheid.nl/jci1.3:c:BWBR0022463&artikel=10).
-
-2. De onderdelen, bedoeld in het eerste lid, houden, zelfstandig of samen met andere onderdelen, bedoeld in het eerste lid, ten behoeve van de recherchefunctie een gegevensbestand voor de verwerking van politiegegevens, bedoeld in [artikel 10, eerste lid, onderdeel a, van de Wet politiegegevens](https://wetten.overheid.nl/jci1.3:c:BWBR0022463&artikel=10).
-
-3. De regionale eenheden beschikken zelfstandig of samen met één of meer andere regionale eenheden over één of meer observatie-eenheden die zijn belast met de uitvoering van een bevel tot observatie als bedoeld in de [artikelen 126g](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=126g) en [126o van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=126o).
-
-4. De regionale eenheden Oost-Nederland, Amsterdam, Rotterdam, Zeeland-West-Brabant en Limburg beschikken ieder binnen de in het derde lid bedoelde observatie-eenheden die zijn belast met de uitvoering van een bevel tot observatie over een capaciteit van ten minste 10 fte om, op basis van een verzoek om rechtshulp, buitenlandse observatieacties te kunnen voortzetten.
-
 ##### Artikel 14
 
-1. De regionale eenheden beschikken ieder over een organisatie van mobiele eenheden ten behoeve van de volgende werkzaamheden:
+1. Een regionale eenheid bestaat uit de leiding van de regionale eenheid en in ieder geval uit de volgende onderdelen:
 
-- a. het optreden ter handhaving van de openbare orde en hulpverlening in het bijzonder bij grootschalige manifestaties en evenementen;
+- a. de Staf regionale eenheid;
+
+- b. districten;
+
+- c. de Dienst regionaal operationeel centrum;
+
+- d. de Dienst regionale recherche;
+
+- e. de Dienst regionale informatieorganisatie;
+
+- f. de Dienst regionale operationele samenwerking;
+
+- g. de Dienst bedrijfsvoering regionale eenheid.
+
+2. De regionale eenheid Amsterdam bestaat tevens uit een Dienst infrastructuur.
+
+3. De regionale eenheid Rotterdam bestaat tevens uit een Dienst zeehavenpolitie.
+
+##### Artikel 15
+
+De Staf regionale eenheid heeft in ieder geval tot taak het ondersteunen van de leiding van de regionale eenheid.
+
+##### Artikel 16
+
+1. Een district is geografisch verdeeld in basisteams, die gebiedsgebonden basispolitiezorg uitvoeren.
+
+2. Een district bestaat voorts uit:
+
+- a. een districtsrecherche;
+
+- b. een flexteam.
+
+##### Artikel 17
+
+De districtsrecherche heeft in ieder geval tot taak het opsporen en aanpakken van criminaliteit met hoge impact en de probleemgerichte aanpak van veelvoorkomende criminaliteit.
+
+##### Artikel 18
+
+Het flexteam heeft in ieder geval tot taak het probleemgericht inzetten van capaciteit ter ondersteuning van de basisteams.
+
+### Hoofdstuk 5. Jaaraanschrijving, beheersplan, managementrapportages, jaarverslag en informatieverstrekking
+
+##### Artikel 19
+
+De Dienst regionaal operationeel centrum heeft in ieder geval tot taak zorg te dragen voor de operationele aansturing van politieoperaties.
+
+##### Artikel 20
+
+1. De Dienst regionale recherche heeft in ieder geval tot taak:
+
+- a. het doen van probleem- en themagerichte onderzoeken naar criminele samenwerkingsverbanden, onderzoeken naar delicten met hoge impact, onderzoeken op geprioriteerde thema’s en onderzoeken naar criminele activiteiten die aan terrorisme kunnen worden gelieerd;
+
+- b. het handhaven van de vreemdelingenwetgeving en het bestrijden van mensenhandel en mensensmokkel;
+
+- c. het bieden van specialistische ondersteuning in de eenheid op het terrein van de opsporing;
+
+- d. het, ten behoeve van de recherchefunctie, verwerken van gegevens die noodzakelijk zijn voor de opsporing van misdrijven als bedoeld in [artikel 10, eerste lid, onderdeel a, van de Wet politiegegevens](https://wetten.overheid.nl/jci1.3:c:BWBR0022463&artikel=10).
+
+2. De Dienst regionale recherche houdt, zelfstandig of samen met een Dienst regionale recherche van één of meer andere regionale eenheden ten behoeve van de recherchefunctie een gegevensbestand bij voor de verwerking van politiegegevens, bedoeld in [artikel 10, eerste lid, onderdeel a, van de Wet politiegegevens](https://wetten.overheid.nl/jci1.3:c:BWBR0022463&artikel=10).
+
+3. De Dienst regionale recherche beschikt zelfstandig of samen met een Dienst regionale recherche van één of meer andere regionale eenheden over één of meer observatie-eenheden die zijn belast met de uitvoering van een bevel tot observatie als bedoeld in de [artikelen 126g](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=126g) en [126o van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=126o).
+
+##### Artikel 21
+
+De Dienst regionale informatieorganisatie heeft in ieder geval tot taak het inwinnen van criminele-inlichtingen en openbare orde-inlichtingen, coördineren, analyseren, veredelen en verstrekken van informatie ten behoeve van de sturing op en de ondersteuning van de uitvoering van het politiewerk.
+
+##### Artikel 22
+
+De Dienst regionale operationele samenwerking heeft in ieder geval tot taak het ondersteunen van de uitvoering van het politiewerk in de regionale eenheid. Bij deze dienst zijn in ieder geval ondergebracht taken op het terrein van:
+
+- a. de conflict- en crisisbeheersing;
+
+- b. het toezicht, de handhaving en de criminaliteitsbestrijding op de infrastructuur;
+
+- c. de arrestantenbehandeling;
+
+- d. de inzet van diensthonden.
+
+### Hoofdstuk 6. Ingeslotenen
+
+##### Artikel 23
+
+De Dienst infrastructuur van de regionale eenheid Amsterdam is in ieder geval belast met de uitvoering van de politietaak op de hoofdwegen, het water en het havengebied van Amsterdam.
+
+##### Artikel 24
+
+De Dienst zeehavenpolitie van de regionale eenheid Rotterdam is in ieder geval belast met de uitvoering van de politietaak in het zeehavengebied van Rotterdam.
+
+### Hoofdstuk 7. Politielegitimatiebewijs, politiecellencomplex en politielogo
+
+##### Artikel 25
+
+De Dienst bedrijfsvoering regionale eenheid heeft in ieder geval tot taak het sturen van de bedrijfsvoering die binnen de regionale eenheid is ingericht en het zorgdragen voor de aansluiting tussen de vraag vanuit de regionale eenheid en de door het Politiedienstencentrum te leveren producten en diensten.
+
+### Hoofdstuk 6. De ondersteunende diensten
+
+##### Artikel 26
+
+De regionale eenheden beschikken ieder over een organisatie van mobiele eenheden ten behoeve van:
+
+- a. het optreden ter handhaving van de openbare orde en hulpverlening, in het bijzonder bij grootschalige manifestaties en evenementen;
 
 - b. het uitvoeren van evacuaties;
 
@@ -264,103 +340,141 @@ De regionale eenheden beschikken ten behoeve van de uitoefening van de recherche
 
 - f. het aanhouden van ordeverstoorders.
 
-2. Bij ministeriële regeling worden nadere regels gesteld over de mobiele eenheden.
+##### Artikel 27
 
-##### Artikel 15
+De regionale eenheden en de Landelijke eenheid beschikken ieder over een staf die ten behoeve van het bevoegd gezag zorg draagt voor de coördinatie van grootschalig politieoptreden.
 
-De regionale eenheden beschikken ieder over een staf die ten behoeve van het bevoegd gezag zorg draagt voor de coördinatie van grootschalig politieoptreden.
+##### Artikel 28
 
-##### Artikel 16
+1. Er is een ondersteunde dienst, genaamd: Staf korpsleiding.
 
-1. De regionale eenheden beschikken zelfstandig of samen met één of meer andere regionale eenheden over één of meerdere onderdelen die uitsluitend tot taak hebben, indien redelijkerwijs mag worden aangenomen dat levensbedreigende omstandigheden tegen de politie of anderen dreigen, de volgende werkzaamheden uit te voeren:
+2. De Staf korpsleiding bestaat uit de volgende onderdelen:
 
-- a. het verrichten van planmatige aanhoudingen;
+- a. de Korpsstaf;
 
-- b. het bewaken en beveiligen van politie-infiltranten;
+- b. de Directie operatiën;
 
-- c. het assisteren bij het bewaken en beveiligen van het transport van getuigen, verdachten of gedetineerden;
+- c. de Directie human resource management;
 
-- d. het assisteren bij het bewaken en beveiligen van objecten;
+- d. de Directie facility management;
 
-- e. andere werkzaamheden waarvoor toestemming is verkregen van Onze Minister.
+- e. de Directie financiën en control;
 
-2. Bij ministeriële regeling worden nadere regels gesteld over de onderdelen, bedoeld in het eerste lid.
+- f. de Directie informatievoorziening;
 
-##### Artikel 17
+- g. de Directie communicatie.
 
-1. De volgende regionale eenheden beschikken zelfstandig over een team bestrijding middencriminaliteit:
+##### Artikel 29
 
-- a. de regionale eenheid Midden-Nederland;
+De Korpsstaf heeft in ieder geval tot taak de ondersteuning van de korpschef en de krachtens [artikel 28, derde lid, van de Politiewet 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&artikel=28) aangewezen ambtenaren van politie die deel uitmaken van de leiding van de politie.
 
-- b. de regionale eenheid Noord-Holland;
+##### Artikel 30
 
-- c. de regionale eenheid Amsterdam;
+De Directie operatiën heeft in ieder geval tot taak het ontwikkelen van de strategie- en beleidsvorming van de politie op het terrein van de politiële taakuitvoering.
 
-- d. de regionale eenheid Den Haag;
+## Bijlage. als bedoeld in [artikel 7, tweede lid, onder e](https://wetten.overheid.nl/jci1.3:c:BWBR0036705&hoofdstuk=3&artikel=7&z=2015-07-01&g=2015-07-01)
 
-- e. de regionale eenheid Rotterdam.
+Internationale politiële informatie-uitwisseling vindt plaats:
 
-2. De volgende regionale eenheden beschikken tezamen over een team bestrijding middencriminaliteit:
+- A. door Liaison officiers die organisatorisch onder de eenheid, bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0036705&hoofdstuk=3&artikel=4&z=2015-07-01&g=2015-07-01), vallen en werkzaam zijn bij door het Ministerie van Buitenlandse Zaken beheerde ambassades buiten Nederland;
 
-- a. de regionale eenheden Noord-Nederland en Oost-Nederland;
+- B. door buitenlandse verbindingsofficieren, bedoeld in de Regeling Buitenlandse Verbindingsofficieren;
 
-- b. de regionale eenheden Zeeland-West-Brabant, Oost-Brabant en Limburg.
+- C. door tussenkomst van het Nationaal Centraal Bureau Interpol, bedoeld in de artikel 32 van de ICPO-Interpol Constitution and General Regulations;
 
-3. Met uitzondering van het team in De regionale eenheid Midden-Nederland bestaat een team bestrijding middencriminaliteit in ieder geval uit een onderdeel dat zich richt op het taakveld:
+- D. door tussenkomst van Bureau Sirene, bedoeld in artikel 108 van de Schengen-uitvoeringsovereenkomst;
 
-- a. fraude;
+- E. door tussenkomst van Dutch Desk Europol, bedoeld in artikel 1 van de Besluit 2009/371/BJZ van de Raad van 6 april 2009 tot oprichting van de Europese politiedienst (Europol) (PbEU 2009, L 121).
 
-- b. milieu.
+Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
 
-4. Het team middencriminaliteit Midden-Nederland bestaat in ieder geval uit een onderdeel dat zich richt op het taakveld fraude.
+### Hoofdstuk 3. De landelijke eenheid
 
-5. De teams bestrijding middencriminaliteit hebben tot taak:
+### Hoofdstuk 4. De regionale eenheden
 
-- a. het verrichten van tactische en financiële opsporingsonderzoeken, alsmede het afhandelen van internationale rechtshulpverzoeken, naar vormen van middencriminaliteit;
+### Hoofdstuk 5. Paraatheid
 
-- b. het verrichten van zware en middelzware opsporingsonderzoeken, alsmede het afhandelen van internationale rechtshulpverzoeken, naar horizontale fraude binnen het taakaccent;
+##### Artikel 31
 
-- c. het vervullen van een expertisefunctie op het gebied van horizontale fraude en financieel rechercheren;
+De Directie human resource management heeft in ieder geval tot taak het ontwikkelen van de strategie- en beleidsvorming van de politie op het terrein van personeelszaken.
 
-- d. het in stand houden van een fraudemeldpunt op het taakaccent;
+##### Artikel 32
 
-- e. het onderdeel dat zich richt op het taakveld milieu heeft als taak het verrichten van tactische opsporingsonderzoeken naar complexe en ketengerelateerde milieudelicten.
+De Directie facility management heeft in ieder geval tot taak het ontwikkelen van de strategie- en beleidsvorming van de politie op het terrein van huisvestiging, middelen en diensten ter ondersteuning van de politie.
 
-##### Artikel 18
+##### Artikel 33
 
-1. De volgende regionale eenheden beschikken zelfstandig over een internationaal rechtshulpcentrum:
+De Directie financiën en control heeft in ieder geval tot taak het ontwikkelen van de strategie- en beleidsvorming van de politie op het terrein van de financiën alsmede het stellen van financiële kaders en het bewaken van de doelmatige besteding van de middelen.
 
-- a. de regionale eenheid Noord-Holland;
+##### Artikel 34
 
-- b. de regionale eenheid Amsterdam;
+De Directie informatievoorziening heeft in ieder geval tot taak het ontwikkelen van de strategie- en beleidsvorming van de politie op het terrein van de informatievoorziening.
 
-- c. de regionale eenheid Den Haag;
+##### Artikel 35
 
-- d. de regionale eenheid Rotterdam.
+De Directie communicatie heeft in ieder geval tot taak het ontwikkelen van de strategie- en beleidsvorming van de politie op het terrein van de communicatie.
 
-2. De volgende regionale eenheden beschikken tezamen over een internationaal rechtshulpcentrum:
+##### Artikel 36
 
-- a. de regionale eenheden Noord-Nederland en Oost-Nederland;
+1. Er is een ondersteunende dienst, genaamd: Politiedienstencentrum.
 
-- b. de regionale eenheden Zeeland-West-Brabant, Oost-Brabant en Limburg.
+2. Het Politiedienstencentrum bestaat uit de leiding van het Politiedienstencentrum en uit de volgende onderdelen:
 
-3. Een internationaal rechtshulpcentrum heeft in ieder geval tot taak:
+- a. de Staf politiedienstencentrum;
 
-- a. de registratie van rechtshulpverzoeken;
+- b. de Dienst human resource management;
 
-- b. de uitvoering van eenvoudige rechtshulpverzoeken;
+- c. de Dienst facility management;
 
-- c. de coördinatie van de uitvoering en het toezicht op de kwaliteit van de afhandeling van overige rechtshulpverzoeken;
+- d. de Dienst financiën;
 
-- d. het zijn van een kennis- en expertisecentrum op het gebied van internationale rechtshulp.
+- e. de Dienst informatiemanagement;
 
-### Hoofdstuk 5. Jaaraanschrijving, beheersplan, managementrapportages, jaarverslag en informatieverstrekking
+- f. de Dienst informatie- en communicatietechnologie;
 
-##### Artikel 19
+- g. de Dienst communicatie.
 
-Onze Minister zendt de korpschef jaarlijks vóór 1 december een jaaraanschrijving. De jaaraanschrijving heeft betrekking op de managementrapportages, bedoeld in [artikel 21, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036705&hoofdstuk=5&artikel=21&z=2015-07-01&g=2015-07-01), op de voorbereidende werkzaamheden door de korpschef ten behoeve van het beheersplan en het jaarverslag en de daarvoor nodige informatie, alsmede op de in [artikel 3 van het Besluit financieel beheer politie](https://wetten.overheid.nl/jci1.3:c:BWBR0036711&artikel=3) bedoelde onderwerpen.
+##### Artikel 37
 
-##### Artikel 20
+De Staf politiedienstencentrum heeft in ieder geval tot taak de ondersteuning van de leiding van het Politiedienstencentrum.
+
+##### Artikel 38
+
+De Dienst human resource management heeft in ieder geval tot taak het uitvoeren van het door de Directie human resource management, bedoeld in [artikel 28, onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0036705&hoofdstuk=6&artikel=28&z=2017-01-01&g=2017-01-01), geformuleerde beleid.
+
+##### Artikel 39
+
+De Dienst facility management heeft in ieder geval tot taak het uitvoeren van het door de Directie facility management, bedoeld in [artikel 28, onder d](https://wetten.overheid.nl/jci1.3:c:BWBR0036705&hoofdstuk=6&artikel=28&z=2017-01-01&g=2017-01-01), geformuleerde beleid.
+
+##### Artikel 40
+
+De Dienst financiën heeft in ieder geval tot taak het uitvoeren van het door de Directie financiën en control, bedoeld in [artikel 28, onder e](https://wetten.overheid.nl/jci1.3:c:BWBR0036705&hoofdstuk=6&artikel=28&z=2017-01-01&g=2017-01-01), geformuleerde beleid.
+
+##### Artikel 41
+
+De Dienst informatiemanagement heeft in ieder geval tot taak het uitvoeren van het door de Directie informatievoorziening, bedoeld in [artikel 28, onder f](https://wetten.overheid.nl/jci1.3:c:BWBR0036705&hoofdstuk=6&artikel=28&z=2017-01-01&g=2017-01-01), geformuleerde beleid.
+
+##### Artikel 42
+
+De Dienst informatie- en communicatietechnologie heeft in ieder geval tot taak het leveren van informatie- en communicatiediensten binnen de regionale eenheid en het uitvoeren van het door de Directie informatievoorziening, bedoeld in [artikel 28, onder f](https://wetten.overheid.nl/jci1.3:c:BWBR0036705&hoofdstuk=6&artikel=28&z=2017-01-01&g=2017-01-01), geformuleerde beleid.
+
+##### Artikel 43
+
+De Dienst communicatie heeft in ieder geval tot taak het uitvoeren van door de Directie communicatie, bedoeld in [artikel 28, onder g](https://wetten.overheid.nl/jci1.3:c:BWBR0036705&hoofdstuk=6&artikel=28&z=2017-01-01&g=2017-01-01), geformuleerd beleid.
+
+### Hoofdstuk 7. Nadere regels over de organisatie van de politie
+
+##### Artikel 44
+
+Bij ministeriële regeling kunnen nadere regels worden gesteld omtrent de organisatie van de politie, bedoeld in de [hoofdstukken 3](https://wetten.overheid.nl/jci1.3:c:BWBR0036705&hoofdstuk=3&z=2017-01-01&g=2017-01-01), [4](https://wetten.overheid.nl/jci1.3:c:BWBR0036705&hoofdstuk=4&z=2017-01-01&g=2017-01-01), [5](https://wetten.overheid.nl/jci1.3:c:BWBR0036705&hoofdstuk=5&z=2017-01-01&g=2017-01-01) en [6](https://wetten.overheid.nl/jci1.3:c:BWBR0036705&hoofdstuk=6&z=2017-01-01&g=2017-01-01).
+
+### Hoofdstuk 8. Jaaraanschrijving, beheersplan, managementrapportages, jaarverslag en informatieverstrekking
+
+##### Artikel 45
+
+Onze Minister zendt de korpschef jaarlijks vóór 1 december een jaaraanschrijving. De jaaraanschrijving heeft betrekking op de managementrapportages, bedoeld in [artikel 47, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036705&hoofdstuk=8&artikel=47&z=2017-01-01&g=2017-01-01), op de voorbereidende werkzaamheden door de korpschef ten behoeve van het beheersplan en het jaarverslag en de daarvoor nodige informatie, alsmede op de in [artikel 3 van het Besluit financieel beheer politie](https://wetten.overheid.nl/jci1.3:c:BWBR0036711&artikel=3) bedoelde onderwerpen.
+
+##### Artikel 46
 
 1. In het beheersplan zijn, naast de indeling van de eenheden, bedoeld in [artikel 25, eerste lid, onder a, van de Politiewet 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&artikel=25), in districten en basisteams, ten minste opgenomen:
 
@@ -380,7 +494,7 @@ Onze Minister zendt de korpschef jaarlijks vóór 1 december een jaaraanschrijvi
 
 5. De korpschef meldt een voorgenomen wijziging van de organisatie of formatie, waarvan de gevolgen nog niet in het beheersplan zijn opgenomen en die wijzigingen in de verdeling van de operationele sterkte tot gevolg zal hebben zo spoedig mogelijk, aan Onze Minister.
 
-##### Artikel 21
+##### Artikel 47
 
 1. De korpschef verstrekt aan Onze Minister een 3-maands-, een 6-maands-, 9-maands- en een 12-maandsmanagementrapportage over de uitvoering van het beheersplan. Deze managementrapportages worden telkens uiterlijk op respectievelijk 1 mei, 1 augustus, 1 november en 1 februari verstrekt aan Onze Minister.
 
@@ -396,19 +510,19 @@ Onze Minister zendt de korpschef jaarlijks vóór 1 december een jaaraanschrijvi
 
 5. De korpschef toetst in periodieke audits de mate waarin de door hem verwerkte gegevens eenduidig, consistent en volledig zijn.
 
-##### Artikel 22
+##### Artikel 48
 
 Bij ministeriële regeling worden regels gesteld over de informatieverstrekking op het terrein van het beheer door de korpschef aan de minister.
 
-### Hoofdstuk 6. Ingeslotenen
+### Hoofdstuk 9. Ingeslotenen
 
-##### Artikel 23
+##### Artikel 49
 
 1. De korpschef wijst de ambtenaren van politie aan die worden belast met de leiding in de politiecellencomplexen en over de zorg voor de ingeslotenen.
 
 2. Met inachtneming van de [artikelen 26](https://wetten.overheid.nl/jci1.3:c:BWBR0006589&artikel=26), [27](https://wetten.overheid.nl/jci1.3:c:BWBR0006589&artikel=27) en [32 tot en met 36 van de Ambtsinstructie voor de politie, de Koninklijke marechaussee en andere opsporingsambtenaren](https://wetten.overheid.nl/jci1.3:c:BWBR0006589&artikel=32) stelt de korpschef een instructie vast voor het personeel, niet zijnde ambtenaren van politie, dat is belast met de zorg voor ingeslotenen.
 
-##### Artikel 24
+##### Artikel 50
 
 1. Voor iedere regionale eenheid is er een commissie van toezicht op de arrestantenzorg, bestaande uit onafhankelijke leden, die tot taak heeft:
 
@@ -428,48 +542,50 @@ Bij ministeriële regeling worden regels gesteld over de informatieverstrekking 
 
 6. De korpschef zendt uiterlijk 15 mei aan Onze Minister de rapporten, bedoeld in het eerste lid, onderdeel b, alsmede een verslag over de wijze waarop hij gevolg heeft gegeven aan deze rapporten. De korpschef zendt het verslag in afschrift aan de voorzitters van de commissies.
 
-### Hoofdstuk 7. Politielegitimatiebewijs, politiecellencomplex en politielogo
+### Hoofdstuk 10. Politielegitimatiebewijs, politiecellencomplex en politielogo
 
-##### Artikel 25
+##### Artikel 51
 
 Bij ministeriële regeling worden regels gesteld met betrekking tot het politielegitimatiebewijs en het politiecellencomplex en kunnen regels worden gesteld met betrekking tot het politielogo en de politiehuisstijl.
 
-### Hoofdstuk 8. Wijzigings- en slotbepalingen
+### Hoofdstuk 11. Slotbepaling
 
-##### Artikel 26
-
-Wijzigt het Besluit politiegegevens.
-
-##### Artikel 27
-
-Wijzigt het Besluit justitiële en strafvorderlijke gegevens.
-
-##### Artikel 28
-
-1. In afwijking van [artikel 24, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036705&hoofdstuk=6&artikel=24&z=2015-07-01&g=2015-07-01), behouden de voor inwerkingtreding van dit besluit benoemde leden die hoedanigheid tot uiterlijk 1 januari 2016.
-
-2. In afwijking van [artikel 24, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036705&hoofdstuk=6&artikel=24&z=2015-07-01&g=2015-07-01), behouden de voor inwerkingtreding van dit besluit aangewezen voorzitters en plaatsvervangers die hoedanigheid tot de datum waarop Onze Minister hen uit die hoedanigheid ontheft, doch tot uiterlijk 1 januari 2016.
-
-##### Artikel 29
+##### Artikel 52
 
 Dit besluit treedt in werking op 1 juli 2015.
 
-##### Artikel 30
+##### Artikel 53
 
 Dit besluit wordt aangehaald als: Besluit beheer politie.
 
-## Bijlage. als bedoeld in [artikel 7, tweede lid, onder e](https://wetten.overheid.nl/jci1.3:c:BWBR0036705&hoofdstuk=3&artikel=7&z=2015-07-01&g=2015-07-01)
+## Bijlage. als bedoeld in [artikel 7, tweede lid, onder e](https://wetten.overheid.nl/jci1.3:c:BWBR0036705&hoofdstuk=3&artikel=7&z=2017-01-01&g=2017-01-01)
 
-Internationale politiële informatie-uitwisseling vindt plaats:
+Vervallen
 
-- A. door Liaison officiers die organisatorisch onder de eenheid, bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0036705&hoofdstuk=3&artikel=4&z=2015-07-01&g=2015-07-01), vallen en werkzaam zijn bij door het Ministerie van Buitenlandse Zaken beheerde ambassades buiten Nederland;
+Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
 
-- B. door buitenlandse verbindingsofficieren, bedoeld in de Regeling Buitenlandse Verbindingsofficieren;
+##### Artikel 43a
 
-- C. door tussenkomst van het Nationaal Centraal Bureau Interpol, bedoeld in de artikel 32 van de ICPO-Interpol Constitution and General Regulations;
+1. Er is een ondersteunende dienst, genaamd: Ondersteunende dienst Politieacademie.
 
-- D. door tussenkomst van Bureau Sirene, bedoeld in artikel 108 van de Schengen-uitvoeringsovereenkomst;
+2. De Ondersteunende dienst Politieacademie heeft tot taak het ter beschikking stellen van personeel aan de Politieacademie.
 
-- E. door tussenkomst van Dutch Desk Europol, bedoeld in artikel 1 van de Besluit 2009/371/BJZ van de Raad van 6 april 2009 tot oprichting van de Europese politiedienst (Europol) (PbEU 2009, L 121).
+### Hoofdstuk 7. Nadere regels over de organisatie van de politie
+
+### Hoofdstuk 8. Jaaraanschrijving, beheersplan, managementrapportages, jaarverslag en informatieverstrekking
+
+##### Artikel 45a
+
+1. De korpschef stelt de directeur van de Politieacademie jaarlijks uiterlijk op 1 maart in kennis van de behoefte van de politie aan politieonderwijs en werkzaamheden als bedoeld in [artikel 75 van de Politiewet 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&artikel=75) voor het komende begrotingsjaar en de vier daaropvolgende jaren.
+
+2. De inkennisstelling, bedoeld in het eerste lid, bevat in ieder geval de aantallen, typen en niveaus van opleidingen waar de politie behoefte aan heeft. De inkennisstelling is mede gebaseerd op het personeelsbeleid, de landelijke en lokale beleidsprioriteiten, resultaatverplichtingen van de politie en de regels in het Landelijk Functiegebouw Nederlandse Politie, bedoeld in [artikel 1, eerste lid, onder ii, van het Besluit algemene rechtspositie politie](https://wetten.overheid.nl/jci1.3:c:BWBR0006516&artikel=1).
+
+### Hoofdstuk 9. Ingeslotenen
+
+### Hoofdstuk 11. Slotbepaling
+
+## Bijlage. als bedoeld in [artikel 7, tweede lid, onder e](https://wetten.overheid.nl/jci1.3:c:BWBR0036705&hoofdstuk=3&artikel=7&z=2017-11-29&g=2017-01-01)
+
+Vervallen
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
