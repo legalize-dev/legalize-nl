@@ -4,7 +4,7 @@ identifier: "BWBR0019297"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-01-01"
-last_updated: "2016-01-01"
+last_updated: "2017-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0019297"
 soort: "ministeriele-regeling"
@@ -48,13 +48,13 @@ Besluit:
 
 - a. UWV: het Uitvoeringsinstituut werknemersverzekeringen, genoemd in hoofdstuk 5 van de Wet structuur uitvoeringsorganisatie werknemersverzekeringen;
 
-- b. WAO: [Wet op de arbeidsongeschiktheidsverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0002524&wetgeving);
+- b. WAO: [Wet op de arbeidsongeschiktheidsverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0002524);
 
-- c. Wajong: [Wet arbeidsongeschiktheidsvoorziening jonggehandicapten](https://wetten.overheid.nl/jci1.3:c:BWBR0008657&wetgeving);
+- c. Wajong: [Wet arbeidsongeschiktheidsvoorziening jonggehandicapten](https://wetten.overheid.nl/jci1.3:c:BWBR0008657);
 
-- d. WAZ: [Wet arbeidsongeschiktheidsverzekering zelfstandigen](https://wetten.overheid.nl/jci1.3:c:BWBR0008656&wetgeving);
+- d. WAZ: [Wet arbeidsongeschiktheidsverzekering zelfstandigen](https://wetten.overheid.nl/jci1.3:c:BWBR0008656);
 
-- e. Wet WIA: [Wet werk en inkomen naar arbeidsvermogen](https://wetten.overheid.nl/jci1.3:c:BWBR0019057&wetgeving).
+- e. Wet WIA: [Wet werk en inkomen naar arbeidsvermogen](https://wetten.overheid.nl/jci1.3:c:BWBR0019057).
 
 2. Voor de toepassing van deze regeling wordt gelijkgesteld met:
 
@@ -64,7 +64,7 @@ Besluit:
 
 3. Onder bloedverwant in de eerste graad als bedoeld in het tweede lid, onderdeel a, wordt mede verstaan een meerderjarig aangehuwd kind of een meerderjarig voormalig pleegkind van de ongehuwde meerderjarige.
 
-4. Onder voormalig pleegkind als bedoeld in het derde lid wordt verstaan een pleegkind waarvoor de ongehuwde meerderjarige een pleegvergoeding ontving of ontvangt op grond van de [Wet op de jeugdzorg](https://wetten.overheid.nl/jci1.3:c:BWBR0016637&wetgeving) of de [Jeugdwet](https://wetten.overheid.nl/jci1.3:c:BWBR0034925) of kinderbijslag ontving op grond van de [Algemene Kinderbijslagwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002368).
+4. Onder voormalig pleegkind als bedoeld in het derde lid wordt verstaan een pleegkind waarvoor de ongehuwde meerderjarige een pleegvergoeding ontving of ontvangt op grond van de [Wet op de jeugdzorg](https://wetten.overheid.nl/jci1.3:c:BWBR0016637) of de [Jeugdwet](https://wetten.overheid.nl/jci1.3:c:BWBR0034925) of kinderbijslag ontving op grond van de [Algemene Kinderbijslagwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002368).
 
 ##### Artikel 2. Aanvraagtermijnen loon- en inkomenssuppletie
 
@@ -76,7 +76,7 @@ Besluit:
 
 ##### Artikel 3. Maximaal bedrag starterskrediet
 
-Het bedrag, bedoeld in [artikel 15, eerste lid, van het Reïntegratiebesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0019152&artikel=15), wordt vastgesteld op € 35.549,–.
+Het bedrag, bedoeld in [artikel 15, eerste lid, van het Reïntegratiebesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0019152&artikel=15), wordt vastgesteld op € 35.677,–.
 
 #### § 2. Inkomenstoets vervoersvoorzieningen
 
@@ -98,7 +98,7 @@ Op het inkomen worden in mindering gebracht kosten ter zake van ziekte of arbeid
 
 ##### Artikel 7. Buiten beschouwing blijvende bedragen bij inkomensvaststelling
 
-Bij het vaststellen van het inkomen blijft buiten beschouwing het bedrag waarmee de uitkering of inkomensvoorziening op grond van de [WAO](https://wetten.overheid.nl/jci1.3:c:BWBR0002524&wetgeving), de [Wet WIA](https://wetten.overheid.nl/jci1.3:c:BWBR0019057&wetgeving), de [WAZ](https://wetten.overheid.nl/jci1.3:c:BWBR0008656&wetgeving) of de [Wajong](https://wetten.overheid.nl/jci1.3:c:BWBR0008657&wetgeving), of een combinatie hiervan is verhoogd, op grond van [artikel 22 van de WAO](https://wetten.overheid.nl/jci1.3:c:BWBR0002524&artikel=22), de [artikelen 53](https://wetten.overheid.nl/jci1.3:c:BWBR0019057&artikel=53)of[63 van de Wet WIA](https://wetten.overheid.nl/jci1.3:c:BWBR0019057&artikel=63), [artikel 10 van de WAZ](https://wetten.overheid.nl/jci1.3:c:BWBR0008656&artikel=10), of [artikel 2:51](https://wetten.overheid.nl/jci1.3:c:BWBR0008657&artikel=2:51) of [3:9 van de Wajong](https://wetten.overheid.nl/jci1.3:c:BWBR0008657&artikel=3:9), of een combinatie van deze artikelen.
+Bij het vaststellen van het inkomen blijft buiten beschouwing het bedrag waarmee de uitkering of inkomensvoorziening op grond van de [WAO](https://wetten.overheid.nl/jci1.3:c:BWBR0002524), de [Wet WIA](https://wetten.overheid.nl/jci1.3:c:BWBR0019057), de [WAZ](https://wetten.overheid.nl/jci1.3:c:BWBR0008656) of de [Wajong](https://wetten.overheid.nl/jci1.3:c:BWBR0008657), of een combinatie hiervan is verhoogd, op grond van [artikel 22 van de WAO](https://wetten.overheid.nl/jci1.3:c:BWBR0002524&artikel=22), de [artikelen 53](https://wetten.overheid.nl/jci1.3:c:BWBR0019057&artikel=53)of[63 van de Wet WIA](https://wetten.overheid.nl/jci1.3:c:BWBR0019057&artikel=63), [artikel 10 van de WAZ](https://wetten.overheid.nl/jci1.3:c:BWBR0008656&artikel=10), of [artikel 2:51](https://wetten.overheid.nl/jci1.3:c:BWBR0008657&artikel=2:51) of [3:9 van de Wajong](https://wetten.overheid.nl/jci1.3:c:BWBR0008657&artikel=3:9), of een combinatie van deze artikelen.
 
 ##### Artikel 8. Vaststelling inkomen van personen die de leeftijd van 18 jaar nog niet hebben bereikt
 
@@ -194,7 +194,7 @@ Voor de toepassing van [artikel 15b, eerste lid, van het Reïntegratiebesluit](h
 
 ##### Artikel 12b. Aftrekbare kosten
 
-[Artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0019297&paragraaf=2&artikel=6&z=2016-01-01&g=2016-01-01) is van overeenkomstige toepassing op het inkomen, bedoeld in [artikel 12a](https://wetten.overheid.nl/jci1.3:c:BWBR0019297&paragraaf=2a&artikel=12a&z=2016-01-01&g=2016-01-01).
+[Artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0019297&paragraaf=2&artikel=6&z=2017-01-01&g=2017-01-01) is van overeenkomstige toepassing op het inkomen, bedoeld in [artikel 12a](https://wetten.overheid.nl/jci1.3:c:BWBR0019297&paragraaf=2a&artikel=12a&z=2017-01-01&g=2017-01-01).
 
 #### § 3. Fondsbelasting ten behoeve van het Reïntegratiefonds
 
