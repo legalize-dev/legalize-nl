@@ -4,7 +4,7 @@ identifier: "BWBR0027018"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-01-01"
-last_updated: "2015-01-01"
+last_updated: "2017-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0027018"
 soort: "ministeriele-regeling"
@@ -43,7 +43,7 @@ Besluit:
 
 ##### Artikel 1. Reikwijdte en definitie
 
-1. Deze regeling geeft uitvoering aan de [artikelen 16, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002226&artikel=16), [17, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002226&artikel=17), [33, onder 5° en 6°](https://wetten.overheid.nl/jci1.3:c:BWBR0002226&artikel=33), [35b, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002226&artikel=35b), [35c, vijfde en achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002226&artikel=35c), [35d, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002226&artikel=35d), [35e, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002226&artikel=35e), en [73 van de Successiewet 1956](https://wetten.overheid.nl/jci1.3:c:BWBR0002226&artikel=73).
+1. Deze regeling geeft uitvoering aan de [artikelen 16, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002226&artikel=16), [17, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002226&artikel=17), [33, onderdelen 5° en 7°](https://wetten.overheid.nl/jci1.3:c:BWBR0002226&artikel=33), [33a](https://wetten.overheid.nl/jci1.3:c:BWBR0002226&artikel=33a), [35b, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002226&artikel=35b), [35c, vijfde en negende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002226&artikel=35c), [35d, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002226&artikel=35d), [35e, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002226&artikel=35e), en [73 van de Successiewet 1956](https://wetten.overheid.nl/jci1.3:c:BWBR0002226&artikel=73).
 
 2. Deze regeling verstaat onder wet: [Successiewet 1956](https://wetten.overheid.nl/jci1.3:c:BWBR0002226).
 
@@ -59,23 +59,29 @@ Vervallen
 
 ##### Artikel 4. Aangewezen mogendheid
 
-Als mogendheid als bedoeld in [artikel 32, eerste lid, onder 8°, onderdeel e, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002226&artikel=32) wordt aangewezen elke mogendheid waarmee in de relatie met Nederland voor de heffing van inkomstenbelasting, vennootschapsbelasting, schenk- en erfbelasting zonder beperkingen of voorbehouden de uitwisseling is geregeld van gegevens, inlichtingen en gegevensdragers.
+Vervallen
 
-##### Artikel 5. Schenking ter zake van een eigen woning
+##### Artikel 5. Schenking ten behoeve van een eigen woning
 
-Een vrijstelling als bedoeld in [artikel 33, onder 5° en 6°, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002226&artikel=33) voor een schenking ter zake van de verwerving van een eigen woning als bedoeld in [artikel 3.111, eerste of derde lid, van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.111), ter zake van de kosten voor verbetering of onderhoud van die woning, ter zake van de afkoop van rechten van erfpacht, opstal of beklemming met betrekking tot die woning dan wel voor de aflossing van een eigenwoningschuld als bedoeld in [artikel 3.119a van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.119a) of de aflossing van een restschuld van een vervreemde eigen woning als bedoeld in [artikel 3.120a van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.120a) waarvan de renten en kosten worden aangemerkt als aftrekbare kosten met betrekking tot een eigen woning als bedoeld in [artikel 3.120 van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.120), wordt slechts verleend indien:
+1. Een verhoogde vrijstelling als bedoeld in de [artikelen 33, onderdeel 5°, onder c, en onderdeel 7°](https://wetten.overheid.nl/jci1.3:c:BWBR0002226&artikel=33), en [33a, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002226&artikel=33a) voor een schenking ten behoeve van een eigen woning als bedoeld in artikel 33a, eerste lid, van de wet wordt slechts verleend voor zover:
 
-- a. de schenking is gedaan:
+- a. de schenking onvoorwaardelijk wordt gedaan, dan wel onder de schriftelijk vastgelegde ontbindende voorwaarde dat de schenking vervalt voor zover niet is voldaan aan de voorwaarden voor de verhoogde vrijstelling voor een schenking ten behoeve van een eigen woning als bedoeld in [artikel 33a, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002226&artikel=33a);
 
-- 1°. onder de opschortende voorwaarde dat de begunstigde een eigen woning heeft verworven als bedoeld in [artikel 3.111, eerste of derde lid, van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.111), een recht van erfpacht, opstal of beklemming met betrekking tot die woning heeft afgekocht, een eigenwoningschuld als bedoeld in [artikel 3.119a van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.119a), of een deel van die eigenwoningschuld, heeft afgelost of een restschuld van een vervreemde eigen woning als bedoeld in [artikel 3.120a van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.120a) waarvan de renten en kosten worden aangemerkt als aftrekbare kosten met betrekking tot een eigen woning als bedoeld in [artikel 3.120 van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.120), of een deel van die restschuld, heeft afgelost, of
+- b. ingeval het een schenking als bedoeld in [artikel 33a, eerste lid, onderdelen b, c, d of e, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002226&artikel=33a) betreft:
 
-- 2°. onder de ontbindende voorwaarde dat de schenking vervalt voor zover het geschonken bedrag niet in het jaar van de schenking of in de twee daarop volgende kalenderjaren is besteed aan verbetering of onderhoud van een eigen woning als bedoeld in [artikel 3.111, eerste of derde lid, van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.111) van de begunstigde, en
+- 1°. het bedrag van de schenking daadwerkelijk door de schenker is betaald;
 
-- b. desgevraagd met schriftelijke bescheiden wordt aangetoond dat het bedrag van de schenking daadwerkelijk door de schenker is betaald en door de begunstigde is aangewend voor een van de doeleinden, genoemd in onderdeel a.
+- 2°. het bedrag van de schenking uiterlijk in het tweede kalenderjaar volgend op het eerste kalenderjaar waarvoor een beroep op de verhoogde vrijstelling is gedaan, is besteed ten behoeve van een eigen woning als bedoeld in [artikel 33a, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002226&artikel=33a); en
+
+- 3°. de verkrijger desgevraagd met schriftelijke bescheiden doet blijken dat de schenking tijdig overeenkomstig de gestelde voorwaarden is besteed.
+
+2. Voor zover voor schenkingen als bedoeld in het eerste lid, onderdeel b, niet is voldaan aan de gestelde voorwaarden doet de verkrijger hiervan uiterlijk op 31 mei van het derde kalenderjaar volgend op het kalenderjaar waarvoor een beroep op de verhoogde vrijstelling is gedaan mededeling aan de inspecteur.
+
+3. Indien met toepassing van [artikel 33a, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002226&artikel=33a) meerdere bedragen zijn geschonken waarvoor een beroep op de verhoogde vrijstelling is gedaan en een deel van die bedragen niet of niet tijdig is besteed ten behoeve van een eigen woning, wordt het niet of niet tijdig bestede deel geacht betrekking te hebben op de laatst verkregen schenking of schenkingen.
 
 ##### Artikel 6. Schenking voor de betaling van kosten van een studie of de opleiding voor een beroep
 
-1. Een vrijstelling als bedoeld in [artikel 33, onder 5°, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002226&artikel=33) voor een schenking die is bestemd voor de betaling van kosten van een studie of de opleiding voor een beroep ten behoeve van dat kind, welke kosten aanzienlijk hoger zijn dan gebruikelijk, wordt niet verleend voor de aflossing van schulden die zijn aangegaan voor de financiering van een dergelijke studie of opleiding en wordt voorts slechts verleend indien:
+1. Een vrijstelling als bedoeld in [artikel 33, onderdeel 5°, onder b, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002226&artikel=33) voor een schenking die is bestemd voor de betaling van kosten van een studie of de opleiding voor een beroep ten behoeve van dat kind, welke kosten aanzienlijk hoger zijn dan gebruikelijk, wordt niet verleend voor de aflossing van schulden die zijn aangegaan voor de financiering van een dergelijke studie of opleiding en wordt voorts slechts verleend indien:
 
 - a. de schenking is aangegaan bij notariële akte waarin is vermeld voor de betaling van welke studie of opleiding de schenking is bedoeld alsmede het bedrag van de verwachte kosten van die studie of opleiding;
 
@@ -83,7 +89,7 @@ Een vrijstelling als bedoeld in [artikel 33, onder 5° en 6°, van de wet](https
 
 - c. desgevraagd met schriftelijke bescheiden wordt aangetoond dat het bedrag van de schenking daadwerkelijk door de schenker is betaald en, binnen de in onderdeel b bedoelde termijn, door de begunstigde is aangewend voor de in de in onderdeel a bedoelde akte vermelde studie of opleiding.
 
-2. Voor de toepassing van [artikel 33, onder 5°, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002226&artikel=33) worden kosten voor een studie of de opleiding voor een beroep aangemerkt als aanzienlijk hoger dan gebruikelijk indien deze, exclusief kosten voor levensonderhoud, ten minste € 20 000 per jaar bedragen.
+2. Voor de toepassing van [artikel 33, onderdeel 5°, onder b, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002226&artikel=33) worden kosten voor een studie of de opleiding voor een beroep aangemerkt als aanzienlijk hoger dan gebruikelijk indien deze, exclusief kosten voor levensonderhoud, ten minste € 20 000 per jaar bedragen.
 
 ### Hoofdstuk III. Bedrijfsopvolging
 
@@ -97,7 +103,7 @@ Een vrijstelling als bedoeld in [artikel 33, onder 5° en 6°, van de wet](https
 
 4. Indien de verkrijging aandelen betreft in een lichaam waarin de erflater, onderscheidenlijk de schenker, op enig moment in het afgelopen jaar, onderscheidenlijk op enig moment in de afgelopen vijf jaren, indirect aandeelhouder was, wordt voor de toepassing van dit artikel uitgegaan van de situatie als ware de erflater, onderscheidenlijk de schenker, nog steeds indirect aandeelhouder. De eerste volzin is van overeenkomstige toepassing in een situatie waarin de verkrijging aandelen betreft in een lichaam dat is ontstaan bij een juridische splitsing als bedoeld in [artikel 3.56 van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.56).
 
-5. Voor het eerste en tweede lid is [artikel 35c, zesde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002226&artikel=35c) van overeenkomstige toepassing.
+5. Voor het eerste en tweede lid is [artikel 35c, zevende lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002226&artikel=35c) van overeenkomstige toepassing.
 
 ##### Artikel 8. In het kader van een bedrijfsoverdracht uitgegeven preferente aandelen
 
@@ -171,7 +177,7 @@ Voor de toepassing van dit lid wordt onder een omzetting van gewone aandelen in 
 
 7. Van een gebeurtenis als bedoeld in [artikel 35e van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002226&artikel=35e) is geen sprake indien deze zich voordoet als gevolg van een overgang onder algemene titel krachtens huwelijksvermogensrecht. Voor de toepassing van artikel 35e van de wet wordt voor de resterende duur van de termijn van vijf jaren de rechtsopvolger krachtens huwelijksvermogensrecht geacht in de plaats te treden van de oorspronkelijke verkrijger. Van een gebeurtenis als bedoeld in artikel 35e van de wet is evenmin sprake indien gedurende de resterende duur van de termijn de huwelijksgemeenschap wordt ontbonden en binnen twee jaar na de ontbinding wordt verdeeld waarbij het ondernemingsvermogen als bedoeld in [Hoofdstuk IIIA van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002226&hoofdstuk=IIIA), wordt toegescheiden aan de oorspronkelijke verkrijger. Voor de toepassing van artikel 35e van de wet treedt de oorspronkelijke verkrijger dan weer voor de resterende duur van de termijn van vijf jaren in de plaats van de in de tweede volzin bedoelde rechtsopvolger krachtens huwelijksvermogensrecht.
 
-8. Indien binnen de termijn van vijf jaren, bedoeld in [artikel 35e van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002226&artikel=35e), door de verkrijger een door toepassing van [artikel 35c, zevende lid, van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002226&artikel=35c) met een aandeel of winstbewijs gelijkgesteldekoopoptie wordt uitgeoefend, treden de daardoor verworven aandelen of winstbewijzen voor de resterende duur van de genoemde termijn in de plaats van die koopoptie.
+8. Indien binnen de termijn van vijf jaren, bedoeld in [artikel 35e van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002226&artikel=35e), door de verkrijger een door toepassing van [artikel 35c, achtste lid, van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002226&artikel=35c) met een aandeel of winstbewijs gelijkgesteldekoopoptie wordt uitgeoefend, treden de daardoor verworven aandelen of winstbewijzen voor de resterende duur van de genoemde termijn in de plaats van die koopoptie.
 
 ### Hoofdstuk IV. Bijzondere bepalingen
 
