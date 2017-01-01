@@ -4,7 +4,7 @@ identifier: "BWBR0015926"
 country: "nl"
 rank: "wet"
 publication_date: "2025-09-01"
-last_updated: "2014-07-26"
+last_updated: "2017-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0015926"
 soort: "wet"
@@ -55,7 +55,9 @@ In deze wet wordt verstaan onder:
 
 - c. directeur-generaal: de directeur-generaal van de statistiek;
 
-- d. CCS: de Centrale commissie voor de statistiek.
+- d. CBS-organisatie: de directeur-generaal en de bij of voor het CBS werkzame personen;
+
+- e. Europese statistieken: statistieken ter uitvoering van bindende EU-rechtshandelingen.
 
 ### Hoofdstuk 2. Centraal bureau voor de statistiek
 
@@ -71,11 +73,19 @@ In deze wet wordt verstaan onder:
 
 ##### Artikel 3
 
-Het CBS heeft tot taak het van overheidswege verrichten van statistisch onderzoek ten behoeve van praktijk, beleid en wetenschap en het openbaar maken van de op grond van zodanig onderzoek samengestelde statistieken.
+1. Het CBS heeft tot taak het van overheidswege verrichten van statistisch onderzoek ten behoeve van praktijk, beleid en wetenschap en het openbaar maken van de op grond van zodanig onderzoek samengestelde statistieken.
+
+2. Het CBS bevordert:
+
+- a. een statistische informatievoorziening van overheidswege die voorziet in de behoeften van praktijk, beleid en wetenschap;
+
+- b. de nauwkeurigheid en volledigheid van de van overheidswege openbaar te maken statistieken.
+
+3. Door Onze Minister of één van Onze andere Ministers wordt slechts een nieuw statistisch onderzoek ingesteld of in een onderzoek dat reeds plaatsvindt wijziging gebracht, nadat de directeur-generaal is gehoord.
 
 ##### Artikel 4
 
-Het CBS is op nationaal niveau belast met de productie van communautaire statistieken.
+Het CBS is op nationaal niveau belast met de productie van Europese statistieken.
 
 ##### Artikel 5
 
@@ -87,17 +97,13 @@ Het CBS is op nationaal niveau belast met de productie van communautaire statist
 
 ##### Artikel 6
 
-Het CBS heeft twee bestuursorganen:
-
-- a. de directeur-generaal, bedoeld in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0015926&hoofdstuk=3&paragraaf=1&artikel=8&z=2014-07-26&g=2014-07-26);
-
-- b. de CCS, bedoeld in [artikel 20](https://wetten.overheid.nl/jci1.3:c:BWBR0015926&hoofdstuk=4&paragraaf=1&artikel=20&z=2014-07-26&g=2014-07-26).
+Vervallen
 
 #### Paragraaf 3. Personeel
 
 ##### Artikel 7
 
-De bevoegdheden zoals neergelegd in de rechtspositieregels die gelden voor de ambtenaren die zijn aangesteld bij ministeries, met uitzondering van de aan Ons dan wel de aan Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties toegekende bevoegdheden tot het stellen van regels, worden uitgeoefend door de directeur-generaal.
+Vervallen
 
 ### Hoofdstuk 3. Directeur-generaal van de statistiek
 
@@ -105,9 +111,7 @@ De bevoegdheden zoals neergelegd in de rechtspositieregels die gelden voor de am
 
 ##### Artikel 8
 
-1. Het bestuur van het CBS wordt gevormd door een directeur-generaal met de titel van directeur-generaal van de statistiek.
-
-2. Onze Minister stelt regels ten aanzien van de plaatsvervanging van de directeur-generaal.
+Vervallen
 
 #### Paragraaf 2. Benoeming, schorsing en ontslag
 
@@ -117,11 +121,7 @@ Vervallen
 
 ##### Artikel 10
 
-1. De directeur-generaal wordt benoemd voor een periode van ten hoogste zeven jaren en kan eenmaal worden herbenoemd voor een periode van ten hoogste drie jaren.
-
-2. Bij het openvallen van de functie van directeur-generaal doet de CCS een aanbeveling voor de vervulling van deze functie aan Onze Minister.
-
-3. Schorsing en ontslag van de directeur-generaal vindt niet plaats dan nadat de CCS is gehoord.
+Vervallen
 
 ##### Artikel 11
 
@@ -135,35 +135,47 @@ Vervallen
 
 ##### Artikel 13
 
-1. De directeur-generaal is belast met het besturen van het CBS.
-
-2. De directeur-generaal vertegenwoordigt het CBS in en buiten rechte.
+Vervallen
 
 ##### Artikel 14
 
-1. De directeur-generaal stelt ten minste eenmaal in de vijf jaren een meerjarenprogramma op, waarin op hoofdlijnen wordt vastgelegd welke werkzaamheden het CBS zal uitvoeren in de komende jaren.
+1. De directeur-generaal stelt ten minste eenmaal in de vijf jaren een meerjarenprogramma vast, waarin op hoofdlijnen wordt vastgelegd welke werkzaamheden het CBS zal uitvoeren in de komende jaren.
 
 2. Het meerjarenprogramma bevat voorts een beschrijving van de op middellange en lange termijn te realiseren doelstellingen, de hoofdlijnen van het daarop te richten beleid en de financiële en organisatorische voorwaarden die daartoe vervuld moeten worden.
 
+3. De directeur-generaal zendt het meerjarenprogramma ten minste 14 maanden voorafgaand aan het begin van de periode waarop het meerjarenprogramma betrekking heeft, ter goedkeuring aan Onze Minister.
+
+4. Onze Minister geeft binnen acht weken na bepaling van het standpunt bedoeld in [artikel 17, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0015926&hoofdstuk=2&paragraaf=2&artikel=17&z=2017-01-01&g=2017-01-01), een beschikking omtrent de goedkeuring van het meerjarenprogramma.
+
+5. De goedkeuring wordt uitsluitend onthouden aan het meerjarenprogramma indien dat naar het oordeel van Onze Minister niet past binnen de financiële en organisatorische voorwaarden die zijn opgenomen in het naar aanleiding van dat meerjarenprogramma bepaalde standpunt, bedoeld in [artikel 17, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0015926&hoofdstuk=2&paragraaf=2&artikel=17&z=2017-01-01&g=2017-01-01).
+
+6. De directeur-generaal maakt het meerjarenprogramma, na goedkeuring door Onze Minister, openbaar.
+
 ##### Artikel 15
 
-1. De directeur-generaal stelt jaarlijks een werkprogramma voor het daaropvolgende jaar op. Hij kan het werkprogramma tussentijds wijzigen.
+1. De directeur-generaal stelt jaarlijks een werkprogramma voor het daaropvolgende jaar vast. Hij kan het werkprogramma tussentijds wijzigen.
 
 2. In het werkprogramma wordt vastgelegd welke werkzaamheden het CBS in een bepaald jaar zal uitvoeren, voor zover de beschikbare middelen dat toelaten.
 
 3. Het werkprogramma bevat een beschrijving van het belang van een statistiek voor praktijk, beleid en wetenschap, de vraag of een statistiek noodzakelijk is op grond van Europese of andere regelgeving, een verantwoording omtrent de belangrijkste niet-gehonoreerde verzoeken om statistieken en een paragraaf met de kosten en opbrengsten van de statistieken.
 
+4. De directeur-generaal zendt het werkprogramma ten minste twee maanden vóór het begin van het kalenderjaar waarop het werkprogramma betrekking heeft, ter goedkeuring aan Onze Minister.
+
+5. Onze Minister geeft binnen zes weken na ontvangst van het werkprogramma of een wijziging van het werkprogramma een beschikking omtrent de goedkeuring ervan.
+
+6. De goedkeuring wordt uitsluitend onthouden aan het werkprogramma of een wijziging ervan indien dat werkprogramma of die wijziging naar het oordeel van Onze Minister niet past binnen de financiële en organisatorische voorwaarden die zijn opgenomen in het desbetreffende standpunt, bedoeld in het [artikel 17, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0015926&hoofdstuk=2&paragraaf=2&artikel=17&z=2017-01-01&g=2017-01-01).
+
+7. De directeur-generaal maakt het werkprogramma en wijzigingen daarvan, na goedkeuring door Onze Minister, openbaar.
+
 ##### Artikel 16
 
-1. De directeur-generaal legt het meerjarenprogramma en het werkprogramma vóór 1 november en de wijzigingen in het werkprogramma tussentijds ter vaststelling voor aan de CCS.
-
-2. De directeur-generaal legt het meerjarenprogramma, het werkprogramma en de wijzigingen in het werkprogramma, na vaststelling door de CCS, ter inzage bij het CBS gedurende de periode waarvoor zij gelden. Hiervan doet hij mededeling in de Staatscourant.
+Vervallen
 
 ##### Artikel 17
 
-1. De CCS zendt het meerjarenprogramma vóór 1 december aan Onze Minister.
+1. Onze Minister bepaalt, in overeenstemming met het gevoelen van de raad van ministers en binnen zes maanden na ontvangst van het meerjarenprogramma, zijn standpunt over de ter verwezenlijking van het meerjarenprogramma te vervullen financiële en organisatorische voorwaarden.
 
-2. Onze Minister brengt zijn standpunt over de financiële en organisatorische voorwaarden die vervuld moeten worden ter verwezenlijking van het meerjarenprogramma, bepaald in overeenstemming met het gevoelen van de raad van ministers, binnen zes maanden na ontvangst van het programma ter kennis van de directeur-generaal, de CCS en de Tweede Kamer der Staten-Generaal. Hiervan doet hij mededeling in de Staatscourant.
+2. Onze Minister zendt het standpunt aan de directeur-generaal en de beide kamers der Staten-Generaal.
 
 ##### Artikel 18
 
@@ -179,27 +191,31 @@ Vervallen
 
 ##### Artikel 20
 
-Het bestuur van het CBS wordt mede gevormd door een Centrale commissie voor de statistiek.
+1. Er is een raad van advies, waarvan de leden worden benoemd, geschorst en ontslagen door Onze Minister.
+
+2. De raad van advies heeft onder andere tot taak de directeur-generaal desgevraagd of uit eigen beweging te adviseren over de uitvoering van de taken en bevoegdheden van de directeur-generaal.
+
+3. Het bestuursreglement, bedoeld in [artikel 2b](https://wetten.overheid.nl/jci1.3:c:BWBR0015926&hoofdstuk=2&paragraaf=1&artikel=2b&z=2017-01-01&g=2017-01-01), regelt in elk geval de samenstelling van de raad van advies, de benoemingsduur van de leden, de werkwijze van de raad en de onderwerpen waarover de raad adviseert, waartoe in ieder geval behoren:
+
+- a. het meerjarenprogramma, bedoeld in [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0015926&hoofdstuk=2&paragraaf=2&artikel=14&z=2017-01-01&g=2017-01-01), en het werkprogramma, bedoeld in [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBR0015926&hoofdstuk=2&paragraaf=2&artikel=15&z=2017-01-01&g=2017-01-01);
+
+- b. de wijze waarop de nauwkeurigheid en de volledigheid van de van overheidswege openbaar te maken statistieken kunnen worden bevorderd zodat deze voorzien in de behoeften van praktijk, beleid en wetenschap;
+
+- c. de bedrijfsvoering van het CBS en een efficiënte besteding van middelen.
 
 ##### Artikel 21
 
-1. De CCS bestaat uit de voorzitter en een even aantal overige leden dat ten minste zes en ten hoogste tien bedraagt.
-
-2. De secretaris is een door de directeur-generaal, in overeenstemming met de voorzitter van de CCS, aangewezen personeelslid van het CBS. De secretaris is geen lid van de CCS.
+Vervallen
 
 #### Paragraaf 2. Benoeming
 
 ##### Artikel 22
 
-1. Onze Minister wijst een lid van de CCS aan als plaatsvervangend voorzitter.
-
-2. Bij het openvallen van een plaats doet de CCS een aanbeveling voor de vervulling daarvan aan Onze Minister.
+Vervallen
 
 ##### Artikel 23
 
-1. De leden van de CCS worden benoemd voor een periode van ten hoogste vier jaren. Zij kunnen eenmaal worden herbenoemd.
-
-2. Bij tussentijds aftreden treedt het lid dat wordt benoemd ter vervulling van de opengevallen plaats, af op het tijdstip waarop degene in wiens plaats hij is benoemd, had moeten aftreden. Hij is terstond herbenoembaar.
+Vervallen
 
 ##### Artikel 24
 
@@ -209,51 +225,35 @@ Vervallen
 
 ##### Artikel 25
 
-De CCS heeft tot taak:
-
-- a. het bevorderen van een statistische informatievoorziening van overheidswege die voorziet in de behoeften van praktijk, beleid en wetenschap;
-
-- b. het bevorderen van de nauwkeurigheid en de volledigheid van de van overheidswege openbaar te maken statistieken;
-
-- c. het beoordelen van het meerjarenprogramma en het werkprogramma van het CBS;
-
-- d. erop toe te zien dat de verwerving van gegevens door het CBS op zodanige wijze geschiedt dat daaruit voortvloeiende administratieve lasten voor ondernemingen en instellingen zo laag mogelijk zijn;
-
-- e. erop toe te zien dat de door het CBS verrichte statistische werkzaamheden voor derden niet leiden tot mededinging met private aanbieders van vergelijkbare diensten die uit een oogpunt van goede marktwerking ongewenst is;
-
-- f. toe te zien op de uitvoering door de directeur-generaal van de bevoegdheid tot het beschikbaar stellen van verzamelingen van gegevens ten behoeve van statistisch of wetenschappelijk onderzoek.
+Vervallen
 
 ##### Artikel 26
 
-1. De CCS stelt een bestuursreglement vast.
-
-2. De CCS komt jaarlijks ten minste viermaal bijeen.
+Vervallen
 
 ##### Artikel 27
 
-Door een van Onze Ministers wordt slechts een nieuw statistisch onderzoek ingesteld of in een onderzoek dat reeds plaatsvindt wijziging gebracht, nadat de CCS is gehoord.
+Vervallen
 
 ##### Artikel 28
 
-Ter uitvoering van haar taak kan de CCS zich rechtstreeks tot derden wenden tot het verkrijgen van de inlichtingen die zij behoeft.
+Vervallen
 
 ##### Artikel 29
 
-1. De CCS kan de voorbereiding van bepaalde beslissingen en taken opdragen aan al dan niet uit haar midden ingestelde subcommissies of aan de directeur-generaal.
-
-2. [Artikel 14 van de Kaderwet zelfstandige bestuursorganen](https://wetten.overheid.nl/jci1.3:c:BWBR0020495&artikel=14) is van overeenkomstige toepassing op de leden van subcommissies die geen lid zijn van de CCS.
+Vervallen
 
 ##### Artikel 30
 
-De voorzitter van de CCS kan in spoedeisende gevallen de in [artikel 16, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0015926&hoofdstuk=3&paragraaf=3&artikel=16&z=2014-07-26&g=2014-07-26), bedoelde bevoegdheid van de CCS, voor zover het een wijziging van het werkprogramma betreft, en de in [artikel 27](https://wetten.overheid.nl/jci1.3:c:BWBR0015926&hoofdstuk=4&paragraaf=3&artikel=27&z=2014-07-26&g=2014-07-26) bedoelde bevoegdheden uitoefenen.
+Vervallen
 
 ##### Artikel 31
 
-Stukken van of namens de CCS uitgaande, worden door de voorzitter en de secretaris ondertekend.
+Vervallen
 
 ##### Artikel 32
 
-Beslissingen van de CCS worden genomen overeenkomstig het standpunt van de meerderheid van de leden.
+Vervallen
 
 ### Hoofdstuk 4a. Bonaire, Sint Eustatius en Saba
 
@@ -279,9 +279,9 @@ Beslissingen van de CCS worden genomen overeenkomstig het standpunt van de meerd
 
 - c. zelfstandige bestuursorganen op het niveau van de centrale overheid.
 
-2. De directeur-generaal is voorts bevoegd ten behoeve van statistische doeleinden gebruik te maken van gegevens uit registraties die worden bijgehouden door bij algemene maatregel van bestuur, gehoord de CCS, aangewezen rechtspersonen die een bij of krachtens de wet geregelde taak uitoefenen of geheel of gedeeltelijk, direct of indirect, worden bekostigd uit middelen van de Staat of uit de opbrengst van bij of krachtens de wet ingestelde heffingen.
+2. De directeur-generaal is voorts bevoegd ten behoeve van statistische doeleinden gebruik te maken van gegevens uit registraties die worden bijgehouden door bij algemene maatregel van bestuur aangewezen rechtspersonen die een bij of krachtens de wet geregelde taak uitoefenen of geheel of gedeeltelijk, direct of indirect, worden bekostigd uit middelen van de Staat of uit de opbrengst van bij of krachtens de wet ingestelde heffingen.
 
-3. Voor zover de in het eerste en tweede lid bedoelde verwerving niet de benodigde gegevens oplevert, is de directeur-generaal bevoegd ten behoeve van statistische doeleinden bij algemene maatregel van bestuur, gehoord de CCS, aan te wijzen gegevens op te vragen bij door die maatregel aangewezen categorieën van ondernemingen, vrije beroepsbeoefenaren, instellingen en rechtspersonen.
+3. Voor zover de in het eerste en tweede lid bedoelde verwerving niet de benodigde gegevens oplevert, is de directeur-generaal bevoegd ten behoeve van statistische doeleinden bij algemene maatregel van bestuur aan te wijzen gegevens op te vragen bij door die maatregel aangewezen categorieën van ondernemingen, vrije beroepsbeoefenaren, instellingen en rechtspersonen.
 
 4. De in het eerste lid bedoelde instellingen, diensten, lichamen en zelfstandige bestuursorganen, de in het tweede lid bedoelde rechtspersonen en de in het derde lid bedoelde ondernemingen, vrije beroepsbeoefenaren, instellingen en rechtspersonen verstrekken de in die leden bedoelde gegevens kosteloos op verzoek van de directeur-generaal binnen een bij algemene maatregel van bestuur te bepalen termijn. Daarbij kan geen beroep worden gedaan op geheimhoudingsverplichtingen, tenzij deze verplichtingen gebaseerd zijn op internationale regelgeving.
 
@@ -317,21 +317,21 @@ De directeur-generaal draagt op de voet van de ter zake voor de Rijksdienst geld
 
 ##### Artikel 39
 
-1. In afwijking van [artikel 37](https://wetten.overheid.nl/jci1.3:c:BWBR0015926&hoofdstuk=5&paragraaf=2&artikel=37&z=2014-07-26&g=2014-07-26) verstrekt de directeur-generaal gegevens aan de communautaire en nationale instanties voor de statistiek van de lidstaten van de Europese Unie en de leden van het Europees Stelsel van Centrale Banken, voor zover deze verstrekking noodzakelijk is ingevolge een besluit van de Raad van de Europese Unie en het Europees Parlement.
+1. In afwijking van [artikel 37](https://wetten.overheid.nl/jci1.3:c:BWBR0015926&hoofdstuk=5&paragraaf=2&artikel=37&z=2017-01-01&g=2017-01-01) verstrekt de directeur-generaal gegevens aan Eurostat, nationale statistische instanties van de lidstaten van de Europese Unie of leden van het Europees Stelsel van Centrale Banken, voor zover deze verstrekking noodzakelijk is ingevolge een besluit van de Raad van de Europese Unie en het Europees Parlement.
 
-2. Bij elke andere verstrekking aan de communautaire en nationale instanties voor de statistiek van de lidstaten van de Europese Unie of leden van het Europees Stelsel van Centrale Banken vergewist de directeur-generaal zich ervan dat alle administratieve, technische en organisatorische maatregelen zijn genomen die voor de fysieke en logistieke bescherming van vertrouwelijke gegevens en voor het voorkomen van enige onwettige openbaarmaking en gebruik voor niet-statistische doeleinden bij de verspreiding van communautaire en nationale statistieken nodig zijn.
+2. Bij elke andere verstrekking aan Eurostat, nationale statistische instanties van de lidstaten van de Europese Unie of leden van het Europees Stelsel van Centrale Banken vergewist de directeur-generaal zich ervan dat alle administratieve, technische en organisatorische maatregelen zijn genomen die voor de fysieke en logistieke bescherming van vertrouwelijke gegevens en voor het voorkomen van enige onwettige openbaarmaking en gebruik voor niet-statistische doeleinden bij de verspreiding van Europese en nationale statistieken nodig zijn.
 
 ##### Artikel 40
 
-1. In afwijking van [artikel 37](https://wetten.overheid.nl/jci1.3:c:BWBR0015926&hoofdstuk=5&paragraaf=2&artikel=37&z=2014-07-26&g=2014-07-26) kan de directeur-generaal, uitsluitend ten behoeve van statistische doeleinden in het kader van de uitvoering van de [Wet financiële betrekkingen buitenland 1994](https://wetten.overheid.nl/jci1.3:c:BWBR0006547), gegevens verstrekken aan De Nederlandsche Bank NV.
+1. In afwijking van [artikel 37](https://wetten.overheid.nl/jci1.3:c:BWBR0015926&hoofdstuk=5&paragraaf=2&artikel=37&z=2017-01-01&g=2017-01-01) kan de directeur-generaal, uitsluitend ten behoeve van statistische doeleinden in het kader van de uitvoering van de [Wet financiële betrekkingen buitenland 1994](https://wetten.overheid.nl/jci1.3:c:BWBR0006547), gegevens verstrekken aan De Nederlandsche Bank NV.
 
-2. De in het eerste lid bedoelde gegevens worden aangewezen in een door Onze Minister, na overleg met Onze Minister van Financiën en gehoord de CCS, vast te stellen regeling.
+2. De in het eerste lid bedoelde gegevens worden aangewezen in een door Onze Minister, na overleg met Onze Minister van Financiën, vast te stellen regeling.
 
 3. De op grond van het eerste lid verstrekte gegevens worden door De Nederlandsche Bank NV uitsluitend gebruikt voor werkzaamheden in het kader van de [Wet financiële betrekkingen buitenland 1994](https://wetten.overheid.nl/jci1.3:c:BWBR0006547).
 
 ##### Artikel 41
 
-1. In afwijking van [artikel 37](https://wetten.overheid.nl/jci1.3:c:BWBR0015926&hoofdstuk=5&paragraaf=2&artikel=37&z=2014-07-26&g=2014-07-26) kan de directeur-generaal op verzoek, ten behoeve van statistisch of wetenschappelijk onderzoek, een verzameling van gegevens met betrekking tot het gebruik waarvan passende maatregelen zijn genomen om herkenning van afzonderlijke personen, huishoudens, ondernemingen of instellingen te voorkomen, verstrekken aan een dienst, organisatie of instelling als bedoeld in het tweede lid, dan wel daartoe toegang verlenen.
+1. In afwijking van [artikel 37](https://wetten.overheid.nl/jci1.3:c:BWBR0015926&hoofdstuk=5&paragraaf=2&artikel=37&z=2017-01-01&g=2017-01-01) kan de directeur-generaal op verzoek, ten behoeve van statistisch of wetenschappelijk onderzoek, een verzameling van gegevens met betrekking tot het gebruik waarvan passende maatregelen zijn genomen om herkenning van afzonderlijke personen, huishoudens, ondernemingen of instellingen te voorkomen, verstrekken aan een dienst, organisatie of instelling als bedoeld in het tweede lid, dan wel daartoe toegang verlenen.
 
 2. Een verzameling van gegevens als bedoeld in het eerste lid kan worden verstrekt, dan wel daartoe kan toegang worden verleend aan:
 
@@ -343,15 +343,15 @@ De directeur-generaal draagt op de voet van de ter zake voor de Rijksdienst geld
 
 - d. de communautaire en nationale instanties voor de statistiek van de lidstaten van de Europese Unie;
 
-- e. onderzoeksafdelingen van ministeries en andere diensten, organisaties en instellingen, voor zover daartoe instemming van de CCS is verkregen.
+- e. onderzoeksafdelingen van ministeries en andere diensten, organisaties en instellingen.
 
 ##### Artikel 42
 
-De directeur-generaal willigt een verzoek als bedoeld in [artikel 41](https://wetten.overheid.nl/jci1.3:c:BWBR0015926&hoofdstuk=5&paragraaf=3&artikel=41&z=2014-07-26&g=2014-07-26) slechts in, indien de verzoeker naar het oordeel van de directeur-generaal voldoende maatregelen heeft getroffen om te voorkomen dat de verzameling van gegevens voor andere doeleinden dan statistisch of wetenschappelijk onderzoek wordt gebruikt.
+De directeur-generaal willigt een verzoek als bedoeld in [artikel 41](https://wetten.overheid.nl/jci1.3:c:BWBR0015926&hoofdstuk=5&paragraaf=3&artikel=41&z=2017-01-01&g=2017-01-01) slechts in, indien de verzoeker naar het oordeel van de directeur-generaal voldoende maatregelen heeft getroffen om te voorkomen dat de verzameling van gegevens voor andere doeleinden dan statistisch of wetenschappelijk onderzoek wordt gebruikt.
 
 ##### Artikel 42a
 
-1. In afwijking van [artikel 37](https://wetten.overheid.nl/jci1.3:c:BWBR0015926&hoofdstuk=5&paragraaf=2&artikel=37&z=2014-07-26&g=2014-07-26) kan de directeur-generaal op verzoek, ten behoeve van wetenschappelijk onderzoek op het terrein van de volksgezondheid, gegevens verstrekken die het CBS ten behoeve van statistisch onderzoek op grond van [artikel 12a van de Wet op de lijkbezorging](https://wetten.overheid.nl/jci1.3:c:BWBR0005009&artikel=12a) heeft verzameld, van personen die in een wetenschappelijk onderzoek waren betrokken.
+1. In afwijking van [artikel 37](https://wetten.overheid.nl/jci1.3:c:BWBR0015926&hoofdstuk=5&paragraaf=2&artikel=37&z=2017-01-01&g=2017-01-01) kan de directeur-generaal op verzoek, ten behoeve van wetenschappelijk onderzoek op het terrein van de volksgezondheid, gegevens verstrekken die het CBS ten behoeve van statistisch onderzoek op grond van [artikel 12a van de Wet op de lijkbezorging](https://wetten.overheid.nl/jci1.3:c:BWBR0005009&artikel=12a) heeft verzameld, van personen die in een wetenschappelijk onderzoek waren betrokken.
 
 2. De directeur-generaal willigt een verzoek als bedoeld in het eerste lid slechts in, indien de betrokkene tot een zodanige verstrekking zijn uitdrukkelijke toestemming heeft gegeven dan wel, indien de betrokkene tot een zodanige verstrekking geen uitdrukkelijke toestemming heeft kunnen geven, voor zover verzoeker voldoende aantoont dat:
 
@@ -367,17 +367,17 @@ De directeur-generaal willigt een verzoek als bedoeld in [artikel 41](https://we
 
 3. De directeur-generaal kan nadere voorwaarden verbinden aan een verstrekking krachtens het eerste lid.
 
-4. De [artikelen 41, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0015926&hoofdstuk=5&paragraaf=3&artikel=41&z=2014-07-26&g=2014-07-26), en [42](https://wetten.overheid.nl/jci1.3:c:BWBR0015926&hoofdstuk=5&paragraaf=3&artikel=42&z=2014-07-26&g=2014-07-26) zijn van overeenkomstige toepassing.
+4. De [artikelen 41, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0015926&hoofdstuk=5&paragraaf=3&artikel=41&z=2017-01-01&g=2017-01-01), en [42](https://wetten.overheid.nl/jci1.3:c:BWBR0015926&hoofdstuk=5&paragraaf=3&artikel=42&z=2017-01-01&g=2017-01-01) zijn van overeenkomstige toepassing.
 
-5. Onze Minister stelt, in overeenstemming met Onze Minister van Volksgezondheid, Welzijn en Sport, gehoord de CCS en het College bescherming persoonsgegevens, nadere regels met betrekking tot de in het eerste lid bedoelde bevoegdheid.
+5. Onze Minister stelt, in overeenstemming met Onze Minister van Volksgezondheid, Welzijn en Sport, gehoord het College bescherming persoonsgegevens, nadere regels met betrekking tot de in het eerste lid bedoelde bevoegdheid.
 
 #### Paragraaf 4. Bestuurlijke boete en last onder dwangsom
 
 ##### Artikel 43
 
-1. De directeur-generaal kan een bestuurlijke boete opleggen van ten hoogste € 5 000 aan de in [artikel 33, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0015926&hoofdstuk=5&paragraaf=1&artikel=33&z=2014-07-26&g=2014-07-26), bedoelde rechtspersonen en de in [artikel 33, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0015926&hoofdstuk=5&paragraaf=1&artikel=33&z=2014-07-26&g=2014-07-26), bedoelde ondernemingen, vrije beroepsbeoefenaren, instellingen en rechtspersonen die de in die leden bedoelde gegevens niet, niet tijdig of niet volledig verstrekken.
+1. De directeur-generaal kan een bestuurlijke boete opleggen van ten hoogste € 5 000 aan de in [artikel 33, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0015926&hoofdstuk=5&paragraaf=1&artikel=33&z=2017-01-01&g=2017-01-01), bedoelde rechtspersonen en de in [artikel 33, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0015926&hoofdstuk=5&paragraaf=1&artikel=33&z=2017-01-01&g=2017-01-01), bedoelde ondernemingen, vrije beroepsbeoefenaren, instellingen en rechtspersonen die de in die leden bedoelde gegevens niet, niet tijdig of niet volledig verstrekken.
 
-2. De directeur-generaal kan een bestuurlijke boete opleggen van ten hoogste € 5 000 aan degene die niet, niet tijdig of niet volledig een opgave als bedoeld in [artikel 38b](https://wetten.overheid.nl/jci1.3:c:BWBR0015926&hoofdstuk=5&paragraaf=2a&artikel=38b&z=2014-07-26&g=2014-07-26) doet.
+2. De directeur-generaal kan een bestuurlijke boete opleggen van ten hoogste € 5 000 aan degene die niet, niet tijdig of niet volledig een opgave als bedoeld in [artikel 38b](https://wetten.overheid.nl/jci1.3:c:BWBR0015926&hoofdstuk=5&paragraaf=2a&artikel=38b&z=2017-01-01&g=2017-01-01) doet.
 
 3. Onze Minister kan, in overeenstemming met Onze Minister van Veiligheid en Justitie, regels stellen ter zake van de uitoefening van de bevoegdheid tot oplegging van een bestuurlijke boete.
 
@@ -411,7 +411,7 @@ Vervallen
 
 ##### Artikel 51
 
-De directeur-generaal kan in plaats van een bestuurlijke boete aan de in [artikel 33, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0015926&hoofdstuk=5&paragraaf=1&artikel=33&z=2014-07-26&g=2014-07-26), bedoelde ondernemingen, vrije beroepsbeoefenaren, instellingen en rechtspersonen die de in dat artikellid bedoelde gegevens niet, niet tijdig of niet volledig verstrekken of aan degene die niet, niet tijdig of niet volledig een opgave als bedoeld in [artikel 38b](https://wetten.overheid.nl/jci1.3:c:BWBR0015926&hoofdstuk=5&paragraaf=2a&artikel=38b&z=2014-07-26&g=2014-07-26) doet, een last onder dwangsom opleggen. Een bestuurlijke boete en een last onder dwangsom kunnen tevens gezamenlijk worden opgelegd.
+De directeur-generaal kan in plaats van een bestuurlijke boete aan de in [artikel 33, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0015926&hoofdstuk=5&paragraaf=1&artikel=33&z=2017-01-01&g=2017-01-01), bedoelde ondernemingen, vrije beroepsbeoefenaren, instellingen en rechtspersonen die de in dat artikellid bedoelde gegevens niet, niet tijdig of niet volledig verstrekken of aan degene die niet, niet tijdig of niet volledig een opgave als bedoeld in [artikel 38b](https://wetten.overheid.nl/jci1.3:c:BWBR0015926&hoofdstuk=5&paragraaf=2a&artikel=38b&z=2017-01-01&g=2017-01-01) doet, een last onder dwangsom opleggen. Een bestuurlijke boete en een last onder dwangsom kunnen tevens gezamenlijk worden opgelegd.
 
 ##### Artikel 52
 
@@ -425,23 +425,19 @@ De directeur-generaal kan in plaats van een bestuurlijke boete aan de in [artike
 
 ##### Artikel 53
 
-1. Het jaarverslag van de directeur-generaal verschaft tevens inzicht in de administratieve lasten in dat jaar voor ondernemingen en instellingen als gevolg van de verwerving van gegevens door de directeur-generaal, in de voorzieningen die de directeur-generaal heeft getroffen ingevolge [artikel 36](https://wetten.overheid.nl/jci1.3:c:BWBR0015926&hoofdstuk=5&paragraaf=1&artikel=36&z=2014-07-26&g=2014-07-26) en in de mate van terugdringing van de administratieve lasten.
-
-2. Het jaarverslag van de directeur-generaal wordt vóór 1 maart ter goedkeuring aan de CCS gezonden, die het vóór 1 april aan Onze Minister zendt.
+Het jaarverslag van de directeur-generaal verschaft tevens inzicht in de administratieve lasten in dat jaar voor ondernemingen en instellingen als gevolg van de verwerving van gegevens door de directeur-generaal, in de voorzieningen die de directeur-generaal heeft getroffen ingevolge [artikel 36](https://wetten.overheid.nl/jci1.3:c:BWBR0015926&hoofdstuk=5&paragraaf=1&artikel=36&z=2017-01-01&g=2017-01-01) en in de mate van terugdringing van de administratieve lasten.
 
 ##### Artikel 54
 
-Het jaarverslag van de CCS wordt vóór 1 april ter goedkeuring aan Onze Minister gezonden.
+Vervallen
 
 ##### Artikel 55
 
-Onze Minister kan regels stellen over de inrichting van het jaarverslag, bedoeld in de [artikelen 53](https://wetten.overheid.nl/jci1.3:c:BWBR0015926&hoofdstuk=6&artikel=53&z=2014-07-26&g=2014-07-26) en [54](https://wetten.overheid.nl/jci1.3:c:BWBR0015926&hoofdstuk=6&artikel=54&z=2014-07-26&g=2014-07-26).
+Onze Minister kan nadere regels stellen over de inrichting van het jaarverslag, bedoeld in [artikel 53](https://wetten.overheid.nl/jci1.3:c:BWBR0015926&hoofdstuk=6&artikel=53&z=2017-01-01&g=2017-01-01).
 
 ##### Artikel 56
 
-1. De directeur-generaal legt het door de CCS goedgekeurde jaarverslag, bedoeld in [artikel 53](https://wetten.overheid.nl/jci1.3:c:BWBR0015926&hoofdstuk=6&artikel=53&z=2014-07-26&g=2014-07-26), en het door Onze Minister goedgekeurde jaarverslag, bedoeld in [artikel 54](https://wetten.overheid.nl/jci1.3:c:BWBR0015926&hoofdstuk=6&artikel=54&z=2014-07-26&g=2014-07-26), ter inzage bij het CBS gedurende acht weken. Hiervan doet de directeur-generaal mededeling in de Staatscourant.
-
-2. Onze Minister zendt onverwijld een afschrift van de jaarverslagen aan beide kamers der Staten-Generaal.
+Onverminderd [artikel 18, tweede lid, van de Kaderwet zelfstandige bestuursorganen](https://wetten.overheid.nl/jci1.3:c:BWBR0020495&artikel=18), maakt de directeur-generaal het jaarverslag openbaar.
 
 ##### Artikel 56a
 
@@ -455,7 +451,7 @@ Onze Minister kan nadere regels stellen met betrekking tot de gegevensuitwisseli
 
 ##### Artikel 58
 
-Vervallen
+Onverminderd [artikel 39, eerste lid, van de Kaderwet zelfstandige bestuursorganen](https://wetten.overheid.nl/jci1.3:c:BWBR0020495&artikel=39) bevat het daarbedoelde verslag een evaluatie van de onafhankelijkheid van het functioneren van het CBS.
 
 ##### Artikel 59
 
@@ -471,7 +467,7 @@ De kosten voor de uitoefening van de taken ter uitvoering van deze wet komen ten
 
 ##### Artikel 61
 
-In afwijking van [artikel 26 van de Kaderwet zelfstandige bestuursorganen](https://wetten.overheid.nl/jci1.3:c:BWBR0020495&artikel=26) geldt de verplichting jaarlijks aan Onze Minister een begroting voor het daaropvolgende jaar te zenden niet voor de CCS.
+Vervallen
 
 ##### Artikel 62
 
@@ -479,15 +475,11 @@ Vervallen
 
 ##### Artikel 63
 
-Onze Minister kan regels stellen over de inrichting van de begroting.
+Onze Minister kan nadere regels stellen over de inrichting van de begroting.
 
 ##### Artikel 64
 
-1. De directeur-generaal zendt de begroting vóór 1 februari aan de CCS.
-
-2. De directeur-generaal stelt de begroting vast in overeenstemming met de CCS.
-
-3. De directeur-generaal zendt de begroting vóór 1 april aan Onze Minister.
+De directeur-generaal zendt de begroting jaarlijks vóór 1 april aan Onze Minister.
 
 ##### Artikel 65
 
@@ -495,7 +487,7 @@ Onverminderd [artikel 29, tweede lid, van de Kaderwet zelfstandige bestuursorgan
 
 ##### Artikel 66
 
-In de situatie, bedoeld in [artikel 30 van de Kaderwet zelfstandige bestuursorganen](https://wetten.overheid.nl/jci1.3:c:BWBR0020495&artikel=30), doet de directeur-generaal tevens onverwijld mededeling aan de CCS onder vermelding van de oorzaak van de verschillen.
+Vervallen
 
 #### Paragraaf 2. Beheer en verantwoording
 
@@ -523,13 +515,7 @@ Vervallen
 
 ##### Artikel 70
 
-1. De directeur-generaal stelt jaarlijks een jaarrekening op.
-
-2. De directeur-generaal zendt de jaarrekening vóór 1 maart aan de CCS.
-
-3. De directeur-generaal stelt de jaarrekening vast in overeenstemming met de CCS.
-
-4. De directeur-generaal zendt de jaarrekening vóór 1 april aan Onze Minister.
+De directeur-generaal zendt de jaarrekening jaarlijks vóór 1 april aan Onze Minister.
 
 ##### Artikel 71
 
@@ -541,7 +527,7 @@ Vervallen
 
 ##### Artikel 73
 
-Onze Minister kan regels stellen over de inrichting van de jaarrekening en aandachtspunten voor de accountantscontrole.
+Onze Minister kan nadere regels stellen over de inrichting van de jaarrekening en aandachtspunten voor de accountantscontrole.
 
 ### Hoofdstuk 8. Wijziging en intrekking wetten
 
@@ -577,7 +563,7 @@ De [Wet op het Centraal bureau en de Centrale commissie voor de statistiek](http
 
 3. De personen die op het tijdstip van verzelfstandiging van het CBS krachtens een arbeidsovereenkomst naar burgerlijk recht behoren tot het personeel van het onder Onze Minister ressorterende CBS, zijn met ingang van dat tijdstip van rechtswege ontslagen en aangesteld in dienst van het verzelfstandigde CBS met een rechtspositie die als geheel ten minste gelijkwaardig is aan die welke voor elk van hen gold bij het onder Onze Minister ressorterende dienstonderdeel.
 
-4. De door Onze Minister vastgestelde rechtspositieregels die op het tijdstip van verzelfstandiging van het CBS gelden voor het personeel van het onder Onze Minister ressorterende CBS blijven met ingang van dat tijdstip van overeenkomstige toepassing op het personeel in dienst van het verzelfstandigde CBS totdat daarin op grond van [artikel 7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0015926&hoofdstuk=2&paragraaf=3&artikel=7&z=2014-07-26&g=2014-07-26), is voorzien door de directeur-generaal.
+4. De door Onze Minister vastgestelde rechtspositieregels die op het tijdstip van verzelfstandiging van het CBS gelden voor het personeel van het onder Onze Minister ressorterende CBS blijven met ingang van dat tijdstip van overeenkomstige toepassing op het personeel in dienst van het verzelfstandigde CBS totdat daarin op grond van [artikel 7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0015926&hoofdstuk=2&paragraaf=1&artikel=7&z=2017-01-01&g=2017-01-01), is voorzien door de directeur-generaal.
 
 ##### Artikel 79
 
@@ -617,7 +603,7 @@ Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle mi
 
 1. In deze paragraaf wordt verstaan onder [verordening 638/2004](32004R0638): [verordening (EG) nr. 638/2004](32004R0638) van het Europees Parlement en de Raad van de Europese Unie van 31 maart 2004 betreffende de communautaire statistieken van het goederenverkeer tussen de lidstaten en houdende intrekking van [Verordening (EEG) nr. 3330/91](31991R3330) (PbEG L 102).
 
-2. De [artikelen 33, derde tot en met vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0015926&hoofdstuk=5&paragraaf=1&artikel=33&z=2014-07-26&g=2014-07-26) en [37, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0015926&hoofdstuk=5&paragraaf=2&artikel=37&z=2014-07-26&g=2014-07-26), zijn niet van toepassing op de uitvoering van [verordening 638/2004](32004R0638).
+2. De [artikelen 33, derde tot en met vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0015926&hoofdstuk=5&paragraaf=1&artikel=33&z=2017-01-01&g=2017-01-01) en [37, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0015926&hoofdstuk=5&paragraaf=2&artikel=37&z=2017-01-01&g=2017-01-01), zijn niet van toepassing op de uitvoering van [verordening 638/2004](32004R0638).
 
 ##### Artikel 38b
 
@@ -647,7 +633,7 @@ Het in artikel 13, tweede lid, van [verordening 638/2004](32004R0638) bedoelde v
 
 #### Paragraaf 4. Bestuurlijke boete en last onder dwangsom
 
-### Hoofdstuk 6. Informatievoorziening, sturing en toezicht
+### Hoofdstuk 6. Informatievoorziening
 
 #### Paragraaf 1. Informatievoorziening
 
@@ -669,7 +655,7 @@ Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle mi
 
 ##### Artikel 32a
 
-Deze wet, met uitzondering van de [artikelen 4](https://wetten.overheid.nl/jci1.3:c:BWBR0015926&hoofdstuk=2&paragraaf=1&artikel=4&z=2014-07-26&g=2014-07-26), [38a tot en met 39](https://wetten.overheid.nl/jci1.3:c:BWBR0015926&hoofdstuk=5&paragraaf=3&artikel=39&z=2014-07-26&g=2014-07-26), [41, tweede lid, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0015926&hoofdstuk=5&paragraaf=3&artikel=41&z=2014-07-26&g=2014-07-26), en [52a tot en met 52c](https://wetten.overheid.nl/jci1.3:c:BWBR0015926&hoofdstuk=5a&artikel=52a&z=2014-07-26&g=2014-07-26), is mede van toepassing in de openbare lichamen Bonaire, Sint Eustatius en Saba, met dien verstande dat [Hoofdstuk 5, paragraaf 4](https://wetten.overheid.nl/jci1.3:c:BWBR0015926&hoofdstuk=5&paragraaf=4&z=2014-07-26&g=2014-07-26), zoals dat luidde op de dag voorafgaand aan de inwerkingtreding van de [Aanpassingswet vierde tranche Awb](https://wetten.overheid.nl/jci1.3:c:BWBR0026055), in genoemde openbare lichamen van toepassing blijft.
+Deze wet, met uitzondering van de [artikelen 4](https://wetten.overheid.nl/jci1.3:c:BWBR0015926&hoofdstuk=2&paragraaf=1&artikel=4&z=2017-01-01&g=2017-01-01), [38a tot en met 39](https://wetten.overheid.nl/jci1.3:c:BWBR0015926&hoofdstuk=5&paragraaf=3&artikel=39&z=2017-01-01&g=2017-01-01), [41, tweede lid, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0015926&hoofdstuk=5&paragraaf=3&artikel=41&z=2017-01-01&g=2017-01-01), en [52a tot en met 52c](https://wetten.overheid.nl/jci1.3:c:BWBR0015926&hoofdstuk=5a&artikel=52a&z=2017-01-01&g=2017-01-01), is mede van toepassing in de openbare lichamen Bonaire, Sint Eustatius en Saba, met dien verstande dat [Hoofdstuk 5, paragraaf 4](https://wetten.overheid.nl/jci1.3:c:BWBR0015926&hoofdstuk=5&paragraaf=4&z=2017-01-01&g=2017-01-01), zoals dat luidde op de dag voorafgaand aan de inwerkingtreding van de [Aanpassingswet vierde tranche Awb](https://wetten.overheid.nl/jci1.3:c:BWBR0026055), in genoemde openbare lichamen van toepassing blijft.
 
 ### Hoofdstuk 5. Verwerving, gebruik en verstrekking van gegevens
 
@@ -679,13 +665,13 @@ Deze wet, met uitzondering van de [artikelen 4](https://wetten.overheid.nl/jci1.
 
 #### Paragraaf 2a. Uitvoering van [verordening 638/2004](32004R0638)
 
-#### Paragraaf 3. Verstrekking van gegevens
+#### Paragraaf 4. Bestuurlijke boete en last onder dwangsom
 
 #### Paragraaf 4. Bestuurlijke boete en last onder dwangsom
 
 ### Hoofdstuk 5a. Het verlenen van bijstand bij inspecties
 
-#### Paragraaf 2. Sturing en toezicht
+#### Paragraaf 1. Begroting
 
 ### Hoofdstuk 7. Financieel toezicht
 
@@ -709,13 +695,13 @@ Het CBS verleent op verzoek van de Europese Commissie bijstand bij een inspectie
 
 ##### Artikel 52b
 
-1. De directeur-generaal wijst, in geval van een verzoek om bijstand als bedoeld in [artikel 52a](https://wetten.overheid.nl/jci1.3:c:BWBR0015926&hoofdstuk=5a&artikel=52a&z=2014-07-26&g=2014-07-26), bij besluit de ambtenaren aan die zijn belast met het verlenen van deze bijstand.
+1. De directeur-generaal wijst, in geval van een verzoek om bijstand als bedoeld in [artikel 52a](https://wetten.overheid.nl/jci1.3:c:BWBR0015926&hoofdstuk=5a&artikel=52a&z=2017-01-01&g=2017-01-01), bij besluit de ambtenaren aan die zijn belast met het verlenen van deze bijstand.
 
 2. De ambtenaren, bedoeld in het eerste lid, hebben de bevoegdheden, genoemd in artikel 5, eerste lid, onderdelen a tot en met e, van Gedelegeerd besluit 2012/678/EU van de Commissie van 29 juni 2012 betreffende onderzoeken en boeten in verband met de manipulatie van statistieken als bedoeld in Verordening (EU) nr. 1173/2011 van het Europees Parlement en de Raad inzake de effectieve handhaving van het begrotingstoezicht in het eurogebied (Pb EU 2012, L 306).
 
 ##### Artikel 52c
 
-Op gegevens die verkregen zijn bij het verlenen van bijstand als bedoeld in [artikel 52a](https://wetten.overheid.nl/jci1.3:c:BWBR0015926&hoofdstuk=5a&artikel=52a&z=2014-07-26&g=2014-07-26) is [artikel 37](https://wetten.overheid.nl/jci1.3:c:BWBR0015926&hoofdstuk=5&paragraaf=2&artikel=37&z=2014-07-26&g=2014-07-26) niet van toepassing, met dien verstande dat deze gegevens alleen aan de Europese Commissie verstrekt worden.
+Op gegevens die verkregen zijn bij het verlenen van bijstand als bedoeld in [artikel 52a](https://wetten.overheid.nl/jci1.3:c:BWBR0015926&hoofdstuk=5a&artikel=52a&z=2017-01-01&g=2017-01-01) is [artikel 37](https://wetten.overheid.nl/jci1.3:c:BWBR0015926&hoofdstuk=5&paragraaf=2&artikel=37&z=2017-01-01&g=2017-01-01) niet van toepassing, met dien verstande dat deze gegevens alleen aan de Europese Commissie verstrekt worden.
 
 ### Hoofdstuk 7. Financieel toezicht
 
@@ -723,9 +709,61 @@ Op gegevens die verkregen zijn bij het verlenen van bijstand als bedoeld in [art
 
 #### Paragraaf 2. Beheer en verantwoording
 
-### Hoofdstuk 8. Wijziging en intrekking wetten
+### Hoofdstuk 9. Overgangs- en slotbepalingen
 
 ### Hoofdstuk 9. Overgangs- en slotbepalingen
+
+#### Paragraaf 1. Overgangsbepalingen
+
+#### Paragraaf 2. Slotbepalingen
+
+Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
+
+##### Artikel 2a
+
+1. Het CBS bestaat uit één lid, de directeur-generaal, met de titel van directeur-generaal van de statistiek.
+
+2. De directeur-generaal wordt benoemd voor een periode van ten hoogste zeven jaren en kan eenmaal worden herbenoemd voor een periode van ten hoogste drie jaren.
+
+3. Bij het openvallen van de functie van directeur-generaal doet de raad van advies een aanbeveling voor de vervulling van deze functie aan Onze Minister.
+
+4. Schorsing en ontslag van de directeur-generaal vindt niet plaats dan nadat de raad van advies is gehoord.
+
+5. Onze Minister kan regels stellen ten aanzien van de plaatsvervanging van de directeur-generaal.
+
+##### Artikel 2b
+
+1. De directeur-generaal stelt een bestuursreglement vast.
+
+2. Het bestuursreglement bevat ten minste een regeling van:
+
+- a. de structuur van de CBS-organisatie;
+
+- b. de samenstelling en werkwijze van de leidinggevenden van de onderdelen van de CBS-organisatie en hun onderlinge taakverdeling op hoofdlijnen.
+
+#### Paragraaf 2. Werkwijze
+
+### Hoofdstuk 4. Raad van advies
+
+### Hoofdstuk 4a. Bonaire, Sint Eustatius en Saba
+
+### Hoofdstuk 5. Verwerving, gebruik en verstrekking van gegevens
+
+#### Paragraaf 1. Verwerving
+
+#### Paragraaf 2. Gebruik van gegevens
+
+#### Paragraaf 2a. Uitvoering van [verordening 638/2004](32004R0638)
+
+#### Paragraaf 3. Verstrekking van gegevens
+
+### Hoofdstuk 5a. Het verlenen van bijstand bij inspecties
+
+### Hoofdstuk 7. Financieel toezicht
+
+#### Paragraaf 2. Beheer en verantwoording
+
+### Hoofdstuk 8. Wijziging en intrekking wetten
 
 #### Paragraaf 1. Overgangsbepalingen
 
