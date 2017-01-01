@@ -4,7 +4,7 @@ identifier: "BWBR0035712"
 country: "nl"
 rank: "amvb"
 publication_date: "2026-01-01"
-last_updated: "2015-01-01"
+last_updated: "2017-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0035712"
 soort: "AMvB"
@@ -46,6 +46,8 @@ Gezien het nader rapport van Onze Minister van Economische Zaken van 21 oktober 
 
 Hebben goedgevonden en verstaan:
 
+Treedt in werking op het tijdstip waarop het in artikel I, onderdeel E, van de Wijzigingswet Instellingswet Autoriteit Consument en Markt, enz. (stroomlijning markttoezicht ACM) vastgestelde artikel 6a in werking treedt.
+
 ### Hoofdstuk 1. Algemene bepalingen
 
 ##### Artikel 1
@@ -58,7 +60,7 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
 - **bedragen:** de bedragen die krachtens [artikel 6a, zevende lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0033043&artikel=6a) worden vastgesteld;
 
-- **wet:** de [Instellingswet Autoriteit Consument en Mark](https://wetten.overheid.nl/jci1.3:c:BWBR0033043&wetgeving)t.
+- **wet:** de [Instellingswet Autoriteit Consument en Mark](https://wetten.overheid.nl/jci1.3:c:BWBR0033043)t.
 
 ##### Artikel 2
 
@@ -68,7 +70,7 @@ De bedragen worden door de ACM aan marktorganisaties in rekening gebracht en doo
 
 ##### Artikel 3
 
-1. Dit hoofdstuk is van toepassing op de doorberekening van de kosten van de beschikkingen, bedoeld in [artikel 4, eerste lid, onderdelen a, b en c](https://wetten.overheid.nl/jci1.3:c:BWBR0035712&hoofdstuk=2&artikel=4&z=2015-01-01&g=2015-01-01).
+1. Dit hoofdstuk is van toepassing op de doorberekening van de kosten van de beschikkingen, bedoeld in [artikel 4, eerste lid, onderdelen a, b en c](https://wetten.overheid.nl/jci1.3:c:BWBR0035712&hoofdstuk=2&artikel=4&z=2015-01-01&g=2017-01-01).
 
 2. De kosten die worden doorberekend betreffen de kosten samenhangend met het geven van een beschikking, met inbegrip van de kosten samenhangend met het behandelen van een beschikkingsaanvraag.
 
@@ -90,23 +92,23 @@ De bedragen worden door de ACM aan marktorganisaties in rekening gebracht en doo
 
 1. Het bedrag dat is verschuldigd voor het geven van een beschikking is een bedrag dat wordt gebaseerd op de gemiddelde kosten samenhangend met het geven van die beschikking.
 
-2. Voor de toepassing van het eerste lid wordt ten aanzien van de beschikkingen, bedoeld in [artikel 4, eerste lid, onderdelen b en c](https://wetten.overheid.nl/jci1.3:c:BWBR0035712&hoofdstuk=2&artikel=4&z=2015-01-01&g=2015-01-01), geen onderscheid gemaakt tussen besluiten tot het inwilligen van een beschikkingsaanvraag en besluiten tot het geheel of gedeeltelijk afwijzen van een dergelijke aanvraag.
+2. Voor de toepassing van het eerste lid wordt ten aanzien van de beschikkingen, bedoeld in [artikel 4, eerste lid, onderdelen b en c](https://wetten.overheid.nl/jci1.3:c:BWBR0035712&hoofdstuk=2&artikel=4&z=2015-01-01&g=2017-01-01), geen onderscheid gemaakt tussen besluiten tot het inwilligen van een beschikkingsaanvraag en besluiten tot het geheel of gedeeltelijk afwijzen van een dergelijke aanvraag.
 
 ##### Artikel 6
 
-Indien een door de ACM in behandeling genomen aanvraag van een marktorganisatie tot het geven van een beschikking als bedoeld in [artikel 4, eerste lid, onderdelen b en c](https://wetten.overheid.nl/jci1.3:c:BWBR0035712&hoofdstuk=2&artikel=4&z=2015-01-01&g=2015-01-01), wordt ingetrokken voordat de ACM een besluit op de aanvraag heeft genomen, brengt de ACM het bedrag dat is verschuldigd voor het geven van de desbetreffende beschikking ten laste van de betreffende marktorganisatie.
+Indien een door de ACM in behandeling genomen aanvraag van een marktorganisatie tot het geven van een beschikking als bedoeld in [artikel 4, eerste lid, onderdelen b en c](https://wetten.overheid.nl/jci1.3:c:BWBR0035712&hoofdstuk=2&artikel=4&z=2015-01-01&g=2017-01-01), wordt ingetrokken voordat de ACM een besluit op de aanvraag heeft genomen, brengt de ACM het bedrag dat is verschuldigd voor het geven van de desbetreffende beschikking ten laste van de betreffende marktorganisatie.
 
 ##### Artikel 7
 
 1. De ACM verzendt de beschikking tot betaling tegelijk met de bekendmaking van de beschikking waarvoor het bedrag in rekening wordt gebracht.
 
-2. Indien een aanvraag voor een beschikking als bedoeld in [artikel 4, eerste lid, onderdelen b en c](https://wetten.overheid.nl/jci1.3:c:BWBR0035712&hoofdstuk=2&artikel=4&z=2015-01-01&g=2015-01-01), wordt ingetrokken voordat de ACM een besluit op de aanvraag heeft genomen, verzendt de ACM de beschikking tot betaling binnen vier weken na ontvangst van de intrekking van de aanvraag.
+2. Indien een aanvraag voor een beschikking als bedoeld in [artikel 4, eerste lid, onderdelen b en c](https://wetten.overheid.nl/jci1.3:c:BWBR0035712&hoofdstuk=2&artikel=4&z=2015-01-01&g=2017-01-01), wordt ingetrokken voordat de ACM een besluit op de aanvraag heeft genomen, verzendt de ACM de beschikking tot betaling binnen vier weken na ontvangst van de intrekking van de aanvraag.
 
 ### Hoofdstuk 3. Kosten die door middel van toerekening worden doorberekend aan marktorganisaties
 
 ##### Artikel 8
 
-1. Dit hoofdstuk is van toepassing op de doorberekening van de kosten van de ACM, met uitzondering van de kosten waarvan de doorberekening wordt geregeld in [hoofdstuk 2](https://wetten.overheid.nl/jci1.3:c:BWBR0035712&hoofdstuk=2&z=2015-01-01&g=2015-01-01).
+1. Dit hoofdstuk is van toepassing op de doorberekening van de kosten van de ACM, met uitzondering van de kosten waarvan de doorberekening wordt geregeld in [hoofdstuk 2](https://wetten.overheid.nl/jci1.3:c:BWBR0035712&hoofdstuk=2&z=2015-01-01&g=2017-01-01).
 
 2. Niet ten laste van marktorganisaties worden gebracht de kosten:
 
@@ -188,11 +190,11 @@ Indien een door de ACM in behandeling genomen aanvraag van een marktorganisatie 
 
 ##### Artikel 11
 
-De ACM maakt voor de toepassing van [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0035712&hoofdstuk=3&artikel=10&z=2015-01-01&g=2015-01-01) gebruik van een kostentoerekeningssysteem dat zodanig is ingericht dat daaruit op eenduidige en inzichtelijke wijze de kosten van de desbetreffende categorieën van gelijksoortige werkzaamheden of diensten kunnen worden afgeleid.
+De ACM maakt voor de toepassing van [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0035712&hoofdstuk=3&artikel=10&z=2015-01-01&g=2017-01-01) gebruik van een kostentoerekeningssysteem dat zodanig is ingericht dat daaruit op eenduidige en inzichtelijke wijze de kosten van de desbetreffende categorieën van gelijksoortige werkzaamheden of diensten kunnen worden afgeleid.
 
 ##### Artikel 12
 
-1. Voor de toepassing van [hoofdstuk 3](https://wetten.overheid.nl/jci1.3:c:BWBR0035712&hoofdstuk=3&z=2015-01-01&g=2015-01-01) van dit besluit wordt onder relevante omzet verstaan de omzet die een tot een bepaalde categorie behorende marktorganisatie in Nederland heeft behaald met activiteiten waarop de taakuitvoering van de ACM in die categorie betrekking heeft.
+1. Voor de toepassing van [hoofdstuk 3](https://wetten.overheid.nl/jci1.3:c:BWBR0035712&hoofdstuk=3&z=2015-01-01&g=2017-01-01) van dit besluit wordt onder relevante omzet verstaan de omzet die een tot een bepaalde categorie behorende marktorganisatie in Nederland heeft behaald met activiteiten waarop de taakuitvoering van de ACM in die categorie betrekking heeft.
 
 2. Voor de vaststelling van de bedragen worden de aan een categorie toegerekende kosten toegedeeld aan de tot die categorie behorende marktorganisaties naar rato van de relevante omzet van die marktorganisaties.
 
@@ -200,13 +202,13 @@ De ACM maakt voor de toepassing van [artikel 10](https://wetten.overheid.nl/jci1
 
 4. Voor de toepassing van het tweede lid wordt uitgegaan van de relevante omzet die is behaald in het peiljaar. Peiljaar is het kalenderjaar dat twee jaar voorafgaat aan het kalenderjaar waarvoor de bedragen worden vastgesteld.
 
-5. In afwijking van het tweede lid worden de aan de in [artikel 10, tweede lid, onderdeel c, onder 2°](https://wetten.overheid.nl/jci1.3:c:BWBR0035712&hoofdstuk=3&artikel=10&z=2015-01-01&g=2015-01-01), bedoelde categorie toegerekende kosten aan marktorganisaties toegedeeld naar rato van het aantal toegekende nummers op 1 januari van het kalenderjaar waarvoor de bedragen gelden. Bij ministeriële regeling wordt geregeld in welke gevallen en op welke wijze wordt gecorrigeerd voor het saldo van in- en uitgeporteerde nummers op die datum.
+5. In afwijking van het tweede lid worden de aan de in [artikel 10, tweede lid, onderdeel c, onder 2°](https://wetten.overheid.nl/jci1.3:c:BWBR0035712&hoofdstuk=3&artikel=10&z=2015-01-01&g=2017-01-01), bedoelde categorie toegerekende kosten aan marktorganisaties toegedeeld naar rato van het aantal toegekende nummers op 1 januari van het kalenderjaar waarvoor de bedragen gelden. Bij ministeriële regeling wordt geregeld in welke gevallen en op welke wijze wordt gecorrigeerd voor het saldo van in- en uitgeporteerde nummers op die datum.
 
-6. In afwijking van het eerste lid worden de aan de in [artikel 10, tweede lid, onderdeel c, onder 3°](https://wetten.overheid.nl/jci1.3:c:BWBR0035712&hoofdstuk=3&artikel=10&z=2015-01-01&g=2015-01-01), bedoelde categorie toegerekende kosten aan marktorganisaties toegedeeld naar rato van het aantal aan het publiek afgegeven certificaten op 1 januari van het kalenderjaar waarvoor de bedragen gelden.
+6. In afwijking van het eerste lid worden de aan de in [artikel 10, tweede lid, onderdeel c, onder 3°](https://wetten.overheid.nl/jci1.3:c:BWBR0035712&hoofdstuk=3&artikel=10&z=2015-01-01&g=2017-01-01), bedoelde categorie toegerekende kosten aan marktorganisaties toegedeeld naar rato van het aantal aan het publiek afgegeven certificaten op 1 januari van het kalenderjaar waarvoor de bedragen gelden.
 
 ##### Artikel 12a. (opgave omzet peiljaar)
 
-1. Een marktorganisatie behorend tot een in [artikel 10, tweede lid, onderdeel a, onder 1°, 2° of 5°, onderdeel b, onder 2°, of onderdeel c, onder 1°](https://wetten.overheid.nl/jci1.3:c:BWBR0035712&hoofdstuk=3&artikel=10&z=2015-01-01&g=2015-01-01), genoemde categorie, verstrekt vóór 1 januari van het kalenderjaar waarvoor de bedragen worden vastgesteld aan de ACM een opgave van de in het betrokken peiljaar behaalde relevante omzet, tenzij de ACM de marktorganisatie heeft laten weten reeds over de betreffende gegevens te beschikken.
+1. Een marktorganisatie behorend tot een in [artikel 10, tweede lid, onderdeel a, onder 1°, 2° of 5°, onderdeel b, onder 2°, of onderdeel c, onder 1°](https://wetten.overheid.nl/jci1.3:c:BWBR0035712&hoofdstuk=3&artikel=10&z=2015-01-01&g=2017-01-01), genoemde categorie, verstrekt vóór 1 januari van het kalenderjaar waarvoor de bedragen worden vastgesteld aan de ACM een opgave van de in het betrokken peiljaar behaalde relevante omzet, tenzij de ACM de marktorganisatie heeft laten weten reeds over de betreffende gegevens te beschikken.
 
 2. De opgave gaat vergezeld van een verklaring van een accountant die is ingeschreven in het accountantsregister, bedoeld in [artikel 36 van de Wet op het accountantsberoep](https://wetten.overheid.nl/jci1.3:c:BWBR0032573&artikel=36), dat de opgave een getrouw beeld geeft van de in het peiljaar behaalde relevante omzet en voldoet aan de bij of krachtens dit besluit gestelde eisen.
 
@@ -226,9 +228,9 @@ De ACM maakt voor de toepassing van [artikel 10](https://wetten.overheid.nl/jci1
 
 ##### Artikel 13
 
-1. Ingeval van een groep als bedoeld in [artikel 24b van Boek 2 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=24b) wordt in afwijking van [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0035712&hoofdstuk=1&artikel=2&z=2015-01-01&g=2015-01-01) per groep één bedrag in rekening gebracht en worden voor de berekening van de relevante omzet van de groep de relevante omzetten van alle tot die groep behorende marktorganisaties opgeteld. Bij deze berekening worden transacties tussen de tot die groep behorende marktorganisaties buiten beschouwing gelaten.
+1. Ingeval van een groep als bedoeld in [artikel 24b van Boek 2 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=24b) wordt in afwijking van [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0035712&hoofdstuk=1&artikel=2&z=2015-01-01&g=2017-01-01) per groep één bedrag in rekening gebracht en worden voor de berekening van de relevante omzet van de groep de relevante omzetten van alle tot die groep behorende marktorganisaties opgeteld. Bij deze berekening worden transacties tussen de tot die groep behorende marktorganisaties buiten beschouwing gelaten.
 
-2. Indien een marktorganisatie in of na het peiljaar activiteiten van één of meer andere marktorganisaties heeft overgenomen, vindt de berekening van de relevante omzet plaats met inachtneming van het betrokken deel van de in het peiljaar behaalde relevante omzet van de marktorganisaties die de activiteiten voorheen verrichtten. De verplichting om over dit deel een opgave als bedoeld in [artikel 12a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035712&hoofdstuk=3&artikel=12a&z=2015-01-01&g=2015-01-01), te doen rust op de marktorganisatie die activiteiten heeft overgenomen. Artikel 12a, zevende lid, is van overeenkomstige toepassing.
+2. Indien een marktorganisatie in of na het peiljaar activiteiten van één of meer andere marktorganisaties heeft overgenomen, vindt de berekening van de relevante omzet plaats met inachtneming van het betrokken deel van de in het peiljaar behaalde relevante omzet van de marktorganisaties die de activiteiten voorheen verrichtten. De verplichting om over dit deel een opgave als bedoeld in [artikel 12a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035712&hoofdstuk=3&artikel=12a&z=2015-01-01&g=2017-01-01), te doen rust op de marktorganisatie die activiteiten heeft overgenomen. Artikel 12a, zevende lid, is van overeenkomstige toepassing.
 
 3. Bij ministeriële regeling kunnen per categorie of subcategorie van marktorganisaties activiteiten worden aangewezen van welke de relevante omzet niet wordt betrokken bij de berekening van de relevante omzet van de desbetreffende marktorganisaties.
 
@@ -240,11 +242,11 @@ De ACM verzendt de beschikkingen tot betaling jaarlijks uiterlijk op 30 juni.
 
 ##### Artikel 15
 
-1. In afwijking van [artikel 9, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035712&hoofdstuk=3&artikel=9&z=2015-01-01&g=2015-01-01), kunnen, ten behoeve van een geleidelijke overgang als bedoeld in [artikel 6a, achtste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0033043&artikel=6a), de bedragen voor de kalenderjaren 2015, 2016 en 2017 lager worden vastgesteld. Alsdan is de verlaging voor alle sectoren in relatieve zin gelijk.
+1. In afwijking van [artikel 9, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035712&hoofdstuk=3&artikel=9&z=2015-01-01&g=2017-01-01), kunnen, ten behoeve van een geleidelijke overgang als bedoeld in [artikel 6a, achtste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0033043&artikel=6a), de bedragen voor de kalenderjaren 2015, 2016 en 2017 lager worden vastgesteld. Alsdan is de verlaging voor alle sectoren in relatieve zin gelijk.
 
-2. In afwijking van [artikel 12a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035712&hoofdstuk=3&artikel=12a&z=2015-01-01&g=2015-01-01), verstrekt een marktorganisatie behorend tot een in artikel 12a, eerste lid, bedoelde categorie, ten behoeve van de vaststelling van de bedragen geldend voor het kalenderjaar 2015, de in artikel 12a, eerste lid, bedoelde opgave van de relevante omzet vóór 1 maart 2015.
+2. In afwijking van [artikel 12a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035712&hoofdstuk=3&artikel=12a&z=2015-01-01&g=2017-01-01), verstrekt een marktorganisatie behorend tot een in artikel 12a, eerste lid, bedoelde categorie, ten behoeve van de vaststelling van de bedragen geldend voor het kalenderjaar 2015, de in artikel 12a, eerste lid, bedoelde opgave van de relevante omzet vóór 1 maart 2015.
 
-3. In afwijking van [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0035712&hoofdstuk=3&artikel=14&z=2015-01-01&g=2015-01-01), verzendt de ACM de beschikkingen tot betaling in het jaar 2015 uiterlijk op 31 juli.
+3. In afwijking van [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0035712&hoofdstuk=3&artikel=14&z=2015-01-01&g=2017-01-01), verzendt de ACM de beschikkingen tot betaling in het jaar 2015 uiterlijk op 31 juli.
 
 ### Hoofdstuk 4. Wijziging van andere besluiten
 
@@ -272,7 +274,7 @@ Wijzigt het Tijdelijk besluit postbezorgers 2011.
 
 ##### Artikel 21
 
-Het [Besluit kostenverhaal Mededingingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0020855&wetgeving) en het [Besluit vergoedingen Postwet](https://wetten.overheid.nl/jci1.3:c:BWBR0008845&wetgeving) worden ingetrokken.
+Het [Besluit kostenverhaal Mededingingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0020855) en het [Besluit vergoedingen Postwet](https://wetten.overheid.nl/jci1.3:c:BWBR0008845) worden ingetrokken.
 
 ##### Artikel 22
 
