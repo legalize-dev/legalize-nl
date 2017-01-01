@@ -4,7 +4,7 @@ identifier: "BWBR0033791"
 country: "nl"
 rank: "pbo"
 publication_date: "2020-01-01"
-last_updated: "2016-01-01"
+last_updated: "2017-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0033791"
 soort: "pbo"
@@ -38,9 +38,9 @@ Stelt de volgende verordening vast:
 
 ##### Artikel 1
 
-1. Degene die zich heeft aangemeld voor het examen Nederlands recht of het examen gedrags- en beroepsregels, bedoeld in [artikel 54, eerste lid, van de Wet op het accountantsberoep](https://wetten.overheid.nl/jci1.3:c:BWBR0032573&artikel=54), is per examenonderdeel een bedrag van € 575,– verschuldigd.
+1. Degene die zich heeft aangemeld voor het examen Nederlands recht of het examen gedrags- en beroepsregels, bedoeld in [artikel 54, eerste lid, van de Wet op het accountantsberoep](https://wetten.overheid.nl/jci1.3:c:BWBR0032573&artikel=54), is per examenonderdeel een bedrag van € 580,– verschuldigd.
 
-2. Degene die zich heeft aangemeld voor een gesprek als bedoeld in [artikel 6, eerste lid, van de Verordening examen Nederlands recht en examen gedrags- en beroepsregels](https://wetten.overheid.nl/jci1.3:c:BWBR0033788&artikel=6), is een bedrag van € 230,– verschuldigd.
+2. Degene die zich heeft aangemeld voor een gesprek als bedoeld in [artikel 6, eerste lid, van de Verordening examen Nederlands recht en examen gedrags- en beroepsregels](https://wetten.overheid.nl/jci1.3:c:BWBR0033788&artikel=6), is een bedrag van € 375,– verschuldigd.
 
 ##### Artikel 2
 
@@ -48,7 +48,7 @@ Het bestuur kan in bijzondere gevallen besluiten om het examengeld geheel of ged
 
 ##### Artikel 3
 
-Degene die een verzoek om vrijstelling, bedoeld in [artikel 4 van de Verordening examen Nederlands recht en examen gedrags- en beroepsregels](https://wetten.overheid.nl/jci1.3:c:BWBR0033788&artikel=4), indient is een bedrag van € 100,– verschuldigd.
+Degene die een verzoek om vrijstelling, bedoeld in [artikel 4 van de Verordening examen Nederlands recht en examen gedrags- en beroepsregels](https://wetten.overheid.nl/jci1.3:c:BWBR0033788&artikel=4), indient is een bedrag van € 235,– verschuldigd.
 
 ##### Artikel 4
 
