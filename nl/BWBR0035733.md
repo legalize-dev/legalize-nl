@@ -4,7 +4,7 @@ identifier: "BWBR0035733"
 country: "nl"
 rank: "amvb"
 publication_date: "2026-01-01"
-last_updated: "2017-01-01"
+last_updated: "2017-01-02"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0035733"
 soort: "AMvB"
@@ -184,7 +184,7 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
 - –. **standaardpremie:** het bedrag als bedoeld in [artikel 1, eerste lid, onderdeel g, van de Wet op de zorgtoeslag](https://wetten.overheid.nl/jci1.3:c:BWBR0018451&artikel=1);
 
-- –. **vermogen:** vermogen als bedoeld in [artikel 3.2](https://wetten.overheid.nl/jci1.3:c:BWBR0035733&hoofdstuk=3&paragraaf=1&artikel=3.2&z=2017-01-01&g=2017-01-01);
+- –. **vermogen:** vermogen als bedoeld in [artikel 3.2](https://wetten.overheid.nl/jci1.3:c:BWBR0035733&hoofdstuk=3&paragraaf=1&artikel=3.2&z=2017-01-02&g=2017-01-02);
 
 - –. **wet:** [Wet maatschappelijke ondersteuning 2015](https://wetten.overheid.nl/jci1.3:c:BWBR0035362);
 
@@ -214,11 +214,11 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
 1. Indien de gemeenteraad uitvoering heeft gegeven aan [artikel 2.1.4, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0035362&artikel=2.1.4), of [artikel 2.1.5 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0035362&artikel=2.1.5) is een bijdrage verschuldigd.
 
-2. [Paragraaf 2](https://wetten.overheid.nl/jci1.3:c:BWBR0035733&hoofdstuk=3&paragraaf=2&z=2017-01-01&g=2017-01-01) is van toepassing op bijdragen, tenzij de [paragraaf 3](https://wetten.overheid.nl/jci1.3:c:BWBR0035733&hoofdstuk=3&paragraaf=3&z=2017-01-01&g=2017-01-01) of [4](https://wetten.overheid.nl/jci1.3:c:BWBR0035733&hoofdstuk=3&paragraaf=4&z=2017-01-01&g=2017-01-01) van toepassing is.
+2. [Paragraaf 2](https://wetten.overheid.nl/jci1.3:c:BWBR0035733&hoofdstuk=3&paragraaf=2&z=2017-01-02&g=2017-01-02) is van toepassing op bijdragen, tenzij de [paragraaf 3](https://wetten.overheid.nl/jci1.3:c:BWBR0035733&hoofdstuk=3&paragraaf=3&z=2017-01-02&g=2017-01-02) of [4](https://wetten.overheid.nl/jci1.3:c:BWBR0035733&hoofdstuk=3&paragraaf=4&z=2017-01-02&g=2017-01-02) van toepassing is.
 
-3. [Paragraaf 3](https://wetten.overheid.nl/jci1.3:c:BWBR0035733&hoofdstuk=3&paragraaf=3&z=2017-01-01&g=2017-01-01) is van toepassing op bijdragen voor beschermd wonen.
+3. [Paragraaf 3](https://wetten.overheid.nl/jci1.3:c:BWBR0035733&hoofdstuk=3&paragraaf=3&z=2017-01-02&g=2017-01-02) is van toepassing op bijdragen voor beschermd wonen.
 
-4. [Paragraaf 4](https://wetten.overheid.nl/jci1.3:c:BWBR0035733&hoofdstuk=3&paragraaf=4&z=2017-01-01&g=2017-01-01) is van toepassing op bijdragen voor opvang.
+4. [Paragraaf 4](https://wetten.overheid.nl/jci1.3:c:BWBR0035733&hoofdstuk=3&paragraaf=4&z=2017-01-02&g=2017-01-02) is van toepassing op bijdragen voor opvang.
 
 ##### Artikel 3.2
 
@@ -226,17 +226,17 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
 - a. op aanvraag van de persoon, het bedrag ter grootte van door de persoon in het peiljaar of enig eerder jaar ontvangen eenmalige uitkeringen die krachtens [artikel 47 van de Algemene wet inkomensafhankelijke regelingen](https://wetten.overheid.nl/jci1.3:c:BWBR0018472&artikel=47) zijn aangewezen;
 
-- b. voor de toepassing van [artikel 3.13, eerste lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0035733&hoofdstuk=3&paragraaf=3&artikel=3.13&z=2017-01-01&g=2017-01-01), en [artikel 3.14, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035733&hoofdstuk=3&paragraaf=3&artikel=3.14&z=2017-01-01&g=2017-01-01), een bedrag van € 10.090 voor de persoon die de pensioengerechtigde leeftijd nog niet heeft bereikt en van € 10.090 voor zijn echtgenoot die:
+- b. voor de toepassing van [artikel 3.13, eerste lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0035733&hoofdstuk=3&paragraaf=3&artikel=3.13&z=2017-01-02&g=2017-01-02), en [artikel 3.14, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035733&hoofdstuk=3&paragraaf=3&artikel=3.14&z=2017-01-02&g=2017-01-02), een bedrag van € 10.090 voor de persoon die de pensioengerechtigde leeftijd nog niet heeft bereikt en van € 10.090 voor zijn echtgenoot die:
 
 - 1°. de pensioengerechtigde leeftijd heeft bereikt; of
 
-- 2°. de pensioengerechtigde leeftijd niet heeft bereikt en geen bijdrage als bedoeld in [artikel 3.11, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035733&hoofdstuk=3&paragraaf=3&artikel=3.11&z=2017-01-01&g=2017-01-01), of [artikel 3.12, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035733&hoofdstuk=3&paragraaf=3&artikel=3.12&z=2017-01-01&g=2017-01-01), dan wel [artikel 3.3.2.1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035948&artikel=3.3.2.1), of [artikel 3.3.2.2, eerste en tweede lid, van het Besluit langdurige zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0035948&artikel=3.3.2.2) verschuldigd is,
+- 2°. de pensioengerechtigde leeftijd niet heeft bereikt en geen bijdrage als bedoeld in [artikel 3.11, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035733&hoofdstuk=3&paragraaf=3&artikel=3.11&z=2017-01-02&g=2017-01-02), of [artikel 3.12, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035733&hoofdstuk=3&paragraaf=3&artikel=3.12&z=2017-01-02&g=2017-01-02), dan wel [artikel 3.3.2.1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035948&artikel=3.3.2.1), of [artikel 3.3.2.2, eerste en tweede lid, van het Besluit langdurige zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0035948&artikel=3.3.2.2) verschuldigd is,
 
 met dien verstande dat het vermogen ten minste nihil bedraagt.
 
 2. De vermogensgrondslag van een persoon is zijn grondslag sparen en beleggen, over het peiljaar, of indien over het peiljaar [artikel 5.2, tweede lid, van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=5.2) op de persoon van toepassing is, het aan hem toegerekende gedeelte van de toepasselijke gezamenlijke grondslag sparen en beleggen, bedoeld in dat lid.
 
-3. In afwijking van het tweede lid is de vermogensgrondslag van een persoon bij toepassing jegens hem van [artikel 3.14, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035733&hoofdstuk=3&paragraaf=3&artikel=3.14&z=2017-01-01&g=2017-01-01), [artikel 3.15, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035733&hoofdstuk=3&paragraaf=3&artikel=3.15&z=2017-01-01&g=2017-01-01), of [artikel 3.16](https://wetten.overheid.nl/jci1.3:c:BWBR0035733&hoofdstuk=3&paragraaf=3&artikel=3.16&z=2017-01-01&g=2017-01-01), de te verwachten grondslag sparen en beleggen over het lopende jaar, of indien [artikel 5.2, tweede lid, van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=5.2) vermoedelijk op de persoon van toepassing zal zijn, het te verwachten aan hem toe te rekenen deel van de toepasselijke te verwachten gezamenlijke grondslag sparen en beleggen, bedoeld in [artikel 5.2, tweede lid, van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=5.2).
+3. In afwijking van het tweede lid is de vermogensgrondslag van een persoon bij toepassing jegens hem van [artikel 3.14, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035733&hoofdstuk=3&paragraaf=3&artikel=3.14&z=2017-01-02&g=2017-01-02), [artikel 3.15, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035733&hoofdstuk=3&paragraaf=3&artikel=3.15&z=2017-01-02&g=2017-01-02), of [artikel 3.16](https://wetten.overheid.nl/jci1.3:c:BWBR0035733&hoofdstuk=3&paragraaf=3&artikel=3.16&z=2017-01-02&g=2017-01-02), de te verwachten grondslag sparen en beleggen over het lopende jaar, of indien [artikel 5.2, tweede lid, van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=5.2) vermoedelijk op de persoon van toepassing zal zijn, het te verwachten aan hem toe te rekenen deel van de toepasselijke te verwachten gezamenlijke grondslag sparen en beleggen, bedoeld in [artikel 5.2, tweede lid, van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=5.2).
 
 4. Het deel van het bedrag, bedoeld in het eerste lid, onderdeel a, dat de vermogensgrondslag van de persoon overtreft, wordt voor zijn echtgenoot als vermindering toegepast.
 
@@ -252,7 +252,7 @@ met dien verstande dat het vermogen ten minste nihil bedraagt.
 
 ##### Artikel 3.4
 
-1. Een wijziging in de burgerlijke staat van de cliënt en het bereiken van een voor de toepassing van dit besluit van belang zijnde leeftijd door de cliënt of zijn echtgenoot wordt in aanmerking genomen met ingang van de datum waarop de bijdrage wordt vastgesteld, met dien verstande dat bij de jaarlijkse herberekening, bedoeld in [artikel 3.18](https://wetten.overheid.nl/jci1.3:c:BWBR0035733&hoofdstuk=3&paragraaf=3&artikel=3.18&z=2017-01-01&g=2017-01-01), een cliënt als pensioengerechtigde wordt beschouwd indien hij uiterlijk op 31 januari van het kalenderjaar waarop de herberekening betrekking heeft, de pensioengerechtigde leeftijd heeft bereikt.
+1. Een wijziging in de burgerlijke staat van de cliënt en het bereiken van een voor de toepassing van dit besluit van belang zijnde leeftijd door de cliënt of zijn echtgenoot wordt in aanmerking genomen met ingang van de datum waarop de bijdrage wordt vastgesteld, met dien verstande dat bij de jaarlijkse herberekening, bedoeld in [artikel 3.18](https://wetten.overheid.nl/jci1.3:c:BWBR0035733&hoofdstuk=3&paragraaf=3&artikel=3.18&z=2017-01-02&g=2017-01-02), een cliënt als pensioengerechtigde wordt beschouwd indien hij uiterlijk op 31 januari van het kalenderjaar waarop de herberekening betrekking heeft, de pensioengerechtigde leeftijd heeft bereikt.
 
 2. De cliënt meldt aan het CAK wijzigingen als bedoeld in het eerste lid.
 
@@ -274,41 +274,43 @@ met dien verstande dat het vermogen ten minste nihil bedraagt.
 
 ##### Artikel 3.7
 
-1. Bij ministeriële regeling worden de bedragen, genoemd in de [artikelen 3.8, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035733&hoofdstuk=3&paragraaf=2&artikel=3.8&z=2017-01-01&g=2017-01-01), voor zover het betreft de in dat lid genoemde bedragen per bijdrageperiode, [3.9, tweede en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035733&hoofdstuk=3&paragraaf=2&artikel=3.9&z=2017-01-01&g=2017-01-01), [3.11, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035733&hoofdstuk=3&paragraaf=3&artikel=3.11&z=2017-01-01&g=2017-01-01), [3.12, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035733&hoofdstuk=3&paragraaf=3&artikel=3.12&z=2017-01-01&g=2017-01-01), en [artikel 3.14, tweede en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035733&hoofdstuk=3&paragraaf=3&artikel=3.14&z=2017-01-01&g=2017-01-01), jaarlijks gewijzigd aan de hand van de prijsindex voor de gezinsconsumptie. De berekende bedragen worden naar beneden afgerond op een veelvoud van € 0,2. Bij de jaarlijkse toepassing van dit lid wordt de afronding buiten beschouwing gelaten.
+1. Bij ministeriële regeling worden de bedragen, genoemd in de [artikelen 3.8, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035733&hoofdstuk=3&paragraaf=2&artikel=3.8&z=2017-01-02&g=2017-01-02), voor zover het betreft de in dat lid genoemde bedragen per bijdrageperiode, [3.9, tweede en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035733&hoofdstuk=3&paragraaf=2&artikel=3.9&z=2017-01-02&g=2017-01-02), [3.11, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035733&hoofdstuk=3&paragraaf=3&artikel=3.11&z=2017-01-02&g=2017-01-02), [3.12, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035733&hoofdstuk=3&paragraaf=3&artikel=3.12&z=2017-01-02&g=2017-01-02), en [artikel 3.14, tweede en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035733&hoofdstuk=3&paragraaf=3&artikel=3.14&z=2017-01-02&g=2017-01-02), jaarlijks gewijzigd aan de hand van de prijsindex voor de gezinsconsumptie. De berekende bedragen worden naar beneden afgerond op een veelvoud van € 0,2. Bij de jaarlijkse toepassing van dit lid wordt de afronding buiten beschouwing gelaten.
 
-2. Bij ministeriële regeling wordt het bedrag, genoemd in [artikel 3.2, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0035733&hoofdstuk=3&paragraaf=1&artikel=3.2&z=2017-01-01&g=2017-01-01), jaarlijks gewijzigd aan de hand van het indexcijfer waarmee het bedrag, genoemd in [artikel 5.5 van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=5.5), jaarlijks wordt gewijzigd.
+2. Bij ministeriële regeling wordt het bedrag, genoemd in [artikel 3.2, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0035733&hoofdstuk=3&paragraaf=1&artikel=3.2&z=2017-01-02&g=2017-01-02), jaarlijks gewijzigd aan de hand van het indexcijfer waarmee het bedrag, genoemd in [artikel 5.5 van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=5.5), jaarlijks wordt gewijzigd.
 
-3. Bij ministeriële regeling worden de bedragen van het bijdrageplichtig inkomen, genoemd in [3.8, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035733&hoofdstuk=3&paragraaf=2&artikel=3.8&z=2017-01-01&g=2017-01-01), jaarlijks gewijzigd aan de hand van de ontwikkelingen van het minimumloon, bedoeld in [artikel 8, eerste lid, onderdeel a, van de Wet minimumloon en minimumvakantiebijslag](https://wetten.overheid.nl/jci1.3:c:BWBR0002638&artikel=8).
+3. Bij ministeriële regeling worden de bedragen van het bijdrageplichtig inkomen, genoemd in [3.8, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035733&hoofdstuk=3&paragraaf=2&artikel=3.8&z=2017-01-02&g=2017-01-02), jaarlijks gewijzigd aan de hand van de ontwikkelingen van het minimumloon, bedoeld in [artikel 8, eerste lid, onderdeel a, van de Wet minimumloon en minimumvakantiebijslag](https://wetten.overheid.nl/jci1.3:c:BWBR0002638&artikel=8).
 
 #### § 2. Bijdragen voor maatschappelijke ondersteuning
 
 ##### Artikel 3.8
 
-1. De bijdrage, bedoeld in [artikel 3.1, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035733&hoofdstuk=3&paragraaf=1&artikel=3.1&z=2017-01-01&g=2017-01-01), dan wel het totaal van deze bijdragen bedraagt:
+1. De bijdrage, bedoeld in [artikel 3.1, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035733&hoofdstuk=3&paragraaf=1&artikel=3.1&z=2017-01-02&g=2017-01-02), dan wel het totaal van deze bijdragen bedraagt:
 
-- a. voor de ongehuwde cliënt, niet meer dan € 19,40 per bijdrageperiode met dien verstande dat dit bedrag, indien zijn bijdrageplichtig inkomen, berekend volgens [artikel 3.9](https://wetten.overheid.nl/jci1.3:c:BWBR0035733&hoofdstuk=3&paragraaf=2&artikel=3.9&z=2017-01-01&g=2017-01-01):
+- a. voor de ongehuwde cliënt, niet meer dan € 17,50 per bijdrageperiode met dien verstande dat dit bedrag, indien zijn bijdrageplichtig inkomen, berekend volgens [artikel 3.9](https://wetten.overheid.nl/jci1.3:c:BWBR0035733&hoofdstuk=3&paragraaf=2&artikel=3.9&z=2017-01-02&g=2017-01-02):
 
-- 1°. meer bedraagt dan € 22.486 en hij de pensioengerechtigde leeftijd nog niet heeft bereikt, wordt verhoogd met een dertiende deel van 15% van het verschil tussen dat inkomen en € 22.486;
+- 1°. meer bedraagt dan € 22.632 en hij de pensioengerechtigde leeftijd nog niet heeft bereikt, wordt verhoogd met een dertiende deel van 12,5% van het verschil tussen dat inkomen en € 22.632;
 
-- 2°. meer bedraagt dan € 16.887 en hij de pensioengerechtigde leeftijd heeft bereikt, wordt verhoogd met een dertiende deel van 15% van het verschil tussen dat inkomen en € 16.887;
+- 2°. meer bedraagt dan € 17.033 en hij de pensioengerechtigde leeftijd heeft bereikt, wordt verhoogd met een dertiende deel van 12,5% van het verschil tussen dat inkomen en € 17.033;
 
-- b. voor de gehuwde cliënt of de gehuwde cliënten tezamen, niet meer dan € 27,80 per bijdrageperiode, met dien verstande dat dit bedrag, indien het gezamenlijke bijdrageplichtig inkomen, berekend volgens [artikel 3.9](https://wetten.overheid.nl/jci1.3:c:BWBR0035733&hoofdstuk=3&paragraaf=2&artikel=3.9&z=2017-01-01&g=2017-01-01):
+- b. voor de gehuwde cliënt of de gehuwde cliënten tezamen, waarvan een van beiden of beiden de pensioengerechtigde leeftijd nog niet heeft bereikt of nog niet hebben bereikt, een dertiende deel van 12,5% van het verschil tussen het gezamenlijke bijdrageplichtig inkomen, berekend volgens [artikel 3.9](https://wetten.overheid.nl/jci1.3:c:BWBR0035733&hoofdstuk=3&paragraaf=2&artikel=3.9&z=2017-01-02&g=2017-01-02), en € 35.000, indien dat gezamenlijke inkomen meer bedraagt dan € 35.000;
 
-- 1°. meer bedraagt dan € 28.177 en een van beiden of beiden de pensioengerechtigde leeftijd nog niet heeft bereikt of nog niet hebben bereikt, wordt verhoogd met een dertiende deel van 15% van het verschil tussen dat gezamenlijke inkomen en € 28.177;
+- c. voor de gehuwde cliënt of de gehuwde cliënten tezamen, waarvan beiden de pensioengerechtigde leeftijd hebben bereikt, niet meer dan € 17,50 per bijdrageperiode, met dien verstande dat dit bedrag, indien het gezamenlijke bijdrageplichtig inkomen berekend volgens [artikel 3.9](https://wetten.overheid.nl/jci1.3:c:BWBR0035733&hoofdstuk=3&paragraaf=2&artikel=3.9&z=2017-01-02&g=2017-01-02) meer bedraagt dan € 23.525, wordt verhoogd met een dertiende deel van 12,5% van het verschil tussen dat gezamenlijke inkomen en € 23.525.
 
-- 2°. meer bedraagt dan € 23.374 en beiden de pensioengerechtigde leeftijd hebben bereikt, wordt verhoogd met een dertiende deel van 15% van het verschil tussen dat gezamenlijke inkomen en € 23.374.
+2. De bijdrage kan bij verordening:
 
-2. De bijdrage kan bij verordening voor alle categorieën personen, genoemd in het eerste lid in gelijke mate worden verlaagd:
+- a. voor alle personen, met een daarbij omschreven bijdrageplichtig inkomen op nihil worden gesteld;
 
-- a. door de bedragen per bijdrageperiode of het percentage, genoemd in het eerste lid, te verlagen; of
+- b. voor alle categorieën personen, genoemd in het eerste lid in gelijke mate worden verlaagd:
 
-- b. door de bedragen van het inkomensbedrag, genoemd in het eerste lid, te verhogen.
+- 1°. door de bedragen per bijdrageperiode of het percentage, genoemd in het eerste lid, te verlagen; of
+
+- 2°. door de bedragen van het inkomensbedrag, genoemd in het eerste lid, te verhogen.
 
 3. Voor de toepassing van het eerste lid wordt overeenkomstig de weeknummers volgens de internationale standaard ISO 8601 uitgegaan van twaalf bijdrageperioden van vier weken en een bijdrageperiode die vier of vijf weken bedraagt.
 
 4. De bijdrage is niet verschuldigd:
 
-- a. indien de cliënt of de echtgenoot van de cliënt een bijdrage als bedoeld in [artikel 3.11](https://wetten.overheid.nl/jci1.3:c:BWBR0035733&hoofdstuk=3&paragraaf=3&artikel=3.11&z=2017-01-01&g=2017-01-01) of [3.12](https://wetten.overheid.nl/jci1.3:c:BWBR0035733&hoofdstuk=3&paragraaf=3&artikel=3.12&z=2017-01-01&g=2017-01-01) dan wel een bijdrage ingevolge de [artikelen 3.3.2.1](https://wetten.overheid.nl/jci1.3:c:BWBR0035948&artikel=3.3.2.1) of [3.3.2.2 van het Besluit langdurige zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0035948&artikel=3.3.2.2) verschuldigd is;
+- a. indien de cliënt of de echtgenoot van de cliënt een bijdrage als bedoeld in [artikel 3.11](https://wetten.overheid.nl/jci1.3:c:BWBR0035733&hoofdstuk=3&paragraaf=3&artikel=3.11&z=2017-01-02&g=2017-01-02) of [3.12](https://wetten.overheid.nl/jci1.3:c:BWBR0035733&hoofdstuk=3&paragraaf=3&artikel=3.12&z=2017-01-02&g=2017-01-02) dan wel een bijdrage ingevolge de [artikelen 3.3.2.1](https://wetten.overheid.nl/jci1.3:c:BWBR0035948&artikel=3.3.2.1) of [3.3.2.2 van het Besluit langdurige zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0035948&artikel=3.3.2.2) verschuldigd is;
 
 - b. indien de cliënt of zijn echtgenoot gedurende twee of meer nachten aaneengesloten in de bijdrageperiode in een instelling voor opvang verblijft;
 
@@ -320,7 +322,7 @@ met dien verstande dat het vermogen ten minste nihil bedraagt.
 
 ##### Artikel 3.9
 
-1. Het bijdrageplichtig inkomen, bedoeld in [artikel 3.8, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035733&hoofdstuk=3&paragraaf=2&artikel=3.8&z=2017-01-01&g=2017-01-01), bedraagt het inkomen over het peiljaar van de ongehuwde cliënt, onderscheidenlijk van de gehuwde cliënten tezamen, vermeerderd met 8% van het vermogen van de ongehuwde cliënt, onderscheidenlijk 8% van de opgetelde vermogens van de gehuwde cliënten.
+1. Het bijdrageplichtig inkomen, bedoeld in [artikel 3.8, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035733&hoofdstuk=3&paragraaf=2&artikel=3.8&z=2017-01-02&g=2017-01-02), bedraagt het inkomen over het peiljaar van de ongehuwde cliënt, onderscheidenlijk van de gehuwde cliënten tezamen, vermeerderd met 8% van het vermogen van de ongehuwde cliënt, onderscheidenlijk 8% van de opgetelde vermogens van de gehuwde cliënten.
 
 2. Op aanvraag van de cliënt stelt het CAK in afwijking van het eerste lid, het bijdrageplichtig inkomen voorlopig vast op basis van het redelijkerwijs gedurende het lopende kalenderjaar te verwachten inkomen en 8% van het te verwachten vermogen in het lopende jaar, indien het bijdrageplichtig inkomen in het lopende jaar ten minste € 2.571 lager zal zijn dan het bijdrageplichtig inkomen, bedoeld in het eerste lid.
 
@@ -332,19 +334,19 @@ met dien verstande dat het vermogen ten minste nihil bedraagt.
 
 ##### Artikel 3.10
 
-1. Indien ten aanzien van de ongehuwde of gehuwde cliënten geen gegevens inzake het inkomen of de grondslag sparen en beleggen beschikbaar zijn, wordt de bijdrage vastgesteld op het bedrag per bijdrageperiode, genoemd in [artikel 3.8, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035733&hoofdstuk=3&paragraaf=2&artikel=3.8&z=2017-01-01&g=2017-01-01).
+1. Indien ten aanzien van de ongehuwde of gehuwde cliënten geen gegevens inzake het inkomen of de grondslag sparen en beleggen beschikbaar zijn, wordt de bijdrage vastgesteld op het bedrag per bijdrageperiode, genoemd in [artikel 3.8, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035733&hoofdstuk=3&paragraaf=2&artikel=3.8&z=2017-01-02&g=2017-01-02).
 
 2. Indien na de vaststelling van de bijdrage uit alsnog beschikbaar gekomen gegevens inzake het inkomen of de grondslag sparen en beleggen, of uit een wijziging van deze gegevens, blijkt dat de bijdrage op onjuist bedrag is vastgesteld, herziet het CAK de bijdrage met inachtneming van de beschikbaar gekomen gegevens dan wel van die wijziging.
 
 ##### Artikel 3.10a
 
-De hoogte van de maximale bijdrage per bijdrageperiode welke op grond van [artikel 3.8 eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035733&hoofdstuk=3&paragraaf=2&artikel=3.8&z=2017-01-01&g=2017-01-01), verschuldigd is, wordt opnieuw berekend voor elke nieuwe reeks van dertien bijdrageperioden als bedoeld in artikel 3.8, derde lid.
+De hoogte van de maximale bijdrage per bijdrageperiode welke op grond van [artikel 3.8 eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035733&hoofdstuk=3&paragraaf=2&artikel=3.8&z=2017-01-02&g=2017-01-02), verschuldigd is, wordt opnieuw berekend voor elke nieuwe reeks van dertien bijdrageperioden als bedoeld in artikel 3.8, derde lid.
 
 #### § 3. Bijdragen voor beschermd wonen
 
 ##### Artikel 3.11
 
-1. De bijdrage, bedoeld in [artikel 3.1, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035733&hoofdstuk=3&paragraaf=1&artikel=3.1&z=2017-01-01&g=2017-01-01), bedraagt per maand een twaalfde gedeelte van het bijdrageplichtig inkomen, berekend volgens [artikel 3.13](https://wetten.overheid.nl/jci1.3:c:BWBR0035733&hoofdstuk=3&paragraaf=3&artikel=3.13&z=2017-01-01&g=2017-01-01), voor:
+1. De bijdrage, bedoeld in [artikel 3.1, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035733&hoofdstuk=3&paragraaf=1&artikel=3.1&z=2017-01-02&g=2017-01-02), bedraagt per maand een twaalfde gedeelte van het bijdrageplichtig inkomen, berekend volgens [artikel 3.13](https://wetten.overheid.nl/jci1.3:c:BWBR0035733&hoofdstuk=3&paragraaf=3&artikel=3.13&z=2017-01-02&g=2017-01-02), voor:
 
 - a. de ongehuwde cliënt die in een instelling voor beschermd wonen verblijft;
 
@@ -358,7 +360,7 @@ De hoogte van de maximale bijdrage per bijdrageperiode welke op grond van [artik
 
 ##### Artikel 3.12
 
-1. In afwijking van [artikel 3.11](https://wetten.overheid.nl/jci1.3:c:BWBR0035733&hoofdstuk=3&paragraaf=3&artikel=3.11&z=2017-01-01&g=2017-01-01) bedraagt een bijdrage per maand een twaalfde gedeelte van 12,5% van het bijdrageplichtig inkomen, berekend volgens [artikel 3.14](https://wetten.overheid.nl/jci1.3:c:BWBR0035733&hoofdstuk=3&paragraaf=3&artikel=3.14&z=2017-01-01&g=2017-01-01), voor:
+1. In afwijking van [artikel 3.11](https://wetten.overheid.nl/jci1.3:c:BWBR0035733&hoofdstuk=3&paragraaf=3&artikel=3.11&z=2017-01-02&g=2017-01-02) bedraagt een bijdrage per maand een twaalfde gedeelte van 12,5% van het bijdrageplichtig inkomen, berekend volgens [artikel 3.14](https://wetten.overheid.nl/jci1.3:c:BWBR0035733&hoofdstuk=3&paragraaf=3&artikel=3.14&z=2017-01-02&g=2017-01-02), voor:
 
 - a. de ongehuwde cliënt gedurende de eerste zes maanden van verblijf in een instelling voor beschermd wonen;
 
@@ -368,7 +370,7 @@ De hoogte van de maximale bijdrage per bijdrageperiode welke op grond van [artik
 
 - d. de ongehuwde cliënt of de gehuwde cliënten tezamen indien het college het waarschijnlijk acht dat het verblijf in de instelling voor beschermd wonen voor de ongehuwde cliënt, voor beide of voor een van beide gehuwde cliënten binnen een half jaar kan worden beëindigd en terugkeer naar de maatschappij mogelijk is en zal worden bewerkstelligd.
 
-2. De bijdrage bedraagt voorts per maand een twaalfde gedeelte van 12,5% van het bijdrageplichtig inkomen, berekend volgens [artikel 3.14](https://wetten.overheid.nl/jci1.3:c:BWBR0035733&hoofdstuk=3&paragraaf=3&artikel=3.14&z=2017-01-01&g=2017-01-01), voor:
+2. De bijdrage bedraagt voorts per maand een twaalfde gedeelte van 12,5% van het bijdrageplichtig inkomen, berekend volgens [artikel 3.14](https://wetten.overheid.nl/jci1.3:c:BWBR0035733&hoofdstuk=3&paragraaf=3&artikel=3.14&z=2017-01-02&g=2017-01-02), voor:
 
 - a. de gehuwde cliënt die in een instelling voor beschermd wonen verblijft en wiens echtgenoot geen maatwerkvoorziening of persoonsgebonden budget ontvangt;
 
@@ -382,7 +384,7 @@ De hoogte van de maximale bijdrage per bijdrageperiode welke op grond van [artik
 
 - a. het een cliënt betreft van wie het recht op verblijf en de daarbij behorende medisch noodzakelijke geneeskundige zorg in verband met een psychische stoornis krachtens zijn zorgverzekering is geëindigd omdat de krachtens de Zorgverzekeringswet geldende maximumduur voor die zorg is bereikt, of
 
-- b. het verblijf aanvangt binnen zes maanden na beëindiging van een verblijf in een instelling voor beschermd wonen waarvoor de ongehuwde cliënt of de gehuwde cliënten tezamen een bijdrage als bedoeld in [artikel 3.11](https://wetten.overheid.nl/jci1.3:c:BWBR0035733&hoofdstuk=3&paragraaf=3&artikel=3.11&z=2017-01-01&g=2017-01-01) verschuldigd was of waren, of
+- b. het verblijf aanvangt binnen zes maanden na beëindiging van een verblijf in een instelling voor beschermd wonen waarvoor de ongehuwde cliënt of de gehuwde cliënten tezamen een bijdrage als bedoeld in [artikel 3.11](https://wetten.overheid.nl/jci1.3:c:BWBR0035733&hoofdstuk=3&paragraaf=3&artikel=3.11&z=2017-01-02&g=2017-01-02) verschuldigd was of waren, of
 
 - c. het verblijf aanvangt binnen zes maanden na beëindiging van een verblijf in een instelling waarvoor de ongehuwde cliënt of de gehuwde cliënten tezamen een bijdrage als bedoeld in [artikel 3.3.2.1 van het Besluit langdurige zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0035948&artikel=3.3.2.1) verschuldigd was of waren.
 
@@ -392,7 +394,7 @@ De hoogte van de maximale bijdrage per bijdrageperiode welke op grond van [artik
 
 ##### Artikel 3.13
 
-1. Het bijdrageplichtig inkomen, bedoeld in [artikel 3.11, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035733&hoofdstuk=3&paragraaf=3&artikel=3.11&z=2017-01-01&g=2017-01-01), wordt als volgt berekend:
+1. Het bijdrageplichtig inkomen, bedoeld in [artikel 3.11, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035733&hoofdstuk=3&paragraaf=3&artikel=3.11&z=2017-01-02&g=2017-01-02), wordt als volgt berekend:
 
 - a. het inkomen over het peiljaar van de ongehuwde cliënt onderscheidenlijk de gehuwde cliënten tezamen wordt verminderd met de door die cliënt onderscheidenlijk die cliënten verschuldigde of ingehouden belasting;
 
@@ -416,7 +418,7 @@ De hoogte van de maximale bijdrage per bijdrageperiode welke op grond van [artik
 
 ##### Artikel 3.14
 
-1. Voor de berekening van de bijdrage, bedoeld in [artikel 3.12, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035733&hoofdstuk=3&paragraaf=3&artikel=3.12&z=2017-01-01&g=2017-01-01), bestaat het bijdrageplichtig inkomen uit het inkomen over het peiljaar van de ongehuwde cliënt, onderscheidenlijk van de gehuwde cliënten tezamen, vermeerderd met 8% van het vermogen van de ongehuwde cliënt, onderscheidenlijk 8% van de opgetelde vermogens van de gehuwde cliënten.
+1. Voor de berekening van de bijdrage, bedoeld in [artikel 3.12, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035733&hoofdstuk=3&paragraaf=3&artikel=3.12&z=2017-01-02&g=2017-01-02), bestaat het bijdrageplichtig inkomen uit het inkomen over het peiljaar van de ongehuwde cliënt, onderscheidenlijk van de gehuwde cliënten tezamen, vermeerderd met 8% van het vermogen van de ongehuwde cliënt, onderscheidenlijk 8% van de opgetelde vermogens van de gehuwde cliënten.
 
 2. Op aanvraag van de cliënt stelt het CAK, in afwijking van het eerste lid, het bijdrageplichtig inkomen voorlopig vast op grond van het inkomen en het vermogen van het lopende jaar, indien redelijkerwijs te verwachten is dat het bijdrageplichtig inkomen in het lopende jaar ten minste € 2.571 lager zal zijn dan het bijdrageplichtig inkomen, bedoeld in het eerste lid, dan wel indien de verzekerde algemene bijstand op grond van de [Participatiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0015703) ontvangt.
 
@@ -428,21 +430,21 @@ De hoogte van de maximale bijdrage per bijdrageperiode welke op grond van [artik
 
 ##### Artikel 3.15
 
-1. Voor de berekening van het bijdrageplichtig inkomen over het jaar waarin een cliënt of zijn echtgenoot voor het eerst inkomen geniet wordt, in afwijking van [artikel 3.13, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0035733&hoofdstuk=3&paragraaf=3&artikel=3.13&z=2017-01-01&g=2017-01-01), of [artikel 3.14, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035733&hoofdstuk=3&paragraaf=3&artikel=3.14&z=2017-01-01&g=2017-01-01), uitgegaan van het inkomen dat de cliënt of zijn echtgenoot over het desbetreffende kalenderjaar naar verwachting zal genieten, alsmede van het te verwachten vermogen van dat kalenderjaar, verminderd met de naar verwachting over dat kalenderjaar verschuldigde of ingehouden belasting.
+1. Voor de berekening van het bijdrageplichtig inkomen over het jaar waarin een cliënt of zijn echtgenoot voor het eerst inkomen geniet wordt, in afwijking van [artikel 3.13, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0035733&hoofdstuk=3&paragraaf=3&artikel=3.13&z=2017-01-02&g=2017-01-02), of [artikel 3.14, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035733&hoofdstuk=3&paragraaf=3&artikel=3.14&z=2017-01-02&g=2017-01-02), uitgegaan van het inkomen dat de cliënt of zijn echtgenoot over het desbetreffende kalenderjaar naar verwachting zal genieten, alsmede van het te verwachten vermogen van dat kalenderjaar, verminderd met de naar verwachting over dat kalenderjaar verschuldigde of ingehouden belasting.
 
-2. Voor de berekening van het bijdrageplichtig inkomen over het jaar volgende op het jaar waarin een cliënt of zijn echtgenoot voor het eerst inkomen geniet, wordt, in afwijking van [artikel 3.13, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0035733&hoofdstuk=3&paragraaf=3&artikel=3.13&z=2017-01-01&g=2017-01-01), of [artikel 3.14, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035733&hoofdstuk=3&paragraaf=3&artikel=3.14&z=2017-01-01&g=2017-01-01), uitgegaan van het inkomen dat de cliënt of zijn echtgenoot over het dan lopende kalenderjaar naar verwachting zal genieten, alsmede van het te verwachten vermogen van dat kalenderjaar, verminderd met de naar verwachting over dat kalenderjaar verschuldigde of ingehouden belasting.
+2. Voor de berekening van het bijdrageplichtig inkomen over het jaar volgende op het jaar waarin een cliënt of zijn echtgenoot voor het eerst inkomen geniet, wordt, in afwijking van [artikel 3.13, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0035733&hoofdstuk=3&paragraaf=3&artikel=3.13&z=2017-01-02&g=2017-01-02), of [artikel 3.14, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035733&hoofdstuk=3&paragraaf=3&artikel=3.14&z=2017-01-02&g=2017-01-02), uitgegaan van het inkomen dat de cliënt of zijn echtgenoot over het dan lopende kalenderjaar naar verwachting zal genieten, alsmede van het te verwachten vermogen van dat kalenderjaar, verminderd met de naar verwachting over dat kalenderjaar verschuldigde of ingehouden belasting.
 
 3. Voor de berekening van het bijdrageplichtig inkomen over het tweede jaar volgend op het jaar waarin een cliënt of zijn echtgenoot voor het eerst inkomen geniet, wordt uitgegaan van de in het tweede lid bedoelde bedragen.
 
 ##### Artikel 3.16
 
-1. Indien [artikel 3.13, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035733&hoofdstuk=3&paragraaf=3&artikel=3.13&z=2017-01-01&g=2017-01-01), of [artikel 3.15, eerste of tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035733&hoofdstuk=3&paragraaf=3&artikel=3.15&z=2017-01-01&g=2017-01-01), voor zover het betreft de afwijking van artikel 3.13, eerste lid, van toepassing is, worden, in afwijking van artikel 3.13, eerste lid, onderdeel b, onder 2˚, twaalf maal het in het lopende kalenderjaar geldende bedrag voor zak- en kleedgeld, de in het lopende kalenderjaar te betalen premies voor een zorgverzekering gecorrigeerd voor de zorgtoeslag en, indien van toepassing, de algemene korting voor wie de pensioensgerechtigde leeftijd nog niet heeft bereikt onderscheidenlijk de algemene korting voor wie de pensioengerechtigde leeftijd heeft bereikt, alsmede extra vrijlatingen als bedoeld in artikel 3.13, eerste lid, onderdeel b, onder 2°, in mindering gebracht.
+1. Indien [artikel 3.13, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035733&hoofdstuk=3&paragraaf=3&artikel=3.13&z=2017-01-02&g=2017-01-02), of [artikel 3.15, eerste of tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035733&hoofdstuk=3&paragraaf=3&artikel=3.15&z=2017-01-02&g=2017-01-02), voor zover het betreft de afwijking van artikel 3.13, eerste lid, van toepassing is, worden, in afwijking van artikel 3.13, eerste lid, onderdeel b, onder 2˚, twaalf maal het in het lopende kalenderjaar geldende bedrag voor zak- en kleedgeld, de in het lopende kalenderjaar te betalen premies voor een zorgverzekering gecorrigeerd voor de zorgtoeslag en, indien van toepassing, de algemene korting voor wie de pensioensgerechtigde leeftijd nog niet heeft bereikt onderscheidenlijk de algemene korting voor wie de pensioengerechtigde leeftijd heeft bereikt, alsmede extra vrijlatingen als bedoeld in artikel 3.13, eerste lid, onderdeel b, onder 2°, in mindering gebracht.
 
-2. Indien [artikel 3.15, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035733&hoofdstuk=3&paragraaf=3&artikel=3.15&z=2017-01-01&g=2017-01-01), voor zover het betreft de afwijking van [artikel 3.13, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035733&hoofdstuk=3&paragraaf=3&artikel=3.13&z=2017-01-01&g=2017-01-01), van toepassing is en de werkzaamheden of ontvangst van uitkering in de loop van het kalenderjaar aanvangen, worden de bedragen, bedoeld in artikel 3.13, eerste lid, onderdeel b, naar rato van het deel van het kalenderjaar waarover de inkomsten worden verworven, in mindering gebracht.
+2. Indien [artikel 3.15, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035733&hoofdstuk=3&paragraaf=3&artikel=3.15&z=2017-01-02&g=2017-01-02), voor zover het betreft de afwijking van [artikel 3.13, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035733&hoofdstuk=3&paragraaf=3&artikel=3.13&z=2017-01-02&g=2017-01-02), van toepassing is en de werkzaamheden of ontvangst van uitkering in de loop van het kalenderjaar aanvangen, worden de bedragen, bedoeld in artikel 3.13, eerste lid, onderdeel b, naar rato van het deel van het kalenderjaar waarover de inkomsten worden verworven, in mindering gebracht.
 
 ##### Artikel 3.17
 
-1. Indien ten aanzien van de ongehuwde of gehuwde cliënten geen gegevens inzake het inkomen of de grondslag sparen en beleggen beschikbaar zijn, wordt de bijdrage vastgesteld op het minimumbedrag, genoemd in [artikel 3.12, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035733&hoofdstuk=3&paragraaf=3&artikel=3.12&z=2017-01-01&g=2017-01-01).
+1. Indien ten aanzien van de ongehuwde of gehuwde cliënten geen gegevens inzake het inkomen of de grondslag sparen en beleggen beschikbaar zijn, wordt de bijdrage vastgesteld op het minimumbedrag, genoemd in [artikel 3.12, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035733&hoofdstuk=3&paragraaf=3&artikel=3.12&z=2017-01-02&g=2017-01-02).
 
 2. Indien na de vaststelling van de bijdrage uit alsnog beschikbaar gekomen gegevens inzake het inkomen of de grondslag sparen en beleggen, of uit een wijziging van deze gegevens, blijkt dat de bijdrage op een te hoog of te laag bedrag is vastgesteld, herziet het CAK de bijdrage met inachtneming van de beschikbaar gekomen gegevens dan wel van die wijziging.
 
@@ -450,7 +452,7 @@ De hoogte van de maximale bijdrage per bijdrageperiode welke op grond van [artik
 
 1. De hoogte van de bijdrage wordt jaarlijks opnieuw berekend voor de periode van de eerste dag van januari tot en met de eenendertigste dag van de daaropvolgende maand december.
 
-2. In afwijking van [artikel 3.17, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035733&hoofdstuk=3&paragraaf=3&artikel=3.17&z=2017-01-01&g=2017-01-01), geldt, indien het inkomen bij de jaarlijkse herziening nog moet worden vastgesteld, als bijdrage, de bijdrage die over de laatste maand in het vorige kalenderjaar verschuldigd was.
+2. In afwijking van [artikel 3.17, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035733&hoofdstuk=3&paragraaf=3&artikel=3.17&z=2017-01-02&g=2017-01-02), geldt, indien het inkomen bij de jaarlijkse herziening nog moet worden vastgesteld, als bijdrage, de bijdrage die over de laatste maand in het vorige kalenderjaar verschuldigd was.
 
 ##### Artikel 3.19
 
@@ -464,7 +466,7 @@ De hoogte van de maximale bijdrage per bijdrageperiode welke op grond van [artik
 
 ##### Artikel 3.20
 
-1. De hoogte van de bijdrage, bedoeld in [artikel 3.1, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035733&hoofdstuk=3&paragraaf=1&artikel=3.1&z=2017-01-01&g=2017-01-01), is zodanig dat de cliënt na afdracht van de bijdrage, van zijn bijdrageplichtig inkomen, bedoeld in [artikel 3.9, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035733&hoofdstuk=3&paragraaf=2&artikel=3.9&z=2017-01-01&g=2017-01-01), omgerekend naar een bijdrageperiode als bedoeld in [artikel 3.8, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035733&hoofdstuk=3&paragraaf=2&artikel=3.8&z=2017-01-01&g=2017-01-01), een bedrag overhoudt dat overeenkomt met het zak- en kleedgeld, vermeerderd met de standaardpremie, bedoeld in [artikel 1, eerste lid, onderdeel g, van de Wet op de zorgtoeslag](https://wetten.overheid.nl/jci1.3:c:BWBR0018451&artikel=1) en gecorrigeerd met de zorgtoeslag.
+1. De hoogte van de bijdrage, bedoeld in [artikel 3.1, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035733&hoofdstuk=3&paragraaf=1&artikel=3.1&z=2017-01-02&g=2017-01-02), is zodanig dat de cliënt na afdracht van de bijdrage, van zijn bijdrageplichtig inkomen, bedoeld in [artikel 3.9, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035733&hoofdstuk=3&paragraaf=2&artikel=3.9&z=2017-01-02&g=2017-01-02), omgerekend naar een bijdrageperiode als bedoeld in [artikel 3.8, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035733&hoofdstuk=3&paragraaf=2&artikel=3.8&z=2017-01-02&g=2017-01-02), een bedrag overhoudt dat overeenkomt met het zak- en kleedgeld, vermeerderd met de standaardpremie, bedoeld in [artikel 1, eerste lid, onderdeel g, van de Wet op de zorgtoeslag](https://wetten.overheid.nl/jci1.3:c:BWBR0018451&artikel=1) en gecorrigeerd met de zorgtoeslag.
 
 2. De bijdrage, bedoeld in het eerste lid, is niet verschuldigd indien de cliënt of zijn echtgenoot gedurende twee of meer nachten aaneengesloten in de bijdrageperiode in een instelling voor beschermd wonen verblijft.
 
@@ -520,9 +522,9 @@ Indien de mogelijkheid tot registratie in het kwaliteitsregister jeugd, bedoeld 
 
 ##### Artikel 4.1.6
 
-1. De aanvang van de termijnen, bedoeld in de [artikelen 4.1.4](https://wetten.overheid.nl/jci1.3:c:BWBR0035733&hoofdstuk=4&paragraaf=1&artikel=4.1.4&z=2017-01-01&g=2017-01-01) en[4.1.5](https://wetten.overheid.nl/jci1.3:c:BWBR0035733&hoofdstuk=4&paragraaf=1&artikel=4.1.5&z=2017-01-01&g=2017-01-01), wordt bij besluit van Onze Ministers vastgesteld.
+1. De aanvang van de termijnen, bedoeld in de [artikelen 4.1.4](https://wetten.overheid.nl/jci1.3:c:BWBR0035733&hoofdstuk=4&paragraaf=1&artikel=4.1.4&z=2017-01-02&g=2017-01-02) en[4.1.5](https://wetten.overheid.nl/jci1.3:c:BWBR0035733&hoofdstuk=4&paragraaf=1&artikel=4.1.5&z=2017-01-02&g=2017-01-02), wordt bij besluit van Onze Ministers vastgesteld.
 
-2. De termijnen, bedoeld in de [artikelen 4.1.4](https://wetten.overheid.nl/jci1.3:c:BWBR0035733&hoofdstuk=4&paragraaf=1&artikel=4.1.4&z=2017-01-01&g=2017-01-01) en [4.1.5](https://wetten.overheid.nl/jci1.3:c:BWBR0035733&hoofdstuk=4&paragraaf=1&artikel=4.1.5&z=2017-01-01&g=2017-01-01), kunnen bij besluit van Onze Ministers worden gewijzigd, indien het in het belang van de continuïteit van de werktoedeling noodzakelijk is.
+2. De termijnen, bedoeld in de [artikelen 4.1.4](https://wetten.overheid.nl/jci1.3:c:BWBR0035733&hoofdstuk=4&paragraaf=1&artikel=4.1.4&z=2017-01-02&g=2017-01-02) en [4.1.5](https://wetten.overheid.nl/jci1.3:c:BWBR0035733&hoofdstuk=4&paragraaf=1&artikel=4.1.5&z=2017-01-02&g=2017-01-02), kunnen bij besluit van Onze Ministers worden gewijzigd, indien het in het belang van de continuïteit van de werktoedeling noodzakelijk is.
 
 3. De besluiten, bedoeld in het eerste en tweede lid, worden bekend gemaakt in de Staatscourant.
 
@@ -656,7 +658,7 @@ Na inwerkingtreding van de [wet](https://wetten.overheid.nl/jci1.3:c:BWBR0035362
 
 ##### Artikel 7.3
 
-1. Gedurende een periode van een jaar vanaf het tijdstip van inwerkingtreding van [artikel 4.1.3](https://wetten.overheid.nl/jci1.3:c:BWBR0035733&hoofdstuk=4&paragraaf=1&artikel=4.1.3&z=2017-01-01&g=2017-01-01) is dat artikel niet van toepassing op werktoedelingen waarvan een AMHK aannemelijk kan maken dat die toedeling plaatsvindt aan een beroepsbeoefenaar die reeds binnen de betreffende organisatie werkzaam was op het tijdstip van inwerkingtreding van artikel 4.1.3.
+1. Gedurende een periode van een jaar vanaf het tijdstip van inwerkingtreding van [artikel 4.1.3](https://wetten.overheid.nl/jci1.3:c:BWBR0035733&hoofdstuk=4&paragraaf=1&artikel=4.1.3&z=2017-01-02&g=2017-01-02) is dat artikel niet van toepassing op werktoedelingen waarvan een AMHK aannemelijk kan maken dat die toedeling plaatsvindt aan een beroepsbeoefenaar die reeds binnen de betreffende organisatie werkzaam was op het tijdstip van inwerkingtreding van artikel 4.1.3.
 
 2. Indien en voor zover op een organisatie [artikel 77a van het Uitvoeringsbesluit Wet op de jeugdzorg](onbekend) tot de intrekking van dat artikel van toepassing was, geldt voor die organisatie als aanvangsdatum voor de in het eerste lid genoemde periode van een jaar, het tijdstip van inwerkingtreding van artikel 77a van het Uitvoeringsbesluit Wet op de jeugdzorg.
 
@@ -674,7 +676,7 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 ##### Artikel 7.4
 
-1. Op aanvraag van de cliënt wordt, onverminderd [artikel 3.13, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0035733&hoofdstuk=3&paragraaf=3&artikel=3.13&z=2017-01-01&g=2017-01-01), op het met toepassing van het eerste lid, onderdeel a, van dat artikel berekende bedrag de in het peiljaar geldende uitkering op grond van de overeenkomst tussen de Bondsrepubliek Duitsland en de Conference on Jewish Material Claims Against Germany, gebaseerd op artikel 2 van de Vereinbarung vom 18 September 1990 über die Herstellung der Einheit Deutschlands zwischen der Bundesrepublik Deutschland und der Deutschen Demokratischen Republik zur Durchführung und Auslegung des am 31. August 1990 in Berlin unterzeichneten Einigungvertrages in mindering gebracht.
+1. Op aanvraag van de cliënt wordt, onverminderd [artikel 3.13, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0035733&hoofdstuk=3&paragraaf=3&artikel=3.13&z=2017-01-02&g=2017-01-02), op het met toepassing van het eerste lid, onderdeel a, van dat artikel berekende bedrag de in het peiljaar geldende uitkering op grond van de overeenkomst tussen de Bondsrepubliek Duitsland en de Conference on Jewish Material Claims Against Germany, gebaseerd op artikel 2 van de Vereinbarung vom 18 September 1990 über die Herstellung der Einheit Deutschlands zwischen der Bundesrepublik Deutschland und der Deutschen Demokratischen Republik zur Durchführung und Auslegung des am 31. August 1990 in Berlin unterzeichneten Einigungvertrages in mindering gebracht.
 
 2. Dit artikel vervalt met ingang van 1 januari 2018.
 
