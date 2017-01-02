@@ -4,7 +4,7 @@ identifier: "BWBR0038605"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2017-01-02"
-last_updated: "2017-01-01"
+last_updated: "2017-01-02"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0038605"
 soort: "ministeriele-regeling"
@@ -104,4 +104,4 @@ De [artikelen V](https://wetten.overheid.nl/jci1.3:c:BWBR0037252&artikel=V) en [
 
 ##### Artikel VIII
 
-Deze regeling treedt in werking met ingang van 1 januari 2017, met uitzondering van de [artikel III, tweede tot en met zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0038605&artikel=III&z=2017-01-01&g=2017-01-01), dat in werking treden met ingang van 2 januari 2017.
+Deze regeling treedt in werking met ingang van 1 januari 2017, met uitzondering van de [artikel III, tweede tot en met zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0038605&artikel=III&z=2017-01-02&g=2017-01-02), dat in werking treden met ingang van 2 januari 2017.
