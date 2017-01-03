@@ -4,7 +4,7 @@ identifier: "BWBR0036763"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2023-07-01"
-last_updated: "2015-07-01"
+last_updated: "2017-01-03"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0036763"
 soort: "ministeriele-regeling"
@@ -42,23 +42,25 @@ Besluit:
 
 ##### Artikel 1
 
-Als functie, bedoeld in [artikel 668a, achtste lid, van Boek 7 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=668a), wordt aangewezen de functie van:
+Als functie, bedoeld in [artikel 668a, achtste lid, van Boek 7 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=668a), worden aangewezen:
 
-- a. voetbalspeler die als contractspeler geregistreerd staat bij de sectie betaald voetbal van de Koninklijke Nederlandse Voetbalbond voor deelname aan de herencompetities van de sectie betaald voetbal;
+- a. de functie van voetbalspeler die als contractspeler geregistreerd staat bij de sectie betaald voetbal van de Koninklijke Nederlandse Voetbalbond voor deelname aan de herencompetities van de sectie betaald voetbal;
 
-- b. trainer coach, assistent-trainer coach, technisch directeur, technisch manager, hoofd scouting, coördinator scouting, hoofd jeugdopleidingen en specialisten trainer, werkzaam in de onder a, bedoelde sectie;
+- b. de functie van trainer coach, assistent-trainer coach, technisch directeur, technisch manager, hoofd scouting, coördinator scouting, hoofd jeugdopleidingen en specialisten trainer, werkzaam in de onder a, bedoelde sectie;
 
-- c. bondstrainer of technisch directeur, werkzaam bij een nationale sportbond;
+- c. de functie van bondstrainer of technisch directeur, werkzaam bij een nationale sportbond;
 
-- d. danser of acteur, die arbeid verricht bestaande uit werkzaamheden met betrekking tot uitvoeringen van culturele of artistieke aard of uitvoeringen die daarmee gelijkenis vertonen alsmede de direct daarmee samenhangende werkzaamheden, in de podiumkunstensectoren dans of theater;
+- d. artistieke functies, artistieke steunfuncties en productie- of voorstellingsgebonden functies in de podiumkunstensectoren toneel en dans;
 
 - e. remplaçant in dienst bij de door de Nederlandse orkesten opgerichte Stichtingen Remplaçanten of het Muziekcentrum van de Omroep;
 
-- f. de presentator, in dienst bij RTL Nederland B.V, die presentatiewerkzaamheden verzorgt voor de media of hieraan een zichtbare of hoorbare onderscheidende bijdrage levert, en van wie het bruto jaarsalaris, inclusief vakantiebijslag, omgerekend naar een fulltime dienstverband gebaseerd op 40 uur per week, en ongeacht het door de presentator daadwerkelijk gewerkte aantal uren, gelijk aan of hoger is dan € 100.000,–.
+- f. de presentator, in dienst bij RTL Nederland B.V, die presentatiewerkzaamheden verzorgt voor de media of hieraan een zichtbare of hoorbare onderscheidende bijdrage levert, en van wie het bruto jaarsalaris, inclusief vakantiebijslag, omgerekend naar een fulltime dienstverband gebaseerd op 40 uur per week, en ongeacht het door de presentator daadwerkelijk gewerkte aantal uren, gelijk aan of hoger is dan € 100.000,–;
+
+- g. onderwijsgevend personeel of onderwijsondersteunend personeel met lesgebonden of behandeltaken, voor zover deze functie wordt uitgeoefend in verband met vervanging wegens onvoorzien ziekteverzuim op basis van een arbeidsovereenkomst met een looptijd van ten hoogste 14 dagen die is ingegaan in de maanden januari tot en met maart.
 
 ##### Artikel 2
 
-Als functie, bedoeld in de [artikelen 671c, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=671c), en [677, zesde lid, van Boek 7 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=677), worden aangewezen, de functies, genoemd in [artikel 1, onderdelen a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0036763&artikel=1&z=2015-07-01&g=2015-07-01).
+Als functie, bedoeld in de [artikelen 671c, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=671c), en [677, zesde lid, van Boek 7 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=677), worden aangewezen, de functies, genoemd in [artikel 1, onderdelen a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0036763&artikel=1&z=2017-01-03&g=2017-01-03).
 
 ##### Artikel 3
 
