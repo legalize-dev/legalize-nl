@@ -4,7 +4,7 @@ identifier: "BWBR0031747"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2019-01-01"
-last_updated: "2017-01-01"
+last_updated: "2017-01-03"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0031747"
 soort: "ministeriele-regeling"
@@ -72,7 +72,7 @@ In deze regeling wordt verstaan onder:
 
 - 2. onverminderd het derde tot en met het vierde lid eindigt het verblijf van de belanghebbende en van een of meer gezinsleden in een gebied buiten Nederland op de einddatum genoemd in het Koninklijk Besluit of het Landsbesluit of indien dat eerder is op de dag van vertrek van een grensstation of -overgang, uit de laatste haven of van het laatste vliegveld aldaar;
 
-- 3. de aanspraak van de belanghebbende in een gebied buiten Nederland op de toelagen als genoemd onder [artikel 3.1](https://wetten.overheid.nl/jci1.3:c:BWBR0031747&hoofdstuk=3&artikel=3.1&z=2017-01-01&g=2017-01-01) eindigt, indien hij het gebied van verblijf voor een tijdvak van langere duur dan zestig achtereenvolgende dagen onderbreekt;
+- 3. de aanspraak van de belanghebbende in een gebied buiten Nederland op de toelagen als genoemd onder [artikel 3.1](https://wetten.overheid.nl/jci1.3:c:BWBR0031747&hoofdstuk=3&artikel=3.1&z=2017-01-03&g=2017-01-03) eindigt, indien hij het gebied van verblijf voor een tijdvak van langere duur dan zestig achtereenvolgende dagen onderbreekt;
 
 - 4. indien de gehuwde belanghebbende bij eindiging van zijn verblijf in een gebied buiten Nederland zijn gezinsleden daar moet achterlaten, om reden van medische noodzaak of het afleggen van een afsluitend eindexamen van het middelbare schooljaar van het kind van de belanghebbende, kan hij niettemin in het genot van de buitenlandtoelage, de verhoging daarvan en de overige voorzieningen ter zake van die plaatsing in dat gebied blijven;
 
@@ -146,7 +146,7 @@ In deze regeling wordt verstaan onder:
 
 - b. wordt de aanspraak op voorzieningen verleend aan degene die daarvoor door beiden gezamenlijk is aangewezen, indien het Standaard Netto Nederland van de belanghebbende en dat van zijn echtgenoot gelijk zijn.
 
-3. De belanghebbende, bedoeld in het tweede lid, onder a, alsmede de belanghebbende bedoeld in het tweede lid, onder b, die niet door beiden gezamenlijk is aangewezen, heeft aanspraak op de voorzieningen waarop de ongehuwde rechterlijk ambtenaar, bedoeld in [artikel 1.1 onderdeel f](https://wetten.overheid.nl/jci1.3:c:BWBR0031747&hoofdstuk=1&artikel=1.1&z=2017-01-01&g=2017-01-01), aanspraak zou hebben.
+3. De belanghebbende, bedoeld in het tweede lid, onder a, alsmede de belanghebbende bedoeld in het tweede lid, onder b, die niet door beiden gezamenlijk is aangewezen, heeft aanspraak op de voorzieningen waarop de ongehuwde rechterlijk ambtenaar, bedoeld in [artikel 1.1 onderdeel f](https://wetten.overheid.nl/jci1.3:c:BWBR0031747&hoofdstuk=1&artikel=1.1&z=2017-01-03&g=2017-01-03), aanspraak zou hebben.
 
 ### Hoofdstuk 2. Medische keuring
 
@@ -172,15 +172,15 @@ In deze regeling wordt verstaan onder:
 
 - b. een verhoging van de buitenlandtoelage ten behoeve van kinderen;
 
-De hiervoor genoemde componenten van de buitenlandtoelage worden vastgesteld met toepassing van tabel 1 van [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0031747&bijlage=1&z=2017-01-01&g=2017-01-01).
+De hiervoor genoemde componenten van de buitenlandtoelage worden vastgesteld met toepassing van tabel 1 van [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0031747&bijlage=1&z=2017-01-03&g=2017-01-03).
 
 2. De belanghebbende die verblijft in een gebied buiten Nederland heeft aanspraak op een buitenlandtoelage bestaande uit:
 
 - a. de koopkrachtcomponent geldende voor het betreffende land van verblijf, indien deze positief is, zoals vastgesteld in tabel 1;
 
-- b. de verblijfscomponent voor het betreffende land van verblijf zoals vastgesteld in tabel 1 van [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0031747&bijlage=1&z=2017-01-01&g=2017-01-01), koopkracht gecorrigeerd voor het land van verblijf; beide berekend over het voor hem geldende Standaard Netto Nederland, alsmede
+- b. de verblijfscomponent voor het betreffende land van verblijf zoals vastgesteld in tabel 1 van [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0031747&bijlage=1&z=2017-01-03&g=2017-01-03), koopkracht gecorrigeerd voor het land van verblijf; beide berekend over het voor hem geldende Standaard Netto Nederland, alsmede
 
-- c. de verplaatsingscomponent zoals vastgesteld met toepassing van tabel 1 van [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0031747&bijlage=1&z=2017-01-01&g=2017-01-01).
+- c. de verplaatsingscomponent zoals vastgesteld met toepassing van tabel 1 van [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0031747&bijlage=1&z=2017-01-03&g=2017-01-03).
 
 3. De gehuwde belanghebbende die met gezin metterwoon is gevestigd in een gebied buiten Nederland, heeft – met inachtneming van de onderdelen a tot en met g van dit lid – aanspraak op een verhoging van zijn buitenlandtoelage voor ieder kind dat tot zijn gezin behoort, indien:
 
@@ -188,9 +188,9 @@ De hiervoor genoemde componenten van de buitenlandtoelage worden vastgesteld met
 
 - –. dat kind de leeftijd van 21 jaar nog niet heeft bereikt en aan dat kind een basisbeurs is toegekend dan wel naar het oordeel van de Minister een basisbeurs zou zijn toegekend indien dat kind zijn studie in Nederland zou hebben gevolgd.
 
-- a. De aanspraak bestaat voor een kind dat verblijft in het gebied van plaatsing van de belanghebbende, mits dat verblijf uitsluitend het gevolg is van de tewerkstelling aldaar van de belanghebbende en de datum van aankomst van het kind in dat gebied is gelegen op de datum van aanvang van de werkzaamheden van de belanghebbende in het betreffende gebied, als bedoeld in [artikel 1.1 onder k](https://wetten.overheid.nl/jci1.3:c:BWBR0031747&hoofdstuk=1&artikel=1.1&z=2017-01-01&g=2017-01-01). De verhoging bestaat uit een basisbedrag en de koopkrachtcompensatie, indien deze positief is, berekend over een door de Minister vastgesteld bedrag gebaseerd op de gemiddelde kinderbijslag per maand voor de eerste twee kinderen. Die bedragen zijn opgenomen in de tabel 1 van [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0031747&bijlage=2&z=2017-01-01&g=2017-01-01).
+- a. De aanspraak bestaat voor een kind dat verblijft in het gebied van plaatsing van de belanghebbende, mits dat verblijf uitsluitend het gevolg is van de tewerkstelling aldaar van de belanghebbende en de datum van aankomst van het kind in dat gebied is gelegen op de datum van aanvang van de werkzaamheden van de belanghebbende in het betreffende gebied, als bedoeld in [artikel 1.1 onder k](https://wetten.overheid.nl/jci1.3:c:BWBR0031747&hoofdstuk=1&artikel=1.1&z=2017-01-03&g=2017-01-03). De verhoging bestaat uit een basisbedrag en de koopkrachtcompensatie, indien deze positief is, berekend over een door de Minister vastgesteld bedrag gebaseerd op de gemiddelde kinderbijslag per maand voor de eerste twee kinderen. Die bedragen zijn opgenomen in de tabel 1 van [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0031747&bijlage=2&z=2017-01-03&g=2017-01-03).
 
-- b. De aanspraak bestaat voor een kind dat voor het volgen van onderwijs metterwoon in Nederland verblijft en wiens tijd grotendeels in beslag wordt genomen door of in verband met dat onderwijs. Het bedrag van de verhoging wordt vastgesteld met toepassing van tabel 2 van [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0031747&bijlage=2&z=2017-01-01&g=2017-01-01).
+- b. De aanspraak bestaat voor een kind dat voor het volgen van onderwijs metterwoon in Nederland verblijft en wiens tijd grotendeels in beslag wordt genomen door of in verband met dat onderwijs. Het bedrag van de verhoging wordt vastgesteld met toepassing van tabel 2 van [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0031747&bijlage=2&z=2017-01-03&g=2017-01-03).
 
 - c. De aanspraak, bedoeld in onderdeel b, gaat verloren als één van de ouders op wie de onderhoudsplicht voor het kind rust, in Nederland woonachtig is.
 
@@ -212,7 +212,7 @@ De hiervoor genoemde componenten van de buitenlandtoelage worden vastgesteld met
 
 3. Onverminderd het vierde lid gaat een verlaging van de buitenlandtoelage als gevolg van een verandering in de burgerlijke staat van de belanghebbende in op de eerste dag van de maand volgende op die waarin die verandering plaatsvindt.
 
-4. Bij overlijden van een lid van zijn gezin vervallen de aanspraken op de toelage, bedoeld onder [artikel 3.1 eerste lid, onder a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0031747&hoofdstuk=3&artikel=3.1&z=2017-01-01&g=2017-01-01), met ingang van de eerste dag van de derde maand volgende op de maand waarin dat overlijden heeft plaatsgevonden.
+4. Bij overlijden van een lid van zijn gezin vervallen de aanspraken op de toelage, bedoeld onder [artikel 3.1 eerste lid, onder a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0031747&hoofdstuk=3&artikel=3.1&z=2017-01-03&g=2017-01-03), met ingang van de eerste dag van de derde maand volgende op de maand waarin dat overlijden heeft plaatsgevonden.
 
 ### Hoofdstuk 4. Voorzieningen bij start en beëindiging van het verblijf
 
@@ -230,11 +230,11 @@ De hiervoor genoemde componenten van de buitenlandtoelage worden vastgesteld met
 
 - c. een bedrag voor alle andere direct uit de verhuizing voortvloeiende kosten naar analogie van [artikel 8 van het Verplaatsingskostenbesluit 1989](https://wetten.overheid.nl/jci1.3:c:BWBR0004630&artikel=8) (VKB) en geregeld in de Verplaatsingskostenregeling 1989.
 
-3. Indien het betreft een verhuizing van een gezin, waarin de echtgenoten beiden rechterlijk ambtenaar zijn in de zin van dit besluit, dan wel de partner ambtenaar in de zin van het [VUBZK](https://wetten.overheid.nl/jci1.3:c:BWBR0024265) en afzonderlijk de opdracht hebben om te verhuizen of zijn verplaatst, wordt de tegemoetkoming voor alle andere direct uit de verhuizing voortvloeiende kosten als geregeld in [artikel 8, lid 1, onderdeel c van het VKB](https://wetten.overheid.nl/jci1.3:c:BWBR0004630&artikel=8), berekend over het gemiddelde van de gezamenlijke berekeningsbasis als bedoeld in [artikel 1.1 onderdeel q](https://wetten.overheid.nl/jci1.3:c:BWBR0031747&hoofdstuk=1&artikel=1.1&z=2017-01-01&g=2017-01-01). Elk van de betrokkenen heeft in dit geval aanspraak op een evenredig deel van de in de vorige volzin bedoelde tegemoetkoming.
+3. Indien het betreft een verhuizing van een gezin, waarin de echtgenoten beiden rechterlijk ambtenaar zijn in de zin van dit besluit, dan wel de partner ambtenaar in de zin van het [VUBZK](https://wetten.overheid.nl/jci1.3:c:BWBR0024265) en afzonderlijk de opdracht hebben om te verhuizen of zijn verplaatst, wordt de tegemoetkoming voor alle andere direct uit de verhuizing voortvloeiende kosten als geregeld in [artikel 8, lid 1, onderdeel c van het VKB](https://wetten.overheid.nl/jci1.3:c:BWBR0004630&artikel=8), berekend over het gemiddelde van de gezamenlijke berekeningsbasis als bedoeld in [artikel 1.1 onderdeel q](https://wetten.overheid.nl/jci1.3:c:BWBR0031747&hoofdstuk=1&artikel=1.1&z=2017-01-03&g=2017-01-03). Elk van de betrokkenen heeft in dit geval aanspraak op een evenredig deel van de in de vorige volzin bedoelde tegemoetkoming.
 
-4. De berekeningsbasis, als bedoeld in [artikel 1.1 onderdeel q](https://wetten.overheid.nl/jci1.3:c:BWBR0031747&hoofdstuk=1&artikel=1.1&z=2017-01-01&g=2017-01-01), wordt vermeerderd met het bedrag dat wegens verblijf buiten Nederland aan betrokkene wordt toegekend.
+4. De berekeningsbasis, als bedoeld in [artikel 1.1 onderdeel q](https://wetten.overheid.nl/jci1.3:c:BWBR0031747&hoofdstuk=1&artikel=1.1&z=2017-01-03&g=2017-01-03), wordt vermeerderd met het bedrag dat wegens verblijf buiten Nederland aan betrokkene wordt toegekend.
 
-5. Indien de belanghebbende geen eigen huishouding voert, wordt geen tegemoetkoming als bedoeld in het eerste lid, onderdeel c, verleend. Indien bijzondere omstandigheden daartoe aanleiding geven, kan voor deze kosten niettemin een tegemoetkoming worden verleend van 3% van de berekeningsbasis als bedoeld in [artikel 1.1 onderdeel q](https://wetten.overheid.nl/jci1.3:c:BWBR0031747&hoofdstuk=1&artikel=1.1&z=2017-01-01&g=2017-01-01).
+5. Indien de belanghebbende geen eigen huishouding voert, wordt geen tegemoetkoming als bedoeld in het eerste lid, onderdeel c, verleend. Indien bijzondere omstandigheden daartoe aanleiding geven, kan voor deze kosten niettemin een tegemoetkoming worden verleend van 3% van de berekeningsbasis als bedoeld in [artikel 1.1 onderdeel q](https://wetten.overheid.nl/jci1.3:c:BWBR0031747&hoofdstuk=1&artikel=1.1&z=2017-01-03&g=2017-01-03).
 
 6. Bij een verplaatsing uit, naar en buiten Nederland kan de tegemoetkoming in verhuiskosten naast de in het tweede lid bedoelde bedragen slechts bestaan uit:
 
@@ -290,13 +290,13 @@ Bij de reis naar het gebied van verblijf en bij terugkeer naar Nederland van de 
 
 1. De belanghebbende heeft bij de aanvang van zijn verblijf in een gebied buiten Nederland aanspraak op:
 
-- –. een tegemoetkoming in de kosten van zijn uitrusting, gelijk aan het bedrag, vermeld in [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0031747&bijlage=3&z=2017-01-01&g=2017-01-01) dat tweejaarlijks wordt bijgesteld aan de hand van de verandering van het consumentenprijsindexcijfer ter zake en;
+- –. een tegemoetkoming in de kosten van zijn uitrusting, gelijk aan het bedrag, vermeld in [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0031747&bijlage=3&z=2017-01-03&g=2017-01-03) dat tweejaarlijks wordt bijgesteld aan de hand van de verandering van het consumentenprijsindexcijfer ter zake en;
 
 - –. een huurauto van rijkswege en voor rijksrekening voor de eerste twee weken na zijn aankomst in het land van verblijf dan wel tot een maximum van zes weken als de belanghebbende, om reden van transport van zijn eigen auto, daarover niet kan beschikken;
 
 - –. een huurauto voor rijksrekening voor maximaal één week direct voorafgaande aan het vertrek uit het land van verblijf in geval niet meer over een eigen auto kan worden beschikt.
 
-2. De gezinsleden van de belanghebbende hebben tevens aanspraak op een tegemoetkoming in de uitrustingskosten overeenkomstig de bedragen genoemd in [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0031747&bijlage=3&z=2017-01-01&g=2017-01-01) van deze regeling, ingeval zij hem voor de duur van ten minste 6 achtereenvolgende maanden naar het gebied van verblijf vergezellen.
+2. De gezinsleden van de belanghebbende hebben tevens aanspraak op een tegemoetkoming in de uitrustingskosten overeenkomstig de bedragen genoemd in [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0031747&bijlage=3&z=2017-01-03&g=2017-01-03) van deze regeling, ingeval zij hem voor de duur van ten minste 6 achtereenvolgende maanden naar het gebied van verblijf vergezellen.
 
 #### Tijdelijke huisvesting
 
@@ -350,7 +350,7 @@ Daarbij wordt geacht dat het totaal van de vergoedingen van de landen en de verg
 
 1. De belanghebbende die een huurwoning bewoont, heeft voor de duur van zijn verblijf voor zichzelf en zijn gezin aanspraak op een huurtegemoetkoming.
 
-2. De huurtegemoetkoming bedraagt het verschil tussen de werkelijke huurprijs tot ten hoogste het in [bijlage 4](https://wetten.overheid.nl/jci1.3:c:BWBR0031747&bijlage=4&z=2017-01-01&g=2017-01-01) onder a genoemde huurplafond en de eigen bijdrage ter hoogte van 15% van lokale bruto maandsalaris in het land van verblijf. Voor de vaststelling van de huurtegemoetkoming van de ongehuwde belanghebbende gelden de huurplafonds van bijlage 4 onder b. Het huurplafond wordt tweejaarlijks opnieuw vastgesteld.
+2. De huurtegemoetkoming bedraagt het verschil tussen de werkelijke huurprijs tot ten hoogste het in [bijlage 4](https://wetten.overheid.nl/jci1.3:c:BWBR0031747&bijlage=4&z=2017-01-03&g=2017-01-03) onder a genoemde huurplafond en de eigen bijdrage ter hoogte van 15% van lokale bruto maandsalaris in het land van verblijf. Voor de vaststelling van de huurtegemoetkoming van de ongehuwde belanghebbende gelden de huurplafonds van bijlage 4 onder b. Het huurplafond wordt tweejaarlijks opnieuw vastgesteld.
 
 3. De aanspraak op de tegemoetkoming, bedoeld in het eerste lid gaat in op de datum van ingang van de huurovereenkomst voor de desbetreffende woning maar niet eerder dan op de datum waarop de belanghebbende zijn werkzaamheden heeft aangevangen.
 
@@ -360,7 +360,7 @@ Daarbij wordt geacht dat het totaal van de vergoedingen van de landen en de verg
 
 6. De tegemoetkoming in de huurlasten wordt slechts aan één belanghebbende toegekend. Indien meer belanghebbenden op één en hetzelfde adres woonachtig zijn, wordt het bedrag van de tegemoetkoming bedoeld in het eerste lid vastgesteld naar rato van het aantal belanghebbenden dat op het desbetreffende adres woonachtig is.
 
-7. De gehuwde belanghebbende wiens gezin metterwoon in Nederland verblijft, heeft aanspraak op gemeubileerde huisvesting (inclusief de verschuldigde kosten voor gas, water en elektriciteit) op een zodanige afstand van de plaats van tewerkstelling dat er, naar het oordeel van de bevoegde autoriteit, geen belemmering bestaat voor een goede vervulling van de dienst. De vergoeding van de huisvestingskosten (inclusief gas, water en licht) betreft maximaal honderd en tien procent van de in [bijlage 4](https://wetten.overheid.nl/jci1.3:c:BWBR0031747&bijlage=4&z=2017-01-01&g=2017-01-01), onder B, vastgestelde huurplafonds voor de ongehuwde belanghebbende.
+7. De gehuwde belanghebbende wiens gezin metterwoon in Nederland verblijft, heeft aanspraak op gemeubileerde huisvesting (inclusief de verschuldigde kosten voor gas, water en elektriciteit) op een zodanige afstand van de plaats van tewerkstelling dat er, naar het oordeel van de bevoegde autoriteit, geen belemmering bestaat voor een goede vervulling van de dienst. De vergoeding van de huisvestingskosten (inclusief gas, water en licht) betreft maximaal honderd en tien procent van de in [bijlage 4](https://wetten.overheid.nl/jci1.3:c:BWBR0031747&bijlage=4&z=2017-01-03&g=2017-01-03), onder B, vastgestelde huurplafonds voor de ongehuwde belanghebbende.
 
 8. De gehuwde belanghebbende wiens gezin metterwoon in Nederland verblijft, heeft aanspraak op een tegemoetkoming in voedingskosten gedurende de dagen dat hij geacht wordt in de standplaats verblijf te houden, tot ten hoogste een bedrag van 20% van de daggeldvergoeding voor voeding, als bedoeld in het [Reisbesluit buitenland](https://wetten.overheid.nl/jci1.3:c:BWBR0006842).
 
@@ -440,7 +440,7 @@ Indien de Minister in geval van ziekte of ongeval van de belanghebbende na overl
 
 ##### Artikel 7.3
 
-Indien de belanghebbende met zijn gezin in het land van plaatsing buiten Nederland verblijft worden bij overlijden van de belanghebbende de toelagen, bedoeld in [artikel 3.2](https://wetten.overheid.nl/jci1.3:c:BWBR0031747&hoofdstuk=3&artikel=3.2&z=2017-01-01&g=2017-01-01) en [artikel 5.1](https://wetten.overheid.nl/jci1.3:c:BWBR0031747&hoofdstuk=5&artikel=5.1&z=2017-01-01&g=2017-01-01), aan de achtergebleven echtgenoot of kinderen doorbetaald tot uiterlijk drie maanden na de datum van overlijden of zoveel eerder dat het gezin naar Nederland is teruggekeerd.
+Indien de belanghebbende met zijn gezin in het land van plaatsing buiten Nederland verblijft worden bij overlijden van de belanghebbende de toelagen, bedoeld in [artikel 3.2](https://wetten.overheid.nl/jci1.3:c:BWBR0031747&hoofdstuk=3&artikel=3.2&z=2017-01-03&g=2017-01-03) en [artikel 5.1](https://wetten.overheid.nl/jci1.3:c:BWBR0031747&hoofdstuk=5&artikel=5.1&z=2017-01-03&g=2017-01-03), aan de achtergebleven echtgenoot of kinderen doorbetaald tot uiterlijk drie maanden na de datum van overlijden of zoveel eerder dat het gezin naar Nederland is teruggekeerd.
 
 ##### Artikel 7.5
 
@@ -478,7 +478,7 @@ Voor zover in dit Voorzieningenstelsel niet anders is bepaald, vervallen de uit 
 
 1. In gevallen waarin niet of niet voldoende in deze regeling is voorzien, beslist de Minister naar redelijkheid en, waar mogelijk, in overeenstemming met de strekking van de bepalingen van deze regeling.
 
-2. De Minister kan voor de maximumtermijn van vijf jaar genoemd in [artikel 3.1 lid 1](https://wetten.overheid.nl/jci1.3:c:BWBR0031747&hoofdstuk=3&artikel=3.1&z=2017-01-01&g=2017-01-01) in uitzonderlijk geval ontheffing verlenen voor de duur van één jaar.
+2. De Minister kan voor de maximumtermijn van vijf jaar genoemd in [artikel 3.1 lid 1](https://wetten.overheid.nl/jci1.3:c:BWBR0031747&hoofdstuk=3&artikel=3.1&z=2017-01-03&g=2017-01-03) in uitzonderlijk geval ontheffing verlenen voor de duur van één jaar.
 
 ##### Artikel 9.3
 
@@ -528,13 +528,13 @@ Deze regeling treedt in werking met ingang van de tweede dag na publicatie in de
 
 ## Bijlage 2
 
-### Tabel 1. Verhoging buitenlandtoelage (indien het kind verblijft in het gebied van plaatsing) (ad [art. 3.1, onderdeel 3a](https://wetten.overheid.nl/jci1.3:c:BWBR0031747&hoofdstuk=3&artikel=3.1&z=2017-01-01&g=2017-01-01) VBRA)
+### Tabel 1. Verhoging buitenlandtoelage (indien het kind verblijft in het gebied van plaatsing) (ad [art. 3.1, onderdeel 3a](https://wetten.overheid.nl/jci1.3:c:BWBR0031747&hoofdstuk=3&artikel=3.1&z=2017-01-03&g=2017-01-03) VBRA)
 
 ### Tabel 2. Verhoging buitenlandtoelage (indien het kind niet verblijft in het gebied van plaatsing) ( ad [art. 3.1, onderdeel 3b VUBZK](https://wetten.overheid.nl/jci1.3:c:BWBR0024265&artikel=3.1))
 
 ## Bijlage 3
 
-### Uitrustingskosten ad [Artikel 4.6](https://wetten.overheid.nl/jci1.3:c:BWBR0031747&hoofdstuk=4&artikel=4.6&z=2017-01-01&g=2017-01-01)
+### Uitrustingskosten ad [Artikel 4.6](https://wetten.overheid.nl/jci1.3:c:BWBR0031747&hoofdstuk=4&artikel=4.6&z=2017-01-03&g=2017-01-03)
 
 De tegemoetkoming in de uitrustingskosten bij plaatsing in Aruba, Curaçao, Sint Maarten of de openbare lichamen Bonaire, Sint Eustatius of Saba bedraagt per datum inwerkingtreding van deze regeling:
 
@@ -542,7 +542,7 @@ De tegemoetkoming in de uitrustingskosten wordt niet toegekend bij verhuizing bi
 
 ## Bijlage 4
 
-### Woonlasten ad [artikel 5.1 tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031747&hoofdstuk=5&artikel=5.1&z=2017-01-01&g=2017-01-01)
+### Woonlasten ad [artikel 5.1 tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031747&hoofdstuk=5&artikel=5.1&z=2017-01-03&g=2017-01-03)
 
 **A. De huurplafonds bedragen:**
 
