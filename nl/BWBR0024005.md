@@ -4,7 +4,7 @@ identifier: "BWBR0024005"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-01-01"
-last_updated: "2017-01-01"
+last_updated: "2017-01-10"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0024005"
 soort: "ministeriele-regeling"
@@ -86,25 +86,25 @@ In deze regeling wordt verstaan onder:
 
 1. De onderwijsopslag van een universiteit, bedoeld in [artikel 4.11 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0006152&artikel=4.11), bestaat uit:
 
-- a. het bedrag, bedoeld in [artikel 4.11, eerste lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0006152&artikel=4.11), dat voor de desbetreffende universiteit is opgenomen in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0024005&bijlage=1&z=2017-01-01&g=2017-01-01) bij deze regeling, en
+- a. het bedrag, bedoeld in [artikel 4.11, eerste lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0006152&artikel=4.11), dat voor de desbetreffende universiteit is opgenomen in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0024005&bijlage=1&z=2017-01-10&g=2017-01-10) bij deze regeling, en
 
-- b. het percentage, bedoeld in [artikel 4.11, tweede lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0006152&artikel=4.11), dat voor de desbetreffende universiteit is opgenomen in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0024005&bijlage=2&z=2017-01-01&g=2017-01-01) bij deze regeling.
+- b. het percentage, bedoeld in [artikel 4.11, tweede lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0006152&artikel=4.11), dat voor de desbetreffende universiteit is opgenomen in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0024005&bijlage=2&z=2017-01-10&g=2017-01-10) bij deze regeling.
 
 2. De onderwijsopslag van een hogeschool, bedoeld in [artikel 4.11 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0006152&artikel=4.11), bestaat uit:
 
-- a. het bedrag, bedoeld in [artikel 4.11, eerste lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0006152&artikel=4.11), dat voor de desbetreffende hogeschool is opgenomen in [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0024005&bijlage=3&z=2017-01-01&g=2017-01-01) bij deze regeling, en
+- a. het bedrag, bedoeld in [artikel 4.11, eerste lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0006152&artikel=4.11), dat voor de desbetreffende hogeschool is opgenomen in [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0024005&bijlage=3&z=2017-01-10&g=2017-01-10) bij deze regeling, en
 
-- b. het percentage, bedoeld in [artikel 4.11, tweede lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0006152&artikel=4.11), dat voor de desbetreffende hogeschool is opgenomen in [bijlage 4](https://wetten.overheid.nl/jci1.3:c:BWBR0024005&bijlage=4&z=2017-01-01&g=2017-01-01) bij deze regeling.
+- b. het percentage, bedoeld in [artikel 4.11, tweede lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0006152&artikel=4.11), dat voor de desbetreffende hogeschool is opgenomen in [bijlage 4](https://wetten.overheid.nl/jci1.3:c:BWBR0024005&bijlage=4&z=2017-01-10&g=2017-01-10) bij deze regeling.
 
 #### Paragraaf 3. Onderzoek
 
 ##### Artikel 4. Bedragen onderzoek
 
-1. De bedragen bedoeld in [artikel 4.23, eerste lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0006152&artikel=4.23), worden vastgesteld overeenkomstig [bijlage 5](https://wetten.overheid.nl/jci1.3:c:BWBR0024005&bijlage=5&z=2017-01-01&g=2017-01-01) bij deze regeling.
+1. De bedragen bedoeld in [artikel 4.23, eerste lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0006152&artikel=4.23), worden vastgesteld overeenkomstig [bijlage 5](https://wetten.overheid.nl/jci1.3:c:BWBR0024005&bijlage=5&z=2017-01-10&g=2017-01-10) bij deze regeling.
 
-2. De verdeling bedoeld in [artikel 4.23, tweede lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0006152&artikel=4.23), wordt vastgesteld overeenkomstig [bijlage 6](https://wetten.overheid.nl/jci1.3:c:BWBR0024005&bijlage=6&z=2017-01-01&g=2017-01-01) bij deze regeling.
+2. De verdeling bedoeld in [artikel 4.23, tweede lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0006152&artikel=4.23), wordt vastgesteld overeenkomstig [bijlage 6](https://wetten.overheid.nl/jci1.3:c:BWBR0024005&bijlage=6&z=2017-01-10&g=2017-01-10) bij deze regeling.
 
-3. De bedragen bedoeld in [artikel 4.24, eerste lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0006152&artikel=4.24), worden vastgesteld overeenkomstig [bijlage 9](https://wetten.overheid.nl/jci1.3:c:BWBR0024005&bijlage=9&z=2017-01-01&g=2017-01-01) van deze regeling.
+3. De bedragen bedoeld in [artikel 4.24, eerste lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0006152&artikel=4.24), worden vastgesteld overeenkomstig [bijlage 9](https://wetten.overheid.nl/jci1.3:c:BWBR0024005&bijlage=9&z=2017-01-10&g=2017-01-10) van deze regeling.
 
 4. Het bedrag, bedoeld in [artikel 4.21, eerste lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0006152&artikel=4.21) is € 98.624.
 
@@ -118,11 +118,11 @@ Het rentepercentage bedoeld in [artikel 4.27, tweede lid, van het besluit](https
 
 ##### Artikel 6. Bedragen en percentages academische ziekenhuizen
 
-1. Het bedrag, bedoeld in [artikel 4.27, derde lid, onderdeel c, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0006152&artikel=4.27), wordt vastgesteld overeenkomstig [bijlage 7](https://wetten.overheid.nl/jci1.3:c:BWBR0024005&bijlage=7&z=2017-01-01&g=2017-01-01) bij deze regeling, onder de noemer bedragen.
+1. Het bedrag, bedoeld in [artikel 4.27, derde lid, onderdeel c, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0006152&artikel=4.27), wordt vastgesteld overeenkomstig [bijlage 7](https://wetten.overheid.nl/jci1.3:c:BWBR0024005&bijlage=7&z=2017-01-10&g=2017-01-10) bij deze regeling, onder de noemer bedragen.
 
-2. De percentages, bedoeld in [artikel 4.27, vierde lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0006152&artikel=4.27), zijn opgenomen in [bijlage 7](https://wetten.overheid.nl/jci1.3:c:BWBR0024005&bijlage=7&z=2017-01-01&g=2017-01-01) bij deze regeling, onder de noemer percentages.
+2. De percentages, bedoeld in [artikel 4.27, vierde lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0006152&artikel=4.27), zijn opgenomen in [bijlage 7](https://wetten.overheid.nl/jci1.3:c:BWBR0024005&bijlage=7&z=2017-01-10&g=2017-01-10) bij deze regeling, onder de noemer percentages.
 
-3. De investeringsbedragen, bedoeld in [artikel 4.27, eerste lid, onderdeel a, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0006152&artikel=4.27), zijn opgenomen in [bijlage 8](https://wetten.overheid.nl/jci1.3:c:BWBR0024005&bijlage=8&z=2017-01-01&g=2017-01-01) bij deze regeling.
+3. De investeringsbedragen, bedoeld in [artikel 4.27, eerste lid, onderdeel a, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0006152&artikel=4.27), zijn opgenomen in [bijlage 8](https://wetten.overheid.nl/jci1.3:c:BWBR0024005&bijlage=8&z=2017-01-10&g=2017-01-10) bij deze regeling.
 
 ##### Artikel 7. Toelage raad van toezicht academische ziekenhuizen
 
@@ -162,7 +162,7 @@ Vervallen
 
 ##### Artikel 11. Vertegenwoordigers
 
-1. Het bestuur van een organisatie, bedoeld in [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0024005&paragraaf=6&artikel=10&z=2017-01-01&g=2017-01-01), wijst de vertegenwoordiger of vertegenwoordigers aan die voor de financiële ondersteuning vanwege het daadwerkelijk vervullen van een bestuursfunctie tijdens een studiejaar in aanmerking komen, met inachtneming van [artikel 7.51k van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=7.51k) en verstrekt aan de minister voor 1 november van het desbetreffende studiejaar de volgende gegevens over deze vertegenwoordiger of vertegenwoordigers:
+1. Het bestuur van een organisatie, bedoeld in [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0024005&paragraaf=6&artikel=10&z=2017-01-10&g=2017-01-10), wijst de vertegenwoordiger of vertegenwoordigers aan die voor de financiële ondersteuning vanwege het daadwerkelijk vervullen van een bestuursfunctie tijdens een studiejaar in aanmerking komen, met inachtneming van [artikel 7.51k van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=7.51k) en verstrekt aan de minister voor 1 november van het desbetreffende studiejaar de volgende gegevens over deze vertegenwoordiger of vertegenwoordigers:
 
 - a. de naam, het adres en de woonplaats, alsmede de geboortedatum;
 
@@ -172,7 +172,7 @@ Vervallen
 
 - d. de gewenste subsidieperiode in maanden.
 
-2. Financiële ondersteuning wordt gegeven tot ten hoogste het bedrag voor het gehele studiejaar voor vijf vertegenwoordigers van een organisatie, bedoeld in [artikel 10, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024005&paragraaf=6&artikel=10&z=2017-01-01&g=2017-01-01), en voor een vertegenwoordiger van maximaal veertig organisaties bedoeld in [artikel 10, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024005&paragraaf=6&artikel=10&z=2017-01-01&g=2017-01-01).
+2. Financiële ondersteuning wordt gegeven tot ten hoogste het bedrag voor het gehele studiejaar voor vijf vertegenwoordigers van een organisatie, bedoeld in [artikel 10, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024005&paragraaf=6&artikel=10&z=2017-01-10&g=2017-01-10), en voor een vertegenwoordiger van maximaal veertig organisaties bedoeld in [artikel 10, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024005&paragraaf=6&artikel=10&z=2017-01-10&g=2017-01-10).
 
 3. Indien is voldaan aan het bepaalde in het eerste lid en financiële ondersteuning wordt toegekend, maakt de Minister deze beslissing aan de desbetreffende organisaties bekend en zendt van die bekendmaking een afschrift aan de vertegenwoordiger.
 
@@ -182,7 +182,7 @@ Vervallen
 
 ##### Artikel 12. Aanspraak
 
-1. De vertegenwoordiger heeft, behoudens het tweede lid, gedurende het tijdvak waarvoor de in [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0024005&paragraaf=6&artikel=11&z=2017-01-01&g=2017-01-01) bedoelde aanwijzing geldt, aanspraak op financiële ondersteuning.
+1. De vertegenwoordiger heeft, behoudens het tweede lid, gedurende het tijdvak waarvoor de in [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0024005&paragraaf=6&artikel=11&z=2017-01-10&g=2017-01-10) bedoelde aanwijzing geldt, aanspraak op financiële ondersteuning.
 
 2. Indien het bestuur van een organisatie na intrekking van de eerste aanwijzing een andere vertegenwoordiger aanwijst, heeft deze met ingang van de eerste volle maand na zijn aanwijzing aanspraak op financiële ondersteuning.
 
@@ -196,7 +196,7 @@ Vervallen
 
 1. Het instellingsbestuur verstrekt de gegevens, bedoeld in [artikel 7.52, tweede lid en vijfde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=7.52), tezamen met het persoonsgebonden nummer op elektronische wijze aan de Minister.
 
-2. Het instellingsbestuur verstrekt de gegevens overeenkomstig de specificatie als opgenomen in [bijlage 10](https://wetten.overheid.nl/jci1.3:c:BWBR0024005&bijlage=10&z=2017-01-01&g=2017-01-01).
+2. Het instellingsbestuur verstrekt de gegevens overeenkomstig de specificatie als opgenomen in [bijlage 10](https://wetten.overheid.nl/jci1.3:c:BWBR0024005&bijlage=10&z=2017-01-10&g=2017-01-10).
 
 3. Indien een gemeente de gegevens, bedoeld in [artikel 7.52, tweede lid, onder a., en het vijfde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=7.52), niet aan de minister verstrekt, verzoekt de Minister het instellingsbestuur deze gegevens te verstrekken.
 
@@ -244,15 +244,15 @@ De bacheloropleiding Tourism, verzorgd door Wageningen University en NHTV intern
 
 ##### Artikel 19. Inwerkingtreding
 
-1. Deze regeling treedt, met uitzondering van [artikel 13, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024005&paragraaf=6&artikel=13&z=2017-01-01&g=2017-01-01), [artikel 18, onderdelen d en f](https://wetten.overheid.nl/jci1.3:c:BWBR0024005&paragraaf=8a&artikel=18&z=2017-01-01&g=2017-01-01), en [bijlage 10, onderdelen g](https://wetten.overheid.nl/jci1.3:c:BWBR0024005&bijlage=10&z=2017-01-01&g=2017-01-01), voor zover het betreft de vermelding van de Duitse bondsstaat, q, r en w, in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin zij wordt geplaatst, en werkt, met uitzondering van [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024005&paragraaf=4&artikel=5&z=2017-01-01&g=2017-01-01), terug tot en met 1 januari 2008.
+1. Deze regeling treedt, met uitzondering van [artikel 13, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024005&paragraaf=6&artikel=13&z=2017-01-10&g=2017-01-10), [artikel 18, onderdelen d en f](https://wetten.overheid.nl/jci1.3:c:BWBR0024005&paragraaf=8a&artikel=18&z=2017-01-10&g=2017-01-10), en [bijlage 10, onderdelen g](https://wetten.overheid.nl/jci1.3:c:BWBR0024005&bijlage=10&z=2017-01-10&g=2017-01-10), voor zover het betreft de vermelding van de Duitse bondsstaat, q, r en w, in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin zij wordt geplaatst, en werkt, met uitzondering van [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024005&paragraaf=4&artikel=5&z=2017-01-10&g=2017-01-10), terug tot en met 1 januari 2008.
 
-2. [Artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024005&paragraaf=4&artikel=5&z=2017-01-01&g=2017-01-01), werkt terug tot en met 1 januari 2007.
+2. [Artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024005&paragraaf=4&artikel=5&z=2017-01-10&g=2017-01-10), werkt terug tot en met 1 januari 2007.
 
-3. [Artikel 13, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024005&paragraaf=6&artikel=13&z=2017-01-01&g=2017-01-01) treedt in werking met ingang van 1 september 2008.
+3. [Artikel 13, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024005&paragraaf=6&artikel=13&z=2017-01-10&g=2017-01-10) treedt in werking met ingang van 1 september 2008.
 
-4. [Artikel 18, onderdelen d en f](https://wetten.overheid.nl/jci1.3:c:BWBR0024005&paragraaf=8a&artikel=18&z=2017-01-01&g=2017-01-01), treedt in werking met ingang van 1 september 2008.
+4. [Artikel 18, onderdelen d en f](https://wetten.overheid.nl/jci1.3:c:BWBR0024005&paragraaf=8a&artikel=18&z=2017-01-10&g=2017-01-10), treedt in werking met ingang van 1 september 2008.
 
-5. [Bijlage 10, onderdelen g](https://wetten.overheid.nl/jci1.3:c:BWBR0024005&bijlage=10&z=2017-01-01&g=2017-01-01), voor zover het betreft de vermelding van de Duitse bondsstaat, q, r en w, treedt in werking met ingang van 1 oktober 2009.
+5. [Bijlage 10, onderdelen g](https://wetten.overheid.nl/jci1.3:c:BWBR0024005&bijlage=10&z=2017-01-10&g=2017-01-10), voor zover het betreft de vermelding van de Duitse bondsstaat, q, r en w, treedt in werking met ingang van 1 oktober 2009.
 
 ##### Artikel 20. Citeertitel
 
@@ -341,7 +341,7 @@ Deze regeling wordt aangehaald als: Regeling financiën hoger onderwijs.
 | --- | --- | --- | --- | --- | --- |
 | 21PI | Wageningen University |   |   |   | € 0 |
 
-## Bijlage 2. bij [artikel 3, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0024005&paragraaf=2&artikel=3&z=2017-01-01&g=2017-01-01), van de Regeling
+## Bijlage 2. bij [artikel 3, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0024005&paragraaf=2&artikel=3&z=2017-01-10&g=2017-01-10), van de Regeling
 
 | Universiteit | Universiteit | Percentage |
 | --- | --- | --- |
@@ -369,7 +369,7 @@ Deze regeling wordt aangehaald als: Regeling financiën hoger onderwijs.
 | --- | --- | --- |
 | 21PI | Wageningen University | 100,00000% |
 
-## Bijlage 3. bij [artikel 3, tweede lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0024005&paragraaf=2&artikel=3&z=2017-01-01&g=2017-01-01), van de Regeling
+## Bijlage 3. bij [artikel 3, tweede lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0024005&paragraaf=2&artikel=3&z=2017-01-10&g=2017-01-10), van de Regeling
 
 | Hogeschool | Hogeschool | Kwaliteit | Kwetsbare opleidingen | Bijzondere voorzieningen | Totaalbedrag |
 | --- | --- | --- | --- | --- | --- |
@@ -379,48 +379,48 @@ Deze regeling wordt aangehaald als: Regeling financiën hoger onderwijs.
 | 02BY | Gerrit Rietveld Academie |   | € 791.149 | € 28.293 | € 819.442 |
 | 02NR | Hotelschool Den Haag |   |   |   |   |
 | 02NT | The Design Academy Eindhoven |   | € 361.309 | € 18.005 | € 379.314 |
-| 07GR | Avans Hogeschool |   | € 409.754 | € 165.496 | € 575.250 |
+| 07GR | Avans Hogeschool |   | € 409.754 | € 1.172.436 | € 1.582.190 |
 | 08OK | Hogeschool De Kempel |   | € 300.314 |   | € 300.314 |
 | 09OT | Iselinge Hogeschool |   | € 270.973 |   | € 270.973 |
 | 10IZ | PC Hogeschool Marnix Academie |   | € 717.993 | € 3.858 | € 721.851 |
 | 14NI | Codarts, Hs voor Muziek en Dans Rotterdam |   | € 627.889 | € 23.792 | € 651.681 |
 | 15BK | Christelijke Hogeschool De Driestar |   | € 144.979 |   | € 144.979 |
 | 21CW | Hogeschool HAS Den Bosch |   |   | € 5.144 | € 5.144 |
-| 21MI | HZ University of Applied Sciences |   | € 362.448 | € 1.254.829 | € 1.617.277 |
+| 21MI | HZ University of Applied Sciences |   | € 362.448 | € 2.261.769 | € 2.624.217 |
 | 21QA | Amsterdamse Hogeschool voor de Kunsten |   | € 616.917 | € 55.944 | € 672.861 |
-| 21RI | Hogeschool Leiden |   | € 634.582 | € 12.860 | € 647.442 |
+| 21RI | Hogeschool Leiden |   | € 634.582 | € 1.019.800 | € 1.654.382 |
 | 21UG | Hs Interconfessionele PABO |   | € 336.559 |   | € 336.559 |
-| 21UI | NHTV internationaal hoger onderwijs Breda |   |   | € 18.005 | € 18.005 |
+| 21UI | NHTV internationaal hoger onderwijs Breda |   |   | € 1.024.945 | € 1.024.945 |
 | 21WN | NHL Hogeschool |   | € 141.527 | € 91.736 | € 233.263 |
-| 22EX | Stenden Hogescholen |   | € 1.358.320 | € 131.619 | € 1.489.939 |
-| 22HH | Gereformeerde Hogeschool |   | € 453.923 | € 99.944 | € 553.867 |
-| 22OJ | Hogeschool Rotterdam |   | € 2.808.602 | € 33.438 | € 2.842.040 |
-| 23AH | Saxion Hogescholen |   | € 692.104 | € 181.338 | € 873.442 |
+| 22EX | Stenden Hogescholen |   | € 1.358.320 | € 1.138.559 | € 2.496.879 |
+| 22HH | VIAA Gereformeerde Hogeschool |   | € 453.923 | € 99.944 | € 553.867 |
+| 22OJ | Hogeschool Rotterdam |   | € 2.808.602 | € 1.040.378 | € 3.848.980 |
+| 23AH | Saxion Hogescholen |   | € 692.104 | € 2.195.218 | € 2.887.322 |
 | 23KJ | Hogeschool der Kunsten Den Haag |   | € 572.690 | € 34.081 | € 606.771 |
 | 25BA | Christelijke Hogeschool Ede |   | € 391.789 | € 576.838 | € 968.627 |
-| 25BE | Hanzehogeschool Groningen |   | € 1.378.555 | € 66.876 | € 1.445.431 |
-| 25DW | Hogeschool Utrecht |   | € 1.747.872 | € 53.372 | € 1.801.244 |
-| 25JX | Hogeschool Zuyd |   | € 1.504.471 | € 51.443 | € 1.555.914 |
-| 25KB | Hogeschool van Arnhem en Nijmegen |   | € 1.029.878 | € 279.651 | € 1.309.529 |
+| 25BE | Hanzehogeschool Groningen |   | € 1.378.555 | € 2.080.756 | € 3.459.311 |
+| 25DW | Hogeschool Utrecht |   | € 1.747.872 | € 1.060.312 | € 2.808.184 |
+| 25JX | Hogeschool Zuyd |   | € 1.504.471 | € 1.058.383 | € 2.562.854 |
+| 25KB | Hogeschool van Arnhem en Nijmegen |   | € 1.029.878 | € 1.286.591 | € 2.316.469 |
 | 27NF | ArtEZ Hogeschool |   | € 990.993 | € 33.438 | € 1.024.431 |
 | 27PZ | Hogeschool INHolland |   | € 2.330.028 | € 69.957 | € 2.399.985 |
 | 27UM | De Haagse Hogeschool |   | € 1.132.221 | € 108.674 | € 1.240.895 |
-| 28DN | Hogeschool van Amsterdam |   | € 1.037.293 | € 111.889 | € 1.149.182 |
-| 30GB | Fontys Hogescholen |   | € 2.210.197 | € 267.320 | € 2.477.517 |
+| 28DN | Hogeschool van Amsterdam |   | € 1.037.293 | € 2.125.769 | € 3.163.062 |
+| 30GB | Fontys Hogescholen |   | € 2.210.197 | € 1.274.260 | € 3.484.457 |
 | 30HD | Hogeschool Van Hall Larenstein |   |   | € 28.293 | € 28.293 |
 | 30TX | Vilentum Hogeschool |   |   | € 3.858 | € 3.858 |
 | 30VP | Thomas More Hogeschool |   |   | € 1.929 | € 1.929 |
-|   | Totaal |   | € 26.574.785 | € 3.968.077 | € 30.542.862 |
+|   | Totaal |   | € 26.574.785 | € 20.079.117 | € 46.653.902 |
 
 | Hogeschool | Hogeschool | Kwaliteit | Kwetsbare opleidingen | Bijzondere voorzieningen | Totaalbedrag |
 | --- | --- | --- | --- | --- | --- |
-| 21CW | Hogeschool HAS Den Bosch | € 14.581 |   | € 700.000 | € 714.581 |
-| 27PZ | Hogeschool INHolland | € 3.352 |   |   | € 3.352 |
-| 30HD | Hogeschool Van Hall Larenstein | € 17.218 |   |   | € 17.218 |
-| 30TX | Vilentum Hogeschool | € 12.469 | € 13.614 | € 261.291 | € 287.374 |
-|   | Totaal | € 47.620 | € 13.614 | € 961.291 | € 1.022.525 |
+| 21CW | Hogeschool HAS Den Bosch | € 48.130 |   | € 700.000 | € 748.130 |
+| 27PZ | Hogeschool INHolland | € 11.149 |   |   | € 11.149 |
+| 30HD | Hogeschool Van Hall Larenstein | € 57.578 |   |   | € 57.578 |
+| 30TX | Vilentum Hogeschool | € 42.435 | € 13.614 | € 261.291 | € 317.340 |
+|   | Totaal | € 159.292 | € 13.614 | € 961.291 | € 1.134.197 |
 
-## Bijlage 4. bij [artikel 3, tweede lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0024005&paragraaf=2&artikel=3&z=2017-01-01&g=2017-01-01), van de Regeling
+## Bijlage 4. bij [artikel 3, tweede lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0024005&paragraaf=2&artikel=3&z=2017-01-10&g=2017-01-10), van de Regeling
 
 | Hogeschool | Hogeschool | Percentage |
 | --- | --- | --- |
@@ -471,7 +471,7 @@ Deze regeling wordt aangehaald als: Regeling financiën hoger onderwijs.
 | 30TX | Vilentum Hogeschool | 23,98527% |
 |   | Totaal | 100,00000% |
 
-## Bijlage 5. bij [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024005&paragraaf=3&artikel=4&z=2017-01-01&g=2017-01-01), van de Regeling
+## Bijlage 5. bij [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024005&paragraaf=3&artikel=4&z=2017-01-10&g=2017-01-10), van de Regeling
 
 | Universiteit | Universiteit | Bedrag |
 | --- | --- | --- |
@@ -499,7 +499,7 @@ Deze regeling wordt aangehaald als: Regeling financiën hoger onderwijs.
 | --- | --- | --- |
 | 21PI | Wageningen University | € 1.335.805 |
 
-## Bijlage 6. bij [artikel 4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024005&paragraaf=3&artikel=4&z=2017-01-01&g=2017-01-01), van de Regeling
+## Bijlage 6. bij [artikel 4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024005&paragraaf=3&artikel=4&z=2017-01-10&g=2017-01-10), van de Regeling
 
 | Universiteit | Universiteit | Percentage |
 | --- | --- | --- |
@@ -527,7 +527,7 @@ Deze regeling wordt aangehaald als: Regeling financiën hoger onderwijs.
 | --- | --- | --- |
 | 21PI | Wageningen University | 100,00000% |
 
-## Bijlage 7. bij [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0024005&paragraaf=4&artikel=6&z=2017-01-01&g=2017-01-01) van de Regeling
+## Bijlage 7. bij [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0024005&paragraaf=4&artikel=6&z=2017-01-10&g=2017-01-10) van de Regeling
 
 | Universiteit | Universiteit | Bedrag | Percentage |
 | --- | --- | --- | --- |
@@ -541,7 +541,7 @@ Deze regeling wordt aangehaald als: Regeling financiën hoger onderwijs.
 | 21PM | Radboud Universiteit Nijmegen | € 3.568.717 | 10,95148% |
 |   | Totaal | € 28.574.524 | 100,00000% |
 
-## Bijlage 8. bij [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0024005&paragraaf=4&artikel=6&z=2017-01-01&g=2017-01-01), van de Regeling
+## Bijlage 8. bij [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0024005&paragraaf=4&artikel=6&z=2017-01-10&g=2017-01-10), van de Regeling
 
 | universiteit | universiteit | 2000 | 2008 | 2009 | 2010 | 2011 |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -589,7 +589,7 @@ Deze regeling wordt aangehaald als: Regeling financiën hoger onderwijs.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
-## Bijlage 9. bij [artikel 4, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024005&paragraaf=3&artikel=4&z=2017-01-01&g=2017-01-01), van de Regeling
+## Bijlage 9. bij [artikel 4, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024005&paragraaf=3&artikel=4&z=2017-01-10&g=2017-01-10), van de Regeling
 
 | Hogeschool | Hogeschool | Bedrag |
 | --- | --- | --- |
@@ -642,7 +642,7 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
-## Bijlage 10. bij [artikel 14, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024005&paragraaf=7&artikel=14&z=2017-01-01&g=2017-01-01), van de Regeling
+## Bijlage 10. bij [artikel 14, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024005&paragraaf=7&artikel=14&z=2017-01-10&g=2017-01-10), van de Regeling
 
 | Naam | Formaat | Lengte | Definitie |
 | --- | --- | --- | --- |
