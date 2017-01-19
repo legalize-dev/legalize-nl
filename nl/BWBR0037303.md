@@ -4,7 +4,7 @@ identifier: "BWBR0037303"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2023-04-01"
-last_updated: "2017-01-01"
+last_updated: "2017-01-19"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0037303"
 soort: "ministeriele-regeling"
@@ -52,11 +52,15 @@ In deze regeling wordt verstaan onder:
 
 - **instelling:** organisatorisch verband dat strekt tot de verlening van zorg als omschreven bij of krachtens de [Zorgverzekeringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450), met uitzondering van een organisatorisch verband waarbinnen in het kader van de binnen een instelling verleende zorg, een deel van die zorg wordt verleend.
 
-- **medisch specialist:** arts als bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037303&artikel=2&z=2016-04-01&g=2017-01-01);
+- **medisch specialist:** arts als bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037303&artikel=2&z=2017-01-19&g=2017-01-19);
 
 - **minister:** Minister van Volksgezondheid, Welzijn en Sport;
 
-- **subsidie:** subsidie als bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0037303&artikel=3&z=2016-04-01&g=2017-01-01);
+- **overstapjaar:** het kalenderjaar waarin de overstapperiode valt;
+
+- **overstapperiode:** de periode van de eerste zes maanden van ofwel 2017, ofwel 2018, ofwel 2019, waarin een medisch specialist de subsidiabele activiteit, bedoeld in artikel 4, verricht;
+
+- **subsidie:** subsidie als bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0037303&artikel=3&z=2017-01-19&g=2017-01-19);
 
 - **vrijgevestigd medisch specialist:** arts die uitsluitend anders dan op basis van een arbeidsovereenkomst met een of meer zorgaanbieders en anders dan op basis van een uitzendovereenkomst als bedoeld in [artikel 690 van Boek 7 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=690), werkzaam is als medisch specialist;
 
@@ -80,9 +84,9 @@ In deze regeling wordt verstaan onder:
 
 1. De minister verstrekt op aanvraag subsidie aan een natuurlijk persoon die:
 
-- a. het gehele jaar 2015 een vrijgevestigde medisch specialist was die op grond van de voor hem voor dat jaar geldende één of meer overeenkomsten ten minste twintig uren per week aanwezig was in een instelling ter uitoefening van zijn beroep;
+- a. het gehele kalenderjaar voorafgaand aan de overstapperiode een vrijgevestigde medisch specialist was die op grond van de voor hem voor dat jaar geldende één of meer overeenkomsten ten minste twintig uren per week aanwezig was in een instelling ter uitoefening van zijn beroep;
 
-- b. met ingang van een na 31 december 2015 doch voor 1 juli 2016 gelegen tijdstip zijn hoedanigheid als vrijgevestigd medisch specialist heeft beëindigd;
+- b. met ingang van een in de overstapperiode gelegen tijdstip zijn hoedanigheid als vrijgevestigd medisch specialist heeft beëindigd;
 
 - c. zonder dat sprake is of zal zijn van een andere vergoeding daarvoor dan een onmiddellijke of middellijke vergoeding in de vorm van een geldsom van een zorgaanbieder waarmee hij een arbeidsovereenkomst heeft gesloten:
 
@@ -96,7 +100,7 @@ In deze regeling wordt verstaan onder:
 
 ##### Artikel 4. Subsidiabele activiteiten
 
-De minister verstrekt de subsidie met het oog op de beëindiging na 31 december 2015 en voor 1 juli 2016 van de hoedanigheid als vrijgevestigd medisch specialist en het met ingang van het tijdstip van die beëindiging, als medisch specialist uitsluitend op basis van één of meer arbeidsovereenkomsten met één of meer zorgaanbieders werkzaam zijn.
+De minister verstrekt de subsidie met het oog op de beëindiging in de desbetreffende overstapperiode van de hoedanigheid als vrijgevestigd medisch specialist en het met ingang van het tijdstip van die beëindiging, als medisch specialist uitsluitend op basis van één of meer arbeidsovereenkomsten met één of meer zorgaanbieders werkzaam zijn.
 
 ##### Artikel 5. Subsidiebedrag
 
@@ -104,29 +108,29 @@ De minister verstrekt de subsidie met het oog op de beëindiging na 31 december 
 
 2. Het bedrag van de subsidie is in afwijking van het eerste lid, nihil indien:
 
-- a. de subsidiabele activiteiten, bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0037303&artikel=4&z=2016-04-01&g=2017-01-01) niet of niet geheel hebben plaatsgevonden, of
+- a. de subsidiabele activiteiten, bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0037303&artikel=4&z=2017-01-19&g=2017-01-19) niet of niet geheel hebben plaatsgevonden, of
 
-- b. de subsidie-ontvanger niet heeft voldaan aan de aan de subsidie verbonden verplichtingen, bedoeld in [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0037303&artikel=9&z=2016-04-01&g=2017-01-01).
+- b. de subsidie-ontvanger niet heeft voldaan aan de aan de subsidie verbonden verplichtingen, bedoeld in [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0037303&artikel=9&z=2017-01-19&g=2017-01-19).
 
 3. De minister kan in afwijking van het eerste lid, de subsidie op een lager bedrag vaststellen indien de subsidie-ontvanger niet heeft voldaan aan:
 
-- a. de in deze regeling aan de subsidie verbonden verplichtingen anders dan bedoeld in [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0037303&artikel=9&z=2016-04-01&g=2017-01-01), of
+- a. de in deze regeling aan de subsidie verbonden verplichtingen anders dan bedoeld in [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0037303&artikel=9&z=2017-01-19&g=2017-01-19), of
 
 - b. de verplichtingen die de minister krachtens [artikel 4:37 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:37), aan de subsidie-ontvanger heeft opgelegd.
 
 ##### Artikel 6. Aanvraag tot verlening van subsidie
 
-1. De zorgaanbieder respectievelijk een zorgaanbieder waarmee de medisch specialist een arbeidsovereenkomst heeft gesloten, dient namens de medisch specialist een aanvraag in voor de verlening van de subsidie, voor 1 maart 2016.
+1. De zorgaanbieder respectievelijk een zorgaanbieder waarmee de medisch specialist een arbeidsovereenkomst heeft gesloten, dient namens de medisch specialist een aanvraag in voor de verlening van de subsidie, voor 1 maart in het desbetreffende overstapjaar.
 
 2. Voor een aanvraag tot verlening van de subsidie wordt een door de minister vastgesteld formulier gebruikt.
 
-3. De medisch specialist machtigt de instelling, bedoeld in het eerste lid, voor het indienen van de aanvraag en het in ontvangst nemen van betaling door de minister van het voorschot, bedoeld in [artikel 8, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037303&artikel=8&z=2016-04-01&g=2017-01-01).
+3. De medisch specialist machtigt de instelling, bedoeld in het eerste lid, voor het indienen van de aanvraag en het in ontvangst nemen van betaling door de minister van het voorschot, bedoeld in [artikel 8, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037303&artikel=8&z=2017-01-19&g=2017-01-19).
 
 4. Bij de aanvraag worden gevoegd:
 
-- a. een kopie van de één of meer voor de medisch specialist voor 2015 geldende overeenkomsten op basis waarvan hij aanwezig was in een instelling ter uitoefening van zijn beroep;
+- a. een kopie van de één of meer voor de medisch specialist voor het kalenderjaar voorafgaand aan de overstapperiode geldende overeenkomsten op basis waarvan hij aanwezig was in een instelling ter uitoefening van zijn beroep;
 
-- b. documenten waaruit blijkt dat de medisch specialist in 2015 meer dan twintig uur per week aanwezig was in een instelling ter uitoefening van zijn beroep indien een dergelijke aanwezigheid niet blijkt uit de één of meer overeenkomsten, bedoeld in onderdeel a;
+- b. documenten waaruit blijkt dat de medisch specialist in het kalenderjaar voorafgaand aan de overstapperiode meer dan twintig uur per week aanwezig was in een instelling ter uitoefening van zijn beroep indien een dergelijke aanwezigheid niet blijkt uit de één of meer overeenkomsten, bedoeld in onderdeel a;
 
 - c. een kopie van de één of meer gesloten arbeidsovereenkomsten op basis waarvan de arts als medisch specialist werkzaam is of zal zijn;
 
@@ -134,25 +138,25 @@ De minister verstrekt de subsidie met het oog op de beëindiging na 31 december 
 
 - e. het tussen de medisch specialist en de zorgaanbieder, bedoeld in het eerste lid, overeengekomen schema van de betalingen door de zorgaanbieder aan de medisch specialist van het door de minister verleende voorschot.
 
-5. De aanvrager kan de aanvraag tot en met 30 juni 2016 aanvullen.
+5. De aanvrager kan de aanvraag tot en met 30 juni van het desbetreffende overstapjaar aanvullen.
 
 6. De minister maakt in de gevallen waarin hij met betrekking tot de aanvraag een besluit als bedoeld in [artikel 4:5, eerste lid, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:5), kan nemen, van die bevoegdheid gebruik.
 
 ##### Artikel 7. Besluit over subsidieverlening
 
-1. De minister besluit uiterlijk op 30 september 2016 over de subsidieverlening.
+1. De minister besluit uiterlijk op 30 september van het desbetreffende overstapjaar over de subsidieverlening.
 
-2. Onverminderd [artikel 4:35 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:35), weigert de minister de subsidieverlening indien hij de aanvraag na 29 februari 2016 heeft ontvangen.
+2. Onverminderd [artikel 4:35 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:35), weigert de minister de subsidieverlening indien hij de aanvraag na 28 februari van het desbetreffende overstapjaar heeft ontvangen.
 
 ##### Artikel 8. Voorschot
 
-1. De minister verleent in 2016 aan de subsidie-ontvanger een voorschot van € 80.000.
+1. De minister verleent in het overstapjaar aan de subsidie-ontvanger een voorschot van € 80.000.
 
-2. De betaling van het voorschot geschiedt aan de zorgaanbieder, bedoeld in [artikel 6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037303&artikel=6&z=2016-04-01&g=2017-01-01).
+2. De betaling van het voorschot geschiedt aan de zorgaanbieder, bedoeld in [artikel 6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037303&artikel=6&z=2017-01-19&g=2017-01-19).
 
 ##### Artikel 9. Aanvullende doelverplichtingen
 
-1. De subsidie-ontvanger is vanaf het tijdstip, bedoeld in [artikel 3, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0037303&artikel=3&z=2016-04-01&g=2017-01-01), tot en met 31 mei 2020 als medisch specialist uitsluitend op basis van één of meer arbeidsovereenkomsten met één of meer zorgaanbieders werkzaam.
+1. De subsidie-ontvanger is vanaf het tijdstip, bedoeld in [artikel 3, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0037303&artikel=3&z=2017-01-19&g=2017-01-19), tot en met 31 mei van het vierde jaar na het desbetreffende overstapjaar als medisch specialist uitsluitend op basis van één of meer arbeidsovereenkomsten met één of meer zorgaanbieders werkzaam.
 
 2. Er wordt voor de beëindiging van de hoedanigheid als vrijgevestigd medisch specialist, geen vergoeding door een derde verleend anders dan een onmiddellijke of middellijke vergoeding in de vorm van een geldsom van een zorgaanbieder waarmee hij een arbeidsovereenkomst heeft gesloten.
 
@@ -160,7 +164,7 @@ De minister verstrekt de subsidie met het oog op de beëindiging na 31 december 
 
 ##### Artikel 10. Aanvraag subsidievaststelling
 
-1. De zorgaanbieder respectievelijk een zorgaanbieder waarmee de medisch specialist een arbeidsovereenkomst heeft gesloten, dient namens de medisch specialist, een aanvraag tot vaststelling van de subsidie uiterlijk op 1 juli 2020 in.
+1. De zorgaanbieder respectievelijk een zorgaanbieder waarmee de medisch specialist een arbeidsovereenkomst heeft gesloten, dient namens de medisch specialist, een aanvraag tot vaststelling van de subsidie uiterlijk op 1 juli van het vierde jaar na het desbetreffende overstapjaar in.
 
 2. Voor de aanvraag wordt een door de minister vastgesteld formulier gebruikt.
 
@@ -170,27 +174,27 @@ De minister verstrekt de subsidie met het oog op de beëindiging na 31 december 
 
 5. Bij de aanvraag tot vaststelling van de subsidie worden gevoegd:
 
-- a. een kopie van de aangiften voor de inkomstenbelasting over het jaar 2016 en de daaropvolgende jaren, die de medisch specialist heeft gedaan;
+- a. een kopie van de aangiften voor de inkomstenbelasting over het overstapjaar en de daaropvolgende jaren, die de medisch specialist heeft gedaan;
 
-- b. indien de activiteiten als vrijgevestigd medisch specialist in een rechtspersoon waren ondergebracht een kopie van de aangiften voor de vennootschapsbelasting over het jaar 2016 en de daaropvolgende jaren die voor die rechtspersoon zijn gedaan;
+- b. indien de activiteiten als vrijgevestigd medisch specialist in een rechtspersoon waren ondergebracht een kopie van de aangiften voor de vennootschapsbelasting over het overstapjaar en de daaropvolgende jaren die voor die rechtspersoon zijn gedaan;
 
-- c. een kopie van de door de inspecteur vastgestelde aanslagen, bedoeld in [artikel 11 van de Algemene wet inzake rijksbelastingen](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=11) inzake de door de medisch specialist over het jaar 2016 en daaropvolgende jaren verschuldigde inkomstenbelasting en van de toelichting op de correcties op de aangiften;
+- c. een kopie van de door de inspecteur vastgestelde aanslagen, bedoeld in [artikel 11 van de Algemene wet inzake rijksbelastingen](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=11) inzake de door de medisch specialist over het overstapjaar en daaropvolgende jaren verschuldigde inkomstenbelasting en van de toelichting op de correcties op de aangiften;
 
-- d. een kopie van de door de inspecteur vastgestelde aanslagen, bedoeld in [artikel 11 van de Algemene wet inzake rijksbelastingen](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=11) inzake de door in onderdeel b bedoelde rechtspersoon over het jaar 2016 en daaropvolgende jaren verschuldigde vennootschapsbelasting en van de toelichting op de correcties op de aangiften;
+- d. een kopie van de door de inspecteur vastgestelde aanslagen, bedoeld in [artikel 11 van de Algemene wet inzake rijksbelastingen](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=11) inzake de door in onderdeel b bedoelde rechtspersoon over het overstapjaar en daaropvolgende jaren verschuldigde vennootschapsbelasting en van de toelichting op de correcties op de aangiften;
 
 - e. de machtiging, bedoeld in het derde lid, en
 
 - f. het tussen de medisch specialist en de zorgaanbieder, bedoeld in het eerste lid, overeengekomen schema van de betalingen van de door de minister vastgestelde subsidie.
 
-6. De kopieën, bedoeld in het vijfde lid, kunnen in afwijking van dat lid, uiterlijk op 1 juli 2020 ook afzonderlijk, door de medisch specialist aan de minister worden verstrekt.
+6. De kopieën, bedoeld in het vijfde lid, kunnen in afwijking van dat lid, uiterlijk op 1 juli van het vierde jaar na het desbetreffende overstapjaar ook afzonderlijk, door de medisch specialist aan de minister worden verstrekt.
 
 ##### Artikel 11. Besluit tot vaststelling van subsidie
 
-1. Binnen tweeëntwintig weken na ontvangst van de aanvraag tot vaststelling van de subsidie bedoeld in [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0037303&artikel=10&z=2016-04-01&g=2017-01-01) neemt de minister een besluit op de aanvraag.
+1. Binnen tweeëntwintig weken na ontvangst van de aanvraag tot vaststelling van de subsidie bedoeld in [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0037303&artikel=10&z=2017-01-19&g=2017-01-19) neemt de minister een besluit op de aanvraag.
 
 2. De minister vordert het onverschuldigd betaald voorschot terug.
 
-3. De minister verstrekt het deel van het vastgestelde subsidiebedrag dat na verrekening van het betaalde voorschot resteert, in één keer aan de zorgaanbieder, bedoeld in [artikel 10, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037303&artikel=10&z=2016-04-01&g=2017-01-01), respectievelijk de subsidie-ontvanger, bedoeld in het vierde lid van dat artikel.
+3. De minister verstrekt het deel van het vastgestelde subsidiebedrag dat na verrekening van het betaalde voorschot resteert, in één keer aan de zorgaanbieder, bedoeld in [artikel 10, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037303&artikel=10&z=2017-01-19&g=2017-01-19), respectievelijk de subsidie-ontvanger, bedoeld in het vierde lid van dat artikel.
 
 ##### Artikel 12. Wijziging Subsidieregeling overgang integrale tarieven medisch specialistische zorg
 
@@ -200,13 +204,13 @@ Wijzigt de Subsidieregeling overgang integrale tarieven medisch specialistische 
 
 1. Deze regeling treedt in werking met ingang van 1 januari 2016. Indien de Staatscourant waarin deze regeling wordt geplaatst, wordt uitgegeven na 31 december 2015, treedt zij in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst en werkt zij terug tot en met 1 januari 2016.
 
-2. Deze regeling vervalt met ingang van 1 januari 2021.
+2. Deze regeling vervalt met ingang van 1 januari 2024.
 
 3. Deze regeling blijft van toepassing op een subsidie die de minister krachtens deze regeling heeft verstrekt.
 
 ##### Artikel 14. Citeertitel
 
-Deze regeling wordt aangehaald als: Subsidieregeling overgang integrale tarieven medisch-specialistische zorg 2016.
+Deze regeling wordt aangehaald als: Subsidieregeling overgang integrale tarieven medisch-specialistische zorg 2017–2019.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
