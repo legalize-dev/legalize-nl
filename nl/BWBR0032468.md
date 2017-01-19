@@ -4,7 +4,7 @@ identifier: "BWBR0032468"
 country: "nl"
 rank: "beleidsregel"
 publication_date: "2017-01-19"
-last_updated: "2017-01-01"
+last_updated: "2017-01-19"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0032468"
 soort: "beleidsregel"
@@ -98,7 +98,7 @@ Bij de goedkeuring van het bestuursreglement op grond van [artikel 11 Kaderwet](
 
 - c. de minister besluit tot herbenoeming van het betreffende lid van de directie of gemotiveerd tot afwijzing.
 
-2. Indien uit het in het eerste lid, onderdeel a, genoemde overleg blijkt dat er bij de betrokkenen onvoldoende draagvlak bestaat voor de herbenoeming, of de minister besluit tot afwijzing, wordt de procedure van [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0032468&paragraaf=2&artikel=3&z=2013-01-01&g=2017-01-01) gevolgd.
+2. Indien uit het in het eerste lid, onderdeel a, genoemde overleg blijkt dat er bij de betrokkenen onvoldoende draagvlak bestaat voor de herbenoeming, of de minister besluit tot afwijzing, wordt de procedure van [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0032468&paragraaf=2&artikel=3&z=2017-01-19&g=2017-01-19) gevolgd.
 
 ##### Artikel 5. Schorsing en ontslag van de directie
 
@@ -154,11 +154,11 @@ Bij de goedkeuring van het reglement van de raad van toezicht op grond van artik
 
 - c. de minister besluit tot herbenoeming van het betreffende lid van de raad van toezicht of gemotiveerd tot afwijzing.
 
-2. Indien uit het in het eerste lid, onderdeel a, genoemde overleg blijkt dat er bij de betrokkenen onvoldoende draagvlak bestaat voor de herbenoeming, of de minister besluit tot afwijzing, wordt de procedure van [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0032468&paragraaf=3&artikel=8&z=2013-01-01&g=2017-01-01) gevolgd.
+2. Indien uit het in het eerste lid, onderdeel a, genoemde overleg blijkt dat er bij de betrokkenen onvoldoende draagvlak bestaat voor de herbenoeming, of de minister besluit tot afwijzing, wordt de procedure van [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0032468&paragraaf=3&artikel=8&z=2017-01-19&g=2017-01-19) gevolgd.
 
 #### § 4. Financieel toezicht
 
-##### Artikel 10. Tarieven voor taken of taakclusters op grond van de [artikelen 4aa, eerste lid, en derde lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=4aa), en [4am, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=4am), alsmede tarieven voor andere op basis van artikel 4aa, derde lid, onderdeel b, van de wet opgedragen taken, voor zover deze taken mede een andere basis hebben in of krachtens de [wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006622)
+##### Artikel 10. Tarieven voor taken of taakclusters op grond van de [artikelen 4aa, eerste lid, en derde lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=4aa), en [4am, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=4am), alsmede tarieven voor andere op basis van artikel 4aa, derde lid, onderdeel b, van de wet opgedragen taken, voor zover deze taken mede een andere basis hebben in of krachtens de [wet](onbekend)
 
 1. De kostprijzen die ten grondslag liggen aan de tarieven conform het [artikel 4aa, eerste lid, en derde lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=4aa), en [4am, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=4am), alsmede aan de tarieven voor andere opgedragen taken op basis van artikel 4aa, derde lid, onderdeel b, van de wet voor zover deze taken mede een andere basis hebben in of krachtens de wet, worden op basis van bedrijfseconomisch aanvaardbare verdeelsleutels bepaald.
 
@@ -172,7 +172,7 @@ Bij de goedkeuring van het reglement van de raad van toezicht op grond van artik
 
 - d. tijdelijke overdekking binnen een cluster van taken, dan wel tijdelijke kruissubsidiëring tussen clusters van taken.
 
-3. De tarieven moeten met ingang van het jaar 2017 per cluster van verwante taken kostendekkend zijn. Dit houdt in dat de tijdelijke overdekking als bedoeld in het tweede lid, onderdeel d, tot nihil moet zijn gereduceerd.
+3. De tarieven zijn met ingang van het jaar 2020 per cluster van verwante taken kostendekkend. Van de eerste volzin kan worden afgeweken, indien het CBR op basis van een audit aantoont dat het nog niet mogelijk is deze kostendekkendheid te realiseren. In dat geval wordt deze audit elk jaar herhaald tot het moment dat het mogelijk blijkt kostendekkendheid te realiseren. Met ingang van het jaar volgend op dat moment zijn de tarieven per cluster van verwante taken kostendekkend.
 
 4. Het migratietraject naar kostendekkendheid moet een realistisch beeld over de jaren vertonen.
 
@@ -198,7 +198,7 @@ Bij de goedkeuring van het reglement van de raad van toezicht op grond van artik
 
 - f. de invloed van loon- en prijsontwikkelingen;
 
-- g. de in [artikel 10, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032468&paragraaf=4&artikel=10&z=2013-01-01&g=2017-01-01), genoemde componenten van dit tarief;
+- g. de in [artikel 10, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032468&paragraaf=4&artikel=10&z=2017-01-19&g=2017-01-19), genoemde componenten van dit tarief;
 
 - h. de reactie van de gebruikers, zoals weergegeven door het zbo;
 
@@ -218,7 +218,7 @@ Bij de goedkeuring van het reglement van de raad van toezicht op grond van artik
 
 - p. de wijze waarop de tarieven zich verhouden tot de tarieven van het jaar ervoor.
 
-2. Om de minister in staat te stellen de beoordeling als genoemd in het eerste lid, uit te voeren, voegt het zbo bij het in het eerste lid bedoelde voorstel een toelichting die aansluit op de [artikelen 10](https://wetten.overheid.nl/jci1.3:c:BWBR0032468&paragraaf=4&artikel=10&z=2013-01-01&g=2017-01-01) en [11](https://wetten.overheid.nl/jci1.3:c:BWBR0032468&paragraaf=4&artikel=11&z=2013-01-01&g=2017-01-01) en ingaat op de consequenties van het streven naar kostendekkendheid per taak of taakcluster.
+2. Om de minister in staat te stellen de beoordeling als genoemd in het eerste lid, uit te voeren, voegt het zbo bij het in het eerste lid bedoelde voorstel een toelichting die aansluit op de [artikelen 10](https://wetten.overheid.nl/jci1.3:c:BWBR0032468&paragraaf=4&artikel=10&z=2017-01-19&g=2017-01-19) en [11](https://wetten.overheid.nl/jci1.3:c:BWBR0032468&paragraaf=4&artikel=11&z=2017-01-19&g=2017-01-19) en ingaat op de consequenties van het streven naar kostendekkendheid per taak of taakcluster.
 
 3. Om de minister in staat te stellen de rechtmatigheid van de tarieven als bedoeld in het eerste lid, onderdeel a, te beoordelen, vermeldt het zbo bij het in het eerste lid bedoelde voorstel bij ieder tarief de wettelijke grondslag.
 
@@ -280,7 +280,7 @@ De minister vormt zich een oordeel over de kwaliteit van de taakuitoefening van 
 
 - b. de regelmatig door het zbo gehouden klant- en medewerkerstevredenheidsonderzoeken;
 
-- c. de kernprestatie-indicatoren zoals bedoeld in [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBR0032468&paragraaf=5&artikel=15&z=2013-01-01&g=2017-01-01).
+- c. de kernprestatie-indicatoren zoals bedoeld in [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBR0032468&paragraaf=5&artikel=15&z=2017-01-19&g=2017-01-19).
 
 #### § 6. Opdracht tot en inkadering van taken en activiteiten
 
