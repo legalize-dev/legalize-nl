@@ -4,7 +4,7 @@ identifier: "BWBR0037925"
 country: "nl"
 rank: "zbo"
 publication_date: "2025-05-08"
-last_updated: "2016-07-09"
+last_updated: "2017-01-21"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0037925"
 soort: "zbo"
@@ -54,7 +54,7 @@ Meetinrichtingen voldoen ten minste aan de daaraan in of krachtens de [wet](http
 
 ##### 1.1.3
 
-De in deze code gebruikte begrippen die ook in de [Gaswet](https://wetten.overheid.nl/jci1.3:c:BWBR0011440) worden gebruikt, hebben de betekenis die daaraan in de Gaswet is toegekend. Van de overige in deze code gebruikte begrippen is de betekenis vastgelegd in de [Begrippencode gas](https://wetten.overheid.nl/jci1.3:c:BWBR0037923&wetgeving) behorende bij de voorwaarden bedoeld in [artikel 12b van de Gaswet](https://wetten.overheid.nl/jci1.3:c:BWBR0011440&artikel=12b).
+De in deze code gebruikte begrippen die ook in de [Gaswet](https://wetten.overheid.nl/jci1.3:c:BWBR0011440) worden gebruikt, hebben de betekenis die daaraan in de Gaswet is toegekend. Van de overige in deze code gebruikte begrippen is de betekenis vastgelegd in de [Begrippencode gas](https://wetten.overheid.nl/jci1.3:c:BWBR0037923) behorende bij de voorwaarden bedoeld in [artikel 12b van de Gaswet](https://wetten.overheid.nl/jci1.3:c:BWBR0011440&artikel=12b).
 
 ##### 1.1.4
 
@@ -82,7 +82,7 @@ De regionale netbeheerder verstrekt aan de meterplaatser op diens verzoek:
 
 - b. het recht om verzegelingen die door of vanwege de regionale netbeheerder zijn aangebracht te schenden of verbreken indien dit noodzakelijk is voor het uitvoeren van werkzaamheden aan of in de onmiddellijke nabijheid van de aansluiting, die verband houden met de plaatsing van meetinrichtingen;
 
-- c. het recht om namens de regionale netbeheerder verzegelingen aan te brengen conform de in [4.1.2](https://wetten.overheid.nl/jci1.3:c:BWBR0037925&hoofdstuk=4&paragraaf=4.2&sub-paragraaf=4.2.1&z=2016-07-09&g=2016-07-09) genoemde voorwaarden.
+- c. het recht om namens de regionale netbeheerder verzegelingen aan te brengen conform de in [4.1.2](https://wetten.overheid.nl/jci1.3:c:BWBR0037925&hoofdstuk=4&paragraaf=4.2&sub-paragraaf=4.2.1&z=2017-01-21&g=2017-01-21) genoemde voorwaarden.
 
 #### 1.2.3. Het overdragen van meetverantwoordelijkheid
 
@@ -92,11 +92,11 @@ Tot het uitoefenen van meetverantwoordelijkheid voor een grootverbruikaansluitin
 
 ##### 1.2.3.2
 
-Per grootverbruikaansluiting is er één meetverantwoordelijke voor alle uit de [hoofdstukken 4](https://wetten.overheid.nl/jci1.3:c:BWBR0037925&hoofdstuk=4&z=2016-07-09&g=2016-07-09), [5](https://wetten.overheid.nl/jci1.3:c:BWBR0037925&hoofdstuk=5&z=2016-07-09&g=2016-07-09) en [6](https://wetten.overheid.nl/jci1.3:c:BWBR0037925&hoofdstuk=6&z=2016-07-09&g=2016-07-09) van deze code voortvloeiende werkzaamheden.
+Per grootverbruikaansluiting is er één meetverantwoordelijke voor alle uit de [hoofdstukken 4](https://wetten.overheid.nl/jci1.3:c:BWBR0037925&hoofdstuk=4&z=2017-01-21&g=2017-01-21), [5](https://wetten.overheid.nl/jci1.3:c:BWBR0037925&hoofdstuk=5&z=2017-01-21&g=2017-01-21) en [6](https://wetten.overheid.nl/jci1.3:c:BWBR0037925&hoofdstuk=6&z=2017-01-21&g=2017-01-21) van deze code voortvloeiende werkzaamheden.
 
 ##### 1.2.3.3
 
-Een aangeslotene die de meetverantwoordelijkheid voor zijn grootverbruikaansluiting(en) niet zelf uitoefent, draagt die meetverantwoordelijkheid over aan een in [1.2.3.1](https://wetten.overheid.nl/jci1.3:c:BWBR0037925&hoofdstuk=1&paragraaf=1.2&sub-paragraaf=1.2.3&artikel=1.2.3.1&z=2016-07-09&g=2016-07-09) bedoelde persoon.
+Een aangeslotene die de meetverantwoordelijkheid voor zijn grootverbruikaansluiting(en) niet zelf uitoefent, draagt die meetverantwoordelijkheid over aan een in [1.2.3.1](https://wetten.overheid.nl/jci1.3:c:BWBR0037925&hoofdstuk=1&paragraaf=1.2&sub-paragraaf=1.2.3&artikel=1.2.3.1&z=2017-01-21&g=2017-01-21) bedoelde persoon.
 
 ##### 1.2.3.4
 
@@ -132,7 +132,7 @@ Telemetriegrootverbruikers hebben tien werkdagen de tijd om een nieuwe meetveran
 
 ##### 1.2.5.3
 
-Indien de aangeslotene niet zelf binnen de in [1.2.5.2](https://wetten.overheid.nl/jci1.3:c:BWBR0037925&hoofdstuk=1&paragraaf=1.2&sub-paragraaf=1.2.5&artikel=1.2.5.2&z=2016-07-09&g=2016-07-09) genoemde termijn een nieuwe meetverantwoordelijke aanwijst, wijst de regionale netbeheerder voor de aangeslotene een nieuwe meetverantwoordelijke aan.
+Indien de aangeslotene niet zelf binnen de in [1.2.5.2](https://wetten.overheid.nl/jci1.3:c:BWBR0037925&hoofdstuk=1&paragraaf=1.2&sub-paragraaf=1.2.5&artikel=1.2.5.2&z=2017-01-21&g=2017-01-21) genoemde termijn een nieuwe meetverantwoordelijke aanwijst, wijst de regionale netbeheerder voor de aangeslotene een nieuwe meetverantwoordelijke aan.
 
 ##### 1.2.5.4
 
@@ -144,17 +144,17 @@ Onverwijld nadat hij bericht heeft ontvangen van de intrekking van de erkenning 
 
 - c. de aangeslotene verplicht is er alles aan te doen om te voorkomen dat zolang de vangnetregeling van toepassing is, de meetinrichting en de eventueel daarbij behorende communicatiemiddelen worden verwijderd of gewijzigd of niet meer functioneren of kunnen functioneren;
 
-- d. de aangeslotene de gelegenheid heeft om binnen de in [1.2.5.2](https://wetten.overheid.nl/jci1.3:c:BWBR0037925&hoofdstuk=1&paragraaf=1.2&sub-paragraaf=1.2.5&artikel=1.2.5.2&z=2016-07-09&g=2016-07-09) genoemde termijn een nieuwe meetverantwoordelijke aan te wijzen;
+- d. de aangeslotene de gelegenheid heeft om binnen de in [1.2.5.2](https://wetten.overheid.nl/jci1.3:c:BWBR0037925&hoofdstuk=1&paragraaf=1.2&sub-paragraaf=1.2.5&artikel=1.2.5.2&z=2017-01-21&g=2017-01-21) genoemde termijn een nieuwe meetverantwoordelijke aan te wijzen;
 
-- e. indien de aangeslotene niet zelf binnen de in [1.2.5.2](https://wetten.overheid.nl/jci1.3:c:BWBR0037925&hoofdstuk=1&paragraaf=1.2&sub-paragraaf=1.2.5&artikel=1.2.5.2&z=2016-07-09&g=2016-07-09) genoemde termijn een nieuwe meetverantwoordelijke aanwijst, de regionale netbeheerder voor de aangeslotene een nieuwe meetverantwoordelijke aanwijst, waarbij de regionale netbeheerder ten behoeve van de aangeslotene aangeeft wat de tarieven en voorwaarden zijn die door de door hem aan te wijzen meetverantwoordelijke worden gehanteerd, dan wel aangeeft op welke wijze deze tarieven en voorwaarden voor de aangeslotene toegankelijk zijn.
+- e. indien de aangeslotene niet zelf binnen de in [1.2.5.2](https://wetten.overheid.nl/jci1.3:c:BWBR0037925&hoofdstuk=1&paragraaf=1.2&sub-paragraaf=1.2.5&artikel=1.2.5.2&z=2017-01-21&g=2017-01-21) genoemde termijn een nieuwe meetverantwoordelijke aanwijst, de regionale netbeheerder voor de aangeslotene een nieuwe meetverantwoordelijke aanwijst, waarbij de regionale netbeheerder ten behoeve van de aangeslotene aangeeft wat de tarieven en voorwaarden zijn die door de door hem aan te wijzen meetverantwoordelijke worden gehanteerd, dan wel aangeeft op welke wijze deze tarieven en voorwaarden voor de aangeslotene toegankelijk zijn.
 
 ##### 1.2.5.5
 
-Indien mogelijk treft de regionale netbeheerder bij aangeslotenen met een telemetriegrootverbruikmeetinrichting, waarbij de verzameling van meetgegevens, zoals bedoeld in [5.3.1](https://wetten.overheid.nl/jci1.3:c:BWBR0037925&hoofdstuk=5&paragraaf=5.3&artikel=5.3.1&z=2016-07-09&g=2016-07-09), en de overdracht van meetgegevens, zoals bedoeld in [6.4.2 van de Informatiecode Elektriciteit en Gas](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&sub-paragraaf=6.4.2), ondanks de intrekking van de erkenning van de meetverantwoordelijke correct blijven functioneren, een regeling met de desbetreffende programmaverantwoordelijke om de desbetreffende meetgegevens te gebruiken zolang de vangnetregeling van toepassing is.
+Indien mogelijk treft de regionale netbeheerder bij aangeslotenen met een telemetriegrootverbruikmeetinrichting, waarbij de verzameling van meetgegevens, zoals bedoeld in [5.3.1](https://wetten.overheid.nl/jci1.3:c:BWBR0037925&hoofdstuk=5&paragraaf=5.3&artikel=5.3.1&z=2017-01-21&g=2017-01-21), en de overdracht van meetgegevens, zoals bedoeld in [6.4.2 van de Informatiecode Elektriciteit en Gas](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&sub-paragraaf=6.4.2), ondanks de intrekking van de erkenning van de meetverantwoordelijke correct blijven functioneren, een regeling met de desbetreffende programmaverantwoordelijke om de desbetreffende meetgegevens te gebruiken zolang de vangnetregeling van toepassing is.
 
 ##### 1.2.5.6
 
-Indien de in [1.2.5.5](https://wetten.overheid.nl/jci1.3:c:BWBR0037925&hoofdstuk=1&paragraaf=1.2&sub-paragraaf=1.2.5&artikel=1.2.5.5&z=2016-07-09&g=2016-07-09) genoemde oplossing niet mogelijk is, worden, zolang de vangnetregeling van toepassing is, de meetgegevens ten behoeve van de allocatie, voor aansluitingen met een telemetriegrootverbruikmeetinrichting, vastgesteld op basis van:
+Indien de in [1.2.5.5](https://wetten.overheid.nl/jci1.3:c:BWBR0037925&hoofdstuk=1&paragraaf=1.2&sub-paragraaf=1.2.5&artikel=1.2.5.5&z=2017-01-21&g=2017-01-21) genoemde oplossing niet mogelijk is, worden, zolang de vangnetregeling van toepassing is, de meetgegevens ten behoeve van de allocatie, voor aansluitingen met een telemetriegrootverbruikmeetinrichting, vastgesteld op basis van:
 
 - a. het jaarverbruik van de voorafgaande periode en
 
@@ -162,11 +162,11 @@ Indien de in [1.2.5.5](https://wetten.overheid.nl/jci1.3:c:BWBR0037925&hoofdstuk
 
 ##### 1.2.5.7
 
-Het in [1.2.5.6](https://wetten.overheid.nl/jci1.3:c:BWBR0037925&hoofdstuk=1&paragraaf=1.2&sub-paragraaf=1.2.5&artikel=1.2.5.6&z=2016-07-09&g=2016-07-09) bedoelde, op historische meetgegevens gebaseerde profiel wordt door de regionale netbeheerder vastgesteld na overleg met de aangeslotene.
+Het in [1.2.5.6](https://wetten.overheid.nl/jci1.3:c:BWBR0037925&hoofdstuk=1&paragraaf=1.2&sub-paragraaf=1.2.5&artikel=1.2.5.6&z=2017-01-21&g=2017-01-21) bedoelde, op historische meetgegevens gebaseerde profiel wordt door de regionale netbeheerder vastgesteld na overleg met de aangeslotene.
 
 ##### 1.2.5.8
 
-Indien voor het in [1.2.5.6](https://wetten.overheid.nl/jci1.3:c:BWBR0037925&hoofdstuk=1&paragraaf=1.2&sub-paragraaf=1.2.5&artikel=1.2.5.6&z=2016-07-09&g=2016-07-09) bedoelde profiel geen gebruik gemaakt kan worden van historische meetgegevens wordt gebruik gemaakt van een, door de gezamenlijke netbeheerders en de programma-verantwoordelijken vooraf vastgesteld, noodprofiel.
+Indien voor het in [1.2.5.6](https://wetten.overheid.nl/jci1.3:c:BWBR0037925&hoofdstuk=1&paragraaf=1.2&sub-paragraaf=1.2.5&artikel=1.2.5.6&z=2017-01-21&g=2017-01-21) bedoelde profiel geen gebruik gemaakt kan worden van historische meetgegevens wordt gebruik gemaakt van een, door de gezamenlijke netbeheerders en de programma-verantwoordelijken vooraf vastgesteld, noodprofiel.
 
 ##### 1.2.5.9
 
@@ -174,7 +174,7 @@ Zolang de vangnetregeling van toepassing is, is de meetverantwoordelijke wiens e
 
 ##### 1.2.5.10
 
-In het geval de meetverantwoordelijke in faillissement verkeert of surseance van betaling is verleend, wijst de MV-erkenner de curator respectievelijk bewindvoerder op de verplichting zoals genoemd in [1.2.5.9.](https://wetten.overheid.nl/jci1.3:c:BWBR0037925&hoofdstuk=1&paragraaf=1.2&sub-paragraaf=1.2.5&artikel=1.2.5.9&z=2016-07-09&g=2016-07-09) Zo nodig stelt de MV-erkenner zich garant voor de eventuele kosten hiervan, maximaal gedurende de periode dat de vangnetregeling van toepassing is.
+In het geval de meetverantwoordelijke in faillissement verkeert of surseance van betaling is verleend, wijst de MV-erkenner de curator respectievelijk bewindvoerder op de verplichting zoals genoemd in [1.2.5.9.](https://wetten.overheid.nl/jci1.3:c:BWBR0037925&hoofdstuk=1&paragraaf=1.2&sub-paragraaf=1.2.5&artikel=1.2.5.9&z=2017-01-21&g=2017-01-21) Zo nodig stelt de MV-erkenner zich garant voor de eventuele kosten hiervan, maximaal gedurende de periode dat de vangnetregeling van toepassing is.
 
 ##### 1.2.5.11
 
@@ -186,7 +186,7 @@ Indien er sprake is van een telemetriegrootverbruikmeetinrichting, stelt de nieu
 
 ##### 1.2.5.13
 
-Indien er geen sprake is van een telemetriegrootverbruikmeetinrichting en indien de dataverzameling als bedoeld in [5.2.1](https://wetten.overheid.nl/jci1.3:c:BWBR0037925&hoofdstuk=5&paragraaf=5.2&artikel=5.2.1&z=2016-07-09&g=2016-07-09) of [5.2.2](https://wetten.overheid.nl/jci1.3:c:BWBR0037925&hoofdstuk=5&paragraaf=5.2&artikel=5.2.2&z=2016-07-09&g=2016-07-09) plaats zou moeten vinden in de periode waarin de vangnetregeling van toepassing is, wordt deze datacollectie opgeschort en vindt deze plaats binnen een maand nadat de nieuwe meetverantwoordelijke is aangewezen.
+Indien er geen sprake is van een telemetriegrootverbruikmeetinrichting en indien de dataverzameling als bedoeld in [5.2.1](https://wetten.overheid.nl/jci1.3:c:BWBR0037925&hoofdstuk=5&paragraaf=5.2&artikel=5.2.1&z=2017-01-21&g=2017-01-21) of [5.2.2](https://wetten.overheid.nl/jci1.3:c:BWBR0037925&hoofdstuk=5&paragraaf=5.2&artikel=5.2.2&z=2017-01-21&g=2017-01-21) plaats zou moeten vinden in de periode waarin de vangnetregeling van toepassing is, wordt deze datacollectie opgeschort en vindt deze plaats binnen een maand nadat de nieuwe meetverantwoordelijke is aangewezen.
 
 ### 2. Keuze van meetinrichting en aanwijzing meterbeheerder
 
@@ -194,11 +194,11 @@ Indien er geen sprake is van een telemetriegrootverbruikmeetinrichting en indien
 
 ##### 2.1.1
 
-De bepalingen van [hoofdstuk 2](https://wetten.overheid.nl/jci1.3:c:BWBR0037925&hoofdstuk=2&z=2016-07-09&g=2016-07-09) zijn van toepassing op meetinrichtingen in het overdrachtspunt van de aansluiting van aangeslotenen niet zijnde een regionale netbeheerder en in de netkoppeling.
+De bepalingen van [hoofdstuk 2](https://wetten.overheid.nl/jci1.3:c:BWBR0037925&hoofdstuk=2&z=2017-01-21&g=2017-01-21) zijn van toepassing op meetinrichtingen in het overdrachtspunt van de aansluiting van aangeslotenen niet zijnde een regionale netbeheerder en in de netkoppeling.
 
 ##### 2.1.2
 
-Meetinrichtingen in het overdrachtspunt van een aansluiting op een gastransportnet waarvan de gasdruk hoger is dan 8 bar (overdruk) on meetinrichtingen in het overdrachtspunt tussen twee gastransportnetten waarbij de gasdruk in den of beide gastransportnetten hoger is dan 8 bar (overdruk) voldoen aan de technische eisen genoemd in de [Meetcode gas LNB](https://wetten.overheid.nl/jci1.3:c:BWBR0037935&wetgeving).
+Meetinrichtingen in het overdrachtspunt van een aansluiting op een gastransportnet waarvan de gasdruk hoger is dan 8 bar (overdruk) on meetinrichtingen in het overdrachtspunt tussen twee gastransportnetten waarbij de gasdruk in den of beide gastransportnetten hoger is dan 8 bar (overdruk) voldoen aan de technische eisen genoemd in de [Meetcode gas LNB](https://wetten.overheid.nl/jci1.3:c:BWBR0037935).
 
 #### 2.2. Meetinrichting in het overdrachtspunt van een aansluiting met een totale maximale capaciteit van ten hoogste 40 m3(n) per uur
 
@@ -210,15 +210,15 @@ In het (de) overdrachtspunt(en) van een aansluiting met een totale maximale capa
 
 ##### 2.3.1
 
-Een aansluiting, waarop de aangeslotene conform [4.3.1.3](https://wetten.overheid.nl/jci1.3:c:BWBR0037931&artikel=4.3.1.3) of [4.3.1.8 van de Allocatiecode gas](https://wetten.overheid.nl/jci1.3:c:BWBR0037931&artikel=4.3.1.8) de afnamecategorie GGV respectievelijk GIS toegekend heeft gekregen, alsmede een netkoppeling tussen twee regionale gastransportnetten zoals bedoeld in [B5.2.4 van de Allocatiecode gas](537789), dient een uurlijks uitleesbare telemetriegrootverbruikmeetinrichting, zoals beschreven in [4.3.4](https://wetten.overheid.nl/jci1.3:c:BWBR0037925&hoofdstuk=4&paragraaf=4.3&sub-paragraaf=4.3.4&z=2016-07-09&g=2016-07-09) te hebben.
+Een aansluiting, waarop de aangeslotene conform [4.3.1.3](https://wetten.overheid.nl/jci1.3:c:BWBR0037931&artikel=4.3.1.3) of [4.3.1.8 van de Allocatiecode gas](https://wetten.overheid.nl/jci1.3:c:BWBR0037931&artikel=4.3.1.8) de afnamecategorie GGV respectievelijk GIS toegekend heeft gekregen, alsmede een netkoppeling tussen twee regionale gastransportnetten zoals bedoeld in [B5.2.4 van de Allocatiecode gas](onbekend), dient een uurlijks uitleesbare telemetriegrootverbruikmeetinrichting, zoals beschreven in [4.3.4](https://wetten.overheid.nl/jci1.3:c:BWBR0037925&hoofdstuk=4&paragraaf=4.3&sub-paragraaf=4.3.4&z=2017-01-21&g=2017-01-21) te hebben.
 
 ##### 2.3.2
 
-Een aansluiting, waarop de aangeslotene conform [4.3.1.5](https://wetten.overheid.nl/jci1.3:c:BWBR0037931&artikel=4.3.1.5) of [4.3.1.10 van de Allocatiecode gas](https://wetten.overheid.nl/jci1.3:c:BWBR0037931&artikel=4.3.1.10) de afnamecategorie GXX respectievelijk GIN toegekend heeft gekregen, dient een dagelijks uitleesbare of een uurlijks uitleesbare telemetriegrootverbruikmeetinrichting, zoals beschreven in [4.3.4](https://wetten.overheid.nl/jci1.3:c:BWBR0037925&hoofdstuk=4&paragraaf=4.3&sub-paragraaf=4.3.4&z=2016-07-09&g=2016-07-09) te hebben.
+Een aansluiting, waarop de aangeslotene conform [4.3.1.5](https://wetten.overheid.nl/jci1.3:c:BWBR0037931&artikel=4.3.1.5) of [4.3.1.10 van de Allocatiecode gas](https://wetten.overheid.nl/jci1.3:c:BWBR0037931&artikel=4.3.1.10) de afnamecategorie GXX respectievelijk GIN toegekend heeft gekregen, dient een minimaal maandelijks uitleesbare of een uurlijks uitleesbare telemetriegrootverbruikmeetinrichting, zoals beschreven in [4.3.4](https://wetten.overheid.nl/jci1.3:c:BWBR0037925&hoofdstuk=4&paragraaf=4.3&sub-paragraaf=4.3.4&z=2017-01-21&g=2017-01-21) te hebben.
 
 ##### 2.3.3
 
-Een aansluiting, waarop de aangeslotene conform [4.3.1.7 van de Allocatiecode gas](https://wetten.overheid.nl/jci1.3:c:BWBR0037931&artikel=4.3.1.7) de afnamecategorie G2C toegekend heeft gekregen, dient een profielgrootverbruikmeetinrichting zoals beschreven in [4.3.3](https://wetten.overheid.nl/jci1.3:c:BWBR0037925&hoofdstuk=4&paragraaf=4.3&sub-paragraaf=4.3.3&z=2016-07-09&g=2016-07-09), een dagelijks uitleesbare of een uurlijks uitleesbare telemetriegrootverbruikmeetinrichting, zoals beschreven in[4.3.4](https://wetten.overheid.nl/jci1.3:c:BWBR0037925&hoofdstuk=4&paragraaf=4.3&sub-paragraaf=4.3.4&z=2016-07-09&g=2016-07-09) te hebben.
+Een aansluiting, waarop de aangeslotene conform [4.3.1.7 van de Allocatiecode gas](https://wetten.overheid.nl/jci1.3:c:BWBR0037931&artikel=4.3.1.7) de afnamecategorie G2C toegekend heeft gekregen, dient een profielgrootverbruikmeetinrichting zoals beschreven in [4.3.3](https://wetten.overheid.nl/jci1.3:c:BWBR0037925&hoofdstuk=4&paragraaf=4.3&sub-paragraaf=4.3.3&z=2017-01-21&g=2017-01-21), een dagelijks uitleesbare of een uurlijks uitleesbare telemetriegrootverbruikmeetinrichting, zoals beschreven in[4.3.4](https://wetten.overheid.nl/jci1.3:c:BWBR0037925&hoofdstuk=4&paragraaf=4.3&sub-paragraaf=4.3.4&z=2017-01-21&g=2017-01-21) te hebben.
 
 #### 2.4. Aanwijzing meterbeheerder
 
@@ -244,7 +244,7 @@ Er is sprake van prioriteitsplaatsing indien de aangeslotene op zijn verzoek of 
 
 ##### 3.1.2
 
-Indien de aangeslotene dit verzoekt, komt hij in aanmerking voor een prioriteitsplaatsing. Voor de aanvraag van een prioriteitsplaatsing is [paragraaf 3.2](https://wetten.overheid.nl/jci1.3:c:BWBR0037925&hoofdstuk=3&paragraaf=3.2&z=2016-07-09&g=2016-07-09) van toepassing.
+Indien de aangeslotene dit verzoekt, komt hij in aanmerking voor een prioriteitsplaatsing. Voor de aanvraag van een prioriteitsplaatsing is [paragraaf 3.2](https://wetten.overheid.nl/jci1.3:c:BWBR0037925&hoofdstuk=3&paragraaf=3.2&z=2017-01-21&g=2017-01-21) van toepassing.
 
 ##### 3.1.3
 
@@ -252,11 +252,11 @@ Er is sprake van een plaatsing door derden van een op afstand uitleesbare kleinv
 
 ##### 3.1.4
 
-Voor het op verzoek van de aangeslotene door een ander dan de regionale netbeheerder ter beschikking stellen van een door de regionale netbeheerder te leveren op afstand uitleesbare kleinverbruikmeetinrichting, is [paragraaf 3.3](https://wetten.overheid.nl/jci1.3:c:BWBR0037925&hoofdstuk=3&paragraaf=3.3&z=2016-07-09&g=2016-07-09) van toepassing.
+Voor het op verzoek van de aangeslotene door een ander dan de regionale netbeheerder ter beschikking stellen van een door de regionale netbeheerder te leveren op afstand uitleesbare kleinverbruikmeetinrichting, is [paragraaf 3.3](https://wetten.overheid.nl/jci1.3:c:BWBR0037925&hoofdstuk=3&paragraaf=3.3&z=2017-01-21&g=2017-01-21) van toepassing.
 
 ##### 3.1.5
 
-Voor het op verzoek van de aangeslotene door een ander dan de regionale netbeheerder ter beschikking stellen van een niet door de regionale netbeheerder te leveren op afstand uitleesbare kleinverbruikmeetinrichting, is [paragraaf 3.4](https://wetten.overheid.nl/jci1.3:c:BWBR0037925&hoofdstuk=3&paragraaf=3.4&z=2016-07-09&g=2016-07-09) van toepassing.
+Voor het op verzoek van de aangeslotene door een ander dan de regionale netbeheerder ter beschikking stellen van een niet door de regionale netbeheerder te leveren op afstand uitleesbare kleinverbruikmeetinrichting, is [paragraaf 3.4](https://wetten.overheid.nl/jci1.3:c:BWBR0037925&hoofdstuk=3&paragraaf=3.4&z=2017-01-21&g=2017-01-21) van toepassing.
 
 #### 3.2. Procedure prioriteitsplaatsing
 
@@ -288,15 +288,15 @@ De regionale netbeheerder controleert:
 
 ##### 3.2.3
 
-Het resultaat van de in [3.2.2](https://wetten.overheid.nl/jci1.3:c:BWBR0037925&hoofdstuk=3&paragraaf=3.2&artikel=3.2.2&z=2016-07-09&g=2016-07-09) genoemde vaststelling wordt binnen vijf werkdagen na de in [3.2.1](https://wetten.overheid.nl/jci1.3:c:BWBR0037925&hoofdstuk=3&paragraaf=3.2&artikel=3.2.1&z=2016-07-09&g=2016-07-09) bedoelde aanvraag meegedeeld aan de aangeslotene of diens gemachtigde. Indien niet aan alle in 3.2.2 genoemde criteria wordt voldaan, wordt de procedure prioriteitsplaatsing gestopt.
+Het resultaat van de in [3.2.2](https://wetten.overheid.nl/jci1.3:c:BWBR0037925&hoofdstuk=3&paragraaf=3.2&artikel=3.2.2&z=2017-01-21&g=2017-01-21) genoemde vaststelling wordt binnen vijf werkdagen na de in [3.2.1](https://wetten.overheid.nl/jci1.3:c:BWBR0037925&hoofdstuk=3&paragraaf=3.2&artikel=3.2.1&z=2017-01-21&g=2017-01-21) bedoelde aanvraag meegedeeld aan de aangeslotene of diens gemachtigde. Indien niet aan alle in 3.2.2 genoemde criteria wordt voldaan, wordt de procedure prioriteitsplaatsing gestopt.
 
 ##### 3.2.4
 
-De regionale netbeheerder neemt binnen drie maanden na de in [3.2.1](https://wetten.overheid.nl/jci1.3:c:BWBR0037925&hoofdstuk=3&paragraaf=3.2&artikel=3.2.1&z=2016-07-09&g=2016-07-09) bedoelde aanvraag de oude meetinrichting weg en plaatst de nieuwe op afstand uitleesbare kleinverbruikmeetinrichting.
+De regionale netbeheerder neemt binnen drie maanden na de in [3.2.1](https://wetten.overheid.nl/jci1.3:c:BWBR0037925&hoofdstuk=3&paragraaf=3.2&artikel=3.2.1&z=2017-01-21&g=2017-01-21) bedoelde aanvraag de oude meetinrichting weg en plaatst de nieuwe op afstand uitleesbare kleinverbruikmeetinrichting.
 
 ##### 3.2.5
 
-De in [3.2.4](https://wetten.overheid.nl/jci1.3:c:BWBR0037925&hoofdstuk=3&paragraaf=3.2&artikel=3.2.4&z=2016-07-09&g=2016-07-09) genoemde verplichting van de regionale netbeheerder vervalt indien het niet lukt om in de in 3.2.4 genoemde periode een afspraak over de plaatsing te maken met de aangeslotene of indien de aangeslotene zich niet houdt aan de gemaakte afspraak.
+De in [3.2.4](https://wetten.overheid.nl/jci1.3:c:BWBR0037925&hoofdstuk=3&paragraaf=3.2&artikel=3.2.4&z=2017-01-21&g=2017-01-21) genoemde verplichting van de regionale netbeheerder vervalt indien het niet lukt om in de in 3.2.4 genoemde periode een afspraak over de plaatsing te maken met de aangeslotene of indien de aangeslotene zich niet houdt aan de gemaakte afspraak.
 
 ##### 3.2.6
 
@@ -332,15 +332,15 @@ De regionale netbeheerder controleert of:
 
 ##### 3.3.3
 
-Het resultaat van de in [3.3.2](https://wetten.overheid.nl/jci1.3:c:BWBR0037925&hoofdstuk=3&paragraaf=3.3&artikel=3.3.2&z=2016-07-09&g=2016-07-09) genoemde vaststelling wordt binnen vijf werkdagen na de in [3.3.1](https://wetten.overheid.nl/jci1.3:c:BWBR0037925&hoofdstuk=3&paragraaf=3.3&artikel=3.3.1&z=2016-07-09&g=2016-07-09) bedoelde melding meegedeeld aan de ander dan de regionale netbeheerder die op verzoek van de aangeslotene conform [artikel 13d, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011440&artikel=13d), of [artikel 13e, zevende lid, van de Wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011440&artikel=13e), er zorg voor draagt dat de aangeslotene beschikt over een op afstand uitleesbare kleinverbruikmeetinrichting. Indien niet aan alle in 3.3.2 genoemde criteria wordt voldaan, wordt de procedure plaatsing door derden van een door de regionale netbeheerder geleverde meetinrichting gestopt.
+Het resultaat van de in [3.3.2](https://wetten.overheid.nl/jci1.3:c:BWBR0037925&hoofdstuk=3&paragraaf=3.3&artikel=3.3.2&z=2017-01-21&g=2017-01-21) genoemde vaststelling wordt binnen vijf werkdagen na de in [3.3.1](https://wetten.overheid.nl/jci1.3:c:BWBR0037925&hoofdstuk=3&paragraaf=3.3&artikel=3.3.1&z=2017-01-21&g=2017-01-21) bedoelde melding meegedeeld aan de ander dan de regionale netbeheerder die op verzoek van de aangeslotene conform [artikel 13d, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011440&artikel=13d), of [artikel 13e, zevende lid, van de Wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011440&artikel=13e), er zorg voor draagt dat de aangeslotene beschikt over een op afstand uitleesbare kleinverbruikmeetinrichting. Indien niet aan alle in 3.3.2 genoemde criteria wordt voldaan, wordt de procedure plaatsing door derden van een door de regionale netbeheerder geleverde meetinrichting gestopt.
 
 ##### 3.3.4
 
-De meterplaatser neemt binnen vijftien werkdagen na de in [3.3.3](https://wetten.overheid.nl/jci1.3:c:BWBR0037925&hoofdstuk=3&paragraaf=3.3&artikel=3.3.3&z=2016-07-09&g=2016-07-09) bedoelde melding contact op met de regionale netbeheerder voor het maken van afspraken over de datum en het tijdstip van de verwijdering van de oude meetinrichting en plaatsing van de nieuwe meetinrichting.
+De meterplaatser neemt binnen vijftien werkdagen na de in [3.3.3](https://wetten.overheid.nl/jci1.3:c:BWBR0037925&hoofdstuk=3&paragraaf=3.3&artikel=3.3.3&z=2017-01-21&g=2017-01-21) bedoelde melding contact op met de regionale netbeheerder voor het maken van afspraken over de datum en het tijdstip van de verwijdering van de oude meetinrichting en plaatsing van de nieuwe meetinrichting.
 
 ##### 3.3.5
 
-De regionale netbeheerder verstrekt uiterlijk vijf werkdagen voor de conform [3.3.4](https://wetten.overheid.nl/jci1.3:c:BWBR0037925&hoofdstuk=3&paragraaf=3.3&artikel=3.3.4&z=2016-07-09&g=2016-07-09) geplande plaatsing:
+De regionale netbeheerder verstrekt uiterlijk vijf werkdagen voor de conform [3.3.4](https://wetten.overheid.nl/jci1.3:c:BWBR0037925&hoofdstuk=3&paragraaf=3.3&artikel=3.3.4&z=2017-01-21&g=2017-01-21) geplande plaatsing:
 
 - a. de te plaatsen op afstand uitleesbare kleinverbruikmeetinrichting met de daarbij behorende gebruiks- en montage- en transportinstructies
 
@@ -352,7 +352,7 @@ De regionale netbeheerder verstrekt uiterlijk vijf werkdagen voor de conform [3.
 
 ##### 3.3.6
 
-De meterplaatser controleert of de vastgelegde tellerstanden van de oude meetinrichting zich binnen de in [3.3.5](https://wetten.overheid.nl/jci1.3:c:BWBR0037925&hoofdstuk=3&paragraaf=3.3&artikel=3.3.5&z=2016-07-09&g=2016-07-09) bedoelde marge bevinden en of het meternummer van de oude meetinrichting klopt.
+De meterplaatser controleert of de vastgelegde tellerstanden van de oude meetinrichting zich binnen de in [3.3.5](https://wetten.overheid.nl/jci1.3:c:BWBR0037925&hoofdstuk=3&paragraaf=3.3&artikel=3.3.5&z=2017-01-21&g=2017-01-21) bedoelde marge bevinden en of het meternummer van de oude meetinrichting klopt.
 
 ##### 3.3.7
 
@@ -378,11 +378,11 @@ Indien de aangeslotene niet verklaart dat de tellerstand(en) van de oude meetinr
 
 ##### 3.3.10
 
-De meterplaatser verzendt de in [3.3.8](https://wetten.overheid.nl/jci1.3:c:BWBR0037925&hoofdstuk=3&paragraaf=3.3&artikel=3.3.8&z=2016-07-09&g=2016-07-09) genoemde gegevens binnen een werkdag na de dag van plaatsing in een door de gezamenlijke netbeheerders opgesteld format voor elektronische gegevensuitwisseling aan de regionale netbeheerder.
+De meterplaatser verzendt de in [3.3.8](https://wetten.overheid.nl/jci1.3:c:BWBR0037925&hoofdstuk=3&paragraaf=3.3&artikel=3.3.8&z=2017-01-21&g=2017-01-21) genoemde gegevens binnen een werkdag na de dag van plaatsing in een door de gezamenlijke netbeheerders opgesteld format voor elektronische gegevensuitwisseling aan de regionale netbeheerder.
 
 ##### 3.3.11
 
-De meterplaatser levert de oude meetinrichting conform de in [3.3.4](https://wetten.overheid.nl/jci1.3:c:BWBR0037925&hoofdstuk=3&paragraaf=3.3&artikel=3.3.4&z=2016-07-09&g=2016-07-09) genoemde afspraken af bij de regionale netbeheerder.
+De meterplaatser levert de oude meetinrichting conform de in [3.3.4](https://wetten.overheid.nl/jci1.3:c:BWBR0037925&hoofdstuk=3&paragraaf=3.3&artikel=3.3.4&z=2017-01-21&g=2017-01-21) genoemde afspraken af bij de regionale netbeheerder.
 
 ##### 3.3.12
 
@@ -398,7 +398,7 @@ De regionale netbeheerder neemt, na acceptatie, de nieuw geplaatste op afstand u
 
 ##### 3.3.15
 
-De regionale netbeheerder bewaart de op grond van [3.3.10](https://wetten.overheid.nl/jci1.3:c:BWBR0037925&hoofdstuk=3&paragraaf=3.3&artikel=3.3.10&z=2016-07-09&g=2016-07-09) ontvangen gegevens tenminste twee jaar.
+De regionale netbeheerder bewaart de op grond van [3.3.10](https://wetten.overheid.nl/jci1.3:c:BWBR0037925&hoofdstuk=3&paragraaf=3.3&artikel=3.3.10&z=2017-01-21&g=2017-01-21) ontvangen gegevens tenminste twee jaar.
 
 #### 3.4. Procedure plaatsing door derden van een niet door de regionale netbeheerder geleverde meetinrichting
 
@@ -434,15 +434,15 @@ De regionale netbeheerder controleert of:
 
 ##### 3.4.3
 
-Het resultaat van de in [3.4.2](https://wetten.overheid.nl/jci1.3:c:BWBR0037925&hoofdstuk=3&paragraaf=3.4&artikel=3.4.2&z=2016-07-09&g=2016-07-09) genoemde vaststelling wordt binnen vijf werkdagen na de in [3.4.1](https://wetten.overheid.nl/jci1.3:c:BWBR0037925&hoofdstuk=3&paragraaf=3.4&artikel=3.4.1&z=2016-07-09&g=2016-07-09) bedoelde melding meegedeeld aan de ander dan de regionale netbeheerder die op verzoek van de aangeslotene conform [artikel 13d, lid 6](https://wetten.overheid.nl/jci1.3:c:BWBR0011440&artikel=13d) of [artikel 13e, lid 7 van de Wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011440&artikel=13e), er zorg voor draagt dat de aangeslotene beschikt over een op afstand uitleesbare kleinverbruikmeetinrichting. Indien niet aan alle in 3.4.2 genoemde criteria wordt voldaan, wordt de procedure plaatsing door derden van een niet door de regionale netbeheerder geleverde meetinrichting gestopt.
+Het resultaat van de in [3.4.2](https://wetten.overheid.nl/jci1.3:c:BWBR0037925&hoofdstuk=3&paragraaf=3.4&artikel=3.4.2&z=2017-01-21&g=2017-01-21) genoemde vaststelling wordt binnen vijf werkdagen na de in [3.4.1](https://wetten.overheid.nl/jci1.3:c:BWBR0037925&hoofdstuk=3&paragraaf=3.4&artikel=3.4.1&z=2017-01-21&g=2017-01-21) bedoelde melding meegedeeld aan de ander dan de regionale netbeheerder die op verzoek van de aangeslotene conform [artikel 13d, lid 6](https://wetten.overheid.nl/jci1.3:c:BWBR0011440&artikel=13d) of [artikel 13e, lid 7 van de Wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011440&artikel=13e), er zorg voor draagt dat de aangeslotene beschikt over een op afstand uitleesbare kleinverbruikmeetinrichting. Indien niet aan alle in 3.4.2 genoemde criteria wordt voldaan, wordt de procedure plaatsing door derden van een niet door de regionale netbeheerder geleverde meetinrichting gestopt.
 
 ##### 3.4.4
 
-De meterplaatser neemt binnen vijftien werkdagen na de in [3.4.3](https://wetten.overheid.nl/jci1.3:c:BWBR0037925&hoofdstuk=3&paragraaf=3.4&artikel=3.4.3&z=2016-07-09&g=2016-07-09) bedoelde melding contact op met de regionale netbeheerder voor het maken van afspraken over de datum en het tijdstip van de verwijdering van de oude meetinrichting en plaatsing van de nieuwe meetinrichting en over de toegankelijkheid van de communicatievoorziening.
+De meterplaatser neemt binnen vijftien werkdagen na de in [3.4.3](https://wetten.overheid.nl/jci1.3:c:BWBR0037925&hoofdstuk=3&paragraaf=3.4&artikel=3.4.3&z=2017-01-21&g=2017-01-21) bedoelde melding contact op met de regionale netbeheerder voor het maken van afspraken over de datum en het tijdstip van de verwijdering van de oude meetinrichting en plaatsing van de nieuwe meetinrichting en over de toegankelijkheid van de communicatievoorziening.
 
 ##### 3.4.5
 
-De regionale netbeheerder verstrekt uiterlijk vijf werkdagen voor de conform [3.4.4](https://wetten.overheid.nl/jci1.3:c:BWBR0037925&hoofdstuk=3&paragraaf=3.4&artikel=3.4.4&z=2016-07-09&g=2016-07-09) geplande plaatsing de meterwisselgegevens:
+De regionale netbeheerder verstrekt uiterlijk vijf werkdagen voor de conform [3.4.4](https://wetten.overheid.nl/jci1.3:c:BWBR0037925&hoofdstuk=3&paragraaf=3.4&artikel=3.4.4&z=2017-01-21&g=2017-01-21) geplande plaatsing de meterwisselgegevens:
 
 - a. het meternummer van de huidige meetinrichting;
 
@@ -450,7 +450,7 @@ De regionale netbeheerder verstrekt uiterlijk vijf werkdagen voor de conform [3.
 
 ##### 3.4.6
 
-De meterplaatser controleert of de vastgelegde tellerstanden van de oude meetinrichting zich binnen de in [3.4.5](https://wetten.overheid.nl/jci1.3:c:BWBR0037925&hoofdstuk=3&paragraaf=3.4&artikel=3.4.5&z=2016-07-09&g=2016-07-09) bedoelde marge bevinden en of het meternummer van de oude meetinrichting klopt.
+De meterplaatser controleert of de vastgelegde tellerstanden van de oude meetinrichting zich binnen de in [3.4.5](https://wetten.overheid.nl/jci1.3:c:BWBR0037925&hoofdstuk=3&paragraaf=3.4&artikel=3.4.5&z=2017-01-21&g=2017-01-21) bedoelde marge bevinden en of het meternummer van de oude meetinrichting klopt.
 
 ##### 3.4.7
 
@@ -498,11 +498,11 @@ De meterplaatser verzamelt de gegevens omtrent het type meetinrichting en de wij
 
 ##### 3.4.12
 
-De meterplaatser verzendt de in [3.4.8](https://wetten.overheid.nl/jci1.3:c:BWBR0037925&hoofdstuk=3&paragraaf=3.4&artikel=3.4.8&z=2016-07-09&g=2016-07-09), [3.4.10](https://wetten.overheid.nl/jci1.3:c:BWBR0037925&hoofdstuk=3&paragraaf=3.4&artikel=3.4.10&z=2016-07-09&g=2016-07-09) en [3.4.11](https://wetten.overheid.nl/jci1.3:c:BWBR0037925&hoofdstuk=3&paragraaf=3.4&artikel=3.4.11&z=2016-07-09&g=2016-07-09) genoemde gegevens binnen één werkdag na de dag van plaatsing in een door de gezamenlijke netbeheerders opgesteld format voor elektronische gegevensuitwisseling aan de regionale netbeheerder.
+De meterplaatser verzendt de in [3.4.8](https://wetten.overheid.nl/jci1.3:c:BWBR0037925&hoofdstuk=3&paragraaf=3.4&artikel=3.4.8&z=2017-01-21&g=2017-01-21), [3.4.10](https://wetten.overheid.nl/jci1.3:c:BWBR0037925&hoofdstuk=3&paragraaf=3.4&artikel=3.4.10&z=2017-01-21&g=2017-01-21) en [3.4.11](https://wetten.overheid.nl/jci1.3:c:BWBR0037925&hoofdstuk=3&paragraaf=3.4&artikel=3.4.11&z=2017-01-21&g=2017-01-21) genoemde gegevens binnen één werkdag na de dag van plaatsing in een door de gezamenlijke netbeheerders opgesteld format voor elektronische gegevensuitwisseling aan de regionale netbeheerder.
 
 ##### 3.4.13
 
-De meterplaatser levert de oude meetinrichting conform de in [3.4.4](https://wetten.overheid.nl/jci1.3:c:BWBR0037925&hoofdstuk=3&paragraaf=3.4&artikel=3.4.4&z=2016-07-09&g=2016-07-09) genoemde afspraken af bij de regionale netbeheerder.
+De meterplaatser levert de oude meetinrichting conform de in [3.4.4](https://wetten.overheid.nl/jci1.3:c:BWBR0037925&hoofdstuk=3&paragraaf=3.4&artikel=3.4.4&z=2017-01-21&g=2017-01-21) genoemde afspraken af bij de regionale netbeheerder.
 
 ##### 3.4.14
 
@@ -532,7 +532,7 @@ Het ontwerp en de aanleg van de meetinrichting voldoet tenminste aan de bepaling
 
 ##### 4.1.1.3
 
-Met de in [4.1.1.2](https://wetten.overheid.nl/jci1.3:c:BWBR0037925&hoofdstuk=4&paragraaf=4.1&sub-paragraaf=4.1.1&artikel=4.1.1.2&z=2016-07-09&g=2016-07-09) bedoelde meetinrichting wordt gelijkgesteld een meetinrichting die rechtmatig is vervaardigd of in de handel is gebracht in een andere lidstaat van de Europese Unie dan wel rechtmatig is vervaardigd in een staat, niet zijnde een lidstaat van de Europese Unie, die partij is bij een daartoe strekkend of mede daartoe strekkend Verdrag dat Nederland bindt, en die voldoet aan eisen die een beschermingsniveau bieden dat ten minste gelijkwaardig is aan het niveau dat met de eisen genoemd in 4.1.1.2 wordt nagestreefd.
+Met de in [4.1.1.2](https://wetten.overheid.nl/jci1.3:c:BWBR0037925&hoofdstuk=4&paragraaf=4.1&sub-paragraaf=4.1.1&artikel=4.1.1.2&z=2017-01-21&g=2017-01-21) bedoelde meetinrichting wordt gelijkgesteld een meetinrichting die rechtmatig is vervaardigd of in de handel is gebracht in een andere lidstaat van de Europese Unie dan wel rechtmatig is vervaardigd in een staat, niet zijnde een lidstaat van de Europese Unie, die partij is bij een daartoe strekkend of mede daartoe strekkend Verdrag dat Nederland bindt, en die voldoet aan eisen die een beschermingsniveau bieden dat ten minste gelijkwaardig is aan het niveau dat met de eisen genoemd in 4.1.1.2 wordt nagestreefd.
 
 ##### 4.1.1.4
 
@@ -598,15 +598,15 @@ Het minimale en het maximale debiet dienen binnen het meetbereik van de gasmeter
 
 ##### 4.1.3.5
 
-Op verzoek van TenneT toont de meetverantwoordelijke aan dat de maximaal toelaatbare afwijking van de meetinrichting niet de in [4.1.3.2](https://wetten.overheid.nl/jci1.3:c:BWBR0037925&hoofdstuk=4&paragraaf=4.1&sub-paragraaf=4.1.3&artikel=4.1.3.2&z=2016-07-09&g=2016-07-09) en [4.1.3.3](https://wetten.overheid.nl/jci1.3:c:BWBR0037925&hoofdstuk=4&paragraaf=4.1&sub-paragraaf=4.1.3&artikel=4.1.3.3&z=2016-07-09&g=2016-07-09) genoemde waarden van de maximaal toelaatbare afwijking overschrijdt, met dien verstande dat:
+Op verzoek van TenneT toont de meetverantwoordelijke aan dat de maximaal toelaatbare afwijking van de meetinrichting niet de in [4.1.3.2](https://wetten.overheid.nl/jci1.3:c:BWBR0037925&hoofdstuk=4&paragraaf=4.1&sub-paragraaf=4.1.3&artikel=4.1.3.2&z=2017-01-21&g=2017-01-21) en [4.1.3.3](https://wetten.overheid.nl/jci1.3:c:BWBR0037925&hoofdstuk=4&paragraaf=4.1&sub-paragraaf=4.1.3&artikel=4.1.3.3&z=2017-01-21&g=2017-01-21) genoemde waarden van de maximaal toelaatbare afwijking overschrijdt, met dien verstande dat:
 
-- a. aan het bepaalde in [4.1.3.2](https://wetten.overheid.nl/jci1.3:c:BWBR0037925&hoofdstuk=4&paragraaf=4.1&sub-paragraaf=4.1.3&artikel=4.1.3.2&z=2016-07-09&g=2016-07-09) is voldaan indien de meetinrichting is ontworpen en geïnstalleerd overeenkomstig bijlage 1 en voldaan wordt aan de uitgangspunten voor de desbetreffende volumeherleidingsmethodiek;
+- a. aan het bepaalde in [4.1.3.2](https://wetten.overheid.nl/jci1.3:c:BWBR0037925&hoofdstuk=4&paragraaf=4.1&sub-paragraaf=4.1.3&artikel=4.1.3.2&z=2017-01-21&g=2017-01-21) is voldaan indien de meetinrichting is ontworpen en geïnstalleerd overeenkomstig bijlage 1 en voldaan wordt aan de uitgangspunten voor de desbetreffende volumeherleidingsmethodiek;
 
-- b. aan het bepaalde in [4.1.3.3](https://wetten.overheid.nl/jci1.3:c:BWBR0037925&hoofdstuk=4&paragraaf=4.1&sub-paragraaf=4.1.3&artikel=4.1.3.3&z=2016-07-09&g=2016-07-09) is voldaan indien de meetinrichting is gecontroleerd overeenkomstig bijlage 1 en voldaan wordt aan de uitgangspunten voor de desbetreffende volumeherleidingsmethodiek.
+- b. aan het bepaalde in [4.1.3.3](https://wetten.overheid.nl/jci1.3:c:BWBR0037925&hoofdstuk=4&paragraaf=4.1&sub-paragraaf=4.1.3&artikel=4.1.3.3&z=2017-01-21&g=2017-01-21) is voldaan indien de meetinrichting is gecontroleerd overeenkomstig bijlage 1 en voldaan wordt aan de uitgangspunten voor de desbetreffende volumeherleidingsmethodiek.
 
 ##### 4.1.3.6
 
-In andere dan de genoemde gevallen, toont de meetverantwoordelijke op andere wijze aan dat de maximaal toelaatbare afwijking van de meetinrichting de in [4.1.3.2](https://wetten.overheid.nl/jci1.3:c:BWBR0037925&hoofdstuk=4&paragraaf=4.1&sub-paragraaf=4.1.3&artikel=4.1.3.2&z=2016-07-09&g=2016-07-09) en [4.1.3.3](https://wetten.overheid.nl/jci1.3:c:BWBR0037925&hoofdstuk=4&paragraaf=4.1&sub-paragraaf=4.1.3&artikel=4.1.3.3&z=2016-07-09&g=2016-07-09)genoemde waarden van de maximaal toelaatbare afwijking niet overschrijdt.
+In andere dan de genoemde gevallen, toont de meetverantwoordelijke op andere wijze aan dat de maximaal toelaatbare afwijking van de meetinrichting de in [4.1.3.2](https://wetten.overheid.nl/jci1.3:c:BWBR0037925&hoofdstuk=4&paragraaf=4.1&sub-paragraaf=4.1.3&artikel=4.1.3.2&z=2017-01-21&g=2017-01-21) en [4.1.3.3](https://wetten.overheid.nl/jci1.3:c:BWBR0037925&hoofdstuk=4&paragraaf=4.1&sub-paragraaf=4.1.3&artikel=4.1.3.3&z=2017-01-21&g=2017-01-21)genoemde waarden van de maximaal toelaatbare afwijking niet overschrijdt.
 
 #### 4.2. Eisen aan kleinverbruikmeetinrichtingen
 
@@ -726,21 +726,21 @@ De meetverantwoordelijke legt, voor zover van toepassing, de volgende gegevens v
 
 ##### 4.3.2.2
 
-De meetverantwoordelijke verstrekt de regionale netbeheerder van wiens net de desbetreffende aansluiting deel uitmaakt op diens verzoek de onder [4.3.2.1, onderdelen a tot en met d](https://wetten.overheid.nl/jci1.3:c:BWBR0037925&hoofdstuk=4&paragraaf=4.3&sub-paragraaf=4.3.2&artikel=4.3.2.1&z=2016-07-09&g=2016-07-09), genoemde gegevens uit het meterregister, voor zover deze gegevens nodig zijn voor de door de regionale netbeheerder in rekening te brengen tarieven.
+De meetverantwoordelijke verstrekt de regionale netbeheerder van wiens net de desbetreffende aansluiting deel uitmaakt op diens verzoek de onder [4.3.2.1, onderdelen a tot en met d](https://wetten.overheid.nl/jci1.3:c:BWBR0037925&hoofdstuk=4&paragraaf=4.3&sub-paragraaf=4.3.2&artikel=4.3.2.1&z=2017-01-21&g=2017-01-21), genoemde gegevens uit het meterregister, voor zover deze gegevens nodig zijn voor de door de regionale netbeheerder in rekening te brengen tarieven.
 
 ##### 4.3.2.3
 
-De in [4.3.2.1](https://wetten.overheid.nl/jci1.3:c:BWBR0037925&hoofdstuk=4&paragraaf=4.3&sub-paragraaf=4.3.2&artikel=4.3.2.1&z=2016-07-09&g=2016-07-09) genoemde gegevens in het meterregister kunnen desgevraagd worden ingezien door TenneT.
+De in [4.3.2.1](https://wetten.overheid.nl/jci1.3:c:BWBR0037925&hoofdstuk=4&paragraaf=4.3&sub-paragraaf=4.3.2&artikel=4.3.2.1&z=2017-01-21&g=2017-01-21) genoemde gegevens in het meterregister kunnen desgevraagd worden ingezien door TenneT.
 
 ##### 4.3.2.4
 
-Bij beëindiging van de beheerovereenkomst met de meetverantwoordelijke, bewaart de meetverantwoordelijke de gegevens zoals bedoeld in [4.3.2.1](https://wetten.overheid.nl/jci1.3:c:BWBR0037925&hoofdstuk=4&paragraaf=4.3&sub-paragraaf=4.3.2&artikel=4.3.2.1&z=2016-07-09&g=2016-07-09) nog ten minste drie jaar.
+Bij beëindiging van de beheerovereenkomst met de meetverantwoordelijke, bewaart de meetverantwoordelijke de gegevens zoals bedoeld in [4.3.2.1](https://wetten.overheid.nl/jci1.3:c:BWBR0037925&hoofdstuk=4&paragraaf=4.3&sub-paragraaf=4.3.2&artikel=4.3.2.1&z=2017-01-21&g=2017-01-21) nog ten minste drie jaar.
 
 #### 4.3.3. Eisen aan profiel grootverbruikmeetinrichtingen
 
 ##### 4.3.3.1
 
-Een meetinrichting registreert de totale op het overdrachtspunt uitgewisselde hoeveelheid gas, uitgedrukt in kubieke meters (m3) en/of in normaal kubieke meters [m3(n)]. De standen van elk telwerk zijn ter plaatse van de meetinrichting op elk willekeurig moment afleesbaar.
+Een meetinrichting registreert de totale op het overdrachtspunt uitgewisselde hoeveelheid gas, uitgedrukt in kubieke meters (m3) en/of in normaal kubieke meters [m3(n)]. De standen van elk telwerk zijn minimaal maandelijks uit- of afleesbaar. De standen van elk telwerk zijn ter plaatse van de meetinrichting op elk willekeurig moment afleesbaar.
 
 #### 4.3.4. Eisen aan telemetriegrootverbruikmeetinrichtingen
 
@@ -762,21 +762,21 @@ De afwijking van de starttijden en stoptijden van de meetperiode is niet groter 
 
 ##### 4.3.4.4
 
-In afwijking van [4.3.4.3](https://wetten.overheid.nl/jci1.3:c:BWBR0037925&hoofdstuk=4&paragraaf=4.3&sub-paragraaf=4.3.4&artikel=4.3.4.3&z=2016-07-09&g=2016-07-09) is bij uitval van het synchronisatiesysteem de afwijking van de start- en stoptijden van de meetperiode minder dan tien seconden gedurende een periode van maximaal een week.
+In afwijking van [4.3.4.3](https://wetten.overheid.nl/jci1.3:c:BWBR0037925&hoofdstuk=4&paragraaf=4.3&sub-paragraaf=4.3.4&artikel=4.3.4.3&z=2017-01-21&g=2017-01-21) is bij uitval van het synchronisatiesysteem de afwijking van de start- en stoptijden van de meetperiode minder dan tien seconden gedurende een periode van maximaal een week.
 
 #### 4.3.5. Storingen in de grootverbruikmeetinrichting
 
 ##### 4.3.5.1
 
-Een storing in de meetinrichting bij de meting of bij de in [hoofdstuk 5](https://wetten.overheid.nl/jci1.3:c:BWBR0037925&hoofdstuk=5&z=2016-07-09&g=2016-07-09) bedoelde gegevensoverdracht dient zo spoedig mogelijk, doch binnen twee werkdagen nadat de storing is opgemerkt verholpen te zijn.
+Een storing in de meetinrichting bij de meting of bij de in [hoofdstuk 5](https://wetten.overheid.nl/jci1.3:c:BWBR0037925&hoofdstuk=5&z=2017-01-21&g=2017-01-21) bedoelde gegevensoverdracht dient zo spoedig mogelijk, doch binnen twee werkdagen nadat de storing is opgemerkt verholpen te zijn.
 
 ##### 4.3.5.2
 
-Indien, in afwijking van [4.3.5.1](https://wetten.overheid.nl/jci1.3:c:BWBR0037925&hoofdstuk=4&paragraaf=4.3&sub-paragraaf=4.3.5&artikel=4.3.5.1&z=2016-07-09&g=2016-07-09), een oplossing van de in 4.3.5.1 genoemde termijn niet mogelijk is, ontvangen de aangeslotene en de regionale netbeheerder binnen twee werkdagen bericht binnen welke termijn de storing zal zijn verholpen.
+Indien, in afwijking van [4.3.5.1](https://wetten.overheid.nl/jci1.3:c:BWBR0037925&hoofdstuk=4&paragraaf=4.3&sub-paragraaf=4.3.5&artikel=4.3.5.1&z=2017-01-21&g=2017-01-21), een oplossing van de in 4.3.5.1 genoemde termijn niet mogelijk is, ontvangen de aangeslotene en de regionale netbeheerder binnen twee werkdagen bericht binnen welke termijn de storing zal zijn verholpen.
 
 ##### 4.3.5.3
 
-Indien het voor het verhelpen van een storing nodig is dat een medewerker van de meetverantwoordelijke wordt begeleid door een bevoegde medewerker van de regionale netbeheerder, geldt hiervoor in aanvulling tot hetgeen is bepaald in [4.3.1.1](https://wetten.overheid.nl/jci1.3:c:BWBR0037925&hoofdstuk=4&paragraaf=4.3&sub-paragraaf=4.3.1&artikel=4.3.1.1&z=2016-07-09&g=2016-07-09), dat het verzoek om begeleiding binnen één werkdag wordt gehonoreerd.
+Indien het voor het verhelpen van een storing nodig is dat een medewerker van de meetverantwoordelijke wordt begeleid door een bevoegde medewerker van de regionale netbeheerder, geldt hiervoor in aanvulling tot hetgeen is bepaald in [4.3.1.1](https://wetten.overheid.nl/jci1.3:c:BWBR0037925&hoofdstuk=4&paragraaf=4.3&sub-paragraaf=4.3.1&artikel=4.3.1.1&z=2017-01-21&g=2017-01-21), dat het verzoek om begeleiding binnen één werkdag wordt gehonoreerd.
 
 ### 5. Meetgegevensverzameling
 
@@ -784,67 +784,67 @@ Indien het voor het verhelpen van een storing nodig is dat een medewerker van de
 
 ##### 5.1.1
 
-Ten minste eenmaal in de 36 maanden bepaalt de regionale netbeheerder bij niet op afstand uitleesbare kleinverbruikmeetinrichtingen de in [4.2.1.1](https://wetten.overheid.nl/jci1.3:c:BWBR0037925&hoofdstuk=4&paragraaf=4.2&sub-paragraaf=4.2.1&artikel=4.2.1.1&z=2016-07-09&g=2016-07-09) bedoelde meetgegevens door middel van aflezing op de meetinrichting bij de aangeslotene.
+Ten minste eenmaal in de 36 maanden bepaalt de regionale netbeheerder bij niet op afstand uitleesbare kleinverbruikmeetinrichtingen de in [4.2.1.1](https://wetten.overheid.nl/jci1.3:c:BWBR0037925&hoofdstuk=4&paragraaf=4.2&sub-paragraaf=4.2.1&artikel=4.2.1.1&z=2017-01-21&g=2017-01-21) bedoelde meetgegevens door middel van aflezing op de meetinrichting bij de aangeslotene.
 
 ##### 5.1.2
 
-Kennisneming van de in [5.1.1](https://wetten.overheid.nl/jci1.3:c:BWBR0037925&hoofdstuk=5&paragraaf=5.1&artikel=5.1.1&z=2016-07-09&g=2016-07-09) bedoelde meetgegevens is voorbehouden aan die partijen die daartoe op grond van deze code, wetgeving en/of rechtsgeldig gesloten overeenkomsten zijn gerechtigd.
+Kennisneming van de in [5.1.1](https://wetten.overheid.nl/jci1.3:c:BWBR0037925&hoofdstuk=5&paragraaf=5.1&artikel=5.1.1&z=2017-01-21&g=2017-01-21) bedoelde meetgegevens is voorbehouden aan die partijen die daartoe op grond van deze code, wetgeving en/of rechtsgeldig gesloten overeenkomsten zijn gerechtigd.
 
 ##### 5.1.3
 
-De in [5.1.1](https://wetten.overheid.nl/jci1.3:c:BWBR0037925&hoofdstuk=5&paragraaf=5.1&artikel=5.1.1&z=2016-07-09&g=2016-07-09) bedoelde meetgegevens zijn beveiligd tegen wijziging ervan.
+De in [5.1.1](https://wetten.overheid.nl/jci1.3:c:BWBR0037925&hoofdstuk=5&paragraaf=5.1&artikel=5.1.1&z=2017-01-21&g=2017-01-21) bedoelde meetgegevens zijn beveiligd tegen wijziging ervan.
 
 #### 5.2. Meetgegevensverzameling bij profielgrootverbruikmeetinrichtingen
 
 ##### 5.2.1
 
-Tenminste eenmaal per jaar, in de zes weken voorafgaande aan de maand die op grond van [2.1.2, onderdeel c, van de Informatiecode Elektriciteit en Gas](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&artikel=2.1.2) is opgenomen in het aansluitingenregister, bepaalt de meetverantwoordelijke bij profielgrootverbruikmeetinrichtingen op profielgrootverbruikaansluitingen de in [4.3.3.1](https://wetten.overheid.nl/jci1.3:c:BWBR0037925&hoofdstuk=4&paragraaf=4.3&sub-paragraaf=4.3.3&artikel=4.3.3.1&z=2016-07-09&g=2016-07-09) bedoelde meetgegevens en slaat deze op in niet-vluchtige databuffers.
+Ten minste eenmaal per maand bepaalt de meetverantwoordelijke bij profielgrootverbruikmeetinrichtingen op profielgrootverbruikaansluitingen de in [4.3.3.1](https://wetten.overheid.nl/jci1.3:c:BWBR0037925&hoofdstuk=4&paragraaf=4.3&sub-paragraaf=4.3.3&artikel=4.3.3.1&z=2017-01-21&g=2017-01-21) bedoelde meetgegevens en slaat deze op in niet-vluchtige databuffers.
 
 ##### 5.2.2
 
-De in [5.2.1](https://wetten.overheid.nl/jci1.3:c:BWBR0037925&hoofdstuk=5&paragraaf=5.2&artikel=5.2.1&z=2016-07-09&g=2016-07-09) bedoelde bepaling van de meetgegevens vindt in de regel plaats door uit- of aflezing van de meetinrichting door de meetverantwoordelijke. De meetverantwoordelijke kan van de aangeslotene verlangen dat de aangeslotene zelf de tellerstand opneemt en deze tellerstand op een door de meetverantwoordelijke te bepalen wijze en binnen een door de meetverantwoordelijke aangegeven termijn ter kennis van de meetverantwoordelijke brengt.
+De in [5.2.1](https://wetten.overheid.nl/jci1.3:c:BWBR0037925&hoofdstuk=5&paragraaf=5.2&artikel=5.2.1&z=2017-01-21&g=2017-01-21) en [5.2.1a](https://wetten.overheid.nl/jci1.3:c:BWBR0037925&hoofdstuk=5&paragraaf=5.2&artikel=5.2.1a&z=2017-01-21&g=2017-01-21) bedoelde bepaling van de meetgegevens vindt in de regel plaats door uit- of aflezing van de meetinrichting door de meetverantwoordelijke. De meetverantwoordelijke kan van de aangeslotene verlangen dat de aangeslotene zelf de tellerstand opneemt en deze tellerstand op een door de meetverantwoordelijke te bepalen wijze en binnen een door de meetverantwoordelijke aangegeven termijn ter kennis van de meetverantwoordelijke brengt.
 
 ##### 5.2.3
 
-Indien de meetverantwoordelijke redelijkerwijs niet in staat is de tellerstand van de meetinrichting uit of af te lezen of de aangeslotene niet heeft voldaan aan het verlangen van de meetverantwoordelijke, zoals beschreven in [5.2.2](https://wetten.overheid.nl/jci1.3:c:BWBR0037925&hoofdstuk=5&paragraaf=5.2&artikel=5.2.2&z=2016-07-09&g=2016-07-09), maakt de meetverantwoordelijke een schatting van de tellerstand(-en).
+Indien [5.2.2a](https://wetten.overheid.nl/jci1.3:c:BWBR0037925&hoofdstuk=5&paragraaf=5.2&artikel=5.2.2a&z=2017-01-21&g=2017-01-21) van toepassing is, worden ten minste eenmaal per 36 maanden de tellerstanden van de gasmeter, en indien van toepassing van het niet herleid volume van het volumeherleidingsinstrument en van het herleid volume van het volumeherleidingsinstrument bepaald door het ter plaatse uit- of aflezen van de meetinrichting door de meetverantwoordelijke. Het eventueel geconstateerde verschil met de op afstand bepaalde standen wordt restvolume genoemd. De oorzaak van het ontstaan van dit restvolume wordt door de meetverantwoordelijke onderzocht. Indien uit dit onderzoek blijkt dat (een deel van) het restvolume naar grote waarschijnlijkheid is ontstaan in een concreet te duiden maand van de afgelopen twaalf maanden, wijst de meetverantwoordelijke (dit deel van) het restvolume toe aan de desbetreffende maand. Het (deel van) het restvolume dat niet kan worden toegewezen aan een concrete maand wordt door de meetverantwoordelijke evenredig toegewezen aan de afgelopen 12 maanden. Indien het geconstateerde verschil zo groot is dat de bepaalde meetgegevens voor de afgelopen 36 maanden niet voldoen aan de eisen gesteld in [4.1.3.3](https://wetten.overheid.nl/jci1.3:c:BWBR0037925&hoofdstuk=4&paragraaf=4.1&sub-paragraaf=4.1.3&artikel=4.1.3.3&z=2017-01-21&g=2017-01-21) voor volumemeting en/of capaciteitsmeting, vindt een onderzoek plaats naar de datacollectie en maakt de meetverantwoordelijke een schatting van het werkelijke verbruik gedurende de (vermoedelijke) periode dat de meting onjuist was. Dit verbruik wordt door de meetverantwoordelijke evenredig toegewezen aan de (vermoedelijke) periode dat de meting onjuist was, of, indien deze periode langer dan 12 maanden geleden is, aan de afgelopen 12 maanden.
 
 ##### 5.2.4
 
-Ten minste eenmaal in de 36 maanden worden de meetgegevens genoemd in [5.2.1](https://wetten.overheid.nl/jci1.3:c:BWBR0037925&hoofdstuk=5&paragraaf=5.2&artikel=5.2.1&z=2016-07-09&g=2016-07-09) bepaald door aflezing op de meetinrichting bij de aangeslotene door de meetverantwoordelijke en slaat deze meetgegevens op in niet-vluchtige databuffers.
+Kennisneming van de in [5.2.1](https://wetten.overheid.nl/jci1.3:c:BWBR0037925&hoofdstuk=5&paragraaf=5.2&artikel=5.2.1&z=2017-01-21&g=2017-01-21), [5.2.1a](https://wetten.overheid.nl/jci1.3:c:BWBR0037925&hoofdstuk=5&paragraaf=5.2&artikel=5.2.1a&z=2017-01-21&g=2017-01-21), [5.2.2](https://wetten.overheid.nl/jci1.3:c:BWBR0037925&hoofdstuk=5&paragraaf=5.2&artikel=5.2.2&z=2017-01-21&g=2017-01-21), [5.2.2a](https://wetten.overheid.nl/jci1.3:c:BWBR0037925&hoofdstuk=5&paragraaf=5.2&artikel=5.2.2a&z=2017-01-21&g=2017-01-21), [5.2.3](https://wetten.overheid.nl/jci1.3:c:BWBR0037925&hoofdstuk=5&paragraaf=5.2&artikel=5.2.3&z=2017-01-21&g=2017-01-21) en [5.2.3a](https://wetten.overheid.nl/jci1.3:c:BWBR0037925&hoofdstuk=5&paragraaf=5.2&artikel=5.2.3a&z=2017-01-21&g=2017-01-21) bedoelde meetgegevens is voorbehouden aan die partijen die daartoe op grond van deze regeling, wetgeving en/of rechtsgeldig gesloten overeenkomsten zijn gerechtigd.
 
 ##### 5.2.5
 
-De in [5.2.1](https://wetten.overheid.nl/jci1.3:c:BWBR0037925&hoofdstuk=5&paragraaf=5.2&artikel=5.2.1&z=2016-07-09&g=2016-07-09) en [5.2.4](https://wetten.overheid.nl/jci1.3:c:BWBR0037925&hoofdstuk=5&paragraaf=5.2&artikel=5.2.4&z=2016-07-09&g=2016-07-09) bedoelde meetgegevens zijn beveiligd tegen wijziging ervan.
+De meetverantwoordelijke draagt er zorg voor dat de in [5.2.1](https://wetten.overheid.nl/jci1.3:c:BWBR0037925&hoofdstuk=5&paragraaf=5.2&artikel=5.2.1&z=2017-01-21&g=2017-01-21), [5.2.1a](https://wetten.overheid.nl/jci1.3:c:BWBR0037925&hoofdstuk=5&paragraaf=5.2&artikel=5.2.1a&z=2017-01-21&g=2017-01-21), [5.2.2](https://wetten.overheid.nl/jci1.3:c:BWBR0037925&hoofdstuk=5&paragraaf=5.2&artikel=5.2.2&z=2017-01-21&g=2017-01-21), [5.2.2a](https://wetten.overheid.nl/jci1.3:c:BWBR0037925&hoofdstuk=5&paragraaf=5.2&artikel=5.2.2a&z=2017-01-21&g=2017-01-21), [5.2.3](https://wetten.overheid.nl/jci1.3:c:BWBR0037925&hoofdstuk=5&paragraaf=5.2&artikel=5.2.3&z=2017-01-21&g=2017-01-21) en [5.2.3a](https://wetten.overheid.nl/jci1.3:c:BWBR0037925&hoofdstuk=5&paragraaf=5.2&artikel=5.2.3a&z=2017-01-21&g=2017-01-21) bedoelde meetgegevens zijn beveiligd tegen wijziging ervan.
 
 ##### 5.2.6
 
-De meetverantwoordelijke bewaart de meetgegevens bedoeld in [5.2.1](https://wetten.overheid.nl/jci1.3:c:BWBR0037925&hoofdstuk=5&paragraaf=5.2&artikel=5.2.1&z=2016-07-09&g=2016-07-09) en [5.2.4](https://wetten.overheid.nl/jci1.3:c:BWBR0037925&hoofdstuk=5&paragraaf=5.2&artikel=5.2.4&z=2016-07-09&g=2016-07-09) gedurende een periode van drie jaar.
+De meetverantwoordelijke bewaart de meetgegevens bedoeld in [5.2.1](https://wetten.overheid.nl/jci1.3:c:BWBR0037925&hoofdstuk=5&paragraaf=5.2&artikel=5.2.1&z=2017-01-21&g=2017-01-21), [5.2.1a](https://wetten.overheid.nl/jci1.3:c:BWBR0037925&hoofdstuk=5&paragraaf=5.2&artikel=5.2.1a&z=2017-01-21&g=2017-01-21), [5.2.2](https://wetten.overheid.nl/jci1.3:c:BWBR0037925&hoofdstuk=5&paragraaf=5.2&artikel=5.2.2&z=2017-01-21&g=2017-01-21), [5.2.3](https://wetten.overheid.nl/jci1.3:c:BWBR0037925&hoofdstuk=5&paragraaf=5.2&artikel=5.2.3&z=2017-01-21&g=2017-01-21), [5.2.3a](https://wetten.overheid.nl/jci1.3:c:BWBR0037925&hoofdstuk=5&paragraaf=5.2&artikel=5.2.3a&z=2017-01-21&g=2017-01-21) gedurende een periode van drie jaar.
 
 #### 5.3. Meetgegevensverzameling bij telemetriegrootverbruikmeetinrichtingen
 
 ##### 5.3.1
 
-De meetverantwoordelijke verzamelt op elektronische wijze de in [4.3.4.1](https://wetten.overheid.nl/jci1.3:c:BWBR0037925&hoofdstuk=4&paragraaf=4.3&sub-paragraaf=4.3.4&artikel=4.3.4.1&z=2016-07-09&g=2016-07-09) sub a genoemde meetgegevens op een zodanige wijze dat de resolutie van de meetgegevens niet wordt beïnvloed en slaat deze meetgegevens op in niet-vluchtige databuffers. De in 4.3.4.1 sub b genoemde gegevens worden per gasmaand verzameld. Bij dagelijks uitleesbare meetinrichtingen gebeurt dit dagelijks, bij uurlijks uitleesbare meetinrichtingen gebeurt dit uurlijks.
+De meetverantwoordelijke verzamelt op elektronische wijze de in [4.3.4.1](https://wetten.overheid.nl/jci1.3:c:BWBR0037925&hoofdstuk=4&paragraaf=4.3&sub-paragraaf=4.3.4&artikel=4.3.4.1&z=2017-01-21&g=2017-01-21) sub a genoemde meetgegevens op een zodanige wijze dat de resolutie van de meetgegevens niet wordt beïnvloed en slaat deze meetgegevens op in niet-vluchtige databuffers. De in 4.3.4.1 sub b genoemde gegevens worden per gasmaand verzameld. Bij dagelijks uitleesbare meetinrichtingen gebeurt dit dagelijks, bij uurlijks uitleesbare meetinrichtingen gebeurt dit uurlijks.
 
 ##### 5.3.2
 
-In afwijking van het gestelde in [5.3.1](https://wetten.overheid.nl/jci1.3:c:BWBR0037925&hoofdstuk=5&paragraaf=5.3&artikel=5.3.1&z=2016-07-09&g=2016-07-09) worden, indien sprake is van dataoverdracht met behulp van pulsen tussen de verschillende onderdelen van de meetinrichting of tussen de meetinrichting en de meetverantwoordelijke, de maandelijkse tellerstanden van de gasmeter, en indien van toepassing van het niet herleid volume van het volumeherleidingsinstrument en van het herleid volume van het volumeherleidingsinstrument door de meetverantwoordelijke berekend op basis van deze pulsen.
+In afwijking van het gestelde in [5.3.1](https://wetten.overheid.nl/jci1.3:c:BWBR0037925&hoofdstuk=5&paragraaf=5.3&artikel=5.3.1&z=2017-01-21&g=2017-01-21) worden, indien sprake is van dataoverdracht met behulp van pulsen tussen de verschillende onderdelen van de meetinrichting of tussen de meetinrichting en de meetverantwoordelijke, de maandelijkse tellerstanden van de gasmeter, en indien van toepassing van het niet herleid volume van het volumeherleidingsinstrument en van het herleid volume van het volumeherleidingsinstrument door de meetverantwoordelijke berekend op basis van deze pulsen.
 
 ##### 5.3.3
 
-Indien [5.3.2](https://wetten.overheid.nl/jci1.3:c:BWBR0037925&hoofdstuk=5&paragraaf=5.3&artikel=5.3.2&z=2016-07-09&g=2016-07-09) van toepassing is, worden tenminste eenmaal per zes maanden de tellerstanden van de gasmeter, en indien van toepassing van het niet herleid volume van het volumeherleidingsinstrument en van het herleid volume van het volumeherleidingsinstrument bepaald door het ter plaatse uit- of aflezen van de meetinrichting door de meetverantwoordelijke. Het eventueel geconstateerde verschil met de op afstand bepaalde standen wordt restvolume genoemd. De oorzaak van het ontstaan van dit restvolume wordt door de meetverantwoordelijke onderzocht. Indien uit dit onderzoek blijkt dat (een deel van) het restvolume naar grote waarschijnlijkheid is ontstaan in concreet te duiden uren van de afgelopen maand, verdeelt de meetverantwoordelijke (dit deel van) het restvolume naar beste kunnen over de desbetreffende uren. Het eventueel resterende restvolume wordt verwerkt in de maand van uit- of aflezen, nadat dit is herleid tot normaal kubieke meters [m3(n)] met behulp van de gemiddelde herleidingsfactor voor de uurmetingen van de afgelopen maand. Indien het geconstateerde verschil zo groot is dat de op afstand bepaalde meetgegevens voor de onderhavige maand niet voldoen aan de eisen gesteld in [4.1.3.3](https://wetten.overheid.nl/jci1.3:c:BWBR0037925&hoofdstuk=4&paragraaf=4.1&sub-paragraaf=4.1.3&artikel=4.1.3.3&z=2016-07-09&g=2016-07-09) voor volumemeting en/of capaciteitsmeting, vindt een onderzoek plaats naar de datacollectie en wordt, in plaats van de hierboven genoemde werkwijze, de werkwijze volgens [6.4.2.18](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&artikel=6.4.2.18) of [6.4.2.19 van de Informatiecode Elektriciteit en Gas](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&artikel=6.4.2.19) gevolgd.
+Indien [5.3.2](https://wetten.overheid.nl/jci1.3:c:BWBR0037925&hoofdstuk=5&paragraaf=5.3&artikel=5.3.2&z=2017-01-21&g=2017-01-21) van toepassing is, worden tenminste eenmaal per zes maanden de tellerstanden van de gasmeter, en indien van toepassing van het niet herleid volume van het volumeherleidingsinstrument en van het herleid volume van het volumeherleidingsinstrument bepaald door het ter plaatse uit- of aflezen van de meetinrichting door de meetverantwoordelijke. Het eventueel geconstateerde verschil met de op afstand bepaalde standen wordt restvolume genoemd. De oorzaak van het ontstaan van dit restvolume wordt door de meetverantwoordelijke onderzocht. Indien uit dit onderzoek blijkt dat (een deel van) het restvolume naar grote waarschijnlijkheid is ontstaan in concreet te duiden uren van de afgelopen maand, verdeelt de meetverantwoordelijke (dit deel van) het restvolume naar beste kunnen over de desbetreffende uren. Het eventueel resterende restvolume wordt verwerkt in de maand van uit- of aflezen, nadat dit is herleid tot normaal kubieke meters [m3(n)] met behulp van de gemiddelde herleidingsfactor voor de uurmetingen van de afgelopen maand. Indien het geconstateerde verschil zo groot is dat de op afstand bepaalde meetgegevens voor de onderhavige maand niet voldoen aan de eisen gesteld in [4.1.3.3](https://wetten.overheid.nl/jci1.3:c:BWBR0037925&hoofdstuk=4&paragraaf=4.1&sub-paragraaf=4.1.3&artikel=4.1.3.3&z=2017-01-21&g=2017-01-21) voor volumemeting en/of capaciteitsmeting, vindt een onderzoek plaats naar de datacollectie en wordt, in plaats van de hierboven genoemde werkwijze, de werkwijze volgens [6.4.2.18](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&artikel=6.4.2.18) of [6.4.2.19 van de Informatiecode Elektriciteit en Gas](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&artikel=6.4.2.19) gevolgd.
 
 ##### 5.3.4
 
-Kennisneming van de in [5.3.1](https://wetten.overheid.nl/jci1.3:c:BWBR0037925&hoofdstuk=5&paragraaf=5.3&artikel=5.3.1&z=2016-07-09&g=2016-07-09), [5.3.2](https://wetten.overheid.nl/jci1.3:c:BWBR0037925&hoofdstuk=5&paragraaf=5.3&artikel=5.3.2&z=2016-07-09&g=2016-07-09) en [5.3.3](https://wetten.overheid.nl/jci1.3:c:BWBR0037925&hoofdstuk=5&paragraaf=5.3&artikel=5.3.3&z=2016-07-09&g=2016-07-09) bedoelde meetgegevens is voorbehouden aan die partijen die daartoe op grond van deze code, wetgeving en/of rechtsgeldig gesloten overeenkomsten zijn gerechtigd.
+Kennisneming van de in [5.3.1](https://wetten.overheid.nl/jci1.3:c:BWBR0037925&hoofdstuk=5&paragraaf=5.3&artikel=5.3.1&z=2017-01-21&g=2017-01-21), [5.3.2](https://wetten.overheid.nl/jci1.3:c:BWBR0037925&hoofdstuk=5&paragraaf=5.3&artikel=5.3.2&z=2017-01-21&g=2017-01-21) en [5.3.3](https://wetten.overheid.nl/jci1.3:c:BWBR0037925&hoofdstuk=5&paragraaf=5.3&artikel=5.3.3&z=2017-01-21&g=2017-01-21) bedoelde meetgegevens is voorbehouden aan die partijen die daartoe op grond van deze code, wetgeving en/of rechtsgeldig gesloten overeenkomsten zijn gerechtigd.
 
 ##### 5.3.5
 
-De in [5.3.1](https://wetten.overheid.nl/jci1.3:c:BWBR0037925&hoofdstuk=5&paragraaf=5.3&artikel=5.3.1&z=2016-07-09&g=2016-07-09), [5.3.2](https://wetten.overheid.nl/jci1.3:c:BWBR0037925&hoofdstuk=5&paragraaf=5.3&artikel=5.3.2&z=2016-07-09&g=2016-07-09) en [5.3.3](https://wetten.overheid.nl/jci1.3:c:BWBR0037925&hoofdstuk=5&paragraaf=5.3&artikel=5.3.3&z=2016-07-09&g=2016-07-09) bedoelde meetgegevens zijn beveiligd tegen wijziging ervan.
+De in [5.3.1](https://wetten.overheid.nl/jci1.3:c:BWBR0037925&hoofdstuk=5&paragraaf=5.3&artikel=5.3.1&z=2017-01-21&g=2017-01-21), [5.3.2](https://wetten.overheid.nl/jci1.3:c:BWBR0037925&hoofdstuk=5&paragraaf=5.3&artikel=5.3.2&z=2017-01-21&g=2017-01-21) en [5.3.3](https://wetten.overheid.nl/jci1.3:c:BWBR0037925&hoofdstuk=5&paragraaf=5.3&artikel=5.3.3&z=2017-01-21&g=2017-01-21) bedoelde meetgegevens zijn beveiligd tegen wijziging ervan.
 
 ##### 5.3.6
 
-De meetverantwoordelijke bewaart de meetgegevens bedoeld in [5.3.1](https://wetten.overheid.nl/jci1.3:c:BWBR0037925&hoofdstuk=5&paragraaf=5.3&artikel=5.3.1&z=2016-07-09&g=2016-07-09), [5.3.2](https://wetten.overheid.nl/jci1.3:c:BWBR0037925&hoofdstuk=5&paragraaf=5.3&artikel=5.3.2&z=2016-07-09&g=2016-07-09) en [5.3.3](https://wetten.overheid.nl/jci1.3:c:BWBR0037925&hoofdstuk=5&paragraaf=5.3&artikel=5.3.3&z=2016-07-09&g=2016-07-09) gedurende een periode van drie jaar.
+De meetverantwoordelijke bewaart de meetgegevens bedoeld in [5.3.1](https://wetten.overheid.nl/jci1.3:c:BWBR0037925&hoofdstuk=5&paragraaf=5.3&artikel=5.3.1&z=2017-01-21&g=2017-01-21), [5.3.2](https://wetten.overheid.nl/jci1.3:c:BWBR0037925&hoofdstuk=5&paragraaf=5.3&artikel=5.3.2&z=2017-01-21&g=2017-01-21) en [5.3.3](https://wetten.overheid.nl/jci1.3:c:BWBR0037925&hoofdstuk=5&paragraaf=5.3&artikel=5.3.3&z=2017-01-21&g=2017-01-21) gedurende een periode van drie jaar.
 
 #### 5.4. Storingen in de gegevensverwerking bij telemetriegrootverbruikmeetinrichtingen
 
@@ -860,7 +860,7 @@ Wanneer het geregistreerd volume van de gasmeter verschilt met het geregistreerd
 
 ##### 5.4.1.3
 
-Het in [5.4.1.1](https://wetten.overheid.nl/jci1.3:c:BWBR0037925&hoofdstuk=5&paragraaf=5.4&sub-paragraaf=5.4.1&artikel=5.4.1.1&z=2016-07-09&g=2016-07-09) of in [5.4.1.2](https://wetten.overheid.nl/jci1.3:c:BWBR0037925&hoofdstuk=5&paragraaf=5.4&sub-paragraaf=5.4.1&artikel=5.4.1.2&z=2016-07-09&g=2016-07-09) geconstateerde verschil wordt als restvolume verwerkt in de maand van uit- of aflezen, nadat dit is herleid tot normaal kubieke meters [m3(n)] met behulp van de gemiddelde herleidingsfactor voor de uurmetingen van de desbetreffende periode. Indien het geconstateerde verschil zo groot is dat de op afstand bepaalde meetgegevens voor de desbetreffende periode niet voldoen aan de eisen gesteld in [4.1.3.3](https://wetten.overheid.nl/jci1.3:c:BWBR0037925&hoofdstuk=4&paragraaf=4.1&sub-paragraaf=4.1.3&artikel=4.1.3.3&z=2016-07-09&g=2016-07-09) voor volumemeting en/of capaciteitsmeting, vindt een onderzoek plaats naar de datacollectie en wordt, in plaats van de hierboven genoemde werkwijze, de werkwijze volgens [5.4](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&paragraaf=5.4) en volgens [6.4.2.18 van de Informatiecode Elektriciteit en Gas](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&artikel=6.4.2.18) gevolgd.
+Het in [5.4.1.1](https://wetten.overheid.nl/jci1.3:c:BWBR0037925&hoofdstuk=5&paragraaf=5.4&sub-paragraaf=5.4.1&artikel=5.4.1.1&z=2017-01-21&g=2017-01-21) of in [5.4.1.2](https://wetten.overheid.nl/jci1.3:c:BWBR0037925&hoofdstuk=5&paragraaf=5.4&sub-paragraaf=5.4.1&artikel=5.4.1.2&z=2017-01-21&g=2017-01-21) geconstateerde verschil wordt als restvolume verwerkt in de maand van uit- of aflezen, nadat dit is herleid tot normaal kubieke meters [m3(n)] met behulp van de gemiddelde herleidingsfactor voor de uurmetingen van de desbetreffende periode. Indien het geconstateerde verschil zo groot is dat de op afstand bepaalde meetgegevens voor de desbetreffende periode niet voldoen aan de eisen gesteld in [4.1.3.3](https://wetten.overheid.nl/jci1.3:c:BWBR0037925&hoofdstuk=4&paragraaf=4.1&sub-paragraaf=4.1.3&artikel=4.1.3.3&z=2017-01-21&g=2017-01-21) voor volumemeting en/of capaciteitsmeting, vindt een onderzoek plaats naar de datacollectie en wordt, in plaats van de hierboven genoemde werkwijze, de werkwijze volgens [5.4](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&paragraaf=5.4) en volgens [6.4.2.18 van de Informatiecode Elektriciteit en Gas](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&artikel=6.4.2.18) gevolgd.
 
 #### 5.4.2. Verplichtingen van de meetverantwoordelijke bij het op afstand uitlezen van telemetriegrootverbruikmeetinrichtingen
 
@@ -884,7 +884,7 @@ Indien het totale verbruik per dag bekend is, worden de ontbrekende waarden in d
 
 ##### 5.4.3.2
 
-Het repareren van meetgegevens zoals bedoeld in [5.4.3.1](https://wetten.overheid.nl/jci1.3:c:BWBR0037925&hoofdstuk=5&paragraaf=5.4&sub-paragraaf=5.4.3&artikel=5.4.3.1&z=2016-07-09&g=2016-07-09) is per aansluiting slechts eenmaal per dag toegestaan.
+Het repareren van meetgegevens zoals bedoeld in [5.4.3.1](https://wetten.overheid.nl/jci1.3:c:BWBR0037925&hoofdstuk=5&paragraaf=5.4&sub-paragraaf=5.4.3&artikel=5.4.3.1&z=2017-01-21&g=2017-01-21) is per aansluiting slechts eenmaal per dag toegestaan.
 
 ##### 5.4.3.3
 
@@ -900,11 +900,11 @@ Reparatie van meetgegevens over perioden langer dan een dag zal bij meetinrichti
 
 ##### 5.4.3.6
 
-De meetverantwoordelijke registreert alle reparaties die conform [5.4.3.1 tot en met 5.4.3.5](https://wetten.overheid.nl/jci1.3:c:BWBR0037925&hoofdstuk=5&paragraaf=5.4&sub-paragraaf=5.4.3&artikel=5.4.3.1&z=2016-07-09&g=2016-07-09) zijn uitgevoerd en verstrekt de aangeslotene en de regionale netbeheerder desgevraagd een rapportage over deze reparaties.
+De meetverantwoordelijke registreert alle reparaties die conform [5.4.3.1 tot en met 5.4.3.5](https://wetten.overheid.nl/jci1.3:c:BWBR0037925&hoofdstuk=5&paragraaf=5.4&sub-paragraaf=5.4.3&artikel=5.4.3.1&z=2017-01-21&g=2017-01-21) zijn uitgevoerd en verstrekt de aangeslotene en de regionale netbeheerder desgevraagd een rapportage over deze reparaties.
 
 ##### 5.4.3.7
 
-Desgevraagd geeft de meetverantwoordelijke aan de MV-erkenner inzage in de registratie met betrekking tot de onder punt [5.4.3.6](https://wetten.overheid.nl/jci1.3:c:BWBR0037925&hoofdstuk=5&paragraaf=5.4&sub-paragraaf=5.4.3&artikel=5.4.3.6&z=2016-07-09&g=2016-07-09) genoemde reparaties.
+Desgevraagd geeft de meetverantwoordelijke aan de MV-erkenner inzage in de registratie met betrekking tot de onder punt [5.4.3.6](https://wetten.overheid.nl/jci1.3:c:BWBR0037925&hoofdstuk=5&paragraaf=5.4&sub-paragraaf=5.4.3&artikel=5.4.3.6&z=2017-01-21&g=2017-01-21) genoemde reparaties.
 
 ### 5a. Gaskwaliteitsmeting bij invoedingsinstallaties
 
@@ -972,15 +972,15 @@ Indien er zich situaties voordoen die niet zijn voorzien in de bepalingen van de
 
 ##### 6.3.1
 
-De regionale netbeheerder beslist na overleg met de aangeslotene over de toelaatbaarheid van een bestaande (gaskwaliteits)meetinrichting die voor de inwerkingtreding van deze regeling is geïnstalleerd en die niet aan de in [hoofdstuk 4](https://wetten.overheid.nl/jci1.3:c:BWBR0037925&hoofdstuk=4&z=2016-07-09&g=2016-07-09) of [5a](https://wetten.overheid.nl/jci1.3:c:BWBR0037925&hoofdstuk=5a&z=2016-07-09&g=2016-07-09) genoemde eisen voldoet. Indien de bestaande meetinrichting geheel of gedeeltelijk niet toelaatbaar wordt geoordeeld, stelt de regionale netbeheerder een redelijke termijn binnen welke de aangeslotene de meetinrichting alsnog aan de eisen genoemd in hoofdstuk 4 moet laten voldoen.
+De regionale netbeheerder beslist na overleg met de aangeslotene over de toelaatbaarheid van een bestaande (gaskwaliteits)meetinrichting die voor de inwerkingtreding van deze regeling is geïnstalleerd en die niet aan de in [hoofdstuk 4](https://wetten.overheid.nl/jci1.3:c:BWBR0037925&hoofdstuk=4&z=2017-01-21&g=2017-01-21) of [5a](https://wetten.overheid.nl/jci1.3:c:BWBR0037925&hoofdstuk=5a&z=2017-01-21&g=2017-01-21) genoemde eisen voldoet. Indien de bestaande meetinrichting geheel of gedeeltelijk niet toelaatbaar wordt geoordeeld, stelt de regionale netbeheerder een redelijke termijn binnen welke de aangeslotene de meetinrichting alsnog aan de eisen genoemd in hoofdstuk 4 moet laten voldoen.
 
 ##### 6.3.2
 
-De in [6.3.1](https://wetten.overheid.nl/jci1.3:c:BWBR0037925&hoofdstuk=6&paragraaf=6.3&artikel=6.3.1&z=2016-07-09&g=2016-07-09) genoemde termijn bedraagt maximaal vijf jaar voor de in [hoofdstuk 4](https://wetten.overheid.nl/jci1.3:c:BWBR0037925&hoofdstuk=4&z=2016-07-09&g=2016-07-09) genoemde eisen en maximaal 2 jaar voor de in [hoofdstuk 5a](https://wetten.overheid.nl/jci1.3:c:BWBR0037925&hoofdstuk=5a&z=2016-07-09&g=2016-07-09) genoemde eisen.
+De in [6.3.1](https://wetten.overheid.nl/jci1.3:c:BWBR0037925&hoofdstuk=6&paragraaf=6.3&artikel=6.3.1&z=2017-01-21&g=2017-01-21) genoemde termijn bedraagt maximaal vijf jaar voor de in [hoofdstuk 4](https://wetten.overheid.nl/jci1.3:c:BWBR0037925&hoofdstuk=4&z=2017-01-21&g=2017-01-21) genoemde eisen en maximaal 2 jaar voor de in [hoofdstuk 5a](https://wetten.overheid.nl/jci1.3:c:BWBR0037925&hoofdstuk=5a&z=2017-01-21&g=2017-01-21) genoemde eisen.
 
 ##### 6.3.2a
 
-Indien de in [6.3.1](https://wetten.overheid.nl/jci1.3:c:BWBR0037925&hoofdstuk=6&paragraaf=6.3&artikel=6.3.1&z=2016-07-09&g=2016-07-09) bedoelde aanpassing van de bestaande meetinrichting betrekking heeft op een uurlijkse afstanduitlezing zoals bedoeld in [artikel 2.3.2](https://wetten.overheid.nl/jci1.3:c:BWBR0037925&hoofdstuk=2&paragraaf=2.3&artikel=2.3.2&z=2016-07-09&g=2016-07-09), bedraagt de maximale termijn in afwijking van [6.3.2](https://wetten.overheid.nl/jci1.3:c:BWBR0037925&hoofdstuk=6&paragraaf=6.3&artikel=6.3.2&z=2016-07-09&g=2016-07-09) maximaal 6 weken. Indien de bedoelde aanpassing na verstrijken van deze termijn niet heeft plaatsgevonden of is aangevangen, stelt de regionale netbeheerder de desbetreffende aangeslotene en diens meetverantwoordelijke schriftelijk in gebreke. De regionale netbeheerder meldt de ingebrekestelling van de aangeslotene aan de desbetreffende programmaverantwoordelijke en de ingebrekestelling van de meetverantwoordelijke aan TenneT. Indien de bedoelde aanpassing van de meetinrichting binnen 6 weken na deze ingebrekestelling niet alsnog is uitgevoerd of aangevangen, gaat de regionale netbeheerder over tot de-activering van de desbetreffende aansluiting.
+Indien de in [6.3.1](https://wetten.overheid.nl/jci1.3:c:BWBR0037925&hoofdstuk=6&paragraaf=6.3&artikel=6.3.1&z=2017-01-21&g=2017-01-21) bedoelde aanpassing van de bestaande meetinrichting betrekking heeft op een uurlijkse afstanduitlezing zoals bedoeld in [artikel 2.3.2](https://wetten.overheid.nl/jci1.3:c:BWBR0037925&hoofdstuk=2&paragraaf=2.3&artikel=2.3.2&z=2017-01-21&g=2017-01-21), bedraagt de maximale termijn in afwijking van [6.3.2](https://wetten.overheid.nl/jci1.3:c:BWBR0037925&hoofdstuk=6&paragraaf=6.3&artikel=6.3.2&z=2017-01-21&g=2017-01-21) maximaal 6 weken. Indien de bedoelde aanpassing na verstrijken van deze termijn niet heeft plaatsgevonden of is aangevangen, stelt de regionale netbeheerder de desbetreffende aangeslotene en diens meetverantwoordelijke schriftelijk in gebreke. De regionale netbeheerder meldt de ingebrekestelling van de aangeslotene aan de desbetreffende programmaverantwoordelijke en de ingebrekestelling van de meetverantwoordelijke aan TenneT. Indien de bedoelde aanpassing van de meetinrichting binnen 6 weken na deze ingebrekestelling niet alsnog is uitgevoerd of aangevangen, gaat de regionale netbeheerder over tot de-activering van de desbetreffende aansluiting.
 
 ##### 6.3.3
 
@@ -1108,65 +1108,73 @@ B1.1.1
 
 Indien wordt voldaan aan de eisen die in deze bijlage zijn opgenomen, wordt voldaan aan de eisen met betrekking tot nauwkeurigheid zoals geformuleerd in 3.5.2 en 3.5.3 in de Meetcode gas RNB.
 
+### Bijlage 1. ex artikel 3.5.5 van de Meetcode gas RNB
+
+B1.2.1
+
+B1.1.1
+
+### B1.3.3. Volume herleiding met een volumeherleidingsinstrument (T)
+
 ### B1.2. Gasmeter
 
 B1.2.1
 
 De gasmeter wordt gebruikt voor de bepaling van de doorgestroomde hoeveelheid gas onder bedrijfscondities.
 
-### B1.3.3. Volume herleiding met een volumeherleidingsinstrument (T)
+B1.2.2
 
-### B1.3.3.1. Algemeen
+De gasmeter dient te voldoen aan de bepalingen op grond van de [Metrologiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0019517) en door het NMi te zijn toegelaten voor verrekeningsdoeleinden.
 
-B1.2.3
+### B1.3.3.2. Toepassingsgebied
 
 Voor aansluitingen met een maximale capaciteit groter dan 40 m3/uur (>G25) worden geen balgengasmeters toegepast.
 
 B1.2.4
 
-Voor aansluitingen met een jaarverbruik groter dan 10 miljoen m3(n)/jaar bedraagt de miswijzing van de gasmeter maximaal 0,5% in het gebied tussen 0,2 Qmax en Qmax.
+### B1.3.3.3. Extra eisen drukregeling
 
-### B1.3.3.2. Toepassingsgebied
+B1.2.5
 
 De gasmeter dient zodanig ingebouwd te worden dat de additionele installatiefout maximaal 0,5% bedraagt.
 
 B1.2.6
 
-### B1.3.3.3. Extra eisen drukregeling
-
-B1.3.3.3.1
-
-De doorgestroomde hoeveelheid gas wordt herleid naar m3(n) volgens onderstaande formule:
-
-waarin:
-
-V = doorgestroomde hoeveelheid volume in m3
+Indien de gemeten uurcapaciteit meer dan tien uren groter is dan 1,2 Q max, is een herijk nodig.
 
 Vn = herleid volume in m3(n)
 
-P = gemeten absolute druk in bar
+De doorgestroomde hoeveelheid gas wordt herleid naar m3(n) volgens onderstaande formule:
 
 ### B1.3.4. Grondtemperatuurmethode
 
 ### B1.3.4.1. Algemeen
 
-Tn = temperatuur onder normaalconditie 273,15 K (0 oC)
+Vn = herleid volume in m3(n)
 
-Z = compressibiliteit onder bedrijfscondities
+P = gemeten absolute druk in bar
 
 ### B1.3.4.2. Toepassingsgebied
 
-Er zijn verschillende methoden om het onder bedrijfscondities gemeten gas te herleiden naar normaalcondities. Iedere methode heeft een toepassingsgebied. Daarnaast zijn extra eisen gesteld om de gewenste nauwkeurigheid te kunnen realiseren.
+T = gemeten temperatuur in K
 
-De methode is toepasbaar voor meetinrichtingen waarvan de geregelde meetdruk maximaal 100 mbar bedraagt en het maximale verbruik niet meer dan 1 miljoen m3(n) per jaar bedraagt.
+Tn = temperatuur onder normaalconditie 273,15 K (0 oC)
 
 ### B1.3.1.1. Algemeen
+
+Zn = compressibiliteit onder normaalcondities
+
+Er zijn verschillende methoden om het onder bedrijfscondities gemeten gas te herleiden naar normaalcondities. Iedere methode heeft een toepassingsgebied. Daarnaast zijn extra eisen gesteld om de gewenste nauwkeurigheid te kunnen realiseren.
+
+B1.3.1.1.2
+
+Het volumeherleidingsinstrument dient door een ijkbevoegde te zijn geijkt.
 
 B1.3.1.1.1
 
 Het volumeherleidingsinstrument dient te voldoen aan de bepalingen op grond van de [Metrologiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0019517) en door het NMi te zijn toegelaten voor verrekeningsdoeleinden.
 
-B1.3.1.1.2
+### B1.3.4.4. Extra eisen temperatuur meting
 
 Het volumeherleidingsinstrument dient door een ijkbevoegde te zijn geijkt.
 
@@ -1174,29 +1182,21 @@ B1.3.1.1.3
 
 Het volumeherleidingsinstrument dient zodanig gejusteerd te zijn dat het voldoet aan de in de [Metrologiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0019517) genoemde grenzen.
 
-### B1.3.4.4. Extra eisen temperatuur meting
-
-Voor aansluitingen met een jaarverbruik groter dan 10 miljoen m3(n)/jaar wordt het volumeherleidingsinstrument zodanig gejusteerd dat zowel de miswijzing van het volumeherleidingsinstrument als geheel, als die van de te onderscheiden componenten zoveel mogelijk bij nul ligt. De gemiddelde miswijzing van het gehele volumeherleidingsinstrument bedraagt maximaal 0,5%.
-
-B1.3.1.1.5
-
-De voor de werking van het EVHI benodigde ingestelde waarden calorische bovenwaarde, relatieve dichtheid, molair percentage CO2 en molair percentage N2 worden door de netbeheerder van het landelijk gastransportnet bepaald op basis van langjarige gemiddelden van het ter plekke voorkomende gas en planningsgegevens van de te verwachten toekomstige gasstromen. Deze waarden worden door de netbeheerder van het landelijk gastransportnet op haar website gepubliceerd.
-
-B1.3.1.1.6
+B1.3.1.1.4
 
 ### B1.3.5. Administratieve temperatuurcorrectie
 
 ### B1.3.1.2. Toepassingsgebied
 
-B1.3.1.2.1
+De voor de werking van het EVHI benodigde ingestelde waarden calorische bovenwaarde, relatieve dichtheid, molair percentage CO2 en molair percentage N2 worden door de netbeheerder van het landelijk gastransportnet bepaald op basis van langjarige gemiddelden van het ter plekke voorkomende gas en planningsgegevens van de te verwachten toekomstige gasstromen. Deze waarden worden door de netbeheerder van het landelijk gastransportnet op haar website gepubliceerd.
 
-Deze methode is in alle gevallen toepasbaar.
+B1.3.1.1.6
 
 ### B1.3.2. Volume herleiding met een volumeherleidingsinstrument (PT)
 
 B1.3.5.2.1
 
-B1.3.2.1.1
+B1.3.1.2.1
 
 ### B1.3.5.3. Extra eisen druk meting
 
@@ -1204,25 +1204,25 @@ B1.3.2.1.2
 
 Het volumeherleidingsinstrument dient door een ijkbevoegde te zijn geijkt.
 
-B1.3.2.1.3
+B1.3.2.1.1
 
-Het volumeherleidingsinstrument dient zodanig gejusteerd te zijn dat het voldoet aan de in de [Metrologiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0019517) genoemde grenzen.
+Het volumeherleidingsinstrument dient te voldoen aan de bepalingen op grond van de [Metrologiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0019517) en door het NMi te zijn toegelaten voor verrekeningsdoeleinden.
 
-B1.3.2.1.4
+B1.3.2.1.2
 
-Voor aansluitingen met een jaarverbruik groter dan 10 miljoen m3(n)/jaar wordt het volumeherleidingsinstrument zodanig gejusteerd dat zowel de miswijzing van het volumeherleidingsinstrument als geheel, als die van de te onderscheiden componenten zoveel mogelijk bij nul ligt. De gemiddelde miswijzing van het gehele volumeherleidingsinstrument bedraagt maximaal 0,5%.
+Het volumeherleidingsinstrument dient door een ijkbevoegde te zijn geijkt.
 
 ### B1.3.2.2. Toepassingsgebied
 
 ### B1.3.6.1. Algemeen
 
-Deze methode is toepasbaar voor meetinrichtingen waarbij de geregelde meetdruk maximaal 4 bar (overdruk) bedraagt.
+B1.3.2.1.4
 
-Bij deze methode wordt het gemeten volume direct in de gasmeter gecorrigeerd op basis van de temperatuur van het gas. De gasdruk wordt niet gemeten, maar als een constante waarde van 28 mbar geprogrammeerd.
+Voor aansluitingen met een jaarverbruik groter dan 10 miljoen m3(n)/jaar wordt het volumeherleidingsinstrument zodanig gejusteerd dat zowel de miswijzing van het volumeherleidingsinstrument als geheel, als die van de te onderscheiden componenten zoveel mogelijk bij nul ligt. De gemiddelde miswijzing van het gehele volumeherleidingsinstrument bedraagt maximaal 0,5%.
 
 B1.3.6.1.2
 
-B1.3.3.1.1
+B1.3.2.2.1
 
 ### B1.3.6.2. Toepassingsgebied
 
@@ -1232,23 +1232,23 @@ Het volumeherleidingsinstrument dient te voldoen aan de eisen gesteld in paragra
 
 ### B1.3.3.2. Toepassingsgebied
 
+Bij deze individuele herleidingsmethode wordt de gastemperatuur continu gemeten ter plaatse van de comptabele meetinrichting. De gasdruk wordt niet gemeten, maar als een constante waarde geprogrammeerd. Ten aanzien van de gasdruk wordt verondersteld dat deze gelijk is aan de nominale leveringsdruk vermeerderd met 1,0155 bar.
+
+B1.3.3.1.2
+
+Het volumeherleidingsinstrument dient te voldoen aan de eisen gesteld in paragraaf B1.3.2.1.
+
+B1.3.3.3.1
+
 B1.3.3.2.1
 
 Deze methode is toepasbaar voor meetinrichtingen waarbij de geregelde meetdruk maximaal 4 bar (overdruk) bedraagt.
 
-B1.3.6.3.2
+### B1.3.3.3. Extra eisen drukregeling
 
 B1.3.3.3.1
 
 De stabiliteit van de druk moet voldoende zijn. De invloed op de volumebepaling is afhankelijk van de bedrijfsdruk. De invloed op het gemeten volume mag maximaal 1,0% zijn.
-
-B1.3.3.3.2
-
-### Bijlage 2. Bepalingen betreffende de compressibiliteitsberekening
-
-B1.3.3.3.3
-
-Bij toepassing van deze methode voor capaciteitsmeting bij een geregelde druk lager dan 1 bar, moet het resultaat gecorrigeerd voor de barometerstand.
 
 ### B1.3.4. Grondtemperatuurmethode
 
@@ -1256,15 +1256,23 @@ Bij toepassing van deze methode voor capaciteitsmeting bij een geregelde druk la
 
 ### B3.1.1. Algemeen
 
-Bij deze collectieve herleidingsmethode wordt verondersteld dat de gastemperatuur ter plaatse van de gasmeter gelijk is aan de temperatuur van de grond gemeten op een diepte van 90 cm onder het maaiveld. De grondtemperatuur wordt in opdracht van de Vereniging Meetbedrijven Nederland door Kiwa Technology regionaal vastgesteld. Ten aanzien van de gasdruk wordt verondersteld dat deze gelijk is aan de nominale leveringsdruk vermeerderd met 1,0155 bar.
+Bij toepassing van deze methode voor capaciteitsmeting bij een geregelde druk lager dan 1 bar, moet het resultaat gecorrigeerd voor de barometerstand.
 
 De gezamenlijke netbeheerders wijzen de instantie aan die alle meterplaatsers erkent voor zowel meterplaatsing Elektriciteit als meterplaatsing Gas, hierna te noemen: de MP-erkenner.
 
 B1.3.4.2.1
 
-De methode is toepasbaar voor meetinrichtingen waarvan de geregelde meetdruk maximaal 100 mbar bedraagt en het maximale verbruik niet meer dan 1 miljoen m3(n) per jaar bedraagt.
+B1.3.4.1.1
 
 ### B1.3.4.3. Extra eisen drukregeling
+
+B1.3.4.3.1
+
+B1.3.4.2.1
+
+De methode is toepasbaar voor meetinrichtingen waarvan de geregelde meetdruk maximaal 100 mbar bedraagt en het maximale verbruik niet meer dan 1 miljoen m3(n) per jaar bedraagt.
+
+De hoogte ligging van de gasmeter ten opzichte van NAP bedraagt mimimaal –10 meter en maximaal +50 meter.
 
 B1.3.4.3.1
 
@@ -1278,7 +1286,7 @@ B1.3.4.3.3
 
 Bij toepassing van deze methode voor capaciteitsmeting moet het resultaat worden gecorrigeerd voor de barometerstand.
 
-B3.1.2.4
+De gasmeter dient zodanig opgesteld te worden dat de temperatuur van het gas ter plaatsen van de gasmetermaximaal + of – 4 °C afwijkt ten opzicht van de grondtemperatuur over een periode van 1 uur bij een debiet dat ligt tussen 0,2 Qmax en Qmax.
 
 B1.3.4.4.1
 
@@ -1288,21 +1296,21 @@ B1.3.4.4.2
 
 De gasmeter dient zodanig opgesteld te worden dat de temperatuur van het gas ter plaatsen van de gasmetermaximaal + of – 4 °C afwijkt ten opzicht van de grondtemperatuur over een periode van 1 uur bij een debiet dat ligt tussen 0,2 Qmax en Qmax.
 
-Een natuurlijk persoon die beschikt over een door Stipel uitgegeven geldig persoonscertificaat VOP-meters voor elektriciteit en gas en over een VCA-certificaat wordt geacht voldoende onderricht te zijn voor het uitvoeren van werkzaamheden die verband houden met het plaatsen van op afstand uitleesbare kleinverbruikmeetinrichtingen.
+Op een aanvraag om erkenning wordt binnen tien werkdagen schriftelijk beslist.
 
-B3.1.2.7
+B1.3.5.2.1
 
 B1.3.5.1.1
 
 Bij deze individuele herleidingsmethode wordt verondersteld dat de gastemperatuur:
 
-Op een aanvraag om erkenning wordt binnen tien werkdagen schriftelijk beslist.
+B1.3.5.3.1
 
 B1.3.5.2.1
 
 De methode is toepasbaar voor een meetinrichting zonder capaciteitsmeting en met een jaarafname van 170.000 m3(n) of minder en een nominale geregelde druk van maximaal 30 mbar.
 
-B3.1.2.10
+### B1.3.5.3. Extra eisen druk meting
 
 B1.3.5.3.1
 
@@ -1310,31 +1318,31 @@ De hoogteligging van de gasmeter ten opzichte van NAP bedraagt minimaal –10 me
 
 B1.3.5.3.2
 
-### B3.1.3. Het MP-register
+Indien de hoogteligging van de gasmeter bij een kleinverbruikaansluiting ten opzichte van NAP 50 meter of meer bedraagt, wordt het gemeten volume als volgt gecorrigeerd:
 
 B1.3.5.3.3
 
 De in B1.3.5.3.2 bedoelde hoogteligging wordt bepaald door de hoogteligging van het postcodegebied waarin de desbetreffende gasmeter behorende bij een kleinverbruikaansluiting zich bevindt, bepaald aan de hand van het Actueel Hoogtebestand Nederland.
 
-B3.1.3.2
+B1.3.6.1.2
 
-De MP-erkenner deelt aan de meterplaatser de datum van zijn inschrijving in het MP-register mee.
+De gasmeter met temperatuurcorrectie dient te voldoen aan de bepalingen op grond van de [Metrologiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0019517) en door het NMi te zijn toegelaten.
 
 B1.3.6.1.1
 
 Bij deze methode wordt het gemeten volume direct in de gasmeter gecorrigeerd op basis van de temperatuur van het gas. De gasdruk wordt niet gemeten, maar als een constante waarde van 28 mbar geprogrammeerd.
 
-B1.3.6.1.2
+### B3.1.4. Einde van erkenning als meterplaatser
 
 De gasmeter met temperatuurcorrectie dient te voldoen aan de bepalingen op grond van de [Metrologiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0019517) en door het NMi te zijn toegelaten.
 
-B3.1.3.5
+B1.3.6.3.1
 
 B1.3.6.2.1
 
-### B3.1.4. Einde van erkenning als meterplaatser
+Deze methode is toepasbaar voor een meetinrichting zonder capaciteitsmeting en met een capaciteit van 40 m3(n) per uur of minder en een geregelde druk van maximaal 30 mbar (overdruk).
 
-B3.1.4.1
+Indien de hoogteligging van de gasmeter bij een kleinverbruikaansluiting ten opzichte van NAP 50 meter of meer bedraagt, wordt het gemeten volume als volgt gecorrigeerd:
 
 B1.3.6.3.1
 
@@ -1342,23 +1350,23 @@ De hoogteligging van de gasmeter ten opzichte van NAP bedraagt minimaal –10 me
 
 B1.3.6.3.2
 
-Indien de hoogteligging van de gasmeter bij een kleinverbruikaansluiting ten opzichte van NAP 50 meter of meer bedraagt, wordt het gemeten volume als volgt gecorrigeerd:
-
-B1.3.6.3.3
-
-De in B1.3.6.3.2 bedoelde hoogteligging wordt bepaald door de hoogteligging van het postcodegebied waarin de desbetreffende gasmeter behorende bij een kleinverbruikaansluiting zich bevindt, bepaald aan de hand van het Actueel Hoogtebestand Nederland.
-
-De erkenning wordt, onverminderd het in deze code omtrent intrekking bepaalde, in ieder geval beëindigd op verzoek van de desbetreffende meterplaatser en indien deze heeft opgehouden te bestaan.
-
 ### B3.2. Erkenningsregeling voor meetverantwoordelijken
 
 ### B3.2.1. Het uitoefenen van meetverantwoordelijkheid en erkenning als meetverantwoordelijke
 
-B3.2.1.1
+De in B1.3.6.3.2 bedoelde hoogteligging wordt bepaald door de hoogteligging van het postcodegebied waarin de desbetreffende gasmeter behorende bij een kleinverbruikaansluiting zich bevindt, bepaald aan de hand van het Actueel Hoogtebestand Nederland.
 
 Tot het uitoefenen van meetverantwoordelijkheid voor een aansluiting laat TenneT slechts personen toe aan wie hij op de voet van B3.2.1.8 een erkenning als meetverantwoordelijke heeft verleend.
 
-B3.2.1.2
+Ten behoeve van de verrekening van de getransporteerde hoeveelheden gas wordt het per overdrachtspunt vastgestelde aantal m3(n) gecorrigeerd voor de compressibiliteit van het gas.
+
+De compressibiliteitsfactor Zn/Z wordt berekend volgens de AGA NX19mod of sGerg methode of een andere door de erkende meetverantwoordelijke opgetekende methode.
+
+De gezamenlijke netbeheerders wijzen de instantie aan die alle meterplaatsers erkent voor zowel meterplaatsing Elektriciteit als meterplaatsing Gas, hierna te noemen: de MP-erkenner.
+
+B3.1.1.2
+
+De erkenning tot meterplaatser is noodzakelijk voor alle personen behoudens netbeheerders, die de activiteiten uitvoeren zoals beschreven in 1.3.2.
 
 B3.1.1.1
 
@@ -1368,7 +1376,7 @@ B3.1.1.2
 
 De erkenning tot meterplaatser is noodzakelijk voor alle personen behoudens netbeheerders, die de activiteiten uitvoeren zoals beschreven in 1.3.2.
 
-Desgewenst kan bij de in B3.2.1.2 bedoelde verlening van erkenning onderscheid gemaakt worden tussen erkenning voor verschillende categorieën meetinrichtingen conform het toepassingsgebied van de onder artikel B3.2.1.8 genoemde certificering.
+De meterplaatser heeft het recht om het deel van de op afstand uitleesbare kleinverbruikmeetinrichting dat geplaatst moet worden in het perceel van de aangeslotene, te plaatsen.
 
 B3.1.2.1
 
@@ -1394,7 +1402,7 @@ B3.1.2.6
 
 Een natuurlijk persoon die beschikt over een door Stipel uitgegeven geldig persoonscertificaat VOP-meters voor elektriciteit en gas en over een VCA-certificaat wordt geacht voldoende onderricht te zijn voor het uitvoeren van werkzaamheden die verband houden met het plaatsen van op afstand uitleesbare kleinverbruikmeetinrichtingen.
 
-B3.1.2.7
+### B3.2.2. Het MV-register
 
 Het aanvragen van erkenning geschiedt schriftelijk.
 
@@ -1402,7 +1410,7 @@ B3.1.2.8
 
 Op een aanvraag om erkenning wordt binnen tien werkdagen schriftelijk beslist.
 
-### B3.2.2. Het MV-register
+B3.1.2.9
 
 De MP-erkenner kan een voorlopige erkenning verlenen voor de duur van zes maanden. Heeft de aanvrager niet binnen deze zes maanden aan het in artikel B3.1.2.6 gestelde voldaan, dan wordt het verzoek om erkenning alsnog afgewezen.
 
@@ -1414,9 +1422,9 @@ B3.1.2.11
 
 Een erkenning geldt behoudens tussentijdse intrekking of beëindiging tot het einde van het desbetreffende kalenderjaar en wordt telkenmale voor de duur van een kalenderjaar verlengd, indien de meterplaatser vóór 1 december daaraan voorafgaand aan de MP-erkenner heeft aangetoond nog steeds aan de in artikel B3.1.25 genoemde eisen te voldoen.
 
-Een meetverantwoordelijke heeft het recht het MV-register in te zien en hem betreffende onjuistheden daarin te doen corrigeren.
+De MP-erkenner deelt aan de meterplaatser de datum van zijn inschrijving in het MP-register mee.
 
-B3.1.3.1
+### B3.2.3. Einde van erkenning als meetverantwoordelijke
 
 De MP-erkenner beheert een register, hierna te noemen het MP-register, waarin de namen, adressen, telefoon- en faxnummers alsmede de gegevens ten behoeve van elektronische gegevensuitwisseling zijn vermeld van de in B3.1.2.1 bedoelde personen.
 
@@ -1424,7 +1432,7 @@ B3.1.3.2
 
 De MP-erkenner deelt aan de meterplaatser de datum van zijn inschrijving in het MP-register mee.
 
-### B3.2.3. Einde van erkenning als meetverantwoordelijke
+B3.1.3.3
 
 Een meterplaatser heeft het recht het MP-register in te zien en hem betreffende onjuistheden daarin te doen corrigeren.
 
@@ -1436,21 +1444,13 @@ B3.1.3.5
 
 De MP-erkenner publiceert het MP-register op zijn website.
 
-TenneT maakt door hem opgelegde intrekkingen zo spoedig mogelijk openbaar.
-
-B3.1.4.1
-
-De MP-erkenner kan de erkenning van een meterplaatser intrekken indien de meterplaatser niet meer aan alle in B3.1.2.5 genoemde erkenningsvoorwaarden voldoet.
-
-B3.1.4.2
-
 Indien de MP-erkenner voornemens is de erkenning in te trekken doet hij de meterplaatser daarvan een mededeling per brief met ontvangstbevestiging, onder vermelding van de redenen voor intrekking alsmede de ingangsdatum. De MP-erkenner trekt de erkenning niet eerder in dan nadat de meterplaatser een redelijke termijn heeft gekregen om de geconstateerde tekortkomingen te herstellen, tenzij herstel, gelet op de aard van de tekortkoming, naar het oordeel van de MP-erkenner niet mogelijk is of te veel tijd kost.
 
 ### B3.2.4. Geheimhouding
 
-De MP-erkenner maakt door hem opgelegde intrekkingen zo spoedig mogelijk openbaar op zijn website.
+De MP-erkenner kan de erkenning van een meterplaatser intrekken indien de meterplaatser niet meer aan alle in B3.1.2.5 genoemde erkenningsvoorwaarden voldoet.
 
-B3.1.4.4
+B3.1.4.2
 
 Dit besluit zal met de toelichting in de Staatscourant worden geplaatst.
 
@@ -1488,15 +1488,15 @@ De totale onnauwkeurigheid van het gasmengsel dient te voldoen aan de Wobbe- en 
 
 ##### 5a.2.2
 
-Indien de invoeder met een andere meetmethode, gelijkwaardig aan die zoals bedoeld in [5a.2.1](https://wetten.overheid.nl/jci1.3:c:BWBR0037925&hoofdstuk=5a&paragraaf=5a.2&artikel=5a.2.1&z=2016-07-09&g=2016-07-09), de gaskwaliteit wil bepalen, wordt dit in overleg met de netbeheerder toegestaan, indien de invoeder aantoont dat deze meetmethode gelijkwaardige meetresultaten oplevert. Metingen dienen te geschieden met gelijke bepalingsintervallen zoals genoemd in 5a.2.1. Indien de toegepaste meetinstrumenten leiden tot afwijkende onderhouds- en beheerfrequentie, dient dit te worden goedgekeurd door de in [5a.1.1, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0037925&hoofdstuk=5a&paragraaf=5a.1&artikel=5a.1.1&z=2016-07-09&g=2016-07-09), bedoelde persoon of organisatie.
+Indien de invoeder met een andere meetmethode, gelijkwaardig aan die zoals bedoeld in [5a.2.1](https://wetten.overheid.nl/jci1.3:c:BWBR0037925&hoofdstuk=5a&paragraaf=5a.2&artikel=5a.2.1&z=2017-01-21&g=2017-01-21), de gaskwaliteit wil bepalen, wordt dit in overleg met de netbeheerder toegestaan, indien de invoeder aantoont dat deze meetmethode gelijkwaardige meetresultaten oplevert. Metingen dienen te geschieden met gelijke bepalingsintervallen zoals genoemd in 5a.2.1. Indien de toegepaste meetinstrumenten leiden tot afwijkende onderhouds- en beheerfrequentie, dient dit te worden goedgekeurd door de in [5a.1.1, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0037925&hoofdstuk=5a&paragraaf=5a.1&artikel=5a.1.1&z=2017-01-21&g=2017-01-21), bedoelde persoon of organisatie.
 
 ##### 5a.2.3
 
-In aanvulling op [5a.2.1](https://wetten.overheid.nl/jci1.3:c:BWBR0037925&hoofdstuk=5a&paragraaf=5a.2&artikel=5a.2.1&z=2016-07-09&g=2016-07-09) wordt tevens een bewakingssignaal aangeboden voor de bewaking van de THT-voorziening.
+In aanvulling op [5a.2.1](https://wetten.overheid.nl/jci1.3:c:BWBR0037925&hoofdstuk=5a&paragraaf=5a.2&artikel=5a.2.1&z=2017-01-21&g=2017-01-21) wordt tevens een bewakingssignaal aangeboden voor de bewaking van de THT-voorziening.
 
 ##### 5a.2.4
 
-Indien de invoedingsinstallatie is voorzien van een bijmenginstallatie van stikstof, zal het gehalte aan stikstof via een gaschromatische meting worden vastgesteld, tezamen met een flowmeting van het gas of de gassen die bijgemengd worden, tenzij de invoedingsinstallatie beschikt over een gaskwaliteitsmeting waarmee de Wobbe-Index kan worden bepaald zonder het gehalte aan stikstof te bepalen. In aanvulling op [5a.2.1](https://wetten.overheid.nl/jci1.3:c:BWBR0037925&hoofdstuk=5a&paragraaf=5a.2&artikel=5a.2.1&z=2016-07-09&g=2016-07-09) worden deze bewakingssignalen aangeboden.
+Indien de invoedingsinstallatie is voorzien van een bijmenginstallatie van stikstof, zal het gehalte aan stikstof via een gaschromatische meting worden vastgesteld, tezamen met een flowmeting van het gas of de gassen die bijgemengd worden, tenzij de invoedingsinstallatie beschikt over een gaskwaliteitsmeting waarmee de Wobbe-Index kan worden bepaald zonder het gehalte aan stikstof te bepalen. In aanvulling op [5a.2.1](https://wetten.overheid.nl/jci1.3:c:BWBR0037925&hoofdstuk=5a&paragraaf=5a.2&artikel=5a.2.1&z=2017-01-21&g=2017-01-21) worden deze bewakingssignalen aangeboden.
 
 ##### 5a.2.5
 
@@ -1508,7 +1508,7 @@ Met een halfjaarlijks interval wordt een monstername van het gas gedaan. Hierop 
 
 - c. in de opstartfase van de invoeding de netbeheerder in overleg met de invoeder een afwijkende frequentie kan vaststellen;
 
-- d. voor de componenten CH4, CO2, N2 en O2 de totale onnauwkeurigheid van het gasmengsel moet voldoen aan de Wobbe- en calorische waarde specificaties, zoals vermeld in [5a.2.1](https://wetten.overheid.nl/jci1.3:c:BWBR0037925&hoofdstuk=5a&paragraaf=5a.2&artikel=5a.2.1&z=2016-07-09&g=2016-07-09); en
+- d. voor de componenten CH4, CO2, N2 en O2 de totale onnauwkeurigheid van het gasmengsel moet voldoen aan de Wobbe- en calorische waarde specificaties, zoals vermeld in [5a.2.1](https://wetten.overheid.nl/jci1.3:c:BWBR0037925&hoofdstuk=5a&paragraaf=5a.2&artikel=5a.2.1&z=2017-01-21&g=2017-01-21); en
 
 - e. in de rapportage van de laboratoriumtest voor micro-organismen wordt aangegeven wat de wijze van monsterneming, de wijze van analyse en het criterium voor een positieve test is.
 
@@ -1533,7 +1533,7 @@ Met een halfjaarlijks interval wordt een monstername van het gas gedaan. Hierop 
 
 ##### 5a.2.6
 
-De monstername bedoeld in [5a.2.5](https://wetten.overheid.nl/jci1.3:c:BWBR0037925&hoofdstuk=5a&paragraaf=5a.2&artikel=5a.2.5&z=2016-07-09&g=2016-07-09) vindt plaats zoals beschreven in NEN-EN-ISO 10715:2000 “Aardgas – Richtlijnen voor monsterneming”.
+De monstername bedoeld in [5a.2.5](https://wetten.overheid.nl/jci1.3:c:BWBR0037925&hoofdstuk=5a&paragraaf=5a.2&artikel=5a.2.5&z=2017-01-21&g=2017-01-21) vindt plaats zoals beschreven in NEN-EN-ISO 10715:2000 “Aardgas – Richtlijnen voor monsterneming”.
 
 ##### 5a.2.7
 
@@ -1547,7 +1547,7 @@ Systematische afwijkingen van de gaskwaliteitsmeting dienen terug te worden gedr
 
 ##### 5a.3.1
 
-Een lokaal data acquisitiesysteem registreert op de plek van de meting voor elke analyseslag de verkregen analysewaarden en bepaalde waarden volgens [5a.2.1](https://wetten.overheid.nl/jci1.3:c:BWBR0037925&hoofdstuk=5a&paragraaf=5a.2&artikel=5a.2.1&z=2016-07-09&g=2016-07-09) en [5a.2.2](https://wetten.overheid.nl/jci1.3:c:BWBR0037925&hoofdstuk=5a&paragraaf=5a.2&artikel=5a.2.2&z=2016-07-09&g=2016-07-09), alsmede het tijdstip van registratie.
+Een lokaal data acquisitiesysteem registreert op de plek van de meting voor elke analyseslag de verkregen analysewaarden en bepaalde waarden volgens [5a.2.1](https://wetten.overheid.nl/jci1.3:c:BWBR0037925&hoofdstuk=5a&paragraaf=5a.2&artikel=5a.2.1&z=2017-01-21&g=2017-01-21) en [5a.2.2](https://wetten.overheid.nl/jci1.3:c:BWBR0037925&hoofdstuk=5a&paragraaf=5a.2&artikel=5a.2.2&z=2017-01-21&g=2017-01-21), alsmede het tijdstip van registratie.
 
 ##### 5a.3.2
 
@@ -1559,15 +1559,15 @@ Het lokale data acquisitiesysteem legt met de data tevens de door de meetinstall
 
 ##### 5a.3.4
 
-De geregistreerde waarden, zoals bedoeld in [5a.2.1](https://wetten.overheid.nl/jci1.3:c:BWBR0037925&hoofdstuk=5a&paragraaf=5a.2&artikel=5a.2.1&z=2016-07-09&g=2016-07-09), worden door de invoeder aangeboden aan de regionale netbeheerder door middel van een on-line verbinding.
+De geregistreerde waarden, zoals bedoeld in [5a.2.1](https://wetten.overheid.nl/jci1.3:c:BWBR0037925&hoofdstuk=5a&paragraaf=5a.2&artikel=5a.2.1&z=2017-01-21&g=2017-01-21), worden door de invoeder aangeboden aan de regionale netbeheerder door middel van een on-line verbinding.
 
 ##### 5a.3.5
 
-De invoeder dient de geregistreerde waarden van de gaskwaliteitsmeetinrichting, zoals bedoeld in [5a.2.1](https://wetten.overheid.nl/jci1.3:c:BWBR0037925&hoofdstuk=5a&paragraaf=5a.2&artikel=5a.2.1&z=2016-07-09&g=2016-07-09), vijf jaar te archiveren.
+De invoeder dient de geregistreerde waarden van de gaskwaliteitsmeetinrichting, zoals bedoeld in [5a.2.1](https://wetten.overheid.nl/jci1.3:c:BWBR0037925&hoofdstuk=5a&paragraaf=5a.2&artikel=5a.2.1&z=2017-01-21&g=2017-01-21), vijf jaar te archiveren.
 
 ##### 5a.3.6
 
-Twee maal per jaar verstrekt de invoeder de rapportage met de resultaten van de metingen en analyses zoals bedoel in [5a.2.5](https://wetten.overheid.nl/jci1.3:c:BWBR0037925&hoofdstuk=5a&paragraaf=5a.2&artikel=5a.2.5&z=2016-07-09&g=2016-07-09), alsmede de conclusie daaruit, aan de regionale netbeheerder.
+Twee maal per jaar verstrekt de invoeder de rapportage met de resultaten van de metingen en analyses zoals bedoel in [5a.2.5](https://wetten.overheid.nl/jci1.3:c:BWBR0037925&hoofdstuk=5a&paragraaf=5a.2&artikel=5a.2.5&z=2017-01-21&g=2017-01-21), alsmede de conclusie daaruit, aan de regionale netbeheerder.
 
 ##### 5a.3.7
 
@@ -1575,7 +1575,7 @@ De samenstelling (keuze en concentratie van de componenten) van het testgas en h
 
 ##### 5a.3.8
 
-Kalibratiegassen worden gravimetrisch aangemaakt conform NEN-EN-ISO 6142:2006 “Gas analysis – Preparation of calibration gas mixtures – Gravimetric method“ en van een certificaat voorzien conform NEN-EN-ISO 6143:2006 “Gas analysis – Comparison methods for determining and checking the composition of calibration gas mixtures”. De onnauwkeurigheid van het mengsel op basis van Wobbe en calorische bovenwaarde, dient te voldoen aan de in [5a.2.1](https://wetten.overheid.nl/jci1.3:c:BWBR0037925&hoofdstuk=5a&paragraaf=5a.2&artikel=5a.2.1&z=2016-07-09&g=2016-07-09) gestelde specificaties.
+Kalibratiegassen worden gravimetrisch aangemaakt conform NEN-EN-ISO 6142:2006 “Gas analysis – Preparation of calibration gas mixtures – Gravimetric method“ en van een certificaat voorzien conform NEN-EN-ISO 6143:2006 “Gas analysis – Comparison methods for determining and checking the composition of calibration gas mixtures”. De onnauwkeurigheid van het mengsel op basis van Wobbe en calorische bovenwaarde, dient te voldoen aan de in [5a.2.1](https://wetten.overheid.nl/jci1.3:c:BWBR0037925&hoofdstuk=5a&paragraaf=5a.2&artikel=5a.2.1&z=2017-01-21&g=2017-01-21) gestelde specificaties.
 
 ##### 5a.3.9
 
@@ -1675,7 +1675,7 @@ Componenten van de gaskwaliteitsmeetinrichting dienen conform de fabrikantspecif
 
 Indien de gaskwaliteitsmeetinrichting onderhoud behoeft, dient de invoeding gestaakt te worden.
 
-#### 5a.4.4. Testgasprocedure
+#### 5a.4.3. Onderhoud
 
 ##### 5a.4.4.1
 
@@ -1717,7 +1717,7 @@ De invoeder houdt alle correcties in de data in logboeken bij. In deze logboeken
 
 ### 6. Bijzondere bepalingen
 
-#### 6.1. Verwisseling of wijziging van het deel van de meetinrichting dat zich in het perceel van de aangeslotene bevindt
+#### 5a.5. Omgang met storingen gaskwaliteitsmeting
 
 #### 6.2. Onvoorzien
 
@@ -1729,47 +1729,47 @@ De invoeder houdt alle correcties in de data in logboeken bij. In deze logboeken
 
 ### B1.1. Algemeen
 
-B1.2.2
+Indien wordt voldaan aan de eisen die in deze bijlage zijn opgenomen, wordt voldaan aan de eisen met betrekking tot nauwkeurigheid zoals geformuleerd in 3.5.2 en 3.5.3 in de Meetcode gas RNB.
 
 De gasmeter dient te voldoen aan de bepalingen op grond van de [Metrologiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0019517) en door het NMi te zijn toegelaten voor verrekeningsdoeleinden.
 
-B1.2.5
+B1.2.3
 
-Indien de gemeten uurcapaciteit meer dan tien uren groter is dan 1,2 Q max, is een herijk nodig.
+Voor aansluitingen met een jaarverbruik groter dan 10 miljoen m3(n)/jaar bedraagt de miswijzing van de gasmeter maximaal 0,5% in het gebied tussen 0,2 Qmax en Qmax.
 
 ### B1.3. Volumeherleiding
 
+waarin:
+
+V = doorgestroomde hoeveelheid volume in m3
+
 Pn = absolute druk onder normaalcondities (1,01325 bar)
-
-T = gemeten temperatuur in K
-
-Zn = compressibiliteit onder normaalcondities
 
 ### B1.3.1. Volume herleiding met een volumeherleidingsinstrument (PTZ)
 
-B1.3.1.1.4
+B1.3.1.1.2
 
-Om de juiste werking van het EVHI te kunnen garanderen, kan het noodzakelijk zijn om de instellingen van de parameters van het EVHI te wijzigen. Hiervoor zijn onderstaande verplichtingen van toepassing:
+Voor aansluitingen met een jaarverbruik groter dan 10 miljoen m3(n)/jaar wordt het volumeherleidingsinstrument zodanig gejusteerd dat zowel de miswijzing van het volumeherleidingsinstrument als geheel, als die van de te onderscheiden componenten zoveel mogelijk bij nul ligt. De gemiddelde miswijzing van het gehele volumeherleidingsinstrument bedraagt maximaal 0,5%.
 
-### B1.3.2.1. Algemeen
+### B1.3.1.2. Toepassingsgebied
 
-Het volumeherleidingsinstrument dient te voldoen aan de bepalingen op grond van de [Metrologiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0019517) en door het NMi te zijn toegelaten voor verrekeningsdoeleinden.
+Deze methode is in alle gevallen toepasbaar.
 
-B1.3.2.2.1
+Het volumeherleidingsinstrument dient zodanig gejusteerd te zijn dat het voldoet aan de in de [Metrologiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0019517) genoemde grenzen.
 
 ### B1.3.3. Volume herleiding met een volumeherleidingsinstrument (T)
 
-### B1.3.3.1. Algemeen
+### B1.3.2.2. Toepassingsgebied
 
-Bij deze individuele herleidingsmethode wordt de gastemperatuur continu gemeten ter plaatse van de comptabele meetinrichting. De gasdruk wordt niet gemeten, maar als een constante waarde geprogrammeerd. Ten aanzien van de gasdruk wordt verondersteld dat deze gelijk is aan de nominale leveringsdruk vermeerderd met 1,0155 bar.
+Deze methode is toepasbaar voor meetinrichtingen waarbij de geregelde meetdruk maximaal 4 bar (overdruk) bedraagt.
 
 ### B1.3.3.3. Extra eisen drukregeling
 
 De hoogte ligging van de gasmeter ten opzichte van NAP bedraagt minimaal –10 meter en maximaal +50 meter.
 
-B1.3.4.1.1
+B1.3.3.3.3
 
-### B1.3.4.2. Toepassingsgebied
+### B1.3.4. Grondtemperatuurmethode
 
 ### B1.3.4.4. Extra eisen temperatuur meting
 
@@ -1777,7 +1777,7 @@ B1.3.4.1.1
 
 ### B1.3.5.1. Algemeen
 
-### B1.3.5.2. Toepassingsgebied
+### B1.3.5. Administratieve temperatuurcorrectie
 
 ### B1.3.5.3. Extra eisen druk meting
 
@@ -1789,39 +1789,47 @@ Indien de hoogteligging van de gasmeter bij een kleinverbruikaansluiting ten opz
 
 ### B1.3.6.2. Toepassingsgebied
 
-Deze methode is toepasbaar voor een meetinrichting zonder capaciteitsmeting en met een capaciteit van 40 m3(n) per uur of minder en een geregelde druk van maximaal 30 mbar (overdruk).
+B1.3.6.1.2
 
 ### B1.3.6.3. Extra eisen drukregeling
 
 ### Bijlage 2. Bepalingen betreffende de compressibiliteitsberekening
 
-Ten behoeve van de verrekening van de getransporteerde hoeveelheden gas wordt het per overdrachtspunt vastgestelde aantal m3(n) gecorrigeerd voor de compressibiliteit van het gas.
+Indien de hoogteligging van de gasmeter bij een kleinverbruikaansluiting ten opzichte van NAP 50 meter of meer bedraagt, wordt het gemeten volume als volgt gecorrigeerd:
 
-De compressibiliteitsfactor Zn/Z wordt berekend volgens de AGA NX19mod of sGerg methode of een andere door de erkende meetverantwoordelijke opgetekende methode.
+B1.3.6.3.3
 
 ### Bijlage 3. Erkenningsregelingen
 
-### B3.1. Erkenningsregeling voor meterplaatsers
+### Bijlage 2. Bepalingen betreffende de compressibiliteitsberekening
 
 ### B3.1.1. Algemeen
 
 ### B3.1.2. Het plaatsen van op afstand uitleesbare kleinverbruikmeetinrichtingen en erkenning als meterplaatser
 
-B3.1.2.9
+B3.1.2.7
 
 ### B3.1.3. Het MP-register
 
-B3.1.3.3
+B3.1.3.1
 
 ### B3.1.4. Einde van erkenning als meterplaatser
 
-B3.1.4.3
+B3.1.4.1
 
-De erkenning wordt, onverminderd het in deze code omtrent intrekking bepaalde, in ieder geval beëindigd op verzoek van de desbetreffende meterplaatser en indien deze heeft opgehouden te bestaan.
+Indien de MP-erkenner voornemens is de erkenning in te trekken doet hij de meterplaatser daarvan een mededeling per brief met ontvangstbevestiging, onder vermelding van de redenen voor intrekking alsmede de ingangsdatum. De MP-erkenner trekt de erkenning niet eerder in dan nadat de meterplaatser een redelijke termijn heeft gekregen om de geconstateerde tekortkomingen te herstellen, tenzij herstel, gelet op de aard van de tekortkoming, naar het oordeel van de MP-erkenner niet mogelijk is of te veel tijd kost.
 
 ### B3.2. Erkenningsregeling voor meetverantwoordelijken
 
 ### B3.2.1. Het uitoefenen van meetverantwoordelijkheid en erkenning als meetverantwoordelijke
+
+B3.1.4.4
+
+De erkenning wordt, onverminderd het in deze code omtrent intrekking bepaalde, in ieder geval beëindigd op verzoek van de desbetreffende meterplaatser en indien deze heeft opgehouden te bestaan.
+
+B3.2.1.2
+
+De MV-erkenner kan aan een persoon op aanvraag een erkenning als meetverantwoordelijke verlenen.
 
 B3.2.1.1
 
@@ -1863,7 +1871,7 @@ B3.2.1.10
 
 TenneT kan een voorlopige erkenning verlenen voor de duur van zes maanden. Heeft de aanvrager niet binnen deze zes maanden aan het in artikel B3.2.1.7 gestelde voldaan, dan wordt het verzoek om erkenning alsnog afgewezen.
 
-B3.2.1.11
+### B3.2.2. Het MV-register
 
 Een meetverantwoordelijke is verplicht TenneT binnen tien werkdagen alle wijzigingen van gegevens die voor de erkenning van belang zijn, op te geven, daaronder begrepen vernieuwing of wijziging van de onder artikel B3.2.1.7 bedoelde certificering.
 
@@ -1871,7 +1879,7 @@ B3.2.1.12
 
 Een erkenning geldt behoudens tussentijdse intrekking of beëindiging tot het einde van het desbetreffende kalenderjaar en wordt telkenmale voor de duur van een kalenderjaar verlengd, indien de meetverantwoordelijke vóór 1 december daaraan voorafgaand aan TenneT heeft aangetoond nog steeds aan de in artikel B3.2.1.7 genoemde eisen te voldoen.
 
-### B3.2.2. Het MV-register
+TenneT deelt aan de meetverantwoordelijke de datum van zijn inschrijving in het MV-register mee.
 
 B3.2.2.1
 
@@ -1885,7 +1893,7 @@ B3.2.2.3
 
 Een meetverantwoordelijke heeft het recht het MV-register in te zien en hem betreffende onjuistheden daarin te doen corrigeren.
 
-B3.2.2.4
+### B3.2.3. Einde van erkenning als meetverantwoordelijke
 
 Wijzigingen in het MV-register geeft de TenneT onverwijld door aan de regionale netbeheerders en meetverantwoordelijken.
 
@@ -1893,7 +1901,7 @@ B3.2.2.5
 
 TenneT publiceert het MV-register op zijn website.
 
-### B3.2.3. Einde van erkenning als meetverantwoordelijke
+Indien TenneT voornemens is de erkenning in te trekken doet hij de meetverantwoordelijke daarvan een mededeling per brief met ontvangstbevestiging, onder vermelding van de redenen voor intrekking alsmede de ingangsdatum. TenneT trekt de erkenning niet eerder in dan nadat de meetverantwoordelijke een redelijke termijn heeft gekregen om de geconstateerde tekortkomingen te herstellen, tenzij herstel, gelet op de aard van de tekortkoming, naar het oordeel van TenneT niet mogelijk is of te veel tijd kost.
 
 B3.2.3.1
 
@@ -1907,11 +1915,149 @@ B3.2.3.3
 
 TenneT maakt door hem opgelegde intrekkingen zo spoedig mogelijk openbaar.
 
-B3.2.3 4
+### B3.2.4. Geheimhouding
 
 De erkenning wordt, onverminderd het in deze code omtrent intrekking bepaalde, in ieder geval beëindigd op verzoek van de desbetreffende meetverantwoordelijke en indien deze heeft opgehouden te bestaan.
 
 B3.2.3.5
+
+Dit besluit zal met de toelichting in de Staatscourant worden geplaatst.
+
+##### Artikel 5.2.1a
+
+Onverminderd [5.2.1](https://wetten.overheid.nl/jci1.3:c:BWBR0037925&hoofdstuk=5&paragraaf=5.2&artikel=5.2.1&z=2017-01-21&g=2017-01-21) bepaalt de meetverantwoordelijke bij de meetingrichting op profielgrootverbruikaansluitingen die nog niet maandelijks uit- of afgelezen kunnen worden ten minste eenmaal per jaar, in de zes weken voorafgaande aan de maand die op grond van [2.1.2, onderdeel c, van de Informatiecode elektriciteit en gas](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&artikel=2.1.2) is opgenomen in het aansluitingenregister, de in [4.3.3.1](https://wetten.overheid.nl/jci1.3:c:BWBR0037925&hoofdstuk=4&paragraaf=4.3&sub-paragraaf=4.3.3&artikel=4.3.3.1&z=2017-01-21&g=2017-01-21) bedoelde meetgegevens en slaat deze op in niet-vluchtige databuffers.
+
+##### Artikel 5.2.2a
+
+Indien sprake is van dataoverdracht met behulp van pulsen tussen de verschillende onderdelen van de meetinrichting of tussen de meetinrichting en de meetverantwoordelijke, worden in afwijking van het gestelde in [5.2.1](https://wetten.overheid.nl/jci1.3:c:BWBR0037925&hoofdstuk=5&paragraaf=5.2&artikel=5.2.1&z=2017-01-21&g=2017-01-21) de maandelijkse tellerstanden van de gasmeter, en indien van toepassing van het niet herleid volume van het volumeherleidingsinstrument en van het herleid volume van het volumeherleidingsinstrument door de meetverantwoordelijke berekend op basis van deze pulsen.
+
+##### Artikel 5.2.3a
+
+Onverminderd [5.2.1](https://wetten.overheid.nl/jci1.3:c:BWBR0037925&hoofdstuk=5&paragraaf=5.2&artikel=5.2.1&z=2017-01-21&g=2017-01-21) bepaalt de meetverantwoordelijke eenmaal in de 36 maanden bij profielgrootverbruikmeetinrichtingen die nog niet maandelijks uit- of afgelezen kunnen worden de meetgegevens genoemd in [5.2.1a](https://wetten.overheid.nl/jci1.3:c:BWBR0037925&hoofdstuk=5&paragraaf=5.2&artikel=5.2.1a&z=2017-01-21&g=2017-01-21) door aflezing op de meetinrichting bij de aangeslotene en slaat deze meetgegevens op in niet-vluchtige databuffers.
+
+#### 5.3. Meetgegevensverzameling bij telemetriegrootverbruikmeetinrichtingen
+
+#### 5.4. Storingen in de gegevensverwerking bij telemetriegrootverbruikmeetinrichtingen
+
+#### 5.4.1. Verschillen bij telemetriegrootverbruikmeetinrichtingen
+
+#### 5.4.2. Verplichtingen van de meetverantwoordelijke bij het op afstand uitlezen van telemetriegrootverbruikmeetinrichtingen
+
+#### 5.4.3. Datareparatie bij telemetriegrootverbruikmeetinrichtingen
+
+### 5a. Gaskwaliteitsmeting bij invoedingsinstallaties
+
+#### 5a.1. Voorwaarden met betrekking tot de uitvoering van gaskwaliteitsmeting
+
+#### 5a.2. De gaskwaliteitsmeetinrichting
+
+#### 5a.3. Gaskwaliteitsmeetgegevens en rapportage
+
+#### 5a.4. Inbedrijfname, beheer en onderhoud van de gaskwaliteitsmeetinrichting
+
+#### 5a.4.1. Inbedrijfname en beheer van de gaskwaliteitsmeetinrichting
+
+#### 5a.4.2. Beheer van de gaskwaliteitsmeetinrichting
+
+#### 5a.4.4. Testgasprocedure
+
+### 6. Bijzondere bepalingen
+
+#### 6.1. Verwisseling of wijziging van het deel van de meetinrichting dat zich in het perceel van de aangeslotene bevindt
+
+#### 6.2. Onvoorzien
+
+#### 6.3. Overgangs- en slotbepalingen
+
+##### Artikel 6.3.3a
+
+In afwijking van 4.3.3.2 geldt voor een profielgrootverbruikeraansluiting die in gebruik is genomen voor de eerste dag van de maand februari 2017 dat tot uiterlijk drie jaar na deze datum de profielgrootverbruikmeetinrichting niet maandelijks uit- of afleesbaar hoeft te zijn.
+
+## Bijlagen
+
+### B1.1. Algemeen
+
+### B1.3. Volumeherleiding
+
+Z = compressibiliteit onder bedrijfscondities
+
+### B1.3.1. Volume herleiding met een volumeherleidingsinstrument (PTZ)
+
+### B1.3.1.1. Algemeen
+
+B1.3.1.1.5
+
+Om de juiste werking van het EVHI te kunnen garanderen, kan het noodzakelijk zijn om de instellingen van de parameters van het EVHI te wijzigen. Hiervoor zijn onderstaande verplichtingen van toepassing:
+
+### B1.3.2. Volume herleiding met een volumeherleidingsinstrument (PT)
+
+### B1.3.2.1. Algemeen
+
+B1.3.2.1.3
+
+### B1.3.3. Volume herleiding met een volumeherleidingsinstrument (T)
+
+### B1.3.3.1. Algemeen
+
+B1.3.3.1.1
+
+### B1.3.3.2. Toepassingsgebied
+
+B1.3.3.3.2
+
+De hoogte ligging van de gasmeter ten opzichte van NAP bedraagt minimaal –10 meter en maximaal +50 meter.
+
+### B1.3.4.1. Algemeen
+
+Bij deze collectieve herleidingsmethode wordt verondersteld dat de gastemperatuur ter plaatse van de gasmeter gelijk is aan de temperatuur van de grond gemeten op een diepte van 90 cm onder het maaiveld. De grondtemperatuur wordt in opdracht van de Vereniging Meetbedrijven Nederland door Kiwa Technology regionaal vastgesteld. Ten aanzien van de gasdruk wordt verondersteld dat deze gelijk is aan de nominale leveringsdruk vermeerderd met 1,0155 bar.
+
+### B1.3.4.2. Toepassingsgebied
+
+### B1.3.4.3. Extra eisen drukregeling
+
+### B1.3.4.4. Extra eisen temperatuur meting
+
+### B1.3.5.1. Algemeen
+
+### B1.3.5.2. Toepassingsgebied
+
+### B1.3.6. Het gebruik van een gasmeter met temperatuurcorrectie
+
+### B1.3.6.1. Algemeen
+
+### B1.3.6.2. Toepassingsgebied
+
+### B1.3.6.3. Extra eisen drukregeling
+
+### Bijlage 3. Erkenningsregelingen
+
+### B3.1. Erkenningsregeling voor meterplaatsers
+
+### B3.1.1. Algemeen
+
+### B3.1.2. Het plaatsen van op afstand uitleesbare kleinverbruikmeetinrichtingen en erkenning als meterplaatser
+
+### B3.1.3. Het MP-register
+
+### B3.1.4. Einde van erkenning als meterplaatser
+
+B3.1.4.3
+
+De MP-erkenner maakt door hem opgelegde intrekkingen zo spoedig mogelijk openbaar op zijn website.
+
+### B3.2. Erkenningsregeling voor meetverantwoordelijken
+
+### B3.2.1. Het uitoefenen van meetverantwoordelijkheid en erkenning als meetverantwoordelijke
+
+B3.2.1.11
+
+### B3.2.2. Het MV-register
+
+B3.2.2.4
+
+### B3.2.3. Einde van erkenning als meetverantwoordelijke
+
+B3.2.3 4
 
 Indien de erkenning van een meetverantwoordelijke wordt ingetrokken, treedt de vangnetregeling, zoals omschreven in 1.3.5, in werking.
 
@@ -1919,6 +2065,6 @@ Indien de erkenning van een meetverantwoordelijke wordt ingetrokken, treedt de v
 
 B3.2.4.1
 
-De meetverantwoordelijke verstrekt, behoudens het bepaalde in de [Informatiecode Elektriciteit en Gas](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&wetgeving), geen meetgegevens van aangeslotenen aan derden, anders dan met schriftelijke toestemming van de desbetreffende aangeslotene.
+De meetverantwoordelijke verstrekt, behoudens het bepaalde in de [Informatiecode Elektriciteit en Gas](https://wetten.overheid.nl/jci1.3:c:BWBR0037934), geen meetgegevens van aangeslotenen aan derden, anders dan met schriftelijke toestemming van de desbetreffende aangeslotene.
 
 Dit besluit zal met de toelichting in de Staatscourant worden geplaatst.
