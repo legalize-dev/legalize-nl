@@ -4,7 +4,7 @@ identifier: "BWBV0001160"
 country: "nl"
 rank: "verdrag"
 publication_date: "2017-01-23"
-last_updated: "1995-01-01"
+last_updated: "2017-01-23"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBV0001160"
 soort: "verdrag"
@@ -5756,7 +5756,7 @@ Klachten van het soort als omschreven in artikel XXIII:1c. van de GATT-Overeenko
 
 De volgende regels en procedures zijn van toepassing op overeenkomstig artikel 13, tweede lid, ingestelde werkgroepen van deskundigen.
 
-De Leden komen het volgende overeen:
+De volgende regels en procedures zijn van toepassing op overeenkomstig artikel 13, tweede lid, ingestelde werkgroepen van deskundigen.
 
 ##### A.. Doelstellingen
 
@@ -5874,6 +5874,20 @@ Rekening houdende met artikel 17 van de Overeenkomst, met punt 6 van bijlage III
 
 Besluiten:
 
+De Ministers verzoeken de in het kader van de Overeenkomst inzake de toepassing van artikel VII van GATT 1994 ingestelde Commissie douanewaarde het volgende besluit te nemen:
+
+De Commissie douanewaarde,
+
+Bevestigende dat de transactiewaarde de belangrijkste grondslag is voor het vaststellen van de douanewaarde in het kader van de Overeenkomst inzake de toepassing van artikel VII van GATT 1994 (hierna „de Overeenkomst” genoemd);
+
+Erkennende dat de douanediensten in bepaalde gevallen redenen kunnen hebben om te twijfelen aan de juistheid of de nauwkeurigheid van gegevens of documenten die door de handelaren tot staving van een aangegeven waarde worden verstrekt;
+
+Overwegende dat de douanediensten de legitieme commerciële belangen van de handelaren hierdoor niet mogen schaden;
+
+Rekening houdende met artikel 17 van de Overeenkomst, met punt 6 van bijlage III bij de Overeenkomst en met de desbetreffende besluiten van de Technische commissie douanewaarde;
+
+Besluiten:
+
 De Ministers besluiten de hiernavolgende teksten ter goedkeuring aan de bij de Overeenkomst inzake de toepassing van artikel VII van de GATT 1994 ingestelde Commissie Douanewaarde voor te leggen.
 
 De ministers besluiten de Raad voor de handel in diensten aan te bevelen tijdens zijn eerste vergadering het navolgende besluit over ondersteunende organen te nemen.
@@ -5925,6 +5939,492 @@ Erkennende de uitwerking van regelgevingsmaatregelen betreffende beroepskwalific
 Wensende multilaterale regels op te stellen ten einde te verzekeren dat deze regelgevingsmaatregelen, wanneer specifieke verbintenissen worden aangegaan, geen onnodige hindernissen voor de verlening van diensten van deskundigen opwerpen;
 
 Besluit het volgende:
+
+DONE at Marrakesh this fifteenth day of April one thousand nine hundred and ninety-four, in a single copy, in the English, French and Spanish languages, each text being authentic.
+
+##### Artikel 31bis
+
+1. De verplichtingen van een exporterend lid volgens [artikel 31, onder f](https://wetten.overheid.nl/jci1.3:c:BWBV0001160&bijlage=IC&deel=II&titeldeel=5&artikel=31&z=2017-01-23&g=2017-01-23), zijn niet van toepassing met betrekking tot het verlenen door dat lid van een dwanglicentie in de mate die nodig is voor de productie van farmaceutische producten (een farmaceutisch product) en de uitvoer daarvan naar in aanmerking komende importerende leden (een in aanmerking komend importerend lid) overeenkomstig de bepalingen van lid 2 van de bijlage bij deze overeenkomst.
+
+2. Indien volgens het stelsel als bedoeld in dit artikel en de bijlage bij deze overeenkomst door een exporterend lid een dwanglicentie wordt verleend, wordt in die lidstaat krachtens [artikel 31, onder h](https://wetten.overheid.nl/jci1.3:c:BWBV0001160&bijlage=IC&deel=II&titeldeel=5&artikel=31&z=2017-01-23&g=2017-01-23), een toereikende vergoeding betaald, rekening houdend met de economische waarde voor het importerende lid van het gebruik dat in het exporterende lid is toegestaan. Indien voor dezelfde producten in het in aanmerking komende importerende lid een dwanglicentie wordt verleend, geldt de verplichting van dat lid uit hoofde van artikel 31, onder h, niet voor die producten waarvoor in het exporterende lid overeenkomstig de eerste zin van dit lid een vergoeding is betaald.
+
+3. Met het oog op het gebruik van schaalvoordelen ten einde de koopkracht voor farmaceutische producten te vergroten en de lokale productie ervan te vergemakkelijken: indien een WTO-ontwikkelingsland of minst-ontwikkeld WTO-lid partij is bij een regionale handelsovereenkomst als bedoeld in artikel XXIV van GATT 1994 en het besluit van 28 november 1979 inzake een gedifferentieerde en gunstigere behandeling, wederkerigheid en een grotere deelneming voor de ontwikkelingslanden (L/4903), waarbij ten minste de helft van de bestaande leden bestaat uit landen die op de huidige VN-lijst van minst-ontwikkelde landen staan, is de verplichting voor dat lid uit hoofde van [artikel 31, onder f](https://wetten.overheid.nl/jci1.3:c:BWBV0001160&bijlage=IC&deel=II&titeldeel=5&artikel=31&z=2017-01-23&g=2017-01-23), niet van toepassing, in de mate die noodzakelijk is om een farmaceutisch product dat in die lidstaat onder dwanglicentie is geproduceerd of geïmporteerd te kunnen exporteren naar de markten van andere WTO-ontwikkelingslanden of minst-ontwikkelde WTO-leden die partij zijn bij de regionale handelsovereenkomst en met hetzelfde volksgezondheidsprobleem worden geconfronteerd. Hierbij wordt het territoriale karakter van de betrokken octrooirechten niet aangetast.
+
+4. De leden wraken de maatregelen die conform de bepalingen van dit artikel en de bijlage bij deze overeenkomst krachtens artikel XXIII, 1b en 1c, van GATT 1994 zijn genomen, niet.
+
+5. Dit artikel en de bijlage bij deze overeenkomst laten onverlet de rechten, verplichtingen en flexibiliteiten alsook de interpretatie daarvan, die de leden krachtens de bepalingen van deze overeenkomst hebben, met uitzondering van de [punten f en h van artikel 31](https://wetten.overheid.nl/jci1.3:c:BWBV0001160&bijlage=IC&deel=II&titeldeel=5&artikel=31&z=2017-01-23&g=2017-01-23), met inbegrip van de opnieuw door de verklaring inzake de TRIPS-overeenkomst en de volksgezondheid (WT/MIN(01)/DEC/2) bevestigde rechten, verplichtingen en flexibiliteiten. Zij laten eveneens onverlet de mate waarin onder dwanglicentie geproduceerde farmaceutische producten volgens de bepalingen van artikel 31, onder f, kunnen worden geëxporteerd.
+
+##### Artikel 32. Intrekking/Vervallenverklaring
+
+Voor beslissingen tot intrekking of vervallenverklaring van een octrooi dient een mogelijkheid voor toetsing door de rechter te bestaan.
+
+## TITEL 6. : ONTWERPEN VOOR SCHAKELPATRONEN (TOPOGRAFIEËN) VAN GEÏNTEGREERDE SCHAKELINGEN
+
+## TITEL 7. : BESCHERMING VAN NIET OPENBAAR GEMAAKTE INFORMATIE
+
+## TITEL 8. : BESTRIJDING VAN CONCURRENTIEBEPERKENDE GEDRAGINGEN IN CONTRACTUELE LICENTIES
+
+## DEEL III. HANDHAVING VAN DE RECHTEN UIT HOOFDE VAN DE INTELLECTUELE EIGENDOM
+
+## TITEL 1. : ALGEMENE VERPLICHTINGEN
+
+## TITEL 2. : CIVIELE EN ADMINISTRATIEVE PROCEDURES EN CORRIGERENDE MAATREGELEN
+
+## TITEL 3. : VOORLOPIGE MAATREGELEN
+
+## TITEL 4. : BIJZONDERE VEREISTEN IN VERBAND MET MAATREGELEN AAN DE GRENS1)Wanneer een Lid alle controles op het vervoer van goederen over zijn grens met een ander Lid waarmede het deel uitmaakt van een douaneunie heeft afgeschaft, wordt van dat Lid niet verlangd dat het de bepalingen van deze Titel aan die grens toepast.
+
+## TITEL 5. : STRAFRECHTELIJKE PROCEDURES
+
+## DEEL IV. VERWERVING EN INSTANDHOUDING VAN RECHTEN UIT HOOFDE VAN DE INTELLECTUELE EIGENDOM EN DAARMEDE SAMENHANGENDE PROCEDURES TUSSEN PARTIJEN
+
+## DEEL V. VOORKOMING EN BESLECHTING VAN GESCHILLEN
+
+## DEEL VI. OVERGANGSREGELINGEN
+
+## DEEL VII. INSTITUTIONELE REGELINGEN; SLOTBEPALINGEN
+
+De Leden komen hierbij het volgende overeen:
+
+##### Artikel 1. Reikwijdte en toepassing
+
+1. De regels en procedures van dit Memorandum van Overeenstemming zijn van toepassing op geschillen die worden voorgelegd ingevolge de bepalingen inzake overleg en geschillenbeslechting van de in Aanhangsel 1 bij dit Memorandum van Overeenstemming vermelde overeenkomsten (hierna te noemen „de vermelde overeenkomsten”). De regels en procedures van dit Memorandum van Overeenstemming zijn ook van toepassing op consultaties en de beslechting van geschillen tussen Leden betreffende hun rechten en verplichtingen ingevolge de bepalingen van de Overeenkomst tot oprichting van de Wereldhandelsorganisatie (WTO) en van dit Memorandum van Overeenstemming, hetzij afzonderlijk, hetzij in combinatie met een andere vermelde overeenkomst.
+
+2. De regels en procedures van dit Memorandum van Overeenstemming zijn van toepassing met inachtneming van de bijzondere of aanvullende regels en procedures inzake geschillenbeslechting, vervat in de vermelde overeenkomsten, die zijn aangeduid in Aanhangsel 2 bij dit Memorandum van Overeenstemming. Voor zover er een verschil bestaat tussen de regels en procedures van dit Memorandum van Overeenstemming en de in Aanhangsel 2 genoemde bijzondere of aanvullende regels en procedures, hebben de bijzondere of aanvullende regels en procedures van Aanhangsel 2 voorrang. Indien er in geschillen waarop de regels en procedures van meer dan één vermelde overeenkomst betrekking hebben, een conflict bestaat tussen de bijzondere of aanvullende regels en procedures van de desbetreffende overeenkomsten, en de partijen bij het geschil niet binnen twintig dagen na de vorming van het panel tot overeenstemming kunnen komen over de regels en procedures, bepaalt de Voorzitter van het Orgaan voor Geschillenbeslechting bedoeld in artikel 2, eerste lid (hierna in dit Memorandum van Overeenstemming te noemen het „DSB”), in overleg met de partijen bij het geschil, binnen tien dagen na een verzoek van één van beide Leden welke regels en procedures moeten worden gevolgd. De Voorzitter laat zich leiden door het beginsel dat, waar mogelijk, bijzondere of aanvullende regels en procedures dienen te worden toegepast en dat de in dit Memorandum van Overeenstemming uiteengezette regels en procedures dienen te worden toegepast voor zover zulks noodzakelijk is om een conflict te vermijden.
+
+##### Artikel 2. Uitvoering
+
+1. Het Orgaan voor Geschillenbeslechting wordt hierbij ingesteld ter uitvoering van deze regels en procedures en van de bepalingen inzake overleg en geschillenbeslechting van de vermelde overeenkomsten, tenzij in een vermelde overeenkomst anders is bepaald. Het DSB heeft bijgevolg de bevoegdheid panels te vormen, rapporten van een panel en de Beroepsinstantie aan te nemen, toezicht te houden op de tenuitvoerlegging van uitspraken en aanbevelingen en machtiging te verlenen voor het schorsen van concessies en andere verplichtingen ingevolge de vermelde overeenkomsten. Ten aanzien van geschillen die voortvloeien uit een vermelde overeenkomst die een Plurilaterale Handelsovereenkomst is, heeft de hierin gebruikte term „Lid” slechts betrekking op Leden die partij zijn bij de desbetreffende Plurilaterale Handelsovereenkomst. Wanneer het DSB de bepalingen inzake geschillenbeslechting van een Plurilaterale Handelsovereenkomst toepast, kunnen slechts Leden die partij zijn bij die overeenkomst deelnemen aan door het DSB genomen beslissingen of maatregelen met betrekking tot dat geschil.
+
+2. Het DSB stelt de desbetreffende raden en commissies van de WTO in kennis van alle ontwikkelingen in geschillen met betrekking tot de bepalingen van de onderscheiden vermelde overeenkomsten.
+
+3. Het DSB komt zo vaak bijeen als noodzakelijk is ter verrichting van zijn taken binnen de in dit Memorandum van Overeenstemming bepaalde termijnen.
+
+4. Wanneer de regels en procedures van dit Memorandum van Overeenstemming voorschrijven dat het DSB een beslissing neemt, doet het zulks bij consensus1)Het DSB wordt geacht bij consensus een beslissing te hebben genomen aangaande een kwestie die aan het orgaan is voorgelegd indien geen enkel Lid dat op desbetreffende bijeenkomst aanwezig is, formeel bezwaar maakt tegen de voorgestelde beslissing..
+
+##### Artikel 3. Algemene bepalingen
+
+1. De Leden bevestigen dat zij vasthouden aan de beginselen voor de behandeling van geschillen die tot dusver werden toegepast ingevolge de artikelen XXII en XXIII van de GATT-Overeenkomst van 1947, zoals hierin nader uitgewerkt en gewijzigd.
+
+2. Het stelsel voor geschillenbeslechting van de WTO is een hoofdpijler waarmee aan het multilaterale handelsstelsel zekerheid en voorspelbaarheid wordt toegevoegd. De Leden erkennen dat het dient ter bescherming van de rechten en verplichtingen van de Leden ingevolge de vermelde overeenkomsten en ter verheldering van de bestaande bepalingen van die overeenkomsten in overeenstemming met de gebruikelijke interpretatieregels van het internationaal publiek recht. Aanbevelingen en uitspraken van het DSB kunnen de in de vermelde overeenkomsten bepaalde rechten en verplichtingen niet aanvullen of beperken.
+
+3. Spoedig een regeling treffen voor omstandigheden waarin een Lid van mening is dat voordelen die hem al dan niet rechtstreeks toekomen ingevolge de vermelde overeenkomsten worden uitgehold door maatregelen van een ander Lid, is van wezenlijk belang voor het effectief functioneren van de WTO en het bewaren van een juist evenwicht tussen de rechten en verplichtingen van Leden.
+
+4. Aanbevelingen of uitspraken van het DSB hebben tot doel te komen tot een bevredigende regeling van de kwestie in overeenstemming met de rechten en verplichtingen ingevolge dit Memorandum van Overeenstemming en ingevolge de vermelde overeenkomsten.
+
+5. Alle oplossingen voor kwesties die formeel zijn voorgelegd ingevolge de regels en procedures inzake overleg en geschillenbeslechting van de vermelde overeenkomsten, met inbegrip van arbitrale uitspraken, dienen in overeenstemming te zijn met die overeenkomsten en mogen voordelen die een Lid ingevolge die overeenkomsten toekomen, niet tenietdoen of uithollen, noch de verwezenlijking van een doelstelling van die overeenkomsten belemmeren.
+
+6. Onderling overeengekomen oplossingen voor kwesties die formeel zijn voorgelegd ingevolge de bepalingen inzake overleg en geschillenbeslechting van de vermelde overeenkomsten worden ter kennis van het DSB en de desbetreffende raden en commissies gebracht, waarbij elk Lid alle daarop betrekking hebben punten naar voren kan brengen.
+
+7. Alvorens een zaak aanhangig te maken beoordeelt een Lid zelf of handelen overeenkomstig deze procedures zinvol zou zijn. De regeling inzake geschillenbeslechting heeft tot doel een positieve oplossing voor een geschil te bewerkstelligen. Een oplossing die wederzijds aanvaardbaar is voor de partijen bij het geschil en die verenigbaar is met de vermelde overeenkomsten, verdient duidelijk de voorkeur. Bij gebreke van een onderling overeengekomen oplossing, is normaliter de eerste doelstelling van de regeling inzake geschillenbeslechting te bewerkstelligen dat de desbetreffende maatregelen worden ingetrokken indien deze onverenigbaar worden geacht met de bepalingen van één van de vermelde overeenkomsten. Tot het bieden van compensatie dient slechts de toevlucht te worden genomen indien de onmiddellijke intrekking van de maatregel niet uitvoerbaar is en dan slechts als tijdelijke maatregel in afwachting van de intrekking van de maatregel die onverenigbaar is met een vermelde overeenkomst. Het laatste hulpmiddel dat dit Memorandum van Overeenstemming biedt voor het Lid dat de procedures voor geschillenbeslechting inroept, is de mogelijkheid de toepassing van concessies of andere verplichtingen ingevolge de vermelde overeenkomsten op discriminatoire wijze jegens het andere Lid te schorsen, op voorwaarde dat het DSB machtiging verleent voor dergelijke maatregelen.
+
+8. In gevallen waarin sprake is van niet-nakoming van de ingevolge een vermelde overeenkomst aangegane verplichtingen, wordt de actie vooralsnog beschouwd als een geval van tenietdoen of uitholling. Dit betekent dat normaliter wordt verondersteld dat een schending van de regels een nadelig effect heeft voor andere Leden die partij zijn bij die vermelde overeenkomst, en in die gevallen is het aan het Lid waartegen de klacht is ingediend om de beschuldiging te weerleggen.
+
+9. De bepalingen van dit Memorandum van Overeenstemming doen geen afbreuk aan de rechten van Leden om te trachten een gezaghebbende uitlegging van de bepalingen van een vermelde overeenkomst te verkrijgen door middel van een beslissing ingevolge de WTO-Overeenkomst of een vermelde overeenkomst.
+
+10. Er bestaat overeenstemming over het feit dat verzoeken om conciliatie en de gebruikmaking van de procedures voor geschillenbeslechting niet dienen te zijn bedoeld of worden beschouwd als contentieuze gedragingen en dat, indien een geschil ontstaat, alle Leden te goeder trouw deze procedures zullen voeren in een streven het geschil op te lossen. Er bestaat tevens overeenstemming over het feit dat klachten en klachten in reconventie met betrekking tot verschillende kwesties niet dienen te worden gevoegd.
+
+11. Dit Memorandum van Overeenstemming wordt slechts toegepast ten aanzien van nieuwe verzoeken om overleg ingevolge de bepalingen inzake overleg van de vermelde overeenkomsten die op of na de datum van inwerkingtreding van de WTO-Overeenkomst zijn gedaan. Op geschillen ten aanzien waarvan het verzoek om overleg vóór de inwerkingtreding van de WTO-Overeenkomst werd gedaan ingevolge de GATT-Overeenkomst van 1947 of ingevolge een andere overeenkomst die aan een vermelde overeenkomst voorafging, blijven de desbetreffende regels en procedures inzake geschillenbeslechting van toepassing die onmiddellijk vóór de inwerkingtreding van de WTO-Overeenkomst van kracht waren.1)Dit lid geldt ook voor geschillen ten aanzien waarvan de rapporten van de panels niet zijn aangenomen of niet volledig ten uitvoer zijn gelegd.
+
+12. Indien door een Lid dat ontwikkelingsland is een klacht op grond van een vermelde overeenkomst wordt ingediend tegen een Lid dat ontwikkeld land is, heeft de klager, niettegenstaande het elfde lid, het recht om zich, in plaats van op de bepalingen van de artikelen 4, 5, 6 en 12 van dit Memorandum van Overeenstemming, te beroepen op de desbetreffende bepalingen van het Besluit van de Overeenkomstsluitende Partijen van 5 april 1966 (BISD 14S/18), met dien verstande dat indien het panel van oordeel is dat de in paragraaf 7 van dit besluit bedoelde termijn te kort is om zijn rapport te verstrekken, die termijn met instemming van de klager kan worden verlengd. Voor zover er een verschil bestaat tussen de regels en procedures van de artikelen 4, 5, 6 en 12 en de desbetreffende regels en procedures van het Besluit, hebben de laatstbedoelde voorrang.
+
+##### Artikel 4. Consultaties
+
+1. De Leden bevestigen hun vastbeslotenheid om de doeltreffendheid van de door de Leden gehanteerde overlegprocedures te versterken en te verbeteren.
+
+2. Elk Lid verplicht zich ertoe overleg betreffende de door een ander Lid naar voren gebrachte bezwaren tegen maatregelen die op het grondgebied van eerstbedoeld Lid zijn genomen en die de werking van de vermelde overeenkomsten beïnvloeden, welwillend in overweging te nemen en daartoe passende gelegenheid te bieden.1)Wanneer de bepalingen van een andere vermelde overeenkomst betreffende maatregelen die door regionale of plaatselijke overheden of autoriteiten op het grondgebied van een Lid worden genomen, afwijken van de bepalingen van dit lid, hebben de bepalingen van die andere vermelde overeenkomst voorrang.
+
+3. Indien een verzoek om consultaties ingevolge een vermelde overeenkomst wordt gedaan, dient het Lid waaraan het verzoek is gericht, tenzij onderling anders is overeengekomen, binnen tien dagen na ontvangst op het verzoek te reageren en te goeder trouw overleg aan te gaan binnen een termijn van ten hoogste dertig dagen te rekenen vanaf de datum van ontvangst van het verzoek, teneinde tot een wederzijds bevredigende oplossing te komen. Indien het Lid niet binnen tien dagen na ontvangst van het verzoek reageert, of niet binnen een termijn van ten hoogste dertig dagen, dan wel een andere onderling overeengekomen termijn, te rekenen vanaf de datum van het verzoek, overleg aangaat, kan het Lid dat om het voeren van overleg heeft verzocht, direct verzoeken om de vorming van een panel.
+
+4. Al deze verzoeken om consultaties worden ter kennis van het DSB en de desbetreffende raden en commissies gebracht door het Lid dat om consultaties verzoekt. Een verzoek om consultaties wordt schriftelijk ingediend met opgave van de redenen voor het verzoek, met inbegrip van een omschrijving van de maatregelen in kwestie en een vermelding van de rechtsgronden voor de klacht.
+
+5. In de loop van de consultaties in overeenstemming met de bepalingen van een vermelde overeenkomst dienen de Leden, alvorens hun toevlucht te nemen tot verdere stappen ingevolge dit Memorandum van Overeenstemming, te trachten een bevredigende regeling te treffen voor de kwestie.
+
+6. De consultaties zijn geheim en laten de rechten van elk van beide Leden bij verdere stappen onverlet.
+
+7. Indien de consultaties niet binnen zestig dagen na het verzoek om consultaties tot beslechting van het geschil hebben geleid, kan de klager verzoeken om de vorming van een panel. De klager kan binnen de termijn van zestig dagen verzoeken om de vorming van een panel indien consulterende partijen gezamenlijk van oordeel zijn dat consultaties niet tot beslechting van het geschil hebben geleid.
+
+8. In spoedeisende gevallen, met inbegrip van gevallen waarin het aan bederf onderhevige goederen betreft, gaan de Leden binnen een termijn van ten hoogste tien dagen na de datum van ontvangst van het verzoek consultaties aan. Indien de consultaties niet binnen een termijn van twintig dagen na de datum van ontvangst van het verzoek tot beslechting van het geschil hebben geleid, kan de klager verzoeken om de vorming van een panel.
+
+9. In spoedeisende gevallen, met inbegrip van gevallen waarin het aan bederf onderhevige goederen betreft, stellen de partijen bij het geschil, panels en de Beroepsinstantie alles in het werk om de procedure zo veel mogelijk te bespoedigen.
+
+10. Tijdens de consultaties dienen de Leden bijzondere aandacht te schenken aan de specifieke problemen en belangen van Leden die ontwikkelingsland zijn.
+
+11. Wanneer een ander Lid dan de consulterende Leden van oordeel is dat het een wezenlijk handelsbelang heeft bij de consultaties dat wordt gehouden ingevolge artikel XXII, eerste lid, van de GATT-Overeenkomst van 1994, artikel XXII, eerste lid, van de GATS-Overeenkomst of de overeenkomstige bepalingen van andere vermelde overeenkomsten, 1)De desbetreffende bepalingen inzake overleg in de vermelde overeenkomsten zijn de volgende:Overeenkomst inzake de landbouw, artikel 19; Overeenkomst inzake de toepassing van sanitaire en fytosanitaire maatregelen, artikel 11, eerste lid; Overeenkomst inzake textiel- en kledingprodukten, artikel 8, vierde lid; Overeenkomst inzake technische handelsbelemmeringen, artikel 14, eerste lid; Overeenkomst inzake met de handel verband houdende investeringsmaatregelen, artikel 8; Overeenkomst inzake de toepassing van artikel VI van de GATT-Overeenkomst van 1994, artikel 17, tweede lid; Overeenkomst inzake de toepassing van artikel VII van de GATT-Overeenkomst van 1994, artikel 19, tweede lid; Overeenkomst inzake inspectie vóór verzending, artikel 7; Overeenkomst inzake de oorsprongsregels, artikel 7; Overeenkomst inzake procedures op het gebied van invoervergunningen, artikel 6; Overeenkomst inzake subsidies en compenserende maatregelen, artikel 30; Overeenkomst inzake vrijwaringsmaatregelen, artikel 14; Overeenkomst inzake de handelsaspecten van de intellectuele eigendom, artikel 64, eerste lid, en overeenkomstige bepalingen inzake overleg in Plurilaterale Handelsovereenkomsten die zijn vastgesteld door de bevoegde organen van elke overeenkomst en ter kennis van het DSB zijn gebracht.
+
+kan dat Lid de consulterende Leden en het DSB binnen tien dagen na het uitgaan van het verzoek om consultaties ingevolge bedoeld artikel, in kennis stellen van zijn wens zich in de consultaties te mengen. Dat Lid wordt bij de consultaties betrokken, mits het Lid waaraan het verzoek om consultaties werd gericht, ermee instemt dat het beroep op wezenlijke belangen gegrond is. In dat geval stellen zij het DSB daarvan in kennis. Indien het verzoek zich in de consultaties te mogen mengen niet wordt aanvaard, staat het het verzoekende Lid vrij te vragen om consultaties ingevolge artikel XXII, eerste lid, of XXIII, eerste lid, van de GATT-Overeenkomst van 1994, artikel XXII, eerste lid, of XXIII, eerste lid, van de GATS-Overeenkomst of de overeenkomstige bepalingen van andere vermelde overeenkomsten.
+
+##### Artikel 5. Goede diensten, conciliatie en bemiddeling
+
+1. Goede diensten, conciliatie en bemiddeling zijn procedures waartoe vrijwillig wordt overgegaan indien de partijen bij het geschil zulks overeenkomen.
+
+2. Handelingen verband houdende met goede diensten, conciliatie en bemiddeling, en met name de standpunten die de partijen bij het geschil innemen, zijn vertrouwelijk en doen geen afbreuk aan de rechten van elk van beide partijen bij verdere stappen ingevolge deze procedures.
+
+3. Om goede diensten, conciliatie en bemiddeling kan te allen tijde door een partij bij een geschil worden verzocht. Zij kunnen te allen tijde aanvangen en te allen tijde worden beëindigd. Zodra de procedures voor goede diensten, conciliatie en bemiddeling zijn beëindigd, kan de klager overgaan tot een verzoek om de vorming van een panel.
+
+4. Wanneer binnen zestig dagen na de ontvangst van een verzoek om overleg een aanvang wordt gemaakt met goede diensten, conciliatie of bemiddeling, moet de klager een termijn van zestig dagen na de datum van ontvangst van van het verzoek om overleg toestaan alvorens om de vorming van een panel te verzoeken. De klager kan binnen de termijn van zestig dagen om de vorming van een panel verzoeken indien de partijen bij het geschil van oordeel zijn dat de goede diensten, conciliatie of bemiddeling niet tot beslechting van het geschil hebben geleid.
+
+5. Indien de partijen bij het geschil zulks overeenkomen, kunnen de procedures voor goede diensten, conciliatie of bemiddeling worden voortgezet terwijl de panelprocedure wordt gevoerd.
+
+6. De Directeur-Generaal kan, handelend uit hoofde van zijn functie, goede diensten, conciliatie of bemiddeling aanbieden teneinde de Leden te helpen een geschil te beslechten.
+
+##### Artikel 6. Vorming van panels
+
+1. Indien de klager hierom verzoekt, wordt uiterlijk op de eerstvolgende bijeenkomst van het DSB na de bijeenkomst waarop het verzoek voor het eerst als punt op de agenda van het DSB is geplaatst, een panel gevormd, tenzij het DSB bij consensus besluit geen panel te vormen1)Indien de klager daarom verzoekt, wordt hiertoe binnen vijftien dagen na het verzoek een bijeenkomst van het DSB belegd, mits de bijeenkomst ten minste tien dagen van tevoren wordt aangekondigd..
+
+2. Het verzoek om de vorming van een panel wordt schriftelijk gedaan. Dit geeft aan of overleg werd gepleegd, noemt de specifieke maatregelen in kwestie en geeft een korte uiteenzetting van de rechtsgrond van de klacht, waarin het probleem voldoende duidelijk wordt geschetst. Ingeval de verzoeker verlangt dat een panel wordt gevormd dat een andere taakomschrijving heeft dan de standaard-taakomschrijving, wordt de voorgestelde tekst van de bijzondere taakomschrijving in het schriftelijke verzoek opgenomen.
+
+##### Artikel 7. Taakomschrijving van de panels
+
+1. Panels hebben de volgende taakomschrijving, tenzij de partijen bij het geschil binnen twintig dagen na de vorming van het panel anders overeenkomen:
+
+„In het licht van de desbetreffende bepalingen in [naam van de door de partijen bij het geschil aangehaalde vermelde overeenkomst(en)] de door [naam van de partij] in document ... aan het DSB voorgelegde zaak te bestuderen en tot de conclusies te komen die het DSB zullen helpen bij het doen van de aanbevelingen of uitspraken als bedoeld in die overeenkomst(en).”
+
+2. De panels buigen zich over de desbetreffende bepalingen in de door de partijen bij het geschil aangehaalde of vermelde overeenkomst(en).
+
+3. Bij de vorming van een panel kan het DSB de Voorzitter machtigen de taakomschrijving van het panel op te stellen in overleg met de partijen bij het geschil, zulks met inachtneming van de bepalingen van het eerste lid. De aldus opgestelde taakomschrijving wordt aan alle Leden toegezonden. Indien een andere dan de standaard-taakomschrijving wordt overeengekomen, kan elk Lid elk daarop betrekking hebbend punt voorleggen aan het DSB.
+
+##### Artikel 8. Samenstelling van de panels
+
+1. De panels worden samengesteld uit zeer bekwame regeringsfunctionarissen en/of anderen, onder wie personen die zitting hebben gehad in een panel of een zaak aan een panel hebben voorgelegd, die zijn opgetreden als vertegenwoordiger van een Lid van de WTO of van een partij bij de GATT-Overeenkomst van 1947 dan wel als vertegenwoordiger in een raad of commissie van een vermelde overeenkomst of een overeenkomst die daaraan voorafging, of bij het Secretariaat, die het internationale handelsrecht of -beleid hebben gedoceerd of daarover hebben gepubliceerd, of die zich als hoger ambtenaar van een Lid met het handelsbeleid hebben beziggehouden.
+
+2. Panelleden dienen zodanig te worden geselecteerd dat de onafhankelijkheid van de leden, een voldoende gevarieerde achtergrond en een breed spectrum aan ervaring gewaarborgd zijn.
+
+3. Staatsburgers van Leden waarvan de regeringen1)Ingeval douane-unies of gemeenschappelijke markten partij bij het geschil zijn, geldt deze bepaling voor de staatsburgers van alle lidstaten van de douane-unie of gemeenschappelijke markt. hetzij partij bij het geschil, hetzij derden zoals gedefinieerd in artikel 10, tweede lid, zijn, mogen geen zitting nemen in het panel dat met het geschil is belast, tenzij de partijen bij het geschil anders overeenkomen.
+
+4. Ten behoeve van de selectie van panelleden houdt het Secretariaat een groslijst bij van regeringsfunctionarissen en anderen die de in het eerste lid genoemde kwalificaties bezitten, waaruit in voorkomend geval de panelleden worden gekozen. De lijst omvat de lijst van anderen dan regeringsfunctionarissen die werd opgesteld op 30 november 1984 (BISD 31S/9), alsook andere lijsten en groslijsten die ingevolge de vermelde overeenkomsten zijn opgesteld, en bevat de namen van de personen die bij de inwerkingtreding van de WTO-Overeenkomst op die lijsten en groslijsten zijn vermeld. Leden kunnen regelmatig namen van regeringsfunctionarissen en anderen voordragen voor opneming in de groslijst, met opgave van relevante gegevens over hun kennis van de internationale handel en van de sectoren of het onderwerp van de vermelde overeenkomsten, en deze namen worden aan de lijst toegevoegd na goedkeuring door het DSB. De lijst geeft voor iedere persoon op de lijst specifieke terreinen van ervaring of deskundigheid aan ter zake van de sectoren of het onderwerp van de vermelde overeenkomsten.
+
+5. De panels bestaan uit drie panelleden, tenzij de partijen bij het geschil binnen tien dagen na de vorming van het panel instemmen met een panel bestaande uit vijf panelleden. De Leden worden onmiddellijk van de samenstelling van het panel in kennis gesteld.
+
+6. Het Secretariaat draagt kandidaten voor benoeming in het panel voor aan de partijen bij het geschil. De partijen bij het geschil verzetten zich niet tegen deze voordrachten, behoudens dwingende redenen.
+
+7. Indien binnen twintig dagen na de vorming van een panel geen overeenstemming omtrent de panelleden bestaat, bepaalt de Directeur-generaal, op verzoek van één van beide partijen, in overleg met de Voorzitter van het DSB en de voorzitter van de desbetreffende raad of commissie, de samenstelling van het panel door de panelleden te benoemen die de Directeur-Generaal het meest geschikt acht, overeenkomstig de desbetreffende bijzondere of aanvullende regels of procedures van de vermelde overeenkomst(en) waarop het geschil betrekking heeft, na de partijen bij het geschil te hebben geraadpleegd. De Voorzitter van het DSB stelt de Leden uiterlijk tien dagen na de datum waarop de Voorzitter een daartoe strekkend verzoek heeft ontvangen in kennis van de samenstelling van het aldus gevormde panel.
+
+8. De Leden verplichten zich ertoe, in principe, hun functionarissen toe te staan als panellid op te treden.
+
+9. Panelleden handelen op persoonlijke titel en niet als regeringsvertegenwoordiger, noch als vertegenwoordiger van een organisatie. Regeringen mogen hun derhalve geen instructies geven, noch trachten hen persoonlijk te beïnvloeden met betrekking tot aan een panel voorgelegde kwesties.
+
+10. Wanneer het een geschil betreft tussen een Lid dat ontwikkelingsland is en een Lid dat ontwikkeld land is, omvat het panel, indien het Lid dat ontwikkelingsland is hierom verzoekt, ten minste één panellid uit een Lid dat een ontwikkelingsland is.
+
+11. Onkosten van panelleden, met inbegrip van reis- en verblijfkosten, worden vergoed uit de begroting van de WTO in overeenstemming met de door de Algemene Raad aan te nemen criteria, op basis van aanbevelingen van de Commissie voor Begroting, Financiën en Administratie.
+
+##### Artikel 9. Procedures ingeval er meer dan één klager is
+
+1. Wanneer meer dan één Lid verzoekt om de vorming van een panel met betrekking tot dezelfde kwestie, kan één panel worden gevormd om deze klachten te bestuderen, rekening houdend met de rechten van alle betrokken Leden. Wanneer zulks enigszins mogelijk is, dient één panel te worden gevormd om deze klachten te bestuderen.
+
+2. Dit ene panel organiseert zijn onderzoek en legt zijn conclusies aan het DSB voor op zodanige wijze, dat geen afbreuk wordt gedaan aan de rechten die de partijen bij het geschil zouden hebben indien de klachten door afzonderlijke panels zouden zijn onderzocht. Indien één van de partijen bij het geschil hierom verzoekt, legt het panel afzonderlijke rapporten betreffende het geschil voor. De door elk van de klagers ingediende schriftelijke stukken worden aan de andere klagers ter beschikking gesteld en elke klager heeft het recht aanwezig te zijn wanneer één van de andere klagers zijn standpunt voor het panel uiteenzet.
+
+3. Indien meer dan één panel wordt gevormd om de klachten met betrekking tot dezelfde zaak te onderzoeken, treden zoveel mogelijk dezelfde personen als panellid op in elk van de afzonderlijke panels en wordt het tijdschema voor de panelprocedure in die geschillen geharmoniseerd.
+
+##### Artikel 10. Derden
+
+1. Met de belangen van de partijen bij een geschil en met die van andere Leden van een vermelde overeenkomst waarop het geschil betrekking heeft, wordt gedurende de panelprocedure ten volle rekening gehouden.
+
+2. Een Lid dat een wezenlijk belang heeft bij een aan een panel voorgelegde kwestie en dit belang aan het DSB kenbaar heeft gemaakt, (hierna in dit Memorandum van Overeenstemming te noemen „een derde”) wordt in de gelegenheid gesteld om door het panel te worden gehoord en bij het panel schriftelijke stukken in te dienen. Deze stukken worden ook aan de partijen bij het geschil verstrekt en dienen in het rapport van het panel tot uitdrukking te komen.
+
+3. Derden ontvangen de stukken van de partijen bij het geschil bestemd voor de eerste bijeenkomst van het panel.
+
+4. Indien een derde van mening is dat een maatregel die reeds het voorwerp van een panelprocedure is, de voordelen die hem ingevolge een vermelde overeenkomst toekomen, tenietdoet of uitholt, kan dat Lid zijn toevlucht nemen tot de normale procedures voor geschillenbeslechting ingevolge dit Memorandum van Overeenstemming. Dat geschil wordt, voor zover zulks mogelijk is, aan het oorspronkelijke panel voorgelegd.
+
+##### Artikel 11. Taken van de panels
+
+De panels hebben tot taak het DSB bij te staan in de uitoefening van zijn verantwoordelijkheden ingevolge dit Memorandum van Overeenstemming en de vermelde overeenkomsten. Het panel dient derhalve de voorgelegde kwestie aan een objectieve beoordeling te onderwerpen, met inbegrip van een objectieve beoordeling van de feiten van de zaak en de toepasbaarheid van en de verenigbaarheid met de desbetreffende vermelde overeenkomsten, en tot de conclusies te komen die het DSB zullen helpen bij het doen van de aanbevelingen of de uitspraken als bedoeld in de vermelde overeenkomsten. De panels dienen regelmatig overleg te plegen met de partijen bij het geschil en hun voldoende gelegenheid te bieden om tot een wederzijds bevredigende oplossing te komen.
+
+##### Artikel 12. Werkwijze van het panel
+
+1. De panels volgen de in Aanhangsel 3 opgenomen werkwijze, tenzij het panel na overleg met de partijen bij het geschil anders besluit.
+
+2. De werkwijze van het panel dient voldoende flexibiliteit te bieden om rapporten van hoge kwaliteit te kunnen waarborgen zonder de panelprocedure onnodig te vertragen.
+
+3. Na overleg met de partijen bij het geschil stellen de panelleden zo spoedig mogelijk, en wanneer zulks haalbaar is binnen een week nadat de samenstelling en taakomschrijving van het panel zijn overeengekomen, het tijdschema voor de panelprocedure vast, rekening houdend met de bepalingen van artikel 4, negende lid, indien van toepassing.
+
+4. Bij de vaststelling van het tijdschema voor de panelprocedure biedt het panel de partijen bij het geschil voldoende tijd om hun in te dienen stukken op te stellen.
+
+5. De panels dienen exacte termijnen voor de indiening van schriftelijke stukken vast te stellen en de partijen dienen deze termijnen in acht te nemen.
+
+6. Elke partij bij het geschil dient zijn schriftelijke stukken in bij het Secretariaat, dat deze onmiddellijk doet toekomen aan het panel en de andere partij(en) bij het geschil. De klager dient zijn eerste stuk in voordat de verweerder zijn eerste stuk indient, tenzij het panel bij de vaststelling van het in het derde lid bedoelde tijdschema en na overleg met de partijen bij het geschil besluit dat de partijen hun eerste stukken gelijktijdig moeten indienen. Wanneer er afspraken zijn betreffende het na elkaar indienen van de eerste stukken, stelt het panel een vaste termijn vast voor de ontvangst van het stuk van de verweerder. Eventuele latere schriftelijke stukken worden gelijktijdig ingediend.
+
+7. Wanneer de partijen bij het geding niet tot een wederzijds bevredigende oplossing hebben kunnen komen, legt het panel zijn conclusies voor in de vorm van een schriftelijk rapport aan het DSB. In dergelijke gevallen worden in het rapport van een panel de resultaten van het feitenonderzoek, de toepasbaarheid van de desbetreffende bepalingen alsmede de beweegredenen die aan de conclusies en aanbevelingen van het panel ten grondslag liggen, vermeld. Wanneer de kwestie tussen de partijen bij het geding wordt geregeld, blijft het rapport van het panel beperkt tot een korte beschrijving van de zaak en een vermelding van het feit dat een oplossing werd bereikt.
+
+8. Teneinde de procedures efficiënter te doen verlopen, is de termijn waarbinnen het panel zijn onderzoek verricht, vanaf het tijdstip waarop de samenstelling en de taakomschrijving van het panel zijn overeengekomen tot het tijdstip waarop het eindrapport aan de partijen bij het geschil wordt verstrekt, in beginsel niet langer dan zes maanden. In spoedeisende gevallen, met inbegrip van gevallen waarin het aan bederf onderhevige goederen betreft, streeft het panel ernaar zijn rapport binnen drie maanden aan de partijen bij het geschil te verstrekken.
+
+9. Wanneer het panel van oordeel is dat het zijn rapport niet binnen zes maanden kan verstrekken, of binnen drie maanden in spoedeisende gevallen, stelt het het DSB schriftelijk in kennis van de redenen voor de vertraging, te zamen met een schatting van de termijn waarbinnen het zijn rapport zal uitbrengen. De termijn van de vorming van het panel tot de toezending van het rapport aan de Leden dient in geen geval langer te zijn dan negen maanden.
+
+10. In het kader van overleg met betrekking tot een maatregel genomen door een Lid dat ontwikkelingsland is, kunnen de partijen overeenkomen de in artikel 4, zevende en achtste lid, vastgelegde termijnen te verlengen. Indien, nadat de desbetreffende termijn is verstreken, de overleg voerende partijen niet kunnen overeenkomen dat het overleg is afgerond, besluit de Voorzitter van het DSB, na overleg met de partijen, of de desbetreffende termijn wordt verlengd en, zo ja, voor hoe lang. Bovendien gunt het panel in een onderzoek betreffende een klacht tegen een Lid dat ontwikkelingsland is, het Lid dat ontwikkelingsland is voldoende tijd om zijn argumentatie voor te bereiden en in te dienen. Handelen ingevolge dit lid laat de bepalingen van artikel 20, eerste lid, en artikel 21, vierde lid, onverlet.
+
+11. Wanneer één of meer partijen ontwikkelingslanden zijn, wordt in het rapport van het panel uitdrukkelijk vermeld in welke vorm rekening is gehouden met de desbetreffende bepalingen inzake gedifferentieerde en gunstigere behandeling voor Leden die ontwikkelingslanden zijn die deel uitmaken van de vermelde overeenkomsten die in de loop van de procedures voor geschillenbeslechting door het Lid dat ontwikkelingsland is naar voren zijn gebracht.
+
+12. Het panel kan zijn werkzaamheden te allen tijde op verzoek van de klager opschorten voor een tijdvak van ten hoogste twaalf maanden. In geval van opschorting worden de in het achtste en negende lid van dit artikel, artikel 20, eerste lid, en artikel 21, vierde lid, genoemde termijnen verlengd met de hoeveelheid tijd gedurende welke de werkzaamheden werden opgeschort. Indien de werkzaamheden van het panel gedurende meer dan twaalf maanden zijn opgeschort, vervalt de bevoegdheid tot vorming van het panel.
+
+##### Artikel 13. Recht om inlichtingen in te winnen
+
+1. Elk panel heeft het recht inlichtingen en technisch advies in te winnen bij een persoon of instelling die het daartoe geschikt acht. Alvorens bedoelde inlichtingen of advies in te winnen bij een persoon of instelling binnen de rechtsmacht van een Lid, stelt het panel de autoriteiten van dat Lid hiervan in kennis. Een Lid geeft onmiddellijk en volledig gevolg aan een verzoek van een panel om de inlichtingen die het panel noodzakelijk en passend acht. Vertrouwelijke inlichtingen die zijn verstrekt, worden niet openbaar gemaakt zonder de formele toestemming van de persoon, instelling of autoriteiten van het Lid die de inlichtingen verstrekt c.q. verstrekken.
+
+2. Panels kunnen inlichtingen inwinnen uit elke daarvoor in aanmerking komende bron en kunnen deskundigen raadplegen teneinde hun mening over bepaalde aspecten van de kwestie te horen. Ten aanzien van een feitenkwestie betreffende een wetenschappelijk of technisch vraagstuk dat door een partij bij het geschil naar voren is gebracht, kan een panel een schriftelijk advies inwinnen bij een groep van deskundigen. Regels voor de instelling van zo'n groep en de werkwijze daarvan zijn uiteengezet in Aanhangsel 4.
+
+##### Artikel 14. Geheimhouding
+
+1. De beraadslagingen van panels zijn geheim.
+
+2. De rapporten van panels worden opgesteld buiten tegenwoordigheid van de partijen bij het geschil, daarbij de verstrekte inlichtingen en de afgelegde verklaringen in aanmerking nemend.
+
+3. In het rapport van het panel tot uitdrukking gebrachte meningen van afzonderlijke panelleden zijn anoniem.
+
+##### Artikel 15. Tussentijdse beoordeling
+
+1. Na de bestudering van de verweerschriften en de pleidooien legt het panel de beschrijvende delen (betreffende feiten en argumenten) van zijn concept-rapport voor aan de partijen. Binnen een door het panel vastgestelde termijn dienen de partijen schriftelijk commentaar in.
+
+2. Na de termijn voor de ontvangst van het commentaar van de partijen brengt het panel een interimrapport uit aan de partijen, dat zowel de beschrijvende delen als de bevindingen en conclusies van het panel bevat. Binnen een door het panel vastgestelde termijn kan een partij het panel schriftelijk verzoeken bepaalde aspecten van het interimrapport opnieuw te bezien alvorens het eindrapport toe te zenden aan de Leden. Op verzoek van een partij belegt het panel nog een bijeenkomst met de partijen betreffende de in het schriftelijke commentaar genoemde aangelegenheden. Indien binnen de termijn voor het indienen van commentaar van geen enkele partij commentaar wordt ontvangen, wordt het interimrapport als eindrapport beschouwd en wordt het onmiddellijk toegezonden aan de Leden.
+
+3. De bevindingen van het eindrapport omvatten een bespreking van de naar aanleiding van de tussentijdse beoordeling aangevoerde argumenten. De tussentijdse beoordeling vindt plaats binnen de in artikel 12, achtste lid, genoemde termijn.
+
+##### Artikel 16. Aanneming van rapporten van panels
+
+1. Teneinde de Leden van het DSB voldoende tijd te bieden om rapporten van panels te bestuderen, worden de rapporten niet eerder dan twintig dagen nadat zij aan de Leden zijn toegezonden, door het DSB behandeld met het oog op aanneming.
+
+2. Leden die bezwaren hebben tegen een rapport van het panel dienen ten minste tien dagen vóór de bijeenkomst van het DSB waarop over het rapport van het panel zal worden behandeld, schriftelijk hun bezwaren toe te lichten met het oog op rondzending.
+
+3. De partijen bij het geschil hebben het recht ten volle deel te nemen aan de behandeling van het rapport van het panel door het DSB, en hun standpunten worden volledig opgetekend.
+
+4. Binnen zestig dagen nadat een rapport van een panel aan de Leden is toegezonden, wordt het rapport aangenomen op een bijeenkomst van het DSB1)Indien binnen deze termijn geen bijeenkomst van het DSB is gepland op een tijdstip waarmee kan worden voldaan aan de vereisten van artikel 16, eerste en vierde lid, dient hiertoe een bijeenkomst van het DSB te worden belegd., tenzij één van de partijen bij het geschil het DSB formeel kennisgeeft van haar beslissing beroep in te stellen, of het DSB bij consensus besluit het rapport niet aan te nemen. Indien een partij kennisgeving heeft gedaan van haar beslissing beroep in te stellen, wordt het rapport van het panel eerst na afloop van het beroep in behandeling genomen met het oog op aanneming door het DSB. Deze aannemingsprocedure doet geen afbreuk aan het recht van de Leden om hun standpunten ten aanzien van een rapport van een panel kenbaar te maken. Indien een partij kennisgeving heeft gedaan van haar beslissing beroep in te stellen, wordt het rapport van het panel eerst na afloop van het beroep in behandeling genomen met het oog op aanneming door het DSB. Deze aannemingsprocedure doet geen afbreuk aan het recht van de Leden om hun standpunten ten aanzien van een rapport van een panel kenbaar te maken.
+
+##### Artikel 17. Beroep
+
+1. Door het DSB wordt een vaste Beroepsinstantie ingesteld. De Beroepsinstantie neemt kennis van beroepen betreffende aan een panel voorgelegde zaken. De Beroepsinstantie bestaat uit zeven personen, van wie er drie bij elke zaak fungeren. De personen die in de Beroepsinstantie zitting hebben, rouleren. Dit rouleersysteem wordt vastgesteld in het reglement van orde van de Beroepsinstantie.
+
+2. Het DSB benoemt personen die zitting nemen in de Beroepsinstantie voor een termijn van vier jaar; iedere persoon kan eenmaal worden herbenoemd. De termijn van drie van de zeven personen die onmiddellijk na de inwerkingtreding van de WTO-Overeenkomst worden benoemd, eindigt echter na twee jaar, hetgeen door loting wordt bepaald. Vacatures worden opgevuld zodra zij ontstaan. Een persoon die wordt benoemd ter vervanging van een persoon wiens ambtstermijn nog niet is geëindigd, fungeert voor het resterende gedeelte van de ambtstermijn van zijn of haar voorganger.
+
+3. De Beroepsinstantie wordt samengesteld uit gezaghebbende personen, met aantoonbare ervaring op het gebied van het recht, de internationale handel en het onderwerp van de vermelde overeenkomsten in het algemeen. Zij mogen geen banden hebben met enige regering. De leden van de Beroepsinstantie dienen in grote lijnen representatief te zijn voor de Leden van de WTO. Allen die zitting hebben in de Beroepsinstantie dienen te allen tijde en op korte termijn beschikbaar te zijn en dienen zich op de hoogte te houden van de activiteiten ter zake van de geschillenbeslechting en andere hiermee samenhangende activiteiten van de WTO. Zij mogen niet deelnemen aan de behandeling van geschillen die direct of indirect zouden kunnen leiden tot een belangenconflict.
+
+4. Beroep tegen een rapport van een panel kan slechts worden ingesteld door partijen bij het geschil en niet door derden. Derden die overeenkomstig artikel 10, tweede lid, aan het DSB kenbaar hebben gemaakt dat zij een wezenlijk belang bij de zaak hebben, kunnen schriftelijke stukken indienen en in de gelegenheid worden gesteld door de Beroepsinstantie te worden gehoord.
+
+5. De procedure duurt in principe niet langer dan zestig dagen, te rekenen vanaf de datum waarop een partij bij het geschil formeel kennis geeft van haar beslissing beroep in te stellen tot aan de datum waarop de Beroepsinstantie haar rapport rondzendt. Bij de vaststelling van haar tijdschema houdt de Beroepsinstantie rekening met de bepalingen van artikel 4, negende lid, indien van toepassing. Wanneer de Beroepsinstantie van oordeel is dat zij haar rapport niet binnen zestig dagen kan verstrekken, stelt zij het DSB schriftelijk in kennis van de redenen voor de vertraging, te zamen met een schatting van de termijn waarbinnen zij haar rapport zal voorleggen. De procedure mag in geen geval langer duren dan negentig dagen.
+
+6. Een beroep dient zich te beperken tot rechtskwesties die in het rapport van het panel aan de orde kwamen en tot de door het panel gegeven juridische interpretaties.
+
+7. De Beroepsinstantie dient te kunnen beschikken over passende administratieve en juridische ondersteuning indien zij deze nodig heeft.
+
+8. Onkosten van personen die zitting hebben in de Beroepsinstantie, met inbegrip van reis- en verblijfkosten, worden vergoed uit de begroting van de WTO in overeenstemming met de door de Algemene Raad aan te nemen criteria, op basis van aanbevelingen van de Commissie voor Begroting, Financiën en Administratie.
+
+9. In overleg met de Voorzitter van het DSB en de Directeur-generaal wordt door de Beroepsinstantie een reglement van orde opgesteld, dat ter kennisgeving wordt toegezonden aan de Leden.
+
+10. De handelingen van de Beroepsinstantie zijn geheim. De rapporten van de Beroepsinstantie worden opgesteld buiten tegenwoordigheid van de partijen bij het geschil, daarbij de verstrekte inlichtingen en de afgelegde verklaringen in aanmerking nemend.
+
+11. In het rapport van de Beroepsinstantie tot uitdrukking gebrachte meningen van afzonderlijke personen die zitting hebben in de Beroepsinstantie zijn anoniem.
+
+12. Gedurende de beroepsprocedure behandelt de Beroepsinstantie alle in overeenstemming met het zesde lid aan de orde gestelde kwesties.
+
+13. De Beroepsinstantie kan de juridische bevindingen en conclusies van het panel bevestigen, wijzigen of vernietigen.
+
+Aanneming van rapporten van de Beroepsinstantie
+
+14. Een rapport van de Beroepsinstantie wordt door het DSB aangenomen en door de partijen bij het geschil onvoorwaardelijk aanvaard, tenzij het DSB binnen dertig dagen nadat het rapport aan de Leden1)Indien binnen deze termijn geen bijeenkomst van het DSB is gepland, dient hiertoe een bijeenkomst van het DSB te worden belegd. is toegezonden, bij consensus besluit het rapport van de Beroepsinstantie niet aan te nemen. Deze aannemingsprocedure doet geen afbreuk aan het recht van de Leden om hun standpunten ten aanzien van een rapport van de Beroepsinstantie kenbaar te maken.
+
+##### Artikel 18. Contacten met het panel of de Beroepsinstantie
+
+1. Contacten van een partij met het panel of de Beroepsinstantie betreffende kwesties die bij het panel of de Beroepsinstantie in behandeling zijn, zijn niet toegestaan.
+
+2. Bij het panel of de Beroepsinstantie ingediende schriftelijke stukken worden vertrouwelijk behandeld, maar worden aan de partijen bij het geschil ter beschikking gesteld. Geen enkele bepaling van dit Memorandum van Overeenstemming belet een partij bij het geschil zijn eigen standpunt openbaar te maken. Informatie die door een ander Lid aan het panel of de Beroepsinstantie is verstrekt en die door dat Lid als vertrouwelijk is aangemerkt, wordt door de Leden vertrouwelijk behandeld. Een partij bij het geschil geeft tevens, op verzoek van een Lid, een niet-vertrouwelijke samenvatting van de in haar schriftelijke stukken vervatte informatie die openbaar gemaakt zou kunnen worden.
+
+##### Artikel 19. Aanbevelingen van een panel of de Beroepsinstantie
+
+1. Wanneer een panel of de Beroepsinstantie van oordeel is dat een maatregel onverenigbaar is met een vermelde overeenkomst, beveelt het panel of de Beroepsinstantie het betrokken Lid1)Het „betrokken Lid” is de partij bij het geschil waaraan de aanbevelingen van het panel of de Beroepsinstantie zijn gericht. aan deze maatregel met die overeenkomst 2)Wat betreft aanbevelingen in gevallen waarin geen sprake is van schending van de GATT-Overeenkomst van 1994 of van andere vermelde overeenkomsten, zie artikel 26. in overeenstemming te brengen. Naast zijn c.q. haar aanbevelingen kan het panel of de Beroepsinstantie voorstellen op welke wijze het betrokken Lid uitvoering zou kunnen geven aan de aanbevelingen.
+
+2. Overeenkomstig artikel 3, tweede lid, kunnen het panel en de Beroepsinstantie in hun bevindingen en aanbevelingen de in de vermelde overeenkomsten bepaalde rechten en verplichtingen niet aanvullen of beperken.
+
+##### Artikel 20. Termijn voor beslissingen van het DSB
+
+Tenzij de partijen bij het geschil anders zijn overeengekomen, is de termijn vanaf de vorming van het panel door het DSB tot de datum waarop het DSB het rapport van het panel of de Beroepsinstantie behandelt met het oog op aanneming, in beginsel ten hoogste negen maanden indien geen beroep tegen het rapport wordt ingesteld en ten hoogste twaalf maanden indien beroep wordt ingesteld. Indien hetzij het panel, hetzij de Beroepsinstantie ingevolge artikel 12, negende lid, of artikel 17, vijfde lid, heeft besloten de termijn voor het verstrekken van zijn c.q. haar rapport te verlengen, wordt de genomen extra tijd bij de hierboven genoemde termijnen geteld.
+
+##### Artikel 21. Toezicht op de tenuitvoerlegging van aanbevelingen en uitspraken
+
+1. Onmiddellijke naleving van de aanbevelingen of uitspraken van het DSB is van wezenlijk belang om te zorgen voor een effectieve beslechting van geschillen ten voordele van alle Leden.
+
+2. Bijzondere aandacht dient te worden besteed aan kwesties die de belangen raken van Leden die ontwikkelingsland zijn met betrekking tot maatregelen die zijn onderworpen aan geschillenbeslechting.
+
+3. Op een bijeenkomst van het DSB, gehouden binnen dertig dagen1)Indien gedurende deze termijn geen bijeenkomst van het DSB is gepland, dient hiertoe een bijeenkomst van het DSB te worden belegd. na de aanneming van het rapport van een panel of de Beroepsinstantie, stelt het betrokken Lid het DSB in kennis van zijn voornemens ten aanzien van de tenuitvoerlegging van de aanbevelingen en uitspraken van het DSB. Indien het onmogelijk is de aanbevelingen en uitspraken onmiddellijk na te leven, krijgt het betrokken Lid een redelijke termijn om zulks alsnog te doen. Een redelijke termijn is:
+
+- a. de door het betrokken Lid voorgestelde termijn, mits die termijn door het DSB wordt goedgekeurd; of, bij gebreke van goedkeuring,
+
+- b. een binnen vijfenveertig dagen na de aanneming van de aanbevelingen of uitspraken door de partijen bij het geschil onderling overeengekomen termijn; of bij gebreke van overeenstemming hierover,
+
+- c. een binnen negentig dagen na de aanneming van de aanbevelingen of uitspraken bij bindende arbitrage vastgestelde termijn.2)Indien de partijen niet binnen tien dagen nadat de kwestie voor arbitrage is voorgelegd, overeenstemming kunnen bereiken over een arbiter, wordt de arbiter binnen tien dagen benoemd door de Directeur-generaal, na raadpleging van de partijen. Bij deze arbitrage dient als richtsnoer voor de arbiter3)De term „arbiter” moet zodanig worden geïnterpreteerd, dat hieronder zowel een persoon als een groep kan worden verstaan. te gelden dat de redelijke termijn voor tenuitvoerlegging van de aanbevelingen van een panel of de Beroepsinstantie niet langer mag zijn dan vijftien maanden na de aanneming van een rapport van een panel of de Beroepsinstantie. De termijn kan evenwel korter of langer zijn, afhankelijk van de omstandigheden.
+
+4. Behalve indien het panel of de Beroepsinstantie ingevolge artikel 12, negende lid, of artikel 17, vijfde lid, de termijn voor het verstrekken van zijn c.q. haar rapport heeft verlengd, mag het tijdvak vanaf de datum van de vorming van het panel door het DSB tot aan de vaststelling van de redelijke termijn niet langer zijn dan vijftien maanden, tenzij de partijen bij het geschil anders overeenkomen. Wanneer ofwel het panel ofwel de Beroepsinstantie heeft besloten de termijn voor het verstrekken van zijn c.q. haar rapport te verlengen, wordt de genomen extra tijd bij de termijn van vijftien maanden geteld, met dien verstande dat de termijn in totaal niet langer mag zijn dan achttien maanden, tenzij de partijen bij het geschil overeenkomen dat er sprake is van buitengewone omstandigheden.
+
+5. Wanneer er onenigheid heerst omtrent het bestaan van maatregelen genomen ter naleving van de aanbevelingen of uitspraken, of omtrent de verenigbaarheid van die maatregelen met een vermelde overeenkomst, dient over dat geschil te wordt beslist door middel van gebruikmaking van deze procedures voor geschillenbeslechting, met inbegrip van, waar mogelijk, een beroep op het oorspronkelijke panel. Het panel geeft zijn beslissing binnen negentig dagen nadat de kwestie aan het panel is voorgelegd. Wanneer het panel van oordeel is dat het zijn rapport niet binnen deze termijn kan verstrekken, stelt het het DSB schriftelijk in kennis van de redenen voor de vertraging, te zamen met een schatting van de termijn waarbinnen het zijn rapport zal voorleggen.
+
+6. Het DSB ziet toe op de tenuitvoerlegging van de aangenomen aanbevelingen of uitspraken. De kwestie van de tenuitvoerlegging van aanbevelingen of uitspraken kan, te allen tijde na aanneming daarvan, door elk Lid aan het DSB worden voorgelegd. Tenzij het DSB anders beslist, wordt de kwestie van de tenuitvoerlegging van aanbevelingen of uitspraken op de agenda van de bijeenkomst van het DSB geplaatst, zulks na zes maanden na de vaststelling van de redelijke termijn ingevolge het derde lid, en blijft deze op de agenda van het DSB staan totdat de kwestie is opgelost. Uiterlijk tien dagen voor elke zodanige bijeenkomst van het DSB verstrekt het betrokken Lid het DSB een schriftelijk overzicht van de vorderingen die het heeft gemaakt in de tenuitvoerlegging van de aanbevelingen of uitspraken.
+
+7. Indien het een kwestie betreft die is voorgelegd door een Lid dat ontwikkelingsland is, gaat het DSB na welke verdere stappen het zou kunnen ondernemen die, gelet op de omstandigheden, passend zijn.
+
+8. Indien het een zaak betreft die aanhangig is gemaakt door een Lid dat ontwikkelingsland is, houdt het DSB, wanneer het nagaat welke passende stappen zouden kunnen worden ondernomen, niet alleen rekening met het handelsverkeer dat wordt getroffen door de maatregelen waartegen een klacht is ingediend, maar ook met de gevolgen daarvan voor de economie van de betrokken Leden die ontwikkelingsland zijn.
+
+##### Artikel 22. Compensatie en schorsing van concessies
+
+1. Compensatie en schorsing van concessies of andere verplichtingen zijn tijdelijke maatregelen die kunnen worden gehanteerd ingeval de aanbevelingen of uitspraken niet binnen een redelijke termijn ten uitvoer worden gelegd. Aan compensatie of aan schorsing van concessies of andere verplichtingen wordt evenwel niet de voorkeur gegeven boven volledige tenuitvoerlegging van een aanbeveling om een maatregel in overeenstemming te brengen met de vermelde overeenkomsten. Compensatie geschiedt vrijwillig en dient, indien toegestaan, in overeenstemming te zijn met de vermelde overeenkomsten.
+
+2. Indien het betrokken Lid de met een vermelde overeenkomst onverenigbaar geachte maatregel daarmee niet in overeenstemming brengt, of anderszins de aanbevelingen en uitspraken niet naleeft binnen de ingevolge artikel 21, derde lid, vastgestelde termijn, gaat dat Lid, indien hierom wordt verzocht, uiterlijk bij het verstrijken van de redelijke termijn onderhandelingen aan met een partij die een beroep heeft gedaan op de procedures voor geschillenbeslechting, teneinde tot een wederzijds aanvaardbare compensatie te komen. Indien binnen twintig dagen na het verstrijken van de redelijke termijn geen bevredigende compensatie is overeengekomen, kan een partij die een beroep op de procedures voor geschillenbeslechting heeft gedaan, verzoeken om een machtiging van het DSB tot schorsing van de toepassing van concessies of andere verplichtingen ingevolge de vermelde overeenkomsten ten aanzien van het betrokken Lid.
+
+3. Wanneer hij nagaat welke concessies of andere verplichtingen kunnen worden geschorst, dient de klager de volgende beginselen en procedures toe te passen:
+
+- a. als algemeen beginsel geldt dat de klager eerst dient te trachten concessies of andere verplichtingen te schorsen ten aanzien van dezelfde sector(en) als die waarin het panel of de Beroepsinstantie een schending of andere wijze van tenietdoen of uitholling heeft vastgesteld;
+
+- b. indien de klager van mening is dat het niet mogelijk of doeltreffend is concessies of andere verplichtingen te schorsen ten aanzien van dezelfde sectoren, kan hij trachten concessies of andere verplichtingen te schorsen in andere sectoren die onder dezelfde overeenkomst vallen;
+
+- c. indien de klager van mening is dat het niet mogelijk of doeltreffend is concessies of andere verplichtingen te schorsen ten aanzien van andere sectoren die onder dezelfde overeenkomst vallen, en dat de omstandigheden ernstig genoeg zijn, kan hij trachten concessies of andere verplichtingen te schorsen in het kader van een andere vermelde overeenkomst;
+
+- d. bij de toepassing van bovenstaande beginselen houdt de klager rekening met:
+
+- i. de handel, in de sector of in het kader van de overeenkomst, waarin het panel of de Beroepsinstantie een schending of andere wijze van tenietdoen of uitholling heeft vastgesteld, en het belang van die handel voor de klager;
+
+- ii. de meer algemene economische factoren die verband houden met de wijze van tenietdoen of uitholling en de meer algemene economische gevolgen van de schorsing van concessies of andere verplichtingen;
+
+- e. indien de klager besluit te verzoeken om machtiging tot schorsing van concessies of andere verplichtingen overeenkomstig letter b of c hierboven, vermeldt hij de redenen daarvoor in zijn verzoek. Het verzoek wordt gelijktijdig ingediend bij het DSB en bij de desbetreffende raden, alsmede, in geval van een verzoek ingevolge letter b, bij de desbetreffende sectororganen;
+
+- f. voor de toepassing van dit lid wordt onder „sector” verstaan:
+
+- i. met betrekking tot goederen, alle goederen;
+
+- ii. met betrekking tot diensten, een hoofdsector als genoemd in de huidige „Service Sectoral Classification List” waarin deze sectoren zijn genoemd;1)De lijst in document MTN.GNS/W/120 bevat elf sectoren.De term „arbiter” moet zodanig worden geïnterpreteerd, dat hieronder zowel een persoon als een groep kan worden verstaan.
+
+- iii. met betrekking tot de handelsaspecten van de intellectuele eigendom, elk van de categorieën rechten van de intellectuele eigendom vallend onder Titel 1 of Titel 2 of Titel 3 of Titel 4 of Titel 5 of Titel 6 of Titel 7 van Deel II of de verplichtingen ingevolge Deel III of Deel IV van de Overeenkomst inzake de handelsaspecten van de intellectuele eigendom (TRIPS-Overeenkomst);
+
+- g. voor de toepassing van dit lid wordt onder „overeenkomst” verstaan:
+
+- i. met betrekking tot goederen, de in Bijlage 1A bij de WTO-Overeenkomst genoemde overeenkomsten, in hun totaliteit, alsmede de Plurilaterale Handelsovereenkomsten, voor zover de partijen bij het geschil partij bij die overeenkomsten zijn;
+
+- ii. met betrekking tot diensten, de GATS-Overeenkomst;
+
+- iii. met betrekking tot de intellectuele eigendom, de TRIPS-Overeenkomst.
+
+4. De mate van de door het DSB gemachtigde schorsing van concessies of andere verplichtingen dient gelijkwaardig te zijn met de mate van het tenietdoen of de uitholling.
+
+5. Het Orgaan voor Geschillenbeslechting verleent geen machtiging voor schorsing van concessies of andere verplichtingen indien een vermelde overeenkomst deze schorsing verbiedt.
+
+6. Wanneer de in het tweede lid beschreven omstandigheden zich voordoen, verleent het DSB, op verzoek, machtiging tot schorsing van concessies of andere verplichtingen binnen dertig dagen na het verstrijken van de redelijke termijn, tenzij het DSB bij consensus besluit het verzoek te verwerpen. Indien het betrokken Lid echter bezwaar maakt tegen de voorgestelde mate van schorsing of beweert dat de in het derde lid genoemde beginselen en procedures niet zijn nageleefd wanneer een klager ingevolge het derde lid, letter b of c, om machtiging tot schorsing van concessies of andere verplichtingen heeft verzocht, wordt de kwestie aan arbitrage onderworpen. De arbitrage geschiedt door het oorspronkelijke panel, indien de leden beschikbaar zijn, of door een door de Directeur-Generaal benoemde arbiter2, en dient binnen zestig dagen na het verstrijken van de redelijke termijn te zijn voltooid. Concessies of andere verplichtingen mogen niet worden geschorst zolang de arbitrage gaande is.2, en dient binnen zestig dagen na het verstrijken van de redelijke termijn te zijn voltooid. Concessies of andere verplichtingen mogen niet worden geschorst zolang de arbitrage gaande is.
+
+7. De ingevolge het zesde lid optredende arbiter2)De term „arbiter” moet zodanig worden geïnterpreteerd, dat hieronder zowel een persoon als een groep kan worden verstaan, alsook de leden van het oorspronkelijke pannel wanneer deze als arbiter optreden. onderzoekt niet de aard van de te schorsen concessies of andere verplichtingen, maar stelt vast of de mate van deze schorsing gelijkwaardig is met de mate van het tenietdoen of de uitholling. De arbiter kan ook vaststellen of de voorgestelde schorsing van concessies of andere verplichtingen krachtens de vermelde overeenkomst is toegestaan. Indien de aan arbitrage onderworpen kwestie echter mede betrekking heeft op een bewering dat de in het derde lid hierboven genoemde beginselen en procedures niet zijn nageleefd, onderzoekt de arbiter deze bewering. Ingeval de arbiter vaststelt dat die beginselen en procedures niet zijn nageleefd, past de klager deze toe in overeenstemming met het derde lid. De partijen aanvaarden de beslissing van de arbiter als onherroepelijk en de betrokken partijen verlangen geen tweede arbitrage. Het DSB wordt onmiddellijk van de beslissing van de arbiter in kennis gesteld en verleent op verzoek machtiging tot schorsing van concessies of andere verplichtingen indien het verzoek verenigbaar is met de beslissing van de arbiter, tenzij het DSB bij consensus besluit het verzoek te verwerpen.
+
+8. De schorsing van concessies of andere verplichtingen is van tijdelijke aard en wordt slechts toegepast totdat de maatregel die in strijd met een vermelde overeenkomst wordt geacht, is opgeheven, of het Lid dat aanbevelingen of uitspraken moet uitvoeren, een oplossing biedt voor het tenietdoen of de uitholling van voordelen, of een wederzijds bevredigende oplossing wordt bereikt. In overeenstemming met artikel 21, zesde lid, blijft het DSB toezien op de tenuitvoerlegging van aangenomen aanbevelingen of uitspraken, met inbegrip van de gevallen waarin compensatie is geboden of concessies of andere verplichtingen zijn geschorst, maar de aanbevelingen om een maatregel met de vermelde overeenkomsten in overeenstemming te brengen, niet zijn uitgevoerd.
+
+9. De bepalingen voor geschillenbeslechting van de vermelde overeenkomsten kunnen worden ingeroepen ten aanzien van maatregelen die de inachtneming daarvan raken, genomen door regionale of plaatselijke overheden of autoriteiten op het grondgebied van een Lid. Wanneer het DSB heeft bepaald dat een bepaling van een vermelde overeenkomst niet in acht is genomen, neemt het verantwoordelijke Lid de redelijke maatregelen die mogelijk zijn om de inachtneming daarvan te waarborgen. De bepalingen van de vermelde overeenkomsten en dit Memorandum van Overeenstemming betreffende compensatie en schorsing van concessies of andere verplichtingen zijn van toepassing in gevallen waarin het niet mogelijk is gebleken bedoelde inachtneming te bewerkstelligen.1)Wanneer de bepalingen van een vermelde overeenkomst betreffende maatregelen genomen door regionale of plaatstelijke overheden of autoriteiten op het grondgebied van een Lid bepalingen bevatten die afwijken van de bepalingen van dit lid, hebben de bepalingen van die vermelde overeenkomst voorrang..
+
+##### Artikel 23. Versterking van het multilaterale stelsel
+
+1. Wanneer Leden goedmaking verlangen wegens een schending van verplichtingen of een andere wijze van tenietdoen of uitholling van voordelen ingevolge de vermelde overeenkomsten of wegens een belemmering voor de verwezenlijking van een doelstelling van de vermelde overeenkomsten, doen zij een beroep op de regels en procedures van dit Memorandum van Overeenstemming en nemen zij deze in acht.
+
+2. In dergelijke gevallen zullen de Leden:
+
+- a. niet overgaan tot de vaststelling dat er een schending heeft plaatsgevonden, dat voordelen zijn tenietgedaan of uitgehold, of dat de verwezenlijking van een doelstelling van de vermelde overeenkomsten is belemmerd, behalve door middel van geschillenbeslechting in overeenstemming met de regels en procedures van dit Memorandum van Overeenstemming, en zullen zij tot een vaststelling komen die verenigbaar is met de conclusies als vervat in het door het DSB goedgekeurde rapport van het panel of de Beroepsinstantie dan wel een ingevolge dit Memorandum van Overeenstemming gegeven arbitrale uitspraak;
+
+- b. de in artikel 21 uiteengezette procedures volgen om de redelijke termijn te bepalen waarbinnen het betrokken Lid de aanbevelingen en uitspraken moet uitvoeren; en
+
+- c. de in artikel 22 uiteengezette procedures volgen om de mate van de schorsing van concessies of andere verplichtingen te bepalen en de machtiging van het DSB te verkrijgen in overeenstemming met die procedures, alvorens de concessies of andere verplichtingen ingevolge de vermelde overeenkomsten te schorsen in reactie op het verzuim van het betrokken Lid om de aanbevelingen en uitspraken uit te voeren binnen die redelijke termijn.
+
+##### Artikel 24. Bijzondere procedures betreffende Leden die minstontwikkeld land zijn
+
+1. In alle stadia van de vaststelling van de oorzaken van een geschil en van procedures voor geschillenbeslechting waarbij een Lid betrokken is dat minstontwikkeld land is, wordt bijzondere aandacht geschonken aan de speciale situatie van Leden die minstontwikkeld land zijn. In dit opzicht handelen de Leden met de nodige terughoudendheid bij het aanhangig maken van kwesties overeenkomstig deze procedures waarbij een Lid betrokken is dat minstontwikkeld land is. Indien wordt vastgesteld dat het tenietdoen of de uitholling het gevolg is van een maatregel die is genomen door een Lid dat minstontwikkeld land is, handelen klagers met de nodige terughoudendheid wanneer zij compensatie verlangen of verzoeken om een machtiging tot schorsing van de toepassing van concessies of andere verplichtingen ingevolge deze procedures.
+
+2. In gevallen van geschillenbeslechting waarbij een Lid betrokken is dat minstontwikkeld land is, waarvoor in de loop van het overleg geen bevredigende oplossing wordt gevonden, biedt de Directeur-generaal of de Voorzitter van het DSB op verzoek van een Lid dat minstontwikkeld land is, hun goede diensten, conciliatie of bemiddeling aan teneinde de partijen te helpen hun geschil te beslechten, alvorens een verzoek om de vorming van de panel wordt gedaan. De Directeur-Generaal of de Voorzitter kan bij het verlenen van bovenbedoelde hulp elke door hen geschikt geachte bron raadplegen.
+
+##### Artikel 25. Arbitrage
+
+1. Snelle arbitrage binnen de WTO als alternatieve wijze van geschillenbeslechting kan de oplossing vergemakkelijken van bepaalde geschillen die betrekking hebben op door beide partijen duidelijk omschreven kwesties.
+
+2. Tenzij in dit Memorandum van Overeenstemming anders is bepaald, geschiedt het overgaan tot arbitrage slechts na onderlinge overeenstemming tussen de partijen, die de te volgen procedures overeenkomen. Overeenstemming inzake arbitrage wordt ruim voor de feitelijke aanvang van de arbitrageprocedure ter kennis van alle Leden gebracht.
+
+3. Andere Leden kunnen slechts partij bij een arbitrageprocedure worden met instemming van de partijen die zijn overeengekomen over te gaan tot arbitrage. De partijen bij de procedure stemmen ermede in de arbitrale uitspraak na te leven. Arbitrale uitspraken worden ter kennis gebracht van het DSB en de raad of de commissie van de desbetreffende overeenkomst waarbij een Lid een daarop betrekkende kwestie aanhangig kan maken.
+
+4. De artikelen 21 en 22 van dit Memorandum van Overeenstemming zijn van overeenkomstige toepassing op arbitrale uitspraken.
+
+##### Artikel 26. Gevallen waarin geen sprake is van schending
+
+Klachten van het soort als omschreven in artikel XXIII:1b. van de GATT-Overeenkomst van 1994
+
+1. Wanneer de bepalingen van artikel XXIII:1b. van de GATT-Overeenkomst van 1994 op een vermelde overeenkomst van toepassing zijn, kan een panel of de Beroepsinstantie slechts uitspraken of aanbevelingen doen indien een partij bij het geschil van mening is dat een voordeel dat haar al dan niet rechtstreeks toekomt ingevolge de desbetreffende vermelde overeenkomst wordt tenietgedaan of uitgehold, dan wel dat de verwezenlijking van een doelstelling van die overeenkomst wordt belemmerd ten gevolge van de toepassing van een maatregel door een Lid, ongeacht of deze maatregel in strijd is met de bepalingen van die overeenkomst. Wanneer en in zoverre die partij van mening is en een panel of de Beroepsinstantie vaststelt dat het een maatregel betreft die niet in strijd is met de bepalingen van een vermelde overeenkomst waarop de bepalingen van artikel XXIII:1b. van de GATT-Overeenkomst van 1994 van toepassing zijn, zijn de in dit Memorandum van Overeenstemming omschreven procedures van toepassing, met inachtneming van het volgende:
+
+- a. de klager legt een uitvoerig rechtvaardigingsstuk over ter onderbouwing van een klacht met betrekking tot een maatregel die niet in strijd is met de desbetreffende vermelde overeenkomst;
+
+- b. indien is vastgesteld dat een maatregel voordelen ingevolge de desbetreffende vermelde overeenkomst tenietdoet of uitholt, of de verwezenlijking van doelstellingen van die overeenkomst belemmert, zonder deze te schenden, bestaat er geen verplichting tot intrekking van de maatregel. In dergelijke gevallen beveelt het panel of de Beroepsinstantie het betrokken Lid echter aan een wederzijds aanvaardbare regeling te treffen;
+
+- c. niettegenstaande de bepalingen van artikel 21, kan de in artikel 21, derde lid, geregelde arbitrage op verzoek van één van beide partijen mede een vaststelling omvatten van de mate waarin voordelen zijn tenietgedaan of uitgehold, en kunnen wegen en middelen worden voorgesteld om tot een wederzijds bevredigende regeling te komen; bedoelde voorstellen zijn niet bindend voor de partijen;
+
+- d. niettegenstaande de bepalingen van artikel 22, eerste lid, kan compensatie deel uitmaken van een wederzijds bevredigende regeling als definitieve beslechting van het geschil.
+
+Klachten van het soort als omschreven in artikel XXIII:1c. van de GATT-Overeenkomst van 1994
+
+2. Wanneer de bepalingen van artikel XXIII:1c. van de GATT-Overeenkomst van 1994 op een vermelde overeenkomst van toepassing zijn, kan een panel of de Beroepsinstantie slechts uitspraken of aanbevelingen doen indien een partij van mening is dat een voordeel dat haar al dan niet rechtstreeks toekomt ingevolge de desbetreffende vermelde overeenkomst wordt tenietgedaan of uitgehold, dan wel dat de verwezenlijking van een doelstelling van die overeenkomst wordt belemmerd ten gevolge van het bestaan van omstandigheden anders dan die waarop de bepalingen van artikel XXIII:1a. en b. van de GATT-Overeenkomst van 1994 van toepassing zijn. Wanneer en in zoverre die partij van mening is en een panel vaststelt dat de kwestie onder dit lid valt, zijn de in deze Overeenstemming omschreven procedures slechts van toepassing tot en met het tijdstip in de procedure waarop het rapport van het panel aan de Leden is toegezonden. De regels en procedures voor geschillenbeslechting vervat in het besluit van 12 april 1989 (BISD 36S/61) zijn van toepassing op de behandeling met het oog op aanneming, en het toezicht op en de tenuitvoerlegging van aanbevelingen en uitspraken. Het volgende is ook van toepassing:
+
+- a. de klager legt een uitvoerig rechtvaardigingsstuk over ter onderbouwing van elk argument dat wordt aangevoerd met betrekking tot kwesties die onder dit lid vallen;
+
+- b. indien een panel in een zaak betreffende kwesties die onder dit lid vallen van oordeel is dat de zaak mede voor geschillenbeslechting in aanmerking komende kwesties bevat anders dan die welke onder dit lid vallen, brengt het panel een rapport uit aan het DSB waarin het ingaat op die kwesties alsmede een afzonderlijk rapport inzake kwesties die onder dit lid vallen.
+
+##### Artikel 27. Taken van het Secretariaat
+
+1. Het Secretariaat heeft tot taak de panels bij te staan, met name betreffende de juridische, historische en procedurele aspecten van de behandelde kwesties, en secretariële en technische ondersteuning te bieden.
+
+2. Wanneer het Secretariaat Leden op hun verzoek bijstaat bij de beslechting van geschillen, kan er behoefte bestaan aan het bieden van extra juridisch advies en bijstand bij de beslechting van geschillen aan Leden die ontwikkelingsland zijn. Hiertoe stelt het Secretariaat een gekwalificeerd jurist van de WTO-diensten voor technische samenwerking ter beschikking van elk Lid dat ontwikkelingsland is dat hierom verzoekt. Deze jurist staat het Lid dat ontwikkelingsland is bij op een wijze die de constante onpartijdigheid van het Secretariaat waarborgt.
+
+3. Het Secretariaat verzorgt voor belangstellende Leden speciale opleidingscursussen aangaande deze procedures en handelwijzen inzake geschillenbeslechting, teneinde deskundigen van de Leden in staat te stellen ter zake beter op de hoogte zijn.
+
+De Leden komen het volgende overeen:
+
+##### 1
+
+De ministers erkennen dat de mondialisering van de wereldeconomie heeft geleid tot een steeds verdergaande wisselwerking tussen het economisch beleid van de afzonderlijke landen, met inbegrip van een wisselwerking tussen de structurele, macro-economische, handels-, financiële en ontwikkelingsaspecten van het economisch beleid. De taak om dit beleid te harmoniseren berust primair bij de regeringen op nationaal niveau, maar de samenhang op internationale schaal is een belangrijke en waardevolle factor ter vergroting van de doeltreffendheid van het beleid op nationaal niveau. De in het kader van de Uruguay-Ronde tot stand gekomen overeenkomsten tonen aan dat alle deelnemende regeringen erkennen dat een liberaal handelsbeleid kan bijdragen tot een gezonde groei en ontwikkeling van hun eigen economie en de gehele wereldeconomie.
+
+##### 2
+
+Geslaagde samenwerking op een bepaald gebied van het economisch beleid draagt bij tot vooruitgang op andere gebieden. Grotere stabiliteit van de wisselkoersen, op basis van meer ordelijke economische en financiële voorwaarden, zou moeten bijdragen tot uitbreiding van de handel, duurzame groei en ontwikkeling en herstel van externe onevenwichtigheden. Er is ook behoefte aan een passende en tijdige stroom concessionele en niet-concessionele financiële middelen alsmede gelden voor investeringen naar de ontwikkelingslanden en aan meer inspanningen om de schuldenproblematiek aan te pakken, om te zorgen voor economische groei en ontwikkeling. Vrijmaking van het handelsverkeer vormt een steeds belangrijkere factor voor het welslagen van de aanpassingsprogramma's die veel landen uitvoeren, waarmee veelal aanzienlijke kosten zijn gemoeid die in de overgangsfase vaak zwaar op de samenleving drukken. In dit verband wijzen de ministers op de rol van de Wereldbank en het IMF bij het bieden van steun aan aanpassing aan de vrijmaking van het handelsverkeer, met inbegrip van steun aan netto voedsel importerende ontwikkelingslanden die op de korte termijn worden geconfronteerd met kosten ten gevolge van hervormingen van de handel in landbouwprodukten.
+
+##### 3
+
+Het positieve resultaat van de Uruguay-Ronde is een belangrijke bijdrage aan een meer samenhangend en aanvullend internationaal economisch beleid. De resultaten van de Uruguay-Ronde bieden ruimere toegang tot de markt in het voordeel van alle landen, alsmede een kader van versterkte multilaterale gedragsregels voor het handelsverkeer. Zij garanderen ook dat het handelsbeleid op een meer doorzichtige wijze wordt gevoerd, met een groter besef van de voordelen van een open handelsstelsel voor het binnenlandse concurrentievermogen. Het versterkte multilaterale handelsstelsel dat uit de Uruguay-Ronde voorkomt, leent zich ertoe een verbeterd forum voor liberalisering te bieden, bij te dragen tot doeltreffender toezicht en te zorgen voor een strikte naleving van de multilateraal overeengekomen regels en methoden. Deze verbeteringen betekenen dat het handelsbeleid in de toekomst een gewichtiger rol kan spelen in de totstandbrenging van samenhang in het mondiale economische beleid.
+
+##### 4
+
+De ministers erkennen echter dat moeilijkheden waarvan de oorzaak buiten het handelsterrein is gelegen, niet enkel met maatregelen op handelsgebied kunnen worden verholpen. Hiermee wordt het belang onderstreept van pogingen om andere elementen van het mondiale economische beleid te verbeteren ter aanvulling van de effectieve toepassing van de in het kader van de Uruguay-Ronde bereikte resultaten.
+
+##### 5
+
+De onderlinge verbanden tussen de verschillende aspecten van het economisch beleid vergen dat de internationale instellingen die verantwoordelijkheden op deze terreinen hebben, een samenhangend en wederzijds ondersteunend beleid voeren. De Wereldhandelsorganisatie dient derhalve te streven naar samenwerking met internationale organisaties die zijn belast met monetaire en financiële aangelegenheden, en deze tot ontwikkeling te brengen, waarbij het mandaat, de vereisten inzake vertrouwelijkheid en de noodzakelijke autonomie in besluitvormingsprocedures van elke instelling worden geëerbiedigd en het opleggen van eencross-conditionality -beding of extra voorwaarden aan regeringen wordt vermeden. De ministers verzoeken de Directeur-Generaal van de WTO te zamen met de Directeur van het Internationale Monetaire Fonds en de President van de Wereldbank te bezien wat de gevolgen zijn van de taken van de WTO voor de samenwerking met de Bretton Woods-instellingen en in welke vorm deze samenwerking zou kunnen geschieden, teneinde te komen tot een grotere samenhang in het mondiale economische beleid.**cross-conditionality** -beding of extra voorwaarden aan regeringen wordt vermeden. De ministers verzoeken de Directeur-Generaal van de WTO te zamen met de Directeur van het Internationale Monetaire Fonds en de President van de Wereldbank te bezien wat de gevolgen zijn van de taken van de WTO voor de samenwerking met de Bretton Woods-instellingen en in welke vorm deze samenwerking zou kunnen geschieden, teneinde te komen tot een grotere samenhang in het mondiale economische beleid.
+
+De Ministers besluiten aan te bevelen dat de Ministeriële Conferentie het onderstaande besluit inzake verbetering en onderzoek van kennisgevingsprocedures aanneemt.
+
+De Leden,
+
+Verlangende het verloop van kennisgevingsprocedures als bedoeld in de Overeenkomst tot oprichting van de Wereldhandelsorganisatie (hierna de „WTO-Overeenkomst” te noemen) te verbeteren en aldus bij te dragen tot de doorzichtigheid van het handelsbeleid van de Leden en tot de doeltreffendheid van daartoe vastgestelde toezichtregelingen;
+
+Herinnerend aan de uit de WTO-Overeenkomst voortvloeiende verplichtingen tot bekendmaking en kennisgeving, met inbegrip van de verplichtingen krachtens specifieke toetredingsprotocollen, ontheffingen en andere overeenkomsten die de Leden hebben aanvaard,
+
+Komen het volgende overeen:
+
+##### I. Algemene verplichting tot kennisgeving
+
+De Leden bevestigen hun verbintenis tot nakoming van de verplichtingen inzake bekenmaking en kennisgeving die voortvloeien uit de Multilaterale handelsovereenkomsten en, in voorkomend geval, de Plurilaterale handelsovereenkomsten.
+
+De Leden herinneren aan hun verplichtingen die zijn vervat in het op 28 november 1979 aangenomen Memorandum van Overeenstemming betreffende kennisgeving, overleg, geschillenbeslechting en toezicht (BISD 26S/210). Met betrekking tot de verplichting die zij daarbij zijn aangegaan om zoveel mogelijk kennis te geven van de vaststelling van handelsmaatregelen die van invloed zijn op de werking van GATT 1994, met dien verstande dat deze kennisgeving op zichzelf geen beletsel vormt voor standpunten over de verenigbaarheid of het verband van deze maatregelen met de rechten en verplichtingen die voortvloeien uit de Multilaterale handelsovereenkomsten en, in voorkomend geval, de Plurilaterale handelsovereenkomsten, komen de Leden overeen, naargelang van het geval, uit te gaan van de in de bijlage opgenomen lijst van maatregelen. De Leden komen derhalve overeen dat bij invoering of wijziging van deze maatregelen moet worden voldaan aan de kennisgevingsvoorschriften van het Memorandum van Overeenstemming van 1979.
+
+##### II. Centraal register van kennisgevingen
+
+Er wordt een centraal register van kennisgevingen ingesteld onder de verantwoordelijkheid van het Secretariaat. Terwijl de Leden de bestaande kennisgevingsprocedures verder in acht nemen, ziet het Secretariaat erop toe dat in het centraal register gegevens uit de informatie die het betrokken Lid ten aanzien van de maatregel heeft verstrekt, worden genoteerd, ondermeer het doel van de maatregel, het betrokken handelsverkeer en het voorschrift op grond waarvan de kennisgeving wordt verricht. In het centraal register worden kennisgevingen per Lid en per verplichting geregistreerd, met onderlinge verwijzingen.
+
+De dienst van het centraal register doet elk Lid ieder jaar mededeling van de gewone kennisgevingsverplichtingen die het betrokken Lid wordt geacht na te komen in de loop van het daaropvolgende jaar.
+
+De dienst van het centraal register vestigt de aandacht van afzonderlijke Leden op de gewone kennisgevingsvoorschriften waaraan nog niet is voldaan.
+
+In het centraal register opgenomen informatie met betrekking tot afzonderlijke kennisgevingen wordt op een daartoe strekkend verzoek verstrekt aan elk Lid dat recht heeft op het ontvangen van de betrokken kennisgeving.
+
+##### III. Onderzoek van kennisgevingsverplichtingen en -procedures
+
+De Raad voor de handel in goederen onderzoekt de kennisgevingsverplichtingen en -procedures uit hoofde van de Overeenkomsten die zijn opgenomen in bijlage 1 A bij de WTO-Overeenkomst. Dit onderzoek wordt uitgevoerd door een werkgroep waarvan alle Leden deel kunnen uitmaken. De groep wordt onmiddellijk na de datum van inwerkingtreding van de WTO-Overeenkomst opgericht.
+
+De werkgroep wordt belast met de volgende opdrachten:
+
+- –. het uitvoeren van een grondig onderzoek met betrekking tot alle bestaande kennisgevingsverplichtingen van Leden die voortvloeien uit de Overeenkomsten in bijlage 1 A bij de WTO-Overeenkomst, om deze verplichtingen zoveel mogelijk te vereenvoudigen, te standardiseren en te groeperen, alsmede ervoor te zorgen dat deze verplichtingen beter worden nagekomen, waarbij rekening wordt gehouden met de als algemeen doel nagestreefde grotere doorzichtigheid van het handelsbeleid van de Leden en grotere doeltreffendheid van de daartoe vastgestelde toezichtregelingen, en tevens rekening wordt gehouden met het feit dat sommige ontwikkelingslanden die Lid zijn misschien moeten worden bijgestaan om hun kennisgevingsverplichtingen na te komen;
+
+- –. de Raad voor de handel in goederen uiterlijk twee jaar na de inwerkingtreding van de WTO-Overeenkomst aanbevelingen doen.
 
 De deelnemers aan de Uruguay-Ronde werden in staat gesteld om in het kader van de Algemene Overeenkomst inzake de handel in diensten (hierna „de Overeenkomst” genoemd) specifieke verbintenissen betreffende financiële diensten aan te gaan op basis van een afwijkende benadering van die welke is voorzien in de bepalingen van deel III van de Overeenkomst. Overeengekomen werd dat deze benadering op de volgende voorwaarden kan worden toegepast:
 
