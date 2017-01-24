@@ -4,7 +4,7 @@ identifier: "BWBR0036545"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2017-01-24"
-last_updated: "2015-05-01"
+last_updated: "2017-01-24"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0036545"
 soort: "ministeriele-regeling"
@@ -92,7 +92,7 @@ Indien door een ander bestuursorgaan of de Europese Commissie een bijdrage is of
 
 ##### Artikel 5. Aanvraag tot verlening van subsidie
 
-1. Een aanvraag bij de Minister om subsidie als bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0036545&artikel=3&z=2015-05-01&g=2015-05-01) wordt ingediend door een Lead Partner met een vestiging of filiaal in Nederland op het tijdstip waarop de aanvraag wordt ingediend, met gebruikmaking van een daartoe door de Minister beschikbaar gesteld middel.
+1. Een aanvraag bij de Minister om subsidie als bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0036545&artikel=3&z=2017-01-24&g=2017-01-24) wordt ingediend door een Lead Partner met een vestiging of filiaal in Nederland op het tijdstip waarop de aanvraag wordt ingediend, met gebruikmaking van een daartoe door de Minister beschikbaar gesteld middel.
 
 2. Een aanvraag om subsidie kan enkel gedaan worden indien niet reeds eerder op grond van deze regeling subsidie is verleend voor het voorbereiden, opstellen en indienen van eenzelfde Projectvoorstel Interreg EUROPE, NWE of NSR.
 
@@ -112,7 +112,7 @@ Indien door een ander bestuursorgaan of de Europese Commissie een bijdrage is of
 
 ##### Artikel 6. Beslissing op de aanvraag voor verlening van subsidie
 
-1. De Minister beslist over een aanvraag als bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0036545&artikel=5&z=2015-05-01&g=2015-05-01) binnen dertien weken na ontvangst daarvan.
+1. De Minister beslist over een aanvraag als bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0036545&artikel=5&z=2017-01-24&g=2017-01-24) binnen dertien weken na ontvangst daarvan.
 
 2. Indien de beslissing op een aanvraag niet binnen dertien weken kan worden gegeven, stelt de Minister de aanvrager daarvan in kennis en noemt daarbij een redelijke termijn waarbinnen de beslissing wel tegemoet kan worden gezien.
 
@@ -140,9 +140,9 @@ De Minister beslist afwijzend op een aanvraag indien:
 
 2. De subsidieontvanger dient bij een Projectvoorstel Interreg NWE of NSR:
 
-- a. Stap 1 binnen 12 maanden na de subsidieverlening in bij het Programma Secretariaat van Interreg NWE respectievelijk NSR, en
+- a. Stap 1 binnen 19 maanden na de subsidieverlening in bij het Programma Secretariaat van Interreg NWE respectievelijk NSR, en
 
-- b. Stap 2 binnen 18 maanden na de subsidieverlening in bij het Programma Secretariaat van Interreg NWE respectievelijk NSR.
+- b. Stap 2 binnen 25 maanden na de subsidieverlening in bij het Programma Secretariaat van Interreg NWE respectievelijk NSR.
 
 3. Indien het Programma Secretariaat van Interreg NWE of NSR geen gebruik maakt van Stap 1 en Stap 2 dient de subsidieontvanger het projectvoorstel Interreg NWE of NSR binnen 18 maanden na de subsidieverlening in bij het Programma Secretariaat van Interreg NWE respectievelijk NSR.
 
@@ -168,15 +168,15 @@ De Minister beslist afwijzend op een aanvraag indien:
 
 ##### Artikel 12. Vaststelling subsidie Interreg EUROPE
 
-1. In een geval als bedoeld in [artikel 3, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0036545&artikel=3&z=2015-05-01&g=2015-05-01) wordt de subsidie uiterlijk binnen 13 weken ambtshalve vastgesteld nadat:
+1. In een geval als bedoeld in [artikel 3, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0036545&artikel=3&z=2017-01-24&g=2017-01-24) wordt de subsidie uiterlijk binnen 13 weken ambtshalve vastgesteld nadat:
 
-- a. voldaan is aan [artikel 9, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036545&artikel=9&z=2015-05-01&g=2015-05-01), en
+- a. voldaan is aan [artikel 9, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036545&artikel=9&z=2017-01-24&g=2017-01-24), en
 
 - b. het Projectvoorstel Interreg EUROPE geschikt is verklaard door het Programma Secretariaat van Interreg EUROPE.
 
 2. In afwijking van het eerste lid, onderdeel a en b wordt de subsidie ambtshalve op € 0 vastgesteld indien:
 
-- a. niet voldaan is aan [artikel 9, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036545&artikel=9&z=2015-05-01&g=2015-05-01), of
+- a. niet voldaan is aan [artikel 9, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036545&artikel=9&z=2017-01-24&g=2017-01-24), of
 
 - b. het Projectvoorstel Interreg EUROPE niet geschikt is verklaard door het Programma Secretariaat van Interreg EUROPE.
 
@@ -184,9 +184,9 @@ De Minister beslist afwijzend op een aanvraag indien:
 
 ##### Artikel 13. Vaststelling subsidie Interreg NWE of NSR
 
-1. In een geval als bedoeld in [artikel 3, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0036545&artikel=3&z=2015-05-01&g=2015-05-01) wordt de subsidie uiterlijk binnen 13 weken ambtshalve vastgesteld nadat:
+1. In een geval als bedoeld in [artikel 3, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0036545&artikel=3&z=2017-01-24&g=2017-01-24) wordt de subsidie uiterlijk binnen 13 weken ambtshalve vastgesteld nadat:
 
-- a. voldaan is aan [artikel 9, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036545&artikel=9&z=2015-05-01&g=2015-05-01), en
+- a. voldaan is aan [artikel 9, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036545&artikel=9&z=2017-01-24&g=2017-01-24), en
 
 - b. Stap 2 van het Projectvoorstel Interreg NWE of NSR geschikt is verklaard door het Programma Secretariaat van Interreg NWE of NSR.
 
@@ -194,11 +194,11 @@ De Minister beslist afwijzend op een aanvraag indien:
 
 - a. Stap 1 geschikt is verklaard door het Programma Secretariaat van Interreg NWE of NSR, en
 
-- b. Stap 2 niet binnen 18 maanden na subsidieverlening geschikt is verklaard door het Programma Secretariaat van Interreg NWE of NSR.
+- b. voor stap 2 niet voldaan is aan [artikel 9, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036545&artikel=9&z=2017-01-24&g=2017-01-24), of Stap 2 niet geschikt is verklaard door het Programma Secretariaat van Interreg NWE of NSR.
 
 3. In afwijking van het eerste, onderdeel a en b en tweede lid wordt de subsidie uiterlijk binnen 13 weken ambtshalve op € 0 vastgesteld, indien:
 
-- a. niet voldaan is aan [artikel 9, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036545&artikel=9&z=2015-05-01&g=2015-05-01), of
+- a. niet voldaan is aan [artikel 9, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036545&artikel=9&z=2017-01-24&g=2017-01-24), of
 
 - b. Stap 1 niet geschikt is verklaard door het Programma Secretariaat van Interreg NWE of NSR.
 
