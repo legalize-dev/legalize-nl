@@ -4,7 +4,7 @@ identifier: "BWBR0034951"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-01-01"
-last_updated: "2017-01-01"
+last_updated: "2017-01-25"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0034951"
 soort: "ministeriele-regeling"
@@ -76,9 +76,9 @@ De jaarlijkse informatie over de voortgang van de behandeling van het verzoek va
 
 - h. arbeid als kennismigrant;
 
-- i. verblijf als houder van de Europese blauwe kaart in de zin van [richtlijn 2009/50/EG](onbekend) van de Raad van 25 mei 2009 betreffende de voorwaarden voor toegang en verblijf van onderdanen van derde landen met het oog op een hooggekwalificeerde baan (PbEU L 155);
+- i. verblijf als houder van de Europese blauwe kaart in de zin van [richtlijn 2009/50/EG](32009L0050) van de Raad van 25 mei 2009 betreffende de voorwaarden voor toegang en verblijf van onderdanen van derde landen met het oog op een hooggekwalificeerde baan (PbEU L 155);
 
-- j. wetenschappelijk onderzoek in de zin van [richtlijn 2005/71/EG](onbekend) van de Raad van 12 oktober 2005 betreffende een specifieke procedure voor de toelating van onderdanen van derde landen met het oog op wetenschappelijk onderzoek (PbEU L 289);
+- j. wetenschappelijk onderzoek in de zin van [richtlijn 2005/71/EG](32005L0071) van de Raad van 12 oktober 2005 betreffende een specifieke procedure voor de toelating van onderdanen van derde landen met het oog op wetenschappelijk onderzoek (PbEU L 289);
 
 - k. arbeid als zelfstandige;
 
@@ -108,11 +108,11 @@ De jaarlijkse informatie over de voortgang van de behandeling van het verzoek va
 
 ##### Artikel 5
 
-De hoogte van de bruto bedragen van de remigratie-uitkering, bedoeld in [artikel 2 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0034905&artikel=2), wordt vastgesteld op basis van de bedragen genoemd in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0034951&bijlage=2&z=2017-01-25&g=2017-01-01), die afhankelijk zijn van de categorie van bestemmingslanden, vermeld in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0034951&bijlage=1&z=2017-01-25&g=2017-01-01).
+De hoogte van de bruto bedragen van de remigratie-uitkering, bedoeld in [artikel 2 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0034905&artikel=2), wordt vastgesteld op basis van de bedragen genoemd in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0034951&bijlage=2&z=2017-01-25&g=2017-01-25), die afhankelijk zijn van de categorie van bestemmingslanden, vermeld in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0034951&bijlage=1&z=2017-01-25&g=2017-01-25).
 
 ##### Artikel 6
 
-De hoogte van de bruto bedragen van de tegemoetkoming in de kosten van de zelf af te sluiten verzekering tegen ziektekosten in het bestemmingsland, bedoeld in [artikel 5, eerste lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0034905&artikel=5), wordt vastgesteld op basis van de bedragen genoemd in [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0034951&bijlage=3&z=2017-01-25&g=2017-01-01), die afhankelijk zijn van de categorie van bestemmingslanden, vermeld in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0034951&bijlage=1&z=2017-01-25&g=2017-01-01).
+De hoogte van de bruto bedragen van de tegemoetkoming in de kosten van de zelf af te sluiten verzekering tegen ziektekosten in het bestemmingsland, bedoeld in [artikel 5, eerste lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0034905&artikel=5), wordt vastgesteld op basis van de bedragen genoemd in [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0034951&bijlage=3&z=2017-01-25&g=2017-01-25), die afhankelijk zijn van de categorie van bestemmingslanden, vermeld in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0034951&bijlage=1&z=2017-01-25&g=2017-01-25).
 
 ##### Artikel 7
 
@@ -148,13 +148,13 @@ Deze regeling treedt in werking op het tijdstip waarop de [Wet van 10 juli 2013 
 
 Deze regeling wordt aangehaald als: Remigratieregeling.
 
-## Bijlage 1. behorend bij de [artikelen 5](https://wetten.overheid.nl/jci1.3:c:BWBR0034951&artikel=5&z=2017-01-25&g=2017-01-01) en [6](https://wetten.overheid.nl/jci1.3:c:BWBR0034951&artikel=6&z=2017-01-25&g=2017-01-01)
+## Bijlage 1. behorend bij de [artikelen 5](https://wetten.overheid.nl/jci1.3:c:BWBR0034951&artikel=5&z=2017-01-25&g=2017-01-25) en [6](https://wetten.overheid.nl/jci1.3:c:BWBR0034951&artikel=6&z=2017-01-25&g=2017-01-25)
 
 ### Indeling bestemmingslanden in categorieën
 
-## Bijlage 2. , behorend bij [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0034951&artikel=5&z=2017-01-25&g=2017-01-01)
+## Bijlage 2. behorend bij [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0034951&artikel=5&z=2017-01-25&g=2017-01-25)
 
-### Vaststelling bedragen remigratie-uitkering per categorie van bestemmingslanden op basis van de indeling in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0034951&bijlage=1&z=2017-01-25&g=2017-01-01) bij deze regeling
+### **Vaststelling bedragen remigratie-uitkering per categorie van bestemmingslanden op basis van de indeling in bijlage 1 bij deze regeling**
 
 1het betreft remigranten die op grond van een bilateraal verdrag inzake sociale zekerheid in het remigratieland ten laste van Nederland recht hebben op verstrekkingen te verlenen door de verzekeringsinstelling die daartoe volgens het verdrag is aangewezen.
 
@@ -164,8 +164,8 @@ Deze regeling wordt aangehaald als: Remigratieregeling.
 
 Deze regeling zal met toelichting en de bijlagen in de Staatscourant worden geplaatst.
 
-## Bijlage 3. behorend bij [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0034951&artikel=6&z=2017-01-25&g=2017-01-01)
+## Bijlage 3. behorend bij [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0034951&artikel=6&z=2017-01-25&g=2017-01-25)
 
-### Bruto tegemoetkoming in de kosten van de zelf af te sluiten verzekering tegen ziektekosten in het bestemmingsland per categorie van bestemmingslanden op basis van de indeling in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0034951&bijlage=1&z=2017-01-25&g=2017-01-01) bij deze regeling
+### Bruto tegemoetkoming in de kosten van de zelf af te sluiten verzekering tegen ziektekosten in het bestemmingsland per categorie van bestemmingslanden op basis van de indeling in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0034951&bijlage=1&z=2017-01-25&g=2017-01-25) bij deze regeling
 
 Deze regeling zal met toelichting en de bijlagen in de Staatscourant worden geplaatst.
