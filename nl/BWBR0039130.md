@@ -4,7 +4,7 @@ identifier: "BWBR0039130"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2017-01-26"
-last_updated: "2017-01-01"
+last_updated: "2017-01-26"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0039130"
 soort: "ministeriele-regeling"
@@ -48,7 +48,7 @@ In deze regeling wordt verstaan onder:
 
 - a. **Minister:** Minister van Veiligheid en Justitie;
 
-- b. **Taskforce:** de taskforce, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0039130&artikel=2&z=2017-01-26&g=2017-01-01).
+- b. **Taskforce:** de taskforce, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0039130&artikel=2&z=2017-01-26&g=2017-01-26).
 
 ##### Artikel 2. (Instelling en taak)
 
@@ -60,7 +60,7 @@ In deze regeling wordt verstaan onder:
 
 - b. onderzoek te doen naar de oorzaken van de daling in het aantal gerechtelijke secties vanaf 2005;
 
-- c. onderzoek te doen als genoemd in de aanbevelingen 17 tot en met 20 van het rapport ‘De lijkschouw en sectie nader beschouwd’, tenzij de commissie van oordeel is dat dat onderzoek niet voor de datum genoemd in [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039130&artikel=4&z=2017-01-26&g=2017-01-01), kan worden gerealiseerd of op bezwaren stuit verband houdend met de bescherming van de persoonlijke levenssfeer van nabestaanden c.q. de integriteit van het lichaam van de overledene;
+- c. onderzoek te doen als genoemd in de aanbevelingen 17 tot en met 20 van het rapport ‘De lijkschouw en sectie nader beschouwd’, tenzij de commissie van oordeel is dat dat onderzoek niet voor de datum genoemd in [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039130&artikel=4&z=2017-01-26&g=2017-01-26), kan worden gerealiseerd of op bezwaren stuit verband houdend met de bescherming van de persoonlijke levenssfeer van nabestaanden c.q. de integriteit van het lichaam van de overledene;
 
 - d. naar aanleiding van het onderzoek en de bevindingen in dat kader aanbevelingen te doen ter verbetering van de werking van de gehele keten van lijkschouw tot en met gerechtelijke sectie.
 
@@ -76,7 +76,7 @@ In deze regeling wordt verstaan onder:
 
 ##### Artikel 4. (Instellingsduur en rapportageverplichting)
 
-1. De taskforce brengt voor 1 mei 2017 een eindrapportage uit met betrekking tot het onderzoek, bedoeld in [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039130&artikel=2&z=2017-01-26&g=2017-01-01).
+1. De taskforce brengt voor 1 mei 2017 een eindrapportage uit met betrekking tot het onderzoek, bedoeld in [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039130&artikel=2&z=2017-01-26&g=2017-01-26).
 
 2. Na het uitbrengen van de eindrapportage, bedoeld in het eerste lid, is de taskforce opgeheven.
 
