@@ -4,7 +4,7 @@ identifier: "BWBR0031498"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-04-01"
-last_updated: "2017-01-01"
+last_updated: "2017-01-28"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0031498"
 soort: "ministeriele-regeling"
@@ -63,6 +63,8 @@ Het Uitvoeringsinstituut Werknemersverzekeringen is de instantie waaraan een wer
 - c. de werkgever van de vreemdeling, bedoeld in artikel 1n van het [Besluit uitvoering Wet arbeid vreemdelingen](https://wetten.overheid.nl/jci1.3:c:BWBR0007523), die meldt: de naam, het adres en het KvK-nummer of registratiegegevens in de andere EU-lidstaat, van de werkgever, de identiteitsgegevens van de vreemdeling, de aard en duur van de werkzaamheden en de plaats waar de werkzaamheden worden verricht.
 
 2. In dit artikel wordt verstaan onder het KvK-nummer: het door de Kamer van Koophandel toegekende unieke nummer over een onderneming in het handelsregister.
+
+3. Een melding door middel van een A-1 verklaring, ingediend voor 1 juli 2017, door de werkgever van de vreemdeling, bedoeld in [artikel 1e van het Besluit uitvoering Wet arbeid vreemdelingen](https://wetten.overheid.nl/jci1.3:c:BWBR0007523&artikel=1e), wordt beschouwd als melding, bedoeld in het eerste lid, onderdeel a.
 
 ##### Artikel 4. Inwerkingtreding
 
