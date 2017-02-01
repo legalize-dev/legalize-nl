@@ -4,7 +4,7 @@ identifier: "BWBR0018989"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-03-19"
-last_updated: "2017-01-01"
+last_updated: "2017-02-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0018989"
 soort: "ministeriele-regeling"
@@ -72,17 +72,17 @@ Besluit:
 
 ##### Artikel 122
 
-1. De in [artikel 26, eerste lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0019031&artikel=26) en de in de [artikelen 25, eerste, tweede, derde, vierde en zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&hoofdstuk=3&paragraaf=1&artikel=25&z=2017-01-01&g=2017-01-01), [25a, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&hoofdstuk=3&paragraaf=1&artikel=25a&z=2017-01-01&g=2017-01-01), [32, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&hoofdstuk=3&paragraaf=3&artikel=32&z=2017-01-01&g=2017-01-01), [35a, derde, vierde en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&hoofdstuk=3&paragraaf=5&artikel=35a&z=2017-01-01&g=2017-01-01), [37, eerste, tweede en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&hoofdstuk=5&artikel=37&z=2017-01-01&g=2017-01-01), [41](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&hoofdstuk=5&artikel=41&z=2017-01-01&g=2017-01-01), [42](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&hoofdstuk=5&artikel=42&z=2017-01-01&g=2017-01-01), [45, eerste, tweede en achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&hoofdstuk=6&artikel=45&z=2017-01-01&g=2017-01-01), [48](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&hoofdstuk=6&artikel=48&z=2017-01-01&g=2017-01-01), [48a](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&hoofdstuk=6&artikel=48a&z=2017-01-01&g=2017-01-01), [50, eerste, tweede, derde en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&hoofdstuk=7&artikel=50&z=2017-01-01&g=2017-01-01), [52](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&hoofdstuk=7&artikel=52&z=2017-01-01&g=2017-01-01), [103b, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&hoofdstuk=9&paragraaf=8&artikel=103b&z=2017-01-01&g=2017-01-01), [104, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&hoofdstuk=10&paragraaf=1&artikel=104&z=2017-01-01&g=2017-01-01), [artikel 105, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&hoofdstuk=10&paragraaf=2&artikel=105&z=2017-01-01&g=2017-01-01), [artikel 110, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&hoofdstuk=10&paragraaf=3&artikel=110&z=2017-01-01&g=2017-01-01), [artikel 114](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&hoofdstuk=10&paragraaf=5&artikel=114&z=2017-01-01&g=2017-01-01), [artikel 115](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&hoofdstuk=10&paragraaf=5&artikel=115&z=2017-01-01&g=2017-01-01) en [artikel 119, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&hoofdstuk=10&paragraaf=5&artikel=119&z=2017-01-01&g=2017-01-01), bedoelde meldingen, verklaringen, verstrekking van gegevens, kennisgevingen, aanmeldingen ter registratie en aanvragen tot ontheffing geschieden door indiening bij de minister van het ingevulde en ondertekende daartoe bestemde formulier, dat door de minister wordt verstrekt.
+1. De in [artikel 26, eerste lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0019031&artikel=26) en de in de [artikelen 25, eerste, tweede, derde, vierde en zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&hoofdstuk=3&paragraaf=1&artikel=25&z=2017-02-01&g=2017-02-01), [25a, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&hoofdstuk=3&paragraaf=1&artikel=25a&z=2017-02-01&g=2017-02-01), [32, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&hoofdstuk=3&paragraaf=3&artikel=32&z=2017-02-01&g=2017-02-01), [35a, derde, vierde en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&hoofdstuk=3&paragraaf=5&artikel=35a&z=2017-02-01&g=2017-02-01), [37, eerste, tweede en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&hoofdstuk=5&artikel=37&z=2017-02-01&g=2017-02-01), [41](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&hoofdstuk=5&artikel=41&z=2017-02-01&g=2017-02-01), [42](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&hoofdstuk=5&artikel=42&z=2017-02-01&g=2017-02-01), [45, eerste, tweede en achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&hoofdstuk=6&artikel=45&z=2017-02-01&g=2017-02-01), [48](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&hoofdstuk=6&artikel=48&z=2017-02-01&g=2017-02-01), [48a](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&hoofdstuk=6&artikel=48a&z=2017-02-01&g=2017-02-01), [50, eerste, tweede, derde en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&hoofdstuk=7&artikel=50&z=2017-02-01&g=2017-02-01), [52](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&hoofdstuk=7&artikel=52&z=2017-02-01&g=2017-02-01), [103b, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&hoofdstuk=9&paragraaf=8&artikel=103b&z=2017-02-01&g=2017-02-01), [104, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&hoofdstuk=10&paragraaf=1&artikel=104&z=2017-02-01&g=2017-02-01), [artikel 105, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&hoofdstuk=10&paragraaf=2&artikel=105&z=2017-02-01&g=2017-02-01), [artikel 110, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&hoofdstuk=10&paragraaf=3&artikel=110&z=2017-02-01&g=2017-02-01), [artikel 114](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&hoofdstuk=10&paragraaf=5&artikel=114&z=2017-02-01&g=2017-02-01), [artikel 115](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&hoofdstuk=10&paragraaf=5&artikel=115&z=2017-02-01&g=2017-02-01) en [artikel 119, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&hoofdstuk=10&paragraaf=5&artikel=119&z=2017-02-01&g=2017-02-01), bedoelde meldingen, verklaringen, verstrekking van gegevens, kennisgevingen, aanmeldingen ter registratie en aanvragen tot ontheffing geschieden door indiening bij de minister van het ingevulde en ondertekende daartoe bestemde formulier, dat door de minister wordt verstrekt.
 
 2. Indien de in het eerste lid bedoelde handelingen op elektronische wijze geschieden, wordt gebruik gemaakt van het door de minister daartoe ter beschikking gestelde elektronische portaal.
 
-3. De in [artikel 33b, vijfde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004054&artikel=33b) bedoelde elektronische verstrekking van gegevens, de in de [artikelen 55, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&hoofdstuk=8&paragraaf=1&artikel=55&z=2017-01-01&g=2017-01-01), [56](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&hoofdstuk=8&paragraaf=1&artikel=56&z=2017-01-01&g=2017-01-01), [81, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&hoofdstuk=9&paragraaf=2&artikel=81&z=2017-01-01&g=2017-01-01), en [92b, vierde en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&hoofdstuk=9&paragraaf=3&artikel=92b&z=2017-01-01&g=2017-01-01), bedoelde elektronische verzending van gegevens, de in de [artikelen 48, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&hoofdstuk=6&artikel=48&z=2017-01-01&g=2017-01-01), [52](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&hoofdstuk=7&artikel=52&z=2017-01-01&g=2017-01-01), [57a](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&hoofdstuk=8&paragraaf=1&artikel=57a&z=2017-01-01&g=2017-01-01) en [58](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&hoofdstuk=8&paragraaf=1&artikel=58&z=2017-01-01&g=2017-01-01) bedoelde elektronische mededelingen en verstrekkingen van gegevens, de in de artikelen [28a, onderdeel e](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&hoofdstuk=3&paragraaf=2&artikel=28a&z=2017-01-01&g=2017-01-01), en [35f, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&hoofdstuk=3&paragraaf=5&artikel=35f&z=2017-01-01&g=2017-01-01), bedoelde elektronische aanmelding en de in de [artikelen 64](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&hoofdstuk=8&paragraaf=2&artikel=64&z=2017-01-01&g=2017-01-01) en [69a](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&hoofdstuk=8&paragraaf=3&artikel=69a&z=2017-01-01&g=2017-01-01), bedoelde elektronische indiening van gegevens geschieden met gebruikmaking van het door de minister daartoe ter beschikking gestelde elektronische portaal.
+3. De in [artikel 33b, vijfde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004054&artikel=33b) bedoelde elektronische verstrekking van gegevens, de in de [artikelen 55, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&hoofdstuk=8&paragraaf=1&artikel=55&z=2017-02-01&g=2017-02-01), [56](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&hoofdstuk=8&paragraaf=1&artikel=56&z=2017-02-01&g=2017-02-01), [81, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&hoofdstuk=9&paragraaf=2&artikel=81&z=2017-02-01&g=2017-02-01), en [92b, vierde en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&hoofdstuk=9&paragraaf=3&artikel=92b&z=2017-02-01&g=2017-02-01), bedoelde elektronische verzending van gegevens, de in de [artikelen 48, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&hoofdstuk=6&artikel=48&z=2017-02-01&g=2017-02-01), [52](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&hoofdstuk=7&artikel=52&z=2017-02-01&g=2017-02-01), [57a](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&hoofdstuk=8&paragraaf=1&artikel=57a&z=2017-02-01&g=2017-02-01) en [58](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&hoofdstuk=8&paragraaf=1&artikel=58&z=2017-02-01&g=2017-02-01) bedoelde elektronische mededelingen en verstrekkingen van gegevens, de in de artikelen [28a, onderdeel e](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&hoofdstuk=3&paragraaf=2&artikel=28a&z=2017-02-01&g=2017-02-01), en [35f, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&hoofdstuk=3&paragraaf=5&artikel=35f&z=2017-02-01&g=2017-02-01), bedoelde elektronische aanmelding en de in de [artikelen 64](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&hoofdstuk=8&paragraaf=2&artikel=64&z=2017-02-01&g=2017-02-01) en [69a](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&hoofdstuk=8&paragraaf=3&artikel=69a&z=2017-02-01&g=2017-02-01), bedoelde elektronische indiening van gegevens geschieden met gebruikmaking van het door de minister daartoe ter beschikking gestelde elektronische portaal.
 
-4. De elektronische verzending wordt door de vervoerder ondertekend door middel van een persoonlijke gebruikerscode, die overeenkomstig [artikel 123](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&hoofdstuk=11&artikel=123&z=2017-01-01&g=2017-01-01) door de minister op naam van de desbetreffende vervoerder is geregistreerd.
+4. De elektronische verzending wordt door de vervoerder ondertekend door middel van een persoonlijke gebruikerscode, die overeenkomstig [artikel 123](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&hoofdstuk=11&artikel=123&z=2017-02-01&g=2017-02-01) door de minister op naam van de desbetreffende vervoerder is geregistreerd.
 
 ##### Artikel 123
 
-1. De aanvraag tot registratie van een persoonlijke gebruikerscode als bedoeld in [artikel 122, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&hoofdstuk=11&artikel=122&z=2017-01-01&g=2017-01-01), geschiedt bij de minister.
+1. De aanvraag tot registratie van een persoonlijke gebruikerscode als bedoeld in [artikel 122, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&hoofdstuk=11&artikel=122&z=2017-02-01&g=2017-02-01), geschiedt bij de minister.
 
 2. De minister zendt de aanvrager een bevestiging van de registratie.
 
@@ -96,7 +96,7 @@ Besluit:
 
 ##### Artikel 125
 
-Met een laboratorium als bedoeld in de [artikelen 17, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&hoofdstuk=2&artikel=17&z=2017-01-01&g=2017-01-01), [18, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&hoofdstuk=2&artikel=18&z=2017-01-01&g=2017-01-01), [19, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&hoofdstuk=2&artikel=19&z=2017-01-01&g=2017-01-01), [20, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&hoofdstuk=2&artikel=20&z=2017-01-01&g=2017-01-01), [21, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&hoofdstuk=2&artikel=21&z=2017-01-01&g=2017-01-01), [22, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&hoofdstuk=2&artikel=22&z=2017-01-01&g=2017-01-01), [27, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&hoofdstuk=3&paragraaf=1&artikel=27&z=2017-01-01&g=2017-01-01), [32, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&hoofdstuk=3&paragraaf=3&artikel=32&z=2017-01-01&g=2017-01-01), [81, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&hoofdstuk=9&paragraaf=2&artikel=81&z=2017-01-01&g=2017-01-01), [92a, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&hoofdstuk=9&paragraaf=3&artikel=92a&z=2017-01-01&g=2017-01-01), [99, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&hoofdstuk=9&paragraaf=6&artikel=99&z=2017-01-01&g=2017-01-01), en [103a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&hoofdstuk=9&paragraaf=8&artikel=103a&z=2017-01-01&g=2017-01-01) wordt gelijk gesteld een vergelijkbare instelling, gevestigd in een andere lidstaat van de Europese Unie, dan wel in een andere staat die partij is bij een daartoe strekkend Verdrag dat Nederland bindt, die een verklaring verstrekt op basis van onderzoekingen die voldoen aan een kwaliteitsborgingniveau dat tenminste gelijkwaardig is aan het niveau dat met de nationale onderzoekingen wordt nagestreefd.
+Met een laboratorium als bedoeld in de [artikelen 17, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&hoofdstuk=2&artikel=17&z=2017-02-01&g=2017-02-01), [18, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&hoofdstuk=2&artikel=18&z=2017-02-01&g=2017-02-01), [19, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&hoofdstuk=2&artikel=19&z=2017-02-01&g=2017-02-01), [20, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&hoofdstuk=2&artikel=20&z=2017-02-01&g=2017-02-01), [21, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&hoofdstuk=2&artikel=21&z=2017-02-01&g=2017-02-01), [22, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&hoofdstuk=2&artikel=22&z=2017-02-01&g=2017-02-01), [27, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&hoofdstuk=3&paragraaf=1&artikel=27&z=2017-02-01&g=2017-02-01), [32, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&hoofdstuk=3&paragraaf=3&artikel=32&z=2017-02-01&g=2017-02-01), [81, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&hoofdstuk=9&paragraaf=2&artikel=81&z=2017-02-01&g=2017-02-01), [92a, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&hoofdstuk=9&paragraaf=3&artikel=92a&z=2017-02-01&g=2017-02-01), [99, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&hoofdstuk=9&paragraaf=6&artikel=99&z=2017-02-01&g=2017-02-01), en [103a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&hoofdstuk=9&paragraaf=8&artikel=103a&z=2017-02-01&g=2017-02-01) wordt gelijk gesteld een vergelijkbare instelling, gevestigd in een andere lidstaat van de Europese Unie, dan wel in een andere staat die partij is bij een daartoe strekkend Verdrag dat Nederland bindt, die een verklaring verstrekt op basis van onderzoekingen die voldoen aan een kwaliteitsborgingniveau dat tenminste gelijkwaardig is aan het niveau dat met de nationale onderzoekingen wordt nagestreefd.
 
 ##### Artikel 126
 
@@ -106,7 +106,7 @@ Met een laboratorium als bedoeld in de [artikelen 17, tweede lid](https://wetten
 
 ##### Artikel 127
 
-De voldoening aan de voorwaarden [30](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&hoofdstuk=3&paragraaf=3&artikel=30&z=2017-01-01&g=2017-01-01), [35](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&hoofdstuk=3&paragraaf=4&artikel=35&z=2017-01-01&g=2017-01-01), [43](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&hoofdstuk=5&artikel=43&z=2017-01-01&g=2017-01-01), [44](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&hoofdstuk=5&artikel=44&z=2017-01-01&g=2017-01-01), [92a, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&hoofdstuk=9&paragraaf=3&artikel=92a&z=2017-01-01&g=2017-01-01), en [126, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&hoofdstuk=11&artikel=126&z=2017-01-01&g=2017-01-01), wordt desgevraagd ten genoegen van de minister gestaafd met bewijsstukken.
+De voldoening aan de voorwaarden [30](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&hoofdstuk=3&paragraaf=3&artikel=30&z=2017-02-01&g=2017-02-01), [35](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&hoofdstuk=3&paragraaf=4&artikel=35&z=2017-02-01&g=2017-02-01), [43](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&hoofdstuk=5&artikel=43&z=2017-02-01&g=2017-02-01), [44](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&hoofdstuk=5&artikel=44&z=2017-02-01&g=2017-02-01), [92a, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&hoofdstuk=9&paragraaf=3&artikel=92a&z=2017-02-01&g=2017-02-01), en [126, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&hoofdstuk=11&artikel=126&z=2017-02-01&g=2017-02-01), wordt desgevraagd ten genoegen van de minister gestaafd met bewijsstukken.
 
 ##### Artikel 128
 
@@ -118,7 +118,7 @@ Met het toezicht op de naleving van het bepaalde bij of krachtens de [Meststoffe
 
 ##### Artikel 130
 
-De hoogte van de bestuurlijke boete die overeenkomstig [artikel 51 van de Meststoffenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0004054&artikel=51) kan worden opgelegd, wordt vastgesteld overeenkomstig het bedrag dat in [bijlage M](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&bijlage=M&z=2017-01-01&g=2017-01-01) voor de desbetreffende overtreding is vermeld.
+De hoogte van de bestuurlijke boete die overeenkomstig [artikel 51 van de Meststoffenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0004054&artikel=51) kan worden opgelegd, wordt vastgesteld overeenkomstig het bedrag dat in [bijlage M](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&bijlage=M&z=2017-02-01&g=2017-02-01) voor de desbetreffende overtreding is vermeld.
 
 ##### Artikel 131
 
@@ -154,7 +154,7 @@ l. de [regeling van de Minister van Landbouw en Visserij van 17 december 1986, n
 
 ##### Artikel 133
 
-Indien een hypotheekhouder een bedrijf voor 1 januari 2006 heeft aangemeld overeenkomstig [artikel 5 van de Regeling leges en blokkade Wet herstructurering varkenshouderij](https://wetten.overheid.nl/jci1.3:c:BWBR0009801&artikel=5) of [artikel 3 van de Regeling leges en blokkade pluimveerechten](https://wetten.overheid.nl/jci1.3:c:BWBR0012009&artikel=3), zoals deze artikelen luidden op 31 december 2005, wordt dit bedrijf in afwijking van [artikel 106, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&hoofdstuk=10&paragraaf=2&artikel=106&z=2017-01-01&g=2017-01-01), voor de toepassing van [artikel 105](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&hoofdstuk=10&paragraaf=2&artikel=105&z=2017-01-01&g=2017-01-01), zonder voorafgaand verzoek daartoe geregistreerd bij de minister.
+Indien een hypotheekhouder een bedrijf voor 1 januari 2006 heeft aangemeld overeenkomstig [artikel 5 van de Regeling leges en blokkade Wet herstructurering varkenshouderij](https://wetten.overheid.nl/jci1.3:c:BWBR0009801&artikel=5) of [artikel 3 van de Regeling leges en blokkade pluimveerechten](https://wetten.overheid.nl/jci1.3:c:BWBR0012009&artikel=3), zoals deze artikelen luidden op 31 december 2005, wordt dit bedrijf in afwijking van [artikel 106, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&hoofdstuk=10&paragraaf=2&artikel=106&z=2017-02-01&g=2017-02-01), voor de toepassing van [artikel 105](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&hoofdstuk=10&paragraaf=2&artikel=105&z=2017-02-01&g=2017-02-01), zonder voorafgaand verzoek daartoe geregistreerd bij de minister.
 
 ##### Artikel 134
 
@@ -162,7 +162,7 @@ Vervallen
 
 ##### Artikel 135
 
-Deze regeling treedt in werking met ingang van 1 januari 2006, met uitzondering van [artikel 134](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&hoofdstuk=11&artikel=134&z=2017-01-01&g=2017-01-01), dat in werking treedt met ingang van 1 december 2005.
+Deze regeling treedt in werking met ingang van 1 januari 2006, met uitzondering van [artikel 134](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&hoofdstuk=11&artikel=134&z=2017-02-01&g=2017-02-01), dat in werking treedt met ingang van 1 december 2005.
 
 ##### Artikel 136
 
@@ -236,13 +236,13 @@ Deze regeling zal met toelichting in de Staatscourant worden geplaatst.
 
 - AGR-apparatuur: apparatuur voor automatische gegevensregistratie;
 
-- automatische bemonsterings- en verpakkingsapparatuur: apparatuur als bedoeld in [artikel 49, eerste lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0019031&artikel=49) in samenhang met [artikel 78](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&hoofdstuk=9&paragraaf=2&artikel=78&z=2017-01-01&g=2017-01-01), onderscheidenlijk [79](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&hoofdstuk=9&paragraaf=2&artikel=79&z=2017-01-01&g=2017-01-01);
+- automatische bemonsterings- en verpakkingsapparatuur: apparatuur als bedoeld in [artikel 49, eerste lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0019031&artikel=49) in samenhang met [artikel 78](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&hoofdstuk=9&paragraaf=2&artikel=78&z=2017-02-01&g=2017-02-01), onderscheidenlijk [79](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&hoofdstuk=9&paragraaf=2&artikel=79&z=2017-02-01&g=2017-02-01);
 
 - besluit: [Uitvoeringsbesluit Meststoffenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0019031);
 
 - champost: product van paardenmest, ponymest, pluimveemest of een mengsel daarvan waarop champignons zijn geteeld;
 
-- combinatienummer: nummer dat door de minister ter identificatie van een transportmiddel voor drijfmest is verstrekt en dat bij vervoer middels een transportvoertuig is samengesteld uit de op grond van [artikel 45, vierde en zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&hoofdstuk=6&artikel=45&z=2017-01-01&g=2017-01-01), verstrekte gegevens en in het geval van vervoer door middel van een pijpleiding is samengesteld uit de op grond van artikel 45, vierde lid, verstrekte gegevens;
+- combinatienummer: nummer dat door de minister ter identificatie van een transportmiddel voor drijfmest is verstrekt en dat bij vervoer middels een transportvoertuig is samengesteld uit de op grond van [artikel 45, vierde en zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&hoofdstuk=6&artikel=45&z=2017-02-01&g=2017-02-01), verstrekte gegevens en in het geval van vervoer door middel van een pijpleiding is samengesteld uit de op grond van artikel 45, vierde lid, verstrekte gegevens;
 
 - derogatiebeschikking: beschikking van de Europese Commissie tot verlening van een door Nederland gevraagde derogatie op grond van Bijlage III, punt 2, onder b, van richtlijn 91/676/EEG op grond waarvan onder voorwaarden een grotere hoeveelheid dierlijke mest op of in de bodem mag worden gebracht dan bepaald in punt 2, tweede alinea, inleidende zinnen en onder a) van Bijlage III bij richtlijn 91/676/EEG;
 
@@ -250,7 +250,7 @@ Deze regeling zal met toelichting in de Staatscourant worden geplaatst.
 
 - eutrofiëring: een verrijking van het water door stikstof- en fosfaatverbindingen, die leidt tot een versnelde groei van algen en hogere plantaardige levensvormen met als gevolg een ongewenste verstoring van het evenwicht tussen de verschillende in het water aanwezige organismen en een verslechtering van de waterkwaliteit;
 
-- gewasperceel: perceel of deel van een perceel met een minimale omvang van twee hectare waarop één en hetzelfde gewas als bedoeld in [bijlage A](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&bijlage=A&z=2017-01-01&g=2017-01-01), wordt geteeld;
+- gewasperceel: perceel of deel van een perceel met een minimale omvang van twee hectare waarop één en hetzelfde gewas als bedoeld in [bijlage A](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&bijlage=A&z=2017-02-01&g=2017-02-01), wordt geteeld;
 
 - hypotheekhouder: degene ten gunste van wie een recht van hypotheek is gevestigd op een registergoed behorende tot een bedrijf;
 
@@ -274,9 +274,9 @@ Deze regeling zal met toelichting in de Staatscourant worden geplaatst.
 
 - verordening (EG) nr. 1069/2009: verordening (EG) nr. 1069/2009 van het Europees Parlement en de Raad van 21 oktober 2009 tot vaststelling van gezondheidsvoorschriften inzake niet voor menselijke consumptie bestemde dierlijke bijproducten en afgeleide producten en tot intrekking van Verordening (EG) nr. 1774/2002 (PbEU L 300);
 
-- vervoersbewijs dierlijke meststoffen: vervoersbewijs als bedoeld in [artikel 53 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0019031&artikel=53) in samenhang met [artikel 60](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&hoofdstuk=8&paragraaf=2&artikel=60&z=2017-01-01&g=2017-01-01);
+- vervoersbewijs dierlijke meststoffen: vervoersbewijs als bedoeld in [artikel 53 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0019031&artikel=53) in samenhang met [artikel 60](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&hoofdstuk=8&paragraaf=2&artikel=60&z=2017-02-01&g=2017-02-01);
 
-- vervoersbewijs zuiveringsslib en compost: vervoersbewijs als bedoeld in [artikel 55 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0019031&artikel=55) in samenhang met [artikel 68](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&hoofdstuk=8&paragraaf=3&artikel=68&z=2017-01-01&g=2017-01-01);
+- vervoersbewijs zuiveringsslib en compost: vervoersbewijs als bedoeld in [artikel 55 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0019031&artikel=55) in samenhang met [artikel 68](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&hoofdstuk=8&paragraaf=3&artikel=68&z=2017-02-01&g=2017-02-01);
 
 - vervreemder van een productierecht: landbouwer van wiens bedrijf een productierecht, of een gedeelte daarvan, afkomstig is;
 
@@ -288,11 +288,11 @@ Deze regeling zal met toelichting in de Staatscourant worden geplaatst.
 
 - wet: [Meststoffenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0004054).
 
-2. Voor de toepassing van [hoofdstuk 3](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&hoofdstuk=3&z=2017-01-01&g=2017-01-01) wordt onder graasdieren, perceel, zuiveringsslib en compost verstaan hetgeen daaronder in [artikel 1 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0019031&artikel=1) wordt verstaan.
+2. Voor de toepassing van [hoofdstuk 3](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&hoofdstuk=3&z=2017-02-01&g=2017-02-01) wordt onder graasdieren, perceel, zuiveringsslib en compost verstaan hetgeen daaronder in [artikel 1 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0019031&artikel=1) wordt verstaan.
 
 ##### Artikel 2
 
-Voor de toepassing van deze regeling, met uitzondering van [hoofdstuk 4](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&hoofdstuk=4&z=2017-01-01&g=2017-01-01), worden de hoeveelheden meststoffen en de hoeveelheden diervoeders uitgedrukt in kilogrammen of liters alsmede in kilogrammen stikstof en kilogrammen fosfaat.
+Voor de toepassing van deze regeling, met uitzondering van [hoofdstuk 4](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&hoofdstuk=4&z=2017-02-01&g=2017-02-01), worden de hoeveelheden meststoffen en de hoeveelheden diervoeders uitgedrukt in kilogrammen of liters alsmede in kilogrammen stikstof en kilogrammen fosfaat.
 
 ##### Artikel 3
 
@@ -302,13 +302,13 @@ Als grond waarop bosbouw wordt uitgeoefend die aan bij ministeriële regeling ge
 
 Voor zover zij voldoen aan de [artikelen 9 tot en met 15 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0019031&artikel=9) zijn aangewezen:
 
-- a. als afvalstoffen of reststoffen die als meststof kunnen worden verhandeld, de in [bijlage Aa, onder I](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&bijlage=Aa&z=2017-01-01&g=2017-01-01), opgenomen stoffen;
+- a. als afvalstoffen of reststoffen die als meststof kunnen worden verhandeld, de in [bijlage Aa, onder I](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&bijlage=Aa&z=2017-02-01&g=2017-02-01), opgenomen stoffen;
 
-- b. als afvalstoffen of reststoffen die als meststof kunnen worden verhandeld, de stoffen die behoren tot de in [bijlage Aa, onder II](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&bijlage=Aa&z=2017-01-01&g=2017-01-01), opgenomen categorieën afvalstoffen of reststoffen;
+- b. als afvalstoffen of reststoffen die als meststof kunnen worden verhandeld, de stoffen die behoren tot de in [bijlage Aa, onder II](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&bijlage=Aa&z=2017-02-01&g=2017-02-01), opgenomen categorieën afvalstoffen of reststoffen;
 
-- c. als afvalstoffen of reststoffen die bij de productie van de daarbij genoemde meststoffen kunnen worden gebruikt, de in [bijlage Aa, onder III](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&bijlage=Aa&z=2017-01-01&g=2017-01-01), opgenomen stoffen; en
+- c. als afvalstoffen of reststoffen die bij de productie van de daarbij genoemde meststoffen kunnen worden gebruikt, de in [bijlage Aa, onder III](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&bijlage=Aa&z=2017-02-01&g=2017-02-01), opgenomen stoffen; en
 
-- d. als eindproducten die als meststof kunnen worden verhandeld, de in [bijlage Aa, onder IV](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&bijlage=Aa&z=2017-01-01&g=2017-01-01), opgenomen eindproducten van de aldaar omschreven bewerkingsprocédés.
+- d. als eindproducten die als meststof kunnen worden verhandeld, de in [bijlage Aa, onder IV](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&bijlage=Aa&z=2017-02-01&g=2017-02-01), opgenomen eindproducten van de aldaar omschreven bewerkingsprocédés.
 
 ##### Artikel 5
 
@@ -316,15 +316,15 @@ gereserveerd
 
 ##### Artikel 6
 
-1. Het is niet toegestaan zuiveringsslib, de in [bijlage Aa, onder I en II](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&bijlage=Aa&z=2017-01-01&g=2017-01-01), opgenomen stoffen of de in [bijlage Aa, onder IV](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&bijlage=Aa&z=2017-01-01&g=2017-01-01), opgenomen eindproducten van de aldaar omschreven bewerkingsprocédés, onderling of met andere meststoffen te mengen.
+1. Het is niet toegestaan zuiveringsslib, de in [bijlage Aa, onder I en II](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&bijlage=Aa&z=2017-02-01&g=2017-02-01), opgenomen stoffen of de in [bijlage Aa, onder IV](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&bijlage=Aa&z=2017-02-01&g=2017-02-01), opgenomen eindproducten van de aldaar omschreven bewerkingsprocédés, onderling of met andere meststoffen te mengen.
 
-2. In afwijking van het eerste lid, is het toegestaan verschillende partijen vloeibaar zuiveringsslib onderling te mengen, mits de gehalten stikstof en fosfaat in de afzonderlijke partijen zijn vastgesteld overeenkomstig de [artikelen 92a](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&hoofdstuk=9&paragraaf=3&artikel=92a&z=2017-01-01&g=2017-01-01) en [92b](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&hoofdstuk=9&paragraaf=3&artikel=92b&z=2017-01-01&g=2017-01-01) en deze afzonderlijke partijen overigens voldoen aan de bij of krachtens [hoofdstuk III van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0019031&hoofdstuk=III) ter zake van zuiveringsslib gestelde regels.
+2. In afwijking van het eerste lid, is het toegestaan verschillende partijen vloeibaar zuiveringsslib onderling te mengen, mits de gehalten stikstof en fosfaat in de afzonderlijke partijen zijn vastgesteld overeenkomstig de [artikelen 92a](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&hoofdstuk=9&paragraaf=3&artikel=92a&z=2017-02-01&g=2017-02-01) en [92b](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&hoofdstuk=9&paragraaf=3&artikel=92b&z=2017-02-01&g=2017-02-01) en deze afzonderlijke partijen overigens voldoen aan de bij of krachtens [hoofdstuk III van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0019031&hoofdstuk=III) ter zake van zuiveringsslib gestelde regels.
 
 3. Het is slechts toegestaan andere dan in het eerste lid bedoelde meststoffen te mengen, indien deze meststoffen afzonderlijk voldoen aan de bij of krachtens [hoofdstuk III van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0019031&hoofdstuk=III) ter zake van die meststoffen gestelde regels en het mengsel voldoet aan de bij of krachtens [hoofdstuk III van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0019031&hoofdstuk=III) ter zake van die meststoffen gestelde regels.
 
-4. In afwijking van het eerste lid is het toegestaan de in [bijlage Aa](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&bijlage=Aa&z=2017-01-01&g=2017-01-01), onder IV, opgenomen eindproducten van de aldaar omschreven bewerkingprocedés, die zijn gebruikt als strooisel in stallen te mengen met dierlijke mest in de mestkelder.
+4. In afwijking van het eerste lid is het toegestaan de in [bijlage Aa](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&bijlage=Aa&z=2017-02-01&g=2017-02-01), onder IV, opgenomen eindproducten van de aldaar omschreven bewerkingprocedés, die zijn gebruikt als strooisel in stallen te mengen met dierlijke mest in de mestkelder.
 
-5. In afwijking van het eerste lid is het toegestaan de dunne fractie die is ontstaan op het eigen bedrijf door scheiding van ‘covergiste mest’ als bedoeld in [bijlage Aa, onder IV](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&bijlage=Aa&z=2017-01-01&g=2017-01-01), te gebruiken om niet verpompbare covergistingsmaterialen te verdunnen.
+5. In afwijking van het eerste lid is het toegestaan de dunne fractie die is ontstaan op het eigen bedrijf door scheiding van ‘covergiste mest’ als bedoeld in [bijlage Aa, onder IV](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&bijlage=Aa&z=2017-02-01&g=2017-02-01), te gebruiken om niet verpompbare covergistingsmaterialen te verdunnen.
 
 ##### Artikel 7
 
@@ -342,17 +342,17 @@ gereserveerd
 
 ##### Artikel 8
 
-Overige anorganische meststoffen die hoofdzakelijk zijn bedoeld om secundaire nutriënten te leveren, overschrijden niet de in [bijlage Ab, onder tabel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&bijlage=Ab&z=2017-01-01&g=2017-01-01), opgenomen maximale waarden voor zware metalen, uitgedrukt in milligrammen per kilogram van het desbetreffende waardegevende bestanddeel.
+Overige anorganische meststoffen die hoofdzakelijk zijn bedoeld om secundaire nutriënten te leveren, overschrijden niet de in [bijlage Ab, onder tabel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&bijlage=Ab&z=2017-02-01&g=2017-02-01), opgenomen maximale waarden voor zware metalen, uitgedrukt in milligrammen per kilogram van het desbetreffende waardegevende bestanddeel.
 
 ##### Artikel 9
 
-Overige anorganische meststoffen die hoofdzakelijk zijn bedoeld om secundaire nutriënten te leveren en die organisch materiaal van dierlijke of plantaardige oorsprong bevatten, overschrijden niet de in [bijlage Ab, onder tabel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&bijlage=Ab&z=2017-01-01&g=2017-01-01), opgenomen maximale waarden voor organische microverontreinigingen, uitgedrukt in milligrammen per kilogram van het desbetreffende waardegevende bestanddeel.
+Overige anorganische meststoffen die hoofdzakelijk zijn bedoeld om secundaire nutriënten te leveren en die organisch materiaal van dierlijke of plantaardige oorsprong bevatten, overschrijden niet de in [bijlage Ab, onder tabel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&bijlage=Ab&z=2017-02-01&g=2017-02-01), opgenomen maximale waarden voor organische microverontreinigingen, uitgedrukt in milligrammen per kilogram van het desbetreffende waardegevende bestanddeel.
 
 ##### Artikel 10
 
-In geval het betreft anorganische meststoffen die niet alleen hoofdzakelijk zijn bedoeld om primaire of secundaire nutriënten te leveren, maar ook om de micronutriënten koper en zink te leveren, is [artikel 14 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0019031&artikel=14), voor zover het betreft de in [bijlage II, onder tabel 1 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0019031&bijlage=II), opgenomen maximale waarden voor koper en zink onderscheidenlijk [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&hoofdstuk=2&artikel=8&z=2017-01-01&g=2017-01-01), voor zover het betreft de in [bijlage Ab, onder tabel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&bijlage=Ab&z=2017-01-01&g=2017-01-01), opgenomen maximale waarden voor koper en zink, niet van toepassing, voor zover:
+In geval het betreft anorganische meststoffen die niet alleen hoofdzakelijk zijn bedoeld om primaire of secundaire nutriënten te leveren, maar ook om de micronutriënten koper en zink te leveren, is [artikel 14 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0019031&artikel=14), voor zover het betreft de in [bijlage II, onder tabel 1 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0019031&bijlage=II), opgenomen maximale waarden voor koper en zink onderscheidenlijk [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&hoofdstuk=2&artikel=8&z=2017-02-01&g=2017-02-01), voor zover het betreft de in [bijlage Ab, onder tabel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&bijlage=Ab&z=2017-02-01&g=2017-02-01), opgenomen maximale waarden voor koper en zink, niet van toepassing, voor zover:
 
-- a. de meststoffen overeenkomstig [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&hoofdstuk=2&artikel=14&z=2017-01-01&g=2017-01-01) zijn voorzien van de gehalten aan koper onderscheidenlijk zink; en
+- a. de meststoffen overeenkomstig [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&hoofdstuk=2&artikel=14&z=2017-02-01&g=2017-02-01) zijn voorzien van de gehalten aan koper onderscheidenlijk zink; en
 
 - b. zowel de hoeveelheden primaire of secundaire nutriënten als de hoeveelheden koper of zink die met de desbetreffende meststof worden opgebracht, passen binnen het totale bemestingsadvies.
 
@@ -364,7 +364,7 @@ Overige anorganische meststoffen die hoofdzakelijk zijn bedoeld om micronutriën
 
 1. De gehalten stikstof en fosfaat in meststoffen, bedoeld in [artikel 19, eerste lid, onderdeel d van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0019031&artikel=19), worden voor stikstof uitsluitend in de vorm van het element (N) en voor fosfaat in de vorm van het oxide (P2O5) en desgewenst in de vorm van het element (P) uitgedrukt
 
-2. De waardegevende bestanddelen in meststoffen, bedoeld in [artikel 19, eerste lid, onderdeel e, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0019031&artikel=19), met uitzondering van stikstof en fosfaat behoeven uitsluitend te worden vermeld voor zover deze de in de [artikelen 9 tot en met 12 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0019031&artikel=9) en de in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&hoofdstuk=2&artikel=7&z=2017-01-01&g=2017-01-01) van deze regeling bedoelde minimale hoeveelheden te boven gaan.
+2. De waardegevende bestanddelen in meststoffen, bedoeld in [artikel 19, eerste lid, onderdeel e, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0019031&artikel=19), met uitzondering van stikstof en fosfaat behoeven uitsluitend te worden vermeld voor zover deze de in de [artikelen 9 tot en met 12 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0019031&artikel=9) en de in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&hoofdstuk=2&artikel=7&z=2017-02-01&g=2017-02-01) van deze regeling bedoelde minimale hoeveelheden te boven gaan.
 
 3. De in het tweede lid bedoelde gegevens worden voor kalium, calcium, magnesium, natrium en zwavel in de vorm van het oxide (K2O; CaO; MgO; Na2O; onderscheidenlijk SO3) en desgewenst in de vorm van het element (K; Ca; Mg; Na onderscheidenlijk S) uitgedrukt.
 
@@ -372,11 +372,11 @@ Overige anorganische meststoffen die hoofdzakelijk zijn bedoeld om micronutriën
 
 ##### Artikel 13
 
-1. Behalve de gegevens, bedoeld in [artikel 19, eerste lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0019031&artikel=19) zijn overige organische meststoffen en overige anorganische meststoffen die bestaan uit de in [bijlage Aa](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&bijlage=Aa&z=2017-01-01&g=2017-01-01) opgenomen stoffen, voorzien van het nummer waaronder de desbetreffende stof op deze [bijlage](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&bijlage=Aa&z=2017-01-01&g=2017-01-01) is vermeld.
+1. Behalve de gegevens, bedoeld in [artikel 19, eerste lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0019031&artikel=19) zijn overige organische meststoffen en overige anorganische meststoffen die bestaan uit de in [bijlage Aa](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&bijlage=Aa&z=2017-02-01&g=2017-02-01) opgenomen stoffen, voorzien van het nummer waaronder de desbetreffende stof op deze [bijlage](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&bijlage=Aa&z=2017-02-01&g=2017-02-01) is vermeld.
 
 2. Behalve de gegevens, bedoeld in [artikel 19, eerste lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0019031&artikel=19) zijn mengsels van meststoffen voorzien van gegevens over de meststoffen waaruit het mengsel bestaat en de verhouding waarin deze in het mengsel voorkomen.
 
-3. Indien het mengsel mede bestaat uit ingevolge [artikel 4, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&hoofdstuk=2&artikel=4&z=2017-01-01&g=2017-01-01), aangewezen stoffen, wordt bij de in het tweede lid bedoelde vermelding over de samenstelling en verhouding tevens vermeld het nummer waaronder de desbetreffende stof op [bijlage Aa, onder III](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&bijlage=Aa&z=2017-01-01&g=2017-01-01), is vermeld.
+3. Indien het mengsel mede bestaat uit ingevolge [artikel 4, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&hoofdstuk=2&artikel=4&z=2017-02-01&g=2017-02-01), aangewezen stoffen, wordt bij de in het tweede lid bedoelde vermelding over de samenstelling en verhouding tevens vermeld het nummer waaronder de desbetreffende stof op [bijlage Aa, onder III](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&bijlage=Aa&z=2017-02-01&g=2017-02-01), is vermeld.
 
 ##### Artikel 14
 
@@ -390,53 +390,53 @@ In geval het betreft anorganische meststoffen die niet alleen primaire of secund
 
 ##### Artikel 16
 
-1. De gehalten stikstof en fosfaat in meststoffen, bedoeld in [artikel 19, eerste lid, onderdeel d van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0019031&artikel=19), worden in gewichtsprocenten vermeld en komen overeen met de gehalten stikstof en fosfaat zoals deze voor de desbetreffende meststof overeenkomstig [artikel 17](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&hoofdstuk=2&artikel=17&z=2017-01-01&g=2017-01-01), dan wel [artikel 92a tot en met 92b](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&hoofdstuk=9&paragraaf=3&artikel=92a&z=2017-01-01&g=2017-01-01) voor zover het zuiveringsslib of compost betreft, zijn vastgesteld
+1. De gehalten stikstof en fosfaat in meststoffen, bedoeld in [artikel 19, eerste lid, onderdeel d van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0019031&artikel=19), worden in gewichtsprocenten vermeld en komen overeen met de gehalten stikstof en fosfaat zoals deze voor de desbetreffende meststof overeenkomstig [artikel 17](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&hoofdstuk=2&artikel=17&z=2017-02-01&g=2017-02-01), dan wel [artikel 92a tot en met 92b](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&hoofdstuk=9&paragraaf=3&artikel=92a&z=2017-02-01&g=2017-02-01) voor zover het zuiveringsslib of compost betreft, zijn vastgesteld
 
 2. De waardegevende bestanddelen in meststoffen, bedoeld in [artikel 19, eerste lid, onderdeel e, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0019031&artikel=19), met uitzondering van stikstof en fosfaat worden in gewichtsprocenten of op gewichtsbasis vermeld en komen overeen met:
 
-- a. de gehalten aan overige nutriënten zoals deze voor de desbetreffende meststof overeenkomstig [artikel 17](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&hoofdstuk=2&artikel=17&z=2017-01-01&g=2017-01-01) zijn vastgesteld;
+- a. de gehalten aan overige nutriënten zoals deze voor de desbetreffende meststof overeenkomstig [artikel 17](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&hoofdstuk=2&artikel=17&z=2017-02-01&g=2017-02-01) zijn vastgesteld;
 
-- b. het organischestofgehalte zoals dit voor de desbetreffende meststof overeenkomstig [artikel 18](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&hoofdstuk=2&artikel=18&z=2017-01-01&g=2017-01-01) is vastgesteld; of
+- b. het organischestofgehalte zoals dit voor de desbetreffende meststof overeenkomstig [artikel 18](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&hoofdstuk=2&artikel=18&z=2017-02-01&g=2017-02-01) is vastgesteld; of
 
-- c. de neutraliserende waarde zoals deze voor de desbetreffende meststof overeenkomstig [artikel 19](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&hoofdstuk=2&artikel=19&z=2017-01-01&g=2017-01-01) is vastgesteld.
+- c. de neutraliserende waarde zoals deze voor de desbetreffende meststof overeenkomstig [artikel 19](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&hoofdstuk=2&artikel=19&z=2017-02-01&g=2017-02-01) is vastgesteld.
 
 ##### Artikel 17
 
 1. Het stikstofgehalte en het fosfaatgehalte in meststoffen, niet zijnde zuiveringsslib of compost, alsmede de gehalten aan overige nutriënten in meststoffen worden vastgesteld door middel van analyse van een uit de desbetreffende meststoffen volgens algemeen geldende bemonsteringsprincipes genomen representatief monster.
 
-2. De analyse van het monster geschiedt overeenkomstig het protocol, dat voor de te onderscheiden categorieën meststoffen is opgenomen in [bijlage Ac, onderdeel I](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&bijlage=Ac&z=2017-01-01&g=2017-01-01), of door middel van een methode die tenminste dezelfde waarborgen omvat, door een laboratorium dat blijkens accreditatie door de Raad aantoonbaar voldoet aan de norm NEN-EN-ISO/IEC 17025.
+2. De analyse van het monster geschiedt overeenkomstig het protocol, dat voor de te onderscheiden categorieën meststoffen is opgenomen in [bijlage Ac, onderdeel I](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&bijlage=Ac&z=2017-02-01&g=2017-02-01), of door middel van een methode die tenminste dezelfde waarborgen omvat, door een laboratorium dat blijkens accreditatie door de Raad aantoonbaar voldoet aan de norm NEN-EN-ISO/IEC 17025.
 
 ##### Artikel 18
 
 1. Het organischestofgehalte in meststoffen wordt vastgesteld door middel van analyse van een uit de desbetreffende meststoffen volgens algemeen geldende bemonsteringsprincipes genomen representatief monster.
 
-2. De analyse van dit monster geschiedt overeenkomstig het protocol, dat voor de te onderscheiden categorieën meststoffen is opgenomen in [bijlage Ac, onderdeel II](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&bijlage=Ac&z=2017-01-01&g=2017-01-01), of door middel van een methode die tenminste dezelfde waarborgen omvat, door een laboratorium dat blijkens accreditatie door de Raad aantoonbaar voldoet aan de norm NEN-EN-ISO/IEC 17025.
+2. De analyse van dit monster geschiedt overeenkomstig het protocol, dat voor de te onderscheiden categorieën meststoffen is opgenomen in [bijlage Ac, onderdeel II](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&bijlage=Ac&z=2017-02-01&g=2017-02-01), of door middel van een methode die tenminste dezelfde waarborgen omvat, door een laboratorium dat blijkens accreditatie door de Raad aantoonbaar voldoet aan de norm NEN-EN-ISO/IEC 17025.
 
 ##### Artikel 19
 
 1. De neutraliserende waarde van meststoffen wordt vastgesteld door middel van analyse van een uit de desbetreffende meststoffen volgens algemeen geldende bemonsteringsprincipes genomen representatief monster.
 
-2. De analyse van dit monster geschiedt overeenkomstig het protocol, dat voor de te onderscheiden categorieën meststoffen is opgenomen in [bijlage Ac, onderdeel III](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&bijlage=Ac&z=2017-01-01&g=2017-01-01), of door middel van een methode die tenminste dezelfde waarborgen omvat, door een laboratorium dat blijkens accreditatie door de Raad aantoonbaar voldoet aan de norm NEN-EN-ISO/IEC 17025.
+2. De analyse van dit monster geschiedt overeenkomstig het protocol, dat voor de te onderscheiden categorieën meststoffen is opgenomen in [bijlage Ac, onderdeel III](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&bijlage=Ac&z=2017-02-01&g=2017-02-01), of door middel van een methode die tenminste dezelfde waarborgen omvat, door een laboratorium dat blijkens accreditatie door de Raad aantoonbaar voldoet aan de norm NEN-EN-ISO/IEC 17025.
 
 ##### Artikel 20
 
 1. Het drogestofgehalte in meststoffen wordt vastgesteld door middel van analyse van een uit de desbetreffende meststoffen volgens algemeen geldende bemonsteringsprincipes genomen representatief monster.
 
-2. De analyse van dit monster geschiedt overeenkomstig het protocol, dat voor de te onderscheiden categorieën meststoffen is opgenomen in [bijlage Ac, onderdeel IV](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&bijlage=Ac&z=2017-01-01&g=2017-01-01), of door middel van een methode die tenminste dezelfde waarborgen omvat, door een laboratorium dat blijkens accreditatie door de Raad aantoonbaar voldoet aan de norm NEN-EN-ISO/IEC 17025.
+2. De analyse van dit monster geschiedt overeenkomstig het protocol, dat voor de te onderscheiden categorieën meststoffen is opgenomen in [bijlage Ac, onderdeel IV](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&bijlage=Ac&z=2017-02-01&g=2017-02-01), of door middel van een methode die tenminste dezelfde waarborgen omvat, door een laboratorium dat blijkens accreditatie door de Raad aantoonbaar voldoet aan de norm NEN-EN-ISO/IEC 17025.
 
 ##### Artikel 21
 
 1. De hoeveelheden zware metalen in meststoffen worden vastgesteld door middel van analyse van een uit de desbetreffende meststoffen volgens algemeen geldende bemonsteringsprincipes genomen representatief monster.
 
-2. De bemonstering van zuiveringsslib geschiedt ten minste in de frequentie, bedoeld in [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&hoofdstuk=2&artikel=9&z=2017-01-01&g=2017-01-01), in samenhang met bijlage IIA, van richtlijn nr. 86/278/EEG van de Raad van de Europese Gemeenschappen van 12 juni 1986, betreffende de bescherming van het milieu, in het bijzonder de bodem, bij het gebruik van zuiveringsslib in de landbouw (PbEG L 181).
+2. De bemonstering van zuiveringsslib geschiedt ten minste in de frequentie, bedoeld in [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&hoofdstuk=2&artikel=9&z=2017-02-01&g=2017-02-01), in samenhang met bijlage IIA, van richtlijn nr. 86/278/EEG van de Raad van de Europese Gemeenschappen van 12 juni 1986, betreffende de bescherming van het milieu, in het bijzonder de bodem, bij het gebruik van zuiveringsslib in de landbouw (PbEG L 181).
 
-3. De analyse van het monster geschiedt overeenkomstig het protocol, dat voor de te onderscheiden categorieën meststoffen is opgenomen in [bijlage Ac, onderdeel V](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&bijlage=Ac&z=2017-01-01&g=2017-01-01), of door middel van een methode die tenminste dezelfde waarborgen omvat, door een laboratorium dat blijkens accreditatie door de Raad aantoonbaar voldoet aan de norm NEN-EN-ISO/IEC 17025.
+3. De analyse van het monster geschiedt overeenkomstig het protocol, dat voor de te onderscheiden categorieën meststoffen is opgenomen in [bijlage Ac, onderdeel V](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&bijlage=Ac&z=2017-02-01&g=2017-02-01), of door middel van een methode die tenminste dezelfde waarborgen omvat, door een laboratorium dat blijkens accreditatie door de Raad aantoonbaar voldoet aan de norm NEN-EN-ISO/IEC 17025.
 
 ##### Artikel 22
 
 1. De hoeveelheden organische microverontreinigingen in meststoffen wordt vastgesteld door middel van analyse van een uit de desbetreffende meststoffen volgens algemeen geldende bemonsteringsprincipes genomen representatief monster.
 
-2. De analyse van dit monster geschiedt overeenkomstig het protocol, dat voor de te onderscheiden categorieën meststoffen is opgenomen in [bijlage Ac, onderdeel VI](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&bijlage=Ac&z=2017-01-01&g=2017-01-01), of door middel van een methode die tenminste dezelfde waarborgen omvat, door een laboratorium dat blijkens accreditatie door de Raad aantoonbaar voldoet aan de norm NEN-EN-ISO/IEC 17025.
+2. De analyse van dit monster geschiedt overeenkomstig het protocol, dat voor de te onderscheiden categorieën meststoffen is opgenomen in [bijlage Ac, onderdeel VI](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&bijlage=Ac&z=2017-02-01&g=2017-02-01), of door middel van een methode die tenminste dezelfde waarborgen omvat, door een laboratorium dat blijkens accreditatie door de Raad aantoonbaar voldoet aan de norm NEN-EN-ISO/IEC 17025.
 
 ##### Artikel 23
 
@@ -456,25 +456,25 @@ Het tijdstip, bedoeld in [artikel 77 van het besluit](https://wetten.overheid.nl
 
 - a. op dierlijke meststoffen afkomstig van graasdieren; en
 
-- b. indien wordt voldaan aan elk van de voorwaarden, bedoeld in de [artikelen 25](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&hoofdstuk=3&paragraaf=1&artikel=25&z=2017-01-01&g=2017-01-01), [27](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&hoofdstuk=3&paragraaf=1&artikel=27&z=2017-01-01&g=2017-01-01) en [27a](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&hoofdstuk=3&paragraaf=1&artikel=27a&z=2017-01-01&g=2017-01-01).
+- b. indien wordt voldaan aan elk van de voorwaarden, bedoeld in de [artikelen 25](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&hoofdstuk=3&paragraaf=1&artikel=25&z=2017-02-01&g=2017-02-01), [27](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&hoofdstuk=3&paragraaf=1&artikel=27&z=2017-02-01&g=2017-02-01) en [27a](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&hoofdstuk=3&paragraaf=1&artikel=27a&z=2017-02-01&g=2017-02-01).
 
 ##### Artikel 25
 
-1. Uiterlijk op 31 januari van het kalenderjaar waarin de gebruiksnormen, bedoeld in [artikel 24, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&hoofdstuk=3&paragraaf=1&artikel=24&z=2017-01-01&g=2017-01-01), worden toegepast, meldt de landbouwer het bedrijf voor de toepassing van artikel 24, eerste en tweede lid, aan bij de minister.
+1. Uiterlijk op 31 januari van het kalenderjaar waarin de gebruiksnormen, bedoeld in [artikel 24, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&hoofdstuk=3&paragraaf=1&artikel=24&z=2017-02-01&g=2017-02-01), worden toegepast, meldt de landbouwer het bedrijf voor de toepassing van artikel 24, eerste en tweede lid, aan bij de minister.
 
-2. Met de melding verklaart de landbouwer dat hij de gebruiksnormen, bedoeld in [artikel 8 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004054&artikel=8), de bij of krachtens de [hoofdstukken 5](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&hoofdstuk=5&z=2017-01-01&g=2017-01-01) en [9](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&hoofdstuk=9&z=2017-01-01&g=2017-01-01) in samenhang met de [hoofdstukken IV](https://wetten.overheid.nl/jci1.3:c:BWBR0019031&hoofdstuk=IV), [VI](https://wetten.overheid.nl/jci1.3:c:BWBR0019031&hoofdstuk=VI) en [X van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0019031&hoofdstuk=X) gestelde regels, de [artikelen 4b](https://wetten.overheid.nl/jci1.3:c:BWBR0009066&artikel=4b) en [8a van het Besluit gebruik meststoffen](https://wetten.overheid.nl/jci1.3:c:BWBR0009066&artikel=8a) en de voorschriften die uit hoofde van deze paragraaf aan hem worden gesteld naleeft.
+2. Met de melding verklaart de landbouwer dat hij de gebruiksnormen, bedoeld in [artikel 8 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004054&artikel=8), de bij of krachtens de [hoofdstukken 5](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&hoofdstuk=5&z=2017-02-01&g=2017-02-01) en [9](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&hoofdstuk=9&z=2017-02-01&g=2017-02-01) in samenhang met de [hoofdstukken IV](https://wetten.overheid.nl/jci1.3:c:BWBR0019031&hoofdstuk=IV), [VI](https://wetten.overheid.nl/jci1.3:c:BWBR0019031&hoofdstuk=VI) en [X van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0019031&hoofdstuk=X) gestelde regels, de [artikelen 4b](https://wetten.overheid.nl/jci1.3:c:BWBR0009066&artikel=4b) en [8a van het Besluit gebruik meststoffen](https://wetten.overheid.nl/jci1.3:c:BWBR0009066&artikel=8a) en de voorschriften die uit hoofde van deze paragraaf aan hem worden gesteld naleeft.
 
-3. De landbouwer voldoet aan de gebruiksnormen, bedoeld in [artikel 8 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004054&artikel=8), de bij of krachtens de [hoofdstukken 5](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&hoofdstuk=5&z=2017-01-01&g=2017-01-01) en [9](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&hoofdstuk=9&z=2017-01-01&g=2017-01-01) in samenhang met de [hoofdstukken IV](https://wetten.overheid.nl/jci1.3:c:BWBR0019031&hoofdstuk=IV), [VI](https://wetten.overheid.nl/jci1.3:c:BWBR0019031&hoofdstuk=VI) en [X van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0019031&hoofdstuk=X) gestelde regels en de [artikelen 4b](https://wetten.overheid.nl/jci1.3:c:BWBR0009066&artikel=4b) en [8a van het Besluit gebruik meststoffen](https://wetten.overheid.nl/jci1.3:c:BWBR0009066&artikel=8a).
+3. De landbouwer voldoet aan de gebruiksnormen, bedoeld in [artikel 8 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004054&artikel=8), de bij of krachtens de [hoofdstukken 5](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&hoofdstuk=5&z=2017-02-01&g=2017-02-01) en [9](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&hoofdstuk=9&z=2017-02-01&g=2017-02-01) in samenhang met de [hoofdstukken IV](https://wetten.overheid.nl/jci1.3:c:BWBR0019031&hoofdstuk=IV), [VI](https://wetten.overheid.nl/jci1.3:c:BWBR0019031&hoofdstuk=VI) en [X van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0019031&hoofdstuk=X) gestelde regels en de [artikelen 4b](https://wetten.overheid.nl/jci1.3:c:BWBR0009066&artikel=4b) en [8a van het Besluit gebruik meststoffen](https://wetten.overheid.nl/jci1.3:c:BWBR0009066&artikel=8a).
 
-4. De landbouwer betaalt ten behoeve van ’s Rijks kas een geldsom ter dekking van de kosten die samenhangen met monitoringswerkzaamheden, bedoeld in artikel 8 van de derogatiebeschikking, ter hoogte van het bij zijn oppervlakte landbouwgrond behorende tarief, bedoeld in [Bijlage Ad](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&bijlage=Ad&z=2017-01-01&g=2017-01-01). Bij de melding, bedoeld in het eerste lid, stelt de landbouwer door middel van het afgeven van een machtiging tot betaling de minister in staat dit bedrag te innen.
+4. De landbouwer betaalt ten behoeve van ’s Rijks kas een geldsom ter dekking van de kosten die samenhangen met monitoringswerkzaamheden, bedoeld in artikel 8 van de derogatiebeschikking, ter hoogte van het bij zijn oppervlakte landbouwgrond behorende tarief, bedoeld in [Bijlage Ad](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&bijlage=Ad&z=2017-02-01&g=2017-02-01). Bij de melding, bedoeld in het eerste lid, stelt de landbouwer door middel van het afgeven van een machtiging tot betaling de minister in staat dit bedrag te innen.
 
-5. In het kalenderjaar waarin de gebruiksnormen, bedoeld in [artikel 24, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&hoofdstuk=3&paragraaf=1&artikel=24&z=2017-01-01&g=2017-01-01), worden toegepast, wordt gedurende de periode van 15 mei tot en met 15 september ten minste tachtig procent van de tot het bedrijf behorende oppervlakte landbouwgrond, die voor het op of in de bodem brengen van dierlijke meststoffen beschikbaar is, onafgebroken beteeld met gras dat is bestemd om te worden gebruikt als ruwvoer.
+5. In het kalenderjaar waarin de gebruiksnormen, bedoeld in [artikel 24, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&hoofdstuk=3&paragraaf=1&artikel=24&z=2017-02-01&g=2017-02-01), worden toegepast, wordt gedurende de periode van 15 mei tot en met 15 september ten minste tachtig procent van de tot het bedrijf behorende oppervlakte landbouwgrond, die voor het op of in de bodem brengen van dierlijke meststoffen beschikbaar is, onafgebroken beteeld met gras dat is bestemd om te worden gebruikt als ruwvoer.
 
 6. De landbouwer gebruikt geen fosfaat uit kunstmest.
 
 7. De landbouwer verleent desgevraagd zijn medewerking aan monitoringswerkzaamheden als bedoeld in artikel 8 van de derogatiebeschikking, in opdracht van de minister of de Minister van Infrastructuur en Milieu.
 
-8. Na de melding, bedoeld in het eerste lid, kan de landbouwer het bedrijf tot 16 mei afmelden voor de toepassing van [artikel 24, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&hoofdstuk=3&paragraaf=1&artikel=24&z=2017-01-01&g=2017-01-01), zonder dat de geldsom, bedoeld in het vierde lid, in rekening wordt gebracht.
+8. Na de melding, bedoeld in het eerste lid, kan de landbouwer het bedrijf tot 16 mei afmelden voor de toepassing van [artikel 24, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&hoofdstuk=3&paragraaf=1&artikel=24&z=2017-02-01&g=2017-02-01), zonder dat de geldsom, bedoeld in het vierde lid, in rekening wordt gebracht.
 
 ##### Artikel 26
 
@@ -482,7 +482,7 @@ Vervallen
 
 ##### Artikel 27
 
-1. De landbouwer stelt vóór 1 februari van het kalenderjaar waarin de gebruiksnorm, bedoeld in [artikel 24, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&hoofdstuk=3&paragraaf=1&artikel=24&z=2017-01-01&g=2017-01-01), wordt toegepast, voor het desbetreffende jaar een bemestingsplan op dat voldoet aan artikel 5, vierde en vijfde lid, van de derogatiebeschikking.
+1. De landbouwer stelt vóór 1 februari van het kalenderjaar waarin de gebruiksnorm, bedoeld in [artikel 24, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&hoofdstuk=3&paragraaf=1&artikel=24&z=2017-02-01&g=2017-02-01), wordt toegepast, voor het desbetreffende jaar een bemestingsplan op dat voldoet aan artikel 5, vierde en vijfde lid, van de derogatiebeschikking.
 
 2. De landbouwer herziet het bemestingsplan uiterlijk zeven dagen nadat zich een wijziging in de landbouwpraktijk heeft voorgedaan, indien dat noodzakelijk is om de consistentie van het bemestingsplan te waarborgen.
 
@@ -498,7 +498,7 @@ Vervallen
 
 ##### Artikel 28
 
-1. Als hoeveelheid stikstof als bedoeld in [artikel 10, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004054&artikel=10) wordt vastgesteld de hoeveelheid stikstof die in [bijlage A, tabel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&bijlage=A&z=2017-01-01&g=2017-01-01), bij het desbetreffende gewas onder het desbetreffende jaar is vermeld, uitgedrukt in kilogrammen stikstof per hectare van de tot het bedrijf behorende oppervlakte landbouwgrond, zoals deze in voorkomend geval is onderscheiden naar de grondsoort van het perceel waarop de teelt plaatsvindt, het aantal voorafgaande teelten van hetzelfde gewas in het desbetreffende jaar, de in het desbetreffende jaar aan de betrokken teelt voorafgaande of op de betrokken teelt volgende teelt van andere gewassen, het tijdstip waarop het desbetreffende perceel is beteeld, alsmede de bij de teelt toegepaste landbouwpraktijk, met dien verstande dat:
+1. Als hoeveelheid stikstof als bedoeld in [artikel 10, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004054&artikel=10) wordt vastgesteld de hoeveelheid stikstof die in [bijlage A, tabel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&bijlage=A&z=2017-02-01&g=2017-02-01), bij het desbetreffende gewas onder het desbetreffende jaar is vermeld, uitgedrukt in kilogrammen stikstof per hectare van de tot het bedrijf behorende oppervlakte landbouwgrond, zoals deze in voorkomend geval is onderscheiden naar de grondsoort van het perceel waarop de teelt plaatsvindt, het aantal voorafgaande teelten van hetzelfde gewas in het desbetreffende jaar, de in het desbetreffende jaar aan de betrokken teelt voorafgaande of op de betrokken teelt volgende teelt van andere gewassen, het tijdstip waarop het desbetreffende perceel is beteeld, alsmede de bij de teelt toegepaste landbouwpraktijk, met dien verstande dat:
 
 - a. de hoeveelheid stikstof die bij ‘tijdelijk grasland’ en bij ‘groenbemesters’ is vermeld, niet geldt voor tijdelijk grasland dat wordt, onderscheidenlijk groenbemesters die worden geteeld aansluitend op de teelt van maïs;
 
@@ -516,43 +516,43 @@ Vervallen
 
 - e. de hoeveelheid stikstof die onder ‘lössgrond’ is vermeld, uitsluitend geldt indien het grond betreft die is ontstaan in eolisch materiaal en binnen 80 cm van het maaiveld voor meer dan de helft bestaat uit leem met een kleinere fractie dan 50 µm.
 
-2. Indien het gewogen gemiddelde van de hoeveelheid stikstof van alle op de tot een bedrijf behorende oppervlakte landbouwgrond geteelde gewassen of gewasgroepen uit [Bijlage A, tabel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&bijlage=A&z=2017-01-01&g=2017-01-01), in een kalenderjaar ten minste 100 kilogram en ten hoogste 110 kilogram stikstof per hectare is, bedraagt de hoeveelheid stikstof, bedoeld in [artikel 10, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004054&artikel=10) in het desbetreffende kalenderjaar, in afwijking van het eerste lid, 110 kilogram stikstof per hectare van de tot dat bedrijf behorende oppervlakte landbouwgrond.
+2. Indien het gewogen gemiddelde van de hoeveelheid stikstof van alle op de tot een bedrijf behorende oppervlakte landbouwgrond geteelde gewassen of gewasgroepen uit [Bijlage A, tabel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&bijlage=A&z=2017-02-01&g=2017-02-01), in een kalenderjaar ten minste 100 kilogram en ten hoogste 110 kilogram stikstof per hectare is, bedraagt de hoeveelheid stikstof, bedoeld in [artikel 10, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004054&artikel=10) in het desbetreffende kalenderjaar, in afwijking van het eerste lid, 110 kilogram stikstof per hectare van de tot dat bedrijf behorende oppervlakte landbouwgrond.
 
 ##### Artikel 29
 
-1. Bij de bepaling van de in [artikel 12, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004054&artikel=12) bedoelde hoeveelheid meststoffen wordt de hoeveelheid stikstof in dierlijke en andere in [bijlage B](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&bijlage=B&z=2017-01-01&g=2017-01-01) vermelde organische meststoffen slechts in aanmerking genomen voor het percentage dat in de tabel van die bijlage is vermeld voor de desbetreffende meststof en, indien sprake is van dierlijke meststoffen die op bouwland op kleigrond of veengrond op of in de bodem zijn gebracht, voor de desbetreffende periode waarin de meststoffen op of in de bodem zijn gebracht, met dien verstande dat het bij de omstandigheid ‘op bedrijf met beweiding’ of ‘op bedrijf zonder beweiding’ vermelde percentage uitsluitend geldt indien op het desbetreffende bedrijf de in [bijlage A](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&bijlage=A&z=2017-01-01&g=2017-01-01), tabel 1, bij ‘grasland met beweiden’ onderscheidenlijk ‘grasland met volledig maaien’ vermelde hoeveelheid stikstof als stikstofgebruiksnorm wordt toegepast.
+1. Bij de bepaling van de in [artikel 12, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004054&artikel=12) bedoelde hoeveelheid meststoffen wordt de hoeveelheid stikstof in dierlijke en andere in [bijlage B](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&bijlage=B&z=2017-02-01&g=2017-02-01) vermelde organische meststoffen slechts in aanmerking genomen voor het percentage dat in de tabel van die bijlage is vermeld voor de desbetreffende meststof en, indien sprake is van dierlijke meststoffen die op bouwland op kleigrond of veengrond op of in de bodem zijn gebracht, voor de desbetreffende periode waarin de meststoffen op of in de bodem zijn gebracht, met dien verstande dat het bij de omstandigheid ‘op bedrijf met beweiding’ of ‘op bedrijf zonder beweiding’ vermelde percentage uitsluitend geldt indien op het desbetreffende bedrijf de in [bijlage A](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&bijlage=A&z=2017-02-01&g=2017-02-01), tabel 1, bij ‘grasland met beweiden’ onderscheidenlijk ‘grasland met volledig maaien’ vermelde hoeveelheid stikstof als stikstofgebruiksnorm wordt toegepast.
 
-2. Indien het mengsels van organische meststoffen betreft, wordt bij de bepaling van de in [artikel 12, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004054&artikel=12) bedoelde hoeveelheid meststoffen de hoeveelheid stikstof in dat mengsel in aanmerking genomen voor het hoogste percentage dat in [bijlage B](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&bijlage=B&z=2017-01-01&g=2017-01-01) is vermeld bij de meststoffen die het mengsel bevat.
+2. Indien het mengsels van organische meststoffen betreft, wordt bij de bepaling van de in [artikel 12, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004054&artikel=12) bedoelde hoeveelheid meststoffen de hoeveelheid stikstof in dat mengsel in aanmerking genomen voor het hoogste percentage dat in [bijlage B](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&bijlage=B&z=2017-02-01&g=2017-02-01) is vermeld bij de meststoffen die het mengsel bevat.
 
 #### § 2. Stikstofgebruiksnorm
 
 ##### Artikel 30
 
-1. In afwijking van [artikel 29a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&hoofdstuk=3&paragraaf=3&artikel=29a&z=2017-01-01&g=2017-01-01), is de fosfaatgebruiksnorm voor meststoffen, bedoeld in [artikel 8, onderdeel c, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004054&artikel=8), per hectare grasland van de tot het bedrijf behorende oppervlakte landbouwgrond voor elk perceel dan wel gewasperceel, waarvan blijkens de aan de minister verstrekte gegevens de waarde van de fosfaattoestand van de bodem lager is dan het PAL-getal 16, 120 kilogram fosfaat in per jaar.
+1. In afwijking van [artikel 29a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&hoofdstuk=3&paragraaf=3&artikel=29a&z=2017-02-01&g=2017-02-01), is de fosfaatgebruiksnorm voor meststoffen, bedoeld in [artikel 8, onderdeel c, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004054&artikel=8), per hectare grasland van de tot het bedrijf behorende oppervlakte landbouwgrond voor elk perceel dan wel gewasperceel, waarvan blijkens de aan de minister verstrekte gegevens de waarde van de fosfaattoestand van de bodem lager is dan het PAL-getal 16, 120 kilogram fosfaat in per jaar.
 
-2. In afwijking van [artikel 29a, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&hoofdstuk=3&paragraaf=3&artikel=29a&z=2017-01-01&g=2017-01-01), is de fosfaatgebruiksnorm voor meststoffen, bedoeld in [artikel 8, onderdeel c, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004054&artikel=8), per hectare bouwland van de tot het bedrijf behorende oppervlakte landbouwgrond voor elk perceel dan wel gewasperceel, waarvan blijkens de aan de minister verstrekte gegevens de waarde voor de fosfaattoestand van de bodem lager is dan het Pw-getal 25, 120 kilogram fosfaat per jaar.
+2. In afwijking van [artikel 29a, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&hoofdstuk=3&paragraaf=3&artikel=29a&z=2017-02-01&g=2017-02-01), is de fosfaatgebruiksnorm voor meststoffen, bedoeld in [artikel 8, onderdeel c, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004054&artikel=8), per hectare bouwland van de tot het bedrijf behorende oppervlakte landbouwgrond voor elk perceel dan wel gewasperceel, waarvan blijkens de aan de minister verstrekte gegevens de waarde voor de fosfaattoestand van de bodem lager is dan het Pw-getal 25, 120 kilogram fosfaat per jaar.
 
 ##### Artikel 31
 
-1. De fosfaatgebruiksnorm, bedoeld in [artikel 30](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&hoofdstuk=3&paragraaf=3&artikel=30&z=2017-01-01&g=2017-01-01), is uitsluitend van toepassing gedurende vier kalenderjaren, met ingang van het kalenderjaar waarin de melding, bedoeld in [artikel 32, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&hoofdstuk=3&paragraaf=3&artikel=32&z=2017-01-01&g=2017-01-01), is gedaan, indien is voldaan aan elk van de voorwaarden, bedoeld in de artikelen 32 en [33, eerste en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&hoofdstuk=3&paragraaf=3&artikel=33&z=2017-01-01&g=2017-01-01).
+1. De fosfaatgebruiksnorm, bedoeld in [artikel 30](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&hoofdstuk=3&paragraaf=3&artikel=30&z=2017-02-01&g=2017-02-01), is uitsluitend van toepassing gedurende vier kalenderjaren, met ingang van het kalenderjaar waarin de melding, bedoeld in [artikel 32, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&hoofdstuk=3&paragraaf=3&artikel=32&z=2017-02-01&g=2017-02-01), is gedaan, indien is voldaan aan elk van de voorwaarden, bedoeld in de artikelen 32 en [33, eerste en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&hoofdstuk=3&paragraaf=3&artikel=33&z=2017-02-01&g=2017-02-01).
 
-2. Indien de percelen dan wel de gewaspercelen, bedoeld in [artikel 30, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&hoofdstuk=3&paragraaf=3&artikel=30&z=2017-01-01&g=2017-01-01), in de in het eerste lid bedoelde periode in gebruik zijn genomen door een andere landbouwer, is de fosfaatgebruiksnorm, bedoeld in artikel 30, gedurende het restant van die periode van toepassing, indien de landbouwer de ingebruikneming van de percelen dan wel de gewaspercelen onder opgave van de oppervlakte en de ligging ervan uiterlijk de eerstvolgende 15 mei na de datum van ingebruikneming heeft gemeld aan de minister.
+2. Indien de percelen dan wel de gewaspercelen, bedoeld in [artikel 30, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&hoofdstuk=3&paragraaf=3&artikel=30&z=2017-02-01&g=2017-02-01), in de in het eerste lid bedoelde periode in gebruik zijn genomen door een andere landbouwer, is de fosfaatgebruiksnorm, bedoeld in artikel 30, gedurende het restant van die periode van toepassing, indien de landbouwer de ingebruikneming van de percelen dan wel de gewaspercelen onder opgave van de oppervlakte en de ligging ervan uiterlijk de eerstvolgende 15 mei na de datum van ingebruikneming heeft gemeld aan de minister.
 
 ##### Artikel 32
 
-1. Uiterlijk op 15 mei van het eerste kalenderjaar van de in [artikel 31, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&hoofdstuk=3&paragraaf=3&artikel=31&z=2017-01-01&g=2017-01-01), bedoelde periode van vier kalenderjaren waarin de fosfaatgebruiksnorm, bedoeld in [artikel 30, eerste of tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&hoofdstuk=3&paragraaf=3&artikel=30&z=2017-01-01&g=2017-01-01), wordt toegepast, meldt de landbouwer bij de minister:
+1. Uiterlijk op 15 mei van het eerste kalenderjaar van de in [artikel 31, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&hoofdstuk=3&paragraaf=3&artikel=31&z=2017-02-01&g=2017-02-01), bedoelde periode van vier kalenderjaren waarin de fosfaatgebruiksnorm, bedoeld in [artikel 30, eerste of tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&hoofdstuk=3&paragraaf=3&artikel=30&z=2017-02-01&g=2017-02-01), wordt toegepast, meldt de landbouwer bij de minister:
 
-- a. de oppervlakte en de ligging van de percelen dan wel gewaspercelen grasland waarop de landbouwer de in [artikel 30, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&hoofdstuk=3&paragraaf=3&artikel=30&z=2017-01-01&g=2017-01-01), bedoelde fosfaatgebruiksnorm toepast;
+- a. de oppervlakte en de ligging van de percelen dan wel gewaspercelen grasland waarop de landbouwer de in [artikel 30, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&hoofdstuk=3&paragraaf=3&artikel=30&z=2017-02-01&g=2017-02-01), bedoelde fosfaatgebruiksnorm toepast;
 
-- b. de oppervlakte en de ligging van de percelen dan wel gewaspercelen bouwland waarop de landbouwer de in [artikel 30, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&hoofdstuk=3&paragraaf=3&artikel=30&z=2017-01-01&g=2017-01-01), bedoelde fosfaatgebruiksnorm toepast; en
+- b. de oppervlakte en de ligging van de percelen dan wel gewaspercelen bouwland waarop de landbouwer de in [artikel 30, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&hoofdstuk=3&paragraaf=3&artikel=30&z=2017-02-01&g=2017-02-01), bedoelde fosfaatgebruiksnorm toepast; en
 
-- c. de naam en het adres van het laboratorium en de datum, waarop het analyserapport is opgesteld, bedoeld in het tweede lid, onderscheidenlijk in [artikel 33, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&hoofdstuk=3&paragraaf=3&artikel=33&z=2017-01-01&g=2017-01-01).
+- c. de naam en het adres van het laboratorium en de datum, waarop het analyserapport is opgesteld, bedoeld in het tweede lid, onderscheidenlijk in [artikel 33, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&hoofdstuk=3&paragraaf=3&artikel=33&z=2017-02-01&g=2017-02-01).
 
 2. De fosfaattoestand van het perceel dan wel gewasperceel is ten hoogste twaalf maanden voorafgaand aan de datum, bedoeld in het eerste lid, vastgesteld door een laboratorium dat blijkens accreditatie door de Raad aantoonbaar voldoet aan de norm NEN-EN-ISO/IEC 17025.
 
 ##### Artikel 33
 
-1. Het laboratorium, bedoeld in [artikel 32, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&hoofdstuk=3&paragraaf=3&artikel=32&z=2017-01-01&g=2017-01-01), verricht de bemonstering en analyse van de bodem van de desbetreffende percelen dan wel de desbetreffende gewaspercelen overeenkomstig het in [bijlage C](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&bijlage=C&z=2017-01-01&g=2017-01-01) opgenomen protocol en stelt een analyserapport op.
+1. Het laboratorium, bedoeld in [artikel 32, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&hoofdstuk=3&paragraaf=3&artikel=32&z=2017-02-01&g=2017-02-01), verricht de bemonstering en analyse van de bodem van de desbetreffende percelen dan wel de desbetreffende gewaspercelen overeenkomstig het in [bijlage C](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&bijlage=C&z=2017-02-01&g=2017-02-01) opgenomen protocol en stelt een analyserapport op.
 
 2. Het analyserapport bevat voor ieder bemonsterd perceel dan wel gewasperceel in ieder geval de volgende gegevens:
 
@@ -574,9 +574,9 @@ Vervallen
 
 - i. bijzondere waarnemingen, die tijdens de analyse van het mengmonster van elk betrokken perceel dan wel gewasperceel zijn gedaan; en
 
-- j. alle niet in [bijlage C](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&bijlage=C&z=2017-01-01&g=2017-01-01) voorgeschreven handelingen die het resultaat van de analyse van het mengmonster van elk betrokken perceel dan wel gewasperceel hebben beïnvloed.
+- j. alle niet in [bijlage C](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&bijlage=C&z=2017-02-01&g=2017-02-01) voorgeschreven handelingen die het resultaat van de analyse van het mengmonster van elk betrokken perceel dan wel gewasperceel hebben beïnvloed.
 
-3. De landbouwer bewaart een afschrift van het analyserapport gedurende vijf jaar na afloop van het kalenderjaar waarin de fosfaatgebruiksnorm, bedoeld in [artikel 30, eerste of tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&hoofdstuk=3&paragraaf=3&artikel=30&z=2017-01-01&g=2017-01-01), wordt toegepast als onderdeel van de administratie, bedoeld in [artikel 32 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0019031&artikel=32).
+3. De landbouwer bewaart een afschrift van het analyserapport gedurende vijf jaar na afloop van het kalenderjaar waarin de fosfaatgebruiksnorm, bedoeld in [artikel 30, eerste of tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&hoofdstuk=3&paragraaf=3&artikel=30&z=2017-02-01&g=2017-02-01), wordt toegepast als onderdeel van de administratie, bedoeld in [artikel 32 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0019031&artikel=32).
 
 #### § 3. Fosfaatgebruiksnorm voor grond met lage fosfaattoestand
 
@@ -598,7 +598,7 @@ Bij de bepaling van de in [artikel 12, vierde lid, van de wet](https://wetten.ov
 
 ##### Artikel 36
 
-1. Als forfaitaire productienormen als bedoeld in [artikel 28, tweede lid, onderdeel b, en vierde lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0019031&artikel=28) worden voor de onderscheiden diersoorten en diercategorieën de normen vastgesteld die zijn vermeld in [bijlage D, tabel I, kolom A](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&bijlage=D&z=2017-01-01&g=2017-01-01).
+1. Als forfaitaire productienormen als bedoeld in [artikel 28, tweede lid, onderdeel b, en vierde lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0019031&artikel=28) worden voor de onderscheiden diersoorten en diercategorieën de normen vastgesteld die zijn vermeld in [bijlage D, tabel I, kolom A](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&bijlage=D&z=2017-02-01&g=2017-02-01).
 
 2. Indien de omschrijving behorende bij een diercategorie niet overeenkomt met de feitelijke situatie, worden de normen gehanteerd van de diercategorie waarvan de omschrijving het meest aansluit bij de feitelijke situatie.
 
@@ -622,11 +622,11 @@ Bij de bepaling van de in [artikel 12, vierde lid, van de wet](https://wetten.ov
 
 1. De gegevens, bedoeld in [artikel 32, tweede lid, onderdeel c, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0019031&artikel=32), betreffen uitsluitend die percelen landbouwgrond die bij het bedrijf in het kader van normale bedrijfsvoering in gebruik zijn en die al dan niet gedeeltelijk zijn gelegen in Duitsland of in België, tot 20, onderscheidenlijk tot 25 kilometer uit de Nederlandse grens.
 
-2. De gegevens, bedoeld in [artikel 32, tweede lid, onderdeel e, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0019031&artikel=32), worden onderscheiden naar diersoorten en diercategorieën per soort overeenkomstig de omschrijvingen in [bijlage D, tabel I](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&bijlage=D&z=2017-01-01&g=2017-01-01).
+2. De gegevens, bedoeld in [artikel 32, tweede lid, onderdeel e, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0019031&artikel=32), worden onderscheiden naar diersoorten en diercategorieën per soort overeenkomstig de omschrijvingen in [bijlage D, tabel I](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&bijlage=D&z=2017-02-01&g=2017-02-01).
 
 3. De gegevens, bedoeld in [artikel 32, tweede lid, onderdeel i, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0019031&artikel=32), worden per afzonderlijke opslagruimte weergegeven.
 
-4. Indien op een bedrijf ‘covergiste mest’ als bedoeld in [bijlage Aa](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&bijlage=Aa&z=2017-01-01&g=2017-01-01), onder IV wordt geproduceerd, worden de gegevens, bedoeld in [artikel 33, derde lid, onderdeel c, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0019031&artikel=33), onderscheiden naar de tezamen met de dierlijke meststoffen vergiste stoffen overeenkomstig de aanduiding en de daarbij behorende omschrijving van de desbetreffende stof in [bijlage Aa](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&bijlage=Aa&z=2017-01-01&g=2017-01-01), onder IV, en bevat de administratie behalve de gegevens, bedoeld in [artikel 33, derde lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0019031&artikel=33), gegevens over het bedrijf of de onderneming waar de desbetreffende stof als reststof is vrijgekomen.
+4. Indien op een bedrijf ‘covergiste mest’ als bedoeld in [bijlage Aa](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&bijlage=Aa&z=2017-02-01&g=2017-02-01), onder IV wordt geproduceerd, worden de gegevens, bedoeld in [artikel 33, derde lid, onderdeel c, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0019031&artikel=33), onderscheiden naar de tezamen met de dierlijke meststoffen vergiste stoffen overeenkomstig de aanduiding en de daarbij behorende omschrijving van de desbetreffende stof in [bijlage Aa](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&bijlage=Aa&z=2017-02-01&g=2017-02-01), onder IV, en bevat de administratie behalve de gegevens, bedoeld in [artikel 33, derde lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0019031&artikel=33), gegevens over het bedrijf of de onderneming waar de desbetreffende stof als reststof is vrijgekomen.
 
 ##### Artikel 39
 
@@ -642,7 +642,7 @@ Bij de bepaling van de in [artikel 12, vierde lid, van de wet](https://wetten.ov
 
 1. Wijzigingen in de aantallen op het bedrijf gehouden dan wel anderszins aanwezige varkens, kippen, kalkoenen en runderen, worden binnen drie dagen na de datum waarop de wijziging zich heeft voorgedaan, onder vermelding van de datum waarop deze wijziging zich heeft voorgedaan, in de administratie opgenomen.
 
-2. Wijzigingen in de overige gegevens die de administratie ingevolge de [artikelen 32, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019031&artikel=32), en[33 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0019031&artikel=33) en de [artikelen 38](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&hoofdstuk=5&artikel=38&z=2017-01-01&g=2017-01-01) en [39](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&hoofdstuk=5&artikel=39&z=2017-01-01&g=2017-01-01) bevat, worden binnen 30 dagen na de datum waarop de wijziging zich heeft voorgedaan, onder vermelding van de datum waarop deze wijziging zich heeft voorgedaan, in de administratie opgenomen.
+2. Wijzigingen in de overige gegevens die de administratie ingevolge de [artikelen 32, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019031&artikel=32), en[33 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0019031&artikel=33) en de [artikelen 38](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&hoofdstuk=5&artikel=38&z=2017-02-01&g=2017-02-01) en [39](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&hoofdstuk=5&artikel=39&z=2017-02-01&g=2017-02-01) bevat, worden binnen 30 dagen na de datum waarop de wijziging zich heeft voorgedaan, onder vermelding van de datum waarop deze wijziging zich heeft voorgedaan, in de administratie opgenomen.
 
 ##### Artikel 41
 
@@ -650,7 +650,7 @@ De landbouwer die in de periode van 16 mei tot en met 31 oktober van een kalende
 
 ##### Artikel 42
 
-1. De landbouwer, bedoeld in [artikel 35, eerste lid, onderdeel a, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0019031&artikel=35), de landbouwer op wiens bedrijf in het voorgaande kalenderjaar de gebruiksnorm, bedoeld in [artikel 24, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&hoofdstuk=3&paragraaf=1&artikel=24&z=2017-01-01&g=2017-01-01), is toegepast of de landbouwer wiens bedrijf daartoe voor het huidige kalenderjaar is aangemeld bij de minister overeenkomstig [artikel 25, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&hoofdstuk=3&paragraaf=1&artikel=25&z=2017-01-01&g=2017-01-01), verstrekt jaarlijks vóór 1 februari aan de minister met betrekking tot het voorgaande kalenderjaar gegevens uit de administratie over:
+1. De landbouwer, bedoeld in [artikel 35, eerste lid, onderdeel a, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0019031&artikel=35), de landbouwer op wiens bedrijf in het voorgaande kalenderjaar de gebruiksnorm, bedoeld in [artikel 24, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&hoofdstuk=3&paragraaf=1&artikel=24&z=2017-02-01&g=2017-02-01), is toegepast of de landbouwer wiens bedrijf daartoe voor het huidige kalenderjaar is aangemeld bij de minister overeenkomstig [artikel 25, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&hoofdstuk=3&paragraaf=1&artikel=25&z=2017-02-01&g=2017-02-01), verstrekt jaarlijks vóór 1 februari aan de minister met betrekking tot het voorgaande kalenderjaar gegevens uit de administratie over:
 
 - a. de aan het eind van het kalenderjaar op het bedrijf aanwezige hoeveelheid meststoffen, onderscheiden naar:
 
@@ -664,11 +664,11 @@ De landbouwer die in de periode van 16 mei tot en met 31 oktober van een kalende
 
 - b. de hoeveelheden meststoffen, anders dan dierlijke meststoffen, zuiveringsslib en compost, die op of van het bedrijf zijn aangevoerd, onderscheidenlijk zijn afgevoerd;
 
-- c. het gemiddelde aantal in het kalenderjaar op het bedrijf gehouden dieren, anders dan varkens, schapen, geiten en runderen, onderscheiden naar diersoort en diercategorieën per soort voor zover dit onderscheid wordt gemaakt in [bijlage D, tabel I](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&bijlage=D&z=2017-01-01&g=2017-01-01); en
+- c. het gemiddelde aantal in het kalenderjaar op het bedrijf gehouden dieren, anders dan varkens, schapen, geiten en runderen, onderscheiden naar diersoort en diercategorieën per soort voor zover dit onderscheid wordt gemaakt in [bijlage D, tabel I](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&bijlage=D&z=2017-02-01&g=2017-02-01); en
 
-- d. het aantal aan- of afgevoerde staldieren, anders dan varkens of vleeskalveren, onderscheiden naar diersoort en diercategorieën per soort, voor zover dit onderscheid wordt gemaakt in [bijlage D, tabel I](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&bijlage=D&z=2017-01-01&g=2017-01-01).
+- d. het aantal aan- of afgevoerde staldieren, anders dan varkens of vleeskalveren, onderscheiden naar diersoort en diercategorieën per soort, voor zover dit onderscheid wordt gemaakt in [bijlage D, tabel I](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&bijlage=D&z=2017-02-01&g=2017-02-01).
 
-2. De landbouwer op wiens bedrijf op 31 december 2005 pluimveerechten, varkensrechten of niet-gebonden mestproductierechten rustten of wiens bedrijf overeenkomstig [artikel 25, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&hoofdstuk=3&paragraaf=1&artikel=25&z=2017-01-01&g=2017-01-01), is aangemeld voor toepassing in 2006 van de gebruiksnorm, bedoeld in [artikel 24, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&hoofdstuk=3&paragraaf=1&artikel=24&z=2017-01-01&g=2017-01-01), verstrekt vóór 1 februari 2006 aan de minister gegevens uit de administratie over de op 1 januari 2006 op het bedrijf aanwezige hoeveelheid meststoffen, onderscheiden naar meststoffen als bedoeld in het eerste lid, onderdeel a, onder 1° tot en met 4°.
+2. De landbouwer op wiens bedrijf op 31 december 2005 pluimveerechten, varkensrechten of niet-gebonden mestproductierechten rustten of wiens bedrijf overeenkomstig [artikel 25, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&hoofdstuk=3&paragraaf=1&artikel=25&z=2017-02-01&g=2017-02-01), is aangemeld voor toepassing in 2006 van de gebruiksnorm, bedoeld in [artikel 24, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&hoofdstuk=3&paragraaf=1&artikel=24&z=2017-02-01&g=2017-02-01), verstrekt vóór 1 februari 2006 aan de minister gegevens uit de administratie over de op 1 januari 2006 op het bedrijf aanwezige hoeveelheid meststoffen, onderscheiden naar meststoffen als bedoeld in het eerste lid, onderdeel a, onder 1° tot en met 4°.
 
 3. De landbouwer die op het eigen bedrijf geproduceerde koemelk zelf verwerkt tot eindproducten en die 50 procent of meer van de geproduceerde koemelk levert aan een koper als bedoeld in de [Regeling superheffing 2008](https://wetten.overheid.nl/jci1.3:c:BWBR0023701), verstrekt aan de minister gegevens met betrekking tot de op het bedrijf geproduceerde hoeveelheid koemelk.
 
@@ -676,19 +676,19 @@ De landbouwer die in de periode van 16 mei tot en met 31 oktober van een kalende
 
 ##### Artikel 43
 
-1. De [artikelen 26](https://wetten.overheid.nl/jci1.3:c:BWBR0019031&artikel=26) en [31 tot en met 35 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0019031&artikel=31) en de [artikelen 37 tot en met 42](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&hoofdstuk=5&artikel=37&z=2017-01-01&g=2017-01-01) zijn niet van toepassing ten aanzien van een bedrijf, indien op elk moment in het desbetreffende kalenderjaar wordt voldaan aan elk van de volgende voorwaarden:
+1. De [artikelen 26](https://wetten.overheid.nl/jci1.3:c:BWBR0019031&artikel=26) en [31 tot en met 35 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0019031&artikel=31) en de [artikelen 37 tot en met 42](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&hoofdstuk=5&artikel=37&z=2017-02-01&g=2017-02-01) zijn niet van toepassing ten aanzien van een bedrijf, indien op elk moment in het desbetreffende kalenderjaar wordt voldaan aan elk van de volgende voorwaarden:
 
 - a. de som van de tot dan toe in dat jaar op het bedrijf aangevoerde dierlijke meststoffen en de productie van meststoffen door de op dat moment op het bedrijf gehouden dan wel anderszins aanwezige dieren op jaarbasis is ten hoogste 350 kilogram stikstof;
 
 - b. de tot het bedrijf behorende oppervlakte landbouwgrond is niet groter dan drie hectare.
 
-2. De [artikelen 32, tweede lid, onderdelen d, e, f en h en 33 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0019031&artikel=32) en de [artikelen 40, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&hoofdstuk=5&artikel=40&z=2017-01-01&g=2017-01-01), en [42, eerste lid, onderdelen a, c en d](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&hoofdstuk=5&artikel=42&z=2017-01-01&g=2017-01-01), zijn niet van toepassing ten aanzien van diersoorten als bedoeld in [bijlage D, tabel I](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&bijlage=D&z=2017-01-01&g=2017-01-01), waarvan de op enig moment op het bedrijf gehouden of anderszins aanwezige dieren tezamen op jaarbasis ten hoogste 350 kilogram stikstof produceren, onderscheidenlijk ten aanzien van de door deze dieren geproduceerde hoeveelheid dierlijke meststoffen.
+2. De [artikelen 32, tweede lid, onderdelen d, e, f en h en 33 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0019031&artikel=32) en de [artikelen 40, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&hoofdstuk=5&artikel=40&z=2017-02-01&g=2017-02-01), en [42, eerste lid, onderdelen a, c en d](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&hoofdstuk=5&artikel=42&z=2017-02-01&g=2017-02-01), zijn niet van toepassing ten aanzien van diersoorten als bedoeld in [bijlage D, tabel I](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&bijlage=D&z=2017-02-01&g=2017-02-01), waarvan de op enig moment op het bedrijf gehouden of anderszins aanwezige dieren tezamen op jaarbasis ten hoogste 350 kilogram stikstof produceren, onderscheidenlijk ten aanzien van de door deze dieren geproduceerde hoeveelheid dierlijke meststoffen.
 
-3. De productie van dierlijke meststoffen op jaarbasis, bedoeld in het eerste lid, onderdeel a, en het tweede lid, wordt bepaald op basis van het aantal op het desbetreffende moment gehouden dieren, onderscheiden naar diersoorten en diercategorieën per soort, en op basis van de voor de onderscheiden diersoorten en diercategorieën in [bijlage D, tabel I, kolom B, en tabel II](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&bijlage=D&z=2017-01-01&g=2017-01-01) vermelde forfaitaire productienormen, uitgedrukt in kilogrammen stikstof per dier per jaar.
+3. De productie van dierlijke meststoffen op jaarbasis, bedoeld in het eerste lid, onderdeel a, en het tweede lid, wordt bepaald op basis van het aantal op het desbetreffende moment gehouden dieren, onderscheiden naar diersoorten en diercategorieën per soort, en op basis van de voor de onderscheiden diersoorten en diercategorieën in [bijlage D, tabel I, kolom B, en tabel II](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&bijlage=D&z=2017-02-01&g=2017-02-01) vermelde forfaitaire productienormen, uitgedrukt in kilogrammen stikstof per dier per jaar.
 
 ##### Artikel 44
 
-De [artikelen 32, tweede lid, onderdelen e, g, en h, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0019031&artikel=32) en de [artikelen 40](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&hoofdstuk=5&artikel=40&z=2017-01-01&g=2017-01-01) en [42, eerste lid, onderdelen a en c](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&hoofdstuk=5&artikel=42&z=2017-01-01&g=2017-01-01), zijn niet van toepassing ten aanzien van de in enig kalenderjaar op het bedrijf ingeschaarde schapen, onderscheidenlijk de door deze schapen geproduceerde hoeveelheid dierlijke meststoffen, indien ten aanzien van dat bedrijf wordt voldaan aan elk van de volgende voorwaarden:
+De [artikelen 32, tweede lid, onderdelen e, g, en h, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0019031&artikel=32) en de [artikelen 40](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&hoofdstuk=5&artikel=40&z=2017-02-01&g=2017-02-01) en [42, eerste lid, onderdelen a en c](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&hoofdstuk=5&artikel=42&z=2017-02-01&g=2017-02-01), zijn niet van toepassing ten aanzien van de in enig kalenderjaar op het bedrijf ingeschaarde schapen, onderscheidenlijk de door deze schapen geproduceerde hoeveelheid dierlijke meststoffen, indien ten aanzien van dat bedrijf wordt voldaan aan elk van de volgende voorwaarden:
 
 - a. het aantal in dat kalenderjaar ingeschaarde schapen is niet groter dan 450;
 
@@ -714,7 +714,7 @@ De [artikelen 32, tweede lid, onderdelen e, g, en h, van het besluit](https://we
 
 6. In aanvulling op de gegevens, bedoeld in [artikel 38, tweede lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0019031&artikel=38), verstrekt de intermediair ter zake van de transportmiddelen die voor het vervoer van dierlijke mest exclusief bij de desbetreffende onderneming in gebruik zijn, tevens de volgende gegevens:
 
-- a. ofwel het kenteken en de meldcode van het betrokken transportmiddel of aanhangwagen, zoals deze zijn vermeld op het voor het betrokken voertuig afgegeven, geldige kentekenbewijs, bedoeld in [artikel 1, eerste lid, onderdeel h, van de Wegenverkeerswet 1994](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=1), voor zover het een motorrijtuig of aanhangwagen als bedoeld in [artikel 1, eerste lid, onderdelen c onderscheidenlijk d, van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=1) betreft, waarop overeenkomstig [artikel 53, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&hoofdstuk=8&paragraaf=1&artikel=53&z=2017-01-01&g=2017-01-01), automatische bemonsterings- en verpakkingsapparatuur is bevestigd, danwel het chassisnummer van het betrokken transportmiddel waarop overeenkomstig artikel 53, tweede lid, automatische bemonsterings- en verpakkingsapparatuur is bevestigd, voor zover het een ander transportmiddel betreft;
+- a. ofwel het kenteken en de meldcode van het betrokken transportmiddel of aanhangwagen, zoals deze zijn vermeld op het voor het betrokken voertuig afgegeven, geldige kentekenbewijs, bedoeld in [artikel 1, eerste lid, onderdeel h, van de Wegenverkeerswet 1994](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=1), voor zover het een motorrijtuig of aanhangwagen als bedoeld in [artikel 1, eerste lid, onderdelen c onderscheidenlijk d, van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=1) betreft, waarop overeenkomstig [artikel 53, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&hoofdstuk=8&paragraaf=1&artikel=53&z=2017-02-01&g=2017-02-01), automatische bemonsterings- en verpakkingsapparatuur is bevestigd, danwel het chassisnummer van het betrokken transportmiddel waarop overeenkomstig artikel 53, tweede lid, automatische bemonsterings- en verpakkingsapparatuur is bevestigd, voor zover het een ander transportmiddel betreft;
 
 - b. ofwel het kenteken en de meldcode van het betrokken transportmiddel en van iedere aanhangwagen, zoals deze zijn vermeld op het voor het betrokken voertuig afgegeven, geldige kentekenbewijs, bedoeld in [artikel 1, eerste lid, onderdeel h, van de Wegenverkeerswet 1994](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=1), voor zover het een motorrijtuig of aanhangwagen als bedoeld in [artikel 1, eerste lid, onderdelen c onderscheidenlijk d, van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=1) betreft dat gebruikt wordt voor het vervoer van vaste mest, danwel het chassisnummer van het betrokken transportmiddel en het chassisnummer van de aanhangwagen, voor zover het een ander transportmiddel betreft dat gebruikt wordt voor het vervoer van vaste mest; en
 
@@ -746,7 +746,7 @@ De [artikelen 32, tweede lid, onderdelen e, g, en h, van het besluit](https://we
 
 - b. de hoeveelheid geproduceerd, behandeld zuiveringsslib; en
 
-- c. de gehalten aan droge stof, fosfaat en stikstof, de pH-waarde, het organisch stofgehalte en de hoeveelheden van de in [bijlage II, onder tabel 2, bij het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0019031&bijlage=II) opgenomen zware metalen in het zuiveringsslib alsmede de resultaten van de uitgevoerde bemonsteringen en analyses, bedoeld in [artikel 21](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&hoofdstuk=2&artikel=21&z=2017-01-01&g=2017-01-01).
+- c. de gehalten aan droge stof, fosfaat en stikstof, de pH-waarde, het organisch stofgehalte en de hoeveelheden van de in [bijlage II, onder tabel 2, bij het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0019031&bijlage=II) opgenomen zware metalen in het zuiveringsslib alsmede de resultaten van de uitgevoerde bemonsteringen en analyses, bedoeld in [artikel 21](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&hoofdstuk=2&artikel=21&z=2017-02-01&g=2017-02-01).
 
 7. Indien op een onderneming compost wordt geproduceerd of anderszins wordt behandeld, bevat de administratie behalve de gegevens, bedoeld in [artikel 39, tweede en derde lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0019031&artikel=39) tevens gegevens over:
 
@@ -754,17 +754,17 @@ De [artikelen 32, tweede lid, onderdelen e, g, en h, van het besluit](https://we
 
 - b. de gehalten aan droge stof, fosfaat en stikstof, het organisch stofgehalte en de hoeveelheden van de in [bijlage II, onder tabel 3, bij het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0019031&bijlage=II) opgenomen zware metalen.
 
-8. Indien op een onderneming ‘covergiste mest’ als bedoeld in [bijlage Aa](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&bijlage=Aa&z=2017-01-01&g=2017-01-01), onder IV wordt geproduceerd, worden de gegevens, bedoeld in [artikel 39, derde lid, onderdeel c, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0019031&artikel=39), onderscheiden naar de tezamen met de dierlijke meststoffen vergiste stoffen overeenkomstig de aanduiding en de daarbij behorende omschrijving van de desbetreffende stof in bijlage Aa, onder IV, en bevat de administratie behalve de gegevens, bedoeld in artikel 39, derde lid, van het besluit, gegevens over het bedrijf of de onderneming waar de desbetreffende stof als reststof is vrijgekomen.
+8. Indien op een onderneming ‘covergiste mest’ als bedoeld in [bijlage Aa](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&bijlage=Aa&z=2017-02-01&g=2017-02-01), onder IV wordt geproduceerd, worden de gegevens, bedoeld in [artikel 39, derde lid, onderdeel c, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0019031&artikel=39), onderscheiden naar de tezamen met de dierlijke meststoffen vergiste stoffen overeenkomstig de aanduiding en de daarbij behorende omschrijving van de desbetreffende stof in bijlage Aa, onder IV, en bevat de administratie behalve de gegevens, bedoeld in artikel 39, derde lid, van het besluit, gegevens over het bedrijf of de onderneming waar de desbetreffende stof als reststof is vrijgekomen.
 
-9. Ingeval van overdracht van een opslagruimte voor meststoffen door of aan een intermediair, bevat de administratie van de intermediair tevens het bewijs van overdracht en de gegevens, bedoeld in [artikel 48a, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&hoofdstuk=6&artikel=48a&z=2017-01-01&g=2017-01-01).
+9. Ingeval van overdracht van een opslagruimte voor meststoffen door of aan een intermediair, bevat de administratie van de intermediair tevens het bewijs van overdracht en de gegevens, bedoeld in [artikel 48a, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&hoofdstuk=6&artikel=48a&z=2017-02-01&g=2017-02-01).
 
 ##### Artikel 47
 
-1. Wijzigingen in de gegevens die de administratie ingevolge [artikel 39, tweede lid, aanhef en onderdelen a en c, en derde lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0019031&artikel=39) en [artikel 46, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&hoofdstuk=6&artikel=46&z=2017-01-01&g=2017-01-01), bevat, worden binnen 30 dagen na de datum waarop de wijziging zich heeft voorgedaan in de administratie opgenomen.
+1. Wijzigingen in de gegevens die de administratie ingevolge [artikel 39, tweede lid, aanhef en onderdelen a en c, en derde lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0019031&artikel=39) en [artikel 46, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&hoofdstuk=6&artikel=46&z=2017-02-01&g=2017-02-01), bevat, worden binnen 30 dagen na de datum waarop de wijziging zich heeft voorgedaan in de administratie opgenomen.
 
-2. Wijzigingen in de gegevens, die de administratie ingevolge [artikel 39, tweede lid, onderdeel b, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0019031&artikel=39) bevat, worden, voor zover het dierlijke meststoffen anders dan mestkorrels betreft, binnen 24 uur na het tijdstip waarop de analyseresultaten, bedoeld in [artikel 81, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&hoofdstuk=9&paragraaf=2&artikel=81&z=2017-01-01&g=2017-01-01), van het laboratorium zijn ontvangen op het in [artikel 46, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&hoofdstuk=6&artikel=46&z=2017-01-01&g=2017-01-01), bedoelde formulier verwerkt.
+2. Wijzigingen in de gegevens, die de administratie ingevolge [artikel 39, tweede lid, onderdeel b, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0019031&artikel=39) bevat, worden, voor zover het dierlijke meststoffen anders dan mestkorrels betreft, binnen 24 uur na het tijdstip waarop de analyseresultaten, bedoeld in [artikel 81, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&hoofdstuk=9&paragraaf=2&artikel=81&z=2017-02-01&g=2017-02-01), van het laboratorium zijn ontvangen op het in [artikel 46, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&hoofdstuk=6&artikel=46&z=2017-02-01&g=2017-02-01), bedoelde formulier verwerkt.
 
-3. Wijzigingen in de gegevens, die de administratie ingevolge [artikel 39, tweede lid, onderdeel b, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0019031&artikel=39) bevat, worden, voor zover het meststoffen anders dan dierlijke meststoffen betreft, binnen 24 uur na het tijdstip waarop de wijziging zich heeft voorgedaan op het in [artikel 46, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&hoofdstuk=6&artikel=46&z=2017-01-01&g=2017-01-01), bedoelde formulier verwerkt.
+3. Wijzigingen in de gegevens, die de administratie ingevolge [artikel 39, tweede lid, onderdeel b, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0019031&artikel=39) bevat, worden, voor zover het meststoffen anders dan dierlijke meststoffen betreft, binnen 24 uur na het tijdstip waarop de wijziging zich heeft voorgedaan op het in [artikel 46, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&hoofdstuk=6&artikel=46&z=2017-02-01&g=2017-02-01), bedoelde formulier verwerkt.
 
 ##### Artikel 48
 
@@ -774,7 +774,7 @@ De [artikelen 32, tweede lid, onderdelen e, g, en h, van het besluit](https://we
 
 - b. vervallen; en
 
-- c. de aan het eind van het kalenderjaar op de onderneming aanwezige hoeveelheid meststoffen onderscheiden naar meststoffen als bedoeld in [artikel 42, eerste lid, onderdeel a, onder 1° tot en met 4°](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&hoofdstuk=5&artikel=42&z=2017-01-01&g=2017-01-01).
+- c. de aan het eind van het kalenderjaar op de onderneming aanwezige hoeveelheid meststoffen onderscheiden naar meststoffen als bedoeld in [artikel 42, eerste lid, onderdeel a, onder 1° tot en met 4°](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&hoofdstuk=5&artikel=42&z=2017-02-01&g=2017-02-01).
 
 2. De ondernemer in het kader van wiens onderneming zuiveringsslib wordt geproduceerd of anderszins wordt behandeld, verstrekt jaarlijks vóór 1 februari aan de minister gegevens uit de administratie over de in het voorgaande kalenderjaar in het zuiveringsslib gemiddeld aanwezige hoeveelheden van de in [bijlage II, onder tabel 2, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0019031&bijlage=II) opgenomen zware metalen.
 
@@ -782,7 +782,7 @@ De [artikelen 32, tweede lid, onderdelen e, g, en h, van het besluit](https://we
 
 4. De minister is bevoegd de op grond van het tweede of derde lid verstrekte gegevens door te geven aan gedeputeerde staten van de provincie waarbinnen de desbetreffende onderneming is gevestigd.
 
-5. De intermediair die verschillende partijen vloeibaar zuiveringsslib, waarvoor op grond van [artikel 92b](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&hoofdstuk=9&paragraaf=3&artikel=92b&z=2017-01-01&g=2017-01-01) een verschillend analysenummer is verstrekt, in één opslagruimte opslaat, verstrekt op elektronische wijze aan de minister het stikstofgehalte, het fosfaatgehalte en het drogestofgehalte zoals dat voor de in de desbetreffende opslag aanwezige hoeveelheid zuiveringsslib met gebruikmaking van het in [artikel 46, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&hoofdstuk=6&artikel=46&z=2017-01-01&g=2017-01-01), bedoelde formulier, of de in artikel 46, tweede lid, genoemde andere gegevensdragers is berekend.
+5. De intermediair die verschillende partijen vloeibaar zuiveringsslib, waarvoor op grond van [artikel 92b](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&hoofdstuk=9&paragraaf=3&artikel=92b&z=2017-02-01&g=2017-02-01) een verschillend analysenummer is verstrekt, in één opslagruimte opslaat, verstrekt op elektronische wijze aan de minister het stikstofgehalte, het fosfaatgehalte en het drogestofgehalte zoals dat voor de in de desbetreffende opslag aanwezige hoeveelheid zuiveringsslib met gebruikmaking van het in [artikel 46, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&hoofdstuk=6&artikel=46&z=2017-02-01&g=2017-02-01), bedoelde formulier, of de in artikel 46, tweede lid, genoemde andere gegevensdragers is berekend.
 
 ##### Artikel 49
 
@@ -796,7 +796,7 @@ De [artikelen 32, tweede lid, onderdelen e, g, en h, van het besluit](https://we
 
 1. De aanmelding door de ondernemer in het kader van wiens onderneming diervoeders worden afgeleverd aan een bedrijf met staldieren of runderen, bedoeld in [artikel 43, eerste lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0019031&artikel=43), geschiedt binnen 30 dagen na oprichting van deze onderneming bij de minister.
 
-2. De aanmelding door de ondernemer in het kader van wiens onderneming van bedrijven afgenomen koemelk wordt behandeld, bedoeld in [artikel 43, eerste lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0019031&artikel=43), geschiedt binnen 30 dagen na oprichting van deze onderneming, overeenkomstig de krachtens [artikel 118](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&hoofdstuk=10&paragraaf=5&artikel=118&z=2017-01-01&g=2017-01-01) gestelde regels.
+2. De aanmelding door de ondernemer in het kader van wiens onderneming van bedrijven afgenomen koemelk wordt behandeld, bedoeld in [artikel 43, eerste lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0019031&artikel=43), geschiedt binnen 30 dagen na oprichting van deze onderneming, overeenkomstig de krachtens [artikel 118](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&hoofdstuk=10&paragraaf=5&artikel=118&z=2017-02-01&g=2017-02-01) gestelde regels.
 
 3. De aanmelding door de ondernemer in het kader van wiens onderneming meststoffen worden verhandeld, bedoeld in [artikel 43, tweede lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0019031&artikel=43), geschiedt binnen 30 dagen na 1 januari 2008 bij de minister. Indien een onderneming als bedoeld in de vorige volzin wordt opgericht na 1 januari 2008, geschiedt de aanmelding uiterlijk 30 dagen na oprichting.
 
@@ -810,9 +810,9 @@ De [artikelen 32, tweede lid, onderdelen e, g, en h, van het besluit](https://we
 
 1. Behalve de gegevens, bedoeld in [artikel 44, tweede lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0019031&artikel=44), bevat de administratie van de ondernemer in het kader van wiens onderneming diervoeders worden afgeleverd aan een bedrijf met staldieren of runderen, bedoeld in [artikel 43, eerste lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0019031&artikel=43), gegevens over:
 
-- a. de resultaten van de uitgevoerde bemonsteringen en analyses, bedoeld in [artikel 98, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&hoofdstuk=9&paragraaf=6&artikel=98&z=2017-01-01&g=2017-01-01); en
+- a. de resultaten van de uitgevoerde bemonsteringen en analyses, bedoeld in [artikel 98, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&hoofdstuk=9&paragraaf=6&artikel=98&z=2017-02-01&g=2017-02-01); en
 
-- b. de op het etiket of het begeleidend document, bedoeld in [artikel 99, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&hoofdstuk=9&paragraaf=6&artikel=99&z=2017-01-01&g=2017-01-01), vermelde droge stofgehalte dan wel het vochtgehalte en het stikstofgehalte en het fosfaatgehalte in de droge stof.
+- b. de op het etiket of het begeleidend document, bedoeld in [artikel 99, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&hoofdstuk=9&paragraaf=6&artikel=99&z=2017-02-01&g=2017-02-01), vermelde droge stofgehalte dan wel het vochtgehalte en het stikstofgehalte en het fosfaatgehalte in de droge stof.
 
 2. Behalve de gegevens, bedoeld in [artikel 44, vierde lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0019031&artikel=44), bevat de administratie van de ondernemer, bedoeld in [artikel 43, tweede lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0019031&artikel=44) voor zover hij compost produceert of anderszins behandelt, gegevens over:
 
@@ -822,9 +822,9 @@ De [artikelen 32, tweede lid, onderdelen e, g, en h, van het besluit](https://we
 
 3. De gegevens, bedoeld in [artikel 44, vijfde lid, onderdeel c, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0019031&artikel=44), betreffen de gehalten aan droge stof, fosfaat en stikstof, de pH-waarde, het organisch stofgehalte en de hoeveelheden van de in [bijlage II, onder tabel 2, bij het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0019031&bijlage=II) opgenomen zware metalen in het zuiveringsslib.
 
-4. Behalve de gegevens, bedoeld in [artikel 44, vierde lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0019031&artikel=44), bevat de administratie van de ondernemer, bedoeld in [artikel 43, tweede lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0019031&artikel=43) voor zover hij verschillende partijen vloeibaar zuiveringsslib waarvoor op grond van [artikel 92b](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&hoofdstuk=9&paragraaf=3&artikel=92b&z=2017-01-01&g=2017-01-01) een verschillend analysenummer is verstrekt, in één opslagruimte opslaat, de hoeveelheden vloeibaar zuiveringsslib die in iedere afzonderlijke opslagruimte zijn aangevoerd en de hoeveelheden vloeibaar zuiveringsslib die uit die opslagruimte zijn afgevoerd, zodanig dat steeds blijkt welke hoeveelheid vloeibaar zuiveringsslib zich in de opslagruimte bevindt.
+4. Behalve de gegevens, bedoeld in [artikel 44, vierde lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0019031&artikel=44), bevat de administratie van de ondernemer, bedoeld in [artikel 43, tweede lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0019031&artikel=43) voor zover hij verschillende partijen vloeibaar zuiveringsslib waarvoor op grond van [artikel 92b](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&hoofdstuk=9&paragraaf=3&artikel=92b&z=2017-02-01&g=2017-02-01) een verschillend analysenummer is verstrekt, in één opslagruimte opslaat, de hoeveelheden vloeibaar zuiveringsslib die in iedere afzonderlijke opslagruimte zijn aangevoerd en de hoeveelheden vloeibaar zuiveringsslib die uit die opslagruimte zijn afgevoerd, zodanig dat steeds blijkt welke hoeveelheid vloeibaar zuiveringsslib zich in de opslagruimte bevindt.
 
-5. De gegevens, bedoeld in het vierde lid, worden bijgehouden op het daartoe door de minister verstrekte formulier en worden overgenomen van het op de desbetreffende hoeveelheid betrekking hebbende vervoersbewijs zuiveringsslib en compost en op het ter zake door het laboratorium verstrekte overzicht van de analyseresultaten. [Artikel 46, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&hoofdstuk=6&artikel=46&z=2017-01-01&g=2017-01-01), is van overeenkomstige toepassing.
+5. De gegevens, bedoeld in het vierde lid, worden bijgehouden op het daartoe door de minister verstrekte formulier en worden overgenomen van het op de desbetreffende hoeveelheid betrekking hebbende vervoersbewijs zuiveringsslib en compost en op het ter zake door het laboratorium verstrekte overzicht van de analyseresultaten. [Artikel 46, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&hoofdstuk=6&artikel=46&z=2017-02-01&g=2017-02-01), is van overeenkomstige toepassing.
 
 6. Wijzigingen in de gegevens die de administratie ingevolge [artikel 44 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0019031&artikel=44) of het eerste tot en met het derde lid bevat, worden binnen 30 dagen na de datum waarop de wijziging zich heeft voorgedaan in de administratie opgenomen.
 
@@ -832,7 +832,7 @@ De [artikelen 32, tweede lid, onderdelen e, g, en h, van het besluit](https://we
 
 ##### Artikel 52
 
-1. De ondernemer, bedoeld in [artikel 50, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&hoofdstuk=7&artikel=50&z=2017-01-01&g=2017-01-01), verstrekt jaarlijks vóór 1 februari aan de minister per bedrijf met staldieren of runderen waaraan diervoeders worden geleverd, met betrekking tot het voorafgaande kalenderjaar elektronisch gegevens uit de administratie over:
+1. De ondernemer, bedoeld in [artikel 50, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&hoofdstuk=7&artikel=50&z=2017-02-01&g=2017-02-01), verstrekt jaarlijks vóór 1 februari aan de minister per bedrijf met staldieren of runderen waaraan diervoeders worden geleverd, met betrekking tot het voorafgaande kalenderjaar elektronisch gegevens uit de administratie over:
 
 - a. de naam, het adres en het door de minister ter identificatie van het bedrijf verstrekte relatienummer van het bedrijf, waaraan diervoeder is geleverd;
 
@@ -846,7 +846,7 @@ De [artikelen 32, tweede lid, onderdelen e, g, en h, van het besluit](https://we
 
 4. De minister is bevoegd de op grond van het tweede of derde lid verstrekte gegevens door te geven aan gedeputeerde staten van de provincie waarbinnen de desbetreffende onderneming is gevestigd.
 
-5. De ondernemer, bedoeld in [artikel 43, tweede lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0019031&artikel=43) die verschillende partijen vloeibaar zuiveringsslib waarvoor op grond van [artikel 92b](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&hoofdstuk=9&paragraaf=3&artikel=92b&z=2017-01-01&g=2017-01-01) een verschillend analysenummer is verstrekt, in één opslagruimte opslaat, verstrekt op elektronische wijze aan de minister het stikstofgehalte, het fosfaatgehalte en het drogestofgehalte zoals dat voor de in de desbetreffende opslag aanwezige hoeveelheid zuiveringsslib met gebruikmaking van het in [artikel 51, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&hoofdstuk=7&artikel=51&z=2017-01-01&g=2017-01-01), bedoelde formulier, of de in artikel 51, vijfde lid in samenhang met [artikel 46, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&hoofdstuk=6&artikel=46&z=2017-01-01&g=2017-01-01), genoemde andere gegevensdragers is berekend.
+5. De ondernemer, bedoeld in [artikel 43, tweede lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0019031&artikel=43) die verschillende partijen vloeibaar zuiveringsslib waarvoor op grond van [artikel 92b](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&hoofdstuk=9&paragraaf=3&artikel=92b&z=2017-02-01&g=2017-02-01) een verschillend analysenummer is verstrekt, in één opslagruimte opslaat, verstrekt op elektronische wijze aan de minister het stikstofgehalte, het fosfaatgehalte en het drogestofgehalte zoals dat voor de in de desbetreffende opslag aanwezige hoeveelheid zuiveringsslib met gebruikmaking van het in [artikel 51, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&hoofdstuk=7&artikel=51&z=2017-02-01&g=2017-02-01), bedoelde formulier, of de in artikel 51, vijfde lid in samenhang met [artikel 46, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&hoofdstuk=6&artikel=46&z=2017-02-01&g=2017-02-01), genoemde andere gegevensdragers is berekend.
 
 ### Hoofdstuk 6. Administratieve verplichtingen intermediairs
 
@@ -854,7 +854,7 @@ De [artikelen 32, tweede lid, onderdelen e, g, en h, van het besluit](https://we
 
 ##### Artikel 53
 
-1. De AGR-apparatuur voldoet aan de prestatiekenmerken die, al naar gelang het vervoer van drijfmest of van vaste mest betreft, zijn vermeld in [bijlage E, onderdeel D](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&bijlage=E&z=2017-01-01&g=2017-01-01), onderscheidenlijk in [bijlage E, onderdeel E](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&bijlage=E&z=2017-01-01&g=2017-01-01), en behoort tot een type waarvan bij keuring door Livestock Research, onderdeel van Wageningen UR, te Wageningen is vastgesteld dat het voldoet aan die prestatiekenmerken.
+1. De AGR-apparatuur voldoet aan de prestatiekenmerken die, al naar gelang het vervoer van drijfmest of van vaste mest betreft, zijn vermeld in [bijlage E, onderdeel D](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&bijlage=E&z=2017-02-01&g=2017-02-01), onderscheidenlijk in [bijlage E, onderdeel E](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&bijlage=E&z=2017-02-01&g=2017-02-01), en behoort tot een type waarvan bij keuring door Livestock Research, onderdeel van Wageningen UR, te Wageningen is vastgesteld dat het voldoet aan die prestatiekenmerken.
 
 2. Bij het vervoer van drijfmest is de automatische bemonsterings- en verpakkingsapparatuur onlosmakelijk op het transportmiddel bevestigd en zijn de in het eerste lid bedoelde apparatuur en de satellietvolgapparatuur elektronisch aan de bemonsterings- en verpakkingsapparatuur verbonden.
 
@@ -864,15 +864,15 @@ De [artikelen 32, tweede lid, onderdelen e, g, en h, van het besluit](https://we
 
 - b. de satellietvolgapparatuur elektronisch aan de in het eerste lid bedoelde apparatuur verbonden.
 
-4. Het sensordeel van de AGR-apparatuur, bedoeld in [Bijlage E, onderdeel E, onder 3.2](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&bijlage=E&z=2017-01-01&g=2017-01-01), is onlosmakelijk verbonden met de vaste as van het chassis van het transportmiddel of de aanhangwagen.
+4. Het sensordeel van de AGR-apparatuur, bedoeld in [Bijlage E, onderdeel E, onder 3.2](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&bijlage=E&z=2017-02-01&g=2017-02-01), is onlosmakelijk verbonden met de vaste as van het chassis van het transportmiddel of de aanhangwagen.
 
 ##### Artikel 54
 
-1. Het vervoer van dierlijke meststoffen vindt uitsluitend plaats, indien de in [artikel 53](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&hoofdstuk=8&paragraaf=1&artikel=53&z=2017-01-01&g=2017-01-01) bedoelde apparatuur zowel afzonderlijk als in onderlinge samenhang adequaat functioneert.
+1. Het vervoer van dierlijke meststoffen vindt uitsluitend plaats, indien de in [artikel 53](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&hoofdstuk=8&paragraaf=1&artikel=53&z=2017-02-01&g=2017-02-01) bedoelde apparatuur zowel afzonderlijk als in onderlinge samenhang adequaat functioneert.
 
 2. Het eerste lid is niet van toepassing op het vervoer van dierlijke meststoffen middels een transportvoertuig, indien het niet adequaat functioneren van de apparatuur is veroorzaakt door een storing die door de vervoerder terstond telefonisch is gemeld aan meldkamer van de Nederlandse Voedsel- en Warenautoriteit en indien de Nederlandse Voedsel- en Warenautoriteit toestemming heeft verleend voor het vervoer.
 
-3. De in het tweede lid bedoelde toestemming kan ten hoogste voor een periode van 24 uur worden verleend en kan de verplichting inhouden van het vervoer elektronisch of telefonisch mededeling te doen voordat het laden van het transportmiddel plaatsvindt, waarbij de gegevens, bedoeld in [artikel 58, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&hoofdstuk=8&paragraaf=1&artikel=58&z=2017-01-01&g=2017-01-01), worden verstrekt.
+3. De in het tweede lid bedoelde toestemming kan ten hoogste voor een periode van 24 uur worden verleend en kan de verplichting inhouden van het vervoer elektronisch of telefonisch mededeling te doen voordat het laden van het transportmiddel plaatsvindt, waarbij de gegevens, bedoeld in [artikel 58, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&hoofdstuk=8&paragraaf=1&artikel=58&z=2017-02-01&g=2017-02-01), worden verstrekt.
 
 ##### Artikel 55
 
@@ -894,11 +894,11 @@ De [artikelen 32, tweede lid, onderdelen e, g, en h, van het besluit](https://we
 
 ##### Artikel 56
 
-1. [Artikel 55](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&hoofdstuk=8&paragraaf=1&artikel=55&z=2017-01-01&g=2017-01-01) is van overeenkomstige toepassing op het vervoer van vaste mest, met dien verstande dat:
+1. [Artikel 55](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&hoofdstuk=8&paragraaf=1&artikel=55&z=2017-02-01&g=2017-02-01) is van overeenkomstige toepassing op het vervoer van vaste mest, met dien verstande dat:
 
-- a. de gegevens, bedoeld in het [tweede lid, onderdeel b, van dat artikel](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&hoofdstuk=8&paragraaf=1&artikel=55&z=2017-01-01&g=2017-01-01), niet automatisch door de AGR-apparatuur, maar door de vervoerder in de gegevensdrager van de AGR-apparatuur worden vastgelegd door deze gegevens elektronisch vanaf de monsterverpakking in te lezen;
+- a. de gegevens, bedoeld in het [tweede lid, onderdeel b, van dat artikel](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&hoofdstuk=8&paragraaf=1&artikel=55&z=2017-02-01&g=2017-02-01), niet automatisch door de AGR-apparatuur, maar door de vervoerder in de gegevensdrager van de AGR-apparatuur worden vastgelegd door deze gegevens elektronisch vanaf de monsterverpakking in te lezen;
 
-- b. de gegevens, bedoeld in het [tweede lid, onderdeel c, van dat artikel](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&hoofdstuk=8&paragraaf=1&artikel=55&z=2017-01-01&g=2017-01-01), niet behoeven te worden vastgelegd.
+- b. de gegevens, bedoeld in het [tweede lid, onderdeel c, van dat artikel](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&hoofdstuk=8&paragraaf=1&artikel=55&z=2017-02-01&g=2017-02-01), niet behoeven te worden vastgelegd.
 
 ##### Artikel 57
 
@@ -910,7 +910,7 @@ De [artikelen 32, tweede lid, onderdelen e, g, en h, van het besluit](https://we
 
 - b. een overzicht van de buiten Nederland gevestigde leveranciers;
 
-- c. het aantal voorgenomen transporten en de in tonnen uitgedrukte totale hoeveelheid te vervoeren dierlijke meststoffen onderscheiden naar mestcode zoals deze voor de desbetreffende mestsoort zijn opgenomen in [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&bijlage=I&z=2017-01-01&g=2017-01-01);
+- c. het aantal voorgenomen transporten en de in tonnen uitgedrukte totale hoeveelheid te vervoeren dierlijke meststoffen onderscheiden naar mestcode zoals deze voor de desbetreffende mestsoort zijn opgenomen in [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&bijlage=I&z=2017-02-01&g=2017-02-01);
 
 - d. een afschrift van het document waaruit blijkt dat de lidstaat van bestemming de zending aanvaardt, zoals bedoeld in artikel 48, eerste lid, onderdeel b en c, van verordening (EG) nr. 1069/2009, voor zover een dergelijke aanvaarding ingevolge voornoemde verordening is vereist; en
 
@@ -918,7 +918,7 @@ De [artikelen 32, tweede lid, onderdelen e, g, en h, van het besluit](https://we
 
 ##### Artikel 58
 
-1. Indien de vervoerder ingevolge [artikel 51, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&hoofdstuk=7&artikel=51&z=2017-01-01&g=2017-01-01), van het besluit verplicht is van het vervoer mededeling te doen, geschiedt de mededeling uiterlijk 24 uur voordat het laden van het transportmiddel plaatsvindt aan de minister.
+1. Indien de vervoerder ingevolge [artikel 51, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&hoofdstuk=7&artikel=51&z=2017-02-01&g=2017-02-01), van het besluit verplicht is van het vervoer mededeling te doen, geschiedt de mededeling uiterlijk 24 uur voordat het laden van het transportmiddel plaatsvindt aan de minister.
 
 2. Bij de mededeling van het vervoer worden de volgende gegevens verstrekt:
 
@@ -934,9 +934,9 @@ De [artikelen 32, tweede lid, onderdelen e, g, en h, van het besluit](https://we
 
 ##### Artikel 59
 
-De [artikelen 48](https://wetten.overheid.nl/jci1.3:c:BWBR0019031&artikel=48) en [49 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0019031&artikel=49) en en de [artikelen 53 tot en met 56](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&hoofdstuk=8&paragraaf=1&artikel=53&z=2017-01-01&g=2017-01-01) zijn niet van toepassing op het vervoer van dierlijke meststoffen, indien:
+De [artikelen 48](https://wetten.overheid.nl/jci1.3:c:BWBR0019031&artikel=48) en [49 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0019031&artikel=49) en en de [artikelen 53 tot en met 56](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&hoofdstuk=8&paragraaf=1&artikel=53&z=2017-02-01&g=2017-02-01) zijn niet van toepassing op het vervoer van dierlijke meststoffen, indien:
 
-- a. de hoeveelheid van die meststoffen ingevolge de [artikelen 84 tot en met 91a](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&hoofdstuk=9&paragraaf=2&artikel=84&z=2017-01-01&g=2017-01-01) wordt bepaald op basis van de in die artikelen bedoelde stikstofgehalten, onderscheidenlijk fosfaatgehalten;
+- a. de hoeveelheid van die meststoffen ingevolge de [artikelen 84 tot en met 91a](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&hoofdstuk=9&paragraaf=2&artikel=84&z=2017-02-01&g=2017-02-01) wordt bepaald op basis van de in die artikelen bedoelde stikstofgehalten, onderscheidenlijk fosfaatgehalten;
 
 - b. uitsluitend mestkorrels worden vervoerd;
 
@@ -948,13 +948,13 @@ De [artikelen 48](https://wetten.overheid.nl/jci1.3:c:BWBR0019031&artikel=48) en
 
 - 1°. deze afvoer vindt plaats op basis van een schriftelijke overeenkomst tussen de leverancier en de afnemer die is afgesloten voordat het vervoer van de desbetreffende vracht plaatsvond; en
 
-- 2°. het op de vracht betrekking hebbende vervoersbewijs dierlijke meststoffen is overeenkomstig [artikel 66, tweede lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&hoofdstuk=8&paragraaf=2&artikel=66&z=2017-01-01&g=2017-01-01), ingevuld.
+- 2°. het op de vracht betrekking hebbende vervoersbewijs dierlijke meststoffen is overeenkomstig [artikel 66, tweede lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&hoofdstuk=8&paragraaf=2&artikel=66&z=2017-02-01&g=2017-02-01), ingevuld.
 
 #### § 1. Vervoer van dierlijke meststoffen
 
 ##### Artikel 60
 
-1. Als vervoersbewijs als bedoeld in [artikel 53, derde lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0019031&artikel=53) wordt vastgesteld het vervoersbewijs dierlijke meststoffen dat overeenkomt met het model dat is opgenomen in [bijlage F, onderdeel A](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&bijlage=F&z=2017-01-01&g=2017-01-01).
+1. Als vervoersbewijs als bedoeld in [artikel 53, derde lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0019031&artikel=53) wordt vastgesteld het vervoersbewijs dierlijke meststoffen dat overeenkomt met het model dat is opgenomen in [bijlage F, onderdeel A](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&bijlage=F&z=2017-02-01&g=2017-02-01).
 
 2. Het vervoersbewijs dierlijke meststoffen wordt door de minister verstrekt en is voorzien van een uniek nummer.
 
@@ -962,7 +962,7 @@ De [artikelen 48](https://wetten.overheid.nl/jci1.3:c:BWBR0019031&artikel=48) en
 
 - a. het referentienummer van het gezondheidscertificaat of handelsdocument, bedoeld in artikel 21, van verordening (EG) nr. 1069/2009, dat betrekking heeft op dezelfde vracht dierlijke meststoffen als het vervoersbewijs dierlijke meststoffen, bedoeld in het tweede lid, vermeld op dat vervoersbewijs;
 
-- b. indien de mededeling van het vervoer elektronisch is gedaan als bedoeld in [artikel 57b](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&hoofdstuk=8&paragraaf=1&artikel=57b&z=2017-01-01&g=2017-01-01), gebruik gemaakt van een geprint exemplaar van het vervoersbewijs, zoals dit elektronisch is aangemaakt, en
+- b. indien de mededeling van het vervoer elektronisch is gedaan als bedoeld in [artikel 57b](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&hoofdstuk=8&paragraaf=1&artikel=57b&z=2017-02-01&g=2017-02-01), gebruik gemaakt van een geprint exemplaar van het vervoersbewijs, zoals dit elektronisch is aangemaakt, en
 
 - c. indien de mededeling van het vervoer niet elektronisch is gedaan, het vervoersbewijs door de Voedsel en Waren Autoriteit verstrekt.
 
@@ -972,15 +972,15 @@ De [artikelen 48](https://wetten.overheid.nl/jci1.3:c:BWBR0019031&artikel=48) en
 
 2. Uiterlijk bij het lossen van de dierlijke meststoffen worden onderdeel 3b, voor zover dit betrekking heeft op de postcode van de losplaats en op de datum en het tijdstip van het lossen, en onderdeel 5 van het op die vracht betrekking hebbende en overeenkomstig het eerste lid ingevulde vervoersbewijs ingevuld en wordt het vervoersbewijs door de vervoerder en de afnemer ondertekend.
 
-3. Bij het invullen van de mestcode bij onderdeel 1 van het vervoersbewijs wordt gebruik gemaakt van de codes die voor de desbetreffende mestsoort zijn opgenomen in [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&bijlage=I&z=2017-01-01&g=2017-01-01).
+3. Bij het invullen van de mestcode bij onderdeel 1 van het vervoersbewijs wordt gebruik gemaakt van de codes die voor de desbetreffende mestsoort zijn opgenomen in [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&bijlage=I&z=2017-02-01&g=2017-02-01).
 
-4. Indien zich ter zake van het vervoer één of meer van de in [bijlage F, onderdeel B](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&bijlage=F&z=2017-01-01&g=2017-01-01), vermelde omstandigheden voordoen, worden de hiermee corresponderende codes terstond bij onderdeel 4 van het vervoersbewijs ingevuld.
+4. Indien zich ter zake van het vervoer één of meer van de in [bijlage F, onderdeel B](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&bijlage=F&z=2017-02-01&g=2017-02-01), vermelde omstandigheden voordoen, worden de hiermee corresponderende codes terstond bij onderdeel 4 van het vervoersbewijs ingevuld.
 
 5. In zoverre in afwijking van de voorgaande leden, kunnen de gegevens op het vervoersbewijs worden vermeld door het printen van deze gegevens in een aan de invulvelden gerelateerde volgorde binnen de daarvoor op het vervoersbewijs bestemde vrije ruimte.
 
 ##### Artikel 62
 
-In zoverre in afwijking van [artikel 61, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&hoofdstuk=8&paragraaf=2&artikel=61&z=2017-01-01&g=2017-01-01):
+In zoverre in afwijking van [artikel 61, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&hoofdstuk=8&paragraaf=2&artikel=61&z=2017-02-01&g=2017-02-01):
 
 - a. wordt, indien de weging van de dierlijke meststoffen na het laden van het transportmiddel plaatsvindt, terstond na de weging bij onderdeel 3b van het vervoersbewijs dierlijke meststoffen het nettogewicht van de dierlijke meststoffen ingevuld;
 
@@ -990,19 +990,19 @@ In zoverre in afwijking van [artikel 61, eerste en tweede lid](https://wetten.ov
 
 - d. wordt, indien de vracht uit vaste mest bestaat en de bemonstering van de vracht na het laden plaatsvindt, terstond na de bemonstering bij onderdeel 3c van het vervoersbewijs dierlijke meststoffen, de gegevens ter identificatie van de monsterverpakking ingevuld;
 
-- e. kan bij onderdeel 3c, uiterlijk tot het moment waarop het uit de vracht genomen monster overeenkomstig [artikel 80](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&hoofdstuk=9&paragraaf=2&artikel=80&z=2017-01-01&g=2017-01-01) aan het in dat artikel bedoelde laboratorium wordt verzonden, worden ingevuld of met het uit de vracht genomen monster een mengmonster samengesteld kan worden;
+- e. kan bij onderdeel 3c, uiterlijk tot het moment waarop het uit de vracht genomen monster overeenkomstig [artikel 80](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&hoofdstuk=9&paragraaf=2&artikel=80&z=2017-02-01&g=2017-02-01) aan het in dat artikel bedoelde laboratorium wordt verzonden, worden ingevuld of met het uit de vracht genomen monster een mengmonster samengesteld kan worden;
 
-- f. worden, indien de hoeveelheid van de dierlijke meststoffen ingevolge de [artikelen 84 tot en met 91](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&hoofdstuk=9&paragraaf=2&artikel=84&z=2017-01-01&g=2017-01-01) wordt bepaald op basis van de in die artikelen bedoelde forfaitaire stikstofgehalten onderscheidenlijk fosfaatgehalten, bij onderdeel 3b en bij onderdeel 3c van het vervoersbewijs dierlijke meststoffen het nettogewicht van de dierlijke meststoffen, het combinatienummer, de gegevens ter identificatie van de monsterverpakking en de code van het laboratorium niet ingevuld;
+- f. worden, indien de hoeveelheid van de dierlijke meststoffen ingevolge de [artikelen 84 tot en met 91](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&hoofdstuk=9&paragraaf=2&artikel=84&z=2017-02-01&g=2017-02-01) wordt bepaald op basis van de in die artikelen bedoelde forfaitaire stikstofgehalten onderscheidenlijk fosfaatgehalten, bij onderdeel 3b en bij onderdeel 3c van het vervoersbewijs dierlijke meststoffen het nettogewicht van de dierlijke meststoffen, het combinatienummer, de gegevens ter identificatie van de monsterverpakking en de code van het laboratorium niet ingevuld;
 
 - g. behoeft, indien de dierlijke meststoffen buiten Nederland worden gebracht, het vervoersbewijs dierlijke meststoffen niet door de afnemer te worden ondertekend;
 
-- h. behoeft in het geval, bedoeld in de [artikelen 50, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&hoofdstuk=7&artikel=50&z=2017-01-01&g=2017-01-01), en [45, negende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&hoofdstuk=6&artikel=45&z=2017-01-01&g=2017-01-01), bij de onderdelen 3a en 5 van het vervoersbewijs dierlijke meststoffen het relatienummer niet ingevuld te worden;
+- h. behoeft in het geval, bedoeld in de [artikelen 50, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&hoofdstuk=7&artikel=50&z=2017-02-01&g=2017-02-01), en [45, negende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&hoofdstuk=6&artikel=45&z=2017-02-01&g=2017-02-01), bij de onderdelen 3a en 5 van het vervoersbewijs dierlijke meststoffen het relatienummer niet ingevuld te worden;
 
 - i. behoeft het relatienummer bij de onderdelen 3a en 5 van het vervoersbewijs dierlijke meststoffen niet ingevuld te worden, indien de afnemer geen bedrijf of onderneming voert in het kader waarvan meststoffen worden verhandeld.
 
 ##### Artikel 63
 
-De vervoerder van een vracht dierlijke meststoffen, onderscheidenlijk van meerdere vrachten dierlijke meststoffen als bedoeld in [artikel 62a](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&hoofdstuk=8&paragraaf=2&artikel=62a&z=2017-01-01&g=2017-01-01), verstrekt uiterlijk tien werkdagen na het vervoer, onderscheidenlijk het laatste vervoer, de leverancier en de afnemer een afschrift van het op die vracht of vrachten betrekking hebbende vervoersbewijs dierlijke meststoffen.
+De vervoerder van een vracht dierlijke meststoffen, onderscheidenlijk van meerdere vrachten dierlijke meststoffen als bedoeld in [artikel 62a](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&hoofdstuk=8&paragraaf=2&artikel=62a&z=2017-02-01&g=2017-02-01), verstrekt uiterlijk tien werkdagen na het vervoer, onderscheidenlijk het laatste vervoer, de leverancier en de afnemer een afschrift van het op die vracht of vrachten betrekking hebbende vervoersbewijs dierlijke meststoffen.
 
 ##### Artikel 64
 
@@ -1010,9 +1010,9 @@ De vervoerder van een vracht dierlijke meststoffen, onderscheidenlijk van meerde
 
 2. De elektronisch in te dienen gegevens bevatten mede de code van het laboratorium dat de analyse van de dierlijke meststoffen waarop het vervoersbewijs dierlijke meststoffen betrekking heeft, heeft uitgevoerd, en de op basis van deze analyse vastgestelde hoeveelheid dierlijke meststoffen.
 
-3. Indien de hoeveelheid van de dierlijke meststoffen overeenkomstig de [artikelen 84 tot en met 91](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&hoofdstuk=9&paragraaf=2&artikel=84&z=2017-01-01&g=2017-01-01) wordt bepaald op basis van de in die artikelen bedoelde forfaitaire stikstofgehalten, onderscheidenlijk fosfaatgehalten, worden de op het vervoersbewijs dierlijke meststoffen ingevulde gegevens, in afwijking van het eerste lid, uiterlijk tien werkdagen na het vervoer van de vracht of vrachten dierlijke meststoffen bij de minister ingediend.
+3. Indien de hoeveelheid van de dierlijke meststoffen overeenkomstig de [artikelen 84 tot en met 91](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&hoofdstuk=9&paragraaf=2&artikel=84&z=2017-02-01&g=2017-02-01) wordt bepaald op basis van de in die artikelen bedoelde forfaitaire stikstofgehalten, onderscheidenlijk fosfaatgehalten, worden de op het vervoersbewijs dierlijke meststoffen ingevulde gegevens, in afwijking van het eerste lid, uiterlijk tien werkdagen na het vervoer van de vracht of vrachten dierlijke meststoffen bij de minister ingediend.
 
-4. In het in het derde lid bedoelde geval kan de indiening van de op het vervoersbewijs dierlijke meststoffen ingevulde gegevens, in afwijking van[artikel 53, zesde lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0019031&artikel=53), geschieden door middel van het indienen van het origineel van het door de vervoerder ondertekende vervoersbewijs dierlijke meststoffen bij de minister, tenzij het een vervoersbewijs dierlijke meststoffen als bedoeld in [artikel 62a](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&hoofdstuk=8&paragraaf=2&artikel=62a&z=2017-01-01&g=2017-01-01) betreft.
+4. In het in het derde lid bedoelde geval kan de indiening van de op het vervoersbewijs dierlijke meststoffen ingevulde gegevens, in afwijking van[artikel 53, zesde lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0019031&artikel=53), geschieden door middel van het indienen van het origineel van het door de vervoerder ondertekende vervoersbewijs dierlijke meststoffen bij de minister, tenzij het een vervoersbewijs dierlijke meststoffen als bedoeld in [artikel 62a](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&hoofdstuk=8&paragraaf=2&artikel=62a&z=2017-02-01&g=2017-02-01) betreft.
 
 ##### Artikel 65
 
@@ -1022,47 +1022,47 @@ In afwijking van [artikel 53, vijfde lid, van het besluit](https://wetten.overhe
 
 - b. er wordt een schriftelijk bewijsstuk van de machtiging opgemaakt dat door de betrokken partijen is ondertekend en dat in ieder geval de datum en de duur van de machtiging en de door de minister ter identificatie van de bedrijven of ondernemingen van de betrokken partijen verstrekte relatienummers bevat; en
 
-- c. een afschrift van het bewijsstuk van de machtiging, bedoeld onder b, wordt tijdens het vervoer van de vracht dierlijke meststoffen waarop de machtiging betrekking heeft desgevraagd aan een ambtenaar als bedoeld in [artikel 129](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&hoofdstuk=11&artikel=129&z=2017-01-01&g=2017-01-01) verstrekt.
+- c. een afschrift van het bewijsstuk van de machtiging, bedoeld onder b, wordt tijdens het vervoer van de vracht dierlijke meststoffen waarop de machtiging betrekking heeft desgevraagd aan een ambtenaar als bedoeld in [artikel 129](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&hoofdstuk=11&artikel=129&z=2017-02-01&g=2017-02-01) verstrekt.
 
 ##### Artikel 66
 
-1. In het in [artikel 59, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&hoofdstuk=8&paragraaf=1&artikel=59&z=2017-01-01&g=2017-01-01), bedoelde geval:
+1. In het in [artikel 59, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&hoofdstuk=8&paragraaf=1&artikel=59&z=2017-02-01&g=2017-02-01), bedoelde geval:
 
-- a. wordt, in afwijking van [artikel 61, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&hoofdstuk=8&paragraaf=2&artikel=61&z=2017-01-01&g=2017-01-01), het vervoersbewijs dierlijke meststoffen door de afnemer ingevuld en ondertekend op het tijdstip waarop de kalvergier op de kalvergierbewerkingsinstallatie wordt aangevoerd en wordt het vervoersbewijs dierlijke meststoffen door de afnemer aan de leverancier toegezonden, waarna de leverancier het vervoersbewijs dierlijke meststoffen ondertekent en terugzendt aan de afnemer; en
+- a. wordt, in afwijking van [artikel 61, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&hoofdstuk=8&paragraaf=2&artikel=61&z=2017-02-01&g=2017-02-01), het vervoersbewijs dierlijke meststoffen door de afnemer ingevuld en ondertekend op het tijdstip waarop de kalvergier op de kalvergierbewerkingsinstallatie wordt aangevoerd en wordt het vervoersbewijs dierlijke meststoffen door de afnemer aan de leverancier toegezonden, waarna de leverancier het vervoersbewijs dierlijke meststoffen ondertekent en terugzendt aan de afnemer; en
 
-- b. kan, in afwijking van [artikel 53, vijfde lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0019031&artikel=53), de leverancier de afnemer ter zake van de ondertekening van het vervoersbewijs dierlijke meststoffen machtigen, onder de in [artikel 65, onderdelen a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&hoofdstuk=8&paragraaf=2&artikel=65&z=2017-01-01&g=2017-01-01), genoemde voorwaarden.
+- b. kan, in afwijking van [artikel 53, vijfde lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0019031&artikel=53), de leverancier de afnemer ter zake van de ondertekening van het vervoersbewijs dierlijke meststoffen machtigen, onder de in [artikel 65, onderdelen a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&hoofdstuk=8&paragraaf=2&artikel=65&z=2017-02-01&g=2017-02-01), genoemde voorwaarden.
 
-2. In het in [artikel 59, onderdeel e](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&hoofdstuk=8&paragraaf=1&artikel=59&z=2017-01-01&g=2017-01-01), bedoelde geval en onder de in dat onderdeel, onder 1°, genoemde voorwaarde:
+2. In het in [artikel 59, onderdeel e](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&hoofdstuk=8&paragraaf=1&artikel=59&z=2017-02-01&g=2017-02-01), bedoelde geval en onder de in dat onderdeel, onder 1°, genoemde voorwaarde:
 
-- a. worden, in afwijking van [artikel 61, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&hoofdstuk=8&paragraaf=2&artikel=61&z=2017-01-01&g=2017-01-01), uiterlijk bij het laden van de kalvergier de onderdelen 1, 3a, met uitzondering van het CMR-nummer, 3b, met uitzondering van het combinatienummer, het netto gewicht en het tijdstip van het lossen, en 5 van het vervoersbewijs dierlijke meststoffen, ingevuld en door de leverancier ondertekend;
+- a. worden, in afwijking van [artikel 61, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&hoofdstuk=8&paragraaf=2&artikel=61&z=2017-02-01&g=2017-02-01), uiterlijk bij het laden van de kalvergier de onderdelen 1, 3a, met uitzondering van het CMR-nummer, 3b, met uitzondering van het combinatienummer, het netto gewicht en het tijdstip van het lossen, en 5 van het vervoersbewijs dierlijke meststoffen, ingevuld en door de leverancier ondertekend;
 
-- b. wordt, in afwijking van [artikel 61, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&hoofdstuk=8&paragraaf=2&artikel=61&z=2017-01-01&g=2017-01-01), uiterlijk bij het lossen van de kalvergier, onderdeel 3b, voor zover dit betrekking heeft op het tijdstip van het lossen, van het op die vracht betrekking hebbende vervoersbewijs dierlijke meststoffen ingevuld en wordt het vervoersbewijs dierlijke meststoffen door de vervoerder ondertekend; en
+- b. wordt, in afwijking van [artikel 61, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&hoofdstuk=8&paragraaf=2&artikel=61&z=2017-02-01&g=2017-02-01), uiterlijk bij het lossen van de kalvergier, onderdeel 3b, voor zover dit betrekking heeft op het tijdstip van het lossen, van het op die vracht betrekking hebbende vervoersbewijs dierlijke meststoffen ingevuld en wordt het vervoersbewijs dierlijke meststoffen door de vervoerder ondertekend; en
 
 - c. wordt terstond na de weging en na de bemonstering van de kalvergier, onderdeel 3b, voor zover dit betrekking heeft op het nettogewicht van de kalvergier, onderscheidenlijk onderdeel 3c, voor zover dit betrekking heeft op gegevens ter identificatie van de monsterverpakking, van het op die vracht betrekking hebbende vervoersbewijs dierlijke meststoffen ingevuld en door de afnemer ondertekend.
 
-3. In de in [artikel 59, onderdelen d en e](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&hoofdstuk=8&paragraaf=1&artikel=59&z=2017-01-01&g=2017-01-01), bedoelde gevallen:
+3. In de in [artikel 59, onderdelen d en e](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&hoofdstuk=8&paragraaf=1&artikel=59&z=2017-02-01&g=2017-02-01), bedoelde gevallen:
 
-- a. wordt een afschrift van het op de vracht betrekking hebbende vervoersbewijs dierlijke meststoffen, in zoverre in afwijking van [artikel 63](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&hoofdstuk=8&paragraaf=2&artikel=63&z=2017-01-01&g=2017-01-01), door de afnemer aan de leverancier en de vervoerder verstrekt; en
+- a. wordt een afschrift van het op de vracht betrekking hebbende vervoersbewijs dierlijke meststoffen, in zoverre in afwijking van [artikel 63](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&hoofdstuk=8&paragraaf=2&artikel=63&z=2017-02-01&g=2017-02-01), door de afnemer aan de leverancier en de vervoerder verstrekt; en
 
-- b. geschiedt de indiening van de op het vervoersbewijs dierlijke meststoffen ingevulde gegevens, in zoverre in afwijking van [artikel 64, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&hoofdstuk=8&paragraaf=2&artikel=64&z=2017-01-01&g=2017-01-01), door de afnemer.
+- b. geschiedt de indiening van de op het vervoersbewijs dierlijke meststoffen ingevulde gegevens, in zoverre in afwijking van [artikel 64, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&hoofdstuk=8&paragraaf=2&artikel=64&z=2017-02-01&g=2017-02-01), door de afnemer.
 
-4. In het in [artikel 59a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&hoofdstuk=8&paragraaf=1&artikel=59a&z=2017-01-01&g=2017-01-01), bedoelde geval en onder de in dat lid genoemde voorwaarden:
+4. In het in [artikel 59a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&hoofdstuk=8&paragraaf=1&artikel=59a&z=2017-02-01&g=2017-02-01), bedoelde geval en onder de in dat lid genoemde voorwaarden:
 
-- a. worden, in afwijking van [artikel 61, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&hoofdstuk=8&paragraaf=2&artikel=61&z=2017-01-01&g=2017-01-01), uiterlijk bij het laden van de dierlijke meststoffen de onderdelen 1, 3a, met uitzondering van het CMR-nummer, 3b, met uitzondering van het combinatienummer en het tijdstip van het lossen, en 5 van het vervoersbewijs dierlijke meststoffen, ingevuld, wordt bij onderdeel 4 de opmerkingscode ‘38’ ingevuld en wordt het vervoersbewijs dierlijke meststoffen door de leverancier ondertekend;
+- a. worden, in afwijking van [artikel 61, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&hoofdstuk=8&paragraaf=2&artikel=61&z=2017-02-01&g=2017-02-01), uiterlijk bij het laden van de dierlijke meststoffen de onderdelen 1, 3a, met uitzondering van het CMR-nummer, 3b, met uitzondering van het combinatienummer en het tijdstip van het lossen, en 5 van het vervoersbewijs dierlijke meststoffen, ingevuld, wordt bij onderdeel 4 de opmerkingscode ‘38’ ingevuld en wordt het vervoersbewijs dierlijke meststoffen door de leverancier ondertekend;
 
-- b. wordt, in afwijking van [artikel 61, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&hoofdstuk=8&paragraaf=2&artikel=61&z=2017-01-01&g=2017-01-01), uiterlijk bij het lossen van de dierlijke meststoffen, onderdeel 3b, voor zover dit betrekking heeft op het tijdstip van het lossen, van het op die vracht betrekking hebbende vervoersbewijs dierlijke meststoffen ingevuld en wordt het vervoersbewijs dierlijke meststoffen door de vervoerder ondertekend; en
+- b. wordt, in afwijking van [artikel 61, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&hoofdstuk=8&paragraaf=2&artikel=61&z=2017-02-01&g=2017-02-01), uiterlijk bij het lossen van de dierlijke meststoffen, onderdeel 3b, voor zover dit betrekking heeft op het tijdstip van het lossen, van het op die vracht betrekking hebbende vervoersbewijs dierlijke meststoffen ingevuld en wordt het vervoersbewijs dierlijke meststoffen door de vervoerder ondertekend; en
 
-- c. bevatten de op grond van [artikel 64, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&hoofdstuk=8&paragraaf=2&artikel=64&z=2017-01-01&g=2017-01-01), elektronisch in te dienen gegevens, in afwijking van [artikel 64, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&hoofdstuk=8&paragraaf=2&artikel=64&z=2017-01-01&g=2017-01-01), de hoeveelheid dierlijke meststoffen die is vastgesteld overeenkomstig de voorschriften die zijn verbonden aan de aan de leverancier van de desbetreffende vracht verleende ontheffing van de [artikelen 76, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&hoofdstuk=9&paragraaf=2&artikel=76&z=2017-01-01&g=2017-01-01), en [77](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&hoofdstuk=9&paragraaf=2&artikel=77&z=2017-01-01&g=2017-01-01).
+- c. bevatten de op grond van [artikel 64, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&hoofdstuk=8&paragraaf=2&artikel=64&z=2017-02-01&g=2017-02-01), elektronisch in te dienen gegevens, in afwijking van [artikel 64, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&hoofdstuk=8&paragraaf=2&artikel=64&z=2017-02-01&g=2017-02-01), de hoeveelheid dierlijke meststoffen die is vastgesteld overeenkomstig de voorschriften die zijn verbonden aan de aan de leverancier van de desbetreffende vracht verleende ontheffing van de [artikelen 76, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&hoofdstuk=9&paragraaf=2&artikel=76&z=2017-02-01&g=2017-02-01), en [77](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&hoofdstuk=9&paragraaf=2&artikel=77&z=2017-02-01&g=2017-02-01).
 
-5. In het in [artikel 59b, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&hoofdstuk=8&paragraaf=1&artikel=59b&z=2017-01-01&g=2017-01-01) en het in [artikel 59c](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&hoofdstuk=8&paragraaf=1&artikel=59c&z=2017-01-01&g=2017-01-01) bedoelde geval:
+5. In het in [artikel 59b, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&hoofdstuk=8&paragraaf=1&artikel=59b&z=2017-02-01&g=2017-02-01) en het in [artikel 59c](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&hoofdstuk=8&paragraaf=1&artikel=59c&z=2017-02-01&g=2017-02-01) bedoelde geval:
 
-- a. wordt, in afwijking van [artikel 61, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&hoofdstuk=8&paragraaf=2&artikel=61&z=2017-01-01&g=2017-01-01), het vervoersbewijs dierlijke meststoffen, met uitzondering van het CMR-nummer, het kenteken van het voertuig en het netto gewicht, door de vervoerder ingevuld en ondertekend op het tijdstip waarop de vracht dierlijke meststoffen wordt aangevoerd;
+- a. wordt, in afwijking van [artikel 61, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&hoofdstuk=8&paragraaf=2&artikel=61&z=2017-02-01&g=2017-02-01), het vervoersbewijs dierlijke meststoffen, met uitzondering van het CMR-nummer, het kenteken van het voertuig en het netto gewicht, door de vervoerder ingevuld en ondertekend op het tijdstip waarop de vracht dierlijke meststoffen wordt aangevoerd;
 
 - b. wordt het vervoersbewijs door de vervoerder aan de leverancier toegezonden, waarna de leverancier het vervoersbewijs dierlijke meststoffen ondertekent en terugzendt aan de vervoerder;
 
 - c. wordt bij onderdeel 4 van het vervoersbewijs dierlijke meststoffen de opmerkingscode ‘42’ ingevuld;
 
-- d. kan, in afwijking van [artikel 53, vijfde lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0019031&artikel=53), de leverancier de vervoerder ter zake van de ondertekening van het vervoersbewijs dierlijke meststoffen machtigen, onder de in [artikel 65, onderdelen a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&hoofdstuk=8&paragraaf=2&artikel=65&z=2017-01-01&g=2017-01-01), genoemde voorwaarden.
+- d. kan, in afwijking van [artikel 53, vijfde lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0019031&artikel=53), de leverancier de vervoerder ter zake van de ondertekening van het vervoersbewijs dierlijke meststoffen machtigen, onder de in [artikel 65, onderdelen a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&hoofdstuk=8&paragraaf=2&artikel=65&z=2017-02-01&g=2017-02-01), genoemde voorwaarden.
 
 ##### Artikel 67
 
@@ -1090,7 +1090,7 @@ In afwijking van [artikel 53, vijfde lid, van het besluit](https://wetten.overhe
 
 ##### Artikel 68
 
-1. Als vervoersbewijs als bedoeld in [artikel 55, eerste lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0019031&artikel=55) wordt vastgesteld het vervoersbewijs zuiveringsslib en compost dat overeenkomt met het model dat is opgenomen in [bijlage G, onderdeel A](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&bijlage=G&z=2017-01-01&g=2017-01-01).
+1. Als vervoersbewijs als bedoeld in [artikel 55, eerste lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0019031&artikel=55) wordt vastgesteld het vervoersbewijs zuiveringsslib en compost dat overeenkomt met het model dat is opgenomen in [bijlage G, onderdeel A](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&bijlage=G&z=2017-02-01&g=2017-02-01).
 
 2. Het vervoersbewijs zuiveringsslib en compost wordt door de minister verstrekt en is voorzien van een uniek nummer.
 
@@ -1098,7 +1098,7 @@ In afwijking van [artikel 53, vijfde lid, van het besluit](https://wetten.overhe
 
 1. Uiterlijk bij het laden van meststoffen worden de onderdelen 1, 3a, 3b en 3c, met uitzondering van het gewicht van de vracht, de hoeveelheden fosfaat en stikstof en het drogestofgehalte, van het vervoersbewijs zuiveringsslib en compost ingevuld en wordt het vervoersbewijs door de leverancier ondertekend. In voorkomend geval wordt bij onderdeel 1 het registratienummer van de desbetreffende opslag ingevuld.
 
-2. Bij onderdeel 3c wordt als analysenummer ingevuld het bij de desbetreffende vracht behorende analysenummer, bedoeld in [artikel 92b, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&hoofdstuk=9&paragraaf=3&artikel=92b&z=2017-01-01&g=2017-01-01), dan wel indien het een vracht vloeibaar zuiveringsslib betreft die afkomstig is uit een opslagruimte voor vloeibaar zuiveringsslib als bedoeld in [artikel 39, tweede lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0019031&artikel=39) of in [artikel 51, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&hoofdstuk=7&artikel=51&z=2017-01-01&g=2017-01-01), het ter zake van de ontvangst van de overeenkomstig [artikel 48, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&hoofdstuk=6&artikel=48&z=2017-01-01&g=2017-01-01), of [52, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&hoofdstuk=7&artikel=52&z=2017-01-01&g=2017-01-01), verstrekte gegevens door de minister uitgegeven samenstellingnummer.
+2. Bij onderdeel 3c wordt als analysenummer ingevuld het bij de desbetreffende vracht behorende analysenummer, bedoeld in [artikel 92b, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&hoofdstuk=9&paragraaf=3&artikel=92b&z=2017-02-01&g=2017-02-01), dan wel indien het een vracht vloeibaar zuiveringsslib betreft die afkomstig is uit een opslagruimte voor vloeibaar zuiveringsslib als bedoeld in [artikel 39, tweede lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0019031&artikel=39) of in [artikel 51, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&hoofdstuk=7&artikel=51&z=2017-02-01&g=2017-02-01), het ter zake van de ontvangst van de overeenkomstig [artikel 48, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&hoofdstuk=6&artikel=48&z=2017-02-01&g=2017-02-01), of [52, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&hoofdstuk=7&artikel=52&z=2017-02-01&g=2017-02-01), verstrekte gegevens door de minister uitgegeven samenstellingnummer.
 
 3. Het netto gewicht van de vracht wordt terstond na de weging bij onderdeel 3 van het op de vracht betrekking hebbende vervoersbewijs zuiveringsslib en compost ingevuld.
 
@@ -1106,7 +1106,7 @@ In afwijking van [artikel 53, vijfde lid, van het besluit](https://wetten.overhe
 
 5. Met de ondertekening verklaren de leverancier en de vervoerder dat de desbetreffende vracht zuiveringsslib of compost voldoet aan [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBR0019031&artikel=16) onderscheidenlijk [artikel 17 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0019031&artikel=17).
 
-6. Indien zich ter zake van het vervoer één of meer van de in [bijlage G, onderdeel B](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&bijlage=G&z=2017-01-01&g=2017-01-01), vermelde omstandigheden voordoen, worden de hiermee corresponderende codes terstond bij onderdeel 4 van het vervoersbewijs zuiveringsslib en compost ingevuld.
+6. Indien zich ter zake van het vervoer één of meer van de in [bijlage G, onderdeel B](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&bijlage=G&z=2017-02-01&g=2017-02-01), vermelde omstandigheden voordoen, worden de hiermee corresponderende codes terstond bij onderdeel 4 van het vervoersbewijs zuiveringsslib en compost ingevuld.
 
 7. In zoverre in afwijking van de voorgaande leden, kunnen de gegevens op het vervoersbewijs zuiveringsslib en compost worden vermeld door het printen van deze gegevens in een aan de invulvelden gerelateerde volgorde binnen de daarvoor op het vervoersbewijs bestemde vrije ruimte.
 
@@ -1144,17 +1144,17 @@ De hoeveelheid dierlijke meststoffen, uitgedrukt in kilogrammen fosfaat, bedoeld
 
 ##### Artikel 73
 
-1. Als forfaitaire productienormen als bedoeld in [artikel 66, eerste lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0019031&artikel=66) worden voor de onderscheiden diersoorten en diercategorieën de normen vastgesteld, die zijn vermeld in [bijlage D, tabel I, kolommen B en C](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&bijlage=D&z=2017-01-01&g=2017-01-01).
+1. Als forfaitaire productienormen als bedoeld in [artikel 66, eerste lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0019031&artikel=66) worden voor de onderscheiden diersoorten en diercategorieën de normen vastgesteld, die zijn vermeld in [bijlage D, tabel I, kolommen B en C](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&bijlage=D&z=2017-02-01&g=2017-02-01).
 
 2. De begripsbepalingen van boerderijmelk, ontvanger van boerderijmelk en leverantie van boerderijmelk, bedoeld in [artikel 1.1 van het Besluit dierlijke producten](https://wetten.overheid.nl/jci1.3:c:BWBR0032335&artikel=1.1) en de begripsbepaling van melkcontrolestation, bedoeld in [artikel 2.10 van de Regeling dierlijke producten](https://wetten.overheid.nl/jci1.3:c:BWBR0032462&artikel=2.10), zijn van overeenkomstige toepassing in deze paragraaf.
 
 ##### Artikel 74
 
-1. Als forfaitaire productienormen per melkkoe als bedoeld in [artikel 66, tweede lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0019031&artikel=66) worden voor de naar de gemiddelde melkproductie en naar het gemiddelde ureumgehalte in de geproduceerde melk onderscheiden melkkoeien vastgesteld de normen die zijn vermeld in [bijlage D, tabel II](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&bijlage=D&z=2017-01-01&g=2017-01-01).
+1. Als forfaitaire productienormen per melkkoe als bedoeld in [artikel 66, tweede lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0019031&artikel=66) worden voor de naar de gemiddelde melkproductie en naar het gemiddelde ureumgehalte in de geproduceerde melk onderscheiden melkkoeien vastgesteld de normen die zijn vermeld in [bijlage D, tabel II](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&bijlage=D&z=2017-02-01&g=2017-02-01).
 
 2. De gemiddelde melkproductie per melkkoe, bedoeld in [artikel 66, tweede lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0019031&artikel=66), wordt bepaald door de hoeveelheid in het desbetreffende kalenderjaar op het bedrijf geproduceerde koemelk te delen door het gemiddeld aantal in het desbetreffende kalenderjaar op het bedrijf gehouden melkkoeien.
 
-3. De totale hoeveelheid in een kalenderjaar op het bedrijf geproduceerde koemelk en het gemiddelde ureumgehalte, bedoeld in [artikel 66, tweede lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0019031&artikel=66), worden vastgesteld overeenkomstig de [artikelen 75a tot en met 75d](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&hoofdstuk=9&paragraaf=1&artikel=75a&z=2017-01-01&g=2017-01-01).
+3. De totale hoeveelheid in een kalenderjaar op het bedrijf geproduceerde koemelk en het gemiddelde ureumgehalte, bedoeld in [artikel 66, tweede lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0019031&artikel=66), worden vastgesteld overeenkomstig de [artikelen 75a tot en met 75d](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&hoofdstuk=9&paragraaf=1&artikel=75a&z=2017-02-01&g=2017-02-01).
 
 4. In afwijking van het tweede en het derde lid zijn de gemiddelde melkproductie en het gemiddelde ureumgehalte van koemelk van melkkoeien van landbouwers die op het eigen bedrijf geproduceerde melk zelf verwerken tot eindproducten en landbouwers die minder dan 50 procent van de geproduceerde melk leveren aan een koper als bedoeld in de [Regeling superheffing 2008](https://wetten.overheid.nl/jci1.3:c:BWBR0023701), 7500 kilogram, onderscheidenlijk 26 milligram per 100 gram.
 
@@ -1172,7 +1172,7 @@ De [artikelen 44, eerste, derde en vierde lid](https://wetten.overheid.nl/jci1.3
 
 2. De bepaling van het gewicht geschiedt op zodanige wijze dat daarbij het gewicht van het transportmiddel buiten beschouwing blijft. Hiertoe wordt per vracht dierlijke meststoffen het gewicht van het geladen transportmiddel verminderd met het gewicht van het ledige transportmiddel zoals dat direct voorafgaande aan of na het vervoer is bepaald. Indien een vracht dierlijke meststoffen wordt afgevoerd of aangevoerd in een container, kan het gewicht van die meststoffen worden bepaald door het gewicht van de gevulde container te verminderen met het gewicht van de lege container dat eenmalig is bepaald en dat duidelijk zichtbaar en niet verwijderbaar op de container is aangebracht.
 
-3. Het gewicht van een hoeveelheid dierlijke meststoffen die ingevolge de [artikelen 84 tot en met 91a](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&hoofdstuk=9&paragraaf=2&artikel=84&z=2017-01-01&g=2017-01-01) wordt bepaald op basis van de in die artikelen bedoelde forfaitaire stikstofgehalten onderscheidenlijk fosfaatgehalten, wordt in afwijking van het eerste lid bepaald op basis van het volume en het soortelijk gewicht van de meststoffen.
+3. Het gewicht van een hoeveelheid dierlijke meststoffen die ingevolge de [artikelen 84 tot en met 91a](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&hoofdstuk=9&paragraaf=2&artikel=84&z=2017-02-01&g=2017-02-01) wordt bepaald op basis van de in die artikelen bedoelde forfaitaire stikstofgehalten onderscheidenlijk fosfaatgehalten, wordt in afwijking van het eerste lid bepaald op basis van het volume en het soortelijk gewicht van de meststoffen.
 
 ##### Artikel 77
 
@@ -1184,11 +1184,11 @@ De [artikelen 44, eerste, derde en vierde lid](https://wetten.overheid.nl/jci1.3
 
 - b. het verschil in gewicht tussen de grootste en de kleinste vracht bedraagt bij drijfmest ten hoogste tien procent en bij vaste mest ten hoogste twintig procent.
 
-3. Het nemen van een monster uit een hoeveelheid dierlijke meststoffen en de analyse van dit monster geschieden overeenkomstig de [artikelen 78 tot en met 81](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&hoofdstuk=9&paragraaf=2&artikel=78&z=2017-01-01&g=2017-01-01).
+3. Het nemen van een monster uit een hoeveelheid dierlijke meststoffen en de analyse van dit monster geschieden overeenkomstig de [artikelen 78 tot en met 81](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&hoofdstuk=9&paragraaf=2&artikel=78&z=2017-02-01&g=2017-02-01).
 
 ##### Artikel 78
 
-1. De bemonstering van een vracht drijfmest vindt plaats onder de verantwoordelijkheid van de vervoerder en geschiedt automatisch tijdens het laden van het transportmiddel met behulp van bemonsteringsapparatuur die voldoet aan de prestatiekenmerken die zijn vermeld in [bijlage E](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&bijlage=E&z=2017-01-01&g=2017-01-01), onderdeel A, en behoort tot een type waarvan bij keuring door Livestock Research, onderdeel van Wageningen UR, te Wageningen of een vergelijkbare instelling, is vastgesteld dat het voldoet aan die prestatiekenmerken.
+1. De bemonstering van een vracht drijfmest vindt plaats onder de verantwoordelijkheid van de vervoerder en geschiedt automatisch tijdens het laden van het transportmiddel met behulp van bemonsteringsapparatuur die voldoet aan de prestatiekenmerken die zijn vermeld in [bijlage E](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&bijlage=E&z=2017-02-01&g=2017-02-01), onderdeel A, en behoort tot een type waarvan bij keuring door Livestock Research, onderdeel van Wageningen UR, te Wageningen of een vergelijkbare instelling, is vastgesteld dat het voldoet aan die prestatiekenmerken.
 
 2. De bemonstering van een vracht vaste mest geschiedt door de vervoerder. Hij stelt een representatief monster samen met een gewicht van minimaal 500 gram en maximaal 800 gram, bestaande uit deelmonsters die handmatig evenredig verspreid uit de betrokken vracht meststoffen worden genomen.
 
@@ -1198,61 +1198,67 @@ De [artikelen 44, eerste, derde en vierde lid](https://wetten.overheid.nl/jci1.3
 
 ##### Artikel 79
 
-1. Een uit een vracht drijfmest genomen monster wordt automatisch verpakt in een monsterverpakking die voldoet aan [bijlage E, onderdeel B](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&bijlage=E&z=2017-01-01&g=2017-01-01). De verpakking geschiedt met behulp van verpakkingsapparatuur die voldoet aan de prestatiekenmerken die zijn vermeld in [bijlage E, onderdeel C](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&bijlage=E&z=2017-01-01&g=2017-01-01), en behoort tot een type waarvan bij keuring door Livestock Research, onderdeel van Wageningen UR, te Wageningen of een vergelijkbare instelling, is vastgesteld dat het voldoet aan die prestatiekenmerken.
+1. Een uit een vracht drijfmest genomen monster wordt automatisch verpakt in een monsterverpakking die voldoet aan [bijlage E, onderdeel B](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&bijlage=E&z=2017-02-01&g=2017-02-01). De verpakking geschiedt met behulp van verpakkingsapparatuur die voldoet aan de prestatiekenmerken die zijn vermeld in [bijlage E, onderdeel C](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&bijlage=E&z=2017-02-01&g=2017-02-01), en behoort tot een type waarvan bij keuring door Livestock Research, onderdeel van Wageningen UR, te Wageningen of een vergelijkbare instelling, is vastgesteld dat het voldoet aan die prestatiekenmerken.
 
-2. Een uit een vracht vaste mest genomen monster wordt door de vervoerder verpakt in een monsterverpakking die voldoet aan [bijlage E, onderdeel B](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&bijlage=E&z=2017-01-01&g=2017-01-01).
+2. Een uit een vracht vaste mest genomen monster wordt door de vervoerder verpakt in een monsterverpakking die voldoet aan [bijlage E, onderdeel B](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&bijlage=E&z=2017-02-01&g=2017-02-01).
 
 ##### Artikel 80
 
-1. Het uit een vracht dierlijke meststoffen genomen monster wordt, onder vermelding van de betrokken leverancier en afnemer, alsmede van het nummer van het op deze vracht betrekking hebbende vervoersbewijs dierlijke meststoffen, door de vervoerder uiterlijk tien werkdagen na bemonstering toegestuurd aan een laboratorium dat blijkens accreditatie door de Raad aantoonbaar voldoet aan de accreditatienormen van het accreditatie-programma AP05, dat is opgenomen in [bijlage H](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&bijlage=H&z=2017-01-01&g=2017-01-01).
+1. Ingeval van bemonstering, bedoeld in [artikel 78a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&hoofdstuk=9&paragraaf=2&artikel=78a&z=2017-02-01&g=2017-02-01), stuurt de vervoerder het uit een vracht dierlijke meststoffen genomen monster, onder vermelding van de betrokken leverancier van meststoffen, alsmede van het nummer van het op deze vracht betrekking hebbende vervoersbewijs dierlijke meststoffen, uiterlijk tien werkdagen na bemonstering toe aan een door de minister erkend laboratorium als bedoeld in [artikel 80a](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&hoofdstuk=9&paragraaf=2&artikel=80a&z=2017-02-01&g=2017-02-01).
 
-2. De vervoerder bewaart de monsters totdat zij aan het laboratorium worden toegestuurd, zodanig dat zij in goede staat blijven verkeren.
+2. De vervoerder, bedoeld in het eerste lid, bewaart de monsters totdat zij aan het erkend laboratorium, bedoeld in [artikel 80a](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&hoofdstuk=9&paragraaf=2&artikel=80a&z=2017-02-01&g=2017-02-01), worden toegestuurd zodanig dat zij in goede staat blijven verkeren.
+
+3. Ingeval van bemonstering, bedoeld in [artikel 78a, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&hoofdstuk=9&paragraaf=2&artikel=78a&z=2017-02-01&g=2017-02-01), stuurt de monsternemende organisatie het uit een vracht dierlijke meststoffen genomen monster, onder vermelding van de betrokken leverancier van meststoffen, alsmede van het nummer van het op deze vracht betrekking hebbende vervoersbewijs dierlijke meststoffen, uiterlijk de volgende werkdag na bemonstering toe aan een erkend laboratorium, bedoeld in [artikel 80a](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&hoofdstuk=9&paragraaf=2&artikel=80a&z=2017-02-01&g=2017-02-01).
+
+4. Ingeval van bemonstering, bedoeld in [artikel 78b](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&hoofdstuk=9&paragraaf=2&artikel=80b&z=2017-02-01&g=2017-02-01), stuurt de monsternemende organisatie het uit een partij dikke fractie genomen monster, onder vermelding van de betrokken leverancier van meststoffen, het nummer van de melding, bedoeld in [artikel 78k](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&hoofdstuk=9&paragraaf=2&artikel=78k&z=2017-02-01&g=2017-02-01), en het unieke monsternummer, bedoeld in [artikel 78r](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&hoofdstuk=9&paragraaf=2&artikel=78r&z=2017-02-01&g=2017-02-01), uiterlijk de volgende werkdag na bemonstering toe aan een erkend laboratorium, bedoeld in [artikel 80a](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&hoofdstuk=9&paragraaf=2&artikel=80a&z=2017-02-01&g=2017-02-01).
+
+5. Ingeval van bemonstering, bedoeld in de [artikelen 78a, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&hoofdstuk=9&paragraaf=2&artikel=78a&z=2017-02-01&g=2017-02-01), en [artikel 78b](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&hoofdstuk=9&paragraaf=2&artikel=78b&z=2017-02-01&g=2017-02-01), bewaart de monsternemende organisatie de monsters totdat zij aan een erkend laboratorium, bedoeld in [artikel 80a](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&hoofdstuk=9&paragraaf=2&artikel=80a&z=2017-02-01&g=2017-02-01), worden toegestuurd zodanig dat zij in goede staat blijven verkeren.
 
 ##### Artikel 81
 
-1. Het laboratorium analyseert de monsters uiterlijk vijf werkdagen na ontvangst en zendt de analyseresultaten uiterlijk vijf werkdagen na analyse aan de vervoerder, de leverancier, de afnemer en elektronisch aan de minister.
+1. Een erkend laboratorium analyseert de monsters uiterlijk vijf werkdagen na ontvangst en zendt de analyseresultaten uiterlijk vijf werkdagen na analyse aan de vervoerder, de leverancier van meststoffen, de afnemer en elektronisch aan de minister. Ingeval van bemonstering, bedoeld in [artikel 78a, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&hoofdstuk=9&paragraaf=2&artikel=78a&z=2017-02-01&g=2017-02-01), zendt het laboratorium de analyseresultaten aan de leverancier en de afnemer, voor zover deze tijdig bekend is. Indien de afnemer niet tijdig bekend is, zendt de leverancier de analyseresultaten aan de afnemer.
 
-2. Indien bij ontvangst van een toegezonden monster wordt geconstateerd dat de monsterverpakking is beschadigd, rapporteert het laboratorium aan de meldkamer van de Nederlandse Voedsel- en Warenautoriteit de gegevens ter identificatie van de monsterverpakking en het nummer van het op de desbetreffende vracht betrekking hebbende vervoersbewijs dierlijke meststoffen. Het laboratorium volgt de door de Nederlandse Voedsel- en Warenautoriteit ter zake verstrekte aanwijzingen op.
+2. Indien bij ontvangst van een toegezonden monster wordt geconstateerd dat de monsterverpakking is beschadigd, rapporteert een erkend laboratorium aan de Nederlandse Voedsel- en Warenautoriteit door middel van een door de minister beschikbaar gesteld middel de gegevens ter identificatie van de monsterverpakking en het nummer van het op de desbetreffende vracht betrekking hebbende vervoersbewijs dierlijke meststoffen. Een erkend laboratorium volgt de door de Nederlandse Voedsel- en Warenautoriteit ter zake verstrekte aanwijzingen op.
 
-3. Het laboratorium voldoet aan de eisen van het accreditatieprogramma AP05, dat is opgenomen in [bijlage H](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&bijlage=H&z=2017-01-01&g=2017-01-01).
+3. Een erkend laboratorium voldoet aan de eisen van het accreditatieprogramma AP05, dat is opgenomen in [bijlage H](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&bijlage=H&z=2017-02-01&g=2017-02-01).
 
-4. Uiterlijk tien werkdagen na verzending van de analyseresultaten door het laboratorium, kan door de betrokkenen heranalyse worden aangevraagd. Er vindt ten hoogste éénmaal een heranalyse plaats die wordt uitgevoerd door het laboratorium dat de analyse heeft uitgevoerd.
+4. Uiterlijk tien werkdagen na verzending van de analyseresultaten door een erkend laboratorium, kan door de betrokkenen heranalyse worden aangevraagd. Er vindt ten hoogste éénmaal een heranalyse plaats die wordt uitgevoerd door het erkende laboratorium dat de analyse heeft uitgevoerd.
 
-5. Indien een laboratorium het fosfaatgehalte of stikstofgehalte van een monster niet kan vaststellen, omdat het monster na ontvangst door het laboratorium in het ongerede is geraakt, wordt de desbetreffende hoeveelheid dierlijke meststoffen, in zoverre in afwijking van [artikel 68, eerste en vijfde lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0019031&artikel=68) bepaald op basis van de in [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&bijlage=I&z=2017-01-01&g=2017-01-01) voor de desbetreffende mestsoort vermelde forfaitaire stikstofgehalten, onderscheidenlijk fosfaatgehalten.
+5. Indien een erkend laboratorium het fosfaatgehalte of stikstofgehalte van een monster niet kan vaststellen, omdat het monster na ontvangst door het laboratorium in het ongerede is geraakt, wordt de desbetreffende hoeveelheid dierlijke meststoffen, in zoverre in afwijking van [artikel 68, eerste en vijfde lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0019031&artikel=68) bepaald op basis van de in bijlage I voor de desbetreffende mestsoort vermelde forfaitaire stikstofgehalten, onderscheidenlijk fosfaatgehalten.
 
-6. Indien een laboratorium bij ontvangst van een toegezonden monster constateert dat het monster niet voldoet aan de eisen van Hoofdstuk 4, paragraaf 4.2 van het Accreditatieprogramma dierlijke mest (AP05) zoals opgenomen in [bijlage H](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&bijlage=H&z=2017-01-01&g=2017-01-01), wordt de desbetreffende hoeveelheid dierlijke meststoffen, in zoverre in afwijking van [artikel 68, eerste en vijfde lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0019031&artikel=68) bepaald op basis van de in [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&bijlage=I&z=2017-01-01&g=2017-01-01) voor de desbetreffende mestsoort vermelde forfaitaire stikstofgehalten, onderscheidenlijk fosfaatgehalten.
+6. Indien een erkend laboratorium bij ontvangst van een toegezonden monster constateert dat het monster niet voldoet aan de eisen van Hoofdstuk 4, paragraaf 4.2 van het Accreditatieprogramma dierlijke mest (AP05), dat is opgenomen in [bijlage H](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&bijlage=H&z=2017-02-01&g=2017-02-01), wordt de desbetreffende hoeveelheid dierlijke meststoffen, in zoverre in afwijking van [artikel 68, eerste en vijfde lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0019031&artikel=68) bepaald op basis van de in [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&bijlage=I&z=2017-02-01&g=2017-02-01) voor de desbetreffende mestsoort vermelde forfaitaire stikstofgehalten, onderscheidenlijk fosfaatgehalten.
 
 ##### Artikel 82
 
-1. In het in [artikel 59, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&hoofdstuk=8&paragraaf=1&artikel=59&z=2017-01-01&g=2017-01-01), bedoelde geval:
+1. In het in [artikel 59, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&hoofdstuk=8&paragraaf=1&artikel=59&z=2017-02-01&g=2017-02-01), bedoelde geval:
 
-- a. wordt het gewicht van de hoeveelheid kalvergier in afwijking van [artikel 76, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&hoofdstuk=9&paragraaf=2&artikel=76&z=2017-01-01&g=2017-01-01), door de afnemer bepaald met behulp van een in de kalvergierbewerkingsinstallatie aangebracht apparaat ter bepaling van het volume dat voldoet aan de bij of krachtens de [Metrologiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0019517) gestelde regels, waarbij één kubieke meter kalvergier overeenkomt met 1000 kilogram; en
+- a. wordt het gewicht van de hoeveelheid kalvergier in afwijking van [artikel 76, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&hoofdstuk=9&paragraaf=2&artikel=76&z=2017-02-01&g=2017-02-01), door de afnemer bepaald met behulp van een in de kalvergierbewerkingsinstallatie aangebracht apparaat ter bepaling van het volume dat voldoet aan de bij of krachtens de [Metrologiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0019517) gestelde regels, waarbij één kubieke meter kalvergier overeenkomt met 1000 kilogram; en
 
-- b. geschieden de bemonstering en de verpakking van de genomen monsters, in zoverre in afwijking van [artikel 77, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&hoofdstuk=9&paragraaf=2&artikel=77&z=2017-01-01&g=2017-01-01), in samenhang met [artikel 78](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&hoofdstuk=9&paragraaf=2&artikel=78&z=2017-01-01&g=2017-01-01), onderscheidenlijk[79](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&hoofdstuk=9&paragraaf=2&artikel=79&z=2017-01-01&g=2017-01-01) door de afnemer met behulp van op de kalvergierbewerkingsinstallatie aangebracht automatische bemonsteringsapparatuur waarmee uit het totale van één leverancier aangevoerde volume kalvergier een representatief monster wordt genomen.
+- b. geschieden de bemonstering en de verpakking van de genomen monsters, in zoverre in afwijking van [artikel 77, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&hoofdstuk=9&paragraaf=2&artikel=77&z=2017-02-01&g=2017-02-01), in samenhang met [artikel 78](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&hoofdstuk=9&paragraaf=2&artikel=78&z=2017-02-01&g=2017-02-01), onderscheidenlijk[79](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&hoofdstuk=9&paragraaf=2&artikel=79&z=2017-02-01&g=2017-02-01) door de afnemer met behulp van op de kalvergierbewerkingsinstallatie aangebracht automatische bemonsteringsapparatuur waarmee uit het totale van één leverancier aangevoerde volume kalvergier een representatief monster wordt genomen.
 
-2. In het in [artikel 59, onderdeel e](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&hoofdstuk=8&paragraaf=1&artikel=59&z=2017-01-01&g=2017-01-01), bedoelde geval:
+2. In het in [artikel 59, onderdeel e](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&hoofdstuk=8&paragraaf=1&artikel=59&z=2017-02-01&g=2017-02-01), bedoelde geval:
 
-- a. wordt het gewicht van de hoeveelheid kalvergier in afwijking van [artikel 76, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&hoofdstuk=9&paragraaf=2&artikel=76&z=2017-01-01&g=2017-01-01), door de afnemer bepaald met behulp van een op de lokatie van de kalvergierbewerkingsinstallatie aangebracht weegwerktuig; en
+- a. wordt het gewicht van de hoeveelheid kalvergier in afwijking van [artikel 76, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&hoofdstuk=9&paragraaf=2&artikel=76&z=2017-02-01&g=2017-02-01), door de afnemer bepaald met behulp van een op de lokatie van de kalvergierbewerkingsinstallatie aangebracht weegwerktuig; en
 
-- b. geschieden de bemonstering en de verpakking van de genomen monsters, in afwijking van [artikel 77, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&hoofdstuk=9&paragraaf=2&artikel=77&z=2017-01-01&g=2017-01-01), in samenhang met [artikel 78](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&hoofdstuk=9&paragraaf=2&artikel=78&z=2017-01-01&g=2017-01-01), onderscheidenlijk [79](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&hoofdstuk=9&paragraaf=2&artikel=79&z=2017-01-01&g=2017-01-01) door de afnemer met behulp van op de kalvergierbewerkingsinstallatie aangebrachte automatische bemonsteringsapparatuur en automatische verpakkingsapparatuur als bedoeld in [artikel 78, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&hoofdstuk=9&paragraaf=2&artikel=78&z=2017-01-01&g=2017-01-01), onderscheidenlijk [artikel 79, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&hoofdstuk=9&paragraaf=2&artikel=79&z=2017-01-01&g=2017-01-01).
+- b. geschieden de bemonstering en de verpakking van de genomen monsters, in afwijking van [artikel 77, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&hoofdstuk=9&paragraaf=2&artikel=77&z=2017-02-01&g=2017-02-01), in samenhang met [artikel 78](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&hoofdstuk=9&paragraaf=2&artikel=78&z=2017-02-01&g=2017-02-01), onderscheidenlijk [79](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&hoofdstuk=9&paragraaf=2&artikel=79&z=2017-02-01&g=2017-02-01) door de afnemer met behulp van op de kalvergierbewerkingsinstallatie aangebrachte automatische bemonsteringsapparatuur en automatische verpakkingsapparatuur als bedoeld in [artikel 78, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&hoofdstuk=9&paragraaf=2&artikel=78&z=2017-02-01&g=2017-02-01), onderscheidenlijk [artikel 79, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&hoofdstuk=9&paragraaf=2&artikel=79&z=2017-02-01&g=2017-02-01).
 
-3. In het [artikel 59b, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&hoofdstuk=8&paragraaf=1&artikel=59b&z=2017-01-01&g=2017-01-01), bedoelde geval:
+3. In het [artikel 59b, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&hoofdstuk=8&paragraaf=1&artikel=59b&z=2017-02-01&g=2017-02-01), bedoelde geval:
 
-- a. kan het gewicht van de hoeveelheid dierlijke mest, bedoeld in [artikel 76, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&hoofdstuk=9&paragraaf=2&artikel=76&z=2017-01-01&g=2017-01-01), door de intermediair ook worden bepaald met behulp van een in de pijpleiding aangebracht apparaat ter bepaling van het volume dat voldoet aan de bij of krachtens de [Metrologiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0019517) gestelde regels, waarbij het gemeten volume naar gewicht omgerekend wordt aan de hand van de dichtheid, en
+- a. kan het gewicht van de hoeveelheid dierlijke mest, bedoeld in [artikel 76, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&hoofdstuk=9&paragraaf=2&artikel=76&z=2017-02-01&g=2017-02-01), door de intermediair ook worden bepaald met behulp van een in de pijpleiding aangebracht apparaat ter bepaling van het volume dat voldoet aan de bij of krachtens de [Metrologiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0019517) gestelde regels, waarbij het gemeten volume naar gewicht omgerekend wordt aan de hand van de dichtheid, en
 
-- b. geschieden de bemonstering en de verpakking van de genomen monsters, in afwijking van [artikel 77, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&hoofdstuk=9&paragraaf=2&artikel=77&z=2017-01-01&g=2017-01-01), in samenhang met [artikel 78](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&hoofdstuk=9&paragraaf=2&artikel=78&z=2017-01-01&g=2017-01-01), onderscheidenlijk [79](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&hoofdstuk=9&paragraaf=2&artikel=79&z=2017-01-01&g=2017-01-01), door de vervoerder, met behulp van op de pijpleiding aangebrachte automatische bemonsteringsapparatuur, waarmee uit het totale van één leverancier aangevoerde volume drijfmest van maximaal 36 ton dat wordt vervoerd door de pijpleiding, een representatief monster wordt genomen.
+- b. geschieden de bemonstering en de verpakking van de genomen monsters, in afwijking van [artikel 77, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&hoofdstuk=9&paragraaf=2&artikel=77&z=2017-02-01&g=2017-02-01), in samenhang met [artikel 78](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&hoofdstuk=9&paragraaf=2&artikel=78&z=2017-02-01&g=2017-02-01), onderscheidenlijk [79](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&hoofdstuk=9&paragraaf=2&artikel=79&z=2017-02-01&g=2017-02-01), door de vervoerder, met behulp van op de pijpleiding aangebrachte automatische bemonsteringsapparatuur, waarmee uit het totale van één leverancier aangevoerde volume drijfmest van maximaal 36 ton dat wordt vervoerd door de pijpleiding, een representatief monster wordt genomen.
 
-4. In het in [artikel 59a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&hoofdstuk=8&paragraaf=1&artikel=59a&z=2017-01-01&g=2017-01-01), bedoelde geval, wordt het stikstofgehalte en het fosfaatgehalte van de desbetreffende vracht dierlijke meststoffen, in afwijking van [artikel 77](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&hoofdstuk=9&paragraaf=2&artikel=77&z=2017-01-01&g=2017-01-01), bepaald door de leverancier overeenkomstig de voorschriften die zijn verbonden aan de aan hem verleende ontheffing van de [artikelen 76, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&hoofdstuk=9&paragraaf=2&artikel=76&z=2017-01-01&g=2017-01-01), en [77](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&hoofdstuk=9&paragraaf=2&artikel=77&z=2017-01-01&g=2017-01-01).
+4. In het in [artikel 59a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&hoofdstuk=8&paragraaf=1&artikel=59a&z=2017-02-01&g=2017-02-01), bedoelde geval, wordt het stikstofgehalte en het fosfaatgehalte van de desbetreffende vracht dierlijke meststoffen, in afwijking van [artikel 77](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&hoofdstuk=9&paragraaf=2&artikel=77&z=2017-02-01&g=2017-02-01), bepaald door de leverancier overeenkomstig de voorschriften die zijn verbonden aan de aan hem verleende ontheffing van de [artikelen 76, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&hoofdstuk=9&paragraaf=2&artikel=76&z=2017-02-01&g=2017-02-01), en [77](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&hoofdstuk=9&paragraaf=2&artikel=77&z=2017-02-01&g=2017-02-01).
 
-5. [Artikel 68, eerste lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0019031&artikel=68) in samenhang met de [artikelen 76](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&hoofdstuk=9&paragraaf=2&artikel=76&z=2017-01-01&g=2017-01-01) en [77](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&hoofdstuk=9&paragraaf=2&artikel=77&z=2017-01-01&g=2017-01-01), is niet van toepassing op de van een tuincentrum of een hovenier afgevoerde hoeveelheid dierlijke meststoffen naar een afnemer, niet zijnde een landbouwer of een ondernemer.
+5. [Artikel 68, eerste lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0019031&artikel=68) in samenhang met de [artikelen 76](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&hoofdstuk=9&paragraaf=2&artikel=76&z=2017-02-01&g=2017-02-01) en [77](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&hoofdstuk=9&paragraaf=2&artikel=77&z=2017-02-01&g=2017-02-01), is niet van toepassing op de van een tuincentrum of een hovenier afgevoerde hoeveelheid dierlijke meststoffen naar een afnemer, niet zijnde een landbouwer of een ondernemer.
 
 ##### Artikel 83
 
-Indien een vracht bestaat uit mestkorrels, geldt dat het gewicht, onderscheidenlijk het stikstofgehalte en het fosfaatgehalte, in afwijking van de [artikelen 76, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&hoofdstuk=9&paragraaf=2&artikel=76&z=2017-01-01&g=2017-01-01), onderscheidenlijk [77, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&hoofdstuk=9&paragraaf=2&artikel=77&z=2017-01-01&g=2017-01-01), wordt bepaald op basis van het gewicht, onderscheidenlijk het stikstofgehalte en het fosfaatgehalte, zoals dat is vermeld op de verpakking van de mestkorrels of het begeleidende document bij de mestkorrels.
+Indien een vracht bestaat uit mestkorrels, geldt dat het gewicht, onderscheidenlijk het stikstofgehalte en het fosfaatgehalte, in afwijking van de [artikelen 76, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&hoofdstuk=9&paragraaf=2&artikel=76&z=2017-02-01&g=2017-02-01), onderscheidenlijk [77, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&hoofdstuk=9&paragraaf=2&artikel=77&z=2017-02-01&g=2017-02-01), wordt bepaald op basis van het gewicht, onderscheidenlijk het stikstofgehalte en het fosfaatgehalte, zoals dat is vermeld op de verpakking van de mestkorrels of het begeleidende document bij de mestkorrels.
 
 ##### Artikel 84
 
-1. Indien dierlijke meststoffen van een bedrijf worden afgevoerd naar een ander bedrijf, kunnen de in een kalenderjaar van het bedrijf afgevoerde dierlijke meststoffen, in zoverre in afwijking van [artikel 68, eerste lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0019031&artikel=68), worden bepaald op basis van de in [bijlage I, tabel I,](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&bijlage=I&z=2017-01-01&g=2017-01-01) voor de desbetreffende mestsoort vermelde forfaitaire stikstofgehalten, onderscheidenlijk fosfaatgehalten, onder de volgende voorwaarden:
+1. Indien dierlijke meststoffen van een bedrijf worden afgevoerd naar een ander bedrijf, kunnen de in een kalenderjaar van het bedrijf afgevoerde dierlijke meststoffen, in zoverre in afwijking van [artikel 68, eerste lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0019031&artikel=68), worden bepaald op basis van de in [bijlage I, tabel I,](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&bijlage=I&z=2017-02-01&g=2017-02-01) voor de desbetreffende mestsoort vermelde forfaitaire stikstofgehalten, onderscheidenlijk fosfaatgehalten, onder de volgende voorwaarden:
 
 - a. het product van enerzijds het aantal hectaren landbouwgrond dat in dat kalenderjaar tot het bedrijf waarvan de meststoffen afkomstig zijn behoort en anderzijds het per hectare van die landbouwgrond bij of krachtens [artikel 11, eerste tot en met vijfde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004054&artikel=11), in de vorm van dierlijke meststoffen vastgestelde deel van de fosfaatgebruiksnorm, bedraagt in de jaren 2011, 2012 en 2013 ten minste 80 procent en in de jaren 2014 en volgende ten minste 75 procent van de totale hoeveelheid op dat bedrijf in dat kalenderjaar geproduceerde dierlijke meststoffen, uitgedrukt in kilogrammen fosfaat;
 
@@ -1264,7 +1270,7 @@ Indien een vracht bestaat uit mestkorrels, geldt dat het gewicht, onderscheidenl
 
 ##### Artikel 85
 
-Indien dierlijke meststoffen van een bedrijf worden afgevoerd naar een perceel dat voor de duur van ten hoogste één jaar in gebruik is gegeven aan een ander bedrijf, kan de desbetreffende hoeveelheid dierlijke meststoffen, in zoverre in afwijking van [artikel 68, eerste lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0019031&artikel=68), worden bepaald op basis van de in [bijlage I, tabel I](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&bijlage=I&z=2017-01-01&g=2017-01-01), voor de desbetreffende mestsoort vermelde forfaitaire stikstofgehalten, onderscheidenlijk fosfaatgehalten, onder de volgende voorwaarden:
+Indien dierlijke meststoffen van een bedrijf worden afgevoerd naar een perceel dat voor de duur van ten hoogste één jaar in gebruik is gegeven aan een ander bedrijf, kan de desbetreffende hoeveelheid dierlijke meststoffen, in zoverre in afwijking van [artikel 68, eerste lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0019031&artikel=68), worden bepaald op basis van de in [bijlage I, tabel I](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&bijlage=I&z=2017-02-01&g=2017-02-01), voor de desbetreffende mestsoort vermelde forfaitaire stikstofgehalten, onderscheidenlijk fosfaatgehalten, onder de volgende voorwaarden:
 
 - a. de totale hoeveelheid dierlijke meststoffen die in een kalenderjaar naar de uit gebruik gegeven percelen wordt afgevoerd bedraagt, uitgedrukt in kilogrammen fosfaat, ten hoogste het product van enerzijds het aantal hectaren landbouwgrond dat in dat kalenderjaar uit gebruik is gegeven en anderzijds het per hectare van die landbouwgrond bij of krachtens [artikel 11, eerste tot en met vijfde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004054&artikel=11), in de vorm van dierlijke meststoffen vastgestelde deel van de fosfaatgebruiksnorm;
 
@@ -1272,23 +1278,23 @@ Indien dierlijke meststoffen van een bedrijf worden afgevoerd naar een perceel d
 
 - c. het perceel behoorde de voorafgaande twee jaren tot het bedrijf waarvan de dierlijke meststoffen afkomstig zijn;
 
-- d. het perceel is overeenkomstig [artikel 41](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&hoofdstuk=5&artikel=41&z=2017-01-01&g=2017-01-01) aangemeld als behorend tot het bedrijf dat het perceel tijdelijk in gebruik heeft; en
+- d. het perceel is overeenkomstig [artikel 41](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&hoofdstuk=5&artikel=41&z=2017-02-01&g=2017-02-01) aangemeld als behorend tot het bedrijf dat het perceel tijdelijk in gebruik heeft; en
 
 - e. de overeenkomst tot ingebruikgeving is schriftelijk aangegaan.
 
 ##### Artikel 86
 
-1. Indien dierlijke meststoffen van een bedrijf worden afgevoerd naar een afnemer, die geen bedrijf of onderneming voert, kan de desbetreffende hoeveelheid dierlijke meststoffen, in zoverre in afwijking van [artikel 68, eerste lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0019031&artikel=68), worden bepaald op basis van de in [bijlage I, tabel I](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&bijlage=I&z=2017-01-01&g=2017-01-01), voor de desbetreffende mestsoort vermelde forfaitaire stikstofgehalten onderscheidenlijk fosfaatgehalten, onder de volgende voorwaarden:
+1. Indien dierlijke meststoffen van een bedrijf worden afgevoerd naar een afnemer, die geen bedrijf of onderneming voert, kan de desbetreffende hoeveelheid dierlijke meststoffen, in zoverre in afwijking van [artikel 68, eerste lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0019031&artikel=68), worden bepaald op basis van de in [bijlage I, tabel I](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&bijlage=I&z=2017-02-01&g=2017-02-01), voor de desbetreffende mestsoort vermelde forfaitaire stikstofgehalten onderscheidenlijk fosfaatgehalten, onder de volgende voorwaarden:
 
 - a. de totale hoeveelheid dierlijke meststoffen die in een kalenderjaar naar afnemers die geen bedrijf of onderneming voeren wordt afgevoerd bedraagt ten hoogste 250 kilogram fosfaat; en
 
 - b. de totale hoeveelheid dierlijke meststoffen die in een kalenderjaar naar een afnemer die geen bedrijf of onderneming voert wordt afgevoerd bedraagt ten hoogste 20 kilogram fosfaat per afnemer.
 
-2. Indien vaste dierlijke meststoffen van een intermediaire onderneming worden afgevoerd naar een afnemer die geen bedrijf of onderneming voert, kan de desbetreffende hoeveelheid meststoffen, in zoverre in afwijking van [artikel 68, eerste lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0019031&artikel=68), worden bepaald op basis van de in [bijlage I, tabel I](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&bijlage=I&z=2017-01-01&g=2017-01-01), voor de desbetreffende mestsoort vermelde forfaitaire stikstofgehalten onderscheidenlijk fosfaatgehalten, onder de voorwaarde dat de totale hoeveelheid vaste dierlijke meststoffen die in een kalenderjaar naar een dergelijke afnemer wordt afgevoerd ten hoogste 20 kilogram fosfaat per afnemer bedraagt.
+2. Indien vaste dierlijke meststoffen van een intermediaire onderneming worden afgevoerd naar een afnemer die geen bedrijf of onderneming voert, kan de desbetreffende hoeveelheid meststoffen, in zoverre in afwijking van [artikel 68, eerste lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0019031&artikel=68), worden bepaald op basis van de in [bijlage I, tabel I](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&bijlage=I&z=2017-02-01&g=2017-02-01), voor de desbetreffende mestsoort vermelde forfaitaire stikstofgehalten onderscheidenlijk fosfaatgehalten, onder de voorwaarde dat de totale hoeveelheid vaste dierlijke meststoffen die in een kalenderjaar naar een dergelijke afnemer wordt afgevoerd ten hoogste 20 kilogram fosfaat per afnemer bedraagt.
 
 ##### Artikel 87
 
-1. Indien dierlijke meststoffen van een bedrijf worden afgevoerd naar een perceel landbouwgrond dat, al dan niet gedeeltelijk, is gelegen in Duitsland of in België, kan de desbetreffende hoeveelheid dierlijke meststoffen, in zoverre in afwijking van [artikel 68, eerste lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0019031&artikel=68), worden bepaald op basis van de in [bijlage I, tabel I](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&bijlage=I&z=2017-01-01&g=2017-01-01), voor de desbetreffende mestsoort vermelde forfaitaire stikstofgehalten, onderscheidenlijk fosfaatgehalten, onder de volgende voorwaarden:
+1. Indien dierlijke meststoffen van een bedrijf worden afgevoerd naar een perceel landbouwgrond dat, al dan niet gedeeltelijk, is gelegen in Duitsland of in België, kan de desbetreffende hoeveelheid dierlijke meststoffen, in zoverre in afwijking van [artikel 68, eerste lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0019031&artikel=68), worden bepaald op basis van de in [bijlage I, tabel I](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&bijlage=I&z=2017-02-01&g=2017-02-01), voor de desbetreffende mestsoort vermelde forfaitaire stikstofgehalten, onderscheidenlijk fosfaatgehalten, onder de volgende voorwaarden:
 
 - a. de totale hoeveelheid dierlijke meststoffen die in een kalenderjaar naar de in het eerste lid bedoelde percelen wordt afgevoerd bedraagt, uitgedrukt in kilogrammen fosfaat, ten hoogste het product van het aantal hectaren in Duitsland of in België gelegen landbouwgrond en het indien de landbouwgrond in Nederland zou zijn gelegen per hectare van die landbouwgrond bij of krachtens [artikel 11, eerste tot en met vijfde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004054&artikel=11), in de vorm van dierlijke meststoffen vastgestelde deel van de fosfaatgebruiksnorm;
 
@@ -1302,7 +1308,7 @@ Indien dierlijke meststoffen van een bedrijf worden afgevoerd naar een perceel d
 
 - f. indien het perceel in Duitsland is gelegen, behoort dit perceel ingevolge eigendom of ingevolge een in Duitsland geregistreerde pachtovereenkomst toe aan het bedrijf.
 
-2. Indien dierlijke meststoffen worden afgevoerd van een bedrijf dat, al dan niet gedeeltelijk, is gelegen in Duitsland of België, naar een perceel landbouwgrond dat is gelegen in Nederland, kan de desbetreffende hoeveelheid dierlijke meststoffen, in zoverre in afwijking van [artikel 68, eerste lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0019031&artikel=68), worden bepaald op basis van de in [bijlage I, tabel I](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&bijlage=I&z=2017-01-01&g=2017-01-01), voor de desbetreffende mestsoort vermelde forfaitaire stikstofgehalten, onderscheidenlijk fosfaatgehalten, onder de volgende voorwaarden:
+2. Indien dierlijke meststoffen worden afgevoerd van een bedrijf dat, al dan niet gedeeltelijk, is gelegen in Duitsland of België, naar een perceel landbouwgrond dat is gelegen in Nederland, kan de desbetreffende hoeveelheid dierlijke meststoffen, in zoverre in afwijking van [artikel 68, eerste lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0019031&artikel=68), worden bepaald op basis van de in [bijlage I, tabel I](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&bijlage=I&z=2017-02-01&g=2017-02-01), voor de desbetreffende mestsoort vermelde forfaitaire stikstofgehalten, onderscheidenlijk fosfaatgehalten, onder de volgende voorwaarden:
 
 - a. de totale hoeveelheid dierlijke meststoffen die in een kalenderjaar naar de in de aanhef van dit lid bedoelde percelen wordt afgevoerd bedraagt, uitgedrukt in kilogrammen fosfaat, ten hoogste het product van het aantal hectaren van die percelen en het bij of krachtens [artikel 11, eerste tot en met vijfde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004054&artikel=11), in de vorm van dierlijke meststoffen vastgestelde deel van de fosfaatgebruiksnorm;
 
@@ -1316,25 +1322,25 @@ Indien dierlijke meststoffen van een bedrijf worden afgevoerd naar een perceel d
 
 ##### Artikel 88
 
-Indien dierlijke meststoffen afkomstig van konijnen, met een drogestofgehalte van ten hoogste 2,5 procent naar of van een bedrijf of onderneming worden aangevoerd, onderscheidenlijk worden afgevoerd, kan de desbetreffende hoeveelheid dierlijke meststoffen, in zoverre in afwijking van [artikel 68, eerste lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0019031&artikel=68), worden bepaald op basis van de in [bijlage I, tabel I](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&bijlage=I&z=2017-01-01&g=2017-01-01), voor de desbetreffende mestsoort vermelde forfaitaire stikstofgehalten onderscheidenlijk fosfaatgehalten.
+Indien dierlijke meststoffen afkomstig van konijnen, met een drogestofgehalte van ten hoogste 2,5 procent naar of van een bedrijf of onderneming worden aangevoerd, onderscheidenlijk worden afgevoerd, kan de desbetreffende hoeveelheid dierlijke meststoffen, in zoverre in afwijking van [artikel 68, eerste lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0019031&artikel=68), worden bepaald op basis van de in [bijlage I, tabel I](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&bijlage=I&z=2017-02-01&g=2017-02-01), voor de desbetreffende mestsoort vermelde forfaitaire stikstofgehalten onderscheidenlijk fosfaatgehalten.
 
 ##### Artikel 89
 
-1. Indien dierlijke meststoffen afkomstig van paarden of pony's van een bedrijf worden afgevoerd naar een intermediaire onderneming waar tussenopslag van maximaal 48 uur van deze meststoffen plaatsvindt voordat deze meststoffen worden afgevoerd naar een onderneming waar deze meststoffen worden gebruikt voor de productie van substraat voor de teelt van champignons of van een grondstof voor de productie van dat substraat, kan de desbetreffende hoeveelheid dierlijke meststoffen, in zoverre in afwijking van [artikel 68, eerste lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0019031&artikel=68), worden bepaald op basis van de in [bijlage I, tabel II](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&bijlage=I&z=2017-01-01&g=2017-01-01), voor de desbetreffende mestsoort vermelde forfaitaire stikstofgehalten, onderscheidenlijk fosfaatgehalten.
+1. Indien dierlijke meststoffen afkomstig van paarden of pony's van een bedrijf worden afgevoerd naar een intermediaire onderneming waar tussenopslag van maximaal 48 uur van deze meststoffen plaatsvindt voordat deze meststoffen worden afgevoerd naar een onderneming waar deze meststoffen worden gebruikt voor de productie van substraat voor de teelt van champignons of van een grondstof voor de productie van dat substraat, kan de desbetreffende hoeveelheid dierlijke meststoffen, in zoverre in afwijking van [artikel 68, eerste lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0019031&artikel=68), worden bepaald op basis van de in [bijlage I, tabel II](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&bijlage=I&z=2017-02-01&g=2017-02-01), voor de desbetreffende mestsoort vermelde forfaitaire stikstofgehalten, onderscheidenlijk fosfaatgehalten.
 
-2. Indien de in het eerste lid bedoelde dierlijke meststoffen die in tussenopslag hebben gelegen van de intermediaire onderneming worden afgevoerd naar een onderneming waar deze meststoffen worden gebruikt voor de productie van het in het eerst lid bedoelde substraat of grondstof, kan de desbetreffende hoeveelheid dierlijke meststoffen, in zoverre in afwijking van [artikel 68, eerste lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0019031&artikel=68), worden bepaald op basis van de in [bijlage I, tabel II](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&bijlage=I&z=2017-01-01&g=2017-01-01), voor de desbetreffende mestsoort vermelde forfaitaire stikstofgehalten, onderscheidenlijk fosfaatgehalten.
+2. Indien de in het eerste lid bedoelde dierlijke meststoffen die in tussenopslag hebben gelegen van de intermediaire onderneming worden afgevoerd naar een onderneming waar deze meststoffen worden gebruikt voor de productie van het in het eerst lid bedoelde substraat of grondstof, kan de desbetreffende hoeveelheid dierlijke meststoffen, in zoverre in afwijking van [artikel 68, eerste lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0019031&artikel=68), worden bepaald op basis van de in [bijlage I, tabel II](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&bijlage=I&z=2017-02-01&g=2017-02-01), voor de desbetreffende mestsoort vermelde forfaitaire stikstofgehalten, onderscheidenlijk fosfaatgehalten.
 
-3. Indien dierlijke meststoffen afkomstig van paarden of pony's van een bedrijf worden afgevoerd naar een onderneming waar deze meststoffen worden gebruikt voor de productie van substraat voor de teelt van champignons of van een grondstof voor de productie van substraat, kan de desbetreffende hoeveelheid dierlijke meststoffen, in zoverre in afwijking van [artikel 68, eerste lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0019031&artikel=68), worden bepaald op basis van de in [bijlage I, tabel II](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&bijlage=I&z=2017-01-01&g=2017-01-01), voor de desbetreffende mestsoort vermelde forfaitaire stikstofgehalten, onderscheidenlijk fosfaatgehalten.
+3. Indien dierlijke meststoffen afkomstig van paarden of pony's van een bedrijf worden afgevoerd naar een onderneming waar deze meststoffen worden gebruikt voor de productie van substraat voor de teelt van champignons of van een grondstof voor de productie van substraat, kan de desbetreffende hoeveelheid dierlijke meststoffen, in zoverre in afwijking van [artikel 68, eerste lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0019031&artikel=68), worden bepaald op basis van de in [bijlage I, tabel II](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&bijlage=I&z=2017-02-01&g=2017-02-01), voor de desbetreffende mestsoort vermelde forfaitaire stikstofgehalten, onderscheidenlijk fosfaatgehalten.
 
-4. Indien het in het derde lid bedoelde substraat van een onderneming of een bedrijf wordt afgevoerd naar een bedrijf waar dit substraat wordt gebruikt voor de teelt van champignons, kan de desbetreffende hoeveelheid dierlijke meststoffen, in zoverre in afwijking van [artikel 68, eerste lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0019031&artikel=68), worden bepaald op basis van de in [bijlage I, tabel II](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&bijlage=I&z=2017-01-01&g=2017-01-01), voor de desbetreffende mestsoort vermelde forfaitaire stikstofgehalten, onderscheidenlijk fosfaatgehalten.
+4. Indien het in het derde lid bedoelde substraat van een onderneming of een bedrijf wordt afgevoerd naar een bedrijf waar dit substraat wordt gebruikt voor de teelt van champignons, kan de desbetreffende hoeveelheid dierlijke meststoffen, in zoverre in afwijking van [artikel 68, eerste lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0019031&artikel=68), worden bepaald op basis van de in [bijlage I, tabel II](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&bijlage=I&z=2017-02-01&g=2017-02-01), voor de desbetreffende mestsoort vermelde forfaitaire stikstofgehalten, onderscheidenlijk fosfaatgehalten.
 
-5. Indien het in het vierde lid bedoelde substraat in de vorm van champost van een bedrijf wordt afgevoerd naar een ander bedrijf, kan de desbetreffende hoeveelheid dierlijke meststoffen, in zoverre in afwijking van [artikel 68, eerste lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0019031&artikel=68), worden bepaald op basis van de in [bijlage I, tabel II](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&bijlage=I&z=2017-01-01&g=2017-01-01), voor de desbetreffende mestsoort vermelde forfaitaire stikstofgehalten, onderscheidenlijk fosfaatgehalten.
+5. Indien het in het vierde lid bedoelde substraat in de vorm van champost van een bedrijf wordt afgevoerd naar een ander bedrijf, kan de desbetreffende hoeveelheid dierlijke meststoffen, in zoverre in afwijking van [artikel 68, eerste lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0019031&artikel=68), worden bepaald op basis van de in [bijlage I, tabel II](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&bijlage=I&z=2017-02-01&g=2017-02-01), voor de desbetreffende mestsoort vermelde forfaitaire stikstofgehalten, onderscheidenlijk fosfaatgehalten.
 
-6. Indien het in het vierde lid bedoelde substraat in de vorm van champost van een bedrijf wordt overgebracht uit Nederland, kan de desbetreffende hoeveelheid dierlijke meststoffen, in zoverre in afwijking van [artikel 68, eerste lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0019031&artikel=68), worden bepaald op basis van de in [bijlage I, tabel II](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&bijlage=I&z=2017-01-01&g=2017-01-01), voor de desbetreffende mestsoort vermelde forfaitaire stikstofgehalten, onderscheidenlijk fosfaatgehalten.
+6. Indien het in het vierde lid bedoelde substraat in de vorm van champost van een bedrijf wordt overgebracht uit Nederland, kan de desbetreffende hoeveelheid dierlijke meststoffen, in zoverre in afwijking van [artikel 68, eerste lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0019031&artikel=68), worden bepaald op basis van de in [bijlage I, tabel II](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&bijlage=I&z=2017-02-01&g=2017-02-01), voor de desbetreffende mestsoort vermelde forfaitaire stikstofgehalten, onderscheidenlijk fosfaatgehalten.
 
 ##### Artikel 90
 
-Indien dierlijke meststoffen van een bedrijf als bedoeld in [artikel 43, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&hoofdstuk=5&artikel=43&z=2017-01-01&g=2017-01-01), worden afgevoerd naar een ander bedrijf, kan de desbetreffende hoeveelheid dierlijke meststoffen, in zoverre in afwijking van [artikel 68, eerste lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0019031&artikel=68), worden bepaald op basis van de in [bijlage I, tabel I](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&bijlage=I&z=2017-01-01&g=2017-01-01), voor de desbetreffende mestsoort vermelde forfaitaire stikstofgehalten onderscheidenlijk fosfaatgehalten, onder de volgende voorwaarden:
+Indien dierlijke meststoffen van een bedrijf als bedoeld in [artikel 43, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&hoofdstuk=5&artikel=43&z=2017-02-01&g=2017-02-01), worden afgevoerd naar een ander bedrijf, kan de desbetreffende hoeveelheid dierlijke meststoffen, in zoverre in afwijking van [artikel 68, eerste lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0019031&artikel=68), worden bepaald op basis van de in [bijlage I, tabel I](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&bijlage=I&z=2017-02-01&g=2017-02-01), voor de desbetreffende mestsoort vermelde forfaitaire stikstofgehalten onderscheidenlijk fosfaatgehalten, onder de volgende voorwaarden:
 
 - a. de hoeveelheid dierlijke meststoffen is afkomstig van de op het bedrijf gehouden, dan wel anderszins aanwezige dieren;
 
@@ -1344,7 +1350,7 @@ Indien dierlijke meststoffen van een bedrijf als bedoeld in [artikel 43, eerste 
 
 ##### Artikel 91
 
-Indien dierlijke meststoffen van een bedrijf worden afgevoerd naar een natuurterrein of overige grond als bedoeld in [artikel 1, eerste lid, onderdeel b, onderscheidenlijk onderdeel d, van het Besluit gebruik meststoffen](https://wetten.overheid.nl/jci1.3:c:BWBR0009066&artikel=1), waarvan de desbetreffende landbouwer het exclusieve gebruiksrecht heeft, kan de desbetreffende hoeveelheid dierlijke meststoffen, in zoverre in afwijking van [artikel 68, eerste lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0019031&artikel=68), worden bepaald op basis van de in [bijlage I, tabel I](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&bijlage=I&z=2017-01-01&g=2017-01-01), voor de desbetreffende mestsoort vermelde forfaitaire stikstofgehalten, onderscheidenlijk fosfaatgehalten, onder de volgende voorwaarden:
+Indien dierlijke meststoffen van een bedrijf worden afgevoerd naar een natuurterrein of overige grond als bedoeld in [artikel 1, eerste lid, onderdeel b, onderscheidenlijk onderdeel d, van het Besluit gebruik meststoffen](https://wetten.overheid.nl/jci1.3:c:BWBR0009066&artikel=1), waarvan de desbetreffende landbouwer het exclusieve gebruiksrecht heeft, kan de desbetreffende hoeveelheid dierlijke meststoffen, in zoverre in afwijking van [artikel 68, eerste lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0019031&artikel=68), worden bepaald op basis van de in [bijlage I, tabel I](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&bijlage=I&z=2017-02-01&g=2017-02-01), voor de desbetreffende mestsoort vermelde forfaitaire stikstofgehalten, onderscheidenlijk fosfaatgehalten, onder de volgende voorwaarden:
 
 - a. de totale hoeveelheid dierlijke meststoffen die in een kalenderjaar naar het natuurterrein wordt afgevoerd, bedraagt uitgedrukt in kilogrammen fosfaat, ten hoogste het product van het aantal hectaren natuurterrein en de hoeveelheid fosfaat die ingevolge [artikel 2, derde en vierde lid, van het Besluit gebruik meststoffen](https://wetten.overheid.nl/jci1.3:c:BWBR0009066&artikel=2) per hectare van dat natuurterrein mag worden gebruikt; en
 
@@ -1356,13 +1362,13 @@ Indien dierlijke meststoffen van een bedrijf worden afgevoerd naar een natuurter
 
 1. Het gewicht van de van een bedrijf of onderneming in het kader waarvan meststoffen worden verhandeld afgevoerde, de op een bedrijf of onderneming in het kader waarvan meststoffen worden verhandeld aangevoerde en de binnen een intermediaire onderneming vervoerde hoeveelheid zuiveringsslib of compost, bedoeld in [artikel 68, eerste lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0019031&artikel=68), wordt door de vervoerder van de desbetreffende meststoffen bepaald door middel van weging met behulp van een weegwerktuig.
 
-2. Het stikstofgehalte en het fosfaatgehalte van de van een bedrijf of onderneming in het kader waarvan meststoffen worden verhandeld, afgevoerde, of de op een bedrijf of onderneming in het kader waarvan meststoffen worden verhandeld, aangevoerde en de binnen een intermediaire onderneming vervoerde hoeveelheid zuiveringsslib of compost, bedoeld in [artikel 68, eerste lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0019031&artikel=68), komt overeen met het stikstofgehalte en het fosfaatgehalte zoals dat voor de hoeveelheid zuiveringsslib of compost waaruit de desbetreffende vracht afkomstig is, overeenkomstig de [artikelen 92a](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&hoofdstuk=9&paragraaf=3&artikel=92a&z=2017-01-01&g=2017-01-01) en [92b](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&hoofdstuk=9&paragraaf=3&artikel=92b&z=2017-01-01&g=2017-01-01) is vastgesteld.
+2. Het stikstofgehalte en het fosfaatgehalte van de van een bedrijf of onderneming in het kader waarvan meststoffen worden verhandeld, afgevoerde, of de op een bedrijf of onderneming in het kader waarvan meststoffen worden verhandeld, aangevoerde en de binnen een intermediaire onderneming vervoerde hoeveelheid zuiveringsslib of compost, bedoeld in [artikel 68, eerste lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0019031&artikel=68), komt overeen met het stikstofgehalte en het fosfaatgehalte zoals dat voor de hoeveelheid zuiveringsslib of compost waaruit de desbetreffende vracht afkomstig is, overeenkomstig de [artikelen 92a](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&hoofdstuk=9&paragraaf=3&artikel=92a&z=2017-02-01&g=2017-02-01) en [92b](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&hoofdstuk=9&paragraaf=3&artikel=92b&z=2017-02-01&g=2017-02-01) is vastgesteld.
 
 ##### Artikel 93
 
 1. Het gewicht van de van een bedrijf of onderneming in het kader waarvan meststoffen worden verhandeld afgevoerde, de op een bedrijf of onderneming in het kader waarvan meststoffen worden verhandeld aangevoerde en de binnen een intermediaire onderneming vervoerde hoeveelheid andere meststoffen dan dierlijke meststoffen, zuiveringsslib of compost, bedoeld in [artikel 68, eerste lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0019031&artikel=68), wordt bepaald door middel van weging met behulp van een weegwerktuig.
 
-2. Het stikstofgehalte en het fosfaatgehalte van de van een bedrijf of onderneming in het kader waarvan meststoffen worden verhandeld afgevoerde of de op een bedrijf of intermediaire onderneming aangevoerde en de binnen een intermediaire onderneming vervoerde hoeveelheid andere meststoffen dan dierlijke meststoffen, zuiveringsslib of compost, bedoeld in [artikel 68, eerste lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0019031&artikel=68), worden bepaald overeenkomstig [artikel 17](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&hoofdstuk=2&artikel=17&z=2017-01-01&g=2017-01-01) door bemonstering en analyse.
+2. Het stikstofgehalte en het fosfaatgehalte van de van een bedrijf of onderneming in het kader waarvan meststoffen worden verhandeld afgevoerde of de op een bedrijf of intermediaire onderneming aangevoerde en de binnen een intermediaire onderneming vervoerde hoeveelheid andere meststoffen dan dierlijke meststoffen, zuiveringsslib of compost, bedoeld in [artikel 68, eerste lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0019031&artikel=68), worden bepaald overeenkomstig [artikel 17](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&hoofdstuk=2&artikel=17&z=2017-02-01&g=2017-02-01) door bemonstering en analyse.
 
 3. In voorkomend geval geldt dat het gewicht, onderscheidenlijk het stikstofgehalte en het fosfaatgehalte, van de in eerste en tweede lid bedoelde meststoffen overeenkomen met het gewicht, onderscheidenlijk het stikstofgehalte en het fosfaatgehalte, zoals vermeld op de verpakking van of het begeleidende document bij de desbetreffende meststoffen.
 
@@ -1376,7 +1382,7 @@ Indien dierlijke meststoffen van een bedrijf worden afgevoerd naar een natuurter
 
 2. Het stikstofgehalte en het fosfaatgehalte in de op een bedrijf opgeslagen hoeveelheid dierlijke meststoffen, bedoeld in [artikel 68, derde lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0019031&artikel=68), worden bepaald op basis van de best beschikbare gegevens.
 
-3. Het gewicht, onderscheidenlijk het stikstofgehalte en het fosfaatgehalte van de op een intermediaire onderneming opgeslagen hoeveelheid dierlijke meststoffen, bedoeld in [artikel 68, vijfde lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0019031&artikel=68), komt overeen met de onderscheiden hoeveelheden die met gebruikmaking van het in [artikel 46, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&hoofdstuk=6&artikel=46&z=2017-01-01&g=2017-01-01), genoemde formulier, respectievelijk in [artikel 46, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&hoofdstuk=6&artikel=46&z=2017-01-01&g=2017-01-01), genoemde andere gegevensdragers zijn berekend.
+3. Het gewicht, onderscheidenlijk het stikstofgehalte en het fosfaatgehalte van de op een intermediaire onderneming opgeslagen hoeveelheid dierlijke meststoffen, bedoeld in [artikel 68, vijfde lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0019031&artikel=68), komt overeen met de onderscheiden hoeveelheden die met gebruikmaking van het in [artikel 46, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&hoofdstuk=6&artikel=46&z=2017-02-01&g=2017-02-01), genoemde formulier, respectievelijk in [artikel 46, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&hoofdstuk=6&artikel=46&z=2017-02-01&g=2017-02-01), genoemde andere gegevensdragers zijn berekend.
 
 4. Onverminderd het eerste tot en met het derde lid, is de aan het begin van het kalenderjaar opgeslagen hoeveelheid dierlijke meststoffen, gelijk aan de aan het einde van het voorafgaande kalenderjaar opgeslagen hoeveelheid dierlijke meststoffen.
 
@@ -1386,7 +1392,7 @@ Indien dierlijke meststoffen van een bedrijf worden afgevoerd naar een natuurter
 
 2. Het stikstofgehalte en het fosfaatgehalte in de op een bedrijf opgeslagen hoeveelheid zuiveringsslib of compost, bedoeld in [artikel 68, vierde en vijfde lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0019031&artikel=68) worden bepaald op basis van de best beschikbare gegevens.
 
-3. Het gewicht, onderscheidenlijk het stikstofgehalte en het fosfaatgehalte van de op een onderneming in het kader waarvan meststoffen worden verhandeld opgeslagen hoeveelheid zuiveringsslib of compost, bedoeld in [artikel 68, vijfde lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0019031&artikel=68), komen overeen met de onderscheiden hoeveelheden die met gebruikmaking van het in [artikel 46, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&hoofdstuk=6&artikel=46&z=2017-01-01&g=2017-01-01), of [artikel 51, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&hoofdstuk=7&artikel=51&z=2017-01-01&g=2017-01-01), bedoelde formulier, of de in artikel 46, tweede lid genoemde andere gegevensdragers zijn berekend.
+3. Het gewicht, onderscheidenlijk het stikstofgehalte en het fosfaatgehalte van de op een onderneming in het kader waarvan meststoffen worden verhandeld opgeslagen hoeveelheid zuiveringsslib of compost, bedoeld in [artikel 68, vijfde lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0019031&artikel=68), komen overeen met de onderscheiden hoeveelheden die met gebruikmaking van het in [artikel 46, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&hoofdstuk=6&artikel=46&z=2017-02-01&g=2017-02-01), of [artikel 51, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&hoofdstuk=7&artikel=51&z=2017-02-01&g=2017-02-01), bedoelde formulier, of de in artikel 46, tweede lid genoemde andere gegevensdragers zijn berekend.
 
 4. Het gewicht, onderscheidenlijk het stikstofgehalte en het fosfaatgehalte van de op een bedrijf of een onderneming in het kader waarvan meststoffen worden verhandeld opgeslagen meststoffen anders dan dierlijke meststoffen, zuiveringsslib of compost, bedoeld in [artikel 68, vierde en vijfde lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0019031&artikel=68), komen overeen met het gewicht onderscheidenlijk het stikstofgehalte en het fosfaatgehalte, zoals vermeld op de verpakking van of het begeleidende document bij de desbetreffende meststoffen. Ingeval van bulkopslag van de desbetreffende meststoffen wordt het gewicht bepaald op basis van meting van het volume en het soortelijk gewicht van deze meststoffen
 
@@ -1396,7 +1402,7 @@ Indien dierlijke meststoffen van een bedrijf worden afgevoerd naar een natuurter
 
 ##### Artikel 96
 
-Als forfaitaire stikstofgehalten als bedoeld in [artikel 67, vijfde lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0019031&artikel=67) worden vastgesteld de gehalten, uitgedrukt in kilogrammen stikstof per dier per jaar, die in [bijlage D, tabel I, kolom D](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&bijlage=D&z=2017-01-01&g=2017-01-01), voor de onderscheiden diersoorten en diercategorieën en toegepaste huisvestingssysteem zijn vermeld.
+Als forfaitaire stikstofgehalten als bedoeld in [artikel 67, vijfde lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0019031&artikel=67) worden vastgesteld de gehalten, uitgedrukt in kilogrammen stikstof per dier per jaar, die in [bijlage D, tabel I, kolom D](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&bijlage=D&z=2017-02-01&g=2017-02-01), voor de onderscheiden diersoorten en diercategorieën en toegepaste huisvestingssysteem zijn vermeld.
 
 #### § 5. Gasvormige verliezen
 
@@ -1406,15 +1412,15 @@ Als forfaitaire stikstofgehalten als bedoeld in [artikel 67, vijfde lid, van het
 
 - a. bepaalt het gewicht van de desbetreffende hoeveelheid diervoeders door middel van weging met behulp van een weegwerktuig; en
 
-- b. stelt het stikstofgehalte, het fosfaatgehalte en indien van toepassing het droge stofgehalte in de desbetreffende hoeveelheid diervoeders vast overeenkomstig [artikel 98](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&hoofdstuk=9&paragraaf=6&artikel=98&z=2017-01-01&g=2017-01-01).
+- b. stelt het stikstofgehalte, het fosfaatgehalte en indien van toepassing het droge stofgehalte in de desbetreffende hoeveelheid diervoeders vast overeenkomstig [artikel 98](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&hoofdstuk=9&paragraaf=6&artikel=98&z=2017-02-01&g=2017-02-01).
 
-2. Indien het ruwvoer en enkelvoudig diervoeder zoals vermeld in [bijlage J](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&bijlage=J&z=2017-01-01&g=2017-01-01) betreft, kunnen in afwijking van het eerste lid, het gewicht worden bepaald op basis van meting van het volume en het soortelijk gewicht van deze diervoeders en kunnen als het stikstofgehalte en het fosfaatgehalte worden vastgesteld het stikstofgehalte en het fosfaatgehalte per kilogram diervoeder, die voor de onderscheiden soorten ruwvoer of enkelvoudig diervoeder zijn vermeld in [bijlage J](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&bijlage=J&z=2017-01-01&g=2017-01-01).
+2. Indien het ruwvoer en enkelvoudig diervoeder zoals vermeld in [bijlage J](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&bijlage=J&z=2017-02-01&g=2017-02-01) betreft, kunnen in afwijking van het eerste lid, het gewicht worden bepaald op basis van meting van het volume en het soortelijk gewicht van deze diervoeders en kunnen als het stikstofgehalte en het fosfaatgehalte worden vastgesteld het stikstofgehalte en het fosfaatgehalte per kilogram diervoeder, die voor de onderscheiden soorten ruwvoer of enkelvoudig diervoeder zijn vermeld in [bijlage J](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&bijlage=J&z=2017-02-01&g=2017-02-01).
 
 ##### Artikel 98
 
-1. Het stikstofgehalte en het fosfaatgehalte in diervoeders met een vochtgehalte groter dan veertien procent wordt vastgesteld overeenkomstig het protocol, opgenomen in [bijlage K, onderdeel I](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&bijlage=K&z=2017-01-01&g=2017-01-01), op basis van:
+1. Het stikstofgehalte en het fosfaatgehalte in diervoeders met een vochtgehalte groter dan veertien procent wordt vastgesteld overeenkomstig het protocol, opgenomen in [bijlage K, onderdeel I](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&bijlage=K&z=2017-02-01&g=2017-02-01), op basis van:
 
-- a. de resultaten van de overeenkomstig het protocol dat is opgenomen in [bijlage K, onderdeel II](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&bijlage=K&z=2017-01-01&g=2017-01-01), uitgevoerde bemonstering en analyse van de diervoeders; of
+- a. de resultaten van de overeenkomstig het protocol dat is opgenomen in [bijlage K, onderdeel II](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&bijlage=K&z=2017-02-01&g=2017-02-01), uitgevoerde bemonstering en analyse van de diervoeders; of
 
 - b. indien het mengvoeders betreft, de berekeningen uitgaande van de bekende gehalten van de nutriënten in de grondstoffen waaruit de diervoeders zijn bereid en het aandeel van deze stoffen in het eindproduct en rekening houdend met de aard van het productieproces.
 
@@ -1430,13 +1436,13 @@ Als forfaitaire stikstofgehalten als bedoeld in [artikel 67, vijfde lid, van het
 
 5. Het resultaat van de analyse wordt door het laboratorium beoordeeld in het licht van de herhaalbaarheid, aangegeven in de betreffende analysemethode. Indien de norm voor herhaalbaarheid wordt overschreden, voert het laboratorium een herhalingsonderzoek op het monster uit.
 
-6. Het laboratorium zendt de resultaten van de analyse binnen één week na ontvangst van het monster naar de ondernemer, bedoeld in [artikel 97, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&hoofdstuk=9&paragraaf=6&artikel=97&z=2017-01-01&g=2017-01-01).
+6. Het laboratorium zendt de resultaten van de analyse binnen één week na ontvangst van het monster naar de ondernemer, bedoeld in [artikel 97, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&hoofdstuk=9&paragraaf=6&artikel=97&z=2017-02-01&g=2017-02-01).
 
 ##### Artikel 99
 
-1. De ondernemer, bedoeld in [artikel 97](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&hoofdstuk=9&paragraaf=6&artikel=97&z=2017-01-01&g=2017-01-01), vermeldt bij aflevering van diervoeders aan een bedrijf op het etiket of het begeleidend document:
+1. De ondernemer, bedoeld in [artikel 97](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&hoofdstuk=9&paragraaf=6&artikel=97&z=2017-02-01&g=2017-02-01), vermeldt bij aflevering van diervoeders aan een bedrijf op het etiket of het begeleidend document:
 
-- a. het overeenkomstig [artikel 97](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&hoofdstuk=9&paragraaf=6&artikel=97&z=2017-01-01&g=2017-01-01) in samenhang met [artikel 98](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&hoofdstuk=9&paragraaf=6&artikel=98&z=2017-01-01&g=2017-01-01) vastgestelde stikstofgehalte en het fosfaatgehalte in het product;
+- a. het overeenkomstig [artikel 97](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&hoofdstuk=9&paragraaf=6&artikel=97&z=2017-02-01&g=2017-02-01) in samenhang met [artikel 98](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&hoofdstuk=9&paragraaf=6&artikel=98&z=2017-02-01&g=2017-02-01) vastgestelde stikstofgehalte en het fosfaatgehalte in het product;
 
 - b. voor diervoeder met een vochtgehalte groter dan veertien procent, het droge stofgehalte dan wel het vochtgehalte en het stikstofgehalte en het fosfaatgehalte in de droge stof van het desbetreffende diervoeder;
 
@@ -1456,27 +1462,27 @@ Als forfaitaire stikstofgehalten als bedoeld in [artikel 67, vijfde lid, van het
 
 ##### Artikel 100
 
-Het gewicht, onderscheidenlijk het stikstofgehalte en het fosfaatgehalte van de op een bedrijf aan- of afgevoerde, dan wel de aanwezige voorraden diervoeders, bedoeld in [artikel 67, eerste lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0019031&artikel=67), anders dan ruwvoer en enkelvoudig diervoeder zoals vermeld in [bijlage J](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&bijlage=J&z=2017-01-01&g=2017-01-01), komen overeen met het gewicht onderscheidenlijk het stikstofgehalte en het fosfaatgehalte, zoals vermeld op de verpakking van of het begeleidende document bij de desbetreffende diervoeders, bedoeld in [artikel 99, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&hoofdstuk=9&paragraaf=6&artikel=99&z=2017-01-01&g=2017-01-01), dan wel met het stikstofgehalte en het fosfaatgehalte zoals deze ingevolge [artikel 99, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&hoofdstuk=9&paragraaf=6&artikel=99&z=2017-01-01&g=2017-01-01), schriftelijk zijn verstrekt. Ingeval van bulkopslag van de desbetreffende diervoeders wordt het gewicht van de aanwezige voorraden diervoeders bepaald op basis van meting van het volume en het soortelijk gewicht van deze diervoeders.
+Het gewicht, onderscheidenlijk het stikstofgehalte en het fosfaatgehalte van de op een bedrijf aan- of afgevoerde, dan wel de aanwezige voorraden diervoeders, bedoeld in [artikel 67, eerste lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0019031&artikel=67), anders dan ruwvoer en enkelvoudig diervoeder zoals vermeld in [bijlage J](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&bijlage=J&z=2017-02-01&g=2017-02-01), komen overeen met het gewicht onderscheidenlijk het stikstofgehalte en het fosfaatgehalte, zoals vermeld op de verpakking van of het begeleidende document bij de desbetreffende diervoeders, bedoeld in [artikel 99, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&hoofdstuk=9&paragraaf=6&artikel=99&z=2017-02-01&g=2017-02-01), dan wel met het stikstofgehalte en het fosfaatgehalte zoals deze ingevolge [artikel 99, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&hoofdstuk=9&paragraaf=6&artikel=99&z=2017-02-01&g=2017-02-01), schriftelijk zijn verstrekt. Ingeval van bulkopslag van de desbetreffende diervoeders wordt het gewicht van de aanwezige voorraden diervoeders bepaald op basis van meting van het volume en het soortelijk gewicht van deze diervoeders.
 
 ##### Artikel 101
 
-1. Het gewicht van het in [artikel 67, eerste lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0019031&artikel=67) bedoelde op een bedrijf aan- of afgevoerde ruwvoer en enkelvoudig diervoeder zoals vermeld in [bijlage J](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&bijlage=J&z=2017-01-01&g=2017-01-01), wordt bepaald door middel van weging met behulp van een weegwerktuig, dan wel door middel van meting van het volume en het soortelijk gewicht.
+1. Het gewicht van het in [artikel 67, eerste lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0019031&artikel=67) bedoelde op een bedrijf aan- of afgevoerde ruwvoer en enkelvoudig diervoeder zoals vermeld in [bijlage J](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&bijlage=J&z=2017-02-01&g=2017-02-01), wordt bepaald door middel van weging met behulp van een weegwerktuig, dan wel door middel van meting van het volume en het soortelijk gewicht.
 
-2. Als het gewicht per hectare van het in [artikel 67, tweede lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0019031&artikel=67) bedoelde op het bedrijf geproduceerde ruwvoer en enkelvoudig diervoeder zoals vermeld in [bijlage J](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&bijlage=J&z=2017-01-01&g=2017-01-01), wordt vastgesteld het gewicht dat voor de onderscheiden soorten ruwvoer en enkelvoudig diervoer in die bijlage is vermeld.
+2. Als het gewicht per hectare van het in [artikel 67, tweede lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0019031&artikel=67) bedoelde op het bedrijf geproduceerde ruwvoer en enkelvoudig diervoeder zoals vermeld in [bijlage J](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&bijlage=J&z=2017-02-01&g=2017-02-01), wordt vastgesteld het gewicht dat voor de onderscheiden soorten ruwvoer en enkelvoudig diervoer in die bijlage is vermeld.
 
-3. Als het stikstofgehalte en het fosfaatgehalte in het op een bedrijf aan- of afgevoerde, dan wel de aanwezige voorraden ruwvoer en enkelvoudig diervoeder, bedoeld in [artikel 67, eerste lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0019031&artikel=67), en het op het bedrijf geproduceerde ruwvoer en enkelvoudig diervoeder, bedoeld in[artikel 67, tweede lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0019031&artikel=67), worden vastgesteld het stikstofgehalte en het fosfaatgehalte per kilogram diervoeder, die voor de onderscheiden soorten ruwvoer of enkelvoudig diervoeder zijn vermeld in [bijlage J](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&bijlage=J&z=2017-01-01&g=2017-01-01).
+3. Als het stikstofgehalte en het fosfaatgehalte in het op een bedrijf aan- of afgevoerde, dan wel de aanwezige voorraden ruwvoer en enkelvoudig diervoeder, bedoeld in [artikel 67, eerste lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0019031&artikel=67), en het op het bedrijf geproduceerde ruwvoer en enkelvoudig diervoeder, bedoeld in[artikel 67, tweede lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0019031&artikel=67), worden vastgesteld het stikstofgehalte en het fosfaatgehalte per kilogram diervoeder, die voor de onderscheiden soorten ruwvoer of enkelvoudig diervoeder zijn vermeld in [bijlage J](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&bijlage=J&z=2017-02-01&g=2017-02-01).
 
 #### § 1. Mestproductie
 
 ##### Artikel 102
 
-1. Als forfaitaire stikstofgehalten en fosfaatgehalten per dier of per kilogram levend gewicht als bedoeld in [artikel 67, derde lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0019031&artikel=67) worden voor de onderscheiden diersoorten en diercategorieën vastgesteld, de forfaitaire gehalten die zijn vermeld in [bijlage D, tabel III](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&bijlage=D&z=2017-01-01&g=2017-01-01).
+1. Als forfaitaire stikstofgehalten en fosfaatgehalten per dier of per kilogram levend gewicht als bedoeld in [artikel 67, derde lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0019031&artikel=67) worden voor de onderscheiden diersoorten en diercategorieën vastgesteld, de forfaitaire gehalten die zijn vermeld in [bijlage D, tabel III](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&bijlage=D&z=2017-02-01&g=2017-02-01).
 
 2. De bepaling van de hoeveelheden stikstof en fosfaat in staldieren, bedoeld in [artikel 67, derde lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0019031&artikel=67), wordt gebaseerd op de in het eerste lid bedoelde forfaitaire stikstofgehalten en fosfaatgehalten per kilogram levend gewicht. Ingeval van een dier geen gegevens over het gewicht beschikbaar zijn, worden de hoeveelheden stikstof en fosfaat in dat dier bepaald op basis van de in het eerste lid bedoelde forfaitaire stikstofgehalten en fosfaatgehalten per dier.
 
 ##### Artikel 103
 
-Als forfaitaire stikstofgehalten en fosfaatgehalten per kilogram eieren als bedoeld in [artikel 67, vierde lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0019031&artikel=67)worden voor de onderscheiden soorten eieren vastgesteld, de forfaitaire gehalten die zijn vermeld in [bijlage D, tabel IV](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&bijlage=D&z=2017-01-01&g=2017-01-01).
+Als forfaitaire stikstofgehalten en fosfaatgehalten per kilogram eieren als bedoeld in [artikel 67, vierde lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0019031&artikel=67)worden voor de onderscheiden soorten eieren vastgesteld, de forfaitaire gehalten die zijn vermeld in [bijlage D, tabel IV](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&bijlage=D&z=2017-02-01&g=2017-02-01).
 
 ### Hoofdstuk 10. Overgang van een productierecht
 
@@ -1516,7 +1522,7 @@ Als forfaitaire stikstofgehalten en fosfaatgehalten per kilogram eieren als bedo
 
 ##### Artikel 105
 
-1. Alvorens de minister een kennisgeving van overgang in behandeling neemt, doet hij van deze kennisgeving schriftelijk mededeling aan iedere hypotheekhouder die het bedrijf van de vervreemder van het productierecht bij de minister voor de toepassing van deze paragraaf ter registratie heeft aangemeld, indien overeenkomstig [artikel 106, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&hoofdstuk=10&paragraaf=2&artikel=106&z=2017-01-01&g=2017-01-01), registratie door de minister daadwerkelijk heeft plaatsgevonden. De minister neemt de kennisgeving van overgang niet in behandeling gedurende 30 dagen na dagtekening van deze mededeling.
+1. Alvorens de minister een kennisgeving van overgang in behandeling neemt, doet hij van deze kennisgeving schriftelijk mededeling aan iedere hypotheekhouder die het bedrijf van de vervreemder van het productierecht bij de minister voor de toepassing van deze paragraaf ter registratie heeft aangemeld, indien overeenkomstig [artikel 106, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&hoofdstuk=10&paragraaf=2&artikel=106&z=2017-02-01&g=2017-02-01), registratie door de minister daadwerkelijk heeft plaatsgevonden. De minister neemt de kennisgeving van overgang niet in behandeling gedurende 30 dagen na dagtekening van deze mededeling.
 
 2. De termijn van 30 dagen wordt verlengd tot negentig dagen na dagtekening van de mededeling, indien een hypotheekhouder binnen de termijn van 30 dagen een verzoek bij de minister indient.
 
@@ -1532,7 +1538,7 @@ Als forfaitaire stikstofgehalten en fosfaatgehalten per kilogram eieren als bedo
 
 ##### Artikel 106
 
-1. De aanmelding ter registratie, bedoeld in [artikel 105, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&hoofdstuk=10&paragraaf=2&artikel=105&z=2017-01-01&g=2017-01-01), geschiedt bij de minister.
+1. De aanmelding ter registratie, bedoeld in [artikel 105, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&hoofdstuk=10&paragraaf=2&artikel=105&z=2017-02-01&g=2017-02-01), geschiedt bij de minister.
 
 2. Bij de aanmelding, bedoeld in het eerste lid, worden in ieder geval de volgende gegevens verstrekt:
 
@@ -1546,13 +1552,13 @@ Als forfaitaire stikstofgehalten en fosfaatgehalten per kilogram eieren als bedo
 
 ##### Artikel 107
 
-1. Indien de aanmelding, bedoeld in [artikel 106, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&hoofdstuk=10&paragraaf=2&artikel=106&z=2017-01-01&g=2017-01-01), niet voor akkoord is medeondertekend door degene op wiens bedrijf de aanmelding betrekking heeft, wordt het bedrijf slechts geregistreerd, indien de hypotheekhouder bij het verzoek tevens een uittreksel van het in [artikel 260, eerste lid, van boek 3 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005291&artikel=260) bedoelde openbare register overlegt, waaruit blijkt op welke registergoederen behorend tot het bedrijf een hypotheekrecht is gevestigd.
+1. Indien de aanmelding, bedoeld in [artikel 106, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&hoofdstuk=10&paragraaf=2&artikel=106&z=2017-02-01&g=2017-02-01), niet voor akkoord is medeondertekend door degene op wiens bedrijf de aanmelding betrekking heeft, wordt het bedrijf slechts geregistreerd, indien de hypotheekhouder bij het verzoek tevens een uittreksel van het in [artikel 260, eerste lid, van boek 3 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005291&artikel=260) bedoelde openbare register overlegt, waaruit blijkt op welke registergoederen behorend tot het bedrijf een hypotheekrecht is gevestigd.
 
-2. De minister doet van de registratie, bedoeld in het eerste lid, schriftelijk mededeling aan degene op wiens bedrijf de registratie betrekking heeft. Indien deze binnen 30 dagen na dagtekening van deze mededeling aan de minister verklaart dat de geregistreerde gegevens niet juist zijn, gelden in plaats van [artikel 105](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&hoofdstuk=10&paragraaf=2&artikel=105&z=2017-01-01&g=2017-01-01) de volgende leden.
+2. De minister doet van de registratie, bedoeld in het eerste lid, schriftelijk mededeling aan degene op wiens bedrijf de registratie betrekking heeft. Indien deze binnen 30 dagen na dagtekening van deze mededeling aan de minister verklaart dat de geregistreerde gegevens niet juist zijn, gelden in plaats van [artikel 105](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&hoofdstuk=10&paragraaf=2&artikel=105&z=2017-02-01&g=2017-02-01) de volgende leden.
 
 3. De minister neemt een kennisgeving van overgang, gedaan door degene op wiens bedrijf de registratie betrekking heeft, niet in behandeling zolang de hypotheekhouder de registratie niet laat doorhalen, doch hoogstens gedurende negentig dagen na dagtekening van de schriftelijke mededeling, bedoeld in het tweede lid.
 
-4. De termijn, bedoeld in het derde lid, wordt eenmalig met negentig dagen verlengd indien de hypotheekhouder daartoe binnen de eerstgenoemde termijn een verzoek doet aan de minister, onder gelijktijdige overlegging van een rechterlijke uitspraak of een verklaring van een notaris als bedoeld in [artikel 105, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&hoofdstuk=10&paragraaf=2&artikel=105&z=2017-01-01&g=2017-01-01).
+4. De termijn, bedoeld in het derde lid, wordt eenmalig met negentig dagen verlengd indien de hypotheekhouder daartoe binnen de eerstgenoemde termijn een verzoek doet aan de minister, onder gelijktijdige overlegging van een rechterlijke uitspraak of een verklaring van een notaris als bedoeld in [artikel 105, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&hoofdstuk=10&paragraaf=2&artikel=105&z=2017-02-01&g=2017-02-01).
 
 5. De registratie wordt doorgehaald na afloop van de in het derde, dan wel in voorkomend geval in het vierde lid bedoelde termijn.
 
@@ -1576,9 +1582,9 @@ Aan de hypotheekhouder die een bedrijf voor de toepassing van deze paragraaf hee
 
 - b. gegevens over het aantal varkenseenheden, onderscheidenlijk pluimvee-eenheden waarop de kennisgeving betrekking heeft;
 
-- c. de dagtekening van de mededeling, bedoeld in [artikel 107, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&hoofdstuk=10&paragraaf=2&artikel=107&z=2017-01-01&g=2017-01-01); en
+- c. de dagtekening van de mededeling, bedoeld in [artikel 107, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&hoofdstuk=10&paragraaf=2&artikel=107&z=2017-02-01&g=2017-02-01); en
 
-- d. de indiening of het achterwege blijven van de verklaring bedoeld in [artikel 107, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&hoofdstuk=10&paragraaf=2&artikel=107&z=2017-01-01&g=2017-01-01).
+- d. de indiening of het achterwege blijven van de verklaring bedoeld in [artikel 107, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&hoofdstuk=10&paragraaf=2&artikel=107&z=2017-02-01&g=2017-02-01).
 
 #### § 2. Afgevoerde en aangevoerde dierlijke meststoffen
 
@@ -1596,9 +1602,9 @@ Aan de hypotheekhouder die een bedrijf voor de toepassing van deze paragraaf hee
 
 ##### Artikel 111
 
-1. Een kennisgeving van overgang, bedoeld in [artikel 104, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&hoofdstuk=10&paragraaf=1&artikel=104&z=2017-01-01&g=2017-01-01), wordt eerst geregistreerd nadat de verwerver een bedrag van € 100 aan de minister heeft voldaan.
+1. Een kennisgeving van overgang, bedoeld in [artikel 104, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&hoofdstuk=10&paragraaf=1&artikel=104&z=2017-02-01&g=2017-02-01), wordt eerst geregistreerd nadat de verwerver een bedrag van € 100 aan de minister heeft voldaan.
 
-2. Een aanmelding ter registratie, bedoeld in [artikel 105, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&hoofdstuk=10&paragraaf=2&artikel=105&z=2017-01-01&g=2017-01-01), wordt voor de toepassing van [paragraaf 2](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&hoofdstuk=10&paragraaf=2&z=2017-01-01&g=2017-01-01) eerst in behandeling genomen nadat een bedrag van € 35 aan de minister is voldaan.
+2. Een aanmelding ter registratie, bedoeld in [artikel 105, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&hoofdstuk=10&paragraaf=2&artikel=105&z=2017-02-01&g=2017-02-01), wordt voor de toepassing van [paragraaf 2](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&hoofdstuk=10&paragraaf=2&z=2017-02-01&g=2017-02-01) eerst in behandeling genomen nadat een bedrag van € 35 aan de minister is voldaan.
 
 3. Indien de minister op grond van [artikel 29, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004054&artikel=29) niet tot registratie overgaat, wordt het bedrag, bedoeld in het eerste lid, aan de betaler gerestitueerd.
 
@@ -1636,21 +1642,21 @@ Aan de hypotheekhouder die een bedrijf voor de toepassing van deze paragraaf hee
 
 1. Een aanvraag voor ontheffing wordt ingediend met gebruikmaking van een middel dat door de minister beschikbaar wordt gesteld.
 
-2. Indien een aanvraag als bedoeld in [artikel 114, tweede lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&hoofdstuk=10&paragraaf=5&artikel=114&z=2017-01-01&g=2017-01-01), wordt ingediend en de aanvrager met een stalcertificaat als bedoeld in [artikel 117, tweede lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&hoofdstuk=10&paragraaf=5&artikel=117&z=2017-01-01&g=2017-01-01), wil aantonen dat de varkens of het pluimvee waarop de uitbreiding betrekking heeft in een integraal duurzame stal worden gehouden, gaat de aanvraag vergezeld van een kopie van dat stalcertificaat.
+2. Indien een aanvraag als bedoeld in [artikel 114, tweede lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&hoofdstuk=10&paragraaf=5&artikel=114&z=2017-02-01&g=2017-02-01), wordt ingediend en de aanvrager met een stalcertificaat als bedoeld in [artikel 117, tweede lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&hoofdstuk=10&paragraaf=5&artikel=117&z=2017-02-01&g=2017-02-01), wil aantonen dat de varkens of het pluimvee waarop de uitbreiding betrekking heeft in een integraal duurzame stal worden gehouden, gaat de aanvraag vergezeld van een kopie van dat stalcertificaat.
 
 ##### Artikel 116
 
-1. De minister verdeelt het aantal beschikbare varkenseenheden in de volgorde van rangschikking, waarbij de aanvragen, bedoeld in [artikel 114, tweede lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&hoofdstuk=10&paragraaf=5&artikel=114&z=2017-01-01&g=2017-01-01), hoger worden gerangschikt dan de aanvragen, bedoeld in artikel 114, tweede lid, onderdeel b.
+1. De minister verdeelt het aantal beschikbare varkenseenheden in de volgorde van rangschikking, waarbij de aanvragen, bedoeld in [artikel 114, tweede lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&hoofdstuk=10&paragraaf=5&artikel=114&z=2017-02-01&g=2017-02-01), hoger worden gerangschikt dan de aanvragen, bedoeld in artikel 114, tweede lid, onderdeel b.
 
-2. Indien er meer aanvragen voor varkenseenheden worden ingediend dan het aantal, genoemd in [artikel 113, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&hoofdstuk=10&paragraaf=5&artikel=113&z=2017-01-01&g=2017-01-01), verdeelt de minister het aantal beschikbare varkenseenheden door middel van loting tussen de aanvragen die op grond van de rangschikking voor verdeling in aanmerking komen.
+2. Indien er meer aanvragen voor varkenseenheden worden ingediend dan het aantal, genoemd in [artikel 113, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&hoofdstuk=10&paragraaf=5&artikel=113&z=2017-02-01&g=2017-02-01), verdeelt de minister het aantal beschikbare varkenseenheden door middel van loting tussen de aanvragen die op grond van de rangschikking voor verdeling in aanmerking komen.
 
-3. De minister verdeelt het aantal beschikbare pluimvee-eenheden in de volgorde van rangschikking, waarbij de aanvragen, bedoeld in [artikel 114, tweede lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&hoofdstuk=10&paragraaf=5&artikel=114&z=2017-01-01&g=2017-01-01), hoger worden gerangschikt dan de aanvragen, bedoeld in artikel 114, tweede lid, onderdeel b.
+3. De minister verdeelt het aantal beschikbare pluimvee-eenheden in de volgorde van rangschikking, waarbij de aanvragen, bedoeld in [artikel 114, tweede lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&hoofdstuk=10&paragraaf=5&artikel=114&z=2017-02-01&g=2017-02-01), hoger worden gerangschikt dan de aanvragen, bedoeld in artikel 114, tweede lid, onderdeel b.
 
-4. Indien er meer aanvragen voor pluimvee-eenheden worden ingediend dan het aantal, genoemd in [artikel 113, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&hoofdstuk=10&paragraaf=5&artikel=113&z=2017-01-01&g=2017-01-01), verdeelt de minister het aantal beschikbare pluimvee-eenheden door middel van loting tussen de aanvragen die op grond van de rangschikking voor verdeling in aanmerking komen.
+4. Indien er meer aanvragen voor pluimvee-eenheden worden ingediend dan het aantal, genoemd in [artikel 113, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&hoofdstuk=10&paragraaf=5&artikel=113&z=2017-02-01&g=2017-02-01), verdeelt de minister het aantal beschikbare pluimvee-eenheden door middel van loting tussen de aanvragen die op grond van de rangschikking voor verdeling in aanmerking komen.
 
 ##### Artikel 117
 
-1. De aanvrager die een aanvraag als bedoeld in [artikel 114, tweede lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&hoofdstuk=10&paragraaf=5&artikel=114&z=2017-01-01&g=2017-01-01), heeft ingediend, houdt de varkens of het pluimvee waarop de uitbreiding betrekking heeft in een integraal duurzame stal.
+1. De aanvrager die een aanvraag als bedoeld in [artikel 114, tweede lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&hoofdstuk=10&paragraaf=5&artikel=114&z=2017-02-01&g=2017-02-01), heeft ingediend, houdt de varkens of het pluimvee waarop de uitbreiding betrekking heeft in een integraal duurzame stal.
 
 2. De aanvrager kan aantonen dat hij beschikt over een integraal duurzame stal indien hij beschikt over:
 
@@ -1680,11 +1686,11 @@ Indien het gehele bedrijf ongewijzigd wordt voortgezet door een andere landbouwe
 
 ##### Artikel 121
 
-1. Op ontheffingen die op grond van [artikel 112](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&hoofdstuk=10&paragraaf=5&artikel=112&z=2017-01-01&g=2017-01-01) van de Uitvoeringsregeling Meststoffenwet zijn verleend voor de datum waarop deze regeling in werking treedt, blijft paragraaf 5 van de Uitvoeringsregeling Meststoffenwet, zoals deze luidde op de dag voor inwerkingtreding van deze regeling van toepassing.
+1. Op ontheffingen die op grond van [artikel 112](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&hoofdstuk=10&paragraaf=5&artikel=112&z=2017-02-01&g=2017-02-01) van de Uitvoeringsregeling Meststoffenwet zijn verleend voor de datum waarop deze regeling in werking treedt, blijft paragraaf 5 van de Uitvoeringsregeling Meststoffenwet, zoals deze luidde op de dag voor inwerkingtreding van deze regeling van toepassing.
 
-2. De landbouwer aan wie ontheffing op grond van [artikel 112](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&hoofdstuk=10&paragraaf=5&artikel=112&z=2017-01-01&g=2017-01-01) van de Uitvoeringsregeling Meststoffen wet is verleend voor de datum waarop deze regeling in werking treedt, voldoet tevens aan de voorwaarden van paragraaf 5 van de Uitvoeringsregeling Meststoffenwet indien hij 100% van de hoeveelheid dierlijke meststoffen van zijn bedrijfsoverschot overeenkomstig [artikel 33a, derde lid, onderdeel a of b, van de Meststoffenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0004054&artikel=33a) laat verwerken.
+2. De landbouwer aan wie ontheffing op grond van [artikel 112](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&hoofdstuk=10&paragraaf=5&artikel=112&z=2017-02-01&g=2017-02-01) van de Uitvoeringsregeling Meststoffen wet is verleend voor de datum waarop deze regeling in werking treedt, voldoet tevens aan de voorwaarden van paragraaf 5 van de Uitvoeringsregeling Meststoffenwet indien hij 100% van de hoeveelheid dierlijke meststoffen van zijn bedrijfsoverschot overeenkomstig [artikel 33a, derde lid, onderdeel a of b, van de Meststoffenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0004054&artikel=33a) laat verwerken.
 
-3. In afwijking van [artikel 119](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&hoofdstuk=10&paragraaf=5&artikel=119&z=2017-01-01&g=2017-01-01) van de Uitvoeringsregeling Meststoffenwet zoals dat luidde op de dag voor inwerkingtreding van deze regeling, vervallen de ontheffingen, bedoeld in het eerste lid, op 1 januari 2018.
+3. In afwijking van [artikel 119](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&hoofdstuk=10&paragraaf=5&artikel=119&z=2017-02-01&g=2017-02-01) van de Uitvoeringsregeling Meststoffenwet zoals dat luidde op de dag voor inwerkingtreding van deze regeling, vervallen de ontheffingen, bedoeld in het eerste lid, op 1 januari 2018.
 
 ### Hoofdstuk 11. Overige bepalingen
 
@@ -3030,19 +3036,19 @@ Hierin is:
 
 4.1. De AGR-apparatuur beschikt over een voorziening waarmee de door de satellietvolgapparatuur gegenereerde gegevens inzake de positie van het transportmiddel alsmede de datum en het tijdstip waarop de positiegegevens zijn bepaald voortdurend en automatisch worden vastgelegd.
 
-De stikstofexcreties van staldieren moeten berekend worden conform de stalbalans. In deze tabel zijn voor staldieren wel excretieforfaits opgenomen als hulpmiddel om te bepalen of gebruik gemaakt kan worden van [artikel 43](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&hoofdstuk=5&artikel=43&z=2017-01-01&g=2017-01-01).
+De stikstofexcreties van staldieren moeten berekend worden conform de stalbalans. In deze tabel zijn voor staldieren wel excretieforfaits opgenomen als hulpmiddel om te bepalen of gebruik gemaakt kan worden van [artikel 43](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&hoofdstuk=5&artikel=43&z=2017-02-01&g=2017-02-01).
 
 **Noten**
 
 1 Als de omschrijving van de categorieën niet aansluit bij de voorkomende situatie dienen de forfaits gehanteerd te worden van de categorie die het best aansluit bij de voorkomende situatie.
 
-2 Behorende bij [artikel 36](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&hoofdstuk=4&artikel=36&z=2017-01-01&g=2017-01-01) van de Uitvoeringsregeling Meststoffenwet.
+2 Behorende bij [artikel 36](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&hoofdstuk=4&artikel=36&z=2017-02-01&g=2017-02-01) van de Uitvoeringsregeling Meststoffenwet.
 
-3 Behorende bij de [artikelen 43](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&hoofdstuk=5&artikel=43&z=2017-01-01&g=2017-01-01) en [73](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&hoofdstuk=9&paragraaf=1&artikel=73&z=2017-01-01&g=2017-01-01) van de Uitvoeringsregeling Meststoffenwet. Met betrekking tot artikel 73 alleen relevant voor de graasdieren en daarmee niet van toepassing op diercategorieën die vallen onder de staldieren.
+3 Behorende bij de [artikelen 43](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&hoofdstuk=5&artikel=43&z=2017-02-01&g=2017-02-01) en [73](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&hoofdstuk=9&paragraaf=1&artikel=73&z=2017-02-01&g=2017-02-01) van de Uitvoeringsregeling Meststoffenwet. Met betrekking tot artikel 73 alleen relevant voor de graasdieren en daarmee niet van toepassing op diercategorieën die vallen onder de staldieren.
 
 ### 6. Versturen van mesttransportgegevens
 
-5 Behorende bij [artikel 96](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&hoofdstuk=9&paragraaf=5&artikel=96&z=2017-01-01&g=2017-01-01) van de Uitvoeringsregeling Meststoffenwet
+5 Behorende bij [artikel 96](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&hoofdstuk=9&paragraaf=5&artikel=96&z=2017-02-01&g=2017-02-01) van de Uitvoeringsregeling Meststoffenwet
 
 6 De mestproductie van deze dieren is reeds verrekend in het forfait van de fokschapen.
 
@@ -3468,7 +3474,7 @@ Eindrapportage bemonstering en analyse van dierlijke mest, Projectgroep Bemonste
 
 Nieuw product
 
-### Tabel II behorend bij [artikel 89](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&hoofdstuk=9&paragraaf=2&artikel=89&z=2017-01-01&g=2017-01-01)
+### Tabel II behorend bij [artikel 89](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&hoofdstuk=9&paragraaf=2&artikel=89&z=2017-02-01&g=2017-02-01)
 
 * Fase 3 substraat is het product dat van het compostbedrijf wordt vervoerd naar de champignonkwekerij.
 
@@ -3478,7 +3484,7 @@ Nieuw product
 
 ### Tabel I behorende bij de [artikelen 84 t/m 91](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&hoofdstuk=9&paragraaf=2&artikel=84&z=2015-01-01&g=2015-01-01)
 
-### Tabel IV behorende bij de [artikelen 57](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&hoofdstuk=8&paragraaf=1&artikel=57&z=2017-01-01&g=2017-01-01), [57a](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&hoofdstuk=8&paragraaf=1&artikel=57a&z=2017-01-01&g=2017-01-01), [57b](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&hoofdstuk=8&paragraaf=1&artikel=57b&z=2017-01-01&g=2017-01-01) en [61](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&hoofdstuk=8&paragraaf=2&artikel=61&z=2017-01-01&g=2017-01-01)
+### Tabel IV behorende bij de [artikelen 57](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&hoofdstuk=8&paragraaf=1&artikel=57&z=2017-02-01&g=2017-02-01), [57a](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&hoofdstuk=8&paragraaf=1&artikel=57a&z=2017-02-01&g=2017-02-01), [57b](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&hoofdstuk=8&paragraaf=1&artikel=57b&z=2017-02-01&g=2017-02-01) en [61](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&hoofdstuk=8&paragraaf=2&artikel=61&z=2017-02-01&g=2017-02-01)
 
 4.1.3. Van een bestaand product (d.w.z. reeds langer op de markt) berekent de ondernemer op basis van de meest recente 10 analyse-uitslagen het gemiddelde gehalte en de sd
 
@@ -3512,7 +3518,7 @@ Producten met een gering gehalte aan ruw eiwit en fosfor
 
 Opmerkingen m.b.t. producten die niet gedurende het hele jaar beschikbaar komen
 
-In [artikel 98](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&hoofdstuk=9&paragraaf=6&artikel=98&z=2017-01-01&g=2017-01-01) van de Uitvoeringsregeling Meststoffenwet staat dat de ondernemer, in het kader van wiens onderneming diervoeders worden afgeleverd, het gehalte aan stikstof, fosfaat en droge stof baseert op:
+In [artikel 98](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&hoofdstuk=9&paragraaf=6&artikel=98&z=2017-02-01&g=2017-02-01) van de Uitvoeringsregeling Meststoffenwet staat dat de ondernemer, in het kader van wiens onderneming diervoeders worden afgeleverd, het gehalte aan stikstof, fosfaat en droge stof baseert op:
 
 – Gehalten van producten die vermeld worden in tabel J (gehaltes in ruwvoer en enkelvoudig diervoer) kunnen worden overgenomen.
 
@@ -3626,7 +3632,7 @@ Deze regeling zal met toelichting in de Staatscourant worden geplaatst.
 
 2. De op het vervoersbewijs zuiveringsslib en compost ingevulde gegevens worden door de vervoerder uiterlijk tien werkdagen na het vervoer van de vracht zuiveringsslib of compost op elektronische wijze bij de minister ingediend.
 
-3. In afwijking van [artikel 55, vierde lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0019031&artikel=55), kunnen de leverancier of de afnemer, de vervoerder ter zake van de ondertekening van het vervoersbewijs zuiveringsslib en compost machtigen. [Artikel 65](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&hoofdstuk=8&paragraaf=2&artikel=65&z=2017-01-01&g=2017-01-01) is op deze machtiging van overeenkomstige toepassing.
+3. In afwijking van [artikel 55, vierde lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0019031&artikel=55), kunnen de leverancier of de afnemer, de vervoerder ter zake van de ondertekening van het vervoersbewijs zuiveringsslib en compost machtigen. [Artikel 65](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&hoofdstuk=8&paragraaf=2&artikel=65&z=2017-02-01&g=2017-02-01) is op deze machtiging van overeenkomstige toepassing.
 
 #### § 2. Vervoersbewijs dierlijke meststoffen
 
@@ -4026,7 +4032,7 @@ EN 12945: Liming materials – Determination of neutralizing value – Titrimetr
 
 CSS 99023 Sludge, treated biowaste and soil – Determination of loss on ignition. (www.ecn.nl/horizontal).
 
-## bijlage Aa. , behorende bij [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&hoofdstuk=2&artikel=4&z=2017-01-01&g=2017-01-01) van de Uitvoeringsregeling Meststoffenwet
+## bijlage Aa. , behorende bij [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&hoofdstuk=2&artikel=4&z=2017-02-01&g=2017-02-01) van de Uitvoeringsregeling Meststoffenwet
 
 I. Stoffen die als meststof kunnen worden verhandeld
 
@@ -4392,11 +4398,11 @@ De bepaling van het fosforgehalte in het waterig extract kan ook uitgevoerd word
 
 4.4. De AGR-apparatuur beschikt over een voorziening waarmee zowel tijdens het laden als tijdens het lossen op het transportmiddel automatisch het moment van laden, onderscheidenlijk het moment van lossen wordt onderkend alsmede over een voorziening waarmee de op voornoemde momenten door de satellietvolgapparatuur gegenereerde gegevens inzake de positie van het transportmiddel alsmede de datum en het tijdstip waarop de positiegegevens zijn bepaald, worden vastgelegd.
 
-### Tabel I. : Excretieforfaits en stikstofcorrectie, behorende bij de [artikelen 36](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&hoofdstuk=4&artikel=36&z=2017-01-01&g=2017-01-01), [38](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&hoofdstuk=5&artikel=38&z=2017-01-01&g=2017-01-01), [42](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&hoofdstuk=5&artikel=42&z=2017-01-01&g=2017-01-01), [43](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&hoofdstuk=5&artikel=43&z=2017-01-01&g=2017-01-01), [73](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&hoofdstuk=9&paragraaf=1&artikel=73&z=2017-01-01&g=2017-01-01) en [96](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&hoofdstuk=9&paragraaf=5&artikel=96&z=2017-01-01&g=2017-01-01)
+### Tabel I. : Excretieforfaits en stikstofcorrectie, behorende bij de [artikelen 36](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&hoofdstuk=4&artikel=36&z=2017-02-01&g=2017-02-01), [38](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&hoofdstuk=5&artikel=38&z=2017-02-01&g=2017-02-01), [42](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&hoofdstuk=5&artikel=42&z=2017-02-01&g=2017-02-01), [43](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&hoofdstuk=5&artikel=43&z=2017-02-01&g=2017-02-01), [73](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&hoofdstuk=9&paragraaf=1&artikel=73&z=2017-02-01&g=2017-02-01) en [96](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&hoofdstuk=9&paragraaf=5&artikel=96&z=2017-02-01&g=2017-02-01)
 
 ### 2. Inlezen gegevens
 
-4 Behorende bij [artikel 73](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&hoofdstuk=9&paragraaf=1&artikel=73&z=2017-01-01&g=2017-01-01) van de Uitvoeringsregeling Meststoffenwet. Alleen relevant voor de graasdieren en daarmee niet van toepassing op diercategorieën die vallen onder de staldieren.
+4 Behorende bij [artikel 73](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&hoofdstuk=9&paragraaf=1&artikel=73&z=2017-02-01&g=2017-02-01) van de Uitvoeringsregeling Meststoffenwet. Alleen relevant voor de graasdieren en daarmee niet van toepassing op diercategorieën die vallen onder de staldieren.
 
 ### onderdeel A
 
@@ -4476,9 +4482,9 @@ De resultaten van de ringtesten zullen door de uitvoerende instantie of instanti
 
 4.1.2. Voor een nieuw product gebeurt dit als volgt:
 
-### Tabel III behorend bij [artikel 81](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&hoofdstuk=9&paragraaf=2&artikel=81&z=2017-01-01&g=2017-01-01)
+### Tabel III behorend bij [artikel 81](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&hoofdstuk=9&paragraaf=2&artikel=81&z=2017-02-01&g=2017-02-01)
 
-xiii mineralenconcentraat dat is geproduceerd door een overeenkomstig [artikel 35b](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&hoofdstuk=3&paragraaf=5&artikel=35b&z=2017-01-01&g=2017-01-01) aangewezen producent en dat wordt vervoerd naar een in [artikel 35f, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&hoofdstuk=3&paragraaf=5&artikel=35f&z=2017-01-01&g=2017-01-01), bedoelde landbouwer.
+xiii mineralenconcentraat dat is geproduceerd door een overeenkomstig [artikel 35b](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&hoofdstuk=3&paragraaf=5&artikel=35b&z=2017-02-01&g=2017-02-01) aangewezen producent en dat wordt vervoerd naar een in [artikel 35f, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&hoofdstuk=3&paragraaf=5&artikel=35f&z=2017-02-01&g=2017-02-01), bedoelde landbouwer.
 
 Bestaand product
 
@@ -4528,7 +4534,7 @@ Deze regeling zal met toelichting in de Staatscourant worden geplaatst.
 
 ##### Artikel 91b
 
-Indien dezelfde vracht vaste dierlijke meststoffen binnen zeven dagen twee maal wordt vervoerd van of naar een bedrijf of een onderneming, kan de hoeveelheid meststoffen van het eerste vervoer, in zoverre in afwijking van [artikel 68, eerste lid van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0019031&artikel=68), gelijkgesteld worden aan de hoeveelheid meststoffen van het tweede vervoer, onder voorwaarde dat tijdens het laden van zowel het eerste als het tweede vervoer, de gegevens ter identificatie van de monsterverpakking als bedoeld in [artikel 55, tweede lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&hoofdstuk=8&paragraaf=1&artikel=55&z=2017-01-01&g=2017-01-01), van het tweede vervoer worden ingelezen en vastgelegd.
+Indien dezelfde vracht vaste dierlijke meststoffen binnen zeven dagen twee maal wordt vervoerd van of naar een bedrijf of een onderneming, kan de hoeveelheid meststoffen van het eerste vervoer, in zoverre in afwijking van [artikel 68, eerste lid van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0019031&artikel=68), gelijkgesteld worden aan de hoeveelheid meststoffen van het tweede vervoer, onder voorwaarde dat tijdens het laden van zowel het eerste als het tweede vervoer, de gegevens ter identificatie van de monsterverpakking als bedoeld in [artikel 55, tweede lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&hoofdstuk=8&paragraaf=1&artikel=55&z=2017-02-01&g=2017-02-01), van het tweede vervoer worden ingelezen en vastgelegd.
 
 #### § 5. Gasvormige verliezen
 
@@ -4766,7 +4772,7 @@ Indien dezelfde vracht vaste dierlijke meststoffen binnen zeven dagen twee maal 
 
 ### **2. Fosfaat (P2O5)**
 
-## bijlage Ab. behorende bij de [artikelen 8](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&hoofdstuk=2&artikel=8&z=2017-01-01&g=2017-01-01) en [9](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&hoofdstuk=2&artikel=9&z=2017-01-01&g=2017-01-01) van de Uitvoeringsregeling Meststoffenwet
+## bijlage Ab. behorende bij de [artikelen 8](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&hoofdstuk=2&artikel=8&z=2017-02-01&g=2017-02-01) en [9](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&hoofdstuk=2&artikel=9&z=2017-02-01&g=2017-02-01) van de Uitvoeringsregeling Meststoffenwet
 
 | Zware metalen | Maximale waarden in milligrammen per kilogram van het desbetreffende waardegevende bestanddeel | Maximale waarden in milligrammen per kilogram van het desbetreffende waardegevende bestanddeel | Maximale waarden in milligrammen per kilogram van het desbetreffende waardegevende bestanddeel | Maximale waarden in milligrammen per kilogram van het desbetreffende waardegevende bestanddeel |
 | --- | --- | --- | --- | --- |
@@ -4980,13 +4986,13 @@ Deze regeling zal met toelichting in de Staatscourant worden geplaatst.
 
 ##### Artikel 57a
 
-1. De vervoerder, die overeenkomstig [artikel 57](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&hoofdstuk=8&paragraaf=1&artikel=57&z=2017-01-01&g=2017-01-01) mededeling heeft gedaan, doet ten minste twaalf uur voordat de dierlijke meststoffen daadwerkelijk binnen Nederland worden gebracht hiervan elektronisch mededeling aan de minister.
+1. De vervoerder, die overeenkomstig [artikel 57](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&hoofdstuk=8&paragraaf=1&artikel=57&z=2017-02-01&g=2017-02-01) mededeling heeft gedaan, doet ten minste twaalf uur voordat de dierlijke meststoffen daadwerkelijk binnen Nederland worden gebracht hiervan elektronisch mededeling aan de minister.
 
 2. Bij de in het eerste lid bedoelde mededeling worden in ieder geval de volgende gegevens verstrekt:
 
 - a. naam, adres en voor zover van toepassing de door de minister ter identificatie verstrekte relatienummers van de vervoerder en de afnemer van de desbetreffende vracht dierlijke meststoffen;
 
-- b. de mestcode van de desbetreffende vracht dierlijke meststoffen, zoals deze voor de desbetreffende mestsoort is opgenomen in [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&bijlage=I&z=2017-01-01&g=2017-01-01);
+- b. de mestcode van de desbetreffende vracht dierlijke meststoffen, zoals deze voor de desbetreffende mestsoort is opgenomen in [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&bijlage=I&z=2017-02-01&g=2017-02-01);
 
 - c. de datum waarop het laden van de dierlijke meststoffen aanvangt; en
 
@@ -5032,7 +5038,7 @@ Deze regeling zal met toelichting in de Staatscourant worden geplaatst.
 
 ### **3. Kaliumoxide (K2O)**
 
-## bijlage Ac. behorende bij de [artikelen 17 tot en met 22](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&hoofdstuk=2&artikel=17&z=2017-01-01&g=2017-01-01) van de Uitvoeringsregeling Meststoffenwet
+## bijlage Ac. behorende bij de [artikelen 17 tot en met 22](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&hoofdstuk=2&artikel=17&z=2017-02-01&g=2017-02-01) van de Uitvoeringsregeling Meststoffenwet
 
 ### **I. Protocol analyse stikstofgehalte, fosfaatgehalte en droge stofgehalte in meststoffen, niet zijnde zuiveringsslib of compost, alsmede de hoeveelheden overige nutriënten**
 
@@ -5082,7 +5088,7 @@ Stikstofexcretie en fosfaatexcretie per koe (in kg N resp. kg P2O5 per jaar), in
 
 ### **Tabel III. Aan- en afvoer van staldieren, behorende bij artikel 102**
 
-## Bijlage E. behorende bij de [artikelen 53](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&hoofdstuk=8&paragraaf=1&artikel=53&z=2017-01-01&g=2017-01-01), [78](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&hoofdstuk=9&paragraaf=2&artikel=78&z=2017-01-01&g=2017-01-01), [82](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&hoofdstuk=9&paragraaf=2&artikel=82&z=2017-01-01&g=2017-01-01) en [79](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&hoofdstuk=9&paragraaf=2&artikel=79&z=2017-01-01&g=2017-01-01)
+## Bijlage E. behorende bij de [artikelen 53](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&hoofdstuk=8&paragraaf=1&artikel=53&z=2017-02-01&g=2017-02-01), [78](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&hoofdstuk=9&paragraaf=2&artikel=78&z=2017-02-01&g=2017-02-01), [82](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&hoofdstuk=9&paragraaf=2&artikel=82&z=2017-02-01&g=2017-02-01) en [79](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&hoofdstuk=9&paragraaf=2&artikel=79&z=2017-02-01&g=2017-02-01)
 
 ### B. Eisen monsterverpakking
 
@@ -5160,7 +5166,7 @@ Deze regeling zal met toelichting in de Staatscourant worden geplaatst.
 
 2. De bemonstering van een hoeveelheid zuiveringsslib of compost geschiedt door de producent. Hij stelt per geproduceerde hoeveelheid van ten hoogste 2.000.000 kilogram, een representatief monster samen, bestaande uit deelmonsters die volgens algemeen geldende bemonsteringsprincipes evenredig verspreid uit de betrokken partij worden genomen. Indien de geproduceerde hoeveelheid groter is dan 2.000.000 kilogram, wordt deze allereerst verdeeld in partijen van ten hoogste 2.000.000 kilogram.
 
-3. Indien zuiveringsslib of compost in een continu proces wordt geproduceerd, kan de desbetreffende producent ervoor kiezen dat het stikstofgehalte, het fosfaatgehalte alsmede het drogestof gehalte ervan, in zoverre in afwijking van de voorgaande leden, overeen komen met het over de afgelopen twaalf maanden overeenkomstig [artikel 92b, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&hoofdstuk=9&paragraaf=3&artikel=92b&z=2017-01-01&g=2017-01-01), berekende twaalf-maandsgemiddelde stikstof-, fosfaat- en drogestof gehalte, mits:
+3. Indien zuiveringsslib of compost in een continu proces wordt geproduceerd, kan de desbetreffende producent ervoor kiezen dat het stikstofgehalte, het fosfaatgehalte alsmede het drogestof gehalte ervan, in zoverre in afwijking van de voorgaande leden, overeen komen met het over de afgelopen twaalf maanden overeenkomstig [artikel 92b, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&hoofdstuk=9&paragraaf=3&artikel=92b&z=2017-02-01&g=2017-02-01), berekende twaalf-maandsgemiddelde stikstof-, fosfaat- en drogestof gehalte, mits:
 
 - a. de voor de productie van het zuiveringsslib of de compost gebruikte ingangsmaterialen van constante samenstelling zijn;
 
@@ -5172,13 +5178,13 @@ Deze regeling zal met toelichting in de Staatscourant worden geplaatst.
 
 5. Het monster wordt door de producent uiterlijk tien werkdagen na bemonstering toegestuurd aan een laboratorium dat blijkens accreditatie door de Raad aantoonbaar voldoet aan de norm NEN-EN-ISO/IEC 17025.
 
-6. Indien het monster afkomstig is uit een hoeveelheid die in een continu proces is geproduceerd, geeft de betrokken producent bij het verzenden ervan aan of de analyseresultaten van dit monster gebruikt moeten worden bij de in [artikel 92b, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&hoofdstuk=9&paragraaf=3&artikel=92b&z=2017-01-01&g=2017-01-01), bedoelde berekening.
+6. Indien het monster afkomstig is uit een hoeveelheid die in een continu proces is geproduceerd, geeft de betrokken producent bij het verzenden ervan aan of de analyseresultaten van dit monster gebruikt moeten worden bij de in [artikel 92b, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&hoofdstuk=9&paragraaf=3&artikel=92b&z=2017-02-01&g=2017-02-01), bedoelde berekening.
 
 ##### Artikel 92b
 
-1. Het laboratorium, bedoeld in [artikel 92a](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&hoofdstuk=9&paragraaf=3&artikel=92a&z=2017-01-01&g=2017-01-01), analyseert de monsters uiterlijk vijf werkdagen na ontvangst overeenkomstig het protocol, dat is opgenomen in [bijlage Ia, onderdeel A](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&bijlage=Ia&z=2017-01-01&g=2017-01-01), of door middel van een methode die tenminste dezelfde waarborgen omvat.
+1. Het laboratorium, bedoeld in [artikel 92a](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&hoofdstuk=9&paragraaf=3&artikel=92a&z=2017-02-01&g=2017-02-01), analyseert de monsters uiterlijk vijf werkdagen na ontvangst overeenkomstig het protocol, dat is opgenomen in [bijlage Ia, onderdeel A](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&bijlage=Ia&z=2017-02-01&g=2017-02-01), of door middel van een methode die tenminste dezelfde waarborgen omvat.
 
-2. Indien dit ten aanzien van het monster overeenkomstig [artikel 92a, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&hoofdstuk=9&paragraaf=3&artikel=92a&z=2017-01-01&g=2017-01-01), is aangegeven, berekent het laboratorium op basis van de meest recente analyseresultaten, het gemiddelde stikstof-, fosfaat- en drogestofgehalte over de afgelopen twaalf maanden overeenkomstig de in [bijlage Ia, onderdeel B](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&bijlage=Ia&z=2017-01-01&g=2017-01-01), opgenomen berekeningsmethode.
+2. Indien dit ten aanzien van het monster overeenkomstig [artikel 92a, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&hoofdstuk=9&paragraaf=3&artikel=92a&z=2017-02-01&g=2017-02-01), is aangegeven, berekent het laboratorium op basis van de meest recente analyseresultaten, het gemiddelde stikstof-, fosfaat- en drogestofgehalte over de afgelopen twaalf maanden overeenkomstig de in [bijlage Ia, onderdeel B](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&bijlage=Ia&z=2017-02-01&g=2017-02-01), opgenomen berekeningsmethode.
 
 3. Het laboratorium voorziet de analyseresultaten dan wel de overeenkomstig het tweede lid berekende gemiddelde gehalten van een uniek analysenummer van ten hoogste twaalf posities.
 
@@ -6155,7 +6161,7 @@ Voor de bemonstering van een perceel, bedoeld in artikel 1, onderdeel b, van het
 
 ### 2. Voorbehandeling van de grondmonsters
 
-De bouwvoor of zode van een perceel landbouwgrond wordt bij voorkeur volgens een gestratificeerde aselecte steekproef bemonsterd met behulp van een speciaal daarvoor opgesteld softwareprogramma dat digitaal te verkrijgen is bij het Ministerie van Economische Zaken. Indien gebruik gemaakt wordt van de gestratificeerde aselecte steekproef dient de procedure gevolgd te worden zoals beschreven in [bijlage C](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&bijlage=C&z=2017-01-01&g=2017-01-01), onderdeel I, van onderhavige regeling.
+De bouwvoor of zode van een perceel landbouwgrond wordt bij voorkeur volgens een gestratificeerde aselecte steekproef bemonsterd met behulp van een speciaal daarvoor opgesteld softwareprogramma dat digitaal te verkrijgen is bij het Ministerie van Economische Zaken. Indien gebruik gemaakt wordt van de gestratificeerde aselecte steekproef dient de procedure gevolgd te worden zoals beschreven in [bijlage C](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&bijlage=C&z=2017-02-01&g=2017-02-01), onderdeel I, van onderhavige regeling.
 
 ### Principe
 
@@ -6203,7 +6209,7 @@ Deze regeling zal met toelichting in de Staatscourant worden geplaatst.
 
 - b. het adres van de bedrijfsgebouwen waar mineralenconcentraat wordt geproduceerd;
 
-- c. de kadastrale aanduiding van de onderscheiden locaties van de tot het bedrijf behorende opslagruimten voor mineralenconcentraat, dan wel, ingeval de producent een intermediair is, het registratienummer van de opslagruimte voor mineralenconcentraat, bedoeld in [artikel 49](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&hoofdstuk=6&artikel=49&z=2017-01-01&g=2017-01-01).
+- c. de kadastrale aanduiding van de onderscheiden locaties van de tot het bedrijf behorende opslagruimten voor mineralenconcentraat, dan wel, ingeval de producent een intermediair is, het registratienummer van de opslagruimte voor mineralenconcentraat, bedoeld in [artikel 49](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&hoofdstuk=6&artikel=49&z=2017-02-01&g=2017-02-01).
 
 6. Bij de aanmelding overlegt de producent voorts:
 
@@ -6231,7 +6237,7 @@ Deze regeling zal met toelichting in de Staatscourant worden geplaatst.
 
 1. De minister wijst een producent van mineralenconcentraat aan als deelnemer indien:
 
-- a. de producent zich overeenkomstig [artikel 35a, derde tot en met zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&hoofdstuk=3&paragraaf=5&artikel=35a&z=2017-01-01&g=2017-01-01), heeft aangemeld;
+- a. de producent zich overeenkomstig [artikel 35a, derde tot en met zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&hoofdstuk=3&paragraaf=5&artikel=35a&z=2017-02-01&g=2017-02-01), heeft aangemeld;
 
 - b. de producent de volledige zeggenschap over de gehele installatie en het productieproces heeft;
 
@@ -6239,51 +6245,51 @@ Deze regeling zal met toelichting in de Staatscourant worden geplaatst.
 
 - d. de installatie volledig operationeel is;
 
-- e. de producent daadwerkelijk mineralenconcentraat produceert, overeenkomstig de beschrijvingen, bedoeld in [artikel 35a, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&hoofdstuk=3&paragraaf=5&artikel=35a&z=2017-01-01&g=2017-01-01).
+- e. de producent daadwerkelijk mineralenconcentraat produceert, overeenkomstig de beschrijvingen, bedoeld in [artikel 35a, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&hoofdstuk=3&paragraaf=5&artikel=35a&z=2017-02-01&g=2017-02-01).
 
 2. De minister kan aan de aanwijzing nadere voorschriften verbinden. De aan de aanwijzing verbonden voorschriften kunnen worden gewijzigd, aangevuld of ingetrokken.
 
 ##### Artikel 35c
 
-Indien meer dan tien producenten, bedoeld in [artikel 35a, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&hoofdstuk=3&paragraaf=5&artikel=35a&z=2017-01-01&g=2017-01-01), voldoen aan de voorwaarden, bedoeld in [artikel 35b, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&hoofdstuk=3&paragraaf=5&artikel=35b&z=2017-01-01&g=2017-01-01), wijst de minister ten hoogste tien producenten aan. De aanwijzing geschiedt op volgorde van aanmelding.
+Indien meer dan tien producenten, bedoeld in [artikel 35a, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&hoofdstuk=3&paragraaf=5&artikel=35a&z=2017-02-01&g=2017-02-01), voldoen aan de voorwaarden, bedoeld in [artikel 35b, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&hoofdstuk=3&paragraaf=5&artikel=35b&z=2017-02-01&g=2017-02-01), wijst de minister ten hoogste tien producenten aan. De aanwijzing geschiedt op volgorde van aanmelding.
 
 ##### Artikel 35d
 
-1. Een aangewezen producent verleent indien door of namens de minister daartoe verzocht alle noodzakelijke medewerking aan het in [artikel 35a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&hoofdstuk=3&paragraaf=5&artikel=35a&z=2017-01-01&g=2017-01-01), bedoelde onderzoek.
+1. Een aangewezen producent verleent indien door of namens de minister daartoe verzocht alle noodzakelijke medewerking aan het in [artikel 35a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&hoofdstuk=3&paragraaf=5&artikel=35a&z=2017-02-01&g=2017-02-01), bedoelde onderzoek.
 
-2. Een aangewezen producent produceert overeenkomstig de op grond van [artikel 35a, vijfde tot en met zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&hoofdstuk=3&paragraaf=5&artikel=35a&z=2017-01-01&g=2017-01-01), overgelegde gegevens en beschrijvingen.
+2. Een aangewezen producent produceert overeenkomstig de op grond van [artikel 35a, vijfde tot en met zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&hoofdstuk=3&paragraaf=5&artikel=35a&z=2017-02-01&g=2017-02-01), overgelegde gegevens en beschrijvingen.
 
-3. De aangewezen producent meldt de wijzigingen in de gegevens, bedoeld in [artikel 35a, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&hoofdstuk=3&paragraaf=5&artikel=35a&z=2017-01-01&g=2017-01-01), binnen 30 dagen aan de minister.
+3. De aangewezen producent meldt de wijzigingen in de gegevens, bedoeld in [artikel 35a, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&hoofdstuk=3&paragraaf=5&artikel=35a&z=2017-02-01&g=2017-02-01), binnen 30 dagen aan de minister.
 
-4. Wijzigingen in de elementen, bedoeld in [artikel 35a, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&hoofdstuk=3&paragraaf=5&artikel=35a&z=2017-01-01&g=2017-01-01), vinden niet plaats dan na instemming van de minister.
+4. Wijzigingen in de elementen, bedoeld in [artikel 35a, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&hoofdstuk=3&paragraaf=5&artikel=35a&z=2017-02-01&g=2017-02-01), vinden niet plaats dan na instemming van de minister.
 
-5. De aangewezen producent draagt er zorg voor dat op het vervoersbewijs dierlijke mest uitsluitend de in [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&bijlage=I&z=2017-01-01&g=2017-01-01) voor mineralenconcentraat opgenomen mestcode wordt vermeld, indien het mineralenconcentraat is vervaardigd overeenkomstig de op grond van [artikel 35a, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&hoofdstuk=3&paragraaf=5&artikel=35a&z=2017-01-01&g=2017-01-01), overgelegde beschrijving van het productieproces, en indien het mineralenconcentraat wordt afgevoerd naar een gebruiker waarmee hij een overeenkomst tot afname van het mineralenconcentraat heeft gesloten.
+5. De aangewezen producent draagt er zorg voor dat op het vervoersbewijs dierlijke mest uitsluitend de in [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&bijlage=I&z=2017-02-01&g=2017-02-01) voor mineralenconcentraat opgenomen mestcode wordt vermeld, indien het mineralenconcentraat is vervaardigd overeenkomstig de op grond van [artikel 35a, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&hoofdstuk=3&paragraaf=5&artikel=35a&z=2017-02-01&g=2017-02-01), overgelegde beschrijving van het productieproces, en indien het mineralenconcentraat wordt afgevoerd naar een gebruiker waarmee hij een overeenkomst tot afname van het mineralenconcentraat heeft gesloten.
 
-6. Het gewicht van en het stikstofgehalte en het fosfaatgehalte in de van het bedrijf of van de onderneming van de producent afgevoerde hoeveelheid mineralenconcentraat wordt bepaald door middel van weging met behulp van een weegwerktuig onderscheidenlijk door middel van analyse van een uit de desbetreffende hoeveelheid genomen monster. Het nemen van dit monster en de analyse van dit monster geschieden overeenkomstig de [artikelen 78 tot en met 81](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&hoofdstuk=9&paragraaf=2&artikel=78&z=2017-01-01&g=2017-01-01).
+6. Het gewicht van en het stikstofgehalte en het fosfaatgehalte in de van het bedrijf of van de onderneming van de producent afgevoerde hoeveelheid mineralenconcentraat wordt bepaald door middel van weging met behulp van een weegwerktuig onderscheidenlijk door middel van analyse van een uit de desbetreffende hoeveelheid genomen monster. Het nemen van dit monster en de analyse van dit monster geschieden overeenkomstig de [artikelen 78 tot en met 81](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&hoofdstuk=9&paragraaf=2&artikel=78&z=2017-02-01&g=2017-02-01).
 
 7. Ingeval de aangewezen producent een intermediair is, heeft de in [artikel 14, eerste lid, van de Meststoffenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0004054&artikel=14) bedoelde verantwoording betrekking op zowel de hoeveelheid fosfaat als de hoeveelheid stikstof.
 
-8. Indien de aangewezen producent niet voldoet aan dit artikel of aan de ingevolge [artikel 35b, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&hoofdstuk=3&paragraaf=5&artikel=35b&z=2017-01-01&g=2017-01-01), gestelde voorschriften, kan de minister de aanwijzing als deelnemer voor een bepaalde periode schorsen of intrekken.
+8. Indien de aangewezen producent niet voldoet aan dit artikel of aan de ingevolge [artikel 35b, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&hoofdstuk=3&paragraaf=5&artikel=35b&z=2017-02-01&g=2017-02-01), gestelde voorschriften, kan de minister de aanwijzing als deelnemer voor een bepaalde periode schorsen of intrekken.
 
 ##### Artikel 35e
 
-De landbouwer die op zijn bedrijf mineralenconcentraat gebruikt, is voor wat betreft het gebruik van het mineralenconcentraat, voor de jaren 2009 tot en met 2017 vrijgesteld van [artikel 7 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004054&artikel=7), voor zover het gebruik van de totale hoeveelheid meststoffen op zijn bedrijf de stikstofgebruiksnorm, bedoeld in [artikel 8, onderdeel b, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004054&artikel=8), en de fosfaatgebruiksnorm, bedoeld in [artikel 8, onderdeel c, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004054&artikel=8), niet overschrijdt, en indien is voldaan aan elk van de voorwaarden, bedoeld in [artikel 35f](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&hoofdstuk=3&paragraaf=5&artikel=35f&z=2017-01-01&g=2017-01-01).
+De landbouwer die op zijn bedrijf mineralenconcentraat gebruikt, is voor wat betreft het gebruik van het mineralenconcentraat, voor de jaren 2009 tot en met 2017 vrijgesteld van [artikel 7 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004054&artikel=7), voor zover het gebruik van de totale hoeveelheid meststoffen op zijn bedrijf de stikstofgebruiksnorm, bedoeld in [artikel 8, onderdeel b, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004054&artikel=8), en de fosfaatgebruiksnorm, bedoeld in [artikel 8, onderdeel c, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004054&artikel=8), niet overschrijdt, en indien is voldaan aan elk van de voorwaarden, bedoeld in [artikel 35f](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&hoofdstuk=3&paragraaf=5&artikel=35f&z=2017-02-01&g=2017-02-01).
 
 ##### Artikel 35f
 
-1. De landbouwer heeft met een overeenkomstig [artikel 35b](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&hoofdstuk=3&paragraaf=5&artikel=35b&z=2017-01-01&g=2017-01-01) aangewezen producent van mineralenconcentraat een schriftelijke overeenkomst gesloten tot afname van het mineralenconcentraat.
+1. De landbouwer heeft met een overeenkomstig [artikel 35b](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&hoofdstuk=3&paragraaf=5&artikel=35b&z=2017-02-01&g=2017-02-01) aangewezen producent van mineralenconcentraat een schriftelijke overeenkomst gesloten tot afname van het mineralenconcentraat.
 
-2. Het desbetreffende bedrijf van de landbouwer is voor de toepassing van [artikel 35e](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&hoofdstuk=3&paragraaf=5&artikel=35e&z=2017-01-01&g=2017-01-01) elektronisch bij de minister aangemeld, onder vermelding van het door de minister ter identificatie van het bedrijf verstrekte relatienummer. Deze aanmelding geschiedt voordat de eerste vracht mineralenconcentraat op het bedrijf wordt aangevoerd.
+2. Het desbetreffende bedrijf van de landbouwer is voor de toepassing van [artikel 35e](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&hoofdstuk=3&paragraaf=5&artikel=35e&z=2017-02-01&g=2017-02-01) elektronisch bij de minister aangemeld, onder vermelding van het door de minister ter identificatie van het bedrijf verstrekte relatienummer. Deze aanmelding geschiedt voordat de eerste vracht mineralenconcentraat op het bedrijf wordt aangevoerd.
 
 3. Het mineralenconcentraat is rechtstreeks vanaf het bedrijf of de onderneming van de in het eerste lid bedoelde producent op het bedrijf van de landbouwer aangevoerd.
 
-4. Het gewicht van en het stikstofgehalte en het fosfaatgehalte in de op het bedrijf van de landbouwer aangevoerde hoeveelheid mineralenconcentraat worden bepaald door middel van weging met behulp van een weegwerktuig onderscheidenlijk door middel van analyse van een uit de desbetreffende hoeveelheid genomen monster. Het nemen van dit monster en de analyse van dit monster geschieden overeenkomstig de [artikelen 78 tot en met 81](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&hoofdstuk=9&paragraaf=2&artikel=78&z=2017-01-01&g=2017-01-01).
+4. Het gewicht van en het stikstofgehalte en het fosfaatgehalte in de op het bedrijf van de landbouwer aangevoerde hoeveelheid mineralenconcentraat worden bepaald door middel van weging met behulp van een weegwerktuig onderscheidenlijk door middel van analyse van een uit de desbetreffende hoeveelheid genomen monster. Het nemen van dit monster en de analyse van dit monster geschieden overeenkomstig de [artikelen 78 tot en met 81](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&hoofdstuk=9&paragraaf=2&artikel=78&z=2017-02-01&g=2017-02-01).
 
-5. Op het vervoersbewijs dierlijke meststoffen dat de desbetreffende aangevoerde vracht vergezelt, is de in [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&bijlage=I&z=2017-01-01&g=2017-01-01) voor mineralenconcentraat opgenomen mestcode vermeld.
+5. Op het vervoersbewijs dierlijke meststoffen dat de desbetreffende aangevoerde vracht vergezelt, is de in [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&bijlage=I&z=2017-02-01&g=2017-02-01) voor mineralenconcentraat opgenomen mestcode vermeld.
 
 6. De landbouwer houdt in de administratie, bedoeld in [artikel 32 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0019031&artikel=32), de gegevens bij over de oppervlakte en de ligging van de percelen van zijn bedrijf waarop mineralenconcentraat op of in de bodem is gebracht.
 
-7. De landbouwer verleent indien door of namens de minister daartoe verzocht alle noodzakelijke medewerking aan het in [artikel 35a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&hoofdstuk=3&paragraaf=5&artikel=35a&z=2017-01-01&g=2017-01-01), bedoelde onderzoek.
+7. De landbouwer verleent indien door of namens de minister daartoe verzocht alle noodzakelijke medewerking aan het in [artikel 35a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&hoofdstuk=3&paragraaf=5&artikel=35a&z=2017-02-01&g=2017-02-01), bedoelde onderzoek.
 
 8. Bij de bepaling van de in [artikel 12, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004054&artikel=12) bedoelde hoeveelheid meststoffen wordt voor het desbetreffende bedrijf de hoeveelheid stikstof in het mineralenconcentraat voor 100 procent in aanmerking genomen.
 
@@ -7272,15 +7278,15 @@ Deze regeling zal met toelichting in de Staatscourant worden geplaatst.
 
 ##### Artikel 59a
 
-1. [Artikel 53, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&hoofdstuk=8&paragraaf=1&artikel=53&z=2017-01-01&g=2017-01-01), [artikel 54, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&hoofdstuk=8&paragraaf=1&artikel=54&z=2017-01-01&g=2017-01-01), voor zover dat lid betrekking heeft op de automatische bemonsterings- en verpakkingsapparatuur, [artikel 55, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&hoofdstuk=8&paragraaf=1&artikel=55&z=2017-01-01&g=2017-01-01), aanhef in samenhang met de onderdelen b en c, en artikel 56, eerste lid, voor zover dat lid betrekking heeft op het vastleggen van de in [artikel 55, tweede lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&hoofdstuk=8&paragraaf=1&artikel=55&z=2017-01-01&g=2017-01-01), bedoelde gegevens, zijn niet van toepassing op het vervoer van dierlijke meststoffen, indien de dierlijke meststoffen worden afgevoerd van een bedrijf ten aanzien waarvan ontheffing is verleend van de [artikelen 76, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&hoofdstuk=9&paragraaf=2&artikel=76&z=2017-01-01&g=2017-01-01), en [77](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&hoofdstuk=9&paragraaf=2&artikel=77&z=2017-01-01&g=2017-01-01) en rechtstreeks, zonder tussenopslag, worden vervoerd naar een bedrijf ten aanzien waarvan eveneens ontheffing is verleend van de [artikelen 76, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&hoofdstuk=9&paragraaf=2&artikel=76&z=2017-01-01&g=2017-01-01), en [77](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&hoofdstuk=9&paragraaf=2&artikel=77&z=2017-01-01&g=2017-01-01) onder de volgende voorwaarden:
+1. [Artikel 53, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&hoofdstuk=8&paragraaf=1&artikel=53&z=2017-02-01&g=2017-02-01), [artikel 54, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&hoofdstuk=8&paragraaf=1&artikel=54&z=2017-02-01&g=2017-02-01), voor zover dat lid betrekking heeft op de automatische bemonsterings- en verpakkingsapparatuur, [artikel 55, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&hoofdstuk=8&paragraaf=1&artikel=55&z=2017-02-01&g=2017-02-01), aanhef in samenhang met de onderdelen b en c, en artikel 56, eerste lid, voor zover dat lid betrekking heeft op het vastleggen van de in [artikel 55, tweede lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&hoofdstuk=8&paragraaf=1&artikel=55&z=2017-02-01&g=2017-02-01), bedoelde gegevens, zijn niet van toepassing op het vervoer van dierlijke meststoffen, indien de dierlijke meststoffen worden afgevoerd van een bedrijf ten aanzien waarvan ontheffing is verleend van de [artikelen 76, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&hoofdstuk=9&paragraaf=2&artikel=76&z=2017-02-01&g=2017-02-01), en [77](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&hoofdstuk=9&paragraaf=2&artikel=77&z=2017-02-01&g=2017-02-01) en rechtstreeks, zonder tussenopslag, worden vervoerd naar een bedrijf ten aanzien waarvan eveneens ontheffing is verleend van de [artikelen 76, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&hoofdstuk=9&paragraaf=2&artikel=76&z=2017-02-01&g=2017-02-01), en [77](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&hoofdstuk=9&paragraaf=2&artikel=77&z=2017-02-01&g=2017-02-01) onder de volgende voorwaarden:
 
 - a. de afvoer vindt plaats op basis van een schriftelijke overeenkomst tussen de leverancier en de afnemer die is afgesloten voordat het vervoer van de desbetreffende vracht plaatsvond;
 
 - b. de hoeveelheid van de desbetreffende vracht meststoffen wordt bepaald overeenkomstig de aan de ontheffing verbonden voorschriften; en
 
-- c. het op de vracht betrekking hebbende vervoersbewijs dierlijke meststoffen is overeenkomstig [artikel 66, vierde lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&hoofdstuk=8&paragraaf=2&artikel=66&z=2017-01-01&g=2017-01-01), ingevuld.
+- c. het op de vracht betrekking hebbende vervoersbewijs dierlijke meststoffen is overeenkomstig [artikel 66, vierde lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&hoofdstuk=8&paragraaf=2&artikel=66&z=2017-02-01&g=2017-02-01), ingevuld.
 
-2. Het eerste lid is niet van toepassing, indien de vracht dierlijke meststoffen op grond van de voorschriften die zijn verbonden aan de aan de leverancier van de desbetreffende vracht verleende ontheffing wordt vervoerd overeenkomstig de [artikelen 48](https://wetten.overheid.nl/jci1.3:c:BWBR0019031&artikel=48) en [49 van het Uitvoeringsbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0019031&artikel=49) en de [artikelen 53 tot en met 56](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&hoofdstuk=8&paragraaf=1&artikel=53&z=2017-01-01&g=2017-01-01).
+2. Het eerste lid is niet van toepassing, indien de vracht dierlijke meststoffen op grond van de voorschriften die zijn verbonden aan de aan de leverancier van de desbetreffende vracht verleende ontheffing wordt vervoerd overeenkomstig de [artikelen 48](https://wetten.overheid.nl/jci1.3:c:BWBR0019031&artikel=48) en [49 van het Uitvoeringsbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0019031&artikel=49) en de [artikelen 53 tot en met 56](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&hoofdstuk=8&paragraaf=1&artikel=53&z=2017-02-01&g=2017-02-01).
 
 ### Hoofdstuk 9. Hoeveelheidbepaling
 
@@ -7435,11 +7441,11 @@ Deze regeling zal met toelichting in de Staatscourant worden geplaatst.
 
 ##### Artikel 28a
 
-1. In afwijking van [artikel 28](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&hoofdstuk=3&paragraaf=2&artikel=28&z=2017-01-01&g=2017-01-01) bedraagt de hoeveelheid stikstof, bedoeld in [artikel 10, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004054&artikel=10), voor onderstaande gewassen voor zover de teelt van deze gewassen op kleigrond plaatsvindt, de hoeveelheid stikstof die in [bijlage A, tabel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&bijlage=A&z=2017-01-01&g=2017-01-01), bij het desbetreffende gewas onder het desbetreffende jaar is vermeld, vermeerderd met de hieronder vermelde hoeveelheid stikstof per hectare van de tot het bedrijf behorende oppervlakte landbouwgrond, onder de in het tweede lid vermelde voorwaarden:
+1. In afwijking van [artikel 28](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&hoofdstuk=3&paragraaf=2&artikel=28&z=2017-02-01&g=2017-02-01) bedraagt de hoeveelheid stikstof, bedoeld in [artikel 10, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004054&artikel=10), voor onderstaande gewassen voor zover de teelt van deze gewassen op kleigrond plaatsvindt, de hoeveelheid stikstof die in [bijlage A, tabel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&bijlage=A&z=2017-02-01&g=2017-02-01), bij het desbetreffende gewas onder het desbetreffende jaar is vermeld, vermeerderd met de hieronder vermelde hoeveelheid stikstof per hectare van de tot het bedrijf behorende oppervlakte landbouwgrond, onder de in het tweede lid vermelde voorwaarden:
 
 - a. voor zover het gewas suikerbieten betreft, 15 kilogrammen stikstof, indien de gemiddelde opbrengst van het totale areaal suikerbieten dat op het desbetreffende bedrijf op kleigrond werd geteeld, gemeten over de drie aan het desbetreffende jaar voorafgaande jaren, ten minste 75 ton per hectare bedroeg;
 
-- b. voor zover het de in [bijlage A, tabel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&bijlage=A&z=2017-01-01&g=2017-01-01), genoemde consumptieaardappelrassen betreft, 30 kilogrammen stikstof, indien de gemiddelde opbrengst van het totale areaal van deze consumptieaardappelrassen dat op het desbetreffende bedrijf op kleigrond werd geteeld, gemeten over de drie aan het desbetreffende jaar voorafgaande jaren, ten minste 50 ton per hectare bedroeg;
+- b. voor zover het de in [bijlage A, tabel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&bijlage=A&z=2017-02-01&g=2017-02-01), genoemde consumptieaardappelrassen betreft, 30 kilogrammen stikstof, indien de gemiddelde opbrengst van het totale areaal van deze consumptieaardappelrassen dat op het desbetreffende bedrijf op kleigrond werd geteeld, gemeten over de drie aan het desbetreffende jaar voorafgaande jaren, ten minste 50 ton per hectare bedroeg;
 
 - c. voor zover het gewas wintertarwe betreft, 15 kilogrammen stikstof, indien de gemiddelde opbrengst van het totale areaal wintertarwe dat op het desbetreffende bedrijf op kleigrond werd geteeld, gemeten over de drie aan het desbetreffende jaar voorafgaande jaren, ten minste 9 ton per hectare bedroeg;
 
@@ -7491,7 +7497,7 @@ Deze regeling zal met toelichting in de Staatscourant worden geplaatst.
 
 ##### Artikel 51a
 
-1. Op de opslagruimten voor vloeibaar zuiveringsslib, bedoeld in [artikel 51, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&hoofdstuk=7&artikel=51&z=2017-01-01&g=2017-01-01), worden de door de minister verstrekte registratienummers ter identificatie van de afzonderlijke opslagruimten aangebracht, op zodanige wijze dat het nummer steeds duidelijk zichtbaar en leesbaar is.
+1. Op de opslagruimten voor vloeibaar zuiveringsslib, bedoeld in [artikel 51, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&hoofdstuk=7&artikel=51&z=2017-02-01&g=2017-02-01), worden de door de minister verstrekte registratienummers ter identificatie van de afzonderlijke opslagruimten aangebracht, op zodanige wijze dat het nummer steeds duidelijk zichtbaar en leesbaar is.
 
 2. De opslagruimten voor vloeibaar zuiveringsslib worden in de administratie en bij de verstrekking van gegevens mede aangeduid met het registratienummer van de opslagruimte, bedoeld in het eerste lid.
 
@@ -7505,13 +7511,13 @@ Deze regeling zal met toelichting in de Staatscourant worden geplaatst.
 
 ##### Artikel 74a
 
-Voor zover het graasdieren betreft die worden gehouden op een bedrijf waarvoor een inkennisstelling heeft plaatsgevonden als bedoeld in [artikel 2.14, eerste lid, van de Regeling dierlijke producten](https://wetten.overheid.nl/jci1.3:c:BWBR0032462&artikel=2.14) en die behoren tot de in de [bijlage bij die regeling](onbekend) onderscheiden dieren, zijn de in [artikel 66, eerste en tweede lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0019031&artikel=66) bedoelde forfaitaire productienormen, uitgedrukt in kilogrammen stikstof per dier per jaar, in afwijking van de [artikelen 73](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&hoofdstuk=9&paragraaf=1&artikel=73&z=2017-01-01&g=2017-01-01) en [74](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&hoofdstuk=9&paragraaf=1&artikel=74&z=2017-01-01&g=2017-01-01), de normen die bij de desbetreffende categorie dieren in die bijlage zijn vermeld.
+Voor zover het graasdieren betreft die worden gehouden op een bedrijf waarvoor een inkennisstelling heeft plaatsgevonden als bedoeld in [artikel 2.14, eerste lid, van de Regeling dierlijke producten](https://wetten.overheid.nl/jci1.3:c:BWBR0032462&artikel=2.14) en die behoren tot de in de [bijlage bij die regeling](onbekend) onderscheiden dieren, zijn de in [artikel 66, eerste en tweede lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0019031&artikel=66) bedoelde forfaitaire productienormen, uitgedrukt in kilogrammen stikstof per dier per jaar, in afwijking van de [artikelen 73](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&hoofdstuk=9&paragraaf=1&artikel=73&z=2017-02-01&g=2017-02-01) en [74](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&hoofdstuk=9&paragraaf=1&artikel=74&z=2017-02-01&g=2017-02-01), de normen die bij de desbetreffende categorie dieren in die bijlage zijn vermeld.
 
 #### § 1. Mestproductie
 
 ##### Artikel 92c
 
-Ingeval een hoeveelheid vloeibaar zuiveringsslib die afkomstig is uit een opslagruimte voor vloeibaar zuiveringsslib als bedoeld in [artikel 39, tweede lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0019031&artikel=39) of in [artikel 51, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&hoofdstuk=7&artikel=51&z=2017-01-01&g=2017-01-01), en die rechtstreeks van de desbetreffende onderneming wordt afgevoerd naar een bedrijf, komt het stikstofgehalte en het fosfaatgehalte alsmede het drogestofgehalte van de desbetreffende hoeveelheid zuiveringsslib, in afwijking van [artikel 68, eerste lid van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0019031&artikel=68), overeen met het stikstofgehalte, het fosfaatgehalte onderscheidenlijk het drogestofgehalte zoals dat voor de in de desbetreffende opslag aanwezige hoeveelheid zuiveringsslib met gebruikmaking van het in [artikel 46, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&hoofdstuk=6&artikel=46&z=2017-01-01&g=2017-01-01), of artikel 51, vijfde lid, bedoelde formulier, of de in artikel 46, tweede lid, genoemde andere gegevensdragers is berekend en zoals dat voordat de afvoer plaatsvond, overeenkomstig [artikel 48, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&hoofdstuk=6&artikel=48&z=2017-01-01&g=2017-01-01), of [52, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&hoofdstuk=7&artikel=52&z=2017-01-01&g=2017-01-01), aan de minister is verstrekt.
+Ingeval een hoeveelheid vloeibaar zuiveringsslib die afkomstig is uit een opslagruimte voor vloeibaar zuiveringsslib als bedoeld in [artikel 39, tweede lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0019031&artikel=39) of in [artikel 51, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&hoofdstuk=7&artikel=51&z=2017-02-01&g=2017-02-01), en die rechtstreeks van de desbetreffende onderneming wordt afgevoerd naar een bedrijf, komt het stikstofgehalte en het fosfaatgehalte alsmede het drogestofgehalte van de desbetreffende hoeveelheid zuiveringsslib, in afwijking van [artikel 68, eerste lid van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0019031&artikel=68), overeen met het stikstofgehalte, het fosfaatgehalte onderscheidenlijk het drogestofgehalte zoals dat voor de in de desbetreffende opslag aanwezige hoeveelheid zuiveringsslib met gebruikmaking van het in [artikel 46, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&hoofdstuk=6&artikel=46&z=2017-02-01&g=2017-02-01), of artikel 51, vijfde lid, bedoelde formulier, of de in artikel 46, tweede lid, genoemde andere gegevensdragers is berekend en zoals dat voordat de afvoer plaatsvond, overeenkomstig [artikel 48, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&hoofdstuk=6&artikel=48&z=2017-02-01&g=2017-02-01), of [52, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&hoofdstuk=7&artikel=52&z=2017-02-01&g=2017-02-01), aan de minister is verstrekt.
 
 #### § 2. Afgevoerde en aangevoerde dierlijke meststoffen
 
@@ -7561,15 +7567,15 @@ Ingeval een hoeveelheid vloeibaar zuiveringsslib die afkomstig is uit een opslag
 
 ##### Artikel 103b
 
-1. Het laboratorium dat de in [artikel 103a](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&hoofdstuk=9&paragraaf=8&artikel=103a&z=2017-01-01&g=2017-01-01) bedoelde vaststelling heeft verricht, verstrekt de landbouwer het analyserapport en verstrekt desgevraagd gegevens over die vaststelling aan de minister.
+1. Het laboratorium dat de in [artikel 103a](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&hoofdstuk=9&paragraaf=8&artikel=103a&z=2017-02-01&g=2017-02-01) bedoelde vaststelling heeft verricht, verstrekt de landbouwer het analyserapport en verstrekt desgevraagd gegevens over die vaststelling aan de minister.
 
-2. De landbouwer meldt de fosfaattoestand van het desbetreffende perceel gebaseerd op het op grond van [artikel 103a, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&hoofdstuk=9&paragraaf=8&artikel=103a&z=2017-01-01&g=2017-01-01), geldige analyserapport, uiterlijk 15 mei van het desbetreffende kalenderjaar.
+2. De landbouwer meldt de fosfaattoestand van het desbetreffende perceel gebaseerd op het op grond van [artikel 103a, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&hoofdstuk=9&paragraaf=8&artikel=103a&z=2017-02-01&g=2017-02-01), geldige analyserapport, uiterlijk 15 mei van het desbetreffende kalenderjaar.
 
 3. De landbouwer bewaart het analyserapport als onderdeel van de administratie, bedoeld in [artikel 32 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0019031&artikel=32).
 
 ##### Artikel 103c
 
-1. In afwijking van [artikel 103a, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&hoofdstuk=9&paragraaf=8&artikel=103a&z=2017-01-01&g=2017-01-01), kan het laboratorium het nemen van monsters uit de bodem van een perceel uitbesteden aan een derde indien:
+1. In afwijking van [artikel 103a, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&hoofdstuk=9&paragraaf=8&artikel=103a&z=2017-02-01&g=2017-02-01), kan het laboratorium het nemen van monsters uit de bodem van een perceel uitbesteden aan een derde indien:
 
 - a. de monstername geschiedt onder verantwoordelijkheid van het laboratorium dat de analyse uitvoert;
 
@@ -8303,21 +8309,21 @@ Deze regeling zal met toelichting in de Staatscourant worden geplaatst.
 
 ##### Artikel 27a
 
-1. Ten hoogste vier jaren voorafgaand aan 1 februari van het kalenderjaar waarin de gebruiksnorm, bedoeld in [artikel 24, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&hoofdstuk=3&paragraaf=1&artikel=24&z=2017-01-01&g=2017-01-01), wordt toegepast, zijn de waarde van de fosfaattoestand en de waarde van het stikstofleverende vermogen van de bodem van de tot het bedrijf behorende oppervlakte landbouwgrond vastgesteld en vastgelegd in een analyserapport door een laboratorium dat blijkens accreditatie door de Raad aantoonbaar voldoet aan de norm NEN-EN-ISO/IEC 17025.
+1. Ten hoogste vier jaren voorafgaand aan 1 februari van het kalenderjaar waarin de gebruiksnorm, bedoeld in [artikel 24, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&hoofdstuk=3&paragraaf=1&artikel=24&z=2017-02-01&g=2017-02-01), wordt toegepast, zijn de waarde van de fosfaattoestand en de waarde van het stikstofleverende vermogen van de bodem van de tot het bedrijf behorende oppervlakte landbouwgrond vastgesteld en vastgelegd in een analyserapport door een laboratorium dat blijkens accreditatie door de Raad aantoonbaar voldoet aan de norm NEN-EN-ISO/IEC 17025.
 
-2. Het laboratorium stelt de fosfaattoestand van de bodem vast door middel van bemonstering en analyse van de bodem van de desbetreffende percelen overeenkomstig [artikel 103a, eerste tot en met derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&hoofdstuk=9&paragraaf=8&artikel=103a&z=2017-01-01&g=2017-01-01).
+2. Het laboratorium stelt de fosfaattoestand van de bodem vast door middel van bemonstering en analyse van de bodem van de desbetreffende percelen overeenkomstig [artikel 103a, eerste tot en met derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&hoofdstuk=9&paragraaf=8&artikel=103a&z=2017-02-01&g=2017-02-01).
 
 3. De landbouwer bewaart het analyserapport als onderdeel van de administratie, bedoeld in [artikel 32 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0019031&artikel=32).
 
-4. Indien een perceel door de landbouwer in gebruik wordt genomen na 1 februari en vóór 16 mei van het kalenderjaar waarin de gebruiksnorm, bedoeld in [artikel 24, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&hoofdstuk=3&paragraaf=1&artikel=24&z=2017-01-01&g=2017-01-01), wordt toegepast, vindt de waardevaststelling, bedoeld in het eerste lid, uiterlijk 7 dagen na de ingebruikname plaats.
+4. Indien een perceel door de landbouwer in gebruik wordt genomen na 1 februari en vóór 16 mei van het kalenderjaar waarin de gebruiksnorm, bedoeld in [artikel 24, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&hoofdstuk=3&paragraaf=1&artikel=24&z=2017-02-01&g=2017-02-01), wordt toegepast, vindt de waardevaststelling, bedoeld in het eerste lid, uiterlijk 7 dagen na de ingebruikname plaats.
 
 ##### Artikel 27b
 
-Als vaststelling van de fosfaattoestand van de bodem, bedoeld in [artikel 27a, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&hoofdstuk=3&paragraaf=1&artikel=27a&z=2017-01-01&g=2017-01-01), wordt tevens aangemerkt de vaststelling van de fosfaattoestand van de bodem:
+Als vaststelling van de fosfaattoestand van de bodem, bedoeld in [artikel 27a, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&hoofdstuk=3&paragraaf=1&artikel=27a&z=2017-02-01&g=2017-02-01), wordt tevens aangemerkt de vaststelling van de fosfaattoestand van de bodem:
 
-- a. die tot en met 31 oktober 2009 is verricht overeenkomstig [artikel 27](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&hoofdstuk=3&paragraaf=1&artikel=27&z=2017-01-01&g=2017-01-01) zoals dit artikel luidde op 31 december 2009; of
+- a. die tot en met 31 oktober 2009 is verricht overeenkomstig [artikel 27](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&hoofdstuk=3&paragraaf=1&artikel=27&z=2017-02-01&g=2017-02-01) zoals dit artikel luidde op 31 december 2009; of
 
-- b. bemonstering en analyse van de bodem overeenkomstig het in [bijlage L](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&bijlage=L&z=2017-01-01&g=2017-01-01) opgenomen protocol met uitzondering van de in onderdeel I, paragraaf 1, voorgeschreven vastlegging van de omvang en vorm van het te bemonsteren perceel dan wel perceelsdeel met een Global Positioning System, voor zover het monsters betreft die in de periode van 1 november 2009 tot 1 januari 2010 uit de desbetreffende bodem zijn genomen.
+- b. bemonstering en analyse van de bodem overeenkomstig het in [bijlage L](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&bijlage=L&z=2017-02-01&g=2017-02-01) opgenomen protocol met uitzondering van de in onderdeel I, paragraaf 1, voorgeschreven vastlegging van de omvang en vorm van het te bemonsteren perceel dan wel perceelsdeel met een Global Positioning System, voor zover het monsters betreft die in de periode van 1 november 2009 tot 1 januari 2010 uit de desbetreffende bodem zijn genomen.
 
 #### § 2. Stikstofgebruiksnorm
 
@@ -8702,7 +8708,7 @@ Deze regeling zal met toelichting in de Staatscourant worden geplaatst.
 
 - a. naam, adres en indien van toepassing de door de Kamer van Koophandel, bedoeld in [artikel 2 van de Wet op de Kamer van Koophandel](https://wetten.overheid.nl/jci1.3:c:BWBR0034331&artikel=2), verstrekte KvK-nummers van de betrokken vervoerder en van de leveranciers;
 
-- b. de mestcode van de desbetreffende vracht dierlijke meststoffen, zoals deze voor de desbetreffende mestsoort is opgenomen in [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&bijlage=I&z=2017-01-01&g=2017-01-01);
+- b. de mestcode van de desbetreffende vracht dierlijke meststoffen, zoals deze voor de desbetreffende mestsoort is opgenomen in [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&bijlage=I&z=2017-02-01&g=2017-02-01);
 
 - c. de postcode van de laadplaats van de desbetreffende vracht dierlijke meststoffen, en
 
@@ -8716,23 +8722,23 @@ Deze regeling zal met toelichting in de Staatscourant worden geplaatst.
 
 ##### Artikel 57c
 
-1. In afwijking van [artikel 57b, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&hoofdstuk=8&paragraaf=1&artikel=57b&z=2017-01-01&g=2017-01-01), kan de mededeling op niet elektronische wijze geschieden, indien deze mededeling ten minste dertig werkdagen, voordat de vracht dierlijke meststoffen wordt geladen, wordt gedaan.
+1. In afwijking van [artikel 57b, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&hoofdstuk=8&paragraaf=1&artikel=57b&z=2017-02-01&g=2017-02-01), kan de mededeling op niet elektronische wijze geschieden, indien deze mededeling ten minste dertig werkdagen, voordat de vracht dierlijke meststoffen wordt geladen, wordt gedaan.
 
-2. In afwijking van [artikel 57b, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&hoofdstuk=8&paragraaf=1&artikel=57b&z=2017-01-01&g=2017-01-01), kan de wijziging op niet elektronische wijze geschieden, indien deze wijziging ten minste veertien werkdagen voordat de vracht dierlijke meststoffen wordt geladen, wordt doorgegeven.
+2. In afwijking van [artikel 57b, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&hoofdstuk=8&paragraaf=1&artikel=57b&z=2017-02-01&g=2017-02-01), kan de wijziging op niet elektronische wijze geschieden, indien deze wijziging ten minste veertien werkdagen voordat de vracht dierlijke meststoffen wordt geladen, wordt doorgegeven.
 
-3. In afwijking van [artikel 57b, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&hoofdstuk=8&paragraaf=1&artikel=57b&z=2017-01-01&g=2017-01-01), geldt een termijn van ten minste veertien werkdagen, indien de mededeling op niet elektronische wijze geschiedt.
+3. In afwijking van [artikel 57b, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&hoofdstuk=8&paragraaf=1&artikel=57b&z=2017-02-01&g=2017-02-01), geldt een termijn van ten minste veertien werkdagen, indien de mededeling op niet elektronische wijze geschiedt.
 
-4. In afwijking van [artikel 57b, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&hoofdstuk=8&paragraaf=1&artikel=57b&z=2017-01-01&g=2017-01-01), kan de intrekking van de mededeling op niet elektronische wijze geschieden, indien deze intrekking ten minste veertien werkdagen voordat vracht dierlijke meststoffen wordt geladen, wordt gedaan.
+4. In afwijking van [artikel 57b, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&hoofdstuk=8&paragraaf=1&artikel=57b&z=2017-02-01&g=2017-02-01), kan de intrekking van de mededeling op niet elektronische wijze geschieden, indien deze intrekking ten minste veertien werkdagen voordat vracht dierlijke meststoffen wordt geladen, wordt gedaan.
 
 ##### Artikel 62a
 
 1. Het vervoersbewijs dierlijke meststoffen kan voor meerdere vrachten dierlijke meststoffen op eenzelfde dag worden gebruikt, indien:
 
-- a. het gaat om vrachten dierlijke meststoffen, met uitzondering van champost, waarbij de hoeveelheid dierlijke meststoffen ingevolge de [artikelen 84 tot en met 91](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&hoofdstuk=9&paragraaf=2&artikel=84&z=2017-01-01&g=2017-01-01) wordt bepaald op basis van de in die artikelen bedoelde forfaitaire stikstofgehalten, onderscheidenlijk fosfaatgehalten;
+- a. het gaat om vrachten dierlijke meststoffen, met uitzondering van champost, waarbij de hoeveelheid dierlijke meststoffen ingevolge de [artikelen 84 tot en met 91](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&hoofdstuk=9&paragraaf=2&artikel=84&z=2017-02-01&g=2017-02-01) wordt bepaald op basis van de in die artikelen bedoelde forfaitaire stikstofgehalten, onderscheidenlijk fosfaatgehalten;
 
 - b. bij elke vracht dierlijke meststoffen dezelfde leverancier, vervoerder en afnemer zijn betrokken;
 
-- c. de vrachten dierlijke meststoffen betrekking hebben op één mestcode als bedoeld in [artikel 61, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&hoofdstuk=8&paragraaf=2&artikel=61&z=2017-01-01&g=2017-01-01), of gemengde mest van één of meer diersoorten uit één opslagruimte;
+- c. de vrachten dierlijke meststoffen betrekking hebben op één mestcode als bedoeld in [artikel 61, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&hoofdstuk=8&paragraaf=2&artikel=61&z=2017-02-01&g=2017-02-01), of gemengde mest van één of meer diersoorten uit één opslagruimte;
 
 - d. de vrachten dierlijke meststoffen worden vervoerd door hetzelfde voertuig;
 
@@ -8742,7 +8748,7 @@ Deze regeling zal met toelichting in de Staatscourant worden geplaatst.
 
 - g. een bijlage wordt opgemaakt overeenkomstig het tweede lid, waarop het nummer van het vervoersbewijs dierlijke meststoffen is vermeld.
 
-2. In afwijking van [artikel 61, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&hoofdstuk=8&paragraaf=2&artikel=61&z=2017-01-01&g=2017-01-01), worden:
+2. In afwijking van [artikel 61, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&hoofdstuk=8&paragraaf=2&artikel=61&z=2017-02-01&g=2017-02-01), worden:
 
 - a. het tijdstip van laden en het geschat gewicht van elke vracht dierlijke meststoffen, uiterlijk bij het laden, en
 
@@ -8750,7 +8756,7 @@ Deze regeling zal met toelichting in de Staatscourant worden geplaatst.
 
 op een bij het vervoersbewijs dierlijke meststoffen behorende bijlage ingevuld.
 
-3. In afwijking van [artikel 61, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&hoofdstuk=8&paragraaf=2&artikel=61&z=2017-01-01&g=2017-01-01):
+3. In afwijking van [artikel 61, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&hoofdstuk=8&paragraaf=2&artikel=61&z=2017-02-01&g=2017-02-01):
 
 - a. wordt bij onderdeel 3b van het vervoersbewijs dierlijke meststoffen uiterlijk bij het lossen van de laatste vracht dierlijke meststoffen het totale geschatte gewicht ingevuld van alle vervoerde vrachten dierlijke meststoffen;
 
@@ -9485,11 +9491,11 @@ Deze regeling zal met toelichting in de Staatscourant worden geplaatst.
 
 Meststoffen worden uitsluitend door middel van een pijpleiding vervoerd:
 
-- a. in het in [artikel 59, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&hoofdstuk=8&paragraaf=1&artikel=59&z=2017-01-01&g=2017-01-01), bedoelde geval, of
+- a. in het in [artikel 59, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&hoofdstuk=8&paragraaf=1&artikel=59&z=2017-02-01&g=2017-02-01), bedoelde geval, of
 
 - b. indien dierlijke meststoffen van een bedrijf worden afgevoerd naar een intermediaire onderneming en er wordt voldaan aan de volgende voorwaarden:
 
-- 1. de pijpleiding en de in [artikel 53](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&hoofdstuk=8&paragraaf=1&artikel=53&z=2017-01-01&g=2017-01-01) genoemde apparatuur die wordt gebruikt bij het vervoer behoort tot de intermediaire onderneming;
+- 1. de pijpleiding en de in [artikel 53](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&hoofdstuk=8&paragraaf=1&artikel=53&z=2017-02-01&g=2017-02-01) genoemde apparatuur die wordt gebruikt bij het vervoer behoort tot de intermediaire onderneming;
 
 - 2. de pijpleiding wordt uitsluitend gebruikt voor de afvoer van meststoffen van één bedrijf, en
 
@@ -9499,7 +9505,7 @@ Meststoffen worden uitsluitend door middel van een pijpleiding vervoerd:
 
 ##### Artikel 89a
 
-Indien dierlijke meststoffen afkomstig van paarden of pony’s van een bedrijf in de gemeente Vlieland worden afgevoerd naar een ander bedrijf in de gemeente Vlieland, kan de desbetreffende hoeveelheid dierlijke meststoffen, in afwijking van [artikel 68, eerste lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0019031&artikel=68), worden bepaald op basis van de in [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&bijlage=I&z=2017-01-01&g=2017-01-01), tabel I, voor de desbetreffende mestsoort vermelde forfaitaire stikstofgehalten onderscheidenlijk fosfaatgehalten, onder de volgende voorwaarden:
+Indien dierlijke meststoffen afkomstig van paarden of pony’s van een bedrijf in de gemeente Vlieland worden afgevoerd naar een ander bedrijf in de gemeente Vlieland, kan de desbetreffende hoeveelheid dierlijke meststoffen, in afwijking van [artikel 68, eerste lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0019031&artikel=68), worden bepaald op basis van de in [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&bijlage=I&z=2017-02-01&g=2017-02-01), tabel I, voor de desbetreffende mestsoort vermelde forfaitaire stikstofgehalten onderscheidenlijk fosfaatgehalten, onder de volgende voorwaarden:
 
 - a. de hoeveelheid dierlijke meststoffen is afkomstig van de op het bedrijf gehouden, dan wel anderszins aanwezige dieren;
 
@@ -10017,7 +10023,7 @@ Deze regeling zal met toelichting in de Staatscourant worden geplaatst.
 
 ##### Artikel 104a
 
-Voor de toepassing van [artikel 26, zevende lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004054&artikel=26) geeft het bedrijf waarbinnen de verplaatsing van de varkens-, kippen- of kalkoenhouderij plaatsvindt, van de verplaatsing vooraf kennis aan de minister en verstrekt de overeenkomstige gegevens bedoeld, in [artikel 104, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&hoofdstuk=10&paragraaf=1&artikel=104&z=2017-01-01&g=2017-01-01).
+Voor de toepassing van [artikel 26, zevende lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004054&artikel=26) geeft het bedrijf waarbinnen de verplaatsing van de varkens-, kippen- of kalkoenhouderij plaatsvindt, van de verplaatsing vooraf kennis aan de minister en verstrekt de overeenkomstige gegevens bedoeld, in [artikel 104, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&hoofdstuk=10&paragraaf=1&artikel=104&z=2017-02-01&g=2017-02-01).
 
 #### § 7. Staldieren en eieren
 
@@ -10045,7 +10051,7 @@ Voor de toepassing van [artikel 26, zevende lid, van de wet](https://wetten.over
 
 - h. indien de mestbehandeling of de vergisting van de dierlijke meststoffen niet op een adequate wijze kan geschieden als gevolg van een storing van de installatie, doet de landbouwer hiervan binnen drie dagen melding aan de minister, en
 
-- i. wijzigingen in de ingevolge [artikel 104](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&hoofdstuk=10&paragraaf=1&artikel=104&z=2017-01-01&g=2017-01-01) verstrekte gegevens worden uiterlijk 30 dagen na de datum van de wijziging, onder vermelding van het door de minister ter identificatie van het bedrijf verstrekte relatienummer, gemeld aan de minister.
+- i. wijzigingen in de ingevolge [artikel 104](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&hoofdstuk=10&paragraaf=1&artikel=104&z=2017-02-01&g=2017-02-01) verstrekte gegevens worden uiterlijk 30 dagen na de datum van de wijziging, onder vermelding van het door de minister ter identificatie van het bedrijf verstrekte relatienummer, gemeld aan de minister.
 
 2. Indien niet wordt voldaan aan de voorwaarden, genoemd in het eerste lid, wordt van het op dat bedrijf rustende varkensrecht onderscheidenlijk pluimveerecht dat deel buiten beschouwing gelaten dat volgens [artikel 26, zevende lid, van de Meststoffenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0004054&artikel=26) is overgegaan van een bedrijf dat geheel of gedeeltelijk is gelegen buiten dat concentratiegebied naar een bedrijf dat geheel of gedeeltelijk is gelegen binnen het concentratiegebied.
 
@@ -10673,7 +10679,7 @@ IV. Eindproducten van bewerkingsprocédés die als meststof kunnen worden verhan
 
 ## Bijlage J. Forfaitaire opbrengst en mineralengehalten ruwvoer en enkelvoudig diervoer
 
-### Tabel I behorende bij de [artikelen 84 t/m 91](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&hoofdstuk=9&paragraaf=2&artikel=84&z=2017-01-01&g=2017-01-01)
+### Tabel I behorende bij de [artikelen 84 t/m 91](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&hoofdstuk=9&paragraaf=2&artikel=84&z=2017-02-01&g=2017-02-01)
 
 ## Bijlage L. behorende bij [artikel 103a](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&hoofdstuk=9&paragraaf=8&artikel=103a&z=2012-10-06&g=2012-10-06) van de Uitvoeringsregeling Meststoffenwet
 
@@ -11051,7 +11057,7 @@ Vaste meststoffen kunnen door middel van een transportband worden vervoerd indie
 
 - b. de transportband heeft een vaste standplaats;
 
-- c. de transportband en de in [artikel 53](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&hoofdstuk=8&paragraaf=1&artikel=53&z=2017-01-01&g=2017-01-01) genoemde apparatuur die wordt gebruikt bij het vervoer behoort tot de intermediaire onderneming;
+- c. de transportband en de in [artikel 53](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&hoofdstuk=8&paragraaf=1&artikel=53&z=2017-02-01&g=2017-02-01) genoemde apparatuur die wordt gebruikt bij het vervoer behoort tot de intermediaire onderneming;
 
 - d. de transportband wordt uitsluitend gebruikt voor de afvoer van meststoffen van één bedrijf, en
 
@@ -11552,7 +11558,7 @@ Deze regeling zal met toelichting in de Staatscourant worden geplaatst.
 
 ##### Artikel 27c
 
-Indien niet wordt voldaan aan elk van de voorwaarden, bedoeld in de [artikelen 25](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&hoofdstuk=3&paragraaf=1&artikel=25&z=2017-01-01&g=2017-01-01), [27](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&hoofdstuk=3&paragraaf=1&artikel=27&z=2017-01-01&g=2017-01-01) en [27a](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&hoofdstuk=3&paragraaf=1&artikel=27a&z=2017-01-01&g=2017-01-01), is de gebruiksnorm voor dierlijke meststoffen, bedoeld in [artikel 9, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004054&artikel=9) van toepassing.
+Indien niet wordt voldaan aan elk van de voorwaarden, bedoeld in de [artikelen 25](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&hoofdstuk=3&paragraaf=1&artikel=25&z=2017-02-01&g=2017-02-01), [27](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&hoofdstuk=3&paragraaf=1&artikel=27&z=2017-02-01&g=2017-02-01) en [27a](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&hoofdstuk=3&paragraaf=1&artikel=27a&z=2017-02-01&g=2017-02-01), is de gebruiksnorm voor dierlijke meststoffen, bedoeld in [artikel 9, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004054&artikel=9) van toepassing.
 
 #### § 2. Stikstofgebruiksnorm
 
@@ -11997,19 +12003,19 @@ Vervallen
 
 ##### Artikel 37a
 
-De landbouwer stelt in Nederland zijn administratie voor controle beschikbaar aan de krachtens [artikel 129](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&hoofdstuk=11&artikel=129&z=2017-01-01&g=2017-01-01) aangewezen ambtenaren.
+De landbouwer stelt in Nederland zijn administratie voor controle beschikbaar aan de krachtens [artikel 129](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&hoofdstuk=11&artikel=129&z=2017-02-01&g=2017-02-01) aangewezen ambtenaren.
 
 ### Hoofdstuk 6. Administratieve verplichtingen intermediairs
 
 ##### Artikel 45a
 
-De intermediair stelt in Nederland zijn administratie voor controle beschikbaar aan de krachtens [artikel 129](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&hoofdstuk=11&artikel=129&z=2017-01-01&g=2017-01-01) aangewezen ambtenaren.
+De intermediair stelt in Nederland zijn administratie voor controle beschikbaar aan de krachtens [artikel 129](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&hoofdstuk=11&artikel=129&z=2017-02-01&g=2017-02-01) aangewezen ambtenaren.
 
 ### Hoofdstuk 7. Administratieve verplichtingen overige leveranciers en afnemers
 
 ##### Artikel 50a
 
-De ondernemer, bedoeld in [artikel 50, eerste tot en met derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&hoofdstuk=7&artikel=50&z=2017-01-01&g=2017-01-01), stelt in Nederland zijn administratie voor controle beschikbaar aan de krachtens [artikel 129](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&hoofdstuk=11&artikel=129&z=2017-01-01&g=2017-01-01) aangewezen ambtenaren.
+De ondernemer, bedoeld in [artikel 50, eerste tot en met derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&hoofdstuk=7&artikel=50&z=2017-02-01&g=2017-02-01), stelt in Nederland zijn administratie voor controle beschikbaar aan de krachtens [artikel 129](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&hoofdstuk=11&artikel=129&z=2017-02-01&g=2017-02-01) aangewezen ambtenaren.
 
 ### Hoofdstuk 8. Vervoer van meststoffen
 
@@ -12019,7 +12025,7 @@ De ondernemer, bedoeld in [artikel 50, eerste tot en met derde lid](https://wett
 
 - a. landbouwers die een biologisch veehouderijbedrijf als bedoeld in artikel 14 van Verordening (EG) nr. 834/2007 van de Raad van de Europese Unie van 28 juni 2007 inzake de biologische productie en de etikettering van biologische producten en tot intrekking van Verordening (EEG) nr. 2092/91 (PbEU 2007, L 189) hebben en de dierlijke meststoffen overdragen of laten overdragen aan een afnemer die behoort tot de categorie afnemers, bedoeld in het tweede lid, onderdeel a;
 
-- b. landbouwers die op hun bedrijf dierlijke meststoffen afkomstig van paarden, pony’s of pluimvee produceren, en deze dierlijke meststoffen overdragen of laten overdragen aan een afnemer die behoort tot de categorie afnemers, bedoeld in het tweede lid, onderdeel b, waarbij de afvoer als bedoeld in [artikel 89, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&hoofdstuk=9&paragraaf=2&artikel=89&z=2017-01-01&g=2017-01-01), tevens wordt beschouwd als het overdragen of laten overdragen aan een afnemer die behoort tot de categorie afnemers, bedoeld in het tweede lid, onderdeel b.
+- b. landbouwers die op hun bedrijf dierlijke meststoffen afkomstig van paarden, pony’s of pluimvee produceren, en deze dierlijke meststoffen overdragen of laten overdragen aan een afnemer die behoort tot de categorie afnemers, bedoeld in het tweede lid, onderdeel b, waarbij de afvoer als bedoeld in [artikel 89, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&hoofdstuk=9&paragraaf=2&artikel=89&z=2017-02-01&g=2017-02-01), tevens wordt beschouwd als het overdragen of laten overdragen aan een afnemer die behoort tot de categorie afnemers, bedoeld in het tweede lid, onderdeel b.
 
 2. Als categorieën afnemers als bedoeld in [artikel 21, tweede lid, onderdeel d, onder 2°](https://wetten.overheid.nl/jci1.3:c:BWBR0004054&artikel=21) en [artikel 33a, tweede lid, onderdeel b, onder 2°, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004054&artikel=33a) worden aangewezen:
 
@@ -12037,7 +12043,7 @@ De ondernemer, bedoeld in [artikel 50, eerste tot en met derde lid](https://wett
 
 - b. het in Duitsland gelegen perceel en de Nederlandse grens bedraagt ten hoogste 20 kilometer.
 
-2. De voorwaarden, [artikel 21, tweede lid, onderdeel d, onder 3°](https://wetten.overheid.nl/jci1.3:c:BWBR0004054&artikel=21) en [artikel 33a, tweede lid, onderdeel b, onder 3° van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004054&artikel=33a), zijn de voorwaarden, genoemd in [artikel 87, eerste lid, onderdelen a en d tot en met f](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&hoofdstuk=9&paragraaf=2&artikel=87&z=2017-01-01&g=2017-01-01).
+2. De voorwaarden, [artikel 21, tweede lid, onderdeel d, onder 3°](https://wetten.overheid.nl/jci1.3:c:BWBR0004054&artikel=21) en [artikel 33a, tweede lid, onderdeel b, onder 3° van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004054&artikel=33a), zijn de voorwaarden, genoemd in [artikel 87, eerste lid, onderdelen a en d tot en met f](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&hoofdstuk=9&paragraaf=2&artikel=87&z=2017-02-01&g=2017-02-01).
 
 ##### Artikel 72c
 
@@ -12083,11 +12089,11 @@ De periode, bedoeld in [artikel 57 van het besluit](https://wetten.overheid.nl/j
 
 ##### Artikel 75c
 
-Het ureumgehalte als bedoeld in de [artikelen 75a](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&hoofdstuk=9&paragraaf=1&artikel=75a&z=2017-01-01&g=2017-01-01) en [75b, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&hoofdstuk=9&paragraaf=1&artikel=75b&z=2017-01-01&g=2017-01-01), wordt uitgedrukt in milligrammen ureum per 100 gram melk, waarbij de verkregen waarden worden afgerond op hele getallen.
+Het ureumgehalte als bedoeld in de [artikelen 75a](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&hoofdstuk=9&paragraaf=1&artikel=75a&z=2017-02-01&g=2017-02-01) en [75b, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&hoofdstuk=9&paragraaf=1&artikel=75b&z=2017-02-01&g=2017-02-01), wordt uitgedrukt in milligrammen ureum per 100 gram melk, waarbij de verkregen waarden worden afgerond op hele getallen.
 
 ##### Artikel 75d
 
-De minister stelt op basis van de berekening, bedoeld in [artikel 75b, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&hoofdstuk=9&paragraaf=1&artikel=75b&z=2017-01-01&g=2017-01-01), het gewogen gemiddelde ureumgehalte vast van een landbouwer in een kalenderjaar.
+De minister stelt op basis van de berekening, bedoeld in [artikel 75b, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&hoofdstuk=9&paragraaf=1&artikel=75b&z=2017-02-01&g=2017-02-01), het gewogen gemiddelde ureumgehalte vast van een landbouwer in een kalenderjaar.
 
 ##### Artikel 75e
 
@@ -12946,7 +12952,7 @@ IV. Eindproducten van bewerkingsprocédés die als meststof kunnen worden verhan
 
 ## Bijlage I. Forfaitaire mineralengehalten in dierlijke mest en mestcodes
 
-## bijlage Ia. behorende bij [artikel 92b](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&hoofdstuk=9&paragraaf=3&artikel=92b&z=2017-01-01&g=2017-01-01) van de Uitvoeringsregeling Meststoffenwet
+## bijlage Ia. behorende bij [artikel 92b](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&hoofdstuk=9&paragraaf=3&artikel=92b&z=2017-02-01&g=2017-02-01) van de Uitvoeringsregeling Meststoffenwet
 
 ## Bijlage J
 
@@ -13362,7 +13368,7 @@ Deze regeling zal met toelichting in de Staatscourant worden geplaatst.
 
 ##### Artikel 28b
 
-In afwijking van [artikel 28](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&hoofdstuk=3&paragraaf=2&artikel=28&z=2017-01-01&g=2017-01-01) bedraagt de hoeveelheid stikstof, bedoeld in [artikel 10, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004054&artikel=10) op bouwland voor een gewasperceel 125 procent van de hoeveelheid stikstof die in [bijlage A, tabel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&bijlage=A&z=2017-01-01&g=2017-01-01), voor de desbetreffende grondsoort bij het desbetreffende gewas onder het desbetreffende jaar is vermeld, indien voor dat betreffende gewasperceel:
+In afwijking van [artikel 28](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&hoofdstuk=3&paragraaf=2&artikel=28&z=2017-02-01&g=2017-02-01) bedraagt de hoeveelheid stikstof, bedoeld in [artikel 10, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004054&artikel=10) op bouwland voor een gewasperceel 125 procent van de hoeveelheid stikstof die in [bijlage A, tabel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&bijlage=A&z=2017-02-01&g=2017-02-01), voor de desbetreffende grondsoort bij het desbetreffende gewas onder het desbetreffende jaar is vermeld, indien voor dat betreffende gewasperceel:
 
 - a. de betrokken landbouwer schade leidt of dreigt te leiden uit opbrengstderving of kwaliteitsverlies, veroorzaakt door het optreden van een neerslaghoeveelheid die uitgaat boven 50 millimeter in de 24 uur na 08.00 uur of 60 millimeter in de 48 uur na 08.00 uur;
 
@@ -13370,7 +13376,7 @@ In afwijking van [artikel 28](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&ho
 
 - c. neerslag en opbrengstderving in een rapport door een geregistreerd schade-expert zijn bevestigd, waarin ook melding gemaakt wordt van ligging en areaal van het betreffende gewasperceel;
 
-- d. de hoeveelheid stikstof die boven 100 procent van de in [bijlage A, tabel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&bijlage=A&z=2017-01-01&g=2017-01-01), genoemde hoeveelheid uitgaat, wordt toegediend in de vorm van anorganische meststoffen;
+- d. de hoeveelheid stikstof die boven 100 procent van de in [bijlage A, tabel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&bijlage=A&z=2017-02-01&g=2017-02-01), genoemde hoeveelheid uitgaat, wordt toegediend in de vorm van anorganische meststoffen;
 
 - e. de landbouwer het voornemen tot bijbemesting vooraf heeft gemeld bij de minister;
 
@@ -13471,7 +13477,7 @@ In afwijking van [artikel 28](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&ho
 
 ## bijlage Ia. behorende bij [artikel 92b](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&hoofdstuk=9&paragraaf=3&artikel=92b&z=2014-08-05&g=2014-06-27) van de Uitvoeringsregeling Meststoffenwet
 
-## Bijlage K. behorende bij [artikel 98](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&hoofdstuk=9&paragraaf=6&artikel=98&z=2017-01-01&g=2017-01-01)
+## Bijlage K. behorende bij [artikel 98](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&hoofdstuk=9&paragraaf=6&artikel=98&z=2017-02-01&g=2017-02-01)
 
 ## Bijlage K. behorende bij [artikel 98](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&hoofdstuk=9&paragraaf=6&artikel=98&z=2014-08-05&g=2014-06-27)
 
@@ -14603,11 +14609,11 @@ Herwonnen fosfaten uit rioolzuiveringsslib worden behandeld langs biologische, c
 
 ##### Artikel 83a
 
-1. Indien de dierlijke meststoffen, bedoeld in de [artikelen 84 tot en met 91](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&hoofdstuk=9&paragraaf=2&artikel=84&z=2017-01-01&g=2017-01-01), bestaan uit gier en filtraat na mestscheiding of koek na mestscheiding, wordt, in afwijking van de artikelen 84 tot en met 91, het stikstofgehalte en het fosfaatgehalte vastgesteld door middel van analyse van een uit de desbetreffende meststoffen genomen monster.
+1. Indien de dierlijke meststoffen, bedoeld in de [artikelen 84 tot en met 91](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&hoofdstuk=9&paragraaf=2&artikel=84&z=2017-02-01&g=2017-02-01), bestaan uit gier en filtraat na mestscheiding of koek na mestscheiding, wordt, in afwijking van de artikelen 84 tot en met 91, het stikstofgehalte en het fosfaatgehalte vastgesteld door middel van analyse van een uit de desbetreffende meststoffen genomen monster.
 
-2. De [artikelen 77 tot en met 80](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&hoofdstuk=9&paragraaf=2&artikel=77&z=2017-01-01&g=2017-01-01) zijn van overeenkomstige toepassing.
+2. De [artikelen 77 tot en met 80](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&hoofdstuk=9&paragraaf=2&artikel=77&z=2017-02-01&g=2017-02-01) zijn van overeenkomstige toepassing.
 
-3. [Artikel 81, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&hoofdstuk=9&paragraaf=2&artikel=81&z=2017-01-01&g=2017-01-01), is van overeenkomstige toepassing op een monster dat in het ongerede is geraakt.
+3. [Artikel 81, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&hoofdstuk=9&paragraaf=2&artikel=81&z=2017-02-01&g=2017-02-01), is van overeenkomstige toepassing op een monster dat in het ongerede is geraakt.
 
 ### Hoofdstuk 10. Overgang van een productierecht en de verplaatsing van een varkens-, kippen- of kalkoenhouderij binnen een bedrijf
 
@@ -16936,7 +16942,7 @@ Deze regeling zal met toelichting in de Staatscourant worden geplaatst.
 
 - b. de hoeveelheid stikstof en fosfaat in kilogrammen die wordt overgedragen;
 
-- c. de soort mest die wordt overgedragen, onderscheiden naar meststoffen als bedoeld in [artikel 42, eerste lid, onderdeel a, onder 1° tot en met 4°](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&hoofdstuk=5&artikel=42&z=2017-01-01&g=2017-01-01).
+- c. de soort mest die wordt overgedragen, onderscheiden naar meststoffen als bedoeld in [artikel 42, eerste lid, onderdeel a, onder 1° tot en met 4°](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&hoofdstuk=5&artikel=42&z=2017-02-01&g=2017-02-01).
 
 ### Hoofdstuk 7. Administratieve verplichtingen overige leveranciers en afnemers
 
@@ -17058,23 +17064,59 @@ Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel 80a
 
-Dit onderdeel is nog niet inwerking getreden
+1. De minister verleent op aanvraag een erkenning aan een laboratorium, indien deze beschikt over een accreditatie van de Raad op grond van het accreditatieprogramma AP05, dat is opgenomen in [bijlage H](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&bijlage=H&z=2017-02-01&g=2017-02-01).
+
+2. Een erkenning wordt verleend voor onbepaalde tijd.
+
+3. De beschikking waarmee de erkenning wordt verleend vermeldt ten minste de naam van de instelling en de vestigingsplaats van het laboratorium.
+
+4. Een erkenning is niet overdraagbaar.
 
 ##### Artikel 80b
 
-Dit onderdeel is nog niet inwerking getreden
+Een erkend laboratorium:
+
+- a. registreert gegevens, bedoeld in paragraaf 7.4 van AP05, opgenomen in [bijlage H](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&bijlage=H&z=2017-02-01&g=2017-02-01);
+
+- b. meldt bijzonderheden die kunnen duiden op frauduleus handelen aan de minister door middel van een daartoe door de minister beschikbaar gesteld middel.
 
 ##### Artikel 80c
 
-Dit onderdeel is nog niet inwerking getreden
+1. Voor de aanvraag van de erkenning wordt gebruik gemaakt van het door de minister daartoe ter beschikking gestelde middel.
+
+2. Bij de aanvraag worden ten minste de volgende gegevens verstrekt:
+
+- a. de naam, adres en de vestigingsplaats van het aanvragende laboratorium; en
+
+- b. bewijs dat aan de eis, bedoeld in [artikel 80a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&hoofdstuk=9&paragraaf=2&artikel=80a&z=2017-02-01&g=2017-02-01), wordt voldaan.
 
 ##### Artikel 80d
 
-Dit onderdeel is nog niet inwerking getreden
+1. De minister kan een erkenning intrekken:
+
+- a. op verzoek van het erkende laboratorium;
+
+- b. indien bij de aanvraag onjuiste of onvolledige gegevens zijn verstrekt en kennis van de juiste of volledige gegevens tot een ander besluit zou hebben geleid;
+
+- c. indien de accreditatie, bedoeld in [artikel 80a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&hoofdstuk=9&paragraaf=2&artikel=80a&z=2017-02-01&g=2017-02-01), is ingetrokken door de Raad of niet meer geldig is;
+
+- d. indien de verplichtingen, bedoeld in [artikelen 80b](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&hoofdstuk=9&paragraaf=2&artikel=80b&z=2017-02-01&g=2017-02-01) en [81, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&hoofdstuk=9&paragraaf=2&artikel=81&z=2017-02-01&g=2017-02-01), niet worden nageleefd;
+
+- e. indien wijzigingen, bedoeld in [artikel 80e](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&hoofdstuk=9&paragraaf=2&artikel=80e&z=2017-02-01&g=2017-02-01), niet of niet tijdig worden gemeld.
+
+2. De minister kan een erkenning schorsen, indien:
+
+- a. de accreditatie, bedoeld in [artikel 80a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&hoofdstuk=9&paragraaf=2&artikel=80a&z=2017-02-01&g=2017-02-01), is geschorst door de Raad;
+
+- b. de verplichting, bedoeld in [artikel 81, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&hoofdstuk=9&paragraaf=2&artikel=81&z=2017-02-01&g=2017-02-01), niet wordt nageleefd;
+
+- c. sprake is van een van de gronden, bedoeld in het eerste lid, onderdelen b, d en e.
 
 ##### Artikel 80e
 
-Dit onderdeel is nog niet inwerking getreden
+1. Het erkende laboratorium meldt wijzigingen in de gegevens, bedoeld in [artikelen 80a](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&hoofdstuk=9&paragraaf=2&artikel=80a&z=2017-02-01&g=2017-02-01) en [80b](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&hoofdstuk=9&paragraaf=2&artikel=80b&z=2017-02-01&g=2017-02-01), binnen 30 dagen aan de minister.
+
+2. Voor de melding, bedoeld in het eerste lid, wordt gebruikt gemaakt van een door de minister beschikbaar gesteld middel.
 
 #### § 7. Staldieren en eieren
 
@@ -17100,9 +17142,9 @@ Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel 124a
 
-Dit onderdeel is nog niet inwerking getreden
+Voorafgaand aan het in behandeling nemen van de aanvraag, bedoeld in de [artikelen 78e](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&hoofdstuk=9&paragraaf=2&artikel=78e&z=2017-02-01&g=2017-02-01) en [80c](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&hoofdstuk=9&paragraaf=2&artikel=80c&z=2017-02-01&g=2017-02-01), voldoet de aanvrager een bedrag van € 1.312,-.
 
-## Bijlage Ad. , behorende bij [artikel 25](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&hoofdstuk=3&paragraaf=1&artikel=25&z=2017-01-01&g=2017-01-01) van de Uitvoeringsregeling Meststoffenwet
+## Bijlage Ad. , behorende bij [artikel 25](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&hoofdstuk=3&paragraaf=1&artikel=25&z=2017-02-01&g=2017-02-01) van de Uitvoeringsregeling Meststoffenwet
 
 | Klasse | Oppervlakte (in hectare) | Oppervlakte (in hectare) | Tarief |   | Klasse | Oppervlakte (in hectare) | Oppervlakte (in hectare) | Tarief |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -17147,7 +17189,7 @@ Dit onderdeel is nog niet inwerking getreden
 | 39 | 190,01 | 195 | € 1.208,90 |   | 79 | 390,01 | 395 | € 2.464,90 |
 | 40 | 195,01 | 200 | € 1.240,30 |   | 80 | 395,01 | 400 | € 2.496,30 |
 
-## Bijlage A. Stikstofgebruiksnormen behorende bij de [artikelen 28](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&hoofdstuk=3&paragraaf=2&artikel=28&z=2017-01-01&g=2017-01-01) en [28a](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&hoofdstuk=3&paragraaf=2&artikel=28a&z=2017-01-01&g=2017-01-01) van de Uitvoeringsregeling Meststoffenwet
+## Bijlage A. Stikstofgebruiksnormen behorende bij de [artikelen 28](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&hoofdstuk=3&paragraaf=2&artikel=28&z=2017-02-01&g=2017-02-01) en [28a](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&hoofdstuk=3&paragraaf=2&artikel=28a&z=2017-02-01&g=2017-02-01) van de Uitvoeringsregeling Meststoffenwet
 
 | grondsoort | kleigrond | noordelijke1, westelijke2 en centrale3 zandgronden | zuidelijke zandgronden4 | lössgrond | veengrond |
 | --- | --- | --- | --- | --- | --- |
@@ -17362,7 +17404,7 @@ Dit onderdeel is nog niet inwerking getreden
 | Accord Agria Amora Anosta Arcade Asterix Bintje Challenger Daisy Dolce Vita Donald Fianna Felsina Florida | Fresco Fontane Frieslander Innovator Kennebec Lady Amarilla Lady Blanca Lady Olympia Marijke Maritiema Markies Miranda Miriam Premiere | Ramos Remarka Russet Burbank Sagitta Santana Shepody Spirit Sinora Ukama Umatilla Russet Van Gogh Victoria Zorba |
 | --- | --- | --- |
 
-## Bijlage B. behorende bij [artikel 29](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&hoofdstuk=3&paragraaf=2&artikel=29&z=2017-01-01&g=2017-01-01) van de uitvoeringsregeling Meststoffenwet: Werkingscoëfficiënt
+## Bijlage B. behorende bij [artikel 29](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&hoofdstuk=3&paragraaf=2&artikel=29&z=2017-02-01&g=2017-02-01) van de uitvoeringsregeling Meststoffenwet: Werkingscoëfficiënt
 
 | Soort/herkomst meststof ¹ | Toepassing ¹ | WC |
 | --- | --- | --- |
@@ -17394,17 +17436,17 @@ Dit onderdeel is nog niet inwerking getreden
 
 ¹ Zonder nadere vermelding geldt de genoemde coëfficiënt voor alle grondsoorten, ongeacht herkomst en voor het gehele jaar, tenzij aanwenden op basis van het Besluit gebruik meststoffen is verboden
 
-## Bijlage C. behorende bij de [artikelen 30 tot en met 33](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&hoofdstuk=3&paragraaf=3&artikel=30&z=2017-01-01&g=2017-01-01)
+## Bijlage C. behorende bij de [artikelen 30 tot en met 33](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&hoofdstuk=3&paragraaf=3&artikel=30&z=2017-02-01&g=2017-02-01)
 
-## Bijlage Ea. behorende bij de [artikelen 78d](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&hoofdstuk=9&paragraaf=2&artikel=78d&z=2017-01-01&g=2017-01-01), [78i](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&hoofdstuk=9&paragraaf=2&artikel=78i&z=2017-01-01&g=2017-01-01), [78j](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&hoofdstuk=9&paragraaf=2&artikel=78j&z=2017-01-01&g=2017-01-01), [78q](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&hoofdstuk=9&paragraaf=2&artikel=78q&z=2017-01-01&g=2017-01-01), [78s](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&hoofdstuk=9&paragraaf=2&artikel=78s&z=2017-01-01&g=2017-01-01) en [78u](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&hoofdstuk=9&paragraaf=2&artikel=78u&z=2017-01-01&g=2017-01-01), van de Uitvoeringsregeling Meststoffenwet
+## Bijlage Ea. behorende bij de [artikelen 78d](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&hoofdstuk=9&paragraaf=2&artikel=78d&z=2017-02-01&g=2017-02-01), [78i](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&hoofdstuk=9&paragraaf=2&artikel=78i&z=2017-02-01&g=2017-02-01), [78j](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&hoofdstuk=9&paragraaf=2&artikel=78j&z=2017-02-01&g=2017-02-01), [78q](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&hoofdstuk=9&paragraaf=2&artikel=78q&z=2017-02-01&g=2017-02-01), [78s](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&hoofdstuk=9&paragraaf=2&artikel=78s&z=2017-02-01&g=2017-02-01) en [78u](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&hoofdstuk=9&paragraaf=2&artikel=78u&z=2017-02-01&g=2017-02-01), van de Uitvoeringsregeling Meststoffenwet
 
 Dit onderdeel is nog niet inwerking getreden
 
 ## Bijlage F
 
-## bijlage G. , behorende bij de [artikelen 68](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&hoofdstuk=8&paragraaf=3&artikel=68&z=2017-01-01&g=2017-01-01) en [69](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&hoofdstuk=8&paragraaf=3&artikel=69&z=2017-01-01&g=2017-01-01) van de Uitvoeringsregeling Meststoffenwet
+## bijlage G. , behorende bij de [artikelen 68](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&hoofdstuk=8&paragraaf=3&artikel=68&z=2017-02-01&g=2017-02-01) en [69](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&hoofdstuk=8&paragraaf=3&artikel=69&z=2017-02-01&g=2017-02-01) van de Uitvoeringsregeling Meststoffenwet
 
-## Bijlage H. behorende bij de [artikelen 80](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&hoofdstuk=9&paragraaf=2&artikel=80&z=2017-01-01&g=2017-01-01) en [81](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&hoofdstuk=9&paragraaf=2&artikel=81&z=2017-01-01&g=2017-01-01)
+## Bijlage H. behorende bij de [artikelen 80](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&hoofdstuk=9&paragraaf=2&artikel=80&z=2017-02-01&g=2017-02-01) en [81](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&hoofdstuk=9&paragraaf=2&artikel=81&z=2017-02-01&g=2017-02-01)
 
 ### § 4.2. Controle hoeveelheid monster
 
@@ -17412,7 +17454,7 @@ Dit onderdeel is nog niet inwerking getreden
 
 ### § 6.4.1. Ringonderzoek
 
-## Bijlage L. behorende bij [artikel 103a](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&hoofdstuk=9&paragraaf=8&artikel=103a&z=2017-01-01&g=2017-01-01) van de Uitvoeringsregeling Meststoffenwet
+## Bijlage L. behorende bij [artikel 103a](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&hoofdstuk=9&paragraaf=8&artikel=103a&z=2017-02-01&g=2017-02-01) van de Uitvoeringsregeling Meststoffenwet
 
 ### 2.7. IJkoplossingen
 
@@ -17422,7 +17464,7 @@ Dit onderdeel is nog niet inwerking getreden
 
 ### 5. Opmerkingen
 
-## Bijlage M. behorende bij [artikel 130](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&hoofdstuk=11&artikel=130&z=2017-01-01&g=2017-01-01)
+## Bijlage M. behorende bij [artikel 130](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&hoofdstuk=11&artikel=130&z=2017-02-01&g=2017-02-01)
 
 | Wettelijke bepaling | Wettelijke bepaling | Wettelijke bepaling | Wettelijke bepaling | Wettelijke bepaling | Wettelijke bepaling |
 | --- | --- | --- | --- | --- | --- |
@@ -17641,10 +17683,10 @@ Dit onderdeel is nog niet inwerking getreden
 |   |   |   |   |   |   |
 |   |   | Art. 79 lid 2 | Niet of niet op de juiste wijze verpakken van een monster vaste mest in een voorgeschreven monsterverpakking door de vervoerder | M511 | € 300 |
 |   |   |   |   |   |   |
-|   |   | Art. 80 lid 1, art. 81 lid 3, art. 124 lid 1, art. 125 | Niet toezenden door de vervoerder van het mestmonster ter analyse door een geaccrediteerd of gelijkwaardig laboratorium | M512 | € 300 |
-|   |   |   | Niet uiterlijk 10 werkdagen na bemonstering toezenden van het mestmonster aan een geaccrediteerd of gelijkwaardig laboratorium door de vervoerder | M513 | € 100 |
-|   |   |   | Niet meesturen van de juiste gegevens van de betrokken leverancier en afnemer en het nummer van het vervoersbewijs bij het toezenden van het mestmonster aan een geaccrediteerd of gelijkwaardig laboratorium door de vervoerder | M514 | € 300 |
-|   |   |   | Niet meesturen van de volledige gegevens van de betrokken leverancier en afnemer en van het vervoersbewijs bij het toezenden van het mestmonster aan een geaccrediteerd of gelijkwaardig laboratorium door de vervoerder | M515 | € 200 |
+|   |   | Art. 80 lid 1, art. 81 lid 3, art. 124 lid 1, art. 125 | Niet toezenden door de vervoerder van het mestmonster ter analyse door een erkend of gelijkwaardig laboratorium | M512 | € 300 |
+|   |   |   | Niet uiterlijk 10 werkdagen na bemonstering toezenden van het mestmonster aan een erkend of gelijkwaardig laboratorium door de vervoerder | M513 | € 100 |
+|   |   |   | Niet meesturen van de juiste gegevens van de betrokken leverancier en afnemer en het nummer van het vervoersbewijs bij het toezenden van het mestmonster aan een erkend of gelijkwaardig laboratorium door de vervoerder | M514 | € 300 |
+|   |   |   | Niet meesturen van de volledige gegevens van de betrokken leverancier en afnemer en van het vervoersbewijs bij het toezenden van het mestmonster aan een erkend of gelijkwaardig laboratorium door de vervoerder | M515 | € 200 |
 |   |   |   |   |   |   |
 |   |   | Art. 80 lid 2 | Niet in goede staat bewaren van mestmonsters door de vervoerder | M517 | € 300 |
 |   |   |   |   |   |   |
