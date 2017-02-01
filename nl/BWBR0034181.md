@@ -4,7 +4,7 @@ identifier: "BWBR0034181"
 country: "nl"
 rank: "wet"
 publication_date: "2017-02-01"
-last_updated: "2014-01-01"
+last_updated: "2017-02-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0034181"
 soort: "wet"
@@ -53,7 +53,7 @@ Wijzigt de Mediawet 2008.
 
 ##### Artikel II. Wijziging van de [Mediawet 2008](https://wetten.overheid.nl/jci1.3:c:BWBR0025028)
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Mediawet 2008.
 
 ##### Artikel III. Wijziging van de [Telecommunicatiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0009950)
 
@@ -75,8 +75,8 @@ Als een natuurlijke persoon of rechtspersoon na de inwerkingtreding van deze wet
 
 ##### Artikel VI. **Inwerkingtreding**
 
-1. Deze wet treedt met uitzondering van [artikel II](https://wetten.overheid.nl/jci1.3:c:BWBR0034181&artikel=II&z=2014-01-01&g=2014-01-01) in werking met ingang van een bij koninklijk besluit te bepalen tijdstip dat voor de verschillende artikelen of onderdelen daarvan verschillend kan worden vastgesteld.
+1. Deze wet treedt met uitzondering van [artikel II](https://wetten.overheid.nl/jci1.3:c:BWBR0034181&artikel=II&z=2017-02-01&g=2017-02-01) in werking met ingang van een bij koninklijk besluit te bepalen tijdstip dat voor de verschillende artikelen of onderdelen daarvan verschillend kan worden vastgesteld.
 
-2. [Artikel II](https://wetten.overheid.nl/jci1.3:c:BWBR0034181&artikel=II&z=2014-01-01&g=2014-01-01) treedt in werking met ingang van 1 februari 2017.
+2. [Artikel II](https://wetten.overheid.nl/jci1.3:c:BWBR0034181&artikel=II&z=2017-02-01&g=2017-02-01) treedt in werking met ingang van 1 februari 2017.
 
 Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren die zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
