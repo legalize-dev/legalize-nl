@@ -4,7 +4,7 @@ identifier: "BWBR0035333"
 country: "nl"
 rank: "wet"
 publication_date: "2018-01-01"
-last_updated: "2015-01-01"
+last_updated: "2017-02-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0035333"
 soort: "wet"
@@ -39,7 +39,7 @@ entry_into_force: "2014-07-16"
 
 Allen die deze zullen zien of horen lezen, saluut! doen te weten:
 
-Alzo Wij in overweging genomen hebben, dat het wenselijk is meer eenheid en duidelijkheid aan te brengen in de manier waarop mensen, die nu met toepassing van de [Wet werk en bijstand](https://wetten.overheid.nl/jci1.3:c:BWBR0015703), de [Wet sociale werkvoorziening](https://wetten.overheid.nl/jci1.3:c:BWBR0008903) dan wel de [Wet werk en arbeidsondersteuning jonggehandicapten](https://wetten.overheid.nl/jci1.3:c:BWBR0008657&wetgeving) een inkomensvoorziening ontvangen of met een re-integratievoorziening werkzaamheden verrichten, dat het evenzo wenselijk is om mensen die nu nog aan de kant staan meer kansen te bieden op regulier werk of op andere vormen van arbeidsbevorderende participatie en om gemeenten hiervoor meer instrumenten te geven;
+Alzo Wij in overweging genomen hebben, dat het wenselijk is meer eenheid en duidelijkheid aan te brengen in de manier waarop mensen, die nu met toepassing van de [Wet werk en bijstand](https://wetten.overheid.nl/jci1.3:c:BWBR0015703), de [Wet sociale werkvoorziening](https://wetten.overheid.nl/jci1.3:c:BWBR0008903) dan wel de [Wet werk en arbeidsondersteuning jonggehandicapten](https://wetten.overheid.nl/jci1.3:c:BWBR0008657) een inkomensvoorziening ontvangen of met een re-integratievoorziening werkzaamheden verrichten, dat het evenzo wenselijk is om mensen die nu nog aan de kant staan meer kansen te bieden op regulier werk of op andere vormen van arbeidsbevorderende participatie en om gemeenten hiervoor meer instrumenten te geven;
 
 Zo is het dat Wij, de Afdeling advisering van de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
 
@@ -51,7 +51,7 @@ Wijzigt de Wet werk en bijstand.
 
 Wijzigt de Wet sociale werkvoorziening.
 
-##### Artikel III. Wijziging van de [Wet werk en arbeidsondersteuning jonggehandicapten](https://wetten.overheid.nl/jci1.3:c:BWBR0008657&wetgeving)
+##### Artikel III. Wijziging van de [Wet werk en arbeidsondersteuning jonggehandicapten](https://wetten.overheid.nl/jci1.3:c:BWBR0008657)
 
 Wijzigt de Wet werk en arbeidsondersteuning jonggehandicapten.
 
@@ -67,7 +67,7 @@ Wijzigt de Ziektewet.
 
 Wijzigt de Wet financiering sociale verzekeringen.
 
-##### Artikel VII. Wijziging van de [Wet werk en inkomen naar arbeidsvermogen](https://wetten.overheid.nl/jci1.3:c:BWBR0019057&wetgeving)
+##### Artikel VII. Wijziging van de [Wet werk en inkomen naar arbeidsvermogen](https://wetten.overheid.nl/jci1.3:c:BWBR0019057)
 
 Wijzigt de Wet werk en inkomen naar arbeidsvermogen.
 
@@ -83,7 +83,7 @@ Wijzigt de Wet inkomensvoorziening oudere en gedeeltelijk arbeidsongeschikte wer
 
 Wijzigt de Wet inkomensvoorziening oudere en gedeeltelijk arbeidsongeschikte gewezen zelfstandigen.
 
-##### Artikel XI. Wijziging van de [Wet op de arbeidsongeschiktheidsverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0002524&wetgeving)
+##### Artikel XI. Wijziging van de [Wet op de arbeidsongeschiktheidsverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0002524)
 
 Wijzigt de Wet op de arbeidsongeschiktheidsverzekering.
 
@@ -91,7 +91,7 @@ Wijzigt de Wet op de arbeidsongeschiktheidsverzekering.
 
 Wijzigt de Werkloosheidswet.
 
-##### Artikel XIII. Wijziging van de [Wet arbeidsongeschiktheidsverzekering zelfstandigen](https://wetten.overheid.nl/jci1.3:c:BWBR0008656&wetgeving)
+##### Artikel XIII. Wijziging van de [Wet arbeidsongeschiktheidsverzekering zelfstandigen](https://wetten.overheid.nl/jci1.3:c:BWBR0008656)
 
 Wijzigt de Wet arbeidsongeschiktheidsverzekering zelfstandigen.
 
@@ -163,7 +163,7 @@ Wijzigt de Wet bevordering integriteitsbeoordelingen door het openbaar bestuur.
 
 Wijzigt de Wet brutering overhevelingstoeslag lonen.
 
-##### Artikel XXXI. Wijziging van de [Wet inkomensvoorziening oudere werklozen](https://wetten.overheid.nl/jci1.3:c:BWBR0024394&wetgeving)
+##### Artikel XXXI. Wijziging van de [Wet inkomensvoorziening oudere werklozen](https://wetten.overheid.nl/jci1.3:c:BWBR0024394)
 
 Wijzigt de Wet inkomensvoorziening oudere werklozen.
 
@@ -239,7 +239,7 @@ Wijzigt de Wet invoering en financiering Wet werk en inkomen naar arbeidsvermoge
 
 Wijzigt de Wet overige OCW-subsidies.
 
-##### Artikel XLIX. Wijziging van de [Wet tegemoetkoming chronisch zieken en gehandicapten](https://wetten.overheid.nl/jci1.3:c:BWBR0025003&wetgeving)
+##### Artikel XLIX. Wijziging van de [Wet tegemoetkoming chronisch zieken en gehandicapten](https://wetten.overheid.nl/jci1.3:c:BWBR0025003)
 
 Wijzigt de Wet tegemoetkoming chronisch zieken en gehandicapten.
 
@@ -249,9 +249,11 @@ Wijzigt het Wetboek van Koophandel.
 
 ##### Artikel LI. Samenloopbepaling [Wet revitalisering generiek toezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0031628)
 
+Wijzigt de Gemeentewet.
+
 Dit onderdeel is nog niet inwerking getreden
 
-##### Artikel LII. Grondslag lagere regelgeving [Wet arbeidsongeschiktheidsvoorziening jonggehandicapten](https://wetten.overheid.nl/jci1.3:c:BWBR0008657&wetgeving)
+##### Artikel LII. Grondslag lagere regelgeving [Wet arbeidsongeschiktheidsvoorziening jonggehandicapten](https://wetten.overheid.nl/jci1.3:c:BWBR0008657)
 
 Dit onderdeel is nog niet inwerking getreden
 
@@ -275,9 +277,9 @@ Onze Minister van Sociale Zaken en Werkgelegenheid zendt binnen vijf jaar na de 
 
 1. Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip, dat voor de verschillende artikelen of onderdelen daarvan verschillend kan worden vastgesteld, en artikelen of onderdelen daarvan kunnen terugwerken tot en met een in dat besluit te bepalen tijdstip.
 
-2. In afwijking van het eerste lid, treedt [artikel I, onderdeel Cc](https://wetten.overheid.nl/jci1.3:c:BWBR0035333&artikel=I&z=2015-01-01&g=2015-01-01), drie jaar na het tijdstip van de inwerkingtreding van artikel I, onderdeel Cb, in werking.
+2. In afwijking van het eerste lid, treedt [artikel I, onderdeel Cc](https://wetten.overheid.nl/jci1.3:c:BWBR0035333&artikel=I&z=2017-02-01&g=2017-02-01), drie jaar na het tijdstip van de inwerkingtreding van artikel I, onderdeel Cb, in werking.
 
-3. In afwijking van het eerste lid, treedt [artikel LIIBa, onderdeel B](https://wetten.overheid.nl/jci1.3:c:BWBR0035333&artikel=LIIba&z=2015-01-01&g=2015-01-01), drie jaar na het tijdstip van de inwerkingtreding van [artikel 2.8 van de Jeugdwet](https://wetten.overheid.nl/jci1.3:c:BWBR0034925&artikel=2.8) in werking.
+3. In afwijking van het eerste lid, treedt [artikel LIIBa, onderdeel B](https://wetten.overheid.nl/jci1.3:c:BWBR0035333&artikel=LIIba&z=2017-02-01&g=2017-02-01), drie jaar na het tijdstip van de inwerkingtreding van [artikel 2.8 van de Jeugdwet](https://wetten.overheid.nl/jci1.3:c:BWBR0034925&artikel=2.8) in werking.
 
 ##### Artikel LIV. Citeertitel
 
