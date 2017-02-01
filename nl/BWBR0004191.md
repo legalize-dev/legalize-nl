@@ -4,7 +4,7 @@ identifier: "BWBR0004191"
 country: "nl"
 rank: "wet"
 publication_date: "2024-10-29"
-last_updated: "2015-11-01"
+last_updated: "2017-02-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0004191"
 soort: "wet"
@@ -52,9 +52,9 @@ In deze wet wordt verstaan onder:
 
 - a. Onze Minister: Onze Minister van Onderwijs, Cultuur en Wetenschap;
 
-- b. organisatie: de organisatie, genoemd in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004191&hoofdstuk=I&artikel=2&z=2015-11-01&g=2015-11-01);
+- b. organisatie: de organisatie, genoemd in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004191&hoofdstuk=I&artikel=2&z=2017-02-01&g=2017-02-01);
 
-- c. reglement: het reglement, bedoeld in [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBR0004191&hoofdstuk=II&paragraaf=5&artikel=16&z=2015-11-01&g=2015-11-01).
+- c. instellingsplan: instellingsplan, bedoeld in [artikel 18](https://wetten.overheid.nl/jci1.3:c:BWBR0004191&hoofdstuk=III&paragraaf=2&artikel=18&z=2017-02-01&g=2017-02-01).
 
 ##### Artikel 2. Nederlandse organisatie voor wetenschappelijk onderzoek (NWO)
 
@@ -76,87 +76,117 @@ In deze wet wordt verstaan onder:
 
 #### § 1. Het algemeen bestuur
 
-##### Artikel 4. Taak algemeen bestuur
+##### Artikel 4. Organen
 
-1. Aan het algemeen bestuur behoort de bevoegdheid tot regeling en bestuur van de organisatie.
+De organisatie heeft een raad van bestuur, een raad van toezicht en vier domeinbesturen.
 
-2. Het algemeen bestuur is, met inachtneming van het instellingsplan, bedoeld in [artikel 18, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004191&hoofdstuk=III&paragraaf=2&artikel=18&z=2015-11-01&g=2015-11-01), en de door Onze Minister goedgekeurde begroting, belast met het toewijzen van middelen ten behoeve van onderzoeksprojecten en onderzoeksprogramma’s.
+##### Artikel 5. Raad van bestuur: samenstelling
 
-##### Artikel 5. Verantwoordings- en inlichtingenplicht algemeen bestuur
+1. De raad van bestuur bestaat uit een voorzitter en ten hoogste vijf overige leden, waarvan één van die leden de portefeuille bedrijfsvoering en financiën heeft.
 
-Vervallen
+2. Het lidmaatschap van de raad van bestuur is onverenigbaar met het lidmaatschap van de raad van toezicht. Een lid van het personeel kan niet tevens worden benoemd tot lid van de raad van bestuur.
 
-##### Artikel 6. Samenstelling algemeen bestuur
+3. De voorzitters van de vier domeinbesturen zijn lid van de raad van bestuur. Onze Minister benoemt, schorst en ontslaat de voorzitter van de raad van bestuur en het overige lid met de portefeuille bedrijfsvoering en financiën.
 
-1. Het algemeen bestuur bestaat uit een voorzitter en ten hoogste zes overige leden. Het aantal leden wordt door Onze Minister vastgesteld.
+4. Benoeming van de voorzitter en het lid met de portefeuille bedrijfsvoering en financiën geschiedt op voordracht van de raad van toezicht en geschiedt voor ten hoogste vijf jaar. De leden kunnen ten hoogste eenmaal opnieuw benoemd worden.
 
-2. Onverminderd [artikel 12 van de Kaderwet zelfstandige bestuursorganen](https://wetten.overheid.nl/jci1.3:c:BWBR0020495&artikel=12), worden de voorzitter en de overige leden van het algemeen bestuur benoemd door Onze Minister, het algemeen bestuur gehoord. De benoeming geschiedt voor een termijn van ten hoogste vijf jaren. De leden kunnen éénmaal opnieuw worden benoemd.
+5. Onze Minister stelt de Koninklijke Nederlandse Akademie van Wetenschappen en de universiteiten, genoemd in de [bijlage bij de Wet op het hoger onderwijs en wetenschappelijk onderzoek](onbekend), gezamenlijk, in de gelegenheid van hun gevoelens te doen blijken over een voornemen tot benoeming van de voorzitter.
 
-3. Onze Minister stelt de Koninklijke Nederlandse Akademie van Wetenschappen en de universiteiten, genoemd in de bijlage bij de [Wet op het hoger onderwijs en wetenschappelijk onderzoek](https://wetten.overheid.nl/jci1.3:c:BWBR0005682), gezamenlijk, in de gelegenheid van hun gevoelens te doen blijken over een voornemen tot benoeming als bedoeld in het tweede lid.
+##### Artikel 6. Raad van bestuur: taak
 
-4. Het lidmaatschap van het algemeen bestuur is onverenigbaar met dat van een gebiedsbestuur. Een lid van het personeel kan niet worden benoemd tot lid van het algemeen bestuur.
+1. De raad van bestuur is belast met het besturen van de organisatie.
 
-##### Artikel 7. Vertegenwoordiging NWO
+2. Alle bevoegdheden welke niet bij of krachtens de wet aan een ander orgaan van de organisatie zijn opgedragen, komen toe aan de raad van bestuur.
 
-1. De voorzitter van het algemeen bestuur vertegenwoordigt de organisatie in en buiten rechte.
+3. De raad van bestuur is, met inachtneming van het instellingsplan en de door Onze Minister goedgekeurde begroting, belast met het verstrekken van middelen ten behoeve van onderzoeksprojecten en onderzoeksprogramma’s.
 
-2. Het algemeen bestuur wijst uit zijn midden een vice-voorzitter aan, die bij afwezigheid of ontstentenis van de voorzitter deze vervangt.
+4. De raad van bestuur kan voor de verstrekking van middelen regels stellen, waaronder de vaststelling van subsidieplafonds.
 
-##### Artikel 8. Algemeen directeur NWO
+##### Artikel 7. Raad van bestuur: vertegenwoordiging NWO
 
-1. Het algemeen bestuur wordt bijgestaan door een algemeen directeur.
+1. De voorzitter van de raad van bestuur vertegenwoordigt de organisatie in en buiten rechte.
 
-2. Het algemeen bestuur benoemt, schorst en ontslaat de algemeen directeur.
+2. De raad van bestuur wijst uit zijn midden een vice-voorzitter aan, die bij afwezigheid of ontstentenis van de voorzitter deze vervangt.
 
-3. De algemeen directeur is belast met de leiding van het bureau van de organisatie.
+##### Artikel 8. Raad van bestuur: reglement
 
-4. Het algemeen bestuur stelt de taakomschrijving van de algemeen directeur vast, de gebiedsbesturen gehoord.
+1. Onverminderd [artikel 11 van de Kaderwet zelfstandige bestuursorganen](https://wetten.overheid.nl/jci1.3:c:BWBR0020495&artikel=11) stelt de raad van bestuur een bestuursreglement voor de organisatie vast.
+
+2. Het bestuursreglement regelt nader het bestuur en de inrichting van de organisatie.
 
 #### § 2. De gebiedsbesturen
 
-##### Artikel 9. Taken gebiedsbesturen
+##### Artikel 9. Raad van bestuur: personeelsbeleid
 
-1. Het algemeen bestuur kan voor een wetenschapsgebied een gebiedsbestuur instellen.
+1. De raad van bestuur voert het personeelsbeleid en personeelsbeheer, daaronder begrepen het in dienst nemen, schorsen en ontslaan van het personeel.
 
-2. Onverminderd mandaatverlening aan andere organisaties dan gebiedsbesturen, kan het algemeen bestuur aan een gebiedsbestuur mandaat verlenen om, met inachtneming van door het algemeen bestuur te geven richtlijnen, het instellingsplan, bedoeld in [artikel 18, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004191&hoofdstuk=III&paragraaf=2&artikel=18&z=2015-11-01&g=2015-11-01), en de door Onze Minister goedgekeurde begroting, middelen te verstrekken ten behoeve van onderzoeksprojecten en onderzoeksprogramma’s.
+2. Voor zover bij algemene maatregel van bestuur niet anders is bepaald, is op het personeel van de organisatie het bij of krachtens [artikel 4.5 van de Wet op het hoger onderwijs en wetenschappelijk onderzoek](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=4.5) bepaalde van overeenkomstige toepassing.
 
-3. Een gebiedsbestuur adviseert het algemeen bestuur desgevraagd of uit eigen beweging.
+##### Artikel 10. Raad van toezicht: samenstelling
 
-4. Bij reglement wordt bepaald welke de verdere bevoegdheden en inrichting van een gebiedsbestuur zijn.
+1. De raad van toezicht bestaat uit een voorzitter en ten hoogste vijf overige leden.
 
-##### Artikel 10. Samenstelling gebiedsbesturen
+2. Het lidmaatschap van de raad van toezicht is onverenigbaar met het lidmaatschap van de raad van bestuur. Een lid van het personeel kan niet tevens worden benoemd tot lid van de raad van toezicht.
 
-Vervallen
+3. Onze Minister benoemt, schorst en ontslaat de leden van de raad van toezicht.
+
+4. Een van de overige leden wordt benoemd op voordracht van Onze Minister van Economische Zaken.
+
+5. Voor een van de andere overige leden kan de ondernemingsraad van de organisatie personen aanbevelen.
+
+6. Benoeming geschiedt voor ten hoogste vijf jaar en leden kunnen ten hoogste eenmaal opnieuw worden benoemd.
 
 #### § 3. De afdelingsbesturen
 
-##### Artikel 11
+##### Artikel 11. Raad van toezicht: taak
 
-Vervallen
+1. De raad van toezicht staat de raad van bestuur met raad ter zijde en geeft desgevraagd of uit eigen beweging advies over het beleid van de raad van bestuur. Bij de vervulling van zijn taak richt de raad zich naar het belang van de organisatie en neemt daarbij de doelstelling van de organisatie, bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0004191&hoofdstuk=I&artikel=3&z=2017-02-01&g=2017-02-01), als uitgangspunt.
 
-##### Artikel 12
+2. De raad van toezicht stelt een reglement vast betreffende zijn werkwijze waarin in ieder geval in het bijzonder aandacht is voor:
 
-Vervallen
+- a. goed bestuur van de organisatie;
+
+- b. de voordrachten voor de leden van de raad van bestuur;
+
+- c. de wijze waarop hij zijn advies geeft over de begroting, de jaarrekening, het jaarverslag en het instellingsplan.
+
+##### Artikel 12. Onderzoeksdomeinen
+
+1. De organisatie kent vier onderzoeksdomeinen.
+
+2. De raad van bestuur bepaalt het wetenschappelijk werkterrein van elk van de onderzoeksdomeinen.
+
+3. Een onderzoeksdomein wordt geleid door een domeinbestuur.
 
 #### § 4. Het personeel
 
-##### Artikel 13. Personeelsbeleid
+##### Artikel 13. Domeinbestuur: samenstelling
 
-Het algemeen bestuur voert het personeelsbeleid en personeelsbeheer, daar onder begrepen de bevoegdheid tot het in dienst nemen, schorsen en ontslaan van het personeel.
+1. Een domeinbestuur bestaat uit een voorzitter en ten hoogste acht leden, waarvan ten minste één niet afkomstig is uit een wetenschappelijke dienstbetrekking.
 
-##### Artikel 14. Rechtspositie personeel
+2. Onze Minister benoemt, schorst en ontslaat de voorzitter van een domeinbestuur. Benoeming geschiedt op voordracht van de raad van toezicht.
 
-Voor zover bij algemene maatregel van bestuur niet anders is bepaald, is op het personeel van de organisatie het bij of krachtens [artikel 4.5. van de Wet op het hoger onderwijs en wetenschappelijk onderzoek](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=4.5) bepaalde van overeenkomstige toepassing.
+3. De raad van bestuur benoemt, schorst en ontslaat de overige leden van een domeinbestuur. Benoeming geschiedt op voordracht van het desbetreffende domeinbestuur.
 
-#### § 5. Het reglement
+4. De benoeming van de voorzitter en de overige leden geschiedt voor ten hoogste drie jaar. De leden kunnen ten hoogste eenmaal opnieuw worden benoemd.
+
+##### Artikel 14. Domeinbestuur: taak
+
+1. Een domeinbestuur heeft tot taak de raad van bestuur desgevraagd of uit eigen beweging te adviseren op het gebied van diens wetenschappelijk werkterrein.
+
+2. De raad van bestuur kan aan een domeinbestuur mandaat verlenen om, met inachtneming van door de raad van bestuur te geven richtlijnen, het instellingsplan en de door Onze Minister goedgekeurde begroting, middelen te verstrekken ten behoeve van onderzoeksprojecten en onderzoeksprogramma’s.
+
+3. De raad van bestuur kan in het bestuursreglement de taak van een domeinbestuur en de inrichting van een onderzoeksdomein nader bepalen.
+
+#### § 1. Wetenschapsbudget
 
 ##### Artikel 15. Inhoud reglement
 
-Het bestuur en de inrichting van de organisatie alsmede de bestuurlijke betrekkingen van de organisatie tot de onderzoekorganisaties voor zover daaraan krachtens deze wet middelen worden toegewezen, worden nader bij reglement geregeld.
+Vervallen
 
 ##### Artikel 16. Vaststelling reglement
 
-Onverminderd [artikel 11 van de Kaderwet zelfstandige bestuursorganen](https://wetten.overheid.nl/jci1.3:c:BWBR0020495&artikel=11) wordt het reglement vastgesteld door het algemeen bestuur.
+Vervallen
 
 ### Hoofdstuk III. Planning, financiële bepalingen, verslag en rekening
 
@@ -170,13 +200,15 @@ Onverminderd [artikel 11 van de Kaderwet zelfstandige bestuursorganen](https://w
 
 3. Over de wijze waarop het vastgestelde wetenschapsbudget wordt openbaar gemaakt, doet Onze Minister mededeling in de Staatscourant.
 
-##### Artikel 18. Meerjarig instellingsplan
+##### Artikel 18. Instellingsplan
 
-1. Het algemeen bestuur stelt, rekening houdend met voorstellen van de gebiedsbesturen, een instellingsplan vast uiterlijk vier jaar na het tijdstip van vaststelling van het vorige plan. Het algemeen bestuur zendt het plan na vaststelling onverwijld aan Onze Minister.
+1. De raad van bestuur stelt een instellingsplan op uiterlijk vier jaar na het tijdstip van het vaststellen van het vorige plan.
 
-2. In het instellingsplan wordt tevens rekening gehouden met het wetenschapsbudget, bedoeld in [artikel 16a](https://wetten.overheid.nl/jci1.3:c:BWBR0004191&hoofdstuk=III&paragraaf=1&artikel=16a&z=2015-11-01&g=2015-11-01), de instellingsplannen van universiteiten, verkenningen, rapporten, adviezen en aanbevelingen, een en ander voorzover die naar het oordeel van het algemeen bestuur van belang zijn voor de uitvoering van de taken van de organisatie.
+2. De raad van bestuur hoort de raad van toezicht over het instellingsplan en stelt het instellingsplan vervolgens vast. Na vaststelling zendt de raad van bestuur het plan onverwijld aan Onze Minister.
 
-3. Het instellingsplan omvat in elk geval:
+3. De raad van bestuur vraagt de domeinbesturen om voorstellen. Daarnaast houdt hij bij het opstellen van het instellingsplan rekening met het wetenschapsbudget, de instellingsplannen van universiteiten en verkenningen, rapporten, adviezen en aanbevelingen, een en ander voor zover die naar het oordeel van de raad van bestuur van belang zijn voor de uitvoering van de taken van de organisatie.
+
+4. Het instellingsplan omvat in elk geval:
 
 - a. doelstellingen van de organisatie op middellange termijn;
 
@@ -184,7 +216,7 @@ Onverminderd [artikel 11 van de Kaderwet zelfstandige bestuursorganen](https://w
 
 - c. financiële, personele, materiële en organisatorische voorwaarden die moeten worden vervuld.
 
-4. Onze Minister brengt zijn standpunt over het instellingsplan binnen zes maanden na ontvangst van het plan ter kennis van het algemeen bestuur. Onze Minister doet daarvan en van het instellingsplan afschrift toekomen aan de beide Kamers van de Staten-Generaal.
+5. Onze Minister brengt zijn standpunt over het instellingsplan binnen zes maanden na ontvangst van het plan ter kennis van de raad van bestuur. Onze Minister zendt een afschrift van zijn standpunt en van het plan aan beide Kamers van de Staten-Generaal.
 
 #### § 2. Financiële bepalingen
 
@@ -206,13 +238,15 @@ Onverminderd [artikel 11 van de Kaderwet zelfstandige bestuursorganen](https://w
 
 ##### Artikel 20. Doelmatig beheer
 
-Het algemeen bestuur is belast met het doelmatig beheer van de financiën en de vermogensbestanddelen van de organisatie.
+De raad van bestuur is belast met het doelmatig beheer van de financiën en de vermogensbestanddelen van de organisatie.
 
 ##### Artikel 21. Begroting
 
-1. Het algemeen bestuur zendt jaarlijks voor 1 november aan Onze Minister de begroting voor het daaropvolgende jaar.
+1. De raad van bestuur stelt jaarlijks een begroting op voor het daaropvolgende kalenderjaar. Nadat de raad van toezicht over de begroting is gehoord, zendt de raad van bestuur deze voor 1 november aan Onze Minister.
 
-2. Onverminderd de [artikelen 26 tot en met 30 van de Kaderwet zelfstandige bestuursorganen](https://wetten.overheid.nl/jci1.3:c:BWBR0020495&artikel=26), is in de begroting een allocatie van middelen opgenomen die in overeenstemming is met het instellingsplan, bedoeld in [artikel 18](https://wetten.overheid.nl/jci1.3:c:BWBR0004191&hoofdstuk=III&paragraaf=2&artikel=18&z=2015-11-01&g=2015-11-01). In de begroting wordt rekening gehouden met de voorstellen van de gebiedsbesturen.
+2. Onverminderd de [artikelen 26 tot en met 30 van de Kaderwet zelfstandige bestuursorganen](https://wetten.overheid.nl/jci1.3:c:BWBR0020495&artikel=26), is in de begroting een allocatie van middelen opgenomen die in overeenstemming is met het instellingsplan.
+
+3. Na goedkeuring door Onze Minister stelt de raad van bestuur de begroting vast.
 
 ##### Artikel 22. Goedkeuring begroting
 
@@ -226,11 +260,15 @@ Vervallen
 
 Vervallen
 
-#### § 3. Verslag, jaarrekening en controle
+#### § 4. Voorschriften inrichting begroting en jaarrekening
 
 ##### Artikel 25. Jaarrekening
 
-De goedkeuring, bedoeld in [artikel 34, derde lid, van de Kaderwet zelfstandige bestuursorganen](https://wetten.overheid.nl/jci1.3:c:BWBR0020495&artikel=34), kan tevens worden onthouden op de grond dat de jaarrekening naar het oordeel van Onze Minister niet of niet voldoende in overeenstemming is met het instellingsplan, bedoeld in [artikel 18](https://wetten.overheid.nl/jci1.3:c:BWBR0004191&hoofdstuk=III&paragraaf=2&artikel=18&z=2015-11-01&g=2015-11-01). [Artikel 10:30 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=10:30) is van overeenkomstige toepassing.
+1. De goedkeuring, bedoeld in [artikel 34, derde lid, van de Kaderwet zelfstandige bestuursorganen](https://wetten.overheid.nl/jci1.3:c:BWBR0020495&artikel=34), kan tevens worden onthouden op de grond dat de jaarrekening naar het oordeel van Onze Minister niet of niet voldoende in overeenstemming is met het instellingsplan. [Artikel 10:30 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=10:30) is van overeenkomstige toepassing.
+
+2. De raad van bestuur stelt de jaarrekening op. Nadat de raad van toezicht over de jaarrekening is gehoord, zendt de raad van bestuur deze aan Onze Minister.
+
+3. Na goedkeuring door Onze Minister stelt de raad van bestuur de jaarrekening vast.
 
 ##### Artikel 26. Aanvullende eis jaarrekening
 
@@ -318,9 +356,9 @@ Vervallen
 
 Vervallen
 
-##### Artikel 45
+##### Artikel 45. Overgangsrecht eerste benoemingen raad van bestuur en domeinvoorzitters
 
-Vervallen
+In afwijking van [artikel 5, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004191&hoofdstuk=II&artikel=5&z=2017-02-01&g=2017-02-01), en [artikel 13, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004191&hoofdstuk=II&artikel=13&z=2017-02-01&g=2017-02-01), vindt de benoeming van de eerste leden van de raad van bestuur en de voorzitters van de domeinbesturen plaats op basis van openbaar gemaakte functieprofielen en laat Onze Minister zich adviseren door een benoemingsadviescommissie.
 
 ##### Artikel 46. Inwerkingtreding
 
@@ -346,7 +384,7 @@ Vervallen
 
 ### Hoofdstuk III. Planning, financiële bepalingen, verslag en rekening
 
-#### § 1. Wetenschapsbudget
+#### § 3. Financiële bepalingen
 
 ##### Artikel 16a. Wetenschapbudget
 
@@ -360,7 +398,9 @@ Vervallen
 
 ##### Artikel 24. Bestuursverslag
 
-Onverminderd [artikel 18 van de Kaderwet zelfstandige bestuursorganen](https://wetten.overheid.nl/jci1.3:c:BWBR0020495&artikel=18) geeft het bestuursverslag aan in hoeverre de doelstellingen uit het instellingsplan, bedoeld in [artikel 18](https://wetten.overheid.nl/jci1.3:c:BWBR0004191&hoofdstuk=III&paragraaf=2&artikel=18&z=2015-11-01&g=2015-11-01), zijn verwezenlijkt.
+1. Onverminderd [artikel 18 van de Kaderwet zelfstandige bestuursorganen](https://wetten.overheid.nl/jci1.3:c:BWBR0020495&artikel=18) geeft het bestuursverslag aan in hoeverre de doelstellingen uit het instellingsplan zijn verwezenlijkt.
+
+2. De raad van bestuur stelt het jaarverslag vast, gehoord de raad van toezicht. Na vaststelling draagt de raad van bestuur zorg voor de verzending, bedoeld in [artikel 18, tweede lid, van de Kaderwet zelfstandige bestuursorganen](https://wetten.overheid.nl/jci1.3:c:BWBR0020495&artikel=18).
 
 ### Hoofdstuk IV. Schorsing en vernietiging van besluiten; taakverwaarlozingsregeling
 
@@ -397,6 +437,16 @@ Op de organisatie is de [Kaderwet zelfstandige bestuursorganen](https://wetten.o
 #### § 3. Financiële bepalingen
 
 #### § 4. Voorschriften inrichting begroting en jaarrekening
+
+### Hoofdstuk IV. Schorsing en vernietiging van besluiten; taakverwaarlozingsregeling
+
+### Hoofdstuk V. Slot- en overgangsbepalingen
+
+Lasten en bevelen dat deze in het **Staatsblad** zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
+
+### Hoofdstuk III. Planning, financiële bepalingen, verslag en rekening
+
+#### § 2. Planning
 
 ### Hoofdstuk IV. Schorsing en vernietiging van besluiten; taakverwaarlozingsregeling
 
