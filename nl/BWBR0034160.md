@@ -4,7 +4,7 @@ identifier: "BWBR0034160"
 country: "nl"
 rank: "zbo"
 publication_date: "2017-02-28"
-last_updated: "2013-11-15"
+last_updated: "2017-02-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0034160"
 soort: "zbo"
@@ -39,11 +39,11 @@ entry_into_force: "2013-11-15"
 
 De Bevoegdhedenregeling NWO 2013 regelt wie bij NWO bevoegd is om jegens derden verplichtingen aan te gaan, inclusief tekenbevoegdheid, en via welke functionarissen de interne besluitvorming die daar aan voorafgaat, verloopt.
 
-De bevoegdheden zijn steeds gekoppeld aan ofwel een NWO-orgaan – Algemeen Directeur (AD) en gebieds- en stichtingsbesturen – ofwel functionarissen en zijn in dit laatste geval het gevolg van de uitoefening van een functie. De bevoegdheden voor het NWO-bureau zijn samengevat in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0034160&bijlage=1&z=2013-11-15&g=2013-11-15) met de daarbij behorende maximum bedragen per jaar waarvoor verplichtingen mogen worden aangegaan.
+De bevoegdheden zijn steeds gekoppeld aan ofwel een NWO-orgaan – Algemeen Directeur (AD) en gebieds- en stichtingsbesturen – ofwel functionarissen en zijn in dit laatste geval het gevolg van de uitoefening van een functie. De bevoegdheden voor het NWO-bureau zijn samengevat in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0034160&bijlage=1&z=2017-02-28&g=2017-02-01) met de daarbij behorende maximum bedragen per jaar waarvoor verplichtingen mogen worden aangegaan.
 
 In deze Bevoegdhedenregeling komen de volgende onderwerpen aan de orde:
 
-Hoofdstuk 1: Inleiding met de indeling binnen de NWO-organisatie naar soort besluiten, de reikwijdte van de regeling voor de NWO-organisatieonderdelen (zie [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0034160&bijlage=2&z=2013-11-15&g=2013-11-15)), en een begrippenlijst
+Hoofdstuk 1: Inleiding met de indeling binnen de NWO-organisatie naar soort besluiten, de reikwijdte van de regeling voor de NWO-organisatieonderdelen (zie [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0034160&bijlage=2&z=2017-02-28&g=2017-02-01)), en een begrippenlijst
 
 Hoofdstuk 2 Algemeen bevoegdhedenkader voor de verschillende soorten besluiten
 
@@ -131,7 +131,7 @@ Deze (sub)mandaten zijn niet in deze regeling opgenomen, maar dienen wel opgenom
 
 ### 2.2.3. Wijze van verlenen van (sub)mandaten
 
-Voor zover (sub)mandaten niet al zijn verleend bij wet of deze Bevoegdhedenregeling, worden deze schriftelijk verleend. De krachtens wet of deze Bevoegdhedenregeling geldende mandaten zijn in bijgevoegde bevoegdhedentabel ([bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0034160&bijlage=1&z=2013-11-15&g=2013-11-15)) opgenomen. Bij vaststelling van deze Bevoegdhedenregeling bevestigt en bekrachtigt het Algemeen Bestuur de hierbij verleende mandaten. Het Algemeen Bestuur is als enige bevoegd tot herroeping of intrekking daarvan. In geval het Algemeen Bestuur een mandaat intrekt, komen binnen dat mandaat verleende submandaten automatisch te vervallen. Een submandaat kan daarnaast ook worden herroepen of ingetrokken door de rechtmatige verlener van dit submandaat. Herroeping en intrekking van (sub)mandaten dient de (sub)mandaatgever schriftelijk te melden aan het Hoofd Financiën als beheerder van het Register.
+Voor zover (sub)mandaten niet al zijn verleend bij wet of deze Bevoegdhedenregeling, worden deze schriftelijk verleend. De krachtens wet of deze Bevoegdhedenregeling geldende mandaten zijn in bijgevoegde bevoegdhedentabel ([bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0034160&bijlage=1&z=2017-02-28&g=2017-02-01)) opgenomen. Bij vaststelling van deze Bevoegdhedenregeling bevestigt en bekrachtigt het Algemeen Bestuur de hierbij verleende mandaten. Het Algemeen Bestuur is als enige bevoegd tot herroeping of intrekking daarvan. In geval het Algemeen Bestuur een mandaat intrekt, komen binnen dat mandaat verleende submandaten automatisch te vervallen. Een submandaat kan daarnaast ook worden herroepen of ingetrokken door de rechtmatige verlener van dit submandaat. Herroeping en intrekking van (sub)mandaten dient de (sub)mandaatgever schriftelijk te melden aan het Hoofd Financiën als beheerder van het Register.
 
 ### 2.2.4. Verbod van (de schijn van) belangenverstrengeling
 
