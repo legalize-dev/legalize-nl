@@ -4,7 +4,7 @@ identifier: "BWBR0037018"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2017-02-01"
-last_updated: "2015-11-01"
+last_updated: "2017-02-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0037018"
 soort: "ministeriele-regeling"
@@ -52,7 +52,7 @@ In deze regeling wordt verstaan onder:
 
 - –. **Interreg North Sea Region (NSR):** transnationaal Interreg V deelprogramma dat de mogelijkheid geeft om een financiële bijdrage aan te vragen voor projecten die zien op samenwerking binnen de regio Noordzee;
 
-- –. **Kaderbesluit:** [Kaderbesluit subsidies I en M](https://wetten.overheid.nl/jci1.3:c:BWBR0036381&wetgeving);
+- –. **Kaderbesluit:** [Kaderbesluit subsidies I en M](https://wetten.overheid.nl/jci1.3:c:BWBR0036381);
 
 - –. **Lead Partner:** deelnemer aan een samenwerkingsverband en trekker van een project zijnde een overheidsinstelling, een kennisinstelling als bedoeld in [artikel 1.2 van de Wet op het hoger onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=1.2), stichting of vereniging die binnen het project geen economische activiteiten verricht of een regionale ontwikkelingsmaatschappij;
 
@@ -92,15 +92,15 @@ De [artikelen 8](https://wetten.overheid.nl/jci1.3:c:BWBR0036381&artikel=8), [11
 
 ##### Artikel 4. Aanvraag tot subsidieverlening
 
-1. Een aanvraag tot subsidieverlening als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0037018&artikel=2&z=2015-11-01&g=2015-11-01) wordt bij de Minister ingediend door een penvoerder, met een vestiging of filiaal in Nederland op het tijdstip van indiening, met gebruikmaking van een daartoe door de Minister beschikbaar gesteld middel.
+1. Een aanvraag tot subsidieverlening als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0037018&artikel=2&z=2017-02-01&g=2017-02-01) wordt bij de Minister ingediend door een penvoerder, met een vestiging of filiaal in Nederland op het tijdstip van indiening, met gebruikmaking van een daartoe door de Minister beschikbaar gesteld middel.
 
 2. De aanvraag bevat in ieder geval de volgende verklaringen en bescheiden:
 
 - a. een verklaring dat het initiatief voor een project is besproken met een medewerker van de Rijksdienst voor Ondernemend Nederland bij wie aanvragers van een subsidie terecht kunnen voor informatie over Interreg V en de daarbij behorende deelprogramma’s;
 
-- b. indien een aanvraag om een financiële bijdrage bij Interreg NWE wordt gedaan, een verklaring dat het project bijdraagt aan de specifieke doelstellingen SO2, SO3 of SO4, bedoeld in het Cooperation Programme Interreg North-West Europe 2014–2020;
+- b. indien een aanvraag om een financiële bijdrage bij Interreg NWE wordt gedaan, een verklaring dat het project bijdraagt aan de specifieke doelstellingen SO2, SO3, SO4 of SO5, bedoeld in het Cooperation Programme Interreg North-West Europe 2014–2020;
 
-- c. indien een aanvraag om een financiële bijdrage bij Interreg NSR wordt gedaan, een verklaring dat het project bijdraagt aan de specifieke doel-stellingen 3.1, 4.1 of 4.2, bedoeld in het Cooperation Programme Interreg North Sea Region 2014–2020;
+- c. indien een aanvraag om een financiële bijdrage bij Interreg NSR wordt gedaan, een verklaring dat het project bijdraagt aan de specifieke doel-stellingen 2.1, 2.2, 3.1, 4.1 of 4.2, bedoeld in het Cooperation Programme Interreg North Sea Region 2014–2020;
 
 - d. een verklaring dat de aanvraag is ingediend voordat Stap 2 is ingediend bij het Programma Secretariaat van Interreg NWE of NSR;
 
@@ -118,7 +118,7 @@ De [artikelen 8](https://wetten.overheid.nl/jci1.3:c:BWBR0036381&artikel=8), [11
 
 - k. een kopie van de schriftelijke bevestiging van het Programma Secretariaat van Interreg NWE of NSR dat Stap 1 is goedgekeurd door de bevoegde autoriteit van Interreg NWE of NSR.
 
-3. Desgevraagd verstrekt de penvoerder een nadere toelichting op de verklaringen en bescheiden, bedoeld in [artikel 4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037018&artikel=4&z=2015-11-01&g=2015-11-01).
+3. Desgevraagd verstrekt de penvoerder een nadere toelichting op de verklaringen en bescheiden, bedoeld in [artikel 4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037018&artikel=4&z=2017-02-01&g=2017-02-01).
 
 ##### Artikel 5. Hoogte van de subsidie, subsidieplafond en wijze van verdeling
 
@@ -176,7 +176,7 @@ Onverminderd de [artikelen 11](https://wetten.overheid.nl/jci1.3:c:BWBR0036381&a
 
 3. De subsidie kan op € 0 worden vastgesteld indien:
 
-- a. niet voldaan wordt aan het bepaalde in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0037018&artikel=7&z=2015-11-01&g=2015-11-01);
+- a. niet voldaan wordt aan het bepaalde in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0037018&artikel=7&z=2017-02-01&g=2017-02-01);
 
 - b. het project niet goedgekeurd wordt door de bevoegde autoriteit van Interreg NWE of NSR, of
 
