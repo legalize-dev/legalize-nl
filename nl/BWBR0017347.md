@@ -4,7 +4,7 @@ identifier: "BWBR0017347"
 country: "nl"
 rank: "amvb"
 publication_date: "2024-01-01"
-last_updated: "2014-08-01"
+last_updated: "2017-02-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0017347"
 soort: "AMvB"
@@ -45,6 +45,8 @@ Gezien het nader rapport van Onze Minister van Justitie van 15 oktober 2004, nr.
 
 Hebben goedgevonden en verstaan:
 
+Treedt in werking op het tijdstip waarop de Wet documentatie vennootschappen in werking treedt.
+
 #### Paragraaf 1. Begripsbepalingen
 
 ##### Artikel 1
@@ -63,7 +65,7 @@ In dit besluit wordt verstaan onder:
 
 Als bestuursorganen of diensten die zijn belast met de opsporing van strafbare feiten of met het toezicht op financiële instellingen, bedoeld in [artikel 3, tweede lid, onder e, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0015049&artikel=3), worden aangewezen:
 
-- a. de Algemene Inspectiedienst van het Ministerie van Economische Zaken, Landbouw en Innovatie;
+- a. de Nederlandse Voedsel- en Warenautoriteit van het Ministerie van Economische Zaken;
 
 - b. de Autoriteit Financiële Markten;
 
@@ -81,9 +83,7 @@ Als bestuursorganen of diensten die zijn belast met de opsporing van strafbare f
 
 - i. Onze Minister van Sociale Zaken en Werkgelegenheid, ten behoeve van de door hem aangewezen toezichthouders, bedoeld in de [Aanwijzingsregeling toezichthoudende ambtenaren en ambtenaren met specifieke uitvoeringstaken op grond van SZW wetgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0011673);
 
-- j. de Voedsel- en Warenautoriteit;
-
-- k. de VROM-Inspectie.
+- j. de Inspectie Leefomgeving en Transport van het Ministerie van Infrastructuur en Milieu.
 
 #### Paragraaf 3. De inhoud van de registratie
 
@@ -125,7 +125,7 @@ Over de personen, bedoeld in [artikel 4, eerste, tweede en derde lid, van de wet
 
 - q. faillissementsverslagen;
 
-- r. gegevens met betrekking tot toezichtshandelingen en bestuurlijke sancties jegens de desbetreffende persoon, afkomstig van de bestuursorganen en diensten, genoemd in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0017347&paragraaf=2&artikel=2&z=2014-08-01&g=2014-08-01);
+- r. gegevens met betrekking tot toezichtshandelingen en bestuurlijke sancties jegens de desbetreffende persoon, afkomstig van de bestuursorganen en diensten, genoemd in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0017347&paragraaf=2&artikel=2&z=2017-02-01&g=2017-02-01);
 
 - s. strafvorderlijke gegevens in de zin van [artikel 1, onder b, van de Wet justitiële en strafvorderlijke gegevens](https://wetten.overheid.nl/jci1.3:c:BWBR0014194&artikel=1) alsmede vonnissen in strafzaken met betrekking tot de persoon, en,
 
@@ -153,7 +153,7 @@ Over de personen, bedoeld in [artikel 4, eerste en tweede lid van de wet](https:
 
 - i. een splitsing of fusie waarbij de rechtspersoon is ontstaan;
 
-- j. de gegevens, bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0017347&paragraaf=3&artikel=3&z=2014-08-01&g=2014-08-01), met betrekking tot natuurlijke personen die het beleid van de rechtspersoon bepalen of mede kunnen bepalen, alsmede de gegevens, bedoeld onder a tot en met i en k tot en met u, met betrekking tot rechtspersonen die het beleid van de desbetreffende rechtspersoon bepalen of mede kunnen bepalen;
+- j. de gegevens, bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0017347&paragraaf=3&artikel=3&z=2017-02-01&g=2017-02-01), met betrekking tot natuurlijke personen die het beleid van de rechtspersoon bepalen of mede kunnen bepalen, alsmede de gegevens, bedoeld onder a tot en met i en k tot en met u, met betrekking tot rechtspersonen die het beleid van de desbetreffende rechtspersoon bepalen of mede kunnen bepalen;
 
 - k. justitiële gegevens in de zin van [artikel 1, onder a, van de Wet justitiële en strafvorderlijke gegevens](https://wetten.overheid.nl/jci1.3:c:BWBR0014194&artikel=1) met betrekking tot de rechtspersoon;
 
@@ -171,7 +171,7 @@ Over de personen, bedoeld in [artikel 4, eerste en tweede lid van de wet](https:
 
 - r. faillissementsverslagen;
 
-- s. gegevens met betrekking tot toezichtshandelingen en bestuurlijke sancties jegens de desbetreffende rechtspersoon, afkomstig van de bestuursorganen en diensten, genoemd in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0017347&paragraaf=2&artikel=2&z=2014-08-01&g=2014-08-01);
+- s. gegevens met betrekking tot toezichtshandelingen en bestuurlijke sancties jegens de desbetreffende rechtspersoon, afkomstig van de bestuursorganen en diensten, genoemd in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0017347&paragraaf=2&artikel=2&z=2017-02-01&g=2017-02-01);
 
 - t. strafvorderlijke gegevens in de zin van [artikel 1, onder b, van de Wet justitiële en strafvorderlijke gegevens](https://wetten.overheid.nl/jci1.3:c:BWBR0014194&artikel=1) alsmede vonnissen in strafzaken met betrekking tot de desbetreffende rechtspersoon, en,
 
@@ -195,7 +195,7 @@ Aan de volgende instanties of personen worden als vaste gebruikers als bedoeld i
 
 - a. de Algemene Inlichtingen- en Veiligheidsdienst, voor zover dat noodzakelijk is voor de uitvoering van de taken, bedoeld in [artikel 6 van de Wet op de inlichtingen- en veiligheidsdiensten](https://wetten.overheid.nl/jci1.3:c:BWBR0004244&artikel=6);
 
-- b. het openbaar ministerie, de politie, de Koninklijke marechaussee, de bijzondere opsporingsdiensten, bedoeld in de [Wet op de bijzondere opsporingsdiensten](https://wetten.overheid.nl/jci1.3:c:BWBR0015049), de Algemene Inspectiedienst, de door Onze Minister van Sociale Zaken en Werkgelegenheid aangewezen toezichthouders, bedoeld in de [Aanwijzingsregeling toezichthoudende ambtenaren en ambtenaren met specifieke uitvoeringstaken op grond van SZW wetgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0011673), de rijksbelastingdienst, de bestuursorganen die op grond van de [Wet milieubeheer](https://wetten.overheid.nl/jci1.3:c:BWBR0003245) of op grond van de [Wet algemene bepalingen omgevingsrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0024779) bevoegd zijn tot het geven van een beschikking of het nemen van een ander besluit en de beheerders in de zin van [artikel 1.1, eerste lid, van de Waterwet](https://wetten.overheid.nl/jci1.3:c:BWBR0025458&artikel=1.1), het Uitvoeringsinstituut werknemersverzekeringen, de Sociale Verzekeringsbank en de VROM-Inspectie, voor zover dit noodzakelijk is voor de opsporing of vervolging van strafbare feiten;
+- b. het openbaar ministerie, de politie, de Koninklijke marechaussee, de bijzondere opsporingsdiensten, bedoeld in de [Wet op de bijzondere opsporingsdiensten](https://wetten.overheid.nl/jci1.3:c:BWBR0015049), de Nederlandse Voedsel- en Warenautoriteit van het Ministerie van Economische Zaken, de door Onze Minister van Sociale Zaken en Werkgelegenheid aangewezen toezichthouders, bedoeld in de [Aanwijzingsregeling toezichthoudende ambtenaren en ambtenaren met specifieke uitvoeringstaken op grond van SZW wetgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0011673), de rijksbelastingdienst, de bestuursorganen die op grond van de [Wet milieubeheer](https://wetten.overheid.nl/jci1.3:c:BWBR0003245) of op grond van de [Wet algemene bepalingen omgevingsrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0024779) bevoegd zijn tot het geven van een beschikking of het nemen van een ander besluit en de beheerders in de zin van [artikel 1.1, eerste lid, van de Waterwet](https://wetten.overheid.nl/jci1.3:c:BWBR0025458&artikel=1.1), het Uitvoeringsinstituut werknemersverzekeringen, de Sociale Verzekeringsbank en de Inspectie Leefomgeving en Transport van het Ministerie van Infrastructuur en Milieu, voor zover dit noodzakelijk is voor de opsporing of vervolging van strafbare feiten;
 
 - c. de Autoriteit Financiële Markten, De Nederlandsche Bank N.V. en de Autoriteit Consument en Markt voor zover dat noodzakelijk is voor de uitoefening van het toezicht op financiële ondernemingen of op de naleving van de [Mededingingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0008691);
 
@@ -229,7 +229,7 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 Over de personen, bedoeld in [artikel 4, eerste, tweede en derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0015049&artikel=4) kunnen voorts de volgende gegevens of categorieën van gegevens in de registratie worden opgenomen:
 
-- a. de gegevens, bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0017347&paragraaf=3&artikel=4&z=2014-08-01&g=2014-08-01), van andere rechtspersonen of vennootschappen waarbij de desbetreffende rechtspersoon betrokken is;
+- a. de gegevens, bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0017347&paragraaf=3&artikel=4&z=2017-02-01&g=2017-02-01), van andere rechtspersonen of vennootschappen waarbij de desbetreffende rechtspersoon betrokken is;
 
 - b. de aard van de functie, de bevoegdheid of de hoedanigheid van een natuurlijke of rechtspersoon met betrekking tot de rechtspersonen of vennootschappen waarbij de desbetreffende natuurlijke persoon of rechtspersoon betrokkenheid heeft, en de data van begin en einde van de functie, bevoegdheid of hoedanigheid;
 
@@ -239,7 +239,7 @@ Over de personen, bedoeld in [artikel 4, eerste, tweede en derde lid, van de wet
 
 ##### Artikel 5a
 
-Als bestuursorganen, bedoeld in [artikel 5, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0015049&artikel=5) worden aangewezen:
+Als bestuursorganen, diensten, toezichthouders en andere personen, bedoeld in [artikel 5, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0015049&artikel=5) worden aangewezen:
 
 - a. de Autoriteit Financiële Markten;
 
@@ -249,41 +249,45 @@ Als bestuursorganen, bedoeld in [artikel 5, eerste lid, van de wet](https://wett
 
 - d. Onze Minister van Financiën, ten behoeve van de gegevensverwerking door de rijksbelastingdienst en de bijzondere opsporingsdienst, bedoeld in [artikel 2, onder a, van de Wet op de bijzondere opsporingsdiensten](https://wetten.overheid.nl/jci1.3:c:BWBR0019919&artikel=2);
 
-- e. Onze Minister van Infrastructuur en Milieu, ten behoeve van de gegevensverwerking door de VROM-Inspectie en de bijzondere opsporingsdienst, bedoeld in [artikel 2, onder b, van de Wet op de bijzondere opsporingsdiensten](https://wetten.overheid.nl/jci1.3:c:BWBR0019919&artikel=2);
+- e. Onze Minister van Infrastructuur en Milieu, ten behoeve van de gegevensverwerking door de Inspectie Leefomgeving en Transport van het Ministerie van Infrastructuur en Milieu en de bijzondere opsporingsdienst, bedoeld in [artikel 2, onder b, van de Wet op de bijzondere opsporingsdiensten](https://wetten.overheid.nl/jci1.3:c:BWBR0019919&artikel=2);
 
-- f. Onze Minister van Economische Zaken, Landbouw en Innovatie, ten behoeve van de gegevensverwerking door de Algemene Inspectiedienst en de bijzondere opsporingsdienst, bedoeld in [artikel 2, onder c, van de Wet op de bijzondere opsporingsdiensten](https://wetten.overheid.nl/jci1.3:c:BWBR0019919&artikel=2);
+- f. Onze Minister van Economische Zaken, ten behoeve van de gegevensverwerking door de Nederlandse Voedsel- en Warenautoriteit van het Ministerie van Economische Zaken en de bijzondere opsporingsdienst, bedoeld in [artikel 2, onder c, van de Wet op de bijzondere opsporingsdiensten](https://wetten.overheid.nl/jci1.3:c:BWBR0019919&artikel=2);
 
 - g. Onze Minister van Sociale Zaken en Werkgelegenheid, ten behoeve van de gegevensverwerking door de door hem aangewezen toezichthouders, bedoeld in de [Aanwijzingsregeling toezichthoudende ambtenaren en ambtenaren met specifieke uitvoeringstaken op grond van SZW wetgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0011673), en de bijzondere opsporingsdienst, bedoeld in [artikel 2, onder d, van de Wet op de bijzondere opsporingsdiensten](https://wetten.overheid.nl/jci1.3:c:BWBR0019919&artikel=2);
 
-- h. de bestuursorganen, bedoeld in [artikel 1, onder f, van de Wet politiegegevens](https://wetten.overheid.nl/jci1.3:c:BWBR0022463&artikel=1), ten behoeve van de gegevensverwerking door de politie en de Koninklijke marechaussee.
+- h. de bestuursorganen, bedoeld in [artikel 1, onder f, van de Wet politiegegevens](https://wetten.overheid.nl/jci1.3:c:BWBR0022463&artikel=1), ten behoeve van de gegevensverwerking door de politie en de Koninklijke marechaussee;
+
+- i. de Financial Intelligence Unit Nederland (FIU – NL).
 
 ##### Artikel 5b
 
 Mededeling van gegevens met betrekking tot derden, neergelegd in een risicomelding als bedoeld in [artikel 5, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0015049&artikel=5) is toegestaan in de volgende gevallen:
 
-- a. de Autoriteit Financiële Markten: aan het openbaar ministerie, de politie, de bijzondere opsporingsdienst, bedoeld in [artikel 2, onder a, van de Wet op de bijzondere opsporingsdiensten](https://wetten.overheid.nl/jci1.3:c:BWBR0019919&artikel=2), de rijksbelastingdienst, De Nederlandsche Bank N.V., de Algemene Inlichtingen- en Veiligheidsdienst en aan toezichthouders en opsporingsdiensten, belast met het toezicht op de naleving van de wetgeving met betrekking tot financiële instellingen, onderscheidenlijk de opsporing van strafbare feiten op financieel-economisch terrein in het buitenland;
+- a. de Autoriteit Financiële Markten: aan het openbaar ministerie, de politie, de Financial Intelligence Unit Nederland (FIU – NL), de bijzondere opsporingsdienst, bedoeld in [artikel 2, onder a, van de Wet op de bijzondere opsporingsdiensten](https://wetten.overheid.nl/jci1.3:c:BWBR0019919&artikel=2), de rijksbelastingdienst, De Nederlandsche Bank N.V., de Algemene Inlichtingen- en Veiligheidsdienst en aan toezichthouders en opsporingsdiensten, belast met het toezicht op de naleving van de wetgeving met betrekking tot financiële instellingen, onderscheidenlijk de opsporing van strafbare feiten op financieel-economisch terrein in het buitenland;
 
-- b. De Nederlandsche Bank N.V.: aan het openbaar ministerie, de politie, de bijzondere opsporingsdienst, bedoeld in [artikel 2, onder a, van de Wet op de bijzondere opsporingsdiensten](https://wetten.overheid.nl/jci1.3:c:BWBR0019919&artikel=2), de rijksbelastingdienst, de Autoriteit Financiële Markten, de Algemene Inlichtingen- en Veiligheidsdienst en aan toezichthouders en opsporingsdiensten, belast met het toezicht op de naleving van de wetgeving met betrekking tot financiële instellingen, onderscheidenlijk de opsporing van strafbare feiten op financieel-economisch terrein in het buitenland;
+- b. De Nederlandsche Bank N.V.: aan het openbaar ministerie, de politie, de Financial Intelligence Unit Nederland (FIU – NL), de bijzondere opsporingsdienst, bedoeld in [artikel 2, onder a, van de Wet op de bijzondere opsporingsdiensten](https://wetten.overheid.nl/jci1.3:c:BWBR0019919&artikel=2), de rijksbelastingdienst, de Autoriteit Financiële Markten, de Algemene Inlichtingen- en Veiligheidsdienst en aan toezichthouders en opsporingsdiensten, belast met het toezicht op de naleving van de wetgeving met betrekking tot financiële instellingen, onderscheidenlijk de opsporing van strafbare feiten op financieel-economisch terrein in het buitenland;
 
-- c. de bijzondere opsporingsdienst, bedoeld in [artikel 2, onder a, van de Wet op de bijzondere opsporingsdiensten](https://wetten.overheid.nl/jci1.3:c:BWBR0019919&artikel=2): aan het openbaar ministerie, de politie, de andere bijzondere opsporingsdiensten, bedoeld in de [Wet op de bijzondere opsporingsdiensten](https://wetten.overheid.nl/jci1.3:c:BWBR0019919), de Autoriteit Financiële Markten, de Nederlandsche Bank N.V., de rijksbelastingdienst, de VROM-Inspectie, de Algemene Inspectiedienst, de door Onze Minister van Sociale Zaken en Werkgelegenheid aangewezen toezichthouders, bedoeld in de [Aanwijzingsregeling toezichthoudende ambtenaren en ambtenaren met specifieke uitvoeringstaken op grond van SZW wetgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0011673), en aan toezichthouders en opsporingsdiensten, belast met het toezicht op de naleving van de wetgeving met betrekking tot financiële instellingen, onderscheidenlijk de opsporing van strafbare feiten op financieel-economisch terrein in het buitenland;
+- c. de bijzondere opsporingsdienst, bedoeld in [artikel 2, onder a, van de Wet op de bijzondere opsporingsdiensten](https://wetten.overheid.nl/jci1.3:c:BWBR0019919&artikel=2): aan het openbaar ministerie, de politie, de Financial Intelligence Unit Nederland (FIU – NL), de andere bijzondere opsporingsdiensten, bedoeld in de [Wet op de bijzondere opsporingsdiensten](https://wetten.overheid.nl/jci1.3:c:BWBR0019919), de Autoriteit Financiële Markten, de Nederlandsche Bank N.V., de rijksbelastingdienst, de Inspectie Leefomgeving en Transport van het Ministerie van Infrastructuur en Milieu, de Nederlandse Voedsel- en Warenautoriteit van het Ministerie van Economische Zaken, de door Onze Minister van Sociale Zaken en Werkgelegenheid aangewezen toezichthouders, bedoeld in de [Aanwijzingsregeling toezichthoudende ambtenaren en ambtenaren met specifieke uitvoeringstaken op grond van SZW wetgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0011673), en aan toezichthouders en opsporingsdiensten, belast met het toezicht op de naleving van de wetgeving met betrekking tot financiële instellingen, onderscheidenlijk de opsporing van strafbare feiten op financieel-economisch terrein in het buitenland;
 
-- d. de bijzondere opsporingsdienst, bedoeld in [artikel 2, onder b, van de Wet op de bijzondere opsporingsdiensten](https://wetten.overheid.nl/jci1.3:c:BWBR0019919&artikel=2): aan het openbaar ministerie, de politie, de andere bijzondere opsporingsdiensten, bedoeld in de [Wet op de bijzondere opsporingsdiensten](https://wetten.overheid.nl/jci1.3:c:BWBR0019919), en aan de VROM-Inspectie;
+- d. de bijzondere opsporingsdienst, bedoeld in [artikel 2, onder b, van de Wet op de bijzondere opsporingsdiensten](https://wetten.overheid.nl/jci1.3:c:BWBR0019919&artikel=2): aan het openbaar ministerie, de politie, de Financial Intelligence Unit Nederland (FIU – NL), de andere bijzondere opsporingsdiensten, bedoeld in de [Wet op de bijzondere opsporingsdiensten](https://wetten.overheid.nl/jci1.3:c:BWBR0019919), en aan de Inspectie Leefomgeving en Transport van het Ministerie van Infrastructuur en Milieu;
 
-- e. de bijzondere opsporingsdienst, bedoeld in [artikel 2, onder c, van de Wet op de bijzondere opsporingsdiensten](https://wetten.overheid.nl/jci1.3:c:BWBR0019919&artikel=2): aan het openbaar ministerie, de politie, de andere bijzondere opsporingsdiensten, bedoeld in de [Wet op de bijzondere opsporingsdiensten](https://wetten.overheid.nl/jci1.3:c:BWBR0019919), de rijksbelastingdienst, de Algemene Inspectiedienst, de Plantenziektenkundige Dienst, de Voedsel- en Warenautoriteit en aan de Dienst Regelingen van het Ministerie van Economische Zaken, Landbouw en Innovatie;
+- e. de bijzondere opsporingsdienst, bedoeld in [artikel 2, onder c, van de Wet op de bijzondere opsporingsdiensten](https://wetten.overheid.nl/jci1.3:c:BWBR0019919&artikel=2): aan het openbaar ministerie, de politie, de Financial Intelligence Unit Nederland (FIU – NL), de andere bijzondere opsporingsdiensten, bedoeld in de [Wet op de bijzondere opsporingsdiensten](https://wetten.overheid.nl/jci1.3:c:BWBR0019919), de rijksbelastingdienst, de Nederlandse Voedsel- en Warenautoriteit van het Ministerie van Economische Zaken en aan de Rijksdienst voor ondernemend Nederland;
 
-- f. de bijzondere opsporingsdienst, bedoeld in [artikel 2, onder d, van de Wet op de bijzondere opsporingsdiensten](https://wetten.overheid.nl/jci1.3:c:BWBR0019919&artikel=2): aan het openbaar ministerie, de politie, de andere bijzondere opsporingsdiensten, bedoeld in de Wet op de bijzondere opsporingsdiensten, de Autoriteit Financiële Markten, de Nederlandsche Bank N.V., de rijksbelastingdienst, de VROM-Inspectie, de Algemene Inspectiedienst en aan de door Onze Minister van Sociale Zaken en Werkgelegenheid aangewezen toezichthouders, bedoeld in de [Aanwijzingsregeling toezichthoudende ambtenaren en ambtenaren met specifieke uitvoeringstaken op grond van SZW wetgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0011673);
+- f. de bijzondere opsporingsdienst, bedoeld in [artikel 2, onder d, van de Wet op de bijzondere opsporingsdiensten](https://wetten.overheid.nl/jci1.3:c:BWBR0019919&artikel=2): aan het openbaar ministerie, de politie, de Financial Intelligence Unit Nederland (FIU – NL), de andere bijzondere opsporingsdiensten, bedoeld in de Wet op de bijzondere opsporingsdiensten, de Autoriteit Financiële Markten, de Nederlandsche Bank N.V., de rijksbelastingdienst, de Inspectie Leefomgeving en Transport van het Ministerie van Infrastructuur en Milieu, de Nederlandse Voedsel- en Warenautoriteit van het Ministerie van Economische Zaken en aan de door Onze Minister van Sociale Zaken en Werkgelegenheid aangewezen toezichthouders, bedoeld in de [Aanwijzingsregeling toezichthoudende ambtenaren en ambtenaren met specifieke uitvoeringstaken op grond van SZW wetgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0011673);
 
-- g. de politie: aan het openbaar ministerie, de regionale inlichtingen- en expertisecentra, de Koninklijke marechaussee, de rijksbelastingdienst, de bijzondere opsporingsdiensten, bedoeld in [artikel 2 van de Wet op de bijzondere opsporingsdiensten](https://wetten.overheid.nl/jci1.3:c:BWBR0019919&artikel=2) en aan de Algemene Inlichtingen- en Veiligheidsdienst;
+- g. de politie: aan het openbaar ministerie, de Financial Intelligence Unit Nederland (FIU – NL), de regionale inlichtingen- en expertisecentra, de Koninklijke marechaussee, de rijksbelastingdienst, de bijzondere opsporingsdiensten, bedoeld in [artikel 2 van de Wet op de bijzondere opsporingsdiensten](https://wetten.overheid.nl/jci1.3:c:BWBR0019919&artikel=2) en aan de Algemene Inlichtingen- en Veiligheidsdienst;
 
-- h. de rijksbelastingdienst: aan het openbaar ministerie, de politie, de bijzondere opsporingsdiensten, bedoeld in de [Wet op de bijzondere opsporingsdiensten](https://wetten.overheid.nl/jci1.3:c:BWBR0019919), de Autoriteit Financiële Markten, de Nederlandsche Bank N.V., de VROM-Inspectie, de Algemene Inspectiedienst, de door Onze Minister van Sociale Zaken en Werkgelegenheid aangewezen toezichthouders, bedoeld in de [Aanwijzingsregeling toezichthoudende ambtenaren en ambtenaren met specifieke uitvoeringstaken op grond van SZW wetgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0011673), en aan de colleges van burgemeester en wethouders;
+- h. de rijksbelastingdienst: aan het openbaar ministerie, de politie, de Financial Intelligence Unit Nederland (FIU – NL), de bijzondere opsporingsdiensten, bedoeld in de [Wet op de bijzondere opsporingsdiensten](https://wetten.overheid.nl/jci1.3:c:BWBR0019919), de Autoriteit Financiële Markten, de Nederlandsche Bank N.V., de Inspectie Leefomgeving en Transport van het Ministerie van Infrastructuur en Milieu, de Nederlandse Voedsel- en Warenautoriteit van het Ministerie van Economische Zaken, de door Onze Minister van Sociale Zaken en Werkgelegenheid aangewezen toezichthouders, bedoeld in de [Aanwijzingsregeling toezichthoudende ambtenaren en ambtenaren met specifieke uitvoeringstaken op grond van SZW wetgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0011673), en aan de colleges van burgemeester en wethouders;
 
-- i. de VROM-Inspectie: aan het openbaar ministerie, de politie en aan de bijzondere opsporingsdienst, bedoeld in [artikel 2, onder b, van de Wet op de bijzondere opsporingsdiensten](https://wetten.overheid.nl/jci1.3:c:BWBR0019919&artikel=2);
+- i. de Inspectie Leefomgeving en Transport van het Ministerie van Infrastructuur en Milieu: aan het openbaar ministerie, de politie, de Financial Intelligence Unit Nederland (FIU – NL), en aan de bijzondere opsporingsdienst, bedoeld in [artikel 2, onder b, van de Wet op de bijzondere opsporingsdiensten](https://wetten.overheid.nl/jci1.3:c:BWBR0019919&artikel=2);
 
-- j. de door Onze Minister van Sociale Zaken en Werkgelegenheid aangewezen toezichthouders, bedoeld in de Aanwijzingsregeling toezichthoudende ambtenaren en ambtenaren met specifieke uitvoeringstaken op grond van SZW wetgeving: aan het openbaar ministerie, de politie, de bijzondere opsporingsdiensten, bedoeld in [artikel 2, onder a en d, van de Wet op de bijzondere opsporingsdiensten](https://wetten.overheid.nl/jci1.3:c:BWBR0019919&artikel=2) en aan de rijksbelastingdienst;
+- j. de door Onze Minister van Sociale Zaken en Werkgelegenheid aangewezen toezichthouders, bedoeld in de Aanwijzingsregeling toezichthoudende ambtenaren en ambtenaren met specifieke uitvoeringstaken op grond van SZW wetgeving: aan het openbaar ministerie, de politie, de Financial Intelligence Unit Nederland (FIU – NL), de bijzondere opsporingsdiensten, bedoeld in [artikel 2, onder a en d, van de Wet op de bijzondere opsporingsdiensten](https://wetten.overheid.nl/jci1.3:c:BWBR0019919&artikel=2) en aan de rijksbelastingdienst;
 
-- k. de Algemene Inspectiedienst: aan het openbaar ministerie, de politie, de bijzondere opsporingsdiensten, bedoeld in [artikel 2 van de Wet op de bijzondere opsporingsdiensten](https://wetten.overheid.nl/jci1.3:c:BWBR0019919&artikel=2), de rijksbelastingdienst, de Plantenziektenkundige Dienst, de Voedsel- en Warenautoriteit en aan de Dienst Regelingen van het Ministerie van Economische Zaken, Landbouw en Innovatie;
+- k. de Nederlandse Voedsel- en Warenautoriteit van het Ministerie van Economische Zaken: aan het openbaar ministerie, de politie, de Financial Intelligence Unit Nederland (FIU – NL), de bijzondere opsporingsdiensten, bedoeld in [artikel 2 van de Wet op de bijzondere opsporingsdiensten](https://wetten.overheid.nl/jci1.3:c:BWBR0019919&artikel=2), de rijksbelastingdienst en aan de Rijksdienst voor ondernemend Nederland;
 
-- l. ten aanzien van elk van de bestuursorganen, genoemd in [artikel 5a](https://wetten.overheid.nl/jci1.3:c:BWBR0017347&paragraaf=4&artikel=5a&z=2014-08-01&g=2014-08-01): aan de Nationale ombudsman en de rechter.
+- l. de Financial Intelligence Unit Nederland (FIU- NL): aan de politie, het openbaar ministerie, de regionale inlichtingen- en expertisecentra, de Koninklijke marechaussee, de rijksbelastingdienst, de bijzondere opsporingsdiensten, bedoeld in [artikel 2 van de Wet op de bijzondere opsporingsdiensten](https://wetten.overheid.nl/jci1.3:c:BWBR0019919&artikel=2) en aan de Algemene Inlichtingen- en Veiligheidsdienst;
+
+- m. ten aanzien van elk van de bestuursorganen, genoemd in [artikel 5a](https://wetten.overheid.nl/jci1.3:c:BWBR0017347&paragraaf=4&artikel=5a&z=2017-02-01&g=2017-02-01): aan de Nationale ombudsman en de rechter.
 
 #### Paragraaf 5. Slotbepalingen
 
