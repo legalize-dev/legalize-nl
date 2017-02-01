@@ -4,7 +4,7 @@ identifier: "BWBR0027866"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2020-02-25"
-last_updated: "2016-01-06"
+last_updated: "2017-02-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0027866"
 soort: "ministeriele-regeling"
@@ -92,13 +92,13 @@ Met deze regeling wordt beoogd de contacten tussen leden van een reünieverenigi
 
 7. Als de reünievereniging niet bij een defensieonderdeel behoort, komen de kosten voor rekening van het defensieonderdeel dat de locatie waar de reünie wordt georganiseerd, in gebruik heeft.
 
-8. De normbedragen voor het standaardarrangement worden jaarlijks vastgesteld en opgenomen in [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBR0027866&bijlage=I&z=2016-01-06&g=2016-01-06) van deze regeling.
+8. De normbedragen voor het standaardarrangement worden jaarlijks vastgesteld en opgenomen in [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBR0027866&bijlage=I&z=2017-02-01&g=2017-02-01) van deze regeling.
 
 ##### Artikel 4. Toekennen van faciliteiten
 
-1. Een reünievereniging die gebruik wenst te maken van de reüniefaciliteiten, dient daartoe een verzoek in bij het defensieonderdeel dat volgens [artikel 3, zesde en zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0027866&artikel=3&z=2016-01-06&g=2016-01-06), van deze regeling wordt belast met de kosten van de reüniefaciliteiten.
+1. Een reünievereniging die gebruik wenst te maken van de reüniefaciliteiten, dient daartoe een verzoek in bij het defensieonderdeel dat volgens [artikel 3, zesde en zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0027866&artikel=3&z=2017-02-01&g=2017-02-01), van deze regeling wordt belast met de kosten van de reüniefaciliteiten.
 
-2. Voordat het defensieonderdeel beslist op een verzoek van een reünievereniging om gebruik te mogen maken van de reüniefaciliteiten, wordt getoetst of de reünie voldoet aan het gestelde in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0027866&artikel=2&z=2016-01-06&g=2016-01-06).
+2. Voordat het defensieonderdeel beslist op een verzoek van een reünievereniging om gebruik te mogen maken van de reüniefaciliteiten, wordt getoetst of de reünie voldoet aan het gestelde in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0027866&artikel=2&z=2017-02-01&g=2017-02-01).
 
 ##### Artikel 5. Militaire of semi-militaire locatie
 
@@ -106,27 +106,27 @@ Met deze regeling wordt beoogd de contacten tussen leden van een reünieverenigi
 
 2. Als naar het oordeel van het defensieonderdeel op de eigen locatie geen geschikte accommodatie kan worden aangeboden, kan voor de reünie worden uitgeweken naar een andere militaire of semi-militaire locatie.
 
-3. De defensieonderdelen maken een overzicht van de door hen goedgekeurde semi-militaire locaties. Dit overzicht is opgenomen in [bijlage II](https://wetten.overheid.nl/jci1.3:c:BWBR0027866&bijlage=II&z=2016-01-06&g=2016-01-06) van deze regeling.
+3. De defensieonderdelen maken een overzicht van de door hen goedgekeurde semi-militaire locaties. Dit overzicht is opgenomen in [bijlage II](https://wetten.overheid.nl/jci1.3:c:BWBR0027866&bijlage=II&z=2017-02-01&g=2017-02-01) van deze regeling.
 
 4. De ondersteuning van een reünie dient te geschieden met de middelen en faciliteiten die door de commandant van de betrokken militaire of semi-militaire locatie kunnen worden geboden.
 
 ##### Artikel 6. Reünieregister verenigingen
 
-1. Namens de Minister van Defensie beslist de Directeur van het Veteraneninstituut op een verzoek van een reünievereniging voor veteranen om te worden opgenomen in het reünieregister. Voorafgaand aan de beslissing wordt getoetst of de reünievereniging voldoet aan het gestelde in [artikel 1, onderdeel e](https://wetten.overheid.nl/jci1.3:c:BWBR0027866&artikel=1&z=2016-01-06&g=2016-01-06). Ook vindt overleg plaats met het defensieonderdeel waartoe de betreffende reünievereniging traditioneel behoort.
+1. Namens de Minister van Defensie beslist de Directeur van het Veteraneninstituut op een verzoek van een reünievereniging voor veteranen om te worden opgenomen in het reünieregister. Voorafgaand aan de beslissing wordt getoetst of de reünievereniging voldoet aan het gestelde in [artikel 1, onderdeel e](https://wetten.overheid.nl/jci1.3:c:BWBR0027866&artikel=1&z=2017-02-01&g=2017-02-01). Ook vindt overleg plaats met het defensieonderdeel waartoe de betreffende reünievereniging traditioneel behoort.
 
-2. Namens de Minister van Defensie beslissen de defensieonderdelen op een verzoek van een reünievereniging voor postactieven dan wel voor oorlogs- en dienstslachtoffers om te worden opgenomen in het reünieregister. Voorafgaand aan de beslissing wordt getoetst of de reünievereniging voldoet aan het gestelde in [artikel 1, onderdeel e](https://wetten.overheid.nl/jci1.3:c:BWBR0027866&artikel=1&z=2016-01-06&g=2016-01-06).
+2. Namens de Minister van Defensie beslissen de defensieonderdelen op een verzoek van een reünievereniging voor postactieven dan wel voor oorlogs- en dienstslachtoffers om te worden opgenomen in het reünieregister. Voorafgaand aan de beslissing wordt getoetst of de reünievereniging voldoet aan het gestelde in [artikel 1, onderdeel e](https://wetten.overheid.nl/jci1.3:c:BWBR0027866&artikel=1&z=2017-02-01&g=2017-02-01).
 
 3. Het reünieregister wordt bijgehouden door het Veteraneninstituut.
 
 ##### Artikel 7. Overgangsbepalingen
 
-1. Bestaande reünieverbanden van missies van vóór 1963 die zijn ingeschreven in het reünieregister en die niet kunnen worden aangemerkt als vereniging, zijn vrijgesteld van de voorwaarden zoals opgenomen in [artikel 1, onder e](https://wetten.overheid.nl/jci1.3:c:BWBR0027866&artikel=1&z=2016-01-06&g=2016-01-06).
+1. Bestaande reünieverbanden van missies van vóór 1963 die zijn ingeschreven in het reünieregister en die niet kunnen worden aangemerkt als vereniging, zijn vrijgesteld van de voorwaarden zoals opgenomen in [artikel 1, onder e](https://wetten.overheid.nl/jci1.3:c:BWBR0027866&artikel=1&z=2017-02-01&g=2017-02-01).
 
-2. Voor de overige reünieverenigingen die ten gevolge van deze regeling niet meer aan de voorwaarden voor inschrijving voldoen, geldt een overgangsregeling. Zij ontvangen een voorlopige inschrijving tot 1 januari 2013 om aan de voorwaarden te voldoen. Vanaf 1 januari 2013 dienen alle ingeschreven reünieverenigingen te voldoen aan de voorwaarden zoals opgenomen in [artikel 1, onder e](https://wetten.overheid.nl/jci1.3:c:BWBR0027866&artikel=1&z=2016-01-06&g=2016-01-06).
+2. Voor de overige reünieverenigingen die ten gevolge van deze regeling niet meer aan de voorwaarden voor inschrijving voldoen, geldt een overgangsregeling. Zij ontvangen een voorlopige inschrijving tot 1 januari 2013 om aan de voorwaarden te voldoen. Vanaf 1 januari 2013 dienen alle ingeschreven reünieverenigingen te voldoen aan de voorwaarden zoals opgenomen in [artikel 1, onder e](https://wetten.overheid.nl/jci1.3:c:BWBR0027866&artikel=1&z=2017-02-01&g=2017-02-01).
 
-3. Onderafdelingen van ingeschreven reünieverenigingen kunnen in aanmerking komen voor zelfstandige inschrijving als reünievereniging indien zij voldoen aan de voorwaarden van [artikel 1, onder e](https://wetten.overheid.nl/jci1.3:c:BWBR0027866&artikel=1&z=2016-01-06&g=2016-01-06),
+3. Onderafdelingen van ingeschreven reünieverenigingen kunnen in aanmerking komen voor zelfstandige inschrijving als reünievereniging indien zij voldoen aan de voorwaarden van [artikel 1, onder e](https://wetten.overheid.nl/jci1.3:c:BWBR0027866&artikel=1&z=2017-02-01&g=2017-02-01),
 
-4. Reünieverenigingen die niet voldoen aan de voorwaarden van [artikel 1, onderdeel e](https://wetten.overheid.nl/jci1.3:c:BWBR0027866&artikel=1&z=2016-01-06&g=2016-01-06), kunnen zich als onderafdeling inschrijven bij een reünievereniging die wel aan de voorwaarden voldoet. Deze reünievereniging functioneert dan als koepelorganisatie en is vervolgens verantwoordelijk voor een juiste uitvoering van de regeling door de onderafdeling.
+4. Reünieverenigingen die niet voldoen aan de voorwaarden van [artikel 1, onderdeel e](https://wetten.overheid.nl/jci1.3:c:BWBR0027866&artikel=1&z=2017-02-01&g=2017-02-01), kunnen zich als onderafdeling inschrijven bij een reünievereniging die wel aan de voorwaarden voldoet. Deze reünievereniging functioneert dan als koepelorganisatie en is vervolgens verantwoordelijk voor een juiste uitvoering van de regeling door de onderafdeling.
 
 ##### Artikel 8. Evaluatie
 
@@ -145,6 +145,14 @@ Deze Regeling treedt in werking met ingang van datum dagtekening.
 Deze Regeling wordt aangehaald als ‘Regeling reüniefaciliteiten veteranen, oorlogs- en dienstslachtoffers en postactieven’.
 
 ## Bijlage I. Normbedragen standaardarrangement
+
+In 2017 zijn de volgende normbedragen voor het standaardarrangement van toepassing:
+
+- •. € 15,84 per persoon voor een Reünie op een Militaire locatie op een werkdag;
+
+- •. € 18,38 per persoon voor een Reünie op een Semi-militaire locatie op een werkdag.
+
+- •. € 19,95 per persoon voor een Reünie op een Militaire locatie op een zaterdag;
 
 ## Bijlage II. Militaire en semi-militaire locaties
 
