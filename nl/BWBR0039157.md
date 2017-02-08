@@ -4,7 +4,7 @@ identifier: "BWBR0039157"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2017-02-08"
-last_updated: "2016-10-01"
+last_updated: "2017-02-08"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0039157"
 soort: "ministeriele-regeling"
@@ -48,7 +48,7 @@ In dit besluit wordt verstaan onder:
 
 - a. **minister:** Minister van Sociale Zaken en Werkgelegenheid;
 
-- b. **taskforce:** de Taskforce Samenwerking Onderwijs en Kinderopvang, genoemd in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0039157&artikel=2&z=2017-02-08&g=2016-10-01).
+- b. **taskforce:** de Taskforce Samenwerking Onderwijs en Kinderopvang, genoemd in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0039157&artikel=2&z=2017-02-08&g=2017-02-08).
 
 ##### Artikel 2. Instelling, taak, opheffing
 
