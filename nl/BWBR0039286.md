@@ -4,7 +4,7 @@ identifier: "BWBR0039286"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2017-02-16"
-last_updated: "2016-10-21"
+last_updated: "2017-02-16"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0039286"
 soort: "ministeriele-regeling"
@@ -36,13 +36,13 @@ entry_into_force: "2017-02-16"
 ---
 # Besluit van de Minister van Volksgezondheid, Welzijn en Sport, 1075790-159883-VGP van 7 februari 2017, houdende aanwijzing bevoegde autoriteit in het kader van de gastoestellenverordening
 
-Gelet op artikel 20 van de Verordening (EU) 2016/426 van het Europees Parlement en de Raad van 9 maart 2016 betreffende gasverbrandingstoestellen en tot intrekking van [Richtlijn 2009/142/EG](onbekend) (PbEU 2016, L 81);
+Gelet op artikel 20 van de Verordening (EU) 2016/426 van het Europees Parlement en de Raad van 9 maart 2016 betreffende gasverbrandingstoestellen en tot intrekking van [Richtlijn 2009/142/EG](32009L0142) (PbEU 2016, L 81);
 
 Besluit:
 
 ##### Artikel 1
 
-Als aanwijzende autoriteit, bedoeld in artikel 20 van de Verordening (EU) 2016/426 van het Europees Parlement en de Raad van 9 maart 2016 betreffende gasverbrandingstoestellen en tot intrekking van [Richtlijn 2009/142/EG](onbekend) (PbEU 2016, L 81), wordt aangewezen: de Minister van Volksgezondheid, Welzijn en Sport.
+Als aanwijzende autoriteit, bedoeld in artikel 20 van de Verordening (EU) 2016/426 van het Europees Parlement en de Raad van 9 maart 2016 betreffende gasverbrandingstoestellen en tot intrekking van [Richtlijn 2009/142/EG](32009L0142) (PbEU 2016, L 81), wordt aangewezen: de Minister van Volksgezondheid, Welzijn en Sport.
 
 ##### Artikel 2
 
