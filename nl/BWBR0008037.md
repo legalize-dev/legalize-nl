@@ -4,7 +4,7 @@ identifier: "BWBR0008037"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2018-07-01"
-last_updated: "2016-12-19"
+last_updated: "2017-02-18"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0008037"
 soort: "ministeriele-regeling"
@@ -90,22 +90,6 @@ Geharmoniseerde communautaire codes
 
 03.02 Prothese/orthese been
 
-05.01 Alleen rijden bij daglicht (vanaf een uur na zonsopgang tot een uur voor zonsondergang)
-
-05.02 Alleen rijden binnen een straal van … km vanaf de woonplaats van de rijbewijshouder of alleen binnen de stad/regio …
-
-05.03 Alleen rijden zonder passagiers
-
-05.04 Rijden met maximale snelheid van … km per uur
-
-05.05 Rijden alleen toegestaan in gezelschap van andere rijbewijshouder
-
-05.06 Rijden zonder aanhangwagen
-
-05.07 Rijden op snelweg niet toegestaan
-
-05.08 Alcohol niet toegestaan
-
 10.02 Automatische keuze van de versnelling
 
 10.04 Aangepaste bediening van de versnellingsbak
@@ -152,28 +136,6 @@ Geharmoniseerde communautaire codes
 
 25.09 Maatregel om blokkering of activering van het gaspedaal te voorkomen
 
-30.01 Parallelpedalen
-
-30.02 Pedalen op (nagenoeg) gelijke hoogte
-
-30.03 Gas geven en remmen door middel van schuifsysteem
-
-30.04 Gas geven en remmen door middel van schuifsysteem met orthese
-
-30.05 Opklapbare/uitneembare gas- en rempedalen
-
-30.06 Vloerverhoging
-
-30.07 Afscherming aan de kant van het rempedaal
-
-30.08 Afscherming voor prothese aan de kant van het rempedaal
-
-30.09 Afscherming vóór gas- en rempedalen
-
-30.10 Hiel- of beenondersteuning
-
-30.11 Gas geven en remmen via elektrische bediening
-
 31.01 Extra parallelpedalen
 
 31.02 Pedalen op (nagenoeg) gelijke hoogte
@@ -206,7 +168,7 @@ Geharmoniseerde communautaire codes
 
 40.06 Aangepaste stand van het stuurwiel
 
-40.09 Voetbediend stuur
+40.09 Voetstuur
 
 40.11 Hulpmiddel op stuurwiel
 
@@ -250,8 +212,6 @@ Geharmoniseerde communautaire codes
 
 44.12 Aangepaste handgreep
 
-Codes voor beperkt gebruik
-
 Administratieve vermeldingen
 
 79.01 Alleen tweewielige voertuigen met of zonder zijspan
@@ -266,33 +226,9 @@ Administratieve vermeldingen
 
 79.06 Voertuigen van de categorie BE met een aanhangwagen waarvan de maximaal toegestane massa groter is dan 3.500kg
 
-90.01: links van
-
-90.02: rechts van
-
-90.03: links
-
-90.04: rechts
-
-90.05: hand
-
-90.06: voet
-
-90.07: bedienbaar
-
-De hulptekens die bij de vermelding van de subcodes mogen worden gebruikt zijn:
-
-« , » wordt gebruikt als separator tussen codes; **voorbeeld: 01.06,05.02 Ede,10.02,20.01,25.01**;
-
-« / » wordt gebruikt bij keuzemogelijkheid tussen twee (sub)codes of bij elkaar behoren de codes; **voorbeeld: 40.01/(50 12345678)**
-
-« ( ) » wordt gebruikt om een aantal codes als eenheid samen te voegen bij gebruik van het « / » keuzeteken;
-
 - 100. Alleen tijdens privé-gebruik
 
 - 101. Tijdens privé-gebruik, en tijdens beroepsmatig gebruik, niet zijnde vervoer van personen of het onder toezicht doen besturen van derden, voor maximaal vier uren per dag
-
-- 102. Met gebruik van een monoculair bioptisch telescoopsysteem
 
 - 103. alleen rijden in een motorrijtuig waarin een alcoholslot als bedoeld in [artikel 132e, eerste lid, van de Wegenverkeerswet 1994](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=132e) is ingebouwd en waarvan het kenteken is gekoppeld aan de naam van de rijbewijshouder
 
