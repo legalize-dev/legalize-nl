@@ -4,7 +4,7 @@ identifier: "BWBR0037592"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2017-02-21"
-last_updated: "2016-02-06"
+last_updated: "2017-02-21"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0037592"
 soort: "ministeriele-regeling"
@@ -50,7 +50,7 @@ Besluit:
 
 ##### Artikel 1
 
-In dit besluit wordt verstaan onder buitengewoon opsporingsambtenaar: de persoon als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0037592&artikel=2&z=2016-02-06&g=2016-02-06).
+In dit besluit wordt verstaan onder buitengewoon opsporingsambtenaar: de persoon als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0037592&artikel=2&z=2017-02-21&g=2017-02-21).
 
 ##### Artikel 2
 
@@ -76,21 +76,29 @@ Op grond van dit besluit kunnen maximaal 20 personen als buitengewoon opsporings
 
 ##### Artikel 6
 
+De buitengewoon opsporingsambtenaar kan de in [artikel 7, eerste en derde lid, van de Politiewet 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&artikel=7) omschreven bevoegdheden uitoefenen met gebruikmaking van handboeien.
+
+De nummering van de artikelen 6, 7 en 8 wordt, vanwege het toevoegen van bovengenoemd artikel, gewijzigd in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0037592&artikel=7&z=2017-02-21&g=2017-02-21), [8](https://wetten.overheid.nl/jci1.3:c:BWBR0037592&artikel=8&z=2017-02-21&g=2017-02-21) en respectievelijk [9](https://wetten.overheid.nl/jci1.3:c:BWBR0037592&artikel=9&z=2017-02-21&g=2017-02-21).
+
+##### Artikel 7
+
 1. De gemeente Hengelo brengt jaarlijks, voor 1 april, verslag uit over:
 
-- a. het aantal buitengewoon opsporingsambtenaren werkzaam in de in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0037592&artikel=2&z=2016-02-06&g=2016-02-06) genoemde functie;
+- a. het aantal buitengewoon opsporingsambtenaren werkzaam in de in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0037592&artikel=2&z=2017-02-21&g=2017-02-21) genoemde functie;
 
 - b. de door die buitengewoon opsporingsambtenaren verrichte activiteiten;
 
 - c. de stand van zaken met betrekking tot de opleiding van die buitengewoon opsporingsambtenaren, waarbij in ieder geval wordt aangegeven hoeveel personen in het verslagjaar zijn aangemeld voor het door de Staatssecretaris van Veiligheid en Justitie goedgekeurde examen en hoeveel personen in dat jaar voor dat examen zijn geslaagd.
 
-2. Dit verslag wordt toegezonden aan de in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0037592&artikel=5&z=2016-02-06&g=2016-02-06) bedoelde toezichthouder en direct toezichthouder en aan het Ministerie van Veiligheid en Justitie, dienst Justis, afdeling V&T, postbus 20300, 2500 EH Den Haag.
+2. Dit verslag wordt toegezonden aan de in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0037592&artikel=5&z=2017-02-21&g=2017-02-21) bedoelde toezichthouder en direct toezichthouder en aan het Ministerie van Veiligheid en Justitie, dienst Justis, afdeling V&T, postbus 20300, 2500 EH Den Haag.
 
-##### Artikel 7
+##### Artikel 8
 
 Dit besluit treedt in werking met ingang van de dag na dagtekening van de Staatscourant waarin het wordt geplaatst en vervalt vijf jaar na het tijdstip van inwerkingtreding.
 
-##### Artikel 8
+Dit besluit zal met de toelichting in de Staatscourant worden geplaatst.
+
+##### Artikel 9
 
 Dit besluit wordt aangehaald als: Besluit buitengewoon opsporingsambtenaar gemeente Hengelo 2016.
 
