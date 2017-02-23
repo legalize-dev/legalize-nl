@@ -4,7 +4,7 @@ identifier: "BWBR0021424"
 country: "nl"
 rank: "reglement"
 publication_date: "2021-12-09"
-last_updated: "2016-12-13"
+last_updated: "2017-02-23"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0021424"
 soort: "reglement"
@@ -54,17 +54,17 @@ De commissie zendt het voorstel tot aanwijzing van een groot project, vergezeld 
 
 ### Artikel 5. Mededeling besluit tot aanwijzing groot project
 
-De Voorzitter deelt het besluit van de Tweede Kamer tot aanwijzing van een groot project onverwijld aan de minister mede. Daarbij meldt de Voorzitter tevens welke commissie met de uitvoering wordt belast.
+De Voorzitter deelt het besluit van de Tweede Kamer tot aanwijzing van een groot project onverwijld aan de minister mede. Daarbij meldt de Voorzitter tevens welke commissie met de uitvoering van de parlementaire controle op het groot project wordt belast.
 
 ### Hoofdstuk III. Uitvoering van de parlementaire controle op een groot project
 
 ### Artikel 6. Verantwoordelijke commissie
 
-De commissie die is belast met de uitvoering is verantwoordelijk voor het vaststellen van de in [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0021424&hoofdstuk=IV&artikel=9&z=2016-12-13&g=2016-12-13) genoemde uitgangspunten en vervolgens voor de controle op het aangewezen groot project.
+De commissie die is belast met de uitvoering van de parlementaire controle op een groot project, is verantwoordelijk voor het vaststellen van de in [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0021424&hoofdstuk=IV&artikel=9&z=2017-02-23&g=2017-02-23) genoemde uitgangspunten en vervolgens voor de parlementaire controle op het aangewezen groot project.
 
 ### Artikel 7. Advies over uitvoering regeling
 
-### Artikel 8. Rapporteur groot project
+### Artikel 8. Rapporteurs groot project
 
 ### Hoofdstuk IV. De aanvang van een groot project
 
@@ -76,29 +76,29 @@ De commissie die is belast met de uitvoering is verantwoordelijk voor het vastst
 
 ### Artikel 11. Actualiseren van afspraken en basisrapportage
 
-### Artikel 12. Aanwijzingen voor de voortgangsrapportage
+### Artikel 11a. Besluitvorming voortzetting groot project
 
 ### Artikel 13. Aanwijzingen voor het accountantsrapport
 
-### Artikel 14. Terugzendrecht van de commissie
+### Artikel 12. Aanwijzingen voor de voortgangsrapportage
 
 Indien de commissie van oordeel is dat de geleverde informatie ontoereikend is, dan wel de kwaliteit van de geleverde informatie onvoldoende is, wordt de minister in staat gesteld binnen zeven werkdagen de ontbrekende of verbeterde informatie aan de Tweede Kamer te zenden.
 
-### Hoofdstuk VI. Beëindiging grootprojectstatus
+### Artikel 14. Terugzendrecht van de commissie
 
 ### Artikel 15. Verzoek om eindevaluatie
+
+### Hoofdstuk VI. Beëindiging grootprojectstatus
+
+De eindevaluatie van een groot project omvat in ieder geval:
+
+### Artikel 17. Voorstel tot beëindiging grootprojectstatus
 
 ### Artikel 16. Aanwijzingen voor de eindevaluatie
 
 De eindevaluatie van een groot project omvat in ieder geval:
 
 ### Artikel 17. Voorstel tot beëindiging grootprojectstatus
-
-### Artikel 18. Advisering over beëindiging grootprojectstatus
-
-Voordat de commissie aan de Tweede Kamer een voorstel doet tot beëindiging van de grootprojectstatus, vraagt zij advies aan de vaste commissie voor Financiën.
-
-### Artikel 19. Toezending voorstel en advies aan de Voorzitter
 
 De verantwoordelijke commissie zendt een voorstel tot beëindiging van de grootprojectstatus, vergezeld van het uitgebrachte advies, aan de Voorzitter.
 
@@ -107,6 +107,32 @@ De verantwoordelijke commissie zendt een voorstel tot beëindiging van de grootp
 De Voorzitter deelt een besluit van de Kamer tot beëindiging van de grootprojectstatus onverwijld aan de minister mede.
 
 ### Hoofdstuk VII. Slotbepalingen
+
+### Artikel 20. Mededeling besluit tot beëindiging grootprojectstatus
+
+De Voorzitter deelt een besluit van de Kamer tot beëindiging van de grootprojectstatus onverwijld aan de minister mede.
+
+### Hoofdstuk VII. Slotbepalingen
+
+Deze regeling wordt aangehaald als «Regeling Grote Projecten».
+
+De commissie beslist steeds of zij de grootprojectstatus wenst voort te zetten:
+
+### Artikel 13. Aanwijzingen voor het accountantsrapport
+
+Indien de commissie van oordeel is dat de geleverde informatie ontoereikend is, dan wel de kwaliteit van de geleverde informatie onvoldoende is, wordt de minister in staat gesteld binnen zeven werkdagen de ontbrekende of verbeterde informatie aan de Tweede Kamer te zenden.
+
+### Artikel 15. Verzoek om eindevaluatie
+
+Indien de commissie van mening is dat het groot project als beëindigd kan worden beschouwd of de grootprojectstatus om een andere reden eerder kan worden beëindigd, verzoekt zij de minister de eindevaluatie op te stellen.
+
+### Artikel 18. Advisering over beëindiging grootprojectstatus
+
+Voordat de commissie aan de Tweede Kamer een voorstel doet tot beëindiging van de grootprojectstatus, vraagt zij advies aan de vaste commissie voor Financiën.
+
+### Artikel 19. Toezending voorstel en advies aan de Voorzitter
+
+De verantwoordelijke commissie zendt een voorstel tot beëindiging van de grootprojectstatus, vergezeld van het uitgebrachte advies, aan de Voorzitter.
 
 ### Artikel 21. Werking en toepassing van de regeling
 
