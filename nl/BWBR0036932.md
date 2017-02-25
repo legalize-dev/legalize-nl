@@ -4,7 +4,7 @@ identifier: "BWBR0036932"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-03-28"
-last_updated: "2017-01-01"
+last_updated: "2017-02-25"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0036932"
 soort: "ministeriele-regeling"
@@ -80,11 +80,11 @@ WBJA bestaat uit:
 
 - b. het behandelen van wetgevende aspecten van departements- en rijksbrede onderwerpen;
 
-- c. het ontwerpen van de teksten van alle wetten, algemene maatregelen van bestuur en ministeriële regelingen op het terrein van het ministerie, met uitzondering van de begrotingswetten en met uitzondering van de wetten, algemene maatregelen van bestuur en ministeriële regelingen waarvoor op grond van [artikel 4, eerste lid, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0036932&paragraaf=2&artikel=4&z=2015-08-15&g=2017-01-01), het hoofd van de afdeling ABWA verantwoordelijk is;
+- c. het ontwerpen van de teksten van alle wetten, algemene maatregelen van bestuur en ministeriële regelingen op het terrein van het ministerie, met uitzondering van de begrotingswetten en met uitzondering van wetten, algemene maatregelen van bestuur en ministeriële regelingen waarvoor op grond van [artikel 4, eerste lid, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0036932&paragraaf=2&artikel=4&z=2017-02-25&g=2017-02-25), het hoofd van de afdeling ABWA of op grond van artikel 5, eerste lid, onderdeel d, het hoofd van de afdeling JA-BBS verantwoordelijk is;
 
 - d. het adviseren over het gebruik van het instrument regelgeving;
 
-- e. de implementatie van internationale verdragen en regelingen, onverminderd [artikel 6, tweede lid, onderdeel e](https://wetten.overheid.nl/jci1.3:c:BWBR0036932&paragraaf=2&artikel=6&z=2015-08-15&g=2017-01-01).
+- e. de implementatie van internationale verdragen en regelingen, onverminderd [artikel 6, tweede lid, onderdeel e](https://wetten.overheid.nl/jci1.3:c:BWBR0036932&paragraaf=2&artikel=6&z=2017-02-25&g=2017-02-25).
 
 2. Het hoofd van de afdeling Wetgeving is voorts belast met bijzondere taken op het gebied van het wetgevingskwaliteitsbeleid.
 
@@ -110,7 +110,7 @@ WBJA bestaat uit:
 
 - 5°. (regulering) arbeidsmarkt en arbeidsvoorwaarden, inclusief grensoverschrijdende arbeid;
 
-- e. de implementatie van internationale verdragen en regelingen, onverminderd [artikel 6, tweede lid, onderdeel e](https://wetten.overheid.nl/jci1.3:c:BWBR0036932&paragraaf=2&artikel=6&z=2015-08-15&g=2017-01-01).
+- e. de implementatie van internationale verdragen en regelingen, onverminderd [artikel 6, tweede lid, onderdeel e](https://wetten.overheid.nl/jci1.3:c:BWBR0036932&paragraaf=2&artikel=6&z=2017-02-25&g=2017-02-25).
 
 2. Het hoofd van de afdeling ABWA is verantwoordelijk voor de volgende taken ten aanzien van de [Wet arbeid vreemdelingen](https://wetten.overheid.nl/jci1.3:c:BWBR0007149), de [Wet minimumloon en minimumvakantiebijslag](https://wetten.overheid.nl/jci1.3:c:BWBR0002638) en de Wet allocatie en arbeidsbemiddeling door intermediairs en aanverwante wetten:
 
@@ -126,11 +126,21 @@ WBJA bestaat uit:
 
 1. Het hoofd van de afdeling JA-BBS is verantwoordelijk voor de volgende taken ten aanzien van subsidies, bijstand en bedrijfsjuridische aangelegenheden:
 
-- a. het bevorderen van de kwaliteit van het juridisch handelen van het ministerie;
+- a. het bevorderen van de kwaliteit van de wet- en regelgeving en van het juridisch handelen van het ministerie;
 
-- b. het behandelen van nationale juridische aspecten van departements- en rijksbrede onderwerpen;
+- b. het behandelen van wetgevende en nationale juridische aspecten van departements- en rijksbrede onderwerpen;
 
-- c. het adviseren over en behandelen van nationale juridische vraagstukken en procedures, waaronder bezwaar- en beroepsprocedures, met uitzondering van bezwaar- en beroepschriften van (ex-)medewerkers van het ministerie inzake aangelegenheden verband houdende met de dienstbetrekking.
+- c. het adviseren over en behandelen van nationale juridische vraagstukken en procedures, waaronder bezwaar- en beroepsprocedures, met uitzondering van bezwaar- en beroepschriften van (ex-)medewerkers van het ministerie inzake aangelegenheden verband houdende met de dienstbetrekking;
+
+- d. het ontwerpen van de teksten van alle wetten, algemene maatregelen van bestuur en ministeriële regelingen op het terrein van het ministerie, die betrekking hebben op:
+
+- 1º. gemeentelijke regelingen;
+
+- 2º. subsidies;
+
+- 3º. integratie;
+
+- e. de implementatie van internationale verdragen en regelingen, onverminderd [artikel 6, tweede lid, onderdeel e](https://wetten.overheid.nl/jci1.3:c:BWBR0036932&paragraaf=2&artikel=6&z=2017-02-25&g=2017-02-25).
 
 2. Het hoofd van de afdeling JA-BBS is verantwoordelijk voor de volgende algemene taken:
 
@@ -141,6 +151,8 @@ WBJA bestaat uit:
 - c. het adviseren over en behandelen van civiele aangelegenheden;
 
 - d. het onderhouden van de contacten met de Landsadvocaat.
+
+3. Het hoofd van de afdeling JA-BBS is voorts belast met bijzondere taken op het gebied van het wetgevingskwaliteitsbeleid.
 
 ##### Artikel 6
 
@@ -162,9 +174,9 @@ WBJA bestaat uit:
 
 - d. het bijdragen aan de totstandkoming van internationale verdragen en regelingen;
 
-- e. het, in afwijking van [artikel 3, eerste lid, onderdeel e](https://wetten.overheid.nl/jci1.3:c:BWBR0036932&paragraaf=2&artikel=3&z=2015-08-15&g=2017-01-01), en na overleg met het hoofd van de afdeling Wetgeving of het hoofd van de afdeling ABWA, opstellen van regelgeving ter goedkeuring van internationale verdragen en regelingen, voor zover het daarbij gaat om regelgeving waarbij de inzet van de internationaalrechtelijke expertise van de afdeling JA-SVIA aangewezen is;
+- e. het, in afwijking van [artikel 3, eerste lid, onderdeel e](https://wetten.overheid.nl/jci1.3:c:BWBR0036932&paragraaf=2&artikel=3&z=2017-02-25&g=2017-02-25), en na overleg met het hoofd van de afdeling Wetgeving, het hoofd van de afdeling ABWA of het hoofd van de afdeling JA-BBS, opstellen van regelgeving ter goedkeuring van internationale verdragen en regelingen, voor zover het daarbij gaat om regelgeving waarbij de inzet van de internationaalrechtelijke expertise van de afdeling JA-SVIA aangewezen is;
 
-- f. het, in afwijking van de [artikelen 4, tweede lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0036932&paragraaf=2&artikel=4&z=2015-08-15&g=2017-01-01), [5, eerste lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0036932&paragraaf=2&artikel=5&z=2015-08-15&g=2017-01-01), en [6, eerste lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0036932&paragraaf=2&artikel=6&z=2015-08-15&g=2017-01-01), en na overleg met het hoofd van de verantwoordelijke juridische afdeling, leveren van een bijdrage aan de behandeling van nationale juridische procedures, voor zover het daarbij gaat om procedures waarbij de inzet van internationaalrechtelijke aangelegenheden aangewezen is.
+- f. het, in afwijking van de [artikelen 4, tweede lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0036932&paragraaf=2&artikel=4&z=2017-02-25&g=2017-02-25), [5, eerste lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0036932&paragraaf=2&artikel=5&z=2017-02-25&g=2017-02-25), en [6, eerste lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0036932&paragraaf=2&artikel=6&z=2017-02-25&g=2017-02-25), en na overleg met het hoofd van de verantwoordelijke juridische afdeling, leveren van een bijdrage aan de behandeling van nationale juridische procedures, voor zover het daarbij gaat om procedures waarbij de inzet van internationaalrechtelijke aangelegenheden aangewezen is.
 
 3. Bij afwezigheid van het hoofd van de afdeling JA-BBS is het hoofd van de afdeling JA-SVIA verantwoordelijk voor het onderhouden van de contacten met de Landsadvocaat.
 
@@ -196,7 +208,7 @@ De hoofden van de afdelingen worden gemachtigd tot het paraferen van stukken die
 
 ##### Artikel 10
 
-Aan de hoofden van de afdelingen Wetgeving en ABWA wordt mandaat en machtiging verleend tot het nemen van besluiten over en het vaststellen en ondertekenen van stukken die betrekking hebben op:
+Aan de hoofden van de afdelingen Wetgeving, ABWA en JA-BBS wordt mandaat en machtiging verleend tot het nemen van besluiten over en het vaststellen en ondertekenen van stukken die betrekking hebben op:
 
 - a. het oordeel of, met het oog op het gestelde in [artikel 6 van de Wet raadgevend referendum](https://wetten.overheid.nl/jci1.3:c:BWBR0036443&artikel=6), over een wet een referendum kan worden gehouden;
 
