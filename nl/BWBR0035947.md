@@ -4,7 +4,7 @@ identifier: "BWBR0035947"
 country: "nl"
 rank: "amvb"
 publication_date: "2022-07-01"
-last_updated: "2015-05-01"
+last_updated: "2017-02-25"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0035947"
 soort: "AMvB"
@@ -58,21 +58,29 @@ In dit besluit wordt verstaan onder:
 
 ##### Artikel 2. advies
 
-1. Het Uitvoeringsinstituut werknemersverzekeringen verricht op verzoek van het college de werkzaamheden, bedoeld in [artikel 10b, tweede lid, van de Participatiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&artikel=10b), en adviseert het college hierover.
+1. Het Uitvoeringsinstituut werknemersverzekeringen verricht de werkzaamheden, bedoeld in [artikel 10b, tweede en derde lid, van de Participatiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&artikel=10b), en adviseert het college hierover binnen acht weken nadat het hiertoe van het college of van de persoon, bedoeld in artikel 10b, derde lid, van de Participatiewet, een verzoek heeft ontvangen.
 
-2. Het Uitvoeringsinstituut werknemersverzekeringen brengt het advies uit, uiterlijk acht weken nadat het een verzoek van het college hiertoe heeft ontvangen.
-
-3. Bij ministeriële regeling kunnen regels worden gesteld voor de vergoeding van de kosten van de werkzaamheden, bedoeld in het eerste lid, door het college aan het Uitvoeringsinstituut werknemersverzekeringen.
+2. Bij ministeriële regeling kunnen regels worden gesteld voor de vergoeding van de kosten van de werkzaamheden, bedoeld in het eerste lid, door het college aan het Uitvoeringsinstituut werknemersverzekeringen.
 
 ##### Artikel 3. Beoordeling
 
-1. In het kader van de werkzaamheden, bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035947&artikel=2&z=2015-05-01&g=2015-05-01), verricht het Uitvoeringsinstituut werknemersverzekeringen onderzoek naar de vraag of de persoon met arbeidsvermogen bij het verrichten van werkzaamheden is aangewezen op:
+1. In het kader van de werkzaamheden, bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035947&artikel=2&z=2017-02-25&g=2017-02-25), verricht het Uitvoeringsinstituut werknemersverzekeringen onderzoek naar de vraag of de persoon met arbeidsvermogen bij het verrichten van werkzaamheden is aangewezen op:
 
 - a. een of meer technische of organisatorische aanpassingen die niet binnen redelijke grenzen door een werkgever kunnen worden gerealiseerd;
 
 - b. permanent toezicht of intensieve begeleiding die niet binnen redelijke grenzen door een werkgever kan worden aangeboden.
 
 2. Uitsluitend indien uit het onderzoek blijkt dat ten minste een van de vragen, genoemd in het eerste lid, onderdelen a of b, bevestigend wordt beantwoord, adviseert het Uitvoeringsinstituut werknemersverzekeringen aan het college om vast te stellen dat de persoon uitsluitend in een beschutte omgeving onder aangepaste omstandigheden mogelijkheden tot arbeidsparticipatie heeft.
+
+3. Het Uitvoeringsinstituut werknemersverzekeringen beantwoordt de vragen, genoemd in het eerste lid, onderdelen a en b, zonder onderzoek als bedoeld in het eerste lid beiden ontkennend:
+
+- a. indien het advies is aangevraagd door een persoon die geïndiceerd is als bedoeld in de [Wet sociale werkvoorziening](https://wetten.overheid.nl/jci1.3:c:BWBR0008903) of een nog geldende indicatiebeschikking heeft op grond van [artikel 11 van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0008903&artikel=11), en ten aanzien van wie het Uitvoeringsinstituut werknemersverzekeringen heeft geadviseerd dat hij in staat is tot begeleid werken als bedoeld in [artikel 4, derde lid, van het Besluit uitvoering sociale werkvoorziening en begeleid werken](https://wetten.overheid.nl/jci1.3:c:BWBR0017240&artikel=4), zoals die artikelen luidden voor de datum van inwerkingtreding van [artikel II van de Invoeringswet Participatiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0035333&artikel=II);
+
+- b. indien het een advies betreft op verzoek van de persoon, bedoeld in [artikel 10b, derde lid, van de Participatiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&artikel=10b), en het Uitvoeringsinstituut werknemersverzekeringen in de twaalf maanden voorafgaand aan het verzoek ten aanzien van die persoon een advies heeft gegeven als bedoeld in artikel 10b, tweede of derde lid, van de Participatiewet.
+
+4. Het Uitvoeringsinstituut werknemersverzekeringen beantwoordt tenminste een van de vragen, genoemd in het eerste lid, onderdelen a en b, zonder onderzoek als bedoeld in het eerste lid bevestigend, indien het een advies betreft ten aanzien van een persoon die geïndiceerd is als bedoeld in de [Wet sociale werkvoorziening](https://wetten.overheid.nl/jci1.3:c:BWBR0008903) of een nog geldende indicatiebeschikking heeft op grond van [artikel 11 van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0008903&artikel=11) en ten aanzien van wie het Uitvoeringsinstituut werknemersverzekeringen heeft geadviseerd dat hij niet in staat is tot begeleid werken als bedoeld in [artikel 4, derde lid, van het Besluit uitvoering sociale werkvoorziening en begeleid werken](https://wetten.overheid.nl/jci1.3:c:BWBR0017240&artikel=4), zoals die artikelen luidden voor de datum van inwerkingtreding van [artikel II van de Invoeringswet Participatiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0035333&artikel=II).
+
+5. Het Uitvoeringsinstituut werknemersverzekeringen kan bij de werkzaamheden, bedoeld in [artikel 10b, tweede en derde lid, van de Participatiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&artikel=10b), gebruik maken van de gegevens met betrekking tot iemands arbeidsvermogen die het in de twee jaar voorafgaand aan de aanvraag van het advies ten aanzien van een persoon heeft verkregen bij een onderzoek als bedoeld in [artikel 2:5, eerste lid, van de Wet arbeidsongeschiktheidsvoorziening jonggehandicapten](https://wetten.overheid.nl/jci1.3:c:BWBR0008657&artikel=2:5).
 
 ##### Artikel 4. Citeertitel
 
@@ -81,5 +89,11 @@ Dit besluit wordt aangehaald als: Besluit advisering beschut werk.
 ##### Artikel 5. Inwerkingtreding
 
 Dit besluit treedt in werking met ingang van 1 januari 2015
+
+Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
+
+##### Artikel 1a. Grondslag
+
+Dit besluit berust mede op [artikel 73a van de Wet structuur uitvoeringsorganisatie werk en inkomen](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&artikel=73a).
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
