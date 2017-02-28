@@ -4,7 +4,7 @@ identifier: "BWBV0003245"
 country: "nl"
 rank: "verdrag"
 publication_date: "2017-02-28"
-last_updated: "1982-07-18"
+last_updated: "2017-02-28"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBV0003245"
 soort: "verdrag"
@@ -72,7 +72,7 @@ Voor de toepassing van dit Verdrag wordt, tenzij uitdrukkelijk anders is bepaald
 
 - (a). schepen die zijn geregistreerd in landen waarvan de Regering een Verdragsluitende Regering is;
 
-- (b). schepen die zijn geregistreerd in gebieden waarop dit Verdrag krachtens [artikel 20](https://wetten.overheid.nl/jci1.3:c:BWBV0003245&artikel=20&z=1982-07-18&g=1982-07-18) eveneens van toepassing is;
+- (b). schepen die zijn geregistreerd in gebieden waarop dit Verdrag krachtens [artikel 20](https://wetten.overheid.nl/jci1.3:c:BWBV0003245&artikel=20&z=2017-02-28&g=2017-02-28) eveneens van toepassing is;
 
 - (c). niet-geregistreerde schepen die de vlag voeren van een Staat waarvan de Regering een Verdragsluitende Regering is.
 
@@ -126,7 +126,7 @@ De vaststelling van de bruto- en netto-tonnage wordt verricht door de Administra
 
 (2). Een afschrift van de meetbrief alsmede een afschrift van de berekeningen van de tonnages dienen zo spoedig mogelijk aan de verzoekende Regering te worden toegezonden.
 
-(3). Een op deze wijze afgegeven meetbrief dient een verklaring te bevatten inhoudende dat hij is afgegeven op verzoek van de Regering van de Staat wiens vlag het schip voert of zal gaan voeren; deze meetbrief bezit dezelfde geldigheid en geniet dezelfde erkenning als een krachtens [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBV0003245&artikel=7&z=1982-07-18&g=1982-07-18) afgegeven meetbrief.
+(3). Een op deze wijze afgegeven meetbrief dient een verklaring te bevatten inhoudende dat hij is afgegeven op verzoek van de Regering van de Staat wiens vlag het schip voert of zal gaan voeren; deze meetbrief bezit dezelfde geldigheid en geniet dezelfde erkenning als een krachtens [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBV0003245&artikel=7&z=2017-02-28&g=2017-02-28) afgegeven meetbrief.
 
 (4). Ten behoeve van een schip dat de vlag voert van een Staat waarvan de Regering geen Verdragsluitende Regering is, mag geen Internationale Meetbrief (1969) worden afgegeven.
 
@@ -134,7 +134,7 @@ De vaststelling van de bruto- en netto-tonnage wordt verricht door de Administra
 
 (1). De meetbrief wordt opgemaakt in de officiële taal of talen van het land waardoor hij wordt afgegeven. Indien de gebruikte taal noch Engels noch Frans is dient een vertaling in een van deze beide talen te worden bijgevoegd.
 
-(2). De meetbrief moet wat betreft de vorm in overeenstemming zijn met het in [Bijlage II](https://wetten.overheid.nl/jci1.3:c:BWBV0003245&bijlage=II&z=1982-07-18&g=1982-07-18) opgenomen model.
+(2). De meetbrief moet wat betreft de vorm in overeenstemming zijn met het in [Bijlage II](https://wetten.overheid.nl/jci1.3:c:BWBV0003245&bijlage=II&z=2017-02-28&g=2017-02-28) opgenomen model.
 
 ##### Artikel 10. Intrekking van de meetbrief
 
@@ -198,13 +198,13 @@ De Verdragsluitende Partijen verbinden zich aan de Organisatie mede te delen en 
 
 ##### Artikel 17. Inwerkingtreding
 
-(1). Dit Verdrag treedt in werking vierentwintig maanden na de datum waarop ten minste vijfentwintig Regeringen van Staten waarvan de gezamenlijke koopvaardijvloten ten minste vijfenzestig procent van de bruto-inhoud van de wereldhandelsvloot uitmaken, het hebben ondertekend zonder voorbehoud van aanvaarding of overeenkomstig [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBV0003245&artikel=16&z=1982-07-18&g=1982-07-18) akten van aanvaarding of toetreding hebben nedergelegd. De Organisatie stelt alle Regeringen die dit Verdrag hebben ondertekend of daartoe zijn toegetreden, in kennis van de datum van inwerkingtreding.
+(1). Dit Verdrag treedt in werking vierentwintig maanden na de datum waarop ten minste vijfentwintig Regeringen van Staten waarvan de gezamenlijke koopvaardijvloten ten minste vijfenzestig procent van de bruto-inhoud van de wereldhandelsvloot uitmaken, het hebben ondertekend zonder voorbehoud van aanvaarding of overeenkomstig [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBV0003245&artikel=16&z=2017-02-28&g=2017-02-28) akten van aanvaarding of toetreding hebben nedergelegd. De Organisatie stelt alle Regeringen die dit Verdrag hebben ondertekend of daartoe zijn toegetreden, in kennis van de datum van inwerkingtreding.
 
 (2). Voor Regeringen die een akte van aanvaarding van of toetreding tot dit Verdrag hebben nedergelegd gedurende het in het eerste lid van dit artikel bedoelde tijdvak van vierentwintig maanden, wordt de aanvaarding of toetreding van kracht bij de inwerkingtreding van dit Verdrag dan wel drie maanden na de datum van de nederlegging van de akte van aanvaarding of toetreding, al naar gelang welk tijdstip het laatst valt.
 
 (3). Voor Regeringen die een akte van aanvaarding van of toetreding tot dit Verdrag hebben nedergelegd na de datum van inwerkingtreding, treedt dit Verdrag in werking drie maanden na de datum van nederlegging van een zodanige akte.
 
-(4). Na de datum waarop alle maatregelen die nodig zijn om een wijziging van dit Verdrag in werking te doen treden voltooid zijn of na de datum waarop alle noodzakelijke aanvaardingen geacht worden te hebben plaatsgevonden krachtens het [tweede lid, letter b, van artikel 18](https://wetten.overheid.nl/jci1.3:c:BWBV0003245&artikel=18&z=1982-07-18&g=1982-07-18) in geval van wijziging door middel van eenstemmige aanvaarding, wordt elke akte van aanvaarding of toetreding die wordt nedergelegd, geacht te gelden voor het gewijzigde Verdrag.
+(4). Na de datum waarop alle maatregelen die nodig zijn om een wijziging van dit Verdrag in werking te doen treden voltooid zijn of na de datum waarop alle noodzakelijke aanvaardingen geacht worden te hebben plaatsgevonden krachtens het [tweede lid, letter b, van artikel 18](https://wetten.overheid.nl/jci1.3:c:BWBV0003245&artikel=18&z=2017-02-28&g=2017-02-28) in geval van wijziging door middel van eenstemmige aanvaarding, wordt elke akte van aanvaarding of toetreding die wordt nedergelegd, geacht te gelden voor het gewijzigde Verdrag.
 
 ##### Artikel 18. Wijzigingen
 
@@ -304,19 +304,19 @@ Dit Verdrag is een enkel exemplaar opgesteld in de Engelse en de Franse taal, zi
 
 - -. de constructie voorziet in enige mogelijkheid tot het sluiten van die openingen.
 
-- (a) (i). Een ruimte gelegen binnen een bovenbouw, grenzend aan een zich van dek tot dek uitstrekkende eindopening - waarbij een gordijnplaat, met een hoogte van niet meer dan 25 millimeter (1 inch) boven die van de aangrenzende dekbalken niet in aanmerking wordt genomen - en welke opening een breedte heeft van 90 procent of meer van de dekbreedte ter plaatse van de opening. Deze bepaling dient zodanig te worden toegepast, dat van de ingesloten ruimten alleen die ruimte niet in de inhoud wordt begrepen, welke gelegen is tussen de werkelijke eindopening en een lijn evenwijdig aan de lijn of het vlak van de opening op een afstand van die opening gelijk aan de helft van de dekbreedte ter plaatse van de opening. (Figuur 1 van Aanhangsel 1.).
+- (a) (i). Een ruimte gelegen binnen een bovenbouw, grenzend aan een zich van dek tot dek uitstrekkende eindopening - waarbij een gordijnplaat, met een hoogte van niet meer dan 25 millimeter (1 inch) boven die van de aangrenzende dekbalken niet in aanmerking wordt genomen - en welke opening een breedte heeft van 90 procent of meer van de dekbreedte ter plaatse van de opening. Deze bepaling dient zodanig te worden toegepast, dat van de ingesloten ruimten alleen die ruimte niet in de inhoud wordt begrepen, welke gelegen is tussen de werkelijke eindopening en een lijn evenwijdig aan de lijn of het vlak van de opening op een afstand van die opening gelijk aan de helft van de dekbreedte ter plaatse van de opening. (Figuur 1 van [Aanhangsel 1](https://wetten.overheid.nl/jci1.3:c:BWBV0003245&bijlage=1&z=2017-02-28&g=2017-02-28).).
 
-- (a) (ii). Indien de breedte van de ruimte door een bepaalde constructie, met uitzondering van het naar elkaar toelopen van de huidbeplating, minder wordt dan 90 procent van de dekbreedte, wordt alleen de ruimte, gelegen tussen de lijn van de opening en een evenwijdige lijn door het punt waar de dwarsscheepse breedte van de ruimte gelijk aan of minder wordt dan 90 procent van de dekbreedte, niet in de inhoud van de ingesloten ruimten begrepen. (Figuren 2, 3 en 4 van Aanhangsel 1.).
+- (a) (ii). Indien de breedte van de ruimte door een bepaalde constructie, met uitzondering van het naar elkaar toelopen van de huidbeplating, minder wordt dan 90 procent van de dekbreedte, wordt alleen de ruimte, gelegen tussen de lijn van de opening en een evenwijdige lijn door het punt waar de dwarsscheepse breedte van de ruimte gelijk aan of minder wordt dan 90 procent van de dekbreedte, niet in de inhoud van de ingesloten ruimten begrepen. (Figuren 2, 3 en 4 van [Aanhangsel 1](https://wetten.overheid.nl/jci1.3:c:BWBV0003245&bijlage=1&z=2017-02-28&g=2017-02-28).).
 
-- (a) (iii). Wanneer een tussenruimte, welke op verschansingen of open relingwerk na geheel open is, twee willekeurige ruimten - waarvan een of beide volgens de subparagrafen (a)(i) en/of (a)(ii) aangemerkt kunnen worden als „niet in de inhoud begrepen ruimten” - van elkaar scheidt zal de betrokken ruimte of zullen de betrokken ruimten niet als zodanig aangemerkt worden, indien de afstand tussen de twee ruimten minder is dan de kleinste halve dekbreedte ter plaatse van de scheiding. (Figuren 5 en 6 van Aanhangsel 1.).
+- (a) (iii). Wanneer een tussenruimte, welke op verschansingen of open relingwerk na geheel open is, twee willekeurige ruimten - waarvan een of beide volgens de subparagrafen (a)(i) en/of (a)(ii) aangemerkt kunnen worden als „niet in de inhoud begrepen ruimten” - van elkaar scheidt zal de betrokken ruimte of zullen de betrokken ruimten niet als zodanig aangemerkt worden, indien de afstand tussen de twee ruimten minder is dan de kleinste halve dekbreedte ter plaatse van de scheiding. (Figuren 5 en 6 van [Aanhangsel 1](https://wetten.overheid.nl/jci1.3:c:BWBV0003245&bijlage=1&z=2017-02-28&g=2017-02-28).).
 
-- (b). Een overdekte ruimte, blootgesteld aan weer en wind, met, aan de blootgestelde zijden, geen andere verbinding met de scheepsromp dan de voor ondersteuning benodigde stutten. In een dergelijke ruimte kunnen open relingwerk of een verschansing en gordijnplaat aangebracht worden, of stutten aan de scheepszijden, mits de afstand tussen de bovenkant van het relingwerk of de verschansing en de gordijnplaat niet minder bedraagt dan 0,75 meter (2½ voet) of een derde van de hoogte van de ruimte, welke van beide de grootste is. (Figuur 7 van Aanhangsel 1.).
+- (b). Een overdekte ruimte, blootgesteld aan weer en wind, met, aan de blootgestelde zijden, geen andere verbinding met de scheepsromp dan de voor ondersteuning benodigde stutten. In een dergelijke ruimte kunnen open relingwerk of een verschansing en gordijnplaat aangebracht worden, of stutten aan de scheepszijden, mits de afstand tussen de bovenkant van het relingwerk of de verschansing en de gordijnplaat niet minder bedraagt dan 0,75 meter (2½ voet) of een derde van de hoogte van de ruimte, welke van beide de grootste is. (Figuur 7 van [Aanhangsel 1](https://wetten.overheid.nl/jci1.3:c:BWBV0003245&bijlage=1&z=2017-02-28&g=2017-02-28).).
 
-- (c). Een ruimte in een zich van boord tot boord uitstrekkende bovenbouw gelegen tussen tegenover elkaar gelegen zijopeningen met een hoogte niet minder dan 0,75 meter (2½ voet) of een derde van de bovenbouwhoogte, welke van beide de grootste is. Indien in een dergelijke bovenbouw de opening slechts aan één zijde is aangebracht, zal de ruimte, welke als niet in de inhoud begrepen ruimte wordt aangemerkt, binnenwaarts gemeten, vanaf de opening, beperkt worden tot een maximum van de helft van de dekbreedte ter plaatse van de opening. (Figuur 8 van Aanhangsel 1).
+- (c). Een ruimte in een zich van boord tot boord uitstrekkende bovenbouw gelegen tussen tegenover elkaar gelegen zijopeningen met een hoogte niet minder dan 0,75 meter (2½ voet) of een derde van de bovenbouwhoogte, welke van beide de grootste is. Indien in een dergelijke bovenbouw de opening slechts aan één zijde is aangebracht, zal de ruimte, welke als niet in de inhoud begrepen ruimte wordt aangemerkt, binnenwaarts gemeten, vanaf de opening, beperkt worden tot een maximum van de helft van de dekbreedte ter plaatse van de opening. (Figuur 8 van [Aanhangsel 1](https://wetten.overheid.nl/jci1.3:c:BWBV0003245&bijlage=1&z=2017-02-28&g=2017-02-28)).
 
-- (d). Een ruimte in een bovenbouw, onmiddellijk gelegen onder een niet afgedekte opening in het daarboven gelegen dek, mits een dergelijke opening aan weer en wind is blootgesteld en de ruimte welke niet als de ingesloten ruimte wordt aangemerkt begrensd wordt door de oppervlakte van de opening. (Figuur 9 van Aanhangsel 1).
+- (d). Een ruimte in een bovenbouw, onmiddellijk gelegen onder een niet afgedekte opening in het daarboven gelegen dek, mits een dergelijke opening aan weer en wind is blootgesteld en de ruimte welke niet als de ingesloten ruimte wordt aangemerkt begrensd wordt door de oppervlakte van de opening. (Figuur 9 van [Aanhangsel 1](https://wetten.overheid.nl/jci1.3:c:BWBV0003245&bijlage=1&z=2017-02-28&g=2017-02-28)).
 
-- (e). Een nis in een buitenwand van een aan weer en wind blootgestelde bovenbouw, waarvan de opening, zonder mogelijkheid tot afsluiting, zich van dek tot dek uitstrekt, mits de binnenwaarts gelegen breedte nergens groter is dan de breedte bij de ingang en de binnenwaartse lengte in de bovenbouw niet groter is dan tweemaal de breedte van de ingang. (Figuur 10 van Aanhangsel 1).
+- (e). Een nis in een buitenwand van een aan weer en wind blootgestelde bovenbouw, waarvan de opening, zonder mogelijkheid tot afsluiting, zich van dek tot dek uitstrekt, mits de binnenwaarts gelegen breedte nergens groter is dan de breedte bij de ingang en de binnenwaartse lengte in de bovenbouw niet groter is dan tweemaal de breedte van de ingang. (Figuur 10 van [Aanhangsel 1](https://wetten.overheid.nl/jci1.3:c:BWBV0003245&bijlage=1&z=2017-02-28&g=2017-02-28)).
 
 - (6). **Passagiers** Passagiers zijn alle personen met uitzondering van:
 
@@ -327,6 +327,14 @@ Dit Verdrag is een enkel exemplaar opgesteld in de Engelse en de Franse taal, zi
 - (7). **Ladingruimten** Ladingruimten, begrepen in de berekening van de nettotonnage, zijn ingesloten ruimten, geschikt voor het vervoer van uit het schip te lossen lading, mits zodanige ruimten begrepen zijn in de berekening van de bruto-tonnage. Deze ladingruimten dienen kenbaar te worden gemaakt door hen te merken met de letters CC (cargo compartment), die zodanig moeten worden aangebracht, dat ze duidelijk zichtbaar en niet minder dan 100 millimeter (4 inches) hoog zijn.
 
 - (8). **Dicht tegen weer en wind** Dicht tegen weer en wind betekent dat onder alle omstandigheden die zich op zee kunnen voordoen geen water in het schip kan binnendringen.
+
+- (9). **Audit** betekent een systematisch, onafhankelijk en gedocumenteerd proces voor het verkrijgen van audit-informatie en de objectieve beoordeling daarvan teneinde te bepalen in hoeverre aan de auditcriteria is voldaan.
+
+- (10). **Auditprogramma** betekent het auditprogramma voor IMO-lidstaten dat door de Organisatie is opgezet, rekening houdend met de door de Organisatie ontwikkelde richtlijnen.
+
+- (11). **Implementatiecode** betekent de Code voor de implementatie van IMO-instrumenten (III Code) aangenomen door de Organisatie bij resolutie A.1070(28).
+
+- (12). **Auditnorm** betekent de Implementatiecode.
 
 ##### Voorschrift 3. Bruto-tonnage
 
@@ -346,15 +354,15 @@ De bruto-tonnage (GT) van een schip wordt bepaald door middel van de volgende fo
 
 - (d). voor schepen waaraan geen uitwateringslijn is toegekend, maar waarvan de diepgang ter voldoening aan de nationale wettelijke vereisten is beperkt: de maximaal toegestane diepgang;
 
-- (e). voor andere schepen: 75 procent van de holte naar de mal midscheeps gemeten als omschreven in [Voorschrift 2, paragraaf 2](https://wetten.overheid.nl/jci1.3:c:BWBV0003245&bijlage=I&artikel=2&z=1982-07-18&g=1982-07-18).
+- (e). voor andere schepen: 75 procent van de holte naar de mal midscheeps gemeten als omschreven in [Voorschrift 2, paragraaf 2](https://wetten.overheid.nl/jci1.3:c:BWBV0003245&bijlage=I&artikel=2&z=2017-02-28&g=2017-02-28).
 
 ##### Voorschrift 5. Wijziging van de netto-tonnage
 
-- (1). Indien de kenmerken van een schip, met name de in de [Voorschriften 3](https://wetten.overheid.nl/jci1.3:c:BWBV0003245&bijlage=I&artikel=3&z=1982-07-18&g=1982-07-18) en [4](https://wetten.overheid.nl/jci1.3:c:BWBV0003245&bijlage=I&artikel=4&z=1982-07-18&g=1982-07-18) omschreven V, Vc, d, N1 of N2, worden gewijzigd en indien een zodanige wijziging een vermeerdering van de overeenkomstig de bepalingen van Voorschrift 4 vastgestelde netto-tonnage ten gevolge heeft, dient de met de nieuwe kenmerken overeenkomende netto-tonnage van het schip zonder verwijl te worden vastgesteld en toegepast.
+- (1). Indien de kenmerken van een schip, met name de in de [Voorschriften 3](https://wetten.overheid.nl/jci1.3:c:BWBV0003245&bijlage=I&artikel=3&z=2017-02-28&g=2017-02-28) en [4](https://wetten.overheid.nl/jci1.3:c:BWBV0003245&bijlage=I&artikel=4&z=2017-02-28&g=2017-02-28) omschreven V, Vc, d, N1 of N2, worden gewijzigd en indien een zodanige wijziging een vermeerdering van de overeenkomstig de bepalingen van Voorschrift 4 vastgestelde netto-tonnage ten gevolge heeft, dient de met de nieuwe kenmerken overeenkomende netto-tonnage van het schip zonder verwijl te worden vastgesteld en toegepast.
 
-- (2). Voor een schip waaraan gelijktijdig uitwateringslijnen zoals bedoeld in de [subparagrafen (2) (a) en (2) (b) van Voorschrift 4](https://wetten.overheid.nl/jci1.3:c:BWBV0003245&bijlage=I&artikel=4&z=1982-07-18&g=1982-07-18) zijn toegekend wordt slechts een netto-tonnage vastgesteld overeenkomstig de bepalingen van Voorschrift 4 en die tonnage zal overeen dienen te komen met de toegekende uitwateringslijn, voor het vervoer waaraan door het schip wordt deelgenomen.
+- (2). Voor een schip waaraan gelijktijdig uitwateringslijnen zoals bedoeld in de [subparagrafen (2) (a) en (2) (b) van Voorschrift 4](https://wetten.overheid.nl/jci1.3:c:BWBV0003245&bijlage=I&artikel=4&z=2017-02-28&g=2017-02-28) zijn toegekend wordt slechts een netto-tonnage vastgesteld overeenkomstig de bepalingen van Voorschrift 4 en die tonnage zal overeen dienen te komen met de toegekende uitwateringslijn, voor het vervoer waaraan door het schip wordt deelgenomen.
 
-- (3). Indien de kenmerken van een schip, met name de in de [Voorschriften 3](https://wetten.overheid.nl/jci1.3:c:BWBV0003245&bijlage=I&artikel=3&z=1982-07-18&g=1982-07-18) en [4](https://wetten.overheid.nl/jci1.3:c:BWBV0003245&bijlage=I&artikel=4&z=1982-07-18&g=1982-07-18) omschreven V, Vc, d, N1 of N2, worden gewijzigd of als de desbetreffende toegekende uitwateringslijn, bedoeld in paragraaf 2 van dit Voorschrift, is gewijzigd door een verandering van het door het schip verrichte vervoer, en indien een zodanige wijziging leidt tot een vermindering van de netto-tonnage van het schip, zoals die is vastgesteld overeenkomstig de bepalingen van Voorschrift 4, mag niet worden overgegaan tot uitgifte van een nieuwe Internationale Meetbrief (1969) waarop de aldus vastgestelde netto-tonnage is vermeld, alvorens twaalf maanden zijn verstreken na de datum waarop de lopende Meetbrief was uitgegeven. Dit vereiste zal evenwel niet worden gesteld:
+- (3). Indien de kenmerken van een schip, met name de in de [Voorschriften 3](https://wetten.overheid.nl/jci1.3:c:BWBV0003245&bijlage=I&artikel=3&z=2017-02-28&g=2017-02-28) en [4](https://wetten.overheid.nl/jci1.3:c:BWBV0003245&bijlage=I&artikel=4&z=2017-02-28&g=2017-02-28) omschreven V, Vc, d, N1 of N2, worden gewijzigd of als de desbetreffende toegekende uitwateringslijn, bedoeld in paragraaf 2 van dit Voorschrift, is gewijzigd door een verandering van het door het schip verrichte vervoer, en indien een zodanige wijziging leidt tot een vermindering van de netto-tonnage van het schip, zoals die is vastgesteld overeenkomstig de bepalingen van Voorschrift 4, mag niet worden overgegaan tot uitgifte van een nieuwe Internationale Meetbrief (1969) waarop de aldus vastgestelde netto-tonnage is vermeld, alvorens twaalf maanden zijn verstreken na de datum waarop de lopende Meetbrief was uitgegeven. Dit vereiste zal evenwel niet worden gesteld:
 
 - (a). als het schip onder de vlag van een andere Staat is overgegaan, of
 
@@ -377,6 +385,28 @@ De bruto-tonnage (GT) van een schip wordt bepaald door middel van de volgende fo
 - (2). De volumes dienen te worden berekend volgens algemeen aanvaarde methoden voor de betrokken ruimte en met een voor de Administratie aanvaardbare nauwkeurigheid.
 
 - (3). De berekening dient voldoende gedetailleerd te zijn om gemakkelijke verificatie mogelijk te maken.
+
+IN WITNESS WHEREOF the undersigned being duly authorized by their respective Governments for that purpose have signed the present Convention.
+
+DONE at London this twenty-third day of June 1969.
+
+##### Voorschrift 8. Toepassing
+
+De Verdragsluitende Regeringen gebruiken de bepalingen van de Implementatiecode bij de uitvoering van hun verplichtingen en verantwoordelijkheden zoals vervat in dit Verdrag.
+
+##### Voorschrift 9. Verificatie van de naleving
+
+1. Elke Verdragsluitende Regering wordt onderworpen aan periodieke audits door de Organisatie in overeenstemming met de auditnorm teneinde de naleving en implementatie van dit Verdrag te verifiëren.
+
+2. De Secretaris-Generaal van de Organisatie is verantwoordelijk voor de uitvoering van het auditprogramma, op basis van de door de Organisatie opgestelde richtlijnen.
+
+3. Elke Verdragsluitende Regering is verantwoordelijk voor het faciliteren van de uitvoering van de audit en de implementatie van een actieprogramma teneinde een vervolg te geven aan de bevindingen, op basis van de door de Organisatie opgestelde richtlijnen.
+
+4. De audit van alle Verdragsluitende Regeringen:
+
+- .1. is gebaseerd op een door de Secretaris-Generaal van de Organisatie ontwikkeld algemeen schema, rekening houdend met de door de Organisatie opgestelde richtlijnen; en
+
+- .2. vindt periodiek plaats, rekening houdend met de door de Organisatie opgestelde richtlijnen.
 
 IN WITNESS WHEREOF the undersigned being duly authorized by their respective Governments for that purpose have signed the present Convention.
 
