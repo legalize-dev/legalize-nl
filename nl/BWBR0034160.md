@@ -4,7 +4,7 @@ identifier: "BWBR0034160"
 country: "nl"
 rank: "zbo"
 publication_date: "2017-02-28"
-last_updated: "2017-02-01"
+last_updated: "2017-02-28"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0034160"
 soort: "zbo"
@@ -57,13 +57,13 @@ Hoofdstuk 6 Ondertekeningsbevoegdheid
 
 Hoofdstuk 7 Overige bepalingen.
 
-### 1.1. Onderverdeling naar soorten besluiten
+### 2.2.1. Soorten Mandaat
 
 NWO-besluiten worden voor deze Bevoegdhedenregeling als volgt onderverdeeld:
 
 Over onderwerpen die niet in bovenstaand schema zijn ondergebracht, kan alleen het Algemeen Bestuur van NWO besluiten.
 
-### 1.2. Reikwijdte binnen NWO
+### 2.2.4. Verbod van (de schijn van) belangenverstrengeling
 
 **Personeelsbesluiten** betreffen de NWO-werkgever, en hebben dus als reikwijdte: directie, stafafdelingen, gebieden incl. WOTRO en regieorganen, Technologiestichting STW, de onderzoeksinstituten met uitzondering van de drie B-3 stichtingen (CWI, FOM en NIOZ) en NLeSC voor zover personeel is aangesteld door NWO.
 
@@ -79,19 +79,19 @@ Voor wat betreft de samenwerkingsverbanden (met ZON in ZonMw en met SURF in NLeS
 
 ### 1.2.1. Plaats binnen de geldende regelgeving
 
-De Bevoegdhedenregeling past binnen de kaders van algemene wetgeving (met name [Awb](https://wetten.overheid.nl/jci1.3:c:BWBR0005537)), de [ZBO-kaderwet](https://wetten.overheid.nl/jci1.3:c:BWBR0020495), de [NWO-wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004191) en het [NWO Reglement](https://wetten.overheid.nl/jci1.3:c:BWBR0014548). Daarmee is de bevoegdhedenregeling ondergeschikt aan voornoemde regelgeving, maar heeft voorrang bij discrepanties met overige NWO-regelgeving.
+Besluiten genoemd onder a, b en c blijven voorbehouden aan de Portefeuillehouder BF, alsmede AD. Besluiten genoemd onder d en e vallen binnen de door het AD aan het hoofd P&O van NWO ge(sub)mandateerde bevoegdheden.
 
 Eventuele verdere uitwerking van bevoegdheden moet passen binnen de overige NWO-regelgeving en de algemene voor NWO geldende beleidskaders. Waar geen discrepanties aan de orde zijn, geldt dat alle toepasselijke NWO-regelgeving (zoals toepasselijkheid [artikel 3.3 NWO Reglement](https://wetten.overheid.nl/jci1.3:c:BWBR0014548&artikel=3.3)), richtlijnen, of protocollen, naast deze Bevoegdhedenregeling, onverkort van toepassing blijven.
 
-### 1.3. Begrippen
+### 4. Het besluitenkader voor beleidsaangelegenheden (B-besluiten)
 
-### 2. Algemeen bevoegdhedenkader voor de verschillende soorten besluiten
+### 4.1. S-besluiten
 
-### 2.1. Verdeling wettelijke bevoegdheden
+### 4.1.1. AB-besluiten inzake Centrale Programma’s
 
 Aan het Algemeen Bestuur behoort krachtens de [NWO-instellingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004191) de bevoegdheid tot regeling en bestuur van de organisatie ([art. 4 Instellingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004191&artikel=4)). Dit betekent dat het Algemeen Bestuur zowel de eindverantwoordelijkheid heeft voor het binnen NWO gevoerde (wetenschappelijke) beleid als voor de daarbij behorende apparaatskosten. M.a.w. het Algemeen Bestuur is algemeen budgethouder.
 
-### 2.1.1. Gemandateerde bevoegdheden voor beleid
+### 4.2. Overige B-besluiten
 
 Bij reglement wordt vastgesteld voor welke wetenschapsgebieden er gebiedsbesturen zijn en welke de bevoegdheden zijn van de onderscheiden gebieden ([art. 9 Instellingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004191&artikel=9))). Ingevolge het reglement stellen de gebiedsbesturen voor hun gebied (wetenschappelijk) beleid vast ([artikel 3.2.1 Reglement](https://wetten.overheid.nl/jci1.3:c:BWBR0014548&artikel=3.2)).
 
@@ -99,13 +99,13 @@ Om dit beleid te kunnen (uit)voeren, wijst het Algemeen Bestuur middelen toe en 
 
 Omdat een gebiedsdirecteur optreedt als secretaris van zijn/haar gebiedsbestuur, is deze gebiedsdirecteur de budgetverantwoordelijke voor beleidsbesluiten. Alhoewel de AD de secretaris is van het Algemeen Bestuur, is de budgetverantwoordelijkheid voor Centrale Programma’s belegd bij een ander lid van de Algemene Directie, te weten bij de Directeur BOO (zie ook onder 2.2.1).
 
-### 2.1.2. Gemandateerde bevoegdheden voor apparaatskosten
+### 5.2. Beroep bij de rechter
 
 De algemeen directeur (AD) is belast met de leiding van het bureau van de organisatie ([art. 8.3 Instellingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004191&artikel=8)). Dat impliceert dat de gebiedsdirecteuren binnen de hiërarchie van het NWO-bureau direct onder de algemeen directeur zijn gepositioneerd.
 
 Om die reden heeft het Algemeen Bestuur de AD aangesteld als gemandateerd budgethouder voor de apparaatskosten, en is elke gebiedsdirecteur budgetverantwoordelijke voor besluiten die apparaatskosten met zich brengen.
 
-### 2.1.3. Gemandateerde bevoegdheden aan de besturen van de NWO-stichtingsbesturen
+### 7. Inwerkingtreding en vervallen regelingen
 
 Op grond van hun statuten hebben de besturen van de NWO-stichtingen, waarbinnen de NWO-onderzoeksinstituten zijn ondergebracht, een zelfstandige bevoegdheid voor het voeren van onderzoeksbeleid. Deze statuten kunnen enkel met instemming van het Algemeen Bestuur gewijzigd worden. De statutaire bevoegdheden van de stichtingsbesturen heeft het Algemeen Bestuur aangevuld bij via afzonderlijk met elk van deze besturen afgesloten convenant. De besturen van deze stichtingen zijn gemandateerd budgethouder voor alle door hen genomen besluiten binnen de voor ‘hun’ stichting door het Algemeen Bestuur goedgekeurde begroting. Het Algemeen Bestuur blijft eindverantwoordelijke als algemeen budgethouder. Voor zover Statuten en convenant geen bevoegdheden verstrekken, zoals voor bepaalde P-besluiten, geldt onderhavige Bevoegdhedenregeling (zie 3.1.2).
 
@@ -291,3 +291,63 @@ De tabel laat zien welke organen/functionarissen een verantwoordelijkheid hebben
 | **Samenwerkingsverbanden** | • NLeSC Netherlands eScience Center (i.s.m. SURF) • ZonMw |
 |   |   |
 | **Regieorganen** De zogeheten regieorganen voeren speerpunten van (ministerieel) beleid uit. | • Netherlands Genomics Initiative (NGI, tot 1 januari 2014) • Nationaal Initiatief Hersenen & Cognitie • Regieorgaan Praktijkgericht Onderzoek (RAAK, op te richten in 2013) • Regieorgaan Onderwijsonderzoek (op te richten in 2013) |
+
+### 1.1. Onderverdeling naar soorten besluiten
+
+### 1.2. Reikwijdte binnen NWO
+
+### 1.2.1. Plaats binnen de geldende regelgeving
+
+### 1.3. Begrippen
+
+### 2. Algemeen bevoegdhedenkader voor de verschillende soorten besluiten
+
+### 2.1. Verdeling wettelijke bevoegdheden
+
+### 2.1.1. Gemandateerde bevoegdheden voor beleid
+
+### 2.1.2. Gemandateerde bevoegdheden voor apparaatskosten
+
+### 2.1.3. Gemandateerde bevoegdheden aan de besturen van de NWO-stichtingsbesturen
+
+### 2.2. Overige kaders
+
+### 2.2.2. Submandaat
+
+### 2.2.3. Wijze van verlenen van (sub)mandaten
+
+### 2.2.5. Mandatenbeheer
+
+### 2.2.6. Vervangingsregeling
+
+### 3. Het besluitenkader voor apparaatskosten (A-Besluiten)
+
+### 3.1. P-besluiten
+
+### 3.1.1. NWO-bureau en NLeSC
+
+### 3.1.2. ASTRON, SRON, NSCR en STW
+
+De directeuren van ASTRON, SRON en NSCR en STW zijn de budgetverantwoordelijken voor personele aangelegenheden en hebben de bevoegdheid om P-besluiten te nemen krachtens dit mandaat binnen het voor ‘hun’ instituut/stichting vastgestelde budget. een en ander met uitzondering van:
+
+### 3.2. Overige A-besluiten
+
+### 4.1.2. Gemandateerde Subsidiebesluiten
+
+### 4.2.1. Algemeen
+
+### 5. Het besluitenkader voor bezwaar, beroep bij de rechter en Wob verzoeken
+
+### 5.1. Bezwaarschriften
+
+### 5.3. Wob-besluiten
+
+### 6. Ondertekening
+
+## Bijlage 1. Bevoegdhedentabel voor het NWO-bureau Den Haag
+
+Vervallen
+
+## Bijlage 2. NWO organisatieonderdelen in schema
+
+Vervallen
