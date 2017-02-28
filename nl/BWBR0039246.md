@@ -4,7 +4,7 @@ identifier: "BWBR0039246"
 country: "nl"
 rank: "zbo"
 publication_date: "2017-02-28"
-last_updated: "2017-02-02"
+last_updated: "2017-02-28"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0039246"
 soort: "zbo"
@@ -238,13 +238,13 @@ De raad van bestuur stelt de [Bevoegdhedenregeling NWO 2017](onbekend) vast, zoa
 
 1. De raad van toezicht wordt vooraf gehoord bij besluiten van de raad van bestuur omtrent:
 
-- a. de benoeming van leden van de adviesraad, als bedoeld in [artikel 4.1](https://wetten.overheid.nl/jci1.3:c:BWBR0039246&artikel=4.1&z=2017-02-28&g=2017-02-02);
+- a. de benoeming van leden van de adviesraad, als bedoeld in [artikel 4.1](https://wetten.overheid.nl/jci1.3:c:BWBR0039246&artikel=4.1&z=2017-02-28&g=2017-02-28);
 
 - b. het oprichten, ontbinden, besturen en deelnemen in andere rechtspersonen;
 
 - c. het verkrijgen, vervreemden of bezwaren van registergoederen;
 
-- d. het ter leen verstrekken van gelden binnen de organen of organisatieonderdelen als bedoeld in [artikel 1.2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039246&artikel=1.2&z=2017-02-28&g=2017-02-02);
+- d. het ter leen verstrekken van gelden binnen de organen of organisatieonderdelen als bedoeld in [artikel 1.2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039246&artikel=1.2&z=2017-02-28&g=2017-02-28);
 
 - e. financiële transacties buiten de reguliere bedrijfsvoering van NWO;
 
@@ -323,7 +323,7 @@ De raad van bestuur stelt de [Bevoegdhedenregeling NWO 2017](onbekend) vast, zoa
 
 2. Elk lid van de raad van bestuur handelt integer en transparant, met inachtneming van de algemene beginselen van goede trouw. Elke vorm of schijn van belangenverstrengeling tussen NWO (de organen en organisatieonderdelen inbegrepen) en leden van de raad van bestuur wordt vermeden. Elk lid van de raad van bestuur handelt overeenkomstig de Code goed bestuur universiteiten 2013 en de Gedragscode belangenverstrengeling NWO. De raad van bestuur kan nadere regels opnemen in een integriteitscode.
 
-3. Bij tegenstrijdige belangen tussen NWO en een orgaan of organisatieonderdeel als bedoeld in [artikel 1.2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039246&artikel=1.2&z=2017-02-28&g=2017-02-02), laten leden van de raad van bestuur het belang van NWO prevaleren boven het belang van het orgaan of organisatieonderdeel en geven in hun besluitvorming blijk van het prevaleren van het algemeen belang van de organisatie.
+3. Bij tegenstrijdige belangen tussen NWO en een orgaan of organisatieonderdeel als bedoeld in [artikel 1.2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039246&artikel=1.2&z=2017-02-28&g=2017-02-28), laten leden van de raad van bestuur het belang van NWO prevaleren boven het belang van het orgaan of organisatieonderdeel en geven in hun besluitvorming blijk van het prevaleren van het algemeen belang van de organisatie.
 
 4. Indien een lid van de raad van bestuur een direct of indirect persoonlijk belang heeft dat tegenstrijdig is met het belang van NWO en de daaraan verbonden organisatieonderdelen meldt hij dit onverwijld aan de overige leden van de raad van bestuur, alsmede aan de voorzitter van de raad van toezicht. Hij verschaft daarover gevraagd en ongevraagd alle relevante informatie.
 
@@ -476,7 +476,7 @@ Naast de algemene interne adviestaak, waarbij de raad van toezicht zich dient te
 
 - d. Zorgonderzoek en Medische Wetenschappen.
 
-- 2. De omvang van het wetenschappelijke werkterrein van elk domein is vastgelegd in het desbetreffende domeinreglement, als bedoeld in [artikel 6.5](https://wetten.overheid.nl/jci1.3:c:BWBR0039246&artikel=6.5&z=2017-02-28&g=2017-02-02). Indien nodig wijst de raad van bestuur domeinoverstijgende onderzoeksprogramma’s toe aan een van de domeinen.
+- 2. De omvang van het wetenschappelijke werkterrein van elk domein is vastgelegd in het desbetreffende domeinreglement, als bedoeld in [artikel 6.5](https://wetten.overheid.nl/jci1.3:c:BWBR0039246&artikel=6.5&z=2017-02-28&g=2017-02-28). Indien nodig wijst de raad van bestuur domeinoverstijgende onderzoeksprogramma’s toe aan een van de domeinen.
 
 ##### Artikel 6.2. – Samenstelling domeinbesturen
 
@@ -546,7 +546,7 @@ Naast de algemene interne adviestaak, waarbij de raad van toezicht zich dient te
 
 ##### Artikel 6.5. – Domeinreglement
 
-Het domeinbestuur stelt een domeinreglement vast na goedkeuring van de raad van bestuur. In het domeinreglement worden de werkzaamheden vastgelegd, alsmede de wijze waarop deze werkzaamheden binnen het betreffende domein worden uitgevoerd. Het domeinreglement verklaart de Gedragscode belangenverstrengeling NWO van toepassing. Het domeinreglement is in overeenstemming met de wet, dit reglement en de bevoegdhedenregeling NWO als bedoeld in [artikel 2.5](https://wetten.overheid.nl/jci1.3:c:BWBR0039246&artikel=2.5&z=2017-02-28&g=2017-02-02).
+Het domeinbestuur stelt een domeinreglement vast na goedkeuring van de raad van bestuur. In het domeinreglement worden de werkzaamheden vastgelegd, alsmede de wijze waarop deze werkzaamheden binnen het betreffende domein worden uitgevoerd. Het domeinreglement verklaart de Gedragscode belangenverstrengeling NWO van toepassing. Het domeinreglement is in overeenstemming met de wet, dit reglement en de bevoegdhedenregeling NWO als bedoeld in [artikel 2.5](https://wetten.overheid.nl/jci1.3:c:BWBR0039246&artikel=2.5&z=2017-02-28&g=2017-02-28).
 
 ### 7. NWO-I
 
@@ -630,7 +630,7 @@ Het [Reglement NWO 2002](https://wetten.overheid.nl/jci1.3:c:BWBR0014548), laats
 
 ##### Artikel 10.3. – Overgangsbepaling integratie stichtingen in domeinen
 
-De domeinbesturen van domeinen als genoemd in [artikel 6.1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039246&artikel=6.1&z=2017-02-28&g=2017-02-02), van dit bestuursreglement waarin werkzaamheden van stichtingen worden geïntegreerd stellen voldoende middelen aan die stichtingen beschikbaar om de lopende activiteiten en verplichtingen te kunnen afronden.
+De domeinbesturen van domeinen als genoemd in [artikel 6.1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039246&artikel=6.1&z=2017-02-28&g=2017-02-28), van dit bestuursreglement waarin werkzaamheden van stichtingen worden geïntegreerd stellen voldoende middelen aan die stichtingen beschikbaar om de lopende activiteiten en verplichtingen te kunnen afronden.
 
 ##### Artikel 10.4. – Citeertitel
 
