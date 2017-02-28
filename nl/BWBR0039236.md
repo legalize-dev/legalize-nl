@@ -4,7 +4,7 @@ identifier: "BWBR0039236"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2017-02-28"
-last_updated: "2017-01-01"
+last_updated: "2017-02-28"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0039236"
 soort: "ministeriele-regeling"
@@ -86,7 +86,7 @@ In dit besluit wordt verstaan onder:
 
 ##### Artikel 4. Lichamelijke verwonding of psychisch letsel
 
-1. De ernst van de lichamelijke verwonding of het psychische letsel, genoemd in [artikel 3, eerste lid, onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0039236&artikel=3&z=2017-02-28&g=2017-01-01), wordt in elk geval mede bepaald door de volgende omstandigheden:
+1. De ernst van de lichamelijke verwonding of het psychische letsel, genoemd in [artikel 3, eerste lid, onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0039236&artikel=3&z=2017-02-28&g=2017-02-28), wordt in elk geval mede bepaald door de volgende omstandigheden:
 
 - a. de militair ontving medische, specialistische zorg; bij acute psychiatrische toestandsbeelden volstaat psychiatrische zorg op afstand indien het verlenen van deze zorg anderszins niet mogelijk is;
 
@@ -144,7 +144,7 @@ De Minister van Infrastructuur en Milieu beslist in de gevallen waarin dit beslu
 
 ##### Artikel 10. Hardheidsclausule
 
-In zeer bijzondere gevallen kunnen de Minister van Defensie of de Minister van Infrastructuur en Milieu het draaginsigne toekennen aan degene die niet of niet volledig voldoet aan de criteria, bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0039236&artikel=3&z=2017-02-28&g=2017-01-01).
+In zeer bijzondere gevallen kunnen de Minister van Defensie of de Minister van Infrastructuur en Milieu het draaginsigne toekennen aan degene die niet of niet volledig voldoet aan de criteria, bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0039236&artikel=3&z=2017-02-28&g=2017-02-28).
 
 ##### Artikel 11. Intrekking besluit
 
