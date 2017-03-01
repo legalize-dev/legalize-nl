@@ -4,7 +4,7 @@ identifier: "BWBR0003052"
 country: "nl"
 rank: "wet"
 publication_date: "2017-03-01"
-last_updated: "2014-01-20"
+last_updated: "2017-03-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0003052"
 soort: "wet"
@@ -45,7 +45,7 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 2. Zij verkrijgen daardoor niet de staat van Nederlander.
 
-3. Zij die ingevolge deze wet als Nederlander worden behandeld, gelden, indien zij daarom verzoeken, als Nederlander in de zin van de [Paspoortwet](https://wetten.overheid.nl/jci1.3:c:BWBR0005212). In het aan hen op zodanig verzoek te verstrekken nationaal paspoort, ander reisdocument of Nederlandse identiteitskaart wordt ingevolge [artikel 3, zesde lid, eerste volzin, van de Paspoortwet](https://wetten.overheid.nl/jci1.3:c:BWBR0005212&artikel=3) de Nederlandse nationaliteit vermeld.
+3. Zij die ingevolge deze wet als Nederlander worden behandeld, gelden, indien zij daarom verzoeken, als Nederlander in de zin van de [Paspoortwet](https://wetten.overheid.nl/jci1.3:c:BWBR0005212). In het aan hen op zodanig verzoek te verstrekken nationaal paspoort, ander reisdocument, Nederlandse identiteitskaart of vervangende Nederlandse identiteitskaart wordt ingevolge [artikel 3, zesde lid, eerste volzin, van de Paspoortwet](https://wetten.overheid.nl/jci1.3:c:BWBR0005212&artikel=3) de Nederlandse nationaliteit vermeld.
 
 ##### Artikel 2
 
@@ -53,9 +53,9 @@ De behandeling als Nederlander komt ook toe aan het niet- Nederlandse kind van e
 
 ##### Artikel 3
 
-1. Onze Minister van Justitie kan, op een daartoe gedaan verzoek, door een aan de verzoeker af te geven verklaring de toepassing van deze wet uitbreiden tot andere dan de in de [artikelen 1](https://wetten.overheid.nl/jci1.3:c:BWBR0003052&artikel=1&z=2014-01-20&g=2014-01-20) en [2](https://wetten.overheid.nl/jci1.3:c:BWBR0003052&artikel=2&z=2014-01-20&g=2014-01-20) bedoelde Molukkers, welke met dezen nauwe maatschappelijke banden hebben, die zich vóór 1 oktober 1965 in Nederland hebben gevestigd en aldaar ten tijde van het verzoek woonplaats of werkelijk verblijf hebben.
+1. Onze Minister van Justitie kan, op een daartoe gedaan verzoek, door een aan de verzoeker af te geven verklaring de toepassing van deze wet uitbreiden tot andere dan de in de [artikelen 1](https://wetten.overheid.nl/jci1.3:c:BWBR0003052&artikel=1&z=2017-03-01&g=2017-03-01) en [2](https://wetten.overheid.nl/jci1.3:c:BWBR0003052&artikel=2&z=2017-03-01&g=2017-03-01) bedoelde Molukkers, welke met dezen nauwe maatschappelijke banden hebben, die zich vóór 1 oktober 1965 in Nederland hebben gevestigd en aldaar ten tijde van het verzoek woonplaats of werkelijk verblijf hebben.
 
-2. Op de kinderen van Molukkers aan wie de in het voorgaande lid bedoelde verklaring is afgegeven is [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0003052&artikel=2&z=2014-01-20&g=2014-01-20) van overeenkomstige toepassing, indien zij op het tijdstip van de indiening van het verzoek in Nederland woonplaats of werkelijk verblijf hebben.
+2. Op de kinderen van Molukkers aan wie de in het voorgaande lid bedoelde verklaring is afgegeven is [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0003052&artikel=2&z=2017-03-01&g=2017-03-01) van overeenkomstige toepassing, indien zij op het tijdstip van de indiening van het verzoek in Nederland woonplaats of werkelijk verblijf hebben.
 
 ##### Artikel 4
 
@@ -75,15 +75,15 @@ Vervallen
 
 ##### Artikel 7
 
-1. Aan degene op wie deze wet van toepassing is of ingevolge [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0003052&artikel=3&z=2014-01-20&g=2014-01-20) van toepassing is verklaard wordt op zijn verzoek door de burgemeester van zijn woonplaats of van zijn werkelijke verblijfplaats dan wel, indien de verzoeker buiten Nederland woont, door de burgemeester van de gemeente waar hij laatstelijk woonplaats of werkelijk verblijf heeft gehad, een verklaring afgegeven dat hij overeenkomstig de bepalingen van deze wet als Nederlander wordt behandeld.
+1. Aan degene op wie deze wet van toepassing is of ingevolge [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0003052&artikel=3&z=2017-03-01&g=2017-03-01) van toepassing is verklaard wordt op zijn verzoek door de burgemeester van zijn woonplaats of van zijn werkelijke verblijfplaats dan wel, indien de verzoeker buiten Nederland woont, door de burgemeester van de gemeente waar hij laatstelijk woonplaats of werkelijk verblijf heeft gehad, een verklaring afgegeven dat hij overeenkomstig de bepalingen van deze wet als Nederlander wordt behandeld.
 
 2. Weigert de burgemeester een verklaring af te geven, dan kan de verzoeker daartegen beroep instellen bij Onze Minister.
 
 ##### Artikel 8
 
-1. De niet-Nederlandse vrouw of man die sedert ten minste drie jaren de echtgenoot is van een persoon als bedoeld in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0003052&artikel=1&z=2014-01-20&g=2014-01-20) of 2, verkrijgt, indien zij of hij de behandeling als Nederlander niet reeds uit eigen hoofde bezit, die behandeling door haar of zijn wil daartoe te kennen te geven aan een autoriteit als bedoeld in [artikel 21 van de Rijkswet op het Nederlanderschap](https://wetten.overheid.nl/jci1.3:c:BWBR0003738&artikel=21).
+1. De niet-Nederlandse vrouw of man die sedert ten minste drie jaren de echtgenoot is van een persoon als bedoeld in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0003052&artikel=1&z=2017-03-01&g=2017-03-01) of 2, verkrijgt, indien zij of hij de behandeling als Nederlander niet reeds uit eigen hoofde bezit, die behandeling door haar of zijn wil daartoe te kennen te geven aan een autoriteit als bedoeld in [artikel 21 van de Rijkswet op het Nederlanderschap](https://wetten.overheid.nl/jci1.3:c:BWBR0003738&artikel=21).
 
-2. De niet-Nederlandse vrouw of man, die de echtgenote of echtgenoot is van een persoon aan wie de behandeling als Nederlander wordt verleend krachtens [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0003052&artikel=3&z=2014-01-20&g=2014-01-20) verkrijgt, indien zij of hij de behandeling als Nederlander niet reeds uit eigen hoofde bezit, die behandeling door haar of zijn wil daartoe te kennen te geven aan de burgemeester van haar of zijn woonplaats.
+2. De niet-Nederlandse vrouw of man, die de echtgenote of echtgenoot is van een persoon aan wie de behandeling als Nederlander wordt verleend krachtens [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0003052&artikel=3&z=2017-03-01&g=2017-03-01) verkrijgt, indien zij of hij de behandeling als Nederlander niet reeds uit eigen hoofde bezit, die behandeling door haar of zijn wil daartoe te kennen te geven aan de burgemeester van haar of zijn woonplaats.
 
 ##### Artikel 9
 
