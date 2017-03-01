@@ -4,7 +4,7 @@ identifier: "BWBR0001847"
 country: "nl"
 rank: "rijkswet"
 publication_date: "2020-01-01"
-last_updated: "2010-10-10"
+last_updated: "2017-03-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0001847"
 soort: "rijkswet"
@@ -64,11 +64,11 @@ Onder consulaire ambtenaren verstaat deze wet de aan het hoofd van consulaire po
 
 ##### Artikel 3
 
-Bij afwezigheid of verhindering van de, ingevolge [art. 1](https://wetten.overheid.nl/jci1.3:c:BWBR0001847&hoofdstuk=Eerste&artikel=1&z=2010-10-10&g=2010-10-10) aangewezen, consulaire ambtenaar, wordt deze vervangen door de ter plaatse zijner vestiging aanwezige consulaire ambtenaar van mindere rang, en, bij ontstentenis van zodanige ambtenaar, door de persoon, die tot het waarnemen zijner betrekking aangewezen is.
+Bij afwezigheid of verhindering van de, ingevolge [art. 1](https://wetten.overheid.nl/jci1.3:c:BWBR0001847&hoofdstuk=Eerste&artikel=1&z=2017-03-01&g=2017-03-01) aangewezen, consulaire ambtenaar, wordt deze vervangen door de ter plaatse zijner vestiging aanwezige consulaire ambtenaar van mindere rang, en, bij ontstentenis van zodanige ambtenaar, door de persoon, die tot het waarnemen zijner betrekking aangewezen is.
 
 ##### Artikel 4
 
-Ter vervulling van zijn in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0001847&hoofdstuk=Eerste&artikel=1&z=2010-10-10&g=2010-10-10) genoemde bevoegdheden kan een consulaire ambtenaar een tolk benoemen of, bij voorkomende omstandigheden, een persoon tijdelijk met de betrekking van tolk belasten.
+Ter vervulling van zijn in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0001847&hoofdstuk=Eerste&artikel=1&z=2017-03-01&g=2017-03-01) genoemde bevoegdheden kan een consulaire ambtenaar een tolk benoemen of, bij voorkomende omstandigheden, een persoon tijdelijk met de betrekking van tolk belasten.
 
 ##### Artikel 5
 
@@ -80,19 +80,19 @@ Vervallen
 
 ##### Artikel 7
 
-1. Grossen van overeenkomstig [artikel 17](https://wetten.overheid.nl/jci1.3:c:BWBR0001847&hoofdstuk=Tweede&artikel=17&z=2010-10-10&g=2010-10-10) opgemaakte akten voeren aan het hoofd de woorden "In naam des Konings".
+1. Grossen van overeenkomstig [artikel 17](https://wetten.overheid.nl/jci1.3:c:BWBR0001847&hoofdstuk=Tweede&artikel=17&z=2017-03-01&g=2017-03-01) opgemaakte akten voeren aan het hoofd de woorden "In naam des Konings".
 
 2. Deze grossen en grossen van uit kracht van de wet door een consulaire ambtenaar gedane uitspraken zijn in het Koninkrijk uitvoerbaar, mits in behoorlijke vorm opgemaakt.
 
-3. Na het wijzen van een scheidsrechterlijke uitspraak zendt de consulaire ambtenaar deze uitspraak, met een afschrift van zijn schriftelijke benoeming als scheidsman door de partijen of met een authentiek afschrift daarvan, aan de president van de arrondissementsrechtbank te ’s-Gravenhage die daarop een bevelschrift stelt als bedoeld in [artikel 642 van het Nederlandse Wetboek van Burgerlijke Rechtsvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&artikel=642), dan wel een overeenkomstige regeling in de openbare lichamen Bonaire, Sint Eustatius en Saba.
+3. Na het wijzen van een scheidsrechterlijke uitspraak zendt de consulaire ambtenaar deze uitspraak, met een afschrift van zijn schriftelijke benoeming als scheidsman door de partijen of met een authentiek afschrift daarvan, aan de president van de rechtbank Den Haag die daarop een bevelschrift stelt als bedoeld in [artikel 642 van het Nederlandse Wetboek van Burgerlijke Rechtsvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&artikel=642), dan wel een overeenkomstige regeling in de openbare lichamen Bonaire, Sint Eustatius en Saba.
 
 ##### Artikel 8
 
-Voor alle uitspraken en akten, uit kracht van de wet door consulaire ambtenaren opgemaakt of verleden, is het gebruik van elke levende taal geoorloofd, mits de gebezigde taal wordt verstaan door de partijen en door allen die bij het opmaken of verlijden der akten verschijnen ofwel de inhoud aan hen die de gebezigde taal niet verstaan, wordt vertolkt door een volgens [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0001847&hoofdstuk=Eerste&artikel=5&z=2010-10-10&g=2010-10-10) beëdigde tolk.
+Voor alle uitspraken en akten, uit kracht van de wet door consulaire ambtenaren opgemaakt of verleden, is het gebruik van elke levende taal geoorloofd, mits de gebezigde taal wordt verstaan door de partijen en door allen die bij het opmaken of verlijden der akten verschijnen ofwel de inhoud aan hen die de gebezigde taal niet verstaan, wordt vertolkt door een volgens [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0001847&hoofdstuk=Eerste&artikel=5&z=2017-03-01&g=2017-03-01) beëdigde tolk.
 
 ##### Artikel 9
 
-Bij de uitoefening van rechtspraak en het verrichten van andere handelingen van rechters neemt de consulaire ambtenaar zoveel mogelijk de voorschriften in acht die in de[twaalfde titel van het Eerste Boek van het Nederlandse Wetboek van Burgerlijke Rechtsvordering](onbekend) aan rechters en griffiers zijn gegeven, dan wel een overeenkomstige regeling in de openbare lichamen Bonaire, Sint Eustatius en Saba.
+Bij de uitoefening van rechtspraak en het verrichten van andere handelingen van rechters neemt de consulaire ambtenaar zoveel mogelijk de voorschriften in acht die in de [derde titel van het Eerste Boek van het Nederlandse Wetboek van Burgerlijke Rechtsvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&titeldeel=Derde) aan rechters en griffiers zijn gegeven, dan wel een overeenkomstige regeling in de openbare lichamen Bonaire, Sint Eustatius en Saba.
 
 ##### Artikel 10
 
@@ -104,7 +104,7 @@ Bij de uitoefening van rechtspraak en het verrichten van andere handelingen van 
 
 ##### Artikel 11
 
-1. Een consulaire ambtenaar kan worden gewraakt op een of meer der in [artikel 30 van het Nederlandse Wetboek van Burgerlijke Rechtsvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&artikel=30) genoemde gronden, dan wel een overeenkomstige regeling in de openbare lichamen Bonaire, Sint Eustatius en Saba.
+1. Een consulaire ambtenaar kan worden gewraakt op een of meer der in [artikel 36 van het Nederlandse Wetboek van Burgerlijke Rechtsvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&artikel=36) genoemde gronden, dan wel een overeenkomstige regeling in de openbare lichamen Bonaire, Sint Eustatius en Saba.
 
 2. Op de wraking beslist de onmiddellijk boven hem gestelde ambtenaar of bij gebreke daarvan de secretaris-generaal van het Departement van Buitenlandse Zaken, zonder mogelijkheid van beroep.
 
@@ -114,7 +114,7 @@ Bij de uitoefening van rechtspraak en het verrichten van andere handelingen van 
 
 1. Alle vonnissen en beschikkingen van een consulaire ambtenaar zijn bij voorraad uitvoerbaar, voor zover hij niet anders bepaalt.
 
-2. Van de einduitspraken van een consulaire ambtenaar kan gedurende drie maanden na de uitspraak bij beroepschrift hoger beroep worden ingesteld bij de arrondissements-rechtbank te ’s-Gravenhage of, indien het recht van Aruba, Curaçao of Sint Maarten of van de openbare lichamen Bonaire, Sint Eustatius en Saba is toegepast, bij het gerecht in eerste aanleg in het betrokken rijksdeel. Tegen einduitspaken die een voorlopige beslissing behelzen, staat geen rechtsmiddel open.
+2. Van de einduitspraken van een consulaire ambtenaar kan gedurende drie maanden na de uitspraak bij beroepschrift hoger beroep worden ingesteld bij de rechtbank Den Haag of, indien het recht van Aruba, Curaçao of Sint Maarten of van de openbare lichamen Bonaire, Sint Eustatius en Saba is toegepast, bij het gerecht in eerste aanleg in het betrokken rijksdeel. Tegen einduitspaken die een voorlopige beslissing behelzen, staat geen rechtsmiddel open.
 
 ### hoofdstuk Tweede. Het opmaken van burgerlijke akten
 
@@ -140,19 +140,19 @@ Indien een aanstaande echtgenoot die Nederlander is, in het tijdvak van zes maan
 
 2. De voorschriften, bij of krachtens het Burgerlijk Wetboek vastgesteld voor het houden van registers van de burgerlijke stand, daaronder begrepen het afgeven van afschriften of uittreksels, zijn - zoveel als dit, gelet op het toepasselijke materiële recht, mogelijk is - van toepassing. De registers worden gewaarmerkt en gekanttekend door een daartoe door Onze Minister van Buitenlandse Zaken aan te wijzen ambtenaar van dat Departement.
 
-3. Een der dubbelen wordt bewaard in de archieven van het consulaire post; het andere aan Onze voornoemde Minister opgezonden, door wiens tussenkomst het ter griffie van de arrondissements-rechtbank te **’s-Gravenhage** wordt overgebracht.
+3. Een der dubbelen wordt bewaard in de archieven van het consulaire post; het andere aan Onze voornoemde Minister opgezonden, door wiens tussenkomst het ter griffie van de rechtbank Den Haag wordt overgebracht.
 
 ##### Artikel 15
 
-De volmachten en andere stukken, welke bij de akten van de burgerlijke stand worden gevorderd, blijven aangehecht aan de registers, welke ter griffie van de arrondissements-rechtbank te **’s-Gravenhage** moeten worden overgebracht.
+De volmachten en andere stukken, welke bij de akten van de burgerlijke stand worden gevorderd, blijven aangehecht aan de registers, welke ter griffie van de rechtbank Den Haag moeten worden overgebracht.
 
 ##### Artikel 16
 
-Ten opzichte van de in het vorig artikel bedoelde registers worden aan de griffier der arrondissements-rechtbank te **’s-Gravenhage** dezelfde verplichtingen opgelegd als met betrekking tot de overige ter griffie dier rechtbank zich bevindende registers van de burgerlijke stand op hem rusten.
+Ten opzichte van de in het vorig artikel bedoelde registers worden aan de griffier van de rechtbank Den Haag dezelfde verplichtingen opgelegd als met betrekking tot de overige ter griffie dier rechtbank zich bevindende registers van de burgerlijke stand op hem rusten.
 
 ##### Artikel 16a
 
-1. Van de verzoeken tot doorhaling van een akte in of tot aanvulling of verbetering van de registers van de burgerlijke stand die binnen een consulair ressort zijn of hadden moeten worden gehouden, neemt de arrondissements-rechtbank te ’s-Gravenhage kennis, behoudens hoger beroep.
+1. Van de verzoeken tot doorhaling van een akte in of tot aanvulling of verbetering van de registers van de burgerlijke stand die binnen een consulair ressort zijn of hadden moeten worden gehouden, neemt de rechtbank Den Haag kennis, behoudens hoger beroep.
 
 2. [Artikel 29 van boek 1 van het Nederlands Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&artikel=29) is van overeenkomstige toepassing.
 
