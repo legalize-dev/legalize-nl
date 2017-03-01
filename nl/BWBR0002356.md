@@ -4,7 +4,7 @@ identifier: "BWBR0002356"
 country: "nl"
 rank: "rijkswet"
 publication_date: "2017-03-01"
-last_updated: "2016-07-01"
+last_updated: "2017-03-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0002356"
 soort: "rijkswet"
@@ -48,17 +48,13 @@ Zo is het, dat Wij, de Raad van State van het Koninkrijk gehoord, en met gemeen 
 
 1. De Hoge Raad der Nederlanden neemt ten aanzien van burgerlijke en strafzaken in Aruba, Curaçao en Sint Maarten en in de openbare lichamen Bonaire, Sint Eustatius en Saba, voor zover in deze Rijkswet niet anders is bepaald, in overeenkomstige gevallen, op overeenkomstige wijze en met overeenkomstige rechtsgevolgen als ten aanzien van burgerlijke en strafzaken in het Europese deel van het Koninkrijk, kennis van een beroep in cassatie, ingesteld hetzij door partijen, hetzij «in het belang der wet» door de procureur-generaal bij de Hoge Raad.
 
-2. Ook verkeerde toepassing of schending van de Nederlandse wet levert in burgerlijke en strafzaken in Aruba, Curaçao en Sint Maarten en in de openbare lichamen Bonaire, Sint Eustatius en Saba grond tot vernietiging op.
+2. De rechtsstelsels van Aruba, Curaçao en Sint Maarten en van de openbare lichamen Bonaire, Sint Eustatius en Saba gelden niet als rechtsstelsels van vreemde staten in de zin van [artikel 79, eerste lid, onderdeel b, van de Wet op de rechterlijke organisatie](https://wetten.overheid.nl/jci1.3:c:BWBR0001830&artikel=79).
 
 #### § 2. Cassatie in burgerlijke zaken ingesteld door partijen
 
 ##### Artikel 2
 
-Beroep in cassatie kan in burgerlijke zaken door partijen slechts worden ingesteld, indien het betreft een vonnis dan wel een beschikking en indien niet blijkt dat:
-
-- a. het onderwerp van de vordering een waarde heeft van duizend gulden of minder in Nederlands-Antilliaans of Arubaans courant of een waarde heeft van minder dan USD 560 of
-
-- b. het een beslissing betreft over een aangifte of over een aanvrage tot faillietverklaring, over homologatie van een akkoord of over het verlenen van voorlopige of definitieve surseance van betaling.
+Vervallen
 
 ##### Artikel 3
 
@@ -70,15 +66,13 @@ De termijn voor het beroep in cassatie is drie maanden. In de gevallen, waarin d
 
 ##### Artikel 5
 
-1. De termijnen van dagvaarding worden bij algemene maatregel van rijksbestuur vastgesteld.
+1. De termijnen van verschijning in vorderingsprocedures worden bij algemene maatregel van rijksbestuur vastgesteld.
 
-2. Het exploit van dagvaarding zal door de deurwaarder bij het Gemeenschappelijk Hof van Justitie van Aruba, Curaçao, Sint Maarten en van Bonaire, Sint Eustatius en Saba worden gedaan op de wijze als voorgeschreven is voor het doen van exploiten in de eerste Afdeling van de eerste titel van het eerste boek van het in Aruba, Curaçao, Sint Maarten en de openbare lichamen Bonaire, Sint Eustatius en Saba geldende Wetboek van Burgerlijke Rechtsvordering.
-
-3. De eiser tot cassatie is verplicht, op straffe van verval van het exploit van dagvaarding, om binnen een bij algemene maatregel van rijksbestuur te bepalen termijn na het tijdstip, waarop het exploit van dagvaarding is gedaan, daarvan ter griffie van het Gemeenschappelijk Hof van Justitie van Aruba, Curaçao, Sint Maarten en van Bonaire, Sint Eustatius en Saba in een daartoe bestemd register aantekening te doen houden. Een door de griffier van het Gemeenschappelijk Hof van Justitie van Aruba, Curaçao, Sint Maarten en van Bonaire, Sint Eustatius en Saba ondertekend afschrift van deze aantekening wordt, tegelijk met de aanbieding van de dagvaarding, ter inschrijving op de rol aan de griffie van de Hoge Raad overgelegd.
+2. Indien het beroep in cassatie aanhangig wordt gemaakt volgens de regels die gelden voor de verzoekprocedure, bericht de griffier van de Hoge Raad de verweerder of belanghebbende over de indiening van het cassatieberoep.
 
 ##### Artikel 6
 
-Het Gemeenschappelijk Hof van Justitie van Aruba, Curaçao, Sint Maarten en van Bonaire, Sint Eustatius en Saba mag of moet de voorlopige tenuitvoerlegging van een vonnis dan wel een beschikking niettegenstaande cassatie gelasten in dezelfde gevallen en op dezelfde wijze, waarin dit in eerste aanleg is toegelaten of bevolen niettegenstaande verzet of hoger beroep.
+Het Gemeenschappelijk Hof van Justitie van Aruba, Curaçao, Sint Maarten en van Bonaire, Sint Eustatius en Saba kan, indien dit wordt gevorderd, niettegenstaande daartegen aan te wenden rechtsmiddelen, verklaren dat zijn vonnis uitvoerbaar bij voorraad zal zijn, tenzij uit de wet of uit de aard van de zaak anders voortvloeit.
 
 ##### Artikel 7
 
@@ -94,7 +88,7 @@ De zaak kan bij de Hoge Raad ook worden bepleit door advocaten, ingeschreven bij
 
 2. Het Gemeenschappelijk Hof van Justitie van Aruba, Curaçao, Sint Maarten en van Bonaire, Sint Eustatius en Saba is bij de behandeling van een zaak, als bedoeld in het vorige lid, zoveel mogelijk samengesteld uit rechters die nog niet over de zaak hebben geoordeeld.
 
-3. Indien de Hoge Raad ten principale recht heeft gedaan, wordt deze beslissing ten uitvoer gelegd als een eindbeslissing in Aruba, Curaçao en Sint Maarten en in de openbare lichamen Bonaire, Sint Eustatius en Saba in hoger beroep gegeven.
+3. Indien de Hoge Raad ten principale recht heeft gedaan, wordt deze beslissing ten uitvoer gelegd als een uitspraak in Aruba, Curaçao en Sint Maarten en in de openbare lichamen Bonaire, Sint Eustatius en Saba in hoger beroep gegeven.
 
 #### § 3. Cassatie in strafzaken ingesteld door partijen
 
@@ -116,7 +110,7 @@ De zaak kan bij de Hoge Raad ook worden bepleit door advocaten, ingeschreven bij
 
 ##### Artikel 12
 
-Ondanks beroep in cassatie kan bij voorraad verhaal op de goederen en inkomsten van de veroordeelde ten aanzien van een opgelegde boete geschieden.
+Vervallen
 
 ##### Artikel 13
 
@@ -132,15 +126,19 @@ Als raadsman van de verdachte kunnen bij de Hoge Raad ook optreden advocaten, in
 
 ##### Artikel 15
 
-1. De griffier van de Hoge Raad zendt de processtukken met een door de griffier ondertekend en door de voorzitter gewaarmerkt uittreksel van het arrest van de Hoge Raad, bevattende de beslissing en de gronden waarop deze berust, zo spoedig mogelijk aan een procureur-generaal bij het Gemeenschappelijk Hof van Justitie van Aruba, Curaçao, Sint Maarten en van Bonaire, Sint Eustatius en Saba.
+1. Een door de griffier van de Hoge Raad gewaarmerkt afschrift van het arrest van de Hoge Raad wordt zo spoedig mogelijk door de procureur-generaal bij de Hoge Raad gezonden aan de procureur-generaal bij het Gemeenschappelijk Hof van Justitie van Aruba, Curaçao, Sint Maarten en van Bonaire, Sint Eustatius en Saba.
 
-2. Indien bij het arrest ten principale is recht gedaan, wordt deze beslissing, voor zover geen termen zijn gevonden tot het verlenen van gratie, ten uitvoer gelegd als een einduitspraak in Aruba, Curaçao en Sint Maarten en in de openbare lichamen Bonaire, Sint Eustatius en Saba in hoger beroep gegeven.
+2. De procureur-generaal bij de Hoge Raad geeft tevens van de beslissing kennis aan de verdachte en aan de benadeelde partij indien deze zich in het geding heeft gevoegd.
+
+3. De procureur-generaal bij de Hoge Raad verstrekt desgevraagd een afschrift van het arrest van de Hoge Raad aan de verdachte en de benadeelde partij, bedoeld in het tweede lid.
+
+4. Indien bij het arrest ten principale recht is gedaan, wordt deze beslissing, voor zover geen termen zijn gevonden tot het verlenen van gratie, ten uitvoer gelegd als een uitspraak in Aruba, Curaçao en Sint Maarten en in de openbare lichamen Bonaire, Sint Eustatius en Saba in hoger beroep gegeven.
 
 #### § 4. Cassatie in het belang der wet
 
 ##### Artikel 16
 
-In het geval bedoeld in [artikel 456, laatste lid, van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=456) van het Europese deel van het Koninkrijk zendt de procureur-generaal bij de Hoge Raad het aldaar bedoelde uittreksel aan een procureur-generaal bij het Gemeenschappelijk Hof van Justitie van Aruba, Curaçao, Sint Maarten en van Bonaire, Sint Eustatius en Saba.
+In het geval bedoeld in [artikel 456, laatste lid, van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=456) van het Europese deel van het Koninkrijk zendt de procureur-generaal bij de Hoge Raad het aldaar bedoelde afschrift aan een procureur-generaal bij het Gemeenschappelijk Hof van Justitie van Aruba, Curaçao, Sint Maarten en van Bonaire, Sint Eustatius en Saba.
 
 #### § 4. Cassatie in het belang der wet
 
@@ -154,7 +152,7 @@ Bevat wijzigingen in andere regelgeving.
 
 ##### Artikel 19
 
-Deze wet wordt aangehaald als: Rijkswet cassatierechtspraak voor Aruba, Curaçao, Sint Maarten en voor Bonaire, Sint Eustatius en Saba.
+Deze wet wordt aangehaald als: Rijkswet rechtsmacht Hoge Raad voor Aruba, Curaçao, Sint Maarten en voor Bonaire, Sint Eustatius en Saba.
 
 Lasten en bevelen, dat deze rijkswet in het **Staatsblad**, het **Gouvernementsblad van Suriname** en het **Publicatieblad van de Nederlandse Antillen** zal worden geplaatst, en dat alle Ministeriële Departementen, Autoriteiten, Colleges en Ambtenaren, wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
 
@@ -184,7 +182,23 @@ Lasten en bevelen, dat deze rijkswet in het **Staatsblad**, het **Gouvernementsb
 
 5. Het Gemeenschappelijk Hof is in het geval, bedoeld in het vierde lid, zoveel mogelijk samengesteld uit rechters die nog niet over de zaak hebben geoordeeld.
 
+#### § 3a. Cassatie in belastingzaken ingesteld door de belanghebbende of de minister
+
 #### § 4. Cassatie in het belang der wet
+
+Lasten en bevelen, dat deze rijkswet in het **Staatsblad**, het **Gouvernementsblad van Suriname** en het **Publicatieblad van de Nederlandse Antillen** zal worden geplaatst, en dat alle Ministeriële Departementen, Autoriteiten, Colleges en Ambtenaren, wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
+
+##### Artikel 1b
+
+De Hoge Raad neemt ten aanzien van burgerlijke zaken in Aruba, Curaçao en Sint Maarten en in de openbare lichamen Bonaire, Sint Eustatius en Saba, voor zover in deze rijkswet niet anders is bepaald, in overeenkomstige gevallen, op overeenkomstige wijze en met overeenkomstige rechtsgevolgen als ten aanzien van burgerlijke zaken in het Europese deel van het Koninkrijk, kennis van een gestelde prejudiciële vraag.
+
+##### Artikel 1c
+
+De Hoge Raad neemt ten aanzien van belastingzaken in Aruba, Curaçao en Sint Maarten en in de openbare lichamen Bonaire, Sint Eustatius en Saba, voor zover in deze rijkswet niet anders is bepaald, in overeenkomstige gevallen, op overeenkomstige wijze en met overeenkomstige rechtsgevolgen als ten aanzien van belastingzaken in het Europese deel van het Koninkrijk, kennis van een gestelde prejudiciële vraag.
+
+#### § 2. Cassatie in burgerlijke zaken ingesteld door partijen
+
+#### § 3. Cassatie in strafzaken ingesteld door partijen
 
 #### § 5. Overgangs- en slotbepalingen
 
