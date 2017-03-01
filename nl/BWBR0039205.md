@@ -235,15 +235,3 @@ Deze regeling treedt in werking met ingang van 1 maart 2017.
 Deze regeling wordt aangehaald als: Regeling fosfaatreductieplan 2017.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
-
-##### Artikel 9a. (herberekening)
-
-1. Telkens in het geval een rund dat ten minste eenmaal heeft gekalfd door de houder na 28 april 2017 in het I&R-systeem is afgemeld en binnen 4 maanden na die afmelding terugkeert in het I&R-systeem van die houder, past de minister, met ingang van de periode dat het rund door de houder in het I&R-systeem was afgemeld, voor die houder de [artikelen 4](https://wetten.overheid.nl/jci1.3:c:BWBR0039205&artikel=4&z=2017-05-01&g=2017-05-01), [6](https://wetten.overheid.nl/jci1.3:c:BWBR0039205&artikel=6&z=2017-05-01&g=2017-05-01) en [9](https://wetten.overheid.nl/jci1.3:c:BWBR0039205&artikel=9&z=2017-05-01&g=2017-05-01) voor de perioden 2 tot en met 5 opnieuw toe waarbij dat rund, voor zover van toepassing, alsnog meetelt bij het gemiddeld aantal runderen dat in de tweede maand van periode 2, onderscheidenlijk in de desbetreffende maanden van de perioden 3, 4 en 5, werd gehouden.
-
-2. In het geval de toepassing van het eerste lid leidt tot:
-
-- a. een hogere geldsom dan ingevolge [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0039205&artikel=4&z=2017-05-01&g=2017-05-01) of [6](https://wetten.overheid.nl/jci1.3:c:BWBR0039205&artikel=6&z=2017-05-01&g=2017-05-01) voor de desbetreffende periode of maand is opgelegd, is de houder per ommegaande het verschil tussen beide geldsommen aan de minister verschuldigd;
-
-- b. een lagere bonus-geldsom dan ingevolge [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0039205&artikel=9&z=2017-05-01&g=2017-05-01) voor de desbetreffende periode of maand is toegekend, is de houder per ommegaande het verschil tussen beide bonus-geldsommen aan de minister verschuldigd.
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
