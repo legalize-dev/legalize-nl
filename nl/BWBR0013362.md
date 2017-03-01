@@ -4,7 +4,7 @@ identifier: "BWBR0013362"
 country: "nl"
 rank: "amvb"
 publication_date: "2024-07-01"
-last_updated: "2016-06-01"
+last_updated: "2017-03-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0013362"
 soort: "AMvB"
@@ -116,7 +116,7 @@ De confrontatie wordt geleid door een daartoe door de korpschef onderscheidenlij
 
 ##### Artikel 9
 
-De officier van justitie en de raadsman van de verdachte worden zo mogelijk in de gelegenheid gesteld om voorafgaand aan de meervoudige confrontatie opmerkingen te maken omtrent de te tonen selectie, zonder dat de confrontatie daardoor mag worden opgehouden. De gemaakte opmerkingen worden opgenomen in het in [artikel 8, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013362&paragraaf=3&artikel=8&z=2016-06-01&g=2016-06-01), bedoelde proces-verbaal of rapport.
+De officier van justitie en de raadsman van de verdachte worden in de gelegenheid gesteld de uitvoering van een meervoudige confrontatie te volgen en worden in de gelegenheid gesteld om voorafgaand aan de meervoudige confrontatie opmerkingen te maken omtrent de te tonen selectie, een en ander zonder dat de meervoudige confrontatie daardoor mag worden opgehouden. De gemaakte opmerkingen worden opgenomen in het in [artikel 8, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013362&paragraaf=3&artikel=8&z=2017-03-01&g=2017-03-01), bedoelde proces-verbaal of rapport.
 
 ##### Artikel 10
 
@@ -138,7 +138,7 @@ Als helper bij het uitvoeren van de geuridentificatieproef kunnen optreden opspo
 
 ##### Artikel 14
 
-De helper, bedoeld in [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0013362&paragraaf=4&artikel=13&z=2016-06-01&g=2016-06-01), en de geleider, bedoeld in [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0013362&paragraaf=4&artikel=12&z=2016-06-01&g=2016-06-01), maken van de geuridentificatieproef een proces-verbaal op, waarin in elk geval wordt opgenomen:
+De helper, bedoeld in [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0013362&paragraaf=4&artikel=13&z=2017-03-01&g=2017-03-01), en de geleider, bedoeld in [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0013362&paragraaf=4&artikel=12&z=2017-03-01&g=2017-03-01), maken van de geuridentificatieproef een proces-verbaal op, waarin in elk geval wordt opgenomen:
 
 - a. een verslag van de helper omtrent de gevolgde procedure;
 
@@ -248,11 +248,11 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 1. De handpalmafdrukken van gewezen verdachten worden vernietigd:
 
-- a. twaalf jaar nadat een einduitspraak als bedoeld in [artikel 1, onder g](https://wetten.overheid.nl/jci1.3:c:BWBR0013362&paragraaf=1&artikel=1&z=2016-06-01&g=2016-06-01), is gedaan in verband met een misdrijf waarop naar de wettelijke omschrijving een gevangenisstraf van minder dan zes jaar is gesteld, en in het kader van het misdrijf de handpalmafdrukken zijn verwerkt,
+- a. twaalf jaar nadat een einduitspraak als bedoeld in [artikel 1, onder g](https://wetten.overheid.nl/jci1.3:c:BWBR0013362&paragraaf=1&artikel=1&z=2017-03-01&g=2017-03-01), is gedaan in verband met een misdrijf waarop naar de wettelijke omschrijving een gevangenisstraf van minder dan zes jaar is gesteld, en in het kader van het misdrijf de handpalmafdrukken zijn verwerkt,
 
-- b. twintig jaar nadat een einduitspraak als bedoeld in [artikel 1, onder g](https://wetten.overheid.nl/jci1.3:c:BWBR0013362&paragraaf=1&artikel=1&z=2016-06-01&g=2016-06-01), is gedaan in verband met een misdrijf waarop naar de wettelijke omschrijving een gevangenisstraf van zes jaar of meer is gesteld, en in het kader van het misdrijf de handpalmafdrukken zijn verwerkt,
+- b. twintig jaar nadat een einduitspraak als bedoeld in [artikel 1, onder g](https://wetten.overheid.nl/jci1.3:c:BWBR0013362&paragraaf=1&artikel=1&z=2017-03-01&g=2017-03-01), is gedaan in verband met een misdrijf waarop naar de wettelijke omschrijving een gevangenisstraf van zes jaar of meer is gesteld, en in het kader van het misdrijf de handpalmafdrukken zijn verwerkt,
 
-- c. tachtig jaar nadat een einduitspraak als bedoeld in [artikel 1, onder g](https://wetten.overheid.nl/jci1.3:c:BWBR0013362&paragraaf=1&artikel=1&z=2016-06-01&g=2016-06-01), is gedaan in verband met een misdrijf dat op grond van [artikel 70, tweede lid, van het Wetboek van Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=70) niet aan verjaring onderhevig is, en in het kader van het misdrijf de handpalmafdrukken zijn verwerkt,
+- c. tachtig jaar nadat een einduitspraak als bedoeld in [artikel 1, onder g](https://wetten.overheid.nl/jci1.3:c:BWBR0013362&paragraaf=1&artikel=1&z=2017-03-01&g=2017-03-01), is gedaan in verband met een misdrijf dat op grond van [artikel 70, tweede lid, van het Wetboek van Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=70) niet aan verjaring onderhevig is, en in het kader van het misdrijf de handpalmafdrukken zijn verwerkt,
 
 - d. wanneer naar het oordeel van de officier van justitie vaststaat dat herziening ten nadele op grond van [artikel 482a, eerste lid, aanhef en onder a, van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=482a) uitgesloten is, dan wel
 
@@ -274,11 +274,11 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 ##### Artikel 4g
 
-Met de handpalmafdrukken, bedoeld in [artikel 4c tot en met 4f](https://wetten.overheid.nl/jci1.3:c:BWBR0013362&paragraaf=2a&artikel=4c&z=2016-06-01&g=2016-06-01), worden tevens de daarbij behorende identificerende persoonsgegevens vernietigd.
+Met de handpalmafdrukken, bedoeld in [artikel 4c tot en met 4f](https://wetten.overheid.nl/jci1.3:c:BWBR0013362&paragraaf=2a&artikel=4c&z=2017-03-01&g=2017-03-01), worden tevens de daarbij behorende identificerende persoonsgegevens vernietigd.
 
 ##### Artikel 4h
 
-De Justitiële Informatiedienst verstrekt de informatie die deze dienst ingevolge [artikel 8 van het Besluit identiteitsvaststelling verdachten en veroordeelden](https://wetten.overheid.nl/jci1.3:c:BWBR0026302&artikel=8) van het openbaar ministerie heeft verkregen, aan een landelijke eenheid als bedoeld in [artikel 25, eerste lid, onder b, van de Politiewet 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&artikel=25), voor zover die informatie nodig is om te kunnen voldoen aan de [artikelen 4c](https://wetten.overheid.nl/jci1.3:c:BWBR0013362&paragraaf=2a&artikel=4c&z=2016-06-01&g=2016-06-01), [4d](https://wetten.overheid.nl/jci1.3:c:BWBR0013362&paragraaf=2a&artikel=4d&z=2016-06-01&g=2016-06-01) en [4e, eerste lid, onder a tot en met c en e, en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013362&paragraaf=2a&artikel=4e&z=2016-06-01&g=2016-06-01). Het openbaar ministerie verstrekt aan een landelijke eenheid als bedoeld in artikel 25, eerste lid, onder b, van de Politiewet 2012 de informatie die nodig is om te kunnen voldoen aan de artikelen 4e, eerste lid, onder d, en [4f](https://wetten.overheid.nl/jci1.3:c:BWBR0013362&paragraaf=2a&artikel=4f&z=2016-06-01&g=2016-06-01).
+De Justitiële Informatiedienst verstrekt de informatie die deze dienst ingevolge [artikel 8 van het Besluit identiteitsvaststelling verdachten en veroordeelden](https://wetten.overheid.nl/jci1.3:c:BWBR0026302&artikel=8) van het openbaar ministerie heeft verkregen, aan een landelijke eenheid als bedoeld in [artikel 25, eerste lid, onder b, van de Politiewet 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&artikel=25), voor zover die informatie nodig is om te kunnen voldoen aan de [artikelen 4c](https://wetten.overheid.nl/jci1.3:c:BWBR0013362&paragraaf=2a&artikel=4c&z=2017-03-01&g=2017-03-01), [4d](https://wetten.overheid.nl/jci1.3:c:BWBR0013362&paragraaf=2a&artikel=4d&z=2017-03-01&g=2017-03-01) en [4e, eerste lid, onder a tot en met c en e, en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013362&paragraaf=2a&artikel=4e&z=2017-03-01&g=2017-03-01). Het openbaar ministerie verstrekt aan een landelijke eenheid als bedoeld in artikel 25, eerste lid, onder b, van de Politiewet 2012 de informatie die nodig is om te kunnen voldoen aan de artikelen 4e, eerste lid, onder d, en [4f](https://wetten.overheid.nl/jci1.3:c:BWBR0013362&paragraaf=2a&artikel=4f&z=2017-03-01&g=2017-03-01).
 
 #### § 3. De toepassing van een confrontatie
 
