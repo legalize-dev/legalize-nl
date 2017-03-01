@@ -171,17 +171,3 @@ Wijzigt de Algemene wet bestuursrecht.
 Deze wet wordt aangehaald als: Tijdelijke wet bestuurlijke maatregelen terrorismebestrijding.
 
 Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren die zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
-
-##### Artikel 7a
-
-1. Gelet op artikel 9, tweede lid, onderdeel g, van de Algemene verordening gegevensbescherming, is het verbod om gegevens waaruit ras of etnische afkomst, politieke, religieuze of levensbeschouwelijke overtuigingen blijken en verwerking van gegevens over gezondheid als bedoeld in [paragraaf 3.1 van de Uitvoeringswet Algemene verordening gegevensbescherming](https://wetten.overheid.nl/jci1.3:c:BWBR0040940&paragraaf=3.1) te verwerken niet van toepassing indien de verwerking geschiedt door Onze Minister voor zover de verwerking van deze gegevens noodzakelijk is voor de uitoefening van zijn bevoegdheden op grond van deze wet.
-
-2. Gelet op artikel 10 van de Algemene verordening gegevensbescherming mag Onze Minister persoonsgegevens van strafrechtelijke aard als bedoeld in [paragraaf 3.2 van de Uitvoeringswet Algemene verordening gegevensbescherming](https://wetten.overheid.nl/jci1.3:c:BWBR0040940&paragraaf=3.2) verwerken, indien de verwerking noodzakelijk is voor de uitoefening van zijn bevoegdheden op grond van deze wet.
-
-##### Artikel 7b
-
-De in [artikel 7a](https://wetten.overheid.nl/jci1.3:c:BWBR0039210&paragraaf=4a&artikel=7a&z=2022-02-26&g=2022-02-26) bedoelde persoonsgegevens worden vernietigd zodra zij niet langer noodzakelijk zijn voor de uitoefening van de bevoegdheden op grond van deze wet, in ieder geval uiterlijk 5 jaar na de laatste verwerking.
-
-#### § 5. Slotbepalingen
-
-Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren die zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
