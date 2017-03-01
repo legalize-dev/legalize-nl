@@ -4,7 +4,7 @@ identifier: "BWBR0013132"
 country: "nl"
 rank: "amvb"
 publication_date: "2023-10-01"
-last_updated: "2016-12-01"
+last_updated: "2017-03-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0013132"
 soort: "AMvB"
@@ -58,11 +58,17 @@ In dit besluit wordt verstaan onder «bestuur van een gerecht»: de Hoge Raad, h
 
 ##### Artikel 2
 
+Dit artikel is gewijzigd in verband met de invoering van digitaal procederen. Zie voor de procedures en gerechten waarvoor digitaal procederen geldt het Overzicht gefaseerde inwerkingtreding op www.rijksoverheid.nl/KEI.
+
+Vervallen.
+
+Voor overige gevallen luidt het artikel als volgt:
+
 De dagen waarop de gewone zittingen worden gehouden en de tijdstippen waarop de zittingen aanvangen, worden door het bestuur van een gerecht vastgesteld bij reglement. Voor burgerlijke zaken die met een dagvaarding worden ingeleid, worden in dat reglement de dag en het uur van de rolbehandeling opgenomen.
 
 ##### Artikel 3
 
-1. De voorzitter van de meervoudige kamer of degene die zitting heeft in een enkelvoudige kamer kan bepalen dat in verband met de omstandigheden in een bepaalde zaak voor de behandeling van die zaak op andere dagen, tijdstippen of plaatsen zittingen worden gehouden dan is vastgesteld in het reglement, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0013132&hoofdstuk=1&paragraaf=2&artikel=2&z=2016-12-01&g=2016-12-01).
+1. De voorzitter van de meervoudige kamer of degene die zitting heeft in een enkelvoudige kamer kan bepalen dat in verband met de omstandigheden in een bepaalde zaak voor de behandeling van die zaak op andere dagen, tijdstippen of plaatsen zittingen worden gehouden dan is vastgesteld in het reglement, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0013132&hoofdstuk=1&paragraaf=2&artikel=2&z=2017-03-01&g=2017-03-01).
 
 2. Het bestuur van een gerecht kan bepalen dat voor enig ander doel een buitengewone zitting plaatsvindt.
 
@@ -112,7 +118,7 @@ De dagen waarop de gewone zittingen worden gehouden en de tijdstippen waarop de 
 
 ##### Artikel 9
 
-1. De ambtenaren van het openbaar ministerie kunnen de uitspraken in strafzaken gewezen op hun parket ontvangen, met uitzondering van de stukken, bedoeld in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0013132&hoofdstuk=1&paragraaf=4&artikel=8&z=2016-12-01&g=2016-12-01), ten behoeve van de betekening.
+1. De ambtenaren van het openbaar ministerie kunnen de uitspraken in strafzaken gewezen op hun parket ontvangen, met uitzondering van de stukken, bedoeld in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0013132&hoofdstuk=1&paragraaf=4&artikel=8&z=2017-03-01&g=2017-03-01), ten behoeve van de betekening.
 
 2. Zo nodig geschiedt de verzending van uitspraken per dienstbrief of op een andere veilige wijze.
 
@@ -142,6 +148,22 @@ Naast de bij of krachtens de wet aan de griffier opgedragen taken bestaan griffi
 
 ##### Artikel 13
 
+Dit artikel is gewijzigd in verband met de invoering van digitaal procederen. Zie voor de procedures en gerechten waarvoor digitaal procederen geldt het Overzicht gefaseerde inwerkingtreding op www.rijksoverheid.nl/KEI.
+
+1. Het bestuur van een gerecht draagt zorg voor een deugdelijke administratie van de bij het gerecht aanhangige zaken, met dien verstande dat deze administratie tenminste voldoet aan de volgende eisen:
+
+- a. zaken worden ingeschreven in de volgorde waarin zij worden ingediend;
+
+- b. elke zaak een afzonderlijk nummer wordt toegekend;
+
+- c. bij elke zaak tenminste worden vermeld de namen van de partijen en, indien van toepassing, van de advocaten of gemachtigden, en
+
+- d. bij elke zaak aantekening wordt gehouden van het verloop van de procedure en van hetgeen verder dienstig wordt geacht.
+
+2. Een kamer kan, met instemming van het bestuur van het gerecht, bij haar aanhangige zaken verwijzen naar een andere kamer van gelijk getal.
+
+Voor overige gevallen luidt het artikel als volgt:
+
 1. Het bestuur van een gerecht draagt zorg voor een deugdelijke administratie van de bij het gerecht aanhangige zaken, met dien verstande dat deze administratie tenminste voldoet aan de volgende eisen:
 
 - a. de rol deel uitmaakt van de administratie en dat inschrijving ter rolle gebeurt door inschrijving in de administratie;
@@ -158,11 +180,29 @@ Naast de bij of krachtens de wet aan de griffier opgedragen taken bestaan griffi
 
 ##### Artikel 14
 
+Dit artikel is gewijzigd in verband met de invoering van digitaal procederen. Zie voor de procedures en gerechten waarvoor digitaal procederen geldt het Overzicht gefaseerde inwerkingtreding op www.rijksoverheid.nl/KEI.
+
+Vervallen.
+
+Voor overige gevallen luidt het artikel als volgt:
+
 1. Het bestuur van een rechtbank of gerechtshof geeft voor burgerlijke zaken die met een dagvaarding worden ingeleid in het bestuursreglement, bedoeld in [artikel 20, eerste lid, van de Wet op de rechterlijke organisatie](https://wetten.overheid.nl/jci1.3:c:BWBR0001830&artikel=20), aan in welke zittingsplaats de rolbehandeling plaatsvindt.
 
 2. Het eerste lid is niet van toepassing op zaken die door de kantonrechter worden behandeld.
 
 ##### Artikel 15
+
+Dit artikel is gewijzigd in verband met de invoering van digitaal procederen. Zie voor de procedures en gerechten waarvoor digitaal procederen geldt het Overzicht gefaseerde inwerkingtreding op www.rijksoverheid.nl/KEI.
+
+1. Het bestuur van een gerecht draagt er zorg voor dat steeds een overzicht van de bij dat gerecht te behandelen zaken elektronisch beschikbaar is, onder vermelding van:
+
+- a. het zaaknummer en
+
+- b. de stand waarin de procedure zich bevindt.
+
+2. In afwijking van het eerste lid kan het bestuur ter bescherming van zwaarwegende belangen van anderen, waaronder die van partijen, geen of een beperkte vermelding van de te behandelen zaak ter beschikking stellen.
+
+Voor overige gevallen luidt het artikel als volgt:
 
 1. Het bestuur van een gerecht draagt er zorg voor dat tijdig voor elke openbare zitting een overzicht van de te behandelen zaken beschikbaar is, onder vermelding van:
 
@@ -179,6 +219,24 @@ Naast de bij of krachtens de wet aan de griffier opgedragen taken bestaan griffi
 5. Indien de behandelend rechterlijk ambtenaar met rechtspraak belast dit noodzakelijk acht in verband met de spoedeisendheid van een zaak, kan deze zaak worden voorgedragen in afwijking van de volgorde op de rol.
 
 ##### Artikel 16
+
+Dit artikel is gewijzigd in verband met de invoering van digitaal procederen. Zie voor de procedures en gerechten waarvoor digitaal procederen geldt het Overzicht gefaseerde inwerkingtreding op www.rijksoverheid.nl/KEI.
+
+1. Een vonnis, arrest of beschikking in burgerlijke zaken wordt uitgesproken door:
+
+- a. de voorzitter of een lid van de meervoudige kamer die dit vonnis of arrest heeft gewezen of de beschikking heeft gegeven;
+
+- b. het lid van de enkelvoudige kamer dat dit vonnis of arrest heeft gewezen of de beschikking heeft gegeven, of
+
+- c. een andere daartoe aangewezen rechter onderscheidenlijk raadsheer.
+
+2. Een vonnis, arrest of beschikking in strafzaken wordt zo mogelijk uitgesproken door de voorzitter of één der rechterlijke ambtenaren met rechtspraak belast die over de zaak hebben geoordeeld.
+
+3. Een uitspraak in bestuursrechtelijke zaken en in belastingzaken wordt zo mogelijk door de voorzitter of één der rechterlijke ambtenaren met rechtspraak belast die over de zaak hebben geoordeeld ter zitting meegedeeld.
+
+4. Wanneer een rechterlijk ambtenaar met rechtspraak belast of griffier buiten staat is een uitspraak of een proces-verbaal te ondertekenen wordt daarvan in het betreffende stuk melding gemaakt.
+
+Voor overige gevallen luidt het artikel als volgt:
 
 1. Een vonnis, arrest of beschikking in burgerlijke zaken wordt uitgesproken door:
 
@@ -199,6 +257,12 @@ Naast de bij of krachtens de wet aan de griffier opgedragen taken bestaan griffi
 In strafzaken waarin de stukken ingevolge de wet aan de griffie moeten worden toegezonden of ter griffie ter inzage moeten worden neergelegd, worden door het bestuur van een gerecht bij reglement de tijden vastgesteld waarop inzage in de stukken kan worden verkregen door de ambtenaren van het openbaar ministerie of van het parket bij de Hoge Raad, de verdachten, de raadslieden van de verdachten, de benadeelde partijen in strafzaken en hun advocaten en gemachtigden.
 
 ##### Artikel 18
+
+Dit artikel is gewijzigd in verband met de invoering van digitaal procederen. Zie voor de procedures en gerechten waarvoor digitaal procederen geldt het Overzicht gefaseerde inwerkingtreding op www.rijksoverheid.nl/KEI.
+
+Voor andere zaken dan strafzaken waarin recht op inzage van stukken bestaat, wordt door het bestuur van een gerecht de wijze waarop niet-elektronische inzage kan plaatsvinden, vastgesteld bij reglement, en indien van toepassing, de tijden van die inzage.
+
+Voor overige gevallen luidt het artikel als volgt:
 
 Voor andere zaken dan strafzaken waarin recht op inzage van stukken bestaat, worden door het bestuur van een gerecht de tijden en de wijze waarop inzage kan plaatsvinden, vastgesteld bij reglement.
 
@@ -286,7 +350,7 @@ De leden van het openbaar ministerie en van het parket bij de Hoge Raad nemen ge
 
 ##### Artikel 28
 
-1. De reglementen, genoemd in de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0013132&hoofdstuk=1&paragraaf=2&artikel=2&z=2016-12-01&g=2016-12-01), [17](https://wetten.overheid.nl/jci1.3:c:BWBR0013132&hoofdstuk=1&paragraaf=6&artikel=17&z=2016-12-01&g=2016-12-01) en [18](https://wetten.overheid.nl/jci1.3:c:BWBR0013132&hoofdstuk=1&paragraaf=6&artikel=18&z=2016-12-01&g=2016-12-01), worden door het gerechtsbestuur vastgesteld nadat de vertegenwoordigers van het openbaar ministerie, de Nederlandse orde van advocaten en de Koninklijke Beroepsorganisatie van Gerechtsdeurwaarders in het arrondissement onderscheidenlijk in het ressort zijn gehoord.
+1. De reglementen, genoemd in de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0013132&hoofdstuk=1&paragraaf=2&artikel=2&z=2017-03-01&g=2017-03-01), [17](https://wetten.overheid.nl/jci1.3:c:BWBR0013132&hoofdstuk=1&paragraaf=6&artikel=17&z=2017-03-01&g=2017-03-01) en [18](https://wetten.overheid.nl/jci1.3:c:BWBR0013132&hoofdstuk=1&paragraaf=6&artikel=18&z=2017-03-01&g=2017-03-01), worden door het gerechtsbestuur vastgesteld nadat de vertegenwoordigers van het openbaar ministerie, de Nederlandse orde van advocaten en de Koninklijke Beroepsorganisatie van Gerechtsdeurwaarders in het arrondissement onderscheidenlijk in het ressort zijn gehoord.
 
 2. De reglementen, bedoeld in het eerste lid, worden gepubliceerd in de Staatscourant.
 
@@ -386,7 +450,7 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 1. Op verzoek van het slachtoffer of zijn advocaat of gemachtigde worden zo spoedig mogelijk afschriften van processtukken waarvan de kennisneming is toegestaan, aan hen verstrekt.
 
-2. [Artikel 21, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013132&hoofdstuk=1&paragraaf=6&artikel=21&z=2016-12-01&g=2016-12-01), is van overeenkomstige toepassing.
+2. [Artikel 21, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013132&hoofdstuk=1&paragraaf=6&artikel=21&z=2017-03-01&g=2017-03-01), is van overeenkomstige toepassing.
 
 ### Hoofdstuk 2. Openbaar ministerie en procureur-generaal bij de Hoge Raad
 
