@@ -4,7 +4,7 @@ identifier: "BWBR0002478"
 country: "nl"
 rank: "rijks_kb"
 publication_date: "2017-03-01"
-last_updated: "2010-10-10"
+last_updated: "2017-03-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0002478"
 soort: "rijksKB"
@@ -48,47 +48,45 @@ Hebben goedgevonden en verstaan:
 
 ##### Artikel 1
 
-Voor de toepassing van dit Besluit wordt verstaan onder "termijn van dagvaarding": de termijn van dagvaarding terzake van een beroep in cassatie als bedoeld in § 2 van de Rijkswet cassatierechtspraak voor Aruba, Curaçao, Sint Maarten en voor Bonaire, Sint Eustatius en Saba.
+1. Ter zake van een beroep in cassatie als bedoeld in § 2 van de Rijkswet rechtsmacht Hoge Raad voor Aruba, Curaçao en Sint Maarten en Bonaire, Sint Eustatius en Saba, gelden de volgende termijnen van verschijning:
+
+- a. indien de verweerder een bekende woonplaats of een bekend werkelijk verblijf heeft in Aruba, Curaçao, Sint Maarten of in Bonaire, Sint Eustatius of Saba, minimaal drie maanden en maximaal twaalf maanden.
+
+- b. indien de verweerder een bekende woonplaats of een bekend werkelijk verblijf heeft in het Europese deel van het Koninkrijk of in een lidstaat van de Europese Unie of indien de woonplaats of werkelijke verblijfplaats van de verweerder onbekend is, minimaal vier weken en maximaal zes maanden.
+
+- c. indien de verweerder geen bekende woonplaats of een bekend werkelijk verblijf heeft in Aruba, Curaçao, Sint Maarten of in Bonaire, Sint Eustatius of Saba, noch in het Europese deel van het Koninkrijk of in een andere lidstaat van de Europese Unie, maar in een andere staat een bekende woonplaats of een bekend werkelijk verblijf heeft, minimaal drie maanden en maximaal twaalf maanden.
+
+- d. indien in rechte worden opgeroepen houders van aandelen in geldleningen of maatschappijen welke niet op naam staan en waarvan de eigenaars uit dien hoofde onbekend zijn, minimaal zes weken en maximaal zes maanden.
+
+2. De termijnen van verschijning vangen aan op de eerste dag na de dag van indiening van de procesinleiding bij de Hoge Raad.
 
 ##### Artikel 2
 
-Voor hen, die in Aruba, Curaçao en Sint Maarten en Bonaire, Sint Eustatius en Saba wonen of verblijfhouden, is de gewone termijn van dagvaarding ten minste twee maanden.
+Vervallen
 
 ##### Artikel 3
 
-In geval de gedaagde geen woonplaats binnen Aruba, Curaçao en Sint Maarten en Bonaire, Sint Eustatius en Saba heeft, daar ook geen bekende werkelijke verblijfplaats bezit en zijn woonplaats buiten Aruba, Curaçao en Sint Maarten en Bonaire, Sint Eustatius en Saba onbekend is, en tevens in het geval in rechte worden opgeroepen houders van aandelen in geldleningen of maatschappijen welke niet op naam staan en waarvan de eigenaars uit dien hoofde onbekend zijn, is de termijn van dagvaarding ten minste drie maanden.
+Vervallen
 
 ##### Artikel 4
 
-1. Indien de gedaagde, die binnen Aruba, Curaçao en Sint Maarten en Bonaire, Sint Eustatius en Saba noch een bekende woonplaats noch een bekend werkelijk verblijf bezit, daarbuiten een bekende woonplaats heeft, gelden de hierna volgende termijnen van dagvaarding:
-
-- a. indien de gedaagde in Amerika of in Europa woont: ten minste drie maanden;
-
-- b. indien de gedaagde elders woont: ten minste vier maanden.
-
-2. Indien de eiser in het geval, in het vorige lid bedoeld, een authentiek afschrift van de dagvaarding binnen vier weken na de dag van het exploot door een openbaar ambtenaar in het land van bestemming aan de gedaagde doet uitreiken, zijn de termijnen van dagvaarding:
-
-- a. indien de gedaagde in het Europese deel van Nederland woont: ten minste zes weken;
-
-- b. indien de gedaagde elders woont: ten minste twee maanden.
-
-3. De vervulling van de voorwaarde, bedoeld in het vorige lid, kan slechts worden bewezen door een ten dienenden dage overgelegd authentiek verbaal van de openbare ambtenaar, waarin deze verklaart een hem door de exploterende deurwaarder toegezonden afschrift der dagvaarding op diens verzoek op de door hem vermelde dag aan de gedaagde in persoon of aan diens woonplaats te hebben uitgereikt. De dagvaarding moet melding maken van het door de deurwaarder te doen verzoek.
+Vervallen
 
 ##### Artikel 5
 
-De termijnen, in de vorige artikelen vermeld, kunnen op verzoek van de eiser, zo nodig onder het stellen van voorwaarden, door het Gemeenschappelijk Hof van Justitie van Aruba, Curaçao, Sint Maarten en van Bonaire, Sint Eustatius en Saba worden verkort. In dat geval worden de vergunningen en de voorwaarden, waaronder deze zijn verleend, aan het hoofd van het exploot gesteld en hiermede gelijktijdig geregistreerd.
+Vervallen
 
 ##### Artikel 6
 
-Indien een exploot aan iemand, die buiten Aruba, Curaçao en Sint Maarten en Bonaire, Sint Eustatius en Saba woonachtig is, aan zijn persoon binnen Aruba, Curaçao en Sint Maarten en Bonaire, Sint Eustatius en Saba wordt gedaan of indien de betrokkene in een bepaalde zaak woonplaats binnen Aruba, Curaçao en Sint Maarten en Bonaire, Sint Eustatius en Saba heeft gekozen, gelden de termijnen van dagvaarding, voor ingezetenen van Aruba, Curaçao en Sint Maarten en Bonaire, Sint Eustatius en Saba vastgesteld.
+Vervallen
 
 ##### Artikel 7
 
-De in artikel 5, derde lid, van de Rijkswet cassatierechtspraak voor Aruba, Curaçao, Sint Maarten en voor Bonaire, Sint Eustatius en Saba bedoelde termijn bedraagt veertien vrije dagen.
+Vervallen
 
 ##### Artikel 8
 
-De in artikel 11, eerste lid, van de Rijkswet cassatierechtspraak voor Aruba, Curaçao, Sint Maarten en voor Bonaire, Sint Eustatius en Saba bedoelde termijn voor het instellen van beroep in cassatie in strafzaken bedraagt één maand voor de verdachte, die geen woonplaats heeft op het eiland waar de beslissing, tegen welke hij beroep in cassatie instelt, is uitgesproken.
+De in artikel 11, eerste lid, van de Rijkswet rechtsmacht Hoge Raad voor Aruba, Curaçao, Sint Maarten en voor Bonaire, Sint Eustatius en Saba bedoelde termijn voor het instellen van beroep in cassatie in strafzaken bedraagt één maand voor de verdachte, die geen woonplaats heeft op het eiland waar de beslissing, tegen welke hij beroep in cassatie instelt, is uitgesproken.
 
 ##### Artikel 9
 
@@ -100,6 +98,6 @@ Onze Minister van Justitie is belast met de uitvoering van dit besluit, dat in h
 
 ##### Artikel 10
 
-Dit besluit wordt aangehaald als: Besluit termijnen Rijkswet cassatierechtspraak voor Aruba, Curaçao, Sint Maarten en voor Bonaire, Sint Eustatius en Saba.
+Dit besluit wordt aangehaald als: Besluit termijnen Rijkswet rechtsmacht Hoge Raad voor Aruba, Curaçao, Sint Maarten en voor Bonaire, Sint Eustatius en Saba.
 
 Onze Minister van Justitie is belast met de uitvoering van dit besluit, dat in het **Staatsblad**, in het **Gouvernementsblad** van Suriname en het **Publicatieblad** van de Nederlandse Antillen zal worden geplaatst en waarvan afschrift zal worden gezonden aan de Raad van State van het Koninkrijk.
