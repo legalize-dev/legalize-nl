@@ -139,15 +139,3 @@ Deze regeling treedt in werking met ingang van 1 maart 2017 en vervalt met ingan
 Deze regeling wordt aangehaald als: Subsidieregeling medisch noodzakelijke zorg aan onverzekerden.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
-
-##### Artikel 3a
-
-In afwijking van [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039230&artikel=3&z=2018-03-01&g=2018-03-01), kan de Minister subsidie verstrekken aan zorgaanbieders voor het verlenen van medisch noodzakelijke zorg aan een onverzekerde, die niet verzekeringsplichtig is of waarvan de verzekeringsplicht niet is vast te stellen, uitsluitend indien de verleende zorg SEH, acute GGZ in een crisissituatie, ambulancevervoer of farmaceutische zorg betreft.
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
-
-##### Artikel 3a
-
-Vervallen
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
