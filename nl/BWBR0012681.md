@@ -4,7 +4,7 @@ identifier: "BWBR0012681"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-10-08"
-last_updated: "2016-07-01"
+last_updated: "2017-03-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0012681"
 soort: "ministeriele-regeling"
@@ -214,7 +214,9 @@ Als gespen behorende bij de Herinneringsmedaille Internationale Missies worden i
 
 - 5°. de Multinational Force and Observers ‘MFO’, voor zover deze deelname heeft plaatsgevonden in en rondom El Gorah, Egypte, vanaf 14 januari 2013;
 
-- 6°. de operatie (NLD) Capacity Building Mission Iraq ‘CBMI’, voor zover deze deelname heeft plaatsgevonden in Irak en Koeweit, vanaf 25 september 2014: MULTINATIONALE OPERATIES;
+- 6°. de operatie (NLD) Capacity Building Mission Iraq ‘CBMI’, voor zover deze deelname heeft plaatsgevonden in Irak en Koeweit, vanaf 25 september 2014;
+
+- 7°. de operatie Forward Support Element (FSE) Mirage vanaf 1 januari 2015 tot 1 december 2016 voor zover deze deelname heeft plaatsgevonden in de Verenigde Arabische Emiraten: MULTINATIONALE OPERATIES;
 
 - hh. voor deelname aan SSR operaties van Nederland:
 
