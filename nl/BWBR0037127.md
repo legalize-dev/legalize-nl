@@ -4,7 +4,7 @@ identifier: "BWBR0037127"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-04-01"
-last_updated: "2017-01-01"
+last_updated: "2017-03-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0037127"
 soort: "ministeriele-regeling"
@@ -112,7 +112,7 @@ Deze regeling wordt aangehaald als: Regeling elektronisch berichtenverkeer Belas
 |   | [Artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=8), eerste lid, jo. [artikel 9, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=9) | aangifte IB niet-winst | x |   |   |   |
 |   | idem | aangifte IB-winst |   | x | SBR/Digipoort MijnBelastingdienst | PKI Overheid services certificaat DigiD |
 |   | idem | aangifte Vpb |   | x | SBR/Digipoort MijnBelastingdienst Ondernemers | PKI Overheid services certificaat Door Belastingdienst verstrekte gebruikersnaam en wachtwoord |
-|   | Artikel 8, eerste lid, jo. [artikel 10, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=10) | aangifte loonbelasting, met uitzondering van de aangifte voor de pseudo-eindheffing, bedoeld in [artikel 32bb van de Wet op de loonbelasting 1964](https://wetten.overheid.nl/jci1.3:c:BWBR0002471&artikel=32bb) |   | x | SBR/Digipoort BAPI File oriented service (FOS) MijnBelastingdienst Ondernemers | PKI Overheid services certificaat BAPI-certificaat PKI Overheid services certificaat Door Belastingdienst verstrekte gebruikersnaam en wachtwoord |
+|   | [Artikel 8, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=8), jo. [artikel 10, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=10) | aangifte loonbelasting, met uitzondering van de aangifte voor de pseudo-eindheffing, bedoeld in [artikel 32bb van de Wet op de loonbelasting 1964](https://wetten.overheid.nl/jci1.3:c:BWBR0002471&artikel=32bb) |   | x | SBR/Digipoort MijnBelastingdienst Ondernemers | PKI Overheid services certificaat Door Belastingdienst verstrekte gebruikersnaam en wachtwoord |
 |   | idem | aangifte voor de pseudo-eindheffing, bedoeld in artikel 32bb van de Wet op de loonbelasting 1964 | x |   |   |   |
 |   | idem | aangifte OB |   | x | SBR/Digipoort MijnBelastingdienst Ondernemers | PKI Overheid services certificaat Door Belastingdienst verstrekte gebruikersnaam en wachtwoord |
 |   | Artikel 8, eerste lid | aangifte voor alle andere belastingmiddelen | x |   |   |   |
