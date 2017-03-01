@@ -161,23 +161,3 @@ Dit besluit wordt aangehaald als: Besluit Adviescollege levenslanggestraften.
 Dit besluit treedt in werking met ingang van 1 maart 2017.
 
 Dit besluit zal met de toelichting in de Staatscourant worden geplaatst.
-
-##### Artikel 1a
-
-Dit besluit is mede van toepassing in de openbare lichamen Bonaire, Sint Eustatius en Saba.
-
-Dit besluit zal met de toelichting in de Staatscourant worden geplaatst.
-
-##### Artikel 4a
-
-1. Op verzoek van de Minister brengt het Adviescollege het eerste advies bedoeld in [artikel 4, eerste lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0038779&artikel=4&z=2026-01-31&g=2026-01-31), uit op een eerder tijdstip dan het in artikel 4, tweede lid bedoelde tijdstip in geval de tenuitvoerlegging van de in het buitenland opgelegde levenslange straf is overgedragen aan Nederland op grond van de [Wet wederzijdse erkenning en tenuitvoerlegging vrijheidsbenemende en voorwaardelijke sancties](https://wetten.overheid.nl/jci1.3:c:BWBR0031814) of op grond van de [Wet overdracht tenuitvoerlegging strafvonnissen](https://wetten.overheid.nl/jci1.3:c:BWBR0004028).
-
-2. Het eerste advies van het Adviescollege, bedoeld in [artikel 4, eerste lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0038779&artikel=4&z=2026-01-31&g=2026-01-31), wordt uitgebracht uiterlijk drie jaar voor het tijdstip van de beoordeling van de mogelijkheid tot gratieverlening dat is opgenomen in het besluit van de Minister ten aanzien van de strafoverdracht.
-
-3. Het eerste advies van het Adviescollege, bedoeld in [artikel 4, eerste lid onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0038779&artikel=4&z=2026-01-31&g=2026-01-31), wordt uitgebracht uiterlijk drie jaar nadat de levenslanggestrafte bij de Minister een verzoek heeft ingediend indien uit het besluit van de Minister ten aanzien van de strafoverdracht blijkt dat voor de aanvang van de advisering een verzoek van de levenslanggestrafte nodig is.
-
-4. [Artikel 4, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0038779&artikel=4&z=2026-01-31&g=2026-01-31) is van toepassing indien uit het besluit van de Minister ten aanzien van de strafoverdracht blijkt dat voor de beoordeling van de mogelijkheid van gratieverlening op het in dat besluit genoemde tijdstip een verzoek van de levenslanggestrafte nodig is en de levenslanggestrafte heeft nagelaten een dergelijk verzoek in te dienen.
-
-5. Uiterlijk drie jaar na het in het tweede lid bedoelde tijdstip wordt aan de hand van een voorstel tot gratieverlening als bedoeld in [artikel 19 van de Gratiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0004257&artikel=19) de mogelijkheid tot gratieverlening beoordeeld.
-
-Dit besluit zal met de toelichting in de Staatscourant worden geplaatst.
