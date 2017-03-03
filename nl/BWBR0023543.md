@@ -4,7 +4,7 @@ identifier: "BWBR0023543"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-03-18"
-last_updated: "2016-07-01"
+last_updated: "2017-03-03"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0023543"
 soort: "ministeriele-regeling"
@@ -114,7 +114,7 @@ Voor de toepassing van dit besluit en de daarop berustende bepalingen wordt met 
 
 4. Wijziging van de bijlage geschiedt door de secretaris-generaal.
 
-5. De directeur Personeel & Organisatie draagt zorg voor bekendmaking van de bijlage door openbare ter inzage legging op het Ministerie en door plaatsing op het intranet en de internetsite van het Ministerie.
+5. De directeur Organisatie & Bedrijfsvoering draagt zorg voor bekendmaking van de bijlage door openbare ter inzage legging op het Ministerie en door plaatsing op het intranet en de internetsite van het Ministerie.
 
 ##### Artikel 4. Voorbehouden aan bewindspersonen
 
@@ -184,7 +184,7 @@ Voor de toepassing van dit besluit en de daarop berustende bepalingen wordt met 
 
 ##### Artikel 8. Mandaat aan het hoofd van de baten-lastendienst Nationaal Archief
 
-1. Het hoofd van het Nationaal Archief heeft, onverminderd [artikel 4, eerste lid, onderdeel l](https://wetten.overheid.nl/jci1.3:c:BWBR0023543&artikel=4&z=2016-07-01&g=2016-07-01), en de mandaatverlening aan de secretaris-generaal en de directeur-generaal, binnen het kader van de managementafspraak mandaat ten aanzien van alle aangelegenheden die verband houden met de taken en verantwoordelijkheden op zijn werkterrein.
+1. Het hoofd van het Nationaal Archief heeft, onverminderd [artikel 4, eerste lid, onderdeel l](https://wetten.overheid.nl/jci1.3:c:BWBR0023543&artikel=4&z=2017-03-03&g=2017-03-03), en de mandaatverlening aan de secretaris-generaal en de directeur-generaal, binnen het kader van de managementafspraak mandaat ten aanzien van alle aangelegenheden die verband houden met de taken en verantwoordelijkheden op zijn werkterrein.
 
 2. Het hoofd van het Nationaal Archief is budgethouder voor de hem door de secretaris-generaal toegewezen budgetten.
 
@@ -200,7 +200,7 @@ Voor de toepassing van dit besluit en de daarop berustende bepalingen wordt met 
 
 2. De directeuren-generaal maken managementafspraken met de volgens de bijlage onder hen ressorterende hoofden van de in de bijlage opgenomen organisatieonderdelen.
 
-3. De directeur Personeel & Organisatie draagt zorg voor bekendmaking van de managementafspraken voor zover het betreft daarin opgenomen beperkingen of uitbreidingen van een mandaat dat op grond van dit besluit is verleend, door openbare ter inzage legging op het Ministerie en door plaatsing op het intranet en de internetsite van het Ministerie.
+3. De directeur Organisatie & Bedrijfsvoering draagt zorg voor bekendmaking van de managementafspraken voor zover het betreft daarin opgenomen beperkingen of uitbreidingen van een mandaat dat op grond van dit besluit is verleend, door openbare ter inzage legging op het Ministerie en door plaatsing op het intranet en de internetsite van het Ministerie.
 
 ##### Artikel 11. Ondermandaat en mandaatregister
 
@@ -208,7 +208,7 @@ Voor de toepassing van dit besluit en de daarop berustende bepalingen wordt met 
 
 2. Voor het verlenen van ondermandaat door een directeur is de goedkeuring vereist door de desbetreffende leidinggevende functionaris. Voor machtiging om op te treden in gerechtelijke procedures en ondermandaat inzake het passeren van notariële akten is de goedkeuring niet vereist.
 
-3. De directeur Personeel & Organisatie draagt zorg voor bekendmaking van krachtens dit besluit verleende algemene ondermandaten door openbare ter inzage legging op het Ministerie en door plaatsing op het intranet en de internetsite van het Ministerie. In afwijking hiervan dragen de hoofden van inspecties en de functionarissen die aan het hoofd staan van een baten-lastendienst zorg voor bekendmaking van de krachtens dit besluit door hen verleende ondermandaten door openbare ter inzage legging op het Ministerie en plaatsing op het intranet en de internetsite van het Ministerie.
+3. De directeur Organisatie & Bedrijfsvoering draagt zorg voor bekendmaking van krachtens dit besluit verleende algemene ondermandaten door openbare ter inzage legging op het Ministerie en door plaatsing op het intranet en de internetsite van het Ministerie. In afwijking hiervan dragen de hoofden van inspecties en de functionarissen die aan het hoofd staan van een baten-lastendienst zorg voor bekendmaking van de krachtens dit besluit door hen verleende ondermandaten door openbare ter inzage legging op het Ministerie en plaatsing op het intranet en de internetsite van het Ministerie.
 
 4. De functionarissen genoemd in lid 3 houden een register bij van de handtekeningen van de functionarissen, waarvan het mandaat door hen bekend is gemaakt.
 
@@ -222,7 +222,7 @@ Voor de toepassing van dit besluit en de daarop berustende bepalingen wordt met 
 
 - c. stukken gericht aan de Nationale ombudsman,
 
-- d. het verlenen van mandaat inzake een bevoegdheid, bedoeld in [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0023543&artikel=13&z=2016-07-01&g=2016-07-01),
+- d. het verlenen van mandaat inzake een bevoegdheid, bedoeld in [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0023543&artikel=13&z=2017-03-03&g=2017-03-03),
 
 - e. de afwikkeling van een gemeld vermoeden van een misstand,
 
@@ -244,7 +244,7 @@ Voor de toepassing van dit besluit en de daarop berustende bepalingen wordt met 
 
 - c. de voorlopige buiteninvorderingstelling van vorderingen op derden, het kwijtschelden van vorderingen op derden, het deelnemen in een NV of BV met een financieel belang en het sluiten van huur-, huurkoop- en leaseovereenkomsten, een en ander voor een bedrag tot € 500.000 voor de duur van de overeenkomst.
 
-2. De directeur-generaal DUO is gemandateerd met betrekking tot het nemen van beslissingen op bezwaar- en beroepschriften onverminderd [artikel 7, vierde lid, onderdeel f](https://wetten.overheid.nl/jci1.3:c:BWBR0023543&artikel=7&z=2016-07-01&g=2016-07-01), en [artikel 14, eerste lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0023543&artikel=14&z=2016-07-01&g=2016-07-01).
+2. De directeur-generaal DUO is gemandateerd met betrekking tot het nemen van beslissingen op bezwaar- en beroepschriften onverminderd [artikel 7, vierde lid, onderdeel f](https://wetten.overheid.nl/jci1.3:c:BWBR0023543&artikel=7&z=2017-03-03&g=2017-03-03), en [artikel 14, eerste lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0023543&artikel=14&z=2017-03-03&g=2017-03-03).
 
 3. De directeur-generaal Hoger Onderwijs, Beroepsonderwijs, Wetenschap en Emancipatie, de directeur-generaal Primair en Voortgezet Onderwijs en de directeur-generaal Cultuur en Media zijn met uitsluiting van anderen, met uitzondering van de secretaris-generaal, gemandateerd met betrekking tot het geven van toestemming voor schatkistbankieren.
 
@@ -268,13 +268,15 @@ Voor de toepassing van dit besluit en de daarop berustende bepalingen wordt met 
 
 - 2°. die door een directeur-generaal of de inspecteur-generaal van het onderwijs aan de secretaris-generaal ter afhandeling worden voorgelegd, tenzij zij naar het oordeel van de secretaris-generaal door een andere directeur-generaal of inspecteur-generaal van het onderwijs moeten worden behandeld;
 
-- d. het beslissen op bezwaren, voor zover die betrekking hebben op handelingen of besluiten waarbij een ambtenaar als bedoeld in [artikel 1 van de Ambtenarenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0001947&artikel=1) als zodanig belanghebbende is.
+- d. het beslissen op bezwaren, voor zover dit betrekking heeft op handelingen of besluiten waarbij een ambtenaar als bedoeld in [artikel 1 van de Ambtenarenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0001947&artikel=1) als zodanig belanghebbende is. In het geval het primaire besluit reeds door de secretaris-generaal zelf is genomen wordt dit, voor het nemen van de beslissing op bezwaar, gelijk gesteld aan een situatie van verhindering als bedoeld in [artikel 15, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023543&artikel=15&z=2017-03-03&g=2017-03-03).
 
 2. Onverminderd het eerste lid hebben de secretaris-generaal, de directeuren-generaal en de inspecteur-generaal van het onderwijs mandaat ten aanzien van personele besluiten betreffende onder hen ressorterende medewerkers tenzij bij wettelijk voorschrift anders is of wordt bepaald.
 
 3. De secretaris-generaal, de directeuren-generaal en de inspecteur-generaal van het onderwijs kunnen ondermandaat verlenen aan functionarissen binnen hun organisatieonderdeel ten aanzien van besluiten als bedoeld in het tweede lid.
 
-4. Onverminderd het eerste tot en met het derde lid hebben direct-leidinggevenden binnen het kader van de managementafspraak mandaat ten aanzien van de personele aangelegenheden die verband houden met de taken en verantwoordelijkheden op hun werkterrein voor zover deze worden afgehandeld via het P-Direktportaal.
+4. Onverminderd het eerste tot en met het derde lid hebben direct-leidinggevenden binnen het kader van de managementafspraak mandaat ten aanzien van de personele aangelegenheden en besluiten die verband houden met de taken en verantwoordelijkheden op hun werkterrein voor zover deze worden afgehandeld via het P-direktportaal.
+
+5. Het bepaalde in [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBR0023543&artikel=16&z=2017-03-03&g=2017-03-03) is niet van toepassing op de in het vorige lid genoemde personele besluiten die via het P-direktportaal worden afgehandeld.
 
 ##### Artikel 15. Afwezigheid of verhindering
 
@@ -300,7 +302,7 @@ handtekening van de gemandateerde,
 
 naam van de gemandateerde.
 
-2. De gemandateerde is gehouden in de ondertekening van stukken als bedoeld in [artikel 14a](https://wetten.overheid.nl/jci1.3:c:BWBR0023543&artikel=14a&z=2016-07-01&g=2016-07-01) zijn vertegenwoordigingsbevoegdheid tot uitdrukking te brengen door opneming van de formule:
+2. De gemandateerde is gehouden in de ondertekening van stukken als bedoeld in [artikel 14a](https://wetten.overheid.nl/jci1.3:c:BWBR0023543&artikel=14a&z=2017-03-03&g=2017-03-03) zijn vertegenwoordigingsbevoegdheid tot uitdrukking te brengen door opneming van de formule:
 
 **De minister van Onderwijs, Cultuur en Wetenschap en de minister van Infrastructuur en Milieu,**
 
@@ -1286,19 +1288,17 @@ Het managementteam van het ministerie bestaat uit:
 
 - –. de secretaris-generaal (SG)
 
-- –. de plaatsvervangend secretaris-generaal (PSG)
-
 - –. de directeuren-generaal (DG)
 
 - –. de inspecteur-generaal van het Onderwijs (IGO).
 
 De SG is ambtelijk verantwoordelijk voor het functioneren van het ministerie en voor de voorbereiding en uitvoering van het beleid waarvoor de politieke leiding de politieke verantwoordelijkheid draagt. De SG heeft als hoogste ambtenaar tot taak te zorgen voor een goede onderlinge afstemming van de verschillende beleidsterreinen en voor de uitvoering en uitvoerbaarheid van het ontwikkelde beleid.
 
-De SG wordt in de ambtelijke leiding van het departement bijgestaan door een PSG. Deze vervangt hem bij zijn afwezigheid in al zijn taken en behartigt, namens de SG, de SG-taken op het gebied van het beheer van het departement. De PSG is verantwoordelijk voor de directies binnen haar kolom. Voor de inhoudelijke beleidsthema's van de directie Kennis is de SG echter eerste aanspreekpunt.
+Daarnaast wordt hij in zijn taak bijgestaan door de directeuren-generaal Hoger Onderwijs, Beroepsonderwijs, Wetenschap en Emancipatie (DGHBWE), de directeur-generaal Primair en Voortgezet Onderwijs (DGPV), de directeur-generaal Cultuur en Media (DGCM) en de directeur-generaal Dienst Uitvoering Onderwijs (DGDUO). Deze directeuren-generaal zijn ambtelijk verantwoordelijk voor de beleidsterreinen van de onder hen ressorterende directies en voor de samenhang tussen die beleidsterreinen. Zij kunnen daarnaast ambtelijk verantwoordelijk zijn voor één of meer specifieke beleidsonderwerpen of projecten, die niet zonder meer tot de hierboven genoemde beleidsterreinen kunnen worden gerekend.
 
-Daarnaast wordt hij in zijn taak bijgestaan door de directeuren-generaal Hoger Onderwijs, Beroepsonderwijs, Wetenschap en Emancipatie (DGHBWE), de directeur-generaal Primair en Voortgezet Onderwijs (DGPV), de directeur-generaal Cultuur en Media (DGCM) en de directeur-generaal Dienst Uitvoering Onderwijs (DGDUO). Deze directeuren-generaal zijn ambtelijk verantwoordelijk voor de beleidsterreinen van de onder hen ressorterende directies en voor de samenhang tussen die beleidsterreinen. Zij kunnen daarnaast ambtelijk verantwoordelijk zijn voor één of meer specifieke beleidsonderwerpen of projecten, die niet zonder meer tot de hierboven genoemde beleidsterreinen kunnen worden gerekend. DGDUO heeft zitting in het managementteam, om zo te waarborgen dat de onder hem ressorterende uitvoeringsinstantie betrokken is bij de voorbereiding van en de besluitvorming over nieuw beleid en om de betrokkenheid van de DG's bij de uitvoerbaarheid van beleid te waarborgen.
+DGDUO heeft zitting in het managementteam, om zo te waarborgen dat de onder hem ressorterende uitvoeringsinstantie betrokken is bij de voorbereiding van en de besluitvorming over nieuw beleid en om de betrokkenheid van de DG's bij de uitvoerbaarheid van beleid te waarborgen.
 
-De SG, de DGHBWE, de DGPV en de DGCM worden ondersteund door een stafbureau. Deze stafbureaus zijn verantwoordelijk voor de secretariële ondersteuning en/of persoonlijke ambtelijke ondersteuning aan de SG, de DGHBWE, de DGPV onderscheidenlijk de DGCM. De SG, de DGHBWE, de DGPV onderscheidenlijk de DGCM zijn direct-leidinggevende van de medewerkers van de stafbureaus.
+De SG, de DGHBWE, de DGPV en de DGCM worden ondersteund door een stafbureau. Deze stafbureaus zijn verantwoordelijk voor de secretariële ondersteuning en/of persoonlijke ambtelijke ondersteuning aan de SG, de DGHBWE, de DGPV onderscheidenlijk de DGCM.
 
 Het Ministerie bestaat uit de volgende dienstonderdelen:
 
@@ -1310,23 +1310,7 @@ Het Ministerie bestaat uit de volgende dienstonderdelen:
 
 - 2e. Erfgoedinspectie
 
-- 3.2. organisatieonderdelen die rechtstreeks ressorteren onder de pSG:
-
-- 1e. Bestuursondersteuning en Advies (BOA)
-
-- 2e. Communicatie (COM)
-
-- 3e. Facilitair Management en ICT (FM/ICT)
-
-- 4e. Financieel-Economische Zaken (FEZ)
-
-- 5e. Kennis
-
-- 6e. Personeel & Organisatie (P&O)
-
-- 7e. Wetgeving en Juridische Zaken (WJZ)
-
-- 3.3. organisatieonderdelen die rechtstreeks ressorteren onder de DGPV:
+- 3.2. organisatieonderdelen die rechtstreeks ressorteren onder de DGPV:
 
 - a. Beleidsdirecties gericht op het stelsel:
 
@@ -1346,7 +1330,7 @@ Het Ministerie bestaat uit de volgende dienstonderdelen:
 
 - 2e. Onderwijsraad
 
-- 3.4. organisatieonderdelen die rechtstreeks ressorteren onder de DGHBWE:
+- 3.3. organisatieonderdelen die rechtstreeks ressorteren onder de DGHBWE:
 
 - a. Beleidsdirecties gericht op het stelsel:
 
@@ -1366,7 +1350,7 @@ Het Ministerie bestaat uit de volgende dienstonderdelen:
 
 - 2e. College van beroep voor het hoger onderwijs (CBHO)
 
-- 3.5. organisatieonderdelen die rechtstreeks ressorteren onder de DGCM:
+- 3.4. organisatieonderdelen die rechtstreeks ressorteren onder de DGCM:
 
 - a. Beleidsdirecties gericht op het stelsel:
 
@@ -1390,7 +1374,7 @@ Het Ministerie bestaat uit de volgende dienstonderdelen:
 
 - –. Raad voor Cultuur (RvC)
 
-- 3.6. organisatieonderdelen die rechtstreeks ressorteren onder de DGDUO:
+- 3.5. organisatieonderdelen die rechtstreeks ressorteren onder de DGDUO:
 
 - a. Baten-lastendienst:
 
@@ -1402,21 +1386,17 @@ De directie BOA is verantwoordelijk voor de ondersteuning van de sturing op de p
 
 De directie COM is verantwoordelijk voor de interne en externe communicatie van het departement.
 
-De directie FM/ICT verzorgt kaderstellend beleid en centrale regieorganisatie-taken voor het concern OCW naast decentrale regieorganisatie-taken en ondersteuning voor het bestuursdepartement op het gebied van Facilitair management, Huisvesting, Inkoop, Duurzaamheid en services (telefoon, receptie, vervoer, beveiliging, post, archief, huishoudelijke zaken) en ICT (beleid en beheer en diensten conform productdienstencatalogus).
+De Directie Organisatie & Bedrijfsvoering opereert vanuit de kaders die in SGO5-verband de afgelopen jaren zijn ontwikkeld voor een nieuwe inrichting van de hoofdtaken van de departementale bedrijfsvoering op de verschillende bedrijfsvoeringsdomeinen: strategisch advies en control, afnemer van generieke dienstverlening SSO, liaisonfunctie bij maatwerk en bedieningsgebied Hoftoren. De directie is verantwoordelijk voor:
+
+- •. de strategische advisering aan leden van het managementteam OCW, over de specifieke en generieke ICT en informatiehuishouding voor wat betreft de control, de doorontwikkeling en het waarborgen van de continuïteit voor de strategische advisering aan leden van het managementteam OCW op de terreinen huisvesting, facilitair management en inkoop
+
+- •. strategisch en tactische advisering op het gebied van personeels- en organisatiewikkeling
+
+- •. alle operationele personele, informatieve, formatieve en financiële administratieve processen, die de directie Organisatie & Bedrijfsvoering uitvoert ten behoeve van haar afnemers: het concern en het bestuursdepartement.
 
 De directie FEZ is verantwoordelijk voor het begrotingsproces en bewaakt de uitkomsten daarvan. Tevens is de directie verantwoordelijk voor de interne planning & control cyclus van het Ministerie. Vanuit de financiële expertise ondersteunt zij bij alle aspecten van beleid en bedrijfsvoering. Dit gebeurt zowel op het niveau van de DG (DG control) als op het niveau van SG respectievelijk minister (Concern control). De directie is belast met de algemene beleidsvorming en advisering over toezicht. De directie is tevens verantwoordelijk voor de beleidsontwikkeling op het terrein arbeidszaken.
 
 De directie Kennis is verantwoordelijk voor het verbinden van beleidsvorming, wetenschap en praktijk. Daarmee wordt de kwaliteit van de beleidsvorming vergroot en wordt de relevantie van wetenschappelijk onderzoek op OCW-gebied versterkt. Door te werken aan het vergroten van het inzicht in de prestaties van de OCW-stelsels bij alle actoren, worden die actoren in staat gesteld de eigen prestaties te verhogen.
-
-De directie P&O verzorgt binnen de door de rijksoverheid gegeven kaders:
-
-- –. centrale regieorganisatie-, beleids- en adviestaken voor het Concern OCW/(p)SG en MT OCW;
-
-- –. op directieniveau decentrale regieorganisatie- en adviestaken voor het management en de medewerkers van het bestuursdepartement en ook aan afzonderlijke diensten;
-
-- –. administratieve beheertaken (concernbreed) voor zover niet ondergebracht in P-Direkt.
-
-Tevens is de directie P&O verantwoordelijk voor de ontwikkeling en het beheer van managementinformatie en het uitvoeren van planning en control-taken inclusief advies en rapportages op het gebied van de bedrijfsvoering (apparaatskosten en centrale budgetten).
 
 De directie WJZ is verantwoordelijk voor de totstandkoming van de wet- en regelgeving van OCW. Voorts is de directie WJZ verantwoordelijk voor de advisering op het terrein van bestuurlijke en juridische aangelegenheden, voor de toetsing van internationale- en EU-regelgeving alsmede beleid en regels waarvan de totstandkoming tot de rechtstreekse verantwoordelijkheid van de andere directies behoort.
 
@@ -1488,9 +1468,9 @@ De Erfgoedinspectie ziet toe op de naleving van:
 
 - –. de [Archiefwet](https://wetten.overheid.nl/jci1.3:c:BWBR0007376) en andere regelgeving op het gebied van het archiefbeheer door overheidsorganen;
 
-- –. de [Erfgoedwet](https://wetten.overheid.nl/jci1.3:c:BWBR0037521&wetgeving) en andere regelgeving op het gebied van archeologische monumenten, opgravingen en vondsten;
+- –. de [Erfgoedwet](https://wetten.overheid.nl/jci1.3:c:BWBR0037521) en andere regelgeving op het gebied van archeologische monumenten, opgravingen en vondsten;
 
-- –. de [Erfgoedwet](https://wetten.overheid.nl/jci1.3:c:BWBR0037521&wetgeving) en Besluiten op het gebied van beheer en behoud van gebouwde monumenten en beschermde stads en dorpsgezichten.
+- –. de [Erfgoedwet](https://wetten.overheid.nl/jci1.3:c:BWBR0037521) en Besluiten op het gebied van beheer en behoud van gebouwde monumenten en beschermde stads en dorpsgezichten.
 
 Zij rapporteert via de secretaris-generaal aan de bewindspersoon over de bevindingen en doet daarbij aanbevelingen.
 
