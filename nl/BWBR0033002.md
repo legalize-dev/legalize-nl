@@ -4,7 +4,7 @@ identifier: "BWBR0033002"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2020-01-01"
-last_updated: "2013-01-02"
+last_updated: "2017-03-03"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0033002"
 soort: "ministeriele-regeling"
@@ -42,9 +42,9 @@ Besluit:
 
 ##### Artikel 1
 
-1. Aan de voorzitter van de begeleidingscommissie voor het Sociaal Cultureel Planbureau, ingesteld bij het [Instellingsbesluit begeleidingscommissie voor het Sociaal en Cultureel Planbureau](https://wetten.overheid.nl/jci1.3:c:BWBR0032715), wordt een vergoeding per vergadering toegekend van € 333,11.
+1. Aan de voorzitter van de begeleidingscommissie voor het Sociaal Cultureel Planbureau, ingesteld bij het [Instellingsbesluit begeleidingscommissie voor het Sociaal en Cultureel Planbureau](https://wetten.overheid.nl/jci1.3:c:BWBR0032715), wordt een vergoeding per vergadering toegekend van 130% van de vergoeding per vergadering die aan de andere leden wordt toegekend.
 
-2. Aan de overige leden van de in het eerste lid bedoelde commissie, wordt een vergoeding per vergadering toegekend van € 256,24.
+2. Aan de overige leden van de in het eerste lid bedoelde commissie, wordt een vergoeding per vergadering toegekend van 3% van het maximum van salarisschaal 18 van [bijlage B van het Bezoldigingsbesluit Burgerlijke Rijksambtenaren 1984](https://wetten.overheid.nl/jci1.3:c:BWBR0003630&bijlage=B).
 
 3. In afwijking van het eerste en tweede lid wordt geen vergoeding verstrekt aan personen die op grond van [artikel 2, derde lid, van de Wet vergoedingen adviescolleges en commissies](https://wetten.overheid.nl/jci1.3:c:BWBR0024775&artikel=2) zijn uitgesloten van een vergoeding.
 
