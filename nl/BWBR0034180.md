@@ -4,7 +4,7 @@ identifier: "BWBR0034180"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-02-16"
-last_updated: "2016-11-25"
+last_updated: "2017-03-08"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0034180"
 soort: "ministeriele-regeling"
@@ -186,17 +186,17 @@ Deze regeling wordt aangehaald als: Kies- en referendumregeling.
 
 ### Model N 11. ([Wrr 67](https://wetten.overheid.nl/jci1.3:c:BWBR0036443&artikel=67)) Vaststelling aantal stemmen in gemeente/openbaar lichaam
 
+### Model N 11. ([Wrr 67](https://wetten.overheid.nl/jci1.3:c:BWBR0036443&artikel=67)) Bijlage (bij verkiezingen)
+
 ### Model O 3. ([Wrr 73](https://wetten.overheid.nl/jci1.3:c:BWBR0036443&artikel=73)) Proces-verbaal van het hoofdstembureau voor de verkiezing van de Tweede Kamer / het Europees Parlement / de provinciale staten van een provincie met meer dan één kieskring / het referendum
 
-### Model O 3. ([Wrr 73](https://wetten.overheid.nl/jci1.3:c:BWBR0036443&artikel=73)) Bijlage: bezwaren
-
-### Model P 22-1. Proces-verbaal van de verkiezingsuitslag van de Tweede Kamer / het Europees Parlement / provinciale staten
+### Model O 3. ([Wrr 73](https://wetten.overheid.nl/jci1.3:c:BWBR0036443&artikel=73)) Bijlage 1: bezwaren
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 ##### Artikel 2a
 
-De programmatuur, bedoeld in [artikel P 1, eerste lid, van het Kiesbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0004632&artikel=P_1), ten behoeve van de berekening van de uitslag van de verkiezingen of de berekening van de zetelverdeling, voldoet aan de in de [bijlage](https://wetten.overheid.nl/jci1.3:c:BWBR0034180&bijlage=2&z=2016-11-25&g=2016-11-25) bij artikel 2a van deze regeling opgenomen eisen.
+De programmatuur, bedoeld in [artikel P 1, eerste lid, van het Kiesbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0004632&artikel=P_1), ten behoeve van de berekening van de uitslag van de verkiezingen of de berekening van de zetelverdeling, voldoet aan de in de [bijlage](https://wetten.overheid.nl/jci1.3:c:BWBR0034180&bijlage=2&z=2017-03-08&g=2017-03-08) bij artikel 2a van deze regeling opgenomen eisen.
 
 ## Bijlage
 
@@ -212,7 +212,7 @@ De programmatuur, bedoeld in [artikel P 1, eerste lid, van het Kiesbesluit](http
 
 Stembiljet (kleur wit)
 
-### Model P 22-2. Proces-verbaal van de verkiezingsuitslag van de gemeenteraad / de eilandsraad / het algemeen bestuur van het waterschap / provinciale staten
+### Model O 3. ([Wrr 73](https://wetten.overheid.nl/jci1.3:c:BWBR0036443&artikel=73)) Bijlage 2 (bij verkiezingen)
 
 ## Bijlage 2. bij [artikel 2a](https://wetten.overheid.nl/jci1.3:c:BWBR0034180&artikel=2a&z=2014-10-14&g=2014-10-14) van de Kies- en referendumregeling
 
@@ -230,7 +230,7 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 1. Het model voor het schriftelijk volmachtbewijs voor de herindelingsverkiezingen van de leden van de gemeenteraad van de gemeente Meierijstad op woensdag 23 november 2016 luidt als volgt:
 
-### Model T 4. Verzoek om bij volmacht te stemmen voor de Eerste Kamer
+### Model P 22-1. Proces-verbaal van de verkiezingsuitslag van de Tweede Kamer / het Europees Parlement / provinciale staten
 
 ## Bijlage 2. bij [artikel 2a](https://wetten.overheid.nl/jci1.3:c:BWBR0034180&artikel=2a&z=2015-01-01&g=2015-01-01) van de Kies- en referendumregeling
 
@@ -240,11 +240,19 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 ##### Artikel 2b
 
-De programmatuur, bedoeld in [artikel 16 van het Besluit raadgevend referendum](https://wetten.overheid.nl/jci1.3:c:BWBR0036521&artikel=16), ten behoeve van de berekening van de uitslag van het referendum, voldoet aan de in de [bijlage bij artikel 2b](https://wetten.overheid.nl/jci1.3:c:BWBR0034180&bijlage=3&z=2016-11-25&g=2016-11-25) van deze regeling opgenomen eisen.
+De programmatuur, bedoeld in [artikel 16 van het Besluit raadgevend referendum](https://wetten.overheid.nl/jci1.3:c:BWBR0036521&artikel=16), ten behoeve van de berekening van de uitslag van het referendum, voldoet aan de in de [bijlage bij artikel 2b](https://wetten.overheid.nl/jci1.3:c:BWBR0034180&bijlage=3&z=2017-03-08&g=2017-03-08) van deze regeling opgenomen eisen.
 
-## Bijlage. bij [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0034180&artikel=1&z=2016-11-25&g=2016-11-25) van de Kies- en referendumregeling
+## Bijlage. bij [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0034180&artikel=1&z=2017-03-08&g=2017-03-08) van de Kies- en referendumregeling
 
 1. Het model voor de stempas voor de herindelingsverkiezingen van de leden van de gemeenteraad van de gemeente Meierijstad op woensdag 23 november 2016 luidt als volgt:
+
+### Model P 22-1. Bijlage 1: bezwaren
+
+### Model P 22-1. Bijlage 2
+
+### Model P 22-2. Proces-verbaal van de verkiezingsuitslag van de gemeenteraad / de eilandsraad / het algemeen bestuur van het waterschap / provinciale staten
+
+### Model T 4. Verzoek om bij volmacht te stemmen voor de Eerste Kamer
 
 ### Model T 11. Proces-verbaal van het stembureau voor de verkiezing van de Eerste Kamer
 
@@ -256,23 +264,15 @@ De programmatuur, bedoeld in [artikel 16 van het Besluit raadgevend referendum](
 
 ### Model W 1-2. Benoemingsbesluit in verband met niet toelaten kandidaat als lid
 
-### Model W 1-3. Benoemingsbesluit in verband met openvallen plaats
-
-### Model W 2. Verklaring dat kandidaat niet in aanmerking wil komen voor benoeming
-
-### Model W 4. Besluit dat geen opvolger in een opengevallen plaats wordt benoemd
-
-### Model W 5. Proces-verbaal loting bij plaatsvervanging
-
 ## Bijlage 2. bij [artikel 2a](https://wetten.overheid.nl/jci1.3:c:BWBR0034180&artikel=2a&z=2015-07-01&g=2015-07-01) van de Kies- en referendumregeling
 
-### Model Y 32. Verklaring stemmen voor Europees Parlement in Nederland
+### Model W 2. Verklaring dat kandidaat niet in aanmerking wil komen voor benoeming
 
 De programmatuur, bedoeld in [artikel P 1, eerste lid, van het Kiesbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0004632&artikel=P_1), ten behoeve van de berekening van de uitslag van de verkiezingen of de berekening van de zetelverdeling, voldoet aan de volgende eisen:
 
 ## Bijlage 3. bij [artikel 2b](https://wetten.overheid.nl/jci1.3:c:BWBR0034180&artikel=2b&z=2015-07-01&g=2015-07-01) van de Kies- en referendumregeling
 
-### Model Ya 9. Begeleidingsverklaring bij stukken voor het herstel van verzuimen
+### Model Y 13. Verklaring dat u zich niet in een andere lidstaat kandidaat stelt voor het Europees Parlement
 
 De programmatuur, bedoeld in [artikel 16 van het Besluit raadgevend referendum](https://wetten.overheid.nl/jci1.3:c:BWBR0036521&artikel=16), ten behoeve van de berekening van de uitslag van het referendum, voldoet aan de volgende eisen:
 
@@ -280,17 +280,17 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 U stemt door het rood maken van één wit stipje, geplaatst vóór de kandidaat van uw keuze. Het stembiljet wordt zo dicht gevouwen dat de kandidatenlijst niet zichtbaar is.
 
-### Model Y 13. Verklaring dat u zich niet in een andere lidstaat kandidaat stelt voor het Europees Parlement
+### Model W 1-3. Benoemingsbesluit in verband met openvallen plaats
 
 ## Bijlage 2. bij [artikel 2a](https://wetten.overheid.nl/jci1.3:c:BWBR0034180&artikel=2a&z=2015-09-12&g=2015-09-12) van de Kies- en referendumregeling
 
-### Model Y 35. Verklaring dat u in de lidstaat van uw herkomst niet bent uitgesloten van het recht om gekozen te worden/Declaration of non-exclusion from the right to stand for election in your home Member State
+### Model W 4. Besluit dat geen opvolger in een opengevallen plaats wordt benoemd
 
 De programmatuur, bedoeld in [artikel P 1, eerste lid, van het Kiesbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0004632&artikel=P_1), ten behoeve van de berekening van de uitslag van de verkiezingen of de berekening van de zetelverdeling, voldoet aan de volgende eisen:
 
 ## Bijlage 3. bij [artikel 2b](https://wetten.overheid.nl/jci1.3:c:BWBR0034180&artikel=2b&z=2015-09-12&g=2015-09-12) van de Kies- en referendumregeling
 
-### Model Wrr 29-1. Inleidend verzoek
+### Model Y 32. Verklaring stemmen voor Europees Parlement in Nederland
 
 De programmatuur, bedoeld in [artikel 16 van het Besluit raadgevend referendum](https://wetten.overheid.nl/jci1.3:c:BWBR0036521&artikel=16), ten behoeve van de berekening van de uitslag van het referendum, voldoet aan de volgende eisen:
 
@@ -314,27 +314,27 @@ enz.6De lijsten dienen om en om in te springen. Tussen de lijsten dient ruimte t
 
 2. Het model voor het briefstembewijs voor het refrendum luidt voor kiezers buiten Nederland die wonen op Aruba, Curaçao en Sint Maarten als volgt:
 
+### Model W 5. Proces-verbaal loting bij plaatsvervanging
+
+### Model Y 35. Verklaring dat u in de lidstaat van uw herkomst niet bent uitgesloten van het recht om gekozen te worden/Declaration of non-exclusion from the right to stand for election in your home Member State
+
 ### Model Ya 7. Begeleidingsverklaring bij stukken voor de kandidaatstelling
+
+### Model Ya 9. Begeleidingsverklaring bij stukken voor het herstel van verzuimen
+
+### Model Wrr 29-1. Inleidend verzoek
 
 ### Model Wrr 29-2. Inleidend verzoek
 
-### Model Wrr 37. Proces-verbaal van de beoordeling van het inleidend verzoek
-
-### Model Wrr 41-1. Definitief verzoek
-
-### Model Wrr 41-2. Definitief verzoek
-
-### Model Wrr 52. Proces-verbaal van de beoordeling van het definitief verzoek
-
 ## Bijlage 2. bij [artikel 2a](https://wetten.overheid.nl/jci1.3:c:BWBR0034180&artikel=2a&z=2016-09-17&g=2016-09-17) van de Kies- en referendumregeling
 
-### Model Wrr 83. Proces-verbaal van de uitslag van het referendum
+### Model Wrr 41-1. Definitief verzoek
 
 De programmatuur, bedoeld in [artikel P 1, eerste lid, van het Kiesbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0004632&artikel=P_1), ten behoeve van de berekening van de uitslag van de verkiezingen of de berekening van de zetelverdeling, voldoet aan de volgende eisen:
 
 ## Bijlage 3. bij [artikel 2b](https://wetten.overheid.nl/jci1.3:c:BWBR0034180&artikel=2b&z=2016-09-17&g=2016-09-17) van de Kies- en referendumregeling
 
-### Model Wrr 118. Vaststelling van het aantal in een openbaar lichaam ingediende ondersteuningsverklaringen (definitief verzoek)
+### Model Wrr 58. Stembiljet
 
 De programmatuur, bedoeld in [artikel 16 van het Besluit raadgevend referendum](https://wetten.overheid.nl/jci1.3:c:BWBR0036521&artikel=16), ten behoeve van de berekening van de uitslag van het referendum, voldoet aan de volgende eisen:
 
@@ -356,19 +356,39 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 4. Het model voor het briefstembewijs voor de verkiezing van de leden van de Tweede Kamer op 15 maart 2017 luidt voor kiezers buiten Nederland die wonen op Aruba, Curaçao en Sint Maarten als volgt:
 
-### Model Wrr 58. Stembiljet
+### Model Wrr 37. Proces-verbaal van de beoordeling van het inleidend verzoek
+
+### Model Wrr 41-2. Definitief verzoek
+
+### Model Wrr 52. Proces-verbaal van de beoordeling van het definitief verzoek
+
+## Bijlage 2. bij [artikel 2a](https://wetten.overheid.nl/jci1.3:c:BWBR0034180&artikel=2a&z=2016-11-25&g=2016-11-25) van de Kies- en referendumregeling
 
 ### Model Wrr 83. Bijlage: bezwaren en geschillen
 
+De programmatuur, bedoeld in [artikel P 1, eerste lid, van het Kiesbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0004632&artikel=P_1), ten behoeve van de berekening van de uitslag van de verkiezingen of de berekening van de zetelverdeling, voldoet aan de volgende eisen:
+
+## Bijlage 3. bij [artikel 2b](https://wetten.overheid.nl/jci1.3:c:BWBR0034180&artikel=2b&z=2016-11-25&g=2016-11-25) van de Kies- en referendumregeling
+
+### Eisen aan de programmatuur die door het centraal stembureau wordt gebruikt ten behoeve van de berekening van de uitslag van het referendum
+
+De programmatuur, bedoeld in [artikel 16 van het Besluit raadgevend referendum](https://wetten.overheid.nl/jci1.3:c:BWBR0036521&artikel=16), ten behoeve van de berekening van de uitslag van het referendum, voldoet aan de volgende eisen:
+
+Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
+
+### Model Wrr 83. Proces-verbaal van de uitslag van het referendum
+
 ### Model Wrr 116. Vaststelling van het aantal in een openbaar lichaam ingediende verzoeken tot het houden van een referendum (inleidend verzoek)
 
-## Bijlage 2. bij [artikel 2a](https://wetten.overheid.nl/jci1.3:c:BWBR0034180&artikel=2a&z=2016-11-25&g=2016-11-25) van de Kies- en referendumregeling
+### Model Wrr 118. Vaststelling van het aantal in een openbaar lichaam ingediende ondersteuningsverklaringen (definitief verzoek)
+
+## Bijlage 2. bij [artikel 2a](https://wetten.overheid.nl/jci1.3:c:BWBR0034180&artikel=2a&z=2017-03-08&g=2017-03-08) van de Kies- en referendumregeling
 
 ### Eisen aan de programmatuur die door de centrale stembureaus wordt gebruikt ten behoeve van de vaststelling van de uitslag van verkiezingen of de berekening van de zetelverdeling
 
 De programmatuur, bedoeld in [artikel P 1, eerste lid, van het Kiesbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0004632&artikel=P_1), ten behoeve van de berekening van de uitslag van de verkiezingen of de berekening van de zetelverdeling, voldoet aan de volgende eisen:
 
-## Bijlage 3. bij [artikel 2b](https://wetten.overheid.nl/jci1.3:c:BWBR0034180&artikel=2b&z=2016-11-25&g=2016-11-25) van de Kies- en referendumregeling
+## Bijlage 3. bij [artikel 2b](https://wetten.overheid.nl/jci1.3:c:BWBR0034180&artikel=2b&z=2017-03-08&g=2017-03-08) van de Kies- en referendumregeling
 
 ### Eisen aan de programmatuur die door het centraal stembureau wordt gebruikt ten behoeve van de berekening van de uitslag van het referendum
 
