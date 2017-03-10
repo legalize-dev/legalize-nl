@@ -4,7 +4,7 @@ identifier: "BWBR0032903"
 country: "nl"
 rank: "amvb"
 publication_date: "2019-04-18"
-last_updated: "2013-02-16"
+last_updated: "2017-03-10"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0032903"
 soort: "AMvB"
@@ -52,11 +52,9 @@ Hebben goedgevonden en verstaan:
 
 In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
-- **elektronische handtekening:** een handtekening als bedoeld in [artikel 15a, vierde lid, van Boek 3 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005291&artikel=15a);
+- **eidas-verordening:** verordening (EU) nr. 910/2014 van het Europees Parlement en de Raad van 23 juli 2014 betreffende elektronische identificatie en vertrouwensdiensten voor elektronische transacties in de interne markt en tot intrekking van richtlijn 1999/93/EG (PbEU 2014, L 257);
 
-- **geavanceerde elektronische handtekening:** een handtekening die voldoet aan de eisen van [artikel 15a, tweede lid, onderdelen a tot en met f, van Boek 3 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005291&artikel=15a);
-
-- **wet:** de [Aanbestedingswet op defensie- en veiligheidsgebied](https://wetten.overheid.nl/jci1.3:c:BWBR0032898).
+- **wet:** de [Aanbestedingswet 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0032203).
 
 ### Hoofdstuk 2. Eigen verklaring
 
@@ -80,7 +78,7 @@ In de eigen verklaring, bedoeld in [artikel 2.74 van de wet](https://wetten.over
 
 ##### Artikel 3
 
-1. Een aanbestedende dienst of speciale-sectorbedrijf deelt de inschrijvers en gegadigden mede of de mededelingen en uitwisselingen van informatie worden gedaan door middel van de post of de fax, langs elektronische weg overeenkomstig het vijfde lid en [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0032903&hoofdstuk=3&artikel=5&z=2013-02-16&g=2013-02-16), per telefoon, of door middel van een combinatie van deze middelen, tenzij het een bericht betreft waarvoor in de wet de wijze van verzending is voorgeschreven.
+1. Een aanbestedende dienst of speciale-sectorbedrijf deelt de inschrijvers en gegadigden mede of de mededelingen en uitwisselingen van informatie worden gedaan door middel van de post of de fax, langs elektronische weg overeenkomstig het vijfde lid en [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0032903&hoofdstuk=3&artikel=5&z=2017-03-10&g=2017-03-10), per telefoon, of door middel van een combinatie van deze middelen, tenzij het een bericht betreft waarvoor in de wet de wijze van verzending is voorgeschreven.
 
 2. Een aanbestedende dienst of speciale-sectorbedrijf maakt gebruik van communicatiemiddelen die algemeen beschikbaar zijn en waardoor de toegang van de ondernemers tot de aanbestedingsprocedure niet wordt beperkt.
 
@@ -102,13 +100,13 @@ In de eigen verklaring, bedoeld in [artikel 2.74 van de wet](https://wetten.over
 
 2. Een aanbestedende dienst of speciale-sectorbedrijf waarborgt dat de informatie betreffende de specificaties die nodig zijn voor de elektronische indiening van inschrijvingen en verzoeken tot deelneming, inclusief de encryptie, voor belanghebbende partijen beschikbaar zijn.
 
-3. Een aanbestedende dienst of speciale-sectorbedrijf kan met inachtneming van [artikel 15a van Boek 3 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005291&artikel=15a) eisen dat bij elektronische inschrijvingen gebruik wordt gemaakt van een geavanceerde elektronische handtekening.
+3. Een aanbestedende dienst of speciale-sectorbedrijf kan met inachtneming van artikel 25 van de eidas-verordening eisen dat bij elektronische inschrijvingen gebruik wordt gemaakt van een gekwalificeerde elektronische handtekening als bedoeld in artikel 3, onderdeel 12, van de eidas-verordening.
 
 4. Een inschrijver of gegadigde dient de documenten, certificaten en verklaringen, die van hem op grond van [artikel 2.75, eerste en derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0032898&artikel=2.75), worden verlangd, indien deze niet in elektronische vorm beschikbaar zijn, in vóór het verstrijken van de uiterste termijn voor de indiening van inschrijvingen of aanvragen tot deelneming.
 
 5. Een aanbestedende dienst of speciale-sectorbedrijf voorziet er in dat de middelen voor de elektronische ontvangst van inschrijvingen en verzoeken tot deelneming door passende technische voorzieningen ten minste de waarborg bieden dat:
 
-- a. met betrekking tot het gebruik van elektronische handtekeningen bij inschrijvingen en verzoeken tot deelneming voldaan wordt aan [artikel 15a van Boek 3 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005291&artikel=15a),
+- a. met betrekking tot het gebruik van elektronische handtekeningen als bedoeld in artikel 3, onderdeel 10, van de eidas-verordening, bij inschrijvingen en verzoeken tot deelneming voldaan wordt aan de eidas-verordening,
 
 - b. het tijdstip en de datum van ontvangst van inschrijvingen en verzoeken tot deelneming kunnen worden vastgesteld,
 
@@ -126,7 +124,7 @@ In de eigen verklaring, bedoeld in [artikel 2.74 van de wet](https://wetten.over
 
 ##### Artikel 6
 
-Een aanbestedende dienst of speciale-sectorbedrijf kan vrijwillige accreditatieregelingen instellen of handhaven om te komen tot een hoger niveau van de certificeringsdienst van de middelen, bedoeld in [artikel 5, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032903&hoofdstuk=3&artikel=5&z=2013-02-16&g=2013-02-16).
+Vervallen
 
 ### Hoofdstuk 4. Slotbepalingen
 
