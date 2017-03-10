@@ -4,7 +4,7 @@ identifier: "BWBR0039284"
 country: "nl"
 rank: "amvb"
 publication_date: "2023-11-09"
-last_updated: "2017-01-01"
+last_updated: "2017-03-10"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0039284"
 soort: "AMvB"
@@ -38,25 +38,21 @@ entry_into_force: "2017-03-10"
 
 ### Hoofdstuk 1. Begripsbepalingen
 
-### Hoofdstuk 2. Inhoudelijke bepalingen inzake vertrouwensdiensten
+### Hoofdstuk 1. Begripsbepalingen
 
 ### Hoofdstuk 3. Intrekking en wijziging andere besluiten
 
 ##### Artikel 4. Intrekking [Besluit elektronische handtekeningen](https://wetten.overheid.nl/jci1.3:c:BWBR0015047)
 
-Dit onderdeel is nog niet inwerking getreden
+Het [Besluit elektronische handtekeningen](https://wetten.overheid.nl/jci1.3:c:BWBR0015047) wordt ingetrokken.
 
 ##### Artikel 5. Wijziging [Aanbestedingsbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0032919)
 
 Wijzigt het Aanbestedingsbesluit.
 
-Dit onderdeel is nog niet inwerking getreden
-
 ##### Artikel 6. Wijziging [Aanbestedingsbesluit op defensie- en veiligheidsgebied](https://wetten.overheid.nl/jci1.3:c:BWBR0032903)
 
 Wijzigt het Aanbestedingsbesluit op defensie- en veiligheidsgebied.
-
-Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel 7. Wijziging [Besluit doorberekening kosten ACM](https://wetten.overheid.nl/jci1.3:c:BWBR0035712)
 
@@ -72,25 +68,17 @@ Dit onderdeel is nog niet inwerking getreden
 
 Wijzigt het Besluit elektronisch verkeer met de bestuursrechter.
 
-Dit onderdeel is nog niet inwerking getreden
-
 ##### Artikel 10. Wijziging [Besluit vergoedingen Telecommunicatiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0010334)
 
 Wijzigt het Besluit vergoedingen Telecommunicatiewet.
-
-Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel 11. Wijziging [Handelsregisterbesluit 2008](https://wetten.overheid.nl/jci1.3:c:BWBR0024067)
 
 Wijzigt het Handelsregisterbesluit 2008.
 
-Dit onderdeel is nog niet inwerking getreden
-
 ##### Artikel 12. Wijziging [Uitvoeringsbesluit Wet kenbaarheid publiekrechtelijke beperkingen onroerende zaken](https://wetten.overheid.nl/jci1.3:c:BWBR0021934)
 
 Wijzigt het Uitvoeringsbesluit Wet kenbaarheid publiekrechtelijke beperkingen onroerende zaken.
-
-Dit onderdeel is nog niet inwerking getreden
 
 ### Hoofdstuk 4. Slotbepalingen
 
@@ -219,15 +207,5 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 ##### Artikel 14. Citeertitel
 
 Dit Besluit wordt aangehaald als: Besluit vertrouwensdiensten.
-
-Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
-
-##### Artikel 3a. Nadere regeling elektronische handtekening of zegel
-
-Onder het in [artikel 18.18, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&artikel=18.18) opgenomen verbod wordt mede verstaan de situatie waarin een elektronische handtekening of zegel wordt aangeboden als geavanceerde elektronische handtekening of geavanceerd elektronisch zegel, terwijl niet wordt voldaan aan de voor die handtekening onderscheidenlijk dat zegel in de eidas-verordening opgenomen eisen.
-
-### Hoofdstuk 3. Intrekking en wijziging andere besluiten
-
-### Hoofdstuk 4. Slotbepalingen
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
