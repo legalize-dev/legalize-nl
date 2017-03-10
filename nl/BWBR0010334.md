@@ -4,7 +4,7 @@ identifier: "BWBR0010334"
 country: "nl"
 rank: "amvb"
 publication_date: "2022-05-13"
-last_updated: "2016-12-28"
+last_updated: "2017-03-10"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0010334"
 soort: "AMvB"
@@ -76,7 +76,7 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
 ##### Artikel 3
 
-1. Ter zake van de kosten, bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010334&artikel=2&z=2016-12-28&g=2016-12-28), gelden als uitgangspunten dat:
+1. Ter zake van de kosten, bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010334&artikel=2&z=2017-03-10&g=2017-03-10), gelden als uitgangspunten dat:
 
 - a. deze kosten worden geraamd voor het kalenderjaar waarvoor de vergoeding geldt;
 
@@ -92,7 +92,7 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
 ##### Artikel 4
 
-1. Categorieën als bedoeld in [artikel 3, eerste lid, onder b en c](https://wetten.overheid.nl/jci1.3:c:BWBR0010334&artikel=3&z=2016-12-28&g=2016-12-28), zijn werkzaamheden of diensten met betrekking tot:
+1. Categorieën als bedoeld in [artikel 3, eerste lid, onder b en c](https://wetten.overheid.nl/jci1.3:c:BWBR0010334&artikel=3&z=2017-03-10&g=2017-03-10), zijn werkzaamheden of diensten met betrekking tot:
 
 - a. het gebruik van frequentieruimte, bedoeld in [§ 3.3](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&paragraaf=3.3) en [§ 3.5 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&paragraaf=3.5), voor:
 
@@ -110,21 +110,19 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
 - b. apparaten en radioapparaten als bedoeld in [hoofdstuk 10 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=10),
 
-- c. de aanwijzing van certificatie-organisaties als bedoeld in [artikel 18.16, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&artikel=18.16),
-
-- d. de aanwijzing van instellingen als bedoeld in [artikel 18.17, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&artikel=18.17).
+- c. de aanwijzing van instellingen als bedoeld in [artikel 18.17a, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&artikel=18.17a).
 
 2. Bij ministeriële regeling kunnen per categorie, bedoeld in het eerste lid, subcategorieën van gelijksoortige werkzaamheden of diensten worden vastgesteld en kunnen andere categorieën van gelijksoortige werkzaamheden of diensten worden vastgesteld.
 
 ##### Artikel 5
 
-1. Bij ministeriële regeling wordt de hoogte van de vergoeding per categorie of subcategorie van gelijksoortige werkzaamheden of diensten vastgesteld op basis van de geraamde kosten die per categorie of per subcategorie zijn toegerekend als bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0010334&artikel=4&z=2016-12-28&g=2016-12-28).
+1. Bij ministeriële regeling wordt de hoogte van de vergoeding per categorie of subcategorie van gelijksoortige werkzaamheden of diensten vastgesteld op basis van de geraamde kosten die per categorie of per subcategorie zijn toegerekend als bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0010334&artikel=4&z=2017-03-10&g=2017-03-10).
 
-2. Bij de regeling worden de bedragen en de jaarlijkse bijdrage, bedoeld in [artikel 2, tweede lid, onder a tot en met c](https://wetten.overheid.nl/jci1.3:c:BWBR0010334&artikel=2&z=2016-12-28&g=2016-12-28), afzonderlijk vastgesteld.
+2. Bij de regeling worden de bedragen en de jaarlijkse bijdrage, bedoeld in [artikel 2, tweede lid, onder a tot en met c](https://wetten.overheid.nl/jci1.3:c:BWBR0010334&artikel=2&z=2017-03-10&g=2017-03-10), afzonderlijk vastgesteld.
 
 ##### Artikel 6
 
-Onverminderd [artikel 2, eerste tot en met derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010334&artikel=2&z=2016-12-28&g=2016-12-28), kan in afwijking van de [artikelen 2, vierde en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010334&artikel=2&z=2016-12-28&g=2016-12-28), [3](https://wetten.overheid.nl/jci1.3:c:BWBR0010334&artikel=3&z=2016-12-28&g=2016-12-28), [4](https://wetten.overheid.nl/jci1.3:c:BWBR0010334&artikel=4&z=2016-12-28&g=2016-12-28) en [5](https://wetten.overheid.nl/jci1.3:c:BWBR0010334&artikel=5&z=2016-12-28&g=2016-12-28), bij ministeriële regeling een vergoeding worden vastgesteld, voorzover noodzakelijk ter dekking van onvoorziene kosten van werkzaamheden of diensten als bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010334&artikel=2&z=2016-12-28&g=2016-12-28).
+Onverminderd [artikel 2, eerste tot en met derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010334&artikel=2&z=2017-03-10&g=2017-03-10), kan in afwijking van de [artikelen 2, vierde en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010334&artikel=2&z=2017-03-10&g=2017-03-10), [3](https://wetten.overheid.nl/jci1.3:c:BWBR0010334&artikel=3&z=2017-03-10&g=2017-03-10), [4](https://wetten.overheid.nl/jci1.3:c:BWBR0010334&artikel=4&z=2017-03-10&g=2017-03-10) en [5](https://wetten.overheid.nl/jci1.3:c:BWBR0010334&artikel=5&z=2017-03-10&g=2017-03-10), bij ministeriële regeling een vergoeding worden vastgesteld, voorzover noodzakelijk ter dekking van onvoorziene kosten van werkzaamheden of diensten als bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010334&artikel=2&z=2017-03-10&g=2017-03-10).
 
 ##### Artikel 7
 
@@ -176,7 +174,7 @@ Wijzigt het Frequentiebesluit.
 
 ##### Artikel 15
 
-Na de inwerkingtreding van dit besluit berusten de Regeling vergoedingen RDR 1999 en de Regeling vergoedingen OPTA 1999 I op de [artikelen 4](https://wetten.overheid.nl/jci1.3:c:BWBR0010334&artikel=4&z=2016-12-28&g=2016-12-28), [5](https://wetten.overheid.nl/jci1.3:c:BWBR0010334&artikel=5&z=2016-12-28&g=2016-12-28), [6](https://wetten.overheid.nl/jci1.3:c:BWBR0010334&artikel=6&z=2016-12-28&g=2016-12-28) en [7](https://wetten.overheid.nl/jci1.3:c:BWBR0010334&artikel=7&z=2016-12-28&g=2016-12-28) van dit besluit.
+Na de inwerkingtreding van dit besluit berusten de Regeling vergoedingen RDR 1999 en de Regeling vergoedingen OPTA 1999 I op de [artikelen 4](https://wetten.overheid.nl/jci1.3:c:BWBR0010334&artikel=4&z=2017-03-10&g=2017-03-10), [5](https://wetten.overheid.nl/jci1.3:c:BWBR0010334&artikel=5&z=2017-03-10&g=2017-03-10), [6](https://wetten.overheid.nl/jci1.3:c:BWBR0010334&artikel=6&z=2017-03-10&g=2017-03-10) en [7](https://wetten.overheid.nl/jci1.3:c:BWBR0010334&artikel=7&z=2017-03-10&g=2017-03-10) van dit besluit.
 
 ##### Artikel 16
 
