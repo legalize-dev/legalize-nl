@@ -4,7 +4,7 @@ identifier: "BWBR0034017"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-01-01"
-last_updated: "2013-10-15"
+last_updated: "2017-03-10"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0034017"
 soort: "ministeriele-regeling"
@@ -57,7 +57,7 @@ Deze regeling verstaat onder:
 
 - e. **het repertorium:** het repertorium, bedoeld in [artikel 7 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002739&artikel=7);
 
-- f. **elektronisch afschrift:**in digitale vorm uitgegeven afschrift in de zin van [artikel 49, eerste lid, onderdeel a, van de Wet op het notarisambt](https://wetten.overheid.nl/jci1.3:c:BWBR0010388&artikel=49) van een notariële akte, dat is voorzien van een elektronische handtekening van de notaris die voldoet aan de eisen omschreven in [artikel 15a, tweede lid, van Boek 3 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005291&artikel=15a) en aan de daartoe door de KNB, in overeenstemming met de Belastingdienst, opgestelde richtlijnen;
+- f. **elektronisch afschrift:** in digitale vorm uitgegeven afschrift in de zin van [artikel 49, eerste lid, onderdeel a, van de Wet op het notarisambt](https://wetten.overheid.nl/jci1.3:c:BWBR0010388&artikel=49) van een notariële akte, dat is voorzien van een gekwalificeerde elektronische handtekening van de notaris die voldoet aan de daaraan bij of krachtens verordening (EU) nr. 910/2014 van het Europees Parlement en de Raad van 23 juli 2014 betreffende elektronische identificatie en vertrouwensdiensten voor elektronische transacties in de interne markt en tot intrekking van richtlijn 1999/93/EG (PbEU 2014, L 257) gestelde eisen en aan de daartoe door de KNB, in overeenstemming met de Belastingdienst, opgestelde richtlijnen;
 
 - g. **renvooien:** de bijvoegingen, veranderingen en doorhalingen, die op de kant of aan de voet van de akte zijn vermeld, mits daarbij de plaats in de akte is aangegeven waarop zij betrekking hebben.
 
@@ -69,7 +69,7 @@ Deze regeling verstaat onder:
 
 2. De registratie, bedoeld in [artikel 1, tweede lid, onderdeel a, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002739&artikel=1), en de vermelding van de gegevens, bedoeld in het derde lid, geschieden overeenkomstig de door de KNB, in overeenstemming met de Belastingdienst, daartoe opgestelde richtlijnen.
 
-3. Bij de registratie van een akte, bedoeld in [artikel 4, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002739&artikel=4), worden ten minste de gegevens, bedoeld in [artikel 3, eerste lid, onderdelen a, b en c](https://wetten.overheid.nl/jci1.3:c:BWBR0034017&hoofdstuk=2&artikel=3&z=2013-10-15&g=2013-10-15), vermeld.
+3. Bij de registratie van een akte, bedoeld in [artikel 4, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002739&artikel=4), worden ten minste de gegevens, bedoeld in [artikel 3, eerste lid, onderdelen a, b en c](https://wetten.overheid.nl/jci1.3:c:BWBR0034017&hoofdstuk=2&artikel=3&z=2017-03-10&g=2017-03-10), vermeld.
 
 4. De notaris ontvangt ter bevestiging van de registratie van een akte een elektronisch ontvangstbericht met de datum van de registratie van die akte.
 
@@ -149,13 +149,13 @@ De registers, bedoeld in [artikel 1, tweede lid, onderdeel b, van de wet](https:
 
 ##### Artikel 12
 
-1. De aanbieding ter registratie van akten als bedoeld in [artikel 1, tweede lid, onderdeel b, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002739&artikel=1), geschiedt bij de inspecteur, bedoeld in [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0034017&hoofdstuk=3&artikel=11&z=2013-10-15&g=2013-10-15), bij het daartoe door de Belastingdienst opengestelde kantoor.
+1. De aanbieding ter registratie van akten als bedoeld in [artikel 1, tweede lid, onderdeel b, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002739&artikel=1), geschiedt bij de inspecteur, bedoeld in [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0034017&hoofdstuk=3&artikel=11&z=2017-03-10&g=2017-03-10), bij het daartoe door de Belastingdienst opengestelde kantoor.
 
 2. Het kantoor, bedoeld in het eerste lid, is voor het aanbieden van de akten ter registratie dagelijks van 9.00 uur tot 17.00 uur geopend, met uitzondering van de zaterdag, de zondag, algemeen erkende feestdagen in de zin van de [Algemene termijnenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002448) en de bij of krachtens [artikel 3 van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002448&artikel=3) daarmee gelijkgestelde dagen.
 
 ##### Artikel 13
 
-1. Akten als bedoeld in [artikel 1, tweede lid, onderdeel b, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002739&artikel=1) worden door de inspecteur geregistreerd in het register Registratie, waarvan het model is opgenomen in [bijlage A](https://wetten.overheid.nl/jci1.3:c:BWBR0034017&bijlage=A&z=2013-10-15&g=2013-10-15). De bladen kunnen tevens andere kolommen of gegevens inhouden dan uit dat model voortvloeit.
+1. Akten als bedoeld in [artikel 1, tweede lid, onderdeel b, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002739&artikel=1) worden door de inspecteur geregistreerd in het register Registratie, waarvan het model is opgenomen in [bijlage A](https://wetten.overheid.nl/jci1.3:c:BWBR0034017&bijlage=A&z=2017-03-10&g=2017-03-10). De bladen kunnen tevens andere kolommen of gegevens inhouden dan uit dat model voortvloeit.
 
 2. Van het register Registratie kunnen ter inspectie meer delen tegelijk worden aangehouden. De delen worden per deel doorlopend genummerd.
 
@@ -163,7 +163,7 @@ De registers, bedoeld in [artikel 1, tweede lid, onderdeel b, van de wet](https:
 
 ##### Artikel 14
 
-De registratie in het register Registratie, bedoeld in [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0034017&hoofdstuk=3&artikel=13&z=2013-10-15&g=2013-10-15), omvat voor elke akte als bedoeld in [artikel 1, tweede lid, onderdeel b, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002739&artikel=1) ten minste de volgende gegevens:
+De registratie in het register Registratie, bedoeld in [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0034017&hoofdstuk=3&artikel=13&z=2017-03-10&g=2017-03-10), omvat voor elke akte als bedoeld in [artikel 1, tweede lid, onderdeel b, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002739&artikel=1) ten minste de volgende gegevens:
 
 - a. een per registerdeel doorlopend volgnummer;
 
@@ -187,7 +187,7 @@ Ingeval een akte als bedoeld in [artikel 1, tweede lid, onderdeel b, van de wet]
 
 ##### Artikel 16
 
-Tegelijk ter registratie aangeboden gelijksoortige akten als bedoeld in [artikel 1, tweede lid, onderdeel b, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002739&artikel=1), die door dezelfde persoon zijn aangeboden, kunnen tezamen worden geregistreerd onder een aantal volgnummers dat overeenkomt met het aantal akten. In dat geval worden de gegevens, bedoeld in [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0034017&hoofdstuk=3&artikel=14&z=2013-10-15&g=2013-10-15), slechts eenmaal vermeld, voor zover deze voor de verschillende akten gelijk zijn.
+Tegelijk ter registratie aangeboden gelijksoortige akten als bedoeld in [artikel 1, tweede lid, onderdeel b, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002739&artikel=1), die door dezelfde persoon zijn aangeboden, kunnen tezamen worden geregistreerd onder een aantal volgnummers dat overeenkomt met het aantal akten. In dat geval worden de gegevens, bedoeld in [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0034017&hoofdstuk=3&artikel=14&z=2017-03-10&g=2017-03-10), slechts eenmaal vermeld, voor zover deze voor de verschillende akten gelijk zijn.
 
 ##### Artikel 17
 
@@ -215,7 +215,7 @@ Bij de registratie van een akte als bedoeld in [artikel 1, tweede lid, onderdeel
 
 - d. het aantal renvooien en het aantal annexen;
 
-- e. de omstandigheid, bedoeld in [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBR0034017&hoofdstuk=3&artikel=15&z=2013-10-15&g=2013-10-15).
+- e. de omstandigheid, bedoeld in [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBR0034017&hoofdstuk=3&artikel=15&z=2017-03-10&g=2017-03-10).
 
 3. De dagtekening van de registratie wordt – met uitzondering van de eeuw – in letters gesteld.
 
@@ -255,4 +255,4 @@ Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte v
 
 ## Bijlage A
 
-Behorende bij [artikel 13, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034017&hoofdstuk=3&artikel=13&z=2013-10-15&g=2013-10-15), van de Uitvoeringsregeling Registratiewet 1970
+Behorende bij [artikel 13, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034017&hoofdstuk=3&artikel=13&z=2017-03-10&g=2017-03-10), van de Uitvoeringsregeling Registratiewet 1970
