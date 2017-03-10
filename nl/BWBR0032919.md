@@ -4,7 +4,7 @@ identifier: "BWBR0032919"
 country: "nl"
 rank: "amvb"
 publication_date: "2022-01-01"
-last_updated: "2017-01-01"
+last_updated: "2017-03-10"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0032919"
 soort: "AMvB"
@@ -38,7 +38,7 @@ entry_into_force: "2016-06-24"
 
 Op de voordracht van Onze Minister van Economische Zaken, Landbouw en Innovatie van 5 november 2012, nr. WJZ / 12338533 gedaan, in overeenstemming met het gevoelen van de Ministerraad;
 
-Gelet op [richtlijn nr. 2004/17/EG](onbekend) van het Europees parlement en de Raad van de Europese Unie houdende coördinatie van de procedures voor het plaatsten van opdrachten in de sectoren water- en energievoorziening, vervoer en postdiensten (PbEU 2004 L 134), [richtlijn nr. 2004/18/EG](onbekend) van het Europees Parlement en de Raad van de Europese Unie van 31 maart 2004 betreffende de coördinatie van de procedures voor het plaatsen van overheidsopdrachten voor werken, leveringen en diensten (PbEU 2004 L 134) en de [artikelen 1.10, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&artikel=1.10), [1.13, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&artikel=1.13), [1.16, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&artikel=1.16), [1.22, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&artikel=1.22), [2.84, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&artikel=2.84), [4.6](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&artikel=4.6), [4.7, eerste lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&artikel=4.7), en [4.12, eerste lid, van de Aanbestedingswet 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&artikel=4.12);
+Gelet op [richtlijn nr. 2004/17/EG](32004L0017) van het Europees parlement en de Raad van de Europese Unie houdende coördinatie van de procedures voor het plaatsten van opdrachten in de sectoren water- en energievoorziening, vervoer en postdiensten (PbEU 2004 L 134), [richtlijn nr. 2004/18/EG](32004L0018) van het Europees Parlement en de Raad van de Europese Unie van 31 maart 2004 betreffende de coördinatie van de procedures voor het plaatsen van overheidsopdrachten voor werken, leveringen en diensten (PbEU 2004 L 134) en de [artikelen 1.10, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&artikel=1.10), [1.13, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&artikel=1.13), [1.16, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&artikel=1.16), [1.22, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&artikel=1.22), [2.84, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&artikel=2.84), [4.6](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&artikel=4.6), [4.7, eerste lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&artikel=4.7), en [4.12, eerste lid, van de Aanbestedingswet 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&artikel=4.12);
 
 De Afdeling advisering van de Raad van State gehoord (advies van 20 december 2012, nr. W15.12.0455/IV);
 
@@ -52,9 +52,11 @@ Hebben goedgevonden en verstaan:
 
 In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
-- **elektronische handtekening:** een handtekening als bedoeld in [artikel 15a, vierde lid, van Boek 3 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005291&artikel=15a);
+- **eidas-verordening:** verordening (EU) nr. 910/2014 van het Europees Parlement en de Raad van 23 juli 2014 betreffende elektronische identificatie en vertrouwensdiensten voor elektronische transacties in de interne markt en tot intrekking van richtlijn; 1999/93/EG (PbEU 2014, L 257);
 
-- **geavanceerde elektronische handtekening:** een handtekening die voldoet aan de eisen van [artikel 15a, tweede lid, onderdelen a tot en met d, van Boek 3 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005291&artikel=15a);
+- **elektronische handtekening:** elektronische handtekening als bedoeld in artikel 3, onderdeel 10, van de eidas-verordening;
+
+- **geavanceerde elektronische handtekening:** elektronische handtekening als bedoeld in artikel 3, onderdeel 11, van de eidas-verordening;
 
 - **wet:** de [Aanbestedingswet 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0032203).
 
@@ -102,13 +104,13 @@ Vervallen
 
 1. Dit artikel is van toepassing op middelen en instrumenten voor elektronische toezending en ontvangst van inschrijvingen en voor elektronische ontvangst van verzoeken tot deelneming.
 
-2. Een aanbestedende dienst of speciale-sectorbedrijf waarborgt dat de informatie betreffende de specificaties die nodig zijn voor de elektronische indiening van inschrijvingen en verzoeken tot deelneming, inclusief de encryptie en diensten betreffende elektronische tijdstempels, voor belanghebbende partijen beschikbaar zijn.
+2. Een aanbestedende dienst of speciale-sectorbedrijf waarborgt dat de informatie betreffende de specificaties die nodig zijn voor de elektronische indiening van inschrijvingen en verzoeken tot deelneming, inclusief de encryptie en diensten betreffende elektronische tijdstempels als bedoeld in artikel 3, onderdeel 33, van de eidas-verordening, voor belanghebbende partijen beschikbaar zijn.
 
 3. Een aanbestedende dienst of een speciale-sectorbedrijf eist een veiligheidsniveau met betrekking tot de elektronische middelen die in de verschillende fasen van een aanbestedingsprocedure worden gebruikt, dat in verhouding staat tot de risico’s.
 
 4. Een aanbestedende dienst die of een speciale-sectorbedrijf dat op basis van een risicobeoordeling als bedoeld in het derde lid, een geavanceerde elektronische handtekening vereist, erkent in ieder geval geavanceerde elektronische handtekeningen die:
 
-- a. gebaseerd zijn op een gekwalificeerd certificaat als bedoeld in [artikel 1.1 van de Telecommunicatiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&artikel=1.1), uitgegeven door een certificatiedienstverlener die geregistreerd staat op een vertrouwenslijst als bedoeld in besluit nr. 2009/767/EG van de Commissie van 16 oktober 2009 inzake maatregelen voor een gemakkelijker gebruik van elektronische procedures via het één-loket in het kader van Richtlijn 2006/123/EG van het Europees Parlement en de Raad betreffende diensten op de interne markt (PbEU 2009, L 274,), zoals dat laatstelijk gewijzigd is bij besluit nr. 2013/662/EU (PbEU 2013, L 306), en
+- a. gebaseerd zijn op een gekwalificeerd certificaat voor elektronische handtekeningen als bedoeld in artikel 3, onderdeel 15 van de eidas-verordening, uitgegeven door een verlener van vertrouwensdiensten als bedoeld in artikel 3, onderdeel 19, van de eidas-verordening die geregistreerd staat op een vertrouwenslijst als bedoeld in besluit nr. 2009/767/EG van de Commissie van 16 oktober 2009 inzake maatregelen voor een gemakkelijker gebruik van elektronische procedures via het één-loket in het kader van Richtlijn 2006/123/EG van het Europees Parlement en de Raad betreffende diensten op de interne markt (PbEU 2009, L 274,), zoals dat laatstelijk gewijzigd is bij besluit nr. 2013/662/EU (PbEU 2013, L 306), en
 
 - b. voldoen aan een door een aanbestedende dienst of een speciale-sectorbedrijf vastgesteld format dat met inachtneming van de technische specificaties uit de bijlage van besluit nr. 2011/130/EU van de Commissie van 25 februari 2011 tot vaststelling van minimumvoorschriften voor de grensoverschrijdende verwerking van documenten die door de bevoegde autoriteiten elektronisch zijn ondertekend krachtens Richtlijn 2006/123/EG van het Europees Parlement en de Raad betreffende diensten op de interne markt (PbEU 2011, L 53) is vastgesteld.
 
@@ -214,7 +216,7 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 ##### Artikel 3a
 
-1. In afwijking van [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032919&hoofdstuk=3&artikel=3&z=2017-01-01&g=2017-01-01), kan een aanbestedende dienst of een speciale-sectorbedrijf het gebruik van een niet algemeen beschikbaar middel of instrument eisen, indien de aanbestedende dienst of het speciale-sectorbedrijf een alternatief toegangsmiddel aanbiedt.
+1. In afwijking van [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032919&hoofdstuk=3&artikel=3&z=2017-03-10&g=2017-03-10), kan een aanbestedende dienst of een speciale-sectorbedrijf het gebruik van een niet algemeen beschikbaar middel of instrument eisen, indien de aanbestedende dienst of het speciale-sectorbedrijf een alternatief toegangsmiddel aanbiedt.
 
 2. Een aanbestedende dienst of een speciale-sectorbedrijf biedt een passend alternatief toegangsmiddel aan in een geval waarin zij:
 
