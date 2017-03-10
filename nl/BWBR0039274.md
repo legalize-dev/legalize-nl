@@ -4,7 +4,7 @@ identifier: "BWBR0039274"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2023-01-01"
-last_updated: "2017-01-01"
+last_updated: "2017-03-10"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0039274"
 soort: "ministeriele-regeling"
@@ -38,23 +38,21 @@ entry_into_force: "2017-03-10"
 
 #### § 1. Regels omtrent aanvragen
 
-#### § 2. Vertrouwenslijst
+#### § 1. Regels omtrent aanvragen
 
 #### § 3. Intrekking en wijziging van andere ministeriële regelingen
 
 ##### Artikel 5. Intrekking [Regeling elektronische handtekeningen](https://wetten.overheid.nl/jci1.3:c:BWBR0015039)
 
-Dit onderdeel is nog niet inwerking getreden
+De [Regeling elektronische handtekeningen](https://wetten.overheid.nl/jci1.3:c:BWBR0015039) wordt ingetrokken.
 
 ##### Artikel 6. Intrekking [Regeling vertrouwenslijst](https://wetten.overheid.nl/jci1.3:c:BWBR0026956)
 
-Dit onderdeel is nog niet inwerking getreden
+De [Regeling vertrouwenslijst](https://wetten.overheid.nl/jci1.3:c:BWBR0026956) wordt ingetrokken.
 
 ##### Artikel 7. Wijziging [Dienstenregeling centraal loket en interne markt informatiesysteem](https://wetten.overheid.nl/jci1.3:c:BWBR0026766)
 
 Wijzigt de Dienstenregeling centraal loket en interne markt informatiesysteem.
-
-Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel 8. Wijziging [Regeling doorberekening kosten ACM](https://wetten.overheid.nl/jci1.3:c:BWBR0036097)
 
@@ -64,19 +62,13 @@ Wijzigt de Regeling doorberekening kosten ACM.
 
 Wijzigt de Regeling specificaties en typegoedkeuring boordcomputer taxi.
 
-Dit onderdeel is nog niet inwerking getreden
-
 ##### Artikel 10. Wijziging [Uitvoeringsregeling Kadasterwet 1994](https://wetten.overheid.nl/jci1.3:c:BWBR0006596)
 
 Wijzigt de Uitvoeringsregeling Kadasterwet 1994.
 
-Dit onderdeel is nog niet inwerking getreden
-
 ##### Artikel 11. Wijziging [Uitvoeringsregeling Registratiewet 1970](https://wetten.overheid.nl/jci1.3:c:BWBR0034017)
 
 Wijzigt de Uitvoeringsregeling Registratiewet 1970.
-
-Dit onderdeel is nog niet inwerking getreden
 
 #### § 4. Slotbepalingen
 
