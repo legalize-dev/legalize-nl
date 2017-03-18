@@ -4,7 +4,7 @@ identifier: "BWBR0008060"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2017-03-18"
-last_updated: "2015-07-01"
+last_updated: "2017-03-18"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0008060"
 soort: "ministeriele-regeling"
@@ -44,17 +44,17 @@ Besluit:
 
 In deze regeling wordt verstaan onder:
 
-- **Noodcommunicatievoorziening:** het telecommunicatienetwerk dat door PTT-Telecom B.V. is ontwikkeld als noodcommunicatievoorziening.
+- **Noodcommunicatievoorziening:** het telecommunicatienetwerk dat door Koninklijke KPN N.V. is ontwikkeld als noodcommunicatievoorziening.
 
 ##### Artikel 2
 
-1. Elke regionale eenheid en de Landelijke eenheid politiediensten hebben ten minste twee aansluitingen op de Noodcommunicatievoorziening.
+1. Elke eenheid heeft ten minste twee aansluitingen op de Noodcommunicatievoorziening.
 
 2. De jaarlijkse abonnementskosten voor twee aansluitingen op het Noodcommunicatievoorziening worden door de Minister van Veiligheid en Justitie vergoed.
 
 ##### Artikel 3
 
-De gelden voor de jaarlijkse abonnementskosten van twee aansluitingen per regionale of landelijke eenheid worden toegevoegd aan en opgenomen in de algemene bijdrage, bedoeld in [artikel 9, tweede lid, van het Besluit financieel beheer politie](https://wetten.overheid.nl/jci1.3:c:BWBR0036711&artikel=9).
+De gelden voor de jaarlijkse abonnementskosten van twee aansluitingen voor elke eenheid worden toegevoegd aan en opgenomen in de algemene bijdrage, bedoeld in [artikel 9, tweede lid, van het Besluit financieel beheer politie](https://wetten.overheid.nl/jci1.3:c:BWBR0036711&artikel=9).
 
 ##### Artikel 4
 
