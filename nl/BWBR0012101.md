@@ -4,7 +4,7 @@ identifier: "BWBR0012101"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2023-11-08"
-last_updated: "2017-01-01"
+last_updated: "2017-03-18"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0012101"
 soort: "ministeriele-regeling"
@@ -82,9 +82,9 @@ De hoogte van de uitkering is gedurende de eerste zestig maanden 80% van de bere
 
 ##### Artikel 4
 
-1. Het bedrag van de uitkering wordt verminderd indien de betrokkene inkomsten geniet of gaat genieten als genoemd in [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012101&artikel=5&z=2017-03-18&g=2017-01-01).
+1. Het bedrag van de uitkering wordt verminderd indien de betrokkene inkomsten geniet of gaat genieten als genoemd in [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012101&artikel=5&z=2017-03-18&g=2017-03-18).
 
-2. Vermindering van de uitkering vindt plaats voor zover het totale bedrag van de inkomsten, bedoeld in [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012101&artikel=5&z=2017-03-18&g=2017-01-01), en de onverminderde uitkering, bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0012101&artikel=3&z=2017-03-18&g=2017-01-01), tezamen de berekeningsgrondslag waarnaar de uitkering wordt berekend te boven gaat.
+2. Vermindering van de uitkering vindt plaats voor zover het totale bedrag van de inkomsten, bedoeld in [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012101&artikel=5&z=2017-03-18&g=2017-03-18), en de onverminderde uitkering, bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0012101&artikel=3&z=2017-03-18&g=2017-03-18), tezamen de berekeningsgrondslag waarnaar de uitkering wordt berekend te boven gaat.
 
 ##### Artikel 5
 
@@ -98,7 +98,7 @@ De hoogte van de uitkering is gedurende de eerste zestig maanden 80% van de bere
 
 ##### Artikel 6
 
-1. De betrokkene is verplicht vanaf het moment waarop het ontslag is ingegaan, opgave te doen van de inkomsten, bedoeld in [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012101&artikel=5&z=2017-03-18&g=2017-01-01).
+1. De betrokkene is verplicht vanaf het moment waarop het ontslag is ingegaan, opgave te doen van de inkomsten, bedoeld in [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012101&artikel=5&z=2017-03-18&g=2017-03-18).
 
 2. Indien de inkomsten niet vooraf kunnen worden vastgesteld, doet de betrokkene maandelijks, voorafgaand aan de salarisbetaling, opgave van de inkomsten die hij sinds de vorige opgave heeft genoten.
 
@@ -120,7 +120,7 @@ Indien de betrokkene ongeschikt is tot het verrichten van arbeid wegens ziekte, 
 
 ##### Artikel 9
 
-Ten aanzien van de betrokkene die na zijn ontslag uit hoofde van ziekte of arbeidsongeschiktheid nog aanspraken in verband met de betrekking waaruit hij is ontslagen, heeft of krijgt, wordt de uitkering dan wel de toelage, bedoeld in [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0012101&artikel=12&z=2017-03-18&g=2017-01-01), tot het einde van de periode waarover die aanspraken bestaan, verminderd met het bedrag daarvan.
+Ten aanzien van de betrokkene die na zijn ontslag uit hoofde van ziekte of arbeidsongeschiktheid nog aanspraken in verband met de betrekking waaruit hij is ontslagen, heeft of krijgt, wordt de uitkering dan wel de toelage, bedoeld in [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0012101&artikel=12&z=2017-03-18&g=2017-03-18), tot het einde van de periode waarover die aanspraken bestaan, verminderd met het bedrag daarvan.
 
 ##### Artikel 10
 
@@ -160,7 +160,7 @@ Deze regeling treedt in werking met ingang van 1 januari 2001.
 
 ##### Artikel 15
 
-Deze regeling wordt aangehaald als: Regeling ontslaguitkering vliegers landelijke eenheid.
+Deze regeling wordt aangehaald als: Regeling ontslaguitkering vliegers Landelijke eenheid.
 
 Deze regeling zal in de Staatscourant worden geplaatst.
 
@@ -188,7 +188,7 @@ Deze regeling zal in de Staatscourant worden geplaatst.
 
 ##### Artikel 13a
 
-1. In afwijking van [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0012101&artikel=11&z=2017-03-18&g=2017-01-01) heeft de betrokkene, die op enig tijdstip in de periode van 1 januari 2013 tot de datum van inwerkingtreding van dit artikel recht heeft op een uitkering op grond van deze regeling, recht op een compensatie als bedoeld in het tweede lid.
+1. In afwijking van [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0012101&artikel=11&z=2017-03-18&g=2017-03-18) heeft de betrokkene, die op enig tijdstip in de periode van 1 januari 2013 tot de datum van inwerkingtreding van dit artikel recht heeft op een uitkering op grond van deze regeling, recht op een compensatie als bedoeld in het tweede lid.
 
 2. De compensatie wordt berekend door het aantal maanden dat de AOW-gerechtigde leeftijd van de betrokkene later ligt dan de datum waarop deze de leeftijd van 65 jaar heeft bereikt te vermenigvuldigen met 70% van het bedrag van het minimumloon, bedoeld in [artikel 8, eerste lid, onderdeel a, van de Wet minimumloon en minimumvakantiebijslag](https://wetten.overheid.nl/jci1.3:c:BWBR0002638&artikel=8).
 
