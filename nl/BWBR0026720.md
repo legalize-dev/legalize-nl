@@ -4,7 +4,7 @@ identifier: "BWBR0026720"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2017-03-18"
-last_updated: "2017-01-01"
+last_updated: "2017-03-18"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0026720"
 soort: "ministeriele-regeling"
@@ -44,7 +44,7 @@ Besluit:
 
 ##### Artikel 1
 
-In deze regeling wordt onder gezamenlijke inzet verstaan, een inzet van de mobiele eenheid van de Koninklijke marechaussee samen met een mobiele eenheid van de politie ten behoeve van taken, genoemd in [artikel 14, eerste lid, van het Besluit beheer politie](onbekend).
+In deze regeling wordt onder gezamenlijke inzet verstaan: een inzet van de mobiele eenheid van de Koninklijke marechaussee samen met een mobiele eenheid als bedoeld in [artikel 26, aanhef, van het Besluit beheer politie](https://wetten.overheid.nl/jci1.3:c:BWBR0036705&artikel=26) ten behoeve van de taken, bedoeld in de onderdelen a tot en met f van dat artikel.
 
 ##### Artikel 2
 
