@@ -4,7 +4,7 @@ identifier: "BWBR0020933"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2021-01-01"
-last_updated: "2015-07-01"
+last_updated: "2017-03-18"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0020933"
 soort: "ministeriele-regeling"
@@ -44,11 +44,11 @@ Besluiten:
 
 In deze regeling wordt verstaan onder:
 
-- a. aanhoudings- en ondersteuningseenheid: een onderdeel als bedoeld in [artikel 16, eerste lid, van het Besluit beheer politie](onbekend);
+- a. **aanhoudings- en ondersteuningsteam:** een team als bedoeld in [artikel 11, onder a, van het Besluit beheer politie](https://wetten.overheid.nl/jci1.3:c:BWBR0036705&artikel=11).
 
 - b. aanhoudings- en ondersteuningseenheid van de Koninklijke marechaussee: aanhoudings- en ondersteuningseenheid die is ondergebracht bij de Brigade Speciale Beveiligingsopdrachten van de Koninklijke marechaussee;
 
-- c. de Dienst Speciale Interventies: de dienst, bedoeld in [artikel 2 van de Regeling Dienst speciale interventies](https://wetten.overheid.nl/jci1.3:c:BWBR0026381&artikel=2).
+- c. **de bijzondere bijstandseenheid:** de bijzondere bijstandseenheid, bedoeld in [artikel 2 van de Regeling Dienst speciale interventies](https://wetten.overheid.nl/jci1.3:c:BWBR0026381&artikel=2).
 
 ##### Artikel 2
 
@@ -56,19 +56,19 @@ Vervallen
 
 ##### Artikel 3
 
-1. Een aanhoudings- en ondersteuningseenheid bestaat uit twee secties, een eenheidscommandant en een ondersteunend medewerker.
+1. Een aanhoudings- en ondersteuningsteam bestaat uit twee secties, een eenheidscommandant en een ondersteunend medewerker.
 
 2. Een sectie bestaat uit elf leden en twee sectiecommandanten.
 
 ##### Artikel 4
 
-De korpschef stelt de termijn vast gedurende welke een ambtenaar van politie ononderbroken deel uit maakt van een aanhoudings- en ondersteuningseenheid, tot een maximum van 6 jaar.
+De korpschef stelt de termijn vast gedurende welke een ambtenaar van politie ononderbroken deel uit maakt van een aanhoudings- en ondersteuningsteam, tot een maximum van 6 jaar.
 
 ##### Artikel 5
 
-1. De ambtenaar van politie die deel uitmaakt van een aanhoudings- en ondersteuningseenheid, voldoet aan de eindtermen van de door de Minister van Veiligheid en Justitie aan te wijzen vervolgopleiding.
+1. De ambtenaar van politie die deel uitmaakt van een aanhoudings- en ondersteuningsteam, voldoet aan de eindtermen van de door de Minister van Veiligheid en Justitie aan te wijzen vervolgopleiding.
 
-2. De korpschef draagt er zorg voor dat de kennis en vaardigheden van de ambtenaar van politie die deel uitmaakt van een aanhoudings- en ondersteuningseenheid worden onderhouden op minimaal het niveau van de eindtermen, bedoeld in het eerste lid.
+2. De korpschef draagt er zorg voor dat de kennis en vaardigheden van de ambtenaar van politie die deel uitmaakt van een aanhoudings- en ondersteuningsteam worden onderhouden op minimaal het niveau van de eindtermen, bedoeld in het eerste lid.
 
 ##### Artikel 6
 
@@ -80,7 +80,7 @@ Vervallen
 
 ##### Artikel 8
 
-De korpschef en de Minister van Defensie maken afspraken over beheersmatige samenwerking tussen de aanhoudings- en ondersteuningseenheden en de aanhoudings- en ondersteuningseenheid van de Koninklijke marechaussee. De afspraken hebben in ieder geval betrekking op:
+De korpschef en de Minister van Defensie maken afspraken over beheersmatige samenwerking tussen de aanhoudings- en ondersteuningsteams en de aanhoudings- en ondersteuningseenheid van de Koninklijke marechaussee. De afspraken hebben in ieder geval betrekking op:
 
 - a. de afstemming van uitrusting en opleidingen;
 
@@ -88,11 +88,11 @@ De korpschef en de Minister van Defensie maken afspraken over beheersmatige same
 
 ##### Artikel 9
 
-De korpschef en de Minister van Defensie maken afspraken over beheersmatige samenwerking tussen de aanhoudings- en ondersteuningseenheden, de aanhoudings- en ondersteuningseenheid van de Koninklijke marechaussee en de Dienst Speciale Interventies. De afspraken hebben in ieder geval betrekking op:
+De korpschef en de Minister van Defensie maken afspraken over beheersmatige samenwerking tussen de Dienst speciale interventies, bedoeld in [artikel 11 van het Besluit beheer politie](https://wetten.overheid.nl/jci1.3:c:BWBR0036705&artikel=11), en de aanhoudings- en ondersteuningseenheid van de Koninklijke marechaussee. De afspraken hebben in ieder geval betrekking op:
 
-- a. de opleiding, uitrusting en beschikbaarheid van personeel van de aanhoudings- en ondersteuningseenheden en de aanhoudings- en ondersteuningseenheid van de Koninklijke marechaussee, ten behoeve van het gezamenlijk optreden met de Dienst Speciale Interventies;
+- a. de opleiding, uitrusting en beschikbaarheid van personeel van de aanhoudings- en ondersteuningsteams en de aanhoudings- en ondersteuningseenheid van de Koninklijke marechaussee, ten behoeve van het gezamenlijk optreden met de bijzondere bijstandseenheid;
 
-- b. stages door het personeel van de Dienst Speciale Interventies bij de aanhoudings- en ondersteuningseenheden en de aanhoudings- en ondersteuningseenheid van de Koninklijke marechaussee.
+- b. stages door het personeel van de bijzondere bijstandseenheid bij de aanhoudings- en ondersteuningsteams en de aanhoudings- en ondersteuningseenheid van de Koninklijke marechaussee.
 
 ##### Artikel 10
 
@@ -126,7 +126,7 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 ##### Artikel 10a
 
-Deze regeling berust op de [artikelen 5](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&artikel=5) en [57 van de Politiewet 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&artikel=57) en [artikel 16, tweede lid, van het Besluit beheer politie](onbekend).
+Deze regeling berust op de [artikelen 5](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&artikel=5) en [57 van de Politiewet 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&artikel=57) en [artikel 44 van het Besluit beheer politie](https://wetten.overheid.nl/jci1.3:c:BWBR0036705&artikel=44).
 
 ## Bijlage
 
