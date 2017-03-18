@@ -4,7 +4,7 @@ identifier: "BWBR0021915"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-07-01"
-last_updated: "2016-07-13"
+last_updated: "2017-03-18"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0021915"
 soort: "ministeriele-regeling"
@@ -106,7 +106,7 @@ De Minister van Volksgezondheid, Welzijn en Sport houdt een openbaar register bi
 
 - e. € 354,90 voor een vergunning voor het gebruik van een naald ten behoeve van het aanbrengen van een piercing, waarbij gebruik wordt gemaakt van wegwerpartikelen;
 
-- f. € 495,10, indien:
+- f. € 507, indien:
 
 - –. de aanvraag betrekking heeft op twee of meer vormen van gebruik van tatoeage- of piercingmateriaal als bedoeld in de onderdelen a tot en met e, en
 
