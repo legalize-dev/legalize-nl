@@ -4,7 +4,7 @@ identifier: "BWBR0036723"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2023-01-01"
-last_updated: "2017-01-01"
+last_updated: "2017-03-18"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0036723"
 soort: "ministeriele-regeling"
@@ -50,9 +50,9 @@ In deze regeling wordt verstaan onder:
 
 - d). **politiecellencomplex:** een in een gebouw te onderscheiden ruimte waarin één of meer gangen met daaraan grenzend één of meer ruimten liggen die door de politie worden gebruikt voor het insluiten van personen;
 
-- e). **commissie:** de commissie van toezicht op de arrestantenzorg, bedoeld in [artikel 24, eerste lid, van het Besluit beheer politie](https://wetten.overheid.nl/jci1.3:c:BWBR0036705&artikel=24);
+- e). **commissie:** de commissie van toezicht op de arrestantenzorg, bedoeld in [artikel 50, eerste lid, van het Besluit beheer politie](https://wetten.overheid.nl/jci1.3:c:BWBR0036705&artikel=50);
 
-- f). **landelijk afstemmingsoverleg:** het overleg, bedoeld in [artikel 6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036723&artikel=6&z=2017-03-18&g=2017-01-01);
+- f). **landelijk afstemmingsoverleg:** het overleg, bedoeld in [artikel 6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036723&artikel=6&z=2017-03-18&g=2017-03-18);
 
 - g). **de minister:** de Minister van Veiligheid en Justitie;
 
@@ -80,7 +80,7 @@ Voor benoeming als lid komen niet in aanmerking:
 
 - a). ambtenaren van politie;
 
-- b). personeel, niet zijnde ambtenaren van politie, dat is belast met de zorg voor ingeslotenen, als bedoeld in [artikel 23, tweede lid, van het Besluit beheer politie](https://wetten.overheid.nl/jci1.3:c:BWBR0036705&artikel=23);
+- b). personeel, niet zijnde ambtenaren van politie, dat is belast met de zorg voor ingeslotenen, als bedoeld in [artikel 49, tweede lid, van het Besluit beheer politie](https://wetten.overheid.nl/jci1.3:c:BWBR0036705&artikel=49);
 
 - c). personen indien hun onafhankelijkheid of onpartijdigheid hetzij door hun positie, hetzij door de aard van hun werkzaamheden in het geding zou kunnen komen.
 
@@ -106,7 +106,7 @@ Voor benoeming als lid komen niet in aanmerking:
 
 3. De leden van de commissie zijn, ter uitvoering van hun taken, bevoegd alle ingeslotenen en bezoekers van politiecellen en politiecellencomplexen vragen te stellen.
 
-4. De leden van de commissie worden door de politiechef geïnformeerd over de veiligheidsvoorschriften en dienen de op grond daarvan gegeven aanwijzingen door ambtenaren van politie en het personeel, bedoeld in [artikel 23, tweede lid, van het Besluit beheer politie](https://wetten.overheid.nl/jci1.3:c:BWBR0036705&artikel=23), terstond op te volgen.
+4. De leden van de commissie worden door de politiechef geïnformeerd over de veiligheidsvoorschriften en dienen de op grond daarvan gegeven aanwijzingen door ambtenaren van politie en het personeel, bedoeld in [artikel 49, tweede lid, van het Besluit beheer politie](https://wetten.overheid.nl/jci1.3:c:BWBR0036705&artikel=49), terstond op te volgen.
 
 5. De politiechef brengt alle voor de uitoefening van de taken van de commissie van belang zijnde beleidsvoorschriften en uitvoeringsregels, feiten en omstandigheden, ter kennis van de commissie.
 
@@ -120,7 +120,7 @@ Voor benoeming als lid komen niet in aanmerking:
 
 2. Het landelijk afstemmingsoverleg ontwikkelt ten behoeve van de commissies handreikingen met betrekking tot de kwaliteit en frequentie van het toezicht op de arrestantenzorg.
 
-3. Het landelijk afstemmingsoverleg rapporteert jaarlijks voor 1 maart aan de korpschef over haar activiteiten en bevindingen op het terrein van het toezicht op de arrestantenzorg door de politie. [Artikel 24, zesde lid, van het Besluit beheer politie](https://wetten.overheid.nl/jci1.3:c:BWBR0036705&artikel=24) is van overeenkomstige toepassing op de rapporten van het landelijk afstemmingsoverleg, met dien verstande dat de korpschef zijn verslag in afschrift aan de leden van het landelijk afstemmingsoverleg zendt.
+3. Het landelijk afstemmingsoverleg rapporteert jaarlijks voor 1 maart aan de korpschef over haar activiteiten en bevindingen op het terrein van het toezicht op de arrestantenzorg door de politie. [Artikel 50, zesde lid, van het Besluit beheer politie](https://wetten.overheid.nl/jci1.3:c:BWBR0036705&artikel=50) is van overeenkomstige toepassing op de rapporten van het landelijk afstemmingsoverleg, met dien verstande dat de korpschef zijn verslag in afschrift aan de leden van het landelijk afstemmingsoverleg zendt.
 
 4. De korpschef wijst een secretaris voor het landelijk afstemmingsoverleg aan. De secretaris is een ambtenaar van politie als bedoeld in [artikel 2, onder a of b, van de Politiewet 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&artikel=2). De secretaris is geen lid van het landelijk afstemmingsoverleg, neemt niet deel aan de besluitvorming van het landelijk afstemmingsoverleg en is in diens taak niet betrokken bij de arrestantenzorg.
 
@@ -130,7 +130,7 @@ De korpschef voorziet in de bekostiging van de commissies en het landelijk afste
 
 ##### Artikel 8
 
-In afwijking van [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036723&artikel=2&z=2017-03-18&g=2017-01-01), kunnen de leden van de commissies van toezicht op de arrestantenzorg tot uiterlijk 1 januari 2016 worden benoemd op voordracht van de leden van deze commissies uit hun midden.
+In afwijking van [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036723&artikel=2&z=2017-03-18&g=2017-03-18), kunnen de leden van de commissies van toezicht op de arrestantenzorg tot uiterlijk 1 januari 2016 worden benoemd op voordracht van de leden van deze commissies uit hun midden.
 
 ##### Artikel 9
 
