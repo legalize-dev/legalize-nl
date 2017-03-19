@@ -4,7 +4,7 @@ identifier: "BWBV0006593"
 country: "nl"
 rank: "verdrag"
 publication_date: "2017-03-19"
-last_updated: "2016-04-07"
+last_updated: "2017-03-19"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBV0006593"
 soort: "verdrag"
@@ -88,21 +88,21 @@ A. De samenwerking omtrent de veiligheid van de burgerluchtvaart ten behoeve van
 
 - 1. het verschaffen van algemene expertise ten behoeve van het ontwikkelen en verbeteren van de infrastructuur, normen, procedures, beleidslijnen, training en apparatuur voor de veiligheid van de burgerluchtvaart;
 
-- 2. het in overeenstemming met [Bijlage C](https://wetten.overheid.nl/jci1.3:c:BWBV0006593&bijlage=C&z=2016-04-07&g=2016-04-07) assistentie verlenen bij de ontwikkeling van formele trainingen en functioneringstests met betrekking tot de veiligheid van de burgerluchtvaart voor het screeningspersoneel op de voorinspectieluchthaven;
+- 2. het in overeenstemming met [Bijlage C](https://wetten.overheid.nl/jci1.3:c:BWBV0006593&bijlage=C&z=2017-03-19&g=2017-03-19) assistentie verlenen bij de ontwikkeling van formele trainingen en functioneringstests met betrekking tot de veiligheid van de burgerluchtvaart voor het screeningspersoneel op de voorinspectieluchthaven;
 
 - 3. het ontwikkelen en implementeren van vergelijkbare en wederzijds aanvaardbare normen en het delen van beste praktijken en procedures voor het screenen van passagiers en handbagage;
 
 - 4. het delen van informatie en ervaring met betrekking tot operationele processen op het gebied van de veiligheid van de burgerluchtvaart voor voorinspectie-operaties, met inbegrip van informatie ter zake van screeningmethodes en de beoordeling van nieuwe en geavanceerde beveiligingsapparatuur in een luchthavenomgeving;
 
-- 5. het in overeenstemming met [Bijlage D](https://wetten.overheid.nl/jci1.3:c:BWBV0006593&bijlage=D&z=2016-04-07&g=2016-04-07) (uit)lenen van de nodige apparatuur teneinde te voldoen aan vergelijkbare normen voor de screening van passagiers en handbagage;
+- 5. het in overeenstemming met [Bijlage D](https://wetten.overheid.nl/jci1.3:c:BWBV0006593&bijlage=D&z=2017-03-19&g=2017-03-19) (uit)lenen van de nodige apparatuur teneinde te voldoen aan vergelijkbare normen voor de screening van passagiers en handbagage;
 
-- 6. het in overeenstemming met [Bijlage A](https://wetten.overheid.nl/jci1.3:c:BWBV0006593&bijlage=A&z=2016-04-07&g=2016-04-07) uitvoeren van gezamenlijke operationele beoordelingen van de onderscheiden infrastructuur, programma’s, procedures en processen van de partijen voor de veiligheid van de burgerluchtvaart voor het screenen van passagiers en handbagage in verband met de voorinspectie-operaties; en
+- 6. het in overeenstemming met [Bijlage A](https://wetten.overheid.nl/jci1.3:c:BWBV0006593&bijlage=A&z=2017-03-19&g=2017-03-19) uitvoeren van gezamenlijke operationele beoordelingen van de onderscheiden infrastructuur, programma’s, procedures en processen van de partijen voor de veiligheid van de burgerluchtvaart voor het screenen van passagiers en handbagage in verband met de voorinspectie-operaties; en
 
 - 7. het ontwikkelen en uitvoeren van gezamenlijke initiatieven gericht op de verbetering van de veiligheid van de internationale burgerluchtvaart in verband met voorinspectie-operaties.
 
 B. Relevante samenwerkingsactiviteiten in het kader van de veiligheid van de burgerluchtvaart voor voorinspectie-operaties en de ontwikkeling van veiligheidsnormen en -procedures ten behoeve van de screening en voorinspectie van passagiers dienen verenigbaar te zijn met dit Verdrag.
 
-C. Elke uitwisseling van informatie die of van materiaal dat vertrouwelijke informatie of gevoelige veiligheidsinformatie kan omvatten geschiedt in overeenstemming met de van toepassing zijnde wetgeving en beleidslijnen, dit Verdrag en [Bijlage B](https://wetten.overheid.nl/jci1.3:c:BWBV0006593&bijlage=B&z=2016-04-07&g=2016-04-07) hierbij.
+C. Elke uitwisseling van informatie die of van materiaal dat vertrouwelijke informatie of gevoelige veiligheidsinformatie kan omvatten geschiedt in overeenstemming met de van toepassing zijnde wetgeving en beleidslijnen, dit Verdrag en [Bijlage B](https://wetten.overheid.nl/jci1.3:c:BWBV0006593&bijlage=B&z=2017-03-19&g=2017-03-19) hierbij.
 
 ##### Artikel V. Screeningnormen op de voorinspectieluchthaven
 
@@ -204,7 +204,7 @@ De bevoegde autoriteiten stellen voor het screenen van handbagage op de voorinsp
 
 ##### Artikel X. Gezamenlijke operationele beoordeling van de voorinspectieluchthaven
 
-A. De bevoegde autoriteiten verrichten gezamenlijk operationele beoordelingen van de infrastructuur, programma’s, procedures en processen ten behoeve van de veiligheid van de burgerluchtvaart die zijn vastgesteld en geïmplementeerd op de voorinspectieluchthaven teneinde te waarborgen dat voldaan wordt aan de wederzijds overeengekomen normen ten aanzien van screeningoperaties voor personen en handbagage in overeenstemming met dit Verdrag en de desbetreffende bijlage of aanhangsel bedoeld in [artikel III.A](https://wetten.overheid.nl/jci1.3:c:BWBV0006593&artikel=III&z=2016-04-07&g=2016-04-07).
+A. De bevoegde autoriteiten verrichten gezamenlijk operationele beoordelingen van de infrastructuur, programma’s, procedures en processen ten behoeve van de veiligheid van de burgerluchtvaart die zijn vastgesteld en geïmplementeerd op de voorinspectieluchthaven teneinde te waarborgen dat voldaan wordt aan de wederzijds overeengekomen normen ten aanzien van screeningoperaties voor personen en handbagage in overeenstemming met dit Verdrag en de desbetreffende bijlage of aanhangsel bedoeld in [artikel III.A](https://wetten.overheid.nl/jci1.3:c:BWBV0006593&artikel=III&z=2017-03-19&g=2017-03-19).
 
 B. De bevoegde autoriteiten verrichten periodiek gezamenlijke operationele beoordelingen van de screeningnormen die zijn geïmplementeerd op de voorinspectieluchthaven teneinde te waarborgen dat de normen en de implementatie en het functioneren ervan vergelijkbaar zijn met de normen die worden geïmplementeerd en toegepast op commerciële luchthavens in de Verenigde Staten.
 
@@ -220,7 +220,7 @@ A. Elke partij draagt alle kosten, inclusief reiskosten, die verband houden met 
 
 B. Alle activiteiten verricht uit hoofde van dit Verdrag zijn afhankelijk van de beschikbaarheid van toegewezen middelen en personeel.
 
-C. Onverminderd [artikel XII.A](https://wetten.overheid.nl/jci1.3:c:BWBV0006593&artikel=XII&z=2016-04-07&g=2016-04-07) kunnen de partijen met wederzijdse instemming via een aanhangsel of een andere wederzijds aanvaardbare regeling bepalen om middelen uit te wisselen.
+C. Onverminderd [artikel XII.A](https://wetten.overheid.nl/jci1.3:c:BWBV0006593&artikel=XII&z=2017-03-19&g=2017-03-19) kunnen de partijen met wederzijdse instemming via een aanhangsel of een andere wederzijds aanvaardbare regeling bepalen om middelen uit te wisselen.
 
 ##### Artikel XIII. Vertrouwelijkheid
 
@@ -228,7 +228,7 @@ A. Samenwerkingsacitiveiten uit hoofde van dit Verdrag kunnen bestaan uit het ge
 
 B. De overdracht van vertrouwelijke informatie door DCA aan DHS/TSA dient vooraf te worden goedgekeurd door haar directeur.
 
-C. Overdracht van gevoelige veiligheidsinformatie door DHS/TSA aan DCA dient vooraf te worden goedgekeurd door de Administrator van TSA en te voldoen aan de vereisten inzake behandeling, verspreiding en opslag vervat in [Bijlage B](https://wetten.overheid.nl/jci1.3:c:BWBV0006593&bijlage=B&z=2016-04-07&g=2016-04-07) bij dit Verdrag.
+C. Overdracht van gevoelige veiligheidsinformatie door DHS/TSA aan DCA dient vooraf te worden goedgekeurd door de Administrator van TSA en te voldoen aan de vereisten inzake behandeling, verspreiding en opslag vervat in [Bijlage B](https://wetten.overheid.nl/jci1.3:c:BWBV0006593&bijlage=B&z=2017-03-19&g=2017-03-19) bij dit Verdrag.
 
 D. Tenzij anders vereist krachtens wet- of regelgeving, onthullen de bevoegde autoriteiten geen informatie, documenten, dossiers of andere materialen ontvangen van de andere partij in verband met de werkzaamheden verricht uit hoofde van dit Verdrag of de bijlagen of aanhangsels daarbij aan andere personen (met inbegrip van maar niet beperkt tot een aannemer van een partij) dan hun medewerkers, zonder de uitdrukkelijke schriftelijke instemming van de andere partij.
 
@@ -246,7 +246,7 @@ F. De bevoegde autoriteiten van beide partijen waarborgen dat de toegang tot ver
 
 A. Onverminderd de punten B en C van dit artikel aanvaarden de Verenigde Staten, met inbegrip van DHS/TSA en alle overige instanties en organen van de Verenigde Staten (tezamen aangeduid als „de Verenigde Staten”), geen aansprakelijkheid voor vorderingen, verliezen, schade, letsel of gevallen van overlijden die voortvloeien uit of verband houden met dit Verdrag en de bijlagen en aanhangsels daarbij.
 
-B. De bevoegde autoriteiten van Aruba stemmen ermee in de Verenigde Staten en alle huidige of voormalige functionarissen of medewerkers van de Verenigde Staten schadeloos te stellen bij gerechtelijke uitspraken, regelingen of door hen betaalde schadevergoedingen en alle kosten (met inbegrip van kosten van advocaten) die voor hen ontstaan ten gevolge van een vordering of gerechtelijke procedure van welke aard dan ook ingesteld door een derde in Aruba die voortvloeit uit of verband houdt met dit Verdrag. Eventuele geschillen tussen de partijen worden opgelost in overeenstemming met de bepalingen van [artikel XVII](https://wetten.overheid.nl/jci1.3:c:BWBV0006593&artikel=XVII&z=2016-04-07&g=2016-04-07).
+B. De bevoegde autoriteiten van Aruba stemmen ermee in de Verenigde Staten en alle huidige of voormalige functionarissen of medewerkers van de Verenigde Staten schadeloos te stellen bij gerechtelijke uitspraken, regelingen of door hen betaalde schadevergoedingen en alle kosten (met inbegrip van kosten van advocaten) die voor hen ontstaan ten gevolge van een vordering of gerechtelijke procedure van welke aard dan ook ingesteld door een derde in Aruba die voortvloeit uit of verband houdt met dit Verdrag. Eventuele geschillen tussen de partijen worden opgelost in overeenstemming met de bepalingen van [artikel XVII](https://wetten.overheid.nl/jci1.3:c:BWBV0006593&artikel=XVII&z=2017-03-19&g=2017-03-19).
 
 C. Handelingen van de Verenigde Staten of huidige of voormalige functionarissen of medewerkers van de Verenigde Staten die voortvloeien uit of verband houden met dit Verdrag en de bijlagen en aanhangsels waarvan is vastgesteld, door middel van juridische procedures of in een regeling, dat die i. een opzettelijke misdraging of grove nalatigheid vormen en ii. hebben geleid tot persoonlijk letsel, overlijden of schade aan eigendommen, worden geacht te vallen buiten de reikwijdte van de verplichting van de competente autoriteiten van Aruba om de Verenigde Staten of huidige of voormalige functionarissen of medewerkers van de Verenigde Staten schadeloos te stellen uit hoofde van punt B. van dit artikel.
 
@@ -256,19 +256,19 @@ Elke partij kan te allen tijde verzoeken om overleg over de uitlegging, toepassi
 
 ##### Artikel XVI. Wijzigingen
 
-A. Wijzigingen van dit Verdrag of van de bijlagen worden onderling overeengekomen door de partijen via diplomatieke kanalen en treden in werking in overeenstemming met de procedure vervat in [artikel XVIII](https://wetten.overheid.nl/jci1.3:c:BWBV0006593&artikel=XVIII&z=2016-04-07&g=2016-04-07).
+A. Wijzigingen van dit Verdrag of van de bijlagen worden onderling overeengekomen door de partijen via diplomatieke kanalen en treden in werking in overeenstemming met de procedure vervat in [artikel XVIII](https://wetten.overheid.nl/jci1.3:c:BWBV0006593&artikel=XVIII&z=2017-03-19&g=2017-03-19).
 
 B. DHS/TSA en MT kunnen wijzigingen van een aanhangsel schriftelijk overeenkomen zonder uitwisseling van diplomatieke nota’s.
 
 ##### Artikel XVII. Regeling van geschillen
 
-Elk geschil omtrent de uitlegging of toepassing van dit Verdrag, met inbegrip van een bijlage of aanhangsel daarbij, wordt opgelost in overleg tussen de partijen in overeenstemming met [artikel XV](https://wetten.overheid.nl/jci1.3:c:BWBV0006593&artikel=XV&z=2016-04-07&g=2016-04-07) van dit Verdrag en wordt niet voor regeling voorgelegd aan een rechterlijke instantie, een internationaal scheidsgerecht of een derde.
+Elk geschil omtrent de uitlegging of toepassing van dit Verdrag, met inbegrip van een bijlage of aanhangsel daarbij, wordt opgelost in overleg tussen de partijen in overeenstemming met [artikel XV](https://wetten.overheid.nl/jci1.3:c:BWBV0006593&artikel=XV&z=2017-03-19&g=2017-03-19) van dit Verdrag en wordt niet voor regeling voorgelegd aan een rechterlijke instantie, een internationaal scheidsgerecht of een derde.
 
 ##### Artikel XVIII. Inwerkingtreding en beëindiging
 
 A. Dit Verdrag treedt in werking dertig dagen na de datum van de laatste nota van een diplomatieke notawisseling tussen de partijen waarbij de partijen elkaar ervan in kennis stellen dat de vereiste interne procedures voor de inwerkingtreding van dit Verdrag zijn voltooid.
 
-B. Dit Verdrag kan op elk moment door elke partij worden opgezegd door hiervan zestig (60) dagen van te voren schriftelijk kennis te geven aan de andere partij. Beëindiging van dit Verdrag laat de verplichtingen van de partijen uit hoofde van de [artikelen XIII](https://wetten.overheid.nl/jci1.3:c:BWBV0006593&artikel=XIII&z=2016-04-07&g=2016-04-07) en [XVII](https://wetten.overheid.nl/jci1.3:c:BWBV0006593&artikel=XVII&z=2016-04-07&g=2016-04-07) van dit Verdrag onverlet. Elke partij heeft honderdtwintig (120) dagen om de activiteiten na beëindiging van dit Verdrag te beëindigen. Met de beëindiging van dit Verdrag worden tevens alle uit hoofde van dit Verdrag door de partijen gesloten bijlagen en/of aanhangsels beëindigd. Opzegging van een bijlage of aanhangsel betreft uitsluitend de activiteiten waarop de desbetreffende bijlage of het desbetreffende aanhangsel betrekking heeft.
+B. Dit Verdrag kan op elk moment door elke partij worden opgezegd door hiervan zestig (60) dagen van te voren schriftelijk kennis te geven aan de andere partij. Beëindiging van dit Verdrag laat de verplichtingen van de partijen uit hoofde van de [artikelen XIII](https://wetten.overheid.nl/jci1.3:c:BWBV0006593&artikel=XIII&z=2017-03-19&g=2017-03-19) en [XVII](https://wetten.overheid.nl/jci1.3:c:BWBV0006593&artikel=XVII&z=2017-03-19&g=2017-03-19) van dit Verdrag onverlet. Elke partij heeft honderdtwintig (120) dagen om de activiteiten na beëindiging van dit Verdrag te beëindigen. Met de beëindiging van dit Verdrag worden tevens alle uit hoofde van dit Verdrag door de partijen gesloten bijlagen en/of aanhangsels beëindigd. Opzegging van een bijlage of aanhangsel betreft uitsluitend de activiteiten waarop de desbetreffende bijlage of het desbetreffende aanhangsel betrekking heeft.
 
 IN WITNESS WHEREOF, the undersigned being duly authorized by their respective Governments, have signed this Agreement.
 
