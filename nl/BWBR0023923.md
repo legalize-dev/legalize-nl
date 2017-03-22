@@ -4,7 +4,7 @@ identifier: "BWBR0023923"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-11-11"
-last_updated: "2015-01-01"
+last_updated: "2017-03-22"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0023923"
 soort: "ministeriele-regeling"
@@ -39,6 +39,8 @@ entry_into_force: "2008-06-01"
 Gelet op [artikel 10 van de Wet gebruik burgerservicenummer in de zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0023864&artikel=10), de [artikelen 44](https://wetten.overheid.nl/jci1.3:c:BWBR0002614&artikel=44) en[52, zevende lid, van de Algemene Wet Bijzondere Ziektekosten](https://wetten.overheid.nl/jci1.3:c:BWBR0002614&artikel=52), de [artikelen 86](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&artikel=86), [87, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&artikel=87), [88, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&artikel=88), en [89, zesde lid, van de Zorgverzekeringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&artikel=89) en de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0023902&artikel=3), [6, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023902&artikel=6), [19](https://wetten.overheid.nl/jci1.3:c:BWBR0023902&artikel=19), [20](https://wetten.overheid.nl/jci1.3:c:BWBR0023902&artikel=20), [21](https://wetten.overheid.nl/jci1.3:c:BWBR0023902&artikel=21), [22, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023902&artikel=22), [23](https://wetten.overheid.nl/jci1.3:c:BWBR0023902&artikel=23), [24](https://wetten.overheid.nl/jci1.3:c:BWBR0023902&artikel=24) en [30 van het Besluit gebruik burgerservicenummer in de zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0023902&artikel=30);
 
 Besluit:
+
+Treedt in werking op het tijdstip waarop de Wet gebruik burgerservicenummer in de zorg in werking treedt. De datum van inwerkingtreding ligt voor de datum van uitgifte.
 
 ##### Artikel 1
 
