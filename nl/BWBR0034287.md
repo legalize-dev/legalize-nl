@@ -4,7 +4,7 @@ identifier: "BWBR0034287"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2017-03-25"
-last_updated: "2014-01-01"
+last_updated: "2017-03-25"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0034287"
 soort: "ministeriele-regeling"
@@ -80,7 +80,7 @@ In dit besluit wordt verstaan onder:
 
 1. De commissie bestaat uit een voorzitter en ten minste vijf en ten hoogste zes andere leden.
 
-2. De voorzitter en de andere leden worden door de minister benoemd voor een termijn van drie jaar. De voorzitter en de andere leden kunnen door de minister worden geschorst en ontslagen.
+2. De voorzitter en de andere leden worden door de minister benoemd voor een termijn van ten hoogste drie jaar. De voorzitter en andere leden kunnen worden herbenoemd. De voorzitter en de andere leden kunnen door de minister worden geschorst en ontslagen.
 
 ##### Artikel 4
 
