@@ -4,7 +4,7 @@ identifier: "BWBR0039384"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2020-01-01"
-last_updated: "2017-01-01"
+last_updated: "2017-03-28"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0039384"
 soort: "ministeriele-regeling"
@@ -46,7 +46,7 @@ In dit besluit wordt verstaan onder:
 
 - 1. **Medewerker:** degene die is aangesteld op basis van het [Algemeen Rijksambtenarenreglement](https://wetten.overheid.nl/jci1.3:c:BWBR0001950) en werkzaam is bij een van de dienstonderdelen van het Ministerie van Volksgezondheid, Welzijn en Sport;
 
-- 2. **Personeelsraadgever VWS (p-raadgever)1Daar waar personeelsraadgever staat kan ook raadsman of raadsvrouw worden gelezen.:** de persoon bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0039384&artikel=2&z=2017-03-28&g=2017-01-01).
+- 2. **Personeelsraadgever VWS (p-raadgever)1Daar waar personeelsraadgever staat kan ook raadsman of raadsvrouw worden gelezen.:** de persoon bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0039384&artikel=2&z=2017-03-28&g=2017-03-28).
 
 ##### Artikel 2
 
