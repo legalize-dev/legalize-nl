@@ -4,7 +4,7 @@ identifier: "BWBR0037770"
 country: "nl"
 rank: "wet"
 publication_date: "2018-07-01"
-last_updated: "2016-11-01"
+last_updated: "2017-04-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0037770"
 soort: "wet"
@@ -59,7 +59,9 @@ Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel IV
 
-Dit onderdeel is nog niet inwerking getreden
+1. Het recht zoals dat gold voor het tijdstip van inwerkingtreding van deze wet blijft van toepassing ten aanzien van de wijze van vaststelling van de gebieden bedoeld in [artikel 8.5, vijfde lid, van de Wet luchtvaart](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&artikel=8.5) in een luchthavenbesluit waarvan het ontwerp ter inzage is gelegd voor dat tijdstip.
+
+2. Dit lid is nog niet in werking getreden.
 
 ##### Artikel V
 
