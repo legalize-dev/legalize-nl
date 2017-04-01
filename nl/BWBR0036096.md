@@ -4,7 +4,7 @@ identifier: "BWBR0036096"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-01-01"
-last_updated: "2017-01-01"
+last_updated: "2017-04-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0036096"
 soort: "ministeriele-regeling"
@@ -148,9 +148,9 @@ De gegevensverwerking, bedoeld in [artikel 5.2.9, zesde lid, van de wet](https:/
 
 1. Bij het Centraal Informatiepunt Beroepen Gezondheidszorg worden vóór 1 juni van het jaar volgend op het verslagjaar ingediend:
 
-- a. de jaarverslaggeving, bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0036096&hoofdstuk=4&paragraaf=1&artikel=5&z=2017-01-01&g=2017-01-01), in elektronische vorm;
+- a. de jaarverslaggeving, bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0036096&hoofdstuk=4&paragraaf=1&artikel=5&z=2017-04-01&g=2017-04-01), in elektronische vorm;
 
-- b. het jaardocument, bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0036096&hoofdstuk=4&paragraaf=1&artikel=5&z=2017-01-01&g=2017-01-01), in elektronische vorm.
+- b. het jaardocument, bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0036096&hoofdstuk=4&paragraaf=1&artikel=5&z=2017-04-01&g=2017-04-01), in elektronische vorm.
 
 2. De Minister kan een AMHK uitstel van indiening verlenen op een gemotiveerd verzoek, dat uiterlijk acht weken vóór het verstrijken van de in het eerste lid genoemde termijn moet zijn ingediend.
 
@@ -218,13 +218,13 @@ Ingevolge [artikel 3.13, eerste lid, onderdeel b, onder 2°, van het Uitvoerings
 
 ##### Artikel 12
 
-1. Voor de ongehuwde cliënt die de pensioengerechtigde leeftijd heeft bereikt, wordt, indien het op grond van [artikel 3.13, eerste lid, onderdeel a, van het Uitvoeringsbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0035733&artikel=3.13), na toepassing van de [artikelen 9 tot en met 11](https://wetten.overheid.nl/jci1.3:c:BWBR0036096&hoofdstuk=6&artikel=9&z=2017-01-01&g=2017-01-01) berekende bedrag, meer bedraagt dan € 8.409, als extra vrijlating in mindering gebracht 25% van het verschil tussen het berekende bedrag en laatstbedoeld bedrag.
+1. Voor de ongehuwde cliënt die de pensioengerechtigde leeftijd heeft bereikt, wordt, indien het op grond van [artikel 3.13, eerste lid, onderdeel a, van het Uitvoeringsbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0035733&artikel=3.13), na toepassing van de [artikelen 9 tot en met 11](https://wetten.overheid.nl/jci1.3:c:BWBR0036096&hoofdstuk=6&artikel=9&z=2017-04-01&g=2017-04-01) berekende bedrag, meer bedraagt dan € 8.409, als extra vrijlating in mindering gebracht 25% van het verschil tussen het berekende bedrag en laatstbedoeld bedrag.
 
-2. Voor de gehuwde cliënten die de pensioengerechtigde leeftijd hebben bereikt, wordt, indien het op grond van [artikel 3.13, eerste lid, onderdeel a, van het Uitvoeringsbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0035733&artikel=3.13), na toepassing van de [artikelen 9 tot en met 11](https://wetten.overheid.nl/jci1.3:c:BWBR0036096&hoofdstuk=6&artikel=9&z=2017-01-01&g=2017-01-01), berekende bedrag voor hen tezamen, meer bedraagt dan € 9.992, als extra vrijlating in mindering gebracht 25% van het verschil tussen het berekende bedrag en laatstbedoeld bedrag.
+2. Voor de gehuwde cliënten die de pensioengerechtigde leeftijd hebben bereikt, wordt, indien het op grond van [artikel 3.13, eerste lid, onderdeel a, van het Uitvoeringsbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0035733&artikel=3.13), na toepassing van de [artikelen 9 tot en met 11](https://wetten.overheid.nl/jci1.3:c:BWBR0036096&hoofdstuk=6&artikel=9&z=2017-04-01&g=2017-04-01), berekende bedrag voor hen tezamen, meer bedraagt dan € 9.992, als extra vrijlating in mindering gebracht 25% van het verschil tussen het berekende bedrag en laatstbedoeld bedrag.
 
-3. Voor de ongehuwde cliënt die de pensioengerechtigde leeftijd nog niet heeft bereikt, wordt, indien het op grond van [artikel 3.13, eerste lid, onderdeel a, van het Uitvoeringsbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0035733&artikel=3.13), na toepassing van de [artikelen 9 tot en met 11](https://wetten.overheid.nl/jci1.3:c:BWBR0036096&hoofdstuk=6&artikel=9&z=2017-01-01&g=2017-01-01), berekende bedrag, meer bedraagt dan € 6.389, als extra vrijlating in mindering gebracht 25% van het verschil tussen het berekende bedrag en laatstbedoeld bedrag.
+3. Voor de ongehuwde cliënt die de pensioengerechtigde leeftijd nog niet heeft bereikt, wordt, indien het op grond van [artikel 3.13, eerste lid, onderdeel a, van het Uitvoeringsbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0035733&artikel=3.13), na toepassing van de [artikelen 9 tot en met 11](https://wetten.overheid.nl/jci1.3:c:BWBR0036096&hoofdstuk=6&artikel=9&z=2017-04-01&g=2017-04-01), berekende bedrag, meer bedraagt dan € 6.389, als extra vrijlating in mindering gebracht 25% van het verschil tussen het berekende bedrag en laatstbedoeld bedrag.
 
-4. Voor de gehuwde cliënten die de pensioengerechtigde leeftijd nog niet hebben bereikt, wordt, indien het op grond van [artikel 3.13, eerste lid, onderdeel a, van het Uitvoeringsbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0035733&artikel=3.13), na toepassing van de [artikelen 9 tot en met 11](https://wetten.overheid.nl/jci1.3:c:BWBR0036096&hoofdstuk=6&artikel=9&z=2017-01-01&g=2017-01-01), berekende bedrag voor hen tezamen, meer bedraagt dan € 12.909, als extra vrijlating in mindering gebracht 25% van het verschil tussen het berekende bedrag en laatstbedoeld bedrag.
+4. Voor de gehuwde cliënten die de pensioengerechtigde leeftijd nog niet hebben bereikt, wordt, indien het op grond van [artikel 3.13, eerste lid, onderdeel a, van het Uitvoeringsbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0035733&artikel=3.13), na toepassing van de [artikelen 9 tot en met 11](https://wetten.overheid.nl/jci1.3:c:BWBR0036096&hoofdstuk=6&artikel=9&z=2017-04-01&g=2017-04-01), berekende bedrag voor hen tezamen, meer bedraagt dan € 12.909, als extra vrijlating in mindering gebracht 25% van het verschil tussen het berekende bedrag en laatstbedoeld bedrag.
 
 5. Het tweede lid is van toepassing indien een van beide gehuwde cliënten de pensioengerechtigde leeftijd nog niet heeft bereikt.
 
@@ -258,7 +258,7 @@ Wijzigt de Voorzieningenregeling voor militaire oorlogs- en dienstslachtoffers.
 
 ##### Artikel 19
 
-[Artikel 2, tweede tot en met vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036096&hoofdstuk=2&artikel=2&z=2017-01-01&g=2017-01-01), is niet van toepassing op het verrichten van betalingen uit het persoonsgebonden budget voor een verzekerde als bedoeld in [artikel 8.3, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0035362&artikel=8.3), gedurende de looptijd van het indicatiebesluit of uiterlijk tot 1 januari 2016.
+[Artikel 2, tweede tot en met vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036096&hoofdstuk=2&artikel=2&z=2017-04-01&g=2017-04-01), is niet van toepassing op het verrichten van betalingen uit het persoonsgebonden budget voor een verzekerde als bedoeld in [artikel 8.3, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0035362&artikel=8.3), gedurende de looptijd van het indicatiebesluit of uiterlijk tot 1 januari 2016.
 
 ##### Artikel 20
 
@@ -290,7 +290,7 @@ Dit informatieprotocol beschrijft zo gedetailleerd mogelijk:
 
 In onderstaande tabel is een overzicht opgenomen van alle gegevens die aangeleverd moeten worden. Tussen haakjes is aangegeven in welke paragraaf van het informatieprotocol de gegevens worden uitgewerkt.
 
-Ook is in het informatieprotocol opgenomen ([hoofdstuk 5](https://wetten.overheid.nl/jci1.3:c:BWBR0036096&hoofdstuk=5&z=2017-01-01&g=2017-01-01)) welke gegevens van de AMHK organisaties zelf aan CBS geleverd moeten worden. Deze gegevens heeft het CBS nodig om de halfjaarlijkse gegevens uitvraag te doen.
+Ook is in het informatieprotocol opgenomen ([hoofdstuk 5](https://wetten.overheid.nl/jci1.3:c:BWBR0036096&hoofdstuk=5&z=2017-04-01&g=2017-04-01)) welke gegevens van de AMHK organisaties zelf aan CBS geleverd moeten worden. Deze gegevens heeft het CBS nodig om de halfjaarlijkse gegevens uitvraag te doen.
 
 ### 1.3. Opbouw informatieprotocol
 
@@ -954,15 +954,15 @@ Deze regeling zal met toelichting in de Staatscourant worden geplaatst.
 
 ##### Artikel 2a
 
-1. In afwijking van [artikel 2, tweede lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0036096&hoofdstuk=2&artikel=2&z=2017-01-01&g=2017-01-01), kan de Sociale verzekeringsbank rechtstreeks aan de cliënt betalen:
+1. In afwijking van [artikel 2, tweede lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0036096&hoofdstuk=2&artikel=2&z=2017-04-01&g=2017-04-01), kan de Sociale verzekeringsbank rechtstreeks aan de cliënt betalen:
 
 - a. door de cliënt betrokken vervoerskosten; of
 
 - b. een verantwoordingsvrij bedrag voor maatschappelijke ondersteuning.
 
-2. In afwijking van [artikel 2, vierde lid, onderdelen c en d](https://wetten.overheid.nl/jci1.3:c:BWBR0036096&hoofdstuk=2&artikel=2&z=2017-01-01&g=2017-01-01), ontvangt de Sociale verzekeringsbank uiterlijk vier weken na het eindigen van de beschikking, bedoeld in [artikel 2.3.6, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0035362&artikel=2.3.6) een declaratie ter betaling van vervoerskosten van de cliënt.
+2. In afwijking van [artikel 2, vierde lid, onderdelen d en e](https://wetten.overheid.nl/jci1.3:c:BWBR0036096&hoofdstuk=2&artikel=2&z=2017-04-01&g=2017-04-01), ontvangt de Sociale verzekeringsbank uiterlijk vier weken na het eindigen van de beschikking, bedoeld in [artikel 2.3.6, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0035362&artikel=2.3.6) een declaratie ter betaling van vervoerskosten van de cliënt.
 
-3. In afwijking van [artikel 2, derde en vierde lid, onderdelen d ene](https://wetten.overheid.nl/jci1.3:c:BWBR0036096&hoofdstuk=2&artikel=2&z=2017-01-01&g=2017-01-01), ontvangt de Sociale verzekeringsbank een verzoek om een verantwoordingsvrij bedrag voor maatschappelijke ondersteuning uiterlijk voor het eindigen van de beschikking, bedoeld in het tweede lid, van de cliënt.
+3. In afwijking van [artikel 2, derde en vierde lid, onderdelen d ene](https://wetten.overheid.nl/jci1.3:c:BWBR0036096&hoofdstuk=2&artikel=2&z=2017-04-01&g=2017-04-01), ontvangt de Sociale verzekeringsbank een verzoek om een verantwoordingsvrij bedrag voor maatschappelijke ondersteuning uiterlijk voor het eindigen van de beschikking, bedoeld in het tweede lid, van de cliënt.
 
 4. De Sociale verzekeringsbank verricht betalingen, indien de declaratie, bedoeld in het tweede lid, of het verzoek, bedoeld in het derde lid, is opgesteld met gebruikmaking van een model dat door de Sociale verzekeringsbank daartoe beschikbaar is gesteld.
 
@@ -1048,11 +1048,23 @@ Deze regeling zal met toelichting in de Staatscourant worden geplaatst.
 
 ##### Artikel 2b
 
-1. De cliënt sluit een schriftelijke overeenkomst met iedere derde als bedoeld in [artikel 2.3.6, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0035362&artikel=2.3.6), die hij ten laste van zijn persoonsgebonden budget maatschappelijke ondersteuning wenst te laten verlenen, met uitzondering van de derde waarvan reeds vervoer is betrokken.
+1. De cliënt sluit een schriftelijke overeenkomst met iedere derde als bedoeld in [artikel 2.3.6, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0035362&artikel=2.3.6), die hij ten laste van zijn persoonsgebonden budget maatschappelijke ondersteuning wenst te laten verlenen, met uitzondering van de derde van wie reeds vervoer is betrokken.
 
-2. De overeenkomst, bedoeld in het eerste lid, behoeft de goedkeuring van het college en de Sociale verzekeringsbank.
+2. Overeenkomsten, bedoeld in het eerste lid, worden opgesteld volgens de meest recentelijk door de Sociale verzekeringsbank vastgestelde toepasselijke modelovereenkomsten, die beschikbaar waren gesteld ten tijde van het afsluiten van die overeenkomst, en bevatten bovendien ten minste:
 
-3. De goedkeuring van de Sociale verzekeringsbank kan slechts worden onthouden wegens strijd met het recht, het belang van de uitvoerbaarheid van het persoonsgebonden budget of van het budgetbeheer, bedoeld in [artikel 2.6.2, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0035362&artikel=2.6.2).
+- a. een weergave van de wijze waarop de derde zal voorzien in de behoefte aan maatschappelijke ondersteuning van de cliënt;
+
+- b. de verplichting dat een declaratie de vereiste gegevens, bedoeld in [artikel 2, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036096&hoofdstuk=2&artikel=2&z=2017-04-01&g=2017-04-01), bevat;
+
+- c. een beding, inhoudende dat het college een vordering heeft op de persoon die ten laste van het persoonsgebonden budget maatschappelijke ondersteuning levert indien het persoonsgebonden budget naar aanleiding van toerekenbaar handelen van die persoon is ingetrokken of herzien, ter hoogte van het bedrag dat gelijk is aan het door die persoon vanwege dat toerekenbaar handelen ten laste van het persoonsgebonden budget ten onrechte ontvangen bedrag.
+
+3. De overeenkomst, bedoeld in het eerste lid, behoeft de goedkeuring van het college en de Sociale verzekeringsbank.
+
+4. Door het college kan de goedkeuring slechts worden gegeven indien de overeenkomst voldoet aan de eisen, bedoeld in het tweede lid.
+
+5. De Sociale verzekeringsbank kan haar goedkeuring slechts onthouden wegens strijd met het recht, het belang van de uitvoerbaarheid van het persoonsgebonden budget of van het budgetbeheer, bedoeld in [artikel 2.6.2, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0035362&artikel=2.6.2).
+
+6. Een wijziging van een goedgekeurde overeenkomst als bedoeld in het tweede lid wordt onmiddellijk met een formulier aan de Sociale verzekeringsbank kenbaar gemaakt met het model dat door de Sociale verzekeringsbank daartoe beschikbaar is gesteld.
 
 ##### Artikel 2c
 
@@ -1070,7 +1082,7 @@ De cliënt doet aan de Sociale verzekeringsbank op verzoek of onverwijld uit eig
 
 ### Hoofdstuk 8. Overgang- en slotbepalingen
 
-## Bijlage. behorende bij [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0036096&hoofdstuk=4&paragraaf=2&artikel=7&z=2017-01-01&g=2017-01-01) van de Uitvoeringsregeling Wmo 2015
+## Bijlage. behorende bij [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0036096&hoofdstuk=4&paragraaf=2&artikel=7&z=2017-04-01&g=2017-04-01) van de Uitvoeringsregeling Wmo 2015
 
 ### 1. Inleiding
 
