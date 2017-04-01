@@ -4,7 +4,7 @@ identifier: "BWBV0006614"
 country: "nl"
 rank: "verdrag"
 publication_date: "2017-04-01"
-last_updated: "2016-06-27"
+last_updated: "2017-04-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBV0006614"
 soort: "verdrag"
@@ -74,7 +74,7 @@ For the purposes of this Agreement, unless otherwise stated:
 
 - i). the term “the Convention” means the [Convention on International Civil Aviation](https://wetten.overheid.nl/jci1.3:c:BWBV0005507), opened for signature at Chicago on the seventh day of December, 1944, and includes any Annex adopted under [Article 90 of that Convention](https://wetten.overheid.nl/jci1.3:c:BWBV0005507&artikel=90), and any amendment of the Annexes or Convention under Articles 90 and [94](https://wetten.overheid.nl/jci1.3:c:BWBV0005507&artikel=94) thereof, insofar as such Annexes and amendments have become effective for both Contracting Parties;
 
-- j). the term “Designated Airline” means an Airline which has been designated and authorized in accordance with [Article 3](https://wetten.overheid.nl/jci1.3:c:BWBV0006614&hoofdstuk=II&artikel=3&z=2016-06-27&g=2016-06-27) of this Agreement (Designation and Authorization);
+- j). the term “Designated Airline” means an Airline which has been designated and authorized in accordance with [Article 3](https://wetten.overheid.nl/jci1.3:c:BWBV0006614&hoofdstuk=II&artikel=3&z=2017-04-01&g=2017-04-01) of this Agreement (Designation and Authorization);
 
 - k). the term “EU Member State” means a State that is now or in the future a Contracting Party to the Treaty on the European Union and the Treaty on the functioning of the European Union;
 
@@ -108,7 +108,7 @@ For the purposes of this Agreement, unless otherwise stated:
 
 - c). the right to make stops at the point(s) on the route(s) specified in the Route Schedule to this Agreement for the purpose of taking on board and discharging international traffic in passengers, cargo or mail separately or in combination.
 
-3. The Airlines of each Contracting Party, other than those designated under [Article 3](https://wetten.overheid.nl/jci1.3:c:BWBV0006614&hoofdstuk=II&artikel=3&z=2016-06-27&g=2016-06-27) (Designation and Authorization) of this Agreement, shall also enjoy the rights specified in paragraphs 2 (a) and (b) of this Article.
+3. The Airlines of each Contracting Party, other than those designated under [Article 3](https://wetten.overheid.nl/jci1.3:c:BWBV0006614&hoofdstuk=II&artikel=3&z=2017-04-01&g=2017-04-01) (Designation and Authorization) of this Agreement, shall also enjoy the rights specified in paragraphs 2 (a) and (b) of this Article.
 
 4. Nothing in paragraph 2 of this Article shall be deemed to confer on the Airline(s) of one Contracting Party the privilege of taking up, in the Territory of the other Contracting Party, passengers, cargo or mail carried for remuneration or hire and destined for another point in the Territory of that other Contracting Party (cabotage).
 
@@ -134,7 +134,7 @@ For the purposes of this Agreement, unless otherwise stated:
 
 - iii. the Airline is owned, directly or through majority ownership, and it is effectively controlled by the Republic of the Union of Myanmar and/or by nationals of such State; and that:
 
-- c). the standards set forth in [Article 18](https://wetten.overheid.nl/jci1.3:c:BWBV0006614&hoofdstuk=V&artikel=18&z=2016-06-27&g=2016-06-27) (Safety) and [Article 19](https://wetten.overheid.nl/jci1.3:c:BWBV0006614&hoofdstuk=V&artikel=19&z=2016-06-27&g=2016-06-27) (Aviation Security) are being maintained and administered;
+- c). the standards set forth in [Article 18](https://wetten.overheid.nl/jci1.3:c:BWBV0006614&hoofdstuk=V&artikel=18&z=2017-04-01&g=2017-04-01) (Safety) and [Article 19](https://wetten.overheid.nl/jci1.3:c:BWBV0006614&hoofdstuk=V&artikel=19&z=2017-04-01&g=2017-04-01) (Aviation Security) are being maintained and administered;
 
 - d). the Designated Airline is qualified to meet the conditions prescribed under the laws and regulations normally applied to the operations of International Air Transportation by the Contracting Party considering the application or applications.
 
@@ -160,9 +160,9 @@ For the purposes of this Agreement, unless otherwise stated:
 
 - iii. the Airline is not owned, directly or through majority ownership, or is not effectively controlled by the Republic of the Union of Myanmar and/or by nationals of such State;
 
-- c). in case the Airline has failed to comply with the laws and regulations referred to in [Article 16](https://wetten.overheid.nl/jci1.3:c:BWBV0006614&hoofdstuk=V&artikel=16&z=2016-06-27&g=2016-06-27) (Application of Laws, Regulations and Procedures) of this Agreement;
+- c). in case the Airline has failed to comply with the laws and regulations referred to in [Article 16](https://wetten.overheid.nl/jci1.3:c:BWBV0006614&hoofdstuk=V&artikel=16&z=2017-04-01&g=2017-04-01) (Application of Laws, Regulations and Procedures) of this Agreement;
 
-- d). in any case the standards set forth in this Agreement, especially in [Articles 18](https://wetten.overheid.nl/jci1.3:c:BWBV0006614&hoofdstuk=V&artikel=18&z=2016-06-27&g=2016-06-27) (Safety) and [19](https://wetten.overheid.nl/jci1.3:c:BWBV0006614&hoofdstuk=V&artikel=19&z=2016-06-27&g=2016-06-27) (Aviation Security) are not being maintained and administered;
+- d). in any case the standards set forth in this Agreement, especially in [Articles 18](https://wetten.overheid.nl/jci1.3:c:BWBV0006614&hoofdstuk=V&artikel=18&z=2017-04-01&g=2017-04-01) (Safety) and [19](https://wetten.overheid.nl/jci1.3:c:BWBV0006614&hoofdstuk=V&artikel=19&z=2017-04-01&g=2017-04-01) (Aviation Security) are not being maintained and administered;
 
 - e). in the event of failure by such Airline to qualify before the Aeronautical Authorities of the Contracting Party assessing the authorization, under the laws and regulations normally and reasonably applied to the operation of International Air Services by these Authorities in conformity with the [Convention](https://wetten.overheid.nl/jci1.3:c:BWBV0005507);
 
@@ -264,9 +264,9 @@ Subject to the laws and regulations of each Contracting Party, each Designated A
 
 - f). behaviour indicating an abuse of dominant position on the route.
 
-2. If the Aeronautical Authorities of one Contracting Party consider that an operation or operations intended or conducted by the Designated Airline of the other Contracting Party may constitute unfair competitive behaviour in accordance with the indicators listed in paragraph 1 of this Article, they may request consultation in accordance with [Article 23](https://wetten.overheid.nl/jci1.3:c:BWBV0006614&hoofdstuk=V&artikel=23&z=2016-06-27&g=2016-06-27) (Consultations and Amendment) with a view to resolving the problem. Any such request shall be accompanied by notice of the reasons for the request, and the consultation shall begin within fifteen (15) days of the request.
+2. If the Aeronautical Authorities of one Contracting Party consider that an operation or operations intended or conducted by the Designated Airline of the other Contracting Party may constitute unfair competitive behaviour in accordance with the indicators listed in paragraph 1 of this Article, they may request consultation in accordance with [Article 23](https://wetten.overheid.nl/jci1.3:c:BWBV0006614&hoofdstuk=V&artikel=23&z=2017-04-01&g=2017-04-01) (Consultations and Amendment) with a view to resolving the problem. Any such request shall be accompanied by notice of the reasons for the request, and the consultation shall begin within fifteen (15) days of the request.
 
-3. If the Contracting Parties fail to reach a resolution of the problem through consultations, either Contracting Party may invoke the dispute resolution mechanism under [Article 24](https://wetten.overheid.nl/jci1.3:c:BWBV0006614&hoofdstuk=V&artikel=24&z=2016-06-27&g=2016-06-27) (Settlement of Disputes) to resolve the dispute.
+3. If the Contracting Parties fail to reach a resolution of the problem through consultations, either Contracting Party may invoke the dispute resolution mechanism under [Article 24](https://wetten.overheid.nl/jci1.3:c:BWBV0006614&hoofdstuk=V&artikel=24&z=2017-04-01&g=2017-04-01) (Settlement of Disputes) to resolve the dispute.
 
 ##### Article 12. Capacity
 
@@ -328,7 +328,7 @@ Each Designated Airline shall have the right to convert and remit to its country
 
 1. Each Contracting Party may request consultations at any time concerning the safety standards maintained by the other Contracting Party in areas relating to aeronautical facilities, flight crew, aircraft and the operation of aircraft. Such consultations shall take place within thirty (30) days of that request.
 
-2. If, following such consultations, one Contracting Party finds that the other Contracting Party does not effectively maintain and administer safety standards and requirements in any such area that are at least equal to the minimum standards established at that time pursuant to the [Convention](https://wetten.overheid.nl/jci1.3:c:BWBV0005507), the first Contracting Party shall notify the other Contracting Party of those findings and the steps considered necessary to conform with those minimum standards, and that other Contracting Party shall take appropriate corrective action. Failure by the other Contracting Party to take appropriate action within fifteen (15) days or such longer period as may be agreed, shall be grounds for the application of [Article 4](https://wetten.overheid.nl/jci1.3:c:BWBV0006614&hoofdstuk=II&artikel=4&z=2016-06-27&g=2016-06-27) of this Agreement (Revocation and Suspension of Authorization).
+2. If, following such consultations, one Contracting Party finds that the other Contracting Party does not effectively maintain and administer safety standards and requirements in any such area that are at least equal to the minimum standards established at that time pursuant to the [Convention](https://wetten.overheid.nl/jci1.3:c:BWBV0005507), the first Contracting Party shall notify the other Contracting Party of those findings and the steps considered necessary to conform with those minimum standards, and that other Contracting Party shall take appropriate corrective action. Failure by the other Contracting Party to take appropriate action within fifteen (15) days or such longer period as may be agreed, shall be grounds for the application of [Article 4](https://wetten.overheid.nl/jci1.3:c:BWBV0006614&hoofdstuk=II&artikel=4&z=2017-04-01&g=2017-04-01) of this Agreement (Revocation and Suspension of Authorization).
 
 3. Notwithstanding the obligations mentioned in [Article 33 of the Convention](https://wetten.overheid.nl/jci1.3:c:BWBV0005507&artikel=33), it is agreed that any Aircraft operated by or, under a lease arrangement, on behalf of the Airline or Airlines of one Contracting Party on Services to or from the Territory of the other Contracting Party may, while within the Territory of the other Contracting Party, be made the subject of an examination by the authorized representatives of the other Contracting Party, on board and around the aircraft, to check both the validity of the aircraft documents and those of its crew and the apparent conditions of the aircraft and its equipment (ramp inspections), provided this does not lead to unreasonable delay.
 
