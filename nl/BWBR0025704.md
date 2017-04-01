@@ -4,7 +4,7 @@ identifier: "BWBR0025704"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2024-01-01"
-last_updated: "2016-07-01"
+last_updated: "2017-04-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0025704"
 soort: "ministeriele-regeling"
@@ -39,6 +39,8 @@ entry_into_force: "2009-05-01"
 Gelet op de [artikelen 1.1](https://wetten.overheid.nl/jci1.3:c:BWBR0024800&artikel=1.1), [2.1, derde lid, onder a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0024800&artikel=2.1), [2.2](https://wetten.overheid.nl/jci1.3:c:BWBR0024800&artikel=2.2), [2.3, vierde en zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024800&artikel=2.3), [2.6](https://wetten.overheid.nl/jci1.3:c:BWBR0024800&artikel=2.6), [2.8, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024800&artikel=2.8), [2.11, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024800&artikel=2.11), [2.13, tweede lid, onderdeel b, en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024800&artikel=2.13), [4.1, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024800&artikel=4.1), en [4.3, tweede lid, van de Wet wegvervoer goederen](https://wetten.overheid.nl/jci1.3:c:BWBR0024800&artikel=4.3);
 
 Besluit:
+
+Treedt in werking op het tijdstip waarop de Wet wegvervoer goederen, met uitzondering van artikel 8.4, onderdelen A tot en met D, in werking treedt.
 
 ### Hoofdstuk 1. Inleidende bepalingen
 
@@ -106,7 +108,7 @@ Aan de eis van vakbekwaamheid wordt voldaan door degene die een getuigschrift ov
 
 - c. een belastingadviseur die is ingeschreven in het Register Belastingadviseurs; ofd. een accountant of belastingdeskundige, aangesloten bij een door de NIWO na goedkeuring van de Minister daartoe aangewezen instelling.
 
-7. Omtrent het voldoen aan de eis van financiële draagkracht stelt de NIWO een onderzoek in als bedoeld in [artikel 3, derde lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0025704&hoofdstuk=2&artikel=3&z=2016-07-01&g=2016-07-01) van de beroepsrichtlijn voor het wegvervoer.
+7. Omtrent het voldoen aan de eis van financiële draagkracht stelt de NIWO een onderzoek in als bedoeld in [artikel 3, derde lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0025704&hoofdstuk=2&artikel=3&z=2017-04-01&g=2017-04-01) van de beroepsrichtlijn voor het wegvervoer.
 
 8. De NIWO kan de vervoerder een uitstel van ten hoogste zes maanden verlenen om te voldoen aan de eis van financiële draagkracht indien hij heeft aangetoond dat het op grond van de algemene economische situatie van zijn vervoeronderneming waarschijnlijk is dat hij voor afloop van het verleende uitstel zal voldoen aan de eis van financiële draagkracht.
 
@@ -242,7 +244,7 @@ De NIWO is mede belast met de afgifte van uitnodigingen als bedoeld in artikel 4
 
 ##### Artikel 18
 
-1. Overtreding van de [artikelen 8, eerste en derde tot en met vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025704&hoofdstuk=4&artikel=8&z=2016-07-01&g=2016-07-01) en [10](https://wetten.overheid.nl/jci1.3:c:BWBR0025704&hoofdstuk=4&artikel=10&z=2016-07-01&g=2016-07-01) vormt een strafbaar feit.
+1. Overtreding van de [artikelen 8, eerste en derde tot en met vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025704&hoofdstuk=4&artikel=8&z=2017-04-01&g=2017-04-01) en [10](https://wetten.overheid.nl/jci1.3:c:BWBR0025704&hoofdstuk=4&artikel=10&z=2017-04-01&g=2017-04-01) vormt een strafbaar feit.
 
 2. Als bepalingen, bedoeld in artikel 2.6, eerste lid, van de wet, worden aangewezen:
 
@@ -252,7 +254,7 @@ De NIWO is mede belast met de afgifte van uitnodigingen als bedoeld in artikel 4
 
 - c. [artikel 5.1.1, eerste lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&artikel=5.1.1), juncto [hoofdstuk 5, afdeling 3](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&afdeling=3) en [12, van de Regeling voertuigen](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&afdeling=12), voor zover overtreding van [artikel 5.1.1, eerste lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&artikel=5.1.1), leidt tot een bevel ingevolge [artikel 160, zevende lid, van de Wegenverkeerswet 1994](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=160) om het voertuig te herstellen alvorens het weer aan het verkeer mag deelnemen;
 
-- d. [artikel 5.1.2](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&artikel=5.1.2) juncto de [artikelen 5.18.17a tot en met 5.18.17g](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&artikel=5.18.17a) of juncto [artikel 5.18.25 van de Regeling voertuigen](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&artikel=5.18.25).
+- d. [artikel 5.1.2](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&artikel=5.1.2) juncto de [artikelen 5.18.17a tot en met 5.18.17g](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&artikel=5.18.17a) of juncto de [artikelen 5.18.25 tot en met 5.18.25d van de Regeling voertuigen](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&artikel=5.18.25).
 
 3. Als bepalingen, bedoeld in [artikel 2.6, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0024800&artikel=2.6), worden aangewezen [artikel 5.1.2](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&artikel=5.1.2) in verbinding met de [artikelen 5.18.17a tot en met 5.18.17g](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&artikel=5.18.17a) of in verbinding met [artikel 5.18.25 van de Regeling voertuigen](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&artikel=5.18.25).
 
