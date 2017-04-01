@@ -4,7 +4,7 @@ identifier: "BWBR0036786"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2024-01-01"
-last_updated: "2015-12-01"
+last_updated: "2017-04-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0036786"
 soort: "ministeriele-regeling"
@@ -40,19 +40,17 @@ Gelet op de [artikelen 14, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0
 
 Besluit:
 
+Treedt in werking op het tijdstip waarop de Regeling windenergie op zee 2015 in werking treedt.
+
 ##### Artikel 1
 
-1. Bij de beoordeling of de bouw en exploitatie van een windpark technisch haalbaar is wordt rekening gehouden met de door de aanvrager overlegde informatie, bedoeld in [artikel 2, tweede lid, onderdeel f van de Algemene uitvoeringsregeling stimulering duurzame energieproductie](https://wetten.overheid.nl/jci1.3:c:BWBR0023563&artikel=2).
+1. Bij de beoordeling of de bouw en exploitatie van een windpark technisch haalbaar is, wordt rekening gehouden met de door de aanvrager overgelegde haalbaarheidsstudie, bedoeld in [artikel 2a, eerste lid, van de Algemene uitvoeringsregeling stimulering duurzame energieproductie](https://wetten.overheid.nl/jci1.3:c:BWBR0023563&artikel=2a) en het door de aanvrager overgelegde projectplan, bedoeld in [artikel 2c, onderdeel d, van de Algemene uitvoeringsregeling stimulering duurzame energieproductie](https://wetten.overheid.nl/jci1.3:c:BWBR0023563&artikel=2c).
 
-2. Bij de beoordeling of de bouw en exploitatie van een windpark financieel haalbaar is wordt rekening gehouden met het door de aanvrager verstrekte inzicht in het eigen vermogen, bedoeld in [artikel 2, derde lid, van de Algemene uitvoeringsregeling stimulering duurzame energieproductie](https://wetten.overheid.nl/jci1.3:c:BWBR0023563&artikel=2).
+2. Bij de beoordeling of de bouw en exploitatie van een windpark financieel haalbaar is, wordt rekening gehouden met de door de aanvrager overgelegde haalbaarheidsstudie, bedoeld in [artikel 2a, eerste lid, van de Algemene uitvoeringsregeling stimulering duurzame energieproductie](https://wetten.overheid.nl/jci1.3:c:BWBR0023563&artikel=2a) en de door de aanvrager overgelegde gegevens, bedoeld in [artikel 2c, onderdelen a en b, van de Algemene uitvoeringsregeling stimulering duurzame energieproductie](https://wetten.overheid.nl/jci1.3:c:BWBR0023563&artikel=2c).
 
-3. Bij de beoordeling of de bouw van een windpark gestart kan worden binnen vier jaar na de datum waarop de vergunning onherroepelijk is geworden wordt rekening gehouden met het door de aanvrager uitgewerkte tijdschema, bedoeld in [artikel 2, eerste lid, onderdeel a, van de Algemene uitvoeringsregeling stimulering duurzame energieproductie](https://wetten.overheid.nl/jci1.3:c:BWBR0023563&artikel=2).
+3. Bij de beoordeling of de bouw van een windpark gestart kan worden binnen vier jaar na de datum waarop de vergunning onherroepelijk is geworden, wordt rekening gehouden met het door de aanvrager verstrekte tijdschema, bedoeld in [artikel 56, vierde lid, onderdeel f, van het Besluit stimulering duurzame energieproductie](https://wetten.overheid.nl/jci1.3:c:BWBR0022735&artikel=56) en het door de aanvrager overgelegde projectplan, bedoeld in [artikel 2c, onderdeel d, van de Algemene uitvoeringsregeling stimulering duurzame energieproductie](https://wetten.overheid.nl/jci1.3:c:BWBR0023563&artikel=2c).
 
-4. Bij de beoordeling of de bouw en exploitatie van een windpark economisch haalbaar is wordt rekening gehouden met de door de aanvrager ingediende:
-
-- a. exploitatieberekening, bedoeld in [artikel 2, eerste lid, onderdeel b, van de Algemene uitvoeringsregeling stimulering duurzame energieproductie](https://wetten.overheid.nl/jci1.3:c:BWBR0023563&artikel=2) en
-
-- b. windenergie-opbrengstberekening, bedoeld in [artikel 2, tweede lid, onderdeel e, van de Algemene uitvoeringsregeling stimulering duurzame energieproductie](https://wetten.overheid.nl/jci1.3:c:BWBR0023563&artikel=2).
+4. Bij de beoordeling of de bouw en exploitatie van een windpark economisch haalbaar is, wordt rekening gehouden met de door de aanvrager overgelegde haalbaarheidsstudie, bedoeld in [artikel 2a, eerste lid, van de Algemene uitvoeringsregeling stimulering duurzame energieproductie](https://wetten.overheid.nl/jci1.3:c:BWBR0023563&artikel=2a).
 
 ##### Artikel 2
 
@@ -60,7 +58,7 @@ De geldsom voor het in behandeling nemen van een aanvraag om een vergunning bedr
 
 ##### Artikel 3
 
-Deze regeling treedt in werking op het tijdstip dat de [Regeling windenergie op zee 2015](https://wetten.overheid.nl/jci1.3:c:BWBR0036785&wetgeving) in werking treedt.
+Deze regeling treedt in werking op het tijdstip dat de [Regeling windenergie op zee 2015](https://wetten.overheid.nl/jci1.3:c:BWBR0036785) in werking treedt.
 
 ##### Artikel 4
 
