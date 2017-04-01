@@ -415,17 +415,3 @@ Dit onderdeel is nog niet inwerking getreden
 ##### Artikel LX
 
 Dit onderdeel is nog niet inwerking getreden
-
-Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
-
-Alzo Wij in overweging genomen hebben, dat het wenselijk is fiscale maatregelen te treffen die voortvloeien uit de koopkrachtbesluitvorming voor het jaar 2023 en dat het ook in het kader van het fiscale beleid voor het jaar 2023 en volgende jaren wenselijk is in een aantal belastingwetten en enige andere wetten wijzigingen aan te brengen;
-
-Zo is het, dat Wij, de Afdeling advisering van de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
-
-Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren die zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
-
-##### Artikel XXIIa
-
-In de [Wet op de belasting van personenauto’s en motorrijwielen 1992](https://wetten.overheid.nl/jci1.3:c:BWBR0005806) vervalt [artikel 22](https://wetten.overheid.nl/jci1.3:c:BWBR0005806&artikel=22) met ingang van 1 januari 2030.
-
-Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren die zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
