@@ -4,7 +4,7 @@ identifier: "BWBR0027765"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2017-04-01"
-last_updated: "2016-10-06"
+last_updated: "2017-04-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0027765"
 soort: "ministeriele-regeling"
@@ -52,9 +52,9 @@ In deze regeling wordt verstaan onder:
 
 - 1°. Minister van Sociale Zaken en Werkgelegenheid;
 
-- 2°. Minister van Onderwijs, Cultuur en Wetenschap, voor zover de aanvraag en de verklaring vooraf als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0027765&artikel=2&z=2016-10-06&g=2016-10-06), de gereglementeerde beroepen, genoemd in [artikel 2, onderdeel a, subonderdelen 4° en 5°](https://wetten.overheid.nl/jci1.3:c:BWBR0027765&artikel=2&z=2016-10-06&g=2016-10-06), betreffen;
+- 2°. Minister van Onderwijs, Cultuur en Wetenschap, voor zover de aanvraag en de verklaring vooraf als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0027765&artikel=2&z=2017-04-01&g=2017-04-01), de gereglementeerde beroepen, genoemd in [artikel 2, onderdeel a, subonderdelen 4° en 5°](https://wetten.overheid.nl/jci1.3:c:BWBR0027765&artikel=2&z=2017-04-01&g=2017-04-01), betreffen;
 
-- d. **wet:** [Algemene wet erkenning EU-beroepskwalificaties](https://wetten.overheid.nl/jci1.3:c:BWBR0023066&wetgeving);
+- d. **wet:** [Algemene wet erkenning EU-beroepskwalificaties](https://wetten.overheid.nl/jci1.3:c:BWBR0023066);
 
 - e. **kindercentrum:** voorziening als bedoeld in [artikel 1.1, eerste lid, van de Wet kinderopvang en kwaliteitseisen peuterspeelzalen](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&artikel=1.1);
 
@@ -96,7 +96,7 @@ Deze regeling is van toepassing op:
 
 - d. in voorkomend geval een bewijs van de beroepservaring;
 
-- e. voor de gereglementeerde beroepen, bedoeld in [artikel 2, onderdeel a, onder 1°, 2°, 3° en 6°](https://wetten.overheid.nl/jci1.3:c:BWBR0027765&artikel=2&z=2016-10-06&g=2016-10-06), een verklaring omtrent het gedrag als bedoeld in de [Wet justitiële en strafvorderlijke gegevens](https://wetten.overheid.nl/jci1.3:c:BWBR0014194) of een met die verklaring overeenkomend document als bedoeld in [artikel 14, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0023066&artikel=14), of een attest waaruit blijkt van een verklaring onder ede of plechtige verklaring als bedoeld in artikel 14, tweede lid, van de wet;
+- e. voor de gereglementeerde beroepen, bedoeld in [artikel 2, onderdeel a, onder 1°, 2°, 3° en 6°](https://wetten.overheid.nl/jci1.3:c:BWBR0027765&artikel=2&z=2017-04-01&g=2017-04-01), een verklaring omtrent het gedrag als bedoeld in de [Wet justitiële en strafvorderlijke gegevens](https://wetten.overheid.nl/jci1.3:c:BWBR0014194) of een met die verklaring overeenkomend document als bedoeld in [artikel 14, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0023066&artikel=14), of een attest waaruit blijkt van een verklaring onder ede of plechtige verklaring als bedoeld in artikel 14, tweede lid, van de wet;
 
 - f. indien de aanvraag en de onder b tot en met e bedoelde stukken in een andere dan de Nederlandse, Duitse of Engelse taal zijn gesteld, een door een beëdigd tolk/vertaler opgestelde vertaling daarvan in één van deze talen.
 
@@ -158,7 +158,7 @@ Een dienstverrichter verstrekt aan de minister de volgende documenten, bedoeld i
 
 ##### Artikel 8. Dienst Uitvoering Onderwijs
 
-1. Aan de Directeur-generaal van de Dienst Uitvoering Onderwijs wordt mandaat, volmacht en machtiging verleend tot het nemen van besluiten en het verrichten van alle benodigde werkzaamheden, waaronder het vaststellen en ondertekenen van stukken, ter uitvoering van de bevoegdheden van de Minister van Sociale Zaken en Werkgelegenheid bedoeld in de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0027765&artikel=3&z=2016-10-06&g=2016-10-06), [4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0027765&artikel=4&z=2016-10-06&g=2016-10-06), [5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0027765&artikel=5&z=2016-10-06&g=2016-10-06), en [7](https://wetten.overheid.nl/jci1.3:c:BWBR0027765&artikel=7&z=2016-10-06&g=2016-10-06), en de [artikelen 31a](https://wetten.overheid.nl/jci1.3:c:BWBR0023066&artikel=31a) en [31b van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0023066&artikel=31b) met betrekking tot de in [artikel 2, onderdeel a, onder 1°, 2°, 3° en 6°](https://wetten.overheid.nl/jci1.3:c:BWBR0027765&artikel=2&z=2016-10-06&g=2016-10-06) bedoelde gereglementeerde beroepen.
+1. Aan de Directeur-generaal van de Dienst Uitvoering Onderwijs wordt mandaat, volmacht en machtiging verleend tot het nemen van besluiten en het verrichten van alle benodigde werkzaamheden, waaronder het vaststellen en ondertekenen van stukken, ter uitvoering van de bevoegdheden van de Minister van Sociale Zaken en Werkgelegenheid bedoeld in de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0027765&artikel=3&z=2017-04-01&g=2017-04-01), [4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0027765&artikel=4&z=2017-04-01&g=2017-04-01), [5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0027765&artikel=5&z=2017-04-01&g=2017-04-01), en [7](https://wetten.overheid.nl/jci1.3:c:BWBR0027765&artikel=7&z=2017-04-01&g=2017-04-01), en de [artikelen 31a](https://wetten.overheid.nl/jci1.3:c:BWBR0023066&artikel=31a), [31b](https://wetten.overheid.nl/jci1.3:c:BWBR0023066&artikel=31b) en [31c van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0023066&artikel=31c) met betrekking tot de in [artikel 2, onderdeel a, onder 1°, 2°, 3° en 6°](https://wetten.overheid.nl/jci1.3:c:BWBR0027765&artikel=2&z=2017-04-01&g=2017-04-01) bedoelde gereglementeerde beroepen.
 
 2. Aan de Directeur-generaal van de Dienst Uitvoering Onderwijs wordt mandaat en machtiging verleend met betrekking tot het nemen van besluiten over en het vaststellen en ondertekenen van stukken die betrekking hebben op de afhandeling van administratieve stukken inzake klacht-, bezwaar- en beroepsprocedures, voor zover deze verband houden met de uitoefening van de bevoegdheden, genoemd in het eerste lid, met dien verstande dat de Directeur-generaal geen besluit op bezwaar neemt met betrekking tot een bezwaarschrift tegen een besluit dat hij in mandaat heeft genomen.
 
