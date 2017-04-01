@@ -4,7 +4,7 @@ identifier: "BWBV0005264"
 country: "nl"
 rank: "verdrag"
 publication_date: "2017-04-01"
-last_updated: "2017-01-01"
+last_updated: "2017-04-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBV0005264"
 soort: "verdrag"
@@ -5921,9 +5921,9 @@ GEDAAN te Cotonou, de drieëntwintigste juni 2000.
 
 1. Het bedrag van de aanvullende financiële middelen is gelijk aan de daling van de exportopbrengsten vermenigvuldigd met het rekenkundig gemiddelde van de verhouding overheidsinkomsten/bruto binnenlands product in de vier aan het toepassingsjaar voorafgaande jaren, waarbij geen rekening wordt gehouden met de meest extreme waarde en het verhoudingscijfer ten hoogste 25% bedraagt.
 
-2. De door de ACS-staten verstrekte gegevens voor het bepalen van de toekenningscriteria en de in [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBV0005264&bijlage=II&hoofdstuk=3&artikel=9&z=2017-01-01&g=2017-01-01) omschreven aanvullende financiële middelen worden door de Commissie geanalyseerd in de plaatselijke munteenheid, gecorrigeerd voor inflatie. De Commissie rekent vervolgens het potentiële bedrag van de aanvullende financiële middelen overeenkomstig haar procedures om in euro.
+2. De door de ACS-staten verstrekte gegevens voor het bepalen van de toekenningscriteria en de in [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBV0005264&bijlage=II&hoofdstuk=3&artikel=9&z=2017-04-01&g=2017-04-01) omschreven aanvullende financiële middelen worden door de Commissie geanalyseerd in de plaatselijke munteenheid, gecorrigeerd voor inflatie. De Commissie rekent vervolgens het potentiële bedrag van de aanvullende financiële middelen overeenkomstig haar procedures om in euro.
 
-3. Binnen de totale toewijzing voor de nationale indicatieve programma’s stelt de Commissie jaarlijks voor alle ACS-staten een toewijzing vast voor steun in geval van kortetermijnfluctuaties van de exportopbrengsten. Indien het bedrag van de financiële middelen dat op basis van de in [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBV0005264&bijlage=II&hoofdstuk=3&artikel=9&z=2017-01-01&g=2017-01-01) vastgestelde criteria wordt berekend, hoger is dan die toewijzing, worden de nationale toewijzingen verdeeld naar verhouding van het in euro uitgedrukte potentiële bedrag van de aanvullende financiële middelen voor iedere ACS-staat.
+3. Binnen de totale toewijzing voor de nationale indicatieve programma’s stelt de Commissie jaarlijks voor alle ACS-staten een toewijzing vast voor steun in geval van kortetermijnfluctuaties van de exportopbrengsten. Indien het bedrag van de financiële middelen dat op basis van de in [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBV0005264&bijlage=II&hoofdstuk=3&artikel=9&z=2017-04-01&g=2017-04-01) vastgestelde criteria wordt berekend, hoger is dan die toewijzing, worden de nationale toewijzingen verdeeld naar verhouding van het in euro uitgedrukte potentiële bedrag van de aanvullende financiële middelen voor iedere ACS-staat.
 
 ##### Artikel 10. Voorschotten
 
@@ -9719,7 +9719,7 @@ De betrokken ACS-staten verbinden zich ertoe om ten aanzien van maatregelen uit 
 
 2. Het recht op aanvullende financiële middelen is van toepassing wanneer de in lid 1 omschreven daling van de exportopbrengsten ten minste 0,5% van het bbp bedraagt. Het recht op aanvullende financiële middelen is beperkt tot drie opeenvolgende jaren.
 
-3. De aanvullende financiële middelen worden opgenomen in de openbare rekeningen van het betrokken land. Zij worden gebruikt overeenkomstig de programmeringsregels en -methoden, inclusief de specifieke bepalingen van [bijlage IV „Procedures voor tenuitvoerlegging en beheer”](https://wetten.overheid.nl/jci1.3:c:BWBV0005264&bijlage=IV&z=2017-01-01&g=2017-01-01), op basis van vooraf opgestelde overeenkomsten tussen de Gemeenschap en de betrokken ACS-staat in het jaar volgend op het toepassingsjaar. Bij overeenstemming tussen de partijen kunnen de middelen worden gebruikt voor financiering van in de nationale begroting opgenomen programma’s. Een deel van de aanvullende financiële middelen kan evenwel worden bestemd voor specifieke sectoren, met name voor de ontwikkeling van commerciële verzekeringsregelingen die bescherming bieden tegen fluctuaties van exportopbrengsten.
+3. De aanvullende financiële middelen worden opgenomen in de openbare rekeningen van het betrokken land. Zij worden gebruikt overeenkomstig de programmeringsregels en -methoden, inclusief de specifieke bepalingen van [bijlage IV „Procedures voor tenuitvoerlegging en beheer”](https://wetten.overheid.nl/jci1.3:c:BWBV0005264&bijlage=IV&z=2017-04-01&g=2017-04-01), op basis van vooraf opgestelde overeenkomsten tussen de Gemeenschap en de betrokken ACS-staat in het jaar volgend op het toepassingsjaar. Bij overeenstemming tussen de partijen kunnen de middelen worden gebruikt voor financiering van in de nationale begroting opgenomen programma’s. Een deel van de aanvullende financiële middelen kan evenwel worden bestemd voor specifieke sectoren, met name voor de ontwikkeling van commerciële verzekeringsregelingen die bescherming bieden tegen fluctuaties van exportopbrengsten.
 
 ##### Artikel 10. Voorschotten
 
@@ -11389,7 +11389,7 @@ De eindevaluatie kan tevens een aanpassing omvatten met het oog op het nieuwe me
 
 ##### Artikel 20. Deelnemingsvoorwaarden
 
-Tenzij overeenkomstig [artikel 22](https://wetten.overheid.nl/jci1.3:c:BWBV0005264&bijlage=IV&hoofdstuk=4&artikel=22&z=2017-01-01&g=2017-01-01) een uitzondering is toegestaan en onverminderd het bepaalde in [artikel 26](https://wetten.overheid.nl/jci1.3:c:BWBV0005264&bijlage=IV&hoofdstuk=4&artikel=26&z=2017-01-01&g=2017-01-01), gelden de volgende regels:
+Tenzij overeenkomstig [artikel 22](https://wetten.overheid.nl/jci1.3:c:BWBV0005264&bijlage=IV&hoofdstuk=4&artikel=22&z=2017-04-01&g=2017-04-01) een uitzondering is toegestaan en onverminderd het bepaalde in [artikel 26](https://wetten.overheid.nl/jci1.3:c:BWBV0005264&bijlage=IV&hoofdstuk=4&artikel=26&z=2017-04-01&g=2017-04-01), gelden de volgende regels:
 
 - 1. De deelname aan procedures voor de gunning van overheidsopdrachten of voor de toekenning van subsidies uit het meerjarige financiële kader voor samenwerking op grond van deze overeenkomst staat open voor alle natuurlijke personen die onderdaan zijn van, en alle rechtspersonen die daadwerkelijk gevestigd zijn in:
 
@@ -11423,7 +11423,7 @@ Vervallen
 
 ##### Artikel 22. Uitzonderingen
 
-1. Op gemotiveerd verzoek van de betrokken ACS-staat of de bevoegde organisatie of instantie op regionaal of intra-ACS-niveau kan inschrijvers, aanvragers en kandidaten uit derde landen die niet op grond van [artikel 20](https://wetten.overheid.nl/jci1.3:c:BWBV0005264&bijlage=IV&hoofdstuk=4&artikel=20&z=2017-01-01&g=2017-01-01) mogen deelnemen, worden toegestaan deel te nemen aan procedures voor de gunning van overheidsopdrachten of voor de toekenning van subsidies die door de Gemeenschap uit het meerjarige financiële kader voor samenwerking op grond van deze overeenkomst worden gefinancierd, en kunnen leveringen en materialen afkomstig uit landen die niet mogen deelnemen in de volgende gevallen worden toegestaan:
+1. Op gemotiveerd verzoek van de betrokken ACS-staat of de bevoegde organisatie of instantie op regionaal of intra-ACS-niveau kan inschrijvers, aanvragers en kandidaten uit derde landen die niet op grond van [artikel 20](https://wetten.overheid.nl/jci1.3:c:BWBV0005264&bijlage=IV&hoofdstuk=4&artikel=20&z=2017-04-01&g=2017-04-01) mogen deelnemen, worden toegestaan deel te nemen aan procedures voor de gunning van overheidsopdrachten of voor de toekenning van subsidies die door de Gemeenschap uit het meerjarige financiële kader voor samenwerking op grond van deze overeenkomst worden gefinancierd, en kunnen leveringen en materialen afkomstig uit landen die niet mogen deelnemen in de volgende gevallen worden toegestaan:
 
 - a. landen met traditionele economische, commerciële of geografische banden met buurlanden die een begunstigd land zijn; of
 
