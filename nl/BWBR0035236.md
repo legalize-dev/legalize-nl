@@ -4,7 +4,7 @@ identifier: "BWBR0035236"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2017-06-10"
-last_updated: "2014-06-26"
+last_updated: "2017-04-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0035236"
 soort: "ministeriele-regeling"
@@ -52,7 +52,7 @@ Deze regeling treedt in werking op de dag na de datum van uitgifte van de Staats
 
 Deze regeling wordt aangehaald als: Regeling normenkader jeugdbescherming en jeugdreclassering.
 
-## Bijlage
+## Bijlage. Regeling normenkader jeugdbescherming en jeugdreclassering
 
 ### Certificatieschema voor toetsing van het kwaliteitsmanagementsysteem van uitvoerende organisaties voor Jeugdbescherming en Jeugdreclassering versie 1.0
 
@@ -385,5 +385,7 @@ Postbus 20301 | 2500 eh Den Haag
 www.rijksoverheid.nl/venj
 
 Maart 2014 | Publicatienr: |-22848
+
+Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
