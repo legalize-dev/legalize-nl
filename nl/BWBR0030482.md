@@ -4,7 +4,7 @@ identifier: "BWBR0030482"
 country: "nl"
 rank: "zbo"
 publication_date: "2026-01-01"
-last_updated: "2016-11-04"
+last_updated: "2017-04-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0030482"
 soort: "zbo"
@@ -71,7 +71,7 @@ In dit besluit wordt verstaan onder:
 
 1. De directie Toezicht en Handhaving is belast met het in [artikel 16 van de Wmg](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=16) bedoelde toezicht op de uitvoering van het bepaalde bij of krachtens de [Wet langdurige zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0035917), de [Zorgverzekeringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450), de [Wet financiering sociale verzekeringen](https://wetten.overheid.nl/jci1.3:c:BWBR0017745), de [Wet maatschappelijke ondersteuning 2015](https://wetten.overheid.nl/jci1.3:c:BWBR0035362), met het toezicht op de naleving van hetgeen bij of krachtens de [Wmg](https://wetten.overheid.nl/jci1.3:c:BWBR0020078) is bepaald en met de beoordeling van aanmerkelijke marktmacht en concentraties, met het uitbrengen van zienswijzen en met handhaving.
 
-2. De directie Toezicht en Handhaving kent de units Markttoezicht en Toezicht Zorgaanbieders, Detectie en Toezicht Zorgaanbieders, Toezicht Zorgverzekeraars, Toezicht Transparantie en Zorgplicht, Toezicht Wlz-uitvoerders en de unit Snelle Interventies.
+2. De directie Toezicht en Handhaving kent de units Markttoezicht en Toezicht Zorgaanbieders, Toezicht Zorgverzekeraars, Toezicht Transparantie en Zorgplicht, Toezicht Wlz-uitvoerders en de unit Detectie en Snelle Interventies.
 
 ##### Artikel 4. Directie Informatie en Bedrijfsvoering
 
@@ -87,7 +87,7 @@ In dit besluit wordt verstaan onder:
 
 ##### Artikel 6. Binnen beleid en begroting
 
-1. De op grond van de [artikelen 8](https://wetten.overheid.nl/jci1.3:c:BWBR0030482&artikel=8&z=2016-11-04&g=2016-11-04), [9](https://wetten.overheid.nl/jci1.3:c:BWBR0030482&artikel=9&z=2016-11-04&g=2016-11-04) en [10](https://wetten.overheid.nl/jci1.3:c:BWBR0030482&artikel=10&z=2016-11-04&g=2016-11-04) van dit besluit verleende bevoegdheden gelden voor de uitoefening van taken binnen het door de Raad van Bestuur vastgestelde beleid, de begroting en de personeelsformatie en overeenkomstig de door de Raad van Bestuur vastgestelde richtlijnen, waaronder de richtlijnen opgenomen in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0030482&bijlage=1&z=2016-11-04&g=2016-11-04) bij dit besluit.
+1. De op grond van de [artikelen 8](https://wetten.overheid.nl/jci1.3:c:BWBR0030482&artikel=8&z=2017-04-01&g=2017-04-01), [9](https://wetten.overheid.nl/jci1.3:c:BWBR0030482&artikel=9&z=2017-04-01&g=2017-04-01) en [10](https://wetten.overheid.nl/jci1.3:c:BWBR0030482&artikel=10&z=2017-04-01&g=2017-04-01) van dit besluit verleende bevoegdheden gelden voor de uitoefening van taken binnen het door de Raad van Bestuur vastgestelde beleid, de begroting en de personeelsformatie en overeenkomstig de door de Raad van Bestuur vastgestelde richtlijnen, waaronder de richtlijnen opgenomen in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0030482&bijlage=1&z=2017-04-01&g=2017-04-01) bij dit besluit.
 
 2. Directeuren oefenen hun bevoegdheden uit in overleg met hun portefeuillehouder.
 
@@ -115,11 +115,11 @@ In dit besluit wordt verstaan onder:
 
 ##### Artikel 9. Volmacht
 
-1. Directeuren onderscheidenlijk leden van de Raad van Bestuur zijn voor de uitvoering van de werkzaamheden van hun directie onderscheidenlijk het aandachtsgebied waarvoor de portefeuillehouder verantwoordelijk is, bevoegd namens de NZa privaatrechtelijke rechtshandelingen te verrichten met inachtneming van de in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0030482&bijlage=2&z=2016-11-04&g=2016-11-04) opgenomen maxima ten aanzien van de uit die rechtshandelingen voor de NZa voortvloeiende financiële verplichtingen.
+1. Directeuren onderscheidenlijk leden van de Raad van Bestuur zijn voor de uitvoering van de werkzaamheden van hun directie onderscheidenlijk het aandachtsgebied waarvoor de portefeuillehouder verantwoordelijk is, bevoegd namens de NZa privaatrechtelijke rechtshandelingen te verrichten met inachtneming van de in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0030482&bijlage=2&z=2017-04-01&g=2017-04-01) opgenomen maxima ten aanzien van de uit die rechtshandelingen voor de NZa voortvloeiende financiële verplichtingen.
 
-2. Directeuren zijn bevoegd tot het verlenen van ondervolmacht aan hun unitmanagers om voor de uitvoering van de werkzaamheden van hun unit namens de NZa privaatrechtelijke rechtshandelingen te verrichten met in achtneming van de in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0030482&bijlage=2&z=2016-11-04&g=2016-11-04) opgenomen maxima ten aanzien van de uit die rechtshandelingen voor de NZa voortvloeiende financiële verplichtingen.
+2. Directeuren zijn bevoegd tot het verlenen van ondervolmacht aan hun unitmanagers om voor de uitvoering van de werkzaamheden van hun unit namens de NZa privaatrechtelijke rechtshandelingen te verrichten met in achtneming van de in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0030482&bijlage=2&z=2017-04-01&g=2017-04-01) opgenomen maxima ten aanzien van de uit die rechtshandelingen voor de NZa voortvloeiende financiële verplichtingen.
 
-3. De unitmanager Informatie Knooppunt Zorgfraude is bevoegd voor de uitvoering van werkzaamheden van zijn unit, namens de NZa privaatrechtelijke rechtshandelingen te verrichten met inachtneming van de in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0030482&bijlage=2&z=2016-11-04&g=2016-11-04) opgenomen maxima ten aanzien van de uit de rechtshandelingen voor de NZa voortvloeiende financiële verplichtingen.
+3. De unitmanager Informatie Knooppunt Zorgfraude is bevoegd voor de uitvoering van werkzaamheden van zijn unit, namens de NZa privaatrechtelijke rechtshandelingen te verrichten met inachtneming van de in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0030482&bijlage=2&z=2017-04-01&g=2017-04-01) opgenomen maxima ten aanzien van de uit de rechtshandelingen voor de NZa voortvloeiende financiële verplichtingen.
 
 ##### Artikel 10. Machtiging
 
@@ -225,7 +225,7 @@ In deze notitie wordt in het kort de inrichting en werkwijze van de werkorganisa
 
 ### 1. Inleiding
 
-De directie Toezicht en Handhaving kent de units Markttoezicht en Toezicht Zorgaanbieders, Detectie en Toezicht Zorgaanbieders, Toezicht Zorgverzekeraars, Toezicht Transparantie en Zorgplicht, Toezicht Wlz-uitvoerders en de unit Snelle Interventies.
+De directie Toezicht en Handhaving kent de units Markttoezicht en Toezicht Zorgaanbieders, Toezicht Zorgverzekeraars, Toezicht Transparantie en Zorgplicht, Toezicht Wlz-uitvoerders en de unit Detectie en Snelle Interventies.
 
 ### 3. Bevoegdheden en verantwoordelijkheden
 
