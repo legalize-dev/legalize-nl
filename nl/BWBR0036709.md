@@ -4,7 +4,7 @@ identifier: "BWBR0036709"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-01-01"
-last_updated: "2017-01-28"
+last_updated: "2017-04-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0036709"
 soort: "ministeriele-regeling"
@@ -136,7 +136,7 @@ Vervallen
 
 ##### Artikel 8
 
-1. De minister start het opstellen van zijn zienswijze, indien de melding volledig is overeenkomstig [artikel 6, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036709&hoofdstuk=II&paragraaf=1&artikel=6&z=2017-01-28&g=2017-01-28), in voorkomend geval na ontvangst van de aanvankelijk ontbrekende bescheiden.
+1. De minister start het opstellen van zijn zienswijze, indien de melding volledig is overeenkomstig [artikel 6, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036709&hoofdstuk=II&paragraaf=1&artikel=6&z=2017-07-01&g=2017-04-01), in voorkomend geval na ontvangst van de aanvankelijk ontbrekende bescheiden.
 
 2. Indien de toegelaten instelling verzuimt de bij de melding ontbrekende bescheiden te verstrekken, kan de minister besluiten de melding niet in behandeling te nemen. Hij stelt de toegelaten instelling onverwijld daarvan in kennis.
 
@@ -156,7 +156,7 @@ Vervallen
 
 - d. is dat taxatierapport op het tijdstip van ondertekening van een koopovereenkomst, strekkende tot vervreemding van een daarin getaxeerde woongelegenheid, niet ouder dan zes maanden, of niet ouder dan vierentwintig maanden, met dien verstande dat het taxatierapport in dat laatste geval vergezeld gaat van een markttechnische update van maximaal drie maanden oud.
 
-2. Het register, bedoeld in [artikel 1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036709&hoofdstuk=I&paragraaf=1&artikel=1&z=2017-01-28&g=2017-01-28), begripsomschrijving van getaxeerd, van het besluit is het Nederlands Register Vastgoed Taxateurs of een gelijkwaardig register dat ten minste voorziet in:
+2. Het register, bedoeld in [artikel 1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036709&hoofdstuk=I&paragraaf=1&artikel=1&z=2017-07-01&g=2017-04-01), begripsomschrijving van getaxeerd, van het besluit is het Nederlands Register Vastgoed Taxateurs of een gelijkwaardig register dat ten minste voorziet in:
 
 - a. doorlopend toezicht op de naleving van de gedragsregels;
 
@@ -200,7 +200,7 @@ De combinatie van bedingen, bedoeld in [artikel 23, eerste lid, onderdeel b, van
 
 5. Indien uit de gegevens, bedoeld in het derde lid, een huishoudinkomen blijkt dat hoger is dan het bedrag, genoemd in [artikel 23, tweede lid, onderdeel b, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0036702&artikel=23), terwijl naar het oordeel van degene die als eigenaar de betrokken woongelegenheid wenst te betrekken het huishoudinkomen niet hoger is dan dat bedrag, kan hij dat oordeel met een onderbouwing daarvan aan de toegelaten instelling overleggen, in welk geval de gegevens, bedoeld in het eerste lid, onderdeel b, voorts zijn de gegevens overeenkomstig het vierde lid, onderdeel b, onder 1° en 2°.
 
-6. Aan het eerste lid, onderdeel b, wordt toepassing gegeven overeenkomstig [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0036709&bijlage=1&z=2017-01-28&g=2017-01-28) bij deze regeling.
+6. Aan het eerste lid, onderdeel b, wordt toepassing gegeven overeenkomstig [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0036709&bijlage=1&z=2017-07-01&g=2017-04-01) bij deze regeling.
 
 ##### Artikel 12
 
@@ -216,17 +216,17 @@ De combinatie van bedingen, bedoeld in [artikel 23, eerste lid, onderdeel b, van
 
 ##### Artikel 14
 
-1. De waardering bedoeld in [artikel 31, eerste lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0036702&artikel=31) vindt plaats overeenkomstig de methodiek die opgenomen is in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0036709&bijlage=2&z=2017-01-28&g=2017-01-28) bij deze regeling.
+1. De waardering bedoeld in [artikel 31, eerste lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0036702&artikel=31) vindt plaats overeenkomstig de methodiek die opgenomen is in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0036709&bijlage=2&z=2017-07-01&g=2017-04-01) bij deze regeling.
 
-2. De nadere voorschriften, bedoeld in [artikel 31, vierde lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0036702&artikel=31), zijn opgenomen in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0036709&bijlage=2&z=2017-01-28&g=2017-01-28) bij deze regeling.
+2. De nadere voorschriften, bedoeld in [artikel 31, vierde lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0036702&artikel=31), zijn opgenomen in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0036709&bijlage=2&z=2017-07-01&g=2017-04-01) bij deze regeling.
 
 3. In afwijking van het eerste lid, wordt de marktwaarde, bedoeld in [artikel 44, derde lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0036702&artikel=44), van de woongelegenheden die vervreemd zijn tussen 1 januari 2012 en 31 december 2015, bepaald op basis van de feitelijke verkoopprijs van die woongelegenheden.
 
 ##### Artikel 15
 
-1. De jaarrekening, bedoeld in [artikel 35 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&artikel=35), bevat een balans, een winst- en verliesrekening en een kasstroomoverzicht die zijn ingericht overeenkomstig het model dat is opgenomen in de op het verslagjaar betrekking hebbende [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0036709&bijlage=3&z=2017-01-28&g=2017-01-28) bij deze regeling.
+1. De jaarrekening, bedoeld in [artikel 35 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&artikel=35), bevat een balans, een winst- en verliesrekening en een kasstroomoverzicht die zijn ingericht overeenkomstig het model dat is opgenomen in de op het verslagjaar betrekking hebbende [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0036709&bijlage=3&z=2017-07-01&g=2017-04-01) bij deze regeling.
 
-2. In de toelichting van de jaarrekening wordt onderscheid aangebracht tussen diensten van algemeen economische belang en de werkzaamheden die dat niet zijn overeenkomstig het model voor de balans, de winst- en verliesrekening en het kasstroomoverzicht, zoals die is opgenomen in [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0036709&bijlage=3&z=2017-01-28&g=2017-01-28) bij deze regeling. Voor toegelaten instellingen, bedoeld in [artikel 49, eerste lid, tweede volzin](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&artikel=49), is de eerste volzin alleen van toepassing voor zover het de winst- en verliesrekening en het kasstroomoverzicht betreft.
+2. In de toelichting van de jaarrekening wordt onderscheid aangebracht tussen diensten van algemeen economische belang en de werkzaamheden die dat niet zijn overeenkomstig het model voor de balans, de winst- en verliesrekening en het kasstroomoverzicht, zoals die is opgenomen in [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0036709&bijlage=3&z=2017-07-01&g=2017-04-01) bij deze regeling. Voor toegelaten instellingen, bedoeld in [artikel 49, eerste lid, tweede volzin](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&artikel=49), is de eerste volzin alleen van toepassing voor zover het de winst- en verliesrekening en het kasstroomoverzicht betreft.
 
 3. Het eerste lid is voor het eerst van toepassing op de jaarrekening over het verslagjaar 2016.
 
@@ -238,11 +238,11 @@ De combinatie van bedingen, bedoeld in [artikel 23, eerste lid, onderdeel b, van
 
 ##### Artikel 16
 
-Het overzicht, bedoeld in [artikel 36a, vierde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&artikel=36a), wordt ingericht overeenkomstig het model dat is opgenomen in [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0036709&bijlage=3&z=2017-01-28&g=2017-01-28) bij deze regeling.
+Het overzicht, bedoeld in [artikel 36a, vierde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&artikel=36a), wordt ingericht overeenkomstig het model dat is opgenomen in [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0036709&bijlage=3&z=2017-07-01&g=2017-04-01) bij deze regeling.
 
 ##### Artikel 17
 
-Het onderzoek, bedoeld in [artikel 37, eerste lid van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&artikel=37), en de rapportage ervan wordt uitgevoerd overeenkomstig de werkwijze respectievelijk de modellen die zijn opgenomen in [bijlage 4](https://wetten.overheid.nl/jci1.3:c:BWBR0036709&bijlage=4&z=2017-01-28&g=2017-01-28) bij deze regeling.
+Het onderzoek, bedoeld in [artikel 37, eerste lid van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&artikel=37), en de rapportage ervan wordt uitgevoerd overeenkomstig de werkwijze respectievelijk de modellen die zijn opgenomen in [bijlage 4](https://wetten.overheid.nl/jci1.3:c:BWBR0036709&bijlage=4&z=2017-07-01&g=2017-04-01) bij deze regeling.
 
 ### Hoofdstuk III. Werkzaamheden van toegelaten instellingen
 
@@ -334,7 +334,7 @@ Aan [artikel 49, tweede lid, onderdeel a, van het besluit](https://wetten.overhe
 
 - d. gegevens waaruit het huishoudinkomen van de huurder blijkt, of op grond waarvan dat inkomen zo nauwkeurig als redelijkerwijs mogelijk kan worden geschat.
 
-10. Aan het eerste lid, onderdeel b, en het negende lid, onderdeel d, wordt toepassing gegeven overeenkomstig [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0036709&bijlage=1&z=2017-01-28&g=2017-01-28) bij deze regeling. [Artikel 55, negende lid, tweede en derde volzin, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0036702&artikel=55) is van overeenkomstige toepassing.
+10. Aan het eerste lid, onderdeel b, en het negende lid, onderdeel d, wordt toepassing gegeven overeenkomstig [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0036709&bijlage=1&z=2017-07-01&g=2017-04-01) bij deze regeling. [Artikel 55, negende lid, tweede en derde volzin, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0036702&artikel=55) is van overeenkomstige toepassing.
 
 ### Afdeling 3. Administratieve scheiding en vermogensscheiding
 
@@ -474,7 +474,7 @@ Het percentage, bedoeld in [artikel 54, eerste lid, van de Woningwet](https://we
 
 ##### Artikel 43
 
-De modellen, bedoeld in [artikel 107, tweede lid, onderdelen b en c, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0036702&artikel=107), zijn de modellen, opgenomen in de [bijlagen 6](https://wetten.overheid.nl/jci1.3:c:BWBR0036709&bijlage=6&z=2017-01-28&g=2017-01-28) en [7](https://wetten.overheid.nl/jci1.3:c:BWBR0036709&bijlage=7&z=2017-01-28&g=2017-01-28) bij deze regeling.
+De modellen, bedoeld in [artikel 107, tweede lid, onderdelen b en c, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0036702&artikel=107), zijn de modellen, opgenomen in de [bijlagen 6](https://wetten.overheid.nl/jci1.3:c:BWBR0036709&bijlage=6&z=2017-07-01&g=2017-04-01) en [7](https://wetten.overheid.nl/jci1.3:c:BWBR0036709&bijlage=7&z=2017-07-01&g=2017-04-01) bij deze regeling.
 
 ### Hoofdstuk IV. Overgangs- en slotbepalingen
 
@@ -590,7 +590,7 @@ Aan de hand van de volgende twee stroomschema’s kan de toegelaten instelling h
 
 De inkomenstoets voor de DAEB-toewijzingen dient per 1 juli 2015 te worden toegepast. Per uiterlijk 1 januari 2016 zal ook de inkomenstoetsing voor de passende toewijzing voor de huurtoeslag moeten gaan plaatsvinden. Vanaf die laatste datum kunnen de beide inkomenstoetsen in één administratieve handeling worden uitgevoerd.
 
-Aan de hand van de volgende twee stroomschema’s kan de toegelaten instelling het huishoudinkomen bepalen, zoals bedoeld in [artikel 11, eerste lid aanhef en onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0036709&hoofdstuk=II&paragraaf=2&artikel=11&z=2017-01-28&g=2017-01-28) en [artikel 22, eerste lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0036709&hoofdstuk=III&afdeling=2&artikel=22&z=2017-01-28&g=2017-01-28) van de Regeling toegelaten instellingen volkshuisvesting 2015 (verkoop met korting, respectievelijk woningtoewijzing in het kader van de DAEB).
+Aan de hand van de volgende twee stroomschema’s kan de toegelaten instelling het huishoudinkomen bepalen, zoals bedoeld in [artikel 11, eerste lid aanhef en onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0036709&hoofdstuk=II&paragraaf=2&artikel=11&z=2017-07-01&g=2017-04-01) en [artikel 22, eerste lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0036709&hoofdstuk=III&afdeling=2&artikel=22&z=2017-07-01&g=2017-04-01) van de Regeling toegelaten instellingen volkshuisvesting 2015 (verkoop met korting, respectievelijk woningtoewijzing in het kader van de DAEB).
 
 Het vaststellen van het huishoudinkomen aan de hand van een inkomensverklaring van de Belastingdienst of een (voorlopige) aanslag IB van de Belastingdienst is verplicht, tenzij de uitzonderingsgevallen zoals omschreven in de ministeriële regeling zich voordoen (zie ook hierna).
 
@@ -1541,7 +1541,7 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 ##### Artikel 44a
 
-Op de jaarrekening en het jaarverslag, bedoeld in [paragraaf 3](https://wetten.overheid.nl/jci1.3:c:BWBR0036709&hoofdstuk=II&paragraaf=3&z=2017-01-28&g=2017-01-28), over het verslagjaar 2015, wordt [artikel 4, eerste lid, van de Tijdelijke regeling diensten van algemeen economisch belang toegelaten instellingen volkshuisvesting](https://wetten.overheid.nl/jci1.3:c:BWBR0028918&artikel=4), zoals dat luidde voor de inwerkingtreding van deze regeling, niet toegepast voor zover dat artikel afwijkt van [artikel 16 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0036702&artikel=16).
+Op de jaarrekening en het jaarverslag, bedoeld in [paragraaf 3](https://wetten.overheid.nl/jci1.3:c:BWBR0036709&hoofdstuk=II&paragraaf=3&z=2017-07-01&g=2017-04-01), over het verslagjaar 2015, wordt [artikel 4, eerste lid, van de Tijdelijke regeling diensten van algemeen economisch belang toegelaten instellingen volkshuisvesting](https://wetten.overheid.nl/jci1.3:c:BWBR0028918&artikel=4), zoals dat luidde voor de inwerkingtreding van deze regeling, niet toegepast voor zover dat artikel afwijkt van [artikel 16 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0036702&artikel=16).
 
 #### § 2. Slotbepalingen
 
@@ -3277,7 +3277,7 @@ De gevallen, bedoeld in [artikel 24, onderdeel g, van het besluit](https://wette
 
 ##### Artikel 19b
 
-Binnen twee weken na de dagtekening, bedoeld in [artikel 19a, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0036709&hoofdstuk=III&afdeling=1&paragraaf=1a&artikel=19a&z=2017-01-28&g=2017-01-28), kunnen de betrokken partijen hun zienswijze kenbaar maken bij de commissie, bedoeld in [artikel 40, eerste lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0036702&artikel=40).
+Binnen twee weken na de dagtekening, bedoeld in [artikel 19a, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0036709&hoofdstuk=III&afdeling=1&paragraaf=1a&artikel=19a&z=2017-07-01&g=2017-04-01), kunnen de betrokken partijen hun zienswijze kenbaar maken bij de commissie, bedoeld in [artikel 40, eerste lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0036702&artikel=40).
 
 ##### Artikel 19c
 
@@ -3748,15 +3748,15 @@ De in [artikel 53b, eerste lid, onder c, van het Besluit toegelaten instellingen
 
 ##### Artikel 22c
 
-Het college van burgemeester en wethouders maakt voor de verklaring, bedoeld in [artikel 53c van het Besluit toegelaten instellingen volkshuisvesting 2015](https://wetten.overheid.nl/jci1.3:c:BWBR0036702&artikel=53c), gebruik van het formulier dat is opgenomen in [bijlage 8](https://wetten.overheid.nl/jci1.3:c:BWBR0036709&bijlage=8&z=2017-01-28&g=2017-01-28) bij deze regeling.
+Het college van burgemeester en wethouders maakt voor de verklaring, bedoeld in [artikel 53c van het Besluit toegelaten instellingen volkshuisvesting 2015](https://wetten.overheid.nl/jci1.3:c:BWBR0036702&artikel=53c), gebruik van het formulier dat is opgenomen in [bijlage 8](https://wetten.overheid.nl/jci1.3:c:BWBR0036709&bijlage=8&z=2017-07-01&g=2017-04-01) bij deze regeling.
 
 ##### Artikel 22d
 
 Het college van burgemeester en wethouders,maakt voor de verklaring, bedoeld in [artikel 53d van het Besluit toegelaten instellingen volkshuisvesting 2015](https://wetten.overheid.nl/jci1.3:c:BWBR0036702&artikel=53d), gebruik van het formulier dat is opgenomen in:
 
-- a. [bijlage 9](https://wetten.overheid.nl/jci1.3:c:BWBR0036709&bijlage=9&z=2017-01-28&g=2017-01-28) bij deze regeling, indien een toegelaten instelling of samenwerkingsvennootschap om toestemming verzoekt, of;
+- a. [bijlage 9](https://wetten.overheid.nl/jci1.3:c:BWBR0036709&bijlage=9&z=2017-07-01&g=2017-04-01) bij deze regeling, indien een toegelaten instelling of samenwerkingsvennootschap om toestemming verzoekt, of;
 
-- b. [bijlage 10](https://wetten.overheid.nl/jci1.3:c:BWBR0036709&bijlage=10&z=2017-01-28&g=2017-01-28) bij deze regeling, indien een met een toegelaten instelling verbonden onderneming, van wie zij enig aandeelhoudster is, om toestemming verzoekt.
+- b. [bijlage 10](https://wetten.overheid.nl/jci1.3:c:BWBR0036709&bijlage=10&z=2017-07-01&g=2017-04-01) bij deze regeling, indien een met een toegelaten instelling verbonden onderneming, van wie zij enig aandeelhoudster is, om toestemming verzoekt.
 
 ### Afdeling 3. Administratieve scheiding en vermogensscheiding
 
@@ -3776,7 +3776,7 @@ Het college van burgemeester en wethouders,maakt voor de verklaring, bedoeld in 
 
 #### § 2. Slotbepalingen
 
-## Bijlage 1. bij de [artikelen 11, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036709&hoofdstuk=II&paragraaf=2&artikel=11&z=2017-01-28&g=2017-01-28), en [22 negende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036709&hoofdstuk=III&afdeling=2&artikel=22&z=2017-01-28&g=2017-01-28), van de Regeling toegelaten instellingen volkshuisvesting 2015
+## Bijlage 1. bij de [artikelen 11, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036709&hoofdstuk=II&paragraaf=2&artikel=11&z=2017-07-01&g=2017-04-01), en [22 negende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036709&hoofdstuk=III&afdeling=2&artikel=22&z=2017-07-01&g=2017-04-01), van de Regeling toegelaten instellingen volkshuisvesting 2015
 
 Uitzonderingen:
 
@@ -4207,7 +4207,7 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 ### B. Toetsing huishoudinkomen op basis van een inkomensverklaring en bijbehorende bewijsstukken
 
-## Bijlage 2. bij [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0036709&hoofdstuk=II&paragraaf=3&artikel=14&z=2017-01-28&g=2017-01-28) van de Regeling toegelaten instellingen volkshuisvesting 2015
+## Bijlage 2. bij [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0036709&hoofdstuk=II&paragraaf=3&artikel=14&z=2017-07-01&g=2017-04-01) van de Regeling toegelaten instellingen volkshuisvesting 2015
 
 ### 1. VOORAF
 
@@ -4355,7 +4355,7 @@ Vervallen
 
 ### 5.9. Huisuitzettingen en huurachterstanden
 
-## Bijlage 4. bij [artikel 17](https://wetten.overheid.nl/jci1.3:c:BWBR0036709&hoofdstuk=II&paragraaf=3&artikel=17&z=2017-01-28&g=2017-01-28) van de Regeling toegelaten instellingen volkshuisvesting 2015
+## Bijlage 4. bij [artikel 17](https://wetten.overheid.nl/jci1.3:c:BWBR0036709&hoofdstuk=II&paragraaf=3&artikel=17&z=2017-07-01&g=2017-04-01) van de Regeling toegelaten instellingen volkshuisvesting 2015
 
 ### 1. Algemeen
 
@@ -4365,7 +4365,7 @@ Vervallen
 
 ### 1.1. Belangrijke wijzigingen
 
-In [artikel 45](https://wetten.overheid.nl/jci1.3:c:BWBR0036709&hoofdstuk=IV&paragraaf=1&artikel=45&z=2017-01-28&g=2017-01-28) en [46](https://wetten.overheid.nl/jci1.3:c:BWBR0036709&hoofdstuk=IV&paragraaf=1&artikel=46&z=2017-01-28&g=2017-01-28) van de Regeling toegelaten instellingen volkshuisvesting is aangegeven dat de beleidsregels derivaten en de [beleidsregels verantwoord beleggen](https://wetten.overheid.nl/jci1.3:c:BWBR0036199) voor een woningcorporatie vervallen zodra ILT-Aw het reglement financieel beleid en beheer als bedoeld in de [artikelen 55a van de Woningwet](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&artikel=55) en de [artikelen 103 tot en met 108 van het Besluit toegelaten instellingen volkshuisvesting](https://wetten.overheid.nl/jci1.3:c:BWBR0036702&artikel=103) heeft goedgekeurd. Om te voorkomen dat er in verslagjaar 2016 twee wettelijke regimes van toepassing zijn inzake derivaten en beleggen heeft ILT-Aw besloten de goedkeuring van de reglementen financieel beleid en beheer een ingangsdatum van 1 januari 2017 te geven. Hierdoor zijn de beleidsregels derivaten en de beleidsregels verantwoord beleggen gedurende geheel 2016 nog van kracht.
+In [artikel 45](https://wetten.overheid.nl/jci1.3:c:BWBR0036709&hoofdstuk=IV&paragraaf=1&artikel=45&z=2017-07-01&g=2017-04-01) en [46](https://wetten.overheid.nl/jci1.3:c:BWBR0036709&hoofdstuk=IV&paragraaf=1&artikel=46&z=2017-07-01&g=2017-04-01) van de Regeling toegelaten instellingen volkshuisvesting is aangegeven dat de beleidsregels derivaten en de [beleidsregels verantwoord beleggen](https://wetten.overheid.nl/jci1.3:c:BWBR0036199) voor een woningcorporatie vervallen zodra ILT-Aw het reglement financieel beleid en beheer als bedoeld in de [artikelen 55a van de Woningwet](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&artikel=55) en de [artikelen 103 tot en met 108 van het Besluit toegelaten instellingen volkshuisvesting](https://wetten.overheid.nl/jci1.3:c:BWBR0036702&artikel=103) heeft goedgekeurd. Om te voorkomen dat er in verslagjaar 2016 twee wettelijke regimes van toepassing zijn inzake derivaten en beleggen heeft ILT-Aw besloten de goedkeuring van de reglementen financieel beleid en beheer een ingangsdatum van 1 januari 2017 te geven. Hierdoor zijn de beleidsregels derivaten en de beleidsregels verantwoord beleggen gedurende geheel 2016 nog van kracht.
 
 In rubriek B inzake de naleving van specifieke wet- en regelgeving zijn vorig jaar relatief veel wijzigingen doorgevoerd ten gevolge van de invoering van de [Woningwet](https://wetten.overheid.nl/jci1.3:c:BWBR0005181) per 1 juli 2015. De wijzigingen uit hoofde van het addendum (6 juni 2016) op het accountantsprotocol over verslagjaar 2015 zijn verwerkt in voorliggend accountantsprotocol over verslagjaar 2016. Bij punt 4 in rubriek B is een wijziging doorgevoerd ten gevolge van een wijziging in [artikel 13 van het Besluit toegelaten instellingen volkshuisvesting](https://wetten.overheid.nl/jci1.3:c:BWBR0036702&artikel=13) met ingang van 1 juli 2016. Verder is de inhoud van de controlewerkzaamheden bij punt 17 in rubriek B gewijzigd. Over verslagjaar 2016 is rubriek B verder aangevuld met controlewerkzaamheden inzake werkzaamheden van toegelaten instellingen ten behoeve van de huisvesting van vergunninghouders ([artikel 45a van de Woningwet](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&artikel=45a)).
 
@@ -4379,7 +4379,7 @@ In het accountantsprotocol 2015 is sprake van assurance-werkzaamheden die leiden
 
 Conform [artikel 37 van de Woningwet](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&artikel=37) dient een toegelaten instelling een registeraccountant of een Accountant-Administratieconsulent een opdracht tot onderzoek te geven van de jaarrekening bedoeld in [artikel 35 van de Woningwet](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&artikel=35), het bestuursverslag bedoeld in [artikel 36 van de Woningwet](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&artikel=36) en het overzicht bedoeld in [artikel 36a vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&artikel=36a). Deze opdracht omvat het opstellen van:
 
-Conform [artikel 37, vijfde lid, van de Woningwet](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&artikel=37), worden in [bijlage 4](https://wetten.overheid.nl/jci1.3:c:BWBR0036709&bijlage=4&z=2017-01-28&g=2017-01-28) bij de Regeling toegelaten instellingen volkshuisvesting nadere voorwaarden gesteld aan de werkzaamheden van de accountants van de toegelaten instellingen. Dit accountantsprotocol is de invulling hiervan en heeft als doel nadere aanwijzingen te geven voor de werkzaamheden en rapportage van de accountant. Het accountantsprotocol beoogt echter geen onderzoeksaanpak voor te schrijven en is evenmin een (uitputtend) werkprogramma.
+Conform [artikel 37, vijfde lid, van de Woningwet](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&artikel=37), worden in [bijlage 4](https://wetten.overheid.nl/jci1.3:c:BWBR0036709&bijlage=4&z=2017-07-01&g=2017-04-01) bij de Regeling toegelaten instellingen volkshuisvesting nadere voorwaarden gesteld aan de werkzaamheden van de accountants van de toegelaten instellingen. Dit accountantsprotocol is de invulling hiervan en heeft als doel nadere aanwijzingen te geven voor de werkzaamheden en rapportage van de accountant. Het accountantsprotocol beoogt echter geen onderzoeksaanpak voor te schrijven en is evenmin een (uitputtend) werkprogramma.
 
 ### 1.2. Doelstelling
 
@@ -4493,7 +4493,7 @@ Om na te gaan of de verantwoording in onderdeel 5.7.8 van de dVi juist en volled
 
 ### A. Aspect Volledigheid
 
-De accountant dient om vast te stellen dat de verantwoording door de toegelaten instelling in onderdeel 5.7.9 van de dVi juist en volledig is, na te gaan of in 2016 voldaan is aan de regelgeving omtrent het vervreemden van woongelegenheden en gebouwen met een maatschappelijke gebruiksbestemming (als bedoeld in [artikel 45, tweede lid, onderdeel d van de Woningwet](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&artikel=45) en [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0036702&bijlage=3) en [4 van het Besluit toegelaten instellingen volkshuisvesting](https://wetten.overheid.nl/jci1.3:c:BWBR0036702&bijlage=4)), zoals die zijn vastgelegd in [artikel 27, eerste lid, aanhef en onderdeel a, van de Woningwet](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&artikel=27), [artikelen 22 t/m 26 van het Besluit toegelaten instellingen volkshuisvesting](https://wetten.overheid.nl/jci1.3:c:BWBR0036702&artikel=22) en [artikelen 9 t/m 12](https://wetten.overheid.nl/jci1.3:c:BWBR0036709&hoofdstuk=II&paragraaf=2&artikel=9&z=2017-01-28&g=2017-01-28) van de Regeling toegelaten instellingen volkshuisvesting. Om te bepalen of een vervreemding valt in deze periode, is de datum van het transport van de onroerende zaak bij de notaris bepalend. Voor de werkzaamheden in deze paragraaf geldt dat er geen onderscheid dient te worden gemaakt tussen vervreemding van bestaande woongelegenheden en de vervreemding van nieuwbouw woongelegenheden.
+De accountant dient om vast te stellen dat de verantwoording door de toegelaten instelling in onderdeel 5.7.9 van de dVi juist en volledig is, na te gaan of in 2016 voldaan is aan de regelgeving omtrent het vervreemden van woongelegenheden en gebouwen met een maatschappelijke gebruiksbestemming (als bedoeld in [artikel 45, tweede lid, onderdeel d van de Woningwet](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&artikel=45) en [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0036702&bijlage=3) en [4 van het Besluit toegelaten instellingen volkshuisvesting](https://wetten.overheid.nl/jci1.3:c:BWBR0036702&bijlage=4)), zoals die zijn vastgelegd in [artikel 27, eerste lid, aanhef en onderdeel a, van de Woningwet](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&artikel=27), [artikelen 22 t/m 26 van het Besluit toegelaten instellingen volkshuisvesting](https://wetten.overheid.nl/jci1.3:c:BWBR0036702&artikel=22) en [artikelen 9 t/m 12](https://wetten.overheid.nl/jci1.3:c:BWBR0036709&hoofdstuk=II&paragraaf=2&artikel=9&z=2017-07-01&g=2017-04-01) van de Regeling toegelaten instellingen volkshuisvesting. Om te bepalen of een vervreemding valt in deze periode, is de datum van het transport van de onroerende zaak bij de notaris bepalend. Voor de werkzaamheden in deze paragraaf geldt dat er geen onderscheid dient te worden gemaakt tussen vervreemding van bestaande woongelegenheden en de vervreemding van nieuwbouw woongelegenheden.
 
 Om na te gaan of de verantwoording in onderdeel 5.7.9 van de dVi juist en volledig is, dient de accountant:
 
@@ -4521,7 +4521,7 @@ De accountant stelt hiertoe vast dat alle niet-DAEB investeringen die in verslag
 
 De accountant voert een a-selecte steekproef uit op de deelgroep ‘Aantal aangegane huurovereenkomsten met betrekking tot zodanige woongelegenheden in de gevallen dat het huishoudinkomen ten hoogste € 34.911 en € 38.950 per jaar is (...)’ waarbij 10% van het aantal aangegane huurovereenkomsten wordt beoordeeld met een minimumaantal van 25 en een maximumaantal van 50. Middels het uitvoeren van deze steekproef stelt de accountant vast dat de verantwoording die op dit punt is afgelegd in de dVi **juist** is.
 
-Op 5 september 2012 heeft de minister van Binnenlandse Zaken en Koninkrijksrelaties [beleidsregels inzake het gebruik van financiële derivaten door toegelaten instellingen volkshuisvesting](https://wetten.overheid.nl/jci1.3:c:BWBR0036480) gepubliceerd (verder: ‘beleidsregels derivaten’). Deze beleidsregels zijn op 1 oktober 2012 in werking getreden. Met ingang van die datum mogen er door toegelaten instellingen uitsluitend nog derivatencontracten worden afgesloten die voldoen aan de voorwaarden in de [artikelen 1 tot en met 7 van die beleidsregels](https://wetten.overheid.nl/jci1.3:c:BWBR0036480&artikel=1). Op 1 augustus 2013 zijn de gewijzigde beleidsregels derivaten in de Staatscourant gepubliceerd en op 1 september 2013 zijn deze in werking getreden. De wijzigingen betreffen het weer toestaan van basisrenteleningen indien dat een bijdrage levert aan het voldoen aan de verplichtingen uit hoofde van artikel 8 (2%-punt norm) en artikel 10 (elimineren toezichtsbelemmerende bepalingen) van de beleidsregels derivaten. Verder zijn leningen met embedded derivaten niet meer toegestaan. Met deze wijziging van de beleidsregels derivaten zijn verder de modelovereenkomsten gepubliceerd zoals die gehanteerd dienen te worden bij het afsluiten van nieuwe derivatentransacties. In [artikel 45, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036709&hoofdstuk=IV&paragraaf=1&artikel=45&z=2017-01-28&g=2017-01-28), van de Regeling toegelaten instellingen volkshuisvesting is bepaald dat de Beleidsregels inzake het gebruik van financiële derivaten door toegelaten instellingen volkshuisvesting hun kracht behouden tot het moment dat ILT-Aw het reglement inzake het financieel beleid en beheer heeft goedgekeurd. Op grond van het overgangsrecht ([Hoofdstuk II, artikel II, tweede lid van de Woningwet](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&artikel=2)) hebben toegelaten instellingen tot 1 januari 2017 de gelegenheid om dit reglement op te stellen. Om te voorkomen dat er in verslagjaar 2016 twee wettelijke regimes van toepassing zijn inzake derivaten heeft ILT-Aw besloten de goedkeuring van de reglementen financieel beleid en beheer een ingangsdatum van 1 januari 2017 te geven. Dit betekent dus dat de [Beleidsregels inzake het gebruik van financiële derivaten door toegelaten instellingen volkshuisvesting](https://wetten.overheid.nl/jci1.3:c:BWBR0036480) gedurende het gehele jaar 2016 van kracht zijn.
+Op 5 september 2012 heeft de minister van Binnenlandse Zaken en Koninkrijksrelaties [beleidsregels inzake het gebruik van financiële derivaten door toegelaten instellingen volkshuisvesting](https://wetten.overheid.nl/jci1.3:c:BWBR0036480) gepubliceerd (verder: ‘beleidsregels derivaten’). Deze beleidsregels zijn op 1 oktober 2012 in werking getreden. Met ingang van die datum mogen er door toegelaten instellingen uitsluitend nog derivatencontracten worden afgesloten die voldoen aan de voorwaarden in de [artikelen 1 tot en met 7 van die beleidsregels](https://wetten.overheid.nl/jci1.3:c:BWBR0036480&artikel=1). Op 1 augustus 2013 zijn de gewijzigde beleidsregels derivaten in de Staatscourant gepubliceerd en op 1 september 2013 zijn deze in werking getreden. De wijzigingen betreffen het weer toestaan van basisrenteleningen indien dat een bijdrage levert aan het voldoen aan de verplichtingen uit hoofde van artikel 8 (2%-punt norm) en artikel 10 (elimineren toezichtsbelemmerende bepalingen) van de beleidsregels derivaten. Verder zijn leningen met embedded derivaten niet meer toegestaan. Met deze wijziging van de beleidsregels derivaten zijn verder de modelovereenkomsten gepubliceerd zoals die gehanteerd dienen te worden bij het afsluiten van nieuwe derivatentransacties. In [artikel 45, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036709&hoofdstuk=IV&paragraaf=1&artikel=45&z=2017-07-01&g=2017-04-01), van de Regeling toegelaten instellingen volkshuisvesting is bepaald dat de Beleidsregels inzake het gebruik van financiële derivaten door toegelaten instellingen volkshuisvesting hun kracht behouden tot het moment dat ILT-Aw het reglement inzake het financieel beleid en beheer heeft goedgekeurd. Op grond van het overgangsrecht ([Hoofdstuk II, artikel II, tweede lid van de Woningwet](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&artikel=2)) hebben toegelaten instellingen tot 1 januari 2017 de gelegenheid om dit reglement op te stellen. Om te voorkomen dat er in verslagjaar 2016 twee wettelijke regimes van toepassing zijn inzake derivaten heeft ILT-Aw besloten de goedkeuring van de reglementen financieel beleid en beheer een ingangsdatum van 1 januari 2017 te geven. Dit betekent dus dat de [Beleidsregels inzake het gebruik van financiële derivaten door toegelaten instellingen volkshuisvesting](https://wetten.overheid.nl/jci1.3:c:BWBR0036480) gedurende het gehele jaar 2016 van kracht zijn.
 
 De accountant dient, om te bepalen of de verantwoording in onderdeel 5.7.15 van de dVi juist en volledig is, na te gaan of de derivatentransacties in verslagjaar 2015 zijn toegestaan conform de beleidsregels en, voor zover van toepassing, of is gehandeld conform het reglement inzake het financieel beleid en beheer als bedoeld in [artikelen 55](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&artikel=55) en [55a van de Woningwet](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&artikel=55a) en [artikelen 105](https://wetten.overheid.nl/jci1.3:c:BWBR0036702&artikel=105), [106](https://wetten.overheid.nl/jci1.3:c:BWBR0036702&artikel=106) en [107 van het Besluit toegelaten instellingen volkshuisvesting](https://wetten.overheid.nl/jci1.3:c:BWBR0036702&artikel=107). De accountant stelt vast dat:
 
@@ -4535,7 +4535,7 @@ Aantal aangegane huurovereenkomsten met betrekking tot zodanige woongelegenheden
 
 ### 5.1. Doelstelling
 
-Op 30 januari 2015 heeft de minister voor W&R de [Beleidsregels verantwoord beleggen door toegelaten instellingen volkshuisvesting](https://wetten.overheid.nl/jci1.3:c:BWBR0036199) gepubliceerd. Deze beleidsregels zijn op 1 februari 2015 in werking getreden. Op 1 juli 2015 zijn de [Woningwet](https://wetten.overheid.nl/jci1.3:c:BWBR0005181), het [Besluit toegelaten instellingen volkshuisvesting](https://wetten.overheid.nl/jci1.3:c:BWBR0036702) en de Regeling toegelaten instellingen volkshuisvesting in werking getreden. In het derde lid van [artikel 46](https://wetten.overheid.nl/jci1.3:c:BWBR0036709&hoofdstuk=IV&paragraaf=1&artikel=46&z=2017-01-28&g=2017-01-28) van de Regeling toegelaten instellingen volkshuisvesting is een overgangsrecht opgenomen. Dit overgangsrecht houdt in dat de [artikelen 1 tot en met 10 van de beleidsregels verantwoord beleggen door toegelaten instellingen volkshuisvesting](https://wetten.overheid.nl/jci1.3:c:BWBR0036199&artikel=1) van kracht blijven tot het tijdstip waarop de toegelaten instelling een door ILT-Aw goedgekeurd reglement inzake het financieel beleid en beheer heeft (de uiterste termijn hiervoor is 1 januari 2017). Buiten dit overgangsrecht moeten toegelaten instellingen uiteraard wel voldoen aan de wettelijke verplichtingen uit de Woningwet. Om te voorkomen dat er in verslagjaar 2016 twee wettelijke regimes van toepassing zijn inzake beleggen heeft ILT-Aw besloten de goedkeuring van de reglementen financieel beleid en beheer een ingangsdatum van 1 januari 2017 te geven. Dit betekent dus dat de [Beleidsregels inzake het gebruik van financiële derivaten door toegelaten instellingen volkshuisvesting](https://wetten.overheid.nl/jci1.3:c:BWBR0036480) gedurende het gehele jaar 2016 van kracht zijn.
+Op 30 januari 2015 heeft de minister voor W&R de [Beleidsregels verantwoord beleggen door toegelaten instellingen volkshuisvesting](https://wetten.overheid.nl/jci1.3:c:BWBR0036199) gepubliceerd. Deze beleidsregels zijn op 1 februari 2015 in werking getreden. Op 1 juli 2015 zijn de [Woningwet](https://wetten.overheid.nl/jci1.3:c:BWBR0005181), het [Besluit toegelaten instellingen volkshuisvesting](https://wetten.overheid.nl/jci1.3:c:BWBR0036702) en de Regeling toegelaten instellingen volkshuisvesting in werking getreden. In het derde lid van [artikel 46](https://wetten.overheid.nl/jci1.3:c:BWBR0036709&hoofdstuk=IV&paragraaf=1&artikel=46&z=2017-07-01&g=2017-04-01) van de Regeling toegelaten instellingen volkshuisvesting is een overgangsrecht opgenomen. Dit overgangsrecht houdt in dat de [artikelen 1 tot en met 10 van de beleidsregels verantwoord beleggen door toegelaten instellingen volkshuisvesting](https://wetten.overheid.nl/jci1.3:c:BWBR0036199&artikel=1) van kracht blijven tot het tijdstip waarop de toegelaten instelling een door ILT-Aw goedgekeurd reglement inzake het financieel beleid en beheer heeft (de uiterste termijn hiervoor is 1 januari 2017). Buiten dit overgangsrecht moeten toegelaten instellingen uiteraard wel voldoen aan de wettelijke verplichtingen uit de Woningwet. Om te voorkomen dat er in verslagjaar 2016 twee wettelijke regimes van toepassing zijn inzake beleggen heeft ILT-Aw besloten de goedkeuring van de reglementen financieel beleid en beheer een ingangsdatum van 1 januari 2017 te geven. Dit betekent dus dat de [Beleidsregels inzake het gebruik van financiële derivaten door toegelaten instellingen volkshuisvesting](https://wetten.overheid.nl/jci1.3:c:BWBR0036480) gedurende het gehele jaar 2016 van kracht zijn.
 
 Met ingang van 1 februari 2015 mogen er door toegelaten instellingen uitsluitend nog beleggingen worden aangegaan die voldoen aan de voorwaarden in de [artikelen 1 tot en met 10 van die beleidsregels](https://wetten.overheid.nl/jci1.3:c:BWBR0036480&artikel=1).
 
@@ -4751,13 +4751,13 @@ Het doel van deze opdracht tot het verrichten van overeengekomen specifieke werk
 
 Wij hebben de jaarrekening2Voor de voorbeeldtekst van een verklaring bij een geconsolideerde jaarrekening, zie HRA deel 3 sectie II. 2016 van ... (naam toegelaten instelling) te ... (statutaire vestigingsplaats) gecontroleerd.
 
-Naar ons oordeel geeft de in het jaarverslag opgenomen jaarrekening een getrouw beeld van de grootte en de samenstelling van het vermogen van ... (naam toegelaten instelling) op 31 december 2016 en van het resultaat over 2016 in overeenstemming met [artikel 35 van de Woningwet](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&artikel=35), [artikel 30](https://wetten.overheid.nl/jci1.3:c:BWBR0036702&artikel=30) en [31 van het Besluit Toegelaten Instellingen Volkshuisvesting](https://wetten.overheid.nl/jci1.3:c:BWBR0036702&artikel=31), [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0036709&hoofdstuk=II&paragraaf=3&artikel=14&z=2017-01-28&g=2017-01-28) en [15](https://wetten.overheid.nl/jci1.3:c:BWBR0036709&hoofdstuk=II&paragraaf=3&artikel=15&z=2017-01-28&g=2017-01-28) van de Regeling Toegelaten Instellingen Volkshuisvesting, de bepalingen van en krachtens de [Wet normering bezoldiging topfunctionarissen publieke en semipublieke sector](https://wetten.overheid.nl/jci1.3:c:BWBR0032249) (WNT) en richtlijn 645 van de Raad voor de Jaarverslaggeving.
+Naar ons oordeel geeft de in het jaarverslag opgenomen jaarrekening een getrouw beeld van de grootte en de samenstelling van het vermogen van ... (naam toegelaten instelling) op 31 december 2016 en van het resultaat over 2016 in overeenstemming met [artikel 35 van de Woningwet](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&artikel=35), [artikel 30](https://wetten.overheid.nl/jci1.3:c:BWBR0036702&artikel=30) en [31 van het Besluit Toegelaten Instellingen Volkshuisvesting](https://wetten.overheid.nl/jci1.3:c:BWBR0036702&artikel=31), [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0036709&hoofdstuk=II&paragraaf=3&artikel=14&z=2017-07-01&g=2017-04-01) en [15](https://wetten.overheid.nl/jci1.3:c:BWBR0036709&hoofdstuk=II&paragraaf=3&artikel=15&z=2017-07-01&g=2017-04-01) van de Regeling Toegelaten Instellingen Volkshuisvesting, de bepalingen van en krachtens de [Wet normering bezoldiging topfunctionarissen publieke en semipublieke sector](https://wetten.overheid.nl/jci1.3:c:BWBR0032249) (WNT) en richtlijn 645 van de Raad voor de Jaarverslaggeving.
 
 De jaarrekening bestaat uit:
 
 Indien de toegelaten instelling in de jaarrekening 2015 RJ 213 (actuele waarde) toepast vastgesteld dat de verantwoording in de dVi aansluit met de goedgekeurde jaarrekening.
 
-Wij hebben onze controle uitgevoerd volgens het Nederlands recht, waaronder ook de Nederlandse controlestandaarden en rubriek A van het accountantsprotocol3De Regeling controleprotocol WNT 2016 wordt genoemd in paragraaf 2.2 en 2.3 van Rubriek A. zoals opgenomen in [bijlage 4](https://wetten.overheid.nl/jci1.3:c:BWBR0036709&bijlage=4&z=2017-01-28&g=2017-01-28) bij de Regeling Toegelaten Instellingen Volkshuisvesting vallen. Onze verantwoordelijkheden op grond hiervan zijn beschreven in de sectie ‘Onze verantwoordelijkheden voor de controle van de jaarrekening’.
+Wij hebben onze controle uitgevoerd volgens het Nederlands recht, waaronder ook de Nederlandse controlestandaarden en rubriek A van het accountantsprotocol3De Regeling controleprotocol WNT 2016 wordt genoemd in paragraaf 2.2 en 2.3 van Rubriek A. zoals opgenomen in [bijlage 4](https://wetten.overheid.nl/jci1.3:c:BWBR0036709&bijlage=4&z=2017-07-01&g=2017-04-01) bij de Regeling Toegelaten Instellingen Volkshuisvesting vallen. Onze verantwoordelijkheden op grond hiervan zijn beschreven in de sectie ‘Onze verantwoordelijkheden voor de controle van de jaarrekening’.
 
 Wij zijn onafhankelijk van ... (naam toegelaten instelling) zoals vereist in de Verordening inzake de onafhankelijkheid van accountants bij assurance-opdrachten (ViO) en andere voor de opdracht relevante onafhankelijkheidsregels in Nederland. Verder hebben wij voldaan aan de Verordening gedrags- en beroepsregels accountants (VGBA).
 
@@ -4771,7 +4771,7 @@ Op grond van onderstaande werkzaamheden zijn wij van mening dat de andere inform
 
 Wij hebben de andere informatie gelezen en hebben op basis van onze kennis en ons begrip, verkregen vanuit de jaarrekeningcontrole of anderszins, overwogen of de andere informatie materiële afwijkingen bevat.
 
-Met onze werkzaamheden hebben wij voldaan aan de vereisten uit rubriek A van het accountantsprotocol zoals opgenomen in [bijlage 4](https://wetten.overheid.nl/jci1.3:c:BWBR0036709&bijlage=4&z=2017-01-28&g=2017-01-28) bij de Regeling toegelaten Instellingen volkshuisvesting en de Nederlandse Standaard 720. Deze werkzaamheden hebben niet dezelfde diepgang als onze controlewerkzaamheden bij de jaarrekening.
+Met onze werkzaamheden hebben wij voldaan aan de vereisten uit rubriek A van het accountantsprotocol zoals opgenomen in [bijlage 4](https://wetten.overheid.nl/jci1.3:c:BWBR0036709&bijlage=4&z=2017-07-01&g=2017-04-01) bij de Regeling toegelaten Instellingen volkshuisvesting en de Nederlandse Standaard 720. Deze werkzaamheden hebben niet dezelfde diepgang als onze controlewerkzaamheden bij de jaarrekening.
 
 Het bestuur is verantwoordelijk voor het opstellen van de andere informatie, waaronder het bestuursverslag en de overige gegevens in overeenstemming met [artikel 35](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&artikel=35) en [36 van de Woningwet](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&artikel=36).
 
@@ -4779,7 +4779,7 @@ Het bestuur is verantwoordelijk voor het opstellen van de andere informatie, waa
 
 Deze rapportage is uitsluitend bestemd voor [Naam Toegelaten Instelling] en de door de Minister voor Wonen en Rijksdienst aangewezen bevoegde instanties (i.c. de Autoriteit Woningcorporaties) aangezien anderen die niet op de hoogte zijn van het doel van de werkzaamheden de resultaten onjuist kunnen interpreteren. Wij verzoeken u derhalve de rapportage niet aan anderen te verstrekken zonder onze uitdrukkelijke toestemming vooraf.
 
-Het bestuur is verantwoordelijk voor het opmaken en getrouw weergeven van de jaarrekening in overeenstemming met [artikel 35 lid 1 en 2 van de Woningwet](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&artikel=35), [artikel 30](https://wetten.overheid.nl/jci1.3:c:BWBR0036702&artikel=30) en [31 van het Besluit Toegelaten Instellingen Volkshuisvesting](https://wetten.overheid.nl/jci1.3:c:BWBR0036702&artikel=31), [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0036709&hoofdstuk=II&paragraaf=3&artikel=14&z=2017-01-28&g=2017-01-28) en [15](https://wetten.overheid.nl/jci1.3:c:BWBR0036709&hoofdstuk=II&paragraaf=3&artikel=15&z=2017-01-28&g=2017-01-28) van de Regeling Toegelaten Instellingen Volkshuisvesting, de bepalingen van en krachtens de [Wet normering bezoldiging topfunctionarissen publieke en semipublieke sector](https://wetten.overheid.nl/jci1.3:c:BWBR0032249) (WNT) en richtlijn 645 van de Raad voor de Jaarverslaggeving. In dit kader is het bestuur verantwoordelijk voor een zodanige interne beheersing die het bestuur noodzakelijk acht om het opmaken van de mogelijk te maken zonder afwijkingen van materieel belang als gevolg van fouten of fraude.
+Het bestuur is verantwoordelijk voor het opmaken en getrouw weergeven van de jaarrekening in overeenstemming met [artikel 35 lid 1 en 2 van de Woningwet](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&artikel=35), [artikel 30](https://wetten.overheid.nl/jci1.3:c:BWBR0036702&artikel=30) en [31 van het Besluit Toegelaten Instellingen Volkshuisvesting](https://wetten.overheid.nl/jci1.3:c:BWBR0036702&artikel=31), [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0036709&hoofdstuk=II&paragraaf=3&artikel=14&z=2017-07-01&g=2017-04-01) en [15](https://wetten.overheid.nl/jci1.3:c:BWBR0036709&hoofdstuk=II&paragraaf=3&artikel=15&z=2017-07-01&g=2017-04-01) van de Regeling Toegelaten Instellingen Volkshuisvesting, de bepalingen van en krachtens de [Wet normering bezoldiging topfunctionarissen publieke en semipublieke sector](https://wetten.overheid.nl/jci1.3:c:BWBR0032249) (WNT) en richtlijn 645 van de Raad voor de Jaarverslaggeving. In dit kader is het bestuur verantwoordelijk voor een zodanige interne beheersing die het bestuur noodzakelijk acht om het opmaken van de mogelijk te maken zonder afwijkingen van materieel belang als gevolg van fouten of fraude.
 
 Bij het opmaken van de jaarrekening moet het bestuur afwegen of de toegelaten instelling in staat is om haar werkzaamheden in continuïteit voort te zetten. Op grond van [artikel 35 van de Woningwet](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&artikel=35) moet het bestuur de jaarrekening opmaken op basis van de continuïteitsveronderstelling, tenzij het bestuur het voornemen heeft om de toegelaten instelling te liquideren of de activiteiten te beëindigen of als beëindiging het enige realistische alternatief is.
 
@@ -5144,7 +5144,7 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 Op 1 juli 2015 zijn de [Woningwet](https://wetten.overheid.nl/jci1.3:c:BWBR0005181), het [Besluit toegelaten instellingen volkshuisvesting](https://wetten.overheid.nl/jci1.3:c:BWBR0036702), en de Regeling toegelaten instellingen volkshuisvesting in werking getreden. Omdat het niet goed mogelijk is om gedurende een verslagjaar een nieuw regime toe te passen met betrekking tot de jaarrekening, het bestuursverslag, het volkshuisvestingsverslag en het onderzoek van de accountant, is in [artikel 126, tweede lid, van het BTIV](https://wetten.overheid.nl/jci1.3:c:BWBR0036702&artikel=126) bepaald dat de [artikelen 35 t/m 38 van de Woningwet](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&artikel=35) voor deze werkzaamheden gelden per verslagjaar 2016. In voorliggend accountantsprotocol over verslagjaar 2016 is de verwijzing naar de relevante bepalingen uit de Woningwet, het Besluit toegelaten instellingen volkshuisvesting en de Regeling toegelaten instellingen doorgevoerd.
 
-In de [Woningwet](https://wetten.overheid.nl/jci1.3:c:BWBR0005181) is in [artikel 35 lid 2](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&artikel=35) bepaald dat toegelaten instellingen het vastgoed in exploitatie in de jaarrekening dienen te waarderen tegen de marktwaarde in verhuurde staat volgens het waarderingshandboek in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0036709&bijlage=2&z=2017-01-28&g=2017-01-28) van de Regeling toegelaten instellingen volkshuisvesting. Deze verplichting ten aanzien van de verantwoording in de jaarrekening geldt met ingang van verslagjaar 2016. Hiermee is de mogelijkheid om de onroerende zaken in exploitatie tegen kostprijs of bedrijfswaarde te waarderen vervallen. Toegelaten instellingen volkshuisvesting dienen met ingang van verslagjaar 2016 verder de modellen voor de balans, de winst-en-verliesrekening en het kasstroomoverzicht te hanteren zoals deze zijn opgenomen in [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0036709&bijlage=3&z=2017-01-28&g=2017-01-28) bij de Regeling toegelaten instellingen volkshuisvesting. De hiermee samenhangende wijzigingen zijn verwerkt in voorliggend accountantsprotocol.
+In de [Woningwet](https://wetten.overheid.nl/jci1.3:c:BWBR0005181) is in [artikel 35 lid 2](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&artikel=35) bepaald dat toegelaten instellingen het vastgoed in exploitatie in de jaarrekening dienen te waarderen tegen de marktwaarde in verhuurde staat volgens het waarderingshandboek in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0036709&bijlage=2&z=2017-07-01&g=2017-04-01) van de Regeling toegelaten instellingen volkshuisvesting. Deze verplichting ten aanzien van de verantwoording in de jaarrekening geldt met ingang van verslagjaar 2016. Hiermee is de mogelijkheid om de onroerende zaken in exploitatie tegen kostprijs of bedrijfswaarde te waarderen vervallen. Toegelaten instellingen volkshuisvesting dienen met ingang van verslagjaar 2016 verder de modellen voor de balans, de winst-en-verliesrekening en het kasstroomoverzicht te hanteren zoals deze zijn opgenomen in [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0036709&bijlage=3&z=2017-07-01&g=2017-04-01) bij de Regeling toegelaten instellingen volkshuisvesting. De hiermee samenhangende wijzigingen zijn verwerkt in voorliggend accountantsprotocol.
 
 ### Doelstelling
 
@@ -5184,7 +5184,7 @@ De accountant stelt hiertoe vast dat aan verbindingen in verslagjaar 2016 door d
 
 ### 4. Onderdeel dVi 5.7.4 (Transacties met aangewezen instellingen)
 
-De accountant stelt hiertoe vast dat de toegelaten instelling ingevolge [artikel 21c lid 1 van de Woningwet](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&artikel=21c) in verslagjaar 2016 uitsluitend transacties is aangegaan bij instellingen die voldoen aan de criteria zoals vastgelegd in [artikel 13 lid 1 en 2 van het Besluit toegelaten instellingen volkshuisvesting](https://wetten.overheid.nl/jci1.3:c:BWBR0036702&artikel=13) en de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0036709&hoofdstuk=I&paragraaf=2&artikel=3&z=2017-01-28&g=2017-01-28) en [4](https://wetten.overheid.nl/jci1.3:c:BWBR0036709&hoofdstuk=I&paragraaf=2&artikel=4&z=2017-01-28&g=2017-01-28) van de Regeling toegelaten instellingen volkshuisvesting.
+De accountant stelt hiertoe vast dat de toegelaten instelling ingevolge [artikel 21c lid 1 van de Woningwet](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&artikel=21c) in verslagjaar 2016 uitsluitend transacties is aangegaan bij instellingen die voldoen aan de criteria zoals vastgelegd in [artikel 13 lid 1 en 2 van het Besluit toegelaten instellingen volkshuisvesting](https://wetten.overheid.nl/jci1.3:c:BWBR0036702&artikel=13) en de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0036709&hoofdstuk=I&paragraaf=2&artikel=3&z=2017-07-01&g=2017-04-01) en [4](https://wetten.overheid.nl/jci1.3:c:BWBR0036709&hoofdstuk=I&paragraaf=2&artikel=4&z=2017-07-01&g=2017-04-01) van de Regeling toegelaten instellingen volkshuisvesting.
 
 ### 5. Onderdeel dVi 5.7.5 (aangetrokken middelen in relatie tot WOZ waarde)
 
@@ -5192,7 +5192,7 @@ De accountant stelt hiertoe vast dat de toegelaten instelling ingevolge [artikel
 
 ### 7. Onderdeel dVi 5.7.7 (zienswijze inzake (her)benoemingen commissarissen en bestuurders)
 
-De accountant dient om vast te stellen dat de verantwoording door de toegelaten instelling in onderdeel 5.7.8 van de dVi juist en volledig is, na te gaan of in het verslagjaar 2016 voldaan is aan de regelgeving omtrent het vervreemden van woongelegenheden en gebouwen met een maatschappelijke gebruiksbestemming (als bedoeld in [artikel 45, tweede lid, onderdeel d van de Woningwet](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&artikel=45) en [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0036702&bijlage=3) en [4 van het Besluit toegelaten instellingen volkshuisvesting](https://wetten.overheid.nl/jci1.3:c:BWBR0036702&bijlage=4)), zoals die zijn vastgelegd in [artikel 27, eerste lid, aanhef en onderdeel a, van de Woningwet](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&artikel=27), [artikelen 22 t/m 26 van het Besluit toegelaten instellingen volkshuisvesting](https://wetten.overheid.nl/jci1.3:c:BWBR0036702&artikel=22) en [artikelen 9 t/m 12](https://wetten.overheid.nl/jci1.3:c:BWBR0036709&hoofdstuk=II&paragraaf=2&artikel=9&z=2017-01-28&g=2017-01-28) van de Regeling toegelaten instellingen volkshuisvesting. Om te bepalen of een vervreemding valt in deze periode, is de datum van het verkoopcontract bepalend.
+De accountant dient om vast te stellen dat de verantwoording door de toegelaten instelling in onderdeel 5.7.8 van de dVi juist en volledig is, na te gaan of in het verslagjaar 2016 voldaan is aan de regelgeving omtrent het vervreemden van woongelegenheden en gebouwen met een maatschappelijke gebruiksbestemming (als bedoeld in [artikel 45, tweede lid, onderdeel d van de Woningwet](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&artikel=45) en [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0036702&bijlage=3) en [4 van het Besluit toegelaten instellingen volkshuisvesting](https://wetten.overheid.nl/jci1.3:c:BWBR0036702&bijlage=4)), zoals die zijn vastgelegd in [artikel 27, eerste lid, aanhef en onderdeel a, van de Woningwet](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&artikel=27), [artikelen 22 t/m 26 van het Besluit toegelaten instellingen volkshuisvesting](https://wetten.overheid.nl/jci1.3:c:BWBR0036702&artikel=22) en [artikelen 9 t/m 12](https://wetten.overheid.nl/jci1.3:c:BWBR0036709&hoofdstuk=II&paragraaf=2&artikel=9&z=2017-07-01&g=2017-04-01) van de Regeling toegelaten instellingen volkshuisvesting. Om te bepalen of een vervreemding valt in deze periode, is de datum van het verkoopcontract bepalend.
 
 ### 9. Onderdeel dVi 5.7.9 (vervreemding woongelegenheden aan natuurlijke personen voor eigen bewoning en maatschappelijk vastgoed aan huurders)
 
@@ -5316,7 +5316,7 @@ Onze controle is uitgevoerd met een hoge mate maar geen absolute mate van zekerh
 
 Afwijkingen kunnen ontstaan als gevolg van fouten of fraude en zijn materieel indien redelijkerwijs kan worden verwacht dat deze, afzonderlijk of gezamenlijk, van invloed kunnen zijn op de economische beslissingen die gebruikers op basis van deze jaarrekening nemen. De materialiteit beïnvloedt de aard, timing en omvang van onze controlewerkzaamheden en de evaluatie van het effect van onderkende afwijkingen op ons oordeel.
 
-Wij hebben deze accountantscontrole professioneel kritisch uitgevoerd en hebben waar relevant professionele oordeelsvorming toegepast in overeenstemming met de Nederlandse controlestandaarden, rubriek A van het accountantsprotocol5De Regeling controleprotocol WNT 2016 wordt genoemd in paragraaf 2.2 en 2.3 van Rubriek A. zoals opgenomen in [bijlage 4](https://wetten.overheid.nl/jci1.3:c:BWBR0036709&bijlage=4&z=2017-01-28&g=2017-01-28) bij de Regeling toegelaten Instellingen volkshuisvesting, ethische voorschriften en de onafhankelijkheidseisen. Onze controle bestond onder andere uit:
+Wij hebben deze accountantscontrole professioneel kritisch uitgevoerd en hebben waar relevant professionele oordeelsvorming toegepast in overeenstemming met de Nederlandse controlestandaarden, rubriek A van het accountantsprotocol5De Regeling controleprotocol WNT 2016 wordt genoemd in paragraaf 2.2 en 2.3 van Rubriek A. zoals opgenomen in [bijlage 4](https://wetten.overheid.nl/jci1.3:c:BWBR0036709&bijlage=4&z=2017-07-01&g=2017-04-01) bij de Regeling toegelaten Instellingen volkshuisvesting, ethische voorschriften en de onafhankelijkheidseisen. Onze controle bestond onder andere uit:
 
 Gegeven onze eindverantwoordelijkheid voor het oordeel zijn wij verantwoordelijk voor de aansturing van, het toezicht op en de uitvoering van de groepscontrole. In dit kader hebben wij de aard en omvang bepaald van de uit te voeren werkzaamheden voor de groepsonderdelen. Bepalend hierbij zijn de omvang en/of het risicoprofiel van de groepsonderdelen of de activiteiten. Op grond hiervan hebben wij de groepsonderdelen geselecteerd waarbij een controle of beoordeling van de volledige financiële informatie of specifieke posten noodzakelijk was.6Deze alinea kan worden verwijderd wanneer geen sprake is van een groepscontrole.
 
@@ -5334,11 +5334,11 @@ Aan: Opdrachtgever
 
 **ASSURANCE-RAPPORT**
 
-Wij hebben onderzocht of het overzicht van de dVi, met checksum XXXX, de assurance-onderdelen uit het accountantsprotocol van ... [naam toegelaten instelling] te ... [statutaire vestigingsplaats] over verslagjaar 2016 juist weergeeft in overeenstemming met de voorschriften zoals opgenomen in Rubriek B van [bijlage 4](https://wetten.overheid.nl/jci1.3:c:BWBR0036709&bijlage=4&z=2017-01-28&g=2017-01-28) bij de Regeling toegelaten instellingen volkshuisvesting 2016. Het bestuur van ... [naam toegelaten instelling] is verantwoordelijk voor het in het overzicht van de dVi juist en volledig weergeven van de assurance-onderdelen 1 tot en met 21 zoals vermeld in Rubriek B van bijlage 4 bij de Regeling toegelaten instellingen volkshuisvesting 2015. Het is onze verantwoordelijkheid een assurance-rapport omtrent deze assurance-onderdelen in de dVi te verstrekken.
+Wij hebben onderzocht of het overzicht van de dVi, met checksum XXXX, de assurance-onderdelen uit het accountantsprotocol van ... [naam toegelaten instelling] te ... [statutaire vestigingsplaats] over verslagjaar 2016 juist weergeeft in overeenstemming met de voorschriften zoals opgenomen in Rubriek B van [bijlage 4](https://wetten.overheid.nl/jci1.3:c:BWBR0036709&bijlage=4&z=2017-07-01&g=2017-04-01) bij de Regeling toegelaten instellingen volkshuisvesting 2016. Het bestuur van ... [naam toegelaten instelling] is verantwoordelijk voor het in het overzicht van de dVi juist en volledig weergeven van de assurance-onderdelen 1 tot en met 21 zoals vermeld in Rubriek B van bijlage 4 bij de Regeling toegelaten instellingen volkshuisvesting 2015. Het is onze verantwoordelijkheid een assurance-rapport omtrent deze assurance-onderdelen in de dVi te verstrekken.
 
 ### Werkzaamheden
 
-Wij hebben ons onderzoek verricht in overeenstemming met Nederlands recht, waaronder de Nederlandse Standaard 3000 ‘Assurance-opdrachten anders dan opdrachten tot controle en beoordeling van historische financiële informatie’ en het accountantsprotocol in Rubriek B van [bijlage 4](https://wetten.overheid.nl/jci1.3:c:BWBR0036709&bijlage=4&z=2017-01-28&g=2017-01-28) bij de Regeling toegelaten instellingen volkshuisvesting 2016. Dienovereenkomstig dienen wij ons onderzoek zodanig te plannen en uit te voeren, dat de assurance-onderdelen uit het accountantsprotocol, zoals vastgelegd in Rubriek B van bijlage 4 bij de Regeling toegelaten instellingen volkshuisvesting 2016 die zijn opgenomen in de dVi geen afwijkingen van materieel belang bevatten.
+Wij hebben ons onderzoek verricht in overeenstemming met Nederlands recht, waaronder de Nederlandse Standaard 3000 ‘Assurance-opdrachten anders dan opdrachten tot controle en beoordeling van historische financiële informatie’ en het accountantsprotocol in Rubriek B van [bijlage 4](https://wetten.overheid.nl/jci1.3:c:BWBR0036709&bijlage=4&z=2017-07-01&g=2017-04-01) bij de Regeling toegelaten instellingen volkshuisvesting 2016. Dienovereenkomstig dienen wij ons onderzoek zodanig te plannen en uit te voeren, dat de assurance-onderdelen uit het accountantsprotocol, zoals vastgelegd in Rubriek B van bijlage 4 bij de Regeling toegelaten instellingen volkshuisvesting 2016 die zijn opgenomen in de dVi geen afwijkingen van materieel belang bevatten.
 
 Ten aanzien van dVi onderdeel 5.7.9 is dat oordeel mede gebaseerd op de aangeleverde gegevens van de woningzoekende(n) (inclusief eventueel afgegeven verklaring of verklaringen waarvan wij de juistheid en volledigheid niet verder hebben onderzocht).
 
@@ -5354,7 +5354,7 @@ Zonder afbreuk te doen aan ons oordeel, merken wij nog het volgende op:
 
 ### Overige aspecten- beperking in het gebruik (en verspreidingskring)
 
-Het overzicht van de dVi is opgesteld voor de door de Minister voor Wonen en Rijksdienst aangewezen bevoegde instanties met als doel ... (naam toegelaten instelling) in staat te stellen te voldoen aan de gestelde eisen in [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0036709&bijlage=3&z=2017-01-28&g=2017-01-28) bij de Regeling toegelaten instellingen volkshuisvesting 2016. Hierdoor is het overzicht van de dVi mogelijk niet geschikt voor andere doeleinden. Ons assurance-rapport is derhalve uitsluitend bestemd voor ... (naam toegelaten instelling) en de door de Minister voor Wonen en Rijksdienst aangewezen bevoegde instanties en dient niet te worden verspreid aan of te worden gebruikt door anderen.
+Het overzicht van de dVi is opgesteld voor de door de Minister voor Wonen en Rijksdienst aangewezen bevoegde instanties met als doel ... (naam toegelaten instelling) in staat te stellen te voldoen aan de gestelde eisen in [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0036709&bijlage=3&z=2017-07-01&g=2017-04-01) bij de Regeling toegelaten instellingen volkshuisvesting 2016. Hierdoor is het overzicht van de dVi mogelijk niet geschikt voor andere doeleinden. Ons assurance-rapport is derhalve uitsluitend bestemd voor ... (naam toegelaten instelling) en de door de Minister voor Wonen en Rijksdienst aangewezen bevoegde instanties en dient niet te worden verspreid aan of te worden gebruikt door anderen.
 
 Plaats, datum
 
@@ -5372,11 +5372,11 @@ Aan: Opdrachtgever
 
 ### Opdracht en verantwoordelijkheden
 
-Wij hebben onderzocht of het overzicht van de dVi, met checksum XXXX, de assurance-onderdelen uit het accountantsprotocol van ... [naam toegelaten instelling]) te ... [statutaire vestigingsplaats] over verslagjaar 2016 juist weergeeft in overeenstemming met de voorschriften zoals opgenomen in Rubriek C van [bijlage 4](https://wetten.overheid.nl/jci1.3:c:BWBR0036709&bijlage=4&z=2017-01-28&g=2017-01-28) bij de Regeling toegelaten instellingen volkshuisvesting 2016. Het bestuur van ... [naam toegelaten instelling] is verantwoordelijk voor het in het overzicht van de dVi juist en volledig weergeven van de assurance-onderdelen 1 tot en met 22 zoals vermeld in Rubriek C van bijlage 4 bij de Regeling toegelaten instellingen volkshuisvesting 2016. Het is onze verantwoordelijkheid een assurance-rapport omtrent deze assurance-onderdelen in de dVi te verstrekken.
+Wij hebben onderzocht of het overzicht van de dVi, met checksum XXXX, de assurance-onderdelen uit het accountantsprotocol van ... [naam toegelaten instelling]) te ... [statutaire vestigingsplaats] over verslagjaar 2016 juist weergeeft in overeenstemming met de voorschriften zoals opgenomen in Rubriek C van [bijlage 4](https://wetten.overheid.nl/jci1.3:c:BWBR0036709&bijlage=4&z=2017-07-01&g=2017-04-01) bij de Regeling toegelaten instellingen volkshuisvesting 2016. Het bestuur van ... [naam toegelaten instelling] is verantwoordelijk voor het in het overzicht van de dVi juist en volledig weergeven van de assurance-onderdelen 1 tot en met 22 zoals vermeld in Rubriek C van bijlage 4 bij de Regeling toegelaten instellingen volkshuisvesting 2016. Het is onze verantwoordelijkheid een assurance-rapport omtrent deze assurance-onderdelen in de dVi te verstrekken.
 
 ### Werkzaamheden
 
-Wij hebben ons onderzoek verricht in overeenstemming met Nederlands recht, waaronder de Nederlandse Standaard 3000 ‘Assurance-opdrachten anders dan opdrachten tot controle en beoordeling van historische financiële informatie’ en het accountantsprotocol in Rubriek C van [bijlage 4](https://wetten.overheid.nl/jci1.3:c:BWBR0036709&bijlage=4&z=2017-01-28&g=2017-01-28) bij de Regeling toegelaten instellingen volkshuisvesting 2016. Dienovereenkomstig dienen wij ons onderzoek zodanig te plannen en uit te voeren, dat een redelijke mate van zekerheid wordt verkregen dat de assurance-onderdelen uit het accountantsprotocol, zoals vastgelegd in Rubriek C van bijlage 4 bij de Regeling toegelaten instellingen volkshuisvesting 2016 die zijn opgenomen in de dVi geen afwijkingen van materieel belang bevatten.
+Wij hebben ons onderzoek verricht in overeenstemming met Nederlands recht, waaronder de Nederlandse Standaard 3000 ‘Assurance-opdrachten anders dan opdrachten tot controle en beoordeling van historische financiële informatie’ en het accountantsprotocol in Rubriek C van [bijlage 4](https://wetten.overheid.nl/jci1.3:c:BWBR0036709&bijlage=4&z=2017-07-01&g=2017-04-01) bij de Regeling toegelaten instellingen volkshuisvesting 2016. Dienovereenkomstig dienen wij ons onderzoek zodanig te plannen en uit te voeren, dat een redelijke mate van zekerheid wordt verkregen dat de assurance-onderdelen uit het accountantsprotocol, zoals vastgelegd in Rubriek C van bijlage 4 bij de Regeling toegelaten instellingen volkshuisvesting 2016 die zijn opgenomen in de dVi geen afwijkingen van materieel belang bevatten.
 
 Ten aanzien van het dVi onderdeel 5.8 punt 1a, 1b en 1c en 5.8.3 zijn onze werkzaamheden deels gebaseerd op de aangeleverde gegevens van de woningzoekende(n), inclusief eventueel afgegeven verklaring of verklaringen waarvan wij de juistheid en volledigheid niet verder hebben onderzocht. Ten aanzien van het dVi onderdeel 5.8 punt 1a, 1b en 1c alsmede 5.8.3 zijn onze werkzaamheden verder deels gebaseerd op de aangeleverde bestuursverklaring(en) van intermediaire partijen waarvan wij de juistheid en volledigheid niet verder hebben onderzocht.
 
@@ -5384,7 +5384,7 @@ Wij zijn van mening dat de door ons verkregen onderzoeksinformatie voldoende en 
 
 ### Oordeel
 
-Naar ons oordeel zijn de in de dVi opgenomen assurance-onderdelen uit het accountantsprotocol, welke onder ‘Opdracht en verantwoordelijkheden’ zijn benoemd van ... [naam toegelaten instelling] te ... [statutaire vestigingsplaats] in alle van materieel belang zijnde aspecten weergegeven in overeenstemming met de voorschriften zoals opgenomen in Rubriek C van [bijlage 4](https://wetten.overheid.nl/jci1.3:c:BWBR0036709&bijlage=4&z=2017-01-28&g=2017-01-28) bij de Regeling toegelaten instellingen volkshuisvesting 2015.
+Naar ons oordeel zijn de in de dVi opgenomen assurance-onderdelen uit het accountantsprotocol, welke onder ‘Opdracht en verantwoordelijkheden’ zijn benoemd van ... [naam toegelaten instelling] te ... [statutaire vestigingsplaats] in alle van materieel belang zijnde aspecten weergegeven in overeenstemming met de voorschriften zoals opgenomen in Rubriek C van [bijlage 4](https://wetten.overheid.nl/jci1.3:c:BWBR0036709&bijlage=4&z=2017-07-01&g=2017-04-01) bij de Regeling toegelaten instellingen volkshuisvesting 2015.
 
 **(Indien op één van de 22 assurance-onderdelen sprake is van een niet-goedkeurend oordeel dan wordt dit afzonderlijk toegelicht** 8 Dit oordeel gaat uit van een goedkeurend oordeel over alle 22 assurance-onderdelen. Indien aan één of meerdere onderdelen niet is voldaan, dan moet daarvoor een aangepast oordeel gevormd worden, inclusief de daarbij behorende onderbouwing van het oordeel vóór de paragraaf ‘oordeel’. Voor deze onderbouwing dient de volgende kop opgenomen te worden: Onderbouwing van het oordeel met beperking/het afkeurend oordeel/de oordeelonthouding ten aanzien van voorwaarde ...’. Ingeval van een oordeelonthouding zal ook de tekst van de paragrafen ‘Opdracht en verantwoordelijkheden’ en ‘Werkzaamheden’ navenant anders komen te luiden. De kop ‘Oordeel’ zal in deze situatie wijzigen in ‘Oordeel ten aanzien van assurance-onderdeel ...’. De kop van het aangepaste oordeel zal dan luiden: Oordeel met beperking/Oordeelonthouding/Afkeurend oordeel ten aanzien van assurance-onderdeel ...’.).
 
@@ -5398,7 +5398,7 @@ Zonder afbreuk te doen aan ons oordeel, merken wij nog het volgende op:
 
 ### Overige aspecten- beperking in het gebruik (en verspreidingskring)
 
-Het overzicht van de dVi is opgesteld voor de door de Minister voor Wonen en Rijksdienst aangewezen bevoegde instanties met als doel ... (naam toegelaten instelling) in staat te stellen te voldoen aan de gestelde eisen in [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0036709&bijlage=3&z=2017-01-28&g=2017-01-28) bij de Regeling toegelaten instellingen volkshuisvesting 2016. Hierdoor is het overzicht van de dVi mogelijk niet geschikt voor andere doeleinden. Ons assurance-rapport is derhalve uitsluitend bestemd voor ... (naam toegelaten instelling) en de door de Minister voor Wonen en Rijksdienst aangewezen bevoegde instanties en dient niet te worden verspreid aan of te worden gebruikt door anderen.
+Het overzicht van de dVi is opgesteld voor de door de Minister voor Wonen en Rijksdienst aangewezen bevoegde instanties met als doel ... (naam toegelaten instelling) in staat te stellen te voldoen aan de gestelde eisen in [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0036709&bijlage=3&z=2017-07-01&g=2017-04-01) bij de Regeling toegelaten instellingen volkshuisvesting 2016. Hierdoor is het overzicht van de dVi mogelijk niet geschikt voor andere doeleinden. Ons assurance-rapport is derhalve uitsluitend bestemd voor ... (naam toegelaten instelling) en de door de Minister voor Wonen en Rijksdienst aangewezen bevoegde instanties en dient niet te worden verspreid aan of te worden gebruikt door anderen.
 
 Plaats, datum
 
@@ -5406,7 +5406,7 @@ Plaats, datum
 
 ... (naam accountant)
 
-## Bijlage 5. bij [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBR0036709&hoofdstuk=II&paragraaf=3&artikel=15&z=2017-01-28&g=2017-01-28) van de Regeling toegelaten instellingen volkshuisvesting 2015
+## Bijlage 5. bij [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBR0036709&hoofdstuk=II&paragraaf=3&artikel=15&z=2017-07-01&g=2017-04-01) van de Regeling toegelaten instellingen volkshuisvesting 2015
 
 ### INHOUDSOPGAVE
 
@@ -5440,7 +5440,7 @@ Plaats, datum
 
 ### 3.4. Prognose specificatie bedrijfswaarde (geconsolideerd (B) of enkelvoudig (A))
 
-## Bijlage 6. bij [art. 43](https://wetten.overheid.nl/jci1.3:c:BWBR0036709&hoofdstuk=III&afdeling=5&paragraaf=2&artikel=43&z=2017-01-28&g=2017-01-28) van de Regeling toegelaten instellingen volkshuisvesting 2015
+## Bijlage 6. bij [art. 43](https://wetten.overheid.nl/jci1.3:c:BWBR0036709&hoofdstuk=III&afdeling=5&paragraaf=2&artikel=43&z=2017-07-01&g=2017-04-01) van de Regeling toegelaten instellingen volkshuisvesting 2015
 
 ### Model voor de raamovereenkomst inzake het aantrekken van financiële derivaten
 
@@ -5454,7 +5454,7 @@ VERKLAREN TE ZIJN OVEREENGEKOMEN ALS VOLGT:
 
 TEN BLIJKE WAARVAN partijen aan dit document uitvoering hebben gegeven op de onderstaande datum welke in werking treedt op de datum genoemd op de eerste pagina van dit document.
 
-## Bijlage 7. bij [artikel 43](https://wetten.overheid.nl/jci1.3:c:BWBR0036709&hoofdstuk=III&afdeling=5&paragraaf=2&artikel=43&z=2017-01-28&g=2017-01-28) van de Regeling toegelaten instellingen volkshuisvesting 2015
+## Bijlage 7. bij [artikel 43](https://wetten.overheid.nl/jci1.3:c:BWBR0036709&hoofdstuk=III&afdeling=5&paragraaf=2&artikel=43&z=2017-07-01&g=2017-04-01) van de Regeling toegelaten instellingen volkshuisvesting 2015
 
 Financiële derivaten mogen uitsluitend worden aangetrokken onder de in de bijlage genoemde modelovereenkomst. Niet in de bijlage als zodanig opgenomen onderdeel van deze modelovereenkomst is het ISDA Master Agreement 2002. Deze Master Agreement 2002 is een gestandaardiseerd contract opgesteld door de International Swaps and Derivatives Association (ISDA), een organisatie voor handelaren in onderhandse derivaten wereldwijd en gevestigd in New York. De ISDA (en daarmee het Master Agreement 2002) zijn bereikbaar via website www.isda.org.
 
@@ -5705,7 +5705,7 @@ IN WITNESS WHEREOF the parties have executed this document on the respective dat
 | Function | Function |
 |   |   |
 
-## Bijlage 8. bij [artikel 22c](https://wetten.overheid.nl/jci1.3:c:BWBR0036709&hoofdstuk=III&afdeling=2a&artikel=22c&z=2017-01-28&g=2017-01-28) Regeling toegelaten instellingen volkshuisvesting 2015
+## Bijlage 8. bij [artikel 22c](https://wetten.overheid.nl/jci1.3:c:BWBR0036709&hoofdstuk=III&afdeling=2a&artikel=22c&z=2017-07-01&g=2017-04-01) Regeling toegelaten instellingen volkshuisvesting 2015
 
 Verklaring gemeente bij het verhuren van minder dan 50% van de verhuureenheden aan vergunninghouders
 
@@ -5721,7 +5721,7 @@ Handtekening: ________________________________________
 
 Naam: ____________________
 
-## Bijlage 9. bij [artikel 22d, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0036709&hoofdstuk=III&afdeling=2a&artikel=22d&z=2017-01-28&g=2017-01-28), Regeling toegelaten instellingen volkshuisvesting 2015
+## Bijlage 9. bij [artikel 22d, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0036709&hoofdstuk=III&afdeling=2a&artikel=22d&z=2017-07-01&g=2017-04-01), Regeling toegelaten instellingen volkshuisvesting 2015
 
 Verklaring gemeente bij werkzaamheden door een toegelaten instelling of samenwerkingsvennootschap
 
@@ -5743,7 +5743,7 @@ Handtekening: ________________________________________
 
 Naam: ____________________
 
-## Bijlage 10. bij [artikel 22d, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0036709&hoofdstuk=III&afdeling=2a&artikel=22d&z=2017-01-28&g=2017-01-28), Regeling toegelaten instellingen volkshuisvesting 2015
+## Bijlage 10. bij [artikel 22d, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0036709&hoofdstuk=III&afdeling=2a&artikel=22d&z=2017-07-01&g=2017-04-01), Regeling toegelaten instellingen volkshuisvesting 2015
 
 Verklaring gemeente bij werkzaamheden door een met een toegelaten instelling verbonden onderneming
 
