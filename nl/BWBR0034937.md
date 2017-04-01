@@ -4,7 +4,7 @@ identifier: "BWBR0034937"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2022-01-01"
-last_updated: "2014-03-19"
+last_updated: "2017-04-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0034937"
 soort: "ministeriele-regeling"
@@ -152,11 +152,11 @@ De Minister van Sociale Zaken en Werkgelegenheid is de zorgdrager voor de archie
 
 1. De verantwoordelijkheid voor het identificeren en registreren van nieuwe archiefbescheiden berust bij de behandelend medewerker. Direct bij binnenkomst of bij creatie van documenten beoordeelt de behandelend medewerker, op grond van de geldende registratiecriteria, of het archiefbescheiden betreft. Vervolgens registreert hij nieuwe archiefbescheiden door ze in het juiste dossier op te slaan.
 
-2. Bij het opslaan in een dossier krijgen nieuwe documenten de vereiste metagegevens toegekend, overeenkomstig het metagegevensschema genoemd in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0034937&hoofdstuk=3&artikel=8&z=2014-03-19&g=2014-03-19). De metagegevens zijn zowel voorgeschreven op documentniveau, als op dossierniveau. Ieder document krijgt dus zowel documentgebonden metagegevens, als ook de metagegevens die bij het betreffende dossier horen.
+2. Bij het opslaan in een dossier krijgen nieuwe documenten de vereiste metagegevens toegekend, overeenkomstig het metagegevensschema genoemd in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0034937&hoofdstuk=3&artikel=8&z=2014-03-19&g=2017-04-01). De metagegevens zijn zowel voorgeschreven op documentniveau, als op dossierniveau. Ieder document krijgt dus zowel documentgebonden metagegevens, als ook de metagegevens die bij het betreffende dossier horen.
 
-3. De beheerder stelt dossiers beschikbaar, waarin de medewerkers nieuwe documenten opslaan. Bij aanmaak van deze dossiers legt de beheerder direct metagegevens van het dossier vast. Eén van deze metagegevens is de waardering, die overeenkomstig de in [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0034937&hoofdstuk=4&artikel=13&z=2014-03-19&g=2014-03-19) genoemde selectielijst gekoppeld is aan het werkproces waarvan het dossier deel uitmaakt.
+3. De beheerder stelt dossiers beschikbaar, waarin de medewerkers nieuwe documenten opslaan. Bij aanmaak van deze dossiers legt de beheerder direct metagegevens van het dossier vast. Eén van deze metagegevens is de waardering, die overeenkomstig de in [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0034937&hoofdstuk=4&artikel=13&z=2014-03-19&g=2017-04-01) genoemde selectielijst gekoppeld is aan het werkproces waarvan het dossier deel uitmaakt.
 
-4. De directeur Bedrijfsvoering draagt zorg voor de digitale vervanging en opname in een documentmanagementsysteem van nieuwe papieren archiefbescheiden, mits deze documenten voor digitale vervanging in aanmerking komen. Hierbij volgt de directeur Bedrijfsvoering de bepalingen in [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0034937&hoofdstuk=4&artikel=14&z=2014-03-19&g=2014-03-19) betreffende vervanging.
+4. De directeur Bedrijfsvoering draagt zorg voor de digitale vervanging en opname in een documentmanagementsysteem van nieuwe papieren archiefbescheiden, mits deze documenten voor digitale vervanging in aanmerking komen. Hierbij volgt de directeur Bedrijfsvoering de bepalingen in [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0034937&hoofdstuk=4&artikel=14&z=2014-03-19&g=2017-04-01) betreffende vervanging.
 
 5. De directeur van een archiefvormend orgaan is verantwoordelijk voor het afdoen van de archiefbescheiden binnen de vastgestelde termijn.
 
@@ -236,7 +236,7 @@ De Minister van Sociale Zaken en Werkgelegenheid is de zorgdrager voor de archie
 
 4. Het is de norm dat medewerkers gebruik maken van standaard computerapplicaties, opdat zij digitale archiefbescheiden in uniforme formaten aanmaken. Een overzicht van de gebruikte standaard computerapplicaties is vastgelegd in een productdienstcatalogus.
 
-5. De beheerder bewaart digitale archiefbescheiden in principe in het formaat waarin ze zijn aangemaakt, tot hij de archiefbescheiden gereed maakt voor overdracht aan een archiefbewaarplaats, zoals beschreven in [artikel 16, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034937&hoofdstuk=4&artikel=16&z=2014-03-19&g=2014-03-19). Om archiefbescheiden na wijziging van apparatuur, besturingsprogrammatuur of toepassingsprogrammatuur leesbaar te kunnen blijven maken, bewaart de beheerder de apparatuur en/of programmatuur waarmee archiefbestanden zijn aangemaakt als onderdeel van het archief of zorgt hij voor emulatie van deze apparatuur en/of programmatuur.
+5. De beheerder bewaart digitale archiefbescheiden in principe in het formaat waarin ze zijn aangemaakt, tot hij de archiefbescheiden gereed maakt voor overdracht aan een archiefbewaarplaats, zoals beschreven in [artikel 16, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034937&hoofdstuk=4&artikel=16&z=2014-03-19&g=2017-04-01). Om archiefbescheiden na wijziging van apparatuur, besturingsprogrammatuur of toepassingsprogrammatuur leesbaar te kunnen blijven maken, bewaart de beheerder de apparatuur en/of programmatuur waarmee archiefbestanden zijn aangemaakt als onderdeel van het archief of zorgt hij voor emulatie van deze apparatuur en/of programmatuur.
 
 6. De beheerder zorgt voor migratie of conversie van digitale archiefbescheiden, waarbij hij het behoud van de inhoud en de metagegevens waarborgt, indien:
 
@@ -252,7 +252,7 @@ De Minister van Sociale Zaken en Werkgelegenheid is de zorgdrager voor de archie
 
 ##### Artikel 12. Duurzaamheid van papieren archiefbescheiden
 
-1. Indien papieren archiefbescheiden door de aard van de gebruikte materialen niet (langer) voldoen aan het in [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0034937&hoofdstuk=4&artikel=10&z=2014-03-19&g=2014-03-19) bepaalde, gaat de beheerder over tot vervanging van de archiefbescheiden door reproducties, als bedoeld in [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0034937&hoofdstuk=4&artikel=14&z=2014-03-19&g=2014-03-19), tenzij het archiefbescheiden betreft die zijn uitgesloten van vervanging.
+1. Indien papieren archiefbescheiden door de aard van de gebruikte materialen niet (langer) voldoen aan het in [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0034937&hoofdstuk=4&artikel=10&z=2014-03-19&g=2017-04-01) bepaalde, gaat de beheerder over tot vervanging van de archiefbescheiden door reproducties, als bedoeld in [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0034937&hoofdstuk=4&artikel=14&z=2014-03-19&g=2017-04-01), tenzij het archiefbescheiden betreft die zijn uitgesloten van vervanging.
 
 2. De directeur Bedrijfsvoering kan door middel van een overeenkomst afgesloten papieren archiefbestanden op laten slaan bij derden in speciaal daarvoor bestemde archiefruimten die voldoen aan de voorschriften archiefruimten in de [Archiefregeling 2009](https://wetten.overheid.nl/jci1.3:c:BWBR0027041).
 
@@ -284,19 +284,19 @@ De Minister van Sociale Zaken en Werkgelegenheid is de zorgdrager voor de archie
 
 ##### Artikel 15. Vernietiging
 
-1. Vernietiging van archiefbescheiden vindt uitsluitend plaats op grond van een selectielijst als bedoeld in [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0034937&hoofdstuk=4&artikel=13&z=2014-03-19&g=2014-03-19), of na vervanging van de betreffende archiefbescheiden door reproducties volgens de procedure beschreven in [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0034937&hoofdstuk=4&artikel=14&z=2014-03-19&g=2014-03-19).
+1. Vernietiging van archiefbescheiden vindt uitsluitend plaats op grond van een selectielijst als bedoeld in [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0034937&hoofdstuk=4&artikel=13&z=2014-03-19&g=2017-04-01), of na vervanging van de betreffende archiefbescheiden door reproducties volgens de procedure beschreven in [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0034937&hoofdstuk=4&artikel=14&z=2014-03-19&g=2017-04-01).
 
 2. De beheerder draagt in overleg met de verantwoordelijke directeur zorg voor de vernietiging op grond van de selectielijst van daarvoor in aanmerking komende archiefbestanddelen, zo snel mogelijk na het verstrijken van de daarvoor in de selectielijst vastgestelde termijn en voor het overbrengen van het archief naar een archiefbewaarplaats.
 
 3. Van de vernietiging op grond van de selectielijst van archiefbescheiden uit het afgesloten archief laat de beheerder volgens een model een verklaring opmaken, die ten minste een specificatie van de vernietigde archiefbescheiden behelst en die vermeldt op welke grond de vernietiging heeft plaatsgevonden. De verantwoordelijke directeur ondertekent de verklaring van vernietiging. Als de directeur Bedrijfsvoering de verantwoordelijke directeur is, ondertekent onder diens verantwoordelijkheid het hoofd van de DIV-afdeling de verklaring van vernietiging. De beheerder bewaart de verklaring van vernietiging blijvend in zijn archief.
 
-4. De directeur Bedrijfsvoering draagt zorg voor de vernietiging van archiefbescheiden in het kader van de in [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0034937&hoofdstuk=4&artikel=14&z=2014-03-19&g=2014-03-19) beschreven vervangingprocedure. Vernietiging is een onverbrekelijk onderdeel van het vervangingsproces en moet binnen afzienbare tijd na de vervanging plaats vinden.
+4. De directeur Bedrijfsvoering draagt zorg voor de vernietiging van archiefbescheiden in het kader van de in [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0034937&hoofdstuk=4&artikel=14&z=2014-03-19&g=2017-04-01) beschreven vervangingprocedure. Vernietiging is een onverbrekelijk onderdeel van het vervangingsproces en moet binnen afzienbare tijd na de vervanging plaats vinden.
 
 5. Van de vernietiging van archiefbescheiden in het kader van de vervangingsprocedure laat de directeur Bedrijfsvoering volgens een model een verklaring opmaken, die ten minste een specificatie van de vernietigde archiefbescheiden behelst. Onder verantwoordelijkheid van de directeur bedrijfsvoering ondertekent het hoofd van de DIV-afdeling de verklaring van vernietiging. De directeur Bedrijfsvoering bewaart de verklaring van vernietiging blijvend in zijn archief.
 
 ##### Artikel 16. Overbrenging naar een archiefbewaarplaats
 
-1. De directeur Bedrijfsvoering is verantwoordelijk voor de overbrenging van de daarvoor in aanmerking komende archiefbescheiden naar een archiefbewaarplaats. De selectielijst, zoals beschreven in [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0034937&hoofdstuk=4&artikel=13&z=2014-03-19&g=2014-03-19), is in dit procesleidend. De directeur Bedrijfsvoering brengt de daarvoor in aanmerking komende archiefbescheiden in principe twintig jaar na het afsluiten van het dossier over naar een archiefbewaarplaats.
+1. De directeur Bedrijfsvoering is verantwoordelijk voor de overbrenging van de daarvoor in aanmerking komende archiefbescheiden naar een archiefbewaarplaats. De selectielijst, zoals beschreven in [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0034937&hoofdstuk=4&artikel=13&z=2014-03-19&g=2017-04-01), is in dit procesleidend. De directeur Bedrijfsvoering brengt de daarvoor in aanmerking komende archiefbescheiden in principe twintig jaar na het afsluiten van het dossier over naar een archiefbewaarplaats.
 
 2. De directeur Bedrijfsvoering is er voor verantwoordelijk dat de over te brengen archiefbescheiden voldoen aan de geldende normen van goede, geordende en toegankelijke staat van het Nationaal Archief.
 
@@ -322,7 +322,7 @@ De Minister van Sociale Zaken en Werkgelegenheid is de zorgdrager voor de archie
 
 1. Indien een directie de verantwoordelijkheid voor archiefbescheiden overdraagt aan een andere directie, laat de overdragende directeur volgens een model een verklaring opmaken, die een specificatie van de overgedragen archiefbescheiden bevat. Zowel de overdragende als de ontvangende directeur ondertekenen de verklaring van overdracht. Zowel de ontvangende directie als de directie Bedrijfsvoering bewaren de verklaring van overdracht in hun archief.
 
-2. Er is geen verklaring van overdracht nodig, indien een archiefvormende directie afgesloten archiefbescheiden formeel overdraagt aan de directie Bedrijfsvoering en de directeur Bedrijfsvoering door een dienstverleningsovereenkomst al de beheerder van de betreffende archiefbescheiden is. In dat geval is de formele overdracht geregeld in de dienstverleningsovereenkomst en bezegelt het afsluiten van het dossier volgens de in [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0034937&hoofdstuk=4&artikel=10&z=2014-03-19&g=2014-03-19) beschreven procedure formeel de overdracht.
+2. Er is geen verklaring van overdracht nodig, indien een archiefvormende directie afgesloten archiefbescheiden formeel overdraagt aan de directie Bedrijfsvoering en de directeur Bedrijfsvoering door een dienstverleningsovereenkomst al de beheerder van de betreffende archiefbescheiden is. In dat geval is de formele overdracht geregeld in de dienstverleningsovereenkomst en bezegelt het afsluiten van het dossier volgens de in [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0034937&hoofdstuk=4&artikel=10&z=2014-03-19&g=2017-04-01) beschreven procedure formeel de overdracht.
 
 ##### Artikel 18. Vervreemding
 
@@ -370,7 +370,7 @@ Verzoeken van derden om beschikbaarstelling van archiefbescheiden behandelt het 
 
 - 3). Als een overdracht van archiefbescheiden als bedoeld in het tweede lid binnen het ministerie plaatsvindt, laat de verantwoordelijke directeur een verklaring van overdracht opmaken.
 
-- 4). Indien een overdracht van archiefbescheiden als bedoeld in het tweede lid aan een overheidsorgaan buiten het ministerie plaatsvindt, laat de verantwoordelijke directeur een verklaring van vervreemding opmaken. Hierbij wordt de in [artikel 18](https://wetten.overheid.nl/jci1.3:c:BWBR0034937&hoofdstuk=4&artikel=18&z=2014-03-19&g=2014-03-19) beschreven procedure gevolgd.
+- 4). Indien een overdracht van archiefbescheiden als bedoeld in het tweede lid aan een overheidsorgaan buiten het ministerie plaatsvindt, laat de verantwoordelijke directeur een verklaring van vervreemding opmaken. Hierbij wordt de in [artikel 18](https://wetten.overheid.nl/jci1.3:c:BWBR0034937&hoofdstuk=4&artikel=18&z=2014-03-19&g=2017-04-01) beschreven procedure gevolgd.
 
 - 5). In geval van reorganisatie draagt de verantwoordelijke directeur zorg voor de overdracht aan de directeur Bedrijfsvoering van de archiefbescheiden betreffende zaken die op het moment van de reorganisatie reeds zijn afgesloten en niet meer noodzakelijk zijn voor de uitvoering van de taken.
 
