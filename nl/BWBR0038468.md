@@ -285,17 +285,3 @@ Deze regeling treedt in werking op een bij koninklijk besluit te bepalen tijdsti
 Deze regeling wordt aangehaald als: Besluit slachtoffers van strafbare feiten.
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
-
-##### Artikel 5a
-
-De ambtenaar, bedoeld in [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0038468&hoofdstuk=3&artikel=5&z=2021-07-01&g=2021-07-01), verstrekt aan een slachtoffer van een strafbaar feit dat is gepleegd door middel van misbruik van zijn persoonsgegevens informatie over manieren om zichzelf tegen de negatieve gevolgen daarvan te beschermen en instellingen die zich met verschillende aspecten van dergelijke misdrijven en ondersteuning aan slachtoffers bezighouden.
-
-### Hoofdstuk 4. Maatregelen tot bescherming
-
-### Hoofdstuk 5. Individuele beoordeling, specifieke beschermingsbehoeften, bijzondere maatregelen en minderjarigen
-
-### Hoofdstuk 6. Herstelrechtvoorzieningen
-
-### Hoofdstuk 7. Inwerkingtreding en citeertitel
-
-Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
