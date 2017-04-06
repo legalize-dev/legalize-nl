@@ -4,7 +4,7 @@ identifier: "BWBR0037590"
 country: "nl"
 rank: "zbo"
 publication_date: "2024-03-09"
-last_updated: "2016-02-05"
+last_updated: "2017-04-06"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0037590"
 soort: "zbo"
@@ -44,15 +44,15 @@ Besluit:
 
 ##### Artikel 1. centrale examens VO
 
-De omzetting van scores in cijfers bij centrale examens VO, bedoeld in [artikel 2, tweede lid, onderdeel e, van de Wet College voor toetsen en examens](https://wetten.overheid.nl/jci1.3:c:BWBR0025364&artikel=2) geschiedt op de in de [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0037590&bijlage=1&z=2016-02-05&g=2016-02-05) bij deze regeling vastgestelde wijze.
+De omzetting van scores in cijfers bij centrale examens VO, bedoeld in [artikel 2, tweede lid, onderdeel e, van de Wet College voor toetsen en examens](https://wetten.overheid.nl/jci1.3:c:BWBR0025364&artikel=2) geschiedt op de in de [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0037590&bijlage=1&z=2017-04-06&g=2017-04-06) bij deze regeling vastgestelde wijze.
 
 ##### Artikel 2. rekentoets VO
 
-De omzetting van scores in cijfers bij de rekentoets VO, bedoeld in [artikel 2a, van de Wet College voor toetsen en examens](https://wetten.overheid.nl/jci1.3:c:BWBR0025364&artikel=2) geschiedt op de in de [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0037590&bijlage=2&z=2016-02-05&g=2016-02-05) bij deze regeling vastgestelde wijze.
+De omzetting van scores in cijfers bij de rekentoets VO, bedoeld in [artikel 2a, van de Wet College voor toetsen en examens](https://wetten.overheid.nl/jci1.3:c:BWBR0025364&artikel=2) geschiedt op de in de [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0037590&bijlage=2&z=2017-04-06&g=2017-04-06) bij deze regeling vastgestelde wijze.
 
-##### Artikel 3. pilot-profiel-cspe’s
+##### Artikel 3. profielvak-cspe’s
 
-De omzetting van scores in cijfers bij centrale examens VO, bedoeld in [artikel 2, tweede lid, onderdeel e, van de Wet College voor toetsen en examens](https://wetten.overheid.nl/jci1.3:c:BWBR0025364&artikel=2) geschiedt voor de pilot-profiel-cspe’s op de in de [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0037590&bijlage=3&z=2016-02-05&g=2016-02-05) bij deze regeling vastgestelde wijze.
+De omzetting van scores in cijfers bij centrale examens vo, bedoeld in [artikel 2, tweede lid, onderdeel e, van de Wet College voor toetsen en examens](https://wetten.overheid.nl/jci1.3:c:BWBR0025364&artikel=2) geschiedt voor de profielvak-cspe’s op de in de [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0037590&bijlage=3&z=2017-04-06&g=2017-04-06) bij deze regeling vastgestelde wijze.
 
 ##### Artikel 4. inwerkingtreding
 
@@ -66,7 +66,7 @@ De [Regeling omzetting scores in cijfers centrale examens en rekentoets VO 2015]
 
 Deze regeling wordt aangehaald als: Regeling omzetting scores in cijfers centrale examens en rekentoets VO 2016.
 
-## Bijlage 1. behorende bij [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0037590&artikel=1&z=2016-02-05&g=2016-02-05) van de Regeling omzetting scores in cijfers centrale examens en rekentoets VO 2016, van 30 november 2015, nummer CvTE-15.02159
+## Bijlage 1. behorende bij [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0037590&artikel=1&z=2017-04-06&g=2017-04-06) van de Regeling omzetting scores in cijfers centrale examens en rekentoets VO 2016, van 30 november 2015, nummer CvTE-15.02159
 
 ### De instructies die het CvTE toepast om tot de N-termen te komen
 
@@ -206,7 +206,7 @@ Bij een waarde voor de normeringsterm van N = 1,0 treedt het systeem van grensre
 
 Bij alle andere waarden van N zijn de grensrelaties wel van belang. In Fig. 4 zijn als voorbeelden de twee uiterste gevallen in beeld gebracht, die resp. corresponderen met de normeringsbeslissingen N = 2,0 en N = 0, . Deze leveren als score-cijfertransformaties de twee dubbel-geknikte lijnen op (gelabeld met ‘N=2,0’ en ‘N=0,0’).
 
-## Bijlage 2. behorende bij [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0037590&artikel=2&z=2016-02-05&g=2016-02-05) van de Regeling omzetting scores in cijfers centrale examens en rekentoets VO 2016, van 30 november 2015, nummer CvTE-15.02159
+## Bijlage 2. behorende bij [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0037590&artikel=2&z=2017-04-06&g=2017-04-06) van de Regeling omzetting scores in cijfers centrale examens en rekentoets VO 2016, van 30 november 2015, nummer CvTE-15.02159
 
 ### Normering met een vaardigheidsschaal bij de centrale examens Nederlandse taal en rekenen in het mbo en de rekentoets vo (rvo)
 
@@ -332,11 +332,11 @@ Verhelst, N.D., Glas, C.A.W., & Verstralen, H.H.F.M. (1993). OPLM: One parameter
 
 Warm, T.A. (1989). Weighted likelihood estimation of ability in item response theory. **Psychometrika, 54**, 427–450.
 
-## Bijlage 3. behorende bij [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0037590&artikel=3&z=2016-02-05&g=2016-02-05) van de Regeling omzetting scores in cijfers centrale examens en rekentoets VO 2016, van 30 november 2015, nummer CvTE-15.02159
+## Bijlage 3. behorende bij [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0037590&artikel=3&z=2017-04-06&g=2017-04-06) van de Regeling omzetting scores in cijfers centrale examens en rekentoets VO 2016, van 30 november 2015, nummer CvTE-15.02159
 
-### Niet-bindende N-termen voor de pilot-profiel-cspe’s
+### Niet-bindende N-termen voor de profielvak-cspe’s
 
-Bij de omzetting van scores in cijfers van de pilot-profiel-cspe’s
+Bij de omzetting van scores in cijfers van de profielvak-cspe’s
 
 wordt gewerkt met niet-bindende N-termen.
 
