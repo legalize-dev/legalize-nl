@@ -4,7 +4,7 @@ identifier: "BWBR0027600"
 country: "nl"
 rank: "amvb"
 publication_date: "2017-04-11"
-last_updated: "2010-07-01"
+last_updated: "2017-04-11"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0027600"
 soort: "AMvB"
@@ -50,15 +50,13 @@ Hebben goedgevonden en verstaan:
 
 ##### Artikel 1
 
-1. Onze Minister kan ten behoeve van cultuuruitingen als bedoeld in [artikel 4 van de Wet op het specifiek cultuurbeleid](https://wetten.overheid.nl/jci1.3:c:BWBR0005904&artikel=4) jaarlijkse instellingssubsidies en projectsubsidies verstrekken.
+1. Onze Minister kan ten behoeve van cultuuruitingen als bedoeld in [artikel 4 van de Wet op het specifiek cultuurbeleid](https://wetten.overheid.nl/jci1.3:c:BWBR0005904&artikel=4) projectsubsidies verstrekken.
 
-2. Een jaarlijkse instellingssubsidie is een subsidie aan een privaatrechtelijke rechtspersoon met volledige rechtsbevoegdheid of aan een publiekrechtelijke rechtspersoon gedurende een kalenderjaar voor het geheel of een gedeelte van de activiteiten van die rechtspersoon, waarbij het kalenderjaar gelijk is aan het boekjaar.
-
-3. Een projectsubsidie is een subsidie die anders dan per boekjaar wordt verstrekt.
+2. Een projectsubsidie is een subsidie die anders dan per boekjaar wordt verstrekt.
 
 ##### Artikel 2
 
-Een subsidie of een specifieke uitkering als bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0027600&hoofdstuk=2&artikel=5&z=2010-07-01&g=2010-07-01) ten laste van een begroting die nog niet is vastgesteld, wordt verleend onder de voorwaarde, bedoeld in [artikel 4:34, eerste lid, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:34).
+Een subsidie of een specifieke uitkering als bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0027600&hoofdstuk=2&artikel=5&z=2017-04-11&g=2017-04-11) ten laste van een begroting die nog niet is vastgesteld, wordt verleend onder de voorwaarde, bedoeld in [artikel 4:34, eerste lid, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:34).
 
 ##### Artikel 3
 
@@ -68,13 +66,13 @@ Een subsidie of een specifieke uitkering als bedoeld in [artikel 5](https://wett
 
 ##### Artikel 4
 
-Bij ministeriële regeling worden nadere regels gesteld met betrekking tot subsidieverstrekking als bedoeld in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0027600&hoofdstuk=1&artikel=1&z=2010-07-01&g=2010-07-01) van dit besluit en de [artikelen 4a](https://wetten.overheid.nl/jci1.3:c:BWBR0005904&artikel=4a), [4b](https://wetten.overheid.nl/jci1.3:c:BWBR0005904&artikel=4b) en [4c van de Wet op het specifiek cultuurbeleid](https://wetten.overheid.nl/jci1.3:c:BWBR0005904&artikel=4c).
+Bij ministeriële regeling worden nadere regels gesteld met betrekking tot subsidieverstrekking als bedoeld in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0027600&hoofdstuk=1&artikel=1&z=2017-04-11&g=2017-04-11) van dit besluit en de [artikelen 4a](https://wetten.overheid.nl/jci1.3:c:BWBR0005904&artikel=4a), [4b](https://wetten.overheid.nl/jci1.3:c:BWBR0005904&artikel=4b) en [4c van de Wet op het specifiek cultuurbeleid](https://wetten.overheid.nl/jci1.3:c:BWBR0005904&artikel=4c).
 
 ### Hoofdstuk 2. Specifieke uitkeringen aan provincies en gemeenten
 
 ##### Artikel 5
 
-Specifieke uitkeringen aan provincies en gemeenten ten behoeve van het door het desbetreffende openbaar lichaam te voeren cultuurbeleid worden door Onze Minister verstrekt met inachtneming van de [artikelen 6 tot en met 14](https://wetten.overheid.nl/jci1.3:c:BWBR0027600&hoofdstuk=2&artikel=6&z=2010-07-01&g=2010-07-01).
+Specifieke uitkeringen aan provincies en gemeenten ten behoeve van het door het desbetreffende openbaar lichaam te voeren cultuurbeleid worden door Onze Minister verstrekt met inachtneming van de [artikelen 6 tot en met 14](https://wetten.overheid.nl/jci1.3:c:BWBR0027600&hoofdstuk=2&artikel=6&z=2017-04-11&g=2017-04-11).
 
 ##### Artikel 6
 
@@ -144,7 +142,7 @@ Onze Minister kan, gelet op het belang dat dit besluit beoogt te beschermen, art
 
 ##### Artikel 15
 
-1. Na inwerkingtreding van dit besluit berusten de volgende regelingen op [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0027600&hoofdstuk=1&artikel=4&z=2010-07-01&g=2010-07-01) van dit besluit:
+1. Na inwerkingtreding van dit besluit berusten de volgende regelingen op [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0027600&hoofdstuk=1&artikel=4&z=2017-04-11&g=2017-04-11) van dit besluit:
 
 - a. [Subsidieregeling «Digitaliseren met beleid»](https://wetten.overheid.nl/jci1.3:c:BWBR0019643);
 
@@ -156,7 +154,7 @@ Onze Minister kan, gelet op het belang dat dit besluit beoogt te beschermen, art
 
 - e. [Subsidieregeling bibliotheekinnovatie](https://wetten.overheid.nl/jci1.3:c:BWBR0026156).
 
-2. Na inwerkingtreding van dit besluit berust de [Regeling uitkeringen cultuurbereik 2005–2008](https://wetten.overheid.nl/jci1.3:c:BWBR0018160) op de [artikelen 9, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0027600&hoofdstuk=2&artikel=9&z=2010-07-01&g=2010-07-01), en [10, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0027600&hoofdstuk=2&artikel=10&z=2010-07-01&g=2010-07-01), van dit besluit.
+2. Na inwerkingtreding van dit besluit berust de [Regeling uitkeringen cultuurbereik 2005–2008](https://wetten.overheid.nl/jci1.3:c:BWBR0018160) op de [artikelen 9, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0027600&hoofdstuk=2&artikel=9&z=2017-04-11&g=2017-04-11), en [10, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0027600&hoofdstuk=2&artikel=10&z=2017-04-11&g=2017-04-11), van dit besluit.
 
 ##### Artikel 16
 
