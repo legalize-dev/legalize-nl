@@ -4,7 +4,7 @@ identifier: "BWBR0039439"
 country: "nl"
 rank: "zbo"
 publication_date: "2017-04-11"
-last_updated: "2016-01-01"
+last_updated: "2017-04-11"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0039439"
 soort: "zbo"
@@ -170,7 +170,7 @@ Op de betrouwbaarheid van deze gegevens hoeft de Wlz-uitvoerder zelf geen contro
 
 ### 3.2.4. Wet- en- regelgeving
 
-De accountant13In opdracht van of onder verantwoordelijkheid van de Wlz-uitvoerder. hanteert de begripsomschrijvingen uit de [regeling Uitvoeringsverslag en Financieel verslag](https://wetten.overheid.nl/jci1.3:c:BWBR0038964) als uitgangspunt voor het financiële rechtmatigheidsonderzoek dat hij uitvoert. [Bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0039439&bijlage=1&z=2017-04-11&g=2016-01-01). ‘Lijst met circulaires en wet- en regelgeving [Wlz](https://wetten.overheid.nl/jci1.3:c:BWBR0035917)’ en [Bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0039439&bijlage=2&z=2017-04-11&g=2016-01-01). ‘Lijst met circulaires en wet- en regelgeving [AWBZ](https://wetten.overheid.nl/jci1.3:c:BWBR0002614)’ geven een limitatieve opsomming van het normenkader voor de rechtmatigheidscontrole door de accountant.
+De accountant13In opdracht van of onder verantwoordelijkheid van de Wlz-uitvoerder. hanteert de begripsomschrijvingen uit de [regeling Uitvoeringsverslag en Financieel verslag](https://wetten.overheid.nl/jci1.3:c:BWBR0038964) als uitgangspunt voor het financiële rechtmatigheidsonderzoek dat hij uitvoert. [Bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0039439&bijlage=1&z=2017-04-11&g=2017-04-11). ‘Lijst met circulaires en wet- en regelgeving [Wlz](https://wetten.overheid.nl/jci1.3:c:BWBR0035917)’ en [Bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0039439&bijlage=2&z=2017-04-11&g=2017-04-11). ‘Lijst met circulaires en wet- en regelgeving [AWBZ](https://wetten.overheid.nl/jci1.3:c:BWBR0002614)’ geven een limitatieve opsomming van het normenkader voor de rechtmatigheidscontrole door de accountant.
 
 ### 3.2.5. Fouten
 
@@ -268,17 +268,17 @@ De hieronder genoemde verdere toelichting heeft betrekking op het onderzoek naar
 
 Dit neemt niet weg dat de accountant zijn verantwoordelijkheid neemt om de controle volgens de daarvoor geldende beroepsregels uit te voeren.
 
-De van toepassing zijnde wet- en regelgeving is opgenomen in [Bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0039439&bijlage=1&z=2017-04-11&g=2016-01-01) (Lijst met circulaires en wet- en regelgeving [Wlz](https://wetten.overheid.nl/jci1.3:c:BWBR0035917)) en [Bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0039439&bijlage=2&z=2017-04-11&g=2016-01-01) (Lijst met circulaires en wet- en regelgeving [AWBZ](https://wetten.overheid.nl/jci1.3:c:BWBR0002614)).
+De van toepassing zijnde wet- en regelgeving is opgenomen in [Bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0039439&bijlage=1&z=2017-04-11&g=2017-04-11) (Lijst met circulaires en wet- en regelgeving [Wlz](https://wetten.overheid.nl/jci1.3:c:BWBR0035917)) en [Bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0039439&bijlage=2&z=2017-04-11&g=2017-04-11) (Lijst met circulaires en wet- en regelgeving [AWBZ](https://wetten.overheid.nl/jci1.3:c:BWBR0002614)).
 
 De accountant rapporteert zijn bevindingen in het accountantsrapport.
 
 ### 4.1. Juiste en volledige afhandeling declaraties Zorg in Natura (ZIN) en persoonsgebonden budget (pgb) De problemen in de uitvoering van het pgb door de SVB in 2015 en 2016 kan gevolgen hebben voor de uitvoering van de accountantscontrole. De NZa zal hierover nader in overleg treden met de Wlz-uitvoerders en hun accountants
 
-De accountant stelt vast dat de declaraties juist, volledig en rechtmatig zijn verantwoord door de Wlz-uitvoerder, conform de van toepassing zijnde wet- en regelgeving zoals opgenomen in [Bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0039439&bijlage=1&z=2017-04-11&g=2016-01-01) (Lijst met circulaires en wet- en regelgeving [Wlz](https://wetten.overheid.nl/jci1.3:c:BWBR0035917)) en [Bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0039439&bijlage=2&z=2017-04-11&g=2016-01-01) (Lijst met circulaires en wet- en regelgeving [AWBZ](https://wetten.overheid.nl/jci1.3:c:BWBR0002614)).
+De accountant stelt vast dat de declaraties juist, volledig en rechtmatig zijn verantwoord door de Wlz-uitvoerder, conform de van toepassing zijnde wet- en regelgeving zoals opgenomen in [Bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0039439&bijlage=1&z=2017-04-11&g=2017-04-11) (Lijst met circulaires en wet- en regelgeving [Wlz](https://wetten.overheid.nl/jci1.3:c:BWBR0035917)) en [Bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0039439&bijlage=2&z=2017-04-11&g=2017-04-11) (Lijst met circulaires en wet- en regelgeving [AWBZ](https://wetten.overheid.nl/jci1.3:c:BWBR0002614)).
 
 De accountant stelt vast of de Wlz-uitvoerder beschikt over een adequate cliëntvolgende bedrijfsadministratie, waarin een verband kan worden gelegd tussen de geldige indicatiebesluiten van de Wlz-verzekerden, de in opdracht van Wlz-uitvoerders geleverde zorg en de betalingen aan zorgaanbieders die deze zorg geleverd hebben.
 
-De accountant onderzoekt of de Wlz-uitvoerder formele en materiële controles uitvoert met inachtneming van de geldende wet- en regelgeving ([Bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0039439&bijlage=1&z=2017-04-11&g=2016-01-01): Lijst met circulaires en wet- en regelgeving [Wlz](https://wetten.overheid.nl/jci1.3:c:BWBR0035917) en [Bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0039439&bijlage=2&z=2017-04-11&g=2016-01-01): Lijst met circulaires en wet- en regelgeving [AWBZ](https://wetten.overheid.nl/jci1.3:c:BWBR0002614)).
+De accountant onderzoekt of de Wlz-uitvoerder formele en materiële controles uitvoert met inachtneming van de geldende wet- en regelgeving ([Bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0039439&bijlage=1&z=2017-04-11&g=2017-04-11): Lijst met circulaires en wet- en regelgeving [Wlz](https://wetten.overheid.nl/jci1.3:c:BWBR0035917) en [Bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0039439&bijlage=2&z=2017-04-11&g=2017-04-11): Lijst met circulaires en wet- en regelgeving [AWBZ](https://wetten.overheid.nl/jci1.3:c:BWBR0002614)).
 
 De normenkaders op het gebied van formele controle, materiële controles en fraudeonderzoek door de Wlz-uitvoerder zijn opgenomen in de Regeling Controle en Administratie Wlz-uitvoerders. Deze regeling stelt voorwaarden en voorschriften voor de uitvoering van
 
@@ -330,7 +330,7 @@ Van de Wlz-uitvoerders en de niet als zorgkantoor aangewezen Wlz-uitvoerders wor
 
 ### 4.3.3. Voorwaardelijke beheerskostenbudgetten
 
-Vanaf het verantwoordingsjaar 2014 zijn er diverse voorwaardelijke budgetten voor beheerskosten beschikbaar gesteld aan de Wlz-uitvoerders. Over deze budgetten dienen de Wlz-uitvoerders zich te verantwoorden in het financieel verslag. Voor de verantwoording van de voorwaardelijke beheerskostenbudgetten zijn de opgenomen passages van paragraaf 4.3.2 van toepassing. Daarnaast zijn er specifieke voorwaarden opgenomen in de beleidsregels van Zorginstituut Nederland (zoals opgenomen in [bijlagen 1](https://wetten.overheid.nl/jci1.3:c:BWBR0039439&bijlage=1&z=2017-04-11&g=2016-01-01) en [2](https://wetten.overheid.nl/jci1.3:c:BWBR0039439&bijlage=2&z=2017-04-11&g=2016-01-01)).
+Vanaf het verantwoordingsjaar 2014 zijn er diverse voorwaardelijke budgetten voor beheerskosten beschikbaar gesteld aan de Wlz-uitvoerders. Over deze budgetten dienen de Wlz-uitvoerders zich te verantwoorden in het financieel verslag. Voor de verantwoording van de voorwaardelijke beheerskostenbudgetten zijn de opgenomen passages van paragraaf 4.3.2 van toepassing. Daarnaast zijn er specifieke voorwaarden opgenomen in de beleidsregels van Zorginstituut Nederland (zoals opgenomen in [bijlagen 1](https://wetten.overheid.nl/jci1.3:c:BWBR0039439&bijlage=1&z=2017-04-11&g=2017-04-11) en [2](https://wetten.overheid.nl/jci1.3:c:BWBR0039439&bijlage=2&z=2017-04-11&g=2017-04-11)).
 
 De accountant stelt vast dat de Wlz-uitvoerder in het financieel verslag
 
@@ -362,7 +362,7 @@ De accountant stelt vast dat het opgenomen ontvangsten en uitgaven
 
 buitenlandzorg in de financiële verantwoording juist is.
 
-De accountant stelt vast dat de Wlz-uitvoerder bij de vergoeding van kosten bij wonen en tijdelijk verblijf in het buitenland de geldende wet- en regelgeving in acht heeft genomen ([Bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0039439&bijlage=1&z=2017-04-11&g=2016-01-01): Lijst met circulaires en wet- en regelgeving [Wlz](https://wetten.overheid.nl/jci1.3:c:BWBR0035917) en [Bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0039439&bijlage=2&z=2017-04-11&g=2016-01-01): Lijst met circulaires en wet- en regelgeving [AWBZ](https://wetten.overheid.nl/jci1.3:c:BWBR0002614)).
+De accountant stelt vast dat de Wlz-uitvoerder bij de vergoeding van kosten bij wonen en tijdelijk verblijf in het buitenland de geldende wet- en regelgeving in acht heeft genomen ([Bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0039439&bijlage=1&z=2017-04-11&g=2017-04-11): Lijst met circulaires en wet- en regelgeving [Wlz](https://wetten.overheid.nl/jci1.3:c:BWBR0035917) en [Bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0039439&bijlage=2&z=2017-04-11&g=2017-04-11): Lijst met circulaires en wet- en regelgeving [AWBZ](https://wetten.overheid.nl/jci1.3:c:BWBR0002614)).
 
 ### 5. Werkzaamheden voor overige twee onderzoeken (non-assurance)
 
@@ -384,7 +384,7 @@ De accountant geeft de bevindingen van zijn onderzoek weer in een rapport van fe
 
 ### 6.1. Controleverklaring
 
-De accountant geeft een controleverklaring af bij het financieel verslag. In [Bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0039439&bijlage=3&z=2017-04-11&g=2016-01-01) (Modeltekst controleverklaring) is het model opgenomen zoals deze door de NBA is vastgesteld. De strekking van het oordeel kan behalve goedkeurend ook met beperking, metoordeelonthouding of afkeurend zijn.
+De accountant geeft een controleverklaring af bij het financieel verslag. In [Bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0039439&bijlage=3&z=2017-04-11&g=2017-04-11) (Modeltekst controleverklaring) is het model opgenomen zoals deze door de NBA is vastgesteld. De strekking van het oordeel kan behalve goedkeurend ook met beperking, metoordeelonthouding of afkeurend zijn.
 
 ### 6.2. Accountantsrapport
 
@@ -414,7 +414,7 @@ De bevindingen uit het onderzoek naar processen ter voorkoming en het aanpakken 
 
 De accountant kan gebruik maken van de modeltekst in
 
-[Bijlage 4](https://wetten.overheid.nl/jci1.3:c:BWBR0039439&bijlage=4&z=2017-04-11&g=2016-01-01): Modeltekst rapport van feitelijke bevindingen.
+[Bijlage 4](https://wetten.overheid.nl/jci1.3:c:BWBR0039439&bijlage=4&z=2017-04-11&g=2017-04-11): Modeltekst rapport van feitelijke bevindingen.
 
 ## Bijlage 1. Lijst met circulaires en wet- en regelgeving [Wlz](https://wetten.overheid.nl/jci1.3:c:BWBR0035917)
 
