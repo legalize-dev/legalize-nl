@@ -4,7 +4,7 @@ identifier: "BWBR0036860"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2017-04-12"
-last_updated: "2015-07-18"
+last_updated: "2017-04-12"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0036860"
 soort: "ministeriele-regeling"
@@ -50,11 +50,13 @@ Besluit:
 
 ##### Artikel 1
 
-In dit besluit wordt verstaan onder buitengewoon opsporingsambtenaar: de persoon als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0036860&artikel=2&z=2015-07-18&g=2015-07-18).
+In dit besluit wordt verstaan onder buitengewoon opsporingsambtenaar: de persoon als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0036860&artikel=2&z=2017-04-12&g=2017-04-12).
 
 ##### Artikel 2
 
-De personen, werkzaam in de functie van handhaver openbare ruimte/parkeercontroleur in dienst van het Werkbedrijf Lelystad B.V., zijn aangewezen als buitengewoon opsporingsambtenaar.
+Besluit van de Staatssecretaris van Veiligheid en Justitie van 3 juli 2015, nr. BOACAT2015/024, strekkende tot aanwijzing van buitengewoon opsporingsambtenaren bij Toezicht en Handhaving Lelystad B.V.
+
+De personen, werkzaam in de functie van toezichthouder openbare ruimte/parkeercontroleur in dienst van Toezicht en Handhaving Lelystad B.V., zijn aangewezen als buitengewoon opsporingsambtenaar.
 
 ##### Artikel 3
 
@@ -76,21 +78,19 @@ Op grond van dit besluit kunnen maximaal 20 personen als buitengewoon opsporings
 
 ##### Artikel 6
 
-1. De directeur van het Werkbedrijf Lelystad B.V. brengt jaarlijks, voor 1 april, verslag uit over:
+1. De directeur van Toezicht en Handhaving Lelystad B.V. brengt jaarlijks, voor 1 april, verslag uit over:
 
-- a. het aantal buitengewoon opsporingsambtenaren werkzaam in de in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0036860&artikel=2&z=2015-07-18&g=2015-07-18) genoemde functie;
+- a. het aantal buitengewoon opsporingsambtenaren werkzaam in de in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0036860&artikel=2&z=2017-04-12&g=2017-04-12) genoemde functie;
 
 - b. de door die buitengewoon opsporingsambtenaren verrichte activiteiten;
 
 - c. de stand van zaken met betrekking tot de opleiding van die buitengewoon opsporingsambtenaren, waarbij in ieder geval wordt aangegeven hoeveel personen in het verslagjaar zijn aangemeld voor het door de Staatssecretaris van Veiligheid en Justitie goedgekeurde examen en hoeveel personen in dat jaar voor dat examen zijn geslaagd.
 
-2. Dit verslag wordt toegezonden aan de in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0036860&artikel=5&z=2015-07-18&g=2015-07-18) bedoelde toezichthouder en direct toezichthouder en aan het Ministerie van Veiligheid en Justitie, dienst Justis, afdeling V&T, postbus 20300, 2500 EH Den Haag.
+2. Dit verslag wordt toegezonden aan de in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0036860&artikel=5&z=2017-04-12&g=2017-04-12) bedoelde toezichthouder en direct toezichthouder en aan het Ministerie van Veiligheid en Justitie, dienst Justis, afdeling V&T, postbus 20300, 2500 EH Den Haag.
 
 ##### Artikel 7
 
-De individuele akten van opsporingsbevoegdheid en beëdiging en de overige benoemingsbescheiden van de buitengewoon opsporingsambtenaren in dienst van het Werkbedrijf Lelystad B.V. in de functie van handhaver openbare ruimte/parkeercontroleur, worden voor de duur van hun geldigheid of tot daarover nader zal zijn beslist, geacht te zijn afgegeven mede op basis van het onderhavige besluit.
-
-Dit artikel brengt geen wijziging in de resterende looptijd van de afgegeven aktes.
+De individuele akten van opsporingsbevoegdheid en beëdiging en de overige benoemingsbescheiden van de buitengewoon opsporingsambtenaren in dienst van Toezicht en Handhaving Lelystad B.V. in de functie van toezichthouder openbare ruimte/parkeercontroleur, worden voor de duur van hun geldigheid of tot daarover nader zal zijn beslist, geacht te zijn afgegeven mede op basis van het onderhavige besluit.
 
 ##### Artikel 8
 
@@ -98,6 +98,6 @@ Dit besluit treedt in werking met ingang van de dag na dagtekening van de Staats
 
 ##### Artikel 9
 
-Dit besluit wordt aangehaald als: Besluit buitengewoon opsporingsambtenaar Werkbedrijf Lelystad B.V. 2015.
+Dit besluit wordt aangehaald als: Besluit buitengewoon opsporingsambtenaar Toezicht en Handhaving Lelystad B.V. 2015
 
 Dit besluit zal met de toelichting in de Staatscourant worden geplaatst.
