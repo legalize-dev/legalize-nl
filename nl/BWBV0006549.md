@@ -4,7 +4,7 @@ identifier: "BWBV0006549"
 country: "nl"
 rank: "verdrag"
 publication_date: "2017-04-12"
-last_updated: "2015-10-05"
+last_updated: "2017-04-12"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBV0006549"
 soort: "verdrag"
@@ -160,7 +160,7 @@ The ICMP may purchase, receive, convert and hold any kind of funds, currency, ca
 
 ##### Article 11. Funds, assets, and other property
 
-1. The funds, assets and other property of the ICMP, wherever located and by whomsoever held, shall enjoy immunity from every form of legal process in the host State.
+1. The ICMP, its funds, assets and other property, wherever located and by whomsoever held, shall enjoy immunity from every form of legal process in the host State.
 
 2. Funds, assets and other property of the ICMP, wherever located and by whomsoever held, shall, in the host State, be immune from search, seizure, requisition, confiscation, expropriation and any other form of interference, whether by executive, administrative, judicial or legislative action.
 
@@ -346,7 +346,7 @@ Personnel recruited locally and assigned to hourly rates by ICMP and not otherwi
 
 ##### Article 20. Exceptions to immunities
 
-The immunity granted to persons mentioned in [Article 15, paragraph 1](https://wetten.overheid.nl/jci1.3:c:BWBV0006549&artikel=15&z=2015-10-05&g=2015-10-05); [Article 16, paragraphs 1 to 3 and paragraph 6](https://wetten.overheid.nl/jci1.3:c:BWBV0006549&artikel=16&z=2015-10-05&g=2015-10-05); [Article 17](https://wetten.overheid.nl/jci1.3:c:BWBV0006549&artikel=17&z=2015-10-05&g=2015-10-05); [Article 18, paragraph 4](https://wetten.overheid.nl/jci1.3:c:BWBV0006549&artikel=18&z=2015-10-05&g=2015-10-05); and [Article 19](https://wetten.overheid.nl/jci1.3:c:BWBV0006549&artikel=19&z=2015-10-05&g=2015-10-05), shall not extend to any civil action by a third party for damages, including personal injury or death, arising from a traffic accident caused by any such person.
+The immunity granted to persons mentioned in [Article 15, paragraph 1](https://wetten.overheid.nl/jci1.3:c:BWBV0006549&artikel=15&z=2017-04-12&g=2017-04-12); [Article 16, paragraphs 1 to 3 and paragraph 6](https://wetten.overheid.nl/jci1.3:c:BWBV0006549&artikel=16&z=2017-04-12&g=2017-04-12); [Article 17](https://wetten.overheid.nl/jci1.3:c:BWBV0006549&artikel=17&z=2017-04-12&g=2017-04-12); [Article 18, paragraph 4](https://wetten.overheid.nl/jci1.3:c:BWBV0006549&artikel=18&z=2017-04-12&g=2017-04-12); and [Article 19](https://wetten.overheid.nl/jci1.3:c:BWBV0006549&artikel=19&z=2017-04-12&g=2017-04-12), shall not extend to any civil action by a third party for damages, including personal injury or death, arising from a traffic accident caused by any such person.
 
 ##### Article 21. Protection of personnel
 
@@ -366,7 +366,7 @@ The host State shall, if so requested by the Director-General, take all reasonab
 
 - e). the appointment of interns;
 
-- f). the hiring of personnel recruited locally in accordance with [Article 19](https://wetten.overheid.nl/jci1.3:c:BWBV0006549&artikel=19&z=2015-10-05&g=2015-10-05) of this Agreement;
+- f). the hiring of personnel recruited locally in accordance with [Article 19](https://wetten.overheid.nl/jci1.3:c:BWBV0006549&artikel=19&z=2017-04-12&g=2017-04-12) of this Agreement;
 
 - g). the arrival and final departure date of private servants of persons referred to in subparagraph 1(b) of this Article and, where appropriate, the fact that they are leaving the employ of such persons.
 
@@ -376,11 +376,11 @@ The host State shall, if so requested by the Director-General, take all reasonab
 
 - b). the official’s family members forming part of the household who are not nationals of the host State. The children of European Union nationals in the age group up to and including fourteen (14) years have to be registered with the host State, but are excluded from receiving the identification card;
 
-- c). experts, provided that the Ministry of Foreign Affairs has been supplied with the document referred to under [Article 17(2)](https://wetten.overheid.nl/jci1.3:c:BWBV0006549&artikel=17&z=2015-10-05&g=2015-10-05) of this Agreement;
+- c). experts, provided that the Ministry of Foreign Affairs has been supplied with the document referred to under [Article 17(2)](https://wetten.overheid.nl/jci1.3:c:BWBV0006549&artikel=17&z=2017-04-12&g=2017-04-12) of this Agreement;
 
-- d). interns, provided that they have been registered in accordance with [Article 18(1)](https://wetten.overheid.nl/jci1.3:c:BWBV0006549&artikel=18&z=2015-10-05&g=2015-10-05) of this Agreement;
+- d). interns, provided that they have been registered in accordance with [Article 18(1)](https://wetten.overheid.nl/jci1.3:c:BWBV0006549&artikel=18&z=2017-04-12&g=2017-04-12) of this Agreement;
 
-- e). personnel recruited locally in accordance with [Article 19](https://wetten.overheid.nl/jci1.3:c:BWBV0006549&artikel=19&z=2015-10-05&g=2015-10-05) of this Agreement;
+- e). personnel recruited locally in accordance with [Article 19](https://wetten.overheid.nl/jci1.3:c:BWBV0006549&artikel=19&z=2017-04-12&g=2017-04-12) of this Agreement;
 
 - f). private servants.
 
@@ -388,7 +388,7 @@ The host State shall, if so requested by the Director-General, take all reasonab
 
 ##### Article 23. Social security
 
-To the extent that the social security system of the ICMP offers coverage comparable to the coverage under the legislation of the host State, the ICMP and its officials to whom the aforementioned scheme applies shall be exempt from social security provisions of the host State. Consequently, they shall not be covered against the risks described in the social security provisions of the host State. This exemption applies to them, unless they take up gainful activity in the host State.
+The social security system of the ICMP offers coverage comparable to the coverage under the legislation of the host State. Accordingly, the ICMP and its officials as well as family members forming part of their household to whom the aforementioned scheme applies shall be exempt from social security provisions of the host State. Consequently, they shall not be covered against the risks described in the social security provisions of the host State. This exemption applies to them, unless they take up gainful activity in the host State.
 
 ##### Article 24. Employment of family members of officials of ICMP
 
@@ -396,15 +396,15 @@ To the extent that the social security system of the ICMP offers coverage compar
 
 2. Members of the family forming part of the household of an official of ICMP who obtain gainful employment shall enjoy, under this Agreement, no immunity from criminal, civil or administrative jurisdiction with respect to matters arising in the course of or in connection with such employment. However, any measures of execution shall be taken without infringing the inviolability of their person or of their residence, if they are entitled to such inviolability.
 
-3. In case of the insolvency of a person aged under eighteen (18) with respect to a claim arising out of gainful employment of that person, the immunity of the official of whose family the person concerned is a member shall be waived for the purpose of settlement of the claim, in accordance with the provisions of [Article 25](https://wetten.overheid.nl/jci1.3:c:BWBV0006549&artikel=25&z=2015-10-05&g=2015-10-05) of this Agreement.
+3. In case of the insolvency of a person aged under eighteen (18) with respect to a claim arising out of gainful employment of that person, the immunity of the official of whose family the person concerned is a member shall be waived for the purpose of settlement of the claim, in accordance with the provisions of [Article 25](https://wetten.overheid.nl/jci1.3:c:BWBV0006549&artikel=25&z=2017-04-12&g=2017-04-12) of this Agreement.
 
 4. The employment referred to in paragraph 1 of this Article shall be in accordance with the legislation of the host State, including fiscal and social security legislation.
 
 ##### Article 25. Waiver of immunities
 
-1. The privileges, immunities and facilities provided for in [Articles 15](https://wetten.overheid.nl/jci1.3:c:BWBV0006549&artikel=15&z=2015-10-05&g=2015-10-05), [16](https://wetten.overheid.nl/jci1.3:c:BWBV0006549&artikel=16&z=2015-10-05&g=2015-10-05), [17](https://wetten.overheid.nl/jci1.3:c:BWBV0006549&artikel=17&z=2015-10-05&g=2015-10-05), [18](https://wetten.overheid.nl/jci1.3:c:BWBV0006549&artikel=18&z=2015-10-05&g=2015-10-05) and [19](https://wetten.overheid.nl/jci1.3:c:BWBV0006549&artikel=19&z=2015-10-05&g=2015-10-05) of this Agreement are granted in the interests of the ICMP and not for the personal benefit of the persons themselves. The Director-General shall have the right and the duty to waive the immunity of any person mentioned in Articles 16, 17, 18 and 19 in any case where, in his or her opinion, the immunity would impede the cause of justice and can be waived without prejudice to the ICMP. The Board of Commissioners shall have the right to waive the immunity of the Director-General.
+1. The privileges, immunities and facilities provided for in [Articles 15](https://wetten.overheid.nl/jci1.3:c:BWBV0006549&artikel=15&z=2017-04-12&g=2017-04-12), [16](https://wetten.overheid.nl/jci1.3:c:BWBV0006549&artikel=16&z=2017-04-12&g=2017-04-12), [17](https://wetten.overheid.nl/jci1.3:c:BWBV0006549&artikel=17&z=2017-04-12&g=2017-04-12), [18](https://wetten.overheid.nl/jci1.3:c:BWBV0006549&artikel=18&z=2017-04-12&g=2017-04-12) and [19](https://wetten.overheid.nl/jci1.3:c:BWBV0006549&artikel=19&z=2017-04-12&g=2017-04-12) of this Agreement are granted in the interests of the ICMP and not for the personal benefit of the persons themselves. The Director-General shall have the right and the duty to waive the immunity of any person mentioned in Articles 16, 17, 18 and 19 in any case where, in his or her opinion, the immunity would impede the cause of justice and can be waived without prejudice to the ICMP. The Board of Commissioners shall have the right to waive the immunity of the Director-General.
 
-2. The waiver of privileges, immunities and facilities of members of the Board of Commissioners provided for in [Article 15(1)](https://wetten.overheid.nl/jci1.3:c:BWBV0006549&artikel=15&z=2015-10-05&g=2015-10-05) of this Agreement, shall be regulated in the Rules of Procedure of the Conference of State Parties.
+2. The waiver of privileges, immunities and facilities of members of the Board of Commissioners provided for in [Article 15(1)](https://wetten.overheid.nl/jci1.3:c:BWBV0006549&artikel=15&z=2017-04-12&g=2017-04-12) of this Agreement, shall be regulated in the Rules of Procedure of the Conference of State Parties.
 
 3. Consistent with its privileges and immunities, the ICMP shall cooperate at all times with the appropriate authorities of the host State to facilitate the proper administration of justice and shall not abuse any of the privileges and immunities granted to it under this Agreement.
 
