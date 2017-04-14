@@ -4,7 +4,7 @@ identifier: "BWBR0039145"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2022-07-01"
-last_updated: "2017-03-02"
+last_updated: "2017-04-14"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0039145"
 soort: "ministeriele-regeling"
@@ -65,7 +65,7 @@ In deze regeling wordt verstaan onder:
 
 - **valschermspringgebied:** kolom luchtruimte met een straal van 3,7 km (2 nautische mijlen) rond het middelpunt van het doelgebied, of zoveel groter als noodzakelijk teneinde zeker te stellen dat de rand van het gebied ten minste 3,7 km (2 nautische mijlen) van het afspringpunt, het doelgebied en de hartlijn tussen deze twee punten ligt, en een hoogte die ten minste gelijk is aan de voorgenomen springhoogte;
 
-- **vast valschermspringgebied:** valschermspringgebied als vastgesteld in [artikel 4 van de Regeling beperking of verbod uitoefening burgerluchtverkeer in bepaalde gebieden 2014](https://wetten.overheid.nl/jci1.3:c:BWBR0034883&artikel=4).
+- **vast valschermspringgebied:** valschermspringgebied als vastgesteld in [artikel 2, derde lid, onderdeel p, van de Regeling beperking of verbod uitoefening burgerluchtverkeer in bepaalde gebieden 2017](onbekend).
 
 ##### Artikel 2
 
@@ -79,7 +79,7 @@ Het valscherm verleent voorrang aan vliegtuigen, helikopters, luchtschepen, zwee
 
 ##### Artikel 4
 
-Voor het uitvoeren van vluchten ten behoeve van valschermspringen wordt voor militair luchtverkeer dat wordt aangemerkt als OAT, vrijstelling verleend van paragraaf SERA.6001, onderdeel a, van de bijlage bij Verordening (EU) nr. 923/2012 van de Commissie van 26 september 2012 tot vaststelling van gemeenschappelijke luchtverkeersregels en operationele bepalingen betreffende luchtvaartnavigatiediensten en -procedures en tot wijziging van Uitvoeringsverordening (EU) nr. 1035/2011 en [Verordeningen (EG) nr. 1265/2007](onbekend), [(EG) 1794/2006](onbekend), [(EG) nr. 730/2006](onbekend), [(EG) nr. 1033/2006](onbekend) en (EU) [nr. 255/2010](onbekend) (PbEU 2012, L 281).
+Voor het uitvoeren van vluchten ten behoeve van valschermspringen wordt voor militair luchtverkeer dat wordt aangemerkt als OAT, vrijstelling verleend van paragraaf SERA.6001, onderdeel a, van de bijlage bij Verordening (EU) nr. 923/2012 van de Commissie van 26 september 2012 tot vaststelling van gemeenschappelijke luchtverkeersregels en operationele bepalingen betreffende luchtvaartnavigatiediensten en -procedures en tot wijziging van Uitvoeringsverordening (EU) nr. 1035/2011 en [Verordeningen (EG) nr. 1265/2007](32007R1265), [(EG) 1794/2006](32006R1794), [(EG) nr. 730/2006](32006R0730), [(EG) nr. 1033/2006](32006R1033) en (EU) [nr. 255/2010](32010R0255) (PbEU 2012, L 281).
 
 ##### Artikel 5
 
@@ -95,19 +95,19 @@ Voor het gebruik van een vast valschermspringgebied of een incidenteel valscherm
 
 1. Valschermspringen is uitsluitend toegestaan:
 
-- a. binnen een vast valschermspringgebied, dan wel in een incidenteel valschermspringgebied onder de voorwaarden, genoemd in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0039145&artikel=7&z=2017-04-14&g=2017-03-02);
+- a. binnen een vast valschermspringgebied, dan wel in een incidenteel valschermspringgebied onder de voorwaarden, genoemd in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0039145&artikel=7&z=2017-04-14&g=2017-04-14);
 
 - b. na toestemming van de gezagvoerder van het luchtvaartuig waaruit wordt gesprongen;
 
-- c. binnen de daglichtperiode, zoals gepubliceerd in de in [artikel 26, eerste lid, onderdeel a, onder 1°, van het Besluit luchtverkeer 2014](https://wetten.overheid.nl/jci1.3:c:BWBR0035899&artikel=26) bedoelde luchtvaartgids, dan wel buiten de daglichtperiode onder de voorwaarden, genoemd in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0039145&artikel=8&z=2017-04-14&g=2017-03-02);
+- c. binnen de daglichtperiode, zoals gepubliceerd in de in [artikel 26, eerste lid, onderdeel a, onder 1°, van het Besluit luchtverkeer 2014](https://wetten.overheid.nl/jci1.3:c:BWBR0035899&artikel=26) bedoelde luchtvaartgids, dan wel buiten de daglichtperiode onder de voorwaarden, genoemd in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0039145&artikel=8&z=2017-04-14&g=2017-04-14);
 
-- d. onder zichtweersomstandigheden, dan wel onder instrumentweersomstandigheden onder de voorwaarden, genoemd in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0039145&artikel=8&z=2017-04-14&g=2017-03-02).
+- d. onder zichtweersomstandigheden, dan wel onder instrumentweersomstandigheden onder de voorwaarden, genoemd in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0039145&artikel=8&z=2017-04-14&g=2017-04-14).
 
-2. Voor HAHO- en HALO-valschermsprongen gelden onverkort de voorwaarden, genoemd in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0039145&artikel=8&z=2017-04-14&g=2017-03-02).
+2. Voor HAHO- en HALO-valschermsprongen gelden onverkort de voorwaarden, genoemd in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0039145&artikel=8&z=2017-04-14&g=2017-04-14).
 
 ##### Artikel 7
 
-In aanvulling op [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0039145&artikel=6&z=2017-04-14&g=2017-03-02) gelden voor het gebruik van een incidenteel valschermspringgebied de volgende voorwaarden:
+In aanvulling op [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0039145&artikel=6&z=2017-04-14&g=2017-04-14) gelden voor het gebruik van een incidenteel valschermspringgebied de volgende voorwaarden:
 
 - a. het valschermspringgebied is tijdig afgestemd met de betrokken luchtverkeersleidingsdienst; wanneer verschillende luchtverkeersleidingsdiensten zijn betrokken, wordt de aanvraag ingediend bij de dienst die luchtverkeersleiding geeft in het gebied met de laagste verticale begrenzing, inclusief luchtruimklasse E; deze dienst stemt de beoordeling af met de andere betrokken luchtverkeersleidingsdiensten;
 
@@ -127,7 +127,7 @@ In aanvulling op [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0039145&art
 
 ##### Artikel 8
 
-In aanvulling op [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0039145&artikel=6&z=2017-04-14&g=2017-03-02) gelden voor valschermsprongen die niet binnen de daglichtperiode of onder zichtweersomstandigheden worden uitgevoerd, de volgende voorwaarden:
+In aanvulling op [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0039145&artikel=6&z=2017-04-14&g=2017-04-14) gelden voor valschermsprongen die niet binnen de daglichtperiode of onder zichtweersomstandigheden worden uitgevoerd, de volgende voorwaarden:
 
 - a. de delen van het valschermspringgebied die zijn gelegen in luchtruimklasse E, F of G, zijn door de instelling van een tijdelijk gebied met beperkingen of anderszins gesloten voor overig luchtverkeer;
 
