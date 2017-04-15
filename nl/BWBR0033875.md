@@ -4,7 +4,7 @@ identifier: "BWBR0033875"
 country: "nl"
 rank: "ministeriele_regeling_bes"
 publication_date: "2017-04-15"
-last_updated: "2013-09-20"
+last_updated: "2017-04-15"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0033875"
 soort: "ministeriele-regeling-BES"
@@ -91,15 +91,15 @@ De minister verstrekt een bijzondere uitkering natuur aan de openbare lichamen t
 
 2. Aanvragen kunnen worden ingediend tot en met 1 september 2016.
 
-3. Een aanvraag gaat vergezeld van een projectplan, waarin ten minste is opgenomen een beschrijving van het project, informatie waaruit blijkt in hoeverre het project bijdraagt aan de doelstellingen, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0033875&artikel=2&z=2013-09-20&g=2013-09-20), een sluitende begroting voor het project en de verwachte realisatietermijn, met een beschrijving van het tijdpad en mijlpalen indien die termijn langer dan een jaar is.
+3. Een aanvraag gaat vergezeld van een projectplan, waarin ten minste is opgenomen een beschrijving van het project, informatie waaruit blijkt in hoeverre het project bijdraagt aan de doelstellingen, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0033875&artikel=2&z=2017-04-15&g=2017-04-15), een sluitende begroting voor het project en de verwachte realisatietermijn, met een beschrijving van het tijdpad en mijlpalen indien die termijn langer dan een jaar is.
 
 ##### Artikel 6. Beslissing op projectvoorstellen
 
 De minister, gehoord de adviescommissie bijzondere uitkering natuur, besluit om middelen van de bijzondere uitkering natuur voor een project te verlenen, indien is voldaan aan elk van de volgende criteria:
 
-- a. het project draagt bij aan een van de doelstellingen, genoemd in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0033875&artikel=2&z=2013-09-20&g=2013-09-20);
+- a. het project draagt bij aan een van de doelstellingen, genoemd in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0033875&artikel=2&z=2017-04-15&g=2017-04-15);
 
-- b. het project kan naar het oordeel van de minister voor of op 1 oktober 2017 gerealiseerd zijn;
+- b. het project kan naar het oordeel van de minister voor of op 1 oktober 2019 gerealiseerd zijn;
 
 - c. het project is naar het oordeel van de minister:
 
@@ -107,9 +107,9 @@ De minister, gehoord de adviescommissie bijzondere uitkering natuur, besluit om 
 
 - –. praktisch uitvoerbaar, en;
 
-- –. redelijkerwijs uitvoerbaar gezien de middelen en de kosten die in het projectplan, bedoeld in [artikel 5, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0033875&artikel=5&z=2013-09-20&g=2013-09-20), zijn begroot, en
+- –. redelijkerwijs uitvoerbaar gezien de middelen en de kosten die in het projectplan, bedoeld in [artikel 5, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0033875&artikel=5&z=2017-04-15&g=2017-04-15), zijn begroot, en
 
-- d. de maximale bedragen, genoemd in [artikel 3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0033875&artikel=3&z=2013-09-20&g=2013-09-20), worden niet overschreden als gevolg van het verlenen van de middelen van de bijzondere uitkering natuur voor dit project.
+- d. de maximale bedragen, genoemd in [artikel 3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0033875&artikel=3&z=2017-04-15&g=2017-04-15), worden niet overschreden als gevolg van het verlenen van de middelen van de bijzondere uitkering natuur voor dit project.
 
 ##### Artikel 7
 
@@ -117,7 +117,7 @@ De minister, gehoord de adviescommissie bijzondere uitkering natuur, besluit om 
 
 2. De minister verbindt aan de verlening van de middelen in ieder geval de voorschriften dat het bestuurscollege van het openbaar lichaam:
 
-- a. de tijdige uitvoering van de projecten bewaakt volgens het projectplan, bedoeld in [artikel 5, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0033875&artikel=5&z=2013-09-20&g=2013-09-20), en
+- a. de tijdige uitvoering van de projecten bewaakt volgens het projectplan, bedoeld in [artikel 5, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0033875&artikel=5&z=2017-04-15&g=2017-04-15), en
 
 - b. gegevens verzamelt omtrent de voortgang en kosten van de uitvoering van de projecten.
 
@@ -135,29 +135,29 @@ Zodra aannemelijk is dat een project waarvoor middelen uit de bijzondere uitkeri
 
 1. De minister verstrekt aan de openbare lichamen per kwartaal een voorschot op de verleende middelen van de bijzondere uitkering natuur.
 
-2. De hoogte van het voorschot wordt per project vastgesteld op basis van een bevoorschottingsregime dat is vastgesteld bij het besluit, bedoeld in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0033875&artikel=6&z=2013-09-20&g=2013-09-20).
+2. De hoogte van het voorschot wordt per project vastgesteld op basis van een bevoorschottingsregime dat is vastgesteld bij het besluit, bedoeld in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0033875&artikel=6&z=2017-04-15&g=2017-04-15).
 
 3. De minister kan op verzoek van het openbaar lichaam besluiten om de hoogte van een voorschot hoger of lager vast te stellen.
 
 4. De minister kan besluiten om de verstrekking van voorschotten voor een project op te schorten, indien:
 
-- a. een project wordt uitgevoerd op een wijze die niet langer voldoet aan de doelstellingen van [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0033875&artikel=2&z=2013-09-20&g=2013-09-20), of de criteria, bedoeld in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0033875&artikel=6&z=2013-09-20&g=2013-09-20);
+- a. een project wordt uitgevoerd op een wijze die niet langer voldoet aan de doelstellingen van [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0033875&artikel=2&z=2017-04-15&g=2017-04-15), of de criteria, bedoeld in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0033875&artikel=6&z=2017-04-15&g=2017-04-15);
 
-- b. een project wordt uitgevoerd in strijd met voorschriften als bedoeld in [artikel 7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0033875&artikel=7&z=2013-09-20&g=2013-09-20);
+- b. een project wordt uitgevoerd in strijd met voorschriften als bedoeld in [artikel 7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0033875&artikel=7&z=2017-04-15&g=2017-04-15);
 
 - c. verleende voorschotten zijn besteed aan een ander doel dan waarvoor het voorschot is verleend.
 
 ##### Artikel 11. Intrekken besluit tot verlenen
 
-1. Zolang de bijzondere uitkering natuur nog niet is vastgesteld, kan de minister zijn besluit, bedoeld in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0033875&artikel=6&z=2013-09-20&g=2013-09-20), ten aanzien van een project wijzigen of intrekken, indien:
+1. Zolang de bijzondere uitkering natuur nog niet is vastgesteld, kan de minister zijn besluit, bedoeld in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0033875&artikel=6&z=2017-04-15&g=2017-04-15), ten aanzien van een project wijzigen of intrekken, indien:
 
 - a. het openbare lichaam onjuiste of onvolledige gegevens heeft verstrekt en verstrekking van juiste of volledige gegevens tot een ander besluit omtrent de verlening van middelen uit de bijzondere uitkering natuur, zou hebben geleid;
 
 - b. het besluit de beschikking tot verlening van middelen uit de bijzondere uitkering natuur anderszins onjuist was en het openbaar lichaam dit wist of behoorde te weten;
 
-- c. een project wordt uitgevoerd op een wijze die niet langer voldoet aan de doelstellingen van [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0033875&artikel=2&z=2013-09-20&g=2013-09-20), of de criteria, bedoeld in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0033875&artikel=6&z=2013-09-20&g=2013-09-20);
+- c. een project wordt uitgevoerd op een wijze die niet langer voldoet aan de doelstellingen van [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0033875&artikel=2&z=2017-04-15&g=2017-04-15), of de criteria, bedoeld in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0033875&artikel=6&z=2017-04-15&g=2017-04-15);
 
-- d. een project wordt uitgevoerd in strijd met een voorschrift als bedoeld in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0033875&artikel=7&z=2013-09-20&g=2013-09-20), of
+- d. een project wordt uitgevoerd in strijd met een voorschrift als bedoeld in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0033875&artikel=7&z=2017-04-15&g=2017-04-15), of
 
 - e. verleende voorschotten zijn besteed aan een ander doel dan waarvoor het voorschot is verleend.
 
@@ -165,7 +165,7 @@ Zodra aannemelijk is dat een project waarvoor middelen uit de bijzondere uitkeri
 
 ##### Artikel 12. Vaststelling
 
-1. De minister stelt de bijzondere uitkering natuur voor een openbaar lichaam vast op het totale bedrag aan middelen die zijn verleend voor projecten, verminderd met de voorschotten die onverschuldigd zijn betaald als gevolg van een besluit als bedoeld in [artikel 11, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0033875&artikel=11&z=2013-09-20&g=2013-09-20).
+1. De minister stelt de bijzondere uitkering natuur voor een openbaar lichaam vast op het totale bedrag aan middelen die zijn verleend voor projecten, verminderd met de voorschotten die onverschuldigd zijn betaald als gevolg van een besluit als bedoeld in [artikel 11, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0033875&artikel=11&z=2017-04-15&g=2017-04-15).
 
 2. Onverschuldigd betaalde bedragen aan voorschotten kunnen door de minister worden teruggevorderd, voor zover na de dag waarop de bijzondere uitkering natuur is vastgesteld, nog geen vijf jaren zijn verstreken.
 
