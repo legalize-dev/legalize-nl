@@ -4,7 +4,7 @@ identifier: "BWBR0032415"
 country: "nl"
 rank: "beleidsregel"
 publication_date: "2022-01-01"
-last_updated: "2014-07-01"
+last_updated: "2017-04-19"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0032415"
 soort: "beleidsregel"
@@ -102,7 +102,7 @@ In deze beleidsregels wordt verstaan onder:
 
 ##### Artikel 4. Vervolgonderzoek na registratie
 
-1. Het kalenderjaar volgend op het kalenderjaar waarin het inspectierapport naar aanleiding van het onderzoek, bedoeld in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032415&paragraaf=2&artikel=3&z=2014-07-01&g=2014-07-01), is vastgesteld, voert de toezichthouder ter uitvoering van het onderzoek, bedoeld in [artikel 1.62, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&artikel=1.62), respectievelijk [artikel 2.20, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&artikel=2.20) in ieder geval de werkzaamheden, bedoeld in artikel 3, eerste lid, uit bij het kindercentrum, het gastouderbureau of de peuterspeelzaal.
+1. Het kalenderjaar volgend op het kalenderjaar waarin het inspectierapport naar aanleiding van het onderzoek, bedoeld in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032415&paragraaf=2&artikel=3&z=2017-04-19&g=2017-04-19), is vastgesteld, voert de toezichthouder ter uitvoering van het onderzoek, bedoeld in [artikel 1.62, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&artikel=1.62), respectievelijk [artikel 2.20, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&artikel=2.20) in ieder geval de werkzaamheden, bedoeld in artikel 3, eerste lid, uit bij het kindercentrum, het gastouderbureau of de peuterspeelzaal.
 
 2. Onverminderd het eerste lid kunnen de werkzaamheden van de toezichthouder ter uitvoering van het onderzoek, bedoeld in [artikel 1.62, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&artikel=1.62), respectievelijk [artikel 2.20, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&artikel=2.20) bestaan uit het voeren van overleg met:
 
@@ -116,7 +116,7 @@ In deze beleidsregels wordt verstaan onder:
 
 - 5°. het college.
 
-3. De toezichthouder stelt op basis van de resultaten van het onderzoek, bedoeld in het eerste lid, het risicoprofiel van het kindercentrum, het gastouderbureau of de peuterspeelzaal op. Hierbij worden ook de resultaten van het onderzoek, bedoeld in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032415&paragraaf=2&artikel=3&z=2014-07-01&g=2014-07-01), betrokken.
+3. De toezichthouder stelt op basis van de resultaten van het onderzoek, bedoeld in het eerste lid, het risicoprofiel van het kindercentrum, het gastouderbureau of de peuterspeelzaal op. Hierbij worden ook de resultaten van het onderzoek, bedoeld in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032415&paragraaf=2&artikel=3&z=2017-04-19&g=2017-04-19), betrokken.
 
 4. Op basis van het risicomodel adviseert de toezichthouder het college over de inspectieactiviteiten bij het kindercentrum, het gastouderbureau of de peuterspeelzaal.
 
@@ -126,17 +126,17 @@ Indien naar het oordeel van de toezichthouder sprake is van niet-geregistreerde 
 
 ##### Artikel 6. Procedure inspectierapport
 
-1. De toezichthouder stuurt het ontwerp van het inspectierapport binnen zes weken na afronding van de werkzaamheden, bedoeld in de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0032415&paragraaf=2&artikel=3&z=2014-07-01&g=2014-07-01), [4](https://wetten.overheid.nl/jci1.3:c:BWBR0032415&paragraaf=2&artikel=4&z=2014-07-01&g=2014-07-01), [4a](https://wetten.overheid.nl/jci1.3:c:BWBR0032415&paragraaf=2&artikel=4a&z=2014-07-01&g=2014-07-01), [4b](https://wetten.overheid.nl/jci1.3:c:BWBR0032415&paragraaf=2&artikel=4b&z=2014-07-01&g=2014-07-01), [4e](https://wetten.overheid.nl/jci1.3:c:BWBR0032415&paragraaf=3&artikel=4e&z=2014-07-01&g=2014-07-01) voor zover sprake is van een steekproefsgewijs onderzoek of [4f](https://wetten.overheid.nl/jci1.3:c:BWBR0032415&paragraaf=3&artikel=4f&z=2014-07-01&g=2014-07-01), aan de houder bij wiens vestiging het onderzoek is uitgevoerd.
+1. De toezichthouder stuurt het ontwerp van het inspectierapport binnen zes weken na afronding van de werkzaamheden, bedoeld in de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0032415&paragraaf=2&artikel=3&z=2017-04-19&g=2017-04-19), [4](https://wetten.overheid.nl/jci1.3:c:BWBR0032415&paragraaf=2&artikel=4&z=2017-04-19&g=2017-04-19), [4a](https://wetten.overheid.nl/jci1.3:c:BWBR0032415&paragraaf=2&artikel=4a&z=2017-04-19&g=2017-04-19), [4b](https://wetten.overheid.nl/jci1.3:c:BWBR0032415&paragraaf=2&artikel=4b&z=2017-04-19&g=2017-04-19), [4e](https://wetten.overheid.nl/jci1.3:c:BWBR0032415&paragraaf=3&artikel=4e&z=2017-04-19&g=2017-04-19) voor zover sprake is van een steekproefsgewijs onderzoek of [4f](https://wetten.overheid.nl/jci1.3:c:BWBR0032415&paragraaf=3&artikel=4f&z=2017-04-19&g=2017-04-19), aan de houder bij wiens vestiging het onderzoek is uitgevoerd.
 
 2. Binnen twee weken na de verzending van het ontwerp van het inspectierapport, bedoeld in het eerste lid, voert de toezichthouder overleg met de houder en is de houder in de gelegenheid zijn zienswijze, bedoeld in [artikel 1.63, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&artikel=1.63), respectievelijk [artikel 2.21, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&artikel=2.21), kenbaar te maken.
 
 3. De toezichthouder stelt het inspectierapport binnen een week na afloop van de twee weken, bedoeld in het tweede lid, vast.
 
-4. In uitzondering op het derde lid, stelt de toezichthouder het inspectierapport naar aanleiding van een nader onderzoek als bedoeld in [artikel 1.62, vijfde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&artikel=1.62) uiterlijk binnen een week na afronding van de werkzaamheden, bedoeld in de [artikel 4c](https://wetten.overheid.nl/jci1.3:c:BWBR0032415&paragraaf=2&artikel=4c&z=2014-07-01&g=2014-07-01) en [artikel 4e](https://wetten.overheid.nl/jci1.3:c:BWBR0032415&paragraaf=3&artikel=4e&z=2014-07-01&g=2014-07-01),vast.
+4. In uitzondering op het derde lid, stelt de toezichthouder het inspectierapport naar aanleiding van een nader onderzoek als bedoeld in [artikel 1.62, vijfde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&artikel=1.62) uiterlijk binnen een week na afronding van de werkzaamheden, bedoeld in de [artikel 4c](https://wetten.overheid.nl/jci1.3:c:BWBR0032415&paragraaf=2&artikel=4c&z=2017-04-19&g=2017-04-19) en [artikel 4e](https://wetten.overheid.nl/jci1.3:c:BWBR0032415&paragraaf=3&artikel=4e&z=2017-04-19&g=2017-04-19),vast.
 
 5. De toezichthouder stelt het college in kennis van de vaststelling van het inspectierapport.
 
-6. Dit artikel is niet van toepassing op een onderzoek voor registratie als bedoeld in de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0032415&paragraaf=2&artikel=2&z=2014-07-01&g=2014-07-01) en [4d](https://wetten.overheid.nl/jci1.3:c:BWBR0032415&paragraaf=3&artikel=4d&z=2014-07-01&g=2014-07-01).
+6. Dit artikel is niet van toepassing op een onderzoek voor registratie als bedoeld in de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0032415&paragraaf=2&artikel=2&z=2017-04-19&g=2017-04-19) en [4d](https://wetten.overheid.nl/jci1.3:c:BWBR0032415&paragraaf=3&artikel=4d&z=2017-04-19&g=2017-04-19).
 
 ##### Artikel 7. Model en inhoud inspectierapport
 
@@ -186,9 +186,9 @@ Dit besluit zal met de toelichting in de Staatscourant worden geplaatst.
 
 ##### Artikel 4a. Jaarlijks onderzoek
 
-1. De werkzaamheden van de toezichthouder ter uitvoering van het onderzoek, bedoeld in de [artikel 1.62, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&artikel=1.62), respectievelijk [artikel 2.20, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&artikel=2.20) bij het kindercentrum, het gastouderbureau of de peuterspeelzaal ten behoeve waarvan een risicoprofiel is opgemaakt, bestaan uit de werkzaamheden, bedoeld in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032415&paragraaf=2&artikel=3&z=2014-07-01&g=2014-07-01).
+1. De werkzaamheden van de toezichthouder ter uitvoering van het onderzoek, bedoeld in de [artikel 1.62, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&artikel=1.62), respectievelijk [artikel 2.20, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&artikel=2.20) bij het kindercentrum, het gastouderbureau of de peuterspeelzaal ten behoeve waarvan een risicoprofiel is opgemaakt, bestaan uit de werkzaamheden, bedoeld in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032415&paragraaf=2&artikel=3&z=2017-04-19&g=2017-04-19).
 
-2. Onverminderd het eerste lid kunnen de werkzaamheden van de toezichthouder ter uitvoering van het onderzoek, bedoeld in [artikel 1.62, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&artikel=1.62), respectievelijk [artikel 2.20, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&artikel=2.20) bestaan uit het voeren van overleg met degenen als bedoeld in [artikel 4, tweede lid, onder 1° tot en met 5°](https://wetten.overheid.nl/jci1.3:c:BWBR0032415&paragraaf=2&artikel=4&z=2014-07-01&g=2014-07-01).
+2. Onverminderd het eerste lid kunnen de werkzaamheden van de toezichthouder ter uitvoering van het onderzoek, bedoeld in [artikel 1.62, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&artikel=1.62), respectievelijk [artikel 2.20, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&artikel=2.20) bestaan uit het voeren van overleg met degenen als bedoeld in [artikel 4, tweede lid, onder 1° tot en met 5°](https://wetten.overheid.nl/jci1.3:c:BWBR0032415&paragraaf=2&artikel=4&z=2017-04-19&g=2017-04-19).
 
 3. Tijdens het onderzoek, bedoeld in het eerste lid, bij het kindercentrum of de peuterspeelzaal worden in ieder geval de volgende onderwerpen beoordeeld:
 
@@ -226,9 +226,9 @@ Dit besluit zal met de toelichting in de Staatscourant worden geplaatst.
 
 ##### Artikel 4b. Incidenteel onderzoek
 
-1. De werkzaamheden van de toezichthouder ter uitvoering van het onderzoek, bedoeld in [artikel 1.62, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&artikel=1.62), respectievelijk [artikel 2.20, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&artikel=2.20) bij het kindercentrum, het gastouderbureau of de peuterspeelzaal bestaan in ieder geval uit de werkzaamheden, bedoeld in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032415&paragraaf=2&artikel=3&z=2014-07-01&g=2014-07-01).
+1. De werkzaamheden van de toezichthouder ter uitvoering van het onderzoek, bedoeld in [artikel 1.62, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&artikel=1.62), respectievelijk [artikel 2.20, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&artikel=2.20) bij het kindercentrum, het gastouderbureau of de peuterspeelzaal bestaan in ieder geval uit de werkzaamheden, bedoeld in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032415&paragraaf=2&artikel=3&z=2017-04-19&g=2017-04-19).
 
-2. Onverminderd het eerste lid kunnen de werkzaamheden van de toezichthouder ter uitvoering van het onderzoek, bedoeld in [artikel 1.62, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&artikel=1.62), respectievelijk [artikel 2.20, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&artikel=2.20) bestaan uit het voeren van overleg met degenen als bedoeld in [artikel 4, tweede lid, onder 1° tot en met 5°](https://wetten.overheid.nl/jci1.3:c:BWBR0032415&paragraaf=2&artikel=4&z=2014-07-01&g=2014-07-01).
+2. Onverminderd het eerste lid kunnen de werkzaamheden van de toezichthouder ter uitvoering van het onderzoek, bedoeld in [artikel 1.62, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&artikel=1.62), respectievelijk [artikel 2.20, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&artikel=2.20) bestaan uit het voeren van overleg met degenen als bedoeld in [artikel 4, tweede lid, onder 1° tot en met 5°](https://wetten.overheid.nl/jci1.3:c:BWBR0032415&paragraaf=2&artikel=4&z=2017-04-19&g=2017-04-19).
 
 3. De toezichthouder actualiseert het risicoprofiel van het kindercentrum, het gastouderbureau of de peuterspeelzaal naar aanleiding van de resultaten van het onderzoek, bedoeld in het eerste lid.
 
@@ -236,9 +236,9 @@ Dit besluit zal met de toelichting in de Staatscourant worden geplaatst.
 
 ##### Artikel 4c. Nader onderzoek
 
-1. De werkzaamheden van de toezichthouder ter uitvoering van het onderzoek, bedoeld in de [artikel 1.62, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&artikel=1.62), respectievelijk [artikel 2.20, vierde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&artikel=2.20) bij het kindercentrum, het gastouderbureau of de peuterspeelzaal bestaan uit de werkzaamheden, bedoeld in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032415&paragraaf=2&artikel=3&z=2014-07-01&g=2014-07-01).
+1. De werkzaamheden van de toezichthouder ter uitvoering van het onderzoek, bedoeld in de [artikel 1.62, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&artikel=1.62), respectievelijk [artikel 2.20, vierde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&artikel=2.20) bij het kindercentrum, het gastouderbureau of de peuterspeelzaal bestaan uit de werkzaamheden, bedoeld in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032415&paragraaf=2&artikel=3&z=2017-04-19&g=2017-04-19).
 
-2. Onverminderd het eerste lid kunnen de werkzaamheden van de toezichthouder ter uitvoering van het onderzoek, bedoeld in [artikel 1.62, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&artikel=1.62), respectievelijk [artikel 2.20, vierde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&artikel=2.20) bestaan uit het voeren van overleg met degenen als bedoeld in [artikel 4, tweede lid, onder 1° tot en met 3° en 5°](https://wetten.overheid.nl/jci1.3:c:BWBR0032415&paragraaf=2&artikel=4&z=2014-07-01&g=2014-07-01).
+2. Onverminderd het eerste lid kunnen de werkzaamheden van de toezichthouder ter uitvoering van het onderzoek, bedoeld in [artikel 1.62, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&artikel=1.62), respectievelijk [artikel 2.20, vierde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&artikel=2.20) bestaan uit het voeren van overleg met degenen als bedoeld in [artikel 4, tweede lid, onder 1° tot en met 3° en 5°](https://wetten.overheid.nl/jci1.3:c:BWBR0032415&paragraaf=2&artikel=4&z=2017-04-19&g=2017-04-19).
 
 3. De toezichthouder actualiseert het risicoprofiel van het kindercentrum, het gastouderbureau of de peuterspeelzaal naar aanleiding van de resultaten van het onderzoek, bedoeld in het eerste lid.
 
@@ -278,13 +278,23 @@ Dit besluit zal met de toelichting in de Staatscourant worden geplaatst.
 
 ##### Artikel 4f. Incidenteel onderzoek
 
-1. De werkzaamheden van de toezichthouder ter uitvoering van het onderzoek, bedoeld in [artikel 1.62, vierde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&artikel=1.62) bij de voorziening voor gastouderopvang bestaan uit de werkzaamheden, bedoeld in [artikel 4e, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032415&paragraaf=3&artikel=4e&z=2014-07-01&g=2014-07-01).
+1. De werkzaamheden van de toezichthouder ter uitvoering van het onderzoek, bedoeld in [artikel 1.62, vierde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&artikel=1.62) bij de voorziening voor gastouderopvang bestaan uit de werkzaamheden, bedoeld in [artikel 4e, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032415&paragraaf=3&artikel=4e&z=2017-04-19&g=2017-04-19).
 
 2. Onverminderd het eerste lid kunnen de werkzaamheden van de toezichthouder ter uitvoering van het onderzoek, bedoeld in [artikel 1.62, vierde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&artikel=1.62) bestaan uit het voeren van overleg met: 1° de gastouder;
 
 - 2°. de houder van het gastouderbureau; of
 
 - 3°. het college.
+
+#### Paragraaf 4. Overige bepalingen
+
+Dit besluit zal met de toelichting in de Staatscourant worden geplaatst.
+
+##### Artikel 4aa. Pilot groene inspectieactiviteit
+
+Gedurende de looptijd van de door GGD GHOR Nederland uit te voeren Pilot groene inspectieactiviteit kan een aan genoemde pilot deelnemende toezichthouder, voor wat betreft een kindercentrum dat conform het risicomodel een groen risicoprofiel heeft, afwijken van [artikel 4a, derde lid, onderdelen a tot en met d, f en g](https://wetten.overheid.nl/jci1.3:c:BWBR0032415&paragraaf=2&artikel=4a&z=2017-04-19&g=2017-04-19), met dien verstande dat voor het onderzoek, bedoeld in artikel 4a, eerste lid, eenzelfde aantal uren beschikbaar is als het aantal uren dat op grond van het risicomodel beschikbaar is voor een kindercentrum met een groen risicoprofiel.
+
+#### Paragraaf 3. Onderzoek voorziening voor gastouderopvang
 
 #### Paragraaf 4. Overige bepalingen
 
