@@ -4,7 +4,7 @@ identifier: "BWBR0040467"
 country: "nl"
 rank: "wet"
 publication_date: "2026-01-01"
-last_updated: "2017-01-01"
+last_updated: "2017-04-20"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0040467"
 soort: "wet"
@@ -133,8 +133,6 @@ Dit onderdeel is nog niet inwerking getreden
 ##### Artikel XVIII
 
 Wijzigt de Wet belastingen op milieugrondslag.
-
-Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel XIX
 
