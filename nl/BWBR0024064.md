@@ -4,7 +4,7 @@ identifier: "BWBR0024064"
 country: "nl"
 rank: "amvb"
 publication_date: "2025-09-23"
-last_updated: "2017-04-01"
+last_updated: "2017-04-21"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0024064"
 soort: "AMvB"
@@ -86,9 +86,9 @@ Indien uit anderen hoofde aanspraak bestaat op een tegemoetkoming, vergoeding of
 
 2. De ambtenaar maakt eenmaal per kalenderjaar de keuze of hij voor de reizen als bedoeld in het eerste lid aanspraak maakt op:
 
-- a. een tegemoetkoming voor openbaar vervoer als bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0024064&hoofdstuk=II&paragraaf=2&artikel=4&z=2017-01-31&g=2017-04-01) of
+- a. een tegemoetkoming voor openbaar vervoer als bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0024064&hoofdstuk=II&paragraaf=2&artikel=4&z=2017-04-21&g=2017-04-21) of
 
-- b. een tegemoetkoming voor eigen vervoer al of niet in combinatie met openbaar vervoer als bedoeld in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0024064&hoofdstuk=II&paragraaf=3&artikel=6&z=2017-01-31&g=2017-04-01).
+- b. een tegemoetkoming voor eigen vervoer al of niet in combinatie met openbaar vervoer als bedoeld in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0024064&hoofdstuk=II&paragraaf=3&artikel=6&z=2017-04-21&g=2017-04-21).
 
 3. Bij wijziging van plaats van tewerkstelling, werktijden of woonplaats wordt de ambtenaar in de gelegenheid gesteld zijn keuze tussentijds te herzien.
 
@@ -96,15 +96,15 @@ Indien uit anderen hoofde aanspraak bestaat op een tegemoetkoming, vergoeding of
 
 ##### Artikel 4. Openbaar vervoer
 
-1. Voor reizen als bedoeld in [artikel 3, tweede lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0024064&hoofdstuk=II&paragraaf=1&artikel=3&z=2017-01-31&g=2017-04-01), wordt door het bevoegd gezag een vervoersbewijs of een combinatie van vervoersbewijzen verstrekt op basis van het tarief van de tweede klasse van het betreffende openbaar vervoer voor één van de trajecten, bedoeld in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024064&hoofdstuk=II&paragraaf=1&artikel=3&z=2017-01-31&g=2017-04-01).
+1. Voor reizen als bedoeld in [artikel 3, tweede lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0024064&hoofdstuk=II&paragraaf=1&artikel=3&z=2017-04-21&g=2017-04-21), wordt door het bevoegd gezag een vervoersbewijs of een combinatie van vervoersbewijzen verstrekt op basis van het tarief van de tweede klasse van het betreffende openbaar vervoer voor één van de trajecten, bedoeld in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024064&hoofdstuk=II&paragraaf=1&artikel=3&z=2017-04-21&g=2017-04-21).
 
-2. Het bevoegd gezag kan in plaats van het gestelde in het eerste lid een tegemoetkoming verstrekken welke gelijk is aan de gemaakte kosten van openbaar vervoer op basis van het tarief van de tweede klasse van het betreffende openbaar vervoer voor één van de trajecten, bedoeld in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024064&hoofdstuk=II&paragraaf=1&artikel=3&z=2017-01-31&g=2017-04-01).
+2. Het bevoegd gezag kan in plaats van het gestelde in het eerste lid een tegemoetkoming verstrekken welke gelijk is aan de gemaakte kosten van openbaar vervoer op basis van het tarief van de tweede klasse van het betreffende openbaar vervoer voor één van de trajecten, bedoeld in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024064&hoofdstuk=II&paragraaf=1&artikel=3&z=2017-04-21&g=2017-04-21).
 
 3. Indien de ambtenaar een vervoersbewijs wenst op basis van eerste klasse of indien de ambtenaar een vervoersbewijs wenst welke ruimere mogelijkheden biedt dan bedoeld in het eerste lid, komen de meerkosten hiervan voor rekening van de ambtenaar.
 
 ##### Artikel 5. Berekening en procedures bij reizen met openbaar vervoer
 
-1. De ambtenaar, aan wie een tegemoetkoming of een vervoersbewijs is verstrekt als bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0024064&hoofdstuk=II&paragraaf=2&artikel=4&z=2017-01-31&g=2017-04-01) dient zijn vervoersbewijzen direct na afloop van de geldigheid in te leveren bij het bevoegd gezag.
+1. De ambtenaar, aan wie een tegemoetkoming of een vervoersbewijs is verstrekt als bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0024064&hoofdstuk=II&paragraaf=2&artikel=4&z=2017-04-21&g=2017-04-21) dient zijn vervoersbewijzen direct na afloop van de geldigheid in te leveren bij het bevoegd gezag.
 
 2. De ambtenaar, bedoeld in het eerste lid, dient wijzigingen die van invloed zijn op het vervoersbewijs of de hoogte van de tegemoetkoming onverwijld en schriftelijk door te geven aan het bevoegd gezag.
 
@@ -126,7 +126,7 @@ Indien uit anderen hoofde aanspraak bestaat op een tegemoetkoming, vergoeding of
 
 3. In afwijking van het eerste en tweede lid wordt aan de ambtenaar, die geleider is van een politiesurveillancehond of een politiespeurhond, die niet de beschikking heeft over een dienstvoertuig, en voor wie het noodzakelijk is dat hij in het kader van zijn dienstuitoefening met een politiesurveillancehond of een politiespeurhond met eigen vervoer reist, voor de afstand tussen de woning en de plaats van tewerkstelling of oefenterrein een tegemoetkoming van € 0,28 per afgelegde kilometer verstrekt.
 
-4. Indien één van de trajecten als bedoeld in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024064&hoofdstuk=II&paragraaf=1&artikel=3&z=2017-01-31&g=2017-04-01), leidt over een brug, veer of weg waarvoor brug-, veer-, of tolgeld moet worden betaald, worden de daarvoor werkelijk gemaakte kosten volledig vergoed op basis van overgelegde bewijsstukken.
+4. Indien één van de trajecten als bedoeld in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024064&hoofdstuk=II&paragraaf=1&artikel=3&z=2017-04-21&g=2017-04-21), leidt over een brug, veer of weg waarvoor brug-, veer-, of tolgeld moet worden betaald, worden de daarvoor werkelijk gemaakte kosten volledig vergoed op basis van overgelegde bewijsstukken.
 
 5. Door vernummering vervallen.
 
@@ -134,7 +134,7 @@ Indien uit anderen hoofde aanspraak bestaat op een tegemoetkoming, vergoeding of
 
 ##### Artikel 7. Berekening en procedure eigen vervoer al of niet in combinatie met openbaar vervoer
 
-1. De tegemoetkoming, bedoeld in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0024064&hoofdstuk=II&paragraaf=3&artikel=6&z=2017-01-31&g=2017-04-01), wordt toegekend op declaratiebasis, tenzij het bevoegd gezag bepaalt dat de tegemoetkoming als vaste tegemoetkoming per maand wordt toegekend.
+1. De tegemoetkoming, bedoeld in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0024064&hoofdstuk=II&paragraaf=3&artikel=6&z=2017-04-21&g=2017-04-21), wordt toegekend op declaratiebasis, tenzij het bevoegd gezag bepaalt dat de tegemoetkoming als vaste tegemoetkoming per maand wordt toegekend.
 
 2. Bij de berekening van de vaste tegemoetkoming, bedoeld in het eerste lid, wordt bij een gemiddelde werkweek van vijf dagen uitgegaan van 206 werkdagen per kalenderjaar.
 
@@ -202,7 +202,7 @@ Indien uit anderen hoofde aanspraak bestaat op een tegemoetkoming, vergoeding of
 
 ##### Artikel 12. Dienstreis met eigen vervoer
 
-1. In afwijking van de [artikelen 10](https://wetten.overheid.nl/jci1.3:c:BWBR0024064&hoofdstuk=III&paragraaf=1&artikel=10&z=2017-01-31&g=2017-04-01) en [11](https://wetten.overheid.nl/jci1.3:c:BWBR0024064&hoofdstuk=III&paragraaf=1&artikel=11&z=2017-01-31&g=2017-04-01) en indien door het bevoegd gezag aan de ambtenaar is verzocht voor het maken van de dienstreis gebruik te maken van een eigen vervoermiddel en de ambtenaar heeft hiermee ingestemd, ontvangt de ambtenaar per afgelegde kilometer een vergoeding van:
+1. In afwijking van de [artikelen 10](https://wetten.overheid.nl/jci1.3:c:BWBR0024064&hoofdstuk=III&paragraaf=1&artikel=10&z=2017-04-21&g=2017-04-21) en [11](https://wetten.overheid.nl/jci1.3:c:BWBR0024064&hoofdstuk=III&paragraaf=1&artikel=11&z=2017-04-21&g=2017-04-21) en indien door het bevoegd gezag aan de ambtenaar is verzocht voor het maken van de dienstreis gebruik te maken van een eigen vervoermiddel en de ambtenaar heeft hiermee ingestemd, ontvangt de ambtenaar per afgelegde kilometer een vergoeding van:
 
 - a. € 0,28 voor het gebruik van een eigen motorvoertuig;
 
@@ -240,7 +240,7 @@ Indien uit anderen hoofde aanspraak bestaat op een tegemoetkoming, vergoeding of
 
 1. Indien een ambtenaar overeenkomstig [artikel 62 van het Besluit algemene rechtspositie politie](https://wetten.overheid.nl/jci1.3:c:BWBR0006516&artikel=62) wordt gedetacheerd en op een andere plaats van tewerkstelling werkzaam is, en indien dagelijks heen en weer reizen tussen de woning en de plaats van tijdelijke tewerkstelling naar het oordeel van het bevoegd gezag niet mogelijk is, heeft de ambtenaar aanspraak op vergoeding van kosten voor logies, welke gelijk is aan het bedrag van de werkelijke gemaakte kosten met een maximum van € 91,13 per dag, op basis van overgelegde bewijsstukken.
 
-2. In geval van een situatie als bedoeld in het eerste lid heeft de ambtenaar tevens aanspraak op een tegemoetkoming in de kosten voor maaltijden en kleine uitgaven. Deze tegemoetkoming is gelijk aan 50% van de kosten met een maximum van 50% van de tegemoetkoming als bedoeld in [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0024064&hoofdstuk=III&paragraaf=1&artikel=13&z=2017-01-31&g=2017-04-01) van dit besluit.
+2. In geval van een situatie als bedoeld in het eerste lid heeft de ambtenaar tevens aanspraak op een tegemoetkoming in de kosten voor maaltijden en kleine uitgaven. Deze tegemoetkoming is gelijk aan 50% van de kosten met een maximum van 50% van de tegemoetkoming als bedoeld in [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0024064&hoofdstuk=III&paragraaf=1&artikel=13&z=2017-04-21&g=2017-04-21) van dit besluit.
 
 3. De ambtenaar, bedoeld in het eerste lid, heeft maximaal eenmaal per week aanspraak op een tegemoetkoming in de reiskosten naar zijn oorspronkelijke woning. De tegemoetkoming is gelijk aan de kosten voor openbaar vervoer in de tweede vervoersklasse of, bij gebruik van eigen vervoer € 0,18 per kilometer.
 
@@ -322,13 +322,13 @@ Indien het noodzakelijk is dat de ambtenaar tijdens de dienstreis gebruik maakt 
 
 - b. bij openbaar vervoer of een boot: de laagste vervoersklasse.
 
-3. [Artikel 18, derde lid, onderdelen a tot en met f](https://wetten.overheid.nl/jci1.3:c:BWBR0024064&hoofdstuk=III&paragraaf=2&artikel=18&z=2017-01-31&g=2017-04-01), is van overeenkomstige toepassing.
+3. [Artikel 18, derde lid, onderdelen a tot en met f](https://wetten.overheid.nl/jci1.3:c:BWBR0024064&hoofdstuk=III&paragraaf=2&artikel=18&z=2017-04-21&g=2017-04-21), is van overeenkomstige toepassing.
 
 ##### Artikel 22. Verblijfkosten
 
 1. De ambtenaar ontvangt een tegemoetkoming in de in verband met een dienstreis door hem gemaakte verblijfkosten voor maaltijd, logies en kleine uitgaven.
 
-2. Voor de berekening van de tegemoetkoming geldt de tarieflijst, opgenomen in [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBR0024064&bijlage=I&z=2017-01-31&g=2017-04-01) bij dit besluit, voor de verschillende gebieden waar wordt gereisd.
+2. Voor de berekening van de tegemoetkoming geldt de tarieflijst, opgenomen in [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBR0024064&bijlage=I&z=2017-04-21&g=2017-04-21) bij dit besluit, voor de verschillende gebieden waar wordt gereisd.
 
 3. De tegemoetkoming in de verblijfkosten bestaat uit:
 
@@ -350,7 +350,7 @@ De ambtenaar ontvangt geen tegemoetkoming in verblijfkosten:
 
 - a. voor een reisgedeelte per vliegtuig voor zover het betreft vliegreizen in de businessklasse;
 
-- b. voor de periode dat een ambtenaar voor een bezoekreis als bedoeld in [artikel 21](https://wetten.overheid.nl/jci1.3:c:BWBR0024064&hoofdstuk=III&paragraaf=2&artikel=21&z=2017-01-31&g=2017-04-01) in zijn woonplaats verblijft.
+- b. voor de periode dat een ambtenaar voor een bezoekreis als bedoeld in [artikel 21](https://wetten.overheid.nl/jci1.3:c:BWBR0024064&hoofdstuk=III&paragraaf=2&artikel=21&z=2017-04-21&g=2017-04-21) in zijn woonplaats verblijft.
 
 ##### Artikel 24. Vergoeding van overige reiskosten
 
@@ -366,11 +366,11 @@ De ambtenaar ontvangt geen tegemoetkoming in verblijfkosten:
 
 6. De in verband met een dienstreis gemaakte kosten voor interlokale en internationale telefoongesprekken en voor gebruik van internet voor dienstdoeleinden worden op basis van overgelegde bewijsstukken vergoed. Indien geen bewijsstukken worden overgelegd, moet de ambtenaar aannemelijk maken dat hij die kosten heeft gemaakt.
 
-7. Indien klimatologische of andere bijzondere omstandigheden in een tijdens een dienstreis te bezoeken land daartoe aanleiding geven, kan aan de ambtenaar een vergoeding worden toegekend in de aangetoonde en noodzakelijk gemaakte kosten voor bijzondere kleding en uitrusting. De vergoeding bedraagt de helft van de noodzakelijk gemaakte kosten van aanschaf van bijzondere kleding en uitrusting. Per kalenderjaar bedraagt de vergoeding maximaal € 453,78, waarvan € 226,89 voor gebieden met tropische warmte en € 226,89 voor gebieden met polaire koude, waartoe in ieder geval de gebieden, genoemd in [bijlage II](https://wetten.overheid.nl/jci1.3:c:BWBR0024064&bijlage=II&z=2017-01-31&g=2017-04-01) bij dit besluit, worden gerekend.
+7. Indien klimatologische of andere bijzondere omstandigheden in een tijdens een dienstreis te bezoeken land daartoe aanleiding geven, kan aan de ambtenaar een vergoeding worden toegekend in de aangetoonde en noodzakelijk gemaakte kosten voor bijzondere kleding en uitrusting. De vergoeding bedraagt de helft van de noodzakelijk gemaakte kosten van aanschaf van bijzondere kleding en uitrusting. Per kalenderjaar bedraagt de vergoeding maximaal € 453,78, waarvan € 226,89 voor gebieden met tropische warmte en € 226,89 voor gebieden met polaire koude, waartoe in ieder geval de gebieden, genoemd in [bijlage II](https://wetten.overheid.nl/jci1.3:c:BWBR0024064&bijlage=II&z=2017-04-21&g=2017-04-21) bij dit besluit, worden gerekend.
 
 ##### Artikel 25. Declaraties
 
-[Artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBR0024064&hoofdstuk=III&paragraaf=1&artikel=15&z=2017-01-31&g=2017-04-01) is van overeenkomstige toepassing.
+[Artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBR0024064&hoofdstuk=III&paragraaf=1&artikel=15&z=2017-04-21&g=2017-04-21) is van overeenkomstige toepassing.
 
 ### Hoofdstuk IV. Verhuizen
 
@@ -390,7 +390,7 @@ De ambtenaar ontvangt geen tegemoetkoming in verblijfkosten:
 
 ##### Artikel 27. Tegemoetkoming in verhuiskosten en pensionkosten mét verhuisplicht
 
-1. De ambtenaar die in verband met een verplaatsing of aanstelling in opdracht van het bevoegde gezag is verhuisd en een woning in of nabij een reisafstand van 20 kilometer van zijn plaats van tewerkstelling heeft betrokken, wordt een tegemoetkoming in de verhuiskosten verleend overeenkomstig de [artikelen 29 tot en met 31](https://wetten.overheid.nl/jci1.3:c:BWBR0024064&hoofdstuk=IV&artikel=29&z=2017-01-31&g=2017-04-01).
+1. De ambtenaar die in verband met een verplaatsing of aanstelling in opdracht van het bevoegde gezag is verhuisd en een woning in of nabij een reisafstand van 20 kilometer van zijn plaats van tewerkstelling heeft betrokken, wordt een tegemoetkoming in de verhuiskosten verleend overeenkomstig de [artikelen 29 tot en met 31](https://wetten.overheid.nl/jci1.3:c:BWBR0024064&hoofdstuk=IV&artikel=29&z=2017-04-21&g=2017-04-21).
 
 2. De ambtenaar, bedoeld in het eerste lid, die nog niet is verhuisd en die naar het oordeel van het bevoegd gezag niet dagelijks heen en weer kan reizen heeft aanspraak op een tegemoetkoming in de pensionkosten voor verblijf in een pension in of nabij het werkgebied, tenzij van overheidswege al dan niet tegen betaling in huisvesting wordt voorzien. De tegemoetkoming bedraagt voor de ambtenaar die gewoonlijk met gezinsleden samenwoont 90% en voor de overige ambtenaren 60% van de betaalde pensionkosten, voor zover deze kosten redelijk zijn.
 
@@ -400,7 +400,7 @@ De ambtenaar ontvangt geen tegemoetkoming in verblijfkosten:
 
 ##### Artikel 28. Tegemoetkoming in (verhuis)kosten zonder verhuisplicht
 
-1. De ambtenaar die zich met een verhuizing, zonder dat daartoe opdracht is gegeven door het bevoegd gezag, heeft gevestigd binnen een reisafstand van 20 kilometer van zijn plaats van tewerkstelling wordt een tegemoetkoming in de verhuiskosten verleend overeenkomstig de [artikelen 29 tot en met 31](https://wetten.overheid.nl/jci1.3:c:BWBR0024064&hoofdstuk=IV&artikel=29&z=2017-01-31&g=2017-04-01), indien de reisafstand tussen de oude woning en de plaats van tewerkstelling ten minste 50 kilometer bedraagt.
+1. De ambtenaar die zich met een verhuizing, zonder dat daartoe opdracht is gegeven door het bevoegd gezag, heeft gevestigd binnen een reisafstand van 20 kilometer van zijn plaats van tewerkstelling wordt een tegemoetkoming in de verhuiskosten verleend overeenkomstig de [artikelen 29 tot en met 31](https://wetten.overheid.nl/jci1.3:c:BWBR0024064&hoofdstuk=IV&artikel=29&z=2017-04-21&g=2017-04-21), indien de reisafstand tussen de oude woning en de plaats van tewerkstelling ten minste 50 kilometer bedraagt.
 
 2. De ambtenaar dient de hem op grond van het eerste lid toegekende tegemoetkoming in verhuiskosten terug te betalen, indien binnen drie jaren na de verhuizing één van de volgende omstandigheden zich voordoet:
 
@@ -434,19 +434,19 @@ De ambtenaar ontvangt geen tegemoetkoming in verblijfkosten:
 
 2. Voor het vaststellen van de tegemoetkoming, bedoeld in het eerste lid, onderdeel d, geldt:
 
-- a. het bedrag wordt gesteld op 3% van de berekeningsbasis, bedoeld in [artikel 30](https://wetten.overheid.nl/jci1.3:c:BWBR0024064&hoofdstuk=IV&artikel=30&z=2017-01-31&g=2017-04-01), voor ieder woon- of slaapvertrek tot een maximum van vier vertrekken die de oude woning telt;
+- a. het bedrag wordt gesteld op 3% van de berekeningsbasis, bedoeld in [artikel 30](https://wetten.overheid.nl/jci1.3:c:BWBR0024064&hoofdstuk=IV&artikel=30&z=2017-04-21&g=2017-04-21), voor ieder woon- of slaapvertrek tot een maximum van vier vertrekken die de oude woning telt;
 
 - b. de tegemoetkoming bedraagt maximaal € 5.445,00.
 
 3. Geen aanspraak op een tegemoetkoming als bedoeld in het eerste lid, onderdeel d, bestaat indien de ambtenaar geen eigen huishouding voert.
 
-4. Voor de ambtenaar die geen eigen huishouding voert en indien bijzondere omstandigheden daartoe aanleiding geven, kan door het bevoegd gezag voor deze kosten niettemin een tegemoetkoming worden toegekend van 3% van de berekeningsbasis, als bedoeld in [artikel 30](https://wetten.overheid.nl/jci1.3:c:BWBR0024064&hoofdstuk=IV&artikel=30&z=2017-01-31&g=2017-04-01).
+4. Voor de ambtenaar die geen eigen huishouding voert en indien bijzondere omstandigheden daartoe aanleiding geven, kan door het bevoegd gezag voor deze kosten niettemin een tegemoetkoming worden toegekend van 3% van de berekeningsbasis, als bedoeld in [artikel 30](https://wetten.overheid.nl/jci1.3:c:BWBR0024064&hoofdstuk=IV&artikel=30&z=2017-04-21&g=2017-04-21).
 
-5. Indien aan de ambtenaar door het bevoegd gezag is medegedeeld dat de verplaatsing maximaal twee jaren zal duren, bestaat slechts aanspraak op vergoeding van transportkosten van de bagage. Voorts kan het bevoegd gezag, indien bijzondere omstandigheden daartoe aanleiding geven, een tegemoetkoming als bedoeld in eerste lid, onderdeel d, toekennen van 3% van de berekeningsbasis als bedoeld in [artikel 30](https://wetten.overheid.nl/jci1.3:c:BWBR0024064&hoofdstuk=IV&artikel=30&z=2017-01-31&g=2017-04-01).
+5. Indien aan de ambtenaar door het bevoegd gezag is medegedeeld dat de verplaatsing maximaal twee jaren zal duren, bestaat slechts aanspraak op vergoeding van transportkosten van de bagage. Voorts kan het bevoegd gezag, indien bijzondere omstandigheden daartoe aanleiding geven, een tegemoetkoming als bedoeld in eerste lid, onderdeel d, toekennen van 3% van de berekeningsbasis als bedoeld in [artikel 30](https://wetten.overheid.nl/jci1.3:c:BWBR0024064&hoofdstuk=IV&artikel=30&z=2017-04-21&g=2017-04-21).
 
 ##### Artikel 30. Berekeningsbasis en berekeningstijdstip
 
-1. De berekeningsbasis voor de tegemoetkoming in de verhuiskosten, bedoeld in [artikel 29](https://wetten.overheid.nl/jci1.3:c:BWBR0024064&hoofdstuk=IV&artikel=29&z=2017-01-31&g=2017-04-01), is het twaalfvoud van de bezoldiging in de zin van het [Besluit bezoldiging politie](https://wetten.overheid.nl/jci1.3:c:BWBR0006517) die de ambtenaar geniet op het berekeningstijdstip, vermeerderd met de aanspraak op de vakantie-uitkering, bedoeld in [artikel 23 van het Besluit bezoldiging politie](https://wetten.overheid.nl/jci1.3:c:BWBR0006517&artikel=23), en de eindejaarsuitkering, bedoeld in [artikel 25b van het Besluit bezoldiging politie](https://wetten.overheid.nl/jci1.3:c:BWBR0006517&artikel=25b). Indien er sprake is van gehele of gedeeltelijke werkloosheid of arbeidsongeschiktheid, dan wel prepensionering of levensloopverlof geldt de bezoldiging zoals die zou zijn genoten indien er geen sprake was geweest van gehele of gedeeltelijke werkloosheid of arbeidsongeschiktheid, dan wel prepensionering of levensloopverlof.
+1. De berekeningsbasis voor de tegemoetkoming in de verhuiskosten, bedoeld in [artikel 29](https://wetten.overheid.nl/jci1.3:c:BWBR0024064&hoofdstuk=IV&artikel=29&z=2017-04-21&g=2017-04-21), is het twaalfvoud van de bezoldiging in de zin van het [Besluit bezoldiging politie](https://wetten.overheid.nl/jci1.3:c:BWBR0006517) die de ambtenaar geniet op het berekeningstijdstip, vermeerderd met de aanspraak op de vakantie-uitkering, bedoeld in [artikel 23 van het Besluit bezoldiging politie](https://wetten.overheid.nl/jci1.3:c:BWBR0006517&artikel=23), en de eindejaarsuitkering, bedoeld in [artikel 25b van het Besluit bezoldiging politie](https://wetten.overheid.nl/jci1.3:c:BWBR0006517&artikel=25b). Indien er sprake is van gehele of gedeeltelijke werkloosheid of arbeidsongeschiktheid, dan wel prepensionering of levensloopverlof geldt de bezoldiging zoals die zou zijn genoten indien er geen sprake was geweest van gehele of gedeeltelijke werkloosheid of arbeidsongeschiktheid, dan wel prepensionering of levensloopverlof.
 
 2. Het berekeningstijdstip voor de tegemoetkoming in de verhuiskosten is de datum waarop de ambtenaar verhuist óf, als de ambtenaar is verhuisd vóór de datum dat de functie feitelijk wordt vervuld, de datum van ingang van de functievervulling óf bij het overlijden dan wel ontslag van de ambtenaar de datum waarop laatstelijk bezoldiging werd genoten.
 
@@ -514,9 +514,9 @@ Het bevoegd gezag kan besluiten om in individuele gevallen af te wijken van het 
 
 ##### Artikel 38
 
-1. De bedragen, genoemd in de [artikelen 13, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024064&hoofdstuk=III&paragraaf=1&artikel=13&z=2017-01-31&g=2017-04-01), [14, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024064&hoofdstuk=III&paragraaf=1&artikel=14&z=2017-01-31&g=2017-04-01), en [14a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024064&hoofdstuk=III&paragraaf=1&artikel=14a&z=2017-01-31&g=2017-04-01), worden per 1 januari van elk kalenderjaar bij ministeriële regeling gewijzigd, overeenkomstig de geschoonde consumentenprijsindex voor restaurants en accommodaties, vastgesteld door het Centraal bureau voor de statistiek.
+1. De bedragen, genoemd in de [artikelen 13, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024064&hoofdstuk=III&paragraaf=1&artikel=13&z=2017-04-21&g=2017-04-21), [14, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024064&hoofdstuk=III&paragraaf=1&artikel=14&z=2017-04-21&g=2017-04-21), en [14a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024064&hoofdstuk=III&paragraaf=1&artikel=14a&z=2017-04-21&g=2017-04-21), worden per 1 januari van elk kalenderjaar bij ministeriële regeling gewijzigd, overeenkomstig de geschoonde consumentenprijsindex voor restaurants en accommodaties, vastgesteld door het Centraal bureau voor de statistiek.
 
-2. De [bijlage](https://wetten.overheid.nl/jci1.3:c:BWBR0024064&bijlage=I&z=2017-01-31&g=2017-04-01), bedoeld in [artikel 22, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024064&hoofdstuk=III&paragraaf=2&artikel=22&z=2017-01-31&g=2017-04-01), wordt per 1 april en 1 oktober van elk kalenderjaar bij ministeriële regeling gewijzigd, overeenkomstig de Schedules of Daily Subsistence Allowance Rates van de Verenigde Naties van 1 januari respectievelijk 1 juli van dat kalenderjaar.
+2. De [bijlage](https://wetten.overheid.nl/jci1.3:c:BWBR0024064&bijlage=I&z=2017-04-21&g=2017-04-21), bedoeld in [artikel 22, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024064&hoofdstuk=III&paragraaf=2&artikel=22&z=2017-04-21&g=2017-04-21), wordt per 1 april en 1 oktober van elk kalenderjaar bij ministeriële regeling gewijzigd, overeenkomstig de Schedules of Daily Subsistence Allowance Rates van de Verenigde Naties van 1 januari respectievelijk 1 juli van dat kalenderjaar.
 
 ##### Artikel 39
 
@@ -2406,7 +2406,7 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 ##### Artikel 7a
 
-De tegemoetkoming op grond van [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0024064&hoofdstuk=II&paragraaf=3&artikel=6&z=2017-01-31&g=2017-04-01) en de tegemoetkoming op grond van [artikel 64 Besluit algemene rechtspositie politie, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006516&artikel=64), bedragen tezamen €0,28 cent per afgelegde meerkilometer.
+De tegemoetkoming op grond van [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0024064&hoofdstuk=II&paragraaf=3&artikel=6&z=2017-04-21&g=2017-04-21) en de tegemoetkoming op grond van [artikel 64 Besluit algemene rechtspositie politie, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006516&artikel=64), bedragen tezamen €0,28 cent per afgelegde meerkilometer.
 
 ### Hoofdstuk III. Dienstreizen
 
@@ -3127,234 +3127,227 @@ Dit besluit berust op [artikel 47, eerste lid, van de Politiewet 2012](https://w
 | **Zwitserland** |   |   |
 | Alle steden | 195 | 120 |
 
-## Bijlage I. , behorende bij [artikel 22, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024064&hoofdstuk=III&paragraaf=2&artikel=22&z=2017-01-31&g=2017-04-01), van het Besluit reis-, verblijf-, en verhuiskosten politie
+## Bijlage I. behorende bij [artikel 22, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024064&hoofdstuk=III&paragraaf=2&artikel=22&z=2017-04-21&g=2017-04-21), van het Besluit reis, verblijf-, en verhuiskosten politie per 1 april 2017
 
 | Land- of gebiedsdeel | Maximumbedrag logieskosten in euro | Bedrag overige kosten in euro |
 | --- | --- | --- |
 | **Afghanistan** |   |   |
-| Kabul | 183 | 99 |
-| Overige | **50** | **27** |
+| Kabul | 193 | 105 |
+| Overige | 53 | 29 |
 | **Albanië** |   |   |
-| Tirana | **151** | **93** |
-| Overige | 86 | 41 |
+| Tirana | 160 | 98 |
+| Overige | 90 | 43 |
 | **Algerije** |   |   |
-| Algiers | **332** | **119** |
-| Overige | **273** | **76** |
+| Algiers | **321** | 127 |
+| Overige | **227** | 84 |
 | **Amerikaans-Samoa** |   |   |
-| Alle steden | **134** | **79** |
+| Alle steden | 142 | 83 |
 | **Angola** |   |   |
-| Luanda | **385** | **138** |
-| Overige | **203** | **69** |
+| Luanda | 407 | 146 |
+| Overige | 215 | 73 |
 | **Anguilla** |   |   |
-| Alle steden | 264 | 137 |
+| Alle steden | 280 | 145 |
 | **Antigua en Barbuda** |   |   |
-| Alle steden | **192** | 128 |
+| Alle steden | 203 | 135 |
 | **Argentinië** |   |   |
-| Buenos Aires | **231** | **109** |
-| Overige | **188** | **61** |
+| Buenos Aires | **170** | **74** |
+| Overige | **168** | 69 |
 | **Armenië** |   |   |
-| Yerevan | **85** | **78** |
-| Overige | **59** | **54** |
+| Yerevan | 93 | **59** |
+| Overige | 75 | **44** |
 | **Aruba** |   |   |
-| Alle steden | 244 | 132 |
+| Alle steden | 258 | 139 |
 | **Australië** |   |   |
-| Canberra, Melbourne en Sydney | **145** | 97 |
-| Overige | **123** | **72** |
+| Canberra, Melbourne en Sydney | 148 | 99 |
+| Overige | 127 | 75 |
 | **Azerbeidzjan** |   |   |
-| Bakoe | **159** | **86** |
-| Overige | **85** | **49** |
+| Bakoe | 168 | 91 |
+| Overige | 89 | 52 |
 | **Bahama's** |   |   |
-| Alle steden | 247 | 152 |
+| Alle steden | 262 | 160 |
 | **Bahrein** |   |   |
-| Manama | **222** | **110** |
+| Manama | **219** | 140 |
 | **Bangladesh** |   |   |
-| Dhaka | **213** | **105** |
-| Overige | **120** | 36 |
+| Dhaka | 218 | 118 |
+| Overige | 126 | 38 |
 | **Barbados** |   |   |
-| Alle steden | 232 | 182 |
+| Alle steden | 245 | 192 |
 | **Belarus** |   |   |
-| Minsk | **104** | **78** |
-| Overige | **122** | **52** |
+| Minsk | 116 | 91 |
+| Overige | **113** | 55 |
 | **België** |   |   |
-| Alle steden | 184 | 122 |
+| Alle steden | **177** | 123 |
 | **Belize** |   |   |
-| Belize-Stad | **127** | **95** |
-| Overige | 303 | 151 |
+| Belize-Stad | 134 | 101 |
+| Overige | 320 | 160 |
 | **Benin** |   |   |
-| Cotonou | **141** | 86 |
-| Overige | **94** | 41 |
+| Cotonou | 141 | 86 |
+| Overige | 94 | 41 |
 | **Bermuda** |   |   |
-| Alle steden | **338** | **121** |
+| Alle steden | 358 | 128 |
 | **Bhutan** |   |   |
-| Thimphu | **229** | **66** |
-| Overige | **194** | 41 |
+| Thimphu | 242 | 70 |
+| Overige | 205 | 43 |
 | **Bolivia** |   |   |
-| La Paz | 104 | 61 |
-| Overige | 99 | 48 |
+| La Paz | 110 | 65 |
+| Overige | 104 | 50 |
 | **Bonaire** |   |   |
-| Alle steden | 146 | 90 |
+| Alle steden | 155 | 95 |
 | **Bosnië en Herzegovina** |   |   |
-| Sarajevo | 76 | 73 |
-| Banja Luka | 56 | 42 |
-| Mostar | 48 | 58 |
-| Travnik | 66 | 35 |
-| Overige | 48 | 39 |
+| Sarajevo | 80 | 77 |
+| Banja Luka | 59 | 44 |
+| Mostar | 50 | 61 |
+| Travnik | 69 | 37 |
+| Overige | 50 | 41 |
 | **Botswana** |   |   |
-| Gaborone | 165 | 68 |
-| Overige | 143 | 54 |
+| Gaborone | 180 | 74 |
+| Overige | 156 | 59 |
 | **Brazilië** |   |   |
-| Brasilia | 116 | 46 |
-| Belem | 90 | 47 |
-| Belo Horizonte | 79 | 41 |
-| Campinas | 85 | 40 |
-| Cuiaba | 78 | 46 |
-| Curitiba | 74 | 44 |
-| Fortaleza | 92 | 42 |
-| Manaus | 79 | 43 |
-| Palmas | 84 | 40 |
-| Porto Allegre | 71 | 38 |
-| Recife | 88 | 38 |
-| Rio De Janeiro | 149 | 56 |
-| Salvador | 79 | 43 |
-| Sao Luis | 74 | 49 |
-| Sao Paulo | 139 | 52 |
-| Overige | 73 | 35 |
+| Brasilia | 125 | 49 |
+| Belem | 97 | 50 |
+| Belo Horizonte | 85 | 44 |
+| Campinas | 92 | 43 |
+| Cuiaba | 85 | 50 |
+| Curitiba | 81 | 47 |
+| Fortaleza | 100 | 45 |
+| Manaus | 86 | 46 |
+| Palmas | 91 | 43 |
+| Porto Allegre | 77 | 42 |
+| Recife | 95 | 41 |
+| Rio De Janeiro | 161 | 61 |
+| Salvador | 85 | 46 |
+| Sao Luis | 79 | 53 |
+| Sao Paulo | 151 | 57 |
+| Overige | 79 | 38 |
 | **Brunei** |   |   |
-| Alle steden | 111 | 53 |
+| Alle steden | **110** | **52** |
 | **Bulgarije** |   |   |
-| Sofia | 126 | 57 |
-| Burgas, Plovdiv, Stara Zagora en Varna | 57 | 38 |
-| Overige | 42 | 32 |
+| Sofia | **124** | 62 |
+| Burgas, Plovdiv, Stara Zagora en Varna | **55** | 38 |
+| Overige | **35** | **31** |
 | **Burkina Faso** |   |   |
-| Ouagadougou | **197** | **89** |
-| Overige | **62** | **53** |
+| Ouagadougou | 197 | 89 |
+| Overige | 62 | 53 |
 | **Burundi** |   |   |
-| Bujumbura | 135 | 86 |
-| Overige | 115 | 65 |
+| Bujumbura | 143 | 91 |
+| Overige | 122 | **46** |
 | **Cambodja** |   |   |
-| Phnom-Penh | **207** | **102** |
-| Overige | **227** | **52** |
+| Phnom-Penh | **190** | **90** |
+| Overige | 240 | 61 |
 | **Canada** |   |   |
-| Ottawa | 172 | 119 |
-| Calgary | **151** | 97 |
-| Halifax | **123** | 109 |
-| Montreal | 153 | **98** |
-| Toronto | 190 | 107 |
-| Vancouver | 192 | 113 |
-| Overige | 119 | 90 |
+| Ottawa | 175 | 121 |
+| Calgary | 154 | 98 |
+| Halifax | 125 | 111 |
+| Montreal | 156 | 100 |
+| Toronto | 194 | 109 |
+| Vancouver | 196 | 115 |
+| Overige | 121 | 91 |
 | **Canarische Eilanden** |   |   |
 | Alle steden | 94 | 63 |
 | **Centraal-Afrikaanse Republiek** |   |   |
-| Bangui | **147** | **120** |
-| Overige | 31 | 29 |
+| Bangui | 148 | 121 |
+| Overige | 31 | **28** |
 | **Chili** |   |   |
-| Santiago | **151** | **78** |
-| Overige | 134 | 58 |
+| Santiago | 159 | 82 |
+| Overige | 143 | 62 |
 | **China** |   |   |
-| Peking | **123** | **122** |
-| Changchun | **143** | **62** |
-| Changsha | **106** | **74** |
-| Chengdu | **217** | **78** |
-| Dalian | **118** | **109** |
-| Fuzhou | **139** | **92** |
-| Guangzhou | **111** | **116** |
-| Guilin | **127** | **92** |
-| Guiyang | **125** | **65** |
-| Haikou | **233** | **115** |
-| Hangzhou | **203** | **119** |
-| Jinan | **128** | **93** |
-| Kunming | **169** | **91** |
-| Lhasa | **149** | **88** |
-| Nanjing | **110** | **93** |
-| Nanning | **133** | **66** |
-| Quingdao | **136** | **103** |
-| Sanya | **130** | **94** |
-| Shanghai | **206** | **126** |
-| Shenyang | **122** | **99** |
-| Shenzhen | **194** | **109** |
-| Suzhou | **136** | **116** |
-| Taiyuan | **121** | **99** |
-| Tianjin | **152** | **110** |
-| Urumuqi | **115** | **80** |
-| Wu Han | **122** | **81** |
-| Xi'An | **121** | **84** |
-| Xiamen | **175** | **107** |
-| Yanji | **129** | **73** |
-| Zhengzhou | **141** | **98** |
-| Overige | **109** | **56** |
+| Peking | 123 | **93** |
+| Changsha | **90** | **68** |
+| Chengdu | **121** | 84 |
+| Dalian | **95** | **91** |
+| Fuzhou | **114** | 93 |
+| Guangzhou | 116 | **91** |
+| Haikou | **127** | **103** |
+| Hangzhou | **121** | **81** |
+| Jinan | **89** | **73** |
+| Kunming | **136** | **80** |
+| Lhasa | **132** | **74** |
+| Nanjing | **78** | **75** |
+| Nanning | **105** | **64** |
+| Quingdao | **126** | **71** |
+| Sanya | **104** | **82** |
+| Shanghai | **142** | **84** |
+| Shenyang | **98** | **83** |
+| Shenzhen | **133** | **75** |
+| Suzhou | **102** | **71** |
+| Tianjin | **92** | **82** |
+| Wu Han | **90** | **70** |
+| Xi'An | **109** | **82** |
+| Xiamen | **87** | **83** |
+| Overige | **75** | 59 |
 | **China, Hong Kong** |   |   |
-| Hong Kong | **188** | **160** |
+| Hong Kong | 223 | **131** |
 | **China, Macau** |   |   |
-| Macau | **143** | **74** |
+| Macau | 147 | 83 |
 | **Colombia** |   |   |
-| Bogotá | 111 | 32 |
-| Overige | 99 | 26 |
+| Bogotá | 118 | 34 |
+| Overige | 105 | 27 |
 | **Comoren** |   |   |
-| Moroni | 108 | 82 |
-| Overige | **50** | 63 |
+| Moroni | 109 | 82 |
+| Overige | 50 | 63 |
 | **Congo-Brazaville** |   |   |
-| Brazzaville | **280** | **133** |
-| Overige | **265** | **81** |
+| Brazzaville | 281 | 133 |
+| Overige | 265 | 81 |
 | **Congo-Kinshasa** |   |   |
-| Kinshasa | **242** | **125** |
-| Overige | **137** | **65** |
+| Kinshasa | 255 | 132 |
+| Overige | 146 | 65 |
 | **Cookeilanden** |   |   |
-| Rarotonga | **201** | **118** |
-| Overige | **95** | **102** |
+| Rarotonga | **187** | **110** |
+| Overige | 135 | **101** |
 | **Costa Rica** |   |   |
-| San José | 107 | 81 |
-| Overige | **122** | 64 |
+| San José | 114 | 86 |
+| Overige | 129 | 68 |
 | **Cuba** |   |   |
-| Havana | 155 | **58** |
-| Overige | 115 | **46** |
+| Havana | 164 | 62 |
+| Overige | 121 | 49 |
 | **Curaçao** |   |   |
-| Alle steden | 188 | 116 |
+| Alle steden | 199 | 122 |
 | **Cyprus** |   |   |
-| Nicosia | **89** | **60** |
-| Overige | 110 | **62** |
+| Nicosia | 89 | 60 |
+| Overige | 110 | 62 |
 | **Denemarken** |   |   |
-| Alle steden | **149** | **148** |
+| Alle steden | 153 | 172 |
 | **Djibouti** |   |   |
-| Djibouti | **246** | **111** |
-| Overige | 60 | **46** |
+| Djibouti | 260 | 118 |
+| Overige | 64 | 49 |
 | **Dominica** |   |   |
-| Alle steden | 184 | 122 |
+| Alle steden | 194 | 129 |
 | **Dominicaanse Republiek** |   |   |
-| Santo Domingo | **196** | **81** |
-| Overige | **210** | **42** |
+| Santo Domingo | **144** | 100 |
+| Overige | 216 | 51 |
 | **Duitsland** |   |   |
-| Berlijn | 146 | 119 |
-| Bonn | 110 | 101 |
-| Hamburg | 141 | 125 |
-| München | 192 | 103 |
-| Overige | 103 | 88 |
+| Berlijn | **135** | 129 |
+| Bonn | 124 | 105 |
+| Hamburg | 166 | **102** |
+| München | **162** | 104 |
+| Overige | 107 | **87** |
 | **Ecuador** |   |   |
-| Quito | **319** | **114** |
-| Overige | **324** | **86** |
+| Quito | 360 | 171 |
+| Overige | 324 | 91 |
 | **Egypte** |   |   |
-| Caïro | **153** | **98** |
-| Overige | **137** | **67** |
+| Caïro | 162 | 104 |
+| Overige | 144 | 71 |
 | **El Salvador** |   |   |
-| San Salvador | **125** | 80 |
-| Overige | 53 | 48 |
+| San Salvador | 132 | 84 |
+| Overige | 56 | 51 |
 | **Equatoriaal-Guinea** |   |   |
-| Malabo | **325** | **100** |
-| Overige | **155** | **45** |
+| Malabo | 326 | 100 |
+| Overige | 155 | 46 |
 | **Eritrea** |   |   |
-| Asmara | **70** | **120** |
-| Overige | **74** | **97** |
+| Asmara | 73 | 149 |
+| Overige | **60** | 114 |
 | **Estland** |   |   |
 | Tallinn | 97 | 109 |
 | Overige | 81 | 103 |
 | **Ethiopië** |   |   |
-| Addis Abeba | **298** | 107 |
-| Overige | **159** | **42** |
+| Addis Abeba | 315 | 113 |
+| Overige | 168 | 45 |
 | **Fiji** |   |   |
-| Suva | 318 | 131 |
-| Overige | 225 | 78 |
+| Suva | 328 | 135 |
+| Overige | 232 | 80 |
 | **Filipijnen** |   |   |
-| Manila | **206** | **121** |
-| Overige | **128** | **35** |
+| Manila | 405 | **111** |
+| Overige | 166 | 45 |
 | **Finland** |   |   |
 | Helsinki | 159 | 130 |
 | Overige | 136 | 125 |
@@ -3362,566 +3355,561 @@ Dit besluit berust op [artikel 47, eerste lid, van de Politiewet 2012](https://w
 | Parijs | 169 | 138 |
 | Overige | 147 | 111 |
 | **Gabon** |   |   |
-| Libreville | **296** | **160** |
-| Overige | **215** | **67** |
+| Libreville | **294** | **159** |
+| Overige | 215 | 67 |
 | **Gambia** |   |   |
-| Banjul | 253 | 100 |
-| Overige | **44** | **22** |
+| Banjul | 268 | 106 |
+| Overige | 47 | 24 |
 | **Georgië** |   |   |
-| Tbilisi | **192** | **91** |
-| Bakuriani | **102** | **63** |
-| Batumi | **142** | 71 |
-| Kobuleti | **129** | **61** |
-| Overige | 99 | 58 |
+| Tbilisi | 203 | 96 |
+| Bakuriani | 107 | 66 |
+| Batumi | 151 | 75 |
+| Kobuleti | 137 | 65 |
+| Overige | 105 | 62 |
 | **Ghana** |   |   |
-| Accra | **385** | **138** |
-| Overige | **303** | **82** |
+| Accra | **306** | 145 |
+| Overige | **287** | 118 |
 | **Gibraltar** |   |   |
-| Alle steden | **241** | **142** |
+| Alle steden | 281 | **96** |
 | **Grenada** |   |   |
-| Alle steden | 242 | **142** |
+| Alle steden | 256 | 150 |
 | **Griekenland** |   |   |
-| Athene | 137 | 99 |
-| Thessaloniki | 92 | 59 |
-| Overige | 80 | 51 |
+| Athene | **133** | **96** |
+| Thessaloniki | **78** | **57** |
+| Overige | **78** | **50** |
 | **Groot-Brittannië (en Noord-Ierland)** |   |   |
-| Londen | **226** | **112** |
-| Overige | **192** | 108 |
+| Londen | **218** | **108** |
+| Overige | **185** | **104** |
 | **Guam** |   |   |
-| Alle steden | **156** | **100** |
+| Alle steden | 246 | 116 |
 | **Guatemala** |   |   |
-| Guatemala-Stad | **142** | **103** |
-| Overige | **179** | **75** |
+| Guatemala-Stad | 165 | 110 |
+| Overige | 191 | 82 |
 | **Guinee** |   |   |
-| Conakry | 229 | 153 |
-| Overige | 56 | 63 |
+| Conakry | 242 | 161 |
+| Overige | 59 | 67 |
 | **Guinee-Bissau** |   |   |
-| Bissau | **89** | **35** |
-| Overige | **36** | **26** |
+| Bissau | 89 | 35 |
+| Overige | 36 | 26 |
 | **Guyana** |   |   |
-| Georgetown | **230** | **109** |
-| Overige | **88** | **57** |
+| Georgetown | 243 | 115 |
+| Overige | 93 | 60 |
 | **Haïti** |   |   |
-| Port-au-Prince | 189 | **75** |
-| Overige | 124 | 47 |
+| Port-au-Prince | 200 | 79 |
+| Overige | 131 | 47 |
 | **Honduras** |   |   |
-| Tegucigalpa | 116 | 68 |
-| Copán | 100 | 54 |
-| La Ceiba | **71** | **51** |
-| Roatan | 129 | 79 |
-| San Pedro Sula | 104 | 64 |
-| Overige | **55** | 35 |
+| Tegucigalpa | 123 | 72 |
+| Copán | 105 | 57 |
+| La Ceiba | 74 | 54 |
+| Roatan | 136 | 84 |
+| San Pedro Sula | 110 | 68 |
+| Overige | 58 | 37 |
 | **Hongarije** |   |   |
-| Boedapest | 179 | 85 |
-| Balaton | 116 | 50 |
-| Visegrad | 106 | 48 |
-| Overige | **90** | **45** |
+| Boedapest | 189 | 89 |
+| Balaton | 123 | 53 |
+| Visegrad | 112 | 51 |
+| Overige | 96 | 47 |
 | **Ierland** |   |   |
 | Alle steden | 152 | 105 |
 | **IJsland** |   |   |
-| Alle steden | 200 | 108 |
+| Alle steden | 240 | 130 |
 | **India** |   |   |
-| New Delhi | 177 | 91 |
-| Agra | 96 | 52 |
-| Bangalore | 168 | 76 |
-| Bhopal | 92 | 47 |
-| Calcutta | 121 | **65** |
-| Chennai | **112** | **58** |
-| Goa | 142 | 59 |
-| Hyderabad | **127** | **60** |
-| Jaipur | 104 | 54 |
-| Lucknow | 83 | 55 |
-| Mumbai | 194 | 109 |
-| Pune | 98 | 47 |
-| Srinagar | 210 | 79 |
-| Udaipur | 116 | 55 |
-| Overige | 87 | **41** |
+| New Delhi | 186 | 96 |
+| Agra | 101 | 54 |
+| Bangalore | 176 | 80 |
+| Bhopal | 96 | 50 |
+| Calcutta | 127 | 69 |
+| Chennai | 118 | 61 |
+| Goa | 150 | 62 |
+| Hyderabad | 133 | 63 |
+| Jaipur | 109 | 57 |
+| Lucknow | 87 | 58 |
+| Mumbai | 205 | 115 |
+| Pune | 104 | 49 |
+| Srinagar | 222 | 83 |
+| Udaipur | 121 | 58 |
+| Overige | 92 | 43 |
 | **Indonesië** |   |   |
-| Jakarta | 208 | 94 |
-| Ambon | 66 | **35** |
-| Balik Papan | 68 | 40 |
-| Bandung | 97 | 62 |
-| Bogor | 104 | 54 |
-| Denpasar | **246** | **97** |
-| Jayapura | **77** | 38 |
-| Makassar | 67 | 57 |
-| Medan | 67 | **48** |
-| Menado | **57** | **46** |
-| Nusa Dua | **194** | 140 |
-| Padang | **108** | **30** |
-| Palangkaraya | 98 | 42 |
-| Senggigi | 124 | 73 |
-| Surabaya | 163 | **67** |
-| Yogyakarta | **79** | **39** |
-| Overige | 56 | **33** |
+| Jakarta | 219 | 99 |
+| Ambon | 69 | 37 |
+| Balik Papan | 73 | 43 |
+| Bandung | 103 | 66 |
+| Bogor | 110 | 57 |
+| Denpasar | 260 | 102 |
+| Jayapura | 81 | 40 |
+| Makassar | 70 | 60 |
+| Medan | 71 | 51 |
+| Menado | 60 | 49 |
+| Nusa Dua | 204 | 148 |
+| Padang | 114 | 31 |
+| Palangkaraya | 103 | 45 |
+| Senggigi | 131 | 77 |
+| Surabaya | 172 | 71 |
+| Yogyakarta | 84 | 42 |
+| Overige | 59 | 34 |
 | **Irak** |   |   |
-| Bagdad | **134** | **82** |
-| Overige | **259** | **55** |
+| Bagdad | 278 | 144 |
+| Overige | **231** | 88 |
 | **Iran** |   |   |
-| Tehran | 180 | 68 |
-| Overige | 108 | 46 |
+| Tehran | **148** | **55** |
+| Overige | **89** | **38** |
 | **Israël** |   |   |
-| Tel Aviv | **249** | **118** |
-| Eilat | **178** | **84** |
-| Haifa | **197** | **106** |
-| Herzliya | **203** | **101** |
-| Jerusalem | **172** | **106** |
-| Tiberias | **203** | **119** |
-| Overige | **162** | **95** |
+| Tel Aviv | **238** | 123 |
+| Eilat | 202 | 84 |
+| Haifa | **191** | 108 |
+| Herzliya | **165** | **75** |
+| Jerusalem | **165** | **101** |
+| Tiberias | **189** | **61** |
+| Overige | **157** | **92** |
 | **Italië** |   |   |
-| Rome | 142 | 121 |
-| Bologna | 127 | 104 |
-| Florence | 126 | 84 |
-| Milaan | 127 | 117 |
-| Napels | 147 | 90 |
-| Palermo | 137 | 112 |
-| Trieste | 86 | 124 |
-| Turijn | 154 | 83 |
-| Venetië | 156 | 113 |
+| Rome | **134** | 139 |
+| Bologna | **113** | **100** |
+| Florence | 129 | **82** |
+| Milaan | **121** | **107** |
+| Napels | 154 | 90 |
+| Palermo | 145 | 113 |
+| Triëst | 86 | 124 |
+| Turijn | 123 | 96 |
+| Venetië | 185 | 123 |
 | Overige | 70 | 76 |
 | **Ivoorkust** |   |   |
-| Abidjan | **212** | **187** |
-| Overige | **112** | **67** |
+| Abidjan | 263 | **142** |
+| Overige | 140 | 80 |
 | **Jamaica** |   |   |
-| Kingston | **179** | **101** |
-| Overige | **172** | **92** |
+| Kingston | 189 | 107 |
+| Overige | 181 | 97 |
 | **Japan** |   |   |
-| Tokyo | 173 | 102 |
-| Fukuoka | 115 | 106 |
-| Kobe | 102 | **87** |
-| Kyoto | 139 | 109 |
-| Nagoya | 129 | **93** |
-| Osaka | 135 | 101 |
-| Yokohama | 129 | **119** |
-| Overige | 88 | 88 |
+| Tokyo | **161** | **95** |
+| Fukuoka | **107** | **98** |
+| Kobe | **95** | **81** |
+| Kyoto | **130** | **102** |
+| Nagoya | **119** | **86** |
+| Osaka | **125** | **94** |
+| Yokohama | **120** | **110** |
+| Overige | **82** | **82** |
 | **Jemen** |   |   |
-| Sanaa | **172** | **89** |
-| Overige | **92** | **54** |
+| Sanaa | 182 | 94 |
+| Overige | 97 | 57 |
 | **Jordanië** |   |   |
-| Amman | **192** | 199 |
-| Overige | **172** | 73 |
+| Amman | 204 | 211 |
+| Overige | **165** | 76 |
 | **Kaaimaneilanden** |   |   |
-| Alle steden | **276** | **76** |
+| Alle steden | 291 | 80 |
 | **Kaapverdië** |   |   |
-| Praia | **96** | **82** |
+| Praia | 96 | 82 |
 | Overige | 115 | 76 |
 | **Kameroen** |   |   |
-| Yaounde | **154** | **107** |
-| Overige | **90** | 57 |
+| Yaounde | 154 | 107 |
+| Overige | 90 | **56** |
 | **Kazachstan** |   |   |
-| Astana | **170** | **128** |
-| Aktau | **131** | **91** |
-| Almaty | **195** | **130** |
-| Borovoye | **111** | **80** |
-| Qyzylorda | **93** | **79** |
-| Semipalatinsk | **87** | **74** |
-| Ust-Kamenogorsk | **89** | **76** |
-| Overige | **76** | **67** |
+| Astana | 314 | **118** |
+| Aktau | 204 | **77** |
+| Aktobe | **74** | **53** |
+| Almaty | 267 | 100 |
+| Atyrau | 265 | 100 |
+| Schuchinsk-Burabay | 121 | 77 |
+| Shymkent | 218 | 71 |
+| Ust-Kamenogorsk | **66** | **54** |
+| Overige | **53** | **53** |
 | **Kenia** |   |   |
-| Nairobi | **251** | **109** |
-| Overige | 299 | 54 |
+| Nairobi | 265 | 115 |
+| Overige | 316 | 57 |
 | **Kirgistan** |   |   |
-| Bishkek | **267** | **91** |
-| Overige | **104** | **32** |
+| Bishkek | 333 | 97 |
+| Overige | 109 | 32 |
 | **Kiribati** |   |   |
-| Kiritimati (Christmaseiland) | **118** | **36** |
-| Overige | **72** | **39** |
+| Kiritimati (Christmaseiland) | 122 | 37 |
+| Overige | 75 | 40 |
 | **Koeweit** |   |   |
-| Koeweit-Stad | **279** | 193 |
+| Koeweit-Stad | 294 | 204 |
 | **Kroatië** |   |   |
-| Zagreb | **129** | 119 |
-| Brijuni | 170 | 61 |
-| Dubrovnik | 152 | 72 |
-| Opatija | 98 | 58 |
-| Split | **138** | **68** |
-| Zadar | **127** | **57** |
-| Overige | **75** | **44** |
+| Zagreb | 137 | 126 |
+| Brijuni | 179 | 64 |
+| Dubrovnik | 162 | 77 |
+| Opatija | 104 | 61 |
+| Split | 146 | 72 |
+| Zadar | 134 | 61 |
+| Overige | 79 | 47 |
 | **Laos** |   |   |
-| Vientiane | **117** | **61** |
-| Overige | 125 | 40 |
+| Vientiane | 124 | 64 |
+| Overige | 132 | 42 |
 | **Lesotho** |   |   |
-| Maseru | **146** | **57** |
-| Overige | **119** | 38 |
+| Maseru | 171 | 67 |
+| Overige | 139 | 44 |
 | **Letland** |   |   |
-| Riga | **105** | **67** |
-| Overige | 64 | 55 |
+| Riga | 109 | 67 |
+| Overige | 84 | 69 |
 | **Libanon** |   |   |
-| Beiroet | **202** | **134** |
-| Overige | **171** | **62** |
+| Beiroet | 213 | 142 |
+| Overige | 180 | 66 |
 | **Liberia** |   |   |
-| Monrovia | **151** | **85** |
-| Overige | **47** | **30** |
+| Monrovia | 160 | 90 |
+| Overige | 50 | 32 |
 | **Libië** |   |   |
-| Tripoli | **219** | **82** |
-| Overige | **99** | **58** |
+| Tripoli | 231 | 87 |
+| Overige | 105 | 62 |
 | **Litouwen** |   |   |
 | Vilnius | 107 | 66 |
 | Overige | 71 | 42 |
 | **Luxemburg** |   |   |
-| Alle steden | 159 | 101 |
+| Alle steden | 166 | 102 |
 | **Maagdeneilanden (Amerikaanse)** |   |   |
-| Alle steden | **302** | **125** |
+| Alle steden | 361 | 142 |
 | **Maagdeneilanden (Britse)** |   |   |
-| Alle steden | 215 | 121 |
+| Alle steden | 226 | 128 |
 | **Macedonië** |   |   |
-| Skopje | **88** | **61** |
-| Mavrovo | **40** | **47** |
-| Ohrid | **43** | **43** |
-| Overige | **31** | 23 |
+| Skopje | 93 | 64 |
+| Mavrovo | 44 | 36 |
+| Ohrid | 45 | 51 |
+| Overige | 33 | 24 |
 | **Madagascar** |   |   |
-| Antananarivo | **125** | **54** |
-| Overige | 148 | **39** |
+| Antananarivo | 133 | 57 |
+| Overige | 156 | 41 |
 | **Malawi** |   |   |
-| Lilongwe | **120** | **47** |
-| Overige | **180** | **51** |
+| Lilongwe | 127 | 50 |
+| Overige | 190 | 54 |
 | **Malediven** |   |   |
-| Malé | **171** | **105** |
-| Overige | **372** | **125** |
+| Malé | 181 | 111 |
+| Overige | 392 | 132 |
 | **Maleisië** |   |   |
-| Kuala Lumpur | 97 | 65 |
-| Overige | 95 | 46 |
+| Kuala Lumpur | **93** | **62** |
+| Overige | **92** | **44** |
 | **Mali** |   |   |
-| Bamako | **186** | **54** |
-| Overige | 49 | **57** |
+| Bamako | **130** | 106 |
+| Overige | **46** | 59 |
 | **Malta** |   |   |
-| Alle steden | 126 | 116 |
+| Alle steden | 167 | **103** |
 | **Marokko** |   |   |
-| Rabat | 218 | 95 |
-| Overige | **295** | **91** |
+| Rabat | 222 | 96 |
+| Overige | 302 | 93 |
 | **Marshall Eilanden** |   |   |
-| Majuro | **113** | **75** |
-| Overige | **112** | **82** |
+| Majuro | 119 | 79 |
+| Overige | 118 | 86 |
 | **Mauritanië** |   |   |
-| Nouakchott | **106** | **70** |
-| Overige | **43** | **37** |
+| Nouakchott | 112 | 75 |
+| Overige | 45 | 39 |
 | **Mauritius** |   |   |
-| Port Louis | **121** | 71 |
-| Overige | **74** | **45** |
+| Port Louis | 126 | 74 |
+| Overige | 76 | 47 |
 | **Mexico** |   |   |
-| Mexico-Stad | **192** | **95** |
-| Overige | **217** | **79** |
+| Mexico-Stad | 226 | 98 |
+| Overige | **198** | 79 |
 | **Micronesië** |   |   |
-| Truk | **101** | **86** |
-| Overige | **141** | **60** |
+| Truk | 108 | 91 |
+| Overige | 149 | 64 |
 | **Moldavië** |   |   |
-| Chisinau | 125 | **49** |
-| Overige | **60** | 45 |
+| Chisinau | 132 | 52 |
+| Overige | 63 | 48 |
 | **Monaco** |   |   |
 | Alle steden | 200 | 91 |
 | **Mongolië** |   |   |
-| Ulan Bator | **115** | **62** |
-| Overige | **27** | **36** |
+| Overige | 122 | 54 |
 | **Montenegro** |   |   |
-| Podgorica | 84 | 43 |
-| Bar, Budva, Kotor, Milocer, Petrovac, Tivat, Herceg Novi en Ulcinj | 90 | 41 |
-| Kolasin | 74 | 42 |
-| Overige | 50 | 23 |
+| Podgorica | 84 | 46 |
+| Bar, Becici, Budva, Kotor, Milocer, Petrovac, Tivat, Herceg Novi en Ulcinj | **86** | **39** |
+| Kolasin | **63** | **39** |
+| Overige | 53 | 27 |
 | **Montserrat** |   |   |
-| Alle steden | **110** | 94 |
+| Alle steden | 116 | 99 |
 | **Mozambique** |   |   |
-| Maputo | **179** | **105** |
-| Overige | **212** | **90** |
+| Maputo | **142** | **84** |
+| Overige | 233 | **79** |
 | **Myanmar** |   |   |
-| Yangon | **151** | **68** |
-| Overige | **254** | 50 |
+| Yangon | 159 | 72 |
+| Overige | 269 | 52 |
 | **Namibië** |   |   |
-| Windhoek | **197** | **54** |
-| Overige | **122** | **35** |
+| Windhoek | 231 | 63 |
+| Overige | 143 | 41 |
 | **Nauru** |   |   |
-| Alle steden | **100** | 57 |
+| Alle steden | 104 | 58 |
 | **Nepal** |   |   |
-| Kathmandu | **173** | **102** |
-| Overige | **94** | **30** |
+| Kathmandu | 182 | 107 |
+| Overige | 99 | 32 |
 | **Nicaragua** |   |   |
-| Managua | **104** | **67** |
-| Overige | **109** | **39** |
+| Managua | 124 | 70 |
+| Overige | 100 | 52 |
+| **Nieuw-Caledonië** |   |   |
+| Alle steden | 124 | 83 |
 | **Nieuw-Zeeland** |   |   |
-| Auckland, Christchurch en Wellington | 179 | **114** |
-| Overige | 120 | 106 |
+| Auckland, Christchurch en Wellington | 186 | 119 |
+| Overige | 125 | 110 |
 | **Niger** |   |   |
-| Niamey | **156** | 100 |
-| Overige | **58** | 71 |
+| Niamey | 156 | 100 |
+| Overige | 58 | 71 |
 | **Nigeria** |   |   |
-| Abuja | **146** | **69** |
-| Overige | **228** | **41** |
+| Abuja | 160 | 83 |
+| Overige | 285 | 48 |
 | **Niue** |   |   |
-| Alle steden | 136 | 94 |
+| Alle steden | 116 | 102 |
 | **Noord-Korea** |   |   |
-| Pyongyang | **97** | **59** |
-| Overige | **67** | **48** |
+| Pyongyang | 103 | 63 |
+| Overige | 71 | 51 |
 | **Noorwegen** |   |   |
-| Alle steden | 125 | 129 |
+| Alle steden | 126 | 136 |
 | **Oeganda** |   |   |
-| Kampala | **348** | **112** |
-| Overige | **216** | **56** |
+| Kampala | 372 | 133 |
+| Overige | 246 | 63 |
 | **Oekraïne** |   |   |
-| Kiev | **227** | 123 |
-| Overige | **146** | **65** |
+| Kiev | 239 | 129 |
+| Overige | 155 | 69 |
 | **Oezbekistan** |   |   |
-| Tasjkent | **101** | **70** |
-| Overige | **82** | 38 |
+| Tasjkent | 114 | 86 |
+| Overige | 87 | **36** |
 | **Oman** |   |   |
-| Muscat | **179** | **101** |
-| Overige | **179** | 93 |
+| Muscat | 190 | 107 |
+| Overige | 189 | 98 |
 | **Oostenrijk** |   |   |
-| Alle steden | 102 | 119 |
+| Alle steden | 110 | 134 |
 | **Oost-Timor** |   |   |
-| Dili | **142** | **62** |
-| Overige | **70** | 33 |
+| Dili | 150 | 65 |
+| Overige | 74 | 35 |
 | **Pakistan** |   |   |
-| Islamabad | **206** | **81** |
-| Overige | **157** | **52** |
+| Islamabad | 218 | 86 |
+| Overige | 165 | 55 |
 | **Palau** |   |   |
-| Alle steden | **167** | **83** |
+| Alle steden | 177 | 88 |
 | **Panama** |   |   |
-| Panamá | **126** | 91 |
-| Overige | 201 | 70 |
+| Panamá | 133 | 96 |
+| Overige | 212 | 74 |
 | **Papoea-Nieuw-Guinea** |   |   |
-| Port Moresby | **196** | **67** |
-| Overige | **163** | **52** |
+| Port Moresby | 234 | 101 |
+| Overige | 196 | 57 |
 | **Paraguay** |   |   |
-| Asunción | **138** | **85** |
-| Overige | **124** | **62** |
+| Asunción | 146 | 89 |
+| Overige | 131 | 65 |
 | **Peru** |   |   |
-| Lima | **144** | 71 |
-| Overige | 109 | **53** |
+| Lima | 152 | 75 |
+| Overige | 115 | 56 |
 | **Polen** |   |   |
-| Warsaw | **162** | **95** |
-| Overige | **102** | **60** |
+| Warsaw | 171 | 100 |
+| Overige | 103 | 61 |
 | **Portugal** |   |   |
-| Lissabon | **103** | **107** |
+| Lissabon | 103 | 107 |
 | Overige | 46 | 78 |
 | **Puerto Rico** |   |   |
-| Alle steden | **264** | **114** |
+| Alle steden | 279 | 121 |
 | **Qatar** |   |   |
-| Doha | **206** | **137** |
+| Doha | 261 | 141 |
 | **Roemenië** |   |   |
-| Boekarest | 129 | 73 |
-| Brasov, Constanta, Mamaia en Timisoara | 93 | 59 |
-| Cluj en Sibiu | 83 | 51 |
-| Overige | **58** | **40** |
+| Boekarest | 136 | 77 |
+| Brasov, Constanta, Mamaia en Timisoara | 98 | 63 |
+| Cluj en Sibiu | 88 | 54 |
+| Overige | 61 | 42 |
 | **Rusland** |   |   |
-| Moskou | **257** | **158** |
-| Bashkortostan | **109** | **62** |
-| Irkoetsk | **143** | **80** |
-| Kamchatka | **103** | **63** |
-| Kazan | **152** | **72** |
-| Kemorovo, Perm en Saratov | **106** | **60** |
-| Krasnodar | **130** | **67** |
-| Moermansk | **127** | **63** |
-| Nizhny Novgorod | **115** | **57** |
-| Norilsk | **137** | **59** |
-| Novosibirsk | **110** | **50** |
-| Rostov | **193** | **66** |
-| Sakha | **155** | **58** |
-| Sochi | **204** | **73** |
-| St. Petersburg | **173** | **102** |
-| Syktyvkar | **163** | **74** |
-| Vladivostok | **125** | **62** |
-| Voronezh | **116** | **43** |
-| Overige | **84** | **42** |
+| Moskou | **179** | **74** |
+| Irkoetsk | **87** | **33** |
+| Kazan | **75** | **37** |
+| Norilsk | 145 | 63 |
+| Novosibirsk | 116 | 53 |
+| Rostov | 204 | 70 |
+| Sakha | **97** | **42** |
+| Sochi | **134** | **43** |
+| St. Petersburg | **140** | **58** |
+| Syktyvkar | **79** | **49** |
+| Vladivostok | 164 | 74 |
+| Overige | **69** | **37** |
 | **Rwanda** |   |   |
-| Kigali | 385 | 112 |
-| Overige | 263 | 72 |
+| Kigali | 293 | 115 |
+| Overige | 278 | **64** |
 | **Saba** |   |   |
-| Alle steden | **146** | **90** |
+| Alle steden | 155 | 95 |
 | **Salomons Eilanden** |   |   |
-| Honiara | 298 | 135 |
-| Overige | 106 | 67 |
+| Honiara | 315 | 143 |
+| Overige | 112 | 71 |
 | **Samoa** |   |   |
-| Apia, Upolu | 308 | 95 |
-| Overige | 305 | 73 |
+| Apia, Upolu | **167** | **72** |
+| Overige | **212** | **62** |
 | **Sao Tomé en Principe** |   |   |
-| Sao Tomé | **126** | **84** |
-| Overige | **58** | **42** |
+| Sao Tomé | 133 | 89 |
+| Overige | 62 | 45 |
 | **Saoedi-Arabië** |   |   |
-| Riyad | **204** | **136** |
-| Overige | **248** | **131** |
+| Riyad | 215 | 143 |
+| Overige | 262 | 138 |
 | **Senegal** |   |   |
-| Dakar | **111** | **98** |
-| Overige | **121** | **55** |
+| Dakar | 194 | 119 |
+| Overige | 174 | 65 |
 | **Servië** |   |   |
-| Belgrado | **100** | 61 |
-| Overige | **80** | 45 |
+| Belgrado | 105 | 64 |
+| Overige | 80 | 49 |
 | **Seychellen** |   |   |
-| Victoria | **209** | **90** |
-| Overige | **234** | **111** |
+| Victoria | **162** | 122 |
+| Overige | **144** | 132 |
 | **Sierra Leone** |   |   |
-| Freetown | **176** | **112** |
-| Overige | **49** | **41** |
+| Freetown | 186 | 119 |
+| Overige | 52 | 43 |
 | **Singapore** |   |   |
-| Alle steden | 228 | 129 |
+| Alle steden | **224** | **127** |
 | **Sint Eustatius** |   |   |
-| Alle steden | **146** | **90** |
+| Alle steden | 155 | 95 |
 | **Sint Maarten** |   |   |
-| Alle steden | **146** | **90** |
+| Alle steden | 155 | 95 |
 | **Slovenië** |   |   |
 | Ljubljana | 137 | 92 |
 | Bled | 137 | 92 |
 | Portoroz | 135 | 93 |
 | Overige | 117 | 66 |
 | **Slowakije** |   |   |
-| Bratislava | 111 | **74** |
+| Bratislava | 111 | 74 |
 | Overige | 79 | 51 |
 | **Soedan** |   |   |
-| Khartoum | **97** | **97** |
-| Overige | **108** | **59** |
+| Khartoum | 102 | 102 |
+| Overige | 114 | 62 |
 | **Somalië** |   |   |
-| Mogadishu | **111** | 68 |
-| Overige | 215 | 59 |
+| Mogadishu | 118 | 72 |
+| Overige | 227 | 63 |
 | **Spanje** |   |   |
 | Madrid | 139 | 97 |
 | Barcelona | 136 | 87 |
 | Overige | 102 | 74 |
 | **Sri Lanka** |   |   |
-| Colombo | **148** | 64 |
-| Overige | 151 | 36 |
+| Colombo | 156 | 67 |
+| Overige | 157 | 38 |
 | **St. Lucia** |   |   |
-| Alle steden | 151 | 138 |
-| **St. Vincent / Grenada** |   |   |
-| Alle steden | **138** | 108 |
+| Alle steden | 159 | 146 |
+| St. Vincent / Grenada |   |   |
+| Alle steden | 146 | 115 |
 | **St.Kitts / Nevis** |   |   |
-| Alle steden | 252 | 155 |
+| Alle steden | 266 | 163 |
 | **Suriname** |   |   |
-| Paramaribo | **114** | **52** |
-| Overige | **76** | 25 |
+| Paramaribo | 120 | 54 |
+| Overige | 81 | 26 |
 | **Swaziland** |   |   |
-| Mbabane | **92** | 40 |
-| Overige | **133** | 34 |
+| Mbabane | 102 | 48 |
+| Overige | 161 | 45 |
 | **Syrië** |   |   |
-| Damascus | **164** | **81** |
-| Overige | **112** | **39** |
+| Damascus | 174 | 86 |
+| Overige | 119 | 41 |
 | **Tadzjikistan** |   |   |
-| Dushanbe | **239** | **66** |
-| Overige | **52** | 24 |
+| Dushanbe | 253 | 69 |
+| Overige | 55 | 25 |
 | **Tanzania** |   |   |
-| Dar es Salaam | **193** | **87** |
-| Overige | **195** | **49** |
+| Dar es Salaam | 204 | 92 |
+| Overige | 239 | 53 |
 | **Thailand** |   |   |
-| Bangkok | 119 | 76 |
-| Overige | 157 | 57 |
+| Bangkok | 123 | 79 |
+| Overige | 163 | 59 |
 | **Togo** |   |   |
-| Lomé | **189** | **89** |
-| Overige | **44** | **27** |
+| Lomé | 189 | 89 |
+| Overige | 44 | 27 |
 | **Tokelau Eilanden** |   |   |
-| Alle steden | 27 | 17 |
+| Alle steden | 54 | 29 |
 | **Tonga** |   |   |
-| Nuku'Alofa | **119** | **54** |
-| Overige | **71** | **28** |
+| Nuku'Alofa | 128 | 58 |
+| Overige | 77 | 31 |
 | **Trinidad en Tobago** |   |   |
-| Trinidad | **170** | 133 |
-| Overige | **208** | 116 |
+| Trinidad | 179 | 141 |
+| Overige | 219 | 123 |
 | **Tsjaad** |   |   |
-| Ndjamena | **178** | 74 |
-| Overige | 51 | 42 |
+| Ndjamena | **98** | **57** |
+| Overige | 158 | 57 |
 | **Tsjechië** |   |   |
-| Praag | **152** | 72 |
-| Brno | **164** | **50** |
-| Cesky Krumlov | **133** | **89** |
-| Karlovy Vary | **157** | **78** |
-| Olomouc | **64** | **28** |
-| Ostrava | **159** | **49** |
-| Overige | **42** | **21** |
+| Praag | 162 | 77 |
+| Brno | 174 | 53 |
+| Cesky Krumlov | 141 | 94 |
+| Karlovy Vary | 165 | 82 |
+| Olomouc | 67 | 29 |
+| Ostrava | 168 | 52 |
+| Overige | 45 | 22 |
 | **Tunesië** |   |   |
-| Tunis | 86 | **53** |
-| Overige | **64** | **43** |
+| Tunis | 86 | 53 |
+| Overige | 64 | 43 |
 | **Turkije** |   |   |
-| Ankara | **90** | **63** |
-| Adana | **103** | 63 |
-| Afyon | **64** | **48** |
-| Antalya | **95** | **66** |
-| Bolu | 110 | 65 |
-| Bursa, Erzurum en Trabzon | **75** | **56** |
-| Diyarbakir | **62** | **57** |
-| Gaziantep | **65** | **53** |
-| Istanbul | **132** | **78** |
-| Izmir | **117** | **81** |
-| Kars | **78** | **50** |
-| Konya | **69** | **68** |
-| Urfa | **62** | **57** |
-| Overige | **52** | **44** |
+| Ankara | 95 | 66 |
+| Adana | 109 | 67 |
+| Afyon | 68 | 51 |
+| Antalya | 100 | 70 |
+| Bolu | 117 | 69 |
+| Bursa, Erzurum en Trabzon | 79 | 59 |
+| Diyarbakir | 66 | 61 |
+| Gaziantep | 69 | 56 |
+| Istanbul | 140 | 82 |
+| Izmir | 124 | 86 |
+| Kars | 83 | 53 |
+| Konya | 72 | 72 |
+| Urfa | 66 | 61 |
+| Overige | 55 | 47 |
 | **Turkmenistan** |   |   |
-| Asjchabad | **140** | **79** |
-| Overige | **73** | 37 |
+| Asjchabad | **124** | 110 |
+| Overige | 74 | 39 |
 | **Turks- en Caicos Eilanden** |   |   |
-| Grand Turk | 227 | 117 |
-| Overige | 349 | 130 |
+| Grand Turk | 239 | 124 |
+| Overige | 368 | 138 |
 | **Tuvalu** |   |   |
-| Alle steden | **142** | 46 |
+| Alle steden | 147 | 47 |
 | **Uruguay** |   |   |
-| Montevideo | **119** | **93** |
-| Colonia | **130** | **80** |
-| Punta Del Este | **394** | **121** |
-| Salto | **100** | **72** |
-| Overige | **81** | **63** |
+| Montevideo | 126 | 99 |
+| Colonia | 137 | 84 |
+| Punta Del Este | 416 | 128 |
+| Salto | 105 | 76 |
+| Overige | 86 | 67 |
 | **Vanuatu** |   |   |
-| Port Villa | 143 | 95 |
-| Overige | **174** | **66** |
+| Port Villa | 147 | 98 |
+| Overige | 180 | 69 |
 | **Venezuela** |   |   |
-| Caracas | **96** | **36** |
-| Overige | **104** | 23 |
+| Caracas | 101 | 38 |
+| Overige | 109 | 24 |
 | **Verenigde Arabische Emiraten** |   |   |
-| Abu Dhabi | 222 | **110** |
-| Overige | **215** | 114 |
+| Abu Dhabi | 235 | 116 |
+| Overige | 227 | 121 |
 | **Verenigde Staten van Amerika** |   |   |
-| Washington D.C. | **204** | **120** |
-| Boston | **255** | **96** |
-| Chicago | **248** | **84** |
-| Honolulu | **255** | **82** |
-| Los Angeles | **240** | **86** |
-| Miami | **231** | **78** |
-| New York | **345** | **123** |
-| Philadelphia | **219** | **86** |
-| San Francisco | **249** | **94** |
-| Overige | **177** | **73** |
+| Washington D.C. | 216 | 127 |
+| Boston | 269 | 101 |
+| Chicago | 263 | 89 |
+| Honolulu | 269 | 87 |
+| Los Angeles | 254 | 91 |
+| Miami | 244 | 83 |
+| New York | 365 | 131 |
+| Philadelphia | 231 | 91 |
+| San Francisco | 263 | 99 |
+| Overige | 187 | 77 |
 | **Vietnam** |   |   |
-| Hanoi | **91** | **58** |
-| Overige | **85** | **41** |
+| Hanoi | 97 | 62 |
+| Overige | 90 | 43 |
 | **Westbank en Gazastrook** |   |   |
-| Jericho | 136 | 67 |
-| Gazastrook | 97 | 68 |
-| Overige | 125 | 77 |
+| Jericho | 144 | 71 |
+| Gazastrook | 103 | 72 |
+| Overige | 133 | 81 |
 | **Westelijke Sahara** |   |   |
-| Laayoune | **66** | **56** |
+| Laayoune | 68 | 57 |
 | **Zambia** |   |   |
-| Lusaka | **293** | **85** |
-| Overige | **241** | **55** |
+| Lusaka | 309 | 90 |
+| Overige | 254 | 58 |
 | **Zimbabwe** |   |   |
-| Harare | **115** | **74** |
-| Overige | **198** | **67** |
+| Harare | 122 | 78 |
+| Overige | 209 | 71 |
 | **Zuid-Afrika** |   |   |
-| Pretoria | **95** | **39** |
-| Bloemfontein | **79** | 38 |
-| Kaapstad | **179** | **52** |
-| Durban | **172** | 59 |
-| East London | **90** | **37** |
-| Johannesburg | **120** | 43 |
-| Johannesburg-Sandton | **155** | **58** |
-| Magaliesburg/Muldersdrift | **137** | 47 |
-| Mmabatho | 94 | 35 |
-| Mthatha | **86** | **34** |
-| Musina | **74** | **38** |
-| Nelspruit | **78** | **37** |
-| Pietermaritzburg | 83 | 33 |
-| Polokwane | **71** | 42 |
-| Port Elizabeth | **92** | 42 |
-| Rustenburg | **92** | **43** |
-| Sun City | **185** | 51 |
-| Tzaneen | 74 | **33** |
-| Ulundi | **89** | **30** |
-| Uppington | **80** | **30** |
-| Overige | **54** | 32 |
-| **Zuid-Korea** |   |   |
-| Seoul | **186** | 178 |
-| Overige | **195** | 97 |
+| Pretoria | 112 | 46 |
+| Bloemfontein | 92 | 44 |
+| Kaapstad | 210 | 61 |
+| Durban | 201 | 69 |
+| East London | 106 | 44 |
+| Johannesburg | 140 | 50 |
+| Johannesburg-Sandton | 181 | 68 |
+| Magaliesburg/Muldersdrift | 160 | 54 |
+| Mmabatho | 109 | 41 |
+| Musina | 87 | 45 |
+| Nelspruit | 91 | 43 |
+| Pietermaritzburg | 96 | 38 |
+| Polokwane | 83 | 49 |
+| Port Elizabeth | 108 | 49 |
+| Rustenburg | 108 | 51 |
+| Sun City | 216 | 59 |
+| Tzaneen | 86 | 39 |
+| Ulundi | 104 | 35 |
+| Umtata | 100 | 39 |
+| Uppington | 94 | 35 |
+| Overige | 63 | 37 |
+| Zuid-Korea |   |   |
+| Seoul | 191 | 183 |
+| Overige | 200 | 100 |
 | **Zuid-Soedan** |   |   |
-| Juba | **167** | **66** |
-| Overige | **184** | **50** |
+| Juba | 176 | 69 |
+| Overige | 194 | 53 |
 | **Zweden** |   |   |
-| Stockholm | **226** | 138 |
-| Overige | **151** | 109 |
+| Stockholm | **223** | **137** |
+| Overige | **149** | **108** |
 | **Zwitserland** |   |   |
-| Alle steden | **209** | **128** |
+| Alle steden | 211 | 130 |
 
 ### Tarieflijst logies- en overige kosten bij dienstreizen buitenland
 
@@ -3941,7 +3929,7 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 ##### Artikel 31a. Tijdelijke tegemoetkoming dubbele woonlasten politiechef
 
-1. In aanvulling op [artikelen 29 tot en met 31](https://wetten.overheid.nl/jci1.3:c:BWBR0024064&artikel=29), omvat de verhuiskostenvergoeding in geval van dubbele woonlasten voor een politiechef van een regionale eenheid als bedoeld in [artikel 1, eerste lid, onderdeel h, van de Politiewet 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&artikel=1), welke tussen 1 januari 2013 en 1 januari 2014 een verzoek daartoe indient, een tegemoetkoming in de kosten voor de duur van ten hoogste twee jaar. Indien de politiechef voordat hij aanspraak maakt op deze tegemoetkoming, gebruik heeft gemaakt van de vergoeding van pensionkosten, bedoeld in [artikel 27, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024064&hoofdstuk=IV&artikel=27&z=2017-01-31&g=2017-04-01), wordt de periode waarin daarvan gebruik is gemaakt, in mindering gebracht op de in de eerste zin genoemde maximale duur. Deze periode wordt eerst in mindering gebracht op het eerste jaar, bedoeld in het tweede lid. Tevens vervalt het recht op de vergoeding voor pensionkosten.
+1. In aanvulling op [artikelen 29 tot en met 31](https://wetten.overheid.nl/jci1.3:c:BWBR0024064&artikel=29), omvat de verhuiskostenvergoeding in geval van dubbele woonlasten voor een politiechef van een regionale eenheid als bedoeld in [artikel 1, eerste lid, onderdeel h, van de Politiewet 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&artikel=1), welke tussen 1 januari 2013 en 1 januari 2014 een verzoek daartoe indient, een tegemoetkoming in de kosten voor de duur van ten hoogste twee jaar. Indien de politiechef voordat hij aanspraak maakt op deze tegemoetkoming, gebruik heeft gemaakt van de vergoeding van pensionkosten, bedoeld in [artikel 27, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024064&hoofdstuk=IV&artikel=27&z=2017-04-21&g=2017-04-21), wordt de periode waarin daarvan gebruik is gemaakt, in mindering gebracht op de in de eerste zin genoemde maximale duur. Deze periode wordt eerst in mindering gebracht op het eerste jaar, bedoeld in het tweede lid. Tevens vervalt het recht op de vergoeding voor pensionkosten.
 
 2. De tegemoetkoming bestaat uit het bedrag van de daadwerkelijk gemaakte kosten van de huisvesting en bedraagt het eerste jaar ten hoogste 18% en het tweede jaar ten hoogste 15% van de bezoldiging met een maximum van € 1.552,79 per maand.
 
