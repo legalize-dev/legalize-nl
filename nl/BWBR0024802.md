@@ -4,7 +4,7 @@ identifier: "BWBR0024802"
 country: "nl"
 rank: "kb"
 publication_date: "2019-01-01"
-last_updated: "2008-12-10"
+last_updated: "2017-04-25"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0024802"
 soort: "KB"
@@ -44,17 +44,23 @@ Hebben goedgevonden en verstaan:
 
 ##### Artikel 1
 
-Er is een regeringsprijs op het gebied van de homo-emancipatie, genaamd de Jos Brink homo-emancipatieprijs.
+1. Er is een regeringsprijs op het gebied van gelijke behandeling, gelijke rechten en gelijke kansen van en voor lesbische vrouwen, homoseksuele mannen, biseksuelen, transgenders en intersekse personen in de samenleving (LHBTI-gelijkheid), genaamd de Jos Brinkprijs.
+
+2. De Jos Brinkprijs kan worden toegekend in de vorm van een oeuvreprijs en in de vorm van een innovatieprijs.
 
 ##### Artikel 2
 
-1. De Jos Brink homo-emancipatieprijs kan eenmaal in de twee jaar worden toegekend aan een persoon, een groep of een instelling op grond van het leveren of hebben geleverd van een fundamentele bijdrage aan de verbetering van de positie van homoseksuelen in de samenleving.
+1. De Jos Brink oeuvreprijs kan eenmaal per twee jaar worden toegekend aan een persoon, een groep of een instelling die een fundamentele en langdurige bijdrage levert of heeft geleverd aan het proces van LHBTI-gelijkheid.
 
-2. De prijs bestaat uit een geldbedrag van € 10.000 en een kunstobject.
+2. De Jos Brink oeuvreprijs bestaat uit een geldbedrag van € 10.000 en een kunstobject.
+
+3. De Jos Brink innovatieprijs kan eenmaal per twee jaar worden toegekend aan een persoon, een groep of een instelling die zich recent op innovatieve of inspirerende wijze inzet of heeft ingezet voor het proces van LHBTI-gelijkheid.
+
+4. De Jos Brink innovatieprijs bestaat uit een geldbedrag van € 1.000.
 
 ##### Artikel 3
 
-1. De toekenning van de Jos Brink homo-emancipatieprijs geschiedt door Onze Minister van Onderwijs, Cultuur en Wetenschap, nadat hij daarover het advies heeft ingewonnen van een door hem benoemde onafhankelijke jury.
+1. De toekenning van de Jos Brinkprijs geschiedt door Onze Minister van Onderwijs, Cultuur en Wetenschap, nadat hij daarover het advies heeft ingewonnen van een door hem benoemde onafhankelijke jury.
 
 2. Hij kan daaromtrent nadere regels stellen.
 
@@ -64,6 +70,6 @@ Dit besluit treedt in werking met ingang van de tweede dag na de dagtekening van
 
 ##### Artikel 5
 
-Dit besluit wordt aangehaald als: Besluit instelling Jos Brink homo-emancipatieprijs.
+Dit besluit wordt aangehaald als: Besluit instelling Jos Brinkprijs.
 
 Onze Minister van Onderwijs, Cultuur en Wetenschap is belast met de uitvoering van dit besluit dat met de daarbij behorende nota van toelichting in de Staatscourant zal worden geplaatst en waarvan afschrift zal worden gezonden aan de Kamers der Staten-Generaal, aan de Algemene Rekenkamer en aan de executeur-testamentair van wijlen Jos Brink.
