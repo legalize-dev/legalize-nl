@@ -4,7 +4,7 @@ identifier: "BWBR0021255"
 country: "nl"
 rank: "amvb"
 publication_date: "2020-10-01"
-last_updated: "2016-10-06"
+last_updated: "2017-04-29"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0021255"
 soort: "AMvB"
@@ -74,9 +74,19 @@ Hebben goedgevonden en verstaan:
 
 - –. de ontvanger in het transplantatiecentrum te identificeren;
 
-- –. alle relevante niet-persoonlijke informatie met betrekking tot de producten en materialen die met het orgaan in aanraking komen, op te sporen en te indentificeren.
+- –. alle relevante niet-persoonlijke informatie met betrekking tot de producten en materialen die met het orgaan in aanraking komen, op te sporen en te indentificeren;
 
-2. In de [hoofdstukken 6](https://wetten.overheid.nl/jci1.3:c:BWBR0021255&hoofdstuk=6&z=2016-10-06&g=2016-10-06), [7](https://wetten.overheid.nl/jci1.3:c:BWBR0021255&hoofdstuk=7&z=2016-10-06&g=2016-10-06) en [8](https://wetten.overheid.nl/jci1.3:c:BWBR0021255&hoofdstuk=8&z=2016-10-06&g=2016-10-06) worden onder lichaamsmateriaal tevens begrepen uit weefsel of cellen bereide producten waarin geen menselijke cellen meer voorkomen.
+- j. **in circulatie brengen:** distribueren voor toepassing op de mens of overbrenging naar een andere instelling, bijvoorbeeld voor verdere bewerking al dan niet gevolgd door terugzending;
+
+- k. **leverancier uit een derde land:** een weefselinstelling of andere instantie die in een andere staat dan een lidstaat van de Europese Unie gevestigd is en die verantwoordelijk is voor de uitvoer naar de lidstaten van de Europese Unie van weefsels en cellen die zij aan een importerende weefselinstelling levert en die buiten de lidstaten van de Unie weefsels en cellen die in de lidstaten van de Europese Unie worden ingevoerd kan doneren, verkrijgen, testen, bewerken, preserveren, bewaren of distribueren;
+
+- l. **richtlijn 2006/86/EG:** Richtlijn 2006/86/EG van de Commissie van 24 oktober 2006 ter uitvoering van Richtlijn 2004/23/EG van het Europees Parlement en de Raad wat betreft traceerbaarheidsvereisten, de melding van ernstige bijwerkingen en ernstige ongewenste voorvallen en bepaalde technische voorschriften voor het coderen, bewerken, preserveren, bewaren en distribueren van menselijke weefsels en cellen (PbEU 2006, L 294);
+
+- m. **invoer:** de import uit een andere staat dan een lidstaat van de Europese Unie in de lidstaten van de Europese Unie.
+
+2. In de [hoofdstukken 6](https://wetten.overheid.nl/jci1.3:c:BWBR0021255&hoofdstuk=6&z=2017-04-29&g=2017-04-29), [7](https://wetten.overheid.nl/jci1.3:c:BWBR0021255&hoofdstuk=7&z=2017-04-29&g=2017-04-29) en [8](https://wetten.overheid.nl/jci1.3:c:BWBR0021255&hoofdstuk=8&z=2017-04-29&g=2017-04-29) worden onder lichaamsmateriaal tevens begrepen uit weefsel of cellen bereide producten waarin geen menselijke cellen meer voorkomen.
+
+3. In dit besluit en de daarop berustende bepalingen wordt onder lidstaat van de Europese Unie mede verstaan: staat die partij is bij de Overeenkomst betreffende de Europese Economische Ruimte.
 
 ##### Artikel 1.2
 
@@ -174,9 +184,9 @@ Deze paragraaf is niet van toepassing op organen.
 
 4. De acceptatie of afkeuring van het ontvangen lichaamsmateriaal wordt schriftelijk vastgelegd.
 
-5. De weefselinstelling zorgt ervoor dat lichaamsmateriaal altijd juist geïdentificeerd is. Elke levering of partij lichaamsmateriaal krijgt een identificatiecode, overeenkomstig [artikel 4.2](https://wetten.overheid.nl/jci1.3:c:BWBR0021255&hoofdstuk=4&artikel=4.2&z=2016-10-06&g=2016-10-06).
+5. De weefselinstelling zorgt ervoor dat lichaamsmateriaal altijd juist geïdentificeerd is. Elke levering of partij lichaamsmateriaal krijgt een identificatiecode, overeenkomstig [artikel 4.2](https://wetten.overheid.nl/jci1.3:c:BWBR0021255&hoofdstuk=4&artikel=4.2&z=2017-04-29&g=2017-04-29).
 
-6. Lichaamsmateriaal wordt in quarantaine gehouden totdat minstens aan de voorschriften inzake onderzoek en informatie van de donor is voldaan overeenkomstig [hoofdstuk 3](https://wetten.overheid.nl/jci1.3:c:BWBR0021255&hoofdstuk=3&z=2016-10-06&g=2016-10-06).
+6. Lichaamsmateriaal wordt in quarantaine gehouden totdat minstens aan de voorschriften inzake onderzoek en informatie van de donor is voldaan overeenkomstig [hoofdstuk 3](https://wetten.overheid.nl/jci1.3:c:BWBR0021255&hoofdstuk=3&z=2017-04-29&g=2017-04-29).
 
 7. De weefselinstelling ontvangt en bewaart alleen lichaamsmateriaal dat is getest door een laboratorium dat daartoe een vergunning heeft verkregen op grond van [artikel 12 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0014682&artikel=12).
 
@@ -186,39 +196,15 @@ Deze paragraaf is niet van toepassing op organen.
 
 2. Indien het lichaamsmateriaal door bemiddeling van het orgaancentrum aan de weefselinstelling is aangeboden, gaat de weefselinstelling uit van de door het orgaancentrum aan het materiaal toegekende identificatiecode.
 
-3. De weefselinstelling richt haar administratie zodanig in dat ten aanzien van lichaamsmateriaal dat aan haar is aangeboden, met behulp van de identificatiecode kunnen worden achterhaald:
+3. De weefselinstelling richt haar administratie zodanig in dat ten aanzien van aan haar aangeboden lichaamsmateriaal met behulp van de unieke identificatiecode de gegevens, bedoeld in bijlage VI van richtlijn 2006/86/EG, kunnen worden achterhaald.
 
-- a. de voor het gebruik van het lichaamsmateriaal relevante persoonsgegevens van de persoon van wie het materiaal afkomstig is;
-
-- b. de instelling waar het materiaal ter beschikking is gekomen;
-
-- c. de datum en het tijdstip van het ter beschikking komen van het materiaal;
-
-- d. de datum waarop de weefselinstelling het materiaal in ontvangst heeft genomen;
-
-- e. in voorkomend geval de bestemming waarvoor degene van wie het materiaal afkomstig is, overeenkomstig enige wettelijke regeling toestemming heeft verleend of het ter beschikking heeft gesteld;
-
-- f. de kenmerken en eigenschappen van het materiaal en de doeleinden waarvoor het, indien van toepassing mede gelet op de verleende toestemming of terbeschikkingstelling, geschikt is;
-
-- g. de eventuele bewerkingen die het materiaal heeft ondergaan;
-
-- h. de bij het vervoeren, bewaren of bewerken gebruikte stoffen en materialen, de leverancier en het batchnummer ervan;
-
-- i. de noodzakelijke aanwijzingen voor het bewaren en het gebruik;
-
-- j. de termijn van houdbaarheid;
-
-- k. eventuele bijwerkingen bij het gebruik;
-
-- l. de naam en het adres van de instelling waaraan het lichaamsmateriaal is overgedragen.
-
-4. De weefselinstelling bewaart de in het eerste en derde lid bedoelde gegevens tenminste 30 jaar na het laatste gebruik van het betrokken materiaal.
+4. De weefselinstelling en de met toepassing op de mens belaste organisatie bewaren de gegevens, bedoeld in het eerste en derde lid, ten minste dertig jaar op een geschikt en uitleesbaar opslagmedium.
 
 ##### Artikel 4.3
 
 1. Lichaamsmateriaal dat in een weefselinstelling aanwezig is, is te allen tijde identificeerbaar.
 
-2. Tijdens het bewaren is lichaamsmateriaal op de verpakking of op een daaraan onlosmakelijk verbonden etiket in ieder geval voorzien van de identificatiecode, bedoeld in de aanhef van [artikel 4.2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0021255&hoofdstuk=4&artikel=4.2&z=2016-10-06&g=2016-10-06), alsmede van de in de EU-richtlijn weefsels en cellen bedoelde technische gegevens of een verwijzing naar die gegevens inzake de procedure voor de verkrijging van lichaamsmateriaal en de ontvangst daarvan in een weefselinstelling en de bewerking, bewaring en distributie van lichaamsmateriaal.
+2. Tijdens het bewaren is lichaamsmateriaal op de verpakking of op een daaraan onlosmakelijk verbonden etiket in ieder geval voorzien van de identificatiecode, bedoeld in de aanhef van [artikel 4.2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0021255&hoofdstuk=4&artikel=4.2&z=2017-04-29&g=2017-04-29), alsmede van de in de EU-richtlijn weefsels en cellen bedoelde technische gegevens of een verwijzing naar die gegevens inzake de procedure voor de verkrijging van lichaamsmateriaal en de ontvangst daarvan in een weefselinstelling en de bewerking, bewaring en distributie van lichaamsmateriaal.
 
 ##### Artikel 4.4
 
@@ -304,7 +290,7 @@ Deze paragraaf is niet van toepassing op organen.
 
 5. De weefselinstelling verstrekt de ingevolge [artikel 19 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0014682&artikel=19) met het toezicht op de naleving van de wet belaste ambtenaar op verzoek een afschrift van de overeenkomsten met derden.
 
-### Hoofdstuk 6. Distributie
+### Hoofdstuk 4. Ontvangen en bewaren
 
 ##### Artikel 6.1
 
@@ -334,7 +320,7 @@ De instelling kan lichaamsmateriaal dat aan haar is afgeleverd met het oog op he
 
 1. De instelling waar lichaamsmateriaal is toegepast op de mens, legt de volgende gegevens vast:
 
-- a. de identificatiecode, bedoeld in de [aanhef van artikel 4.2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0021255&hoofdstuk=4&artikel=4.2&z=2016-10-06&g=2016-10-06);
+- a. de identificatiecode, bedoeld in de [aanhef van artikel 4.2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0021255&hoofdstuk=4&artikel=4.2&z=2017-04-29&g=2017-04-29);
 
 - b. de soort van het materiaal;
 
@@ -352,13 +338,13 @@ De instelling kan lichaamsmateriaal dat aan haar is afgeleverd met het oog op he
 
 Een ieder die gebruik maakt van lichaamsmateriaal, geeft alle relevante informatie door aan het orgaancentrum of de weefselinstelling, waarvan het materiaal afkomstig is, teneinde de traceerbaarheid te vergemakkelijken en de kwaliteitsbewaking en de veiligheid te waarborgen.
 
-### Hoofdstuk 8. Ernstige ongewenste voorvallen en bijwerkingen
+### Hoofdstuk 5. Bewerken
 
 ##### Artikel 8.1
 
 1. Het orgaancentrum, de weefselinstelling en de arts die verantwoordelijk is voor de medische begeleiding van een patiënt die een orgaan ontvangen heeft, dragen zorg voor het systematisch melden, onderzoeken, registreren en doorgeven van relevante, noodzakelijke gegevens over ernstige ongewenste voorvallen en bijwerkingen die van invloed kunnen zijn op de kwaliteit en de veiligheid van lichaamsmateriaal of van organen en die mogelijk toe te schrijven zijn aan het verkrijgen, testen, karakteriseren, bewerken, bewaren, preserveren, distribueren en vervoeren van lichaamsmateriaal of organen, en over ernstige ongewenste bijwerkingen die tijdens of na een klinische toepassing of na transplantatie worden vastgesteld en die met de kwaliteit en de veiligheid van lichaamsmateriaal of van organen of met de transplantatieactiviteiten verband kunnen houden.
 
-2. De in [artikel 4.4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0021255&hoofdstuk=4&artikel=4.4&z=2016-10-06&g=2016-10-06), bedoelde persoon zorgt ervoor dat ernstige ongewenste voorvallen en bijwerkingen worden gemeld aan de ingevolge [artikel 19 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0014682&artikel=19) met het toezicht op de naleving van die wet belaste ambtenaar, alsook dat aan deze ambtenaar een analytisch verslag over de oorzaken en gevolgen ervan wordt overlegd.
+2. De in [artikel 4.4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0021255&hoofdstuk=4&artikel=4.4&z=2017-04-29&g=2017-04-29), bedoelde persoon zorgt ervoor dat ernstige ongewenste voorvallen en bijwerkingen worden gemeld aan de ingevolge [artikel 19 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0014682&artikel=19) met het toezicht op de naleving van die wet belaste ambtenaar, alsook dat aan deze ambtenaar een analytisch verslag over de oorzaken en gevolgen ervan wordt overlegd.
 
 3. De weefselinstelling zorgt voor een nauwkeurige, snelle en controleerbare procedure aan de hand waarvan zij producten waarmee ernstige ongewenste voorvallen of bijwerkingen in verband kunnen worden gebracht, uit de distributie kan nemen.
 
@@ -376,17 +362,19 @@ Een ieder die gebruik maakt van lichaamsmateriaal, geeft alle relevante informat
 
 2. De identiteit van de ontvanger van lichaamsmateriaal wordt niet aan de donor of diens familie bekendgemaakt, en andersom.
 
-### Hoofdstuk 7. Gebruiken
+### Hoofdstuk 6. Distributie
 
 ##### Artikel 10.1
 
-Onze Minister kan normen aanwijzen, bij het voldoen waaraan de orgaancentra, de weefselinstellingen of de in de [hoofdstukken 7](https://wetten.overheid.nl/jci1.3:c:BWBR0021255&hoofdstuk=7&z=2016-10-06&g=2016-10-06) bedoelde instellingen worden vermoed te voldoen aan de in dit besluit gestelde eisen.
+Onze Minister kan normen aanwijzen, bij het voldoen waaraan de orgaancentra, de weefselinstellingen of de in de [hoofdstukken 7](https://wetten.overheid.nl/jci1.3:c:BWBR0021255&hoofdstuk=7&z=2017-04-29&g=2017-04-29) bedoelde instellingen worden vermoed te voldoen aan de in dit besluit gestelde eisen.
 
 ### Hoofdstuk 11. Slotbepalingen
 
 ##### Artikel 11.1
 
-Het [Eisenbesluit lichaamsmateriaal](https://wetten.overheid.nl/jci1.3:c:BWBR0016468) wordt ingetrokken.
+1. Het bepaalde bij of krachtens [hoofdstuk 3, paragraaf 3](https://wetten.overheid.nl/jci1.3:c:BWBR0021255&hoofdstuk=3&paragraaf=3&z=2017-04-29&g=2017-04-29), is niet van toepassing op weefsels en cellen die op 29 oktober 2016 reeds in bewaring waren en die reeds voor de inwerkingtreding van dit besluit waren ingevoerd, mits die weefsels en cellen uiterlijk op 29 oktober 2021 in circulatie worden gebracht en hun volledige traceerbaarheid op andere wijze is gewaarborgd.
+
+2. Voor weefsels en cellen die op 29 oktober 2016 reeds in bewaring zijn en na 29 oktober 2021 in circulatie worden gebracht en waarvoor de uniforme Europese code niet kan worden toegepast, met name omdat de weefsels en cellen diepgevroren zijn opgeslagen, wordt de code met behulp van de begeleidende documentatie op ondubbelzinnige wijze verbonden met de weefsels en cellen die met een dergelijk etiket zijn verpakt.
 
 ##### Artikel 11.2
 
@@ -473,6 +461,206 @@ De arts die verantwoordelijk is voor de medische begeleiding van de donor die bi
 ##### Artikel 8.3
 
 Ingeval van uitwisseling van een orgaan met een andere lidstaat van de Europese Unie draagt het orgaancentrum er zorg voor dat ernstige ongewenste voorvallen en bijwerkingen worden gemeld volgens de procedure die is opgenomen in krachtens de EU-richtlijn orgaantransplantatie vastgestelde uitvoeringsbepalingen inzake de melding van ernstig ongewenste voorvallen en bijwerkingen.
+
+### Hoofdstuk 9. Gegevensbescherming en vertrouwelijkheid
+
+### Hoofdstuk 10. Normen
+
+### Hoofdstuk 11. Slotbepalingen
+
+Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
+
+##### Artikel 1.3
+
+De ambtenaren van het Staatstoezicht op de volksgezondheid, bedoeld in [artikel 19 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0014682&artikel=19), nemen de bij of krachtens de EU-richtlijn weefsels en cellen gestelde voorschriften in acht.
+
+### Hoofdstuk 2. Orgaancentrum
+
+### Hoofdstuk 3. Verkrijgen en testen
+
+#### § 1. Verkrijgen en testen van lichaamsmateriaal
+
+#### § 2. Verkrijgen van organen
+
+#### § 3. Codering
+
+##### Artikel 3.6
+
+In deze paragraaf en de daarop berustende bepalingen wordt verstaan onder:
+
+- a. **donatie-identificatiesequentie:** donatie-identificatiesequentie als bedoeld in bijlage VII van richtlijn 2006/86/EG;
+
+- b. **EU-repertorium van weefsel- en celproducten:** register van alle soorten weefsel en cellen die in de Unie circuleren en de respectievelijke productcodes volgens de toegestane coderingssystemen;
+
+- c. **EU-repertorium van weefselinstellingen:** register van alle weefselinstellingen die erkend zijn door Onze Minister als bedoeld in [artikel 9 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0014682&artikel=9) dat de in bijlage VIII bij richtlijn 2006/86/EG genoemde informatie over deze weefselinstellingen bevat;
+
+- d. **pooling:** fysiek in contact brengen of vermengen in één container van weefsels of cellen die van meer dan een verkrijging van dezelfde donor of van twee of meer donoren afkomstig zijn;
+
+- e. **richtlijn 2006/86/EG:** Richtlijn 2006/86/EG van de Commissie van 24 oktober 2006 ter uitvoering van Richtlijn 2004/23/EG van het Europees Parlement en de Raad wat betreft de traceerbaarheidsvereisten, de melding van ernstige bijwerkingen en ernstige ongewenste voorvallen en bepaalde technische voorschriften voor het coderen, bewerken, preserveren, bewaren en distribueren van menselijke weefsels en cellen (PB L 294);
+
+- f. **systeem voor de toekenning van unieke donatienummers:** systeem als bedoeld in artikel 10 ter, tweede lid, aanhef en onderdeel b, tweede volzin, van richtlijn 2006/86/EG;
+
+- g. **unieke donatienummer:** unieke nummer dat wordt toegekend aan een specifieke donatie van weefsels en cellen;
+
+- h. **uniforme Europese code:** unieke identificatiecode die wordt vastgesteld voor weefsels en cellen die in de lidstaten van de Europese Unie worden gedistribueerd;
+
+- i. **weefselinstellingsnummer:** unieke nummer dat ingevolge [artikel 3.10, tweede lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0021255&hoofdstuk=3&paragraaf=3&artikel=3.10&z=2017-04-29&g=2017-04-29), wordt toegekend aan een weefselinstelling.
+
+##### Artikel 3.7
+
+1. De code, bedoeld in [artikel 4.2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0021255&hoofdstuk=4&artikel=4.2&z=2017-04-29&g=2017-04-29), omvat:
+
+- a. de uniforme Europese code, voor zover het weefsels en cellen betreft die voor toepassing op de mens worden gedistribueerd;
+
+- b. de donatie-identificatiesequentie, voor zover het weefsels en cellen betreft die zijn ontvangen van een verkrijgingsorganisatie of die zijn verkregen van een leverancier uit een derde land.
+
+2. Bij regeling van Onze Minister kunnen nadere regels worden gesteld met betrekking tot eisen aan en het gebruik van de code, bedoeld in het eerste lid.
+
+##### Artikel 3.8
+
+1. Het bepaalde bij of krachtens [artikel 3.7](https://wetten.overheid.nl/jci1.3:c:BWBR0021255&hoofdstuk=3&paragraaf=3&artikel=3.7&z=2017-04-29&g=2017-04-29) is niet van toepassing op:
+
+- a. geslachtscellen bij partnerdonatie als bedoeld in artikel 2, onderdelen a en b, van richtlijn 2006/86/EG;
+
+- b. weefsels en cellen die rechtstreeks en met het oog op onmiddellijke transplantatie aan de ontvanger worden gedistribueerd als bedoeld in [artikel 4, tweede lid, onderdeel b, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0014682&artikel=4);
+
+- c. weefsels en cellen die in noodgevallen met toestemming van Onze Minister worden ingevoerd uit andere staten dan lidstaten van de Europese Unie;
+
+- d. weefsels en cellen die vanaf de verkrijging tot en met de toepassing op de mens zijn onderworpen aan het toezicht van dezelfde verantwoordelijke persoon en aan hetzelfde kwaliteits- en traceerbaarheidssysteem, in een centrum voor gezondheidszorg dat op dezelfde plaats beschikt over een weefselinstelling die in het bezit is van een erkenning en over een met toepassing op de mens belaste organisatie;
+
+- e. weefsels en cellen die worden ingevoerd uit andere staten dan lidstaten van de Europese Unie, mits deze weefsels en cellen vanaf de invoer tot en met de toepassing op de mens zijn onderworpen aan het toezicht van dezelfde verantwoordelijke persoon en aan hetzelfde kwaliteits- en traceerbaarheidssysteem, in een centrum voor gezondheidszorg dat:
+
+- 1°. op dezelfde plaats beschikt over een weefselinstelling die in het bezit is van een erkenning en over een met toepassing op de mens belaste organisatie; en
+
+- 2°. beschikt over een weefselinstelling die in het bezit is van een aanwijzing als bedoeld in [artikel 7, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0014682&artikel=7).
+
+2. Het bij of krachtens [artikel 3.7](https://wetten.overheid.nl/jci1.3:c:BWBR0021255&hoofdstuk=3&paragraaf=3&artikel=3.7&z=2017-04-29&g=2017-04-29) bepaalde is van toepassing op weefsel en cellen die voor geneesmiddelen voor geavanceerde therapie als bedoeld in [artikel 1, eerste lid, onderdeel b.1, van de Geneesmiddelenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0021505&artikel=1), worden gebruikt, voor zover ze nog niet naar de fabrikant van die geneesmiddelen zijn overgebracht.
+
+##### Artikel 3.9
+
+1. Na uitname van weefsels en cellen bij een overledene door uitnameteams die optreden voor twee of meer weefselinstellingen wordt aan deze weefsels en cellen een zodanige codering toegekend dat de afzonderlijke uitnames traceerbaar zijn.
+
+2. Na pooling van weefsels en cellen wordt een nieuw uniek donatienummer toegekend aan het uit die pooling ontstane eindproduct en wordt de traceerbaarheid van de afzonderlijke donaties gewaarborgd door de weefselinstelling die de pooling verricht.
+
+##### Artikel 3.10
+
+1. De weefselinstelling:
+
+- a. draagt er zorg voor dat de uniforme Europese code juist op het etiket is aangebracht; en
+
+- b. stelt Onze Minister in kennis indien:
+
+- 1°. informatie van het EU-repertorium van weefselinstellingen moet worden geactualiseerd of verbeterd;
+
+- 2°. het EU-repertorium van weefsel- en celproducten moet worden geactualiseerd;
+
+- 3°. zij met betrekking tot weefsels en cellen die van andere EU-weefselinstellingen zijn ontvangen een ernstige overtreding van de eisen inzake de uniforme Europese code vaststelt.
+
+2. Onze Minister is belast met:
+
+- a. de toekenning van een weefselinstellingsnummer aan de weefselinstelling die in het bezit is van een erkenning als bedoeld in [artikel 9 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0014682&artikel=9);
+
+- b. de vaststelling van het systeem of de systemen die wordt of worden gebruikt voor de toekenning van unieke donatienummers.
+
+3. Voor de toepassing van het tweede lid worden:
+
+- a. afzonderlijke fysieke locaties van de weefselinstelling die gezamenlijk één gedeeld systeem voor de toekenning van unieke donatienummers gebruiken als één enkele weefselinstelling beschouwd;
+
+- b. indien de weefselinstelling gebruik maakt van twee of meer systemen voor toekenning van unieke donatienummers, aan deze instelling afzonderlijke weefselinstellingsnummers toegekend overeenkomstig het aantal gebruikte toekenningsystemen.
+
+### Hoofdstuk 6a. Vervoer
+
+### Hoofdstuk 7. Gebruiken
+
+### Hoofdstuk 7a. Invoer
+
+##### Artikel 7a.1
+
+1. In dit hoofdstuk en de daarop berustende bepalingen wordt verstaan onder:
+
+- a. **eenmalige invoer:** invoer van specifieke soorten weefsel of cellen die in beginsel niet vaker dan een keer voor een bepaalde ontvanger plaatsvindt en die bestemd is voor persoonlijk gebruik door een of meer beoogde ontvangers die bekend zijn bij de importerende weefselinstelling en bij de leverancier uit een derde land voordat de invoer plaatsvindt, met uitzondering van invoer die geregeld of herhaaldelijk van dezelfde leverancier uit een derde land afkomstig is;
+
+- b. **EU-richtlijn gelijkwaardige kwaliteits- en veiligheidsnormen ingevoerde weefsels en cellen:** Richtlijn 2015/566/EU van de Commissie van 8 april 2015 tot uitvoering van Richtlijn 2004/23/EG aangaande de procedures om na te gaan of er sprake is van gelijkwaardige kwaliteits- en veiligheidsnormen voor ingevoerde weefsels en cellen (PbEU 2015, L 93);
+
+- c. **importerende weefselinstelling:** een weefselbank, ziekenhuisafdeling of andere instantie die in een lidstaat van de Europese Unie is gevestigd en partij is bij een met een leverancier uit een derde land gesloten overeenkomst voor de invoer van weefsels en cellen, bestemd voor toepassing op de mens;
+
+- d. **noodgeval:** elke onvoorziene situatie waarin het in de praktijk niet anders kan dan dat weefsels en cellen dringend uit een derde land worden ingevoerd naar een lidstaat van de Europese Unie voor onmiddellijke toepassing op een of meer bekende ontvangers van wie de gezondheid zonder die invoer ernstig in gevaar zou komen.
+
+2. Voor de toepassing van dit hoofdstuk wordt onder weefsels en cellen mede verstaan bereide producten, afkomstig van menselijke weefsels en cellen, bestemd voor toepassing op de mens, voor zover die producten niet kunnen worden aangemerkt als geneesmiddelen als bedoeld in [artikel 1 van de Geneesmiddelenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0021505&artikel=1).
+
+##### Artikel 7a.2
+
+1. Dit hoofdstuk is niet van toepassing op:
+
+- a. bloed en bloedbestanddelen als bedoeld in [artikel 1, eerste lid, onderdeel f, van de Wet inzake bloedvoorziening](https://wetten.overheid.nl/jci1.3:c:BWBR0009079&artikel=1);
+
+- b. organen of orgaandelen als bedoeld in [artikel 1, eerste lid, onderdeel p, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0014682&artikel=1);
+
+- c. weefsels en cellen die rechtstreeks met het oog op onmiddellijke transplantatie aan de ontvanger worden gedistribueerd als bedoeld in [artikel 4, tweede lid, onderdeel b, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0014682&artikel=4);
+
+- d. weefsels en cellen die in noodgevallen met toestemming van Onze Minister worden ingevoerd uit andere staten dan lidstaten van de Europese Unie.
+
+2. Indien de weefsels en cellen die worden ingevoerd uitsluitend bestemd zijn voor gebruik in bereide producten die onder de [Geneesmiddelenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0021505) vallen, is dit hoofdstuk alleen van toepassing op de activiteiten van doneren, verkrijgen en testen die buiten de lidstaten van de Europese Unie plaatsvinden, en op het waarborgen van de traceerbaarheid van donor tot ontvanger en omgekeerd.
+
+##### Artikel 7a.3
+
+De importerende weefselinstelling verricht passende controles om te waarborgen dat de kwaliteits- en veiligheidsnormen van de ingevoerde weefsels en cellen gelijkwaardig zijn aan die van de EU-richtlijn weefsels en cellen.
+
+##### Artikel 7a.4
+
+1. Een importerende weefselinstelling stelt Onze Minister in kennis van haar besluit om de importactiviteiten geheel of gedeeltelijk stop te zetten.
+
+2. Een importerende weefselinstelling geeft de ingevolge [artikel 19 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0014682&artikel=19) met het toezicht op de naleving van die wet belaste ambtenaar onverwijld kennis van:
+
+- a. alle vermoedelijke of daadwerkelijke ernstige ongewenste voorvallen of bijwerkingen die haar door leveranciers uit derde landen worden gemeld en die van invloed kunnen zijn op de kwaliteit en veiligheid van de weefsels en cellen die zij invoert, waarbij zij de in de bijlagen III en IV bij de richtlijn 2006/86/EG vermelde informatie opneemt;
+
+- b. elke gehele of gedeeltelijke intrekking of opschorting van de machtiging van een leverancier uit een derde land om weefsels en cellen uit te voeren; en
+
+- c. elk ander besluit op grond van niet-naleving dat door de bevoegde autoriteit of autoriteiten van het land waar de leverancier uit een derde land is gevestigd, wordt genomen en dat van belang kan zijn voor de kwaliteit en de veiligheid van de ingevoerde weefsels en cellen.
+
+##### Artikel 7a.5
+
+1. De importerende weefselinstelling beschikt over schriftelijke overeenkomsten met leveranciers uit derde landen indien weefsels en cellen die voor invoer in de lidstaten van de Europese Unie zijn bestemd, buiten de lidstaten van de Europese Unie worden gedoneerd, verkregen, getest, bewerkt, gepreserveerd, bewaard of naar de lidstaten van de Europese Unie worden uitgevoerd.
+
+2. De schriftelijke overeenkomst, bedoeld in het eerste lid:
+
+- a. vermeldt de kwaliteits- en veiligheidseisen waaraan moet zijn voldaan om te waarborgen dat de kwaliteits- en veiligheidsnormen van de ingevoerde weefsels en cellen gelijkwaardig zijn aan die van de EU-richtlijn weefsels en cellen, waaronder in ieder geval de in bijlage IV bij de EU-richtlijn gelijkwaardige kwaliteits- en veiligheidsnormen ingevoerde weefsels en cellen vermelde informatie; en
+
+- b. voorziet in de bevoegdheid van de ingevolge [artikel 19 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0014682&artikel=19) met het toezicht op de naleving van die wet belaste ambtenaar om de werkzaamheden van leveranciers uit derde landen, met inbegrip van hun inrichtingen, te inspecteren tijdens de duur van de overeenkomst en tot twee jaar daarna.
+
+3. De importerende weefselinstelling verstrekt Onze Minister een afschrift van de schriftelijke overeenkomsten met leveranciers uit derde landen als onderdeel van hun aanvraag tot verlening van een aanwijzing als bedoeld in [artikel 7, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0014682&artikel=7).
+
+##### Artikel 7a.6
+
+1. De importerende weefselinstelling houdt een register van haar werkzaamheden bij.
+
+2. Het register, bedoeld in het eerste lid, bevat:
+
+- a. informatie over de soorten en hoeveelheden ingevoerde weefsels en cellen, alsmede over de oorsprong en de bestemming ervan;
+
+- b. de informatie, bedoeld in het eerste lid, voor elke eenmalige invoer.
+
+3. Het jaarverslag, bedoeld in artikel 10, eerste lid, van de EU-richtlijn weefsels en cellen, bevat informatie over de werkzaamheden, bedoeld in het eerste lid.
+
+##### Artikel 7a.7
+
+1. Onze Minister verstrekt aan de weefselinstelling die in het bezit is van een aanwijzing als bedoeld in [artikel 7, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0014682&artikel=7), het in bijlage II bij de EU-richtlijn gelijkwaardige kwaliteits- en veiligheidsnormen ingevoerde weefsels en cellen vermelde certificaat.
+
+2. De importerende weefselinstelling voert geen ingrijpende wijzigingen van haar importactiviteiten door zonder voorafgaande schriftelijke toestemming van Onze Minister, waaronder in ieder geval worden begrepen alle wijzigingen met betrekking tot:
+
+- a. de ingevoerde soorten weefsel en cellen;
+
+- b. de werkzaamheden die in andere staten dan lidstaten van de Europese Unie worden verricht voor zover deze van invloed kunnen zijn op de kwaliteit en veiligheid van de ingevoerde weefsels en cellen; of
+
+- c. de leveranciers uit derde landen.
+
+3. Indien de importerende weefselinstelling een eenmalige invoer van weefsels of cellen, afkomstig van een leverancier uit een derde land, verricht die niet valt onder haar aanwijzing als bedoeld in [artikel 7, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0014682&artikel=7), wordt deze invoer niet als ingrijpende wijziging beschouwd als bedoeld in het tweede lid, indien de importerende weefselinstelling gemachtigd is tot de invoer van dezelfde soort weefsels of cellen, afkomstig van een of meer andere leveranciers uit een derde land.
+
+##### Artikel 7a.8
+
+Ter uitvoering van de op grond van de EU-richtlijn weefsels en cellen vastgestelde voorschriften inzake erkenning, aanwijzing, machtiging of vergunning van weefselinstellingen die tevens importerende weefselinstellingen zijn, worden bij regeling van Onze Minister voorschriften vastgesteld waaraan de instelling moet voldoen om voor een aanwijzing als bedoeld in [artikel 7, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0014682&artikel=7), in aanmerking te komen.
+
+### Hoofdstuk 8. Ernstige ongewenste voorvallen en bijwerkingen
 
 ### Hoofdstuk 9. Gegevensbescherming en vertrouwelijkheid
 
