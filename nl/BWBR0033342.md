@@ -4,7 +4,7 @@ identifier: "BWBR0033342"
 country: "nl"
 rank: "beleidsregel"
 publication_date: "2017-04-30"
-last_updated: "2013-05-01"
+last_updated: "2017-04-30"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0033342"
 soort: "beleidsregel"
@@ -64,7 +64,7 @@ Ieder ander dan de bestrafte en zijn raadsman kan op grond van [artikel 257h Sv]
 
 De bestrafte zelf kan op basis van [artikel 33 Sv](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=33) inzage krijgen in alle processtukken.
 
-### Achtergrond
+### Toezicht op buitengewoon opsporingsambtenaren
 
 Door de inwerkingtreding van de [Wet OM-afdoening](https://wetten.overheid.nl/jci1.3:c:BWBR0020074)4Wet tot Wijziging van het Wetboek van Strafrecht, het Wetboek van Strafvordering en enige andere wetten in verband met de buitengerechtelijke afdoening van strafbare feiten (**Stb.** 2006, 330) en Wet van 26 april 2007 tot wijziging van het Wetboek van Strafvordering, de Wet OM-afdoening en enige andere wetten in verband met het wegnemen van enkele technische onvolkomenheden (**Stb.** 2007, 160). is een regeling in het [Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903) opgenomen die het mogelijk maakt dat het OM misdrijven waarop maximaal zes jaar gevangenisstraf staat en alle overtredingen door het uitvaardigen van een strafbeschikking zelf bestraft. Voorwaardelijke sancties zijn daarbij niet mogelijk.
 
@@ -74,21 +74,21 @@ De kern van de wet is dat de juridische grondslag van de buitengerechtelijke afd
 
 Voorts strekt de strafbeschikking niet ter voorkoming van vervolging, zoals bij de transactie het geval is, maar is het een afdoeningsvorm waarin de verdachte wordt vervolgd en bestraft. Daarmee komt de strafbeschikking, wat haar karakter betreft, meer overeen met een rechterlijke veroordeling. De strafbeschikking levert zonder tussenkomst van de rechter een executoriale titel op. Het procesinitiatief ligt bij de verdachte. Als de verdachte het niet eens is met de uitgevaardigde strafbeschikking kan hij verzet doen, waarna de zaak alsnog in volle omvang door de rechter zal worden beoordeeld.
 
-### Invoering
+### Terechtzitting na verzet of mislukte executie
 
 De strafbeschikkingsbevoegdheid wordt gefaseerd ingevoerd. Niet voor alle misdrijven waarop maximaal zes jaar gevangenisstraf staat en alle overtredingen kan op dit moment een strafbeschikking worden uitgevaardigd. Op dit moment kunnen nog niet alle sancties waarin de wet voorziet, worden opgelegd. Voorlopig zal daarom de transactie nog naast de strafbeschikking blijven bestaan. Als er sprake is van een contra-indicatie (zie [bijlage 1A](https://wetten.overheid.nl/jci1.3:c:BWBR0033342&bijlage=1a&z=2013-05-01&g=2013-05-01) en [bijlage 1B](https://wetten.overheid.nl/jci1.3:c:BWBR0033342&bijlage=1b&z=2013-05-01&g=2013-05-01)), kan nog een transactie worden aangeboden. De stapsgewijze invoering kan leiden tot verschillende invoeringsmodaliteiten. In de Memorie van Toelichting is hierop reeds geanticipeerd:
 
 ‘De gefaseerde overgang impliceert dat de bepalingen inzake de transactie nog enige tijd naast de regeling van de strafbeschikking zullen blijven bestaan. Gedurende de periode waarin de transactie en de strafbeschikking naast elkaar bestaan, zal de toepassing van beide modaliteiten door richtlijnen nader worden ingevuld. Niet uit te sluiten valt dat gedurende die periode in sommige gevallen eenzelfde gedraging langs beide wegen kan worden afgedaan. In die gevallen is de keuze aan het OM. De gemelde richtlijnen strekken er niet toe, belangen van de verdachte te beschermen, doch faciliteren de overgang van het ene naar het andere systeem; een overgang die noodzakelijkerwijs enige ongelijkheid in behandeling met zich mee brengt. Een verweer met de strekking dat een transactie had moeten worden aangeboden, en dat niet een strafbeschikking had moeten worden uitgevaardigd, heeft dan ook geen kans van slagen.’5TK 2004-2005, 29 849 nr. 3, p. 88.
 
-### Definities
+### Tenuitvoerlegging
 
-### Rol van het Openbaar Ministerie
+### Informatieverstrekking
 
 Deze Aanwijzing richt zich tot het OM in zijn rol bij de afdoening van zaken door middel van een strafbeschikking.
 
 De rol van het Openbaar Ministerie ziet bij de vervolging door een strafbeschikking op:
 
-### Het uitvaardigen van de strafbeschikking door de officier van justitie
+### Pilots om-afdoening
 
 Op grond van [artikel 257a Sv](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=257a) kan de officier van justitie, indien hij vaststelt dat een overtreding is begaan dan wel een misdrijf waarop naar wettelijke omschrijving gevangenisstraf is gesteld van niet meer dan zes jaar10De begrenzingen van de bevoegdheid om een strafbeschikking uit te vaardigen zijn daarmee gelijkgesteld aan de grenzen die thans bij de transactie gelden ingevolge artikel 74 Sr., een strafbeschikking uitvaardigen.
 
@@ -408,3 +408,81 @@ De bepalingen in deze Leidraad zijn van toepassing op de bestrafte en zijn raads
 In deze Leidraad wordt verstaan onder:
 
 ### 2). Uitgangspunten
+
+### Achtergrond
+
+### Invoering
+
+### Definities
+
+### Rol van het Openbaar Ministerie
+
+### Het uitvaardigen van de strafbeschikking door de officier van justitie
+
+### Beoordeling strafzaak
+
+### De effectuering van de waarborgen (horen van verdachten)
+
+### Taakstraf, ontzegging van de bevoegdheid motorrijtuigen te besturen, aanwijzing het gedrag van de verdachte betreffend
+
+### Geldboete, schadevergoedingsmaatregel en andere financiële sancties
+
+### Telefonisch horen
+
+### Verslag van het horen
+
+### Toezicht
+
+### Toezicht ex [artikel 257b Sv](onbekend)
+
+### Toezicht ex [artikel 257ba Sv](onbekend)
+
+### Buitengewoon opsporingsambtenaren
+
+### Het uitreiken en toezenden van de strafbeschikking
+
+### Verzet
+
+### Het doen van verzet
+
+### Herbeoordeling van de zaak
+
+### Eis ter terechtzitting in zaken waarin de bestrafte verzet heeft ingesteld tegen een strafbeschikking
+
+### Eis ter terechtzitting in zaken waarin de executie van de bij strafbeschikking opgelegde sanctie (gedeeltelijk) is mislukt
+
+### **Openbaarheid**
+
+### **Kennisneming van alle processtukken**
+
+### Strafvordering
+
+### Overgangsrecht
+
+## Bijlage 1a. : Reikwijdte OM-afdoening (contra-indicaties)
+
+Vervallen
+
+## Bijlage 1b. : Contra-indicaties (niet-limitatief)
+
+Vervallen
+
+## Bijlage 2. : Strafbeschikkingen
+
+Vervallen
+
+## Bijlage 3. : Directe betaling
+
+Vervallen
+
+## Bijlage 4. : Minderjarigen
+
+Vervallen
+
+## Bijlage 5. : Leidraad informatieverstrekking om-afdoening
+
+Vervallen
+
+## Bijlage 6. : Leidraad kennisneming van alle processtukken ([33 sv](onbekend))
+
+Vervallen
