@@ -4,7 +4,7 @@ identifier: "BWBV0006529"
 country: "nl"
 rank: "verdrag"
 publication_date: "2017-05-01"
-last_updated: "2015-07-08"
+last_updated: "2017-05-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBV0006529"
 soort: "verdrag"
@@ -32,91 +32,55 @@ entry_into_force: "2017-05-01"
 ---
 # Notawisseling houdende een verdrag tussen het Koninkrijk der Nederlanden en het Verenigd Koninkrijk betreffende de huisvesting van een deel van de diplomatieke missie van het Verenigd Koninkrijk in het Ministerie van Buitenlandse Zaken van het Koninkrijk der Nederlanden te 's-Gravenhage
 
-MINISTRY OF FOREIGN AFFAIRS
-
-The Hague, 8 July 2015
-
-Treaties Division
-
-MINBUZA-2015.347234
-
-The Ministry of Foreign Affairs of the Kingdom of the Netherlands (the Netherlands) presents its compliments to the Embassy of the United Kingdom of Great Britain and Northern Ireland (the United Kingdom) and has the honour to propose an agreement concerning the location of a part of the diplomatic mission of the United Kingdom in the Ministry of Foreign Affairs of the Kingdom of the Netherlands at The Hague between the Kingdom of the Netherlands and the United Kingdom (hereinafter referred to as “the Parties”):
-
-Bearing in mind the friendship and mutual cooperation between the two nations;
-
-Responding to the emergency resulting from the fire at the Embassy of the United Kingdom rendering part of the diplomatic mission of the United Kingdom inaccessible;
-
-Considering that this exceptional situation requires the allocation of appropriate offices to the United Kingdom for the performance of the functions of its mission;
-
-Have agreed as follows:
+Inwerkingtreding voorheen volgens Trb. 2016/109 gesteld op 8 juli 2017. Inwerkingtreding voorheen volgens Trb. 2015/108 gesteld op 8 juli 2016.
 
 ##### Article 1
 
-a. The Kingdom of the Netherlands has offered to host part of the mission of the United Kingdom to the Netherlands in the premises of the Ministry of Foreign Affairs of the Kingdom of the Netherlands at Bezuidenhoutseweg 67, The Hague for the duration of a maximum of one year, and the United Kingdom has accepted this offer.
-
-b. The offices thus offered to the United Kingdom shall form part of the mission of the United Kingdom.
+Vervallen
 
 ##### Article 2
 
-For the purpose of this agreement,
-
-- a. The “Vienna Convention” is the [Vienna Convention on Diplomatic Relations](https://wetten.overheid.nl/jci1.3:c:BWBV0004345) of 1961;
-
-- b. The “office” is the part of the mission located in the Ministry of Foreign Affairs of the Kingdom of the Netherlands at The Hague.
+Vervallen
 
 ##### Article 3
 
-The Parties confirm that operations concerning the office shall take into account and respect the [Vienna Convention](https://wetten.overheid.nl/jci1.3:c:BWBV0004345), while agreeing that the application of the Vienna Convention may be modified as set out in this agreement taking into account the particular circumstances of the location of the office.
+Vervallen
 
 ##### Article 4
 
-The Netherlands agrees that it shall not interfere in the functioning of the mission of the United Kingdom and shall respect the immunity of the office and its staff while located in the premises of the Ministry of Foreign Affairs of the Kingdom of the Netherlands at The Hague.
+Vervallen
 
 ##### Article 5
 
-a. The United Kingdom agrees that the Netherlands retains overall control over the building, including the office and agrees that it shall comply with any instruction with respect to the safety and security of the building from the Secretary General of the Ministry of Foreign Affairs or persons acting under her authority.
-
-- 1). Each time the office is accessed by persons other than the staff of the mission of the United Kingdom the access shall be recorded and be notified in advance to the deputy head of the mission by the Secretary General of the Ministry of Foreign Affairs or persons acting under her authority.
-
-- 2). In case of fire or other emergency requiring prompt protective action, or in the event that the Dutch security staff have reasonable cause to believe that such an emergency has occurred or is about to occur in the office, the consent of the mission to any necessary entry into the office shall be presumed.
+Vervallen
 
 ##### Article 6
 
-The Mission of the United Kingdom to the Netherlands shall liaise with the Directorate for Safety, Crisis management and Integrity as necessary on issues concerning safety and security.
+Vervallen
 
 ##### Article 7
 
-a. The Netherlands shall provide office space within the Ministry and facilities to the office for the purpose of the functioning of the mission.
-
-b. Further arrangements may be made between the Netherlands and the United Kingdom for the provision of other facilities.
+Vervallen
 
 ##### Article 8
 
-Regarding the office, the United Kingdom shall waive its rights under the [Vienna Convention](https://wetten.overheid.nl/jci1.3:c:BWBV0004345) with respect to
-
-- a. Its right to use the flag ([Article 20](https://wetten.overheid.nl/jci1.3:c:BWBV0004345&artikel=20));
-
-- b. Its right to send messages in code or cipher ([Article 27(1)](https://wetten.overheid.nl/jci1.3:c:BWBV0004345&artikel=27)).
+Vervallen
 
 ##### Article 9
 
-The office shall be accessible during the regular office hours of the Ministry, being from 7.00 am until 8.00 pm. On an exceptional basis, access may be granted outside these hours, but only after a specific request thereto has been made by the Head of the Mission and as long as such access is not contrary to the public safety and national security of the Netherlands.
+Vervallen
 
 ##### Article 10
 
-This Agreement shall apply to the part of the Kingdom of the Netherlands in Europe only.
+Vervallen
 
 ##### Article 11
 
-Any dispute concerning the interpretation or application of this agreement shall be settled by negotiation.
+Vervallen
 
 ##### Article 12
 
-a. This agreement shall be in force for the period the office is used by the United Kingdom or for one year following the date of signature whichever is the shorter period.
-
-b. Without prejudice to section c of this Article, this agreement may be terminated by mutual consent.
-
-c. This agreement shall be terminated in the event of the Ministry of Foreign Affairs vacating its premises at Bezuidenhoutseweg 67. The Ministry of Foreign Affairs shall observe a 30 days’ notice period.
+Vervallen
 
 If the foregoing is acceptable to the United Kingdom, the Ministry of Foreign Affairs of the Kingdom of the Netherlands has the honour to propose that this Note and the Note in reply of the Embassy of the United Kingdom shall constitute an agreement between the Kingdom of the Netherlands and the United Kingdom which shall enter into force on the date of the Note in reply.
 
