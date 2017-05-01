@@ -4,7 +4,7 @@ identifier: "BWBR0009234"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2017-12-01"
-last_updated: "2017-04-11"
+last_updated: "2017-05-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0009234"
 soort: "ministeriele-regeling"
@@ -46,27 +46,27 @@ Besluiten:
 
 In deze beschikking wordt verstaan onder:
 
-- a. de Wet: de [Wet op de kansspelen](https://wetten.overheid.nl/jci1.3:c:BWBR0002469);
+- a. **de Wet:** de [Wet op de kansspelen](https://wetten.overheid.nl/jci1.3:c:BWBR0002469);
 
-- b. de Minister: de Minister van Veiligheid en Justitie;
+- b. **de Minister:** de Minister van Veiligheid en Justitie;
 
-- c. de Kansspelautoriteit: de raad van bestuur van de kansspelautoriteit bedoeld in [artikel 33a van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&artikel=33a);
+- c. **de Kansspelautoriteit:** de raad van bestuur van de kansspelautoriteit bedoeld in [artikel 33a van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&artikel=33a);
 
-- d. de vergunninghouder: de rechtspersoon aan welke in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0009234&artikel=2&z=2017-04-11&g=2017-04-11) vergunning wordt verleend;
+- d. **de vergunninghouder:** de rechtspersoon aan welke in artikel 2 vergunning wordt verleend;
 
-- e. speelcasino: een inrichting als bedoeld in [artikel 27g, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&artikel=27g);
+- e. **speelcasino:** een inrichting als bedoeld in [artikel 27g, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&artikel=27g);
 
-- f. speelzaal: een zich binnen een speelcasino bevindende ruimte bestemd voor de organisatie van casinospelen of de opstelling van kansspelautomaten;
+- f. **speelzaal:** een zich binnen een speelcasino bevindende ruimte bestemd voor de organisatie van casinospelen of de opstelling van kansspelautomaten;
 
-- g. kansspelautomaat: kansspelautomaat zoals bedoeld in [artikel 30, onder c, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&artikel=30);
+- g. **kansspelautomaat:** kansspelautomaat zoals bedoeld in [artikel 30, onder c, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&artikel=30);
 
-- h. spelreglement: reglement als bedoeld in [artikel 4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009234&artikel=4&z=2017-04-11&g=2017-04-11);
+- h. **spelreglement:** reglement als bedoeld in [artikel 4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009234&artikel=4&z=2017-05-01&g=2017-05-01);
 
-- i. huisreglement: reglement als bedoeld in [artikel 10, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009234&artikel=10&z=2017-04-11&g=2017-04-11);
+- i. **huisreglement:** reglement als bedoeld in [artikel 10, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009234&artikel=10&z=2017-05-01&g=2017-05-01);
 
-- j. incidenten: alle situaties die het vertrouwen van de consument in de vergunde kansspelen kunnen schaden;
+- j. **incidenten:** alle situaties die het vertrouwen van de consument in de vergunde kansspelen kunnen schaden;
 
-- k. compliance officer: de functionaris als bedoeld in [artikel 16, tweede lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0009234&artikel=16&z=2017-04-11&g=2017-04-11).
+- k. **compliance officer:** de functionaris als bedoeld in [artikel 16, tweede lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0009234&artikel=16&z=2017-05-01&g=2017-05-01).
 
 ##### Artikel 2
 
@@ -80,7 +80,7 @@ In deze beschikking wordt verstaan onder:
 
 - d. het aanwezig hebben en exploiteren en exploiteren van kansspelautomaten in de onder a. tot en met c. bedoelde speelcasino’s.
 
-2. Aan de vergunning worden de in [artikel 3 tot en met 21](https://wetten.overheid.nl/jci1.3:c:BWBR0009234&artikel=3&z=2017-04-11&g=2017-04-11) vervatte voorschriften verbonden. De vergunninghouder is verantwoordelijk voor de naleving ervan, zowel door hemzelf als door degenen die hij bij het organiseren van de speelcasino’s en het aanwezig hebben en exploiteren van kansspelautomaten in die speelcasino’s inschakelt, hetzij direct, hetzij indirect.
+2. Aan de vergunning worden de in [artikel 3 tot en met 21](https://wetten.overheid.nl/jci1.3:c:BWBR0009234&artikel=3&z=2017-05-01&g=2017-05-01) vervatte voorschriften verbonden. De vergunninghouder is verantwoordelijk voor de naleving ervan, zowel door hemzelf als door degenen die hij bij het organiseren van de speelcasino’s en het aanwezig hebben en exploiteren van kansspelautomaten in die speelcasino’s inschakelt, hetzij direct, hetzij indirect.
 
 ##### Artikel 3
 
@@ -138,9 +138,9 @@ Ten aanzien van activiteiten van de vergunninghouder die betrekking hebben op bu
 
 ##### Artikel 5
 
-1. De inzet per speelkans bij de in [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009234&artikel=4&z=2017-04-11&g=2017-04-11) bedoelde casinospelen varieert van € 5,- tot € 10.000,-.
+1. De inzet per speelkans bij de in [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009234&artikel=4&z=2017-05-01&g=2017-05-01) bedoelde casinospelen varieert van € 5,- tot € 10.000,-.
 
-2. De vergunninghouder draagt in elk speelcasino afzonderlijk zorg voor ten minste één casinospel als bedoeld in [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009234&artikel=4&z=2017-04-11&g=2017-04-11), waarbij de minimuminzet niet meer dan € 5,- bedraagt.
+2. De vergunninghouder draagt in elk speelcasino afzonderlijk zorg voor ten minste één casinospel als bedoeld in [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009234&artikel=4&z=2017-05-01&g=2017-05-01), waarbij de minimuminzet niet meer dan € 5,- bedraagt.
 
 3. In afwijking van het eerste lid zal de vergunninghouder in elk casino één of meer casinospelen aanbieden, waarbij de inzet € 2,- of lager is;
 
@@ -220,11 +220,11 @@ Ten aanzien van activiteiten van de vergunninghouder die betrekking hebben op bu
 
 8. Meerdere kansspelautomaten kunnen worden bestuurd door één centraal computersysteem, waarbij het proces door de speler in werking wordt gesteld.
 
-9. Het is de vergunninghouder toegestaan tijdens te organiseren toernooien kansspelautomaten tijdelijk aan te bieden in toernooivorm, volgens door de vergunninghouder op te stellen regels, welke voldoen aan de eisen van [artikel 8, eerste lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0009234&artikel=8&z=2017-04-11&g=2017-04-11), en i en het tweede lid van de beschikking.
+9. Het is de vergunninghouder toegestaan tijdens te organiseren toernooien kansspelautomaten tijdelijk aan te bieden in toernooivorm, volgens door de vergunninghouder op te stellen regels, welke voldoen aan de eisen van [artikel 8, eerste lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0009234&artikel=8&z=2017-05-01&g=2017-05-01), en i en het tweede lid van de beschikking.
 
 De overige bepalingen van artikel 8 zijn niet van toepassing. De regels zijn ter inzage voor de bezoekers van het speelcasino en dienen ter kennis te worden gebracht van de Kansspelautoriteit.
 
-10. Het is de vergunninghouder toegestaan ‘altijd-prijs-automaten’ aan te bieden voor promotionele doeleinden, volgens door de vergunninghouder op te stellen regels, waarbij de speler geen inzet behoeft te doen anders dan met uitgereikte penning en waarbij de uitkering geschiedt in de vorm van prijzen in natura. De maximumhoogte van een te winnen prijs in natura wordt vastgesteld op € 150,- [Artikel 8, eerste lid, onder d, e, f en j](https://wetten.overheid.nl/jci1.3:c:BWBR0009234&artikel=8&z=2017-04-11&g=2017-04-11), is niet van toepassing. De regels zijn ter inzage voor de bezoekers van het speelcasino en dienen ter kennisneming te worden toegezonden aan de Kansspelautoriteit.
+10. Het is de vergunninghouder toegestaan ‘altijd-prijs-automaten’ aan te bieden voor promotionele doeleinden, volgens door de vergunninghouder op te stellen regels, waarbij de speler geen inzet behoeft te doen anders dan met uitgereikte penning en waarbij de uitkering geschiedt in de vorm van prijzen in natura. De maximumhoogte van een te winnen prijs in natura wordt vastgesteld op € 150,- [Artikel 8, eerste lid, onder d, e, f en j](https://wetten.overheid.nl/jci1.3:c:BWBR0009234&artikel=8&z=2017-05-01&g=2017-05-01), is niet van toepassing. De regels zijn ter inzage voor de bezoekers van het speelcasino en dienen ter kennisneming te worden toegezonden aan de Kansspelautoriteit.
 
 11. Vervallen.
 
@@ -314,7 +314,7 @@ Het entreebewijs wordt door de vergunninghouder slechts afgegeven nadat de ident
 
 - c. adviseurs van de vergunninghouder;
 
-- d. de door de minister overeenkomstig [artikel 7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009234&artikel=7&z=2017-04-11&g=2017-04-11), aangewezen onafhankelijke deskundige of keuringsinstelling, alsmede de personen in dienst van de keuringsinstelling die zijn belast met goedkeuring en controle als bedoeld in artikel 7, tweede lid;
+- d. de door de minister overeenkomstig [artikel 7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009234&artikel=7&z=2017-05-01&g=2017-05-01), aangewezen onafhankelijke deskundige of keuringsinstelling, alsmede de personen in dienst van de keuringsinstelling die zijn belast met goedkeuring en controle als bedoeld in artikel 7, tweede lid;
 
 - e. vervallen;
 
@@ -358,7 +358,7 @@ Vervallen
 
 ##### Artikel 18
 
-1. Onder de in [artikel 17](https://wetten.overheid.nl/jci1.3:c:BWBR0009234&artikel=17&z=2017-04-11&g=2017-04-11) bedoelde netto-opbrengst van de speelcasino’s worden mede begrepen de door het speelzaalpersoneel ontvangen fooien.
+1. Onder de in [artikel 17](https://wetten.overheid.nl/jci1.3:c:BWBR0009234&artikel=17&z=2017-05-01&g=2017-05-01) bedoelde netto-opbrengst van de speelcasino’s worden mede begrepen de door het speelzaalpersoneel ontvangen fooien.
 
 2. In de administratie van het betrokken speelcasino wordt een afzonderlijke rekening aangehouden voor de vermelding van het volledig bedrag van de ontvangen en aan het speelzaalpersoneel uitbetaalde fooien.
 
