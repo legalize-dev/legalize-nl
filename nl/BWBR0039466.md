@@ -255,25 +255,3 @@ Dit besluit treedt in werking met ingang van de eerste dag van de eerste kalende
 Dit besluit wordt aangehaald als: Tijdelijk besluit zelfstandige bevoegdheid bachelor medisch hulpverlener.
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
-
-##### Artikel 8a
-
-1. De [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0007648&artikel=2), met uitzondering van artikel 2, eerste lid, onder d, [4](https://wetten.overheid.nl/jci1.3:c:BWBR0007648&artikel=4), [5](https://wetten.overheid.nl/jci1.3:c:BWBR0007648&artikel=5), [6](https://wetten.overheid.nl/jci1.3:c:BWBR0007648&artikel=6), [7](https://wetten.overheid.nl/jci1.3:c:BWBR0007648&artikel=7) en [8 Registratiebesluit BIG](https://wetten.overheid.nl/jci1.3:c:BWBR0007648&artikel=8) zijn van toepassing met dien verstande dat:
-
-- a. onder de bescheiden, bedoeld in [artikel 2, eerste lid, onder b, Registratiebesluit BIG](https://wetten.overheid.nl/jci1.3:c:BWBR0007648&artikel=2) wordt verstaan de bescheiden, bedoeld in [artikel 3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039466&paragraaf=2&artikel=3&z=2018-10-01&g=2018-10-01);
-
-- b. onder een getuigschrift als bedoeld [artikel 2, vierde lid, Registratiebesluit BIG](https://wetten.overheid.nl/jci1.3:c:BWBR0007648&artikel=2) wordt verstaan de bescheiden, bedoeld in [artikel 3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039466&paragraaf=2&artikel=3&z=2018-10-01&g=2018-10-01);
-
-- c. dat voor de toepassing van [artikel 2, negende lid, onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0039466&paragraaf=2&artikel=2&z=2018-10-01&g=2018-10-01), geregistreerde bachelor medisch hulpverleners gelijk worden gesteld aan fysiotherapeuten, verloskundigen en physician assistants;
-
-- d. onder de verklaring, bedoeld in [artikel 2, negende lid, onder e, Registratiebesluit BIG](https://wetten.overheid.nl/jci1.3:c:BWBR0007648&artikel=2) wordt verstaan een verklaring als bedoeld in [artikel 3, tweede lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0039466&paragraaf=2&artikel=3&z=2018-10-01&g=2018-10-01).
-
-2. Indien inschrijving in het register, bedoeld in [artikel 2, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039466&paragraaf=2&artikel=2&z=2018-10-01&g=2018-10-01), plaatsvindt op grond van een verklaring als bedoeld in [artikel 3, tweede lid, onder b,](https://wetten.overheid.nl/jci1.3:c:BWBR0039466&paragraaf=2&artikel=3&z=2018-10-01&g=2018-10-01) wordt voor de toepassing van [artikel 7 Registratiebesluit BIG](https://wetten.overheid.nl/jci1.3:c:BWBR0007648&artikel=2) die verklaring gelijkgesteld met een verklaring als bedoeld in [artikel 41, eerste lid, onder b, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&artikel=41).
-
-##### Artikel 8b
-
-1. Onze Minister kan voor 1 januari 2019 reeds besluiten op aanvragen tot inschrijving in het tijdelijk register voor bachelor medisch hulpverleners. Onze Minister besluit daarbij op grond van de eisen zoals geformuleerd in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0039466&paragraaf=2&artikel=3&z=2018-10-01&g=2018-10-01), in samenhang met [artikelen 4](https://wetten.overheid.nl/jci1.3:c:BWBR0039466&paragraaf=3&artikel=4&z=2018-10-01&g=2018-10-01) en [5](https://wetten.overheid.nl/jci1.3:c:BWBR0039466&paragraaf=3&artikel=5&z=2018-10-01&g=2018-10-01), zoals die artikelen komen te luiden op 1 januari 2019. Indien Onze Minister in dat geval besluit tot inschrijving, wordt de inschrijving van kracht met ingang van 1 januari 2019.
-
-2. Indien het besluit tot inschrijving op een aanvraag, bedoeld in het eerste lid, wordt genomen op een tijdstip na 1 januari 2019, vindt de inschrijving in afwijking van het eerste lid plaats op het tijdstip van het nemen van het besluit.
-
-Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
