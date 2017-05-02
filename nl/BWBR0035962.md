@@ -4,7 +4,7 @@ identifier: "BWBR0035962"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-01-01"
-last_updated: "2017-01-01"
+last_updated: "2017-05-02"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0035962"
 soort: "ministeriele-regeling"
@@ -110,7 +110,13 @@ In deze regeling wordt verstaan onder ‘wet’: de [Wet normering bezoldiging t
 
 - d. de reservering voor een sabbatical;
 
-- e. vergoedingen en verstrekkingen die als eindheffingsbestanddeel als bedoeld in [artikel 31, eerste lid, onderdeel f, van de Wet op de loonbelasting 1964](https://wetten.overheid.nl/jci1.3:c:BWBR0002471&artikel=31) zijn aangewezen, waaronder begrepen de gerichte vrijstellingen als bedoeld in artikel 31a, tweede lid, van die wet en op nihil gestelde verstrekkingen als bedoeld in [artikelen 3.7](https://wetten.overheid.nl/jci1.3:c:BWBR0028236&artikel=3.7), [3.9](https://wetten.overheid.nl/jci1.3:c:BWBR0028236&artikel=3.9) en [3.10 van de Uitvoeringsregeling loonbelasting 2011](https://wetten.overheid.nl/jci1.3:c:BWBR0028236&artikel=3.10) (werkkostenregeling).
+- e. vergoedingen en verstrekkingen die als eindheffingsbestanddeel als bedoeld in [artikel 31, eerste lid, onderdeel f, van de Wet op de loonbelasting 1964](https://wetten.overheid.nl/jci1.3:c:BWBR0002471&artikel=31) zijn aangewezen, waaronder begrepen de gerichte vrijstellingen als bedoeld in artikel 31a, tweede lid, van die wet en op nihil gestelde verstrekkingen als bedoeld in [artikelen 3.7](https://wetten.overheid.nl/jci1.3:c:BWBR0028236&artikel=3.7), [3.9](https://wetten.overheid.nl/jci1.3:c:BWBR0028236&artikel=3.9) en [3.10 van de Uitvoeringsregeling loonbelasting 2011](https://wetten.overheid.nl/jci1.3:c:BWBR0028236&artikel=3.10) (werkkostenregeling);
+
+- f. uitkeringen of verstrekkingen als bedoeld in [artikel 11, eerste lid, onderdeel o, van de Wet op de loonbelasting](https://wetten.overheid.nl/jci1.3:c:BWBR0002471&artikel=11);
+
+- g. uitkeringen en verstrekkingen tot vergoeding van in verband met het dienstverband geleden schade aan of verlies van persoonlijke zaken;
+
+- h. uitkeringen en verstrekkingen tot vergoeding van materiële of immateriële schade ten gevolge van een dienstongeval of een beroepsziekte.
 
 3. Indien een functionaris deelneemt aan een collectieve pensioenregeling die uitgaat van een individueel actuarieel juiste premie kan voor de toepassing van het eerste lid, onderdeel q, tot de bezoldiging worden gerekend het werkgeversdeel van een fictieve premie die blijkens een berekening van de pensioenuitvoerder voor de functionaris zou zijn betaald indien de pensioenregeling gebaseerd zou zijn op een doorsneepremie. Het werkgeversdeel van de fictieve doorsneepremie wordt berekend aan de hand van de formule:
 
@@ -174,12 +180,22 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 - c. de vergoeding voor de bureaukosten;
 
-- d. de componenten, bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035962&artikel=2&z=2017-07-01&g=2017-01-01), voor zover die niet onder onderdeel a, b of c, vallen, of een compensatie of bijdrage voor die componenten.
+- d. de componenten, bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035962&artikel=2&z=2017-07-01&g=2017-05-02), voor zover die niet onder onderdeel a, b of c, vallen, of een compensatie of bijdrage voor die componenten.
 
 2. Ten aanzien van de topfunctionaris zonder dienstbetrekking wordt in ieder geval niet tot de bezoldiging in de zin van de [wet](https://wetten.overheid.nl/jci1.3:c:BWBR0032249) gerekend:
 
 - a. de omzetbelasting;
 
-- b. de vergoedingen en verstrekkingen, bedoeld in [artikel 2, tweede lid, onderdeel e](https://wetten.overheid.nl/jci1.3:c:BWBR0035962&artikel=2&z=2017-07-01&g=2017-01-01).
+- b. de vergoedingen en verstrekkingen, bedoeld in [artikel 2, tweede lid, onderdeel e](https://wetten.overheid.nl/jci1.3:c:BWBR0035962&artikel=2&z=2017-07-01&g=2017-05-02).
+
+Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
+
+##### Artikel 5a. Openbaarmaking gegevens niet-topfunctionarissen
+
+Dit onderdeel is nog niet inwerking getreden
+
+##### Artikel 5b. Vrijstelling van openbaarmakingsverplichtingen
+
+Dit onderdeel is nog niet inwerking getreden
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
