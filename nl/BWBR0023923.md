@@ -4,7 +4,7 @@ identifier: "BWBR0023923"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-11-11"
-last_updated: "2017-03-22"
+last_updated: "2017-05-03"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0023923"
 soort: "ministeriele-regeling"
@@ -90,11 +90,11 @@ De Minister publiceert op het internet de gegevens die zijn opgenomen in verstre
 
 ##### Artikel 6
 
-1. Voor een toegangsmiddel wordt een vergoeding voor drie jaar in rekening gebracht van:
+1. Voor een toegangsmiddel wordt een vergoeding voor twee jaar in rekening gebracht van:
 
-- a. 255 euro voor een pas.
+- a. 170 euro voor een pas;
 
-- b. 522 euro voor een certificaat.
+- b. 300 euro voor een certificaat.
 
 2. De vergoedingen, bedoeld in het eerste lid, kunnen periodiek worden geïndexeerd.
 
@@ -102,7 +102,7 @@ De Minister publiceert op het internet de gegevens die zijn opgenomen in verstre
 
 ##### Artikel 7
 
-De geldigheid van het toegangsmiddel is drie jaar gerekend vanaf de datum van uitgifte van het toegangsmiddel.
+De geldigheid van het toegangsmiddel is twee jaar gerekend vanaf de datum van uitgifte van het toegangsmiddel.
 
 ##### Artikel 8
 
