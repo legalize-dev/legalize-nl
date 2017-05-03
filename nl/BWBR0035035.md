@@ -4,7 +4,7 @@ identifier: "BWBR0035035"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-08-16"
-last_updated: "2016-05-07"
+last_updated: "2017-05-03"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0035035"
 soort: "ministeriele-regeling"
@@ -54,19 +54,21 @@ Besluit:
 
 1. Het is verboden om militaire goederen, alsmede militaire technologie, aangewezen in de [Uitvoeringsregeling strategische goederen 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0030610), dan wel onderdelen daarvan, direct of indirect te verkopen, te leveren, over te dragen, dan wel door of uit te voeren naar personen of entiteiten in de Centraal-Afrikaanse Republiek, ongeacht of de goederen afkomstig zijn uit de lidstaten van de Europese Unie.
 
-2. Het eerste lid is niet van toepassing in geval het een levering, verkoop of overdracht betreft van:
+2. Het eerste lid is niet van toepassing in geval het een levering, verkoop, uitvoer of overdracht betreft van:
 
-- a. materiaal dat uitsluitend bedoeld is ter ondersteuning van of voor de missie voor de consolidatie van de vrede in de Centraal-Afrikaanse Republiek (MICOPAX), de internationale ondersteuningsmissie ten behoeve van de Centraal-Afrikaanse Republiek onder Afrikaanse leiding (MISCA), het geïntegreerd VN-kantoor voor vredesopbouw in de Centraal-Afrikaanse Republiek (BINUCA) en zijn bewakingseenheid, de regionale taskforce van de Afrikaanse Unie (AU-RTF), de in de Centraal-Afrikaanse Republiek ingezette Franse troepen en de operatie van de Europese Unie in de Centraal-Afrikaanse Republiek (EUFOR RCA);
+- a. goederen als bedoeld in het eerste lid die uitsluitend bestemd zijn voor de ondersteuning van of voor gebruik door de Multidimensionale Geïntegreerde Stabilisatiemissie van de Verenigde Naties in de Centraal-Afrikaanse Republiek (United Nations Multidimensional Integrated Stabilization Mission in the CAR – ‘Minusca’), de regionale taskforce van de Afrikaanse Unie (African Union Regional Task Force-‘AU-RTF’), de missies van de Europese Unie of de in de Centraal-Afrikaanse Republiek ingezette Franse troepen;
 
-- b. beschermende kledij, waaronder kogelwerende vesten en militaire helmen, die door VN-personeel, personeel van de Europese Unie of haar lidstaten, vertegenwoordigers van de media, medewerkers van humanitaire organisaties, ontwikkelingswerkers en aanverwant personeel voor hun eigen bescherming tijdelijk naar de Centraal-Afrikaanse Republiek wordt uitgevoerd;
+- b. goederen als bedoeld in het eerste lid die bestemd zijn voor Tsjadische of Sudanese troepen en uitsluitend voor gebruik in internationale patrouilles van de tripartiete strijdmacht die op 23 mei 2011 door de Centraal-Afrikaanse Republiek, Tsjaad en Sudan in Khartoem is opgericht om de grensgebieden beter te beveiligen in samenwerking met Minusca, mits de transactie vooraf is goedgekeurd door het Comité, bedoeld in paragraaf 57 van Resolutie 2127 (2013) van de Veiligheidsraad van de Verenigde Naties;
 
-- c. handvuurwapens en aanverwant materieel die uitsluitend bedoeld zijn voor gebruik in internationale patrouilles die de Sangha River Tri-national Protected Area beveiligen tegen stropen, de smokkel van ivoor of wapens, en andere activiteiten die in strijd zijn met de nationale wetten van de Centraal-Afrikaanse Republiek of internationale wettelijke verplichtingen van de Centraal-Afrikaanse Republiek, na kennisgeving aan het Comité, bedoeld in paragraaf 57 van Resolutie 2127 (2013) van de Veiligheidsraad van de Verenigde Naties.
+- c. beschermende kledij, waaronder kogelwerende vesten en militaire helmen, die door VN-personeel, personeel van de Europese Unie of haar lidstaten, vertegenwoordigers van de media, medewerkers van humanitaire organisaties, ontwikkelingswerkers en aanverwant personeel voor hun eigen bescherming tijdelijk naar de Centraal-Afrikaanse Republiek wordt uitgevoerd;
+
+- d. handvuurwapens en aanverwant materieel die uitsluitend bedoeld zijn voor gebruik in internationale patrouilles die de Sangha River Tri-national Protected Area beveiligen tegen stropen, de smokkel van ivoor of wapens, en andere activiteiten die in strijd zijn met de nationale wetten van de Centraal-Afrikaanse Republiek of internationale wettelijke verplichtingen van de Centraal-Afrikaanse Republiek, na kennisgeving aan het Comité, bedoeld in paragraaf 57 van Resolutie 2127 (2013) van de Veiligheidsraad van de Verenigde Naties.
 
 3. Het eerste lid is niet van toepassing in geval door het Comité, bedoeld in paragraaf 57 van Resolutie 2127 (2013) van de Veiligheidsraad van de Verenigde Naties, vooraf goedkeuring is verleend aan een levering, verkoop of overdracht van:
 
 - a. niet-dodelijke militaire uitrusting of aanverwante technische bijstand die uitsluitend bestemd is voor humanitaire of beschermende doeleinden;
 
-- b. wapens of andere aanverwante dodelijke uitrusting aan de veiligheidstroepen van de Centraal-Afrikaanse Republiek die uitsluitend bestemd zijn ter ondersteuning van, of voor gebruik in de hervorming van de beveiligingssector in de Centraal-Afrikaanse Republiek;
+- b. wapens of andere aanverwante dodelijke uitrusting aan de veiligheidstroepen van de Centraal-Afrikaanse Republiek, waaronder tevens begrepen de civiele rechtshandhavende onderheidsinstanties, die uitsluitend bestemd zijn ter ondersteuning van, of voor gebruik in de hervorming van de beveiligingssector in de Centraal-Afrikaanse Republiek;
 
 - c. wapens en aanverwant materieel, en aanverwante technische of financiële bijstand, met inbegrip van personeel.
 
