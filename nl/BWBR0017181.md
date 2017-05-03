@@ -4,7 +4,7 @@ identifier: "BWBR0017181"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-03-17"
-last_updated: "2013-05-02"
+last_updated: "2017-05-03"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0017181"
 soort: "ministeriele-regeling"
@@ -50,11 +50,11 @@ Besluit:
 
 1. Het is verboden te handelen in strijd met de artikelen 2, 3, 6 en 8 van [Verordening (EG) nr. 314/2004](32004R0314) van de Raad van de Europese Unie van 19 februari 2004 inzake bepaalde beperkende maatregelen tegen Zimbabwe (Pb EG L 55).
 
-2. Het verbod, bedoeld in het eerste lid, geldt niet in gevallen waarin de artikelen 4, 5 of 7 van [Verordening (EG) nr. 314/2004](32004R0314) van toepassing zijn.
+2. Het verbod, bedoeld in het eerste lid, geldt niet in gevallen waarin de artikelen 4, 4bis, 5 of 7 van [Verordening (EG) nr. 314/2004](32004R0314) van toepassing zijn.
 
 ##### Artikel 2
 
-1. Het is verboden om paramilitaire uitrusting en wapens, munitie, militaire voertuigen, militaire uitrusting en goederen, alsmede militaire technologie, aangewezen in de [Uitvoeringsregeling strategische goederen 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0030610), dan wel onderdelen daarvan, te verkopen, te leveren, over te dragen of uit te voeren aan personen, entiteiten of lichamen in Zimbabwe, of voor gebruik in Zimbabwe.
+1. Het is verboden om militaire goederen, alsmede militaire technologie, aangewezen in de [Uitvoeringsregeling strategische goederen 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0030610), dan wel onderdelen daarvan, te verkopen, te leveren, over te dragen of uit te voeren aan personen, entiteiten of lichamen in Zimbabwe, of voor gebruik in Zimbabwe.
 
 2. Het eerste lid is niet van toepassing op de verkoop, levering, overdracht of uitvoer, met vooraf verleende ontheffing van de bevoegde autoriteit, genoemd in bijlage II bij [Verordening (EG) nr. 314/2004](32004R0314) van:
 
@@ -71,5 +71,13 @@ Deze regeling wordt aangehaald als: Sanctieregeling Zimbabwe 2004.
 ##### Artikel 4
 
 Deze regeling treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin zij wordt geplaatst.
+
+Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
+
+##### Artikel 2a
+
+1. De bevoegde autoriteit, bedoeld in artikel 4, artikel 4 bis, artikel 7 en artikel 8 van [Verordening (EG) nr. 314/2004](32004R0314) is de Minister van Financiën voor zover het betreft financieringen of financiële bijstand, de vrijgave of beschikbaarstelling van tegoeden of informatie van financiële aard.
+
+2. De bevoegde autoriteit bedoeld in artikel 4, artikel 4bis, artikel 7 en artikel 8 van [Verordening (EG) nr. 314/2004](32004R0314) is de Minister voor Buitenlandse Handel en Ontwikkelingssamenwerking voor zover het betreft technische bijstand dan wel de vrijgave of beschikbaarstelling van economische middelen of informatie anders dan van financiële aard.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
