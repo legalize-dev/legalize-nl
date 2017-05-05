@@ -4,7 +4,7 @@ identifier: "BWBR0038525"
 country: "nl"
 rank: "zbo"
 publication_date: "2017-05-05"
-last_updated: "2016-09-24"
+last_updated: "2017-05-05"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0038525"
 soort: "zbo"
@@ -74,11 +74,11 @@ Besluit:
 
 - b. Zij bevinden zich in het laatste jaar van deze opleiding of zijn niet langer dan twee jaar geleden afgestudeerd;
 
-3. Projectplannen worden ingediend tussen 13 september en 20 november volgens de richtlijnen gepubliceerd op de website van het Stimuleringsfonds www.svdj.nl.
+3. Projectplannen worden ingediend tussen 1 mei 2017 en 14 juni 2017 volgens de richtlijnen gepubliceerd op de website van het Stimuleringsfonds www.svdj.nl. Het Stimuleringsfonds kan andere (of: latere) data vaststellen waarop een projectidee uiterlijk moet worden ingediend.
 
 4. Het bestuur van het Stimuleringsfonds voor de Journalistiek selecteert de tien tot vijftien beste ideeën, op basis van journalistiek karakter, vernieuwend karakter en haalbaarheid, die deel mogen nemen aan de voorronde. Bij minder dan tien inschrijvingen nemen alle ideeën deel aan de voorronde.
 
-5. De voorronde bestaat uit een serie masterclasses waarin de projectidee-indieners onder begeleiding van experts hun idee verder uitwerken.
+5. De voorronde bestaat uit een verplichte summerschool in de week van 14 augustus 2017 waarin de projectidee-indieners onder begeleiding van experts hun idee verder uitwerken. Het Stimuleringsfonds kan andere (of: latere) data vaststellen waarop de summerschool plaatsvindt.
 
 6. Op advies van de experts kan het bestuur besluiten gedurende de masterclasses projectideeën van verdere deelname aan de voorronde uit te sluiten, op basis van de ontwikkeling die de projecten doormaken op de vlakken van journalistiek karakter, vernieuwend karakter en haalbaarheid.
 
@@ -98,7 +98,7 @@ Subsidie kan worden aangevraagd door tenminste twee en maximaal drie voor de des
 
 1. Subsidie wordt op aanvraag verleend.
 
-2. Een aanvraag wordt uitsluitend ingediend door middel van het invullen en ondertekenen van een door het Stimuleringsfonds vastgesteld aanvraagformulier volgens de op de website van het Stimuleringsfonds www.persinnovatie.nl vermelde instructies en omvat in ieder geval een plan in termen van te verrichten activiteiten en daarmee te realiseren innovaties als bedoeld in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0038525&hoofdstuk=1&artikel=1&z=2016-09-24&g=2016-09-24), de haalbaarheid daarvan en een begroting van de kosten.
+2. Een aanvraag wordt uitsluitend ingediend door middel van het invullen en ondertekenen van een door het Stimuleringsfonds vastgesteld aanvraagformulier volgens de op de website van het Stimuleringsfonds www.persinnovatie.nl vermelde instructies en omvat in ieder geval een plan in termen van te verrichten activiteiten en daarmee te realiseren innovaties als bedoeld in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0038525&hoofdstuk=1&artikel=1&z=2017-05-05&g=2017-05-05), de haalbaarheid daarvan en een begroting van de kosten.
 
 3. De haalbaarheid dient te worden onderbouwd in termen van meerwaarde voor de beoogde gebruiker, de wijze waarop informatie over de doelgroep is verkregen, de schaalbaarheid van de activiteiten, de verkende mogelijkheden tot samenwerking met andere partijen, een analyse van vergelijkbare ideeën en de gevolgen voor de exploitatie.
 
@@ -110,7 +110,7 @@ Subsidie kan worden aangevraagd door tenminste twee en maximaal drie voor de des
 
 ##### Artikel 6. Termijn indiening subsidieaanvraag
 
-1. Een aanvraag voor subsidie wordt ingediend uiterlijk 1 maart 2017.
+1. Een aanvraag voor subsidie wordt ingediend uiterlijk 20 september 2017. Het Stimuleringsfonds kan andere (of: latere) data vaststellen waarop de aanvraag uiterlijk moet worden ingediend.
 
 2. Het Stimuleringsfonds beoordeelt binnen een week na indiening de volledigheid van de aanvraag.
 
@@ -122,13 +122,13 @@ Subsidie kan worden aangevraagd door tenminste twee en maximaal drie voor de des
 
 - a. gerichtheid op journalistieke producten, diensten of werkwijzen die journalistieke functies vervullen of bestuderen op het gebied van nieuwsgaring, nieuwsduiding en opinievorming over de maatschappelijke actualiteit, mede in het belang van politieke meningsvorming;
 
-- a. innovatief karakter, dat wil zeggen dat de te subsidiëren activiteiten vernieuwingen tot stand brengen in journalistieke functies als nieuwsgaring, nieuwsduiding of opinievorming zodat de persverscheidenheid wordt vergroot en daarmee een vernieuwende bijdrage wordt geleverd aan de journalistieke informatievoorziening;
+- b. innovatief karakter, dat wil zeggen dat de te subsidiëren activiteiten vernieuwingen tot stand brengen in journalistieke functies als nieuwsgaring, nieuwsduiding of opinievorming zodat de persverscheidenheid wordt vergroot en daarmee een vernieuwende bijdrage wordt geleverd aan de journalistieke informatievoorziening;
 
-- b. de haalbaarheid van het ingediende activiteitenplan.
+- c. de haalbaarheid van het ingediende activiteitenplan.
 
 ##### Artikel 8. Beslissing subsidieverlening
 
-1. Het Stimuleringsfonds beslist binnen 8 weken na de sluitingstermijn bedoeld in [artikel 5 lid 1](https://wetten.overheid.nl/jci1.3:c:BWBR0038525&hoofdstuk=2&artikel=5&z=2016-09-24&g=2016-09-24) tegelijkertijd op de aanvragen die zijn ingediend.
+1. Het Stimuleringsfonds beslist binnen 8 weken na de sluitingstermijn bedoeld in [artikel 6 lid 1](https://wetten.overheid.nl/jci1.3:c:BWBR0038525&hoofdstuk=2&artikel=6&z=2017-05-05&g=2017-05-05) tegelijkertijd op de aanvragen die zijn ingediend.
 
 2. Het Stimuleringsfonds maakt via de website www.svdj.nl bekend door wie een aanvraag is ingediend en voor welk innovatieproject.
 
@@ -174,6 +174,6 @@ Deze regeling treedt in werking met ingang van de dag na uitgifte van de Staatsc
 
 ##### Artikel 15. Evaluatie
 
-Binnen 26 weken na de sluitingsdatum bedoeld in [artikel 5 lid 1](https://wetten.overheid.nl/jci1.3:c:BWBR0038525&hoofdstuk=2&artikel=5&z=2016-09-24&g=2016-09-24), evalueert het Stimuleringsfonds de uitvoering van deze regeling.
+Binnen 26 weken na de sluitingsdatum bedoeld in [artikel 6 lid 1](https://wetten.overheid.nl/jci1.3:c:BWBR0038525&hoofdstuk=2&artikel=6&z=2017-05-05&g=2017-05-05), evalueert het Stimuleringsfonds de uitvoering van deze regeling.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
