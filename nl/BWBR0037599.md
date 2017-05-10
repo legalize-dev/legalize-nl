@@ -4,7 +4,7 @@ identifier: "BWBR0037599"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2017-05-10"
-last_updated: "2016-02-06"
+last_updated: "2017-05-10"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0037599"
 soort: "ministeriele-regeling"
@@ -44,7 +44,7 @@ Besluit:
 
 Aan de directeur-generaal Rijkswaterstaat wordt mandaat verleend tot:
 
-- a. het nemen van besluiten in het kader van het treffen van geluidwerende maatregelen als bedoeld in [artikel 11.38](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=11.38), [11.39](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=11.39) en [11.64 van de Wet milieubeheer](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=11.64), voor geluidgevoelige objecten die geluidbelasting ondervinden vanuit hoofdspoorwegen; en
+- a. het nemen van besluiten in het kader van het treffen van geluidwerende maatregelen als bedoeld in de [artikelen 11.38](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=11.38), [11.39](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=11.39) en [11.64 van de Wet milieubeheer](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=11.64) en de [artikelen 112](https://wetten.overheid.nl/jci1.3:c:BWBR0003227&artikel=112) en [114a van de Wet geluidhinder](https://wetten.overheid.nl/jci1.3:c:BWBR0003227&artikel=114a), voor geluidgevoelige objecten die geluidbelasting ondervinden vanuit hoofdspoorwegen; en
 
 - b. het beslissen op bezwaarschriften tegen besluiten als bedoeld onder a voor zover het besluit waartegen het bezwaar zich richt, niet door hem in mandaat is genomen.
 
@@ -52,17 +52,17 @@ Aan de directeur-generaal Rijkswaterstaat wordt mandaat verleend tot:
 
 Aan de directeur-generaal Rijkswaterstaat wordt volmacht en machtiging verleend tot:
 
-- a. het verrichten van alle handelingen ter voorbereiding en ter uitvoering van de in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0037599&artikel=1&z=2016-02-06&g=2016-02-06) bedoelde besluiten en overeenkomsten; en
+- a. het verrichten van alle handelingen ter voorbereiding en ter uitvoering van de in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0037599&artikel=1&z=2017-05-10&g=2017-05-10) bedoelde besluiten en overeenkomsten; en
 
-- b. het voeren van procedures bij de rechter over de in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0037599&artikel=1&z=2016-02-06&g=2016-02-06) bedoelde besluiten en overeenkomsten, alsmede het verrichten van daarbij behorende handelingen.
+- b. het voeren van procedures bij de rechter over de in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0037599&artikel=1&z=2017-05-10&g=2017-05-10) bedoelde besluiten en overeenkomsten, alsmede het verrichten van daarbij behorende handelingen.
 
 ##### Artikel 3
 
-De directeur-generaal Rijkswaterstaat kan met betrekking tot zijn bevoegdheden, bedoeld in de [artikelen 1, aanhef onder a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0037599&artikel=1&z=2016-02-06&g=2016-02-06), en [2](https://wetten.overheid.nl/jci1.3:c:BWBR0037599&artikel=2&z=2016-02-06&g=2016-02-06), ondermandaat, volmacht en machtiging verlenen aan een of meer onder hem ressorterende functionarissen.
+De directeur-generaal Rijkswaterstaat kan met betrekking tot zijn bevoegdheden, bedoeld in de [artikelen 1, aanhef onder a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0037599&artikel=1&z=2017-05-10&g=2017-05-10), en [2](https://wetten.overheid.nl/jci1.3:c:BWBR0037599&artikel=2&z=2017-05-10&g=2017-05-10), ondermandaat, volmacht en machtiging verlenen aan een of meer onder hem ressorterende functionarissen.
 
 ##### Artikel 4
 
-Indien uitvoering wordt gegeven aan de [artikelen 1 tot en met 3](https://wetten.overheid.nl/jci1.3:c:BWBR0037599&artikel=1&z=2016-02-06&g=2016-02-06) luidt de ondertekening:
+Indien uitvoering wordt gegeven aan de [artikelen 1 tot en met 3](https://wetten.overheid.nl/jci1.3:c:BWBR0037599&artikel=1&z=2017-05-10&g=2017-05-10) luidt de ondertekening:
 
 DE STAATSSECRETARIS VAN INFRASTRUCTUUR EN MILIEU,
 
