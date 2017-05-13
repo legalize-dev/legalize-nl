@@ -4,7 +4,7 @@ identifier: "BWBR0008144"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-01-01"
-last_updated: "2015-07-01"
+last_updated: "2017-05-13"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0008144"
 soort: "ministeriele-regeling"
@@ -59,7 +59,15 @@ In dit besluit wordt verstaan onder:
 
 - **verordening 406/2010:** Verordening (EU) nr. 406/2010 van de Commissie van 26 april 2010 tot uitvoering van Verordening (EG) nr. 79/2009 van het Europees parlement en de Raad betreffende de typegoedkeuring van motorvoertuigen op waterstof (PbEU 2010, 122);
 
-- **VN/ECE-reglement 110:** Reglement nr. 110 van de Economische Commissie voor Europa van de Verenigde Naties (VN/ECE) inzake uniforme bepalingen voor de goedkeuring van specifieke onderdelen van motorvoertuigen die gecomprimeerd aardgas (cng) als brandstof gebruiken en voertuigen met betrekking tot de installatie van specifieke onderdelen van een goedgekeurd type voor het gebruik van gecomprimeerd aardgas (cng) als brandstof1Te raadplegen via United Nations Economic Commission for Europe/Transport/Vehicle Regulations/Agreements Regulations and Rules/UNECE Regulation (http://live.unece.org/trans/main/wp29/wp29regs.html)..
+- **VN/ECE-reglement 110:** Reglement nr. 110 van de Economische Commissie voor Europa van de Verenigde Naties (VN/ECE) inzake uniforme bepalingen voor de goedkeuring van specifieke onderdelen van motorvoertuigen die gecomprimeerd aardgas (cng) als brandstof gebruiken en voertuigen met betrekking tot de installatie van specifieke onderdelen van een goedgekeurd type voor het gebruik van gecomprimeerd aardgas (cng) als brandstof1Te raadplegen via United Nations Economic Commission for Europe/Transport/Vehicle Regulations/Agreements Regulations and Rules/UNECE Regulation (http://live.unece.org/trans/main/wp29/wp29regs.html).;
+
+- **NTA 8820:2015:** Nederlandse Technische Afspraak 8820, Hittewerende systemen voor LPG-tankwagens voor de bevoorrading van LPG-motorbrandstof aan tankstations, zoals gepubliceerd door het Nederlands Normalisatie-instituut op 1 maart 2015;
+
+- **verordening 19/2011:** Verordening (EU) nr. 19/2011 van de Commissie van 11 januari 2011 betreffende typegoedkeuringsvoorschriften voor de voorgeschreven constructieplaat en voor het voertuigidentificatienummer van motorvoertuigen en aanhangwagens daarvan en tot uitvoering van Verordening (EG) nr. 661/2009 van het Europees Parlement en de Raad betreffende typegoedkeuringsvoorschriften voor de algemene veiligheid van motorvoertuigen, aanhangwagens daarvan en daarvoor bestemde systemen, onderdelen en technische eenheden (PbEU 2011, L 8);
+
+- **uitvoeringsverordening 901/2014:** Uitvoeringsverordening (EU) nr. 901/2014 van de Commissie van 18 juli 2014 tot uitvoering van Verordening (EU) nr. 168/2013 van het Europees Parlement en de Raad wat betreft de administratieve voorschriften voor de goedkeuring van en het markttoezicht op twee- of driewielige voertuigen en vierwielers (PbEU 2014, L 249);
+
+- **uitvoeringsverordening 2015/504:** Uitvoeringsverordening (EU) 2015/504 van de Commissie van 11 maart 2015 tot uitvoering van Verordening (EU) nr. 167/2013 van het Europees Parlement en de Raad wat betreft de administratieve voorschriften voor de goedkeuring van en het markttoezicht op landbouw- en bosbouwvoertuigen (PbEU 2015, L 85).
 
 ##### Artikel 1a
 
@@ -135,15 +143,19 @@ Aan de dienst worden de volgende taken opgedragen:
 
 - cc. het houden van toezicht op de naleving en de handhaving van de eisen opgenomen in de artikelen 3 tot en met 8 van de gedelegeerde verordening (EU) 886/2013, bedoeld in [artikel 1.1 van de ITS-Regeling](https://wetten.overheid.nl/jci1.3:c:BWBR0036478&artikel=1.1), door wegbeheerders en dienstverleners en omroepen voor verkeersinformatie ingevolge artikel 9, eerste en derde lid, van die verordening;
 
-- dd. het houden van toezicht op de naleving en de handhaving van de eisen opgenomen in de artikelen 4 tot en met 7 van de gedelegeerde verordening (EU) 885/2013, bedoeld in [artikel 1.1 van de ITS-Regeling](https://wetten.overheid.nl/jci1.3:c:BWBR0036478&artikel=1.1), door de dienstverleners, exploitanten van parkeerterreinen en wegenexploitanten ingevolge artikel 8, eerste lid, van die verordening.
+- dd. het houden van toezicht op de naleving en de handhaving van de eisen opgenomen in de artikelen 4 tot en met 7 van de gedelegeerde verordening (EU) 885/2013, bedoeld in [artikel 1.1 van de ITS-Regeling](https://wetten.overheid.nl/jci1.3:c:BWBR0036478&artikel=1.1), door de dienstverleners, exploitanten van parkeerterreinen en wegenexploitanten ingevolge artikel 8, eerste lid, van die verordening;
+
+- ee. het op verzoek keuren van hittewerende bekleding van LPG-tankauto’s overeenkomstig NTA 8820:2015;
+
+- ff. het ter uitvoering van verordening 19/2011, uitvoeringsverordening 901/2014 en uitvoeringsverordening 2015/504 toekennen van een wereldfabrikantenidentificatienummer (WMI).
 
 ##### Artikel 3. Voorwaarden
 
-1. De dienst mag voor de in [artikel 2, onder a tot en met d, j, p tot en met r, t, u, w en z](https://wetten.overheid.nl/jci1.3:c:BWBR0008144&artikel=2&z=2015-07-01&g=2015-07-01), bedoelde activiteiten prijzen in rekening brengen.
+1. De dienst mag voor de activiteiten, bedoeld in [artikel 2, onder a tot en met d, j, p tot en met r, t, u, w, z en ee](https://wetten.overheid.nl/jci1.3:c:BWBR0008144&artikel=2&z=2017-05-13&g=2017-05-13), prijzen in rekening brengen.
 
-2. De in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0008144&artikel=2&z=2015-07-01&g=2015-07-01) bedoelde activiteiten en de hiervoor door de dienst in rekening te brengen prijzen dienen te voldoen aan de volgende voorwaarden:
+2. De in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0008144&artikel=2&z=2017-05-13&g=2017-05-13) bedoelde activiteiten en de hiervoor door de dienst in rekening te brengen prijzen dienen te voldoen aan de volgende voorwaarden:
 
-- a. de exploitatie mag niet ten koste gaan van de in artikel 4b, eerste en tweede lid, onderdeel a, bedoelde taken;
+- a. de exploitatie mag niet ten koste gaan van de in [artikel 4b, eerste en tweede lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=4b), bedoelde taken;
 
 - b. de exploitatie mag niet leiden tot concurrentieverstoring;
 
