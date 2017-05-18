@@ -4,7 +4,7 @@ identifier: "BWBR0020566"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-01-01"
-last_updated: "2016-04-20"
+last_updated: "2017-05-18"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0020566"
 soort: "ministeriele-regeling"
@@ -144,7 +144,7 @@ Indien ten aanzien van het gebruik een specifieke nauwkeurigheidsklasse voor een
 
 ##### Artikel 10
 
-Automatische weeginstrumenten met een in [artikel 2, onderdeel e, onder 1°, van het Besluit meetinstrumenten en marktdeelnemers](https://wetten.overheid.nl/jci1.3:c:BWBR0037835&artikel=2) bedoelde taak voldoen na ingebruikneming aan de toepasselijke essentiële eisen van bijlage VIII van de richtlijn meetinstrumenten, met dien verstande dat:
+Automatische weeginstrumenten met een in [artikel 2, onderdeel e, onder 1°,](https://wetten.overheid.nl/jci1.3:c:BWBR0037835&artikel=2) of [artikel 2a van het Besluit meetinstrumenten en marktdeelnemers](https://wetten.overheid.nl/jci1.3:c:BWBR0037835&artikel=2a) bedoelde taak voldoen na ingebruikneming aan de toepasselijke essentiële eisen van bijlage VIII van de richtlijn meetinstrumenten, met dien verstande dat:
 
 - a. de in hoofdstuk II, onderdeel 4.1, opgenomen gemiddelde fout voor categorie X weeginstrumenten telkens met een factor 2 wordt vermenigvuldigd;
 
@@ -202,7 +202,7 @@ Een automatisch weegwerktuig dat niet in een hogere nauwkeurigheidsklasse valt d
 
 - d. continue totalisators: nauwkeurigheidsklasse 1 of 2, bedoeld in hoofdstuk V, onderdeel 1, van bijlage VIII van de richtlijn meetinstrumenten,
 
-- e. mag slechts worden gebruikt voor:
+mag slechts worden gebruikt voor:
 
 - 1°. het bepalen van de vervoerskosten van postpakketten;
 
@@ -210,7 +210,9 @@ Een automatisch weegwerktuig dat niet in een hogere nauwkeurigheidsklasse valt d
 
 - 3°. voor het wegen in mortelfabrieken van asfaltbeton, betonmortel, metselspecie en soortgelijke producten, alsmede voor het in die fabrieken bij de vervaardiging van die producten wegen van materialen, waaruit die producten worden samengesteld;
 
-- 4°. het wegen van afvalstoffen en van zand, grind en aarde.
+- 4°. het wegen van afvalstoffen en van zand, grind en aarde;
+
+- 5°. het wegen van beladen containers, bedoeld in hoofdstuk VI, deel A, voorschrift 2, vierde lid, onderdeel 1, van de bijlage van het SOLAS-verdrag.
 
 ##### Artikel 16
 
@@ -272,7 +274,9 @@ Een niet-automatisch weegwerktuig dat niet voldoet aan een hogere nauwkeurigheid
 
 - d. het wegen van afvalstoffen en van zand, grind en aarde;
 
-- e. het wegen van visserijproducten aan boord van een vissersvaartuig.
+- e. het wegen van visserijproducten aan boord van een vissersvaartuig;
+
+- f. het wegen van beladen containers, bedoeld in hoofdstuk VI, deel A, voorschrift 2, vierde lid, onderdeel 1, van de bijlage van het SOLAS-verdrag.
 
 #### § 5. Specifieke bepalingen inzake korenschalen, alcoholmeters en areometers voor alcohol
 
@@ -312,7 +316,7 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 2. Voordat een thermische energiemeter op de bestemde plaats in gebruik wordt genomen, stelt degene die zorg draagt voor de installatie hiervan vast of in de gegeven omstandigheden de thermische energiemeter geschikt is voor een correcte meting van het te verwachten gebruik.
 
-3. [Artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0020566&paragraaf=2&artikel=3&z=2016-04-20&g=2016-04-20) en het eerste lid zijn tien jaar na inwerkingtreding van dit artikel niet van toepassing op thermische energiemeters die reeds in gebruik zijn genomen voor de inwerkingtreding van deze regeling en die voldoen aan de nauwkeurigheidseis ten aanzien van thermische energiemeters van klasse 3 als bedoeld in onderdeel 3 van bijlage VI van de richtlijn meetinstrumenten met dien verstande dat de maximaal toelaatbare fout met de factor 2 wordt vermenigvuldigd.
+3. [Artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0020566&paragraaf=2&artikel=3&z=2017-05-18&g=2017-05-18) en het eerste lid zijn tien jaar na inwerkingtreding van dit artikel niet van toepassing op thermische energiemeters die reeds in gebruik zijn genomen voor de inwerkingtreding van deze regeling en die voldoen aan de nauwkeurigheidseis ten aanzien van thermische energiemeters van klasse 3 als bedoeld in onderdeel 3 van bijlage VI van de richtlijn meetinstrumenten met dien verstande dat de maximaal toelaatbare fout met de factor 2 wordt vermenigvuldigd.
 
 #### § 4. Specifieke bepalingen inzake niet-automatische weegwerktuigen
 
