@@ -4,7 +4,7 @@ identifier: "BWBR0038585"
 country: "nl"
 rank: "amvb"
 publication_date: "2017-06-01"
-last_updated: "2016-10-06"
+last_updated: "2017-05-19"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0038585"
 soort: "AMvB"
@@ -42,7 +42,7 @@ Wijzigt het Besluit bestuurlijke boete Drank- en Horecawet.
 
 ##### Artikel II
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Tabaks- en rookwarenwet.
 
 ##### Artikel III
 
@@ -118,7 +118,7 @@ Wijzigt het Besluit zorgverzekering.
 
 ##### Artikel XXI
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt het Uitvoeringsbesluit WTZi.
 
 ##### Artikel XXII
 
@@ -156,11 +156,11 @@ Wijzigt het Registratiebesluit BIG.
 
 1. Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin het wordt geplaatst.
 
-2. In afwijking van het eerste lid treden de [artikelen II](https://wetten.overheid.nl/jci1.3:c:BWBR0038585&artikel=II&z=2016-10-06&g=2016-10-06), [XXI](https://wetten.overheid.nl/jci1.3:c:BWBR0038585&artikel=XXI&z=2016-10-06&g=2016-10-06) en [XXVII](https://wetten.overheid.nl/jci1.3:c:BWBR0038585&artikel=XXVII&z=2016-10-06&g=2016-10-06) in werking op een bij koninklijk besluit te bepalen tijdstip.
+2. In afwijking van het eerste lid treden de [artikelen II](https://wetten.overheid.nl/jci1.3:c:BWBR0038585&artikel=II&z=2017-05-19&g=2017-05-19), [XXI](https://wetten.overheid.nl/jci1.3:c:BWBR0038585&artikel=XXI&z=2017-05-19&g=2017-05-19) en XXVII in werking op een bij koninklijk besluit te bepalen tijdstip.
 
-3. [Artikel XII](https://wetten.overheid.nl/jci1.3:c:BWBR0038585&artikel=XII&z=2016-10-06&g=2016-10-06) werkt terug tot en met 1 januari 2016.
+3. [Artikel XII](https://wetten.overheid.nl/jci1.3:c:BWBR0038585&artikel=XII&z=2017-05-19&g=2017-05-19) werkt terug tot en met 1 januari 2016.
 
-4. [Artikel XVI](https://wetten.overheid.nl/jci1.3:c:BWBR0038585&artikel=XVI&z=2016-10-06&g=2016-10-06) werkt terug tot en met 1 januari 2015.
+4. [Artikel XVI](https://wetten.overheid.nl/jci1.3:c:BWBR0038585&artikel=XVI&z=2017-05-19&g=2017-05-19) werkt terug tot en met 1 januari 2015.
 
 Op de voordracht van Onze Minister van Volksgezondheid, Welzijn en Sport van 13 april 2016, kenmerk 904796-146214-WJZ, gedaan mede namens de Staatssecretaris van Volksgezondheid, Welzijn en Sport;
 
@@ -171,5 +171,7 @@ De Afdeling advisering van de Raad van State gehoord (advies van 19 mei 2016, nu
 Gezien het nader rapport van Onze Minister van Volksgezondheid, Welzijn en Sport van 9 september 2016, kenmerk 904787-146214-WJZ, uitgebracht mede namens de Staatssecretaris van Volksgezondheid, Welzijn en Sport;
 
 Hebben goedgevonden en verstaan:
+
+Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
