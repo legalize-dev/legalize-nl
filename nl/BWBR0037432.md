@@ -4,7 +4,7 @@ identifier: "BWBR0037432"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-11-11"
-last_updated: "2017-01-01"
+last_updated: "2017-05-30"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0037432"
 soort: "ministeriele-regeling"
@@ -48,15 +48,13 @@ In deze regeling en de daarop berustende bepalingen wordt verstaan onder:
 
 - a. **directeur-generaal:** de directeur-generaal Sociale Zekerheid en Integratie;
 
-- b. **directie:** een van de organisatieonderdelen, genoemd in [artikel 2, onderdelen a tot en met d](https://wetten.overheid.nl/jci1.3:c:BWBR0037432&paragraaf=2&artikel=2&z=2017-05-30&g=2017-01-01);
+- b. **directie:** een van de organisatieonderdelen, genoemd in [artikel 2, onderdelen a tot en met d](https://wetten.overheid.nl/jci1.3:c:BWBR0037432&paragraaf=2&artikel=2&z=2017-05-30&g=2017-05-30);
 
 - c. **directeur:** een functionaris die leiding geeft aan een directie;
 
-- d. **bureauhoofd:** een functionaris die leiding geeft aan het bureau DG-Control, genoemd in [artikel 2, onderdeel e](https://wetten.overheid.nl/jci1.3:c:BWBR0037432&paragraaf=2&artikel=2&z=2017-05-30&g=2017-01-01);
+- d. **hoofd van de afdeling Budgetbeheer, secretariaat en bedrijfsvoering-SZI:** een functionaris die leiding geeft aan de afdeling Budgetbeheer, secretariaat en bedrijfsvoering-SZI;
 
-- e. **hoofd van de afdeling Budgetbeheer, secretariaat en bedrijfsvoering-SZI:** een functionaris die leiding geeft aan de afdeling Budgetbeheer, secretariaat en bedrijfsvoering-SZI;
-
-- f. **RCN:** Rijksdienst Caribisch Nederland.
+- e. **RCN:** Rijksdienst Caribisch Nederland.
 
 #### § 2. Organisatie
 
@@ -72,9 +70,7 @@ Onder de directeur-generaal ressorteren:
 
 - d. de directie Samenleving en Integratie;
 
-- e. het bureau DG-Control;
-
-- f. de afdeling Budgetbeheer, secretariaat en bedrijfsvoering-SZI.
+- e. de afdeling Budgetbeheer, secretariaat en bedrijfsvoering-SZI.
 
 #### § 3. Verantwoordelijkheden
 
@@ -110,9 +106,7 @@ Onder de directeur-generaal ressorteren:
 
 - n. het materieel beheer overeenkomstig de [Regeling materieelbeheer rijksoverheid 2006](https://wetten.overheid.nl/jci1.3:c:BWBR0019767) en de [Regeling materieelbeheer museale voorwerpen](https://wetten.overheid.nl/jci1.3:c:BWBR0032429).
 
-2. Het eerste lid, met uitzondering van de onderdelen h tot en met k, is van overeenkomstige toepassing op het bureauhoofd.
-
-3. Het eerste lid is van overeenkomstige toepassing op het hoofd van de afdeling Budgetbeheer, secretariaat en bedrijfsvoering-SZI.
+2. Het eerste lid is van overeenkomstige toepassing op het hoofd van de afdeling Budgetbeheer, secretariaat en bedrijfsvoering-SZI.
 
 ##### Artikel 4
 
@@ -194,11 +188,11 @@ De directie Samenleving en Integratie is verantwoordelijk voor:
 
 ##### Artikel 8
 
-Het bureau DG-Control is verantwoordelijk voor beheersmatig en beleidsinhoudelijk ondersteunen van de directeur-generaal bij de aansturing van de onder hem ressorterende directies.
+Vervallen
 
 ##### Artikel 9
 
-1. De afdeling Budgetbeheer, secretariaat en bedrijfsvoering-SZI is ten behoeve van de directeur-generaal en de onder de directeur-generaal ressorterende organisatieonderdelen, genoemd in [artikel 2, onderdelen a tot en met f](https://wetten.overheid.nl/jci1.3:c:BWBR0037432&paragraaf=2&artikel=2&z=2017-05-30&g=2017-01-01), verantwoordelijk voor:
+1. De afdeling Budgetbeheer, secretariaat en bedrijfsvoering-SZI is ten behoeve van de directeur-generaal en de onder de directeur-generaal ressorterende organisatieonderdelen, genoemd in [artikel 2, onderdelen a tot en met e](https://wetten.overheid.nl/jci1.3:c:BWBR0037432&paragraaf=2&artikel=2&z=2017-05-30&g=2017-05-30), verantwoordelijk voor:
 
 - a. alle interne bedrijfsvoeringsprocessen, waaronder de management-, administratieve-, personele- en financiële ondersteuning, automatisering en huisvesting;
 
@@ -212,7 +206,9 @@ Het bureau DG-Control is verantwoordelijk voor beheersmatig en beleidsinhoudelij
 
 - f. het financieel beheer;
 
-- g. de afwikkeling van de opgeheven Raad voor Werk en Inkomen en de afwikkeling van de opgeheven arbeidsvoorzieningsorganisatie.
+- g. de afwikkeling van de opgeheven Raad voor Werk en Inkomen en de afwikkeling van de opgeheven arbeidsvoorzieningsorganisatie;
+
+- h. het beheersmatig en beleidsinhoudelijk ondersteunen van de directeur-generaal bij de aansturing van de onder hem ressorterende directies.
 
 2. De aansturing van het hoofd van de afdeling Budgetbeheer, secretariaat en bedrijfsvoering-SZI berust bij de directeur, die door de directeur-generaal is aangewezen als plaatsvervangend directeur-generaal.
 
@@ -220,11 +216,11 @@ Het bureau DG-Control is verantwoordelijk voor beheersmatig en beleidsinhoudelij
 
 ##### Artikel 10
 
-1. Elk van de directeuren, alsmede het bureauhoofd zijn bevoegd om namens een bewindspersoon besluiten te nemen, overeenkomsten aan te gaan en handelingen te verrichten die noch een besluit, noch een privaatrechtelijke rechtshandeling zijn, voor zover zij verband houden met de taken en verantwoordelijkheden van zijn directie, dan wel bureau, tenzij deze zijn voorbehouden aan een bewindspersoon, de secretaris-generaal, de plaatsvervangend secretaris-generaal of de directeur-generaal.
+1. Elk van de directeuren is bevoegd om namens een bewindspersoon besluiten te nemen, overeenkomsten aan te gaan en handelingen te verrichten die noch een besluit, noch een privaatrechtelijke rechtshandeling zijn, voor zover zij verband houden met de taken en verantwoordelijkheden van zijn directie, dan wel bureau, tenzij deze zijn voorbehouden aan een bewindspersoon, de secretaris-generaal, de plaatsvervangend secretaris-generaal of de directeur-generaal.
 
-2. Aan elke directeur, alsmede het bureauhoofd wordt mandaat en machtiging verleend tot het nemen van besluiten over en het vaststellen en ondertekenen van stukken die betrekking hebben op:
+2. Aan elke directeur wordt mandaat en machtiging verleend tot het nemen van besluiten over en het vaststellen en ondertekenen van stukken die betrekking hebben op:
 
-- a. de in [artikel 3, eerste lid, onderdeel e](https://wetten.overheid.nl/jci1.3:c:BWBR0037432&paragraaf=3&artikel=3&z=2017-05-30&g=2017-01-01), genoemde personeelsaangelegenheden;
+- a. de in [artikel 3, eerste lid, onderdeel e](https://wetten.overheid.nl/jci1.3:c:BWBR0037432&paragraaf=3&artikel=3&z=2017-05-30&g=2017-05-30), genoemde personeelsaangelegenheden;
 
 - b. de behandeling van klachten als bedoeld in [artikel 9:1 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=9:1), voor zover deze klachten betrekking hebben op gedragingen van de onder elk van hen ressorterende functionarissen.
 
@@ -250,27 +246,27 @@ Het bureau DG-Control is verantwoordelijk voor beheersmatig en beleidsinhoudelij
 
 ##### Artikel 11
 
-1. [Artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0037432&paragraaf=4&artikel=10&z=2017-05-30&g=2017-01-01) is van overeenkomstige toepassing op de bevoegdheden van het hoofd van de afdeling Budgetbeheer, secretariaat en bedrijfsvoering-SZI, voor zover zij verband houden met de verantwoordelijkheden ten behoeve van de eigen afdeling.
+1. [Artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0037432&paragraaf=4&artikel=10&z=2017-05-30&g=2017-05-30) is van overeenkomstige toepassing op de bevoegdheden van het hoofd van de afdeling Budgetbeheer, secretariaat en bedrijfsvoering-SZI, voor zover zij verband houden met de verantwoordelijkheden ten behoeve van de eigen afdeling.
 
-2. In afwijking van het eerste lid wordt aan het hoofd van de afdeling Budgetbeheer, secretariaat en bedrijfsvoering-SZI mandaat en machtiging verleend met betrekking tot het nemen van besluiten over en het vaststellen en ondertekenen van stukken voor zover zij verband houden met de verantwoordelijkheden ten behoeve van de directeur-generaal, de directeuren en het bureauhoofd.
+2. In afwijking van het eerste lid wordt aan het hoofd van de afdeling Budgetbeheer, secretariaat en bedrijfsvoering-SZI mandaat en machtiging verleend met betrekking tot het nemen van besluiten over en het vaststellen en ondertekenen van stukken voor zover zij verband houden met de verantwoordelijkheden ten behoeve van de directeur-generaal en de directeuren.
 
-3. In afwijking van het eerste lid wordt aan het hoofd van de afdeling Budgetbeheer, secretariaat en bedrijfsvoering-SZI volmacht verleend met betrekking tot het verrichten van de volgende privaatrechtelijke rechtshandelingen, voor zover zij verband houden met de verantwoordelijkheden ten behoeve van de directeur-generaal, de directeuren en het bureauhoofd:
+3. In afwijking van het eerste lid wordt aan het hoofd van de afdeling Budgetbeheer, secretariaat en bedrijfsvoering-SZI volmacht verleend met betrekking tot het verrichten van de volgende privaatrechtelijke rechtshandelingen, voor zover zij verband houden met de verantwoordelijkheden ten behoeve van de directeur-generaal en de directeuren:
 
 - a. het aangaan van overeenkomsten met betrekking tot de levering van goederen en diensten die voortvloeien uit een door de directie Bedrijfsvoering afgesloten raamovereenkomst;
 
 - b. het afsluiten van koop-, huur- en leaseovereenkomsten met een waarde van ten hoogste € 15.000,– per overeenkomst.
 
-4. De directeuren en het bureauhoofd blijven te allen tijde bevoegd de bevoegdheden, genoemd in het tweede en derde lid, voor zover zij verband houden met de eigen directie dan wel bureau, zelf uit te oefenen.
+4. De directeuren blijven te allen tijde bevoegd de bevoegdheden, genoemd in het tweede en derde lid, voor zover zij verband houden met de eigen directie dan wel bureau, zelf uit te oefenen.
 
 ##### Artikel 12
 
-In aanvulling op [artikel 10, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037432&paragraaf=4&artikel=10&z=2017-05-30&g=2017-01-01), wordt aan de directeur van de directie Stelsel en Volksverzekeringen mandaat verleend tot het verlenen van subsidies en rijksvergoedingen ter zake van wetten en regelingen waarvan de uitvoering is opgedragen aan de Sociale verzekeringsbank, voor zover het wetten en regelingen betreft op het werkterrein van de directie Samenleving en Integratie, de directie Werknemersregelingen en de directie Participatie en Decentrale Voorzieningen.
+In aanvulling op [artikel 10, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037432&paragraaf=4&artikel=10&z=2017-05-30&g=2017-05-30), wordt aan de directeur van de directie Stelsel en Volksverzekeringen mandaat verleend tot het verlenen van subsidies en rijksvergoedingen ter zake van wetten en regelingen waarvan de uitvoering is opgedragen aan de Sociale verzekeringsbank, voor zover het wetten en regelingen betreft op het werkterrein van de directie Samenleving en Integratie, de directie Werknemersregelingen en de directie Participatie en Decentrale Voorzieningen.
 
 #### § 5. Slotbepalingen
 
 ##### Artikel 13
 
-1. De directeuren, alsmede het bureauhoofd kunnen hun vertegenwoordigingsbevoegdheden in een door hen te bepalen omvang doorverlenen aan onder hen ressorterende functionarissen, met dien verstande dat bevoegdheden met betrekking tot personeelsaangelegenheden slechts kunnen worden doorverleend aan rechtstreeks onder hen ressorterende functionarissen en slechts voor zover het betreft:
+1. De directeuren kunnen hun vertegenwoordigingsbevoegdheden in een door hen te bepalen omvang doorverlenen aan onder hen ressorterende functionarissen, met dien verstande dat bevoegdheden met betrekking tot personeelsaangelegenheden slechts kunnen worden doorverleend aan rechtstreeks onder hen ressorterende functionarissen en slechts voor zover het betreft:
 
 - a. het opmaken, niet zijnde vaststellen, van een beoordeling van medewerkers;
 
@@ -284,7 +280,7 @@ In aanvulling op [artikel 10, derde lid](https://wetten.overheid.nl/jci1.3:c:BWB
 
 3. De (door)verlening van (onder-)mandaat, volmacht en machtiging kan uitsluitend bij een schriftelijk besluit geschieden.
 
-4. Het eerste lid is van overeenkomstige toepassing op de bevoegdheden van het hoofd van de afdeling Budgetbeheer, secretariaat en bedrijfsvoering-SZI, voor zover zij verband houden met de verantwoordelijkheden ten behoeve van de eigen afdeling. In afwijking hiervan kan het hoofd van de afdeling Budgetbeheer, secretariaat en bedrijfsvoering-SZI de volgende bevoegdheden, voor zover zij verband houden met de verantwoordelijkheden ten behoeve van de directeur-generaal, de directeuren en het bureauhoofd, doorverlenen aan onder hem ressorterende functionarissen:
+4. Het eerste lid is van overeenkomstige toepassing op de bevoegdheden van het hoofd van de afdeling Budgetbeheer, secretariaat en bedrijfsvoering-SZI, voor zover zij verband houden met de verantwoordelijkheden ten behoeve van de eigen afdeling. In afwijking hiervan kan het hoofd van de afdeling Budgetbeheer, secretariaat en bedrijfsvoering-SZI de volgende bevoegdheden, voor zover zij verband houden met de verantwoordelijkheden ten behoeve van de directeur-generaal en de directeuren, doorverlenen aan onder hem ressorterende functionarissen:
 
 - a. het aangaan van overeenkomsten met betrekking tot de levering van goederen en diensten die voortvloeien uit een door de directie Bedrijfsvoering afgesloten raamovereenkomst;
 
@@ -294,7 +290,7 @@ In aanvulling op [artikel 10, derde lid](https://wetten.overheid.nl/jci1.3:c:BWB
 
 1. Het [Organisatie-, mandaat- en volmachtbesluit directeur-generaal Participatie en Inkomenswaarborg 2009](https://wetten.overheid.nl/jci1.3:c:BWBR0024972) wordt ingetrokken.
 
-2. Na de inwerkingtreding van deze regeling berusten de volgende regelingen die genomen zijn krachtens de [artikelen 3, eerste lid, aanhef en onderdeel k](https://wetten.overheid.nl/jci1.3:c:BWBR0024972&artikel=3), en [10, van het Organisatie-, mandaat- en volmachtbesluit directeur-generaal Participatie en Inkomenswaarborg 2009](https://wetten.overheid.nl/jci1.3:c:BWBR0024972&artikel=10) op de [artikelen 3, eerste lid, aanhef en onderdeel k](https://wetten.overheid.nl/jci1.3:c:BWBR0037432&paragraaf=3&artikel=3&z=2017-05-30&g=2017-01-01), en [10](https://wetten.overheid.nl/jci1.3:c:BWBR0037432&paragraaf=4&artikel=10&z=2017-05-30&g=2017-01-01) van deze regeling:
+2. Na de inwerkingtreding van deze regeling berusten de volgende regelingen die genomen zijn krachtens de [artikelen 3, eerste lid, aanhef en onderdeel k](https://wetten.overheid.nl/jci1.3:c:BWBR0024972&artikel=3), en [10, van het Organisatie-, mandaat- en volmachtbesluit directeur-generaal Participatie en Inkomenswaarborg 2009](https://wetten.overheid.nl/jci1.3:c:BWBR0024972&artikel=10) op de [artikelen 3, eerste lid, aanhef en onderdeel k](https://wetten.overheid.nl/jci1.3:c:BWBR0037432&paragraaf=3&artikel=3&z=2017-05-30&g=2017-05-30), en [10](https://wetten.overheid.nl/jci1.3:c:BWBR0037432&paragraaf=4&artikel=10&z=2017-05-30&g=2017-05-30) van deze regeling:
 
 - a. het [Organisatie-, mandaat- en volmachtbesluit Re-integratie en Participatie 2009](https://wetten.overheid.nl/jci1.3:c:BWBR0024987);
 
@@ -304,7 +300,7 @@ In aanvulling op [artikel 10, derde lid](https://wetten.overheid.nl/jci1.3:c:BWB
 
 - d. het [Organisatie-, mandaat- en volmachtbesluit I&S 2014](https://wetten.overheid.nl/jci1.3:c:BWBR0034841).
 
-3. Na de inwerkingtreding van deze regeling berust het [Organisatie-, mandaat- en volmachtbesluit afdeling BSB-P&I 2013](https://wetten.overheid.nl/jci1.3:c:BWBR0034688) dat genomen is krachtens de [artikelen 3, eerste lid, aanhef en onderdeel k, en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024972&artikel=3), en [10, van het Organisatie-, mandaat- en volmachtbesluit directeur-generaal Participatie en Inkomenswaarborg 2009](https://wetten.overheid.nl/jci1.3:c:BWBR0024972&artikel=10) op de [artikelen 3, eerste lid, aanhef en onderdeel k, en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037432&paragraaf=3&artikel=3&z=2017-05-30&g=2017-01-01), en [10](https://wetten.overheid.nl/jci1.3:c:BWBR0037432&paragraaf=4&artikel=10&z=2017-05-30&g=2017-01-01) van deze regeling.
+3. Na de inwerkingtreding van deze regeling berust het [Organisatie-, mandaat- en volmachtbesluit afdeling BSB-P&I 2013](https://wetten.overheid.nl/jci1.3:c:BWBR0034688) dat genomen is krachtens de [artikelen 3, eerste lid, aanhef en onderdeel k, en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024972&artikel=3), en [10, van het Organisatie-, mandaat- en volmachtbesluit directeur-generaal Participatie en Inkomenswaarborg 2009](https://wetten.overheid.nl/jci1.3:c:BWBR0024972&artikel=10) op de [artikelen 3, eerste lid, aanhef en onderdeel k, en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037432&paragraaf=3&artikel=3&z=2017-05-30&g=2017-05-30), en [10](https://wetten.overheid.nl/jci1.3:c:BWBR0037432&paragraaf=4&artikel=10&z=2017-05-30&g=2017-05-30) van deze regeling.
 
 4. Deze regeling treedt in werking met ingang van de eerste dag na de dagtekening van de Staatscourant waarin zij wordt geplaatst en werkt terug tot en met 1 mei 2015.
 
