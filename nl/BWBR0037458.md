@@ -4,7 +4,7 @@ identifier: "BWBR0037458"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2023-12-09"
-last_updated: "2017-01-01"
+last_updated: "2017-05-30"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0037458"
 soort: "ministeriele-regeling"
@@ -54,13 +54,15 @@ In deze regeling en de daarop berustende bepalingen wordt verstaan onder:
 
 ##### Artikel 2
 
-Onder BSB-SZI ressorteren twee organisatieonderdelen: het team Financieel beheer en bedrijfsvoering-SZI en het team secretariaat-SZI.
+BSB-SZI bestaat uit het team Financieel beheer en bedrijfsvoering-SZI, het team secretariaat-SZI en de DG-controller.
 
 ##### Artikel 3
 
 1. Het hoofd van BSB-SZI is tevens teamleider van het team Financieel beheer en bedrijfsvoering-SZI.
 
-2. De teamleider van het team secretariaat-SZI is verantwoordelijk voor de managementondersteuning van de directeur-generaal en de onder de directeur-generaal ressorterende organisatieonderdelen.
+2. De teamleider van het team secretariaat-SZI is verantwoordelijk voor de managementondersteuning van de onder de directeur-generaal ressorterende organisatieonderdelen.
+
+3. De DG-controller is verantwoordelijk voor beheersmatig en beleidsinhoudelijk ondersteunen van de directeur-generaal bij de aansturing van de onder hem ressorterende directies.
 
 #### § 3. Bevoegdheden ten behoeve van de directeur-generaal en de onder de directeur-generaal ressorterende organisatieonderdelen
 
@@ -74,11 +76,11 @@ Aan de teamleider van het team secretariaat-SZI wordt mandaat en machtiging verl
 
 ##### Artikel 5
 
-1. De aangewezen beleidsmedewerker van de afdeling Werkgevers en Sociale Zekerheid buiten Europees Nederland van de directie Werknemersregelingen is gevolmachtigd om reisbescheiden te bestellen met een waarde van ten hoogste € 5.000,– per bestelling. Bij afwezigheid of verhindering van de aangewezen beleidsmedewerker wordt, voor de duur van de afwezigheid of verhindering, deze bevoegdheid waargenomen door de aangewezen managementondersteuner van het team secretariaat-SZI.
+1. De door het hoofd van BSB-SZI en de directeur Werknemersregelingen schriftelijk aangewezen beleidsmedewerker van de afdeling Werkgevers en Sociale Zekerheid buiten Europees Nederland van de directie Werknemersregelingen is gevolmachtigd om reisbescheiden te bestellen met een waarde van ten hoogste € 5.000,– per bestelling. Bij afwezigheid of verhindering van de aangewezen beleidsmedewerker wordt, voor de duur van de afwezigheid of verhindering, deze bevoegdheid waargenomen door de aangewezen medewerker van BSB SZI.
 
-2. De aangewezen ondersteunend medewerkers van het team secretariaat-SZI zijn gevolmachtigd om kantoorartikelen en boeken te bestellen met een waarde van ten hoogste € 1.500,– per bestelling.
+2. De door het hoofd van BSB SZI schriftelijk aangewezen medewerkers van BSB SZI zijn gevolmachtigd om voor de bestelcategorieën bloemen, kantoorartikelen, VVV-bonnen, en boeken/tijdschriften/abonnementen bestellingen te doen met een waarde van ten hoogste € 1.500,– per bestelling.
 
-3. De medewerkers van het team secretariaat-SZI zijn gevolmachtigd om attenties te bestellen met een waarde van ten hoogste € 200,– per bestelling.
+3. De door het hoofd van BSB SZI schriftelijk aangewezen medewerkers van het team secretariaat-SZI zijn gevolmachtigd om ten aanzien van de niet in het tweede lid genoemde bestelcategorieën bestellingen te doen met een waarde van ten hoogste € 200,– per bestelling.
 
 ##### Artikel 6
 
@@ -86,7 +88,7 @@ Doorverlening van bevoegdheden is slechts toegestaan na voorafgaande schriftelij
 
 ##### Artikel 7
 
-Bij afwezigheid of verhindering van het hoofd van BSB-SZI worden, voor de duur van de afwezigheid of verhindering, diens taken en bevoegdheden waargenomen door een aangewezen medewerker of de teamleider van het team secretariaat-SZI.
+Bij afwezigheid of verhindering van het hoofd van BSB-SZI worden, voor de duur van de afwezigheid of verhindering, diens taken en bevoegdheden waargenomen door een door het hoofd van BSB-SZI schriftelijk aangewezen medewerker of de teamleider van het team secretariaat-SZI.
 
 #### § 4. Aanvullende bevoegdheden ten behoeve van BSB-SZI
 
