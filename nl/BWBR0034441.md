@@ -4,7 +4,7 @@ identifier: "BWBR0034441"
 country: "nl"
 rank: "zbo"
 publication_date: "2017-05-31"
-last_updated: "2015-01-01"
+last_updated: "2017-05-31"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0034441"
 soort: "zbo"
@@ -108,7 +108,7 @@ de Afdeling Bosbouwgewassen: 2.
 
 2. De Raad besluit met meerderheid van stemmen. Bij staking van stemmen beslist de voorzitter of, bij diens ontstentenis, de plaatsvervangend voorzitter.
 
-3. Onverminderd [artikel 11, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034441&artikel=11&z=2013-12-21&g=2015-01-01), worden de besluiten van de Raad, voor zover zij besluiten zijn in de zin van de [Awb](https://wetten.overheid.nl/jci1.3:c:BWBR0005537), gedagtekend en ondertekend door de voorzitter of de plaatsvervangend voorzitter en de secretaris of een adjunct-secretaris.
+3. Onverminderd [artikel 11, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034441&artikel=11&z=2017-05-31&g=2017-05-31), worden de besluiten van de Raad, voor zover zij besluiten zijn in de zin van de [Awb](https://wetten.overheid.nl/jci1.3:c:BWBR0005537), gedagtekend en ondertekend door de voorzitter of de plaatsvervangend voorzitter en de secretaris of een adjunct-secretaris.
 
 ##### Artikel 7. (adviescommissies)
 
@@ -124,6 +124,22 @@ de Afdeling Bosbouwgewassen: 2.
 
 - d. tijdens de hoorzitting zijn naast de voorzitter of de plaatsvervangend voorzitter ten minste twee leden van de adviescommissie aanwezig.
 
+- a. Er is een adviescommissie Bosbouwgewassen. De adviescommissie is samengesteld uit onafhankelijk deskundigen afkomstig uit diverse geledingen van de bosbouwsector en bestaat uit ten minste vijf en ten hoogste acht leden waarvan er één als voorzitter en één als plaatsvervangend voorzitter wordt benoemd.
+
+- b. De adviescommissie heeft als doel:
+
+- –. de Raad te adviseren over de toelating tot het Nationaal Rassenregister van opstanden van richtlijnsoorten bedoeld in [artikel 10 Besluit werkzaamheden Raad voor plantenrassen](https://wetten.overheid.nl/jci1.3:c:BWBR0019209&artikel=10);
+
+- –. een aanbeveling te doen over het opnemen in de Rassenlijst Bomen van opstanden van bosbouwgewassen welke niet vallen onder de werking van [artikel 10 Besluit werkzaamheden Raad voor plantenrassen](https://wetten.overheid.nl/jci1.3:c:BWBR0019209&artikel=10). Bij een positieve aanbeveling stemt de Raad in met opname van de opstand in de Rassenlijst bomen.
+
+- –. de Raad te adviseren ten aanzien van overige aangelegenheden die samenhangen met de uitvoering van de taken op grond van [artikel 5 van de Regeling werkzaamheden Raad voor plantenrassen](https://wetten.overheid.nl/jci1.3:c:BWBR0019435&artikel=5).
+
+- c. De voorzitter van de Raad benoemt, gehoord de leden van de Raad, de leden van de adviescommissie.
+
+- d. De leden van de adviescommissie worden benoemd voor een periode van 5 jaar en kunnen eenmaal worden herbenoemd voor eenzelfde periode.
+
+- e. De adviescommissie komt bijeen zoveel als zij nodig acht met een maximum van drie bijeenkomsten per jaar.
+
 ##### Artikel 8. (deskundigen en deskundigencommissies van het bureau)
 
 1. De secretaris van de Raad kan deskundigen, al dan niet in commissieverband, benoemen.
@@ -138,7 +154,7 @@ de Afdeling Bosbouwgewassen: 2.
 
 3. Het tweede lid is van overeenkomstige toepassing op getuigen en deskundigen, die naar aanleiding van een oproeping van de Raad zijn verschenen.
 
-4. Het hoofd van het Bureau voor plantenrassen stelt vacatiegelden en vergoedingen voor reis- en verblijfkosten vast voor de ingevolge [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0034441&artikel=8&z=2013-12-21&g=2015-01-01) benoemde deskundigen.
+4. Het hoofd van het Bureau voor plantenrassen stelt vacatiegelden en vergoedingen voor reis- en verblijfkosten vast voor de ingevolge [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0034441&artikel=8&z=2017-05-31&g=2017-05-31) benoemde deskundigen.
 
 ##### Artikel 10. (vertegenwoordiging in en buiten rechte)
 
@@ -152,7 +168,7 @@ De Raad machtigt de secretaris of, bij diens ontstentenis, een adjunct-secretari
 
 3. Met betrekking tot de vaststelling van rasnamen is de secretaris bevoegd namens de Raad te besluiten, tenzij de belanghebbende uitdrukkelijk een beslissing van de Raad eist.
 
-4. In afwijking van [artikel 6, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034441&artikel=6&z=2013-12-21&g=2015-01-01), worden ingevolge het eerste of het tweede lid genomen besluiten namens de Raad door de secretaris ondertekend.
+4. In afwijking van [artikel 6, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034441&artikel=6&z=2017-05-31&g=2017-05-31), worden ingevolge het eerste of het tweede lid genomen besluiten namens de Raad door de secretaris ondertekend.
 
 5. De secretaris informeert de Raad over de aanvragen onderscheidenlijk de aanwijzingen en intrekkingen, die onder toepassing van het eerste onderscheidenlijk het tweede lid zijn afgehandeld.
 
