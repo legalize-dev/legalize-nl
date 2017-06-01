@@ -4,7 +4,7 @@ identifier: "BWBV0006431"
 country: "nl"
 rank: "verdrag"
 publication_date: "2017-06-01"
-last_updated: "2014-10-03"
+last_updated: "2017-06-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBV0006431"
 soort: "verdrag"
@@ -94,9 +94,9 @@ Dit Verdrag beoogt:
 
 - a. bevoegde autoriteit: een autoriteit die op het grondgebied van een Verdragsluitende Partij op grond van de interne bevoegdheidsverdeling verantwoordelijk is voor het toezicht op en de handhaving van de regelgeving inzake wegvervoer van goederen en personen;
 
-- b. ambtenaar: de bevoegde ambtenaar aangeduid door middel van een in [artikel 26](https://wetten.overheid.nl/jci1.3:c:BWBV0006431&hoofdstuk=VII&artikel=26&z=2014-10-03&g=2014-10-03) van dit Verdrag bedoelde uitvoeringsafspraak;
+- b. ambtenaar: de bevoegde ambtenaar aangeduid door middel van een in [artikel 26](https://wetten.overheid.nl/jci1.3:c:BWBV0006431&hoofdstuk=VII&artikel=26&z=2017-06-01&g=2017-06-01) van dit Verdrag bedoelde uitvoeringsafspraak;
 
-- c. grensoverschrijdend optreden: het optreden van ambtenaren van een Verdragsluitende Partij op het grondgebied van een andere Verdragsluitende Partij ter uitvoering van de doelstellingen bedoeld in [artikel 1, onder c)](https://wetten.overheid.nl/jci1.3:c:BWBV0006431&hoofdstuk=I&artikel=1&z=2014-10-03&g=2014-10-03), van dit Verdrag;
+- c. grensoverschrijdend optreden: het optreden van ambtenaren van een Verdragsluitende Partij op het grondgebied van een andere Verdragsluitende Partij ter uitvoering van de doelstellingen bedoeld in [artikel 1, onder c)](https://wetten.overheid.nl/jci1.3:c:BWBV0006431&hoofdstuk=I&artikel=1&z=2017-06-01&g=2017-06-01), van dit Verdrag;
 
 - d. grensoverschrijdende ambtenaar: een ambtenaar die grensoverschrijdend optreedt;
 
@@ -116,7 +116,7 @@ Dit Verdrag beoogt:
 
 - l. opsporing: een onderzoek dat geschiedt ter opheldering of ter voorkoming van een vermoedelijk gepleegd dan wel te plegen strafbaar feit en ter voorbereiding van een ter zake daarvan eventueel op te leggen strafrechtelijke sanctie.
 
-2. Een lijst van bevoegde autoriteiten en ambtenaren wordt vastgesteld en geactualiseerd door middel van een in [artikel 26](https://wetten.overheid.nl/jci1.3:c:BWBV0006431&hoofdstuk=VII&artikel=26&z=2014-10-03&g=2014-10-03) van dit Verdrag bedoelde uitvoeringsafspraak.
+2. Een lijst van bevoegde autoriteiten en ambtenaren wordt vastgesteld en geactualiseerd door middel van een in [artikel 26](https://wetten.overheid.nl/jci1.3:c:BWBV0006431&hoofdstuk=VII&artikel=26&z=2017-06-01&g=2017-06-01) van dit Verdrag bedoelde uitvoeringsafspraak.
 
 ##### Artikel 3. Verhouding tot andere regelingen
 
@@ -128,7 +128,7 @@ Voor zover in dit Verdrag niet uitdrukkelijk anders is bepaald, geschiedt de sam
 
 1. De Verdragsluitende Partijen streven naar een verdergaande harmonisatie van het toezicht op en de handhaving van de EU-wegvervoerregelgeving.
 
-2. In de in [artikel 27](https://wetten.overheid.nl/jci1.3:c:BWBV0006431&hoofdstuk=VII&artikel=27&z=2014-10-03&g=2014-10-03) van dit Verdrag genoemde actieplannen worden ter zake voorstellen opgenomen.
+2. In de in [artikel 27](https://wetten.overheid.nl/jci1.3:c:BWBV0006431&hoofdstuk=VII&artikel=27&z=2017-06-01&g=2017-06-01) van dit Verdrag genoemde actieplannen worden ter zake voorstellen opgenomen.
 
 ##### Artikel 5. Risicoclassificatiesystemen
 
@@ -154,11 +154,11 @@ De Verdragsluitende Partijen ondersteunen de grensoverschrijdende samenwerking i
 
 - g. de uitwisseling van personeel;
 
-- h. het verlenen van een recht tot toegang in het kader van een grensoverschrijdend optreden aan de grensoverschrijdende ambtenaren van de andere Verdragsluitende Partijen tot de nationale elektronische registers die elke Verdragsluitende Partij bijhoudt overeenkomstig de artikelen 16 en 17 van [Verordening (EG) nr. 1071/2009](32009R1071) van het Europees Parlement en de Raad van 21 oktober 2009 tot vaststelling van gemeenschappelijke regels betreffende de voorwaarden waaraan moet zijn voldaan om het beroep van wegvervoerondernemer uit te oefenen en tot intrekking van [Richtlijn 96/26/EG](31996L0026) van de Raad, alsmede tot andere nationale registers bepaald in een uitvoeringsafspraak zoals bedoeld in [artikel 26](https://wetten.overheid.nl/jci1.3:c:BWBV0006431&hoofdstuk=VII&artikel=26&z=2014-10-03&g=2014-10-03) van dit Verdrag, met inachtneming van de op die registers van toepassing zijnde wetgeving inzake de verwerking van persoonsgegevens en de bescherming van de persoonlijke levenssfeer.
+- h. het verlenen van een recht tot toegang in het kader van een grensoverschrijdend optreden aan de grensoverschrijdende ambtenaren van de andere Verdragsluitende Partijen tot de nationale elektronische registers die elke Verdragsluitende Partij bijhoudt overeenkomstig de artikelen 16 en 17 van [Verordening (EG) nr. 1071/2009](32009R1071) van het Europees Parlement en de Raad van 21 oktober 2009 tot vaststelling van gemeenschappelijke regels betreffende de voorwaarden waaraan moet zijn voldaan om het beroep van wegvervoerondernemer uit te oefenen en tot intrekking van [Richtlijn 96/26/EG](31996L0026) van de Raad, alsmede tot andere nationale registers bepaald in een uitvoeringsafspraak zoals bedoeld in [artikel 26](https://wetten.overheid.nl/jci1.3:c:BWBV0006431&hoofdstuk=VII&artikel=26&z=2017-06-01&g=2017-06-01) van dit Verdrag, met inachtneming van de op die registers van toepassing zijnde wetgeving inzake de verwerking van persoonsgegevens en de bescherming van de persoonlijke levenssfeer.
 
 ##### Artikel 7. Praktische modaliteiten van samenwerking
 
-De praktische modaliteiten van de samenwerking op grond van dit Verdrag worden door de bevoegde autoriteiten geregeld door middel van uitvoeringsafspraken zoals bedoeld in [artikel 26](https://wetten.overheid.nl/jci1.3:c:BWBV0006431&hoofdstuk=VII&artikel=26&z=2014-10-03&g=2014-10-03) van dit Verdrag.
+De praktische modaliteiten van de samenwerking op grond van dit Verdrag worden door de bevoegde autoriteiten geregeld door middel van uitvoeringsafspraken zoals bedoeld in [artikel 26](https://wetten.overheid.nl/jci1.3:c:BWBV0006431&hoofdstuk=VII&artikel=26&z=2017-06-01&g=2017-06-01) van dit Verdrag.
 
 ##### Artikel 8. Middelen en materieel
 
@@ -176,7 +176,7 @@ De bevoegde autoriteiten van de Verdragsluitende Partijen kunnen, afhankelijk va
 
 ##### Artikel 10. Taken bij grensoverschrijdend optreden
 
-De praktische modaliteiten van de samenwerking en de toekenning van taken bij deelname aan een grensoverschrijdend optreden worden door de bevoegde autoriteiten geregeld door middel van uitvoeringsafspraken zoals bedoeld in [artikel 26](https://wetten.overheid.nl/jci1.3:c:BWBV0006431&hoofdstuk=VII&artikel=26&z=2014-10-03&g=2014-10-03) van dit Verdrag. Daarbij wordt bij de toekenning van taken rekening gehouden met eventueel tussen de ambtenaren bestaande verschillen in de bevoegdheden waarover zij op hun eigen grondgebied beschikken.
+De praktische modaliteiten van de samenwerking en de toekenning van taken bij deelname aan een grensoverschrijdend optreden worden door de bevoegde autoriteiten geregeld door middel van uitvoeringsafspraken zoals bedoeld in [artikel 26](https://wetten.overheid.nl/jci1.3:c:BWBV0006431&hoofdstuk=VII&artikel=26&z=2017-06-01&g=2017-06-01) van dit Verdrag. Daarbij wordt bij de toekenning van taken rekening gehouden met eventueel tussen de ambtenaren bestaande verschillen in de bevoegdheden waarover zij op hun eigen grondgebied beschikken.
 
 ##### Artikel 11. Verzoek tot grensoverschrijdend optreden
 
@@ -188,7 +188,7 @@ De praktische modaliteiten van de samenwerking en de toekenning van taken bij de
 
 ##### Artikel 12. Informatieplicht
 
-1. De grensoverschrijdende ambtenaar wordt onverwijld in het bezit gesteld van een afschrift van de beslissing bedoeld in [artikel 11, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0006431&hoofdstuk=IV&artikel=11&z=2014-10-03&g=2014-10-03), van dit Verdrag.
+1. De grensoverschrijdende ambtenaar wordt onverwijld in het bezit gesteld van een afschrift van de beslissing bedoeld in [artikel 11, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0006431&hoofdstuk=IV&artikel=11&z=2017-06-01&g=2017-06-01), van dit Verdrag.
 
 2. De grensoverschrijdende ambtenaar is in het bezit van een inventaris van desgevallend meegevoerde middelen en materieel, zoals vastgesteld door de bevoegde autoriteit. Hij legt deze inventaris desgevraagd voor aan de daartoe bevoegde autoriteit van de ontvangststaat.
 
@@ -226,7 +226,7 @@ De grensoverschrijdende ambtenaar is te allen tijde in staat zijn officiële fun
 
 ##### Artikel 19. Overname en beëindiging
 
-1. Het begin en het einde van het grensoverschrijdend optreden worden vastgesteld in een uitvoeringsafspraak zoals bedoeld in [artikel 26](https://wetten.overheid.nl/jci1.3:c:BWBV0006431&hoofdstuk=VII&artikel=26&z=2014-10-03&g=2014-10-03) van dit Verdrag.
+1. Het begin en het einde van het grensoverschrijdend optreden worden vastgesteld in een uitvoeringsafspraak zoals bedoeld in [artikel 26](https://wetten.overheid.nl/jci1.3:c:BWBV0006431&hoofdstuk=VII&artikel=26&z=2017-06-01&g=2017-06-01) van dit Verdrag.
 
 2. In uitzonderlijke gevallen kan de bevoegde autoriteit van de ontvangststaat het grensoverschrijdend optreden overnemen, zo nodig in afwijking van de in het eerste lid genoemde uitvoeringsafspraak. Het grensoverschrijdend optreden wordt beëindigd zodra de bevoegde autoriteit van de ontvangststaat kennis geeft van deze overname.
 
@@ -268,9 +268,9 @@ De bevoegde autoriteiten maken op basis van en in het kader van dit Verdrag afsp
 
 ##### Artikel 27. Actieplannen
 
-1. De in [artikel 28](https://wetten.overheid.nl/jci1.3:c:BWBV0006431&hoofdstuk=VII&artikel=28&z=2014-10-03&g=2014-10-03) genoemde stuurgroep stelt periodieke actieplannen ter uitvoering van dit Verdrag vast en stuurt deze toe aan de regeringen van de Verdragsluitende Partijen.
+1. De in [artikel 28](https://wetten.overheid.nl/jci1.3:c:BWBV0006431&hoofdstuk=VII&artikel=28&z=2017-06-01&g=2017-06-01) genoemde stuurgroep stelt periodieke actieplannen ter uitvoering van dit Verdrag vast en stuurt deze toe aan de regeringen van de Verdragsluitende Partijen.
 
-2. De in [artikel 28](https://wetten.overheid.nl/jci1.3:c:BWBV0006431&hoofdstuk=VII&artikel=28&z=2014-10-03&g=2014-10-03) genoemde stuurgroep rapporteert jaarlijks aan de regeringen van de Verdragsluitende Partijen over de uitvoering van de in het eerste lid genoemde actieplannen.
+2. De in [artikel 28](https://wetten.overheid.nl/jci1.3:c:BWBV0006431&hoofdstuk=VII&artikel=28&z=2017-06-01&g=2017-06-01) genoemde stuurgroep rapporteert jaarlijks aan de regeringen van de Verdragsluitende Partijen over de uitvoering van de in het eerste lid genoemde actieplannen.
 
 ##### Artikel 28. Stuurgroep wegvervoerinspectie
 
@@ -278,7 +278,7 @@ De bevoegde autoriteiten maken op basis van en in het kader van dit Verdrag afsp
 
 2. De samenstelling van de in het eerste lid genoemde stuurgroep is vastgesteld in de bijlage bij dit Verdrag.
 
-3. Het voorzitterschap, de werking en de te volgen procedure tot wijziging van de samenstelling van de in het eerste lid genoemde stuurgroep worden bepaald in een uitvoeringsafspraak zoals bedoeld in [artikel 26](https://wetten.overheid.nl/jci1.3:c:BWBV0006431&hoofdstuk=VII&artikel=26&z=2014-10-03&g=2014-10-03) van dit Verdrag.
+3. Het voorzitterschap, de werking en de te volgen procedure tot wijziging van de samenstelling van de in het eerste lid genoemde stuurgroep worden bepaald in een uitvoeringsafspraak zoals bedoeld in [artikel 26](https://wetten.overheid.nl/jci1.3:c:BWBV0006431&hoofdstuk=VII&artikel=26&z=2017-06-01&g=2017-06-01) van dit Verdrag.
 
 ### HOOFDSTUK VIII. SLOTBEPALINGEN
 
@@ -306,7 +306,7 @@ Uiterlijk drie jaren na de inwerkingtreding van dit Verdrag evalueren de Verdrag
 
 ##### Artikel 33. Territoriaal toepassingsgebied
 
-Onverminderd [artikel 35](https://wetten.overheid.nl/jci1.3:c:BWBV0006431&hoofdstuk=VIII&artikel=35&z=2014-10-03&g=2014-10-03) van dit Verdrag, is dit Verdrag van toepassing op het grondgebied van het Koninkrijk België, het Groothertogdom Luxemburg en het Koninkrijk der Nederlanden in Europa.
+Onverminderd [artikel 35](https://wetten.overheid.nl/jci1.3:c:BWBV0006431&hoofdstuk=VIII&artikel=35&z=2017-06-01&g=2017-06-01) van dit Verdrag, is dit Verdrag van toepassing op het grondgebied van het Koninkrijk België, het Groothertogdom Luxemburg en het Koninkrijk der Nederlanden in Europa.
 
 ##### Artikel 34. Bekrachtiging en inwerkingtreding
 
@@ -324,7 +324,7 @@ Onverminderd [artikel 35](https://wetten.overheid.nl/jci1.3:c:BWBV0006431&hoofds
 
 ##### Artikel 35. Toetreding derde landen en deelstaten
 
-Het staat derde landen en, indien zij verdragsluitende bevoegdheid hebben, deelstaten vrij toe te treden tot dit Verdrag door de neerlegging van een akte van toetreding bij de depositaris. Voor toetredende landen of deelstaten treedt het Verdrag in werking op de eerste dag van de tweede maand volgend op de datum van neerlegging van de akte van toetreding en ten vroegste op de dag van inwerkingtreding van het Verdrag overeenkomstig het [vijfde lid van artikel 34](https://wetten.overheid.nl/jci1.3:c:BWBV0006431&hoofdstuk=VIII&artikel=34&z=2014-10-03&g=2014-10-03) van dit Verdrag. De depositaris brengt de Verdragsluitende Partijen op de hoogte van de neerlegging van de akte van toetreding en van de datum van inwerkingtreding van dit Verdrag voor het toetredende land of de toetredende deelstaat.
+Het staat derde landen en, indien zij verdragsluitende bevoegdheid hebben, deelstaten vrij toe te treden tot dit Verdrag door de neerlegging van een akte van toetreding bij de depositaris. Voor toetredende landen of deelstaten treedt het Verdrag in werking op de eerste dag van de tweede maand volgend op de datum van neerlegging van de akte van toetreding en ten vroegste op de dag van inwerkingtreding van het Verdrag overeenkomstig het [vijfde lid van artikel 34](https://wetten.overheid.nl/jci1.3:c:BWBV0006431&hoofdstuk=VIII&artikel=34&z=2017-06-01&g=2017-06-01) van dit Verdrag. De depositaris brengt de Verdragsluitende Partijen op de hoogte van de neerlegging van de akte van toetreding en van de datum van inwerkingtreding van dit Verdrag voor het toetredende land of de toetredende deelstaat.
 
 ##### Artikel 36. Opzegging
 
