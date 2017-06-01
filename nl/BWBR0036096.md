@@ -4,7 +4,7 @@ identifier: "BWBR0036096"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-01-01"
-last_updated: "2017-04-01"
+last_updated: "2017-06-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0036096"
 soort: "ministeriele-regeling"
@@ -138,7 +138,7 @@ De gegevensverwerking, bedoeld in [artikel 5.2.9, zesde lid, van de wet](https:/
 
 1. Een AMHK stelt de jaarverslaggeving en een jaardocument op dat ten minste een verantwoordingsdocument, het verslag, bedoeld in [artikel 4.2.10 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0035362&artikel=4.2.10) en andere informatie die wordt verstrekt op grond van het model, bedoeld in het derde lid, bevat.
 
-2. De jaarverslaggeving en het jaardocument worden jaarlijks uiterlijk vijf maanden na het verstrijken van het jaar waarop zij betrekking hebben ter inzage gelegd en op verzoek van de Ministers aan hen en aan derden verstrekt.
+2. De jaarverslaggeving en het jaardocument worden ter inzage gelegd en op verzoek van de Ministers aan hen en aan derden verstrekt uiterlijk voor 1 juni of, indien de jaarverslaggeving en het jaardocument betrekking hebben op een AMHK dat valt onder een gemeenschappelijke regeling in de zin van de [Wet gemeenschappelijke regelingen](https://wetten.overheid.nl/jci1.3:c:BWBR0003740), voor 15 juli van het jaar volgend op het jaar waarop zij betrekking hebben.
 
 3. De jaarverslaggeving en het jaardocument worden opgesteld met gebruikmaking van het model te verkrijgen via de website www.jaarverslagenzorg.nl.
 
@@ -146,13 +146,9 @@ De gegevensverwerking, bedoeld in [artikel 5.2.9, zesde lid, van de wet](https:/
 
 ##### Artikel 6
 
-1. Bij het Centraal Informatiepunt Beroepen Gezondheidszorg worden vóór 1 juni van het jaar volgend op het verslagjaar ingediend:
+1. De jaarverslaggeving en het jaardocument, bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0036096&hoofdstuk=4&paragraaf=1&artikel=5&z=2017-06-01&g=2017-06-01), worden in elektronische vorm bij het Centraal Informatiepunt Beroepen Gezondheidszorg ingediend voor 1 juni van het jaar volgend op het verslagjaar, dan wel uiterlijk voor 15 juli van dat jaar, indien zij betrekking hebben op een AMHK dat valt onder een gemeenschappelijke regeling in de zin van de [Wet gemeenschappelijke regelingen](https://wetten.overheid.nl/jci1.3:c:BWBR0003740).
 
-- a. de jaarverslaggeving, bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0036096&hoofdstuk=4&paragraaf=1&artikel=5&z=2017-04-01&g=2017-04-01), in elektronische vorm;
-
-- b. het jaardocument, bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0036096&hoofdstuk=4&paragraaf=1&artikel=5&z=2017-04-01&g=2017-04-01), in elektronische vorm.
-
-2. De Minister kan een AMHK uitstel van indiening verlenen op een gemotiveerd verzoek, dat uiterlijk acht weken vóór het verstrijken van de in het eerste lid genoemde termijn moet zijn ingediend.
+2. De Minister kan een AMHK uitstel van indiening verlenen op een gemotiveerd verzoek, dat uiterlijk acht weken vóór het verstrijken van de in het eerste lid genoemde toepasselijke termijn moet zijn ingediend.
 
 #### Paragraaf 2. beleidsinformatie AMHK’s
 
@@ -218,13 +214,13 @@ Ingevolge [artikel 3.13, eerste lid, onderdeel b, onder 2°, van het Uitvoerings
 
 ##### Artikel 12
 
-1. Voor de ongehuwde cliënt die de pensioengerechtigde leeftijd heeft bereikt, wordt, indien het op grond van [artikel 3.13, eerste lid, onderdeel a, van het Uitvoeringsbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0035733&artikel=3.13), na toepassing van de [artikelen 9 tot en met 11](https://wetten.overheid.nl/jci1.3:c:BWBR0036096&hoofdstuk=6&artikel=9&z=2017-04-01&g=2017-04-01) berekende bedrag, meer bedraagt dan € 8.409, als extra vrijlating in mindering gebracht 25% van het verschil tussen het berekende bedrag en laatstbedoeld bedrag.
+1. Voor de ongehuwde cliënt die de pensioengerechtigde leeftijd heeft bereikt, wordt, indien het op grond van [artikel 3.13, eerste lid, onderdeel a, van het Uitvoeringsbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0035733&artikel=3.13), na toepassing van de [artikelen 9 tot en met 11](https://wetten.overheid.nl/jci1.3:c:BWBR0036096&hoofdstuk=6&artikel=9&z=2017-06-01&g=2017-06-01) berekende bedrag, meer bedraagt dan € 8.409, als extra vrijlating in mindering gebracht 25% van het verschil tussen het berekende bedrag en laatstbedoeld bedrag.
 
-2. Voor de gehuwde cliënten die de pensioengerechtigde leeftijd hebben bereikt, wordt, indien het op grond van [artikel 3.13, eerste lid, onderdeel a, van het Uitvoeringsbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0035733&artikel=3.13), na toepassing van de [artikelen 9 tot en met 11](https://wetten.overheid.nl/jci1.3:c:BWBR0036096&hoofdstuk=6&artikel=9&z=2017-04-01&g=2017-04-01), berekende bedrag voor hen tezamen, meer bedraagt dan € 9.992, als extra vrijlating in mindering gebracht 25% van het verschil tussen het berekende bedrag en laatstbedoeld bedrag.
+2. Voor de gehuwde cliënten die de pensioengerechtigde leeftijd hebben bereikt, wordt, indien het op grond van [artikel 3.13, eerste lid, onderdeel a, van het Uitvoeringsbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0035733&artikel=3.13), na toepassing van de [artikelen 9 tot en met 11](https://wetten.overheid.nl/jci1.3:c:BWBR0036096&hoofdstuk=6&artikel=9&z=2017-06-01&g=2017-06-01), berekende bedrag voor hen tezamen, meer bedraagt dan € 9.992, als extra vrijlating in mindering gebracht 25% van het verschil tussen het berekende bedrag en laatstbedoeld bedrag.
 
-3. Voor de ongehuwde cliënt die de pensioengerechtigde leeftijd nog niet heeft bereikt, wordt, indien het op grond van [artikel 3.13, eerste lid, onderdeel a, van het Uitvoeringsbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0035733&artikel=3.13), na toepassing van de [artikelen 9 tot en met 11](https://wetten.overheid.nl/jci1.3:c:BWBR0036096&hoofdstuk=6&artikel=9&z=2017-04-01&g=2017-04-01), berekende bedrag, meer bedraagt dan € 6.389, als extra vrijlating in mindering gebracht 25% van het verschil tussen het berekende bedrag en laatstbedoeld bedrag.
+3. Voor de ongehuwde cliënt die de pensioengerechtigde leeftijd nog niet heeft bereikt, wordt, indien het op grond van [artikel 3.13, eerste lid, onderdeel a, van het Uitvoeringsbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0035733&artikel=3.13), na toepassing van de [artikelen 9 tot en met 11](https://wetten.overheid.nl/jci1.3:c:BWBR0036096&hoofdstuk=6&artikel=9&z=2017-06-01&g=2017-06-01), berekende bedrag, meer bedraagt dan € 6.389, als extra vrijlating in mindering gebracht 25% van het verschil tussen het berekende bedrag en laatstbedoeld bedrag.
 
-4. Voor de gehuwde cliënten die de pensioengerechtigde leeftijd nog niet hebben bereikt, wordt, indien het op grond van [artikel 3.13, eerste lid, onderdeel a, van het Uitvoeringsbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0035733&artikel=3.13), na toepassing van de [artikelen 9 tot en met 11](https://wetten.overheid.nl/jci1.3:c:BWBR0036096&hoofdstuk=6&artikel=9&z=2017-04-01&g=2017-04-01), berekende bedrag voor hen tezamen, meer bedraagt dan € 12.909, als extra vrijlating in mindering gebracht 25% van het verschil tussen het berekende bedrag en laatstbedoeld bedrag.
+4. Voor de gehuwde cliënten die de pensioengerechtigde leeftijd nog niet hebben bereikt, wordt, indien het op grond van [artikel 3.13, eerste lid, onderdeel a, van het Uitvoeringsbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0035733&artikel=3.13), na toepassing van de [artikelen 9 tot en met 11](https://wetten.overheid.nl/jci1.3:c:BWBR0036096&hoofdstuk=6&artikel=9&z=2017-06-01&g=2017-06-01), berekende bedrag voor hen tezamen, meer bedraagt dan € 12.909, als extra vrijlating in mindering gebracht 25% van het verschil tussen het berekende bedrag en laatstbedoeld bedrag.
 
 5. Het tweede lid is van toepassing indien een van beide gehuwde cliënten de pensioengerechtigde leeftijd nog niet heeft bereikt.
 
@@ -258,7 +254,7 @@ Wijzigt de Voorzieningenregeling voor militaire oorlogs- en dienstslachtoffers.
 
 ##### Artikel 19
 
-[Artikel 2, tweede tot en met vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036096&hoofdstuk=2&artikel=2&z=2017-04-01&g=2017-04-01), is niet van toepassing op het verrichten van betalingen uit het persoonsgebonden budget voor een verzekerde als bedoeld in [artikel 8.3, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0035362&artikel=8.3), gedurende de looptijd van het indicatiebesluit of uiterlijk tot 1 januari 2016.
+[Artikel 2, tweede tot en met vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036096&hoofdstuk=2&artikel=2&z=2017-06-01&g=2017-06-01), is niet van toepassing op het verrichten van betalingen uit het persoonsgebonden budget voor een verzekerde als bedoeld in [artikel 8.3, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0035362&artikel=8.3), gedurende de looptijd van het indicatiebesluit of uiterlijk tot 1 januari 2016.
 
 ##### Artikel 20
 
@@ -278,137 +274,137 @@ In [artikel 4.2.12 van de Wmo 2015](https://wetten.overheid.nl/jci1.3:c:BWBR0035
 
 De beleidsinformatie AMHK betreft informatie over het aantal adviezen dat het AMHK heeft gegeven, evenals het aantal meldingen dat bij het AMHK is gedaan en het aantal onderzoeken dat het AMHK heeft uitgevoerd. Daarnaast wordt een aantal kenmerken van deze adviezen, meldingen en onderzoeken in beeld gebracht. Een deel van de gegevens betreft anonieme, niet aan een persoon gerelateerde gegevens. Op twee onderdelen gaat het om het verstrekken van persoonsgegevens, namelijk het BSN, de geboortedatum en het geslacht van de personen waarover een melding is gedaan en van de personen waarop het onderzoek betrekking had.
 
-In [artikel 4.2.12 van de Wmo 2015](https://wetten.overheid.nl/jci1.3:c:BWBR0035362&artikel=4.2.12) is opgenomen dat het AMHK kosteloos gegevens verstrekt ten behoeve van beleidsinformatie voor o.a. gemeenten, het ministerie van Volksgezondheid, Welzijn en Sport en het ministerie van Veiligheid en Justitie.
+In [artikel 4.2.12 van de Wmo 2015](https://wetten.overheid.nl/jci1.3:c:BWBR0035362&artikel=4.2.12) is opgenomen dat het AMHK (ook Veilig Thuis genoemd)1In 2014 ontstond discussie over de naam AMHK. In overleg met het veld heeft de Vereniging Nederlandse Gemeenten (VNG) gekozen om het AMHK: ‘Veilig Thuis’ te noemen met als ondertitel ‘advies- en meldpunt huiselijk geweld en kindermishandeling’. Deze naam heeft in het veld een breed draagvlak. In het informatieprotocol wordt daarom gesproken over Veilig Thuis: hiermee wordt het AMHK in de zin van de Wmo 2015 bedoeld. kosteloos gegevens verstrekt ten behoeve van beleidsinformatie voor o.a. gemeenten, het inisterie van Volksgezondheid, Welzijn en Sport en het ministerie van Veiligheid en Justitie.
 
 ### 1.2. Doel en beheer
 
-Het [Uitvoeringsbesluit Wmo 2015](https://wetten.overheid.nl/jci1.3:c:BWBR0035733) ([artikel 4.3.1](https://wetten.overheid.nl/jci1.3:c:BWBR0035733&artikel=4.3.1)) bepaalt dat de gegevens voor de beleidsinformatie door het AMHK worden verstrekt aan het Centraal Bureau voor de Statistiek (CBS). Het CBS verwerkt deze gegevens tot statistieken en rapportages en publiceert deze zodat iedereen daar gebruik van kan maken. De microdata (informatie op persoons- of instellingsniveau) komen niet ter beschikking. Onderzoek op dit soort data is wel mogelijk via de zogenaamde remote access voor organisaties die daarvoor door het CBS geautoriseerd zijn. Ook dan geldt echter dat de gegevens die worden gepubliceerd naar aanleiding van dit onderzoek nog steeds niet tot een persoon of instelling te herleiden mogen zijn.
+De beleidsinformatie betreft informatie over het aantal adviezen dat het AMHK heeft gegeven, evenals het aantal meldingen dat bij Veilig Thuis is gedaan en het aantal onderzoeken dat het AMHK heeft uitgevoerd. Daarnaast wordt een aantal kenmerken van deze adviezen, meldingen en onderzoeken in beeld gebracht. Een deel van de gegevens, namelijk die over adviezen, betreft anonieme, niet aan een persoon gerelateerde gegevens. Op de andere twee onderdelen gaat het om het verstrekken van persoonsgegevens, namelijk het BSN, de geboortedatum en het geslacht van de persoon of personen waarover een melding is gedaan en van de persoon of personen waarop het onderzoek betrekking had.
 
 In onderstaande tabel is een overzicht opgenomen van alle gegevens die aangeleverd moeten worden. Tussen haakjes is aangegeven in welke paragraaf van het informatieprotocol de gegevens worden uitgewerkt.
 
 Dit informatieprotocol beschrijft zo gedetailleerd mogelijk:
 
-In onderstaande tabel is een overzicht opgenomen van alle gegevens die aangeleverd moeten worden. Tussen haakjes is aangegeven in welke paragraaf van het informatieprotocol de gegevens worden uitgewerkt.
+In onderstaande tabel is een overzicht opgenomen van alle gegevens die aangeleverd moeten worden. Tussen haakjes is aangegeven in welke paragraaf van het informatieprotocol de gegevens nader worden omschreven.
 
-Ook is in het informatieprotocol opgenomen ([hoofdstuk 5](https://wetten.overheid.nl/jci1.3:c:BWBR0036096&hoofdstuk=5&z=2017-04-01&g=2017-04-01)) welke gegevens van de AMHK organisaties zelf aan CBS geleverd moeten worden. Deze gegevens heeft het CBS nodig om de halfjaarlijkse gegevens uitvraag te doen.
-
-### 1.3. Opbouw informatieprotocol
-
-Jaarlijks wordt bezien of wijzigingen in het informatieprotocol nodig zijn, bijvoorbeeld om begrippen of procedures te verhelderen of aan te passen.
+Nogmaals, de in dit protocol vastgelegde beleidsinformatie biedt een basis voor gemeenten voor hun informatie-uitvraag aan het AMHK. Gemeenten zullen naast deze basisinformatie ook aanvullende informatievragen aan het AMHK willen stellen.
 
 ### 1.3. Opbouw informatieprotocol
 
-Het informatieprotocol bestaat uit drie delen:
+Het informatieprotocol wordt beheerd door het ministerie van VWS. In praktijk vindt het beheer plaats in afstemming met:
+
+### 1.3. Opbouw informatieprotocol
+
+Het informatieprotocol bestaat uit twee delen:
 
 In dit deel zijn alle definities uitgewerkt van de begrippen waarover het AMHK gegevens dient aan te leveren aan het CBS. Waar van toepassing is aangegeven welke keuzeopties het AMHK dient te hanteren, bijvoorbeeld bij de aard van het geweld of de mishandeling, inclusief de code die CBS voor deze opties hanteert. Deze codes zijn terug te vinden in de specificaties van de aanleverbestanden die CBS maakt voor het AMHK.
 
 Toelichting:
 
-In dit deel zijn alle definities uitgewerkt van de begrippen waarover het AMHK gegevens dient aan te leveren aan het CBS. Waar van toepassing is aangegeven welke keuzeopties het AMHK dient te hanteren, bijvoorbeeld bij de aard van het geweld of de mishandeling, inclusief de code die CBS voor deze opties hanteert. Deze codes zijn terug te vinden in de specificaties van de aanleverbestanden die CBS maakt voor het AMHK.
+In dit deel zijn alle definities nader uitgewerkt van de begrippen waarover het AMHK gegevens dient aan te leveren. Waar van toepassing is aangegeven welke keuzeopties het AMHK dient te hanteren, bijvoorbeeld bij de aard van het geweld of de mishandeling, inclusief de codes die het CBS voor deze opties hanteert. Deze codes zijn ook terug te vinden in de Bestandsdefinitie AMHK van het CBS, waarin de specificaties van de aan te leveren bestanden voor de beleidsinformatie AMHK beschreven zijn.
 
-In feite worden er drie sets met gegevens aan CBS geleverd:
-
-### 2. Gegevens over adviezen
-
-Deel 1 sluit af met een hoofdstuk waarin de gegevens staan weergegeven die CBS nodig heeft over de organisaties het AMHK. Deze gegevens heeft CBS nodig om de uitvraag van de gegevens te doen.
+In feite worden er drie sets met gegevens aan het CBS geleverd, samengevoegd in één bestand:
 
 ### 2. Gegevens over adviezen
 
-Om in beeld te hebben hoe vaak het AMHK een advies geeft in verband met een vermoeden van huiselijk geweld of kindermishandeling, worden gegevens uitgevraagd over de adviezen die het AMHK heeft gegeven. Per advies wordt aangegeven wat de aanleiding was om contact op te nemen met het AMHK (vorm van huiselijk geweld en/of kindermishandeling) en wat de hoedanigheid is van degene die met het AMHK contact heeft opgenomen. Geen van deze gegevens zijn persoonsgegevens.
+Deel 1 sluit af met hoofdstuk 5 waarin de contactgegevens staan weergegeven die het CBS nodig heeft over de AMHK’s zelf.
+
+### 2. Gegevens over adviezen
+
+Om in beeld te hebben hoe vaak het AMHK een advies geeft in verband met een vermoeden van huiselijk geweld of kindermishandeling, worden gegevens uitgevraagd over de adviezen die het AMHK heeft gegeven. Per advies wordt aangegeven wat de aanleiding was om contact op te nemen met het AMHK (vorm van huiselijk geweld en/of kindermishandeling), de aard van het geweld (een inschatting) en wat de hoedanigheid is van degene die met het AMHK contact heeft opgenomen(adviesvrager). Geen van deze gegevens zijn persoonsgegevens.
 
 Toelichting:
 
-[Artikel 4.1.1 van de Wmo 2015](https://wetten.overheid.nl/jci1.3:c:BWBR0035362&artikel=4.1.1) bepaalt dat het college van B&W zorg draagt voor de organisatie van een AMHK. Eén van de taken van het AMHK is het geven van advies en zo nodig bieden van ondersteuning aan ieder die in verband met een vermoeden van huiselijk geweld of kindermishandeling om dit advies vraagt ([artikel 4.1.1, lid 3](https://wetten.overheid.nl/jci1.3:c:BWBR0035362&artikel=4.1.1)).
+[Artikel 4.1.1, eerste lid, van de Wmo 2015](https://wetten.overheid.nl/jci1.3:c:BWBR0035362&artikel=4.1.1) bepaalt dat het college van B&W zorg draagt voor de organisatie van een AMHK. Eén van de taken van het AMHK is het geven van advies en zo nodig bieden van ondersteuning aan ieder die in verband met een vermoeden van huiselijk geweld of kindermishandeling om dit advies vraagt (artikel 4.1.1, derde lid).
 
 Toelichting:
 
-In bijlage 1 van het Model Handelingsprotocol AMHK is het advies als volgt uitgewerkt:
+In bijlage 1 van het VNG-Model Handelingsprotocol AMHK is de definitie van advies als volgt uitgewerkt:
 
 ### 2.2. Aanleiding om contact op te nemen met het AMHK
 
-Bij het leveren van gegevens aan CBS krijgt elk gegeven advies een voor het betreffende AMHK uniek nummer.
+Bij het leveren van gegevens aan het CBS krijgt elk gegeven advies een voor het betreffende het AMHK uniek identificatienummer.
 
-Toelichting:
+Het VNG-model handelingsprotocol voorziet niet in meerdere contactmomenten met iemand die advies vraagt.
+
+Een afgesloten advies met meerdere contactmomenten wordt gedefinieerd als afgesloten als het laatste contactmoment over de onderhavige casus met de adviesvrager is geweest. Het laatste contactmoment wordt door het AMHK in overleg met de adviesvrager bepaald.
+
+Aan het CBS worden uitsluitend gegevens over afgesloten adviezen geleverd.
+
+### 2.2. Aanleiding om advies te vragen bij het AMHK
 
 Als aanleiding om contact op te nemen met het AMHK wordt een keuze gemaakt uit de volgende opties:
 
 Toelichting:
 
-### 2.3. Hoedanigheid van de adviesaanvrager
+In feite betreft het hier verschillende vormen en aanleidingen (kindcheck) van huiselijk geweld en kindermishandeling. Er zijn meerdere opties tegelijk per advies mogelijk. Een uitgebreide toelichting op de eerste zeven bovenstaande keuzemogelijkheden is opgenomen in hoofdstuk 8 van dit protocol. Zie ook paragraaf 3.2.
 
-Zie ook paragraaf 3.2. en 4.2.
-
-Beroepsmatig:
-
-Bij de hoedanigheid van adviesvrager wordt een keuze gemaakt uit één van de volgende opties:
-
-Beroepsmatig:
+Het AMHK wordt ook vaak om advies gevraagd voor andere veiligheidsproblematiek dan huiselijk geweld of kindermishandeling, bijvoorbeeld een school die belt met zorgen over een suïcidale leerling. Deze adviezen kunnen worden opgenomen onder de categorie: andere problematiek dan huiselijk geweld of kindermishandeling.
 
 Niet-beroepsmatig:
 
-Toelichting:
+Als aard van het geweld wordt een keuze gemaakt uit de volgende opties:
 
 ### 3. Gegevens over meldingen
 
-Zie ook paragraaf 3.4.
+De aard van het geweld en/of de mishandeling is een verbijzondering van de vorm van het huiselijke geweld of de kindermishandeling (zie 2.2.). Sommige opties zijn alleen van toepassing bij kindermishandeling, zoals pedagogische verwaarlozing, getuige van geweld in het gezin, Münchenhausen-by-proxy en vrouwelijke genitale verminking.
 
 ### 3. Gegevens over meldingen
 
 Om in beeld te krijgen hoeveel meldingen er over huiselijk geweld of kindermishandeling, of een vermoeden daarvan, zijn gedaan bij het AMHK worden gegevens uitgevraagd over de meldingen die het AMHK heeft geregistreerd. Per melding wordt aangegeven of wat de aanleiding was om contact op te nemen met het AMHK, wat de aard van het geweld en/of de mishandeling is, wat de hoedanigheid is van degene die contact heeft opgenomen met het AMHK, de datum van de melding en het vervolg op de melding. Tot slot wordt aangegeven op welke personen de melding betrekking had. Van deze personen worden BSN, geboortedatum en geslacht uitgevraagd.
 
-Toelichting:
+Bij de hoedanigheid van adviesvrager wordt een keuze gemaakt uit één van de volgende opties:
 
-[Artikel 4.1.1 van de Wmo 2015](https://wetten.overheid.nl/jci1.3:c:BWBR0035362&artikel=4.1.1) bepaalt dat het college van B&W zorg draagt voor de organisatie van een AMHK. Eén van de taken van het AMHK is fungeren als meldpunt voor gevallen of vermoedens van huiselijk geweld of kindermishandeling (artikel 4.1.1, lid 2).
-
-Toelichting:
-
-In bijlage 1 van het Model Handelingsprotocol AMHK is de melding als volgt uitgewerkt:
-
-**Het kenbaar maken aan het AMHK van een situatie of vermoeden van huiselijk geweld of kindermishandeling met vermelding van de persoonsgegevens van de direct betrokkene(n).**
-
-### 3.2. Aanleiding om contact op te nemen met het AMHK
-
-Verreweg de meeste gemeenten kiezen er voor om de afhandeling van zorgmeldingen van de politie door het AMHK te laten uitvoeren. Het AMHK wordt daarmee het loket voor de zorgmeldingen van de politie. De zorgmeldingen die geen betrekking hebben op huiselijk geweld en/of kindermishandeling worden onmiddellijk doorgezet naar de juiste instantie voor bijvoorbeeld hulp. Deze zorgmeldingen moeten niet beschouwd worden als melding zoals hierboven beschreven en gegevens over deze zorgmeldingen van de politie worden niet meegenomen in de gegevensverstrekking van de AMHK’s aan het CBS.
-
-Toelichting:
-
-Als aanleiding om contact op te nemen met het AMHK wordt een keuze gemaakt uit de volgende opties:
-
-Toelichting:
-
-### 3.3. Aard van het geweld en/of mishandeling
-
-Zie ook paragraaf 2.2. en 4.2.
-
-Toelichting:
-
-Bij de aard van het geweld en/of de mishandeling wordt gekozen uit de volgende opties:
-
-Toelichting:
-
-### 3.4. Hoedanigheid van de melder
-
-Zie ook paragraaf 4.6.
-
-Beroepsmatig:
-
-Bij de hoedanigheid van de melder wordt een keuze gemaakt uit één van de volgende opties:
-
-Beroepsmatig:
+Beroepsmatig, werkzaam bij:
 
 Niet-beroepsmatig:
 
 Toelichting:
 
-### 3.5. Datum melding
+Er is steeds maar één optie per advies mogelijk. Zie ook paragraaf 3.4
 
-Zie ook paragraaf 2.3.
+### 3. Gegevens over meldingen/Triagebesluiten
 
-### 3.5. Datum melding
-
-De dag waarop de melding van de situatie of het vermoeden van huiselijk geweld of kindermishandeling bij het AMHK heeft plaatsgevonden. De datum wordt weergegeven als JJJJMMDD.
+Om in beeld te krijgen hoeveel meldingen er over huiselijk geweld of kindermishandeling, of een vermoeden daarvan, zijn gedaan bij het AMHK worden gegevens uitgevraagd over de meldingen (triagebesluiten) die het AMHK heeft behandeld. Per melding (triage) wordt aangegeven wat de aanleiding was om contact op te nemen met het AMHK, wat de aard van het geweld en/of de mishandeling is, wat de hoedanigheid is van degene die contact heeft opgenomen met Veilig Thuis, de datum van de melding en de datum van het (triage)besluit. Tot slot wordt aangegeven op welke personen de melding betrekking had. Van deze personen worden BSN, geboortedatum en geslacht uitgevraagd.
 
 Toelichting:
+
+[Artikel 4.1.1, eerste lid, van de Wmo 2015](https://wetten.overheid.nl/jci1.3:c:BWBR0035362&artikel=4.1.1) bepaalt dat het college van B&W zorg draagt voor de organisatie van een AMHK. Eén van de taken van Veilig Thuis is fungeren als meldpunt voor gevallen of vermoedens van huiselijk geweld of kindermishandeling (artikel 4.1.1, tweede lid, onderdeel a).
+
+Uit [artikel 4.1.7 van het Uitvoeringsbesluit Wmo 2015](https://wetten.overheid.nl/jci1.3:c:BWBR0035733&artikel=4.1.7) blijkt de termijn voor het afhandelen van een melding, een zogenaamd: een triagebesluit nemen.
+
+### 3.3. Aard van het geweld en/of mishandeling
+
+**Het kenbaar maken aan het AMHK van een situatie of vermoeden van huiselijk geweld of kindermishandeling met vermelding van de persoonsgegevens van de direct betrokkene(n).**
+
+De AMHK’s sluiten pas een melding af als de hele casus al of niet na onderzoek **geheel**kan worden afgesloten. Om de verwarring te voorkomen wordt in het informatieprotocol structureel gesproken over triage/melding, in de zin dat er binnen de op grond van de in het [Uitvoeringsbesluit Wmo 2015](https://wetten.overheid.nl/jci1.3:c:BWBR0035733) vastgestelde termijn een beslissing is genomen over al of niet starten van een onderzoek naar kindermishandeling en/of huiselijk geweld.
+
+Aan het CBS worden uitsluitend afgesloten triages doorgeleverd, ook als niet alle onderliggende of bijbehorende informatie meegeleverd kan worden.
+
+Bij de in de verslagperiode afgesloten triages geldt dat deze geleverd moeten worden op het moment dat alle handelingen die direct betrekking hebben op de triage zelf zijn afgerond en geadministreerd, met uitsluiting van monitoring.
+
+### 3.4. Hoedanigheid van de melder
+
+Zie ook paragraaf 4.6.
+
+Veel gemeenten kiezen er voor om de afhandeling van zorgmeldingen van de politie (zowel jeugd als huiselijk geweld) door het AMHK te laten uitvoeren. Het AMHK wordt daarmee het loket voor alle zorgmeldingen van de politie.
+
+Deze meldingen moeten beschouwd worden als een daadwerkelijke melding bij het AMHK en het AMHK zal daarom een triage uitvoeren. De betreffende AMHK’s dienen alle afgesloten triagebesluiten te leveren aan het CBS, dus inclusief de zorgmeldingen politie: mutaties politie en corv-meldingen van de politie.
+
+Beroepsmatig:
+
+Elke melding krijgt een eigen triagebesluit en nummer. Elke melding moet binnen vijf dagen getriageerd worden. Meerdere meldingen over één casus moeten worden behandeld als aparte meldingen. Deze meldingen worden gevoegd bij het gekozen vervolg van de lopende casus (zie de opties bij 3.7).
+
+Als er een tweede melding komt over dezelfde casus wordt die behandeld als een aparte melding die een eigen triagebesluit krijgt. Als dit **tweede** besluit leidt tot een wijziging voor het vervolg van deze casus, dan wordt dit ook genoteerd bij het **eerste triagebesluit.**Dat wil zeggen: het aanvankelijke triagebesluit wordt niet gewijzigd noch overgeschreven, maar in het dossier wordt opgenomen dat het vervolg is aangepast vanwege een tweede melding.
+
+### 3.5. Datum melding
+
+Als **onderzoek** het gekozen vervolg is n.a.v. het eerste triagebesluit en als dit besluit wordt **gewijzigd**nav het triagebesluit op een tweede melding over dezelfde casus, dan wordt het onderzoek op basis van het eerste triagebesluit afgesloten.
+
+### 3.5. Datum melding
+
+Bij een tweede of derde melding over dezelfde casus wordt telkens het hoofdnummer van de casus aan het CBS geleverd zodat het CBS de meldingen en het gekozen vervolgtraject aan elkaar kan koppelen. Achtergrond hiervan is dat alle meldingen in beeld komen, maar wel gekoppeld kunnen worden aan het gekozen vervolg van de casus.
+
+Als een casus door het AMHK volledig is afgesloten kunnen er geen nieuwe meldingen meer aan worden toegevoegd.
 
 Vervolg melding kent de volgende opties:
 
@@ -416,27 +412,27 @@ Vervolg melding kent de volgende opties:
 
 ### 3.7.1. Onderzoeksnummer
 
-Indien bij vervolg op melding gekozen wordt voor optie (1) start onderzoek, dan wordt tevens het nummer van het betreffende onderzoek aangegeven.
+In feite betreft het hier verschillende vormen en aanleidingen van huiselijk geweld en kindermishandeling. Er zijn meerdere opties tegelijk per melding mogelijk. Een uitgebreide toelichting op eerste zeven bovenstaande keuzemogelijkheden is opgenomen in hoofdstuk 8. Zie ook paragraaf 2.2.
 
 Toelichting:
 
-Indien bij vervolg op melding gekozen wordt voor optie (1) start onderzoek, dan wordt tevens het nummer van het betreffende onderzoek aangegeven.
+Bij de aard van het geweld en/of de mishandeling wordt gekozen uit de volgende opties:
 
 ### 3.7.2. Datum start inzetten vervolgtraject
 
-Een belangrijk onderwerp voor de beleidsinformatie zijn de doorlooptijden bij het AMHK. Om de doorlooptijd tussen de melding en de start van het onderzoek te kunnen berekenen is het nodig om te weten welke melding bij welk onderzoek hoort. Om die reden is bij de optie ‘start onderzoek’ het vermelden van het onderzoeksnummer opgenomen in de gegevensset. Zie ook paragraaf 4.1.
+De aard van het geweld en/of de mishandeling is een verbijzondering van de vorm van het huiselijke geweld of de kindermishandeling (zie 3.2.). Sommige opties zijn alleen van toepassing bij kindermishandeling, zoals pedagogische verwaarlozing, getuige van geweld in het gezin, Münchenhausen-by-proxy en vrouwelijke genitale verminking.
 
-Toelichting:
+Er zijn meerdere opties tegelijk mogelijk per melding. Zie ook paragraaf 2.3 en 4.4
 
 Indien bij vervolg op melding gekozen wordt voor optie (2) inzetten vervolgtraject, dan wordt tevens de datum waarop de AMHK medewerker feitelijk start met het regelen van het vervolgtraject vermeld. De datum wordt weergegeven als JJJJMMDD.
 
 ### 3.7.3. Datum einde bemoeienis AMHK
 
-Een belangrijk onderwerp voor de beleidsinformatie zijn de doorlooptijden bij het AMHK. Een van deze doorlooptijden is de periode tussen de start van het inzetten van het vervolgtraject en het einde daarvan.
+Beroepsmatig, werkzaam bij:
+
+Niet-beroepsmatig:
 
 Toelichting:
-
-Indien bij vervolg op melding gekozen wordt voor optie (2) inzetten vervolgtraject, dan wordt tevens de datum weergegeven waarop de bemoeienis van de AMHK medewerker is geëindigd. Na deze dag heeft het AMHK geen bemoeienis meer met de casus. In het geval van de optie ‘inzetten vervolgtraject’ houdt dit in dat het vervolgtraject gerealiseerd is en start. De datum wordt weergegeven als JJJJMMDD.
 
 ### 3.8. Gegevens over de personen waarop de melding betrekking heeft
 
@@ -444,93 +440,93 @@ Een belangrijk onderwerp voor de beleidsinformatie zijn de doorlooptijden bij he
 
 ### 3.8. Gegevens over de personen waarop de melding betrekking heeft
 
-Per melding is aangegeven over welke persoon of personen de melding gaat. Van deze persoon worden het BSN, de geboortedatum en het geslacht opgenomen in het gegevensbestand. Het betreft hier persoonsgegevens. Het gaat niet over persoonsgegevens van de melder, maar over degene(n) die betrokken zijn bij het geval of vermoeden van huiselijk geweld of kindermishandeling. In principe betreft het de slachtoffers. Het onderscheid tussen dader en slachtoffer is echter niet altijd even duidelijk of wordt niet altijd geregistreerd. Het kan dus voorkomen dat de persoonsgegevens betrekking hebben op dader en slachtoffer.
+(dit wordt weergegeven als jjjjmmdd)
 
 Toelichting:
 
-Het unieke persoonsnummer dat iedereen heeft die staat ingeschreven in de Basisregistratie personen (BRP).
+De datum waarop de AMHK’s als uitkomst van de triage besloten heeft hoe verder te handelen met betrekking tot de melding.
 
 Toelichting:
 
-Indien er geen BSN bekend is, dan wordt in plaats van het BSN de code 000000000 genoteerd. Bij ongeboren kinderen wordt 999999999 genoteerd.
+Na triageren zijn er verschillende uitkomsten mogelijk. In het triagebesluit wordt vastgelegd welk vervolg het AMHK zal geven aan de melding. Hiervoor zijn de volgende opties mogelijk:
 
 ### 3.8.2. Geboortedatum
 
-Zie ook paragraaf 4.8.1.
+NB:
 
 ### 3.8.2. Geboortedatum
 
-De geboortedatum van de persoon wordt weergegeven als JJJJMMDD.
+In het VNG-handelingsprotocol is de volgende definitie van het triagebesluit opgenomen.
 
-Toelichting:
+Binnen de in het [Uitvoeringsbesluit Wmo 2015](https://wetten.overheid.nl/jci1.3:c:BWBR0035733) vastgestelde termijn moet na ontvangst van een melding het AMHK op basis van de inhoud van de melding en op basis van een (risico/veiligheids) taxatie tot een (eerste) besluit komen over de noodzakelijke vervolgstappen naar aanleiding van de melding. Ook wordt door het AMHK een besluit genomen over welke instelling of professional de verantwoordelijkheid gaat nemen voor de uitvoering van de vervolgstappen.
 
-Bij sommige personen is de exacte geboortedatum niet bekend. Indien de geboortedag niet bekend is, wordt dat aangegeven door JJJJMM00 te noteren. Indien (ook) de geboortemaand niet bekend is, dan wordt dat aangegeven door JJJJ0000 te noteren. Bij ongeboren kinderen wordt 99999999 genoteerd.
+De triage is afgerond als **het besluit** door het AMHK over de noodzakelijke vervolgstappen genomen is. In het kwaliteitskader Veilig Thuis-zicht op veiligheid2VNG, juli 2016. is geregeld dat het AMHK verantwoordelijk blijft voor het zicht op de veiligheid van het cliëntsysteem in de casus, totdat het vervolgtraject belegd is bij het cliëntsysteem of een professional. Het AMHK moet dus tot het moment van overdracht zicht op de veiligheid van het cliëntsysteem houden. Dit heeft géén invloed op de datum van het triagebesluit. De triage is afgesloten.
 
 Zie ook paragraaf 4.8.2.
 
-Zie ook paragraaf 4.8.3.
+Met het triagebesluit om onderzoek te doen, optie 1 in voorgaande paragraaf, start de wettelijke termijn voor onderzoek (10 weken). De [wet](https://wetten.overheid.nl/jci1.3:c:BWBR0035362) stelt dat een triage én onderzoek moet zijn afgerond binnen vijf dagen en 10 weken.
 
-Het geslacht van de persoon, waarbij de volgende opties gelden:
+Om het triagebesluit en het onderzoek goed aan elkaar te kunnen koppelen is het nodig om te weten welke melding/triagebesluit bij welk onderzoek hoort. Hiervoor is het nodig om het onderzoeksnummer bij het triagebesluit te vermelden. Uiteraard moet dit onderzoeksnummer corresponderen met de informatie uit de gegevensset over onderzoeken, waar het betreffende onderzoek nader belicht wordt (zie paragraaf 4.1).
 
-### 4.1. Onderzoek
+### 3.9. Directe overdracht aan derden
 
-[Artikel 4.1.1 van de Wmo 2015](https://wetten.overheid.nl/jci1.3:c:BWBR0035362&artikel=4.1.1) bepaalt dat het college van B&W zorg draagt voor de organisatie van een AMHK. Eén van de taken van het AMHK is het naar aanleiding van een melding onderzoeken of er daadwerkelijk sprake is van huiselijk geweld of kindermishandeling (artikel 4.1.1, lid 2).
+Het veld heeft gevraagd om in beeld te brengen aan welke partij is doorverwezen.
 
-Om zicht te hebben op het aantal onderzoeken dat het AMHK uitvoert en op de uitkomst en het vervolg, wordt een aantal gegevens over de uitgevoerde onderzoeken uitgevraagd. Het betreft de start- en einddatum van de onderzoeken, de uitkomst ervan en indien van toepassing de aard van het geweld of de mishandeling en het vervolg voor de betrokkene(n). Ook wordt uitgevraagd over welke personen het onderzoek gaat. Daartoe worden het BSN, de geboortedatum en het geslacht van deze personen opgenomen in het gegevensbestand.
+Hier gelden de volgende keuzeopties:
 
-Toelichting:
+ Overdracht aan lokale veld
 
-[Artikel 4.1.1 van de Wmo 2015](https://wetten.overheid.nl/jci1.3:c:BWBR0035362&artikel=4.1.1) bepaalt dat het college van B&W zorg draagt voor de organisatie van een AMHK. Eén van de taken van het AMHK is het naar aanleiding van een melding onderzoeken of er daadwerkelijk sprake is van huiselijk geweld of kindermishandeling (artikel 4.1.1, lid 2).
+Er zijn meerdere opties per triagebesluit mogelijk.
 
-### 4.3. Datum start onderzoek
+### 3.10. Gegevens over de personen waarop de melding en triage betrekking heeft
 
-In bijlage 1 van het Model Handelingsprotocol AMHK is het onderzoek als volgt uitgewerkt:
+De betrokkenen bij het huiselijk geweld en/of kindermishandeling van de betreffende melding worden geregistreerd.
 
-**Het verzamelen, analyseren en beoordelen van feiten en professionele oordelen over een gemeld (vermoeden van) huiselijk geweld of kindermishandeling met het doel te komen tot vaststelling of sprake is van huiselijk geweld of kindermishandeling en welke stappen dienen te worden gezet om het geweld en de veiligheid en de schade te herstellen.**
+Dit zijn de vermoedelijke pleger en het vermoedelijke slachtoffer, de minderjarige kinderen van de vermoedelijke pleger en/of slachtoffer, onafhankelijk of ze op het adres wonen waar het incident heeft plaatsgevonden of elders.
 
-Zie ook hoofdstuk 10 van het Model Handelingsprotocol AMHK.
+Ook worden de personen uitgevraagd meer- of minderjarig zijn en die naar het oordeel van de professional in een afhankelijkheidsrelatie staan tot de vermoedelijke pleger en/of slachtoffer. (Denk bijvoorbeeld aan een volwassen verstandelijk beperkt kind dat in een instelling woont en een bezoekregeling heeft voor het weekend).
 
 ### 4.4. Datum afronding onderzoek
 
 Toelichting:
 
-Als aanleiding om contact op te nemen met het AMHK wordt een keuze gemaakt uit de volgende opties:
+Het unieke persoonsnummer van de betrokken personen zoals die staat of stond ingeschreven in de Basisregistratie Personen (BRP).
 
 Toelichting:
 
 ### 4.3. Datum start onderzoek
 
-Zie ook paragraaf 2.2. en 3.2.
+Per melding kunnen meerdere BSN’s worden genoteerd. Een melding kan namelijk betrekking hebben op meerdere personen tegelijk.
 
-Toelichting:
+Zie ook paragraaf 4.6.1.
 
 De dag waarop het AMHK het onderzoek naar aanleiding van de melding start. De datum wordt weergegeven als JJJJMMDD.
 
-Toelichting:
+De geboortedatum van de betrokken personen wordt weergegeven als JJJJMMDD.
 
 ### 4.6. Aard van het geweld en/of de mishandeling
 
-Toelichting:
+Bij sommige personen is de exacte geboortedatum niet bekend. In die gevallen dient zoveel mogelijk informatie geleverd te worden. Dus als het geboortejaar en de geboortemaand wel bekend zijn, maar de geboortedag niet, dan dienen geboortejaar en maand geleverd te worden. Hetzelfde geldt als alleen het geboortejaar bekend is. Bij ongeboren kinderen wordt 99999999 genoteerd.
 
-De dag waarop het AMHK het onderzoek naar aanleiding van de melding afrondt. De datum wordt weergegeven als JJJJMMDD.
-
-Toelichting:
-
-Het betreft de dag waarop alle onderzoekswerkzaamheden zijn afgerond. Dit is inclusief het bepalen van de stappen die nodig zijn om het geweld, de veiligheid en de schade te herstellen.
+Zie ook paragraaf 4.6.2.
 
 Toelichting:
+
+Het betreft hier het geslacht van de personen betrokken bij de melding. De volgende keuzeopties gelden:
+
+Zie ook paragraaf 4.6.3.
 
 Voor de uitkomst van het onderzoek gelden de volgende opties:
 
 ### 4.6. Aard van het geweld en/of de mishandeling
 
-Het doel van het onderzoek (zie ook 4.1.) is om vast te stellen of er sprake is van huiselijk geweld of kindermishandeling. Dit wordt weergegeven middels bovenstaande opties als uitkomst van het onderzoek. Soms heeft het onderzoek betrekking op huiselijk geweld en kindermishandeling, dan worden meerdere opties ingevuld.
+Bij het leveren van gegevens aan het CBS krijgt elk onderzoek een voor het betreffende Veilig Thuis uniek identificatienummer. Om het onderzoek en het triagebesluit goed aan elkaar te kunnen koppelen is het nodig om te weten welke onderzoek bij welke melding/triagebesluit hoort. Hiervoor is het nodig om het onderzoeksnummer zowel bij de melding/ triagebesluit als bij het onderzoek te vermelden. (zie paragraaf 3.8).
 
 Het kan zijn dat het onderzoek wordt afgesloten zonder dat het is afgerond. Om die reden zijn de twee laatste opties toegevoegd.
 
-Toelichting:
+Het gaat hier om de daadwerkelijke startdatum, niet om de formele startdatum. De formele startdatum is gelijk aan de datum van het triagebesluit. In de praktijk van de AMHK’s kost het tijd voordat een zaak waarover het triagebesluit: **onderzoek** is genomen, is doorgezet naar een medewerker van het AMHK.
 
-Bij de aard van het geweld en/of de mishandeling wordt gekozen uit de volgende opties:
+[Artikel 4.1.1 eerste lid, van de Wmo 2015](https://wetten.overheid.nl/jci1.3:c:BWBR0035362&artikel=4.1.1) bepaalt dat het college van B&W zorg draagt voor de organisatie van een AMHK. Eén van de taken van het AMHK is het naar aanleiding van een melding onderzoeken of er daadwerkelijk sprake is van huiselijk geweld of kindermishandeling (artikel 4.1.1, tweede lid, onderdeel b).
 
 ### 4.8. Gegevens over de personen waarop het onderzoek betrekking heeft
 
@@ -538,39 +534,39 @@ Het gaat in dit geval om de aard van het geweld en/of de mishandeling zoals in h
 
 ### 4.7. Vervolg naar aanleiding van het onderzoek
 
-Er zijn meerdere opties mogelijk per onderzoek.
+De datum wordt weergegeven als JJJJMMDD.
 
-Zie ook paragraaf 3.3.
-
-Toelichting:
-
-Het onderzoek naar aanleiding van de melding kan de volgende opties voor vervolg hebben:
+NB: De casus hoeft niet al te zijn overgedragen aan derden. Tot de overdracht blijft het AMHK verantwoordelijk voor het zicht op de veiligheid maar het onderzoek is afgerond.
 
 Toelichting:
+
+Het doel van onderzoek is te beoordelen:
+
+Uiterlijk binnen 5 dagen en 10 weken na ontvangst van de melding moet het AMHK besluiten, op basis van bovenstaande beoordeling, welke instelling of professional de verantwoordelijkheid gaat nemen voor de uitvoering van de ondersteuning, hulp, behandeling of maatregelen die nodig zijn voor alle betrokkenen om te komen tot duurzame veiligheid en tot herstel van de gevolgen van het huiselijk geweld of de kindermishandeling voor betrokkenen.
 
 ### 4.8. Gegevens over de personen waarop het onderzoek betrekking heeft
 
-Er zijn meerdere opties tegelijk mogelijk.
+In het kwaliteitskader Veilig Thuis – zicht op veiligheid4Kwaliteitskader wachtlijsten Veilig Thuis: schriftelijk wordt aan Veilig Thuis bevestigd dat de overdracht van een zaak is ontvangen, in die zaken waar Veilig Thuis conform hetgeen is opgenomen in paragraaf 3.2, alleen schriftelijk overdraagt. is geregeld dat het AMHK verantwoordelijk blijft voor het zicht op de veiligheid van het cliëntsysteem in de casus, totdat het vervolgtraject is belegd bij het cliëntsysteem of een professional. Dat betekent niet per sé dat het hulptraject ook feitelijk is gestart. Het onderzoek is echter afgesloten.
 
 Het unieke persoonsnummer dat iedereen heeft die staat ingeschreven in de Basisregistratie personen (BRP).
 
-Per onderzoek is aangegeven over welke persoon of personen de melding gaat. Van deze persoon worden het BSN, de geboortedatum en het geslacht opgenomen in de gegevenslevering. Het betreft hier persoonsgegevens. Het gaat over degene(n) die betrokken zijn bij het geval of vermoeden van huiselijk geweld of kindermishandeling. In principe betreft het de slachtoffers. Het onderscheid tussen dader en slachtoffer is echter niet altijd even duidelijk of wordt niet altijd geregistreerd. Het kan dus voorkomen dat de persoonsgegevens betrekking hebben op dader en slachtoffer.
+Voor de uitkomst van het onderzoek of er sprake is van huiselijk geweld en/of kindermishandeling gelden de volgende keuzeopties.
 
 Toelichting:
 
 ### 4.8.3. Geslacht
 
-Toelichting:
+Eén van de doelen van het onderzoek is de vaststelling of er sprake is van huiselijk geweld of kindermishandeling. Dit wordt weergegeven door bovenstaande opties als uitkomst van het onderzoek. Soms heeft het onderzoek betrekking op huiselijk geweld en kindermishandeling, dan worden meerdere opties ingevuld.
 
-Indien er geen BSN bekend is, dan wordt in plaats van het BSN de code 000000000 genoteerd. Bij ongeboren kinderen wordt 999999999 genoteerd.
+Het kan zijn dat het onderzoek wordt afgesloten zonder dat het is afgerond. Hiervoor zijn de laatste twee opties.
 
 ### 4.8.2. Geboortedatum
 
 Zie ook paragraaf 3.8.1.
 
-Toelichting:
+Bij de aard van het geweld en/of de mishandeling wordt gekozen uit de volgende opties:
 
-De geboortedatum van de persoon weergegeven als JJJJMMDD.
+Toelichting:
 
 ### 4.8.3. Geslacht
 
@@ -580,65 +576,65 @@ De geboortedatum van de persoon weergegeven als JJJJMMDD.
 
 Zie ook paragraaf 3.8.3.
 
-Het geslacht van de persoon, waarbij de volgende opties gelden:
+Naast vaststelling of er sprake is van huiselijk geweld of kindermishandeling wordt in het onderzoek ook vastgesteld:
 
-Zie ook paragraaf 3.8.3.
+Er kan gekozen worden uit de volgende keuzeopties:
 
-De gemeenten dienen de contactgegevens van het AMHK aan het CBS door te geven. Aangezien het AMHK regionaal is georganiseerd, wijst elke regio een gemeente aan die de contactgegevens aan het CBS levert en deze op verzoek van het CBS periodiek controleert.
-
-### Deel 2. Aanleverproces
-
-De gemeenten dienen de contactgegevens van het AMHK aan het CBS door te geven. Aangezien het AMHK regionaal is georganiseerd, wijst elke regio een gemeente aan die de contactgegevens aan het CBS levert en deze op verzoek van het CBS periodiek controleert.
-
-Het betreft de volgende gegevens per organisatie:
+Toelichting:
 
 ### Deel 2. Aanleverproces
 
-[Artikel 4.3.1 van de het Uitvoeringsbesluit Wmo 2015](https://wetten.overheid.nl/jci1.3:c:BWBR0035733&artikel=4.3.1) bepaalt dat de AMHK’s de gegevens voor de beleidsinformatie aanleveren bij het Centraal Bureau voor de Statistiek (CBS).
+Zie ook paragraaf 3.9.
 
-Het CBS schrijft alle AMHK’s aan. CBS verzoekt middels dit schrijven om de gegevens voor de beleidsinformatie aan te leveren. In de brief staat vermeld om welke gegevens het gaat en wanneer de gegevens uiterlijk bij CBS aangeleverd moeten zijn. Ook bevat de brief informatie over hoe de organisaties de gegevens aan dienen te leveren. In feite betreft het een samenvatting van de informatie zoals opgenomen in dit informatieprotocol.
+NB: Meerdere opties zijn mogelijk. Alle vervolgen als gevolg van het onderzoek naar de casus, moeten worden aangevinkt (dus het vervolg voor alle betrokkenen bij de casus).
 
-### 6.4. Aanlevertermijnen
+### 4.6. Gegevens over de personen waarop het onderzoek betrekking heeft
 
-Het CBS schrijft alle AMHK’s aan. CBS verzoekt middels dit schrijven om de gegevens voor de beleidsinformatie aan te leveren. In de brief staat vermeld om welke gegevens het gaat en wanneer de gegevens uiterlijk bij CBS aangeleverd moeten zijn. Ook bevat de brief informatie over hoe de organisaties de gegevens aan dienen te leveren. In feite betreft het een samenvatting van de informatie zoals opgenomen in dit informatieprotocol.
+De betrokkenen bij het huiselijk geweld en/of kindermishandeling van het betreffende onderzoek worden geregistreerd.
 
-Er wordt gebruik gemaakt van de upload-voorziening die het CBS daarvoor ter beschikking heeft. Meer informatie hierover is opgenomen in deel 3 van dit informatieprotocol.
-
-### 6.5. Inhoud van het gegevensbestand
-
-De door CBS gepubliceerde gegevens zijn nooit tot een persoon herleidbaar. De gepubliceerde gegevens zijn ook niet tot organisaties herleidbaar, tenzij de organisaties daar toestemming voor geven.
-
-De levering en verwerking van gegevens door het AMHK voor beleidsinformatie in het kader van de [Wmo 2015](https://wetten.overheid.nl/jci1.3:c:BWBR0035362) is strikt geregeld in de Wmo 2015 en het [Uitvoeringsbesluit Wmo 2015](https://wetten.overheid.nl/jci1.3:c:BWBR0035733). Daarin is met het oog op de bescherming van de privacy bepaald welke persoonsgegevens verwerkt mogen worden en met welk doel. Daarnaast regelt de [CBS-wet](https://wetten.overheid.nl/jci1.3:c:BWBR0015926) op welke wijze het CBS de gegevens mag verwerken en welke voorschriften van toepassing zijn als het gaat om het publiceren van deze gegevens.
-
-### 6.6. Correctie leveringen
-
-De allereerste verslagperiode wijkt van bovenstaande af en is van 1 januari 2015 t/m 31 maart 2015. De volgende levering gaat over de periode 1 januari 2015 t/m 30 juni 2015. Dit betekent dat het eerste kwartaal nogmaals wordt uitgevraagd. Na de eerste uitvraag worden de reguliere verslagperiodes gehanteerd.
-
-De gegevens voor de beleidsinformatie over het AMHK dienen twee keer per jaar bij CBS aangeleverd te worden. Hiervoor zijn er twee verslagperiodes:
-
-### Deel 3. Technische eisen
+Dit zijn de vermoedelijke pleger en het vermoedelijke slachtoffer, de minderjarige kinderen van de vermoedelijke pleger en/of slachtoffer onafhankelijk of ze op het adres wonen waar het incident heeft plaatsgevonden of elders.
 
 ### 6.4. Aanlevertermijnen
 
-### 6.5. Inhoud van het gegevensbestand
+Van deze personen worden het BSN, de geboortedatum en het geslacht opgevraagd in het gegevensbestand. Het betreft hier persoonsgegevens.
 
-Het aanleveren van de gegevens aan CBS is verplicht op grond van [artikel 4.2.12 van de Wmo 2015](https://wetten.overheid.nl/jci1.3:c:BWBR0035362&artikel=4.2.12) en [artikel 3 van de Wet op het Centraal bureau voor de statistiek](https://wetten.overheid.nl/jci1.3:c:BWBR0015926&artikel=3).
+Er wordt geen onderscheid gemaakt in de registratie tussen vermoedelijke pleger en slachtoffer.
 
-Het gegevensbestand dat de AMHK’s genereren en uploaden bij het CBS dient de volgende inhoud te hebben:
+### 4.6.1. Bsn
 
-In [artikel 4.3.2 van het Uitvoeringsbesluit Wmo 2015](https://wetten.overheid.nl/jci1.3:c:BWBR0035733&artikel=4.3.2) zijn de gegevens opgenomen die de AMHK’s aan het CBS dienen te leveren voor de beleidsinformatie. In deel 1 van dit informatieprotocol is elk gegeven uitgewerkt in een definitie en, waar van toepassing, voorzien van keuzeopties. De AMHK’s leveren de gegevens aan het CBS in een door het CBS gedefinieerd gegevensbestand (zie deel 3 van dit informatieprotocol).
+Het unieke persoonsnummer van de betrokken persoon of personen zoals die staat ingeschreven in de Basisregistratie Personen (BRP).
 
-Het gegevensbestand dat de AMHK’s genereren en uploaden bij het CBS dient de volgende inhoud te hebben:
+Toelichting:
 
 ### 6.6. Correctie leveringen
 
-Als er correcties of aanvullingen bekend zijn over de voorgaande verslagperiode, kunnen deze doorgegeven worden door een nieuwe selectie over de vorige periode aan te leveren. Het AMHK kan zelf bepalen of correcties en aanvullende gegevens voldoende belangrijk zijn om als correctie aangeleverd te worden. Ook kan het CBS vragen om een correctielevering.
+Bij ongeboren kinderen wordt 999999999 genoteerd.
 
-Alle gegevens die betrekking hebben op die periode moeten worden aangeleverd, ook de gegevens die niet veranderd zijn. De aanname is dat de nieuwe levering alle gegevens uit de oude levering overschrijft. Gegevens die wel in de eerdere levering zaten maar niet in de correctielevering, worden als verwijderd beschouwd. In principe worden alleen berichten verwerkt die betrekking hebben op de meest actuele afgelopen verslagperiode en de daaraan voorafgaande verslagperiode.
+Per onderzoek kunnen meerdere BSN’s worden vermeld. Een onderzoek kan namelijk betrekking hebben op meerdere personen tegelijk. Zie ook paragraaf 3.10.1.
 
-Voor het aanleveren van de gegevens aan CBS dienen de AMHK’s gebruik te maken van de uploadvoorziening van het CBS. Het betreft een beveiligde voorziening.
+### 4.6.2. Geboortedatum
 
-### 7. Technische eisen die gelden voor de gegevenslevering aan het CBS
+### 6.4. Aanlevertermijnen
+
+### 6.5. Inhoud van het gegevensbestand
+
+Bij sommige personen is de exacte geboortedatum niet bekend. In die gevallen dient zoveel mogelijk informatie geleverd te worden. Dus als het geboortejaar en de geboortemaand wel bekend zijn, maar de geboortedag niet, dan dienen geboortejaar en maand geleverd te worden. Hetzelfde geldt als alleen het geboortejaar bekend is. Bij ongeboren kinderen wordt 99999999 genoteerd. Zie ook paragraaf 4.6.2 en paragraaf 3.10.2.
+
+Het gegevensbestand dat de AMHK’s genereren en uploaden bij het CBS dient de volgende inhoud te hebben:
+
+Het betreft hier het geslacht van de personen betrokken bij de melding. De volgende keuzeopties gelden:
+
+Zie ook paragraaf 3.10.3.
+
+### 5. Gegevens over het AMHK
+
+Om de AMHK’s periodiek te kunnen benaderen met het verzoek om gegevens te verstrekken en om eventueel contact op te nemen ter controle, heeft het CBS een aantal gegevens over de AMHK’s zelf nodig.
+
+De gemeenten dienen de contactgegevens van Veilig Thuis aan het CBS door te geven. Aangezien het AMHK regionaal is georganiseerd, wijst elke regio een gemeente aan die de contactgegevens aan het CBS levert en deze op verzoek van het CBS periodiek controleert.6In de praktijk blijkt dat de contacten vaak rechtsreeks tussen het AMHK en het CBS worden gelegd. Niettemin is de gemeente verantwoordelijk.
+
+Het betreft de volgende gegevens per AMHK:
+
+### Deel 2. Aanleverproces en technische eisen
 
 De uploadvoorziening is te benaderen via Internet:
 
@@ -646,17 +642,17 @@ Voor het aanleveren van de gegevens aan CBS dienen de AMHK’s gebruik te maken 
 
 ### 7.2. Bestandsformaten en specificaties
 
-http://www.cbs.nl/bestandslevering
+Het CBS schrijft alle AMHK’s aan. Het CBS verzoekt in dit schrijven de gegevens voor de beleidsinformatie AMHK bij hen aan te leveren. In deze brief staat vermeld om welke gegevens het gaat en wanneer de gegevens uiterlijk bij het CBS aangeleverd moeten zijn. Ook bevat de brief informatie over hoe de AMHK’s de gegevens aan dienen te leveren. In feite betreft het een nadere uitwerking van de informatie zoals opgenomen in deel 1 en 2 van onderhavig informatieprotocol.
 
-Elke AMHK krijgt inloggegevens die bestaan uit een enquêtecode, een correspondentienummer en een controle nummer per brief/e-mail. Met deze gegevens zijn de bestanden op eenvoudige wijze en veilig te versturen.
+Er wordt door de AMHK’s gebruik gemaakt van de beveiligde upload-voorziening die het CBS daarvoor ter beschikking heeft gesteld. Meer informatie hierover is opgenomen in deel 2 van dit onderhavig informatieprotocol.
 
 ### 7.2. Bestandsformaten en specificaties
 
 Het CBS kan de volgende bestandformaten verwerken:
 
-Voor het aanleveren van de gegevens middels het ASCII fixed format en de standaard spreadsheet is een bestandspecificatie gemaakt. De geldende versie van deze specificatie is gepubliceerd op de website van CBS:
+De levering en verwerking van gegevens door het AMHK voor de beleidsinformatie AMHK in het kader van de [Wmo 2015](https://wetten.overheid.nl/jci1.3:c:BWBR0035362), is geregeld in de Wmo 2015 en het [Uitvoeringsbesluit Wmo 2015](https://wetten.overheid.nl/jci1.3:c:BWBR0035733). Daarin is met het oog op de bescherming van de privacy bepaald welke persoonsgegevens verwerkt mogen worden en met welk doel. Daarnaast regelt de [Wet op het Centraal bureau voor de statistiek](https://wetten.overheid.nl/jci1.3:c:BWBR0015926) op welke wijze het CBS de gegevens mag verwerken en welke voorschriften van toepassing zijn als het gaat om het publiceren van deze gegevens.
 
-www.cbs.nl/beleidsinformatie-jeugd
+De door CBS gepubliceerde gegevens zijn nooit tot een persoon herleidbaar. De gepubliceerde gegevens zijn ook niet tot organisaties herleidbaar, tenzij de organisaties daar toestemming voor geven.
 
 Huiselijk geweld onderscheidt zich van publiek geweld doordat het plaatsvindt binnen intieme relaties, gezins- of familieverhoudingen. Er is sprake van emotionele afhankelijkheid en loyaliteitsbanden (Lünnemann en Verwijs, 2012).
 
@@ -664,65 +660,65 @@ Huiselijk geweld onderscheidt zich van publiek geweld doordat het plaatsvindt bi
 
 Huiselijk geweld onderscheidt zich van publiek geweld doordat het plaatsvindt binnen intieme relaties, gezins- of familieverhoudingen. Er is sprake van emotionele afhankelijkheid en loyaliteitsbanden (Lünnemann en Verwijs, 2012).
 
-'Elke vorm van voor de minderjarige bedreigende of gewelddadige interactie van fysieke, psychische of seksuele aard, die de ouders of andere personen, ten opzichte van wie de minderjarige in een relatie van afhankelijkheid of van onvrijheid staat, actief of passief opdringen, waardoor ernstige schade wordt berokkend of dreigt te worden berokkend aan de minderjarige in de vorm van fysiek of psychisch letsel.' De definitie omvat verschillende vormen van kindermishandeling. (www.amk-nederland.nl)
+Het CBS vraagt de AMHK’s om de gegevens binnen een termijn van drie weken na afloop van de verslagperiode aan te leveren. In iedere brief van het CBS aan de AMHK’s staat aangegeven op welke datum de gegevens uiterlijk bij het CBS moeten zijn aangeleverd.
 
 ### (ex-) Partnergeweld (01)
 
-'Elke vorm van voor de minderjarige bedreigende of gewelddadige interactie van fysieke, psychische of seksuele aard, die de ouders of andere personen, ten opzichte van wie de minderjarige in een relatie van afhankelijkheid of van onvrijheid staat, actief of passief opdringen, waardoor ernstige schade wordt berokkend of dreigt te worden berokkend aan de minderjarige in de vorm van fysiek of psychisch letsel.' De definitie omvat verschillende vormen van kindermishandeling. (www.amk-nederland.nl)
+In [artikel 4.3.1, eerste lid, van het Uitvoeringsbesluit Wmo 2015](https://wetten.overheid.nl/jci1.3:c:BWBR0035733&artikel=4.3.1) is bepaald dat de structurele gegevens voor de beleidsinformatie door het AMHK elektronisch worden verstrekt aan CBS. In artikel 4.3.1, tweede lid, is bepaald dat de departementen en de colleges geen informatie opvragen die al aan het CBS structureel is geleverd.
 
-Partners hebben een wederzijdse zorgverplichting en zijn vaak financieel, economisch en sociaal afhankelijk van elkaar. Bij partnergeweld is vaak sprake van machtsongelijkheid, waarbij de pleger een bepaald overwicht heeft op het slachtoffer. Er kan een patroon ontstaan waardoor het slachtoffer (en het hele gezin) in een isolement kunnen raken.
+In [artikel 4.3.2. van datzelfde Uitvoeringsbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0035733&artikel=4.3.2) is omschreven om welke gegevens het gaat. In [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0036096&hoofdstuk=4&paragraaf=2&artikel=7&z=2017-06-01&g=2017-06-01) van de Uitvoeringsregeling Wmo 2017 is bepaald op welke wijze deze gegevens aan het CBS moet worden aangeleverd verwijzend naar het in deze bijlage opgenomen informatieprotocol.
 
 Geweld1Voorbeelden van geweld zijn slaan, bijten, schoppen, aanranden, verkrachten, maar ook zorg onthouden en besmetten. Voorbeelden van psychisch geweld zijn belaging, intimideren, sociaal isoleren, vernederen en manipuleren. tussen partners onderscheidt zich van geweld tegen kinderen in het gezin, omdat partners beide volwassen zijn en kinderen per definitie kwetsbaarder zijn dan hun ouders.
 
 ### Belaging
 
-Profielen) van (ex-)partnergeweld:
+Alle gegevens die betrekking hebben op die voorgaande periode moeten worden aangeleverd, ook de gegevens die niet veranderd zijn. De aanname die het CBS doet is dat de nieuwe levering betere gegevens bevat over de voorgaande periode en dat daarom alle gegevens uit de oude levering overschreven mogen worden. Gegevens die wel in de eerdere levering zaten maar niet in de correctielevering, worden als verwijderd beschouwd.
 
-(Graham, Kevan en Archer, 2003; Johnson, 2008; Lünnemann en Verwijs, 2012)
+In principe worden correcties en aanvullingen verwerkt hebben die betrekking hebben op de meest recente (afgelopen) verslagperiode.
 
-### Belaging
+### 7. Technische eisen die gelden voor de gegevenslevering aan CBS
 
 Het wederrechtelijk stelselmatig en opzettelijk inbreuk maken op iemands persoonlijke levenssfeer, bijvoorbeeld door die ander voortdurend, hinderlijk te achtervolgen, te bespieden, te bellen en te mailen of persoonlijk te bedreigen.
 
 ### Oudermishandeling/ geweld tegen ouders (04)
 
-Het begrip ‘eergerelateerd geweld’ is de overkoepelende term voor alle vormen van dwang en psychisch en fysiek geweld om te voorkomen dat een lid van de familie een ‘misstap’ zet die de familie-eer in de gemeenschap kan schaden en alle geweld tegen de (vermeende) ‘eerschender’ om de geschonden eer te herstellen. Bij ‘eer’ kan het gaan om persoonlijke eer (iemand houdt zich aan de basisvoorwaarden van de sociale groep) of om maatschappelijke eer (men is gelijkwaardig en kan elkaar vertrouwen, waardoor men respect, steun en bescherming krijgt). Daarnaast telt in veel bevolkingsgroepen met een groepscultuur ook de familie-eer, die vooral is gekoppeld aan de seksuele eer van met name vrouwen en meisjes. Mannen en jongens hebben de taak deze eer te beschermen, zo nodig te herstellen, desnoods met geweld. Dit zogenaamde eergerelateerd geweld komt vooral voor in culturen rond de Middellandse Zee (Spanje en Italië kenden ook eermoord), het Midden-Oosten, Zuid- en Centraal-Azië. Ook onder Roma en Hindoestaanse gemeenschappen komt eergeweld voor. Onder orthodox-christelijke en joodse gemeenschappen zien we vergelijkbare mechanismen rond kuisheid, aanzien, groepsdruk en sociale uitsluiting.
+De uploadvoorziening is te benaderen via Internet:
 
-Eergerelateerd geweld omvat elke vorm van geestelijk of lichamelijk geweld, gepleegd vanuit een collectieve mentaliteit in reactie op een (dreiging van) schending van de eer van een man of een vrouw en daarmee van zijn of haar familie, waarvan de buitenwereld op de hoogte is of dreigt te raken’ (Werkdefinitie ministerie van Justitie, Beke 2005).
+http://www.cbs.nl/bestandslevering
 
-Het begrip ‘eergerelateerd geweld’ is de overkoepelende term voor alle vormen van dwang en psychisch en fysiek geweld om te voorkomen dat een lid van de familie een ‘misstap’ zet die de familie-eer in de gemeenschap kan schaden en alle geweld tegen de (vermeende) ‘eerschender’ om de geschonden eer te herstellen. Bij ‘eer’ kan het gaan om persoonlijke eer (iemand houdt zich aan de basisvoorwaarden van de sociale groep) of om maatschappelijke eer (men is gelijkwaardig en kan elkaar vertrouwen, waardoor men respect, steun en bescherming krijgt). Daarnaast telt in veel bevolkingsgroepen met een groepscultuur ook de familie-eer, die vooral is gekoppeld aan de seksuele eer van met name vrouwen en meisjes. Mannen en jongens hebben de taak deze eer te beschermen, zo nodig te herstellen, desnoods met geweld. Dit zogenaamde eergerelateerd geweld komt vooral voor in culturen rond de Middellandse Zee (Spanje en Italië kenden ook eermoord), het Midden-Oosten, Zuid- en Centraal-Azië. Ook onder Roma en Hindoestaanse gemeenschappen komt eergeweld voor. Onder orthodox-christelijke en joodse gemeenschappen zien we vergelijkbare mechanismen rond kuisheid, aanzien, groepsdruk en sociale uitsluiting.
+Hieronder een screenshot van de betreffende website.
 
 ### Huwelijksdwang en achterlating (05)
 
-In Nederland onderscheiden we als verschijningsvormen van ouderenmishandeling: lichamelijke mishandeling, psychische mishandeling, verwaarlozing, financiële uitbuiting, seksueel misbruik. Soms wordt een zesde vorm genoemd: schending van rechten. Voorbeelden hiervan: schending van het recht op privacy, instemmingsrecht en recht op bewegingsvrijheid. Deze worden beschouwd als een vorm van psychische mishandeling.
+Met deze inloggegevens zijn de bestanden eenvoudig en veilig door de AMHK’s te versturen.
 
 Ouderenmishandeling (in huiselijke kring en professionele relatie) is het handelen of het nalaten van handelen van al degenen die in een terugkerende persoonlijke of professionele relatie met de oudere (iemand van 65 jaar of ouder) staan, waardoor de oudere persoon lichamelijke en/of psychische en/of materiële schade lijdt en waarbij van de kant van de oudere sprake is van een vorm van gedeeltelijke of volledige afhankelijkheid. (VWS, 2011; H. Comijs, 1996).
 
-In Nederland onderscheiden we als verschijningsvormen van ouderenmishandeling: lichamelijke mishandeling, psychische mishandeling, verwaarlozing, financiële uitbuiting, seksueel misbruik. Soms wordt een zesde vorm genoemd: schending van rechten. Voorbeelden hiervan: schending van het recht op privacy, instemmingsrecht en recht op bewegingsvrijheid. Deze worden beschouwd als een vorm van psychische mishandeling.
+Het CBS verwerkt voor de beleidsinformatie AMHK uitsluitend bestanden volgens het fixed width ASCII format. Daarnaast gelden er diverse voorwaarden en eisen voor de concrete opbouw van dit fixed width ASCII-bestand. Het CBS heeft al deze specificaties uitgewerkt in de Bestanddefinitie AMHK. De nieuwste versie van de Bestandsdefinitie AMHK is gepubliceerd op de website van het CBS: www.cbs.nl/jeugdzorg.
 
 Werkdefinitie voor de verkenning van TNO en Movisie naar geweld tegen ouders (Vink en Goes, 2014). Een breed gedragen definitie ontbreekt nog.
 
-Overschrijding van de grens van goede zorg door een mantelzorger, veroorzaakt door overbelasting, onmacht, onkunde of onwetendheid. Verschijningsvormen van ontspoorde mantelzorg: psychisch geweld, fysiek geweld, verwaarlozing, seksueel grensoverschrijdend gedrag en financieel misbruik.
+**Huiselijk geweld**
 
 ### Oudermishandeling/ geweld tegen ouders (04)
 
-Werkdefinitie voor de verkenning van TNO en Movisie naar geweld tegen ouders (Vink en Goes, 2014). Een breed gedragen definitie ontbreekt nog.
+Huiselijk geweld onderscheidt zich van publiek geweld doordat het plaatsvindt binnen intieme relaties, gezins- of familieverhoudingen. Er is sprake van emotionele afhankelijkheid en loyaliteitsbanden.8Lünnemann en Verwijs, 2012 Mensenhandel valt hier dus niet onder, maar wordt wel gemeld.
 
 ### Huwelijksdwang en achterlating (05)
 
-Het gaat om herhaaldelijk en ernstig geweld dat niet alleen vanuit de puberteit verklaard kan worden. Het geweld kan psychisch, fysiek en seksueel zijn, maar ook financiële uitbuiting betreffen. Uitgezonderd van de definitie zijn (ex-)partnergeweld, geweld tussen broers en zussen en ouderenmishandeling (deze vormen kunnen wel voorkomen naast het geweld tegen de ouders/verzorgers)’. (Vink en Goes, 2014).
+Elke vorm van voor de minderjarige bedreigende of gewelddadige interactie van fysieke, psychische of seksuele aard, die de ouders of andere personen, ten opzichte van wie de minderjarige in een relatie van afhankelijkheid of van onvrijheid staat, actief of passief opdringen, waardoor ernstige schade wordt berokkend of dreigt te worden berokkend aan de minderjarige in de vorm van fysiek of psychisch letsel. 9Jeugdwet
 
-Huwelijksdwang is het dwingen van een meisje, jongen, vrouw of man tot een huwelijk. Bij huwelijksdwang hebben een of beide huwelijkspartners weinig of geen zeggenschap over de sluiting van het huwelijk, het huwelijk is tegen hun wil. Een weigering wordt vaak niet geaccepteerd.
+**(ex-) Partnergeweld**
 
 ### Kindermishandeling, kindcheck (06)
 
-Huwelijksdwang is het dwingen van een meisje, jongen, vrouw of man tot een huwelijk. Bij huwelijksdwang hebben een of beide huwelijkspartners weinig of geen zeggenschap over de sluiting van het huwelijk, het huwelijk is tegen hun wil. Een weigering wordt vaak niet geaccepteerd.
+Partners hebben een wederzijdse zorgverplichting en zijn vaak financieel, economisch en sociaal afhankelijk van elkaar. Bij partnergeweld is vaak sprake van machtsongelijkheid, waarbij de pleger een bepaald overwicht heeft op het slachtoffer. Er kan een patroon ontstaan waardoor het slachtoffer (en het hele gezin) in een isolement kunnen raken.
 
-Slachtoffers van huwelijksdwang hebben doorgaans niet alleen te maken met een gebrek aan vrije partnerkeuze, maar ook met een dwang om te trouwen, vaak voor een bepaalde leeftijd. Als jongeren vervolgens tegen de wil van hun ouders/familie toch kiezen voor een zelfgekozen partner, raken ze meestal het contact kwijt met de ouders of worden ze verstoten.
+Profielen) van (ex-)partnergeweld: 11Graham, Kevan en Archer, 2003; Johnson, 2008; Lünnemann en Verwijs, 2012
 
 ### Achterlating:
 
-Huwelijksdwang is een vorm van huiselijk geweld en van eergerelateerd geweld. Blijvend verzet tegen het huwelijk kan aanleiding zijn tot een gedwongen achterlating of eermoord.
+Het wederrechtelijk stelselmatig en opzettelijk inbreuk maken op iemands persoonlijke levenssfeer, bijvoorbeeld door die ander voortdurend, hinderlijk te achtervolgen, te bespieden, te bellen en te mailen of persoonlijk te bedreigen.
 
 Deze regeling zal met toelichting in de Staatscourant worden geplaatst.
 
@@ -750,11 +746,11 @@ In [artikel 4.2.12 van de Wmo 2015](https://wetten.overheid.nl/jci1.3:c:BWBR0035
 
 ### 1.2. Doel en beheer
 
-De beleidsinformatie AMHK betreft informatie over het aantal adviezen dat het AMHK heeft gegeven, evenals het aantal meldingen dat bij het AMHK is gedaan en het aantal onderzoeken dat het AMHK heeft uitgevoerd. Daarnaast wordt een aantal kenmerken van deze adviezen, meldingen en onderzoeken in beeld gebracht. Een deel van de gegevens betreft anonieme, niet aan een persoon gerelateerde gegevens. Op twee onderdelen gaat het om het verstrekken van persoonsgegevens, namelijk het BSN, de geboortedatum en het geslacht van de personen waarover een melding is gedaan en van de personen waarop het onderzoek betrekking had.
+De beleidsinformatie is bedoeld voor gemeenten en de betrokken departementen om inzicht te krijgen in het functioneren van de AMHK’s en, in bredere zin, als ondersteuning voor de beleidsontwikkeling voor de aanpak van huiselijk geweld en kindermishandeling. De in dit protocol vastgelegde beleidsinformatie biedt een basis voor gemeenten voor hun informatie-uitvraag aan het AMHK. Gemeenten zullen naast deze basisinformatie ook aanvullende informatievragen aan hun AMHK willen stellen. [Artikel 4.3.1 van het Uitvoeringsbesluit Wmo 2015](https://wetten.overheid.nl/jci1.3:c:BWBR0035733&artikel=4.3.1) bepaalt dat de gegevens voor de beleidsinformatie door het AMHK worden verstrekt aan het Centraal Bureau voor de Statistiek (CBS). Het CBS verwerkt deze gegevens tot statistieken en rapportages en publiceert deze zodat iedereen daar gebruik van kan maken. De microdata (informatie op persoons- of instellingsniveau) komen niet ter beschikking. Onderzoek op dit soort data is wel mogelijk via de zogenaamde remote access voor organisaties die daarvoor door het CBS geautoriseerd zijn. Ook dan geldt echter dat de gegevens die worden gepubliceerd naar aanleiding van dit onderzoek nog steeds niet tot een persoon of instelling te herleiden mogen zijn.
 
 ### 1.3. Opbouw informatieprotocol
 
-Het informatieprotocol wordt beheerd door het ministerie van VWS. In praktijk vindt het beheer plaats in afstemming met:
+Ook is in het informatieprotocol opgenomen (hoofdstuk 5) welke contactgegevens de AMHK’s over zichzelf aan het CBS moeten leveren. Deze gegevens heeft het CBS nodig om bij de AMHK’s de halfjaarlijkse gegevensuitvraag voor de beleidsinformatie AMHK te kunnen doen.
 
 ### Deel 1. Gegevensdefinities
 
@@ -762,7 +758,7 @@ Toelichting:
 
 ### 2. Gegevens over adviezen
 
-De drie gegevenssets worden ieder in een eigen hoofdstuk uitgewerkt. Een aantal begrippen komt in meerdere sets voor. Voor de leesbaarheid is er voor gekozen om deze begrippen te herhalen. Per set gegevens zijn de begrippen dan compleet. De uitwerking van de begrippen verschilt echter niet.
+De drie sets met gegevens worden ieder in een eigen hoofdstuk uitgewerkt. Een aantal begrippen komt in meerdere sets voor. Voor de leesbaarheid is er voor gekozen om deze begrippen te herhalen. Per set gegevens zijn de begrippen dan compleet, zodat de lezer niet hoeft te bladeren. De uitwerking van de begrippen verschilt echter niet.
 
 ### 2.1. Advies
 
@@ -778,11 +774,11 @@ In feite betreft het hier verschillende vormen van huiselijk geweld en kindermis
 
 ### 3. Gegevens over meldingen
 
-Er is steeds maar één optie mogelijk.
+Toelichting:
 
 ### 3.1. Melding
 
-[Artikel 4.1.1 van de Wmo 2015](https://wetten.overheid.nl/jci1.3:c:BWBR0035362&artikel=4.1.1) bepaalt dat het college van B&W zorg draagt voor de organisatie van een AMHK. Eén van de taken van het AMHK is fungeren als meldpunt voor gevallen of vermoedens van huiselijk geweld of kindermishandeling (artikel 4.1.1, lid 2).
+Er zijn meerdere opties tegelijk per advies mogelijk. Zie ook paragraaf 3.3 en 4.4
 
 ### 3.2. Aanleiding om contact op te nemen met het AMHK
 
@@ -790,43 +786,43 @@ Bij het leveren van gegevens aan CBS krijgt elke melding een voor het betreffend
 
 ### 3.3. Aard van het geweld en/of mishandeling
 
-In feite betreft het hier verschillende vormen van huiselijk geweld en kindermishandeling. Er zijn meerdere opties per advies mogelijk. Een uitgebreide toelichting op bovenstaande keuzemogelijkheden is opgenomen in de toelichting op vormen van huiselijk geweld en kindermishandeling hieronder.
+In bijlage 1 van het VNG-Model Handelingsprotocol Veilig Thuis is de melding als volgt uitgewerkt:
 
 ### 3.4. Hoedanigheid van de melder
 
-De aard van het geweld en/of de mishandeling is een verbijzondering van de vorm van het huiselijke geweld of de kindermishandeling (zie 3.2.). Sommige opties zijn alleen van toepassing bij kindermishandeling, zoals pedagogische verwaarlozing, getuige van geweld in het gezin, Münchenhausen-by-proxy en vrouwelijke genitale verminking. Er zijn meerdere opties mogelijk per melding.
+Bij het leveren van gegevens aan het CBS krijgt elke melding/triagebesluit een voor de betreffende AMHK’s uniek identificatienummer.
 
 ### 3.5. Datum melding
 
-Er is steeds maar één optie mogelijk.
+Een nieuwe melding kan leiden tot een ander triagebesluit over dezelfde casus. Dat betekent dat er meer meldingen en besluiten over één casus kunnen zijn.
 
 ### 3.6. Vervolg melding
 
-Vervolg melding kent de volgende opties:
+Als het gekozen vervolg na een triagebesluit ongewijzigd blijft nav een tweede melding én er is gekozen voor onderzoek, dan dient het onderzoek te worden afgesloten binnen 5 dagen en tien weken vanaf de datum van de **eerste** melding.
 
-### 3.7. Nadere informatie vervolg melding
+### 3.2. Aanleiding om een melding te doen bij het AMHK
 
-Na de melding vindt triage plaats door het AMHK (zie hoofdstuk 8 van het Model Handelingsprotocol AMHK). De melding kan leiden tot het starten van een onderzoek, maar ook tot het inzetten van een vervolgtraject zonder onderzoek te doen. Het inzetten van een vervolgtraject is beschreven in hoofdstuk 9 van het Model Handelingsprotocol AMHK. In een dergelijk geval blijft het AMHK verantwoordelijk totdat het vervolgtraject feitelijk start. Dan eindigt de verantwoordelijkheid en bemoeienis van het AMHK. Ook kan na de triage besloten worden dat de melding moeten worden omgezet in een advies of kan besloten worden om de bemoeienis van het AMHK direct na de triage of de melding te beëindigen.
+**Toelichting:**
 
 ### 3.7.2. Datum start inzetten vervolgtraject
 
-Toelichting:
+**Toelichting:**
 
-### 3.7.3. Datum einde bemoeienis AMHK
+### 3.4. Hoedanigheid van de melder
 
-Toelichting:
+Bij de hoedanigheid van de melder wordt een keuze gemaakt uit één van de volgende opties:
 
 ### 3.8. Gegevens over de personen waarop de melding betrekking heeft
 
-Toelichting:
+Er is steeds maar één optie per melding mogelijk. Zie ook paragraaf 2.4
 
-### 3.8.1. BSN
+### 3.5. Datum melding
 
-Het unieke persoonsnummer dat iedereen heeft die staat ingeschreven in de Basisregistratie personen (BRP).
+De datum van binnenkomst van de melding (telefonisch of schriftelijk of elektronisch), dus de dag waarop de melding van de situatie of het vermoeden van huiselijk geweld en/of kindermishandeling aan het AMHK heeft plaatsgevonden.
 
 ### 3.8.2. Geboortedatum
 
-Per melding kunnen meerdere BSN’s worden vermeld. Een melding kan namelijk betrekking hebben op meerdere personen tegelijk.
+Aan het CBS worden uitsluitend afgeronde triagebesluiten geleverd.
 
 Toelichting:
 
@@ -838,37 +834,37 @@ Toelichting:
 
 ### 4.2. Aanleiding om contact op te nemen met het AMHK
 
-Bij het leveren van gegevens aan CBS krijgt elke onderzoek een voor het betreffende AMHK uniek nummer.
+Van deze personen worden het BSN, de geboortedatum en het geslacht opgevraagd in het gegevensbestand. Het betreft hier persoonsgegevens. Er wordt geen onderscheid gemaakt in de registratie tussen vermoedelijke pleger en slachtoffer.
 
 ### 4.3. Datum start onderzoek
 
-In feite betreft het hier verschillende vormen van huiselijk geweld en kindermishandeling. Er zijn meerdere opties per advies mogelijk. Een uitgebreide toelichting op bovenstaande keuzemogelijkheden is opgenomen in opgenomen in de toelichting op vormen van huiselijk geweld en kindermishandeling hieronder.
+Indien er geen BSN bekend is, dan wordt in plaats van het BSN de code 000000000 genoteerd. Bij ongeboren kinderen wordt 999999999 genoteerd.
 
-### 4.4. Datum afronding onderzoek
-
-Het betreft de dag waarop een medewerker van het AMHK start met het uitvoeren van de onderzoekswerkzaamheden. Het gaat niet om de dag waarop het onderzoek wordt ‘uitgedeeld’ of toebedeeld aan een medewerker.
-
-### 4.5. Uitkomst van het onderzoek
+### 3.10.2. Geboortedatum
 
 Toelichting:
 
+### 4.5. Uitkomst van het onderzoek
+
+De [wet](https://wetten.overheid.nl/jci1.3:c:BWBR0035362) stelt dat een triage én onderzoek moet zijn afgerond binnen vijf dagen en 10 weken. De termijn voor onderzoek start zodra het triagebesluit tot onderzoek is genomen.
+
 ### 4.8. Gegevens over de personen waarop het onderzoek betrekking heeft
 
-Het betreft het vervolg voor de betrokkene(n). Het kan zijn dat betrokkene(n) reeds hulp kregen van één van bovenstaande instanties ten tijde van de melding en/of de uitvoering van het onderzoek. Ook in deze gevallen wordt de overdracht geregistreerd.
+De datum waarop deze besluiten zijn genomen, geldt als de datum van de afronding onderzoek (= datum onderzoeksbesluit in de ict systemen).
 
 ### 4.8.1. Bsn
 
-Het unieke persoonsnummer dat iedereen heeft die staat ingeschreven in de Basisregistratie personen (BRP).
+Bij de eerste en vijfde keuze-optie geldt dat er vermoedens zijn van huiselijk geweld en/of kindermishandeling, maar dat deze vermoedens niet volledig onderbouwd kunnen worden.
 
 ### 4.8.2. Geboortedatum
 
-Per onderzoek kunnen meerdere BSN’s worden vermeld. Een onderzoek kan namelijk betrekking hebben op meerdere personen tegelijk.
+Er zijn meerdere opties tegelijk mogelijk per onderzoek.
 
-Bij sommige personen is de exacte geboortedatum niet bekend. Indien de geboortedag niet bekend is, wordt dat aangegeven door JJJJMM00 te noteren. Indien (ook) de geboortemaand niet bekend is, dan wordt dat aangegeven door JJJJ0000 te noteren. Bij ongeboren kinderen wordt 99999999 genoteerd.
+Sommige opties zijn alleen van toepassing bij kindermishandeling, zoals pedagogische verwaarlozing, getuige van geweld in het gezin, Münchenhausen-by-proxy en vrouwelijke genitale verminking.
 
-Zie ook paragraaf 3.8.2.
+Er zijn meerdere opties tegelijk per onderzoek mogelijk. Zie ook paragraaf 3.3.
 
-### 4.8.3. Geslacht
+### 4.5. Vervolg na het onderzoek
 
 ### Deel 2. Aanleverproces
 
@@ -876,7 +872,7 @@ Zie ook paragraaf 3.8.2.
 
 [Artikel 4.3.1 van de het Uitvoeringsbesluit Wmo 2015](https://wetten.overheid.nl/jci1.3:c:BWBR0035733&artikel=4.3.1) bepaalt dat de AMHK’s de gegevens voor de beleidsinformatie aanleveren bij het Centraal Bureau voor de Statistiek (CBS).
 
-[Artikel 4.3.1 van de het Uitvoeringsbesluit Wmo 2015](https://wetten.overheid.nl/jci1.3:c:BWBR0035733&artikel=4.3.1) bepaalt dat de AMHK’s de gegevens voor de beleidsinformatie aanleveren bij het Centraal Bureau voor de Statistiek (CBS).
+Ook worden de personen meegenomen die meer- of minderjarig zijn en die naar het oordeel van de professional in een afhankelijkheidsrelatie staan tot de vermoedelijke pleger en/of slachtoffer (denk bijvoorbeeld aan een volwassen verstandelijk beperkt kind dat in een instelling woont en een bezoekregeling heeft voor het weekend).
 
 ### 6.2. Privacybescherming
 
@@ -884,15 +880,15 @@ Het CBS is, in afstemming met gemeenten, verantwoordelijk voor een actueel lande
 
 ### 6.2. Privacybescherming
 
-De door CBS gepubliceerde gegevens zijn nooit tot een persoon herleidbaar. De gepubliceerde gegevens zijn ook niet tot organisaties herleidbaar, tenzij de organisaties daar toestemming voor geven.
+Indien er geen BSN bekend is, dan wordt in plaats van het BSN de code 000000000 genoteerd.
 
 ### 6.3. Verslagperiodes
 
 De allereerste verslagperiode wijkt van bovenstaande af en is van 1 januari 2015 t/m 31 maart 2015. De volgende levering gaat over de periode 1 januari 2015 t/m 30 juni 2015. Dit betekent dat het eerste kwartaal nogmaals wordt uitgevraagd. Na de eerste uitvraag worden de reguliere verslagperiodes gehanteerd.
 
-In de brief van CBS aan de AMHK’s staat per keer aangegeven op welke datum de gegevens uiterlijk bij CBS moeten zijn aangeleverd. Het CBS vraagt de AMHK’s om de gegevens binnen een termijn van drie weken na afloop van de verslagperiode aan te leveren.
+Toelichting:
 
-### 6.5. Inhoud van het gegevensbestand
+### 4.6.3. Geslacht
 
 ### Deel 3. Technische eisen
 
@@ -900,69 +896,69 @@ In de brief van CBS aan de AMHK’s staat per keer aangegeven op welke datum de 
 
 Voor het aanleveren van de gegevens aan CBS dienen de AMHK’s gebruik te maken van de uploadvoorziening van het CBS. Het betreft een beveiligde voorziening.
 
-Voor het aanleveren van de gegevens middels het ASCII fixed format en de standaard spreadsheet is een bestandspecificatie gemaakt. De geldende versie van deze specificatie is gepubliceerd op de website van CBS:
+Het CBS is, in afstemming met gemeenten, verantwoordelijk voor een actueel landelijk databestand over de AMHK’s die de gegevens voor beleidsinformatie moeten aanleveren.
 
-### Toelichting op vormen van huiselijk geweld en kindermishandeling
+### 6.2. Privacybescherming
 
-### Toelichting op vormen van huiselijk geweld en kindermishandeling
+### 6.3. Verslagperiodes
 
-**Huiselijk geweld** is geweld dat door iemand uit de huiselijke of familiekring van het slachtoffer wordt gepleegd. De term huiselijk verwijst niet naar de plaats waar het geweld plaatsvindt, maar naar de relatie tussen pleger en slachtoffer, bijvoorbeeld (ex)partner, gezins- en familieleden. Dat geweld kan onder andere fysiek, seksueel en psychisch van aard zijn[1]. Vormen van huiselijk geweld zijn: (ex)partnergeweld, ouderen-mishandeling, eergerelateerd geweld, huwelijksdwang en genitale verminking, mishandeling van ouders door hun kinderen. (Factsheet huiselijk geweld (2013) van Movisie).
+De gegevens voor de beleidsinformatie over het AMHK dienen twee keer per jaar bij CBS aangeleverd te worden. Hiervoor zijn er twee verslagperiodes:
 
 ### Kindermishandeling
 
-Onder kindermishandeling wordt verstaan:
+Het aanleveren van de gegevens aan het CBS is verplicht op grond van [artikel 4.2.12 van de Wmo 2015](https://wetten.overheid.nl/jci1.3:c:BWBR0035362&artikel=4.2.12) en [artikel 3 van de Wet op het Centraal bureau voor de Statistiek](https://wetten.overheid.nl/jci1.3:c:BWBR0015926&artikel=3).
 
-Belaging kan deel uitmaken van andere vormen van geweld tegen een (ex-)partner.
+Voor het aanleveren van de gegevens aan het CBS dienen de AMHK’s gebruik te maken van de beveiligde uploadvoorziening van het CBS.
 
 ### Ouderenmishandeling of ontspoorde zorg (03)
 
-Er is een diversiteit aan vormen van eergerelateerd geweld en gradaties van ernst. Denk hierbij aan eermoord, trotsmoord, (gedwongen) zelfmoord, verstoting, seksueel misbruik, genezingsrituelen en bezweringen. Ook huwelijksdwang en achterlating kunnen hieronder vallen, maar zijn niet altijd een gevolg van een eerkwestie, want hebben soms bijvoorbeeld een financiële of verblijfsrechtelijke reden.
+Elk AMHK krijgt van het CBS per brief/email inloggegevens die bestaan uit:
 
 ### Ouderenmishandeling of ontspoorde zorg (03)
 
 ### Oudermishandeling/ geweld tegen ouders (04)
 
-‘Oudermishandeling is niet-incidenteel geweld in het gezin, gepleegd door een jeugdige van 12 tot 23 jaar, gericht op (een van) de ouders/verzorgers.
+is geweld dat door iemand uit de huiselijke of familiekring van het slachtoffer wordt gepleegd. De term huiselijk verwijst niet naar de plaats waar het geweld plaatsvindt, maar naar de relatie tussen pleger en slachtoffer, bijvoorbeeld (ex)partner, gezins- en familieleden. Dat geweld kan onder andere fysiek, seksueel en psychisch van aard zijn. Vormen van huiselijk geweld zijn: (ex)partnergeweld, ouderen-mishandeling, eergerelateerd geweld, huwelijksdwang, genitale verminking en mishandeling van ouders door hun kinderen. 7Movisie: Factsheet huiselijk geweld, 2013
 
 ### Huwelijksdwang en achterlating (05)
 
-‘Oudermishandeling is niet-incidenteel geweld in het gezin, gepleegd door een jeugdige van 12 tot 23 jaar, gericht op (een van) de ouders/verzorgers.
+**Kindermishandeling**
 
-Huwelijksdwang is een religieus of wettelijk huwelijk waarbij de (voorbereidende) huwelijkshandelingen tegen de vrije wil van minstens een van de huwelijkskandidaten plaats hebben en waarmee onder een bepaalde vorm van dwang is ingestemd. (Cornelissen, Kuppens en Ferwerda, 2009)
+Geweld10Voorbeelden van geweld zijn slaan, bijten, schoppen, aanranden, verkrachten, maar ook zorg onthouden en besmetten. Voorbeelden van psychisch geweld zijn belaging, intimideren, sociaal isoleren, vernederen en manipuleren. tussen partners onderscheidt zich van geweld tegen kinderen in het gezin, omdat partners beide volwassen zijn en kinderen per definitie kwetsbaarder zijn dan hun ouders.
 
 ### Achterlating:
 
-Meestal gaat het bij huwelijksdwang om ouders die hun dochter of zoon een huwelijk en/of een bepaalde partner opdringen. Vaak oefent op de achtergrond ook de familie of de etnische gemeenschap druk uit. Die druk kan subtiel tot zeer dwingend zijn.
+**Belaging**
 
 ### Huwelijkse gevangenschap:
 
-Naast het gedwongen worden om te trouwen, kan een persoon ook gedwongen worden om getrouwd te blijven. Een vrouw of man is in dat geval een huwelijk aangegaan en wil dit be-eindigen, terwijl daarvoor de medewerking van de echtgenoot nodig is. Als de echtgenoot deze medewerking weigert, is sprake van huwelijkse gevangenschap. Dit kan voorkomen bij een formeel huwelijk, maar ook bij een informeel, religieus huwelijk. Vaak zijn het vrouwen die door hun man gedwongen worden om gehuwd te blijven. Maar het komt ook voor dat de vrouw haar man dwingt om gehuwd te blijven.
+Belaging kan deel uitmaken van andere vormen van geweld tegen een (ex-)partner.
 
-Het tegen de zin achterlaten in het land van herkomst (van de ouders) van jongeren, met name meisjes van 12-23 jaar; vaak wordt het paspoort of de verblijfsvergunning van het slachtoffer afgenomen om terugkeer naar het nieuwe thuisland te verhinderen.
+**Eergerelateerd geweld**
 
 ### Huwelijkse gevangenschap:
 
-Naast het gedwongen worden om te trouwen, kan een persoon ook gedwongen worden om getrouwd te blijven. Een vrouw of man is in dat geval een huwelijk aangegaan en wil dit be-eindigen, terwijl daarvoor de medewerking van de echtgenoot nodig is. Als de echtgenoot deze medewerking weigert, is sprake van huwelijkse gevangenschap. Dit kan voorkomen bij een formeel huwelijk, maar ook bij een informeel, religieus huwelijk. Vaak zijn het vrouwen die door hun man gedwongen worden om gehuwd te blijven. Maar het komt ook voor dat de vrouw haar man dwingt om gehuwd te blijven.
+Het begrip ‘eergerelateerd geweld’ is de overkoepelende term voor alle vormen van dwang en psychisch en fysiek geweld om te voorkomen dat een lid van de familie een ‘misstap’ zet die de familie-eer in de gemeenschap kan schaden en alle geweld tegen de (vermeende) ‘eerschender’ om de geschonden eer te herstellen. Bij ‘eer’ kan het gaan om persoonlijke eer (iemand houdt zich aan de basisvoorwaarden van de sociale groep) of om maatschappelijke eer (men is gelijkwaardig en kan elkaar vertrouwen, waardoor men respect, steun en bescherming krijgt). Daarnaast telt in veel bevolkingsgroepen met een groepscultuur ook de familie-eer, die vooral is gekoppeld aan de seksuele eer van vooral vrouwen en meisjes. Mannen en jongens hebben de taak deze eer te beschermen, zo nodig te herstellen, desnoods met geweld. Dit zogenaamde eergerelateerd geweld komt vooral voor in culturen rond de Middellandse Zee (Spanje en Italië kenden ook eermoord), het Midden-Oosten, Zuid- en Centraal-Azië. Ook onder Roma en Hindoestaanse gemeenschappen komt eergeweld voor. Onder orthodox-christelijke en joodse gemeenschappen zien we vergelijkbare mechanismen rond kuisheid, aanzien, groepsdruk en sociale uitsluiting.
 
-(www.huiselijkgeweld.nl)
+Er is een diversiteit aan vormen van eergerelateerd geweld en gradaties van ernst. Denk hierbij aan eermoord, trotsmoord, (gedwongen) zelfmoord, verstoting, seksueel misbruik, genezingsrituelen en bezweringen. Ook huwelijksdwang en achterlating kunnen hieronder vallen, maar zijn niet altijd een gevolg van een eerkwestie, want hebben soms bijvoorbeeld een financiële of verblijfsrechtelijke reden.
 
 ### Kindermishandeling, kindcheck (06)
 
-Onderdeel van de Wet verplichte meldcode huiselijk geweld en kindermishandeling is de zogenaamde kindcheck, die betrekking heeft op professionals die met volwassenen werken. Aks de situatie van de cliënt aanleiding geeft om zich zorgen te maken over mogelijk aanwezige kinderen, dan zijn de professionals verplicht om na te gaan of hun cliënt verantwoordelijkheid draagt voor de opvoeding of verzorging van kinderen. Als dat het geval is, dan moeten zij nagaan of de kinderen veilig zijn. Ze dienen daarvoor een aantal stappen te volgend die beschreven staan in de Wet verplichte meldcode. De uitkomst hiervan kan zijn dat de professional contact opneemt met het AMHK.
+Ouderenmishandeling (in huiselijke kring en professionele relatie) is het handelen of het nalaten van handelen van al degenen die in een terugkerende persoonlijke of professionele relatie met de oudere (iemand van 65 jaar of ouder) staan, waardoor de oudere persoon lichamelijke en/of psychische en/of materiële schade lijdt en waarbij van de kant van de oudere sprake is van een vorm van gedeeltelijke of volledige afhankelijkheid. (VWS, 2011; H. Comijs, 1996).
 
 Deze regeling zal met toelichting in de Staatscourant worden geplaatst.
 
 ##### Artikel 2a
 
-1. In afwijking van [artikel 2, tweede lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0036096&hoofdstuk=2&artikel=2&z=2017-04-01&g=2017-04-01), kan de Sociale verzekeringsbank rechtstreeks aan de cliënt betalen:
+1. In afwijking van [artikel 2, tweede lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0036096&hoofdstuk=2&artikel=2&z=2017-06-01&g=2017-06-01), kan de Sociale verzekeringsbank rechtstreeks aan de cliënt betalen:
 
 - a. door de cliënt betrokken vervoerskosten; of
 
 - b. een verantwoordingsvrij bedrag voor maatschappelijke ondersteuning.
 
-2. In afwijking van [artikel 2, vierde lid, onderdelen d en e](https://wetten.overheid.nl/jci1.3:c:BWBR0036096&hoofdstuk=2&artikel=2&z=2017-04-01&g=2017-04-01), ontvangt de Sociale verzekeringsbank uiterlijk vier weken na het eindigen van de beschikking, bedoeld in [artikel 2.3.6, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0035362&artikel=2.3.6) een declaratie ter betaling van vervoerskosten van de cliënt.
+2. In afwijking van [artikel 2, vierde lid, onderdelen d en e](https://wetten.overheid.nl/jci1.3:c:BWBR0036096&hoofdstuk=2&artikel=2&z=2017-06-01&g=2017-06-01), ontvangt de Sociale verzekeringsbank uiterlijk vier weken na het eindigen van de beschikking, bedoeld in [artikel 2.3.6, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0035362&artikel=2.3.6) een declaratie ter betaling van vervoerskosten van de cliënt.
 
-3. In afwijking van [artikel 2, derde en vierde lid, onderdelen d ene](https://wetten.overheid.nl/jci1.3:c:BWBR0036096&hoofdstuk=2&artikel=2&z=2017-04-01&g=2017-04-01), ontvangt de Sociale verzekeringsbank een verzoek om een verantwoordingsvrij bedrag voor maatschappelijke ondersteuning uiterlijk voor het eindigen van de beschikking, bedoeld in het tweede lid, van de cliënt.
+3. In afwijking van [artikel 2, derde en vierde lid, onderdelen d ene](https://wetten.overheid.nl/jci1.3:c:BWBR0036096&hoofdstuk=2&artikel=2&z=2017-06-01&g=2017-06-01), ontvangt de Sociale verzekeringsbank een verzoek om een verantwoordingsvrij bedrag voor maatschappelijke ondersteuning uiterlijk voor het eindigen van de beschikking, bedoeld in het tweede lid, van de cliënt.
 
 4. De Sociale verzekeringsbank verricht betalingen, indien de declaratie, bedoeld in het tweede lid, of het verzoek, bedoeld in het derde lid, is opgesteld met gebruikmaking van een model dat door de Sociale verzekeringsbank daartoe beschikbaar is gesteld.
 
@@ -980,23 +976,23 @@ Zie ook paragraaf 4.8.3.
 
 ### 4.4. Datum afronding onderzoek
 
-### 4.5. Uitkomst van het onderzoek
+### 3.10.3. Geslacht
 
-Toelichting:
+Om zicht te hebben op het aantal onderzoeken dat het AMHK uitvoert en op de uitkomst en het vervolg hiervan, wordt een aantal gegevens over de uitgevoerde onderzoeken uitgevraagd. Het betreft de start- en einddatum van de onderzoeken, de uitkomst ervan en indien van toepassing de aard van het geweld of de mishandeling en het vervolg voor de betrokkene(n). Ook wordt uitgevraagd over welke personen het onderzoek gaat. Daartoe worden het BSN, de geboortedatum en het geslacht van deze personen opgenomen in het gegevensbestand.
 
 ### 4.6. Aard van het geweld en/of de mishandeling
 
-Sommige opties zijn alleen van toepassing bij kindermishandeling, zoals pedagogische verwaarlozing, getuige van geweld in het gezin, Münchenhausen-by-proxy en vrouwelijke genitale verminking.
+De dag waarop het AMHK het onderzoek heeft afgerond is hetzelfde als de waarop het AMHK een oordeel heeft gevormd naar aanleiding van het onderzoek over:
 
 ### 4.7. Vervolg naar aanleiding van het onderzoek
 
-### 4.8. Gegevens over de personen waarop het onderzoek betrekking heeft
+### 4.3. Uitkomst onderzoek
 
-Toelichting:
+Het gaat in dit geval om de aard van het geweld en/of de mishandeling zoals in het onderzoek is vastgesteld. Dit houdt in dat als het onderzoek uitwijst dat er geen sprake is van huiselijk geweld en/of kindermishandeling, of dat het onderzoek het huiselijk geweld en/of de kindermishandeling niet bevestigd, er ook geen aard van dit geweld of de mishandeling is opgenomen.
 
 ### 5. Gegevens over het AMHK
 
-Om de AMHK’s periodiek te kunnen benaderen met het verzoek om gegevens te verstrekken en om eventueel contact op te nemen ter controle, heeft het CBS een aantal gegevens van het AMHK zelf nodig.
+Het betreft het vervolg voor alle betrokkenen. Het kan zijn dat betrokkene(n) al hulp kregen van één van bovenstaande instanties ten tijde van de melding en/of de uitvoering van het onderzoek. Ook in deze gevallen wordt het besluit voor het vervolg geregistreerd (keuzeoptie: Hulp al aanwezig).
 
 ### 6.2. Privacybescherming
 
@@ -1004,7 +1000,7 @@ Om de AMHK’s periodiek te kunnen benaderen met het verzoek om gegevens te vers
 
 ### 6.4. Aanlevertermijnen
 
-Het aanleveren van de gegevens aan CBS is verplicht op grond van [artikel 4.2.12 van de Wmo 2015](https://wetten.overheid.nl/jci1.3:c:BWBR0035362&artikel=4.2.12) en [artikel 3 van de Wet op het Centraal bureau voor de statistiek](https://wetten.overheid.nl/jci1.3:c:BWBR0015926&artikel=3).
+De geboortedatum van de persoon weergegeven als JJJJMMDD.
 
 ### 6.6. Correctie leveringen
 
@@ -1012,37 +1008,37 @@ Alle gegevens die betrekking hebben op die periode moeten worden aangeleverd, oo
 
 ### Deel 3. Technische eisen
 
-De uploadvoorziening is te benaderen via Internet:
+[Artikel 4.3.1 lid 1 van de het Uitvoeringsbesluit Wmo 2015](https://wetten.overheid.nl/jci1.3:c:BWBR0035733&artikel=4.3.1) bepaalt dat de AMHK’s de structurele verstrekking van gegevens voor de beleidsinformatie op elektronische wijze aanleveren bij het CBS.
 
 ### 7.2. Bestandsformaten en specificaties
 
 ### Toelichting op vormen van huiselijk geweld en kindermishandeling
 
-Partners hebben een wederzijdse zorgverplichting en zijn vaak financieel, economisch en sociaal afhankelijk van elkaar. Bij partnergeweld is vaak sprake van machtsongelijkheid, waarbij de pleger een bepaald overwicht heeft op het slachtoffer. Er kan een patroon ontstaan waardoor het slachtoffer (en het hele gezin) in een isolement kunnen raken.
+Als de AMHK’s de geleverde informatie over de voorgaande verslagperiode wil corrigeren of aanvullen, dan kunnen de AMHK’s deze doorgegeven door een nieuwe selectie over de vorige periode aan het CBS aan te leveren. Het AMHK kan zelf bepalen of correcties en aanvullende gegevens voldoende belangrijk zijn om aangeleverd te worden. Ook kan het CBS vragen om een correctielevering.
 
 ### Belaging
 
 Belaging kan deel uitmaken van andere vormen van geweld tegen een (ex-)partner.
 
-### Eergerelateerd geweld (02)
+### 7.1. Gebruik uploadvoorziening
 
 ### Ouderenmishandeling of ontspoorde zorg (03)
 
-### Ontspoorde (mantel)zorg: een specifieke vorm van ouderenmishandeling.
+### 7.2. Bestandsformaten en specificaties
 
-### Ontspoorde (mantel)zorg: een specifieke vorm van ouderenmishandeling.
+### 8. Toelichting op de begrippen huiselijk geweld en kindermishandeling en verschillende vormen van geweld in huiselijke kring
 
 ### Achterlating:
 
-(www.huiselijkgeweld.nl)
+Eergerelateerd geweld omvat elke vorm van geestelijk of lichamelijk geweld, gepleegd vanuit een collectieve mentaliteit in reactie op een (dreiging van) schending van de eer van een man of een vrouw en daarmee van zijn of haar familie, waarvan de buitenwereld op de hoogte is of dreigt te raken.12Beke 2005: werkdefinitie ministerie van Veiligheid en Justitie
 
 ### Kindermishandeling, kindcheck (06)
 
-(Model handelingsprotocol voor het AMHK)
+**Ouderenmishandeling of ontspoorde zorg (vanaf 65 jaar)**
 
 ### Kindermishandeling, vechtscheiding (07)
 
-(Model handelingsprotocol voor het AMHK)
+In Nederland onderscheiden we als verschijningsvormen van ouderenmishandeling: lichamelijke mishandeling, psychische mishandeling, verwaarlozing, financiële uitbuiting, seksueel misbruik. Soms wordt een zesde vorm genoemd: schending van rechten. Voorbeelden hiervan: schending van het recht op privacy, instemmingsrecht en recht op bewegingsvrijheid. Deze worden beschouwd als een vorm van psychische mishandeling.
 
 Deze regeling zal met toelichting in de Staatscourant worden geplaatst.
 
@@ -1054,7 +1050,7 @@ Deze regeling zal met toelichting in de Staatscourant worden geplaatst.
 
 - a. een weergave van de wijze waarop de derde zal voorzien in de behoefte aan maatschappelijke ondersteuning van de cliënt;
 
-- b. de verplichting dat een declaratie de vereiste gegevens, bedoeld in [artikel 2, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036096&hoofdstuk=2&artikel=2&z=2017-04-01&g=2017-04-01), bevat;
+- b. de verplichting dat een declaratie de vereiste gegevens, bedoeld in [artikel 2, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036096&hoofdstuk=2&artikel=2&z=2017-06-01&g=2017-06-01), bevat;
 
 - c. een beding, inhoudende dat het college een vordering heeft op de persoon die ten laste van het persoonsgebonden budget maatschappelijke ondersteuning levert indien het persoonsgebonden budget naar aanleiding van toerekenbaar handelen van die persoon is ingetrokken of herzien, ter hoogte van het bedrag dat gelijk is aan het door die persoon vanwege dat toerekenbaar handelen ten laste van het persoonsgebonden budget ten onrechte ontvangen bedrag.
 
@@ -1082,7 +1078,7 @@ De cliënt doet aan de Sociale verzekeringsbank op verzoek of onverwijld uit eig
 
 ### Hoofdstuk 8. Overgang- en slotbepalingen
 
-## Bijlage. behorende bij [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0036096&hoofdstuk=4&paragraaf=2&artikel=7&z=2017-04-01&g=2017-04-01) van de Uitvoeringsregeling Wmo 2015
+## Bijlage. behorende bij [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0036096&hoofdstuk=4&paragraaf=2&artikel=7&z=2017-06-01&g=2017-06-01) van de Uitvoeringsregeling Wmo 2015
 
 ### 1. Inleiding
 
@@ -1092,7 +1088,7 @@ De cliënt doet aan de Sociale verzekeringsbank op verzoek of onverwijld uit eig
 
 ### Deel 1. Gegevensdefinities
 
-### 2.1. Advies
+### 2.1. Definitie van advies
 
 ### 2.2. Aanleiding om contact op te nemen met het AMHK
 
@@ -1100,7 +1096,7 @@ De cliënt doet aan de Sociale verzekeringsbank op verzoek of onverwijld uit eig
 
 ### 3.1. Melding
 
-### 3.2. Aanleiding om contact op te nemen met het AMHK
+### 3.1. Melding/Triage
 
 ### 3.3. Aard van het geweld en/of mishandeling
 
@@ -1108,21 +1104,21 @@ De cliënt doet aan de Sociale verzekeringsbank op verzoek of onverwijld uit eig
 
 ### 3.6. Vervolg melding
 
-Toelichting:
+Als aanleiding om een melding te doen bij het AMHK wordt een keuze gemaakt uit de volgende opties:
 
 ### 3.7. Nadere informatie vervolg melding
 
-### 3.7.1. Onderzoeksnummer
+### 3.3. Aard van het geweld en/of de mishandeling
 
 ### 3.7.2. Datum start inzetten vervolgtraject
 
 ### 3.7.3. Datum einde bemoeienis AMHK
 
-### 3.8.1. BSN
+### 3.6. Datum van het triage besluit (Vervolg melding)
 
 ### 4.1. Onderzoek
 
-### 4.2. Aanleiding om contact op te nemen met het AMHK
+### 3.10.1. Bsn
 
 ### 4.3. Datum start onderzoek
 
@@ -1144,7 +1140,7 @@ Toelichting:
 
 ### 6.1. Aanleverproces
 
-### 7.1. Gebruik uploadvoorziening
+### 6. Wijze waarop de aanlevering van gegevens dient plaats te vinden
 
 ### (ex-) Partnergeweld (01)
 
@@ -1154,6 +1150,74 @@ Toelichting:
 
 ### Kindermishandeling, vechtscheiding (07)
 
-Gesproken kan worden van een vechtscheiding als een scheiding zeer complex verloopt door slepende meningsverschillen die vaak ook worden uitgevochten via mediators, advocaten en hulpverleners. Niet alleen de twee ouders, ook de familie en vrienden om hun heen, en ook scholen en andere instanties, raken betrokken in de strijd. In de loop van dit proces is veel achterdocht en wantrouwen gegroeid die het steeds moeilijker maakt tot constructieve oplossingen te komen. In deze scheidingen raken kinderen gevangen en beschadigd. Het polariseren van de standpunten en het demoniseren van de andere ouder leidt bij kinderen tot verwarring aangezien kinderen vaak niet in staat zijn tot meervoudige partijdigheid. Het demoniseren van de andere ouder heeft als gevolg dat ouders zichzelf superieur vinden aan de ander. Hierdoor voelen ouders zich in hun recht staan om de opvoeding van het kind op zich te nemen en denken hierbij te handelen in het belang van het kind. Dit leidt echter tot intensere conflicten, minder vergevingsgezindheid en minder samenwerking bij onderhandelingen. Het kind wordt hiermee de inzet van het conflict wat als gevolg kan hebben dat alle betrokken partijen vooral over het kind spreken en niet langer met het kind. De kern van de verwaarlozing is dat niemand meer aan het kind vraagt hoe het met hen gaat, wat ze ervaren en wat ze nodig hebben, terwijl ze hier juist in scheidingssituatie extra behoefte aan hebben. De negatieve gevolgen voor het kind bestaan uit psychosociale problemen, zoals angsten, depressie en agressief gedrag. Er bestaat een sterke relatie tussen de ernst van de conflicten tussen ouders en de ernst van de psychosociale gevolgen. (www.kindernuitdeknel.nl)
+Overschrijding van de grens van goede zorg door een mantelzorger, veroorzaakt door overbelasting, onmacht, onkunde of onwetendheid. Verschijningsvormen van ontspoorde mantelzorg: psychisch geweld, fysiek geweld, verwaarlozing, seksueel grensoverschrijdend gedrag en financieel misbruik.
+
+Deze regeling zal met toelichting in de Staatscourant worden geplaatst.
+
+### 2.3. Aard van het geweld
+
+### 2.4. Hoedanigheid van de adviesvrager
+
+### 3.1.1. Handelswijze zorgmeldingen politie
+
+### 3.1.2. meerdere meldingen over één casus
+
+### 3.7. inhoud van het triagebesluit (vervolg melding)
+
+### 3.8. Onderzoeksnummer
+
+### 4. Gegevens over onderzoeken
+
+### 4.1. Datum start onderzoek
+
+### 4.2. Datum afronding onderzoek
+
+### 4.4. Aard van het geweld en/of de mishandeling
+
+### 6.1. Aanleverproces
+
+### 6.4. Aanlevertermijnen
+
+### 6.5. Correctie en aanvullingen op leveringen
+
+**Ontspoorde (mantel)zorg: een specifieke vorm van ouderenmishandeling.**
+
+**Geweld tegen ouders jonger dan 65, door hun kinderen (voorheen oudermishandeling)**
+
+Een breed gedragen definitie ontbreekt nog. Op basis van signalen uit het veld is deze categorie aangepast (voorheen oudermishandeling) naar de mishandeling van ouders jonger dan 65 jaar door hun kinderen.
+
+Werkdefinitie voor oudermishandeling 13Vink en Goes, 2014: ‘Oudermishandeling is niet-incidenteel geweld in het gezin, gepleegd door een jeugdige van 12 tot 23 jaar, gericht op (een van) de ouders/verzorgers.
+
+Het gaat om herhaaldelijk en ernstig geweld dat niet alleen vanuit de puberteit verklaard kan worden. Het geweld kan psychisch, fysiek en seksueel zijn, maar ook financiële uitbuiting betreffen. Uitgezonderd van de definitie zijn (ex-)partnergeweld, geweld tussen broers en zussen en ouderenmishandeling (deze vormen kunnen wel voorkomen naast het geweld tegen de ouders/verzorgers)’.
+
+Voor kinderen die geweld plegen tegen hun ouders jonger dan 65 jaar is geen categorie. Daarom wordt onder deze categorie ook verstaan volwassenen die geweld tegen hun ouders gebruiken.
+
+**Huwelijksdwang en achterlating**
+
+Huwelijksdwang is een religieus of wettelijk huwelijk waarbij de (voorbereidende) huwelijkshandelingen tegen de vrije wil van minstens een van de huwelijkskandidaten plaats hebben en waarmee onder een bepaalde vorm van dwang is ingestemd. 14Cornelissen, Kuppens en Ferwerda, 2009
+
+Huwelijksdwang is het dwingen van een meisje, jongen, vrouw of man tot een huwelijk. Bij huwelijksdwang hebben een of beide huwelijkspartners weinig of geen zeggenschap over de sluiting van het huwelijk, het huwelijk is tegen hun wil. Een weigering wordt vaak niet geaccepteerd.
+
+Slachtoffers van huwelijksdwang hebben doorgaans niet alleen te maken met een gebrek aan vrije partnerkeuze, maar ook met een dwang om te trouwen, vaak voor een bepaalde leeftijd. Als jongeren vervolgens tegen de wil van hun ouders/familie toch kiezen voor een zelfgekozen partner, raken ze meestal het contact kwijt met de ouders of worden ze verstoten.
+
+Meestal gaat het bij huwelijksdwang om ouders die hun dochter of zoon een huwelijk en/of een bepaalde partner opdringen. Vaak oefent op de achtergrond ook de familie of de etnische gemeenschap druk uit. Die druk kan subtiel tot zeer dwingend zijn.
+
+Huwelijksdwang is een vorm van huiselijk geweld en van eergerelateerd geweld. Blijvend verzet tegen het huwelijk kan aanleiding zijn tot een gedwongen achterlating of eermoord.
+
+**Achterlating:**
+
+Het tegen de zin achterlaten in het land van herkomst (van de ouders) van jongeren, vooral van meisjes van 12-23 jaar; vaak wordt het paspoort of de verblijfsvergunning van het slachtoffer afgenomen om terugkeer naar het nieuwe thuisland te verhinderen.
+
+**Huwelijkse gevangenschap:**
+
+Naast het gedwongen worden om te trouwen, kan een persoon ook gedwongen worden om getrouwd te blijven. Een vrouw of man is in dat geval een huwelijk aangegaan en wil dit beëindigen, terwijl daarvoor de medewerking van de echtgenoot nodig is. Als de echtgenoot deze medewerking weigert, is sprake van huwelijkse gevangenschap. Dit kan voorkomen bij een formeel huwelijk, maar ook bij een informeel, religieus huwelijk. Vaak zijn het vrouwen die door hun man gedwongen worden om gehuwd te blijven. Maar het komt ook voor dat de vrouw haar man dwingt om gehuwd te blijven.15www.huiselijkgeweld.nl
+
+**Kindermishandeling, kindcheck:**
+
+Onderdeel van de Wet van 14 maart 2013 tot wijziging van diverse wetten in verband met de invoering van de verplichting voor bepaalde instanties waar professionals werken en voor bepaalde zelfstandige professionals om te beschikken over een meldcode voor huiselijk geweld en kindermishandeling en de kennis en het gebruik daarvan te bevorderen, onderscheidenlijk die meldcode te hanteren (Stb. 2013, 142) is de zogenaamde kindcheck16Besluit verplichte meldcode huiselijk geweld en kindermishandeling., die betrekking heeft op professionals die met volwassenen werken. Als de situatie van de cliënt aanleiding geeft om zich zorgen te maken over mogelijk aanwezige kinderen, dan zijn de professionals verplicht om na te gaan of hun cliënt verantwoordelijkheid draagt voor de opvoeding of verzorging van kinderen. Als dat het geval is, dan moeten zij nagaan of de kinderen veilig zijn. Ze dienen daarvoor een aantal stappen te volgend die beschreven staan in de Wet verplichte meldcode. De uitkomst hiervan kan zijn dat de professional contact opneemt met het AMHK.17Model handelingsprotocol voor Veilig Thuis, VNG 2014
+
+**Kindermishandeling, vechtscheiding**
+
+Gesproken kan worden van een vechtscheiding als een scheiding zeer complex verloopt door slepende meningsverschillen die vaak ook worden uitgevochten via mediators, advocaten en hulpverleners. Niet alleen de twee ouders, ook de familie en vrienden om hun heen, en ook scholen en andere instanties, raken betrokken in de strijd. In de loop van dit proces is veel achterdocht en wantrouwen gegroeid die het steeds moeilijker maakt tot constructieve oplossingen te komen. In deze scheidingen raken kinderen gevangen en beschadigd. Het polariseren van de standpunten en het demoniseren van de andere ouder leidt bij kinderen tot verwarring aangezien kinderen vaak niet in staat zijn tot meervoudige partijdigheid. Het demoniseren van de andere ouder heeft als gevolg dat ouders zichzelf superieur vinden aan de ander. Hierdoor voelen ouders zich in hun recht staan om de opvoeding van het kind op zich te nemen en denken hierbij te handelen in het belang van het kind. Dit leidt echter tot intensere conflicten, minder vergevingsgezindheid en minder samenwerking bij onderhandelingen. Het kind wordt hiermee de inzet van het conflict wat als gevolg kan hebben dat alle betrokken partijen vooral over het kind spreken en niet langer met het kind. De kern van de verwaarlozing is dat niemand meer aan het kind of de kinderen vraagt hoe het met hen gaat, wat ze ervaren en wat ze nodig hebben, terwijl ze hier juist in scheidingssituatie extra behoefte aan hebben. De negatieve gevolgen voor het kind bestaan uit psychosociale problemen, zoals angsten, depressie en agressief gedrag. Er bestaat een sterke relatie tussen de ernst van de conflicten tussen ouders en de ernst van de psychosociale gevolgen.18www.kinderenuitdeknel.nl
 
 Deze regeling zal met toelichting in de Staatscourant worden geplaatst.
