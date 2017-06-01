@@ -153,19 +153,3 @@ Deze regeling treedt in werking met ingang van 1 juni 2017.
 Deze regeling wordt aangehaald als: Regeling uitzondering inlichtingenplicht.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
-
-##### Artikel 4a. Inlichtingenplicht aan het UWV
-
-1. De inlichtingenplicht van degene die aanspraak maakt op toeslag, of zijn echtgenoot, bedoeld in [artikel 12 van de Toeslagenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0004043&artikel=12), geldt niet ten aanzien van gegevens die in de basisregistratie personen zijn opgenomen ten aanzien van:
-
-- a. een adreswijziging als bedoeld in [artikel 2.39 van de Wet basisregistratie personen](https://wetten.overheid.nl/jci1.3:c:BWBR0033715&artikel=2.39);
-
-- b. gegevens in verband met het verblijfsrecht van de vreemdeling als bedoeld in [artikel 2.7, eerste lid, aanhef en onderdeel a, onder 5°, van de Wet basisregistratie personen](https://wetten.overheid.nl/jci1.3:c:BWBR0033715&artikel=2.7).
-
-2. De inlichtingenplicht, bedoeld in de [artikelen 3:16, eerste lid, onder g](https://wetten.overheid.nl/jci1.3:c:BWBR0013008&artikel=3:16), en [3:27, eerste lid, onder f van de Wet arbeid en zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0013008&artikel=3:27), [artikel 70 van de Wet arbeidsongeschiktheidsverzekering zelfstandigen](https://wetten.overheid.nl/jci1.3:c:BWBR0008656&artikel=70), de [artikelen 2:7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008657&artikel=2:7) en [3:74, eerste lid, van de Wet arbeidsongeschiktheidsvoorziening jonggehandicapten](https://wetten.overheid.nl/jci1.3:c:BWBR0008657&artikel=3:74), [artikel 80, eerste lid, van de Wet op de arbeidsongeschiktheidsverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0002524&artikel=80), [artikel 12 van de Wet inkomensvoorziening oudere werklozen](https://wetten.overheid.nl/jci1.3:c:BWBR0024394&artikel=12), [artikel 27, eerste lid, van de Wet werk en inkomen naar arbeidsvermogen](https://wetten.overheid.nl/jci1.3:c:BWBR0019057&artikel=27), [artikel 25 van de Werkloosheidswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&artikel=25), en [artikel 49 van de Ziektewet](https://wetten.overheid.nl/jci1.3:c:BWBR0001888&artikel=49), geldt niet ten aanzien van gegevens die in de basisregistratie personen zijn opgenomen ten aanzien van:
-
-- a. een adreswijziging als bedoeld in [artikel 2.39 van de Wet basisregistratie personen](https://wetten.overheid.nl/jci1.3:c:BWBR0033715&artikel=2.39);
-
-- b. gegevens in verband met het verblijfsrecht van de vreemdeling als bedoeld in [artikel 2.7, eerste lid, aanhef en onderdeel a, onder 5°, van de Wet basisregistratie personen](https://wetten.overheid.nl/jci1.3:c:BWBR0033715&artikel=2.7).
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
