@@ -4,7 +4,7 @@ identifier: "BWBR0008776"
 country: "nl"
 rank: "amvb"
 publication_date: "2020-07-01"
-last_updated: "2016-08-01"
+last_updated: "2017-06-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0008776"
 soort: "AMvB"
@@ -292,17 +292,17 @@ De wijze waarop de hersendood is vastgesteld, dient te worden gedocumenteerd in 
 
 ### 4. Verslaglegging
 
-Criteria en aandachtspunten GCS:
-
 **a Toelichting:**
 
 Normale totaalscore PGCS:
 
 Criteria en aandachtspunten PGCS:
 
+a Toelichting: zie volgende pagina
+
 **a Toelichting: zie hieronder**
 
-Normale totaalscore PGCS:
+Herhaling van het protocol na vereiste observatieperiode:
 
 Criteria en aandachtspunten PGCS:
 
@@ -358,13 +358,13 @@ Alvorens de test uit te voeren gelden de volgende voorwaarden:
 
 ### Technische criteria
 
-Bron: deze waarden zijn afgeleid van bloeddrukgegevens uit The Fourth Report on the Diagnosis, Evaluation, and Treatment of High Blood Pressure in Children and Adolescents. National High Blood Pressure Education Program Working Group on High Blood Pressure in Children and Adolescents. Pediatrics 2004; 114:555-76 (gegevens bewerkt door drs. C.W. Bollen, kinderarts-intensivist, Universitair Medisch Centrum Utrecht).
-
 **a Toelichting:**
+
+Criteria en aandachtspunten GCS:
 
 ### **Toelichting**
 
-### Hypothermie
+### 5. Schematische weergave van het Hersendoodprotocol
 
 ### Hypotensie
 
@@ -381,5 +381,9 @@ Bron: deze waarden zijn afgeleid van bloeddrukgegevens uit The Fourth Report on 
 ### Cerebrale CT-angiografie (CTA)
 
 ### 5. Schematische weergave van het Hersendoodprotocol
+
+Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het **Staatsblad** zal worden geplaatst.
+
+### Toelichting
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het **Staatsblad** zal worden geplaatst.
