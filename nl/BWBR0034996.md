@@ -4,7 +4,7 @@ identifier: "BWBR0034996"
 country: "nl"
 rank: "circulaire"
 publication_date: "2026-01-01"
-last_updated: "2014-03-29"
+last_updated: "2017-06-03"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0034996"
 soort: "circulaire"
@@ -82,6 +82,10 @@ Op grond van [artikel 3.96a, vierde lid, Vb](https://wetten.overheid.nl/jci1.3:c
 In dit verband wordt verwezen naar [paragraaf B9/8.1, ad 2 Vc](onbekend).
 
 De IND maakt in ieder geval geen gebruik van de in [artikel 3.96a, vierde lid, Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=3.96a) gegeven bevoegdheid als de vreemdeling stelt dat hij:
+
+### 2.5.3. Bewijsmiddelen
+
+[Paragraaf B9/18.1 Vc](onbekend) is van toepassing.
 
 ### 2.6. Intrekking EU-verblijfsvergunning voor langdurig ingezetenen
 
