@@ -1,0 +1,53 @@
+---
+title: "Besluit van de Minister voor Buitenlandse Handel en Ontwikkelingssamenwerking van 19 mei 2017, nr. ICE-31/2017, tot vaststelling van een subsidieplafond op grond van de Subsidieregeling Ministerie van Buitenlandse Zaken 2006 (Subsidieplafond Cultuur en Ontwikkeling II 2017–2020)"
+identifier: "BWBR0039593"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2017-06-07"
+last_updated: "2017-06-07"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0039593"
+soort: "ministeriele-regeling"
+stam_id: "14013793"
+version_id: "24120042"
+internal_id: "C34656061"
+label_id: "13975604"
+dtd_version: "2.0"
+original_entry_into_force: "2017-06-07"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0039593/2017-06-07/0"
+intitule_bron: "Stcrt.2017-29999"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2017-05-19"
+intitule_published: "2017-06-06"
+intitule_in_force: "2017-06-06"
+intitule_status: "goed"
+original_publication: "Stcrt.2017-29999"
+original_signed_date: "2017-05-19"
+original_published_date: "2017-06-06"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2017-29999"
+entry_into_force_date: "2017-06-07"
+jci_1_3: "jci1.3:c:BWBR0039593&z=2017-06-07&g=2017-06-07"
+jci_1_0: "1.0:c:BWBR0039593&g=2017-06-07"
+citeertitel_status: "redactioneel"
+short_title: "Subsidieplafond Cultuur en Ontwikkeling II 2017–2020"
+signed_date: "2017-05-19"
+entry_into_force: "2017-06-07"
+---
+# Besluit van de Minister voor Buitenlandse Handel en Ontwikkelingssamenwerking van 19 mei 2017, nr. ICE-31/2017, tot vaststelling van een subsidieplafond op grond van de Subsidieregeling Ministerie van Buitenlandse Zaken 2006 (Subsidieplafond Cultuur en Ontwikkeling II 2017–2020)
+
+Gelet op [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0018039&artikel=6) en [artikel 7 van het Subsidiebesluit Ministerie van Buitenlandse Zaken](https://wetten.overheid.nl/jci1.3:c:BWBR0018039&artikel=7);
+
+Gelet op [artikel 8.1, eerste lid, sub b en c](https://wetten.overheid.nl/jci1.3:c:BWBR0019366&artikel=8.1), en [artikel 8.3, eerste lid, sub a, van de Subsidieregeling Ministerie van Buitenlandse Zaken 2006](https://wetten.overheid.nl/jci1.3:c:BWBR0019366&artikel=8.3);
+
+Besluit:
+
+##### Artikel 1
+
+Voor subsidieverlening op grond van [artikel 8.1, eerste lid, sub b en c](https://wetten.overheid.nl/jci1.3:c:BWBR0019366&artikel=8.1), en [artikel 8.3, eerste lid, sub a, van de Subsidieregeling Ministerie van Buitenlandse Zaken 2006](https://wetten.overheid.nl/jci1.3:c:BWBR0019366&artikel=8.3) in het kader van Cultuur en Ontwikkeling geldt voor de periode vanaf de inwerkingtreding van dit besluit tot en met 31 december 2020 een subsidieplafond van € 6.700.000.
+
+##### Artikel 2
+
+Dit besluit treedt in werking met ingang van de dag na dagtekening van de Staatscourant waarin het wordt geplaatst en vervalt met ingang van 1 januari 2021, met dien verstande dat het van toepassing blijft op subsidies die voor die datum zijn verleend.
+
+Dit besluit zal in de Staatscourant worden geplaatst.
