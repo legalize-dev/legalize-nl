@@ -4,7 +4,7 @@ identifier: "BWBR0039606"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2017-06-07"
-last_updated: "2017-04-01"
+last_updated: "2017-06-07"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0039606"
 soort: "ministeriele-regeling"
@@ -48,7 +48,7 @@ In deze regeling wordt verstaan onder:
 
 - a. **minister:** Minister van Economische Zaken;
 
-- b. **commissie:** de commissie, bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039606&artikel=2&z=2017-06-07&g=2017-04-01).
+- b. **commissie:** de commissie, bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039606&artikel=2&z=2017-06-07&g=2017-06-07).
 
 ##### Artikel 2
 
