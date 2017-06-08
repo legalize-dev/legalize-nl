@@ -4,7 +4,7 @@ identifier: "BWBR0035059"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-09-01"
-last_updated: "2016-10-01"
+last_updated: "2017-06-08"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0035059"
 soort: "ministeriele-regeling"
@@ -118,7 +118,7 @@ Besluit:
 
 ##### Artikel 1.2. Identificatie opleidingen
 
-Voor de toepassing van deze regeling gelden door instellingen verzorgde opleidingen met dezelfde naam als dezelfde opleidingen, met uitzondering van [artikel 3.2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035059&hoofdstuk=3&artikel=3.2&z=2016-10-01&g=2016-10-01).
+Voor de toepassing van deze regeling gelden door instellingen verzorgde opleidingen met dezelfde naam als dezelfde opleidingen, met uitzondering van [artikel 3.2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035059&hoofdstuk=3&artikel=3.2&z=2017-06-08&g=2017-06-08).
 
 ##### Artikel 1.3. Data
 
@@ -130,9 +130,9 @@ De data in deze regeling vallen steeds in het studiejaar dat voorafgaat aan het 
 
 ##### Artikel 2.1. Nadere vooropleidingseisen per opleiding
 
-1. Voor opleidingen aan universiteiten gelden voor kandidaten die in het bezit zijn van een vwo-diploma van een in [bijlage A](https://wetten.overheid.nl/jci1.3:c:BWBR0035059&bijlage=A&z=2016-10-01&g=2016-10-01) opgenomen opleiding, de nadere vooropleidingseisen die zijn opgenomen in bijlage A.
+1. Voor opleidingen aan universiteiten gelden voor kandidaten die in het bezit zijn van een vwo-diploma van een in [bijlage A](https://wetten.overheid.nl/jci1.3:c:BWBR0035059&bijlage=A&z=2017-06-08&g=2017-06-08) opgenomen opleiding, de nadere vooropleidingseisen die zijn opgenomen in bijlage A.
 
-2. Voor opleidingen aan hogescholen gelden voor kandidaten die in het bezit zijn van een vwo-diploma of het havo-diploma van een in [bijlage B](https://wetten.overheid.nl/jci1.3:c:BWBR0035059&bijlage=B&z=2016-10-01&g=2016-10-01) opgenomen opleiding, de nadere vooropleidingseisen die zijn opgenomen in bijlage B.
+2. Voor opleidingen aan hogescholen gelden voor kandidaten die in het bezit zijn van een vwo-diploma of het havo-diploma van een in [bijlage B](https://wetten.overheid.nl/jci1.3:c:BWBR0035059&bijlage=B&z=2017-06-08&g=2017-06-08) opgenomen opleiding, de nadere vooropleidingseisen die zijn opgenomen in bijlage B.
 
 3. Als de naam van een opleiding wordt gewijzigd, blijven de nadere vooropleidingseisen gelden zoals die golden voor het tijdstip van de naamswijziging.
 
@@ -152,9 +152,9 @@ Als de naam van een opleiding wordt gewijzigd, blijft de toelatingsmogelijkheid 
 
 ##### Artikel 2.4. Nadere vooropleidingseisen mbo
 
-Voor opleidingen in het hoger beroepsonderwijs in een in [bijlage C](https://wetten.overheid.nl/jci1.3:c:BWBR0035059&bijlage=C&z=2016-10-01&g=2016-10-01) opgenomen sector, geldt voor kandidaten die met goed gevolg een middenkaderopleiding of een specialistenopleiding als bedoeld in [artikel 7.2.2, eerste lid, onder d, onderscheidenlijk e, van de WEB](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=7.2.2) hebben afgelegd als nadere vooropleidingseis:
+Voor opleidingen in het hoger beroepsonderwijs in een in [bijlage C](https://wetten.overheid.nl/jci1.3:c:BWBR0035059&bijlage=C&z=2017-06-08&g=2017-06-08) opgenomen sector, geldt voor kandidaten die met goed gevolg een middenkaderopleiding of een specialistenopleiding als bedoeld in [artikel 7.2.2, eerste lid, onder d, onderscheidenlijk e, van de WEB](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=7.2.2) hebben afgelegd als nadere vooropleidingseis:
 
-- a. het bezit van een diploma van een opleiding behorend tot een in [bijlage C](https://wetten.overheid.nl/jci1.3:c:BWBR0035059&bijlage=C&z=2016-10-01&g=2016-10-01) opgenomen domein of
+- a. het bezit van een diploma van een opleiding behorend tot een in [bijlage C](https://wetten.overheid.nl/jci1.3:c:BWBR0035059&bijlage=C&z=2017-06-08&g=2017-06-08) opgenomen domein of
 
 - b. een door de hogeschool afgegeven sufficiëntieverklaring.
 
@@ -162,9 +162,9 @@ Voor opleidingen in het hoger beroepsonderwijs in een in [bijlage C](https://wet
 
 ##### Artikel 3.1. Aanvullende eisen in verband met de uitoefening van een beroep of beroepen
 
-1. De opleidingen waarvoor aanvullende eisen gelden, die verband houden met de uitoefening van een beroep of de beroepen waarop zij voorbereiden, zijn opgenomen in [bijlage D](https://wetten.overheid.nl/jci1.3:c:BWBR0035059&bijlage=D&z=2016-10-01&g=2016-10-01).
+1. De opleidingen waarvoor aanvullende eisen gelden, die verband houden met de uitoefening van een beroep of de beroepen waarop zij voorbereiden, zijn opgenomen in [bijlage D](https://wetten.overheid.nl/jci1.3:c:BWBR0035059&bijlage=D&z=2017-06-08&g=2017-06-08).
 
-2. De minister neemt, al dan niet op een aanvraag, een opleiding op in de in het eerste lid bedoelde [bijlage](https://wetten.overheid.nl/jci1.3:c:BWBR0035059&bijlage=D&z=2016-10-01&g=2016-10-01), als:
+2. De minister neemt, al dan niet op een aanvraag, een opleiding op in de in het eerste lid bedoelde [bijlage](https://wetten.overheid.nl/jci1.3:c:BWBR0035059&bijlage=D&z=2017-06-08&g=2017-06-08), als:
 
 - a. objectieve gronden in verband met de toekomstige beroepsuitoefening het stellen van de aanvullende eisen voor toelating tot deze opleiding rechtvaardigen,
 
@@ -172,7 +172,7 @@ Voor opleidingen in het hoger beroepsonderwijs in een in [bijlage C](https://wet
 
 - c. het stellen van de aanvullende eisen geen afbreuk doet aan de toegankelijkheid van het betreffende hoger onderwijs.
 
-3. De gronden bedoeld in het tweede lid, onderdeel a, worden in [bijlage D](https://wetten.overheid.nl/jci1.3:c:BWBR0035059&bijlage=D&z=2016-10-01&g=2016-10-01) bij de betreffende opleiding vermeld.
+3. De gronden bedoeld in het tweede lid, onderdeel a, worden in [bijlage D](https://wetten.overheid.nl/jci1.3:c:BWBR0035059&bijlage=D&z=2017-06-08&g=2017-06-08) bij de betreffende opleiding vermeld.
 
 4. Een aanvraag als bedoeld in het tweede lid kan worden ingediend door het instellingsbestuur of, indien het een opleiding betreft die door meerdere instellingen wordt verzorgd, de betreffende instellingsbesturen gezamenlijk. In de aanvraag wordt gemotiveerd aangevoerd waarom wordt voldaan aan de in het tweede lid opgesomde voorwaarden.
 
@@ -182,9 +182,9 @@ Voor opleidingen in het hoger beroepsonderwijs in een in [bijlage C](https://wet
 
 ##### Artikel 3.2. Aanvullende eisen in verband met de organisatie en inrichting van het onderwijs
 
-1. De opleidingen waarvoor aanvullende eisen gelden, die verband houden met de organisatie en inrichting van het onderwijs zijn opgenomen in [bijlage E](https://wetten.overheid.nl/jci1.3:c:BWBR0035059&bijlage=E&z=2016-10-01&g=2016-10-01).
+1. De opleidingen waarvoor aanvullende eisen gelden, die verband houden met de organisatie en inrichting van het onderwijs zijn opgenomen in [bijlage E](https://wetten.overheid.nl/jci1.3:c:BWBR0035059&bijlage=E&z=2017-06-08&g=2017-06-08).
 
-2. De minister neemt op een aanvraag van het betreffende instellingsbestuur, of de betreffende instellingsbesturen gezamenlijk als het betreft alle opleidingen met dezelfde naam, een opleiding op in [bijlage E](https://wetten.overheid.nl/jci1.3:c:BWBR0035059&bijlage=E&z=2016-10-01&g=2016-10-01), indien met de aanvraag is aangetoond, dat:
+2. De minister neemt op een aanvraag van het betreffende instellingsbestuur, of de betreffende instellingsbesturen gezamenlijk als het betreft alle opleidingen met dezelfde naam, een opleiding op in [bijlage E](https://wetten.overheid.nl/jci1.3:c:BWBR0035059&bijlage=E&z=2017-06-08&g=2017-06-08), indien met de aanvraag is aangetoond, dat:
 
 - a. de opleiding zich onderscheidt door een specifiek onderwijsconcept,
 
@@ -194,7 +194,7 @@ Voor opleidingen in het hoger beroepsonderwijs in een in [bijlage C](https://wet
 
 - d. het stellen van de aanvullende eisen geen afbreuk doet aan de toegankelijkheid van het hoger onderwijs.
 
-3. De gronden bedoeld in het tweede lid, onderdeel b, worden in [bijlage E](https://wetten.overheid.nl/jci1.3:c:BWBR0035059&bijlage=E&z=2016-10-01&g=2016-10-01) bij de opleiding vermeld.
+3. De gronden bedoeld in het tweede lid, onderdeel b, worden in [bijlage E](https://wetten.overheid.nl/jci1.3:c:BWBR0035059&bijlage=E&z=2017-06-08&g=2017-06-08) bij de opleiding vermeld.
 
 4. Bij de aanvraag legt het instellingsbestuur een door de NVAO opgesteld advies met betrekking tot de in het tweede lid, onderdeel a tot en met c genoemde voorwaarden over.
 
@@ -204,7 +204,7 @@ Voor opleidingen in het hoger beroepsonderwijs in een in [bijlage C](https://wet
 
 ##### Artikel 3.3. Verwijdering van de bijlage en informatieplicht
 
-1. De minister kan een opleiding uit [bijlage D](https://wetten.overheid.nl/jci1.3:c:BWBR0035059&bijlage=D&z=2016-10-01&g=2016-10-01), respectievelijk [bijlage E](https://wetten.overheid.nl/jci1.3:c:BWBR0035059&bijlage=E&z=2016-10-01&g=2016-10-01) verwijderen, als de omstandigheden op grond waarvan is besloten de opleiding in de bijlage te vermelden, zijn komen te vervallen.
+1. De minister kan een opleiding uit [bijlage D](https://wetten.overheid.nl/jci1.3:c:BWBR0035059&bijlage=D&z=2017-06-08&g=2017-06-08), respectievelijk [bijlage E](https://wetten.overheid.nl/jci1.3:c:BWBR0035059&bijlage=E&z=2017-06-08&g=2017-06-08) verwijderen, als de omstandigheden op grond waarvan is besloten de opleiding in de bijlage te vermelden, zijn komen te vervallen.
 
 2. Het instellingsbestuur stelt de minister op de hoogte van een wijziging in de omstandigheden, die aanleiding kan zijn voor toepassing van de bevoegdheid genoemd in het eerste lid.
 
@@ -216,7 +216,7 @@ Voor opleidingen in het hoger beroepsonderwijs in een in [bijlage C](https://wet
 
 1. De kandidaat die zich overeenkomstig [artikel 7.31a, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=7.31a) aanmeldt, doet dat met behulp van DigiD via Studielink.
 
-2. Onverminderd de [artikelen 4.3](https://wetten.overheid.nl/jci1.3:c:BWBR0035059&hoofdstuk=4&paragraaf=2&artikel=4.3&z=2016-10-01&g=2016-10-01) en [4.8](https://wetten.overheid.nl/jci1.3:c:BWBR0035059&hoofdstuk=4&paragraaf=3&artikel=4.8&z=2016-10-01&g=2016-10-01) kan de in het eerste lid bedoelde aanmelding betrekking hebben op ten hoogste drie opleidingen.
+2. Onverminderd de [artikelen 4.3](https://wetten.overheid.nl/jci1.3:c:BWBR0035059&hoofdstuk=4&paragraaf=2&artikel=4.3&z=2017-06-08&g=2017-06-08) en [4.8](https://wetten.overheid.nl/jci1.3:c:BWBR0035059&hoofdstuk=4&paragraaf=3&artikel=4.8&z=2017-06-08&g=2017-06-08) kan de in het eerste lid bedoelde aanmelding betrekking hebben op ten hoogste drie opleidingen.
 
 3. De minister verifieert de persoonsgegevens van de kandidaat aan de hand van de over de kandidaat in de gemeentelijke basisadministratie persoonsgegevens opgenomen gegevens.
 
@@ -226,7 +226,7 @@ Voor opleidingen in het hoger beroepsonderwijs in een in [bijlage C](https://wet
 
 ##### Artikel 4.2. Bevestiging aanmelding (verzoek tot inschrijving)
 
-1. De minister zendt de kandidaat die zich overeenkomstig [artikel 4.1](https://wetten.overheid.nl/jci1.3:c:BWBR0035059&hoofdstuk=4&paragraaf=1&artikel=4.1&z=2016-10-01&g=2016-10-01) heeft aangemeld, een elektronische bevestiging.
+1. De minister zendt de kandidaat die zich overeenkomstig [artikel 4.1](https://wetten.overheid.nl/jci1.3:c:BWBR0035059&hoofdstuk=4&paragraaf=1&artikel=4.1&z=2017-06-08&g=2017-06-08) heeft aangemeld, een elektronische bevestiging.
 
 2. De minister maakt aan de kandidaat tevens zo spoedig mogelijk bekend:
 
@@ -242,9 +242,9 @@ Voor opleidingen in het hoger beroepsonderwijs in een in [bijlage C](https://wet
 
 2. De desbetreffende instelling draagt er zorg voor dat de kandidaat voor 15 april de uitslag van het onderzoek kan vernemen.
 
-3. De kandidaat die aan de aanvullende eisen voldoet en aan de desbetreffende opleiding wil worden ingeschreven, meldt zich overeenkomstig [artikel 4.1](https://wetten.overheid.nl/jci1.3:c:BWBR0035059&hoofdstuk=4&paragraaf=1&artikel=4.1&z=2016-10-01&g=2016-10-01), aan bij de minister.
+3. De kandidaat die aan de aanvullende eisen voldoet en aan de desbetreffende opleiding wil worden ingeschreven, meldt zich overeenkomstig [artikel 4.1](https://wetten.overheid.nl/jci1.3:c:BWBR0035059&hoofdstuk=4&paragraaf=1&artikel=4.1&z=2017-06-08&g=2017-06-08), aan bij de minister.
 
-4. In afwijking van het eerste lid kan het instellingsbestuur van een opleiding waarvan de organisatie en inrichting van het onderwijs als bedoeld in [artikel 3.2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035059&hoofdstuk=3&artikel=3.2&z=2016-10-01&g=2016-10-01), uitgaat van een internationale studentenpopulatie, een uiterste datum voor aanmelding na 15 januari vaststellen.
+4. In afwijking van het eerste lid kan het instellingsbestuur van een opleiding waarvan de organisatie en inrichting van het onderwijs als bedoeld in [artikel 3.2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035059&hoofdstuk=3&artikel=3.2&z=2017-06-08&g=2017-06-08), uitgaat van een internationale studentenpopulatie, een uiterste datum voor aanmelding na 15 januari vaststellen.
 
 #### § 3. Bepalingen voor fixusopleidingen
 
@@ -314,9 +314,9 @@ Het instellingsbestuur doet de mededeling, bedoeld in [artikel 7.53, zesde lid, 
 
 ##### Artikel 4.10. Noodprocedure
 
-1. In afwijking van [artikel 4.7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035059&hoofdstuk=4&paragraaf=3&artikel=4.7&z=2016-10-01&g=2016-10-01), kan het instellingsbestuur de minister verzoeken om toestemming voor een extra mogelijkheid tot aanmelding, als na afronding van de aanmeldingsprocedure of na afloop van de selectie voor een opleiding het aantal aanmeldingen respectievelijk het aantal geselecteerde kandidaten lager is dan het aantal beschikbare plaatsen.
+1. In afwijking van [artikel 4.7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035059&hoofdstuk=4&paragraaf=3&artikel=4.7&z=2017-06-08&g=2017-06-08), kan het instellingsbestuur de minister verzoeken om toestemming voor een extra mogelijkheid tot aanmelding, als na afronding van de aanmeldingsprocedure of na afloop van de selectie voor een opleiding het aantal aanmeldingen respectievelijk het aantal geselecteerde kandidaten lager is dan het aantal beschikbare plaatsen.
 
-2. De minister kan ingeval hij toestemming verleent voor een extra mogelijkheid tot aanmelding, daaraan voorwaarden verbinden en [artikel 4.5, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035059&hoofdstuk=4&paragraaf=3&artikel=4.5&z=2016-10-01&g=2016-10-01), niet van toepassing verklaren.
+2. De minister kan ingeval hij toestemming verleent voor een extra mogelijkheid tot aanmelding, daaraan voorwaarden verbinden en [artikel 4.5, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035059&hoofdstuk=4&paragraaf=3&artikel=4.5&z=2017-06-08&g=2017-06-08), niet van toepassing verklaren.
 
 ##### Artikel 4.11. Gemiddeld eindexamencijfer
 
@@ -398,15 +398,15 @@ Vervallen
 
 ##### Artikel 5.1. Inwerkingtreding
 
-1. Deze regeling treedt met uitzondering van de [artikelen 2.1](https://wetten.overheid.nl/jci1.3:c:BWBR0035059&hoofdstuk=2&paragraaf=1&artikel=2.1&z=2016-10-01&g=2016-10-01) en [2.4](https://wetten.overheid.nl/jci1.3:c:BWBR0035059&hoofdstuk=2&paragraaf=3&artikel=2.4&z=2016-10-01&g=2016-10-01) in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst.
+1. Deze regeling treedt met uitzondering van de [artikelen 2.1](https://wetten.overheid.nl/jci1.3:c:BWBR0035059&hoofdstuk=2&paragraaf=1&artikel=2.1&z=2017-06-08&g=2017-06-08) en [2.4](https://wetten.overheid.nl/jci1.3:c:BWBR0035059&hoofdstuk=2&paragraaf=3&artikel=2.4&z=2017-06-08&g=2017-06-08) in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst.
 
-2. [Artikel 2.1](https://wetten.overheid.nl/jci1.3:c:BWBR0035059&hoofdstuk=2&paragraaf=1&artikel=2.1&z=2016-10-01&g=2016-10-01) treedt in werking met ingang van 1 september 2014, met uitzondering van de wijzigingen van de nadere vooropleidingseisen van de in [bijlage A](https://wetten.overheid.nl/jci1.3:c:BWBR0035059&bijlage=A&z=2016-10-01&g=2016-10-01) opgenomen opleiding Technische Aardwetenschappen en van de in [bijlage B](https://wetten.overheid.nl/jci1.3:c:BWBR0035059&bijlage=B&z=2016-10-01&g=2016-10-01) opgenomen opleidingen Media & Entertainment Management, Creative Media and Game Technology. Deze treden in werking met ingang van 1 september 2017.
+2. [Artikel 2.1](https://wetten.overheid.nl/jci1.3:c:BWBR0035059&hoofdstuk=2&paragraaf=1&artikel=2.1&z=2017-06-08&g=2017-06-08) treedt in werking met ingang van 1 september 2014, met uitzondering van de wijzigingen van de nadere vooropleidingseisen van de in [bijlage A](https://wetten.overheid.nl/jci1.3:c:BWBR0035059&bijlage=A&z=2017-06-08&g=2017-06-08) opgenomen opleiding Technische Aardwetenschappen en van de in [bijlage B](https://wetten.overheid.nl/jci1.3:c:BWBR0035059&bijlage=B&z=2017-06-08&g=2017-06-08) opgenomen opleidingen Media & Entertainment Management, Creative Media and Game Technology. Deze treden in werking met ingang van 1 september 2017.
 
-3. [Artikel 2.4](https://wetten.overheid.nl/jci1.3:c:BWBR0035059&hoofdstuk=2&paragraaf=3&artikel=2.4&z=2016-10-01&g=2016-10-01) treedt in werking met ingang van 1 september 2015.
+3. [Artikel 2.4](https://wetten.overheid.nl/jci1.3:c:BWBR0035059&hoofdstuk=2&paragraaf=3&artikel=2.4&z=2017-06-08&g=2017-06-08) treedt in werking met ingang van 1 september 2015.
 
 ##### Artikel 5.2. Intrekken oude regelingen
 
-1. De [Regeling aanmelding en selectie hoger onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0025627), de [Regeling aanwijzing opleidingen inzake toelating deficiënte studenten](https://wetten.overheid.nl/jci1.3:c:BWBR0022404) en de [Regeling aanvullende eisen hoger onderwijs en kunstonderwijs 2007](https://wetten.overheid.nl/jci1.3:c:BWBR0022032) worden ingetrokken met ingang van de dag, bedoeld in [artikel 5.1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035059&hoofdstuk=5&artikel=5.1&z=2016-10-01&g=2016-10-01).
+1. De [Regeling aanmelding en selectie hoger onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0025627), de [Regeling aanwijzing opleidingen inzake toelating deficiënte studenten](https://wetten.overheid.nl/jci1.3:c:BWBR0022404) en de [Regeling aanvullende eisen hoger onderwijs en kunstonderwijs 2007](https://wetten.overheid.nl/jci1.3:c:BWBR0022032) worden ingetrokken met ingang van de dag, bedoeld in [artikel 5.1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035059&hoofdstuk=5&artikel=5.1&z=2017-06-08&g=2017-06-08).
 
 2. De [Regeling nadere vooropleidingseisen](https://wetten.overheid.nl/jci1.3:c:BWBR0022022) wordt ingetrokken met ingang van 1 september 2014.
 
@@ -1062,11 +1062,11 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 ##### Artikel 2.5. Vereiste kennisniveaus
 
-1. Voor wat betreft het kennisgebied aardrijkskunde, bedoeld in [artikel 9, tweede lid, onderdeel a, van de Wet op het primair onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=9), beschikt een kandidaat over voldoende kennis, indien die kennis voldoet aan het niveau dat is vastgesteld in [bijlage F, onderdeel I](https://wetten.overheid.nl/jci1.3:c:BWBR0035059&bijlage=F&z=2016-10-01&g=2016-10-01).
+1. Voor wat betreft het kennisgebied aardrijkskunde, bedoeld in [artikel 9, tweede lid, onderdeel a, van de Wet op het primair onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=9), beschikt een kandidaat over voldoende kennis, indien die kennis voldoet aan het niveau dat is vastgesteld in [bijlage F, onderdeel I](https://wetten.overheid.nl/jci1.3:c:BWBR0035059&bijlage=F&z=2017-06-08&g=2017-06-08).
 
-2. Voor wat betreft het kennisgebied geschiedenis, bedoeld in [artikel 9, tweede lid, onderdeel b, van de Wet op het primair onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=9), beschikt een kandidaat over voldoende kennis, indien die kennis voldoet aan het niveau dat is vastgesteld in [bijlage F, onderdeel II](https://wetten.overheid.nl/jci1.3:c:BWBR0035059&bijlage=F&z=2016-10-01&g=2016-10-01).
+2. Voor wat betreft het kennisgebied geschiedenis, bedoeld in [artikel 9, tweede lid, onderdeel b, van de Wet op het primair onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=9), beschikt een kandidaat over voldoende kennis, indien die kennis voldoet aan het niveau dat is vastgesteld in [bijlage F, onderdeel II](https://wetten.overheid.nl/jci1.3:c:BWBR0035059&bijlage=F&z=2017-06-08&g=2017-06-08).
 
-3. Voor wat betreft het kennisgebied de natuur, waaronder biologie, bedoeld in [artikel 9, tweede lid, onderdeel c, van de Wet op het primair onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=9), beschikt een kandidaat over voldoende kennis, indien die kennis voldoet aan het niveau dat is vastgesteld in [bijlage F, onderdeel III](https://wetten.overheid.nl/jci1.3:c:BWBR0035059&bijlage=F&z=2016-10-01&g=2016-10-01).
+3. Voor wat betreft het kennisgebied de natuur, waaronder biologie, bedoeld in [artikel 9, tweede lid, onderdeel c, van de Wet op het primair onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=9), beschikt een kandidaat over voldoende kennis, indien die kennis voldoet aan het niveau dat is vastgesteld in [bijlage F, onderdeel III](https://wetten.overheid.nl/jci1.3:c:BWBR0035059&bijlage=F&z=2017-06-08&g=2017-06-08).
 
 ##### Artikel 2.6. Examenvakken die zonder meer tot toelating leiden
 
@@ -1108,219 +1108,225 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 - 2. Verklaring van de in deze bijlage gebruikte symbolen: *: dit profiel geeft toegang tot de betreffende opleiding #: dit profiel geeft geen toegang tot de betreffende opleiding
 
-| nr | Opleidingen | NT | NG | EM | CM |
-| --- | --- | --- | --- | --- | --- |
-| 1. | B Actuariële wetenschappen | * | wisB | wisB | wisB |
-| 2. | B Bedrijfseconomie | * | * | * | wisA of wisB |
-| 3. | B Bedrijfskunde | * | * | * | wisA of wisB |
-| 4. | B Econometrie en Operationele research | * | wisB | wisB | wisB |
-| 5. | B Economie | * | * | * | wisA of wisB |
-| 6. | B Economie en Bedrijfseconomie | * | * | * | wisA of wisB |
-| 7. | B Economie en Bedrijfskunde | * | * | * | wisA of wisB |
-| 8. | B Fiscale economie | * | * | * | wisA of wisB |
-| 9. | B International Business | * | * | * | wisA of wisB |
-| 10. | B International Business Administration | * | * | * | wisA of wisB |
+| Opleidingen | NT | NG | EM | CM |
+| --- | --- | --- | --- | --- |
+| B Actuariële wetenschappen | * | wisB | wisB | wisB |
+| B Bedrijfseconomie | * | * | * | wisA of wisB |
+| B Bedrijfskunde | * | * | * | wisA of wisB |
+| B Business Administration | wisA of wisB en Engelse taal | wisA of wisB en Engelse taal | wisA of wisB en Engelse taal | wisA of wisB en Engelse taal |
+| B Econometrie en Operationele research | * | wisB | wisB | wisB |
+| B Economics and Business Economics | wisA of wisB en Engelse taal | wisA of wisB en Engelse taal | wisA of wisB en Engelse taal | wisA of wisB en Engelse taal |
+| B Economie | * | * | * | wisA of wisB |
+| B Economie en Bedrijfseconomie | * | * | * | wisA of wisB |
+| B Economie en Bedrijfskunde | * | * | * | wisA of wisB |
+| B Fiscale economie | * | * | * | wisA of wisB |
+| B International Business | * | * | * | wisA of wisB |
+| B International Business Administration | * | * | * | wisA of wisB |
 
-| nr | Opleidingen | NT | NG | EM | CM |
-| --- | --- | --- | --- | --- | --- |
-| 1. | B Algemene sociale wetenschappen | * | * | * | * |
-| 2. | B Bestuurs- en Organisatiewetenschap | * | * | * | * |
-| 3. | B Bestuurskunde | * | * | * | * |
-| 4. | B Communicatiewetenschap | * | * | * | * |
-| 5. | B Criminologie | * | * | * | * |
-| 6. | B Culturele Antropologie en Ontwikkelingssociologie | * | * | * | * |
-| 7. | B European Public Administration | * | * | * | * |
-| 8. | B Europese Studies | * | * | * | * |
-| 9. | B Geografie, Planologie en Milieu | * | * | * | * |
-| 10. | B International Bachelor's Programme in Communication and Media | * | * | * | * |
-| 11. | B Milieu-maatschappij-wetenschappen | * | * | * | * |
-| 12. | B Onderwijskunde | * | * | * | * |
-| 13. | B Organisatiewetenschappen | * | * | * | * |
-| 14. | B Pedagogische wetenschappen | * | * | * | * |
-| 15. | B Personeelwetenschappen | * | * | * | * |
-| 16. | B Politicologie | * | * | * | * |
-| 17. | B Psychologie | * | * | * | * |
-| 18. | B Sociale Geografie en Planologie | * | * | * | * |
-| 19. | B Sociologie | * | * | * | * |
-| 20. | B Technische Planologie | * | * | * | wisA of wisB |
-| 21. | B Vrijetijdwetenschappen | * | * | * | * |
+| Opleidingen | NT | NG | EM | CM |
+| --- | --- | --- | --- | --- |
+| B Algemene sociale wetenschappen | * | * | * | * |
+| B Bestuurs- en Organisatiewetenschap | * | * | * | * |
+| B Bestuurskunde | * | * | * | * |
+| B Communicatiewetenschappen | * | * | * | * |
+| B Criminologie | * | * | * | * |
+| B Culturele Antropologie en Ontwikkelingssociologie | * | * | * | * |
+| B European Public Administration | * | * | * | * |
+| B Europese Studies | * | * | * | * |
+| B Geografie, Planologie en Milieu | * | * | * | * |
+| B International Bachelor's Programme in Communication and Media | * | * | * | * |
+| B Onderwijskunde | * | * | * | * |
+| B Organisatiewetenschappen | * | * | * | * |
+| B Pedagogische wetenschappen | * | * | * | * |
+| B Personeelwetenschappen | * | * | * | * |
+| B Politicologie | * | * | * | * |
+| B Psychologie | * | * | * | * |
+| B Sociale Geografie en Planologie | * | * | * | * |
+| B Sociologie | * | * | * | * |
+| B Technische Planologie | * | * | * | wisA of wisB |
+| B Vrijetijdwetenschappen | * | * | * | * |
 
-| nr | Opleidingen | NT | NG | EM | CM |
-| --- | --- | --- | --- | --- | --- |
-| 1. | B Bewegingswetenschappen | biol | nat | # | # |
-| 2. | B Biomedische wetenschappen | biol | nat | # | # |
-| 3. | Diergeneeskunde | biol | nat | # | # |
-| 4. | B European Public Health | * | * | * | * |
-| 5. | Geneeskunde | biol | nat | # | # |
-| 6. | B Geneeskunde | biol | nat | # | # |
-| 7. | B Gezondheid en leven | biol | * | biol + schk | # |
-| 8. | B Gezondheidswetenschappen | * | * | * | * |
-| 9. | B Klinische technologie | biol | nat + wisB | # | # |
-| 10. | B Medische Informatiekunde | * | nat | nat | nat + (wisA of wisB) |
-| 11. | B Tandheelkunde | biol | nat | # | # |
+| Opleidingen | NT | NG | EM | CM |
+| --- | --- | --- | --- | --- |
+| B Bewegingswetenschappen | biol | nat | # | # |
+| B Biomedische wetenschappen | biol | nat | # | # |
+| B Diergeneeskunde | biol | nat | # | # |
+| B European Public Health | * | * | * | * |
+| B Geneeskunde | biol | nat | # | # |
+| B Gezondheid en leven | biol | * | biol + schk | # |
+| B Gezondheidswetenschappen | * | * | * | * |
+| B Klinische technologie | biol | nat + wisB | # | # |
+| B Medische Informatiekunde | * | nat | nat | nat + (wisA of wisB) |
+| B Tandheelkunde | biol | nat | # | # |
 
-| nr | Opleidingen | NT | NG | EM | CM |
-| --- | --- | --- | --- | --- | --- |
-| 1. | B Agrotechnologie | * | nat | wisB + nat + (schk of biol) | wisB + nat + (schk of biol) |
-| 2. | B Bedrijfs- en Consumentenwetenschappen | * | * | * | wisA of wisB |
-| 3. | B Biologie | biol | nat | # | # |
-| 4. | B Biotechnologie | * | * | 2 uit nat, schk en biol | nat + schk + biol |
-| 5. | B Bodem, Water, Atmosfeer | * | nat | nat + schk | (wisA of wisB) + nat + schk |
-| 6. | B Bos- en natuurbeheer | * | * | biol of ak | wisA + (biol of ak) |
-| 7. | B Communicatiewetenschappen | * | * | * | * |
-| 8. | B Dierwetenschappen | * | * | schk | (wisA of wisB) + schk |
-| 9. | B Economie en Beleid | * | * | * | wisA of wisB |
-| 10. | B Gezondheid en Maatschappij | * | * | * | wisA of wisB |
-| 11. | B Internationaal Land- en Waterbeheer | * | nat | nat | (wisA of wisB) + nat |
-| 12. | B Internationale Ontwikkelingsstudies | * | * | * | wisA of wisB |
-| 13. | B Landschapsarchitectuur en ruimtelijke planning | * | * | * | (wisA of wisB)+ (ak of biol) |
-| 14. | B Levensmiddelentechnologie | * | * | wisB + nat + schk | wisB + nat + schk |
-| 15. | B Milieuwetenschappen | * | nat | nat + schk | (wisA of wisB) + nat + schk |
-| 16. | B Moleculaire Levenswetenschappen | * | nat of (wisB+nlt) | wisB + nat + schk | wisB + nat + schk |
-| 17. | B Plantenwetenschappen | * | * | 2 uit biol, nat en schk | biol + nat + schk |
-| 18. | B Voeding en Gezondheid | * | * | schk + biol | schk + biol |
+| Opleidingen | NT | NG | EM | CM |
+| --- | --- | --- | --- | --- |
+| B Agrotechnologie | * | nat | wisB + nat + (schk of biol) | wisB + nat + (schk of biol) |
+| B Bedrijfs- en Consumentenwetenschappen | * | * | * | wisA of wisB |
+| B Biotechnologie | * | * | 2 uit nat, schk en biol | nat + schk + biol |
+| B Bodem, Water, Atmosfeer | * | nat | nat + schk | (wisA of wisB) + nat + schk |
+| B Bos- en natuurbeheer | * | * | biol of ak | wisA + (biol of ak) |
+| B Communicatiewetenschappen | * | * | * | * |
+| B Dierwetenschappen | * | * | schk | (wisA of wisB) + schk |
+| B Economie en Beleid | * | * | * | wisA of wisB |
+| B Gezondheid en Maatschappij | * | * | * | wisA of wisB |
+| B Internationaal Land- en Waterbeheer | * | nat | nat | (wisA of wisB) + nat |
+| B Internationale Ontwikkelingsstudies | * | * | * | wisA of wisB |
+| B Landschapsarchitectuur en ruimtelijke planning | * | * | * | (wisA of wisB)+ (ak of biol) |
+| B Levensmiddelentechnologie | * | * | wisB + nat + schk | wisB + nat + schk |
+| B Milieuwetenschappen | * | nat | nat + schk | (wisA of wisB) + nat + schk |
+| B Moleculaire Levenswetenschappen | * | nat of (wisB+nlt) | wisB + nat + schk | wisB + nat + schk |
+| B Plantenwetenschappen | * | * | 2 uit biol, nat en schk | biol + nat + schk |
+| B Voeding en Gezondheid | * | * | schk + biol | schk + biol |
 
-| nr | Opleidingen | NT | NG | EM | CM |
-| --- | --- | --- | --- | --- | --- |
-| 1. | B Aarde en economie | * | * | * | wisA of wisB |
-| 2. | B Aardwetenschappen | * | nat | nat + schk | (wisA of wisB) + nat + schk |
-| 3. | B Beta-gamma | * | wisB + nat | wisB + nat + schk | wisB + (nat of schk) |
-| 4. | B Biofarmaceutische Wetenschappen | biol | * | biol + nat + schk | # |
-| 5. | B Biologie | biol | nat | # | # |
-| 6. | B Business Analytics | * | wisB | wisB | wisB |
-| 7. | B Computer science | * | wisB | wisB | wisB |
-| 8. | B Farmaceutische Wetenschappen | * | nat | nat + schk | (wisA of wisB) + nat + schk |
-| 9. | B Farmacie | * | nat | nat + schk | (wisA of wisB) + nat + schk |
-| 10. | B Informatica | * | wisB | wisB | wisB |
-| 11. | B Informatie, Multimedia en Management | * | * | * | wisA of wisB |
-| 12. | B Informatiekunde | * | * | * | wisA of wisB |
-| 13. | B Kennistechnologie | * | wisB | wisB | wisB |
-| 14. | B Kunstmatige Intelligentie | * | * | * | wisA of wisB |
-| 15. | B Life Science and Technology | * | wisB + nat | wisB + nat + schk | wisB + nat + schk |
-| 16. | B Lyfestyle Informatics | * | * | * | wisA of wisB |
-| 17. | B Medische Natuurwetenschappen | * | wisB + nat | wisB + nat + schk | wisB + nat + schk |
-| 18. | B Milieu-natuurwetenschappen | * | nat | nat + schk | (wisA of wisB) + nat + schk |
-| 19. | B Moleculaire Levenswetenschappen | * | wisB + nat | wisB + nat + schk | wisB + nat + schk |
-| 20. | B Molecular Science and Technology | * | wisB + nat | wisB + nat + schk | wisB + nat + schk |
-| 21. | B Natuur- en Sterrenkunde | * | wisB + nat | wisB + nat | wisB + nat |
-| 22. | B Natuurkunde | * | wisB + nat | wisB + nat | wisB + nat |
-| 23. | B Natuurwetenschap en Innovatiemanagement | * | nat | nat + schk | (wisA of wisB) + nat + schk |
-| 24. | B Psychobiologie | biol | nat | # | # |
-| 25. | B Scheikunde | * | wisB + nat | wisB + nat + schk | wisB + nat + schk |
-| 26. | B Science | * | wisB + nat | wisB + nat + schk | wisB + nat + schk |
-| 27. | B Science, Business & Innovation | * | wisB + nat | wisB + nat + schk | wisB + nat + schk |
-| 28. | B Sterrenkunde | * | wisB + nat | wisB + nat | wisB + nat |
-| 29. | B Wiskunde | * | wisB | wisB | wisB |
+| Opleidingen | NT | NG | EM | CM |
+| --- | --- | --- | --- | --- |
+| B Aarde en economie | * | * | * | wisA of wisB |
+| B Aardwetenschappen | * | nat | nat + schk | (wisA of wisB) + nat + schk |
+| B Artificial Intelligence | * | * | * | wisA of wisB |
+| B Beta-gamma | * | wisB + nat | wisB + nat + schk | wisB + (nat of schk) |
+| B Biofarmaceutische Wetenschappen | biol | * | biol + nat + schk | # |
+| B Biologie | biol | nat | # | # |
+| B Business Analytics | * | wisB | wisB | wisB |
+| B Chemistry | * | wisB + nat | wisB + schk + nat | wisA + wisB + nat |
+| B Computer science | * | wisB | wisB | wisB |
+| B Data Science and Knowledge Engineering | * | wisB | wisB | wisB |
+| B Economie en Informatica | * | * | wisB | wisB |
+| B Farmaceutische Wetenschappen | * | nat | nat + schk | (wisA of wisB) + nat + schk |
+| B Farmacie | * | nat | nat + schk | (wisA of wisB) + nat + schk |
+| B Informatica | * | wisB | wisB | wisB |
+| B Informatie, Multimedia en Management | * | * | * | wisA of wisB |
+| B Informatiekunde | * | * | * | wisA of wisB |
+| B Kunstmatige Intelligentie | * | * | * | wisA of wisB |
+| B Life Science and Technology | * | wisB + nat | wisB + nat + schk | wisB + nat + schk |
+| B Lyfestyle Informatics | * | * | * | wisA of wisB |
+| B Medische Natuurwetenschappen | * | wisB + nat | wisB + nat + schk | wisB + nat + schk |
+| B Moleculaire Levenswetenschappen | * | wisB + nat | wisB + nat + schk | wisB + nat + schk |
+| B Molecular Life Science | bio | nat + wisB | # | # |
+| B Natuur- en Sterrenkunde | * | wisB + nat | wisB + nat | wisB + nat |
+| B Natuurkunde | * | wisB + nat | wisB + nat | wisB + nat |
+| B Natuurwetenschap en Innovatiemanagement | * | nat | nat + schk | (wisA of wisB) + nat + schk |
+| B Psychobiologie | biol | nat | # | # |
+| B Scheikunde | * | wisB + nat | wisB + nat + schk | wisB + nat + schk |
+| B Science | * | wisB + nat | wisB + nat + schk | wisB + nat + schk |
+| B Science, Business & Innovation | * | wisB + nat | wisB + nat + schk | wisB + nat + schk |
+| B Sterrenkunde | * | wisB + nat | wisB + nat | wisB + nat |
+| B Wiskunde | * | wisB | wisB | wisB |
 
-| nr | Opleidingen | NT | NG | EM | CM |
-| --- | --- | --- | --- | --- | --- |
-| 1. | B Bestuurskunde | * | * | * | * |
-| 2. | B European Law School | * | * | * | * |
-| 3. | B Fiscaal recht | * | * | * | * |
-| 4. | B Global Law | * | * | * | * |
-| 5. | B Internationaal en Europees Recht | * | * | * | * |
-| 6. | B Notarieel Recht | * | * | * | * |
-| 7. | B Rechtsgeleerdheid | * | * | * | * |
+| Opleidingen | NT | NG | EM | CM |
+| --- | --- | --- | --- | --- |
+| B Bestuurskunde | * | * | * | * |
+| B European Law School | * | * | * | * |
+| B Fiscaal recht | * | * | * | * |
+| B Global Law | * | * | * | * |
+| B Internationaal en Europees Recht | * | * | * | * |
+| B Notarieel Recht | * | * | * | * |
+| B Rechtsgeleerdheid | * | * | * | * |
 
-| nr | Opleidingen | NT | NG | EM | CM |
-| --- | --- | --- | --- | --- | --- |
-| 1. | B Afrikaanse talen en culturen | * | * | * | * |
-| 2. | B Algemene Cultuurwetenschappen | * | * | * | * |
-| 3. | B American Studies | * | * | * | * |
-| 4. | B Arabische Taal en Cultuur | * | * | * | * |
-| 5. | B Archeologie | * | * | * | * |
-| 6. | B Archeologie en Prehistorie | * | * | * | * |
-| 7. | B Chinastudies | * | * | * | * |
-| 8. | B Communicatie- en Informatiewetenschappen | * | * | * | * |
-| 9. | B Culturele Informatiewetenschap | * | * | * | * |
-| 10. | B Cultuurwetenschappen | * | * | * | * |
-| 11. | B Duitse Taal en Cultuur | * | * | * | * |
-| 12. | B Engelse Taal en Cultuur | * | * | * | * |
-| 13. | B Europese Studies | * | * | * | * |
-| 14. | B Europese Talen en Culturen | * | * | * | * |
-| 15. | B Film- en Literatuurwetenschap | * | * | * | * |
-| 16. | B Finoegrische Talen en Culturen | * | * | * | * |
-| 17. | B Franse Taal en Cultuur | * | * | * | * |
-| 18. | B Friese Taal en Cultuur | * | * | * | * |
-| 19. | B Geschiedenis | * | * | * | * |
-| 20. | B Godgeleerdheid | * | * | * | * |
-| 21. | B Griekse en Latijnse Taal en Cultuur | latl of grtl | latl of grtl | latl of grtl | latl of grtl |
-| 22. | B Hebreeuwse Taal en Cultuur | * | * | * | * |
-| 23. | B Humanistiek | * | * | * | * |
-| 24. | B Internationale betrekkingen en internationale organisatie | * | * | * | * |
-| 25. | B Islam en Arabisch | * | * | * | * |
-| 26. | B Islamitische theologie | * | * | * | * |
-| 27. | B Italiaanse Taal en Cultuur | * | * | * | * |
-| 28. | B Japanstudies | * | * | * | * |
-| 29. | B Keltische Talen en cultuur | * | * | * | * |
-| 30. | B Koreastudies | * | * | * | * |
-| 31. | B Kunsten, Cultuur en Media | * | * | * | * |
-| 32. | B Kunstgeschiedenis | * | * | * | * |
-| 33. | B Latijns-Amerikastudies | * | * | * | * |
-| 34. | B Latijnse Taal en Cultuur | * | * | * | * |
-| 35. | B Liberal Arts en Sciences | * | * | * | * |
-| 36. | B Literatuurwetenschap | * | * | * | * |
-| 37. | B Literatuur en Samenleving | * | * | * | * |
-| 38. | B Media en Cultuur | * | * | * | * |
-| 39. | B Media, Kunst, Design en Architectuur | * | * | * | * |
-| 40. | B Midden-Oostenstudies | * | * | * | * |
-| 41. | B Muziekwetenschap | * | * | * | * |
-| 42. | B Nederlandkunde/ Dutch studies | * | * | * | * |
-| 43. | B Nederlandse Taal en Cultuur | * | * | * | * |
-| 44. | B Nieuwgriekse Taal en Cultuur | * | * | * | * |
-| 45. | B Oude Culturen van de Mediterrane Wereld | * | * | * | * |
-| 46. | B Oudheidkunde | * | * | * | * |
-| 47. | B Religie in Samenleving en Cultuur | * | * | * | * |
-| 48. | B Religiewetenschappen | * | * | * | * |
-| 49. | B Romaanse Talen en Culturen | * | * | * | * |
-| 50. | B Russische Studies | * | * | * | * |
-| 51. | B Scandinavische Talen en Culturen | * | * | * | * |
-| 52. | B Slavische Talen en Culturen | * | * | * | * |
-| 53. | B Spaanse Taal en Cultuur | * | * | * | * |
-| 54. | B Taal en Cultuurstudies | * | * | * | * |
-| 55. | B Taalwetenschap | * | * | * | * |
-| 56. | B Theater- Film en Televisiewetenschap | * | * | * | * |
-| 57. | B Theaterwetenschap | * | * | * | * |
-| 58. | B Theologie | * | * | * | * |
-| 59. | B Theologie Klassiek | * | * | * | * |
-| 60. | B Theologie Plus | * | * | * | * |
-| 61. | B Wijsbegeerte | * | * | * | * |
-| 62. | B Wijsbegeerte van een bepaald wetenschapsgebied | * | * | * | * |
-| 63. | B Zuid- en Zuidoost-Aziëstudies | * | * | * | * |
+| Opleidingen | NT | NG | EM | CM |
+| --- | --- | --- | --- | --- |
+| B Afrikaanse talen en culturen | * | * | * | * |
+| B Algemene Cultuurwetenschappen | * | * | * | * |
+| B American Studies | * | * | * | * |
+| B Arabische Taal en Cultuur | * | * | * | * |
+| B Archeologie | * | * | * | * |
+| B Archeologie en Prehistorie | * | * | * | * |
+| B Chinastudies | * | * | * | * |
+| B Communicatie- en Informatiewetenschappen | * | * | * | * |
+| B Cultuurwetenschappen | * | * | * | * |
+| B Duitse Taal en Cultuur | * | * | * | * |
+| B English Language and Culture | * | * | * | * |
+| B Europese Studies | * | * | * | * |
+| B Europese Talen en Culturen | * | * | * | * |
+| B Film- en Literatuurwetenschap | * | * | * | * |
+| B Finoegrische Talen en Culturen | * | * | * | * |
+| B Franse Taal en Cultuur | * | * | * | * |
+| B Geschiedenis | * | * | * | * |
+| B Godgeleerdheid | * | * | * | * |
+| B Griekse en Latijnse Taal en Cultuur | latl of grtl | latl of grtl | latl of grtl | latl of grtl |
+| B Hebreeuwse Taal en Cultuur | * | * | * | * |
+| B Humanistiek | * | * | * | * |
+| B Internationale betrekkingen en internationale organisatie | * | * | * | * |
+| B Islam en Arabisch | * | * | * | * |
+| B Islamitische theologie | * | * | * | * |
+| B Italiaanse Taal en Cultuur | * | * | * | * |
+| B Japanstudies | * | * | * | * |
+| B Keltische Talen en cultuur | * | * | * | * |
+| B Koreastudies | * | * | * | * |
+| B Kunsten, Cultuur en Media | * | * | * | * |
+| B Kunstgeschiedenis | * | * | * | * |
+| B Latijns-Amerikastudies | * | * | * | * |
+| B Latijnse Taal en Cultuur | * | * | * | * |
+| B Literatuurwetenschap | * | * | * | * |
+| B Literatuur en Samenleving | * | * | * | * |
+| B Media en Cultuur | * | * | * | * |
+| B Media en Informatie | * | * | * | * |
+| B Media, Kunst, Design en Architectuur | * | * | * | * |
+| B Midden-Oostenstudies | * | * | * | * |
+| B Minorities & Multilingualism | * | * | * | * |
+| B Muziekwetenschap | * | * | * | * |
+| B Nederlandkunde/ Dutch studies | * | * | * | * |
+| B Nederlandse Taal en Cultuur | * | * | * | * |
+| B Nieuwgriekse Taal en Cultuur | * | * | * | * |
+| B Oude Culturen van de Mediterrane Wereld | * | * | * | * |
+| B Oudheidkunde | * | * | * | * |
+| B Religiewetenschappen | * | * | * | * |
+| B Romaanse Talen en Culturen | * | * | * | * |
+| B Russische Studies | * | * | * | * |
+| B Scandinavische Talen en Culturen | * | * | * | * |
+| B Slavische Talen en Culturen | * | * | * | * |
+| B Spaanse Taal en Cultuur | * | * | * | * |
+| B Taal en Cultuurstudies | * | * | * | * |
+| B Taalwetenschap | * | * | * | * |
+| B Theaterwetenschap | * | * | * | * |
+| B Theologie | * | * | * | * |
+| B Wijsbegeerte | * | * | * | * |
+| B Wijsbegeerte van een bepaald wetenschapsgebied | * | * | * | * |
+| B Zuid- en Zuidoost-Aziëstudies | * | * | * | * |
 
-| nr | Opleidingen | NT | NG¹ | EM | CM |
-| --- | --- | --- | --- | --- | --- |
-| 1. | B Advanced Technology | * | wisB + nat | wisB + nat + schk | wisB + nat + schk |
-| 2. | B Bedrijfsinformatietechnologie | * | wisB | wisB | wisB |
-| 3. | B Biomedische technologie | * | wisB + nat | wisB + nat | wisB + nat |
-| 4. | B Bouwkunde | * | wisB + nat | wisB + nat | wisB + nat |
-| 5. | B Civiele Techniek2 | * | wisB + nat | wisB + nat | wisB + nat |
-| 6. | B Creative Technology | * | * | * | * |
-| 7. | B Electrical Engineering | * | wisB + nat | wisB + nat | wisB + nat |
-| 8. | B Industrial Design | * | wisB + nat | wisB + nat | wisB + nat |
-| 9. | B Industrieel Ontwerpen | * | wisB + nat | wisB + nat | wisB + nat |
-| 10. | B Life Science & Technology | * | wisB + nat | wisB + nat + schk | wisB + nat + schk |
-| 11. | B Luchtvaart- en Ruimtevaarttechniek | * | wisB + nat | wisB + nat | wisB + nat |
-| 12. | B Maritieme Techniek | * | wisB + nat | wisB + nat | wisB + nat |
-| 13. | B Nanobiologie | biol | wisB + nat | # | # |
-| 14. | B Scheikundige Technologie | * | wisB + nat | wisB + nat + schk | wisB + nat + schk |
-| 15. | B Molecular Science and Technology | * | wisB + nat | wisB + nat + schk | wisB + nat + schk |
-| 16. | B Technische Aardwetenschappen | * | wisB + nat | wisB + nat +schk | wisB + nat + schk |
-| 17. | B Technische Bedrijfskunde | * | wisB | wisB | wisB |
-| 18. | B Technische Bestuurskunde | * | wisB + nat | wisB + nat | wisB + nat |
-| 19. | B Technische Informatica | * | wisB | wisB | wisB |
-| 20. | B Technische Innovatiewetenschappen | * | wisB | wisB | wisB |
-| 21. | B Technische Natuurkunde | * | wisB + nat | wisB + nat | wisB + nat |
-| 22. | B Technische Wiskunde | * | wisB | wisB | wisB |
-| 23. | B Werktuigbouwkunde2 | * | wisB + nat | wisB + nat | wisB + nat |
+| Opleidingen | NT | NG¹ | EM | CM |
+| --- | --- | --- | --- | --- |
+| B Advanced Technology | * | wisB + nat | wisB + nat + schk | wisB + nat + schk |
+| B Biomedische technologie | * | wisB + nat | wisB + nat | wisB + nat |
+| B Bouwkunde | * | wisB + nat | wisB + nat | wisB + nat |
+| B Civiele Techniek2 | * | wisB + nat | wisB + nat | wisB + nat |
+| B Creative Technology | * | * | * | * |
+| B Data Science | * | wisB | wisB | wisB |
+| B Electrical Engineering | * | wisB + nat | wisB + nat | wisB + nat |
+| B Industrial Design | * | wisB + nat | wisB + nat | wisB + nat |
+| B Industrieel Ontwerpen | * | wisB + nat | wisB + nat | wisB + nat |
+| B Life Science & Technology | * | wisB + nat | wisB + nat + schk | wisB + nat + schk |
+| B Luchtvaart- en Ruimtevaarttechniek | * | wisB + nat | wisB + nat | wisB + nat |
+| B Maritieme Techniek | * | wisB + nat | wisB + nat | wisB + nat |
+| B Nanobiologie | biol | wisB + nat | # | # |
+| B Scheikundige Technologie | * | wisB + nat | wisB + nat + schk | wisB + nat + schk |
+| B Technische Aardwetenschappen | * | wisB + nat | wisB + nat +schk | wisB + nat + schk |
+| B Technische Bedrijfskunde | * | wisB | wisB | wisB |
+| B Technische Bestuurskunde | * | wisB + nat | wisB + nat | wisB + nat |
+| B Technische Informatica | * | wisB | wisB | wisB |
+| B Technische Innovatiewetenschappen | * | wisB | wisB | wisB |
+| B Technische Natuurkunde | * | wisB + nat | wisB + nat | wisB + nat |
+| B Technische Wiskunde | * | wisB | wisB | wisB |
+| B Werktuigbouwkunde2 | * | wisB + nat | wisB + nat | wisB + nat |
 
 1 Voor alle opleidingen geldt dat de instelling aan de student met het profiel NG de gelegenheid kan geven om aan de eisen ‘nat’ en ‘wisB’ uiterlijk bij afronding van de propedeutische fase te voldoen.
 
 2 Voor deze opleidingen geldt dat de instelling aan de student met het profiel EM of CM de gelegenheid kán geven om aan de eisen ‘na’ en ‘wisB’ uiterlijk bij afronding van de propedeutische fase te voldoen.
 
-| nr | Opleidingen | NT | NG | EM | CM |
-| --- | --- | --- | --- | --- | --- |
-| 1. | B Tourism | * | * | * | wisA of wisB |
+| Opleidingen | NT | NG | EM | CM |
+| --- | --- | --- | --- | --- |
+| B Future Planet Studies | * | * | ak of bio of nat of schk | wisA of wisB en (minimaal) twee van de volgende vakken: econ, ak, biol, nat en/of schk |
+| B Global Sustainability Science | * | * | nat of schk of biol | wisA of wisB en (minimaal) twee van de volgende vakken: na, schk, biol, en/of eco |
+| B International Studies | * | * | * | * |
+| B Liberal Arts and Sciences | * | * | * | * |
+| B Liberal Arts and Sciences: Global Challenges | * | * | * | * |
+| B Life Science and Technology | * | wisB en nat | wisB en nat | wisB, nat en schk |
+| B Moleculair Science and Technology | * | wisB en nat | wisB, nat en schk | wisB, nat en schk |
+| B Philosophy, Politics and Economics | wisB en nat | wisB en nat | wisB, nat en schk | wisB, nat en schk |
+| B Politics, Psychology, Law and Economics | * | * | * | wisA of wisB |
+| B Security Studies | * | * | * | * |
+| B Technology and Liberal Arts & Sciences | * | * | * | * |
+| B Tourism | * | * | * | wisA of wisB |
 
 ## Bijlage B. Nadere vooropleidingseisen voor opleidingen van het hoger beroepsonderwijs
 
@@ -1345,11 +1351,8 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 | B Management in de Zorg | Kennis of vaardigheden op het gebied van de gezondheidszorg. |
 | B Maritiem Officier | Bezit van een geneeskundige verklaring, waaruit blijkt dat betrokkene medisch geschikt is voor de uitoefening van het beroep waarop de opleiding voorbereidt. |
 | B Opleiding tot leraar Lichamelijke opvoeding in de eerste graad | Voldoende aanleg en geschiktheid. |
-| B Opleiding tot Leraar Nederlandse Gebarentaal/ Tolk NGT in de tweede graad | Benodigde spreekvaardigheid, motoriek en mimiek voor de uitoefening van het beroep waarop de opleiding voorbereidt. |
-| B Sport en Bewegen | Voldoende aanleg en geschiktheid voor de uitoefening van het beroep waarop de opleiding voorbereidt voor wat betreft de ontwikkeling van de vereiste praktische bedrevenheid in bewegingsactiviteiten. Het onderzoek omvat tevens een positieve medische keuring door een arts. |
-| B Sport, Management en Ondernemen | Voldoende aanleg en geschiktheid voor de uitoefening van het beroep of de beroepen waarop de opleiding voorbereidt, voor wat betreft de ontwikkeling van de vereiste praktische bedrevenheid in bewegingsactiviteiten. |
+| B Sportkunde | Voldoende aanleg en geschiktheid voor de uitoefening van het beroep waarop de opleiding voorbereidt voor wat betreft de ontwikkeling van de vereiste praktische bedrevenheid in bewegingsactiviteiten. Het onderzoek omvat tevens een positieve medische keuring door een arts |
 | B Verloskunde | Voldoende aanleg en geschiktheid voor de uitoefening van het beroep of de beroepen waarop de opleiding voorbereidt, voor wat betreft de benodigde sociaal-communicatieve en reflectieve vaardigheden en een beroepsmatig denkvermogen wat betreft de ontwikkeling van het vereiste verantwoordelijkheidsniveau met betrekking tot de risicoselectie in de Verloskunde. |
-| B Verpleegkunde in de Maatschappelijke Gezondheidszorg | Kennis of vaardigheden op het gebied van de gezondheidszorg. |
 
 | Opleiding | Aanvullende eisen |
 | --- | --- |
@@ -1374,8 +1377,10 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 | Opleiding | Instelling(en) | Aanvullende eisen |
 | --- | --- | --- |
-| B Hoger hotelonderwijs | Zuyd Hogeschool Stenden Hogeschool Saxion hogeschool NHTV internationale hogeschool Breda | Voldoende aanleg en geschiktheid voor de opleiding, gelet op de organisatie en inrichting van het onderwijs |
-| B Business Administration in Hotel Management | Hotelschool The Hague | Voldoende aanleg en geschiktheid voor de opleiding, gelet op de organisatie en inrichting van het onderwijs |
+| B International Bachelor's Programme in Communication and Media | Erasmus Universiteit Rotterdam | Voldoende aanleg, geschiktheid en motivatie voor de opleiding, gelet op de beoogde interculturele en internationale eindkwalificaties en in lijn met de vereisten van het onderwijsconcept van een multiculturele internationale classroom |
+| B Economie en Bedrijfseconomie | Universiteit Maastricht | Voldoende geschiktheid, ervaring en motivatie voor de opleiding om te kunnen participeren in het onderwijsconcept probleemgestuurd onderwijs met een international classroom, hetgeen voor een aanzienlijk deel medebepalend is voor het behalen van de beoogde eindkwalificaties en de daartoe benodigde organisatie en inrichting van het onderwijs |
+| B Hotel Management | Hotelschool The Hague NHTV Internationale Hogeschool Breda Saxion Hogeschool Stenden Hogeschool Zuyd Hogeschool | Voldoende aanleg en geschiktheid voor de opleiding, gelet op de organisatie en inrichting van het onderwijs |
+| B International Business | Universiteit Maastricht | Voldoende geschiktheid, ervaring en motivatie voor de opleiding om te kunnen participeren in het onderwijsconcept probleemgestuurd onderwijs met een internationaal classroom, hetgeen voor een aanzienlijk deel medebepalend is voor het behalen van de beoogde eindkwalificaties en de daartoe benodigde organisatie en inrichting van het onderwijs |
 
 ## Bijlage F. Bijzondere nadere vooropleidingseisen opleiding tot leraar basisonderwijs; vereiste kennisniveaus
 
