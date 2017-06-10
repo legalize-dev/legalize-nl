@@ -4,7 +4,7 @@ identifier: "BWBR0039369"
 country: "nl"
 rank: "wet"
 publication_date: "2017-06-10"
-last_updated: "2016-01-02"
+last_updated: "2017-06-10"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0039369"
 soort: "wet"
@@ -39,15 +39,21 @@ entry_into_force: "2017-06-10"
 
 #### § 1. Opheffing en instelling van gemeenten
 
-#### § 2. Overige bepalingen
+#### § 1. Opheffing en instelling van gemeenten
 
 ##### Artikel 3
 
-Dit onderdeel is nog niet inwerking getreden
+Voor de nieuwe gemeente Zevenaar wordt de op te heffen gemeente Zevenaar aangewezen voor de toepassing van [artikel 36 van de Wet algemene regels herindeling](https://wetten.overheid.nl/jci1.3:c:BWBR0003718&artikel=36), in verband met de toepassing van de instructies en reglementen, bedoeld in dat artikel.
 
 ##### Artikel 4
 
-Dit onderdeel is nog niet inwerking getreden
+Voor de op te heffen gemeenten Rijnwaarden en Zevenaar wordt de nieuwe gemeente Zevenaar aangewezen voor de toepassing van de volgende bepalingen van de [Wet algemene regels herindeling](https://wetten.overheid.nl/jci1.3:c:BWBR0003718):
+
+- a. [artikel 39, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003718&artikel=39), in verband met de heffing en invordering van gemeentelijke belastingen;
+
+- b. [artikel 41, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003718&artikel=41), in verband met de deelneming aan gemeenschappelijke regelingen;
+
+- c. [artikel 45, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003718&artikel=45), in verband met de overgang van rechten en verplichtingen in verband met de voorziening van drinkwater, elektriciteit en gas.
 
 ##### Artikel 5
 
@@ -59,7 +65,7 @@ Wijzigt de Kieswet.
 
 ##### Artikel 7
 
-Dit onderdeel is nog niet inwerking getreden
+De artikelen van deze wet treden in werking op een bij koninklijk besluit te bepalen tijdstip, dat voor de verschillende artikelen of onderdelen daarvan verschillend kan worden vastgesteld. In dit koninklijk besluit kan aan [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039369&paragraaf=2&artikel=5&z=2017-06-10&g=2017-06-10), en [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0039369&paragraaf=2&artikel=6&z=2017-06-10&g=2017-06-10) van deze wet terugwerkende kracht worden verleend tot en met 2 januari 2016.
 
 ## Kaart, genoemd in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0039369&paragraaf=1&artikel=2&z=2017-06-10&g=2016-01-02)
 
