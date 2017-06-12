@@ -4,7 +4,7 @@ identifier: "BWBR0038353"
 country: "nl"
 rank: "wet"
 publication_date: "2021-04-01"
-last_updated: "2017-03-01"
+last_updated: "2017-06-12"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0038353"
 soort: "wet"
@@ -53,8 +53,6 @@ Wijzigt het Wetboek van Burgerlijke Rechtsvordering.
 
 Wijzigt de Algemene wet bestuursrecht.
 
-Dit onderdeel is nog niet inwerking getreden
-
 ##### Artikel III
 
 Dit artikel is in werking getreden in verband met de invoering van digitaal procederen. Zie voor de procedures en gerechten waarvoor digitaal procederen geldt het Overzicht gefaseerde inwerkingtreding op www.rijksoverheid.nl/KEI.
@@ -65,15 +63,25 @@ Dit artikel is in werking getreden in verband met de invoering van digitaal proc
 
 ##### Artikel IV
 
-Dit onderdeel is nog niet inwerking getreden
+1. Het recht zoals dit gold voor het tijdstip van inwerkingtreding van de verplichting om langs elektronische weg te procederen, blijft van toepassing op:
+
+- a. beroep tegen een voor dat tijdstip bekendgemaakt besluit,
+
+- b. hoger beroep, verzet of beroep in cassatie tegen een voor dat tijdstip bekendgemaakte uitspraak van de bestuursrechter,
+
+- c. een voor dat tijdstip ingesteld beroep wegens niet tijdig beslissen,
+
+- d. een voor dat tijdstip ingediend verzoek om schadevergoeding als bedoeld in [artikel 8:88, eerste lid, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=8:88), en
+
+- e. een voor dat tijdstip ingediend verzoek om herziening van een uitspraak van de bestuursrechter.
+
+2. Het eerste lid is van overeenkomstige toepassing op een verzoek aan de bestuursrechter om voorlopige voorziening of om opheffing of wijziging daarvan.
 
 ##### Artikel IVa
 
-Dit onderdeel is nog niet inwerking getreden
+Onze Minister van Veiligheid en Justitie zendt in overeenstemming met Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties binnen drie jaar na het tijdstip waarop de laatste fase van de invoering van de verplichting om langs elektronische weg te procederen, in werking is getreden, bedoeld in [artikel V, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0038353&artikel=V&z=2017-06-12&g=2017-06-12), aan de Staten-Generaal een verslag over de doeltreffendheid en de effecten van deze wet in de praktijk.
 
 ##### Artikel V
-
-Dit artikel is in werking getreden in verband met de invoering van digitaal procederen. Zie voor de procedures en gerechten waarvoor digitaal procederen geldt het Overzicht gefaseerde inwerkingtreding op www.rijksoverheid.nl/KEI.
 
 1. De artikelen van deze wet treden in werking op een bij koninklijk besluit te bepalen tijdstip, dat voor de verschillende artikelen of onderdelen daarvan, voor verschillende procedures, vorderingen, verzoeken en besluiten en voor de verschillende gerechten en verschillende bestuursrechters verschillend kan worden vastgesteld.
 
