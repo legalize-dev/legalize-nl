@@ -4,7 +4,7 @@ identifier: "BWBR0026204"
 country: "nl"
 rank: "amvb"
 publication_date: "2025-07-18"
-last_updated: "2017-01-01"
+last_updated: "2017-06-16"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0026204"
 soort: "AMvB"
@@ -64,7 +64,7 @@ In dit besluit wordt verstaan onder basisbedrag: basisbedrag als bedoeld in [art
 
 ##### Artikel 3
 
-De door de toezichthouder met toepassing van [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0026204&paragraaf=1&artikel=2&z=2017-01-01&g=2017-01-01) vast te stellen bestuurlijke boete wordt verdubbeld indien tijdens het plegen van de overtreding nog geen vijf jaren zijn verlopen sedert het opleggen van een bestuurlijke boete aan de overtreder ter zake van eenzelfde overtreding.
+De door de toezichthouder met toepassing van [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0026204&paragraaf=1&artikel=2&z=2017-06-16&g=2017-06-16) vast te stellen bestuurlijke boete wordt verdubbeld indien tijdens het plegen van de overtreding nog geen vijf jaren zijn verlopen sedert het opleggen van een bestuurlijke boete aan de overtreder ter zake van eenzelfde overtreding.
 
 ##### Artikel 4
 
@@ -584,6 +584,12 @@ Vervallen
 | 4:71b, eerste tot en met derde lid | 2 |
 | 4:71c, eerste en tweede lid | 2 |
 | 4:71d, eerste tot en met zesde lid | 2 |
+| 4:71f | 2 |
+| 4:71g, eerste lid | 2 |
+| 4:71h, eerste en tweede lid | 2 |
+| 4:71h, derde lid | 1 |
+| 4:71i, tweede en derde lid | 2 |
+| 4:71i, vierde lid | 1 |
 | 4:74, eerste lid | 2 |
 | 4:74a | 3 |
 | 4:74b, eerste lid | 2 |
@@ -961,7 +967,7 @@ Vervallen
 | 59b, eerste tot en met vierde lid | 2 |
 | 59c, eerste en tweede lid | 2 |
 | 59d, eerste tot en met derde lid | 2 |
-| 59e, eerste lid | 2 |
+| 59e | 2 |
 | 59f, eerste lid | 2 |
 | 59g, eerste en derde lid | 2 |
 | artikel 60, eerste, vierde en vijfde lid | 2 |
@@ -1022,6 +1028,7 @@ Vervallen
 | 86g, eerste en tweede lid | 2 |
 | 86h, eerste en tweede lid | 2 |
 | 86i, eerste en tweede lid | 2 |
+| 86ia | 2 |
 | 86k, eerste lid | 3 |
 | 86k, vierde lid | 2 |
 | 86l, eerste en tweede lid | 2 |
@@ -1516,9 +1523,9 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 ##### Artikel 4a
 
-1. Onverminderd de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0026204&paragraaf=1&artikel=2&z=2017-01-01&g=2017-01-01), [3](https://wetten.overheid.nl/jci1.3:c:BWBR0026204&paragraaf=1&artikel=3&z=2017-01-01&g=2017-01-01) en [4](https://wetten.overheid.nl/jci1.3:c:BWBR0026204&paragraaf=1&artikel=4&z=2017-01-01&g=2017-01-01) houdt de toezichthouder bij het vaststellen van een bestuurlijke boete die wordt opgelegd aan een bank of een beleggingsonderneming als bedoeld in de verordening kapitaalvereisten ter zake van een overtreding van de verordening kapitaalvereisten of het ingevolge het Deel Prudentieel toezicht financiële ondernemingen van de wet bepaalde, rekening met de omstandigheden, bedoeld in artikel 70 van de richtlijn kapitaalvereisten.
+1. Onverminderd de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0026204&paragraaf=1&artikel=2&z=2017-06-16&g=2017-06-16), [3](https://wetten.overheid.nl/jci1.3:c:BWBR0026204&paragraaf=1&artikel=3&z=2017-06-16&g=2017-06-16) en [4](https://wetten.overheid.nl/jci1.3:c:BWBR0026204&paragraaf=1&artikel=4&z=2017-06-16&g=2017-06-16) houdt de toezichthouder bij het vaststellen van een bestuurlijke boete die wordt opgelegd aan een bank of een beleggingsonderneming als bedoeld in de verordening kapitaalvereisten ter zake van een overtreding van de verordening kapitaalvereisten of het ingevolge het Deel Prudentieel toezicht financiële ondernemingen van de wet bepaalde, rekening met de omstandigheden, bedoeld in artikel 70 van de richtlijn kapitaalvereisten.
 
-2. Onverminderd de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0026204&paragraaf=1&artikel=2&z=2017-01-01&g=2017-01-01), [3](https://wetten.overheid.nl/jci1.3:c:BWBR0026204&paragraaf=1&artikel=3&z=2017-01-01&g=2017-01-01) en [4](https://wetten.overheid.nl/jci1.3:c:BWBR0026204&paragraaf=1&artikel=4&z=2017-01-01&g=2017-01-01) houdt de toezichthouder bij het vaststellen van een bestuurlijke boete die wordt opgelegd aan een centrale effectenbewaarinstelling of aan een aangewezen kredietinstelling in de zin van de verordening centrale effectenbewaarinstellingen, ter zake van een overtreding van die verordening rekening met de omstandigheden, bedoeld in artikel 64 van die verordening.
+2. Onverminderd de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0026204&paragraaf=1&artikel=2&z=2017-06-16&g=2017-06-16), [3](https://wetten.overheid.nl/jci1.3:c:BWBR0026204&paragraaf=1&artikel=3&z=2017-06-16&g=2017-06-16) en [4](https://wetten.overheid.nl/jci1.3:c:BWBR0026204&paragraaf=1&artikel=4&z=2017-06-16&g=2017-06-16) houdt de toezichthouder bij het vaststellen van een bestuurlijke boete die wordt opgelegd aan een centrale effectenbewaarinstelling of aan een aangewezen kredietinstelling in de zin van de verordening centrale effectenbewaarinstellingen, ter zake van een overtreding van die verordening rekening met de omstandigheden, bedoeld in artikel 64 van die verordening.
 
 #### § 2. Indeling van overtredingen in categorieën
 
@@ -1528,7 +1535,7 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 ##### Artikel 4b
 
-Onverminderd de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0026204&paragraaf=1&artikel=2&z=2017-01-01&g=2017-01-01), [3](https://wetten.overheid.nl/jci1.3:c:BWBR0026204&paragraaf=1&artikel=3&z=2017-01-01&g=2017-01-01) en [4](https://wetten.overheid.nl/jci1.3:c:BWBR0026204&paragraaf=1&artikel=4&z=2017-01-01&g=2017-01-01) houdt de toezichthouder bij het vaststellen van een bestuurlijke boete die wordt opgelegd aan een natuurlijk persoon of een rechtspersoon ter zake van een overtreding van een voorschrift gesteld bij of krachtens de [hoofdstukken 5.1a](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&hoofdstuk=5.1a) of [5.3 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&hoofdstuk=5.3), met uitzondering van een overtreding van de [artikelen 5:25c zesde tot en met negende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=5:25c), [5:25i](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=5:25i) en [5:36 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=5:36), rekening met alle relevante omstandigheden, waaronder, in voorkomend geval, de omstandigheden genoemd in artikel 28 quater van de richtlijn transparantie.
+Onverminderd de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0026204&paragraaf=1&artikel=2&z=2017-06-16&g=2017-06-16), [3](https://wetten.overheid.nl/jci1.3:c:BWBR0026204&paragraaf=1&artikel=3&z=2017-06-16&g=2017-06-16) en [4](https://wetten.overheid.nl/jci1.3:c:BWBR0026204&paragraaf=1&artikel=4&z=2017-06-16&g=2017-06-16) houdt de toezichthouder bij het vaststellen van een bestuurlijke boete die wordt opgelegd aan een natuurlijk persoon of een rechtspersoon ter zake van een overtreding van een voorschrift gesteld bij of krachtens de [hoofdstukken 5.1a](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&hoofdstuk=5.1a) of [5.3 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&hoofdstuk=5.3), met uitzondering van een overtreding van de [artikelen 5:25c zesde tot en met negende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=5:25c), [5:25i](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=5:25i) en [5:36 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=5:36), rekening met alle relevante omstandigheden, waaronder, in voorkomend geval, de omstandigheden genoemd in artikel 28 quater van de richtlijn transparantie.
 
 #### § 2. Indeling van overtredingen in categorieën
 
