@@ -4,7 +4,7 @@ identifier: "BWBR0038899"
 country: "nl"
 rank: "amvb"
 publication_date: "2017-06-17"
-last_updated: "2017-01-01"
+last_updated: "2017-06-17"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0038899"
 soort: "AMvB"
@@ -62,7 +62,7 @@ Wijzigt het Besluit uitvoering EG-richtlijn wettelijke controles jaarrekeningen 
 
 1. De [Implementatiewet wijzigingsrichtlijn en verordening wettelijke controles jaarrekeningen](https://wetten.overheid.nl/jci1.3:c:BWBR0038679) treedt in werking met ingang van 1 januari 2017.
 
-2. Dit besluit treedt in werking met ingang van 1 januari 2017 met uitzondering van [artikel I, onderdeel U](https://wetten.overheid.nl/jci1.3:c:BWBR0038899&artikel=I&z=2017-01-01&g=2017-01-01), dat in werking treedt met ingang van 17 juni 2017.
+2. Dit besluit treedt in werking met ingang van 1 januari 2017 met uitzondering van [artikel I, onderdeel U](https://wetten.overheid.nl/jci1.3:c:BWBR0038899&artikel=I&z=2017-06-17&g=2017-06-17), dat in werking treedt met ingang van 17 juni 2017.
 
 ##### Artikel V
 
