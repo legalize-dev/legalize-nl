@@ -4,7 +4,7 @@ identifier: "BWBR0039638"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2017-06-17"
-last_updated: "2017-01-01"
+last_updated: "2017-06-17"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0039638"
 soort: "ministeriele-regeling"
@@ -49,7 +49,7 @@ Besluit:
 
 ##### Artikel 2
 
-1. De functionarissen, genoemd in [artikel 1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039638&artikel=1&z=2017-06-17&g=2017-01-01), zijn gemachtigd tot de behandeling van procedures bij de rechtbanken inzake besluiten als bedoeld in artikel 1, eerste lid.
+1. De functionarissen, genoemd in [artikel 1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039638&artikel=1&z=2017-06-17&g=2017-06-17), zijn gemachtigd tot de behandeling van procedures bij de rechtbanken inzake besluiten als bedoeld in artikel 1, eerste lid.
 
 2. De functionarissen, genoemd in het eerste lid, zijn bevoegd aan onder hen ressorterende ambtenaren ondermachtiging te verlenen tot de behandeling van procedures bij de rechtbanken.
 
@@ -57,7 +57,7 @@ Besluit:
 
 ##### Artikel 3
 
-De ondertekening door de functionarissen, genoemd in [artikel 1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039638&artikel=1&z=2017-06-17&g=2017-01-01), en de medewerkers, bedoeld in [artikel 1, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039638&artikel=1&z=2017-06-17&g=2017-01-01), zal luiden als volgt:
+De ondertekening door de functionarissen, genoemd in [artikel 1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039638&artikel=1&z=2017-06-17&g=2017-06-17), en de medewerkers, bedoeld in [artikel 1, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039638&artikel=1&z=2017-06-17&g=2017-06-17), zal luiden als volgt:
 
 De Minister van Financiën,
 
