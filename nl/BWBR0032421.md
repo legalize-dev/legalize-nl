@@ -4,7 +4,7 @@ identifier: "BWBR0032421"
 country: "nl"
 rank: "amvb"
 publication_date: "2026-01-01"
-last_updated: "2017-01-01"
+last_updated: "2017-06-21"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0032421"
 soort: "AMvB"
@@ -76,21 +76,21 @@ Het bedrag van de in [artikel 5.6, tweede lid, van de wet](https://wetten.overhe
 
 4. Indien de functievervulling voor zes kalendermaanden of minder is onderbroken, worden voor de toepassing van het eerste en derde lid de voor en na de onderbreking gewerkte kalendermaanden bij elkaar opgeteld.
 
-5. De bedragen, genoemd in het eerste en tweede lid, worden telkens per 1 januari van elk jaar bij ministeriële regeling gewijzigd in verband met de ontwikkeling van de contractuele loonkosten voor de overheid zoals deze in het jaar van vaststellen van de ministeriële regeling voor het daaraan voorafgaande jaar door het Centraal Bureau voor de Statistiek is vastgesteld, tenzij die ontwikkeling niet leidt tot een verhoging van de bedragen. De bedragen, genoemd in het eerste en tweede lid, worden afgerond op vijfhonderd euro’s onderscheidenlijk op euro’s.
+5. De bedragen, genoemd in het eerste en tweede lid, worden telkens per 1 januari van elk jaar bij ministeriële regeling gewijzigd in verband met de ontwikkeling van de contractuele loonkosten voor de overheid zoals deze in het jaar van vaststellen van de ministeriële regeling voor het daaraan voorafgaande jaar door het Centraal Bureau voor de Statistiek is vastgesteld, tenzij die ontwikkeling niet leidt tot een verhoging van de bedragen. De bedragen, genoemd in het eerste en tweede lid, worden naar boven afgerond op honderd euro’s onderscheidenlijk op euro’s.
 
 6. De ministeriële regeling, bedoeld in het vijfde lid, wordt bekend gemaakt vóór 1 november voorafgaand aan het jaar waarop de wijziging betrekking heeft.
 
 ##### Artikel 5
 
-1. Onze Minister wie het aangaat en Onze Minister kunnen gezamenlijk besluiten dat partijen bij dat besluit vast te stellen hogere bedragen mogen overeenkomen dan de bedragen, genoemd in [artikel 4, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032421&artikel=4&z=2017-01-01&g=2017-01-01) en het op grond van het derde lid toepasselijke bedrag.
+1. Onze Minister wie het aangaat en Onze Minister kunnen gezamenlijk besluiten dat partijen bij dat besluit vast te stellen hogere bedragen mogen overeenkomen dan de bedragen, genoemd in [artikel 4, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032421&artikel=4&z=2017-06-21&g=2017-06-21) en het op grond van het derde lid toepasselijke bedrag.
 
 2. Van een besluit als bedoeld in het eerste lid wordt mededeling gedaan door plaatsing in de Staatscourant.
 
 ##### Artikel 6
 
-1. Onze Minister wie het aangaat kan, gehoord Onze Minister, bij een ministeriële regeling als bedoeld in [artikel 3.1, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0032249&artikel=3.1) voor de in dat lid bedoelde categorie rechtspersonen en instellingen hogere bedragen vaststellen dan de bedragen, genoemd in [artikel 4, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032421&artikel=4&z=2017-01-01&g=2017-01-01).
+1. Onze Minister wie het aangaat kan, gehoord Onze Minister, bij een ministeriële regeling als bedoeld in [artikel 3.1, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0032249&artikel=3.1) voor de in dat lid bedoelde categorie rechtspersonen en instellingen hogere bedragen vaststellen dan de bedragen, genoemd in [artikel 4, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032421&artikel=4&z=2017-06-21&g=2017-06-21).
 
-2. [Artikel 4, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032421&artikel=4&z=2017-01-01&g=2017-01-01), is van overeenkomstige toepassing indien op grond van het eerste lid hogere bedragen zijn vastgesteld, met dien verstande dat in het derde lid in plaats van «[artikel 2.1, vierde lid, eerste volzin, en zesde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0032249&artikel=2.1)» gelezen wordt: [artikel 3.1, vijfde lid, eerste volzin, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0032249&artikel=3.1).
+2. [Artikel 4, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032421&artikel=4&z=2017-06-21&g=2017-06-21), is van overeenkomstige toepassing indien op grond van het eerste lid hogere bedragen zijn vastgesteld, met dien verstande dat in het derde lid in plaats van «[artikel 2.1, vierde lid, eerste volzin, en zesde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0032249&artikel=2.1)» gelezen wordt: [artikel 3.1, vijfde lid, eerste volzin, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0032249&artikel=3.1).
 
 3. De betrokken rechtspersonen of instellingen, bedoeld in de [bijlage bij artikel 1.4, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0032249&bijlage=3) of een samenwerkingsverband van deze rechtspersonen of instellingen kunnen uiterlijk in de maand september voorafgaand aan het jaar waarop de bedragen betrekking hebben, aan Onze Minister wie het aangaat een voorstel doen voor de bedragen, bedoeld in het eerste lid.
 
@@ -98,7 +98,7 @@ Het bedrag van de in [artikel 5.6, tweede lid, van de wet](https://wetten.overhe
 
 ##### Artikel 7
 
-1. Een tussen partijen voor 1 januari 2016 overeengekomen bezoldiging die op enig moment na die datum meer bedraagt dan het op grond van of krachtens de wet van toepassing zijnde bezoldigingsmaximum, is toegestaan voor ten hoogste vier jaar na de datum waarop het toepasselijke bezoldigingsmaximum eerst wordt overschreden, tenzij op grond van [artikel 7.3 eerste tot en met derde lid of achtste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0032249&artikel=7.3) reeds eerder een periode van ten hoogste vier jaar is aangevangen. De bezoldiging, bedoeld in de vorige volzin, wordt slechts verhoogd, indien deze verhoging en de wijze waarop deze wordt berekend voorafgaand aan 1 januari 2016, tussen partijen zijn overeengekomen. De [artikelen 5.4 tot en met 5.6](https://wetten.overheid.nl/jci1.3:c:BWBR0032249&artikel=5.4) zijn van toepassing.
+1. Een tussen partijen voor 1 januari 2016 overeengekomen bezoldiging die op enig moment na die datum meer bedraagt dan het op grond van of krachtens de wet van toepassing zijnde bezoldigingsmaximum, is toegestaan voor ten hoogste vier jaar na de datum waarop het toepasselijke bezoldigingsmaximum eerst wordt overschreden, tenzij op grond van [artikel 7.3, eerste tot en met derde lid of achtste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0032249&artikel=7.3) reeds eerder een periode van ten hoogste vier jaar is aangevangen. De bezoldiging, bedoeld in de vorige volzin, wordt slechts verhoogd, indien deze verhoging en de wijze waarop deze wordt berekend voorafgaand aan 1 januari 2016, tussen partijen zijn overeengekomen. De [artikelen 5.4 tot en met 5.6](https://wetten.overheid.nl/jci1.3:c:BWBR0032249&artikel=5.4) zijn van toepassing.
 
 2. Indien een in het eerste lid bedoelde periode van vier jaar is verstreken, wordt de overeengekomen bezoldiging in een periode van drie jaar teruggebracht tot het voor de rechtspersoon of instelling geldende maximum overeenkomstig de wijze, bedoeld in [artikel 7.3, negende lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0032249&artikel=7.3). Een eventuele overeengekomen verhoging als bedoeld in het eerste lid, blijft buiten toepassing.
 
