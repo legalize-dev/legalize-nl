@@ -4,7 +4,7 @@ identifier: "BWBR0034872"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-08-01"
-last_updated: "2017-03-03"
+last_updated: "2017-06-22"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0034872"
 soort: "ministeriele-regeling"
@@ -35,7 +35,7 @@ entry_into_force: "2019-11-21"
 ---
 # Warenwetregeling levende tweekleppige weekdieren
 
-Gelet op bijlage II, hoofdstuk II, van [Verordening (EG) nr. 854/2004](onbekend) van het Europees Parlement en de Raad van 29 april 2004 houdende vaststelling van specifieke voorschriften voor de organisatie van de officiële controles van voor menselijke consumptie bestemde producten van dierlijke oorsprong (PbEU 2004, L 139) en [artikel 10 van het Warenwetbesluit hygiëne van levensmiddelen](https://wetten.overheid.nl/jci1.3:c:BWBR0018823&artikel=10);
+Gelet op bijlage II, hoofdstuk II, van [Verordening (EG) nr. 854/2004](32004R0854) van het Europees Parlement en de Raad van 29 april 2004 houdende vaststelling van specifieke voorschriften voor de organisatie van de officiële controles van voor menselijke consumptie bestemde producten van dierlijke oorsprong (PbEU 2004, L 139) en [artikel 10 van het Warenwetbesluit hygiëne van levensmiddelen](https://wetten.overheid.nl/jci1.3:c:BWBR0018823&artikel=10);
 
 Besluit:
 
@@ -67,13 +67,13 @@ In deze regeling en de daarop berustende besluiten wordt verstaan onder:
 
 ##### Artikel 2. Productiegebieden
 
-1. De productiegebieden worden aangewezen in [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBR0034872&bijlage=I&z=2017-03-03&g=2017-03-03).
+1. De productiegebieden worden aangewezen in [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBR0034872&bijlage=I&z=2017-06-22&g=2017-06-22).
 
-2. De soorten tweekleppige weekdieren waarvoor het betreffende productiegebied is aangewezen en de klasse van het betreffende productiegebied zijn vermeld in [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBR0034872&bijlage=I&z=2017-03-03&g=2017-03-03).
+2. De soorten tweekleppige weekdieren waarvoor het betreffende productiegebied is aangewezen en de klasse van het betreffende productiegebied zijn vermeld in [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBR0034872&bijlage=I&z=2017-06-22&g=2017-06-22).
 
 ##### Artikel 3. Verwatergebieden
 
-De verwatergebieden worden aangewezen in [bijlage II](https://wetten.overheid.nl/jci1.3:c:BWBR0034872&bijlage=II&z=2017-03-03&g=2017-03-03).
+De verwatergebieden worden aangewezen in [bijlage II](https://wetten.overheid.nl/jci1.3:c:BWBR0034872&bijlage=II&z=2017-06-22&g=2017-06-22).
 
 ##### Artikel 4. Heruitzettingsgebieden
 
@@ -81,7 +81,7 @@ Er worden geen heruitzettingsgebieden aangewezen.
 
 ##### Artikel 5
 
-1. Het model van het registratiedocument, genoemd in Bijlage III, Sectie VII, Hoofdstuk I, van [Verordening (EG) nr. 853/2004](onbekend) van het Europees Parlement en de Raad van 29 april 2004 houdende vaststelling van specifieke hygiënevoorschriften voor levensmiddelen van dierlijke oorsprong (PbEU 2004, L 139), wordt vastgesteld door de NVWA.
+1. Het model van het registratiedocument, genoemd in Bijlage III, Sectie VII, Hoofdstuk I, van [Verordening (EG) nr. 853/2004](32004R0853) van het Europees Parlement en de Raad van 29 april 2004 houdende vaststelling van specifieke hygiënevoorschriften voor levensmiddelen van dierlijke oorsprong (PbEU 2004, L 139), wordt vastgesteld door de NVWA.
 
 2. Het registratiedocument, bedoeld in het eerste lid wordt beschikbaar gesteld door de NVWA.
 
@@ -89,19 +89,19 @@ Er worden geen heruitzettingsgebieden aangewezen.
 
 1. De Inspecteur-generaal van de NVWA, de plaatsvervangend Inspecteur-generaal van de NVWA, de Hoofdinspecteur van de divisie Consument & veiligheid van de NVWA en de plaatsvervangend Hoofdinspecteur van de divisie Consument & veiligheid van de NVWA kunnen tijdelijk:
 
-- a. de benaming, ligging en grenzen van de productiegebieden, bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034872&artikel=2&z=2017-03-03&g=2017-03-03), vaststellen, intrekken of wijzigen;
+- a. de benaming, ligging en grenzen van de productiegebieden, bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034872&artikel=2&z=2017-06-22&g=2017-06-22), vaststellen, intrekken of wijzigen;
 
-- b. de aanwijzing van de soorten tweekleppige weekdieren, bedoeld in [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034872&artikel=2&z=2017-03-03&g=2017-03-03), vaststellen, intrekken of wijzigen;
+- b. de aanwijzing van de soorten tweekleppige weekdieren, bedoeld in [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034872&artikel=2&z=2017-06-22&g=2017-06-22), vaststellen, intrekken of wijzigen;
 
-- c. de classificatie van de productiegebieden, bedoeld in [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034872&artikel=2&z=2017-03-03&g=2017-03-03), vaststellen, intrekken of wijzigen;
+- c. de classificatie van de productiegebieden, bedoeld in [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034872&artikel=2&z=2017-06-22&g=2017-06-22), vaststellen, intrekken of wijzigen;
 
-- d. de aanwijzing en erkenning van de verwatergebieden, bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0034872&artikel=3&z=2017-03-03&g=2017-03-03) vaststellen, intrekken of wijzigen;
+- d. de aanwijzing en erkenning van de verwatergebieden, bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0034872&artikel=3&z=2017-06-22&g=2017-06-22) vaststellen, intrekken of wijzigen;
 
-- e. heruitzettingsgebieden, bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0034872&artikel=4&z=2017-03-03&g=2017-03-03), aanwijzen en erkennen, met inachtneming van een minimumafstand van 300 meter tussen heruitzettingsgebieden onderling en tussen heruitzettingsgebieden en productiegebieden, en deze aanwijzing of erkenning intrekken of wijzigen;
+- e. heruitzettingsgebieden, bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0034872&artikel=4&z=2017-06-22&g=2017-06-22), aanwijzen en erkennen, met inachtneming van een minimumafstand van 300 meter tussen heruitzettingsgebieden onderling en tussen heruitzettingsgebieden en productiegebieden, en deze aanwijzing of erkenning intrekken of wijzigen;
 
 - f. een productie- of heruitzettingsgebied sluiten voor het verzamelen van levende tweekleppige weekdieren; en
 
-- g. bijzondere voorwaarden stellen en specifieke maatregelen treffen voor de productiegebieden, de verwatergebieden en de heruitzettingsgebieden, bedoeld in de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0034872&artikel=2&z=2017-03-03&g=2017-03-03), [3](https://wetten.overheid.nl/jci1.3:c:BWBR0034872&artikel=3&z=2017-03-03&g=2017-03-03) en [4](https://wetten.overheid.nl/jci1.3:c:BWBR0034872&artikel=4&z=2017-03-03&g=2017-03-03), teneinde te voorkomen dat er tweekleppige weekdieren worden opgevist en in de handel gebracht die niet voldoen aan de wettelijke eisen en voorschriften voor rechtstreekse menselijke consumptie.
+- g. bijzondere voorwaarden stellen en specifieke maatregelen treffen voor de productiegebieden, de verwatergebieden en de heruitzettingsgebieden, bedoeld in de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0034872&artikel=2&z=2017-06-22&g=2017-06-22), [3](https://wetten.overheid.nl/jci1.3:c:BWBR0034872&artikel=3&z=2017-06-22&g=2017-06-22) en [4](https://wetten.overheid.nl/jci1.3:c:BWBR0034872&artikel=4&z=2017-06-22&g=2017-06-22), teneinde te voorkomen dat er tweekleppige weekdieren worden opgevist en in de handel gebracht die niet voldoen aan de wettelijke eisen en voorschriften voor rechtstreekse menselijke consumptie.
 
 2. Elke tijdelijke maatregel wordt door de NVWA onverwijld aan de bij hen bekende betrokken ondernemers en overige belanghebbenden gemeld of op de website van de NVWA gepubliceerd.
 
@@ -111,7 +111,7 @@ Wijzigt de Warenwetregeling procedures registratie en erkenning van levensmiddel
 
 ##### Artikel 8. Overgangsrecht
 
-1. Tijdelijke maatregelen van de Voorzitter, namens het bestuur van het Productschap Vis op grond van [artikel 7 van de Verordening productiegebieden levende tweekleppige weekdieren 2006](https://wetten.overheid.nl/jci1.3:c:BWBR0018874&artikel=7), zoals deze gold tot het tijdstip van inwerkingtreding van deze regeling, gelden als tijdelijke maatregelen in de zin van [artikel 6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034872&artikel=6&z=2017-03-03&g=2017-03-03).
+1. Tijdelijke maatregelen van de Voorzitter, namens het bestuur van het Productschap Vis op grond van [artikel 7 van de Verordening productiegebieden levende tweekleppige weekdieren 2006](https://wetten.overheid.nl/jci1.3:c:BWBR0018874&artikel=7), zoals deze gold tot het tijdstip van inwerkingtreding van deze regeling, gelden als tijdelijke maatregelen in de zin van [artikel 6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034872&artikel=6&z=2017-06-22&g=2017-06-22).
 
 2. Levensmiddelenbedrijven die op het tijdstip van inwerkingtreding van deze regeling geregistreerd waren bij het Hoofdbedrijfschap Detailhandel, het Hoofdbedrijfschap Ambachten, het Hoofdbedrijfschap Agrarische Groothandel Groeten en Fruit, het Bedrijfschap Horeca en Catering, de Productschappen Vee, Vlees en Eieren en het Productschap Vis op basis van [artikel 3, eerste lid, van de Warenwetregeling procedures registratie en erkenning van levensmiddelenbedrijven](https://wetten.overheid.nl/jci1.3:c:BWBR0019442&artikel=3), hebben na inwerkingtreding van deze regeling voldaan aan de verplichting genoemd in [artikel 2, eerste lid, van de Warenwetregeling procedures registratie en erkenning van levensmiddelenbedrijven](https://wetten.overheid.nl/jci1.3:c:BWBR0019442&artikel=2).
 
@@ -121,7 +121,7 @@ Wijzigt de Warenwetregeling procedures registratie en erkenning van levensmiddel
 
 2. Deze regeling wordt aangehaald als: Warenwetregeling levende tweekleppige weekdieren.
 
-## Bijlage I. bij [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0034872&artikel=2&z=2017-03-03&g=2017-03-03)
+## Bijlage I. bij [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0034872&artikel=2&z=2017-06-22&g=2017-06-22)
 
 **Nederlandse productiegebieden zijn:**
 
@@ -138,35 +138,36 @@ Wijzigt de Warenwetregeling procedures registratie en erkenning van levensmiddel
 | Oostelijke Waddenzee Eems/Dollard | – De rechte lijn vanaf een punt haaks op de Nederlands-Duitse grens naar het groene havenlicht van de Eemshaven; – (53.27,744 NB / 06.50,088 OL WGS84); – de Nederlands-Duitse grens; – de kust van Groningen. | – De haven van Eemshaven; – het gebied in een straal van 300 m vanaf de mond van de haven van Eemshaven. | alle soorten tweekleppige weekdieren exclusief pecten | Niet geklasseerd |
 | Grevelingenmeer | – De Grevelingendam; – de kust van Schouwen Duiveland; – de Brouwersdam; – de kust van Goeree Overflakkee. | – De havens van Bruinisse, Aqua Delta, Brouwershaven, Den Osse, Scharendijke, Port Zélande, Ouddorp en Herkingen; – de gebieden in een straal van 100 m vanaf de mond van de havens van Bruinisse, Aqua Delta, Brouwershaven, Den Osse, Scharendijke, Port Zélande, Ouddorp en Herkingen; – de gebieden in een straal van 100 m vanaf het gemaal ‘Dreischor’ (bij Dreischor) en vanaf de lozingspunten ‘Kilhaven’ (Kop van Goeree), ‘De Drie Polders’ (bij Herkingen), en 'Battenoord' (bij Battenoord). | alle soorten tweekleppige weekdieren exclusief pecten | A |
 | Veerse Meer | – De Veerse Gatdam; – de kust van Walcheren; – de kust van Zuid Beveland; – de Zandkreekdam en -sluis; – de kust van Noord Beveland. | – De havens van Kortgene, Wolphaartsdijk, Veere (inclusief jachthaven Oostwatering), Arnemuiden (Oranjeplaat) en Kamperland; – de gebieden in een straal van 100 m vanaf de mond van de havens van Kortgene, Wolphaartsdijk, Veere (inclusief jachthaven Oostwatering), Arnemuiden (Oranjeplaat) en Kamperland. | alle soorten tweekleppige weekdieren exclusief pecten | B |
-| Oosterschelde Noord | – De rechte lijn van het uiteinde van de Zuidbout – te Ouwerkerk (51.36,8460 NB / 3.57,5219 OL WGS84) naar een punt gelegen tussen de dijkpalen 856 en 857 op de kust van Tholen (51.35,8153 NB / 4.01,0956 OL WGS84); – de kust van Schouwen Duiveland; – de Grevelingendam; – de Philipsdam; – de kust van Sint Philipsland; – de Mosselkreekdam; – de kust van Tholen. | – De havens van Bruinisse, Sint Philipsland en Sint Annaland; – de gebieden in een straal van 100 m vanaf de mond van de havens van Bruinisse, Sint Philipsland en Sint Annaland; – de gebieden in een straal van 100 m vanaf de lozingspunten van de Krammersluizen, het gemaal ‘De Luyster’ (op Sint Philipsland), het gemaal ‘Duiveland’ (bij Ouwerkerk) en de rioolwaterzuiveringsinstallatie ‘Mastgat’ (bij Oosterland); – verwatergebieden, bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0034872&artikel=3&z=2017-03-03&g=2017-03-03) en [artikel 6, eerste lid, onder d](https://wetten.overheid.nl/jci1.3:c:BWBR0034872&artikel=6&z=2017-03-03&g=2017-03-03), en heruitzettingsgebieden, bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0034872&artikel=4&z=2017-03-03&g=2017-03-03) en artikel 6, eerste lid, onder e. | alle soorten tweekleppige weekdieren exclusief pecten | A |
+| Oosterschelde Noord | – De rechte lijn van het uiteinde van de Zuidbout – te Ouwerkerk (51.36,8460 NB / 3.57,5219 OL WGS84) naar een punt gelegen tussen de dijkpalen 856 en 857 op de kust van Tholen (51.35,8153 NB / 4.01,0956 OL WGS84); – de kust van Schouwen Duiveland; – de Grevelingendam; – de Philipsdam; – de kust van Sint Philipsland; – de Mosselkreekdam; – de kust van Tholen. | – De havens van Bruinisse, Sint Philipsland en Sint Annaland; – de gebieden in een straal van 100 m vanaf de mond van de havens van Bruinisse, Sint Philipsland en Sint Annaland; – de gebieden in een straal van 100 m vanaf de lozingspunten van de Krammersluizen, het gemaal ‘De Luyster’ (op Sint Philipsland), het gemaal ‘Duiveland’ (bij Ouwerkerk) en de rioolwaterzuiveringsinstallatie ‘Mastgat’ (bij Oosterland); – verwatergebieden, bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0034872&artikel=3&z=2017-06-22&g=2017-06-22) en [artikel 6, eerste lid, onder d](https://wetten.overheid.nl/jci1.3:c:BWBR0034872&artikel=6&z=2017-06-22&g=2017-06-22), en heruitzettingsgebieden, bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0034872&artikel=4&z=2017-06-22&g=2017-06-22) en artikel 6, eerste lid, onder e. | alle soorten tweekleppige weekdieren exclusief pecten | A |
 | Oosterschelde Midden | – De kust van Schouwen Duiveland; – de rechte lijn van het uiteinde van de – Zuidbout te Ouwerkerk (51 36,8460 NB /3 57,5219 OL WGS84) naar een punt gelegen tussen de dijkpalen 856 en 857 op de kust van Tholen (51.35,8153 NB / 4.01,0956 OL WGS84); – de kust van Tholen; – de rechte lijn van het sectorlicht van Gorishoek (51.31,5244 NB / 4.04,5969 OL WGS84) – naar de hoek van de Kijkuit te Yerseke (51.30,2058 NB / 4.03,2184 OL WGS84); – de kust van Zuid Beveland; – de Zandkreekdam; – de kust van Noord Beveland; – de rechte lijn van het licht op het westelijke havenhoofd van Colijnsplaat – (51.36,2399 NB / 3.51,0167 OL WGS84), – naar het licht op het westelijke havenhoofd van Zierikzee – (51.37,9058 NB / 3.53,3908 OL WGS84). | – De havens van Stavenisse (inclusief het havenkanaal van Stavenisse), Wemeldinge en Kats; – de gebieden in een straal van 100 m vanaf de mond van de havens van Wemeldinge en Kats; – de gebieden in een straal van 100 m vanaf de mond van het havenkanaal van Stavenisse en het Kanaal door Zuid-Beveland; – de gebieden in een straal van 100 m vanaf de lozingspunten van het gemaal ‘De Noord’ (bij Sint Maartensdijk) en het gemaal ‘P.J.J. Dekker’ (bij Wemeldinge); – Het gebied in een straal van 100 m vanaf de sluis van het havenkanaal naar Goes (Het Sas); – het gebied in een straal van 50 m van het remmingswerk bij Yerseke (inlaat verswaterpijp) ter hoogte van boei SvI 7 – (51.30,203 NB / 3.03.239 OL WGS84). | alle soorten tweekleppige weekdieren exclusief pecten | A |
 | Oosterschelde West | – De kust van Noord Beveland; – de rechte lijn van het licht op het westelijke havenhoofd van Colijnsplaat – (51.36,2399 NB / 3.51,0167 OL WGS84), naar het licht op het westelijke havenhoofd van Zierikzee – (51.37,9058 NB / 3.53,3908 OL WGS84). – de kust van Schouwen Duiveland; – de Oosterscheldekering. | – De havens van Zierikzee (inclusief het havenkanaal van Zierikzee), Colijnsplaat, Sophiahaven (Roompot Marina) en Burghsluis; – de gebieden in een straal van 100 m vanaf de mond van de havens van Colijnsplaat, Sophiahaven (Roompot Marina) en Burghsluis; – het gebied in een straal van 100 m vanaf het lozingspunt van het gemaal 'Prommelsluis' (bij Kerkwerve); – het gebied in een straal van 100 m vanaf de mond van het havenkanaal van Zierikzee; – het gebied in een straal van 100 m vanaf het lozingspunt van de rioolwaterzuiveringsinstallatie ‘Westerschouwen’. | alle soorten tweekleppige weekdieren exclusief pecten | A |
-| Oosterschelde Oost | – De rechte lijn van het sectorlicht van Gorishoek (51.31,5244 NB / 4.04,5969 OL WGS84) – naar de hoek van de Kijkuit te Yerseke (51.30,2058 NB / 4.03,2184 OL WGS84); – de kust van Zuid Beveland; – de Oesterdam; – de kust van Tholen. | – De haven van Yerseke; – het gebied in een straal van 100 m vanaf de mond van de haven van Yerseke; – de geul langs de Korringaweg te Yerseke; – de gebieden in een straal van 100 m vanaf de lozingspunten van het gemaal ‘Loohoek’ (bij Poortvliet) en het gemaal ‘J.A. van de Graaff’ (bij Rilland); – het gebied in een straal van 50 m van het remmingswerk bij Yerseke (inlaat verswaterpijp) ter hoogte van boei SvI 7 – (51.30,203 NB / 3.03.239 OL WGS84); – verwatergebieden, bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0034872&artikel=3&z=2017-03-03&g=2017-03-03) en [artikel 6, eerste lid, onder d](https://wetten.overheid.nl/jci1.3:c:BWBR0034872&artikel=6&z=2017-03-03&g=2017-03-03), en heruitzettingsgebieden, bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0034872&artikel=4&z=2017-03-03&g=2017-03-03) en artikel 6, eerste lid, onder e. | alle soorten tweekleppige weekdieren exclusief pecten | A |
+| Oosterschelde Oost | – De rechte lijn van het sectorlicht van Gorishoek (51.31,5244 NB / 4.04,5969 OL WGS84) – naar de hoek van de Kijkuit te Yerseke (51.30,2058 NB / 4.03,2184 OL WGS84); – de kust van Zuid Beveland; – de Oesterdam; – de kust van Tholen. | – De haven van Yerseke; – het gebied in een straal van 100 m vanaf de mond van de haven van Yerseke; – de geul langs de Korringaweg te Yerseke; – de gebieden in een straal van 100 m vanaf de lozingspunten van het gemaal ‘Loohoek’ (bij Poortvliet) en het gemaal ‘J.A. van de Graaff’ (bij Rilland); – het gebied in een straal van 50 m van het remmingswerk bij Yerseke (inlaat verswaterpijp) ter hoogte van boei SvI 7 – (51.30,203 NB / 3.03.239 OL WGS84); – verwatergebieden, bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0034872&artikel=3&z=2017-06-22&g=2017-06-22) en [artikel 6, eerste lid, onder d](https://wetten.overheid.nl/jci1.3:c:BWBR0034872&artikel=6&z=2017-06-22&g=2017-06-22), en heruitzettingsgebieden, bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0034872&artikel=4&z=2017-06-22&g=2017-06-22) en artikel 6, eerste lid, onder e. | alle soorten tweekleppige weekdieren exclusief pecten | A |
 | Verwatergebieden | – De afzonderlijke verwatergebieden zoals aangewezen in bijlage II. |   | mosselen, oesters | A |
 | Westerschelde West | – De lijn gaande van de hoek van Ellewoutsdijk (51.23,1286 NB / 3.48,7594 OL WGS84) – naar Eendragt (nabij Terneuzen) – (51.21,4410 NB / 3.54,3244 OL WGS84); – de kust van Zeeuws Vlaanderen tot aan de Nederlands-Belgische grens (Zwin) – (51.22,3205 NB / 3.21,7211 OL WGS84); – de basislijn vanaf deze grens naar het Molenhoofd te Westkapelle – (51.31,5842 NB / 3.26,0520 OL WGS84); – de kust van Walcheren en Zuid Beveland. | – De havens van Terneuzen, Braakmanhaven, Breskens, Vlissingen en Vlissingen-Oost (Sloehaven); – de gebieden in een straal van 300 m vanaf de mond van de havens van Terneuzen, Braakmanhaven, Breskens, Vlissingen en Vlissingen-Oost (Sloehaven); – het gebied in een straal van 300 m vanaf de mond van het Kanaal Terneuzen-Gent; – de gebieden in een straal van 100 m vanaf de lozingspunten van het gemaal en uitwateringssluis ‘Othene’ (bij Terneuzen), het gemaal ‘Nummer Een’ (bij Slijkplaat), het gemaal ‘Nieuwe Sluis’ (ten westen van Breskens), de uitwateringssluis ‘Zuidwatering’ (bij Ritthem), het gemaal ‘Borssele’ (bij Borssele), het gemaal en de uitwateringssluis ‘Hellewoud’ (bij Ellewoutsdijk); – het gebied in een straal van 6.000 m vanaf het lozingspunt van het gemaal en de uitwateringssluis ‘Cadzand’ (bij Cadzand-Bad). | alle soorten tweekleppige weekdieren exclusief pecten | Niet geklasseerd |
 | Westerschelde Oost | – De kust van Zuid Beveland. – de rechte lijn van de hoek van Ellewoutsdijk (51.23,1286 NB / 3.48,7594 OL WGS84) – naar Eendragt (nabij Terneuzen) – (51.21,4410 NB / 3.54,3244 OL WGS84); – de kust van Zeeuws Vlaanderen; – de rechte lijn van oostelijke dam van de vroegere veerhaven Kruiningen – (51.26,3458 NB / 4.00,7774 OL WGS84) – naar de oostelijke havendam van de vroegere veerhaven Perkpolder – (51.24,0396 NB / 4.01,3187 OL WGS84). | – De havens van Perkpolder, Hoedekenskerke, Hansweert en Kruiningen; – het Kanaal door Zuid-Beveland; – de gebieden in een straal van 300 m vanaf de mond van de havens van Perkpolder, Hansweert en Kruiningen; – het gebied in een straal van 300 m vanaf de mond van het Kanaal door Zuid-Beveland; – het gebied rondom het lozingspunt van het gemaal Campen, omvattende het gedeelte van de Platen van Hulst dat ligt tussen de lijn gaande van de hoek van de Kamperse Dijk, loodrecht op de laagwaterlijn en de daaraan evenwijdige lijn op een afstand van 1 km in noordoostelijke richting; – het gebied rondom het lozingspunt van het gemaal Maelstede, omvattende de Biezelingsche Ham; – het gebied in een straal van 100 m vanaf het lozingspunt van de rioolwaterzuivering Willem-Annapolder. | kokkels | Niet geklasseerd |
 
-## Bijlage II. bij [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0034872&artikel=3&z=2017-03-03&g=2017-03-03)
+## Bijlage II. bij [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0034872&artikel=3&z=2017-06-22&g=2017-06-22)
 
 **Nederlandse verwatergebieden zijn:**
 
-| – Mastgat 8A en 12; | – Mastgat 8A en 12; | – YB 306, 307 en 308; | – YB 306, 307 en 308; |
+| – Mastgat 8A en 12; | – Mastgat 8A en 12; | – YB 306 tot en met 309; | – YB 306 tot en met 309; |
 | --- | --- | --- | --- |
 | – SP 1 tot en met 6; | – SP 1 tot en met 6; | – YB 314; | – YB 314; |
 | – SP 8 tot en met 13; | – SP 8 tot en met 13; | – YB 315 tot en met 319; | – YB 315 tot en met 319; |
 | – SP 15 tot en met 20 en 22 tot en met 43; | – SP 15 tot en met 20 en 22 tot en met 43; | – YB 357 en 358; | – YB 357 en 358; |
-| – YB 172; | – YB 172; | – YB 359; | – YB 359; |
-| – YB 173; | – YB 173; | – YB 360 tot en met 367; | – YB 360 tot en met 367; |
-| – YB 174; | – YB 174; | – YB 408, 409, 410 en 411; | – YB 408, 409, 410 en 411; |
-| – YB 175; | – YB 175; | – YB 412; | – YB 412; |
-| – YB 176; | – YB 176; | – YB 413; | – YB 413; |
-| – YB 177; | – YB 177; | – YB 416; | – YB 416; |
-| – YB 178; | – YB 178; | – YB 417; | – YB 417; |
-| – YB 219, 220 en 221; | – YB 219, 220 en 221; | – YB 464; | – YB 464; |
-| – YB 222 tot en met 226; | – YB 222 tot en met 226; | – YB 465 tot en met 467; | – YB 465 tot en met 467; |
-| – YB 256; | – YB 256; | – YB 715 tot en met 718; | – YB 715 tot en met 718; |
-| – YB 257; | – YB 257; | – YB 765 tot en met 770; | – YB 765 tot en met 770; |
-| – YB 258; | – YB 258; | – YB 815 tot en met 819; | – YB 815 tot en met 819; |
+| – VP 1 tot en met 27; | – VP 1 tot en met 27; | – YB 359; | – YB 359; |
+| – YB 172; | – YB 172; | – YB 360 tot en met 367; | – YB 360 tot en met 367; |
+| – YB 173; | – YB 173; | – YB 408, 409, 410 en 411; | – YB 408, 409, 410 en 411; |
+| – YB 174; | – YB 174; | – YB 412; | – YB 412; |
+| – YB 175; | – YB 175; | – YB 413; | – YB 413; |
+| – YB 176; | – YB 176; | – YB 416; | – YB 416; |
+| – YB 177; | – YB 177; | – YB 417; | – YB 417; |
+| – YB 178; | – YB 178; | – YB 464; | – YB 464; |
+| – YB 219, 220 en 221; | – YB 219, 220 en 221; | – YB 465 tot en met 467; | – YB 465 tot en met 467; |
+| – YB 222 tot en met 226; | – YB 222 tot en met 226; | – YB 715 tot en met 718; | – YB 715 tot en met 718; |
+| – YB 256; | – YB 256; | – YB 765 tot en met 770; | – YB 765 tot en met 770; |
+| – YB 257; | – YB 257; | – YB 815 tot en met 821; | – YB 815 tot en met 821; |
+| – YB 258; | – YB 258; | – YB 869 en 870; | – YB 869 en 870; |
 | – YB 268 tot en met 270; | – YB 268 tot en met 270; |   |   |
 |   |   |   |   |
 | – Oesterputtencomplex 12: | – Oesterputtencomplex 12: | – Oesterputtencomplex 14: | – Oesterputtencomplex 14: |
