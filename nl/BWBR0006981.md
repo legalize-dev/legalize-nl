@@ -4,7 +4,7 @@ identifier: "BWBR0006981"
 country: "nl"
 rank: "amvb"
 publication_date: "2025-04-01"
-last_updated: "2017-01-01"
+last_updated: "2017-06-23"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0006981"
 soort: "AMvB"
@@ -118,7 +118,7 @@ Onverminderd het bepaalde in [artikel 45 van het Besluit rechtspositie vrijwilli
 
 - 2. De vrijwillige ambtenaar kan tevens, met instemming van het bevoegd gezag, worden ingezet bij specialistische werkzaamheden die niet behoren tot de werkzaamheden bedoeld in 1., voor zover hij beschikt over de daarvoor vereiste opleiding en ervaring. Tot specialistische werkzaamheden wordt in ieder geval gerekend assistentie bij opsporingsonderzoeken naar ander misdrijven dan die bedoeld in 1, onder b.
 
-- c. de rangen, bedoeld in [artikel 1, eerste lid, onderdeel c tot en met h](https://wetten.overheid.nl/jci1.3:c:BWBR0006981&artikel=1&z=2013-12-05&g=2017-01-01), voor de vrijwillige ambtenaar van politie, aangesteld voor de uitvoering van de politietaak, die is belast met taken in onderdeel b., na instemming van de korpschef, zelfstandig dan wel in voorkomende gevallen onder begeleiding van een ambtenaar van politie aangesteld voor de uitvoering van de politietaak, bedoeld in [artikel 2, onderdeel a, van de Politiewet 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&artikel=2), met eenzelfde rang of een hogere rang, de werkzaamheden uitoefenen die verband houden met de volledige politietaak voor zover hij beschikt over de daarvoor vereiste opleiding en ervaring.
+- c. de rangen, bedoeld in [artikel 1, eerste lid, onderdeel c tot en met h](https://wetten.overheid.nl/jci1.3:c:BWBR0006981&artikel=1&z=2017-06-23&g=2017-06-23), voor de vrijwillige ambtenaar van politie, aangesteld voor de uitvoering van de politietaak, die is belast met taken in onderdeel b., na instemming van de korpschef, zelfstandig dan wel in voorkomende gevallen onder begeleiding van een ambtenaar van politie aangesteld voor de uitvoering van de politietaak, bedoeld in [artikel 2, onderdeel a, van de Politiewet 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&artikel=2), met eenzelfde rang of een hogere rang, de werkzaamheden uitoefenen die verband houden met de volledige politietaak voor zover hij beschikt over de daarvoor vereiste opleiding en ervaring.
 
 ##### Artikel 3
 
@@ -128,7 +128,7 @@ Onverminderd het bepaalde in [artikel 45 van het Besluit rechtspositie vrijwilli
 
 ##### Artikel 4
 
-Dit besluit berust op [artikel 48 van de Politiewet 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&artikel=48).
+Dit besluit berust op de [artikelen 48](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&artikel=48) en [81, vierde lid, van de Politiewet 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&artikel=81).
 
 ##### Artikel 5
 
@@ -148,20 +148,20 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 ##### Artikel 2b
 
-Aan de voorzitter van het college van bestuur van het Landelijk selectie- en opleidingsinstituut politie, Politie onderwijs- en kenniscentrum, die is aangesteld als ambtenaar als bedoeld in [artikel 2, onderdeel a, van de Politiewet 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&artikel=2) kan voor de duur van zijn voorzitterschap op voordracht van Onze Minister van Veiligheid en Justitie bij koninklijk besluit de rang van hoofdcommissaris worden toegekend.
+Aan de directeur van de Politieacademie en zijn plaatsvervanger kan op voordracht van Onze Minister bij koninklijk besluit de titulaire rang van hoofdcommissaris worden toegekend.
 
 ##### Artikel 2c
 
-Aan de ambtenaar die is aangesteld als ambtenaar als bedoeld in [artikel 2, onderdeel a, van de Politiewet 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&artikel=2) voor wie de rang van hoofdcommissaris heeft gegolden, kan voor de resterende duur van deze aanstelling op voordracht van Onze Minister van Veiligheid en Justitie bij koninklijk besluit de titulaire rang van hoofdcommissaris worden toegekend.
+Aan de ambtenaar die is aangesteld als ambtenaar als bedoeld in [artikel 2, onderdeel a, van de Politiewet 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&artikel=2) voor wie de rang van hoofdcommissaris heeft gegolden, kan voor de resterende duur van deze aanstelling op voordracht van Onze Minister bij koninklijk besluit de titulaire rang van hoofdcommissaris worden toegekend.
 
 ##### Artikel 2d
 
-Aan de ambtenaar, bedoeld in [artikel 2, onderdeel a, van de Politiewet 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&artikel=2), die is aangesteld in een functie waaraan de rang van commissaris is verbonden en die op uitzonderlijke wijze heeft bijgedragen tot de behartiging van de belangen van de Nederlandse politie, kan voor de resterende duur van deze aanstelling op voordracht van Onze Minister van Veiligheid en Justitie bij koninklijk besluit de titulaire rang van hoofdcommissaris worden toegekend.
+Aan de ambtenaar, bedoeld in [artikel 2, onderdeel a, van de Politiewet 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&artikel=2), die is aangesteld in een functie waaraan de rang van commissaris is verbonden en die op uitzonderlijke wijze heeft bijgedragen tot de behartiging van de belangen van de Nederlandse politie, kan voor de resterende duur van deze aanstelling op voordracht van Onze Minister bij koninklijk besluit de titulaire rang van hoofdcommissaris worden toegekend.
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het **Staatsblad** zal worden geplaatst.
 
 ##### Artikel 3a
 
-In afwijking van [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006981&artikel=2&z=2013-12-05&g=2017-01-01), behoudt de ambtenaar bij verplaatsing op grond van [artikel 64 van het Besluit algemene rechtspositie politie](https://wetten.overheid.nl/jci1.3:c:BWBR0006516&artikel=64), waarbij de verplaatsing inhoudt een functie waaraan een lagere rang is verbonden, de rang zoals die gold direct voorafgaand aan het besluit tot verplaatsing.
+In afwijking van [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006981&artikel=2&z=2017-06-23&g=2017-06-23), behoudt de ambtenaar bij verplaatsing op grond van [artikel 64 van het Besluit algemene rechtspositie politie](https://wetten.overheid.nl/jci1.3:c:BWBR0006516&artikel=64), waarbij de verplaatsing inhoudt een functie waaraan een lagere rang is verbonden, de rang zoals die gold direct voorafgaand aan het besluit tot verplaatsing.
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het **Staatsblad** zal worden geplaatst.
