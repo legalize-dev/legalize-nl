@@ -4,7 +4,7 @@ identifier: "BWBR0014439"
 country: "nl"
 rank: "amvb"
 publication_date: "2024-06-22"
-last_updated: "2013-01-01"
+last_updated: "2017-06-23"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0014439"
 soort: "AMvB"
@@ -52,7 +52,7 @@ In dit besluit en de daarop gebaseerde regeling wordt verstaan onder:
 
 - a. Onze Minister: Onze Minister van Veiligheid en Justitie;
 
-- b. betrokkene: de ambtenaar, bedoeld in [artikel 2, onderdeel a en b, van de Politiewet 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&artikel=2), en de ambtenaar, bedoeld in [artikel 10, eerste lid, aanhef en onderdeel b, van de Wet op het LSOP en het politieonderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0014623&artikel=10), die door het bevoegd gezag, bedoeld in het [Besluit algemene rechtspositie politie](https://wetten.overheid.nl/jci1.3:c:BWBR0006516), buitengewoon verlof wordt verleend met behoud van bezoldiging ten behoeve van uitzending ingevolge dit besluit;
+- b. betrokkene: de ambtenaar, bedoeld in [artikel 2, onderdeel a en b, van de Politiewet 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&artikel=2), die door het bevoegd gezag, bedoeld in het [Besluit algemene rechtspositie politie](https://wetten.overheid.nl/jci1.3:c:BWBR0006516), buitengewoon verlof wordt verleend met behoud van bezoldiging ten behoeve van uitzending ingevolge dit besluit;
 
 - c. missiegebied: een door een volkenrechtelijke organisatie of een in het kader van een internationale overeenkomst waarbij Nederland partij is, aangewezen gebied waarin inzet van civiele politie plaatsvindt.
 
@@ -62,7 +62,7 @@ In dit besluit en de daarop gebaseerde regeling wordt verstaan onder:
 
 2. Uitzending naar een missiegebied vindt plaats ten behoeve van het uitvoeren van de politietaak, het geven van opleidingen, ondersteuning bij de opbouw van een civiele politie-organisatie, het leveren van specifieke technische expertise of het uitvoeren van waarnemersmissies.
 
-3. Slechts de betrokkene die is aangesteld voor de politietaak, bedoeld in [artikel 2, onderdeel a, van de Politiewet 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&artikel=2) wordt uitgezonden ten behoeve van het uitvoeren van de politietaak.
+3. Slechts de betrokkene die is aangesteld voor de politietaak, bedoeld in [artikel 2, onderdeel a, van de Politiewet 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&artikel=2), wordt uitgezonden ten behoeve van het uitvoeren van de politietaak.
 
 4. De duur van de uitzending bedraagt 6 maanden, te verlengen tot ten hoogste een jaar. In bijzondere omstandigheden kan van deze termijnen worden afgeweken.
 
