@@ -4,7 +4,7 @@ identifier: "BWBR0006518"
 country: "nl"
 rank: "amvb"
 publication_date: "2025-04-01"
-last_updated: "2017-01-01"
+last_updated: "2017-06-23"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0006518"
 soort: "AMvB"
@@ -54,7 +54,7 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
 - c. vervallen;
 
-- d. Het LSOP: het Landelijk selectie- en opleidingsinstituut politie, bedoeld in [artikel 2 van het LSOP-wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006942&artikel=2);
+- d. vervallen;
 
 - e. vervallen;
 
@@ -64,17 +64,13 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
 - 1°. de korpschef, voor zover het betreft de ambtenaar, aangesteld bij een onderdeel, bedoeld in [artikel 25, eerste lid, van de Politiewet 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&artikel=25);
 
-- 2°. het College van procureurs-generaal, voor zover het betreft ambtenaren van de rijksrecherche;
-
-- 3°. De raad van toezicht van het LSOP, voor zover het betreft de ambtenaren, bedoeld in [artikel 10, eerste lid, onderdeel a, van de Wet op het LSOP en het politieonderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0014623&artikel=10);
-
-- 4°. het college van bestuur van het LSOP, voor zover het betreft de ambtenaren, bedoeld in [artikel 10, eerste lid, onderdeel b, van de Wet op het LSOP en het politieonderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0014623&artikel=10);
+- 2°. het College van procureurs-generaal, voor zover het betreft ambtenaren van de rijksrecherche.
 
 - h. korpschef: de korpschef als bedoeld in [artikel 27 van de Politiewet 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&artikel=27);
 
 - i. Centrale: een centrale van overheidspersoneel als bedoeld in [artikel 1 van de Regeling overleg Raad voor het Overheidspersoneelsbeleid](https://wetten.overheid.nl/jci1.3:c:BWBR0008494&artikel=1);
 
-- j. Commissie: de Commissie voor georganiseerd overleg in politie-ambtenarenzaken, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0006518&hoofdstuk=II&afdeling=1&artikel=2&z=2013-07-26&g=2017-01-01);
+- j. Commissie: de Commissie voor georganiseerd overleg in politie-ambtenarenzaken, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0006518&hoofdstuk=II&afdeling=1&artikel=2&z=2017-06-23&g=2017-06-23);
 
 - k. vervallen;
 
@@ -82,7 +78,7 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
 - m. vervallen;
 
-- n. Commissie LSOP: de Commissie voor georganiseerd overleg in politie-ambtenarenzaken ten behoeve van de ambtenaren van het LSOP, bedoeld in [artikel 22a](https://wetten.overheid.nl/jci1.3:c:BWBR0006518&hoofdstuk=II&afdeling=4A&artikel=22a&z=2013-07-26&g=2017-01-01);
+- n. vervallen;
 
 - o. vervallen;
 
@@ -130,7 +126,7 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
 1. Er is een sectorale commissie Politie.
 
-2. De sectorale commissie Politie bestaat uit vier leden namens de in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006518&hoofdstuk=II&afdeling=1&artikel=2&z=2013-07-26&g=2017-01-01), bedoelde Commissie en vier leden namens Onze Minister.
+2. De sectorale commissie Politie bestaat uit vier leden namens de in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006518&hoofdstuk=II&afdeling=1&artikel=2&z=2017-06-23&g=2017-06-23), bedoelde Commissie en vier leden namens Onze Minister.
 
 3. De sectorale commissie heeft tot taak:
 
@@ -148,11 +144,11 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
 3. De voorzitter wordt bij het overleg terzijde gestaan door functionarissen die daartoe door Onze Minister worden aangewezen.
 
-4. Onze Minister nodigt een vertegenwoordiger van het bevoegd gezag uit tot het bijwonen van het overleg als waarnemer.
+4. Onze Minister nodigt een vertegenwoordiger van het bevoegd gezag uit of kan een vertegenwoordiger van de directeur van de Politieacademie uitnodigen tot het bijwonen van het overleg als waarnemer.
 
 5. Het secretariaat van het overleg wordt gevoerd door een door Onze Minister benoemde secretaris of daartoe aangewezen functionaris, die onder leiding van de voorzitter ter beschikking staat van deze, van de in het derde lid bedoelde functionarissen en van de leden van de Commissie. De benoeming van de secretaris of de aanwijzing van een functionaris daartoe geschiedt, de Commissie gehoord.
 
-6. Bij de behandeling van bepaalde aangelegenheden kan op uitnodiging of met toestemming van de voorzitter ook door anderen dan degenen die daartoe ingevolge [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0006518&hoofdstuk=II&afdeling=1&artikel=2&z=2013-07-26&g=2017-01-01) gerechtigd zijn, aan het overleg worden deelgenomen.
+6. Bij de behandeling van bepaalde aangelegenheden kan op uitnodiging of met toestemming van de voorzitter ook door anderen dan degenen die daartoe ingevolge [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0006518&hoofdstuk=II&afdeling=1&artikel=2&z=2017-06-23&g=2017-06-23) gerechtigd zijn, aan het overleg worden deelgenomen.
 
 7. De leden van de Commissie kunnen zich na overleg met de voorzitter ter vergadering voor de behandeling van een bepaald onderwerp door deskundigen laten bijstaan.
 
@@ -162,7 +158,7 @@ De verenigingen van ambtenaren die vertegenwoordigd zijn in de Commissie, doen a
 
 ##### Artikel 6
 
-1. De in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006518&hoofdstuk=II&afdeling=1&artikel=3&z=2013-07-26&g=2017-01-01), bedoelde aangelegenheden worden door de voorzitter op de agenda van het overleg met de Commissie geplaatst.
+1. De in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006518&hoofdstuk=II&afdeling=1&artikel=3&z=2017-06-23&g=2017-06-23), bedoelde aangelegenheden worden door de voorzitter op de agenda van het overleg met de Commissie geplaatst.
 
 2. Elke tot de Commissie toegelaten vereniging van ambtenaren is bevoegd aan de voorzitter van het overleg met de Commissie bepaalde tot de competentie van de Commissie behorende onderwerpen ter plaatsing op de agenda op te geven.
 
@@ -182,7 +178,7 @@ Onze Minister verleent zijn bemiddeling om aan de Commissie een lokaliteit in ee
 
 1. Indien het wenselijk blijkt voorbereidende besprekingen te voeren of in de Commissie genomen besluiten uit te werken, geschiedt dit door werkgroepen, bestaande uit vertegenwoordigers van de Commissie en door Onze Minister daartoe aangewezen functionarissen.
 
-2. [Artikel 4, zesde en zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006518&hoofdstuk=II&afdeling=1&artikel=4&z=2013-07-26&g=2017-01-01), is van overeenkomstige toepassing.
+2. [Artikel 4, zesde en zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006518&hoofdstuk=II&afdeling=1&artikel=4&z=2017-06-23&g=2017-06-23), is van overeenkomstige toepassing.
 
 ##### Artikel 10
 
@@ -258,19 +254,7 @@ Vervallen
 
 ##### Artikel 22a
 
-1. Er is een Commissie LSOP.
-
-2. Over aangelegenheden van algemeen belang voor de rechtstoestand van de ambtenaar, met inbegrip van de algemene regels volgens welke het personeelsbeleid zal worden gevoerd, die uitsluitend de ambtenaren van het LSOP betreffen en bovendien niet ontleend zijn aan noch vergelijkbaar zijn met een aangelegenheid als bedoeld in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006518&hoofdstuk=II&afdeling=1&artikel=3&z=2013-07-26&g=2017-01-01), wordt niet beslist dan nadat daarover door of namens de bestuursraad van het LSOP overleg is gepleegd met de Commissie LSOP.
-
-3. Het tweede lid blijft buiten toepassing:
-
-- a. met betrekking tot bij of krachtens de wet gegeven regels over aangelegenheden waarover overleg is gepleegd met de Commissie indien die regels onverkort van toepassing zijn op de ambtenaar;
-
-- b. indien Onze Minister overleg met de Commissie wenselijk acht of de voorzitter van het overleg met de Commissie LSOP dan wel één van de leden van de Commissie LSOP aan Onze Minister kenbaar maakt dat overleg te wensen.
-
-4. Het in het derde lid, onder **b**, bedoelde overleg met de Commissie vindt eerst plaats nadat zij het standpunt van de Commissie LSOP terzake in afschrift heeft ontvangen.
-
-5. Een voorstel strekkende tot invoering of wijziging van een regeling met rechten of verplichtingen van individuele ambtenaren, die een uitwerking is van een voorstel waarover in het in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006518&hoofdstuk=II&afdeling=1&artikel=2&z=2013-07-26&g=2017-01-01), bedoelde overleg overeenstemming is bereikt, wordt slechts ten uitvoer gebracht indien daarover overeenstemming bestaat met de Commissie LSOP.
+Vervallen
 
 ### Afdeling 4B. Het overleg met de Commissie voorziening tot samenwerking
 
@@ -290,9 +274,7 @@ Voor de toepassing van deze afdeling wordt verstaan onder:
 
 ##### Artikel 24
 
-1. Deze afdeling is van toepassing op geschillen in aangelegenheden als bedoeld in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006518&hoofdstuk=II&afdeling=1&artikel=3&z=2013-07-26&g=2017-01-01).
-
-2. Deze afdeling is van overeenkomstige toepassing op geschillen inzake aangelegenheden als bedoeld in [artikel 22a](https://wetten.overheid.nl/jci1.3:c:BWBR0006518&hoofdstuk=II&afdeling=4A&artikel=22a&z=2013-07-26&g=2017-01-01), met dien verstande dat onder de Commissie wordt verstaan: de Commissie LSOP.
+Deze afdeling is van toepassing op geschillen in aangelegenheden als bedoeld in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006518&hoofdstuk=II&afdeling=1&artikel=3&z=2017-06-23&g=2017-06-23).
 
 ##### Artikel 25
 
@@ -300,7 +282,7 @@ Indien de voorzitter dan wel één of meer van de tot de Commissie toegelaten ve
 
 ##### Artikel 26
 
-1. Binnen vijf dagen na de kennisgeving, bedoeld in [artikel 25](https://wetten.overheid.nl/jci1.3:c:BWBR0006518&hoofdstuk=II&afdeling=5&artikel=25&z=2013-07-26&g=2017-01-01), schrijft de voorzitter een overlegvergadering uit. De vergadering moet worden gehouden binnen zeven dagen nadat deze is uitgeschreven.
+1. Binnen vijf dagen na de kennisgeving, bedoeld in [artikel 25](https://wetten.overheid.nl/jci1.3:c:BWBR0006518&hoofdstuk=II&afdeling=5&artikel=25&z=2017-06-23&g=2017-06-23), schrijft de voorzitter een overlegvergadering uit. De vergadering moet worden gehouden binnen zeven dagen nadat deze is uitgeschreven.
 
 2. Tenzij door de voorzitter en de Commissie wordt besloten het overleg voort te zetten dan wel te beëindigen wordt in de vergadering nagegaan of overeenstemming bestaat over de vraag wat het onderwerp en de inhoud van het geschil is en of een oplossing van dat geschil zal worden gezocht door middel van voortzetting van het overleg nadat het advies is ingewonnen van de Advies- en Arbitragecommissie, dan wel door middel van onderwerping van het geschil aan een arbitrale uitspraak van de Advies- en Arbitragecommissie.
 
@@ -310,7 +292,7 @@ Indien de voorzitter dan wel één of meer van de tot de Commissie toegelaten ve
 
 ##### Artikel 27
 
-1. Binnen drie dagen na de vergadering, bedoeld in [artikel 26](https://wetten.overheid.nl/jci1.3:c:BWBR0006518&hoofdstuk=II&afdeling=5&artikel=26&z=2013-07-26&g=2017-01-01), wordt het verzoek om advies ter kennis gebracht van de voorzitter van de Advies- en Arbitragecommissie. Het verzoek wordt ondertekend door de deelnemers aan het overleg die zich voor inwinning van advies hebben uitgesproken en bevat tenminste het onderwerp en de inhoud van het geschil. Indien in de vergadering, bedoeld in [artikel 26](https://wetten.overheid.nl/jci1.3:c:BWBR0006518&hoofdstuk=II&afdeling=5&artikel=26&z=2013-07-26&g=2017-01-01), geen overeenstemming is bereikt tussen alle deelnemers aan het overleg over de vraag wat het onderwerp en de inhoud van het geschil is, brengen de overige deelnemers aan het overleg hun visie op het onderwerp en de inhoud van het geschil eveneens binnen drie dagen na eerdergenoemde vergadering ter kennis van de voorzitter van de Advies- en Arbitragecommissie.
+1. Binnen drie dagen na de vergadering, bedoeld in [artikel 26](https://wetten.overheid.nl/jci1.3:c:BWBR0006518&hoofdstuk=II&afdeling=5&artikel=26&z=2017-06-23&g=2017-06-23), wordt het verzoek om advies ter kennis gebracht van de voorzitter van de Advies- en Arbitragecommissie. Het verzoek wordt ondertekend door de deelnemers aan het overleg die zich voor inwinning van advies hebben uitgesproken en bevat tenminste het onderwerp en de inhoud van het geschil. Indien in de vergadering, bedoeld in [artikel 26](https://wetten.overheid.nl/jci1.3:c:BWBR0006518&hoofdstuk=II&afdeling=5&artikel=26&z=2017-06-23&g=2017-06-23), geen overeenstemming is bereikt tussen alle deelnemers aan het overleg over de vraag wat het onderwerp en de inhoud van het geschil is, brengen de overige deelnemers aan het overleg hun visie op het onderwerp en de inhoud van het geschil eveneens binnen drie dagen na eerdergenoemde vergadering ter kennis van de voorzitter van de Advies- en Arbitragecommissie.
 
 2. Het eerste lid, eerste volzin, is van overeenkomstige toepassing ten aanzien van het onderwerpen van het geschil aan een arbitrale uitspraak. Het verzoek daartoe wordt ondertekend door alle deelnemers aan het overleg en dient ten minste te bevatten:
 
@@ -320,7 +302,7 @@ Indien de voorzitter dan wel één of meer van de tot de Commissie toegelaten ve
 
 ##### Artikel 28
 
-1. Met betrekking tot de samenstelling van de Advies- en Arbitragecommissie is [artikel 110h, eerste lid, van het ARAR](https://wetten.overheid.nl/jci1.3:c:BWBR0001950&artikel=110h), van toepassing met dien verstande dat deze commissie voor de behandeling van een geschil, bedoeld in [artikel 26, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006518&hoofdstuk=II&afdeling=5&artikel=26&z=2013-07-26&g=2017-01-01), wordt uitgebreid met twee bijzondere leden.
+1. Met betrekking tot de samenstelling van de Advies- en Arbitragecommissie is [artikel 110h, eerste lid, van het ARAR](https://wetten.overheid.nl/jci1.3:c:BWBR0001950&artikel=110h), van toepassing met dien verstande dat deze commissie voor de behandeling van een geschil, bedoeld in [artikel 26, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006518&hoofdstuk=II&afdeling=5&artikel=26&z=2017-06-23&g=2017-06-23), wordt uitgebreid met twee bijzondere leden.
 
 2. De bijzondere leden, bedoeld in het eerste lid, worden door Onze Minister benoemd voor een periode van ten hoogste vier jaren. Herbenoeming kan twee maal en telkens voor ten hoogste vier jaar plaatsvinden.
 
@@ -330,7 +312,9 @@ Indien de voorzitter dan wel één of meer van de tot de Commissie toegelaten ve
 
 - a. personen die ingevolge [artikel 110g, vierde lid, van het ARAR](https://wetten.overheid.nl/jci1.3:c:BWBR0001950&artikel=110g) zijn uitgesloten van het lidmaatschap of van het plaatsvervangend lidmaatschap;
 
-- b. personen die lid of plaatsvervangend lid zijn van de Commissie, de Commissie LSOP dan wel van wie dit lidmaatschap of plaatsvervangend lidmaatschap nog niet langer dan twee jaar is beëindigd.
+- b. personen die lid of plaatsvervangend lid zijn van de Commissie dan wel van wie dit lidmaatschap of plaatsvervangend lidmaatschap nog niet langer dan twee jaar is beëindigd;
+
+- c. personen van wie het lidmaatschap of plaatsvervangend lidmaatschap van de Commissie LSOP, zoals deze commissie bestond tot 1 januari 2017, nog niet langer dan twee jaar is beëindigd.
 
 5. Overeenkomstig de aan de leden en de plaatsvervangende leden te verlenen vergoedingen worden aan de bijzondere leden uit 's Rijks kas vergoedingen voor reis- en verblijfkosten verleend volgens de regelen welke voor de vergoeding voor reis- en verblijfkosten wegens reizen voor 's Rijks dienst gelden.
 
@@ -340,7 +324,7 @@ Indien de voorzitter dan wel één of meer van de tot de Commissie toegelaten ve
 
 ##### Artikel 29
 
-Voor zover de samenstelling van de Advies- en Arbitragecommissie overeenkomstig [artikel 28, eerste of tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006518&hoofdstuk=II&afdeling=5&artikel=28&z=2013-07-26&g=2017-01-01), daartoe aanleiding geeft stelt zij nadere regels vast met betrekking tot haar werkwijze.
+Voor zover de samenstelling van de Advies- en Arbitragecommissie overeenkomstig [artikel 28, eerste of tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006518&hoofdstuk=II&afdeling=5&artikel=28&z=2017-06-23&g=2017-06-23), daartoe aanleiding geeft stelt zij nadere regels vast met betrekking tot haar werkwijze.
 
 ##### Artikel 30
 
@@ -356,7 +340,7 @@ Voor zover de samenstelling van de Advies- en Arbitragecommissie overeenkomstig 
 
 3. Het advies of de uitspraak wordt gedagtekend en door ieder der optredende leden en bijzondere leden van de Advies- en Arbitragecommissie ondertekend.
 
-4. De voorzitter draagt er zorg voor dat het advies of de uitspraak binnen vier weken, nadat de kennisgeving, bedoeld in [artikel 27](https://wetten.overheid.nl/jci1.3:c:BWBR0006518&hoofdstuk=II&afdeling=5&artikel=27&z=2013-07-26&g=2017-01-01), is ontvangen, aan de deelnemers aan het overleg ter kennis wordt gebracht.
+4. De voorzitter draagt er zorg voor dat het advies of de uitspraak binnen vier weken, nadat de kennisgeving, bedoeld in [artikel 27](https://wetten.overheid.nl/jci1.3:c:BWBR0006518&hoofdstuk=II&afdeling=5&artikel=27&z=2017-06-23&g=2017-06-23), is ontvangen, aan de deelnemers aan het overleg ter kennis wordt gebracht.
 
 ##### Artikel 31
 
@@ -504,9 +488,7 @@ Vervallen
 
 ##### Artikel 63
 
-1. Onze Minister kan, in overeenstemming met de Commissie, besluiten het overleg met de Commissie LSOP, bedoeld in [afdeling 4A van hoofdstuk II](https://wetten.overheid.nl/jci1.3:c:BWBR0006518&hoofdstuk=II&afdeling=4A&z=2013-07-26&g=2017-01-01), op te schorten.
-
-2. Onze Minister kan, in overeenstemming met de Commissie, bij het besluit om het overleg op te schorten tevens bepalen dat over de in voormelde afdelingen bedoelde aangelegenheden van algemeen belang voor de rechtstoestand van de ambtenaar, overlegd zal worden, overeenkomstig het bepaalde in [afdeling 1](https://wetten.overheid.nl/jci1.3:c:BWBR0006518&hoofdstuk=II&afdeling=1&z=2013-07-26&g=2017-01-01), met voormelde Commissie.
+Vervallen
 
 ##### Artikel 64
 
@@ -524,91 +506,39 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 ##### Artikel 22ab
 
-1. De Commissie LSOP bestaat uit vertegenwoordigers van:
-
-- a. de verenigingen van ambtenaren, bedoeld in [artikel 2, tweede lid, onder a tot en met d](https://wetten.overheid.nl/jci1.3:c:BWBR0006518&hoofdstuk=II&afdeling=1&artikel=2&z=2013-07-26&g=2017-01-01);
-
-- b. andere door de bestuursraad van het LSOP tot het overleg toegelaten verenigingen van ambtenaren die eveneens representatief zijn, onder meer gelet op het aantal ambtenaren dat zij vertegenwoordigen en welke aangesloten zijn bij een Centrale en tegen wier toelating het algemeen belang zich niet verzet.
-
-2. Elke vereniging van ambtenaren, bedoeld in het eerste lid, is bevoegd tot aanwijzing van twee leden en twee plaatsvervangende leden van de Commissie LSOP. Indien verschillende verenigingen van ambtenaren zijn aangesloten bij dezelfde centrale, zijn deze verenigingen slechts gezamenlijk bevoegd tot aanwijzing van vertegenwoordigers.
-
-3. De bestuursraad van het LSOP kan een toelating tot het overleg krachtens het tweede lid schorsen en een toelating tot het overleg krachtens het eerste lid, onder b, intrekken, indien naar zijn oordeel de vereniging van ambtenaren niet meer representatief is, dan wel indien het algemeen belang zich tegen haar verdere toelating verzet.
-
-4. Schorsing onderscheidenlijk intrekking van de toelating tot de Commissie van een vereniging van ambtenaren heeft van rechtswege ten gevolge schorsing onderscheidenlijk intrekking van de toelating tot Commissie LSOP.
-
-5. In afwijking van het eerste lid, kan Onze Minister, de Commissie gehoord, bepalen dat ook verenigingen van ambtenaren die niet zijn aangesloten bij een Centrale, tot de Commissie LSOP worden toegelaten.
+Vervallen
 
 ##### Artikel 22ac
 
-1. Over aangelegenheden van algemeen belang voor de rechtstoestand van de ambtenaar, met inbegrip van de algemene regels volgens welke het personeelsbeleid zal worden gevoerd, die uitsluitend het LSOP bestreffen en bovendien niet ontleend zijn aan noch vergelijkbaar zijn met een aangelegenheid als bedoeld in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006518&hoofdstuk=II&afdeling=1&artikel=3&z=2013-07-26&g=2017-01-01), wordt niet beslist dan nadat daarover door of namens de bestuursraad van het LSOP overleg is gepleegd met de Commissie LSOP.
-
-2. het eerste lid blijft buiten toepassing:
-
-- a. met betrekking tot bij of krachtens de wet gegeven regels over aangelegenheden waarover overleg is gepleegd met de Commissie indien die regels onverkort van toepassing zijn op de ambtenaar;
-
-- b. indien Onze Minister overleg met de Commissie wenselijk acht of de voorzitter van het overleg met de Commissie LSOP dan wel een van de leden van de Commissie LSOP aan Onze Minister kenbaar maakt dat overleg te wensen.
-
-3. het in het tweede lid, onder b, bedoelde overleg met de Commissie vindt eerst plaats nadat zij het standpunt van de Commissie LSOP ter zake in afschrift heeft ontvangen.
-
-4. Een voorstel strekkende tot invoering of wijziging van een regeling met rechten of verplichtingen van individuele ambtenaren, die een uitwerking is van een voorstel waarover in het in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006518&hoofdstuk=II&afdeling=1&artikel=2&z=2013-07-26&g=2017-01-01), bedoelde overleg overeenstemming is bereikt, wordt slechts ter uitvoer gebracht indien daarover overeenstemming bestaat met de Commissie LSOP.
+Vervallen
 
 ##### Artikel 22ad
 
-1. Het overleg staat onder voorzitterschap van de bestuursraad van het LSOP.
-
-2. De bestuursraad van het LSOP wijst een lid aan van als plaatsvervangend voorzitter.
-
-3. De voorzitter wordt tijdens het overleg ter zijde gestaan door functionarissen die daartoe door de bestuursraad van het LSOP worden aangewezen.
-
-4. het secretariaat van het overleg wordt gevoerd door een door de bestuursraad van het LSOP benoemde secretaris of daartoe aangewezen functionaris, die onder leiding van de voorzitter die beschikbaar staat van deze, van de in het derde lid bedoelde functionarissen en van de leden van de Commissie LSOP. De benoeming van de secretaris of de aanwijzing van een functionaris daartoe geschiedt, de Commissie LSOP gehoord.
-
-5. De behandeling van bepaalde aangelegenheden kan op uitnodiging of met toestemming van de voorzitter ook door anderen dan degenen die daartoe ingevolge [artikel 22ab](https://wetten.overheid.nl/jci1.3:c:BWBR0006518&hoofdstuk=II&afdeling=4A&artikel=22ab&z=2013-07-26&g=2017-01-01) gerechtigd zijn, aan het overleg worden deelgenomen.
-
-6. De leden van de Commissie LSOP kunnen zich na overleg met de voorzitter ter vergadering voor de behandeling van een bepaald onderwerp door deskundigen laten bijstaan.
+Vervallen
 
 ##### Artikel 22ae
 
-De verenigingen van ambtenaren die vertegenwoordigd zijn in de Commissie LSOP stellen de bestuursraad van het LSOP jaarlijks in kennis van het ledental van het LSOP. De verenigingen van ambtenaren die niet tevens in de Commissie zijn vertegenwoordigd, doen aan de bestuursraad van het LSOP bovendien mededeling van hun statuten en huishoudelijke reglementen en van de daarin aangebrachte wijzigingen.
+Vervallen
 
 ##### Artikel 22af
 
-1. De in artikel 22ac, eerste lid, bedoelde aangelegenheden worden door de voorzitter op de agenda van het overleg met de Commissie LSOP geplaatst.
-
-2. Elke tot de Commissie LSOP toegelaten vereniging van ambtenaren is bevoegd aan de voorzitter van het overleg met de Commissie LSOP bepaalde tot de competentie van de Commissie LSOP behorende onderwerpen ter plaatse op de agenda op te geven.
-
-3. Indien bij de behandeling van een aangelegenheid in het overleg met de Commissie LSOP blijkt dat zij niet uitsluitend bij het LSOP regardeert, wordt zij verwezen naar het overleg met de Commissie.
+Vervallen
 
 ##### Artikel 22ag
 
-1. Het overleg wordt gevoerd op plaats, dag en uur door de voorzitter te bepalen.
-
-2. Indien de vertegenwoordigers van ten minste twee tot het overleg toegelaten verenigingen van ambtenaren de voorzitter, onder vermelding van hetgeen zij behandeld wensen te zien, verzoeken daartoe een vergadering uit te schrijven, vindt deze binnen 14 dagen plaats.
-
-3. De bestuursraad van het LSOP verleent zijn bemiddeling om aan de Commissie LSOP een lokaliteit ter beschikking te stellen, indien de Commissie daartoe een verzoek doet, ten behoeve van een door haar te houden vergadering.
+Vervallen
 
 ##### Artikel 22ah
 
-1. Indien wenselijk blijkt voorbereidende gesprekken te voeren of in de Commissie LSOP genomen besluiten uit te werken, geschiedt dit door werkgroepen, bestaande uit vertegenwoordigers van de Commissie LSOP en de door de bestuursraad van het LSOP aangewezen functionarissen.
-
-2. [Artikel 22ad, vijfde en zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006518&hoofdstuk=II&afdeling=4A&artikel=22ad&z=2013-07-26&g=2017-01-01), is van overeenkomstige toepassing.
+Vervallen
 
 ##### Artikel 22ai
 
-1. Het standpunt van de Commissie LSOP wordt bepaald bij eenvoudige meerderheid van stemmen. Elke vereniging van ambtenaren brengt een stem uit. Indien de stemmen binnen de Commissie LSOP staken, beslist de voorzitter van het overleg met de Commissie LSOP of het voorstel tot uitvoer wordt gebracht.
-
-2. Het standpunt van de Commissie LSOP over in het overleg besproken aangelegenheden wordt schriftelijk aan de bestuursraad en aan de voorzitter van het overleg, bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006518&hoofdstuk=II&afdeling=1&artikel=2&z=2013-07-26&g=2017-01-01), medegedeeld. De Commissie LSOP geeft desverlangd een samenvatting van de aan het standpunt ten grondslag liggende argumenten.
-
-3. Indien in de Commissie LSOP een minderheidsstandpunt blijkt te bestaan, wordt daarvan desverlangd in de in het tweede lid bedoelde geschriften melding gemaakt.
-
-4. Indien over een aangelegenheid wordt beslist in afwijking van het standpunt van de meerderheid van de leden van de Commissie LSOP, worden de redenen van die afwijking zo spoedig mogelijk ter kennis van de Commissie LSOP gebracht.
+Vervallen
 
 ##### Artikel 22aj
 
-1. Van het in vergaderingen van het overleg en de werkgroepen behandelde maakt de secretaris notulen. Bovendien kan op verzoek van de leden van de Commissie LSOP of van de voorzitter van het overleg een verslag worden opgemaakt bevattende een beknopte samenvatting van het behandelde in het overleg met de Commissie LSOP, voor zover dat voor openbaarmaking geschikt kan worden geacht.
-
-2. Na overleg met de Commissie LSOP dan wel de door deze in de betrokken werkgroep aangewezen leden, kan de voorzitter ten aanzien van het in vorenbedoelde vergaderingen behandelde geheimhouding opleggen.
-
-3. De plicht tot geheimhouding geldt niet voor zover de leden van de Commissie LSOP dan wel de door haar in de betrokken werkgroep aangewezen leden in bespreking zijn getreden met de door hen vertegenwoordigde verenigingen of de Centrales waarbij hun verenigingen zijn aangesloten.
+Vervallen
 
 ### Afdeling 4B. Het overleg met de Commissie voorziening tot samenwerking
 
@@ -630,6 +560,6 @@ De verenigingen van ambtenaren die vertegenwoordigd zijn in de Commissie LSOP st
 
 ##### Artikel 63a
 
-Dit besluit berust op [artikel 47, eerste lid, van de Politiewet 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&artikel=47).
+Dit besluit berust op de [artikelen 47, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&artikel=47), en [81, eerste lid, van de Politiewet 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&artikel=81).
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het **Staatsblad** zal worden geplaatst.
