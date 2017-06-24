@@ -157,9 +157,3 @@ Dit besluit treedt in werking een maand na de datum van uitgifte van het Staatsb
 Dit besluit wordt aangehaald als: Besluit infrastructuur alternatieve brandstoffen.
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
-
-##### Artikel 8a
-
-Dit besluit berust mede op [artikel 6.14 van de Energiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0050714&artikel=6.14).
-
-Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
