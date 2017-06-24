@@ -4,7 +4,7 @@ identifier: "BWBR0038053"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2017-06-24"
-last_updated: "2016-07-01"
+last_updated: "2017-06-24"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0038053"
 soort: "ministeriele-regeling"
@@ -44,41 +44,47 @@ Besluit:
 
 In deze regeling wordt verstaan onder:
 
-- **haalbaarheidsproject:** project bedoeld in artikel 2, onderdeel 87, van de algemene groepsvrijstellingsverordening dat leidt tot een inschatting van technische innovatie en economische mogelijkheden van een voorgenomen pilotproject en het beoogde eindresultaat;
+- **haalbaarheidsproject:** project als bedoeld in artikel 2, onderdeel 87, van de algemene groepsvrijstellingsverordening waarbij wordt onderzocht of en onder welke technische, financiële en juridische condities een voorgenomen pilotproject kan worden geïmplementeerd;
 
-- **Kaderbesluit:** [Kaderbesluit subsidies I en M](https://wetten.overheid.nl/jci1.3:c:BWBR0036381&wetgeving);
+- **Kaderbesluit:** [Kaderbesluit subsidies I en M](https://wetten.overheid.nl/jci1.3:c:BWBR0036381);
 
 - **Minister:** Minister van Infrastructuur en Milieu;
 
 - **onderzoeksorganisatie:** organisatie voor onderzoek en kennisverspreiding als bedoeld in artikel 2, onderdeel 83, van de algemene groepsvrijstellingsverordening;
 
-- **pilotproject:** project betreffende experimentele ontwikkeling, bedoeld in artikel 2, onderdeel 86, van de algemene groepsvrijstellingsverordening waarbij sprake is van het verwerven, combineren, vormgeven en gebruiken van bestaande wetenschappelijke, technologische, zakelijke en andere relevante kennis en vaardigheden, gericht op het ontwikkelen van nieuwe of verbeterde producten, procedés of diensten;
+- **pilotproject:** project betreffende experimentele ontwikkeling als bedoeld in artikel 2, onderdeel 86, van de algemene groepsvrijstellingsverordening, waarbij sprake is van het verwerven, combineren, vormgeven en gebruiken van bestaande wetenschappelijke, technologische, zakelijke en andere relevante kennis en vaardigheden, gericht op het demonstreren van een nieuw of verbeterd product of een nieuwe of verbeterde technologie, dienst of aanpak;
 
-- **stedelijke delta's en toeleverende systemen:** systeem van stedelijke delta’s en de waardeketens en stroomgebieden, die hen onder andere van voedsel, water, energie en kennis voorzien;
+- **stedelijke delta’s en toeleverende systemen:** sterk verstedelijkte gebieden met een omliggend gebied waarin zich allerlei waterrelevante processen afspelen, zoals voedsel-, energie en waterproductie, die van invloed zijn op dan wel een connectie hebben met de stad;
 
 - **waterveiligheid en waterzekerheid:** bescherming tegen water gerelateerde risico's, duurzame toegang tot voldoende water van acceptabele kwaliteit, bescherming tegen watervervuiling, behoud van ecosystemen, duurzame ontwikkeling van havens en vaarwegen niet zijnde activiteiten aan de wal.
 
 ##### Artikel 2. Doel van de regeling
 
-Deze regeling heeft als doel het stimuleren van de inzet van vernieuwende Nederlandse kennis en kunde ten behoeve van waterveiligheid en waterzekerheid in stedelijke delta's en toeleverende systemen in het buitenland.
+Deze regeling heeft als doel het stimuleren van de inzet van vernieuwende en innovatieve Nederlandse kennis en kunde ten behoeve van waterveiligheid en waterzekerheid in stedelijke delta's en toeleverende systemen in het buitenland.
 
 ##### Artikel 3. Verstrekken van subsidie
 
-Onze Minister kan op aanvraag subsidie verstrekken voor de uitvoering van haalbaarheids- of pilotprojecten die het bereiken van het in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0038053&artikel=2&z=2016-07-01&g=2016-07-01) genoemde doel beogen en betrekking hebben op een of meer van de volgende thema's:
+1. Onze Minister kan op aanvraag subsidie verstrekken voor de uitvoering van haalbaarheids- of pilotprojecten die
 
-- a. drinkwater en sanitatie;
+- a. het bereiken van het in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0038053&artikel=2&z=2017-06-24&g=2017-06-24) genoemde doel beogen,
 
-- b. governance;
+- b. in een land uit de categorie A of B, als bedoeld in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0038053&bijlage=1&z=2017-06-24&g=2017-06-24) bij deze regeling worden uitgevoerd, en
 
-- c. duurzame ontwikkeling van vaarwegen en havens niet zijnde activiteiten aan de wal;
+- c. betrekking hebben op één of meer van de volgende thema's:
 
-- d. klimaat;
+- 1°. drinkwater en sanitatie;
 
-- e. veiligheid;
+- 2°. duurzame ontwikkeling van vaarwegen en havens niet zijnde activiteiten aan de wal;
 
-- f. voedsel en ecosystemen;
+- 3°. klimaat;
 
-- g. water en energie.
+- 4°. veiligheid;
+
+- 5°. voedsel en ecosystemen;
+
+- 6°. water en energie;
+
+2. Onze Minister kan op aanvraag subsidie verstrekken voor de uitvoering van pilotprojecten die het bereiken van het in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0038053&artikel=2&z=2017-06-24&g=2017-06-24) genoemde doel beogen, die in een land uit de categorie A of B, bedoeld in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0038053&bijlage=1&z=2017-06-24&g=2017-06-24) bij deze regeling, worden uitgevoerd en die naast een in het eerste lid genoemde thema ook governance elementen omvat.
 
 ##### Artikel 4. Subsidieplafond en wijze van verdelen
 
@@ -86,31 +92,37 @@ Onze Minister kan op aanvraag subsidie verstrekken voor de uitvoering van haalba
 
 2. Het subsidieplafond voor 2017 bedraagt € 4.000.000, waarvan € 2.000.000 beschikbaar is voor de eerste aanvraagperiode en € 2.000.000 voor de tweede aanvraagperiode.
 
-3. De Minister stelt het subsidieplafond voor de daaropvolgende jaren vast en maakt dit bekend in de Staatscourant voor de aanvang van het tijdvak waarvoor het wordt vastgesteld.
+3. Het subsidieplafond voor zowel 2018 als 2019 bedraagt € 4.000.000, waarvan € 2.000.000 beschikbaar is voor de eerste aanvraagperiode en € 2.000.000 voor de tweede aanvraagperiode.
 
-4. De verdeling van de beschikbare gelden vindt plaats op basis van rangschikking van de aanvragen.
+4. De Minister stelt het subsidieplafond voor de daaropvolgende jaren vast en maakt dit bekend in de Staatscourant voor de aanvang van het tijdvak waarvoor het wordt vastgesteld.
 
-5. Indien het bedrag dat in een periode beschikbaar is voor aanvragen voor haalbaarheids- dan wel pilotprojecten niet volledig wordt benut, wordt het resterende bedrag toegevoegd aan het in die periode beschikbare bedrag voor aanvragen voor de andere projectsoort dat nog niet volledig is benut.
+5. De verdeling van de beschikbare gelden vindt plaats op basis van rangschikking van de aanvragen.
+
+6. Indien het bedrag dat in een periode beschikbaar is voor aanvragen voor haalbaarheids- dan wel pilotprojecten niet volledig wordt benut, wordt het resterende bedrag toegevoegd aan het in die periode beschikbare bedrag voor aanvragen voor de andere projectsoort dat nog niet volledig is benut.
+
+7. In afwijking van het vijfde lid vindt, indien een gevraagde subsidie niet geheel doch voor ten minste 70% kan worden verstrekt omdat het subsidieplafond bijna is bereikt, overleg plaats met de desbetreffende aanvrager over het al dan niet geven van een beschikking houdende een afwijking van het subsidiebedrag dat is gevraagd.
 
 ##### Artikel 5. Aanvraagperioden en reservering per projectsoort
 
-1. In 2016 kan een aanvraag tot subsidieverlening bij de Minister worden ingediend met ingang van 15 juli 2016 tot en met uiterlijk 31 augustus 2016.
+1. In 2017 kan een aanvraag tot subsidieverlening bij de Minister worden ingediend van 3 juli 2017 12.00 uur tot en met 15 september 2017 12.00 uur.
 
-2. In 2017 kan een aanvraag tot subsidieverlening bij de Minister worden ingediend met ingang van 9 januari 2017 tot en met uiterlijk 10 februari 2017 respectievelijk met ingang van 3 juli 2017 tot en met uiterlijk 15 september 2017.
+2. In 2018 kan een aanvraag tot subsidieverlening bij de Minister worden ingediend van 8 januari 2018 tot 9 februari 2018 12:00 uur en van 2 juli 2018 tot 7 september 2018 12:00 uur.
 
-3. In de aanvraagperiode in 2016 is € 450.000 gereserveerd voor haalbaarheidsprojecten en € 2.550.000 gereserveerd voor pilotprojecten.
+3. In 2019 kan een aanvraag tot subsidieverlening bij de Minister worden ingediend met ingang van 7 januari 2019 tot en met uiterlijk 8 februari 2019 12:00 en van 1 juli 2019 tot en met uiterlijk 6 september 2019 12:00.
 
-4. In elke aanvraagperiode in 2017 is telkens € 300.000 gereserveerd voor haalbaarheidsprojecten en € 1.700.000 voor pilotprojecten.
+4. In elke aanvraagperiode in 2017, 2018 en 2019 is telkens € 300.000 gereserveerd voor haalbaarheidsprojecten en € 1.700.000 voor pilotprojecten.
 
-5. De Minister kan voor de daaropvolgende jaren per kalenderjaar een of meer aanvraagperioden vaststellen en maakt dit bekend in de Staatscourant voor de aanvang van het tijdvak waarvoor de aanvraagperioden worden vastgesteld.
+5. De Minister kan voor jaren 2020 en 2021 per kalenderjaar een of meer aanvraagperioden vaststellen en maakt dit bekend in de Staatscourant voor de aanvang van het tijdvak waarvoor de aanvraagperioden worden vastgesteld.
 
 ##### Artikel 6. Aanvragers en aanvraagformulier
 
 1. Een aanvraag kan uitsluitend worden ingediend door een onderneming, onderzoeksorganisatie, of non-gouvernementele organisatie.
 
-2. Ingeval van een samenwerkingsverband van ondernemingen, onderzoeksorganisaties of non-gouvernementele organisaties, kan een aanvraag worden ingediend door een aanvrager, bedoeld in het eerste lid, die optreedt als penvoerder van het samenwerkingsverband.
+2. Ingeval van een samenwerkingsverband van ondernemingen, onderzoeksorganisaties of non-gouvernementele organisaties, kan een aanvraag worden ingediend door een aanvrager, bedoeld in het eerste lid, die optreedt als penvoerder van het samenwerkingsverband. Een waterschap handelend als ondernemer kan niet als penvoerder van het samenwerkingsverband een aanvraag indienen.
 
 3. Een aanvraag wordt ingediend met gebruikmaking van een door de Minister beschikbaar gesteld digitaal formulier geplaatst op de website van de Rijksdienst voor Ondernemend Nederland.
+
+4. Een aanvraag kan alleen worden ingediend nadat de aanvrager een intakegesprek met de Rijksdienst voor Ondernemend Nederland heeft gehad.
 
 ##### Artikel 7. Subsidiabele kosten en standaardberekeningswijze uurtarieven
 
@@ -128,13 +140,13 @@ Onze Minister kan op aanvraag subsidie verstrekken voor de uitvoering van haalba
 
 ##### Artikel 8. Berekening subsidiabele kosten bij toepassing integrale kostensystematiek
 
-1. Bij het hanteren van uurtarieven die tot stand zijn gekomen met de standaardberekeningswijze bedoeld in [artikel 7, derde lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0038053&artikel=7&z=2016-07-01&g=2016-07-01), worden de directe en indirecte kosten per kostendrager in een tarief per eenheid van deze kostendrager berekend.
+1. Bij het hanteren van uurtarieven die tot stand zijn gekomen met de standaardberekeningswijze bedoeld in [artikel 7, derde lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0038053&artikel=7&z=2017-06-24&g=2017-06-24), worden de directe en indirecte kosten per kostendrager in een tarief per eenheid van deze kostendrager berekend.
 
 2. De subsidiabele kosten worden berekend door het aantal eenheden van de kostendrager te vermenigvuldigen met het ingevolge het eerste lid berekende tarief, vermeerderd met de aan derden betaalde kosten voor zover deze geen deel uitmaken van het ingevolge het eerste lid vastgestelde tarief.
 
 ##### Artikel 9. Berekening subsidiabele kosten bij toepassing kosten per kostendrager met opslag
 
-1. Bij het hanteren van uurtarieven die tot stand zijn gekomen met de standaardberekeningswijze bedoeld in [artikel 7, derde lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0038053&artikel=7&z=2016-07-01&g=2016-07-01), worden de directe loonkosten per uur vermenigvuldigd met het aantal uren dat direct bij de subsidiabele activiteiten betrokken personen ten behoeve van deze activiteiten hebben gewerkt.
+1. Bij het hanteren van uurtarieven die tot stand zijn gekomen met de standaardberekeningswijze bedoeld in [artikel 7, derde lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0038053&artikel=7&z=2017-06-24&g=2017-06-24), worden de directe loonkosten per uur vermenigvuldigd met het aantal uren dat direct bij de subsidiabele activiteiten betrokken personen ten behoeve van deze activiteiten hebben gewerkt.
 
 2. De subsidiabele kosten worden berekend door het ingevolge het eerste lid berekende bedrag te vermeerderen met:
 
@@ -148,7 +160,7 @@ Onze Minister kan op aanvraag subsidie verstrekken voor de uitvoering van haalba
 
 ##### Artikel 10. Berekening met forfaitair uurtarief loonkosten
 
-1. Bij het hanteren van uurtarieven die tot stand zijn gekomen met de standaardberekeningswijze bedoeld in [artikel 7, derde lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0038053&artikel=7&z=2016-07-01&g=2016-07-01), wordt een uurtarief gehanteerd van € 60,– per uur.
+1. Bij het hanteren van uurtarieven die tot stand zijn gekomen met de standaardberekeningswijze bedoeld in [artikel 7, derde lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0038053&artikel=7&z=2017-06-24&g=2017-06-24), wordt een uurtarief gehanteerd van € 60,– per uur.
 
 2. De subsidiabele kosten worden berekend door het ingevolge het eerste lid gehanteerde bedrag te vermenigvuldigen met het aantal uren dat de direct bij de subsidiabele activiteiten betrokken personen ten behoeve van deze activiteiten hebben gewerkt en te vermeerderen met:
 
@@ -174,7 +186,7 @@ Onze Minister kan op aanvraag subsidie verstrekken voor de uitvoering van haalba
 
 - b. de mate waarin het project duurzaamheidsaspecten waarborgt op institutioneel, technisch, milieutechnisch gebied en, indien van toepassing, op het gebied van krachtenbundeling van de deelnemers van het samenwerkingsverband;
 
-- c. de mate waarin het project unieke kwaliteiten op het gebied van waterveiligheid en waterzekerheid in Nederland of ook in het buitenland gevestigde partijen ontsluit;
+- c. de mate waarin het project vernieuwende en innovatieve Nederlandse kennis en kunde op het gebied van waterveiligheid en waterzekerheid in Nederland of ook in het buitenland gevestigde partijen ontsluit;
 
 - d. de kwaliteit van de aanvraag ten aanzien van het activiteitenplan inclusief begroting en de toelichting daarop.
 
@@ -184,17 +196,19 @@ Onze Minister kan op aanvraag subsidie verstrekken voor de uitvoering van haalba
 
 - b. de rangschikkingscriteria genoemd in het tweede lid, onderdeel b, c en d.
 
-4. Aan de rangschikkingscriteria, genoemd in het tweede en derde lid, worden punten toegekend, waarop de wegingsfactoren worden toegepast als vermeld in de tabel opgenomen in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0038053&bijlage=1&z=2016-07-01&g=2016-07-01), wat leidt tot een totaal aantal punten van maximaal 100.
+4. Aan de rangschikkingscriteria, genoemd in het tweede en derde lid, worden punten toegekend, waarop de wegingsfactoren worden toegepast als vermeld in de tabel opgenomen in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0038053&bijlage=2&z=2017-06-24&g=2017-06-24) bij deze regeling, wat leidt tot een totaal aantal punten van maximaal 100.
 
-5. Indien twee of meer aanvragen voor projecten op dezelfde plaats in de rangschikking terechtkomen en deze plaats samenvalt met het op grond van [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0038053&artikel=4&z=2016-07-01&g=2016-07-01), voor die projecten beschikbare deel van het subsidieplafond, wordt door middel van loting de definitieve plaats in de rangschikking bepaald.
+5. In aanvulling op het vierde lid worden aan aanvragen voor projecten die worden uitgevoerd in een land uit de categorie A, bedoeld in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0038053&bijlage=1&z=2017-06-24&g=2017-06-24) bij deze regeling, 4 extra punten toegekend, indien op basis van de beoordeling van de aanvraag minimaal 65% punten zijn toegekend.
+
+6. Indien twee of meer aanvragen voor projecten op dezelfde plaats in de rangschikking terechtkomen en deze plaats samenvalt met het op grond van [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0038053&artikel=4&z=2017-06-24&g=2017-06-24), voor die projecten beschikbare deel van het subsidieplafond, wordt door middel van loting de definitieve plaats in de rangschikking bepaald.
 
 ##### Artikel 13. Afwijzingsgronden
 
 Een subsidie wordt, onverminderd het bepaalde in [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0036381&artikel=11) en [artikel 12 van het Kaderbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0036381&artikel=12), in ieder geval afgewezen indien:
 
-- a. het project wordt uitgevoerd in een land of gebied dat voorkomt op de lijst in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0038053&bijlage=2&z=2016-07-01&g=2016-07-01);
+- a. het project wordt uitgevoerd in een land uit de categorie C, als bedoeld in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0038053&bijlage=1&z=2017-06-24&g=2017-06-24) bij deze regeling;
 
-- b. al een subsidie is verstrekt op grond van deze regeling voor eenzelfde project;
+- b. al een subsidie is verstrekt op grond van deze of een andere regeling voor eenzelfde of vergelijkbaar project;
 
 - c. de subsidieverstrekking niet in overeenstemming is met het bepaalde in de algemene groepsvrijstellingsverordening;
 
@@ -204,7 +218,7 @@ Een subsidie wordt, onverminderd het bepaalde in [artikel 11](https://wetten.ove
 
 - f. de subsidiabele kosten voor een haalbaarheidsproject in totaal minder dan € 25.000 of meer dan € 250.000 bedragen;
 
-- g. het project, op een of meer van de in [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0038053&artikel=12&z=2016-07-01&g=2016-07-01), genoemde criteria, minder dan 65% van de te behalen punten haalt;
+- g. het project, op een of meer van de in [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0038053&artikel=12&z=2017-06-24&g=2017-06-24), genoemde criteria, minder dan 65% van de te behalen punten haalt;
 
 - h. het voorstel niet voldoet aan één of meer van de minimaal benodigde punten per wegingsfactor; of
 
@@ -222,57 +236,27 @@ Deze regeling treedt in werking met ingang van 1 juli 2016 en vervalt met ingang
 
 Deze regeling wordt aangehaald als: Subsidieregeling waterveiligheid en waterzekerheid stedelijke delta's.
 
-## Bijlage 1. behorend bij [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0038053&artikel=12&z=2016-07-01&g=2016-07-01) van de Subsidieregeling waterveiligheid en waterzekerheid stedelijke delta's
+## Bijlage 1. behorend bij de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0038053&artikel=3&z=2017-06-24&g=2017-06-24), [12, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0038053&artikel=12&z=2017-06-24&g=2017-06-24) en [13, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0038053&artikel=13&z=2017-06-24&g=2017-06-24), van de Subsidieregeling waterveiligheid en waterzekerheid stedelijke delta's
 
-| Rangschikkingscriteria | Puntenaantal beoordeling | Wegingsfactor | Uitkomst (maximaal) |
-| --- | --- | --- | --- |
-| Opschaling |   |   |   |
-| A: Haalbaarheidsproject: past in een ketenbenadering en draagt bij aan mogelijkheden tot opschaling: | maximaal 5 minimaal 2 | 6 | 30 |
-| B: Pilotproject: mate waarin na opschaling de potentie bestaat een grote of grotere groep lokale begunstigden te bereiken: | maximaal 5 minimaal 2 | 6 | 30 |
-| Duurzaamheid: |   |   |   |
-| A: Institutioneel | maximaal 5 minimaal 2 | 2 | 10 |
-| B: Technisch | maximaal 5 minimaal 2 | 2 | 10 |
-| C: Milieutechnisch | maximaal 5 minimaal 2 | 2 | 10 |
-| E: Krachtenbundeling (indien van toepassing) | maximaal 5 minimaal 2 | 2 | 10 |
-| Mate waarin het project unieke kwaliteiten op het gebied van waterveiligheid en waterzekerheid ontsluit: | maximaal 5 minimaal 2 | 4 | 20 |
-| Kwaliteit van de aanvraag: | maximaal 5 minimaal 2 | 2 | 10 |
-| Totaal: (100) (Minimum score) |   |   | 100 (65) |
+| Categorie A | Categorie B | Categorie C |
+| --- | --- | --- |
+| Argentinië Bangladesh Chili Colombia Egypte Filipijnen India Indonesië Mexico Mozambique Myanmar Polen Roemenië Singapore Turkije Verenigde Staten Vietnam Zuid-Afrika | Alle landen die niet vallen in categorie A of C. | Afghanistan Bosnië & Herzegovina Burundi Centraal Afrikaanse Republiek Tsjaad Comoren Democratische Republiek Congo Eritrea Guinee-Bissau Irak Haïti Ivoorkust Kiribati Kosovo Libië Liberia Madagaskar Micronesia Oost-Timor Sierra Leone Solomon Eilanden Somalië Zuid Soedan Sudan Syrië Togo Tuvalu Jemen West Bank & Gaza Zimbabwe |
 
-## Bijlage 2. behorend bij [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0038053&artikel=13&z=2016-07-01&g=2016-07-01) van de Subsidieregeling waterveiligheid en waterzekerheid stedelijke delta's
+## Bijlage 2. behorend bij [artikel 12, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0038053&artikel=12&z=2017-06-24&g=2017-06-24), van de Subsidieregeling waterveiligheid en waterzekerheid stedelijke delta's
 
-Landen of gebieden bedoeld in [artikel 13, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0038053&artikel=13&z=2016-07-01&g=2016-07-01)
-
-| Afghanistan |
-| --- |
-| Bosnië & Herzegovina |
-| Burundi |
-| Centraal Afrikaanse Republiek |
-| Tsjaad |
-| Comoren |
-| Democratische Republiek Congo |
-| Eritrea |
-| Guinee-Bissau |
-| Irak |
-| Haïti |
-| Ivoorkust |
-| Kiribati |
-| Kosovo |
-| Libië |
-| Liberia |
-| Madagaskar |
-| Mali |
-| Micronesia |
-| Oost-Timor |
-| Sierra Leone |
-| Solomon Eilanden |
-| Somalië |
-| Zuid Soedan |
-| Sudan |
-| Syrië |
-| Togo |
-| Tuvalu |
-| Jemen |
-| West Bank & Gaza |
-| Zimbabwe |
+| Rangschikkingscriteria | Puntenaantal beoordeling | Wegingsfactor | Uitkomst (maximaal) | Uitkomst (maximaal) |
+| --- | --- | --- | --- | --- |
+| Opschaling: |   |   |   |   |
+| **A: Haalbaarheidsproject:** | maximaal 5 | 6 |   |   |
+| de mate waarin de haalbaarheidsstudie past in een ketenbenadering en bijdraagt aan mogelijkheden tot opschaling **B: Pilotproject:** de mate waarin na opschaling de potentie bestaat een grote of grotere groep lokale begunstigden te bereiken | minimaal 2 |   | 30 | 30 |
+| de mate waarin de haalbaarheidsstudie past in een ketenbenadering en bijdraagt aan mogelijkheden tot opschaling **B: Pilotproject:** de mate waarin na opschaling de potentie bestaat een grote of grotere groep lokale begunstigden te bereiken | minimaal 2 |   |   |   |
+| Duurzaamheid: |   |   |   |   |
+| A: Institutioneel | maximaal 5 minimaal 2 | 2 | 10 | 10 |
+| B: Technisch | maximaal 5 minimaal 2 | 2 | 10 | 10 |
+| C: Milieutechnisch | maximaal 5 minimaal 2 | 2 | 10 | 10 |
+| D: Krachtenbundeling | maximaal 5 minimaal 2 | 2 | 10 | 10 |
+| De mate waarin het project vernieuwende en innovatieve Nederlandse kennis en kunde op het gebied van waterveiligheid en waterzekerheid in Nederland of ook in het buitenland gevestigde partijen ontsluit | maximaal 5 minimaal 2 | 4 | 20 | 20 |
+| Kwaliteit van de aanvraag: | maximaal 5 minimaal 2 | 2 | 10 | 10 |
+| Totaal: (100) (Minimum score) |   |   | 100 (65) | 100 (65) |
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
