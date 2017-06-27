@@ -4,7 +4,7 @@ identifier: "BWBR0037685"
 country: "nl"
 rank: "wet"
 publication_date: "2017-06-27"
-last_updated: "2016-03-18"
+last_updated: "2017-06-27"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0037685"
 soort: "wet"
@@ -58,7 +58,7 @@ Wijzigt de Wet op de economische delicten.
 
 ##### Artikel IV
 
-Tot en met 17 maart 2018 is [artikel 2:3g](361709) niet van toepassing op bewaarders die voor 18 maart 2016 zijn aangesteld door een beheerder van een beleggingsinstelling of icbe.
+Op bewaarders die voor 18 maart 2016 zijn aangesteld door een beheerder van een beleggingsinstelling of icbe blijft, in uitzondering op het bepaalde bij of krachtens de [artikelen 2:3g](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:3g), [3:53](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:53) en [4:14, tweede lid, aanhef en onderdeel a, van de Wet op het financieel toezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=4:14), tot en met 17 maart 2018 van toepassing het bepaalde bij of krachtens de artikelen 3:53 en 4:14, tweede lid, aanhef en onderdeel a, van die wet, zoals die artikelen luidden op 17 maart 2016.
 
 ##### Artikel V
 
