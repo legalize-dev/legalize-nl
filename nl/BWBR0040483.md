@@ -4,7 +4,7 @@ identifier: "BWBR0040483"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2018-04-01"
-last_updated: "2016-01-01"
+last_updated: "2017-06-27"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0040483"
 soort: "ministeriele-regeling"
@@ -119,8 +119,6 @@ Dit onderdeel is nog niet inwerking getreden
 ##### Artikel XV
 
 Wijzigt de Wet op de belasting van personenauto's en motorrijwielen 1992.
-
-Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel XVI
 
