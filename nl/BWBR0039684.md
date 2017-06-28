@@ -4,7 +4,7 @@ identifier: "BWBR0039684"
 country: "nl"
 rank: "zbo"
 publication_date: "2017-06-28"
-last_updated: "2017-01-01"
+last_updated: "2017-06-28"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0039684"
 soort: "zbo"
@@ -66,14 +66,14 @@ In deze regeling wordt verstaan onder:
 
 ##### Artikel 2. Aanlevering gegevens
 
-De zorgverzekeraar levert de in het onderstaande schema bedoelde gegevens uiterlijk op de genoemde datum in 2017 aan. Voor de gegevens vierde kwartaalstaat is de aanleverdatum overeenkomstig onderstaand schema in 2018. De zorgverzekeraar dient de gegevens juist en volledig in bij het Zorginstituut onderscheidenlijk de NZa, met inachtneming van de formats en record lay-outs, bedoeld in [bijlagen 1 tot en met 8](https://wetten.overheid.nl/jci1.3:c:BWBR0039684&bijlage=1&z=2017-06-28&g=2017-01-01) van deze Regeling.
+De zorgverzekeraar levert de in het onderstaande schema bedoelde gegevens uiterlijk op de genoemde datum in 2017 aan. Voor de gegevens vierde kwartaalstaat is de aanleverdatum overeenkomstig onderstaand schema in 2018. De zorgverzekeraar dient de gegevens juist en volledig in bij het Zorginstituut onderscheidenlijk de NZa, met inachtneming van de formats en record lay-outs, bedoeld in [bijlagen 1 tot en met 8](https://wetten.overheid.nl/jci1.3:c:BWBR0039684&bijlage=1&z=2017-06-28&g=2017-06-28) van deze Regeling.
 
 | Wat? | Wanneer? | Aan wie? |
 | --- | --- | --- |
-| Het elektronische bestand jaarstaat [Zvw](https://wetten.overheid.nl/jci1.3:c:BWBR0018450) 2016, onderdeel A en C, met inachtneming van het format jaarstaat 2016, onderdelen A en C, en de record lay-out contractinformatie, bedoeld in respectievelijk [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0039684&bijlage=2&z=2017-06-28&g=2017-01-01) en [bijlage 4](https://wetten.overheid.nl/jci1.3:c:BWBR0039684&bijlage=4&z=2017-06-28&g=2017-01-01) van deze Regeling | 1 mei 2017 | Zorginstituut |
+| Het elektronische bestand jaarstaat [Zvw](https://wetten.overheid.nl/jci1.3:c:BWBR0018450) 2016, onderdeel A en C, met inachtneming van het format jaarstaat 2016, onderdelen A en C, en de record lay-out contractinformatie, bedoeld in respectievelijk [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0039684&bijlage=2&z=2017-06-28&g=2017-06-28) en [bijlage 4](https://wetten.overheid.nl/jci1.3:c:BWBR0039684&bijlage=4&z=2017-06-28&g=2017-06-28) van deze Regeling | 1 mei 2017 | Zorginstituut |
 | Jaarstaat [Zvw](https://wetten.overheid.nl/jci1.3:c:BWBR0018450) 2016, onderdeel A, inclusief bestuursverklaring en accountantsverklaring | 1 mei 2017 | NZa |
-| Het elektronische bestand HKC 2014 met inachtneming van het format HKC 2014 bedoeld in [bijlage 7](https://wetten.overheid.nl/jci1.3:c:BWBR0039684&bijlage=7&z=2017-06-28&g=2017-01-01) van deze Regeling en bestuursverklaring | 1 mei 2017 | Zorginstituut |
-| Het elektronische bestand kosten per verzekerde 2014 met inachtneming van de record lay-outs uitvraag 2017, risicoverevening, kosten per verzekerde 2014 bedoeld in [bijlage 5](https://wetten.overheid.nl/jci1.3:c:BWBR0039684&bijlage=5&z=2017-06-28&g=2017-01-01) van deze Regeling en bestuursverklaring | 1 mei 2017 | Zorginstituut |
+| Het elektronische bestand HKC 2014 met inachtneming van het format HKC 2014 bedoeld in [bijlage 7](https://wetten.overheid.nl/jci1.3:c:BWBR0039684&bijlage=7&z=2017-06-28&g=2017-06-28) van deze Regeling en bestuursverklaring | 1 mei 2017 | Zorginstituut |
+| Het elektronische bestand kosten per verzekerde 2014 met inachtneming van de record lay-outs uitvraag 2017, risicoverevening, kosten per verzekerde 2014 bedoeld in [bijlage 5](https://wetten.overheid.nl/jci1.3:c:BWBR0039684&bijlage=5&z=2017-06-28&g=2017-06-28) van deze Regeling en bestuursverklaring | 1 mei 2017 | Zorginstituut |
 | Het elektronische bestand kosten per verzekerde 2015 met inachtneming van de record lay-outs uitvraag 2017, risicoverevening, kosten per verzekerde 2015 bedoeld in bijlage 5 van deze Regeling en bestuursverklaring | 1 mei 2017 | Zorginstituut |
 | Het elektronische bestand farmaciegegevens 2016 met inachtneming van de record lay-outs uitvraag 2017, risicoverevening, farmaciegegevens 2016 bedoeld in bijlage 5 van deze Regeling | 1 juni 2017 | Zorginstituut |
 | Bestuursverklaring en assurance-rapport farmaciegegevens 2016 | 1 juni 2017 | NZa |
@@ -81,9 +81,9 @@ De zorgverzekeraar levert de in het onderstaande schema bedoelde gegevens uiterl
 | Bestuursverklaring en assurance-rapport hulpmiddelengegevens 2016 | 1 juni 2017 | NZa |
 | Het elektronische bestand DBC-gegevens 2015 met inachtneming van de record lay-outs uitvraag 2017, risicoverevening, DBC’s somatisch 2015 bedoeld in bijlage 5 van deze Regeling | 1 juni 2017 | Zorginstituut |
 | Bestuursverklaring en assurance-rapport DBC-gegevens 2015 | 1 juni 2017 | NZa |
-| Het elektronische bestand gegevens 2015 t.b.v. opbrengstverrekening met inachtneming van het format uitvraag 2017, Opbrengstverrekening bedoeld in [bijlage 8](https://wetten.overheid.nl/jci1.3:c:BWBR0039684&bijlage=8&z=2017-06-28&g=2017-01-01) van deze Regeling | 1 juni 2017 | Zorginstituut |
+| Het elektronische bestand gegevens 2015 t.b.v. opbrengstverrekening met inachtneming van het format uitvraag 2017, Opbrengstverrekening bedoeld in [bijlage 8](https://wetten.overheid.nl/jci1.3:c:BWBR0039684&bijlage=8&z=2017-06-28&g=2017-06-28) van deze Regeling | 1 juni 2017 | Zorginstituut |
 | Opgave gegevens 2015 t.b.v. opbrengstverrekening, inclusief bestuursverklaring en assurance-rapport | 1 juni 2017 | NZa |
-| De elektronische bestanden verzekerde periode en persoonskenmerken 2016 met inachtneming van de record lay-outs uitvraag 2017, risicoverevening, Verzekerde periode en persoonskenmerken 2016 bedoeld in bijlage 5 en het format in [bijlage 6](https://wetten.overheid.nl/jci1.3:c:BWBR0039684&bijlage=6&z=2017-06-28&g=2017-01-01) van deze Regeling | 1 juni 2017 | Zorginstituut |
+| De elektronische bestanden verzekerde periode en persoonskenmerken 2016 met inachtneming van de record lay-outs uitvraag 2017, risicoverevening, Verzekerde periode en persoonskenmerken 2016 bedoeld in bijlage 5 en het format in [bijlage 6](https://wetten.overheid.nl/jci1.3:c:BWBR0039684&bijlage=6&z=2017-06-28&g=2017-06-28) van deze Regeling | 1 juni 2017 | Zorginstituut |
 | Bestuursverklaring en assurance-rapport verzekerde periode en persoonskenmerken 2016 | 1 juni 2017 | NZa |
 | Het elektronische bestand persoonskenmerken 1 mei 2017 met inachtneming van de record lay-outs uitvraag 2017, risicoverevening, Persoonskenmerken 2017 bedoeld in bijlage 5 van deze Regeling | 1 juni 2017 | Zorginstituut |
 | Bestuursverklaring en assurance-rapport persoonskenmerken 1 mei 2017 | 1 juni 2017 | NZa |
@@ -98,7 +98,7 @@ De zorgverzekeraar levert de in het onderstaande schema bedoelde gegevens uiterl
 | Bestuursverklaring en assurance-rapport HKC 2014 | 22 september 2017 | NZa |
 | Het elektronische bestand kosten per verzekerde 2014 met inachtneming van de record lay-outs uitvraag 2017, risicoverevening, kosten per verzekerde 2014 bedoeld in bijlage 5 van deze Regeling | 22 september 2017 | Zorginstituut |
 | Bestuursverklaring en assurance-rapport kosten per verzekerde 2014 | 22 september 2017 | NZa |
-| Het elektronische bestand kwartaalstaat [Zvw](https://wetten.overheid.nl/jci1.3:c:BWBR0018450), onderdeel A en C, 1e, 2e,3e en 4e kwartaal 2017 met inachtneming van het format kwartaalstaat 2017, onderdelen A en C, en de record lay-out contractinformatie, bedoeld in respectievelijk [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0039684&bijlage=1&z=2017-06-28&g=2017-01-01) en [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0039684&bijlage=3&z=2017-06-28&g=2017-01-01) van deze Regeling | Respectievelijk 28 april 2017, 28 juli 2017, 28 oktober 2017 en 28 januari 2018 | Zorginstituut |
+| Het elektronische bestand kwartaalstaat [Zvw](https://wetten.overheid.nl/jci1.3:c:BWBR0018450), onderdeel A en C, 1e, 2e,3e en 4e kwartaal 2017 met inachtneming van het format kwartaalstaat 2017, onderdelen A en C, en de record lay-out contractinformatie, bedoeld in respectievelijk [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0039684&bijlage=1&z=2017-06-28&g=2017-06-28) en [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0039684&bijlage=3&z=2017-06-28&g=2017-06-28) van deze Regeling | Respectievelijk 28 april 2017, 28 juli 2017, 28 oktober 2017 en 28 januari 2018 | Zorginstituut |
 | Het elektronische bestand kwartaalstaat [Zvw](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&artikel=1) 1e kwartaal verzekerdenstanden 2017 met inachtneming van het format kwartaalstaat 2017, onderdeel A ‘Verzekerdenstanden naar leeftijd en geslacht’ bedoeld in bijlage 1 van deze Regeling en bestuursverklaring bij de maartstand | 7 maart 2017 | Zorginstituut |
 
 ##### Artikel 3. Pseudonimisering
