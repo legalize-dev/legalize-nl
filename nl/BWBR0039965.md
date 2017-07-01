@@ -319,39 +319,3 @@ Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte v
 Deze regeling wordt aangehaald als: Organisatie-, mandaat- en volmachtbesluit inspecteur-generaal SZW 2017.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
-
-##### Artikel 8a. Verantwoordelijkheden directeur Informatievoorziening
-
-De directeur Informatievoorziening is verantwoordelijk voor:
-
-- a. de regie op de strategische informatievoorziening in brede zin;
-
-- b. het voorzien in advies en beleid op het gebied van informatievoorziening, informatiehuishouding, data governance, integrale veiligheid en privacy;
-
-- c. het voorzien in advies op de gebieden informatiemanagement en businessconsultancy;
-
-- d. het ontwikkelen en leveren van informatie- en dataproducten;
-
-- e. het doen van analyse en onderzoek;
-
-- f. het voorzien in instrumenten en processen voor innovatie met data;
-
-- g. het beheer, de doorontwikkeling, de vernieuwing en de exploitatie van ICT-, informatie- en datavoorzieningen;
-
-- h. het leveren van IV-dienstverlening;
-
-- i. het coördineren van het procesmanagement;
-
-- j. het voorzien in leveranciersmanagement, contractmanagement en relatiebeheer ten behoeve van de informatievoorziening.
-
-#### § 4. Bevoegdheden
-
-##### Artikel 12a. Plaatsvervanging
-
-1. Bij afwezigheid of verhindering van de inspecteur-generaal worden, voor de duur van de afwezigheid of verhindering, de taken en bevoegdheden van de inspecteur-generaal geheel of gedeeltelijk waargenomen door een daartoe aan te wijzen plaatsvervanger.
-
-2. Bij afwezigheid of verhindering van zowel de inspecteur-generaal als de plaatsvervangend inspecteur-generaal worden, voor de duur van de afwezigheid, de taken en bevoegdheden van de inspecteur-generaal geheel of gedeeltelijk waargenomen door een daartoe door de inspecteur-generaal aan te wijzen directeur.
-
-#### § 5. Slotbepalingen
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
