@@ -4,7 +4,7 @@ identifier: "BWBR0020416"
 country: "nl"
 rank: "amvb"
 publication_date: "2025-01-01"
-last_updated: "2016-01-29"
+last_updated: "2017-07-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0020416"
 soort: "AMvB"
@@ -45,6 +45,8 @@ De Raad van State gehoord (advies van 19 mei 2006, No. W06.06.0134/IV);
 Gezien het nader rapport van Onze Minister van Financiën van 9 oktober 2006, nr. FM 2006-1299U;
 
 Hebben goedgevonden en verstaan:
+
+Treedt in werking op het tijdstip waarop de Wet op het financieel toezicht in werking treedt.
 
 ### Hoofdstuk 1. Begripsbepaling
 
@@ -296,7 +298,7 @@ Bij een melding als bedoeld in [artikel 5:43 van de wet](https://wetten.overheid
 
 ##### Artikel 9
 
-1. Bij een melding als bedoeld in [artikel 5:48 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=5:48) verstrekt de meldingsplichtige, onverminderd de [artikelen 5 tot en met 8](https://wetten.overheid.nl/jci1.3:c:BWBR0020416&hoofdstuk=3&paragraaf=3.2&artikel=5&z=2016-01-29&g=2016-01-29), de volgende gegevens:
+1. Bij een melding als bedoeld in [artikel 5:48 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=5:48) verstrekt de meldingsplichtige, onverminderd de [artikelen 5 tot en met 8](https://wetten.overheid.nl/jci1.3:c:BWBR0020416&hoofdstuk=3&paragraaf=3.2&artikel=5&z=2017-07-01&g=2017-07-01), de volgende gegevens:
 
 - a. de naam van de meldingsplichtige;
 
@@ -342,7 +344,7 @@ Bij een melding als bedoeld in [artikel 5:43 van de wet](https://wetten.overheid
 
 ##### Artikel 11
 
-De gegevens die ingevolge dit besluit bij een melding als bedoeld in de [artikelen 5:34](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=5:34), [5:35](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=5:35), [5:36](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=5:36), [5:38 tot en met 5:43](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=5:38), of [5:48 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=5:48) of [artikel 8b](https://wetten.overheid.nl/jci1.3:c:BWBR0020416&hoofdstuk=3&paragraaf=3.2&artikel=8b&z=2016-01-29&g=2016-01-29) of [8d](https://wetten.overheid.nl/jci1.3:c:BWBR0020416&hoofdstuk=3&paragraaf=3.2&artikel=8d&z=2016-01-29&g=2016-01-29) moeten worden verstrekt, worden verstrekt met gebruikmaking van door de Autoriteit Financiële Markten vast te stellen meldingsformulieren.
+De gegevens die ingevolge dit besluit bij een melding als bedoeld in de [artikelen 5:34](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=5:34), [5:35](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=5:35), [5:36](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=5:36), [5:38 tot en met 5:43](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=5:38), of [5:48 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=5:48) of [artikel 8b](https://wetten.overheid.nl/jci1.3:c:BWBR0020416&hoofdstuk=3&paragraaf=3.2&artikel=8b&z=2017-07-01&g=2017-07-01) of [8d](https://wetten.overheid.nl/jci1.3:c:BWBR0020416&hoofdstuk=3&paragraaf=3.2&artikel=8d&z=2017-07-01&g=2017-07-01) moeten worden verstrekt, worden verstrekt met gebruikmaking van door de Autoriteit Financiële Markten vast te stellen meldingsformulieren.
 
 ### Hoofdstuk 4. Regels met betrekking tot stemmen die kunnen worden uitgebracht door een dochtermaatschappij die vermogensbeheerder is
 
@@ -350,9 +352,9 @@ De gegevens die ingevolge dit besluit bij een melding als bedoeld in de [artikel
 
 ##### Artikel 12
 
-1. Ten behoeve van een melding als bedoeld in de [artikelen 5:38, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=5:38), en [5:39, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=5:39) wordt het aantal stemmen waarover iemand beschikt berekend op het totale nominale bedrag van de onderliggende aandelen van het financieel instrument, tenzij het financieel instrument uitsluitend recht geeft op een afwikkeling in contanten, in welk geval het aantal stemmen waarover iemand beschikt wordt berekend op naar delta gecorrigeerde basis door het nominale bedrag van de onderliggende aandelen te vermenigvuldigen met de delta van het financieel instrument.
+1. Ten behoeve van een melding als bedoeld in de [artikelen 5:38, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=5:38), en [5:39, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=5:39) wordt het aantal aandelen of het aantal stemmen waarover iemand beschikt berekend op het totale nominale bedrag van de onderliggende aandelen van het financieel instrument, tenzij het financieel instrument uitsluitend recht geeft op een afwikkeling in contanten, in welk geval het aantal aandelen of het aantal stemmen waarover iemand beschikt wordt berekend op naar delta gecorrigeerde basis door het nominale bedrag van de onderliggende aandelen te vermenigvuldigen met de delta van het financieel instrument.
 
-2. De berekening van het aantal stemmen, bedoeld in het eerste lid, voldoet aan de ingevolge artikel 13, eerste lid bis, van de richtlijn transparantie gestelde eisen.
+2. De berekening van het aantal stemmen, bedoeld in het eerste lid, voldoet aan de ingevolge artikel 13, eerste lid bis, van de richtlijn transparantie gestelde eisen. De berekening van het aantal aandelen, bedoeld in het eerste lid, geschiedt op overeenkomstige wijze.
 
 ### Hoofdstuk 5. Wijze van melden
 
@@ -430,7 +432,7 @@ Onder een korte periode als bedoeld in [artikel 5:46, eerste lid, aanhef, van de
 
 #### Bepaling ter uitvoering van de [artikelen 5:37](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=5:37), [5:44](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=5:44) en [5:48, tiende lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=5:48)
 
-### Hoofdstuk 6. Berekening van het aantal stemmen
+### Hoofdstuk 6. Berekening van het aantal aandelen of het aantal stemmen
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
 
